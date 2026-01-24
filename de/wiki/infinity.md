@@ -145,7 +145,7 @@ Yahweh betont weiterhin, dass alle Dinge im Universum, einschließlich der Erde,
 
 Der Abschnitt schließt damit, dass er sich gegen die Existenz eines bestimmten Gottes oder einer Seele ausspricht, angesichts der unendlichen Natur des Universums und dessen Fehlen eines zentralen Punktes. Jegliche Interaktion zwischen unendlich großen und unendlich kleinen Entitäten wird aufgrund des enormen Unterschieds in der Masse und der daraus resultierenden Diskrepanz im Fluss der Zeit für unmöglich gehalten. Die zugrunde liegende Botschaft betont die Bedeutung des Lebens im Einklang mit den unendlichen Dimensionen der Existenz und unseren Mitmenschen, um Glück auf unserer eigenen Existenzstufe zu erreichen.
 
-{{< figure src="/images/hubble-cosmic-web.jpg" alt="hubble-cosmic-web.jpg" caption="Künstlerische Darstellung mit dem Titel \"Das kosmische Netz\" von Volker Springel (Max-Planck-Institut für Astrophysik) et al. \"Bei der Gestaltung des Universums bildet die Schwerkraft eine riesige netzartige Struktur aus Fäden, die Galaxien und Galaxienhaufen über unsichtbare Brücken verbinden, die Hunderte Millionen von Lichtjahren lang sind. Dies wird als das kosmische Netz bezeichnet.\"" >}}
+{{ figure(src="timeline/hubble-cosmic-web", caption="Künstlerische Darstellung mit dem Titel \", alt="hubble-cosmic-web.jpg") }}
 
 Die Vorstellung von einem "großen Unterschied in der Masse und der daraus resultierenden Diskrepanz im Fluss der Zeit" legt nahe, dass die Erfahrung von Zeit relativ zur Skala oder Masse des Beobachters ist. Dies ist eine Idee, die in der Raëlian-Literatur präsentiert wird und als Gesetz der Massenzeit bezeichnet wird, aber es handelt sich nicht um ein Prinzip, das von der etablierten Physik anerkannt oder bisher validiert wurde.[^etabliert]
 
@@ -165,7 +165,7 @@ Zuletzt weist die Erwähnung des Lebens im Einklang mit "unseren Mitmenschen" au
 
 Zusammen betrachtet stellen diese Aussagen einen ganzheitlichen Ansatz zum Glück dar, der ein umfassendes Verständnis unseres Platzes im Universum umfasst, von der gewaltigen kosmischen Skala bis hin zur Winzigkeit atomarer Strukturen, sowie die Bedeutung der menschlichen Verbindung und Gemeinschaft.
 
-{{< figure src="/images/muse-deep-space.jpg" alt="muse-deep-space.jpg" caption="Dies ist eine kosmologische Simulation des fernen Universums (2021). Das Bild zeigt das von Wasserstoffatomen im kosmischen Netz ausgestrahlte Licht in einer Region von etwa 15 Millionen Lichtjahren Durchmesser, basierend auf astronomischen Daten, die vom Very Large Telescope (VLT) gesammelt wurden, einer Einrichtung des Europäischen Südsternwarte auf dem Cerro Paranal in der Atacama-Wüste im Norden Chiles." >}}
+{{ figure(src="timeline/muse-deep-space", caption="Dies ist eine kosmologische Simulation des fernen Universums (2021). Das Bild zeigt das von Wasserstoffatomen im kosmischen Netz ausgestrahlte Licht in einer Region von etwa 15 Millionen Lichtjahren Durchmesser, basierend auf astronomischen Daten, die vom Very Large Telescope (VLT) gesammelt wurden, einer Einrichtung des Europäischen Südsternwarte auf dem Cerro Paranal in der Atacama-Wüste im Norden Chiles.", alt="muse-deep-space.jpg") }}
 
 In der Raëlianischen Philosophie, wie sie in ihrem zweiten kanonischen Buch "Außerirdische brachten mich auf ihren Planeten" (1976) erläutert wird, wird eine spezifische Anleitung gegeben, wie Situationen wahrgenommen und bewertet werden sollen. Diese Anleitung wird durch die [Vier Ebenen der Betrachtung](../../wiki/four-levels-of-consideration/) ausgedrückt:
 

@@ -9,7 +9,7 @@ aliases = ["/intro/wheel-of-heaven/"]
 
 [extra]
 category = "Origins"
-header_image = "/images/essentials/wheel-of-heaven-background.avif"
+header_image_cdn = "og/wheel-of-heaven-background"
 featured = true
 order = 1
 

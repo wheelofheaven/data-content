@@ -11,7 +11,7 @@ Einfach ausgedrückt, schlägt diese Seite vor, dass die Ursprünge von intellig
 
 Bei Wheel of Heaven zielen wir darauf ab, diese Hypothese nicht nur zu fördern, sondern laden auch alle Besucher ein, sich in einer faszinierenden und fragenden Erforschung der vorgestellten Möglichkeiten zu engagieren. Jeder ist willkommen, die auf der Seite dargelegten Prämissen zu berücksichtigen und seine eigenen Gedanken und Ideen beizutragen, um die Erzählung zu erweitern und zu bereichern.
 
-{{< figure src="images/sunset-man-on-hill.png" caption="Abb. 1 - Beobachtung des sternbedeckten Sonnenuntergangs" >}}
+{{ figure(src="wiki/sunset-man-on-hill", caption="Abb. 1 - Beobachtung des sternbedeckten Sonnenuntergangs") }}
 
 ## Was Sie finden werden
 

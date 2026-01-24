@@ -18,7 +18,7 @@ Voici le lien : Selon l'[hypothèse de Wheel of Heaven](../../essentials/elohim-
 
 [^1]: Jurassic Park est un film qui a été réalisé par Steven Spielberg, mais il est en fait basé sur un roman du même nom de Michael Crichton. Le livre a été publié pour la première fois en 1990, et il raconte l'histoire d'un parc à thème peuplé de dinosaures génétiquement modifiés. Le livre explore les implications éthiques et scientifiques du génie génétique, ainsi que les dangers de jouer avec la nature. L'adaptation cinématographique de "Jurassic Park" est sortie en 1993 et a connu un énorme succès. Le film a fait connaître l'histoire du roman à un public plus large et a introduit beaucoup de gens au concept de dinosaures génétiquement modifiés. Bien que l'adaptation cinématographique de Jurassic Park diffère par certains aspects du roman, elle reste fidèle aux thèmes du livre et explore bon nombre des mêmes questions éthiques et scientifiques. Voir ici pour plus d'informations : [Jurassic Park (novel) | Wikipedia](https://en.wikipedia.org/wiki/Jurassic_Park_(novel))
 
-{{< figure src="images/saurian-experiments.png" caption="Ill. 1 - Expérience de laboratoire génétique qui a mal tourné" >}}
+{{ figure(src="wiki/saurian-experiments", caption="Ill. 1 - Expérience de laboratoire génétique qui a mal tourné") }}
 
 ## Il était une fois
 
@@ -85,7 +85,7 @@ La Terre, une planète stérile mais matérielle dépourvue de vie, s'est avér�
 [^7]: La synthèse de novo des gènes est un processus où une séquence d'ADN est créée artificiellement à partir de zéro, sans besoin d'un modèle d'ADN existant. Essentiellement, c'est comme écrire un nouveau code génétique à partir de zéro. Voir plus : [Synthèse de novo](https://en.wikipedia.org/wiki/De_novo_synthesis)
 [^8]: Dans le film Jurassic World (2015), l'idée des voyages spatiaux est brièvement mentionnée comme une activité concurrente des parcs à thème de dinosaures. Le film se déroule environ 22 ans après les événements du Jurassic Park original, et il dépeint un parc à thème de dinosaures entièrement opérationnel appelé Jurassic World. Le personnage qui suggère l'attraction à thème spatial note que les gens sont maintenant plus intéressés par les voyages spatiaux que par la vue des dinosaures. Cette idée reflète l'évolution des intérêts et des priorités de la société au fil du temps.
 
-{{< figure src="images/archaic-blue-planet.png" caption="Ill. 2 - Planète bleue archaïque" >}}
+{{ figure(src="wiki/archaic-blue-planet", caption="Ill. 2 - Planète bleue archaïque") }}
 
 ## L'économie de la science
 
@@ -101,7 +101,7 @@ La coalition d'entreprises qui étaient responsables de l'amélioration des cond
 
 Néanmoins, la richesse du pouvoir générée par les bénéfices du génie génétique a probablement eu un impact direct sur la façon dont la civilisation Élohimiennes finançait et allouait des ressources à la cause de l'exploration spatiale. L'affinité partagée par ces deux causes est fortement propice à l'idée que des agents similaires, pour ne pas dire des individus, ont dû contribuer à ces deux causes.
 
-{{< figure src="images/futuristic-city-with-tower.png" caption="Ill. 3 - Paysage urbain civilisateur avancé" >}}
+{{ figure(src="wiki/futuristic-city-with-tower", caption="Ill. 3 - Paysage urbain civilisateur avancé") }}
 
 ## L'Éternel
 

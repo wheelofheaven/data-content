@@ -35,7 +35,7 @@ It can be inferred that the Elohim faction banished to Earth, including the grou
 
 This suggests that the Serpent and the banished Elohim faction had a moral code that placed a high value on the pursuit of knowledge and the advancement of civilization, even if it meant challenging the established order and risking their own well-being. They believed in the potential of humanity to reach their level of knowledge and saw themselves as mentors and guides to help them achieve this goal. This is in contrast to the moral code of the Elohim government, which placed a high value on maintaining control over their population and preventing the dissemination of dangerous knowledge.
 
-{{< figure src="images/circular-city-seen-from-the-sky.png" caption="Ill. 1 - Circular megalopolis seen from the sky" >}}
+{{ figure(src="wiki/circular-city-seen-from-the-sky", caption="Ill. 1 - Circular megalopolis seen from the sky") }}
 
 ## The Preservation Project
 
@@ -54,7 +54,7 @@ The preservation project would have involved collecting a single living cell of 
 
 One possibility is that the genetic material was cryogenically preserved, which involves freezing the material at very low temperatures to slow down its metabolic processes and prevent decay. Another possibility is that the genetic material was stored in a highly stable and protected environment, such as within a specially designed container or within the structure of the spaceship itself. It is important to note that the details of how the preservation project was actually carried out are not provided in the passage, so any explanations would be speculative. However, the passage suggests that the exiled creators had all the necessary knowledge and technology that enabled them to undertake this monumental task.
 
-{{< figure src="images/vehicle-in-snowy-landscape.png" caption="Ill. 2 - Guarding groups collecting genetic material all over the world" >}}
+{{ figure(src="wiki/vehicle-in-snowy-landscape", caption="Ill. 2 - Guarding groups collecting genetic material all over the world") }}
 
 > The spacecraft had three sections:
 >
@@ -62,7 +62,7 @@ One possibility is that the genetic material was cryogenically preserved, which 
 
 This passage clearly reiterates that the ark was indeed a spacecraft, and needed to be constructed in a predefined manner based on blueprints provided by the banished Elohim, with the instruction to make it with three sections or floors: a lower section, a second section, and a third section. This is consistent with the idea that the ark was not just a wooden boat, but a technologically advanced spacecraft designed to preserve genetic material and sustain life during a catastrophic event.
 
-{{< figure src="images/man-standing-on-cliff-overseeing-spacecraft.png" caption="Ill. 1 - Guarding groups collecting genetic material all over the world" >}}
+{{ figure(src="wiki/man-standing-on-cliff-overseeing-spacecraft", caption="Ill. 1 - Guarding groups collecting genetic material all over the world") }}
 
 ## The Great Flood
 
@@ -74,7 +74,7 @@ The [Great Flood](../../wiki/great-flood/) was a cataclysmic event that caused a
 
 As the floodwaters receded, they left behind massive sedimentary deposits, which only over a few months or years, turned into solid rock formations. The shifting of tectonic plates, caused by the catastrophic event, also resulted in the creation of mountain ranges and the breakup of the original supercontinent, Pangaea. The movement of the plates and the resulting collisions caused intense pressure and wolding of the Earth's crust, leading to the formation of mountain ranges such as the Himalayas, the Andes or even the Alps. The layers of sedimentary rock formations that were deposited during the Great Flood can also be seen as evidence of the event. The distinct layers represent different periods of time, and the fossils found within them provide clues about the types of creatures that existed during each period.
 
-{{< figure src="images/projectile-impact-on-earth.png" caption="Ill. 3 - Cosmic impact causing Earth-wide cataclysmic mass-extinction event" >}}
+{{ figure(src="wiki/projectile-impact-on-earth", caption="Ill. 3 - Cosmic impact causing Earth-wide cataclysmic mass-extinction event") }}
 
 >> The ark... was lift up above the earth. Genesis 7: 17.
 >
@@ -84,7 +84,7 @@ The passage highlights that the ark was lifted "above" the earth and not "on" th
 
 It is noteworthy, that there are reasons to believe that the Great Flood happened around 6'000 BC when the Sun was rising in the house of Gemini during the vernal equinox, aligning with Castor, one of the majors star (which actually consists of multiple stars) of the constellation.
 
-{{< figure src="images/ark-in-orbit.png" caption="Ill. 4 - Ark spacecraft in safe orbital space" >}}
+{{ figure(src="wiki/ark-in-orbit", caption="Ill. 4 - Ark spacecraft in safe orbital space") }}
 
 ## Reseeding
 

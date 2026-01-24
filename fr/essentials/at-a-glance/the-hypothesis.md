@@ -21,7 +21,7 @@ Alors que nous continuons à repousser les limites de notre connaissance, l'hypo
 
 En prolongeant l'hypothèse raëlienne, Wheel of Heaven cherche à inspirer une enquête plus approfondie, un débat et une réflexion sur les mystères de nos origines et la destinée potentielle qui nous attend en tant que civilisation spatiale. En faisant cela, nous espérons susciter un sentiment d'émerveillement et de curiosité sur les possibilités infinies qui peuvent nous attendre alors que nous continuons notre voyage à travers le cosmos.
 
-{{< figure src="images/spacecraft-in-orbit.png" caption="Ill. 1 - Vaisseau spatial en orbite" >}}
+{{ figure(src="wiki/spacecraft-in-orbit", caption="Ill. 1 - Vaisseau spatial en orbite") }}
 
 ## Où cela nous mène
 

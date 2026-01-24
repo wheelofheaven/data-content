@@ -11,7 +11,7 @@ Con los avances continuos en los viajes espaciales y la ingeniería genética, s
 
 Reconocemos que algunos críticos pueden acusarnos de seleccionar hechos o tergiversar conclusiones especulativas. Sin embargo, nos esforzamos por mantener la honestidad y transparencia en nuestra presentación de los fundamentos de la narrativa. Sostenemos que la imagen emergente será evidente por sí misma una vez que se realice completamente.
 
-{{< figure src="images/monolithic-base-in-snow.png" caption="Ilustración 1 - Estructura monolítica cubierta de nieve" >}}
+{{ figure(src="wiki/monolithic-base-in-snow", caption="Ilustración 1 - Estructura monolítica cubierta de nieve") }}
 
 ## Los cuatro pilares
 

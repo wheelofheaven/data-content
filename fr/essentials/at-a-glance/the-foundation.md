@@ -11,7 +11,7 @@ Avec les avancées continues dans les voyages spatiaux et le génie génétique,
 
 Nous reconnaissons que certains critiques peuvent nous accuser de trier les faits ou de déformer des conclusions spéculatives. Cependant, nous nous efforçons de maintenir l'honnêteté et la transparence dans notre présentation des fondations du récit. Nous soutenons que l'image émergente sera évidente une fois qu'elle sera pleinement réalisée.
 
-{{< figure src="images/monolithic-base-in-snow.png" caption="Ill. 1 - Structure monolithique couverte de neige" >}}
+{{ figure(src="wiki/monolithic-base-in-snow", caption="Ill. 1 - Structure monolithique couverte de neige") }}
 
 ## Les quatre piliers
 

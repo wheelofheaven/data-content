@@ -7,7 +7,7 @@ image = "antidiluvian-queen-on-throne.png"
 weight = 235
 +++
 
-{{< figure src="images/equinox_bc8850.png" caption="Fig. 1 - Vernal equinox in 8850 BC" >}}
+{{ figure(src="timeline/equinox_bc8850", caption="Fig. 1 - Vernal equinox in 8850 BC") }}
 
 The Age of Cancer lasts from –8'850 to –6'690 and follows the Age of Leo which lasted up to –8'850.
 
@@ -41,7 +41,7 @@ The humans' anger at their "parents" for keeping them away from scientific books
 
 Alternatively, the humans' anger could have turned inward, as they began to question their own place in the world and their purpose as creations. This could have led to a sense of alienation or despair, as the humans struggled to reconcile their newfound awareness with their previously limited understanding of their own existence. The realization of their own potential as creators could have had far-reaching consequences for the humans and their relationship with the Elohim, potentially setting the stage for a complex and fraught dynamic between these two groups.
 
-{{< figure src="images/modern-urban-landscape.png" caption="Ill. 1 - Modern looking urban landscape in front of large pond" >}}
+{{ figure(src="wiki/modern-urban-landscape", caption="Ill. 1 - Modern looking urban landscape in front of large pond") }}
 
 ## The Serpent
 
@@ -77,7 +77,7 @@ The idea that the people of Israel were selected as the most successful humanoid
 
 One example of the Jewish people's intellectual contributions to human civilization can be seen in the field of science. Despite their relatively small population, Jews have made significant contributions to many branches of science, including physics, chemistry, biology, and mathematics. Some of the most famous scientists in history were Jewish, including Albert Einstein, Niels Bohr, and Robert Oppenheimer. In addition to science, Jewish thinkers and writers have also played an important role in shaping human thought and culture. The Hebrew Bible, for example, has been tremendously influential in the development of Western civilization, and has inspired countless works of literature, art, and music. Jewish philosophers such as Maimonides and Spinoza have also had a significant impact on human thought, and continue to be studied and debated to this day.
 
-{{< figure src="images/antidiluvian-queen-on-throne.png" caption="Ill. 2 - Antidiluvian queen on golden throne" >}}
+{{ figure(src="wiki/antidiluvian-queen-on-throne", caption="Ill. 2 - Antidiluvian queen on golden throne") }}
 
 ## Safeguarding the secrets
 
@@ -90,7 +90,7 @@ Yahweh states that after the humans ate from the Tree of Knowledge, they were ba
 
 It is suggested that the Elohim created human beings to be like them, but were concerned about the potential dangers of giving them access to their advanced scientific knowledge and the ability to extend life span (Tree of Life). The Elohim may have seen themselves as responsible stewards of this knowledge and wanted to ensure that it was not used irresponsibly or for destructive purposes. The Elohim who were banished to Earth after being condemned by their home planet's government for wanting to give their human creations access to scientific knowledge were terrestrial keepers of that knowledge. This may have made them even more cautious about protecting their knowledge and keeping it from their human creations. The soldiers with advanced weaponry guarding the entrance to their residence can be seen as a measures of the Elohim government's determination to protect their knowledge at all costs.
 
-{{< figure src="images/soldiers-in-front-of-silos.png" caption="Ill. 3 - Defense equipment in front of silos" >}}
+{{ figure(src="wiki/soldiers-in-front-of-silos", caption="Ill. 3 - Defense equipment in front of silos") }}
 
 ## Chimera
 
@@ -120,7 +120,7 @@ Let's make a small paranthesis here: The story in the Book of Enoch, an ancient 
 
 The parallels between the story in the Book of Enoch and the passage in Genesis 6:1-2 are striking, as both describe a situation in which supernatural beings take human women as wives and give birth to a new hybrid race of beings. In the Book of Enoch, the "sons of God" are explicitly identified as fallen beings, whereas in Genesis they are simply referred to as "sons of Elohim," a term which can be interpreted in various ways. The Enochian account is more precise in the sense that it tells us that there's a specific subset of the Elohimian species that were having children of the Human species. The classifier used is "fallen"[^2] which refers to the banished Elohim on planet Earth, clearly delimiting them from the remainder of the Elohimian civilization.
 
-{{< figure src="images/people-standing-over-golden-floor.png" caption="Ill. 4 - Group of individuals standing on golden floor" >}}
+{{ figure(src="wiki/people-standing-over-golden-floor", caption="Ill. 4 - Group of individuals standing on golden floor") }}
 
 [^1]: The phrase "Sons of Man" is a metaphorical or figurative expression. The word "of Man" refers to humanity as a whole, and "sons" emphasizes the shared human experience and identity. In contemporary usage, the phrase "Sons of Man" is not commonly used in everyday language. Instead, people tend to use terms such as "humanity," "people," or "humankind." In the same vein, the "Sons of God" refers to the entirety of the God-kind. If we use the original Hebrew term Elohim instead of God, we would refer the entirety of the Elohim-kind in these archaic terms as the "Sons of Elohim".
 
@@ -152,7 +152,7 @@ During the second encounter with Yahweh, witnessed in the the second book "Extra
 
 Yahweh reveals that the Jews are direct descendants of the Elohim who mated with their scientific creations, the daughters of men, as mentioned in Genesis. The Jews, therefore, have a specific destiny reserved for them because of their direct lineage to the Elohim. This revelation suggests that the relationship between the Elohim and their human creations was complex and intertwined, with significant consequences for human history and the fate of the Jewish people.
 
-{{< figure src="images/pyramid-shaped-energy-structure.png" caption="Ill. 5 - Landmark structure emitting bright beam into the sky" >}}
+{{ figure(src="wiki/pyramid-shaped-energy-structure", caption="Ill. 5 - Landmark structure emitting bright beam into the sky") }}
 
 ## Seventh day of creation
 

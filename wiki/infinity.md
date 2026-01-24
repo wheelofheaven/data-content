@@ -151,7 +151,7 @@ Yahweh further emphasizes that all things in the universe, including the Earth, 
 
 The passage concludes by arguing against the existence of any specific god or soul, given the infinite nature of the universe and its lack of a central point. Any interaction between infinitely large and infinitely small entities is deemed impossible due to the vast difference in mass and consequent discrepancy in the flow of time. The underlying message stresses the importance of living in harmony with the infinite dimensions of existence and fellow human beings for achieving happiness at our own level of existence.
 
-{{< figure src="/images/hubble-cosmic-web.jpg" alt="hubble-cosmic-web.jpg" caption="Artistic rendering titled \"The Cosmic Web\" by Volker Springel (Max Planck Institute for Astrophysics) et al. \"In shaping the Universe, gravity builds a vast cobweb-like structure of filaments tying galaxies and clusters of galaxies together along invisible bridges hundreds of millions of light-years long. This is known as the cosmic web.\"" >}}
+{{ figure(src="timeline/hubble-cosmic-web", caption="Artistic rendering titled \", alt="hubble-cosmic-web.jpg") }}
 
 The concept of the "vast difference in mass and consequent discrepancy in the flow of time" suggests that the experience of time is relative to the scale or mass of the observer. This is an idea presented in the Raëlian literature, coined as the Law of Masstime, though it's not a principle that has been recognized nor validated by mainstream physics as of today.[^mainstream]
 
@@ -171,7 +171,7 @@ Lastly, the reference to living in harmony with "our fellow human beings" sugges
 
 These statements together present a holistic approach to happiness that encompasses a comprehensive understanding of our place in the universe, from the grandest cosmic scale to the minutiae of atomic structures, along with the importance of human connection and community.
 
-{{< figure src="/images/muse-deep-space.jpg" alt="muse-deep-space.jpg" caption="This is a cosmological simulation of the distant universe (2021). The image shows the light emitted by hydrogen atoms in the cosmic web in a region roughly 15 million light-years across, using astronomical data gathered by the The Very Large Telescope (VLT), a facility operated by the European Southern Observatory, located on Cerro Paranal in the Atacama Desert of northern Chile." >}}
+{{ figure(src="timeline/muse-deep-space", caption="This is a cosmological simulation of the distant universe (2021). The image shows the light emitted by hydrogen atoms in the cosmic web in a region roughly 15 million light-years across, using astronomical data gathered by the The Very Large Telescope (VLT), a facility operated by the European Southern Observatory, located on Cerro Paranal in the Atacama Desert of northern Chile.", alt="muse-deep-space.jpg") }}
 
 In the Raëlian philosophy, as elaborated in their second canonical book "Extraterrestrials Took Me To Their Planet" (1976), a specific guidance is provided on how to perceive and assess situations. This guidance is expressed through the [Four Levels of Consideration](../four-levels-of-consideration.md/):
 

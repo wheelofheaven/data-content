@@ -18,7 +18,7 @@ Hier ist die Verbindung: Nach der [Wheel of Heaven Hypothese](../../essentials/e
 
 [^1]: Jurassic Park ist ein Film, der von Steven Spielberg inszeniert wurde, aber tatsächlich auf einem Roman mit dem gleichen Namen von Michael Crichton basiert. Das Buch wurde erstmals 1990 veröffentlicht und erzählt die Geschichte eines Themenparks, der von gentechnisch veränderten Dinosauriern bevölkert ist. Das Buch erforscht die ethischen und wissenschaftlichen Implikationen der Gentechnik sowie die Gefahren des Spielens mit der Natur. Die Verfilmung von "Jurassic Park" wurde 1993 veröffentlicht und war ein großer Erfolg. Der Film brachte die Geschichte des Romans einem breiteren Publikum nahe und führte viele Menschen in das Konzept der gentechnisch veränderten Dinosaurier ein. Obwohl die Verfilmung von Jurassic Park in einigen Punkten vom Roman abweicht, bleibt sie den Themen des Buches treu und erforscht viele der gleichen ethischen und wissenschaftlichen Fragen. Weitere Informationen finden Sie hier: [Jurassic Park (Roman) | Wikipedia](https://de.wikipedia.org/wiki/Jurassic_Park_(Roman))
 
-{{< figure src="images/saurian-experiments.png" caption="Abb. 1 - Fehlgeschlagenes genetisches Laborexperiment" >}}
+{{ figure(src="wiki/saurian-experiments", caption="Abb. 1 - Fehlgeschlagenes genetisches Laborexperiment") }}
 
 ## Es war einmal
 
@@ -87,7 +87,7 @@ Die Erde, ein karger aber materieller Planet, frei von Leben, erwies sich als di
 [^7]: De-novo-Gensynthese ist ein Prozess, bei dem eine DNA-Sequenz künstlich aus dem Nichts erstellt wird, ohne dass eine bestehende DNA-Vorlage benötigt wird. Im Grunde genommen ist es, als würde man einen neuen genetischen Code von Grund auf neu schreiben. Siehe mehr: [De-novo-Synthese](https://de.wikipedia.org/wiki/De-novo-Synthese)
 [^8]: Im Film Jurassic World (2015) wird die Idee der Raumfahrt kurz als konkurrierendes Geschäft von Dinosaurier-Themenparks erwähnt. Der Film spielt etwa 22 Jahre nach den Ereignissen des originalen Jurassic Park und zeigt einen voll funktionsfähigen Dinosaurier-Themenpark namens Jurassic World. Die Figur, die die Raumfahrtattraktion vorschlägt, merkt an, dass die Menschen mittlerweile mehr an Raumfahrt als an Dinosauriern interessiert sind. Diese Idee spiegelt die sich im Laufe der Zeit verändernden Interessen und Prioritäten der Gesellschaft wider. **Mehr dazu hier:** [Resources › Jurassic World](../../library/jurassic-world/index/)
 
-{{< figure src="images/archaic-blue-planet.png" caption="Ill. 2 - Archaischer blauer Planet" >}}
+{{ figure(src="wiki/archaic-blue-planet", caption="Ill. 2 - Archaischer blauer Planet") }}
 
 ## Die Ökonomie der Wissenschaft
 
@@ -103,7 +103,7 @@ Die Koalition von Unternehmen, die für die Verbesserung der Lebensbedingungen f
 
 Dennoch dürfte der durch die Vorteile der Gentechnik erzeugte Machtreichtum einen direkten Einfluss darauf gehabt haben, wie die Elohim-Zivilisation die Finanzierung und Zuteilung von Ressourcen für die Raumfahrt betrieben hat. Die Affinität, die beide Ursachen teilen, unterstützt stark die Idee, dass ähnliche Akteure, um nicht zu sagen Einzelpersonen, zu beiden diesen Ursachen beigetragen haben müssen.
 
-{{< figure src="images/futuristic-city-with-tower.png" caption="Ill. 3 - Fortgeschrittene städtische Zivilisationslandschaft" >}}
+{{ figure(src="wiki/futuristic-city-with-tower", caption="Ill. 3 - Fortgeschrittene städtische Zivilisationslandschaft") }}
 
 ## Der Ewige
 

@@ -18,7 +18,7 @@ Aquí está la conexión: Según la [hipótesis de Wheel of Heaven](../../essent
 
 [^1]: Jurassic Park es una película que fue dirigida por Steven Spielberg, pero en realidad está basada en una novela del mismo nombre de Michael Crichton. El libro fue publicado por primera vez en 1990, y cuenta la historia de un parque temático que está poblado por dinosaurios genéticamente modificados. El libro explora las implicaciones éticas y científicas de la ingeniería genética, así como los peligros de jugar con la naturaleza. La adaptación cinematográfica de "Jurassic Park" se estrenó en 1993, y fue un gran éxito. La película llevó la historia de la novela a un público más amplio e introdujo a muchas personas al concepto de dinosaurios genéticamente modificados. Aunque la adaptación cinematográfica de Jurassic Park difiere en algunos aspectos de la novela, se mantiene fiel a los temas del libro y explora muchas de las mismas cuestiones éticas y científicas. Para más información, véase aquí: [Jurassic Park (novel) | Wikipedia](https://en.wikipedia.org/wiki/Jurassic_Park_(novel))
 
-{{< figure src="images/saurian-experiments.png" caption="Il. 1 - Experimento de laboratorio genético salió mal" >}}
+{{ figure(src="wiki/saurian-experiments", caption="Il. 1 - Experimento de laboratorio genético salió mal") }}
 
 ## Había una vez
 
@@ -85,7 +85,7 @@ La Tierra, un planeta estéril pero material, desprovisto de vida, resultó ser 
 [^7]: La síntesis de genes de novo es un proceso en el que una secuencia de ADN se crea artificialmente desde cero, sin necesidad de una plantilla de ADN existente. Esencialmente, es como escribir un nuevo código genético desde cero. Ver más: [Síntesis de novo](https://en.wikipedia.org/wiki/De_novo_synthesis)
 [^8]: En la película Mundo Jurásico (2015), la idea de los viajes espaciales se menciona brevemente como un negocio en competencia con los parques temáticos de dinosaurios. La película se desarrolla unos 22 años después de los eventos del Parque Jurásico original, y representa un parque temático de dinosaurios totalmente operativo llamado Mundo Jurásico. El personaje que sugiere la atracción temática del espacio señala que las personas ahora están más interesadas en los viajes espaciales que en ver dinosaurios. Esta idea refleja los intereses y prioridades cambiantes de la sociedad con el tiempo.
 
-{{< figure src="images/archaic-blue-planet.png" caption="Il. 2 - Planeta azul arcaico" >}}
+{{ figure(src="wiki/archaic-blue-planet", caption="Il. 2 - Planeta azul arcaico") }}
 
 ## La economía de la ciencia
 
@@ -101,7 +101,7 @@ La coalición de empresas que fueron responsables de mejorar las condiciones de 
 
 No obstante, la riqueza del poder generada a partir de los beneficios de la ingeniería genética muy probablemente ha tenido un impacto directo en cómo la civilización Elohimiana financiaba y asignaba recursos a la causa de la exploración espacial. La afinidad compartida por ambas causas es fuertemente propicia a la idea de que agentes similares, por no decir individuos, deben haber contribuido a ambas causas.
 
-{{< figure src="images/futuristic-city-with-tower.png" caption="Il. 3 - Paisaje urbano civilizatorio avanzado" >}}
+{{ figure(src="wiki/futuristic-city-with-tower", caption="Il. 3 - Paisaje urbano civilizatorio avanzado") }}
 
 ## El Eterno
 

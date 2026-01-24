@@ -11,7 +11,7 @@ weight = 110
 
 Wheel of Heavenでは、この仮説を推進するだけでなく、訪問者全員に可能性を探求し、興味深く問い探す探検に参加するように誘っています。サイト上で示された前提を考慮に入れ、自身の思考やアイデアを提供することで、物語を広げ、豊かにするのに協力することを歓迎します。
 
-{{< figure src="images/sunset-man-on-hill.png" caption="図1 - 星蓋の日没を見つめる" >}}
+{{ figure(src="wiki/sunset-man-on-hill", caption="図1 - 星蓋の日没を見つめる") }}
 
 ## ここで見つけるもの
 

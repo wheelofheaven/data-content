@@ -15,7 +15,7 @@ En términos simples, el ciclo de 25,920 años se divide en 12 segmentos, cada u
 
 Aunque la elección de comenzar la Cronología con la Era de Capricornio puede parecer arbitraria, las razones detrás de esta decisión se elaboran en el capítulo anterior, [Preámbulo # Había una vez](../../timeline/preamble/#once-upon-a-time/). En el capítulo anterior, también aprendimos que justo al comienzo de la Era Capricorniana, los [Elohim](../../wiki/elohim/), una civilización extraterrestre, llegaron a la Tierra. Motivados por un incidente trágico que involucraba la fuga de uno de sus experimentos genéticos, que resultó en la pérdida de vidas Elohimianas y la cesación de esa rama de investigación en su planeta natal, los Elohim buscaron nuevas fronteras interestelares. Persiguiendo la exploración interplanetaria e interestelar, los investigadores eventualmente eligieron la Tierra, un exoplaneta, como su frontera para la investigación genética.
 
-{{< figure src="images/equinox_bc21810.png" caption="Fig. 1 - Equinoccio vernal en 21'810 a.C. visto desde la superficie de la Tierra" >}}
+{{ figure(src="timeline/equinox_bc21810", caption="Fig. 1 - Equinoccio vernal en 21'810 a.C. visto desde la superficie de la Tierra") }}
 
 ## Rastros de verdad
 
@@ -54,7 +54,7 @@ Estas personas extraterrestres que descubrieron la Tierra reconocieron que conte
 
 El hecho de que la Tierra tuviera una atmósfera diferente[^5] al planeta natal de estos científicos es significativo porque sugiere que estos seres extraterrestres no podían adaptarse biológicamente a diferentes entornos y tuvieron que considerar la creación de vida que fuera compatible con las condiciones atmosféricas de la Tierra. El hecho de que la Tierra tuviera una atmósfera diferente al planeta natal de los científicos se suma a la idea de que la creación de vida en la Tierra fue un proceso deliberado y altamente planificado.
 
-{{< figure src="images/interstellar-space-travel.png" caption="Il. 1 - Viaje espacial interestelar" >}}
+{{ figure(src="wiki/interstellar-space-travel", caption="Il. 1 - Viaje espacial interestelar") }}
 
 [^1]: La palabra "Dios" tiene sus raíces en el paganismo germánico y en el antiguo inglés, donde el término "god" se refería a una deidad o ser supremo. La palabra germánica "gudan" significaba "invocar", y la palabra antigua en inglés "god" probablemente se desarrolló a partir de esta raíz. La palabra "Dios" también está relacionada con la palabra latina "Deus", que significa "dios" o "deidad". Esta palabra latina tiene sus raíces en la palabra protoindoeuropea "dyeus". El nombre divino Dyēus deriva del tallo dyeu-, que denota el "cielo diurno" o el "brillo del día" (en contraste con la oscuridad de la noche), finalmente de la raíz *di o dei- ("brillar, ser brillante").
 [^2]: La palabra Elohim proviene del hebreo bíblico ʾélôhím (<span class="hebrew">אֱלֹהִים / אֱלוֹהִים</span>), que es la forma plural de ʾélôah (<span class="hebrew">אֱלוֹהַּ</span>). Este término es una forma ampliada de ʾēl (<span class="hebrew">אֵל</span>), cuya raíz semítica es ʾlh o ʾl. Elohim en sí es un cognado del antiguo término acadio ilum, que se escribe con el sumerograma 𒀭, que significa “cielo”. La raíz semítica del hebreo ʾēl o el acadio ilum es ʾl, que generalmente se entiende como “poder”. El sumerograma 𒀭, que significa “cielo”, proporciona una mejor indicación del significado de la raíz original antes de que se asociara con la poderosidad de estos dioses que venían del cielo.
@@ -79,7 +79,7 @@ En segundo lugar, los satélites artificiales que fueron colocados alrededor de 
 
 Otra pista interesante aquí es lo que se dice sobre el estado del planeta Tierra en ese momento: completamente cubierto de agua y espesa niebla. El planeta Tierra era de hecho un planeta azul de principio a fin. La presencia de agua habría sido crucial para crear las condiciones necesarias para que la vida prosperara.
 
-{{< figure src="images/blue-planet-afar.png" caption="Il. 2 - Superficie del planeta azul" >}}
+{{ figure(src="wiki/blue-planet-afar", caption="Il. 2 - Superficie del planeta azul") }}
 
 ## Radiación solar
 
@@ -98,7 +98,7 @@ El sol emite varios tipos de radiación electromagnética, incluyendo rayos ultr
 
 Finalmente, se consideró que la emisión del sol era aceptable, "la luz era buena", y las investigaciones continuaron.
 
-{{< figure src="images/spacecraft-orbiting-earth-sunrise.png" caption="Il. 3 - Avanzada orbital" >}}
+{{ figure(src="wiki/spacecraft-orbiting-earth-sunrise", caption="Il. 3 - Avanzada orbital") }}
 
 ## Primer día de la creación
 

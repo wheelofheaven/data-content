@@ -21,7 +21,7 @@ Während wir die Grenzen unseres Wissens weiter verschieben, lädt die Hypothese
 
 Indem die Raelianische Hypothese erweitert wird, strebt Wheel of Heaven an, weitere Untersuchungen, Debatten und Reflexionen über die Mysterien unserer Herkunft und das mögliche Schicksal, das uns als einer raumfahrenden Zivilisation bevorsteht, anzuregen. Dadurch hoffen wir, ein Gefühl von Staunen und Neugier über die unendlichen Möglichkeiten zu fördern, die der Menschheit auf ihrer Reise durch das All bevorstehen können.
 
-{{< figure src="images/spacecraft-in-orbit.png" caption="Ill. 1 - Raumschiff in der Umlaufbahn" >}}
+{{ figure(src="wiki/spacecraft-in-orbit", caption="Ill. 1 - Raumschiff in der Umlaufbahn") }}
 
 ## Wo lässt uns das zurück
 

@@ -9,7 +9,7 @@ weight = 230
 
 The Age of Leo lasts from –11'010 to –8'850 and follows the Age of Virgo which lasted up to –11'010.
 
-{{< figure src="images/equinox_bc11010.png" caption="Fig. 1 - Vernal equinox in 11010 BC" >}}
+{{ figure(src="timeline/equinox_bc11010", caption="Fig. 1 - Vernal equinox in 11010 BC") }}
 
 ## Animal kingdom
 
@@ -26,7 +26,7 @@ Designing a stable food web and considering trophic interactions are also import
 
 Habitat creation and restoration are also essential in engineering an ecological order. Providing suitable living conditions and resources for various species is vital for their survival and well-being. This includes creating and preserving diverse habitats, such as forests, grasslands, wetlands, and aquatic environments. Ongoing monitoring and adaptive management are necessary for maintaining a balanced ecological order. By regularly assessing the health and stability of the engineered ecosystem, adjustments can be made to address any imbalances or issues that arise. This could include reintroducing species, removing invasive species, or altering habitat conditions to better support the ecosystem's overall health.
 
-{{< figure src="images/lion-and-crocodile-struggle.png" caption="Ill. 2 - Struggle between a lion and a crocodile" >}}
+{{ figure(src="wiki/lion-and-crocodile-struggle", caption="Ill. 2 - Struggle between a lion and a crocodile") }}
 
 The Elohim scientists, with their advanced scientific knowledge and expertise in genetic engineering, would have likely approached the creation of a balanced ecological order by first studying the biology and characteristics of various organisms. They may have started by creating simpler life forms, such as single-celled organisms, and observed their interactions and impact on the environment. As they gained more understanding of these life forms, they might have introduced more complex organisms, such as plants and simple animals, while monitoring their interactions with one another and the environment. This would have allowed them to better understand the ecological dynamics and the requirements for creating a stable ecosystem.
 
@@ -34,7 +34,7 @@ With this knowledge, they could have gradually introduced more advanced and spec
 
 Throughout the process, they would have paid close attention to population dynamics, ensuring that the population sizes of various species remained within sustainable limits. They may have achieved this by introducing natural predators or through other means of population control. The Elohim scientists would have been involved in ongoing monitoring and adaptive management, adjusting their approach as needed to maintain a balanced ecological order. This could have included reintroducing species, removing invasive species, or modifying habitat conditions to support the overall health of the ecosystem.
 
-{{< figure src="images/elephant-biome.png" caption="Ill. 1 - Elephant walking the Earth" >}}
+{{ figure(src="wiki/elephant-biome", caption="Ill. 1 - Elephant walking the Earth") }}
 
 ## Homo genesis
 
@@ -61,7 +61,7 @@ When the passage states that human beings on Earth were made in the image of the
 
 The concept of humans being made in the image of the Elohim could also carry a deeper philosophical or spiritual meaning, possibly suggesting that humans share a unique bond or connection with their creators. This might imply that humans have the potential to understand and appreciate the values, knowledge, or wisdom of the Elohim.
 
-{{< figure src="images/human-genesis.png" caption="Ill. 3 - Humanoid in a cultivation pod" >}}
+{{ figure(src="wiki/human-genesis", caption="Ill. 3 - Humanoid in a cultivation pod") }}
 
 ## Garden of Eden
 
@@ -73,7 +73,7 @@ Understanding the paradise-like environment in the passage as the Biblical Garde
 
 Its location in the area now known as Israel, not far from modern-day Turkey and Greece, would place it in the western part of the original supercontinent which is an interesting detail to take notice of. If we consider the general locations of Israel, Turkey, and Greece on today's map and translate that to a single continent scenario, the Garden of Eden would likely be situated near the coast of this supercontinent, with access to the sea. This coastal location would provide a favorable environment for a lush and fertile paradise, with an abundance of natural resources, contributing to the idyllic setting described in the story.
 
-{{< figure src="images/glowing-domes-in-landscape.png" caption="Ill. 4 - Glowing dome structures in a lush landscape" >}}
+{{ figure(src="wiki/glowing-domes-in-landscape", caption="Ill. 4 - Glowing dome structures in a lush landscape") }}
 
 ## Good and Evil
 
@@ -98,7 +98,7 @@ The Elohim may use advanced digital storage systems, possibly utilizing quantum 
 
 The Elohim might also harness biotechnology for preserving knowledge by encoding information into the DNA of living organisms or creating synthetic life forms specifically designed to store data. This method would allow them to access the stored knowledge by decoding the DNA sequences when needed. The Elohim could have developed advanced materials and technologies to store information at the atomic or molecular level, creating highly durable and long-lasting storage mediums. This approach would offer a high level of information density, ensuring the preservation of vast quantities of knowledge over extended periods.
 
-{{< figure src="images/genesis-dome-interior.png" caption="Ill. 5 - Interior of a dome structure featuring round shaped and greenery" >}}
+{{ figure(src="wiki/genesis-dome-interior", caption="Ill. 5 - Interior of a dome structure featuring round shaped and greenery") }}
 
 ## Origins of science
 
@@ -115,7 +115,7 @@ From the perspective of the Elohim, it is likely that botany and zoology were de
 
 As the creators shared knowledge about the plants and animals in their environment, including their names and properties, humans began to learn about the living world around them. This early education in botany and zoology would have laid the foundation for their understanding of biology, ecology, and other related scientific fields. So, within this context, botany and zoology can be considered the first terrestrial human sciences acquired by the first humans.
 
-{{< figure src="images/above-clouds-platform.png" caption="Ill. 6 - Transluscent platform above the clouds" >}}
+{{ figure(src="wiki/above-clouds-platform", caption="Ill. 6 - Transluscent platform above the clouds") }}
 
 ## Sixth day of creation
 

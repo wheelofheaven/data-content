@@ -21,7 +21,7 @@ weight = 140
 
 通过扩展 Raëlian 的假设，Wheel of Heaven 寻求激发对我们起源之谜和作为星际文明可能等待我们的潜在命运的进一步探讨、辩论和反思。为此，我们希望培养对可能在我们继续通过宇宙旅行的过程中为人类展现出来的无限可能性的惊奇和好奇心。
 
-{{< figure src="images/spacecraft-in-orbit.png" caption="插图 1 - 轨道上的宇宙飞船" >}}
+{{ figure(src="wiki/spacecraft-in-orbit", caption="插图 1 - 轨道上的宇宙飞船") }}
 
 ## 我们在哪里
 

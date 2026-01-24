@@ -11,7 +11,7 @@ weight = 130
 
 我们认识到，一些批评者可能会指责我们挑选事实或误解推测性的结论。然而，我们努力在我们的叙事基础的呈现中保持诚实和透明。我们认为，一旦完全实现，新出现的画面将是不言自明的。
 
-{{< figure src="images/monolithic-base-in-snow.png" caption="插图 1 - 覆盖在雪中的单片结构" >}}
+{{ figure(src="wiki/monolithic-base-in-snow", caption="插图 1 - 覆盖在雪中的单片结构") }}
 
 ## 四大支柱
 

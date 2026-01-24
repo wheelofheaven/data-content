@@ -11,7 +11,7 @@ weight = 130
 
 一部の批判者は私たちが事実を選び取ったり、推測的な結論を誤解したりしていると非難するかもしれません。しかし、私たちは物語の基盤の提示において誠実さと透明性を維持する努力をしています。私たちは、全貌が明らかになればそれが自明となると主張します。
 
-{{< figure src="images/monolithic-base-in-snow.png" caption="図1 - 雪に覆われた一枚岩の構造" >}}
+{{ figure(src="wiki/monolithic-base-in-snow", caption="図1 - 雪に覆われた一枚岩の構造") }}
 
 ## 四つの柱
 

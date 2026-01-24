@@ -11,7 +11,7 @@ weight = 110
 
 在Wheel of Heaven，我们不仅旨在推广这个假设，而且邀请所有的访客参与到对所呈现可能性的深入而好奇的探索中来。我们欢迎每个人考虑在网站上列出的前提，并贡献他们自己的思考和想法，以扩大和丰富这个叙述。
 
-{{< figure src="images/sunset-man-on-hill.png" caption="图1 - 观看星辰日落" >}}
+{{ figure(src="wiki/sunset-man-on-hill", caption="图1 - 观看星辰日落") }}
 
 ## 你将会找到什么
 

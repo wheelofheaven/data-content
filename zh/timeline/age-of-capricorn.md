@@ -15,7 +15,7 @@ weight = 205
 
 尽管选择摩羯座时代作为时间线的起点可能看起来是随意的，但是这个决定背后的原因在上一章[序言 # 很久以前](../../timeline/preamble/#once-upon-a-time/)中已经详细阐述了。在上一章中，我们还了解到在摩羯座时代刚刚开始的时候，[Elohim](../../wiki/elohim/)，一个外星文明，来到了地球。由于他们的一项基因实验出逃造成的悲剧性事件，导致了Elohim的生命丧失和他们在母星上那项研究的终止，Elohim开始寻找新的星际前沿。在追求行星间和星际探索的过程中，这些研究者最终选择了地球，一个系外行星，作为他们的基因研究前沿。
 
-{{< figure src="images/equinox_bc21810.png" caption="图 1 - 从地球表面看到的公元前21810年的春分" >}}
+{{ figure(src="timeline/equinox_bc21810", caption="图 1 - 从地球表面看到的公元前21810年的春分") }}
 
 ## 真理的痕迹
 
@@ -54,7 +54,7 @@ weight = 205
 
 地球拥有与这些科学家的母星不同的大气[^5]是重要的，因为这暗示这些外星生物无法生物学地适应不同的环境，并不得不考虑创造适应地球大气条件的生命。地球和科学家的母星拥有不同的大气增加了地球上生命创造是一个深思熟虑且高度计划的过程的想法。
 
-{{< figure src="images/interstellar-space-travel.png" caption="Ill. 1 - Interstellar space travel" >}}
+{{ figure(src="wiki/interstellar-space-travel", caption="Ill. 1 - Interstellar space travel") }}
 
 [^1]: "God"这个词源于日耳曼异教和古英语，其中"god"一词指的是神或至高无上的存在。日耳曼词"gudan"的意思是"唤醒"，古英语的词"god"很可能由此词根发展而来。"God"一词也与拉丁词"Deus"有关，意为"神"或"神性"。这个拉丁词源于原始印欧语的词"dyeus"。神名Dyēus源于词干dyeu-，指的是"白天的天空"或"白天的亮度"（与夜晚的黑暗形成对比），最终源于词根*di或dei-（"闪耀，明亮"）。
 [^2]: Elohim一词来自圣经希伯来语ʾélôhím（<span class="hebrew">אֱלֹהִים / אֱלוֹהִים</span>），这是ʾélôah（<span class="hebrew">אֱלוֹהַּ</span>）的复数形式。这个词是ʾēl（<span class="hebrew">אֵל</span>）的扩展形式，其闪族词根为ʾlh或ʾl。Elohim本身与较早的阿卡德语词ilum同源，该词以苏美罗文𒀭书写，意为“天空”。希伯来语ʾēl或阿卡德语ilum的闪族词根是ʾl，通常被理解为“力量”。以苏美罗文𒀭书写的词，意为“天空”，在与这些来自天空的神的强大力量相联系之前，提供了原始词根含义的更好指示。
@@ -79,7 +79,7 @@ weight = 205
 
 这里的另一个有趣的线索是关于当时地球的状态：完全被水和浓雾覆盖。地球确实是一个彻头彻尾的蓝色星球。水的存在对于创造生命繁荣所需的条件至关重要。
 
-{{< figure src="images/blue-planet-afar.png" caption="插图 2 - 蓝色星球表面" >}}
+{{ figure(src="wiki/blue-planet-afar", caption="插图 2 - 蓝色星球表面") }}
 
 ## 太阳辐射
 
@@ -98,7 +98,7 @@ weight = 205
 
 最终，太阳的输出被认为是可接受的，“光是好的”，并且调查继续进行。
 
-{{< figure src="images/spacecraft-orbiting-earth-sunrise.png" caption="插图 3 - 轨道哨站" >}}
+{{ figure(src="wiki/spacecraft-orbiting-earth-sunrise", caption="插图 3 - 轨道哨站") }}
 
 ## 创世的第一天
 

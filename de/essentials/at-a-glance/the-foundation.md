@@ -11,7 +11,7 @@ Mit kontinuierlichen Fortschritten in der Raumfahrt und Gentechnik wird immer de
 
 Wir erkennen an, dass einige Kritiker uns beschuldigen könnten, Fakten zu picken oder spekulative Schlussfolgerungen zu missverstehen. Wir bemühen uns jedoch, Ehrlichkeit und Transparenz in unserer Darstellung der Grundlagen der Erzählung zu wahren. Wir sind der Ansicht, dass das entstehende Bild selbstverständlich wird, sobald es vollständig realisiert ist.
 
-{{< figure src="images/monolithic-base-in-snow.png" caption="Ill. 1 - Monolithische Struktur im Schnee bedeckt" >}}
+{{ figure(src="wiki/monolithic-base-in-snow", caption="Ill. 1 - Monolithische Struktur im Schnee bedeckt") }}
 
 ## Die vier Säulen
 

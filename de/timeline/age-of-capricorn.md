@@ -15,7 +15,7 @@ Einfach gesagt, wird der 25.920-Jahres-Zyklus in 12 Segmente unterteilt, jedes m
 
 Obwohl die Wahl, die Zeitleiste mit dem Zeitalter des Steinbocks zu beginnen, willkürlich erscheinen mag, werden die Gründe für diese Entscheidung im vorherigen Kapitel, [Vorwort # Es war einmal](../../timeline/preamble/#once-upon-a-time/), erläutert. Im vorherigen Kapitel haben wir auch gelernt, dass genau zu Beginn des Zeitalters des Steinbocks die [Elohim](../../wiki/elohim/), eine außerirdische Zivilisation, auf der Erde ankamen. Motiviert durch einen tragischen Vorfall, der mit der Flucht eines ihrer genetischen Experimente zu tun hatte und zum Verlust von Elohim-Leben und zur Beendigung dieses Forschungszweiges auf ihrem Heimatplaneten führte, suchten die Elohim nach neuen interstellaren Grenzen. Bei der Verfolgung interplanetarer und interstellarer Erkundungen wählten die Forscher schließlich die Erde, einen Exoplaneten, als ihre Grenze für genetische Forschung.
 
-{{< figure src="images/equinox_bc21810.png" caption="Abb. 1 - Frühlings-Tagundnachtgleiche im Jahr 21'810 v. Chr. von der Erdoberfläche aus gesehen" >}}
+{{ figure(src="timeline/equinox_bc21810", caption="Abb. 1 - Frühlings-Tagundnachtgleiche im Jahr 21'810 v. Chr. von der Erdoberfläche aus gesehen") }}
 
 ## Spuren der Wahrheit
 
@@ -54,7 +54,7 @@ Diese außerirdischen Menschen, die die Erde entdeckten, erkannten, dass sie all
 
 Die Tatsache, dass die Erde eine andere Atmosphäre[^5] hatte als der Heimatplanet dieser Wissenschaftler, ist bedeutsam, weil sie darauf hindeutet, dass diese außerirdischen Wesen sich biologisch nicht an verschiedene Umgebungen anpassen konnten und in Betracht ziehen mussten, Leben zu schaffen, das mit den atmosphärischen Bedingungen der Erde kompatibel war. Die Tatsache, dass die Erde eine andere Atmosphäre hatte als der Heimatplanet der Wissenschaftler, trägt zu der Idee bei, dass die Schaffung von Leben auf der Erde ein geplanter und hochgradig geplanter Prozess war.
 
-{{< figure src="images/interstellar-space-travel.png" caption="Ill. 1 - Interstellare Raumreise" >}}
+{{ figure(src="wiki/interstellar-space-travel", caption="Ill. 1 - Interstellare Raumreise") }}
 
 [^1]: Das Wort "Gott" hat seine Wurzeln im germanischen Heidentum und im Altenglischen, wo der Begriff "god" auf eine Gottheit oder höchste Wesenheit hinwies. Das germanische Wort "gudan" bedeutete "anzurufen", und das altenglische Wort "god" entwickelte sich wahrscheinlich aus dieser Wurzel. Das Wort "Gott" steht auch in Beziehung zu dem lateinischen Wort "Deus", was "Gott" oder "Gottheit" bedeutet. Dieses lateinische Wort hat seine Wurzeln im urindogermanischen Wort "dyeus". Der göttliche Name Dyēus leitet sich von der Wurzel dyeu- ab, die den "taghellen Himmel" oder die "Helligkeit des Tages" bezeichnet (im Gegensatz zur Dunkelheit der Nacht), letztendlich von der Wurzel *di oder dei- ("leuchten, hell sein").
 [^2]: Das Wort Elohim stammt vom biblischen Hebräisch ʾélôhím (<span class="hebrew">אֱלֹהִים / אֱלוֹהִים</span>), das die Pluralform von ʾélôah (<span class="hebrew">אֱלוֹהַּ</span>) ist. Dieser Begriff ist eine erweiterte Form von ʾēl (<span class="hebrew">אֵל</span>), dessen semitischer Wurzel ʾlh oder ʾl ist. Elohim selbst ist ein Kognat des älteren akkadischen Begriffs ilum, der mit dem Sumerogramm 𒀭 geschrieben wird und "Himmel" bedeutet. Die semitische Wurzel des hebräischen ʾēl oder des akkadischen ilum ist ʾl, die normalerweise als "Macht" verstanden wird. Das Sumerogramm 𒀭, das "Himmel" bedeutet, gibt einen besseren Hinweis auf die ursprüngliche Wurzelbedeutung, bevor sie mit der Macht dieser Götter, die vom Himmel kamen, in Verbindung gebracht wurde.
@@ -79,7 +79,7 @@ Zweitens waren die künstlichen Satelliten, die um die Erde platziert wurden, wa
 
 Ein weiterer interessanter Hinweis hier ist das, was über den Zustand des Planeten Erde in diesem Moment gesagt wird: vollständig von Wasser und dickem Nebel bedeckt. Der Planet Erde war tatsächlich durch und durch ein blauer Planet. Die Anwesenheit von Wasser wäre von entscheidender Bedeutung gewesen, um die notwendigen Bedingungen für das Gedeihen von Leben zu schaffen.
 
-{{< figure src="images/blue-planet-afar.png" caption="Ill. 2 - Oberfläche des blauen Planeten" >}}
+{{ figure(src="wiki/blue-planet-afar", caption="Ill. 2 - Oberfläche des blauen Planeten") }}
 
 ## Sonnenstrahlung
 
@@ -98,7 +98,7 @@ Die Sonne sendet verschiedene Arten von elektromagnetischer Strahlung aus, einsc
 
 Schließlich wurde die Ausgabe der Sonne als akzeptabel betrachtet, "das Licht war gut", und die Untersuchungen gingen weiter.
 
-{{< figure src="images/spacecraft-orbiting-earth-sunrise.png" caption="Ill. 3 - Orbitale Außenposten" >}}
+{{ figure(src="wiki/spacecraft-orbiting-earth-sunrise", caption="Ill. 3 - Orbitale Außenposten") }}
 
 ## Erster Tag der Schöpfung
 

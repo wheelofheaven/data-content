@@ -41,7 +41,7 @@ The passage talks about how a group of humans, the ones that were scattered all 
 
 The creators sent two angels as spies to investigate what was happening in Sodom. This is mentioned in Genesis 19:1. The creators' authority from the distant planet of the Elohim used espionage as a means of gathering intelligence on the actions of humans on Earth. In this particular case, the creators sent two spies in the form of angels to investigate the situation in Sodom and Gomorrah. The use of spies suggests that the creators were monitoring and keeping tabs on human activities, possibly to ensure that humans were not attempting to create any technological advances that could pose a threat to their authority.
 
-{{< figure src="images/red-colored-cityscape.png" caption="Ill. 1 - Red-colored cityscape" >}}
+{{ figure(src="wiki/red-colored-cityscape", caption="Ill. 1 - Red-colored cityscape") }}
 
 > Some humans tried to kill them, but the spies managed to blind their attackers with a pocket atomic weapon:
 >
@@ -71,7 +71,7 @@ The passage describes the warning given by the two spies to those who were peace
 
 The passage describes the destruction of Sodom and Gomorrah through a rain of brimstone and fire from heaven. This destruction caused the death of all inhabitants and vegetation in the area. However, Lot's wife looked back and turned into a pillar of salt, which is suggested to be a result of the burns caused by the atomic explosion that killed those who were too close to the impact. The cities of Sodom and Gomorrah were both annihilated. The usage of the phrase "the destruction of Sodom and Gomorrah by fire and brimstone from the sky" strongly suggests in archaic language of the Bible that that an atomic explosion is being described.
 
-{{< figure src="images/explosion-over-the-sea.png" caption="Ill. 2 - Tactical explosion over the sea" >}}
+{{ figure(src="wiki/explosion-over-the-sea", caption="Ill. 2 - Tactical explosion over the sea") }}
 
 ## Abraham
 
@@ -89,7 +89,7 @@ The passage describes a test conducted by the creators to see if Abraham's feeli
 
 This test was intended to see if Abraham still had positive feelings towards the creators, even after the destruction of Sodom and Gomorrah, and to test his loyalty and faith in their commandments. The creators were pleased with Abraham's response, and the passage indicates that he passed the test and showed his reverence and fear towards them.
 
-{{< figure src="images/man-standing-on-plaza.png" caption="Ill. 2 - Individual standing on open-air plaza" >}}
+{{ figure(src="wiki/man-standing-on-plaza", caption="Ill. 2 - Individual standing on open-air plaza") }}
 
 ## Regression
 
@@ -109,6 +109,6 @@ Secondly, the idea that idolatry was the result of forgetting the true creators 
 
 Finally, the concept of idolatry being the result of forgetting the true creators may have led to the belief that the true creators were the only beings deserving of worship and adoration. This could have led to the development of a monotheistic religion where the worship of any other deity or idol was considered to be wrong and against the will of the true creators.
 
-{{< figure src="images/two-treasure-hunters.png" caption="Ill. 3 - Two individuals searching for remainders" >}}
+{{ figure(src="wiki/two-treasure-hunters", caption="Ill. 3 - Two individuals searching for remainders") }}
 
 ## Quick recap

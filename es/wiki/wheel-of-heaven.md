@@ -10,7 +10,7 @@ En términos simples, este sitio sugiere que los orígenes de la vida consciente
 
 En Wheel of Heaven, aspiramos no solo a promover esta hipótesis, sino también a invitar a todos los visitantes a participar en una exploración fascinante e inquisitiva de las posibilidades presentadas. Todos son bienvenidos a considerar las premisas expuestas en el sitio y aportar sus propios pensamientos e ideas, ayudando a expandir y enriquecer la narrativa.
 
-{{< figure src="images/sunset-man-on-hill.png" caption="Il. 1 - Observando el atardecer estrellado" >}}
+{{ figure(src="wiki/sunset-man-on-hill", caption="Il. 1 - Observando el atardecer estrellado") }}
 
 ## Lo que encontrarás
 

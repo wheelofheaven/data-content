@@ -11,7 +11,7 @@ En termes simples, ce site suggère que les origines de la vie consciente sur Te
 
 Chez Wheel of Heaven, nous visons non seulement à promouvoir cette hypothèse, mais aussi à inviter tous les visiteurs à participer à une exploration fascinante et curieuse des possibilités présentées. Tout le monde est bienvenu pour prendre en compte les prémisses exposées sur le site et apporter leurs propres réflexions et idées, contribuant ainsi à enrichir et à élargir le récit.
 
-{{< figure src="images/sunset-man-on-hill.png" caption="Ill. 1 - Observer le coucher de soleil étoilé" >}}
+{{ figure(src="wiki/sunset-man-on-hill", caption="Ill. 1 - Observer le coucher de soleil étoilé") }}
 
 ## Ce que vous trouverez
 

@@ -15,7 +15,7 @@ Pour le dire simplement, le cycle de 25 920 ans est divisé en 12 segments, chac
 
 Bien que le choix de commencer la Chronologie avec l'Ère du Capricorne puisse sembler arbitraire, les raisons derrière cette décision sont élaborées dans le chapitre précédent, [Préambule # Il était une fois](../../timeline/preamble/#once-upon-a-time/). Dans le chapitre précédent, nous avons également appris qu'au tout début de l'Ère du Capricorne, les [Élohim](../../wiki/elohim/), une civilisation extraterrestre, sont arrivés sur Terre. Motivés par un incident tragique impliquant l'évasion d'une de leurs expériences génétiques, qui a entraîné la perte de vies élohimiennes et l'arrêt de cette branche de recherche sur leur planète d'origine, les Élohim ont cherché de nouvelles frontières interstellaires. Poursuivant l'exploration interplanétaire et interstellaire, les chercheurs ont finalement choisi la Terre, une exoplanète, comme leur frontière pour la recherche génétique.
 
-{{< figure src="images/equinox_bc21810.png" caption="Fig. 1 - Équinoxe vernal en 21'810 av. J.-C. vu depuis la surface de la Terre" >}}
+{{ figure(src="timeline/equinox_bc21810", caption="Fig. 1 - Équinoxe vernal en 21'810 av. J.-C. vu depuis la surface de la Terre") }}
 
 ## Traces de vérité
 
@@ -54,7 +54,7 @@ Ces êtres extraterrestres qui ont découvert la Terre ont reconnu qu'elle conte
 
 Le fait que la Terre avait une atmosphère différente[^5] de celle de la planète d'origine de ces scientifiques est significatif parce qu'il suggère que ces êtres extraterrestres étaient incapables de s'adapter biologiquement à différents environnements et devaient envisager de créer une vie qui était compatible avec les conditions atmosphériques de la Terre. Le fait que l'atmosphère de la Terre différait de celle de la planète d'origine des scientifiques ajoute à l'idée que la création de la vie sur Terre était un processus délibéré et hautement planifié.
 
-{{< figure src="images/interstellar-space-travel.png" caption="Ill. 1 - Voyage spatial interstellaire" >}}
+{{ figure(src="wiki/interstellar-space-travel", caption="Ill. 1 - Voyage spatial interstellaire") }}
 
 [^1]: Le mot "Dieu" a ses racines dans le paganisme germanique et l'anglais ancien, où le terme "god" désignait une divinité ou un être suprême. Le mot germanique "gudan" signifiait "invoquer", et l'ancien mot anglais "god" a probablement développé à partir de cette racine. Le mot "God" est également lié au mot latin "Deus", qui signifie "dieu" ou "divinité". Ce mot latin a ses racines dans le mot proto-indo-européen "dyeus". Le nom divin Dyēus dérive de la racine dyeu-, qui désigne le "ciel diurne" ou la "lumière du jour" (en contraste avec l'obscurité de la nuit), finalement de la racine *di ou dei- ("briller, être brillant").
 [^2]: Le mot Elohim vient de l'hébreu biblique ʾélôhím (<span class="hebrew">אֱלֹהִים / אֱלוֹהִים</span>), qui est la forme plurielle de ʾélôah (<span class="hebrew">אֱלוֹהַּ</span>). Ce terme est une forme étendue de ʾēl (<span class="hebrew">אֵל</span>), dont la racine sémitique est ʾlh ou ʾl. Elohim lui-même est un cognat de l'ancien terme akkadien ilum, qui est écrit avec le sumérogramme 𒀭, signifiant "ciel". La racine sémitique de l'hébreu ʾēl ou de l'akkadien ilum est ʾl, qui est généralement compris comme "puissance". Le sumérogramme 𒀭, signifiant "ciel", fournit une meilleure indication du sens original de la racine avant qu'elle ne soit associée à la puissance de ces dieux qui sont venus du ciel.
@@ -79,7 +79,7 @@ Deuxièmement, les satellites artificiels qui ont été placés autour de la Ter
 
 Un autre indice intéressant ici est ce qui est dit sur l'état de la planète Terre à ce moment-là : complètement recouverte d'eau et d'une épaisse brume. La Terre était en effet une planète bleue à part entière. La présence d'eau aurait été essentielle pour créer les conditions nécessaires à la vie.
 
-{{< figure src="images/blue-planet-afar.png" caption="Ill. 2 - Surface de la planète bleue" >}}
+{{ figure(src="wiki/blue-planet-afar", caption="Ill. 2 - Surface de la planète bleue") }}
 
 ## Radiation solaire
 
@@ -98,7 +98,7 @@ Le soleil émet divers types de radiations électromagnétiques, y compris des r
 
 Finalement, l'émission du soleil a été jugée acceptable, "la lumière était bonne", et les investigations ont continué.
 
-{{< figure src="images/spacecraft-orbiting-earth-sunrise.png" caption="Ill. 3 - Poste avancé en orbite" >}}
+{{ figure(src="wiki/spacecraft-orbiting-earth-sunrise", caption="Ill. 3 - Poste avancé en orbite") }}
 
 ## Premier jour de la création
 

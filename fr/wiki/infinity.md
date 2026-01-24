@@ -145,7 +145,7 @@ Yahweh souligne en outre que toutes les choses dans l'univers, y compris la Terr
 
 Le passage conclut en rejetant l'existence de tout dieu spécifique ou âme, compte tenu de la nature infinie de l'univers et de l'absence de point central. Toute interaction entre des entités infiniment grandes et des entités infiniment petites est considérée comme impossible en raison de l'immense différence de masse et de la disparité correspondante dans l'écoulement du temps. Le message sous-jacent souligne l'importance de vivre en harmonie avec les dimensions infinies de l'existence et avec nos semblables pour atteindre le bonheur à notre propre niveau d'existence.
 
-{{< figure src="/images/hubble-cosmic-web.jpg" alt="hubble-cosmic-web.jpg" caption="Représentation artistique intitulée \"The Cosmic Web\" par Volker Springel (Max Planck Institute for Astrophysics) et al. \"En façonnant l'Univers, la gravité construit une vaste structure en forme de toile de filaments reliant les galaxies et les amas de galaxies le long de ponts invisibles longs de plusieurs centaines de millions d'années-lumière. Cela est connu sous le nom de toile cosmique.\"">}}
+{{ figure(src="timeline/hubble-cosmic-web", caption="Représentation artistique intitulée \", alt="hubble-cosmic-web.jpg") }}
 
 Le concept de la "différence considérable de masse et de la disparité correspondante dans l'écoulement du temps" suggère que l'expérience du temps est relative à l'échelle ou à la masse de l'observateur. Il s'agit d'une idée présentée dans la littérature raëlienne, appelée la Loi de Masstemp, bien qu'il ne s'agisse pas d'un principe reconnu ni validé par la physique conventionnelle à ce jour.[^mainstream]
 
@@ -165,7 +165,7 @@ Enfin, la référence à vivre en harmonie avec "nos semblables" souligne l'impo
 
 Ces déclarations présentent ensemble une approche holistique du bonheur qui englobe une compréhension complète de notre place dans l'univers, de l'échelle cosmique la plus grande aux structures atomiques les plus infimes, ainsi que l'importance de la connexion humaine et de la communauté.
 
-{{< figure src="/images/muse-deep-space.jpg" alt="muse-deep-space.jpg" caption="Il s'agit d'une simulation cosmologique de l'univers lointain (2021). L'image montre la lumière émise par les atomes d'hydrogène dans la toile cosmique dans une région d'environ 15 millions d'années-lumière de diamètre, en utilisant des données astronomiques recueillies par le Très Grand Télescope (VLT), un équipement exploité par l'Observatoire européen austral, situé sur le Cerro Paranal dans le désert d'Atacama, au nord du Chili." >}}
+{{ figure(src="timeline/muse-deep-space", caption="Il s'agit d'une simulation cosmologique de l'univers lointain (2021). L'image montre la lumière émise par les atomes d'hydrogène dans la toile cosmique dans une région d'environ 15 millions d'années-lumière de diamètre, en utilisant des données astronomiques recueillies par le Très Grand Télescope (VLT), un équipement exploité par l'Observatoire européen austral, situé sur le Cerro Paranal dans le désert d'Atacama, au nord du Chili.", alt="muse-deep-space.jpg") }}
 
 Dans la philosophie raëlienne, telle qu'élaborée dans leur deuxième livre canonique "Les extraterrestres m'ont emmené sur leur planète" (1976), une directive spécifique est donnée sur la façon de percevoir et d'évaluer les situations. Cette directive est exprimée à travers les [quatre plans de considération](../../wiki/four-levels-of-consideration/) :
 

@@ -21,7 +21,7 @@ A medida que continuamos empujando los límites de nuestro conocimiento, la hip�
 
 Al extender la hipótesis Raëliana, Wheel of Heaven busca inspirar una mayor indagación, debate y reflexión sobre los misterios de nuestros orígenes y el potencial destino que nos espera como civilización espacial. Al hacerlo, esperamos fomentar un sentido de asombro y curiosidad sobre las infinitas posibilidades que pueden esperar a la humanidad a medida que continuamos nuestro viaje a través del cosmos.
 
-{{< figure src="images/spacecraft-in-orbit.png" caption="Il. 1 - Nave espacial en órbita" >}}
+{{ figure(src="wiki/spacecraft-in-orbit", caption="Il. 1 - Nave espacial en órbita") }}
 
 ## ¿Dónde nos deja esto?
 

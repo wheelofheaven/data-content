@@ -15,7 +15,7 @@ All of that happened during the Age of Scorpio which lasted from â€“17'490 to â€
 
 With the research groups having split up and while exploring the prospective creative possibilities of having a whole planet to themselves, the Elohimian scientists had all the freedom in their hands to fully take advantage of their situation. Earth was a sandbox environment of engineering, research and artistic expression. It was time to settle further and better understand the environment they were in; the fourth phase could begin. The Fourth Day of Creation is the sum of all events that happened subsequently during the Age of Libra.
 
-{{< figure src="images/equinox_bc15330.png" caption="Fig. 1 - Vernal equinox in 15'330 BC" >}}
+{{ figure(src="timeline/equinox_bc15330", caption="Fig. 1 - Vernal equinox in 15'330 BC") }}
 
 ## Regulation
 
@@ -36,7 +36,7 @@ The Elohimian planet could orbit a star different from our Sun, such as a red dw
 
 These differences would affect the way the Elohimian scientists perceive and measure time, as well as their understanding of astronomy and celestial events. Adapting to Earth's unique cycles and celestial phenomena would be crucial for their successful integration and navigation on our planet.
 
-{{< figure src="images/oceanside-geodesy-station.png" caption="Ill. 1 - Geodetic installation by the ocean" >}}
+{{ figure(src="wiki/oceanside-geodesy-station", caption="Ill. 1 - Geodetic installation by the ocean") }}
 
 ## Adaptation
 
@@ -58,7 +58,7 @@ Precise location information, derived from astronomical observations, would allo
 
 Monitoring the sky could also help scientists predict and prepare for natural disasters, such as volcanic eruptions, earthquakes, or meteor impacts, which could significantly affect the survival of the engineered plant life. By understanding the potential risks and incorporating resilience strategies into the design of the plants, they could increase the likelihood of their successful establishment and long-term survival on the new Earthly planet.
 
-{{< figure src="images/primordial-nature-two-researchers.png" caption="Ill. 2 - Primordial botany featuring two researchers" >}}
+{{ figure(src="wiki/primordial-nature-two-researchers", caption="Ill. 2 - Primordial botany featuring two researchers") }}
 
 ## Earth in motion
 
@@ -90,7 +90,7 @@ Another lunar cycle is the lunar nodal cycle, which lasts about 18.6 years. This
 
 These astronomical cycles are crucial in shaping the Earth's climate, ecosystems, and the behavior of living organisms. Understanding these cycles allows us to predict and prepare for various natural events, as well as to better comprehend the complex interactions that occur on our planet.
 
-{{< figure src="images/orbital-geodesy-satellite.png" caption="Ill. 3 - Geodetic satellite in orbit" >}}
+{{ figure(src="wiki/orbital-geodesy-satellite", caption="Ill. 3 - Geodetic satellite in orbit") }}
 
 ### Precession
 
