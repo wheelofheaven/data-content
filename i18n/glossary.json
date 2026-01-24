@@ -1,0 +1,193 @@
+{
+  "$schema": "./glossary-schema.json",
+  "version": "1.0.0",
+  "updated": "2026-01-24",
+  "description": "Terminology glossary for consistent translations across all languages",
+  "terms": [
+    {
+      "id": "elohim",
+      "category": "core",
+      "definition": "Biblical Hebrew term meaning 'those who came from the sky'. Refers to the extraterrestrial civilization that created life on Earth.",
+      "translations": {
+        "en": "Elohim",
+        "de": "Elohim",
+        "es": "Elohim",
+        "fr": "Élohim",
+        "ja": "エロヒム",
+        "ko": "엘로힘",
+        "ru": "Элохим",
+        "zh": "耶洛因",
+        "zh-Hant": "耶洛因"
+      },
+      "notes": "Always capitalize. Do not translate as 'God' or 'gods'."
+    },
+    {
+      "id": "yahweh",
+      "category": "core",
+      "definition": "President of the Council of the Eternals on the Elohim planet. Led the scientific team that created life on Earth.",
+      "translations": {
+        "en": "Yahweh",
+        "de": "Jahwe",
+        "es": "Yahvé",
+        "fr": "Yahvé",
+        "ja": "ヤハウェ",
+        "ko": "야훼",
+        "ru": "Яхве",
+        "zh": "耶和华",
+        "zh-Hant": "耶和華"
+      }
+    },
+    {
+      "id": "raelism",
+      "category": "core",
+      "definition": "The new religious movement founded by Claude Vorilhon (Raël) based on messages from the Elohim.",
+      "translations": {
+        "en": "Raelism",
+        "de": "Raëlismus",
+        "es": "Raelismo",
+        "fr": "Raélisme",
+        "ja": "ラエリアン・ムーブメント",
+        "ko": "라엘리안 운동",
+        "ru": "Раэлизм",
+        "zh": "雷尔运动",
+        "zh-Hant": "雷爾運動"
+      }
+    },
+    {
+      "id": "rael",
+      "category": "core",
+      "definition": "Born Claude Vorilhon, the last prophet who received messages from the Elohim.",
+      "translations": {
+        "en": "Raël",
+        "de": "Raël",
+        "es": "Raël",
+        "fr": "Raël",
+        "ja": "ラエル",
+        "ko": "라엘",
+        "ru": "Раэль",
+        "zh": "雷尔",
+        "zh-Hant": "雷爾"
+      }
+    },
+    {
+      "id": "age-of-aquarius",
+      "category": "timeline",
+      "definition": "The current precessional age (1945-4105 CE) characterized by revelation and enlightenment.",
+      "translations": {
+        "en": "Age of Aquarius",
+        "de": "Zeitalter des Wassermanns",
+        "es": "Era de Acuario",
+        "fr": "Ère du Verseau",
+        "ja": "みずがめ座の時代",
+        "ko": "물병자리 시대",
+        "ru": "Эпоха Водолея",
+        "zh": "水瓶座时代",
+        "zh-Hant": "水瓶座時代"
+      }
+    },
+    {
+      "id": "great-year",
+      "category": "timeline",
+      "definition": "The ~26,000 year precessional cycle, consisting of 12 ages of ~2,160 years each.",
+      "translations": {
+        "en": "Great Year",
+        "de": "Großes Jahr",
+        "es": "Gran Año",
+        "fr": "Grande Année",
+        "ja": "大年",
+        "ko": "대년",
+        "ru": "Великий Год",
+        "zh": "大年",
+        "zh-Hant": "大年"
+      }
+    },
+    {
+      "id": "precession",
+      "category": "astronomy",
+      "definition": "The slow wobble of Earth's axis that causes the equinox points to shift through the zodiac.",
+      "translations": {
+        "en": "Precession of the Equinoxes",
+        "de": "Präzession der Tagundnachtgleichen",
+        "es": "Precesión de los Equinoccios",
+        "fr": "Précession des Équinoxes",
+        "ja": "歳差運動",
+        "ko": "세차운동",
+        "ru": "Прецессия равноденствий",
+        "zh": "岁差",
+        "zh-Hant": "歲差"
+      }
+    },
+    {
+      "id": "ancient-astronaut",
+      "category": "theory",
+      "definition": "The hypothesis that extraterrestrial beings visited Earth in antiquity and influenced human civilizations.",
+      "translations": {
+        "en": "Ancient Astronaut Theory",
+        "de": "Prä-Astronautik",
+        "es": "Teoría de los Antiguos Astronautas",
+        "fr": "Théorie des Anciens Astronautes",
+        "ja": "古代宇宙飛行士説",
+        "ko": "고대 우주인 이론",
+        "ru": "Теория древних астронавтов",
+        "zh": "远古外星人理论",
+        "zh-Hant": "遠古外星人理論"
+      }
+    },
+    {
+      "id": "intelligent-design",
+      "category": "theory",
+      "definition": "The hypothesis that life was created by an intelligent agent rather than random processes.",
+      "translations": {
+        "en": "Intelligent Design",
+        "de": "Intelligentes Design",
+        "es": "Diseño Inteligente",
+        "fr": "Dessein Intelligent",
+        "ja": "インテリジェント・デザイン",
+        "ko": "지적 설계",
+        "ru": "Разумный замысел",
+        "zh": "智能设计",
+        "zh-Hant": "智慧設計"
+      }
+    },
+    {
+      "id": "genesis",
+      "category": "bible",
+      "definition": "The first book of the Bible, interpreted as an account of the Elohim's creation activities.",
+      "translations": {
+        "en": "Genesis",
+        "de": "Genesis",
+        "es": "Génesis",
+        "fr": "Genèse",
+        "ja": "創世記",
+        "ko": "창세기",
+        "ru": "Бытие",
+        "zh": "创世记",
+        "zh-Hant": "創世記"
+      }
+    },
+    {
+      "id": "wheel-of-heaven",
+      "category": "site",
+      "definition": "The name of this knowledge base, referencing Ezekiel's vision.",
+      "translations": {
+        "en": "Wheel of Heaven",
+        "de": "Rad des Himmels",
+        "es": "Rueda del Cielo",
+        "fr": "Roue du Ciel",
+        "ja": "天の車輪",
+        "ko": "하늘의 바퀴",
+        "ru": "Колесо Небес",
+        "zh": "天轮",
+        "zh-Hant": "天輪"
+      }
+    }
+  ],
+  "categories": {
+    "core": "Core terminology that defines the Raelian/Elohim narrative",
+    "timeline": "Terms related to cosmic ages and chronology",
+    "astronomy": "Astronomical and scientific terminology",
+    "theory": "Theoretical frameworks and hypotheses",
+    "bible": "Biblical terms and references",
+    "site": "Site-specific terminology"
+  }
+}
