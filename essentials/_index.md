@@ -4,4 +4,5 @@ description = "Quick and digestible insights into the core concepts of Wheel of 
 template = "essentials-section.html"
 sort_by = "weight"
 aliases = ["/intro/", "/intro/at-a-glance/"]
+generate_feeds = true
 +++

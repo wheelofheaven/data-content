@@ -3,6 +3,7 @@ title = "Explainers"
 description = "In-depth explanations and comprehensive guides that break down complex topics into understandable concepts. Our explainers provide detailed analysis, context, and insights to help you understand various subjects thoroughly."
 template = "explainer-section.html"
 sort_by = "title"
+generate_feeds = true
 +++
 
 # Explainers
