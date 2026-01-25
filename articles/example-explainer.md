@@ -2,11 +2,12 @@
 title = "Example Explainer: Understanding Complex Topics"
 description = "A comprehensive guide demonstrating how our explainer format works, including all the key features and sections."
 date = 2024-01-15
-template = "explainer-page.html"
+template = "articles-page.html"
 
 [extra]
+article_type = "explainer"
 category = "Philosophy"
-header_image = "/images/explainers/example-header.jpg"
+header_image = "/images/articles/example-header.jpg"
 featured = true
 
 [[extra.references]]
