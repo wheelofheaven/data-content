@@ -6,6 +6,7 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+category = "Elohim"
 alternative_names = ["Fallen angel of light", "Hêlêl ben Šāḥar", "הֵילֵל בֶּן-שָׁחַר"]
 +++
 

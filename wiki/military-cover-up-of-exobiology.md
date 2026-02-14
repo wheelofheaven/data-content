@@ -4,6 +4,9 @@ slug = "military-cover-up-of-exobiology"
 description = "Military cover-up of exobiology refers to the idea that military organizations or governments are concealing information about the study of extraterrestrial life or alien encounters. It suggests that there is hidden knowledge or evidence related to the existence of life beyond Earth, and that military entities are actively suppressing or controlling the release of this information to the public. Proponents of this theory argue that the military is involved in capturing or investigating UFO sightings, conducting secret research on extraterrestrial life forms, or even hiding evidence of direct contact with aliens. The notion of a military cover-up of exobiology implies a deliberate effort to withhold or manipulate information about potential extraterrestrial phenomena for various reasons, such as national security or societal stability."
 template = "wiki-page.html"
 toc = true
+
+[extra]
+category = "Ufology"
 +++
 
 There are several common cover-up theories associated with military or intelligence agencies, suggesting that they are hiding crucial information about extraterrestrial life from the public. Some of these theories include:

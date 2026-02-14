@@ -4,6 +4,9 @@ slug = "religion"
 description = "Religion, a set of practices and beliefs that cultivates and teaches the connection (from Latin religare, to 'connect again') between the Human people on Earth and the Elohim, our progenitors and creators of life on Earth. Very much like the relationship between the parents and their children is a bond that needs culivation and reverence, a religion is meant to maintain the link between the creators and the created. A religion that does not strive to cultivate and rationalize that bond of gratitude towards the ones who created us is a different socio-cultural system altogether."
 template = "wiki-page.html"
 toc = true
+
+[extra]
+category = "Theology & Traditions"
 +++
 
 Religion is a complex and multifaceted concept that has been defined and interpreted in a variety of ways throughout human history. One way to interpret religion is as a relationship between humanity and its creator or divine force. This interpretation views religion as a means of establishing a connection between humans and the divine, and of understanding and communicating with the ultimate reality or power that governs the universe.

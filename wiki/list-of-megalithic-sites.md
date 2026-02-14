@@ -4,6 +4,9 @@ slug = "list-of-megalithic-sites"
 description = "List of megalithic sites. An extensive enumeration of known megalithic sites that more or less clearly feature the fingerprints of advanced architectural building qualities."
 template = "wiki-page.html"
 toc = true
+
+[extra]
+category = "Reference Lists"
 +++
 
 Megalithic sites are large, ancient structures constructed from massive stone blocks that were often used for religious or ceremonial purposes. These structures date back to the Neolithic and Bronze Ages, and are found in various parts of the world.

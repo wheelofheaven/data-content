@@ -4,6 +4,9 @@ slug = "elohimian-home-planet"
 description = "The extrasolar habitable planet where the Elohimian genus or at least the its civilization is originates from. This planet is allegedly roughly 1 lightyear away from Earth and thus to be located within the Milky Way galaxy."
 template = "wiki-page.html"
 toc = true
+
+[extra]
+category = "Elohim"
 +++
 
 ## In Raëlism 🔯

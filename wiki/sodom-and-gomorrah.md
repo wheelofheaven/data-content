@@ -6,6 +6,7 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+category = "Events & Narratives"
 alternative_names = ["Cities of the Plain"]
 timeline = ["taurus"]
 +++

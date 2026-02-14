@@ -6,6 +6,7 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+category = "Elohim"
 alternative_names = ["Accuser", "hasSāṭān", "Prosecutor", "שָׂטָן"]
 +++
 

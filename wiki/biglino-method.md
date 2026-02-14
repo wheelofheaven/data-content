@@ -4,6 +4,9 @@ slug = "biglino-method"
 description = "The Biglino method is an alternative approach to interpreting the Bible, advocating for a literal understanding of its content rather than relying on figurative language or established exegesis. It seeks to reveal a different narrative by examining the text without metaphorical interpretations and emphasizing historical and cultural context."
 template = "wiki-page.html"
 toc = true
+
+[extra]
+category = "Methodology"
 +++
 
 ## Parallels with Schliemann

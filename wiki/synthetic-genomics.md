@@ -4,6 +4,9 @@ slug = "synthetic-genomics"
 description = "Synthetic genomics is a branch of genetic engineering that focuses on the design, assembly, and synthesis of complete genomes or large segments of genomes. It involves creating artificial DNA sequences that mimic or differ from existing natural genomes. Synthetic genomics aims to construct genetic material, such as synthetic chromosomes or entire synthetic genomes, to study fundamental biological processes, understand the minimal set of genes necessary for life, and potentially create organisms with modified or novel characteristics. It involves the construction of artificial genetic material to explore and manipulate the genetic basis of life."
 template = "wiki-page.html"
 toc = true
+
+[extra]
+category = "Science & Technology"
 +++
 
 ## Relationship with synthetic biology

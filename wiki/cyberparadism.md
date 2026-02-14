@@ -6,6 +6,7 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+category = "Raëlism"
 alternative_names = ["Cyber Paradise", "Cybergenesis", "Neogenesis"]
 +++
 

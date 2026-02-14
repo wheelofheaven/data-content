@@ -4,6 +4,9 @@ slug = "archaeoastronomy"
 description = "Archaeoastronomy, a scientific displine of understanding the anthropological past through the lense of astronomy and how the heritage of past cultures had been codified with astronomical observations. More specifically, the discipline is representative of an important body of research that is unveiling the extends to which knowledge and transmission thereof has been ever since the beginning of civilization making."
 template = "wiki-page.html"
 toc = true
+
+[extra]
+category = "Methodology"
 +++
 
 Archaeoastronomy is an interdisciplinary field of study that explores the knowledge, practices, and beliefs related to celestial bodies and phenomena in ancient cultures. It combines principles from archaeology, anthropology, and astronomy to analyze and interpret the astronomical significance of archaeological sites, artifacts, and cultural practices. By investigating the ways in which ancient civilizations observed, recorded, and utilized astronomical information, archaeoastronomy aims to enrich our understanding of their worldviews, religious beliefs, and social organization.

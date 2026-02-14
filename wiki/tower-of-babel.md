@@ -6,6 +6,7 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+category = "Events & Narratives"
 alternative_names = ["Mīgdal Bāḇel", "מִגְדַּל בָּבֶל"]
 timeline = ["gemini"]
 +++

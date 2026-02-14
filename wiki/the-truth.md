@@ -4,6 +4,9 @@ slug = "the-truth"
 description = "The Truth, the speculative notion that when enough tokens of partial truths are suitably demystified and compiled together, a cohesive all-encompassing narrative emerges that tells the chronicles of how life on Earth was engineered by an extraterrestrial civilization and of what followed thereafter up to this very day where this Truth will be revealed and retold during the times of the Apocalypse."
 template = "wiki-page.html"
 toc = true
+
+[extra]
+category = "Theology & Traditions"
 +++
 
 From a philosophical perspective, Truth can be understood as the state or quality of being in accordance with fact or reality. It is an objective reality that exists independently of human opinion or belief, and it can be discovered through reason, empirical observation, and critical thinking. While truth can be difficult to discern, it is often associated with certain qualities or hallmarks, such as coherence, consistency, accuracy, and transparency. These qualities help to distinguish truth from falsehood, and they provide a standard by which truth claims can be evaluated.

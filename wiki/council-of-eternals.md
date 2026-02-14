@@ -4,6 +4,9 @@ slug = "council-of-eternals"
 description = "Council of Eternals, also Grand Council of Eternals, is a governing body admist the Elohimian civilization. It is consituted by 700 members who all live eternally on a dedicated planet separate from their home planet. This very same governing body is referenced to in multiple religions, especially in the Biblical scriptures and has and still is intervening in Earthly affairs."
 template = "wiki-page.html"
 toc = true
+
+[extra]
+category = "Elohim"
 +++
 
 ## Historical references

@@ -6,6 +6,7 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+category = "Ufology"
 alternative_names = ["Space Force"]
 timeline = ["aquarius"]
 +++

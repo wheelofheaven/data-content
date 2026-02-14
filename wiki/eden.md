@@ -6,6 +6,7 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+category = "Places & Locations"
 alternative_names = ["Garden of Eden", "gan-ʿĒḏen", "גַּן־עֵדֶן"]
 timeline = ["virgo", "leo", "cancer"]
 +++

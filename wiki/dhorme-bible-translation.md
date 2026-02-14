@@ -4,6 +4,9 @@ slug = "dhorme-bible-translation"
 description = "Dhorme Bible, a French Bible translation conducted by the French Assyrologist and Semitologist Édouard Dhorme (1881–1966) known for its literal translation style that kept the original meanings intact in the French language."
 template = "wiki-page.html"
 toc = true
+
+[extra]
+category = "Methodology"
 +++
 
 The Dhorme a French Bible translation lead by the French Assyrologist and Semitologist Édouard Dhorme (1881–1966). This version of the Bible is known to have kept the original Hebrew Elohim (<span class="hebrew">אֱלֹהִים</span>) intact as to the infamous name of God. Monsieur Dhorme tried to preserve the original meaning as close as possible. In his own words, he says the following about how he and his team went about to come up with a new translation for the Biblical scriptures (in French):

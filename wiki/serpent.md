@@ -6,6 +6,7 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+category = "Symbolism & Motifs"
 alternative_names = ["Serpentine faction", "Sons of God", "Watchers"]
 +++
 

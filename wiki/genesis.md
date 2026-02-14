@@ -4,6 +4,9 @@ slug = "genesis"
 description = "Genesis, etymologically, the first book of the Bible, also known as Book of Genesis or B'reshit (בְּרֵאשִׁית) in Hebrew. More figuratively, the sum of all creational projects conducted on planet Earth by the Elohim which lasted 7 Great Months, which amounts to roughly 15'000 years."
 template = "wiki-page.html"
 toc = true
+
+[extra]
+category = "Events & Narratives"
 +++
 
 The 7-day creation myth in the book of Genesis is a story that describes the origin of the universe and everything in it, including the Earth and all living creatures. According to the story, God created the world and everything in it in six days, and on the seventh day, he rested.

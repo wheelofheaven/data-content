@@ -7,6 +7,7 @@ toc = true
 aliases = ["/intro/extraterrestrial-civilization/"]
 
 [extra]
+category = "Elohim"
 alternative_names = ["Annunaki", "Celestials", "Creators", "Dei", "El", "Gods", "The Powerful Ones", "The Ones from the Skies", "Theosites"]
 +++
 

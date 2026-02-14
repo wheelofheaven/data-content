@@ -4,6 +4,9 @@ slug = "geniocracy"
 description = "Geniocracy, a proposed political system put forward by Yahweh as part of New Commandments that elects intelligent individuals into political positions pooled from the entirety of humanity, therefore only acknowledging intelligence as an attribute of eligibility rather than wealth, class, strength or power."
 template = "wiki-page.html"
 toc = true
+
+[extra]
+category = "Raëlism"
 +++
 
 Geniocracy is a political ideology and system of governance that advocates for government rule by those who demonstrate intelligence and creativity. The basic principle behind Geniocracy is that intelligence and creativity are the most important qualities for good governance and decision-making, and that people with these traits should be given more representation and influence in government.

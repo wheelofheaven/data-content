@@ -6,6 +6,7 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+category = "Peoples & Groups"
 alternative_names = ["Builder race", "Megalithic builders"]
 timeline = ["leo", "cancer", "gemini"]
 +++

@@ -4,6 +4,9 @@ slug = "raelism"
 description = "Raëlism, a new religious movement that goes back to a Frenchman, Claude Vorhilon, that avowedly met the representative of an extraterrestrial civilization, Yahweh, in 1973 and subsequent years. He gradually adopted the name Raël and wrote down the dialogues that happened during all the encounters in a number of books that anyone can read today. The premise of the Raëlian faith is that most religions are witnessing the doings of a god-like advanced extraterrestrial civilization that terraformed Earth some 25'000 years ago and subsequently synthetically created life on Earth as described in the Biblical Genesis and other creation myths."
 template = "wiki-page.html"
 toc = true
+
+[extra]
+category = "Raëlism"
 +++
 
 Raëlism is a religious and philosophical movement that originated in France in the 1970s. It is based on the belief that extraterrestrial beings known as the Elohim created life on Earth and continue to interact with humanity. The founder of Raëlism, Claude Vorilhon, also known as Raël, claims that he had a series of encounters with a being from another planet who gave him messages to share with the world.

@@ -4,6 +4,9 @@ slug = "list-of-etymological-readings"
 description = "List of etymological readings. By the agency of exploring the premises put forward by Wheel of Heaven, there are a number of religious, mythological or traditional notions that can be read etymologically. This list is going to catalogue to the majority of these notions."
 template = "wiki-page.html"
 toc = true
+
+[extra]
+category = "Reference Lists"
 +++
 
 ## List of etymological readings

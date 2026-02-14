@@ -4,6 +4,9 @@ slug = "raelian-symbol-of-infinity"
 description = "Raëlism, a new religious movement that goes back to a Frenchman that avowedly met the representative of an extraterrestrial civilization, Yahweh, features a symbol that interlaces the Swastika within a Star of David, two ancient symbols both with a long historical track record, that is thought to represent two core aspects of Infinity. Infinity itself being the idea the most accurate descriptor of the physcality of reality. These two core aspects are the infinity of time symbolized by the Swastika and the infinity of space symbolized by the Star of David."
 template = "wiki-page.html"
 toc = true
+
+[extra]
+category = "Symbolism & Motifs"
 +++
 
 ## Rendering

@@ -4,6 +4,9 @@ slug = "life-engineering"
 description = "Life engineering refers to the application of scientific and technological approaches to intentionally design and construct artificial living organisms or biological systems with novel functions, characteristics, or capabilities. It involves the deliberate manipulation of genetic material and the assembly of biological components to bring about the emergence of entirely new life forms that do not exist in nature."
 template = "wiki-page.html"
 toc = true
+
+[extra]
+category = "Science & Technology"
 +++
 
 ## See also

@@ -4,6 +4,9 @@ slug = "paradism"
 description = "Paradism, the establishement of a post-scarcity, fully automatized socio-economic system in the image of the Elohim's home planet. Through technological means of automatizing labour and alleviation of hardships, abundance, prosperity and personal fullfilment would become the new currency of social pursuit."
 template = "wiki-page.html"
 toc = true
+
+[extra]
+category = "Raëlism"
 +++
 
 Paradism is a concept that is often associated with a utopian vision of an ideal society, characterized by peace, equality, abundance, and harmony. In a paradisiacal society, it is believed that all individuals have their basic needs met and are free to pursue their passions and interests without the constraints of poverty, inequality, or oppression.

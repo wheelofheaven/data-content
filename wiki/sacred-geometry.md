@@ -4,6 +4,9 @@ slug = "sacred-geometry"
 description = "Sacred Geometry, the proposition that geometric notions of an higher order have been used in a number of historical structures, buildings and artifacts suggesting that their builders deliberately added an additional dimension of meaning into their work, effectively codifying their legacy with meaningful proportions and therefore leaving fingerprints alluding to a shared tradition of knowledge and wisdom."
 template = "wiki-page.html"
 toc = true
+
+[extra]
+category = "Symbolism & Motifs"
 +++
 
 Sacred geometry is a term used to describe the use of geometric shapes and patterns in religious and spiritual beliefs, art, architecture, and design. The idea is that the fundamental principles of geometry are reflections of the fundamental laws of the universe and that these shapes and patterns have spiritual significance.

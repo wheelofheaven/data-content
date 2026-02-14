@@ -4,6 +4,9 @@ slug = "drake-equation"
 description = "Drake equation, an equation expressing the probability of intelligent extraterrestrial life as the product of various factors such as the fraction of planets that might be habitable or the fraction of planets on which life might arise. The equation is named after Franke Drake and serves as a probabilistic thought experiment to contemplate the possible existence of extraterrestrial life."
 template = "wiki-page.html"
 toc = true
+
+[extra]
+category = "Science & Technology"
 +++
 
 ## Equation

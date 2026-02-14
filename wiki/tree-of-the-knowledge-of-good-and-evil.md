@@ -4,6 +4,9 @@ slug = "tree-of-the-knowledge-of-good-and-evil"
 description = "Tree of the Knowledge of Good and Evil, a Biblical metaphor for scientific knowledge records. The first genetically engineered human beings were shown some but not all scientific books, especially books containing great scientific knowledge were kept secret. The good and evil represents the deliberate ignorance about these records and the ramifications contained therein."
 template = "wiki-page.html"
 toc = true
+
+[extra]
+category = "Symbolism & Motifs"
 +++
 
 The Tree of the Knowledge of Good and Evil is a tree mentioned in the book of Genesis in the Bible. According to the biblical story, the Tree of the Knowledge of Good and Evil was a tree in the Garden of Eden that God commanded Adam and Eve not to eat from. However, the serpent tempted Eve to eat from the tree, and she in turn convinced Adam to do the same. This act of disobedience is seen as the first sin, and is believed to have caused humanity to fall from a state of innocence and purity into a state of sin and mortality.

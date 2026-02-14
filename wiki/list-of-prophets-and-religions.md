@@ -4,6 +4,9 @@ slug = "list-of-prophets-and-religions"
 description = "List of prophets and religions. A lot of religions, but not quite all, are considered to be established testimonies of authentic interactions between the Elohim (אֱלֹהִים) and human people on Earth. These interactions lead to religious writings and oral traditions that witness of the Elohimian doings. This list is going to exhaustively catalogue to a large extent the majority of notable religious traditions as well as prophets that lead to such traditions."
 template = "wiki-page.html"
 toc = true
+
+[extra]
+category = "Reference Lists"
 +++
 
 There are several major world religions, each with their own unique beliefs and practices. Here is a brief overview of some of the most important religions:

@@ -4,6 +4,9 @@ slug = "cosmic-pluralism"
 description = "Cosmic pluralism, also simply known as the plurality of worlds, is the idea that multiple, yet unknown worlds must exist in addition to Earth where intelligent life must be present. The sheer vastness of space heavily supports this idea."
 template = "wiki-page.html"
 toc = true
+
+[extra]
+category = "Science & Technology"
 +++
 
 Cosmic pluralism refers to the idea that it is possible for intelligent life to exist on other planets in the universe, beyond our own. The concept of extraterrestrial life and the search for it has been a topic of human fascination for thousands of years, with early civilizations such as the Greeks, Romans, and Chinese all imagining the existence of life on other planets.

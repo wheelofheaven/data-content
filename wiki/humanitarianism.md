@@ -4,6 +4,9 @@ slug = "humanitarianism"
 description = "Humanitarniasm, a proposed socio-economic doctrine put forward by Yahweh as part of New Commandments that focuses on the preservation of the future of humanity by implementating a particular kind of equality of opportunity. Ultimately benefitting talent and prowess, the abolition of inheritance and the estbalishement of Jubilean ownership contracts limited in time. Humanitarianism more generally spoken is doctrine that people's duty is to promote human welfare."
 template = "wiki-page.html"
 toc = true
+
+[extra]
+category = "Raëlism"
 +++
 
 Broadly spoken, Humanitarianism refers to the belief in and commitment to improving the lives and well-being of people globally. It encompasses a range of moral and ethical principles, values, and practices aimed at alleviating human suffering and promoting dignity, equality, and justice.

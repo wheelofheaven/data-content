@@ -6,6 +6,7 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+category = "Peoples & Groups"
 timeline = ["leo", "cancer", "gemini"]
 +++
 

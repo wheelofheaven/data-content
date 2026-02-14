@@ -4,6 +4,9 @@ slug = "zodiac"
 description = "The Zodiac is a band in the sky through which the sun passes through, known as the ecliptic. Within that band, there are 12 stellar constellations to be found which each are named after an animal. The Zodiac provides therefore the zoological symbols to properly name the position of the sun in the sky. Over the years, the relative position of the Zodiac shifts eastwards along the ecliptic due to the phenomenon of precession. With that understanding, the zodiac can be understood as the basis for the naming of 12 houses within a long-lasting cycle each denominating a given world age."
 template = "wiki-page.html"
 toc = true
+
+[extra]
+category = "Cosmic Chronology"
 +++
 
 The Zodiac is a band of the sky that extends approximately 8 degrees on either side of the ecliptic, the sun's apparent path through the sky. It is divided into twelve equal parts, called signs, which are named after the constellations of stars that lie along the ecliptic. The twelve signs of the Zodiac are Aries, Taurus, Gemini, Cancer, Leo, Virgo, Libra, Scorpio, Sagittarius, Capricorn, Aquarius, and Pisces.

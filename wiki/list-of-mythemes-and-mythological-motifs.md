@@ -4,6 +4,9 @@ slug = "list-of-mythemes-and-mythological-motifs"
 description = "List of mythemes and mythological motifs. By the agency of exploring the premises put forward by Wheel of Heaven, there are a number of mythemes and mythological motifs that can be read via the working hypothesis interpretation. This list os going to catalogue the majority of these motifs."
 template = "wiki-page.html"
 toc = true
+
+[extra]
+category = "Reference Lists"
 +++
 
 Mythemes, also known as mythological motifs, are the recurring themes, symbols, and patterns found in myths and legends from various cultures throughout history. They represent the fundamental building blocks of myths, and can be observed in stories from diverse regions and times. These mythemes can range from the concept of a hero’s journey to the use of certain animals to represent specific qualities or ideas.

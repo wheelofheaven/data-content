@@ -4,6 +4,9 @@ slug = "sendys-conditions-of-coherence"
 description = "Sendy's conditions of coherence, a set of conditions that need to be met in order to allow for a coherent and exact reading of the Bible where the Elohim are understood as individuals of an interstellar civilization mistaken as God."
 template = "wiki-page.html"
 toc = true
+
+[extra]
+category = "Methodology"
 +++
 
 ## Logic of the Bible

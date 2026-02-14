@@ -4,6 +4,9 @@ slug = "hebrew"
 description = "Hebrew, specifically an ancient predecessor of the Hebrew language, is revealed to be the official spoken language of the Elohimian civilization. As such, ancient Hebrew draws its furthest origins not from an Earhtly anthrogenic source but was inhereted directly from our creators, the Elohim as they spoke an ancient version of Hebrew which human beings adopted since their inception on. While modern Hebrew cannot be considered to be equivalent with the Elohimian language, the Semitic language family on the other hand can be understood to preserve the legacy."
 template = "wiki-page.html"
 toc = true
+
+[extra]
+category = "Theology & Traditions"
 +++
 
 Hebrew, a member of the Semitic language family, boasts a rich history that stretches back thousands of years. Rooted in the same linguistic branch as languages such as Arabic and Amharic, Hebrew has evolved considerably from its early iterations, known as Biblical or Classical Hebrew, into the Modern Hebrew spoken in Israel today.

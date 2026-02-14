@@ -4,6 +4,9 @@ slug = "forerunners"
 description = "The Forerunners were an extraordinarily advanced extraterrestrial civilization believed to have created the Elohim, a humanoid race who themselves became creators, eventually genetically engineering life on Earth. The true nature and identity of the Forerunners remain largely a mystery, as they seemingly disappeared before the Elohim could physically encounter or directly learn from them. Their legacy, however, survives in the form of their vast scientific knowledge, which was preserved and could be one day passed down to humanity."
 template = "wiki-page.html"
 toc = true
+
+[extra]
+category = "Peoples & Groups"
 +++
 
 ## In Raëlism 🔯

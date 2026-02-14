@@ -4,6 +4,9 @@ slug = "wheel-of-heaven"
 description = "Wheel of Heaven, a web knowledge base exploring the working hypothesis that life on Earth was intelligently designed and engineered by the extraterrestrial civilization we collectively remember as the Elohim. The Wheel of Heaven itself is a metaphorical reference to the precession of equinoxes as being a heavenly wheel of constellations that steadily keeps on turning. It is also a slightly more obscure reference to Akhenaton, an Egyptian pharao of old who described a disk shaped space ship as looking like a wheel in heaven."
 template = "wiki-page.html"
 toc = true
+
+[extra]
+category = "Meta"
 +++
 
 ## Working hypothesis

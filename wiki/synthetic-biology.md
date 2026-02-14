@@ -4,6 +4,9 @@ slug = "synthetic-biology"
 description = "Synthetic biology is an interdisciplinary field that combines principles from biology, genetics, and engineering to design and construct artificial biological systems, genetic circuits, and organisms with novel functions or characteristics. It involves the deliberate modification or creation of genetic material and the engineering of biological components to program living cells to perform specific tasks or exhibit desired traits. Synthetic biology aims to understand and re-engineer biological systems."
 template = "wiki-page.html"
 toc = true
+
+[extra]
+category = "Science & Technology"
 +++
 
 ## Relationship with synthetic genomics

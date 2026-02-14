@@ -4,6 +4,9 @@ slug = "tree-of-life"
 description = "Tree of Life, a Biblical metaphor that stands for the scientific body of knowledge on how to provide the technological means to achieve eternal life. More specifically to lengthen human life expectancy up to 1'000 years as it was the case during the Age of Leo."
 template = "wiki-page.html"
 toc = true
+
+[extra]
+category = "Symbolism & Motifs"
 +++
 
 The Tree of Life is a concept that appears in many cultures and religious traditions, and is often associated with various symbolic and spiritual meanings.

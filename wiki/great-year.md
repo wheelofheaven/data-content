@@ -6,6 +6,7 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+category = "Cosmic Chronology"
 alternative_names = ["Platonic Year", "Precessional year"]
 +++
 

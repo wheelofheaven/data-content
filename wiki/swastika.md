@@ -6,6 +6,7 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+category = "Symbolism & Motifs"
 alternative_names = ["Arevakhach", "Borjgali", "Eternity sign", "Fylfot", "Lauburu", "Mursunsydän", "Sun cross", "Ugunskrusts"]
 +++
 

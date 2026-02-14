@@ -6,6 +6,7 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+category = "Elohim"
 alternative_names = ["Æsir–Vanir War", "Theomachy", "Titanomachy", "War in Heaven"]
 timeline = ["gemini"]
 +++

@@ -4,6 +4,9 @@ slug = "tldr"
 description = "tl;dr is an abbreviation for too long; didn't read. It is commonly used to summarize lengthy articles, posts, or discussions. In our wiki, we label the first paragraph of each article as tl;dr to indicate that it serves as a concise summary of the content that follows. The tl;dr section is slightly stylized with its own serif font, making it easily distinguishable from the rest of the article. By including a tl;dr section, we provide our readers with a quick overview of the main points, allowing them to grasp the key information without delving into the entire article."
 template = "wiki-page.html"
 toc = true
+
+[extra]
+category = "Meta"
 +++
 
 The term "tl;dr" originated from internet culture and gained popularity in online communities, particularly on forums, social media, and discussion boards. It emerged as a response to long posts or articles that some users found tedious or time-consuming to read.

@@ -4,6 +4,9 @@ slug = "ancient-astronaut-hypothesis"
 description = "Ancient astronaut hypothesis, also known as ancient aliens, the idea that extraterrestrial beings visited Earth in the past and influenced ancient cultures and civilizations. This hypothesis suggests that many ancient structures and artifacts, such as pyramids and sacred objekts like the Ark of the Convenant, were created with the help of extraterrestrial beings and were intended to convey messages about the nature of the universe and our place within it. Proponents of the hypothesis also point to legends, myths, and religious texts from various cultures that describe encounters with beings from the stars."
 template = "wiki-page.html"
 toc = true
+
+[extra]
+category = "Methodology"
 +++
 
 The Ancient Astronaut Hypothesis proposes that in ancient times, extraterrestrial beings visited Earth and interacted with humans. Proponents of the theory suggest that evidence of these interactions can be seen in ancient art, legends, and architecture, which they claim cannot be fully explained by conventional historical and scientific explanations. They also argue that certain technological and cultural advancements in human history, such as the building of the pyramids in Egypt or the creation of the Nazca lines in Peru, could not have been achieved without outside influence.

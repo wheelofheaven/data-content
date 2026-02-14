@@ -6,6 +6,7 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+category = "Elohim"
 alternative_names = ["Alpha and Omega", "ʿElyōn", "ʾĒl ʿElyōn", "עֶלְיוֹן", "The Eternal", "The First and the Last", "YHWH", "יהוה", "𐤉𐤄𐤅𐤄"]
 +++
 

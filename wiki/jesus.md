@@ -6,6 +6,7 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+category = "Biblical Figures"
 timeline = ["pisces"]
 +++
 

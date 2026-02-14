@@ -4,6 +4,9 @@ slug = "the-tradition"
 description = "The Tradition, a set of oral and written perennial truths that have been passed down over many generations and throughout various civilizations and have therefore kept intact the knowledge repository that originated in a remote past. The Tradition doesn't necessarily refer to a specific set of scriptures or books, but can be understood as the cultural and mythological legacy of all the individual people that had formalized the highest truths in a codified and allegedly incorruptable manner."
 template = "wiki-page.html"
 toc = true
+
+[extra]
+category = "Theology & Traditions"
 +++
 
 In very general terms, tradition refers to a set of beliefs, customs, and practices that are passed down from one generation to another, often over many centuries or even millennia. It encompasses a wide range of cultural expressions, from religious rituals and moral codes to artistic styles and social norms. Traditions are often seen as a way of connecting people with their cultural heritage and preserving their collective identity and history.

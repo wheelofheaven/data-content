@@ -4,6 +4,9 @@ slug = "samsara"
 description = "Saṃsāra, a Buddhist, Jainist and Hinduist notion of the cycle of death and rebirth. While the word itself is not canonical, Samsara refers to the cycle of recurring self-destruction if the progressive sophistication of scientific and technological means are used for warmongering and deterrence. Overcoming the cycle of death and rebirth is the ultimate condition to usher into the Golden Age of abundance and prosperity."
 template = "wiki-page.html"
 toc = true
+
+[extra]
+category = "Cosmic Chronology"
 +++
 
 Samsara is a concept in Hinduism, Buddhism, Jainism, Sikhism, and other Indian religions that refers to the cycle of birth, death, and rebirth. According to these traditions, all living beings are trapped in a cycle of existence, in which they are constantly being reborn into different forms.
