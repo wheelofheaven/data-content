@@ -1,6 +1,6 @@
 +++
 title = "Enlil and Ninlil: The begetting of Nanna"
-description = "\\\"Enlil and Ninlil: The Begetting of Nanna\\\" is a Sumerian creation myth that dates back to the mid to late 3rd millennium BC. The story is set in the ancient city of Nippur, which is portrayed as a divine city inhabited by gods before humans. Enlil, a prominent god in the Sumerian pantheon, is featured as a central character in this myth."
+description = "\"Enlil and Ninlil: The Begetting of Nanna\" is a Sumerian creation myth that dates back to the mid to late 3rd millennium BC. The story is set in the ancient city of Nippur, which is portrayed as a divine city inhabited by gods before humans. Enlil, a prominent god in the Sumerian pantheon, is featured as a central character in this myth."
 template = "resources-page.html"
 slug = "enlil-and-ninlil-the-begetting-of-nanna"
 

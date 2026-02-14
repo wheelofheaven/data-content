@@ -1,6 +1,6 @@
 +++
 title = "Hamlet's Mill: An Essay Investigating the Origins of Human Knowledge and Its Transmission Through Myth"
-description = "\\\"Hamlet's Mill: An Essay Investigating the Origins of Human Knowledge and Its Transmission Through Myth,\\\" written by Giorgio de Santillana and Hertha von Dechend, presents the argument that ancient mythologies contain sophisticated knowledge of the precession of the equinoxes. This knowledge, they argue, indicates a Neolithic discovery and a long-lived Megalithic civilization of remarkable sophistication, particularly in astronomical observation. The authors suggest that this civilization's knowledge was encoded in myths, often represented by a millstone and a young protagonist, which they interpret primarily through the lens of archaeoastronomy."
+description = "\"Hamlet's Mill: An Essay Investigating the Origins of Human Knowledge and Its Transmission Through Myth,\" written by Giorgio de Santillana and Hertha von Dechend, presents the argument that ancient mythologies contain sophisticated knowledge of the precession of the equinoxes. This knowledge, they argue, indicates a Neolithic discovery and a long-lived Megalithic civilization of remarkable sophistication, particularly in astronomical observation. The authors suggest that this civilization's knowledge was encoded in myths, often represented by a millstone and a young protagonist, which they interpret primarily through the lens of archaeoastronomy."
 template = "resources-page.html"
 slug = "hamlets-mill"
 

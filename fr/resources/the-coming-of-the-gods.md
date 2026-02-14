@@ -1,6 +1,6 @@
 +++
 title = "The Coming Of The Gods"
-description = "\\\"The Coming of the Gods\\\" by Jean Sendy explores the concept that advanced extraterrestrial civilizations, referred to as \\\"gods,\\\" have been visiting Earth for thousands of years, significantly influencing human history and religious beliefs. Sendy attributes many technological and cultural advancements, the creation of religious beliefs, and the inspiration for ancient myths and legends to these extraterrestrial beings. He suggests that these interactions between humans and these \\\"gods\\\" have occurred in various forms, including direct communication and the performance of miracles."
+description = "\"The Coming of the Gods\" by Jean Sendy explores the concept that advanced extraterrestrial civilizations, referred to as \"gods,\" have been visiting Earth for thousands of years, significantly influencing human history and religious beliefs. Sendy attributes many technological and cultural advancements, the creation of religious beliefs, and the inspiration for ancient myths and legends to these extraterrestrial beings. He suggests that these interactions between humans and these \"gods\" have occurred in various forms, including direct communication and the performance of miracles."
 template = "resources-page.html"
 slug = "the-coming-of-the-gods"
 

@@ -1,6 +1,6 @@
 +++
 title = "Extraterrestrials Took Me To Their Planet"
-description = "\\\"Extraterrestrials Took Me to Their Planet\\\" by Claude Vorilhon, known as Raël, is a sequel to his first book, “The Book Which Tells the Truth.” In this work, Raël details his alleged encounters with extraterrestrial beings, the Elohim, claiming he was taken to their planet. Here, he received teachings about the nature of reality and human existence. The book delves into Raël's beliefs about the universe and life on Earth's origins, suggesting that humanity was created through genetic engineering by the Elohim. It discusses the evolution of human consciousness and the role of science and technology in this process."
+description = "\"Extraterrestrials Took Me to Their Planet\" by Claude Vorilhon, known as Raël, is a sequel to his first book, “The Book Which Tells the Truth.” In this work, Raël details his alleged encounters with extraterrestrial beings, the Elohim, claiming he was taken to their planet. Here, he received teachings about the nature of reality and human existence. The book delves into Raël's beliefs about the universe and life on Earth's origins, suggesting that humanity was created through genetic engineering by the Elohim. It discusses the evolution of human consciousness and the role of science and technology in this process."
 template = "resources-page.html"
 slug = "extraterrestrials-took-me-to-their-planet"
 

@@ -1,6 +1,6 @@
 +++
 title = "Wonders in the Sky: Unexplained Aerial Objects from Antiquity to Modern Times"
-description = "\\\"Wonders in the Sky: Unexplained Aerial Objects from Antiquity to Modern Times\\\" by Jacques Vallée and Chris Aubeck is a comprehensive investigation into the history of unidentified flying objects (UFOs). The book examines over 500 reports of UFO sightings from ancient times up to the year 1879, a period before the profound changes brought by the Industrial Revolution and the advent of modern aircraft like airplanes and dirigibles."
+description = "\"Wonders in the Sky: Unexplained Aerial Objects from Antiquity to Modern Times\" by Jacques Vallée and Chris Aubeck is a comprehensive investigation into the history of unidentified flying objects (UFOs). The book examines over 500 reports of UFO sightings from ancient times up to the year 1879, a period before the profound changes brought by the Industrial Revolution and the advent of modern aircraft like airplanes and dirigibles."
 template = "resources-page.html"
 slug = "wonders-in-the-sky"
 

@@ -1,6 +1,6 @@
 +++
 title = "The Naked Bible"
-description = "\\\"The Naked Bible\\\" by Mauro Biglino and Giorgio Cattaneo is a reinterpretation of the Bible, stripping it of traditional interpretations. According to Biglino's research, once these layers are removed, the Bible reveals a very different narrative, one that does not involve a spiritual, almighty, and all-knowing God. The book challenges the very concept of eternity as traditionally understood in biblical context. This reinterpretation is a result of a comprehensive interview between Mauro Biglino and journalist Giorgio Cattaneo, exploring Biglino's extensive research on the subject​"
+description = "\"The Naked Bible\" by Mauro Biglino and Giorgio Cattaneo is a reinterpretation of the Bible, stripping it of traditional interpretations. According to Biglino's research, once these layers are removed, the Bible reveals a very different narrative, one that does not involve a spiritual, almighty, and all-knowing God. The book challenges the very concept of eternity as traditionally understood in biblical context. This reinterpretation is a result of a comprehensive interview between Mauro Biglino and journalist Giorgio Cattaneo, exploring Biglino's extensive research on the subject​"
 template = "resources-page.html"
 slug = "the-naked-bible"
 

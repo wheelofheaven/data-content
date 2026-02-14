@@ -1,6 +1,6 @@
 +++
 title = "Debate between sheep and grain"
-description = "The \\\"Debate between sheep and grain\\\" or \\\"Myth of cattle and grain\\\" is a significant Sumerian creation myth from the mid to late 3rd millennium BC. This myth is one of several \\\"debate\\\" topics known from Sumerian literature, characterized as disputations. Such debates were philosophical in nature and often addressed humanity's place in the world, reflecting a sophisticated level of abstract thought in ancient Mesopotamian societies."
+description = "The \"Debate between sheep and grain\" or \"Myth of cattle and grain\" is a significant Sumerian creation myth from the mid to late 3rd millennium BC. This myth is one of several \"debate\" topics known from Sumerian literature, characterized as disputations. Such debates were philosophical in nature and often addressed humanity's place in the world, reflecting a sophisticated level of abstract thought in ancient Mesopotamian societies."
 template = "resources-page.html"
 slug = "debate-between-sheep-and-grain"
 

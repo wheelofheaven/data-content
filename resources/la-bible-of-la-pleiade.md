@@ -1,6 +1,6 @@
 +++
 title = "The Bible of La Pleiade"
-description = "The \\\"La Bible: Ancient Testament (tome 1 et 2)\\\" from La Pléiade publisher, translated by Édouard Dhorme, Franck Michaéli, and Antoine Guillaumont, offers a comprehensive look at the Old Testament. These volumes provide a deep and varied exploration of the Old Testament, reflecting both its historical significance and its vast literary wealth. The translations and introductions contribute to a nuanced understanding of these ancient texts, making them accessible to a modern readership."
+description = "The \"La Bible: Ancient Testament (tome 1 et 2)\" from La Pléiade publisher, translated by Édouard Dhorme, Franck Michaéli, and Antoine Guillaumont, offers a comprehensive look at the Old Testament. These volumes provide a deep and varied exploration of the Old Testament, reflecting both its historical significance and its vast literary wealth. The translations and introductions contribute to a nuanced understanding of these ancient texts, making them accessible to a modern readership."
 template = "resources-page.html"
 slug = "la-bible-of-la-pleiade"
 

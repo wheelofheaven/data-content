@@ -1,6 +1,6 @@
 +++
 title = "The Sky People"
-description = "\\\"The Sky People\\\" by Brinsley Le Poer Trench offers a unique interpretation of human history and extraterrestrial involvement. Trench, in his book, argues that significant Biblical figures, including Adam and Eve and Noah, were originally residents of Mars. He bases this theory on what he perceives as inconsistencies between the Biblical description of the Garden of Eden and earthly environments, suggesting that the Garden of Eden was actually located on Mars, supported by his mention of canals on Mars."
+description = "\"The Sky People\" by Brinsley Le Poer Trench offers a unique interpretation of human history and extraterrestrial involvement. Trench, in his book, argues that significant Biblical figures, including Adam and Eve and Noah, were originally residents of Mars. He bases this theory on what he perceives as inconsistencies between the Biblical description of the Garden of Eden and earthly environments, suggesting that the Garden of Eden was actually located on Mars, supported by his mention of canals on Mars."
 template = "resources-page.html"
 slug = "the-sky-people"
 

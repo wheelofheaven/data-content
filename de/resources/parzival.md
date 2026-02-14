@@ -1,6 +1,6 @@
 +++
 title = "Parzival"
-description = "Wolfram von Eschenbach's \\\"Parzival\\\" is a seminal work of high medieval literature, written in the early 13th century. This epic poem is one of the most important narratives of the Arthurian legend, particularly notable for its detailed portrayal of the quest for the Holy Grail. The story revolves around Parzival (Percival in English), a knight from the court of King Arthur, and chronicles his journey from naive and impetuous youth to the wise and compassionate keeper of the Holy Grail."
+description = "Wolfram von Eschenbach's \"Parzival\" is a seminal work of high medieval literature, written in the early 13th century. This epic poem is one of the most important narratives of the Arthurian legend, particularly notable for its detailed portrayal of the quest for the Holy Grail. The story revolves around Parzival (Percival in English), a knight from the court of King Arthur, and chronicles his journey from naive and impetuous youth to the wise and compassionate keeper of the Holy Grail."
 template = "resources-page.html"
 slug = "parzival"
 

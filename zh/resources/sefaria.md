@@ -1,6 +1,6 @@
 +++
 title = "Sefaria: A Living Library of Torah"
-description = "Sefaria is designed as an open-source, free-content digital library, offering a wide array of Jewish texts in original languages like Hebrew, Aramaic, and Judeo-Arabic, along with translations. It serves as a \\\"living library,\\\" relying partly on volunteers to add and translate texts​​. The content includes foundational Jewish texts such as the Tanakh, Talmud, Midrash, Halakhah, Kabbalah, and newer works. It also hosts philosophical and mystical sources, legal texts, liturgy, and contemporary Jewish thought​​​​."
+description = "Sefaria is designed as an open-source, free-content digital library, offering a wide array of Jewish texts in original languages like Hebrew, Aramaic, and Judeo-Arabic, along with translations. It serves as a \"living library,\" relying partly on volunteers to add and translate texts​​. The content includes foundational Jewish texts such as the Tanakh, Talmud, Midrash, Halakhah, Kabbalah, and newer works. It also hosts philosophical and mystical sources, legal texts, liturgy, and contemporary Jewish thought​​​​."
 template = "resources-page.html"
 slug = "sefaria"
 

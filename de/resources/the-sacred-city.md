@@ -1,6 +1,6 @@
 +++
 title = "The Sacred City"
-description = "\\\"The Sacred City\\\" is a Dokumentarfilm by Dan Gibson that presents a provocative and alternative perspective on the early history of Islam and its sacred geography. Gibson, a historical researcher, embarks on a quest to investigate the origins of Islam, challenging the conventional narrative about the birthplace of the religion."
+description = "\"The Sacred City\" is a Dokumentarfilm by Dan Gibson that presents a provocative and alternative perspective on the early history of Islam and its sacred geography. Gibson, a historical researcher, embarks on a quest to investigate the origins of Islam, challenging the conventional narrative about the birthplace of the religion."
 template = "resources-page.html"
 slug = "the-sacred-city"
 

@@ -1,6 +1,6 @@
 +++
 title = "Science After Babel"
-description = "\\\"Science After Babel\\\" by David Berlinski is a book that challenges the established norms and widely accepted theories in contemporary science. Berlinski, known for his deep learning, close reasoning, and sharp wit, critiques what he considers to be the shibboleths of modern science. These include widely accepted concepts in Darwinism, reductionism, the Standard Model of particle physics, and the idea of \\\"talking\\\" chimpanzees."
+description = "\"Science After Babel\" by David Berlinski is a book that challenges the established norms and widely accepted theories in contemporary science. Berlinski, known for his deep learning, close reasoning, and sharp wit, critiques what he considers to be the shibboleths of modern science. These include widely accepted concepts in Darwinism, reductionism, the Standard Model of particle physics, and the idea of \"talking\" chimpanzees."
 template = "resources-page.html"
 slug = "science-after-babel"
 

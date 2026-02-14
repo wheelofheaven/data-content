@@ -1,6 +1,6 @@
 +++
 title = "Mazzaroth; or, The constellations"
-description = "Frances Rolleston's book, \\\"Mazzaroth; or, The Constellations,\\\" explores the significance and symbolism of the constellations in the context of divine revelation and biblical prophecy. She contends that the constellations hold a deeper, spiritual meaning that has been obscured by associations with pagan mythology and a lack of understanding of their original intent."
+description = "Frances Rolleston's book, \"Mazzaroth; or, The Constellations,\" explores the significance and symbolism of the constellations in the context of divine revelation and biblical prophecy. She contends that the constellations hold a deeper, spiritual meaning that has been obscured by associations with pagan mythology and a lack of understanding of their original intent."
 template = "resources-page.html"
 slug = "mazzaroth-rolleston"
 

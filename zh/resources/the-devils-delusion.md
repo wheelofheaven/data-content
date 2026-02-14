@@ -1,6 +1,6 @@
 +++
 title = "The Devil's Delusion: Atheism and Its Scientific Pretension"
-description = "In \\\"The Devil's Delusion: Atheism and Its Scientific Pretensions,\\\" David Berlinski mounts a vigorous critique of scientific atheism, particularly addressing the assertions made by figures like Richard Dawkins and Sam Harris. Berlinski, a secular Jew and mathematician, questions the completeness and authority of science in answering profound existential and moral questions."
+description = "In \"The Devil's Delusion: Atheism and Its Scientific Pretensions,\" David Berlinski mounts a vigorous critique of scientific atheism, particularly addressing the assertions made by figures like Richard Dawkins and Sam Harris. Berlinski, a secular Jew and mathematician, questions the completeness and authority of science in answering profound existential and moral questions."
 template = "resources-page.html"
 slug = "the-devils-delusion"
 

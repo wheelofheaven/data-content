@@ -1,6 +1,6 @@
 +++
 title = "The Human History Mistake: The Neanderthals and other Inventions of the Evolution and Earth Sciences"
-description = "\\\"The Human History Mistake: The Neanderthals and other Inventions of the Evolution and Earth Sciences\\\" is a work by German author Hans-Joachim Zillmer that challenges conventional views on human evolution and the age of archaeological findings. Zillmer argues that numerous Stone Age artifacts, including the skulls of Neanderthals and individuals from the Paleolithic era, are much younger than traditionally believed. He contends that these should be dated as young as a few thousand or even hundreds of years, rather than the accepted timeline of 27,000 years or more."
+description = "\"The Human History Mistake: The Neanderthals and other Inventions of the Evolution and Earth Sciences\" is a work by German author Hans-Joachim Zillmer that challenges conventional views on human evolution and the age of archaeological findings. Zillmer argues that numerous Stone Age artifacts, including the skulls of Neanderthals and individuals from the Paleolithic era, are much younger than traditionally believed. He contends that these should be dated as young as a few thousand or even hundreds of years, rather than the accepted timeline of 27,000 years or more."
 template = "resources-page.html"
 slug = "the-human-history-mistake"
 

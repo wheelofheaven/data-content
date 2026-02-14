@@ -1,6 +1,6 @@
 +++
 title = "Creators: The Past"
-description = "\\\"Creators: The Past\\\" is an Italian science fiction fantasy film directed by Piergiuseppe Zaia, who also co-wrote the screenplay with Eleonora Fani and composed the soundtrack. The film features a notable cast, including Eleonora Fani, Jennifer Mischiati, Bruce Payne, and guest appearances by Gérard Depardieu and William Shatner. The plot revolves around the manipulation of mankind's destiny by a race of powerful extraterrestrials known as the Creators."
+description = "\"Creators: The Past\" is an Italian science fiction fantasy film directed by Piergiuseppe Zaia, who also co-wrote the screenplay with Eleonora Fani and composed the soundtrack. The film features a notable cast, including Eleonora Fani, Jennifer Mischiati, Bruce Payne, and guest appearances by Gérard Depardieu and William Shatner. The plot revolves around the manipulation of mankind's destiny by a race of powerful extraterrestrials known as the Creators."
 template = "resources-page.html"
 slug = "creators-the-past"
 

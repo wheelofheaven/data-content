@@ -1,6 +1,6 @@
 +++
 title = "Kitáb-i-Aqdas"
-description = "The Kitáb-i-Aqdas, known as \\\"The Most Holy Book,\\\" is the central book of the Bahá'í Faith, written by Bahá’u’lláh, the founder of the faith. Composed in the 19th century, this sacred text lays down the laws, principles, and institutions for the Bahá'í community, and is considered the charter for a future global civilization. The Kitáb-i-Aqdas not only provides laws and ordinances for the spiritual and daily life of believers but also articulates the administrative principles and structures of the Bahá'í Faith. It outlines the requirements for the election of the Universal House of Justice, the faith's highest governing body, and sets forth the principles for the administration of Bahá'í communities."
+description = "The Kitáb-i-Aqdas, known as \"The Most Holy Book,\" is the central book of the Bahá'í Faith, written by Bahá’u’lláh, the founder of the faith. Composed in the 19th century, this sacred text lays down the laws, principles, and institutions for the Bahá'í community, and is considered the charter for a future global civilization. The Kitáb-i-Aqdas not only provides laws and ordinances for the spiritual and daily life of believers but also articulates the administrative principles and structures of the Bahá'í Faith. It outlines the requirements for the election of the Universal House of Justice, the faith's highest governing body, and sets forth the principles for the administration of Bahá'í communities."
 template = "resources-page.html"
 slug = "kitab-i-aqdas"
 

@@ -1,6 +1,6 @@
 +++
 title = "Debate between Winter and Summer"
-description = "The \\\"Debate between Winter and Summer,\\\" also known as the \\\"Myth of Emesh and Enten,\\\" is a Sumerian creation myth dating from the mid to late 3rd millennium BC. This narrative is composed on clay tablets and is part of the ancient Mesopotamian tradition of disputations or debate poems."
+description = "The \"Debate between Winter and Summer,\" also known as the \"Myth of Emesh and Enten,\" is a Sumerian creation myth dating from the mid to late 3rd millennium BC. This narrative is composed on clay tablets and is part of the ancient Mesopotamian tradition of disputations or debate poems."
 template = "resources-page.html"
 slug = "debate-between-winter-and-summer"
 

@@ -1,6 +1,6 @@
 +++
 title = "Kosmographia — The Official Randall Carlson Podcast"
-description = "\\\"Kosmographia — The Official Randall Carlson Podcast\\\" is a thought-provoking and in-depth podcast series hosted by Randall Carlson, a renowned geological and architectural theorist, teacher, and scholar. The podcast delves into a wide array of subjects that intersect science, mythology, geology, and ancient history, reflecting Carlson's multifaceted interests and expertise."
+description = "\"Kosmographia — The Official Randall Carlson Podcast\" is a thought-provoking and in-depth podcast series hosted by Randall Carlson, a renowned geological and architectural theorist, teacher, and scholar. The podcast delves into a wide array of subjects that intersect science, mythology, geology, and ancient history, reflecting Carlson's multifaceted interests and expertise."
 template = "resources-page.html"
 slug = "kosmographia"
 

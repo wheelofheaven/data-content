@@ -1,6 +1,6 @@
 +++
 title = "Alternative History VS Mainstream History or War on Facts"
-description = "The video \\\"Alternative History VS Mainstream History or War on Facts\\\" made by Versadoco delves into the complexities of scientific paradigms in the context of historical studies. It discusses how these paradigms, often linked to career advancements, can make it challenging for archaeologists to question dominant perspectives. The evolving nature of science, seen not as a dogma but as an instrument to understand reality, plays a critical role in shaping our understanding of history, which itself is fragmented and open to interpretation."
+description = "The video \"Alternative History VS Mainstream History or War on Facts\" made by Versadoco delves into the complexities of scientific paradigms in the context of historical studies. It discusses how these paradigms, often linked to career advancements, can make it challenging for archaeologists to question dominant perspectives. The evolving nature of science, seen not as a dogma but as an instrument to understand reality, plays a critical role in shaping our understanding of history, which itself is fragmented and open to interpretation."
 template = "resources-page.html"
 slug = "alternative-history-s-mainstream-history"
 

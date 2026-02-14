@@ -1,6 +1,6 @@
 +++
 title = "Is Genesis History?"
-description = "\\\"Is Genesis History?\\\" is a 2017 American film directed by Thomas Purifoy Jr., which presents the perspective of Young Earth creationism. This form of creation science challenges established scientific facts regarding the origins of the universe, Earth, solar system, and life itself, advocating for a literal interpretation of the biblical narratives. The film posits that the Earth was created in six 24-hour days and supports the Genesis accounts of Adam and Eve, the fall, a global flood, and the Tower of Babel."
+description = "\"Is Genesis History?\" is a 2017 American film directed by Thomas Purifoy Jr., which presents the perspective of Young Earth creationism. This form of creation science challenges established scientific facts regarding the origins of the universe, Earth, solar system, and life itself, advocating for a literal interpretation of the biblical narratives. The film posits that the Earth was created in six 24-hour days and supports the Genesis accounts of Adam and Eve, the fall, a global flood, and the Tower of Babel."
 template = "resources-page.html"
 slug = "is-genesis-history"
 

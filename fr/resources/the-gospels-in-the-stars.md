@@ -1,6 +1,6 @@
 +++
 title = "The Gospel in the Stars"
-description = "Joseph A. Seiss' book \\\"The Gospel in the Stars\\\" presents a unique interpretation of the constellations, suggesting that they carry a divine message relating to the gospel of Jesus Christ. Seiss, an American pastor and author, proposes that the arrangement and symbolism of the constellations have been used throughout human history as a means to convey knowledge and wisdom, particularly concerning the nature of God and the plan of salvation."
+description = "Joseph A. Seiss' book \"The Gospel in the Stars\" presents a unique interpretation of the constellations, suggesting that they carry a divine message relating to the gospel of Jesus Christ. Seiss, an American pastor and author, proposes that the arrangement and symbolism of the constellations have been used throughout human history as a means to convey knowledge and wisdom, particularly concerning the nature of God and the plan of salvation."
 template = "resources-page.html"
 slug = "the-gospels-in-the-stars"
 

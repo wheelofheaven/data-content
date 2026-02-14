@@ -1,6 +1,6 @@
 +++
 title = "The Collection of Divine Messages of the Cao Đài Religion of God"
-description = "\\\"The Collection of Divine Messages\\\" (Thánh Ngôn Hiệp Tuyển), a key scripture of the Đạo Cao Đài religion, was compiled in 1926, encapsulating the divine teachings and revelations central to this Vietnamese religious movement. This collection is comprised of two volumes of messages, believed to be communicated by the Supreme Being and various Divine Spirits to the followers of Đạo Cao Đài."
+description = "\"The Collection of Divine Messages\" (Thánh Ngôn Hiệp Tuyển), a key scripture of the Đạo Cao Đài religion, was compiled in 1926, encapsulating the divine teachings and revelations central to this Vietnamese religious movement. This collection is comprised of two volumes of messages, believed to be communicated by the Supreme Being and various Divine Spirits to the followers of Đạo Cao Đài."
 template = "resources-page.html"
 slug = "the-collection-of-divine-messages-of-cai-dai"
 

@@ -1,6 +1,6 @@
 +++
 title = "The Engagement"
-description = "\\\"The Engagement\\\" is a proposal addressing the Israeli-Palestinian conflict. It suggests that the conflict in the Holy Land, primarily between Jewish and Palestinian communities, represents a clash of civilizations rooted in a deep and intensive encounter between Western (Judeo-Christian) and Middle Eastern (Arab-Muslim) cultures. The proposal argues that about 80-90% of Palestinians are descendants of the People of Israel, who remained in the country after the destruction of the Second Jewish Temple and were forced to convert to Islam. This claim is based on various studies, including anthropological and genetic research, which find significant genetic similarities between Jews and Palestinians."
+description = "\"The Engagement\" is a proposal addressing the Israeli-Palestinian conflict. It suggests that the conflict in the Holy Land, primarily between Jewish and Palestinian communities, represents a clash of civilizations rooted in a deep and intensive encounter between Western (Judeo-Christian) and Middle Eastern (Arab-Muslim) cultures. The proposal argues that about 80-90% of Palestinians are descendants of the People of Israel, who remained in the country after the destruction of the Second Jewish Temple and were forced to convert to Islam. This claim is based on various studies, including anthropological and genetic research, which find significant genetic similarities between Jews and Palestinians."
 template = "resources-page.html"
 slug = "the-engagement"
 
