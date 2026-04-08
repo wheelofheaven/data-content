@@ -8,6 +8,7 @@ weight = 2
 aliases = ["/intro/the-hypothesis/", "/intro/the-foundation/", "/intro/take-aways/"]
 
 [extra]
+claim_type = "speculative"
 category = "Origins"
 header_image = "/images/essentials/elohim-hypothesis.jpg"
 featured = false

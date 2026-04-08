@@ -7,6 +7,7 @@ slug = "our-method"
 weight = 7
 
 [extra]
+claim_type = "direct"
 category = "Method"
 header_image = "/images/essentials/our-method.jpg"
 featured = false

@@ -8,6 +8,7 @@ weight = 6
 aliases = ["/intro/the-setting/"]
 
 [extra]
+claim_type = "inferred"
 category = "Method"
 header_image = "/images/essentials/revelation-vs-myth.jpg"
 featured = false

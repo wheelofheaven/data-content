@@ -7,6 +7,7 @@ slug = "precession"
 weight = 3
 
 [extra]
+claim_type = "direct"
 category = "Astronomy"
 header_image = "/images/essentials/precession.jpg"
 featured = false

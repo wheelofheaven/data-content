@@ -8,6 +8,7 @@ weight = 4
 aliases = ["/intro/the-great-awakening/"]
 
 [extra]
+claim_type = "inferred"
 category = "Astronomy"
 header_image = "/images/essentials/world-ages.jpg"
 featured = false

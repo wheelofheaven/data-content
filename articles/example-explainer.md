@@ -5,6 +5,7 @@ date = 2024-01-15
 template = "articles-page.html"
 
 [extra]
+claim_type = "inferred"
 article_type = "explainer"
 category = "Philosophy"
 header_image = "/images/articles/example-header.jpg"

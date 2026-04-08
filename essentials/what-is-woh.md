@@ -8,6 +8,7 @@ weight = 1
 aliases = ["/intro/wheel-of-heaven/"]
 
 [extra]
+claim_type = "direct"
 category = "Origins"
 header_image_cdn = "og/wheel-of-heaven-background"
 featured = true

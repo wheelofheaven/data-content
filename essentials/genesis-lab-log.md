@@ -7,6 +7,7 @@ slug = "genesis-lab-log"
 weight = 5
 
 [extra]
+claim_type = "speculative"
 category = "Texts"
 header_image = "/images/essentials/genesis-lab-log.jpg"
 featured = false
