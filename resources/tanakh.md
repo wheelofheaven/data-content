@@ -10,6 +10,13 @@ publish_date = "800BC?"
 follow_url = "http://www.chabad.org/63255"
 medium = "religious-text"
 topics = ["Religion", "The Chosen People", "The Tradition"]
+source_family = "abrahamic"
+source_type = "scripture"
+authority_tier = "primary"
+relation_to_wheel = "comparative_primary"
+stance = "neutral"
+licensing_status = "public_domain"
+claim_type = "direct"
 +++
 The Tanakh, also known as the Hebrew Bible, is the canonical collection of Jewish texts, which is also a significant part of Christian scriptures. It is divided into three sections: the Torah (Teaching or Law), the Nevi'im (Prophets), and the Ketuvim (Writings). The word "Tanakh" is an acronym derived from these three divisions.
 

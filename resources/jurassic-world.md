@@ -10,6 +10,13 @@ publish_date = "2015"
 follow_url = "https://www.jurassicworldmovie.com/"
 medium = "cinematographic-film"
 topics = ["Age of Aquarius", "Cyberparadism", "Fiction", "Intelligent Design", "Futurism"]
+source_family = "supplementary"
+source_type = "documentary"
+authority_tier = "supplementary"
+relation_to_wheel = "supplementary"
+stance = "neutral"
+licensing_status = "unknown"
+claim_type = "direct"
 +++
 _Jurassic World_ is a 2015 American science fiction adventure film and the fourth installment in the _Jurassic Park_ franchise. Directed by Colin Trevorrow and written by Trevorrow, Derek Connolly, Rick Jaffa, and Amanda Silver, the film is set 22 years after the events of the original _Jurassic Park_ and takes place on the same fictional Central American island of Isla Nublar, off Costa Rica's Pacific Coast.
 

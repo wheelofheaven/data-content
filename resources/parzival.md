@@ -10,6 +10,13 @@ publish_date = "1200s"
 follow_url = "https://archive.org/details/miscellaneousba00bartgoog/page/n6/mode/2up?view=theater"
 medium = "historical-text"
 topics = ["Mythology", "The Tradition"]
+source_family = "supplementary"
+source_type = "myth_text"
+authority_tier = "supplementary"
+relation_to_wheel = "supplementary"
+stance = "neutral"
+licensing_status = "public_domain"
+claim_type = "direct"
 +++
 Wolfram von Eschenbach's "Parzival" is a seminal work of high medieval literature, written in the early 13th century. This epic poem is one of the most important narratives of the Arthurian legend, particularly notable for its detailed portrayal of the quest for the Holy Grail. The story revolves around Parzival (Percival in English), a knight from the court of King Arthur, and chronicles his journey from naive and impetuous youth to the wise and compassionate keeper of the Holy Grail.
 

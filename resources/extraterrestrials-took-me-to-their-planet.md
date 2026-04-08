@@ -11,6 +11,13 @@ follow_url = "https://www.rael.org/downloads/"
 medium = "canonical-text"
 original_title = "Les Extra-terrestres m'ont emmené sur leur Planète"
 topics = ["Age of Aquarius", "Ancient Astronauts", "Canonical", "Elohim", "Intelligent Design", "Neo-Euhemerism", "Raëlism", "Religion", "Syncretism"]
+source_family = "raelian"
+source_type = "scripture"
+authority_tier = "foundational"
+relation_to_wheel = "foundational"
+stance = "supportive"
+licensing_status = "licensed"
+claim_type = "direct"
 +++
 "Extraterrestrials Took Me to Their Planet" is a book written by Claude Vorilhon, also known as Raël, the founder of the Raëlian Movement. The book is a sequel to Raël's first book, "The Book Which Tells the Truth," and it expands on the ideas and teachings presented in that work. In "Extraterrestrials Took Me to Their Planet," Raël describes his experiences with extraterrestrial beings, whom he refers to as the Elohim. He claims that he was taken by the Elohim to their planet, where he received further teachings and insights about the nature of reality and the purpose of human existence.
 

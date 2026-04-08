@@ -10,6 +10,13 @@ publish_date = "1973"
 medium = "nonfiction-book"
 original_title = "L'ère du Verseau: Fin de l'illusion humaniste"
 topics = ["Age of Aquarius", "Ancient Astronauts", "Astrological ages", "Elohim", "Neo-Euhemerism", "Precession"]
+source_family = "neo_euhemerism"
+source_type = "academic_monograph"
+authority_tier = "supplementary"
+relation_to_wheel = "supplementary"
+stance = "supportive"
+licensing_status = "unknown"
+claim_type = "direct"
 +++
 "The Coming of the Gods" by Jean Sendy explores the concept that advanced extraterrestrial civilizations, referred to as "gods," have been visiting Earth for thousands of years, significantly influencing human history and religious beliefs. Sendy attributes many technological and cultural advancements, the creation of religious beliefs, and the inspiration for ancient myths and legends to these extraterrestrial beings. He suggests that these interactions between humans and these "gods" have occurred in various forms, including direct communication and the performance of miracles.
 

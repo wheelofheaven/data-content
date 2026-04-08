@@ -10,6 +10,13 @@ publish_date = "1862"
 follow_url = "https://www.francesrolleston.com/mazzaroth.html"
 medium = "nonfiction-book"
 topics = ["Age of Aquarius", "Astrological ages", "Bible", "Gospel in the Stars", "Mazzaroth", "Mythology", "Precession"]
+source_family = "archaeoastronomy"
+source_type = "academic_monograph"
+authority_tier = "scholarly"
+relation_to_wheel = "scholarly_context"
+stance = "neutral"
+licensing_status = "public_domain"
+claim_type = "direct"
 +++
 Frances Rolleston's book, "Mazzaroth; or, The Constellations," explores the significance and symbolism of the constellations in the context of divine revelation and biblical prophecy. She contends that the constellations hold a deeper, spiritual meaning that has been obscured by associations with pagan mythology and a lack of understanding of their original intent.
 

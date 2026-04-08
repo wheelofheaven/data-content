@@ -10,6 +10,13 @@ publish_date = "2009"
 follow_url = "https://signatureinthecell.com/"
 medium = "nonfiction-book"
 topics = ["Creationism", "Intelligent Design"]
+source_family = "science"
+source_type = "academic_monograph"
+authority_tier = "scientific"
+relation_to_wheel = "scientific_context"
+stance = "supportive"
+licensing_status = "unknown"
+claim_type = "direct"
 +++
 "Signature in the Cell: DNA and the Evidence for Intelligent Design" is a 2009 book by philosopher and intelligent design advocate Stephen C. Meyer. In this work, Meyer presents the argument that the digital code within DNA points to a designing intelligence as the best explanation for the origin of life. He discusses the problem of how life emerged from lifeless matter, a crucial event that must have occurred before biological evolution could begin.
 

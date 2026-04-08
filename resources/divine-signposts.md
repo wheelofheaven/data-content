@@ -11,6 +11,13 @@ follow_url = "https://oomoto.or.jp/wp/english/books/the-international-edition-of
 medium = "religious-text"
 original_title = "神道標?"
 topics = ["Religion", "Spirituality", "The Tradition"]
+source_family = "oomoto"
+source_type = "scripture"
+authority_tier = "primary"
+relation_to_wheel = "comparative_primary"
+stance = "neutral"
+licensing_status = "unknown"
+claim_type = "direct"
 +++
 "Divine Signposts" (大本, Ōmoto) by Onisaburo Deguchi (出口王仁三郎) is a foundational text in the spiritual and religious tradition of Ōmoto (大本), a Japanese new religious movement. Written in 1904 when Onisaburo was 33 years old, this work is one of his earliest writings and consists of 14 volumes. It lays out the basis of Ōmoto's teachings, emphasizing the essence of faith and Onisaburo's mission of world salvation.
 

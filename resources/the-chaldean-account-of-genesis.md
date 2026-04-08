@@ -10,6 +10,13 @@ publish_date = "1876"
 follow_url = "https://en.wikisource.org/wiki/The_Chaldean_Account_of_Genesis"
 medium = "hermeneutic-work"
 topics = ["Bible", "Comparative Mythology", "Genesis"]
+source_family = "mesopotamian"
+source_type = "commentary"
+authority_tier = "primary"
+relation_to_wheel = "comparative_primary"
+stance = "neutral"
+licensing_status = "public_domain"
+claim_type = "direct"
 +++
 "The Chaldean Account of Genesis" by George Smith is a seminal work that presents the findings and translations of ancient Babylonian and Assyrian texts, including the famous Epic of Gilgamesh. Published in 1876, the book was one of the first to reveal to the Western world the richness of Mesopotamian mythology and its parallels to biblical stories, notably the Great Flood narrative.
 

@@ -10,6 +10,13 @@ publish_date = "2015"
 follow_url = "https://www.adultswim.com/videos/rick-and-morty/"
 medium = "television-production"
 topics = ["Infinity", "Neo-Euhemerism"]
+source_family = "supplementary"
+source_type = "documentary"
+authority_tier = "supplementary"
+relation_to_wheel = "supplementary"
+stance = "neutral"
+licensing_status = "unknown"
+claim_type = "direct"
 +++
 Rick and Morty Season 2, Episode 6, titled "The Ricks Must Be Crazy," is a highly inventive and humorous exploration of complex scientific concepts, mainly nested universes and the ethics of creating and exploiting such realities.
 

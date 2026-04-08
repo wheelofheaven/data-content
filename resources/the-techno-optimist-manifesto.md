@@ -10,6 +10,13 @@ publish_date = "2023"
 follow_url = "https://a16z.com/the-techno-optimist-manifesto/"
 medium = "manifesto"
 topics = ["Age of Aquarius", "Cyberparadism", "Futurism"]
+source_family = "supplementary"
+source_type = "official_document"
+authority_tier = "supplementary"
+relation_to_wheel = "supplementary"
+stance = "neutral"
+licensing_status = "unknown"
+claim_type = "direct"
 +++
 The Techno-Optimist Manifesto presents a vision of a future where technology is the driving force behind societal progress and human well-being. It challenges the pervasive narrative that technology causes harm, such as job loss, environmental degradation, and societal ills, arguing instead that technology has been, and should continue to be, a source of human advancement and achievement.
 

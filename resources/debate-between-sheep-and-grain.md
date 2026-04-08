@@ -10,6 +10,13 @@ publish_date = "2500BC?"
 follow_url = "https://archive.org/details/miscellaneousba00bartgoog/page/n6/mode/2up"
 medium = "remote-antiquity"
 topics = ["Mythology", "Religion", "Sumer", "The Tradition"]
+source_family = "mesopotamian"
+source_type = "myth_text"
+authority_tier = "primary"
+relation_to_wheel = "comparative_primary"
+stance = "neutral"
+licensing_status = "public_domain"
+claim_type = "direct"
 +++
 The "Debate between sheep and grain" or "Myth of cattle and grain" is a significant Sumerian creation myth from the mid to late 3rd millennium BC. This myth is one of several "debate" topics known from Sumerian literature, characterized as disputations. Such debates were philosophical in nature and often addressed humanity's place in the world, reflecting a sophisticated level of abstract thought in ancient Mesopotamian societies.
 

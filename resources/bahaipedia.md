@@ -10,6 +10,13 @@ publish_date = "2007"
 follow_url = "https://bahaipedia.org/"
 medium = "web-resource"
 topics = ["Archive", "Encyclopedia", "Religion"]
+source_family = "bahai"
+source_type = "encyclopedia"
+authority_tier = "supplementary"
+relation_to_wheel = "supplementary"
+stance = "neutral"
+licensing_status = "unknown"
+claim_type = "direct"
 +++
 Bahaipedia is an independent, collaboratively edited encyclopedia focused on the Bahá'í Faith. Initiated in March 2007 by David Haslip, it aims to connect readers with primary source materials foundational to Bahá'í teachings and history. The site, powered by MediaWiki, features over 18,481 pages, edited by volunteers from diverse backgrounds. Bahaipedia includes sister projects like Bahaimedia for media storage, Bahaiworks for historical documents, and Bahai9.com for quotes and resources. The primary server is in Virginia, with secondary servers globally.
 

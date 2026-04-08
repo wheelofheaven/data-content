@@ -10,6 +10,13 @@ publish_date = "2016"
 follow_url = "https://www.academia.edu/24363391/_A_Gentleman_s_Joyous_Esotericism_Jean_Sendy_Above_and_Beyond_the_Ancient_Aliens_Alternative_Spirituality_and_Religion_Review_8_1_2017_1_35"
 medium = "research-paper"
 topics = ["Age of Aquarius", "Ancient Astronauts", "Elohim", "Neo-Euhemerism", "Precession", "Religion"]
+source_family = "neo_euhemerism"
+source_type = "academic_article"
+authority_tier = "supplementary"
+relation_to_wheel = "supplementary"
+stance = "supportive"
+licensing_status = "unknown"
+claim_type = "direct"
 +++
 In his paper "A Gentleman’s Joyous Esotericism: Jean Sendy Above and Beyond the Ancient Aliens," Stefano Bigliardi discusses the work of Jean Sendy, a French esoteric writer who explored the idea of ancient astronauts and extraterrestrial intervention in human history. Bigliardi provides an overview of Sendy's life and work, including his theories on the origins of humanity, the influence of extraterrestrial beings, and the possible connections between various mythologies and ancient cultures.
 

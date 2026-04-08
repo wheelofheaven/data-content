@@ -11,6 +11,13 @@ follow_url = "http://the-engagement.org/"
 medium = "manifesto"
 original_title = "המוצא – ההתחברות (Hebrew: The Origin - The Connection)"
 topics = ["Current affairs", "The Chosen People"]
+source_family = "supplementary"
+source_type = "official_document"
+authority_tier = "supplementary"
+relation_to_wheel = "supplementary"
+stance = "neutral"
+licensing_status = "unknown"
+claim_type = "direct"
 +++
 "The Engagement" is a proposal addressing the Israeli-Palestinian conflict. It suggests that the conflict in the Holy Land, primarily between Jewish and Palestinian communities, represents a clash of civilizations rooted in a deep and intensive encounter between Western (Judeo-Christian) and Middle Eastern (Arab-Muslim) cultures. The proposal argues that about 80-90% of Palestinians are descendants of the People of Israel, who remained in the country after the destruction of the Second Jewish Temple and were forced to convert to Islam. This claim is based on various studies, including anthropological and genetic research, which find significant genetic similarities between Jews and Palestinians.
 

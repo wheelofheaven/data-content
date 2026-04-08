@@ -10,6 +10,13 @@ publish_date = "1969"
 medium = "nonfiction-book"
 original_title = "Ces dieux qui firent le ciel et la terre: Le roman de la Bible"
 topics = ["Age of Aquarius", "Ancient Astronauts", "Astrological ages", "Elohim", "Neo-Euhemerism", "Precession"]
+source_family = "neo_euhemerism"
+source_type = "academic_monograph"
+authority_tier = "supplementary"
+relation_to_wheel = "supplementary"
+stance = "supportive"
+licensing_status = "unknown"
+claim_type = "direct"
 +++
 "Those Gods Who Made Heaven and Earth: The Evidence for Alien Visitors to Earth before the Dawn of History" by Jean Sendy is a book that explores the possibility of extraterrestrial influence on ancient human civilizations. Sendy argues that many myths, legends, and religious texts of ancient cultures, including those of the Sumerians, Egyptians, and Mayans, contain references to extraterrestrial visitors, which he interprets as evidence of real encounters between humans and aliens. He believes that the advanced knowledge and technology of these ancient civilizations can be attributed to the influence of these extraterrestrial beings. The book also examines archaeological and architectural sites, like the pyramids of Egypt and Mexico, suggesting they were built with knowledge and technologies beyond the capabilities of the cultures that constructed them, possibly serving as landing sites or communication centers for extraterrestrial visitors.
 

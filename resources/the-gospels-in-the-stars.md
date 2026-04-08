@@ -9,6 +9,13 @@ authored_by = ["Joseph A. Seiss"]
 publish_date = "1884"
 medium = "nonfiction-book"
 topics = ["Age of Aquarius", "Astrological ages", "Bible", "Gospel in the Stars", "Mazzaroth", "Mythology", "Precession"]
+source_family = "archaeoastronomy"
+source_type = "academic_monograph"
+authority_tier = "scholarly"
+relation_to_wheel = "scholarly_context"
+stance = "neutral"
+licensing_status = "public_domain"
+claim_type = "direct"
 +++
 Joseph A. Seiss' book "The Gospel in the Stars" presents a unique interpretation of the constellations, suggesting that they carry a divine message relating to the gospel of Jesus Christ. Seiss, an American pastor and author, proposes that the arrangement and symbolism of the constellations have been used throughout human history as a means to convey knowledge and wisdom, particularly concerning the nature of God and the plan of salvation.
 

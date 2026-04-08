@@ -11,6 +11,13 @@ follow_url = "https://www.rael.org/downloads/"
 medium = "canonical-text"
 original_title = "Le Livre qui dit la Vérité"
 topics = ["Age of Aquarius", "Ancient Astronauts", "Canonical", "Elohim", "Intelligent Design", "Neo-Euhemerism", "Raëlism", "Religion", "Syncretism"]
+source_family = "raelian"
+source_type = "scripture"
+authority_tier = "foundational"
+relation_to_wheel = "foundational"
+stance = "supportive"
+licensing_status = "licensed"
+claim_type = "direct"
 +++
 "The Book Which Tells the Truth" is a book written by Claude Vorilhon, also known as Raël, the founder of the Raëlian Movement. The book details Raël's claims of encounters with extraterrestrial beings and presents his beliefs and teachings. According to Raël, the extraterrestrial beings he encountered revealed to him that life on Earth was created through genetic engineering by a highly advanced civilization of extraterrestrial beings, who he refers to as the Elohim. Raël claims that the Elohim created humans in their own image, and that they continue to observe and guide humanity's development. The book presents Raël's beliefs about the nature of reality and the purpose of life. He argues that humans have a divine origin, and that our purpose is to evolve and eventually become like the Elohim, through the development of science and technology. Raël also teaches that the Elohim will return one day to bring about a new era of peace and enlightenment for humanity.
 

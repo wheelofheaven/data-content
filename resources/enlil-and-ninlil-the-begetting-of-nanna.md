@@ -10,6 +10,13 @@ publish_date = "2400BC?"
 follow_url = "https://archive.org/details/miscellaneousba00bartgoog/page/n6/mode/2up?view=theater"
 medium = "remote-antiquity"
 topics = ["Mythology", "Religion", "Sumer", "The Tradition"]
+source_family = "mesopotamian"
+source_type = "myth_text"
+authority_tier = "primary"
+relation_to_wheel = "comparative_primary"
+stance = "neutral"
+licensing_status = "public_domain"
+claim_type = "direct"
 +++
 "Enlil and Ninlil: The Begetting of Nanna" is a Sumerian creation myth that dates back to the mid to late 3rd millennium BC. The story is set in the ancient city of Nippur, which is portrayed as a divine city inhabited by gods before humans. Enlil, a prominent god in the Sumerian pantheon, is featured as a central character in this myth.
 

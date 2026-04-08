@@ -10,6 +10,13 @@ publish_date = "2019"
 follow_url = "https://www.deezer.com/en/show/3741747"
 medium = "podcast"
 topics = ["Atlantis", "Comparative Mythology", "Esoterica", "Flood geology", "History of science", "Precession", "Sacred Geometry"]
+source_family = "archaeoastronomy"
+source_type = "lecture"
+authority_tier = "supplementary"
+relation_to_wheel = "supplementary"
+stance = "neutral"
+licensing_status = "unknown"
+claim_type = "direct"
 +++
 "Kosmographia — The Official Randall Carlson Podcast" is a thought-provoking and in-depth podcast series hosted by Randall Carlson, a renowned geological and architectural theorist, teacher, and scholar. The podcast delves into a wide array of subjects that intersect science, mythology, geology, and ancient history, reflecting Carlson's multifaceted interests and expertise.
 

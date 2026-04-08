@@ -10,6 +10,13 @@ publish_date = "2015"
 follow_url = "https://www.imdb.com/title/tt0097292/"
 medium = "cinematographic-film"
 topics = ["Ancient astronauts", "Fiction", "Neo-Euhemerism"]
+source_family = "supplementary"
+source_type = "documentary"
+authority_tier = "supplementary"
+relation_to_wheel = "supplementary"
+stance = "neutral"
+licensing_status = "unknown"
+claim_type = "direct"
 +++
 _Hard to Be a God_ (1989) is a West German-Soviet-French-Swiss science fiction film directed by Peter Fleischmann, based on the novel of the same name by Arkady and Boris Strugatsky. The film is set on a distant planet that mirrors Earth's Middle Ages, where society has not progressed beyond a primitive, feudal state. This alien world is being observed by Earth scientists posing as noble feudal lords.
 

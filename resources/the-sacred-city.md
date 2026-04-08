@@ -10,6 +10,13 @@ publish_date = "2018"
 follow_url = "https://nabataea.net/cinema/sacredcity/"
 medium = "documentary-film"
 topics = ["Ancient Builders", "Bible"]
+source_family = "supplementary"
+source_type = "documentary"
+authority_tier = "supplementary"
+relation_to_wheel = "supplementary"
+stance = "neutral"
+licensing_status = "unknown"
+claim_type = "direct"
 +++
 "The Sacred City" is a documentary film by Dan Gibson that presents a provocative and alternative perspective on the early history of Islam and its sacred geography. Gibson, a historical researcher, embarks on a quest to investigate the origins of Islam, challenging the conventional narrative about the birthplace of the religion.
 

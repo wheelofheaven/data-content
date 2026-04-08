@@ -11,6 +11,13 @@ follow_url = "http://caodaism.org/2001/tnht.htm"
 medium = "religious-text"
 original_title = "Thánh Ngôn Hiệp Tuyển (Quyển 1 & 2)"
 topics = ["Religion", "Spirituality", "The Tradition"]
+source_family = "caodaist"
+source_type = "scripture"
+authority_tier = "primary"
+relation_to_wheel = "comparative_primary"
+stance = "neutral"
+licensing_status = "unknown"
+claim_type = "direct"
 +++
 "The Collection of Divine Messages" (Thánh Ngôn Hiệp Tuyển), a key scripture of the Đạo Cao Đài religion, was compiled in 1926, encapsulating the divine teachings and revelations central to this Vietnamese religious movement. This collection is comprised of two volumes of messages, believed to be communicated by the Supreme Being and various Divine Spirits to the followers of Đạo Cao Đài.
 

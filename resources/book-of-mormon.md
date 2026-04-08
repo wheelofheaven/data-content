@@ -10,6 +10,13 @@ publish_date = "1830"
 follow_url = "https://www.churchofjesuschrist.org/study/scriptures/bofm?lang=eng"
 medium = "religious-text"
 topics = ["Religion", "Mormonism", "Spirituality", "The Tradition"]
+source_family = "mormon"
+source_type = "scripture"
+authority_tier = "primary"
+relation_to_wheel = "comparative_primary"
+stance = "neutral"
+licensing_status = "public_domain"
+claim_type = "direct"
 +++
 The Book of Mormon, foundational to the Latter Day Saint movement, is a religious text published by Joseph Smith in 1830. Smith described it as a translation of golden plates shown to him by an angel, Moroni. The narrative details the history of ancient peoples in the Americas, focusing on their spiritual journey and teachings, with a pivotal event being the appearance of Jesus Christ post-resurrection. It's considered by adherents as a complementary scripture to the Bible, offering insights into Christian theology and moral teachings. The book plays a central role in the faith and practice of the Church of Jesus Christ of Latter-day Saints and other Latter Day Saint movements.
 

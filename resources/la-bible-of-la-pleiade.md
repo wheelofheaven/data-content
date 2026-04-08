@@ -11,6 +11,13 @@ follow_url = "https://www.la-pleiade.fr/Catalogue/GALLIMARD/Bibliotheque-de-la-P
 medium = "hermeneutic-work"
 original_title = "La Bible: Ancient Testament (Tome 1 et 2)"
 topics = ["Bible", "Elohim", "Theology"]
+source_family = "abrahamic"
+source_type = "commentary"
+authority_tier = "primary"
+relation_to_wheel = "comparative_primary"
+stance = "neutral"
+licensing_status = "unknown"
+claim_type = "direct"
 +++
 The "La Bible: Ancient Testament (tome 1 et 2)" from La Pléiade publisher, translated by Édouard Dhorme, Franck Michaéli, and Antoine Guillaumont, offers a comprehensive look at the Old Testament.
 

@@ -9,6 +9,13 @@ authored_by = ["Brinsley Le Poer Trench"]
 publish_date = "1960"
 medium = "nonfiction-book"
 topics = ["Ancient Astronauts", "Bible", "Elohim", "Genesis", "Current affairs", "Neo-Euhemerism"]
+source_family = "neo_euhemerism"
+source_type = "academic_monograph"
+authority_tier = "supplementary"
+relation_to_wheel = "supplementary"
+stance = "supportive"
+licensing_status = "unknown"
+claim_type = "direct"
 +++
 "The Sky People" by Brinsley Le Poer Trench offers a unique interpretation of human history and extraterrestrial involvement. Trench, in his book, argues that significant Biblical figures, including Adam and Eve and Noah, were originally residents of Mars. He bases this theory on what he perceives as inconsistencies between the Biblical description of the Garden of Eden and earthly environments, suggesting that the Garden of Eden was actually located on Mars, supported by his mention of canals on Mars.
 

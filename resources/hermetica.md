@@ -10,6 +10,13 @@ publish_date = "200BC?"
 follow_url = "http://www.gnosis.org/library/hermet.htm#CH"
 medium = "ancient-text"
 topics = ["Esoterica", "Mysticism", "The Tradition"]
+source_family = "western_esoteric"
+source_type = "myth_text"
+authority_tier = "primary"
+relation_to_wheel = "comparative_primary"
+stance = "neutral"
+licensing_status = "public_domain"
+claim_type = "direct"
 +++
 The Hermetica is a collection of texts attributed to Hermes Trismegistus, a legendary figure who represents a syncretic combination of the Greek god Hermes and the Egyptian god Thoth. These texts, stemming from the Hellenistic period, are foundational to the tradition of Hermeticism, which blends elements of mysticism, astrology, alchemy, and philosophy. The Hermetica encompasses a wide range of writings, varying in style and content, but generally focused on esoteric wisdom, the nature of the divine, and the path to spiritual enlightenment.
 

@@ -10,6 +10,13 @@ publish_date = "1842"
 follow_url = "https://www.churchofjesuschrist.org/study/scriptures/bofm?lang=eng"
 medium = "religious-text"
 topics = ["Religion", "Mormonism", "The Tradition"]
+source_family = "mormon"
+source_type = "scripture"
+authority_tier = "primary"
+relation_to_wheel = "comparative_primary"
+stance = "neutral"
+licensing_status = "public_domain"
+claim_type = "direct"
 +++
 The Book of Abraham is a work that is considered scripture by the Church of Jesus Christ of Latter-day Saints (LDS Church). It is believed to be an inspired translation of writings attributed to Abraham. The book was first published in 1842 and later canonized as part of the LDS Church's Pearl of Great Price in 1880.
 

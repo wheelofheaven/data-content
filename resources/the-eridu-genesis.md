@@ -10,6 +10,13 @@ publish_date = "1600BC?"
 follow_url = "https://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=t.1.7.4"
 medium = "remote-antiquity"
 topics = ["Mythology", "Religion", "Sumer", "The Tradition"]
+source_family = "mesopotamian"
+source_type = "myth_text"
+authority_tier = "primary"
+relation_to_wheel = "comparative_primary"
+stance = "neutral"
+licensing_status = "public_domain"
+claim_type = "direct"
 +++
 The Eridu Genesis, also known as the Sumerian creation myth, is one of the earliest known narratives of its kind. Discovered on a single fragmentary tablet excavated in Nippur in 1893 and recognized in 1912, it dates back to around 1600 BCE. This myth forms part of a group of Sumerian creation myths found at the same site, including the [Barton Cylinder](/resources/barton-cylinder/index/) and the [Debate between sheep and grain](/resources/debate-between-sheep-and-grain/index/), and the [Debate between Winter and Summer](/resources/debate-between-winter-and-summer/index/).
 

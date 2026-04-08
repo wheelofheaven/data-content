@@ -10,6 +10,13 @@ publish_date = "2011"
 follow_url = "https://www.sefaria.org/texts"
 medium = "web-resource"
 topics = ["Bible", "Genesis", "Reference work", "Religion", "Theology"]
+source_family = "abrahamic"
+source_type = "encyclopedia"
+authority_tier = "supplementary"
+relation_to_wheel = "supplementary"
+stance = "neutral"
+licensing_status = "unknown"
+claim_type = "direct"
 +++
 Sefaria, founded in 2011 by journalist Joshua Foer and Brett Lockspeiser, a former product manager at Google, is a remarkable digital library of Jewish texts. Its name, derived from the Hebrew words "sefer" (book) and "sifria" (library), encapsulates its mission to be a comprehensive, accessible repository of Jewish knowledge​​​​.
 

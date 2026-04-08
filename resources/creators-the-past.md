@@ -10,6 +10,13 @@ publish_date = "2016"
 follow_url = "http://www.creatorsmovie.it/"
 medium = "cinematographic-film"
 topics = ["Age of Aquarius", "Ancient Builders", "Elohim", "Fiction", "Flood Geology", "Precession", "Pyramids", "The Tradition"]
+source_family = "supplementary"
+source_type = "documentary"
+authority_tier = "supplementary"
+relation_to_wheel = "supplementary"
+stance = "neutral"
+licensing_status = "unknown"
+claim_type = "direct"
 +++
 "Creators: The Past" is an Italian science fiction fantasy film directed by Piergiuseppe Zaia, who also co-wrote the screenplay with Eleonora Fani and composed the soundtrack. The film features a notable cast, including Eleonora Fani, Jennifer Mischiati, Bruce Payne, and guest appearances by Gérard Depardieu and William Shatner. The plot revolves around the manipulation of mankind's destiny by a race of powerful extraterrestrials known as the Creators. It was announced as the first part of a planned trilogy, with the next two installments being "Creators: The Present" and "Creators: The Future."
 

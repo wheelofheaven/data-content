@@ -10,6 +10,13 @@ publish_date = "1994"
 follow_url = "https://temporarytemples.co.uk/"
 medium = "web-resource"
 topics = ["Archive", "Crop Circles"]
+source_family = "supplementary"
+source_type = "encyclopedia"
+authority_tier = "supplementary"
+relation_to_wheel = "supplementary"
+stance = "neutral"
+licensing_status = "unknown"
+claim_type = "direct"
 +++
 The website Temporary Temples is dedicated to exploring and documenting crop circles, particularly in the UK. It provides information about the latest crop circle formations, including their locations, images, and descriptions. Additionally, the site features galleries showcasing various crop circle designs throughout the years. It offers insights into their patterns, sizes, and intricacies. The website also provides information about events, tours, and workshops related to crop circles for those interested in engaging more deeply with the phenomenon.
 

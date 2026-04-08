@@ -11,6 +11,13 @@ follow_url = "https://www.rael.org/downloads/"
 medium = "canonical-text"
 original_title = "Accueillir les Extra-Terrestres"
 topics = ["Age of Aquarius", "Ancient Astronauts", "Canonical", "Elohim", "Intelligent Design", "Neo-Euhemerism", "Raëlism", "Religion", "Syncretism"]
+source_family = "raelian"
+source_type = "scripture"
+authority_tier = "foundational"
+relation_to_wheel = "foundational"
+stance = "supportive"
+licensing_status = "licensed"
+claim_type = "direct"
 +++
 "Let's Welcome the Extraterrestrials," the third book in the Raelian series, is a compilation of Rael's responses to frequently asked questions post-publication of his first two books. It addresses apparent contradictions between his earlier messages, clarifies the Raelian stance on various topics, and offers insights into the beliefs and teachings of the Raelian Movement. The book delves into the origins of life on Earth, the role of the Elohim in human history, the relationship between humans and their creators, and the future of humanity in relation to extraterrestrial life. The content reflects Rael's continued efforts to articulate the Raelian philosophy and its implications for understanding human existence and the universe.
 

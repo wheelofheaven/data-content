@@ -9,6 +9,13 @@ authored_by = ["David Berlinski"]
 publish_date = "2008"
 medium = "nonfiction-book"
 topics = ["Bible", "Creationism", "Genesis", "History of Science"]
+source_family = "criticism"
+source_type = "academic_monograph"
+authority_tier = "critical"
+relation_to_wheel = "critical_context"
+stance = "critical"
+licensing_status = "unknown"
+claim_type = "direct"
 +++
 In "The Devil's Delusion: Atheism and Its Scientific Pretensions," David Berlinski mounts a vigorous critique of scientific atheism, particularly addressing the assertions made by figures like Richard Dawkins and Sam Harris. Berlinski, a secular Jew and mathematician, questions the completeness and authority of science in answering profound existential and moral questions.
 

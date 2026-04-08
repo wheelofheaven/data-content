@@ -10,6 +10,13 @@ publish_date = "2100BC?"
 follow_url = "https://www.ebl.lmu.de/corpus/L/1/4"
 medium = "remote-antiquity"
 topics = ["Mythology", "The Tradition"]
+source_family = "mesopotamian"
+source_type = "myth_text"
+authority_tier = "primary"
+relation_to_wheel = "comparative_primary"
+stance = "neutral"
+licensing_status = "public_domain"
+claim_type = "direct"
 +++
 The Epic of Gilgamesh is an ancient Mesopotamian poem, regarded as one of the earliest great works of literature. It narrates the adventures of Gilgamesh, the historical king of Uruk, and his quest for immortality, exploring themes of friendship, the human condition, and the fear of death. The epic, written in cuneiform on clay tablets, dates back to the early 3rd millennium BCE.
 

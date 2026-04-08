@@ -10,6 +10,13 @@ publish_date = "2500BC?"
 follow_url = "https://archive.org/details/miscellaneousba00bartgoog/page/n6/mode/2up"
 medium = "remote-antiquity"
 topics = ["Mythology", "Religion", "Sumer", "The Tradition"]
+source_family = "mesopotamian"
+source_type = "myth_text"
+authority_tier = "primary"
+relation_to_wheel = "comparative_primary"
+stance = "neutral"
+licensing_status = "public_domain"
+claim_type = "direct"
 +++
 The "Debate between Winter and Summer," also known as the "Myth of Emesh and Enten," is a Sumerian creation myth dating from the mid to late 3rd millennium BC. This narrative is composed on clay tablets and is part of the ancient Mesopotamian tradition of disputations or debate poems.
 

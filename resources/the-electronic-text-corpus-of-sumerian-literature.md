@@ -10,6 +10,13 @@ publish_date = "1997"
 follow_url = "https://etcsl.orinst.ox.ac.uk/"
 medium = "web-resource"
 topics = ["Archive", "Mythology", "Religion", "Sumer", "The Tradition"]
+source_family = "mesopotamian"
+source_type = "encyclopedia"
+authority_tier = "supplementary"
+relation_to_wheel = "supplementary"
+stance = "neutral"
+licensing_status = "public_domain"
+claim_type = "direct"
 +++
 The Electronic Text Corpus of Sumerian Literature (ETCSL), in its second edition, is a comprehensive digital project aimed at compiling, translating, and publishing the extensive body of Sumerian literature. This literature, dating back to around 2500 BCE, includes a vast array of poetic forms such as hymns, laments, prayers, fables, and proverbs, largely reconstructed from thousands of fragmented clay tablets inscribed in cuneiform.
 

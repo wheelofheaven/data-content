@@ -1,47 +1,48 @@
 +++
-title = "Avesta"
-description = "The Avesta is the holy scripture of Zoroastrianism, one of the world's oldest monotheistic religions. Composed over several centuries, its authorship is traditionally attributed to the prophet Zoroaster, but it likely includes contributions from many authors. The Avesta consists of various parts, including hymns, liturgical texts, mythological lore, moral guidance, and prayers. These texts are central to Zoroastrian religious practice and philosophy, emphasizing the cosmic struggle between good and evil. Much of the original Avesta has been lost over time, with surviving manuscripts dating back to the 13th century CE, primarily in Middle Persian language."
+title = "Book of Enoch"
+description = "The Book of Enoch, also known as 1 Enoch, is an ancient Hebrew apocalyptic religious text traditionally attributed to the patriarch Enoch. It contains unique material on the origins of demons and Nephilim, the reasons why some angels fell from heaven, and a prophetic exposition of the thousand-year reign of the Messiah. The oldest sections are estimated to date from 300–200 BC, with the latest part around 100 BC. The text, thought to be originally written in Aramaic or Hebrew, is found in various fragments, including the Dead Sea Scrolls. It is recognized as canonical scripture only by the Ethiopian Orthodox Tewahedo Church and is generally considered non-canonical by other Jewish and Christian groups."
 template = "resources-page.html"
 slug = "book-of-enoch"
 
 [extra]
-authored_by = ["Zoroaster"]
+authored_by = ["Enoch (ascribed to)"]
 publish_date = "-300?"
 follow_url = "https://www.churchofjesuschrist.org/study/scriptures/bofm?lang=eng"
 medium = "religious-text"
-original_title = "Abestāg"
 topics = ["Religion", "Mythology", "The Tradition"]
+source_family = "second_temple"
+source_type = "scripture"
+authority_tier = "primary"
+relation_to_wheel = "comparative_primary"
+stance = "neutral"
+licensing_status = "public_domain"
+claim_type = "direct"
 +++
-The Avesta is the holy scripture of Zoroastrianism, one of the world's oldest monotheistic religions. Composed over several centuries, its authorship is traditionally attributed to the prophet Zoroaster (from the Greek transcription Ζωροάστρης, Zōroastrēs), also known as Zarathustra (from the Avestan 𐬰𐬀𐬭𐬀𐬚𐬎𐬱𐬙𐬭𐬀, transliterated Zaraθuštra) but it likely includes contributions from many authors. The Avesta consists of various parts, including hymns, liturgical texts, mythological lore, moral guidance, and prayers. These texts are central to Zoroastrian religious practice and philosophy, emphasizing the cosmic struggle between good and evil. Much of the original Avesta has been lost over time, with surviving manuscripts dating back to the 13th century CE, primarily in Middle Persian language.
+The Book of Enoch, also known as 1 Enoch, is an ancient Hebrew apocalyptic religious text traditionally attributed to the patriarch Enoch. It contains unique material on the origins of demons and Nephilim, the reasons why some angels fell from heaven, and a prophetic exposition of the thousand-year reign of the Messiah. The oldest sections are estimated to date from 300–200 BC, with the latest part around 100 BC. The text, thought to be originally written in Aramaic or Hebrew, is found in various fragments, including the Dead Sea Scrolls. It is recognized as canonical scripture only by the Ethiopian Orthodox Tewahedo Church and is generally considered non-canonical by other Jewish and Christian groups.
 
 ### Manuscripts and history
 
-The history of the Avesta's manuscripts is complex, marked by periods of turmoil and loss. The original Avestan language script was lost over time, and the surviving manuscripts are primarily in Pahlavi, the Middle Persian language. The oldest surviving copies of these texts date back to the 13th century CE, but their content is undoubtedly much older.
+The most extensive early manuscripts of the Book of Enoch are in Ge'ez, divided into two families by Robert Henry Charles in his 1906 edition. The older family α includes six manuscripts, closer to earlier Hebrew, Aramaic, and Greek versions. The more recent family β consists of eleven edited texts. Additionally, manuscripts used by the Ethiopian Orthodox Church in translating deuterocanonicals from Ge'ez to Amharic are noted. The discovery of eleven Aramaic fragments in Qumran in 1948 further supports the text's antiquity. Greek, Coptic, Latin, and Syriac versions of the text or its parts also exist, with varying degrees of completeness and correlation to the Ethiopian text.
 
-Throughout history, the Avesta underwent various redactions and revisions, especially during the Sassanian Empire (224–651 CE). The Arab conquest of Persia in the 7th century CE led to a significant decline in Zoroastrianism and the dispersal of its scriptures. Much of the Avesta was destroyed or lost, and only a fraction of the original texts survives to this day.
-
-In the 19th and early 20th centuries, Western scholars began to study the Avesta more rigorously, comparing different manuscripts and translations. This period marked a revival of interest in Zoroastrian texts and helped preserve what remained of the ancient scripture.
+The Book of Enoch is a complex, multi-authored work spanning from 200 BC to AD 160. It is a collection of Jewish apocalyptic traditions, with its oldest fragments dating to 200–150 BCE, suggesting its origins in the 3rd century BCE. This text differs from traditional Hebrew Bible materials, introducing unique concepts like Enochic Judaism and differing on views of evil, purity, and eschatology. The Qumran community's interest in the Book of Enoch faded over time, and its relationship with the Essenes, especially regarding sections not found in Qumran, is debated. Rabbinic literature largely ignores Enoch, but it influenced Jewish mysticism and Christian doctrines.
 
 ### Contents and structure
 
-The Avesta is divided into several major parts, each serving a unique function within the Zoroastrian religious framework:
+The Book of Enoch is divided into five major sections:
 
-- **Yasna:** It contains the Gathas and other liturgical texts. The Yasna's primary purpose is for use in Zoroastrian ritual and worship.
+- **The Book of the Watchers (1 Enoch 1–36):** This section describes the descent of the Watchers, angels who fathered the Nephilim (giants) with human women. It includes Enoch's journeys to heaven and the subsequent judgment upon the Watchers.
 
-- **Visperad:** This part includes supplements to the Yasna and is used during specific Zoroastrian festivals.
+- **The Book of Parables (1 Enoch 37–71):** This part contains three parables concerning a future judgment and deliverance of the righteous.
 
-- **Vendidad:** This section contains a mix of mythological lore, moral guidance, and ritual purity laws.
+- **The Astronomical Book (1 Enoch 72–82):** Also known as the Book of the Heavenly Luminaries, this section details a solar and lunar calendar and the movement of celestial bodies.
 
-- **Yashts:** These are hymns dedicated to various Zoroastrian deities and spiritual figures.
+- **The Book of Dream Visions (1 Enoch 83–90):** This segment recounts the history of Israel in the form of a dream that Enoch has, using animals to symbolize different human groups.
 
-- **Khordeh Avesta:** This is a smaller, more concise collection of prayers used by lay followers in daily practice.
+- **The Epistle of Enoch (1 Enoch 91–108):** This final part includes exhortations and warnings to the righteous, prophecies of doom for the wicked, and a final apocalypse.
 
-The structure of the Avesta reflects a combination of spiritual guidance, liturgical material, and moral law, all essential to the practice of Zoroastrianism.
+### Canonicity
 
-
-### Authorship
-
-The Avesta's authorship is traditionally attributed to Zoroaster (or Zarathustra), an ancient Iranian prophet whose date of existence is debated but often placed around 1000 BCE. However, the texts themselves are likely the work of many authors over several centuries. The oldest part, the Gathas, is a series of hymns believed to be composed by Zoroaster. These hymns reflect his religious and ethical teachings, forming the core philosophy of Zoroastrianism. Later sections of the Avesta were written by different generations of priests, accumulating over time to form the entire scripture.
+The Book of Enoch was widely read during the Second Temple period, as evidenced by numerous copies found among the Dead Sea Scrolls. Today, it is considered canonical only by the Ethiopian Orthodox Tewahedo Church's Beta Israel community. The Jewish tradition, except for this group, does not accept the Book of Enoch as part of its canonical scriptures. The book's rejection is primarily due to its inconsistencies with Torah teachings and its introduction of concepts, such as the angel Phanuel, not found in other scriptures. Additionally, its use of material from the Torah, such as midrashic interpretations, and detailed descriptions of fallen angels, contributed to its exclusion from the Hebrew canon. In Christianity, the Book of Enoch was mostly excluded from the biblical canon by the 5th century, remaining part of the scriptural tradition only in the Ethiopian and Eritrean Orthodox Churches.
 
 ### See also
 
@@ -50,7 +51,7 @@ The Avesta's authorship is traditionally attributed to Zoroaster (or Zarathustra
 
 ### External links
 
-- [The Zend Avesta, Part I - James Darmesteter 1880 Translation | Internet Sacred Text Archive](https://sacred-texts.com/zor/sbe04/index.htm)
-- [The Zend Avesta, Part II - James Darmesteter 1880 Translation | Internet Sacred Text Archive](https://sacred-texts.com/zor/sbe23/index.htm)
-- [The Zend Avesta, Part III - James Darmesteter 1880 Translation | Internet Sacred Text Archive](https://sacred-texts.com/zor/sbe31/index.htm)
-- [Avesta | Wikipedia](https://en.wikipedia.org/wiki/Avesta)
+- [R H Charles 1917 Translation | Internet Sacred Text Archive](https://sacred-texts.com/bib/boe/index.htm)
+- [Book of the Watchers (Chapters 1–36): Ge'ez text and fragments in Greek, Aramaic, and Latin | Online Critical Pseudepigrapha](https://pseudepigrapha.org/docs/text/1En)
+- [Ethiopic text online | Tel Aviv University Library](https://www.tau.ac.il/~hacohen/Henoch/Henoch%201.html)
+- [Book of Enoch | Wikipedia](https://en.wikipedia.org/wiki/Book_of_Enoch)

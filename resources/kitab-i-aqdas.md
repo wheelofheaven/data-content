@@ -11,6 +11,13 @@ follow_url = "https://www.bahai.org/library/authoritative-texts/bahaullah/kitab-
 medium = "religious-text"
 original_title = "الكتاب الأقدس (Transliteration from Arabic: al-Kitāb al-Aqdas)"
 topics = ["Religion", "Spirituality", "The Tradition"]
+source_family = "bahai"
+source_type = "scripture"
+authority_tier = "primary"
+relation_to_wheel = "comparative_primary"
+stance = "neutral"
+licensing_status = "public_domain"
+claim_type = "direct"
 +++
 The Kitáb-i-Aqdas, known as "The Most Holy Book," is the central book of the Bahá'í Faith, written by Bahá’u’lláh, the founder of the faith. Composed in the 19th century, this sacred text lays down the laws, principles, and institutions for the Bahá'í community, and is considered the charter for a future global civilization.
 

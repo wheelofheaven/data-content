@@ -10,6 +10,13 @@ publish_date = "2018"
 follow_url = "https://www.youtube.com/watch?v=EaKwgRBrc48"
 medium = "independent-digital-video"
 topics = ["History of Science"]
+source_family = "criticism"
+source_type = "documentary"
+authority_tier = "critical"
+relation_to_wheel = "critical_context"
+stance = "critical"
+licensing_status = "unknown"
+claim_type = "direct"
 +++
 The video "Alternative History VS Mainstream History or War on Facts" made by Versadoco delves into the complexities of scientific paradigms in the context of historical studies. It discusses how these paradigms, often linked to career advancements, can make it challenging for archaeologists to question dominant perspectives. The evolving nature of science, seen not as a dogma but as an instrument to understand reality, plays a critical role in shaping our understanding of history, which itself is fragmented and open to interpretation.
 

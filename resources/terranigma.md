@@ -11,6 +11,13 @@ follow_url = "https://bahaipedia.org/"
 medium = "video-game"
 original_title = "『天地創造』（てんちそうぞう）"
 topics = ["Fiction", "Genesis", "Religion", "Spirituality"]
+source_family = "supplementary"
+source_type = "fiction"
+authority_tier = "supplementary"
+relation_to_wheel = "supplementary"
+stance = "neutral"
+licensing_status = "unknown"
+claim_type = "direct"
 +++
 Terranigma, developed by Quintet (株式会社クインテット) and published by Enix for the Super Nintendo Entertainment System (SNES), is a 1995 action role-playing game with a rich narrative and thematic depth. The game's story centers around Ark, a mischievous teenager from the underground village of Crysta. Ark's journey begins when his curiosity triggers a series of events leading to the resurrection of life on a previously barren Earth.
 

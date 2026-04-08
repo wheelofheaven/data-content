@@ -10,6 +10,13 @@ publish_date = "1995"
 follow_url = "https://grahamhancock.com/fingerprints/"
 medium = "nonfiction-book"
 topics = ["Age of Aquarius", "Ancient Builders", "archaeoastronomy", "Cataclysm", "Flood Geology", "Precession", "Pyramids", "The Tradition"]
+source_family = "archaeoastronomy"
+source_type = "academic_monograph"
+authority_tier = "scholarly"
+relation_to_wheel = "scholarly_context"
+stance = "neutral"
+licensing_status = "unknown"
+claim_type = "direct"
 +++
 "Fingerprints of the Gods: The Evidence of Earth's Lost Civilization" by Graham Hancock, published in 1995, explores the hypothesis of a highly advanced civilization existing in prehistory, serving as the progenitor of all known ancient civilizations. Hancock proposes that this civilization, centered around Antarctica, ended catastrophically at the end of the last ice age but passed on significant knowledge in astronomy, architecture, and mathematics. The evidence for this lost civilization, according to Hancock, is found in ancient Egypt and American civilizations like the Olmec, Aztec, and Maya. He discusses various creation myths and archaeological sites, such as Tiwanaku in Bolivia, to support his theory.
 

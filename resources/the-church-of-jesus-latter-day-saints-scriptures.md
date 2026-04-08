@@ -10,6 +10,13 @@ publish_date = "2000?"
 follow_url = "https://www.churchofjesuschrist.org/study/scriptures/"
 medium = "web-resource"
 topics = ["Archive", "Religion"]
+source_family = "mormon"
+source_type = "encyclopedia"
+authority_tier = "supplementary"
+relation_to_wheel = "supplementary"
+stance = "neutral"
+licensing_status = "unknown"
+claim_type = "direct"
 +++
 The Church of Jesus Christ of Latter-day Saints' Scriptures resource offers a comprehensive collection of religious texts central to the faith, including the Old Testament, New Testament, Book of Mormon, Doctrine and Covenants, Pearl of Great Price, and various study aids and proclamations. The history of these scriptures reveals a dynamic process of compilation, revision, and enhancement to make these sacred texts accessible and relevant to its members.
 

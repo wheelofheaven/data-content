@@ -10,6 +10,13 @@ publish_date = "2023"
 follow_url = "https://www.discovery.org/b/science-after-babel/"
 medium = "nonfiction-book"
 topics = ["Bible", "Creationism", "Genesis", "History of Science"]
+source_family = "science"
+source_type = "academic_monograph"
+authority_tier = "scientific"
+relation_to_wheel = "scientific_context"
+stance = "supportive"
+licensing_status = "unknown"
+claim_type = "direct"
 +++
 "Science After Babel" by David Berlinski is a book that challenges the established norms and widely accepted theories in contemporary science. Berlinski, known for his deep learning, close reasoning, and sharp wit, critiques what he considers to be the shibboleths of modern science. These include widely accepted concepts in Darwinism, reductionism, the Standard Model of particle physics, and the idea of "talking" chimpanzees.
 

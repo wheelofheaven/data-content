@@ -10,6 +10,13 @@ publish_date = "2400BC?"
 follow_url = "https://archive.org/details/miscellaneousba00bartgoog/page/n6/mode/2up?view=theater"
 medium = "remote-antiquity"
 topics = ["Mythology", "Religion", "Sumer", "The Tradition"]
+source_family = "mesopotamian"
+source_type = "myth_text"
+authority_tier = "primary"
+relation_to_wheel = "comparative_primary"
+stance = "neutral"
+licensing_status = "public_domain"
+claim_type = "direct"
 +++
 The Barton Cylinder, also known as CBS 8383, is a significant artifact of Sumerian literature and mythology. Dating from the mid to late 3rd millennium BCE, approximately around 2400 BCE, it is a clay cylinder inscribed with a Sumerian cuneiform text. The cylinder was discovered in 1889 at the site of Nippur during excavations by the University of Pennsylvania and is currently housed in the University of Pennsylvania Museum of Archaeology and Anthropology.
 

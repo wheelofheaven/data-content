@@ -10,6 +10,13 @@ publish_date = "2022"
 follow_url = "https://www.maurobiglino.com/libri/"
 medium = "nonfiction-book"
 topics = ["Ancient Astronauts", "Bible", "Elohim", "Neo-Euhemerism", "Theology"]
+source_family = "abrahamic"
+source_type = "academic_monograph"
+authority_tier = "primary"
+relation_to_wheel = "comparative_primary"
+stance = "neutral"
+licensing_status = "unknown"
+claim_type = "direct"
 +++
 "The Naked Bible" by Mauro Biglino and Giorgio Cattaneo is a reinterpretation of the Bible, stripping it of traditional interpretations. According to Biglino's research, once these layers are removed, the Bible reveals a very different narrative, one that does not involve a spiritual, almighty, and all-knowing God. The book challenges the very concept of eternity as traditionally understood in biblical context. This reinterpretation is a result of a comprehensive interview between Mauro Biglino and journalist Giorgio Cattaneo, exploring Biglino's extensive research on the subject​
 

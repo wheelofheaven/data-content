@@ -10,6 +10,13 @@ publish_date = "2010"
 follow_url = "https://www.penguinrandomhouse.com/books/307260/wonders-in-the-sky-by-jacques-vallee/"
 medium = "nonfiction-book"
 topics = ["Ancient Astronauts", "Mythology", "Reference work", "Religion", "The Tradition"]
+source_family = "neo_euhemerism"
+source_type = "academic_monograph"
+authority_tier = "supplementary"
+relation_to_wheel = "supplementary"
+stance = "supportive"
+licensing_status = "unknown"
+claim_type = "direct"
 +++
 Wonders in the Sky: Unexplained Aerial Objects from Antiquity to Modern Times" by Jacques Vallée and Chris Aubeck is a comprehensive investigation into the history of unidentified flying objects (UFOs). The book examines over 500 reports of UFO sightings from ancient times up to the year 1879, a period before the profound changes brought by the Industrial Revolution and the advent of modern aircraft like airplanes and dirigibles.
 
