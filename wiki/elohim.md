@@ -9,6 +9,7 @@ aliases = ["/intro/extraterrestrial-civilization/"]
 [extra]
 category = "Elohim"
 alternative_names = ["Annunaki", "Celestials", "Creators", "Dei", "El", "Gods", "The Powerful Ones", "The Ones from the Skies", "Theosites"]
+claim_type = "direct"
 +++
 
 The term Elohim (Hebrew: <span class="hebrew">אֱלֹהִים</span>, 'ēlohîm) is a Hebrew word used in the Old Testament of the Bible and is typically translated as God. It is a plural noun, and its use has led to much debate among biblical scholars regarding its significance.

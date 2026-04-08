@@ -9,6 +9,7 @@ toc = true
 category = "Places & Locations"
 alternative_names = ["Garden of Eden", "gan-ʿĒḏen", "גַּן־עֵדֶן"]
 timeline = ["virgo", "leo", "cancer"]
+claim_type = "direct"
 +++
 
 The Garden of Eden is a significant locale featured prominently in the [Biblical](../bible.md/) narrative of the creation and early history of humanity. Considered a paradise by many, this garden is described in the Book of Genesis, the first book of the Jewish Torah and the Christian Bible. The Garden of Eden symbolizes a primordial utopia, filled with lush vegetation, all forms of life, and the presence of the [Elohim](../elohim.md/).

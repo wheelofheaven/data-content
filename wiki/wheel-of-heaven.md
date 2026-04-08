@@ -7,6 +7,7 @@ toc = true
 
 [extra]
 category = "Meta"
+claim_type = "direct"
 +++
 
 ## Working hypothesis

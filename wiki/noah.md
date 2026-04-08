@@ -8,6 +8,7 @@ toc = true
 [extra]
 category = "Biblical Figures"
 timeline = ["gemini"]
+claim_type = "direct"
 +++
 
 ## In Raëlism 🔯

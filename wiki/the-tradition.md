@@ -7,6 +7,7 @@ toc = true
 
 [extra]
 category = "Theology & Traditions"
+claim_type = "inferred"
 +++
 
 In very general terms, tradition refers to a set of beliefs, customs, and practices that are passed down from one generation to another, often over many centuries or even millennia. It encompasses a wide range of cultural expressions, from religious rituals and moral codes to artistic styles and social norms. Traditions are often seen as a way of connecting people with their cultural heritage and preserving their collective identity and history.

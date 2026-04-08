@@ -7,6 +7,7 @@ toc = true
 
 [extra]
 category = "Methodology"
+claim_type = "direct"
 +++
 
 Archaeoastronomy is an interdisciplinary field of study that explores the knowledge, practices, and beliefs related to celestial bodies and phenomena in ancient cultures. It combines principles from archaeology, anthropology, and astronomy to analyze and interpret the astronomical significance of archaeological sites, artifacts, and cultural practices. By investigating the ways in which ancient civilizations observed, recorded, and utilized astronomical information, archaeoastronomy aims to enrich our understanding of their worldviews, religious beliefs, and social organization.

@@ -9,6 +9,7 @@ toc = true
 category = "Events & Narratives"
 alternative_names = ["Cities of the Plain"]
 timeline = ["taurus"]
+claim_type = "inferred"
 +++
 
 The biblical story of Sodom and Gomorrah is a story from the Book of Genesis in the Old Testament. It is about two cities, Sodom and Gomorrah, that were said to have been located in the region of the Dead Sea.

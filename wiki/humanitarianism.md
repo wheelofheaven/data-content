@@ -7,6 +7,7 @@ toc = true
 
 [extra]
 category = "Raëlism"
+claim_type = "direct"
 +++
 
 Broadly spoken, Humanitarianism refers to the belief in and commitment to improving the lives and well-being of people globally. It encompasses a range of moral and ethical principles, values, and practices aimed at alleviating human suffering and promoting dignity, equality, and justice.

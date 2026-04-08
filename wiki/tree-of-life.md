@@ -7,6 +7,7 @@ toc = true
 
 [extra]
 category = "Symbolism & Motifs"
+claim_type = "inferred"
 +++
 
 The Tree of Life is a concept that appears in many cultures and religious traditions, and is often associated with various symbolic and spiritual meanings.

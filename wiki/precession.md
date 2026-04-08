@@ -8,6 +8,7 @@ toc = true
 [extra]
 category = "Cosmic Chronology"
 alternative_names = ["Precession of the equinoxes"]
+claim_type = "inferred"
 +++
 
 The natural cause that accounts for the cycle of the equinoxes around the ecliptic is called precession and is defined in regards to its impact on the planet Earth as the steady change of orientation of the axis of rotation of Earth. In other words, besides the two fundamental motions of our planet Earth, the rotation of the planet around its own axis which we call the day/night cycle, and the revolution of the planet in its orbit around the Sun which we call the year cycle, there is a third key motion which accounts for yet another important cycle, but which lasts too long for us to take notice. This third key motion is called the precession of the equinoxes or sometimes just simply precession.

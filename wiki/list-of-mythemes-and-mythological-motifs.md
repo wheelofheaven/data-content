@@ -7,6 +7,7 @@ toc = true
 
 [extra]
 category = "Reference Lists"
+claim_type = "direct"
 +++
 
 Mythemes, also known as mythological motifs, are the recurring themes, symbols, and patterns found in myths and legends from various cultures throughout history. They represent the fundamental building blocks of myths, and can be observed in stories from diverse regions and times. These mythemes can range from the concept of a hero’s journey to the use of certain animals to represent specific qualities or ideas.

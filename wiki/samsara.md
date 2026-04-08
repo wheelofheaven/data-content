@@ -7,6 +7,7 @@ toc = true
 
 [extra]
 category = "Cosmic Chronology"
+claim_type = "inferred"
 +++
 
 Samsara is a concept in Hinduism, Buddhism, Jainism, Sikhism, and other Indian religions that refers to the cycle of birth, death, and rebirth. According to these traditions, all living beings are trapped in a cycle of existence, in which they are constantly being reborn into different forms.

@@ -7,6 +7,7 @@ toc = true
 
 [extra]
 category = "Biblical Figures"
+claim_type = "direct"
 +++
 
 A prophet is a person who is believed to have a special connection to a deity or divine power and is said to receive divine revelations, messages, or guidance that they then communicate to others.

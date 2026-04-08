@@ -8,6 +8,7 @@ toc = true
 [extra]
 category = "Events & Narratives"
 timeline = ["aquarius"]
+claim_type = "inferred"
 +++
 
 Exploring the potential changes to human society resulting from interaction with an extraterrestrial civilization encompasses shifts in our scientific and technological understanding, religious and political structures, and even impacts on our ecosystems.

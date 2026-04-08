@@ -7,6 +7,7 @@ toc = true
 
 [extra]
 category = "Events & Narratives"
+claim_type = "inferred"
 +++
 
 The 7-day creation myth in the book of Genesis is a story that describes the origin of the universe and everything in it, including the Earth and all living creatures. According to the story, God created the world and everything in it in six days, and on the seventh day, he rested.

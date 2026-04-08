@@ -8,6 +8,7 @@ toc = true
 [extra]
 category = "Raëlism"
 alternative_names = ["Cyber Paradise", "Cybergenesis", "Neogenesis"]
+claim_type = "direct"
 +++
 
 Cyberparadism is a contemporary aesthetic that paints a vision of the future where technology and nature seamlessly coexist, leading to unparalleled prosperity and abundance. Rooted in the belief of the positive potential of technological advancements, this aesthetic extends beyond mere tools and machines. It envisions a reshaped societal structure where interconnected communities collaborate towards shared objectives, with environmental preservation and the enhancement of life being paramount.

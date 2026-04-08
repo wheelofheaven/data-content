@@ -7,6 +7,7 @@ toc = true
 
 [extra]
 category = "Theology & Traditions"
+claim_type = "inferred"
 +++
 
 From a philosophical perspective, Truth can be understood as the state or quality of being in accordance with fact or reality. It is an objective reality that exists independently of human opinion or belief, and it can be discovered through reason, empirical observation, and critical thinking. While truth can be difficult to discern, it is often associated with certain qualities or hallmarks, such as coherence, consistency, accuracy, and transparency. These qualities help to distinguish truth from falsehood, and they provide a standard by which truth claims can be evaluated.

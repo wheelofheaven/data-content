@@ -7,6 +7,7 @@ toc = true
 
 [extra]
 category = "Science & Technology"
+claim_type = "direct"
 +++
 
 ## Relationship with synthetic biology

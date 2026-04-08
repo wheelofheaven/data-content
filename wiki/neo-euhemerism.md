@@ -7,6 +7,7 @@ toc = true
 
 [extra]
 category = "Methodology"
+claim_type = "direct"
 +++
 
 ## Euhemerism

@@ -7,6 +7,7 @@ toc = true
 
 [extra]
 category = "Ufology"
+claim_type = "speculative"
 +++
 
 ## See also

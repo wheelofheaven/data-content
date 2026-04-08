@@ -7,6 +7,7 @@ toc = true
 
 [extra]
 category = "Raëlism"
+claim_type = "direct"
 +++
 
 Raëlism is a religious and philosophical movement that originated in France in the 1970s. It is based on the belief that extraterrestrial beings known as the Elohim created life on Earth and continue to interact with humanity. The founder of Raëlism, Claude Vorilhon, also known as Raël, claims that he had a series of encounters with a being from another planet who gave him messages to share with the world.

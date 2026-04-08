@@ -7,6 +7,7 @@ toc = true
 
 [extra]
 category = "Meta"
+claim_type = "direct"
 +++
 
 The term "tl;dr" originated from internet culture and gained popularity in online communities, particularly on forums, social media, and discussion boards. It emerged as a response to long posts or articles that some users found tedious or time-consuming to read.

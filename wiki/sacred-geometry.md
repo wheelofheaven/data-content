@@ -7,6 +7,7 @@ toc = true
 
 [extra]
 category = "Symbolism & Motifs"
+claim_type = "inferred"
 +++
 
 Sacred geometry is a term used to describe the use of geometric shapes and patterns in religious and spiritual beliefs, art, architecture, and design. The idea is that the fundamental principles of geometry are reflections of the fundamental laws of the universe and that these shapes and patterns have spiritual significance.

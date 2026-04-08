@@ -7,6 +7,7 @@ toc = true
 
 [extra]
 category = "Reference Lists"
+claim_type = "direct"
 +++
 
 There are several major world religions, each with their own unique beliefs and practices. Here is a brief overview of some of the most important religions:

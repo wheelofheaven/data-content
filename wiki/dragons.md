@@ -8,6 +8,7 @@ toc = true
 [extra]
 category = "Symbolism & Motifs"
 alternative_names = ["Dinosaurs"]
+claim_type = "inferred"
 +++
 
 In mythological terms, dragons are typically depicted as large, fire-breathing, scaly creatures with wings, sharp claws, and long, serpentine tails. They are often portrayed as fearsome, powerful creatures that can bring both destruction and protection. Dragons appear in the mythologies of many cultures, including those of Europe, Asia, and the Middle East, and are often associated with royalty, power, and wisdom. In many mythologies, dragons are guardians of treasure and knowledge, and they are also sometimes seen as symbols of fertility and rebirth.

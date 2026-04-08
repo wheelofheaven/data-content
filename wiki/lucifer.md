@@ -8,6 +8,7 @@ toc = true
 [extra]
 category = "Elohim"
 alternative_names = ["Fallen angel of light", "Hêlêl ben Šāḥar", "הֵילֵל בֶּן-שָׁחַר"]
+claim_type = "direct"
 +++
 
 Lucifer is a name that is often associated with the Devil or [Satan](../satan.md/), although its original meaning and interpretation have changed over time. The name Lucifer comes from the Latin word "Lucifer," which means "light-bringer."

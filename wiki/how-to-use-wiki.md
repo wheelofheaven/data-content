@@ -26,6 +26,7 @@ references = [
     { title = "The Elements of Typographic Style", author = "Robert Bringhurst", publication = "Hartley & Marks", date = "2004", description = "Classic guide to typography and text design" },
     { title = "Information Architecture for the Web and Beyond", author = "Louis Rosenfeld", publication = "O'Reilly Media", date = "2015", description = "Best practices for organizing digital content" }
 ]
+claim_type = "direct"
 +++
 
 This guide provides comprehensive instructions for creating and maintaining wiki entries in the Wheel of Heaven knowledge base. The wiki system is designed to provide a consistent, accessible, and visually appealing way to present complex information.

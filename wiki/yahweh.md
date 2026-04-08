@@ -8,6 +8,7 @@ toc = true
 [extra]
 category = "Elohim"
 alternative_names = ["Alpha and Omega", "ʿElyōn", "ʾĒl ʿElyōn", "עֶלְיוֹן", "The Eternal", "The First and the Last", "YHWH", "יהוה", "𐤉𐤄𐤅𐤄"]
+claim_type = "direct"
 +++
 
 Yahweh is the English transliteration of the tetragrammaton YHWH, a four-letter Hebrew name of the Biblical Godhead that is considered too sacred to be pronounced. Yahweh is considered the personal name of God in Judaism and is the name used most often in the Hebrew Bible. In English, it is often written as "Yahweh" or "Jehovah."[^tetra]

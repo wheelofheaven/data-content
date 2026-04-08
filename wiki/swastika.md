@@ -8,6 +8,7 @@ toc = true
 [extra]
 category = "Symbolism & Motifs"
 alternative_names = ["Arevakhach", "Borjgali", "Eternity sign", "Fylfot", "Lauburu", "Mursunsydän", "Sun cross", "Ugunskrusts"]
+claim_type = "inferred"
 +++
 
 The swastika is a symbol that has been used for thousands of years in various cultures and traditions. It typically consists of a cross with arms that bend at a right angle in one or both directions. The symbol is most commonly associated with Hinduism, Buddhism, and Jainism, where it is considered to be a symbol of good luck, prosperity, and auspiciousness.

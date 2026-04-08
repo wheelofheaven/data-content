@@ -8,6 +8,7 @@ toc = true
 [extra]
 category = "Events & Narratives"
 timeline = ["gemini"]
+claim_type = "inferred"
 +++
 
 ## Etymology

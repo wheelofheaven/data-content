@@ -8,6 +8,7 @@ toc = true
 [extra]
 category = "Biblical Figures"
 timeline = ["aries"]
+claim_type = "direct"
 +++
 
 Elijah was a prophet in the Hebrew Bible and is considered one of the greatest prophets of Israel. He is known for his powerful miracles, strong faith, and unwavering commitment to the Lord.

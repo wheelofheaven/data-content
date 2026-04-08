@@ -7,6 +7,7 @@ toc = true
 
 [extra]
 category = "Reference Lists"
+claim_type = "direct"
 +++
 
 ## List of exegetic readings

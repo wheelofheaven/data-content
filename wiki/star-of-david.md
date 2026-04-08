@@ -8,6 +8,7 @@ toc = true
 [extra]
 category = "Symbolism & Motifs"
 alternative_names = ["Hexagram", "Magen David", "Shield of David"]
+claim_type = "inferred"
 +++
 
 The Star of David is a symbol associated with the Jewish people and is comprised of two overlapping triangles that form a six-pointed star. It is widely recognized as a symbol of Jewish identity and has been used by Jews for centuries.

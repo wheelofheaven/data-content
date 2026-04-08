@@ -7,6 +7,7 @@ toc = true
 
 [extra]
 category = "Science & Technology"
+claim_type = "direct"
 +++
 
 Cosmic pluralism refers to the idea that it is possible for intelligent life to exist on other planets in the universe, beyond our own. The concept of extraterrestrial life and the search for it has been a topic of human fascination for thousands of years, with early civilizations such as the Greeks, Romans, and Chinese all imagining the existence of life on other planets.

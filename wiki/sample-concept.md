@@ -28,6 +28,7 @@ references = [
     { title = "Don't Make Me Think", author = "Steve Krug", publication = "New Riders", date = "2014", description = "Web usability principles for intuitive design" },
     { title = "Design Systems", author = "Alla Kholmatova", publication = "Smashing Magazine", date = "2017", description = "Building consistent design languages" }
 ]
+claim_type = "direct"
 +++
 
 This page demonstrates the complete wiki layout system with all its features. It includes a table of contents, management summary, various content sections, and proper reference handling.

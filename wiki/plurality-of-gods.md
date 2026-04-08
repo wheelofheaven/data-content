@@ -8,6 +8,7 @@ toc = true
 [extra]
 category = "Theology & Traditions"
 alternative_names = ["Polytheism"]
+claim_type = "inferred"
 +++
 
 In common terms, the Plurality of Gods refers to a belief system or theological concept that upholds the existence of more than one god or deity. This stands in contrast to monotheism, which asserts the existence of a single supreme deity.

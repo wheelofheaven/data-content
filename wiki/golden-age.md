@@ -8,6 +8,7 @@ toc = true
 [extra]
 category = "Cosmic Chronology"
 timeline = ["aquarius"]
+claim_type = "inferred"
 +++
 
 The awaited Golden Age is a concept that refers to a future time of peace, prosperity, and happiness, often viewed as a utopian state in which humanity will live in harmony and fulfillment. The idea of a future Golden Age is found in many spiritual and religious traditions, including astrology, where it is sometimes linked to the arrival of the Age of Aquarius.

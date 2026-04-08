@@ -7,6 +7,7 @@ toc = true
 
 [extra]
 category = "Ufology"
+claim_type = "speculative"
 +++
 
 There are several common cover-up theories associated with military or intelligence agencies, suggesting that they are hiding crucial information about extraterrestrial life from the public. Some of these theories include:

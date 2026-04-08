@@ -8,6 +8,7 @@ toc = true
 [extra]
 category = "Symbolism & Motifs"
 timeline = ["taurus", "aries"]
+claim_type = "inferred"
 +++
 
 The Menorah has long been a central symbol in Jewish tradition, representing enlightenment, wisdom, and divine inspiration. Its seven branches are often interpreted symbolically, with various interpretations existing within different Jewish traditions.

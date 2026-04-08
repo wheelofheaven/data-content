@@ -7,6 +7,7 @@ toc = true
 
 [extra]
 category = "Reference Lists"
+claim_type = "direct"
 +++
 
 A close encounter is a term used to describe a situation in which a human witnesses or has direct contact with an extraterrestrial being or spacecraft. Close encounters can range from simply observing an unidentified flying object (UFO) in the sky to experiencing physical contact with an alien being. The idea of close encounters has been a subject of fascination for many people, particularly those interested in the possibility of extraterrestrial life.

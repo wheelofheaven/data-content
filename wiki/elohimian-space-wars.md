@@ -9,6 +9,7 @@ toc = true
 category = "Elohim"
 alternative_names = ["Æsir–Vanir War", "Theomachy", "Titanomachy", "War in Heaven"]
 timeline = ["gemini"]
+claim_type = "direct"
 +++
 
 ## See also

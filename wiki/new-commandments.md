@@ -7,6 +7,7 @@ toc = true
 
 [extra]
 category = "Raëlism"
+claim_type = "direct"
 +++
 
 ## In Raëlism 🔯

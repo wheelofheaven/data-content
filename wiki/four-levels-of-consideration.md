@@ -7,6 +7,7 @@ toc = true
 
 [extra]
 category = "Theology & Traditions"
+claim_type = "inferred"
 +++
 
 ## The four levels

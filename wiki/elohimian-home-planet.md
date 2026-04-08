@@ -7,6 +7,7 @@ toc = true
 
 [extra]
 category = "Elohim"
+claim_type = "direct"
 +++
 
 ## In Raëlism 🔯

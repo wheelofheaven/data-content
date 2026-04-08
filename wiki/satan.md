@@ -8,6 +8,7 @@ toc = true
 [extra]
 category = "Elohim"
 alternative_names = ["Accuser", "hasSāṭān", "Prosecutor", "שָׂטָן"]
+claim_type = "direct"
 +++
 
 Satan, also commonly referred to as the Devil, is a figure in many religious traditions, including Judaism, Christianity, and Islam. In these traditions, Satan is often depicted as a powerful, malevolent spirit who opposes God and tempts humans to sin.

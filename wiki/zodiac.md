@@ -7,6 +7,7 @@ toc = true
 
 [extra]
 category = "Cosmic Chronology"
+claim_type = "inferred"
 +++
 
 The Zodiac is a band of the sky that extends approximately 8 degrees on either side of the ecliptic, the sun's apparent path through the sky. It is divided into twelve equal parts, called signs, which are named after the constellations of stars that lie along the ecliptic. The twelve signs of the Zodiac are Aries, Taurus, Gemini, Cancer, Leo, Virgo, Libra, Scorpio, Sagittarius, Capricorn, Aquarius, and Pisces.

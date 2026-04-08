@@ -7,6 +7,7 @@ toc = true
 
 [extra]
 category = "Symbolism & Motifs"
+claim_type = "inferred"
 +++
 
 ## Rendering

@@ -9,6 +9,7 @@ toc = true
 category = "Ufology"
 alternative_names = ["Space Force"]
 timeline = ["aquarius"]
+claim_type = "speculative"
 +++
 
 The United States Space Force (USSF), established on December 20, 2019, represents the sixth branch of the U.S. Armed Forces. Originally proposed by the Trump administration, the Space Force is a distinct and independent military service under the Department of the Air Force, alongside the U.S. Air Force. This article explores the origins, development, and strategic importance of the USSF, highlighting how President Trump perceived the necessity of military capabilities in space.

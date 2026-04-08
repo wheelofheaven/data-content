@@ -8,6 +8,7 @@ toc = true
 [extra]
 category = "Events & Narratives"
 timeline = ["gemini"]
+claim_type = "inferred"
 +++
 
 The story of Noah's Ark is a well-known biblical account from the book of Genesis in the Old Testament. According to the story, God saw that the world had become corrupt and wicked, and decided to cleanse it with a great flood. He chose Noah, a righteous man, to build an ark and gather two of every kind of animal and bird, as well as his family, to survive the flood.

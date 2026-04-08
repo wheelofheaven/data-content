@@ -8,6 +8,7 @@ toc = true
 [extra]
 category = "Ufology"
 alternative_names = ["Law of masstime"]
+claim_type = "speculative"
 +++
 
 ## Law of masstime

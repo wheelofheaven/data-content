@@ -8,6 +8,7 @@ toc = true
 [extra]
 category = "Places & Locations"
 alternative_names = ["Antediluvian landmass"]
+claim_type = "direct"
 +++
 
 Pangea is a scientific theory that suggests that all of the Earth's continents were once joined together into a single supercontinent. This supercontinent is believed to have existed between about 300 million and 200 million years ago, before breaking apart and eventually forming the continents as they are known today.

@@ -8,6 +8,7 @@ toc = true
 [extra]
 category = "Events & Narratives"
 timeline = ["cancer", "gemini", "taurus"]
+claim_type = "inferred"
 +++
 
 ## Sequence of events

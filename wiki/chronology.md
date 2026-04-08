@@ -7,6 +7,7 @@ toc = true
 
 [extra]
 category = "Cosmic Chronology"
+claim_type = "inferred"
 +++
 
 ## The Great Year

@@ -7,6 +7,7 @@ toc = true
 
 [extra]
 category = "Raëlism"
+claim_type = "direct"
 +++
 
 Geniocracy is a political ideology and system of governance that advocates for government rule by those who demonstrate intelligence and creativity. The basic principle behind Geniocracy is that intelligence and creativity are the most important qualities for good governance and decision-making, and that people with these traits should be given more representation and influence in government.
