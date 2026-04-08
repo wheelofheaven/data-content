@@ -7,7 +7,7 @@ slug = "book-of-enoch"
 [extra]
 authored_by = ["Enoch (ascribed to)"]
 publish_date = "-300?"
-follow_url = "https://www.churchofjesuschrist.org/study/scriptures/bofm?lang=eng"
+follow_url = "https://sacred-texts.com/bib/boe/index.htm"
 medium = "religious-text"
 topics = ["Religion", "Mythology", "The Tradition"]
 source_family = "second_temple"

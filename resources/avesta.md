@@ -7,7 +7,7 @@ slug = "avesta"
 [extra]
 authored_by = ["Zoroaster"]
 publish_date = "-300?"
-follow_url = "https://www.churchofjesuschrist.org/study/scriptures/bofm?lang=eng"
+follow_url = "https://sacred-texts.com/zor/sbe04/index.htm"
 medium = "religious-text"
 original_title = "Abestāg"
 topics = ["Religion", "Mythology", "The Tradition"]
