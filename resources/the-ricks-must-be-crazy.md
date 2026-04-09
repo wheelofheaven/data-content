@@ -2,6 +2,7 @@
 title = "Rick and Morty (S2E06): The Ricks Must Be Crazy"
 description = "Rick and Morty Season 2, Episode 6, titled \"The Ricks Must Be Crazy,\" is a highly inventive and humorous exploration of complex scientific concepts, mainly nested universes and the ethics of creating and exploiting such realities."
 template = "resources-page.html"
+draft = true
 slug = "the-ricks-must-be-crazy"
 
 [extra]

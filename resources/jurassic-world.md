@@ -2,6 +2,7 @@
 title = "Jurassic World"
 description = "Jurassic World is a 2015 American science fiction adventure film and the fourth installment in the Jurassic Park franchise. Directed by Colin Trevorrow and written by Trevorrow, Derek Connolly, Rick Jaffa, and Amanda Silver, the film is set 22 years after the events of the original Jurassic Park and takes place on the same fictional Central American island of Isla Nublar, off Costa Rica's Pacific Coast."
 template = "resources-page.html"
+draft = true
 slug = "jurassic-world"
 
 [extra]

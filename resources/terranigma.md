@@ -2,6 +2,7 @@
 title = "Terranigma"
 description = "Terranigma, developed by Quintet and published by Enix for the Super Nintendo Entertainment System (SNES), is a 1995 action role-playing game with a rich narrative and thematic depth. The game's story centers around Ark, a mischievous teenager from the underground village of Crysta. Ark's journey begins when his curiosity triggers a series of events leading to the resurrection of life on a previously barren Earth."
 template = "resources-page.html"
+draft = true
 slug = "terranigma"
 
 [extra]

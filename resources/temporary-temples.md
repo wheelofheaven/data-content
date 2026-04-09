@@ -2,6 +2,7 @@
 title = "Temporary Temples"
 description = "Temporary Temples serves as a comprehensive resource for anyone intrigued by the mystery and beauty of crop circles, offering a blend of documentation, analysis, and community engagement."
 template = "resources-page.html"
+draft = true
 slug = "temporary-temples"
 
 [extra]

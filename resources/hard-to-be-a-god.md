@@ -2,6 +2,7 @@
 title = "Hard to Be a God"
 description = "Hard to Be a God (1989) is a West German-Soviet-French-Swiss science fiction film directed by Peter Fleischmann, based on the novel of the same name by Arkady and Boris Strugatsky. The film is set on a distant planet that mirrors Earth's Middle Ages, where society has not progressed beyond a primitive, feudal state. This alien world is being observed by Earth scientists posing as noble feudal lords."
 template = "resources-page.html"
+draft = true
 slug = "hard-to-be-a-god"
 
 [extra]
