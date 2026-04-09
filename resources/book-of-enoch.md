@@ -17,6 +17,7 @@ relation_to_wheel = "comparative_primary"
 stance = "neutral"
 licensing_status = "public_domain"
 claim_type = "direct"
+library_slug = "book-of-enoch"
 +++
 The Book of Enoch, also known as 1 Enoch, is an ancient Hebrew apocalyptic religious text traditionally attributed to the patriarch Enoch. It contains unique material on the origins of demons and Nephilim, the reasons why some angels fell from heaven, and a prophetic exposition of the thousand-year reign of the Messiah. The oldest sections are estimated to date from 300–200 BC, with the latest part around 100 BC. The text, thought to be originally written in Aramaic or Hebrew, is found in various fragments, including the Dead Sea Scrolls. It is recognized as canonical scripture only by the Ethiopian Orthodox Tewahedo Church and is generally considered non-canonical by other Jewish and Christian groups.
 

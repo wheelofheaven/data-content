@@ -1,7 +1,7 @@
 +++
 title = "Resources"
-description = "A curated collection of books, films, websites, and other materials exploring ancient astronaut theory, neo-euhemerism, sacred texts, and the Elohim hypothesis."
-template = "resources-section.html"
+description = "Every source used in Wheel of Heaven, organized by authority tier and tradition. From the Raëlian canon through comparative scriptures, scholarly context, science, critiques, and supplementary materials."
+template = "sources-section.html"
 sort_by = "title"
 generate_feeds = true
 +++
