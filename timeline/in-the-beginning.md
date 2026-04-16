@@ -19,7 +19,7 @@ symbol = "♑"
 link = "/timeline/age-of-capricorn/"
 +++
 
-## I.
+## I. The Laboratories
 
 The work began quietly, in rooms very much like the rooms where serious work is done now. There were instruments, and teams, and the long subdued arguments about what counted as a result that tend to follow instruments and teams wherever they are assembled. There were sealed enclosures and careful records, and the long unglamorous intervals between breakthroughs in which almost nothing happens and the people who keep showing up are the people who will eventually be remembered. In the beginning the researchers were making cells — only cells, the smallest fragments of living matter, coaxed out of non-living ingredients in glass. The first cells were a triumph, though it is important to say that the triumph was quiet. Outside the laboratories almost no one understood what had been done, and inside them the mood was the mood of any field at the moment of its first real success: exhaustion, relief, and an immediate hunger for the next problem.
 
@@ -27,7 +27,7 @@ The next problem was complexity, and complexity proved to be a much longer count
 
 It is worth dwelling on how ordinary this all was. The civilization that produced these laboratories was not a civilization of mystics or adventurers. It was a civilization of the sort we would now call mature — possessed of stable institutions, of an accumulated scientific tradition, of the long and usually uneventful competence that allows societies to undertake projects requiring patience measured in decades. The scientists who did this work were not sorcerers and did not think of themselves as sorcerers. They were professionals engaged in what they understood to be a logical extension of everything their predecessors had already done. The distance between synthesizing a complex organic molecule and synthesizing a living cell is, from one angle, the distance between stages of a single program; from another angle it is the largest distance a civilization ever crosses. Both descriptions are accurate. Which one a person believed, on that planet in those years, tended to predict what that person would later say when the argument became public.
 
-## II.
+## II. The Vote
 
 One of the animals broke containment. The records of what exactly happened — which creature, which enclosure, which failure of judgment or of hardware, which individual whose name is now lost made which decision in which minute of which shift — have not survived, or were never written down in a form that outlasted the decisions that followed. What survived is the outcome. People were killed. Not many, by the standards of the disasters that civilization had already learned to absorb in its long history, but enough to make the work visible in a way it had not been before, and enough to move the question out of the laboratories and into the chambers where decisions about a whole world get made. It is an old pattern. A thing is done quietly for years, its existence known mostly to its practitioners and the agencies that fund them, until a single incident pulls the question of its legitimacy into the open, and then the question is settled — in one direction or the other — with a speed that has almost nothing to do with the years of quiet that preceded it.
 
@@ -37,7 +37,7 @@ The two arguments did not meet, because arguments of this kind rarely do. They b
 
 The laboratories were ordered closed. The living specimens were ordered destroyed. The research itself — the notes, the instruments, the cultured lineages that had taken years to establish, the careful genealogies of cellular work reaching back to the first cells in the first glassware — was ordered unmade. This last instruction is the one worth pausing on, because it is the instruction a civilization only issues when it has decided that a kind of knowledge should not merely be halted but erased, so that it cannot be resumed by anyone who later changes their mind. It is a rare instruction in the history of technical work, and, to the extent the history of technical work can be reconstructed, it is almost always disobeyed. Knowledge is difficult to unmake. A civilization that attempts to unmake it usually discovers that the effort has merely redistributed it.
 
-## III.
+## III. The Second Site
 
 The scientists were not punished in the old sense. They had lost their laboratories, their standing, and most of what they had spent their professional lives building; they had not lost their instruments, or their training, or the question that their work had been an attempt to answer. The question would have been difficult to put down even if the vote had gone the other way, because questions of that kind, once asked, do not submit easily to administrative closure. The sky above their world was also, by that point, no longer closed. Interplanetary travel had been developing in parallel to their work, for reasons of its own — exploration, prospecting, the settlement of nearer bodies in their own system, the ordinary outward pressure of a civilization that has mastered its own planet and begun, in the way that civilizations of a certain age begin, to look past it. The roads outward already existed. The scientists used them. Whether the scientists had planned this use when the roads were first being built, or whether the use suggested itself only after the vote at home had gone against them, is not a question the surviving record is equipped to answer. What can be said is that the infrastructure and the impulse met at a moment that was probably overdetermined from both sides.
 
@@ -45,7 +45,7 @@ They carried their discipline with them, and an unresolved question that would s
 
 ---
 
-## IV.
+## IV. The Shape of the Story
 
 The preceding three sections are not a scene from a film, though I have borrowed some of the shape of a film to tell them. They are the opening movement of a story that has been told, in fragments and under many other names, for as long as human beings have kept records — and the fact that the story has been told so many times, in so many places, by civilizations that had no contact with each other, is one of the questions this corpus exists to take seriously. The story has a shape, and the shape is remarkably stable. It is the shape that the first three sections traced. A prior intelligence, possessed of technical capacities that resemble what we now call science, makes decisions in a location described as above or beyond the world we live on; the decisions are contested in something resembling a council or a vote; the life we now take for the natural order of this planet is the outcome of those decisions; and the memory of the whole sequence is preserved in texts whose authors insist, sometimes in exasperated terms, that they are recording what actually happened, not what might be poetically imagined.
 
@@ -69,7 +69,7 @@ The Wheel of Heaven does not require its readers to accept this reading. It does
 
 There is a further question the prologue can raise but not yet answer, and it is the question that gives this whole inquiry its contemporary weight. If the story is true in any of its readings — literal, symbolic, or something between — then the creatures on the second site will eventually reach the threshold the original scientists crossed. They will learn to make cells from non-living ingredients. They will learn to make tissues, and then organs, and then animals, and then — if their civilization holds its nerve through the first incidents, which it may not — beings in their own image. They will have the same arguments the first civilization had, in chambers very much like the chambers where the first vote was taken, and the arguments will divide along the same lines, because the lines are drawn by the shape of the problem and not by the particular civilization facing it. They will face the same question the first civilization faced: whether what has gone wrong has gone wrong because the work itself is dangerous, or because it is being done too close. That question, in this telling, is not a question that was answered once and filed away. It is a question that arrives at every civilization that reaches a certain point, and it arrives in the same form each time, because the shape of the problem is fixed by what the problem actually is. Our civilization has, by most honest measures, reached that point. The question is now ours.
 
-## V.
+## V. The Sequence
 
 Past the door is a sequence. It has been named many times, and the names do not always agree, but the sequence has a structure the traditions share, and the chapters that follow will walk it in order.
 
