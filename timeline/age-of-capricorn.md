@@ -2,6 +2,7 @@
 title = "Age of Capricorn"
 description = "The first age of the Great Year, when the Elohim scientists arrived at a formless, water-covered Earth, surveyed it from orbit, and laid the groundwork for a multi-millennial project of creation."
 template = "wiki-page.html"
+toc = true
 aliases = ["/intro/age-of-capricorn/"]
 
 [extra]
