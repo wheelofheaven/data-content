@@ -1,7 +1,7 @@
 +++
-title = "The Second Site"
+title = "In the Beginning"
 description = "The Prologue traces a shape shared across ancient traditions — a prior intelligence creates life, faces exile after catastrophe, and seeds a distant world we now call Earth."
-template = "wiki-page.html"
+template = "timeline-page.html"
 weight = 200
 toc = true
 

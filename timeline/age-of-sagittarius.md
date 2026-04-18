@@ -1,7 +1,7 @@
 +++
 title = "Age of Sagittarius"
 description = "The second age of the Great Year, when the Elohim separated the atmospheric waters from the ocean, cleared the sky, and raised the first continent from the seabed."
-template = "wiki-page.html"
+template = "timeline-page.html"
 toc = true
 aliases = ["/intro/age-of-sagittarius/"]
 
