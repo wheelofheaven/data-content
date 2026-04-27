@@ -15,9 +15,6 @@ image = "saurian-experiments.png"
 chapter = "2.1"
 genesis_interpretation = "The Preamble sets the stage for the entire timeline, establishing the circumstances that led the Elohim to seek Earth as their new frontier for genetic research. Like the cautionary tale of Jurassic Park, it explores the consequences of unchecked scientific experimentation and the search for new frontiers when progress becomes controversial at home."
 +++
-Drafting now: Preamble v2 — the meta-frame opening of the corpus, with the narrative material migrated to "In the Beginning" and the meta-corpus content preserved and refined. Target ~10,000 words.
-
----
 
 ## I. A Shape That Recurs
 
