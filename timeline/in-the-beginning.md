@@ -2,7 +2,7 @@
 title = "In the Beginning"
 description = "The Prologue traces a shape shared across ancient traditions — a prior intelligence creates life, faces exile after catastrophe, and seeds a distant world we now call Earth."
 template = "timeline-page.html"
-weight = 200
+weight = 204
 toc = true
 
 [extra]
