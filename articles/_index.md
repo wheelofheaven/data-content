@@ -1,6 +1,6 @@
 +++
 title = "Articles"
-description = "In-depth articles exploring the Wheel of Heaven hypothesis, including Explainers that break down complex topics into understandable concepts."
+description = "Evergreen, thesis-driven Explainers on the Wheel of Heaven hypothesis. Long-form analysis with full sourcing — built to last, not to react."
 template = "articles-section.html"
 sort_by = "date"
 generate_feeds = true
@@ -8,19 +8,21 @@ generate_feeds = true
 
 # Articles
 
-Welcome to our collection of articles exploring the Wheel of Heaven hypothesis and related topics.
+Articles are **evergreen Explainers** — long-form, thesis-driven analyses of ideas at the heart of the Wheel of Heaven hypothesis. They take their time. Each one carries a six-source minimum and a declared `claim_type` so you know exactly what kind of claim you're reading.
 
-## Explainers
+## What an Explainer is
 
-**Explainers** are a special type of article that provide comprehensive, in-depth analysis of complex concepts. They are designed to:
-
-- Break down intricate ideas into digestible parts
-- Provide thorough context and background
-- Connect related topics and themes across the knowledge base
-- Include detailed references and citations
+- Built around an **idea**, not an event
+- **Comprehensive:** background, argument, counterarguments, references
+- **Sourced:** Raëlian canon, ancient primary, scholarly, scientific/historical, comparative, critical
+- **Stable:** updated when the argument changes, not when the news cycle does
 
 Look for the "Explainer" label to identify these deep-dive articles.
 
+## Looking for current events?
+
+If you came here for commentary on something that just happened — a discovery, an announcement, a cultural moment — see the **[Newsroom](/news/)** instead. Dispatches are short, dated, and read events through the canon. An Explainer never reduces to a Dispatch; a Dispatch sometimes seeds a future Explainer.
+
 ## Browse Articles
 
-Use the filters and search functionality to discover content that interests you, or browse by date to see our latest publications.
+Use the filters and search to discover content that interests you, or browse by date to see the latest.
