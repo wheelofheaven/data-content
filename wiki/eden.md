@@ -1,92 +1,118 @@
 +++
 title = "Eden"
 slug = "eden"
-description = "Eden, a specific region of the antediluvian pangaean supercontinent where one of the seven Elohimian creator teams were quite talented and are accounted for having created paradise on Earth. The Garden of Eden refers to an enclosed research site operated by Elohimian researchers in the Eden region."
+description = "Eden (Hebrew: עֵדֶן) is a region named in the Hebrew Bible as the location of the garden where the first humans were created and lived before their expulsion. In the Wheel of Heaven framework, Eden is the operational territory of the Israel team of Elohim creators on the antediluvian supercontinent — the team whose biological synthesis work produced the most accomplished human lineage of the seven regional creator teams. The Garden of Eden (gan-ʿĒden) is the enclosed laboratory and habitation site within that territory in which the first humans were taught and observed."
 template = "wiki-page.html"
 toc = true
 
 [extra]
 category = "Places & Locations"
-alternative_names = ["Garden of Eden", "gan-ʿĒḏen", "גַּן־עֵדֶן"]
-timeline = ["virgo", "leo", "cancer"]
-claim_type = "direct"
+alternative_names = ["Garden of Eden", "gan-ʿĒden", "גַּן־עֵדֶן", "Paradise"]
+timeline = ["leo", "cancer"]
+claim_type = "framework"
 +++
 
-The Garden of Eden is a significant locale featured prominently in the [Biblical](../bible.md/) narrative of the creation and early history of humanity. Considered a paradise by many, this garden is described in the Book of Genesis, the first book of the Jewish Torah and the Christian Bible. The Garden of Eden symbolizes a primordial utopia, filled with lush vegetation, all forms of life, and the presence of the [Elohim](../elohim.md/).
+**Eden** (Hebrew: <span class="hebrew">עֵדֶן</span>, *ʿĒḏen*) is a region named in the Hebrew Bible as the place in which the first humans were created and lived before their expulsion, narrated principally in Genesis 2:8–3:24. The Hebrew text distinguishes the region (*ʿĒden*) from the enclosed garden within it (*gan-ʿĒden*, "the garden of Eden"); Genesis 2:8 specifies that the garden was planted "in Eden, in the east." The garden contains the named species of trees, the four rivers (Pishon, Gihon, Tigris, Euphrates), the Tree of Life, and the Tree of the Knowledge of Good and Evil. The narrative of human creation, instruction, transgression, and expulsion takes place in and around the garden.
 
-The Garden of Eden is often equated with paradise on earth based on its depiction in religious texts, particularly the Book of Genesis in the Bible. It's described as a place created by God specifically for [Adam and Eve](../adam-and-eve.md/), the first human beings, where they lived in harmony with nature, and where scarcity, suffering, and death did not exist. It was a place of peace, abundance, and communion with the creators. Also, the [Tree of Life](../tree-of-life.md/), which granted eternal life, and the [Tree of the Knowledge of Good and Evil](../tree-of-the-knowledge-of-good-and-evil.md/) were to be found therein.
+In the Wheel of Heaven framework, Eden is the operational territory of one of the seven Elohim creator teams — the Israel team — on the antediluvian supercontinent, during the late Age of Leo and continuing into the Age of Cancer. The garden is the enclosed laboratory and habitation site at which this team conducted the synthesis, instruction, and observation of the first human lineage produced under their care. The framework reads the Genesis 2–3 narrative as a compressed but substantively accurate account of operational events at this site, with the named features — the trees, the rivers, the prohibition, the serpent, the expulsion — all referring to specific operational realities rather than to symbolic or moral abstractions.
 
-## Etymology
+## Chronology and locator
 
-In [Hebrew](../hebrew.md/), the term for the Garden of Eden is <span class="hebrew">גַּן־עֵדֶן</span> (gan-ʿĒḏen)[^garden], where <span class="hebrew">גַּן</span> (gan) means garden, and <span class="hebrew">עֵדֶן</span> ('éden) is a term that is a cognate of the Akkadian word 𒂊𒁲𒉡 (edinu or idīnum), which translates to desert or steppe. The Akkadian 𒂊𒁲𒉡 (idīnum) in turn was originally borrowed from the Sumerian term 𒂔 (eden), meaning plain, steppe or even open country.
+| Field | Value |
+|---|---|
+| **Hebrew name** | <span class="hebrew">עֵדֶן</span> *ʿĒden* (region); <span class="hebrew">גַּן־עֵדֶן</span> *gan-ʿĒden* (the garden in Eden) |
+| **Biblical narrative location** | Genesis 2:8 ("eastward in Eden") |
+| **Geographic referent (framework)** | The eastern Mediterranean / Levantine region of the antediluvian supercontinent, in the area that would become the modern Levant after the Gemini-age Flood |
+| **Operational period** | Mid–late Age of Leo through the Age of Cancer, c. 11,375 BCE through c. 6,690 BCE |
+| **Date type** | framework-internal, derived from the precessional reading of Genesis and the 666-generation anchor |
+| **Closing event** | The expulsion of the humans from the garden; the subsequent generations of Genesis 4–5; the Flood of the Age of Gemini, which separates the antediluvian world from the post-Flood era |
 
-These linguistic links suggest that the original concept of Eden might have been the name of a specific, delimited region located in a wide, open space - potentially a highly fertile plain or steppe.
+## The biblical narrative
 
-[^garden]: The Garden of Eden is also referred to as Garden of God (<span class="hebrew">גַּן־יְהֹוֶה</span>, gan-YHWH and <span class="hebrew">גַן־אֱלֹהִים</span>, gan-Elohim).
+The Genesis text gives Eden two principal treatments. The first is the brief mention in the second creation account at Genesis 2:8: *Yahweh Elohim* plants a garden "in Eden, in the east," and places the formed human there. The narrative then names the four rivers that flow out of Eden, identifies two of them with the still-extant Tigris and Euphrates, and gives the function of the human in the garden as "to dress it and to keep it" (Genesis 2:15).
 
-## According to Mauro Biglino
+The second treatment is the narrative arc of Genesis 2:15–3:24: the prohibition concerning the Tree of the Knowledge of Good and Evil, the formation of the woman from the human's side, the serpent's questioning of the prohibition, the eating of the fruit, the recognition of nakedness, the confrontation with Yahweh Elohim, the pronouncement of consequences, and the expulsion from the garden with the placing of cherubim and a flaming sword to bar the way back to the Tree of Life.
 
-In his book [The Naked Bible](../library/the-naked-bible/index.md/) author Biglino provides his interpretation of the Garden of Eden:
+The Hebrew name *ʿĒden* has been variously connected to the Hebrew root *ʿ-d-n* ("to be soft, pleasant, delight"), giving the conventional gloss "place of delight" or "paradise." This Hebrew etymology is internal to the biblical tradition and is the source of the long Christian and Islamic association of Eden with paradise generally.
 
-> Biglino suggests caution: the term “Eden” indicates a rather precise geographical location, a vast region located between Mesopotamia and the Caucasus.
->
-> “In addition to the Bible,” he explains, “the term ‘Eden’ is also found in Sumerian-Akkadian texts, where it appears as ‘E-Din’, usually translated as ‘the house of the righteous’.” And by “righteous”, the scholar specifies, they obviously meant “those of the lineage of the Commanders, meaning the biblical Elohim, who in fact correspond to the Sumerian- Akkadian Anunna or Anunnaki.”[^caution]
+## Etymology and the Sumerian–Akkadian background
 
-Biglino posits that the term Eden refers to a distinct geographic region between Mesopotamia and the Caucasus. Drawing connections with Sumerian-Akkadian texts, he interprets "E-Din" as the "house of the righteous," or the dwelling of biblical Elohim, equated with the Sumerian-Akkadian Anunna or Anunnaki. Biglino also points out that there are several Gans (gardens):
+The connection of Hebrew *ʿĒden* to a Sumerian and Akkadian background was established in modern Assyriology. The Sumerian word EDEN (𒂔) means *plain*, *steppe*, *open country* — a flat, often arid landscape distinct from settled or cultivated land. The Akkadian *edinu* / *idīnum* is borrowed from the Sumerian and carries the same range of meanings, generally "steppe" or "open country."
 
-> To begin with, there are many Gans in ancient books. The one pertaining to Adam and Eve, the one located in the region of Eden, was just one of several “enclosed and protected gardens” on Earth.
->
-> “So the Bible is telling us about one of the Gans existing on the planet,” confirms Biglino, “but we can imagine the existence of several others.”
->
-> For example?
->
-> “The first one was probably located in the center of Africa, or in the southernmost latitudes of the black continent, where the first genetic experiments to manufacture Homo sapiens took place.[^africa]
+The philological connection is widely accepted in mainstream Assyriology and predates the modern reinterpretive literature; it is treated, for example, in the standard Assyrian dictionaries and in the comparative-Semitic lexicographic tradition. The connection complicates the Hebrew tradition's "place of delight" gloss: if the Hebrew name preserves the older Mesopotamian sense, then Eden is not etymologically a paradise but a steppe — a wide open region, presumably containing within it the cultivated and enclosed garden the Genesis text specifically describes. The internal Hebrew etymology and the Sumerian–Akkadian etymology are not necessarily in conflict; they may reflect different stages of the term's history.
 
-Biglino expands the concept of the Garden of Eden by suggesting multiple "Gans" or gardens, enclosed and protected spaces scattered across the Earth. Biglino asserts that the biblical Eden was just one of these environments. He speculates that other Gans could have existed, possibly including one in central Africa where, according to his interpretation, early genetic experiments might have led to the creation of Homo sapiens. Finally, Biglino also identifies the Gans basically being laboratories of some kind:
+## Modern reinterpretations
 
-> “The Gan Eden was an experimental laboratory,” Biglino summarizes. “The Elohim, the Bible tells us, produced every kind of tree that gave good edible fruit.” In that laboratory, then, they experimented with food – both vegetable and animal – to be used for their workers, that is to say, humanity, which they had “created” through genetic engineering.[^workers]
+The figure most associated with the modern reinterpretive treatment of Eden is **Mauro Biglino**, who in *La Bibbia non parla di Dio* and in subsequent works including *The Naked Bible* (2022, with Giorgio Cattaneo) develops three connected claims about the term and its referent. First, that Eden is a specific geographic region between Mesopotamia and the Caucasus, rather than a metaphorical paradise. Second, that the term *gan*, the Hebrew word for the enclosed garden, is properly read as a fenced, protected, enclosed space — a controlled environment rather than an open garden in the modern English sense. Third, that the *gan-ʿĒden* described in Genesis is one of several such enclosed installations operated by the biblical Elohim across the ancient world, with each installation functioning as an experimental laboratory in which the Elohim conducted biological work, including the synthesis of humanity.
 
-He interprets the biblical "Gans" or gardens, including the Garden of Eden, as experimental laboratories. He suggests that the Elohim, or biblical creators, used these locations for scientific experiments, particularly related to their magnus opus —humanity.
+Biglino additionally proposes a non-standard etymology of the Sumerian-Akkadian *E-Din* as "house of the righteous," reading the "righteous" as members of the Elohim lineage. This gloss is distinctively Biglino's and is not the standard Assyriological reading; the consensus reading remains "plain" or "steppe." The framework adopts the standard reading rather than Biglino's, since the framework's interpretive case does not depend on the non-standard gloss and is on more solid ground without it.
 
-[^caution]: Excerpt from Mauro Biglino, Giorgio Cattaneo (2022): [The Naked Bible: The truth about the most famous book in history](../library/the-naked-bible/index.md/), p. 102
+## In the Wheel of Heaven framework
 
-[^africa]: idem, p. 103
+In the Raëlian source material, the second chapter of *The Book Which Tells the Truth* identifies Eden as the operational territory of one of the seven Elohim creator teams — the team located in what would, after the Flood, become the country of Israel. Yahweh, the speaker in the source material's account, identifies this team as composed of particularly accomplished creators whose biological work produced the most beautiful flora, the most striking fauna, and the most intelligent of the seven regional human lineages. The framework adopts this identification and develops it as follows.
 
-[^workers]: idem, p. 115
+The supercontinent on which the Elohim work was conducted is referred to in the source material as the "original" or "single" continent — a unified landmass that, on the framework's reading, broke apart catastrophically during the Flood event of the Age of Gemini and whose fragments became the modern continents through subsequent drift.[^pangaea] The seven Elohim creator teams operated in seven distinct regions of this landmass, each conducting biological synthesis work on its own population. The Israel team's territory — Eden — was located in the eastern Mediterranean / Levantine portion of the supercontinent, in the area that, after the breakup, would become the modern Israel and the surrounding lands of Greece, Turkey, and the eastern Mediterranean coast.
 
-## In Raëlism 🔯
+[^pangaea]: The framework's "supercontinent" is not the conventional Pangaea of mainstream geology. Conventional Pangaea assembled c. 335 million years ago and broke apart c. 175 million years ago, with continental drift unfolding over hundreds of millions of years through mantle convection. The framework, following the Raëlian source material, reads the breakup as a catastrophic event during the Flood of the Age of Gemini c. 6,690 BCE, with the observed continental drift as the residual momentum of that event. The structural correspondence (a single consolidated landmass, surrounded by a single ocean) is the same; the timing and mechanism are radically different. The conflict with mainstream geological dating is significant and is treated openly in the [Flood](../great-flood/) and [Antediluvian](../antediluvian/) entries.
 
-According to the [The Book Which Tells The Truth](../library/the-book-which-tells-the-truth.md/), where Eden is equated with the paradise on Earth, says the following about the locality of Eden:
+The garden of Eden, on this reading, is the specific enclosed installation within the Israel team's territory at which the first humans of that lineage were produced, taught, observed, and constrained. The Hebrew *gan*, conventionally translated "garden," is read in its strong sense — an enclosed, protected, controlled space, with the boundary not merely ornamental but functional. The garden contains the laboratories in which the biological synthesis was conducted, the educational facilities at which the first humans were instructed, and the controlled flora and fauna whose cultivation the source material describes as the work of artists as well as scientists. The four rivers named in Genesis 2:10–14 are read as actual hydrological features of the antediluvian Eden region; their identification with the post-Flood Tigris and Euphrates is treated as a redactional preservation of the original names, since the post-Flood geography is no longer the same.
 
-> The team located in the country you now call Israel, which at the time was not far from Greece and Turkey on the original continent, was composed of brilliant creators who were perhaps the most talented team of all.
->
-> Their animals were the most beautiful and their plants had the sweetest perfumes. This was what you call "paradise on Earth". The human beings they created there were the most intelligent.[^perfume]
+The narrative of Genesis 2:15–3:24, read through the framework, runs as follows. The first humans, having been synthesized in the laboratories during late Leo, were placed in the garden in functional adulthood and instructed in the languages, sciences, and arts that the Israel team judged appropriate for them. The instruction was deliberately bounded: the humans were granted free use of the educational and biological resources of the garden, but the prohibition concerning the Tree of the Knowledge of Good and Evil corresponded to a specific restriction on access to the scientific and technological archives of the team — the materials whose use would have given the humans capacities the team's authorities, on their home world, did not want them to acquire. The serpent of Genesis 3 is read as the leader of an Elohim faction (identified in the broader framework with Lucifer) who disagreed with this restriction and who provided the humans with access to the prohibited materials. The transgression, on this reading, is not a moral fall but a transmission of restricted knowledge against the directives of the home world authorities. The expulsion that follows is the operational consequence: the humans are removed from the controlled garden environment, placed outside its boundary in the broader Eden region, and required to subsist by their own labor on land that has not been specifically prepared for them.
 
-In other words, [Yahweh](../yahweh.md/), the one who is speaking in the passage quoted above, tells us that Eden is an [antediluvian](../antediluvian.md/), [proto-pangaean](../pangaea.md/) region during the that existed by the  [Sixth Age of Creation](../timeline/age-of-leo.md/) in the [Genesis](../genesis.md/) project. This region on the former Pangean continent came to what we known as the Levant after the [Great Flood](../great-flood.md/), or more specifically as Yahweh says himself, the land we now call Israel.
+The Tree of Life and the Tree of the Knowledge of Good and Evil are accordingly read by the framework as two specific elements within the garden's biological and informational infrastructure. The Tree of Life is read as the genetic and biotechnical resource that supported the very long lifespans recorded for the early generations in Genesis 5 — Adam at 930 years, Methuselah at 969, and so on — with the cherubim and flaming sword of Genesis 3:24 understood as the access controls that prevented the post-expulsion humans from continuing to draw on this resource. The Tree of the Knowledge of Good and Evil is read as the body of scientific and technological knowledge whose acquisition would have allowed the humans to operate in the same domains as their creators. Both trees receive fuller treatment in their own entries; what matters for Eden as a place is that both were elements of the garden's specific operational fabric, not free-standing botanical species.
 
-Out of the seven creator teams, one industrious and talented team that happened to be conducting their Genesis projects within this Eden region managed to engineer outstanding life forms. Besides the supposedly impressive flora and fauna, the human type that got incepted there happened to be considered the most intelligent one.
+The aftermath of the expulsion belongs to the broader Age of Cancer narrative. The humans, now outside the garden, begin to reproduce. Their early generations live extraordinarily long lives. Some of the dissenting Elohim — those who had remained close to the human population after the expulsion — take human women as wives and produce hybrid offspring (the *Nephilim* of Genesis 6). The Israel team's leadership eventually withdraws from the supercontinent, leaving the surviving humans to develop on their own. The Eden region itself, on the framework's reading, continued to be inhabited by the descendants of the first humans through the Age of Cancer until the Flood event of the Age of Gemini disrupted the entire antediluvian world.
 
-In the third book, Eden is briefly mentioned again in a series of _bona fide_ revelations:
+What the framework does not claim about Eden is worth stating directly. It does not claim that Eden was a paradise in the conventional theological sense — a place of moral perfection, absence of suffering, or absence of death. The Hebrew text does not say these things, and the framework does not import them. It does not claim that the present-day Tigris and Euphrates region is the location of Eden in any literal sense; the antediluvian geography was different from the modern, and the rivers' names were preserved across the catastrophe rather than the rivers themselves being the same. It does not endorse the various proposed locations for a present-day Eden (the Persian Gulf, eastern Turkey, Sundaland, Africa) that take the four-rivers passage as a present-day geographic puzzle to be solved. The framework reads the four-rivers passage as a description of the antediluvian region, no longer geographically extant in its original form.
 
-> Yahweh condemns the scientists who had disobeyed his orders to spend the rest of their lives in exile on Earth. He condemns the “serpent” to crawl on Earth, as it is so poetically written, and evicts Man from the laboratory, the “Garden of Eden” where they were fed and lodged without having to make the slightest effort.[^lab]
+## Open questions
 
-The Garden of Eden is conceptualized as a specifically delineated, controlled environment —akin to a laboratory— situated on the primal, antediluvian continent. Within this "fenced laboratory," the highly skilled team of creators conducted their work, [creating exceptional life forms](../life-engineering.md/) including, most notably, the human genus.
-
-[^perfume]: Excerpt from Raël (1973): The Book Which Tells the Truth, republished in Intelligent Design: Message from the Designers (2005), p. 15. Read the excerpt [here](https://wheelofheaven.github.io/rael-one-the-book-which-tells-the-truth/2_the_truth.html#genesis)
-
-[^lab]: Excerpt from Raël (1979): Let's Welcome the Extra-Terrestrials, republished in Intelligent Design: Message from the Designers (2005), p. 279.
+- The precise antediluvian location of Eden — and accordingly the precise post-Flood location of its remnants — depends on a detailed reconstruction of the supercontinent's geography that the framework has not produced and that the available source material does not provide. The general identification with the eastern Mediterranean / Levantine region is solid; precise coordinates are not.
+- The relationship between the Israel team and the other six Elohim teams during the Eden period — whether they coordinated, competed, or operated independently — is not developed in detail in the source material. The framework treats them as broadly coordinated under the home world's overall authority but acting with substantial local autonomy.
+- The Tree of Life and the Tree of the Knowledge of Good and Evil are read by the framework as specific operational elements rather than as symbolic devices. The exact biological or technological character of each — what the Tree of Life specifically *was*, in the framework's terms — is not fully resolved in the source material and is treated more fully in their own entries.
+- The serpent of Genesis 3 is read as the leader of an Elohim dissenting faction, identified in the broader framework with Lucifer. This identification rests on later textual associations (Revelation 12:9, et al.) more than on the Genesis text itself, where the serpent is simply *naḥaš*, "the serpent." The framework treats the identification as load-bearing for its reading of subsequent events but acknowledges that the Genesis text alone does not require it.
 
 ## See also
 
-- [Wiki › Antediluvian](../antediluvian.md/)
-- [Wiki › Pangaea](../pangaea.md/)
+- [Wiki › Adam and Eve](../adam-and-eve/) — the first humans created by the Israel team in the garden
+- [Wiki › Genesis](../genesis/) — the principal biblical text in which Eden is narrated
+- [Wiki › Elohim](../elohim/) — the civilization of which the Israel team is a part
+- [Wiki › Yahweh](../yahweh/) — the principal speaker in the Genesis 2–3 narrative; in the framework, the leader of the Israel team
+- [Wiki › Lucifer](../lucifer/) — identified in the framework with the serpent of Genesis 3
+- [Wiki › Tree of Life](../tree-of-life/) — the biological and biotechnical resource of the garden, supporting the long lifespans of the early generations
+- [Wiki › Tree of the Knowledge of Good and Evil](../tree-of-the-knowledge-of-good-and-evil/) — the restricted scientific and technological archive of the garden
+- [Wiki › Antediluvian](../antediluvian/) — the period of the unified supercontinent, from the creation of humans through the Flood
+- [Wiki › Pangaea](../pangaea/) — the conventional geological supercontinent, distinguished from the framework's antediluvian landmass
+- [Wiki › Great Flood](../great-flood/) — the Gemini-age event that ended the antediluvian world and broke apart the supercontinent
+- [Wiki › Nephilim](../nephilim/) — the hybrid offspring of Elohim and human women in the post-expulsion period
+- [Wiki › Age of Leo](../timeline/age-of-leo/) — the precessional age in which the first humans were created
+- [Wiki › Age of Cancer](../timeline/age-of-cancer/) — the precessional age covering the post-creation Eden narrative
 
-## Read more
+## Sources
 
-- [Intro › Timeline › Age of Leo](../timeline/age-of-leo.md/)
+**Primary sources within the framework**
 
-## External links
+- Vorilhon, Claude (Raël). *The Book Which Tells the Truth* (1974), chapter 2, "Truth"; collected in *Message from the Designers*.
+- Vorilhon, Claude (Raël). *Let's Welcome the Extraterrestrials* (1979); collected in *Message from the Designers*.
 
-- [Garden of Eden | Wikipedia](https://en.wikipedia.org/wiki/Garden_of_Eden)
-- [Garden of Eden | Britannica](https://www.britannica.com/topic/Garden-of-Eden)
-- [Eden, Garden of. | Jewish Encyclopedia](https://www.jewishencyclopedia.com/articles/5428-eden-garden-of)
+**Hebrew Bible text and commentary**
+
+- *Biblia Hebraica Stuttgartensia*. Deutsche Bibelgesellschaft, 1997.
+- Sarna, Nahum. *Genesis: The JPS Torah Commentary*. Jewish Publication Society, 1989.
+- Westermann, Claus. *Genesis 1–11: A Continental Commentary*. Fortress, 1994.
+
+**Sumerian and Akkadian etymology**
+
+- *The Assyrian Dictionary of the Oriental Institute of the University of Chicago* (CAD). Volume E (edinu).
+- Halloran, John A. *Sumerian Lexicon*. Logogram Publishing, 2006.
+
+**Modern reinterpretive scholarship**
+
+- Biglino, Mauro, and Giorgio Cattaneo. *La Bibbia non parla di Dio*; English: *The Naked Bible: The Truth About the Most Famous Book in History* (2022).
+- Sendy, Jean. *Ces dieux qui firent le ciel et la terre* (Robert Laffont, 1969); English: *Those Gods Who Made Heaven and Earth* (Berkley, 1972).
+
+**External references**
+
+- "Garden of Eden." *Encyclopaedia Britannica*. <https://www.britannica.com/topic/Garden-of-Eden>
+- "Garden of Eden." *Wikipedia*. <https://en.wikipedia.org/wiki/Garden_of_Eden>
+- "Eden, Garden of." *Jewish Encyclopedia*. <https://www.jewishencyclopedia.com/articles/5428-eden-garden-of>
