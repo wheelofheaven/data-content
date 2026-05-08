@@ -1,209 +1,135 @@
 +++
 title = "Elohim"
 slug = "elohim"
-description = "Elohim (אֱלֹהִים), the plural of Eloha (אֱלוֹהַּ), literally meaning the Powerful Ones or more figuratively, the Ones from Above, the Celestials. The name given to the Biblical Gods who in turn are a scientifically highly advanced civlization capable of interstellar travel, terraforming planets and life synthetization."
+description = "Elohim (אֱלֹהִים) is the plural Hebrew name used throughout the Torah for the figures conventionally translated as God. In the Wheel of Heaven framework, the term refers to the extraterrestrial civilization whose members designed and synthesized terrestrial life, including humanity, and whose communications with early humans are preserved in the biblical and adjacent traditions."
 template = "wiki-page.html"
 toc = true
 aliases = ["/intro/extraterrestrial-civilization/"]
 
 [extra]
 category = "Elohim"
-alternative_names = ["Annunaki", "Celestials", "Creators", "Dei", "El", "Gods", "The Powerful Ones", "The Ones from the Skies", "Theosites"]
-claim_type = "direct"
+alternative_names = ["Anunnaki", "Celestials", "Creators", "El", "Gods", "Powerful Ones", "Sky People", "Theosites"]
+claim_type = "framework"
 +++
 
-The term Elohim (Hebrew: <span class="hebrew">אֱלֹהִים</span>, 'ēlohîm) is a Hebrew word used in the Old Testament of the Bible and is typically translated as God. It is a plural noun, and its use has led to much debate among biblical scholars regarding its significance.
+**Elohim** (Hebrew: <span class="hebrew">אֱלֹהִים</span>, *ʾĕlōhîm*) is the plural form of the Hebrew noun *Eloah* (<span class="hebrew">אֱלוֹהַּ</span>, *ʾĕlōah*) and is the most frequent term used in the Hebrew Bible for the figures conventionally translated as *God*. In the Wheel of Heaven framework, Elohim names the extraterrestrial civilization whose members designed and synthesized terrestrial life — including humanity — and whose subsequent interventions in human history are recorded, in compressed and partially distorted form, across the Hebrew Bible and a number of related ancient traditions. The term is plural in form, and the framework reads that plurality literally: a collective of identifiable beings, not a singular deity.
 
-In traditional Judaism and Christianity, the use of a plural noun to describe God is understood as a plural of majesty, similar to the way a king might refer to himself in the royal "we". However, some biblical scholars and religious traditions have taken a different approach to the use of the plural noun "Elohim." Some have argued that it is evidence of a polytheistic belief in the ancient Near East, in which the term referred to a council of gods who were responsible for different aspects of the world. In this interpretation, the concept of monotheism, the belief in one God, evolved gradually over time in ancient Israel.
+The term is one of the most contested in biblical philology. Traditional Jewish and Christian theology has read the plural form as a *plural of majesty* designating a single God; modern critical scholarship has variously read it as a relic of West Semitic polytheism or as a generic noun for divinity. The framework adopts a third reading, drawn from the Raëlian source material and developed in the work of Jean Sendy, in which the plural is taken at face value and the referent is identified as a non-supernatural civilization of physical beings.
 
-## Plural form
+## Chronology and locator
 
-The plurality of Elohim, if accepted, would challenge the traditional understanding of God as a singular entity in the Bible. This would have enormous implications for how we understand the nature and character of God, as well as the stories and events described in the Bible. It would also raise questions about the relationship between the various factions of the Elohim, other powerful beings and human beings. Also, the very nature of these powerful beings would be potentially impact religious beliefs, particularly if these beings would be extraterrestrial in origin. The interpretation of Elohim as a plural entity would also raise questions about the origins of humanity and our place in the universe. It could potentially lead to a significant paradigm shift in our understanding of the Bible and its teachings.
+| Field | Value |
+|---|---|
+| **Term attested** | Hebrew Bible compositional layers, c. 10th–5th century BCE (scholarly consensus) |
+| **Semitic root** | *ʾl* / *ʾlh*, attested across Akkadian, Ugaritic, Aramaic, Arabic, and Hebrew |
+| **Earliest cognate** | Akkadian *ilum*, written with the Sumerian logogram 𒀭 (DINGIR), 3rd millennium BCE |
+| **Modern reinterpretation begins** | Jean Sendy, *La Lune, clé de la Bible* (1968) |
+| **Framework source** | Raëlian source material, beginning with Vorilhon's first encounter (1973) |
+| **Date type** | mixed — philological for the term's history, framework-internal for its referent |
 
 ## Etymology
 
-The word Elohim comes from the Biblical Hebrew ʾélôhím (<span class="hebrew">אֱלֹהִים / אֱלוֹהִים</span>), which is the plural form of ʾélôah (<span class="hebrew">אֱלוֹהַּ</span>). This term is an expanded form of ʾēl (<span class="hebrew">אֵל</span>), whose Semitic root is ʾlh or ʾl.[^1] In its plural form ʾilhm, it denotes "powers" or, if applied to a subject, "powerful ones."[^2]
+The Hebrew *ʾĕlōhîm* is the plural of *ʾĕlōah*, itself usually understood as an expanded form of the shorter *ʾēl* (<span class="hebrew">אֵל</span>). The underlying Semitic root is *ʾl* or *ʾlh*, with cognates across the Semitic family: Akkadian *ilum*, Ugaritic *ʾilhm* (plural), Aramaic *ʾĕlāh*, Arabic *ʾilāh*. The conventional gloss for the root is *power* or *strength*, and the plural *ʾilhm* is read as *powers* or *powerful ones*.
 
-The oldest known Semitic language is Akkadian, and its cognate of ʾēl (<span class="hebrew">אֵל</span>) is ilum. Ilum, in turn, is derived from the Proto-Semitic *ʔil-.[^3] The Sumerian cuneiform script was used to write Akkadian, and ilum can be represented in cuneiform as a logogram (𒀭), syllables (𒄿𒈝), or a combination of both (𒀭𒈝).[^4]
+The Akkadian cognate *ilum* is written, in cuneiform, with the logogram 𒀭. As an ideogram, the same sign represents *an* — sky, heaven — and depicts a star. The Sumerian word *Anunnaki* (𒀭𒀀𒉣𒈾), often translated as *those of princely seed* or, more loosely, *those who from heaven came to earth*, contains this same 𒀭 element with the reading *an*.
 
-The logogram 𒀭 (DINGIR) represents an individual god,[^5] while as an ideogram, it represents "sky" or "heaven".[^6] The Sumerian word 𒀭𒀀𒉣𒈾 (pronounced Annunaki) contains 𒀭 as ān, which means "sky".[^7]
+The convergence is significant: the cuneiform sign for divinity *is* the sign for sky. The earliest written form of the concept the Hebrew tradition would later render as Elohim depicts a star — that is, depicts a celestial origin pictographically. The framework reads this convergence as a residue of the original referent: the divine, in the earliest written sources of the ancient Near East, is what comes from the sky, depicted as a star, before later theological development abstracted the sky-origin into a non-physical heavens. The standard philological reading of the root as *power* is not in conflict with this — beings arriving from the sky with technology unattainable by terrestrial humans would be, by every available criterion, *powerful ones*.
 
-In summary, Elohim is a cognate of the older Akkadian term ilum, which is written with the Sumerogram 𒀭, meaning "sky." The Semitic root of the Hebrew ʾēl or the Akkadian ilum is ʾl, which is usually understood as "power." The Sumerogram 𒀭, meaning "sky," provides a better indication of the original root meaning before it became associated with the powerfulness of these gods that came from the sky.
+## Translation history
 
-## According to Jean Sendy
+The translation of *Elohim* as the singular *God* in most Western Bibles is a translational decision, not a feature of the underlying Hebrew. The Septuagint (3rd–2nd century BCE) generally renders *ʾĕlōhîm* with the Greek singular *ho theos*, and this convention passes into the Latin Vulgate (*Deus*) and from there into the major European translations. The translation suppresses the morphological plurality of the Hebrew form throughout.
 
-Jean Sendy, a French author who wrote on the subject of ancient astronauts, translates Elohim as the "gods from the sky" or the Celestials. He argues that the term Elohim in the Hebrew Bible refers to a group of beings that were not strictly divine, but rather a class of powerful, advanced beings from the celestial sky who interacted with humanity.
+A small number of pre-modern commentators registered the discrepancy. Voltaire, in the *Dictionnaire philosophique* (1764), noted that the Hebrew word translated as *God* in Genesis is plural and that this fact had been generally forgotten. The systematic re-examination of the term, however, belongs to the second half of the twentieth century.
 
-In the early pages of his book _Those Gods Who Made Heaven & Earth_, he says the following about the plurality of the word Elohim:
+## In the Wheel of Heaven framework
 
-> Reading the Bible as Schliemann read Homer means ignoring all the exegeses that have accumulated around it for the past two thousand years. Their avowed purpose to seek proof of the existence of God in the Bible. To someone who reads the Bible "à la Schliemann", on the assumption that the text is to be taken in its most concrete sense God is as far outside the subject as the religious beliefs of the Greeks and Trojans were to Schliemann.
->
-> When we read the Bible in that way, we must first note that the Hebrew word Elohim, usually translated as "God", is a plural. If we read "Those who came from the sky", or "the Celestials", each time the plural Elohim occurs we find ourselves reading a narrative that needs no exeges, no helpful prodding, no religious conviction, in order to be thoroughly coherent.
->
-> Voltaire knew that a Hebrew word meaning "gods" had been translated as "God", but people who now claim intellectual kinship with Voltaire have forgotten it.
->
-> Read in this way, Genesis appears as an account of the arrival of perfectly concrete Celestials, physically in our image, who behaved on earth as we can imagine our own astronauts behaving on another planet in a future that is still far off but no longer belongs to the realm of science fiction.
->
-> — Those Gods Who Made Heaven & Earth, p. 13
+The framework reads *Elohim* literally and concretely.
 
-The passage argues that reading the Bible in the same way that Heinrich Schliemann read Homer means disregarding centuries of accumulated exegesis, and approaching the text in its most concrete sense. The Hebrew word Elohim, which is usually translated as "God", is a plural word. By reading it as "the Celestials" or "those who came from the sky" instead of "God", the narrative becomes coherent and does not require any religious convictions.
+The plural form names a plurality of beings. Those beings are not divine in the supernatural sense; they are members of an extraterrestrial civilization with technological capacities — interstellar travel, biological synthesis, planetary engineering — far beyond what was available to the early humans who encountered them and recorded the encounters. The Hebrew Bible, on this reading, is a partly preserved and partly distorted record of those encounters, transmitted across many centuries of oral and scribal transmission and overlaid with theological interpretation as the original referents passed out of living memory.
 
-### A Gentleman's Joyous Esotericism
+The framework's account of the Elohim derives primarily from the Raëlian source material — *The Book Which Tells the Truth* (1974) and *Extraterrestrials Took Me to Their Planet* (1975), assembled in subsequent editions as *Message from the Designers* — in which Vorilhon reports having received this account directly from a member of the Elohim civilization in a series of encounters at Clermont-Ferrand and the Périgord. The framework also draws on the work of Jean Sendy, whose 1968 *La Lune, clé de la Bible* and subsequent books had argued, on independent textual and archaeological grounds, that the biblical Elohim were a physical, technologically advanced civilization rather than a supernatural deity. The convergence between Sendy's textual reconstruction and the Raëlian source material is one of the framework's foundational observations.
 
-In a seminal paper of the same title, Stefano Bigliardi fleshes out an accurate portrayal of Jean Sendy. As the notion of the alleged existence of so-called _Theosites_ is a central key aspect of Sendy's thought, in the seminal paper, these Theosites are introduced through the references to Jean Sendy's book _Les cahiers de cours de Moïse_ (French for Moses' course notebooks) as follows:
+The framework treats the Elohim collective as internally differentiated. It names individuals — Yahweh, Lucifer, Satan, and others — as functionally distinct figures within the civilization rather than as a single being or as figures from a separate ontological order. These individuals are treated in their own dedicated entries.
 
-> The history is that of the arrival on earth of extra-terrestrial cosmonauts, which Sendy calls Theosites (their home planet being Theos, p. 201).
+What the framework does *not* claim about the Elohim is worth stating directly. It does not claim that the Elohim are gods in any traditional supernatural sense. It does not claim that they are omnipotent, omniscient, or eternal in a metaphysical sense, though their lifespans, on the source material's account, are very long by terrestrial standards. It does not identify the Elohim with the deities of any later polytheistic tradition by simple substitution; the relationship between the biblical Elohim and the deities of Sumer, Egypt, Greece, or India is a matter for case-by-case comparative analysis, not blanket identification.
 
-In the same work, Bigliardi points out that Sendy also showcased a nuanced understanding of the possibility that different factions among the Theosites may be referenced to by different names:
+The framework's reading of *Elohim* is the foundation on which most of the rest of the corpus rests. Entries on the alliance, on individual Elohim figures, on the precessional ages of the corpus, on the major biblical events, and on the comparative religious traditions all assume this reading and develop its consequences for their specific subjects.
 
-> “Elohim”  designates a specific faction of the Theosites, not all of them (p. 203).
+## Modern reinterpretations
 
-## According to Mauro Biglino
+Several twentieth- and twenty-first-century authors have, on independent textual and comparative grounds, proposed readings of *Elohim* compatible with — though not always identical to — the framework's. The list below is partial. It registers the modern reinterpretive tradition the framework joins, without claiming that any of the authors named below have endorsed the framework as a whole.
 
-Mauro Biglino is an Italian author, translator, and researcher who is known for his controversial work on the Bible. He worked for over a decade as a translator for the Catholic Church at the Vatican, where he translated ancient Hebrew and Greek texts. According to Biglino, his work as a translator has given him access to ancient, uncensored versions of the Bible, which he claims have been altered over time.
+**Jean Sendy** (1910–1978) was a French author and translator whose *La Lune, clé de la Bible* (1968) and *Ces dieux qui firent le ciel et la terre* (1969, translated as *Those Gods Who Made Heaven and Earth*) argued that the Hebrew Bible read in its plain sense — as Heinrich Schliemann had read Homer — describes the arrival on Earth of physically embodied beings from elsewhere in the cosmos. Sendy proposed translating *Elohim* as *the Celestials* or *those who came from the sky*, and used the term *Theosites* (inhabitants of *Theos*) for the same referent in his later *Les cahiers de cours de Moïse* (1974). Sendy's approach is philological and historiographic rather than revelatory; he reaches the framework's reading from textual analysis alone. He is the framework's most important non-Raëlian source.
 
-In his book _The Book That Will Forever Change Our Ideas About The Bible_, he says the following about how the name of the Biblical God is a plural and can be translated as the "being from above":
+**Mauro Biglino** (b. 1950) is an Italian translator who worked for over a decade on Hebrew and Greek biblical texts for Edizioni San Paolo, a Catholic publishing house associated with the Vatican. His books, beginning with *Il Libro che cambierà per sempre le nostre idee sulla Bibbia* (2010, *The Book That Will Forever Change Our Ideas About the Bible*), argue from a strict literal translation of the Hebrew that *Elohim* designates a plurality of physical beings — *the lords from above* — whose works are described in concrete, non-metaphorical terms in the Hebrew text. Biglino's reading is independent of the Raëlian source material and reaches the framework's basic conclusion through philological analysis of the Hebrew alone.
 
-> The concept of “space” must be considered as the foundation of everything that has to do with the divine: the Sumerian term for deities is DINGIR, which actually refers to the meaning of “celestial apparition” highlighting its brightness and shine and then recalling the lords' flying machines, which were bright and glittering. Their ideogram symbolized a star and represented a “being from above”.
->
-> We immediately note that this is exactly the same meaning as the biblical term ELOHÌM, “the lords from above”: term that is usually – but wrongly! – translated using the singular form to keep the concept of God's oneness.
+**Paul Anthony Wallis** is an Australian biblical scholar and former Anglican archdeacon whose books beginning with *Escaping from Eden* (2020) propose translating *Elohim* as *the Powerful Ones*, taking the plural as literal. Wallis develops the comparative argument that the Powerful Ones of the Hebrew Bible are the same referent as the *Sky People* of the Sumerian cuneiform tradition, and points to passages such as Joshua 24:14, where Joshua exhorts the Israelites to abandon the *elohim* their ancestors served beyond the river, as cases where the term cannot be a singular plural-of-majesty without the passage becoming incoherent.
 
-Later on, in the same book, he diligently translates the early Genesis passages as follows:
+The convergence of these three reinterpretations — Sendy's philological-historiographic, Biglino's strict-translational, Wallis's comparative-cuneiform — is itself a datum. Three modern researchers, working from different methods and largely independently of each other, have reached substantially the same reading of the term that the Raëlian source material reports as the original meaning.
 
->> And the Elohìm said: let us make man with image of us and in our liking
->
-> But the editor of the story seems to feel the need to emphasize something that the reader must absolutely understand: there must be no doubt whatsoever because certainly this is an extraordinary event, and soon you'll understand why.
->
-> In the next verse (1:27), indeed, it seems he wants to make it clear:
->
->> And the Elohìm made man with his image. With image of Elohìm he made. [He] made them male and female
->
-> In short, the author wants to tell us that the Elohìm (Semitic plural term for the “lords from above”) made man by using their “tselèm” ( <span class="hebrew">צֶלֶם</span>). But what is tselèm (<span class="hebrew">צֶלֶם</span>)? And was this particular so important to point it out twice?
->
-> Before seeing the deeper meaning of this Semitic root, we note that the Bible tells us how the Elohìms took this decision and said “let's do”, using a Hebrew verbal form that is called “cohortative mood”: a form that contains the value of an exhortation, an invitation to do, a solicitation.
->
-> In this “cohortative mood” we can see a kind of summary of several discussions, hypothesis and suggestions that Enki must have given to his team in order to find a solution to the problems we have listed in the previous chapter.
->
-> Thus, using the “coortative mood” Genesis says: «Come on, let's work, let's proceed...».
-> Moreover, the issue of the term Elohìm - plural - cannot be dismissed too easily. We who try to practice freedom of thought and do not have any monotheistic dogma to defend, can proceed with confidence to consider “The Elohìm” as a real plurality of persons.
->
-> Ancient exegetes believed that the matter cannot be underestimated, [...]
+## Cross-vocabulary
 
-Biglino clearly encourages readers to consider the Elohìm as a real plurality of persons, rather than a singular entity and argues that the name of the Biblical God, Elohim, is a plural that can be translated as "the lords from above."
+Different authors and traditions have proposed different anglicizations or translations for what they take to be the same referent or a closely related one. The table below summarizes; it is a comparative observation, not an assertion of strict identity across all rows.
 
-## According to Paul Anthony Wallis
+| Term | Source language / tradition | Gloss | Used by |
+|---|---|---|---|
+| Elohim (<span class="hebrew">אֱלֹהִים</span>) | Hebrew | Powerful Ones / those from above | Hebrew Bible; standard scholarly term |
+| Anunnaki (𒀭𒀀𒉣𒈾) | Sumerian | those of princely seed; popularly *those who from heaven came to earth* | Sumerian cuneiform tradition; Sitchin and successors |
+| El | West Semitic | the high god of the Canaanite pantheon; cognate root | Ugaritic and biblical sources |
+| Celestials | Sendy's French | *les Célestes* — those who came from the sky | Sendy |
+| Theosites | Sendy's French | inhabitants of *Theos* | Sendy (later works) |
+| Sky People | English | beings from the sky | Wallis; broader literature |
+| Powerful Ones | English | literal gloss of the Semitic root | Wallis |
+| Lords from above | Italian / English | strict translation per Biglino | Biglino |
 
-Paul Anthony Wallis, an Australian author on the subject of re-interpreting the Biblical scriptures with a plural Elohim, translates Elohim as the "Powerful Ones". This translation for instance explained in his first book on the topic, called _Escaping from Eden: Does Genesis Teach That the Human Race Was Created by God or Engineered by ETs_, how he uses the Semitic root of the word Elohim:
+The framework uses **Elohim** as its preferred term, since it is the term used in the Hebrew Bible and in the Raëlian source material that the framework treats as primary. *Sky People*, *Powerful Ones*, and *Celestials* appear as legitimate English glosses; *Anunnaki* is used specifically in connection with the Sumerian material and is not treated as automatically interchangeable with *Elohim* without case-by-case argument.
 
-> In whichever we may conceive of them, the story invites us to recognize a power well beyond anything we are familiar with. To understate it, they are clearly different to us! For simplicity, I will stick to the root meaning of the word “elohim” and refer to these entities as the “Powerful Ones”.
+## Open questions
 
-Wallis, an educated Biblical scholar, started his journey of translating the Bible in a different way by recognizing and aknowledging the anomalies in the Bible, something he calls the _red flags_:
-
-> When I read this verse in English there’s no problem. With my interlinear Bible open, the Hebrew text on one side and the Greek of the Septuagint on the other, I can’t escape a rather big question: Why is this word, elohim, which is translated as God, shaped like a plural noun? How come it’s a plural if there’s only one God?
-
-In the same book mentioned before, further on, he emphasizes the importance of reading the Bible with a plurality of Gods:
-
-> Now that you’ve eavesdropped on my notes, you’ll understand the wrestle I found myself wrestling. Everything hinged on this enigmatic
-and anomalous word – elohim.
->
-> As I continued to walk through the pages of Genesis, I could see that every time elohim and Yahweh are equated there is a kind of moral distortion that takes place and the devout reader is forced to excuse ways that appear lower than ours – not higher. I began to wonder if the apparent morality of God would lift consistently if we were to re- pluralize our understanding of elohim?
-
-In another passage of the same book, he suggest to have been able to settle the argument wether or not Yahweh and Elohim can be equated, a common argument put forward against the plurality of the word Elohim, he writes the following:
-
-> To settle the matter beyond doubt you just need to locate the car’s unique fingerprint, the vehicle identification number, etched into the metal. That’s the smoking gun you would need to find.
->
-> If the Powerful Ones of the Bible and the Sky People of the cuneiform tablets are the same, and not similar by coincidence, then presumably Yahweh is a separate entity whose self-revelation has been interwoven with the stories of the Powerful Ones. For our smoking gun we need look no further than the book of Joshua 24:14.
->
-> In this passage Joshua gives a speech to persuade the people of Israel to entrust themselves to the entity who revealed himself to Moses in the desert as Yahweh. Joshua has succeeded Moses as leader following Moses’ death. He addresses the people in these words:
->
->> “Now, therefore, follow Yahweh and serve him in sincerity and truth. Put away the elohim (the Powerful Ones) whom your ancestors served on the other side of the river and in Egypt, and serve Yahweh... Today make up your minds whom you mean to serve; the Powerful Ones whom your ancestors served beyond the river, or the Powerful Ones of the Amorites in whose country you now live. But as for me and my house we will serve Yahweh.”
->
-> The time in Egypt speaks of the Israelites’ time enslaved within a foreign religious culture before Yahweh revealed himself to Moses.
->
-> “On the other side of the river,” refers to the religious culture of Abraham and Sarah’s roots in Sumerian Mesopotamia. Joshua 24:2 clarifies this:
->
->> “Since a time before memory your ancestors, right up until Terah, the father of Abraham and Nahor, lived on the other side of the river and served Powerful Ones (i.e. other (plural) elohim.)
->
-> Joshua calls his people to reject the Egyptian and Sumerian elohim – “tear them off” is his phrase – and give all their allegiance to Yahweh.
->
-> Here is an instance when elohim and Yahweh clearly cannot be equated. Here elohim is a plurality of Powerful Ones whom we are not to worship. They are the Sky People of Abraham’s Sumerian heritage, whose stories are told in the cuneiform tablets. Joshua calls the people in God’s name to disregard them, reject them and cut them off!
->
->For me this is the smoking gun. Every point of correlation between the Sky People and the Powerful Ones in their respective storylines constitutes another digit in that vehicle identification number. Joshua’s speech unambiguously connects the two mythologies.
-
-Wallis argues that in order to prove that the Powerful Ones of the Bible and the Sky People of the cuneiform tablets are the same, therefore implying that the God of the Bible is a plural and represent an extraterrestrial civilization, one must locate a smoking gun in the form of evidence, which he finds in the book of Joshua 24:14.
-
-While taking the Sumerian account as a blueprint, Wallis makes the meticulous observation that the Powerful Ones can also be called the Sky People:
-
-> The Sumerian word for “god” or “gods” is a glyph that indicates the sky. To get as near to the original associations as we can I will be
-referencing them as Sky People.
-
-Basically, Wallis re-interprets the Biblical scriptures with a plural Elohim, which he translates as the “Powerful Ones.” He emphasizes the importance of reading the Bible with a plurality of Gods and argues that the plurality of the word Elohim can be settled by locating a smoking gun in the form of evidence. Wallis suggests that the evidence can be found in the book of Joshua 24:14, which unambiguously connects the two mythologies and clarifies that the Powerful Ones of the Bible and the Sky People of the cuneiform tablets are the same, and the God of the Bible is a plural and represents an extraterrestrial civilization.
-
-## In Raëlism 🔯
-
-In the first book [The Book Which Tells The Truth](../library/the-book-which-tells-the-truth/index.md/), Yahweh says the following about the very meaning of Elohim, the alleged name of God in the Biblical scriptures:
-
-> I am sure you can appreciate that, thanks to the law, which said that the Bible had always to be re-copied without changing even the smallest detail, the deepest meaning has remained intact throughout the ages, even if the text has been larded with mystical and futile sentences. So let us start with the first chapter of the Book of Genesis:
->
->> In the beginning Elohim created the heaven and the earth.
->>
->> — Genesis 1: 1.
->
-> Elohim, translated without justification in some Bibles by the word God means in Hebrew "those who came from the sky", and furthermore the word is a plural. It means that the scientists from our world searched for a planet that was suitable to carry out their projects.
-
-Later on, in the same book, Yahweh emphasizes the proper translation of Elohim again:
-
-> Elohim in Hebrew literally means "those who came from the sky". The "sons of Elohim", in other words, the creators who watch human beings, report regularly to their planet of origin, indicating for the most part that human beings venerate and love the Elohim.
-
-In summary, Yahweh explains that Elohim, the alleged name of God in the Bible, means "those who came from the sky" in Hebrew and is a plural word, implying that they represent members of an civilization from another world capable of interstellar travel.
-
-### Individuals
-
-In Raëlism, there are a few Elohim invididuals that are known by their names or nominal roles. The most famous ones are named in the Bible with the following denominations:
-
-- **Yahweh**: The president of the Council of the Eternals and main representative of the Elohimian civilization.
-- **Lucifer**: Leader of a faction among the Elohim that brought the light and knowledge to the first human beings and main advocate for the continuity of the human species.
-- **Satan**: Leader of a faction among the Elohim that believes nothing good can come from the humans and main antagonist of the continuity of the human species.
-
-## Summary
-
-### Usage
-
-As we've seen, Elohim seems to refer to an extraterrestrial civilization collectively remembered in the Biblical scriptures. Many proponents of this notion each settle for a variety of terms. In the following table, we would like to summarize what names have been used by these proponents and what they refer to by that name.
-
-| Name                      | Meaning                             | Proposed by                     |
-|---------------------------|-------------------------------------|---------------------------------|
-| Anaqiti                   | Those who from heaven to Earth came | Mauro Biglino                   |
-| Anunnaki (Sumerian: 𒀭𒀀𒉣𒈾) | Sky People                          | tbd                             |
-| Celestials                | People from the Sky                 | Jean Sendy                      |
-| Elohim (Hebrew: <span class="hebrew">אֱלֹהִים</span>)    | Powerful Ones, Sky People           | tbd                             |
-| Sky People                | People from the Sky                 | Jean Sendy, Paul Anthony Wallis |
-| Theosites                 | Inhabitants from Theos              | Jean Sendy                      |
-
-## Our take
-
-The term Elohim is the plural form of Eloha, which means "Celestials" or "ones from the sky." It is the name given to the Biblical gods who are believed to be a highly advanced civilization capable of interstellar travel, terraforming planets, and synthesizing life. The Hebrew word Elohim is a cognate of the older Akkadian term ilum, which is written with the Sumerogram 𒀭, meaning "sky." The argument that the term Elohim in the Hebrew Bible refers to a group of beings that were not strictly divine but rather a class of powerful, advanced beings from the celestial sky who interacted with humanity is not so unsound anymore once one starts reading the Bible as _Schliemann read Homer_.
+- The relationship between the biblical Elohim and the deities of the Sumerian, Egyptian, and broader ancient Near Eastern pantheons remains a matter of comparative analysis rather than settled identification. The framework does not endorse the simple equivalences proposed by some popular ancient-astronaut literature.
+- The internal structure of the Elohim civilization — its political organization, its decision-making bodies, its relationship to the wider *alliance* of which the framework treats it as a part — is described in only schematic terms in the available source material.
+- The provenance of the Sumerian DINGIR sign as a depiction of a star is well established in cuneiform paleography. Whether this iconography reflects an actual memory of celestial-origin beings, as the framework reads it, or is a more general symbolic association, is interpretively open.
 
 ## See also
 
-- [Wiki › Elohimian home planet](../elohimian-home-planet/)
-- [Wiki › Genesis](../genesis/)
-- [Wiki › Lucifer](../lucifer/)
-- [Wiki › Plurality of Gods](../plurality-of-gods/)
-- [Wiki › Satan](../satan/)
-- [Wiki › Yahweh](../yahweh/)
+- [Wiki › The Alliance](../the-alliance/) — the larger civilizational structure of which the Elohim are, on the framework, a part
+- [Wiki › Yahweh](../yahweh/) — named Elohim individual; council president on the Raëlian source material
+- [Wiki › Lucifer](../lucifer/) — named Elohim individual; faction leader
+- [Wiki › Satan](../satan/) — named Elohim individual; faction antagonist
+- [Wiki › Anunnaki](../anunnaki/) — Sumerian referent; comparative entry
+- [Wiki › Genesis](../genesis/) — the principal biblical text in which Elohim are the agents of creation
+- [Wiki › Plurality of Gods](../plurality-of-gods/) — focused entry on the morphological and theological question
+- [Wiki › Jean Sendy](../jean-sendy/) — biographical entry on the framework's principal non-Raëlian source
+- [Wiki › Raël](../rael/) — biographical entry on the recipient of the Raëlian source material
+- [Wiki › *Message from the Designers*](../library/message-from-the-designers/) — the canonical source text
 
-## External links
+## Sources
 
-- [Elohim | Wikipedia](https://en.wikipedia.org/wiki/Elohim)
-- [Elohim (Hebrew God) | Britannica](https://www.britannica.com/topic/Elohim)
-- [Elohim | Jewish Encyclopedia](https://www.jewishencyclopedia.com/articles/5704-elohim)
-- [Names of God | Jewish Encyclopedia](https://www.jewishencyclopedia.com/articles/11305-names-of-god)
+**Primary sources within the framework**
 
-[^1]: From Hebrew <span class="hebrew">אֱלֹהִים/אֱלוֹהִים</span> (ʾélôhím, “heavenly power”), plural of <span class="hebrew">אֱלוֹהַּ</span> (ʾélôah), often taken to be an expanded form of <span class="hebrew">אֵל</span> (ʾēl) See more: [Elohim | Wiktionary](https://en.wiktionary.org/wiki/Elohim)
-[^2]: The Semitic root ʾlh (Arabic ʾilāh, Aramaic ʾAlāh, ʾElāh, Hebrew ʾelōah) may be ʾl with a parasitic h, and ʾl may be an abbreviated form of ʾlh. In Ugaritic the plural form meaning of ʾlh is ʾilhm, equivalent to Hebrew ʾelōhîm. See more: [El (deity | Wikipedia)](https://en.wikipedia.org/wiki/El_(deity))
-[^3]: From Proto-Semitic *ʔil-. Cognate with Arabic إِلٰه (ʔilāh) and Biblical Hebrew <span class="hebrew">אֵל</span> (ʔel). See more: [ilum | Wiktionary](https://en.m.wiktionary.org/wiki/ilum#Akkadian)
-[^4]: Cuneiform spellings as a Logogram is 𒀭 (DINGIR). The cuneiform spelling can also be represented in its phonetic form 𒄿𒈝 (i-lum) or its mixed form 𒀭𒈝 (DINGIR-lum). See more: [ilum | Wiktionary](https://en.m.wiktionary.org/wiki/ilum#Akkadian)
-[^5]: The cuneiform sign by itself was originally a star-shaped ideogram for the Sumerian word an ("sky" or "heaven"). Tts use was then extended to a logogram for the word diĝir ("god" or "goddess"). See more: [Dingir | Wikipedia](https://en.wikipedia.org/wiki/Dingir)
-[^6]: The ideogram (glyph) represents a drawing of a star. The Sumerogram therefore stands for "sky" or "heaven", the star-lid sky so to speak. See more: [Dingir | Wiktionary](https://en.wiktionary.org/wiki/%F0%92%80%AD)
-[^7]: The Sumerian spelling is an or ān, meaning "sky". The An in Annunaki also stands for the "sky". In both Sumerian and Akkadian, Anu (𒀭𒀭) is considered to be the Sky Father, King of the Gods. See more: [Anunnaki | Sumerian](https://en.wikipedia.org/wiki/Anunnaki)
+- Vorilhon, Claude (Raël). *The Book Which Tells the Truth* (1974) and *Extraterrestrials Took Me to Their Planet* (1975), collected as *Message from the Designers* (Raëlian Foundation, current English edition).
+
+**Foundational reinterpretive scholarship**
+
+- Sendy, Jean. *La Lune, clé de la Bible* (Julliard, 1968).
+- Sendy, Jean. *Ces dieux qui firent le ciel et la terre* (Robert Laffont, 1969); English: *Those Gods Who Made Heaven and Earth* (Berkley, 1972).
+- Sendy, Jean. *Les cahiers de cours de Moïse* (Robert Laffont, 1974).
+
+**Parallel modern reinterpretations**
+
+- Biglino, Mauro. *Il Libro che cambierà per sempre le nostre idee sulla Bibbia* (Uno Editori, 2010); English: *The Book That Will Forever Change Our Ideas About the Bible* (Uno, 2013).
+- Wallis, Paul Anthony. *Escaping from Eden* (6th Books, 2020).
+
+**Secondary scholarship on Sendy**
+
+- Bigliardi, Stefano. "A Gentleman's Joyous Esotericism: Jean Sendy's Reading of the Bible." (Journal article; full citation to be added.)
+
+**Standard reference**
+
+- "Elohim." *Encyclopaedia Britannica*. <https://www.britannica.com/topic/Elohim>
+- "Elohim." *Jewish Encyclopedia*. <https://www.jewishencyclopedia.com/articles/5704-elohim>
+- "Names of God in Judaism." *Wikipedia*. <https://en.wikipedia.org/wiki/Names_of_God_in_Judaism>
+
+[^1]: The Semitic root *ʾl* / *ʾlh* is attested across Akkadian (*ilum*), Ugaritic (singular *ʾil*, plural *ʾilhm*), Aramaic (*ʾĕlāh*), Arabic (*ʾilāh*), and Hebrew (*ʾēl* / *ʾĕlōah* / *ʾĕlōhîm*). See "El (deity)," *Wikipedia*, <https://en.wikipedia.org/wiki/El_(deity)>.
+[^2]: The cuneiform sign 𒀭 (DINGIR) was originally a star-shaped ideogram for the Sumerian word *an* (*sky*, *heaven*); its use was extended to a determinative and logogram for *diĝir* (*god*). See "Dingir," *Wikipedia*, <https://en.wikipedia.org/wiki/Dingir>.
+[^3]: Voltaire, *Dictionnaire philosophique*, entry on "Genèse" (1764).
