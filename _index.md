@@ -1,6 +1,6 @@
 +++
 title = "Wheel of Heaven"
-description = "The democratization of the Age of Aquarius starts here. Wheel of Heaven is a knowledge base exploring the working hypothesis that life on Earth was intelligently designed by an extraterrestrial civilization, the so-called Elohim."
+description = "A long reading of the ancient world's creation traditions through a single working hypothesis: that the beings called Elohim were a small advanced civilization that designed life on Earth. Organized along the precessional cycle, in twelve ages."
 +++
 
 {% include "partials/brand/wordmark.html" %}
