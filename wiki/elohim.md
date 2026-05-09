@@ -12,6 +12,7 @@ aliases = [
 [extra]
 category = "Elohim"
 entry_type = "civilization"
+editorial_pass = "2026-05"
 alternative_names = ["Anunnaki", "Celestials", "Creators", "El", "Gods", "Powerful Ones", "Sky People", "Theosites"]
 
 infobox = [
