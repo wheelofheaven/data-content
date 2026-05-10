@@ -1,14 +1,5 @@
 +++
 title = "Wheel of Heaven"
-description = "La democratización de la Era de Acuario está aquí. Wheel of Heaven es una knowledge base alrededor de la teoría de trabajo de que la vida en la tierra fue diseñada de manera inteligente por una civilización extraterrestre, el llamado Elohim."
+template = "index.html"
+description = "Una lectura extensa de las tradiciones de creación del mundo antiguo a través de una única hipótesis de trabajo: que los seres llamados Elohim eran una pequeña civilización avanzada que diseñó la vida en la Tierra. Organizada según el ciclo de la precesión, en doce eras."
 +++
-
-# Bienvenido a Wheel of Heaven
-
-La democratización de la Era de Acuario está aquí.
-
-Wheel of Heaven es una knowledge base alrededor de la teoría de trabajo de que la vida en la tierra fue diseñada de manera inteligente por una civilización extraterrestre, el llamado Elohim.
-
-Embárcate en un viaje hacia la Era de Acuario con Wheel of Heaven, un portal de descubrimiento y democratización del conocimiento cósmico. Nuestra plataforma profundiza en la hipótesis fascinante de que la vida en la Tierra no fue una mera casualidad, sino un acto de diseño inteligente por una civilización extraterrestre avanzada conocida como los Elohim.
-
-Wheel of Heaven ofrece una rica base de conocimientos que entrelaza la sabiduría antigua, la indagación científica moderna y percepciones visionarias, invitándote a explorar la posibilidad de nuestros orígenes celestiales y las profundas implicaciones para nuestro futuro.
