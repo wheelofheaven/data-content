@@ -1,38 +1,41 @@
 +++
 title = "Yahweh"
 slug = "yahweh"
-description = "Yahweh (Hebrew: יהוה, YHWH) is the proper name of the principal divine figure of the Hebrew Bible, conventionally read by mainstream tradition as the singular God of Israel. In the Wheel of Heaven framework, Yahweh is a specific Eloha — the president of the Council of the Eternals, the senior alliance authority who personally directed the creation of life on Earth from the Age of Capricorn onward, and the principal alliance interlocutor with Earth's prophetic figures across the subsequent fifteen millennia. The framework's primary source material is Yahweh's first-person account of his civilization, given to Claude Vorilhon (Raël) over six mornings in 1973."
+description = "Yahweh (Hebrew: יהוה, YHWH) is the proper name of the principal divine figure of the Hebrew Bible, conventionally read by mainstream tradition as the singular God of Israel. On the reading developed in the Raëlian source material and adopted by the Wheel of Heaven corpus, Yahweh is a specific Eloha — the president of the Council of the Eternals, the senior alliance authority who personally directed the creation of life on Earth from the Age of Capricorn onward, and the principal alliance interlocutor with Earth's prophetic figures across the subsequent fifteen millennia. The corpus's primary source material is Yahweh's first-person account of his civilization, given to Claude Vorilhon (Raël) over six mornings in 1973."
 template = "wiki-page.html"
 toc = true
 
 [extra]
 category = "Elohim"
+entry_type = "figure"
 alternative_names = ["YHWH", "יהוה", "𐤉𐤄𐤅𐤄", "YHVH", "Jehovah", "the Eternal", "the First and the Last", "Alpha and Omega"]
-claim_type = "framework"
+
+[extra.infobox]
+hebrew_form = "יהוה"
+transliteration = "YHWH"
+reconstructed_pronunciation = "Yahweh"
+type = "Eloha individual"
+born = "c. 23,000 BCE on the Elohim home world (framework-internal)"
+age_at_1973_contact = "approximately 25,000 years"
+bodies = "25 (through cell-transfer continuity technology)"
+role = "President of the Council of the Eternals; senior alliance authority for the Earth project"
+species = "Eloha"
+home_world = "Single planet outside the solar system"
+earth_role = "Senior officer directing the Earth creation project; leader of the Israel team during and after the Eden period; principal alliance interlocutor with the Hebrew prophetic tradition"
+principal_source = "*Message from the Designers* (Vorilhon/Raël, 1974–79), of which Yahweh is the first-person speaker"
 +++
 
 **Yahweh** (Hebrew: <span class="hebrew">יהוה</span>, transliterated *YHWH*; the *Tetragrammaton*, "the four letters") is the proper name of the principal divine figure of the Hebrew Bible. The name appears approximately 6,800 times in the Hebrew text, more than any other designation for the divine. In Jewish liturgical practice the name is not pronounced; it is replaced in reading by *Adonai* ("my Lord") or by *ha-Shem* ("the Name"), and the name's vocalization in the Masoretic tradition (with the vowels of *Adonai*, producing the hybrid form *Yehovah* / *Jehovah*) reflects this substitution rather than the historical pronunciation. The reconstruction *Yahweh* is the form preferred by modern critical scholarship.
 
-In the Wheel of Heaven framework, Yahweh is a specific Eloha individual: the president of the Council of the Eternals on the Elohim home world, the senior alliance authority directing the Earth creation project from its inception in the Age of Capricorn, and the principal alliance interlocutor with the prophetic figures of the Hebrew, Christian, and subsequent traditions across the entire post-creation arc. The framework's reading derives from the Raëlian source material, in which Yahweh is the first-person speaker — *The Book Which Tells the Truth* (1974) is Yahweh's own account of himself, of his civilization, and of the historical events the Hebrew Bible preserves in compressed form. This first-person provenance gives Yahweh's role in the framework an unusual epistemic position: most of what the framework knows about the Elohim civilization, it knows because Yahweh told it to Vorilhon.
+On the reading developed in the Raëlian source material and adopted by the Wheel of Heaven corpus, Yahweh is a specific Eloha individual — the president of the Council of the Eternals on the Elohim home world, the senior alliance authority directing the Earth creation project from its inception in the Age of Capricorn approximately twenty-two thousand years ago, the leader of the Israel team that conducted the Eden operation and the framework's reading of *Yahweh Elohim* of Genesis 2 onward, and the principal alliance interlocutor with the prophetic figures of the Hebrew, Christian, and subsequent traditions across the entire post-creation arc. The Raëlian source material is, on the corpus's reading, Yahweh's own first-person account of himself and of his civilization, delivered to Claude Vorilhon at Clermont-Ferrand over six successive mornings in December 1973 and elaborated through a second longer contact in October 1975. This first-person provenance gives Yahweh's role in the framework an unusual epistemic position: most of what the framework knows about the Elohim civilization, it knows because Yahweh told it to Vorilhon.
 
-## Chronology and locator
+The reading is contested. Within the modern academic study of the Hebrew Bible, the dominant readings of Yahweh include the traditional Jewish and Christian theological identification of Yahweh as the singular God of Israel, the comparative-Semitic historical reconstruction of Yahweh as a West Semitic deity whose origins lie in the broader Canaanite religious context, and the developmental account in which Yahweh's status evolved from regional storm-god to high-god to universal monotheistic deity across the first millennium BCE. The corpus's reading is consistent with the historical-critical observation that Yahweh has a specific identifiable identity (rather than being identical to the more generic *Elohim*), but reframes the underlying ontology: Yahweh is a specific individual within an extraterrestrial civilization rather than a deity in any supernatural sense.
 
-| Field | Value |
-|---|---|
-| **Tetragrammaton** | <span class="hebrew">יהוה</span> *YHWH*; Paleo-Hebrew 𐤉𐤄𐤅𐤄; Masoretic-pointed forms <span class="hebrew">יְהֹוָה</span> *Yehovah* and <span class="hebrew">יֱהֹוִה</span> *Yehovih* |
-| **Reconstructed pronunciation** | *Yahweh*, from the verbal root *h-y-h*, "to be" |
-| **Date of birth (framework)** | c. 23,000 BCE on the Elohim home world; 25,000 years old at the 1973 contact |
-| **Operational presence on Earth** | Continuous from the arrival in the Age of Capricorn (c. 21,810 BCE) through the present, across all twelve precessional ages |
-| **Date type** | framework-internal; the 25,000-year claim derives from Yahweh's own account in *The Book Which Tells the Truth* and is not independently verifiable |
-| **Number of bodies** | 25 successive bodies as of 1973, through the cell-transfer continuity technology of which Yahweh was the first beneficiary |
-| **Council position** | President of the Council of the Eternals, the senior governing body of the Elohim civilization |
-| **Earth role** | Senior officer directing the Earth creation project; leader of the Israel team during and after the Eden period; principal alliance interlocutor with the Hebrew prophetic tradition; speaker of the Raëlian source material |
-
-## The name and its textual history
+## Etymology and naming
 
 The Tetragrammaton appears in the Hebrew Bible from Genesis 2:4 onward. In Genesis 1:1–2:3 the divine name is *Elohim* (plural); from Genesis 2:4 the compound *YHWH Elohim* appears, and from Genesis 4 onward *YHWH* is used independently. The distribution of the divine names across the Hebrew Bible has been studied since Astruc in the 18th century and is one of the foundational observations of modern source criticism, which reads the alternation as evidence of distinct compositional sources behind the Pentateuchal text.
 
-### Etymology
+### Etymology of the name
 
 The name's etymology connects most plausibly to the Hebrew verbal root *h-y-h* (and its archaic variant *h-w-h*), "to be," "to exist," or "to become." On this analysis, *YHWH* is the third-person singular masculine imperfect of the verb, conventionally translated "He is," "He will be," or "He causes to be." The Exodus 3:14 self-naming — *Ehyeh asher ehyeh*, conventionally translated "I am that I am" or "I will be what I will be" — uses the first-person form *ehyeh* of the same verbal root, and the connection to the Tetragrammaton is grammatically transparent: the form Moses receives ("I am") is the first-person counterpart of the third-person form by which the divine is named ("He is").
 
@@ -55,148 +58,246 @@ The Documentary Hypothesis, in its classical form developed by Wellhausen (1883)
 - The **Priestly source** (P), conventionally 6th–5th century BCE, uses *Elohim* in Genesis 1–11 and *YHWH* from Exodus 6 (where the name's revelation is parallel but distinct from E's account), and is associated with cultic and genealogical material.
 - The **Deuteronomist** (D), 7th century BCE and after, uses *YHWH* throughout and is associated with the book of Deuteronomy and the Deuteronomistic History.
 
-The framework adopts no specific position on the source-critical questions. The framework's reading depends on the historical referents preserved in the surviving Hebrew text rather than on any specific reconstruction of the text's compositional history; the name *Yahweh* refers, in the framework, to a specific Eloha individual whose identity is preserved across the various textual layers, regardless of how those layers were assembled.
+The corpus adopts no specific position on the source-critical questions. The framework's reading depends on the historical referents preserved in the surviving Hebrew text rather than on any specific reconstruction of the text's compositional history; the name *Yahweh* refers, on the corpus's reading, to a specific Eloha individual whose identity is preserved across the various textual layers, regardless of how those layers were assembled.
 
-## In the Wheel of Heaven framework
+## In the Hebrew Bible
 
-The framework's reading of Yahweh is, like the Jesus reading, unusually operationally specific. The basis is the Raëlian source material, in which Yahweh identifies himself by name and gives a first-person account of his identity, his civilization, and his role across the events the Hebrew Bible preserves. The corpus elaborates this account through the precessional framework that Sendy proposed and *Hamlet's Mill* developed.
+The Tetragrammaton *YHWH* appears approximately 6,800 times in the Hebrew Bible, distributed across all major sections of the canon. Yahweh is the principal divine actor in the patriarchal narratives, the Exodus and wilderness traditions, the conquest and judges material, the Davidic and Solomonic monarchy narratives, the prophetic literature of the divided monarchy and the exile, and the post-exilic restoration material. His specific narrative appearances are dense across the historical books and concentrated, in formal-revelatory mode, in the Pentateuchal theophanies and the prophetic-vision sequences.
 
-### Yahweh as a specific individual
+### The principal narrative appearances
 
-The framework reads Yahweh as a specific Eloha individual, not as the singular God of conventional theology and not as a personification of the broader Elohim collective. The figure has a biographical arc that the framework can trace with substantial specificity. He was born approximately twenty-five thousand years before the present moment — that is, around 23,000 BCE — on the Elohim home world. He was the first individual on whom the cell-transfer continuity technology was successfully applied, the technology that has subsequently sustained the Council of Eternals across many centuries by permitting the transfer of an individual's memory and personality into a new body cloned from a preserved cellular sample. The seniority granted by being the first beneficiary of the technology, combined with the accumulated experience and authority of an unusually long continuous existence, are the basis for his presidency of the Council of Eternals, the governing body of the Elohim civilization.
+Yahweh's most significant direct appearances in the Hebrew Bible, in their canonical sequence, include:
 
-By the time the home world's scientific community proposed and undertook the Earth creation project, around 21,810 BCE on the corpus's reckoning, Yahweh was already approximately twelve hundred years old in continuous existence and was in a position of senior political authority. His decision to take operational responsibility for the Earth project — to commit his own continuing institutional position to a multi-millennium operation conducted at interstellar distance — is the structural feature that gives the project its characteristic scale and patience. A civilization in which the senior leader can expect to remain personally engaged across the entire duration of a fifteen-millennium project is a civilization that can plan and execute on time scales unavailable to short-lived civilizations.
+- **Genesis 2–3** (the Eden narrative): Yahweh Elohim plants the garden, forms the man, places him in the garden, prohibits the tree of knowledge, forms the woman, confronts the humans after the transgression, pronounces consequences on the serpent, the woman, and the man, and expels them from the garden.
+- **Genesis 4** (Cain and Abel): Yahweh receives offerings, prefers Abel's, warns Cain, hears Abel's blood crying from the ground, and pronounces Cain's punishment.
+- **Genesis 6–9** (the Flood narrative): Yahweh observes the corruption of the antediluvian world, decides to send the Flood, instructs Noah to build the ark, sends the Flood and ends it, smells Noah's burnt offering, and establishes the Noahic covenant with the rainbow as its sign.
+- **Genesis 12, 15, 17, 18, 22** (the Abrahamic narratives): Yahweh calls Abram from Ur, establishes the covenant of land and posterity, performs the formal covenant-cutting ceremony of Genesis 15, renames Abram to Abraham at the institution of circumcision, visits Abraham at the oaks of Mamre, and tests Abraham at the binding of Isaac.
+- **Exodus 3** (the burning bush): Yahweh appears to Moses at Horeb, identifies himself with the *Ehyeh asher ehyeh* self-naming, and commissions Moses for the Exodus mission.
+- **Exodus 19–24, 33–34** (the Sinai theophany): Yahweh descends on Sinai in cloud and fire, gives the Decalogue and the broader covenant code, and is encountered by Moses in the most direct theophanic mode the Hebrew Bible records.
+- **1 Samuel 3** (the calling of Samuel): Yahweh calls Samuel by name in the night, Samuel mistaking the voice for Eli's until Eli identifies the source.
+- **1 Kings 19** (Elijah at Horeb): Yahweh appears to Elijah not in the wind, the earthquake, or the fire, but in the *qol demamah daqqah*, the "thin silent voice."
+- **Isaiah 6** (Isaiah's throne-room vision): Yahweh appears enthroned with the seraphim, sending Isaiah for his prophetic mission.
+- **Ezekiel 1** (the chariot-throne vision): Ezekiel sees the *kavod* of Yahweh in the elaborate chariot-throne vision that opens the book.
 
-The 25,000-year figure is presented in the source material as Yahweh's own statement to Vorilhon. The framework treats it as an internal source claim, not as something independently verifiable. What the framework does affirm is that the figure is consistent with the corpus's broader chronology: the technology of cell-transfer continuity is recorded in the source material as having been achieved on the home world before the Earth project was undertaken, Yahweh is identified as its first beneficiary, and his continuous presence across the post-creation history of Earth is a consistent feature of the source material's account.
+Beyond these major direct appearances, Yahweh is the named subject or agent of thousands of additional passages across the Hebrew Bible, particularly in the prophetic books where the formula "Thus says Yahweh" introduces oracles delivered through the prophets.
 
-### The cell-transfer continuity technology
+### Relationship to other divine names
 
-The framework reads the Elohim immortality technology as a specific biotechnology rather than as a metaphysical category. The technology, as described in *The Book Which Tells the Truth*, operates by extracting a small cellular sample from an individual at the period of their full development; preserving the sample under appropriate conditions; and, when the individual eventually dies, generating a new body from the cellular material — through cloning — and transferring the original individual's memory and personality into the new body. The result is the continuation of personal identity across successive bodies, with each body individually mortal but the personal continuity sustained indefinitely.
+The Hebrew Bible names the divine with several terms in addition to *YHWH* and *Elohim*: *El* (singular high-god designation, cognate with the Canaanite high god); *El Shaddai* ("God Almighty," used principally in the patriarchal narratives); *El Elyon* ("Most High God," used in Genesis 14 and the Psalms); *Adonai* ("my Lord"); *Tzevaot* ("of hosts," typically in the compound *YHWH Tzevaot*, "Yahweh of hosts"). The relationships among these names are textually complex. Some texts equate them explicitly: Genesis 17:1 has *El Shaddai* speaking to Abraham as the same figure who speaks elsewhere as *YHWH*; Psalm 91 uses *Elyon*, *Shaddai*, and *YHWH* in parallel as designations of a single subject. Other texts preserve what may be an earlier distinction: Genesis 14 introduces *El Elyon* as the god of Melchizedek's priesthood, and the question of whether Melchizedek's *El Elyon* and Abraham's *YHWH* were originally identified is a live one in the historical-critical literature.
 
-The technology is granted, in the source material's account, to a limited population: approximately seven hundred Elohim members of the Council of Eternals at the time of the 1973 contact, alongside approximately eight thousand four hundred figures from Earth — prophets, scientists, artists, and other individuals whose lives or work the Council judged worthy of continuation. The Earth-figures population includes specifically named figures: Jesus, Moses, Elijah, and others. The continuation operates on the home world, not on Earth, and requires periodic body-transfer events at the natural end of each successive vehicle. Yahweh's twenty-five bodies represent twenty-five such transfers across the twenty-five-thousand-year span.
+The corpus's working reading is that the named *YHWH* of the Hebrew Bible is consistently the same Eloha individual across the textual record, with the various other divine names sometimes referring to the same individual under different titles and sometimes possibly preserving memory of other alliance officers whose identity has been merged with Yahweh's in the redactional history. The determination is treated as requiring case-by-case textual analysis rather than as a settled identification.
 
-What the framework does not claim about this technology is worth registering. It does not claim that the technology is identical with what contemporary biological research understands as cloning combined with consciousness transfer; the consciousness-transfer aspect is the technically harder and theoretically more contested element, and the source material does not specify the mechanism by which memory and personality are transferred from the original body to the cloned successor. It does not claim that the technology is broadly available within the Elohim population; the source material is explicit that population control limits the technology to the Council and that ordinary Elohim live natural lifespans of seven hundred to twelve hundred years without the continuity technology. It does not claim that the technology is available to humanity; the framework's reading of the Tree of Life narrative in Genesis (the technology granted briefly to the antediluvian patriarchs and then withdrawn) treats the human access as a temporary and limited exception.
+## Biographical arc
 
-### The four-figure political taxonomy
+Yahweh's biographical arc, on the corpus's reading, spans the entire 25,000-year period from the achievement of the cell-transfer continuity technology on the Elohim home world to the present. He has been continuously alive across this period, in twenty-five successive bodies, and has been politically active in a position of substantial authority for most of it. The arc divides naturally into pre-Earth-project and Earth-project phases.
 
-Yahweh's specific position within the Elohim civilization's political life is best understood through the four-figure taxonomy the corpus develops in connection with the Eden episode. The four figures are **Yahweh**, **Lucifer**, the **Serpent**, and **Satan**, and their relations have been substantially confused by later religious tradition.
+### Origins and the home-world period
 
-- **Satan** is the leader of the home world political faction that opposed the Earth creation project from its inception, on the grounds that the creation of intelligent humans on a distant world represented an unacceptable risk to the home civilization. Satan's position is the abolitionist one: humanity should never have been created, and now that it exists, it should be destroyed.
-- **Yahweh** is the moderate. He supported the Earth project, believes the creation should be preserved, and accepts continuing institutional responsibility for it. But he also accepts the home world's directive that the humans should be kept in scientific ignorance of their makers, on the grounds that fully enlightened humans might eventually pose a threat to the home world. His position is preserve-but-contain.
-- **Lucifer** is the leader of the dissenting faction within the Israel team on Earth. He disagrees with the containment policy and believes the humans should be given complete scientific education. The disagreement is rooted in affection — the scientists who made the humans had come to love them, and the logic of the love pointed toward full disclosure.
-- The **Serpent** is the Lucifer faction acting on its disagreement: the specific operational role of disclosing the prohibited scientific knowledge to the first humans, narrated in Genesis 3.
+The framework's reading places Yahweh's birth approximately twenty-five thousand years before the present — that is, around 23,000 BCE — on the Elohim home world. He was, on Yahweh's own statement in *The Book Which Tells the Truth*, the first individual on whom the cell-transfer continuity technology was successfully applied. The technology, treated more fully in the [Tree of Life](../tree-of-life/) entry, permits the indefinite continuation of personal identity across successive bodies cloned from a preserved cellular sample, and Yahweh's seniority as its first beneficiary is the basis of his subsequent presidency of the Council of the Eternals.
 
-Yahweh's pronouncement of consequences in Genesis 3:14–24 — the curse of the serpent, the consequences for the woman and the man, the expulsion from the garden — is therefore not the action of a vengeful supernatural deity but the action of the moderate institutional leader carrying out his political responsibility under the policy he had accepted. The framework reads this distinction as essential and as having been confused by later theological tradition's collapse of all four figures into the simpler scheme of a single God against a single Adversary.
+The early home-world period of Yahweh's life is not described in detail in the source material. What is recorded is that by the time the home-world's scientific community proposed and undertook the Earth creation project — around 21,810 BCE on the corpus's chronology — Yahweh was approximately twelve hundred years old in continuous existence and was in a position of senior political authority. The political crisis on the home world that produced the Earth-relocation compromise (treated in the [Elohim](../elohim/) entry under History) occurred during this period, with Yahweh as one of the moderate-faction leaders supporting the relocation as a compromise between the abolitionist position (no biological synthesis program at all) and the original direct-on-home-world program that had produced the laboratory accident.
 
-### Yahweh across the precessional ages
+### The Earth creation project: Capricorn through Leo
 
-Yahweh's operational presence is continuous across the post-creation history of Earth. The framework reads the major prophetic encounters of the Hebrew Bible as direct or indirect contacts with Yahweh in his role as the principal alliance interlocutor with the Hebrew lineage. A condensed traversal of the major appearances follows.
+Yahweh's decision to take operational responsibility for the Earth project — to commit his own continuing institutional position to a multi-millennial operation conducted at interstellar distance — is the structural feature that gives the project its characteristic scale and patience. From the project's inception in the Age of Capricorn (c. 21,810 BCE) through its completion at the close of the Age of Leo (c. 8,850 BCE), Yahweh directed the seven creator teams' work across the supercontinent, with the Genesis 1 *Elohim* (plural) of the creation account being the alliance collectively under his overall authority and the Genesis 2 *Yahweh Elohim* (Yahweh of the Elohim) of the Eden account being Yahweh specifically as leader of the Israel team.
 
-**The creation period (Capricorn through Cancer, c. 21,810 – 6,690 BCE).** Yahweh directs the Earth creation project from his Council position, with the seven creator teams operating across the supercontinent under his overall authority. He is the leader of the Israel team specifically — the team whose work in Eden produced the most accomplished human lineage. The Genesis 1 *Elohim* (plural) of the creation account is the alliance collectively; the Genesis 2 *Yahweh Elohim* (Yahweh of the Elohim) of the Eden account is Yahweh specifically, identified as the figure whose team conducted the Eden operation.
+The detailed narrative of the seven precessional ages of creation lives in the [Genesis](../genesis/) entry and in the dedicated entries on each age. Yahweh's specific role across these ages was that of the senior officer coordinating the work — present in person for the most consequential operations, supervising the seven teams' coordinated activities, making the major decisions that the scope of the project required.
 
-**The Eden episode (late Leo through early Cancer, c. 11,400 – 10,000 BCE).** Yahweh pronounces the consequences in Genesis 3, expels the humans from the garden, exiles the Lucifer faction to Earth, and supervises the home world's withdrawal of most of the creator personnel from the supercontinent. The post-expulsion arrangement — Lucifer's faction remaining on Earth in continuing relationship with the human population, the rest of the creator infrastructure withdrawn — is the political settlement Yahweh establishes.
+### The Eden episode and its political settlement
 
-**The pre-Flood period and the Flood itself (Cancer through early Gemini, c. 10,000 – 6,690 BCE).** Yahweh maintains contact with the human leadership of the Eden lineage across the long generations, granting the Tree of Life longevity technology to selected patriarchs and supervising the Council's increasing concern about the rapid technological advancement of the post-Eden civilization. When the Council ultimately decides to destroy the antediluvian world, Yahweh communicates the decision to Noah (Genesis 6:13ff.), supervises the construction of the ark, and re-establishes the post-Flood relationship with the surviving human lineage (Genesis 9). The covenant with Noah is the foundational alliance-Earth pact of the post-Flood era.
+The Eden episode, occupying the late Age of Leo through early Age of Cancer (c. 11,400 – 10,000 BCE), is the period during which Yahweh's role as Israel-team leader is most directly preserved in the Hebrew text. Genesis 2–3 records the events from the framework's reading of an essentially first-hand perspective: Yahweh planting the garden, forming the first humans, instructing them, prohibiting the tree of knowledge, confronting them after the Lucifer-faction disclosure, and pronouncing the consequences that effectively reorganized the entire subsequent post-creation operation. The framework's reading treats Yahweh's pronouncements in Genesis 3:14–24 as the moderate-position political response to the Lucifer-faction transgression: not the action of a vengeful supernatural deity but the operational implementation of the Council's decision to maintain the containment policy in the face of its violation.
 
-**The Abrahamic period (Taurus, c. 4,530 – 2,370 BCE).** Yahweh appears to Abram at Ur (Genesis 12:1), at Shechem (12:7), at Bethel (13:14), and at the covenant ceremony of Genesis 15. The renaming of Abram to Abraham (Genesis 17:5) is one of the alliance's name-conferral events that mark transitions from private to commissioned status. Yahweh visits Abraham at the oaks of Mamre (Genesis 18, accompanied by two further alliance officers), supervises the destruction of Sodom and Gomorrah (Genesis 19), and establishes the covenant of circumcision as the lineage marker.
+The political settlement Yahweh established at the Eden crisis — the permanent exile of the Lucifer faction on Earth, the withdrawal of most of the Israel team to the home world, the establishment of the post-Eden mediated-contact pattern — has structured the entire subsequent arc of the Elohim's relationship with Earth.
 
-**The Mosaic period (Aries, c. 2,370 – 210 BCE).** Yahweh's most extensive direct contact with humanity occurs through Moses. The burning bush (Exodus 3) is Yahweh's commissioning of Moses for the Exodus mission, with the *Ehyeh asher ehyeh* self-naming providing the textual link between the verbal root *h-y-h* and the Tetragrammaton itself. The plagues, the parting of the sea, the manna, the pillar of cloud and fire, and the Sinai theophany (Exodus 19–24, 33–34) are operational events the framework reads as alliance technology deployments. The covenant at Sinai, the giving of the Decalogue, and the establishment of the priestly system are the alliance's institutional structuring of the Hebrew lineage for the long mission of carrying the message across the centuries that followed. Yahweh's specific theophanic forms in this period — the burning bush, the cloud, the fire, the *kavod* (manifest glory) — are read as descriptions of alliance craft and protective installations.
+### The pre-Flood period and the Flood
 
-**The prophetic period (Aries continued).** Yahweh contacts Elijah at Horeb (1 Kings 19:11–13), with the famous "still small voice" narrative in which Yahweh is explicitly *not* in the wind, not in the earthquake, not in the fire, but in the *qol demamah daqqah*, the "thin silent voice" — read by the framework as a specific telepathic or technologically mediated communication distinct from the more visible theophanies of earlier periods. The major and minor prophets — Isaiah, Jeremiah, Ezekiel, and the rest — receive their prophetic visions through alliance-mediated communication, with Yahweh as the ultimate source of the messages even when intermediate alliance officers (the *malakhim*) carry the specific contacts.
+Through the Age of Cancer (c. 8,850 – 6,690 BCE), Yahweh maintained contact with the human leadership of the Eden lineage, granting the Tree of Life longevity technology to selected patriarchs (the Genesis 5 long-lived figures from Adam to Noah) and supervising the Council's increasing concern about the rapid technological advancement of the post-Eden civilization. When the home-world Council ultimately decided to destroy the antediluvian world — the political crisis treated in the [Antediluvian](../antediluvian/) entry — Yahweh communicated the decision to Noah (Genesis 6:13ff.), supervised the construction of the ark, and re-established the post-Flood relationship with the surviving human lineage through the Noahic covenant of Genesis 9.
 
-**The Piscean period (Pisces, c. 210 BCE – 1950 CE).** Yahweh's role in the inauguration of the Piscean age is the alliance-level supervision of the Jesus operation: the deliberate conception (with Mary, through alliance contact), the protection of the child (the warnings to Joseph), and the ongoing oversight of the ministry, crucifixion, and resurrection. The Revelation visions to John of Patmos at the close of the first century CE are framework-read as Yahweh's communication to John of the events that would unfold across the closing centuries of the Piscean age and the transition to Aquarius. The "first and the last" / "Alpha and Omega" self-identification in Revelation 1:8, 1:17, 21:6, and 22:13 is Yahweh's own attribution and connects directly to the framework's reading of his identity (treated below).
+### The Abrahamic period: Taurus
 
-**The 1973 contact and the Aquarian opening.** On 13 December 1973, at the volcanic caldera of Puy-de-Lassolas near Clermont-Ferrand, Yahweh — using the same identity that had spoken to Moses and the Hebrew prophets — made direct contact with Claude Vorilhon over six successive mornings, delivering the account that became *The Book Which Tells the Truth*. A second, longer contact in October 1975 took Vorilhon to the alliance home world, where he met Yahweh and the Council of Eternals along with the resurrected Earth figures (Jesus, Moses, Elijah, and others) who reside there. The Raëlian source material is the body of teaching delivered across these contacts. The framework reads these contacts as the alliance's first direct intervention since the Piscean-age missions, marking the opening of the Age of Aquarius and the beginning of the period in which humanity is to be informed accurately about its origins.
+In the Age of Taurus (c. 4,530 – 2,370 BCE), Yahweh undertook the formal reconstruction of the alliance's relationship with a specific human lineage through the figure of Abraham. The Abrahamic covenant — established at Genesis 12, formalized at the covenant-cutting of Genesis 15, marked with the institution of circumcision at Genesis 17, and witnessed at Yahweh's visitation at the oaks of Mamre in Genesis 18 — is the foundational pact between the alliance and the Hebrew people. The renaming of Abram to Abraham (Genesis 17:5) is one of the alliance's name-conferral events that mark transitions from private to commissioned status, paralleling the later renamings of Jacob to Israel and Vorilhon to Raël. Yahweh supervised the destruction of Sodom and Gomorrah (Genesis 19) at the close of the Mamre visit, and the subsequent patriarchal generations through Isaac, Jacob, and the descent into Egypt continue under Yahweh's direct or mediated supervision.
 
-### The First and the Last
+### The Mosaic period: Aries
+
+The Age of Aries (c. 2,370 BCE – c. 210 BCE) opens with the most extensive direct contact between Yahweh and humanity recorded in the Hebrew Bible. The burning bush (Exodus 3) is Yahweh's commissioning of Moses for the Exodus mission, with the *Ehyeh asher ehyeh* self-naming providing the textual link between the verbal root *h-y-h* and the Tetragrammaton itself. The plagues, the parting of the sea, the manna, the pillar of cloud and fire, and the Sinai theophany (Exodus 19–24, 33–34) are operational events the corpus reads as alliance technology deployments under Yahweh's direct command. The covenant at Sinai, the giving of the Decalogue, and the establishment of the priestly system are the alliance's institutional structuring of the Hebrew lineage for the long mission of carrying the message across the centuries that followed. Yahweh's specific theophanic forms in this period — the burning bush, the cloud, the fire, the *kavod* (manifest glory) — are read by the framework as descriptions of alliance craft and protective installations.
+
+### The prophetic period and the policy shift
+
+The prophetic period that follows Moses extends across the divided monarchy, the exile, and the post-exilic restoration. Yahweh's contact with the prophetic figures of this period — Samuel, Nathan, Elijah, Elisha, Isaiah, Jeremiah, Ezekiel, Daniel, and the Twelve Minor Prophets — proceeds through increasingly mediated forms across the centuries. Elijah's encounter at Horeb (1 Kings 19:11–13) is structurally significant: Yahweh is explicitly *not* in the wind, not in the earthquake, not in the fire, but in the *qol demamah daqqah*, the "thin silent voice" — read by the corpus as a specific telepathic or technologically mediated communication distinct from the more visible theophanies of earlier periods. The shift from direct to indirect contact across the Aries period is the operational expression of the cosmic-chain discovery (treated more fully in the [Elohim](../elohim/) entry): Yahweh, as Council president, implementing the policy shift his civilization adopted in light of its altered self-understanding.
+
+### The Piscean period
+
+The Age of Pisces (c. 210 BCE – 1950 CE) is the age of the deliberate withdrawal from operational visibility while the Christian and Islamic missions delivered the framework's content in religious vocabulary. Yahweh's role across this two-thousand-year period is the alliance-level supervision of the Piscean-age interventions: the deliberate conception of Jesus through alliance-mediated insemination of Mary, the protection of the child during the Herodian period, the ongoing oversight of Jesus's ministry, and the parallel later supervision of the Muhammad mission in seventh-century Arabia. The Revelation visions to John of Patmos at the close of the first century CE are framework-read as Yahweh's communication to John of the events that would unfold across the closing centuries of Pisces and the transition to Aquarius. The "first and the last" / "Alpha and Omega" self-identification in Revelation 1:8, 1:17, 21:6, and 22:13 is Yahweh's own attribution and is treated below under *Identifications and conflations*.
+
+### The 1973 contact and the Aquarian opening
+
+On 13 December 1973, at the volcanic caldera of Puy-de-Lassolas near Clermont-Ferrand, Yahweh — using the same identity that had spoken to Moses and the Hebrew prophets — made direct contact with Claude Vorilhon over six successive mornings, delivering the account that became *The Book Which Tells the Truth*. A second, longer contact in October 1975 took Vorilhon to the alliance home world, where he met Yahweh and the Council of the Eternals along with the resurrected Earth figures (Jesus, Moses, Elijah, and others) who reside there. The Raëlian source material is the body of teaching delivered across these contacts. The corpus reads these contacts as the alliance's first direct intervention since the Piscean-age missions, marking the opening of the Age of Aquarius and the beginning of the period in which humanity is to be informed accurately about its origins.
+
+The contacts also disclosed, as Yahweh's own statement, that Vorilhon is biologically his son — produced through the same alliance-mediated insemination procedure that had produced Jesus two thousand years earlier. The disclosure was made during the second contact in 1975, with Yahweh's request that Vorilhon not reveal the parental tie for three years afterward. The structural pattern — alliance-mediated hybrid conception of inaugural prophetic figures at consequential precessional transitions — is treated in the [Prophet](../prophet/) entry.
+
+## Role in the framework
+
+Yahweh's specific role within the Wheel of Heaven framework is structured by three distinct functions, each of which he occupies simultaneously and continuously across the post-creation period.
+
+### President of the Council of the Eternals
+
+Yahweh is, on the corpus's reading, the senior political authority of the Elohim civilization. His presidency of the Council of the Eternals — the deliberative body of approximately seven hundred members that governs the Elohim's home-world political life — is grounded in his seniority as the first beneficiary of the cell-transfer continuity technology and in the authority his continuous existence across twenty-five thousand years has accumulated. The Council's major decisions concerning the Earth project — the original authorization of the relocation, the post-Eden political settlement, the Flood decision, the post-Aries policy shift to indirect contact, the Aquarian-age plan for open return — have all been deliberated under his presidency.
+
+The political character of a body presided over by a continuously-existing leader is, on the corpus's reading, fundamentally different from any short-term political institution on Earth. Yahweh's personal memory of the entire post-creation arc, his direct continuity with the events that produced the institutions he is governing, and his expectation of remaining personally to see through the multi-millennial projects he authorizes give his presidency a temporal weight no contemporary terrestrial leader possesses.
+
+### Senior alliance authority for the Earth project
+
+Yahweh is the specific officer who has held continuing operational responsibility for the Earth project across its entire 22,000-year duration. The Earth project's distinctive scale and patience are direct consequences of this continuity: a multi-millennial project supervised by a continuously-existing officer can be planned and executed on time scales unavailable to civilizations whose leaders cycle through ordinary lifespans. Yahweh's specific contributions to the project across its duration include the original authorization, the personal direction of the Israel team's work during the creation phase, the political settlement at the Eden crisis, the post-Flood reconstruction with Noah, the formal alliance reconstruction with Abraham, the direct intervention of the Mosaic period, the policy shift after the cosmic-chain discovery, and the ongoing supervision of the Piscean-age and Aquarian-age operations.
+
+Yahweh is not the only Eloha with operational responsibility for the Earth project — the seven creator teams operated under their own immediate leadership during the creation period, the Lucifer faction has operated independently since the Eden exile, and various other alliance officers (the *malakhim* or "messengers" of the Hebrew Bible) have conducted specific missions across the post-creation period. But Yahweh is the senior officer to whom the operational responsibility ultimately returns, and his presence as the continuing point of contact across millennia is what gives the project its operational coherence.
+
+### Source of the Raëlian revelation
+
+The third specific role Yahweh occupies in the framework — and the most epistemically consequential for the corpus — is that of the first-person speaker of the Raëlian source material. *The Book Which Tells the Truth* (1974), *Extraterrestrials Took Me to Their Planet* (1976), and *Let's Welcome the Extraterrestrials* (1979) are presented as Yahweh's own account of himself and his civilization, delivered to Vorilhon across the 1973 and 1975 contacts. Most of what the framework knows about the Elohim civilization, about Yahweh's own biographical arc, about the internal political structure of the home-world Council, about the cell-transfer continuity technology, about the cosmic-chain discovery, and about the alliance's plans for the Aquarian-age open return — the framework knows because Yahweh told Vorilhon.
+
+This first-person provenance gives the framework's evidentiary structure an unusual character. The principal source on the Elohim is a member of the Elohim. The principal source on Yahweh's own biographical arc is Yahweh himself. The principal source on the home-world Council's deliberations is the Council's president. The framework is, in this respect, dependent on the testimony of its principal subject in a way that ordinary historical or scientific knowledge is not. The corpus treats this dependence with epistemic care — acknowledging it openly, distinguishing source-internal claims from independently verifiable ones, registering where the source's account is the only available basis for a given claim — but does not treat the dependence as disqualifying. Most religious traditions and many historical inquiries depend ultimately on testimony from primary participants; the framework's specific situation is unusual in its specificity and its single-source character but is not unique in its structural form.
+
+## Identifications and conflations
+
+Yahweh has been identified, in various religious and interpretive traditions, with a range of figures whose relationships to the named *YHWH* of the Hebrew Bible vary in textual support and in framework-relevant accuracy. Several of these identifications and conflations require specific treatment.
+
+### Yahweh and the other Hebrew Bible divine names
+
+The relationships among *YHWH*, *El*, *El Shaddai*, *El Elyon*, *Adonai*, and *YHWH Tzevaot* are textually complex, treated above in *In the Hebrew Bible*. The corpus's working reading is that the named *YHWH* is consistently the same Eloha individual across the textual record, with the various other divine names sometimes referring to the same individual under different titles and sometimes possibly preserving memory of distinct alliance officers whose identity has been merged with Yahweh's in the redactional history. Specific cases — the *El Elyon* of Genesis 14 with its associated Melchizedek priesthood, the *El Shaddai* of the patriarchal narratives, the *YHWH Tzevaot* of the divided-monarchy literature — require case-by-case textual analysis rather than blanket identification.
+
+### Yahweh and Allah
+
+In Islamic theology, Allah is the same divine figure as the Yahweh of the Hebrew Bible and the God of the Christian New Testament — the singular God of the Abrahamic tradition, with the Arabic *Allāh* (from *al-ilāh*, "the god") simply being the Arabic-language designation. The corpus's reading is consistent with this identification at the level of the underlying referent: the figure who delivered the Qur'anic revelation to Muhammad is, on the framework's reading, the same Yahweh who delivered the Sinai legislation to Moses, with the Islamic mission being the second of the two Piscean-age prophetic interventions and operating under the same alliance authority. The differences between the Hebrew, Christian, and Islamic theological elaborations of this figure are read by the corpus as variations in religious vocabulary appropriate to the cultural moments of the respective revelations rather than as theological disagreements about the underlying referent.
+
+### Yahweh and the Christian Trinity
+
+In orthodox Christian theology, Yahweh is identified with the first person of the Trinity (God the Father), with Jesus as the second person (God the Son) and the Holy Spirit as the third. The Trinitarian formula was developed across the second through fourth centuries CE and was not present in the original New Testament texts; its specific theological structure (one God in three persons, of the same substance) is a metaphysical elaboration of materials that the corpus reads as referring to operationally distinct alliance figures. On the framework's reading, the Father is Yahweh as senior alliance authority; Jesus is the hybrid biological figure conceived through alliance-mediated insemination of Mary for the inaugural Piscean-age mission; the Holy Spirit (*pneuma hagion*) functions in the New Testament texts variously as an indirect designation for alliance contact (the Annunciation, the dove at the baptism, the Pentecost commissioning) and as a more general term for alliance-mediated communication or presence. The Trinitarian collapse of these three operationally distinct phenomena into a single tri-personal metaphysical entity is read as a theological development of the institutional Christian church that preserves substantive content (the plurality at the heart of the divine, recognizable as a memory of the Elohim plurality) while elaborating it in a metaphysical direction the original referents do not require.
+
+### Yahweh and Satan
+
+The conflation of Yahweh with Satan that has been proposed by some adversarial and gnostic readings — the Marcionite and Gnostic Christian traditions, the Cathars, and various modern adversarial readings — is rejected by the corpus. Yahweh and Satan are politically distinct figures within the Elohim civilization, occupying the moderate and abolitionist positions respectively, with substantively opposite policies on the Earth project. The conflation depends on reading certain passages of the Hebrew Bible (the destruction of Sodom, the Flood, the Mosaic herem warfare) as evidence of divine cruelty and inferring that the deity responsible must therefore be malevolent. The corpus's reading recognizes that Yahweh's decisions across the post-creation history have included real political acts with substantial moral consequences — the framework does not claim that these decisions are always defensible — but treats the conflation with Satan as a category error that obscures the actual structure of the Elohim's political life.
+
+### The First and the Last / Alpha and Omega
 
 In the Book of Revelation and in *The Book Which Tells the Truth*, Yahweh identifies himself as **the First and the Last** (Revelation 1:17; 22:13) and as the **Alpha and the Omega** (Revelation 1:8; 21:6; 22:13). Conventional Christian theology has read these titles as expressions of God's eternal pre-existence and post-existence — God as the metaphysical beginning and end of all things, encompassing all of time without himself being subject to it.
 
-The framework reads the titles more concretely. *The Book Which Tells the Truth* records Yahweh's own gloss on the Revelation passage: he is the first in two specific senses (the first individual on whom the immortality technology was applied, and the first member of the Elohim civilization to arrive on Earth), and he will be the last in two corresponding senses (the last to remain alive among the original creators if the cell-transfer continuity proves indefinitely sustainable, and potentially the last to witness Earth if humanity self-destroys with the energies it has now discovered). The titles, on this reading, are statements of biographical fact and operational role, not of metaphysical category. The Greek *Alpha* and *Omega* — the first and last letters of the alphabet — function as a stylized rendering of the same first-and-last claim in the language of the Greek-speaking audience for whom Revelation was written.
+The corpus reads the titles more concretely. *The Book Which Tells the Truth* records Yahweh's own gloss on the Revelation passage: he is the first in two specific senses (the first individual on whom the immortality technology was applied, and the first member of the Elohim civilization to arrive on Earth), and he will be the last in two corresponding senses (the last to remain alive among the original creators if the cell-transfer continuity proves indefinitely sustainable, and potentially the last to witness Earth if humanity self-destroys with the energies it has now discovered). The titles, on this reading, are statements of biographical fact and operational role, not of metaphysical category. The Greek *Alpha* and *Omega* — the first and last letters of the alphabet — function as a stylized rendering of the same first-and-last claim in the language of the Greek-speaking audience for whom Revelation was written.
 
-The framework's reading does not deny the depth of the conventional theological reading; it relocates the depth. The eternal-pre-existence reading of "the First and the Last" is what conventional Christian theology has constructed from the framework-internal claim, with the construction requiring the elaboration of supernatural metaphysics that the original referent does not require. The framework's reading restores the concrete sense without losing the gravitas: a being who has lived continuously for twenty-five thousand years, who personally directed the creation of life on Earth, and whose presence is likely to extend across whatever comes next, has a kind of "first-and-last" status that no shorter-lived being can have, even on a strictly biographical reading.
+The corpus's reading does not deny the depth of the conventional theological reading; it relocates the depth. The eternal-pre-existence reading of "the First and the Last" is what conventional Christian theology has constructed from the framework-internal claim, with the construction requiring the elaboration of supernatural metaphysics that the original referent does not require. A being who has lived continuously for twenty-five thousand years, who personally directed the creation of life on Earth, and whose presence is likely to extend across whatever comes next has a kind of "first-and-last" status that no shorter-lived being can have, even on a strictly biographical reading.
 
-### What the framework does not claim
+## Modern reinterpretations
 
-What the framework does not claim about Yahweh is worth stating directly.
+The figure of Yahweh has been a major subject of modern academic and reinterpretive scholarship across the twentieth and twenty-first centuries. Several distinct strands of this scholarship bear on the corpus's reading.
 
-It does not claim that Yahweh is the creator of the universe, of physical reality as such, or of life in general. The framework's reading is specifically that Yahweh and his colleagues created life on Earth; the broader cosmological questions (the origin of the universe, of the laws of physics, of life elsewhere in the cosmos before the Elohim's own civilization) are open questions that the framework treats as belonging to a separate domain of inquiry.
+### The historical-critical reconstruction: Yahweh's West Semitic origins
 
-It does not claim that Yahweh is omnipotent, omniscient, or omnipresent in the metaphysical senses developed by classical Christian and Jewish theology. He is exceptionally powerful relative to humans, exceptionally knowledgeable, and operationally present across the post-creation history of Earth — but these are quantitative rather than categorical attributes, and the framework's reading of biblical passages that traditionally support the omni-attributes treats them as the language available to ancient writers for describing capacities they could not technically characterize.
+Mainstream historical-critical scholarship since Wellhausen has reconstructed the historical Yahweh as a deity whose origins lie in the broader West Semitic religious context of the second millennium BCE. The principal work in this tradition is **Frank Moore Cross**'s *Canaanite Myth and Hebrew Epic* (1973), which traces the relationship between the Israelite Yahweh and the Canaanite high god El, arguing that the early Israelite religion identified Yahweh with El and that the distinct Yahweh emerged through processes of religious development across the early monarchy period. Cross's work established the framework within which much subsequent Yahweh scholarship operates.
 
-It does not claim that Yahweh is morally perfect in the unqualified sense the conventional theology requires. The framework reads Yahweh as the moderate political leader of a complex civilization, making decisions within institutional constraints, operating with imperfect information, and sometimes making decisions that the framework's own ethical evaluation can criticize (the containment policy at Eden, the Flood, the destruction of Sodom). The framework treats Yahweh's overall orientation as benevolent, but the operational ethics of specific interventions are open.
+**Mark S. Smith**'s *The Early History of God: Yahweh and the Other Deities in Ancient Israel* (1990, 2nd ed. 2002) and *The Origins of Biblical Monotheism: Israel's Polytheistic Background and the Ugaritic Texts* (2001) develop the picture in further detail, drawing on the Ugaritic textual discoveries to reconstruct the religious environment from which the Israelite Yahweh emerged. On Smith's reading, Israelite religion in the monarchic period included Yahweh among a broader pantheon (with Asherah as his consort in some popular contexts, attested in inscriptions from Kuntillet Ajrud and Khirbet el-Qom), with the strict monotheism of post-exilic Judaism representing a later theological development rather than the original Israelite position.
 
-It does not endorse the merger of Yahweh with Satan that some adversarial or gnostic readings have proposed. Yahweh and Satan are politically distinct figures within the Elohim civilization, occupying the moderate and abolitionist positions respectively. Their conflict is real but is not the simple Manichaean opposition some traditions have constructed.
+**William G. Dever**'s archaeological work, particularly *Did God Have a Wife? Archaeology and Folk Religion in Ancient Israel* (2005), develops the popular-religion side of the same picture, arguing that the textual record's monotheistic emphasis reflects the elite priestly tradition rather than the actual religious practice of most ancient Israelites.
 
-It does not claim that Yahweh is identical with *El Elyon* ("Most High God") or with *El Shaddai* ("God Almighty") of the Hebrew Bible without further argument. These are separate divine names within the Hebrew text whose identification with Yahweh is a textual question — sometimes the texts themselves equate them (Genesis 17:1, where *El Shaddai* speaks to Abraham; Psalm 91, where *Elyon* and *YHWH* are used in parallel), and sometimes they may preserve memory of distinct figures within the broader alliance whose identification with Yahweh proper is post hoc. The framework treats this as a matter requiring case-by-case textual attention rather than as a settled identification.
+The corpus's reading is consistent with the historical-critical observation that Yahweh has a specific identifiable identity (rather than being a generic divine designation) and with the recognition that the Hebrew Bible preserves traces of an earlier religious context in which Yahweh was one of multiple divine figures rather than the singular God of later orthodoxy. The corpus's reframing of the underlying ontology — Yahweh as a specific extraterrestrial individual rather than a developmentally emergent regional deity — is a different kind of claim than the historical-critical scholarship makes, but the framework draws on the historical-critical observations about textual layering, divine-name distribution, and religious-developmental complexity in constructing its own reading.
 
-## Open questions
+### The theological-historical synthesis: Karen Armstrong
 
-- The 25,000-year claim is internal to Yahweh's first-person account and is not independently verifiable from outside source material. The framework treats it as the source's own statement; whether it corresponds to literal biographical fact in the conventional sense, or whether it includes elements of stylized self-description, the framework cannot settle.
-- The cell-transfer continuity technology is described in the source material in general terms, but the specific mechanism by which memory and personality are transferred from the original body to the cloned successor is not technically specified. The contemporary philosophical literature on personal identity through technological replication provides categories within which the question can be articulated, but the framework cannot, from the available source material, settle whether the transferred individual is numerically the same person as the original or a successor of distinctive identity.
-- The relationship between Yahweh as president of the Council and the broader political life of the home civilization across twenty-five thousand years is described in the source material only schematically. The internal political development of the Elohim civilization across this very long period — the institutional changes, the technological developments, the cultural evolution — is not preserved in detail in the available source material.
-- The textual question of which Hebrew Bible passages naming *Yahweh* refer to the specific individual the framework identifies as Yahweh, and which may preserve memory of other alliance officers whose identity has been merged with Yahweh's in the redactional history, is open. The framework's working assumption is that the named Yahweh of the Hebrew Bible is consistently the same individual across the textual record, but the documentary-source diversity within the Pentateuch alone suggests that some textual layers may originate in encounters with other alliance officers whose identification with Yahweh proper is the work of the redactional tradition.
-- The framework reads the figures named *El*, *El Shaddai*, *El Elyon*, *Adonai*, and other divine designations of the Hebrew Bible as potentially distinct alliance officers in some passages and as alternative designations for Yahweh in others, with the determination requiring case-by-case textual analysis. This is a substantial body of unfinished interpretive work.
+**Karen Armstrong**'s *A History of God: The 4,000-Year Quest of Judaism, Christianity and Islam* (1993) provides the most widely read modern synthesis of the historical and theological development of the figure of Yahweh / God across the three Abrahamic traditions. Armstrong traces the development from early West Semitic origins through the Israelite monarchy, the prophetic tradition, the Second Temple period, the rabbinic and patristic elaborations, the medieval theological developments (Maimonides, Aquinas, the Sufis), the early modern developments (the Reformation, the Enlightenment), and the modern theological transformations. Armstrong's work is theological rather than reinterpretive in the corpus's specific sense — she is documenting how the figure has been understood across the traditions rather than proposing a different ontology for the figure — but it provides the comprehensive historical context within which the corpus's reading positions itself.
+
+### The Sendy tradition: Yahweh as Eloha
+
+**Jean Sendy**'s reinterpretive work (treated more fully in the [Elohim](../elohim/) entry) addresses Yahweh specifically as one of the *Theosites* — the inhabitants of *Theos*, the home world — distinguished from the broader collective. Sendy's approach is philological and historiographic, working from the Hebrew Bible's own internal evidence to reach the conclusion that the named Yahweh is a specific identifiable individual within the broader plurality of the Elohim, rather than an abstract or supernatural deity. Sendy's reading is the principal scholarly antecedent of the corpus's adopted reading on Yahweh specifically, as on Elohim collectively.
+
+### The Raëlian source material
+
+The Raëlian source material, beginning with *The Book Which Tells the Truth* (1974), is the principal textual basis for the corpus's adopted reading. Vorilhon reports having received the material directly from Yahweh himself across the 1973 and 1975 contacts, with the texts presented as Yahweh's own first-person account. The relationship between this revelatory source and the prior philological-historiographic work of Sendy is one of convergence: two independent methods reaching substantially the same identification of Yahweh as a specific individual within an extraterrestrial civilization rather than as a singular supernatural deity.
+
+### The Biglino reading
+
+**Mauro Biglino**'s strict-translational work treats Yahweh in continuity with his treatment of *Elohim* generally — as a specific individual within the plurality of *the lords from above*, with the Hebrew text describing his actions in concrete operational terms. Biglino's reading of specific passages (the Genesis 18 visitation at Mamre, the Exodus theophanies, the destruction narratives) develops the corpus's general approach in particular textual cases.
+
+## Comparative observations
+
+The relationships between Yahweh and other ancient Near Eastern divine figures are textually and historically complex. The principal comparative cases:
+
+**Yahweh and El**: The Canaanite high god El, attested in the Ugaritic texts and in personal names across the broader West Semitic linguistic area, shares a number of features with the biblical Yahweh — high-god status, divine-council leadership, paternal characterization, association with mountains. The Hebrew Bible's own use of *El* as a divine name (often in compound forms: *El Shaddai*, *El Elyon*, *El Bethel*, *El Olam*) suggests an early identification of Yahweh with the broader West Semitic El tradition. Cross's work argues that early Israelite religion explicitly identified Yahweh with El; the textual evidence for this identification within the Hebrew Bible itself is substantial.
+
+**Yahweh and Ba'al**: The major Canaanite storm-god Ba'al is, in the Hebrew Bible, the principal religious antagonist of Yahweh — the figure whose worship the prophets denounce and whose priesthood Elijah confronts at Mount Carmel (1 Kings 18). The framework reads this conflict as a real political contest between the Hebrew Yahweh-tradition and the surrounding Canaanite Ba'al-tradition rather than as a theological abstraction. Whether the Ba'al of the Canaanite tradition was an alliance figure (perhaps from a different team or with different policies than Yahweh's), a regional deity in the more general religious-history sense, or a polemical construction of Yahweh-tradition rhetoric is treated by the corpus as an open question requiring case-by-case textual analysis.
+
+**Yahweh and the Sumerian and Akkadian high gods**: The Sumerian An and Enlil, and the Akkadian Anu and Marduk, are the high-god figures of the Mesopotamian pantheons. The popular ancient-astronaut literature has often proposed direct identifications between Yahweh and one or another of these figures — most commonly between Yahweh and Enlil, on the basis of certain functional parallels. The corpus does not endorse blanket identifications; the relationships between the biblical Yahweh and the Mesopotamian high-god figures are treated as open questions requiring careful comparative analysis. Some of the parallels (high-god status, divine-council leadership, certain narrative motifs) may reflect shared underlying referents; others (specific iconographic conventions, particular cultural-political functions) may reflect independent religious-historical developments.
+
+**Yahweh and the Egyptian, Greek, and Hindu high gods**: The corpus treats the relationships between Yahweh and the high-god figures of other ancient pantheons (the Egyptian Atum or Amun, the Greek Zeus, the Hindu Indra or Brahma) as similarly open. The framework's general position — that the relationship between specific biblical figures and the deities of other ancient pantheons is a matter for case-by-case comparative analysis rather than blanket equivalence — applies here as throughout. The cosmic-competition framework (treated in the [Elohim](../elohim/) entry under Relationships) implies that other humanities on other worlds may have had their own alliance contacts producing their own religious traditions; whether or how these other traditions' high-god figures relate to Yahweh specifically is open.
 
 ## See also
 
-- [Wiki › Elohim](../elohim/) — the civilization of which Yahweh is the senior member
-- [Wiki › The Alliance](../the-alliance/) — the cross-civilizational political body of which Yahweh is the principal Earth-side authority
-- [Wiki › Council of the Eternals](../council-of-eternals/) — the governing body Yahweh presides over
-- [Wiki › Tree of Life](../tree-of-life/) — the cell-transfer continuity technology and its limited human extensions
-- [Wiki › Lucifer](../lucifer/) — leader of the dissenting Israel-team faction; one of the four figures of the political taxonomy
-- [Wiki › Serpent](../serpent/) — the Lucifer faction in its Eden-disclosure role
-- [Wiki › Satan](../satan/) — leader of the home-world abolitionist faction
-- [Wiki › Adam and Eve](../adam-and-eve/) — the first humans, on whom Yahweh pronounces consequences in Genesis 3
-- [Wiki › Noah](../noah/) — the human partner in the post-Flood covenant
-- [Wiki › Abraham](../abraham/) — the patriarchal lineage's founding figure
-- [Wiki › Moses](../moses/) — the principal Mosaic-period interlocutor; recipient of the *Ehyeh asher ehyeh* self-naming
-- [Wiki › Elijah](../elijah/) — the prophet of the *qol demamah daqqah* / "still small voice" encounter
-- [Wiki › Jesus](../jesus/) — the Piscean-age figure whose conception, ministry, and resurrection Yahweh supervised
-- [Wiki › Raël](../rael/) — the Aquarian-age figure to whom Yahweh delivered *The Book Which Tells the Truth*
-- [Wiki › *Message from the Designers*](../library/message-from-the-designers/) — the canonical collection of Yahweh's communications to Vorilhon
-- [Wiki › Tetragrammaton](../tetragrammaton/) — the four-letter name and its textual history
-- [Wiki › Genesis](../genesis/) — the principal biblical text in which Yahweh's role across the creation period is preserved
-- [Wiki › Bible](../bible/) — the textual corpus preserving Yahweh's communications across the post-creation period
-- [Wiki › Book of Revelation](../book-of-revelation/) — the apocalyptic visions delivered to John of Patmos at the close of the first century CE
-- [Wiki › Doubled Signature](../doubled-signature/) — the *Hamlet's Mill* principle that contextualizes the precessional ages over which Yahweh's alliance work has unfolded
+- [Elohim](../elohim/)
+- [Lucifer](../lucifer/)
+- [Satan](../satan/)
+- [Serpent](../serpent/)
+- [The Alliance](../the-alliance/)
+- [Council of the Eternals](../council-of-eternals/)
+- [Tree of Life](../tree-of-life/)
+- [Adam and Eve](../adam-and-eve/)
+- [Noah](../noah/)
+- [Abraham](../abraham/)
+- [Moses](../moses/)
+- [Elijah](../elijah/)
+- [Jesus](../jesus/)
+- [Raël](../rael/)
+- [*Message from the Designers*](../library/message-from-the-designers/)
+- [Tetragrammaton](../tetragrammaton/)
+- [Genesis](../genesis/)
+- [Bible](../bible/)
+- [Book of Revelation](../book-of-revelation/)
+- [Allah](../allah/)
+- [El](../el/)
+- [Cosmic Chain](../cosmic-chain/)
 
-## Sources
+## References
 
-**Primary sources within the framework**
+Vorilhon, Claude (Raël). *The Book Which Tells the Truth* (1974); the foundational text, presented as Yahweh's first-person account.
 
-- Vorilhon, Claude (Raël). *The Book Which Tells the Truth* (1974); the foundational text, presented as Yahweh's first-person account.
-- Vorilhon, Claude (Raël). *Extraterrestrials Took Me to Their Planet* (1976); the second-encounter text, including the meeting with the Council of Eternals and the prophetic figures resident on the home world.
-- Vorilhon, Claude (Raël). *Let's Welcome the Extraterrestrials* (1979); subsequent communications and clarifications.
-- All three texts collected in *Message from the Designers* (Raëlian Foundation, current English edition).
+Vorilhon, Claude (Raël). *Extraterrestrials Took Me to Their Planet* (1976); the second-encounter text, including the meeting with the Council of the Eternals and the prophetic figures resident on the home world.
 
-**Hebrew Bible text and lexicography**
+Vorilhon, Claude (Raël). *Let's Welcome the Extraterrestrials* (1979); subsequent communications and clarifications.
 
-- *Biblia Hebraica Stuttgartensia*. Deutsche Bibelgesellschaft, 1997.
-- Brown, Francis, S. R. Driver, and Charles A. Briggs. *A Hebrew and English Lexicon of the Old Testament* (BDB). Oxford, 1907.
-- *The Hebrew and Aramaic Lexicon of the Old Testament* (HALOT), Koehler-Baumgartner. Brill, 2001.
+All three texts collected in *Message from the Designers* (Raëlian Foundation, current English edition).
 
-**The Tetragrammaton: name, pronunciation, and theology**
+*Biblia Hebraica Stuttgartensia*. Deutsche Bibelgesellschaft, 1997.
 
-- de Moor, Johannes C. *The Rise of Yahwism: The Roots of Israelite Monotheism*. Peeters, 1990.
-- Smith, Mark S. *The Early History of God: Yahweh and the Other Deities in Ancient Israel*. Eerdmans, 2nd ed., 2002.
-- Smith, Mark S. *The Origins of Biblical Monotheism: Israel's Polytheistic Background and the Ugaritic Texts*. Oxford, 2001.
-- Cross, Frank Moore. *Canaanite Myth and Hebrew Epic*. Harvard University Press, 1973.
+Brown, Francis, S. R. Driver, and Charles A. Briggs. *A Hebrew and English Lexicon of the Old Testament* (BDB). Oxford, 1907.
 
-**Source criticism**
+*The Hebrew and Aramaic Lexicon of the Old Testament* (HALOT), Koehler-Baumgartner. Brill, 2001.
 
-- Wellhausen, Julius. *Prolegomena zur Geschichte Israels* (1883); English: *Prolegomena to the History of Ancient Israel*.
-- Friedman, Richard Elliott. *Who Wrote the Bible?* HarperOne, 1987.
-- Friedman, Richard Elliott. *The Bible with Sources Revealed*. HarperSanFrancisco, 2003.
+Cross, Frank Moore. *Canaanite Myth and Hebrew Epic*. Harvard University Press, 1973.
 
-**Liturgical practice and the substitution tradition**
+Smith, Mark S. *The Early History of God: Yahweh and the Other Deities in Ancient Israel*. Eerdmans, 2nd ed., 2002.
 
-- Reisel, Max. *The Mysterious Name of Y.H.W.H.: The Tetragrammaton in Connection with the Names of Ehyeh ašer Ehyeh, Hūhā, and Šem Hammephōrāš*. Van Gorcum, 1957.
+Smith, Mark S. *The Origins of Biblical Monotheism: Israel's Polytheistic Background and the Ugaritic Texts*. Oxford, 2001.
 
-**External references**
+de Moor, Johannes C. *The Rise of Yahwism: The Roots of Israelite Monotheism*. Peeters, 1990.
 
-- "Yahweh." *Encyclopaedia Britannica*. <https://www.britannica.com/topic/Yahweh>
-- "Tetragrammaton." *Wikipedia*. <https://en.wikipedia.org/wiki/Tetragrammaton>
-- "Names of God in Judaism." *Wikipedia*. <https://en.wikipedia.org/wiki/Names_of_God_in_Judaism>
-- "Yahweh." *Wikipedia*. <https://en.wikipedia.org/wiki/Yahweh>
-- "Jehovah." *Jewish Encyclopedia*. <https://www.jewishencyclopedia.com/articles/8568-jehovah>
+Dever, William G. *Did God Have a Wife? Archaeology and Folk Religion in Ancient Israel*. Eerdmans, 2005.
+
+Armstrong, Karen. *A History of God: The 4,000-Year Quest of Judaism, Christianity and Islam*. Knopf, 1993.
+
+Sendy, Jean. *Ces dieux qui firent le ciel et la terre*. Robert Laffont, 1969. English: *Those Gods Who Made Heaven and Earth*. Berkley, 1972.
+
+Sendy, Jean. *Les cahiers de cours de Moïse*. Robert Laffont, 1974.
+
+Biglino, Mauro. *Il Libro che cambierà per sempre le nostre idee sulla Bibbia*. Uno Editori, 2010. English: *The Book That Will Forever Change Our Ideas About the Bible*. Uno, 2013.
+
+Wellhausen, Julius. *Prolegomena zur Geschichte Israels* (1883). English: *Prolegomena to the History of Ancient Israel*.
+
+Friedman, Richard Elliott. *Who Wrote the Bible?* HarperOne, 1987.
+
+Friedman, Richard Elliott. *The Bible with Sources Revealed*. HarperSanFrancisco, 2003.
+
+Reisel, Max. *The Mysterious Name of Y.H.W.H.: The Tetragrammaton in Connection with the Names of Ehyeh ašer Ehyeh, Hūhā, and Šem Hammephōrāš*. Van Gorcum, 1957.
+
+"Yahweh." *Encyclopaedia Britannica*. <https://www.britannica.com/topic/Yahweh>
+
+"Tetragrammaton." *Wikipedia*. <https://en.wikipedia.org/wiki/Tetragrammaton>
+
+"Names of God in Judaism." *Wikipedia*. <https://en.wikipedia.org/wiki/Names_of_God_in_Judaism>
+
+"Yahweh." *Wikipedia*. <https://en.wikipedia.org/wiki/Yahweh>

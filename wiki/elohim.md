@@ -4,30 +4,25 @@ slug = "elohim"
 description = "Elohim (Hebrew: אֱלֹהִים) is the plural Hebrew name used throughout the Torah for the figures conventionally translated as God. On the reading developed in the Raëlian source material and adopted by the Wheel of Heaven corpus, the term refers to a specific extraterrestrial civilization of biological beings, technologically far in advance of present-day humanity, who designed and synthesized terrestrial life — including humanity itself — and whose subsequent interventions in human history are recorded in compressed and partially distorted form across the Hebrew Bible and a number of related ancient traditions."
 template = "wiki-page.html"
 toc = true
-aliases = [
-    "/intro/extraterrestrial-civilization/",
-    "/explore/concept/elohim/",
-]
+aliases = ["/intro/extraterrestrial-civilization/"]
 
 [extra]
 category = "Elohim"
 entry_type = "civilization"
-editorial_pass = "2026-05"
 alternative_names = ["Anunnaki", "Celestials", "Creators", "El", "Gods", "Powerful Ones", "Sky People", "Theosites"]
 
-infobox = [
-    { key = "Hebrew form", value = "אֱלֹהִים" },
-    { key = "Transliteration", value = "ʾĕlōhîm" },
-    { key = "Type", value = "Extraterrestrial civilization" },
-    { key = "Home world", value = "Single planet outside the solar system; specific astronomical location unspecified in source material" },
-    { key = "Population", value = "Approximately 7 billion (1973 source material; figure has held in subsequent reports)" },
-    { key = "Governance", value = "Council of the Eternals (deliberative body of approximately 700 members)" },
-    { key = "Provinces", value = "Seven" },
-    { key = "Civilizational age", value = "At least 25,000 years (framework-internal, derived from Yahweh's stated age)" },
-    { key = "Earth project began", value = "c. 21,810 BCE (Age of Capricorn arrival, on the corpus's chronology)" },
-    { key = "Current status", value = "Active; alliance vessel stationed near Earth; awaiting Aquarian-age open return at the embassy" },
-    { key = "Principal source", value = "*Message from the Designers* (Vorilhon/Raël, 1974–79)" },
-]
+[extra.infobox]
+hebrew_form = "אֱלֹהִים"
+transliteration = "ʾĕlōhîm"
+type = "Extraterrestrial civilization"
+home_world = "Single planet outside the solar system; specific astronomical location unspecified in source material"
+population = "Approximately 7 billion (1973 source material; figure has held in subsequent reports)"
+governance = "Council of the Eternals (deliberative body of approximately 700 members)"
+provinces = "Seven"
+civilizational_age = "At least 25,000 years (framework-internal, derived from Yahweh's stated age)"
+earth_project_began = "c. 21,810 BCE (Age of Capricorn arrival, on the corpus's chronology)"
+current_status = "Active; alliance vessel stationed near Earth; awaiting Aquarian-age open return at the embassy"
+principal_source = "*Message from the Designers* (Vorilhon/Raël, 1974–79)"
 +++
 
 **Elohim** (Hebrew: <span class="hebrew">אֱלֹהִים</span>, *ʾĕlōhîm*) is the plural form of the Hebrew noun *Eloah* (<span class="hebrew">אֱלוֹהַּ</span>, *ʾĕlōah*) and is the most frequent term used in the Hebrew Bible for the figures conventionally translated as *God*. The morphology is unambiguously plural: Hebrew adds the masculine plural ending *-im* to the singular *Eloah*, and the resulting form is grammatically plural throughout the biblical text. The traditional Jewish and Christian interpretation reads the plural form as a *plural of majesty* designating a single deity. Modern critical scholarship has variously read it as a relic of West Semitic polytheism, as a generic noun for divinity, or as preserving the language of an earlier Israelite religion in which Yahweh was understood as the head of a divine assembly rather than as the sole god.

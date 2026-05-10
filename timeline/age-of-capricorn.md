@@ -32,10 +32,6 @@ link = "/timeline/age-of-aquarius/"
 relation = "The current age when cosmic origins are revealed and the Elohim prepare to return"
 +++
 
-Good. Applying all five decisions. Producing the full v3 of Capricorn with consistent Hebrew treatment throughout.
-
----
-
 ## I. The Age Itself
 
 The first age is the age in which almost nothing yet exists.
