@@ -1,10 +1,8 @@
 +++
 title = "Questions Fréquemment Posées"
 description = "Réponses aux questions les plus courantes sur Wheel of Heaven, notre mission, notre méthodologie et nos perspectives sur les origines cosmiques de l'humanité."
-template = "page.html"
+template = "faq.html"
 +++
-
-# Questions Fréquemment Posées (FAQ)
 
 ## À propos de Wheel of Heaven
 

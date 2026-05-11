@@ -1,10 +1,8 @@
 +++
 title = "Comment Contribuer"
 description = "Découvrez comment contribuer au projet Wheel of Heaven et aider à développer cette base de connaissances collaborative sur nos origines cosmiques."
-template = "page.html"
+template = "info-page.html"
 +++
-
-# Comment Contribuer
 
 Merci de votre intérêt pour contribuer à Wheel of Heaven ! Nous accueillons les contributions de toutes sortes et de tous les niveaux d'expérience.
 

@@ -1,10 +1,8 @@
 +++
 title = "私たちのビジョン"
 description = "私たちはWheel of Heavenコミュニティです。人類の宇宙的遺産と地球外起源の深い意味を探求するビジョンを持つ情熱的なグループです。"
-template = "page.html"
+template = "about.html"
 +++
-
-# 私たちのビジョン
 
 私たちはWheel of Heavenコミュニティです。人類の宇宙的遺産と地球外起源の深い意味を探求するビジョンを持つ情熱的なグループです。
 

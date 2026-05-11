@@ -1,62 +1,57 @@
 +++
 title = "Privacy Policy"
 slug = "privacy-policy"
-description = "Privacy policy for Wheel of Heaven - a static website with no backend or database."
-template = "page.html"
+description = "Wheel of Heaven is a static site with no backend, no accounts, no analytics, and no tracking. There is almost nothing for a privacy policy to say — which is the point of this page."
+template = "info-page.html"
+
+[extra]
+claim_type = "direct"
+editorial_pass = "2026-05"
+last_updated = "2026-05-11"
 +++
 
-# Privacy Policy
+Wheel of Heaven is a static site. There is no backend, no database, no account system, no comment section hosted on this domain, and no analytics. The project's privacy posture is the absence of mechanisms rather than the management of them: there is almost nothing for a privacy policy to say, which is the point of this page.
 
-**Last updated: September 2025**
+## What the project does not collect
 
-## Overview
+The site does not collect:
 
-Wheel of Heaven is a purely static website with no backend infrastructure, databases, or server-side processing. This means we have very limited ability to collect, store, or process your personal data.
+- Names, email addresses, phone numbers, or any other personal identifier
+- User accounts, login credentials, or session data
+- Form submissions of any kind (no forms exist on this domain)
+- Comments, posts, or user-generated content on this domain
+- Analytics or tracking data — no Google Analytics, no Plausible, no Matomo, no first-party telemetry
+- Cookies for advertising, marketing, or cross-site tracking
+- IP addresses or location data on the project's side
 
-## What We Don't Collect
+This is not a promise the project made and then implements with care. It is a property of how the site is built: there is no server-side code to do any of these things.
 
-Since this is a static website, we do **not** collect:
+## What the project does store
 
-- Personal information (names, email addresses, phone numbers)
-- User accounts or login credentials
-- Form submissions or user-generated content
-- Analytics data or tracking information
-- Cookies for tracking purposes
-- IP addresses or location data
+The project stores a handful of small preferences in your browser's local storage — theme, language, disclaimer acknowledgement. These never leave your device. See the [Cookie Policy](/cookie-policy/) for the full list.
 
-## What We May Collect
+## What third parties may collect
 
-The only data collection that may occur is through:
+A few unavoidable third parties may see ordinary HTTP-level information when you visit the site:
 
-### Third-Party Services
+- **The hosting provider** maintains standard server logs (IP, user agent, requested path) for service operation. The project does not access these logs for analytics or profiling.
+- **External links** — when you click out to GitHub, Wikipedia, or any other linked site, that site's policy governs what it collects. The project does not control or share data with linked sites.
+- **External assets** — fonts, where used, are self-hosted; the project does not load fonts, scripts, or stylesheets from third-party CDNs that could track you.
 
-If we use any third-party services (such as analytics providers), they may collect data according to their own privacy policies. We will clearly disclose any such services and link to their privacy policies.
+If at any point this changes — for example, if the project adds opt-in analytics — this page will be updated and the change will be flagged in the release notes.
 
-### Server Logs
+## Your rights
 
-Our hosting provider may maintain standard server logs that include:
-- IP addresses
-- Browser types
-- Access times
-- Pages visited
+Under the EU GDPR, Swiss FADP, UK GDPR, California CCPA, and other privacy regimes, you have rights to access, correct, or delete personal data a service holds about you. Since the project holds no personal data about you, there is nothing to access, correct, or delete. If you believe the project is mistakenly holding data about you, please reach out — the most likely explanation is a misunderstanding, and the project would like to resolve it directly.
 
-These logs are maintained by our hosting provider and are not accessible to us for tracking purposes.
+## Children
 
-## Data Sharing
+The site is open to all readers, including minors, but is written for an adult audience interested in religious-historical material. The project does not knowingly collect data from anyone, including minors.
 
-We do not share any data with third parties, as we do not collect personal data through this website.
+## Changes to this policy
 
-## Your Rights
-
-Since we do not collect personal data:
-- There is no personal data to access, modify, or delete
-- No data portability requests are applicable
-- No consent withdrawal is necessary
+If the project ever changes how it handles data — for example, by adding opt-in analytics, comments, or any backend feature — this page will be updated and the change will be flagged in the release notes. The CC0 license on the corpus applies to this policy: you may copy, adapt, and reuse it freely.
 
 ## Contact
 
-If you have any questions about this privacy policy, please contact us through our GitHub repository or other publicly available contact methods.
-
-## Changes to This Policy
-
-We may update this privacy policy from time to time. Any changes will be posted on this page with an updated revision date.
+For questions about this policy, open a thread on [GitHub Discussions](https://github.com/orgs/wheelofheaven/discussions) or an issue on the [repository](https://github.com/wheelofheaven). For privacy-specific matters that should not be public, contact the maintainer through the channels listed in the project's [Code of Conduct](/code-of-conduct/).

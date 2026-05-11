@@ -1,10 +1,8 @@
 +++
 title = "Code de Conduite"
 description = "Notre code de conduite communautaire établit les directives et standards pour créer un environnement accueillant et respectueux pour tous les participants."
-template = "page.html"
+template = "info-page.html"
 +++
-
-# Code de Conduite
 
 ## Notre engagement
 

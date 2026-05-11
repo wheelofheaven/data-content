@@ -1,10 +1,8 @@
 +++
-title = "Forums et Discussions"
+title = "Discussions"
 description = "Rejoignez notre communauté pour des discussions approfondies sur nos origines cosmiques, partagez vos recherches et connectez-vous avec d'autres explorateurs."
-template = "page.html"
+template = "info-page.html"
 +++
-
-# Forums et Discussions
 
 Bienvenue dans l'espace de discussion de la communauté Wheel of Heaven ! C'est ici que nous nous rassemblons pour explorer, débattre et approfondir notre compréhension de nos origines cosmiques potentielles.
 

@@ -1,10 +1,8 @@
 +++
 title = "Notre Vision"
 description = "Nous sommes la communauté Wheel of Heaven, un groupe passionné avec une vision pour explorer l'héritage cosmique de l'humanité et les implications profondes de nos origines extraterrestres."
-template = "page.html"
+template = "about.html"
 +++
-
-# Notre Vision
 
 Nous sommes la communauté Wheel of Heaven, un groupe passionné avec une vision pour explorer l'héritage cosmique de l'humanité et les implications profondes de nos origines extraterrestres.
 

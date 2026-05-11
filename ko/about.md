@@ -1,10 +1,8 @@
 +++
 title = "우리의 비전"
 description = "우리는 인류의 우주적 유산과 외계 기원의 깊은 의미를 탐구하는 비전을 가진 열정적인 Wheel of Heaven 커뮤니티입니다."
-template = "page.html"
+template = "about.html"
 +++
-
-# 우리의 비전
 
 우리는 인류의 우주적 유산과 외계 기원의 깊은 의미를 탐구하는 비전을 가진 열정적인 Wheel of Heaven 커뮤니티입니다.
 

@@ -1,10 +1,8 @@
 +++
 title = "我們的願景"
 description = "我們是 Wheel of Heaven 社群，一群充滿熱情的人，致力於探索人類宇宙遺產和外星起源的深刻意義。"
-template = "page.html"
+template = "about.html"
 +++
-
-# 我們的願景
 
 我們是 Wheel of Heaven 社群，一群充滿熱情的人，致力於探索人類宇宙遺產和外星起源的深刻意義。
 
