@@ -6,6 +6,7 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+redirect_to = { title = "Adam and Eve", path = "/wiki/adam-and-eve/" }
 category = "Peoples & Groups"
 timeline = ["leo", "cancer", "gemini"]
 claim_type = "direct"

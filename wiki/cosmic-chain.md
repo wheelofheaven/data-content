@@ -7,6 +7,7 @@ toc = true
 
 [extra]
 category = "Cosmology & Framework"
+editorial_pass = "2026-05"
 entry_type = "concept"
 alternative_names = ["the cosmic chain", "the chain of creation", "the cosmic chain of creation", "the recurring cosmic process", "the cosmic creative cycle", "the cycle of creators"]
 timeline = ["pre-creation", "aries", "pisces", "aquarius", "post-aquarius"]

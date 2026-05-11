@@ -7,6 +7,7 @@ toc = true
 
 [extra]
 category = "Theology & Traditions"
+editorial_pass = "2026-05"
 entry_type = "text"
 alternative_names = ["עִבְרִית", "ʿivrit", "Lashon ha-Kodesh", "the Holy Tongue", "Biblical Hebrew", "Classical Hebrew"]
 

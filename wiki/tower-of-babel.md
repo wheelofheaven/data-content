@@ -6,6 +6,7 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+redirect_to = { title = "Babel", path = "/wiki/babel/" }
 category = "Events & Narratives"
 alternative_names = ["Mīgdal Bāḇel", "מִגְדַּל בָּבֶל"]
 timeline = ["gemini"]

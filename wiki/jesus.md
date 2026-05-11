@@ -7,6 +7,7 @@ toc = true
 
 [extra]
 category = "Biblical Figures"
+editorial_pass = "2026-05"
 entry_type = "figure"
 alternative_names = ["Jesus of Nazareth", "Jesus Christ", "Yeshua", "Yēšuaʿ", "יֵשׁוּעַ", "Ἰησοῦς", "Iēsoûs", "Isa", "عيسى"]
 timeline = ["pisces"]

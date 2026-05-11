@@ -7,6 +7,7 @@ toc = true
 
 [extra]
 category = "Places & Locations"
+editorial_pass = "2026-05"
 entry_type = "place"
 alternative_names = ["Garden of Eden", "gan-ʿĒden", "גַּן־עֵדֶן", "Paradise"]
 timeline = ["leo", "cancer"]

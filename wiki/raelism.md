@@ -7,6 +7,7 @@ toc = true
 
 [extra]
 category = "Cosmology & Framework"
+editorial_pass = "2026-05"
 entry_type = "concept"
 alternative_names = ["the Raëlian Movement", "the International Raëlian Movement", "the Raëlian religion", "Raëlianism", "the IRM"]
 timeline = ["aquarius"]

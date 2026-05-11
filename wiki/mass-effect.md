@@ -7,6 +7,7 @@ toc = true
 
 [extra]
 category = "Cosmology & Framework"
+editorial_pass = "2026-05"
 entry_type = "concept"
 alternative_names = ["the Mass Effect", "the Law of Masstime", "the law of subjective time", "the time-mass relationship", "the scale-time correspondence"]
 timeline = ["all-ages"]

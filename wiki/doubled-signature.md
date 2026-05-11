@@ -7,6 +7,7 @@ toc = true
 
 [extra]
 category = "Cosmology & Framework"
+editorial_pass = "2026-05"
 entry_type = "concept"
 alternative_names = ["the doubled signature", "the doubled-signature principle", "the Hamlet's Mill principle", "the doubled astronomical signature", "doubled invocation across the zodiacal axis"]
 timeline = ["all-ages"]

@@ -7,6 +7,7 @@ toc = true
 
 [extra]
 category = "Meta"
+editorial_pass = "2026-05"
 entry_type = "concept"
 alternative_names = ["the Wheel of Heaven framework", "the Wheel of Heaven corpus", "the Wheel of Heaven project", "the Wheel of Heaven thesis", "the framework (corpus-internal short form)", "the corpus (when referring to the written body of project content)"]
 timeline = ["multi-age"]

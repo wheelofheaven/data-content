@@ -7,6 +7,7 @@ toc = true
 
 [extra]
 category = "Symbolism & Motifs"
+editorial_pass = "2026-05"
 entry_type = "figure"
 alternative_names = ["the Serpent of Eden", "naḥash", "נָחָשׁ", "the Lucifer faction", "the Serpentine party", "ho ophis"]
 

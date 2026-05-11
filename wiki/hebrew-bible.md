@@ -7,6 +7,7 @@ toc = true
 
 [extra]
 category = "Texts & Sources"
+editorial_pass = "2026-05"
 entry_type = "text"
 alternative_names = ["Tanakh (Hebrew: תָּנָ״ךְ)", "the Hebrew Scriptures", "the Jewish Bible", "Mikra (Hebrew: מִקְרָא, 'reading')", "the Old Testament (Christian-tradition designation)", "the Hebrew Old Testament", "the canonical Hebrew Scriptures"]
 timeline = ["multi-age"]

@@ -7,6 +7,7 @@ toc = true
 
 [extra]
 category = "Elohim"
+editorial_pass = "2026-05"
 entry_type = "figure"
 alternative_names = ["the Adversary", "the Accuser", "the Opposition", "*ha-satan* (הַשָּׂטָן, 'the satan')", "*satan* (שָׂטָן, common noun)", "the Slanderer", "*diabolos* (διάβολος, Greek)", "the Devil (medieval-Christian theological designation, conflated)", "the Tester", "the Skeptic"]
 timeline = ["all-ages"]

@@ -7,6 +7,7 @@ toc = true
 
 [extra]
 category = "Cosmology & Framework"
+editorial_pass = "2026-05"
 entry_type = "concept"
 alternative_names = ["the Infinite", "the infinite cosmos", "infinite-cosmological framework", "the broader infinite framework", "cosmic infinity"]
 timeline = ["all-ages"]

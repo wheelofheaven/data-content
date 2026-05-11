@@ -7,6 +7,7 @@ toc = true
 
 [extra]
 category = "Cosmic Roles"
+editorial_pass = "2026-05"
 entry_type = "concept"
 alternative_names = ["נָבִיא", "navi", "προφήτης", "prophētēs", "نبي", "nabī", "messenger", "seer"]
 +++

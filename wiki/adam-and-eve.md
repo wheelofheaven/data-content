@@ -7,6 +7,7 @@ toc = true
 
 [extra]
 category = "Cosmic Figures"
+editorial_pass = "2026-05"
 entry_type = "figure"
 alternative_names = ["Adam", "Eve", "אָדָם וְחַוָּה", "ʾĀḏām and Ḥawwāh", "the First Humans", "the First Pair", "Adam Kadmon and Hawwah (in Kabbalistic tradition)"]
 timeline = ["leo", "cancer"]

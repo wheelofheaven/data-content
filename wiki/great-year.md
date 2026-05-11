@@ -6,6 +6,7 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+redirect_to = { title = "World Age", path = "/wiki/world-age/" }
 category = "Cosmic Chronology"
 alternative_names = ["Platonic Year", "Precessional year"]
 claim_type = "inferred"

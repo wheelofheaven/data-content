@@ -6,6 +6,7 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+redirect_to = { title = "Serpent", path = "/wiki/serpent/" }
 category = "Symbolism & Motifs"
 timeline = ["gemini"]
 claim_type = "inferred"

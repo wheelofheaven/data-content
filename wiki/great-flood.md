@@ -7,6 +7,7 @@ toc = true
 
 [extra]
 category = "Events & Narratives"
+editorial_pass = "2026-05"
 entry_type = "event"
 alternative_names = ["the Great Deluge", "the Flood", "the Mabbul", "the Deluge", "ha-mabbul", "הַמַּבּוּל", "the Noahic Flood"]
 timeline = ["gemini"]

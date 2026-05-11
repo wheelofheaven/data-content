@@ -7,6 +7,7 @@ toc = true
 
 [extra]
 category = "Texts & Scriptures"
+editorial_pass = "2026-05"
 entry_type = "text"
 alternative_names = ["Bereshit", "B'reshit", "First Book of Moses"]
 

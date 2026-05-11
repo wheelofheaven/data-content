@@ -7,6 +7,7 @@ toc = true
 
 [extra]
 category = "Events & Narratives"
+editorial_pass = "2026-05"
 entry_type = "concept"
 alternative_names = ["Revelation", "ἀποκάλυψις", "Age of Apocalypse", "Age of Revelation"]
 timeline = ["aquarius"]

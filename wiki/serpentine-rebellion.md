@@ -5,6 +5,7 @@ template = "wiki-page.html"
 
 [extra]
 category = "Events & Narratives"
+editorial_pass = "2026-05"
 timeline = ["cancer", "gemini"]
 claim_type = "inferred"
 redirect_to = { title = "Theomachy", path = "/wiki/theomachy/" }

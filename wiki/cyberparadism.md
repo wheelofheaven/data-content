@@ -7,6 +7,7 @@ toc = true
 
 [extra]
 category = "Culture & Aesthetics"
+editorial_pass = "2026-05"
 entry_type = "concept"
 alternative_names = ["Cyber Paradise", "Cybergenesis", "Neogenesis", "the Cyberparadist aesthetic", "the Cyberparadism aesthetic-cultural movement"]
 timeline = ["age-of-aquarius"]

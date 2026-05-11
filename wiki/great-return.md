@@ -6,6 +6,7 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+redirect_to = { title = "Embassy", path = "/wiki/embassy/" }
 category = "Events & Narratives"
 timeline = ["aquarius"]
 claim_type = "inferred"

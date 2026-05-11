@@ -7,6 +7,7 @@ toc = true
 
 [extra]
 category = "Symbolism & Motifs"
+editorial_pass = "2026-05"
 entry_type = "concept"
 alternative_names = ["dinosaurs", "*taninim* (Hebrew plural)", "*tannin* (Hebrew singular)", "great sea creatures (English softened translation)", "*ketos* (Septuagint Greek)", "*cete grandia* (Vulgate Latin)", "sea monsters", "dragons of the deep"]
 timeline = ["virgo", "leo", "cancer", "gemini"]

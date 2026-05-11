@@ -7,6 +7,7 @@ toc = true
 
 [extra]
 category = "Symbolism & Motifs"
+editorial_pass = "2026-05"
 entry_type = "concept"
 alternative_names = ["666", "Six Hundred Sixty-Six", "the Number of the Beast", "the Number of Man (proper-noun framework concept)", "χξϛ (Greek isopsephic representation)"]
 timeline = ["multi-age"]

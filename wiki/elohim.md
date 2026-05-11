@@ -8,6 +8,7 @@ aliases = ["/intro/extraterrestrial-civilization/"]
 
 [extra]
 category = "Elohim"
+editorial_pass = "2026-05"
 entry_type = "civilization"
 alternative_names = ["Anunnaki", "Celestials", "Creators", "El", "Gods", "Powerful Ones", "Sky People", "Theosites"]
 

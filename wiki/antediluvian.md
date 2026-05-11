@@ -7,6 +7,7 @@ toc = true
 
 [extra]
 category = "Cosmic Chronology"
+editorial_pass = "2026-05"
 entry_type = "event_period"
 alternative_names = ["pre-diluvian", "pre-flood", "pre-Flood"]
 timeline = ["leo", "cancer"]

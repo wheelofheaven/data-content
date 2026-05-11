@@ -6,6 +6,7 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+redirect_to = { title = "Theomachy", path = "/wiki/theomachy/" }
 category = "Events & Narratives"
 timeline = ["cancer", "gemini", "taurus"]
 claim_type = "inferred"
