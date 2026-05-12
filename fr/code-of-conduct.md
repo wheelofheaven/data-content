@@ -1,47 +1,49 @@
 +++
 title = "Code de Conduite"
-description = "Notre code de conduite communautaire établit les directives et standards pour créer un environnement accueillant et respectueux pour tous les participants."
+description = "Normes communautaires pour la participation à Wheel of Heaven — ce qui est attendu, ce qui est bienvenu, et ce qui ne l'est pas."
 template = "info-page.html"
+
+[extra]
+claim_type = "direct"
+editorial_pass = "2026-05"
+cta_title = "Texte complet sur GitHub"
+cta_text = "Le Code de Conduite complet, y compris les directives d'application et les canaux de signalement, est maintenu dans le dépôt avec le reste de l'infrastructure open-source du projet."
+cta_url = "https://github.com/wheelofheaven/site/blob/main/CODE_OF_CONDUCT.md"
+cta_label = "Voir le texte canonique sur GitHub"
+cta_external = true
 +++
 
-## Notre engagement
+Wheel of Heaven est un projet ouvert. Toute personne est bienvenue à lire le corpus, engager ses affirmations, proposer des corrections, soulever des objections, contribuer à des traductions, ou suggérer de nouvelles directions. Cette page décrit les normes que le projet attend de toute personne participant à ses espaces publics — les [Discussions GitHub](https://github.com/orgs/wheelofheaven/discussions), le suivi des tickets, les pull requests, et tout autre canal que le projet pourrait ajouter à l'avenir.
 
-Dans l'intérêt de favoriser un environnement ouvert et accueillant, nous nous engageons, en tant que contributeurs et mainteneurs, à faire de la participation à notre projet et à notre communauté une expérience sans harcèlement pour tous, quel que soit l'âge, la taille corporelle, le handicap, l'origine ethnique, l'identité et l'expression de genre, le niveau d'expérience, la nationalité, l'apparence personnelle, la race, la religion ou l'identité et l'orientation sexuelles.
+## L'engagement
 
-## Nos standards
+Le projet s'engage à être un espace où la participation ne dépend pas du milieu d'origine, de l'identité, ou d'un accord préalable avec le cadre du corpus. Le désaccord substantiel est bienvenu. L'hostilité fondée sur l'identité ne l'est pas. Le projet prend ces deux engagements au sérieux, et le second est appliqué là où il se manifeste.
 
-Exemples de comportements qui contribuent à créer un environnement positif :
+## Encouragé
 
-- Utiliser un langage accueillant et inclusif
-- Respecter les différents points de vue et expériences
-- Accepter gracieusement les critiques constructives
-- Se concentrer sur ce qui est le mieux pour la communauté
-- Faire preuve d'empathie envers les autres membres de la communauté
+- Engager la substance du corpus — y compris en la contestant
+- Poser des questions honnêtes, même celles auxquelles l'auteure a peut-être déjà répondu ailleurs
+- Lire attentivement avant de répondre, et citer ce à quoi vous répondez
+- Reconnaître votre propre incertitude là où elle existe
+- Signaler les erreurs directement, avec la source de la correction
+- Traduire, citer, prolonger ou republier l'œuvre (la licence [CC0](https://creativecommons.org/publicdomain/zero/1.0/) invite activement à le faire)
 
-Exemples de comportements inacceptables :
+## Pas bienvenu
 
-- L'utilisation de langage ou d'imagerie sexualisés et l'attention ou les avances sexuelles non désirées
-- Le trolling, les commentaires insultants ou dérogatoires, et les attaques personnelles ou politiques
-- Le harcèlement public ou privé
-- La publication d'informations privées d'autrui, telles qu'une adresse physique ou électronique, sans permission explicite
-- Toute autre conduite qui pourrait raisonnablement être considérée comme inappropriée dans un cadre professionnel
+- Attaques personnelles, harcèlement, ou hostilité ciblée envers tout participant
+- Discrimination fondée sur l'identité, le milieu d'origine, ou la croyance
+- Trolling, engagement répété de mauvaise foi, ou tentatives de détourner la discussion substantielle
+- Publier les informations privées d'autres participants sans leur consentement
+- Prosélytisme — ni pour ni contre le cadre du corpus. Le projet ne demande pas de convertis et n'est pas intéressé par des campagnes opposées venant de l'une ou l'autre direction.
 
-## Nos responsabilités
+## Le désaccord est bienvenu ; le harcèlement ne l'est pas
 
-Les mainteneurs du projet sont responsables de clarifier les standards de comportement acceptable et sont censés prendre des mesures correctives appropriées et équitables en réponse à tout cas de comportement inacceptable.
+Les deux ne sont pas la même chose et le projet prend la distinction au sérieux. Un lecteur qui pense que le corpus a tort, qui pense que le matériau-source raëlien est inventé, qui pense que le cadre précessionnel est forcé, ou qui trouve la position du projet sur une question spécifique peu convaincante, est bienvenu à le dire dans les espaces publics. L'auteure préfère entendre une objection honnête qu'un accord insincère.
 
-Les mainteneurs du projet ont le droit et la responsabilité de supprimer, modifier ou rejeter les commentaires, commits, code, modifications du wiki, issues et autres contributions qui ne sont pas alignés sur ce Code de Conduite, ou de bannir temporairement ou définitivement tout contributeur pour d'autres comportements qu'ils jugent inappropriés, menaçants, offensants ou nuisibles.
-
-## Portée
-
-Ce Code de Conduite s'applique à la fois dans les espaces du projet et dans les espaces publics lorsqu'un individu représente le projet ou sa communauté. Les exemples de représentation d'un projet ou d'une communauté incluent l'utilisation d'une adresse e-mail officielle du projet, la publication via un compte de média social officiel, ou le fait d'agir en tant que représentant désigné lors d'un événement en ligne ou hors ligne.
+Ce qui n'est pas bienvenu, c'est d'utiliser les espaces publics pour attaquer des participants pour qui ils sont, ce qu'ils croient, d'où ils viennent, ou à quelle tradition ils s'identifient. La substance est ouverte ; les personnes ne le sont pas.
 
 ## Application
 
-Les cas de comportement abusif, harcelant ou autrement inacceptable peuvent être signalés en contactant l'équipe du projet. Toutes les plaintes seront examinées et enquêtées et donneront lieu à une réponse jugée nécessaire et appropriée aux circonstances. L'équipe du projet est obligée de maintenir la confidentialité en ce qui concerne le rapporteur d'un incident.
+L'auteure modère les espaces publics du projet et se réserve le droit de retirer du contenu, verrouiller des fils, ou bloquer les participants dont le comportement viole ce code. L'application est conçue pour être proportionnée et transparente : une violation mineure reçoit généralement une note expliquant ce qui était à côté ; les violations répétées ou sévères peuvent entraîner un retrait.
 
-Des détails supplémentaires sur les politiques d'application spécifiques peuvent être publiés séparément.
-
-## Attribution
-
-Ce Code de Conduite est adapté du [Contributor Covenant](https://www.contributor-covenant.org), version 1.4, disponible à l'adresse https://www.contributor-covenant.org/version/1/4/code-of-conduct.html
+Pour signaler une violation, ouvrez un ticket sur le [dépôt](https://github.com/wheelofheaven), ou, pour les questions qui ne devraient pas être publiques, contactez la mainteneuse à travers les canaux listés dans le Code de Conduite canonique sur GitHub.

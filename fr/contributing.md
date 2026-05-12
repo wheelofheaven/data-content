@@ -1,106 +1,60 @@
 +++
-title = "Comment Contribuer"
-description = "Découvrez comment contribuer au projet Wheel of Heaven et aider à développer cette base de connaissances collaborative sur nos origines cosmiques."
+title = "Contribuer"
+description = "Cinq manières de contribuer à Wheel of Heaven — discussion, traduction, corrections de contenu, code, soutien financier. Le projet est open-source et accueille l'engagement sérieux, y compris le désaccord."
 template = "info-page.html"
+
+[extra]
+claim_type = "direct"
+editorial_pass = "2026-05"
+cta_title = "Dépôt sur GitHub"
+cta_text = "Le corpus, l'infrastructure du site, et les directives de contribution vivent tous dans le dépôt public. Les pull requests, tickets, et travaux de traduction y sont bienvenus."
+cta_url = "https://github.com/wheelofheaven"
+cta_label = "Ouvrir l'organisation GitHub"
+cta_external = true
 +++
 
-Merci de votre intérêt pour contribuer à Wheel of Heaven ! Nous accueillons les contributions de toutes sortes et de tous les niveaux d'expérience.
+Wheel of Heaven est open-source sous [CC0](https://creativecommons.org/publicdomain/zero/1.0/) et accueille les contributeurs. Le projet est mené à la première personne du singulier, par une seule auteure, mais le travail environnant — traduction, édition, infrastructure, discussion publique — bénéficie de nombreuses mains.
 
-## Types de contributions
+Les contributeurs ne sont pas tenus d'être en accord avec le cadre du projet. L'engagement critique est bienvenu.
 
-### 📝 Contenu et recherche
-- **Articles et explications** : Rédigez ou améliorez des articles sur des sujets liés à nos origines cosmiques
-- **Traductions** : Aidez à traduire le contenu dans d'autres langues
-- **Citations et références** : Ajoutez des sources et vérifiez les références existantes
-- **Révision et édition** : Relisez et améliorez la qualité du contenu existant
+## Avant de commencer
 
-### 🔧 Technique et développement
-- **Développement web** : Améliorez le site web et ses fonctionnalités
-- **Design et UX** : Contribuez à l'expérience utilisateur et au design visuel
-- **Optimisation** : Améliorez les performances et l'accessibilité
-- **Documentation technique** : Documentez le code et les processus
+Lisez le [Code de Conduite](/fr/code-of-conduct/). La participation aux espaces publics du projet — Discussions, tickets, pull requests — le présuppose.
 
-### 🎨 Design et médias
-- **Graphiques et illustrations** : Créez des visuels pour accompagner le contenu
-- **Vidéos et animations** : Développez des contenus multimédias explicatifs
-- **Infographies** : Visualisez des données et concepts complexes
+Parcourez la [FAQ](/fr/faq/), en particulier les entrées sur l'hypothèse de travail, les familles de sources, et la manière dont le projet gère les types d'affirmation. Elles donnent le contexte qui rend la plupart des contributions plus faciles.
 
-## Comment commencer
+## Manières de contribuer
 
-### 1. Explorez le projet
-- Familiarisez-vous avec notre [vision et mission](/fr/about)
-- Lisez notre [Code de Conduite](/fr/code-of-conduct)
-- Parcourez le contenu existant pour comprendre notre approche
+### Discussion et questions
 
-### 2. Choisissez votre contribution
-- Consultez les [issues ouvertes](https://github.com/wheelofheaven/wheelofheaven.io/issues) sur GitHub
-- Recherchez les étiquettes "good first issue" pour les débutants
-- Proposez vos propres idées en créant une nouvelle issue
+Les [Discussions GitHub](https://github.com/orgs/wheelofheaven/discussions) sont le principal forum public du projet. Les questions honnêtes, les objections substantielles, les lectures alternatives, et les nouvelles sources y sont toutes bienvenues. Les fils nourrissent parfois directement le corpus — une question pointue peut finir reflétée dans une entrée wiki ou une réponse de la FAQ.
 
-### 3. Préparez votre environnement
-```bash
-# Clonez le repository
-git clone https://github.com/wheelofheaven/wheelofheaven.io.git
+### Traduction
 
-# Installez Zola (générateur de site statique)
-# Voir: https://www.getzola.org/documentation/getting-started/installation/
+Le site est publié en neuf langues, avec l'anglais comme source. Les traductions sont dérivées de l'original anglais à la main et par outil, avec revue éditoriale là où c'est possible. D'autres langues sont bienvenues ; les traductions existantes peuvent toujours être améliorées.
 
-# Lancez le serveur de développement
-zola serve
-```
+Si vous êtes intéressé par la traduction, ouvrez un fil de Discussion ou un ticket décrivant la langue et l'étendue. Le projet fournira le matériau-source, le glossaire des termes spécifiques au projet, et le guide de style.
 
-### 4. Effectuez vos modifications
-- Créez une nouvelle branche pour votre contribution
-- Effectuez vos modifications en suivant nos conventions
-- Testez vos changements localement
+### Corrections et suggestions de contenu
 
-### 5. Soumettez votre contribution
-- Commitez vos changements avec des messages clairs
-- Poussez votre branche vers votre fork
-- Créez une Pull Request avec une description détaillée
+Si une page du site est factuellement erronée, contient un lien brisé, mal cite une source, ou représente mal une position savante, le projet préfère le savoir. Ouvrez un ticket sur le [dépôt](https://github.com/wheelofheaven) avec l'URL de la page et la correction spécifique.
 
-## Directives de contribution
+Les désaccords interprétatifs — où vous lisez une source différemment du corpus — vont dans les Discussions, non dans les tickets. Le projet les accueille, mais ils constituent un type de contribution différent d'une correction factuelle.
 
-### Standards de qualité
-- **Exactitude** : Vérifiez toutes les informations et citations
-- **Neutralité** : Maintenez un ton objectif et analytique
-- **Clarté** : Écrivez de manière claire et accessible
-- **Sources** : Citez toujours vos sources et références
+### Code et infrastructure
 
-### Conventions techniques
-- **Markdown** : Utilisez la syntaxe Markdown standard
-- **Métadonnées** : Incluez les frontmatter appropriés
-- **Images** : Optimisez les images et utilisez des formats web
-- **Liens** : Utilisez des liens relatifs pour le contenu interne
+Le site est un site statique construit avec Zola, un thème de modèles Tera ([Bifrost](https://github.com/wheelofheaven/bifrost)), et des styles SCSS. La construction passe par une pipeline CI publique. Les pull requests sont les bienvenues pour les corrections de bugs, améliorations d'accessibilité, travaux de performance, et petites fonctionnalités qui s'inscrivent dans le registre scolaire du projet.
 
-### Processus de révision
-1. **Révision automatique** : Les tests automatisés vérifient la syntaxe
-2. **Révision par les pairs** : D'autres contributeurs examinent votre travail
-3. **Révision éditoriale** : L'équipe éditoriale vérifie la qualité du contenu
-4. **Intégration** : Votre contribution est fusionnée et publiée
+Pour les changements plus larges — refontes visuelles, restructuration de la navigation, nouvelles sections de contenu — ouvrez d'abord une Discussion.
 
-## Ressources et support
+### Soutien financier
 
-### Documentation
-- [Guide de syntaxe Markdown](https://www.markdownguide.org/)
-- [Documentation Zola](https://www.getzola.org/documentation/)
-- [Guide des templates](https://www.getzola.org/documentation/templates/)
+Le projet est actuellement financé entièrement par les fonds personnels de l'auteure. Les contributions volontaires via [Open Collective](https://opencollective.com/wheelofheaven) vont à l'hébergement, à l'infrastructure, et au travail de traduction. La licence CC0 signifie que le contenu ne peut être monétisé exclusivement par quiconque, y compris le projet lui-même — le soutien financier est véritablement volontaire et va seulement à faire fonctionner le projet.
 
-### Communication
-- **Discussions GitHub** : Pour les questions techniques et les idées
-- **Issues GitHub** : Pour signaler des problèmes ou proposer des améliorations
-- **Email** : Contactez-nous pour des questions privées
+## À quoi ressemblent les contributions en pratique
 
-### Reconnaissance
-Tous les contributeurs sont reconnus dans notre section [Contributeurs](/fr/contributors) et dans l'historique Git du projet.
+Une bonne contribution nomme ce qu'elle change, pourquoi, et sur quelle base. Une pull request qui corrige un lien brisé dans une entrée wiki a besoin d'une description d'une ligne. Une pull request qui révise une lecture substantielle a besoin de plus — au minimum, la source de la nouvelle lecture et un paragraphe sur pourquoi elle améliore l'actuelle.
 
-## Licences et droits d'auteur
+Les normes éditoriales du projet s'appliquent aux contributions : registre scolaire, conscient des sources, type d'affirmation étiqueté honnêtement. Les [règles de contenu](https://github.com/wheelofheaven) maintenues avec le dépôt les décrivent en détail.
 
-En contribuant à Wheel of Heaven, vous acceptez que :
-- Votre contribution soit disponible sous licence Creative Commons
-- Votre travail soit attribué de manière appropriée
-- Vous avez le droit de contribuer le contenu soumis
-
----
-
-**Prêt à contribuer ?** Commencez par explorer nos [issues ouvertes](https://github.com/wheelofheaven/wheelofheaven.io/issues) ou créez la vôtre !
+Si vous n'êtes pas sûr qu'une contribution corresponde, ouvrez d'abord une Discussion. L'auteure vous le dira directement, et pourra suggérer une meilleure forme pour la contribution. Il n'y a pas de pénalité à demander.
