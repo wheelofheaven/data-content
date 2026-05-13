@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Terraformación"
 description = "Terraformación, la noción de alterar las características constitucionales de un exoplaneta, como la atmósfera o la superficie de dicho planeta, para hacer posible que una especie humanoide viva en él. La terraformación es la técnica que ha sido aplicada por los Elohim en el inicio de su proyecto Génesis de hacer habitable el planeta Tierra."
 +++

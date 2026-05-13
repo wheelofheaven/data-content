@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Cercles de culture"
 description = "Les crop circles sont des motifs complexes qui apparaissent dans les champs de cultures. Ils ont été associés à l'ufologie en raison de la croyance que certains d'entre eux sont créés par des êtres extraterrestres ou des intelligences avancées. Ces formations sont considérées comme des preuves potentielles de visites ou de communications extraterrestres. Alors que certains crop circles se sont avérés être des canulars d'origine humaine, le débat entourant leurs origines se poursuit dans le domaine de l'ufologie."
 +++

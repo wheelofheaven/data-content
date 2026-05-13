@@ -1,4 +1,5 @@
 +++
+template = "timeline-page.html"
 title = "Zeitalter der Fische"
 period = "210 v. Chr. – 1950"
 age = "pisces"

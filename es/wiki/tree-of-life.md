@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Árbol de la Vida"
 description = "Tree of Life, una metáfora bíblica que representa el cuerpo científico de conocimiento sobre cómo proporcionar los medios tecnológicos para lograr la vida eterna. Más concretamente para alargar la esperanza de vida humana hasta 1'000 años como fue el caso durante la Era de Leo."
 +++

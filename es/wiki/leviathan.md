@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Leviatán"
 description = "Leviatán, una referencia metafórica a la facción elohimiana exiliada, también conocida como la Serpiente, que tuvo que esconderse bajo los océanos para protegerse de sus oponentes."
 +++

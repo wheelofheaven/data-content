@@ -1,4 +1,5 @@
 +++
+template = "timeline-page.html"
 title = "Zeitalter des Stiers"
 period = "4'530—2'370 v. Chr."
 age = "taurus"

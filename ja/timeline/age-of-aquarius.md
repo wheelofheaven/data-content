@@ -1,4 +1,5 @@
 +++
+template = "timeline-page.html"
 title = "水瓶座の時代"
 period = "1945—..."
 age = "aquarius"

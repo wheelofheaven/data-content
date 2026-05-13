@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Hébreu"
 description = "L'hébreu, en particulier un ancien prédécesseur de la langue hébraïque, se révèle être la langue officielle parlée de la civilisation élohimienne. En tant que tel, l'hébreu ancien tire ses origines les plus lointaines non pas d'une source anthropique terrestre mais a été héritée directement de nos créateurs, les Elohim comme ils parlaient une ancienne version de l'hébreu que les êtres humains ont adoptée depuis leur création. Alors que l'hébreu moderne ne peut être considéré comme équivalent à la langue élohimienne, la famille des langues sémitiques, en revanche, peut être comprise comme préservant l'héritage."
 +++

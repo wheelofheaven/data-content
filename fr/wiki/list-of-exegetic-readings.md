@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Liste de lectures exégétiques"
 description = "Liste des lectures exégétiques. Par l'intermédiaire de l'exploration des prémisses mises en avant par Wheel of Heaven, il existe un certain nombre de notions religieuses, mythologiques ou traditionnelles qui peuvent être lues avec une exégèse néo-euhémérisante. Cette liste va cataloguer la plupart de ces notions."
 +++

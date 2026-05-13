@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Prophète"
 description = "Prophète, un ambassadeur humain qui sert de messager et de représentant au nom des Elohim, la civilisation créatrice qui a génétiquement modifié la vie sur Terre. Tout au long de l'histoire, de nombreuses personnes ont été choisies pour servir de prophètes. Chacun d'eux avait soit inspiré un nouveau mouvement religieux, soit au moins laissé une tradition écrite ou orale. Dans les deux cas, contribuer finalement à la préservation et à la mise en forme d'un héritage élohimien sur Terre."
 +++

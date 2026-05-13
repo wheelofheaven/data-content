@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "利维坦"
 description = "利维坦，隐喻被流放的埃洛希米亚派系，也被称为蛇，他们必须隐藏在海底以保护自己免受对手的伤害。"
 +++

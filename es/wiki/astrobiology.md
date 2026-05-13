@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Astrobiología"
 description = "Astrobiología, un campo científico de investigación que estudia la vida en el universo. Como la vida en el Universo no se ha observado de manera concluyente, la astrobiología está principalmente interesada en las condiciones en las que es posible la vida extraterrestre."
 +++

@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Lista de profetas y religiones"
 description = "Lista de profetas y religiones. Muchas religiones, pero no todas, se consideran testimonios establecidos de interacciones auténticas entre los Elohim (אֱלֹהִים) y los humanos en la Tierra. Estas interacciones conducen a escritos religiosos y tradiciones orales que dan testimonio de los hechos de Elohimian. Esta lista va a catalogar exhaustivamente en gran medida la mayoría de las tradiciones religiosas notables así como los profetas que conducen a tales tradiciones."
 +++

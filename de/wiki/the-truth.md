@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Die Wahrheit"
 description = "Die Wahrheit, die spekulative Vorstellung, dass, wenn genügend Zeichen von Teilwahrheiten angemessen entmystifiziert und zusammengestellt werden, eine zusammenhängende, allumfassende Erzählung entsteht, die die Chroniken darüber erzählt, wie das Leben auf der Erde von einer außerirdischen Zivilisation geschaffen wurde und was danach bis dahin folgte genau an dem Tag, an dem diese Wahrheit während der Apokalypse offenbart und neu erzählt wird."
 +++

@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Paradismo"
 description = "Paradismo, el establecimiento de un sistema socioeconómico totalmente automatizado, posterior a la escasez, a imagen del planeta de origen de los Elohim. A través de medios tecnológicos de automatización del trabajo y alivio de las dificultades, la abundancia, la prosperidad y la realización personal se convertirían en la nueva moneda de la búsqueda social."
 +++

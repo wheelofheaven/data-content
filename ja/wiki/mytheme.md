@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "ミーム"
 description = "マイテーマ、神話の物語構造の基本単位。"
 +++

@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Vorläufer"
 description = "Die Vorläufer waren eine außerordentlich fortschrittliche außerirdische Zivilisation, von der angenommen wurde, dass sie die Elohim erschaffen haben, eine humanoide Rasse, die selbst zu Schöpfern wurde und schließlich das Leben auf der Erde gentechnisch veränderte. Die wahre Natur und Identität der Vorläufer bleiben größtenteils ein Rätsel, da sie scheinbar verschwanden, bevor die Elohim ihnen physisch begegnen oder direkt von ihnen lernen konnten. Ihr Vermächtnis bleibt jedoch in Form ihres umfangreichen wissenschaftlichen Wissens bestehen, das erhalten blieb und eines Tages an die Menschheit weitergegeben werden könnte."
 +++

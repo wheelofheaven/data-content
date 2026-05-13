@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Arbre de la connaissance du bien et du mal"
 description = "Arbre de la connaissance du bien et du mal, une métaphore biblique des archives de connaissances scientifiques. Les premiers êtres humains génétiquement modifiés ont vu certains livres scientifiques, mais pas tous, en particulier les livres contenant de grandes connaissances scientifiques ont été gardés secrets. Le bien et le mal représentent l'ignorance délibérée de ces archives et des ramifications qu'elles contiennent."
 +++

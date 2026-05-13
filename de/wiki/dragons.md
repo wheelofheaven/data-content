@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Drachen"
 description = "Drachen, eine ausgestorbene Klasse biologischer Lebensformen, die ursprünglich auf dem elohimischen Heimatplaneten entwickelt wurden und sich durch besonders schreckliche und monströse Eigenschaften auszeichneten. Aufgrund der Schwere eines Vorfalls wurden Forschung und Technik auf den nahegelegenen Exoplaneten Erde verlagert und dort das Leben auf seiner Oberfläche angekurbelt. Diese Drachen sind uns aus der Paläontologie als Dinosaurier bekannt."
 +++

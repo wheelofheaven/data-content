@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Sodom und Gomorrha"
 description = "Sodom und Gomorra, zwei levantinische Städte, die durch Atomwaffen zerstört wurden, als Präventivschlag der elohimischen Zivilisation gegen eine rachsüchtige irdische Fraktion, die selbst organisiert und mächtig wurde. Das Tote Meer ist höchstwahrscheinlich ein Artefakt dieser Atomexplosionen und zeugt bis heute von den Folgen, die darauf folgten."
 +++

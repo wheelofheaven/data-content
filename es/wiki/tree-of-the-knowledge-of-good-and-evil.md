@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Árbol del Conocimiento del Bien y el Mal"
 description = "Árbol del conocimiento del bien y del mal, una metáfora bíblica para los registros del conocimiento científico. A los primeros seres humanos manipulados genéticamente se les mostraron algunos pero no todos los libros científicos, especialmente los libros que contenían grandes conocimientos científicos se mantuvieron en secreto. El bien y el mal representa la ignorancia deliberada sobre estos registros y las ramificaciones contenidas en ellos."
 +++

@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "赛博天堂论"
 description = "Cyberparadism是将先进技术与天堂般的自然相结合的审美，展望人类进步和环境和谐可持续共存的未来。"
 +++

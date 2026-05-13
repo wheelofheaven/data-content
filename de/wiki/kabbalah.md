@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Kabbala"
 description = "Kabbala (קַבָּלָה) bedeutet wörtlich „Tradition“ und ist eine Denkschule der jüdischen Mystik. Sein wichtigstes schriftliches Werk ist der Sohar."
 +++

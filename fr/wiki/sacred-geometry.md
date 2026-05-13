@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Géométrie sacrée"
 description = "Géométrie sacrée, la proposition selon laquelle des notions géométriques d'un ordre supérieur ont été utilisées dans un certain nombre de structures, de bâtiments et d'artefacts historiques suggérant que leurs constructeurs ont délibérément ajouté une dimension supplémentaire de sens à leur travail, codifiant efficacement leur héritage avec des proportions significatives et laissant ainsi empreintes digitales faisant allusion à une tradition partagée de savoir et de sagesse."
 +++

@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "モーゼ"
 description = "モーセ、出エジプト記の時代の聖書の族長。"
 +++

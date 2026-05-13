@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Liste etymologischer Lesarten"
 description = "Liste etymologischer Lesarten. Durch die Erforschung der von Wheel of Heaven dargelegten Prämissen gibt es eine Reihe religiöser, mythologischer oder traditioneller Vorstellungen, die etymologisch gelesen werden können. Diese Liste soll die meisten dieser Begriffe katalogisieren."
 +++

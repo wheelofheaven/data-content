@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Consejo de Eternos"
 description = "El Consejo de los Eternos, también Gran Consejo de los Eternos, es un órgano de gobierno que administra la civilización Elohimiana. Está constituido por 700 miembros que viven eternamente en un planeta dedicado separado de su planeta de origen. Se hace referencia a este mismo cuerpo gobernante en múltiples religiones, especialmente en las escrituras bíblicas, y ha intervenido y todavía está interviniendo en los asuntos terrenales."
 +++

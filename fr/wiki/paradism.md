@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Paradisme"
 description = "Le paradisme, la mise en place d'un système socio-économique post-rareté entièrement automatisé à l'image de la planète natale des Elohim. Grâce à des moyens technologiques d'automatisation du travail et d'atténuation des difficultés, l'abondance, la prospérité et l'épanouissement personnel deviendraient la nouvelle devise de la poursuite sociale."
 +++

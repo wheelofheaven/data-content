@@ -1,4 +1,5 @@
 +++
+template = "timeline-page.html"
 title = "Zeitalter der Jungfrau"
 period = "13'170—11'010 v. Chr."
 age = "virgo"

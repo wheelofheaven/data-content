@@ -1,4 +1,5 @@
 +++
+template = "timeline-page.html"
 title = "Âge du Sagittaire"
 period = "19'650—17'490BC"
 age = "sagittarius"

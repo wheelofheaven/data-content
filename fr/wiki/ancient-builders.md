@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Anciens Bâtisseurs"
 description = "Les anciens constructeurs, parfois aussi simplement appelés la race des constructeurs, la proposition selon laquelle un nombre inconnu de civilisations de constructeurs coexistantes ou successives sont responsables d'avoir construit des structures architecturales durables et hyper-résilientes qui ont duré au moins des milliers d'années . Bien que ces structures puissent ou non avoir été construites par la même civilisation, elles peuvent être caractérisées comme ayant été construites par d'anciens constructeurs par un certain nombre d'empreintes digitales particulières telles que des éléments de construction mégalithiques, l'imbrication polygonale de ces éléments et des alignements astronomiques."
 +++

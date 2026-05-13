@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Neue Gebote"
 description = "Die Neuen Gebote, eine Reihe von Lehren, die von Jahwe vorgelegt wurden und die darlegen, was die Menschheit berücksichtigen könnte, um voranzukommen und das Goldene Zeitalter einzuleiten, das jetzt am Beginn des Wassermannzeitalters steht."
 +++

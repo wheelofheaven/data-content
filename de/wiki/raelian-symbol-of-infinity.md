@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Raëlisches Symbol der Unendlichkeit"
 description = "Raëlismus, eine neue religiöse Bewegung, die auf einen Franzosen zurückgeht, der angeblich den Vertreter einer außerirdischen Zivilisation, Yahweh, getroffen hat, zeigt ein Symbol, das das Hakenkreuz in einem Davidstern miteinander verwebt. Es handelt sich um zwei alte Symbole mit einer langen historischen Tradition, die zwei Kernaspekte der Unendlichkeit darstellen sollen. Die Unendlichkeit selbst ist die genaueste Beschreibung der Physikalität der Realität. Diese beiden Kernaspekte sind die Unendlichkeit der Zeit, die durch das Hakenkreuz symbolisiert wird, und die Unendlichkeit des Raumes, die durch den Davidstern symbolisiert wird."
 +++

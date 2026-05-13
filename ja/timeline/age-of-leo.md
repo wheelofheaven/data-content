@@ -1,4 +1,5 @@
 +++
+template = "timeline-page.html"
 title = "獅子座の時代"
 period = "紀元前11'010—紀元前8'850"
 age = "leo"

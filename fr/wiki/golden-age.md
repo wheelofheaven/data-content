@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Âge d'Or"
 description = "L'âge d'or, le moment où l'humanité a atteint un niveau de sophistication scientifique et de prouesses technologiques pour surmonter l'autodestruction, nous permettant d'entrer dans une ère d'abondance et de richesse où nous apprenons la vérité sur notre propre passé et recevons l'héritage promis par nos Pères, les Elohim. Cet âge d'or peut coïncider avec l'entrée dans l'ère du Verseau et un grand réveil mondial d'une hauteur inconnue."
 +++

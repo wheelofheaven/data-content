@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "圣经"
 description = "圣经，一套见证所发生事件的古代宗教经典，以便人类在启示录时代真理再次被揭示时有证据。"
 +++

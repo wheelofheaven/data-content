@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Tierkreis"
 description = "Der Tierkreis ist ein Band am Himmel, das von der Sonne durchquert wird und als Ekliptik bezeichnet wird. Innerhalb dieses Bandes gibt es 12 Sternkonstellationen, die jeweils nach einem Tier benannt sind. Der Tierkreis liefert daher die zoologischen Symbole, um den Stand der Sonne am Himmel richtig zu benennen. Im Laufe der Jahre verschiebt sich die relative Position des Tierkreises aufgrund des Phänomens der Präzession entlang der Ekliptik nach Osten. Mit diesem Verständnis kann der Tierkreis als Grundlage für die Benennung von 12 Häusern innerhalb eines langfristigen Zyklus verstanden werden, die jeweils ein bestimmtes Weltzeitalter bezeichnen."
 +++

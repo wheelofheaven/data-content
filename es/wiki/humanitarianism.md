@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Humanitarismo"
 description = "El humanitarismo, una doctrina socioeconómica propuesta presentada por Yahweh como parte de los Nuevos Mandamientos que se centra en la preservación del futuro de la humanidad mediante la implementación de un tipo particular de igualdad de oportunidades. Beneficiando en última instancia el talento y la destreza, la abolición de la herencia y el establecimiento de contratos jubilares de propiedad limitados en el tiempo. En términos más generales, el humanitarismo es la doctrina de que el deber de las personas es promover el bienestar humano."
 +++

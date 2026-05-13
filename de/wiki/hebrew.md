@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Hebräisch"
 description = "Hebräisch, insbesondere ein alter Vorläufer der hebräischen Sprache, erweist sich als die offizielle gesprochene Sprache der elohimischen Zivilisation. Daher hat das alte Hebräisch seinen entferntesten Ursprung nicht in einer anthropogenen Quelle auf der Erde, sondern wurde direkt von unseren Schöpfern, den Elohim, geerbt, da sie eine alte Version des Hebräischen sprachen, die die Menschen seit ihrer Entstehung übernommen haben. Während das moderne Hebräisch nicht als gleichwertig mit der elohimischen Sprache angesehen werden kann, kann man andererseits davon ausgehen, dass die semitische Sprachfamilie das Erbe bewahrt."
 +++

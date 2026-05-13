@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Komparative Mythologie"
 description = "Vergleichende Mythologie, ein Forschungsgebiet, das Mythen aus Kulturen vergleicht, um gemeinsame Motive zu identifizieren. Untersuchungen haben gezeigt, dass es in den mythologischen Nacherzählungen verschiedener Kulturen erhebliche Überschneidungen gibt. Diese Überschneidung legt den Schluss nahe, dass diese gemeinsamen Motive in allen Kulturen universelle Ereignisse widerspiegeln, die mit hoher Wahrscheinlichkeit stattgefunden haben."
 +++

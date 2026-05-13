@@ -1,4 +1,5 @@
 +++
+template = "timeline-page.html"
 title = "Эпоха Рыб"
 period = "210 г. до н.э.—1950 г."
 age = "pisces"

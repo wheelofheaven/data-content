@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Humanitarismus"
 description = "Humanitarismus, eine von Jahwe als Teil der Neuen Gebote vorgeschlagene sozioökonomische Doktrin, die sich auf die Bewahrung der Zukunft der Menschheit durch die Umsetzung einer bestimmten Art von Chancengleichheit konzentriert. Letztlich zugunsten von Talent und Können, der Abschaffung der Erbschaft und der Einführung zeitlich begrenzter Jubiläumseigentumsverträge. Allgemeiner ausgedrückt ist Humanität die Doktrin, dass es die Pflicht der Menschen ist, das menschliche Wohlergehen zu fördern."
 +++

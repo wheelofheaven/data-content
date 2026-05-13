@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Pantropía"
 description = "Pantropía, la noción de modificar y adaptar genéticamente a la especie humana para poder vivir en otro planeta que de otro modo sería hostil a la constitución actual y las capacidades biológicas de la especie. La continuidad establecida por los Elohim de haber manipulado genéticamente a la especie humana en el planeta Tierra a su propia imagen puede entenderse como una instancia de pantropía."
 +++

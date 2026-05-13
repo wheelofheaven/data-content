@@ -1,4 +1,5 @@
 +++
+template = "timeline-page.html"
 title = "Эпоха Близнецов"
 period = "6690—4530 до н. э."
 age = "gemini"

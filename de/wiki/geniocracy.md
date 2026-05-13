@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Geniokratie"
 description = "Geniokratie, ein von Jahwe als Teil der Neuen Gebote vorgeschlagenes politisches System, das intelligente Individuen aus der gesamten Menschheit in politische Positionen wählt und daher Intelligenz nur als Attribut der Eignung anerkennt und nicht Reichtum, Klasse, Stärke oder Macht."
 +++

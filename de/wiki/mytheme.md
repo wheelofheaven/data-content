@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Mythem"
 description = "Mythos, eine grundlegende Einheit mythologischer Erzählstruktur."
 +++

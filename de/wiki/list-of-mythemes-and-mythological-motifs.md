@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Liste von Mythemen und mythologischen Motiven"
 description = "Liste der Mythen und mythologischen Motive. Durch die Erforschung der von Wheel of Heaven aufgestellten Prämissen gibt es eine Reihe von Mythen und mythologischen Motiven, die über die Interpretation der Arbeitshypothese gelesen werden können. Diese Liste soll den Großteil dieser Motive katalogisieren."
 +++

@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Géniocratie"
 description = "Géniocratie , un système politique proposé par Yahweh dans le cadre des Nouveaux Commandements qui élit des individus intelligents à des postes politiques regroupés dans l'ensemble de l'humanité, ne reconnaissant donc l'intelligence que comme un attribut d'éligibilité plutôt que la richesse, la classe, la force ou le pouvoir."
 +++

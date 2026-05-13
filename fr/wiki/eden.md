@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Éden"
 description = "Eden, une région spécifique du supercontinent pangéen antédiluvien où l'une des sept équipes de créateurs élohimiens était assez talentueuse et aurait créé le paradis sur Terre. Le jardin d'Eden fait référence à un site de recherche fermé exploité par des chercheurs élohimiens dans la région d'Eden."
 +++

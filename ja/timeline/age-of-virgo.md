@@ -1,4 +1,5 @@
 +++
+template = "timeline-page.html"
 title = "乙女座の時代"
 period = "紀元前13'170—紀元前11'010"
 age = "virgo"

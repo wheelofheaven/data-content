@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Lista de mitos y motivos mitológicos"
 description = "Relación de mitemas y motivos mitológicos. Mediante la exploración de las premisas presentadas por Wheel of Heaven, hay una serie de mitemas y motivos mitológicos que se pueden leer a través de la interpretación de la hipótesis de trabajo. Esta lista va a catalogar la mayoría de estos motivos."
 +++

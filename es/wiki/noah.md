@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Noé"
 description = "Noé, un patriarca bíblico nacido en tiempos antediluvianos. Fue nominado para participar en un gigantesco proyecto de preservación destinado a salvaguardar la vida creada en la Tierra del cataclismo pendiente."
 +++

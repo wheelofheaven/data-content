@@ -1,4 +1,5 @@
 +++
+template = "timeline-page.html"
 title = "Эпоха Весов"
 period = "15'330—13'170 до н.э."
 age = "libra"

@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Mitema"
 description = "Mitema, unidad fundamental de la estructura narrativa mitológica."
 +++

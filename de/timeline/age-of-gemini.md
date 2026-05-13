@@ -1,4 +1,5 @@
 +++
+template = "timeline-page.html"
 title = "Zeitalter der Zwillinge"
 period = "6'690—4'530 v. Chr."
 age = "gemini"

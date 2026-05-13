@@ -1,4 +1,5 @@
 +++
+template = "timeline-page.html"
 title = "摩羯座时代"
 period = "公元前 21'810—19'650"
 age = "capricorn"

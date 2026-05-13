@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Antediluviano"
 description = "Antediluviano, el período de tiempo de la vida en la Tierra que precedió al Gran Diluvio. Más específicamente, el período antediluviano se refiere a un estado del mundo donde la civilización humana había hecho un gran progreso tecnológico y había producido descendencia con un grupo de Elohims que habían sido desterrados para permanecer en la Tierra."
 +++

@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Pluralismo cósmico"
 description = "El pluralismo cósmico, también conocido simplemente como la pluralidad de mundos, es la idea de que deben existir mundos múltiples, pero desconocidos, además de la Tierra, donde debe estar presente la vida inteligente. La pura inmensidad del espacio apoya fuertemente esta idea."
 +++

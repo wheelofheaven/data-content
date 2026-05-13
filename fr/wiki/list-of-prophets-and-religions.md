@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Liste de prophètes et de religions"
 description = "Liste des prophètes et des religions. Beaucoup de religions, mais pas tout à fait, sont considérées comme des témoignages établis d'interactions authentiques entre les Elohim (אֱלֹהִים) et les humains sur Terre. Ces interactions conduisent à des écrits religieux et à des traditions orales qui témoignent des faits et gestes élohimiens. Cette liste va cataloguer de manière exhaustive dans une large mesure la majorité des traditions religieuses notables ainsi que les prophètes qui conduisent à de telles traditions."
 +++

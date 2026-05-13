@@ -1,4 +1,5 @@
 +++
+template = "timeline-page.html"
 title = "Эпоха Овна"
 period = "2370—210 гг. до н. э."
 age = "aries"

@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "La Tradición"
 description = "La Tradición, un conjunto de verdades perennes orales y escritas que han sido transmitidas a lo largo de muchas generaciones y a lo largo de varias civilizaciones y por lo tanto han mantenido intacto el depósito de conocimiento que se originó en un pasado remoto. La Tradición no se refiere necesariamente a un conjunto específico de escrituras o libros, sino que puede entenderse como el legado cultural y mitológico de todas las personas individuales que formalizaron las verdades supremas de manera codificada y supuestamente incorruptible."
 +++

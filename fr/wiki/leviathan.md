@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Léviathan"
 description = "Léviathan, une référence métaphorique à la faction Elohimienne exilée, également connue sous le nom de Serpent, qui a dû se cacher sous les océans pour se protéger de ses adversaires."
 +++

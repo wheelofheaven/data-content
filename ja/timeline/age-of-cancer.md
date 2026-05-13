@@ -1,4 +1,5 @@
 +++
+template = "timeline-page.html"
 title = "癌の時代"
 period = "紀元前 8'850—6'690"
 age = "cancer"

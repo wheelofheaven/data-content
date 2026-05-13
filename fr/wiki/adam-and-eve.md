@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Adam et Ève"
 description = "Adam et Eve, deux individus clés des premiers prototypes humains qui ont été conçus avec succès. Ils faisaient partie d'une communauté distincte à l'origine du genre humain qui vivait à l'époque du Jardin d'Eden en Eden. En concubine avec des créateurs exilés, une faction rebelle Elohimienne connue sous le nom de Serpent, les Adamites ont donné naissance à une progéniture hybride. Ces descendants se sont assimilés à la communauté Adamite, fusionnant ainsi en un groupe distinct singulier d'Adamites hybrides et non hybrides."
 +++

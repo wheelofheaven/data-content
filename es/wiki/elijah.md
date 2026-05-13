@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Elías"
 description = "Elijah, un patriarca y profeta bíblico del período del Primer Templo."
 +++

@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Genèse"
 description = "Genèse, étymologiquement, le premier livre de la Bible, également connu sous le nom de Livre de la Genèse ou B'reshit (בְּרֵאשִׁית) en hébreu. Au sens figuré, la somme de tous les projets créationnels menés sur la planète Terre par les Elohim qui ont duré 7 Grands Mois, soit environ 15'000 ans."
 +++

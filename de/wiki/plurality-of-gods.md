@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Pluralität der Götter"
 description = "Die Pluralität der Götter stellt die besondere Interpretation dar, dass die biblische Tradition die Existenz mehrerer göttlicher Wesen bezeugt. Dieses Konzept umfasst auch den Glauben, dass diese göttlichen Wesen einst mit Menschen verwandt waren und dass Menschen dementsprechend das Potenzial besitzen, sich in Zukunft zu gottähnlichen Wesen zu entwickeln."
 +++

@@ -1,4 +1,5 @@
 +++
+template = "timeline-page.html"
 title = "おうし座の時代"
 period = "紀元前 4'530—紀元前 2'370"
 age = "taurus"

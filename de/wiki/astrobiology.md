@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Astrobiologie"
 description = "Astrobiologie, ein wissenschaftliches Forschungsgebiet, das das Leben im Universum untersucht. Da das Leben im Universum noch nicht vollständig beobachtet wurde, interessiert sich die Astrobiologie vor allem dafür, unter welchen Bedingungen außerirdisches Leben möglich ist."
 +++

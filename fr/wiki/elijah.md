@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Élie"
 description = "Elijah, un patriarche biblique et prophète de la période du Premier Temple."
 +++

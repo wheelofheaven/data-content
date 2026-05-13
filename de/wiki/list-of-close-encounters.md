@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Liste von Nahbegegnungen"
 description = "Liste der Nahbegegnungen, eine ausführliche Auflistung aller Nahbegegnungen mit unbekannten Flugobjekten, die von der Antike bis in die Neuzeit gemeldet wurden."
 +++

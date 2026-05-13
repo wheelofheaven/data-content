@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Esvástica"
 description = "La esvástica, un símbolo religioso y cultural exhibido por muchas culturas antiguas hasta el día de hoy. Si bien generalmente se asocia con la noción de bienestar, buena suerte y connotaciones positivas similares, en el raëlismo se considera que representa simultáneamente el natore cíclico del tiempo, así como la eterna continuidad del tiempo (infinito)."
 +++

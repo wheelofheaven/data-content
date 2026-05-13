@@ -1,4 +1,5 @@
 +++
+template = "timeline-page.html"
 title = "Zeitalter des Löwen"
 period = "11'010–8'850 v. Chr."
 age = "leo"

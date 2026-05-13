@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Círculos de las cosechas"
 description = "Los círculos de las cosechas son patrones intrincados que aparecen en los campos de cultivo. Se han asociado con la ufología debido a la creencia de que algunos de ellos son creados por seres extraterrestres o inteligencias avanzadas. Estas formaciones se ven como evidencia potencial de visitas o comunicaciones extraterrestres. Si bien se ha demostrado que algunos círculos de cultivos son engaños hechos por humanos, el debate en torno a sus orígenes continúa dentro del campo de la ufología."
 +++

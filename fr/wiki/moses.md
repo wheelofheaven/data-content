@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Moïse"
 description = "Moïse, un patriarche biblique de l'époque de l'Exode."
 +++

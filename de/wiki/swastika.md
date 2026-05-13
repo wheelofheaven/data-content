@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Swastika"
 description = "Hakenkreuz, ein religiöses und kulturelles Symbol, das bis heute in vielen alten Kulturen vertreten ist. Während es normalerweise mit der Vorstellung von Wohlbefinden, Glück und ähnlichen positiven Konnotationen verbunden ist, wird es im Raëlismus als gleichzeitige Darstellung des zyklischen Natore der Zeit sowie der ewigen Kontinuität der Zeit (Unendlichkeit) angesehen."
 +++

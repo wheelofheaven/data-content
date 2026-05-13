@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Nuevos Mandamientos"
 description = "Los Nuevos Mandamientos, una serie de doctrinas presentadas por Yahweh que elaboran lo que la humanidad podría tener en cuenta para progresar y dar paso a la Edad de Oro, ahora al comienzo de la Era de Acuario."
 +++

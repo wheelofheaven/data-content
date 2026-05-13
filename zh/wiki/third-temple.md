@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "第三圣殿"
 description = "第三圣殿，耶洛因的住所，应该在天启时期重建。"
 +++

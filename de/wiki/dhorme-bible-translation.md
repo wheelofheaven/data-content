@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Dhorme-Bibelübersetzung"
 description = "Dhorme-Bibel, eine französische Bibelübersetzung des französischen Assyrologen und Semitologen Édouard Dhorme (1881–1966), die für ihren wörtlichen Übersetzungsstil bekannt ist, der die ursprünglichen Bedeutungen in der französischen Sprache beibehält."
 +++

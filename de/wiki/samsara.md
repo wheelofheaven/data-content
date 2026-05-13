@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Samsara"
 description = "Saṃsāra, eine buddhistische, jainistische und hinduistische Vorstellung vom Kreislauf von Tod und Wiedergeburt. Während das Wort selbst nicht kanonisch ist, bezieht sich Samsara auf den Kreislauf der wiederkehrenden Selbstzerstörung, wenn die fortschreitende Verfeinerung wissenschaftlicher und technologischer Mittel zur Kriegstreiberei und Abschreckung eingesetzt wird. Die Überwindung des Kreislaufs von Tod und Wiedergeburt ist die ultimative Voraussetzung für den Eintritt in das Goldene Zeitalter des Überflusses und des Wohlstands."
 +++

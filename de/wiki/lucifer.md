@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Luzifer"
 description = "Luzifer (lateinisch für Lichtbringer oder hêlēl, hebräisch: הֵילֵל, was dasselbe bedeutet), nicht zu verwechseln mit Satan, ist ein Eloha (אֱלוֹהַּ) und der Vertreter einer Fraktion innerhalb der Elohim (אֱלֹהִים), die ein Gedeihen unterstützt menschliche Zivilisation auf der Erde. Es ist kein Eigenname, sondern ein metaphorischer Begriff für die Rolle, Licht zu bringen. Der Name Luzifer und sein semitisches Gegenstück hêlēl beziehen sich beide auf den Morgenstern Venus, der bei Sonnenaufgang vor der Sonne aufgeht"
 +++

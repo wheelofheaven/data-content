@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Liste de sites mégalithiques"
 description = "Liste des sites mégalithiques. Une vaste énumération de sites mégalithiques connus qui présentent plus ou moins clairement les empreintes digitales de qualités architecturales avancées."
 +++

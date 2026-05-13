@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Baum der Erkenntnis von Gut und Böse"
 description = "Baum der Erkenntnis von Gut und Böse, eine biblische Metapher für wissenschaftliche Wissensaufzeichnungen. Den ersten gentechnisch veränderten Menschen wurden einige, aber nicht alle wissenschaftlichen Bücher gezeigt, insbesondere Bücher mit großen wissenschaftlichen Erkenntnissen wurden geheim gehalten. Das Gute und das Böse stehen für die bewusste Unkenntnis dieser Aufzeichnungen und der darin enthaltenen Auswirkungen."
 +++

@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Militärische Vertuschung der Exobiologie"
 description = "Unter militärischer Vertuschung der Exobiologie versteht man die Idee, dass militärische Organisationen oder Regierungen Informationen über die Erforschung außerirdischen Lebens oder Begegnungen mit Außerirdischen verheimlichen. Dies deutet darauf hin, dass es verborgenes Wissen oder Beweise im Zusammenhang mit der Existenz von Leben außerhalb der Erde gibt und dass militärische Einheiten die Veröffentlichung dieser Informationen an die Öffentlichkeit aktiv unterdrücken oder kontrollieren. Befürworter dieser Theorie argumentieren, dass das Militär an der Erfassung oder Untersuchung von UFO-Sichtungen beteiligt ist, geheime Forschungen zu außerirdischen Lebensformen durchführt oder sogar Beweise für direkten Kontakt mit Außerirdischen verbirgt. Die Vorstellung einer militärischen Vertuschung der Exobiologie impliziert einen bewussten Versuch, Informationen über potenzielle außerirdische Phänomene aus verschiedenen Gründen zurückzuhalten oder zu manipulieren, beispielsweise aus Gründen der nationalen Sicherheit oder der gesellschaftlichen Stabilität."
 +++

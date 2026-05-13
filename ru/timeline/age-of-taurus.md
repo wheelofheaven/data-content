@@ -1,4 +1,5 @@
 +++
+template = "timeline-page.html"
 title = "Эпоха Тельца"
 period = "4530—2370 гг. до н. э."
 age = "taurus"

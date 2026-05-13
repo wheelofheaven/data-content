@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Pantropie"
 description = "Pantropie, la notion de modifier génétiquement et d'adapter l'espèce humaine pour pouvoir vivre sur une autre planète autrement hostile à la constitution actuelle et aux capacités biologiques de l'espèce. La continuité établie par les Elohim pour avoir génétiquement modifié l'espèce humaine sur la planète Terre à leur image peut être comprise comme un exemple de pantropie."
 +++

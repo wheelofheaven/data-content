@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Schlange"
 description = "Schlange, ein metaphorischer Hinweis auf eine widerspenstige Fraktion unter den Elohim (אֱלֹהִים). Nachdem die ersten Menschen auf der Erde synthetisch hergestellt wurden, hielt es ein Teil der technischen Elohim für wichtig, diese neuen menschlichen Geschöpfe gleichermaßen zu erziehen. Die Ausbildung wurde den ersten Menschen gegeben, und die dafür verantwortlichen Elohim, bekannt als die Schlange, wurden wegen ihres Vergehens verurteilt und verbannt, um auf der Erde zu bleiben. Einer der Hauptakteure dieser Fraktion ist als Luzifer, der Lichtbringer, bekannt."
 +++

@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "神话主题"
 description = "神话主题，神话叙事结构的基本单位。"
 +++

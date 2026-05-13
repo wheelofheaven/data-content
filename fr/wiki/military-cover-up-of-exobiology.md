@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Dissimulation militaire de l'exobiologie"
 description = "La dissimulation militaire de l'exobiologie fait référence à l'idée que les organisations militaires ou les gouvernements dissimulent des informations sur l'étude de la vie extraterrestre ou des rencontres extraterrestres. Cela suggère qu'il existe des connaissances ou des preuves cachées liées à l'existence de la vie au-delà de la Terre, et que des entités militaires suppriment ou contrôlent activement la diffusion de ces informations au public. Les partisans de cette théorie soutiennent que l'armée est impliquée dans la capture ou l'enquête sur les observations d'OVNI, la conduite de recherches secrètes sur les formes de vie extraterrestres ou même la dissimulation de preuves de contact direct avec des extraterrestres. La notion de dissimulation militaire de l'exobiologie implique un effort délibéré pour retenir ou manipuler des informations sur des phénomènes extraterrestres potentiels pour diverses raisons, telles que la sécurité nationale ou la stabilité sociétale."
 +++

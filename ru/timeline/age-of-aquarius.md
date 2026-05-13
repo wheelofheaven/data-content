@@ -1,4 +1,5 @@
 +++
+template = "timeline-page.html"
 title = "Эпоха Водолея"
 period = "1945—..."
 age = "aquarius"

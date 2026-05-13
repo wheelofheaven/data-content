@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Apocalypse"
 description = "Apocalypse, grec pour l'Apocalypse, fait référence à l'âge de l'Apocalypse qui précède l'inauguration de l'âge d'or. La révélation révélée à l'époque de l'apoclypse est la vérité circonstancielle préservée par les écritures religieuses, en particulier la Bible, à savoir que les dieux d'autrefois sont des gens d'une autre planète et ont été confondus avec des êtres surnaturels en raison de leurs capacités technologiques très avancées."
 +++

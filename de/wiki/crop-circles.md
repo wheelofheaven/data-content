@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Kornkreise"
 description = "Kornkreise sind komplizierte Muster, die auf Feldern mit Feldfrüchten erscheinen. Sie wurden mit der Ufologie in Verbindung gebracht, da man glaubte, dass einige von ihnen von außerirdischen Wesen oder fortgeschrittenen Intelligenzen erschaffen wurden. Diese Formationen werden als potenzieller Beweis für außerirdische Besuche oder Kommunikation angesehen. Während es sich bei einigen Kornkreisen nachweislich um von Menschenhand geschaffene Fälschungen handelt, wird die Debatte über ihren Ursprung im Bereich der Ufologie fortgesetzt."
 +++

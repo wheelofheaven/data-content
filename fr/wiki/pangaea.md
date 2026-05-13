@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Pangée"
 description = "La Pangée, un supercontinent antédiluvien qui a été terraformé à partir d'un fond marin peu profond à l'échelle de la Terre par les Elohim peu de temps après leur arrivée sur la planète Terre et a commencé à enquêter sur sa constitution."
 +++

@@ -1,4 +1,5 @@
 +++
+template = "timeline-page.html"
 title = "Edad de Géminis"
 period = "6'690—4'530BC"
 age = "gemini"

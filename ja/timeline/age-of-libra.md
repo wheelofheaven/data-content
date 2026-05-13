@@ -1,4 +1,5 @@
 +++
+template = "timeline-page.html"
 title = "天秤座の時代"
 period = "紀元前15'330—紀元前13'170"
 age = "libra"

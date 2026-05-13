@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Nouveaux Commandements"
 description = "Les Nouveaux Commandements, une série de doctrines avancées par Yahweh qui précisent ce que l'humanité pourrait prendre en compte pour progresser et entrer dans l'Age d'Or, maintenant au début de l'Age du Verseau."
 +++

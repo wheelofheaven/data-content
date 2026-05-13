@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Sendys Bedingungen der Kohärenz"
 description = "Sendys Kohärenzbedingungen, eine Reihe von Bedingungen, die erfüllt sein müssen, um eine kohärente und genaue Lesart der Bibel zu ermöglichen, wobei die Elohim als Individuen einer interstellaren Zivilisation verstanden werden, die fälschlicherweise für Gott gehalten werden."
 +++

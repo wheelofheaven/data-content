@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Lista de encuentros cercanos"
 description = "Lista de encuentros cercanos, una enumeración extensa de todos los encuentros cercanos con objetos voladores no identificados que se han informado desde la antigüedad hasta la actualidad."
 +++

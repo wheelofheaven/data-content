@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Kosmischer Pluralismus"
 description = "Kosmischer Pluralismus, auch einfach als Pluralität der Welten bekannt, ist die Idee, dass zusätzlich zur Erde, auf der intelligentes Leben vorhanden sein muss, mehrere, noch unbekannte Welten existieren müssen. Die schiere Weite des Weltraums unterstützt diese Idee stark."
 +++

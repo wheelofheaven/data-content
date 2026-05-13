@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Moisés"
 description = "Moisés, un patriarca bíblico de los tiempos del Éxodo."
 +++

@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Neo-Euhemerismo"
 description = "El neoeuhemerismo es un intento filosófico de racionalizar la mitología, en particular la naturaleza de los dioses y los seres divinos, en términos históricos al interpretar las características aparentemente sobrenaturales atribuidas a los dioses como consecuencia de su sofisticación tecnológica y científica. El neoeuhemerismo puede entenderse como el paradigma filosófico para equiparar a los dioses antiguos con una civilización espacial, posiblemente de origen extraterrestre. Por lo tanto, la hipótesis presentada aquí en Wheel of Heaven comparte un ADN similar con las premisas neo-euhemerísticas."
 +++

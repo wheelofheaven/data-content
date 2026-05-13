@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Antediluvianisch"
 description = "Vorsintflutlich, der Zeitraum des Lebens auf der Erde, der der großen Sintflut vorausgeht. Genauer gesagt bezieht sich die vorsintflutliche Zeit auf einen Zustand der Welt, in dem die menschliche Zivilisation große technologische Fortschritte gemacht und Nachkommen mit einer Gruppe von Elohim hervorgebracht hat, die verbannt worden war, um auf der Erde zu bleiben."
 +++

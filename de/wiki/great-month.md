@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Großer Monat"
 description = "Großer Monat, auch bekannt als astrologisches Zeitalter oder Weltzeitalter, ein Zeitraum von etwa 2.160 Jahren, die Zeitspanne, die das Präzessionsphänomen benötigt, um das Tierkreisband auf der Ekliptik um 30 Grad oder ein Zwölftel nach Westen zu verschieben des vollen Umfangs von 360 Grad. 12 großartige Monate ergeben ein großartiges Jahr."
 +++

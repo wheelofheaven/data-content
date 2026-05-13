@@ -1,4 +1,5 @@
 +++
+template = "timeline-page.html"
 title = "Ère du Capricorne"
 period = "21'810—19'650 avant J.C"
 age = "capricorn"

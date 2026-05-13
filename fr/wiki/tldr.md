@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "tl;dr"
 description = "tl;dr est l'abréviation de too long; didn't read. Elle est couramment utilisée pour résumer de longs articles, messages ou discussions. Dans notre wiki, nous étiquetons le premier paragraphe de chaque article comme tl;dr pour indiquer qu'il sert de résumé concis du contenu qui suit. La section tl;dr est légèrement stylisée avec sa propre police serif, ce qui la rend facilement reconnaissable par rapport au reste de l'article. En incluant une section tl;dr, nous offrons à nos lecteurs un aperçu rapide des points principaux, leur permettant de saisir les informations clés sans avoir à plonger dans l'intégralité de l'article."
 hidden = true

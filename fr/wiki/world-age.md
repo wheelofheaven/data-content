@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Ère du monde"
 description = "Ère du monde, également connu sous le nom d'ère astrologique, un terme familier pour désigner un grand mois par son nom zodiacal. Par exemple, en ce moment, nous passons de l'ère des Poissons à l'ère du Verseau."
 iceberg = 2

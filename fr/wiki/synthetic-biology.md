@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Biologie synthétique"
 description = "La biologie synthétique est un domaine interdisciplinaire qui combine les principes de la biologie, de la génétique et de l'ingénierie pour concevoir et construire des systèmes biologiques artificiels, des circuits génétiques et des organismes dotés de nouvelles fonctions ou caractéristiques. Cela implique la modification ou la création délibérée de matériel génétique et l'ingénierie de composants biologiques pour programmer des cellules vivantes afin qu'elles effectuent des tâches spécifiques ou présentent des traits souhaités. La biologie synthétique vise à comprendre et à réorganiser les systèmes biologiques."
 +++

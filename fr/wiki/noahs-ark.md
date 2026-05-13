@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Arche de Noé"
 description = "L'Arche de Noé, un projet mondial de préservation de la vie mené par Noé et les Elohim exilés laissés sur Terre, incarné finalement par un vaisseau spatial en orbite autour de la Terre lors de l'événement cataclysmique connu sous le nom de Grand Déluge, protégeant presque toutes les créations élohimiennes."
 +++

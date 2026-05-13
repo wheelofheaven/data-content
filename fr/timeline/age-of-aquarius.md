@@ -1,4 +1,5 @@
 +++
+template = "timeline-page.html"
 title = "Ère du Verseau"
 period = "1945—..."
 age = "aquarius"

@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "エリヤ"
 description = "エリヤ、聖書の族長であり第一神殿時代の預言者。"
 +++

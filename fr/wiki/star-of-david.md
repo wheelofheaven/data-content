@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Étoile de David"
 description = "Étoile de David, un ancien symbole connu sous de nombreux noms tels que le Bouclier de David (Magen David) ou le Sceau de Salomon. Bien qu'il soit généralement associé à la culture juive et à la foi juive, ce symbole est représenté par de nombreuses cultures à divers moments de l'histoire humaine. Dans le raëlisme, sa signification est interprétée pour représenter à la fois l'équivalence de toutes les échelles d'existence (communément désignée par le tristement célèbre dicton hermétique \"Comme ci-dessus, donc ci-dessous\") ainsi que l'immensité sans fin de l'espace (infini)."
 +++

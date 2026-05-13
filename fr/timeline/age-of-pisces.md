@@ -1,4 +1,5 @@
 +++
+template = "timeline-page.html"
 title = "Âge des Poissons"
 period = "210 avant JC—1950"
 age = "pisces"

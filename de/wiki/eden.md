@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Eden"
 description = "Eden, eine bestimmte Region des vorsintflutlichen pangäischen Superkontinents, in der eines der sieben elohimischen Schöpferteams sehr talentiert war und das Paradies auf Erden geschaffen haben soll. Der Garten Eden bezieht sich auf einen geschlossenen Forschungsstandort, der von elohimischen Forschern in der Region Eden betrieben wird."
 +++

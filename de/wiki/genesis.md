@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Genesis"
 description = "Genesis, etymologisch gesehen das erste Buch der Bibel, auf Hebräisch auch als Buch Genesis oder B'reshit (בְּרֵאשִׁית) bekannt. Im übertragenen Sinne handelt es sich um die Summe aller von den Elohim auf dem Planeten Erde durchgeführten Schöpfungsprojekte, die sieben große Monate dauerten, was ungefähr 15.000 Jahren entspricht."
 +++

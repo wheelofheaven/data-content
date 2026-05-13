@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Liste megalithischer Stätten"
 description = "Liste megalithischer Stätten. Eine ausführliche Auflistung bekannter megalithischer Stätten, die mehr oder weniger deutlich die Fingerabdrücke fortschrittlicher architektonischer Bauqualitäten aufweisen."
 +++

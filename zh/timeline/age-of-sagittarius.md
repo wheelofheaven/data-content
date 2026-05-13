@@ -1,4 +1,5 @@
 +++
+template = "timeline-page.html"
 title = "射手座时代"
 period = "19'650—17'490BC"
 age = "sagittarius"

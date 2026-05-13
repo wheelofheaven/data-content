@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Jésus"
 description = "Jésus-Christ, un prophète juif qui existait à la fin de la période du Second Temple et est le principal protagoniste des Évangiles. Il a été chargé de la mission de diffuser les écritures bibliques aussi loin que possible, afin que les écrits puissent servir de preuve pour toute l'humanité lorsque l'ère du Verseau, l'âge d'or, expliquerait finalement tout alors que nous commençons à répéter ce que le Elohim a commencé lui-même au début de la Genèse."
 +++

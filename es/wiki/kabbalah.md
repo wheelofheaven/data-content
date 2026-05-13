@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Cábala"
 description = "La Cabalá (קַבָּלָה), que literalmente significa 'tradición', es una escuela de pensamiento del misticismo judío. Su principal obra escrita es conocida como el Zohar."
 +++

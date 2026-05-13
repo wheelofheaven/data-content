@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Geometría Sagrada"
 description = "Geometría sagrada, la proposición de que se han utilizado nociones geométricas de un orden superior en una serie de estructuras, edificios y artefactos históricos, lo que sugiere que sus constructores agregaron deliberadamente una dimensión adicional de significado a su trabajo, codificando efectivamente su legado con proporciones significativas y, por lo tanto, dejando huellas dactilares aludiendo a una tradición compartida de conocimiento y sabiduría."
 +++

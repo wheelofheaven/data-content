@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Adamiten"
 description = "Adamiten, eine eigenständige Gemeinschaft ursprünglich der menschlichen Gattung, die während der Tage des Gartens Eden in Eden lebte. In Konkubination mit verbannten Schöpfern, einer rebellischen elohimischen Fraktion namens Schlange, brachten die Adamiten hybride Nachkommen zur Welt. Diese Nachkommen assimilierten sich in die Adamitengemeinschaft und verschmolzen so zu einer einzigartigen Gruppe hybrider und nichthybrider Adamiten."
 iceberg = 3

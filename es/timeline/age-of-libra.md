@@ -1,4 +1,5 @@
 +++
+template = "timeline-page.html"
 title = "Era de Libra"
 period = "15'330—13'170BC"
 age = "libra"

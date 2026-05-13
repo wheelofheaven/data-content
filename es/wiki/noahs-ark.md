@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Arca de Noé"
 description = "El Arca de Noé, un proyecto de preservación de la vida que abarca todo el mundo liderado por Noé y los Elohim exiliados que quedaron en la Tierra finalmente encarnado por una nave espacial que orbita la Tierra durante el evento catastrófico conocido como el Gran Diluvio salvaguardando casi todas las creaciones de Elohim."
 +++

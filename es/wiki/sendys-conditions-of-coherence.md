@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Condiciones de coherencia de Sendy"
 description = "Las condiciones de coherencia de Sendy, un conjunto de condiciones que deben cumplirse para permitir una lectura coherente y exacta de la Biblia donde los Elohim son entendidos como individuos de una civilización interestelar confundida con Dios."
 +++

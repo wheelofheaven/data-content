@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Elohim"
 description = "Elohim (אֱלֹהִים), el plural de Eloha (אֱלוֹהַּ), significa literalmente los Poderosos o más figurativamente, los que están arriba, los Celestiales. El nombre dado a los dioses bíblicos que a su vez son una civilización científicamente muy avanzada capaz de viajar entre las estrellas, terraformar planetas y sintetizar vida."
 +++

@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Drake-Gleichung"
 description = "Drake-Gleichung, eine Gleichung, die die Wahrscheinlichkeit intelligenten außerirdischen Lebens als Produkt verschiedener Faktoren ausdrückt, beispielsweise des Anteils der Planeten, die bewohnbar sein könnten, oder des Anteils der Planeten, auf denen Leben entstehen könnte. Die Gleichung ist nach Franke Drake benannt und dient als probabilistisches Gedankenexperiment, um über die mögliche Existenz außerirdischen Lebens nachzudenken."
 +++

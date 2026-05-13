@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Efecto de masa"
 description = "El efecto de masa, o alternativamente, la ley del tiempo de masa, es una ley hipotética de la física en la que el tiempo parece moverse más lentamente para los sistemas más grandes y complejos que para los más pequeños y simples. La ley aún no se ha formalizado matemáticamente, pero deriva toda su capacidad predecible de observaciones empíricas."
 iceberg = 4

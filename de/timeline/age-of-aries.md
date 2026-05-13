@@ -1,4 +1,5 @@
 +++
+template = "timeline-page.html"
 title = "Zeitalter des Widders"
 period = "2'370–210 v. Chr."
 age = "aries"

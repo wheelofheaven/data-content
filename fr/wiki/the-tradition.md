@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "La Tradition"
 description = "La Tradition, un ensemble de vérités pérennes orales et écrites qui se sont transmises sur de nombreuses générations et à travers diverses civilisations et ont donc conservé intact le référentiel de connaissances qui trouve son origine dans un passé lointain. La Tradition ne se réfère pas nécessairement à un ensemble spécifique d'écritures ou de livres, mais peut être comprise comme l'héritage culturel et mythologique de tous les individus qui ont formalisé les vérités les plus élevées d'une manière codifiée et prétendument incorruptible."
 +++

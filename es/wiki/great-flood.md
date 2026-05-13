@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Gran Inundación"
 description = "Gran Diluvio, también conocido como el Gran Diluvio, un evento catastrófico causado por una medida militar preventiva que fue iniciada deliberadamente por el angustiado gobierno del distante planeta natal de los Elohim que deseaba poner fin al progreso científico independiente en la Tierra."
 +++

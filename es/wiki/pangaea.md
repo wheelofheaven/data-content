@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Pangea"
 description = "Pangea, un supercontinente antediluviano que fue terraformado a partir de un lecho marino poco profundo en toda la Tierra por los Elohim poco después de que llegaron al planeta Tierra y comenzaron a investigar su constitución."
 +++

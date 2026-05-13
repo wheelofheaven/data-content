@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Adán y Eva"
 description = "Adán y Eva, dos individuos clave de los primeros prototipos humanos que se diseñaron con éxito. Eran parte de una comunidad distinta originalmente del género humano que vivió durante los días del Jardín del Edén en el Edén. En concubinato con los creadores exiliados, una facción Elohimiana rebelde conocida como la Serpiente, los Adamitas dieron a luz a una descendencia híbrida. Estos descendientes se asimilaron a la comunidad adamita, fusionándose así en un grupo distinto singular de adamitas híbridos y no híbridos."
 +++

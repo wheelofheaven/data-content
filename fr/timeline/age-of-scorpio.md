@@ -1,4 +1,5 @@
 +++
+template = "timeline-page.html"
 title = "Âge du Scorpion"
 period = "17'490—15'330BC"
 age = "scorpio"

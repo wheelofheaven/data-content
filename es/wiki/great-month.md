@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Gran Mes"
 description = "Gran Mes, también conocido como Era Astrológica o Era Mundial, un período de tiempo de alrededor de 2'160 años, la cantidad de tiempo que tarda el fenómeno de precesión en cambiar la banda zodiacal en la eclíptica hacia el oeste en 30 grados, o una doceava parte. de la circunferencia completa de 360 grados. 12 Grandes Meses equivalen a un Gran Año."
 +++

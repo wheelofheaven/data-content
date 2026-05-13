@@ -1,4 +1,5 @@
 +++
+template = "timeline-page.html"
 title = "Эпоха Рака"
 period = "8850—6690 до н. э."
 age = "cancer"

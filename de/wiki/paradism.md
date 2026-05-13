@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Paradismus"
 description = "Paradismus, die Errichtung eines vollautomatisierten sozioökonomischen Systems nach der Knappheit nach dem Vorbild des Heimatplaneten der Elohim. Durch technologische Mittel zur Automatisierung der Arbeit und zur Linderung von Nöten würden Überfluss, Wohlstand und persönliche Erfüllung zur neuen Währung des gesellschaftlichen Strebens werden."
 +++

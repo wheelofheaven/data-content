@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Wheel of Heaven"
 description = "Wheel of Heaven, eine Web-Wissensdatenbank, die die Arbeitshypothese untersucht, dass das Leben auf der Erde von der außerirdischen Zivilisation, die wir gemeinsam als die Elohim bezeichnen, intelligent entworfen und konstruiert wurde. Das Bild des Himmelsrads selbst ist eine metaphorische Anspielung auf die Präzession der Tagundnachtgleiche als ein himmlisches Rad von Sternbildern, das sich stetig weiterdreht. Es handelt sich auch um einen etwas unklareren Hinweis auf Echnaton, einen alten ägyptischen Pharao, der ein scheibenförmiges Raumschiff beschrieb, das wie ein Rad im Himmel aussah."
 +++

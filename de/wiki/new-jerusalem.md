@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Neujerusalem"
 description = "Dritter Tempel, eine Residenz der Elohim, die während der Apokalypse wieder aufgebaut werden sollte."
 +++

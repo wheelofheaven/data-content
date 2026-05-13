@@ -1,4 +1,5 @@
 +++
+template = "timeline-page.html"
 title = "癌症时代"
 period = "8'850—6'690BC"
 age = "cancer"

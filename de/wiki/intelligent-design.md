@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Intelligentes Design"
 description = "Intelligentes Design, ein konkurrierendes wissenschaftliches Paradigma zur Entstehung des Lebens auf der Erde. Es wäre die genaueste Darstellung dessen, was passieren würde, wenn die Elohim das Leben auf der Erde mithilfe der Ex-Nihilo-Gentechnik synthetisch manipulieren würden."
 +++

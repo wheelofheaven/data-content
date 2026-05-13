@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Alliance noachique"
 description = "L'alliance noéique est une promesse faite par les Elohim juste après le Grand Déluge qui a anéanti presque toute vie sur la planète Terre pour que cela ne se reproduise plus jamais. Le Déluge a été les effets causés par une mesure préventive initiée par le gouvernement Elohim adverse pour mettre fin à tout progrès scientifique entrepris par les êtres humains terrestres qui était jugé trop dangereux. Avec l'aide d'une faction bannie d'Elohim, Noahs et d'autres ont réussi à préserver la vie en stockant le matériel source génétique de toutes les espèces terrestres qui a été sauvegardé à bord de l'Arche, un vaisseau spatial en orbite."
 +++

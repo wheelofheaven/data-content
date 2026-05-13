@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Liste exegetischer Lesarten"
 description = "Liste exegetischer Lesarten. Durch die Erforschung der von Wheel of Heaven dargelegten Prämissen gibt es eine Reihe religiöser, mythologischer oder traditioneller Vorstellungen, die mit einer neoeuhemeristischen Exegese gelesen werden können. Diese Liste soll die meisten dieser Begriffe katalogisieren."
 +++

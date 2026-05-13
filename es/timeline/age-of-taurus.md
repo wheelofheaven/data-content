@@ -1,4 +1,5 @@
 +++
+template = "timeline-page.html"
 title = "Era de Tauro"
 period = "4'530—2'370BC"
 age = "taurus"

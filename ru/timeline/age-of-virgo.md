@@ -1,4 +1,5 @@
 +++
+template = "timeline-page.html"
 title = "Эпоха Девы"
 period = "13'170—11'010 до н.э."
 age = "virgo"

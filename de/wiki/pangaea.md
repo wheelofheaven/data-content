@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Pangäa"
 description = "Pangäa, ein vorsintflutlicher Superkontinent, der von den Elohim kurz nach ihrer Ankunft auf dem Planeten Erde aus einem erdweiten flachen Meeresboden terraformiert wurde und mit der Erforschung seiner Beschaffenheit begann."
 +++

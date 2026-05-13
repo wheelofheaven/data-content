@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Planète d'origine des Élohim"
 description = "La planète habitable extrasolaire d'où est originaire le genre Elohimien ou du moins sa civilisation. Cette planète serait à environ 1 année-lumière de la Terre et serait donc située dans la galaxie de la Voie lactée."
 +++

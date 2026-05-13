@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Dragones"
 description = "Dragones, una clase extinta de formas de vida biológica que originalmente se diseñaron en el planeta natal de Elohimian y que se caracterizaron por ser particularmente terribles y monstruosas. Debido a la gravedad de un incidente, la investigación y la ingeniería se trasladaron al exoplaneta cercano, la Tierra, y se inició la vida en su superficie. Estos dragones nos son conocidos a través de la paleontología como dinosaurios."
 +++

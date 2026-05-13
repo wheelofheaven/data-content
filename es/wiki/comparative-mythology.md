@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Mitología comparada"
 description = "Mitología comparada, un campo de investigación que compara mitos de culturas para identificar motivos compartidos. La investigación ha demostrado que las culturas representan una superposición significativa en sus relatos mitológicos. Esta superposición sugiere fuertemente que estos motivos compartidos entre culturas reflejan sucesos universales que es muy probable que hayan tenido lugar."
 +++

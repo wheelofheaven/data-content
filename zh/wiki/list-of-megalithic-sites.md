@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "巨石遗址列表"
 description = "巨石遗址列表。对已知巨石遗址的广泛列举，或多或少清晰地体现了先进建筑质量的指纹。"
 +++

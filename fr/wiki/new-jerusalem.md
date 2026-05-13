@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Nouvelle Jérusalem"
 description = "Troisième Temple, une résidence pour les Elohim qui devrait être reconstruite à l'époque de l'Apocalypse."
 +++

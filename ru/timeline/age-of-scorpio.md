@@ -1,4 +1,5 @@
 +++
+template = "timeline-page.html"
 title = "Эпоха Скорпиона"
 period = "17 490—15 330 до н. э."
 age = "scorpio"

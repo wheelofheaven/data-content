@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Zahl des Menschen"
 description = "Die Zahl der Menschen, auch bekannt als Zahl des Tieres oder einfach aufgrund des Werts, den sie darstellt, 666 (χξϛ), ist die Zahl der menschlichen Generationen, die seit der Erschaffung der ersten Menschen während der Genesis auf der Erde existiert haben. Wenn eine Generation auf 20 Jahre festgelegt wird, beträgt das Produkt aus der Anzahl der Menschen 13'320 Jahre. Wenn wir gerade in das Zeitalter des Wassermanns eingetreten sind und davon ausgehen, dass dies mit der Zahl des Menschen übereinstimmt, muss der erste Mensch vor einem halben Präzessionszyklus erschaffen worden sein, also zu Beginn des Zeitalters des Löwen."
 +++

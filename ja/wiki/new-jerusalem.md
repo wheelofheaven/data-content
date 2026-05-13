@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "新しいエルサレム"
 description = "第三神殿、黙示録の時代に再建されるべきエロヒムの住居。"
 +++

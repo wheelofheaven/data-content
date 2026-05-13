@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "大年"
 description = "大年，也称为柏拉图年，一段大约 25,920 年的时间，是完成一个完整岁差周期所需的时间。"
 +++

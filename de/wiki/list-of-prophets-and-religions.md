@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Liste von Propheten und Religionen"
 description = "Liste der Propheten und Religionen. Viele Religionen, aber nicht alle, gelten als etablierte Zeugnisse authentischer Interaktionen zwischen den Elohim (אֱלֹהִים) und den Menschen auf der Erde. Diese Interaktionen führen zu religiösen Schriften und mündlichen Überlieferungen, die von den Taten der Elohim zeugen. In dieser Liste werden die meisten bedeutenden religiösen Traditionen sowie die Propheten, die zu solchen Traditionen geführt haben, umfassend katalogisiert."
 +++

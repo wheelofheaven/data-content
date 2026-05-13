@@ -1,4 +1,5 @@
 +++
+template = "timeline-page.html"
 title = "Era de Escorpio"
 period = "17'490—15'330BC"
 age = "scorpio"

@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Liste de rencontres rapprochées"
 description = "Liste des rencontres rapprochées, une énumération détaillée de toutes les rencontres rapprochées avec des objets volants non identifiés qui ont été signalées depuis l'Antiquité jusqu'aux temps modernes."
 +++

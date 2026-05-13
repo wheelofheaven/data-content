@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Elohim"
 description = "Elohim (אֱלֹהִים), die Mehrzahl von Eloha (אֱלוֹהַּ), bedeutet wörtlich die Mächtigen oder figurativ diejenigen von oben, die Himmlischen. Der Name, der den biblischen Göttern gegeben wurde, die wiederum eine wissenschaftlich hochentwickelte Zivilisation sind, fähig zu interstellarem Reisen, Planeten-Terraforming und Synthetisierung von Leben."
 +++

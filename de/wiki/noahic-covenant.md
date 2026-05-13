@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Noachidische Bündnis"
 description = "Der Noah-Bund ist ein Versprechen der Elohim unmittelbar nach der großen Sintflut, die fast alles Leben auf dem Planeten Erde auslöschte, und dass so etwas nie wieder geschehen könnte. Die Große Sintflut war die Folge einer Präventivmaßnahme der gegnerischen Elohim-Regierung, die als zu gefährlich erachtet wurde, um alle wissenschaftlichen Fortschritte der Erdenmenschen zu beenden. Mit Hilfe einer verbannten Fraktion der Elohim gelang es Noahs und anderen, das Leben zu retten, indem sie genetisches Ausgangsmaterial aller terrestrischen Arten speicherten, das an Bord der Arche, einem umlaufenden Raumschiff, geschützt wurde."
 +++

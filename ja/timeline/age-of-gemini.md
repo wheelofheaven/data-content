@@ -1,4 +1,5 @@
 +++
+template = "timeline-page.html"
 title = "双子座の時代"
 period = "紀元前6'690—紀元前4'530"
 age = "gemini"

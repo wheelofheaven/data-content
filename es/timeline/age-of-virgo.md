@@ -1,4 +1,5 @@
 +++
+template = "timeline-page.html"
 title = "Edad de Virgo"
 period = "13'170—11'010BC"
 age = "virgo"

@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Néo-Euhémérisme"
 description = "Le néo-euhémérisme est une tentative philosophique de rationaliser la mythologie, en particulier la nature des dieux et des êtres divins, en termes historiques en interprétant les caractéristiques apparemment surnaturelles attribuées aux dieux comme la conséquence de leur sophistication technologique et scientifique. Le néo-euhémérisme peut être compris comme le paradigme philosophique assimilant les anciens dieux à une civilisation spatiale, peut-être d'origine extraterrestre. Ainsi, l'hypothèse avancée ici sur Wheel of Heaven partage bien un ADN similaire avec des prémisses néo-euhéméristiques."
 +++

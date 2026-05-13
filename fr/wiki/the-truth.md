@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "La Vérité"
 description = "La vérité, la notion spéculative selon laquelle lorsque suffisamment de signes de vérités partielles sont convenablement démystifiés et compilés ensemble, un récit cohérent et englobant émerge qui raconte les chroniques de la façon dont la vie sur Terre a été conçue par une civilisation extraterrestre et de ce qui a suivi par la suite jusqu'à ce jour même où cette Vérité sera révélée et redite aux temps de l'Apocalypse."
 +++

@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Prophet"
 description = "Prophet, ein menschlicher Botschafter, der als Bote und Vertreter im Namen der Elohim fungiert, der Schöpferzivilisation, die das Leben auf der Erde gentechnisch verändert hat. Im Laufe der Geschichte wurden viele Menschen als Propheten ausgewählt. Jeder von ihnen hatte entweder eine ganz neue religiöse Bewegung inspiriert oder zumindest eine schriftliche oder mündliche Überlieferung hinterlassen. In beiden Fällen tragen sie letztendlich zur Bewahrung und Gestaltung eines elohimischen Erbes auf der Erde bei."
 +++

@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Apocalipsis"
 description = "Apocalipsis, palabra griega para Revelación, se refiere a la Era de la Revelación que precede al comienzo de la Era Dorada. La revelación que se está revelando durante los días del Apocalipsis es la verdad circunstancial preservada por las escrituras religiosas, en particular la Biblia, a saber, que los Dioses de antaño son personas de otro planeta y han sido confundidos con seres sobrenaturales debido a sus capacidades tecnológicas altamente avanzadas."
 +++

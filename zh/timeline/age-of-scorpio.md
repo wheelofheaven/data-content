@@ -1,4 +1,5 @@
 +++
+template = "timeline-page.html"
 title = "天蝎座时代"
 period = "17'490—15'330BC"
 age = "scorpio"

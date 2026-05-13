@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Cyberparadisme"
 description = "Cyberparadism est une esthétique qui fusionne la technologie avancée avec la nature paradisiaque, envisageant un avenir où le progrès humain et l'harmonie environnementale coexistent de manière durable."
 +++

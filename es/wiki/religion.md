@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Religión"
 description = "Religión, conjunto de prácticas y creencias que cultiva y enseña la conexión (del latín religare, 'conectar de nuevo') entre el pueblo Humano en la Tierra y los Elohim, nuestros progenitores y creadores de la vida en la Tierra. Al igual que la relación entre los padres y sus hijos es un vínculo que necesita cultivo y reverencia, una religión está destinada a mantener el vínculo entre los creadores y lo creado. Una religión que no se esfuerza por cultivar y racionalizar ese vínculo de gratitud hacia quienes nos crearon es un sistema sociocultural totalmente diferente."
 +++

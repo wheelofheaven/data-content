@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Noé"
 description = "Noé, un patriarche biblique né à l'époque antédiluvienne. Il a été nommé pour participer à un gigantesque projet de préservation destiné à protéger la vie créée sur Terre du cataclysme imminent."
 +++

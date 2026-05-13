@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Dragons"
 description = "Les dragons, une classe éteinte de formes de vie biologiques qui ont été conçues à l'origine sur la planète d'origine élohimienne et qui se caractérisaient par leur caractère particulièrement épouvantable et monstrueux. En raison de la gravité d'un incident, la recherche et l'ingénierie ont été délocalisées vers une exoplanète proche, la Terre, et ont relancé la vie à sa surface. Ces dragons nous sont connus par la paléontologie sous le nom de dinosaures."
 +++

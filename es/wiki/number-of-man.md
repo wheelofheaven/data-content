@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Número del Hombre"
 description = "Número del Hombre, también conocido como Número de la Bestia o simplemente por el valor que representa, 666 (χξϛ), es el número de generaciones humanas que habrán existido en la Tierra desde la creación de los primeros hombres durante el Génesis. Si se define que una generación dura 20 años, el producto del Número de Hombre asciende a 13'320 años. Si acabamos de entrar en la Era de Acuario y suponemos que coincide con el Número del Hombre, el primer ser humano debió haber sido creado hace medio ciclo precesional, que sería al comienzo de la Era de Leo."
 +++

@@ -1,4 +1,5 @@
 +++
+template = "timeline-page.html"
 title = "山羊座の時代"
 period = "紀元前 21'810—19'650"
 age = "capricorn"

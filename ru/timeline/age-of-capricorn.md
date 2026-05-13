@@ -1,4 +1,5 @@
 +++
+template = "timeline-page.html"
 title = "Эпоха Козерога"
 period = "21 810–19 650 до н.э."
 age = "capricorn"

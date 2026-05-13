@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Hebreo"
 description = "Se revela que el hebreo, específicamente un antiguo predecesor del idioma hebreo, es el idioma hablado oficial de la civilización elohimiana. Como tal, el hebreo antiguo extrae sus orígenes más lejanos no de una fuente antrogénica terrenal, sino que fue heredado directamente de nuestros creadores, los Elohim, ya que hablaban una versión antigua del hebreo que los seres humanos adoptaron desde sus inicios. Si bien el hebreo moderno no puede considerarse equivalente al idioma elohimiano, por otro lado, se puede entender que la familia de idiomas semíticos preserva el legado."
 +++

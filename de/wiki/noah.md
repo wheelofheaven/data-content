@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Noah"
 description = "Noah, ein biblischer Patriarch, der in vorsintflutlicher Zeit geboren wurde. Er wurde für die Teilnahme an einem gigantischen Naturschutzprojekt nominiert, das das Leben auf der Erde vor der drohenden Katastrophe schützen soll."
 +++

@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Sintflut"
 description = "Große Sintflut, auch bekannt als die Große Sintflut, ein katastrophales Ereignis, das durch eine vorbeugende militärische Maßnahme verursacht wurde, die absichtlich von der verzweifelten Regierung des fernen Heimatplaneten der Elohim eingeleitet wurde, die dem unabhängigen wissenschaftlichen Fortschritt auf der Erde ein Ende setzen wollte."
 +++

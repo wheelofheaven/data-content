@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Grand Déluge"
 description = "Grande Inondation, également connue sous le nom de Grand Déluge, un événement cataclysmique causé par une mesure militaire préventive qui a été délibérément initiée par le gouvernement en détresse de la lointaine planète d'origine des Elohim qui souhaitait mettre un terme au progrès scientifique indépendant sur Terre."
 +++

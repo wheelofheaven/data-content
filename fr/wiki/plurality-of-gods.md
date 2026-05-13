@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Pluralité des dieux"
 description = "La pluralité des dieux représente l'interprétation distinctive que la tradition biblique témoigne de l'existence d'êtres divins multiples. Ce concept englobe également la croyance que ces êtres divins étaient autrefois apparentés aux humains et, par conséquent, que les humains possèdent le potentiel d'évoluer vers des entités semblables à des dieux à l'avenir."
 +++

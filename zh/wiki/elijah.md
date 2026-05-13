@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "以利亚"
 description = "以利亚，圣经中的族长和第一圣殿时期的先知。"
 +++

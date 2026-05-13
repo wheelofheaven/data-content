@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Моисей"
 description = "Моисей, библейский патриарх времен Исхода."
 +++

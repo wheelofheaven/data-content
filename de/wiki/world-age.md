@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Weltzeitalter"
 description = "Weltzeitalter, auch als astrologisches Zeitalter bekannt, ein umgangssprachlicher Begriff zur Bezeichnung eines großen Monats mit seinem Tierkreisnamen. Zum Beispiel befinden wir uns gerade im Übergang vom Zeitalter der Fische zum Zeitalter des Wassermanns."
 iceberg = 2

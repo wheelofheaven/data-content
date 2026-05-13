@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Zodiaco"
 description = "El Zodíaco es una banda en el cielo a través de la cual pasa el sol, conocida como la eclíptica. Dentro de esa banda, se encuentran 12 constelaciones estelares, cada una de las cuales lleva el nombre de un animal. El zodíaco proporciona, por tanto, los símbolos zoológicos para nombrar correctamente la posición del sol en el cielo. A lo largo de los años, la posición relativa del zodíaco se desplaza hacia el este a lo largo de la eclíptica debido al fenómeno de la precesión. Con esa comprensión, el zodíaco puede entenderse como la base para nombrar 12 casas dentro de un ciclo de larga duración, cada una de las cuales denomina una era mundial determinada."
 +++

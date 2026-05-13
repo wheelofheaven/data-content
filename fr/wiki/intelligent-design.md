@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Dessein intelligent"
 description = "Intelligent Design, un paradigme scientifique concurrent sur l'origine de la vie sur Terre. Ce serait la représentation la plus précise de ce qui s'est passé si les Elohim avaient créé synthétiquement la vie sur Terre par le biais du génie génétique ex-nihilo."
 +++

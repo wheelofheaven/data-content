@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Apokalypse"
 description = "Apokalypse, griechisch für Offenbarung, bezieht sich auf das Zeitalter der Offenbarung, das dem Beginn des Goldenen Zeitalters vorausgeht. Die Offenbarung, die in den Tagen der Apoklypse offenbart wurde, ist die Indizienwahrheit, die in religiösen Schriften, insbesondere der Bibel, bewahrt wird, nämlich dass die alten Götter Menschen von einem anderen Planeten sind und aufgrund ihrer hochentwickelten technologischen Fähigkeiten fälschlicherweise für übernatürliche Wesen gehalten wurden."
 +++

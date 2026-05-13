@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Évolution cosmique"
 description = "L'évolution cosmique fait référence à une création délibérée et itérative de la vie à travers l'univers par des civilisations avancées. Il transcende l'évolution biologique, mettant l'accent sur la conception délibérée et le raffinement continu des formes de vie humanoïdes. Chaque création successive représente un pas en avant évolutif, bien que potentiellement une menace pour leurs créateurs. Ce concept représente un mélange de processus naturels et de conception consciente dans la grande progression de la vie à travers le cosmos."
 +++

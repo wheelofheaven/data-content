@@ -1,4 +1,5 @@
 +++
+template = "timeline-page.html"
 title = "牡羊座の時代"
 period = "紀元前 2'370—紀元前 210 年"
 age = "aries"

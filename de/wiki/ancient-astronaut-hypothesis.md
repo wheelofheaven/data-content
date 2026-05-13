@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Ancient Astronauts-Hypothese"
 alernatives = ["Ancient aliens"]
 description = "Die antike Astronautenhypothese, auch bekannt als „alte Außerirdische“, basiert auf der Idee, dass außerirdische Wesen in der Vergangenheit die Erde besuchten und alte Kulturen und Zivilisationen beeinflussten. Diese Hypothese legt nahe, dass viele antike Bauwerke und Artefakte, wie Pyramiden und heilige Objekte wie die Bundeslade, mit Hilfe außerirdischer Wesen geschaffen wurden und Botschaften über die Natur des Universums und unseren Platz darin vermitteln sollten. Befürworter der Hypothese verweisen auch auf Legenden, Mythen und religiöse Texte aus verschiedenen Kulturen, die Begegnungen mit Wesen von den Sternen beschreiben."

@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Yahweh"
 description = "Yahweh (יהוה), également connu sous le nom de Premier et Dernier (Alpha et Oméga) est un Eloha (אֱלוֹהַּ) et le principal représentant des Elohim (אֱלֹהִים) dans son ensemble. Il est un Éternel dans le sens où il a déjà habité plusieurs corps (une technique Elohimienne pour vivre éternellement) et donc membre du Conseil des Éternels agissant comme leur chef de Conseil. Dans les écritures bibliques, Yahweh est identifié comme la Divinité et est également assimilé de manière interchangeable à la civilisation qu'il représente, les Elohim. Yahweh était aussi l'Eloha que Raël a rencontré à plusieurs reprises, comme l'ont fait tous les prophètes qui l'ont précédé."
 +++

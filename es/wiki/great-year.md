@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Gran Año"
 description = "Gran Año, también conocido como Año Platónico, un período de tiempo de alrededor de 25'920 años, la cantidad de tiempo que tarda en completarse un ciclo de precesión completo."
 +++

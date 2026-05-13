@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Effet de masse"
 description = "L'effet de masse, ou encore la loi de masse-temps, est une loi hypothétique de la physique où le temps semble se déplacer plus lentement pour les systèmes plus grands et plus complexes que pour les systèmes plus petits et plus simples. La loi n'a pas encore été formalisée mathématiquement, mais tire toute sa capacité prévisible d'observations empiriques."
 iceberg = 4

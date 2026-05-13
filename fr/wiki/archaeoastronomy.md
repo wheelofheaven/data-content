@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Archéoastronomie"
 description = "L'archéoastronomie, une discipline scientifique pour comprendre le passé anthropologique à travers le prisme de l'astronomie et comment l'héritage des cultures passées a été codifié avec des observations astronomiques. Plus précisément, la discipline est représentative d'un important corpus de recherches qui dévoile l'étendue des connaissances et de leur transmission depuis le début de la fabrication de la civilisation."
 +++

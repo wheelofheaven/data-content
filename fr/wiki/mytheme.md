@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Mytheme"
 description = "Le mythème, unité fondamentale de la structure narrative mythologique."
 +++

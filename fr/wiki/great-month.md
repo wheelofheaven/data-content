@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Grand Mois"
 description = "Grand Mois, également connu sous le nom d'âge astrologique ou âge du monde, une période de temps d'environ 2'160 ans, le temps qu'il faut aux phénomènes de précession pour déplacer la bande zodiacale sur l'écliptique vers l'ouest de 30 degrés, soit un douzième de la circonférence complète de 360 degrés. 12 Grands Mois équivalent à une Grande Année."
 +++

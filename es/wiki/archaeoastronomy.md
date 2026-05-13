@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Arqueoastronomía"
 description = "Arqueoastronomía, una disciplina científica para comprender el pasado antropológico a través de la lente de la astronomía y cómo la herencia de culturas pasadas se había codificado con observaciones astronómicas. Más específicamente, la disciplina es representativa de un importante cuerpo de investigación que está revelando hasta dónde ha llegado el conocimiento y su transmisión desde el comienzo de la construcción de la civilización."
 +++

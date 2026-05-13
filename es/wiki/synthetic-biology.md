@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Biología sintética"
 description = "La biología sintética es un campo interdisciplinario que combina principios de biología, genética e ingeniería para diseñar y construir sistemas biológicos artificiales, circuitos genéticos y organismos con funciones o características novedosas. Implica la modificación o creación deliberada de material genético y la ingeniería de componentes biológicos para programar células vivas para realizar tareas específicas o exhibir rasgos deseados. La biología sintética tiene como objetivo comprender y rediseñar los sistemas biológicos."
 +++

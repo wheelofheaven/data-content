@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "摩西"
 description = "摩西，出埃及记时代的圣经族长。"
 +++

@@ -1,4 +1,5 @@
 +++
+template = "timeline-page.html"
 title = "Zeitalter des Schützen"
 period = "19'650—17'490 v. Chr."
 age = "sagittarius"

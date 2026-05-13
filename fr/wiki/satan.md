@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Satan"
 description = "Satan (śāṭān, hébreu : שָׂטָן), à ne pas confondre avec Lucifer, est un Eloha (אֱלוֹהַּ) et le représentant d'une faction au sein des Elohim (אֱלֹהִים) qui s'oppose à l'existence d'une progéniture prospère civilisation sur Terre qui est considérée comme un menace pour leur bien-être à distance. En tant que tel, Satan n'est pas un nom propre, mais une forme indicative du rôle que remplit Satan, à savoir celui d'obstruction, de poursuivant ou encore d'accusateur."
 +++

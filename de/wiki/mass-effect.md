@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Masseneffekt"
 description = "Der Masseneffekt, oder alternativ das Gesetz der Massenzeit, ist ein hypothetisches Gesetz der Physik, bei dem sich die Zeit für größere und komplexere Systeme langsamer zu bewegen scheint als für kleinere und einfachere. Das Gesetz wurde noch nicht mathematisch formalisiert, sondern bezieht seine gesamte Vorhersagbarkeit aus empirischen Beobachtungen."
 iceberg = 4

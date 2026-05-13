@@ -1,4 +1,5 @@
 +++
+template = "timeline-page.html"
 title = "Âge du Bélier"
 period = "2'370—210BC"
 age = "aries"

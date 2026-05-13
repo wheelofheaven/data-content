@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Menorá"
 description = "La Menorá sirve como un recuerdo de la centralita de una base central elohimita en el Antiguo Levante. Esta centralita se caracterizaba por siete interruptores iluminados, que se creía que mantenían la conectividad con seis bases adicionales y una nave interplanetaria en órbita. Esta interpretación propone que las siete ramas de la Menorah significan metafóricamente las siete bases Elohimitas establecidas en la Tierra durante esa era."
 +++

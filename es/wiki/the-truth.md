@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "La Verdad"
 description = "La verdad, la noción especulativa de que cuando suficientes muestras de verdades parciales se desmitifican y compilan adecuadamente, surge una narrativa cohesiva que lo abarca todo y que cuenta las crónicas de cómo la vida en la Tierra fue diseñada por una civilización extraterrestre y de lo que siguió a partir de entonces hasta este mismo día en que esta Verdad será revelada y recontada durante los tiempos del Apocalipsis."
 +++

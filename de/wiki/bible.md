@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Bibel"
 description = "Bibel, eine Reihe alter religiöser Schriften, die bezeugen, was geschehen ist, damit die Menschheit Beweise hat, wenn die Wahrheit während der Apokalypse erneut offenbart wird."
 +++

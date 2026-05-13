@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Hipótesis del astronauta antiguo"
 alernatives = ["Ancient aliens"]
 description = "Hipótesis de los antiguos astronautas, también conocidos como alienígenas ancestrales, la idea de que seres extraterrestres visitaron la Tierra en el pasado e influyeron en las culturas y civilizaciones antiguas. Esta hipótesis sugiere que muchas estructuras y artefactos antiguos, como pirámides y objetos sagrados como el Arca del Pacto, fueron creados con la ayuda de seres extraterrestres y tenían la intención de transmitir mensajes sobre la naturaleza del universo y nuestro lugar dentro de él. Los defensores de la hipótesis también apuntan a leyendas, mitos y textos religiosos de varias culturas que describen encuentros con seres de las estrellas."

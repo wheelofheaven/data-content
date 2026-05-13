@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Jesús"
 description = "Jesucristo, un profeta judío que existió al final del período del Segundo Templo y es el protagonista principal de los Evangelios. Se le encomendó la misión de difundir las escrituras bíblicas tanto como fuera posible, para que los escritos pudieran servir como prueba para toda la humanidad cuando la Era de Acuario, la Era Dorada, finalmente explicaría todo a medida que comenzamos a repetir lo que el Elohim se inició en el comienzo de Génesis."
 +++

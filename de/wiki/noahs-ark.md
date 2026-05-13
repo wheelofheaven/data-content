@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Arche Noah"
 description = "Noahs Arche, ein weltumfassendes Lebenserhaltungsprojekt, das von Noah und den auf der Erde verbannten Elohim geleitet wird und letztendlich durch ein Raumschiff verkörpert wird, das während des katastrophalen Ereignisses, das als Große Sintflut bekannt ist, die Erde umkreist und fast alle elohimischen Schöpfungen schützt."
 +++

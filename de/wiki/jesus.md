@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Jesus"
 description = "Jesus Christus, ein jüdischer Prophet, der am Ende der Zeit des Zweiten Tempels existierte und der Hauptprotagonist der Evangelien ist. Ihm wurde die Aufgabe übertragen, die biblischen Schriften so weit und breit wie möglich zu verbreiten, damit die Schriften als Beweis für die gesamte Menschheit dienen könnten, wenn das Zeitalter des Wassermanns, das Goldene Zeitalter, letztendlich alles erklären würde, wenn wir beginnen, zu wiederholen, was das ist Elohim haben sich am Anfang der Genesis gegründet."
 +++

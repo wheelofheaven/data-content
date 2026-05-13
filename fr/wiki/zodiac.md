@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Zodiaque"
 description = "Le zodiaque est une bande dans le ciel traversée par le soleil, connue sous le nom d'écliptique. Dans cette bande, il y a 12 constellations stellaires à trouver, chacune portant le nom d'un animal. Le Zodiaque fournit donc les symboles zoologiques pour bien nommer la position du soleil dans le ciel. Au fil des ans, la position relative du zodiaque se déplace vers l'est le long de l'écliptique en raison du phénomène de précession. Avec cette compréhension, le zodiaque peut être compris comme la base de la dénomination de 12 maisons dans un cycle de longue durée, chacune désignant un âge mondial donné."
 +++

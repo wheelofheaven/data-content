@@ -1,4 +1,5 @@
 +++
+template = "timeline-page.html"
 title = "Zeitalter der Waage"
 period = "15'330—13'170 v. Chr."
 age = "libra"

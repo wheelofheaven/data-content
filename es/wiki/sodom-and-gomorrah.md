@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Sodoma y Gomorra"
 description = "Sodoma y Gomorra, dos ciudades levantinas que fueron destruidas por armamento nuclear como un ataque preventivo iniciado por la civilización elohimiana contra una facción terrenal vengativa que se volvió organizada y potente. Lo más probable es que el Mar Muerto sea un artefacto de estas explosiones nucleares que atestiguan hasta el día de hoy las secuelas que siguieron."
 +++

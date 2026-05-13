@@ -1,4 +1,5 @@
 +++
+template = "timeline-page.html"
 title = "双子座时代"
 period = "6'690—4'530BC"
 age = "gemini"

@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Genómica sintética"
 description = "La genómica sintética es una rama de la ingeniería genética que se centra en el diseño, ensamblaje y síntesis de genomas completos o grandes segmentos de genomas. Implica la creación de secuencias de ADN artificiales que imitan o difieren de los genomas naturales existentes. La genómica sintética tiene como objetivo construir material genético, como cromosomas sintéticos o genomas sintéticos completos, para estudiar procesos biológicos fundamentales, comprender el conjunto mínimo de genes necesarios para la vida y crear potencialmente organismos con características modificadas o novedosas. Implica la construcción de material genético artificial para explorar y manipular la base genética de la vida."
 +++

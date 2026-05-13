@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Mose"
 description = "Moses, ein biblischer Patriarch aus der Zeit des Exodus."
 +++

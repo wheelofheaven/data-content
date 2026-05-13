@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Baum des Lebens"
 description = "Baum des Lebens, eine biblische Metapher, die für den wissenschaftlichen Wissensbestand darüber steht, wie die technischen Mittel bereitgestellt werden können, um ewiges Leben zu erlangen. Genauer gesagt, um die Lebenserwartung des Menschen um bis zu 1.000 Jahre zu verlängern, wie es im Zeitalter des Löwen der Fall war."
 +++

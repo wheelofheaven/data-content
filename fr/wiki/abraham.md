@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Abraham"
 description = "Abraham, à l'origine appelé Abram ou, en hébreu, Avram. Il est un patriarche biblique des temps après la destruction de Sodome et Gomorrhe. Il est le premier ambassadeur ou prophète nommé par la civilisation des Elohim et a entretenu avec eux une relation diplomatique non hostile."
 +++

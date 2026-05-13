@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Precesión"
 description = "Precesión, el cambio constante de orientación del eje de rotación de la Tierra. La precesión es el tercer movimiento clave de la Tierra junto a la rotación alrededor de su eje (ciclo del día) y su revolución alrededor del Sol (año). Un ciclo completo de precesión tarda 25'920 años en completarse."
 +++

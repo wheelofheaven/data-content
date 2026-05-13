@@ -1,4 +1,5 @@
 +++
+template = "timeline-page.html"
 title = "处女座时代"
 period = "13'170—11'010BC"
 age = "virgo"

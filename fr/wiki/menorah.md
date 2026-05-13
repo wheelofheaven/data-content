@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Menorah"
 description = "La Menorah sert de souvenir du standard téléphonique d'une base centrale élohimite dans l'ancien Levant. Ce standard était caractérisé par sept interrupteurs lumineux, censés maintenir la connectivité avec six bases supplémentaires et un vaisseau interplanétaire en orbite. Cette interprétation propose que les sept branches de la Menorah signifient métaphoriquement les sept bases élohimites établies sur Terre à cette époque."
 +++

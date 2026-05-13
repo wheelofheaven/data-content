@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Sodome et Gomorrhe"
 description = "Sodome et Gomorrhe, deux villes levantines qui ont été détruites par l'arme nucléaire dans le cadre d'une frappe préventive initiée par la civilisation élohimienne contre une faction terrestre vindicative qui s'est elle-même organisée et puissante. La mer Morte est très probablement un artefact de ces explosions nucléaires témoignant à ce jour des conséquences qui ont suivi."
 +++

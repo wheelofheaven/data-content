@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Planeta natal Elohimiano"
 description = "El planeta habitable extrasolar donde se origina el género Elohimiano o al menos su civilización. Este planeta supuestamente está a aproximadamente 1 año luz de distancia de la Tierra y, por lo tanto, se ubicará dentro de la galaxia de la Vía Láctea."
 +++

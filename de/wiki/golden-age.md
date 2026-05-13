@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Goldenes Zeitalter"
 description = "Das Goldene Zeitalter ist der Moment, in dem die Menschheit einen Grad an wissenschaftlicher Verfeinerung und technologischem Können erreicht hat, um die Selbstzerstörung zu überwinden. Dies ermöglicht es uns, in ein Zeitalter des Überflusses und des Reichtums einzutreten, in dem wir die Wahrheit über unsere eigene Vergangenheit erfahren und das versprochene Erbe erhalten von unseren Vätern, den Elohim. Dieses Goldene Zeitalter könnte mit dem Eintritt in das Wassermannzeitalter und einem globalen Großen Erwachen unbekannter Höhe zusammenfallen."
 +++

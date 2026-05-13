@@ -1,4 +1,5 @@
 +++
+template = "timeline-page.html"
 title = "Einleitung"
 period = "vor 21'810 v. Chr."
 description = "Die Einleitung führt eine spekulative Erzählung über eine fortschrittliche außerirdische Zivilisation, die Elohim, ein, die sich mit genetischer Experimentierung und interstellarer Exploration beschäftigen. Parallelen zur \"Jurassic Park\"-Reihe ziehend, vertieft sie sich in die hypothetischen Ereignisse, die zur Ankunft der Elohim auf der Erde führen, vor dem Hintergrund des Zeitalters des Steinbocks, vor 21.810 Jahren. Diese Geschichte verbindet Elemente der Science-Fiction mit der Mythologie und erforscht Themen wie wissenschaftlichen Hochmut und die Auswirkungen der Gentechnik."

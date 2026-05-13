@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Précession"
 description = "Précession, le changement constant d'orientation de l'axe de rotation de la Terre. La précession est le troisième mouvement clé de la Terre après la rotation autour de son axe (cycle du jour) et sa révolution autour du Soleil (année). Un cycle précessionnel complet prend 25'920 ans."
 +++

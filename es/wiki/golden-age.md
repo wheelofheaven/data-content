@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Edad de Oro"
 description = "Edad de Oro, el momento en el tiempo en que la humanidad ha alcanzado un nivel de sofisticación científica y destreza tecnológica para superar la autodestrucción, permitiéndonos entrar en una era de abundancia y riqueza donde aprendemos la Verdad sobre nuestro propio pasado y recibimos la herencia prometida. por nuestros Padres, los Elohim. Esta Era Dorada puede coincidir con la entrada en la Era de Acuario y un Gran Despertar global de alturas desconocidas."
 +++

@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Präzession"
 description = "Präzession, die stetige Änderung der Ausrichtung der Rotationsachse der Erde. Präzession ist neben der Rotation um ihre Achse (Tageszyklus) und ihrem Umlauf um die Sonne (Jahr) die dritte Schlüsselbewegung der Erde. Ein vollständiger Präzessionszyklus dauert 25.920 Jahre."
 +++

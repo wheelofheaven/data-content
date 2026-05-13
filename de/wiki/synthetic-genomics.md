@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Synthetische Genomik"
 description = "Die synthetische Genomik ist ein Zweig der Gentechnik, der sich auf das Design, den Zusammenbau und die Synthese vollständiger Genome oder großer Genomabschnitte konzentriert. Dabei handelt es sich um die Erstellung künstlicher DNA-Sequenzen, die vorhandene natürliche Genome nachahmen oder sich von ihnen unterscheiden. Die synthetische Genomik zielt darauf ab, genetisches Material wie synthetische Chromosomen oder ganze synthetische Genome zu konstruieren, um grundlegende biologische Prozesse zu untersuchen, den minimalen Satz lebensnotwendiger Gene zu verstehen und möglicherweise Organismen mit veränderten oder neuartigen Eigenschaften zu schaffen. Dabei handelt es sich um die Konstruktion künstlichen genetischen Materials, um die genetischen Grundlagen des Lebens zu erforschen und zu manipulieren."
 +++

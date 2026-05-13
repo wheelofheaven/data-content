@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Rat der Ewigen"
 description = "Der Rat der Ewigen, auch Großer Rat der Ewigen, ist ein Leitungsgremium der elohimischen Zivilisation. Sie besteht aus 700 Mitgliedern, die alle für immer auf einem eigenen, von ihrem Heimatplaneten getrennten Planeten leben. Auf genau dieses Leitungsgremium wird in mehreren Religionen Bezug genommen, insbesondere in den biblischen Schriften, und es greift immer noch in irdische Angelegenheiten ein."
 +++

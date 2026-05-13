@@ -1,4 +1,5 @@
 +++
+template = "timeline-page.html"
 title = "Эпоха Льва"
 period = "11 010–8 850 гг. до н. э."
 age = "leo"

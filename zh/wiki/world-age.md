@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "世界年龄"
 description = "世界时代，也称为占星时代，是一个通俗术语，用黄道带名称来指定一个伟大的月份。例如，现在，我们正在从双鱼座时代过渡到水瓶座时代。"
 iceberg = 2

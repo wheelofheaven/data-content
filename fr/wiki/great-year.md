@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Grande Année"
 description = "Grande Année, également connue sous le nom d'Année Platonicienne, une période de temps d'environ 25'920 ans, le temps qu'un cycle précessionnel complet prend pour se terminer."
 +++

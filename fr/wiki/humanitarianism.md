@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Humanitarisme"
 description = "Humanitarniasm , une doctrine socio-économique proposée par Yahweh dans le cadre des Nouveaux Commandements qui se concentre sur la préservation de l'avenir de l'humanité en mettant en œuvre un type particulier d'égalité des chances. Bénéficiant finalement du talent et de la prouesse, l'abolition de l'héritage et l'établissement de contrats de propriété jubilaires limités dans le temps. L'humanitarisme, plus généralement, est une doctrine selon laquelle le devoir des gens est de promouvoir le bien-être humain."
 +++

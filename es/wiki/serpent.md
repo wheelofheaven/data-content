@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Serpiente"
 description = "Serpiente, una referencia metafórica a una facción rebelde entre los Elohim (אֱלֹהִים). Después de que los primeros seres humanos fueran diseñados sintéticamente en la Tierra, un subconjunto de los Elohim de la ingeniería consideró esencial educar a estas nuevas criaturas humanas por igual. La educación se le dio a los primeros seres humanos y el Elohim responsable de ella, conocido como la Serpiente, fue condenado y exiliado para permanecer en la Tierra por su transgresión. Uno de los protagonistas principales de esta facción es conocido como Lucifer, el portador de la luz."
 +++

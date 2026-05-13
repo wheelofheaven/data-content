@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Pluralidad de Dioses"
 description = "La Pluralidad de Dioses representa la interpretación distintiva que la tradición bíblica testifica de la existencia de múltiples seres divinos. Este concepto también abarca la creencia de que estos seres divinos alguna vez fueron similares a los humanos y, en consecuencia, que los humanos poseen el potencial de evolucionar hacia entidades divinas en el futuro."
 +++

@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Edad del Mundo"
 description = "Era Mundial, también conocida como Era Astrológica, término coloquial para designar un Gran Mes por su nombre Zodiacal. Por ejemplo, en este momento, estamos pasando de la Era de Piscis a la Era de Acuario."
 iceberg = 2

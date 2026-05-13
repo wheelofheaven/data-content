@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Leviathan"
 description = "Leviathan, eine metaphorische Anspielung auf die verbannte elohimische Fraktion, auch bekannt als die Schlange, die sich unter den Ozeanen verstecken musste, um sich vor ihren Gegnern zu schützen."
 +++

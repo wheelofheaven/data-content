@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Encubrimiento militar de la exobiología"
 description = "El encubrimiento militar de la exobiología se refiere a la idea de que las organizaciones militares o los gobiernos ocultan información sobre el estudio de la vida extraterrestre o los encuentros con extraterrestres. Sugiere que hay conocimiento oculto o evidencia relacionada con la existencia de vida más allá de la Tierra, y que las entidades militares están suprimiendo o controlando activamente la divulgación de esta información al público. Los defensores de esta teoría argumentan que el ejército está involucrado en capturar o investigar avistamientos de ovnis, realizar investigaciones secretas sobre formas de vida extraterrestre o incluso ocultar evidencia de contacto directo con extraterrestres. La noción de un encubrimiento militar de la exobiología implica un esfuerzo deliberado para ocultar o manipular información sobre posibles fenómenos extraterrestres por diversas razones, como la seguridad nacional o la estabilidad social."
 +++

@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Mythologie comparée"
 description = "Mythologie comparée , un domaine de recherche qui compare les mythes des cultures afin d'identifier des motifs communs. La recherche a montré que les cultures dépeignent des chevauchements importants dans leurs récits mythologiques. Ce chevauchement suggère fortement que ces motifs partagés entre les cultures reflètent des événements universels qui ont très probablement eu lieu."
 +++

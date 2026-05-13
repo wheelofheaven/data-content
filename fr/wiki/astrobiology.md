@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Astrobiologie"
 description = "L'astrobiologie, un domaine de recherche scientifique qui étudie la vie dans l'univers. Comme la vie dans l'Univers n'a pas été observée de manière concluante, l'astrobiologie s'intéresse avant tout aux conditions dans lesquelles la vie extraterrestre est possible."
 +++

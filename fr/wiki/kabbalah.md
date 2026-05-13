@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Kabbale"
 description = "La Kabbale (קַבָּלָה) signifiant littéralement « tradition » est une école de pensée du mysticisme juif. Son œuvre écrite majeure est connue sous le nom de Zohar."
 +++

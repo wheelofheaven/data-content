@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Heilige Geometrie"
 description = "Heilige Geometrie, die These, dass geometrische Vorstellungen höherer Ordnung in einer Reihe historischer Strukturen, Gebäude und Artefakte verwendet wurden, was darauf hindeutet, dass ihre Erbauer ihrer Arbeit bewusst eine zusätzliche Bedeutungsdimension hinzugefügt haben, indem sie ihr Erbe effektiv mit bedeutungsvollen Proportionen kodifizierten und sie daher verließen Fingerabdrücke, die auf eine gemeinsame Tradition des Wissens und der Weisheit verweisen."
 +++

@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Génesis"
 description = "Génesis, etimológicamente, el primer libro de la Biblia, también conocido como Libro del Génesis o B'reshit (בְּרֵאשִׁית) en hebreo. Más figurativamente, la suma de todos los proyectos de creación llevados a cabo en el planeta Tierra por los Elohim que duró 7 Grandes Meses, lo que equivale a aproximadamente 15'000 años."
 +++

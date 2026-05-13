@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Hypothèse des anciens astronautes"
 alernatives = ["Ancient aliens"]
 description = "Hypothèse des anciens astronautes, également connue sous le nom d'anciens extraterrestres, l'idée que des êtres extraterrestres ont visité la Terre dans le passé et ont influencé les cultures et les civilisations anciennes. Cette hypothèse suggère que de nombreuses structures et artefacts anciens, tels que des pyramides et des objets sacrés comme l'Arche de l'Alliance, ont été créés avec l'aide d'êtres extraterrestres et étaient destinés à transmettre des messages sur la nature de l'univers et notre place en son sein. Les partisans de l'hypothèse évoquent également des légendes, des mythes et des textes religieux de diverses cultures qui décrivent des rencontres avec des êtres des étoiles."

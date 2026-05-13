@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Estrella de David"
 description = "Estrella de David, un símbolo antiguo conocido por muchos nombres como el Escudo de David (Maguen David) o el Sello de Salomón. Si bien generalmente se asocia con la cultura judía y la fe judía, muchas culturas lo representan en varios momentos de la historia humana. En el raelismo, se interpreta que su significado representa tanto la equivalencia de todas las escalas de existencia (comúnmente referidas por el infame dicho hermético \"Como es arriba, es abajo\"), así como la inmensidad infinita del espacio (infinito)."
 +++

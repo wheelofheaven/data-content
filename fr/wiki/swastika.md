@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Swastika"
 description = "Croix gammée, un symbole religieux et culturel exposé par de nombreuses cultures anciennes jusqu'à ce jour. Bien que généralement associé à la notion de bien-être, de bonne chance et de connocations positives similaires, dans le raëlisme, il est considéré comme représentant simultanément le natore cyclique du temps, ainsi que la continuité éternelle du temps (infini)."
 +++

@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Bible"
 description = "Bible, un ensemble d'anciennes écritures religieuses témoignant de ce qui s'est passé afin que l'humanité ait la preuve lorsque la Vérité sera à nouveau révélée à l'époque de l'Apocalypse."
 +++

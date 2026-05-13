@@ -1,4 +1,5 @@
 +++
+template = "timeline-page.html"
 title = "Zeitalter des Steinbocks"
 period = "21'810—19'650 v. Chr."
 age = "capricorn"

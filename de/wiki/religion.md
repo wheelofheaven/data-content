@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Religion"
 description = "Religion, eine Reihe von Praktiken und Überzeugungen, die die Verbindung (von lateinisch religare, „wieder verbinden“) zwischen den Menschen auf der Erde und den Elohim, unseren Vorfahren und Schöpfern des Lebens auf der Erde, kultivieren und lehren. So wie die Beziehung zwischen den Eltern und ihren Kindern eine Bindung ist, die Pflege und Ehrfurcht erfordert, ist eine Religion dazu da, die Verbindung zwischen den Schöpfern und den Geschaffenen aufrechtzuerhalten. Eine Religion, die nicht danach strebt, dieses Band der Dankbarkeit gegenüber denen, die uns erschaffen haben, zu pflegen und zu rationalisieren, ist ein völlig anderes soziokulturelles System."
 +++

@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Saṃsāra"
 description = "Saṃsāra , une notion bouddhiste, jaïniste et hindouiste du cycle de la mort et de la renaissance. Bien que le mot lui-même ne soit pas canonique, Samsara fait référence au cycle d'autodestruction récurrente si la sophistication progressive des moyens scientifiques et technologiques est utilisée pour le bellicisme et la dissuasion. Surmonter le cycle de la mort et de la renaissance est la condition ultime pour entrer dans l'âge d'or de l'abondance et de la prospérité."
 +++

@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Biblia"
 description = "Biblia, un conjunto de escrituras religiosas antiguas que atestiguan lo que ha sucedido para que la humanidad tenga pruebas cuando la Verdad se revele nuevamente durante los tiempos del Apocalipsis."
 +++

@@ -1,4 +1,5 @@
 +++
+template = "timeline-page.html"
 title = "Preámbulo"
 period = "antes de 21'810 a.C."
 description = "El preámbulo introduce una narrativa especulativa sobre una civilización extraterrestre avanzada, los Elohim, que se embarcan en la experimentación genética y la exploración interestelar. Trazando paralelos con la serie \"Jurassic Park\", profundiza en los eventos hipotéticos que llevaron a la llegada de los Elohim a la Tierra, ambientados en la época de la Era de Capricornio, hace 21,810 años. Esta historia combina elementos de ciencia ficción con mitología, explorando temas de la soberbia científica y las ramificaciones de la ingeniería genética."

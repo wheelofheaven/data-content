@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Lista de sitios megalíticos"
 description = "Lista de sitios megalíticos. Una extensa enumeración de sitios megalíticos conocidos que presentan más o menos claramente las huellas dactilares de calidades de construcción arquitectónica avanzada."
 +++

@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Antiguos Constructores"
 description = "Ancient Builders, a veces también denominado simplemente Builder Race, la propuesta de que un número desconocido de civilizaciones constructoras coexistentes o sucesivas son responsables de haber construido estructuras arquitectónicas duraderas e hiperresistentes que han durado al menos miles de años. . Si bien estas estructuras pueden o no haber sido construidas por la misma civilización, pueden caracterizarse como construidas por constructores antiguos por una serie de huellas dactilares peculiares, como elementos de construcción megalíticos, el entrelazamiento poligonal de estos elementos y alineaciones astronómicas."
 +++

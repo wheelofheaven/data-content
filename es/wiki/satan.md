@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Satanás"
 description = "Satán (śāṭān, hebreo: שָׂטָן), que no debe confundirse con Lucifer, es un Eloha (אֱלוֹהַּ) y el representante de una facción dentro de los Elohim (אֱלֹהִים) que se opone a la existencia de una civilización descendiente próspera en la Tierra que es vista como un amenaza para su bienestar remoto. Como tal, Satán no es un nombre propio, sino una forma indicativa del papel que desempeña Satán, a saber, el de un obstructor, de un acusador o incluso de un acusador."
 +++

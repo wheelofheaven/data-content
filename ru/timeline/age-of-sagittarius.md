@@ -1,4 +1,5 @@
 +++
+template = "timeline-page.html"
 title = "Эпоха Стрельца"
 period = "19 650–17 490 до н.э."
 age = "sagittarius"

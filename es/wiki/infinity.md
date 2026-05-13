@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Infinito"
 description = "Infinito, una visión científica del orden más alto, ya que postula la extensión perpetua del tiempo y del espacio. No hay centro como no hay principio ni fin. Dos símbolos antiguos conocidos en todo el mundo y las edades dan testimonio de esta sabiduría de antaño dada a nosotros por los Elohim, a saber, la esvástica que representa la naturaleza cíclica del tiempo y la atemporalidad, y Magen David que representa a su vez que lo que está arriba está abajo, es decir, el camino. el espacio se expande a niveles macroscópicos mayores es igual a la forma en que se pliega el espacio dentro de los niveles microscópicos."
 +++

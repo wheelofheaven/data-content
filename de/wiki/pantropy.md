@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Pantropie"
 description = "Pantropie, die Idee, die menschliche Spezies genetisch zu verändern und anzupassen, um auf einem anderen Planeten leben zu können, der ansonsten der aktuellen Konstitution und den biologischen Fähigkeiten der Spezies feindlich gegenübersteht. Die von den Elohim hergestellte Kontinuität, die menschliche Spezies auf dem Planeten Erde nach ihrem eigenen Bild gentechnisch verändert zu haben, kann als Beispiel für Pantropie verstanden werden."
 +++

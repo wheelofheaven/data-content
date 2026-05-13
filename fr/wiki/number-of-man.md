@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Nombre de l'Homme"
 description = "Le Nombre d'Homme, aussi appelé Nombre de la Bête ou simplement par la valeur qu'il représente, 666 (χξϛ), est le nombre de générations humaines qui auront existé sur Terre depuis la création des premiers hommes lors de la Genèse. Si une génération est définie pour durer 20 ans, le produit du Nombre d'Hommes s'élève à 13'320 ans. Si nous venons d'entrer dans l'ère du Verseau et que nous supposons que cela coïncide avec le nombre d'hommes, le premier être humain doit avoir été créé il y a un demi-cycle précessionnel, ce qui serait au début de l'ère du Lion."
 +++

@@ -1,4 +1,5 @@
 +++
+template = "timeline-page.html"
 title = "蠍座の時代"
 period = "紀元前17'490—紀元前15'330"
 age = "scorpio"

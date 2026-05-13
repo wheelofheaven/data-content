@@ -1,4 +1,5 @@
 +++
+template = "timeline-page.html"
 title = "射手座の時代"
 period = "紀元前 19'650 年—紀元前 17'490 年"
 age = "sagittarius"

@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "US Space Force"
 description = "La Fuerza Espacial de los Estados Unidos (USSF), establecida en diciembre de 2019, es la sexta rama de las Fuerzas Armadas de los Estados Unidos. Conceptualizado durante la administración Trump, fue creado debido a la creciente importancia estratégica del espacio. Trump consideró necesaria la creación de la USSF debido a la naturaleza evolutiva de la guerra, la dependencia de los sistemas militares modernos de los activos espaciales y la creciente competencia internacional en el espacio. La USSF, bajo el Departamento de la Fuerza Aérea, tiene la tarea de proteger los intereses de los EE. UU. en el espacio, disuadir la agresión en o desde el espacio y realizar operaciones espaciales."
 +++

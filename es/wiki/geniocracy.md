@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Geniocracia"
 description = "Geniocracia, un sistema político propuesto presentado por Yahweh como parte de los Nuevos Mandamientos que elige a individuos inteligentes en posiciones políticas reunidas de la totalidad de la humanidad, por lo tanto, solo reconoce la inteligencia como un atributo de elegibilidad en lugar de riqueza, clase, fuerza o poder."
 +++

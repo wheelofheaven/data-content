@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Conseil des Éternels"
 description = "Council of Eternals, également Grand Council of Eternals, est un organe directeur de la civilisation élohimienne. Il est constitué de 700 membres qui vivent tous éternellement sur une planète dédiée séparée de leur planète d'origine. Ce même organe directeur est référencé dans plusieurs religions, en particulier dans les écritures bibliques et est intervenu et est toujours intervenu dans les affaires terrestres."
 +++

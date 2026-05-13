@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Raëlismo"
 description = "El Raëlismo, un nuevo movimiento religioso que se remonta a un francés, Claude Vorhilon, quien afirmó haberse encontrado con el representante de una civilización extraterrestre, Yahweh, en 1973 y años subsiguientes. Gradualmente adoptó el nombre de Raël y registró los diálogos que ocurrieron durante todos los encuentros en una serie de libros que cualquiera puede leer hoy en día. La premisa de la fe Raëliana es que la mayoría de las religiones son testigos de las acciones de una civilización extraterrestre avanzada similar a un dios que terraformó la Tierra hace unos 25,000 años y posteriormente creó vida en la Tierra de forma sintética, como se describe en el Génesis bíblico y otros mitos de la creación."
 +++

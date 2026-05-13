@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Terraforming"
 description = "Terraforming, die Idee, konstitutionelle Merkmale eines Exoplaneten wie die Atmosphäre oder die Oberfläche dieses Planeten zu verändern, um es einer humanoiden Spezies zu ermöglichen, darauf zu leben. Terraforming ist die Technik, die die Elohim zu Beginn ihres Genesis-Projekts angewendet haben, um den Planeten Erde bewohnbar zu machen."
 +++

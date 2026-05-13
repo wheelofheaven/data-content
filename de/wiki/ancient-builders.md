@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Antike Baumeister"
 description = "Antike Baumeister, manchmal auch einfach als „Baumeisterrasse“ bezeichnet, sind die These, dass eine unbekannte Anzahl nebeneinander existierender oder aufeinanderfolgender Baumeisterzivilisationen dafür verantwortlich sind, langlebige, äußerst widerstandsfähige architektonische Strukturen gebaut zu haben, die mindestens tausend Jahre überdauert haben . Obwohl diese Bauwerke möglicherweise von derselben Zivilisation erbaut wurden oder auch nicht, können sie durch eine Reihe besonderer Merkmale wie megalithische Bauelemente, die polygonale Verzahnung dieser Elemente und astronomische Ausrichtungen als von antiken Baumeistern erbaut charakterisiert werden."
 +++

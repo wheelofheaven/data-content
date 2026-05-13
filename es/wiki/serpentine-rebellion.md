@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Rebelión serpentina"
 description = "La rebelión serpentina, la facción compuesta por creadores exiliados, que habían sido desterrados a la Tierra y ayudaron a Noé a preservar la vida, también dio lugar a un grupo híbrido de adamitas. Esta facción estaba en rebelión contra el gobierno gobernante en su planeta natal, dirigido por el presidente del Consejo de los Eternos, Yahweh. Después del Gran Diluvio, se produjo un enfrentamiento armado tanto en la Tierra como en el espacio circundante."
 +++

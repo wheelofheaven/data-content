@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Diseño inteligente"
 description = "Diseño inteligente, un paradigma científico competitivo sobre cómo se originó la vida en la Tierra. Sería la representación más precisa de lo que sucedió si los Elohim diseñaron sintéticamente la vida en la Tierra a través de la ingeniería genética ex-nihilo."
 +++

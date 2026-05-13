@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Lista de lecturas etimológicas"
 description = "Lista de lecturas etimológicas. Mediante la exploración de las premisas planteadas por Wheel of Heaven, hay una serie de nociones religiosas, mitológicas o tradicionales que pueden leerse etimológicamente. Esta lista va a catalogar a la mayoría de estas nociones."
 +++

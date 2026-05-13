@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Antédiluvien"
 description = "Antédiluvien, la période de la vie sur Terre qui a précédé le Grand Déluge. Plus précisément, la période antédiluvienne fait référence à un état du monde où la civilisation humaine avait fait de grands progrès technologiques et avait produit des descendants avec un groupe d'Elohims qui avaient été bannis pour rester sur Terre."
 +++

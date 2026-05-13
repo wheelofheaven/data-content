@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Profeta"
 description = "Prophet, un embajador humano que actúa como mensajero y representante en nombre de Elohim, la civilización creadora que diseñó genéticamente la vida en la Tierra. A lo largo de la historia, muchas personas han sido escogidas para servir como profetas. Cada uno de los cuales inspiró un nuevo movimiento religioso o al menos dejó una tradición oral o escrita. En cualquier caso, contribuyendo en última instancia a la preservación y formación de un legado elohimiano en la Tierra."
 +++

@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Biglino-Methode"
 description = "Die Biglino-Methode ist ein alternativer Ansatz zur Interpretation der Bibel und plädiert für ein wörtliches Verständnis ihres Inhalts, anstatt sich auf bildliche Sprache oder etablierte Exegese zu verlassen. Ziel ist es, eine andere Erzählung aufzuzeigen, indem der Text ohne metaphorische Interpretationen untersucht und der historische und kulturelle Kontext betont wird."
 +++

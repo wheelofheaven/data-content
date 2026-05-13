@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Jahwe"
 description = "Jahwe (יהוה), auch bekannt als der Erste und der Letzte (Alpha und Omega), ist ein Eloha (אֱלוֹהַּ) und der Hauptvertreter der Elohim (אֱלֹהִים) als Ganzes. Er ist ein Ewiger in dem Sinne, dass er bereits mehrere Körper bewohnt hat (eine elohimische Technik, um ewig zu leben) und daher Mitglied des Rates der Ewigen ist und als deren Ratsvorsitzender fungiert. In den biblischen Schriften wird Jahwe als die Gottheit identifiziert und auch austauschbar mit der Zivilisation gleichgesetzt, die er repräsentiert, den Elohim. Jahwe war auch der Eloha, dem Raël wie alle Propheten vor ihm mehrfach begegnete."
 +++

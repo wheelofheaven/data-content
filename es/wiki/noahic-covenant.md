@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Pacto Noájida"
 description = "El pacto de Noé es una promesa hecha por los Elohim justo después del Gran Diluvio que arrasó con casi toda la vida en el planeta Tierra para que nunca más vuelva a suceder. El Gran Diluvio fue los efectos causados por una medida preventiva iniciada por el gobierno opositor de Elohim para acabar con todo progreso científico emprendido por los seres humanos terrestres que se consideró demasiado peligroso. Con la ayuda de una facción desterrada de Elohim, Noahs y otros lograron preservar la vida almacenando material de origen genético de todas las especies terrestres que se salvaguardó a bordo del Arca, una nave espacial en órbita."
 +++

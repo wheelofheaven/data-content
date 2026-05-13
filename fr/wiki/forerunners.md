@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Précurseurs"
 description = "Les Forerunners étaient une civilisation extraterrestre extraordinairement avancée qui aurait créé les Elohim, une race humanoïde qui est devenue elle-même des créateurs, finissant par modifier génétiquement la vie sur Terre. La véritable nature et l'identité des Forerunners restent en grande partie un mystère, car ils ont apparemment disparu avant que les Elohim ne puissent les rencontrer physiquement ou apprendre directement d'eux. Leur héritage, cependant, survit sous la forme de leurs vastes connaissances scientifiques, qui ont été préservées et pourraient un jour être transmises à l'humanité."
 +++

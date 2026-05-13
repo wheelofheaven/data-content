@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Großes Jahr"
 description = "Großes Jahr, auch platonisches Jahr genannt, ein Zeitraum von etwa 25.920 Jahren, also die Zeitspanne, die ein vollständiger Präzessionszyklus benötigt."
 +++

@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Wheel of Heaven"
 description = "Wheel of Heaven，一个网络知识库，探索了这样一个工作假设：地球上的生命是由我们统称为耶洛因的外星文明智能设计和制造的。天轮本身是对岁差的隐喻，它是一个持续不断转动的星座天轮。这也是对古埃及法老阿肯那顿（Akhenaton）的稍微晦涩的提及，他将圆盘状的太空飞船描述为看起来像天堂中的轮子。"
 +++

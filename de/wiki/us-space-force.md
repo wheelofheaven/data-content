@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "US Space Force"
 description = "Die im Dezember 2019 gegründete United States Space Force (USSF) ist der sechste Zweig der US-Streitkräfte. Es wurde während der Trump-Administration konzipiert und entstand aufgrund der zunehmenden strategischen Bedeutung des Weltraums. Trump hielt die Gründung der USSF aufgrund der sich weiterentwickelnden Natur der Kriegsführung, der Abhängigkeit moderner Militärsysteme von weltraumgestützten Mitteln und der wachsenden internationalen Konkurrenz im Weltraum für notwendig. Die dem US-Luftwaffenministerium unterstellte USSF hat die Aufgabe, die Interessen der USA im Weltraum zu schützen, Aggressionen im oder aus dem Weltraum abzuschrecken und Weltraumoperationen durchzuführen."
 +++

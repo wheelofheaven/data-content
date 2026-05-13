@@ -1,4 +1,5 @@
 +++
+template = "timeline-page.html"
 title = "金牛座时代"
 period = "4'530—2'370BC"
 age = "taurus"

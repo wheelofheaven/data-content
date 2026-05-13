@@ -1,4 +1,5 @@
 +++
+template = "timeline-page.html"
 title = "Era de Aries"
 period = "2'370—210 a. C."
 age = "aries"

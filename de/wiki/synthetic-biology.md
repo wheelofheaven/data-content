@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Synthetische Biologie"
 description = "Synthetische Biologie ist ein interdisziplinäres Gebiet, das Prinzipien aus Biologie, Genetik und Technik kombiniert, um künstliche biologische Systeme, genetische Schaltkreise und Organismen mit neuartigen Funktionen oder Eigenschaften zu entwerfen und zu konstruieren. Dabei handelt es sich um die bewusste Veränderung oder Schaffung von genetischem Material und die Konstruktion biologischer Komponenten, um lebende Zellen so zu programmieren, dass sie bestimmte Aufgaben ausführen oder gewünschte Eigenschaften aufweisen. Die synthetische Biologie zielt darauf ab, biologische Systeme zu verstehen und umzugestalten."
 +++

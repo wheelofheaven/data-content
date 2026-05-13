@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Lucifer"
 description = "Lucifer (portador de luz en latín, o hêlēl, hebreo: הֵילֵל, que significa lo mismo), que no debe confundirse con Satanás, es un Eloha (אֱלוֹהַּ) y el representante de una facción dentro de los Elohim (אֱלֹהִים) que apoya una próspera civilización humana en la Tierra. No es un nombre propio, sino un término metafórico para el papel de traer luz. El nombre Lucifer y su contraparte semítica hêlēl se refieren a la estrella de la mañana, Venus, que sale antes que el sol al amanecer."
 +++

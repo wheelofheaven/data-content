@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Serpent"
 description = "Serpent , une référence métaphorique à une faction indisciplinée parmi les Elohim (אֱלֹהִים). Après que les premiers êtres humains aient été modifiés synthétiquement sur Terre, un sous-ensemble de l'ingénierie Elohim a jugé essentiel d'éduquer ces nouvelles créatures humaines de manière égale. L'éducation a été donnée aux premiers êtres humains et les Elohim qui en étaient responsables, connus sous le nom de Serpent, ont été condamnés et exilés pour rester sur Terre pour leur intrusion. L'un des principaux protagonistes de cette faction est connu sous le nom de Lucifer, le porteur de lumière."
 +++

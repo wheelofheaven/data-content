@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Traduction de la Bible par Dhorme"
 description = "Dhorme Bible , une traduction de la Bible française réalisée par l' assyrologue et sémitologue français Édouard Dhorme (1881–1966) connu pour son style de traduction littérale qui a conservé les significations originales intactes dans la langue française."
 +++

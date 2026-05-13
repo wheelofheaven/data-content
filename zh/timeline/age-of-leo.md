@@ -1,4 +1,5 @@
 +++
+template = "timeline-page.html"
 title = "狮子座时代"
 period = "11'010—8'850BC"
 age = "leo"

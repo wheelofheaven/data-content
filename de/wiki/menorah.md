@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Menora"
 description = "Die Menora dient als Erinnerung an die Schalttafel eines zentralen Stützpunkts der Elohim in der antiken Levante. Diese Schalttafel war durch sieben beleuchtete Schalter gekennzeichnet, von denen man annahm, dass sie die Verbindung mit sechs weiteren Stützpunkten und einem interplanetaren Schiff im Orbit aufrechterhielten. Diese Interpretation legt nahe, dass die sieben Zweige der Menora metaphorisch die sieben elohimischen Stützpunkte symbolisieren, die in dieser Zeit auf der Erde errichtet wurden."
 +++

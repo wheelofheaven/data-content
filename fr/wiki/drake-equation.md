@@ -1,4 +1,5 @@
 +++
+template = "wiki-page.html"
 title = "Équation de Drake"
 description = "Équation de Drake , une équation exprimant la probabilité d'une vie extraterrestre intelligente comme le produit de divers facteurs tels que la fraction de planètes qui pourraient être habitables ou la fraction de planètes sur lesquelles la vie pourrait survenir. L'équation porte le nom de Franke Drake et sert d'expérience de pensée probabiliste pour envisager l'existence possible d'une vie extraterrestre."
 +++
