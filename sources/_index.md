@@ -1,9 +1,12 @@
 +++
 title = "Sources"
-description = "Every source used in Wheel of Heaven, organized by authority tier and tradition. From the Raëlian canon through comparative scriptures, scholarly context, scientific context, critical scholarship, and supplementary materials."
+description = "Every source used in Wheel of Heaven, organized by family and relation to the canon. From the Raëlian foundation through comparative scriptures, scholarly context, science, and critical readings."
 template = "sources-section.html"
+sort_by = "title"
+generate_feeds = true
+aliases = ["/resources/"]
 
 [extra]
 translation_status = "en_only"
-summary = "A tiered view of every book, paper, text, film, and website in the Wheel of Heaven corpus, grouped by authority tier and source tradition."
+summary = "A tiered view of every book, paper, text, film, and website in the Wheel of Heaven corpus, grouped by source family and editorial relation to the canon."
 +++
