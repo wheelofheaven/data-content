@@ -9,6 +9,7 @@ aliases = [
     "/intro/see-more/knowledge-base/",
     "/explore/",
     "/explore/concept/",
+    "/wiki/how-to-use-wiki/",
 ]
 generate_feeds = true
 +++
