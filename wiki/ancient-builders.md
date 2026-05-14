@@ -6,6 +6,7 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+editorial_pass = "2026-05"
 category = "Peoples & Groups"
 entry_type = "concept"
 alternative_names = ["Ancient Builders", "Builder Race", "Megalithic Builders", "the Builders", "lost civilization (broader popular usage)", "Atlantean builders (in Atlantis-tradition usage)"]

@@ -6,6 +6,7 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+editorial_pass = "2026-05"
 category = "Symbolism & Motifs"
 entry_type = "concept"
 alternative_names = ["Sacred Geometry", "geometric symbolism", "sacred mathematics", "sacred proportion", "divine geometry", "Heilige Geometrie (German)", "géométrie sacrée (French)"]

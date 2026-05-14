@@ -6,6 +6,7 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+editorial_pass = "2026-05"
 category = "Symbolism & Motifs"
 entry_type = "concept"
 alternative_names = ["mytheme", "mythological motif (broader usage)", "narrative element (broader usage)", "mythème (French original)", "Mythem (German)", "mitema (Italian, Spanish)"]

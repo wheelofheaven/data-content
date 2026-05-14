@@ -6,6 +6,7 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+editorial_pass = "2026-05"
 category = "Ufology"
 entry_type = "concept"
 alternative_names = ["crop circles", "crop formations", "agriglyphs (occasional alternative)", "pictograms (1990s technical designation)", "cercles de cultures (French)", "Kornkreise (German)"]

@@ -7,6 +7,7 @@ toc = true
 aliases = ["/intro/religious-syncretism/"]
 
 [extra]
+editorial_pass = "2026-05"
 category = "Methodology"
 entry_type = "concept"
 alternative_names = ["Comparative Mythology", "comparative religion (overlapping discipline)", "mythography (related but distinct discipline)", "comparative folklore", "Mythologie comparée (French)", "vergleichende Mythologie (German)"]

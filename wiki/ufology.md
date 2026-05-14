@@ -7,6 +7,7 @@ toc = true
 aliases = ["/intro/ufology/"]
 
 [extra]
+editorial_pass = "2026-05"
 category = "Ufology"
 entry_type = "concept"
 alternative_names = ["ufology", "UAP studies (contemporary policy designation)", "flying saucer studies (historical designation)", "anomalistics (broader related field)", "exopolitics (specific subdiscipline)", "OVNIs (French; Objet volant non identifié)", "UFO research"]

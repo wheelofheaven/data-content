@@ -6,6 +6,7 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+editorial_pass = "2026-05"
 category = "Science & Technology"
 entry_type = "concept"
 alternative_names = ["astrobiology", "exobiology (earlier synonymous term)", "bioastronomy", "xenobiology (related but distinct)", "astrobiologie (French)", "Astrobiologie (German)"]

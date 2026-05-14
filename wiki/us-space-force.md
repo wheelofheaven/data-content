@@ -6,6 +6,7 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+editorial_pass = "2026-05"
 category = "Ufology"
 entry_type = "concept"
 alternative_names = ["U.S. Space Force", "USSF", "Space Force", "United States Space Force"]

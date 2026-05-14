@@ -7,6 +7,7 @@ toc = true
 aliases = ["/wiki/government-uap-coverup/"]
 
 [extra]
+editorial_pass = "2026-05"
 category = "Ufology"
 entry_type = "concept"
 alternative_names = ["government UAP cover-up", "UFO cover-up", "UAP disclosure", "military cover-up of exobiology (earlier designation)", "UAP secrecy", "extraterrestrial contact cover-up"]

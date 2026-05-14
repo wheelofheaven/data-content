@@ -6,6 +6,7 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+editorial_pass = "2026-05"
 category = "Science & Technology"
 entry_type = "concept"
 alternative_names = ["Drake Equation", "Green Bank Equation (occasional alternative)", "Drake-Sagan Equation (rarely used)", "\u00e9quation de Drake (French)", "Drake-Gleichung (German)"]

@@ -6,6 +6,7 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+editorial_pass = "2026-05"
 category = "Methodology"
 entry_type = "concept"
 alternative_names = ["archaeoastronomy", "astroarchaeology (earlier term)", "cultural astronomy (broader contemporary term)", "ethnoastronomy (related discipline)", "astronomy in culture (alternative designation)", "arch\u00e9oastronomie (French)", "Arch\u00e4oastronomie (German)"]
