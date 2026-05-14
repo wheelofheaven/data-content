@@ -1,206 +1,461 @@
 +++
-template = "wiki-page.html"
 title = "Méthode Biglino"
 description = "La méthode Biglino est une approche alternative à l'interprétation de la Bible, préconisant une compréhension littérale de son contenu plutôt que de s'appuyer sur un langage figuré ou une exégèse établie. Il cherche à révéler un récit différent en examinant le texte sans interprétations métaphoriques et en mettant l'accent sur le contexte historique et culturel."
+template = "wiki-page.html"
+toc = true
+
+[extra]
+editorial_pass = "2026-05"
+category = "Methodology"
+entry_type = "concept"
+alternative_names = ["Biglino Method", "Metodo Biglino (Italian)", "the 'let's pretend it's true' method", "the naked-Bible method"]
+timeline = ["age-of-aquarius"]
+
+[extra.infobox]
+type = "Hermeneutic methodology for reading the Hebrew Bible; principal contemporary articulation of the Schliemann-Sendy literal-reading tradition"
+developer = "Mauro Biglino (1950–), Italian translator and scholar; 17-year career as Hebrew Bible translator for Edizioni San Paolo (Pauline Editions, Vatican-affiliated Catholic publisher); independent author from 2010 onward"
+principal_source = "*Il libro che cambierà per sempre le nostre idee sulla Bibbia* (2011); *The Naked Bible* (with Giorgio Cattaneo, English edition 2022) for the explicit methodological articulation"
+methodology = "Three steps: (1) obtain familiarity with the original Hebrew text; (2) set aside accumulated traditional interpretation; (3) read the text literally, taking words in their concrete sense"
+slogan = "'Pretend that the Bible is simply telling the truth' — Biglino's principal methodological formulation"
+methodological_precedent = "Heinrich Schliemann's literal reading of the Homeric epics, leading to the identification and excavation of Troy (1870s); explicitly invoked by Jean Sendy in *Ces dieux qui firent le ciel et la terre* (1969) as the model for Bible reading approximately four decades before Biglino's independent articulation"
+distinguished_from = "Mainstream historical-critical method (which treats the text as composite and seeks original source-strata); confessional theological exegesis (which reads through inherited theological framework); allegorical exegesis (which reads literal narrative as cipher for theological content)"
+corpus_position = "Necessary but insufficient: the corpus accepts the literal-reading principle and applies it to Hebrew terms and narratives, while integrating Biglino's commitments with the broader Hamlet's Mill precessional framework, Vorilhon source-textual primacy, cross-cultural comparative engagement, and disciplined epistemic-pluralism methodology"
+status_in_framework = "Principal contemporary methodological articulation engaging Hebrew Bible directly; one component of the broader corpus hermeneutic alongside Sendy's framework, the Vorilhon revelation, and the Hamlet's Mill integration"
 +++
 
-## Parallels with Schliemann
+The **Biglino Method** is the interpretive methodology developed by Italian translator and scholar **Mauro Biglino** (1950–) for reading the Hebrew Bible. The method consists of three commitments:
 
-Heinrich Schliemann was a 19th-century German archaeologist and businessman. He is best known for his excavations at the ancient sites of Troy and Mycenae, where he claimed to have discovered the remnants of the historical cities mentioned in Greek mythology. Schliemann's excavations and his belief in the historical accuracy of the Iliad and the Odyssey brought him both fame and controversy. Despite criticisms of his methods, Schliemann's discoveries significantly contributed to the field of archaeology and our understanding of ancient civilizations.
+1. Obtain familiarity with the original Hebrew text — or work with reliable interlinear translations and lexical resources where direct linguistic competence is unavailable
+2. Set aside the accumulated traditional interpretation, particularly the theological framing imposed by Christian, Jewish, and Islamic exegetical traditions across two millennia
+3. Read the text literally, taking the words in their concrete sense rather than as metaphor or allegory requiring decoding
 
-In the book [Those Gods Who Made Heaven And Earth](../../library/those-gods-who-made-heaven-and-earth/) by Jean Sendy, a parallel is drawn between Schliemann's literal approach to reading the Homeric verses and his successful uncovering of the alleged ruins of Troy.
+The method's slogan, drawn from Biglino's collaborative book *The Naked Bible* (with Giorgio Cattaneo, English edition 2022), is: *"pretend that the Bible is simply telling the truth."* The phrasing is deliberately provisional. Biglino does not assert that the Bible is true; he proposes that one read the text as if it were true and observe what coherent account results. As he formulates the approach in *The Naked Bible*:
 
-> The hypothesis that forms the structure of this book is founded on portions of the Bible, read as Schliemann read Homer.[^portions]
+> *"This text, later interpreted for other purposes by various theologies of different origins, must in fact be separated from those intentions and be simply read again, just like all other ancient sources... If we accept the Bible for what it is and treat it accordingly, like the Iliad and the Odyssey, there's no problem."*
 
-Sendy contends that just as Schliemann approached the Iliad with meticulousness and attentiveness, he advocates for a similar level of rigor in interpreting the Bible. By employing a comparable methodology, Sendy suggests that a literal reading of the biblical text can yield valuable insights and discoveries. The maxim that Sendy puts forward is the _"reading the Bible as Schliemann read Homer"_.
+The methodological precedent Biglino acknowledges is **Heinrich Schliemann**'s nineteenth-century approach to the Homeric epics — reading the *Iliad* and *Odyssey* as historically grounded accounts and using the literal reading to identify the geographic location of Troy. Schliemann's excavations at Hisarlık in northwestern Turkey, beginning in 1870, recovered material remains of a city that mainstream classical scholarship had treated as legendary, vindicating the literal-reading principle within classical archaeology.
 
-> What Schliemann did for Homer was exactly what I have tried to do for the Biblical narrative that concerns me.
->
-> Reading the Bible as Schliemann read Homer means ignoring all the exegeses that have accumulated around it for the past two thousand years. Their avowed purpose is to seek proof of the existence of God in the Bible. To someone who reads the Bible "à la Schliemann," on the assumption that the text is to be taken. in its most concrete sense God is as far outside the subject as the religtous beliefs of the Greeks and Trojans were to Schliemann.[^trojans]
+**Jean Sendy**, in *Ces dieux qui firent le ciel et la terre* (1969), articulated the same Schliemann-Homer parallel for Bible reading approximately four decades before Biglino's independent formulation. Sendy wrote: *"The hypothesis that forms the structure of this book is founded on portions of the Bible, read as Schliemann read Homer."* The corpus methodology operates as a synthesis of Sendy's earlier articulation with Biglino's later development — two figures arriving independently at structurally similar methodological commitments and applying them to similar source material with similar results.
 
-Sendy asserts that, just as Schliemann approached the works of Homer with a keen eye for the concrete and tangible aspects of the text, he himself has endeavored to adopt a similar approach in interpreting the Bible. This approach entails disregarding the accumulated exegeses and interpretations that have developed over the course of two millennia, particularly those aimed at finding proof of the existence of God within the text. By reading the Bible with a Schliemann-like mindset, one is encouraged to focus on the narrative's most concrete sense, setting aside theological assumptions and religious beliefs. This contextualization highlights the success of Schliemann's approach in archaeology, as he uncovered physical evidence that aligned with the mythical cities of Troy and Mycenae, which were believed to be mere legends until his discoveries. Similarly, the author implies that a similar concrete reading of the biblical narrative, unencumbered by theological preconceptions, can lead to fresh insights and a deeper understanding of the text's original, intended meaning.
+The Wheel of Heaven framework engages the Biglino Method as a **necessary but insufficient methodological commitment**:
 
-In a manner akin to paradigm shifts in scientific research, Mauro Biglino's approach to interpreting ancient texts parallels the transformative impact of figures like Schliemann in their respective fields. This can be likened to Galileo's groundbreaking assertion during the Copernican Revolution, where he challenged the prevailing belief that the Sun revolved around the Earth. As with any significant breakthrough, initial reactions typically involve disbelief, staunch denial, and even ridicule. Yet, the discoverer eventually presents evidence, akin to a telescope, urging skeptics to examine the truth for themselves:
+- The corpus reads Hebrew terms directly. *Elohim* is treated as a grammatical plural (not silently rendered as the English singular "God"). *Yahweh* is preserved as a proper name (not substituted with "the Lord"). Technical terms — *nachash* (serpent), *kavod* (glory), *ruach* (spirit/wind), *bnei ha-elohim* (sons of the Elohim), *nephilim*, *tannin* (dragon) — are kept in transliteration where their conventional translations carry theological weight the Hebrew does not.
+- The corpus accepts the Schliemann-Sendy-Biglino literal-reading principle for the Hebrew Bible's narrative content. Genesis is read as a record of events imperfectly preserved in pre-scientific vocabulary rather than as theological allegory.
+- The corpus integrates these commitments with the broader corpus methodology: the *Hamlet's Mill* precessional framework (Santillana and von Dechend, 1969), the Vorilhon source-textual primacy, the cross-cultural comparative engagement, and the disciplined epistemic-pluralism distinction between source claims, comparative observations, corpus interpretations, and speculative inference.
 
-> It always happens, it is just a matter of time. One day someone just comes along and tells you that it is not true that the Sun revolves around the Earth, that exactly the opposite is true. We can imagine the faces of the bystanders.
->
-> At which point the discoverer shows them a telescope and invites them to have a look for themselves. The first reaction is always the same: disbelief, harsh denial, mockery. Come on, how is that possible? Let’s be serious, no one wants to fool around here, especially not about certain things.[^telescope]
+The method's principal critics within mainstream biblical scholarship argue that pure literal reading ignores genre, literary convention, and the composite character of the Hebrew Bible's textual transmission. The corpus position is that these critiques register legitimate concerns about the method applied alone, while missing what the method can recover when integrated with broader methodological commitments.
 
- Invariably, the response follows a familiar pattern: skepticism gives way to recognition, denial yields to acceptance, and mockery transforms into serious consideration. Such is the nature of transformative discoveries that challenge established paradigms, and it is within this context that Biglino's approach aligns with the spirit of unveiling unconventional interpretations of ancient texts.
+This entry articulates the Biglino Method as a methodology — its etymology and naming, the Schliemann-Homer precedent, the Sendy-Biglino methodological genealogy, the three-step methodology in detail, Biglino's biography and bibliography, the corpus's specific positioning within and against the broader method, the mainstream scholarly engagement and the corpus response, the cross-cultural literal-reading comparative tradition, and the entry's place in the broader corpus framework.
 
-> Galileo, after all, can remind us of Ulysses. The adventure of the Homeric hero seems to be speaking directly to us even to this day. Running into unexplored territories requires a willingness to let the known islands slip out of sight, to let go of conventionally acquired knowledge.
->
-> And speaking of Homer: if, for the sake of argument, your name is Heinrich Schliemann and, perchance, one day you find yourself in love with the Iliad, what could you possibly guess from that?
->
-> The road is certainly all uphill from there. If you believe that simple literary pages, however venerated as masterpieces, could unveil chapters of real history, the path ahead of you will be impenetrable.[^uphill]
+## Etymology and naming
 
-Schliemann's approach provides a compelling example of how a literal reading of mythological history can lead to significant breakthroughs. Inspired by his fascination with the Iliad, Schliemann embarked on a remarkable endeavor guided by the belief that the ancient literary work held kernels of historical truth. Despite the challenges and skepticism he faced, Schliemann's unwavering conviction in the historicity of the text drove him to excavate the ancient sites of Troy and Mycenae. Astonishingly, his meticulous efforts unearthed physical evidence that aligned with the mythological narratives, validating his interpretation and reshaping scholarly understanding. Schliemann's success demonstrates the potential of adopting a literal reading approach to uncover new insights and challenge prevailing assumptions within the realm of mythological accounts.
+The term *Biglino Method* (Italian *Metodo Biglino*) is a name applied by readers and commentators to Mauro Biglino's interpretive approach. Biglino himself does not consistently use the formal designation, preferring to articulate the method through its operational slogan ("let's pretend it's true") and its concrete application across his works.
 
-[^portions]: Excerpt from Jean Sendy (1972): [Those Gods Who Made Heaven And Earth](../../library/those-gods-who-made-heaven-and-earth/), p. 12
+The phrase first appears in print in *The Naked Bible* (2022), where Cattaneo describes Biglino's approach with the explicit formulation: *"The Biglino method works like this: 'pretend' that the Bible is simply telling the truth."* The naming reflects standard convention for methodologies associated with a single principal figure (the Socratic method, the Cartesian method, the Schliemann approach). The Italian *Metodo Biglino* and English *Biglino Method* are used interchangeably in contemporary engagement.
 
-[^trojans]: idem, p. 12
+Alternative designations register in different contexts:
 
-[^telescope]: Excerpt from Mauro Biglino, Giorgio Cattaneo (2022): [The Naked Bible: The truth about the most famous book in history](../../library/the-naked-bible/index/), p. 6
+- **"The 'let's pretend it's true' method"** — drawing on Biglino's principal operational slogan
+- **"The naked-Bible method"** — drawing on the title of the 2022 collaborative book and on the method's commitment to stripping away accumulated theological framing
+- **"Reading the Bible as Schliemann read Homer"** — Sendy's earlier articulation of the same approach, which some commentators apply retrospectively to Biglino as well
 
-[^uphill]: idem, p. 7
+The corpus uses **Biglino Method** as the principal designation, with reference to Sendy's earlier articulation where the methodological genealogy is relevant.
 
-## The Naked Bible
+## The Schliemann-Homer precedent
 
-[The Naked Bible](../../library/the-naked-bible/index/) is a book written by the Italian journalist, playwright and screenwriter Giorgio Cattaneo and the Italian scholar Mauro Biglino, which challenges the traditional understanding of the Bible. In their book, Cattaneo writes about how Biglino argues that the texts of the [Old Testament](../../wiki/bible.md#the-hebrew-bible-or-the-tanakh/), specifically the Torah, were not divinely inspired, but rather were written by ancient scribes who recorded the history and beliefs of their society. Therein, Biglino claims that the text has been mistranslated and misinterpreted over time, and that a more accurate understanding of the Bible would reveal that it is not a divine text, but rather a historical document that reflects the cultural and political context of its authors.
+The methodological precedent both Sendy and Biglino acknowledge is the work of **Heinrich Schliemann** (1822–1890), the German businessman and amateur archaeologist whose literal reading of the Homeric epics led to the identification and excavation of Troy.
 
-In this book, on page 119, a method is described that outlines Biglino's approach to examining ancient scriptures and uncovering their intended meaning. The method, developed through years of scholarly work, offers a fresh perspective on interpreting the [Bible](../../wiki/bible/) by taking its content literally rather than relying on figurative language or established exegesis.
+### Schliemann's biography and the Troy excavation
 
-> The Biglino method works like this: ‘pretend’ that the Bible is simply telling the truth.
+Schliemann was born in Mecklenburg, made a substantial commercial fortune in the Russian indigo trade and California gold rush, and at age 46 devoted his remaining career to archaeological investigation of the Homeric world. He had read the *Iliad* repeatedly from childhood and had become convinced, against the prevailing scholarly consensus, that the poem preserved an account of a real historical conflict at a real geographic location.
 
-This means that the Bible, when read literally, suddenly becomes more consistent and appears to tell a fundamentally different story than commonly suggested by established Christian institutions such as the Catholic Church. By immersing himself in the original Hebrew texts and meticulously exploring the etymology of each word, Biglino contends that the Bible should be treated as a historical document reflecting the cultural and political context of its authors, rather than a divinely inspired text. The method encourages readers to consider what the Bible actually describes in its original form, acknowledging the uncertainties resulting from the transmission and alteration of ancient texts over time.
+The mainstream classical scholarship of Schliemann's period treated Homer's epics as essentially mythological. The city of Troy, if it had existed at all, was assumed to be irrecoverable; the *Iliad*'s geographic descriptions were treated as poetic invention or as based on locations no longer identifiable. Schliemann rejected this consensus. He read the *Iliad*'s geographic content — the location of the city in relation to the Hellespont, the Trojan plain, the rivers Scamander and Simois, the topography around the city — as accurate description that could be used to identify the historical site.
 
-To let The Naked Bible talk for itself, on page 416, the following is stated about the method:
+Working from the *Iliad*'s text combined with the topographical research of Frank Calvert (an English archaeologist who had already proposed Hisarlık as the site), Schliemann began excavations at the mound of Hisarlık in northwestern Anatolia in 1870. The excavations continued, with substantial interruptions and revisions, through Schliemann's death in 1890 and were continued by his collaborator Wilhelm Dörpfeld and subsequent archaeologists into the twentieth century.
 
-> What does the text actually describe in the original Hebrew?
->
-> A completely different story.
->
-> Biglino opened that box. And he has never closed it. “This type of project, which I worked on for a few years, brought me into direct contact, let’s say, with the very origins, with the etymology of each individual word. Terms that, time after time, are put back into the context of the stories. Words that gave birth to a mosaic that is totally different from what is traditionally told to us.”
->
-> He started doing this in 2010. Then he began to publish everything he thought he was really reading in the Masoretic Hebrew codex.
->
-> “And so I poured out my doubts, my perplexities, my questions on paper. I expressed my feelings, in describing what was coming out of it. And always with a precise method: ‘let’s pretend that it’s true.’”
+The results vindicated Schliemann's principal contention while complicating its details. Hisarlık contained the superimposed remains of nine successive cities (designated Troy I through Troy IX) spanning roughly 3000 BCE to 500 CE. One of these layers — most likely Troy VI or Troy VIIa, depending on which contemporary archaeologist one consults — was a substantial Late Bronze Age fortified city destroyed by violence in approximately the chronological window the Greek tradition associated with the Trojan War (twelfth or thirteenth century BCE). The mainstream classical-archaeology consensus now treats Hisarlık as the historical Troy; the *Iliad* is treated as preserving genuine memory of Late Bronze Age conflict, however heavily elaborated by subsequent poetic tradition.
 
-The book is written in a way where Cattaneo explores the scholarly work of Biglino by quoting and contextualizing a series of Biglino statements. These statements are decorated with appropriate quotation marks in the various passages highlighted here. Biglino says that the main method of his scholarly work consists of "pretending" what the Bible says "is true". The passage goes on to say:
+### The methodological lesson
 
-> In other words, “Let’s pretend” that what is written in the Bible is true.
->
-> So… is it true?
->
-> “Who knows? No one can guarantee it.”
->
-> So, let’s pretend that it is.
->
-> “To be clear, it is not a playful method. In my opinion, though, it is the only proper one, precisely because we cannot be sure that what is written in the Bible is true. We do not possess the original codices. We only have copies of copies of copies, continually re-worked over time.”
->
-> This is confirmed by the biblical scholars of the Jewish universities themselves, such as those in Jerusalem and Tel Aviv.
->
-> “If there is one thing we can be sure of, it’s that the texts we have today are not the ones that were originally compiled, because every time they re-wrote them, they changed them.”
->
-> And this is certainly not just a biblical anomaly or exclusive to the Old Testament.
->
-> “Naturally, this applies to all ancient texts, not just the Bible. So where’s the problem? The Bible is the only one on which a system of religious thought has been built, thought that claims to be the bearer of absolute, unquestionable truths.”
->
-> This is the real anomaly, and this really is exclusive.
->
-> “If we accept the Bible for what it is and treat it accordingly, like the Iliad and the Odyssey, there’s no problem. If, however, we want to mine out absolute truths, then I say that we should at least go and see what the text says. ‘Let’s pretend’ that what is written is true. And let’s see what comes of that.”
->
-> This is the fruit of the Biglino method, the result of long and patient work, offered to the readers.
->
-> “Basically I say, ‘This text, later interpreted for other purposes by various theologies of different origins, must in fact be separated from those intentions and be simply read again, just like all other ancient sources.’”
->
-> The problem?
->
-> “It arises when we want to consider the text as unique in the history of humanity because it was ‘inspired by God.’ And unfortunately (I say ‘unfortunately’ for those who believe) the Bible simply isn’t.”
+Schliemann's approach had several specific features that the subsequent Bible-reading tradition has drawn on:
 
-The method involves pretending that the Bible is true and examining the original [Hebrew](../../wiki/hebrew/) text to understand its actual description. However, it is acknowledged that no one can guarantee the truthfulness of the Bible, as we only have copies of copies of the original codices, which have been reworked over time. This approach is not considered playful but rather the only appropriate one given the uncertainty surrounding the Bible's accuracy. It is noted that the texts we have today are not the original ones, as they have been changed with each rewriting.
+- **Take the text seriously at the descriptive level.** Schliemann read Homer's geographic descriptions as describing actual geography. Where the text said the city had two principal rivers, he looked for two principal rivers; where it specified the city's position relative to coastline and mountains, he used the description as a search criterion.
+- **Set aside the prevailing scholarly consensus when it has not engaged the text directly.** The classical scholarship Schliemann rejected had not actually tested its mythological reading against the available evidence; it had inherited the reading and elaborated theoretical justifications for it.
+- **Accept that the literal reading may be vindicated, refuted, or partially confirmed.** Schliemann did not insist in advance that the *Iliad* was historical in every detail. He insisted that the historicity question could be tested by reading the text literally and looking for the predicted material remains.
 
-This phenomenon is not exclusive to the Bible but applies to all ancient texts. The anomaly lies in the fact that the Bible has been the basis for a religious system claiming to possess absolute truths. Ultimately, the Biglino method suggests treating the Bible as an ancient source separate from theological intentions and reading it like any other ancient text.
+Schliemann's specific methodology has been substantially criticized in subsequent scholarship — his excavation techniques were destructive by modern standards, his identifications of specific finds with specific Homeric persons (the "Mask of Agamemnon," "Priam's Treasure") were enthusiastic beyond what the evidence supported, and his published accounts contain documented exaggerations and outright fabrications. The methodological principle, however, survived the personal criticisms. The principle is what Sendy and Biglino draw on.
 
-## The method
+## The Sendy-Biglino methodological genealogy
 
-In The Naked Bible, on page 408, we find two-step procedure that sums up the exegetical prowess of the method proposed by Biglino:
+The methodology Biglino articulates in 2011 and elaborates in *The Naked Bible* in 2022 was articulated by Jean Sendy in 1969, approximately four decades earlier. The genealogical relationship between the two figures' methodological commitments is worth setting out, because Biglino is sometimes presented in popular engagement as the originator of the approach when in fact he is its principal contemporary articulator within a longer tradition.
 
-> First, forget, for a moment, about all traditional interpretations.
->
-> Second, focus on a literal reading, pure and simple, of those verses.
->
-> The result is often astounding. And there is no need of any magic carpets to imagine who knows what. The Old Testament speaks for itself, explicitly and transparently.
+### Jean Sendy's 1969 articulation
 
-So, the Biglino method consists of these two steps, to set aside all traditional interpretations and to embrace a literal reading of the verses.
+In *Ces dieux qui firent le ciel et la terre* (Robert Laffont, 1969; English: *Those Gods Who Made Heaven and Earth*, Berkley, 1972), Sendy writes:
 
-In the realm of Biglino's translation work, an additional prerequisite, a third step, emerges, which involves reading the verses in their original language. If that proves unattainable, the recommended course is to refrain from translating ambiguous terms altogether. Biglino emphasizes this aspect on page 87, expressing his belief that certain terms should remain unaltered in order to maintain integrity, as their precise meanings remain elusive:
+> *"The hypothesis that forms the structure of this book is founded on portions of the Bible, read as Schliemann read Homer. What Schliemann did for Homer was exactly what I have tried to do for the Biblical narrative that concerns me. Reading the Bible as Schliemann read Homer means ignoring all the exegeses that have accumulated around it for the past two thousand years. Their avowed purpose is to seek proof of the existence of God in the Bible. To someone who reads the Bible 'à la Schliemann,' on the assumption that the text is to be taken in its most concrete sense, God is as far outside the subject as the religious beliefs of the Greeks and Trojans were to Schliemann."*
 
-> “I’ve said many times in recent years that there are terms that, in my opinion, should not be translated. It’s a question of integrity, since we do not know exactly what they mean. So honesty requires leaving them just as they are written.”[^kavod]
+The articulation is complete. Sendy specifies: (1) read the Hebrew Bible as Schliemann read Homer; (2) ignore the accumulated exegetical traditions; (3) take the text in its most concrete sense. The methodology Biglino later articulates as "obtain familiarity with the original text, disregard traditional interpretation, embrace literal reading" is the same methodology Sendy articulates here in compressed form.
 
-Honesty, he asserts, necessitates preserving them in their original form. With that in mind, Biglino's method can be distilled into a concise formulation consisting of three steps:
+Sendy's application of the method is also articulated in 1969. The same passage continues:
 
-1. Obtain familiarity with the original text
-2. Disregard all preconceived traditional interpretations
-3. Embrace a literal approach to reading the verses
+> *"When we read the Bible in that way, we must first note that the Hebrew word Elohim, usually translated as 'God,' is a plural. If we read 'Those who came from the sky,' or 'the Celestials,' each time the plural Elohim occurs we find ourselves reading a narrative that needs no exegesis, no helpful prodding, no religious conviction, in order to be thoroughly coherent."*
 
-The Biglino method, originally put forward in The Naked Bible as a two-tiered methodology and subsequently expanded with an additional assumption in here, suggests a three-step approach to interpreting the Bible: familiarize oneself with the original text, set aside preconceived traditional interpretations, and embrace a literal reading of the verses. By following these steps, the method aims to uncover new insights and challenge established understandings of the biblical text.
+The principal Hebrew-textual observation — *Elohim* as plural, requiring plural translation — is the same observation Biglino emphasizes throughout his work. Sendy preserves the observation; Biglino develops it with substantial additional philological detail.
 
-[^kavod]: In the book, Biglino explains that it was of utmost importance during his translation work of the Edizioni San Paolo to preserve the original spellings of ambigous terms like Kavod, Ruach, Elohim or even Yahweh.
+### Biglino's 2011-onward independent development
+
+Biglino's articulation of the method came through his own work as a Hebrew Bible translator rather than through direct discipleship of Sendy. From approximately 1990 to 2007, Biglino worked as a Hebrew Bible translator for **Edizioni San Paolo** (the Pauline Editions, an Italian Catholic publisher with substantial Vatican connections). The translation project produced bilingual Hebrew-Italian editions of the Hebrew Bible for Catholic readers, with Biglino responsible for the Hebrew-to-Italian rendering of seventeen volumes.
+
+The seventeen years of close direct engagement with the Hebrew text produced, in Biglino's account, a progressive realization that the text the translation was rendering bore only loose resemblance to the theological framework the surrounding apparatus assumed. As Biglino describes the process in *The Naked Bible*:
+
+> *"This type of project, which I worked on for a few years, brought me into direct contact, let's say, with the very origins, with the etymology of each individual word. Terms that, time after time, are put back into the context of the stories. Words that gave birth to a mosaic that is totally different from what is traditionally told to us."*
+
+From 2010 onward, Biglino published his own works developing the implications:
+
+- *Il libro che cambierà per sempre le nostre idee sulla Bibbia* (Mondadori, 2011) — the principal articulation
+- *Antico e Nuovo Testamento: Libri senza Dio* (Uno Editori, 2012)
+- *La Bibbia non parla di Dio* (Mondadori, 2015)
+- *Resurrezione, reincarnazione* (Uno Editori, 2015)
+- *Gesù un grande maestro* (Uno Editori, 2017)
+- Numerous subsequent works through the 2020s
+
+The Italian publishing context shaped Biglino's reception. *Il libro che cambierà per sempre le nostre idee sulla Bibbia* was published by Mondadori (one of Italy's major mainstream publishers), reached substantial readership, and produced the surrounding cultural conversation that the subsequent works extended. In Italy, Biglino is a recognizable public figure in religious-cultural debate; in the Anglophone world, his reception is more limited, though *The Naked Bible* (2022) has reached wider audiences.
+
+### The genealogical relationship
+
+The Sendy-Biglino genealogy operates as a case of methodological convergence rather than direct intellectual influence. Biglino does not present himself as a Sendy disciple; in many interviews and works he does not engage Sendy directly. The convergence appears to be the product of two independent figures arriving at structurally similar methodological commitments through close engagement with the Hebrew text — Sendy through his autodidactic alternative-history work in 1960s France, Biglino through his seventeen-year professional translation career in 1990s-2000s Italy.
+
+The convergence itself is methodologically significant. When two independent figures, working from different starting points in different decades, arrive at the same hermeneutic commitments and the same principal textual observations (the plurality of *Elohim*, the political rather than theological character of the prohibitions, the concrete rather than allegorical character of the narratives), the convergence suggests that the text is producing the methodology when engaged closely rather than the methodology producing pre-selected readings of the text.
+
+The corpus position registers both contributions. Sendy is the principal pre-Vorilhon methodological influence on the broader Wheel of Heaven framework; Biglino is the principal contemporary methodological articulator whose work has reached substantial reading audiences in Italy and (more recently) the Anglophone world. The corpus methodology synthesizes both contributions within the broader framework structured by the *Hamlet's Mill* precessional integration and the Vorilhon source-textual primacy.
+
+## The three-step methodology
+
+The Biglino Method as articulated in *The Naked Bible* (2022) consists of two principal steps:
+
+> *"First, forget, for a moment, about all traditional interpretations. Second, focus on a literal reading, pure and simple, of those verses. The result is often astounding. And there is no need of any magic carpets to imagine who knows what. The Old Testament speaks for itself, explicitly and transparently."*
+
+Biglino elsewhere articulates an additional commitment — that ambiguous Hebrew terms should be preserved untranslated where their precise meaning is unclear — which functions as a precondition for the two principal steps. The composite three-step methodology, as the corpus applies it:
 
 ### Step 1: Obtain familiarity with the original text
 
-The first step of the Biglino Method involves obtaining familiarity with the original text of the Bible. This entails engaging with the scriptures in their original languages, primarily Hebrew and Greek, in which the Old and New Testaments were respectively written. By studying the original text, one aims to gain a deeper understanding of the linguistic nuances, cultural context, and literary style employed by the ancient authors.
+The first step is engagement with the Hebrew text in its original language, or with reliable resources where direct linguistic competence is unavailable. Direct fluency in biblical Hebrew is not strictly required, but the reader must work with materials that preserve access to the original — interlinear translations, lexicons, concordances, and commentaries that engage Hebrew terms rather than substituting English-language theological vocabulary.
 
-While obtaining fluency in biblical languages may not be feasible for everyone, resources such as interlinear translations, lexicons, and commentaries can aid in developing a deeper familiarity with the original text.
+The substantive content of this step is the recognition that translation is always interpretation. The Hebrew Bible has been transmitted into English (and into the other major modern languages) through a chain of translations — Hebrew to Greek (the Septuagint, third century BCE), Greek and Hebrew to Latin (the Vulgate, fourth century CE), Latin and Hebrew to English (the various English translations from Wycliffe through the King James Version and modern editions). Each stage of transmission has involved interpretive decisions, and the cumulative interpretive load on the English text is substantial.
+
+The principal Hebrew terms the Biglino Method engages directly:
+
+- **Elohim** (אֱלֹהִים) — grammatically plural noun, conventionally translated as singular "God" in English Bibles. The plural form, the plural verb agreement in many passages (Genesis 1:26's *na'aseh adam* "let us make man"), and the plural possessive in other passages (Genesis 3:22's *ke-achad mimenu* "as one of us") all register the grammatical plurality. The corpus retains *Elohim* in transliteration throughout.
+- **Yahweh** (יהוה) — the Tetragrammaton, the proper name conventionally rendered "the Lord" in English Bibles following the Jewish substitution of *Adonai* for the unspoken Name. The substitution effaces the fact that the Hebrew text uses a proper name; "the Lord" reads as a title.
+- **Kavod** (כָּבוֹד) — conventionally translated as "glory," but the Hebrew range includes "weight," "heaviness," "physical mass," and "splendor." The corpus engages the term where the technological readings of biblical theophanies require attention to its concrete physical sense.
+- **Ruach** (רוּחַ) — conventionally translated as "spirit" but with the primary Hebrew sense of "wind," "breath," "moving air." Genesis 1:2's *ruach Elohim merachefet al penei ha-mayim* is conventionally rendered "the Spirit of God moved upon the face of the waters"; the Hebrew is closer to "the wind/breath of Elohim was hovering over the surface of the waters."
+- **Nachash** (נָחָשׁ) — the term for the serpent in Genesis 3; etymologically related to roots meaning "to hiss," "to whisper," "to practice divination," and "shining bronze." The corpus treats *nachash* as a collective designation rather than a single reptile.
+- **Bnei ha-Elohim** (בְּנֵי הָאֱלֹהִים) — "sons of the Elohim" (Genesis 6:2, 6:4), the figures who take human wives and produce the *Nephilim*. Conventional translations soften the phrase to "sons of God" (singular) or apologetically reinterpret it as "godly men."
+- Various others — *Nephilim*, *tannin*, *malakh*, *cherubim*, *seraphim*
+
+Biglino's own position on terms he considers untranslatable, articulated in *The Naked Bible*:
+
+> *"I've said many times in recent years that there are terms that, in my opinion, should not be translated. It's a question of integrity, since we do not know exactly what they mean. So honesty requires leaving them just as they are written."*
+
+The footnoted reference in the v1 entry observes that during Biglino's Edizioni San Paolo translation work, terms including *Elohim*, *kavod*, *ruach*, and *Yahweh* were preserved in transliteration in the published Italian editions — registering that mainstream Catholic biblical publishing recognized the integrity concerns even in formally orthodox contexts.
 
 ### Step 2: Disregard all preconceived traditional interpretations
 
-The second step of the Biglino Method calls for disregarding all preconceived traditional interpretations of the Bible. This involves approaching the text with a fresh perspective, free from the influence of established doctrines, religious dogmas, and inherited interpretations that may have shaped one's understanding of the scriptures.
+The second step is provisional methodological suspension of accumulated theological framework. The reader sets aside, for the duration of the reading exercise, the inherited Christian, Jewish, Islamic, and (where applicable) academic theological frameworks that shape default interpretation of biblical passages.
 
-By setting aside preconceived notions, readers are encouraged to engage directly with the biblical text, allowing it to speak for itself without the filter of traditional interpretations. It enables readers to question long-held assumptions, explore different angles of interpretation, and consider alternative viewpoints that may challenge or expand their understanding of the biblical narratives.
+The methodological suspension is not the same as rejection. Biglino does not require the reader to conclude that the traditional interpretations are wrong; he requires that they be held in abeyance during the reading exercise so that the text can be encountered without the interpretive filter. The result of the reading is then compared against the traditional interpretations to see which provides the more coherent account.
+
+The principal traditional frameworks the method asks the reader to suspend:
+
+- **Christian Trinitarian theology** — which reads the Hebrew Bible through subsequent Christian doctrinal categories (the Father of the New Testament, the pre-incarnate Word, the Spirit of subsequent pneumatology)
+- **Jewish rabbinic monotheism** — which reads the Hebrew Bible's plural *Elohim* as grammatical singular and interprets various plural passages as majestic plurals or as collective addresses to angelic courts
+- **Islamic strict monotheism** — which reads the Hebrew Bible's monotheistic framework as the original pre-corrupted form subsequently distorted by Jewish and Christian transmission
+- **Mainstream academic historical-critical method** — which often treats the Hebrew Bible's narrative content as the product of theological and political concerns of its various editorial communities, with the underlying historical content treated as substantially unrecoverable
+
+The suspension is provisional. After the literal reading produces its account, the reader can compare what the literal reading yields against the various inherited frameworks. The frameworks can be retained, modified, or replaced based on which produces the more coherent account of the actual textual content.
 
 ### Step 3: Embrace a literal approach to reading the verses
 
-The third step of the Biglino Method advocates for embracing a literal approach to reading the verses of the Bible. This step involves taking the words and phrases in the text at face value, without imposing metaphorical or allegorical interpretations upon them.
+The third step is the literal reading itself — taking the words and phrases in the text at face value, in their concrete sense, without imposing metaphorical or allegorical interpretation.
 
-By adopting a literal approach, readers are encouraged to understand the words in their most straightforward and direct sense, considering them in their ordinary meaning within the given context. Rather than searching for hidden or symbolic meanings, the focus is on grasping the explicit message conveyed by the biblical authors.
+The literal approach is not naive literalism. Biglino acknowledges that the Hebrew Bible contains literary devices — poetry, parallelism, metaphor, narrative compression, genre conventions appropriate to ancient Near Eastern literature. The point is not to deny the presence of these features but to discern between passages where the text intends figurative content and passages where the text intends concrete description. The default presumption shifts: rather than presuming figurative content unless concrete content is required, the method presumes concrete content unless figurative content is signaled by the text.
 
-Embracing a literal approach does not discount the presence of literary devices, poetic expressions, or the use of metaphors within the Bible. However, it calls for discerning between figurative language intended to convey a specific message and passages that are intended to be understood more literally.
+Sample applications of the literal approach:
 
-## According to Mauro Biglino
+- **Genesis 6:1-4**'s *bnei ha-Elohim* taking *bnot ha-adam* (daughters of men) and producing *Nephilim* — read literally as describing a specific kind of being (the "sons of the Elohim") engaging in reproductive activity with human women and producing offspring of distinctive character, rather than read as theological allegory or as "sons of Seth marrying daughters of Cain"
+- **Ezekiel 1**'s vision of the four living creatures, the wheels within wheels, the firmament, and the throne — read as a description of an observed physical object whose technical character the prophet lacked vocabulary to describe in any other way, rather than as visionary symbolism
+- **Exodus 19's** account of Yahweh's descent upon Sinai in fire, smoke, thunder, and earthquake — read as an account of a powered descent of a substantial physical object, rather than as theophanic poetry
+- **The Ark of the Covenant's** capacity to kill on contact (2 Samuel 6:7's death of Uzzah, 1 Samuel 6:19's destruction of the men of Beth-Shemesh) — read as evidence of a high-energy device with specific handling requirements, rather than as symbolic accounts of divine sanctity
 
-Mauro Biglino has consistently employed this method since his initial translation work of Biblical scripture from Hebrew into Italian.
+The literal reading produces, in each case, an account that the conventional theological framework either treats as symbolic or simply leaves uninterpreted. The Biglino Method's claim is that the literal reading is the more natural reading once the theological filter is set aside.
 
-> Just to be safe, Biglino declares that he adheres to a precise method. “I simply pretend that the Bible tells the truth, and when I verify that this truth is coherent.”
+## Mauro Biglino: biography and bibliography
 
-Emphasizing his commitment to a rigorous approach, Biglino asserts that he adopts the stance of assuming the truthfulness of the Bible, subsequently verifying the coherence of this truth during his analysis.
+The methodology is closely tied to its principal articulator. A brief biographical sketch helps to register the specific authority Biglino brings to the work and the specific limits of that authority.
 
-> And is it?
->
-> “Very often, yes, it absolutely is. Everything can be explained in the simplest of ways. It’s just a matter of asking the right questions and the Bible will always offer a reasonable answer that makes sense.”
+### Biography
 
-According to him, the Bible often presents itself as a reliable source of information that can be explained in straightforward terms. By approaching the text with a critical mindset and posing pertinent questions, Biglino believes that the Bible consistently provides reasonable and sensible answers. This viewpoint suggests that a careful examination of the scriptures can unveil a coherent narrative that aligns with common sense and logical reasoning.
+Mauro Biglino was born in 1950. His early academic training was in religious studies and classical languages. From approximately 1990 to 2007, he worked as a Hebrew Bible translator for **Edizioni San Paolo** (the Pauline Editions, the Italian publishing arm of the Society of St. Paul, a Catholic religious congregation founded by Saint James Alberione). The Pauline Editions publish religious materials for Catholic readers, with substantial Vatican connections through the broader Catholic publishing infrastructure.
 
-> Mauro Biglino praises the exegetical and philological accuracy of Edizioni San Paolo: “Regarding the volumes we worked on together, while I was doing my editorial work for them, the term ‘Elohim’ was left that way in Italian as well. They did not translate it as the word ‘God’.”
+The seventeen-year period of professional translation work is the foundation of Biglino's subsequent authority on the Hebrew text. He translated seventeen books of the Hebrew Bible into Italian, working from the Masoretic Text in close collaboration with the Pauline Editions editorial board. The published editions appeared as bilingual Hebrew-Italian volumes with extensive apparatus.
 
-Mauro Biglino acknowledges the significant contribution of Edizioni San Paolo in maintaining exegetical and philological accuracy in their translation work. Notably, during their collaboration, the term "[Elohim](../../wiki/elohim/)" was preserved in Italian without being translated as the word "God." This decision reflects a commitment to retaining the original term, thereby preserving the linguistic nuances and cultural context associated with it.
+From 2010 onward, Biglino began publishing independent works developing his own readings of the texts. The transition from Pauline Editions translator to independent author marked a methodological as well as institutional shift — Biglino moved from working within a Catholic theological framework that constrained his published interpretive observations to working independently, where his observations could appear without the constraining apparatus.
 
-> The same thing goes for the word ‘Yahweh’. “That one also always remained ‘Yahweh’ and was not translated as ‘the Lord’ as is the case with ordinary editions of the Bible – even though translating Yahweh as ‘the Lord’ is a complete fabrication.”
+His independent publishing has been substantially commercially successful in Italy. He is a regular speaker at conferences, conducts seminars on Hebrew Bible reading, and maintains an active YouTube channel and online presence. Outside Italy, his reception has been more limited; the 2022 English-language edition of *The Naked Bible* (collaborating with journalist Giorgio Cattaneo) represents the principal Anglophone engagement.
 
-According to Biglino, the translation of the word "[Yahweh](../../wiki/yahweh/)" as "the Lord" in ordinary editions of the Bible is considered by him to be a complete fabrication. He asserts that the term "Yahweh" should not be translated, but rather preserved as is, without imposing an alternate designation such as "the Lord."
+### Principal works
 
-## According to Jean Sendy
+Italian original works (selected):
 
-Within the pages of the book "Those Gods Who Made Heaven And Earth," a profound observation is made by Sendy, shedding light on the transformative nature of a literal reading of the Bible. Sendy highlights a significant linguistic aspect by pointing out that the Hebrew word Elohim, typically translated as "God," is actually in plural form.
+- *Il libro che cambierà per sempre le nostre idee sulla Bibbia* (Mondadori, 2011) — the principal articulation
+- *Antico e Nuovo Testamento: Libri senza Dio* (Uno Editori, 2012)
+- *La Bibbia non parla di Dio* (Mondadori, 2015)
+- *Resurrezione, reincarnazione* (Uno Editori, 2015)
+- *Gesù un grande maestro* (Uno Editori, 2017)
+- *Non c'è creazione nella Bibbia* (Uno Editori, 2018)
+- *La Bibbia non è un libro sacro* (Uno Editori, 2019)
+- Numerous subsequent works through the 2020s, often co-authored with various Italian commentators
 
-> When we read the Bible in that way, we must first note that the Hebrew word Elohim, usually translated as "God," is a plural. If we read "Those who came from the sky," or "the Celestials," each time the plural Elohim occurs we find ourselves reading a narrative that needs no exegesis, no helpful prodding, no religious conviction, in order to be thoroughly coherent.
+English-language engagement:
 
-This linguistic nuance, when taken into account, leads to a striking reinterpretation. By reading "Those who came from the sky" or "the Celestials" instead of the singular "God" each time the plural Elohim occurs, the narrative unfolds with remarkable coherence, eliminating the need for extensive exegesis, external guidance, or preconceived religious convictions.
+- *The Naked Bible: The Truth About the Most Famous Book in History* (with Giorgio Cattaneo, English edition 2022)
+- Various translated articles and interviews
 
-> Read in this way, Genesis appears as an account of the arrival of perfectly concrete Celestials, physically in our image, who behaved on earth as we can imagine our own astronauts behaving on another planet in a future that is still far off but no longer belongs to the realm of science fiction.
+### The limits of Biglino's authority
 
-By adopting a literal reading, one can perceive Genesis as a fascinating narrative recounting the arrival of tangible celestial beings who bear a striking resemblance to humans. These celestial beings are depicted as engaging with the earthly realm in a manner akin to how we envision future astronauts exploring distant planets.
+Biglino's authority is grounded in the seventeen-year professional translation career, which gives him direct extensive engagement with the Hebrew text. This is substantial expertise that few independent Bible commentators can claim.
 
-This interpretation, in line with the Biglino Method, invites readers to consider the concrete and tangible aspects of the biblical account, imagining a scenario that lies beyond the realm of science fiction but resonates with a potential reality. Such an approach challenges traditional allegorical or metaphorical interpretations of Genesis, offering an alternative perspective that is firmly grounded in the text's literal content.
+The limits are equally worth registering:
 
-## Our take
+- Biglino is not an academic biblical scholar in the formal sense. He does not hold a doctorate in biblical studies; he has not published in peer-reviewed academic journals; he does not engage the substantial mainstream scholarly literature on the textual-critical, source-critical, and historical-critical questions his method touches.
+- Biglino's Hebrew-language competence is for translation purposes rather than for the kind of detailed philological work that academic biblical scholarship requires. His etymological observations are sometimes contested by specialists who hold positions Biglino does not engage.
+- Biglino's framing has substantial popular-cultural character that creates some methodological problems. His "let's pretend it's true" slogan is rhetorically effective but methodologically loose — what counts as the literal text, what counts as coherence, what alternative explanations have been considered, are not always specified.
 
-The Biglino method, advocating a literal approach to reading the Bible and ancient scriptures, is instrumental in distilling their original intended meaning. By taking the text at face value, free from symbolic or metaphorical interpretations imposed by traditional exegesis, readers gain a clearer understanding of the straightforward message conveyed by the ancient authors.
+The corpus position: Biglino's contribution is real and substantive within its specific domain (direct Hebrew-textual engagement leading to plural-*Elohim* and concrete-narrative readings), but it is a contribution that requires integration with broader scholarly engagement to support the conclusions Biglino wants to draw. Biglino's method is necessary but not sufficient for the corpus framework's conclusions.
 
-While the literal approach is paramount for grasping the plain meaning of the text, it is important to recognize that the ancient scribes occasionally employed subtle linguistic devices and cultural references. In such cases, a nuanced reading is required to uncover the intended significance behind the words. This nuanced understanding, however, does not rely on imposing symbolic interpretations but rather relies on contextual analysis and familiarity with the historical and cultural context of the scriptures.
+## The corpus's positioning
 
-The Biglino method encourages a balanced approach, combining a literal reading with contextual awareness, to unravel the true intentions of the scribes. By adhering to the literal words while considering the broader historical and cultural backdrop, readers can appreciate the original intended meaning without distorting the text with extraneous symbolic interpretations.
+The Wheel of Heaven framework engages the Biglino Method as one component of a broader hermeneutic synthesis. The corpus accepts the method's principal commitments while integrating them with several additional methodological commitments the method itself does not require.
 
-In conclusion, the Biglino method's emphasis on a literal approach enables a more accurate understanding of the Bible and ancient scriptures, while acknowledging the occasional need for contextual analysis to capture the nuances and intended significance of the text. This approach offers readers an opportunity to engage directly with the scriptures and uncover their intended message without relying on traditional exegesis and its symbolic interpretations.
+### What the corpus accepts from Biglino
+
+- **The literal-reading principle.** The Hebrew Bible's narratives are read as accounts of events, in concrete rather than allegorical terms, except where the text itself signals figurative content. Genesis 1-11 is read as a record of events imperfectly preserved in pre-scientific vocabulary; the patriarchal narratives are read as accounts of historical figures; the prophetic accounts of theophanies, angelic visitations, and divine interventions are read as describing observable phenomena.
+- **The plural-Elohim recognition.** The corpus treats *Elohim* as a grammatically plural noun referring to a plural subject. The systematic translation tradition's effacement of the plurality is treated as the principal error in conventional Bible translation, and its correction is one of the corpus's principal contributions (treated systematically in the [Plurality of Gods](../plurality-of-gods/) entry).
+- **The preservation of technical terms.** *Yahweh* rather than "the Lord," *Elohim* rather than "God," *kavod* rather than "glory," *ruach* rather than "spirit" where the conventional translations carry theological weight the Hebrew does not. The Restored Name King James Version (RNKJV) and similar editions that preserve the Hebrew terms register the same methodological commitment.
+- **The setting aside of accumulated exegetical traditions.** The corpus reads the Hebrew Bible as much as possible without the filter of subsequent theological interpretation, treating the text in its own terms rather than as raw material for the theological systems built around it.
+
+### What the corpus integrates beyond Biglino
+
+- **The Hamlet's Mill precessional framework.** The corpus reads the Hebrew Bible's seven Genesis "days" as the seven precessional ages of the alliance's work on Earth, integrating the literal-textual content with the broader cosmological framework Santillana and von Dechend established. Biglino does not engage the precessional framework; the corpus's adoption of *Hamlet's Mill* is independent.
+- **The Vorilhon source-textual primacy.** The corpus reads the Hebrew Bible alongside the Vorilhon revelation as paired source-traditions. Biglino does not engage the Vorilhon material; his framework operates without reference to the specific alliance-contact tradition the corpus draws on.
+- **The cross-cultural comparative engagement.** The corpus reads the Hebrew Bible alongside the Sumerian, Akkadian, Greek, Indian, Chinese, and other major religious-mythological traditions, looking for the structural convergences that suggest common historical referents. Biglino's work is principally Hebrew-Bible-focused; the cross-cultural integration is the corpus's own contribution.
+- **The disciplined epistemic-pluralism methodology.** The corpus distinguishes (1) direct source claims, (2) comparative observations, (3) corpus interpretations, and (4) speculative inference at every interpretive move. Biglino's framework does not consistently distinguish these levels — the "let's pretend it's true" slogan blurs the distinction between provisional methodological suspension and substantive truth-claim.
+
+### Where the corpus diverges from Biglino
+
+The corpus's specific divergences from Biglino are worth registering for methodological clarity:
+
+- **The corpus does not treat the Hebrew Bible as the sole or principal source.** Biglino's framework gives the Hebrew Bible something close to evidentiary priority; the corpus treats the Hebrew Bible as one source among several, with the Vorilhon revelation, the *Hamlet's Mill* framework, the contemporary scientific evidence, and the cross-cultural comparative material all functioning as substantive evidence-streams that have to be triangulated.
+- **The corpus engages the textual-critical questions Biglino largely brackets.** The Masoretic Text is one textual tradition; the Samaritan Pentateuch, the Dead Sea Scrolls, the Septuagint, and various other early textual witnesses preserve substantial variant readings. The corpus engages these where they bear on the interpretive questions; Biglino tends to treat the Masoretic Text as the principal text without extensive engagement with textual variants.
+- **The corpus engages mainstream scholarship substantively.** Where Biglino tends to treat mainstream biblical scholarship dismissively, the corpus engages it substantively at the descriptive level (registering accurate observations about textual transmission, source-critical analysis, historical context) while differing at the interpretive level. The corpus does not need to reject mainstream scholarship to do its work; it needs to integrate mainstream observations with the alternative interpretive framework.
+
+## Modern reinterpretations and adjacent methodologies
+
+The Biglino Method intersects with several distinct contemporary methodological engagements.
+
+### Mainstream biblical-scholarly methodology
+
+Mainstream biblical scholarship operates through several methodologies that engage similar source material with substantially different commitments.
+
+**Historical-critical method.** Developed across the nineteenth and twentieth centuries (Julius Wellhausen, Hermann Gunkel, Gerhard von Rad, and successors), the historical-critical method reads the Hebrew Bible as a composite text reflecting the theological and political concerns of its various editorial communities. The method seeks to identify source-strata (the documentary hypothesis's J, E, D, P sources), trace the editorial development of the present text, and reconstruct the historical contexts of the various components.
+
+**Form criticism.** Building on Gunkel's foundational work, form criticism analyzes the literary genres and formal characteristics of biblical units (psalms, legal codes, narratives, prophetic oracles) and uses genre identification to recover the social and religious settings (the *Sitz im Leben*) in which the various forms originated.
+
+**Redaction criticism.** Engaging the final-form text as the product of intentional editorial activity, redaction criticism studies how the various sources and traditions were assembled and shaped by the editors whose work produced the canonical text.
+
+**Narrative criticism.** Treating the biblical narratives as literary artifacts in their own right, narrative criticism analyzes plot, character, point of view, and rhetorical structure without primary commitment to source-critical or historical-critical questions.
+
+**Reader-response and ideological criticism.** Various subsequent methodologies (feminist, postcolonial, queer, materialist) engage the text from specific contemporary critical positions, often reading the canonical text against itself to recover voices and concerns the editorial process suppressed.
+
+The Biglino Method's relationship to these mainstream methodologies is methodologically complex. At the descriptive level, the Biglino Method shares the historical-critical method's recognition that the text has been shaped by transmission processes and that "the Bible" is not a single uniform document. At the interpretive level, the methods diverge: the historical-critical method reads the text as evidence for the editorial communities' theological concerns, while the Biglino Method reads the text as evidence for the events the text purports to describe. The two methods are not directly opposed but operate on different levels of the source material.
+
+### Robert Alter's literary translation project
+
+The most substantial recent academic engagement with the Hebrew Bible's literary character is **Robert Alter**'s translation project: *The Five Books of Moses* (Norton, 2004), *The David Story* (Norton, 1999), *The Wisdom Books* (Norton, 2010), *The Book of Psalms* (Norton, 2007), *Ancient Israel: The Former Prophets* (Norton, 2013), and the complete *The Hebrew Bible: A Translation with Commentary* (Norton, 2018, three volumes).
+
+Alter's project shares specific commitments with the Biglino Method: close attention to the Hebrew text's specific language, resistance to the smoothing-out tendencies of conventional English translations, recovery of the Hebrew's literary texture and concrete diction. Alter writes with substantial awareness that the English Bible tradition has accumulated theological weight that is not present in the Hebrew text, and his translations work to recover the directness and concreteness of the Hebrew.
+
+Alter differs from Biglino in commitments and conclusions. Alter is an academic literary scholar working within mainstream Hebrew Bible scholarship; he engages source-critical and historical-critical questions substantively; he treats the text as principally a literary artifact whose historical referent is recoverable only in limited ways. Alter does not draw the conclusions Biglino draws about the Hebrew Bible's content because Alter is not working within an ancient-astronaut interpretive framework. The methodological convergence at the level of translation practice is genuine; the interpretive divergence is also genuine.
+
+The corpus reads Alter as an important contemporary witness to what direct Hebrew-textual engagement produces in a mainstream academic context. Where Alter's translations and commentary register Hebrew terms and phrasings the conventional translations smooth away, the corpus is on substantially supported ground in adopting the Hebrew readings.
+
+### Adjacent ancient-astronaut methodology
+
+Within the broader Ancient Astronaut Hypothesis tradition (treated systematically in the [Ancient Astronaut Hypothesis](../ancient-astronaut-hypothesis/) entry), several figures operate with methodologies adjacent to Biglino's:
+
+- **Jean Sendy** — the principal pre-Biglino articulator of the Schliemann-Homer methodology applied to the Hebrew Bible; treated in the [Jean Sendy](../jean-sendy/) entry when written
+- **Paul Anthony Wallis** — Australian author whose *Escaping from Eden* (2020) and *The Scars of Eden* (2021) draw substantially on Biglino's textual observations and extend them through additional cross-cultural comparative material; Wallis is the principal Anglophone popularizer of the Biglino-adjacent approach
+- **Various ancient-astronaut figures** — Erich von Däniken, Zecharia Sitchin, and others have engaged biblical texts but generally without Biglino's depth of direct Hebrew engagement; their work is often methodologically looser than Biglino's
+
+The Biglino Method represents the methodologically tightest engagement within the broader ancient-astronaut tradition with the Hebrew text directly. Whatever one's conclusions about the broader tradition's claims, Biglino's specific contribution to direct textual reading is methodologically defensible in ways that much of the surrounding popular literature is not.
+
+### Mainstream scholarly engagement with the Biglino Method
+
+Mainstream biblical scholarship has not, on the whole, engaged substantively with Biglino's specific arguments. The principal reasons:
+
+- Biglino has not published in peer-reviewed academic venues; his work is published by mainstream commercial presses and aimed at popular readership rather than academic engagement
+- Biglino's institutional affiliation is independent rather than academic; he does not present at academic conferences or engage in the formal scholarly conversation
+- Biglino's conclusions (the Hebrew Bible as a record of ancient extraterrestrial contact) are far outside the range of conclusions mainstream scholarship treats as worth substantive engagement
+
+Where mainstream scholars have addressed Biglino, the engagement has been principally dismissive. Italian academic biblical scholarship treats Biglino's interpretive conclusions as pseudoscientific; English-language academic engagement is largely absent.
+
+The corpus position on this asymmetry: the lack of substantive academic engagement with Biglino is methodologically regrettable. Biglino's specific textual observations — the grammatical plurality of *Elohim*, the concrete physicality of the various theophanies, the technical character of the Ark of the Covenant descriptions — are observations that academic scholarship could productively engage even while rejecting Biglino's interpretive framework. The current situation, in which mainstream scholarship rejects Biglino without engaging him and Biglino dismisses mainstream scholarship without engaging it, is unhealthy for the broader interpretive conversation.
+
+## Cross-cultural comparative observations
+
+The Biglino Method belongs to a broader cross-cultural pattern of literal-reading methodologies applied to texts conventionally read figuratively or allegorically. The pattern is worth registering both for what it suggests about the Method's broader plausibility and for what it suggests about the specific recoveries that literal reading can produce.
+
+### Schliemann-Homer as Western methodological precedent
+
+The Schliemann-Homer precedent (treated above) is the principal Western methodological precedent for the Biglino Method. Schliemann's vindication of the literal reading of the *Iliad* established that a text the mainstream scholarship of his period treated as mythological could be read literally with substantial archaeological success.
+
+Subsequent classical archaeology has developed the principle further. The excavations at Mycenae, Tiryns, Pylos, and other Mycenaean sites have substantially confirmed that the *Iliad* and *Odyssey* preserve genuine memory of a Late Bronze Age Aegean civilization. The names of specific places, persons, and political structures in the Homeric epics have been identified in the Linear B tablets recovered from the Mycenaean palace archives. The methodological lesson — that texts treated as mythological often preserve substantial historical content — has been substantially absorbed into mainstream classical scholarship, even where the specific extent of the historical preservation remains contested.
+
+### Various other classical-archaeology precedents
+
+- **Arthur Evans and the excavations at Knossos** (from 1900) — recovered the Minoan civilization, vindicating Greek traditions about the legendary King Minos and the substantial Mediterranean civilization that preceded the Mycenaean Greeks
+- **The decipherment of Linear B** (Michael Ventris, 1952) — established that the Mycenaean Greek language was preserved in the palace archives, providing direct textual evidence for the political and economic structures the Homeric tradition describes
+- **The Hittite recoveries** (from the 1906 Hugo Winckler excavations at Boğazköy) — recovered an entire Bronze Age civilization that had been preserved only in fragmentary biblical and classical references, and that turned out to be substantially documented in the recovered cuneiform archives
+
+In each case, the literal reading of texts that mainstream scholarship had treated as mythological or legendary led to substantial archaeological and historical recovery. The pattern is now established in classical and ancient Near Eastern archaeology, though the specific extent to which any given mythological tradition preserves recoverable history remains case-by-case.
+
+### Eastern textual-engagement traditions
+
+The Hindu and Buddhist textual traditions contain substantial parallel patterns. The Hindu tradition has long preserved the literal-historical reading of texts the Western academic tradition treats as mythological — the *Ramayana* and *Mahabharata* are read by many Hindu commentators as preserving historical content, with the specific geographic and political details of the narratives treated as recoverable historical referents. The mainstream Indological scholarship has generally treated these readings as religious commitments rather than historical evidence, but the methodological structure parallels the Schliemann-Sendy-Biglino approach.
+
+The Buddhist tradition's engagement with the historical Buddha similarly involves a literal-reading commitment. The Pali Canon's accounts of the Buddha's life and teaching activity are read by the Theravada tradition as substantially historical, with specific geographic locations, named interlocutors, and dated events treated as recoverable historical content. The substantial archaeological work at Lumbini, Kapilavastu, Sarnath, Bodh Gaya, and other Buddhist sites has substantially vindicated the literal-historical readings.
+
+### The broader cross-cultural literal-reading pattern
+
+The cross-cultural pattern across these various traditions has a consistent structure:
+
+- A traditional text is preserved within a religious or cultural tradition that treats it as authoritative
+- Mainstream secular scholarship at some point in the modern period treats the text as substantially mythological, with limited historical content
+- A figure (or several figures) proposes the literal reading and pursues it against the prevailing scholarly consensus
+- Archaeological or other independent evidence vindicates substantial elements of the literal reading
+- Mainstream scholarship absorbs the vindicated elements while continuing to debate the limits of the literal reading
+
+The Biglino Method as applied to the Hebrew Bible occupies the third stage of this pattern — the literal-reading proposal against the prevailing scholarly consensus. Whether the subsequent stages will follow — whether independent evidence will vindicate substantial elements of the literal reading — is the question the broader corpus framework engages.
+
+### Cross-cultural "hidden-meaning" engagement as the contrasting tradition
+
+The opposing methodological tradition, against which the Biglino Method positions itself, is the cross-cultural tradition of treating sacred texts as containing hidden or symbolic meanings that require specialized interpretive techniques to recover.
+
+Within the biblical tradition, this is the tradition of allegorical exegesis — Philo of Alexandria reading the Hebrew Bible through Platonic philosophical categories, Origen and the Alexandrian Christian fathers developing the four-fold sense of Scripture (literal, allegorical, moral, anagogical), the medieval Christian and Jewish mystical traditions reading the texts as ciphers for spiritual realities. The tradition continues in various contemporary forms — theological readings that find Christological prefigurations throughout the Hebrew Bible, Kabbalistic readings that find esoteric content in every textual feature, psychological-archetypal readings (Jung, Campbell) that find universal symbolic patterns.
+
+The Biglino Method's principal methodological claim is that the allegorical-hidden-meaning tradition has substantially obscured the texts' actual content. The texts, on the Biglino Method's view, are not principally ciphers for theological or spiritual content; they are accounts of events, written in pre-scientific vocabulary that the subsequent traditions have systematically reinterpreted to fit their theological needs.
+
+The corpus position registers this debate as live rather than settled. The texts do contain literary devices, poetry, parallelism, narrative compression — features that require attention to genre and convention rather than naive literalism. The texts also contain substantial concrete-narrative content that the allegorical tradition has often treated as cipher for content the text does not actually contain. The discernment between these is the methodological task, and the Biglino Method's commitment is that the default presumption should be concrete content unless the text signals otherwise.
 
 ## See also
 
-- [Wiki › Bible](../../wiki/bible/)
-- [Wiki › Elohim](../../wiki/elohim/)
-- [Wiki › Neo-Euhemerism](../../wiki/neo-euhemerism/)
-- [Wiki › Sendy\'s conditions of coherence](../../wiki/sendys-conditions-of-coherence/)
+- [Wheel of Heaven](../wheel-of-heaven/)
+- [Ancient Astronaut Hypothesis](../ancient-astronaut-hypothesis/)
+- [Neo-Euhemerism](../neo-euhemerism/)
+- [Jean Sendy](../jean-sendy/)
+- [Mauro Biglino](../mauro-biglino/)
+- [Paul Anthony Wallis](../paul-anthony-wallis/)
+- [Hebrew Bible](../hebrew-bible/)
+- [Elohim](../elohim/)
+- [Yahweh](../yahweh/)
+- [Plurality of Gods](../plurality-of-gods/)
+- [Tree of the Knowledge of Good and Evil](../tree-of-the-knowledge-of-good-and-evil/)
+- [Raël](../rael/)
+- [Raëlism](../raelism/)
+- [Message from the Designers](../message-from-the-designers/)
+- [Hamlet's Mill](../hamlets-mill/)
+- [The Tradition](../the-tradition/)
+- [The Truth](../the-truth/)
+- [Religion](../religion/)
+- [Genesis](../genesis/)
 
-## Read more
+## References
 
-- [Resources › The Naked Bible](../../library/the-naked-bible/index/)
+### Mauro Biglino — principal works
+
+Biglino, Mauro. *Il libro che cambierà per sempre le nostre idee sulla Bibbia*. Mondadori, 2011.
+
+Biglino, Mauro. *Antico e Nuovo Testamento: Libri senza Dio*. Uno Editori, 2012.
+
+Biglino, Mauro. *La Bibbia non parla di Dio*. Mondadori, 2015.
+
+Biglino, Mauro. *Resurrezione, reincarnazione*. Uno Editori, 2015.
+
+Biglino, Mauro. *Gesù un grande maestro*. Uno Editori, 2017.
+
+Biglino, Mauro. *Non c'è creazione nella Bibbia*. Uno Editori, 2018.
+
+Biglino, Mauro. *La Bibbia non è un libro sacro*. Uno Editori, 2019.
+
+Biglino, Mauro, and Giorgio Cattaneo. *La Bibbia nuda: La verità sul libro più famoso della storia*. Uno Editori, 2018. English: *The Naked Bible: The Truth About the Most Famous Book in History*. Master Mind, 2022.
+
+### Jean Sendy — methodological precedent
+
+Sendy, Jean. *Ces dieux qui firent le ciel et la terre*. Robert Laffont, 1969. English: *Those Gods Who Made Heaven and Earth*. Berkley, 1972.
+
+Sendy, Jean. *L'Ère du Verseau*. Robert Laffont, 1970.
+
+Sendy, Jean. *Nous autres, gens du Moyen Age*. Julliard, 1973.
+
+### Heinrich Schliemann — methodological precedent
+
+Schliemann, Heinrich. *Ilios: The City and Country of the Trojans*. John Murray, 1880.
+
+Schliemann, Heinrich. *Mycenae*. John Murray, 1878.
+
+Traill, David A. *Schliemann of Troy: Treasure and Deceit*. St. Martin's Press, 1995. Critical biography registering the documented exaggerations and fabrications in Schliemann's published accounts.
+
+Wood, Michael. *In Search of the Trojan War*. BBC Books, 1985. Accessible engagement with the post-Schliemann archaeological work.
+
+### Robert Alter — contemporary academic engagement
+
+Alter, Robert. *The Five Books of Moses: A Translation with Commentary*. Norton, 2004.
+
+Alter, Robert. *The Hebrew Bible: A Translation with Commentary*. 3 vols. Norton, 2018.
+
+Alter, Robert. *The Art of Bible Translation*. Princeton University Press, 2019.
+
+### Paul Anthony Wallis — adjacent Anglophone engagement
+
+Wallis, Paul Anthony. *Escaping from Eden: Does Genesis Teach that the Human Race was Created by God or Engineered by ETs?*. Axis Mundi, 2020.
+
+Wallis, Paul Anthony. *The Scars of Eden: Has the Original Bible Story Been Corrupted by Humans?*. Axis Mundi, 2021.
+
+### Hebrew Bible
+
+The Hebrew Bible. Masoretic Text. Biblia Hebraica Stuttgartensia, 5th edition, Deutsche Bibelgesellschaft, 1997. Various translations cited in context.
+
+### Mainstream biblical-scholarly methodology
+
+Wellhausen, Julius. *Prolegomena zur Geschichte Israels*. 1878. English: *Prolegomena to the History of Israel*. A. & C. Black, 1885.
+
+Gunkel, Hermann. *Genesis*. Vandenhoeck & Ruprecht, 1901. English: *Genesis*. Mercer University Press, 1997.
+
+von Rad, Gerhard. *Genesis: A Commentary*. Westminster, 1972.
+
+Westermann, Claus. *Genesis 1-11: A Commentary*. Augsburg, 1984.
+
+Barton, John. *Reading the Old Testament: Method in Biblical Study*. Westminster John Knox, 1996.
+
+### Web resources
+
+"Mauro Biglino." *Wikipedia* (Italian). <https://it.wikipedia.org/wiki/Mauro_Biglino>.
+
+"Heinrich Schliemann." *Wikipedia*. <https://en.wikipedia.org/wiki/Heinrich_Schliemann>.
+
+"Troy." *Wikipedia*. <https://en.wikipedia.org/wiki/Troy>.
+
+"Historical-critical method." *Wikipedia*. <https://en.wikipedia.org/wiki/Historical-critical_method>.
+
+"Robert Alter." *Wikipedia*. <https://en.wikipedia.org/wiki/Robert_Alter>.
