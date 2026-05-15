@@ -1,6 +1,6 @@
 +++
-title = "Embassy"
-description = "The Embassy is the designated physical structure, located on a specific piece of land granted extraterritorial status by a host country, prepared to receive the formal arrival of the Elohim alliance and to serve as the operational location for the meetings between the alliance and humanity's representatives that the arrival will inaugurate. The embassy specifications were given in the 1973 contact and elaborated in subsequent communications. The source originally specified a strong preference for Israel near Jerusalem, identifying the embassy as the Third Temple of Jewish apocalyptic tradition; the December 13, 1997 message authorized relocation to other countries following repeated Israeli refusals."
+title = "大使馆"
+description = "大使馆在雷尔运动的计划中是用以正式接待厄罗欣公开返回地球的官方建筑。Wheel of Heaven 文集将其作为人类所准备的返回情景的中枢基础设施加以提及。"
 template = "wiki-page.html"
 toc = true
 

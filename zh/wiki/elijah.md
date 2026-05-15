@@ -1,6 +1,6 @@
 +++
-title = "Elijah"
-description = "Elijah (Hebrew <span class=\"hebrew\">אֵלִיָּהוּ</span> *Eliyyahu*, \"My God is Yah\") is one of the most theologically significant prophets of the Hebrew Bible, active in the northern Kingdom of Israel during the reign of King Ahab (c. 874–853 BCE), best known for the Mount Carmel contest against the prophets of Baal (1 Kings 18), the Horeb theophany of the \"still small voice\" (1 Kings 19), and his translation into the heavens in a chariot of fire (2 Kings 2:11) — the only figure other than Enoch (Genesis 5:24) whom the Hebrew Bible describes as having been taken up without experiencing death. The Wheel of Heaven framework reads several specific episodes in the Elijah narrative as operational contact events with the Elohim, with the chariot-of-fire ascension catalogued as the most explicit aerial-craft account in the Hebrew Bible after the Ezekiel 1 vision."
+title = "以利亚"
+description = "以利亚(希伯来语:אֵלִיָּהוּ)是乘火战车被提升上天的圣经先知,其形象贯通犹太教、基督教与伊斯兰教。在 Wheel of Heaven 文集中,他的升天被读作借助厄罗欣飞行器进行的物理性提升的典型案例。"
 template = "wiki-page.html"
 toc = true
 

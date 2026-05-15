@@ -1,6 +1,6 @@
 +++
-title = "Yahweh"
-description = "Yahweh (Hebrew: יהוה, YHWH) is the proper name of the principal divine figure of the Hebrew Bible, conventionally read by mainstream tradition as the singular God of Israel. On the reading developed in the Raëlian source material and adopted by the Wheel of Heaven corpus, Yahweh is a specific Eloha — the president of the Council of the Eternals, the senior alliance authority who personally directed the creation of life on Earth from the Age of Capricorn onward, and the principal alliance interlocutor with Earth's prophetic figures across the subsequent fifteen millennia. The corpus's primary source material is Yahweh's first-person account of his civilization, given to Claude Vorilhon (Raël) over six mornings in 1973."
+title = "耶和华"
+description = "耶和华(<span class=\"hebrew\">יהוה</span>,YHWH)在希伯来圣经中是以色列神的专有名字。在 Wheel of Heaven 文集与雷尔派资料中,该词具名地指永恒者议会主席 — 负责地球的厄罗欣文明的领袖。"
 template = "wiki-page.html"
 toc = true
 

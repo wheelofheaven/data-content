@@ -1,6 +1,6 @@
 +++
-title = "Four Levels"
-description = "The Four Levels framework is the Wheel of Heaven corpus's articulation of the principal practical-ethical orientation derived from the Raëlian source-material claim that 'in every situation, we must always consider things in regard to four levels: in relation to infinity; in relation to the Elohim, our parents and creators; in relation to human society; and finally, in relation to the individual.' The framework operates as the ethical-practical correlate of the broader Infinity-Fractal-Cosmology-Mass-Effect-Living-Earth cosmological cluster: the cosmological framework provides the substantive cosmic context within which human life operates; the Four Levels framework provides the specific ethical-practical orientation appropriate to that context. The framework's distinctive analytical character is multi-perspectival rather than hierarchical: the four levels operate together as integrated framework where all four must be operative simultaneously, with love as the constant integrative principle across all four. Each level addresses specific failure-modes that the other levels can produce when isolated — the Infinite level prevents anxious self-importance through cosmic perspective; the Elohim level prevents nihilism through specific creator-relational accountability; the Society level prevents solipsism through participation in the broader human collective project; the Individual level prevents collective-tyranny through personal meaning-making and self-fulfillment."
+title = "四层级"
+description = "四层级在 Wheel of Heaven 文集中指对圣典的分层阅读 — 由字面意义出发,经象征与秘传层级,达至技术=厄罗欣层面的意义。它是本项目核心的解经工具。"
 template = "wiki-page.html"
 toc = true
 

@@ -1,6 +1,6 @@
 +++
-title = "List of mythemes and mythological motifs"
-description = "A reference catalogue of the principal cross-cultural mythological motifs the Wheel of Heaven framework reads as preserving, in mythologised form, historical content from the Elohim's interaction with human populations across the Earth project. The catalogue uses Stith Thompson's *Motif-Index of Folk-Literature* (1955) as its principal academic classification instrument and supplies, for each motif, a brief inventory of cross-cultural attestations and the framework's adopted reading of what the motif preserves. The corpus's interpretive method translates mythological patterns into operational terms consistent with the source material's account, on the working hypothesis that the wide cross-cultural distribution of certain motifs reflects shared historical reference rather than coincidence or independent invention."
+title = "神话素与神话母题清单"
+description = "在世界诸传统中反复出现的神话素与神话母题清单。Wheel of Heaven 文集将其作为共同事件母型的指标加以保留。"
 template = "wiki-page.html"
 toc = true
 

@@ -1,6 +1,6 @@
 +++
-title = "Apocalypse"
-description = "Apocalypse (Greek: ἀποκάλυψις, apokalypsis, 'uncovering, unveiling, revelation') is, in its plain Greek meaning, the disclosure of what has been concealed. On the reading developed in the Raëlian source material and adopted by the Wheel of Heaven corpus, the Apocalypse is the contemporary period — coextensive with the Age of Aquarius, opening at 1946 in the Raëlian source material's reckoning and at the precessional boundary of approximately 1950 in the corpus's astronomical chronology — during which the framework's content becomes available to humanity for direct evaluation, the religious vocabulary of the preceding two and a half millennia is replaced by accurate scientific account, and the cumulative work of the prophetic tradition reaches its culmination."
+title = "启示"
+description = "启示(希腊语:ἀποκάλυψις,“揭开”)指对隐秘事物的开示,尤指那些宣告世界秩序决定性变革的末世文献。在 Wheel of Heaven 框架内,启示被读作岁差时代之间的过渡 — 一个大月的终结与下一个大月的门槛。"
 template = "wiki-page.html"
 toc = true
 

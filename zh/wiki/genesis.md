@@ -1,6 +1,6 @@
 +++
-title = "Genesis"
-description = "Genesis (Hebrew: בְּרֵאשִׁית, B'reshit) is the first book of the Hebrew Bible, opening with two distinct creation narratives followed by the primeval and patriarchal histories. On the reading developed by Jean Sendy and the Raëlian source material and adopted by the Wheel of Heaven corpus, the seven-day creation account of Genesis 1 is read as a compressed record of seven precessional ages, c. 21,810 BCE through c. 6,690 BCE, during which the Elohim conducted the surveying, terraforming, and biological synthesis of the planet."
+title = "创世记"
+description = "《创世记》(希伯来语:בְּרֵאשִׁית,《贝瑞希特》)是《妥拉》与希伯来圣经的首卷,叙述创造、伊甸园、大洪水与族长们的故事。对 Wheel of Heaven 文集而言,它是必须通过厄罗欣式格栅重新阅读的最重要源典。"
 template = "wiki-page.html"
 toc = true
 

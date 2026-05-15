@@ -1,6 +1,6 @@
 +++
-title = "Terraforming"
-description = "Terraforming is the deliberate large-scale modification of a planet's atmosphere, surface, climate, or ecology to make it habitable for terrestrial life. The term was coined by the science-fiction writer Jack Williamson in 1942 and developed into a serious scientific proposal by Carl Sagan beginning in 1961. The contemporary scientific literature includes substantial work on the terraforming of Mars and, more speculatively, of Venus and other planetary bodies, with significant recent work both arguing against the feasibility of full-scale Mars terraforming with current technology (Jakosky and Edwards, 2018) and exploring localised paraterraforming approaches that may be feasible (Wordsworth et al., 2019). On the Wheel of Heaven framework, the planetary-engineering operations of the first four ages of Genesis 1 — atmospheric separation, water-cycle establishment, continental engineering, and astronomical calibration — are read as the Elohim's own terraforming of Earth during the preparation phase of the Earth project, prior to the biological synthesis that occupied the later ages."
+title = "地球化(terraforming)"
+description = "地球化(terraforming)是为使行星生物圈适合居住而进行变换的全部技术。Wheel of Heaven 文集将其读作厄罗欣在对地球进行预先整备时所动员的核心能力之一。"
 template = "wiki-page.html"
 toc = true
 

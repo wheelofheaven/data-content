@@ -1,6 +1,6 @@
 +++
-title = "List of megalithic sites"
-description = "A reference catalogue of megalithic sites of the ancient world — large stone structures whose construction features, dating, or astronomical alignments make them objects of substantial archaeological interest and, in many cases, objects of the Wheel of Heaven framework's interpretive engagement. The catalogue presents each site with its location, conventional dating, principal construction features, documented archaeoastronomical alignments where applicable, and the framework's adopted reading. Coverage extends across Europe, the Mediterranean and Near East, Egypt, sub-Saharan Africa, South and East Asia, the Pacific, Mesoamerica, the Andean region, and North America. The framework reads the megalithic record as preserving operational evidence of advanced ancient construction capability across multiple regions and time-periods, consistent with the corpus's broader account of intermittent Elohim-supported cultural development across the Earth project's middle and later phases."
+title = "巨石遗址清单"
+description = "因其天文学精度、年代久远或在灾难后传递传统中的反复出现而被 Wheel of Heaven 文集关注的巨石遗址清单。"
 template = "wiki-page.html"
 toc = true
 

@@ -1,7 +1,7 @@
 +++
 template = "wiki-page.html"
-title = "tl;dr"
-description = "tl;dr 是too long; didn't read 的缩写。它通常用于总结冗长的文章、帖子或讨论。在我们的维基中，我们将每篇文章的第一段标记为tl;dr，以表明它作为随后内容的简洁摘要。 tl;dr 部分稍微以自己的衬线字体进行了样式化，使其与文章的其余部分容易区分。通过包含tl;dr 部分，我们为读者提供了主要观点的快速概述，使他们能够抓住关键信息，而无需深入阅读整篇文章。"
+title = "TL;DR"
+description = "Wheel of Heaven 的浓缩概览:厄罗欣假说、岁差框架、先知系谱与大归来情景 — 汇集于一页快速参照。"
 hidden = true
 +++
 

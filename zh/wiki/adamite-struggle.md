@@ -1,6 +1,6 @@
 +++
-title = "Adamite struggle"
-description = "Adamite struggle — the Adamite community's journey to autonomy under the Serpent faction's influence. The corpus entry treats this under Serpentine Rebellion."
+title = "亚当血统斗争"
+description = "亚当血统斗争指最初被合成的人类与其厄罗欣创造者之间的冲突;正典叙述参见「蛇式叛乱」条目。"
 template = "wiki-page.html"
 toc = true
 

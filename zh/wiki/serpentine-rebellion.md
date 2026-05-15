@@ -1,6 +1,6 @@
 +++
-title = "Serpentine Rebellion"
-description = "Earlier name for the faction's defiance of Yahweh — now treated under Theomachy as part of the same cosmic conflict."
+title = "蛇式叛乱"
+description = "蛇式叛乱在 Wheel of Heaven 文集中指人类起源时刻发生在厄罗欣文明内部的重大分裂 — 一股技术性异见派系反对多数派关于亚当血统原型的政策。"
 template = "wiki-page.html"
 
 [extra]

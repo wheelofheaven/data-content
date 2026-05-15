@@ -1,6 +1,6 @@
 +++
-title = "Life engineering"
-description = "Life engineering is the application of scientific and engineering methods to the deliberate design and construction of living organisms or biological systems with novel functions, characteristics, or capabilities. It encompasses several adjacent disciplines — genetic engineering, synthetic biology, synthetic genomics, and xenobiology — that share the common project of treating living matter as something that can be designed at the molecular level rather than only observed and described. On the Wheel of Heaven framework, the emergence of this capability in present-day humanity is the framework's most concrete predicted convergence with the source material's account of the Elohim's work."
+title = "生命工程"
+description = "生命工程在 Wheel of Heaven 文集中指涵盖合成生物学、合成基因组学与地球化(terraforming)的整体技术纲领 — 即厄罗欣据信曾在地球所运用、用以在新世界中有意播种生命的全部能力。"
 template = "wiki-page.html"
 toc = true
 

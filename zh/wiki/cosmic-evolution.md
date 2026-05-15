@@ -1,6 +1,6 @@
 +++
-title = "Cosmic evolution"
-description = "Cosmic evolution — the iterative-creation framing where advanced civilizations seed life across the universe. The substantive entry is at Cosmic Chain."
+title = "宇宙演化"
+description = "宇宙演化 — Wheel of Heaven 的正典条目请参阅「宇宙链」。"
 template = "wiki-page.html"
 toc = true
 

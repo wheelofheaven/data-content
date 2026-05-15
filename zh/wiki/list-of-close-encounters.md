@@ -1,6 +1,6 @@
 +++
-title = "List of close encounters"
-description = "A reference catalogue of reported close encounters with aerial phenomena and their occupants across the pre-modern period (c. 1460 BCE through 1499 CE). The catalogue follows the cataloguing work of Jacques Vallée and Chris Aubeck in *Wonders in the Sky: Unexplained Aerial Objects from Antiquity to Modern Times* (2009), which compiled and analysed approximately 500 pre-1880 reports as the empirical basis for understanding the phenomenon's pre-modern history. The Wheel of Heaven framework reads the catalogued encounters as the documented historical record of Elohim and related operational presence on Earth across the post-Eden period — distributed across cultures, traditions, and millennia — preserving in regional vocabularies what the contemporary UFO-research vocabulary names *close encounters*. The terminological choice to apply Hynek's modern classification (1972) to pre-modern accounts is a deliberate neo-euhemeristic interpretive move, registered explicitly in the catalogue's methodology section."
+title = "近距离接触清单"
+description = "为 Wheel of Heaven 文集整理的、有据可查的人类与疑似厄罗欣实体之间的近距离接触清单,按类型与历史时期分类。"
 template = "wiki-page.html"
 toc = true
 
