@@ -1,6 +1,6 @@
 +++
-title = "Chronology"
-description = "Chronology — the corpus's cosmic timeline of twelve precessional ages making up the Great Year. The substantive entry lives at World Age."
+title = "Chronologie"
+description = "Chronologie — die kosmische Zeitskala des Korpus aus zwölf präzessionalen Zeitaltern, die das Große Jahr bilden. Der substantielle Eintrag lebt bei Weltzeitalter."
 template = "wiki-page.html"
 toc = true
 

@@ -1,6 +1,6 @@
 +++
-title = "Adamite struggle"
-description = "Adamite struggle — the Adamite community's journey to autonomy under the Serpent faction's influence. The corpus entry treats this under Serpentine Rebellion."
+title = "Adamitischer Kampf"
+description = "Adamitischer Kampf — die Reise der adamitischen Gemeinschaft zur Autonomie unter dem Einfluss der Schlangen-Fraktion. Der Korpuseintrag behandelt dies unter Serpentinische Rebellion."
 template = "wiki-page.html"
 toc = true
 

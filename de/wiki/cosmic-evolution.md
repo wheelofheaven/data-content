@@ -1,6 +1,6 @@
 +++
-title = "Cosmic evolution"
-description = "Cosmic evolution — the iterative-creation framing where advanced civilizations seed life across the universe. The substantive entry is at Cosmic Chain."
+title = "Kosmische Evolution"
+description = "Kosmische Evolution — der Rahmen einer iterativen Schöpfung, bei dem fortgeschrittene Zivilisationen Leben über das Universum hinweg ansiedeln. Der substantielle Eintrag lebt bei Kosmische Kette."
 template = "wiki-page.html"
 toc = true
 
