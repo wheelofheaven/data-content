@@ -4,6 +4,7 @@ description = "Rebelión Serpentina — la configuración operativa especificada
 template = "wiki-page.html"
 
 [extra]
+translation_status = "metadata_only"
 category = "Events & Narratives"
 editorial_pass = "2026-05"
 timeline = ["cancer", "gemini"]

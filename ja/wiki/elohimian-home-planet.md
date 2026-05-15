@@ -2,6 +2,9 @@
 template = "wiki-page.html"
 title = "エロヒム母星"
 description = "エロヒム母星は、エロヒムが起源とする世界 — 地球よりも古く、その文明が他の世界における生命合成を可能にする技術的閾値に到達した惑星である。Wheel of Heaven はこの惑星が宇宙の連鎖において占める位置を論じる。"
+
+[extra]
+translation_status = "machine"
 +++
 
 ## In Raëlism 🔯

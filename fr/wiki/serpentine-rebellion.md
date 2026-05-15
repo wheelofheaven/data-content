@@ -4,6 +4,7 @@ description = "La rébellion serpentine est, dans le corpus Wheel of Heaven, le 
 template = "wiki-page.html"
 
 [extra]
+translation_status = "metadata_only"
 category = "Events & Narratives"
 editorial_pass = "2026-05"
 timeline = ["cancer", "gemini"]

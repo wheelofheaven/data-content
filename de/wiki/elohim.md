@@ -4,6 +4,7 @@ description = "Elohim (hebräisch: אֱלֹהִים) ist die plurale hebräische
 template = "wiki-page.html"
 toc = true
 [extra]
+translation_status = "metadata_only"
 category = "Elohim"
 editorial_pass = "2026-05"
 entry_type = "civilization"

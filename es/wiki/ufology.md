@@ -4,6 +4,7 @@ description = "Ufología es el campo interdisciplinario de investigación que es
 template = "wiki-page.html"
 toc = true
 [extra]
+translation_status = "metadata_only"
 editorial_pass = "2026-05"
 category = "Ufology"
 entry_type = "concept"

@@ -3,6 +3,9 @@ template = "wiki-page.html"
 title = "TL;DR"
 description = "Wheel of Heaven 的浓缩概览:厄罗欣假说、岁差框架、先知系谱与大归来情景 — 汇集于一页快速参照。"
 hidden = true
+
+[extra]
+translation_status = "machine"
 +++
 
 术语 "tl;dr" 源自互联网文化，在在线社区中特别是论坛、社交媒体和讨论板上获得了广泛流行。它作为对一些用户发现冗长帖子或文章乏味或耗时的回应而出现。

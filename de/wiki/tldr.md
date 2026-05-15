@@ -3,6 +3,9 @@ template = "wiki-page.html"
 title = "tl;dr"
 description = "tl;dr ist eine Abkürzung für too long; didn't read. Es wird häufig verwendet, um ausführliche Artikel, Beiträge oder Diskussionen zusammenzufassen. In unserem Wiki kennzeichnen wir den ersten Absatz jedes Artikels als tl;dr, um anzugeben, dass er als prägnante Zusammenfassung des folgenden Inhalts dient. Der tl;dr-Abschnitt ist leicht stilisiert und verwendet eine serifenartige Schrift, sodass er sich deutlich vom Rest des Artikels abhebt. Durch die Einbeziehung eines tl;dr-Abschnitts bieten wir unseren Lesern einen schnellen Überblick über die Hauptpunkte und ermöglichen es ihnen, die wichtigsten Informationen zu erfassen, ohne den gesamten Artikel durchzugehen."
 hidden = true
+
+[extra]
+translation_status = "machine"
 +++
 
 Der Begriff "tl;dr" stammt aus der Internetkultur und erlangte in Online-Communitys, insbesondere in Foren, sozialen Medien und Diskussionsplattformen, an Popularität. Er entwickelte sich als Reaktion auf lange Beiträge oder Artikel, die von einigen Benutzern als langwierig oder zeitaufwendig empfunden wurden.

@@ -3,6 +3,9 @@ template = "wiki-page.html"
 title = "TL;DR"
 description = "Wheel of Heaven の凝縮的概説:エロヒム仮説、歳差の枠組み、預言者系譜、大いなる帰還のシナリオを — 一頁の早見ページにまとめたもの。"
 hidden = true
+
+[extra]
+translation_status = "machine"
 +++
 
 「tl;dr」はインターネット文化から生まれ、特にフォーラム、ソーシャルメディア、ディスカッションボードなどのオンラインコミュニティで人気を得ました。これは、一部のユーザーが煩雑で時間のかかると感じる長い投稿や記事に対する応答として生まれました。

@@ -4,6 +4,7 @@ description = "蛇式叛乱在 Wheel of Heaven 文集中指人类起源时刻发
 template = "wiki-page.html"
 
 [extra]
+translation_status = "metadata_only"
 category = "Events & Narratives"
 editorial_pass = "2026-05"
 timeline = ["cancer", "gemini"]

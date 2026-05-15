@@ -4,6 +4,7 @@ description = "外星生物學的軍事隱瞞指國家(主要為美國)將與地
 template = "wiki-page.html"
 toc = true
 [extra]
+translation_status = "metadata_only"
 editorial_pass = "2026-05"
 category = "Ufology"
 entry_type = "concept"

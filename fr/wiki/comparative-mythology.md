@@ -4,6 +4,7 @@ description = "La mythologie comparée est l'étude systématique des correspond
 template = "wiki-page.html"
 toc = true
 [extra]
+translation_status = "metadata_only"
 editorial_pass = "2026-05"
 category = "Methodology"
 entry_type = "concept"

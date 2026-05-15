@@ -2,6 +2,9 @@
 template = "wiki-page.html"
 title = "Vier Ebenen der Betrachtung"
 description = "The four levels of consideration, derived from Raëlian theology and philosophy, propose a moral compass that requires consideration of four specific perspectives: the infinity of space, our creators - the Elohim, the human society we inhabit, and ourselves as individuals, in that order. This perspective echoes the hallmarks of classical existentialism, with its focus on individual freedom, authenticity, and responsibility. However, it transcends these concepts to formulate a unique form of cosmic existentialism, thereby integrating an awareness of humanity's position within the vast cosmos into our philosophical discourse."
+
+[extra]
+translation_status = "machine"
 +++
 
 ## The four levels

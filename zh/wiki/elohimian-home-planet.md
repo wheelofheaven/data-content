@@ -2,6 +2,9 @@
 template = "wiki-page.html"
 title = "厄罗欣式母行星"
 description = "厄罗欣式母行星是厄罗欣的起源世界 — 一颗比地球更古老的行星,其上他们的文明达到了允许在其他世界合成生命的技术门槛。Wheel of Heaven 文集讨论它在宇宙链中所处的位置。"
+
+[extra]
+translation_status = "machine"
 +++
 
 ## In Raëlism 🔯

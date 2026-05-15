@@ -4,6 +4,7 @@ description = "세르팡 반란은 Wheel of Heaven 코퍼스에서 인류 기원
 template = "wiki-page.html"
 
 [extra]
+translation_status = "metadata_only"
 category = "Events & Narratives"
 editorial_pass = "2026-05"
 timeline = ["cancer", "gemini"]

@@ -5,6 +5,7 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+translation_status = "metadata_only"
 redirect_to = { title = "Serpent", path = "/wiki/serpent/" }
 category = "Symbolism & Motifs"
 timeline = ["gemini"]

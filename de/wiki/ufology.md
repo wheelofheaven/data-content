@@ -4,6 +4,7 @@ description = "Ufologie ist das interdisziplinäre Untersuchungsfeld, das die Be
 template = "wiki-page.html"
 toc = true
 [extra]
+translation_status = "metadata_only"
 editorial_pass = "2026-05"
 category = "Ufology"
 entry_type = "concept"

@@ -4,6 +4,7 @@ description = "インテリジェント・デザインは、Wheel of Heaven の�
 template = "wiki-page.html"
 toc = true
 [extra]
+translation_status = "metadata_only"
 category = "Science & Technology"
 editorial_pass = "2026-05"
 entry_type = "concept"

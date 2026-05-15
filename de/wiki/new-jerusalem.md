@@ -5,6 +5,7 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+translation_status = "metadata_only"
 category = "Places & Locations"
 editorial_pass = "2026-05"
 entry_type = "concept"

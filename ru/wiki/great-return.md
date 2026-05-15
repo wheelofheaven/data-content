@@ -5,6 +5,7 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+translation_status = "metadata_only"
 redirect_to = { title = "Embassy", path = "/wiki/embassy/" }
 category = "Events & Narratives"
 editorial_pass = "2026-05"

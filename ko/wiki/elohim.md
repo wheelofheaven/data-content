@@ -4,6 +4,7 @@ description = "엘로힘(히브리어: אֱלֹהִים)은 토라 전체를 통
 template = "wiki-page.html"
 toc = true
 [extra]
+translation_status = "metadata_only"
 category = "Elohim"
 editorial_pass = "2026-05"
 entry_type = "civilization"

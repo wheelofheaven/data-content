@@ -2,6 +2,9 @@
 template = "wiki-page.html"
 title = "Quatre niveaux de considération"
 description = "Quatre niveaux de considération — voir « Quatre niveaux » pour l'entrée canonique du corpus Wheel of Heaven."
+
+[extra]
+translation_status = "machine"
 +++
 
 ## The four levels

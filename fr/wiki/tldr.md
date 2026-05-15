@@ -3,6 +3,9 @@ template = "wiki-page.html"
 title = "TL;DR"
 description = "Synthèse condensée du corpus Wheel of Heaven : l'hypothèse élohimique, le cadre précessionnel, la lignée prophétique et le scénario du Grand Retour — en une page de référence rapide."
 hidden = true
+
+[extra]
+translation_status = "machine"
 +++
 
 Le terme "tl;dr" est issu de la culture internet et a gagné en popularité au sein des communautés en ligne, notamment sur les forums, les réseaux sociaux et les plateformes de discussion. Il est apparu en réponse à des messages ou articles longs que certains utilisateurs trouvaient fastidieux ou chronophages à lire.

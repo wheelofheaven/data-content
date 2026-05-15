@@ -2,6 +2,9 @@
 template = "wiki-page.html"
 title = "Planète d'origine élohimique"
 description = "La planète d'origine élohimique est le monde dont sont issus les Elohim — une planète plus ancienne que la Terre, sur laquelle leur civilisation a atteint le seuil technologique permettant la synthèse de vie sur d'autres mondes. Le corpus Wheel of Heaven en discute la position dans la chaîne cosmique."
+
+[extra]
+translation_status = "machine"
 +++
 
 ## In Raëlism 🔯
