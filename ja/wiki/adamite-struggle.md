@@ -1,6 +1,6 @@
 +++
-title = "Adamite struggle"
-description = "Adamite struggle — the Adamite community's journey to autonomy under the Serpent faction's influence. The corpus entry treats this under Serpentine Rebellion."
+title = "アダム系統の闘争"
+description = "アダム系統の闘争は、最初に合成された人類と創造者たるエロヒムとの間の衝突を指す。正典的扱いは「セルパント反乱」の項に収録されている。"
 template = "wiki-page.html"
 toc = true
 

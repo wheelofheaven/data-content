@@ -1,6 +1,6 @@
 +++
-title = "List of etymological readings"
-description = "A reference catalogue of the Wheel of Heaven framework's adopted etymological readings of religious, mythological, and traditional terms. The corpus uses careful philological method drawn principally from the Sendy–Biglino tradition to recover the literal meaning of source-language terms, and reads those literal meanings for the operational content the framework's broader interpretive synthesis identifies. The catalogue presents each term in its source language and script with transliteration, the standard scholarly etymology, and the framework's adopted reading, organised by source-language tradition (Hebrew, Greek, Sanskrit, Sumerian and Akkadian, Latin, and cross-linguistic) so that etymological convergences across language families can be assessed."
+title = "語源学的読解のリスト"
+description = "Wheel of Heaven のために、慣用的翻訳・文献学的語根・エロヒム的解釈を結びつけた、本文の鍵語(主としてヘブライ語・ギリシャ語)の語源学的再読のリスト。"
 template = "wiki-page.html"
 toc = true
 

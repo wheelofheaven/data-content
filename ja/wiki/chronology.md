@@ -1,6 +1,6 @@
 +++
-title = "Chronology"
-description = "Chronology — the corpus's cosmic timeline of twelve precessional ages making up the Great Year. The substantive entry lives at World Age."
+title = "年代学"
+description = "年代学 — 大年を成す十二の歳差年代から構成される本文の宇宙的時間軸。実質的記事は「世界年代」にある。"
 template = "wiki-page.html"
 toc = true
 

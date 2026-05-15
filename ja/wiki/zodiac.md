@@ -1,6 +1,6 @@
 +++
-title = "Zodiac"
-description = "The Zodiac (Greek: ζῳδιακὸς κύκλος, *zōidiakos kyklos*, 'circle of small figures') is the band of sky extending approximately 8° on either side of the ecliptic — the apparent annual path of the sun against the stellar background — divided into twelve named constellational regions: Aries, Taurus, Gemini, Cancer, Leo, Virgo, Libra, Scorpio, Sagittarius, Capricorn, Aquarius, Pisces. The zodiac operates as the principal observational-symbolic framework underlying the precessional age system: the constellational regions through which the vernal equinox precesses across the ~25,920-year Great Year cycle, with each constellation occupied for approximately 2,160 years per age. The Wheel of Heaven framework reads the zodiac as the alliance's own engineering tool — the calendrical backbone of the Elohim project on Earth, devised by direct astronomical-engineering reasoning rather than human cultural invention, with the twelve-sign division and the paired-opposition structure operating as functional features of an interstellar biotech program's long-duration calendar. The zodiacal names, on the framework's reading, are the Elohim's own conceptual shorthand for the twelve segments of the ecliptic — names later inherited by human civilizations through the various pathways of cultural transmission the corpus traces, with the resulting cross-cultural zodiacal traditions (Mesopotamian, Egyptian, Greek, Indian, Chinese, Mesoamerican) representing distinct human receptions of the same underlying framework rather than independent inventions."
+title = "黄道十二宮"
+description = "黄道十二宮は、歳差運動の進行に伴って春分点が移動する十二の星座からなる天の帯である。Wheel of Heaven の文脈では、それは大年の文字盤を成し、世界年代の参照グリッドとなる。"
 template = "wiki-page.html"
 toc = true
 

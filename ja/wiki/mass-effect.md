@@ -1,6 +1,6 @@
 +++
-title = "Mass Effect"
-description = "The Mass Effect, also called the Law of Masstime, is the framework concept developed in the Wheel of Heaven corpus to articulate the relationship between mass-or-scale and the experience of time across the infinite hierarchy of cosmological scales. The concept holds that the subjective experience of time scales with mass and complexity: a larger and more massive being experiences each subjective moment as encompassing a substantially longer interval of absolute time than a smaller being's subjective moment encompasses. The law's principal source-material warrant is the Yahweh-delivered passage in *Extra-Terrestrials Took Me to Their Planet* (1975), which establishes the framework in connection with the broader Infinity framework and the Cosmic Chain framework. The Mass Effect framework has substantial points of contact with mainstream physics (general-relativistic gravitational time dilation, biological time perception, allometric scaling laws) while extending substantially beyond what mainstream science has established."
+title = "マス・エフェクト"
+description = "マス・エフェクトは、ラエル文献の文脈において、メッセージを知る人間の臨界量に到達することで大いなる帰還を可能にする転換点を指す。Wheel of Heaven はこれを、二択的ではなく累積的な条件として読む。"
 template = "wiki-page.html"
 toc = true
 

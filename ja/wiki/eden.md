@@ -1,6 +1,6 @@
 +++
-title = "Eden"
-description = "Eden (Hebrew: עֵדֶן, ʿĒden) is the region named in the Hebrew Bible as the location of the garden in which the first humans were created and lived before their expulsion. On the reading developed in the Raëlian source material and adopted by the Wheel of Heaven corpus, Eden is the operational territory of the Israel team of Elohim creators on the antediluvian supercontinent — the team whose biological synthesis work produced the most accomplished human lineage of the seven regional creator teams — with the Garden of Eden (gan-ʿĒden) being the enclosed laboratory and habitation site within that territory."
+title = "エデン"
+description = "エデン(ヘブライ語:עֵדֶן)は、創世記によれば最初の人類がエロヒムによって置かれた園である。Wheel of Heaven の文脈では、エデンはアダム系統のプロトタイプが外界へ送り出される前に合成・順応された実験室=施設として読まれる。"
 template = "wiki-page.html"
 toc = true
 

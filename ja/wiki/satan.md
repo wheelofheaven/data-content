@@ -1,6 +1,6 @@
 +++
-title = "Satan"
-description = "Satan (שָׂטָן, Hebrew: 'adversary,' 'accuser,' 'opponent') is an Eloha figure on the home world, the leader of the political faction within the Elohim civilization that has consistently opposed the creation of synthetic beings capable of equaling or surpassing their makers. Satan's position has been substantively consistent since before the Earth program began: the creation of beings in the Elohim's own image is fundamentally dangerous, and no protocol, no oversight, and no geographic distance can be trusted to contain the risk. The framework's distinctive analytical contribution is the careful disentanglement of Satan from Lucifer, the Serpent, and the Devil — four distinct figures and roles that mainstream Western religious tradition has progressively conflated into a single personification of cosmic evil across the Second Temple period and the subsequent Christian-theological development. Satan is not the devil of medieval demonology; he is a politician, the leader of the Council's opposition party, holding principled opposition to the Earth program throughout its history. His specific institutional role across the post-flood period is the testing of prophetic figures through adversarial interview — the function that the Greek New Testament word *diabolos* (slanderer) describes."
+title = "サタン"
+description = "サタン(<span class=\"hebrew\">שָׂטָן</span>)は、ヘブライ語聖書において、実体的人格というよりはむしろ機能としての「敵対者」を指す。Wheel of Heaven の文脈では、セルパント反乱の際のエロヒム階層内部の異論者の形象化の一つとして読まれる。"
 template = "wiki-page.html"
 toc = true
 

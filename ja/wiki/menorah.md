@@ -1,6 +1,6 @@
 +++
-title = "Menorah"
-description = "The Menorah is the seven-branched golden lampstand specified in the Hebrew Bible (Exodus 25:31–40) as a principal furnishing of the Tabernacle and subsequently of the First and Second Temples of Jerusalem. It is among the oldest continuously preserved religious symbols in any tradition, surviving in Jewish use across approximately 3,200 years from the Mosaic period to the present and serving as the emblem of the State of Israel since 1949. In the Wheel of Heaven framework, the Menorah's seven-branched configuration is read as preserving the operational memory of seven Elohim bases established on Earth during the antediluvian and Mosaic periods — bases located on elevated terrain (Amos 4:13) and connected through a central communications installation that the source material describes as the original referent of the seven-branched lampstand design."
+title = "メノラー"
+description = "メノラー(<span class=\"hebrew\">מְנוֹרָה</span>)は、エルサレム神殿の七枝の燭台であり、その構造は宇宙論的象徴と祭儀的機能を結びつける。Wheel of Heaven は、その技術的・天文学的・典礼的な読解層を論じる。"
 template = "wiki-page.html"
 toc = true
 

@@ -1,6 +1,6 @@
 +++
-title = "Doubled Signature"
-description = "The Doubled Signature is the hermeneutic-interpretive principle, drawn from Giorgio de Santillana and Hertha von Dechend's Hamlet's Mill (1969) and applied systematically by the Wheel of Heaven corpus, by which each precessional age encodes its astronomical signature in iconographic and religious form across both its current zodiacal sign and the opposite sign on the zodiacal axis. The principle reads the religious symbolism of any age as preserving identifiable astronomical content through the doubled invocation of opposed zodiacal figures — the Pisces-Virgo signature of Christianity (fish-and-virgin), the Aries-Libra signature of the Mosaic period (ram-and-balance), the Taurus-Scorpio signature of the Abrahamic-Egyptian reconstruction (bull-and-scorpion), the Aquarius-Leo signature of the present age (water-bearer-and-lion). The redundancy of the doubled invocation ensures the astronomical signature survives across centuries of cultural transmission during which the original meaning may be lost."
+title = "二重の署名"
+description = "二重の署名は、Wheel of Heaven の文脈において、同一の歴史的出来事が複数の独立した伝承において同時に確認される現象を指す — 伝達された事実と後世の脚色とを区別するための方法論的基準である。"
 template = "wiki-page.html"
 toc = true
 

@@ -1,6 +1,6 @@
 +++
-title = "Serpentine Rebellion"
-description = "Earlier name for the faction's defiance of Yahweh — now treated under Theomachy as part of the same cosmic conflict."
+title = "セルパント反乱"
+description = "セルパント反乱は、Wheel of Heaven の文脈において、人類の起源の時点におけるエロヒム文明内部の大規模な分裂を指す — 技術的異論派が、アダム系統のプロトタイプに関する多数派政策に対立した出来事である。"
 template = "wiki-page.html"
 
 [extra]
