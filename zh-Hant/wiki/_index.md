@@ -1,6 +1,6 @@
 +++
-title = "百科"
-description = "Wheel of Heaven 的全面參考和文檔百科。"
+title = "百科全書"
+description = "Wheel of Heaven 維基百科是一個全面的線上資源，作為與網站核心主題相關資訊的廣泛儲存庫。它提供了一系列文章，涵蓋了關於先進外星文明在塑造人類歷史和地球生命發展中所扮演角色的假設的各個方面。對於尋求更深入理解網站所探索的人類宇宙聯繫和起源的使用者來說，這是一個寶貴的工具。"
 template = "wiki-section.html"
 sort_by = "title"
 +++

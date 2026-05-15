@@ -1,6 +1,6 @@
 +++
-title = "위키"
-description = "Wheel of Heaven의 포괄적인 참조 및 문서 위키입니다."
+title = "백과사전"
+description = "Wheel of Heaven 위키는 사이트의 핵심 주제와 관련된 정보의 광범위한 저장소 역할을 하는 포괄적인 온라인 자료입니다. 인류 역사 형성과 지구 생명의 발전에서 선진 외계 문명의 역할에 관한 가설의 다양한 측면을 다루는 광범위한 문서를 제공합니다. 사이트가 탐구하는 인류의 우주적 연결과 기원을 더 깊이 이해하고자 하는 이용자에게 매우 유용한 도구입니다."
 template = "wiki-section.html"
 sort_by = "title"
 +++
