@@ -1,6 +1,6 @@
 +++
-title = "Эдем"
-description = "Эдем, особый регион допотопного пангейского суперконтинента, где одна из семи команд Элохимианских создателей была весьма талантлива и, как считается, создала рай на Земле. Эдемский сад относится к закрытому исследовательскому участку, которым управляют элогимианские исследователи в районе Эдема."
+title = "Eden"
+description = "Eden (Hebrew: עֵדֶן, ʿĒden) is the region named in the Hebrew Bible as the location of the garden in which the first humans were created and lived before their expulsion. On the reading developed in the Raëlian source material and adopted by the Wheel of Heaven corpus, Eden is the operational territory of the Israel team of Elohim creators on the antediluvian supercontinent — the team whose biological synthesis work produced the most accomplished human lineage of the seven regional creator teams — with the Garden of Eden (gan-ʿĒden) being the enclosed laboratory and habitation site within that territory."
 template = "wiki-page.html"
 toc = true
 

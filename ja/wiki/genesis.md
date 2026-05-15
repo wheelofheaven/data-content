@@ -1,6 +1,6 @@
 +++
-title = "創世記"
-description = "創世記は、語源的には聖書の最初の本であり、ヘブライ語で創世記または B'reshit (בְּרֵאשִׁית) としても知られています。より比喩的に言えば、エロヒムが地球上で7大月にわたって実施したすべての創造プロジェクトの合計で、およそ15,000年に相当します。"
+title = "Genesis"
+description = "Genesis (Hebrew: בְּרֵאשִׁית, B'reshit) is the first book of the Hebrew Bible, opening with two distinct creation narratives followed by the primeval and patriarchal histories. On the reading developed by Jean Sendy and the Raëlian source material and adopted by the Wheel of Heaven corpus, the seven-day creation account of Genesis 1 is read as a compressed record of seven precessional ages, c. 21,810 BCE through c. 6,690 BCE, during which the Elohim conducted the surveying, terraforming, and biological synthesis of the planet."
 template = "wiki-page.html"
 toc = true
 

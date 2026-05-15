@@ -1,6 +1,6 @@
 +++
-title = "Ingeniería de la vida"
-description = "La ingeniería de la vida se refiere a la aplicación de enfoques científicos y tecnológicos para diseñar y construir intencionalmente organismos vivos artificiales o sistemas biológicos con funciones, características o capacidades novedosas. Implica la manipulación deliberada de material genético y el ensamblaje de componentes biológicos para provocar la aparición de formas de vida completamente nuevas que no existen en la naturaleza."
+title = "Life engineering"
+description = "Life engineering is the application of scientific and engineering methods to the deliberate design and construction of living organisms or biological systems with novel functions, characteristics, or capabilities. It encompasses several adjacent disciplines — genetic engineering, synthetic biology, synthetic genomics, and xenobiology — that share the common project of treating living matter as something that can be designed at the molecular level rather than only observed and described. On the Wheel of Heaven framework, the emergence of this capability in present-day humanity is the framework's most concrete predicted convergence with the source material's account of the Elohim's work."
 template = "wiki-page.html"
 toc = true
 

@@ -1,6 +1,6 @@
 +++
-title = "Evolución cósmica"
-description = "La evolución cósmica se refiere a una creación de vida iterativa y con un propósito en todo el universo por parte de civilizaciones avanzadas. Trasciende la evolución biológica, enfatizando el diseño deliberado y el refinamiento continuo de las formas de vida humanoides. Cada creación sucesiva representa un paso evolutivo hacia adelante, aunque potencialmente representa una amenaza para sus creadores. Este concepto representa una mezcla de procesos naturales y diseño consciente en la gran progresión de la vida a través del cosmos."
+title = "Cosmic evolution"
+description = "Cosmic evolution — the iterative-creation framing where advanced civilizations seed life across the universe. The substantive entry is at Cosmic Chain."
 template = "wiki-page.html"
 toc = true
 

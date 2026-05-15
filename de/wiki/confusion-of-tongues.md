@@ -1,6 +1,6 @@
 +++
-title = "Verwirrung der Sprachen"
-description = "Sprachverwirrung, die Folgereaktion der elohimischen Zivilisation in den Tagen des Aufbaus der Raumfahrttechnologie, die der Großen Sintflut folgte, um den technologischen Fortschritt auf der Erde auszugleichen und diese Bemühungen unschädlich zu machen. Das Verwirrungsunternehmen bestand darin, die Wissensträger auf der ganzen Welt geografisch unter Stämmen aufzulösen, die sie nicht mehr verstehen konnten."
+title = "Confusion of tongues"
+description = "Confusion of tongues — the post-flood dispersion-of-languages event narrated in Genesis 11. In the corpus the substantive entry consolidates this under Babel."
 template = "wiki-page.html"
 toc = true
 

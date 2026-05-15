@@ -1,6 +1,6 @@
 +++
-title = "合成ゲノミクス"
-description = "合成ゲノミクスは、完全なゲノムまたはゲノムの大きなセグメントの設計、アセンブリ、および合成に焦点を当てた遺伝子工学の一分野です。これには、既存の天然ゲノムを模倣する、または既存の天然ゲノムとは異なる人工 DNA 配列を作成することが含まれます。合成ゲノミクスは、合成染色体や合成ゲノム全体などの遺伝物質を構築して、基本的な生物学的プロセスを研究し、生命に必要な最小限の遺伝子セットを理解し、改変された特性または新しい特性を備えた生物を潜在的に作り出すことを目的としています。これには、生命の遺伝的基盤を探索および操作するための人工遺伝物質の構築が含まれます。"
+title = "Synthetic genomics"
+description = "Synthetic genomics is the branch of life engineering concerned with the design, chemical synthesis, and assembly of complete genomes or large portions of genomes — the construction of an organism's entire hereditary material from designed sequence rather than from modification of existing biological templates. The field is the most ambitious wing of contemporary life engineering, operating at the scale of complete cellular life rather than at the sub-system scale of synthetic biology or the modify-existing scale of genetic engineering. On the Wheel of Heaven framework, synthetic genomics is the sub-discipline whose specific scale of operation — whole-organism construction from designed sequence — most directly matches the operational scale at which the Raëlian source material describes the Elohim's work."
 template = "wiki-page.html"
 toc = true
 

@@ -1,6 +1,6 @@
 +++
 title = "Eden"
-description = "Eden, eine bestimmte Region des vorsintflutlichen pangäischen Superkontinents, in der eines der sieben elohimischen Schöpferteams sehr talentiert war und das Paradies auf Erden geschaffen haben soll. Der Garten Eden bezieht sich auf einen geschlossenen Forschungsstandort, der von elohimischen Forschern in der Region Eden betrieben wird."
+description = "Eden (Hebrew: עֵדֶן, ʿĒden) is the region named in the Hebrew Bible as the location of the garden in which the first humans were created and lived before their expulsion. On the reading developed in the Raëlian source material and adopted by the Wheel of Heaven corpus, Eden is the operational territory of the Israel team of Elohim creators on the antediluvian supercontinent — the team whose biological synthesis work produced the most accomplished human lineage of the seven regional creator teams — with the Garden of Eden (gan-ʿĒden) being the enclosed laboratory and habitation site within that territory."
 template = "wiki-page.html"
 toc = true
 

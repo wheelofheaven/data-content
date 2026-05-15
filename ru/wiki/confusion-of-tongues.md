@@ -1,6 +1,6 @@
 +++
-title = "Смешение языков"
-description = "Смешение языков, последующая реакция элогимианской цивилизации во времена создания космических технологий, пришедших на смену Великому потопу, чтобы противодействовать технологическому прогрессу на Земле и обезвредить эти усилия. Мероприятие по замешательству заключалось в географическом расселении носителей знаний по всему земному шару среди племен, которые уже не могли их понять."
+title = "Confusion of tongues"
+description = "Confusion of tongues — the post-flood dispersion-of-languages event narrated in Genesis 11. In the corpus the substantive entry consolidates this under Babel."
 template = "wiki-page.html"
 toc = true
 

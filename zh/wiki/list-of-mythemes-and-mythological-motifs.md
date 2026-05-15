@@ -1,6 +1,6 @@
 +++
-title = "神话主题和神话图案列表"
-description = "神话主题和神话主题列表。通过探索天轮提出的前提，有许多神话主题和神话主题可以通过工作假设解释来解读。该列表将列出其中大部分主题。"
+title = "List of mythemes and mythological motifs"
+description = "A reference catalogue of the principal cross-cultural mythological motifs the Wheel of Heaven framework reads as preserving, in mythologised form, historical content from the Elohim's interaction with human populations across the Earth project. The catalogue uses Stith Thompson's *Motif-Index of Folk-Literature* (1955) as its principal academic classification instrument and supplies, for each motif, a brief inventory of cross-cultural attestations and the framework's adopted reading of what the motif preserves. The corpus's interpretive method translates mythological patterns into operational terms consistent with the source material's account, on the working hypothesis that the wide cross-cultural distribution of certain motifs reflects shared historical reference rather than coincidence or independent invention."
 template = "wiki-page.html"
 toc = true
 

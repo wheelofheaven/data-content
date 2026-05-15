@@ -1,6 +1,6 @@
 +++
-title = "Yahveh"
-description = "Yahweh (יהוה), también conocido como el Primero y el Último (Alfa y Omega) es un Eloha (אֱלוֹהַּ) y el principal representante de los Elohim (אֱלֹהִים) como un todo. Es un Eterno en el sentido de que ya ha habitado en múltiples cuerpos (una técnica elohimiana para vivir para siempre) y, por lo tanto, es miembro del Consejo de los Eternos actuando como su cabeza del Consejo. En las escrituras bíblicas, Yahweh se identifica como la Deidad y también se equipara indistintamente con la civilización que representa, los Elohim. Yahweh fue también el Eloha con el que Raël se encontró en múltiples ocasiones, al igual que todos los profetas que le precedieron."
+title = "Yahweh"
+description = "Yahweh (Hebrew: יהוה, YHWH) is the proper name of the principal divine figure of the Hebrew Bible, conventionally read by mainstream tradition as the singular God of Israel. On the reading developed in the Raëlian source material and adopted by the Wheel of Heaven corpus, Yahweh is a specific Eloha — the president of the Council of the Eternals, the senior alliance authority who personally directed the creation of life on Earth from the Age of Capricorn onward, and the principal alliance interlocutor with Earth's prophetic figures across the subsequent fifteen millennia. The corpus's primary source material is Yahweh's first-person account of his civilization, given to Claude Vorilhon (Raël) over six mornings in 1973."
 template = "wiki-page.html"
 toc = true
 

@@ -1,6 +1,6 @@
 +++
-title = "伊甸园"
-description = "伊甸园，上古泛古超级大陆的一个特定区域，七个埃洛希米亚创造者团队之一非常有才华，被认为创造了地球上的天堂。伊甸园是指伊甸园地区由埃洛希米亚研究人员运营的一个封闭的研究场所。"
+title = "Eden"
+description = "Eden (Hebrew: עֵדֶן, ʿĒden) is the region named in the Hebrew Bible as the location of the garden in which the first humans were created and lived before their expulsion. On the reading developed in the Raëlian source material and adopted by the Wheel of Heaven corpus, Eden is the operational territory of the Israel team of Elohim creators on the antediluvian supercontinent — the team whose biological synthesis work produced the most accomplished human lineage of the seven regional creator teams — with the Garden of Eden (gan-ʿĒden) being the enclosed laboratory and habitation site within that territory."
 template = "wiki-page.html"
 toc = true
 

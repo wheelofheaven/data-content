@@ -1,6 +1,6 @@
 +++
-title = "Lista de mitos y motivos mitológicos"
-description = "Relación de mitemas y motivos mitológicos. Mediante la exploración de las premisas presentadas por Wheel of Heaven, hay una serie de mitemas y motivos mitológicos que se pueden leer a través de la interpretación de la hipótesis de trabajo. Esta lista va a catalogar la mayoría de estos motivos."
+title = "List of mythemes and mythological motifs"
+description = "A reference catalogue of the principal cross-cultural mythological motifs the Wheel of Heaven framework reads as preserving, in mythologised form, historical content from the Elohim's interaction with human populations across the Earth project. The catalogue uses Stith Thompson's *Motif-Index of Folk-Literature* (1955) as its principal academic classification instrument and supplies, for each motif, a brief inventory of cross-cultural attestations and the framework's adopted reading of what the motif preserves. The corpus's interpretive method translates mythological patterns into operational terms consistent with the source material's account, on the working hypothesis that the wide cross-cultural distribution of certain motifs reflects shared historical reference rather than coincidence or independent invention."
 template = "wiki-page.html"
 toc = true
 

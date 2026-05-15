@@ -1,6 +1,6 @@
 +++
-title = "無限"
-description = "無限は、時間と空間の非常に永続的な範囲を仮定する最高級の科学的洞察です。始まりも終わりもないように中心もありません。世界中と時代を超えて知られている 2 つの古代のシンボルは、エロヒムによって私たちに与えられたこの古代の知恵を証明しています。すなわち、時間と永遠の循環性を表すスワスティカと、上にあるものは下にあり、その方法を意味するマゲン ダビデを表しています。空間がより巨視的なレベルに拡張することは、微視的なレベル内の空間が折りたたまれる方法と同じです。"
+title = "Infinity"
+description = "Infinity is the foundational cosmological framework within which the Wheel of Heaven corpus's broader cosmological and ethical content operates. The framework holds that the cosmos is infinite along three mutually reinforcing dimensions: infinite in spatial extent (no boundary, no edge, no center), infinite in temporal extent (no beginning, no end), and infinite in hierarchical scale (no smallest scale, no largest scale). The framework's principal source-material warrant is the Yahweh-delivered passages in *The Book Which Tells the Truth* (1974) and *Extra-Terrestrials Took Me to Their Planet* (1975), with substantial corpus development through the Outro section II of *timeline.epub*. The Infinity framework operates as the broader cosmological precondition within which the Fractal Cosmology framework operates as the spatial dimension, the Mass Effect framework operates as the temporal dimension, and the Four Levels framework operates as the ethical-practical correlate."
 template = "wiki-page.html"
 toc = true
 

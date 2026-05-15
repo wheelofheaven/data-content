@@ -1,6 +1,6 @@
 +++
-title = "Bibel"
-description = "Bibel, eine Reihe alter religiöser Schriften, die bezeugen, was geschehen ist, damit die Menschheit Beweise hat, wenn die Wahrheit während der Apokalypse erneut offenbart wird."
+title = "Bible"
+description = "Bible — the canonical anthology of Jewish and Christian scriptures. In the Wheel of Heaven corpus the substantive entry lives at Hebrew Bible / Tanakh."
 template = "wiki-page.html"
 toc = true
 

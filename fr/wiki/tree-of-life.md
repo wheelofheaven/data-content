@@ -1,6 +1,6 @@
 +++
-title = "Arbre de la Vie"
-description = "Tree of Life, une métaphore biblique qui représente l'ensemble des connaissances scientifiques sur la façon de fournir les moyens technologiques pour atteindre la vie éternelle. Plus précisément pour allonger l'espérance de vie humaine jusqu'à 1'000 ans comme c'était le cas à l'ère du Lion."
+title = "Tree of Life"
+description = "The Tree of Life (Hebrew: עֵץ הַחַיִּים, ʿēṣ ha-ḥayyîm) is the figure introduced at Genesis 2:9 as one of the two named trees in the garden of Eden, alongside the Tree of the Knowledge of Good and Evil. The Tree of Life appears in the Genesis narrative as the source of extended life that, after the Eden disclosure, was barred from human access by the cherubim and the flaming sword. On the reading developed in the Raëlian source material and adopted by the Wheel of Heaven corpus, the Tree of Life is read as a specific historical biotechnology: the cellular-extension technique that the Elohim civilization developed to extend natural lifespan, granted on a limited basis to specific Eden-lineage patriarchal leaders during the antediluvian period (producing the recorded lifespans of 930 years for Adam, 969 for Methuselah, 950 for Noah) and operating in its mature form on the home world as the cloning-and-memory-transfer technology that produces the practical immortality of the Council of the Eternals."
 template = "wiki-page.html"
 toc = true
 

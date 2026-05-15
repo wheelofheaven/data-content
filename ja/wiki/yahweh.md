@@ -1,6 +1,6 @@
 +++
-title = "ヤハウェ"
-description = "最初と最後（アルファとオメガ）としても知られるヤハウェ（יהוה）はエロハ（אֱלוֹהַּ）であり、エロヒム（אֱלֹהִים）全体の主要な代表者です。彼はすでに複数の肉体に宿っているという意味で永遠であり（永遠に生きるためのエロヒミアンの手法）、したがって永遠の評議会の委員長としての役割を果たしています。聖書では、ヤハウェは神として特定され、また彼が代表する文明であるエロヒムとも互換的に同一視されています。ヤハウェはまた、ラエル以前のすべての預言者たちと同様に、ラエルが何度も出会ったエロハでもありました。"
+title = "Yahweh"
+description = "Yahweh (Hebrew: יהוה, YHWH) is the proper name of the principal divine figure of the Hebrew Bible, conventionally read by mainstream tradition as the singular God of Israel. On the reading developed in the Raëlian source material and adopted by the Wheel of Heaven corpus, Yahweh is a specific Eloha — the president of the Council of the Eternals, the senior alliance authority who personally directed the creation of life on Earth from the Age of Capricorn onward, and the principal alliance interlocutor with Earth's prophetic figures across the subsequent fifteen millennia. The corpus's primary source material is Yahweh's first-person account of his civilization, given to Claude Vorilhon (Raël) over six mornings in 1973."
 template = "wiki-page.html"
 toc = true
 

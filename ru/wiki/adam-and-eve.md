@@ -1,6 +1,6 @@
 +++
-title = "Адам и Ева"
-description = "Адам и Ева, две ключевые личности первых прототипов человека, которые были успешно созданы. Они были частью особого сообщества, изначально принадлежавшего к человеческому роду, который жил во времена Эдемского сада в Эдеме. В союзе с изгнанными создателями, мятежной элогимианской фракцией, известной как Змей, адамиты породили гибридное потомство. Эти потомки ассимилировались в сообщество адамитов, таким образом слившись в единую отдельную группу гибридных и негибридных адамитов."
+title = "Adam and Eve"
+description = "Adam (Hebrew: אָדָם, ʾāḏām) and Eve (Hebrew: חַוָּה, ḥawwāh) are the first humans of the Hebrew Bible's Genesis narrative, formed by the Elohim in the garden of Eden, given the prohibition concerning the Tree of the Knowledge of Good and Evil, and expelled from the garden after eating from the tree. On the reading developed in the Raëlian source material and adopted by the Wheel of Heaven corpus, Adam and Eve are read as specific historical figures: the first synthesized humans of the Israel team's specific Eden installation, created through de novo biological synthesis during the late Age of Leo, educated in the Eden controlled environment, exposed to the dissenting Lucifer faction's disclosure of restricted scientific knowledge, expelled from the installation after the disclosure, and progenitors of the Eden-lineage human civilization. Both are currently resurrected on the Planet of the Eternals, awaiting the alliance's open return at the Aquarian-age embassy."
 template = "wiki-page.html"
 toc = true
 

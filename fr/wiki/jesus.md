@@ -1,6 +1,6 @@
 +++
-title = "Jésus"
-description = "Jésus-Christ, un prophète juif qui existait à la fin de la période du Second Temple et est le principal protagoniste des Évangiles. Il a été chargé de la mission de diffuser les écritures bibliques aussi loin que possible, afin que les écrits puissent servir de preuve pour toute l'humanité lorsque l'ère du Verseau, l'âge d'or, expliquerait finalement tout alors que nous commençons à répéter ce que le Elohim a commencé lui-même au début de la Genèse."
+title = "Jesus"
+description = "Jesus of Nazareth (Hebrew: יֵשׁוּעַ, Yeshuaʿ; Greek: Ἰησοῦς, Iēsoûs) is a first-century Jewish preacher and healer whose ministry, execution, and post-mortem appearances founded the Christian tradition. On the reading developed in the Raëlian source material and adopted by the Wheel of Heaven corpus, Jesus is read as a deliberate alliance project — a biological hybrid of a human mother and an Eloha father, conceived, prepared, and commissioned to inaugurate the Age of Pisces and to distribute the message of the Hebrew Bible to the wider world that the Hebrew lineage alone had failed to reach."
 template = "wiki-page.html"
 toc = true
 

@@ -1,6 +1,6 @@
 +++
-title = "Синтетическая геномика"
-description = "Синтетическая геномика — это отрасль генной инженерии, которая фокусируется на дизайне, сборке и синтезе полных геномов или больших сегментов геномов. Он включает в себя создание искусственных последовательностей ДНК, которые имитируют существующие природные геномы или отличаются от них. Синтетическая геномика направлена на создание генетического материала, такого как синтетические хромосомы или целые синтетические геномы, для изучения фундаментальных биологических процессов, понимания минимального набора генов, необходимого для жизни, и потенциального создания организмов с измененными или новыми характеристиками. Он включает в себя создание искусственного генетического материала для изучения генетической основы жизни и управления ею."
+title = "Synthetic genomics"
+description = "Synthetic genomics is the branch of life engineering concerned with the design, chemical synthesis, and assembly of complete genomes or large portions of genomes — the construction of an organism's entire hereditary material from designed sequence rather than from modification of existing biological templates. The field is the most ambitious wing of contemporary life engineering, operating at the scale of complete cellular life rather than at the sub-system scale of synthetic biology or the modify-existing scale of genetic engineering. On the Wheel of Heaven framework, synthetic genomics is the sub-discipline whose specific scale of operation — whole-organism construction from designed sequence — most directly matches the operational scale at which the Raëlian source material describes the Elohim's work."
 template = "wiki-page.html"
 toc = true
 

@@ -1,6 +1,6 @@
 +++
-title = "ラエリアンの無限のシンボル"
-description = "ラエリアンは、フランス人の創設者が1973年以降、異星文明の代表であるヤハウェと出会ったと主張し、スワスティカとダビデの星を組み合わせたシンボルを特徴とする新興宗教運動です。スワスティカとダビデの星は、それぞれ長い歴史を持つ2つの古代の象徴であり、無限の2つの核とされています。無限自体が現実の物理的な特性を最も正確に表現したものです。スワスティカは時間の無限性を象徴し、ダビデの星は空間の無限性を象徴しています。"
+title = "Raëlian Symbol of Infinity"
+description = "The Raëlian Symbol of Infinity is the principal iconographic emblem of the Raëlian movement and the Wheel of Heaven framework, presented to Raël by Yahweh at the December 13, 1973 contact at Puy-de-Lassolas as engraved on the alliance craft and on Yahweh's suit. The symbol comprises a Star of David (two intertwined triangles) representing the spatial dimension of infinity through the Hermetic 'as above, so below' principle, with a central swastika representing the temporal dimension of infinity through the cyclic-eternal principle. The source identifies the combined symbol as containing 'all the wisdom in the world,' with the symbol functioning as the iconographic correlate of the broader Infinity framework. In 1990, Raël proposed and the Elohim authorized a modification of the symbol for use in Western Raëlian movement branches, replacing the central swastika with a galaxy-shaped spiral. The modification responded to two specific concerns: facilitating the Israeli embassy negotiations and respecting the sensitivities of Holocaust victims. The original symbol with central swastika continues in use in Asian Raëlian movement branches, where the swastika operates without the Western political-historical complications."
 template = "wiki-page.html"
 toc = true
 

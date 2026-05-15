@@ -1,6 +1,6 @@
 +++
-title = "ヘブライ語"
-description = "ヘブライ語、特にヘブライ語の古代の前身であるヘブライ語は、エロヒミア文明の公式の話し言葉であることが明らかになりました。そのため、古代ヘブライ語の最も遠い起源は、地球人類起源ではなく、私たちの創造者であるエロヒムから直接受け継がれたものであり、彼らは人類がその誕生以来採用してきた古代バージョンのヘブライ語を話していました。現代ヘブライ語がエロヒミア語と同等であるとは考えられませんが、一方でセム語族はその遺産を保存していると理解できます。"
+title = "Hebrew"
+description = "Hebrew (Hebrew: עִבְרִית, ʿivrit) is a Semitic language, the principal language of the Hebrew Bible, and — after a period of approximately two millennia in which it survived primarily as a liturgical and scholarly language — the official language of the modern State of Israel. On the reading developed in the Raëlian source material and adopted by the Wheel of Heaven corpus, ancient Hebrew is the Earth-side reflection of the spoken language of the Elohim civilization, transmitted to the first humans at their creation and preserved, in evolved form, through the Semitic language family and most distinctively in the language of the Hebrews themselves."
 template = "wiki-page.html"
 toc = true
 

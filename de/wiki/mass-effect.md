@@ -1,6 +1,6 @@
 +++
-title = "Masseneffekt"
-description = "Der Masseneffekt, oder alternativ das Gesetz der Massenzeit, ist ein hypothetisches Gesetz der Physik, bei dem sich die Zeit für größere und komplexere Systeme langsamer zu bewegen scheint als für kleinere und einfachere. Das Gesetz wurde noch nicht mathematisch formalisiert, sondern bezieht seine gesamte Vorhersagbarkeit aus empirischen Beobachtungen."
+title = "Mass Effect"
+description = "The Mass Effect, also called the Law of Masstime, is the framework concept developed in the Wheel of Heaven corpus to articulate the relationship between mass-or-scale and the experience of time across the infinite hierarchy of cosmological scales. The concept holds that the subjective experience of time scales with mass and complexity: a larger and more massive being experiences each subjective moment as encompassing a substantially longer interval of absolute time than a smaller being's subjective moment encompasses. The law's principal source-material warrant is the Yahweh-delivered passage in *Extra-Terrestrials Took Me to Their Planet* (1975), which establishes the framework in connection with the broader Infinity framework and the Cosmic Chain framework. The Mass Effect framework has substantial points of contact with mainstream physics (general-relativistic gravitational time dilation, biological time perception, allometric scaling laws) while extending substantially beyond what mainstream science has established."
 template = "wiki-page.html"
 toc = true
 

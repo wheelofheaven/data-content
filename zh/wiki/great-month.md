@@ -1,6 +1,6 @@
 +++
-title = "大月"
-description = "大月，也称为占星年龄或世界年龄，一段大约 2'160 年的时间，岁差现象使黄道上的黄道带向西移动 30 度或十二分之一所需的时间。 360 度的整个圆周。 12 个伟大的月份相当于一个伟大的一年。"
+title = "Great Month"
+description = "The Great Month is the unit of time corresponding to one-twelfth of the precessional Great Year — the period required for the vernal equinox point to traverse 30° (one zodiacal sign) along the ecliptic at the precessional rate. On the modern astronomical reckoning, the Great Month is approximately 2,147.6 years (one-twelfth of the precessional cycle of 25,772 years). On the astrological-tradition reckoning, the Great Month is 2,160 years exactly (one-twelfth of the 25,920-year Great Year, with the convenient factorization 2⁶ × 3⁴ × 5). The Great Month is also called the **Astrological Age**, the **Precessional Month**, or the **World Age**, and constitutes the principal chronological unit on which the corpus's broader temporal framework depends. The Wheel of Heaven framework uses the Great Months (Age of Virgo, Age of Leo, Age of Cancer, Age of Gemini, Age of Taurus, Age of Aries, Age of Pisces, Age of Aquarius) as the structured temporal framework within which the principal events of the Elohim project and the broader prophetic record are dated."
 template = "wiki-page.html"
 toc = true
 

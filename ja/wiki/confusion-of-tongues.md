@@ -1,6 +1,6 @@
 +++
-title = "言語の混乱"
-description = "言語の混乱。地球上の技術進歩に対抗し、これらの努力を無害にするために、大洪水の後に宇宙飛行技術を構築していた時代のエロヒミア文明のその後の反応。計画された混乱は、もはや知識を理解できない部族の間で、世界中の知識伝達者を地理的に解散させることで構成されていました。"
+title = "Confusion of tongues"
+description = "Confusion of tongues — the post-flood dispersion-of-languages event narrated in Genesis 11. In the corpus the substantive entry consolidates this under Babel."
 template = "wiki-page.html"
 toc = true
 

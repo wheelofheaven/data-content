@@ -1,6 +1,6 @@
 +++
-title = "Efecto de masa"
-description = "El efecto de masa, o alternativamente, la ley del tiempo de masa, es una ley hipotética de la física en la que el tiempo parece moverse más lentamente para los sistemas más grandes y complejos que para los más pequeños y simples. La ley aún no se ha formalizado matemáticamente, pero deriva toda su capacidad predecible de observaciones empíricas."
+title = "Mass Effect"
+description = "The Mass Effect, also called the Law of Masstime, is the framework concept developed in the Wheel of Heaven corpus to articulate the relationship between mass-or-scale and the experience of time across the infinite hierarchy of cosmological scales. The concept holds that the subjective experience of time scales with mass and complexity: a larger and more massive being experiences each subjective moment as encompassing a substantially longer interval of absolute time than a smaller being's subjective moment encompasses. The law's principal source-material warrant is the Yahweh-delivered passage in *Extra-Terrestrials Took Me to Their Planet* (1975), which establishes the framework in connection with the broader Infinity framework and the Cosmic Chain framework. The Mass Effect framework has substantial points of contact with mainstream physics (general-relativistic gravitational time dilation, biological time perception, allometric scaling laws) while extending substantially beyond what mainstream science has established."
 template = "wiki-page.html"
 toc = true
 

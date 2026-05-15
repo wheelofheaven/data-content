@@ -1,6 +1,6 @@
 +++
-title = "Допотопный"
-description = "Допотопный период времени жизни на Земле, предшествовавший Великому потопу. В частности, допотопный период относится к состоянию мира, когда человеческая цивилизация достигла большого технического прогресса и произвела потомство с группой Элохимов, которые были изгнаны, чтобы остаться на Земле."
+title = "Antediluvian"
+description = "Antediluvian (Latin: ante, 'before' + diluvium, 'flood') refers to the period of human existence on Earth before the Great Flood narrated in Genesis 6–9 and in parallel traditions across the ancient world. On the reading developed in the Raëlian source material and adopted by the Wheel of Heaven corpus, this is the post-creation pre-Flood span — the late Age of Leo through the Age of Cancer (c. 11,375 – 6,690 BCE) — during which the seven human lineages produced by the Elohim creator teams developed substantial civilizations on a single supercontinent, with the Eden lineage advancing under continued Lucifer-faction tutelage to a level the home world ultimately judged a threat."
 template = "wiki-page.html"
 toc = true
 

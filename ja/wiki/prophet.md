@@ -1,6 +1,6 @@
 +++
-title = "預言者"
-description = "預言者は、地球上の生命を遺伝子操作した創造者文明であるエロヒムを代表してメッセンジャーおよび代表として機能する人間の大使です。歴史を通じて、多くの人が預言者として選ばれてきました。彼らはそれぞれ、新しい宗教運動を完全に刺激したか、少なくとも文書または口頭での伝統を残しました。どちらの場合でも、最終的には地球上のエロヒミアンの遺産の保存と形成に貢献します。"
+title = "Prophet"
+description = "A prophet (Greek: προφήτης, prophētēs; Hebrew: נָבִיא, navi) is a human figure who, in the religious traditions of the world, serves as a mediator between the divine and the human. On the reading developed in the Raëlian source material and adopted by the Wheel of Heaven corpus, prophets are operational interlocutors between the Elohim alliance and specific human populations — approximately forty figures across human history, distributed across the major cultures and historical periods, with the role concluding in its traditional religious form with Muhammad in the seventh century CE and resuming in transformed scientific form with Raël in the late twentieth century."
 template = "wiki-page.html"
 toc = true
 

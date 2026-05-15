@@ -1,6 +1,6 @@
 +++
-title = "摩西"
-description = "摩西，出埃及记时代的圣经族长。"
+title = "Moses"
+description = "Moses (Hebrew <span class=\"hebrew\">מֹשֶׁה</span> *Moshe*; Arabic *Mūsā*) is the foundational prophet, lawgiver, and deliverer of the Hebrew Bible, conventionally dated to the 13th century BCE during the late Bronze Age (late Age of Aries on the corpus's precessional reckoning). The Pentateuch (the first five books of the Hebrew Bible — Genesis, Exodus, Leviticus, Numbers, Deuteronomy) is largely a Moses biography, recording his Egyptian birth, his exposure and adoption by the Egyptian royal house, his flight to Midian after killing an Egyptian taskmaster, his commissioning at the burning bush on Mount Horeb, his leadership of the Israelite exodus from Egyptian slavery, the parting of the Red Sea, the Sinai theophany and the reception of the Decalogue and the broader Torah, the construction of the Tabernacle and the Ark of the Covenant, the 40-year wilderness wandering, and his death on Mount Nebo before the Israelite entry into Canaan. The Wheel of Heaven framework reads the Moses narrative as preserving an extraordinarily dense record of operational contact with the Elohim during the late Age of Aries — the most operationally specific sustained-contact relationship in the entire Hebrew Bible, with the burning bush event, the Sinai theophany, the 40-day fasts on the mountain, the Tabernacle and Ark specifications, the pillar of cloud and fire, and the broader 40-year wilderness leadership all constituting documented operational content."
 template = "wiki-page.html"
 toc = true
 

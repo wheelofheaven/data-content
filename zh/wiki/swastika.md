@@ -1,6 +1,6 @@
 +++
-title = "卐"
-description = "卍字是一种宗教和文化符号，至今仍为许多古代文化所展示。虽然它通常与幸福、好运和类似积极含义的概念联系在一起，但在雷利主义中，它被认为同时代表时间的循环性，以及时间的永恒连续性（无限）。"
+title = "Swastika"
+description = "The swastika is one of the oldest religious-iconographic symbols globally, with archaeological evidence of usage extending back at least 12,000 years to Paleolithic Europe. The symbol consists of a cross with arms bent at right angles, typically in either the right-facing (clockwise) or left-facing (counter-clockwise) orientation, with substantial geometric variations across cultural traditions. The symbol exhibits substantial cross-cultural distribution: it is one of the principal auspicious symbols in Hindu tradition (where the Sanskrit etymology *svastika* means 'well-being' or 'good fortune'), appears in nearly all Buddhist temples globally, is one of the eight auspicious symbols (*ashtamangala*) in Jain tradition, and has substantial pre-Nazi usage across European, Mesopotamian, Mediterranean, Native American, and various other cultural traditions. Within the Wheel of Heaven framework, the swastika operates as the central element of the original Raëlian Symbol of Infinity (the form delivered by Yahweh at the December 13, 1973 contact and continuing in operational use in Asian Raëlian movement branches), representing the temporal dimension of infinity through the cyclic-eternal principle. The Nazi appropriation of the symbol (1920-1945) produced substantial post-1945 cultural-political complications that have substantially shaped the symbol's contemporary Western reception."
 template = "wiki-page.html"
 toc = true
 

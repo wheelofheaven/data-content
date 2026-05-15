@@ -1,6 +1,6 @@
 +++
-title = "永恒议会"
-description = "永恒者议会，也称为永恒者大议会，是承认埃洛希米亚文明的管理机构。它由 700 名成员组成，他们都永远生活在一个与其母星不同的专用星球上。这个管理机构在多种宗教中都被提及，特别是在圣经经文中，并且已经并且仍然在干预地球事务。"
+title = "Council of the Eternals"
+description = "The Council of the Eternals is the principal governing body of the Elohim civilization — a 700-member political authority composed of the senior eternals, individuals who have undergone the cloning-and-memory-transfer technology that produces practical immortality on the home world. The Council sits on the second smaller planet of the alliance home system (the Planet of the Eternals) where its members reside alongside approximately 8,400 resurrected humans. The Council has been continuously presided over by Yahweh across approximately 25,000 years and has been the executive authority for the entire Earth project from its inauguration in the Age of Capricorn through the present Aquarian-age preparation for the open return."
 template = "wiki-page.html"
 toc = true
 

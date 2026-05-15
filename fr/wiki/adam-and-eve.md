@@ -1,6 +1,6 @@
 +++
-title = "Adam et Ève"
-description = "Adam et Eve, deux individus clés des premiers prototypes humains qui ont été conçus avec succès. Ils faisaient partie d'une communauté distincte à l'origine du genre humain qui vivait à l'époque du Jardin d'Eden en Eden. En concubine avec des créateurs exilés, une faction rebelle Elohimienne connue sous le nom de Serpent, les Adamites ont donné naissance à une progéniture hybride. Ces descendants se sont assimilés à la communauté Adamite, fusionnant ainsi en un groupe distinct singulier d'Adamites hybrides et non hybrides."
+title = "Adam and Eve"
+description = "Adam (Hebrew: אָדָם, ʾāḏām) and Eve (Hebrew: חַוָּה, ḥawwāh) are the first humans of the Hebrew Bible's Genesis narrative, formed by the Elohim in the garden of Eden, given the prohibition concerning the Tree of the Knowledge of Good and Evil, and expelled from the garden after eating from the tree. On the reading developed in the Raëlian source material and adopted by the Wheel of Heaven corpus, Adam and Eve are read as specific historical figures: the first synthesized humans of the Israel team's specific Eden installation, created through de novo biological synthesis during the late Age of Leo, educated in the Eden controlled environment, exposed to the dissenting Lucifer faction's disclosure of restricted scientific knowledge, expelled from the installation after the disclosure, and progenitors of the Eden-lineage human civilization. Both are currently resurrected on the Planet of the Eternals, awaiting the alliance's open return at the Aquarian-age embassy."
 template = "wiki-page.html"
 toc = true
 

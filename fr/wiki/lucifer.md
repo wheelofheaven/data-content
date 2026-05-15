@@ -1,6 +1,6 @@
 +++
 title = "Lucifer"
-description = "Lucifer (latin pour Light-Bringer, ou hêlēl, hébreu : הֵילֵל, qui signifie la même chose), à ne pas confondre avec Satan, est un Eloha (אֱלוֹהַּ) et le représentant d'une faction au sein des Elohim (אֱלֹהִים) qui soutient une civilisation humaine sur Terre. Ce n'est pas un nom propre, mais un terme métaphorique pour le rôle d'apporter de la lumière. Le nom Lucifer et son homologue sémitique hêlēl font tous deux référence à l'étoile du matin, Vénus, qui se lève avant le soleil au lever du soleil"
+description = "Lucifer (Latin: lūcifer, 'light-bringer'; Hebrew: הֵילֵל בֶּן־שַׁחַר, Helel ben Shahar, 'Day Star, son of the Dawn') is the figure named in Christian theological tradition as the leader of the angels who fell from heaven, conventionally identified with Satan and with the Eden Serpent. On the reading developed in the Raëlian source material and adopted by the Wheel of Heaven corpus, Lucifer is read as a specific historical figure: the leader of a dissenting faction within the Israel team of Elohim creators, exiled to Earth after the Eden disclosure, and the principal teacher of the antediluvian human civilization across the long centuries between the expulsion and the Flood."
 template = "wiki-page.html"
 toc = true
 

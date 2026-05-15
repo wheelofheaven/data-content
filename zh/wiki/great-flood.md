@@ -1,6 +1,6 @@
 +++
-title = "大洪水"
-description = "大洪水，也称为大洪水，是由预防性军事措施引起的灾难性事件，该措施是由耶洛因遥远的家乡星球上陷入困境的政府故意发起的，他们希望结束地球上独立的科学进步。"
+title = "Great Flood"
+description = "The Great Flood (Hebrew: הַמַּבּוּל, ha-mabbul) is the catastrophic global event recorded in Genesis 6–9 and across more than two hundred parallel cultural traditions, in which the broader pre-Flood human civilization was destroyed and a small remnant preserved through Noah's ark. On the reading developed in the Raëlian source material and adopted by the Wheel of Heaven corpus, the Great Flood is read as a specific historical event of the Age of Gemini (c. 6,690 BCE on the corpus's reckoning): a deliberate military strike conducted by the home-world Council of the Elohim civilization against the antediluvian Eden civilization that had developed under the exiled Lucifer faction's continuing teaching, with the destruction effected through nuclear weapons impacts that produced both the immediate catastrophic effects and the longer-term continental fragmentation of the antediluvian Pangaean supercontinent."
 template = "wiki-page.html"
 toc = true
 

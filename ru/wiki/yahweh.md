@@ -1,6 +1,6 @@
 +++
-title = "Яхве"
-description = "Яхве (יהוה), также известный как Первый и Последний (Альфа и Омега), является Элоха (אֱלוֹהַּ) и главным представителем Элохим (אֱלֹהִים) в целом. Он Вечный в том смысле, что он уже обитал в нескольких телах (элохимианская техника вечной жизни) и, следовательно, является членом Совета Вечных, выступающим в качестве их главы Совета. В библейских писаниях Яхве определяется как Божество, а также взаимозаменяемо приравнивается к цивилизации, которую он представляет, к Элохимам. Яхве также был Элохой, которого Раэль встречал неоднократно, как и все пророки, которые были до него."
+title = "Yahweh"
+description = "Yahweh (Hebrew: יהוה, YHWH) is the proper name of the principal divine figure of the Hebrew Bible, conventionally read by mainstream tradition as the singular God of Israel. On the reading developed in the Raëlian source material and adopted by the Wheel of Heaven corpus, Yahweh is a specific Eloha — the president of the Council of the Eternals, the senior alliance authority who personally directed the creation of life on Earth from the Age of Capricorn onward, and the principal alliance interlocutor with Earth's prophetic figures across the subsequent fifteen millennia. The corpus's primary source material is Yahweh's first-person account of his civilization, given to Claude Vorilhon (Raël) over six mornings in 1973."
 template = "wiki-page.html"
 toc = true
 

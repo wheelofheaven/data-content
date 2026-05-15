@@ -1,6 +1,6 @@
 +++
-title = "Life Engineering"
-description = "Unter Life Engineering versteht man die Anwendung wissenschaftlicher und technologischer Ansätze zur gezielten Gestaltung und Konstruktion künstlicher lebender Organismen oder biologischer Systeme mit neuartigen Funktionen, Eigenschaften oder Fähigkeiten. Dabei handelt es sich um die bewusste Manipulation von genetischem Material und den Zusammenbau biologischer Komponenten, um die Entstehung völlig neuer Lebensformen herbeizuführen, die es in der Natur nicht gibt."
+title = "Life engineering"
+description = "Life engineering is the application of scientific and engineering methods to the deliberate design and construction of living organisms or biological systems with novel functions, characteristics, or capabilities. It encompasses several adjacent disciplines — genetic engineering, synthetic biology, synthetic genomics, and xenobiology — that share the common project of treating living matter as something that can be designed at the molecular level rather than only observed and described. On the Wheel of Heaven framework, the emergence of this capability in present-day humanity is the framework's most concrete predicted convergence with the source material's account of the Elohim's work."
 template = "wiki-page.html"
 toc = true
 

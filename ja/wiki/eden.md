@@ -1,6 +1,6 @@
 +++
-title = "エデン"
-description = "エデンは、古代パンゲア超大陸の特定の地域で、エロヒミアの 7 つの創造者チームのうちの 1 つが非常に才能があり、地球上に楽園を創造したと考えられています。エデンの園とは、エデン地域のエロヒミアの研究者によって運営されている閉鎖された研究サイトを指します。"
+title = "Eden"
+description = "Eden (Hebrew: עֵדֶן, ʿĒden) is the region named in the Hebrew Bible as the location of the garden in which the first humans were created and lived before their expulsion. On the reading developed in the Raëlian source material and adopted by the Wheel of Heaven corpus, Eden is the operational territory of the Israel team of Elohim creators on the antediluvian supercontinent — the team whose biological synthesis work produced the most accomplished human lineage of the seven regional creator teams — with the Garden of Eden (gan-ʿĒden) being the enclosed laboratory and habitation site within that territory."
 template = "wiki-page.html"
 toc = true
 

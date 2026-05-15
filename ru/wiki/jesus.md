@@ -1,6 +1,6 @@
 +++
-title = "Иисус"
-description = "Иисус Христос, еврейский пророк, который существовал в конце периода Второго Храма и является главным героем Евангелий. Перед ним была поставлена задача распространить библейские писания как можно дальше и шире, чтобы писания могли служить доказательством для всего человечества, когда Эпоха Водолея, Золотой Век, в конце концов, объяснит все, когда мы начнем повторять то, что Элохим действительно начал себя в начале Бытия."
+title = "Jesus"
+description = "Jesus of Nazareth (Hebrew: יֵשׁוּעַ, Yeshuaʿ; Greek: Ἰησοῦς, Iēsoûs) is a first-century Jewish preacher and healer whose ministry, execution, and post-mortem appearances founded the Christian tradition. On the reading developed in the Raëlian source material and adopted by the Wheel of Heaven corpus, Jesus is read as a deliberate alliance project — a biological hybrid of a human mother and an Eloha father, conceived, prepared, and commissioned to inaugurate the Age of Pisces and to distribute the message of the Hebrew Bible to the wider world that the Hebrew lineage alone had failed to reach."
 template = "wiki-page.html"
 toc = true
 

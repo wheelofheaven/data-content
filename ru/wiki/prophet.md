@@ -1,6 +1,6 @@
 +++
-title = "Пророк"
-description = "Пророк, человеческий посол, который служит посланником и представителем от имени Элохимов, цивилизации-создателя, создавшей жизнь на Земле с помощью генной инженерии. На протяжении всей истории многие люди были избраны служить пророками. Каждый из них либо вообще вдохновил новое религиозное движение, либо, по крайней мере, оставил письменную или устную традицию. В любом случае, в конечном итоге способствуя сохранению и формированию элогимианского наследия на Земле."
+title = "Prophet"
+description = "A prophet (Greek: προφήτης, prophētēs; Hebrew: נָבִיא, navi) is a human figure who, in the religious traditions of the world, serves as a mediator between the divine and the human. On the reading developed in the Raëlian source material and adopted by the Wheel of Heaven corpus, prophets are operational interlocutors between the Elohim alliance and specific human populations — approximately forty figures across human history, distributed across the major cultures and historical periods, with the role concluding in its traditional religious form with Muhammad in the seventh century CE and resuming in transformed scientific form with Raël in the late twentieth century."
 template = "wiki-page.html"
 toc = true
 

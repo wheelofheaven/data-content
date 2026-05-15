@@ -1,6 +1,6 @@
 +++
-title = "Schlange"
-description = "Schlange, ein metaphorischer Hinweis auf eine widerspenstige Fraktion unter den Elohim (אֱלֹהִים). Nachdem die ersten Menschen auf der Erde synthetisch hergestellt wurden, hielt es ein Teil der technischen Elohim für wichtig, diese neuen menschlichen Geschöpfe gleichermaßen zu erziehen. Die Ausbildung wurde den ersten Menschen gegeben, und die dafür verantwortlichen Elohim, bekannt als die Schlange, wurden wegen ihres Vergehens verurteilt und verbannt, um auf der Erde zu bleiben. Einer der Hauptakteure dieser Fraktion ist als Luzifer, der Lichtbringer, bekannt."
+title = "Serpent"
+description = "The Serpent (Hebrew: נָחָשׁ, naḥash) is the figure in Genesis 3 who urges the first humans to eat from the Tree of the Knowledge of Good and Evil and is subsequently cursed and exiled. On the reading developed in the Raëlian source material and adopted by the Wheel of Heaven corpus, the Serpent is read not as a symbol but as a specific historical referent: a faction within the Israel team of Elohim creators — led by the figure later named Lucifer — who disagreed with the home world's restriction on the humans' education and provided them with access to the scientific knowledge that had been withheld."
 template = "wiki-page.html"
 toc = true
 

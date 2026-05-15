@@ -1,6 +1,6 @@
 +++
-title = "生命工学"
-description = "ライフエンジニアリングとは、科学的および技術的アプローチを適用して、新しい機能、特性、または能力を備えた人工生命体または生物学的システムを意図的に設計および構築することを指します。これには、自然界に存在しないまったく新しい生命体の出現をもたらす、遺伝物質の意図的な操作と生物学的構成要素の集合が含まれます。"
+title = "Life engineering"
+description = "Life engineering is the application of scientific and engineering methods to the deliberate design and construction of living organisms or biological systems with novel functions, characteristics, or capabilities. It encompasses several adjacent disciplines — genetic engineering, synthetic biology, synthetic genomics, and xenobiology — that share the common project of treating living matter as something that can be designed at the molecular level rather than only observed and described. On the Wheel of Heaven framework, the emergence of this capability in present-day humanity is the framework's most concrete predicted convergence with the source material's account of the Elohim's work."
 template = "wiki-page.html"
 toc = true
 

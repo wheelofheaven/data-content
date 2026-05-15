@@ -1,6 +1,6 @@
 +++
-title = "預言者と宗教のリスト"
-description = "預言者と宗教のリスト。すべてではありませんが、多くの宗教は、エロヒム (אֱלֹהִים) と地球上の人間との間の本物の交流の確立された証拠であると考えられています。これらの相互作用は、エロヒミアの行為を証言する宗教的文書や口頭伝承につながります。このリストは、著名な宗教的伝統の大部分と、そのような伝統につながる預言者の大部分を網羅的にカタログ化するものです。"
+title = "List of prophets and religions"
+description = "A reference catalogue of the world's principal religious traditions and the prophets, founders, and visionaries associated with them, with an indication of how each tradition is positioned within the Wheel of Heaven framework's reading of religious history. The corpus reads a substantial majority of established religious traditions as preserving, in varying states of clarity and corruption, authentic testimonies of contact between the Elohim and human populations. The catalogue below presents the principal traditions, classifies each by the framework's approximated authenticity tier, and supplies the cross-references needed to locate the dedicated treatment of each."
 template = "wiki-page.html"
 toc = true
 

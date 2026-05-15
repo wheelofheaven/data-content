@@ -1,6 +1,6 @@
 +++
-title = "蛇"
-description = "蛇，隐喻耶洛因 (אֱלֹהִם) 中不守规矩的派系。在地球上第一批人类被合成工程之后，耶洛因工程的一个子集认为有必要平等地教育这些新的人类生物。这种教育是给予第一批人类的，而负责教育的耶洛因（被称为“蛇”）因非法侵入而被定罪并被流放，留在地球上。该派系的主角之一被称为光明使者路西法。"
+title = "Serpent"
+description = "The Serpent (Hebrew: נָחָשׁ, naḥash) is the figure in Genesis 3 who urges the first humans to eat from the Tree of the Knowledge of Good and Evil and is subsequently cursed and exiled. On the reading developed in the Raëlian source material and adopted by the Wheel of Heaven corpus, the Serpent is read not as a symbol but as a specific historical referent: a faction within the Israel team of Elohim creators — led by the figure later named Lucifer — who disagreed with the home world's restriction on the humans' education and provided them with access to the scientific knowledge that had been withheld."
 template = "wiki-page.html"
 toc = true
 

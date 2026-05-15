@@ -1,6 +1,6 @@
 +++
-title = "利维坦"
-description = "利维坦，隐喻被流放的埃洛希米亚派系，也被称为蛇，他们必须隐藏在海底以保护自己免受对手的伤害。"
+title = "Leviathan"
+description = "Leviathan — the Hebrew Bible's primordial sea-serpent. In the corpus, one of several names for the figure the Wheel of Heaven entry treats under Serpent."
 template = "wiki-page.html"
 toc = true
 

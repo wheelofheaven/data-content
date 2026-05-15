@@ -1,6 +1,6 @@
 +++
-title = "路西法"
-description = "路西法（拉丁语为光明使者，或hêlēl，希伯来语：הֵלֵל，意思相同），不要与撒旦混淆，他是一个伊罗哈（אֱלוֹהַּ），也是耶洛因（אֱלֹהִם）中一个支持蓬勃发展的派系的代表。地球上的人类文明。它不是一个专有名词，而是一个隐喻术语，用来形容带来光明的作用。路西法（Lucifer）这个名字和它的闪米特对应词 hêlēl 都指晨星金星，它在日出时在太阳之前升起"
+title = "Lucifer"
+description = "Lucifer (Latin: lūcifer, 'light-bringer'; Hebrew: הֵילֵל בֶּן־שַׁחַר, Helel ben Shahar, 'Day Star, son of the Dawn') is the figure named in Christian theological tradition as the leader of the angels who fell from heaven, conventionally identified with Satan and with the Eden Serpent. On the reading developed in the Raëlian source material and adopted by the Wheel of Heaven corpus, Lucifer is read as a specific historical figure: the leader of a dissenting faction within the Israel team of Elohim creators, exiled to Earth after the Eden disclosure, and the principal teacher of the antediluvian human civilization across the long centuries between the expulsion and the Flood."
 template = "wiki-page.html"
 toc = true
 

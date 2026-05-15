@@ -1,6 +1,6 @@
 +++
-title = "耶和华"
-description = "雅威（Yahweh），也被称为最初的和最后的（阿拉法和欧米伽），是一个伊罗哈（אֱלוֹהַּ），也是整个伊罗兴（אֱלֹהִם）的主要代表。他是一个永恒者，因为他已经居住在多个身体中（一种埃洛希米亚的永生技术），因此他是永恒者委员会的成员，担任他们的委员会主席。在圣经经文中，耶和华被认为是神，也可以与他所代表的文明埃洛希姆互换使用。耶和华也是雷尔多次见到的伊罗哈，就像他之前的所有先知一样。"
+title = "Yahweh"
+description = "Yahweh (Hebrew: יהוה, YHWH) is the proper name of the principal divine figure of the Hebrew Bible, conventionally read by mainstream tradition as the singular God of Israel. On the reading developed in the Raëlian source material and adopted by the Wheel of Heaven corpus, Yahweh is a specific Eloha — the president of the Council of the Eternals, the senior alliance authority who personally directed the creation of life on Earth from the Age of Capricorn onward, and the principal alliance interlocutor with Earth's prophetic figures across the subsequent fifteen millennia. The corpus's primary source material is Yahweh's first-person account of his civilization, given to Claude Vorilhon (Raël) over six mornings in 1973."
 template = "wiki-page.html"
 toc = true
 

@@ -1,6 +1,6 @@
 +++
-title = "マス効果"
-description = "質量効果、または質量時間の法則は、より小さくて単純なシステムよりも、より大きく複雑なシステムの方が時間の進み方が遅く見えるという仮説的な物理法則です。この法則はまだ数学的に形式化されていませんが、その予測可能な能力はすべて経験的な観察から得られます。"
+title = "Mass Effect"
+description = "The Mass Effect, also called the Law of Masstime, is the framework concept developed in the Wheel of Heaven corpus to articulate the relationship between mass-or-scale and the experience of time across the infinite hierarchy of cosmological scales. The concept holds that the subjective experience of time scales with mass and complexity: a larger and more massive being experiences each subjective moment as encompassing a substantially longer interval of absolute time than a smaller being's subjective moment encompasses. The law's principal source-material warrant is the Yahweh-delivered passage in *Extra-Terrestrials Took Me to Their Planet* (1975), which establishes the framework in connection with the broader Infinity framework and the Cosmic Chain framework. The Mass Effect framework has substantial points of contact with mainstream physics (general-relativistic gravitational time dilation, biological time perception, allometric scaling laws) while extending substantially beyond what mainstream science has established."
 template = "wiki-page.html"
 toc = true
 

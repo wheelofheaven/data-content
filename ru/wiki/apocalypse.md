@@ -1,6 +1,6 @@
 +++
-title = "Апокалипсис"
-description = "Апокалипсис, что по-гречески означает Откровение, относится к Эпохе Откровения, которая предшествует вступлению в Золотой Век. Откровение, открытое в дни Апокалипсиса, представляет собой косвенную истину, сохраненную религиозными писаниями, в частности Библией, а именно, что Боги древности — это люди с другой планеты, которых ошибочно принимают за сверхъестественных существ из-за их высокоразвитых технологических возможностей."
+title = "Apocalypse"
+description = "Apocalypse (Greek: ἀποκάλυψις, apokalypsis, 'uncovering, unveiling, revelation') is, in its plain Greek meaning, the disclosure of what has been concealed. On the reading developed in the Raëlian source material and adopted by the Wheel of Heaven corpus, the Apocalypse is the contemporary period — coextensive with the Age of Aquarius, opening at 1946 in the Raëlian source material's reckoning and at the precessional boundary of approximately 1950 in the corpus's astronomical chronology — during which the framework's content becomes available to humanity for direct evaluation, the religious vocabulary of the preceding two and a half millennia is replaced by accurate scientific account, and the cumulative work of the prophetic tradition reaches its culmination."
 template = "wiki-page.html"
 toc = true
 

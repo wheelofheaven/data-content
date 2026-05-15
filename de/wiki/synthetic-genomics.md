@@ -1,6 +1,6 @@
 +++
-title = "Synthetische Genomik"
-description = "Die synthetische Genomik ist ein Zweig der Gentechnik, der sich auf das Design, den Zusammenbau und die Synthese vollständiger Genome oder großer Genomabschnitte konzentriert. Dabei handelt es sich um die Erstellung künstlicher DNA-Sequenzen, die vorhandene natürliche Genome nachahmen oder sich von ihnen unterscheiden. Die synthetische Genomik zielt darauf ab, genetisches Material wie synthetische Chromosomen oder ganze synthetische Genome zu konstruieren, um grundlegende biologische Prozesse zu untersuchen, den minimalen Satz lebensnotwendiger Gene zu verstehen und möglicherweise Organismen mit veränderten oder neuartigen Eigenschaften zu schaffen. Dabei handelt es sich um die Konstruktion künstlichen genetischen Materials, um die genetischen Grundlagen des Lebens zu erforschen und zu manipulieren."
+title = "Synthetic genomics"
+description = "Synthetic genomics is the branch of life engineering concerned with the design, chemical synthesis, and assembly of complete genomes or large portions of genomes — the construction of an organism's entire hereditary material from designed sequence rather than from modification of existing biological templates. The field is the most ambitious wing of contemporary life engineering, operating at the scale of complete cellular life rather than at the sub-system scale of synthetic biology or the modify-existing scale of genetic engineering. On the Wheel of Heaven framework, synthetic genomics is the sub-discipline whose specific scale of operation — whole-organism construction from designed sequence — most directly matches the operational scale at which the Raëlian source material describes the Elohim's work."
 template = "wiki-page.html"
 toc = true
 

@@ -1,6 +1,6 @@
 +++
-title = "希伯来语"
-description = "希伯来语，特别是希伯来语的古代前身，被揭示为埃洛希米亚文明的官方口语。因此，古希伯来语的最远起源不是来自地球的人类来源，而是直接从我们的创造者伊洛因继承而来，因为他们说的是人类自诞生以来就采用的古代希伯来语版本。虽然现代希伯来语不能被认为与埃洛希米亚语等同，但另一方面，闪米特语系可以被理解为保留遗产。"
+title = "Hebrew"
+description = "Hebrew (Hebrew: עִבְרִית, ʿivrit) is a Semitic language, the principal language of the Hebrew Bible, and — after a period of approximately two millennia in which it survived primarily as a liturgical and scholarly language — the official language of the modern State of Israel. On the reading developed in the Raëlian source material and adopted by the Wheel of Heaven corpus, ancient Hebrew is the Earth-side reflection of the spoken language of the Elohim civilization, transmitted to the first humans at their creation and preserved, in evolved form, through the Semitic language family and most distinctively in the language of the Hebrews themselves."
 template = "wiki-page.html"
 toc = true
 

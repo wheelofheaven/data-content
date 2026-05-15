@@ -1,6 +1,6 @@
 +++
-title = "イエス"
-description = "イエス・キリストは、第二神殿時代の終わりに存在したユダヤ人の預言者であり、福音書の主人公です。彼は、聖書の経典を可能な限り広く広め、水瓶座の時代、黄金時代が最終的にすべてを説明し、私たちが聖書の経典を繰り返し始めたときに、その書物が全人類の証拠となるようにする使命を負っていました。エロヒムは創世記の初めに自らを始めました。"
+title = "Jesus"
+description = "Jesus of Nazareth (Hebrew: יֵשׁוּעַ, Yeshuaʿ; Greek: Ἰησοῦς, Iēsoûs) is a first-century Jewish preacher and healer whose ministry, execution, and post-mortem appearances founded the Christian tradition. On the reading developed in the Raëlian source material and adopted by the Wheel of Heaven corpus, Jesus is read as a deliberate alliance project — a biological hybrid of a human mother and an Eloha father, conceived, prepared, and commissioned to inaugurate the Age of Pisces and to distribute the message of the Hebrew Bible to the wider world that the Hebrew lineage alone had failed to reach."
 template = "wiki-page.html"
 toc = true
 

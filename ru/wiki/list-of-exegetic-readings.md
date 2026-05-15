@@ -1,6 +1,6 @@
 +++
-title = "Список экзегетических чтений"
-description = "Список экзегетических чтений. Благодаря исследованию предпосылок, выдвинутых «Колесом небес», существует ряд религиозных, мифологических или традиционных представлений, которые можно прочитать с помощью неоэвгемеристической экзегезы. Этот список будет каталогизировать большинство этих понятий."
+title = "List of exegetic readings"
+description = "A reference catalogue of the Wheel of Heaven framework's adopted neo-euhemeristic readings of religious, mythological, and traditional terms. The corpus's interpretive method translates each term's surface content into operational terms consistent with the source material's account of the Elohim's interaction with human populations across the Earth project. The catalogue organises these readings by category (cosmological terms, narrative episodes, persons and titles, sacred objects, symbols, eschatological terms, theological concepts) and attributes each reading to the specific point in the framework lineage where it originates — most commonly the Raëlian source material, Jean Sendy's foundational neo-euhemerist work, the broader corpus's interpretive synthesis, or the wider neo-euhemerist tradition descending from Euhemerus of Messene through the modern ancient-astronaut interpretive lineage."
 template = "wiki-page.html"
 toc = true
 

@@ -1,6 +1,6 @@
 +++
-title = "Менора"
-description = "Менора служит напоминанием о распределительном щите центральной базы Элохимитов в Древнем Леванте. Этот распределительный щит имел семь переключателей с подсветкой, которые, как считается, поддерживали связь с шестью дополнительными базами и межпланетным кораблем на орбите. Эта интерпретация предполагает, что семь ветвей Меноры метафорически означают семь элогимитских баз, основанных на Земле в ту эпоху."
+title = "Menorah"
+description = "The Menorah is the seven-branched golden lampstand specified in the Hebrew Bible (Exodus 25:31–40) as a principal furnishing of the Tabernacle and subsequently of the First and Second Temples of Jerusalem. It is among the oldest continuously preserved religious symbols in any tradition, surviving in Jewish use across approximately 3,200 years from the Mosaic period to the present and serving as the emblem of the State of Israel since 1949. In the Wheel of Heaven framework, the Menorah's seven-branched configuration is read as preserving the operational memory of seven Elohim bases established on Earth during the antediluvian and Mosaic periods — bases located on elevated terrain (Amos 4:13) and connected through a central communications installation that the source material describes as the original referent of the seven-branched lampstand design."
 template = "wiki-page.html"
 toc = true
 

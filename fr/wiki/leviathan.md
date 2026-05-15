@@ -1,6 +1,6 @@
 +++
-title = "Léviathan"
-description = "Léviathan, une référence métaphorique à la faction Elohimienne exilée, également connue sous le nom de Serpent, qui a dû se cacher sous les océans pour se protéger de ses adversaires."
+title = "Leviathan"
+description = "Leviathan — the Hebrew Bible's primordial sea-serpent. In the corpus, one of several names for the figure the Wheel of Heaven entry treats under Serpent."
 template = "wiki-page.html"
 toc = true
 

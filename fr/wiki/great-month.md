@@ -1,6 +1,6 @@
 +++
-title = "Grand Mois"
-description = "Grand Mois, également connu sous le nom d'âge astrologique ou âge du monde, une période de temps d'environ 2'160 ans, le temps qu'il faut aux phénomènes de précession pour déplacer la bande zodiacale sur l'écliptique vers l'ouest de 30 degrés, soit un douzième de la circonférence complète de 360 degrés. 12 Grands Mois équivalent à une Grande Année."
+title = "Great Month"
+description = "The Great Month is the unit of time corresponding to one-twelfth of the precessional Great Year — the period required for the vernal equinox point to traverse 30° (one zodiacal sign) along the ecliptic at the precessional rate. On the modern astronomical reckoning, the Great Month is approximately 2,147.6 years (one-twelfth of the precessional cycle of 25,772 years). On the astrological-tradition reckoning, the Great Month is 2,160 years exactly (one-twelfth of the 25,920-year Great Year, with the convenient factorization 2⁶ × 3⁴ × 5). The Great Month is also called the **Astrological Age**, the **Precessional Month**, or the **World Age**, and constitutes the principal chronological unit on which the corpus's broader temporal framework depends. The Wheel of Heaven framework uses the Great Months (Age of Virgo, Age of Leo, Age of Cancer, Age of Gemini, Age of Taurus, Age of Aries, Age of Pisces, Age of Aquarius) as the structured temporal framework within which the principal events of the Elohim project and the broader prophetic record are dated."
 template = "wiki-page.html"
 toc = true
 

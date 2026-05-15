@@ -1,6 +1,6 @@
 +++
-title = "蛇の反乱"
-description = "サーペンタインの反乱は、地球に追放されノアの生命維持を支援した追放された創造者で構成された派閥であり、アダマイトの混成グループも誕生しました。この派閥は、永遠評議会の議長であるヤハウェが率いる故郷の惑星の支配政府に対して反乱を起こしていました。大洪水の後、地球と周囲の宇宙の両方で武力衝突が発生しました。"
+title = "Serpentine Rebellion"
+description = "Earlier name for the faction's defiance of Yahweh — now treated under Theomachy as part of the same cosmic conflict."
 template = "wiki-page.html"
 
 [extra]

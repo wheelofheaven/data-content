@@ -1,6 +1,6 @@
 +++
-title = "Совет Вечных"
-description = "Совет Вечных, также Великий Совет Вечных, является руководящим органом элогимианской цивилизации. Он состоит из 700 членов, которые живут вечно на выделенной планете, отдельной от их родной планеты. Этот же самый руководящий орган упоминается во многих религиях, особенно в библейских писаниях, и до сих пор вмешивается в земные дела."
+title = "Council of the Eternals"
+description = "The Council of the Eternals is the principal governing body of the Elohim civilization — a 700-member political authority composed of the senior eternals, individuals who have undergone the cloning-and-memory-transfer technology that produces practical immortality on the home world. The Council sits on the second smaller planet of the alliance home system (the Planet of the Eternals) where its members reside alongside approximately 8,400 resurrected humans. The Council has been continuously presided over by Yahweh across approximately 25,000 years and has been the executive authority for the entire Earth project from its inauguration in the Age of Capricorn through the present Aquarian-age preparation for the open return."
 template = "wiki-page.html"
 toc = true
 

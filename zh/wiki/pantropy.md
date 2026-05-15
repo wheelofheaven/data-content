@@ -1,6 +1,6 @@
 +++
-title = "全性状"
-description = "Pantropy，是对人类物种进行基因改造和适应的概念，使其能够生活在另一个与该物种当前构成和生物能力敌对的星球上。耶洛因按照自己的形象对地球上的人类进行基因改造所建立的连续性可以被理解为泛变性的一个例子。"
+title = "Pantropy"
+description = "Pantropy is the hypothetical practice of modifying organisms — particularly humans — through genetic engineering or other biotechnological intervention so that they can survive and reproduce in environments otherwise inhospitable to them. The term was coined by the American science fiction writer **James Blish** in the sequence of stories collected as *The Seedling Stars* (1957), where it was developed as the complement and alternative to **terraforming** (modifying environments to fit organisms): pantropy modifies organisms to fit environments. In contemporary scientific discussion, pantropy has shifted from purely speculative status toward serious engineering consideration, with substantive 21st-century research on the genetic-engineering modifications that would be required for human survival in deep-space, lunar, Martian, and broader exoplanetary environments. The Wheel of Heaven framework reads humanity itself as the product of a pantropic engineering operation conducted by the Elohim — humans designed and constructed in the Elohim's own biological image but adapted for Earth's specific gravitational, atmospheric, hydrological, and radiation conditions, with the Genesis 1:26–27 \"in our image, after our likeness\" formulation preserving operational content about this pantropic origin."
 template = "wiki-page.html"
 toc = true
 

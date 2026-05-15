@@ -1,6 +1,6 @@
 +++
-title = "Rébellion serpentine"
-description = "La rébellion serpentine, la faction composée de créateurs exilés, qui avaient été bannis sur Terre et avait aidé Noé à préserver la vie, a également donné naissance à un groupe hybride d'Adamites. Cette faction était en rébellion contre le gouvernement au pouvoir sur leur planète natale, dirigée par le président du Conseil des Éternels, Yahweh. Après le Déluge, une confrontation armée s'est produite à la fois sur Terre et dans l'espace environnant."
+title = "Serpentine Rebellion"
+description = "Earlier name for the faction's defiance of Yahweh — now treated under Theomachy as part of the same cosmic conflict."
 template = "wiki-page.html"
 
 [extra]

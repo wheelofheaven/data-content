@@ -1,6 +1,6 @@
 +++
-title = "无限"
-description = "无限，一种最高阶的科学见解，因为它假定时间和空间的永恒范围。没有中心，因为没有开始也没有结束。世界各地和各个时代都广为人知的两个古老符号证明了耶洛因赋予我们的古老智慧，即卍字代表时间和永恒的循环性质，而红大卫又代表上在下，意味着道路空间扩展到更大的宏观层次与微观层次内的空间折叠到的方式相同。"
+title = "Infinity"
+description = "Infinity is the foundational cosmological framework within which the Wheel of Heaven corpus's broader cosmological and ethical content operates. The framework holds that the cosmos is infinite along three mutually reinforcing dimensions: infinite in spatial extent (no boundary, no edge, no center), infinite in temporal extent (no beginning, no end), and infinite in hierarchical scale (no smallest scale, no largest scale). The framework's principal source-material warrant is the Yahweh-delivered passages in *The Book Which Tells the Truth* (1974) and *Extra-Terrestrials Took Me to Their Planet* (1975), with substantial corpus development through the Outro section II of *timeline.epub*. The Infinity framework operates as the broader cosmological precondition within which the Fractal Cosmology framework operates as the spatial dimension, the Mass Effect framework operates as the temporal dimension, and the Four Levels framework operates as the ethical-practical correlate."
 template = "wiki-page.html"
 toc = true
 

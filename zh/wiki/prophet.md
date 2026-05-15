@@ -1,6 +1,6 @@
 +++
-title = "先知"
-description = "先知，一位人类大使，作为耶洛因（Elohim）的使者和代表，耶洛因是在地球上基因改造生命的造物主文明。纵观历史，许多人被选为先知。他们每个人要么完全激发了一场新的宗教运动，要么至少留下了书面或口头传统。无论哪种情况，最终都会为地球上埃洛希米亚遗产的保存和塑造做出贡献。"
+title = "Prophet"
+description = "A prophet (Greek: προφήτης, prophētēs; Hebrew: נָבִיא, navi) is a human figure who, in the religious traditions of the world, serves as a mediator between the divine and the human. On the reading developed in the Raëlian source material and adopted by the Wheel of Heaven corpus, prophets are operational interlocutors between the Elohim alliance and specific human populations — approximately forty figures across human history, distributed across the major cultures and historical periods, with the role concluding in its traditional religious form with Muhammad in the seventh century CE and resuming in transformed scientific form with Raël in the late twentieth century."
 template = "wiki-page.html"
 toc = true
 

@@ -1,6 +1,6 @@
 +++
-title = "リヴァイアサン"
-description = "リヴァイアサンは、敵から身を守るために海の中に隠れなければならなかった、蛇としても知られる追放されたエロヒミアの派閥への比喩的な言及です。"
+title = "Leviathan"
+description = "Leviathan — the Hebrew Bible's primordial sea-serpent. In the corpus, one of several names for the figure the Wheel of Heaven entry treats under Serpent."
 template = "wiki-page.html"
 toc = true
 

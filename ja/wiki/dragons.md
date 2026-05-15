@@ -1,6 +1,6 @@
 +++
-title = "ドラゴン"
-description = "ドラゴンは、もともとエロヒミアの故郷の惑星で設計された生物生命体の絶滅したクラスであり、特に恐ろしく怪物的な特徴を持っています。事故の重大さの結果として、研究と工学は、近くにある系外惑星である地球に移され、その表面で生命が動き始めました。これらのドラゴンは、古生物学を通じて恐竜として私たちに知られています。"
+title = "Dragons"
+description = "Dragons are a category of large reptilian or serpentine creatures that the Wheel of Heaven framework identifies as deliberately created biological organisms produced by specific factional teams within the Elohim creation program during the Age of Virgo (c. 13,170 to 11,010 BCE), corresponding to the fifth day of the Genesis 1 creation account. The framework identifies these creatures with the dinosaurs of mainstream paleontology, with the Hebrew word תַּנִּין (*tannin*) of Genesis 1:21 — translated as 'whales' or 'great sea creatures' in most major Bible translations but unambiguously meaning 'dragon' or 'sea-monster' in the Hebrew lexicon — providing the principal source-textual anchor. The framework's specific reading registers four converging claims: the Hebrew text of Genesis 1:21 explicitly describes the Elohim's creation of dragons with the strongest creation verb (*bara*); the Raëlian source places dragons and birds together in the same creative age; modern phylogenetics establishes that birds are the surviving theropod lineage of the dinosaur clade; and universal dragon memory across human cultures preserves cultural memory of creatures actually encountered before the Gemini-age flood eliminated most of the larger forms."
 template = "wiki-page.html"
 toc = true
 

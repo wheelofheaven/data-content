@@ -1,6 +1,6 @@
 +++
-title = "Tour de Babel"
-description = "Tour de Babel ( hébreu : מִגְדַּל בָּבֶל, Mīgdal Bāḇel ), pendant les premiers jours après le Grand Déluge , un vaisseau spatial interstellaire (peut-être de forme allongée comme une fusée) qui a été construit dans un effort de collaboration entre le peuple d'Israël et l'exilé Elohimian créateurs. Le but du vaisseau spatial était d'améliorer les relations diplomatiques avec la planète d'origine Elohimienne qui était hostile à la préservation de la vie sur Terre en assurant l'aménité de ses habitants."
+title = "Tower of Babel"
+description = "Tower of Babel (Hebrew Mīgdal Bāḇel) — the post-flood collaborative spacecraft project narrated in Genesis 11. The corpus entry treats it under Babel."
 template = "wiki-page.html"
 toc = true
 

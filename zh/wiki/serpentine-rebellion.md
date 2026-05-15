@@ -1,6 +1,6 @@
 +++
-title = "蛇的叛乱"
-description = "蛇形叛乱是由被放逐到地球并协助诺亚保存生命的被流放的造物主组成的派系，也产生了亚当派的混合群体。这个派系在他们的家乡反抗由永恒委员会主席耶和华领导的执政政府。大洪水之后，地球和周边太空都发生了武装对抗。"
+title = "Serpentine Rebellion"
+description = "Earlier name for the faction's defiance of Yahweh — now treated under Theomachy as part of the same cosmic conflict."
 template = "wiki-page.html"
 
 [extra]

@@ -1,6 +1,6 @@
 +++
-title = "无限的拉埃利安符号"
-description = "拉埃利安教，一种新的宗教运动，起源于一个法国人声称曾与外星文明的代表耶和华相遇。它采用了一个符号，将卐字与大卫之星交织在一起，这两个古老的符号都有着悠久的历史背景，并被认为代表了无限的两个核心方面。无限本身是对现实物理性质最准确的描述。这两个核心方面分别是被卐字象征的时间无限和被大卫之星象征的空间无限。"
+title = "Raëlian Symbol of Infinity"
+description = "The Raëlian Symbol of Infinity is the principal iconographic emblem of the Raëlian movement and the Wheel of Heaven framework, presented to Raël by Yahweh at the December 13, 1973 contact at Puy-de-Lassolas as engraved on the alliance craft and on Yahweh's suit. The symbol comprises a Star of David (two intertwined triangles) representing the spatial dimension of infinity through the Hermetic 'as above, so below' principle, with a central swastika representing the temporal dimension of infinity through the cyclic-eternal principle. The source identifies the combined symbol as containing 'all the wisdom in the world,' with the symbol functioning as the iconographic correlate of the broader Infinity framework. In 1990, Raël proposed and the Elohim authorized a modification of the symbol for use in Western Raëlian movement branches, replacing the central swastika with a galaxy-shaped spiral. The modification responded to two specific concerns: facilitating the Israeli embassy negotiations and respecting the sensitivities of Holocaust victims. The original symbol with central swastika continues in use in Asian Raëlian movement branches, where the swastika operates without the Western political-historical complications."
 template = "wiki-page.html"
 toc = true
 

@@ -1,6 +1,6 @@
 +++
-title = "解釈学的読みリスト"
-description = "釈義的な読み方のリスト。 Wheel of Heaven によって提唱された前提を探求することによって、新エユメリズム的な解釈で読み取ることができる宗教的、神話的、または伝統的な概念が数多く存在します。このリストは、これらの概念の大部分をカタログ化するものです。"
+title = "List of exegetic readings"
+description = "A reference catalogue of the Wheel of Heaven framework's adopted neo-euhemeristic readings of religious, mythological, and traditional terms. The corpus's interpretive method translates each term's surface content into operational terms consistent with the source material's account of the Elohim's interaction with human populations across the Earth project. The catalogue organises these readings by category (cosmological terms, narrative episodes, persons and titles, sacred objects, symbols, eschatological terms, theological concepts) and attributes each reading to the specific point in the framework lineage where it originates — most commonly the Raëlian source material, Jean Sendy's foundational neo-euhemerist work, the broader corpus's interpretive synthesis, or the wider neo-euhemerist tradition descending from Euhemerus of Messene through the modern ancient-astronaut interpretive lineage."
 template = "wiki-page.html"
 toc = true
 

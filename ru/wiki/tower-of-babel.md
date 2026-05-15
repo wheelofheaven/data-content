@@ -1,6 +1,6 @@
 +++
-title = "Вавилонская башня"
-description = "Вавилонская башня (иврит: מִגְדַּל בָּבֶל, Mīgdal Bāḇel), в первые дни после Великого потопа, межзвездный космический корабль (возможно, удлиненной формы, как ракета), который был построен совместными усилиями народа Израиля и изгнанного Элохимианца. создатели. Целью космического корабля было улучшение дипломатических отношений с родной планетой Элохимиан, враждебно настроенной к сохранению жизни на Земле, путем обеспечения амнистии для ее жителей."
+title = "Tower of Babel"
+description = "Tower of Babel (Hebrew Mīgdal Bāḇel) — the post-flood collaborative spacecraft project narrated in Genesis 11. The corpus entry treats it under Babel."
 template = "wiki-page.html"
 toc = true
 

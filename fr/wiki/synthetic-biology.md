@@ -1,6 +1,6 @@
 +++
-title = "Biologie synthétique"
-description = "La biologie synthétique est un domaine interdisciplinaire qui combine les principes de la biologie, de la génétique et de l'ingénierie pour concevoir et construire des systèmes biologiques artificiels, des circuits génétiques et des organismes dotés de nouvelles fonctions ou caractéristiques. Cela implique la modification ou la création délibérée de matériel génétique et l'ingénierie de composants biologiques pour programmer des cellules vivantes afin qu'elles effectuent des tâches spécifiques ou présentent des traits souhaités. La biologie synthétique vise à comprendre et à réorganiser les systèmes biologiques."
+title = "Synthetic biology"
+description = "Synthetic biology is the engineering-discipline branch of contemporary life engineering. It applies engineering methods — standardisation, modularity, abstraction, characterisation, and design–build–test cycles — to the construction of biological systems with predetermined properties. The field formalised in the early 2000s with the publication of the first designed genetic circuits and the establishment of the BioBricks parts standard, and has since developed into an active scientific and industrial discipline producing engineered metabolic pathways, designed gene-regulatory circuits, cell-based therapeutics, and a growing set of foundational tools. On the Wheel of Heaven framework, synthetic biology is the discipline whose engineering-discipline epistemology most closely matches the operational vocabulary in which the Raëlian source material describes the Elohim's work."
 template = "wiki-page.html"
 toc = true
 

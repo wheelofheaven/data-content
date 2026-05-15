@@ -1,6 +1,6 @@
 +++
-title = "アダムとイヴ"
-description = "アダムとイブ、エンジニアリングに成功した最初期の人類プロトタイプの重要な人物である 2 人。彼らは、もともとエデンの園の時代にエデンに住んでいた人間属の異なるコミュニティの一部でした。追放された創造者たち、サーペントとして知られる反逆的なエロヒミアの一派と結びついて、アダマイトは混血の子孫を生み出しました。これらの子孫はアダマイトのコミュニティに同化し、ハイブリッドおよび非ハイブリッドのアダマイトという単一の異なるグループに統合されました。"
+title = "Adam and Eve"
+description = "Adam (Hebrew: אָדָם, ʾāḏām) and Eve (Hebrew: חַוָּה, ḥawwāh) are the first humans of the Hebrew Bible's Genesis narrative, formed by the Elohim in the garden of Eden, given the prohibition concerning the Tree of the Knowledge of Good and Evil, and expelled from the garden after eating from the tree. On the reading developed in the Raëlian source material and adopted by the Wheel of Heaven corpus, Adam and Eve are read as specific historical figures: the first synthesized humans of the Israel team's specific Eden installation, created through de novo biological synthesis during the late Age of Leo, educated in the Eden controlled environment, exposed to the dissenting Lucifer faction's disclosure of restricted scientific knowledge, expelled from the installation after the disclosure, and progenitors of the Eden-lineage human civilization. Both are currently resurrected on the Planet of the Eternals, awaiting the alliance's open return at the Aquarian-age embassy."
 template = "wiki-page.html"
 toc = true
 

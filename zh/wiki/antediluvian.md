@@ -1,6 +1,6 @@
 +++
-title = "洪水前"
-description = "上洪水时期，大洪水之前地球上的生命时期。更具体地说，上古时期是指人类文明取得了巨大的技术进步，并与一群被放逐留在地球上的耶洛因产生了后代的世界状态。"
+title = "Antediluvian"
+description = "Antediluvian (Latin: ante, 'before' + diluvium, 'flood') refers to the period of human existence on Earth before the Great Flood narrated in Genesis 6–9 and in parallel traditions across the ancient world. On the reading developed in the Raëlian source material and adopted by the Wheel of Heaven corpus, this is the post-creation pre-Flood span — the late Age of Leo through the Age of Cancer (c. 11,375 – 6,690 BCE) — during which the seven human lineages produced by the Elohim creator teams developed substantial civilizations on a single supercontinent, with the Eden lineage advancing under continued Lucifer-faction tutelage to a level the home world ultimately judged a threat."
 template = "wiki-page.html"
 toc = true
 

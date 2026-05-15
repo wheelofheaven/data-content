@@ -1,6 +1,6 @@
 +++
-title = "创世纪"
-description = "创世记，从词源学上来说，是圣经的第一本书，希伯来语也称为 Book of Genesis 或 B'reshit (בְּרֵאשִׁת)。更形象地说，耶洛因在地球上进行的所有创造项目的总和，持续了 7 个伟大的月份，相当于大约 15,000 年。"
+title = "Genesis"
+description = "Genesis (Hebrew: בְּרֵאשִׁית, B'reshit) is the first book of the Hebrew Bible, opening with two distinct creation narratives followed by the primeval and patriarchal histories. On the reading developed by Jean Sendy and the Raëlian source material and adopted by the Wheel of Heaven corpus, the seven-day creation account of Genesis 1 is read as a compressed record of seven precessional ages, c. 21,810 BCE through c. 6,690 BCE, during which the Elohim conducted the surveying, terraforming, and biological synthesis of the planet."
 template = "wiki-page.html"
 toc = true
 

@@ -1,6 +1,6 @@
 +++
-title = "Génesis"
-description = "Génesis, etimológicamente, el primer libro de la Biblia, también conocido como Libro del Génesis o B'reshit (בְּרֵאשִׁית) en hebreo. Más figurativamente, la suma de todos los proyectos de creación llevados a cabo en el planeta Tierra por los Elohim que duró 7 Grandes Meses, lo que equivale a aproximadamente 15'000 años."
+title = "Genesis"
+description = "Genesis (Hebrew: בְּרֵאשִׁית, B'reshit) is the first book of the Hebrew Bible, opening with two distinct creation narratives followed by the primeval and patriarchal histories. On the reading developed by Jean Sendy and the Raëlian source material and adopted by the Wheel of Heaven corpus, the seven-day creation account of Genesis 1 is read as a compressed record of seven precessional ages, c. 21,810 BCE through c. 6,690 BCE, during which the Elohim conducted the surveying, terraforming, and biological synthesis of the planet."
 template = "wiki-page.html"
 toc = true
 

@@ -1,6 +1,6 @@
 +++
-title = "Liste von Propheten und Religionen"
-description = "Liste der Propheten und Religionen. Viele Religionen, aber nicht alle, gelten als etablierte Zeugnisse authentischer Interaktionen zwischen den Elohim (אֱלֹהִים) und den Menschen auf der Erde. Diese Interaktionen führen zu religiösen Schriften und mündlichen Überlieferungen, die von den Taten der Elohim zeugen. In dieser Liste werden die meisten bedeutenden religiösen Traditionen sowie die Propheten, die zu solchen Traditionen geführt haben, umfassend katalogisiert."
+title = "List of prophets and religions"
+description = "A reference catalogue of the world's principal religious traditions and the prophets, founders, and visionaries associated with them, with an indication of how each tradition is positioned within the Wheel of Heaven framework's reading of religious history. The corpus reads a substantial majority of established religious traditions as preserving, in varying states of clarity and corruption, authentic testimonies of contact between the Elohim and human populations. The catalogue below presents the principal traditions, classifies each by the framework's approximated authenticity tier, and supplies the cross-references needed to locate the dedicated treatment of each."
 template = "wiki-page.html"
 toc = true
 

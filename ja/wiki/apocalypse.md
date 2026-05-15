@@ -1,6 +1,6 @@
 +++
-title = "黙示録"
-description = "ギリシャ語で黙示録を意味する黙示録は、黄金時代への到来に先立つ黙示録の時代を指します。黙示録の時代に明らかにされた啓示は、宗教経典、特に聖書によって保存されている状況的真実、すなわち、昔の神々は別の惑星から来た人々であり、その高度な技術能力のために超自然的な存在と誤解されてきたということである。"
+title = "Apocalypse"
+description = "Apocalypse (Greek: ἀποκάλυψις, apokalypsis, 'uncovering, unveiling, revelation') is, in its plain Greek meaning, the disclosure of what has been concealed. On the reading developed in the Raëlian source material and adopted by the Wheel of Heaven corpus, the Apocalypse is the contemporary period — coextensive with the Age of Aquarius, opening at 1946 in the Raëlian source material's reckoning and at the precessional boundary of approximately 1950 in the corpus's astronomical chronology — during which the framework's content becomes available to humanity for direct evaluation, the religious vocabulary of the preceding two and a half millennia is replaced by accurate scientific account, and the cumulative work of the prophetic tradition reaches its culmination."
 template = "wiki-page.html"
 toc = true
 

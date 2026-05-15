@@ -1,6 +1,6 @@
 +++
-title = "Бытие"
-description = "Бытие , этимологически первая книга Библии, также известная как Книга Бытия или Б'решит (בְּרֵאשִׁית) на иврите. Образно говоря, сумма всех творческих проектов, осуществленных Элохимами на планете Земля и продолжавшихся 7 Великих Месяцев, что составляет примерно 15 000 лет."
+title = "Genesis"
+description = "Genesis (Hebrew: בְּרֵאשִׁית, B'reshit) is the first book of the Hebrew Bible, opening with two distinct creation narratives followed by the primeval and patriarchal histories. On the reading developed by Jean Sendy and the Raëlian source material and adopted by the Wheel of Heaven corpus, the seven-day creation account of Genesis 1 is read as a compressed record of seven precessional ages, c. 21,810 BCE through c. 6,690 BCE, during which the Elohim conducted the surveying, terraforming, and biological synthesis of the planet."
 template = "wiki-page.html"
 toc = true
 

@@ -1,6 +1,6 @@
 +++
-title = "亚当和夏娃"
-description = "亚当和夏娃是最早成功设计的人类原型的两个关键人物。他们是一个独特群体的一部分，最初是生活在伊甸园伊甸园时代的人类属。亚当派与被流放的造物主——一个被称为“蛇”的叛逆伊洛希米派系——私通，生下了混血后代。这些后代融入了亚当族群，从而融入了一个由混种和非混种亚当族组成的独特群体。"
+title = "Adam and Eve"
+description = "Adam (Hebrew: אָדָם, ʾāḏām) and Eve (Hebrew: חַוָּה, ḥawwāh) are the first humans of the Hebrew Bible's Genesis narrative, formed by the Elohim in the garden of Eden, given the prohibition concerning the Tree of the Knowledge of Good and Evil, and expelled from the garden after eating from the tree. On the reading developed in the Raëlian source material and adopted by the Wheel of Heaven corpus, Adam and Eve are read as specific historical figures: the first synthesized humans of the Israel team's specific Eden installation, created through de novo biological synthesis during the late Age of Leo, educated in the Eden controlled environment, exposed to the dissenting Lucifer faction's disclosure of restricted scientific knowledge, expelled from the installation after the disclosure, and progenitors of the Eden-lineage human civilization. Both are currently resurrected on the Planet of the Eternals, awaiting the alliance's open return at the Aquarian-age embassy."
 template = "wiki-page.html"
 toc = true
 

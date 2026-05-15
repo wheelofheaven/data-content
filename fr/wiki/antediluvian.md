@@ -1,6 +1,6 @@
 +++
-title = "Antédiluvien"
-description = "Antédiluvien, la période de la vie sur Terre qui a précédé le Grand Déluge. Plus précisément, la période antédiluvienne fait référence à un état du monde où la civilisation humaine avait fait de grands progrès technologiques et avait produit des descendants avec un groupe d'Elohims qui avaient été bannis pour rester sur Terre."
+title = "Antediluvian"
+description = "Antediluvian (Latin: ante, 'before' + diluvium, 'flood') refers to the period of human existence on Earth before the Great Flood narrated in Genesis 6–9 and in parallel traditions across the ancient world. On the reading developed in the Raëlian source material and adopted by the Wheel of Heaven corpus, this is the post-creation pre-Flood span — the late Age of Leo through the Age of Cancer (c. 11,375 – 6,690 BCE) — during which the seven human lineages produced by the Elohim creator teams developed substantial civilizations on a single supercontinent, with the Eden lineage advancing under continued Lucifer-faction tutelage to a level the home world ultimately judged a threat."
 template = "wiki-page.html"
 toc = true
 

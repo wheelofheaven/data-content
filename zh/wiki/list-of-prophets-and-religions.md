@@ -1,6 +1,6 @@
 +++
-title = "先知和宗教列表"
-description = "先知和宗教列表。许多宗教（但不是全部）都被认为是耶洛因 (אֱלֹהִם) 与地球上人类之间真实互动的既定见证。这些互动导致了宗教著作和口头传统的出现，见证了埃洛希米亚人的作为。这份清单将在很大程度上详尽地列出大多数著名的宗教传统以及导致这些传统的先知。"
+title = "List of prophets and religions"
+description = "A reference catalogue of the world's principal religious traditions and the prophets, founders, and visionaries associated with them, with an indication of how each tradition is positioned within the Wheel of Heaven framework's reading of religious history. The corpus reads a substantial majority of established religious traditions as preserving, in varying states of clarity and corruption, authentic testimonies of contact between the Elohim and human populations. The catalogue below presents the principal traditions, classifies each by the framework's approximated authenticity tier, and supplies the cross-references needed to locate the dedicated treatment of each."
 template = "wiki-page.html"
 toc = true
 

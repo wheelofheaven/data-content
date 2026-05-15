@@ -1,6 +1,6 @@
 +++
-title = "Menorá"
-description = "La Menorá sirve como un recuerdo de la centralita de una base central elohimita en el Antiguo Levante. Esta centralita se caracterizaba por siete interruptores iluminados, que se creía que mantenían la conectividad con seis bases adicionales y una nave interplanetaria en órbita. Esta interpretación propone que las siete ramas de la Menorah significan metafóricamente las siete bases Elohimitas establecidas en la Tierra durante esa era."
+title = "Menorah"
+description = "The Menorah is the seven-branched golden lampstand specified in the Hebrew Bible (Exodus 25:31–40) as a principal furnishing of the Tabernacle and subsequently of the First and Second Temples of Jerusalem. It is among the oldest continuously preserved religious symbols in any tradition, surviving in Jewish use across approximately 3,200 years from the Mosaic period to the present and serving as the emblem of the State of Israel since 1949. In the Wheel of Heaven framework, the Menorah's seven-branched configuration is read as preserving the operational memory of seven Elohim bases established on Earth during the antediluvian and Mosaic periods — bases located on elevated terrain (Amos 4:13) and connected through a central communications installation that the source material describes as the original referent of the seven-branched lampstand design."
 template = "wiki-page.html"
 toc = true
 

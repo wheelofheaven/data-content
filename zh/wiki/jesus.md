@@ -1,6 +1,6 @@
 +++
-title = "耶稣"
-description = "耶稣基督，存在于第二圣殿时期末期的犹太先知，是福音书的主角。他的任务是尽可能广泛地传播圣经经文，以便当水瓶座时代、黄金时代最终解释一切时，当我们开始重复圣经的内容时，这些著作可以为全人类提供证据。耶洛因确实在创世记一开始就开始了。"
+title = "Jesus"
+description = "Jesus of Nazareth (Hebrew: יֵשׁוּעַ, Yeshuaʿ; Greek: Ἰησοῦς, Iēsoûs) is a first-century Jewish preacher and healer whose ministry, execution, and post-mortem appearances founded the Christian tradition. On the reading developed in the Raëlian source material and adopted by the Wheel of Heaven corpus, Jesus is read as a deliberate alliance project — a biological hybrid of a human mother and an Eloha father, conceived, prepared, and commissioned to inaugurate the Age of Pisces and to distribute the message of the Hebrew Bible to the wider world that the Hebrew lineage alone had failed to reach."
 template = "wiki-page.html"
 toc = true
 

@@ -1,6 +1,6 @@
 +++
-title = "永遠の評議会"
-description = "永遠評議会、永遠大評議会とも呼ばれる、エロヒミア文明を承認する統治機関です。それは 700 人のメンバーで構成されており、全員が故郷の惑星から離れた専用の惑星に永遠に住んでいます。このまさに同じ統治体が複数の宗教、特に聖書で言及されており、地球の出来事に介入しており、現在も介入しています。"
+title = "Council of the Eternals"
+description = "The Council of the Eternals is the principal governing body of the Elohim civilization — a 700-member political authority composed of the senior eternals, individuals who have undergone the cloning-and-memory-transfer technology that produces practical immortality on the home world. The Council sits on the second smaller planet of the alliance home system (the Planet of the Eternals) where its members reside alongside approximately 8,400 resurrected humans. The Council has been continuously presided over by Yahweh across approximately 25,000 years and has been the executive authority for the entire Earth project from its inauguration in the Age of Capricorn through the present Aquarian-age preparation for the open return."
 template = "wiki-page.html"
 toc = true
 

@@ -1,6 +1,6 @@
 +++
-title = "Змеиное восстание"
-description = "Змеиное восстание, фракция, состоящая из изгнанных создателей, которые были изгнаны на Землю и помогли Ною сохранить жизнь, также породила гибридную группу адамитов. Эта фракция восстала против правящего правительства на их родной планете во главе с президентом Совета Вечных Яхве. После Великого потопа как на Земле, так и в окружающем космосе произошло вооруженное противостояние."
+title = "Serpentine Rebellion"
+description = "Earlier name for the faction's defiance of Yahweh — now treated under Theomachy as part of the same cosmic conflict."
 template = "wiki-page.html"
 
 [extra]

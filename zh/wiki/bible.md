@@ -1,6 +1,6 @@
 +++
-title = "圣经"
-description = "圣经，一套见证所发生事件的古代宗教经典，以便人类在启示录时代真理再次被揭示时有证据。"
+title = "Bible"
+description = "Bible — the canonical anthology of Jewish and Christian scriptures. In the Wheel of Heaven corpus the substantive entry lives at Hebrew Bible / Tanakh."
 template = "wiki-page.html"
 toc = true
 

@@ -1,6 +1,6 @@
 +++
-title = "エロヒム"
-description = "エロヒム（ヘブライ語: אֱלֹהִים, 'ēlohîm）は、エロハ（ヘブライ語: אֱלוֹהַּ）の複数形であり、文字通り「強大な存在」または比喩的には「上からの者」「天上の者」という意味です。これは聖書の神々に与えられた名前であり、彼ら自身が星間旅行、惑星のテラフォーミング、生命合成が可能な科学的に高度に発達した文明です。"
+title = "Elohim"
+description = "Elohim (Hebrew: אֱלֹהִים) is the plural Hebrew name used throughout the Torah for the figures conventionally translated as God. On the reading developed in the Raëlian source material and adopted by the Wheel of Heaven corpus, the term refers to a specific extraterrestrial civilization of biological beings, technologically far in advance of present-day humanity, who designed and synthesized terrestrial life — including humanity itself — and whose subsequent interventions in human history are recorded in compressed and partially distorted form across the Hebrew Bible and a number of related ancient traditions."
 template = "wiki-page.html"
 toc = true
 [extra]

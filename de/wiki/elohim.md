@@ -1,6 +1,6 @@
 +++
 title = "Elohim"
-description = "Elohim (אֱלֹהִים), die Mehrzahl von Eloha (אֱלוֹהַּ), bedeutet wörtlich die Mächtigen oder figurativ diejenigen von oben, die Himmlischen. Der Name, der den biblischen Göttern gegeben wurde, die wiederum eine wissenschaftlich hochentwickelte Zivilisation sind, fähig zu interstellarem Reisen, Planeten-Terraforming und Synthetisierung von Leben."
+description = "Elohim (Hebrew: אֱלֹהִים) is the plural Hebrew name used throughout the Torah for the figures conventionally translated as God. On the reading developed in the Raëlian source material and adopted by the Wheel of Heaven corpus, the term refers to a specific extraterrestrial civilization of biological beings, technologically far in advance of present-day humanity, who designed and synthesized terrestrial life — including humanity itself — and whose subsequent interventions in human history are recorded in compressed and partially distorted form across the Hebrew Bible and a number of related ancient traditions."
 template = "wiki-page.html"
 toc = true
 [extra]

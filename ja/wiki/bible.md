@@ -1,6 +1,6 @@
 +++
-title = "聖書"
-description = "聖書、黙示録の時代に真実が再び明らかになったときに人類が証拠を得るために何が起こったかを証言する一連の古代の宗教経典。"
+title = "Bible"
+description = "Bible — the canonical anthology of Jewish and Christian scriptures. In the Wheel of Heaven corpus the substantive entry lives at Hebrew Bible / Tanakh."
 template = "wiki-page.html"
 toc = true
 

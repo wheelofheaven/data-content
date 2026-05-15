@@ -1,6 +1,6 @@
 +++
-title = "Hebreo"
-description = "Se revela que el hebreo, específicamente un antiguo predecesor del idioma hebreo, es el idioma hablado oficial de la civilización elohimiana. Como tal, el hebreo antiguo extrae sus orígenes más lejanos no de una fuente antrogénica terrenal, sino que fue heredado directamente de nuestros creadores, los Elohim, ya que hablaban una versión antigua del hebreo que los seres humanos adoptaron desde sus inicios. Si bien el hebreo moderno no puede considerarse equivalente al idioma elohimiano, por otro lado, se puede entender que la familia de idiomas semíticos preserva el legado."
+title = "Hebrew"
+description = "Hebrew (Hebrew: עִבְרִית, ʿivrit) is a Semitic language, the principal language of the Hebrew Bible, and — after a period of approximately two millennia in which it survived primarily as a liturgical and scholarly language — the official language of the modern State of Israel. On the reading developed in the Raëlian source material and adopted by the Wheel of Heaven corpus, ancient Hebrew is the Earth-side reflection of the spoken language of the Elohim civilization, transmitted to the first humans at their creation and preserved, in evolved form, through the Semitic language family and most distinctively in the language of the Hebrews themselves."
 template = "wiki-page.html"
 toc = true
 

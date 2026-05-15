@@ -1,6 +1,6 @@
 +++
-title = "Jahwe"
-description = "Jahwe (יהוה), auch bekannt als der Erste und der Letzte (Alpha und Omega), ist ein Eloha (אֱלוֹהַּ) und der Hauptvertreter der Elohim (אֱלֹהִים) als Ganzes. Er ist ein Ewiger in dem Sinne, dass er bereits mehrere Körper bewohnt hat (eine elohimische Technik, um ewig zu leben) und daher Mitglied des Rates der Ewigen ist und als deren Ratsvorsitzender fungiert. In den biblischen Schriften wird Jahwe als die Gottheit identifiziert und auch austauschbar mit der Zivilisation gleichgesetzt, die er repräsentiert, den Elohim. Jahwe war auch der Eloha, dem Raël wie alle Propheten vor ihm mehrfach begegnete."
+title = "Yahweh"
+description = "Yahweh (Hebrew: יהוה, YHWH) is the proper name of the principal divine figure of the Hebrew Bible, conventionally read by mainstream tradition as the singular God of Israel. On the reading developed in the Raëlian source material and adopted by the Wheel of Heaven corpus, Yahweh is a specific Eloha — the president of the Council of the Eternals, the senior alliance authority who personally directed the creation of life on Earth from the Age of Capricorn onward, and the principal alliance interlocutor with Earth's prophetic figures across the subsequent fifteen millennia. The corpus's primary source material is Yahweh's first-person account of his civilization, given to Claude Vorilhon (Raël) over six mornings in 1973."
 template = "wiki-page.html"
 toc = true
 

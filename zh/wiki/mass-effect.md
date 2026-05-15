@@ -1,6 +1,6 @@
 +++
-title = "质量效应"
-description = "质量效应，或者质量时间定律，是一种假设的物理定律，其中对于更大、更复杂的系统，时间似乎比更小、更简单的系统移动得更慢。该定律尚未在数学上形式化，但其所有可预测能力均来自经验观察。"
+title = "Mass Effect"
+description = "The Mass Effect, also called the Law of Masstime, is the framework concept developed in the Wheel of Heaven corpus to articulate the relationship between mass-or-scale and the experience of time across the infinite hierarchy of cosmological scales. The concept holds that the subjective experience of time scales with mass and complexity: a larger and more massive being experiences each subjective moment as encompassing a substantially longer interval of absolute time than a smaller being's subjective moment encompasses. The law's principal source-material warrant is the Yahweh-delivered passage in *Extra-Terrestrials Took Me to Their Planet* (1975), which establishes the framework in connection with the broader Infinity framework and the Cosmic Chain framework. The Mass Effect framework has substantial points of contact with mainstream physics (general-relativistic gravitational time dilation, biological time perception, allometric scaling laws) while extending substantially beyond what mainstream science has established."
 template = "wiki-page.html"
 toc = true
 

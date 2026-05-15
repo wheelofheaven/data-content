@@ -1,6 +1,6 @@
 +++
 title = "Serpentine Rebellion"
-description = "Serpentine Rebellion, die Fraktion bestehend aus verbannten Schöpfern, die auf die Erde verbannt worden waren und Noah bei der Bewahrung des Lebens unterstützten, brachte auch eine hybride Gruppe von Adamiten hervor. Diese Fraktion rebellierte gegen die herrschende Regierung auf ihrem Heimatplaneten, angeführt vom Präsidenten des Rates der Ewigen, Yahweh. Nach der Großen Sintflut kam es sowohl auf der Erde als auch im umgebenden Weltraum zu einer bewaffneten Konfrontation."
+description = "Earlier name for the faction's defiance of Yahweh — now treated under Theomachy as part of the same cosmic conflict."
 template = "wiki-page.html"
 
 [extra]

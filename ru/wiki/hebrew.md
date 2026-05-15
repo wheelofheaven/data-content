@@ -1,6 +1,6 @@
 +++
-title = "Иврит"
-description = "Иврит, в частности, древний предшественник иврита, оказывается официальным разговорным языком элогимианской цивилизации. Таким образом, древний иврит берет свое самое далекое происхождение не из земного антропогенного источника, а был унаследован непосредственно от наших создателей, Элохимов, поскольку они говорили на древней версии иврита, которую люди приняли с момента своего зарождения. Хотя современный иврит нельзя считать эквивалентным элогимианскому языку, семью семитских языков, с другой стороны, можно понимать как сохраняющую наследие."
+title = "Hebrew"
+description = "Hebrew (Hebrew: עִבְרִית, ʿivrit) is a Semitic language, the principal language of the Hebrew Bible, and — after a period of approximately two millennia in which it survived primarily as a liturgical and scholarly language — the official language of the modern State of Israel. On the reading developed in the Raëlian source material and adopted by the Wheel of Heaven corpus, ancient Hebrew is the Earth-side reflection of the spoken language of the Elohim civilization, transmitted to the first humans at their creation and preserved, in evolved form, through the Semitic language family and most distinctively in the language of the Hebrews themselves."
 template = "wiki-page.html"
 toc = true
 

@@ -1,6 +1,6 @@
 +++
-title = "Infinito"
-description = "Infinito, una visión científica del orden más alto, ya que postula la extensión perpetua del tiempo y del espacio. No hay centro como no hay principio ni fin. Dos símbolos antiguos conocidos en todo el mundo y las edades dan testimonio de esta sabiduría de antaño dada a nosotros por los Elohim, a saber, la esvástica que representa la naturaleza cíclica del tiempo y la atemporalidad, y Magen David que representa a su vez que lo que está arriba está abajo, es decir, el camino. el espacio se expande a niveles macroscópicos mayores es igual a la forma en que se pliega el espacio dentro de los niveles microscópicos."
+title = "Infinity"
+description = "Infinity is the foundational cosmological framework within which the Wheel of Heaven corpus's broader cosmological and ethical content operates. The framework holds that the cosmos is infinite along three mutually reinforcing dimensions: infinite in spatial extent (no boundary, no edge, no center), infinite in temporal extent (no beginning, no end), and infinite in hierarchical scale (no smallest scale, no largest scale). The framework's principal source-material warrant is the Yahweh-delivered passages in *The Book Which Tells the Truth* (1974) and *Extra-Terrestrials Took Me to Their Planet* (1975), with substantial corpus development through the Outro section II of *timeline.epub*. The Infinity framework operates as the broader cosmological precondition within which the Fractal Cosmology framework operates as the spatial dimension, the Mass Effect framework operates as the temporal dimension, and the Four Levels framework operates as the ethical-practical correlate."
 template = "wiki-page.html"
 toc = true
 

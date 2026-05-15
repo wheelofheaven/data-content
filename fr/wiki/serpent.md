@@ -1,6 +1,6 @@
 +++
 title = "Serpent"
-description = "Serpent , une référence métaphorique à une faction indisciplinée parmi les Elohim (אֱלֹהִים). Après que les premiers êtres humains aient été modifiés synthétiquement sur Terre, un sous-ensemble de l'ingénierie Elohim a jugé essentiel d'éduquer ces nouvelles créatures humaines de manière égale. L'éducation a été donnée aux premiers êtres humains et les Elohim qui en étaient responsables, connus sous le nom de Serpent, ont été condamnés et exilés pour rester sur Terre pour leur intrusion. L'un des principaux protagonistes de cette faction est connu sous le nom de Lucifer, le porteur de lumière."
+description = "The Serpent (Hebrew: נָחָשׁ, naḥash) is the figure in Genesis 3 who urges the first humans to eat from the Tree of the Knowledge of Good and Evil and is subsequently cursed and exiled. On the reading developed in the Raëlian source material and adopted by the Wheel of Heaven corpus, the Serpent is read not as a symbol but as a specific historical referent: a faction within the Israel team of Elohim creators — led by the figure later named Lucifer — who disagreed with the home world's restriction on the humans' education and provided them with access to the scientific knowledge that had been withheld."
 template = "wiki-page.html"
 toc = true
 
