@@ -1,6 +1,6 @@
 +++
-title = "Life engineering"
-description = "Life engineering is the application of scientific and engineering methods to the deliberate design and construction of living organisms or biological systems with novel functions, characteristics, or capabilities. It encompasses several adjacent disciplines — genetic engineering, synthetic biology, synthetic genomics, and xenobiology — that share the common project of treating living matter as something that can be designed at the molecular level rather than only observed and described. On the Wheel of Heaven framework, the emergence of this capability in present-day humanity is the framework's most concrete predicted convergence with the source material's account of the Elohim's work."
+title = "Инженерия жизни"
+description = "Инженерия жизни — в корпусе Wheel of Heaven целостная техническая программа, охватывающая синтетическую биологию, синтетическую геномику и терраформирование, то есть весь набор компетенций, необходимых для преднамеренного засева жизни в новом мире, как это сделали бы Элохимы на Земле."
 template = "wiki-page.html"
 toc = true
 

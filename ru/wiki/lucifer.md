@@ -1,6 +1,6 @@
 +++
-title = "Lucifer"
-description = "Lucifer (Latin: lūcifer, 'light-bringer'; Hebrew: הֵילֵל בֶּן־שַׁחַר, Helel ben Shahar, 'Day Star, son of the Dawn') is the figure named in Christian theological tradition as the leader of the angels who fell from heaven, conventionally identified with Satan and with the Eden Serpent. On the reading developed in the Raëlian source material and adopted by the Wheel of Heaven corpus, Lucifer is read as a specific historical figure: the leader of a dissenting faction within the Israel team of Elohim creators, exiled to Earth after the Eden disclosure, and the principal teacher of the antediluvian human civilization across the long centuries between the expulsion and the Flood."
+title = "Люцифер"
+description = "Люцифер (лат. «носитель света») — фигура небесного мятежника, поздно отождествлённая с Сатаной в христианской традиции. В корпусе Wheel of Heaven он прочитывается как одна из фигураций серпантинной революции внутри элохимской иерархии."
 template = "wiki-page.html"
 toc = true
 

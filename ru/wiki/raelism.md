@@ -1,6 +1,6 @@
 +++
-title = "Raëlism"
-description = "Raëlism is the religious-philosophical movement founded by Raël (Claude Vorilhon) in 1974-1976 following his reported December 13, 1973 contact with an officer of the Elohim alliance at the Puy-de-Lassolas crater near Clermont-Ferrand. The movement is structurally distinctive within the broader religious-movement landscape in being explicitly atheist — rejecting supernatural deity in favor of the Elohim as advanced biological civilization that created humanity through genetic engineering — while preserving substantial religious dimensions through the cumulative prophetic tradition, the Aquarian-age program, the embassy project, and various distinctive Raëlian practices including sensual meditation and the baptismal cellular-plan transmission. The institutional vehicle is the International Raëlian Movement (IRM), founded 1976, with national branches established in approximately ninety countries and total membership of approximately 65,000-100,000 (figures vary by source) across the post-1976 period."
+title = "Раэлианство"
+description = "Раэлианство — движение, основанное Раэлем на основе трансмиссий 1973–1975 годов, сочленяющее элохимическое прочтение Библии, этическую программу и политический проект Посольства. Для корпуса Wheel of Heaven оно является каноническим источником, через который перепрочитываются все остальные традиции."
 template = "wiki-page.html"
 toc = true
 

@@ -1,6 +1,6 @@
 +++
-title = "Adamite struggle"
-description = "Adamite struggle — the Adamite community's journey to autonomy under the Serpent faction's influence. The corpus entry treats this under Serpentine Rebellion."
+title = "Адамитская борьба"
+description = "Адамитская борьба — конфликт между первыми синтезированными людьми и их создателями-Элохимами; каноническое изложение находится в статье «Серпантинная революция»."
 template = "wiki-page.html"
 toc = true
 

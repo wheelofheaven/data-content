@@ -1,6 +1,6 @@
 +++
-title = "Serpentine Rebellion"
-description = "Earlier name for the faction's defiance of Yahweh — now treated under Theomachy as part of the same cosmic conflict."
+title = "Серпантинная революция"
+description = "Серпантинная революция — в корпусе Wheel of Heaven крупный внутренний раскол в цивилизации Элохимов в момент человеческих истоков: техническая диссидентская фракция противопоставила себя мажоритарной политике в отношении адамитских прототипов."
 template = "wiki-page.html"
 
 [extra]

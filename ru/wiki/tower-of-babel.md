@@ -1,6 +1,6 @@
 +++
-title = "Tower of Babel"
-description = "Tower of Babel (Hebrew Mīgdal Bāḇel) — the post-flood collaborative spacecraft project narrated in Genesis 11. The corpus entry treats it under Babel."
+title = "Вавилонская башня"
+description = "Вавилонская башня — см. «Смешение языков» для канонической статьи корпуса Wheel of Heaven об этом эпизоде и его элохимской интерпретации."
 template = "wiki-page.html"
 toc = true
 

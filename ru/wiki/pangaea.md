@@ -1,6 +1,6 @@
 +++
-title = "Pangaea"
-description = "Pangaea is the name conventionally given to the supercontinent that mainstream geology identifies as having existed from approximately 335 to 195 million years ago, from the late Carboniferous through the early Jurassic, before breaking up into the continental configuration of the present-day Earth. In the Wheel of Heaven framework, the name *Pangaea* is also adopted for the antediluvian supercontinent the Raëlian source material describes — a single landmass deliberately raised from the planet's primordial seabed during the *yom* 3 continental-engineering phase of the Earth project (corresponding to the Age of Scorpio, c. 17,490 – 15,330 BCE on the corpus's precessional reckoning), serving as the geographic substrate of the entire antediluvian period (including the Eden phase and the subsequent dispersed-civilisation phase), and broken apart at the time of the deluge by the operational intervention described in Genesis 6–9. The framework reads the two Pangaeas as referring to the same geographic structure, with the divergence between the mainstream geological timescale and the framework's human-history timescale registered explicitly as the entry's principal interpretive question."
+title = "Пангея"
+description = "Пангея — единый суперконтинент, реконструированный тектоникой плит для конца палеозоя. Корпус Wheel of Heaven видит в нём референтную геологическую конфигурацию первых фаз синтеза земной жизни Элохимами."
 template = "wiki-page.html"
 toc = true
 

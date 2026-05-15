@@ -1,6 +1,6 @@
 +++
-title = "Confusion of tongues"
-description = "Confusion of tongues — the post-flood dispersion-of-languages event narrated in Genesis 11. In the corpus the substantive entry consolidates this under Babel."
+title = "Смешение языков"
+description = "Смешение языков, повествуемое в Бытии 11, — эпизод, в котором единый язык послепотопного человечества дробится после возведения Вавилонской башни. В корпусе Wheel of Heaven это прочитывается как преднамеренное элохимическое вмешательство, направленное на диверсификацию человеческих линий и торможение преждевременной технологической конвергенции."
 template = "wiki-page.html"
 toc = true
 
