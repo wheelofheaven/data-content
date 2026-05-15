@@ -1,6 +1,6 @@
 +++
 title = "Genesis"
-description = "Genesis (Hebrew: בְּרֵאשִׁית, B'reshit) is the first book of the Hebrew Bible, opening with two distinct creation narratives followed by the primeval and patriarchal histories. On the reading developed by Jean Sendy and the Raëlian source material and adopted by the Wheel of Heaven corpus, the seven-day creation account of Genesis 1 is read as a compressed record of seven precessional ages, c. 21,810 BCE through c. 6,690 BCE, during which the Elohim conducted the surveying, terraforming, and biological synthesis of the planet."
+description = "Genesis (hebräisch: בְּרֵאשִׁית, B'reshit) ist das erste Buch der hebräischen Bibel; es beginnt mit zwei unterschiedlichen Schöpfungserzählungen, gefolgt von den Urgeschichten und den Patriarchenerzählungen. Nach der von Jean Sendy und dem Raëlianischen Quellenmaterial entwickelten und vom Wheel of Heaven-Korpus übernommenen Lesart wird der siebentägige Schöpfungsbericht aus Genesis 1 als komprimierter Bericht über sieben präzessionale Zeitalter gelesen, ca. 21.810 v. u. Z. bis ca. 6.690 v. u. Z., während derer die Elohim die Vermessung, Terraformung und biologische Synthese des Planeten durchführten."
 template = "wiki-page.html"
 toc = true
 
