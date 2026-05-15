@@ -1,6 +1,6 @@
 +++
-title = "Cosmic pluralism"
-description = "Cosmic pluralism is the philosophical and scientific doctrine that the universe contains many worlds beyond Earth — in its stronger form, many *inhabited* worlds — rather than the unique-world cosmology that dominated ancient Aristotelian and medieval Western thought. The doctrine has developed across approximately 2,500 years of philosophical and scientific reflection, from the early Greek atomists Leucippus and Democritus (5th century BCE) through Epicurus and Lucretius, through medieval Islamic and Christian philosophical developments, through the early-modern explosion of cosmic-pluralism advocacy in the work of Nicholas of Cusa, Giordano Bruno, Bernard de Fontenelle, Christiaan Huygens, and Immanuel Kant, through the 19th-century scientific debates, through the 20th-century emergence of SETI and the Drake equation, to the contemporary exoplanet revolution that has documented more than 5,600 confirmed planets around other stars since the first detection in 1992 (pulsar planets) and 1995 (51 Pegasi b around a main-sequence star). The Wheel of Heaven framework reads cosmic pluralism not as a contested philosophical doctrine but as foundational to the corpus's adopted position: the Elohim came from another world, humanity itself was created by extraterrestrial intelligence, and humanity is destined in turn to create new humanities on other worlds in the continuing propagation of life across the universe."
+title = "宇宙多元論"
+description = "宇宙多元論是自古至今(直至現代天體生物學)所主張的、宇宙中並存眾多有居住世界的命題。Wheel of Heaven 文集將其作為哲學前提,並將其銜接到從伊壁鳩魯到布魯諾的歷史脈絡中。"
 template = "wiki-page.html"
 toc = true
 

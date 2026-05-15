@@ -1,6 +1,6 @@
 +++
-title = "Council of the Eternals"
-description = "The Council of the Eternals is the principal governing body of the Elohim civilization — a 700-member political authority composed of the senior eternals, individuals who have undergone the cloning-and-memory-transfer technology that produces practical immortality on the home world. The Council sits on the second smaller planet of the alliance home system (the Planet of the Eternals) where its members reside alongside approximately 8,400 resurrected humans. The Council has been continuously presided over by Yahweh across approximately 25,000 years and has been the executive authority for the entire Earth project from its inauguration in the Age of Capricorn through the present Aquarian-age preparation for the open return."
+title = "永恆者議會"
+description = "永恆者議會在雷爾派文獻中是厄羅欣的治理機構,由其文明最年長的科學家組成,以耶和華為主席。Wheel of Heaven 文集將其置於一切與地球有關事項的厄羅欣決策等級之頂端。"
 template = "wiki-page.html"
 toc = true
 

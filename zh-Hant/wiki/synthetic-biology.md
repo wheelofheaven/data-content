@@ -1,6 +1,6 @@
 +++
-title = "Synthetic biology"
-description = "Synthetic biology is the engineering-discipline branch of contemporary life engineering. It applies engineering methods — standardisation, modularity, abstraction, characterisation, and design–build–test cycles — to the construction of biological systems with predetermined properties. The field formalised in the early 2000s with the publication of the first designed genetic circuits and the establishment of the BioBricks parts standard, and has since developed into an active scientific and industrial discipline producing engineered metabolic pathways, designed gene-regulatory circuits, cell-based therapeutics, and a growing set of foundational tools. On the Wheel of Heaven framework, synthetic biology is the discipline whose engineering-discipline epistemology most closely matches the operational vocabulary in which the Raëlian source material describes the Elohim's work."
+title = "合成生物學"
+description = "合成生物學是生命工程的一個分支,致力於設計和組裝全新的或經過重新設計的生物元件。Wheel of Heaven 文集將其讀作向厄羅欣式生命合成精通匯聚的進路。"
 template = "wiki-page.html"
 toc = true
 

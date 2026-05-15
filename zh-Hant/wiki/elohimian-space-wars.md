@@ -1,6 +1,6 @@
 +++
-title = "Elohimian War"
-description = "Elohimian space wars — the post-flood armed conflict between Yahweh's faction and the exiled creators. The corpus entry consolidates this under Theomachy."
+title = "厄羅欣式太空戰爭"
+description = "厄羅欣式太空戰爭 — Wheel of Heaven 的正典條目請參閱「神戰」。"
 template = "wiki-page.html"
 toc = true
 

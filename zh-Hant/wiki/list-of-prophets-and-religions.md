@@ -1,6 +1,6 @@
 +++
-title = "List of prophets and religions"
-description = "A reference catalogue of the world's principal religious traditions and the prophets, founders, and visionaries associated with them, with an indication of how each tradition is positioned within the Wheel of Heaven framework's reading of religious history. The corpus reads a substantial majority of established religious traditions as preserving, in varying states of clarity and corruption, authentic testimonies of contact between the Elohim and human populations. The catalogue below presents the principal traditions, classifies each by the framework's approximated authenticity tier, and supplies the cross-references needed to locate the dedicated treatment of each."
+title = "先知與宗教清單"
+description = "Wheel of Heaven 文集將其讀作跨越各歲差時代的厄羅欣傳遞里程碑的先知形象與宗教傳統清單。"
 template = "wiki-page.html"
 toc = true
 

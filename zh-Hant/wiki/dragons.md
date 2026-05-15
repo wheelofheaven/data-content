@@ -1,6 +1,6 @@
 +++
-title = "Dragons"
-description = "Dragons are a category of large reptilian or serpentine creatures that the Wheel of Heaven framework identifies as deliberately created biological organisms produced by specific factional teams within the Elohim creation program during the Age of Virgo (c. 13,170 to 11,010 BCE), corresponding to the fifth day of the Genesis 1 creation account. The framework identifies these creatures with the dinosaurs of mainstream paleontology, with the Hebrew word תַּנִּין (*tannin*) of Genesis 1:21 — translated as 'whales' or 'great sea creatures' in most major Bible translations but unambiguously meaning 'dragon' or 'sea-monster' in the Hebrew lexicon — providing the principal source-textual anchor. The framework's specific reading registers four converging claims: the Hebrew text of Genesis 1:21 explicitly describes the Elohim's creation of dragons with the strongest creation verb (*bara*); the Raëlian source places dragons and birds together in the same creative age; modern phylogenetics establishes that birds are the surviving theropod lineage of the dinosaur clade; and universal dragon memory across human cultures preserves cultural memory of creatures actually encountered before the Gemini-age flood eliminated most of the larger forms."
+title = "龍"
+description = "龍是幾乎所有神話中都有證言的複合生物,其影像學的匯聚長期令比較神話學困惑。Wheel of Heaven 文集將其讀作不同時代所觀察到的厄羅欣機械或生物的記憶性壓縮。"
 template = "wiki-page.html"
 toc = true
 

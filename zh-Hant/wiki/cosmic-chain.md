@@ -1,6 +1,6 @@
 +++
-title = "Cosmic Chain"
-description = "The Cosmic Chain is the framework concept developed in the Wheel of Heaven corpus to articulate the broader cosmological situation in which the Elohim civilization operates: an indefinitely extended sequence of created-and-creating civilizations across cosmic time, with each civilization that reaches scientific maturity eventually creating new humanities on suitable worlds, which in turn become creator civilizations themselves, continuing the chain across deep time. The Elohim discovered during the Aries age that they themselves had been created by a prior civilization rather than being autonomous originators of a unique pattern, with the discovery producing the policy shift from direct to indirect contact and the broader framework within which the present Aquarian-age inheritance evaluation operates."
+title = "宇宙鏈"
+description = "宇宙鏈在 Wheel of Heaven 文集中指相互巢狀的創造文明序列 — 每個先進文明都在新行星上合成出下一文明,形成潛在無限的鏈條。"
 template = "wiki-page.html"
 toc = true
 

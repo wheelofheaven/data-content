@@ -1,6 +1,6 @@
 +++
-title = "Dhorme Bible translation"
-description = "The Dhorme Bible is the French translation of the Old Testament prepared by the French Assyriologist and Semitologist Édouard Dhorme (1881–1966), published by Gallimard in the Bibliothèque de la Pléiade in two volumes (1956 and 1959). The translation is widely regarded among scholars as one of the most philologically rigorous French versions of the Hebrew Bible, distinguished by its literal preservation of the operational vocabulary of the original — including the preservation of the plural form *Élohim* (rather than the conventional theological translation *Dieu*) and the preservation of the Tetragrammaton as *Iahvé*. In the Wheel of Heaven framework, the Dhorme translation has specific importance because it is the version Claude Vorilhon reports having had with him during his 1973 contact, and because its preserved philological vocabulary is the textual basis through which the Raëlian source material's Hebrew-Bible references are mediated."
+title = "多爾姆聖經翻譯"
+description = "愛德華·多爾姆的聖經翻譯收錄於「七星文庫」,是希伯來文本批判性閱讀的重要文獻學參考。Wheel of Heaven 文集將其作為法語文本基礎之一加以參考。"
 template = "wiki-page.html"
 toc = true
 

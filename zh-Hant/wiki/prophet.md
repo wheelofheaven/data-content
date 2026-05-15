@@ -1,6 +1,6 @@
 +++
-title = "Prophet"
-description = "A prophet (Greek: προφήτης, prophētēs; Hebrew: נָבִיא, navi) is a human figure who, in the religious traditions of the world, serves as a mediator between the divine and the human. On the reading developed in the Raëlian source material and adopted by the Wheel of Heaven corpus, prophets are operational interlocutors between the Elohim alliance and specific human populations — approximately forty figures across human history, distributed across the major cultures and historical periods, with the role concluding in its traditional religious form with Muhammad in the seventh century CE and resuming in transformed scientific form with Raël in the late twentieth century."
+title = "先知"
+description = "先知在 Wheel of Heaven 文集中指面向某一特定時代與共同體的厄羅欣傳遞的接收者 — 這一角色不同於宗教創始人,並要求一種特定的通訊協議。"
 template = "wiki-page.html"
 toc = true
 

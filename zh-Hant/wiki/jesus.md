@@ -1,6 +1,6 @@
 +++
-title = "Jesus"
-description = "Jesus of Nazareth (Hebrew: יֵשׁוּעַ, Yeshuaʿ; Greek: Ἰησοῦς, Iēsoûs) is a first-century Jewish preacher and healer whose ministry, execution, and post-mortem appearances founded the Christian tradition. On the reading developed in the Raëlian source material and adopted by the Wheel of Heaven corpus, Jesus is read as a deliberate alliance project — a biological hybrid of a human mother and an Eloha father, conceived, prepared, and commissioned to inaugurate the Age of Pisces and to distribute the message of the Hebrew Bible to the wider world that the Hebrew lineage alone had failed to reach."
+title = "耶穌"
+description = "耶穌(希伯來語:יֵשׁוּעַ,“耶書亞”)是基督教的核心人物,猶太裔的彌賽亞先知。在 Wheel of Heaven 文集中,他被讀作厄羅欣派遣以契合其時代傳遞資訊的先知之一,處於先知系譜的連續之中。"
 template = "wiki-page.html"
 toc = true
 

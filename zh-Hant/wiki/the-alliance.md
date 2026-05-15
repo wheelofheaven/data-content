@@ -1,6 +1,6 @@
 +++
-title = "The Alliance"
-description = "The Alliance is the formal cross-civilizational political body that, on the reading developed in the Wheel of Heaven corpus, structures the long historical relationship between the Elohim civilization and the Eden-lineage human population. The Alliance came into being at the post-Flood Noahic covenant moment, when the exiled Lucifer-faction creators and the surviving human partners who had built the ark formalized their joint political position against the home-world Council that had ordered the destruction of both. The Alliance subsequently expanded — incorporating the broader Elohim civilization following the Taurus-age pardon, conducting the prophetic missions of the Aries and Piscean ages through indirect contact, and preparing in the Aquarian age for the open return at the embassy that will inaugurate the next phase of the relationship."
+title = "聯盟"
+description = "聯盟 — Wheel of Heaven 文集中關於洪水後厄羅欣與人類之間第一個穩定互動協議的正典條目請參閱「挪亞之約」。"
 template = "wiki-page.html"
 toc = true
 

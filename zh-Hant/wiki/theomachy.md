@@ -1,6 +1,6 @@
 +++
-title = "Theomachy"
-description = "The Theomachy is the multi-age narrative event of the political-military conflict between the Elohim home-world Council and the exiled-creator-and-human alliance on Earth, beginning with Lucifer's disclosure of forbidden knowledge to Adam and Eve in the late Age of Cancer (c. 9,300-9,200 BCE), developing through the antediluvian period and the events leading to the Great Flood, reaching open military expression in the late Age of Gemini (c. 6,690 BCE forward), and resolving through the negotiated settlement and pardon of the original exiles in the early Age of Taurus. The Wheel of Heaven framework's distinctive analytical contribution is registering this single historical event as the underlying referent for the cross-cultural mythological pattern that mainstream scholarship calls Theomachy — the battle of the gods — preserved in virtually every major mythological tradition worldwide as the conflict between an older displaced generation of divine figures and a younger established pantheon. The event is preserved in the Hebrew Bible principally through the *liwyatan*/*nachash*/*tannin* vocabulary of Isaiah 27:1 and various other passages, and has continued cultural-political afterlife across all subsequent ages."
+title = "神戰"
+description = "神戰在 Wheel of Heaven 文集中指厄羅欣文明內部的衝突 — 技術與政治派系之間的戰鬥 — 其蹤跡以壓縮形式見於幾乎所有神話中關於諸神之戰的敘事。"
 template = "wiki-page.html"
 toc = true
 

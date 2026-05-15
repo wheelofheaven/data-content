@@ -1,6 +1,6 @@
 +++
-title = "Elohim"
-description = "Elohim (Hebrew: אֱלֹהִים) is the plural Hebrew name used throughout the Torah for the figures conventionally translated as God. On the reading developed in the Raëlian source material and adopted by the Wheel of Heaven corpus, the term refers to a specific extraterrestrial civilization of biological beings, technologically far in advance of present-day humanity, who designed and synthesized terrestrial life — including humanity itself — and whose subsequent interventions in human history are recorded in compressed and partially distorted form across the Hebrew Bible and a number of related ancient traditions."
+title = "厄羅欣"
+description = "厄羅欣(希伯來語:אֱלֹהִים)是《妥拉》通篇用於通常譯為“神”的諸位形象的希伯來語複數名詞。根據雷爾派資料發展並被 Wheel of Heaven 文集採納的閱讀,該詞指一支由生物性存在構成的特定外星文明 — 一個在技術上遠遠超越當今人類的文明 — 他們設計並合成了地球上的生命(包括人類自身),其後對人類歷史的干預以壓縮與部分扭曲的形式記錄於希伯來聖經及一系列相關古代傳統之中。"
 template = "wiki-page.html"
 toc = true
 [extra]

@@ -1,6 +1,6 @@
 +++
-title = "Adam and Eve"
-description = "Adam (Hebrew: אָדָם, ʾāḏām) and Eve (Hebrew: חַוָּה, ḥawwāh) are the first humans of the Hebrew Bible's Genesis narrative, formed by the Elohim in the garden of Eden, given the prohibition concerning the Tree of the Knowledge of Good and Evil, and expelled from the garden after eating from the tree. On the reading developed in the Raëlian source material and adopted by the Wheel of Heaven corpus, Adam and Eve are read as specific historical figures: the first synthesized humans of the Israel team's specific Eden installation, created through de novo biological synthesis during the late Age of Leo, educated in the Eden controlled environment, exposed to the dissenting Lucifer faction's disclosure of restricted scientific knowledge, expelled from the installation after the disclosure, and progenitors of the Eden-lineage human civilization. Both are currently resurrected on the Planet of the Eternals, awaiting the alliance's open return at the Aquarian-age embassy."
+title = "亞當和夏娃"
+description = "亞當和夏娃在《創世記》敘事中是被置於伊甸園的最初人類伴侶。在 Wheel of Heaven 框架內,他們被讀作由厄羅欣在實驗室中合成的最初原型 — 亞當血統的原型祖先,其墮落標誌著從實驗室走向外部世界的轉折。"
 template = "wiki-page.html"
 toc = true
 

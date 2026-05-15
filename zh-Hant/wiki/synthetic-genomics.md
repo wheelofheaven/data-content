@@ -1,6 +1,6 @@
 +++
-title = "Synthetic genomics"
-description = "Synthetic genomics is the branch of life engineering concerned with the design, chemical synthesis, and assembly of complete genomes or large portions of genomes — the construction of an organism's entire hereditary material from designed sequence rather than from modification of existing biological templates. The field is the most ambitious wing of contemporary life engineering, operating at the scale of complete cellular life rather than at the sub-system scale of synthetic biology or the modify-existing scale of genetic engineering. On the Wheel of Heaven framework, synthetic genomics is the sub-discipline whose specific scale of operation — whole-organism construction from designed sequence — most directly matches the operational scale at which the Raëlian source material describes the Elohim's work."
+title = "合成基因組學"
+description = "合成基因組學是生命工程的一個分支,致力於設計、撰寫並組裝完整基因組。Wheel of Heaven 文集將其讀作一種文明能夠在新世界中有意播種生命所跨越的技術門檻。"
 template = "wiki-page.html"
 toc = true
 

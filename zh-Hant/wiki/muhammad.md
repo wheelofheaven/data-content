@@ -1,6 +1,6 @@
 +++
-title = "Muhammad"
-description = "Muhammad ibn Abdullah (Arabic <span class=\"arabic\">مُحَمَّد</span>, c. 570 – 8 June 632 CE) was the Arabian prophet who founded the religious community that became Islam, the reciter of the Qur'an over a 22-year period of revelation (c. 610–632 CE), and the political leader who unified the Arabian Peninsula under the *ummah* polity during the last decade of his life. He is recognised by approximately one quarter of the contemporary human population as the final messenger (*khātam al-anbiyāʾ*, the \"Seal of the Prophets\") of the prophetic lineage that includes Ibrahim (Abraham), Musa (Moses), Dawud (David), Isa (Jesus), and many others. The Wheel of Heaven framework reads Muhammad as the thirty-ninth of the forty prophets the Raëlian source material describes the Elohim as having sent across human history, with the Cave of Hira revelation event (c. 610 CE), the Isra' and Mi'raj (the Night Journey and ascent through the seven heavens), and the broader 22-year revelation period preserving operational content about Elohim contact during the late Age of Pisces."
+title = "穆罕默德"
+description = "穆罕默德(阿拉伯語:مُحَمَّد)是伊斯蘭教的奠基先知,其《古蘭經》傳遞將嚴格的一神論與先知傳承相結合。在 Wheel of Heaven 文集中,他被讀作厄羅欣先知系譜的最後一位重要中繼者之一。"
 template = "wiki-page.html"
 toc = true
 
