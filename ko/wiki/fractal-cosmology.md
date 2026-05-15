@@ -1,6 +1,6 @@
 +++
-title = "Fractal Cosmology"
-description = "Fractal Cosmology is the framework concept developed in the Wheel of Heaven corpus to articulate the spatial-self-similar structure of the cosmos across the infinite hierarchy of scales. The concept holds that the cosmos exhibits self-similarity across scales, with the same fundamental patterns of organization recurring at every scale of examination, indefinitely in both directions without finding any bottom or any top. The framework's principal source-material warrant is the Yahweh-delivered passages in *Extra-Terrestrials Took Me to Their Planet* (1975) and the broader Raëlian source material, with the corpus's specific use of *fractal cosmology* as the technical designation registering the structural alignment with the mathematical-fractal vocabulary that Benoît Mandelbrot was developing in the same period the source material was being delivered. The Fractal Cosmology framework operates as the spatial dimension of the broader Infinity framework, with the Mass Effect framework operating as the corresponding temporal dimension."
+title = "프랙탈 우주론"
+description = "프랙탈 우주론은 우주가 원자에서 은하, 생명에 이르는 여러 스케일에서 자기유사성을 나타낸다는 관념이다. Wheel of Heaven 코퍼스에서 그것은 포개진 문명들로 이루어진 우주의 사슬을 정합적인 우주론적 틀에 연결한다."
 template = "wiki-page.html"
 toc = true
 

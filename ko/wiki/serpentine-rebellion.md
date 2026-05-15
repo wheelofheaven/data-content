@@ -1,6 +1,6 @@
 +++
-title = "Serpentine Rebellion"
-description = "Earlier name for the faction's defiance of Yahweh — now treated under Theomachy as part of the same cosmic conflict."
+title = "세르팡 반란"
+description = "세르팡 반란은 Wheel of Heaven 코퍼스에서 인류 기원의 시점에 일어난 엘로힘 문명 내부의 거대한 분열을 가리킨다 — 기술적 이견 분파가 아담 계통 시제품에 대한 다수파의 정책에 맞선 사건이다."
 template = "wiki-page.html"
 
 [extra]

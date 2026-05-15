@@ -1,6 +1,6 @@
 +++
-title = "Infinity"
-description = "Infinity is the foundational cosmological framework within which the Wheel of Heaven corpus's broader cosmological and ethical content operates. The framework holds that the cosmos is infinite along three mutually reinforcing dimensions: infinite in spatial extent (no boundary, no edge, no center), infinite in temporal extent (no beginning, no end), and infinite in hierarchical scale (no smallest scale, no largest scale). The framework's principal source-material warrant is the Yahweh-delivered passages in *The Book Which Tells the Truth* (1974) and *Extra-Terrestrials Took Me to Their Planet* (1975), with substantial corpus development through the Outro section II of *timeline.epub*. The Infinity framework operates as the broader cosmological precondition within which the Fractal Cosmology framework operates as the spatial dimension, the Mass Effect framework operates as the temporal dimension, and the Four Levels framework operates as the ethical-practical correlate."
+title = "무한"
+description = "무한은 라엘 코퍼스의 틀에서 동시에 우주론적 틀(무한한 시공간, 무수한 문명)이자 엘로힘 영성의 중심 개념이다. Wheel of Heaven 코퍼스는 우주적 다원주의와 문명 사슬의 접합에서 무한이 수행하는 구조화 기능을 논한다."
 template = "wiki-page.html"
 toc = true
 

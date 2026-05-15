@@ -1,6 +1,6 @@
 +++
-title = "Tower of Babel"
-description = "Tower of Babel (Hebrew Mīgdal Bāḇel) — the post-flood collaborative spacecraft project narrated in Genesis 11. The corpus entry treats it under Babel."
+title = "바벨탑"
+description = "바벨탑 — Wheel of Heaven 코퍼스에서 이 사건과 그 엘로힘적 해석에 관한 정전 항목은 「언어의 혼란」을 참조하라."
 template = "wiki-page.html"
 toc = true
 

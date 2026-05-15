@@ -1,6 +1,6 @@
 +++
-title = "Adamites"
-description = "The Adamites, in the Wheel of Heaven framework, are the distinct community of engineered humans synthesised by the Elohim during the *yom* 6 phase of the Earth project (Age of Leo on the corpus's precessional reckoning, c. 13,170 – 11,010 BCE) and resident within the Gan Eden (the Garden of Eden) during the immediate post-synthesis phase. The framework reads the Adamites as the original engineered human population — the *adam* of Genesis 1:26–2:7, named for the Hebrew *adamah* (\"earth, soil\") — designed in the biological image of the Elohim and adapted for the specific terrestrial conditions of the antediluvian world. The framework's reading of the subsequent Eden narrative (Genesis 3) holds that a rebellious Elohim faction (the *Serpent* of the canonical text) engaged in unauthorised reproductive contact with the Adamite population, producing hybrid offspring that subsequently assimilated into the broader Adamite community. The hybridisation event is read by the framework as the historical content preserved in the Genesis 3 Fall narrative and as connected to the Genesis 6:1–4 *bnei ha-Elohim*-*bnot ha-adam* passage and the broader Watcher / Nephilim tradition. The Adamites of the framework's reading should not be confused with the early Christian sect of the same name (active in North Africa from the 2nd through 4th centuries CE) that practised ritual nudity in imitation of pre-Fall Adam; the two are unrelated phenomena treated separately in the entry."
+title = "아담 계통"
+description = "아담 계통(Adamites)은 Wheel of Heaven 코퍼스에서 엘로힘이 가장 먼저 완전 합성한 인류 혈통 — 정원-실험실에서 나온 아담과 하와의 직계 후손 — 을 가리킨다. 이 용어는 이 혈통을 지구상의 다른 전인류적 갈래와 구별하고, 본격적인 인류사의 출발점을 표시한다."
 template = "wiki-page.html"
 toc = true
 

@@ -1,6 +1,6 @@
 +++
-title = "Apocalypse"
-description = "Apocalypse (Greek: ἀποκάλυψις, apokalypsis, 'uncovering, unveiling, revelation') is, in its plain Greek meaning, the disclosure of what has been concealed. On the reading developed in the Raëlian source material and adopted by the Wheel of Heaven corpus, the Apocalypse is the contemporary period — coextensive with the Age of Aquarius, opening at 1946 in the Raëlian source material's reckoning and at the precessional boundary of approximately 1950 in the corpus's astronomical chronology — during which the framework's content becomes available to humanity for direct evaluation, the religious vocabulary of the preceding two and a half millennia is replaced by accurate scientific account, and the cumulative work of the prophetic tradition reaches its culmination."
+title = "묵시록"
+description = "묵시록(그리스어: ἀποκάλυψις, ‘가려진 것을 벗김’)은 감추어진 것의 계시를 가리키며, 특히 세계 질서의 결정적 변혁을 알리는 종말 문헌을 의미한다. Wheel of Heaven의 틀에서 묵시는 세차 시대의 이행 — 한 대월(大月)의 종결과 다음 시대로의 문지방 — 으로 읽힌다."
 template = "wiki-page.html"
 toc = true
 

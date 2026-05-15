@@ -1,6 +1,6 @@
 +++
-title = "Tree of Life"
-description = "The Tree of Life (Hebrew: עֵץ הַחַיִּים, ʿēṣ ha-ḥayyîm) is the figure introduced at Genesis 2:9 as one of the two named trees in the garden of Eden, alongside the Tree of the Knowledge of Good and Evil. The Tree of Life appears in the Genesis narrative as the source of extended life that, after the Eden disclosure, was barred from human access by the cherubim and the flaming sword. On the reading developed in the Raëlian source material and adopted by the Wheel of Heaven corpus, the Tree of Life is read as a specific historical biotechnology: the cellular-extension technique that the Elohim civilization developed to extend natural lifespan, granted on a limited basis to specific Eden-lineage patriarchal leaders during the antediluvian period (producing the recorded lifespans of 930 years for Adam, 969 for Methuselah, 950 for Noah) and operating in its mature form on the home world as the cloning-and-memory-transfer technology that produces the practical immortality of the Council of the Eternals."
+title = "생명나무"
+description = "생명나무는 창세기에서 그 열매가 무한정한 수명을 부여하는 나무이다. Wheel of Heaven 코퍼스에서 그것은 엘로힘의 생물공학적 장치 — 복제, 세포 재생 — 로 읽히며, 에덴에 보존되어 있었고 아담 계통이 그곳을 떠난 뒤 거두어진 것으로 본다."
 template = "wiki-page.html"
 toc = true
 

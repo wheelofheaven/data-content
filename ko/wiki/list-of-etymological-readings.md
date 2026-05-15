@@ -1,6 +1,6 @@
 +++
-title = "List of etymological readings"
-description = "A reference catalogue of the Wheel of Heaven framework's adopted etymological readings of religious, mythological, and traditional terms. The corpus uses careful philological method drawn principally from the Sendy–Biglino tradition to recover the literal meaning of source-language terms, and reads those literal meanings for the operational content the framework's broader interpretive synthesis identifies. The catalogue presents each term in its source language and script with transliteration, the standard scholarly etymology, and the framework's adopted reading, organised by source-language tradition (Hebrew, Greek, Sanskrit, Sumerian and Akkadian, Latin, and cross-linguistic) so that etymological convergences across language families can be assessed."
+title = "어원학적 독해 목록"
+description = "Wheel of Heaven 코퍼스를 위해, 통상적 번역·문헌학적 어근·엘로힘적 해석을 결합한, 코퍼스의 주요 용어들(주로 히브리어·그리스어)의 어원학적 재독해 목록."
 template = "wiki-page.html"
 toc = true
 

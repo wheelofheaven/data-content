@@ -1,6 +1,6 @@
 +++
-title = "Raëlian Symbol of Infinity"
-description = "The Raëlian Symbol of Infinity is the principal iconographic emblem of the Raëlian movement and the Wheel of Heaven framework, presented to Raël by Yahweh at the December 13, 1973 contact at Puy-de-Lassolas as engraved on the alliance craft and on Yahweh's suit. The symbol comprises a Star of David (two intertwined triangles) representing the spatial dimension of infinity through the Hermetic 'as above, so below' principle, with a central swastika representing the temporal dimension of infinity through the cyclic-eternal principle. The source identifies the combined symbol as containing 'all the wisdom in the world,' with the symbol functioning as the iconographic correlate of the broader Infinity framework. In 1990, Raël proposed and the Elohim authorized a modification of the symbol for use in Western Raëlian movement branches, replacing the central swastika with a galaxy-shaped spiral. The modification responded to two specific concerns: facilitating the Israeli embassy negotiations and respecting the sensitivities of Holocaust victims. The original symbol with central swastika continues in use in Asian Raëlian movement branches, where the swastika operates without the Western political-historical complications."
+title = "라엘 운동 무한의 상징"
+description = "라엘 운동 무한의 상징은 다윗의 별과 만(卍/卐, 스와스티카)을 결합한 것으로, 이 결합은 엘로힘 기억에 뿌리내린 무한한 순환의 관념을 응축한다. Wheel of Heaven 코퍼스는 두 기호의 비교사를 배경으로 그 기호학을 논한다."
 template = "wiki-page.html"
 toc = true
 

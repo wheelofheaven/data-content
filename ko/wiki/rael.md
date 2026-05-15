@@ -1,6 +1,6 @@
 +++
-title = "Raël"
-description = "Raël (Claude Vorilhon, born September 30, 1946, Vichy, France) is the French former motor-sports journalist who, on the morning of December 13, 1973, reported a contact with an officer of the civilization the Hebrew Bible calls the Elohim at the Puy-de-Lassolas volcanic crater near Clermont-Ferrand. The contact inaugurated the Aquarian-age prophetic mission and produced the body of teaching subsequently published as *The Book Which Tells the Truth* (1974), *Extra-Terrestrials Took Me to Their Planet* (1976), and *Let's Welcome the Extra-terrestrials* (1979) — collectively the Raëlian source material. Raël functions within the corpus's framework as the last of approximately forty prophets across human history, the specific Aquarian-age figure whose mission is to deliver the accurate account of human origins to a scientifically mature humanity, and the founder of the International Raëlian Movement (founded 1976), which serves as the institutional vehicle for the embassy project and the broader Aquarian-age preparation."
+title = "라엘"
+description = "라엘(본명 클로드 보리용, 1946년생)은 라엘 운동의 창시자로, 1973년과 1975년에 엘로힘으로부터 직접 전달을 받았다고 보고한다. Wheel of Heaven 코퍼스에서 그는 모세·예수·무함마드의 연속선상에 있는, 엘로힘 계보의 마지막으로 문서화된 예언자로 읽힌다."
 template = "wiki-page.html"
 toc = true
 

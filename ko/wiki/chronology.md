@@ -1,6 +1,6 @@
 +++
-title = "Chronology"
-description = "Chronology — the corpus's cosmic timeline of twelve precessional ages making up the Great Year. The substantive entry lives at World Age."
+title = "연대기"
+description = "연대기 — 대년(大年)을 이루는 열두 세차 시대로 구성된 코퍼스의 우주적 시간 축. 본격적인 항목은 「세계의 시대」에 있다."
 template = "wiki-page.html"
 toc = true
 

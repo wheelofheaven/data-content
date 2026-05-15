@@ -1,6 +1,6 @@
 +++
-title = "Synthetic genomics"
-description = "Synthetic genomics is the branch of life engineering concerned with the design, chemical synthesis, and assembly of complete genomes or large portions of genomes — the construction of an organism's entire hereditary material from designed sequence rather than from modification of existing biological templates. The field is the most ambitious wing of contemporary life engineering, operating at the scale of complete cellular life rather than at the sub-system scale of synthetic biology or the modify-existing scale of genetic engineering. On the Wheel of Heaven framework, synthetic genomics is the sub-discipline whose specific scale of operation — whole-organism construction from designed sequence — most directly matches the operational scale at which the Raëlian source material describes the Elohim's work."
+title = "합성유전체학"
+description = "합성유전체학은 게놈 전체를 설계하고 기록하며 조립하는 생명공학의 한 분과이다. Wheel of Heaven 코퍼스는 그것을 문명이 새로운 세계에 의도적으로 생명을 파종할 수 있게 하는 기술적 임계로 읽는다."
 template = "wiki-page.html"
 toc = true
 
