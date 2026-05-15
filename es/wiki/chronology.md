@@ -1,6 +1,6 @@
 +++
-title = "Chronology"
-description = "Chronology — the corpus's cosmic timeline of twelve precessional ages making up the Great Year. The substantive entry lives at World Age."
+title = "Cronología"
+description = "Cronología — la línea temporal cósmica del corpus de doce eras precesionales que constituyen el Gran Año. La entrada sustantiva se encuentra en Era del Mundo."
 template = "wiki-page.html"
 toc = true
 

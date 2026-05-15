@@ -1,6 +1,6 @@
 +++
-title = "Adamite struggle"
-description = "Adamite struggle — the Adamite community's journey to autonomy under the Serpent faction's influence. The corpus entry treats this under Serpentine Rebellion."
+title = "Lucha adamita"
+description = "Lucha adamita — el camino de la comunidad adamita hacia la autonomía bajo la influencia de la facción de la Serpiente. La entrada del corpus se trata bajo Rebelión Serpentina."
 template = "wiki-page.html"
 toc = true
 

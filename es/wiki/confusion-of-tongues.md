@@ -1,6 +1,6 @@
 +++
-title = "Confusion of tongues"
-description = "Confusion of tongues — the post-flood dispersion-of-languages event narrated in Genesis 11. In the corpus the substantive entry consolidates this under Babel."
+title = "Confusión de lenguas"
+description = "Confusión de lenguas — el evento post-diluviano de dispersión lingüística narrado en Génesis 11. En el corpus, la entrada sustantiva consolida este tema bajo Babel."
 template = "wiki-page.html"
 toc = true
 

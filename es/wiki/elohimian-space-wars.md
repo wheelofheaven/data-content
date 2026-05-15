@@ -1,6 +1,6 @@
 +++
-title = "Elohimian War"
-description = "Elohimian space wars — the post-flood armed conflict between Yahweh's faction and the exiled creators. The corpus entry consolidates this under Theomachy."
+title = "Guerra elohim"
+description = "Guerras espaciales elohim — el conflicto armado post-diluviano entre la facción de Yahvé y los creadores exiliados. La entrada del corpus consolida este tema bajo Teomaquia."
 template = "wiki-page.html"
 toc = true
 
