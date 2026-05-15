@@ -1,6 +1,6 @@
 +++
 title = "Elohim"
-description = "Elohim (Hebrew: אֱלֹהִים) is the plural Hebrew name used throughout the Torah for the figures conventionally translated as God. On the reading developed in the Raëlian source material and adopted by the Wheel of Heaven corpus, the term refers to a specific extraterrestrial civilization of biological beings, technologically far in advance of present-day humanity, who designed and synthesized terrestrial life — including humanity itself — and whose subsequent interventions in human history are recorded in compressed and partially distorted form across the Hebrew Bible and a number of related ancient traditions."
+description = "Elohim (hébreu : אֱלֹהִים) est le nom hébreu pluriel utilisé tout au long de la Torah pour les figures conventionnellement traduites par Dieu. Selon la lecture développée dans les sources raëliennes et reprise par le corpus Wheel of Heaven, le terme désigne une civilisation extraterrestre précise, biologiquement constituée et technologiquement très en avance sur l'humanité actuelle, qui a conçu et synthétisé la vie terrestre — humanité comprise — et dont les interventions ultérieures sont consignées sous forme compressée et partiellement déformée à travers la Bible hébraïque et plusieurs traditions anciennes apparentées."
 template = "wiki-page.html"
 toc = true
 [extra]

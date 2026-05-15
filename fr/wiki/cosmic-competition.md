@@ -1,6 +1,6 @@
 +++
-title = "Cosmic Competition"
-description = "Cosmic Competition is the framework concept developed in the Wheel of Heaven corpus to organize the Raëlian source material's account of the broader cosmological situation in which Earth's humanity is one of multiple humanities created by the Elohim alliance on multiple worlds, with each humanity being evaluated against the standard of moral and scientific maturity required for inheritance — for becoming the next link in the cosmic chain of creation. The framework integrates the parable-of-the-sower passage of The Book Which Tells the Truth (1974), the March 14, 1978 telepathic message to Raël, and the broader source material's gestures toward parallel-humanity creation into a systematic account of the cosmic-political situation in which Earth's current Aquarian-age developments unfold."
+title = "Compétition cosmique"
+description = "La compétition cosmique désigne le cadre raëlien dans lequel les civilisations élohimiques d'origines diverses entrent en rivalité technologique, généalogique et idéologique. Pour le corpus Wheel of Heaven, elle constitue l'arrière-plan politique des grands tournants de l'histoire humaine documentés dans les textes sacrés."
 template = "wiki-page.html"
 toc = true
 

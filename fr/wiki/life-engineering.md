@@ -1,6 +1,6 @@
 +++
-title = "Life engineering"
-description = "Life engineering is the application of scientific and engineering methods to the deliberate design and construction of living organisms or biological systems with novel functions, characteristics, or capabilities. It encompasses several adjacent disciplines — genetic engineering, synthetic biology, synthetic genomics, and xenobiology — that share the common project of treating living matter as something that can be designed at the molecular level rather than only observed and described. On the Wheel of Heaven framework, the emergence of this capability in present-day humanity is the framework's most concrete predicted convergence with the source material's account of the Elohim's work."
+title = "Ingénierie du vivant"
+description = "L'ingénierie du vivant est, dans le corpus Wheel of Heaven, le programme technique global recouvrant la biologie de synthèse, la génomique de synthèse et la terraformation — c'est-à-dire l'ensemble des compétences nécessaires pour ensemencer délibérément la vie sur un nouveau monde, comme l'auraient fait les Elohim sur Terre."
 template = "wiki-page.html"
 toc = true
 

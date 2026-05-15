@@ -1,6 +1,6 @@
 +++
-title = "Adamite struggle"
-description = "Adamite struggle — the Adamite community's journey to autonomy under the Serpent faction's influence. The corpus entry treats this under Serpentine Rebellion."
+title = "Lutte adamite"
+description = "La lutte adamite désigne le conflit entre les premiers humains synthétisés et leurs créateurs élohimiques, dont la résolution canonique est traitée dans l'entrée Rébellion serpentine."
 template = "wiki-page.html"
 toc = true
 

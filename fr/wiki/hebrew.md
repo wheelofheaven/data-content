@@ -1,6 +1,6 @@
 +++
-title = "Hebrew"
-description = "Hebrew (Hebrew: עִבְרִית, ʿivrit) is a Semitic language, the principal language of the Hebrew Bible, and — after a period of approximately two millennia in which it survived primarily as a liturgical and scholarly language — the official language of the modern State of Israel. On the reading developed in the Raëlian source material and adopted by the Wheel of Heaven corpus, ancient Hebrew is the Earth-side reflection of the spoken language of the Elohim civilization, transmitted to the first humans at their creation and preserved, in evolved form, through the Semitic language family and most distinctively in the language of the Hebrews themselves."
+title = "Hébreu"
+description = "L'hébreu (<span class=\"hebrew\">עִבְרִית</span>, ivrit) est la langue sémitique des textes fondateurs du judaïsme, dont le système triconsonantique et la polysémie compactée jouent un rôle décisif dans la lecture proposée par le corpus Wheel of Heaven."
 template = "wiki-page.html"
 toc = true
 

@@ -1,6 +1,6 @@
 +++
 title = "Bible"
-description = "Bible — the canonical anthology of Jewish and Christian scriptures. In the Wheel of Heaven corpus the substantive entry lives at Hebrew Bible / Tanakh."
+description = "La Bible — voir « Bible hébraïque » pour l'entrée canonique du corpus Wheel of Heaven."
 template = "wiki-page.html"
 toc = true
 

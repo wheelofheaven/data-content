@@ -1,6 +1,6 @@
 +++
-title = "Leviathan"
-description = "Leviathan — the Hebrew Bible's primordial sea-serpent. In the corpus, one of several names for the figure the Wheel of Heaven entry treats under Serpent."
+title = "Léviathan"
+description = "Léviathan — voir « Dragons » pour le traitement canonique des créatures composites primordiales dans le corpus Wheel of Heaven."
 template = "wiki-page.html"
 toc = true
 

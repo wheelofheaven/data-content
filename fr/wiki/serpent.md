@@ -1,6 +1,6 @@
 +++
 title = "Serpent"
-description = "The Serpent (Hebrew: נָחָשׁ, naḥash) is the figure in Genesis 3 who urges the first humans to eat from the Tree of the Knowledge of Good and Evil and is subsequently cursed and exiled. On the reading developed in the Raëlian source material and adopted by the Wheel of Heaven corpus, the Serpent is read not as a symbol but as a specific historical referent: a faction within the Israel team of Elohim creators — led by the figure later named Lucifer — who disagreed with the home world's restriction on the humans' education and provided them with access to the scientific knowledge that had been withheld."
+description = "Le serpent — figure du tentateur dans la Genèse et de la sagesse rebelle dans nombre de traditions — est lu, dans le corpus Wheel of Heaven, comme l'opérateur narratif central de la rébellion serpentine au sein de la hiérarchie élohimique."
 template = "wiki-page.html"
 toc = true
 

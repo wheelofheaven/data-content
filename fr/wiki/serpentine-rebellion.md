@@ -1,6 +1,6 @@
 +++
-title = "Serpentine Rebellion"
-description = "Earlier name for the faction's defiance of Yahweh — now treated under Theomachy as part of the same cosmic conflict."
+title = "Rébellion serpentine"
+description = "La rébellion serpentine est, dans le corpus Wheel of Heaven, le grand schisme interne à la civilisation élohimique au moment des origines humaines — une faction technique dissidente s'opposant à la politique majoritaire à l'égard des prototypes adamites."
 template = "wiki-page.html"
 
 [extra]

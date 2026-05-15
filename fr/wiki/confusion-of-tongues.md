@@ -1,6 +1,6 @@
 +++
-title = "Confusion of tongues"
-description = "Confusion of tongues — the post-flood dispersion-of-languages event narrated in Genesis 11. In the corpus the substantive entry consolidates this under Babel."
+title = "Confusion des langues"
+description = "La confusion des langues, narrée en Genèse 11, est l'épisode où la langue unique de l'humanité post-diluvienne se fragmente après l'érection de la tour de Babel. Dans le corpus Wheel of Heaven, elle est lue comme une intervention élohimique délibérée visant à diversifier les lignées humaines et à freiner une convergence technologique prématurée."
 template = "wiki-page.html"
 toc = true
 

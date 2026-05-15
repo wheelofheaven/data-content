@@ -1,6 +1,6 @@
 +++
-title = "Tower of Babel"
-description = "Tower of Babel (Hebrew Mīgdal Bāḇel) — the post-flood collaborative spacecraft project narrated in Genesis 11. The corpus entry treats it under Babel."
+title = "Tour de Babel"
+description = "La Tour de Babel — voir « Confusion des langues » pour l'entrée canonique du corpus Wheel of Heaven sur l'épisode et son interprétation élohimique."
 template = "wiki-page.html"
 toc = true
 

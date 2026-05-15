@@ -1,6 +1,6 @@
 +++
-title = "Jesus"
-description = "Jesus of Nazareth (Hebrew: יֵשׁוּעַ, Yeshuaʿ; Greek: Ἰησοῦς, Iēsoûs) is a first-century Jewish preacher and healer whose ministry, execution, and post-mortem appearances founded the Christian tradition. On the reading developed in the Raëlian source material and adopted by the Wheel of Heaven corpus, Jesus is read as a deliberate alliance project — a biological hybrid of a human mother and an Eloha father, conceived, prepared, and commissioned to inaugurate the Age of Pisces and to distribute the message of the Hebrew Bible to the wider world that the Hebrew lineage alone had failed to reach."
+title = "Jésus"
+description = "Jésus (hébreu : יֵשׁוּעַ, Yeshua) est la figure centrale du christianisme, prophète messianique d'origine juive. Dans le corpus Wheel of Heaven, il est lu comme l'un des prophètes envoyés par les Elohim pour relayer un message adapté à son époque, dans la continuité de la lignée prophétique."
 template = "wiki-page.html"
 toc = true
 
