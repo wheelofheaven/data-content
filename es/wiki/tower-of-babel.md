@@ -1,6 +1,6 @@
 +++
-title = "Tower of Babel"
-description = "Tower of Babel (Hebrew Mīgdal Bāḇel) — the post-flood collaborative spacecraft project narrated in Genesis 11. The corpus entry treats it under Babel."
+title = "Torre de Babel"
+description = "Torre de Babel (hebreo <span class=\"hebrew\">מִגְדַּל בָּבֶל</span> *Migdal Bavel*) — el proyecto colaborativo post-diluviano de nave espacial narrado en Génesis 11. La entrada del corpus se trata bajo Babel."
 template = "wiki-page.html"
 toc = true
 

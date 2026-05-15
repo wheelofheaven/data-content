@@ -1,6 +1,6 @@
 +++
-title = "List of mythemes and mythological motifs"
-description = "A reference catalogue of the principal cross-cultural mythological motifs the Wheel of Heaven framework reads as preserving, in mythologised form, historical content from the Elohim's interaction with human populations across the Earth project. The catalogue uses Stith Thompson's *Motif-Index of Folk-Literature* (1955) as its principal academic classification instrument and supplies, for each motif, a brief inventory of cross-cultural attestations and the framework's adopted reading of what the motif preserves. The corpus's interpretive method translates mythological patterns into operational terms consistent with the source material's account, on the working hypothesis that the wide cross-cultural distribution of certain motifs reflects shared historical reference rather than coincidence or independent invention."
+title = "Lista de mitemas y motivos mitológicos"
+description = "Lista de mitemas y motivos mitológicos — compilación curada de los patrones estructurales mitológicos transculturales principales (mito del Diluvio, Chaoskampf, tópico de la Edad de Oro, viaje del héroe, motivo de la serpiente maestra, motivo del matador de dragones, motivo de la ciudad-en-monte-de-los-dioses y otros), identificados en el material mitológico comparado y empleados por el marco Wheel of Heaven para la reconstrucción operativa de la tradición histórica Elohim."
 template = "wiki-page.html"
 toc = true
 

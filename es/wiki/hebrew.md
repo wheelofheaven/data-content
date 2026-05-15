@@ -1,6 +1,6 @@
 +++
-title = "Hebrew"
-description = "Hebrew (Hebrew: עִבְרִית, ʿivrit) is a Semitic language, the principal language of the Hebrew Bible, and — after a period of approximately two millennia in which it survived primarily as a liturgical and scholarly language — the official language of the modern State of Israel. On the reading developed in the Raëlian source material and adopted by the Wheel of Heaven corpus, ancient Hebrew is the Earth-side reflection of the spoken language of the Elohim civilization, transmitted to the first humans at their creation and preserved, in evolved form, through the Semitic language family and most distinctively in the language of the Hebrews themselves."
+title = "Hebreo"
+description = "El hebreo (hebreo <span class=\"hebrew\">עִבְרִית</span> *ʿIvrit*) es la lengua semítica del noroeste de la Biblia hebrea y la tradición lingüística litúrgica, bíblico-rabínica y contemporánea israelí asociada — la única lengua semítica de evolución natural que, tras unos dos mil años de uso primario como lengua de culto y estudio en el exilio y la diáspora, fue revivida como lengua de uso diario (por Eliezer Ben-Yehuda y el movimiento sionista desde finales de los años 1880). El hebreo se trata en la lectura del corpus Wheel of Heaven como lengua fuente central para la reconstrucción operativa de las narrativas Elohim — las raíces hebreas que la fuente de Vorilhon identifica como lengua original del mundo natal Elohim y que se conservan en la Biblia hebrea de forma técnicamente sustancial se leen, en el marco de la tradición de lectura literal-filológica (Biglino, Dhorme, Naked Bible), como puente inmediato al núcleo fuente de la historia Elohim."
 template = "wiki-page.html"
 toc = true
 

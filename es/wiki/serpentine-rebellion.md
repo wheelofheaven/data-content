@@ -1,6 +1,6 @@
 +++
-title = "Serpentine Rebellion"
-description = "Earlier name for the faction's defiance of Yahweh — now treated under Theomachy as part of the same cosmic conflict."
+title = "Rebelión Serpentina"
+description = "Rebelión Serpentina — la configuración operativa especificada en la tradición Wheel of Heaven del conflicto de escisión de la facción de la Serpiente contra la facción de Yahvé dentro de la Alianza Elohim. La entrada sustantiva se encuentra en Teomaquia, como parte del conflicto cósmico más amplio."
 template = "wiki-page.html"
 
 [extra]
