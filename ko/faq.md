@@ -328,11 +328,11 @@ question = "프로젝트를 어떻게 인용할 수 있는가?"
 answer = """
 권장 인용:
 
-> Zinsfuss, Zara. *Wheel of Heaven*. wheelofheaven.io. 접속일 [날짜].
+> Zinsfuss, Zara. *Wheel of Heaven*. wheelofheaven.world. 접속일 [날짜].
 
 특정 페이지의 경우, 페이지 제목과 URL을 추가한다:
 
-> Zinsfuss, Zara. 「염소자리 시대」. *Wheel of Heaven*. https://www.wheelofheaven.io/ko/timeline/age-of-capricorn/. 접속일 [날짜].
+> Zinsfuss, Zara. 「염소자리 시대」. *Wheel of Heaven*. https://www.wheelofheaven.world/ko/timeline/age-of-capricorn/. 접속일 [날짜].
 """
 
 [[extra.faq_groups.items]]

@@ -38,7 +38,7 @@ Die Seite bindet keine Tracker-Skripte von Drittanbietern ein. Wenn eine Seite a
 
 ## Einstellungen entfernen
 
-Sie können die gespeicherten Einstellungen der Seite jederzeit über die Einstellungen Ihres Browsers löschen (typischerweise: Website-Einstellungen → Cookies und Website-Daten → Daten für `wheelofheaven.io` löschen). Die Seite funktioniert weiter; sie wird beim nächsten Besuch nur Ihr Theme und Ihre Sprache vergessen haben.
+Sie können die gespeicherten Einstellungen der Seite jederzeit über die Einstellungen Ihres Browsers löschen (typischerweise: Website-Einstellungen → Cookies und Website-Daten → Daten für `wheelofheaven.world` löschen). Die Seite funktioniert weiter; sie wird beim nächsten Besuch nur Ihr Theme und Ihre Sprache vergessen haben.
 
 ## Änderungen dieser Richtlinie
 

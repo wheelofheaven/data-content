@@ -18,7 +18,7 @@ signature_year_alt = "2026 en el calendario gregoriano"
 [extra.author_info]
 id = "zara-zinsfuss"
 name = "Zara Zinsfuss"
-url = "https://www.wheelofheaven.io/es/author/zara-zinsfuss/"
+url = "https://www.wheelofheaven.world/es/author/zara-zinsfuss/"
 job_title = "Autora, Wheel of Heaven"
 description = "Lectora independiente y raëliana; autora del corpus Wheel of Heaven."
 knows_about = [

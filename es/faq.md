@@ -328,11 +328,11 @@ question = "¿Cómo puedo citar el proyecto?"
 answer = """
 Citación sugerida:
 
-> Zinsfuss, Zara. *Wheel of Heaven*. wheelofheaven.io. Consultado el [fecha].
+> Zinsfuss, Zara. *Wheel of Heaven*. wheelofheaven.world. Consultado el [fecha].
 
 Para páginas específicas, añada el título de la página y la URL:
 
-> Zinsfuss, Zara. «Edad de Capricornio.» *Wheel of Heaven*. https://www.wheelofheaven.io/es/timeline/age-of-capricorn/. Consultado el [fecha].
+> Zinsfuss, Zara. «Edad de Capricornio.» *Wheel of Heaven*. https://www.wheelofheaven.world/es/timeline/age-of-capricorn/. Consultado el [fecha].
 """
 
 [[extra.faq_groups.items]]

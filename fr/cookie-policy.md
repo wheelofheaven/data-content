@@ -38,7 +38,7 @@ Le site n'embarque aucun script de suivi tiers. Si une page renvoie vers une res
 
 ## Effacer les préférences
 
-Vous pouvez à tout moment effacer les préférences enregistrées par le site via les réglages de votre navigateur (en général : paramètres du site → cookies et données du site → effacer les données pour `wheelofheaven.io`). Le site continuera de fonctionner ; il oubliera simplement votre thème et votre langue à la visite suivante.
+Vous pouvez à tout moment effacer les préférences enregistrées par le site via les réglages de votre navigateur (en général : paramètres du site → cookies et données du site → effacer les données pour `wheelofheaven.world`). Le site continuera de fonctionner ; il oubliera simplement votre thème et votre langue à la visite suivante.
 
 ## Modifications de cette politique
 

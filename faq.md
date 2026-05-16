@@ -344,11 +344,11 @@ question = "How can I cite the project?"
 answer = """
 Suggested citation:
 
-> Zinsfuss, Zara. *Wheel of Heaven*. wheelofheaven.io. Accessed [date].
+> Zinsfuss, Zara. *Wheel of Heaven*. wheelofheaven.world. Accessed [date].
 
 For specific pages, append the page title and URL:
 
-> Zinsfuss, Zara. "Age of Capricorn." *Wheel of Heaven*. https://www.wheelofheaven.io/timeline/age-of-capricorn/. Accessed [date].
+> Zinsfuss, Zara. "Age of Capricorn." *Wheel of Heaven*. https://www.wheelofheaven.world/timeline/age-of-capricorn/. Accessed [date].
 """
 
 [[extra.faq_groups.items]]

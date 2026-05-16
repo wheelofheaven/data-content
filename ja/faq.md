@@ -328,11 +328,11 @@ question = "プロジェクトをどう引用すればよいか？"
 answer = """
 推奨される引用：
 
-> Zinsfuss, Zara. *Wheel of Heaven*. wheelofheaven.io. アクセス日：[日付]。
+> Zinsfuss, Zara. *Wheel of Heaven*. wheelofheaven.world. アクセス日：[日付]。
 
 特定のページについては、ページタイトルとURLを付加する：
 
-> Zinsfuss, Zara.「山羊座の時代」。*Wheel of Heaven*. https://www.wheelofheaven.io/ja/timeline/age-of-capricorn/. アクセス日：[日付]。
+> Zinsfuss, Zara.「山羊座の時代」。*Wheel of Heaven*. https://www.wheelofheaven.world/ja/timeline/age-of-capricorn/. アクセス日：[日付]。
 """
 
 [[extra.faq_groups.items]]

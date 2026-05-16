@@ -11,8 +11,8 @@ Source content for the Wheel of Heaven knowledge base. This repository contains 
 ## Overview
 
 This content is consumed by multiple targets:
-- **[www.wheelofheaven.io](https://www.wheelofheaven.io)** - Main website (Zola static site)
-- **[api.wheelofheaven.io](https://api.wheelofheaven.io)** - JSON API endpoints
+- **[www.wheelofheaven.world](https://www.wheelofheaven.world)** - Main website (Zola static site)
+- **[api.wheelofheaven.world](https://api.wheelofheaven.world)** - JSON API endpoints
 
 ## Structure
 
@@ -72,7 +72,7 @@ Content body in Markdown...
 This repository is used as a Git submodule:
 
 ```bash
-# In www.wheelofheaven.io
+# In www.wheelofheaven.io (the main website repo)
 git submodule add git@github.com:wheelofheaven/data-content.git content
 
 # Update to latest
@@ -85,7 +85,7 @@ git submodule update --remote content
 2. Create a branch for your changes
 3. Submit a pull request
 
-See [Contributing Guidelines](https://www.wheelofheaven.io/contributing) for details.
+See [Contributing Guidelines](https://www.wheelofheaven.world/contributing) for details.
 
 ## License
 

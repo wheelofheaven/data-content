@@ -328,11 +328,11 @@ question = "如何引用本项目？"
 answer = """
 建议的引用格式：
 
-> Zinsfuss, Zara. *Wheel of Heaven*. wheelofheaven.io. 访问于 [日期]。
+> Zinsfuss, Zara. *Wheel of Heaven*. wheelofheaven.world. 访问于 [日期]。
 
 针对具体页面，请附上页面标题与 URL：
 
-> Zinsfuss, Zara. 「摩羯时代」。*Wheel of Heaven*. https://www.wheelofheaven.io/zh/timeline/age-of-capricorn/. 访问于 [日期]。
+> Zinsfuss, Zara. 「摩羯时代」。*Wheel of Heaven*. https://www.wheelofheaven.world/zh/timeline/age-of-capricorn/. 访问于 [日期]。
 """
 
 [[extra.faq_groups.items]]

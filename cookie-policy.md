@@ -44,7 +44,7 @@ The site embeds no third-party tracking scripts. If a page links to an external 
 
 ## Disabling preferences
 
-You can clear the site's stored preferences at any time through your browser's settings (typically: site settings → cookies and site data → clear data for `wheelofheaven.io`). The site will continue to work; it will simply forget your theme and language choices on the next visit.
+You can clear the site's stored preferences at any time through your browser's settings (typically: site settings → cookies and site data → clear data for `wheelofheaven.world`). The site will continue to work; it will simply forget your theme and language choices on the next visit.
 
 ## Changes to this policy
 

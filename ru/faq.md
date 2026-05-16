@@ -328,11 +328,11 @@ question = "Как мне цитировать проект?"
 answer = """
 Предлагаемая ссылка:
 
-> Зинсфусс, Зара. *Wheel of Heaven*. wheelofheaven.io. Дата обращения: [дата].
+> Зинсфусс, Зара. *Wheel of Heaven*. wheelofheaven.world. Дата обращения: [дата].
 
 Для конкретных страниц добавьте заголовок страницы и URL:
 
-> Зинсфусс, Зара. «Век Козерога». *Wheel of Heaven*. https://www.wheelofheaven.io/ru/timeline/age-of-capricorn/. Дата обращения: [дата].
+> Зинсфусс, Зара. «Век Козерога». *Wheel of Heaven*. https://www.wheelofheaven.world/ru/timeline/age-of-capricorn/. Дата обращения: [дата].
 """
 
 [[extra.faq_groups.items]]

@@ -38,7 +38,7 @@ El sitio no incrusta scripts de rastreo de terceros. Si una página enlaza a un 
 
 ## Cómo borrar las preferencias
 
-Puedes borrar las preferencias almacenadas del sitio en cualquier momento desde la configuración de tu navegador (normalmente: ajustes del sitio → cookies y datos del sitio → borrar datos para `wheelofheaven.io`). El sitio seguirá funcionando; simplemente olvidará tu tema e idioma en la próxima visita.
+Puedes borrar las preferencias almacenadas del sitio en cualquier momento desde la configuración de tu navegador (normalmente: ajustes del sitio → cookies y datos del sitio → borrar datos para `wheelofheaven.world`). El sitio seguirá funcionando; simplemente olvidará tu tema e idioma en la próxima visita.
 
 ## Cambios en esta política
 

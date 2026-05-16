@@ -300,7 +300,7 @@ Ball, Philip. *How Life Works: A User's Guide to the New Biology*. Picador / Uni
 
 "Ancient astronauts." *Wikipedia*. <https://en.wikipedia.org/wiki/Ancient_astronauts>
 
-"Neo-Euhemerism." Wheel of Heaven (project topic page). <https://www.wheelofheaven.io/resources/topics/neo-euhemerism/>
+"Neo-Euhemerism." Wheel of Heaven (project topic page). <https://www.wheelofheaven.world/resources/topics/neo-euhemerism/>
 
 International Raëlian Movement. <https://www.rael.org>
 
