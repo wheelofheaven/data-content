@@ -1,0 +1,2398 @@
+{
+  "$schema": "./translation-glossary-schema.json",
+  "name": "Wheel of Heaven Translation Glossary",
+  "version": "1.9.0",
+  "released": "2026-05-19",
+  "description": "Lexical decisions made by the Wheel of Heaven Translation Program. Distinct from content/i18n/glossary.json, which records site-UI terminology. Each entry records a source-language term, the standard PD-translation rendering, the WoH choice, the rationale, and the verses where the choice applies. Pinned to per-chapter translations via `glossaryVersion` in chapter metadata.",
+  "sourceLanguages": [
+    "he"
+  ],
+  "scopeNote": "v1.0.0 covers Genesis 1 only. Subsequent releases expand the scope incrementally — terms are added when a translation chapter needs them, not in anticipation.",
+  "terms": [
+    {
+      "id": "bereshit",
+      "source": "בְּרֵאשִׁית",
+      "translit": "bereshit",
+      "strongs": "H7225",
+      "partOfSpeech": "noun-construct + prep",
+      "literal": "in beginning-of",
+      "standardEnglish": "In the beginning",
+      "wohChoice": "When (Elohim) began to",
+      "claim_type": "inferred",
+      "rationale": "The Hebrew is a construct form without a definite article — בְּרֵאשִׁית means 'in beginning-of', not 'in the beginning' (which would require בָּרֵאשִׁית). The verse is grammatically a temporal clause introducing v2, not a freestanding declaration. The Rashi-favoured 'when Elohim began to create' reading (also adopted by NJPS, NRSV, and the major modern scholarly translations) preserves this structure. The traditional 'In the beginning' is a Christian-tradition reading that fixes a doctrine of creatio ex nihilo onto a Hebrew that doesn't grammatically support it. Restoring the construct sharpens the WoH lens: the text describes a project beginning, not the absolute origin of all matter.",
+      "appliesTo": [
+        "GEN-1:1"
+      ]
+    },
+    {
+      "id": "elohim-as-translation",
+      "source": "אֱלֹהִים",
+      "translit": "elohim",
+      "strongs": "H430",
+      "partOfSpeech": "noun, masculine plural",
+      "literal": "(the) elohim",
+      "standardEnglish": "God",
+      "wohChoice": "the Elohim (with article in narrative)",
+      "claim_type": "direct",
+      "rationale": "The form is grammatically masculine plural (-im ending). The translation 'God' (singular) is a theological smoothing inherited from the LXX's choice to render with singular Θεός and confirmed by Vulgate's Deus. The plural form is preserved as 'Elohim' (untranslated) per existing WoH convention (see content/i18n/glossary.json #elohim). Plural verbs and pronouns governing Elohim are flagged in their own entries — see na'aseh.\n\n**Article convention.** In narrative passages the bare proper-name form 'Elohim said' reads to English speakers as a singular proper noun (like 'Yahweh said'), which silently re-imports the singular smoothing the WoH translation is explicitly rejecting. Rendering as 'the Elohim said' treats Elohim as a plural class-noun in English (parallel to 'the Egyptians', 'the Anunnaki') and carries the plural sense visibly in every occurrence. The article is dropped only inside the compound proper name YHWH-Elohim (Genesis 2:4 onward), which functions as a single divine name. Pronouns and verb agreement still mirror the Hebrew: where the Hebrew governs Elohim with singular verbs/pronouns (e.g., בְּצַלְמוֹ b'tsalmo 'in his image' in 1:27), the English keeps the singular ('his/he'); where the Hebrew breaks into plural (e.g., the cohortative נַעֲשֶׂה na'aseh 'let us make' in 1:26), the English follows ('us/our'). The agreement seam is the text's own, preserved rather than smoothed.",
+      "appliesTo": [
+        "GEN-1:1",
+        "GEN-1:2",
+        "GEN-1:3",
+        "GEN-1:4",
+        "GEN-1:5",
+        "GEN-1:6",
+        "GEN-1:7",
+        "GEN-1:8",
+        "GEN-1:9",
+        "GEN-1:10",
+        "GEN-1:11",
+        "GEN-1:12",
+        "GEN-1:14",
+        "GEN-1:16",
+        "GEN-1:17",
+        "GEN-1:18",
+        "GEN-1:20",
+        "GEN-1:21",
+        "GEN-1:22",
+        "GEN-1:24",
+        "GEN-1:25",
+        "GEN-1:26",
+        "GEN-1:27",
+        "GEN-1:28",
+        "GEN-1:29",
+        "GEN-1:31"
+      ]
+    },
+    {
+      "id": "bara",
+      "source": "בָּרָא",
+      "translit": "bara",
+      "strongs": "H1254",
+      "partOfSpeech": "verb, qal",
+      "literal": "shape, fashion, bring into being",
+      "standardEnglish": "create",
+      "wohChoice": "shape",
+      "claim_type": "inferred",
+      "rationale": "בָּרָא in the Qal is one of three distinct creation verbs in Genesis 1 (with עָשָׂה asah 'make' and יָצַר yatsar 'form'). All three are flattened to 'create/make' in the canonical English translations, losing a deliberate distinction. בָּרָא specifically denotes shaping or fashioning — its qal usage is reserved for Elohim's action throughout the Hebrew Bible (Gesenius §17), which has often been read theologically as 'create ex nihilo'. The lexical core, however, is the act of shaping — compare the cognate בָּרָא in the Piel meaning 'cut out, fashion'. Rendering as 'shape' preserves the verb's distinctness from asah without inserting a metaphysical claim either way.",
+      "appliesTo": [
+        "GEN-1:1",
+        "GEN-1:21",
+        "GEN-1:27"
+      ]
+    },
+    {
+      "id": "asah",
+      "source": "עָשָׂה",
+      "translit": "asah",
+      "strongs": "H6213",
+      "partOfSpeech": "verb, qal",
+      "literal": "make, do, work",
+      "standardEnglish": "made",
+      "wohChoice": "made",
+      "claim_type": "direct",
+      "rationale": "עָשָׂה is the general Hebrew verb of making/doing across the corpus. In Gen 1 it is used where bara would be theologically over-specified — for the firmament (v7), the two lights (v16), the beasts (v25), and humanity (v26 'let us make'). The standard 'made' is correct; the choice point is keeping it lexically distinct from bara/yatsar so the reader can see the deliberate verb pattern. Where the canonical translations interchange bara and asah ('created the great sea-monsters' / 'made the firmament') the WoH translation preserves them apart.",
+      "appliesTo": [
+        "GEN-1:7",
+        "GEN-1:11",
+        "GEN-1:12",
+        "GEN-1:16",
+        "GEN-1:25",
+        "GEN-1:26",
+        "GEN-1:31"
+      ]
+    },
+    {
+      "id": "shamayim",
+      "source": "שָׁמַיִם",
+      "translit": "shamayim",
+      "strongs": "H8064",
+      "partOfSpeech": "noun, masculine dual",
+      "literal": "(the) heavens/skies",
+      "standardEnglish": "heaven",
+      "wohChoice": "skies",
+      "claim_type": "direct",
+      "rationale": "שָׁמַיִם is grammatically dual (the -ayim ending). Hebrew has no singular form for sky/heaven — the dual is the lexical default. Rendering as singular 'heaven' (as KJV/ASV do) imports a later theological 'heaven-the-realm' concept onto a word that simply means 'the skies' in the physical sense. 'Skies' is closer to the cosmological register Gen 1 actually operates in and preserves the dual implication. Where the text demands a more numinous register (e.g. כֹּכְבֵי הַשָּׁמַיִם 'stars of the skies'), the rendering scales accordingly.",
+      "appliesTo": [
+        "GEN-1:1",
+        "GEN-1:8",
+        "GEN-1:9",
+        "GEN-1:14",
+        "GEN-1:15",
+        "GEN-1:17",
+        "GEN-1:20",
+        "GEN-1:26",
+        "GEN-1:28",
+        "GEN-1:30"
+      ]
+    },
+    {
+      "id": "eretz",
+      "source": "אֶרֶץ",
+      "translit": "eretz",
+      "strongs": "H776",
+      "partOfSpeech": "noun, feminine singular",
+      "literal": "land, earth, ground",
+      "standardEnglish": "earth",
+      "wohChoice": "land",
+      "claim_type": "inferred",
+      "rationale": "אֶרֶץ in Hebrew covers a spectrum from 'patch of ground' to 'inhabited territory' to 'the whole inhabited world'. The capital-E 'Earth' (the planet) is a 17th-century-onwards English meaning that has no clean Hebrew equivalent. In Gen 1, אֶרֶץ is paired with שָׁמַיִם — they're a hendiadys for 'the whole physical setting'. 'Land' preserves the Hebrew register; 'earth' (lowercase, when the meaning is the dry ground as opposed to seas) is acceptable in some verses, but the default WoH choice is 'land'. Where the verse explicitly contrasts 'land' (dry) with 'seas' (water) (e.g. v10), 'land' is the more accurate choice anyway.",
+      "appliesTo": [
+        "GEN-1:1",
+        "GEN-1:2",
+        "GEN-1:10",
+        "GEN-1:11",
+        "GEN-1:12",
+        "GEN-1:15",
+        "GEN-1:17",
+        "GEN-1:20",
+        "GEN-1:22",
+        "GEN-1:24",
+        "GEN-1:25",
+        "GEN-1:26",
+        "GEN-1:28",
+        "GEN-1:29",
+        "GEN-1:30"
+      ]
+    },
+    {
+      "id": "tohu-vavohu",
+      "source": "תֹהוּ וָבֹהוּ",
+      "translit": "tohu vavohu",
+      "strongs": "H8414, H922",
+      "partOfSpeech": "noun pair, alliterative hendiadys",
+      "literal": "wasteland and emptiness",
+      "standardEnglish": "without form, and void",
+      "wohChoice": "wasteland and emptiness",
+      "claim_type": "inferred",
+      "rationale": "תֹהוּ וָבֹהוּ is an alliterative pair found together only here and in Jer 4:23 (where it describes a depopulated post-disaster landscape) and Isa 34:11 (similar). The KJV 'without form, and void' renders the pair philosophically (matter without form, Aristotelian); the Hebrew is concrete — a desolate, empty terrain. 'Wasteland and emptiness' preserves the alliterative pair (the -au / -ohu echo) and the concrete imagery. Cf. NJPS 'unformed and void', NRSV 'formless void' — closer to KJV than to the Hebrew. For the WoH lens, the choice matters: a 'wasteland and emptiness' is a pre-project site, not a metaphysical pre-form-and-matter chaos.",
+      "appliesTo": [
+        "GEN-1:2"
+      ]
+    },
+    {
+      "id": "tehom",
+      "source": "תְהוֹם",
+      "translit": "tehom",
+      "strongs": "H8415",
+      "partOfSpeech": "noun, feminine (often pers. as deep)",
+      "literal": "(the) deep",
+      "standardEnglish": "the deep",
+      "wohChoice": "the deep",
+      "claim_type": "direct",
+      "rationale": "תְהוֹם is etymologically and conceptually cognate with Akkadian tiāmtu (cf. Tiamat of Enuma Elish, where the goddess is the primordial salt-sea). The Hebrew has demythologized the term but the word is preserved. 'The deep' is the standard rendering and is correct. The WoH note pointing readers to the Tiamat parallel belongs in the methodology page, not in the translated text.",
+      "appliesTo": [
+        "GEN-1:2"
+      ]
+    },
+    {
+      "id": "ruach-elohim",
+      "source": "רוּחַ אֱלֹהִים",
+      "translit": "ruach elohim",
+      "strongs": "H7307, H430",
+      "partOfSpeech": "construct phrase: noun + noun",
+      "literal": "breath/wind of Elohim",
+      "standardEnglish": "Spirit of God",
+      "wohChoice": "breath of Elohim",
+      "claim_type": "inferred",
+      "rationale": "רוּחַ has three lexical fields: 'breath', 'wind', 'spirit' — the choice is context-driven and Hebrew does not disambiguate. The KJV/ASV 'Spirit of God' is a Trinitarian-tradition reading retrojected onto Gen 1:2; the Hebrew supports 'wind' (cf. NJPS 'a wind from God'), 'breath' (cf. several modern translations), or 'spirit' (the inherited choice). For the WoH lens, 'breath' is preferable: it preserves the physical/atmospheric register the verse operates in and avoids importing a doctrinal claim. The hovering verb in the next clause (merachefet, see entry) supports a physical reading — wind/breath hovers over water; 'Spirit' does not, in any natural register.",
+      "appliesTo": [
+        "GEN-1:2"
+      ]
+    },
+    {
+      "id": "merachefet",
+      "source": "מְרַחֶפֶת",
+      "translit": "merachefet",
+      "strongs": "H7363",
+      "partOfSpeech": "verb, piel feminine participle",
+      "literal": "(was) hovering/fluttering",
+      "standardEnglish": "moved upon",
+      "wohChoice": "was hovering over",
+      "claim_type": "direct",
+      "rationale": "רחף in the Piel means to hover or flutter — Deut 32:11 uses it of a mother eagle over her young. The KJV 'moved upon' loses the specifically hovering aerial sense. 'Was hovering over' is the consensus modern reading (NJPS, NRSV, ESV) and preserves the bird-image. Combined with the ruach='breath/wind' reading in the same verse, the image is concrete and physical.",
+      "appliesTo": [
+        "GEN-1:2"
+      ]
+    },
+    {
+      "id": "yehi",
+      "source": "יְהִי",
+      "translit": "yehi",
+      "strongs": "H1961",
+      "partOfSpeech": "verb, qal jussive 3ms",
+      "literal": "let-it-be",
+      "standardEnglish": "Let there be",
+      "wohChoice": "Let there be",
+      "claim_type": "direct",
+      "rationale": "The jussive form expresses a command/wish. 'Let there be' is correct and is the standard rendering. Preserved unchanged.",
+      "appliesTo": [
+        "GEN-1:3",
+        "GEN-1:6",
+        "GEN-1:14"
+      ]
+    },
+    {
+      "id": "or",
+      "source": "אוֹר",
+      "translit": "or",
+      "strongs": "H216",
+      "partOfSpeech": "noun, masculine",
+      "literal": "light",
+      "standardEnglish": "light",
+      "wohChoice": "light",
+      "claim_type": "direct",
+      "rationale": "Standard rendering, unchanged. Note for methodology: the light of v3 is separate from the sun and moon of v14-16 (which haven't been positioned yet at v3). This is a textual feature the WoH lens should surface in the methodology, not paper over.",
+      "appliesTo": [
+        "GEN-1:3",
+        "GEN-1:4",
+        "GEN-1:5",
+        "GEN-1:18"
+      ]
+    },
+    {
+      "id": "vayar-tov",
+      "source": "וַיַּרְא ... כִּי טוֹב",
+      "translit": "vayar ... ki tov",
+      "strongs": "H7200, H2896",
+      "partOfSpeech": "verb + conj + adj",
+      "literal": "and-saw ... that good",
+      "standardEnglish": "saw that it was good",
+      "wohChoice": "saw that it was good",
+      "claim_type": "direct",
+      "rationale": "The formulaic phrase that closes each creation day. 'Good' is the correct rendering of טוֹב here. Preserved unchanged. The methodology note will track the formulaic structure — six days, six closings, with variations on day 2 (no 'good') and day 6 ('very good') as deliberate signals.",
+      "appliesTo": [
+        "GEN-1:4",
+        "GEN-1:10",
+        "GEN-1:12",
+        "GEN-1:18",
+        "GEN-1:21",
+        "GEN-1:25"
+      ]
+    },
+    {
+      "id": "yom",
+      "source": "יוֹם",
+      "translit": "yom",
+      "strongs": "H3117",
+      "partOfSpeech": "noun, masculine",
+      "literal": "day",
+      "standardEnglish": "day",
+      "wohChoice": "day",
+      "claim_type": "direct",
+      "rationale": "Standard rendering. The 'how long is a day' question is a methodology-page discussion, not a translation choice — the Hebrew says יוֹם and the rendering says 'day'. The recurring formulaic close (vayehi erev vayehi voqer yom X 'and there was evening and there was morning, day X') is a structural feature the methodology surfaces.",
+      "appliesTo": [
+        "GEN-1:5",
+        "GEN-1:8",
+        "GEN-1:13",
+        "GEN-1:14",
+        "GEN-1:16",
+        "GEN-1:18",
+        "GEN-1:19",
+        "GEN-1:23",
+        "GEN-1:31"
+      ]
+    },
+    {
+      "id": "raqia",
+      "source": "רָקִיעַ",
+      "translit": "raqia",
+      "strongs": "H7549",
+      "partOfSpeech": "noun, masculine",
+      "literal": "(a) beaten-out expanse / dome",
+      "standardEnglish": "firmament",
+      "wohChoice": "dome",
+      "claim_type": "inferred",
+      "rationale": "רָקִיעַ derives from the verb רקע 'to beat/hammer out (metal)'. The LXX renders στερέωμα 'solid/firm thing', whence Vulgate firmamentum, whence English 'firmament'. The Hebrew picture is of a solid dome hammered out across the sky — consistent with the ANE cosmology of a vault above the earth holding back the upper waters (cf. v6-7, where the raqia is explicitly placed 'between waters and waters'). 'Dome' (cf. NRSV) preserves this; 'firmament' is technically defensible via Latin but obscures the imagery; 'expanse' (ESV, NIV) is a modern softening that papers over the solid-dome cosmology. The WoH choice is 'dome' — accurate to the Hebrew picture; whether the picture corresponds to physical reality is a separate question the methodology can address.",
+      "appliesTo": [
+        "GEN-1:6",
+        "GEN-1:7",
+        "GEN-1:8",
+        "GEN-1:14",
+        "GEN-1:15",
+        "GEN-1:17",
+        "GEN-1:20"
+      ]
+    },
+    {
+      "id": "mayim",
+      "source": "מַיִם",
+      "translit": "mayim",
+      "strongs": "H4325",
+      "partOfSpeech": "noun, masculine dual",
+      "literal": "waters",
+      "standardEnglish": "waters",
+      "wohChoice": "waters",
+      "claim_type": "direct",
+      "rationale": "Hebrew מַיִם is grammatically dual; there is no singular form. 'Waters' is correct; the plural carries.",
+      "appliesTo": [
+        "GEN-1:2",
+        "GEN-1:6",
+        "GEN-1:7",
+        "GEN-1:9",
+        "GEN-1:10",
+        "GEN-1:20",
+        "GEN-1:21",
+        "GEN-1:22"
+      ]
+    },
+    {
+      "id": "meorot",
+      "source": "מְאֹרֹת",
+      "translit": "meorot",
+      "strongs": "H3974",
+      "partOfSpeech": "noun, masculine plural",
+      "literal": "light-bearers / luminaries",
+      "standardEnglish": "lights",
+      "wohChoice": "luminaries",
+      "claim_type": "direct",
+      "rationale": "מְאֹרֹת is a more technical word than אוֹר — it denotes a light-source object, not light itself. 'Luminaries' captures this; 'lights' (KJV/ASV) is acceptable but loses the source-object register. The methodology notes the deliberate avoidance of שֶׁמֶשׁ shemesh ('sun') and יָרֵחַ yareach ('moon') — both of which were divine names in the ANE polemical environment. The text describes the sun and moon as functional luminaries, not as the named deities.",
+      "appliesTo": [
+        "GEN-1:14",
+        "GEN-1:15",
+        "GEN-1:16"
+      ]
+    },
+    {
+      "id": "hama-or-hagadol",
+      "source": "הַמָּאוֹר הַגָּדֹל / הַמָּאוֹר הַקָּטֹן",
+      "translit": "ha-ma'or ha-gadol / ha-ma'or ha-qaton",
+      "literal": "the great luminary / the small luminary",
+      "standardEnglish": "the greater light / the lesser light",
+      "wohChoice": "the greater luminary / the lesser luminary",
+      "claim_type": "direct",
+      "rationale": "The text deliberately refrains from using שֶׁמֶשׁ shemesh ('sun') and יָרֵחַ yareach ('moon') in this verse. Both shemesh and yareach were divinized in surrounding ANE traditions (Shamash, Sin, etc.). Genesis 1 names them only by function — 'the greater luminary' to rule day, 'the lesser luminary' to rule night. This is a deliberate polemical structure and preserving it in translation is non-optional for the WoH lens.",
+      "appliesTo": [
+        "GEN-1:16"
+      ]
+    },
+    {
+      "id": "memshelet",
+      "source": "מֶמְשֶׁלֶת",
+      "translit": "memshelet",
+      "strongs": "H4475",
+      "partOfSpeech": "noun, feminine",
+      "literal": "rule, dominion, governance",
+      "standardEnglish": "rule",
+      "wohChoice": "governance",
+      "claim_type": "inferred",
+      "rationale": "מֶמְשֶׁלֶת is a relatively technical political term — 'governance' or 'dominion' over a territory. 'Rule' (KJV) is acceptable but more general. The luminaries are explicitly granted מֶמְשֶׁלֶת — functional jurisdiction over day and night. 'Governance' surfaces the structural language of the verse: the cosmos is being organized into administrative jurisdictions assigned to functional bodies.",
+      "appliesTo": [
+        "GEN-1:16",
+        "GEN-1:18"
+      ]
+    },
+    {
+      "id": "ototh",
+      "source": "אֹתֹת",
+      "translit": "ototh",
+      "strongs": "H226",
+      "partOfSpeech": "noun, masculine plural",
+      "literal": "signs",
+      "standardEnglish": "signs",
+      "wohChoice": "signs",
+      "claim_type": "direct",
+      "rationale": "Standard rendering. The luminaries function as signs (ototh) and appointed times (moadim) — a technical, calendrical function. The methodology may note that this structural-instrumental role for the celestial bodies is part of the polemical demythologization of sun/moon/stars.",
+      "appliesTo": [
+        "GEN-1:14"
+      ]
+    },
+    {
+      "id": "moadim",
+      "source": "מוֹעֲדִים",
+      "translit": "moadim",
+      "strongs": "H4150",
+      "partOfSpeech": "noun, masculine plural",
+      "literal": "appointed-times",
+      "standardEnglish": "seasons",
+      "wohChoice": "appointed times",
+      "claim_type": "inferred",
+      "rationale": "מוֹעֲדִים specifically denotes fixed times — festivals, appointed assemblies, predetermined occasions. The KJV/ASV 'seasons' is a natural-cycles reading (spring/summer/autumn/winter); the Hebrew is more specifically calendrical — the technical liturgical and astronomical fixed-time vocabulary. 'Appointed times' preserves the precision and the calendrical-instrumental role of the luminaries.",
+      "appliesTo": [
+        "GEN-1:14"
+      ]
+    },
+    {
+      "id": "taninim",
+      "source": "תַּנִּינִם",
+      "translit": "taninim",
+      "strongs": "H8577",
+      "partOfSpeech": "noun, masculine plural",
+      "literal": "great sea-creatures / sea-monsters",
+      "standardEnglish": "whales / sea-monsters",
+      "wohChoice": "great sea-creatures",
+      "claim_type": "direct",
+      "rationale": "תַּנִּינִם elsewhere denotes mythological sea-serpent/dragon figures (Job 7:12, Isa 27:1, Ps 74:13). In Gen 1:21 they are demythologized — created by Elohim like everything else. The KJV 'whales' is a domesticating mistranslation; modern translations correctly use 'sea-monsters' or 'great sea-creatures'. 'Great sea-creatures' is the safer rendering — it preserves the size+sea features without committing to a mythological reading where the text has already demythologized.",
+      "appliesTo": [
+        "GEN-1:21"
+      ]
+    },
+    {
+      "id": "nefesh-chayah",
+      "source": "נֶפֶשׁ חַיָּה",
+      "translit": "nefesh chayah",
+      "strongs": "H5315, H2416",
+      "partOfSpeech": "noun + adj",
+      "literal": "living being / living throat / living self",
+      "standardEnglish": "living creature / living soul",
+      "wohChoice": "living being",
+      "claim_type": "direct",
+      "rationale": "נֶפֶשׁ is famously hard — its semantic core is 'breath/throat/self/life', not a separable immortal soul. The KJV 'soul' (in Gen 2:7 for adam) is a Platonic-dualist reading retrojected; modern Hebrew Bible studies consensus is firmly 'being' or 'creature'. 'Living being' preserves the Hebrew register without inviting the Platonic reading.",
+      "appliesTo": [
+        "GEN-1:20",
+        "GEN-1:21",
+        "GEN-1:24",
+        "GEN-1:30"
+      ]
+    },
+    {
+      "id": "lemino",
+      "source": "לְמִינוֹ / לְמִינָהּ",
+      "translit": "le-mino / le-minah",
+      "strongs": "H4327",
+      "partOfSpeech": "noun + prep + suffix",
+      "literal": "according-to-its-kind",
+      "standardEnglish": "after its kind",
+      "wohChoice": "according to its kind",
+      "claim_type": "direct",
+      "rationale": "מִין is 'kind' / 'species' in a non-modern-biological sense — a category of living things. 'According to its kind' is the standard modern rendering. The phrase recurs as a refrain through the creation of plants and animals and surfaces the categorical / sortal structure of the creation account.",
+      "appliesTo": [
+        "GEN-1:11",
+        "GEN-1:12",
+        "GEN-1:21",
+        "GEN-1:24",
+        "GEN-1:25"
+      ]
+    },
+    {
+      "id": "naaseh-adam",
+      "source": "נַעֲשֶׂה אָדָם",
+      "translit": "na'aseh adam",
+      "strongs": "H6213, H120",
+      "partOfSpeech": "verb cohortative 1cp + noun",
+      "literal": "let-us-make humankind",
+      "standardEnglish": "Let us make man",
+      "wohChoice": "Let us make humankind",
+      "claim_type": "direct",
+      "rationale": "נַעֲשֶׂה is the cohortative first-person *plural* of עָשָׂה — 'let us make'. This is grammatically unambiguous and is the central textual datum for any reading of Elohim as more-than-one. Standard theological glosses include (i) the royal/plural of majesty (ad hoc and not well-attested elsewhere in Hebrew for divine speech), (ii) Trinitarian pre-figuring (Christian retrojection), (iii) divine-council reading (cf. Job 1, Ps 82 — the consensus modern scholarly view), or (iv) the plural is to be read at face value (the WoH lens). The translation does not adjudicate; it preserves the plural literally — 'Let us make humankind'. The methodology page argues for the WoH reading.\n\nאָדָם adam: human/humankind, not a personal name in Gen 1 (the named individual Adam appears later). Gendered KJV 'man' is corrected to 'humankind' (also NJPS/NRSV).",
+      "appliesTo": [
+        "GEN-1:26"
+      ]
+    },
+    {
+      "id": "tselem-demut",
+      "source": "צֶלֶם / דְּמוּת",
+      "translit": "tselem / demut",
+      "strongs": "H6754, H1823",
+      "partOfSpeech": "noun + noun",
+      "literal": "image / likeness",
+      "standardEnglish": "image / likeness",
+      "wohChoice": "image / likeness",
+      "claim_type": "direct",
+      "rationale": "צֶלֶם elsewhere denotes a physical statue or representation (Num 33:52, 1 Sam 6:5 — 'golden images'). דְּמוּת denotes a likeness or resemblance (Ezek 1:5,10 — 'a likeness as the appearance of a man'). The two words together emphasize physical resemblance and form, not abstract attribute. The traditional Jewish and Christian readings (man bears Elohim's spiritual or moral image) are interpretive extensions; the Hebrew lexicon supports a physical-resemblance reading directly. 'Image / likeness' is preserved as the standard rendering; the WoH methodology surfaces the physical-resemblance lexical core, which is central to the Elohim-as-physical-beings reading.",
+      "appliesTo": [
+        "GEN-1:26",
+        "GEN-1:27"
+      ]
+    },
+    {
+      "id": "vayivra-otam",
+      "source": "וַיִּבְרָא אֱלֹהִים אֶת־הָאָדָם בְּצַלְמוֹ ... זָכָר וּנְקֵבָה בָּרָא אֹתָם",
+      "translit": "vayivra elohim et-ha'adam betsalmo ... zachar uneqevah bara otam",
+      "literal": "and-shaped Elohim humankind in-his-image ... male and-female he-shaped them",
+      "standardEnglish": "So God created man in his own image ... male and female created he them",
+      "wohChoice": "And Elohim shaped humankind in his image ... male and female he shaped them",
+      "claim_type": "direct",
+      "rationale": "Tension point: v26 has plural 'let us make' (na'aseh) but v27 has singular 'in his image' (betsalmo). The shift is real and is one of the textual features the methodology must surface — the WoH reading treats it as the difference between the deliberative project speech (plural) and the actual executing action (singular agency assigning the project) within the Elohim group. The standard translations preserve the singular here without comment; the WoH translation preserves it too but flags it in methodology.\n\nזָכָר וּנְקֵבָה zachar uneqevah: male and female, biological-anatomical terms. The verse asserts a dimorphic human creation at the original act, not a sequential creation (Gen 2 will sequence). Preserved standardly.",
+      "appliesTo": [
+        "GEN-1:27"
+      ]
+    },
+    {
+      "id": "peru-urvu",
+      "source": "פְּרוּ וּרְבוּ",
+      "translit": "peru urvu",
+      "strongs": "H6509, H7235",
+      "partOfSpeech": "verb pair, qal imperatives",
+      "literal": "be-fruitful and-multiply",
+      "standardEnglish": "Be fruitful, and multiply",
+      "wohChoice": "Be fruitful and multiply",
+      "claim_type": "direct",
+      "rationale": "Standard rendering. The imperative pair is a deliberate parallel structure — preserved.",
+      "appliesTo": [
+        "GEN-1:22",
+        "GEN-1:28"
+      ]
+    },
+    {
+      "id": "kivshuha-uredu",
+      "source": "וְכִבְשֻׁהָ וּרְדוּ",
+      "translit": "ve-khivshuha u-redu",
+      "strongs": "H3533, H7287",
+      "partOfSpeech": "verb pair, qal imperatives",
+      "literal": "and-subdue-her and-rule",
+      "standardEnglish": "subdue it: and have dominion",
+      "wohChoice": "subdue it, and rule",
+      "claim_type": "direct",
+      "rationale": "כבשׁ in qal: subdue, conquer, bring under. רדה in qal: rule, dominate, tread (in a winepress). Both verbs are strong and have been the subject of intense exegetical debate in environmental ethics (Lynn White Jr. 1967 thesis and after). The Hebrew verbs are not softened. The KJV 'have dominion' for redu is acceptable; 'rule' is closer. The WoH choice preserves the strength of both verbs without softening — the methodology page can address the interpretive question.",
+      "appliesTo": [
+        "GEN-1:28"
+      ]
+    },
+    {
+      "id": "tov-meod",
+      "source": "טוֹב מְאֹד",
+      "translit": "tov me'od",
+      "strongs": "H2896, H3966",
+      "partOfSpeech": "adj + adv",
+      "literal": "good very",
+      "standardEnglish": "very good",
+      "wohChoice": "very good",
+      "claim_type": "direct",
+      "rationale": "The closing formula of day 6. Standard rendering. Note the deliberate intensifier meod — six days of 'good' and a final 'very good' as a structural peak. The methodology surfaces this.",
+      "appliesTo": [
+        "GEN-1:31"
+      ]
+    },
+    {
+      "id": "vayhi-erev-vayhi-voqer",
+      "source": "וַיְהִי־עֶרֶב וַיְהִי־בֹקֶר",
+      "translit": "vayhi-erev vayhi-voqer",
+      "literal": "and-was evening and-was morning",
+      "standardEnglish": "And the evening and the morning were",
+      "wohChoice": "And there was evening and there was morning",
+      "claim_type": "direct",
+      "rationale": "Formulaic close of each numbered day. The 'evening first' ordering reflects the Hebrew calendrical convention (day begins at sunset). The repeated 'and there was X' (vayhi) preserves the cadence; the KJV 'And the evening and the morning were' loses the doubled vayhi structure. Modern translations and the WoH translation both preserve the doubled structure.",
+      "appliesTo": [
+        "GEN-1:5",
+        "GEN-1:8",
+        "GEN-1:13",
+        "GEN-1:19",
+        "GEN-1:23",
+        "GEN-1:31"
+      ]
+    },
+    {
+      "id": "yatsar",
+      "source": "יָצַר",
+      "translit": "yatsar",
+      "strongs": "H3335",
+      "partOfSpeech": "verb, qal",
+      "literal": "form, shape, fashion (as a potter)",
+      "standardEnglish": "form",
+      "wohChoice": "form",
+      "claim_type": "direct",
+      "rationale": "יָצַר is the third of Genesis' creation verbs (alongside בָּרָא bara 'shape' and עָשָׂה asah 'make'). It is the potter's verb: same root as יוֹצֵר yotser 'potter' (Jer 18:2-6). The image is hands-on, material, shaping clay. Translating as 'form' preserves the manual register and distinguishes it from bara (categorical fashioning) and asah (general making). The verb anchors Genesis 2's anthropological account: YHWH-Elohim 'forms' the human from dust (v7) and 'forms' the animals from the ground (v19) — the same verb for the same kind of act.",
+      "appliesTo": [
+        "GEN-2:7",
+        "GEN-2:8",
+        "GEN-2:19"
+      ]
+    },
+    {
+      "id": "yhwh-elohim",
+      "source": "יְהוָה אֱלֹהִים",
+      "translit": "YHWH Elohim",
+      "strongs": "H3068+H430",
+      "partOfSpeech": "compound divine name",
+      "literal": "YHWH-of-the-Elohim / YHWH, the Elohim",
+      "standardEnglish": "the LORD God",
+      "wohChoice": "YHWH-Elohim",
+      "claim_type": "direct",
+      "rationale": "The compound name appears for the first time in Gen 2:4, marking the shift from the Priestly creation account (ch. 1, 'Elohim') to the Yahwist anthropological account (ch. 2-3, 'YHWH Elohim'). Standard English renders יְהוָה as 'the LORD' (small caps), following the Masoretic Qere-perpetuum (read 'Adonai' for the unpronounced Tetragrammaton) and the LXX's κύριος. This is a Second Temple-era reading convention, not a translation. The Hebrew is a proper name, the four consonants YHWH, traditionally Yahweh. WoH preserves the unpronounced consonants (YHWH) and the unsmoothed plural (Elohim), reflecting the seam between the two creation accounts rather than smoothing it under a single English 'God' or 'LORD'.",
+      "appliesTo": [
+        "GEN-2:4",
+        "GEN-2:5",
+        "GEN-2:7",
+        "GEN-2:8",
+        "GEN-2:9",
+        "GEN-2:15",
+        "GEN-2:16",
+        "GEN-2:18",
+        "GEN-2:19",
+        "GEN-2:21",
+        "GEN-2:22"
+      ]
+    },
+    {
+      "id": "toledot",
+      "source": "תּוֹלְדוֹת",
+      "translit": "toledot",
+      "strongs": "H8435",
+      "partOfSpeech": "noun, feminine plural construct",
+      "literal": "begettings, generations, descendants",
+      "standardEnglish": "generations",
+      "wohChoice": "tale (of)",
+      "claim_type": "inferred",
+      "rationale": "תוֹלְדוֹת from יָלַד 'to give birth' is the genealogical formula structuring the book of Genesis (2:4, 5:1, 6:9, 10:1, 11:10, 11:27, 25:12, 25:19, 36:1, 37:2). The literal sense is 'begettings' — what comes forth from. KJV/ASV 'generations' carries the right structural sense but reads archaic. NJPS 'this is the story of' and Alter 'this is the tale of' capture both the narrative and genealogical function. 'Tale' preserves the seam-marker function while reading clean in English. The first toledot (2:4) is structurally unusual: it births the skies and the land themselves, treating cosmos as a lineage.",
+      "appliesTo": [
+        "GEN-2:4"
+      ]
+    },
+    {
+      "id": "ha-adam",
+      "source": "הָאָדָם",
+      "translit": "ha-adam",
+      "strongs": "H120",
+      "partOfSpeech": "noun, masculine singular with definite article",
+      "literal": "the human / the earthling",
+      "standardEnglish": "Adam (as a proper name) or the man",
+      "wohChoice": "the human",
+      "claim_type": "direct",
+      "rationale": "Throughout Genesis 2 and most of Genesis 3, the Hebrew is הָאָדָם — the definite article + adam — which grammatically means 'the human' as a category, not 'Adam' as a personal name. The article disappears (allowing read-as-name) only at Gen 4:25. Inserting 'Adam' as a personal name throughout chapters 2-3 (KJV, ASV, NIV) imports a name where the Hebrew has a category-noun. NJPS and most modern scholarly translations preserve 'the man'. WoH uses 'the human' for two reasons: (a) preserves the categorical-noun grammar, (b) keeps the door open to the wordplay with אֲדָמָה adamah (ground) — the human is the *one from the ground*, not yet sexed and not yet named.",
+      "appliesTo": [
+        "GEN-2:7",
+        "GEN-2:8",
+        "GEN-2:15",
+        "GEN-2:16",
+        "GEN-2:18",
+        "GEN-2:19",
+        "GEN-2:20",
+        "GEN-2:21",
+        "GEN-2:22",
+        "GEN-2:23",
+        "GEN-2:25"
+      ]
+    },
+    {
+      "id": "adam-adamah",
+      "source": "אָדָם / אֲדָמָה",
+      "translit": "adam / adamah",
+      "strongs": "H120+H127",
+      "partOfSpeech": "noun pair, masculine and feminine",
+      "literal": "human / ground",
+      "standardEnglish": "man / ground",
+      "wohChoice": "the human / the ground",
+      "claim_type": "direct",
+      "rationale": "Hebrew אָדָם adam (human) and אֲדָמָה adamah (ground, soil) share a root (אדם, 'red, ruddy') and are deliberately paired in Gen 2:7: the human is dust from the ground. The wordplay is structural — adam is etymologically 'the earth-being'. Standard English ('man'/'ground') buries the play. WoH preserves it as a recurring pair: 'the human' from 'the ground'. Alter's 'human / humus' captures the etymological link but reads awkward; 'human / ground' keeps the register clean while the pairing is documented in commentary.",
+      "appliesTo": [
+        "GEN-2:5",
+        "GEN-2:6",
+        "GEN-2:7",
+        "GEN-2:9",
+        "GEN-2:19"
+      ]
+    },
+    {
+      "id": "neshamah-chayim",
+      "source": "נִשְׁמַת חַיִּים",
+      "translit": "nishmat chayim",
+      "strongs": "H5397+H2416",
+      "partOfSpeech": "noun construct + noun plural",
+      "literal": "breath of lives",
+      "standardEnglish": "breath of life",
+      "wohChoice": "breath of life",
+      "claim_type": "direct",
+      "rationale": "נְשָׁמָה neshamah is distinct from רוּחַ ruach (breath/wind/spirit, Gen 1:2) and נֶפֶשׁ nefesh (living being, throat, appetite). Neshamah is specifically *exhaled* breath — what is breathed *out*, into nostrils. The verb here is נָפַח napach 'to blow', not נשׁף or נשׁב. The picture is hands-on, mouth-to-nostril, a craftsman animating his work — continuous with the potter's-verb yatsar in the same verse. Standard 'breath of life' is correct; the commentary surfaces the distinct lexeme so the three breath-words (ruach / neshamah / nefesh) don't collapse into one.",
+      "appliesTo": [
+        "GEN-2:7"
+      ]
+    },
+    {
+      "id": "gan-be-eden",
+      "source": "גַּן־בְעֵדֶן",
+      "translit": "gan b'eden",
+      "strongs": "H1588+H5731",
+      "partOfSpeech": "noun + preposition + place name",
+      "literal": "a garden in Eden",
+      "standardEnglish": "the Garden of Eden",
+      "wohChoice": "a garden in Eden",
+      "claim_type": "direct",
+      "rationale": "The preposition is בְּ be- 'in', not the construct relation that would yield 'of'. Eden is a region; the garden is *in* it. Gen 2:8 reads literally 'a garden in Eden, eastward'. The 'Garden of Eden' (KJV, ASV, NIV) treats Eden as a proper name modifying garden, but the Hebrew has gan 'garden' indefinite + b- 'in' + Eden (place). The original picture is more spatial: there is a place called Eden, and within it YHWH-Elohim plants a garden. Restoring the preposition restores the geography — the cosmic locale is Eden; the gardened part is one feature of it.",
+      "appliesTo": [
+        "GEN-2:8",
+        "GEN-2:10"
+      ]
+    },
+    {
+      "id": "etz-chayim-daat",
+      "source": "עֵץ הַחַיִּים / עֵץ הַדַּעַת טוֹב וָרָע",
+      "translit": "etz hachayim / etz hada'at tov vara",
+      "strongs": "H6086+H2416 / H6086+H1847",
+      "partOfSpeech": "noun construct phrases",
+      "literal": "tree of the lives / tree of the knowing of good and bad",
+      "standardEnglish": "tree of life / tree of the knowledge of good and evil",
+      "wohChoice": "tree of life / tree of knowing good and bad",
+      "claim_type": "inferred",
+      "rationale": "Two notes. First, דַּעַת da'at from יָדַע yada is *experiential* knowing — intimate acquaintance, not abstract cognition (the same verb covers sexual knowing in Gen 4:1). 'Knowing' rather than 'knowledge' keeps the verbal force. Second, טוֹב וָרָע tov vara is the merism for 'everything' — 'good and bad' covers the full moral and practical spectrum (Solomon's request in 1 Kgs 3:9 for the ability to *discern* tov vara is the same idiom and reads as 'wise judgment'). 'Good and evil' (KJV, ASV) imports a Manichaean polarity the Hebrew doesn't have; 'good and bad' is closer to the merism. The tree is the tree of *experiential acquaintance with the full range*.",
+      "appliesTo": [
+        "GEN-2:9",
+        "GEN-2:17"
+      ]
+    },
+    {
+      "id": "le-ovdah-ul-shomrah",
+      "source": "לְעָבְדָהּ וּלְשָׁמְרָהּ",
+      "translit": "le-ovdah ul-shomrah",
+      "strongs": "H5647+H8104",
+      "partOfSpeech": "infinitive construct pair, with 3fs suffix",
+      "literal": "to work it and to guard it",
+      "standardEnglish": "to dress it and to keep it",
+      "wohChoice": "to work it and to guard it",
+      "claim_type": "direct",
+      "rationale": "Two verbs. עָבַד avad covers 'work, serve, till' — the same root as עֶבֶד eved 'servant'. שָׁמַר shamar covers 'keep, guard, watch over' — the same root as שׁוֹמֵר shomer 'guard, watchman'. KJV 'dress and keep' reads agricultural-pastoral; the Hebrew register is closer to 'work the land and guard it'. The human is placed as worker-and-watchman, not as owner. Note also the feminine suffix -ah on both verbs while גַּן gan is masculine — the suffix likely points back to אֲדָמָה adamah (feminine), making this stewardship of the ground itself, not just the gardened parcel.",
+      "appliesTo": [
+        "GEN-2:15"
+      ]
+    },
+    {
+      "id": "mot-tamut",
+      "source": "מוֹת תָּמוּת",
+      "translit": "mot tamut",
+      "strongs": "H4191",
+      "partOfSpeech": "infinitive absolute + qal imperfect",
+      "literal": "dying you shall die",
+      "standardEnglish": "you shall surely die",
+      "wohChoice": "you shall surely die",
+      "claim_type": "direct",
+      "rationale": "Distinctively Hebrew construction: the infinitive absolute placed before its cognate finite verb intensifies — the meaning is 'you will most certainly die'. Same construction appears in v16 with אָכֹל תֹּאכֵל akhol tokhel ('you may freely eat'). Standard English 'surely die' is the right register. The interpretive question is *what kind* of death — same-day biological death (which doesn't happen), or a different death (mortality entering, separation from the garden state, the end of the unfallen condition). The grammar settles certainty but not kind; the commentary leaves the question open rather than picking one tradition.",
+      "appliesTo": [
+        "GEN-2:17"
+      ]
+    },
+    {
+      "id": "ezer-kenegdo",
+      "source": "עֵזֶר כְּנֶגְדּוֹ",
+      "translit": "ezer kenegdo",
+      "strongs": "H5828+H5048",
+      "partOfSpeech": "noun + preposition with 3ms suffix",
+      "literal": "help corresponding to / over against him",
+      "standardEnglish": "a help meet for him / a helper suitable for him",
+      "wohChoice": "a counterpart fitting him",
+      "claim_type": "inferred",
+      "rationale": "Two words, each commonly mistranslated. עֵזֶר ezer is not 'helper-subordinate' — the same noun is used 16 times in the Hebrew Bible for *divine* help (Pss 33:20, 70:5, 121:1-2, etc.). It denotes powerful or critical aid, not assistant-class help. כְּנֶגְדּוֹ kenegdo is from נֶגֶד neged 'opposite, in front of, corresponding to' — the relation is face-to-face equality, not behind-and-supporting. The two words together describe a counterpart of matching standing. 'A help meet for him' (KJV) became 'helpmeet' in English usage and slid further into 'helpmate' — a slide the Hebrew never supports. WoH renders 'a counterpart fitting him' to recover both senses: equal standing (kenegdo) and substantive aid (ezer).",
+      "appliesTo": [
+        "GEN-2:18",
+        "GEN-2:20"
+      ]
+    },
+    {
+      "id": "tzela-side",
+      "source": "צֵלָע",
+      "translit": "tzela",
+      "strongs": "H6763",
+      "partOfSpeech": "noun, feminine singular",
+      "literal": "side, flank",
+      "standardEnglish": "rib",
+      "wohChoice": "side",
+      "claim_type": "direct",
+      "rationale": "צֵלָע appears 41 times in the Hebrew Bible and *never* means 'rib' outside this passage's traditional reading. It is the architectural term for the *side* of structures: side of the Ark (Ex 25:12, 14), side of the Tabernacle (Ex 26:20, 26, 35), side of the altar (Ex 27:7), side of the Temple's holy place (1 Kgs 6:34). The LXX rendered πλευρά 'side', and the Vulgate costa is itself ambiguous in classical Latin (side or rib). 'Rib' is medieval anatomical guesswork that hardened into tradition. Reading 'side' rebalances the picture: YHWH-Elohim does not extract a single bone but takes one *side* of the human and builds a counterpart — the two becoming halves of a whole, which the wordplay of v23 (etzem 'bone', basar 'flesh') and v24 (basar echad 'one flesh') reinforces.",
+      "appliesTo": [
+        "GEN-2:21",
+        "GEN-2:22"
+      ]
+    },
+    {
+      "id": "ish-ishah",
+      "source": "אִישׁ / אִשָּׁה",
+      "translit": "ish / ishah",
+      "strongs": "H376+H802",
+      "partOfSpeech": "noun pair, masculine/feminine",
+      "literal": "man / woman",
+      "standardEnglish": "man / woman (KJV 'Woman ... Man')",
+      "wohChoice": "Ish / Ishah",
+      "claim_type": "direct",
+      "rationale": "The wordplay in Gen 2:23 turns on the consonantal near-identity of אִישׁ ish ('man') and אִשָּׁה ishah ('woman') — the etymologies are actually separate (ish from a different root than ishah, whose root is אנשׁ), but the *sound* play is unmistakable, and the verse uses it to name. Most English translations capitalize the names ('Woman ... Man') to signal the naming function. WoH keeps the Hebrew transliterations (Ishah / Ish) in italics in v23 to preserve the sound-play that drives the verse. Elsewhere these words appear in their normal English equivalents.",
+      "appliesTo": [
+        "GEN-2:23",
+        "GEN-2:24"
+      ]
+    },
+    {
+      "id": "basar-echad",
+      "source": "בָּשָׂר אֶחָד",
+      "translit": "basar echad",
+      "strongs": "H1320+H259",
+      "partOfSpeech": "noun + cardinal number",
+      "literal": "one flesh",
+      "standardEnglish": "one flesh",
+      "wohChoice": "one flesh",
+      "claim_type": "direct",
+      "rationale": "The phrase concludes the narrative arc that began with the human being divided (tzela 'side' taken from him in v21-22): the marital bond is figured as the *re-unification* of what was divided. בָּשָׂר basar 'flesh' carries the full register — body, kin, common substance — so the phrase covers both physical union and kinship-by-substance. Standard 'one flesh' is correct; the commentary surfaces the structural inversion (one human divided into two becomes two re-merged into one) that the chapter is doing.",
+      "appliesTo": [
+        "GEN-2:24"
+      ]
+    },
+    {
+      "id": "tardemah",
+      "source": "תַּרְדֵּמָה",
+      "translit": "tardemah",
+      "strongs": "H8639",
+      "partOfSpeech": "noun, feminine singular",
+      "literal": "deep sleep, trance",
+      "standardEnglish": "deep sleep",
+      "wohChoice": "deep sleep",
+      "claim_type": "direct",
+      "rationale": "תַּרְדֵּמָה is not ordinary sleep (שֵׁנָה shenah). It denotes a divinely-induced trance state, most famously in Gen 15:12, where it falls on Abram during the covenant theophany ('a deep sleep fell upon Abram, and behold, a horror of great darkness fell upon him'). Also in 1 Sam 26:12, Job 4:13, 33:15, Isa 29:10 — always with an oneiric, supernatural, or anaesthetic quality. The verb here is הִפִּיל hippil 'caused to fall', a hiphil — Elohim makes the trance descend. 'Deep sleep' is the conventional rendering and captures the unconsciousness; the commentary surfaces the trance-quality so the reader does not assume natural slumber.",
+      "appliesTo": [
+        "GEN-2:21"
+      ]
+    },
+    {
+      "id": "nachash-arum",
+      "source": "הַנָּחָשׁ ... עָרוּם",
+      "translit": "ha-nachash ... arum",
+      "strongs": "H5175+H6175",
+      "partOfSpeech": "noun + adjective",
+      "literal": "the serpent ... shrewd, crafty, cunning",
+      "standardEnglish": "the serpent ... subtle / crafty",
+      "wohChoice": "the serpent ... shrewd",
+      "claim_type": "direct",
+      "rationale": "Gen 3:1 opens with a deliberate soundplay: עָרוּם arum 'shrewd, crafty' (describing the serpent) shares the consonants of עֲרוּמִּים arummim 'naked' (the closing word of 2:25, describing the human and his woman). The two adjectives are from different roots etymologically — arum from ערם 'be shrewd', arummim from ערה 'be bare' — but the sound-play is unmistakable and structural: the chapter bridges from a state of nakedness-without-shame to a confrontation with shrewdness-without-disclosure. KJV 'subtil' (now archaic) and later 'crafty/cunning' carry the negative cast that 'shrewd' delivers cleanly without import a moral pre-verdict. The serpent is *cleverer* than any field-beast; whether that cleverness is malicious is the chapter's open question, not its premise.",
+      "appliesTo": [
+        "GEN-3:1"
+      ]
+    },
+    {
+      "id": "lo-mot-temutun",
+      "source": "לֹא־מוֹת תְּמֻתוּן",
+      "translit": "lo mot temutun",
+      "strongs": "H3808+H4191",
+      "partOfSpeech": "negation + infinitive absolute + qal imperfect 2mp",
+      "literal": "not dying you shall die",
+      "standardEnglish": "you shall not surely die",
+      "wohChoice": "you shall surely not die",
+      "claim_type": "direct",
+      "rationale": "The serpent's reply to the woman is the exact same intensifying construction as YHWH-Elohim's prohibition in 2:17 (מוֹת תָּמוּת mot tamut 'you shall surely die'), but here with the negation לֹא lo prefixed and the verb in 2mp plural. The placement of לֹא before the infinitive absolute is unusual — typically the negation modifies the finite verb. Reading the syntax strictly: the negation overrides the certainty itself, so 'you shall *surely not* die' is closer than the conventional 'you shall *not surely* die'. The serpent is not saying death is uncertain — he is saying death will certainly *not* happen.",
+      "appliesTo": [
+        "GEN-3:4"
+      ]
+    },
+    {
+      "id": "ke-elohim",
+      "source": "כֵּאלֹהִים",
+      "translit": "ke-elohim",
+      "strongs": "H3644+H430",
+      "partOfSpeech": "preposition + noun",
+      "literal": "like Elohim / like divine beings / like gods",
+      "standardEnglish": "as God / as gods",
+      "wohChoice": "like the Elohim",
+      "claim_type": "inferred",
+      "rationale": "כֵּאלֹהִים is the preposition כְּ ke- 'like' attached to אֱלֹהִים Elohim. The phrase is grammatically ambiguous between singular ('like God') and plural ('like divine beings, like gods'), and most modern translations render plural here (NJPS 'like divine beings', NRSV 'like God'). KJV/ASV 'as gods' opted plural; the LXX rendered ὡς θεοί 'as gods', plural. The serpent's claim is that eating opens the eyes and grants knowledge that places the eaters into the Elohim-class. WoH renders 'like the Elohim' — preserving the same noun form used throughout the translation, where 'the Elohim' carries the plural class-noun sense. The serpent's promise is not deification into a single God-state but *upgrading into the Elohim class* — a category-rise.",
+      "appliesTo": [
+        "GEN-3:5"
+      ]
+    },
+    {
+      "id": "niphqecho-eineihem",
+      "source": "וְנִפְקְחוּ עֵינֵיכֶם / וַתִּפָּקַחְנָה עֵינֵי שְׁנֵיהֶם",
+      "translit": "v'niphqecho eineichem / vatipaqachna einei shneihem",
+      "strongs": "H6491+H5869",
+      "partOfSpeech": "verb (niphal) + noun construct",
+      "literal": "your eyes will be opened / the eyes of the two of them were opened",
+      "standardEnglish": "your eyes shall be opened / the eyes of both of them were opened",
+      "wohChoice": "your eyes will be opened / the eyes of the two of them were opened",
+      "claim_type": "direct",
+      "rationale": "פָּקַח paqach 'open the eyes' is the specific verb for *uncovering perception* — used of opening blind eyes (2 Kgs 6:17, Ps 146:8) and metaphorically of awakening insight. The verb appears twice in the chapter: in the serpent's promise (v5, niphal imperfect 'will be opened') and in the fulfillment (v7, niphal preterite 'were opened'). The promise is precisely kept — eyes do open, perception does shift. What follows that opening is what is contested: not whether they gain knowledge but what knowledge is gained, and what is lost in gaining it.",
+      "appliesTo": [
+        "GEN-3:5",
+        "GEN-3:7"
+      ]
+    },
+    {
+      "id": "mithallech-b-gan",
+      "source": "מִתְהַלֵּךְ בַּגָּן",
+      "translit": "mithallech ba-gan",
+      "strongs": "H1980",
+      "partOfSpeech": "verb (hithpael participle)",
+      "literal": "walking about / strolling in the garden",
+      "standardEnglish": "walking in the garden",
+      "wohChoice": "walking about in the garden",
+      "claim_type": "direct",
+      "rationale": "The hithpael of הָלַךְ halach gives an iterative or habitual sense: walking back and forth, strolling, going about. The same form describes Enoch's relationship with the Elohim ('Enoch walked-about with the Elohim', 5:22, 24) and Noah's (6:9). YHWH-Elohim's *mithallech* in the garden is a manner of presence — moving through, not arriving or departing. Standard 'walking' is correct in meaning; 'walking about' captures the iterative force and the at-home quality of the divine presence in the garden — the picture is not a visitor descending but the garden's resident moving through its grounds.",
+      "appliesTo": [
+        "GEN-3:8"
+      ]
+    },
+    {
+      "id": "l-ruach-hayom",
+      "source": "לְרוּחַ הַיּוֹם",
+      "translit": "l'ruach ha-yom",
+      "strongs": "H7307+H3117",
+      "partOfSpeech": "preposition + noun construct",
+      "literal": "to/at the wind of the day",
+      "standardEnglish": "in the cool of the day",
+      "wohChoice": "at the breeze of the day",
+      "claim_type": "inferred",
+      "rationale": "רוּחַ ruach here is the same word that meant 'breath/wind/spirit' in 1:2. In construct with יוֹם 'day', the phrase denotes the *wind associated with a part of the day* — Mesopotamian and Levantine convention reads it as the evening breeze, when the heat of the sun gives way and air movement returns. KJV 'cool of the day' is a free rendering of the implied climatic reference; 'breeze of the day' is closer to the actual word while letting the climatic sense show through. Some readings push further — *ruach hayom* could be 'at the spirit of the day' (the day's own *ruach*), giving the passage a more numinous register. WoH stays with the breeze reading and lets commentary surface the alternatives.",
+      "appliesTo": [
+        "GEN-3:8"
+      ]
+    },
+    {
+      "id": "ayekka",
+      "source": "אַיֶּכָּה",
+      "translit": "ayekka",
+      "strongs": "H335+pronominal suffix",
+      "partOfSpeech": "interrogative adverb + 2ms suffix",
+      "literal": "where are you?",
+      "standardEnglish": "where art thou?",
+      "wohChoice": "where are you?",
+      "claim_type": "direct",
+      "rationale": "אַיֶּכָּה is the interrogative אֵי ay 'where?' fused with a 2ms pronominal suffix. The grammar is straightforward, but the *theological* register has been heavily debated — does YHWH-Elohim not know where the human is (rendering the question literal), or is the question rhetorical (already-knowing, summoning the human into self-disclosure)? The Hebrew settles nothing; both readings work. WoH renders the words straight ('where are you?') and leaves the register open. The chapter's chain of questions that follows (v11 'who told you?', v13 'what is this you have done?') reads more naturally as Socratic-investigative than as informational.",
+      "appliesTo": [
+        "GEN-3:9"
+      ]
+    },
+    {
+      "id": "shuf-rosh-aqev",
+      "source": "יְשׁוּפְךָ רֹאשׁ / תְּשׁוּפֶנּוּ עָקֵב",
+      "translit": "yeshufka rosh / teshufenu aqev",
+      "strongs": "H7779+H7218+H6119",
+      "partOfSpeech": "verb (qal imperfect) + noun + noun",
+      "literal": "he will crush you (regarding the) head / you will crush him (regarding the) heel",
+      "standardEnglish": "it shall bruise thy head / thou shalt bruise his heel",
+      "wohChoice": "he will strike you at the head / you will strike him at the heel",
+      "claim_type": "inferred",
+      "rationale": "שׁוּף shuf appears only here and in two parallels (Ps 139:11; Job 9:17). The semantic core is contested: 'bruise', 'crush', 'strike', 'lie in wait for'. The same verb governs both clauses, so the action is reciprocal — whatever the seed does to the serpent's head, the serpent does to the seed's heel. The traditional Christian reading (Vulgate ipsa conteret 'she shall crush', with 'she' = Mary) is text-critically unsupported and contributes to a *protoevangelium* tradition the Hebrew does not deliver on its own. WoH renders 'strike' (less anatomically committed than 'crush', less weak than 'bruise') and lets the symmetry of the two clauses stand: head against heel, with mortal stakes for the lower clause (the serpent's head) and risk-of-injury stakes for the upper (the human's heel).",
+      "appliesTo": [
+        "GEN-3:15"
+      ]
+    },
+    {
+      "id": "etzev-itzavon",
+      "source": "עִצָּבוֹן / עֶצֶב",
+      "translit": "itzavon / etzev",
+      "strongs": "H6093+H6089",
+      "partOfSpeech": "nouns, masculine",
+      "literal": "toil, hardship, labor / pain, hurt, sorrow",
+      "standardEnglish": "sorrow / pain",
+      "wohChoice": "hardship / hardship",
+      "claim_type": "inferred",
+      "rationale": "Both nouns derive from the root עצב, which spans 'pain, hurt, sorrow, hardship, labor'. The semantic range matters because both nouns appear in close paired use in v16–17: עִצָּבוֹן itzavon to the woman (in childbearing) and to the human (in working the ground), and עֶצֶב etzev to the woman (in childbearing). The pairing is deliberate — both human and woman receive the *same word* for their post-garden condition, distributed differently (her childbearing, his land-working). 'Sorrow' (KJV) is too narrowly emotional; 'pain' is too narrowly physical; 'hardship' captures the spectrum. The shared root binds the two human consequences: the curse falls not on the human or the woman but on their *contexts of generative labor* (childbearing and land-tilling), and the *word for hardship is one*.",
+      "appliesTo": [
+        "GEN-3:16",
+        "GEN-3:17"
+      ]
+    },
+    {
+      "id": "teshuqah",
+      "source": "תְּשׁוּקָה",
+      "translit": "t'shuqah",
+      "strongs": "H8669",
+      "partOfSpeech": "noun, feminine",
+      "literal": "longing, desire, attraction",
+      "standardEnglish": "desire",
+      "wohChoice": "longing",
+      "claim_type": "inferred",
+      "rationale": "תְּשׁוּקָה appears three times in the Hebrew Bible (Gen 3:16, 4:7, Song 7:11). The semantic field is contested. The traditional rendering 'desire' (KJV, ASV) has been read across a spectrum: sexual longing (Song 7:11 leans that way), submissive yearning (post-Augustinian Christian tradition), or hostile drive ('its desire is for you' in 4:7 governs sin's drive toward Cain). The grammatical construction in v16 is parallel to 4:7, where the drive is hostile and the second clause is 'but you must master it'. The Cain parallel suggests the woman's *t'shuqah* in v16 may not be a tender longing but a contested impulse toward, paired with the next clause's יִמְשָׁל־בָּךְ 'he will rule over you'. WoH renders 'longing' as the least over-specified word in the range, and lets commentary surface the parallel.",
+      "appliesTo": [
+        "GEN-3:16"
+      ]
+    },
+    {
+      "id": "arur-ha-adamah",
+      "source": "אֲרוּרָה הָאֲדָמָה",
+      "translit": "arurah ha-adamah",
+      "strongs": "H779+H127",
+      "partOfSpeech": "passive participle + noun",
+      "literal": "cursed (is) the ground",
+      "standardEnglish": "cursed is the ground",
+      "wohChoice": "cursed is the ground",
+      "claim_type": "direct",
+      "rationale": "Critical structural observation: in the three curse-speeches of Gen 3:14–19, the curse is pronounced on the serpent (v14, ארור אתה 'cursed are you'), on the ground (v17, ארורה האדמה 'cursed is the ground'), but *not* on the human and *not* on the woman. The woman receives intensified itzavon in childbearing; the human is told *the ground* he came from is now cursed *on his account* (בַּעֲבוּרֶךָ ba-avurecha). The text refuses to put the human under the curse formula directly. This is structurally precise. The eventual *return to dust* (v19) is not a *new* curse but the human's pre-existing condition surfaced — he was always from the adamah, and now goes back to it.",
+      "appliesTo": [
+        "GEN-3:17"
+      ]
+    },
+    {
+      "id": "chavvah-em-kol-chai",
+      "source": "חַוָּה / אֵם כָּל־חָי",
+      "translit": "Chavvah / em kol chai",
+      "strongs": "H2332+H517+H3605+H2416",
+      "partOfSpeech": "proper name + noun construct chain",
+      "literal": "Eve / mother of all living",
+      "standardEnglish": "Eve / mother of all living",
+      "wohChoice": "Chavvah / mother of all living",
+      "claim_type": "inferred",
+      "rationale": "חַוָּה Chavvah is connected etymologically to חַי chai 'living' / 'life' through assonance, though the actual derivation is debated (some link it to Aramaic חוה 'declare, show'). The text supplies the gloss: 'because she became אֵם כָּל־חָי em kol-chai — mother of all living'. The naming closes a triple of namings: in 2:23 the human names *Ishah*; here in 3:20 he names *Chavvah*; the species itself was named *adam* by the Elohim in 1:26–27. The three namings move from species to gender-pair to individual proper name. WoH keeps the Hebrew form Chavvah (with anglicized Eve flagged in commentary) to preserve the chai resonance. The naming comes *after* the curses — the human's first interpretive act in the post-garden world is to name his woman by *life* rather than by mortality.",
+      "appliesTo": [
+        "GEN-3:20"
+      ]
+    },
+    {
+      "id": "katnot-or",
+      "source": "כָּתְנוֹת עוֹר",
+      "translit": "katnot or",
+      "strongs": "H3801+H5785",
+      "partOfSpeech": "noun construct + noun",
+      "literal": "tunics of skin",
+      "standardEnglish": "coats of skins",
+      "wohChoice": "garments of skin",
+      "claim_type": "direct",
+      "rationale": "כָּתְנוֹת katnot is the plural of כְּתֹנֶת ktonet 'tunic, robe' — the same garment Jacob gives Joseph in 37:3 (the famous ketonet passim, 'tunic of many colors / long-sleeved tunic'). עוֹר or is 'skin, hide' (the homophone אוֹר or 'light' is from a different root, but the sound similarity is sometimes commented on in midrashic tradition — 'garments of light' as a play, though the consonantal forms differ — ע vs. א). The verse marks a major upgrade in human covering: from improvised fig-leaf belts (v7) to YHWH-Elohim-tailored hide garments. The implicit question of where the skins *came from* (the first death of an animal in the narrative) is left silent in the text and noted by tradition.",
+      "appliesTo": [
+        "GEN-3:21"
+      ]
+    },
+    {
+      "id": "ke-achad-mimmennu",
+      "source": "כְּאַחַד מִמֶּנּוּ",
+      "translit": "k'echad mimmennu",
+      "strongs": "H259+H4480",
+      "partOfSpeech": "preposition + cardinal + preposition with 1pl suffix",
+      "literal": "like one from us",
+      "standardEnglish": "as one of us",
+      "wohChoice": "like one of us",
+      "claim_type": "direct",
+      "rationale": "Gen 3:22 contains the *second* grammatically explicit plural divine speech in Genesis (the first was 1:26 נַעֲשֶׂה na'aseh 'let us make'). YHWH-Elohim says of the human: 'the human has become *like one of us*, knowing good and bad'. The pronoun מִמֶּנּוּ mimmennu is unambiguously 1pl ('from us'), and the cardinal אַחַד echad ('one') quantifies — the human has joined a multi-member category. The verse confirms the serpent's promise (v5: 'you will be like the Elohim, knowing good and bad') was *accurate* — what the serpent foretold has happened, and YHWH-Elohim is now acknowledging it in counsel with the other members of the Elohim-class. This is the chapter's most direct WoH-compatible verse: the divine plural is not a grammatical curiosity but a working multi-being category that the human has now entered the lower tier of.",
+      "appliesTo": [
+        "GEN-3:22"
+      ]
+    },
+    {
+      "id": "k-ruvim-lahat-cherev",
+      "source": "הַכְּרֻבִים וְאֵת לַהַט הַחֶרֶב הַמִּתְהַפֶּכֶת",
+      "translit": "ha-k'ruvim v'et lahat ha-cherev ha-mithappechet",
+      "strongs": "H3742+H3858+H2719+H2015",
+      "partOfSpeech": "noun phrase",
+      "literal": "the cherubim and the flame of the sword the one-that-turns-itself",
+      "standardEnglish": "the Cherubims and a flaming sword which turned every way",
+      "wohChoice": "the cherubim and the flaming blade that turns itself",
+      "claim_type": "direct",
+      "rationale": "Two ANE-rooted images. כְּרוּבִים k'ruvim are the composite hybrid guardian-figures of the ancient Near East — winged sphinxes flanking thrones, doorways, and divine spaces (cf. the cherubim of the Ark, Ex 25:18; the cherub-throne in 1 Sam 4:4; Ezekiel's vision in Ezek 10). They are *not* the cherubic putti of medieval and Renaissance Christian art. The plural here suggests a small group, not a pair. לַהַט הַחֶרֶב הַמִּתְהַפֶּכֶת is more striking: לַהַט lahat 'flame, blade' (the word can mean either), חֶרֶב cherev 'sword', and הַמִּתְהַפֶּכֶת ha-mithappechet a hithpael participle 'the one turning itself' / 'the one that revolves'. The picture is a self-rotating flaming blade — possibly an autonomous weapon, possibly a flame that itself takes a sword's form. WoH renders 'the flaming blade that turns itself' to preserve the autonomous-motion image rather than smoothing into 'a flaming sword which turned every way' (KJV, where the sword is held by something else).",
+      "appliesTo": [
+        "GEN-3:24"
+      ]
+    },
+    {
+      "id": "qaniti-et-yhwh",
+      "source": "קָנִיתִי אִישׁ אֶת־יְהוָה",
+      "translit": "qaniti ish et-YHWH",
+      "strongs": "H7069+H376+H853+H3068",
+      "partOfSpeech": "verb (qal perfect) + noun + direct object marker + proper name",
+      "literal": "I have acquired/created a man, [with]/[the] YHWH",
+      "standardEnglish": "I have gotten a man from the LORD",
+      "wohChoice": "I have made a man — YHWH himself!",
+      "claim_type": "speculative",
+      "rationale": "Genesis 4:1 contains one of the strangest grammatical constructions in the book. קָנִיתִי qaniti is qal perfect of קָנָה — semantic range 'acquire, get, possess', but also 'create, beget' (especially of divine creation, e.g., Gen 14:19 'maker of heaven and earth', Ps 139:13). אֶת־יְהוָה et-YHWH is the direct-object marker followed by the Tetragrammaton — grammatically reading 'I have acquired/created a man, YHWH' (in apposition). Most translations finesse this with a preposition: 'with the help of the LORD' (KJV), 'with the LORD' (NJPS), 'with the assistance of the LORD' (Alter). The Hebrew has no preposition; the direct-object marker is plain. The 'help' is supplied to avoid the implication that Chavvah claims to have *given birth to* YHWH. Reading the Hebrew straight, however, opens a remarkable possibility: Chavvah, freshly out of the garden, makes a co-creator claim — the first human birth is framed in language reserved elsewhere for divine creation. Whether the et- is appositional ('a man, YHWH'), associative ('a man with YHWH'), or instrumental ('a man via YHWH') the Hebrew does not adjudicate. WoH renders the verse with the strong reading and lets commentary surface the alternatives.",
+      "appliesTo": [
+        "GEN-4:1"
+      ]
+    },
+    {
+      "id": "hevel",
+      "source": "הֶבֶל",
+      "translit": "Hevel",
+      "strongs": "H1893+H1892",
+      "partOfSpeech": "proper name / common noun",
+      "literal": "vapor, breath, mist, emptiness, futility",
+      "standardEnglish": "Abel",
+      "wohChoice": "Hevel",
+      "claim_type": "direct",
+      "rationale": "הֶבֶל is the proper name of Cain's brother and is identical in form to the common noun הֶבֶל hevel — the word that opens Qohelet/Ecclesiastes ('הֲבֵל הֲבָלִים havel havalim, vapor of vapors, all is hevel'). The lexical sense is vapor, breath, fleetingness, futility. Naming the second son *Hevel* is precise foreshadowing — his life will be brief and his death will be unaccounted for in the genealogy. The English form *Abel* derives via the LXX (Ἄβελ) and Vulgate; the Hebrew form preserves the resonance. The chapter is silent on the etymology — unlike its older brother *Qayin* (Cain), whose mother gives an etymological speech in v1, Hevel arrives in v2 with no naming ceremony. The silence itself is striking.",
+      "appliesTo": [
+        "GEN-4:2",
+        "GEN-4:4",
+        "GEN-4:5",
+        "GEN-4:8",
+        "GEN-4:9",
+        "GEN-4:25"
+      ]
+    },
+    {
+      "id": "oved-adamah-roeh-tzon",
+      "source": "עֹבֵד אֲדָמָה / רֹעֵה צֹאן",
+      "translit": "oved adamah / roeh tzon",
+      "strongs": "H5647+H127+H7462+H6629",
+      "partOfSpeech": "participle + noun, participle + noun",
+      "literal": "worker of ground / shepherd of flock",
+      "standardEnglish": "tiller of the ground / keeper of sheep",
+      "wohChoice": "worker of the ground / shepherd",
+      "claim_type": "direct",
+      "rationale": "The brothers' occupations are described with two construct phrases that frame the rest of the chapter. Cain is עֹבֵד אֲדָמָה oved adamah — the same verb עָבַד avad used of the human in 2:15 ('to work it') and 3:23 ('to work the ground') for the post-garden mandate. Cain is the continuator of the adamah-worker role. Hevel is רֹעֵה צֹאן roeh tzon — shepherd of flock, the pastoral counterpart. The two occupations together represent the foundational economic division of ANE Near Eastern life: settled agriculture vs. nomadic pastoralism. The brothers embody two ways of life, and the chapter's tragedy will choose between them: YHWH regards Hevel's offering from the flock; Cain's offering from the ground is not regarded.",
+      "appliesTo": [
+        "GEN-4:2"
+      ]
+    },
+    {
+      "id": "minchah-shaah",
+      "source": "מִנְחָה / שָׁעָה",
+      "translit": "minchah / shaah",
+      "strongs": "H4503+H8159",
+      "partOfSpeech": "noun + verb (qal)",
+      "literal": "gift, tribute, offering / look at, regard, pay attention to",
+      "standardEnglish": "offering / had respect / regarded",
+      "wohChoice": "offering / looked favorably on",
+      "claim_type": "direct",
+      "rationale": "מִנְחָה minchah is the generic word for a gift or tribute — used for diplomatic gifts between humans (Gen 32:14), royal tribute (1 Kgs 4:21), and, in cultic context, for a vegetable/grain offering (distinct from the animal זֶבַח zevach). At this point in the narrative, the cultic categories of Leviticus do not exist yet — Cain's offering of fruit and Hevel's offering of firstborn-of-flock are both *minchot* in the generic sense. שָׁעָה shaah is 'to regard, look favorably toward'. The verb is used in v4 with positive sense ('YHWH looked favorably on Hevel and his offering') and in v5 with negation ('but to Cain and his offering he did not look favorably'). The Hebrew gives *no reason* for the differential reception. Tradition has filled the gap heavily (Hevel offered firstlings *and* their fat; Cain merely 'fruit of the ground' without selection — but these inferences add to the text, they do not derive from it). The text leaves the asymmetry as data, not as explanation.",
+      "appliesTo": [
+        "GEN-4:3",
+        "GEN-4:4",
+        "GEN-4:5"
+      ]
+    },
+    {
+      "id": "chatat-rovetz",
+      "source": "לַפֶּתַח חַטָּאת רֹבֵץ",
+      "translit": "la-petach chatat rovetz",
+      "strongs": "H6607+H2403+H7257",
+      "partOfSpeech": "prepositional phrase + noun + participle",
+      "literal": "at the door, sin / sin-offering [is] crouching",
+      "standardEnglish": "sin lieth at the door",
+      "wohChoice": "sin couches at the door",
+      "claim_type": "inferred",
+      "rationale": "Three observations. First, חַטָּאת chatat is grammatically feminine, but the participle רֹבֵץ rovetz is grammatically masculine — a grammatical mismatch suggesting *chatat* is being personified as a male figure (an animal? a demon?) crouching at the door. Second, the verb רָבַץ ravats is used of animals — sheep lying down (Gen 29:2), wild beasts in their dens (Ps 104:22), a wolf in ambush. The picture is bestial-predatory, not abstract. Third, חַטָּאת chatat carries a double range — sin (the act) and sin-offering (the cultic remedy). The double sense gives the verse productive ambiguity: at the door of Cain's life, either *sin is crouching* (about to overtake him) or *the sin-offering is crouching* (available to remedy what's coming). Most modern translations choose 'sin'; the offering reading is older (some rabbinic, some early Christian). WoH renders 'sin couches' (preserving the animal verb) and surfaces the chatat-as-offering reading in commentary on a future Levitical-context verse.",
+      "appliesTo": [
+        "GEN-4:7"
+      ]
+    },
+    {
+      "id": "teshuqah-mashal-parallel",
+      "source": "וְאֵלֶיךָ תְּשׁוּקָתוֹ וְאַתָּה תִּמְשָׁל־בּוֹ",
+      "translit": "v'eilekha t'shuqato v'atta timshal-bo",
+      "strongs": "H8669+H4910",
+      "partOfSpeech": "phrase",
+      "literal": "and toward you its longing, and you shall rule over it",
+      "standardEnglish": "unto thee shall be his desire, and thou shalt rule over him",
+      "wohChoice": "and its longing shall be for you, and you shall rule over it",
+      "claim_type": "inferred",
+      "rationale": "Genesis 4:7's second clause is **verbatim parallel** to Gen 3:16, swapping pronoun referents. In 3:16: אֶל־אִישֵׁךְ תְּשׁוּקָתֵךְ וְהוּא יִמְשָׁל־בָּךְ ('toward your husband [shall be] your longing, and he shall rule over you'). In 4:7: וְאֵלֶיךָ תְּשׁוּקָתוֹ וְאַתָּה תִּמְשָׁל־בּוֹ ('toward you [shall be] its longing, and you shall rule over it'). Same noun *t'shuqah*, same verb *mashal*. The parallel forces a re-reading of 3:16: if *sin's t'shuqah* toward Cain is a hostile/predatory drive that he *must master*, then the woman's *t'shuqah* toward her husband (3:16) is likely also a contested, predator-prey-shaped drive — *not* a tender romantic longing. The two verses comment on each other. WoH renders both with 'longing' (the most lexically neutral option) and lets the verse-pair declare its own meaning by being read together.",
+      "appliesTo": [
+        "GEN-4:7"
+      ]
+    },
+    {
+      "id": "damei-tzo'aqim",
+      "source": "דְּמֵי אָחִיךָ צֹעֲקִים",
+      "translit": "demei achikha tzo'aqim",
+      "strongs": "H1818+H251+H6817",
+      "partOfSpeech": "noun (plural construct) + noun + participle plural",
+      "literal": "bloods of your brother [are] crying out",
+      "standardEnglish": "the voice of thy brother's blood crieth",
+      "wohChoice": "the voice of your brother's bloods cries out",
+      "claim_type": "direct",
+      "rationale": "Two precise grammatical features that English typically smooths. First, דְּמֵי demei is **plural** ('bloods'), not singular — Hebrew uses the plural for shed blood (as opposed to circulating blood, which would be singular דָּם dam). The plural is a forensic register: blood that has been let, multiple drops/pools, blood-as-evidence. Second, צֹעֲקִים tzo'aqim is **plural participle** ('crying out', plural), agreeing with the plural bloods. The earth has not absorbed the blood; the blood remains as multiple speaking witnesses. Standard English collapses to 'thy brother's blood crieth' (KJV) — singular subject, singular verb. WoH preserves the plurality on both sides: 'bloods cries out' is grammatically odd in English (subject-verb agreement breaks if we pluralize subject), so the rendering keeps singular *cries* but plural *bloods*, signalling the Hebrew's witness-multiplicity.",
+      "appliesTo": [
+        "GEN-4:10"
+      ]
+    },
+    {
+      "id": "arur-min-ha-adamah",
+      "source": "אָרוּר אַתָּה מִן־הָאֲדָמָה",
+      "translit": "arur attah min ha-adamah",
+      "strongs": "H779+H4480+H127",
+      "partOfSpeech": "passive participle + pronoun + preposition + noun",
+      "literal": "cursed [are] you from the ground",
+      "standardEnglish": "cursed art thou from the earth",
+      "wohChoice": "cursed are you, from the ground",
+      "claim_type": "direct",
+      "rationale": "Genesis 4:11 is the **first** time the curse formula אָרוּר arur is pronounced directly on a *human*. In 3:14 the serpent received it (a non-human); in 3:17 the *ground* received it ('cursed is the ground because of you'). Now Cain receives it directly: 'cursed are you, *from the adamah* which opened its mouth to take your brother's bloods from your hand'. The preposition מִן min carries both 'from' (separative — Cain is cursed *away from* the ground, exiled) and the 'from' of causation ('cursed by the ground' — the ground is the agent). Both readings work. Either way, the structural arc is dark: the *ground* (the human's source-material from 2:7) is now active against him. The fratricide has turned the ground from passive substrate to forensic witness to alienating force.",
+      "appliesTo": [
+        "GEN-4:11"
+      ]
+    },
+    {
+      "id": "avon-mins'so",
+      "source": "גָּדוֹל עֲוֺנִי מִנְּשֹׂא",
+      "translit": "gadol avoni mi-n'so",
+      "strongs": "H1419+H5771+H4480+H5375",
+      "partOfSpeech": "adjective + noun with 1cs suffix + prepositional + infinitive",
+      "literal": "great [is] my iniquity / punishment from bearing",
+      "standardEnglish": "my punishment is greater than I can bear",
+      "wohChoice": "my iniquity is too great to bear",
+      "claim_type": "inferred",
+      "rationale": "עָוֹן avon is one of the most semantically loaded nouns in biblical Hebrew, spanning **three** distinct senses: (1) the *act* of sin/iniquity, (2) the *guilt* of sin, (3) the *consequence/punishment* for sin. The lexicon does not split them; Hebrew uses one word for the act, its weight, and its result. The verb נָשָׂא nasa 'to bear, carry, lift' is similarly multivalent — it covers both 'bearing the weight of guilt' and 'bearing the punishment' (and, theologically loaded, 'lifting/forgiving the iniquity'). Cain's cry can be read three ways: (a) my *guilt* is too great to bear (remorse), (b) my *punishment* is too great to bear (complaint), (c) my *iniquity is too great to be lifted/forgiven* (despair of mercy). The Hebrew supports all three; tradition has read each. WoH renders 'my iniquity is too great to bear' to preserve the act-and-consequence ambiguity in English, with commentary surfacing the (c) reading as well.",
+      "appliesTo": [
+        "GEN-4:13"
+      ]
+    },
+    {
+      "id": "na-va-nad",
+      "source": "נָע וָנָד",
+      "translit": "na va-nad",
+      "strongs": "H5128+H5110",
+      "partOfSpeech": "active participle pair, qal",
+      "literal": "wandering and fugitive / restless and roaming",
+      "standardEnglish": "a fugitive and a vagabond",
+      "wohChoice": "a wanderer and a fugitive",
+      "claim_type": "direct",
+      "rationale": "Two participles, both from roots of restless motion. נָע na from נוּעַ nu'a 'to move, totter, wander aimlessly'. נָד nad from נוּד nud 'to wander, flee, mourn-with-movement'. The pair is alliterative in Hebrew (na va-nad) and the meaning is reinforced rather than divided — Cain will be in continuous, purposeless motion. The pair is followed in v16 by the place-name נוֹד Nod (same root as nad) — 'the land of Wandering'. The wandering becomes a place; the place becomes Cain's address. The name and the condition fuse. KJV 'fugitive and vagabond' carries the right register but reads archaic; 'wanderer and fugitive' keeps the alliterative pairing while updating the diction.",
+      "appliesTo": [
+        "GEN-4:12",
+        "GEN-4:14"
+      ]
+    },
+    {
+      "id": "ot-l-kayin",
+      "source": "אוֹת לְקַיִן",
+      "translit": "ot l'qayin",
+      "strongs": "H226+H7014",
+      "partOfSpeech": "noun + preposition + proper name",
+      "literal": "a sign for Cain",
+      "standardEnglish": "a mark upon Cain",
+      "wohChoice": "a sign for Cain",
+      "claim_type": "direct",
+      "rationale": "אוֹת ot is the generic word for 'sign' — a marker, a token, a portent. It covers a wide range: the rainbow as ot (9:13), circumcision as ot (17:11), the Sabbath as ot (Ex 31:13), miraculous portents as otot (Ex 4:8–9). KJV's 'mark' (the famous *mark of Cain*) suggests something inscribed *on* Cain's body, but the Hebrew preposition is לְ l- ('for/to'), not עַל al ('on/upon'). The sign is *for* Cain — given to him, possibly carried by him, possibly placed in his vicinity. The text is silent on *what* the sign is and *where* it is placed. The medieval interpretive tradition that turned the sign into a forehead-brand has shaped English usage; the Hebrew refuses to specify. WoH renders 'a sign for Cain' and preserves the openness.",
+      "appliesTo": [
+        "GEN-4:15"
+      ]
+    },
+    {
+      "id": "eretz-nod-qidmat-eden",
+      "source": "אֶרֶץ נוֹד קִדְמַת־עֵדֶן",
+      "translit": "eretz Nod qidmat Eden",
+      "strongs": "H776+H5113+H6926+H5731",
+      "partOfSpeech": "noun + place name + construct + place name",
+      "literal": "land of Wandering, east of Eden",
+      "standardEnglish": "the land of Nod, on the east of Eden",
+      "wohChoice": "the land of Nod — Wandering — east of Eden",
+      "claim_type": "direct",
+      "rationale": "נוֹד Nod is morphologically identical to the participle נָד nad 'wandering' from v12. Cain is sentenced to be *na va-nad* (wanderer-fugitive) and then settles in *eretz Nod* — the land *called Wandering*. The place-name turns the condition into geography: Cain's punishment becomes his address. *Qidmat Eden* — east of Eden — relocates him spatially in relation to the garden (cf. 3:24, the cherubim are placed at the *east* of the garden of Eden; Cain settles in the same eastern compass-direction). The garden is now west of Cain. The west-east axis tracks: humans began in Eden, were placed in the garden (within Eden, eastward, 2:8), driven out east-ward where the cherubim guard, and now Cain has continued the eastward motion. The pattern is exilic in direction.",
+      "appliesTo": [
+        "GEN-4:16"
+      ]
+    },
+    {
+      "id": "lamech-song",
+      "source": "Lamech's song",
+      "translit": "shir Lamekh",
+      "strongs": "H3929",
+      "partOfSpeech": "passage type",
+      "literal": "—",
+      "standardEnglish": "—",
+      "wohChoice": "—",
+      "claim_type": "direct",
+      "rationale": "Genesis 4:23–24 is the first **poem** in the Hebrew Bible. It is structured as a chiastic boast: Lamech addresses his two wives (*hear my voice, give ear to my speech*), names the violent act (*a man I have killed for wounding me, a child for bruising me*), and concludes with a multiplication on Cain's vengeance-formula ('if Cain is avenged sevenfold, then Lamech seventy-and-sevenfold'). The escalation is structural: the line of Cain moves from one fratricide to one act of disproportionate retaliation, with the multiplier increasing from 7× (the divine protection-formula given to Cain) to 77× (Lamech's self-arrogated revenge-formula). The poem signals the moral trajectory of the Cain genealogy without commentary — by structure alone.",
+      "appliesTo": [
+        "GEN-4:23",
+        "GEN-4:24"
+      ]
+    },
+    {
+      "id": "shet-shat",
+      "source": "שֵׁת / שָׁת",
+      "translit": "Shet / shat",
+      "strongs": "H8352+H7896",
+      "partOfSpeech": "proper name / verb (qal perfect)",
+      "literal": "Shet / he placed, appointed, set",
+      "standardEnglish": "Seth",
+      "wohChoice": "Shet",
+      "claim_type": "direct",
+      "rationale": "Like the other names of Genesis 4 (Cain ← qaniti, Nod ← nad), Shet is given with an etymological gloss: כִּי שָׁת־לִי אֱלֹהִים זֶרַע אַחֵר ('for the Elohim has appointed for me another seed'). The verb שָׁת shat from שִׁית shit 'to place, set, appoint' shares the consonants with שֵׁת Shet. The English form *Seth* derives from the LXX (Σήθ); the Hebrew form preserves the etymological link. Notable here: the speech is Chavvah's (the second time she speaks etymological in the chapter — first with Cain in v1, now with Shet), and her invocation has shifted from יְהוָה YHWH (v1, 'I have acquired a man — YHWH') to אֱלֹהִים Elohim (v25, 'the Elohim has appointed'). The vocabulary of divine reference is itself a meaningful trace.",
+      "appliesTo": [
+        "GEN-4:25"
+      ]
+    },
+    {
+      "id": "az-huchal-liqro",
+      "source": "אָז הוּחַל לִקְרֹא בְּשֵׁם יְהוָה",
+      "translit": "az huchal liqro b'shem YHWH",
+      "strongs": "H227+H2490+H7121+H8034+H3068",
+      "partOfSpeech": "adverb + verb (hophal) + infinitive + noun",
+      "literal": "then it began [was begun] to call on the name of YHWH",
+      "standardEnglish": "then began men to call upon the name of the LORD",
+      "wohChoice": "then it began to be called on the name of YHWH",
+      "claim_type": "direct",
+      "rationale": "The verb הוּחַל huchal is **hophal** (passive of the hiphil) of חָלַל chalal in the 'begin' sense — passive, impersonal: 'a beginning was made'. There is no explicit subject ('men', 'they', 'people'); the construction is intentionally subjectless, akin to 'it was begun'. KJV supplies the subject ('then began men') to make English natural; the Hebrew is more open — *some* calling-on-the-name began at this point, perhaps a cultic practice, perhaps a public utterance, perhaps something less formal. The verse closes chapter 4 by signaling that the calling-on-the-name of YHWH — the practice that will become normative Israelite worship — has its etiological origin in the Shet line, *not* the Cain line. The two genealogies of the chapter (Cain's, vv. 17–22; Shet's, vv. 25–26) have parted ways: Cain's culminates in metallurgy and the vengeance-song; Shet's culminates in the calling-on-the-name.",
+      "appliesTo": [
+        "GEN-4:26"
+      ]
+    },
+    {
+      "id": "sefer-toledot-adam",
+      "source": "סֵפֶר תּוֹלְדֹת אָדָם",
+      "translit": "sefer toledot adam",
+      "strongs": "H5612+H8435+H120",
+      "partOfSpeech": "noun construct chain",
+      "literal": "book/record of the begettings of Adam",
+      "standardEnglish": "the book of the generations of Adam",
+      "wohChoice": "the record of the begettings of Adam",
+      "claim_type": "direct",
+      "rationale": "Genesis 5:1 opens with a formula slightly different from the other ten toledot-formulae in Genesis: only here is the introduction *sefer toledot* — 'book/record of the begettings' rather than the simple 'these are the toledot of …'. The word סֵפֶר sefer denotes a written record, scroll, or document — the earliest possible signal of an embedded source-document inside the text. Some scholarly readers take this as evidence the chapter is a once-independent genealogical source incorporated into Genesis. Whatever the source-critical position, the verse signals a new register: the rest of Genesis 5 will follow a stereotyped pattern (born X, lived Y years, fathered Z, lived after Z W years, fathered other children, died, aged total) — the format of a list-document. אָדָם adam here has decisively become the proper name *Adam* (no article), continuing the transition that began in 4:25.",
+      "appliesTo": [
+        "GEN-5:1"
+      ]
+    },
+    {
+      "id": "bidmut-elohim-recap",
+      "source": "בִּדְמוּת אֱלֹהִים עָשָׂה אֹתוֹ",
+      "translit": "bidmut elohim asah oto",
+      "strongs": "H1823+H430+H6213",
+      "partOfSpeech": "prepositional phrase + verb",
+      "literal": "in the likeness of Elohim he made him",
+      "standardEnglish": "in the likeness of God made he him",
+      "wohChoice": "in the likeness of Elohim he made him",
+      "claim_type": "direct",
+      "rationale": "Genesis 5:1–2 deliberately recapitulates 1:26–27 in compressed form, using the second of the *image/likeness* pair — דְּמוּת demut 'likeness' — rather than the first (צֶלֶם tselem 'image'). The condensed recall serves the toledot-header's function: it grounds the genealogy in the original making-act. Notably, the verse pairs *bidmut elohim* with the verb עָשָׂה asah 'made' (rather than בָּרָא bara 'shaped' used in 1:27) — a small lexical choice that aligns chapter 5's anthropology with the broader making-language of the chapter (cf. 5:3, *Adam fathered in his own likeness, like his image*). Standard 'God' here is rendered *Elohim* throughout WoH to maintain the plural-class noun consistently. See `tselem-demut` for the v1:26 treatment.",
+      "appliesTo": [
+        "GEN-5:1"
+      ]
+    },
+    {
+      "id": "vayqra-shemam-adam",
+      "source": "וַיִּקְרָא אֶת־שְׁמָם אָדָם",
+      "translit": "vayqra et-shemam adam",
+      "strongs": "H7121+H8034+H120",
+      "partOfSpeech": "verb + noun (3mp suffix) + proper name",
+      "literal": "and he called their name Adam",
+      "standardEnglish": "and called their name Adam",
+      "wohChoice": "and he called their name Adam",
+      "claim_type": "direct",
+      "rationale": "A grammatical curiosity that English typically misses: שְׁמָם shemam is 'their name' — third-person masculine plural pronominal suffix on a singular noun. *Their name [singular] [is] Adam*. The pair are given a *single* shared species-name, *adam* — recapitulating 1:27's pattern where the species-category-noun applies to both. The grammar makes a quiet point: when the species is named, the proper-noun reading does not yet apply — *adam* is still functioning as 'human' (category) here, even though the same word will function as a proper name from v3 onward. The verse straddles the transition.",
+      "appliesTo": [
+        "GEN-5:2"
+      ]
+    },
+    {
+      "id": "bidmuto-ktsalmo",
+      "source": "בִּדְמוּתוֹ כְּצַלְמוֹ",
+      "translit": "bidmuto ktsalmo",
+      "strongs": "H1823+H6754",
+      "partOfSpeech": "prepositional phrases with 3ms suffix",
+      "literal": "in his likeness, according to his image",
+      "standardEnglish": "in his own likeness, after his image",
+      "wohChoice": "in his likeness, after his image",
+      "claim_type": "direct",
+      "rationale": "Genesis 5:3 reverses the order of the *image/likeness* pair from 1:26 (*tselem* first, *demut* second) and applies it to a *human* transmission: *Adam fathered* a son *in his own likeness, after his own image*. The phrase that 1:26 used for divine-to-human likeness is now used for human-to-human inheritance. Two readings of the structural significance: (1) the imago is *transmitted* through reproduction — what Adam received from the Elohim he passes to Seth; (2) the Adam-Seth resemblance is the *first instance* of inherited likeness, with the v3 formula serving as the foundational template for biological inheritance. WoH renders both nouns straight and preserves the suffix-doubling: 'in his likeness, after his image'. The pivotal observation — that the imago is *heritable* — is the chapter's quiet theological claim.",
+      "appliesTo": [
+        "GEN-5:3"
+      ]
+    },
+    {
+      "id": "shenei-ha-avot",
+      "source": "Ages of the pre-Flood patriarchs",
+      "translit": "shenei ha-avot",
+      "strongs": "—",
+      "partOfSpeech": "exegetical topic",
+      "literal": "—",
+      "standardEnglish": "—",
+      "wohChoice": "—",
+      "claim_type": "speculative",
+      "rationale": "The ages in Genesis 5 range from 365 (Enoch, taken early) to 969 (Methuselah, the longest-lived); the non-Enoch average is roughly 907–963. The numbers are presented flat — no commentary, no apology, no symbolic key supplied by the text. Three principal interpretive frameworks exist. (1) **Literal**: pre-Flood conditions (atmospheric pressure, biological state, ancestral genetics) supported lifespans now lost. (2) **Symbolic/numerological**: the numbers encode theological or astronomical meanings — e.g., Enoch's 365 = solar year. The numerical chains have catchable patterns (Methuselah's 969 = the year of the Flood in the chronological arithmetic of the chapter). (3) **ANE comparative**: the Sumerian King List records pre-flood reigns of tens of thousands of years (28,800; 36,000; 43,200); Genesis' Mesopotamian neighbors had vastly longer numbers. Genesis 5's ages, however striking by modern standards, are *demythologized* relative to those traditions — already drastically scaled down. The 600-year Adamic span and the dropping ages after the Flood (Gen 11) align with a structural pattern of pre/post-Flood divergence that the ANE materials share. WoH renders the numbers as the text gives them and surfaces the three reading frameworks in commentary; the chapter does not need to be defended or explained-away to remain coherent.",
+      "appliesTo": [
+        "GEN-5:5",
+        "GEN-5:8",
+        "GEN-5:11",
+        "GEN-5:14",
+        "GEN-5:17",
+        "GEN-5:20",
+        "GEN-5:23",
+        "GEN-5:27",
+        "GEN-5:31"
+      ]
+    },
+    {
+      "id": "chanoch-vayithallech",
+      "source": "וַיִּתְהַלֵּךְ חֲנוֹךְ אֶת־הָאֱלֹהִים",
+      "translit": "vayithallech Chanoch et ha-elohim",
+      "strongs": "H1980+H2585+H853+H430",
+      "partOfSpeech": "verb (hithpael preterite) + proper name + direct-object marker + noun with article",
+      "literal": "and Enoch walked-about with the Elohim",
+      "standardEnglish": "and Enoch walked with God",
+      "wohChoice": "Enoch walked about with the Elohim",
+      "claim_type": "direct",
+      "rationale": "Three notable features. First, the verb is הִתְהַלֵּךְ hithallech (hithpael), the *same form* used in 3:8 of YHWH-Elohim *walking about in the garden*. Genesis is using a deliberate verbal echo: what YHWH-Elohim did *in the garden* (3:8), Enoch does *with the Elohim* (5:22, 24). Enoch is *with* the Elohim in the way the Elohim was *in* the garden — habitually moving, present, at-home. Second, the direct-object marker אֶת et governs הָאֱלֹהִים ha-elohim (with article — *the Elohim*) — Enoch is not walking *with* (a preposition that would be עִם im or אֵת et meaning 'with') but walking *the* Elohim — possibly read as 'walking in the company of', possibly as a stronger 'walking accompanying', possibly even 'walking on behalf of'. Most translations render 'walked with God'; the Hebrew is a touch more intimate, the construction unusual. Third, the *direct-article* on Elohim (הָאֱלֹהִים, the-Elohim) is the same form used in Genesis where Elohim functions as a definite category-noun rather than a quasi-proper-name. WoH renders 'Enoch walked about with the Elohim' and notes the et-construction in commentary.",
+      "appliesTo": [
+        "GEN-5:22",
+        "GEN-5:24"
+      ]
+    },
+    {
+      "id": "veh-einennu-laqach",
+      "source": "וְאֵינֶנּוּ כִּי־לָקַח אֹתוֹ אֱלֹהִים",
+      "translit": "v'einennu ki laqach oto elohim",
+      "strongs": "H369+H3947+H853+H430",
+      "partOfSpeech": "negative particle + 3ms suffix + conjunction + verb + direct-object marker + noun",
+      "literal": "and he is not, for the Elohim took him",
+      "standardEnglish": "and he was not; for God took him",
+      "wohChoice": "and he was not, for the Elohim took him",
+      "claim_type": "direct",
+      "rationale": "Enoch is the only patriarch in Genesis 5 whose final disposition is not 'and he died' (וַיָּמֹת vayamot). The chapter's stereotyped death-formula is **broken** for him alone: instead, *v'einennu ki laqach oto elohim* — 'and he was not, for the Elohim took him'. The verb לָקַח laqach is the same verb used in 2 Kgs 2:9-11 for Elijah's ascension ('YHWH was about to *take* Elijah up to heaven by a whirlwind'). The Enoch and Elijah passages are the two clearest cases in the Hebrew Bible of bodily removal-without-death, and they share vocabulary. Later texts (1 Enoch, Jubilees, the Watchers tradition) build extensive cosmologies on this single broken-pattern verse. The Hebrew itself records only: he was not, for the Elohim took him. The text says nothing about destination, nothing about manner. The silence is at least as significant as the taking.",
+      "appliesTo": [
+        "GEN-5:24"
+      ]
+    },
+    {
+      "id": "methushelach-name",
+      "source": "מְתוּשֶׁלַח",
+      "translit": "Methushelach",
+      "strongs": "H4968",
+      "partOfSpeech": "proper name",
+      "literal": "man of the dart / when-he-dies-it-will-be-sent",
+      "standardEnglish": "Methuselah",
+      "wohChoice": "Methushelach",
+      "claim_type": "speculative",
+      "rationale": "מְתוּשֶׁלַח is morphologically מְתוּ-שֶׁלַח — mtu (man, mortal, from a rare root) + shelach (dart, weapon, or the verb 'send'). The most literal reading is 'man of the dart/weapon' — a warrior-name. But the verb root שָׁלַח shalach also means 'send forth, dispatch' — opening a second reading: 'when-he-dies-[it]-will-be-sent', referring (in midrashic tradition) to the Flood. The arithmetic is famously suggestive: Methushelach is 187 when he fathers Lamech (5:25); Lamech is 182 when he fathers Noah (5:28); Noah is 600 when the Flood begins (7:6). 187 + 182 + 600 = 969 — exactly Methushelach's recorded lifespan (5:27). The midrashic reading (Rashi) takes this as deliberate: Methushelach's death is the precondition for the Flood. WoH renders the Hebrew form *Methushelach* and surfaces both readings.",
+      "appliesTo": [
+        "GEN-5:21",
+        "GEN-5:22",
+        "GEN-5:25",
+        "GEN-5:26",
+        "GEN-5:27"
+      ]
+    },
+    {
+      "id": "noah-yenachmenu",
+      "source": "נֹחַ ... יְנַחֲמֵנוּ",
+      "translit": "Noach ... yenachmenu",
+      "strongs": "H5146+H5162",
+      "partOfSpeech": "proper name / verb (piel imperfect 3ms with 1cp suffix)",
+      "literal": "Noah / he will comfort us",
+      "standardEnglish": "Noah / he shall comfort us",
+      "wohChoice": "Noah / he will comfort us",
+      "claim_type": "inferred",
+      "rationale": "Lamech (the Shet-line Lamech, not the Cain-line Lamech of 4:18–24) names his son נֹחַ Noah and supplies the etymology: זֶה יְנַחֲמֵנוּ zeh yenachmenu — 'this one will comfort us'. The actual etymology of the name *Noach* is more likely from the root נוּחַ nuach 'to rest, settle, come to rest' (giving 'rest, settling') rather than נָחַם nacham 'comfort' (which would give the noun *nacham*). The two roots are related sonically but distinct lexically. The verse is performing a *folk etymology* — connecting Noah's name to *comfort* by sound-association, not strict derivation. The naming-speech also closes a structural arc: Lamech names his son in hope of relief *from the ground YHWH cursed* — the curse of 3:17 returns in the chapter's final naming-speech. The Shet-line acknowledges the curse and names a son in hope of its undoing. The flood narrative will continue the theme: Noah's name carries the chapter's hope, and the deluge will be partially answered in 8:21 ('I will not again curse the ground because of the human').",
+      "appliesTo": [
+        "GEN-5:29"
+      ]
+    },
+    {
+      "id": "b-nei-ha-elohim",
+      "source": "בְּנֵי־הָאֱלֹהִים",
+      "translit": "b'nei ha-elohim",
+      "strongs": "H1121+H430",
+      "partOfSpeech": "noun construct + noun with article",
+      "literal": "sons of the Elohim",
+      "standardEnglish": "sons of God",
+      "wohChoice": "sons of the Elohim",
+      "claim_type": "direct",
+      "rationale": "Genesis 6:2 introduces one of the most debated phrases in the Hebrew Bible. בְּנֵי b'nei is 'sons of' (construct plural); הָאֱלֹהִים ha-elohim is 'the Elohim' (definite). The phrase appears elsewhere in the Hebrew Bible at Job 1:6, 2:1, 38:7 — always referring to *divine beings* attending YHWH's council, never to human Sethites or Israelite rulers. The plain-reading lexical evidence consistently points to a divine class.\n\nFour interpretive traditions have grown up around the phrase. **(1) Fallen angels**: the Second Temple reading (1 Enoch, Jubilees, the Watchers tradition, Jude 6, 2 Peter 2:4), still dominant in Eastern Orthodox and many evangelical readings. **(2) Royal/judicial figures**: the Targum Onkelos renders 'sons of the great ones / nobles', reading the Elohim as human authorities (cf. Ps 82). **(3) Sethite line**: Augustine's reading, dominant in Western Christianity from late antiquity through the Reformation — the *b'nei ha-elohim* are the godly line of Seth, the *b'not ha-adam* the wayward Cain-line. **(4) Divine beings / a class of supernatural agents**: modern critical consensus, with varying degrees of literalism.\n\nWoH renders 'sons of the Elohim' — preserving both the plural class-noun *Elohim* and the construct 'sons of'. The reading is consistent with Genesis 1:26 ('let *us* make'), 3:22 ('like *one of us*'), and 5:24 (Chanoch taken by Elohim): the Elohim is a multi-being class, and 6:2 describes some of them — *their sons* — interacting reproductively with human women. The text does not condemn the union explicitly; the condemnation register comes in v3, where YHWH limits the human lifespan, and v5–7, where YHWH grieves human wickedness. Whether the wickedness is *caused by* the union or *coincident with* it, the text leaves open.",
+      "appliesTo": [
+        "GEN-6:2",
+        "GEN-6:4"
+      ]
+    },
+    {
+      "id": "b-not-ha-adam",
+      "source": "בְּנוֹת הָאָדָם",
+      "translit": "b'not ha-adam",
+      "strongs": "H1323+H120",
+      "partOfSpeech": "noun construct + noun with article",
+      "literal": "daughters of the human / of humankind",
+      "standardEnglish": "the daughters of men",
+      "wohChoice": "daughters of the human",
+      "claim_type": "direct",
+      "rationale": "The phrase pairs symmetrically with *b'nei ha-elohim* — sons-of-Elohim and daughters-of-the-human. Both use the construct chain (sons-of-X, daughters-of-Y) and definite articles. The pair frames the union as a class-crossing: divine males pairing with human females. The article on *ha-adam* preserves the species-noun sense (humankind in general, not the proper name Adam) — though by Genesis 6 the proper-name Adam has been operating since 4:25, the chapter is invoking the *species* once more. The verse is not naming individual human women (Eve has long died, in narrative time) but the broader female human population.",
+      "appliesTo": [
+        "GEN-6:2",
+        "GEN-6:4"
+      ]
+    },
+    {
+      "id": "vayyiqchu-nashim",
+      "source": "וַיִּקְחוּ לָהֶם נָשִׁים מִכֹּל אֲשֶׁר בָּחָרוּ",
+      "translit": "vayyiqchu lahem nashim mikkol asher bacharu",
+      "strongs": "H3947+H802+H977",
+      "partOfSpeech": "verb (qal preterite) + noun + phrase",
+      "literal": "and they took for themselves wives from any whom they chose",
+      "standardEnglish": "they took them wives of all which they chose",
+      "wohChoice": "they took wives for themselves — any they chose",
+      "claim_type": "direct",
+      "rationale": "Two precise observations. First, *vayyiqchu nashim* — *they took wives* — is the standard idiom for marriage in the Hebrew Bible (cf. Gen 4:19, 11:29, 12:19). The verb in itself is not violent; it is the conventional verb for *taking a woman in marriage*. The interpretive question is whether *the Elohim's sons* married the human daughters or *abducted* them — the verb covers both ranges, with context determining tone. Second, *mikkol asher bacharu* — *from any whom they chose* — emphasizes selection without restriction. The marriage / taking is a *broad* phenomenon — any of the human daughters could be chosen. The verb בָּחַר bachar 'choose' is the verb later used of YHWH choosing Israel; here it is used of the Elohim's sons choosing brides. The selection-by-the-superior pattern is paralleled, but inverted: where YHWH chooses Israel covenantally, the Elohim's sons here choose human women erotically. The covenantal verb is doing reproductive work.",
+      "appliesTo": [
+        "GEN-6:2"
+      ]
+    },
+    {
+      "id": "lo-yadon-ruchi",
+      "source": "לֹא־יָדוֹן רוּחִי בָאָדָם לְעֹלָם",
+      "translit": "lo yadon ruchi ba-adam l'olam",
+      "strongs": "H3808+H1777+H7307+H120",
+      "partOfSpeech": "negation + verb (qal imperfect, contested root) + noun + prep + adverb",
+      "literal": "my spirit shall not [verb-with-contested-root] in the human forever",
+      "standardEnglish": "my spirit shall not always strive with man",
+      "wohChoice": "my breath shall not abide in the human forever",
+      "claim_type": "speculative",
+      "rationale": "The verb יָדוֹן yadon is morphologically unique in the Hebrew Bible. Three roots have been proposed for it. **(1)** דּוּן/דִּין din 'judge, contend' — giving 'my spirit shall not always strive/contend with the human' (KJV, NIV). **(2)** Akkadian danānu 'remain' or related to a hypothetical שָׁכַן shakan 'dwell' — giving 'my spirit shall not always remain/abide in the human' (Speiser, JPS). **(3)** Hebrew נָדַן nadan 'sheath, contain' — giving 'my spirit shall not always be sheathed/housed in the human'. The Hebrew is grammatically unique enough that all three readings have philological support.\n\nThe semantic stakes are different. Reading (1) makes the verse a *struggle*: YHWH's spirit fights against the wickedness in humans, will not contend forever. Reading (2) is *withdrawal*: YHWH's life-giving spirit will no longer indwell humans — and the consequence is mortality limited to 120 years. Reading (3) is *containment*: the divine spirit will not be permanently housed in human bodies. WoH renders 'my breath shall not abide' (preserving the same *ruach* lexeme as 'breath' from Gen 1:2 and 2:7, where the divine breath gives humans life) — making the verse a limit on the *duration* of divine breath in human bodies. The mortality of v3 then follows naturally: when the divine breath no longer abides indefinitely, biological lifespan becomes bounded.",
+      "appliesTo": [
+        "GEN-6:3"
+      ]
+    },
+    {
+      "id": "b-shagam",
+      "source": "בְּשַׁגַּם",
+      "translit": "b'shagam",
+      "strongs": "H1571 (composite)",
+      "partOfSpeech": "compound particle (contested)",
+      "literal": "in-that-also / in-his-erring / since-also",
+      "standardEnglish": "for that he also is flesh",
+      "wohChoice": "since he is flesh after all",
+      "claim_type": "speculative",
+      "rationale": "Another grammatical hapax. The Masoretic vocalization בְּשַׁגַּם reads as a contraction of בְּ + שֶׁ + גַּם (b- + relative pronoun + 'also'), giving 'in that also he is flesh' — a causal-explanatory connective. **But** other readings have been proposed: (a) the consonants ב-ש-ג-ם can be read as the verb שָׁגָה shagah 'to err, go astray' — giving *b'shaggam* 'in their erring/straying' (i.e., 'on account of their straying he is flesh'). (b) Some textual witnesses read בְּשַׁגָּם differently, or emend to בְּ-שֶׁ-גַם (causal). The standard English 'for that he also is flesh' (KJV) reads the gam particle and adds 'for that' as connective.\n\nThe phrase's larger meaning is also contested. *Hu basar* 'he is flesh' contrasts with *ruchi* 'my spirit/breath' in the same verse. The construction *spirit/flesh* binary is doing structural work: YHWH's *ruach* will not abide in *basar* (flesh) forever. Whether the reason is the union with the Elohim's sons in v2 (humans now have hybrid flesh) or simply human mortal-flesh in general — the text holds the ambiguity. WoH renders 'since he is flesh after all' — capturing the causal-but-resigned tone that the gam ('also, after all') seems to add to *hu basar*.",
+      "appliesTo": [
+        "GEN-6:3"
+      ]
+    },
+    {
+      "id": "120-shanah",
+      "source": "וְהָיוּ יָמָיו מֵאָה וְעֶשְׂרִים שָׁנָה",
+      "translit": "v'hayu yamav me'ah v'esrim shanah",
+      "strongs": "H3117+H8141",
+      "partOfSpeech": "phrase",
+      "literal": "and his days shall be a hundred and twenty years",
+      "standardEnglish": "yet his days shall be an hundred and twenty years",
+      "wohChoice": "his days shall be one hundred and twenty years",
+      "claim_type": "speculative",
+      "rationale": "The 120-year number admits two principal readings. **(1) Lifespan limit**: the human lifespan is being capped at 120. Subsequent post-Flood patriarchs do drop progressively (the Gen 11 patriarchs live 148–600, dropping toward 120 by Moses, who dies at 120 — Deut 34:7 — as the *first* person to exactly fit the cap). **(2) Flood countdown**: 120 years is the time remaining until the Flood. The patriarchs in Gen 11 still live well over 120 because the cap was on time-until-Flood, not on individual lifespan.\n\nBoth readings have ancient pedigree. Targum Onkelos and Rashi favor (2) — the countdown — citing the parallel of 7:4 (\"seven more days and I will cause it to rain\") as a similar fixed grace-period. Reading (1) is older still and dominant in many modern English translations. The chapter does not resolve. Whichever reading one adopts, the verse marks a *temporal limit* — divine patience or biological capacity — and frames everything that follows in the chapter as a countdown or a re-calibration.",
+      "appliesTo": [
+        "GEN-6:3"
+      ]
+    },
+    {
+      "id": "nephilim",
+      "source": "הַנְּפִלִים",
+      "translit": "ha-Nephilim",
+      "strongs": "H5303",
+      "partOfSpeech": "noun, plural with article",
+      "literal": "the fallen ones / the fellers / the giants",
+      "standardEnglish": "giants",
+      "wohChoice": "the Nephilim",
+      "claim_type": "direct",
+      "rationale": "The morphology of נְפִילִים Nephilim is contested. Two main derivations: **(1)** from נָפַל nafal 'to fall' — Nephilim as 'the fallen ones' (passive sense, those who fell from a higher place) or 'fellers' (active sense, those who cause others to fall, i.e., overthrowers). **(2)** from Aramaic נְפִילָא nefila 'a giant' (the Aramaic loanword sense, possibly via Babylonian *naplu*) — Nephilim as 'giants', the LXX's choice (γίγαντες).\n\nThe Nephilim appear only twice in the Hebrew Bible: here (Gen 6:4) and Numbers 13:33 ('we saw the Nephilim there, the sons of Anak from the Nephilim — and we were as grasshoppers in our own sight'). The Numbers passage occurs *after* the Flood, presenting a textual puzzle: how could the Nephilim still be present if the Flood killed everyone except Noah's family? Three resolutions: (i) the Num 13 mention is hyperbolic / proverbial / panicked-spying; (ii) the Flood was localized, not global; (iii) the Nephilim re-emerged through some unspecified mechanism. The chapter's text refuses to comment. WoH renders 'the Nephilim' transliterated and surfaces the Numbers parallel in commentary.",
+      "appliesTo": [
+        "GEN-6:4"
+      ]
+    },
+    {
+      "id": "gibborim-anshei-ha-shem",
+      "source": "הַגִּבֹּרִים אֲשֶׁר מֵעוֹלָם אַנְשֵׁי הַשֵּׁם",
+      "translit": "ha-gibborim asher me-olam anshei ha-shem",
+      "strongs": "H1368+H5769+H376+H8034",
+      "partOfSpeech": "noun phrase",
+      "literal": "the mighty ones who [were] from of old, men of the name",
+      "standardEnglish": "mighty men which were of old, men of renown",
+      "wohChoice": "the mighty ones who were from of old, men of name",
+      "claim_type": "direct",
+      "rationale": "Three phrases in apposition with *the Nephilim*. **(1)** הַגִּבֹּרִים ha-gibborim — 'the mighty ones', the standard term for heroes, warriors, men of power (cf. Nimrod, 'the first *gibbor* on the land', Gen 10:8). **(2)** אֲשֶׁר מֵעוֹלָם asher me-olam — 'who were from of old', from a long-past time — the legendary register. **(3)** אַנְשֵׁי הַשֵּׁם anshei ha-shem — 'men of the name' / 'men of renown'. The phrase שֵׁם shem ('name') here carries the sense of *reputation, lasting reputation* — the same noun whose making the builders of Babel will seek in 11:4 ('let us make a *shem* for ourselves'). The phrase identifies these figures as the *named heroes* of legendary antiquity. The chapter is placing the Nephilim in the same register as the demigods, named heroes, and warrior-founders of ANE mythology — the Mesopotamian *apkallu*, the Greek heroes, the Egyptian pharaonic ancestors. Genesis 6 is connecting its narrative to that broader heroic-age framework, while routing it through its own theological grammar.",
+      "appliesTo": [
+        "GEN-6:4"
+      ]
+    },
+    {
+      "id": "vayinnachem-yhwh",
+      "source": "וַיִּנָּחֶם יְהוָה ... וַיִּתְעַצֵּב אֶל־לִבּוֹ",
+      "translit": "vayinnachem YHWH ... vayit'atsev el libo",
+      "strongs": "H5162+H6087",
+      "partOfSpeech": "verb (niphal preterite) + verb (hithpael preterite)",
+      "literal": "YHWH regretted ... and he was grieved to his heart",
+      "standardEnglish": "it repented the LORD ... and it grieved him at his heart",
+      "wohChoice": "YHWH regretted ... and he was grieved to his heart",
+      "claim_type": "direct",
+      "rationale": "The verb נִחַם nicham (niphal of נָחַם) covers 'be sorry, regret, change one's mind, be comforted/console oneself'. KJV's 'repented' carries the right archaic register but reads moralistic in modern English. The plain sense here is *regret*: YHWH is sorry he made humans. The same verb is used in 1 Sam 15:11 ('I regret that I made Saul king') and 1 Sam 15:35 ('YHWH regretted that he had made Saul king'). The Hebrew is unambiguous: YHWH-as-actor *changes-mind / regrets*.\n\nThe paired verb עָצַב atsav (hithpael) is 'to be grieved, pained' — same root as *etzev* (3:16, 3:17, 5:29) — the *hardship* word that has run through the human story since the curse. Now the same root is applied to YHWH's own response: he is *grieved*, the same word that named the woman's childbearing pain and the human's working-the-ground pain. The chapter constructs a parallel suffering: the creator and the creature both share the etzev-quality.\n\nThe theological-philosophical traditions have spent considerable effort explaining how an omniscient, impassible God can *regret* and *grieve*. The Hebrew makes no such concession. The text uses the vocabulary it uses, and tradition resolves the discord at higher levels of abstraction.",
+      "appliesTo": [
+        "GEN-6:6"
+      ]
+    },
+    {
+      "id": "emcheh",
+      "source": "אֶמְחֶה",
+      "translit": "emcheh",
+      "strongs": "H4229",
+      "partOfSpeech": "verb (qal imperfect 1cs)",
+      "literal": "I will wipe out, blot out, erase",
+      "standardEnglish": "I will destroy",
+      "wohChoice": "I will wipe out",
+      "claim_type": "direct",
+      "rationale": "The verb מָחָה machah is the verb for *erasing, blotting out, wiping clean*. It is used of erasing names from a record (Ex 32:32; Deut 9:14; Ps 69:28), of wiping tears from faces (Isa 25:8), of dishes being wiped clean (2 Kgs 21:13). The image is not destruction-with-fire but *erasure-with-cloth* — a clean removal, as one wipes a slate or a record. YHWH's intention in 6:7 is not punishment-as-spectacle but erasure-as-restart. The Flood is registered, in the chapter's vocabulary, as a clean-slate operation. KJV 'destroy' loses the wiping image. WoH renders 'wipe out' to preserve the verb's primary register.",
+      "appliesTo": [
+        "GEN-6:7"
+      ]
+    },
+    {
+      "id": "noach-vayithallech",
+      "source": "אֶת־הָאֱלֹהִים הִתְהַלֶּךְ־נֹחַ",
+      "translit": "et ha-elohim hithallech Noach",
+      "strongs": "H853+H430+H1980+H5146",
+      "partOfSpeech": "direct-object marker + noun + verb (hithpael perfect) + proper name",
+      "literal": "with the Elohim Noah walked-about",
+      "standardEnglish": "Noah walked with God",
+      "wohChoice": "Noah walked about with the Elohim",
+      "claim_type": "direct",
+      "rationale": "The verbal echo is exact. In 5:22, 24 the chapter says of Chanoch: *vayithallech Chanoch et ha-elohim* — 'Chanoch walked-about with the Elohim'. In 6:9 the chapter says of Noah: *et ha-elohim hithallech Noach* — same verb (hithallech, hithpael of halach), same direct-object construction (et ha-elohim, 'with the Elohim' rather than the more common preposition עִם im), same form, only the word-order reversed. Two pre-Flood figures are described with this exact construction. The pattern is conspicuous: Chanoch (taken before the Flood) and Noah (preserved through the Flood) are the only humans the Hebrew Bible's pre-Flood narrative singles out for this distinct verbal-relational marker with the Elohim. The construction marks them as exceptional in *the same way*, even as their fates diverge.",
+      "appliesTo": [
+        "GEN-6:9"
+      ]
+    },
+    {
+      "id": "shachat-chamas",
+      "source": "וַתִּשָּׁחֵת הָאָרֶץ ... וַתִּמָּלֵא הָאָרֶץ חָמָס",
+      "translit": "vatishachet ha-aretz ... vatimmale ha-aretz chamas",
+      "strongs": "H7843+H2555",
+      "partOfSpeech": "verb (niphal) + noun + verb (niphal) + noun",
+      "literal": "and the land was corrupted ... and the land was filled with violence",
+      "standardEnglish": "the earth also was corrupt ... and the earth was filled with violence",
+      "wohChoice": "the land was corrupted ... and the land was filled with violence",
+      "claim_type": "direct",
+      "rationale": "Two intertwined diagnoses of the pre-Flood condition.\n\n*Shachat* — שָׁחַת — covers 'destroy, ruin, corrupt, mar' in different stems. The chapter exploits the multivalence brutally. The land is *corrupted* (niphal, passive — v11), *all flesh corrupted its way* (hiphil, causative-active — v12), and YHWH *is about to destroy them* (hiphil participle *mashchitam* — v13). The same root carries the corruption *and* the destruction-as-response. The Flood is the land's own corruption brought to consummation; YHWH's destruction is the same verb the land already enacted on itself.\n\n*Chamas* — חָמָס — denotes criminal violence: oppression, robbery, wrongful injury. Not generic 'wrongdoing' but specifically violence-as-injustice. Ezekiel 7:23 ('the land is full of judgments of bloodshed, and the city is full of chamas') uses the term similarly. The chapter's specific diagnosis is not unrighteousness in some abstract sense but *violence against neighbor*. The Flood is the consequence of violence-saturated land.",
+      "appliesTo": [
+        "GEN-6:11",
+        "GEN-6:12",
+        "GEN-6:13"
+      ]
+    },
+    {
+      "id": "qets-kol-basar",
+      "source": "קֵץ כָּל־בָּשָׂר",
+      "translit": "qets kol basar",
+      "strongs": "H7093+H3605+H1320",
+      "partOfSpeech": "noun construct chain",
+      "literal": "the end of all flesh",
+      "standardEnglish": "the end of all flesh",
+      "wohChoice": "the end of all flesh",
+      "claim_type": "direct",
+      "rationale": "קֵץ qets — *end, termination, limit*. The phrase *qets kol basar* is the apocalyptic register inserted at v13: an absolute terminus has come for all flesh. The phrase will be picked up by later apocalyptic traditions (Daniel 12, the New Testament eschatology, the Qumran texts on the 'end of days'). Here at its origin, the phrase names a *first* end — not the eschatological End but the proto-eschatological *end of the world-that-was-before*. The Flood is presented in the chapter's grammar as a real terminus, with continuation through the ark as the only thread.\n\nכָּל־בָּשָׂר *kol basar* — *all flesh* — encompasses humans and animals together. The flesh category here is broader than the human category; the consequence falls on the entire animate biosphere. Note that *all flesh corrupted its way* in v12: the corruption is being attributed to all flesh, not just humans. The animal world is part of the diagnosis.",
+      "appliesTo": [
+        "GEN-6:13",
+        "GEN-6:17",
+        "GEN-6:19"
+      ]
+    },
+    {
+      "id": "tevah",
+      "source": "תֵּבָה",
+      "translit": "tevah",
+      "strongs": "H8392",
+      "partOfSpeech": "noun, feminine",
+      "literal": "ark, chest, vessel",
+      "standardEnglish": "ark",
+      "wohChoice": "ark",
+      "claim_type": "direct",
+      "rationale": "The word תֵּבָה tevah occurs **only twice** in the Hebrew Bible: here, for Noah's ark (Gen 6:14ff), and in Exodus 2:3, 5 for the basket in which infant Moses is set afloat on the Nile. The same word, the same construction-with-pitch (וְכָפַרְתָּ ... בַּכֹּפֶר v'khafarta ... bakkofer — 'pitch it with pitch'; cf. Ex 2:3 וַתַּחְמְרָה בַחֵמָר וּבַזָּפֶת — 'she daubed it with bitumen and pitch'), and the same function: a small ark-of-rescue carrying the protagonist through deadly waters. The verbal parallel is not coincidence — the Hebrew Bible's two great water-deliverance narratives (the Flood and the Exodus opening) are linked by this rare word. Note that this is NOT the word for the Ark of the Covenant (ארון aron); the Hebrew distinguishes the two.",
+      "appliesTo": [
+        "GEN-6:14",
+        "GEN-6:15",
+        "GEN-6:16",
+        "GEN-6:18",
+        "GEN-6:19"
+      ]
+    },
+    {
+      "id": "mabbul",
+      "source": "הַמַּבּוּל",
+      "translit": "ha-mabbul",
+      "strongs": "H3999",
+      "partOfSpeech": "noun, masculine, with article",
+      "literal": "the deluge",
+      "standardEnglish": "the flood",
+      "wohChoice": "the deluge",
+      "claim_type": "direct",
+      "rationale": "מַבּוּל mabbul is a specific noun used in the Hebrew Bible *only* for the Noahic flood (Gen 6–11, plus a single reference in Ps 29:10). It is *not* the generic word for flood — the more common term is שִׁטָּפוֹן shittafon or מַשְׁבָּר mashbar. The exclusive use of *mabbul* for this one event signals its theological-historical uniqueness: it is *the* deluge, not *a* flood. The English 'deluge' (from Latin diluvium) preserves the specificity better than the generic 'flood'. WoH renders 'the deluge' on first introduction and 'the flood' thereafter when context is clear.",
+      "appliesTo": [
+        "GEN-6:17"
+      ]
+    },
+    {
+      "id": "brit-covenant",
+      "source": "וַהֲקִמֹתִי אֶת־בְּרִיתִי אִתָּךְ",
+      "translit": "vahaqimoti et b'riti ittach",
+      "strongs": "H6965+H1285",
+      "partOfSpeech": "verb (hiphil perfect) + direct-object marker + noun + preposition",
+      "literal": "and I will establish my covenant with you",
+      "standardEnglish": "and I will establish my covenant with thee",
+      "wohChoice": "I will establish my covenant with you",
+      "claim_type": "direct",
+      "rationale": "**Genesis 6:18 contains the first occurrence of בְּרִית b'rit (covenant) in the Hebrew Bible.** The word that will become the organizing concept of Israelite theology — covenant — appears here for the first time, given to Noah. The full establishment-formula will come in chapter 9 (the rainbow-covenant); here in 6:18 the *promise* of covenant is made as part of the ark instructions. The Hebrew verb is הֵקִים heqim 'to establish, set up, raise up', a hiphil — covenant is *put in place* by divine action. The preposition *itt-* with 2ms suffix means 'with you' — direct covenantal address to Noah. From this verse forward, covenant-vocabulary will structure the rest of the Hebrew Bible. The chapter that opens with the dissolution of the divine-human boundary (vv. 1–4) ends with the establishment of a *covenantal* boundary — a different kind of structuring relation, formal and binding rather than reproductive and dissolving.",
+      "appliesTo": [
+        "GEN-6:18"
+      ]
+    },
+    {
+      "id": "shivah-shivah",
+      "source": "שִׁבְעָה שִׁבְעָה",
+      "translit": "shivah shivah",
+      "strongs": "H7651",
+      "partOfSpeech": "cardinal number, distributive",
+      "literal": "seven seven (i.e., seven pairs each / seven of each)",
+      "standardEnglish": "by sevens",
+      "wohChoice": "seven pairs",
+      "claim_type": "speculative",
+      "rationale": "Genesis 7:2 instructs Noah to take *shivah shivah* of every clean animal — literally 'seven seven' — and *shenayim* (two) of every unclean. The doubling-as-distributive ('seven each / seven pairs') is grammatically clear; what is contested is whether *shivah shivah* means *seven individuals* or *seven pairs*. The construction in v2 itself adds *ish v'ishto* (literally 'man and his woman' — the conventional biblical idiom for a mated pair), strongly favoring the *seven pairs* reading. Most modern critical translations adopt seven pairs.\n\nThe instruction contradicts 6:19–20, where Noah was told to bring *two of every kind* — without the clean/unclean distinction. The two instructions reflect different source strands (P at 6:19–20; J at 7:2–3 with the cultic-distinction inserted) per the documentary hypothesis. Whether one accepts source-criticism or not, the *textual* tension is real and ancient. The redactor preserved both instructions side by side, leaving the reader to harmonize. The most common harmonization: 6:19–20 is the general instruction; 7:2 is the *specific* override for clean animals — and Noah ends up with seven pairs of each clean species plus two of each unclean.",
+      "appliesTo": [
+        "GEN-7:2",
+        "GEN-7:3"
+      ]
+    },
+    {
+      "id": "bahemah-tahor",
+      "source": "הַבְּהֵמָה הַטְּהוֹרָה",
+      "translit": "ha-behemah ha-tehorah",
+      "strongs": "H929+H2889",
+      "partOfSpeech": "noun + adjective, with article",
+      "literal": "the clean cattle",
+      "standardEnglish": "every clean beast",
+      "wohChoice": "the clean cattle",
+      "claim_type": "direct",
+      "rationale": "Genesis 7:2 introduces the **clean / unclean** distinction *before* the Sinai legislation (Lev 11) that formally codifies it. The cultic categorization that will structure later Israelite ritual practice appears here as already-operating knowledge, with no source attributed and no list supplied. Three readings: **(1)** Anachronistic narration — the narrator uses Sinai categories proleptically. **(2)** Pre-Sinai natural categories — there was always a knowable distinction, and Sinai later codified it. **(3)** Implicit traditions — Noah had received the categories from sources the text does not bother to detail.\n\nThe Hebrew is silent on the criteria. *Tahor* (clean) and the negation *lo tahor* (not clean) are used without explanation. The chapter assumes the reader-and-Noah know which animals fall in each category. This is one of several places in Genesis where Sinai-categorized phenomena appear before Sinai (cf. sabbath in Gen 2:2-3, sacrifice in 4:3-5, circumcision in 17). The chapter records the operating categories without justifying them.",
+      "appliesTo": [
+        "GEN-7:2",
+        "GEN-7:8"
+      ]
+    },
+    {
+      "id": "maayanot-tehom-rabbah",
+      "source": "מַעְיְנֹת תְּהוֹם רַבָּה",
+      "translit": "maayanot tehom rabbah",
+      "strongs": "H4599+H8415+H7227",
+      "partOfSpeech": "noun construct + noun + adjective",
+      "literal": "fountains of the great deep",
+      "standardEnglish": "fountains of the great deep",
+      "wohChoice": "fountains of the great deep",
+      "claim_type": "direct",
+      "rationale": "תְּהוֹם רַבָּה t'hom rabbah — *the great deep* — is the same noun (תְהוֹם t'hom) that appeared in Gen 1:2: 'darkness was over the face of *the deep*'. The cognate of Akkadian *tiāmtu*, the primordial salt-sea (and the proper noun *Tiamat* in the *Enuma Elish*). The chapter is invoking the *first verse-2* sea — the primordial waters from before the cosmic order. Genesis 1 separated upper waters from lower waters by means of the *raqia* (dome); now the lower waters (from below the dry land) burst forth, the upper waters (from above the dome) pour down, and the separations of chapter 1 are being reversed.\n\n*Maayanot* — *fountains, springs, wellsprings* — is the plural of *ma'yan*. The verb *nivqe'u* ('burst, were split open') is violent: the *raqia*'s lower counterpart, the *land*, is being torn open from below as the waters that were placed there in 1:9 ('let the waters be gathered to one place') are released back. The Flood is, in the chapter's grammar, the reversal of the *separations* of Day 2 and Day 3.",
+      "appliesTo": [
+        "GEN-7:11"
+      ]
+    },
+    {
+      "id": "arubot-ha-shamayim",
+      "source": "אֲרֻבֹּת הַשָּׁמַיִם",
+      "translit": "arubot ha-shamayim",
+      "strongs": "H699+H8064",
+      "partOfSpeech": "noun construct + noun with article",
+      "literal": "windows/sluices/openings of the skies",
+      "standardEnglish": "windows of heaven",
+      "wohChoice": "floodgates of the skies",
+      "claim_type": "direct",
+      "rationale": "אֲרֻבָּה arubbah denotes a *lattice opening, sluice, or floodgate*. The image is of a closed barrier whose ports are opened to allow flow. The same word appears in 2 Kgs 7:2, 19 (the officer who scoffs at Elisha's prophecy: 'even if YHWH should make windows in the skies, could this thing come to pass?'). The picture, taken with the *maayanot t'hom rabbah* of the same verse, is **cosmic reversal**: the *raqia* (the solid dome separating the upper waters from the cosmos) is opened from above, the underground waters burst from below. The earth-and-sky enclosure of Genesis 1 is being unsealed in both directions simultaneously. The Flood is in the chapter's grammar a *cosmological collapse*, not just a rainstorm.\n\nWoH renders 'floodgates' rather than 'windows' to preserve the sluice-imagery: these are *gates that release waters*, not glass-windows admitting light.",
+      "appliesTo": [
+        "GEN-7:11"
+      ]
+    },
+    {
+      "id": "vayisgor-yhwh-baado",
+      "source": "וַיִּסְגֹּר יְהוָה בַּעֲדוֹ",
+      "translit": "vayisgor YHWH baado",
+      "strongs": "H5462+H3068+H1157",
+      "partOfSpeech": "verb (qal preterite) + proper name + prep with 3ms suffix",
+      "literal": "and YHWH closed in (the door) behind / on behalf of him",
+      "standardEnglish": "and the LORD shut him in",
+      "wohChoice": "YHWH closed him in",
+      "claim_type": "direct",
+      "rationale": "A tender detail. Verse 16 ends with YHWH *personally* closing the ark — not Noah closing it himself, not the door swinging shut. The verb סָגַר sagar 'to shut, close, enclose' takes YHWH as subject, and the preposition בְּעַד baad ('behind, for the protection of, on behalf of') makes the action protective rather than purely operational. The image: YHWH seals the ark from the outside, taking custody of the protection. Inside, Noah and his family and the animals; outside, YHWH; between them, a sealed door. The chapter's *covenant* promise of 6:18 is enacted here in a single verb. The Flood will start in the next verse; before it does, the closing is done by the divine hand.",
+      "appliesTo": [
+        "GEN-7:16"
+      ]
+    },
+    {
+      "id": "vayigwa-kol-basar",
+      "source": "וַיִּגְוַע כָּל־בָּשָׂר",
+      "translit": "vayigwa kol basar",
+      "strongs": "H1478+H1320",
+      "partOfSpeech": "verb (qal preterite) + adjective + noun",
+      "literal": "and all flesh expired",
+      "standardEnglish": "all flesh died",
+      "wohChoice": "all flesh perished",
+      "claim_type": "direct",
+      "rationale": "The verb גָּוַע gawa is distinct from the generic מוּת mut ('to die'). *Gawa* specifically denotes *expiring, breathing-out-the-last-breath, perishing-by-failure-of-breath*. The verb is used in the Hebrew Bible of the patriarchs' deaths in a quiet, full-of-years register (Abraham, Gen 25:8; Isaac, 35:29; Jacob, 49:33 — all 'expired and were gathered to their people'). Here it is applied to *all flesh* — the verb of peaceful expiration applied at mass scale to violent extinction. The chapter's mordant verb-choice: the deaths are catalogued in vocabulary normally reserved for elders dying full of years. The mass extinction is reported with quiet rather than spectacle.",
+      "appliesTo": [
+        "GEN-7:21",
+        "GEN-7:22"
+      ]
+    },
+    {
+      "id": "vayisha-er-noach",
+      "source": "וַיִּשָּׁאֶר אַךְ־נֹחַ",
+      "translit": "vayisha'er ach Noach",
+      "strongs": "H7604+H389+H5146",
+      "partOfSpeech": "verb (niphal preterite) + restrictive adverb + proper name",
+      "literal": "and (he) remained, only Noah",
+      "standardEnglish": "and Noah only remained",
+      "wohChoice": "only Noah remained",
+      "claim_type": "direct",
+      "rationale": "The chapter's final image. *Vayisha'er ach Noach v'asher itto ba-tevah* — 'and there remained only Noah, and those with him in the ark'. The restrictive adverb אַךְ ach ('only, just, surely') emphasizes the singularity. The verb שָׁאַר sha'ar (niphal: 'remain, be left over') is the verb of the *remnant* — the same lexical family as שְׁאֵרִית she'erit, the technical term in later prophetic literature for the surviving *remnant* of Israel (Isa 10:20–22, Mic 2:12). Genesis 7:23 stands at the origin of the *remnant* theology of the Hebrew Bible: a faithful few preserved through total catastrophe. Every later use of the remnant-vocabulary writes back to this verse.",
+      "appliesTo": [
+        "GEN-7:23"
+      ]
+    },
+    {
+      "id": "chamesh-esreh-amah",
+      "source": "חֲמֵשׁ עֶשְׂרֵה אַמָּה מִלְמַעְלָה גָּבְרוּ הַמָּיִם",
+      "translit": "chamesh esreh amah milmalah gavru ha-mayim",
+      "strongs": "H2568+H6240+H520",
+      "partOfSpeech": "cardinal + cardinal + noun + adverb + verb + noun",
+      "literal": "fifteen cubits upward the waters prevailed",
+      "standardEnglish": "fifteen cubits upward did the waters prevail",
+      "wohChoice": "the waters rose fifteen cubits above (the mountains)",
+      "claim_type": "direct",
+      "rationale": "The 15-cubit number is half the ark's height (30 cubits per 6:15). Tradition (Rashi) reads this as the *draft* of the ark — the part of it that sat below the water-line. The ark needed 15 cubits of water clearance to float over the tallest mountains; 15 cubits is exactly how much the waters rose above the highest peaks. The geometry resolves: the ark floats at half-submerged depth, exactly clearing the highest mountains below. This is the kind of architectural-numerical detail Genesis quietly supplies and leaves for the reader to notice; the chapter does not comment on its own arithmetic.",
+      "appliesTo": [
+        "GEN-7:20"
+      ]
+    },
+    {
+      "id": "150-day-prevail",
+      "source": "חֲמִשִּׁים וּמְאַת יוֹם",
+      "translit": "chamishim u-meat yom",
+      "strongs": "H2572+H3967+H3117",
+      "partOfSpeech": "cardinal + cardinal + noun",
+      "literal": "a hundred and fifty days",
+      "standardEnglish": "an hundred and fifty days",
+      "wohChoice": "one hundred and fifty days",
+      "claim_type": "direct",
+      "rationale": "The chapter ends on this number: the waters *prevailed* (גָּבְרוּ gavru, intensifying 'were mighty') over the land for 150 days. Combined with the 40-day rain at the chapter's center (vv. 4, 12, 17), the chapter's flood-numerology is: 40 days of rainfall, 150 days total prevailing. The 150-day figure will reset the calendar in 8:3 ('the waters receded after 150 days'). The *full* Flood narrative spans about a year in the chapter's chronology (from 7:11 to 8:14 the dates are: month 2 day 17 to month 2 day 27 of the next year — about a solar year plus 11 days, matching the lunar/solar calendar gap). The chapter is dated, intentionally — and the dating signals that this is one event with specific calendrical structure, not myth-time.",
+      "appliesTo": [
+        "GEN-7:24"
+      ]
+    },
+    {
+      "id": "vayyizkor-elohim",
+      "source": "וַיִּזְכֹּר אֱלֹהִים אֶת־נֹחַ",
+      "translit": "vayyizkor Elohim et Noach",
+      "strongs": "H2142+H430",
+      "partOfSpeech": "verb (qal preterite) + noun + direct-object marker + proper name",
+      "literal": "and the Elohim remembered Noah",
+      "standardEnglish": "And God remembered Noah",
+      "wohChoice": "the Elohim remembered Noah",
+      "claim_type": "direct",
+      "rationale": "After 150 days of prevailing waters at the close of chapter 7 — and no recorded divine action — chapter 8 opens with a single anthropopathic verb: *vayyizkor* — *and (the Elohim) remembered*. The verb זָכַר zakar 'remember' takes the Elohim as subject. The Hebrew is direct: there was a stretch in which Noah was, in some sense, *not remembered*; then the Elohim recalled. The verb is the same one used at major covenantal moments: 'YHWH remembered Sarah' (Gen 21:1), 'the Elohim remembered Rachel' (30:22), 'the Elohim remembered his covenant with Abraham' at the Exodus (Ex 2:24). In each case the *remembering* precedes a turning point. The verb does not imply prior forgetting in any absolute sense — it names the moment when divine attention, having been distributed across the catastrophic order, returns to the preserved-and-waiting individual.\n\nWoH renders 'the Elohim remembered Noah' — preserving the article and the plural class-noun. The remembering is by the Elohim as a class; the *ruach* (wind, breath, spirit) sent over the waters in the same verse is their collective action.",
+      "appliesTo": [
+        "GEN-8:1"
+      ]
+    },
+    {
+      "id": "ruach-over-waters",
+      "source": "וַיַּעֲבֵר אֱלֹהִים רוּחַ עַל־הָאָרֶץ",
+      "translit": "vayya'aver elohim ruach al ha-aretz",
+      "strongs": "H5674+H430+H7307",
+      "partOfSpeech": "verb (hiphil preterite) + noun + noun + prep + noun",
+      "literal": "and the Elohim caused a wind to pass over the land",
+      "standardEnglish": "God made a wind to pass over the earth",
+      "wohChoice": "the Elohim caused a breath to pass over the land",
+      "claim_type": "inferred",
+      "rationale": "**A deliberate echo of Gen 1:2.** In 1:2 *ruach Elohim merachefet al p'nei ha-mayim* — 'the breath of the Elohim was hovering over the face of the waters'. In 8:1 *vayya'aver Elohim ruach al ha-aretz* — 'the Elohim caused a *ruach* to pass over the land'. Same noun, same agents, same waters being acted on. Genesis 8 is rebooting Genesis 1's grammar: the Flood's recession is being narrated as a *re-creation*, with the *ruach* (whose ambiguity — breath / wind / spirit — was thematized at 1:2) again the medium. The Hebrew uses the same word both times, and the chapter is signaling that the un-creation of the Flood is now being reversed into a *re-creation*. WoH renders 'caused a breath to pass' to preserve the lexical connection to 1:2's *ruach Elohim*.",
+      "appliesTo": [
+        "GEN-8:1"
+      ]
+    },
+    {
+      "id": "harei-ararat",
+      "source": "הָרֵי אֲרָרָט",
+      "translit": "harei Ararat",
+      "strongs": "H2022+H780",
+      "partOfSpeech": "noun construct + proper name",
+      "literal": "mountains of Ararat",
+      "standardEnglish": "the mountains of Ararat",
+      "wohChoice": "the mountains of Ararat",
+      "claim_type": "direct",
+      "rationale": "Note the **plural**: הָרֵי harei is *mountains* construct, not a single mountain. The traditional rendering ('Mount Ararat') has come to imply a specific peak in modern Armenia / eastern Turkey, but the Hebrew refers to the *mountainous region* of Ararat — corresponding to Urartu, the ancient kingdom centered on Lake Van in present-day eastern Anatolia and Armenia. The chapter does not specify which mountain in the region — only that the ark *came to rest* on (one of) the mountains of Ararat. The identification of *Mount* Ararat (Ağrı Dağı in Turkish, the 5,137-meter dormant volcano) with the ark's resting place became fixed in late antique and medieval Christian tradition; the Hebrew text is broader and less specific. The choice of Ararat is itself significant: it places the ark's landing point at the far northern edge of the ANE world the Hebrew Bible's authors knew, at the mountainous boundary of the known earth.",
+      "appliesTo": [
+        "GEN-8:4"
+      ]
+    },
+    {
+      "id": "yonah-orev",
+      "source": "הָעֹרֵב / הַיּוֹנָה",
+      "translit": "ha-orev / ha-yonah",
+      "strongs": "H6158+H3123",
+      "partOfSpeech": "noun + noun, both with article",
+      "literal": "the raven / the dove",
+      "standardEnglish": "the raven / the dove",
+      "wohChoice": "the raven / the dove",
+      "claim_type": "direct",
+      "rationale": "The two bird-species sent from the ark are paired by symbolic contrast across the Hebrew Bible. עֹרֵב orev (raven) is *unclean* by later Levitical categorization (Lev 11:15, Deut 14:14) — a black, carrion-eating bird associated with desolation (Isa 34:11, Zeph 2:14) and divine provision in extremis (1 Kgs 17:6, ravens fed Elijah). The raven is sent first; it goes back and forth without returning (v7), apparently sustained by floating corpses or carrion on emerging rocks. יוֹנָה yonah (dove) is *clean*, associated with gentleness, mourning, and later sacrificial use (Lev 1:14, 5:7). The dove is sent three times: returns empty, returns with an olive leaf, does not return. The progression yonah-dove → olive-leaf → no-return becomes the chapter's emblematic image — picked up in later iconography (the Christian Holy Spirit as dove; the olive branch as peace symbol). The Hebrew lays the symbolic groundwork without naming it.",
+      "appliesTo": [
+        "GEN-8:7",
+        "GEN-8:8",
+        "GEN-8:9",
+        "GEN-8:10",
+        "GEN-8:11",
+        "GEN-8:12"
+      ]
+    },
+    {
+      "id": "aleh-zayit",
+      "source": "עֲלֵה־זַיִת טָרָף בְּפִיהָ",
+      "translit": "aleh-zayit taraf b'fiha",
+      "strongs": "H5929+H2132+H2964",
+      "partOfSpeech": "noun construct + noun + verb + prep with 3fs suffix",
+      "literal": "a leaf-of-olive plucked/fresh in her mouth",
+      "standardEnglish": "an olive leaf pluckt off",
+      "wohChoice": "a fresh olive leaf in her mouth",
+      "claim_type": "direct",
+      "rationale": "The verb טָרַף taraf has two possible senses here: *plucked* (an active participial sense, the dove plucked it) or *fresh / freshly-torn* (a stative passive sense, the leaf was newly-broken-off, i.e., from a recently re-emerged olive tree). Most modern translations choose *fresh* (NJPS, Alter) — emphasizing that the leaf was new growth, not preserved-and-floating. The chapter's logic supports this: the dove's evidence is that vegetation has *resumed* on the land, not merely that debris is afloat.\n\nThe olive's selection as the chapter's evidence-leaf is meaningful in the ANE context: the olive tree is one of the most drought-resistant and quickly-recovering Mediterranean species, capable of regenerating from roots after extended flooding. The chapter's botany is precise — the olive is exactly the tree one would expect to recover first. The dove + olive-leaf becomes the Hebrew Bible's first image of post-catastrophe regeneration, with deep iconographic afterlife.",
+      "appliesTo": [
+        "GEN-8:11"
+      ]
+    },
+    {
+      "id": "mizbeach-olah",
+      "source": "מִזְבֵּחַ / עֹלָה",
+      "translit": "mizbeach / olah",
+      "strongs": "H4196+H5930",
+      "partOfSpeech": "noun, masculine / noun, feminine",
+      "literal": "altar / ascending-offering (whole burnt offering)",
+      "standardEnglish": "altar / burnt offering",
+      "wohChoice": "altar / whole burnt offering",
+      "claim_type": "direct",
+      "rationale": "Genesis 8:20 records two **firsts**. First mention of the word מִזְבֵּחַ mizbeach 'altar' in the Hebrew Bible (the noun is from זָבַח zavach 'to slaughter, sacrifice', so *mizbeach* is literally 'the place of slaughter'). First mention of עֹלָה olah — *whole burnt offering* — from the verb עָלָה alah 'to go up, ascend' — the sacrifice that *ascends* in its entirety as smoke. Cain and Hevel's offerings in 4:3–4 were called *minchot* (gifts/grain offerings), not *olot*; this is the first *olah*-class sacrifice in the text.\n\nThe altar is *built*, not natural — a constructed cultic site. The choice of clean-categorized animals (the 7-pair surplus from the ark) for the offering activates the *clean/unclean* distinction introduced in 7:2. Noah is doing post-Flood liturgy with materials the chapter quietly prepared. The instituting of altar-and-burnt-offering at the post-Flood threshold is the chapter's first *institutional* act of human religion — preceding circumcision, the priesthood, the tabernacle, and the temple by many narrative generations, but lexically establishing the cultic vocabulary they will all use.",
+      "appliesTo": [
+        "GEN-8:20"
+      ]
+    },
+    {
+      "id": "reach-hannichoach",
+      "source": "רֵיחַ הַנִּיחֹחַ",
+      "translit": "reach hannichoach",
+      "strongs": "H7381+H5207",
+      "partOfSpeech": "noun construct + noun",
+      "literal": "the aroma of soothing / the soothing aroma",
+      "standardEnglish": "a sweet savour",
+      "wohChoice": "the soothing aroma",
+      "claim_type": "direct",
+      "rationale": "*Reach* (aroma) and *nichoach* (soothing, restful) form the standard biblical phrase for the sensory register through which the divine receives sacrifice. The noun nichoach derives from the root נוּחַ nuach 'to rest, settle' — the same root that gave Noah his name (5:29). The chapter's structural play is unmistakable: *Noach* offers *olah*, and the *reach hannichoach* makes the Elohim *rest* — both senses of *nuach* working at once. The phrase will become standard cultic vocabulary, used dozens of times in Leviticus and Numbers ('a fire-offering of *reach nichoach* to YHWH').\n\nThe anthropopathic register is sharp: YHWH *smells* (וַיָּרַח vayyarach). The verb is plain: the divine is being narrated as *smelling* the rising smoke. The closest ANE parallel is striking: in the Babylonian Atrahasis and Gilgamesh Tablet XI, after the flood, the gods *smell the sweet savor* of Utnapishtim's sacrifice and gather around it 'like flies' — because they have been deprived of human sacrifices during the flood. Genesis's grammar of the smelling is exactly that of the Mesopotamian parallel; only Genesis's *theology* of why the divine smelling matters is different (here it triggers the never-again promise rather than relief from hunger).",
+      "appliesTo": [
+        "GEN-8:21"
+      ]
+    },
+    {
+      "id": "lo-osif-l-qallel",
+      "source": "לֹא־אֹסִף לְקַלֵּל עוֹד אֶת־הָאֲדָמָה",
+      "translit": "lo osif l'qallel od et ha-adamah",
+      "strongs": "H3808+H3254+H7043+H127",
+      "partOfSpeech": "negation + verb + infinitive + adverb + direct-object marker + noun",
+      "literal": "I will not again curse the ground",
+      "standardEnglish": "I will not again curse the ground any more",
+      "wohChoice": "I will not again curse the ground",
+      "claim_type": "direct",
+      "rationale": "**The chapter resolves Lamech's hope.** In 5:29 Lamech named his son Noah saying *zeh yenachmenu mimaaseinu u-me-itz'von yadeinu min ha-adamah asher ererah YHWH* — 'this one will comfort us from our work and the hardship of our hands, from the ground which YHWH cursed'. The curse of 3:17 — *arurah ha-adamah ba-avurecha* — remained operative through Noah's lifetime. Now in 8:21, YHWH announces: *lo osif l-qallel od et ha-adamah ba-avur ha-adam* — 'I will not again curse the ground because of the human'.\n\nNote the precise verbal correspondence with 5:29 and 3:17: same noun *adamah*, same preposition *ba-avur*, same verb-root in the curse-vocabulary. The lifting is *partial* — the chapter does not say the curse is removed, only that *another curse* will not be added. The ground remains in its post-3:17 condition; what YHWH commits to is *non-escalation*. Noah's name has carried this hope through five chapters, and the chapter delivers on the hope precisely at the post-Flood altar.\n\nThe verb קָלַל qalel in the piel is *to curse* (a different curse-verb than אָרַר arar of 3:14, 3:17). The two verbs are not strict synonyms; *qalel* is the more general verb (also 'belittle, despise'), *arar* the formal pronouncement-verb. 8:21 uses the lighter verb — a verbal signal that the never-again promise is about *adding* curses, not necessarily about lifting the formal *arar* of 3:17.",
+      "appliesTo": [
+        "GEN-8:21"
+      ]
+    },
+    {
+      "id": "yetzer-lev-ha-adam-ra",
+      "source": "יֵצֶר לֵב הָאָדָם רַע מִנְּעֻרָיו",
+      "translit": "yetzer lev ha-adam ra mi-neurav",
+      "strongs": "H3336+H3820+H120+H7451",
+      "partOfSpeech": "noun + noun + noun (with article) + adjective + prep with 3ms suffix",
+      "literal": "the inclination of the heart of the human [is] evil from his youth",
+      "standardEnglish": "the imagination of man's heart is evil from his youth",
+      "wohChoice": "the inclination of the heart of the human is evil from his youth",
+      "claim_type": "direct",
+      "rationale": "**The reason given for the never-again promise is, paradoxically, the same as the reason given for the Flood.** Compare 6:5 (*every inclination of the thoughts of his heart was only evil all day long* — given as the reason for wiping out humanity) and 8:21 (*the inclination of the heart of the human is evil from his youth* — given as the reason for *not* wiping out humanity again). The exact same diagnosis underwrites opposite divine decisions.\n\nThe rabbinic tradition (Rashi) reads the inversion: pre-Flood, human evil was the reason to destroy; post-Flood, recognition that human evil is *constitutional* (*mi-neurav* — *from his youth*, present at the outset, not an acquired condition) makes destruction-as-policy futile. The Flood did not solve the problem of human evil because the problem is structural, not behavioral. The chapter's theology of the divine resolution: rather than respond to evil with cyclic destruction, the divine commits to seasonal continuity and lets the evil-prone humans continue. The chapter is not naive about human moral capacity — it names the evil-from-youth with the same vocabulary it used in 6:5 — but the response is now restraint rather than erasure.\n\n*Yetzer* (inclination, formation) from the same root יָצַר yatsar (form, fashion — the potter's verb of 2:7). What the divine *formed* in clay now *forms* evil. The same root is doing structural work: the human is yatsar-ed; the human's lev (heart, will, interior) does its own yatsar-ing; what it yatsars is *ra* (evil) by default. The yetzer-noun will become a major term in later Jewish ethics (*yetzer ha-tov* / *yetzer ha-ra*).",
+      "appliesTo": [
+        "GEN-8:21"
+      ]
+    },
+    {
+      "id": "seedtime-harvest",
+      "source": "זֶרַע וְקָצִיר וְקֹר וָחֹם וְקַיִץ וָחֹרֶף וְיוֹם וָלָיְלָה",
+      "translit": "zera ve-qatzir, qor va-chom, qayitz va-choref, yom va-laylah",
+      "strongs": "H2233+H7105+H7120+H2527+H7019+H2779+H3117+H3915",
+      "partOfSpeech": "noun pair x 4 (paired by waw-conjunctive)",
+      "literal": "seed and harvest, cold and heat, summer and winter, day and night",
+      "standardEnglish": "seedtime and harvest, and cold and heat, and summer and winter, and day and night",
+      "wohChoice": "seedtime and harvest, cold and heat, summer and winter, day and night",
+      "claim_type": "direct",
+      "rationale": "The chapter closes with four binary pairs in perfectly parallel structure — agricultural (*seed and harvest*), thermal (*cold and heat*), seasonal (*summer and winter*), diurnal (*day and night*). Each pair names a cycle that will *not cease* (לֹא יִשְׁבֹּתוּ lo yishbotu — the same root as שַׁבָּת shabbat 'cessation'; the cycles will *not sabbath*). The promise is structural-cosmological: the regular cycles that organize agricultural and biological life are guaranteed against another collapse like the Flood. The chapter is doing in eight words what Genesis 1 did in 25 verses — naming the foundational rhythms of organized life. The Flood threatened all four; the never-again promise pins all four back in place.\n\nNote the symmetry: the lists in Genesis 1 (light/dark, water-above/water-below, sea/dry, sun/moon, male/female, work/rest) and Genesis 8:22 (seed/harvest, cold/heat, summer/winter, day/night) both work in binary opposition pairs. The chapter is restoring the binary-paired order that creation week established.",
+      "appliesTo": [
+        "GEN-8:22"
+      ]
+    },
+    {
+      "id": "peru-urevu-postflood",
+      "source": "פְּרוּ וּרְבוּ וּמִלְאוּ אֶת־הָאָרֶץ",
+      "translit": "peru u-revu u-mil'u et ha-aretz",
+      "strongs": "H6509+H7235+H4390",
+      "partOfSpeech": "imperative plural triplet",
+      "literal": "be-fruitful and-multiply and-fill the-land",
+      "standardEnglish": "Be fruitful and multiply and fill the earth",
+      "wohChoice": "be fruitful and multiply and fill the land",
+      "claim_type": "direct",
+      "rationale": "Word-for-word identical to the blessing of 1:28, now reissued to Noah and his sons in 9:1 and again in 9:7. The repetition is structural: the chapter is rebooting the Genesis 1 creation-blessing on the post-Flood world. Notably the *kivshuha* (subdue it) and *radu* (rule over) clauses of 1:28 are dropped here — only the demographic triplet is preserved, with the dominion mandate reissued separately in v2 with fear-vocabulary. This is the first of three Torah re-issuances of the creation blessing; the third will go to Jacob in 35:11. The phrase becomes a kind of refrain marking divine recommitment to the human project.",
+      "appliesTo": [
+        "GEN-9:1",
+        "GEN-9:7"
+      ]
+    },
+    {
+      "id": "moraachem-vechittchem",
+      "source": "וּמוֹרַאֲכֶם וְחִתְּכֶם",
+      "translit": "u-moraachem ve-chittchem",
+      "strongs": "H4172+H2844",
+      "partOfSpeech": "noun pair with 2nd-person-plural suffix",
+      "literal": "and-your-dread and-your-terror",
+      "standardEnglish": "the fear and dread of you",
+      "wohChoice": "the dread of you and the terror of you",
+      "claim_type": "direct",
+      "rationale": "The two nouns are war-vocabulary. *Mora* (מוֹרָא, from ירא yare — to fear) names the dread that falls on enemies of Israel in the conquest narratives (Deut 11:25, 'YHWH your Elohim will lay the dread of you and the fear of you upon all the land that you tread'). *Chittah* (חִתָּה, from חתת chatat — to be shattered, dismayed, broken) names the way enemies *collapse* internally in fear (Job 6:21, 1 Sam 17:11 of Saul facing Goliath). Together the phrase names a posture of terror.\n\nThe chapter's choice to replace the Genesis 1:28 mandate (*radah* + *kavash* — to rule and subdue) with this fear-pair is editorially significant. Pre-Flood, animal–human relations are pictured as governance; post-Flood, they are pictured as terror. The next verse (v3, meat permission) explains why the relation has shifted: humans will now be predators on animals, and the animals are given over to that predation.",
+      "appliesTo": [
+        "GEN-9:2"
+      ]
+    },
+    {
+      "id": "be-yedkhem-nittanu",
+      "source": "בְּיֶדְכֶם נִתָּנוּ",
+      "translit": "be-yedkhem nittanu",
+      "strongs": "H3027+H5414",
+      "partOfSpeech": "prepositional phrase + niphal perfect",
+      "literal": "into-your-hand they-are-given",
+      "standardEnglish": "they are delivered into your hand",
+      "wohChoice": "into your hand they are given",
+      "claim_type": "direct",
+      "rationale": "The verb *nittanu* is the niphal (passive) of *natan* — *given*. The construction *be-yedkhem nittanu* (*into your hand they are given*) is the same idiom used in war narratives for an enemy delivered up to the victor: *YHWH has given them into our hand* (Joshua 6:2, Judges 7:9, 1 Sam 23:4). The chapter is again choosing war-vocabulary for the post-Flood human–animal relation. Animals are not entrusted to human stewardship here; they are *given over* — handed-into-the-hand-of — in the conquest sense.",
+      "appliesTo": [
+        "GEN-9:2"
+      ]
+    },
+    {
+      "id": "lakhem-l-akhlah",
+      "source": "לָכֶם יִהְיֶה לְאָכְלָה",
+      "translit": "lakhem yihyeh l'akhlah",
+      "strongs": "H1961+H402",
+      "partOfSpeech": "verbal phrase: to-you it-will-be for-food",
+      "literal": "to-you it-shall-be for-food",
+      "standardEnglish": "shall be food for you",
+      "wohChoice": "shall be yours for food",
+      "claim_type": "direct",
+      "rationale": "The formula *lakhem l'akhlah* (to-you for-food) is borrowed *intentionally* from 1:29–30, where the same construction was used for the original vegetarian permission: *behold I have given you every herb yielding seed... to you it shall be for food.* The chapter's choice to re-use the formula here in 9:3 — but now with *every moving thing that lives* as the object — makes the parallelism explicit. Two ages of human diet, both named with the same idiom, with the Flood as the hinge. The chapter is doing dietary-history through verbal echo.",
+      "appliesTo": [
+        "GEN-9:3"
+      ]
+    },
+    {
+      "id": "k-yereq-esev",
+      "source": "כְּיֶרֶק עֵשֶׂב",
+      "translit": "k-yereq esev",
+      "strongs": "H3418+H6212",
+      "partOfSpeech": "comparative phrase: as green-of herb",
+      "literal": "as-the-green-of plant",
+      "standardEnglish": "as the green herb",
+      "wohChoice": "as the green plants",
+      "claim_type": "direct",
+      "rationale": "The comparative makes the dietary parallel formal. *I gave you the green plants as food* (1:30 paraphrased); now *I give you the moving things as the green plants* (9:3). The 'as' is doing significant theological work: meat is being granted on the same footing that plants were granted, framed as a continuous extension of the original divine provision rather than as a concession or fall. The chapter's editorial restraint — no marked disapproval, no fall-language — is striking given how heavily later Jewish vegetarian readings (e.g. Isaac Abarbanel) and Christian readings (some Patristic) would frame meat-eating as a post-fall concession.",
+      "appliesTo": [
+        "GEN-9:3"
+      ]
+    },
+    {
+      "id": "basar-b-nafsho-damo",
+      "source": "בָּשָׂר בְּנַפְשׁוֹ דָמוֹ לֹא תֹאכֵלוּ",
+      "translit": "basar b'nafsho damo lo tokhelu",
+      "strongs": "H1320+H5315+H1818+H398",
+      "partOfSpeech": "compound prohibition",
+      "literal": "flesh in-its-nefesh its-blood not you-shall-eat",
+      "standardEnglish": "flesh with the life thereof, which is the blood thereof, shall ye not eat",
+      "wohChoice": "flesh with its life, its blood, you shall not eat",
+      "claim_type": "direct",
+      "rationale": "The Hebrew compresses the identification: *flesh in-its-nefesh its-blood*. The phrase *b'nafsho damo* sets *its-blood* in apposition to *its-nefesh* — the chapter is making an *equation*, not stating two separate things. The blood IS the nefesh; the blood IS the life-force.\n\nThis is the first explicit dietary prohibition in the Torah. It is repeated and elaborated three times in the legal corpus:\n\n- **Leviticus 17:10–14**: 'the *nefesh* of the flesh is in the blood... it is the blood that makes atonement for the *nefesh*'\n- **Deuteronomy 12:23**: 'be sure that you do not eat the blood, for the blood is the *nefesh*, and you shall not eat the *nefesh* with the flesh'\n- **Acts 15:20, 29**: the apostolic council retains the blood-prohibition for Gentile believers as one of four Noahic-grounded commands\n\nThe identification underlies all later Jewish kosher slaughter law (shechitah's central concern is complete drainage of blood). It also underlies the Levitical sacrifice theology where the blood-on-the-altar atones for the nefesh-of-the-worshipper. The chapter is establishing in one sentence the principle that grounds two thousand pages of subsequent ritual law.",
+      "appliesTo": [
+        "GEN-9:4"
+      ]
+    },
+    {
+      "id": "darosh-edrosh-dam",
+      "source": "אֶת־דִּמְכֶם לְנַפְשֹׁתֵיכֶם אֶדְרֹשׁ ... אֶדְרְשֶׁנּוּ ... אֶדְרֹשׁ",
+      "translit": "et dimkhem l'nafshoteikhem edrosh ... edreshennu ... edrosh",
+      "strongs": "H1818+H5315+H1875",
+      "partOfSpeech": "verb darash, qal imperfect 1cs (3x in one verse)",
+      "literal": "your-blood for-your-lives I-will-demand ... I-will-demand-it ... I-will-demand",
+      "standardEnglish": "I will require",
+      "wohChoice": "I will demand",
+      "claim_type": "direct",
+      "rationale": "The verb *darash* (דָּרַשׁ — to seek out, to inquire after, to demand an account of) is the chapter's strongest word for divine accountability. The construction in v5 — *edrosh* / *edreshennu* / *edrosh* — places the same verb three times in a single 24-word verse. That triple repetition is the chapter's emphatic structure for absolute demand.\n\nThe verb pivots between subjects: from animal predators (v5a, *from the hand of every chayyah I will demand it*) to human predators (v5b, *from the hand of each man's brother I will demand the nefesh of the human*). The chapter is installing a standing divine reckoning for human blood, applying it equally to animals that kill humans and humans that kill humans. The verse's grammar reaches forward to the Cain narrative (4:10's *the blood of your brother cries out to me from the ground*) and reaches forward to all later capital-cases legal theory in the Torah.\n\nOn the Wheel of Heaven frame: this is the first systematic post-Flood legal mandate. The chapter is not just promising no-more-floods; it is installing a continuous interventionist clause — divine demand for human blood — that will operate across history. The promise that the Flood will not recur (8:21, 9:11) is paired with a promise that violence will be answered.",
+      "appliesTo": [
+        "GEN-9:5"
+      ]
+    },
+    {
+      "id": "mi-yad-ish-achiv",
+      "source": "מִיַּד אִישׁ אָחִיו",
+      "translit": "mi-yad ish achiv",
+      "strongs": "H3027+H376+H251",
+      "partOfSpeech": "prepositional phrase: from-the-hand of-man his-brother",
+      "literal": "from-the-hand of-each-man his-brother",
+      "standardEnglish": "at the hand of every man's brother",
+      "wohChoice": "from the hand of each man's brother",
+      "claim_type": "direct",
+      "rationale": "Direct verbal echo of chapter 4. In 4:10–11 YHWH said to Cain: *the voice of your brother's bloods cries out to me from the ground; cursed are you from the soil that has opened its mouth to take your brother's bloods from your hand.* The phrase *mi-yad achikha* — *from your brother's hand* — there, *mi-yad ish achiv* — *from each man's brother's hand* — here. The chapter is recapitulating Cain and Hevel at universal scope: the first brother-killing was met with curse-and-mark; the post-Flood standing rule is divine demand for the blood of every brother-killing-brother. The chapter is generalizing the Cain scene into law.",
+      "appliesTo": [
+        "GEN-9:5"
+      ]
+    },
+    {
+      "id": "shofech-dam",
+      "source": "שֹׁפֵךְ דַּם הָאָדָם בָּאָדָם דָּמוֹ יִשָּׁפֵךְ",
+      "translit": "shofech dam ha-adam ba-adam damo yishshafekh",
+      "strongs": "H8210+H1818+H120",
+      "partOfSpeech": "chiastic formula: participle + noun pair, mirrored",
+      "literal": "shedder of-blood of-the-human, by-the-human his-blood shall-be-shed",
+      "standardEnglish": "Whoso sheddeth man's blood, by man shall his blood be shed",
+      "wohChoice": "one who sheds the blood of the human — by the human his blood shall be shed",
+      "claim_type": "direct",
+      "rationale": "The verse is structured as a perfect chiasm: *shofech / dam / ha-adam // ba-adam / damo / yishshafekh* — six elements mirroring around their center. The act (shedding-blood-of-the-human) is locked grammatically to the consequence (by-the-human-his-blood-is-shed). The form encodes lex talionis (measure-for-measure justice) at the level of word-order itself.\n\nThis verse is the load-bearing biblical text for the death penalty for murder. It is invoked by every later Jewish (Sanhedrin tractate), Christian (Augustine, Aquinas, the Reformers), and Islamic (qisas) legal tradition that justifies capital punishment for murder. The grammatical ambiguity of *ba-adam* — *by the human* or *in the human* — has driven centuries of debate over whether the verse mandates human-administered execution or merely predicts a divine reckoning. Most readings take it as mandate.\n\nThe grounding clause *ki b'tselem Elohim asah et ha-adam* (for in the image of the Elohim he made the human) is the chapter's third invocation of *tselem* (after 1:26–27 and 5:1) and the only one that draws a legal consequence. The reason murder is prohibited absolutely is that the human carries the Elohim's resemblance: to destroy a human body is to deface the Elohim's likeness.",
+      "appliesTo": [
+        "GEN-9:6"
+      ]
+    },
+    {
+      "id": "tselem-elohim-recap",
+      "source": "כִּי בְּצֶלֶם אֱלֹהִים עָשָׂה אֶת־הָאָדָם",
+      "translit": "ki b'tselem Elohim asah et ha-adam",
+      "strongs": "H6754+H430+H6213+H120",
+      "partOfSpeech": "causal clause",
+      "literal": "for in-image of-Elohim he-made the-human",
+      "standardEnglish": "for in the image of God made he man",
+      "wohChoice": "for in the image of the Elohim, he made the human",
+      "claim_type": "direct",
+      "rationale": "Third invocation of *tselem Elohim* in Genesis (after 1:26–27 and 5:1) and the only one used to ground a legal claim. The earlier invocations described how humans were *made* (in the image-and-likeness of the Elohim); this invocation explains why killing one is prohibited absolutely.\n\nOn the Wheel of Heaven reading of *tselem* as physical resemblance (see entry `tselem-demut`), the legal force here is direct rather than metaphorical. The chapter is not arguing from an abstract spiritual dignity; it is arguing that humans physically resemble the Elohim, and to destroy a human body is to deface that physical resemblance. The argument has more bite, not less, on the physical-resemblance reading: it grounds the unconditional prohibition on murder in a literal fact about how humans are constructed.\n\nThe verse is also the chapter's clearest example of why the *plurality* of *Elohim* matters. The Elohim made the human in their plural likeness; the human resembles a collective of beings who participated in its making. To kill a human is not to defile one being's image but to violate a collective resemblance.",
+      "appliesTo": [
+        "GEN-9:6"
+      ]
+    },
+    {
+      "id": "meqim-brit",
+      "source": "מֵקִים אֶת־בְּרִיתִי ... וַהֲקִמֹתִי אֶת־בְּרִיתִי",
+      "translit": "meqim et-briti ... vahaqimoti et-briti",
+      "strongs": "H6965+H1285",
+      "partOfSpeech": "verb qum hiphil participle / perfect 1cs",
+      "literal": "raising-up my-brit / and-I-will-raise-up my-brit",
+      "standardEnglish": "I do establish my covenant",
+      "wohChoice": "I am establishing my covenant",
+      "claim_type": "direct",
+      "rationale": "The verb *qum* (קוּם — to rise, stand) in the hiphil (causative) stem (*heqim*) is the technical term for *establishing* or *raising up* a covenant. The vocabulary is significant: a *brit* is not *declared* (*amar*) or *given* (*natan*) — it is *raised up* between parties, like a structure being set into place. The metaphor is architectural.\n\nThe verb's use here in chapters 6 (where the brit was promised) and 9 (where it is enacted) becomes a refrain in the later patriarchal covenants — *vahaqimoti et briti* (and I will establish my covenant) is the formula in 17:7 for the Abrahamic brit, and again in Leviticus 26:9 and Deuteronomy 8:18 for divine-Israel relationship. The chapter is establishing the verb's covenantal usage.",
+      "appliesTo": [
+        "GEN-9:9",
+        "GEN-9:11"
+      ]
+    },
+    {
+      "id": "ot-ha-brit",
+      "source": "אוֹת הַבְּרִית",
+      "translit": "ot ha-brit",
+      "strongs": "H226+H1285",
+      "partOfSpeech": "noun phrase",
+      "literal": "sign of-the-covenant",
+      "standardEnglish": "token of the covenant",
+      "wohChoice": "sign of the covenant",
+      "claim_type": "direct",
+      "rationale": "The first *ot* (sign) in the Torah's covenant theology. *Ot* names a publicly visible mark or token that materially indexes a relationship. The bow in the cloud (9:13) is the first ot; circumcision (17:11) will be the second (*ot brit* between YHWH and Abraham); shabbat (Ex 31:13, 17) will be the third. Each ot is a different kind of marker: cosmological (the bow), bodily (circumcision), temporal (shabbat).\n\nThe ot-of-the-Noahic-brit is unusual in being purely *natural* — the rainbow is a meteorological phenomenon that occurs regardless of human action. The later covenant signs require human participation (circumcision must be performed; shabbat must be observed). The Noahic ot is unilateral and unconditional: the bow appears, the Elohim remembers, the promise holds, with no demand on the human side. The chapter is signaling that the Noahic brit is structurally different from later covenants — universal, unconditional, and cosmic.",
+      "appliesTo": [
+        "GEN-9:12",
+        "GEN-9:17"
+      ]
+    },
+    {
+      "id": "qashti-be-anan",
+      "source": "אֶת־קַשְׁתִּי נָתַתִּי בֶּעָנָן",
+      "translit": "et qashti natatti be-anan",
+      "strongs": "H7198+H5414+H6051",
+      "partOfSpeech": "verbal phrase",
+      "literal": "my-bow I-have-given in-the-cloud",
+      "standardEnglish": "I do set my bow in the cloud",
+      "wohChoice": "my bow I have placed in the cloud",
+      "claim_type": "direct",
+      "rationale": "*Qeshet* (קֶשֶׁת) almost exclusively means *war-bow*, the weapon, in the Hebrew Bible. The lexical range:\n\n- The hunter's bow: Esau's bow (Gen 27:3)\n- The patriarch's bow as inheritance: Jacob to Joseph 'I give you one *shechem* (shoulder) more than your brothers, which I took from the Amorite with my sword and my bow' (Gen 48:22)\n- The warrior's bow: Saul wounded by archers (1 Sam 31:3), Jonathan's covenant-bow (1 Sam 18:4, 20:20)\n- The divine warrior's bow: 'YHWH uncovered his bow' (Hab 3:9), 'his bow is bent and ready' (Ps 7:13)\n- The eschatological broken bow: 'I will break the bow of Israel in the valley of Jezreel' (Hos 1:5), 'I will cut off the chariot from Ephraim and the war-horse from Jerusalem; the battle-bow shall be cut off' (Zech 9:10)\n\nNot once in the Hebrew Bible does *qeshet* unambiguously mean *rainbow* outside the Noah account and a few late echoes (Ezek 1:28 'like the appearance of a *qeshet* that is in the cloud on a day of rain'). The vocabulary is martial.\n\nThe choice to call the rainbow *qeshet* — and to specify it is *given* / *placed* (*natatti*) *in the cloud* — paints an iconographic image: an unstrung war-bow hanging in the sky after the battle. The Elohim, having used cosmic violence on humanity once, hangs up the weapon as a public sign that the war is over.\n\nComparative note: In Atrahasis and the Gilgamesh XI flood, the goddess Mami raises her *necklace of lapis lazuli* (the colored arc) after the flood and swears never again to forget the disaster. The Mesopotamian motif is a celestial colored arc as post-flood promise-token. The Hebrew chapter has reshaped that motif from feminine ornament into masculine war-weapon-laid-down. The semantic shift is theological commentary in the choice of noun.\n\nOn the Wheel of Heaven frame: the chapter is preserving an extraordinary image of the Elohim as agents who *had* weapons and *used* them — and who now publicly unstring them. The bow-in-the-cloud is not a symbol of generic goodwill; it is the specific image of the Elohim having ended a war they themselves initiated.",
+      "appliesTo": [
+        "GEN-9:13",
+        "GEN-9:14",
+        "GEN-9:16"
+      ]
+    },
+    {
+      "id": "vezakharti-briti",
+      "source": "וְזָכַרְתִּי אֶת־בְּרִיתִי",
+      "translit": "ve-zakharti et briti",
+      "strongs": "H2142+H1285",
+      "partOfSpeech": "qal perfect 1cs + direct object",
+      "literal": "and-I-will-remember my-brit",
+      "standardEnglish": "I will remember my covenant",
+      "wohChoice": "I will remember my covenant",
+      "claim_type": "direct",
+      "rationale": "Direct echo of 8:1's *vayyizkor Elohim et Noach* (the Elohim remembered Noah) — the same verb (*zakhar*) now applied to the brit. At the start of the Flood-reversal in chapter 8, divine memory was the act that turned the waters back. Here in 9:15 that same memory is *built into* the covenant as the recurring function of the sign.\n\nThe theological grammar is striking: the bow is not a memory aid for *humans* (humans do not need a reminder that they are alive), but for the *Elohim*. Whenever a cloud rises, the bow appears, and the Elohim's covenantal memory is triggered. The chapter is constructing a system in which the divine party *needs an external reminder* of the divine commitment. The architecture is anthropopathic: the Elohim function with the same memory-mechanics as humans, requiring tokens and signs to keep promises in mind.\n\nOn the Wheel of Heaven frame: this is consistent with the rest of the chapter's portrayal of the Elohim as embodied agents — they smell aroma (8:21), they have memory (8:1, 9:15), they think to themselves (8:21), they engineer architecture (the bow-as-sign). The brit-memory mechanism slots into a coherent picture of finite agents who use external tokens to track their own commitments.",
+      "appliesTo": [
+        "GEN-9:15"
+      ]
+    },
+    {
+      "id": "brit-olam",
+      "source": "בְּרִית עוֹלָם",
+      "translit": "brit olam",
+      "strongs": "H1285+H5769",
+      "partOfSpeech": "construct noun phrase",
+      "literal": "covenant-of forever",
+      "standardEnglish": "everlasting covenant",
+      "wohChoice": "everlasting covenant",
+      "claim_type": "direct",
+      "rationale": "*Olam* (עוֹלָם) does not exactly mean *eternity* in the metaphysical sense; it means *far-distant time*, *the long age*, *as far as time stretches*. The phrase *brit olam* names a covenant whose duration is structurally unlimited — open-ended forward and backward — but the temporal vocabulary remains *durational* rather than *atemporal*. The Hebrew Bible has no native vocabulary for timeless eternity; it has only deep duration.\n\nThe phrase *brit olam* will recur in the Abrahamic covenant (17:7, 17:13, 17:19), the Davidic covenant (2 Sam 23:5), the Levitical priesthood covenant (Num 18:19), and the Sabbath covenant (Ex 31:16). It marks a class of covenants that are durationally unbounded, in contrast to conditional or generational covenants. The Noahic brit is the first in this class — universal in scope and unbounded in time.",
+      "appliesTo": [
+        "GEN-9:16"
+      ]
+    },
+    {
+      "id": "shem-cham-yephet",
+      "source": "שֵׁם וְחָם וָיָפֶת",
+      "translit": "Shem ve-Cham va-Yephet",
+      "strongs": "H8035+H2526+H3315",
+      "partOfSpeech": "personal name triplet",
+      "literal": "Shem and-Cham and-Yephet",
+      "standardEnglish": "Shem, and Ham, and Japheth",
+      "wohChoice": "Shem and Ham and Yapheth",
+      "claim_type": "direct",
+      "rationale": "Names and meanings: **Shem** (שֵׁם) means *name* — the same Hebrew noun. The patriarch of the Israelite line is named, literally, *Name*. **Cham** (חָם) means *hot* — a noun denoting heat, used in Lev 26 for the destruction-by-heat of fields. **Yephet** (יָפֶת) is related to either פתה *patah* (to be wide, to enlarge) per 9:27's wordplay (*yapht Elohim l-Yephet*) or to יָפֶה *yafeh* (beautiful) per minority readings.\n\nThe consistent ordering across vv. 18, 19, 23 places them as Shem–Ham–Yapheth, traditionally read as birth-order eldest to youngest. But 9:24 names the offender as *bno ha-qatan* (his youngest son), and 10:21 has the curious clause *Shem the brother of Yapheth the elder* — implying Yapheth is the eldest and Shem the second. The chapter does not resolve. Most readers assume the listing is by prominence (Shem first because of Israelite genealogical importance) rather than by birth order.\n\nGeographically, chapter 10 will associate Shem with the Semitic Near East, Ham with North Africa and the southern Levant (notably Egypt and Canaan), and Yapheth with the Aegean, Anatolian, and broader Mediterranean populations. The naming scheme is doing the ethnogeographic work of the Table of Nations in chapter 10.",
+      "appliesTo": [
+        "GEN-9:18",
+        "GEN-9:19",
+        "GEN-9:23"
+      ]
+    },
+    {
+      "id": "cham-avi-kena-an",
+      "source": "חָם הוּא אֲבִי כְנָעַן",
+      "translit": "Cham hu avi Kena'an",
+      "strongs": "H2526+H1+H3667",
+      "partOfSpeech": "predicate identification clause",
+      "literal": "Cham — he is father-of Canaan",
+      "standardEnglish": "Ham is the father of Canaan",
+      "wohChoice": "Ham — he is the father of Canaan",
+      "claim_type": "direct",
+      "rationale": "Repeated three times in five verses (vv. 18, 22, 25). The chapter is hammering the genealogical link before, during, and after the vineyard incident. The drumbeat is editorial — the chapter wants the reader to be unable to forget that the offender's son is *Canaan*, whose descendants Israel will later displace.\n\nThe repetition is also unusual within the brevity of the Noah genealogy: neither Shem nor Yapheth is paired with a second-generation name. Only Ham. This is the chapter's signal that the narrative weight is on Canaan, not Ham. The curse in v25 will land on Canaan and the chapter's repeated re-identification has prepared the reader for that landing.\n\nOn the Wheel of Heaven frame: this is one of the clearest examples of an editorial layer doing political work in Genesis. The Israelite-Canaanite political geography is being given a primordial-family etiology: the people Israel will fight, displace, and intermarry with for centuries are being pre-positioned, in chapter 9, as the cursed descendants of the offender in a primal family scene. The text's reception in colonial-era racial theology (the so-called 'curse of Ham' that was misread as referring to all of Ham's descendants) magnified an already-ethnocentric framing into a tool of racial violence.",
+      "appliesTo": [
+        "GEN-9:18",
+        "GEN-9:22"
+      ]
+    },
+    {
+      "id": "ish-ha-adamah-noach",
+      "source": "וַיָּחֶל נֹחַ אִישׁ הָאֲדָמָה",
+      "translit": "vayyachel Noach ish ha-adamah",
+      "strongs": "H2490+H5146+H376+H127",
+      "partOfSpeech": "verbal phrase + appositive",
+      "literal": "and-he-began Noah man-of the-soil",
+      "standardEnglish": "Noah began to be an husbandman",
+      "wohChoice": "Noah, a man of the soil, began",
+      "claim_type": "direct",
+      "rationale": "The phrase *ish ha-adamah* (man-of-the-soil) is a calculated echo of three earlier passages:\n\n- **2:5** — 've-adam ayin la'avod et ha-adamah' (and there was no human to till the soil) — the primal lack that the creation of Adam fills\n- **2:7** — 'and YHWH-Elohim formed the human (*ha-adam*) from dust of the soil (*ha-adamah*)' — the etymological knit of adam and adamah\n- **4:2** — 'Qayin hayah oved adamah' (Cain was a tiller of soil) — the first farmer\n\nNoah is being placed in this lineage of soil-named figures. He is *not* called *oved adamah* (tiller of soil, the verbal noun used for Cain) but *ish ha-adamah* (man of the soil, a status-noun). The shift from active participle to status-noun marks Noah's farming as identity, not occupation. He is *the* man of the soil now, in a way that anchors the post-Flood agricultural age.\n\nThe verb *vayyachel* (he began) is also notable. In rabbinic readings (Bereshit Rabbah 36) the verb is sometimes heard as from חלל *chalal* (to profane, to make common), reading *Noah profaned* — anticipating the drunkenness scene as a moral fall. The Hebrew root is genuinely ambiguous (חלל can mean both *begin* and *profane*); the chapter's authors may have intended the doubled valence. Either way the verb opens a scene that ends in disaster.",
+      "appliesTo": [
+        "GEN-9:20"
+      ]
+    },
+    {
+      "id": "kerem-vineyard",
+      "source": "כָּרֶם",
+      "translit": "kerem",
+      "strongs": "H3754",
+      "partOfSpeech": "noun, masculine singular",
+      "literal": "vineyard",
+      "standardEnglish": "vineyard",
+      "wohChoice": "vineyard",
+      "claim_type": "direct",
+      "rationale": "The first *kerem* in the Hebrew Bible. The vineyard is one of the most heavily symbolic agricultural sites in later biblical literature:\n\n- **Naboth's vineyard** (1 Kings 21) — the legal case that anchors prophetic critique of royal land-seizure\n- **The Song of the Vineyard** (Isaiah 5) — YHWH's beloved as a vineyard that produced wild grapes\n- **The vineyard parables** of Jesus (Mark 12, Matt 20, 21) — vineyards as Israel-figures\n- **The vineyard in the Song of Songs** (1:6, 8:11–12) — vineyards as erotic and economic spaces\n\nNoah's vineyard is the chapter that opens the vineyard motif. The post-Flood human, who has been blessed and re-mandated as second Adam, plants the first vineyard — not a wheat field or olive grove. The wine that emerges from this vineyard is the chapter's narrative engine: the drunkenness in v21 enables the vulnerability of v21–22, which enables the curse of v25.\n\nThe choice of *vineyard-and-wine* over other crops is also archaeologically suggestive. Viticulture is one of the oldest cultivars in the Near East; the chapter is plausibly preserving an ancient memory of when systematic grape-cultivation began. (Archaeological evidence places domesticated grape cultivation in the South Caucasus / eastern Anatolia / northern Mesopotamia region by ca. 6000 BCE — broadly the same Ararat-region geography where the chapter places Noah's landing.)",
+      "appliesTo": [
+        "GEN-9:20"
+      ]
+    },
+    {
+      "id": "yayin-vayyishkar",
+      "source": "וַיֵּשְׁתְּ מִן־הַיַּיִן וַיִּשְׁכָּר",
+      "translit": "vayyesht min ha-yayin vayyishkar",
+      "strongs": "H8354+H3196+H7937",
+      "partOfSpeech": "two perfect-consecutive verbs + object",
+      "literal": "and-he-drank from the-wine and-he-became-drunk",
+      "standardEnglish": "he drank of the wine, and was drunken",
+      "wohChoice": "he drank of the wine and became drunk",
+      "claim_type": "direct",
+      "rationale": "The first occurrence of *yayin* (יָיִן, wine) in the Hebrew Bible, and the first occurrence of *shakhar* (שָׁכַר, to be drunk). The chapter is introducing two important nouns and a verb in three Hebrew words.\n\nWhat is striking is the chapter's lack of explicit moral framing. The narrator says *Noah drank and became drunk and uncovered himself* — three perfect-consecutive verbs in unbroken sequence — without inserting a single evaluative adjective or adverb. Compare 6:5 (*and YHWH saw that the evil of the human was great*) or 4:8 (*and Cain rose against Hevel his brother and killed him*) — both narrate moral acts with the narrator's evaluation withheld but the action manifestly evil. Here, the chapter does not even withhold evaluation; it simply does not provide one.\n\nThe later biblical attitude toward wine is famously divided: Numbers 6 prohibits Nazirite wine consumption; Proverbs 23:31 warns *look not on the wine when it is red*; Psalms 104:15 praises *wine that gladdens the heart of the human*; the prophets routinely use wine-imagery for divine judgment (cup-of-wrath) and divine joy (new wine on the mountains). Genesis 9 opens the conversation without resolving it: wine enters human experience here, and the very first effect is a stupor that produces vulnerability and family conflict.",
+      "appliesTo": [
+        "GEN-9:21"
+      ]
+    },
+    {
+      "id": "vayyitgal",
+      "source": "וַיִּתְגַּל בְּתוֹךְ אָהֳלֹה",
+      "translit": "vayyitgal b'tokh aholoh",
+      "strongs": "H1540+H168",
+      "partOfSpeech": "hithpael imperfect-consecutive 3ms",
+      "literal": "and-he-uncovered-himself within his-tent",
+      "standardEnglish": "and he was uncovered within his tent",
+      "wohChoice": "and uncovered himself within his tent",
+      "claim_type": "direct",
+      "rationale": "The reflexive (hithpael) form of *galah* (גָּלָה — to uncover, to reveal, to expose). The same root names *Galut* (exile, the state of being uncovered-from-one's-place) and *galui* (revealed, manifest). The hithpael stem makes the action self-directed: Noah does the uncovering to himself.\n\nThe chapter's choice of the reflexive is important. Noah is not undressed by another, not assaulted, not stripped — he uncovers *himself*. The vulnerability that follows is self-induced. The morality of the subsequent scene depends on this: whatever Ham did wrong (v22), Noah's nakedness is not the result of Ham's action. The chapter is carefully distributing the agencies.\n\nThe scene rhymes with Eden. There: the humans *knew* and *saw* their nakedness, and *covered themselves with fig leaves* (3:7). Here: Noah *uncovers* himself, his son *sees*, and other sons *cover him with a garment* (9:23). The chapter is doing a deliberate inversion: in Eden, knowledge produced shame which produced self-covering; post-Flood, drunkenness produces self-uncovering which produces filial response. The pattern of *covering-and-knowing* recurs across both scenes as a marker of human boundary.\n\nThe Hebrew of the final word — *b'tokh aholoh* — has an unusual feminine suffix (*aholoh*, *her tent*) rather than the expected masculine *aholo* (*his tent*). Rabbinic readers have heard the unusual form as suggesting Noah was in *her* (his wife's) tent, or *a* tent that was not his own. Most modern readings treat the unusual suffix as a textual archaism or scribal variation.",
+      "appliesTo": [
+        "GEN-9:21"
+      ]
+    },
+    {
+      "id": "ervat-aviv",
+      "source": "עֶרְוַת אָבִיו",
+      "translit": "ervat aviv",
+      "strongs": "H6172+H1",
+      "partOfSpeech": "construct noun phrase",
+      "literal": "nakedness-of his-father",
+      "standardEnglish": "his father's nakedness",
+      "wohChoice": "the nakedness of his father",
+      "claim_type": "inferred",
+      "rationale": "The contested phrase. *Erva* (עֶרְוָה) means *nakedness*, especially the genital area; the construct *ervat aviv* literally means *the nakedness of his father*. Three readings have circulated through interpretation history:\n\n1. **Plain reading**: Ham saw his father's exposed body and went out to tell his brothers. The transgression is the seeing-and-telling combination — Ham's failure to cover his father, his failure to look away, and his choice to gossip outside the tent. The brothers' careful covering in v23 (walking backward, faces averted) makes this reading by contrast. The plain reading is most consistent with the chapter's internal structure.\n\n2. **Euphemism for sexual assault**: The phrase *galah ervat* (to uncover the nakedness of) functions as a sexual idiom in Leviticus 18:7–8 and 20:11, where *galah ervat aviv* names sexual contact with one's father's wife. Some readers — already in late antique tradition (b. Sanhedrin 70a, citing Rab) — infer that Ham assaulted his father or his father's wife while Noah was drunk. The reading is grounded in the Levitical idiom but anachronistic to Genesis 9, which uses *ra'ah ervat* (to see the nakedness), not *galah ervat* (to uncover the nakedness). The verbs differ.\n\n3. **Paternal castration**: A minority reading (Sanhedrin 70a, citing Rab Samuel) extrapolates that Ham incapacitated Noah in some way that prevented a fourth son. The text gives no support beyond the disproportionate severity of the curse.\n\nThe Wheel of Heaven translation does not commit to a reading because the chapter does not. What the chapter *does* commit to is that whatever Ham did was sufficient to warrant the curse on Canaan in v25 and the contrast-by-mirror of vv. 22–23.",
+      "appliesTo": [
+        "GEN-9:22",
+        "GEN-9:23"
+      ]
+    },
+    {
+      "id": "vayyiqetz-noach",
+      "source": "וַיִּיקֶץ נֹחַ מִיֵּינוֹ וַיֵּדַע אֵת אֲשֶׁר־עָשָׂה־לוֹ בְּנוֹ הַקָּטָן",
+      "translit": "vayyiqetz Noach mi-yeino vayyeda et asher asah lo bno ha-qatan",
+      "strongs": "H3364+H3196+H3045",
+      "partOfSpeech": "verbal narrative clause",
+      "literal": "and-he-awoke Noah from-his-wine and-he-knew that which-he-did to-him his-son the-youngest",
+      "standardEnglish": "Noah awoke from his wine, and knew what his younger son had done unto him",
+      "wohChoice": "Noah awoke from his wine, and knew what his youngest son had done to him",
+      "claim_type": "direct",
+      "rationale": "*Vayyiqetz mi-yeino* — *he awoke from his wine*. The idiom *yaqatz min* (to awaken from) is reserved in the Hebrew Bible for emerging from a stupor or trance, not from ordinary sleep. The chapter is specifying that Noah was in a wine-induced unconsciousness deep enough that ordinary waking-vocabulary doesn't apply.\n\n*Vayyeda* — *he knew*. The verb *yada* (to know) is the same verb that organized the Eden tree (*ha-da'at* — the knowing, 2:9) and the post-fruit recognition of nakedness (3:7, *vayyed'u ki erumim hem* — they knew that they were naked). The chapter's choice of verb keeps the Eden-rhyme tight: in Eden, eating the fruit produced *knowing-and-hiding*; here, drinking the wine produced *being-uncovered-and-knowing*. The Eden pattern is inverted, with the agency reassigned (Noah knows what was done *to* him, rather than the humans knowing what they did *themselves*).\n\n*Bno ha-qatan* — *his youngest son*. The phrase has produced an old textual puzzle. The chapter lists the sons consistently as Shem–Ham–Yapheth (vv. 18, 19, 23) — which places Ham as the middle son. Either (a) the listing is by prominence rather than birth-order, with Ham actually the youngest; or (b) *qatan* names something other than birth-order here (the Hebrew adjective can mean *small in dignity* in some idioms — cf. 'the great and the small' as social categories). 10:21 has the parallel curiosity (*Shem, the brother of Yapheth the elder*) — implying Yapheth is eldest. The Hebrew text is genuinely inconsistent on birth-order; the chapter does not resolve.",
+      "appliesTo": [
+        "GEN-9:24"
+      ]
+    },
+    {
+      "id": "arur-kena-an",
+      "source": "אָרוּר כְּנָעַן עֶבֶד עֲבָדִים יִהְיֶה לְאֶחָיו",
+      "translit": "arur Kena'an eved avadim yihyeh l'echav",
+      "strongs": "H779+H3667+H5650+H251",
+      "partOfSpeech": "curse formula + status-prediction",
+      "literal": "cursed Canaan! slave-of slaves he-shall-be to-his-brothers",
+      "standardEnglish": "Cursed be Canaan; a servant of servants shall he be unto his brethren",
+      "wohChoice": "cursed be Canaan; a slave of slaves shall he be to his brothers",
+      "claim_type": "direct",
+      "rationale": "The first human-pronounced curse in the Hebrew Bible. Earlier curses (*arur* on the serpent in 3:14, *arur* on the soil in 3:17, *arur* on Cain in 4:11) were divine. This is the first time a human invokes the formula. Noah's authority to curse is presumed, not granted.\n\nWhat is striking is the skip: Ham is the offender (vv. 22, 24), but Canaan — Ham's son, not yet born in narrative time — is the one cursed. The text does not explain. The skip is one of the great unresolved interpretive puzzles in Genesis. Possibilities the tradition has explored:\n\n1. **Vicarious curse**: Curses descend through patrilineal lines in ancient Near Eastern thought; cursing Ham's firstborn is effectively cursing Ham at the deepest possible level (his line's continuation).\n2. **Etiological retrojection**: The curse-on-Canaan is the etiology, not the historical scene. The chapter is reading the Israelite-Canaanite political conflict back into a primal family scene, and the conflict is between Israel (Shem-line) and Canaan (not Ham as such). The narrative is doing political-justification work.\n3. **Canaan was also involved**: A rabbinic reading (Bereshit Rabbah 36) suggests Canaan saw Noah first and called Ham — making Canaan the originator of the gossip-line. The text gives no support.\n\nThe Wheel of Heaven commentary will not endorse any single reading. What is unambiguous is the political function: the curse installs the Israelite-Canaanite hierarchy as primordial.\n\nThe reception history is brutal. From late antiquity through the colonial era, Christian and Muslim readers progressively conflated *Ham* with *Canaan* and re-racialized the curse to apply to all of Ham's descendants — particularly African populations associated with Cush (10:6). This 'curse of Ham' reading became load-bearing for Christian theological justifications of the African slave trade. The text says nothing about race or skin color; the curse is on a specific Levantine population (Canaan). The reception's misreading does not change the text but is part of the chapter's history that any honest commentary must acknowledge.",
+      "appliesTo": [
+        "GEN-9:25"
+      ]
+    },
+    {
+      "id": "eved-avadim",
+      "source": "עֶבֶד עֲבָדִים",
+      "translit": "eved avadim",
+      "strongs": "H5650",
+      "partOfSpeech": "noun construct (superlative)",
+      "literal": "slave of-slaves",
+      "standardEnglish": "a servant of servants",
+      "wohChoice": "a slave of slaves",
+      "claim_type": "direct",
+      "rationale": "The grammatical construction is the Hebrew superlative-by-construct: *eved avadim* (slave of slaves) parallels *qodesh qodashim* (holy of holies, the innermost sanctuary), *shir ha-shirim* (song of songs, the finest song), *melekh melachim* (king of kings, the highest ruler). The construct intensifies; *slave of slaves* names the lowest possible status — slavery to slaves, or slavery beneath all other slaves.\n\nThe choice between *slave* and *servant* in English is theologically loaded. *Servant* softens the social reality; *slave* preserves it. The Hebrew *eved* covers both — it can name a paid laborer, a vassal-king, or a chattel slave — but the construct *eved avadim* and the narrative context (a curse establishing permanent subjugation) places this firmly in the chattel-slavery range. The Wheel of Heaven translation uses *slave* to preserve the harshness of the curse and to refuse the softening that *servant* introduces.",
+      "appliesTo": [
+        "GEN-9:25"
+      ]
+    },
+    {
+      "id": "yhwh-elohei-shem",
+      "source": "בָּרוּךְ יְהֹוָה אֱלֹהֵי שֵׁם",
+      "translit": "barukh YHWH elohei Shem",
+      "strongs": "H1288+H3068+H430+H8035",
+      "partOfSpeech": "blessing formula with genitive identification",
+      "literal": "blessed YHWH, Elohim-of Shem",
+      "standardEnglish": "Blessed be the LORD God of Shem",
+      "wohChoice": "blessed be YHWH, Elohim of Shem",
+      "claim_type": "direct",
+      "rationale": "The first time in the Torah that YHWH is identified by relationship to a specific human line. Before this, YHWH has been the Elohim of *the human* (singular, generic) or of *the humans* (collective). Here YHWH becomes *elohei Shem* — *the Elohim of Shem*.\n\nThe pattern will recur and become foundational: *elohei Avraham* (Elohim of Abraham, Gen 28:13), *elohei Yitzchaq* (Elohim of Isaac, Gen 28:13), *elohei Yaaqov* (Elohim of Jacob, Ex 3:6), culminating in *elohei Avraham, Yitzchaq, ve-Yaaqov* (Elohim of Abraham, Isaac, and Jacob) as the standing self-identification formula for the divine self-naming at the burning bush (Ex 3:6, 15).\n\nThe chapter is opening, in 9:26, the genealogical bracket inside which the entire later covenant theology will operate. Yhwh's relation to humanity is moving from *creator of all* (the universal framing of chapters 1–8) to *Elohim of a specific line* (the genealogical framing that runs from chapter 9 forward).\n\nOn the Wheel of Heaven frame: this is one of the clearest examples in Genesis of the narrative *narrowing* the focus from cosmic to particular. The Elohim who made all life (1:26) and who covenanted with all flesh (9:11) is now also, specifically, the Elohim of Shem. The chapter is opening the door to the rest of the Hebrew Bible's particularism.",
+      "appliesTo": [
+        "GEN-9:26"
+      ]
+    },
+    {
+      "id": "yapht-yephet",
+      "source": "יַפְתְּ אֱלֹהִים לְיֶפֶת",
+      "translit": "yapht Elohim l-Yephet",
+      "strongs": "H6601+H430+H3315",
+      "partOfSpeech": "verbal name-pun",
+      "literal": "may-he-enlarge Elohim for-Yephet",
+      "standardEnglish": "God shall enlarge Japheth",
+      "wohChoice": "may the Elohim enlarge Yapheth",
+      "claim_type": "direct",
+      "rationale": "The verb *yapht* (יַפְתְּ — may he enlarge / make wide) is from the same root as the name *Yephet* (יֶפֶת). The clause is a name-pun: *may the wide-one widen*. The poetic device — folding a wish into the meaning of a name — is one of Genesis's signature techniques. Other examples:\n\n- **Adam from adamah** (2:7) — *the human from the soil*\n- **Hevel** (4:2) — *vanity, vapor* — pre-figuring his short life\n- **Yitzchaq from tzachaq** (17:17, 18:12, 21:6) — *he laughs* — Sarah's laughter at the announcement\n- **Yaaqov from aqev** (25:26) — *heel-grabber* — Jacob holding Esau's heel\n- **Yisrael from sarah** (32:28) — *one who strives with El* — after the wrestle\n- **Moshe from mashah** (Ex 2:10) — *drawn out* — from the Nile waters\n\nThe Yapheth-pun continues this tradition. The blessing's content — *may he be enlarged, may he dwell in Shem's tents* — extends the name's meaning into a wish for territorial expansion under Shem's hospitality.\n\nThe second clause, *yishkon b'oholei Shem* (may he dwell in the tents of Shem), is grammatically ambiguous. Two readings have split the tradition:\n\n1. **Yapheth as subject**: 'May Yapheth dwell in Shem's tents.' Reading: peaceful Yapheth-Shem coexistence. Yapheth's enlargement happens within Shem's hospitality.\n2. **The Elohim as subject**: 'May the Elohim dwell in Shem's tents.' Reading: early sanctuary-theology. The Elohim's dwelling-place will be Shem's territory — anticipating the Temple in Jerusalem (Shem's line via David).\n\nThe Hebrew permits both. Rabbinic readers split, and the chapter does not commit. Either reading gives structural priority to Shem.",
+      "appliesTo": [
+        "GEN-9:27"
+      ]
+    }
+  ]
+}
