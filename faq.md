@@ -358,9 +358,9 @@ answer = """
 Several ways:
 
 - **Discussion and questions** — the [GitHub Discussions](https://github.com/orgs/wheelofheaven/discussions) are the project's main public forum.
-- **Translation** — the site is published in nine languages and welcomes additional translation help. See [Contributing](/contributing/).
-- **Content corrections and suggestions** — issues can be opened on the [GitHub repository](https://github.com/wheelofheaven).
-- **Code and infrastructure** — the site is open-source and welcomes development contributions.
+- **Translation** — the site is published in nine languages and welcomes additional translation help. See [Contributing](/contributing/), and the [Translations guide](https://docs.wheelofheaven.world/contributing/content/translations/) for the workflow and per-language conventions.
+- **Content corrections and suggestions** — issues can be opened on the [GitHub repository](https://github.com/wheelofheaven). For how to write new entries (wiki, Articles, Newsroom Dispatches), see the [developer docs](https://docs.wheelofheaven.world/contributing/content/overview/).
+- **Code and infrastructure** — the site is open-source and welcomes development contributions. The [Quickstart](https://docs.wheelofheaven.world/getting-started/quickstart/) at docs.wheelofheaven.world gets you to a local preview in five minutes.
 - **Financial support** — through [Open Collective](https://opencollective.com/wheelofheaven). The project is currently funded entirely out of pocket; help is appreciated.
 """
 

@@ -85,7 +85,13 @@ git submodule update --remote content
 2. Create a branch for your changes
 3. Submit a pull request
 
-See [Contributing Guidelines](https://www.wheelofheaven.world/contributing) for details.
+See [Contributing Guidelines](https://www.wheelofheaven.world/contributing) for the broad overview, and the **[developer docs at docs.wheelofheaven.world](https://docs.wheelofheaven.world)** for the per-content-type how-tos:
+
+- [Wiki Entry](https://docs.wheelofheaven.world/contributing/content/wiki-entry/) — frontmatter, structure, sourcing, terminology
+- [Article](https://docs.wheelofheaven.world/contributing/content/article/) — long-form, idea-driven, evergreen
+- [Newsroom Dispatch](https://docs.wheelofheaven.world/contributing/content/newsroom-dispatch/) — short, event-anchored
+- [Translations](https://docs.wheelofheaven.world/contributing/content/translations/) — workflow + per-language conventions for the 10 supported languages
+- [Frontmatter Reference](https://docs.wheelofheaven.world/reference/frontmatter/) — every TOML field with worked examples
 
 ## License
 

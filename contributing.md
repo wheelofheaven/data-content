@@ -33,7 +33,7 @@ The [GitHub Discussions](https://github.com/orgs/wheelofheaven/discussions) are 
 
 The site is published in nine languages, with English as the source. Translations are derived from the English original by hand and by tool, with editorial review where possible. Additional languages are welcomed; existing translations can always be improved.
 
-If you are interested in translating, open a Discussion thread or an issue describing the language and scope. The project will provide the source material, the glossary of project-specific terms, and the style guide.
+If you are interested in translating, open a Discussion thread or an issue describing the language and scope. The project will provide the source material, the glossary of project-specific terms, and the style guide. The [Translations guide](https://docs.wheelofheaven.world/contributing/content/translations/) at docs.wheelofheaven.world documents the workflow, the glossary, and per-language conventions (formal/informal address, punctuation, RTL handling for Hebrew).
 
 ### Content corrections and suggestions
 
@@ -45,6 +45,8 @@ Interpretive disagreements — where you read a source differently than the corp
 
 The site is a Zola-built static site with a Tera template theme ([Bifrost](https://github.com/wheelofheaven/bifrost)) and SCSS styles. The build runs on a public CI pipeline. Pull requests are welcome for bug fixes, accessibility improvements, performance work, and small features that fit the project's scholarly register.
 
+For setup, conventions, the multi-repo project map, and theme/pipeline guides, see the developer documentation at [docs.wheelofheaven.world](https://docs.wheelofheaven.world) — start with the [Quickstart](https://docs.wheelofheaven.world/getting-started/quickstart/) for a five-minute local preview, or [Local Setup](https://docs.wheelofheaven.world/contributing/dev/local-setup/) for the full multi-repo environment.
+
 For larger changes — visual redesigns, navigation restructuring, new content sections — open a Discussion first.
 
 ### Financial support
@@ -55,6 +57,6 @@ The project is currently funded entirely out of pocket by the author. Voluntary 
 
 A good contribution names what it is changing, why, and on what basis. A pull request that fixes a broken link in a wiki entry needs a one-line description. A pull request that revises a substantive reading needs more — at minimum, the source for the new reading and a paragraph on why it improves on the current one.
 
-The project's editorial standards apply to contributions: scholarly register, source-aware, claim type labelled honestly. The [content rules](https://github.com/wheelofheaven) maintained alongside the repository describe these in detail.
+The project's editorial standards apply to contributions: scholarly register, source-aware, claim type labelled honestly. The [content guides at docs.wheelofheaven.world](https://docs.wheelofheaven.world/contributing/content/overview/) describe these in detail — per-content-type pages for [wiki entries](https://docs.wheelofheaven.world/contributing/content/wiki-entry/), [Articles](https://docs.wheelofheaven.world/contributing/content/article/), and [Newsroom Dispatches](https://docs.wheelofheaven.world/contributing/content/newsroom-dispatch/), plus the [editorial-passes primer](https://docs.wheelofheaven.world/contributing/content/editorial-passes/) on `claim_type` and `editorial_pass`.
 
 If you are not sure whether a contribution fits, open a Discussion first. The author will say so directly, and may suggest a better shape for the contribution. There is no penalty for asking.
