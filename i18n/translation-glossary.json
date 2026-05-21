@@ -1,13 +1,13 @@
 {
   "$schema": "./translation-glossary-schema.json",
   "name": "Wheel of Heaven Translation Glossary",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "released": "2026-05-21",
   "description": "Lexical decisions made by the Wheel of Heaven Translation Program. Distinct from content/i18n/glossary.json, which records site-UI terminology. Each entry records a source-language term, the standard PD-translation rendering, the WoH choice, the rationale, and the verses where the choice applies. Pinned to per-chapter translations via `glossaryVersion` in chapter metadata.",
   "sourceLanguages": [
     "he"
   ],
-  "scopeNote": "v1.0.0 covers Genesis 1 only. Subsequent releases expand the scope incrementally — terms are added when a translation chapter needs them, not in anticipation.",
+  "scopeNote": "v1.0.0 covered Genesis 1; subsequent releases extended through Genesis 9 (v1.9.0) and added the taninim revision (v2.0.0). v2.1.0 extends to Genesis 10-11 (Table of Nations + Babel + line to Abram), adding 26 new entries for the chapters' toponyms, ethnonyms, and lens-critical phrases.",
   "terms": [
     {
       "id": "bereshit",
@@ -2392,6 +2392,394 @@
       "rationale": "The verb *yapht* (יַפְתְּ — may he enlarge / make wide) is from the same root as the name *Yephet* (יֶפֶת). The clause is a name-pun: *may the wide-one widen*. The poetic device — folding a wish into the meaning of a name — is one of Genesis's signature techniques. Other examples:\n\n- **Adam from adamah** (2:7) — *the human from the soil*\n- **Hevel** (4:2) — *vanity, vapor* — pre-figuring his short life\n- **Yitzchaq from tzachaq** (17:17, 18:12, 21:6) — *he laughs* — Sarah's laughter at the announcement\n- **Yaaqov from aqev** (25:26) — *heel-grabber* — Jacob holding Esau's heel\n- **Yisrael from sarah** (32:28) — *one who strives with El* — after the wrestle\n- **Moshe from mashah** (Ex 2:10) — *drawn out* — from the Nile waters\n\nThe Yapheth-pun continues this tradition. The blessing's content — *may he be enlarged, may he dwell in Shem's tents* — extends the name's meaning into a wish for territorial expansion under Shem's hospitality.\n\nThe second clause, *yishkon b'oholei Shem* (may he dwell in the tents of Shem), is grammatically ambiguous. Two readings have split the tradition:\n\n1. **Yapheth as subject**: 'May Yapheth dwell in Shem's tents.' Reading: peaceful Yapheth-Shem coexistence. Yapheth's enlargement happens within Shem's hospitality.\n2. **The Elohim as subject**: 'May the Elohim dwell in Shem's tents.' Reading: early sanctuary-theology. The Elohim's dwelling-place will be Shem's territory — anticipating the Temple in Jerusalem (Shem's line via David).\n\nThe Hebrew permits both. Rabbinic readers split, and the chapter does not commit. Either reading gives structural priority to Shem.",
       "appliesTo": [
         "GEN-9:27"
+      ]
+    },
+    {
+      "id": "iyei-hagoyim-nifredu",
+      "source": "מֵאֵלֶּה נִפְרְדוּ אִיֵּי הַגּוֹיִם",
+      "translit": "me-eleh nifredu iyei ha-goyim",
+      "strongs": "H6504",
+      "partOfSpeech": "verbal-niphal + noun phrase",
+      "literal": "from these were separated the coastlands of the nations",
+      "standardEnglish": "from these were the isles of the Gentiles divided",
+      "wohChoice": "from these the coastlands of the nations were separated",
+      "claim_type": "direct",
+      "rationale": "The four-dimension formula — *families, tongues, lands, nations* — appears as the summary closer for each of the three Noah-son lines in Genesis 10 (v5 Japhethites, v20 Hamites, v31 Shemites). The verb נִפְרְדוּ *nifredu* is niphal of פָּרַד *parad* 'to separate, divide' — the same root behind the personal name Peres / Perez. 'Coastlands of the nations' (*iyei ha-goyim*) for the Japhethites specifically names the maritime peoples of the Mediterranean and Black Sea coasts — *i* meaning island, coast, or coastland (Isa 24:15, Jer 25:22, Ezek 26:18). KJV 'isles of the Gentiles' is etymologically defensible but reads as Christian-supersessionist; modern translations correctly read *goyim* as 'nations' in the descriptive sense. The four dimensions of the formula match the chapter's structural concern with the post-Flood differentiation of humanity along multiple axes.",
+      "appliesTo": [
+        "GEN-10:5",
+        "GEN-10:20",
+        "GEN-10:31",
+        "GEN-10:32"
+      ]
+    },
+    {
+      "id": "mitsrayim",
+      "source": "מִצְרַיִם",
+      "translit": "mitsrayim",
+      "strongs": "H4714",
+      "partOfSpeech": "proper noun, dual form",
+      "literal": "the two Mitsrayims",
+      "standardEnglish": "Egypt",
+      "wohChoice": "Mitsrayim",
+      "claim_type": "inferred",
+      "rationale": "מִצְרַיִם is the Hebrew Bible's name for Egypt. The form is grammatically dual (*-ayim* ending), traditionally read as referring to the political duality of Upper and Lower Egypt (the two ancient kingdoms united in the Old Kingdom). Etymologically it may be cognate with Akkadian *Musur* and ultimately of unknown origin. The standard English 'Egypt' comes through Greek Αἴγυπτος (likely from the Memphite *Hwt-ka-Ptah*, 'mansion of the soul of Ptah'), an entirely unrelated naming-tradition. The WoH Translation preserves the Hebrew name *Mitsrayim* (matching the project's convention for proper names — Shet rather than Seth, Chavvah rather than Eve, Yapheth rather than Japheth) and uses the gentilic 'Mitsri' for citizens. Where context requires modern clarity, 'Egypt' may be glossed in commentary; the text uses the Hebrew form. Reclassified from `direct` to `inferred` because the choice between *Mitsrayim* and *Egypt* is a transliteration-vs.-traditional-English call, not a directly-attested rendering.",
+      "appliesTo": [
+        "GEN-10:6",
+        "GEN-10:13"
+      ]
+    },
+    {
+      "id": "nimrod-gibbor",
+      "source": "נִמְרֹד ... גִּבֹּר בָּאָרֶץ ... גִּבֹּר־צַיִד לִפְנֵי יְהוָה",
+      "translit": "Nimrod ... gibbor ba-aretz ... gibbor-tzayid lifnei YHWH",
+      "strongs": "H5248 + H1368 + H6718",
+      "partOfSpeech": "proper noun + epithet phrase",
+      "literal": "Nimrod ... a mighty one on the land ... a mighty hunter before YHWH",
+      "standardEnglish": "Nimrod ... a mighty one in the earth ... a mighty hunter before the LORD",
+      "wohChoice": "Nimrod ... a mighty one in the land ... a mighty hunter before YHWH",
+      "claim_type": "direct",
+      "rationale": "Nimrod (נִמְרֹד) appears in Gen 10:8-12 and is briefly mentioned in 1 Chr 1:10 and Mic 5:5 (where the 'land of Nimrod' = Assyria). The noun גִּבּוֹר *gibbor* is the same word used in Gen 6:4 for the antediluvian *gibborim anshei ha-shem* — 'the mighty ones, men of name', the offspring of the *bnei ha-elohim* with the daughters of the human. The chapter's reuse of *gibbor* for Nimrod is one of the corpus's most pointed verbal echoes — and one of its most under-translated. Standard English renderings often soften to 'mighty man' or 'mighty hunter', losing the technical-class register the Hebrew preserves. The WoH translation keeps *gibbor* registers consistent across 6:4 (the antediluvians) and 10:8 (Nimrod), letting the textual continuity show. // *Lifnei YHWH* — 'before YHWH' — is grammatically neutral. Jewish tradition reads adversarially (Nimrod rebels against YHWH — the etymology connects with מָרַד *marad* 'to rebel', though the actual etymology of Nimrod is uncertain and possibly Akkadian). Christian tradition often reads positively. The Hebrew settles neither; the translation preserves the prepositional neutrality and lets the commentary surface the spectrum.",
+      "appliesTo": [
+        "GEN-10:8",
+        "GEN-10:9"
+      ]
+    },
+    {
+      "id": "reshith-mamlakhto-bavel",
+      "source": "וַתְּהִי רֵאשִׁית מַמְלַכְתּוֹ בָּבֶל וְאֶרֶךְ וְאַכַּד וְכַלְנֵה",
+      "translit": "vat'hi reshith mamlakhto Bavel v'Erech v'Akkad v'Kalneh",
+      "strongs": "H7225 + H4467 + H894",
+      "partOfSpeech": "noun phrase",
+      "literal": "and the beginning of his kingdom was Babel, Erech, Akkad, and Kalneh",
+      "standardEnglish": "And the beginning of his kingdom was Babel, and Erech, and Accad, and Calneh",
+      "wohChoice": "The beginning of his kingdom was Babel, and Erech, and Akkad, and Calneh",
+      "claim_type": "direct",
+      "rationale": "The four cities are the chapter's archaeologically-informed list of southern Mesopotamian foundational sites: *Bavel* (Babylon, Akkadian *Bab-ilim*); *Erech* (Sumerian Uruk, the great walled city of the Uruk Period); *Akkad* (Sargon's third-millennium capital, location archaeologically unknown but textually well-attested); *Kalneh* (uncertain — possibly Nippur, the Sumerian religious center; or a scribal variant of *kullaneh* 'all of them', read as 'in Shinar all of them' rather than as a fourth city). The chapter is presenting the entire southern Mesopotamian civilization-cradle under a single founder's name. The WoH translation preserves the proper-name forms close to the Hebrew (Bavel, not Babylon; Akkad, not Accad — the KJV doubled-c spelling is an English-orthography artifact, not a transliteration improvement). The phrase *reshith mamlakhto* — 'the beginning of his kingdom' — uses רֵאשִׁית, the same noun as *bereshit* of Gen 1:1, signaling a foundational-era moment for the southern Mesopotamian political order.",
+      "appliesTo": [
+        "GEN-10:10"
+      ]
+    },
+    {
+      "id": "eretz-shinar",
+      "source": "אֶרֶץ שִׁנְעָר",
+      "translit": "eretz Shinar",
+      "strongs": "H8152",
+      "partOfSpeech": "proper noun phrase",
+      "literal": "the land of Shinar",
+      "standardEnglish": "the land of Shinar",
+      "wohChoice": "the land of Shinar",
+      "claim_type": "direct",
+      "rationale": "Shinar (שִׁנְעָר) is the Hebrew Bible's name for the southern Mesopotamian alluvial plain — the region that hosted the Sumerian and Old Babylonian civilizations. The etymology is contested: possibly cognate with Sumerian *Šum-er* (Sumer) through a Hebrew phonological transformation; or possibly a separate Hebrew name. Shinar appears in Gen 10:10 (Nimrod's kingdom), 11:2 (the Babel-tower location), 14:1 (Amraphel king of Shinar), and in later prophetic and exilic literature (Isa 11:11, Zech 5:11, Dan 1:2) — where it carries a register of foreign-exile-imperial territory. The WoH translation preserves the Hebrew form rather than modernizing to *Sumer* or *Babylonia* — both of which carry their own scholarly-political baggage and would over-specify the chapter's geographic vocabulary.",
+      "appliesTo": [
+        "GEN-10:10",
+        "GEN-11:2"
+      ]
+    },
+    {
+      "id": "pelishtim-caphtor",
+      "source": "אֲשֶׁר יָצְאוּ מִשָּׁם פְּלִשְׁתִּים וְאֶת־כַּפְתֹּרִים",
+      "translit": "asher yatz'u misham Pelishtim v'et Kaphtorim",
+      "strongs": "H6430 + H3732",
+      "partOfSpeech": "relative clause + proper nouns",
+      "literal": "from whom came forth Philistines, and the Kaphtorim",
+      "standardEnglish": "out of whom came Philistim, and Caphtorim",
+      "wohChoice": "from whom the Pelishtim went out — and the Caphtorim",
+      "claim_type": "inferred",
+      "rationale": "The parenthesis *asher yatz'u misham Pelishtim* — 'from whom the Pelishtim went out' — places the Philistines genealogically with the *Casluhim* in v14. But the prophetic-tradition consensus (Jer 47:4, Amos 9:7) and the modern archaeological consensus (Late Bronze Age collapse + Aegean-origin Sea Peoples) trace the Philistines from *Caphtor* (Crete / the Aegean), not from the Casluhim. The standard scholarly proposal is that the parenthesis is textually misplaced — it should attach to *Caphtorim* immediately following, giving 'and the Casluhim and the Caphtorim, from whom the Pelishtim went out'. The translation preserves the Hebrew as transmitted (Pelishtim from Casluhim) and surfaces the textual problem in commentary. *Pelishtim* (the Hebrew transliteration) is preferred over English *Philistines* to maintain consistency with the chapter's other ethnonym treatments.",
+      "appliesTo": [
+        "GEN-10:14"
+      ]
+    },
+    {
+      "id": "naphotzu-mishpechot",
+      "source": "וְאַחַר נָפֹצוּ מִשְׁפְּחוֹת הַכְּנַעֲנִי",
+      "translit": "v'achar naphotzu mishpechot ha-Kena'ani",
+      "strongs": "H6327",
+      "partOfSpeech": "verbal phrase",
+      "literal": "and afterward were scattered the families of the Canaanite",
+      "standardEnglish": "and afterward were the families of the Canaanites spread abroad",
+      "wohChoice": "Afterward the families of the Canaanite were scattered",
+      "claim_type": "direct",
+      "rationale": "The verb נָפֹצוּ *naphotzu* is qal passive of פּוּץ *putz* 'to scatter, disperse'. The same root recurs three times in Genesis: 9:19 (the post-Noah scattering from his sons), 10:18 (the Canaanite clans here), and 11:8-9 (the Babel-scattering of YHWH). The lexical thread connects the three dispersions, each at a different scale (Noah's three sons → the Canaanite sub-families → all humanity). The WoH translation preserves the same English root ('scatter') across all three to surface the lexical pattern.",
+      "appliesTo": [
+        "GEN-10:18"
+      ]
+    },
+    {
+      "id": "avi-kol-bnei-ever",
+      "source": "אֲבִי כָּל־בְּנֵי־עֵבֶר",
+      "translit": "avi kol bnei Ever",
+      "strongs": "H1 + H1121 + H5677",
+      "partOfSpeech": "noun phrase",
+      "literal": "father of all sons of Eber",
+      "standardEnglish": "the father of all the children of Eber",
+      "wohChoice": "the father of all the sons of Eber",
+      "claim_type": "direct",
+      "rationale": "Shem is identified in Gen 10:21 as *avi kol bnei Ever* — 'the father of all the sons of Eber'. The naming-ahead is structurally important: it flags Eber (named four verses later in 10:24-25, and again in 11:14-17) as the eponymous ancestor of the עִבְרִי *Ivri* people — Hebrew. The etymology of *Ivri* from *Ever* is widely (though not universally) accepted in modern scholarship; the verbal connection runs through the root עבר 'to cross over', perhaps reflecting the Hebrews as 'those who crossed over' the Euphrates (cf. Josh 24:2-3, where Abraham is said to have crossed the river from Mesopotamia). The chapter is naming, four generations ahead, the figure from whom Israel's self-designation will derive.",
+      "appliesTo": [
+        "GEN-10:21",
+        "GEN-11:16"
+      ]
+    },
+    {
+      "id": "peleg-niflega",
+      "source": "פֶּלֶג כִּי בְיָמָיו נִפְלְגָה הָאָרֶץ",
+      "translit": "Peleg ki v'yamav niflega ha-aretz",
+      "strongs": "H6389 + H6385",
+      "partOfSpeech": "proper noun + etymological clause",
+      "literal": "Peleg [Division], for in his days the land was divided",
+      "standardEnglish": "Peleg; for in his days was the earth divided",
+      "wohChoice": "Peleg, for in his days the land was divided",
+      "claim_type": "inferred",
+      "rationale": "*Peleg* (פֶּלֶג) is from the root פלג *palag* 'to divide, split'. The chapter offers an explicit etiological etymology: *ki v'yamav niflega ha-aretz* — 'for in his days the land was divided'. The verb נִפְלְגָה *niflega* is niphal passive of the same root. What division is meant? Three readings circulate: (1) the linguistic-political scattering of Babel in Gen 11 (the chapter places Peleg in the genealogy immediately before the Babel narrative, and the etymology pairs the name with the scattering-event; this is the standard ancient and modern interpretation); (2) the geological splitting of the continents (the Young-Earth-Creationist and certain ancient-astronaut readings; the verb does not support this in the Hebrew lexicon); (3) the political-territorial division of post-Flood lands among the Noah-son lines (the verb is used elsewhere of land-division, Job 38:25). The translation preserves the bare 'the land was divided' and the rendering 'land' (אֶרֶץ *eretz* — 'land', not 'earth-the-planet') ; the chapter's most contextually defensible reading is (1), with (3) as supplementary. (2) is read-back from later cosmologies and not philologically supportable. Reclassified as `inferred` because the choice between the linguistic, geographic, and political readings of *niflega* is genuinely interpretive.",
+      "appliesTo": [
+        "GEN-10:25",
+        "GEN-11:16"
+      ]
+    },
+    {
+      "id": "safa-achat-devarim-achadim",
+      "source": "שָׂפָה אֶחָת וּדְבָרִים אֲחָדִים",
+      "translit": "safa achat udvarim achadim",
+      "strongs": "H8193 + H259 + H1697",
+      "partOfSpeech": "noun phrase, doubled",
+      "literal": "one lip, and words one",
+      "standardEnglish": "one language, and one speech",
+      "wohChoice": "one lip and one set of words",
+      "claim_type": "direct",
+      "rationale": "Gen 11:1 opens with a doubled phrase: *safa achat udvarim achadim* — *one lip and one set of words*. The two phrases name distinct dimensions of linguistic unity. *Safa* (שָׂפָה, lit. 'lip') is metonymy for *language* (cf. Isa 19:18, 'the lip of Canaan'), naming the speech-organ to refer to the speech-system. *Devarim* (דְּבָרִים) is *words / matters / things*, the plural of *davar*. The doubled claim is therefore: the post-Flood humans had not only shared phonology and grammar (one *lip*) but also shared semantic-conceptual stock (one *set of words / matters*). The chapter is making a stronger claim than 'they spoke the same language' — it is naming a deeper cognitive-communicative commonality. Standard English translations smooth to 'one language and one speech' (KJV) or 'the same language and the same words' (ESV), losing the doubled-noun structure. The WoH translation preserves the doubling and the lip-metonymy, making the chapter's strong unity-claim visible.",
+      "appliesTo": [
+        "GEN-11:1",
+        "GEN-11:6"
+      ]
+    },
+    {
+      "id": "havah-nilbenah",
+      "source": "הָבָה נִלְבְּנָה לְבֵנִים",
+      "translit": "havah nilbenah l'venim",
+      "strongs": "H3051 + H3835",
+      "partOfSpeech": "interjection + verbal cohortative phrase",
+      "literal": "come! let us brick bricks",
+      "standardEnglish": "Go to, let us make brick",
+      "wohChoice": "Come, let us make bricks",
+      "claim_type": "direct",
+      "rationale": "*Havah nilbenah l'venim* — *come, let us make bricks*. The interjection *havah* (from יָהַב, 'give, grant', imperative form used as exhortation 'come!'); the verb *nilbenah* is first-person plural cohortative of לָבַן *laban* 'to make brick'. The verb is built on the noun *l'venah* (brick), giving the wordplay *nilbenah l'venim* — 'let us brick bricks'. The verse opens the chapter's structural sequence of four cohortatives: two human (11:3 *nilbenah*, 11:4 *nivneh*) and two divine (11:7 *neredah*, 11:7 *navlah*). The chapter is composed around this rhetorical match. KJV 'Go to, let us make brick' is archaic but grammatically equivalent; the WoH translation modernizes the interjection while preserving the cohortative structure that makes the chapter's symmetry visible.",
+      "appliesTo": [
+        "GEN-11:3"
+      ]
+    },
+    {
+      "id": "lvenah-aven-chemar-chomer",
+      "source": "וַתְּהִי לָהֶם הַלְּבֵנָה לְאָבֶן וְהַחֵמָר הָיָה לָהֶם לַחֹמֶר",
+      "translit": "vat'hi lahem hal'venah l'aven v'hachemar haya lahem lachomer",
+      "strongs": "H3843 + H68 + H2564 + H2563",
+      "partOfSpeech": "noun phrase parallelism",
+      "literal": "and was for them the brick as stone, and the bitumen was for them as mortar",
+      "standardEnglish": "And they had brick for stone, and slime had they for mortar",
+      "wohChoice": "The brick was for them as stone, and the bitumen was for them as mortar",
+      "claim_type": "direct",
+      "rationale": "The technical-archaeological aside notes that the Babel-builders substituted kiln-fired clay brick (*l'venah*) for stone (*aven*) and bitumen (*chemar*) for mortar (*chomer*). This is empirically accurate to southern Mesopotamian construction methods: the alluvial plain has no stone, and the Mesopotamian ziggurats used kiln-fired clay brick with bitumen mortar (attested archaeologically and in Mesopotamian construction texts). The KJV 'slime' for *chemar* is archaic (16th-century English for any sticky tar-like substance); 'bitumen' is the accurate modern term — the natural asphaltic seepage of Mesopotamia (especially the Hit region on the middle Euphrates), which was used as construction mortar from the Ubaid period (5th millennium BCE) onward. The chapter is technically literate about the world it describes — the WoH translation preserves the technical accuracy.",
+      "appliesTo": [
+        "GEN-11:3"
+      ]
+    },
+    {
+      "id": "migdal-rosho-bashamayim",
+      "source": "וּמִגְדָּל וְרֹאשׁוֹ בַשָּׁמַיִם",
+      "translit": "u-migdal v'rosho bashamayim",
+      "strongs": "H4026 + H7218 + H8064",
+      "partOfSpeech": "noun phrase",
+      "literal": "and a tower, and its head in the skies",
+      "standardEnglish": "and a tower, whose top may reach unto heaven",
+      "wohChoice": "a tower with its top in the skies",
+      "claim_type": "inferred",
+      "rationale": "*Migdal v'rosho bashamayim* — *a tower with its top in the skies*. *Migdal* (מִגְדָּל) is the Hebrew word for a tower or fortified high structure (city walls, watchtowers, siege towers in 2 Sam 22:51, Isa 33:18). In Gen 11:4 the *migdal* names the structure the Mesopotamian context strongly indicates: a ziggurat — the stepped temple-platform of Mesopotamian religious architecture, exemplified by the great ziggurat of Etemenanki at Babylon. // The phrase *rosho bashamayim* (literally 'its head in the skies') is a stock-phrase for *very tall* (cf. Deut 1:28, 9:1, of fortified Canaanite cities 'whose walls reach up to the skies'). But in this chapter the phrase functions on two levels: as hyperbole for height, *and* as a description of the ziggurat's theological function — the structure was designed in Mesopotamian theology to be the stairway between earth and the divine realm, with the deity descending onto the platform-shrine at the summit and human worship ascending through it. *Rosho bashamayim* therefore names both the physical aspiration and the cosmological function. The WoH translation preserves the literal 'top in the skies' (using *skies* from the established *shamayim* glossary entry); the standard English 'whose top may reach to heaven' (KJV/ASV) smooths the construction and obscures the ziggurat-specific reference. Reclassified as `inferred` because the strong reading of *rosho bashamayim* as ziggurat-function-marker (rather than mere hyperbole) is interpretive — defensible from ANE archaeological context and supported by scholars (Speiser, Westermann), but not consensus.",
+      "appliesTo": [
+        "GEN-11:4"
+      ]
+    },
+    {
+      "id": "naase-lanu-shem",
+      "source": "וְנַעֲשֶׂה־לָּנוּ שֵׁם",
+      "translit": "v'na'aseh lanu shem",
+      "strongs": "H6213 + H8034",
+      "partOfSpeech": "cohortative verbal phrase",
+      "literal": "and let us make for ourselves a name",
+      "standardEnglish": "let us make us a name",
+      "wohChoice": "let us make for ourselves a name",
+      "claim_type": "direct",
+      "rationale": "*Naase lanu shem* — *let us make for ourselves a name* — uses the **same cohortative form** as the divine *naase adam* of Gen 1:26. *Naase* is first-person plural cohortative of עָשָׂה *asah* ('make, do'). In Genesis 1:26 the speaker is the Elohim, the cohortative is interpreted as divine plural; here in 11:4 the speakers are humans, the cohortative is straightforwardly first-person plural. The verbal parallel is exact and structurally important: the chapter is staging humans assuming the *naase* register that opened the creation account. // *Shem* (שֵׁם) in Hebrew Bible idiom is *name* in the sense of *renown, reputation, lasting memory* (cf. 2 Sam 7:9, of YHWH making David's *shem* great; Isa 56:5, of an *everlasting name*). The phrase *anshei ha-shem* — *men of the name* — was applied in Gen 6:4 to the antediluvian *gibborim* (the offspring of the *bnei ha-elohim*). The Babel-builders are now collectively saying: *let us make for ourselves a name*. The chapter is verbally connecting the human ambition at Babel to the *gibborim*-class register the Flood was supposed to have ended. The translation preserves the bare cohortative without editorializing; the commentary surfaces the parallel.",
+      "appliesTo": [
+        "GEN-11:4",
+        "GEN-11:7"
+      ]
+    },
+    {
+      "id": "pen-naputz",
+      "source": "פֶּן־נָפוּץ עַל־פְּנֵי כָל־הָאָרֶץ",
+      "translit": "pen-naputz al-pnei kol ha-aretz",
+      "strongs": "H6435 + H6327",
+      "partOfSpeech": "subordinate clause",
+      "literal": "lest we be scattered upon the face of all the land",
+      "standardEnglish": "lest we be scattered abroad upon the face of the whole earth",
+      "wohChoice": "lest we be scattered upon the face of the whole land",
+      "claim_type": "direct",
+      "rationale": "The Babel-builders' motive-clause: *pen-naputz al-pnei kol ha-aretz* — *lest we be scattered upon the face of the whole land*. The conjunction פֶּן *pen* introduces a negative purpose-clause ('lest, in order that not'). The verb *naputz* is qal passive of פּוּץ *putz* 'to scatter, disperse'. The same root will return in v8 (*vayyafetz YHWH otam ... al-pnei kol ha-aretz* — 'YHWH scattered them ... upon the face of the whole land') and v9 (the closing summary). The chapter's structural irony is built on this root: what the Babel-builders fear in v4 is exactly what YHWH does in v8 — the *same verb*, the *same prepositional phrase*. The WoH translation preserves the verbal repetition (translating *putz* consistently as 'scatter' in both clauses) so the chapter's reversal-structure is visible. The standard English 'scattered abroad' (KJV) adds an 'abroad' the Hebrew does not have.",
+      "appliesTo": [
+        "GEN-11:4"
+      ]
+    },
+    {
+      "id": "vayered-yhwh",
+      "source": "וַיֵּרֶד יְהוָה לִרְאֹת",
+      "translit": "vayered YHWH lir'ot",
+      "strongs": "H3381",
+      "partOfSpeech": "verbal phrase",
+      "literal": "and YHWH came down to see",
+      "standardEnglish": "And the LORD came down to see",
+      "wohChoice": "YHWH came down to see",
+      "claim_type": "direct",
+      "rationale": "*Vayered YHWH lir'ot* — *YHWH came down to see*. The verb is יָרַד *yarad* 'descend', used with YHWH as subject. The anthropomorphic register is plain: YHWH is positioned *above*, the city-and-tower is *below*, and YHWH *descends* to inspect. The descent-language sets up the *havah neredah* (let us also go down) of v7, where the divine plural cohortative will act. // The verb *yarad* is used elsewhere of divine descent at Sinai (Ex 19:11, 19:18, 19:20, 'YHWH came down on Mount Sinai'); the verbal echo across the Babel and Sinai narratives is one of the Pentateuch's longer-range structural moves. The translation preserves the bare anthropomorphic register without softening to 'looked down' or 'observed from above'.",
+      "appliesTo": [
+        "GEN-11:5"
+      ]
+    },
+    {
+      "id": "lo-yibatzer-mehem",
+      "source": "וְעַתָּה לֹא־יִבָּצֵר מֵהֶם כֹּל אֲשֶׁר יָזְמוּ לַעֲשׂוֹת",
+      "translit": "v'atah lo yibatzer mehem kol asher yazmu la'asot",
+      "strongs": "H1219 + H2161",
+      "partOfSpeech": "verbal clause",
+      "literal": "and now nothing will be made inaccessible from them, all that they have planned to do",
+      "standardEnglish": "and now nothing will be restrained from them, which they have imagined to do",
+      "wohChoice": "and now, nothing will be withheld from them which they have schemed to do",
+      "claim_type": "inferred",
+      "rationale": "*Lo yibatzer mehem kol asher yazmu la'asot* — the Hebrew is dense. *Yibatzer* is niphal of בָּצַר *batsar*, whose semantic range covers 'restrain, cut off, make inaccessible, be impossible' (Job 42:2 uses the same passive of YHWH: *lo yibatzer mimkha mezimah* — 'no purpose of yours is restrained'). The negation *lo yibatzer* means *will not be withheld / made inaccessible*. *Yazmu* is qal perfect of זָמַם *zamam* 'to devise, scheme, plan' — neutral-to-negative in semantic range, often used of *premeditation* in legal contexts. // YHWH's assessment is plain: human coordination at this scale produces unlimited capacity. The clause is *not* judicial-curse language; it is *engineering-assessment* language. The response in v7 will be a targeted intervention to break the coordination — not punishment but a cap on capacity. The Wheel of Heaven lens reads this verse with attention: the chapter is staging a strategic divine response to human power-aggregation, and the verb *yibatzer* names the divine concern precisely. The WoH translation 'nothing will be withheld' preserves the passive-voice claim; 'schemed' renders *zamam* in its slightly-negative tonal range without over-determining (KJV 'imagined' reads as merely cognitive, missing the deliberate-planning sense). Reclassified `inferred` because the rendering of *zamam* as 'schemed' (vs. 'planned' or 'imagined') is a connotational choice.",
+      "appliesTo": [
+        "GEN-11:6"
+      ]
+    },
+    {
+      "id": "havah-neredah",
+      "source": "הָבָה נֵרְדָה וְנָבְלָה שָׁם שְׂפָתָם",
+      "translit": "havah neredah v'navlah sham sefatam",
+      "strongs": "H3051 + H3381 + H1101",
+      "partOfSpeech": "cohortative verbal phrase",
+      "literal": "come! let us go down and let us confuse there their lip",
+      "standardEnglish": "Go to, let us go down, and there confound their language",
+      "wohChoice": "Come, let us go down and confuse their tongue there",
+      "claim_type": "direct",
+      "rationale": "*Havah neredah v'navlah* — *come, let us go down, and let us confuse*. This is the **third explicit divine cohortative in Genesis**, after 1:26 (*naase adam* — let us make humankind) and 3:22 (*hen ha-adam haya k'achad mimennu* — behold, the human has become like one of us). All three are first-person plural divine speech. The chapter's cohortative is the structural mirror of the human cohortatives in vv 3-4 (*havah nilbenah*, *havah nivneh*) — the divine response to the human project uses the same rhetorical form. // *Neredah* is first-person plural cohortative of יָרַד *yarad* 'descend'. The verb mirrors the singular *vayered* of v5 ('YHWH came down to see'); v7's plural neredah indicates either a divine-council descent or a self-summoning rhetorical plural (the latter is the standard non-WoH reading; the former is the modern divine-council scholarship reading favored by Heiser and others, and is consistent with the WoH lens). // *Navlah* is first-person plural cohortative of בָּלַל *balal* 'to mix, confound, confuse' — the etymological root of *Babel*. The intervention is linguistic: not destroying the city, not killing the builders, but breaking the coordination-capability by fragmenting the shared language. The WoH translation preserves the cohortative structure ('let us go down ... let us confuse') and the linguistic-targeting register.",
+      "appliesTo": [
+        "GEN-11:7"
+      ]
+    },
+    {
+      "id": "vayyafetz-yhwh",
+      "source": "וַיָּפֶץ יְהוָה אֹתָם מִשָּׁם",
+      "translit": "vayyafetz YHWH otam misham",
+      "strongs": "H6327",
+      "partOfSpeech": "verbal phrase",
+      "literal": "and YHWH scattered them from there",
+      "standardEnglish": "So the LORD scattered them abroad from thence",
+      "wohChoice": "YHWH scattered them from there",
+      "claim_type": "direct",
+      "rationale": "*Vayyafetz YHWH otam misham* — *YHWH scattered them from there*. The verb is hiphil (causative) of פּוּץ *putz* — the same root that the Babel-builders had used in v4 (*pen-naputz* — 'lest we be scattered'). The Hebrew is doing structural irony with verbal precision: the humans feared *being scattered* (passive); YHWH *scatters* them (active causative). The chapter's reversal is built into the same triconsonantal root, recurring four times across vv 4-9. The translation preserves the verbal repetition ('scatter' for *putz* in both passive and causative) so the symmetry is visible.",
+      "appliesTo": [
+        "GEN-11:8",
+        "GEN-11:9"
+      ]
+    },
+    {
+      "id": "bavel-balal",
+      "source": "עַל־כֵּן קָרָא שְׁמָהּ בָּבֶל כִּי־שָׁם בָּלַל יְהוָה שְׂפַת כָּל־הָאָרֶץ",
+      "translit": "al-ken qara shemah Bavel ki sham balal YHWH sefat kol ha-aretz",
+      "strongs": "H894 + H1101",
+      "partOfSpeech": "etymological clause",
+      "literal": "therefore its name was called Babel, because there YHWH confounded the lip of all the land",
+      "standardEnglish": "Therefore is the name of it called Babel; because the LORD did there confound the language of all the earth",
+      "wohChoice": "Therefore its name was called Babel, because there YHWH confounded the tongue of the whole land",
+      "claim_type": "direct",
+      "rationale": "*Bavel* (בָּבֶל) and *balal* (בָּלַל) share a triconsonantal root structure close enough for the chapter to assert an etymological pun. The actual etymology is not internal to Hebrew: *Bavel* most likely derives from Akkadian *Bab-ilim* (*'gate of the gods'* or *'gate of god'* — *bab-ili* in the singular) — the same root that gives English 'Babylon' via Greek Βαβυλών. The chapter is offering a folk etymology that *recodes* the Mesopotamian self-naming ('gate of the gods') as the Hebrew theological re-naming ('the place where YHWH confounded'). The pun is theological recoding: the city of divine access is recast as the city of divine refusal of access. The translation preserves the bare etymology-clause and notes the recoding in commentary. *Bavel* (not Babylon, not Babel-in-English) is the Hebrew form; the English-tradition 'Babel' is acceptable as it tracks the Hebrew consonantal skeleton closely.",
+      "appliesTo": [
+        "GEN-11:9"
+      ]
+    },
+    {
+      "id": "terach-avram-nachor-haran",
+      "source": "וַיּוֹלֶד אֶת־אַבְרָם אֶת־נָחוֹר וְאֶת־הָרָן",
+      "translit": "vayyoled et Avram et Nachor v'et Haran",
+      "strongs": "H8646 + H87 + H5152 + H2039",
+      "partOfSpeech": "proper-name list",
+      "literal": "and fathered Abram, Nachor, and Haran",
+      "standardEnglish": "and begat Abram, Nahor, and Haran",
+      "wohChoice": "fathered Abram, Nachor, and Haran",
+      "claim_type": "direct",
+      "rationale": "Terah's three sons are named with the standard Hebrew transliterations: *Avram* (אַבְרָם — later renamed Avraham/Abraham in Gen 17), *Nachor* (נָחוֹר — same name as Terah's father in v24, the grandson named for the grandfather), *Haran* (הָרָן — distinct from the city *Charan* of v31, which has a different initial consonant in Hebrew: ח vs ה). // The naming triad establishes the patriarchal-family network: Abram will be the covenant-line; Nachor will remain in northern Mesopotamia and become the ancestor of Rebekah (Gen 24); Haran will die early but father Lot, Milkah, and (per 11:29) Yiskah. The WoH translation preserves the Hebrew forms ('Avram' not 'Abram', 'Nachor' not 'Nahor', 'Haran' not 'Haran-with-h'). However, the chapter retains 'Abram' (with English-traditional initial A and -br-) to match standard scholarly conventions and the canon-tradition of the name; full transliteration to 'Avram' is deferred to a future glossary decision.",
+      "appliesTo": [
+        "GEN-11:26",
+        "GEN-11:27"
+      ]
+    },
+    {
+      "id": "ur-kasdim",
+      "source": "אוּר כַּשְׂדִּים",
+      "translit": "Ur Kasdim",
+      "strongs": "H218 + H3778",
+      "partOfSpeech": "proper-name phrase",
+      "literal": "Ur of the Kasdim",
+      "standardEnglish": "Ur of the Chaldees",
+      "wohChoice": "Ur of the Kasdim",
+      "claim_type": "direct",
+      "rationale": "*Ur Kasdim* — Ur of the Kasdim — names the family's place of origin. Ur was the great Sumerian city of southern Mesopotamia, capital of the Third Dynasty of Ur (ca. 2100 BCE), excavated by Sir Leonard Woolley in the 1920s. The qualifier *Kasdim* (Chaldeans) is **chronologically anachronistic**: the Chaldeans (Akkadian *Kaldu*) are a first-millennium-BCE Aramean people who came to dominate Babylonia in the Neo-Babylonian period (the most famous Chaldean being Nebuchadnezzar II). The phrase *Ur Kasdim* therefore mixes a third-millennium city with a first-millennium people's name — an editorial gloss reflecting the period in which the genealogy was redacted. // Modern scholarship has proposed alternative identifications (a northern Mesopotamian *Ur* near Haran, rather than the famous southern *Ur*) precisely to avoid the *Kasdim* anachronism. The southern-Ur identification remains dominant. // The WoH translation preserves the Hebrew *Kasdim* rather than the English-traditional 'Chaldees' (KJV) or 'Chaldeans' (modern translations) — both of which obscure the chronological seam by translating to a different language's name for the same people.",
+      "appliesTo": [
+        "GEN-11:28",
+        "GEN-11:31"
+      ]
+    },
+    {
+      "id": "sarai-milkah-yiskah",
+      "source": "שָׂרַי ... מִלְכָּה בַּת־הָרָן ... יִסְכָּה",
+      "translit": "Sarai ... Milkah bat-Haran ... Yiskah",
+      "strongs": "H8297 + H4435 + H3252",
+      "partOfSpeech": "proper-name list",
+      "literal": "Sarai ... Milkah daughter of Haran ... Yiskah",
+      "standardEnglish": "Sarai ... Milcah, the daughter of Haran ... Iscah",
+      "wohChoice": "Sarai ... Milkah, daughter of Haran ... Yiskah",
+      "claim_type": "direct",
+      "rationale": "Three women are named in Gen 11:29. *Sarai* (שָׂרַי, 'my princess' or 'noble lady', later renamed Sarah in 17:15) is Abram's wife; her lineage is *not* given (the narrative will eventually identify her in 20:12 as Abram's half-sister, with the same father but different mother). *Milkah* (מִלְכָּה, 'queen') is Nachor's wife, identified as Haran's daughter — making her Nachor's niece (intra-family marriage was the patriarchal-period norm). *Yiskah* (יִסְכָּה, etymology uncertain — possibly 'she sees' or 'anointed') is named only here in the Hebrew Bible; she is identified as another daughter of Haran but never reappears. // Rabbinic tradition (Megillah 14a, Sanhedrin 69b) identifies Yiskah with Sarai, on the basis that Sarai's lineage is otherwise unexplained and Yiskah is named without further mention. This identification has no textual support and is rejected by most modern scholarship (Sarai's later identification in 20:12 as Abram's half-sister, with Terah as her father, does not match Yiskah being Haran's daughter). The translation preserves the Hebrew forms and lets the textual crux stand.",
+      "appliesTo": [
+        "GEN-11:29"
+      ]
+    },
+    {
+      "id": "sarai-aqarah",
+      "source": "וַתְּהִי שָׂרַי עֲקָרָה אֵין לָהּ וָלָד",
+      "translit": "vat'hi Sarai aqarah ein lah valad",
+      "strongs": "H6135",
+      "partOfSpeech": "noun phrase + clause",
+      "literal": "and was Sarai barren — no to her child",
+      "standardEnglish": "But Sarai was barren; she had no child",
+      "wohChoice": "Sarai was barren — she had no child",
+      "claim_type": "direct",
+      "rationale": "Six Hebrew words name the constraint that will be load-bearing for the next ten chapters. *Aqarah* (עֲקָרָה) is the Hebrew word for 'barren', applied in the Hebrew Bible to Sarah (Gen 11:30, 16:1, 18:11-12), Rebekah (25:21), Rachel (29:31), Hannah (1 Sam 1:2), Manoah's wife (Judg 13:2), and others — a recurring female-barrenness motif tied to divine intervention and late-life conception. The redundant *ein lah valad* — *she had no child* — drives the assertion home: this is not delayed conception but stated barrenness as a baseline. // The verse is the chapter's pivot from primaeval-history scope to patriarchal-narrative scope: the constraint that the next ten chapters will work to overcome is named in a single short verse, without commentary. The chapter's textual economy at this point is structurally important — the next chapter (Gen 12) opens with divine action that will need to overcome what 11:30 has just stated as a flat impossibility.",
+      "appliesTo": [
+        "GEN-11:30"
+      ]
+    },
+    {
+      "id": "terach-yetzi-aretz-knaan",
+      "source": "וַיֵּצְאוּ אִתָּם מֵאוּר כַּשְׂדִּים לָלֶכֶת אַרְצָה כְּנַעַן וַיָּבֹאוּ עַד־חָרָן וַיֵּשְׁבוּ שָׁם",
+      "translit": "vayyetz'u itam me-Ur Kasdim lalekhet artzah Kena'an vayyavo'u ad-Charan vayyeshvu sham",
+      "strongs": "H3318 + H1980 + H3667 + H2771",
+      "partOfSpeech": "narrative clause sequence",
+      "literal": "and they went out with them from Ur of the Kasdim to go toward the land of Canaan, and they came as far as Haran and settled there",
+      "standardEnglish": "and they went forth with them from Ur of the Chaldees, to go into the land of Canaan; and they came unto Haran, and dwelt there",
+      "wohChoice": "they went out with them from Ur of the Kasdim to go to the land of Canaan, and they came to Haran and settled there",
+      "claim_type": "direct",
+      "rationale": "The verse stages the *unfinished* migration toward Canaan. *Vayyetz'u me-Ur Kasdim* — 'they went out from Ur Kasdim' — names the departure; *lalekhet artzah Kena'an* — 'to go toward the land of Canaan' — names the intent; *vayyavo'u ad-Charan vayyeshvu sham* — 'and they came as far as Haran and settled there' — names the interruption. *Ad* (עַד) — 'as far as, up to' — marks Haran as a stopping-point short of the destination, not the destination itself. // *Charan* (חָרָן, with initial *chet*) is distinct from *Haran* (הָרָן, with initial *he*, the brother of Abram). The two are sometimes confused in English transliteration where both lose the diacritic distinction; in Hebrew they are different consonants and entirely different names. *Charan* is a major northern Mesopotamian city (the site near modern Harran in southeastern Turkey), an important Bronze and Iron Age trading center on the Aramean / Mesopotamian frontier and one of the main centers of the Sin (moon-god) cult. // Terah does not complete the migration; he dies in Charan (v32). Chapter 12 will open with YHWH's call to Abram to *go from your land, from your kindred, from your father's house, to the land that I will show you* (12:1) — and Abram will complete the migration his father had begun and abandoned. The chapter is staging the seam: the family-line journey toward Canaan stalls at Charan; the covenant-line journey will resume under explicit divine call.",
+      "appliesTo": [
+        "GEN-11:31"
       ]
     }
   ]
