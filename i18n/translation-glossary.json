@@ -1,13 +1,13 @@
 {
   "$schema": "./translation-glossary-schema.json",
   "name": "Wheel of Heaven Translation Glossary",
-  "version": "2.1.0",
+  "version": "2.2.0",
   "released": "2026-05-21",
   "description": "Lexical decisions made by the Wheel of Heaven Translation Program. Distinct from content/i18n/glossary.json, which records site-UI terminology. Each entry records a source-language term, the standard PD-translation rendering, the WoH choice, the rationale, and the verses where the choice applies. Pinned to per-chapter translations via `glossaryVersion` in chapter metadata.",
   "sourceLanguages": [
     "he"
   ],
-  "scopeNote": "v1.0.0 covered Genesis 1; subsequent releases extended through Genesis 9 (v1.9.0) and added the taninim revision (v2.0.0). v2.1.0 extends to Genesis 10-11 (Table of Nations + Babel + line to Abram), adding 26 new entries for the chapters' toponyms, ethnonyms, and lens-critical phrases.",
+  "scopeNote": "v1.0.0 covered Genesis 1; releases through v1.9.0 extended to Genesis 9; v2.0.0 revised the taninim entry; v2.1.0 added 25 entries for Genesis 10-11. v2.2.0 extends to Ezekiel 1 — the first non-Genesis WoH Translation chapter — adding 18 new entries for chashmal, the chayyot, the ofan-b'tokh-ofan, the mar'eh-demut hedging formula, kavod-YHWH, and related throne-vision vocabulary. This is the project's first cross-book glossary extension; it proves the production glossary generalizes off Genesis without modifying any prior entries.",
   "terms": [
     {
       "id": "bereshit",
@@ -2780,6 +2780,304 @@
       "rationale": "The verse stages the *unfinished* migration toward Canaan. *Vayyetz'u me-Ur Kasdim* — 'they went out from Ur Kasdim' — names the departure; *lalekhet artzah Kena'an* — 'to go toward the land of Canaan' — names the intent; *vayyavo'u ad-Charan vayyeshvu sham* — 'and they came as far as Haran and settled there' — names the interruption. *Ad* (עַד) — 'as far as, up to' — marks Haran as a stopping-point short of the destination, not the destination itself. // *Charan* (חָרָן, with initial *chet*) is distinct from *Haran* (הָרָן, with initial *he*, the brother of Abram). The two are sometimes confused in English transliteration where both lose the diacritic distinction; in Hebrew they are different consonants and entirely different names. *Charan* is a major northern Mesopotamian city (the site near modern Harran in southeastern Turkey), an important Bronze and Iron Age trading center on the Aramean / Mesopotamian frontier and one of the main centers of the Sin (moon-god) cult. // Terah does not complete the migration; he dies in Charan (v32). Chapter 12 will open with YHWH's call to Abram to *go from your land, from your kindred, from your father's house, to the land that I will show you* (12:1) — and Abram will complete the migration his father had begun and abandoned. The chapter is staging the seam: the family-line journey toward Canaan stalls at Charan; the covenant-line journey will resume under explicit divine call.",
       "appliesTo": [
         "GEN-11:31"
+      ]
+    },
+    {
+      "id": "mar'ot-elohim",
+      "source": "מַרְאוֹת אֱלֹהִים",
+      "translit": "mar'ot Elohim",
+      "strongs": "H4759 + H430",
+      "partOfSpeech": "noun phrase, plural construct",
+      "literal": "visions of (the) Elohim",
+      "standardEnglish": "visions of God",
+      "wohChoice": "visions of Elohim",
+      "claim_type": "direct",
+      "rationale": "The phrase opens Ezekiel 1:1. *Mar'ot* (מַרְאוֹת) is the plural of *mar'eh* (vision, appearance); the plural form is meaningful — Ezekiel saw multiple visions, not a single image. The genitive *Elohim* preserves the plural class-noun rendering established throughout the WoH translation (see [`elohim-as-translation`](/wiki/elohim/)). The phrase recurs in Ezek 8:3 and 40:2, opening the book's major vision-sequences. The standard English 'visions of God' singularizes both nouns and obscures the plural register; the WoH translation preserves both plurals.",
+      "appliesTo": [
+        "EZK-1:1"
+      ]
+    },
+    {
+      "id": "nehar-kevar",
+      "source": "נְהַר־כְּבָר",
+      "translit": "nehar Kevar",
+      "strongs": "H5104 + H3529",
+      "partOfSpeech": "proper-name phrase",
+      "literal": "river of Kevar",
+      "standardEnglish": "river Chebar",
+      "wohChoice": "the river Kebar",
+      "claim_type": "direct",
+      "rationale": "The Kebar (Hebrew כְּבָר, Akkadian *naru kabari* — 'the great canal') is a major canal of the Babylonian canal system, branching from the Euphrates near Nippur in southern Mesopotamia. The location is well-attested in cuneiform sources from the Neo-Babylonian period. Ezekiel's vision happens by this canal, in the Jewish exilic community settled in southern Babylonia. The KJV transliteration 'Chebar' is etymologically defensible but reads as the English-tradition rendering; the WoH translation preserves the Hebrew form 'Kebar' (also matching modern scholarly conventions and the Akkadian original closer than 'Chebar'). The phrase recurs at Ezek 1:3, 3:15, 10:15, 10:20, 10:22, 43:3 as the book's geographic anchor.",
+      "appliesTo": [
+        "EZK-1:1",
+        "EZK-1:3"
+      ]
+    },
+    {
+      "id": "gola-yoyakhin",
+      "source": "גָּלוּת הַמֶּלֶךְ יוֹיָכִין",
+      "translit": "galut ha-melek Yoyakhin",
+      "strongs": "H1473 + H3079",
+      "partOfSpeech": "proper-name phrase",
+      "literal": "exile of King Yoyakhin",
+      "standardEnglish": "exile of King Jehoiachin",
+      "wohChoice": "the exile of King Yoyakhin",
+      "claim_type": "direct",
+      "rationale": "Yoyakhin (יוֹיָכִין, also spelled Yehoyakhin / יְהוֹיָכִין in full form) was the penultimate king of Judah, deported to Babylon in 597 BCE in the first Babylonian deportation (2 Kgs 24:8-17). The 'fifth year of his exile' = 593 BCE, the date of Ezekiel's vision. Modern English Bibles render the name as 'Jehoiachin' (KJV/ASV) — an Anglicization of the longer Hebrew form via the Vulgate. The WoH translation uses the shorter Hebrew form Yoyakhin, closer to the consonantal text and aligning with the WoH project's general preference for Hebrew-form proper names (Yapheth, Yoqtan, Yiskah). Yoyakhin is also the form used in the Babylonian ration-tablets ('Yaukin') that confirm the historicity of his exile.",
+      "appliesTo": [
+        "EZK-1:2"
+      ]
+    },
+    {
+      "id": "eretz-kasdim",
+      "source": "אֶרֶץ כַּשְׂדִּים",
+      "translit": "eretz Kasdim",
+      "strongs": "H776 + H3778",
+      "partOfSpeech": "proper-name phrase",
+      "literal": "land of the Kasdim",
+      "standardEnglish": "land of the Chaldeans",
+      "wohChoice": "the land of the Kasdim",
+      "claim_type": "direct",
+      "rationale": "*Eretz Kasdim* — 'land of the Kasdim' — names Babylonia. The Kasdim (Akkadian *Kaldu*, English 'Chaldeans') are a first-millennium-BCE Aramean people who came to dominate Babylonia under the Neo-Babylonian dynasty (Nabopolassar, Nebuchadnezzar II). The phrase recurs at Ezek 1:3 and is the book's term for the exile-location. Parallels `ur-kasdim` (Gen 11:28, 31) — both use the same Aramean-period naming. The WoH translation preserves the Hebrew form *Kasdim* rather than the English-traditional 'Chaldeans' for consistency with the existing `ur-kasdim` entry.",
+      "appliesTo": [
+        "EZK-1:3"
+      ]
+    },
+    {
+      "id": "yad-yhwh",
+      "source": "יַד־יְהוָה",
+      "translit": "yad YHWH",
+      "strongs": "H3027 + H3068",
+      "partOfSpeech": "noun phrase",
+      "literal": "the hand of YHWH",
+      "standardEnglish": "the hand of the LORD",
+      "wohChoice": "the hand of YHWH",
+      "claim_type": "direct",
+      "rationale": "*Yad YHWH* — 'the hand of YHWH' — is a technical Hebrew Bible idiom for divine agency or compulsion. In Ezekiel specifically, the phrase is a recurring formula marking the onset of prophetic experience: *vat'hi alav yad YHWH* — 'the hand of YHWH was upon him' — at 1:3, 3:14, 3:22, 8:1, 33:22, 37:1, 40:1. The phrase recurs in Elijah-Elisha narratives (1 Kgs 18:46, 2 Kgs 3:15) and in Isa 8:11 for similar prophetic-impulse moments. The lexical core is *yad* (hand), anthropomorphically applied to YHWH but covering the broader sense of *power, agency, custody, compulsion*. The WoH translation preserves the literal 'hand of YHWH' and the YHWH name (not 'the LORD'). The Christian-tradition 'the LORD' is a Vulgate-via-LXX substitution-tradition; the Hebrew uses the divine name.",
+      "appliesTo": [
+        "EZK-1:3"
+      ]
+    },
+    {
+      "id": "ezekiel-ben-buzi",
+      "source": "יְחֶזְקֵאל בֶּן־בּוּזִי הַכֹּהֵן",
+      "translit": "Yehezkel ben-Buzi ha-kohen",
+      "strongs": "H3168 + H1121 + H940 + H3548",
+      "partOfSpeech": "proper-name phrase",
+      "literal": "Yehezkel son of Buzi the priest",
+      "standardEnglish": "Ezekiel the son of Buzi the priest",
+      "wohChoice": "Ezekiel son of Buzi the priest",
+      "claim_type": "direct",
+      "rationale": "Ezekiel (יְחֶזְקֵאל Yehezkel — 'El strengthens' or 'may El strengthen') is identified by patronymic (*ben Buzi*) and office (*ha-kohen* — the priest). The priestly identity is structurally important: Ezekiel is a *kohen*, an Aaronic-lineage priest, displaced from the Jerusalem Temple by the 597 BCE deportation. His prophetic-vision register throughout the book is recognizably *priestly* — spatially calibrated, ritually inflected, concerned with the temple's defilement and restoration — in a way that contrasts with the prophetic-rhetorical register of his contemporary Jeremiah (in Jerusalem). The WoH translation preserves 'Ezekiel' (the standard English form) for the prophet's name, balancing the WoH preference for Hebrew-form names against the strongly-established English-tradition rendering of this specific name (the book title 'Ezekiel' is universal in English). The book's catalog title across all WoH metadata uses 'Ezekiel'. *Buzi* and *kohen* render in their Hebrew transliteration / structural form.",
+      "appliesTo": [
+        "EZK-1:3"
+      ]
+    },
+    {
+      "id": "ruach-se'arah",
+      "source": "רוּחַ סְעָרָה",
+      "translit": "ruach se'arah",
+      "strongs": "H7307 + H5591",
+      "partOfSpeech": "noun phrase",
+      "literal": "a wind of storm",
+      "standardEnglish": "a stormy wind / a whirlwind",
+      "wohChoice": "a stormy wind",
+      "claim_type": "direct",
+      "rationale": "*Ruach se'arah* — 'a stormy wind' — opens Ezekiel's vision (1:4) as the carrier of the approaching apparition. *Ruach* is the standard Hebrew word for *wind / breath / spirit* (see `ruach-elohim` for the Gen 1:2 cosmogonic sense); *se'arah* is *storm, tempest* (specifically, a violent or whirling wind). The compound phrase recurs in 2 Kgs 2:11 (the *se'arah* that took Elijah up) and in prophetic-judgment texts (Jer 23:19, 30:23). The Ezekiel verse uses the phrase as the *transport-medium* of the chayyot apparatus — the chayyot come from the north *in* (or *with*) a stormy wind. The WoH translation preserves the literal 'stormy wind' rather than KJV/ASV 'whirlwind' (which over-specifies the rotation register).",
+      "appliesTo": [
+        "EZK-1:4"
+      ]
+    },
+    {
+      "id": "chashmal",
+      "source": "חַשְׁמַל",
+      "translit": "chashmal",
+      "strongs": "H2830",
+      "partOfSpeech": "noun, hapax",
+      "literal": "[chashmal — uncertain]",
+      "standardEnglish": "amber / electrum / gleaming metal",
+      "wohChoice": "chashmal (preserved as Hebrew)",
+      "claim_type": "inferred",
+      "rationale": "The Hebrew word *chashmal* (חַשְׁמַל) appears in the Hebrew Bible **only three times** (Ezek 1:4, 1:27, 8:2) and has no clear Hebrew etymology. The word is one of the most contested in the entire Hebrew Bible. // The LXX (3rd-2nd c. BCE Greek translation) renders ἤλεκτρον (*elektron*) — Greek for the gold-silver alloy *electrum*, used for cultic vessels and royal regalia in classical antiquity. The Vulgate (Latin) follows: *electrum*. KJV and ASV render 'amber' (a different substance — fossilized tree resin — but also associated with golden-yellow luminous color); NJPS renders 'electrum'; NRSV 'gleaming amber'; ESV 'gleaming metal'. The modern scholarly consensus favors 'electrum' or 'gleaming metal'. // Akkadian *elmešu* (a precious gleaming substance used in royal-religious contexts, possibly amber or amber-glass) has been proposed as a cognate. // The WoH translation preserves the Hebrew word *chashmal* untranslated — parallel to how *Elohim* and *YHWH* are preserved. The reader encounters the chapter's own technical vocabulary on the page. The commentary supplies the lexical context; the translation does not pretend to know what *chashmal* IS. // Modern Hebrew uses *chashmal* for *electricity* (a 19th-century coinage by Eliezer Ben-Yehuda, who reused the biblical word for the new concept) — itself an interesting datum: the biblical term was the natural Hebrew word for a luminous-electrical phenomenon. Reclassified as `inferred` because the preservation-of-Hebrew choice (vs. translation to a specific English equivalent) is a translator's interpretive call.",
+      "appliesTo": [
+        "EZK-1:4",
+        "EZK-1:27"
+      ]
+    },
+    {
+      "id": "chayyot",
+      "source": "חַיּוֹת",
+      "translit": "chayyot",
+      "strongs": "H2416",
+      "partOfSpeech": "noun, feminine plural",
+      "literal": "living-things",
+      "standardEnglish": "living creatures",
+      "wohChoice": "living creatures",
+      "claim_type": "direct",
+      "rationale": "*Chayyot* (חַיּוֹת) is the plural of *chayyah* — *living thing, animal, life-form*. The root is *chai* (alive, life), the same root behind *chayyim* (life-plural, often used as a singular abstract). The chapter uses *chayyot* as a technical class-noun for the four figures (1:5, 13-15, 19-22), not as the generic biological term (cattle, wild animal). Apocalyptic literature picks up the term: Revelation 4:6's four *zoa* (Greek 'living things') is a direct re-reading of Ezekiel's chayyot. The English convention 'living creatures' is well-established and the WoH translation adopts it; 'living beings' would also be defensible (especially given that the chapter goes to such lengths to describe the figures' un-creature-like attributes). The translation preserves the *chai*-root register that links these figures to the broader Hebrew Bible vocabulary of *life*.",
+      "appliesTo": [
+        "EZK-1:5",
+        "EZK-1:13",
+        "EZK-1:14",
+        "EZK-1:15",
+        "EZK-1:19",
+        "EZK-1:20",
+        "EZK-1:21",
+        "EZK-1:22"
+      ]
+    },
+    {
+      "id": "mar'eh-demut",
+      "source": "מַרְאֵה דְּמוּת",
+      "translit": "mar'eh demut",
+      "strongs": "H4758 + H1823",
+      "partOfSpeech": "noun-pair, hedging formula",
+      "literal": "appearance of likeness",
+      "standardEnglish": "appearance of likeness / the likeness as the appearance of",
+      "wohChoice": "appearance of the likeness",
+      "claim_type": "direct",
+      "rationale": "Ezekiel 1 deploys a distinctive hedging-formula throughout: *mar'eh* (appearance) + *demut* (likeness), with various combinations of *ke-ein* ('like the look of'), *kemar'eh* ('like the appearance of'), and *demut* ('likeness of'). The chapter is methodically cautious — Ezekiel reports what things *looked like* and what they had the *likeness of*, not what they were. The formula reaches its highest density at 1:26 (*demut k'mar'eh adam* — 'likeness of an appearance like human') and 1:28 (*hu mar'eh demut kvod YHWH* — 'this was the appearance of the likeness of the glory of YHWH'). // The WoH translation preserves the doubled hedging formula consistently, surfacing the chapter's epistemic discipline. The reader sees Ezekiel describing-by-likeness, not asserting-identity. This is a translator's gift to the reader: the chapter teaches its own reading-protocol — *here is what it looked like*, not *here is what it was*.",
+      "appliesTo": [
+        "EZK-1:4",
+        "EZK-1:5",
+        "EZK-1:7",
+        "EZK-1:10",
+        "EZK-1:13",
+        "EZK-1:14",
+        "EZK-1:16",
+        "EZK-1:22",
+        "EZK-1:26",
+        "EZK-1:27",
+        "EZK-1:28"
+      ]
+    },
+    {
+      "id": "arba-panim-arba-knafayim",
+      "source": "אַרְבָּעָה פָנִים ... אַרְבַּע כְּנָפַיִם",
+      "translit": "arba'ah panim ... arba k'nafayim",
+      "strongs": "H702 + H6440 + H3671",
+      "partOfSpeech": "numeric phrase",
+      "literal": "four faces ... four wings",
+      "standardEnglish": "four faces ... four wings",
+      "wohChoice": "four faces ... four wings",
+      "claim_type": "direct",
+      "rationale": "The numeric signature *four* is the chapter's structural backbone: four chayyot, four faces per chayyah (human, lion, ox, eagle — v10), four wings per chayyah (v6, with the two-up-two-down configuration described in v11), four wheels (v15), four directions of motion (v9, v12, v17, v20). Four is the standard Hebrew Bible number for geographic-directional completeness (four winds, four corners of the earth, four rivers of Eden). The chayyot's design is calibrated to omnidirectional simultaneous-motion: each face oriented in one of the four cardinal directions, allowing the system to move any direction without rotation (v9, v12, v17). The composite face design — human, lion, ox, eagle — represents the four 'rulers' of ANE biological hierarchy: human (intellect), lion (wild fauna), ox (domesticated fauna), eagle (avifauna). The translation preserves the literal numerics; commentary surfaces the structural signature.",
+      "appliesTo": [
+        "EZK-1:6",
+        "EZK-1:10"
+      ]
+    },
+    {
+      "id": "ofan-b-tokh-ofan",
+      "source": "הָאוֹפַן בְּתוֹךְ הָאוֹפָן",
+      "translit": "ha-ofan b'tokh ha-ofan",
+      "strongs": "H212",
+      "partOfSpeech": "noun phrase with hedging structure",
+      "literal": "the wheel inside the wheel",
+      "standardEnglish": "a wheel in the middle of a wheel",
+      "wohChoice": "as if a wheel were within a wheel",
+      "claim_type": "direct",
+      "rationale": "The chapter's most-famous phrase outside of *chashmal*. The Hebrew is *ka-asher yihyeh ha-ofan b'tokh ha-ofan* — *as if the wheel were inside the wheel*. The construction uses Ezekiel's signature hedging formula (*ka-asher yihyeh* — 'as if it would be'); he is reporting what the wheels *looked like*, not asserting that wheels were literally inside wheels. // The standard scholarly reading: two wheels intersecting at right angles (gimbal-like / orthogonal-axis configuration), allowing the wheel-system to rotate in any direction without turning the chayyot above it. This matches the chapter's running concern with omnidirectional motion (v9, v12, v17, v21). // *Ofan* (אוֹפַן) is the standard Hebrew noun for *wheel* — chariot-wheel, mill-wheel, any rotating disc. *Ofannim* is the plural. The phrase 'wheels within wheels' has entered English idiom as a metaphor for hidden complexity; the chapter's literal meaning is mechanical — a description of an unusual wheel configuration that enables omnidirectional motion. The translation preserves the literal Hebrew with the *as if* hedging; commentary surfaces the mechanical reading.",
+      "appliesTo": [
+        "EZK-1:15",
+        "EZK-1:16",
+        "EZK-1:17",
+        "EZK-1:18",
+        "EZK-1:19",
+        "EZK-1:20",
+        "EZK-1:21"
+      ]
+    },
+    {
+      "id": "tarshish-stone",
+      "source": "כְּעֵין תַּרְשִׁישׁ",
+      "translit": "ke-ein Tarshish",
+      "strongs": "H8658",
+      "partOfSpeech": "noun phrase",
+      "literal": "like the look of tarshish-stone",
+      "standardEnglish": "like the colour of a beryl / like beryl / like chrysolite",
+      "wohChoice": "like the look of tarshish-stone",
+      "claim_type": "inferred",
+      "rationale": "*Tarshish* (תַּרְשִׁישׁ) as a stone-name appears at Ex 28:20 (high priest's breastplate stones), Song 5:14, Dan 10:6, and here at Ezek 1:16. The standard English translations differ: KJV 'beryl', ASV 'beryl', NJPS 'beryl', NRSV 'chrysolite', ESV 'beryl'. Modern gemological identifications variously propose chrysolite, peridot, yellow jasper, or yellow beryl. The classical-era association is **golden-yellow / olive-gold** — a precious stone of luminous appearance. The Vulgate uses *chrysolithus*. // The WoH translation preserves the Hebrew form 'tarshish-stone' rather than picking one of the proposed English identifications — both because the gemological identification is uncertain and because the chapter has stacked three precious-substance descriptions on the apparatus (*chashmal* electrum-like, *nechoshet qalal* burnished bronze, *tarshish* golden-yellow stone), and the visual register consistency is worth preserving. The hedging *ke-ein* ('like the look of') is preserved as 'like the look of'. Reclassified as `inferred` because the choice to preserve the Hebrew (vs. picking 'beryl' or 'chrysolite') is a translator's interpretive call.",
+      "appliesTo": [
+        "EZK-1:16"
+      ]
+    },
+    {
+      "id": "gabotam-meleot-einayim",
+      "source": "גַבֹּתָם מְלֵאֹת עֵינַיִם",
+      "translit": "gabbotam meleot einayim",
+      "strongs": "H1354 + H4392 + H5869",
+      "partOfSpeech": "noun phrase",
+      "literal": "their rims full of eyes",
+      "standardEnglish": "their rings were full of eyes",
+      "wohChoice": "the rims of the four of them were full of eyes round about",
+      "claim_type": "direct",
+      "rationale": "*Gabbotam* — *their rims* (the outer-edge surfaces of the wheels) — *meleot einayim saviv* — *full of eyes round about*. The phrase has been read at every level. Literal: the wheels are conscious-perceiving entities, eyes distributed around their rims. Iconographic: gemstones glinting like eyes (the wheels described in the same precious-stone register as *chashmal*, *nechoshet qalal*, *tarshish*). Technical: sensors / detectors / aperture-like features distributed around the rim, the apparatus's perceptive-data-gathering surface. Mythological / angelic: the eye-motif appears in seraphim and cherubim iconography across ANE traditions; Revelation 4:6 re-uses Ezekiel's chayyot with the eye-multitude transferred to the chayyot themselves. // The chapter does not specify which register the eyes belong to. The WoH translation preserves the literal *einayim* (eyes) and the *saviv* (round about) — letting the reader meet the chapter's strangeness directly. Commentary surfaces the range of readings.",
+      "appliesTo": [
+        "EZK-1:18"
+      ]
+    },
+    {
+      "id": "ruach-chayyot",
+      "source": "רוּחַ הַחַיָּה בָּאוֹפַנִּים",
+      "translit": "ruach ha-chayyah ba-ofannim",
+      "strongs": "H7307 + H2416 + H212",
+      "partOfSpeech": "noun phrase",
+      "literal": "the ruach of the living-thing was in the wheels",
+      "standardEnglish": "the spirit of the living creature was in the wheels",
+      "wohChoice": "the ruach of the living creature was in the wheels",
+      "claim_type": "inferred",
+      "rationale": "Ezekiel 1's most explicit statement of the integrated-control-system principle (1:20, 1:21). *Ruach* — wind / breath / spirit (same three-fold lexical field as in Gen 1:2's *ruach-elohim*) — functions in Ezekiel 1 as the *animating directive* of the chayyot-and-wheels system. The chayyot move *wherever the ruach is to go* (1:12, 1:20); the wheels rise *with* the chayyot because the *ruach of the chayyah is in the wheels* (1:20, 1:21). // The chapter preserves a precise distinction: *chayyah* is singular (the living-thing, collective), *ba-ofannim* is plural (in the wheels). The system has *one* directive principle (singular ruach of chayyah) distributed across *multiple* parts (the four wheels). The chapter is describing an integrated control architecture. // The WoH translation preserves the noun *ruach* in its Hebrew form rather than picking 'wind' or 'spirit' prematurely — both because the chapter's *ruach* covers the spectrum and because the technical reading (an animating-coordinating force embedded in the apparatus) is best served by the preserved Hebrew term. Reclassified as `inferred` because the choice to preserve the Hebrew over translating is a translator's interpretive call.",
+      "appliesTo": [
+        "EZK-1:12",
+        "EZK-1:20",
+        "EZK-1:21"
+      ]
+    },
+    {
+      "id": "qol-mayim-rabbim",
+      "source": "קוֹל כַּנְפֵיהֶם כְּקוֹל מַיִם רַבִּים כְּקוֹל־שַׁדַּי",
+      "translit": "qol kanfeihem k'qol mayim rabbim k'qol Shaddai",
+      "strongs": "H6963 + H4325 + H7227 + H7706",
+      "partOfSpeech": "noun phrase, simile chain",
+      "literal": "the sound of their wings like the sound of many waters, like the voice of Shaddai",
+      "standardEnglish": "the noise of their wings, like the noise of great waters, as the voice of the Almighty",
+      "wohChoice": "the sound of their wings like the sound of many waters, like the voice of Shaddai",
+      "claim_type": "direct",
+      "rationale": "The chapter stacks four sound-similes for the wings in motion at v24: *qol mayim rabbim* (sound of many waters), *qol Shaddai* (voice of Shaddai), *qol hamullah* (tumultuous sound), *qol machaneh* (sound of an army-camp). The central simile is *qol Shaddai* — the wings make a sound *like the voice of Shaddai*. // *Shaddai* (שַׁדַּי) is the patriarchal-era divine name (Gen 17:1, 28:3, 35:11, 43:14, 48:3, 49:25; Ex 6:3 explicitly names *El Shaddai* as the name by which YHWH was known to the patriarchs). The conventional English translation is 'the Almighty' (via the LXX's παντοκράτωρ / pantokrator and the Vulgate's *omnipotens*) but the actual etymology is contested: possibly from *shadad* (destroy, overpower), from *shad* (breast, with maternal connotations), or from Akkadian *shadu* (mountain) — the latter favored by some modern scholars who read *Shaddai* as the divine epithet 'the One of the Mountain'. // The WoH translation preserves the Hebrew name *Shaddai* rather than the conventional 'Almighty', matching the project's pattern of preserving divine-names (YHWH, Elohim, El). The chapter is using *Shaddai* specifically (not YHWH) — this is a deliberate Hebrew Bible vocabulary choice and the WoH translation respects it.",
+      "appliesTo": [
+        "EZK-1:24"
+      ]
+    },
+    {
+      "id": "eben-sapir-kisse",
+      "source": "כְּמַרְאֵה אֶבֶן־סַפִּיר דְּמוּת כִּסֵּא",
+      "translit": "k'mar'eh eben-sappir demut kisse",
+      "strongs": "H68 + H5601 + H3678",
+      "partOfSpeech": "noun phrase",
+      "literal": "like the appearance of sapphire stone, the likeness of a throne",
+      "standardEnglish": "as the appearance of a sapphire stone, the likeness of a throne",
+      "wohChoice": "like the appearance of sapphire stone, the likeness of a throne",
+      "claim_type": "direct",
+      "rationale": "*Eben sappir* — *sapphire stone* — appears in the Hebrew Bible at Ex 24:10 (Moses and the seventy elders see at Sinai: *and there was under his feet as it were a paved work of sapphire stone, and as it were the very heaven for clearness*), Ezek 1:26, Ezek 10:1, and the closely-related stone in the high-priest's breastplate (Ex 28:18, 39:11). The Hebrew *sappir* may refer to *sapphire* (modern gemological identification) or to *lapis lazuli* (the deep-blue stone widely used in ANE iconography for divine-throne platforms — Mesopotamian, Egyptian, and Levantine art alike). // *Demut kisse* — *the likeness of a throne*. Ezekiel uses *demut* (likeness) rather than direct identification. The chapter is reusing the Sinai-theophany vocabulary: at Sinai, the elders saw blue-stone-platform *under his feet*; at the Kebar canal, Ezekiel sees blue-stone-throne *above the dome*. The structural parallel is part of the chapter's claim about what Ezekiel is seeing: the same kind of phenomenon as the Sinai theophany, but in exile, by a canal, in Babylonia.",
+      "appliesTo": [
+        "EZK-1:26"
+      ]
+    },
+    {
+      "id": "kavod-yhwh",
+      "source": "כְּבוֹד־יְהוָה",
+      "translit": "kavod-YHWH",
+      "strongs": "H3519 + H3068",
+      "partOfSpeech": "noun phrase",
+      "literal": "the glory of YHWH",
+      "standardEnglish": "the glory of the LORD",
+      "wohChoice": "the glory of YHWH",
+      "claim_type": "direct",
+      "rationale": "*Kavod YHWH* (כְּבוֹד יְהוָה) — *the glory of YHWH* — is the Hebrew Bible's technical term for the *radiant, visible presence-manifestation* of YHWH. The term denotes a specific phenomenon: the cloud-and-fire of the Exodus that led Israel through the wilderness (Ex 13:21-22, 14:19-20, 16:10), the cloud-and-fire descent on Sinai (Ex 19:16-19, 24:15-18), the cloud-filled tabernacle (Ex 40:34-35), the cloud-filled Solomon's Temple (1 Kgs 8:10-11; 2 Chr 5:13-14, 7:1-3), Isaiah's throne-vision (Isa 6:1-3), and — climactically — Ezekiel's vision here (Ezek 1:28, 3:12, 3:23, 8:4, 9:3, 10:4, 10:18-19, 11:22-23, 43:2-5, 44:4). The Ezekiel book is structurally organized around the *movement* of the kavod — leaving the Temple in chapter 10, returning to the eschatological Temple in chapter 43. // The Hebrew root *kbd* covers *heaviness, weight, significance, honor, glory*. The standard translation 'glory' carries the abstract sense; the Hebrew preserves the concrete-physical dimension (something heavy and present, visible and weighty). The chapter's deployment at Ezek 1:28 — *mar'eh demut kvod YHWH* ('the appearance of the likeness of the glory of YHWH') — is the chapter's most-extended hedging formula: three layers of qualifying language (*mar'eh demut kavod*) before the divine name. Ezekiel is not asserting that he saw YHWH; he is identifying the chayyot-and-wheels-and-throne-and-figure as the *kavod-YHWH* — the technical presence-manifestation, not the divine essence directly. // The WoH translation preserves YHWH (not 'the LORD') and 'glory' (the conventional English for *kavod*), with commentary surfacing the technical-presence sense and the hedging formula structure.",
+      "appliesTo": [
+        "EZK-1:28"
       ]
     }
   ]
