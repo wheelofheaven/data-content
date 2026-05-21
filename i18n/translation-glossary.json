@@ -1,13 +1,13 @@
 {
   "$schema": "./translation-glossary-schema.json",
   "name": "Wheel of Heaven Translation Glossary",
-  "version": "2.3.0",
+  "version": "2.4.0",
   "released": "2026-05-21",
   "description": "Lexical decisions made by the Wheel of Heaven Translation Program. Distinct from content/i18n/glossary.json, which records site-UI terminology. Each entry records a source-language term, the standard PD-translation rendering, the WoH choice, the rationale, and the verses where the choice applies. Pinned to per-chapter translations via `glossaryVersion` in chapter metadata.",
   "sourceLanguages": [
     "he"
   ],
-  "scopeNote": "v1.0.0 covered Genesis 1; v1.9.0 reached Genesis 9; v2.0.0 revised the taninim entry; v2.1.0 added Genesis 10-11 (25 entries); v2.2.0 added Ezekiel 1 (18 entries — the first cross-book extension). v2.3.0 adds Ezekiel 10 (6 entries for cherubim, galgal, the linen-clad man, the threshold of the temple, the kavod-departure verbs, and the Elohei-Yisrael compound) — the first intra-book extension, proving the glossary system carries within a book without modifying prior entries.",
+  "scopeNote": "v1.0.0 covered Genesis 1; v1.9.0 reached Genesis 9; v2.0.0 revised the taninim entry; v2.1.0 added Genesis 10-11; v2.2.0 added Ezekiel 1; v2.3.0 added Ezekiel 10. v2.4.0 adds Ezekiel 37 (10 entries — valley of dry bones + the two-sticks reunification). The Ezekiel triptych (chs 1, 10, 37) is now glossary-complete; the production glossary has now generalized across both Genesis and Ezekiel without modifying any prior entries.",
   "terms": [
     {
       "id": "bereshit",
@@ -3192,6 +3192,175 @@
       "appliesTo": [
         "EZK-10:19",
         "EZK-10:20"
+      ]
+    },
+    {
+      "id": "biq'ah-ha-atzamot",
+      "source": "הַבִּקְעָה",
+      "translit": "ha-biq'ah",
+      "strongs": "H1237",
+      "partOfSpeech": "noun phrase",
+      "literal": "the valley / the plain",
+      "standardEnglish": "the valley / the plain",
+      "wohChoice": "the valley",
+      "claim_type": "direct",
+      "rationale": "*Biq'ah* (בִּקְעָה) is the Hebrew word for an open, flat valley or plain — distinct from *gai* (narrow ravine) or *emek* (broader valley between hills). The same noun is used in Gen 11:2 for the *biq'ah* in the land of Shinar where Babel was built, in Isa 40:4 for the valleys-to-be-raised in the wilderness highway image, and in Zech 12:11 for the *biq'at Megiddo* (the Megiddo plain). // The chapter places the bone-field in a *biq'ah* — an open, flat staging-area large enough to host *very many* bones (*rabbot me'od*, v2) and to serve as the site of a procedure that will produce an *exceedingly great army* (*chayil gadol me'od me'od*, v10). The chapter is staging the vision on a *staging-ground*, the topographic feature historically used for mass-assembly. The KJV/ASV 'valley' is acceptable; the WoH translation preserves it.",
+      "appliesTo": [
+        "EZK-37:1",
+        "EZK-37:2"
+      ]
+    },
+    {
+      "id": "atzamot-yeveshot",
+      "source": "הָעֲצָמוֹת הַיְבֵשׁוֹת",
+      "translit": "ha-atzamot ha-yeveshot",
+      "strongs": "H6106 + H3002",
+      "partOfSpeech": "noun phrase",
+      "literal": "the dry bones",
+      "standardEnglish": "the dry bones",
+      "wohChoice": "dry bones",
+      "claim_type": "direct",
+      "rationale": "*Atzamot* (עֲצָמוֹת, plural of *etzem*) is the standard Hebrew word for *bones* — the skeletal-anatomical sense. The same root (*atzam*) also covers the metaphorical *substance, essence, self* (cf. *etzem ha-yom ha-zeh* — 'on that very day'). // *Yeveshot* (יְבֵשׁוֹת) is the feminine plural adjective of *yavesh* (dry, withered, dried up) — the same root that names the *yabashah* (dry land) of Gen 1:9-10. The chapter pairs the two as a fixed phrase: *atzamot yeveshot* — *dry bones*. // The phrase becomes the chapter's keyword. *Atzamot yeveshot* recurs at 37:2, 4, 11. The Wheel of Heaven translation preserves the standard English 'dry bones' — the rendering is grammatically straightforward and the literal-physical sense is what the chapter requires.",
+      "appliesTo": [
+        "EZK-37:2",
+        "EZK-37:3",
+        "EZK-37:4",
+        "EZK-37:5",
+        "EZK-37:7",
+        "EZK-37:11"
+      ]
+    },
+    {
+      "id": "ben-adam",
+      "source": "בֶּן־אָדָם",
+      "translit": "ben-adam",
+      "strongs": "H1121 + H120",
+      "partOfSpeech": "compound noun phrase",
+      "literal": "son of human / son of Adam",
+      "standardEnglish": "son of man",
+      "wohChoice": "son of human",
+      "claim_type": "direct",
+      "rationale": "*Ben-adam* (בֶּן־אָדָם) — literally *son of human / son of Adam* — is the prophet Ezekiel's standard appellation throughout the book. The compound combines *ben* (son) + *adam* (human, the category-noun established in Gen 1-3). It appears **93 times** across Ezekiel — more than any other Hebrew Bible figure receives any single appellation. // The Hebrew Bible elsewhere uses *ben-adam* as a poetic-emphatic for *mortal, human-being* (Ps 8:5 — *ma enosh ki tizk'rennu u-ven-adam ki tifq'dennu* — 'what is humankind that you should remember it, and the son-of-human that you should attend to it'; cf. Ps 80:18, 144:3; Job 25:6, 35:8). The Aramaic equivalent *bar-enash* in Dan 7:13 becomes the New Testament Greek ὁ υἱὸς τοῦ ἀνθρώπου (*ho huios tou anthrōpou*) — *the son of man* — Jesus' favored self-designation in the Gospels. // The WoH translation renders *ben-adam* as **'son of human'** rather than the conventional 'son of man'. Two reasons: (1) the WoH glossary has already established `ha-adam` as *the human* (rather than *the man*) — preserving the category-noun sense from Gen 1:26-27 rather than the gendered 'man'; (2) *ben-adam* is structurally about *being-in-the-human-class* (the prophet as a member of the *adam*-category that was made in the image-and-likeness, not as a male human). The rendering matches the WoH project's broader *adam*-as-human convention; 'son of human' is grammatically natural in English and preserves the category-register the Hebrew has.",
+      "appliesTo": [
+        "EZK-37:3",
+        "EZK-37:9",
+        "EZK-37:11",
+        "EZK-37:16"
+      ]
+    },
+    {
+      "id": "adonai-yhwh",
+      "source": "אֲדֹנָי יְהוִה",
+      "translit": "Adonai YHWH",
+      "strongs": "H136 + H3068",
+      "partOfSpeech": "compound divine name",
+      "literal": "Lord YHWH",
+      "standardEnglish": "the Lord GOD",
+      "wohChoice": "Lord YHWH",
+      "claim_type": "direct",
+      "rationale": "*Adonai YHWH* (אֲדֹנָי יְהוִה) — the compound divine name. *Adonai* (literally 'my lords' — plural-of-majesty of *adon*, master/lord) was the traditional Jewish liturgical substitute for the Tetragrammaton YHWH after the 3rd-century-BCE practice of not pronouncing the divine name in everyday speech. The Masoretic vocalization of the Tetragrammaton in *Adonai YHWH* compounds uses the vowel-points of *Elohim* (יְהוִה, with the *e-i* of Elohim rather than the *e-o-a* of Adonai itself) — a Masoretic device for indicating 'do not pronounce this YHWH as Adonai (because Adonai already precedes it) — pronounce it Elohim instead'. // The conventional English KJV rendering — *the Lord GOD* (with *GOD* in small caps representing YHWH) — is the historical compromise. The WoH translation preserves the actual Hebrew: *Adonai* renders as *Lord*, *YHWH* stays as the divine name *YHWH* (not 'the LORD' substitution). The result — *Lord YHWH* — surfaces both vocabulary elements directly. // The Adonai-YHWH compound is one of Ezekiel's signature divine-address registers (occurs >215 times across the book, more frequent than in any other Hebrew Bible book).",
+      "appliesTo": [
+        "EZK-37:3",
+        "EZK-37:5",
+        "EZK-37:9",
+        "EZK-37:12",
+        "EZK-37:19",
+        "EZK-37:21"
+      ]
+    },
+    {
+      "id": "gidim-basar-or",
+      "source": "גִּדִים ... בָּשָׂר ... עוֹר",
+      "translit": "gidim ... basar ... `or",
+      "strongs": "H1517 + H1320 + H5785",
+      "partOfSpeech": "noun sequence",
+      "literal": "sinews ... flesh ... skin",
+      "standardEnglish": "sinews ... flesh ... skin",
+      "wohChoice": "sinews ... flesh ... skin",
+      "claim_type": "direct",
+      "rationale": "The chapter names a precise sequence of biological-construction stages in 37:6: *gidim* (sinews, tendons, connective tissue) → *basar* (flesh, soft tissue) → *`or* (skin, integument) → *ruach* (animating principle, inserted last). The sequence is anatomically-procedurally ordered: structural framework (bones, already in place) + connective tissue + soft tissue + outer integument + animation. // *Gidim* (גִּדִים, plural of *gid*) is the standard Hebrew noun for *sinew/tendon* — anatomically the fibrous tissue connecting muscle to bone; the noun also appears in Gen 32:33 (the *gid ha-nasheh* — sciatic-nerve sinew of Jacob's wrestling injury). // *Basar* (בָּשָׂר) is the broad-spectrum noun *flesh* — covering muscle, soft tissue, and (by extension) flesh-as-creaturely-substance (the phrase *kol basar* = 'all flesh', used throughout the Flood narrative). // *`Or* (עוֹר) is the noun for *skin* — both human skin and animal hide (Gen 3:21 *kotnot `or* — 'tunics of skin'); the chapter's use is unambiguously the integumentary covering of a body. // The Raëlian canon, in *Extra-Terrestrials Took Me To Their Planet*, reads this verse as a description of biological-creation procedure: the chapter's vocabulary (sinews-then-flesh-then-skin-then-ruach) is procedurally precise and matches the technical-sequential description of body-assembly. The WoH translation preserves the procedural language without inserting interpretive content; commentary at v6 surfaces the canon's reading and the textual data that supports it.",
+      "appliesTo": [
+        "EZK-37:6",
+        "EZK-37:8"
+      ]
+    },
+    {
+      "id": "ruach-arba-ruchot",
+      "source": "מֵאַרְבַּע רוּחוֹת בֹּאִי הָרוּחַ",
+      "translit": "me-arba ruchot bo'i ha-ruach",
+      "strongs": "H702 + H7307",
+      "partOfSpeech": "verbal phrase",
+      "literal": "from four ruchot, come, ruach",
+      "standardEnglish": "from the four winds, come, breath",
+      "wohChoice": "from the four ruchot, come, ruach",
+      "claim_type": "direct",
+      "rationale": "Ezek 37:9 calls the animating-principle from four directions: *me-arba ruchot bo'i ha-ruach* — *from the four ruchot, come, ruach*. The verse uses *ruach* (wind / breath / spirit) twice in a single clause: singular *ha-ruach* (the animating principle being summoned), plural *arba ruchot* (the four winds / four cardinal directions). // The *arba ruchot* (four winds) is the Hebrew Bible's directional convention — the four corners, the four winds, the four directions (cf. Jer 49:36, Zech 2:6 / 2:10, Dan 7:2, Dan 8:8, Dan 11:4). The ruach is summoned from all four cardinal directions simultaneously to enter the assembled bodies. // The WoH translation preserves *ruach* in both occurrences as the Hebrew technical noun, consistent with the chapter's use of *ruach* throughout (cf. v 1, 5, 6, 8, 9, 10, 14). The singular-plural ambiguity in Hebrew is preserved in English by repeating the same noun form (lower-case ruach for singular, lower-case ruchot for plural — both transliterated).",
+      "appliesTo": [
+        "EZK-37:9"
+      ]
+    },
+    {
+      "id": "chayyim-amad-al-raglehem",
+      "source": "וַיִּחְיוּ וַיַּעַמְדוּ עַל־רַגְלֵיהֶם חַיִל גָּדוֹל מְאֹד־מְאֹד",
+      "translit": "vayichyu vaya'amdu al-raglehem chayil gadol me'od me'od",
+      "strongs": "H2421 + H5975 + H7272 + H2428",
+      "partOfSpeech": "verbal phrase",
+      "literal": "and they lived and stood on their feet — an exceedingly very great army",
+      "standardEnglish": "they lived, and stood upon their feet, an exceeding great army",
+      "wohChoice": "they lived, and they stood up on their feet — an exceedingly great army",
+      "claim_type": "direct",
+      "rationale": "Ezek 37:10's closing image: the animated bodies stand up *al-raglehem* (on their feet) — *chayil gadol me'od me'od* — *an exceedingly great army*. // *Vayichyu* (qal of *chayah* — to live) names the procedural-completion: the bodies *come-to-life*. *Vaya'amdu al-raglehem* (and they stood on their feet) names the postural-functional completion: the bodies achieve standing posture, indicating muscular-neural integration is complete. // *Chayil* (חַיִל) is the standard Hebrew noun for *army, military force, host* (cf. Ex 14:4, 2 Kgs 6:14, Ps 33:16). The chapter is staging the bodies as having a military-functional organization — not a chaotic crowd but a structured force. The doubled *me'od me'od* (very very, exceedingly very) is the chapter's intensifier-of-scale: a vast force.",
+      "appliesTo": [
+        "EZK-37:10"
+      ]
+    },
+    {
+      "id": "pitchi-qivrotekhem",
+      "source": "אֲנִי פֹתֵחַ אֶת־קִבְרוֹתֵיכֶם",
+      "translit": "ani poteach et-qivrotekhem",
+      "strongs": "H6605 + H6913",
+      "partOfSpeech": "verbal phrase",
+      "literal": "I am opening your graves",
+      "standardEnglish": "I will open your graves",
+      "wohChoice": "I am opening your graves",
+      "claim_type": "direct",
+      "rationale": "Ezek 37:12-13 expands the vision from valley-of-bones to grave-opening. *Hinneh ani poteach et-qivrotekhem* — *behold, I am opening your graves*. // The verb form is *poteach* — present-active participle, *currently-opening* — naming the action as already in process, not merely promised for the future. The chapter is staging the grave-opening as *underway*. // *Qivrotekhem* (קִבְרוֹתֵיכֶם) is the plural-2mp possessive of *qever* (grave, tomb, burial place). The same noun appears throughout the Hebrew Bible (Gen 23:9, 23:20 for Abraham's purchased burial cave; 2 Kgs 22:20 for Josiah's grave). The chapter is staging a *mass grave-opening* — a population-wide procedure of grave-opening and re-emergence.",
+      "appliesTo": [
+        "EZK-37:12",
+        "EZK-37:13"
+      ]
+    },
+    {
+      "id": "ets-yosef-ets-yehudah",
+      "source": "עֵץ יוֹסֵף ... עֵץ יְהוּדָה ... לְעֵץ אֶחָד",
+      "translit": "ets Yosef ... ets Yehudah ... l'ets echad",
+      "strongs": "H6086 + H3130 + H3063 + H259",
+      "partOfSpeech": "noun phrase",
+      "literal": "the stick of Joseph ... the stick of Judah ... into one stick",
+      "standardEnglish": "the stick of Joseph ... the stick of Judah ... one stick",
+      "wohChoice": "the stick of Joseph ... the stick of Judah ... into a single stick",
+      "claim_type": "direct",
+      "rationale": "The two-sticks sign-act of Ezek 37:15-28. *Ets Yosef* (the stick labeled for Joseph — representing the northern kingdom, alternately called Joseph or Ephraim) and *Ets Yehudah* (the stick labeled for Judah — representing the southern kingdom centered on Jerusalem). The two are to be joined into *ets echad* (a single stick), prefiguring the political reunification of the divided Israelite kingdom. // *Ets* (עֵץ) is the standard Hebrew noun for *tree, wood, stick*. In this context the chapter is specifying *wooden sticks* / *staves* — physical objects the prophet handles. The English 'stick' is the standard rendering; some translations use 'piece of wood' (NIV) or 'staff' (Wycliffe). The WoH translation uses 'stick' for the concrete object-sense the chapter requires. // The sign-act predicts the eschatological reunification of the divided Israelite kingdom (split since 922 BCE; the northern kingdom destroyed in 722 BCE, the southern kingdom destroyed in 587 BCE; never historically reunified). The chapter is forecasting a future-state restoration that did not historically occur — making the verse a *messianic-eschatological* prediction in standard Hebrew Bible prophetic register.",
+      "appliesTo": [
+        "EZK-37:16",
+        "EZK-37:17",
+        "EZK-37:19"
+      ]
+    },
+    {
+      "id": "brit-shalom-mishkan",
+      "source": "בְּרִית שָׁלוֹם ... מִשְׁכָּנִי ... מִקְדָּשִׁי",
+      "translit": "brit shalom ... mishkani ... miqdashi",
+      "strongs": "H1285 + H7965 + H4908 + H4720",
+      "partOfSpeech": "noun phrase",
+      "literal": "covenant of peace ... my dwelling ... my sanctuary",
+      "standardEnglish": "covenant of peace ... my tabernacle ... my sanctuary",
+      "wohChoice": "covenant of peace ... my dwelling ... my sanctuary",
+      "claim_type": "direct",
+      "rationale": "The closing covenant-vocabulary cluster in Ezek 37:26-28. // *Brit shalom* (בְּרִית שָׁלוֹם) — *covenant of peace* — names the post-restoration covenant explicitly as one of *shalom* (peace, wholeness, completeness). The phrase appears elsewhere at Num 25:12 (the priestly covenant with Phinehas), Isa 54:10, Mal 2:5. The chapter is naming the eschatological-restoration covenant in continuity with prior peace-covenant traditions. // *Mishkan* (מִשְׁכָּן) — *dwelling-place, tabernacle* — is the technical term for the portable wilderness sanctuary of Exodus (Ex 25-31, 35-40). The chapter promises *mishkani aleihem* (my dwelling above them) — YHWH's mishkan-presence will be over the restored people. The Christian-tradition rendering 'tabernacle' is technically correct but obscures the *dwelling* sense the Hebrew preserves; the WoH translation prefers 'dwelling' as the broader-applicable English term. // *Miqdash* (מִקְדָּשׁ) — *sanctuary, holy place* — names the architectural-cultic complex where YHWH's presence is encountered. The chapter promises a *miqdash* in the midst of the restored people, set *forever* (*l'olam*). // The cluster together names the eschatological-restoration end-state: a permanent covenant of peace, with YHWH's dwelling-presence in a permanent sanctuary among the unified people. The chapter closes the Ezekiel-triptych on this restoration-vision — the inverse of the kavod-departure of chapter 10.",
+      "appliesTo": [
+        "EZK-37:26",
+        "EZK-37:27"
       ]
     }
   ]
