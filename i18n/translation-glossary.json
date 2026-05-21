@@ -1,13 +1,13 @@
 {
   "$schema": "./translation-glossary-schema.json",
   "name": "Wheel of Heaven Translation Glossary",
-  "version": "2.2.0",
+  "version": "2.3.0",
   "released": "2026-05-21",
   "description": "Lexical decisions made by the Wheel of Heaven Translation Program. Distinct from content/i18n/glossary.json, which records site-UI terminology. Each entry records a source-language term, the standard PD-translation rendering, the WoH choice, the rationale, and the verses where the choice applies. Pinned to per-chapter translations via `glossaryVersion` in chapter metadata.",
   "sourceLanguages": [
     "he"
   ],
-  "scopeNote": "v1.0.0 covered Genesis 1; releases through v1.9.0 extended to Genesis 9; v2.0.0 revised the taninim entry; v2.1.0 added 25 entries for Genesis 10-11. v2.2.0 extends to Ezekiel 1 — the first non-Genesis WoH Translation chapter — adding 18 new entries for chashmal, the chayyot, the ofan-b'tokh-ofan, the mar'eh-demut hedging formula, kavod-YHWH, and related throne-vision vocabulary. This is the project's first cross-book glossary extension; it proves the production glossary generalizes off Genesis without modifying any prior entries.",
+  "scopeNote": "v1.0.0 covered Genesis 1; v1.9.0 reached Genesis 9; v2.0.0 revised the taninim entry; v2.1.0 added Genesis 10-11 (25 entries); v2.2.0 added Ezekiel 1 (18 entries — the first cross-book extension). v2.3.0 adds Ezekiel 10 (6 entries for cherubim, galgal, the linen-clad man, the threshold of the temple, the kavod-departure verbs, and the Elohei-Yisrael compound) — the first intra-book extension, proving the glossary system carries within a book without modifying prior entries.",
   "terms": [
     {
       "id": "bereshit",
@@ -3078,6 +3078,120 @@
       "rationale": "*Kavod YHWH* (כְּבוֹד יְהוָה) — *the glory of YHWH* — is the Hebrew Bible's technical term for the *radiant, visible presence-manifestation* of YHWH. The term denotes a specific phenomenon: the cloud-and-fire of the Exodus that led Israel through the wilderness (Ex 13:21-22, 14:19-20, 16:10), the cloud-and-fire descent on Sinai (Ex 19:16-19, 24:15-18), the cloud-filled tabernacle (Ex 40:34-35), the cloud-filled Solomon's Temple (1 Kgs 8:10-11; 2 Chr 5:13-14, 7:1-3), Isaiah's throne-vision (Isa 6:1-3), and — climactically — Ezekiel's vision here (Ezek 1:28, 3:12, 3:23, 8:4, 9:3, 10:4, 10:18-19, 11:22-23, 43:2-5, 44:4). The Ezekiel book is structurally organized around the *movement* of the kavod — leaving the Temple in chapter 10, returning to the eschatological Temple in chapter 43. // The Hebrew root *kbd* covers *heaviness, weight, significance, honor, glory*. The standard translation 'glory' carries the abstract sense; the Hebrew preserves the concrete-physical dimension (something heavy and present, visible and weighty). The chapter's deployment at Ezek 1:28 — *mar'eh demut kvod YHWH* ('the appearance of the likeness of the glory of YHWH') — is the chapter's most-extended hedging formula: three layers of qualifying language (*mar'eh demut kavod*) before the divine name. Ezekiel is not asserting that he saw YHWH; he is identifying the chayyot-and-wheels-and-throne-and-figure as the *kavod-YHWH* — the technical presence-manifestation, not the divine essence directly. // The WoH translation preserves YHWH (not 'the LORD') and 'glory' (the conventional English for *kavod*), with commentary surfacing the technical-presence sense and the hedging formula structure.",
       "appliesTo": [
         "EZK-1:28"
+      ]
+    },
+    {
+      "id": "cherubim-ezek",
+      "source": "הַכְּרוּבִים",
+      "translit": "ha-keruvim",
+      "strongs": "H3742",
+      "partOfSpeech": "noun, plural",
+      "literal": "the cherubim",
+      "standardEnglish": "the cherubim",
+      "wohChoice": "the cherubim",
+      "claim_type": "direct",
+      "rationale": "*Keruvim* (כְּרוּבִים, plural of *keruv* כְּרוּב) — *cherubim* — are the canonical Hebrew Bible class of winged composite attendant-figures. They flank the Ark of the Covenant (Ex 25:18-20, 37:7-9), guard the way to the Tree of Life at Eden's eastern gate (Gen 3:24), and appear as architectural-iconographic figures in Solomon's Temple (1 Kgs 6:23-28). Ezekiel 10 explicitly identifies the *chayyot* of chapter 1 with the *keruvim* (10:15, 10:20, 10:22) — making this one of the Hebrew Bible's most consequential cross-textual identifications. // Ezekiel 10 already uses the term *keruvim* freely from v1 onward, before the explicit identification at v15. The chapter assumes the reader will recognize the term from Hebrew Bible iconographic tradition. // The Christian-tradition rendering 'cherubim' (and singular 'cherub') is well-established and the WoH translation adopts it; alternative renderings (transliterated 'keruvim', or the more abstract 'guardian-figures') are defensible but would obscure the cross-textual recognition the chapter is staging. The English 'cherub' / 'cherubim' has — outside scholarly contexts — drifted into the European post-Renaissance art register (chubby winged children); the chapter's *keruv* is the composite winged-guardian throne-attendant of ANE iconography (winged sphinxes, winged bulls, winged lions). The WoH translation preserves the English 'cherubim' and lets commentary surface the iconographic register where helpful.",
+      "appliesTo": [
+        "EZK-10:1",
+        "EZK-10:2",
+        "EZK-10:3",
+        "EZK-10:5",
+        "EZK-10:6",
+        "EZK-10:7",
+        "EZK-10:8",
+        "EZK-10:9",
+        "EZK-10:12",
+        "EZK-10:14",
+        "EZK-10:15",
+        "EZK-10:16",
+        "EZK-10:17",
+        "EZK-10:18",
+        "EZK-10:19",
+        "EZK-10:20",
+        "EZK-10:21"
+      ]
+    },
+    {
+      "id": "galgal",
+      "source": "הַגַּלְגַּל",
+      "translit": "ha-galgal",
+      "strongs": "H1534",
+      "partOfSpeech": "noun, singular",
+      "literal": "the rolling-thing / the wheel-rim",
+      "standardEnglish": "the wheel / whirling wheels",
+      "wohChoice": "galgal (preserved as Hebrew)",
+      "claim_type": "direct",
+      "rationale": "*Galgal* (גַּלְגַּל) is the Hebrew word for a rolling thing — a wheel-rim, a whirling object, a rolling-mass. The root is *gll* (to roll). Ezekiel 10 introduces the term explicitly: *la-ofannim lahem qora ha-galgal b'aznai* — *as for the wheels, they were called galgal in my hearing* (10:13). The chapter is documenting the alternative technical name for the *ofannim* of chapter 1 — what the prophet heard the heavenly attendants call the wheels. // Elsewhere in the Hebrew Bible the word denotes: a thunder-storm sound (Ps 77:18 — *qol galgal* — 'the sound of the rolling-thing'); the wheel at the well (Eccl 12:6 — *galgal ha-bor*); whirling chaff (Isa 17:13); the whirring of chariot-wheels (Jer 47:3); the wheel-of-fortune image (Sir 33:5). The lexical core is: a rolling, whirling, rotating object — wheel or whirlwind. // The chapter's vocabulary contribution is theologically consequential. *Galgal* becomes the foundational Hebrew Bible word for the **Merkavah** (chariot) mystical tradition — the rabbinic-mystical reading of Ezekiel 1 + 10 as a description of the divine chariot-throne system. The Hekhalot literature, *Shi'ur Qomah*, and the broader Jewish mystical tradition use *galgal* and its plural *galgalim* as load-bearing technical terms. The Raëlian canon's engagement with 'the Kabbalah' (see `Reference corpus of the Raëlian canon` wiki entry) implicitly engages this vocabulary cluster. // The WoH translation preserves the Hebrew word *galgal* untranslated — parallel to how *chashmal* and *Elohim* are preserved. The translation marks the chapter's vocabulary-introduction moment rather than papering over it.",
+      "appliesTo": [
+        "EZK-10:2",
+        "EZK-10:6",
+        "EZK-10:13"
+      ]
+    },
+    {
+      "id": "ish-levush-ha-badim",
+      "source": "הָאִישׁ לְבֻשׁ הַבַּדִּים",
+      "translit": "ha-ish levush ha-badim",
+      "strongs": "H376 + H3847 + H906",
+      "partOfSpeech": "noun phrase",
+      "literal": "the man clothed in linen",
+      "standardEnglish": "the man clothed in linen",
+      "wohChoice": "the man clothed in linen",
+      "claim_type": "direct",
+      "rationale": "*Ha-ish levush ha-badim* — *the man clothed in linen* — names a distinct figure who appears in the Ezekiel throne-vision narratives (Ezek 9:2, 9:3, 9:11, 10:2, 10:6, 10:7). The same figure appears in Daniel 10:5 and 12:6-7 (the *ish levush ha-badim* by the Tigris in Daniel's vision). // *Badim* (בַּדִּים, plural of *bad*) is the Hebrew term for **linen** as a cultic textile. Linen garments are specifically priestly: the high priest wears linen on Yom Kippur (Lev 16:4); the priesthood wear linen for Temple service (Ex 28:42, 39:28); the linen-clad figure in Dan 12:6-7 is iconographically a priestly-heavenly-attendant. The figure is implicitly identified as an angelic-priestly attendant — the heavenly counterpart of the earthly high priest. // The Ezekiel 9-10 narrative has the linen-clad man performing two distinct functions: (1) in chapter 9, marking the foreheads of the faithful (the *tav* mark, Ezek 9:4) before the executioners begin their work; (2) in chapter 10, taking fire from between the cherubim to scatter over Jerusalem (10:2, 10:6-7). Both functions are priestly-judicial: marking the elect, transmitting cultic-judicial fire. // The Christian tradition has identified the figure with Christ (the New Testament's *one like a son of man* of Rev 1:13-14 echoes the Ezekiel-Daniel linen-clad figure). The Hebrew gives the figure no name. The chapter does not specify his identity beyond the *clothed-in-linen* descriptor.",
+      "appliesTo": [
+        "EZK-10:2",
+        "EZK-10:6",
+        "EZK-10:7"
+      ]
+    },
+    {
+      "id": "mifthan-ha-bayit",
+      "source": "מִפְתַּן הַבַּיִת",
+      "translit": "miftan ha-bayit",
+      "strongs": "H4670 + H1004",
+      "partOfSpeech": "noun phrase",
+      "literal": "the threshold of the house",
+      "standardEnglish": "the threshold of the house",
+      "wohChoice": "the threshold of the house",
+      "claim_type": "direct",
+      "rationale": "*Miftan* (מִפְתָּן) is the Hebrew word for *threshold* — the architectural transition-point between inside and outside, between sacred and profane spaces. The word appears in 1 Sam 5:4-5 (the Philistines' Dagon temple — Dagon falls on the *miftan*), Zeph 1:9, Ezek 9:3, 10:4, 10:18, 46:2, 47:1. // In Ezekiel 10, *miftan ha-bayit* (the threshold of the house) is the architectural locus where the *kavod-YHWH* pauses during its departure from the Temple (10:4 the kavod moves *onto* the threshold; 10:18 the kavod moves *off* the threshold). The chapter is making the departure architecturally-spatially concrete: the kavod moves from the holy-of-holies (above the cherubim of the Ark) → onto the threshold (the door of the house) → off the threshold (out of the house entirely). The threshold is the structural midpoint of the divine-presence withdrawal.",
+      "appliesTo": [
+        "EZK-10:4",
+        "EZK-10:18"
+      ]
+    },
+    {
+      "id": "kavod-yhwh-departure",
+      "source": "וַיֵּצֵא כְּבוֹד יְהוָה / וַיָּרָם כְּבוֹד יְהוָה",
+      "translit": "vayyetze kvod-YHWH / vayyaram kvod-YHWH",
+      "strongs": "H3318 + H7311 + H3519 + H3068",
+      "partOfSpeech": "verbal phrase",
+      "literal": "and the glory of YHWH went out / rose up",
+      "standardEnglish": "and the glory of the LORD went forth / went up",
+      "wohChoice": "the glory of YHWH went out / rose up",
+      "claim_type": "direct",
+      "rationale": "Ezekiel 10 stages the departure of the *kavod-YHWH* (see glossary entry `kavod-yhwh`) from the Jerusalem Temple. The chapter uses two distinct verbs of motion in sequence: // **v4**: *vayyaram kvod-YHWH me-al ha-keruv al miftan ha-bayit* — *the kavod-YHWH rose up from above the cherub onto the threshold of the house*. The verb is *ram* (to rise, be lifted up) — the kavod elevates from the holy-of-holies position toward the threshold. // **v18**: *vayyetze kvod-YHWH me-al miftan ha-bayit vayya'amod al ha-keruvim* — *the kavod-YHWH went out from above the threshold of the house and stood above the cherubim*. The verb is *yatza* (to go out, exit) — the kavod departs from the threshold and re-mounts the cherubim-apparatus. // **v19**: cherubim lift up, fly out the east gate; the kavod is *above them*. The chapter is staging a three-stage departure: holy-of-holies → threshold → above apparatus → exit. // Ezek 11:23 will note the next position: *vayya'al kvod-YHWH me-al tokh ha-ir vayya'amod al ha-har asher mi-qedem la-ir* — *the kavod-YHWH went up from the midst of the city and stood on the mountain that is east of the city* (the Mount of Olives). The full departure sequence: Temple → east gate → Mount of Olives east of Jerusalem. // The departure-vocabulary marks the chapter's theological-historical claim: the divine presence has *withdrawn* from the Temple ahead of the city's 587/586 BCE destruction. The chapter is the prophetic-textual record of the *divine abandonment* of Jerusalem. The WoH translation preserves the motion-verbs (*rose up*, *went out*) and the YHWH name (not 'the LORD').",
+      "appliesTo": [
+        "EZK-10:4",
+        "EZK-10:18",
+        "EZK-10:19"
+      ]
+    },
+    {
+      "id": "elohei-yisrael",
+      "source": "אֱלֹהֵי־יִשְׂרָאֵל",
+      "translit": "Elohei Yisrael",
+      "strongs": "H430 + H3478",
+      "partOfSpeech": "compound divine name",
+      "literal": "Elohim of Israel",
+      "standardEnglish": "the God of Israel",
+      "wohChoice": "the Elohim of Israel",
+      "claim_type": "direct",
+      "rationale": "*Elohei-Yisrael* (אֱלֹהֵי יִשְׂרָאֵל) — *the Elohim of Israel* — is the patriarchal/covenantal compound divine name. The phrase first appears in Gen 33:20 (Jacob's altar at Shechem, *El-Elohei-Yisrael*), and recurs at Ex 5:1, Ex 24:10 (the elders see *Elohei-Yisrael* at Sinai), Josh 7:13, 1 Sam 23:10-11, and in liturgical-prophetic contexts throughout the Hebrew Bible. The compound is the specifically-covenantal naming — it ties *Elohim* to the people *Yisrael* in a relational-historical framework. // The standard English 'the God of Israel' uses the singular smoothing of *Elohim* the WoH translation explicitly rejects (see [`elohim-as-translation`](/wiki/elohim/)). The WoH translation preserves the plural class-noun rendering — *the Elohim of Israel* — matching the convention used throughout the WoH Genesis translation. // Ezekiel 10 invokes *Elohei-Yisrael* twice (10:19, 10:20) precisely at the departure moment: the *kavod Elohei-Yisrael* (the glory of the Elohim of Israel) is what leaves the Temple. The covenantal name is being invoked at the covenantal-undoing moment — the chapter is theologically loaded.",
+      "appliesTo": [
+        "EZK-10:19",
+        "EZK-10:20"
       ]
     }
   ]
