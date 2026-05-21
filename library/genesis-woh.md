@@ -25,5 +25,12 @@ verb pattern, *raqia* as a hammered-out dome, the cohortative *na'aseh* in
 v26, *tselem* and *demut* as physical resemblance, the polemical refusal of
 *shemesh* and *yareach* in v14–16, and others.
 
-This is a **draft**. The translation is AI-drafted (Claude Opus 4.7) against
-translation-glossary v1.0.0, pending human review.
+Chapters 1–9 (creation through Noah's covenant and vineyard) are signed off
+as **stable** as of 2026-05-21, against translation-glossary v2.0.0.
+Chapters 10–11 (the Table of Nations and the Tower of Babel) are next.
+
+The English translation was drafted by Claude Opus 4.7, edited through the
+Wheel of Heaven Translation Program pipeline (Translator → Editor → Reviewer),
+and signed off by the named human reviewer per chapter. The methodology is
+documented at
+[Source-Text Translation](https://docs.wheelofheaven.world/contributing/content/source-text-translation/).
