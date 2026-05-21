@@ -1,8 +1,8 @@
 {
   "$schema": "./translation-glossary-schema.json",
   "name": "Wheel of Heaven Translation Glossary",
-  "version": "1.9.0",
-  "released": "2026-05-19",
+  "version": "2.0.0",
+  "released": "2026-05-21",
   "description": "Lexical decisions made by the Wheel of Heaven Translation Program. Distinct from content/i18n/glossary.json, which records site-UI terminology. Each entry records a source-language term, the standard PD-translation rendering, the WoH choice, the rationale, and the verses where the choice applies. Pinned to per-chapter translations via `glossaryVersion` in chapter metadata.",
   "sourceLanguages": [
     "he"
@@ -418,11 +418,11 @@
       "translit": "taninim",
       "strongs": "H8577",
       "partOfSpeech": "noun, masculine plural",
-      "literal": "great sea-creatures / sea-monsters",
-      "standardEnglish": "whales / sea-monsters",
-      "wohChoice": "great sea-creatures",
-      "claim_type": "direct",
-      "rationale": "תַּנִּינִם elsewhere denotes mythological sea-serpent/dragon figures (Job 7:12, Isa 27:1, Ps 74:13). In Gen 1:21 they are demythologized — created by Elohim like everything else. The KJV 'whales' is a domesticating mistranslation; modern translations correctly use 'sea-monsters' or 'great sea-creatures'. 'Great sea-creatures' is the safer rendering — it preserves the size+sea features without committing to a mythological reading where the text has already demythologized.",
+      "literal": "serpent-dragons, dragons, sea-monsters",
+      "standardEnglish": "whales / sea-monsters / great sea-creatures",
+      "wohChoice": "great dragons",
+      "claim_type": "inferred",
+      "rationale": "תַּנִּינִם is the standard Hebrew Bible word for the serpent-dragon class of creatures. BDB s.v. תַּנִּין: 'sea-monster, serpent, dragon'; HALOT: 'sea-monster, dragon, snake'. The lexical core is the serpent-dragon register; the word itself contains no aquatic morpheme — the sea-association in Gen 1:21 is positional (the verse sits between the swarming-waters of v20 and the blessing-of-the-seas of v22), not lexical. KJV renders the same word 'dragon(s)' across the corpus (Deut 32:33, Ps 91:13, Isa 13:22, Isa 27:1, Jer 9:11, Ezek 29:3, Mal 1:3, etc.); only Gen 1:21 gets the euphemistic 'whales'. Modern translations soften to 'sea-monsters' (ASV, NJPS, NRSV) or 'great sea-creatures' (NIV, ESV, Alter) for Gen 1:21 specifically, but the lexical case for the dragon rendering is the same here as in the prophets. The text is explicitly performing a Chaoskampf demythologization at this verse: the same dragon-class beings deified across the ANE — Akkadian Tiamat (etymologically cognate with תְהוֹם tehom in Gen 1:2), Ugaritic Lotan / Hebrew Leviathan, Egyptian Apep — are something Elohim shaped, and the deliberate switch from asah to bara (cf. the bara entry) is the demythologizing move. Translating as 'sea-creatures' obscures the polemic the verse exists to perform. Rendering as 'great dragons' preserves the lexical register and makes the demythologization visible in the translation itself: the reader sees the dragon-class creatures named, and sees Elohim shaping them rather than fighting them. Reclassified from direct to inferred in v2.0.0 because the choice between 'dragons' and the modern translation tradition's 'sea-creatures' / 'sea-monsters' is a genuine interpretive call.",
       "appliesTo": [
         "GEN-1:21"
       ]
