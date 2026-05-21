@@ -6,6 +6,7 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+featured_order = 8
 category = "Texts & Scriptures"
 editorial_pass = "2026-05"
 entry_type = "text"

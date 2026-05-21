@@ -6,6 +6,7 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+featured_order = 6
 redirect_to = { title = "World Age", path = "/wiki/world-age/" }
 category = "Cosmic Chronology"
 editorial_pass = "2026-05"

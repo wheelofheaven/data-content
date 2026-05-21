@@ -7,6 +7,7 @@ toc = true
 aliases = ["/intro/extraterrestrial-civilization/"]
 
 [extra]
+featured_order = 1
 category = "Elohim"
 editorial_pass = "2026-05"
 entry_type = "civilization"

@@ -6,6 +6,7 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+featured_order = 4
 category = "Meta"
 editorial_pass = "2026-05"
 entry_type = "concept"

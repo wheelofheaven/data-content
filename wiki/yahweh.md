@@ -6,6 +6,7 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
+featured_order = 2
 category = "Elohim"
 editorial_pass = "2026-05"
 entry_type = "figure"
