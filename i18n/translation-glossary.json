@@ -1,13 +1,13 @@
 {
   "$schema": "./translation-glossary-schema.json",
   "name": "Wheel of Heaven Translation Glossary",
-  "version": "2.7.0",
+  "version": "2.8.0",
   "released": "2026-05-22",
   "description": "Lexical decisions made by the Wheel of Heaven Translation Program. Distinct from content/i18n/glossary.json, which records site-UI terminology. Each entry records a source-language term, the standard PD-translation rendering, the WoH choice, the rationale, and the verses where the choice applies. Pinned to per-chapter translations via `glossaryVersion` in chapter metadata.",
   "sourceLanguages": [
     "he"
   ],
-  "scopeNote": "v2.6.0 reached Job 38. v2.7.0 adds Job 40-41 (9 entries) — the Behemoth and Leviathan passages, the canonical Hebrew Bible dragon-tradition material. Leviathan is identified with the *tannin* of Isaiah 27:1 (linking to the taninim entry from Gen 1:21, glossary v2.0.0) and with the Ugaritic *Lotan*. The Behemoth-Leviathan pair completes the Hebrew Bible's cosmic-creature pairing (land + sea) and stages them as creatures only their maker can subdue — closing the second divine speech's argument that humbling-the-proud is divine work.",
+  "scopeNote": "v2.6.0 reached Job 38. v2.7.0 added Job 40-41 (9 entries) — the Behemoth and Leviathan passages, the canonical Hebrew Bible dragon-tradition material. Leviathan is identified with the *tannin* of Isaiah 27:1 (linking to the taninim entry from Gen 1:21, glossary v2.0.0) and with the Ugaritic *Lotan*. v2.8.0 adds Job 42 (7 entries), closing the book of Job. The new entries cover the book's keystone closing material: the ear-vs-eye direct-experiential epistemology of v 5 (shema-ozen-eyni-ra-atkha), the three-way philological dispute on v 6 (em-as-v-nikhamti-al-afar-va-efer), the YHWH-verdict-on-the-friends inversion of vv 7-8 (lo-dibartem-elay-nekhonah), the pan-HB restoration phrase shav et-shvut (v 10) — a cross-corpus entry that will govern future translations across Deuteronomy, the Major and Minor Prophets, the Psalms, and Lamentations — the archaic currency-unit kesitah (v 11; also Gen 33:19 and Josh 24:32), the three sense-bearing daughter-names of v 14 (yemimah-ketziah-keren-happukh), and the patriarchal-good-death formula of v 17 (zaqen-u-s-va-yamim; cross-corpus: Abraham, Isaac, David, Jehoiada, Job). One translation change is driven by glossary in this pass: shav et-shvut moves the English from ASV's 'turned the captivity' to the modern-scholarly-consensus 'restored the fortunes' (Bracke 1985; Dahood; NRSV/NJPS/Newsom). The book of Job is wisdom-literature, not divine-council-disclosure; the WoH lens stays quiet in this chapter, surfacing only at vv 7-8 to note the verdict-inversion's connection back to the bnei-elohim framing of chs 1-2.",
   "terms": [
     {
       "id": "bereshit",
@@ -3915,6 +3915,118 @@
       "rationale": "Job 41:26's closing identification of Leviathan: *hu melekh al kol bnei shachatz* — *he is king over all the sons of pride*. // *Bnei shachatz* — *sons of pride* — is a hapax-style compound. *Shachatz* (שָׁחַץ) is rare; the same noun appears at Job 28:8 (*bnei shachatz* — *sons of the proud*, parallel to wild beasts). The compound names a class of **proud / lofty / wild** creatures. // The structural-rhetorical close is significant: the chapter's second divine speech opened (Job 40:9-14) with a **challenge for Job to humble all that is proud** (*ge'eh*, *gei'im*). The chapter then closes (41:26) with **Leviathan as king over all proud creatures** — the exact category Job was challenged to subdue. The frame closes: Job cannot subdue the pride-class because Leviathan, who is **king of that class**, is unsubdueable by Job. // The structural connection from 40:11-13 (the challenge to humble the proud) to 41:26 (Leviathan as king of the proud) is the chapter's keystone argument: **humbling the proud is divine work, not human work** — because the king of the proud is a creature only the creator can subdue. The chapter has staged Leviathan as the **proof-by-example** of the impossibility of human-cosmic-justice-administration.",
       "appliesTo": [
         "JOB-41:26"
+      ]
+    },
+    {
+      "id": "shema-ozen-eyni-ra-atkha",
+      "source": "לְשֵׁמַע־אֹזֶן שְׁמַעְתִּיךָ וְעַתָּה עֵינִי רָאָתְךָ",
+      "translit": "l-shema ozen shmati-kha v-atah eyni ra'at-kha",
+      "strongs": "H8085 + H241 + H6258 + H5869 + H7200",
+      "partOfSpeech": "chiastic parallel clause",
+      "literal": "to the hearing of the ear I had heard you, and now my eye has seen you",
+      "standardEnglish": "I have heard of thee by the hearing of the ear, but now mine eye seeth thee",
+      "wohChoice": "by the hearing of the ear I had heard of you, but now my eye has seen you",
+      "claim_type": "direct",
+      "rationale": "The keystone verse of the book of Job (42:5). Job's closing-speech climax names the theological move the whirlwind speeches have produced: a shift from *hearsay-knowledge* of YHWH to *direct-experiential* knowledge. // The verse is patterned: each clause carries a sense-organ noun (*ozen* — ear, *eyin* — eye), a verb of perception in its register (*shama* — hear, *ra'ah* — see), and YHWH as the object of perception (the 2ms suffix *-kha*). The chiasm is the meaning: hearing-of-the-ear / eye-has-seen. // *Shema ozen* (שֵׁמַע אֹזֶן) — *hearing of the ear* — is the canonical Hebrew Bible idiom for **report-knowledge** / transmitted-speech-knowledge (cf. Ps 18:45, 2 Sam 22:45 in the parallel: *l-shema ozen yishame'u li* — *at the hearing of the ear they submit to me*; the idiom names knowledge through report, not through direct contact). *Eyin ra'ata-kha* — *my eye has seen you* — names the inverse: direct visual contact, in the prophetic-vision register. // The book's argument-structure turns on this contrast. The friends (chs 3–37) operate in the *shema ozen* register: their theology is the transmitted wisdom-tradition, and they urge Job to submit to that traditional knowledge. Job's position throughout is that the tradition has failed his case and that he needs YHWH's own response. The whirlwind speeches (38–41) deliver it. The keystone verse names the epistemological shift. // The translation preserves the chiastic structure (ASV-style, against NRSV's smoothing to 'I had heard of you by hearsay'). The verbal patterning of *ozen* / *eyin* and *shama* / *ra'ah* is itself the verse's argument — the parallel construction of the two sense-modalities is what makes the contrast load-bearing. Smoothing to a single noun (*hearsay*) loses the *ozen*–*eyin* pairing. Newsom (NIB 1996, 2003) explicitly defends preserving the chiastic structure on the same ground. // The WoH lens does no extra work here. The verse is the book's own theology of direct-encounter epistemology, not a project-specific reading.",
+      "appliesTo": [
+        "JOB-42:5"
+      ]
+    },
+    {
+      "id": "em-as-v-nikhamti-al-afar-va-efer",
+      "source": "עַל־כֵּן אֶמְאַס וְנִחַמְתִּי עַל־עָפָר וָאֵפֶר",
+      "translit": "al-ken em'as v-nikhamti al afar va-efer",
+      "strongs": "H3988 + H5162 + H6083 + H665",
+      "partOfSpeech": "verbal clause",
+      "literal": "therefore I despise/retract and am sorry/comforted upon/concerning dust and ashes",
+      "standardEnglish": "wherefore I abhor myself, and repent in dust and ashes",
+      "wohChoice": "therefore I despise myself, and repent in dust and ashes",
+      "claim_type": "direct",
+      "rationale": "The most-disputed verse in Job and one of the most-disputed in the Hebrew Bible (42:6). The closing line of Job's submission speech. Six words; every word is contested. // **The three lexical underdeterminacies.** (1) *Em'as* (אֶמְאַס, qal imperfect 1cs of *m-'-s*) — *I despise / reject / retract / melt away*. The verb is intransitive in form here; no explicit object. Traditional translation supplies *myself* ('I despise myself'); modern philology reads intransitive — *I retract* (my previous speech), *I reject*, or *I melt away*. (2) *Nikhamti* (נִחַמְתִּי, niphal perfect 1cs of *n-ch-m*) — the verb's semantic range covers *be sorry, repent, change one's mind, be comforted, console oneself*. The verb cluster is notorious in HB philology (cf. Gen 6:6 *vayinachem YHWH*; entry *vayinnachem-yhwh*). (3) *Al afar va-efer* — the preposition *al* with *afar va-efer* (dust and ashes) admits the **locative** reading (*in dust and ashes*) and the **prepositional-object** reading (*concerning dust and ashes*). // **The three major modern readings.** (a) **Traditional submission** (ASV, KJV, medieval Jewish commentators, the dominant Christian theological reading): *Therefore I despise myself, and repent in dust and ashes*. Job is brought to recognize his presumption and submits in the canonical mourning-posture. The book vindicates submission to divine sovereignty. (b) **Newsom retract-the-lament** (Newsom NIB 1996, 2003): *Therefore I despise myself and repent of dust and ashes*. The *al* reads as *concerning*. Job retracts the ash-heap mourning-posture itself; the direct encounter has rendered the lament-stance obsolete. The book vindicates Job's complaint. (c) **Curtis 1979 / Patrick 1976 comfort-without-repentance**: *Therefore I retract, and I am comforted, concerning dust and ashes*. *Em'as* intransitive; *nikhamti* read in its *be-comforted* sense. Job declares himself comforted concerning his human-frailty (the same phrase *afar va-efer* is Abraham's self-description at Gen 18:27 — mortal-frailty). No self-rejection. // **The choice.** The WoH translation retains ASV's traditional rendering in the running English text, against the project's general preference for modern critical readings. Three grounds. First, the standing rule defaults to the most-attested PD reading where the source is genuinely underdetermined; that rule applies maximally here, since the philological dispute is unresolved among Hebrew Bible specialists. Second, the *al afar va-efer* phrase echoes 2:8 (Job sitting *b-tokh ha-efer*) and the verbal-physical-posture reading has the strongest contextual support: Job is still in the dust-and-ashes setting he entered the dialogue in. Third, the WoH lens has no stake in either reading — the book of Job is wisdom-literature, not divine-council-disclosure, and the keystone of the closing is v 5 (direct-encounter epistemology), not v 6 (the ambiguous submission/release). // **A small lens note.** Reading (c) would make the closing posture continuous with the opening posture: 1:21 (*YHWH gave, YHWH took*) and 2:10 (*shall we accept good from the Elohim and not the bad*) established Job's stance as acceptance-of-the-given without the friends' explanatory machinery. Reading (c) extends that stance through the close. Reading (a) introduces self-rejection the book has not previously demanded. The lens registers the asymmetry as a reason readings (b) and (c) deserve serious weight, but does not adjust the translation: the question is properly resolved by Hebrew Bible philologists, not by the WoH project's interpretive needs.",
+      "appliesTo": [
+        "JOB-42:6"
+      ]
+    },
+    {
+      "id": "lo-dibartem-elay-nekhonah",
+      "source": "לֹא דִבַּרְתֶּם אֵלַי נְכוֹנָה כְּעַבְדִּי אִיּוֹב",
+      "translit": "lo dibartem elay nekhonah k-avdi Iyov",
+      "strongs": "H1696 + H413 + H3559 + H5650 + H347",
+      "partOfSpeech": "verdict clause",
+      "literal": "you have not spoken to/about me what is established/right, as my servant Job (has)",
+      "standardEnglish": "ye have not spoken of me the thing that is right, as my servant Job hath",
+      "wohChoice": "you have not spoken of me what is right, as my servant Job has",
+      "claim_type": "direct",
+      "rationale": "YHWH's verdict on the friends, given verbatim in vv 7 and 8. The keystone inversion of the book: the friends, who throughout chs 3–37 defended divine justice and accused Job of hidden sin, are condemned; Job, who throughout chs 3–37 accused YHWH of injustice and demanded an accounting, is vindicated. // **The *elay* problem.** The preposition *el* normally takes a directional sense (*to, toward*); the expected referential preposition in this context would be *al* (*about, concerning*). The clause uses *el* in what must be a referential function — *about / of me*. All major modern translations render *of me* (ASV, KJV, NRSV) or *about me* (Newsom NIB). Some commentators (Habel OTL 1985) preserve the directional sense — *you have not spoken to me what is right* — yielding *you addressed me but did not address me with rectitude*. The directional reading is grammatically tighter; the referential reading is what the verdict-context demands. The WoH translation follows the standard referential reading. The directional reading is registered in commentary as a minority but defensible alternative. // **Nekhonah.** The feminine singular adjective *nekhonah* (נְכוֹנָה) is used substantivally: *the right thing, what is established, what stands*. The underlying verb *kun* gives the sense of *what stands firm, what is established as true*. The friends' speeches were eloquent but did not *stand* as true accounts of YHWH; Job's speeches — including his accusations — did. // **The structural function of the verdict.** The book's framing chapters (1–2) staged Job's affliction as the result of a *bnei-elohim* council scene, with *ha-satan* as adversarial-prosecutor (entries *b-nei-ha-elohim*, *ha-satan*, *mit'yatzev-al-YHWH*). The dialogue cycle (3–37) and the divine speeches (38–41) never refer back to the council scene; the friends do not know about it, Job does not know about it. The verdict here closes the frame: the friends' theological-justification machinery was wrong precisely because the council scene's logic — Job's affliction as test, not as punishment for hidden sin — was something the wisdom-tradition's *retributive-justice* axiom could not see. The friends are not condemned for what they did not know; they are condemned for **building a theological edifice on an axiom the book has shown to be false** (suffering implies sin). Job, who held to his innocence against the axiom, is vindicated for the same reason.",
+      "appliesTo": [
+        "JOB-42:7",
+        "JOB-42:8"
+      ]
+    },
+    {
+      "id": "shav-et-shvut",
+      "source": "וַיהוָה שָׁב אֶת־שְׁבוּת אִיּוֹב",
+      "translit": "shav et-sh'vut (also: shav et-sh'vit)",
+      "strongs": "H7725 + H7622",
+      "partOfSpeech": "verbal phrase + cognate accusative",
+      "literal": "turned the turning of / restored the restoration of",
+      "standardEnglish": "turned the captivity of",
+      "wohChoice": "restored the fortunes of",
+      "claim_type": "direct",
+      "rationale": "One of the Hebrew Bible's most-recurring formulae. The phrase *shav et-shvut* (or, in ketiv form, *shav et-shvit*) appears in some 26 verses across Deuteronomy, the Major and Minor Prophets, the Psalms, Lamentations, and Job — the canonical idiom for **divine reversal of communal calamity** (restoration after exile, after defeat, after disaster). // **Key occurrences:** Deut 30:3; Jer 29:14, 30:3, 30:18, 31:23, 32:44, 33:7, 33:11, 33:26, 48:47, 49:6, 49:39; Ezek 16:53 (×3), 29:14, 39:25; Hos 6:11; Joel 3:1 (4:1 MT); Amos 9:14; Zeph 2:7, 3:20; Ps 14:7, 53:7, 85:2, 126:1, 126:4; Lam 2:14; Job 42:10. // **Two derivations.** The traditional rendering *turn the captivity* (ASV, KJV) takes the noun from the root *sh-b-h* (take captive) and reads the phrase metaphorically: *reverse the captivity-state*. The modern scholarly consensus derives the noun from *sh-w-b* (turn, return) — the same root as the governing verb *shav* — and reads it as a **cognate-accusative construction** *turn the turning* meaning *restore what has been lost / restore the fortunes of*. // **Modern scholarship has settled on the cognate-accusative reading.** Dahood (Biblica 1965), Bracke (JSOT 1985, the standard reference study), HALOT (with qualification), and the modern critical translations (NRSV, NJPS, Newsom NIB) all favor *restore the fortunes*. Bracke 1985 demonstrated philologically that the captivity-derivation is unworkable in many of the 26 occurrences. Job 42:10 is the clearest case: Job was never literally taken captive, so the captivity-reading must already be metaphorical, while the *restore the fortunes* reading is direct. // **The WoH translation departs from ASV here.** This is one of the rare cases in the WoH translation where the standing PD-default rule is overridden by modern-philological consensus. The English text renders *restored the fortunes of* (NRSV / NJPS / Newsom) instead of ASV's *turned the captivity of*. The glossary entry will govern every future occurrence of the phrase in the prophets and Psalms; the decision is made once now to avoid having to relitigate it twenty-six times. // The phrase carries no WoH-lens specific reading; the decision is purely philological-conservative — adopting the settled modern consensus where the older PD translations preserve a pre-1980s reading that subsequent Hebrew Bible scholarship has dismantled.",
+      "appliesTo": [
+        "JOB-42:10"
+      ]
+    },
+    {
+      "id": "kesitah",
+      "source": "קְשִׂיטָה",
+      "translit": "kesitah",
+      "strongs": "H7192",
+      "partOfSpeech": "noun, feminine singular",
+      "literal": "kesitah (archaic unit of currency or weight)",
+      "standardEnglish": "a piece of money",
+      "wohChoice": "kesitah (preserved)",
+      "claim_type": "direct",
+      "rationale": "An archaic Hebrew unit of currency or weight, occurring only three times in the Hebrew Bible: Gen 33:19 (Jacob's purchase of a parcel of land at Shechem from the sons of Hamor for 100 kesitah), Josh 24:32 (the same Shechem transaction recalled in the burial of Joseph's bones), and Job 42:11 (each of Job's relatives gives him *kesitah echat* — *one kesitah* — as restoration-gift). // **Etymology.** Uncertain. The most cited derivation is from a root meaning *apportioned* or *measured* (cognate proposals in Arabic *qasata* — distribute equitably). The unit's value is unknown; the Hebrew Bible never specifies an exchange-rate with the shekel-system that elsewhere governs HB monetary measurement. // **The LXX lamb-tradition.** The Septuagint renders *kesitah* at Gen 33:19 as *amnados* (lamb), and at Josh 24:32 with *amnoi* (lambs). The lamb-rendering may reflect an early tradition of **lamb-shaped weights** (attested in some ANE contexts) or a tradition of **lamb-equivalent value**, but the identification is speculative; modern philology does not endorse it. The translation *piece of money* (ASV, NRSV) is itself a guess at the unit's character. // **Translation policy.** Standard modern practice (Newsom NIB; NJPS 1985) preserves *kesitah* untranslated and glosses it; this respects the unit's archaism and avoids importing a guess into the running text. The WoH translation follows that practice. The entry governs all three occurrences (Gen 33:19, Josh 24:32, Job 42:11).",
+      "appliesTo": [
+        "GEN-33:19",
+        "JOS-24:32",
+        "JOB-42:11"
+      ]
+    },
+    {
+      "id": "yemimah-ketziah-keren-happukh",
+      "source": "יְמִימָה / קְצִיעָה / קֶרֶן הַפּוּךְ",
+      "translit": "Yemimah / Ketziah / Keren-happukh",
+      "strongs": "H3224 + H7103 + H7163",
+      "partOfSpeech": "proper names",
+      "literal": "Day-bright (or: Dove) / Cassia / Horn-of-Kohl",
+      "standardEnglish": "Jemimah / Keziah / Keren-happuch",
+      "wohChoice": "Yemimah / Ketziah / Keren-happukh (transliterated; semantic readings glossed)",
+      "claim_type": "inferred",
+      "rationale": "Job's three restoration-daughters (Job 42:14). None of the three names is attested elsewhere in the Hebrew Bible as the name of another person; all three are unique. All three are also semantically transparent in ways that cluster in a single semantic field — beauty, fragrance, adornment. // **Yemimah** (יְמִימָה). Three etymological proposals. (1) From *yom* / *yamim* (day / days) — yielding *day-bright, like-the-day*. The rabbinic tradition takes this reading: Targum Job 42:14 renders *as-the-day*; b. Bava Batra 16b reads 'as bright as the day.' (2) From *yamim* in a warm-color sense (cognate with Arabic *yam* — sea, dove, warm-day) — yielding *dove*. Pope (AB 1965), Habel (OTL 1985), and Newsom (NIB 1996) take this reading; Arabic *yamamah* — *turtle-dove* — is the closest cognate. The dove-reading is currently the leading critical option. (3) Unanalyzable proper name. // **Ketziah** (קְצִיעָה). Identical in form to *qetzi'ah* — *cassia*, a fragrant spice related to cinnamon. The spice is attested at Ps 45:9 (*qetzi'ot* — cassias, in the royal wedding-psalm's perfume-list) and at Ezek 27:19 (Tyre's spice-trade inventory). The cassia-identification is universal across modern scholarship; the name **is** the spice. // **Keren-happukh** (קֶרֶן הַפּוּךְ). Literally *horn of pukh*. *Pukh* is the dark cosmetic eye-paint / kohl / stibium-antimony used in ANE eye-makeup, attested at 2 Kgs 9:30 (Jezebel paints her eyes *ba-pukh*), Jer 4:30 (the unfaithful daughter of Zion), Isa 54:11 (the stones of restored Zion set *ba-pukh*). *Keren* is *horn* — by extension, a horn-shaped vessel, the standard cosmetic-flask shape. *Keren-happukh* = *kohl-horn*, *cosmetic-flask*, by metaphorical extension *the beautified one*. // **The shared semantic field.** All three names cluster in beauty / fragrance / adornment: *day-bright* or *dove*, *cassia-spice*, *kohl-flask*. The pattern is itself the comment v 15 will make explicit (*no women so fair were found in all the land*). The Hebrew Bible normally names women in genealogical narratives by lineage-marker; the restoration-daughters here are named by aesthetic attribute, and the choice is structural to the book's restoration-as-beauty closing. // **Translation policy.** Standard practice (ASV, NRSV, Newsom, NJPS) preserves the names untranslated. The WoH translation follows the project's transliteration conventions (Yemimah, Ketziah, Keren-happukh) rather than the older spellings (Jemimah, Keziah, Keren-happuch). The semantic readings (Dove, Cassia, Kohl-Horn) belong in the glossary, not in the running text — preserving the names as names is the responsible default. // The entry is `inferred` rather than `direct` because while the cassia-reading for Ketziah is fully secure, the dove-vs-day-brightness reading for Yemimah is a scholarly inference, and the metaphorical *beautified-one* reading for Keren-happukh extends beyond the literal *kohl-horn* sense.",
+      "appliesTo": [
+        "JOB-42:14"
+      ]
+    },
+    {
+      "id": "zaqen-u-s-va-yamim",
+      "source": "זָקֵן וּשְׂבַע יָמִים",
+      "translit": "zaqen u-s'va yamim",
+      "strongs": "H2205 + H7649 + H3117",
+      "partOfSpeech": "noun-adjective phrase",
+      "literal": "old and full / satiated of days",
+      "standardEnglish": "old and full of days",
+      "wohChoice": "old and full of days",
+      "claim_type": "direct",
+      "rationale": "The Hebrew Bible's canonical formula for the **blessed completion of a long life**. The phrase or its close variants names the patriarchal-good-death — death at the natural end of a long, full life, not violent or premature, signifying divine favor at the close. // **HB occurrences:** Abraham (Gen 25:8: *vayyamot Avraham b-seyvah tovah, zaqen v-save'a* — *Abraham died in good old age, old and satisfied*); Isaac (Gen 35:29: *vayyigva Yitzchaq vayyamot... zaqen u-s'va yamim* — *Isaac expired and died... old and full of days*); David (1 Chr 29:28: *vayyamot b-seyvah tovah, s'va yamim v-osher v-khavod* — *he died in a good old age, full of days, riches, and honor*); Jehoiada the priest (2 Chr 24:15: *vayyizqan Yehoyada vayyisba yamim vayyamot* — *Jehoiada grew old and was full of days, and died*); Job (42:17: *vayyamot Iyov, zaqen u-s'va yamim*). // **The formula's structural function.** It marks the figure as a recipient of completed divine favor — the canonical patriarchal mode of departure. Its application to Job is structurally striking: Job is non-Israelite, set in Uz outside the covenantal line, framed by a divine-council scene rather than by a covenantal moment, and yet granted the patriarchal-good-death formula. The book that opened with Job placed *outside Israel* in the international Wisdom-tradition register closes by giving him the death-notice of an Israelite patriarch. // **Translation.** Uncontested. ASV, KJV, NRSV, Newsom NIB all render *old and full of days*. The literal *s'va* — *satiated, sated* — is preserved in the secondary sense of *full*; the underlying image is one of having had enough days, of being satisfied with the lifespan granted. The WoH translation follows the consensus.",
+      "appliesTo": [
+        "GEN-25:8",
+        "GEN-35:29",
+        "1CH-29:28",
+        "2CH-24:15",
+        "JOB-42:17"
       ]
     }
   ]
