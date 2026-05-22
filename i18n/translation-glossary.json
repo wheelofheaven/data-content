@@ -1,13 +1,13 @@
 {
   "$schema": "./translation-glossary-schema.json",
   "name": "Wheel of Heaven Translation Glossary",
-  "version": "2.8.0",
+  "version": "2.9.0",
   "released": "2026-05-22",
   "description": "Lexical decisions made by the Wheel of Heaven Translation Program. Distinct from content/i18n/glossary.json, which records site-UI terminology. Each entry records a source-language term, the standard PD-translation rendering, the WoH choice, the rationale, and the verses where the choice applies. Pinned to per-chapter translations via `glossaryVersion` in chapter metadata.",
   "sourceLanguages": [
     "he"
   ],
-  "scopeNote": "v2.6.0 reached Job 38. v2.7.0 added Job 40-41 (9 entries) — the Behemoth and Leviathan passages, the canonical Hebrew Bible dragon-tradition material. Leviathan is identified with the *tannin* of Isaiah 27:1 (linking to the taninim entry from Gen 1:21, glossary v2.0.0) and with the Ugaritic *Lotan*. v2.8.0 adds Job 42 (7 entries), closing the book of Job. The new entries cover the book's keystone closing material: the ear-vs-eye direct-experiential epistemology of v 5 (shema-ozen-eyni-ra-atkha), the three-way philological dispute on v 6 (em-as-v-nikhamti-al-afar-va-efer), the YHWH-verdict-on-the-friends inversion of vv 7-8 (lo-dibartem-elay-nekhonah), the pan-HB restoration phrase shav et-shvut (v 10) — a cross-corpus entry that will govern future translations across Deuteronomy, the Major and Minor Prophets, the Psalms, and Lamentations — the archaic currency-unit kesitah (v 11; also Gen 33:19 and Josh 24:32), the three sense-bearing daughter-names of v 14 (yemimah-ketziah-keren-happukh), and the patriarchal-good-death formula of v 17 (zaqen-u-s-va-yamim; cross-corpus: Abraham, Isaac, David, Jehoiada, Job). One translation change is driven by glossary in this pass: shav et-shvut moves the English from ASV's 'turned the captivity' to the modern-scholarly-consensus 'restored the fortunes' (Bracke 1985; Dahood; NRSV/NJPS/Newsom). The book of Job is wisdom-literature, not divine-council-disclosure; the WoH lens stays quiet in this chapter, surfacing only at vv 7-8 to note the verdict-inversion's connection back to the bnei-elohim framing of chs 1-2.",
+  "scopeNote": "v2.6.0 reached Job 38. v2.7.0 added Job 40-41 (9 entries) — the Behemoth and Leviathan passages, the canonical Hebrew Bible dragon-tradition material. Leviathan is identified with the *tannin* of Isaiah 27:1 (linking to the taninim entry from Gen 1:21, glossary v2.0.0) and with the Ugaritic *Lotan*. v2.8.0 adds Job 42 (7 entries), closing the book of Job. The new entries cover the book's keystone closing material: the ear-vs-eye direct-experiential epistemology of v 5 (shema-ozen-eyni-ra-atkha), the three-way philological dispute on v 6 (em-as-v-nikhamti-al-afar-va-efer), the YHWH-verdict-on-the-friends inversion of vv 7-8 (lo-dibartem-elay-nekhonah), the pan-HB restoration phrase shav et-shvut (v 10) — a cross-corpus entry that will govern future translations across Deuteronomy, the Major and Minor Prophets, the Psalms, and Lamentations — the archaic currency-unit kesitah (v 11; also Gen 33:19 and Josh 24:32), the three sense-bearing daughter-names of v 14 (yemimah-ketziah-keren-happukh), and the patriarchal-good-death formula of v 17 (zaqen-u-s-va-yamim; cross-corpus: Abraham, Isaac, David, Jehoiada, Job). One translation change is driven by glossary in this pass: shav et-shvut moves the English from ASV's 'turned the captivity' to the modern-scholarly-consensus 'restored the fortunes' (Bracke 1985; Dahood; NRSV/NJPS/Newsom). The book of Job is wisdom-literature, not divine-council-disclosure; the WoH lens stays quiet in this chapter, surfacing only at vv 7-8 to note the verdict-inversion's connection back to the bnei-elohim framing of chs 1-2. // **v2.9.0 opens Genesis 12 — the start of the patriarchal narratives.** Thirteen new entries cover the chapter's keystone vocabulary: the doubled-imperative *lekh-lekha* of v 1 (recurring only at Gen 22:2, forming the Abraham-cycle inclusio); the niphal/hithpael blessing-form dispute at v 3 (the load-bearing universal-promise verse, with the Pauline-reception complication of Gal 3:8 vs. the modern critical middle/reflexive reading of Sarna/Speiser/NJPS); the *nefesh asher asu* of v 5 (proselytes-made vs. slaves-acquired, the classical rabbinic vs. modern critical split); the sacred-tree-oracle site *elon Moreh* of v 6 (with the patriarchal sacred-tree pattern across Shechem, Bethel, Ophrah, etc.); the first patriarchal theophany-formula *va-yera YHWH el-Avram* of v 7 (recurring across the Abraham-Isaac-Jacob arc); the seed-land covenant-nucleus *l-zarakha eten et-ha-aretz* of v 7 (expanded across 13:14-17, 15:7-21, 17:8, etc.); the cult-site invocation *qara b-shem YHWH* of v 8 (resuming the Seth-Enosh tradition of Gen 4:26); the wife-sister type-scene framing of vv 10-20 (Alter's canonical 1981 treatment, three instances at Gen 12 / 20 / 26); the beautiful-woman formula *eshet yefat mar'eh* of v 11 (a Hebrew Bible stock-phrase across Rebekah, Rachel, Joseph, Abigail, Tamar, Abishag, Esther); the say-sister strategy *imri-na achoti at* of v 13 (the ethically-debated patriarchal lapse); the camel anachronism of v 16 (Sapir-Hen and Ben-Yosef 2013 archaeological consensus on Iron Age Levantine camel domestication); the proto-Exodus plague-formula *naga / nega'im* of v 17 (verbal link forward to Exod 11:1); and the Abram-Pharaoh expulsion verb *va-y-shalchu* of v 20 (verbally identical to Exod 12:33). The chapter is not high-lens-leverage — the WoH posture surfaces only at the theophany verses (7, 17) to note continuity with the divine-descent pattern of chs 1-11.",
   "terms": [
     {
       "id": "bereshit",
@@ -4027,6 +4027,289 @@
         "1CH-29:28",
         "2CH-24:15",
         "JOB-42:17"
+      ]
+    },
+    {
+      "id": "lekh-lekha",
+      "source": "לֶךְ־לְךָ",
+      "translit": "lekh-lekha",
+      "strongs": "H3212",
+      "partOfSpeech": "qal imperative + dative pronoun",
+      "literal": "go for yourself / go to yourself",
+      "standardEnglish": "Get thee out / Go forth",
+      "wohChoice": "Go forth",
+      "claim_type": "direct",
+      "rationale": "The qal imperative of *halakh* ('go') followed by a *lamed*-prefixed second-person pronoun. The construction is the so-called **ethical dative** (or *dativus commodi* / dative of advantage / dative of interest) — the *lamed* + pronoun adds a reflexive overtone that resists single-English rendering: *go for yourself*, *go on your own account*, or in the most expansive scholarly reading, *go to your-self* (i.e., into your own becoming). // **Three readings circulate.** (a) The classical philological position treats the *lamed* as redundant intensification — Hebrew imperative idiom occasionally takes a dative pronoun without independent semantic load (cf. *qum-lakh*, *shuv-lakh*). On this reading the standard ASV 'get thee out' captures the sense. (b) Rashi, drawing on Genesis Rabbah 39:9, reads the *lamed* as *l'ha'natah'kha v'l'tovat'kha* — *for your benefit and for your good* — the journey is divinely-prescribed enrichment. (c) The modern critical consensus (Sarna, *JPS Torah Commentary*, 1989; Alter, *The Five Books of Moses*, 2004; Hamilton, NICOT, 1990) reads the *lamed* as a genuine ethical dative carrying a reflexive-advantageous nuance — the journey is *for yourself*, the new identity is *toward yourself*. // **The phrase recurs only once more in the Hebrew Bible: Gen 22:2**, the *aqedah*, where YHWH commands Abraham *lekh-lekha el eretz ha-Moriah* — *go forth to the land of Moriah* — to offer Isaac. The doubled use forms a deliberate *inclusio* across the Abraham cycle: the call that opens it (12:1, leave father's house) and the call that closes it (22:2, offer the son who is the future) are marked with the same idiom. Sarna and Alter both emphasize the rhetorical bracket. // The WoH translation reads 'Go forth' — intensified over bare 'go', neutral on the ethical-dative philological question, leaving the inclusio with 22:2 to be marked there. The claim_type is *direct* because identifying the construction as an ethical-dative imperative and noting the 12:1/22:2 inclusio are uncontested philological-literary observations.",
+      "appliesTo": [
+        "GEN-12:1",
+        "GEN-22:2"
+      ]
+    },
+    {
+      "id": "nivrakhu-bekha-niphal-hithpael",
+      "source": "וְנִבְרְכוּ בְךָ / וְהִתְבָּרֲכוּ בְזַרְעֲךָ",
+      "translit": "v'nivrakhu vekha / v'hitbarakhu v'zarakha",
+      "strongs": "H1288",
+      "partOfSpeech": "verb, niphal / hithpael imperfect",
+      "literal": "shall be blessed in you / shall bless themselves by you",
+      "standardEnglish": "shall be blessed",
+      "wohChoice": "shall be blessed (at niphal-pointed verses); shall bless themselves (at hithpael-pointed verses)",
+      "claim_type": "direct",
+      "rationale": "The Genesis universal-blessing-promise formula appears five times across the patriarchal cycle. **The MT itself preserves two different pointings of the verb:** *niphal* (passive: *shall be blessed*) at Gen 12:3, 18:18, 28:14; *hithpael* (middle / reflexive: *shall bless themselves*) at Gen 22:18, 26:4. The pointing difference is the central piece of philological evidence for one of the most-discussed translation cruxes in Genesis. // **Three positions circulate.** (a) **Traditional Christian / Pauline reading.** The LXX renders all five verses with the passive *eneulogēthēsontai*; Paul cites the verse as straightforwardly passive in **Galatians 3:8** (*eneulogēthēsontai en soi panta ta ethnē* — 'in you shall all the nations be blessed'), reading the passive as the textual foundation of the gospel-to-the-gentiles. ASV, RSV, NRSV, and most English translations in the Christian tradition follow Paul. (b) **Modern critical consensus** (Speiser, *Anchor Bible Genesis*, 1964; Sarna, JPS, 1989; Westermann, *Genesis 12–36*, Hermeneia, 1985; NJPS, JPS Tanakh). The original idiom was middle/reflexive across all five verses: *by you all the families of the ground shall bless themselves* — i.e., they shall invoke Abram's name as a paradigm of blessing (cf. Gen 48:20, *by you shall Israel bless, saying, 'Elohim make you as Ephraim and Manasseh'*). On this reading the niphal pointings at 12:3 / 18:18 / 28:14 are Masoretic harmonization toward the theologically richer passive sense, against an original consistent hithpael. (c) **MT-preserving reading** (Wenham, WBC, 1994; Hamilton, NICOT, 1990). The niphal/hithpael distinction was meaningful for the redactor and should be preserved verse-by-verse — passive at 12:3 / 18:18 / 28:14, middle at 22:18 / 26:4. // **The WoH translation takes position (c) — verse-by-verse, matching the MT pointing at each occurrence.** The choice preserves the MT's own variation rather than smoothing toward either pole; the philological dispute and the Pauline reception are surfaced in the commentary. The claim_type is *direct* because the niphal/hithpael distinction is a fact of the pointed MT, and presenting the dispute fairly across the three positions is a *direct* report of the textual evidence and scholarly state-of-the-art — not an interpretive choice. The translation choice itself follows the MT.",
+      "appliesTo": [
+        "GEN-12:3",
+        "GEN-18:18",
+        "GEN-22:18",
+        "GEN-26:4",
+        "GEN-28:14"
+      ]
+    },
+    {
+      "id": "nefesh-asher-asu",
+      "source": "הַנֶּפֶשׁ אֲשֶׁר־עָשׂוּ בְחָרָן",
+      "translit": "ha-nefesh asher asu b'Charan",
+      "strongs": "H5315 + H6213",
+      "partOfSpeech": "noun + relative clause",
+      "literal": "the soul(s) that they had made in Charan",
+      "standardEnglish": "the souls that they had gotten in Haran",
+      "wohChoice": "the souls that they had made in Haran",
+      "claim_type": "direct",
+      "rationale": "The phrase *ha-nefesh asher asu b-Charan* — *the souls that they had made in Haran* — has no exact idiomatic parallel in the Hebrew Bible. *Asah* (make / do) does not standardly take *nefesh* (soul / person) as object. The verse forces a decision and **three readings circulate**. // (a) **The proselyte reading** — Rashi (following Sifrei Deuteronomy 32 and Onkelos's targum, which renders *de'sha'abidu l'oraita*, 'those whom they made subject to the Torah') reads *asu* as *converted, made into adherents*. On this reading Abram and Sarai conducted a missionary enterprise in Haran and brought converts with them. The reading has deep traditional roots but no philological support outside the rabbinic-targumic tradition. // (b) **The slaves-acquired reading** — Speiser (*Anchor Bible Genesis*, 1964), Sarna (*JPS Torah Commentary*, 1989), and Westermann (*Genesis 12–36*, Hermeneia, 1985) read *asu* as a variant of *qanah* (acquire), parallel to the *rekhush asher rakhashu* (*substance that they had gathered*) of the immediately preceding clause. The *nefesh* here are household slaves and dependents acquired by purchase in Haran. The parallelism with *rekhush rakhashu* is structurally tight. // (c) **The dependents / household reading** — a softer version of (b): the *nefesh* are the broader household — slaves, dependents, attached persons — without specifying the mode of acquisition. NJPS renders 'the persons that they had acquired in Haran'; NRSV 'the persons whom they had acquired in Haran'. // The chapter's later content (vv 16, 20 — male and female slaves listed among Abram's holdings) suggests the household-economy reading is the one the chapter assumes, but the verse-form itself declines to disambiguate. The WoH translation preserves the literal *asu* (*made*) as 'the souls that they had made' — matching ASV's 'gotten' in keeping the literal verb, leaving the proselyte/slaves question for commentary. The claim_type is *direct* because the lexical oddness and the three-way dispute are uncontested facts of the philological literature; the translation choice (preserve the literal oddness) is the most conservative possible reading.",
+      "appliesTo": [
+        "GEN-12:5"
+      ]
+    },
+    {
+      "id": "elon-moreh",
+      "source": "אֵלוֹן מוֹרֶה",
+      "translit": "elon Moreh",
+      "strongs": "H436 + H4176",
+      "partOfSpeech": "proper-name phrase",
+      "literal": "oak of Moreh / oak of the Teacher",
+      "standardEnglish": "oak of Moreh / terebinth of Moreh",
+      "wohChoice": "oak of Moreh",
+      "claim_type": "inferred",
+      "rationale": "Two lexically loaded words name Abram's first stop in the promised land. // **First, *elon*.** The botanical identification is contested in Hebrew lexicography. *Elon* (אֵלוֹן), *elah* (אֵלָה), and *alon* (אַלּוֹן) are three related forms that can refer to *oak*, *terebinth*, or large-tree-of-sacred-significance generally. BDB groups all three under 'oak / terebinth'; HALOT distinguishes *alon* (oak) from *elah/elon* (terebinth) with less than full confidence. The LXX renders δρῦς (oak) here. Modern scholarly translations vary: ASV 'oak', NJPS 'terebinth', NRSV 'oak'. The species precision is not load-bearing for the verse. // **Second, *Moreh*.** The proper-name form derives from the root y-r-h, 'to throw, point, teach, give oracle / *torah*'. *Moreh* is the hiphil participle: *teacher, one who instructs, oracle-giver*. The word retains its semantic transparency throughout the Hebrew Bible — *moreh* appears as a common noun meaning 'teacher / instructor' at Isa 9:14, Isa 30:20, Hab 2:18, Prov 5:13, Job 36:22. The 'oak of Moreh' is therefore plausibly read as **'oak of the Teacher / oak of the Oracle-Giver'** — a sacred-tree site associated with prophetic / divinatory consultation. // **The sacred-tree pattern across the patriarchal and pre-monarchic corpus is consistent.** *Elon Moreh* recurs at Deut 11:30 (the Gerizim/Ebal blessing-and-curse ceremony happens *etzel elonei Moreh*). Jacob buries the foreign gods *under the oak which was at Shechem* (Gen 35:4). Deborah is buried *under the oak below Bethel* called *Allon Bakhut* (Gen 35:8). Joshua sets up a stone *under the oak that was by the sanctuary of YHWH* at Shechem (Josh 24:26). Judges 6:11 places the angelic call of Gideon *under the oak which was in Ophrah*. Judges 9:6, 37 names *elon mutzav* and *elon m'on'nim* (the oak of the diviners) at Shechem. The verse here at 12:6 names the spot where the first patriarchal theophany (v 7) will immediately follow — and a sacred-tree-oracle context is exactly what the next verse delivers. // The WoH translation reads 'oak of Moreh' with ASV — the proper-name reading preserved, the teacher/oracle resonance and the sacred-tree pattern surfaced in commentary. The claim_type is *inferred* because the *Moreh*-as-teacher / sacred-tree-oracle-site reading is a scholarly inference from the cognate pattern across the corpus rather than from any single explicit statement in the text; the inference is well-attested in critical scholarship (Westermann, Speiser, Sarna all note the oracle-tree pattern) but the verse itself names a place, not a function.",
+      "appliesTo": [
+        "GEN-12:6"
+      ]
+    },
+    {
+      "id": "va-yera-yhwh-theophany",
+      "source": "וַיֵּרָא יְהוָה אֶל־",
+      "translit": "va-yera YHWH el-",
+      "strongs": "H7200 (niphal)",
+      "partOfSpeech": "verb, niphal imperfect (waw-consecutive) + preposition",
+      "literal": "and YHWH was seen / appeared / let himself be seen to —",
+      "standardEnglish": "And the LORD appeared unto —",
+      "wohChoice": "YHWH appeared to —",
+      "claim_type": "direct",
+      "rationale": "The patriarchal-theophany formula. The verb is the niphal of r-a-h (see), conjugated as *was seen / appeared / let himself be seen / made himself visible*. The niphal is mediopassive: it can be read as YHWH being passively *seen by* the patriarch (the receptive sense) or as YHWH actively *causing himself to be seen* (the reflexive-causative sense). The standard English 'appeared' smooths the niphal into a colorless intransitive — *appeared* in English suggests sudden visibility without specifying its mode. The Hebrew preserves the question of whether the seeing originates with the seer or with the seen. // **The formula recurs across the patriarchal narratives, marking covenantal-vision moments:** Gen 12:7 (first appearance to Abram at the oak of Moreh — the inaugural patriarchal theophany); Gen 17:1 (the covenant of circumcision); Gen 18:1 (Mamre — the appearance explicitly embodied as three men); Gen 26:2, 26:24 (to Isaac at Beersheba); Gen 35:9 (to Jacob on return from Paddan-Aram); Gen 48:3 (Jacob recalls the formula in his blessing of Joseph's sons). The formula bookends every major covenantal moment in the Abraham–Isaac–Jacob arc. // **The mode of seeing** is left unspecified at 12:7 and only becomes explicitly embodied at 18:1, where the three men eat, walk, and speak. The chapters between (12, 13, 15, 17) describe YHWH appearing, speaking, and giving promises, but do not editorialize on whether the appearance is visual / auditory / embodied / dreamed / visionary. The WoH translation preserves the bare 'appeared' across all instances and leaves the mode-of-seeing question for verse-level commentary; the Wheel of Heaven posture surfaces only where the embodiment is explicit (18:1 most prominently) to note continuity with the divine-descent register of chs 1-11. // The claim_type is *direct* because the theophany-formula and its patriarchal-narrative recurrences are uncontested facts of the text; the translation choice ('appeared') matches every major English version.",
+      "appliesTo": [
+        "GEN-12:7",
+        "GEN-17:1",
+        "GEN-18:1",
+        "GEN-26:2",
+        "GEN-26:24",
+        "GEN-35:9",
+        "GEN-48:3"
+      ]
+    },
+    {
+      "id": "zera-eretz-promise",
+      "source": "לְזַרְעֲךָ אֶתֵּן אֶת־הָאָרֶץ הַזֹּאת",
+      "translit": "l'zarakha eten et-ha-aretz ha-zot",
+      "strongs": "H2233 + H776",
+      "partOfSpeech": "promise-formula nucleus",
+      "literal": "to your seed I will give this land",
+      "standardEnglish": "Unto thy seed will I give this land",
+      "wohChoice": "To your seed I will give this land",
+      "claim_type": "direct",
+      "rationale": "**The nuclear form of the patriarchal land-promise.** Seven Hebrew words at Gen 12:7 constitute the bare covenant-nucleus that will be elaborated across the patriarchal arc. *Zera* (seed) — the agricultural-biological term for offspring / posterity / line — will be the chapter's recurring designator for the patriarch's progeny. // **The promise-formula's expansions across Genesis:** Gen 13:14-17 adds quadrant directions and the *innumerable-as-the-dust-of-the-earth* imagery; Gen 15:7-21 adds the cut-covenant ritual and the explicit Euphrates-to-the-river-of-Egypt boundaries; Gen 17:7-8 adds *brit olam* (everlasting covenant) and 'an everlasting possession'; Gen 22:17 adds the *innumerable-as-the-stars-and-as-the-sand-on-the-seashore* doubled image; Gen 26:3-4 reissues the promise to Isaac; Gen 28:13-14 reissues to Jacob at Bethel; Gen 35:11-12 reissues again to Jacob; Gen 48:4 Jacob recalls the formula to Joseph. The land-promise threads through the entire patriarchal cycle as the recurring covenantal anchor. // **The *zera* / seed image.** The Hebrew *zera* preserves the agricultural metaphor — seed-in-ground, growth, multiplication — that the patriarchal cycle's storytelling relies on (the recurring tension of barren matriarchs, the late-life births, the seed-that-shall-be-as-the-dust). Modern English translations vary: ASV 'seed' (preserves the imagery), NIV 'offspring' (middle register), RSV / NRSV 'descendants' (modern abstraction). The WoH translation preserves *seed* with ASV — the imagery is load-bearing across the corpus and resurfaces in the Psalter and the Prophets. // The claim_type is *direct* because the promise-nucleus and its recurrences are uncontested facts of the text; the translation choice (*seed* over *descendants*) preserves an image the source language carries explicitly.",
+      "appliesTo": [
+        "GEN-12:7",
+        "GEN-13:15",
+        "GEN-13:17",
+        "GEN-15:7",
+        "GEN-15:18",
+        "GEN-17:8",
+        "GEN-24:7",
+        "GEN-26:3",
+        "GEN-26:4",
+        "GEN-28:13",
+        "GEN-35:12",
+        "GEN-48:4"
+      ]
+    },
+    {
+      "id": "qara-b-shem-yhwh",
+      "source": "וַיִּקְרָא בְּשֵׁם יְהוָה",
+      "translit": "vayyiqra b'shem YHWH",
+      "strongs": "H7121 + H8034",
+      "partOfSpeech": "verbal phrase",
+      "literal": "and he called with / in the name of YHWH",
+      "standardEnglish": "and called upon the name of the LORD",
+      "wohChoice": "and called on the name of YHWH",
+      "claim_type": "direct",
+      "rationale": "The Hebrew Bible's stable formula for **cult-site invocation**. *Qara b'shem YHWH* (literally *call with/in the name of YHWH*) covers a semantic range from worship-invocation through proclamation of the name through ritual naming. // **The formula's introduction in Genesis is at Gen 4:26**, in the closing notice of the Seth-Enosh genealogy: *az huchal liqro b'shem YHWH* — *then it was begun to call on the name of YHWH* — marking the antediluvian origin of YHWH-cult. // **The patriarchal recurrences mark altar-sites along the Abrahamic and Isaac itineraries:** Gen 12:8 (Abram in the hill country between Bethel and Ai — the chapter's first instance); Gen 13:4 (Abram returns to the same altar after the descent to Mitsrayim — the chapter is structurally framing the Mitsrayim episode between two callings-on-the-name at Bethel); Gen 21:33 (Abraham at Beersheba, after planting a tamarisk); Gen 26:25 (Isaac at Beersheba, building an altar). The verb is the patriarchal altar-formula. // **The cult-resumption claim.** The chapter is establishing Abram as the resumption of the Seth-Enosh YHWH-cult tradition — the one whose line had been broken by Babel and the dispersion. The first thing Abram does on entering the promised land (after the theophany of v 7 and the altar at Shechem) is to re-found the worship that had begun at Enosh's generation and been interrupted by the post-Flood human ambition. // The WoH translation reads 'called on the name of YHWH' matching ASV and the rendering used at 4:26 — the consistency across the formula's occurrences is the load-bearing feature. The claim_type is *direct* because the formula and its recurrences are uncontested facts of the text.",
+      "appliesTo": [
+        "GEN-4:26",
+        "GEN-12:8",
+        "GEN-13:4",
+        "GEN-21:33",
+        "GEN-26:25"
+      ]
+    },
+    {
+      "id": "wife-sister-type-scene",
+      "source": "(narrative type-scene)",
+      "translit": "(narrative pattern)",
+      "strongs": null,
+      "partOfSpeech": "literary type-scene",
+      "literal": "(the wife-sister narrative pattern)",
+      "standardEnglish": "(translation issue spans pericope, not single phrase)",
+      "wohChoice": "(translation preserves type-scene-recognizable vocabulary across Gen 12, 20, 26)",
+      "claim_type": "inferred",
+      "rationale": "**Robert Alter, *The Art of Biblical Narrative* (1981, expanded ed. 2011), is the canonical scholarly treatment of the wife-sister sequence as a *type-scene*.** Three instances appear in Genesis: **Gen 12:10–20** (Abram, Sarai, Pharaoh of Mitsrayim); **Gen 20:1–18** (Abraham, Sarah, Abimelech of Gerar); **Gen 26:1–11** (Isaac, Rebekah, Abimelech of Gerar). // **The shared narrative skeleton.** Patriarch travels to foreign land under duress (famine in 12 and 26; unspecified in 20); pre-empts the danger of foreign king seeing his wife by passing her off as his sister; wife is taken into foreign king's house (in 12 and 20; thwarted in 26 when Abimelech sees the couple together); YHWH intervenes (plagues in 12; dream-warning to Abimelech in 20; visual disclosure in 26); king discovers the deception and confronts the patriarch with rebuke (12:18, 20:9-10, 26:9-10); king returns the wife with protective decree (12:19-20, 20:14-16, 26:11). The repetition with variation is the diagnostic feature of biblical type-scene composition. // **Two readings of the parallel** circulate in critical scholarship. **(a) The classical source-critical reading** (Gunkel, *Genesis*, 1901; Speiser, *Anchor Bible Genesis*, 1964) treats the three as variant traditions preserved by different sources (12:10–20 = J; 20 = E; 26 = J again — same narrative tradition independently incorporated by different strata). **(b) The modern literary-critical reading** (Alter, 1981; Sternberg, *The Poetics of Biblical Narrative*, 1985) treats them as deliberate narrative repetition — the same scene played three times to develop character, contrast patriarchs, and trace ethical maturation across the cycle. The two readings are not mutually exclusive. // **The WoH translation's task** is to preserve the vocabulary that makes the type-scene recognizable across the three episodes: the *yefat mar'eh* / *tovat mar'eh* beauty-formula (see [eshet-yefat-mareh](#eshet-yefat-mareh)); the *imri-na achoti at* / *achoti hi* sister-claim (see [imri-na-achoti-at](#imri-na-achoti-at)); the *yarad Mitsraymah* / *bo el-... ha-eretz* descent-language; the *vayyaqach et-ha-ishah* taking-formula; the *vay'shal'chu oto* / *vay'shallechehu* expulsion-formula. The translation preserves consistent vocabulary across the three episodes so the type-scene structure is visible to the English reader. // The claim_type is *inferred* because the type-scene framing itself is a 20th-century scholarly synthesis (Alter 1981 building on Olrik and the Homeric scholarship of Walter Arend); the three episodes are *direct* facts of the text, but the *type-scene* identification is a literary-critical inference about authorial / redactional intentionality.",
+      "appliesTo": [
+        "GEN-12:10",
+        "GEN-12:11",
+        "GEN-12:12",
+        "GEN-12:13",
+        "GEN-12:14",
+        "GEN-12:15",
+        "GEN-12:16",
+        "GEN-12:17",
+        "GEN-12:18",
+        "GEN-12:19",
+        "GEN-12:20",
+        "GEN-20:1",
+        "GEN-20:2",
+        "GEN-20:3",
+        "GEN-20:4",
+        "GEN-20:5",
+        "GEN-20:6",
+        "GEN-20:7",
+        "GEN-20:8",
+        "GEN-20:9",
+        "GEN-20:10",
+        "GEN-20:11",
+        "GEN-20:12",
+        "GEN-20:13",
+        "GEN-20:14",
+        "GEN-20:15",
+        "GEN-20:16",
+        "GEN-20:17",
+        "GEN-20:18",
+        "GEN-26:1",
+        "GEN-26:2",
+        "GEN-26:3",
+        "GEN-26:4",
+        "GEN-26:5",
+        "GEN-26:6",
+        "GEN-26:7",
+        "GEN-26:8",
+        "GEN-26:9",
+        "GEN-26:10",
+        "GEN-26:11"
+      ]
+    },
+    {
+      "id": "eshet-yefat-mareh",
+      "source": "אִשָּׁה יְפַת־מַרְאֶה",
+      "translit": "ishah yefat-mar'eh",
+      "strongs": "H802 + H3303 + H4758",
+      "partOfSpeech": "noun phrase",
+      "literal": "a woman beautiful of appearance",
+      "standardEnglish": "a fair woman to look upon",
+      "wohChoice": "a woman beautiful of appearance",
+      "claim_type": "direct",
+      "rationale": "**A stock formula in biblical narrative for the dangerously attractive female figure.** *Yefat* is the construct form of the feminine adjective *yafeh* (beautiful, fair, fine); *mar'eh* (appearance, sight, visible aspect) is the noun governed by the construct. The doubled-construct form *yefat mar'eh* — *beautiful of appearance* — is a fixed idiom across the Hebrew Bible. // **The formula's recurrences track the cases where a woman's beauty becomes consequential:** **Sarai** at Gen 12:11, 12:14 (here at the wife-sister type-scene's first instance — driving the Pharaoh-episode); **Rebekah** at Gen 26:7 (*tovat mar'eh*, 'good of appearance' — wife-sister second instance); **Rachel** at Gen 29:17 (*yefat to'ar v'yefat mar'eh*, the doubled form 'beautiful of form and beautiful of appearance' — Jacob's love at first sight); **Joseph** at Gen 39:6 (*yefeh to'ar v'yefeh mar'eh*, the same doubled form in masculine — making Joseph one of only two men in the Hebrew Bible explicitly described with the beauty-formula; the other is David at 1 Sam 16:12 *im yefeh einayim v'tov ro'i*); **Abigail** at 1 Sam 25:3 (*tovat sekhel v'yefat to'ar*, intelligence-and-beauty); **Tamar** daughter of Absalom at 2 Sam 14:27 (*ishah yefat mar'eh*); **Bathsheba** at 2 Sam 11:2 (*tovat mar'eh me'od* — the seeing-from-the-roof scene); **Abishag** the Shunammite at 1 Kgs 1:3–4 (*na'arah yafah ... yafah ad-me'od*); **Vashti** at Esther 1:11 (*tovat mar'eh*); **Esther** at Esth 2:7 (*yefat to'ar v'tovat mar'eh*). // **The formula functions in the narrative as a plot-trigger:** it signals that the woman's (or in 39:6 and 1 Sam 16:12, the man's) beauty is about to drive consequential events. Sarai's beauty here drives the Pharaoh-episode; Rebekah's at 26:7 drives the Abimelech-episode; Rachel's drives Jacob's fourteen years of labor; Joseph's drives Potiphar's wife's appropriation-attempt; David's drives his rise (and later, Bathsheba's drives his fall); Bathsheba's drives the David-Uriah crisis; Esther's drives the deliverance of the diaspora. The Hebrew Bible's storytelling reserves the beauty-formula for cases where beauty becomes a vector of narrative force. // The WoH translation preserves the formulaic structure 'a woman beautiful of appearance' — over ASV's archaic 'a fair woman to look upon' and the modern smoothing 'a beautiful woman' (which dissolves the formula). The intratextual signal is preserved. The claim_type is *direct* because the formula and its recurrences are uncontested facts of the corpus.",
+      "appliesTo": [
+        "GEN-12:11",
+        "GEN-12:14",
+        "GEN-26:7",
+        "GEN-29:17",
+        "GEN-39:6",
+        "1SA-16:12",
+        "1SA-25:3",
+        "2SA-11:2",
+        "2SA-14:27",
+        "1KI-1:3",
+        "1KI-1:4",
+        "EST-1:11",
+        "EST-2:7"
+      ]
+    },
+    {
+      "id": "imri-na-achoti-at",
+      "source": "אִמְרִי־נָא אֲחֹתִי אָתְּ",
+      "translit": "imri-na achoti at",
+      "strongs": "H559 + H4994 + H269",
+      "partOfSpeech": "imperative + particle + noun + pronoun",
+      "literal": "say, please, my sister you (are)",
+      "standardEnglish": "Say, I pray thee, thou art my sister",
+      "wohChoice": "Say, please, that you are my sister",
+      "claim_type": "direct",
+      "rationale": "**The chapter's most ethically debated phrase, and the wife-sister type-scene's core deceit.** *Imri-na achoti at* — *say, please, my sister you (are)*. The strategy: have Sarai claim to be Abram's sister rather than his wife, so that a Pharaonic appropriation of her does not require killing the husband. The same strategy is redeployed at Gen 20:2 (Abraham to Abimelech: *achoti hi*, 'she is my sister') and Gen 26:7 (Isaac to Abimelech: *achoti hi*). // **Three readings of the strategy circulate.** // **(a) The morally-compromised reading** — the modern critical mainstream (Speiser, *Anchor Bible Genesis*, 1964; Sarna, *JPS Torah Commentary*, 1989; Westermann, *Genesis 12-36*, Hermeneia, 1985; Hamilton, NICOT, 1990; Alter, *The Five Books of Moses*, 2004). Abram is lying to save his own life by exposing Sarai to sexual appropriation. The story is included in the patriarchal cycle precisely because it is morally ambiguous — the patriarchs of Genesis are not idealized; the narrative records their lapses (Abram and Hagar in 16; Jacob's deception of Isaac in 27; Judah and Tamar in 38; Joseph's brothers' fratricidal plot in 37). The verse-form's *na* (politeness particle) and *l'ma'an yitav-li* (*so that it may go well with me*) make Abram's self-interest explicit. Pharaoh's rebuke in v 18 (*what is this you have done to me?*) delivers the chapter's implicit narrative judgment. // **(b) The apologetic-rabbinic reading** — Genesis Rabbah 41:2; the targumim; Rashi. Abram's claim is **technically true** — Sarai is Abram's half-sister (per Gen 20:12, where Abraham tells Abimelech *she is indeed my sister, the daughter of my father, but not the daughter of my mother*). The strategy is a *partial truth* deployed under duress, not a full lie. On this reading Abram's deception is mitigated. // **(c) The defensive-tactical reading** — some modern apologetic commentators; less common in critical scholarship. Abram is acting within the constraints of a foreign court system in which marriage protections did not extend to traveling foreigners. The sister-designation activates kinship-negotiation protocols that would not have applied to a foreign couple presented as married, where the husband would simply be removed. // **The Sarai-as-half-sister claim of Gen 20:12 is itself complicated** — the verse appears only in the second wife-sister episode and may be apologetic redactional material aimed at exactly the problem the chapter creates. Critical scholarship is divided on whether 20:12 should be read as authentic Abrahamic genealogy or as later harmonization. // The WoH translation preserves the polite-imperative + politeness-particle + sister-claim structure as 'Say, please, that you are my sister' — modern register, preserves *na* as politeness particle. The chapter's silence about the strategy's ethics is preserved; commentary at this verse and at 20:12 surfaces the dispute. The claim_type is *direct* because the strategy, its recurrences across the type-scene, and the three-way reading-dispute are all uncontested facts of the corpus and the scholarly literature.",
+      "appliesTo": [
+        "GEN-12:13",
+        "GEN-20:2",
+        "GEN-20:12",
+        "GEN-26:7"
+      ]
+    },
+    {
+      "id": "camel-anachronism",
+      "source": "גְּמַלִּים",
+      "translit": "g'mallim",
+      "strongs": "H1581",
+      "partOfSpeech": "noun, masculine plural",
+      "literal": "camels",
+      "standardEnglish": "and camels",
+      "wohChoice": "and camels",
+      "claim_type": "inferred",
+      "rationale": "**The patriarchal narratives' most-cited anachronism.** Camels appear in the patriarchal cycle as standard pastoral inventory at Gen 12:16 (Pharaoh's gift to Abram); Gen 24:10-11, 24:64 (Abraham's servant's mission to Aram-Naharaim — ten camels prominent in the scene); Gen 30:43 (Jacob's prosperity in Laban's household); Gen 31:17 (Jacob's flight from Laban); Gen 32:8, 32:16 (the present to Esau); Gen 37:25 (the Ishmaelite caravan that buys Joseph). // **The archaeological consensus on camel domestication in the southern Levant** places the appearance of the domesticated camel as a working pack animal between roughly **1000 and 900 BCE — the early Iron Age**, well into the period of the Israelite monarchy. The decisive recent study is **Sapir-Hen and Ben-Yosef, 'The Introduction of Domestic Camels to the Southern Levant: Evidence from the Aravah Valley', *Tel Aviv* 40 (2013): 277–285** — a stratigraphic analysis of camel bones in the Aravah copper-mining sites that pins the introduction to the late tenth century BCE. Earlier reviews reached the same conclusion from different evidence: Köhler-Rollefson, 'Camels and Camel Pastoralism in Arabia', *Biblical Archaeologist* 56/4 (1993). Finkelstein and Silberman, *The Bible Unearthed* (2001), made the Iron Age dating widely known in popular scholarship. // **The patriarchal narratives are conventionally placed in the Middle Bronze Age** (ca. 2000–1500 BCE) or, on some chronologies, the Late Bronze Age (ca. 1500–1200 BCE). Both placements are centuries earlier than the documented arrival of the domesticated camel as a Levantine working animal. The camels in the patriarchal cycle are therefore widely read in critical scholarship as **redactional anachronism** — markers of the post-monarchic period in which the narratives reached final form, projected backward onto an earlier setting. // The **standard scholarly inference** is that the patriarchal narratives were composed or finalized in a period when camel pastoralism was familiar (the late monarchic or post-exilic redactor would have known camels as part of the standard pastoral inventory) and the camel was projected backward as a generic luxury-trade-animal. The four wife-sister and patriarchal-trade episodes that mention camels (12:16, 24, 30, 31, 32, 37) are concentrated in J/E material, consistent with later compositional dating. // The WoH translation renders the inventory item straight as 'camels' — the editorial question is for commentary, not for translation. The text-as-received names camels; the historical-critical question is when the text-as-received reached this form. The claim_type is *inferred* because the camel-as-anachronism reading is a *scholarly inference* from archaeological evidence external to the text; the inference is well-established in the consensus but is not a direct claim of the text itself.",
+      "appliesTo": [
+        "GEN-12:16",
+        "GEN-24:10",
+        "GEN-24:11",
+        "GEN-24:64",
+        "GEN-30:43",
+        "GEN-31:17",
+        "GEN-32:8",
+        "GEN-32:16",
+        "GEN-37:25"
+      ]
+    },
+    {
+      "id": "nega-pharaoh-proto-exodus",
+      "source": "וַיְנַגַּע יְהוָה אֶת־פַּרְעֹה נְגָעִים גְּדֹלִים",
+      "translit": "vaynagga YHWH et-Par'oh n'ga'im g'dolim",
+      "strongs": "H5060 + H5061",
+      "partOfSpeech": "verb (piel) + noun (cognate)",
+      "literal": "YHWH afflicted Pharaoh with great plagues",
+      "standardEnglish": "the LORD plagued Pharaoh ... with great plagues",
+      "wohChoice": "YHWH afflicted Pharaoh ... with great plagues",
+      "claim_type": "inferred",
+      "rationale": "**The first plague-on-a-Pharaoh in the Hebrew Bible, and the verse most often cited in scholarship on Genesis 12 as proto-Exodus typology.** // *Vaynagga YHWH et-Par'oh n'ga'im g'dolim* — *YHWH afflicted Pharaoh with great plagues*. The verb *naga* (n-g-' qal/piel) means *touch, strike, afflict, smite*. The cognate noun *nega* (plague, blow, stroke, affliction-mark) is the technical Hebrew term for divinely-sent affliction across the Pentateuch. **Leviticus 13–14** uses *nega* extensively for the ritual-impurity category of skin-disease (the so-called *tzara'at* of 'leprosy'). **Deuteronomy 24:8** uses *nega ha-tzara'at* in the same sense. The root carries a specifically *cultic-juridical* connotation: the plague is not natural illness but divinely-imposed mark. // **The chapter's typological link to the Exodus is structurally precise.** The Exodus narrative uses the same root *naga / nega* for the divine plagues against Egypt: most decisively at **Exodus 11:1**, in YHWH's announcement of the tenth plague to Moses: *od nega echad avi al-Par'oh v'al-Mitsrayim* — *one more plague (nega) I will bring upon Pharaoh and upon Mitsrayim*. The same noun, the same construction with *al* (upon), the same subject (YHWH), the same object (Pharaoh and Mitsrayim). // **The Abram-Pharaoh / Moses-Pharaoh parallel structure** can be tabulated cleanly: famine drives Israel down to Mitsrayim → Pharaoh oppresses (taking Sarai here; enslavement in Exodus) → YHWH afflicts Pharaoh with plagues (*n'ga'im g'dolim* / *n'ga'im*) → Pharaoh summons the Hebrew patriarch / prophet (v 18 here; Exod 12:31 there) → Pharaoh expels the Hebrews (v 20 here; Exod 12:33 there) → the Hebrews depart with great substance (vv 16, 20 — the gift-list; Exod 12:35–36 — the spoiling of the Egyptians). The structural parallel is extensive enough that critical scholarship (**Garbini, *History and Ideology in Ancient Israel*, 1988**; **Crüsemann, *The Torah*, 1992**; **Sarna, *JPS Torah Commentary*, 1989**) treats Gen 12:10–20 as a **deliberate prefiguration** of the Exodus, composed or redacted in light of the later narrative. // **Two readings of the parallel** in critical scholarship: (a) **typological redaction** — Gen 12:10-20 was composed late, modeled on the Exodus narrative, and inserted into the Abrahamic cycle to establish Abram as proto-Moses and the patriarchal descent-and-return as proto-Exodus; (b) **convergent type-scene** — both narratives draw on a common topos of foreign-court appropriation-and-deliverance, with no necessary direction of dependence. Most modern critical scholars (Westermann, Sarna, Alter) favor (a). // The WoH translation reads 'great plagues' matching ASV — preserves the cognate link to Exodus. The claim_type is *inferred* because the proto-Exodus reading is a *scholarly inference* from the verbal parallels — well-established in the consensus but a literary-critical synthesis rather than an explicit claim of either text.",
+      "appliesTo": [
+        "GEN-12:17"
+      ]
+    },
+    {
+      "id": "va-y-shalchu-expulsion",
+      "source": "וַיְשַׁלְּחוּ אֹתוֹ",
+      "translit": "vay'shal'chu oto",
+      "strongs": "H7971",
+      "partOfSpeech": "verb, piel imperfect (waw-consecutive)",
+      "literal": "and they sent him away / dismissed him / expelled him",
+      "standardEnglish": "and they sent him away",
+      "wohChoice": "and they sent him away",
+      "claim_type": "inferred",
+      "rationale": "**The chapter closes with the verb that will close the Exodus.** // The verb *shalach* in the piel stem (*shillach*) is the Hebrew Bible's standard term for **expulsion / sending-out / dismissal** of persons. The piel intensifies the qal *shalach* (send) toward forced removal: not merely *send* but *send off, dismiss, expel, set free*. The same piel verb governs the keystone Exodus moments: // **Exodus 6:1** — YHWH's promise to Moses that Pharaoh will send Israel out: *b'yad chazaqah y'shalchem u-v'yad chazaqah y'gar'shem me-artzo* — *with a strong hand he will send them out (y'shalchem), and with a strong hand he will drive them out from his land*. // **Exodus 11:1** — YHWH's announcement of the tenth plague: *acharei khen y'shalach et'khem mi-zeh, k'shalcho kalah garesh y'garesh et'khem mi-zeh* — *after that he will send you out (y'shalach) from here; when he sends you out completely (k'shalcho kalah), he will utterly drive you out from here*. // **Exodus 12:33** — the immediate aftermath of the tenth plague: *vatechezaq Mitsrayim al-ha-am l'maher l'shalcham min ha-aretz* — *the Mitsrim were urgent upon the people, to send them out (l'shalcham) from the land in haste*. // **The verbal link is exact.** The Abram-expulsion of Gen 12:20 is verbally identical to the Israel-expulsion of Exod 12:33 — the same piel of *sh-l-ch*, the same context of Pharaonic dismissal under divine pressure, the same outcome of departure with great substance. The chapter verbally closes its proto-Exodus structure with the verb that will verbally open the Exodus's final scene. // The structural parallel discussed in scholarship (**Sarna, JPS, 1989**; **Garbini**, 1988; **Crüsemann**, 1992; the wider Pentateuchal-criticism literature) extends to the detail of *vay'shal'chu oto v'et-ishto v'et-kol-asher-lo* (sent him with his wife and all that he had), which parallels the Exodus departure-of-Israel-with-spoils. The chapter ends with Abram-and-household leaving Mitsrayim wealthier than they arrived, escorted out under royal command — the prefiguration of what Israel will do at the Exodus. // The WoH translation reads 'and they sent him away' matching ASV — preserves the verbal link forward to Exod 12:33. The claim_type is *inferred* because the proto-Exodus expulsion-verb reading is a *literary-critical inference* well-established in the consensus but synthetic across the two passages.",
+      "appliesTo": [
+        "GEN-12:20"
       ]
     }
   ]
