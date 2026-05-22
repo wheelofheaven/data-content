@@ -1,13 +1,13 @@
 {
   "$schema": "./translation-glossary-schema.json",
   "name": "Wheel of Heaven Translation Glossary",
-  "version": "2.4.0",
-  "released": "2026-05-21",
+  "version": "2.5.0",
+  "released": "2026-05-22",
   "description": "Lexical decisions made by the Wheel of Heaven Translation Program. Distinct from content/i18n/glossary.json, which records site-UI terminology. Each entry records a source-language term, the standard PD-translation rendering, the WoH choice, the rationale, and the verses where the choice applies. Pinned to per-chapter translations via `glossaryVersion` in chapter metadata.",
   "sourceLanguages": [
     "he"
   ],
-  "scopeNote": "v1.0.0 covered Genesis 1; v1.9.0 reached Genesis 9; v2.0.0 revised the taninim entry; v2.1.0 added Genesis 10-11; v2.2.0 added Ezekiel 1; v2.3.0 added Ezekiel 10. v2.4.0 adds Ezekiel 37 (10 entries — valley of dry bones + the two-sticks reunification). The Ezekiel triptych (chs 1, 10, 37) is now glossary-complete; the production glossary has now generalized across both Genesis and Ezekiel without modifying any prior entries.",
+  "scopeNote": "v1.0.0 covered Genesis 1; v2.0.0 revised taninim; v2.1.0 added Gen 10-11; v2.2.0 added Ezek 1; v2.3.0 added Ezek 10; v2.4.0 added Ezek 37. v2.5.0 adds Job 1-2 (15 entries) — the project's third book extension. The keystone entry: ha-satan (the adversary, role-not-name), preserving the Hebrew definite article and the modern scholarly consensus reading against the proper-name 'Satan' Christian-tradition retrojection. The chapter brings the production glossary across three books (Genesis, Ezekiel, Job) without modifying any prior entry.",
   "terms": [
     {
       "id": "bereshit",
@@ -3361,6 +3361,251 @@
       "appliesTo": [
         "EZK-37:26",
         "EZK-37:27"
+      ]
+    },
+    {
+      "id": "ha-satan",
+      "source": "הַשָּׂטָן",
+      "translit": "ha-satan",
+      "strongs": "H7854",
+      "partOfSpeech": "noun + definite article",
+      "literal": "the adversary",
+      "standardEnglish": "Satan",
+      "wohChoice": "the adversary",
+      "claim_type": "inferred",
+      "rationale": "***Ha-satan*** (הַשָּׂטָן) is the Hebrew Bible's most-contested single noun. The Hebrew preserves the **definite article** *ha* — *the satan*, *the adversary* — making this a **functional role, not a proper name**. The Christian-tradition rendering 'Satan' (capitalized, proper-name) loses the article and personifies what the Hebrew presents as a council-role. // The lexical core: *satan* (שָׂטָן) is the standard Hebrew noun for *adversary, accuser, prosecutor*. Same root as the verb *satan* (oppose, accuse). The noun appears across the Hebrew Bible: Num 22:22, 32 (YHWH's malakh standing as a *satan* — adversary — in Balaam's path); 1 Sam 29:4 (David called a potential *satan* to the Philistines); 2 Sam 19:23 (Abishai called a *satan* to David); 1 Kgs 5:18, 11:14, 11:23, 11:25 (political adversaries); Ps 109:6 (a satan standing at the right hand of the accused). In none of these is *satan* a proper name; it is a functional role. // The Hebrew Bible has only **three contexts** where *satan* appears with the definite article: Job 1-2, Zech 3:1-2 (*ha-satan* standing at the right hand of the high priest Joshua to accuse him), and the implied parallel of 1 Chr 21:1 (where *satan* notably *lacks* the article — possibly transitional to proper-name usage). In Job and Zechariah, the figure is **a council member** functioning as adversarial-prosecutor; in 1 Chronicles 21:1 the grammar is ambiguous. // The figure of *Satan-the-devil* in later Christian theology is built up over centuries from disparate sources (the serpent of Gen 3, the morning-star of Isa 14, the prince of Tyre of Ezek 28, the dragon of Rev 12, the diabolos of the NT). The Hebrew Bible's *ha-satan* of Job 1-2 is **not yet this figure**. The chapter stages ha-satan as: (1) a member of the *bnei ha-elohim* divine council (1:6, 2:1 — *gam ha-satan b'tokham*, *the satan also came among them*); (2) operating under YHWH's delegated authority (1:12, 2:6 — YHWH grants permission and sets the limits); (3) functioning as adversarial-prosecutor or tester (the role-function of the council). The figure is **adversarial-but-not-adversarial-to-YHWH** — adversarial *to Job* in the test-function, but operating *within* YHWH's authority. // The WoH translation preserves the Hebrew article — **'the adversary'** (lowercase, with definite article). This matches the modern scholarly consensus: NJPS Tanakh ('the Adversary'), Clines's Anchor Bible commentary, Habel's OTL commentary, Newsom in the New Interpreter's Bible, Greenberg, Mettinger. The translation does not commit to the proper-name reading and does not pre-empt the reader's encounter with the chapter's actual figure. // Reclassified as `inferred` because the choice between 'the adversary' (preserving the Hebrew article and role-function) and 'Satan' (the Christian-tradition retrojection) is a genuine interpretive call. The lexical evidence and the modern scholarly consensus support the role-function reading; the proper-name reading is the standard English-tradition default. The WoH translation goes with the role-function reading and surfaces the choice in commentary. // The Wheel of Heaven lens reads ha-satan as a council-internal adversarial-tester — a function within the divine governance, not an autonomous evil counterforce. This is the modern divine-council reading (Heiser's *The Unseen Realm*; the classic Mesopotamian *mukallimu* — interrogator/prosecutor — parallel) and is consistent with the WoH framing of the divine system as multi-figure-with-internal-functions.",
+      "appliesTo": [
+        "JOB-1:6",
+        "JOB-1:7",
+        "JOB-1:8",
+        "JOB-1:9",
+        "JOB-1:12",
+        "JOB-2:1",
+        "JOB-2:2",
+        "JOB-2:3",
+        "JOB-2:4",
+        "JOB-2:5",
+        "JOB-2:6",
+        "JOB-2:7"
+      ]
+    },
+    {
+      "id": "mit'yatzev-al-YHWH",
+      "source": "לְהִתְיַצֵּב עַל־יְהוָה",
+      "translit": "l'hityatzev al-YHWH",
+      "strongs": "H3320 + H3068",
+      "partOfSpeech": "verbal phrase, hithpael infinitive",
+      "literal": "to present oneself before YHWH",
+      "standardEnglish": "to present themselves before the LORD",
+      "wohChoice": "to present themselves before YHWH",
+      "claim_type": "direct",
+      "rationale": "*L'hityatzev* (לְהִתְיַצֵּב) is the hithpael infinitive of *yatzav* — *to take a stand, station oneself, present oneself*. The hithpael denotes reflexive-formal action: the bnei ha-elohim *present themselves* (place themselves) before YHWH. // The phrase appears at Job 1:6, 2:1 as a **periodic-court-assembly** formula. The same verbal form recurs in Hebrew Bible contexts of formal presentation: Num 11:16 (the seventy elders presenting themselves at the Tent of Meeting), Deut 31:14 (Moses and Joshua presenting themselves), Josh 24:1 (Israel presenting itself at Shechem), 1 Sam 10:19 (Israel presenting itself for Saul's coronation), 2 Chr 11:13 (the priests presenting themselves to Rehoboam). The verb's standard semantic field is **court-presentation** — appearing before a sovereign or authority. // The Job 1:6 and 2:1 verses are staging a **periodic divine-council assembly**: the bnei ha-elohim come to present themselves before YHWH on a recurring basis. The chapter is positioning this as standard procedure — *vay'hi ha-yom* (the day came) opens the scene as a *day-when-this-happens*, implying repetition. The WoH translation preserves the formal-court register and the YHWH name (not 'the LORD').",
+      "appliesTo": [
+        "JOB-1:6",
+        "JOB-2:1"
+      ]
+    },
+    {
+      "id": "shut-ba-aretz",
+      "source": "מִשּׁוּט בָּאָרֶץ וּמֵהִתְהַלֵּךְ בָּהּ",
+      "translit": "mi-shut ba-aretz u-me-hithallekh bah",
+      "strongs": "H7751 + H1980",
+      "partOfSpeech": "verbal phrase",
+      "literal": "from roaming the earth and walking back and forth on it",
+      "standardEnglish": "from going to and fro in the earth, and from walking up and down in it",
+      "wohChoice": "from roaming the earth and walking back and forth on it",
+      "claim_type": "direct",
+      "rationale": "Ha-satan's self-description at Job 1:7 and 2:2. Two verbs of locomotion: *shut* (rove, range, traverse) and *hithallekh* (hithpael of *halakh* — walk-about, walk habitually). // The hithpael *mit'hallekh* / *hithallekh* is the chapter's most pointed lexical echo. The same verbal form is used of: YHWH-Elohim *walking about* in the garden of Eden (Gen 3:8 — *mit'hallekh ba-gan*), Enoch *walking about* with the Elohim (Gen 5:22, 24 — *vayit'hallekh Chanokh et ha-Elohim*), Noah *walking about* with the Elohim (Gen 6:9 — *et ha-Elohim hit'hallekh Noach*), and divine-presence-imagery in 2 Sam 7:6-7, Lev 26:12, Deut 23:15. The verb denotes habitual, at-home, frequent movement-in-residence. // Ha-satan walks-about *on the earth* — in the same verbal form as the patriarchs walked-about *with the Elohim*. The chapter is positioning ha-satan as having the earth as its movement-domain in the same residential-habitual register as the antediluvian-favored figures had divine company as theirs. The function is **territorial-investigative** — ranging the earth, presumably gathering information for the council. The verbal echo across Gen 3:8, 5:22-24, 6:9 and Job 1:7, 2:2 is one of the Hebrew Bible's quieter cross-textual linkages. // The WoH translation preserves the standard rendering 'roaming the earth and walking back and forth on it' — the language is straightforward; the lexical echo is for the commentary to surface.",
+      "appliesTo": [
+        "JOB-1:7",
+        "JOB-2:2"
+      ]
+    },
+    {
+      "id": "ish-uz",
+      "source": "אִישׁ הָיָה בְאֶרֶץ־עוּץ",
+      "translit": "ish hayah b'eretz Uz",
+      "strongs": "H376 + H5780",
+      "partOfSpeech": "noun phrase",
+      "literal": "a man there was in the land of Uz",
+      "standardEnglish": "there was a man in the land of Uz",
+      "wohChoice": "a man there was in the land of Uz",
+      "claim_type": "direct",
+      "rationale": "*Eretz Uz* — *the land of Uz* — is the geographic-cultural setting of the book of Job. Uz is identified in Gen 10:23 as descended from Aram (Shem's line), in Gen 22:21 as Nahor's eldest son, and in Gen 36:28 as a Horite/Edomite figure. The location is generally placed east of the Jordan, possibly in northern Arabia or Edom (Lam 4:21 locates 'the daughter of Edom dwelling in the land of Uz'). // The chapter is staging Job's story **outside Israel** — among the Aramean / Edomite peripheries, in a non-Israelite cultural sphere. This is consistent with the book's broader Wisdom-literature register (cf. the Aramean / Edomite identifications of Job's three friends at 2:11). The book is positioning itself as **international Wisdom literature** — cognate with Mesopotamian, Egyptian, and broader ANE wisdom-tradition texts. // The WoH translation preserves *Uz* as the Hebrew form (matching the project's general preservation of toponyms). The verb-noun-noun word order in the Hebrew opening (*ish hayah b'eretz Uz Iyov shmo* — 'a man there was in the land of Uz, Job by name') is the standard folktale-opening register; the WoH rendering preserves the inverted opening rather than smoothing to 'There was a man'.",
+      "appliesTo": [
+        "JOB-1:1"
+      ]
+    },
+    {
+      "id": "tom-v-yashar",
+      "source": "תָּם וְיָשָׁר",
+      "translit": "tam v-yashar",
+      "strongs": "H8535 + H3477",
+      "partOfSpeech": "adjective pair",
+      "literal": "complete and upright",
+      "standardEnglish": "perfect and upright",
+      "wohChoice": "blameless and upright",
+      "claim_type": "direct",
+      "rationale": "The chapter's signature characterization of Job: *tam v'yashar yere Elohim v'sar me-ra* — *blameless and upright, one who feared Elohim and turned from evil*. The pair recurs at 1:1, 1:8, 2:3 — each time as the affirmation of Job's standing. // *Tam* (תָּם) — from *tom* (completeness, integrity, wholeness) — is **not 'perfect' in the moral-absolute sense**. The KJV/ASV rendering 'perfect' is misleading in modern English (which reads 'perfect' as flawless / mistake-free). The Hebrew *tam* is closer to **'blameless / whole / unblemished'** — the same root that names the ritually-unblemished sacrificial animals (*tamim*, *temimah*). Job is not asserted as morally-perfect; he is asserted as *whole / blameless / without compromising flaw*. // *Yashar* (יָשָׁר) — *upright, straight* — is the ethical-conduct twin of *tam*. The pair together names character (*tam* — internal wholeness) + conduct (*yashar* — external straightness). The Job-formula is the canonical Wisdom-literature character-affirmation. // The WoH translation goes with 'blameless and upright' (matching NJPS, NRSV, modern scholarly translations) — drops 'perfect' (KJV/ASV) which mis-modernizes.",
+      "appliesTo": [
+        "JOB-1:1",
+        "JOB-1:8",
+        "JOB-2:3"
+      ]
+    },
+    {
+      "id": "avdi-iyov",
+      "source": "עַבְדִּי אִיּוֹב",
+      "translit": "avdi Iyov",
+      "strongs": "H5650 + H347",
+      "partOfSpeech": "noun phrase",
+      "literal": "my servant Job",
+      "standardEnglish": "my servant Job",
+      "wohChoice": "my servant Job",
+      "claim_type": "direct",
+      "rationale": "YHWH refers to Job as *avdi* — *my servant* — at Job 1:8 and 2:3. The designation is canonical Hebrew Bible high-status: *avdi* is used of Moses (Num 12:7-8, Deut 34:5, Josh 1:2, Mal 4:4), David (2 Sam 7:5, 1 Kgs 11:13, 1 Kgs 14:8, Isa 37:35), the Patriarchs (Ex 32:13 — *Abraham, Yitzchak, Yisrael avadekha*), Isaiah's Suffering Servant (Isa 52:13), Zerubbabel (Hag 2:23), and a small set of other figures of singular covenantal-relational status. // The chapter positions Job in this elite category. The chapter is staging Job as a figure of high covenantal status by YHWH's own designation — an *avdi* alongside Moses, David, Abraham. // The standard English 'my servant Job' is the canonical rendering; the WoH translation preserves it.",
+      "appliesTo": [
+        "JOB-1:8",
+        "JOB-2:3"
+      ]
+    },
+    {
+      "id": "chinnam",
+      "source": "חִנָּם",
+      "translit": "chinnam",
+      "strongs": "H2600",
+      "partOfSpeech": "adverb",
+      "literal": "for nothing, gratis, without cause",
+      "standardEnglish": "for nothing / for nought / without cause",
+      "wohChoice": "for nothing",
+      "claim_type": "direct",
+      "rationale": "The book's keystone single word at Job 1:9 — ha-satan's accusation: *ha-chinnam yare Iyov Elohim* — *does Job fear Elohim for nothing?* The word *chinnam* (חִנָּם, from the root *chen* — favor, grace) means *gratis, for nothing, without compensation, without cause*. // The word appears in many Hebrew Bible contexts: Gen 29:15 (Laban: 'should you serve me *for nothing*?'), Ex 21:2, 11 (the freed slave goes out *chinnam*), Num 11:5 (the fish 'we ate in Egypt *chinnam*' — without cost), Ezek 6:10, 14:23 (YHWH's actions are not *chinnam*), Ps 35:7, 19, 69:5, 109:3, 119:161 (those who hate without cause), Prov 1:11, 1:17, 3:30, 23:29, 24:28, 26:2 (gratuitous violence, gratuitous beating). The semantic field clusters around *transactional vs. gratuitous* and *with-reason vs. without-reason*. // The word returns in 2:3, this time with a reversed application: YHWH says ha-satan *incited me against him to swallow him chinnam* — *without cause*. The chapter's wordplay turns on this reversal: ha-satan accused Job of being righteous *chinnam* (transactional, i.e., not really gratuitous — paid); YHWH accuses ha-satan of being adversarial *chinnam* (gratuitously, without cause). The same word reverses orientation between the two parties. // The book's broader theological argument turns on the question of unconditional vs. transactional relationship. *Chinnam* is the keyword the book uses to mark the issue.",
+      "appliesTo": [
+        "JOB-1:9",
+        "JOB-2:3"
+      ]
+    },
+    {
+      "id": "berakh-as-euphemism",
+      "source": "וּבֵרֲכוּ אֱלֹהִים בִּלְבָבָם / יְבָרֲכֶךָּ / בָּרֵךְ אֱלֹהִים וָמֻת",
+      "translit": "u-verakhu Elohim bilvavam / y'varakhekka / barekh Elohim va-mut",
+      "strongs": "H1288",
+      "partOfSpeech": "verb (used as euphemism)",
+      "literal": "and they blessed Elohim in their hearts (= cursed)",
+      "standardEnglish": "they cursed God (using 'blessed' as euphemism)",
+      "wohChoice": "blessed (rendered 'cursed' where euphemism applies)",
+      "claim_type": "direct",
+      "rationale": "The book of Job uses the verb *barakh* (בָּרַךְ — bless) as a **euphemism for *qillel*/*arar* (curse)** in four passages: 1:5, 1:11, 2:5, 2:9. The reverential-substitution device is well-attested in the Hebrew Bible: when the text needs to put curse-language next to *Elohim* or *YHWH*, the scribal tradition substitutes *barakh* (bless) for the literal curse-verb. The substitution makes the meaning clear from context — the audience is meant to read 'bless' but understand 'curse'. // The same scribal device appears at 1 Kgs 21:10, 13 (Naboth allegedly *blessed* — i.e., cursed — Elohim and the king); Ps 10:3 (where the LXX reads *bless*, the Hebrew context implies *curse*). The Talmudic tradition (b. Berakhot 5b) explicitly identifies the device as a *tikkun soferim* (scribal correction) — a deliberate substitution to avoid placing curse-words next to divine references. // The WoH translation handles the euphemism case-by-case: where the literal *barakh* (bless) is what the chapter means (e.g., Job 1:21 *y'hi shem YHWH m'vorakh* — *may the name of YHWH be blessed*), the rendering is 'bless'. Where the chapter is using *barakh* as the curse-euphemism (1:5, 1:11, 2:5, 2:9), the rendering is 'curse' — restoring what the text actually means — with commentary surfacing the scribal-euphemistic device. // This is one of the few places in the WoH translation where the chosen English **differs from the literal Hebrew verb** — driven by the textual tradition's own evidence about the device.",
+      "appliesTo": [
+        "JOB-1:5",
+        "JOB-1:11",
+        "JOB-2:5",
+        "JOB-2:9"
+      ]
+    },
+    {
+      "id": "esh-elohim",
+      "source": "אֵשׁ אֱלֹהִים נָפְלָה מִן־הַשָּׁמַיִם",
+      "translit": "esh Elohim nafelah min ha-shamayim",
+      "strongs": "H784 + H430 + H8064",
+      "partOfSpeech": "noun phrase",
+      "literal": "fire of Elohim fell from the skies",
+      "standardEnglish": "fire of God fell from heaven",
+      "wohChoice": "fire of Elohim fell from the skies",
+      "claim_type": "direct",
+      "rationale": "*Esh Elohim* (fire of Elohim) is the Hebrew Bible's designation for **divinely-sent fire** — lightning, supernatural conflagration, or fire-of-divine-origin in general. The phrase appears in 1 Kgs 18:38 (the fire that consumes Elijah's sacrifice on Mount Carmel), 2 Kgs 1:10, 12 (the fire Elijah calls down on the captains of fifties), Job 1:16 (here). The category-noun *Elohim* in the compound functions as an intensifier-genitive: 'God-fire' = fire of divine origin / divinely-sent fire. // The chapter at Job 1:16 names the second disaster as *esh Elohim nafelah min ha-shamayim* — *fire of Elohim fell from the skies*. The verb *nafal* (fall) and the source *min ha-shamayim* (from the skies) name a **descent-from-above fire phenomenon** — consistent with lightning or atmospheric-electrical discharge. The WoH translation preserves the literal compound (esh + Elohim) and the YHWH-translation convention; the commentary surfaces the lightning / meteorological reading.",
+      "appliesTo": [
+        "JOB-1:16"
+      ]
+    },
+    {
+      "id": "ruach-gedolah-midbar",
+      "source": "רוּחַ גְּדוֹלָה בָּאָה מֵעֵבֶר הַמִּדְבָּר",
+      "translit": "ruach gedolah ba'ah me-ever ha-midbar",
+      "strongs": "H7307 + H1419 + H4057",
+      "partOfSpeech": "noun phrase",
+      "literal": "a great wind came from beyond the desert",
+      "standardEnglish": "a great wind came from the wilderness",
+      "wohChoice": "a great wind came from beyond the desert",
+      "claim_type": "direct",
+      "rationale": "Job 1:19 names the fourth disaster as a *ruach gedolah* — a *great wind* — coming *me-ever ha-midbar* (from beyond the desert). The compound *ruach + gedolah* uses the same root *ruach* as the Gen 1:2 cosmogonic *ruach Elohim* and the Ezekiel-vision *ruach-chayyot* — but here in the *wind*-register of the noun's three-fold lexical field (breath / wind / spirit). // The verse describes a **localized strong wind-event**: it came from across the desert, struck the four corners of the house simultaneously, brought the house down on the occupants. The combination of *coming from beyond the desert*, *striking all four corners at once*, and *causing total structural collapse* fits a downburst or strong desert windstorm (khamsin / sharqi). The chapter is naming a *meteorological* disaster — natural-causal, but described in vocabulary that surfaces the *ruach* etymological cluster the book of Job will return to in chapters 26, 27, 38. // *Me-ever ha-midbar* — *from beyond the desert* — names the wind's directional origin. The desert (*midbar*) is the southern/eastern wilderness; the wind is coming from across it (i.e., from further east — the Arabian or Mesopotamian quarter).",
+      "appliesTo": [
+        "JOB-1:19"
+      ]
+    },
+    {
+      "id": "YHWH-natan-YHWH-laqach",
+      "source": "יְהוָה נָתַן וַיהוָה לָקָח יְהִי שֵׁם יְהוָה מְבֹרָךְ",
+      "translit": "YHWH natan v'YHWH laqach — y'hi shem YHWH m'vorakh",
+      "strongs": "H3068 + H5414 + H3947 + H1288",
+      "partOfSpeech": "parallel verb phrase",
+      "literal": "YHWH gave and YHWH has taken — may the name of YHWH be blessed",
+      "standardEnglish": "the LORD gave and the LORD has taken away; blessed be the name of the LORD",
+      "wohChoice": "YHWH gave, and YHWH has taken; may the name of YHWH be blessed",
+      "claim_type": "direct",
+      "rationale": "Job's first-test response at 1:21 — the book's most-quoted line. *YHWH natan v'YHWH laqach* — *YHWH gave and YHWH has taken*. The two clauses are perfectly balanced: the same divine subject (YHWH), the opposite actions (*natan* — gave, *laqach* — took), the same simple syntax. // The chapter's keystone theological claim: Job acknowledges that the same agent who *gave* now *takes*. The acknowledgment is unconditional — neither the giving nor the taking changes Job's orientation. The response closes with *y'hi shem YHWH m'vorakh* — *may the name of YHWH be blessed* — using *barakh* in its **strict-positive sense** (here genuinely *blessed*, not the euphemism-for-curse of v5, v11). // The verse is the precise inverse of the adversary's prediction (v11): the adversary expected Job to *curse* (using *barakh* as euphemism); Job actually *blesses* (using *barakh* in its strict sense). The verbal symmetry across vv 11 and 21 is the chapter's signature rhetorical move — the same Hebrew verb *barakh* used twice with opposite intended meanings, one euphemism, one strict-positive. // The WoH translation preserves YHWH (not 'the LORD') and the balanced parallel structure.",
+      "appliesTo": [
+        "JOB-1:21"
+      ]
+    },
+    {
+      "id": "or-be-ad-or",
+      "source": "עוֹר בְּעַד־עוֹר",
+      "translit": "or be'ad or",
+      "strongs": "H5785 + H1157",
+      "partOfSpeech": "proverbial phrase",
+      "literal": "skin for skin",
+      "standardEnglish": "skin for skin",
+      "wohChoice": "skin for skin",
+      "claim_type": "direct",
+      "rationale": "Ha-satan's proverb at Job 2:4: *or be'ad or v'khol asher la-ish yiten be'ad nafsho* — *skin for skin — all that a person has, he will give for his life*. The Hebrew preposition *be'ad* (for, on behalf of, in exchange for) sets up an exchange-relationship. // The proverb has been read in two main ways: (1) *self-preservation reading*: skin (Job's body) is what he'll give in exchange for his life — i.e., he'll sacrifice anything *up to* his own bodily integrity to preserve his life; (2) *substitution reading*: one sheds the skin of others (children, servants) to save one's own skin — i.e., Job tolerated the first test because the losses were external; he'll break when the test reaches his own body. // Both readings converge on the same prediction: the next test must reach Job's body. The chapter's argument-structure is escalating from *what Job has* to *what Job is*. // The proverb *or be'ad or* is **not** securely attested in any other ANE source. The construction is unique in the Hebrew Bible. The chapter is staging the adversary as using folk-wisdom that the audience would recognize — but modern scholars cannot fully reconstruct the proverb's standard usage outside this context. The WoH translation preserves the literal 'skin for skin' and lets the commentary surface the two reading-tracks.",
+      "appliesTo": [
+        "JOB-2:4"
+      ]
+    },
+    {
+      "id": "shechin-ra",
+      "source": "שְׁחִין רָע מִכַּף רַגְלוֹ וְעַד קָדְקֳדוֹ",
+      "translit": "shechin ra mi-kaf raglo v'ad qodqodo",
+      "strongs": "H7822 + H7451",
+      "partOfSpeech": "noun phrase",
+      "literal": "severe sores from the sole of his foot to the crown of his head",
+      "standardEnglish": "sore boils from the sole of his foot unto his crown",
+      "wohChoice": "severe sores from the sole of his foot to the crown of his head",
+      "claim_type": "direct",
+      "rationale": "Job 2:7 names the second-test affliction as *shechin ra* — *severe sores*. *Shechin* (שְׁחִין) is the Hebrew Bible's standard term for **severe inflammatory skin afflictions**. The term appears at Ex 9:9-11 (the sixth Egyptian plague — *shechin* breaking out on humans and beasts), Lev 13:18-23 (priestly diagnosis of skin disease in the holiness code), Deut 28:27, 35 (curses of the covenant), 2 Kgs 20:7 / Isa 38:21 (Hezekiah's affliction). // The exact dermatological identification has been debated extensively. Proposals include: smallpox, severe boils, pemphigus, infected eruption, generalized impetigo, leprosy (in the old broad sense). The chapter does not specify the medical-diagnostic detail. The qualifier *ra* (bad, severe, evil) intensifies — *shechin ra* is the affliction at its worst grade. // *Mi-kaf raglo v'ad qodqodo* — *from the sole of his foot to the crown of his head* — is the standard Hebrew Bible totality-formula (cf. Deut 28:35, 2 Sam 14:25, Isa 1:6). The affliction is bodily-comprehensive: every inch of Job's skin is covered.",
+      "appliesTo": [
+        "JOB-2:7"
+      ]
+    },
+    {
+      "id": "tov-v-ra-nqabel",
+      "source": "גַּם אֶת־הַטּוֹב נְקַבֵּל מֵאֵת הָאֱלֹהִים וְאֶת־הָרָע לֹא נְקַבֵּל",
+      "translit": "gam et ha-tov n'qabel me-et ha-Elohim v'et ha-ra lo n'qabel",
+      "strongs": "H2896 + H7451 + H6901",
+      "partOfSpeech": "interrogative-rhetorical clause",
+      "literal": "shall we accept the good from the Elohim and not accept the bad",
+      "standardEnglish": "shall we receive good at the hand of God, and shall we not receive evil?",
+      "wohChoice": "should we accept good from the Elohim and not accept bad?",
+      "claim_type": "direct",
+      "rationale": "Job's second-test response at 2:10. The rhetorical question is the chapter's keystone theological-philosophical move: the symmetry of acceptance is required by the relationship. If you accept the good as coming from a single source, you accept the bad as coming from the same source. // The verbal pair *tov v-ra* (good and bad) is the **same vocabulary cluster** as Gen 2:9, 2:17 (the tree of *da'at tov v-ra* — *knowing good and bad*) and Gen 3:5, 3:22 (the human became like the Elohim, *yode'ei tov v-ra* — *knowing good and bad*). The chapter is invoking the Edenic-vocabulary cluster: humans *know good and bad*. The capacity to know good and bad — acquired in Gen 3 — is here applied. Job *knows* both, and accepts both. // The verb *n'qabel* (we shall accept, from *qibel* — receive, accept) is the chapter's standing-claim verb. Job is not endorsing the bad; he is accepting it **as coming from the same source as the good**. The chapter is making a sophisticated theological-philosophical move: the categorial unity of good and bad in the divine economy. // *Me-et ha-Elohim* (from the Elohim, with the definite article *ha*) — Job refers to *the Elohim* (the divine source, as a class-noun with definite article — matching the WoH project's general convention). The translation preserves *the Elohim*.",
+      "appliesTo": [
+        "JOB-2:10"
+      ]
+    },
+    {
+      "id": "shlosha-re-ei-iyov",
+      "source": "שְׁלֹשֶׁת רֵעֵי אִיּוֹב",
+      "translit": "shloshet re'ei Iyov",
+      "strongs": "H7969 + H7453 + H347",
+      "partOfSpeech": "noun phrase",
+      "literal": "the three companions of Job",
+      "standardEnglish": "Job's three friends",
+      "wohChoice": "the three companions of Job",
+      "claim_type": "direct",
+      "rationale": "The three friends of Job — *Elifaz ha-Temani* (Eliphaz the Temanite), *Bildad ha-Shuchi* (Bildad the Shuhite), *Tzofar ha-Na'amati* (Zophar the Naamathite) — are introduced at 2:11. The Hebrew *re'a* (רֵעַ) covers *friend, companion, neighbor* — a relational-equal, not subordinate or superordinate. // The three are all **non-Israelite peripheral-Aramean Wisdom figures**. *Teman* is a region in Edom (the southern Transjordan), known for wisdom-tradition (Jer 49:7 — 'is wisdom no more in Teman?'). *Shuach* is one of Abraham's sons by Keturah (Gen 25:2), associated with the Aramean periphery. *Na'amah* is uncertain — possibly an Edomite-Aramean location. // The chapter is staging the dialogue-tradition (chs 3-31) as **international Wisdom-literature discourse** among Aramean-periphery sages — the same cultural register as Job himself (of Uz, also non-Israelite). The book is positioning itself in the ANE Wisdom-literature tradition (cognate with the Babylonian *Theodicy*, the Egyptian *Eloquent Peasant*, the broader international Wisdom-tradition). // The WoH translation prefers 'the three companions of Job' over the standard 'Job's three friends' — *companions* preserves the relational-equal register and the formal-grouping sense of *re'ei* (a group-of-companions, not loose-friends).",
+      "appliesTo": [
+        "JOB-2:11"
       ]
     }
   ]
