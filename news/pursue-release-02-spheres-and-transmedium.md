@@ -113,4 +113,4 @@ Fourth, the **1948–1950 Sandia documents** are the kind of historical archival
 
 ---
 
-*— Filed May 22, 2026, Wheel of Heaven editorial desk.*
+*— Filed May 22, 2026, by the Wheel of Heaven editorial desk.*
