@@ -6,7 +6,7 @@ template = "library-book.html"
 date = 2026-05-21
 
 [extra]
-translation_status = "planned"
+translation_status = "partial"
 claim_type = "direct"
 source_family = "abrahamic"
 editorial_pass = "2026-05"
