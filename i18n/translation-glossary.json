@@ -1,13 +1,13 @@
 {
   "$schema": "./translation-glossary-schema.json",
   "name": "Wheel of Heaven Translation Glossary",
-  "version": "2.5.0",
+  "version": "2.6.0",
   "released": "2026-05-22",
   "description": "Lexical decisions made by the Wheel of Heaven Translation Program. Distinct from content/i18n/glossary.json, which records site-UI terminology. Each entry records a source-language term, the standard PD-translation rendering, the WoH choice, the rationale, and the verses where the choice applies. Pinned to per-chapter translations via `glossaryVersion` in chapter metadata.",
   "sourceLanguages": [
     "he"
   ],
-  "scopeNote": "v1.0.0 covered Genesis 1; v2.0.0 revised taninim; v2.1.0 added Gen 10-11; v2.2.0 added Ezek 1; v2.3.0 added Ezek 10; v2.4.0 added Ezek 37. v2.5.0 adds Job 1-2 (15 entries) — the project's third book extension. The keystone entry: ha-satan (the adversary, role-not-name), preserving the Hebrew definite article and the modern scholarly consensus reading against the proper-name 'Satan' Christian-tradition retrojection. The chapter brings the production glossary across three books (Genesis, Ezekiel, Job) without modifying any prior entry.",
+  "scopeNote": "v1.0.0 covered Genesis 1; v2.5.0 added Job 1-2. v2.6.0 adds Job 38 (10 entries) — the opening of YHWH's first speech from the whirlwind. Keystone entries: bnei-elohim-yarinu (the third Hebrew Bible attestation of the bnei elohim, at the moment of cosmic founding) and kimah-kesil-mazzarot-ayish (the Hebrew Bible's canonical four-named astronomical-constellation catalogue — Pleiades, Orion, the Zodiac, the Great Bear). The chapter is the densest WoH-cosmology-relevant section of the Hebrew Bible outside Genesis 1 and Ezekiel 1.",
   "terms": [
     {
       "id": "bereshit",
@@ -3606,6 +3606,160 @@
       "rationale": "The three friends of Job — *Elifaz ha-Temani* (Eliphaz the Temanite), *Bildad ha-Shuchi* (Bildad the Shuhite), *Tzofar ha-Na'amati* (Zophar the Naamathite) — are introduced at 2:11. The Hebrew *re'a* (רֵעַ) covers *friend, companion, neighbor* — a relational-equal, not subordinate or superordinate. // The three are all **non-Israelite peripheral-Aramean Wisdom figures**. *Teman* is a region in Edom (the southern Transjordan), known for wisdom-tradition (Jer 49:7 — 'is wisdom no more in Teman?'). *Shuach* is one of Abraham's sons by Keturah (Gen 25:2), associated with the Aramean periphery. *Na'amah* is uncertain — possibly an Edomite-Aramean location. // The chapter is staging the dialogue-tradition (chs 3-31) as **international Wisdom-literature discourse** among Aramean-periphery sages — the same cultural register as Job himself (of Uz, also non-Israelite). The book is positioning itself in the ANE Wisdom-literature tradition (cognate with the Babylonian *Theodicy*, the Egyptian *Eloquent Peasant*, the broader international Wisdom-tradition). // The WoH translation prefers 'the three companions of Job' over the standard 'Job's three friends' — *companions* preserves the relational-equal register and the formal-grouping sense of *re'ei* (a group-of-companions, not loose-friends).",
       "appliesTo": [
         "JOB-2:11"
+      ]
+    },
+    {
+      "id": "min-ha-se-arah",
+      "source": "מִן הַסְּעָרָה",
+      "translit": "min ha-se'arah",
+      "strongs": "H5591",
+      "partOfSpeech": "prepositional phrase",
+      "literal": "from the storm/whirlwind",
+      "standardEnglish": "out of the whirlwind",
+      "wohChoice": "from the whirlwind",
+      "claim_type": "direct",
+      "rationale": "Job 38:1 opens YHWH's first speech with the source-formula *min ha-se'arah* — *from the whirlwind/storm*. The noun *se'arah* (סְעָרָה) is the same word that opens Ezekiel's vision at Ezek 1:4 — *ruach se'arah ba'ah min ha-tzafon* — *a stormy wind coming from the north*. The verbal echo across Job 38:1 and Ezek 1:4 is one of the Hebrew Bible's tighter cross-textual links — both texts stage divine manifestation as **emerging from a storm-vehicle**. // The chapter is positioning YHWH's voice in the same meteorological-vehicular register as Ezekiel's chayyot-throne apparatus. The chapter's reading of the storm as the source-vehicle of the divine voice connects Job 38 to the broader Hebrew Bible theophany-vocabulary (Ex 19:18 the smoke and trembling at Sinai; 1 Kgs 19:11-13 the wind / earthquake / fire at Horeb; Ezek 1:4 the storm-wind from the north). // *Min ha-se'arah* recurs in Job 40:6 (the start of YHWH's second speech). The two divine speeches both open with the same source-formula — the whirlwind is the chapter's standing vehicle for divine address.",
+      "appliesTo": [
+        "JOB-38:1"
+      ]
+    },
+    {
+      "id": "yasad-aretz",
+      "source": "בְּיָסְדִי־אָרֶץ",
+      "translit": "b'yosdi-aretz",
+      "strongs": "H3245 + H776",
+      "partOfSpeech": "verbal phrase",
+      "literal": "in my founding the earth",
+      "standardEnglish": "when I laid the foundations of the earth",
+      "wohChoice": "when I founded the earth",
+      "claim_type": "direct",
+      "rationale": "Job 38:4 opens YHWH's cosmological challenge with *b'yosdi-aretz* — *in my founding the earth*. The verb *yasad* (יָסַד) is the architectural-construction term for **laying a foundation**. The Hebrew Bible uses this verb for: founding cities (1 Kgs 16:34 of Hiel founding Jericho), founding the Temple (Hag 2:18, Zech 4:9), founding the cosmos (Ps 24:2, 78:69, 102:25, 104:5, Isa 48:13, 51:13, 51:16, Prov 3:19). // The chapter is invoking the canonical Hebrew Bible image of the **earth as a built-structure** — sunk on foundations, having a cornerstone, with prescribed dimensions. The architectural register is sustained across Job 38:4-7 with *yasad* (found), *memaddim* (measurements), *qav* (measuring line), *adanim* (bases / pedestals), *even pinnah* (cornerstone). // The English 'when I founded the earth' preserves the architectural verb without smoothing to the generic 'created' or 'made'.",
+      "appliesTo": [
+        "JOB-38:4"
+      ]
+    },
+    {
+      "id": "bnei-elohim-yarinu",
+      "source": "וַיָּרִיעוּ כָּל־בְּנֵי אֱלֹהִים",
+      "translit": "va-yariyu kol bnei Elohim",
+      "strongs": "H7321 + H1121 + H430",
+      "partOfSpeech": "verbal phrase",
+      "literal": "and all the sons of Elohim shouted",
+      "standardEnglish": "and all the sons of God shouted for joy",
+      "wohChoice": "and all the sons of the Elohim shouted for joy",
+      "claim_type": "direct",
+      "rationale": "Job 38:7 is the **third Hebrew Bible attestation of the *bnei elohim* class** (after Gen 6:2-4 and Job 1:6, 2:1). The verse places the *bnei elohim* at the **moment of cosmic founding** — they were *present* and *active* at the foundation of the earth, the same earth Job (and humans generally) were *not* present for. The lens reading is strong: the divine-council class is being placed *at* cosmic origins, not as latecomers. // The verse forms a poetic couplet: *kokhvei voqer* (morning stars) **/** *bnei elohim* (sons of the Elohim). The parallel structure identifies them — the *morning stars sang* / *the bnei elohim shouted*. The same beings, two registers: astronomical (stars) and divine-council (bnei elohim). This is the Hebrew Bible's most explicit parallel between celestial bodies and divine-council members. // The verb *va-yariyu* (hifil of *rua*) is **military-celebratory**: 'raise a shout / sound an alarm / give a war-cry'. The same verb is used of: Israel's shout at the conquest of Jericho (Josh 6:5, 6:16, 6:20), the battle-cry of Israelite armies (Num 10:9, Judg 7:21), liturgical-worship shouts (Ps 47:1, 95:1, 100:1). The bnei-elohim shout at creation is an **organized choral acclamation** — a coordinated military-or-cultic vocalization. // The lens reads the parallel with attention: the WoH framework's broader engagement with the bnei-elohim divine-council reading (see [`b-nei-ha-elohim`](/wiki/sons-of-elohim/)) is supported in canonical Hebrew Bible textual evidence at Job 38:7. The chapter is identifying the divine-council class with celestial beings at the cosmic origin.",
+      "appliesTo": [
+        "JOB-38:7"
+      ]
+    },
+    {
+      "id": "kokhvei-boqer",
+      "source": "כּוֹכְבֵי בֹקֶר",
+      "translit": "kokhvei voqer",
+      "strongs": "H3556 + H1242",
+      "partOfSpeech": "noun phrase",
+      "literal": "morning stars",
+      "standardEnglish": "morning stars",
+      "wohChoice": "morning stars",
+      "claim_type": "direct",
+      "rationale": "Job 38:7's *kokhvei voqer* — *morning stars* — is the canonical Hebrew Bible term for celestial bodies visible at dawn. The compound combines *kokhav* (star) + *voqer* (morning); the plural construction names the **class of dawn-visible celestial bodies**. // The verse pairs the *morning stars* with the *bnei elohim* in poetic parallelism (see [`bnei-elohim-yarinu`](/wiki/bnei-elohim-yarinu/) for the identification). The parallel identifies the two phrases: morning stars are the *bnei elohim*, in astronomical register. // The astronomical reading recurs across Hebrew Bible literature: Isa 14:13 (*kokhvei El* — *stars of El*); Dan 8:10 (*tzeva ha-shamayim* — *host of the heavens*, that were thrown down from above); the LXX of Deut 32:8 (where the Masoretic *bnei Yisrael* is replaced by *bnei elohim*). The astronomical-as-divine-council reading is well-attested in the Hebrew Bible's broader textual tradition.",
+      "appliesTo": [
+        "JOB-38:7"
+      ]
+    },
+    {
+      "id": "gevul-yam",
+      "source": "וַיָּסֶךְ בִּדְלָתַיִם יָם ... עַד־פֹּה תָבוֹא וְלֹא תֹסִיף",
+      "translit": "va-yasekh bidlatayim yam ... ad-po tavo v-lo tosif",
+      "strongs": "H1366 + H3220",
+      "partOfSpeech": "verbal phrase",
+      "literal": "and he shut the sea behind doors ... this far shall you come and no further",
+      "standardEnglish": "and he shut up the sea with doors ... hitherto shalt thou come, but no further",
+      "wohChoice": "shut up the sea with doors / this far you shall come and no further",
+      "claim_type": "direct",
+      "rationale": "Job 38:8-11 stages the **sea-restraint cosmogony**. The chapter uses architectural-containment imagery: the sea is shut behind *delatayim* (doors), with a *beriach* (bar) and a *chuq* (boundary, statute). The sea is given a direct command-quotation: *ad-po tavo v-lo tosif* — *this far you shall come and no further*. // The chapter is reusing the Hebrew Bible / ANE cosmogonic image of the **primordial chaos-sea contained by divine command**. The same image-cluster appears in: Ps 104:9 (*g'vul samta bal-ya'avorun* — *a boundary you set, not to be crossed*), Jer 5:22 (*asher samti chol gevul la-yam* — *who set sand as the boundary for the sea*), Prov 8:29 (*b'sumo la-yam chuqo* — *when he set the boundary for the sea*). The chapter is invoking the canonical sea-restraint tradition. // The ANE comparative material is the **Mesopotamian Tiamat-restraint** of the *Enuma Elish* — Marduk subdues the primordial sea-goddess Tiamat and divides her body to form the cosmos. The Hebrew text demythologizes the procedure but preserves the structural pattern: chaos-sea is *contained* by divine command rather than *defeated* by combat. // The translation preserves the architectural vocabulary (doors, bar, boundary) and the direct-quotation form.",
+      "appliesTo": [
+        "JOB-38:8",
+        "JOB-38:10",
+        "JOB-38:11"
+      ]
+    },
+    {
+      "id": "nivkhei-yam-cheker-tehom",
+      "source": "נִבְכֵי־יָם וּבְחֵקֶר תְּהוֹם",
+      "translit": "nivkhei yam u-v-cheker tehom",
+      "strongs": "H5033 + H3220 + H2714 + H8415",
+      "partOfSpeech": "noun phrase",
+      "literal": "the springs of the sea and the searching of the deep",
+      "standardEnglish": "the springs of the sea / the search of the deep",
+      "wohChoice": "the springs of the sea / the searching of the deep",
+      "claim_type": "direct",
+      "rationale": "Job 38:16's *nivkhei yam u-v-cheker tehom* is one of the chapter's strongest **deep-investigation challenges**. The compound names the **deep submarine sources** of the sea. // *Nevekh* (נֵבֶךְ) is a hapax-style noun, generally derived from a root *navakh* meaning *flow forth, spring*. *Nivkhei yam* — *springs of the sea* — names the **abyssal source-points** where the sea emerges. The image: the sea has *specific source-locations*, accessible only by submarine exploration. // *Cheker* (חֵקֶר) is a deliberate-exploratory verb-derived noun — *investigation, search, probing*. *Cheker tehom* — *the searching of the deep* — names the **exploratory traversal** of the abyssal domain. *Tehom* is the same primordial-deep word as Gen 1:2 — etymologically cognate with Akkadian *tiāmtu*/Tiamat (see [`tehom`](/wiki/tehom/) glossary entry). // The chapter's challenge is whether Job has *been to* the deep submarine sources, has done the *deep-sea exploration*. The lens reads this as a reference to investigative-exploratory activity in the deep-water domain — domains the chapter implies are *accessible by divine cognition* but not by human exploration. The translation preserves the exploratory-investigative register.",
+      "appliesTo": [
+        "JOB-38:16"
+      ]
+    },
+    {
+      "id": "sha-arei-mavet",
+      "source": "שַׁעֲרֵי־מָוֶת וְשַׁעֲרֵי צַלְמָוֶת",
+      "translit": "sha'arei mavet v-sha'arei tzalmavet",
+      "strongs": "H8179 + H4194 + H6757",
+      "partOfSpeech": "noun phrase",
+      "literal": "gates of death and gates of deep darkness",
+      "standardEnglish": "gates of death / gates of the shadow of death",
+      "wohChoice": "gates of death / gates of deep darkness",
+      "claim_type": "direct",
+      "rationale": "Job 38:17's *sha'arei mavet v-sha'arei tzalmavet* — *gates of death and gates of deep darkness* — names a **bounded death-domain with entry-gates**. The chapter is staging the death-realm as a *territory with architecture*, not as a generic dissolution. // *Sha'arei mavet* (gates of death) recurs in Ps 9:14, 107:18, in the Hebrew Bible as a fixed expression for the entry-points to *She'ol*. The image is consistent with broader ANE underworld-architecture imagery (the Mesopotamian *Kur* with its seven gates in the Inanna-and-Ereshkigal myth; the Egyptian *Duat* with its gated regions). // *Tzalmavet* (צַלְמָוֶת) is variously analyzed: the traditional reading parses as *tzel* (shadow) + *mavet* (death) — giving 'shadow of death'; the modern reading takes it as a single root *tzalam* meaning 'be very dark' — giving 'deep darkness'. The modern scholarly consensus (BDB, HALOT, NJPS) reads the latter. The WoH translation goes with 'deep darkness' — preserving the etymological-modern reading while the commentary surfaces the traditional 'shadow of death' (the source of the famous Psalm 23:4 KJV phrasing).",
+      "appliesTo": [
+        "JOB-38:17"
+      ]
+    },
+    {
+      "id": "otzrot-sheleg-barad",
+      "source": "אֹצְרוֹת שָׁלֶג וְאֹצְרוֹת בָּרָד",
+      "translit": "otzrot sheleg v-otzrot barad",
+      "strongs": "H214 + H7950 + H1259",
+      "partOfSpeech": "noun phrase",
+      "literal": "storehouses of snow and storehouses of hail",
+      "standardEnglish": "treasures of the snow / treasures of the hail",
+      "wohChoice": "storehouses of snow and storehouses of hail",
+      "claim_type": "direct",
+      "rationale": "Job 38:22-23 names the **weather-storehouses** — *otzrot sheleg* (storehouses of snow) and *otzrot barad* (storehouses of hail). The noun *otzar* (אוֹצָר) is the standard Hebrew Bible term for **storehouse, treasury, armory** — used for Joseph's grain-storehouses (Gen 41:56), the Temple-treasures (1 Kgs 7:51), royal arsenals (2 Kgs 20:13, Jer 50:25), divine wind-treasuries (Ps 135:7, Jer 51:16). // The image is striking: weather phenomena (snow, hail) are stored in **physical containers** until they are released. The chapter at v23 names the release-purpose: *chasakhti l-et tzar l-yom q'rav u-milchamah* — *I have reserved for the time of distress, for the day of battle and war*. The weather-storehouses are **military reserves** — strategic weapons deployed at specified times. // The reading is consistent with broader Hebrew Bible weather-as-divine-weapon imagery: hail at Josh 10:11 (the Amorite-coalition defeat), Ex 9:18-26 (the seventh Egyptian plague), Ezek 13:11-13, 38:22 (eschatological judgment hailstorms). The chapter is staging the atmospheric system as a **deployable arsenal**. The WoH translation prefers the term 'storehouses' (modern, technical) over KJV/ASV 'treasures' (archaic, vague).",
+      "appliesTo": [
+        "JOB-38:22",
+        "JOB-38:23"
+      ]
+    },
+    {
+      "id": "kimah-kesil-mazzarot-ayish",
+      "source": "כִּימָה / כְּסִיל / מַזָּרוֹת / עַיִשׁ עַל־בָּנֶיהָ",
+      "translit": "Kimah / Kesil / Mazzarot / Ayish al-baneha",
+      "strongs": "H3598 + H3685 + H4216 + H5906",
+      "partOfSpeech": "proper-noun astronomical names",
+      "literal": "the Pleiades / Orion / the Zodiac (?) / the Bear with her children",
+      "standardEnglish": "Pleiades / Orion / Mazzaroth / Arcturus with his sons",
+      "wohChoice": "Kimah / Kesil / Mazzarot / Ayish with her children",
+      "claim_type": "inferred",
+      "rationale": "Job 38:31-32 names four canonical Hebrew Bible **astronomical-constellation classes**, in the densest astronomy-vocabulary cluster in the Hebrew Bible. // **Kimah** (כִּימָה) — generally identified with the **Pleiades** (the seven sister-stars in Taurus, the famous open cluster). The same noun recurs at Job 9:9 and Amos 5:8. // **Kesil** (כְּסִיל) — generally identified with **Orion** (the canonical hunter-constellation in the equatorial sky, with the belt-and-sword pattern). Same noun in Job 9:9, Isa 13:10, Amos 5:8. The literal meaning of *kesil* is 'fool, foolish one' — the constellation may be named for the mythological hunter-figure now bound in his cosmic configuration (cf. the chapter's v31 'cords of Kesil' — Orion *bound* by his belt-and-bands). // **Mazzarot** (מַזָּרוֹת) — a hapax (only occurrence in the Hebrew Bible). The traditional identification (LXX, Vulgate) is **the zodiac constellations** — the twelve constellations of the ecliptic through which the sun, moon, and planets appear to move. The word may be cognate with Akkadian *manzaltu* (a celestial-position term) or with Hebrew *zarah* (scatter — the scattered band of zodiacal constellations). The Mishnaic Hebrew *mazzal* / *mazzaltot* (fortune-stars, astrological signs) descends from this term. The qualifier *b'ito* — *in its appointed time* — supports the **timed-cycle** reading, consistent with the zodiac. // **Ayish** (עַיִשׁ) — generally identified with **the Great Bear** (Ursa Major) constellation. The same constellation is named *Ash* (עָשׁ) at Job 9:9. *Bnei Ayish* — *the children/sons of Ayish* — names the cluster of stars forming the Bear's body. // The four objects together form the canonical Hebrew Bible **astronomical-reference catalogue**: Pleiades (cluster, north), Orion (large constellation, south), Mazzarot (the zodiac band, ecliptic), Ayish (the polar Great Bear). // The Wheel of Heaven framework engages the **precession-of-the-equinoxes and the cosmic-clock astronomy** as a load-bearing element. Job 38:31-32 is one of the Hebrew Bible's most explicit named-constellation references; the canonical Hebrew vocabulary for the Pleiades-Orion-Zodiac-Bear cluster is here. The chapter's challenge — can you bind / loose / bring forth these — acknowledges the constellations as **fixed-cycle astronomical structures** whose timing is not subject to human manipulation. // Reclassified as `inferred` because the specific identifications (Kimah = Pleiades, Kesil = Orion, Mazzarot = Zodiac, Ayish = Bear) are scholarly consensus but not lexically certain — particularly Mazzarot, which is a hapax with contested etymology. The translation preserves the Hebrew names (transliterated) with the standard scholarly identifications surfaced in commentary.",
+      "appliesTo": [
+        "JOB-38:31",
+        "JOB-38:32"
+      ]
+    },
+    {
+      "id": "chuqot-shamayim",
+      "source": "חֻקּוֹת שָׁמָיִם",
+      "translit": "chuqot shamayim",
+      "strongs": "H2708 + H8064",
+      "partOfSpeech": "noun phrase",
+      "literal": "ordinances of the skies",
+      "standardEnglish": "ordinances of heaven",
+      "wohChoice": "the ordinances of the skies",
+      "claim_type": "direct",
+      "rationale": "Job 38:33's *chuqot shamayim* — *ordinances of the skies* — names **fixed cosmic laws governing the heavens**. *Chuqot* (חֻקּוֹת, plural of *choq*) is the standard Hebrew Bible noun for *statute, ordinance, prescribed rule*. The compound asserts that the heavens operate under **prescribed law-like regularity** — *chuqot*, statutes, not random behavior. // The compound recurs in Jer 33:25 (YHWH's covenant with day and night, *chuqot shamayim va-aretz* — *the ordinances of the heavens and the earth*). The chapter's framing is consistent with the broader Hebrew Bible cosmological vocabulary: cosmic operations are **lawful, predictable, calendrically-tracked**. // The continuation *im-tasim mishtaro ba-aretz* — *can you set its dominion on the land* — invokes the **celestial-influence-on-terrestrial** framework: what happens in the heavens *governs* what happens on the land. The astrological-influence model is implicit (the chapter is not endorsing or refuting it; it is treating it as a domain Job evidently does not control). The WoH framework's engagement with precession and the cosmic clock places this verse in a position of considerable theoretical interest — it is one of the Hebrew Bible's most explicit acknowledgments that the heavens have *ordinances* that *govern* terrestrial domains.",
+      "appliesTo": [
+        "JOB-38:33"
       ]
     }
   ]
