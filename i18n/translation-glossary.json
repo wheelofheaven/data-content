@@ -1,13 +1,13 @@
 {
   "$schema": "./translation-glossary-schema.json",
   "name": "Wheel of Heaven Translation Glossary",
-  "version": "2.6.0",
+  "version": "2.7.0",
   "released": "2026-05-22",
   "description": "Lexical decisions made by the Wheel of Heaven Translation Program. Distinct from content/i18n/glossary.json, which records site-UI terminology. Each entry records a source-language term, the standard PD-translation rendering, the WoH choice, the rationale, and the verses where the choice applies. Pinned to per-chapter translations via `glossaryVersion` in chapter metadata.",
   "sourceLanguages": [
     "he"
   ],
-  "scopeNote": "v1.0.0 covered Genesis 1; v2.5.0 added Job 1-2. v2.6.0 adds Job 38 (10 entries) — the opening of YHWH's first speech from the whirlwind. Keystone entries: bnei-elohim-yarinu (the third Hebrew Bible attestation of the bnei elohim, at the moment of cosmic founding) and kimah-kesil-mazzarot-ayish (the Hebrew Bible's canonical four-named astronomical-constellation catalogue — Pleiades, Orion, the Zodiac, the Great Bear). The chapter is the densest WoH-cosmology-relevant section of the Hebrew Bible outside Genesis 1 and Ezekiel 1.",
+  "scopeNote": "v2.6.0 reached Job 38. v2.7.0 adds Job 40-41 (9 entries) — the Behemoth and Leviathan passages, the canonical Hebrew Bible dragon-tradition material. Leviathan is identified with the *tannin* of Isaiah 27:1 (linking to the taninim entry from Gen 1:21, glossary v2.0.0) and with the Ugaritic *Lotan*. The Behemoth-Leviathan pair completes the Hebrew Bible's cosmic-creature pairing (land + sea) and stages them as creatures only their maker can subdue — closing the second divine speech's argument that humbling-the-proud is divine work.",
   "terms": [
     {
       "id": "bereshit",
@@ -3760,6 +3760,161 @@
       "rationale": "Job 38:33's *chuqot shamayim* — *ordinances of the skies* — names **fixed cosmic laws governing the heavens**. *Chuqot* (חֻקּוֹת, plural of *choq*) is the standard Hebrew Bible noun for *statute, ordinance, prescribed rule*. The compound asserts that the heavens operate under **prescribed law-like regularity** — *chuqot*, statutes, not random behavior. // The compound recurs in Jer 33:25 (YHWH's covenant with day and night, *chuqot shamayim va-aretz* — *the ordinances of the heavens and the earth*). The chapter's framing is consistent with the broader Hebrew Bible cosmological vocabulary: cosmic operations are **lawful, predictable, calendrically-tracked**. // The continuation *im-tasim mishtaro ba-aretz* — *can you set its dominion on the land* — invokes the **celestial-influence-on-terrestrial** framework: what happens in the heavens *governs* what happens on the land. The astrological-influence model is implicit (the chapter is not endorsing or refuting it; it is treating it as a domain Job evidently does not control). The WoH framework's engagement with precession and the cosmic clock places this verse in a position of considerable theoretical interest — it is one of the Hebrew Bible's most explicit acknowledgments that the heavens have *ordinances* that *govern* terrestrial domains.",
       "appliesTo": [
         "JOB-38:33"
+      ]
+    },
+    {
+      "id": "shaddai-eloah",
+      "source": "שַׁדַּי / אֱלוֹהַּ",
+      "translit": "Shaddai / Eloah",
+      "strongs": "H7706 + H433",
+      "partOfSpeech": "divine names",
+      "literal": "Shaddai / Eloah",
+      "standardEnglish": "the Almighty / God",
+      "wohChoice": "Shaddai / Eloah",
+      "claim_type": "direct",
+      "rationale": "The book of Job uses a distinctive **patriarchal-Aramean divine-name register** rather than the standard Israelite-covenantal YHWH-Elohim cluster. // **Eloah** (אֱלוֹהַּ) is the rarer singular form of *Elohim*, appearing 52 times in the Hebrew Bible — **41 of those in Job alone**. The form is concentrated in the Job dialogues and is a marker of the book's distinctive divine-name vocabulary. The WoH translation preserves *Eloah* untranslated, matching the project's pattern of preserving Hebrew divine-name forms. // **Shaddai** (שַׁדַּי) is the patriarchal divine name (see [`qol-mayim-rabbim`](/wiki/qol-mayim-rabbim/) for full etymology) — used in the book of Job 31 times. The compound *El Shaddai* appears 7 times in Genesis (17:1, 28:3, 35:11, 43:14, 48:3, 49:25; Ex 6:3 explicitly names *El Shaddai* as the name by which YHWH was known to the patriarchs). // The combined Job-pattern (Eloah-Shaddai-El, with limited use of YHWH-Elohim except in the prose frame of chs 1-2 and 42:7-17) places the book firmly in the **international Wisdom-literature tradition** — the Aramean / Edomite cultural sphere rather than the Israelite-Sinaitic one. // The conventional English 'the Almighty' for *Shaddai* is the Vulgate-via-LXX rendering; the WoH translation preserves the Hebrew name directly, matching its broader preservation pattern (YHWH, Elohim, El).",
+      "appliesTo": [
+        "JOB-40:2"
+      ]
+    },
+    {
+      "id": "achat-shtayim-formula",
+      "source": "אַחַת דִּבַּרְתִּי ... וּשְׁתַּיִם",
+      "translit": "achat dibarti ... u-shtayim",
+      "strongs": "H259 + H8147",
+      "partOfSpeech": "numeric-rhetorical formula",
+      "literal": "once I have spoken ... twice",
+      "standardEnglish": "once have I spoken ... yea, twice",
+      "wohChoice": "once I have spoken ... twice",
+      "claim_type": "direct",
+      "rationale": "The Hebrew Bible's **X-then-X+1 climactic-number formula**. Job 40:5 uses *achat ... u-shtayim* (one ... and two) as the formula's smallest-scale instance. // The formula appears in canonical Hebrew Bible passages: Prov 6:16 (*six things YHWH hates; seven are abominations*); Prov 30:15-31 (*three then four*, sustained pattern across the chapter); Amos 1:3 onwards (*three transgressions of X, then four* — applied to eight nations); Mic 5:4 (*seven shepherds and eight princes*); Eccl 11:2 (*give a portion to seven, even to eight*). // The formula's rhetorical function is **climactic-intensifying**: the first number is the count-claim; the second number (X+1) is the actual climax-point that the rhetorical builds toward. The smaller numbers (Job's 1-then-2) compress the formula to its minimum-effective form: *I have spoken once, will not answer; twice — and I will not add*. The structural meaning: *I have spoken too much already and will speak no more*.",
+      "appliesTo": [
+        "JOB-40:5"
+      ]
+    },
+    {
+      "id": "z-roa-ka-el",
+      "source": "וְאִם־זְרוֹעַ כָּאֵל לָךְ",
+      "translit": "v-im zeroa ka-El lakh",
+      "strongs": "H2220 + H410",
+      "partOfSpeech": "noun phrase",
+      "literal": "or if you have an arm like El",
+      "standardEnglish": "hast thou an arm like God?",
+      "wohChoice": "do you have an arm like El?",
+      "claim_type": "direct",
+      "rationale": "Job 40:9's *zeroa ka-El* — *an arm like El* — invokes the canonical Hebrew Bible **divine-arm** vocabulary. *Zeroa* (זְרוֹעַ) — *arm, strength, military force, agency* — is the standard Hebrew Bible term for active divine power. // The compound *zeroa YHWH* (YHWH's arm) recurs at Ex 6:6 (*outstretched arm*), Deut 4:34 (the outstretched arm of the Exodus), Isa 51:9-10 (*Awake, awake, put on strength, O arm of YHWH*), Isa 53:1 (*to whom has the arm of YHWH been revealed*). The divine *zeroa* is the canonical Hebrew Bible **agency-of-force**. // The chapter uses the shorter form *zeroa ka-El* (an arm like El — using the broader-divine-class name *El* rather than YHWH-Elohim). The question is asked at the **divine-power-class** level: do you have agency comparable to the divine class? The implicit answer: no. // The verse's second clause — *u-v-qol kamohu tar'em* — *can you thunder with a voice like his* — matches the verbal-storm-voice register of theophany (the *qol Shaddai* of Ezek 1:24; the storm-voice of Ps 29). The chapter is testing Job against the **canonical divine-power signature** in two registers: physical (arm) and vocal (thunder).",
+      "appliesTo": [
+        "JOB-40:9"
+      ]
+    },
+    {
+      "id": "behemoth",
+      "source": "בְּהֵמוֹת",
+      "translit": "Behemoth",
+      "strongs": "H930",
+      "partOfSpeech": "proper noun (intensive plural)",
+      "literal": "the Beast (intensive plural)",
+      "standardEnglish": "Behemoth",
+      "wohChoice": "Behemoth",
+      "claim_type": "inferred",
+      "rationale": "*Behemoth* (בְּהֵמוֹת) is grammatically the **plural of *behemah*** (beast, large quadruped) — used here as a **plural-of-majesty** / **plural-of-intensification**, naming a single super-class creature: *the Beast par excellence*. The same grammatical device is used for *Elohim* (plural form, intensively-singular sense). // The creature is described in Job 40:15-24 with specific anatomical and habitat detail: herbivorous (grass-eater), powerful core musculature (loins, belly), tail like a cedar, bones like channels of bronze, limbs like bars of iron, named *reshit darkhei El* (the first of the ways of El, the cosmogonic-foundational creature), inhabiting wetlands with lotus-trees and reeds, unafraid of even the Jordan river surging into his mouth, uncapturable by the standard eye-and-nose hunting methods. // **Identifications.** Three main proposals: // (1) **Hippopotamus** — the standard modern scholarly default. The herbivorous-aquatic-mass description fits hippo ecology; the wetlands habitat (lotus-trees, reeds, marsh) matches the Nile / Levantine hippo range; the Jordan-river reference places the habitat in the Israelite-knowable geography. The hippo identification has been the consensus since the 19th century. The main difficulty: the *tail-like-a-cedar* description does not fit the hippo (whose tail is short). // (2) **Mythological-cosmological beast** — the canonical land-counterpart to Leviathan-as-sea-beast, paralleling the Mesopotamian land/sea cosmic-creature pairs. The Talmudic-rabbinic tradition reads Behemoth and Leviathan as eschatological-meal creatures preserved for the messianic feast (b. Bava Batra 74b-75a). // (3) **Extinct megafauna / dinosaur** — the 19th-century creationist-tradition reading. The tail-like-a-cedar and bones-like-bronze-pipes match sauropod morphology; the chapter's first-of-the-ways-of-El status matches an *early* creature. The WoH project critiques this reading at the *taninim* glossary entry (Gen 1:21) — the Hebrew is not 'dinosaur' and the chapter does not specify. The same critique applies here. // The WoH translation preserves the Hebrew name *Behemoth* untranslated, matching the project's preservation of *Leviathan* (the parallel sea-creature) and the broader pattern of preserving canonical Hebrew names. The commentary surfaces the identification spectrum. Reclassified as `inferred` because preserving the Hebrew (vs. translating to 'hippopotamus' or another identification) is a translator's interpretive call.",
+      "appliesTo": [
+        "JOB-40:15",
+        "JOB-40:17",
+        "JOB-40:18",
+        "JOB-40:19",
+        "JOB-40:24"
+      ]
+    },
+    {
+      "id": "reshit-darkhei-el",
+      "source": "הוּא רֵאשִׁית דַּרְכֵי־אֵל",
+      "translit": "hu reshit darkhei-El",
+      "strongs": "H7225 + H1870 + H410",
+      "partOfSpeech": "noun phrase",
+      "literal": "he is the first of the ways of El",
+      "standardEnglish": "he is the chief of the ways of God",
+      "wohChoice": "he is the first of the ways of El",
+      "claim_type": "direct",
+      "rationale": "Job 40:19's *hu reshit darkhei-El* — *he is the first of the ways of El*. The chapter places Behemoth in **cosmogonic-first-creature** position. // *Reshit* (רֵאשִׁית) is the same noun that opens Gen 1:1 (*bereshit* — *in beginning*); the lexical core is *beginning, first-fruit, first-of-its-class*. The compound *reshit darkhei* — *first of the ways/works* — recurs in Prov 8:22 of personified Wisdom: *YHWH qanani reshit darko* — *YHWH possessed me, the first of his ways*. The two passages (Job 40:19 of Behemoth; Prov 8:22 of Wisdom) use the same compound for a creature of **singular cosmic-foundational status** — the first of YHWH's projects. // The chapter is asserting Behemoth's primordial-creation status. The reading is consistent with both the **mythological-cosmological identification** (Behemoth as a cosmic-foundational beast) and the **early-extinct-megafauna identification** (Behemoth as an *early* creature in evolutionary time). The lens reads the verse for what it says: Behemoth was created at the *beginning* — first in the sequence of divine works.",
+      "appliesTo": [
+        "JOB-40:19"
+      ]
+    },
+    {
+      "id": "leviathan",
+      "source": "לִוְיָתָן",
+      "translit": "Livyatan",
+      "strongs": "H3882",
+      "partOfSpeech": "proper noun",
+      "literal": "the twisting one",
+      "standardEnglish": "Leviathan",
+      "wohChoice": "Leviathan",
+      "claim_type": "direct",
+      "rationale": "*Livyatan* (לִוְיָתָן) — Leviathan — the canonical Hebrew Bible sea-dragon. The name is from a root *lavah* (twist, coil, wind) — *the twisting/coiling one*. The Hebrew Bible's most extensively-described creature outside of YHWH himself. // **Hebrew Bible attestations.** Leviathan appears at: Ps 74:14 (YHWH breaks the heads of Leviathan); Ps 104:26 (Leviathan plays in the sea); Isa 27:1 (*YHWH will punish Livyatan nachash bariach v-Livyatan nachash aqallaton* — *Leviathan the fleeing serpent and Leviathan the twisting serpent — the tannin in the sea*); Job 3:8 (the Leviathan-rousers); Job 40:25 - 41:26 (the chapter-long description). // **Isaiah 27:1 is the critical cross-reference.** It **identifies Leviathan with the tannin** — the same word the WoH translation renders as *dragons* in Gen 1:21 (see [`taninim`](/wiki/taninim/) glossary entry, where the Chaoskampf demythologization at Gen 1:21 is documented). Leviathan IS the *tannin* of the prophets; Leviathan IS the canonical Hebrew Bible **sea-dragon** of the dragon-tradition. // **Ugaritic parallel.** The Ugaritic *Lotan* (ltn) is a seven-headed sea-dragon defeated by Baal in the *Baal Cycle* (KTU 1.5 I 1-3). The Hebrew *Livyatan* is the same name with the addition of the *-yatan* ending (possibly intensifier). The Hebrew Bible Leviathan is **the same creature as Ugaritic Lotan**, demythologized into Hebrew Bible canonical-divine-economy but lexically preserved. // **Job 40:25 — 41:26 — the description.** The chapter describes Leviathan with specific anatomical detail: scales as shields, mouth-doors with teeth-of-terror, sneezes-of-light, eyes-like-eyelids-of-dawn, fire-from-mouth, smoke-from-nostrils, breath-kindling-coals, iron-counted-as-straw, bronze-as-rotten-wood, stirring the deep like a boiling pot, leaving a luminous wake, made without fear, king over all the bnei shachatz (sons of pride). // **Identifications.** Three main proposals: (1) **Nile crocodile** — the standard modern scholarly default; the scale-armor, the mouth-and-teeth, the aquatic habitat all match crocodilian anatomy. The crocodile identification is consistent with most of the chapter's specific descriptors except the fire-breathing (which is mythological). (2) **Mythological sea-dragon** — Leviathan as the cosmic-sea creature, paralleling Tiamat / Lotan / Apep across ANE traditions. The fire-breathing imagery is the chapter's clearest mythological-element. (3) **Composite reading** — the chapter is using **real-crocodile anatomical baseline** with **mythological-dragon embellishment** in the fire / smoke / cosmic-king-of-pride registers. The composite reading is the standard scholarly position. // The WoH translation preserves the Hebrew name *Leviathan* and the full descriptive vocabulary including the fire-breathing material. Commentary surfaces the canonical dragon-tradition context and the cross-references to Ugaritic *Lotan*, Mesopotamian *Tiamat*, and the broader global dragon-iconography that the WoH lens engages.",
+      "appliesTo": [
+        "JOB-40:25",
+        "JOB-41:1",
+        "JOB-41:2",
+        "JOB-41:4",
+        "JOB-41:5",
+        "JOB-41:6",
+        "JOB-41:7",
+        "JOB-41:10",
+        "JOB-41:11",
+        "JOB-41:17",
+        "JOB-41:19",
+        "JOB-41:23",
+        "JOB-41:24",
+        "JOB-41:25",
+        "JOB-41:26"
+      ]
+    },
+    {
+      "id": "fire-mouth-leviathan",
+      "source": "מִפִּיו לַפִּידִים יַהֲלֹכוּ ... מִנְּחִירָיו יֵצֵא עָשָׁן ... נַפְשׁוֹ גֶּחָלִים תְּלַהֵט וְלַהַב מִפִּיו יֵצֵא",
+      "translit": "mipiv lappidim yahalokhu ... mi-n'chirav yetze ashan ... nafsho gechalim t'lahet v-lahab mipiv yetze",
+      "strongs": "H6310 + H3940 + H5184 + H6227 + H5315 + H1513 + H3851",
+      "partOfSpeech": "verbal phrase cluster",
+      "literal": "from his mouth go torches; from his nostrils comes smoke; his breath kindles coals and flame from his mouth comes out",
+      "standardEnglish": "out of his mouth go burning lamps; ... out of his nostrils goeth smoke; ... his breath kindleth coals, and a flame goeth out of his mouth",
+      "wohChoice": "from his mouth go forth torches ... from his nostrils smoke goes out ... his breath kindles coals, and flame goes out of his mouth",
+      "claim_type": "direct",
+      "rationale": "Job 41:11-13 stages **Leviathan's fire-breathing** in extensive detail. Three verses describe the phenomenon at three loci: mouth (v 11 *lappidim* — torches, *kidodei esh* — sparks of fire), nostrils (v 12 *ashan* — smoke), and *nefesh* (v 13 *gechalim t'lahet* — breath kindles coals; *lahab mipiv* — flame from his mouth). // The vocabulary is **direct and unambiguous**: torches go from the mouth, sparks shoot out, smoke pours from nostrils, the breath itself kindles coals, flame issues from the mouth. The chapter is describing a **fire-breathing creature** in the most explicit way the Hebrew Bible vocabulary allows. // **Naturalistic readings** propose: (1) crocodilian breath-misting in cold morning air produces visible vapor resembling smoke/fire; (2) sunlight-refraction through water droplets exhaled by the creature creates light-effects; (3) sun-glints on water-splashes resemble flames. These readings struggle with the chapter's specific vocabulary — *lappidim* (torches) and *gechalim t'lahet* (coals kindled by breath) name **actual fire**, not visible vapor. // **Mythological-poetic readings** place Leviathan in the canonical global dragon-tradition. Fire-breathing dragons appear in: Ugaritic mythology (the Tannin/Lotan tradition); Mesopotamian (Tiamat with her offspring of monsters); Egyptian (Apep the cosmic serpent); Greek (the Chimera, Typhon, Ladon); Norse (Fafnir, Jormungandr); Slavic (Zmey Gorynych); Chinese (the *long*, with their fire-pearl associations); the medieval European dragon-cycles; and Revelation 12-13 (the apocalyptic dragon making war with fire from his mouth). The Hebrew Bible's Leviathan is **a canonical instance of this global dragon-fire tradition**. // **Composite scholarly reading**: the chapter uses real-crocodile anatomical baseline with mythological-dragon embellishment in the fire/smoke/cosmic-king registers. The standard modern position. // The WoH translation preserves the explicit fire-breathing vocabulary across the three verses. Commentary surfaces the canonical dragon-tradition context. The lens reads Leviathan's fire-mouth as part of the broader Hebrew Bible **dragon-class vocabulary** that the WoH project engages from Gen 1:21 (*taninim* / great dragons) onward — Leviathan is the canonical Hebrew Bible sea-dragon, fire-breathing, in continuous tradition with the global cosmic-creature heritage.",
+      "appliesTo": [
+        "JOB-41:11",
+        "JOB-41:12",
+        "JOB-41:13"
+      ]
+    },
+    {
+      "id": "atishotav-tahel-or",
+      "source": "עֲטִישֹׁתָיו תָּהֶל אוֹר וְעֵינָיו כְּעַפְעַפֵּי־שָׁחַר",
+      "translit": "atishotav tahel or v-einav k-af'apei shachar",
+      "strongs": "H5846 + H1984 + H216 + H5869 + H6079 + H7837",
+      "partOfSpeech": "noun phrase",
+      "literal": "his sneezes flash light, his eyes like the eyelids of dawn",
+      "standardEnglish": "by his sneezings a light doth shine, and his eyes are like the eyelids of the morning",
+      "wohChoice": "his sneezes flash light, his eyes like the eyelids of dawn",
+      "claim_type": "direct",
+      "rationale": "Job 41:10's *atishotav tahel or* — *his sneezes flash light*. The compound names a phenomenon the chapter does not explain but describes directly: when Leviathan **sneezes**, **light flashes**. // *Atishot* (עֲטִישׁוֹת) is a hapax from a root *atash* (sneeze) — Leviathan's sneeze-events. *Tahel* (תָּהֶל) is from *halal* (shine, flash, give light) in the hifil — *causes light to flash*. The combined verb-noun pair: **sneezes that emit visible light-flashes**. // The image has been read in multiple ways: (1) **sun-reflection** — sneeze-spray catches sunlight at certain angles, producing visible refraction-flashes (the standard naturalistic reading for the crocodile identification — crocodile-sneezes spraying water in sunlight produce visible glints); (2) **bioluminescence-like phenomenon** — some kind of inherent light-emission (lens-relevant; matches the dragon-tradition's fire-mouth imagery in the next verses); (3) **mythological-poetic** (Leviathan as a cosmic-creature whose body-functions are themselves cosmic-phenomena). // The second clause *einav k-af'apei shachar* — *his eyes like the eyelids of dawn* — extends the light-emission register to the eyes. *Af'apei shachar* — *the eyelids of dawn* — invokes the **dawn-eye** iconography: Leviathan's eyes are like the first opening of the morning sky. The Babylonian Talmud (b. Berakhot 3a) takes this verse as the source-image for the morning-eye motif in Jewish liturgy. // The Egyptian iconographic parallel is the **Wedjat-eye** / **Eye of Horus** / **Sun-eye** motif, often associated with crocodilian or solar imagery. The WoH translation preserves the bare description: sneezes flash light, eyes like dawn-eyelids. The commentary surfaces the naturalistic-vs-mythological reading spectrum.",
+      "appliesTo": [
+        "JOB-41:10"
+      ]
+    },
+    {
+      "id": "melekh-bnei-shachatz",
+      "source": "מֶלֶךְ עַל־כָּל־בְּנֵי־שָׁחַץ",
+      "translit": "melekh al kol bnei shachatz",
+      "strongs": "H4428 + H1121 + H7830",
+      "partOfSpeech": "noun phrase",
+      "literal": "king over all the sons of pride",
+      "standardEnglish": "king over all the children of pride",
+      "wohChoice": "king over all the sons of pride",
+      "claim_type": "direct",
+      "rationale": "Job 41:26's closing identification of Leviathan: *hu melekh al kol bnei shachatz* — *he is king over all the sons of pride*. // *Bnei shachatz* — *sons of pride* — is a hapax-style compound. *Shachatz* (שָׁחַץ) is rare; the same noun appears at Job 28:8 (*bnei shachatz* — *sons of the proud*, parallel to wild beasts). The compound names a class of **proud / lofty / wild** creatures. // The structural-rhetorical close is significant: the chapter's second divine speech opened (Job 40:9-14) with a **challenge for Job to humble all that is proud** (*ge'eh*, *gei'im*). The chapter then closes (41:26) with **Leviathan as king over all proud creatures** — the exact category Job was challenged to subdue. The frame closes: Job cannot subdue the pride-class because Leviathan, who is **king of that class**, is unsubdueable by Job. // The structural connection from 40:11-13 (the challenge to humble the proud) to 41:26 (Leviathan as king of the proud) is the chapter's keystone argument: **humbling the proud is divine work, not human work** — because the king of the proud is a creature only the creator can subdue. The chapter has staged Leviathan as the **proof-by-example** of the impossibility of human-cosmic-justice-administration.",
+      "appliesTo": [
+        "JOB-41:26"
       ]
     }
   ]
