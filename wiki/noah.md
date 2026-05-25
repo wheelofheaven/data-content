@@ -103,6 +103,10 @@ The Wheel of Heaven corpus uses **Noah** as principal English designation, with 
 
 ## The biblical-textual content
 
+{% library(book="genesis-woh", chapter=6, verse=9) %}
+These are the begettings of Noah. Noah was a righteous man, blameless in his generations. Noah walked about with the Elohim.
+{% end %}
+
 The substantive Hebrew Bible engages Noah across multiple principal locations, with the substantive Genesis 5-9 content operating as the principal narrative engagement.
 
 ### The Genesis 5 genealogical introduction

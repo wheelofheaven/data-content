@@ -84,6 +84,10 @@ The cross-tradition convergence on substantial sacred-tree imagery is part of th
 
 ## Conventional understanding
 
+{% library(book="genesis-woh", chapter=2, verse=9) %}
+YHWH-Elohim caused every tree desirable to the sight and good for food to sprout from the ground — and within the garden, the tree of life and the tree of knowing good and bad.
+{% end %}
+
 The Tree of Life material has been the subject of substantial conventional-scholarly and theological treatment across multiple traditions.
 
 ### Mainstream historical-critical biblical scholarship

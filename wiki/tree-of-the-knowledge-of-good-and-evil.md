@@ -106,6 +106,10 @@ The Wheel of Heaven corpus uses **Tree of the Knowledge of Good and Evil** as fu
 
 ## The biblical-textual content
 
+{% library(book="genesis-woh", chapter=2, verse=17) %}
+but from the tree of knowing good and bad — you shall not eat from it. For on the day you eat from it, you shall surely die."
+{% end %}
+
 The Hebrew Bible engages the Tree of the Knowledge of Good and Evil principally across Genesis 2:9-3:24, with substantive subsequent canonical references operating principally through Genesis 3 echoes.
 
 ### Genesis 2:9 — the introduction

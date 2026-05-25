@@ -52,6 +52,10 @@ The Serpent appears principally in Genesis 3:1–15, with related serpent materi
 
 ### The Genesis 3 narrative
 
+{% library(book="genesis-woh", chapter=3, verse=1) %}
+Now the serpent was shrewder than any wild animal of the field that YHWH-Elohim had made. He said to the woman, "Has the Elohim really said, 'You shall not eat from any tree of the garden'?"
+{% end %}
+
 The Hebrew text introduces the Serpent abruptly at Genesis 3:1, without prior reference and without explanation of its origin. It is described as *ʿarum*, "crafty" or "prudent," and as the most so among the *ḥayyat ha-sadeh*, "the beasts of the field." The Serpent's intervention is conducted entirely through speech. It questions the woman about the prohibition concerning the Tree of the Knowledge of Good and Evil:
 
 > *"Did Elohim really say, 'You shall not eat from any tree of the garden'?"* (Genesis 3:1)

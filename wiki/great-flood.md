@@ -78,6 +78,10 @@ The Flood narrative appears principally in Genesis 6:1–9:17, with substantial 
 
 ### The Genesis narrative
 
+{% library(book="genesis-woh", chapter=7, verse=11) %}
+In the six hundredth year of Noah's life, in the second month, on the seventeenth day of the month — on this very day — all the fountains of the great deep burst open, and the floodgates of the skies were opened.
+{% end %}
+
 The Genesis flood narrative occupies four chapters of the Hebrew Bible's opening book and contains substantial textual complexity. The principal narrative elements:
 
 **Genesis 6:1–4** introduces the *benei ha-Elohim* episode — the "sons of Elohim" who took human women as wives and produced the Nephilim hybrid offspring. The corpus reads this passage as recording the operational context that produced the home-world Council's eventual decision to intervene (treated more fully in the [Sons of Elohim](../sons-of-elohim/) and [Nephilim](../nephilim/) entries).

@@ -76,6 +76,10 @@ The Wheel of Heaven corpus uses **Raël** as the principal designation across mo
 
 ## Conventional understanding
 
+{% library(book="the-book-which-tells-the-truth", chapter=1, verse=7) %}
+From very far away…
+{% end %}
+
 The mainstream scholarly and broader cultural treatment of Raël has produced substantial engagement across the past five decades.
 
 ### Mainstream new-religious-movement scholarship

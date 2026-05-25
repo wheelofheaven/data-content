@@ -11,6 +11,14 @@ category = "Texts & Scriptures"
 editorial_pass = "2026-05"
 entry_type = "text"
 alternative_names = ["Bereshit", "B'reshit", "First Book of Moses"]
+see_also = [
+    { title = "Elohim", path = "wiki/elohim", description = "The plural creators whose work the first chapter narrates." },
+    { title = "Eden", path = "wiki/eden", description = "The garden where the first humans were placed in Genesis 2–3." },
+    { title = "Adam and Eve", path = "wiki/adam-and-eve", description = "The first humans of the second creation account." },
+    { title = "Noah", path = "wiki/noah", description = "The covenantal figure of Genesis 6–9 who survives the Flood." },
+    { title = "Great Flood", path = "wiki/great-flood", description = "The deluge narrative that resets the human story in Genesis 6–9." },
+    { title = "Hebrew Bible", path = "wiki/hebrew-bible", description = "The broader scriptural corpus Genesis opens." },
+]
 
 [extra.infobox]
 hebrew_title = "בְּרֵאשִׁית"
@@ -26,15 +34,15 @@ principal_witnesses = "Masoretic Text; Septuagint; Samaritan Pentateuch; Dead Se
 genre = "Primeval and patriarchal history; theological narrative"
 +++
 
-**Genesis** (Hebrew: <span class="hebrew">בְּרֵאשִׁית</span>, *Bərēʾšît*, "in the beginning"; Greek: *Γένεσις*, *Génesis*, "origin") is the first book of the Hebrew Bible and of the Christian Old Testament. The Hebrew title is taken from the book's opening word; the English title derives from the Greek Septuagint translation, which named the book after its principal subject. Genesis contains two distinct creation accounts (Genesis 1:1–2:3 and Genesis 2:4–25), the primeval history (Genesis 3–11) including the expulsion from Eden, the genealogies of the long-lived patriarchs, the Flood, and the dispersal at Babel, and the patriarchal history (Genesis 12–50) covering Abraham, Isaac, Jacob, and Joseph. The book's fifty chapters span what conventional chronology treats as approximately two thousand years from creation to Joseph's death in Egypt, with the framework's reading treating the same narrative as compressing approximately fifteen thousand years of history.
+**Genesis** (Hebrew: <span class="hebrew">בְּרֵאשִׁית</span>, *Bərēʾšît*, "in the beginning"; Greek: *Γένεσις*, *Génesis*, "origin") is the first book of the {% wiki(slug="hebrew-bible") %}Hebrew Bible{% end %} and of the Christian Old Testament. The Hebrew title is taken from the book's opening word; the English title derives from the Greek Septuagint translation, which named the book after its principal subject. Genesis contains two distinct creation accounts (Genesis 1:1–2:3 and Genesis 2:4–25), the primeval history (Genesis 3–11) including the expulsion from Eden, the genealogies of the long-lived patriarchs, the Flood, and the dispersal at Babel, and the patriarchal history (Genesis 12–50) covering Abraham, Isaac, Jacob, and Joseph. The book's fifty chapters span what conventional chronology treats as approximately two thousand years from creation to Joseph's death in Egypt, with the framework's reading treating the same narrative as compressing approximately fifteen thousand years of history.
 
-On the reading developed by Jean Sendy in *La Lune, clé de la Bible* (1968) and consolidated in the Raëlian source material from 1974 onward, Genesis is the most consequential single text in the corpus. The seven *yamim* (days) of Genesis 1 are read as the seven precessional ages during which the Elohim conducted their work of preparing Earth and synthesizing terrestrial life, including humanity. On this reading, the book preserves, in compressed and partly stylized form, an accurate record of the events of approximately fifteen millennia, from the arrival of the first Elohim survey expedition in the Age of Capricorn (c. 21,810 BCE) through the post-creation period of Eden and the early human generations in the Age of Cancer (c. 8,850 BCE through c. 6,690 BCE). The patriarchal narratives of Genesis 12–50 then continue the record into the post-Flood Ages of Gemini, Taurus, and the opening of Aries.
+On the reading developed by Jean Sendy in *La Lune, clé de la {% wiki(slug="bible") %}Bible{% end %}* (1968) and consolidated in the Raëlian source material from 1974 onward, Genesis is the most consequential single text in the corpus. The seven *yamim* (days) of Genesis 1 are read as the seven precessional ages during which the Elohim conducted their work of preparing Earth and synthesizing terrestrial life, including humanity. On this reading, the book preserves, in compressed and partly stylized form, an accurate record of the events of approximately fifteen millennia, from the arrival of the first Elohim survey expedition in the Age of Capricorn (c. 21,810 BCE) through the post-creation period of Eden and the early human generations in the Age of Cancer (c. 8,850 BCE through c. 6,690 BCE). The patriarchal narratives of Genesis 12–50 then continue the record into the post-Flood Ages of Gemini, Taurus, and the opening of Aries.
 
 The reading is contested. Within mainstream biblical scholarship, the dominant readings of Genesis include the traditional Jewish and Christian theological identification of the book as a sacred-history account of divine creation, the historical-critical reconstruction of the book as a redactional composition assembled from earlier sources across the first millennium BCE, and the comparative-religion analysis treating Genesis as one example of broader ancient Near Eastern creation literature. The corpus's reading depends on the framework's broader account of the Elohim civilization and the Earth project, treats the Hebrew text as preserving substantively accurate historical referents in compressed form, and engages the source-critical, comparative, and modern reinterpretive literatures with appropriate attribution throughout.
 
 ## Composition and dating
 
-The composition and dating of Genesis is one of the most extensively studied questions in modern biblical scholarship. The traditional Jewish and Christian attribution of authorship to Moses — recorded in the Talmud (b. Bava Batra 14b–15a) and accepted as standard in pre-modern Western scholarship — was first systematically challenged in the seventeenth and eighteenth centuries by figures including Hobbes, Spinoza, Richard Simon, and Jean Astruc. Astruc's observation in 1753 that the Pentateuch alternates between two divine names (*YHWH* and *Elohim*) and that this alternation correlates with stylistic differences was the foundational observation of what would become modern source criticism.
+The composition and dating of Genesis is one of the most extensively studied questions in modern biblical scholarship. The traditional Jewish and Christian attribution of authorship to {% wiki(slug="moses") %}Moses{% end %} — recorded in the Talmud (b. Bava Batra 14b–15a) and accepted as standard in pre-modern Western scholarship — was first systematically challenged in the seventeenth and eighteenth centuries by figures including Hobbes, Spinoza, Richard Simon, and Jean Astruc. Astruc's observation in 1753 that the Pentateuch alternates between two divine names (*YHWH* and *Elohim*) and that this alternation correlates with stylistic differences was the foundational observation of what would become modern source criticism.
 
 ### The Documentary Hypothesis
 
@@ -59,15 +67,27 @@ Genesis divides naturally into two large blocks: Genesis 1–11 (the primeval hi
 
 ### The primeval history (Genesis 1–11)
 
+{% library(book="genesis-woh", chapter=6, verse=9) %}
+These are the begettings of Noah. Noah was a righteous man, blameless in his generations. Noah walked about with the Elohim.
+{% end %}
+
 The primeval history begins with the seven-day creation account (Genesis 1:1–2:3), continues with the second creation account focused on Eden (Genesis 2:4–25), the temptation and expulsion narrative (Genesis 3), Cain and Abel (Genesis 4), the Sethite genealogy with the long-lived patriarchs from Adam to Noah (Genesis 5), the introduction of the *benei ha-Elohim* and *Nephilim* (Genesis 6:1–4), the Flood narrative (Genesis 6:5–9:17), the Noahic covenant and the curse of Canaan (Genesis 9:18–29), the Table of Nations (Genesis 10), and the Babel episode with the resulting linguistic dispersal (Genesis 11:1–9). The block concludes with the Shemite genealogy linking Noah to Abraham (Genesis 11:10–32).
 
 ### The patriarchal history (Genesis 12–50)
+
+{% library(book="genesis-woh", chapter=11, verse=1) %}
+The whole land was of one lip and one set of words.
+{% end %}
 
 The patriarchal history begins with Abraham's call from Ur (Genesis 12), the covenant of Genesis 15 and 17, the visitation at Mamre and the destruction of Sodom (Genesis 18–19), the binding of Isaac (Genesis 22), the death of Sarah and the marriage of Isaac to Rebekah (Genesis 23–24), the Jacob-and-Esau cycle including Jacob's wrestling at Peniel and his renaming to Israel (Genesis 25–36), and the extended Joseph narrative spanning Genesis 37–50. The block concludes with the descent of Jacob's family into Egypt and Joseph's death — the situation that opens the book of Exodus.
 
 ### The two creation accounts
 
 The opening creation account (Genesis 1:1–2:3) is structurally distinctive. It is composed as seven *yamim* — six days of creative activity and a seventh day of cessation — with each day framed by the formula "and there was evening, and there was morning." The Hebrew names the agent throughout as *Elohim* (plural), uses the strongest Hebrew verb of creation (*bara*) at three structural points (1:1, 1:21, 1:27), and concludes with the seventh-day formula (Genesis 2:1–3) in which the work is declared finished and the day blessed and sanctified.
+
+{% library(book="genesis-woh", chapter=1, verse=1) %}
+When the Elohim began to shape the skies and the land—
+{% end %}
 
 The second creation account (Genesis 2:4–25) is structurally and thematically distinct. It is shorter, more narrative in form, names the agent as *Yahweh Elohim* rather than *Elohim* alone, presents the formation of the human and the woman in sequence rather than simultaneously, and locates the narrative in the garden of Eden. Modern source criticism conventionally assigns Genesis 1:1–2:3 to the Priestly source (P) and Genesis 2:4ff. to the Yahwist source (J), reading the two accounts as originally separate compositions later joined in the redactional history of the Pentateuch.
 
@@ -179,7 +199,7 @@ The shift between the two creation accounts at Genesis 2:4 is structurally and g
 
 ### The *benei ha-Elohim* and *Nephilim*: Genesis 6:1–4
 
-Genesis 6:1–4 introduces, in four compressed verses, one of the most consequential and most widely misread passages in the Hebrew Bible: the *benei ha-Elohim* ("sons of Elohim") who take human women as wives, and their offspring the *Nephilim* (the "fallen ones" or, on alternative etymologies, the "mighty ones"), called the "men of renown" of antiquity. The corpus reads this passage at face value: members of the Elohim civilization (specifically, on the framework's reading, the exiled Lucifer faction whose continuing presence on Earth had been established at the post-Eden settlement) entering into reproductive unions with human women of the Eden lineage and producing hybrid offspring whose capabilities the source material describes as exceptional. The detailed treatment of this passage lives in the [Antediluvian](../antediluvian/) and [Nephilim](../nephilim/) entries.
+Genesis 6:1–4 introduces, in four compressed verses, one of the most consequential and most widely misread passages in the Hebrew Bible: the *benei ha-Elohim* ("sons of Elohim") who take human women as wives, and their offspring the *Nephilim* (the "fallen ones" or, on alternative etymologies, the "mighty ones"), called the "men of renown" of antiquity. The corpus reads this passage at face value: members of the Elohim civilization (specifically, on the framework's reading, the exiled {% wiki(slug="lucifer") %}Lucifer{% end %} faction whose continuing presence on Earth had been established at the post-Eden settlement) entering into reproductive unions with human women of the Eden lineage and producing hybrid offspring whose capabilities the source material describes as exceptional. The detailed treatment of this passage lives in the [Antediluvian](../antediluvian/) and [Nephilim](../nephilim/) entries.
 
 ### The Tower of Babel: Genesis 11:1–9
 
@@ -235,7 +255,7 @@ The broader ancient-astronaut interpretive tradition preceding and surrounding t
 
 ### The framework hypothesis (evangelical sense)
 
-A note on terminology. Within evangelical Christian biblical scholarship, the term "framework hypothesis" refers to a specific interpretive approach to Genesis 1 — developed by Meredith Kline, Henri Blocher, and others — in which the seven days are read as a literary framework structuring the creation account thematically rather than chronologically. This evangelical "framework hypothesis" is unrelated to the Wheel of Heaven framework's reading of Genesis. The terminological coincidence is unfortunate; the corpus's framework treats the seven days as both chronologically meaningful (each yom corresponding to a specific period) and thematically structured (the creation activities falling into the categories the seven yamim record), while the evangelical framework hypothesis treats the days as thematic only and rejects the chronological reading.
+A note on terminology. Within evangelical Christian biblical scholarship, the term "framework hypothesis" refers to a specific interpretive approach to Genesis 1 — developed by Meredith Kline, Henri Blocher, and others — in which the seven days are read as a literary framework structuring the creation account thematically rather than chronologically. This evangelical "framework hypothesis" is unrelated to the {% wiki(slug="wheel-of-heaven") %}Wheel of Heaven{% end %} framework's reading of Genesis. The terminological coincidence is unfortunate; the corpus's framework treats the seven days as both chronologically meaningful (each yom corresponding to a specific period) and thematically structured (the creation activities falling into the categories the seven yamim record), while the evangelical framework hypothesis treats the days as thematic only and rejects the chronological reading.
 
 ## Comparative observations
 

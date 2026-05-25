@@ -13,6 +13,14 @@ editorial_pass = "2026-05"
 entry_type = "concept"
 claim_type = "inferred"
 alternative_names = ["Platonic Year", "Precessional year", "Magnus Annus (Latin)", "Annus Magnus", "Annus Perfectus / Perfect Year (Plato)", "Cosmic Year"]
+see_also = [
+    { title = "Precession", path = "wiki/precession", description = "The mechanism that drives the Great Year — the slow wobble of Earth's axis." },
+    { title = "Great Month", path = "wiki/great-month", description = "One twelfth of the Great Year — the duration of a single precessional age." },
+    { title = "World Age", path = "wiki/world-age", description = "A precessional age treated as a chapter of human history." },
+    { title = "Zodiac", path = "wiki/zodiac", description = "The 12-fold celestial division that names each age of the Great Year." },
+    { title = "Great Return", path = "wiki/great-return", description = "The Raëlian framing of the cycle's culmination — the Elohim's promised return." },
+    { title = "Cosmic Evolution", path = "wiki/cosmic-evolution", description = "The framework that situates the Great Year within deep-time evolution." },
+]
 
 [extra.infobox]
 type = "The full precessional cycle; one complete circuit of the vernal equinox around the ecliptic"
@@ -26,7 +34,7 @@ framework_significance = "Foundational chronological framework for the corpus; a
 key_external_reference = "Santillana, Giorgio de, and Hertha von Dechend. *Hamlet's Mill: An Essay on Myth and the Frame of Time*. Gambit, 1969."
 +++
 
-The **Great Year** is the period of one complete cycle of **axial precession** — the duration required for the Earth's rotational axis to trace out one full cone against the background of fixed stars, equivalent to one complete circuit of the vernal equinox point around the ecliptic. The Great Year is the foundational unit of long-period chronology on which the broader Wheel of Heaven temporal framework depends, and is the master cycle of which the corpus's twelve [Great Month](../great-month/) identifications (Age of Virgo through Age of Aquarius) are the twelfths.
+The **Great Year** is the period of one complete cycle of **axial precession** — the duration required for the Earth's rotational axis to trace out one full cone against the background of fixed stars, equivalent to one complete circuit of the vernal equinox point around the ecliptic. The Great Year is the foundational unit of long-period chronology on which the broader {% wiki(slug="wheel-of-heaven") %}Wheel of Heaven{% end %} temporal framework depends, and is the master cycle of which the corpus's twelve [Great Month](../great-month/) identifications (Age of Virgo through Age of Aquarius) are the twelfths.
 
 On the modern astronomical measurement, the Great Year is approximately **25,772 years** in duration, based on the contemporary precessional rate of approximately 50.29 arcseconds per year. On the **astrological-tradition reckoning**, the Great Year is exactly **25,920 years** — derived from the ancient observation of approximately one degree of westward shift of the equinoxes per 72 years, multiplied by the 360 degrees of the full ecliptic:
 
@@ -143,7 +151,7 @@ The framework's reading of the Stoic *ekpyrosis* connects to the broader corpus 
 
 ### The Hesiodic Ages tradition
 
-The Greek poet **Hesiod** in his *Works and Days* (c. 700 BCE) developed the doctrine of the **Four (or Five) Ages of Man**: the Golden Age, Silver Age, Bronze Age, Heroic Age (sometimes included as a fifth interpolation), and Iron Age (the current age). The Hesiodic tradition treats the Ages as a sequence of declining quality, with the current Iron Age representing the most degraded condition of humanity. The doctrine corresponds substantively to the Hindu yuga tradition (which also features a four-fold sequence of declining ages) and to the broader cross-cultural "ages of decline" pattern.
+The Greek poet **Hesiod** in his *Works and Days* (c. 700 BCE) developed the doctrine of the **Four (or Five) Ages of Man**: the {% wiki(slug="golden-age") %}Golden Age{% end %}, Silver Age, Bronze Age, Heroic Age (sometimes included as a fifth interpolation), and Iron Age (the current age). The Hesiodic tradition treats the Ages as a sequence of declining quality, with the current Iron Age representing the most degraded condition of humanity. The doctrine corresponds substantively to the Hindu yuga tradition (which also features a four-fold sequence of declining ages) and to the broader cross-cultural "ages of decline" pattern.
 
 The Hesiodic Ages are not explicitly precessional — Hesiod predates Hipparchus by approximately five centuries and could not have known the precessional cycle — but the framework reads the Hesiodic tradition as preserving content related to the broader cosmic-cycle pattern that the precessional Great Year articulates. The structural correspondence between the four Hesiodic Ages and four-fold subdivisions of the Great Year (each Age corresponding to three Great Months, or 6,480 years on the traditional reckoning) is one possible reading; the corpus's adopted position is open on the specific relationship.
 
@@ -219,9 +227,9 @@ The framework's reading of the Great Year is multilayered. The mainstream astron
 The framework's most substantive interpretive position concerning the Great Year is that **approximately one complete Great Year corresponds to the duration of the Elohim project on Earth**. The principal connections:
 
 - The Vorilhon source material's central claim that the Elohim arrived on Earth and began their operational project approximately **25,000 years ago** corresponds to approximately one Great Year on the modern astronomical reckoning (25,772 years) or 96% of one Great Year on the traditional reckoning (25,920 years)
-- The framework's chronological reading places the principal human-synthesis event in the **Age of Leo** (c. 13,170 – 11,010 BCE), with the Eden phase, the antediluvian Adamite period, and the broader prophetic record continuing through the subsequent Ages
+- The framework's chronological reading places the principal human-synthesis event in the **Age of Leo** (c. 13,170 – 11,010 BCE), with the {% wiki(slug="eden") %}Eden{% end %} phase, the antediluvian Adamite period, and the broader prophetic record continuing through the subsequent Ages
 - The contemporary period (early 21st century CE) is approximately **12,000-15,000 years after** the principal synthesis event, corresponding to approximately **half of the Great Year** — placing humanity at approximately the midpoint of the precessional cycle from the synthesis event
-- The framework's reading of the **Age of Apocalypse** (treated in the dedicated entry) as the recovery and recognition phase places the contemporary period at the substantive transition from the Elohim's covert operational supervision to the broader recognition phase
+- The framework's reading of the **Age of {% wiki(slug="apocalypse") %}Apocalypse{% end %}** (treated in the dedicated entry) as the recovery and recognition phase places the contemporary period at the substantive transition from the Elohim's covert operational supervision to the broader recognition phase
 
 The framework reads this temporal correspondence — one Great Year approximating the duration of the Elohim project — as substantively significant. The cycle is sufficiently long that it could not be coincidental: the Elohim's project on Earth has been calibrated to the precessional cycle in a way that suggests deliberate operational use of the cycle as chronological infrastructure for the project.
 
@@ -231,7 +239,7 @@ The framework reads the Great Year as the **temporal scope of cosmic memory** wi
 
 - The cross-cultural mythological-symbolic record substantially preserves content from approximately the past Great Year (the past ~25,000 years), but content from earlier than this is substantially absent or substantially compressed
 - The Vorilhon source material's specific operational content concentrates on events of the past ~25,000 years (the principal synthesis, the broader Adamite history, the prophetic record), with content from earlier cosmic history substantially compressed or absent
-- The temporal scope of the Hebrew Bible's narrative content (the Genesis 1 creation, the antediluvian patriarchs, the post-deluge Table of Nations, the Abrahamic and subsequent prophetic record) substantially aligns with the past Great Year scope
+- The temporal scope of the {% wiki(slug="hebrew-bible") %}Hebrew Bible{% end %}'s narrative content (the Genesis 1 creation, the antediluvian patriarchs, the post-deluge Table of Nations, the Abrahamic and subsequent prophetic record) substantially aligns with the past Great Year scope
 
 The framework reads this pattern as substantively significant: the Great Year is approximately the temporal scope across which the source-tradition material preserves operational content, suggesting that the project's documentary record has been calibrated to the cycle of the master cosmic clock.
 
@@ -246,7 +254,7 @@ The framework's broader work uses the Great Year as the master temporal framewor
 | **Age of Cancer** | c. 11,010 – 8,850 BCE | Post-deluge reorganisation; Younger Dryas-era catastrophic events |
 | **Age of Gemini** | c. 8,850 – 6,690 BCE | Early Neolithic; Holocene climate stabilisation |
 | **Age of Taurus** | c. 6,690 – 4,530 BCE | Sumerian and Egyptian civilisations; principal megalithic period |
-| **Age of Aries** | c. 4,530 – 2,370 BCE | Principal Hebrew prophetic period (Abraham–Moses–Davidic monarchy) |
+| **Age of Aries** | c. 4,530 – 2,370 BCE | Principal Hebrew prophetic period (Abraham–{% wiki(slug="moses") %}Moses{% end %}–Davidic monarchy) |
 | **Age of Pisces** | c. 1 CE – 2,160 CE | Christian era and broader subsequent religious developments |
 | **Age of Aquarius** | c. 2,160 CE onward | Contemporary recovery period; transition into the Age of Apocalypse |
 
@@ -348,7 +356,7 @@ Cruttenden, Walter. *Lost Star of Myth and Time*. St. Lynn's Press, 2006. [Conte
 
 Ulansey, David. *The Origins of the Mithraic Mysteries: Cosmology and Salvation in the Ancient World*. Oxford University Press, 1989. [The principal contemporary scholarly engagement with precession in the context of Mithraic mysteries, with substantive application of the *Hamlet's Mill* methodology to a specific religious tradition.]
 
-Sellers, Jane B. *The Death of Gods in Ancient Egypt: An Essay on Egyptian Religion and the Frame of Time*. Lulu, 2007 (expanded edition). [Application of the *Hamlet's Mill* methodology to Egyptian astronomical tradition.]
+Sellers, Jane B. *The Death of Gods in Ancient Egypt: An Essay on Egyptian {% wiki(slug="religion") %}Religion{% end %} and the Frame of Time*. Lulu, 2007 (expanded edition). [Application of the *Hamlet's Mill* methodology to Egyptian astronomical tradition.]
 
 Krupp, E. C. *In Search of Ancient Astronomies*. Doubleday, 1978.
 
@@ -362,7 +370,7 @@ Bauval, Robert, and Adrian Gilbert. *The Orion Mystery: Unlocking the Secrets of
 
 Schoch, Robert M. *Forgotten Civilization: The Role of Solar Outbursts in Our Past and Future*. Inner Traditions, 2012.
 
-Sendy, Jean. *La Lune, clé de la Bible*. Julliard, 1968.
+Sendy, Jean. *La Lune, clé de la {% wiki(slug="bible") %}Bible{% end %}*. Julliard, 1968.
 
 Sendy, Jean. *Ces dieux qui firent le ciel et la terre*. Robert Laffont, 1969.
 

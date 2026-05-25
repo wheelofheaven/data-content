@@ -11,6 +11,13 @@ category = "Meta"
 editorial_pass = "2026-05"
 entry_type = "concept"
 alternative_names = ["the Wheel of Heaven framework", "the Wheel of Heaven corpus", "the Wheel of Heaven project", "the Wheel of Heaven thesis", "the framework (corpus-internal short form)", "the corpus (when referring to the written body of project content)"]
+see_also = [
+    { title = "The Tradition", path = "wiki/the-tradition", description = "The wider stream of comparative readings the project sits within." },
+    { title = "Biglino Method", path = "wiki/biglino-method", description = "A literalist Hebrew-reading approach the project draws on." },
+    { title = "Comparative Mythology", path = "wiki/comparative-mythology", description = "The scholarly discipline the project applies to canon-internal reading." },
+    { title = "Mytheme", path = "wiki/mytheme", description = "The unit of comparative analysis the project uses to track motifs across traditions." },
+    { title = "Sendy's Conditions of Coherence", path = "wiki/sendys-conditions-of-coherence", description = "The interpretive constraints the project tries to satisfy when reading sacred texts." },
+]
 timeline = ["multi-age"]
 
 [extra.infobox]
@@ -29,11 +36,11 @@ status_in_framework = "Foundational meta-concept; the entry that articulates wha
 
 **Wheel of Heaven** is a curated comparative knowledge project — both the name of an interpretive framework and the corpus that articulates it. The project is centered on revelation, cosmic chronology, ancient memory, sacred history, and modern reinterpretation, with the corpus assembling and integrating a wide body of religious-mythological-textual-archaeological evidence within a single coherent interpretive framework. The project exists as a public-facing web platform at **www.wheelofheaven.world**, supported by an extensive wiki, a library of curated source materials, a narrated introduction, and an ongoing blog tracking developments.
 
-The project's **working hypothesis**: terrestrial life was produced by the deliberate scientific work of a specific advanced civilization, called in the Hebrew Bible the **Elohim** (אֱלֹהִים, plural of *Eloha*), who arrived on Earth approximately 22,000 years ago and conducted across the subsequent precessional ages a project of planetary preparation, life synthesis, and the eventual creation of humanity in their own image. The hypothesis is provisional in the technical sense — *a working hypothesis*, advanced as a basis for further research — and the corpus is structured to support its ongoing investigation rather than to assert it as settled. The corpus distinguishes throughout between direct source claims, comparative observations, framework-specific interpretive synthesis, and open questions.
+The project's **working hypothesis**: terrestrial life was produced by the deliberate scientific work of a specific advanced civilization, called in the Hebrew {% wiki(slug="bible") %}Bible{% end %} the **Elohim** (אֱלֹהִים, plural of *Eloha*), who arrived on Earth approximately 22,000 years ago and conducted across the subsequent precessional ages a project of planetary preparation, life synthesis, and the eventual creation of humanity in their own image. The hypothesis is provisional in the technical sense — *a working hypothesis*, advanced as a basis for further research — and the corpus is structured to support its ongoing investigation rather than to assert it as settled. The corpus distinguishes throughout between direct source claims, comparative observations, framework-specific interpretive synthesis, and open questions.
 
 The framework draws on four principal source families. **Raëlian canonical texts** — principally *The Book Which Tells the Truth* (1974), *Extra-Terrestrials Took Me to Their Planet* (1975), and *Let's Welcome the Extra-Terrestrials* (1979), collected as *Message from the Designers* — provide the most direct articulation of the framework's specific content, derived from Claude Vorilhon's December 1973 and October 1975 contact accounts. **Jean Sendy's pre-Raëlian work** — principally *Les cahiers de cours de Moïse* (1963), *La Lune, clé de la Bible* (1968), *Ces dieux qui firent le ciel et la terre* (1969), and *L'ère du Verseau* (1970) — provides substantive prior articulation of the broader Tradition framework, with particular attention to Hebrew Bible exegesis through the precessional-zodiacal lens. ***Hamlet's Mill*** by Giorgio de Santillana and Hertha von Dechend (1969) provides the principal scholarly anchor for the framework's precessional-mythological reading. **Cross-cultural religious-mythological-archaeological evidence** — drawn from Hebrew Bible, broader Mesopotamian, Egyptian, Greek, Vedic, Mesoamerican, Chinese, and various other traditions — supplies the comparative material the framework reads as preserved cultural memory of the project's various phases.
 
-The name **Wheel of Heaven** carries a dual meaning. Principally, the wheel of heaven is the **precessional cycle** — the slow rotation of the vernal-equinox point through the twelve zodiacal constellations across the ~25,920-year Great Year, organizing the corpus's twelve-age narrative architecture. The corpus articulation: *"The image at the heart of this work is the wheel of heaven. The wheel is the precessional cycle, the slow rotation of the sky's apparent orientation across the twenty-five thousand nine hundred and twenty years of the Great Year."* Secondarily, the wheel of heaven echoes the **wheel-within-a-wheel imagery** preserved in Ezekiel's vision (Ezekiel 1:16, אוֹפַן בְּתוֹךְ הָאוֹפָן, *ofan betokh ha-ofan*) as one of several Hebrew Bible passages registering Elohim spacecraft observation in pre-scientific vocabulary. Both meanings register substantively within the broader framework — the primary as foundational temporal-cosmological architecture, the secondary as one of the principal source-textual anchors for the framework's spacecraft-imagery reading.
+The name **Wheel of Heaven** carries a dual meaning. Principally, the wheel of heaven is the **precessional cycle** — the slow rotation of the vernal-equinox point through the twelve zodiacal constellations across the ~25,920-year {% wiki(slug="great-year") %}Great Year{% end %}, organizing the corpus's twelve-age narrative architecture. The corpus articulation: *"The image at the heart of this work is the wheel of heaven. The wheel is the precessional cycle, the slow rotation of the sky's apparent orientation across the twenty-five thousand nine hundred and twenty years of the Great Year."* Secondarily, the wheel of heaven echoes the **wheel-within-a-wheel imagery** preserved in Ezekiel's vision (Ezekiel 1:16, אוֹפַן בְּתוֹךְ הָאוֹפָן, *ofan betokh ha-ofan*) as one of several Hebrew Bible passages registering Elohim spacecraft observation in pre-scientific vocabulary. Both meanings register substantively within the broader framework — the primary as foundational temporal-cosmological architecture, the secondary as one of the principal source-textual anchors for the framework's spacecraft-imagery reading.
 
 The corpus is not a final synthesis but one stage in an ongoing collective project of integration. The corpus's own articulation: *"The present corpus is not the final synthesis. It is one stage in an ongoing project that will continue across the coming years and decades, both through the corpus's own continued development and through the parallel work of other authors and traditions engaging the same materials."* The project operates with explicit recognition that subsequent work will supplement, extend, and in some respects supersede the present articulation as the broader Aquarian-age recovery and integration of the alliance's communication continues.
 
@@ -113,9 +120,9 @@ The detailed treatment of the Elohim civilization lives in the [Elohim](../elohi
 
 Five additional claims operate as substantive components of the broader working hypothesis:
 
-**1. The cultural-memory preservation claim.** The Hebrew Bible and the other major religious traditions of the world preserve accurate cultural memory of the alliance's interventions, in forms that reflect the pre-scientific vocabularies of their authors but that can be decoded by a scientifically mature reader. The framework's distinctive hermeneutic — Genesis 1 as genetic engineering rather than supernatural creation, the *Nephilim* as alliance-human hybrids, the flood as nuclear cataclysm, Sinai as formal alliance audience, the *Elohim* as plural rather than singular — is the corpus's foundational interpretive move. The detailed treatment of the Hebrew Bible content lives in the [Hebrew Bible](../hebrew-bible/) entry.
+**1. The cultural-memory preservation claim.** The Hebrew Bible and the other major religious traditions of the world preserve accurate cultural memory of the alliance's interventions, in forms that reflect the pre-scientific vocabularies of their authors but that can be decoded by a scientifically mature reader. The framework's distinctive hermeneutic — {% wiki(slug="genesis") %}Genesis{% end %} 1 as genetic engineering rather than supernatural creation, the *Nephilim* as alliance-human hybrids, the flood as nuclear cataclysm, Sinai as formal alliance audience, the *Elohim* as plural rather than singular — is the corpus's foundational interpretive move. The detailed treatment of the Hebrew Bible content lives in the [Hebrew Bible](../hebrew-bible/) entry.
 
-**2. The prophetic-tradition claim.** The alliance has sent approximately forty prophets across human history, each appropriate to the specific cultural moment at which they appeared, and each contributing to the cumulative preparation of humanity for the present Aquarian-age revelation. The list includes Adam, Noah, Abraham, Moses, Elijah, Isaiah, Ezekiel, Daniel, Buddha, Zoroaster, Jesus, Muhammad, Joseph Smith, Bahá'u'lláh, and various others. The detailed treatment lives in the [Prophet](../prophet/) entry.
+**2. The prophetic-tradition claim.** The alliance has sent approximately forty prophets across human history, each appropriate to the specific cultural moment at which they appeared, and each contributing to the cumulative preparation of humanity for the present Aquarian-age revelation. The list includes Adam, Noah, Abraham, Moses, {% wiki(slug="elijah") %}Elijah{% end %}, Isaiah, Ezekiel, Daniel, Buddha, Zoroaster, Jesus, Muhammad, Joseph Smith, Bahá'u'lláh, and various others. The detailed treatment lives in the [Prophet](../prophet/) entry.
 
 **3. The scientific-maturity claim.** Humanity has now reached, or is rapidly approaching, the scientific maturity that will permit it to understand and evaluate the alliance's teaching on its own terms. The Piscean-age arrangement — under which the alliance had stepped back from direct intervention to allow humanity to develop scientifically — has reached its conclusion. Humanity's own capacities in biology, physics, computing, and aerospace have advanced to the point where the alliance's interventions no longer look miraculous but look like what they actually are: applications of technology that humanity is itself beginning to develop.
 
@@ -143,8 +150,8 @@ The wiki's typological architecture distinguishes seven principal entry types:
 
 1. **Figure entries** — individual persons (historical, religious-traditional, framework-specific): Adam, Eve, Noah, Abraham, Moses, Mary, Jesus, Muhammad, Buddha, Joseph Smith, Vorilhon, the various creator-figures (Yahweh, Lucifer, Satan, the Serpent), various others
 2. **Civilization / polity entries** — collective entities: the Hebrews, the Elohim, the Israelites, various others
-3. **Place entries** — specific locations: Eden, Babel, Sodom and Gomorrah, the Embassy site, various others
-4. **Event / period entries** — specific historical-cultural events or periods: the Theomachy, the Great Flood, the Babel intervention, the Sodom strike, various others
+3. **Place entries** — specific locations: {% wiki(slug="eden") %}Eden{% end %}, {% wiki(slug="babel") %}Babel{% end %}, {% wiki(slug="sodom-and-gomorrah") %}Sodom and Gomorrah{% end %}, the Embassy site, various others
+4. **Event / period entries** — specific historical-cultural events or periods: the {% wiki(slug="theomachy") %}Theomachy{% end %}, the {% wiki(slug="great-flood") %}Great Flood{% end %}, the Babel intervention, the Sodom strike, various others
 5. **Concept entries** — interpretive concepts: World Age, Zodiac, Doubled Signature, Cosmic Chain, Cosmic Competition, Mass Effect, Fractal Cosmology, Plurality of Gods, various others
 6. **Text entries** — source-textual entities: Hebrew Bible, Kabbalah, *Hamlet's Mill*, *Message from the Designers*, various others
 7. **Precessional age entries** — the twelve individual age treatments: Age of Capricorn, Age of Sagittarius, Age of Scorpio, Age of Libra, Age of Virgo, Age of Leo, Age of Cancer, Age of Gemini, Age of Taurus, Age of Aries, Age of Pisces, Age of Aquarius
@@ -178,7 +185,7 @@ The project operates through several substantial governance documents:
 
 - ***Project Charter*** — the foundational document articulating the project's purpose, mission, governing principle, and inclusion criteria
 - ***Editorial Style Guide*** — the principal editorial-stylistic governance document
-- ***Chronology Rules*** — the chronological governance document articulating dating conventions and chronological integrity rules
+- ***{% wiki(slug="chronology") %}Chronology{% end %} Rules*** — the chronological governance document articulating dating conventions and chronological integrity rules
 - ***Nomenclature*** — the principal terminological governance document
 - ***Source Methodology*** — the source-handling governance document
 - ***Chapter Index*** — the architectural governance document tracking the broader corpus development
@@ -236,7 +243,7 @@ The detailed source-methodology governance lives in the project's `04-source-met
 
 ### The wiki-style register
 
-The corpus operates in a wiki-style register similar to mainstream comparative-religion encyclopaedic engagement (the *Catholic Encyclopedia*, the *Encyclopaedia Britannica*'s religion entries, the *Encyclopedia of Religion*). The register prioritizes:
+The corpus operates in a wiki-style register similar to mainstream comparative-religion encyclopaedic engagement (the *Catholic Encyclopedia*, the *Encyclopaedia Britannica*'s religion entries, the *Encyclopedia of {% wiki(slug="religion") %}Religion{% end %}*). The register prioritizes:
 
 - Clarity over rhetorical elaboration
 - Structure over narrative flow
@@ -311,7 +318,7 @@ The Wheel of Heaven project operates within a broader landscape of related but d
 
 ### Wheel of Heaven vs. the Raëlian Movement
 
-The corpus draws substantively on Raëlian source material — particularly *Message from the Designers* and various subsequent Raëlian publications. The Raëlian Movement (formally the **International Raëlian Movement**, founded by Claude Vorilhon as MADECH in 1973 and reorganized as the Raëlian Movement in 1976) operates as an institutional religious-cultural body principally concerned with disseminating the Raëlian message, supporting the construction of the planned Embassy, and developing the broader Raëlian cultural-philosophical-political program (Geniocracy, Humanitarianism, Sensual Meditation, the Raëlian Symbol, etc.).
+The corpus draws substantively on Raëlian source material — particularly *Message from the Designers* and various subsequent Raëlian publications. The Raëlian Movement (formally the **International Raëlian Movement**, founded by Claude Vorilhon as MADECH in 1973 and reorganized as the Raëlian Movement in 1976) operates as an institutional religious-cultural body principally concerned with disseminating the Raëlian message, supporting the construction of the planned Embassy, and developing the broader Raëlian cultural-philosophical-political program (Geniocracy, {% wiki(slug="humanitarianism") %}Humanitarianism{% end %}, Sensual Meditation, the Raëlian Symbol, etc.).
 
 The relationship is **substantive-source-engagement-without-institutional-affiliation**:
 
@@ -426,7 +433,7 @@ The Wheel of Heaven project is not a final synthesis but one stage in an ongoing
 
 Several principal extensions remain on the project's working horizon:
 
-- A dedicated treatment of the **Book of Revelation** and the broader apocalyptic literature, including the canonical Apocalypse, the Enochic tradition, and various other apocalyptic-textual material
+- A dedicated treatment of the **Book of Revelation** and the broader apocalyptic literature, including the canonical {% wiki(slug="apocalypse") %}Apocalypse{% end %}, the Enochic tradition, and various other apocalyptic-textual material
 - A dedicated treatment of the **Great Pyramid of Giza** and the broader Egyptian alliance presence
 - A dedicated systematic treatment of the **Jewish mystical tradition** beyond the Kabbalah entry
 - A dedicated treatment of the **fractal-cosmos / shape-of-the-universe** material
@@ -522,7 +529,7 @@ Vorilhon, Claude (Raël). *Let's Welcome the Extra-Terrestrials* (1979); collect
 
 Vorilhon, Claude (Raël). *Message from the Designers*. Tagman Press, 2005. The collected source compilation.
 
-Vorilhon, Claude (Raël). *Geniocracy*. Various editions.
+Vorilhon, Claude (Raël). *{% wiki(slug="geniocracy") %}Geniocracy{% end %}*. Various editions.
 
 Vorilhon, Claude (Raël). *Sensual Meditation*. Various editions.
 

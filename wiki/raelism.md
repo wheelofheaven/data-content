@@ -11,6 +11,15 @@ category = "Cosmology & Framework"
 editorial_pass = "2026-05"
 entry_type = "concept"
 alternative_names = ["the Raëlian Movement", "the International Raëlian Movement", "the Raëlian religion", "Raëlianism", "the IRM"]
+see_also = [
+    { title = "Raël", path = "wiki/rael", description = "The founder, born Claude Vorilhon, who reported the 1973 contact." },
+    { title = "The Truth", path = "wiki/the-truth", description = "The 1974 first book containing the message from the Elohim." },
+    { title = "New Commandments", path = "wiki/new-commandments", description = "The updated ethical code transmitted through Raël." },
+    { title = "Elohim", path = "wiki/elohim", description = "The creators identified in the Raëlian reading as a human civilization from elsewhere." },
+    { title = "Embassy", path = "wiki/embassy", description = "The diplomatic compound the movement seeks to build for the Elohim's official return." },
+    { title = "Geniocracy", path = "wiki/geniocracy", description = "The political system Raël proposes — rule by the demonstrably intelligent." },
+    { title = "Paradism", path = "wiki/paradism", description = "The post-scarcity economic vision Raël proposes for a fully automated society." },
+]
 timeline = ["aquarius"]
 
 [extra.infobox]
@@ -29,13 +38,13 @@ principal_text = "*The Book Which Tells the Truth* (1974); *Extra-Terrestrials T
 
 **Raëlism** is the religious-philosophical movement founded by **Raël** (Claude Vorilhon) following his reported December 13, 1973 contact with an officer of the Elohim alliance at the Puy-de-Lassolas volcanic crater near Clermont-Ferrand, France. The movement's institutional vehicle is the **International Raëlian Movement (IRM)**, founded in 1976 as the successor to the predecessor organization **MADECH** (*Mouvement pour l'Accueil des Élohim Créateurs de l'Humanité*, founded 1974). Raëlism is structurally distinctive within the broader religious-movement landscape in being **explicitly atheist** — rejecting supernatural deity in favor of the Elohim as advanced biological civilization that created humanity through genetic engineering approximately 25,000 years ago — while preserving substantial religious dimensions through the cumulative prophetic tradition, the Aquarian-age program, the embassy project, and various distinctive Raëlian practices. The movement has been characterized within mainstream new-religious-movement (NRM) scholarship as one of the most institutionally substantial UFO-religions, with national branches established in approximately ninety countries and reported membership figures ranging from approximately 65,000 to approximately 100,000 across the post-1976 period (figures vary by source and methodology).
 
-The doctrinal content of Raëlism centers on the broader framework that the source-material teaching has established: the Elohim civilization's specific creation work on Earth across the past 25,000 years, the cumulative prophetic tradition culminating in Raël's Aquarian-age mission, the seven new commandments specifying the political-social program for the Aquarian age (geniocracy, humanitarianism, world government, demilitarization, science as religion, telepathic cultivation, and the metaphysical clarifications), the embassy project as the operational center for the alliance's projected open return, and the broader Aquarian-age program of human transformation toward the projected Golden Age. The doctrinal framework is explicitly **atheist** in the specific sense that Raël has elaborated: there is no supernatural deity, no immortal soul, no metaphysical-theological apparatus of the sort the conventional religious traditions have developed; the religious dimensions of awe, purpose, and ethical commitment are preserved, but they are oriented toward the infinite cosmos itself, the Elohim creators (treated as advanced beings of human kind rather than as divinities), and the broader cosmic-creative cycle that humanity is projected to participate in.
+The doctrinal content of Raëlism centers on the broader framework that the source-material teaching has established: the Elohim civilization's specific creation work on Earth across the past 25,000 years, the cumulative prophetic tradition culminating in Raël's Aquarian-age mission, the seven new commandments specifying the political-social program for the Aquarian age (geniocracy, humanitarianism, world government, demilitarization, science as religion, telepathic cultivation, and the metaphysical clarifications), the embassy project as the operational center for the alliance's projected open return, and the broader Aquarian-age program of human transformation toward the projected {% wiki(slug="golden-age") %}Golden Age{% end %}. The doctrinal framework is explicitly **atheist** in the specific sense that Raël has elaborated: there is no supernatural deity, no immortal soul, no metaphysical-theological apparatus of the sort the conventional religious traditions have developed; the religious dimensions of awe, purpose, and ethical commitment are preserved, but they are oriented toward the infinite cosmos itself, the Elohim creators (treated as advanced beings of human kind rather than as divinities), and the broader cosmic-creative cycle that humanity is projected to participate in.
 
 The institutional structure of Raëlism comprises the **seven-level hierarchy of Guides** (with Raël as **Guide of Guides** at the top), the various subsidiary organizations (Clonaid, the Order of Angels, the Alliance for Extraterrestrial Diplomatic Contact, and various educational and outreach bodies), and the broader operational infrastructure that has developed across the past five decades. The principal practices include the **cellular plan transmission** (the Raëlian baptismal ceremony, conducted at four annual dates corresponding to significant moments in the prophetic tradition — April 6, August 6, October 7, December 13), **sensual meditation** (the meditation practices designed by the Elohim for awakening the senses and achieving inner harmony), **telepathic contact** (the practice of mind-to-mind communication with the Elohim, particularly conducted on Sunday mornings at 11 AM), and various commemorations of contact anniversaries and broader institutional gatherings.
 
-The movement has produced substantial controversy across its half-century history. The **2002 Clonaid claim** — Brigitte Boisselier's December 27, 2002 announcement of the alleged birth of the first cloned human baby ("Eve"), never independently verified across the subsequent two decades — produced substantial international media attention and substantial subsequent scientific and journalistic skepticism. The **original Raëlian Symbol of Infinity** (a Star of David with central swastika) was modified in 1990 in Western branches to replace the central swastika with a galaxy-shaped swirl, in response to the symbol's complicated reception in post-Holocaust European-North American contexts. The **Order of Angels** (established 1998) has been the subject of substantial controversy regarding its specific practices and female-only membership structure. The **sensual meditation** practices have produced substantial mainstream criticism for their explicitly sexual content. The **French anti-cult organizational engagement** through MIVILUDES (*Mission interministérielle de vigilance et de lutte contre les dérives sectaires*) and UNADFI (*Union nationale des associations de défense des familles et de l'individu*) has produced substantial legal-political tension across the past several decades, with the Raëlian movement being classified as a problematic religious group in various official French-government documents.
+The movement has produced substantial controversy across its half-century history. The **2002 Clonaid claim** — Brigitte Boisselier's December 27, 2002 announcement of the alleged birth of the first cloned human baby ("Eve"), never independently verified across the subsequent two decades — produced substantial international media attention and substantial subsequent scientific and journalistic skepticism. The **original {% wiki(slug="raelian-symbol-of-infinity") %}Raëlian Symbol of Infinity{% end %}** (a {% wiki(slug="star-of-david") %}Star of David{% end %} with central swastika) was modified in 1990 in Western branches to replace the central swastika with a galaxy-shaped swirl, in response to the symbol's complicated reception in post-Holocaust European-North American contexts. The **Order of Angels** (established 1998) has been the subject of substantial controversy regarding its specific practices and female-only membership structure. The **sensual meditation** practices have produced substantial mainstream criticism for their explicitly sexual content. The **French anti-cult organizational engagement** through MIVILUDES (*Mission interministérielle de vigilance et de lutte contre les dérives sectaires*) and UNADFI (*Union nationale des associations de défense des familles et de l'individu*) has produced substantial legal-political tension across the past several decades, with the Raëlian movement being classified as a problematic religious group in various official French-government documents.
 
-The reading is interpretive. Within mainstream NRM scholarship, Raëlism is treated as a substantial contemporary religious movement with substantial documented institutional development, substantial doctrinal articulation, and substantial sociological-anthropological interest. The principal scholars (Susan Palmer, Massimo Introvigne, James R. Lewis, George Chryssides, Mikael Rothstein, Christopher Partridge, and others) have produced substantial scholarly engagement that treats Raëlism seriously as religious phenomenon while not endorsing its specific historical claims about the December 13, 1973 contact event. Within mainstream theological tradition, Raëlism is broadly not engaged with as a continuation of any established theological tradition; the various religious traditions have either ignored Raëlism or treated it as a problematic movement outside legitimate religious tradition. Within the corpus's framework, Raëlism occupies the specific position of the **principal contemporary institutional vehicle** for the source-material teaching that the framework engages — neither identical with the broader Wheel of Heaven framework (which is the corpus's distinctive interpretive contribution) nor fully separable from it (since the source-material teaching that the framework engages is itself the foundational basis for both).
+The reading is interpretive. Within mainstream NRM scholarship, Raëlism is treated as a substantial contemporary religious movement with substantial documented institutional development, substantial doctrinal articulation, and substantial sociological-anthropological interest. The principal scholars (Susan Palmer, Massimo Introvigne, James R. Lewis, George Chryssides, Mikael Rothstein, Christopher Partridge, and others) have produced substantial scholarly engagement that treats Raëlism seriously as religious phenomenon while not endorsing its specific historical claims about the December 13, 1973 contact event. Within mainstream theological tradition, Raëlism is broadly not engaged with as a continuation of any established theological tradition; the various religious traditions have either ignored Raëlism or treated it as a problematic movement outside legitimate religious tradition. Within the corpus's framework, Raëlism occupies the specific position of the **principal contemporary institutional vehicle** for the source-material teaching that the framework engages — neither identical with the broader {% wiki(slug="wheel-of-heaven") %}Wheel of Heaven{% end %} framework (which is the corpus's distinctive interpretive contribution) nor fully separable from it (since the source-material teaching that the framework engages is itself the foundational basis for both).
 
 ## Etymology and naming
 
@@ -85,7 +94,7 @@ The principal mainstream scholarly framework for understanding Raëlism is the b
 **The principal NRM categorizations** of Raëlism include:
 
 - **UFO religion** — the broader category of religious movements drawing on UFO-contact material (Heaven's Gate, Aetherius Society, Unarius, various others)
-- **Atheist religion** — the broader category of religious movements operating without supernatural-deity content (various Buddhist traditions, Comtean Religion of Humanity, Secular Humanism, Ethical Culture, various others)
+- **Atheist religion** — the broader category of religious movements operating without supernatural-deity content (various Buddhist traditions, Comtean {% wiki(slug="religion") %}Religion{% end %} of Humanity, Secular Humanism, Ethical Culture, various others)
 - **New religious movement with prophet-founder** — the broader category of religious movements founded through specific charismatic-prophetic figures (Mormonism, Scientology, Bahá'í, various others)
 - **Postmodern religion** — the category emphasizing Raëlism's specific cultural-temporal positioning within the late-twentieth-century post-traditional religious landscape
 
@@ -142,7 +151,7 @@ The principal source material for Raëlism's doctrinal content is the body of Ra
 - ***The Book Which Tells the Truth*** (1974) — recording the December 13, 1973 contact and the principal teaching
 - ***Extra-Terrestrials Took Me to Their Planet*** (1975/76) — recording the October 7, 1975 second contact and the visit to the Planet of the Eternals
 - ***Let's Welcome the Extra-terrestrials*** (1979) — including the previously-withheld biological-parentage disclosure and substantial subsequent material
-- ***Geniocracy*** (1978) — substantial elaboration of the first new commandment
+- ***{% wiki(slug="geniocracy") %}Geniocracy{% end %}*** (1978) — substantial elaboration of the first new commandment
 - ***Sensual Meditation*** (1980) — meditation practices designed by the Elohim
 - ***Yes to Human Cloning*** (2000) — engagement with the cloning question
 - ***The Maitreya*** (anthology) — collection of Raël's teachings across the post-1973 decades
@@ -161,7 +170,7 @@ The Raëlian movement's institutional records provide substantial documentary ba
 
 ### The 1990 symbol modification correspondence
 
-The 1990 modification of the Raëlian Symbol of Infinity in Western branches is documented through specific correspondence between Raël and the Elohim, recorded in the source material. The correspondence registers:
+The 1990 modification of the Raëlian Symbol of {% wiki(slug="infinity") %}Infinity{% end %} in Western branches is documented through specific correspondence between Raël and the Elohim, recorded in the source material. The correspondence registers:
 
 - The original symbol's specific meaning (Star of David representing infinity in space, central swastika representing infinity in time, with the broader symbolic content of cosmic infinity)
 - The Holocaust-related complications of the swastika's reception in post-1945 Western contexts
@@ -174,7 +183,7 @@ The December 13, 1997 telepathic message from Yahweh provides specific instituti
 
 - The Raëlians as "the new Chosen People" with a "new Promised Land" projected
 - The embassy project's authorization to seek extraterritorial status from "all nations on Earth"
-- The "Great Return" framing of the alliance's projected open return
+- The "{% wiki(slug="great-return") %}Great Return{% end %}" framing of the alliance's projected open return
 
 ### Various subsequent communications
 
@@ -191,7 +200,7 @@ Various subsequent Raëlian-movement communications across the post-1997 period 
 
 The doctrinal framework of Raëlism comprises several interrelated components:
 
-**The Elohim creation framework**. The Elohim civilization, an advanced biological civilization 25,000 years in advance of contemporary human science, created all life on Earth through deliberate genetic engineering across the past 25,000 years. The Hebrew Bible's Genesis 1 creation narrative preserves substantively accurate memory of this creation work in pre-scientific vocabulary; the elohim of the Hebrew text refer to multiple individuals (the Elohim civilization) rather than to a single deity. The Elohim are not gods in any supernatural sense; they are advanced beings of human kind, themselves created by a prior civilization in the broader Cosmic Chain.
+**The Elohim creation framework**. The Elohim civilization, an advanced biological civilization 25,000 years in advance of contemporary human science, created all life on Earth through deliberate genetic engineering across the past 25,000 years. The Hebrew {% wiki(slug="bible") %}Bible{% end %}'s Genesis 1 creation narrative preserves substantively accurate memory of this creation work in pre-scientific vocabulary; the elohim of the Hebrew text refer to multiple individuals (the Elohim civilization) rather than to a single deity. The Elohim are not gods in any supernatural sense; they are advanced beings of human kind, themselves created by a prior civilization in the broader Cosmic Chain.
 
 **The cumulative prophetic tradition**. The alliance has sent approximately forty prophets across human history, with each prophet appropriate to the specific cultural-temporal moment at which they appeared and each contributing to the cumulative preparation of humanity for the Aquarian-age revelation. Moses, Jesus, Muhammad, Buddha, Zarathustra, and various other principal prophetic figures across world religions are read as alliance-appointed teachers who delivered substantively accurate content within the cultural-religious vocabularies available to them. Raël is the last of this cumulative prophetic tradition, the specific Aquarian-age figure whose mission delivers the accurate account of human origins to a scientifically mature humanity.
 
@@ -229,7 +238,7 @@ The seven new commandments structure the broader Aquarian-age political-religiou
 
 **1. Geniocracy** — selective democracy with intelligence-based eligibility for office (50% above mean) and voting (10% above mean); positioned as long-term developmental target rather than immediate institutional change
 
-**2. Humanitarianism** — replacement of property ownership with renting for finite terms (49 years, drawn from Leviticus 25 jubilee pattern); elimination of inheritable wealth while preserving individual incentive structure
+**2. {% wiki(slug="humanitarianism") %}Humanitarianism{% end %}** — replacement of property ownership with renting for finite terms (49 years, drawn from Leviticus 25 jubilee pattern); elimination of inheritable wealth while preserving individual incentive structure
 
 **3. World government** — unified planetary authority with single global currency, single common second language alongside local mother tongues, single coordinating framework for planetary-level issues
 
@@ -644,9 +653,9 @@ Sendy, Jean. *Ces dieux qui firent le ciel et la terre*. Robert Laffont, 1969.
 
 Sendy, Jean. *L'ère du Verseau*. Robert Laffont, 1970.
 
-Biglino, Mauro, and Giorgio Cattaneo. *The Naked Bible: The Truth About the Most Famous Book in History*. Uno, 2022.
+Biglino, Mauro, and Giorgio Cattaneo. *The Naked Bible: {% wiki(slug="the-truth") %}The Truth{% end %} About the Most Famous Book in History*. Uno, 2022.
 
-Wallis, Paul Anthony. *The Eden Conspiracy*. 6th Books, 2024.
+Wallis, Paul Anthony. *The {% wiki(slug="eden") %}Eden{% end %} Conspiracy*. 6th Books, 2024.
 
 International Raëlian Movement. <https://www.rael.org>
 

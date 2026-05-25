@@ -11,6 +11,13 @@ category = "Places & Locations"
 editorial_pass = "2026-05"
 entry_type = "place"
 alternative_names = ["Garden of Eden", "gan-ʿĒden", "גַּן־עֵדֶן", "Paradise"]
+see_also = [
+    { title = "Adam and Eve", path = "wiki/adam-and-eve", description = "The two first humans placed in the garden." },
+    { title = "Tree of Life", path = "wiki/tree-of-life", description = "One of the two named trees at the centre of the garden." },
+    { title = "Tree of the Knowledge of Good and Evil", path = "wiki/tree-of-the-knowledge-of-good-and-evil", description = "The other named tree — the one with the prohibition." },
+    { title = "Serpent", path = "wiki/serpent", description = "The figure that initiates the rupture of the garden state." },
+    { title = "Genesis", path = "wiki/genesis", description = "The text in which the garden narrative is set." },
+]
 timeline = ["leo", "cancer"]
 
 [extra.infobox]
@@ -27,9 +34,9 @@ principal_text = "Genesis 2:8–3:24"
 principal_framework_source = "*The Book Which Tells the Truth* (Vorilhon/Raël, 1974), chapter 2"
 +++
 
-**Eden** (Hebrew: <span class="hebrew">עֵדֶן</span>, *ʿĒden*) is the region named in the Hebrew Bible as the place in which the first humans were created and lived before their expulsion, narrated principally in Genesis 2:8–3:24. The Hebrew text distinguishes the broader region (*ʿĒden*) from the enclosed garden within it (*gan-ʿĒden*, "the garden of Eden"); Genesis 2:8 specifies that the garden was planted "in Eden, in the east." The garden contains the named species of trees, the four rivers (Pishon, Gihon, Tigris, Euphrates), the Tree of Life, and the Tree of the Knowledge of Good and Evil. The narrative of human creation, instruction, transgression, and expulsion takes place in and around this enclosed setting.
+**Eden** (Hebrew: <span class="hebrew">עֵדֶן</span>, *ʿĒden*) is the region named in the {% wiki(slug="hebrew-bible") %}Hebrew Bible{% end %} as the place in which the first humans were created and lived before their expulsion, narrated principally in Genesis 2:8–3:24. The Hebrew text distinguishes the broader region (*ʿĒden*) from the enclosed garden within it (*gan-ʿĒden*, "the garden of Eden"); Genesis 2:8 specifies that the garden was planted "in Eden, in the east." The garden contains the named species of trees, the four rivers (Pishon, Gihon, Tigris, Euphrates), the Tree of Life, and the {% wiki(slug="tree-of-the-knowledge-of-good-and-evil") %}Tree of the Knowledge of Good and Evil{% end %}. The narrative of human creation, instruction, transgression, and expulsion takes place in and around this enclosed setting.
 
-On the reading developed in the Raëlian source material and adopted by the Wheel of Heaven corpus, Eden is the operational territory of one of the seven Elohim creator teams — the Israel team — on the antediluvian supercontinent, during the late Age of Leo and continuing into the Age of Cancer. The garden is the enclosed laboratory and habitation site at which this team conducted the synthesis, instruction, and observation of the first human lineage produced under their care. The framework reads the Genesis 2–3 narrative as a compressed but substantively accurate account of operational events at this site, with the named features — the trees, the rivers, the prohibition, the serpent, the expulsion — all referring to specific operational realities rather than to symbolic or moral abstractions.
+On the reading developed in the Raëlian source material and adopted by the {% wiki(slug="wheel-of-heaven") %}Wheel of Heaven{% end %} corpus, Eden is the operational territory of one of the seven Elohim creator teams — the Israel team — on the antediluvian supercontinent, during the late Age of Leo and continuing into the Age of Cancer. The garden is the enclosed laboratory and habitation site at which this team conducted the synthesis, instruction, and observation of the first human lineage produced under their care. The framework reads the Genesis 2–3 narrative as a compressed but substantively accurate account of operational events at this site, with the named features — the trees, the rivers, the prohibition, the serpent, the expulsion — all referring to specific operational realities rather than to symbolic or moral abstractions.
 
 The reading is contested. Within mainstream biblical scholarship, Eden is generally treated as either a mythological or theological construction, possibly with origins in the broader ancient Near Eastern paradisiacal tradition (Mesopotamian Dilmun, Sumerian paradise traditions), without specific geographic referent. Within the broader landscape of alternative biblical interpretation, several specific Eden-location proposals have been advanced — the Persian Gulf head (Juris Zarins), the Lake Urmia region (David Rohl), eastern Anatolia, the Sundaland shelf — varying in their relationship to the Genesis text and to the surrounding geological evidence. The corpus's reading reframes the geographic question: the antediluvian Eden is located on a continental configuration that no longer exists, with its remnants identifiable in the post-Flood Levantine region but not directly recoverable as an extant geographic entity.
 
@@ -45,9 +52,13 @@ The Hebrew word *gan*, conventionally translated "garden," derives from the root
 
 ## In primary sources
 
-Eden appears principally in Genesis 2–3, with secondary references scattered across the rest of the Hebrew Bible and in the broader ancient Near Eastern literature.
+Eden appears principally in Genesis 2–3, with secondary references scattered across the rest of the Hebrew {% wiki(slug="bible") %}Bible{% end %} and in the broader ancient Near Eastern literature.
 
 ### The Genesis narrative
+
+{% library(book="genesis-woh", chapter=2, verse=8) %}
+YHWH-Elohim planted a garden in Eden, eastward — and there he placed the human he had formed.
+{% end %}
 
 The Genesis text gives Eden two principal treatments. The first is the brief mention in the second creation account at Genesis 2:8: *Yahweh Elohim* plants a garden "in Eden, in the east" (*miqqedem*, "from the east" or "in the east"), and places the formed human (*ha-ʾadam*) there. The narrative continues with a description of the four rivers that flow out of Eden: the Pishon (which compasses the land of Havilah, where there is gold), the Gihon (which compasses the land of Cush), the Hiddekel or Tigris (which goes east of Asshur), and the Perath or Euphrates (named without further description, presumably because already known to the original audience). The function of the human in the garden is given as "to dress it and to keep it" (Genesis 2:15) — the Hebrew verbs being *ʿabad* ("to work, to serve") and *šamar* ("to guard, to keep watch over").
 
@@ -61,9 +72,13 @@ The Ezekiel 28 passage deserves particular note. The address to the king of Tyre
 
 ### Later Jewish, Christian, and Islamic literature
 
-The Eden tradition is substantially elaborated in post-biblical literature. **The Book of Jubilees** (c. 2nd century BCE) places Eden's location with specific geographic detail and gives the garden a sanctuary-like role in subsequent history. **1 Enoch** (composed across several centuries from the 3rd century BCE onward) preserves elaborate Edenic geography and connects Eden to the Watchers tradition. **The Life of Adam and Eve** (c. 1st century CE) and the **Apocalypse of Moses** develop the Adam-and-Eve narrative at length, with extensive material on the post-expulsion period. **Rabbinic midrash** — Genesis Rabbah, the Tanchuma, the *Pirkei de-Rabbi Eliezer* — develops the Edenic narrative across many centuries with substantial elaboration. **Patristic Christian writers** (Theophilus of Antioch, Origen, Augustine) develop the typological and allegorical readings that would become standard in Western theology. **Qur'anic and Islamic sources** preserve a parallel tradition of *Jannat ʿAdn*, "the gardens of Eden," used in the Qur'an as a designation of paradise (e.g., Q 9:72, Q 13:23, Q 19:61); the Qur'anic tradition preserves the Adam-and-Eve narrative with several specific differences from the biblical account.
+The Eden tradition is substantially elaborated in post-biblical literature. **The Book of Jubilees** (c. 2nd century BCE) places Eden's location with specific geographic detail and gives the garden a sanctuary-like role in subsequent history. **1 Enoch** (composed across several centuries from the 3rd century BCE onward) preserves elaborate Edenic geography and connects Eden to the Watchers tradition. **The Life of Adam and Eve** (c. 1st century CE) and the **{% wiki(slug="apocalypse") %}Apocalypse{% end %} of {% wiki(slug="moses") %}Moses{% end %}** develop the Adam-and-Eve narrative at length, with extensive material on the post-expulsion period. **Rabbinic midrash** — Genesis Rabbah, the Tanchuma, the *Pirkei de-Rabbi Eliezer* — develops the Edenic narrative across many centuries with substantial elaboration. **Patristic Christian writers** (Theophilus of Antioch, Origen, Augustine) develop the typological and allegorical readings that would become standard in Western theology. **Qur'anic and Islamic sources** preserve a parallel tradition of *Jannat ʿAdn*, "the gardens of Eden," used in the Qur'an as a designation of paradise (e.g., Q 9:72, Q 13:23, Q 19:61); the Qur'anic tradition preserves the Adam-and-Eve narrative with several specific differences from the biblical account.
 
 ### Mesopotamian parallels
+
+{% library(book="genesis-woh", chapter=3, verse=24) %}
+He drove out the human, and placed at the east of the garden of Eden the cherubim and the flaming blade that turns itself, to guard the way to the tree of life.
+{% end %}
 
 The closest Mesopotamian parallel to Eden is the tradition of **Dilmun**, treated more fully in *Comparative observations* below. Dilmun appears in Sumerian texts as a paradisiacal land where the gods dwelled and where there was no sickness, hunger, or death — a description structurally close to certain elements of the Edenic tradition. The myth of *Enki and Ninhursag* describes Dilmun as a place where "the lion does not kill, the wolf does not snatch the lamb," with imagery that has clear resonance with Isaiah's later prophetic visions of restored Eden. The geographical identification of Dilmun is contested in Assyriology, with Bahrain being the traditional identification; the Persian Gulf location of Dilmun is one of the points the various Persian Gulf Eden-location hypotheses build on.
 
@@ -139,7 +154,7 @@ Eden's significance in the Wheel of Heaven framework is structured by three dist
 
 ### The pivotal political crisis
 
-Eden is, on the corpus's reading, the location of the most consequential political crisis the alliance has ever faced. The Lucifer-faction disclosure of restricted knowledge to the synthesized humans produced a political settlement — the permanent exile of the dissenting faction, the withdrawal of the rest of the creator personnel, the establishment of the post-Eden mediated-contact pattern — that has structured the entire subsequent post-creation history. Every operational policy the alliance has pursued across the subsequent fifteen millennia has been a response to or development of the post-Eden settlement. The patriarchal-period reconstruction with Abraham, the Mosaic-period direct intervention, the post-Aries indirect-contact policy, the Piscean-age missions of Jesus and Muhammad, the Aquarian-age opening with Vorilhon — all are operational extensions of the political situation Eden produced.
+Eden is, on the corpus's reading, the location of the most consequential political crisis the alliance has ever faced. The Lucifer-faction disclosure of restricted knowledge to the synthesized humans produced a political settlement — the permanent exile of the dissenting faction, the withdrawal of the rest of the creator personnel, the establishment of the post-Eden mediated-contact pattern — that has structured the entire subsequent post-creation history. Every operational policy the alliance has pursued across the subsequent fifteen millennia has been a response to or development of the post-Eden settlement. The patriarchal-period reconstruction with {% wiki(slug="abraham") %}Abraham{% end %}, the Mosaic-period direct intervention, the post-Aries indirect-contact policy, the Piscean-age missions of {% wiki(slug="jesus") %}Jesus{% end %} and {% wiki(slug="muhammad") %}Muhammad{% end %}, the Aquarian-age opening with Vorilhon — all are operational extensions of the political situation Eden produced.
 
 ### The textual anchor
 
@@ -211,7 +226,7 @@ The Persian Avestan tradition also preserves a paradisiacal first-place traditio
 
 Greek mythology preserves a paradisiacal-first-place tradition in the **Garden of the Hesperides** — a garden at the western edge of the world tended by the Hesperides nymphs, containing the golden apples that Hera received as a wedding gift from Gaia, guarded by the dragon Ladon. The structural parallels to Eden are striking: a garden at a specific geographic location (though the western rather than the eastern edge of the world); fruit-bearing trees with special significance; a serpentine guardian; an association with divine origins.
 
-Hesiod's **Golden Race / Golden Age** tradition in *Works and Days* describes a prior race of humans who lived "in ease and peace upon their lands with many good things" before the gods replaced them with progressively lesser races. The structural parallel to the Genesis 5 long-lived patriarchs and the broader Edenic / antediluvian tradition is evident, with the Hesiodic tradition preserving the temporal-progression (paradise lost, succeeding ages of decline) more strongly than the Hebrew tradition does.
+Hesiod's **Golden Race / {% wiki(slug="golden-age") %}Golden Age{% end %}** tradition in *Works and Days* describes a prior race of humans who lived "in ease and peace upon their lands with many good things" before the gods replaced them with progressively lesser races. The structural parallel to the Genesis 5 long-lived patriarchs and the broader Edenic / antediluvian tradition is evident, with the Hesiodic tradition preserving the temporal-progression (paradise lost, succeeding ages of decline) more strongly than the Hebrew tradition does.
 
 The **Plato Atlantis tradition** (treated more fully in the [Antediluvian](../antediluvian/) entry) is structurally related but distinct, treating the lost civilization rather than the original paradise. The corpus reads Hesperides, the Golden Race, and Atlantis as three distinct Greek-tradition fragments preserving different aspects of the same underlying antediluvian historical situation.
 
@@ -279,7 +294,7 @@ Biglino, Mauro. *Il Libro che cambierà per sempre le nostre idee sulla Bibbia*.
 
 Biglino, Mauro. *La Bibbia non parla di Dio*. Mondadori, 2015.
 
-Biglino, Mauro, and Giorgio Cattaneo. *The Naked Bible: The Truth About the Most Famous Book in History*. Uno, 2022.
+Biglino, Mauro, and Giorgio Cattaneo. *The Naked Bible: {% wiki(slug="the-truth") %}The Truth{% end %} About the Most Famous Book in History*. Uno, 2022.
 
 Wallis, Paul Anthony. *Escaping from Eden*. 6th Books, 2020.
 

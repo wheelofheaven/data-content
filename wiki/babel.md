@@ -91,6 +91,10 @@ The traditional Christian theological designation **"the Confusion of Tongues"**
 
 ### Corpus-internal usage
 
+{% library(book="genesis-woh", chapter=11, verse=1) %}
+The whole land was of one lip and one set of words.
+{% end %}
+
 The Wheel of Heaven corpus uses **Babel** as the principal designation for the broader narrative event, with **Tower of Babel** used specifically when the spacecraft / launch-facility component is the principal focus. The various other designations are used in specific contexts where operational specificity is required.
 
 ## Conventional understanding

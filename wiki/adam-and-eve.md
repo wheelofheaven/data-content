@@ -85,6 +85,10 @@ Adam and Eve appear principally in Genesis 2–5, with substantial subsequent bi
 
 ### Genesis 1:26–28: the summary creation account
 
+{% library(book="genesis-woh", chapter=1, verse=26) %}
+And the Elohim said, "Let us make humankind in our image, according to our likeness; and let them rule over the fish of the sea, and over the birds of the skies, and over the cattle, and over all the land, and over every creeping thing that creeps upon the land."
+{% end %}
+
 Genesis 1:26–28 records the creation of humans within the seven-day creation sequence:
 
 > *"Then Elohim said, 'Let us make humanity (ʾāḏām) in our image (bə-ṣalmēnû), after our likeness (ki-dmûtēnû); and let them have dominion over the fish of the sea and over the birds of the air and over the cattle and over all the earth and over every creeping thing that creeps upon the earth.' So Elohim created humanity (ʾāḏām) in his image (bə-ṣalmô), in the image of Elohim (bə-ṣelem ʾĕlōhîm) he created him; male and female he created them. And Elohim blessed them."* (Genesis 1:26–28)
@@ -94,6 +98,10 @@ The corpus reads Genesis 1:26–28 as the **summary account** of the broader hum
 The Genesis 1 account does not name Adam and Eve specifically. The "ʾāḏām" of Genesis 1:26–27 is the generic species term, referring to the broader human-creation program rather than to specific individuals. The framework's reading is that Genesis 1 covers the full seven-team program, with Adam and Eve being the specific Israel-team contribution that the Genesis 2 narrative will detail.
 
 ### Genesis 2:4–25: the Eden synthesis narrative
+
+{% library(book="genesis-woh", chapter=2, verse=7) %}
+YHWH-Elohim formed the human, dust from the ground, and breathed into his nostrils the breath of life; and the human became a living being.
+{% end %}
 
 Genesis 2:4–25 records the specific creation of Adam and Eve in the Eden installation:
 
