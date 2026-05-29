@@ -1,5 +1,5 @@
 +++
-title = "Narrative Map"
-description = "A visual journey through the cosmic narrative of Wheel of Heaven, tracing the transmission of knowledge from the Elohim through human history to the Age of Aquarius."
+title = "Interactive Map"
+description = "A navigable visual map of Wheel of Heaven, linking the precessional ages, source texts, and core concepts into one exploratory surface."
 template = "map.html"
 +++
