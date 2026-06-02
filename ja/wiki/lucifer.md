@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 translation_status = "metadata_only"
-category = "Cosmic Figures"
+category = "Biblical Figures"
 editorial_pass = "2026-05"
 entry_type = "figure"
 alternative_names = ["the Light-Bringer", "lūcifer", "Helel ben Shahar", "הֵילֵל בֶּן־שַׁחַר", "the Morning Star", "Phosphoros", "Heosphoros", "the Lucifer faction leader"]

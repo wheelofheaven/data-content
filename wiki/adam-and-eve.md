@@ -6,7 +6,7 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
-category = "Cosmic Figures"
+category = "Biblical Figures"
 editorial_pass = "2026-05"
 entry_type = "figure"
 alternative_names = ["Adam", "Eve", "אָדָם וְחַוָּה", "ʾĀḏām and Ḥawwāh", "the First Humans", "the First Pair", "Adam Kadmon and Hawwah (in Kabbalistic tradition)"]
