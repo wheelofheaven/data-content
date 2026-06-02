@@ -1,7 +1,7 @@
 {
   "$schema": "./translation-glossary-schema.json",
   "name": "Wheel of Heaven Translation Glossary",
-  "version": "2.57.0",
+  "version": "2.58.0",
   "released": "2026-06-02",
   "description": "Lexical decisions made by the Wheel of Heaven Translation Program. Distinct from content/i18n/glossary.json, which records site-UI terminology. Each entry records a source-language term, the standard PD-translation rendering, the WoH choice, the rationale, and the verses where the choice applies. Pinned to per-chapter translations via `glossaryVersion` in chapter metadata.",
   "sourceLanguages": [
@@ -11237,7 +11237,44 @@
         "BCY-WOH-1.2-i:35",
         "BCY-WOH-1.2-i:38",
         "BCY-WOH-1.2-iii:13",
-        "BCY-WOH-1.2-iii:15"
+        "BCY-WOH-1.2-iii:15",
+        "BCY-WOH-1.3-iii:50",
+        "BCY-WOH-1.3-iv:24",
+        "BCY-WOH-1.3-iv:29",
+        "BCY-WOH-1.3-iv:30",
+        "BCY-WOH-1.3-iv:32",
+        "BCY-WOH-1.3-iv:41",
+        "BCY-WOH-1.3-iv:48",
+        "BCY-WOH-1.3-v:2",
+        "BCY-WOH-1.3-v:4",
+        "BCY-WOH-1.3-v:5",
+        "BCY-WOH-1.3-v:6",
+        "BCY-WOH-1.3-v:15",
+        "BCY-WOH-1.3-v:22",
+        "BCY-WOH-1.3-v:26",
+        "BCY-WOH-1.3-v:36",
+        "BCY-WOH-1.3-v:37",
+        "BCY-WOH-1.3-v:38",
+        "BCY-WOH-1.4-i:6",
+        "BCY-WOH-1.4-i:19",
+        "BCY-WOH-1.4-ii:28",
+        "BCY-WOH-1.4-iii:31",
+        "BCY-WOH-1.4-iii:40",
+        "BCY-WOH-1.4-iv:12",
+        "BCY-WOH-1.4-iv:14",
+        "BCY-WOH-1.4-iv:15",
+        "BCY-WOH-1.4-iv:16",
+        "BCY-WOH-1.4-iv:18",
+        "BCY-WOH-1.4-iv:31",
+        "BCY-WOH-1.4-iv:34",
+        "BCY-WOH-1.4-iv:37",
+        "BCY-WOH-1.4-iv:43",
+        "BCY-WOH-1.4-iv:59",
+        "BCY-WOH-1.4-v:5",
+        "BCY-WOH-1.4-v:36",
+        "BCY-WOH-1.4-vi:18",
+        "BCY-WOH-1.4-vii:25",
+        "BCY-WOH-1.4-viii:10"
       ]
     },
     {
@@ -11277,7 +11314,69 @@
         "BCY-WOH-1.2-iv:34",
         "BCY-WOH-1.2-iv:36",
         "BCY-WOH-1.2-iv:38",
-        "BCY-WOH-1.2-iv:40"
+        "BCY-WOH-1.2-iv:40",
+        "BCY-WOH-1.3-i:20",
+        "BCY-WOH-1.3-i:21",
+        "BCY-WOH-1.3-iii:7",
+        "BCY-WOH-1.3-iii:19",
+        "BCY-WOH-1.3-iii:23",
+        "BCY-WOH-1.3-iv:3",
+        "BCY-WOH-1.3-iv:4",
+        "BCY-WOH-1.3-iv:6",
+        "BCY-WOH-1.3-iv:13",
+        "BCY-WOH-1.3-iv:22",
+        "BCY-WOH-1.3-iv:34",
+        "BCY-WOH-1.3-iv:39",
+        "BCY-WOH-1.3-iv:52",
+        "BCY-WOH-1.3-v:17",
+        "BCY-WOH-1.3-v:32",
+        "BCY-WOH-1.3-v:33",
+        "BCY-WOH-1.3-v:35",
+        "BCY-WOH-1.3-v:44",
+        "BCY-WOH-1.3-vi:3",
+        "BCY-WOH-1.3-vi:9",
+        "BCY-WOH-1.3-vi:20",
+        "BCY-WOH-1.4-i:4",
+        "BCY-WOH-1.4-i:36",
+        "BCY-WOH-1.4-i:37",
+        "BCY-WOH-1.4-i:38",
+        "BCY-WOH-1.4-ii:13",
+        "BCY-WOH-1.4-ii:37",
+        "BCY-WOH-1.4-iii:11",
+        "BCY-WOH-1.4-iii:13",
+        "BCY-WOH-1.4-iii:19",
+        "BCY-WOH-1.4-iii:28",
+        "BCY-WOH-1.4-iii:29",
+        "BCY-WOH-1.4-iv:10",
+        "BCY-WOH-1.4-iv:38",
+        "BCY-WOH-1.4-iv:55",
+        "BCY-WOH-1.4-iv:58",
+        "BCY-WOH-1.4-v:17",
+        "BCY-WOH-1.4-v:23",
+        "BCY-WOH-1.4-v:27",
+        "BCY-WOH-1.4-v:31",
+        "BCY-WOH-1.4-v:33",
+        "BCY-WOH-1.4-v:52",
+        "BCY-WOH-1.4-v:56",
+        "BCY-WOH-1.4-vi:2",
+        "BCY-WOH-1.4-vi:9",
+        "BCY-WOH-1.4-vi:13",
+        "BCY-WOH-1.4-vi:28",
+        "BCY-WOH-1.4-vi:47",
+        "BCY-WOH-1.4-vi:50",
+        "BCY-WOH-1.4-vii:4",
+        "BCY-WOH-1.4-vii:6",
+        "BCY-WOH-1.4-vii:9",
+        "BCY-WOH-1.4-vii:16",
+        "BCY-WOH-1.4-vii:20",
+        "BCY-WOH-1.4-vii:27",
+        "BCY-WOH-1.4-vii:37",
+        "BCY-WOH-1.4-vii:41",
+        "BCY-WOH-1.4-vii:45",
+        "BCY-WOH-1.4-vii:54",
+        "BCY-WOH-1.4-viii:19",
+        "BCY-WOH-1.4-viii:30",
+        "BCY-WOH-1.4-viii:34"
       ]
     },
     {
@@ -11327,7 +11426,15 @@
         "BCY-WOH-1.2-iv:35",
         "BCY-WOH-1.2-iv:36",
         "BCY-WOH-1.2-iv:38",
-        "BCY-WOH-1.2-iv:39"
+        "BCY-WOH-1.2-iv:39",
+        "BCY-WOH-1.3-iv:24",
+        "BCY-WOH-1.3-iv:25",
+        "BCY-WOH-1.3-iv:26",
+        "BCY-WOH-1.4-ii:28",
+        "BCY-WOH-1.4-ii:29",
+        "BCY-WOH-1.4-ii:50",
+        "BCY-WOH-1.4-vi:18",
+        "BCY-WOH-1.4-vii:25"
       ]
     },
     {
@@ -11342,7 +11449,39 @@
       "claim_type": "direct",
       "rationale": "**The cleanest Ugaritic-Hebrew direct-cognate divine name.** Ugaritic *ʾAṯiratu* (alphabetic-cuneiform *ʾaṯrt*) is the **direct Semitic cognate** of Hebrew *Asherah* — the philological correspondence proto-Semitic *ṯ* → Ugaritic *ṯ* (preserved) ↔ Hebrew *š* (regular phonological development) is the standard West-Semitic shift; the consonantal correspondence ʾ-ṯ-r ↔ ʾ-š-r is the regular development. The Ugaritic-Hebrew connection is one of the cleanest divine-name cognates in the Northwest-Semitic corpus.\n\nAt Ugarit, *ʾAṯiratu* is **ʾIlu's consort** and the mother of the gods. Her full title is *rbt ʾaṯrt ym* 'Lady ʾAṯiratu of the Sea' (an honorific *ym* possibly meaning 'sea' or possibly a separate epithet — Smith 1994 vol 1 discusses both readings). Her sons are *bn ʾaṯrt* 'sons of ʾAṯiratu' (= the divine assembly; see entry `bn-ilm-sons-of-god-cross-corpus-ugaritic-hebrew-bnei-elohim` for the parallel *bn ʾilm* 'sons of god'). At KTU 1.2-iii:15 the line *ʾaṯrt w bnh* 'ʾAṯiratu and her sons' is paired with *ʾilt w ṣbrt ʾaryh* 'the goddess and the household of her kindred' — the parallel *ʾilt* 'goddess' is her standing title.\n\n**Cross-corpus Hebrew Bible — the Asherah polemic.** The Hebrew Bible deploys *Asherah* (sg.) and *Asherim / Asherot* (pl.) in two senses, the relation between which is one of the most-debated questions in Hebrew Bible scholarship:\n- **The goddess Asherah** — attested as a deity Israel is ordered not to worship. 1 Kings 18:19 — *uvʿei ha-asherah arbaʿ meʾot va-chamishshim* '450 prophets of Asherah' (alongside the 400 prophets of Baʿal). Jeremiah 7:18 — *limalekhet ha-shamayim* 'the Queen of Heaven' (cult-rite to a goddess). 2 Kgs 21:7 — *ha-pesel ha-asherah* 'the carved-image of Asherah' (placed in the Jerusalem temple by Manasseh).\n- **The cult-pole** — wooden ritual-objects (*asherim*) at Israelite shrines, ordered to be cut down by Deut 16:21 *lo titaʿ l'kha asherah kol-ʿetz* 'you shall not plant an asherah of any tree' and by Exod 34:13. Whether these *asherim* are aniconic cult-poles representing the goddess or are direct cult-objects of the goddess herself is debated.\n- **The Kuntillet ʿAjrud and Khirbet el-Qom inscriptions** (8th c. BCE) — the famous Israelite inscriptional attestation of *yhwh ... ve-asheratah* 'YHWH ... and his Asherah' (the possessive suffix raises further interpretive questions — Asherah as YHWH's consort, or as a cult-symbol-of-YHWH).\n\nThe modern-consensus reading (Day 2000; Olyan 1988; Hadley 2000; Dever 2005) treats the Hebrew Asherah as the historical continuation of Ugaritic ʾAṯiratu — the same divine-figure-type and the same name, transmitted into Israelite religion as a Yahwistic-consort (or as an aniconic-cult-pole) and then progressively suppressed through monarchic and exilic religious-reform. The polemic-vs-Asherah is one of the diagnostic indicators of evolving Yahwistic-monolatry.\n\n**Named-scholarship frame.** **J. Day**, *Yahweh and the Gods and Goddesses of Canaan* (JSOTSup 265, Sheffield 2000) — comprehensive treatment of the Ugaritic-Hebrew Asherah continuity. **S. M. Olyan**, *Asherah and the Cult of Yahweh in Israel* (SBLMS 34, Atlanta 1988). **J. M. Hadley**, *The Cult of Asherah in Ancient Israel and Judah: Evidence for a Hebrew Goddess* (Cambridge 2000). **W. G. Dever**, *Did God Have a Wife? Archaeology and Folk Religion in Ancient Israel* (Grand Rapids 2005) — popular but scholarly synthesis of the inscriptional evidence. **M. S. Smith**, *The Early History of God: Yahweh and the Other Deities in Ancient Israel* (2nd ed., Grand Rapids 2002), pp. 108-147 on Asherah. For the Ugaritic ʾAṯiratu specifically: **N. Wyatt**, *Religious Texts from Ugarit* (Sheffield 2002); **M. S. Smith**, *The Ugaritic Baal Cycle, Volume 1* (1994) and Smith & Pitard, *The Ugaritic Baal Cycle, Volume 2* (2009).\n\n**Bidirectional cross-references.** This entry sits in cluster with: existing Hebrew central entries `elohim-as-translation`, `yhwh-elohim`; new Ugaritic entries `el-ugaritic-ilu-northwest-semitic-pantheon-head-cross-corpus` (her consort), `bn-ilm-sons-of-god-cross-corpus-ugaritic-hebrew-bnei-elohim` (her sons), `anat-warrior-goddess-cross-corpus-ugaritic-erased-from-hebrew-bible`, `astarte-athtart-cross-corpus-ugaritic-hebrew-bible-ashtoreth`. Future Hebrew Editor pass on Deut 16:21, 1 Kgs 18:19, or the Kuntillet ʿAjrud inscriptional material should produce the Hebrew central entry on Asherah with bidirectional back-reference.\n\n**Lens-discipline operational disavowals.** (i) **No Sitchin-corpus reading of ʾAṯiratu as Anunnaki-engineered-bio-mother-figure or as a coded reference to genetic-engineering progenitor-deity.** The Ugaritic source-text deploys ʾAṯiratu in the standard Northwest-Semitic mother-goddess register; no engineering-protocol vocabulary is present. (ii) **No simplistic Christian-Mariological pre-resolution.** Christian receptions of the mother-goddess figure-type read backward to Mary or to Sophia-traditions are downstream layers the Editor does not adopt in the source-text apparatus.",
       "appliesTo": [
-        "BCY-WOH-1.2-iii:15"
+        "BCY-WOH-1.2-iii:15",
+        "BCY-WOH-1.3-i:14",
+        "BCY-WOH-1.3-iv:40",
+        "BCY-WOH-1.3-iv:42",
+        "BCY-WOH-1.3-iv:53",
+        "BCY-WOH-1.3-v:41",
+        "BCY-WOH-1.4-i:5",
+        "BCY-WOH-1.4-i:7",
+        "BCY-WOH-1.4-i:19",
+        "BCY-WOH-1.4-i:40",
+        "BCY-WOH-1.4-ii:19",
+        "BCY-WOH-1.4-ii:21",
+        "BCY-WOH-1.4-ii:25",
+        "BCY-WOH-1.4-iii:15",
+        "BCY-WOH-1.4-iii:16",
+        "BCY-WOH-1.4-iii:18",
+        "BCY-WOH-1.4-iii:24",
+        "BCY-WOH-1.4-iii:30",
+        "BCY-WOH-1.4-iii:32",
+        "BCY-WOH-1.4-iii:37",
+        "BCY-WOH-1.4-iv:3",
+        "BCY-WOH-1.4-iv:6",
+        "BCY-WOH-1.4-iv:23",
+        "BCY-WOH-1.4-iv:24",
+        "BCY-WOH-1.4-iv:33",
+        "BCY-WOH-1.4-iv:45",
+        "BCY-WOH-1.4-v:9",
+        "BCY-WOH-1.4-v:10",
+        "BCY-WOH-1.4-v:19",
+        "BCY-WOH-1.4-v:29",
+        "BCY-WOH-1.4-v:32",
+        "BCY-WOH-1.4-vi:58",
+        "BCY-WOH-1.4-viii:25"
       ]
     },
     {
@@ -11359,7 +11498,37 @@
       "appliesTo": [
         "BCY-WOH-1.1-ii:15",
         "BCY-WOH-1.2-i:45",
-        "BCY-WOH-1.2-iii:8"
+        "BCY-WOH-1.2-iii:8",
+        "BCY-WOH-1.3-ii:3",
+        "BCY-WOH-1.3-ii:13",
+        "BCY-WOH-1.3-ii:14",
+        "BCY-WOH-1.3-ii:21",
+        "BCY-WOH-1.3-ii:24",
+        "BCY-WOH-1.3-ii:29",
+        "BCY-WOH-1.3-ii:31",
+        "BCY-WOH-1.3-iii:21",
+        "BCY-WOH-1.3-iii:41",
+        "BCY-WOH-1.3-iv:17",
+        "BCY-WOH-1.3-iv:20",
+        "BCY-WOH-1.3-iv:47",
+        "BCY-WOH-1.3-iv:50",
+        "BCY-WOH-1.3-iv:54",
+        "BCY-WOH-1.3-iv:55",
+        "BCY-WOH-1.3-v:10",
+        "BCY-WOH-1.3-v:14",
+        "BCY-WOH-1.3-v:19",
+        "BCY-WOH-1.3-v:29",
+        "BCY-WOH-1.3-v:31",
+        "BCY-WOH-1.4-ii:14",
+        "BCY-WOH-1.4-iii:14",
+        "BCY-WOH-1.4-iii:20",
+        "BCY-WOH-1.4-iii:23",
+        "BCY-WOH-1.4-iv:9",
+        "BCY-WOH-1.4-iv:44",
+        "BCY-WOH-1.4-iv:50",
+        "BCY-WOH-1.4-v:20",
+        "BCY-WOH-1.4-v:25",
+        "BCY-WOH-1.4-v:41"
       ]
     },
     {
@@ -11387,7 +11556,27 @@
         "BCY-WOH-1.2-iv:10",
         "BCY-WOH-1.2-iv:11",
         "BCY-WOH-1.2-iv:26",
-        "BCY-WOH-1.2-iv:27"
+        "BCY-WOH-1.2-iv:27",
+        "BCY-WOH-1.3-vi:11",
+        "BCY-WOH-1.3-vi:12",
+        "BCY-WOH-1.3-vi:13",
+        "BCY-WOH-1.3-vi:14",
+        "BCY-WOH-1.3-vi:16",
+        "BCY-WOH-1.3-vi:18",
+        "BCY-WOH-1.3-vi:19",
+        "BCY-WOH-1.3-vi:25",
+        "BCY-WOH-1.4-i:32",
+        "BCY-WOH-1.4-i:45",
+        "BCY-WOH-1.4-ii:48",
+        "BCY-WOH-1.4-iv:54",
+        "BCY-WOH-1.4-v:48",
+        "BCY-WOH-1.4-v:51",
+        "BCY-WOH-1.4-v:57",
+        "BCY-WOH-1.4-v:60",
+        "BCY-WOH-1.4-vi:1",
+        "BCY-WOH-1.4-vi:8",
+        "BCY-WOH-1.4-vii:11",
+        "BCY-WOH-1.4-vii:15"
       ]
     },
     {
@@ -11421,7 +11610,11 @@
       "appliesTo": [
         "BCY-WOH-1.2-i:18",
         "BCY-WOH-1.2-i:38",
-        "BCY-WOH-1.2-i:40"
+        "BCY-WOH-1.2-i:40",
+        "BCY-WOH-1.3-iii:20",
+        "BCY-WOH-1.3-v:38",
+        "BCY-WOH-1.4-iii:28",
+        "BCY-WOH-1.4-v:30"
       ]
     },
     {
@@ -11438,7 +11631,21 @@
       "appliesTo": [
         "BCY-WOH-1.1-iii:17",
         "BCY-WOH-1.2-i:21",
-        "BCY-WOH-1.2-i:42"
+        "BCY-WOH-1.2-i:42",
+        "BCY-WOH-1.3-iv:40",
+        "BCY-WOH-1.3-iv:53",
+        "BCY-WOH-1.4-i:5",
+        "BCY-WOH-1.4-iii:30",
+        "BCY-WOH-1.4-v:9",
+        "BCY-WOH-1.4-v:19",
+        "BCY-WOH-1.4-v:32",
+        "BCY-WOH-1.4-vi:58",
+        "BCY-WOH-1.4-vii:53",
+        "BCY-WOH-1.4-viii:9",
+        "BCY-WOH-1.4-viii:11",
+        "BCY-WOH-1.4-viii:16",
+        "BCY-WOH-1.4-viii:25",
+        "BCY-WOH-1.4-viii:32"
       ]
     },
     {
@@ -11460,7 +11667,9 @@
         "BCY-WOH-1.1-v:10",
         "BCY-WOH-1.1-v:22",
         "BCY-WOH-1.2-i:35",
-        "BCY-WOH-1.2-i:38"
+        "BCY-WOH-1.2-i:38",
+        "BCY-WOH-1.4-iii:40",
+        "BCY-WOH-1.4-iv:32"
       ]
     },
     {
@@ -11475,7 +11684,13 @@
       "claim_type": "direct",
       "rationale": "**THE central epithet of Baʿlu.** Ugaritic *rkb ʿrpt* 'Rider of the Clouds' is the most-attested standing storm-theophany epithet of Baʿlu across the entire Ugaritic corpus. In the Baal Cycle KTU 1.1-1.2 it appears at KTU 1.2-iv:6 (Kothar's address: *ṯnt l rkb ʿrpt* 'did I not repeat to you, O Rider of the Clouds?'). The epithet recurs at KTU 1.3-ii:40, 1.3-iv:4, 1.4-iii:11, 1.4-v:7, 1.5-ii:7, and elsewhere across the Cycle's six tablets. The image is the storm-god riding on cloud-mounts as his theophany-vehicle: the cloud-as-divine-chariot motif. *rkb* 'rider' is the standard Northwest-Semitic noun for 'one who rides / mounts'; *ʿrpt* is the plural of *ʿrp* 'cloud', possibly a poetic-or-archaic plural form.\n\n**The most-clearly-Ugaritic-derived Hebrew Bible storm-theophany.** The cross-corpus link to the Hebrew Bible is among the most-documented and the textually clearest in Northwest-Semitic-Hebrew comparative-philology:\n- **Ps 68:5** — *šîrû lē-ʾlōhîm zammĕrû šĕmô sōllû lā-rōkēb bā-ʿărābôt b-Yāh šĕmô* 'sing to Elohim, praise his name; lift up a song to the one who rides on the clouds — Yah is his name'. The phrase *rōkēb bā-ʿărābôt* has been read in two ways: (i) **'rider on the clouds'** reading *ʿărābôt* as a Hebrew counterpart to Ugaritic *ʿrpt* 'clouds' (the standard modern critical reading, Cross 1973; Day 2000; Tate 1990); (ii) **'rider on the deserts'** reading *ʿărābôt* as the plural of *ʿărābâ* 'desert' (the older traditional reading, ASV; KJV 'rider in the deserts'). The modern critical reading takes the Hebrew *ʿărābôt* as etymologically and functionally the same as Ugaritic *ʿrpt* — clouds, with the Hebrew vocalization reflecting the Hebrew development of the lexeme. This is the **single clearest textual borrowing** of Baʿlu's epithet for YHWH in the Hebrew Bible.\n- **Deut 33:26** — *rōkēb šāmayim b-ʿezrekha u-v-gaʾavato šĕchaqim* 'he rides the heavens for your help, in his majesty the clouds' — Moses' blessing of Israel; the *rōkēb šāmayim* 'rider of the heavens' is a near-synonymous variant.\n- **Ps 18:11 (// 2 Sam 22:11)** — *va-yirkav ʿal kĕruv va-yaʿof va-yedeʾ ʿal kanfei ruach* 'he rode on a cherub and flew, swooping on the wings of the wind' — the storm-theophany in the cherub-and-wind variant; structurally parallel to the cloud-mount but using cherub-throne imagery.\n- **Ps 104:3** — *ha-śam ʿabim rĕkhubô ha-mhalekh ʿal kanfei ruach* 'who makes the clouds his chariot, who walks on the wings of the wind' — directly cognate imagery, with *ʿabim* 'clouds' + *rĕkhubô* 'his chariot'.\n- **Isa 19:1** — *hinneh YHWH rōkēb ʿal ʿab qal* 'behold YHWH rides on a swift cloud' (in the oracle against Egypt).\n- **Dan 7:13** — *ʿim ʿănanê šĕmayyāʾ k-bar ʾĕnāš ātēh hăwāʾ* 'one like a son of man came with the clouds of heaven' (in the throne-room vision).\n- **Mark 14:62 // Matt 26:64; Rev 1:7** — the NT 'coming on the clouds' Christological appropriation of Dan 7:13.\n\nThe named-scholarship treats the Ugaritic *rkb ʿrpt* → Hebrew *rōkēb bā-ʿărābôt* / *rōkēb šāmayim* / Baʿlu-storm-imagery-for-YHWH as **one of the textually clearest cases of Baʿlu-epithet-absorption-into-Yahwistic-theology**. The historical-religious process is the same one documented at the central entry on Baʿlu: as Yahweh's storm-god profile sharpens (especially in the monarchic period), Baʿlu's epithets are progressively reassigned to YHWH.\n\n**Named-scholarship frame.** **F. M. Cross**, *Canaanite Myth and Hebrew Epic* (Cambridge MA 1973), pp. 147-194 on the storm-theophany inheritance. **J. Day**, *Yahweh and the Gods and Goddesses of Canaan* (JSOTSup 265, Sheffield 2000), pp. 91-127 on Baʿal and YHWH-as-storm-god. **M. E. Tate**, *Psalms 51-100* (WBC, Waco 1990) on Ps 68. **D. M. Howard**, *The Structure of Psalms 93-100* (BJSUCSD 5, Winona Lake 1997) on the cloud-theophany psalms. **M. S. Smith**, *The Ugaritic Baal Cycle, Volume 1* (1994) on the Ugaritic epithet itself. **N. Wyatt**, 'Cloud,' in DDD (2nd ed., Leiden 1999).\n\n**Bidirectional cross-references.** Cluster with new Ugaritic entries `baal-ugaritic-baalu-storm-god-cross-corpus-hebrew-bible-polemic`, `mount-sapunu-tsafon-cosmic-mountain-cross-corpus-ugaritic-hebrew-bible`; existing Hebrew central entries dealing with storm-theophany (no dedicated central entry yet; future Hebrew Editor pass on Ps 68:5 should produce one with bidirectional back-reference).\n\n**Lens-discipline operational disavowals.** (i) **No Christological pre-resolution.** The NT 'coming on the clouds' Christological appropriation of Dan 7:13 (Mark 14:62; Matt 26:64; Rev 1:7) is a second-order theological-historical development resting on Dan 7:13 which itself rests on the Hebrew Bible storm-theophany tradition which itself absorbs Ugaritic *rkb ʿrpt*. The Editor does **not** pre-resolve the Ugaritic and Hebrew material to the NT Christological reception; the typological reading is a downstream layer that lives in wiki and broader-corpus discussions. (ii) **No Sitchin-corpus reading of cloud-riding as Anunnaki-aerial-vehicle / cloud-ship / atmospheric-craft.** The Ugaritic source-text deploys *rkb ʿrpt* in the standard Northwest-Semitic storm-theophany register; the cloud-mount is the Bronze Age West-Semitic theological-mythological image of the storm-god riding the storm-clouds, not an engineering-vehicle vocabulary.",
       "appliesTo": [
-        "BCY-WOH-1.2-iv:6"
+        "BCY-WOH-1.2-iv:6",
+        "BCY-WOH-1.3-ii:40",
+        "BCY-WOH-1.3-iv:23",
+        "BCY-WOH-1.4-iii:11",
+        "BCY-WOH-1.4-v:7",
+        "BCY-WOH-1.4-vi:10",
+        "BCY-WOH-1.4-vii:32"
       ]
     },
     {
@@ -11491,7 +11706,16 @@
       "rationale": "**The Northwest-Semitic cosmic-mountain.** Ugaritic *ṣpn* (Ṣapunu) is Baʿlu's holy mountain and palace-residence — the divine cosmic-mountain of the Ugaritic mythological cosmography. Geographically it is identified with **Jebel al-Aqra** (Arabic 'the bald mountain'), a 1717m peak on the modern Turkish-Syrian border, ~50 km north of ancient Ugarit. The mountain is visible from Ugarit and from the Mediterranean coastal plain; its summit is regularly snow-capped and weather-active. In Akkadian sources it is called **Mount Ḫazi**; in Hittite as **Mount Ḫazzi**; in Hellenistic Greek as **Mount Kasion** (with cult-traces continuing into Roman antiquity — Pausanias mentions it; the Hellenistic-Roman cult identifies Zeus Kasios with the local storm-deity descended from Baʿlu).\n\nIn the Baal Cycle KTU 1.1-1.2, Ṣapunu appears in fragmentary references (1.1-v:5, 18 — *b ṣpn* 'in Ṣapunu'); it is more prominent in KTU 1.3-1.4 (the palace-building cycle) where Baʿlu's palace is constructed on Mount Ṣapunu. The mountain is the **divine-residence / storm-cult-site / cosmic-axis** of Baʿlu's domain.\n\n**Cross-corpus Hebrew Bible — the ṣāpôn cluster.** Hebrew *ṣāpôn* is the everyday Hebrew word for **'north'** (as a cardinal direction) and is used hundreds of times in the Hebrew Bible in geographical-directional sense. But the Hebrew Bible also preserves *ṣāpôn* in fossilized divine-mountain attestations:\n- **Ps 48:3** — *y'fei nof m'soś kol ha-ʾaretz har ṣiyyon yarkĕtê ṣāpôn qiryat melekh rāv* 'beautiful in elevation, the joy of all the earth, Mount Zion, in the far north, the city of the great King'. The phrase *yarkĕtê ṣāpôn* 'recesses of the north / far north' is the cosmic-mountain phrase — applying to Jerusalem's Mount Zion. The named-scholarship reading (Clifford 1972; Cross 1973; Day 2000): the Hebrew tradition has **transferred Mount Ṣapunu's cosmic-mountain attributes onto Mount Zion**, using the *ṣāpôn* cognate-word to encode the cosmic-mountain register. Zion is not geographically in the far north; *yarkĕtê ṣāpôn* is theological-cosmographic, not geographic.\n- **Isa 14:13** — *ʾeʿĕleh la-shamayim m-maʿal l-kokhvei ʾēl ʾarîm kis'i v-eshev b-har moʿed b-yarkĕtê ṣāpôn* 'I will ascend to the heavens; above the stars of God I will set my throne on high; I will sit on the mount of assembly in the far north'. The proud claim of the Day-Star-son-of-Dawn (Helel ben Shahar) to ascend to the cosmic-mountain — the same *yarkĕtê ṣāpôn* phrasing as Ps 48:3, here in a clearly mythological-cosmographic context.\n- **Ezek 1:4** — *va-ʾereʾ v-hinneh ruach s'arah ba'ah min ha-ṣāpôn* 'I looked, and behold, a stormy wind came from the north' — Ezekiel's throne-vision opens with a storm-wind from the north; the cosmographic-religious encoding is again the divine-mountain-in-the-north tradition.\n- **Job 26:7** — *noteh ṣāpôn ʿal tohu toleh eretz ʿal blimah* 'he stretches out the north over emptiness, suspends the earth over nothing' — cosmic-mountain in the north as the cosmographic-pillar.\n\nThe named-scholarship treats the Hebrew **'north as cosmic-mountain' tradition** as a direct inheritance from the Northwest-Semitic Mount Ṣapunu cosmography. The Hebrew tradition's transfer of these cosmic-mountain attributes onto Mount Zion is one of the central theological moves of Hebrew religious-development.\n\n**Named-scholarship frame.** **R. J. Clifford**, *The Cosmic Mountain in Canaan and the Old Testament* (HSM 4, Cambridge MA 1972) — the foundational monograph treatment. **F. M. Cross**, *Canaanite Myth and Hebrew Epic* (Cambridge MA 1973), pp. 36-38, 60-61, 89-90 on Ṣapunu. **J. Day**, *Yahweh and the Gods and Goddesses of Canaan* (JSOTSup 265, Sheffield 2000) on Mount Zion's appropriation of Ṣapunu imagery. **M. S. Smith**, *The Ugaritic Baal Cycle, Volume 1* (1994) on the Ugaritic Mount Ṣapunu. **F. Stolz**, 'Zion,' in DDD (2nd ed., Leiden 1999). **J. J. M. Roberts**, 'The Davidic Origin of the Zion Tradition,' *JBL* 92 (1973) 329-344.\n\n**Bidirectional cross-references.** Cluster with new Ugaritic central entries `baal-ugaritic-baalu-storm-god-cross-corpus-hebrew-bible-polemic`, `rider-of-the-clouds-rkb-arpt-cross-corpus-ugaritic-hebrew-bible-storm-theophany`. Future Hebrew Editor pass on Ps 48 or Isa 14:13 should produce the Hebrew central entry on the Zion-as-cosmic-mountain tradition with bidirectional back-reference.\n\n**Lens-discipline operational disavowals.** (i) **No Sitchin-Nibiru fringe-reading** of Mount Ṣapunu as an Anunnaki-base, hidden-planetary-installation, or extraterrestrial-landing-site. Ṣapunu is the historically-attested **Jebel al-Aqra** on the Turkish-Syrian border; the named-scholarship identification is uncontested across Smith 1994, Pardee 2003, Day 2000, Clifford 1972. The mountain is climbed, mapped, and archaeologically surveyed; its identity is a settled question of historical-geography. (ii) **No Christian-typology** mapping Mount Ṣapunu onto Mount Sinai, Mount Tabor, or the Mount of Transfiguration. The Hebrew tradition's appropriation of Ṣapunu-cosmography onto Mount Zion is the documented Hebrew theological move; later Christian-traditional cosmic-mountain typology is a downstream layer.",
       "appliesTo": [
         "BCY-WOH-1.1-v:5",
-        "BCY-WOH-1.1-v:18"
+        "BCY-WOH-1.1-v:18",
+        "BCY-WOH-1.3-i:20",
+        "BCY-WOH-1.3-iii:38",
+        "BCY-WOH-1.3-iv:4",
+        "BCY-WOH-1.3-iv:34",
+        "BCY-WOH-1.3-v:45",
+        "BCY-WOH-1.4-i:36",
+        "BCY-WOH-1.4-iv:10",
+        "BCY-WOH-1.4-v:23",
+        "BCY-WOH-1.4-vii:42"
       ]
     },
     {
@@ -11524,7 +11748,10 @@
       "rationale": "**The Northwest-Semitic royal-theology eternal-kingship formula.** Ugaritic *mlk ʿlm* 'eternal kingship' appears in Baʿlu's victory-coronation at KTU 1.2-iv:8: *tqḥ mlk ʿlmk drkt dt drdrk* 'you shall take your eternal kingship, your dominion of generation upon generation'. Kothar (the divine craftsman) promises Baʿlu, in the course of the weapon-forging-and-instruction scene, that the victory over Yammu will install Baʿlu in **perpetual royal kingship**. The lexical pair *mlk ʿlm* + *drkt dt drdrk* 'dominion of generation upon generation' is the standard NW-Semitic royal-promise formula.\n\n**Cross-corpus Hebrew Bible — the eternal-kingship tradition.** The Hebrew Bible deploys the eternal-kingship lexeme cluster across the royal-theology tradition:\n- **Ps 145:13** — *malkhutkha malkhut kol-ʿolamim u-memshaltkha b-khol dor va-dor* 'your kingdom is an everlasting kingdom; your dominion endures throughout all generations'. The *malkhut ʿolamim* phrase is the direct Hebrew counterpart of Ugaritic *mlk ʿlm*; the second hemistich *b-khol dor va-dor* 'throughout all generations' is structurally parallel to Ugaritic *drkt dt drdrk* 'dominion of generation upon generation'.\n- **Jer 10:10** — *YHWH elohim emet, hu elohim chayyim u-melekh ʿolam* 'YHWH is the true God; he is the living God and the everlasting King'. The *melekh ʿolam* phrase as YHWH-title.\n- **Dan 4:34 (Aramaic)** — *shaltaneh shaltan ʿalam u-malkhuteh ʿim dar va-dar* 'his dominion is an everlasting dominion, and his kingdom endures from generation to generation' — Nebuchadnezzar's acknowledgment in the Aramaic of Daniel; again the kingdom-everlasting + generation-upon-generation pair.\n- **Dan 7:14** — *shaltaneh shaltan ʿalam di la yeʿdeh u-malkhuteh di la titchabbal* 'his dominion is an everlasting dominion that shall not pass away, and his kingdom is one that shall not be destroyed' — the throne-vision; the eternal-kingship formula applied to the 'one like a son of man'.\n- **2 Sam 7:13, 16 (Davidic covenant)** — *v-khonanti et-kis'e mamlakhto ʿad-ʿolam … v-neʾeman beithkha u-mamlakhtkha ʿad-ʿolam l-fanekha kis'akha y-hiyeh nakhon ʿad-ʿolam* 'I will establish the throne of his kingdom forever … your house and your kingdom shall be made sure forever before you; your throne shall be established forever'. The Davidic-promise of perpetual kingship-forever; the *ʿad-ʿolam* 'forever / to-far-time' construction is the Hebrew variant of *ʿolam*.\n- **Ps 89:5, 30, 37-38** — the Davidic-eternal-throne royal psalm, deploying the eternal-kingship formula extensively.\n- **Mic 4:7; Isa 9:6 (English 9:7); 1 Chr 17:14** — additional eternal-kingship attestations.\n\nThe Hebrew tradition's **transfer of the eternal-kingship formula** from the Northwest-Semitic divine-royal context (Baʿlu's kingship at Ugarit) onto **both YHWH's eternal kingship and the Davidic-dynasty's promised eternal-kingship** is one of the diagnostic theological-moves of Israelite royal-theology. The Davidic-Yahwistic royal-theology of the monarchic period (and the Second-Temple eschatological-Davidic-restoration tradition that builds on it) directly draws on the inherited Northwest-Semitic eternal-kingship vocabulary.\n\n**Named-scholarship frame.** **F. M. Cross**, *Canaanite Myth and Hebrew Epic* (Cambridge MA 1973), pp. 99-105 on the Davidic eternal-kingship covenant. **J. Day**, *Yahweh and the Gods and Goddesses of Canaan* (JSOTSup 265, Sheffield 2000). **G. von Rad**, *The Royal Ritual in Judah* (1947); **R. de Vaux**, *Ancient Israel: Its Life and Institutions* (London 1961) on the royal-theology context. **W. M. Schniedewind**, *Society and the Promise to David* (Oxford 1999) on the Davidic-covenant-as-eternal-kingship.\n\n**Bidirectional cross-references.** Cluster with new Ugaritic entries `baal-ugaritic-baalu-storm-god-cross-corpus-hebrew-bible-polemic`, `kothar-wa-khasis-divine-craftsman-cross-corpus-speech-act-weapon-naming`, `yagrush-ayamur-speech-act-named-divine-weapons-cross-corpus`. Future Hebrew Editor pass on 2 Sam 7, Ps 89, or Ps 145 should produce the Hebrew central entry on eternal-kingship with bidirectional back-reference. The existing Hebrew central entry `brit-olam` (the *brit olam* covenant-as-everlasting) is in the adjacent semantic field but distinct from *mlk ʿlm*.\n\n**Lens-discipline operational disavowals.** (i) **No Christian-Christological eschatological pre-resolution.** The NT 'kingdom of God' / 'eternal kingdom' / 'reign of Christ forever' traditions inherit the Hebrew Bible's eternal-kingship vocabulary which inherits the Ugaritic substrate; but Christian-eschatological reading of these traditions as fulfilled in Christ is a downstream theological layer that the Editor does not pre-resolve from the source-text apparatus. (ii) **No Sitchin-corpus reading of mlk ʿlm as encoded reference to engineered-immortality-of-rulership or to Anunnaki-eternal-dynasty.** The phrase deploys the standard Northwest-Semitic royal-theology of perpetuity-of-rule.",
       "appliesTo": [
         "BCY-WOH-1.2-iv:8",
-        "BCY-WOH-1.2-iv:9"
+        "BCY-WOH-1.2-iv:9",
+        "BCY-WOH-1.4-iv:38",
+        "BCY-WOH-1.4-iv:57",
+        "BCY-WOH-1.4-vii:52"
       ]
     },
     {
@@ -11541,7 +11768,8 @@
       "appliesTo": [
         "BCY-WOH-1.2-i:20",
         "BCY-WOH-1.2-i:31",
-        "BCY-WOH-1.2-i:32"
+        "BCY-WOH-1.2-i:32",
+        "BCY-WOH-1.3-v:7"
       ]
     },
     {
@@ -11598,7 +11826,13 @@
         "BCY-WOH-1.2-iv:34",
         "BCY-WOH-1.2-iv:36",
         "BCY-WOH-1.2-iv:38",
-        "BCY-WOH-1.2-iv:40"
+        "BCY-WOH-1.2-iv:40",
+        "BCY-WOH-1.3-iii:47",
+        "BCY-WOH-1.3-iii:48",
+        "BCY-WOH-1.3-iii:49",
+        "BCY-WOH-1.3-iv:26",
+        "BCY-WOH-1.3-iv:27",
+        "BCY-WOH-1.3-iv:28"
       ]
     },
     {
@@ -11614,6 +11848,295 @@
       "rationale": "**The single most-contested Ugaritic-Hebrew comparative-philology data-point.** KTU 1.1-iv:14 reads *šm bny yw ʾilt* — translated literally 'the name of my son is YW, O goddess (ʾIlatu)' or 'the name of my son is YW(?), O ʾIlatu(?)'. The line occurs in the divine banquet scene at which ʾIlu proclaims the elevation of one of his sons to kingship. Multiple readings of the line's syntax and proper-name vocalization are extant.\n\n**The YHWH-connection question — three named-scholarship readings.**\n\n**(i) J. C. de Moor, *The Seasonal Pattern in the Ugaritic Myth of Baʿlu* (AOAT 16, Neukirchen-Vluyn 1971).** De Moor reads *yw* as a real divine name, likely **YHWH-related**. On de Moor's reading, the Baal Cycle's narrative-context — Yammu's elevation to challenge Baʿlu — explicitly names Yammu (the antagonist!) as bearing a name *YW* that is phonologically-related to the Hebrew divine name. De Moor proposes that the Ugaritic *YW* preserves an early West-Semitic theophoric morpheme later embedded in Hebrew YHWH. The interpretive significance, on de Moor's reading, is dramatic: Ugaritic religion documents a deity *YW* whose name resembles Yahweh, and that deity is Baʿlu's antagonist (not his cognate).\n\n**(ii) F. M. Cross, *Canaanite Myth and Hebrew Epic* (Cambridge MA 1973).** Cross is **cautiously open**: he notes the philological uncertainty but recognizes the phonological similarity. Cross's broader reconstruction of YHWH's origin (the so-called 'kenitic / midianite hypothesis' linking YHWH to southern desert traditions) is independent of the Ugaritic *YW* question, but Cross does not foreclose a Ugaritic-YHWH connection. Cross's overall framework treats YHWH as emerging from the Northwest-Semitic divine-language inheritance with distinct theological development; the Ugaritic *YW* attestation is one philological data-point in that emergence-history.\n\n**(iii) M. S. Smith, *The Ugaritic Baal Cycle, Volume 1* (VTSup 55, Leiden 1994), pp. 152-160.** Smith is **the most cautious** of the three readings. He reads *yw* as **one of ʾIlu's seventy sons being named** (the broader Ugaritic tradition of ʾIlu having seventy sons via ʾAṯiratu, *šbʿm bn ʾaṯrt*). The YHWH connection on Smith's reading is **'possible but not proven'**: the Y-W consonants do match the Yahwistic short theophoric ending (*-yw*, *-yāhû* attested in Hebrew personal names), but the line's narrative-context (the YW-name is given to *Yammu*, the Sea-god antagonist, not to a separate divine figure) complicates any straightforward YHWH-equation. Smith argues that the Y-W phonological match could be coincidental, and that the philological evidence does not bear the weight of the YHWH-identification.\n\n**The claim-type rationale: inferred (NOT direct).** This entry is marked `inferred` because the YHWH-cognation question is **genuinely unresolved in the named scholarship**. The conservative position (Smith 1994 vol 1) is the most-cited in modern critical scholarship; the de Moor 1971 reading is the most-influential single article-treatment but represents one named-position rather than consensus; the Cross 1973 reading is consistent with broader Northwest-Semitic-Hebrew comparative-philology without committing to a Ugaritic-YHWH identity-equation. The Editor preserves the surface-translation as **bare transliteration *YW***, with no vocalization-commitment and no Hebrew-cognation-commitment.\n\n**VERBATIM disavowal.** This entry does NOT claim that Ugaritic proves Yahweh originated as a Canaanite deity. The philological evidence is genuinely contested. Both directions of the YHWH-Ugaritic question remain open in the named scholarship cited.\n\n**Additional disavowals.** (i) **No Sitchin-corpus reading of YW as engineered-extraterrestrial-deity-prototype.** The Ugaritic source-text gives *yw* in the standard NW-Semitic divine-naming register; no engineering vocabulary is present. (ii) **No Christian-Trinitarian / Yahweh-Christology pre-resolution.** The NT Christology of YHWH is a downstream theological development that the Editor does not pre-resolve from Ugaritic source-text apparatus. (iii) **No Hebrew-Bible-as-syncretistic-derivative-from-Ugaritic blanket-reading.** The Hebrew Bible's Yahwistic religion has distinct historical-developmental features that the named-scholarship documents in their own terms; the Ugaritic-Yahweh comparative-philology question is one localized data-point, not a global identity-equation.\n\n**Named-scholarship frame.** **J. C. de Moor**, *The Seasonal Pattern in the Ugaritic Myth of Baʿlu* (AOAT 16, Neukirchen-Vluyn 1971), pp. 116-126 on the YW line. **F. M. Cross**, *Canaanite Myth and Hebrew Epic* (Cambridge MA 1973), pp. 60-75, 152-160 on the YHWH-origin question. **M. S. Smith**, *The Ugaritic Baal Cycle, Volume 1* (VTSup 55, Leiden 1994), pp. 152-160 — extensive treatment of the YW line and the YHWH-connection question. **M. S. Smith**, *The Origins of Biblical Monotheism* (Oxford 2001) and *The Early History of God: Yahweh and the Other Deities in Ancient Israel* (2nd ed., Grand Rapids 2002) for the broader Yahweh-origin scholarship. **D. Pardee**, *'The Baʿlu Myth (1.86)'* in CoS 1 (Leiden 2003), pp. 241-274. **J. Day**, *Yahweh and the Gods and Goddesses of Canaan* (JSOTSup 265, Sheffield 2000).\n\n**Bidirectional cross-references.** Cluster with `el-ugaritic-ilu-northwest-semitic-pantheon-head-cross-corpus`, `yamm-yammu-sea-deified-cross-corpus-chaoskampf-hebrew-bible`; the existing Hebrew central entry `yhwh-elohim` (on the YHWH-Elohim composite divine designation in the Eden pericope) is in the adjacent semantic field — future Hebrew Editor pass should note the YW line as one possible philological data-point in the YHWH-origin question, while preserving the **named-scholarship-debate-not-settled** posture.",
       "appliesTo": [
         "BCY-WOH-1.1-iv:14"
+      ]
+    },
+    {
+      "id": "mot-mavet-death-personified-cross-corpus-ugaritic-hebrew-bible",
+      "source": "mt (Ugaritic alphabetic-cuneiform); bn ʾilm mt 'Môtu the son of the gods'",
+      "translit": "Môtu",
+      "lemma": "mt (Ugaritic, vocalized Môtu); mt / māwet (Hebrew); mūtu (Akkadian); proto-Semitic *√mwt 'die'",
+      "partOfSpeech": "Ugaritic divine name: Môtu, Death personified, son of ʾIlu; principal antagonist of Baʿlu in KTU 1.5-1.6; in KTU 1.4-vii:50-53 and 1.4-viii:9-32 proleptically introduced at the end of the palace-building cycle; cross-corpus to Hebrew māwet 'death' as a poetic personification (Hos 13:14; Isa 25:8; Hab 2:5; Ps 49:15; Jer 9:20-21)",
+      "literal": "Môtu — Death personified as the son of ʾIlu, devourer-with-the-vast-throat, ruler of the underworld",
+      "standardEnglish": "Môtu / Mot (Ugaritic vocalization or Hebrew-conventional form); the Ugaritic death-god (Smith 1985; Day 2000; Healey 1999 DDD)",
+      "wohChoice": "Môtu (Ugaritic vocalization preserved where the source-text is Ugaritic; the Ugaritic/Hebrew distinction is maintained in the apparatus)",
+      "claim_type": "direct",
+      "rationale": "**The Northwest-Semitic death-deity.** Ugaritic *mt* (vocalized Môtu) is the personified Death-god of the Baal Cycle, son of ʾIlu (*bn ʾilm mt* 'Môtu the son of the gods'). His principal narrative role unfolds in KTU 1.5-1.6 (chapter 3 of this translation): Baʿlu descends into Môtu's throat, dies, and is later resurrected when ʿAnatu ritually destroys Môtu by grinding, winnowing, and sowing. In KTU 1.4-vii:50-53 and 1.4-viii:9-32 (the closing of chapter 2), Môtu is proleptically named as the recipient of Baʿlu's challenge-embassy. His standard iconography: a vast throat reaching from earth to heaven, a tongue licking the stars, a mouth that swallows gods.\n\n**Cross-corpus Hebrew Bible — māwet as personified death.** The Hebrew lemma *māwet* is the same proto-Semitic *√mwt* root as Ugaritic *mt*. In most prose attestations, Hebrew *māwet* is the abstract noun 'death'. In poetic-prophetic contexts, however, the word is **personified** with imagery closely matching Ugaritic Môtu:\n- **Hos 13:14** — *mi-yad sh'ol epdem mi-mawet egʾalem ehi devareikha mawet ehi qotov'kha sh'ol* 'from the hand of Sheol I will ransom them, from Death I will redeem them; where are your plagues, O Death? where is your destruction, O Sheol?' — direct address to personified Death/Sheol.\n- **Isa 25:8** — *billaʿ ha-mawet la-netzach* 'he will swallow up Death forever' — the verb *blʿ* 'swallow' deployed against personified Death is itself the inverse of Môtu's standing iconography (the throat-that-swallows).\n- **Hab 2:5** — *hirchiv ki-sh'ol nafsho v-hu ka-mawet v-lo yisbaʿ* 'his appetite is wide as Sheol; like Death he is never satisfied' — the vast-throat imagery.\n- **Ps 49:15** — *ka-tzon li-sh'ol shattu mawet yirʿem* 'like sheep they are appointed for Sheol; Death shall be their shepherd' — Death-as-shepherd.\n- **Jer 9:20-21** — Death personified as climbing through windows.\n- **Job 18:13-14; 28:22; Prov 5:5; 7:27** — broader poetic-personification cluster.\n\nThe cross-corpus relationship is widely accepted: the Hebrew poetic personification of Death preserves the Northwest-Semitic Môtu substrate within an emergent Hebrew monolatry that abstracts the death-god into a non-deity but retains the imagery. Named scholarship: **M. S. Smith**, 'Death in Jeremiah,' *UF* 17 (1985) 311-314 and the broader corpus; **J. F. Healey**, 'Mot,' in K. van der Toorn et al. (eds.), *Dictionary of Deities and Demons in the Bible* (2nd ed., Leiden 1999), pp. 598-603; **J. Day**, *Yahweh and the Gods and Goddesses of Canaan* (JSOTSup 265, Sheffield 2000); **N. J. Tromp**, *Primitive Conceptions of Death and the Nether World in the Old Testament* (Rome 1969).\n\n**Bidirectional cross-references.** Cluster with `el-ugaritic-ilu-northwest-semitic-pantheon-head-cross-corpus` (his father), `baal-ugaritic-baalu-storm-god-cross-corpus-hebrew-bible-polemic` (his antagonist), `bn-ilm-sons-of-god-cross-corpus-ugaritic-hebrew-bnei-elohim` (his class); the Hebrew personified-death cluster (Hos 13:14, Isa 25:8, Hab 2:5) is a candidate for future dedicated Hebrew-side central entry, which should back-reference this entry.\n\n**Lens-discipline operational disavowals.** (i) **No Christian-typology pre-resolution.** The NT Adam-Christology cluster (1 Cor 15:54-55 *kateposthē ho thanatos eis nikos … pou sou, thanate, to kentron;* citing Hos 13:14 + Isa 25:8) reads the Hebrew personified-Death tradition Christologically as defeated-in-Christ; that is a downstream theological development from the canonical Hebrew form, and is not pre-resolved into the Ugaritic source-text apparatus. The Ugaritic Môtu material is its own thing. (ii) **No Sitchin-corpus reading of Môtu as an Anunnaki-faction commander of an 'underworld kingdom'.** The Ugaritic source-text deploys Môtu in the standard Northwest-Semitic death-god register. (iii) **No popular-fringe conflation of Môtu with Egyptian Osiris or with the Greek Hades** — the figure-types overlap but the divine-name and theological role are distinct.",
+      "appliesTo": [
+        "BCY-WOH-1.4-vii:50",
+        "BCY-WOH-1.4-vii:51",
+        "BCY-WOH-1.4-vii:53",
+        "BCY-WOH-1.4-viii:9",
+        "BCY-WOH-1.4-viii:11",
+        "BCY-WOH-1.4-viii:16",
+        "BCY-WOH-1.4-viii:26",
+        "BCY-WOH-1.4-viii:32",
+        "BCY-WOH-1.4-viii:34",
+        "BCY-WOH-1.4-viii:35"
+      ]
+    },
+    {
+      "id": "lotanu-leviathan-seven-headed-serpent-cross-corpus-ugaritic-hebrew-bible",
+      "source": "ltn bṯn brḥ wbṯn ʿqltn šlyṭ d šbʿt rʾašm (Ugaritic alphabetic-cuneiform); KTU 1.3-iii:47-49 and KTU 1.5-i:1-3",
+      "translit": "Lôtanu bṯanu bāriḥu wa-bṯanu ʿaqallatānu šalyaṭu dū šabʿati rʾašīma",
+      "lemma": "ltn (Ugaritic; proper name); livyatan (Hebrew); proto-Semitic *√lwy 'coil, wind'",
+      "partOfSpeech": "Ugaritic divine name: Lôtanu, the seven-headed primordial serpent-monster, slain by Baʿlu (or by ʿAnatu) in cosmogonic combat; the cleanest direct philological cognate to Hebrew livyatan; cross-corpus to Hebrew Bible (Isa 27:1; Ps 74:13-14; Ps 104:26; Job 3:8; Job 26:13; Job 41) and to broader Northwest-Semitic chaos-monster mythologem",
+      "literal": "Lôtanu the fleeing serpent and the twisting serpent, the tyrant with seven heads",
+      "standardEnglish": "Lôtanu / Lotan / Litan (Ugaritic vocalization; Smith & Pitard 2009 vol 2; Day 1985; Pardee 2003; Tsumura 2005)",
+      "wohChoice": "Lôtanu (Ugaritic vocalization preserved where the source-text is Ugaritic; the Hebrew livyatan is treated as a direct philological cognate in the apparatus)",
+      "claim_type": "direct",
+      "rationale": "**The cleanest cognate-cluster in Northwest-Semitic Chaoskampf studies.** Ugaritic *ltn* (vocalized Lôtanu) is the direct philological cognate of Hebrew *liwyāṯān* (Leviathan): proto-Semitic *√lwy* 'coil, wind' yields both forms with regular phonological development. The Ugaritic narrative-context at KTU 1.3-iii:47-49 (ʿAnatu's victory boast: *k tmḫṣ ltn bṯn brḥ tkly bṯn ʿqltn šlyṭ d šbʿt rʾašm* 'for I struck Lôtanu the fleeing serpent, I finished off the twisting serpent, the tyrant with seven heads') and at KTU 1.5-i:1-3 (Môtu's parallel reference) gives the full epithet-cluster: *bṯn brḥ* 'fleeing serpent', *bṯn ʿqltn* 'twisting/writhing serpent', *šlyṭ d šbʿt rʾašm* 'tyrant with seven heads'.\n\n**The Hebrew Bible cognate-cluster.** \n- **Isa 27:1** — *yifqod YHWH bĕ-charbô ha-qāšāh … ʿal liwyāṯān nāḥāš bāriaḥ wĕ-ʿal liwyāṯān nāḥāš ʿăqallāṯôn wĕ-hārag et ha-tannîn ʾăšer ba-yām* 'YHWH will punish with his hard sword … Leviathan the fleeing serpent, Leviathan the twisting serpent; he will slay the dragon in the sea.' The Hebrew epithet-cluster *nāḥāš bāriaḥ / nāḥāš ʿăqallāṯôn* is the direct lexical equivalent of Ugaritic *bṯn brḥ / bṯn ʿqltn*. The triple match (proper name + two adjective-epithets) is among the most precise Ugaritic-Hebrew matches in the entire corpus.\n- **Ps 74:13-14** — *attah forarta v-ʿozkha yam … attah ritzatzta rashei livyatan* '… you crushed the heads of Leviathan' — the plural *rashei* (heads) preserves the multi-headedness motif paralleling Ugaritic *šbʿt rʾašm*.\n- **Job 26:13** — *rūḥô šāmayim šifrāh chōlĕlāh yādô nāchāš bāriaḥ* 'by his breath the heavens were made fair; his hand pierced the fleeing serpent' — *nāchāš bāriaḥ* again.\n- **Job 41 (Heb 40:25-41:26)** — the extended Behemoth-Leviathan poem.\n- **Ps 104:26** — *liwyāṯān zeh yāṣartā lĕ-śaḥeq bô* 'Leviathan whom you formed to sport with it' — the demythologized poetic register.\n- **Job 3:8** — *yiqq'vuhu ʾôrĕrê yôm hā-ʿătîdîm ʿōrēr liwyāṯān* 'let those curse it who curse the day, who are ready to rouse Leviathan' — the cosmic-cursing register.\n\nNamed scholarship: **J. Day**, *God's Conflict with the Dragon and the Sea: Echoes of a Canaanite Myth in the Old Testament* (Cambridge 1985) — THE foundational treatment; the Lôtanu-Leviathan connection is the central case-study. **M. Wakeman**, *God's Battle with the Monster* (Leiden 1973). **D. T. Tsumura**, *Creation and Destruction* (Winona Lake 2005) — the dissenting critical re-appraisal. **J. Day**, *Yahweh and the Gods and Goddesses of Canaan* (JSOTSup 265, Sheffield 2000) — extended treatment. **K. van der Toorn**, 'Leviathan,' in DDD (2nd ed., Leiden 1999), pp. 511-515.\n\n**Bidirectional cross-references.** Cluster with `yamm-yammu-sea-deified-cross-corpus-chaoskampf-hebrew-bible`, `chaoskampf-sea-conflict-cross-corpus-ugaritic-akkadian-hebrew-bible`. The existing `chaoskampf-sea-conflict-...` entry mentions Lôtanu in its rationale; this entry now adds the dedicated lemma-cluster treatment with full appliesTo coverage of the Ugaritic refIds.\n\n**Lens-discipline operational disavowals.** (i) **No Christian-Apocalyptic-typology pre-resolution.** Revelation 12:3-9 (the dragon with seven heads and ten horns) and Revelation 13:1 (the sea-beast with seven heads) clearly re-deploy the Lôtanu-Leviathan imagery, but as a downstream theological development in a Jewish-Christian eschatological frame. The Ugaritic and Hebrew Lôtanu-Leviathan source-texts are their own thing, theologically and historically distinct. The Editor does not pre-resolve the New Testament Apocalyptic reception into the Ugaritic source-text apparatus. (ii) **No Sitchin-corpus reading of Lôtanu as an engineered-bio-weapon or Anunnaki-faction-mecha.** The Ugaritic source-text deploys Lôtanu in the standard Northwest-Semitic chaos-serpent register. (iii) **No demythologization-against-Day-1985.** The Editor preserves the Day 1985 reading as the dominant scholarly consensus while noting the Tsumura 2005 reappraisal in the apparatus.",
+      "appliesTo": [
+        "BCY-WOH-1.3-iii:47",
+        "BCY-WOH-1.3-iii:48",
+        "BCY-WOH-1.3-iii:49",
+        "BCY-WOH-1.3-iv:26",
+        "BCY-WOH-1.3-iv:27",
+        "BCY-WOH-1.3-iv:28"
+      ]
+    },
+    {
+      "id": "qlh-qds-tr-arts-thunder-voice-theophany-cross-corpus-ugaritic-hebrew-bible-psalm-29",
+      "source": "ytn qlh b ʿrpt // qdš tr ʾarṣ (Ugaritic alphabetic-cuneiform); KTU 1.4-vii:32-37",
+      "translit": "yatnu qōlahu bi-ʿarapāti // qudšu taru ʾarṣa",
+      "lemma": "ql 'voice' (Ugaritic; Hebrew qōl); ʿrpt 'clouds' (Ugaritic; Hebrew ʿărāfôt / ʿăvôt); qdš 'holy' (Ugaritic; Hebrew qādôš); tr 'shake' (Ugaritic; Hebrew *rʿš / cognate cluster); ʾarṣ 'earth'",
+      "partOfSpeech": "Ugaritic theophany-formula: the storm-god's voice (= thunder) issuing from his palace through the open window, with the parallel 'his holy voice shakes the earth'; cross-corpus to Hebrew Bible qol YHWH theophany cluster (Ps 29 in its entirety; Ps 18:13-14; Hab 3:3-15; Job 37:2-5; Jer 25:30; Joel 4:16); F. M. Cross's flagship Ugaritic-Hebrew comparative-philology argument",
+      "literal": "he gives forth his voice in the clouds // (his) holy (voice) shakes the earth — the Baʿlu-thunder-theophany",
+      "standardEnglish": "the qol-YHWH thunder-theophany (Cross 1973; Day 2000; Smith 2002; Mowinckel)",
+      "wohChoice": "preserve the Ugaritic theophany-formula in surface English while flagging the direct cross-corpus link in commentary; no surface-level Yahwization or pre-resolution into Ps 29 language",
+      "claim_type": "direct",
+      "rationale": "**Cross's flagship Ugaritic-Hebrew comparative-philology argument.** F. M. Cross (*Canaanite Myth and Hebrew Epic*, Cambridge MA 1973) argued that Hebrew Psalm 29 — with its seven-fold *qol YHWH* (voice-of-YHWH) thunder-progression — is a **Yahwehized Baʿlu hymn**: a Ugaritic-style storm-god theophany in which YHWH has replaced Baʿlu as the storm-deity whose voice (= thunder) shakes the cosmos. The KTU 1.4-vii:32-37 passage is the structural prototype.\n\n**The Ugaritic theophany-passage.** At KTU 1.4-vii:32-37 — with the window of the palace open — Baʿlu releases his voice and lightnings: *ytn qlh b ʿrpt // šrh l ʾarṣ brqm // qdš tr ʾarṣ // rṯq ġrm ṯḥt // tṭṭn ġr ʿdm* 'he gives forth his voice in the clouds; he releases his lightnings to the earth; (his) holy (voice) shakes the earth; the mountains beneath are shattered; the eternal mountains stagger.' The cluster combines: (i) the voice = thunder; (ii) the lightnings (*brqm*) released as projectiles; (iii) the holy-voice shaking the earth; (iv) the mountains shattered.\n\n**The Hebrew Bible qol-YHWH cluster.**\n- **Ps 29:3-9** — the seven-fold *qol YHWH* progression: voice-on-the-waters, voice-in-power, voice-in-majesty, voice-breaks-the-cedars, voice-flashes-fire, voice-shakes-the-wilderness, voice-causes-the-deer-to-calve. Every element of the Ugaritic Baʿlu-theophany is present: thunder, lightning, earth-shaking, mountain-breaking, the cosmic upheaval.\n- **Ps 18:13-14 / 2 Sam 22:14-15** — *ya-rʿem mi-shamayim YHWH v-ʿelyon yitten qolo … va-yishlach chitzav va-yfitzem braqim rav va-yhummem* 'YHWH thundered from heaven, the Most High uttered his voice … he sent his arrows and scattered them, and many lightnings, and routed them' — voice + lightning + arrows.\n- **Hab 3:3-15** — the extended theophany of the warrior-YHWH with the mountains shaking, the rivers fleeing, the sun and moon standing still.\n- **Job 37:2-5** — Elihu's address to Job: *shim'u shamoʿa b-rogez qolo v-hegeh mi-piv yetze … achar yishʾag qol yarʿem b-qol g'ono* 'hear, hear the rumble of his voice, the muttering that comes from his mouth … after it his voice roars, he thunders with his majestic voice'.\n- **Jer 25:30** — *YHWH mi-marom yishʾag u-mi-mʿon qodsho yitten qolo* 'YHWH roars from on high, and from his holy habitation utters his voice'.\n- **Joel 4:16 / 3:16** — *v-YHWH mi-tziyon yishʾag u-m-Yerushalayim yitten qolo v-raʿashu shamayim va-aretz* 'YHWH roars from Zion, and from Jerusalem utters his voice, and the heavens and the earth shake'.\n\nNamed scholarship: **F. M. Cross**, *Canaanite Myth and Hebrew Epic* (Cambridge MA 1973), pp. 151-156 on Ps 29 as Yahwehized Baʿlu hymn; **M. S. Smith**, *The Early History of God: Yahweh and the Other Deities in Ancient Israel* (2nd ed., Grand Rapids 2002); **J. Day**, *Yahweh and the Gods and Goddesses of Canaan* (JSOTSup 265, Sheffield 2000), pp. 91-127 on the Yahweh-Baʿlu thunder-theophany cluster; **S. Mowinckel**, *The Psalms in Israel's Worship* (Oxford 1962). The Ps-29-as-Baʿlu-hymn argument is among the most-cited cases in modern comparative-Semitic Hebrew Bible scholarship.\n\n**Bidirectional cross-references.** Cluster with `baal-ugaritic-baalu-storm-god-cross-corpus-hebrew-bible-polemic` (the storm-god identity), `rider-of-the-clouds-rkb-arpt-cross-corpus-ugaritic-hebrew-bible-storm-theophany` (the parallel cloud-rider epithet, also re-purposed for YHWH at Ps 68:5).\n\n**Lens-discipline operational disavowals.** (i) **No Christian-Pentecost-typology pre-resolution.** Acts 2:2 *ēchos hōsper pheromenēs pnoēs biaias* 'a rushing mighty wind' and the broader Pentecost-theophany cluster do not figure in the Ugaritic-Hebrew thunder-theophany. The NT material is a downstream theological development with its own register and theology; the Ugaritic-Hebrew thunder-theophany is its own thing. (ii) **No Sitchin-corpus reading of the thunder-voice as engineered-broadcast-sound-weapon or as a coded reference to an aerial-vehicle's exhaust-roar.** The source-text deploys *ql* in the standard Northwest-Semitic theophany register, and the imagery is grounded in observable storm-meteorology. (iii) **No popular-fringe conflation with later Jewish bat-qol 'daughter-of-voice' traditions** — the bat-qol of rabbinic Judaism is a distinct intertestamental development.",
+      "appliesTo": [
+        "BCY-WOH-1.4-vii:32",
+        "BCY-WOH-1.4-vii:33",
+        "BCY-WOH-1.4-vii:34",
+        "BCY-WOH-1.4-vii:35",
+        "BCY-WOH-1.4-vii:36"
+      ]
+    },
+    {
+      "id": "palace-temple-building-typology-cross-corpus-ugaritic-mesopotamian-hebrew-bible",
+      "source": "various palace-construction sequences in KTU 1.3-1.4 (Baʿlu's palace built by Kothar-wa-Khasis on Ṣapunu); cf. Enuma Elish VI (Esagil's construction); Hebrew Bible 1 Kgs 5-8; 2 Sam 7; 1 Chr 17; Ezra 3; Hag 1-2",
+      "translit": "—",
+      "lemma": "Northwest-Semitic *bnh* / Hebrew *bānāh* 'build'; Akkadian *epēšu/banû* 'build'; ANE shared compositional-genre",
+      "partOfSpeech": "Cross-cultural ANE compositional pattern: the divine palace / temple construction sequence (deity-without-house → council-decision → divine-craftsman → materials-gathered → construction → seven-day-firing/completion → dedication-banquet → enthronement); spans Mesopotamian (Enuma Elish VI), Ugaritic (Baal Cycle KTU 1.3-1.4), and Hebrew Bible (Solomon's temple cycle); MAJOR foundational cross-corpus compositional-typology",
+      "literal": "the divine palace-or-temple-building composition pattern — a fixed ANE narrative-template",
+      "standardEnglish": "the palace/temple-building typology (Hurowitz 1992; Hundley 2013; Bloch-Smith 2002)",
+      "wohChoice": "preserve the Ugaritic surface narrative; document the typological cluster in commentary; no pre-resolution into the Hebrew Solomonic register",
+      "claim_type": "direct",
+      "rationale": "**The ANE temple-building compositional-typology.** The shared ANE template for divine palace / temple construction was first systematically reconstructed by **V. (A.) Hurowitz**, *I Have Built You an Exalted House: Temple Building in the Bible in Light of Mesopotamian and Northwest Semitic Writings* (JSOTSup 115, Sheffield 1992) — THE foundational study. Hurowitz identifies a fixed sequence: (i) the deity is without a worthy house; (ii) a council-decision (often via intermediary or consort) authorizes construction; (iii) a divine craftsman is commissioned; (iv) materials are gathered (precious metals, cedar, gemstones); (v) construction proceeds; (vi) a seven-day firing/completion period; (vii) a dedication-banquet inviting the gods; (viii) the deity is enthroned, often issuing the voice/thunder/decree from the new house.\n\n**The three principal cross-corpus attestations.**\n\n**(i) Mesopotamian — Enuma Elish VI (Esagil's construction).** After Marduk's victory over Tiamat, the Anunnaki build Esagil ('House Whose Head Is High') in Babylon as Marduk's earthly palace-temple. The cosmic prototype is established by Marduk's heavenly palace; Esagil is its earthly mirror. The dedication-banquet (tablet VI 70-94) issues in the proclamation of Marduk's fifty names.\n\n**(ii) Ugaritic — Baal Cycle KTU 1.3-1.4 (this chapter).** The entire palace-building arc of KTU 1.3-1.4 is the **single most extensive Late Bronze Age attestation** of the typology. Sequence: (a) Baʿlu without a house 'like the gods' (KTU 1.3-iv:39, 52; 1.4-i:4; 1.4-iii:29-30; 1.4-iv:50-51); (b) ʿAnatu's intercession with ʾIlu, then ʾAṯirat's formal petition (KTU 1.3-v; 1.4-iv); (c) Kothar-wa-Khasis commissioned as divine craftsman (KTU 1.4-v:48 etc.); (d) gold, silver, lapis-lazuli, cedar gathered (KTU 1.4-v:36-40, 55); (e) construction (KTU 1.4-vi:1-7); (f) the seven-day firing (KTU 1.4-vi:24-44); (g) the dedication-banquet (KTU 1.4-vi:50-58 — explicitly inviting the seventy sons of ʾAṯirat); (h) Baʿlu enthroned, his voice issuing from the open window (KTU 1.4-vii:7, 28-41).\n\n**(iii) Hebrew Bible — the Solomonic temple cycle.** The Hebrew Bible's principal temple-building narrative (1 Kgs 5-8 // 2 Chr 2-7) deploys the same template under Yahwistic theology:\n- *2 Sam 7 / 1 Chr 17* — Nathan's oracle to David: David offers to build YHWH a 'house of cedar'; YHWH defers ('it is not you but your son who shall build my house'); the council-decision motif.\n- *1 Kgs 5:1-12* — Hiram of Tyre supplies cedars from Lebanon; the precious-materials gathering.\n- *1 Kgs 5:13-18* — Solomon's corvée labor; the construction workforce.\n- *1 Kgs 6* — the construction proper, completed in seven years (1 Kgs 6:38).\n- *1 Kgs 8:65-66* — the dedication-banquet, **seven days plus seven days** (a fourteen-day variant of the seven-day pattern; sometimes 8:65 is read as a single seven-day feast, sometimes as two consecutive seven-day periods).\n- *1 Kgs 8* — the dedication speech and YHWH's glory filling the house — the divine enthronement.\n\nThe parallels are too systematic to be coincidental: Hurowitz 1992 demonstrates that the Hebrew Bible's temple-building narrative is composed in conscious dialogue with the established ANE typology, with Yahwistic theological distinctives (no divine craftsman as discrete deity — Bezalel as YHWH-gifted artisan; YHWH-without-house transposed into the long monarchic-anticipation tradition; the dedication-glory replacing the dedication-banquet).\n\nNamed scholarship: **V. (A.) Hurowitz**, *I Have Built You an Exalted House* (JSOTSup 115, Sheffield 1992) — foundational; **M. B. Hundley**, *Gods in Dwellings: Temples and Divine Presence in the Ancient Near East* (Atlanta 2013); **E. Bloch-Smith**, '\"Who Is the King of Glory?\" Solomon's Temple and Its Symbolism,' in M. D. Coogan et al. (eds.), *Scripture and Other Artifacts* (Louisville 2002); **M. Weinfeld**, 'Sabbath, Temple Building and the Enthronement of the Lord,' in *Avraham Malamat Volume* (1993). For the Ugaritic side: **M. S. Smith and W. T. Pitard**, *The Ugaritic Baal Cycle, Volume 2: Introduction with Text, Translation and Commentary of KTU 1.3-1.4* (VTSup 114, Leiden 2009).\n\n**Bidirectional cross-references.** Cluster with `kothar-wa-khasis-divine-craftsman-cross-corpus-speech-act-weapon-naming` (the craftsman role), `cedars-of-lebanon-erez-cross-corpus-ugaritic-hebrew-bible-construction-material-economy` (the cedar-supply pattern), `seven-day-banquet-feast-structure-cross-corpus-ugaritic-mesopotamian-hebrew-bible` (the dedication-banquet), `house-like-the-gods-divine-residency-complaint-cross-corpus-ugaritic-hebrew-bible-temple-theology` (the without-house complaint), `window-of-heaven-arubbah-cross-corpus-ugaritic-hebrew-bible-storm-god-cosmology` (the window-of-the-palace cosmology). Future Hebrew Editor pass on 1 Kgs 5-8 or 2 Sam 7 should produce the Hebrew central entry on the temple-building typology with bidirectional back-reference.\n\n**Lens-discipline operational disavowals.** (i) **No Sitchin-corpus engineered-temple readings** (no Anunnaki-construction-technology pre-resolution; the ANE temple-building texts deploy the standard religious-architectural register of the period, not engineering protocols). (ii) **No Christian-typology pre-resolution.** Christian readings of Solomon's temple as a typological prefiguration of Christ-as-the-true-temple (John 2:21; Heb 8-9; Rev 21:22) are downstream theological developments not pre-resolved into the ANE source-texts. (iii) **No simplistic equation of the typology with monocausal direct-derivation.** Hurowitz argues for compositional-typological parallelism (shared template across the region) rather than direct textual borrowing in either direction.",
+      "appliesTo": [
+        "BCY-WOH-1.3-iv:39",
+        "BCY-WOH-1.3-iv:52",
+        "BCY-WOH-1.3-vi:1",
+        "BCY-WOH-1.3-vi:2",
+        "BCY-WOH-1.3-vi:22",
+        "BCY-WOH-1.3-vi:23",
+        "BCY-WOH-1.4-i:4",
+        "BCY-WOH-1.4-iii:29",
+        "BCY-WOH-1.4-iv:55",
+        "BCY-WOH-1.4-v:8",
+        "BCY-WOH-1.4-v:17",
+        "BCY-WOH-1.4-v:34",
+        "BCY-WOH-1.4-v:39",
+        "BCY-WOH-1.4-v:52",
+        "BCY-WOH-1.4-v:54",
+        "BCY-WOH-1.4-vi:1",
+        "BCY-WOH-1.4-vi:7",
+        "BCY-WOH-1.4-vi:26",
+        "BCY-WOH-1.4-vi:29",
+        "BCY-WOH-1.4-vi:42",
+        "BCY-WOH-1.4-vi:48",
+        "BCY-WOH-1.4-vii:6"
+      ]
+    },
+    {
+      "id": "window-of-heaven-arubbah-cross-corpus-ugaritic-hebrew-bible-storm-god-cosmology",
+      "source": "ḥln / ʾurbt (Ugaritic alphabetic-cuneiform); KTU 1.4-vi:1-15 and KTU 1.4-vii:13-30",
+      "translit": "ḥallānu / ʾurubbatu",
+      "lemma": "ḥln 'window' (Ugaritic); ʾurbt 'lattice, skylight' (Ugaritic); ḥallôn (Hebrew 'window'); ʾărubbāh (Hebrew 'window, lattice, sluice')",
+      "partOfSpeech": "Ugaritic architectural-cosmological term: the window/skylight in Baʿlu's palace, the cosmological-aperture through which the storm-god's voice issues; the famous window-debate at KTU 1.4-vi:11-15 + KTU 1.4-vii:13-30 (Baʿlu first refuses, then permits); cross-corpus to Hebrew Bible ʾărubbôt ha-šāmayim 'windows of heaven' (Gen 7:11; 8:2; Mal 3:10; 2 Kgs 7:2, 19; Isa 24:18; Eccl 12:3)",
+      "literal": "ḥln 'window' / ʾurbt 'lattice, skylight' — the architectural aperture of the storm-god's palace that doubles as cosmological window-of-heaven",
+      "standardEnglish": "window / lattice / skylight (Smith & Pitard 2009 vol 2; Day 2000)",
+      "wohChoice": "render with 'window' (ʾurbt) and 'skylight' (ḥln) in surface English; the cross-corpus link to Hebrew ʾărubbôt ha-šāmayim is documented in commentary; no pre-resolution into Genesis-Flood language",
+      "claim_type": "direct",
+      "rationale": "**The Ugaritic window-debate as cosmological-theological scene.** At KTU 1.4-vi:1-15 Kothar-wa-Khasis proposes installing a window in Baʿlu's newly built palace; Baʿlu refuses (KTU 1.4-vi:14-19), apparently fearing that the window would allow Yammu — the defeated sea-god — or his daughters to see into the palace, or to leave. At KTU 1.4-vii:13-30 Baʿlu reverses himself and authorizes the window. With the window opened, Baʿlu's voice (= thunder) issues forth and shakes the earth (KTU 1.4-vii:30-41). The window is therefore not a merely architectural feature but the cosmological-aperture through which the storm-god's voice reaches the cosmos.\n\n**Cross-corpus Hebrew Bible — the ʾărubbôt ha-šāmayim cluster.** The Hebrew lemma *ʾărubbāh* 'window, lattice, sluice' (from proto-Semitic *√ʾrb* 'to entwine, lattice') corresponds to the Ugaritic *ʾurbt* with regular phonological development. The Hebrew Bible deploys *ʾărubbôt ha-šāmayim* 'the windows of heaven' (literally 'the lattices of the heavens') in cosmological contexts:\n- **Gen 7:11; 8:2** — *ʾărubbōt ha-šāmayim niftāḥû / niskĕrû* 'the windows of heaven were opened / were stopped' — the Flood narrative's cosmological-aperture imagery: the upper waters held back by the firmament are released through the opened windows. The single most-discussed Hebrew Bible attestation.\n- **Mal 3:10** — *ʾim lōʾ ʾeftaḥ lākem ʾēt ʾărubbôt ha-šāmayim* 'if I do not open for you the windows of heaven' — YHWH's promised blessing-conduit through the cosmological window.\n- **2 Kgs 7:2, 19** — *ʾărubbôt ba-šāmayim* in the ironic remark of the Samarian official about a coming miracle.\n- **Isa 24:18** — *ʾărubbôt mim-mārôm niftāḥû* 'the windows on high are opened' — the apocalyptic-cosmic disruption.\n- **Eccl 12:3** — *qām'lû hā-rōʾôt bā-ʾărubbôt* 'those who look through the windows are dimmed' — the descriptive register (no cosmological reading).\n\nThe Hebrew *ʾărubbôt ha-šāmayim* cluster preserves a cosmological model in which the heavens are pierced by lattice-windows through which divine action — flood-waters, blessing-rain, judgment, prosperity — reaches earth. The Ugaritic Baʿlu-palace window operates within the same cosmological register: the storm-god's voice and lightnings issue through the window into the cosmos.\n\nNamed scholarship: **M. S. Smith and W. T. Pitard**, *The Ugaritic Baal Cycle, Volume 2* (VTSup 114, Leiden 2009), pp. 612-624 on the window-debate; **J. Day**, *Yahweh and the Gods and Goddesses of Canaan* (JSOTSup 265, Sheffield 2000); **L. R. Bailey**, *Noah: The Person and the Story in History and Tradition* (Columbia SC 1989) on the Flood-windows; **D. T. Tsumura**, *Creation and Destruction* (Winona Lake 2005) for an alternative view of the Hebrew cosmological vocabulary.\n\n**Chronological note.** The Ugaritic Baal Cycle (composed 14th-13th c. BCE) predates the Hebrew Bible's redactional consolidation (1st millennium BCE) by centuries. The cross-corpus link is therefore not direct textual borrowing in either direction but shared Northwest-Semitic cosmological-architectural vocabulary preserved in both corpora. The Hebrew Bible's window-of-heaven cluster is a Northwest-Semitic inheritance, not a Hebrew innovation.\n\n**Bidirectional cross-references.** Cluster with `baal-ugaritic-baalu-storm-god-cross-corpus-hebrew-bible-polemic`, `palace-temple-building-typology-cross-corpus-ugaritic-mesopotamian-hebrew-bible`, `qlh-qds-tr-arts-thunder-voice-theophany-cross-corpus-ugaritic-hebrew-bible-psalm-29`, `yamm-yammu-sea-deified-cross-corpus-chaoskampf-hebrew-bible` (Baʿlu's stated concern about Yammu seeing in).\n\n**Lens-discipline operational disavowals.** (i) **No Sitchin-corpus reading of the window as an aerial-vehicle airlock or as a coded reference to a hatch in a flying-craft.** The Ugaritic source-text deploys *ʾurbt* and *ḥln* in the standard Northwest-Semitic architectural-cosmological register. (ii) **No Christian-Pentecost-typology pre-resolution.** Acts 2 and the broader Christian theology of heavenly-window apertures (e.g., the opened-heaven at Christ's baptism, Mark 1:10) are downstream theological developments. (iii) **No popular-fringe astronomical reading of the windows as 'star-gates' or 'portals'.** The window-of-heaven imagery is grounded in standard ANE cosmology of a layered upper-cosmos with permeable apertures.",
+      "appliesTo": [
+        "BCY-WOH-1.3-vi:1",
+        "BCY-WOH-1.3-vi:2",
+        "BCY-WOH-1.4-vi:11",
+        "BCY-WOH-1.4-vi:12",
+        "BCY-WOH-1.4-vi:14",
+        "BCY-WOH-1.4-vi:15",
+        "BCY-WOH-1.4-vii:13",
+        "BCY-WOH-1.4-vii:14",
+        "BCY-WOH-1.4-vii:21",
+        "BCY-WOH-1.4-vii:22",
+        "BCY-WOH-1.4-vii:28",
+        "BCY-WOH-1.4-vii:29",
+        "BCY-WOH-1.4-vii:30",
+        "BCY-WOH-1.4-vii:31"
+      ]
+    },
+    {
+      "id": "qnyt-ilm-creatress-of-the-gods-cross-corpus-ugaritic-hebrew-bible-qoneh-shamayim",
+      "source": "qnyt ʾilm (Ugaritic alphabetic-cuneiform); KTU 1.4-iii:16 and KTU 1.4-iv:24",
+      "translit": "qāniyatu ʾilīma",
+      "lemma": "qny 'create, acquire, produce' (Ugaritic; cognate to Hebrew qānāh 'create, acquire'); shared Northwest-Semitic *√qny",
+      "partOfSpeech": "Ugaritic divine epithet: qnyt ʾilm 'Creatress of the gods' — ʾAṯirat's standing creator-epithet; cross-corpus to Hebrew Bible qōnēh šāmayim wā-ʾāreṣ 'Creator of heaven and earth' (Gen 14:19, 22) and to the broader Hebrew qny/qnh creator-vocabulary cluster",
+      "literal": "Creatress of the gods — ʾAṯirat's epithet as the productive-maternal-creator counterpart to ʾIlu's creator-role",
+      "standardEnglish": "Creatress of the gods (Smith & Pitard 2009 vol 2; Day 2000; Smith 2001)",
+      "wohChoice": "Creatress of the gods (preserve the explicit creator-titulature in surface English; the cross-corpus link to qōnēh šāmayim wā-ʾāreṣ is documented in commentary; no pre-resolution into Genesis-Yahwistic creator language)",
+      "claim_type": "direct",
+      "rationale": "**The Northwest-Semitic shared creator-vocabulary.** Ugaritic *qny* and Hebrew *qānāh* are direct philological cognates from proto-Semitic *√qny* 'create, acquire, produce, possess'. The semantic range in both languages spans (i) productive creation ('bring forth', often of childbirth and divine creation); (ii) acquisition ('purchase, gain'); (iii) possession ('own'). In creator-contexts the productive-creation sense dominates.\n\n**The Ugaritic epithet.** At KTU 1.4-iii:16 (*tkbdn qnyt ʾilm* 'they honor the Creatress of the gods') and KTU 1.4-iv:24 (*ʾik ʾatwt qnyt ʾilm* 'how have you come, O Creatress of the gods?'), ʾAṯirat carries the standing epithet *qnyt ʾilm*. The form is a feminine active participle of *qny*: 'she who creates/produces/acquires (with respect to) the gods'. ʾAṯirat as 'Creatress of the gods' is the female-maternal counterpart to ʾIlu's creator-role; the divine assembly at Ugarit is constituted by ʾAṯirat's productive maternity (recall *šbʿm bn ʾaṯrt* 'seventy sons of ʾAṯirat').\n\n**Cross-corpus Hebrew Bible — qōnēh šāmayim wā-ʾāreṣ.** The Hebrew Bible preserves the *qny/qnh* creator-vocabulary in a small but cosmologically central cluster:\n- **Gen 14:19** — *bārûk ʾabrām lĕ-ʾēl ʿelyôn qōnēh šāmayim wā-ʾāreṣ* 'blessed be Abram to El Elyon, Creator of heaven and earth' — Melchizedek's blessing of Abram. The same Hebrew formula *qōnēh šāmayim wā-ʾāreṣ* recurs at Gen 14:22 in Abram's own oath.\n- **Deut 32:6** — *hălôʾ hûʾ ʾābîkā qānekā* 'is he not your father who created you?' (qny in active reference to YHWH's creation of Israel).\n- **Ps 139:13** — *kî ʾattāh qānîtā kilyōtāy* 'for you created my kidneys/inmost parts' (qny in personal-creation register).\n- **Prov 8:22** — *YHWH qānānî rēʾšît darkô* 'YHWH created/acquired me at the beginning of his way' — the Wisdom-figure self-statement; among the most-debated *qny* attestations in Hebrew Bible.\n- **The Phoenician-Aramaic parallel Karatepe inscription**: *ʾl qn ʾrṣ* 'El, creator of the earth' — direct Phoenician cognate to Hebrew *qōnēh hā-ʾāreṣ*, contemporaneous to and within the broader Northwest-Semitic creator-vocabulary milieu.\n\nThe scholarship on Gen 14:19, 22 widely interprets the Melchizedek formula as preserving an authentically archaic Northwest-Semitic divine title — *El Elyon* + *Creator of heaven and earth* — that the Yahwistic redaction subsequently re-allocated to YHWH (e.g., Isa 40:28, 43:1; Ps 124:8 *ʿezrēnû bĕ-šēm YHWH ʿōśēh šāmayim wā-ʾāreṣ* using *ʿśh* rather than *qnh* in the Yahwistic re-allocation).\n\nNamed scholarship: **J. Day**, *Yahweh and the Gods and Goddesses of Canaan* (JSOTSup 265, Sheffield 2000), pp. 39-41 on *qōnēh šāmayim wā-ʾāreṣ*; **M. S. Smith**, *The Origins of Biblical Monotheism* (Oxford 2001), pp. 47-49 on the Northwest-Semitic creator-titles; **C. Westermann**, *Genesis 12-36* (Minneapolis 1985) on Gen 14:18-22; **N. Wyatt**, *Religious Texts from Ugarit* (Sheffield 2002); **M. S. Smith and W. T. Pitard**, *The Ugaritic Baal Cycle, Volume 2* (VTSup 114, Leiden 2009) on the ʾAṯirat epithet-cluster.\n\n**Bidirectional cross-references.** Cluster with `athirat-asherah-mother-goddess-cross-corpus-ugaritic-hebrew-bible` (ʾAṯirat's broader epithet cluster), `el-ugaritic-ilu-northwest-semitic-pantheon-head-cross-corpus`. Future Hebrew Editor pass on Gen 14:19, 22 should produce the Hebrew central entry on *qōnēh šāmayim wā-ʾāreṣ* with bidirectional back-reference.\n\n**Lens-discipline operational disavowals.** (i) **No simplistic identification of Hebrew Bible with ʾAṯirat as creator.** The Hebrew Bible does not preserve ʾAṯirat (Asherah) as creator-goddess; the Hebrew tradition polemicizes against Asherah as cult-object (Deut 16:21, 2 Kgs 21:7) while preserving the *qōnēh šāmayim wā-ʾāreṣ* creator-formula and re-allocating it to YHWH-El. The cross-corpus link is to the **shared Northwest-Semitic creator-vocabulary** and the **shared creator-epithet structure**, not to a continuous Asherah-creator cult in Hebrew religion. (ii) **No Sitchin-corpus reading of *qny* as an engineering-creation lexeme.** The Northwest-Semitic *qny* deploys the standard productive-creation semantic range; no engineering vocabulary is present. (iii) **No Christian-Sophia-typology pre-resolution.** The Prov 8:22 Wisdom-figure-as-*qānānî* attestation does enter NT Christology through Logos and Sophia traditions, but those are downstream theological developments not pre-resolved into the Ugaritic-Hebrew source-text apparatus.",
+      "appliesTo": [
+        "BCY-WOH-1.4-iii:16",
+        "BCY-WOH-1.4-iv:24"
+      ]
+    },
+    {
+      "id": "seventy-sons-of-athirat-bnei-elohim-deut-32-8-cross-corpus-ugaritic-hebrew-bible",
+      "source": "šbʿm bn ʾaṯrt (Ugaritic alphabetic-cuneiform); KTU 1.4-vi:46 and KTU 1.4-viii:25 (reconstructed)",
+      "translit": "šabʿūma binū ʾaṯirati",
+      "lemma": "šbʿm 'seventy' (Ugaritic); bn 'son(s)' + ʾaṯrt 'ʾAṯirat'",
+      "partOfSpeech": "Ugaritic divine-assembly numerical-designation: 'the seventy sons of ʾAṯirat' — the membership of the divine council numerically specified; cross-corpus to Hebrew Bible Deut 32:8 (LXX/4QDeut^j 'sons of god/Israel', with 'seventy' implicit in the Table-of-Nations count); MAJOR Heiser-thesis cross-corpus",
+      "literal": "the seventy sons of ʾAṯirat — the numerically-specified divine-council membership",
+      "standardEnglish": "the seventy sons of ʾAṯirat (Smith & Pitard 2009 vol 2; Heiser 2008/2015; Smith 1990; Cross 1973)",
+      "wohChoice": "the seventy sons of ʾAṯirat — preserve the explicit numerical designation in surface English",
+      "claim_type": "direct",
+      "rationale": "**The numerical specification of the divine assembly.** At KTU 1.4-vi:46 (formally invitating the seventy sons of ʾAṯirat to the dedication-banquet) and KTU 1.4-viii:25 (the reconstructed parallel reference in Baʿlu's challenge to Môtu), the Ugaritic Baal Cycle gives the divine council a specific numerical membership: **seventy** sons of ʾAṯirat. The number is fixed across the Ugaritic corpus.\n\n**Cross-corpus Hebrew Bible — Deut 32:8 and the seventy-nations tradition.** \n- **Deut 32:8** — *bĕ-hanḥēl ʿelyôn gôyim bĕ-hafrîdô bĕnê ʾādām yaṣṣēb gĕbulot ʿammîm lĕ-mispar bĕnê ʾĕlōhîm* (LXX *kata arithmon angelōn theou*; 4QDeut^j *lmspr bny ʾlhym*) 'when Elyon allotted the nations, when he separated the sons of Adam, he set the boundaries of the peoples according to the number of the sons of god.' The Masoretic text reads *bĕnê yiśrāʾēl* 'sons of Israel'; the LXX and Qumran witnesses preserve the older reading *bĕnê ʾĕlōhîm* 'sons of god'. The number of 'sons of god' in Deut 32:8 corresponds to the seventy nations of the Table of Nations (Gen 10) — the number-seventy is the linking element. The Hebrew tradition reads as: Elyon allotted the seventy nations to the seventy sons of god as their patron-deities, with YHWH receiving Israel as his portion (Deut 32:9).\n- **Gen 10 (Table of Nations)** — yields a count of seventy descendants of Noah (the precise count varies slightly across the genealogies but the round number is **seventy**); the historical-ethnographic counterpart to the divine-side seventy.\n- **Deut 32:43 LXX** — adds 'all the sons of god' praise-clause not in Masoretic.\n- **Late Second Temple expansions** — 1 Enoch 89:59-77 (the 'seventy shepherds'), Targums on Deut 32:8 (seventy guardian-angels of the nations).\n\nNamed scholarship: **M. S. Heiser**, *The Divine Council in Late Canonical and Non-Canonical Second Temple Jewish Literature* (PhD diss., University of Wisconsin-Madison 2004) and *The Unseen Realm: Recovering the Supernatural Worldview of the Bible* (Bellingham WA 2015) — central case-study; **M. S. Smith**, *The Early History of God: Yahweh and the Other Deities in Ancient Israel* (2nd ed., Grand Rapids 2002); **F. M. Cross**, *Canaanite Myth and Hebrew Epic* (Cambridge MA 1973), pp. 177-194; **E. T. Mullen**, *The Divine Council in Canaanite and Early Hebrew Literature* (HSM 24, Chico CA 1980); **P. W. Skehan**, 'A Fragment of the \"Song of Moses\" (Deut 32) from Qumran,' BASOR 136 (1954) 12-15 — the original publication of the 4QDeut^j reading. The Ugaritic-Hebrew seventy-sons cross-corpus is one of the most-discussed cases in modern critical Hebrew Bible scholarship.\n\n**Bidirectional cross-references.** Cluster with `bn-ilm-sons-of-god-cross-corpus-ugaritic-hebrew-bnei-elohim` (the broader bn ʾilm cluster; this entry adds the numerical specification), `athirat-asherah-mother-goddess-cross-corpus-ugaritic-hebrew-bible` (ʾAṯirat as their mother), `el-ugaritic-ilu-northwest-semitic-pantheon-head-cross-corpus` (ʾIlu as their father), `divine-council-phr-mad-cross-corpus-ugaritic-akkadian-hebrew-bible`. The `bn-ilm-sons-of-god-...` central entry already mentions the šbʿm bn ʾaṯrt parallel in its rationale; this entry adds the dedicated lemma-level treatment of the **seventy** numerical specification.\n\n**Lens-discipline operational disavowals.** (i) **No Watchers-engineering reading.** The popular-literature reading of the divine seventy as the original-engineering-team of seventy Anunnaki / Watchers / Elohim is a downstream synthetic move that goes beyond the source-attestation; the Ugaritic and Hebrew sources speak of divine-council membership in standard religious-theological terms, not as an engineering corps. (ii) **No simplistic equation of the Ugaritic seventy with the Hebrew seventy.** The cross-corpus link is to the shared **numerical-typology** (seventy as a culturally-significant round-number for divine-assembly membership across the ANE); the historical-religious developments in each tradition are distinct. (iii) **No Christian-typology pre-resolution.** The Luke 10:1, 17 seventy/seventy-two missionaries cluster does activate the Deut 32:8 + Genesis 10 typology in NT theology, but the NT development is downstream and not pre-resolved into the Ugaritic-Hebrew source-text apparatus.",
+      "appliesTo": [
+        "BCY-WOH-1.4-vi:46",
+        "BCY-WOH-1.4-vi:58",
+        "BCY-WOH-1.4-viii:25"
+      ]
+    },
+    {
+      "id": "kothar-dwelling-caphtor-memphis-cross-corpus-ugaritic-hebrew-bible-philistine-origins",
+      "source": "kptr / ḥkpt (Ugaritic alphabetic-cuneiform); standing epithets of Kothar-wa-Khasis indicating his Mediterranean-Egyptian residences",
+      "translit": "Kaphtoru (= Crete) / Ḥikuptu (= Memphis, from Egyptian Hwt-kꜢ-Ptḥ)",
+      "lemma": "kptr (Ugaritic); kaphtor (Hebrew); ḥkpt (Ugaritic, from Egyptian Hwt-kꜢ-Ptḥ 'House of the soul of Ptah')",
+      "partOfSpeech": "Ugaritic toponyms attached to Kothar-wa-Khasis: Kaphtor (Crete) as his throne, Memphis as his land-of-inheritance; cross-corpus to Hebrew Bible Caphtor as the homeland of the Philistines (Amos 9:7; Gen 10:14; 1 Chr 1:12; Deut 2:23; Jer 47:4)",
+      "literal": "Kaphtor — Crete; Ḥikuptu / Memphis — the Egyptian capital and home of the divine craftsman Ptah",
+      "standardEnglish": "Kaphtor (Crete) / Memphis (Smith 1994 vol 1; Smith & Pitard 2009 vol 2; Day 2000; Singer 1992; Niemeier 1998)",
+      "wohChoice": "Kaphtor (preserving Ugaritic vocalization) and Memphis (using the standard English toponym for the Egyptian capital, glossing the Ugaritic Ḥikuptu in commentary)",
+      "claim_type": "direct",
+      "rationale": "**The Late Bronze Age Aegean-Egyptian artisan toponyms.** The Ugaritic Baal Cycle attaches Kothar-wa-Khasis to two specific Mediterranean residences: *kptr* 'Kaphtor' (= Crete, the Late Bronze Age Aegean island-civilization-center) as his throne (KTU 1.3-vi:13; 1.4-iv:54) and *ḥkpt* (= Memphis, from Egyptian *Hwt-kꜢ-Ptḥ* 'House of the soul of Ptah') as his land of inheritance (KTU 1.3-vi:12, 14). The Egyptian toponym *Hwt-kꜢ-Ptḥ* literally names the residence of Ptah, the Egyptian divine craftsman; the Ugaritic *ḥkpt* is the direct loan-from-Egyptian. The toponym-cluster situates Kothar in the **Mediterranean artisan-trade-network** of the Late Bronze Age: Aegean (Mycenaean/Minoan) glass and metalwork via Kaphtor/Crete; Egyptian craftsmanship via Memphis/Ptah.\n\n**Cross-corpus Hebrew Bible — Caphtor as the homeland of the Philistines.**\n- **Amos 9:7** — *hă-lôʾ ʾet-Yiśrāʾēl heʿĕlêtî mē-ʾereṣ Miṣrayim û-Pĕlištîyîm mik-Kaftôr wa-ʾĂrām mi-Qîr* 'did I not bring up Israel from the land of Egypt, and the Philistines from Kaphtor, and the Arameans from Kir?' — the Philistines specifically identified as having migrated from Kaphtor.\n- **Gen 10:14 // 1 Chr 1:12** — the Table of Nations: *Kaftōrîm* listed as descendants of Mizraim (Egypt), alongside Pathrusim and Casluhim, with the parenthetical *ʾăšer yāṣĕʾû miš-šām Pĕlištîm* 'from whom the Philistines came'.\n- **Deut 2:23** — *wĕ-hā-ʿAwwîm hay-yōšbîm bă-ḥăṣērîm ʿad-ʿAzzāh Kaftōrîm hay-yōṣĕʾîm mik-Kaftôr hišmîdûm wa-yēšbû taḥtēhem* 'the Avvim who dwelt in villages as far as Gaza, the Caphtorim who came out of Kaphtor destroyed them and settled in their place'.\n- **Jer 47:4** — *kî-šōdēd YHWH ʾet-Pĕlištîm šĕʾērît ʾî Kaftôr* 'YHWH is destroying the Philistines, the remnant of the island of Kaphtor'.\n\nThe Hebrew Bible's location of Caphtor as 'the island' (Jer 47:4) and as the Philistine homeland (Amos 9:7) aligns with the modern archaeological identification of Kaphtor as **Late Bronze Age Crete**. The Philistines, who appear in the Eastern Mediterranean in the 12th c. BCE as part of the broader 'Sea Peoples' phenomenon at the end of the Late Bronze Age, are widely identified by their Aegean material culture (Mycenaean IIIC pottery, Cypriot influences, the bichrome Philistine pottery tradition) as Aegean migrants who settled the Levantine coast.\n\nNamed scholarship: **J. Day**, *Yahweh and the Gods and Goddesses of Canaan* (JSOTSup 265, Sheffield 2000); **I. Singer**, 'How Did the Philistines Enter Canaan? A Rejoinder,' BAR 18.6 (1992) 44-46, 73 — the Aegean-Philistine migration; **W.-D. Niemeier**, 'The Mycenaeans in Western Anatolia and the Problem of the Origins of the Sea Peoples,' in S. Gitin et al. (eds.), *Mediterranean Peoples in Transition* (Jerusalem 1998); **A. Yasur-Landau**, *The Philistines and Aegean Migration at the End of the Late Bronze Age* (Cambridge 2010) — the modern archaeological treatment; **M. S. Smith**, *The Ugaritic Baal Cycle, Volume 1* (VTSup 55, Leiden 1994) on the Kothar-Kaphtor connection.\n\n**Bidirectional cross-references.** Cluster with `kothar-wa-khasis-divine-craftsman-cross-corpus-speech-act-weapon-naming` (Kothar's broader divine-craftsman role), `dagan-dagon-grain-deity-cross-corpus-ugaritic-hebrew-bible-philistine-pantheon` (the Philistine cult-context). Future Hebrew Editor pass on Amos 9:7, Gen 10:14, or Jer 47:4 should produce the Hebrew central entry on the Caphtor-Philistine origin with bidirectional back-reference.\n\n**Lens-discipline operational disavowals.** (i) **No Sitchin-corpus reading of Kaphtor as Anunnaki-island-base.** The toponym is the standard Late Bronze Age Aegean center; the archaeological identification with Crete is uncontroversial. (ii) **No popular-fringe Atlantis-conflation.** Kaphtor is not 'Atlantis'; the Aegean Late Bronze Age civilizations (Minoan, then Mycenaean) are well-documented in the archaeological record. (iii) **No simplistic equation of the Egyptian Memphis residence with Egyptian-Jewish migration narratives** — the Ugaritic Memphis-association of Kothar reflects the Late Bronze Age artisan-trade-network, not Israelite ethnogenesis.",
+      "appliesTo": [
+        "BCY-WOH-1.3-vi:12",
+        "BCY-WOH-1.3-vi:13",
+        "BCY-WOH-1.3-vi:14",
+        "BCY-WOH-1.4-iv:54"
+      ]
+    },
+    {
+      "id": "house-like-the-gods-divine-residency-complaint-cross-corpus-ugaritic-hebrew-bible-temple-theology",
+      "source": "ʾin bt l bʿl km ʾilm (Ugaritic alphabetic-cuneiform); recurring at KTU 1.3-iv:39, 52; KTU 1.4-i:4; KTU 1.4-iii:29-30; KTU 1.4-iv:50-51, 55-56",
+      "translit": "ʾēna bētu lĕ-baʿli kīma ʾilīma",
+      "lemma": "bt 'house' (Ugaritic; cognate to Hebrew bayit); km ʾilm 'like the gods'",
+      "partOfSpeech": "Ugaritic recurring formulaic-lament: 'there is no house for Baʿlu like (the houses of) the gods' — the structural-trigger formula for the entire palace-building cycle; cross-corpus to Hebrew Bible 2 Sam 7:2 (David's complaint about YHWH dwelling in a tent), 1 Chr 17:1, and the broader Hebrew temple-theology of YHWH's residency",
+      "literal": "there is no house for Baʿlu like (the houses of) the gods — the lament that opens the petition for palace construction",
+      "standardEnglish": "there is no house for Baʿlu like the gods (Smith & Pitard 2009 vol 2; Hurowitz 1992; Smith 1985)",
+      "wohChoice": "preserve the recurring formula in surface English with consistent phrasing across attestations; the cross-corpus link to 2 Sam 7 is documented in commentary",
+      "claim_type": "direct",
+      "rationale": "**The structural-trigger formula of the palace-building cycle.** The Ugaritic formula *ʾin bt l bʿl km ʾilm w ḥẓr k bn ʾaṯrt* 'there is no house for Baʿlu like (the houses of) the gods, and no court like the sons of ʾAṯirat' recurs throughout KTU 1.3-1.4 as the structural-trigger of the entire palace-building arc. Attestations: KTU 1.3-iv:39, 52 (ʿAnatu reporting to ʾIlu); KTU 1.4-i:4 (the column-opening recapitulation); KTU 1.4-iii:29-30 (ʾAṯirat's petition); KTU 1.4-iv:50-51 (the closing recapitulation); KTU 1.4-iv:55-56 (ʿAnatu's lament).\n\nThe formula encodes a specific theological-political claim: Baʿlu, though victorious over Yammu and proclaimed king, lacks the **architectural-residential equipage** of full divine kingship that the other gods possess. The grievance is **status-architectural**: a king without a palace is incomplete. The petition for ʾIlu's authorization to build the palace is the resolution of the structural-architectural deficit.\n\n**Cross-corpus Hebrew Bible — 2 Sam 7 and the divine-residency grievance.** \n- **2 Sam 7:2** — *wa-yōʾmer ham-melek ʾel-Nātān han-nābîʾ rĕʾēh-nāʾ ʾānōkî yôšēb bĕ-bêt ʾărāzîm wa-ʾărôn hā-ʾĕlōhîm yōšēb bĕ-tôk ha-yĕrîʿāh* 'and the king said to Nathan the prophet: see, I dwell in a house of cedar, but the ark of God dwells in the midst of the tent.' The structural-architectural-mismatch grievance: the king has a cedar-house, the god has only a tent. The formula echoes the Ugaritic *ʾin bt l bʿl km ʾilm* — the divine residency is inadequate compared to the architectural expectations of full divine sovereignty.\n- **1 Chr 17:1-15** — the Chronicler's parallel to 2 Sam 7.\n- **Hag 1:4** — *hā-ʿēt lākem ʾattem lā-šebet bĕ-bāttêkem sĕfûnîm wĕ-hab-bayit haz-zeh ḥārēb* 'is this a time for you to dwell in your paneled houses, while this house lies in ruins?' — the post-exilic version of the divine-residency grievance.\n- **Ezra 3:8-13; 6:13-22** — the Second-Temple rebuilding as architectural-status restoration.\n\nIn the Hebrew Bible's case, the divine-residency grievance becomes the trigger for the **Davidic-Solomonic temple program**: David's lament motivates Nathan's oracle, which defers temple-construction to Solomon, who then builds the temple. The Ugaritic Baal Cycle has the same structural trigger leading to Baʿlu's palace.\n\nNamed scholarship: **V. (A.) Hurowitz**, *I Have Built You an Exalted House: Temple Building in the Bible in Light of Mesopotamian and Northwest Semitic Writings* (JSOTSup 115, Sheffield 1992); **M. S. Smith**, 'Divine Form and Size in Ugaritic and Pre-Exilic Israelite Religion,' *ZAW* 100 (1988) 424-427; **M. B. Hundley**, *Gods in Dwellings: Temples and Divine Presence in the Ancient Near East* (Atlanta 2013); **M. S. Smith and W. T. Pitard**, *The Ugaritic Baal Cycle, Volume 2* (VTSup 114, Leiden 2009) on the formulaic recurrence.\n\n**Bidirectional cross-references.** Cluster with `palace-temple-building-typology-cross-corpus-ugaritic-mesopotamian-hebrew-bible` (the broader typology), `baal-ugaritic-baalu-storm-god-cross-corpus-hebrew-bible-polemic`, `athirat-asherah-mother-goddess-cross-corpus-ugaritic-hebrew-bible` (the seventy sons of ʾAṯirat as the comparison-class).\n\n**Lens-discipline operational disavowals.** (i) **No Sitchin-corpus reading of the architectural-status grievance as engineering-facility-deficit.** The Ugaritic and Hebrew formulas deploy standard ANE religious-architectural register. (ii) **No Christian-typology pre-resolution into John 2:21 ('the temple of his body') or Heb 8-9** — those are downstream theological developments. (iii) **No simplistic equation of Baʿlu's palace with Solomon's temple.** The cross-corpus link is to the shared compositional typology (Hurowitz 1992) and the shared structural-trigger formula, not a textual-borrowing in either direction.",
+      "appliesTo": [
+        "BCY-WOH-1.3-iv:39",
+        "BCY-WOH-1.3-iv:40",
+        "BCY-WOH-1.3-iv:52",
+        "BCY-WOH-1.3-iv:53",
+        "BCY-WOH-1.4-i:4",
+        "BCY-WOH-1.4-i:5",
+        "BCY-WOH-1.4-iii:29",
+        "BCY-WOH-1.4-iii:30",
+        "BCY-WOH-1.4-iv:55",
+        "BCY-WOH-1.4-iv:56",
+        "BCY-WOH-1.4-v:8",
+        "BCY-WOH-1.4-v:9",
+        "BCY-WOH-1.4-v:17",
+        "BCY-WOH-1.4-v:18",
+        "BCY-WOH-1.4-v:31",
+        "BCY-WOH-1.4-v:32"
+      ]
+    },
+    {
+      "id": "descent-to-sheol-bt-hpzt-arts-cross-corpus-ugaritic-hebrew-bible-underworld-vocabulary",
+      "source": "bt ḫpṯt ʾarṣ (Ugaritic alphabetic-cuneiform); KTU 1.4-viii:7-8",
+      "translit": "bētu ḫupṯati ʾarṣa",
+      "lemma": "bt 'house' (Ugaritic); ḫpṯt 'free-from-life, imprisoned, sequestered' (Ugaritic, contested semantic); ʾarṣ 'earth/underworld'",
+      "partOfSpeech": "Ugaritic descent-to-the-underworld formula: 'the house of freedom (= sequestration from life)' / 'the house of the imprisoned' — the euphemistic-architectural designation of the underworld; cross-corpus to Hebrew Bible bēt ḥōfšît 'the free house' (2 Kgs 15:5; 2 Chr 26:21) and to the broader Hebrew Sheol-vocabulary",
+      "literal": "the house of freedom-from-life / the imprisoned-house — the euphemism for the underworld dwelling",
+      "standardEnglish": "the house of freedom / the house of the imprisoned (Smith & Pitard 2009 vol 2; Day 2000; Healey 1999 DDD)",
+      "wohChoice": "render with 'the house of the imprisoned' (preserving the Ugaritic ambiguity between 'free' and 'imprisoned' that the cognate vocabulary carries); the cross-corpus link to 2 Kgs 15:5 bēt ḥōfšît is documented in commentary",
+      "claim_type": "direct",
+      "rationale": "**The Ugaritic underworld-architectural euphemism.** At KTU 1.4-viii:7-8 the formula *bt ḫpṯt ʾarṣ* describes the destination of Baʿlu's challenge-messengers to Môtu — the underworld dwelling. The lexeme *ḫpṯt* is contested: Smith & Pitard 2009 vol 2 read 'freedom (from life)' (the underworld as the place where the dead are 'free' from earthly life), with the implicit irony of a euphemism; alternative readings include 'imprisoned' (the underworld as the place where the dead are confined). The *bt ḫpṯt ʾarṣ* formula is the architectural-spatial euphemism for the death-realm.\n\n**Cross-corpus Hebrew Bible — bēt ḥōfšît and the Sheol-vocabulary.** \n- **2 Kgs 15:5 // 2 Chr 26:21** — *wĕ-yôṯām ben-ham-melek ʿal-hab-bayit šōfēṭ ʾet-ʿam hā-ʾāreṣ … wa-yēšeb bĕ-bêt ha-ḥofšît* 'and Jotham the king's son was over the house, judging the people of the land … and (Uzziah, struck with leprosy) dwelt in the free house'. The *bêt ha-ḥofšît* 'the free house' is the leper's-house, the place of ritual sequestration. The cognate vocabulary (Hebrew *ḥfš* / Ugaritic *ḫpṯ*) and the cognate use ('house of [ironic] freedom' as sequestration-euphemism) are striking.\n- **Ezek 26:20** — *ʾereṣ taḥtiyyôt … ki-ḥărābôt mē-ʿôlām* 'the land of the deep (= nether parts of the earth)' — the underworld as ʾereṣ taḥtiyyôt cluster.\n- **Job 10:21-22; 26:5-6; 38:16-17** — the broader Hebrew underworld-vocabulary.\n- **Ps 88:5-6; 88:11-12** — the Sheol-as-realm-of-the-dead psalmic-attestations.\n\nThe cross-corpus link is to the shared Northwest-Semitic euphemistic-architectural register for the underworld: the dead inhabit a 'house' (architectural), and the predicate-modifier ('free', 'imprisoned', 'deep', 'silent') encodes the ironic-euphemistic character. The Ugaritic *bt ḫpṯt* and Hebrew *bêt ha-ḥofšît* share both the architectural framing and the cognate vocabulary.\n\nNamed scholarship: **J. Day**, *Yahweh and the Gods and Goddesses of Canaan* (JSOTSup 265, Sheffield 2000); **J. F. Healey**, 'Sheol' and 'Mot,' in K. van der Toorn et al. (eds.), *Dictionary of Deities and Demons in the Bible* (2nd ed., Leiden 1999); **N. J. Tromp**, *Primitive Conceptions of Death and the Nether World in the Old Testament* (Rome 1969) — foundational treatment of Hebrew underworld-vocabulary; **M. S. Smith and W. T. Pitard**, *The Ugaritic Baal Cycle, Volume 2* (VTSup 114, Leiden 2009).\n\n**Bidirectional cross-references.** Cluster with `mot-mavet-death-personified-cross-corpus-ugaritic-hebrew-bible` (Môtu's underworld realm).\n\n**Lens-discipline operational disavowals.** (i) **No Sitchin-corpus reading of the underworld as a literal underground-base or aerial-vehicle-launch-facility.** The Ugaritic and Hebrew underworld vocabularies deploy the standard ANE religious-cosmological register. (ii) **No Christian-typology pre-resolution into NT *hadēs* descent traditions** (1 Pet 3:19; Eph 4:9). (iii) **No simplistic conflation with the Greek Hades or with Egyptian Duat** — the figure-types overlap but the cultural-religious specifics differ.",
+      "appliesTo": [
+        "BCY-WOH-1.4-viii:7",
+        "BCY-WOH-1.4-viii:8"
+      ]
+    },
+    {
+      "id": "seven-day-banquet-feast-structure-cross-corpus-ugaritic-mesopotamian-hebrew-bible",
+      "source": "šbʿt ymm (Ugaritic alphabetic-cuneiform); various seven-day structures in KTU 1.3-i, KTU 1.4-vi:24-44 (the seven-day firing), KTU 1.4-vii (Baʿlu's enthronement banquet)",
+      "translit": "šabʿatu yamīma",
+      "lemma": "šbʿt 'seven' (Ugaritic, fem.); ymm 'days' (Ugaritic, pl.); shared ANE seven-day ritual-structure",
+      "partOfSpeech": "Cross-cultural ANE compositional pattern: the seven-day banquet / feast / firing / ritual structure as marker of cosmic completion; deployed in Mesopotamian (Enuma Elish VI dedication-banquet), Ugaritic (Baal Cycle seven-day firing at KTU 1.4-vi:24-44; Aqhat ritual structures), and Hebrew Bible (1 Kgs 8:65-66 Solomon's seven-day temple-dedication; Lev 23:34-36 Feast of Tabernacles; Gen 1 seven-day creation; Exod 29:35 priestly ordination)",
+      "literal": "seven days — the formulaic ritual completion-marker",
+      "standardEnglish": "the seven-day ritual structure (Hurowitz 1992; Milgrom 2001; Weinfeld 1993)",
+      "wohChoice": "preserve the explicit seven-day numerical-structure in surface English; the cross-corpus link to 1 Kgs 8:65-66 and Lev 23:34-36 is documented in commentary",
+      "claim_type": "direct",
+      "rationale": "**The ANE seven-day ritual-structure as cosmic completion-marker.** The number-seven and the seven-day ritual structure are widely attested across ANE compositional and liturgical traditions as a marker of cosmic completion, divine consummation, and ritual fulness.\n\n**Mesopotamian.** Enuma Elish VI — the dedication of Esagil after Marduk's victory and the proclamation of Marduk's fifty names — deploys a seven-day banquet structure for the assembled gods (Mesopotamian banquet structures more broadly: 7 days, 7 nights are conventional ritual periods, e.g., the Erra-Epic, the Gilgamesh flood narrative, Etana).\n\n**Ugaritic.** The Baal Cycle's KTU 1.4-vi:24-44 firing sequence:\n- *šbʿ ymm tʿrm ʾišt b bhtm* — 'seven days the fire burns in the palace'\n- A day, a second day; a third, a fourth day; a fifth, a sixth day\n- *mk b šbʿ ymm* — 'and lo, on the seventh day'\n- The fire withdraws; the silver and gold poured out as bricks.\n\nThe seven-day firing functions as the architectural-firing (the kiln-firing of mud-brick or the metallurgical-firing of the metal-plated surfaces) and as the cosmic-completion structural marker. The seven-day pattern continues into the enthronement banquet of KTU 1.4-vii.\n\n**Hebrew Bible.**\n- **1 Kgs 8:65-66** — *wa-yaʿaś Šĕlōmōh bā-ʿēt-ha-hîʾ ʾet-he-ḥāg … šibʿat yāmîm wĕ-šibʿat yāmîm ʾarbāʿāh ʿāśār yôm* 'Solomon held the feast at that time … seven days and seven days, fourteen days' — the dedication of the temple, structurally aligned with the temple-building typology (Hurowitz 1992).\n- **Lev 23:34-36** — the Feast of Tabernacles (Sukkot), *šibʿat yāmîm* 'seven days', the seven-day autumn pilgrimage festival.\n- **Gen 1:1-2:3** — the seven-day creation pattern, with day seven as cosmic completion-rest.\n- **Exod 29:35** — *šibʿat yāmîm tĕmallēʾ yādām* 'for seven days you shall complete the consecration' — the seven-day priestly ordination.\n- **Exod 12:15-20; 13:6-7** — the seven-day unleavened-bread festival.\n- **Num 19:11, 14, 16; Deut 16:13-15** — various seven-day ritual-purity and festival structures.\n\nThe shared ANE seven-day ritual-structure is the substrate; the Hebrew Bible's seven-day deployments adapt the pattern to Yahwistic theology (Sabbath, the festival calendar, the temple dedication). Named scholarship: **V. (A.) Hurowitz**, *I Have Built You an Exalted House: Temple Building in the Bible in Light of Mesopotamian and Northwest Semitic Writings* (JSOTSup 115, Sheffield 1992) — the temple-dedication seven-day structure; **J. Milgrom**, *Leviticus 23-27* (AB 3B, New York 2001); **M. Weinfeld**, 'Sabbath, Temple Building and the Enthronement of the Lord,' in *Avraham Malamat Volume* (1993); **M. S. Smith and W. T. Pitard**, *The Ugaritic Baal Cycle, Volume 2* (VTSup 114, Leiden 2009) on the Ugaritic seven-day firing.\n\n**Bidirectional cross-references.** Cluster with `palace-temple-building-typology-cross-corpus-ugaritic-mesopotamian-hebrew-bible` (the broader temple-building typology), `cedars-of-lebanon-erez-cross-corpus-ugaritic-hebrew-bible-construction-material-economy`.\n\n**Lens-discipline operational disavowals.** (i) **No Sitchin-corpus reading of the seven days as engineered-process-timing or as a coded reference to specific engineering durations.** The seven-day pattern is the standard ANE ritual-cosmic-completion marker. (ii) **No Christian-typology pre-resolution into the seven-days-of-creation typological readings.** (iii) **No simplistic equation of the Ugaritic firing-seven with the Genesis creation-seven** — the parallel is at the level of the shared cosmic-completion typology, not at direct textual borrowing.",
+      "appliesTo": [
+        "BCY-WOH-1.4-v:54",
+        "BCY-WOH-1.4-vi:24",
+        "BCY-WOH-1.4-vi:29",
+        "BCY-WOH-1.4-vi:30",
+        "BCY-WOH-1.4-vi:33",
+        "BCY-WOH-1.4-vi:36",
+        "BCY-WOH-1.4-vi:39",
+        "BCY-WOH-1.4-vi:42",
+        "BCY-WOH-1.4-vi:43",
+        "BCY-WOH-1.4-vi:44"
+      ]
+    },
+    {
+      "id": "cedars-of-lebanon-erez-cross-corpus-ugaritic-hebrew-bible-construction-material-economy",
+      "source": "ʾrz b lbnn (Ugaritic alphabetic-cuneiform); KTU 1.4-v:55 and KTU 1.4-vi:18-21 (reconstructed cedar references)",
+      "translit": "ʾarzu bi-Labnāni",
+      "lemma": "ʾrz 'cedar' (Ugaritic; Hebrew ʾerez); lbnn 'Lebanon' (Ugaritic; Hebrew Lĕbānôn) — the cedar-bearing range",
+      "partOfSpeech": "Ugaritic and Hebrew shared building-material designation: cedar from Lebanon, the prestige construction-wood of the Late Bronze and Iron Age Levantine palace-and-temple economy; cross-corpus to Hebrew Bible 1 Kgs 5:6-10 (Hiram of Tyre supplies cedars to Solomon), Ps 104:16, Ezra 3:7, and the broader Hebrew Lebanon-cedar trope",
+      "literal": "cedars from Lebanon",
+      "standardEnglish": "cedars of Lebanon (Smith & Pitard 2009 vol 2; Liphschitz 2007; Hurowitz 1992)",
+      "wohChoice": "cedar in Lebanon (preserving the literal Ugaritic preposition *b* 'in/from'); the cross-corpus link to Hiram-of-Tyre's cedar-supply for Solomon is documented in commentary",
+      "claim_type": "direct",
+      "rationale": "**The Late Bronze / Iron Age cedar-construction-material economy.** Cedars of Lebanon (*Cedrus libani*) were the prestige construction-wood of the Eastern Mediterranean from at least the Old Kingdom Egyptian period through the Roman era. The cedar tree's height, straight grain, rot-resistance, and aromatic resin made it the building-material-of-choice for palaces, temples, ships, and prestige furniture across the region. The cedar-supply was concentrated in the Lebanese mountains, controlled at various periods by Tyre, Sidon, Byblos, and (briefly) by Egyptian or Mesopotamian imperial intervention.\n\n**The Ugaritic and Hebrew attestations as historical-economic continuity.** \n- **Ugaritic**: at KTU 1.4-v:55 *ʾrz b lbnn* 'cedar in Lebanon' is part of the materials-list for Baʿlu's palace; KTU 1.4-vi:18-21 likely contains further reconstructed cedar references (Smith & Pitard 2009 vol 2). The Ugaritic palace-construction is materially-equipped with cedar from Lebanon.\n- **Hebrew Bible — 1 Kgs 5:6-10**: *wĕ-ʿattāh ṣawwēh wĕ-yikrĕtû-lî ʾărāzîm min hal-Lĕbānôn … kî ʾattāh yādaʿtā kî ʾên bānû ʾîš yōdēaʿ likrôt-ʿēṣîm kaṣ-ṣidōnîm* 'now therefore command that they cut cedars for me from Lebanon … you know that there is no one among us who knows how to cut timber like the Sidonians' — Solomon's commission to Hiram of Tyre for cedar-supply for the temple. The cedar-supply via Tyre is the historical-economic core of the Solomonic temple project.\n- **Ps 104:16** — *yiśbĕʿû ʿăṣê YHWH ʾarzê lĕbānôn ʾăšer nāṭāʿ* 'the trees of YHWH are watered abundantly, the cedars of Lebanon that he planted' — cedar as theological-cosmological prestige-tree.\n- **Ezra 3:7** — cedar-supply for the Second-Temple rebuilding.\n- **Isa 2:13; Ezek 17:3; 31:3; Hos 14:6-8** — cedar as prestige and as imperial-comparison imagery throughout the prophetic corpus.\n\nThe Ugaritic-Hebrew shared cedar-of-Lebanon imagery is **not typological parallelism but historical-economic continuity**: both corpora reference the same physical resource (Lebanese cedar) traded along the same Eastern Mediterranean coastal economy, used for the same prestige architectural function (palace and temple construction). The Iron Age successor to the Late Bronze Age cedar-trade is documented through the Phoenician city-state economy that Hiram represents in the Hebrew narrative.\n\nNamed scholarship: **N. Liphschitz**, *Timber in Ancient Israel: Dendroarchaeology and Dendrochronology* (Tel Aviv 2007) — the modern dendroarchaeological treatment; **V. (A.) Hurowitz**, *I Have Built You an Exalted House* (JSOTSup 115, Sheffield 1992) on Solomonic-temple cedar-supply; **S. Mazzoni**, 'Syria and the Periodization of the Iron Age,' in *Essays on Syria in the Iron Age* (Sheffield 2000); **M. Heltzer**, *The Economy of Ugarit* (Wiesbaden 1976); **M. Liverani**, *Israel's History and the History of Israel* (London 2005) on Iron Age Eastern Mediterranean trade.\n\n**Bidirectional cross-references.** Cluster with `palace-temple-building-typology-cross-corpus-ugaritic-mesopotamian-hebrew-bible`.\n\n**Lens-discipline operational disavowals.** (i) **No Sitchin-corpus reading of cedar as engineered-construction-material with non-biological properties.** Cedar is a documented Eastern Mediterranean construction-wood with standard botanical-ecological characteristics. (ii) **No simplistic equation of Baʿlu's palace with Solomon's temple.** The shared cedar-imagery reflects the shared regional construction-material economy across centuries; the architectural and theological specifics differ. (iii) **No Christian-typology pre-resolution into the 'cedars of Lebanon' as messianic figura.**",
+      "appliesTo": [
+        "BCY-WOH-1.4-v:55"
+      ]
+    },
+    {
+      "id": "word-of-tree-whisper-of-stone-mystery-revelation-formula-cross-corpus-ugaritic-hebrew-bible",
+      "source": "rgm ʿṣ w lḫšt ʾabn (Ugaritic alphabetic-cuneiform); KTU 1.1-iii:13-21 (Kothar's exhortation to ʾIlu) and KTU 1.3-iii:31-36 (Baʿlu's message via Gpn-wa-Ugar to ʿAnatu)",
+      "translit": "rigmu ʿiṣṣi wa laḫšatu ʾabni",
+      "lemma": "rgm 'word' (Ugaritic; cf. Hebrew root rgm rare); ʿṣ 'tree' (Ugaritic; Hebrew ʿēṣ); lḫšt 'whisper, secret communication' (Ugaritic; Hebrew lāḥaš); ʾabn 'stone' (Ugaritic; Hebrew ʾeben)",
+      "partOfSpeech": "Ugaritic mystery-revelation formulaic-pair: 'a word of tree, a whisper of stone' — the fixed liturgical-formula denoting esoteric cosmic communication shared between gods; recurring across the Baal Cycle (KTU 1.1-iii:13-21; KTU 1.3-iii:31-36); cross-corpus to Hebrew Bible Hab 2:11 (the stone-and-beam crying out) and Ps 19:1-4 (the heavens' speech)",
+      "literal": "a word of tree and a whisper of stone — the cosmic-communication formula encoding esoteric divine knowledge",
+      "standardEnglish": "word of tree, whisper of stone (Smith 1994 vol 1 — preferred as fixed-formula reading; Pardee 2003)",
+      "wohChoice": "word of tree and whisper of stone (literal; preserves the fixed-formulaic-pair register)",
+      "claim_type": "direct",
+      "rationale": "**The Ugaritic mystery-revelation fixed-formula.** The Ugaritic formula *rgm ʿṣ w lḫšt ʾabn* 'a word of tree, a whisper of stone' is a fixed liturgical-formula denoting esoteric cosmic-communication shared between the gods. The formula appears in **two principal locations** in the Baal Cycle:\n- **KTU 1.1-iii:13-21** — Kothar-wa-Khasis's exhortation to ʾIlu; the cosmic-knowledge formula is embedded in the larger revelation-pattern *rgm ʾiṯ ly w ʾargmk hwt w ʾaṯnyk rgm ʿṣ w lḫšt ʾabn tʾunt šmm ʿm ʾarṣ thmt ʿmn kbkbm rgm l tdʿ nšm w l tbn hmlt ʾarṣ* 'I have a word, and I will tell it to you; a saying, and I will repeat it to you — a word of tree and a whisper of stone, the converse of heaven with earth, of the deeps with the stars, a word that humans do not know, and that the multitudes of the earth do not understand'.\n- **KTU 1.3-iii:29-36** — Baʿlu's message via Gpn-wa-Ugar to ʿAnatu: the same revelation-formula recurs with minor variation. The recurrence across two chapters confirms the formula's status as a fixed liturgical structure.\n\nThe formula encodes (i) the cosmic scope of the secret-knowledge ('converse of heaven with earth, of the deeps with the stars'); (ii) the inaccessibility of the knowledge to humans ('a word that humans do not know'); (iii) the personified-objects-as-witnesses motif (tree and stone as cosmic interlocutors).\n\n**Cross-corpus Hebrew Bible — the cosmic-objects-as-witnesses cluster.**\n- **Hab 2:11** — *kî ʾeben miq-qîr tizʿāq wĕ-kāfîs mē-ʿēṣ yaʿănennāh* 'for the stone shall cry out from the wall, and the beam from the timber shall answer it' — the cosmic-objects-as-witnesses motif. The Hebrew formula pairs *ʾeben* 'stone' with *ʿēṣ* / *kāfîs* 'tree/beam' in dialogical-speech relation; the lexemes are direct cognates of Ugaritic *ʾabn* and *ʿṣ*. The Hab 2:11 verse is widely held to preserve Northwest-Semitic personified-cosmic-objects vocabulary in a Hebrew prophetic-oracle context.\n- **Ps 19:1-4** — *haš-šāmayim mĕsappĕrîm kĕbôd-ʾēl … ʾên ʾōmer wĕ-ʾên dĕbārîm bĕlî nišmāʿ qôlām* 'the heavens declare the glory of God … there is no speech, there are no words, whose voice is not heard' — the cosmos as silent-speech. The cross-corpus link is to the personified-cosmic-speech tradition that the Ugaritic formula anchors at the Northwest-Semitic level.\n- **Josh 24:27** — the stone of witness at Shechem: *hinnēh hā-ʾeben haz-zōʾt tihyeh-bānû lĕ-ʿēdāh kî-hîʾ šāmĕʿāh ʾēt kol-ʾimrê YHWH* 'this stone will be a witness against us, for it has heard all the words of YHWH' — the witness-stone cluster.\n\nNamed scholarship: **M. S. Smith**, *The Ugaritic Baal Cycle, Volume 1* (VTSup 55, Leiden 1994); **D. Pardee**, *'The Baʿlu Myth (1.86)'* in CoS 1 (Leiden 2003); **M. S. Smith and W. T. Pitard**, *The Ugaritic Baal Cycle, Volume 2* (VTSup 114, Leiden 2009); **F. M. Cross**, *Canaanite Myth and Hebrew Epic* (Cambridge MA 1973). For Hab 2:11: **M. A. Sweeney**, *The Twelve Prophets, Vol. 2* (Liturgical Press 2000).\n\n**Bidirectional cross-references.** Cluster with `kothar-wa-khasis-divine-craftsman-cross-corpus-speech-act-weapon-naming` (the first attestation, in Kothar's speech), `anat-warrior-goddess-cross-corpus-ugaritic-erased-from-hebrew-bible` (the second attestation, in the message to ʿAnatu).\n\n**Promotion note.** This entry was promoted from the per-translation overlay (`word-of-tree-whisper-of-stone-mystery-revelation-formula-baal-cycle`, established at chapter 1) to the central glossary at the chapter-2 Editor pass when the formula recurred at KTU 1.3-iii — sufficient compositional reach plus genuine cross-corpus link to Hab 2:11 justifies central placement. The chapter-1 refIds (BCY-WOH-1.1-iii:12-16) are preserved in the appliesTo and the overlay entry is deleted.\n\n**Lens-discipline operational disavowals.** (i) **No Sitchin-corpus reading of the formula as a coded reference to engineered-communication-protocol or stone-tablet-data-storage.** The Ugaritic source-text deploys the formula in the standard mystery-revelation register of ANE cosmic theological communication. (ii) **No Christian-typology pre-resolution into Luke 19:40 ('the stones would cry out') or related NT passages.** The Luke 19:40 stone-witness saying clearly activates the broader Northwest-Semitic personified-cosmic-objects substrate, but as a downstream theological development not pre-resolved into the Ugaritic source-text apparatus.",
+      "appliesTo": [
+        "BCY-WOH-1.1-iii:12",
+        "BCY-WOH-1.1-iii:13",
+        "BCY-WOH-1.1-iii:14",
+        "BCY-WOH-1.1-iii:15",
+        "BCY-WOH-1.1-iii:16",
+        "BCY-WOH-1.3-iii:29",
+        "BCY-WOH-1.3-iii:30",
+        "BCY-WOH-1.3-iii:31",
+        "BCY-WOH-1.3-iii:32",
+        "BCY-WOH-1.3-iii:33",
+        "BCY-WOH-1.3-iii:35",
+        "BCY-WOH-1.3-iii:36"
       ]
     }
   ]
