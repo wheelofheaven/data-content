@@ -54,21 +54,15 @@ The title of this chapter names the work of Sagittarius as *the breath of the wo
 
 The sixth verse of Genesis reads:
 
-{{ scripture(book="genesis-woh", chapter=1, verse=6) }}
-
-*Vayomer Elohim yehi raqia betokh ha-mayim, vihi mavdil bein mayim la-mayim.*
+{{ scripture(book="genesis-woh", chapter=1, verse=6, translit="Vayomer Elohim yehi raqia betokh ha-mayim, vihi mavdil bein mayim la-mayim.") }}
 
 The seventh verse continues:
 
-{{ scripture(book="genesis-woh", chapter=1, verse=7) }}
-
-*Vaya'as Elohim et ha-raqia vayavdel bein ha-mayim asher mitachat la-raqia u-vein ha-mayim asher me'al la-raqia, vayehi khen.*
+{{ scripture(book="genesis-woh", chapter=1, verse=7, translit="Vaya'as Elohim et-ha-raqia vayavdel bein ha-mayim asher mitachat la-raqia u-vein ha-mayim asher me'al la-raqia, vayehi-khen.") }}
 
 And the eighth verse concludes the second day:
 
-{{ scripture(book="genesis-woh", chapter=1, verse=8) }}
-
-*Vayikra Elohim la-raqia shamayim, vayehi erev vayehi voker yom sheni.*
+{{ scripture(book="genesis-woh", chapter=1, verse=8, translit="Vayikra Elohim la-raqia shamayim, vayehi-erev vayehi-voker yom sheni.") }}
 
 The word רָקִיעַ (*raqia*), from the root רקע (*r-q-*ʿ), is unusual and important. The root's primary sense is *to beat out* or *to hammer thin* or *to spread flat* — the way a metalworker flattens a sheet of metal by striking it repeatedly. The related noun רִקּוּעַ (*riqqua*) refers to beaten metalwork; in [Numbers 16:38](/library/numbers/#c16p38) the root describes the hammering of bronze censers into plates to cover the altar. In the Hebrew conception preserved by the text, the firmament is not empty space. It is a stratum, a layer of something spread thin, dividing two bodies of water from each other. The conventional reading has taken *raqia* as a solid dome — the ancient cosmological image of a sky-vault above which celestial waters are held in check and below which terrestrial waters flow. The technical reading preserved in the source material treats it more simply: the *raqia* is the atmospheric band between the cloud layer above and the ocean surface below. The *"waters above"* — הַמַּיִם אֲשֶׁר מֵעַל לָרָקִיעַ (*ha-mayim asher me'al la-raqia*) — are the atmospheric moisture, the dense cloud cover and suspended mist that characterized the planet in the Age of Capricorn. The *"waters below"* — הַמַּיִם אֲשֶׁר מִתַּחַת לָרָקִיעַ (*ha-mayim asher mitachat la-raqia*) — are the ocean itself. And the *raqia* is the cleared layer of atmosphere that came to exist between them, once the work of separation had been done.
 
@@ -90,15 +84,11 @@ The source's description of the raising of the continents is, characteristically
 
 The method, as described, combines two principles. The first is displacement: seabed material is raised from beneath the ocean and piled into a single large mass. The second is consolidation: the raised material is piled *"into one place,"* forming a single supercontinent rather than a distributed archipelago. The Hebrew text of Genesis agrees with this detail:
 
-{{ scripture(book="genesis-woh", chapter=1, verse=9) }}
-
-*Vayomer Elohim yikavu ha-mayim mitachat ha-shamayim el makom ehad, ve-tera'eh ha-yabashah, vayehi khen.*
+{{ scripture(book="genesis-woh", chapter=1, verse=9, translit="Vayomer Elohim yikavu ha-mayim mitachat ha-shamayim el-makom ehad, ve-tera'eh ha-yabashah, vayehi-khen.") }}
 
 The tenth verse continues:
 
-{{ scripture(book="genesis-woh", chapter=1, verse=10) }}
-
-*Vayikra Elohim la-yabashah eretz, u-le-mikveh ha-mayim kara yammim, vayar Elohim ki tov.*
+{{ scripture(book="genesis-woh", chapter=1, verse=10, translit="Vayikra Elohim la-yabashah eretz, u-le-mikveh ha-mayim kara yammim, vayar Elohim ki tov.") }}
 
 מָקוֹם אֶחָד (*makom ehad*) — one place. The Bible preserves, in its original Hebrew, the detail that the first continent was singular, not plural. The Hebrew word יַבָּשָׁה (*yabashah*), from the root יבש (*y-b-sh*), *to be dry*, is itself informative: it emphasizes not merely the appearance of land but the specifically *dry* character of the land — land that has been drained of its surrounding waters, exposed by the gathering of the waters into their newly designated basins. The dry land is the complement of the oceanic displacement, not a separate creation. What modern geology calls [Pangaea](/wiki/pangaea/) — or, in its more recent reconstructions, Pannotia and Rodinia before it — is the form in which the Earth's continental crust is currently thought to have existed at various points in its deep history. The mainstream reading places these supercontinents far back in time: Pangaea assembled roughly 335 million years ago, Rodinia roughly 1.1 billion years ago, Pannotia somewhere between. The corpus's reading, as will be developed in Section V, places the operation very differently in time. What both readings agree on is the structure: a single consolidated continental mass, surrounded by a single ocean. The Bible and the mainstream geological literature converge on this structural point, whatever their disagreement about when it happened.
 
@@ -148,9 +138,7 @@ The corpus's reading differs on the timeline and on the agency, but the underlyi
 
 Now consider the specific question that occupies [Genesis 1:4](/library/genesis-woh/#c1p4), which the Capricorn chapter has already introduced and which deserves sustained treatment here, because it is the passage in which the Sagittarian work connects most directly with what the scientists had concluded during the survey phase.
 
-{{ scripture(book="genesis-woh", chapter=1, verse=4) }}
-
-*Vayar Elohim et ha-or ki tov.*
+{{ scripture(book="genesis-woh", chapter=1, verse=4, translit="Vayar Elohim et-ha-or ki-tov; vayavdel Elohim bein ha-or u-vein ha-choshekh.") }}
 
 The English word *"good"* is a radically insufficient translation of טוֹב (*tov*). The Hebrew term carries in its semantic range the meanings *suitable*, *fit for purpose*, *meeting specification*, *appropriate*, *functional for the use for which it is being considered*. A *tov* field is one that grows crops. A *tov* tree is one that bears fruit. A *tov* day is one on which things go well. When the Hebrew Bible uses *tov* in contexts involving physical things being evaluated, the term is much closer to the technical vocabulary of suitability assessment than to the moral vocabulary of general excellence. To say the light was *tov* is not to make a theological claim about its moral excellence or its divine perfection. It is to record a technical finding: the light passed specification. The stellar radiation arriving at this planet was evaluated against the criteria the expedition was bringing to the evaluation, and the radiation met those criteria. It was *fit for purpose*. The purpose being the biosphere the expedition intended to establish.
 
