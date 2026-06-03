@@ -101,11 +101,7 @@ The Jericho assault is described in [Joshua 6:20](/library/joshua/#c6p20):
 The Hebrew specifies the instruments precisely: שׁוֹפָר (*shofar*) is the ram's-horn trumpet; the form *shofarot* is the plural. The phrase תַּחְתֶּיהָ (*tachteha*), "in its place" or "where it stood," indicates that the wall fell straight down rather than collapsing outward — a vertical structural failure rather than horizontal pushing. The text preserves what the witnesses observed: the wall came down where it stood, at the moment the synchronized acoustic signal was given.
 
 The Ezekiel craft description opens his book at [Ezekiel 1:4-5](/library/ezekiel/#c1p4):
-
-וָאֵרֶא וְהִנֵּה רוּחַ סְעָרָה בָּאָה מִן־הַצָּפוֹן עָנָן גָּדוֹל וְאֵשׁ מִתְלַקַּחַת וְנֹגַהּ לוֹ סָבִיב וּמִתּוֹכָהּ כְּעֵין הַחַשְׁמַל מִתּוֹךְ הָאֵשׁ
-*Va'ere ve-hineh ruach se'arah ba'ah min ha-tzafon, anan gadol ve-esh mitlakachat ve-nogah lo saviv, u-mitokhah ke-ein ha-chashmal mi-tokh ha-esh*
-"And I looked, and, behold, a whirlwind came out of the north, a great cloud, and a fire infolding itself, and a brightness was about it, and out of the midst thereof as the colour of amber, out of the midst of the fire"
-
+{{ scripture(book="ezekiel-woh", chapter=1, verse=4, translit="Va'ere ve-hineh ruach se'arah ba'ah min-ha-tzafon, anan gadol ve-esh mitlakachat ve-nogah lo saviv, u-mitokhah ke-ein ha-chashmal mi-tokh ha-esh") }}
 The word חַשְׁמַל (*chashmal*) is preserved here in its earliest biblical occurrence — a word whose ancient meaning was uncertain but whose modern Hebrew has adopted it as the word for *electricity*. The Septuagint translates it as *elektron* (amber), referring to the metal-like substance whose static-electric properties were known to ancient Greek philosophy. The phrase כְּעֵין הַחַשְׁמַל (*ke-ein ha-chashmal*), "like the appearance of *chashmal*," describes a metallic-looking substance with a particular color and luster — the visible surface of the craft Ezekiel is observing.
 
 These are the principal Hebrew passages structuring Aries. The chapter's subsequent sections will treat the political, technological, and religious content these passages describe.

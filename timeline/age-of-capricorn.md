@@ -95,7 +95,7 @@ The arrival itself was quiet, because there was no one on the planet to greet it
 
 The scientists found a world very different from ours. It was not the blue-green world of continents and oceans that we now take as the baseline of a living planet. It was, on the source's account, almost entirely covered by water, and the water was in turn almost entirely hidden beneath a dense atmospheric mist. The atmosphere was not breathable by the scientists in their native form, and its composition would have to be modified extensively before surface operations could be conducted without protective equipment. The planet's surface had not yet been organized. It was תֹהוּ וָבֹהוּ (*tohu va-vohu*) — formless and void.
 
-What the scientists did during the Age of Capricorn was, simply, what any competent survey mission would do. They deployed orbital instruments — what the source calls *"artificial satellites,"* placed around the Earth to study its composition and atmosphere. They conducted reconnaissance flights at various altitudes, some above the cloud layer, some below it. They measured the radiation arriving from the local star: the spectrum, the intensity, the variability, the presence or absence of frequencies that would be hostile to biological material. This measurement, recorded in [Genesis 1:4](/library/genesis/#c1p4) as *"Elohim saw the light, that it was good,"* was not a metaphor. It was the technical clearance required before any biological work could proceed on the surface of the planet. The local star was confirmed to be of a type suitable for the project.
+What the scientists did during the Age of Capricorn was, simply, what any competent survey mission would do. They deployed orbital instruments — what the source calls *"artificial satellites,"* placed around the Earth to study its composition and atmosphere. They conducted reconnaissance flights at various altitudes, some above the cloud layer, some below it. They measured the radiation arriving from the local star: the spectrum, the intensity, the variability, the presence or absence of frequencies that would be hostile to biological material. This measurement, recorded in [Genesis 1:4](/library/genesis-woh/#c1p4) as *"Elohim saw the light, that it was good,"* was not a metaphor. It was the technical clearance required before any biological work could proceed on the surface of the planet. The local star was confirmed to be of a type suitable for the project.
 
 These operations were not conducted in a rush. The Age of Capricorn lasted 2,160 years, and there is no indication in the source that the survey phase was completed in any shorter interval. The relative brevity of the Genesis account — five verses for the entire age — reflects only the compression of the record, not the compression of the work. A survey of this kind, conducted by a civilization that planned in millennia, would have been thorough in a way our own surveys, planned in decades, cannot afford to be. Every atmospheric layer, every variation in solar activity across the course of a full precessional interval, every chemical property of the oceans and the seabed, every geological feature of the continental shelves that would eventually be raised into dry land: all of this was catalogued, analyzed, and integrated into a plan. The plan, when it was eventually executed, would be executed with the confidence that comes from having answered, in advance, every question that could be answered in advance.
 
@@ -136,25 +136,15 @@ One further observation closes this section, and it is the observation the corpu
 The book of Genesis begins in the middle of a sentence.
 
 This is not a literary observation; it is a grammatical one. The first word of the Hebrew text, בְּרֵאשִׁית (*bereshit*), from the root ראש (*r-'-sh*), meaning "head" or "beginning," is a construct form — a form that in Hebrew normally requires a noun after it, as in בְּרֵאשִׁית הָעוֹלָם (*bereshit ha-olam*), "in the beginning of the world." The text as preserved, however, gives us:
-
-בְּרֵאשִׁית בָּרָא אֱלֹהִים אֵת הַשָּׁמַיִם וְאֵת הָאָרֶץ
-*Bereshit bara Elohim et ha-shamayim ve-et ha-aretz*
-"In the beginning Elohim created the heavens and the earth."
-
+{{ scripture(book="genesis-woh", chapter=1, verse=1, translit="Bereshit bara Elohim et ha-shamayim ve-et ha-aretz") }}
 This can be read in several ways, none of them the way the English translation *"In the beginning, God created"* suggests. The most grammatically faithful rendering is something like *"In the beginning of Elohim's creating"* — a subordinate clause, not a declarative sentence. What follows, then, is a description of the state of the world at the moment the creating began.
-
-וְהָאָרֶץ הָיְתָה תֹהוּ וָבֹהוּ
-*Ve-ha-aretz hayetah tohu va-vohu*
-"And the earth was formless and void."
-
-וְחֹשֶׁךְ עַל פְּנֵי תְהוֹם
-*Ve-choshekh al penei tehom*
-"And darkness was upon the face of the deep."
-
-וְרוּחַ אֱלֹהִים מְרַחֶפֶת עַל פְּנֵי הַמָּיִם
-*Ve-ruach Elohim merachefet al penei ha-mayim*
-"And the spirit of Elohim hovered upon the face of the waters."
-
+{% scripture(book="genesis-woh", chapter=1, verse=2) %}
+And the earth was formless and void.
+{% end %}{% scripture(book="genesis-woh", chapter=1, verse=2) %}
+And darkness was upon the face of the deep.
+{% end %}{% scripture(book="genesis-woh", chapter=1, verse=2) %}
+And the spirit of Elohim hovered upon the face of the waters.
+{% end %}
 The conventional interpretation of these verses reads them as a cosmological statement: the creator god bringing an ordered world into existence from an undifferentiated chaos. The Raëlian reading, by contrast, reads them as a technical report — a description of a planet encountered rather than a cosmos summoned.
 
 On this reading, the verb בָּרָא (*bara*), from the root ברא (*b-r-'*), conventionally translated *"created,"* is better rendered here as *"discovered"* or *"selected"* or, in the specific sense the corpus's charter prefers, *"designated."* The verb's semantic range includes the act of bringing something into a defined category rather than calling it into existence from nothing; a planet can be *bara* in the sense that an expedition designates it as their working subject, formally marks it as the target of their attention, and begins the sequence of operations that will produce their intended result. The plural subject אֱלֹהִים (*elohim*), from the root אלה (*'-l-h*), is grammatically plural and refers to the team of scientists who arrived at the planet with the intention of continuing their work. The earth they encountered was תֹהוּ וָבֹהוּ (*tohu va-vohu*), from the roots תהה (*t-h-h*, "to be astonished or unformed") and בהה (*b-h-h*, "to be empty") — a phrase that, in its original Hebrew, suggests not chaos in the metaphysical sense but an unprepared condition, the state of a place that has not yet been organized for a purpose. The darkness upon the face of the deep — חֹשֶׁךְ (*choshekh*) upon פְּנֵי תְהוֹם (*penei tehom*), the surface of the deep waters — on this reading refers to literal conditions: a planet covered almost entirely by water and shrouded in thick atmospheric mist, through which sunlight did not efficiently penetrate. And the רוּחַ אֱלֹהִים (*ruach Elohim*) — the "spirit" or "breath" of the Elohim, from the root רוח (*r-w-ch*), which can mean wind, breath, or spirit — *merachefet al penei ha-mayim*, hovering upon the face of the waters, refers to the reconnaissance vehicles, atmospheric and orbital, deployed to survey the planet from above.
@@ -162,21 +152,17 @@ On this reading, the verb בָּרָא (*bara*), from the root ברא (*b-r-'*),
 This is the first instance in this corpus of a pattern that will recur: a biblical verse that has been read metaphysically for millennia yields, when read technically, a coherent description of a specific operation. The corpus does not insist that the technical reading is the only correct one. It does insist that it is available, that it is internally coherent, and that it fits the text at least as well as the metaphysical reading does. The reader is invited to make the comparison and reach his own conclusion.
 
 The fourth verse of Genesis continues:
-
-וַיַּרְא אֱלֹהִים אֶת־הָאוֹר כִּי טוֹב
-*Vayar Elohim et ha-or ki tov*
-"And Elohim saw the light, that it was good."
-
+{% scripture(book="genesis-woh", chapter=1, verse=4) %}
+And Elohim saw the light, that it was good.
+{% end %}
 On the Raëlian reading, this describes a measurement — the stellar-radiation survey described in the preceding sections of this chapter. The fifth verse gives us the naming:
 
 וַיִּקְרָא אֱלֹהִים לָאוֹר יוֹם וְלַחֹשֶׁךְ קָרָא לָיְלָה
 *Vayikra Elohim la-or yom, ve-la-choshekh kara laylah*
 "And Elohim called the light day, and the darkness he called night."
-
-וַיְהִי־עֶרֶב וַיְהִי־בֹקֶר יוֹם אֶחָד
-*Vayehi erev vayehi voker, yom ehad*
-"And there was evening, and there was morning: one day."
-
+{% scripture(book="genesis-woh", chapter=1, verse=5) %}
+And there was evening, and there was morning: one day.
+{% end %}
 This is the first use of יוֹם (*yom*) in the text, and the phrase is יוֹם אֶחָד (*yom ehad*), "one day," not יוֹם רִאשׁוֹן (*yom rishon*), "first day." The anomaly has been noted above. The duration, on the reading this corpus adopts, is 2,160 years. The Age of Capricorn has ended.
 
 ## VIII. What Capricorn Is Not
