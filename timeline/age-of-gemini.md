@@ -81,11 +81,9 @@ The Tower of Babel passage is [Genesis 11:1-9](/library/genesis-woh/#c11p1). Ver
 This verse is a substantial historical claim: in the post-flood early period, all of humanity spoke a single language. The conventional explanation has been to treat this as a linguistic compression of the ancient world's pre-Babel monolingual state, possibly going back to a common ancestral language of the Indo-European or Afroasiatic family. The Raëlian reading takes the verse more literally: in the immediate post-flood period, when the surviving humans had been redistributed across the new continents but had not yet developed the linguistic differences that geographic isolation would produce, all human populations spoke a common language inherited from the pre-flood Eden civilization. The Babel intervention, which the corpus reads as a deliberate Council operation, was specifically designed to fragment this common language and prevent the kind of coordinated technological project the Tower itself represented.
 
 [Genesis 11:4](/library/genesis-woh/#c11p4) records the Tower project:
-
-וַיֹּאמְרוּ הָבָה נִבְנֶה־לָּנוּ עִיר וּמִגְדָּל וְרֹאשׁוֹ בַשָּׁמַיִם וְנַעֲשֶׂה־לָּנוּ שֵׁם
-*Vayomru: havah nivneh lanu ir u-migdal, ve-rosho va-shamayim, ve-na'aseh lanu shem*
-"And they said: Go to, let us build us a city and a tower, whose top may reach unto heaven; and let us make us a name"
-
+{% scripture(book="genesis-woh", chapter=11, verse=4) %}
+And they said: Go to, let us build us a city and a tower, whose top may reach unto heaven; and let us make us a name
+{% end %}
 The phrase וְרֹאשׁוֹ בַשָּׁמַיִם (*ve-rosho va-shamayim*), "whose top may reach unto heaven," uses the same שָׁמַיִם (*shamayim*) that has been the chapter's term for "heavens" throughout the corpus. The conventional reading treats this as a metaphor for great height — a tower so tall it figuratively touches the sky. The Raëlian reading treats it more literally: the *shamayim* are the heavens in the cosmological sense, the realm beyond the atmosphere where the home world resides. A tower whose top reaches the *shamayim* is a structure designed to reach beyond Earth — a spacecraft or a launch facility for one. The phrasing supports the technical reading without strain.
 
 [Genesis 11:6](/library/genesis-woh/#c11p6) records the Council's response:

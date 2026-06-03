@@ -67,11 +67,7 @@ And he lifted up his eyes and looked, and, lo, three men stood by him
 The shift between *Adonai* (Yahweh, singular) in verse 1 and *sheloshah anashim* (three men) in verse 2 is the textual phenomenon the chapter's later analysis will return to. The Hebrew text presents the same encounter both as Yahweh's appearance and as the appearance of three men. Conventional theological readings have struggled with this; the corpus's framework dissolves the difficulty by reading the three men as a senior officer (the Yahweh figure) accompanied by two subordinates (the scouts who will enter Sodom in the next chapter).
 
 The negotiation between Abraham and Yahweh over the threshold of righteous people occupies [Genesis 18:22-33](/library/genesis-woh/#c18p22). Verse 25 contains Abraham's most pointed protest:
-
-חָלִלָה לְּךָ מֵעֲשֹׂת כַּדָּבָר הַזֶּה לְהָמִית צַדִּיק עִם־רָשָׁע וְהָיָה כַצַּדִּיק כָּרָשָׁע חָלִלָה לָּךְ הֲשֹׁפֵט כָּל־הָאָרֶץ לֹא יַעֲשֶׂה מִשְׁפָּט
-*Chalilah lekha me-asot ka-davar ha-zeh le-hamit tzaddik im rasha, ve-hayah ka-tzaddik ka-rasha, chalilah lakh, ha-shofet kol ha-aretz lo ya'aseh mishpat?*
-"That be far from thee to do after this manner, to slay the righteous with the wicked: and that the righteous should be as the wicked, that be far from thee: Shall not the Judge of all the earth do right?"
-
+{{ scripture(book="genesis-woh", chapter=18, verse=25, translit="Chalilah lekha me-asot ka-davar ha-zeh le-hamit tzaddik im-rasha, ve-hayah ka-tzaddik ka-rasha, chalilah lakh, ha-shofet kol-ha-aretz lo ya'aseh mishpat?") }}
 The phrase הֲשֹׁפֵט כָּל־הָאָרֶץ (*ha-shofet kol ha-aretz*), "the Judge of all the earth," is a striking title. It identifies the figure with whom Abraham is negotiating not as a local deity or a single people's protector but as a figure of universal judicial authority. The corpus's reading treats this as accurate: the visiting officer represents not merely a regional faction but the broader political authority that exercises judgment over the entire planet.
 
 The strike itself is recorded in [Genesis 19:24-25](/library/genesis-woh/#c19p24):
@@ -85,15 +81,9 @@ And it came to pass after these things, that Elohim did tempt Abraham
 The verb נִסָּה (*nissah*), conventionally translated "tempt" or "test" or "prove," is the textual signal that the entire episode is framed from the outset as a test rather than as a genuine command. The Hebrew text itself, in its first verse, identifies what is happening. The chapter's later analysis will return to this. What deserves note here is that the King James "tempt" translation has imported a moral connotation that the Hebrew does not carry. *Nissah* is closer to "examined" or "tested" or "put to the proof" — the verb of formal assessment. The Council, or its representatives, are conducting an evaluation. Abraham is the subject of the evaluation.
 
 The intervention to stop the sacrifice comes in [Genesis 22:11-12](/library/genesis-woh/#c22p11):
-
-וַיִּקְרָא אֵלָיו מַלְאַךְ יְהוָה מִן־הַשָּׁמַיִם וַיֹּאמֶר אַבְרָהָם אַבְרָהָם וַיֹּאמֶר הִנֵּנִי
-*Vayikra elav malakh Adonai min ha-shamayim, vayomer Avraham Avraham, vayomer hineni*
-"And the angel of Yahweh called unto him out of heaven, and said, Abraham, Abraham: and he said, Here am I"
-
-וַיֹּאמֶר אַל־תִּשְׁלַח יָדְךָ אֶל־הַנַּעַר וְאַל־תַּעַשׂ לוֹ מְאוּמָה כִּי עַתָּה יָדַעְתִּי כִּי־יְרֵא אֱלֹהִים אַתָּה
-*Vayomer al tishlach yadkha el ha-na'ar ve-al ta'as lo me'umah, ki atah yadati ki yere Elohim atah*
-"And he said, Lay not thine hand upon the lad, neither do thou any thing unto him: for now I know that thou fearest Elohim"
-
+{{ scripture(book="genesis-woh", chapter=22, verse=11, translit="Vayikra elav malakh Adonai min-ha-shamayim, vayomer Avraham Avraham, vayomer hineni") }}{% scripture(book="genesis-woh", chapter=22, verse=12) %}
+And he said, Lay not thine hand upon the lad, neither do thou any thing unto him: for now I know that thou fearest Elohim
+{% end %}
 The phrase כִּי עַתָּה יָדַעְתִּי (*ki atah yadati*), "for now I know," is the most theologically problematic phrase in the entire passage on conventional readings. If the speaker is an omniscient deity, what does it mean for that deity to come to "know" something only now? The Hebrew is unambiguous: the speaker did not know the answer to whatever question was being tested until Abraham's actions provided it. This is not the language of omniscience. It is the language of empirical investigation. The corpus's reading takes the language at face value: the figure speaking is not an omniscient deity but an investigator who has just received the data the test was designed to produce.
 
 These are the principal Hebrew passages structuring Taurus. The chapter's subsequent sections will treat the political and historical content these passages describe.

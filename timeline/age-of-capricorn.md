@@ -156,11 +156,9 @@ The fourth verse of Genesis continues:
 And Elohim saw the light, that it was good.
 {% end %}
 On the Raëlian reading, this describes a measurement — the stellar-radiation survey described in the preceding sections of this chapter. The fifth verse gives us the naming:
-
-וַיִּקְרָא אֱלֹהִים לָאוֹר יוֹם וְלַחֹשֶׁךְ קָרָא לָיְלָה
-*Vayikra Elohim la-or yom, ve-la-choshekh kara laylah*
-"And Elohim called the light day, and the darkness he called night."
 {% scripture(book="genesis-woh", chapter=1, verse=5) %}
+And Elohim called the light day, and the darkness he called night.
+{% end %}{% scripture(book="genesis-woh", chapter=1, verse=5) %}
 And there was evening, and there was morning: one day.
 {% end %}
 This is the first use of יוֹם (*yom*) in the text, and the phrase is יוֹם אֶחָד (*yom ehad*), "one day," not יוֹם רִאשׁוֹן (*yom rishon*), "first day." The anomaly has been noted above. The duration, on the reading this corpus adopts, is 2,160 years. The Age of Capricorn has ended.
