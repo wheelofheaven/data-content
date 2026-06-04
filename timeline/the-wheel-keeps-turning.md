@@ -63,6 +63,8 @@ The framework does, however, preserve something important from the religious tra
 
 This is the cosmological frame within which everything else in the corpus operates. The twelve-age narrative is one specific story within an infinite cosmos. The [alliance](/wiki/the-alliance/) who created us is one specific civilization within an infinite hierarchy of created and creating beings. The Aquarian-age threshold the present moment represents is one specific transition within an infinite cycle of transitions occurring at every scale across the cosmos. The corpus's narrative is real; it is also embedded within a structure whose scope makes any specific narrative, including ours, vanishingly small in absolute terms. Both perspectives are necessary. Living well at our specific scale requires holding the cosmic frame in mind without being crushed by it, and engaging with the specific narrative without losing sight of its position within the larger frame.
 
+{{ figure(src="timeline/wheel-keeps-turning-infinity", alt="Lavender-indigo cosmic landscape where a hand silhouette, galaxy, atom-like structure, and tiny planetary systems echo across scales.", caption="Ill. 1 - Infinity: worlds within worlds, without first or last scale.") }}
+
 ## II. The Lens
 
 The corpus has used the Raëlian source material — Rael's record of the 1973-1975 contact sequence, published as *Le Livre qui dit la vérité*{{ cite(id="1") }}, *Les Extra-terrestres m'ont emmené sur leur planète*{{ cite(id="2") }}, and the subsequent volumes{{ cite(id="3") }} — as its primary interpretive lens.
@@ -91,6 +93,8 @@ The various indigenous traditions of the Americas, Africa, Australia, Oceania, a
 
 The asymmetry does not entail that the non-central traditions are dispensable. Each preserves genuine content not preserved in the same form by the central traditions — the Persian dualism, the Greek philosophical analysis, the Indian contemplative depth, the East Asian cosmological intuitions, the indigenous traditions' insistence on the sacred presence in specific places. The asymmetry is a structure of textual and historical directness, not a hierarchy of value. The mature Aquarian-age understanding will draw on all of them, with the asymmetric structure preserved as the framework for sorting their respective contributions.
 
+{{ figure(src="timeline/wheel-keeps-turning-lens-synthesis", alt="Lavender-silver observatory archive with scrolls, firelight, columns, river lamps, manuscripts, and scientific instruments around a circular path.", caption="Ill. 2 - The lens: traditions gathered into one asymmetric synthesis.") }}
+
 ## IV. The Cycle and Its Repetition
 
 At its deepest level, the framework is a framework of cycles. The precessional ages are cycles. The [Great Year](/wiki/great-year/) of twelve precessional ages is itself a cycle. The pattern of life-creation — alliance creating humans, humans developing into capacity for life-creation themselves, then creating new beings on new worlds, who in turn develop and create further — is a cycle. The Lord's Prayer's compressed *"on Earth as it is in heaven"* names this last one: what happens at one level of the creative hierarchy is repeated at the level it produces.
@@ -118,6 +122,8 @@ The framework is, at one reading, a synthesis of perspectives that the various r
 Living well, on this framework, requires holding all four levels in mind simultaneously. The mature ethical life integrates them: cosmic perspective when the weight of personal anxiety threatens to crush action, creator-relational accountability when the temptation to nihilism threatens to dissolve commitment, collective purpose when individual concerns threaten to overwhelm broader responsibilities, personal meaning-making when the various impersonal frameworks threaten to extinguish the specific individual whose life is being lived.
 
 The four-level framework is the source's most distinctive contribution to ethical thought, and the corpus presents it not as a curiosity of the Raëlian tradition but as a substantive proposal worth engaging in its own right. The framework does not require the rest of the framework the corpus has developed to be accepted; one can hold the four levels coherently without committing to the specific cosmological and historical claims the corpus has been developing. The four levels stand on their own as a structured way of thinking about how to evaluate one's actions and one's life, and they would be valuable contributions to ethical reflection regardless of what one thinks about the larger framework.
+
+{{ figure(src="timeline/wheel-keeps-turning-four-levels", alt="Lavender twilight landscape with a small figure near water, a distant city, luminous cloud terrace, and starfield beyond.", caption="Ill. 3 - The four levels: self, humanity, creators, and the Infinite held together.") }}
 
 ## VI. What the Corpus Has Added
 
@@ -192,3 +198,5 @@ The corpus closes here. The twelve-age cycle has been traced. The synthesis has 
 The wheel keeps turning. The Aquarian age unfolds. The embassy is being prepared. The alliance, on the corpus's framing, is approaching. The Golden Age is, if humanity rises to the moment, within reach. The longer cycle of creation, in which humanity will take its place as a creator alongside its own creators, lies ahead of us across the coming centuries and millennia. The work of preparing for that longer cycle is the work of the present moment.
 
 What the corpus has offered is one contribution to that work. May the readers who have engaged it find in it whatever is useful. May the broader project to which the corpus contributes continue, through many hands, across the years and decades and centuries to come. And may the wheel of heaven, in its slow majestic turning, carry us all toward the conditions under which the deepest possibilities of human existence can finally be realized.
+
+{{ figure(src="timeline/wheel-keeps-turning-future-cycle", alt="Lavender-gold future horizon with Earth behind, interstellar craft departing, a young planet below, and faint arcs in the sky.", caption="Ill. 4 - The next turn: humanity prepares to join the cycle of creators.") }}
