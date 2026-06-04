@@ -116,11 +116,9 @@ The crisis began within the Israel team — the most accomplished of the seven f
 
 The source describes what happened in direct terms: *"Some scientists in this team felt a deep love for their little human beings, their 'creatures', and they wanted to give them a complete education in order to make them scientists like themselves. So they told these young people who were almost adults that they could pursue their scientific studies and in so doing they would become as knowledgeable as their creators."*
 
-The Genesis 3 account preserves this in the form of the serpent's temptation. The serpent — in the corpus's reading, the Lucifer faction — speaks to the woman first. The conversation that the Hebrew text records is brief but precise:
-
-וַיֹּאמֶר הַנָּחָשׁ אֶל־הָאִשָּׁה לֹא־מוֹת תְּמֻתוּן כִּי יֹדֵעַ אֱלֹהִים כִּי בְּיוֹם אֲכָלְכֶם מִמֶּנּוּ וְנִפְקְחוּ עֵינֵיכֶם וִהְיִיתֶם כֵּאלֹהִים יֹדְעֵי טוֹב וָרָע
-*Vayomer ha-nachash el ha-isha: lo mot temutun, ki yode'a Elohim ki be-yom akhalkhem mimenu ve-nifkechu eineikhem, vihyitem ke-Elohim yodei tov va-ra*
-"And the serpent said unto the woman: Ye shall not surely die. For Elohim doth know that in the day ye eat thereof, then your eyes shall be opened, and ye shall be like Elohim, knowing good and evil."
+The Genesis 3 account preserves this in the form of the serpent's temptation. The serpent — in the corpus's reading, the Lucifer faction — speaks to the woman first. The conversation that the Hebrew text records in [Genesis 3:4–5](/library/genesis-woh/#c3p4) is brief but precise:
+{{ scripture(book="genesis-woh", chapter=3, verse=4, translit="Vayomer ha-nachash el-ha-isha: lo-mot temutun.") }}
+{{ scripture(book="genesis-woh", chapter=3, verse=5, translit="Ki yode'a Elohim ki be-yom akhalkhem mimenu ve-nifkechu eineikhem, vihyitem ke-Elohim yodei tov va-ra.") }}
 
 The Lucifer faction tells the humans the truth about their situation. They are not in a paradise that will remain paradise forever. They are in a laboratory, under the care of makers who have decided to keep them ignorant of what they could be. The prohibition against the tree of knowledge is not a moral prohibition but a political one. The fruit of the tree is not lethal. Its consumption does not produce death; it produces knowledge, and knowledge is what the coordinating council on the home world has specifically ordered the Israel team to withhold. And — most important — the consequence of acquiring this knowledge is that the humans will become *ke-Elohim*, "like Elohim," with the specific capacity to *yodei tov va-ra*, "to know good and evil." The phrase *tov va-ra* is the merism that names the entirety of moral knowledge. The humans will become moral agents in their own right, capable of evaluation, capable of judgment, no longer subject to the simple obedience that characterized their pre-knowledge condition.
 

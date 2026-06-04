@@ -45,11 +45,8 @@ This chapter will walk the Aquarian age through its first eighty years as those 
 
 The Aquarian-age scriptural material draws on multiple traditions and multiple languages. The Hebrew prophetic literature, the Greek New Testament, and selected Aramaic and Latin passages all bear on the age the corpus is now treating. The chapter cannot exhaust the relevant material, but the principal passages structuring the chapter's arguments deserve careful presentation.
 
-The transition signal is preserved in Zephaniah 1:10:
-
-וְהָיָה בַיּוֹם הַהוּא נְאֻם־יְהוָה קוֹל צְעָקָה מִשַּׁעַר הַדָּגִים וִילָלָה מִן־הַמִּשְׁנֶה וְשֶׁבֶר גָּדוֹל מֵהַגְּבָעוֹת
-*Ve-hayah ba-yom ha-hu ne'um Adonai kol tza'akah mi-sha'ar ha-dagim, vi-lalah min ha-mishneh, ve-shever gadol me-ha-geva'ot*
-"And it shall come to pass in that day, saith Yahweh, that there shall be the noise of a cry from the fish gate, and an howling from the second quarter, and a great crashing from the hills"
+The transition signal is preserved in [Zephaniah 1:10](/library/zephaniah/#c1p10):
+{{ scripture(book="zephaniah", chapter=1, verse=10, hebrew="וְהָיָה בַיּוֹם הַהוּא נְאֻם־יְהוָה קוֹל צְעָקָה מִשַּׁעַר הַדָּגִים וִילָלָה מִן־הַמִּשְׁנֶה וְשֶׁבֶר גָּדוֹל מֵהַגְּבָעוֹת", translit="Ve-hayah ba-yom ha-hu ne'um-Adonai kol tza'akah mi-sha'ar ha-dagim, vi-lalah min-ha-mishneh, ve-shever gadol me-ha-geva'ot", english="And it shall come to pass in that day, saith Yahweh, that there shall be the noise of a cry from the fish gate, and an howling from the second quarter, and a great crashing from the hills") }}
 
 The phrase שַׁעַר הַדָּגִים (*sha'ar ha-dagim*), "the gate of the fishes," is the source's anchor for identifying the passage as the Aquarian transition. The source reads the gate of fishes as the precessional gate of Pisces — the passageway through which the equinoctial sun crosses out of the Fishes and into the Water-Bearer. The phrase קוֹל צְעָקָה (*kol tza'akah*), "the noise of a cry," is the acoustic signature of the crossing. The source identifies this acoustic signature with the nuclear detonations of August 1945 — the literal sound that accompanied the literal crossing of the precessional gate. The Hebrew preserves both meanings simultaneously: the astronomical transition and the human-historical event that marked it.
 
