@@ -45,59 +45,31 @@ The chapter will also treat, in its appropriate place, one of the most iconograp
 The Hebrew text covering the events of Aries spans most of the Pentateuch from Exodus onward and the entire prophetic and historical literature that follows. The chapter cannot treat every verse with full apparatus, but the key passages deserve careful presentation.
 
 The burning bush encounter opens in [Exodus 3:2-4](/library/exodus/#c3p2):
-
-וַיֵּרָא מַלְאַךְ יְהוָה אֵלָיו בְּלַבַּת־אֵשׁ מִתּוֹךְ הַסְּנֶה וַיַּרְא וְהִנֵּה הַסְּנֶה בֹּעֵר בָּאֵשׁ וְהַסְּנֶה אֵינֶנּוּ אֻכָּל
-*Vayera malakh Adonai elav be-labat esh mi-tokh ha-seneh, vayar ve-hineh ha-seneh boer ba-esh ve-ha-seneh einenu ukal*
-"And the angel of [Yahweh](/wiki/yahweh/) appeared unto him in a flame of fire out of the midst of a bush: and he looked, and, behold, the bush burned with fire, and the bush was not consumed"
-
+{{ scripture(book="exodus", chapter=3, verse=2, hebrew="וַיֵּרָא מַלְאַךְ יְהוָה אֵלָיו בְּלַבַּת־אֵשׁ מִתּוֹךְ הַסְּנֶה וַיַּרְא וְהִנֵּה הַסְּנֶה בֹּעֵר בָּאֵשׁ וְהַסְּנֶה אֵינֶנּוּ אֻכָּל", translit="Vayera malakh Adonai elav be-labat-esh mi-tokh ha-seneh, vayar ve-hineh ha-seneh boer ba-esh ve-ha-seneh einenu ukal", english="And the angel of [Yahweh](/wiki/yahweh/) appeared unto him in a flame of fire out of the midst of a bush: and he looked, and, behold, the bush burned with fire, and the bush was not consumed") }}
 The Hebrew מַלְאַךְ (*malakh*) is the standard term for "messenger" — someone sent to carry a message — and the word's etymology is identical to its ordinary usage. A *malakh* in biblical Hebrew is simply a messenger; the question of what kind of messenger can be determined only from context. The phrase בְּלַבַּת־אֵשׁ (*be-labat esh*), conventionally translated "in a flame of fire," more literally means "in the heart of fire" or "in the midst of fire" — *labat* is a poetic intensification suggesting the central or most intense part of the flame. The bush "not consumed" preserves the observational paradox: combustion appearing without combustion's normal effect on the substrate.
 
 The divine name disclosure follows in [Exodus 3:14](/library/exodus/#c3p14):
-
-וַיֹּאמֶר אֱלֹהִים אֶל־מֹשֶׁה אֶהְיֶה אֲשֶׁר אֶהְיֶה
-*Vayomer Elohim el Moshe: Ehyeh asher Ehyeh*
-"And Elohim said unto Moses: I AM THAT I AM"
-
+{{ scripture(book="exodus", chapter=3, verse=14, hebrew="וַיֹּאמֶר אֱלֹהִים אֶל־מֹשֶׁה אֶהְיֶה אֲשֶׁר אֶהְיֶה", translit="Vayomer Elohim el-Moshe: Ehyeh asher Ehyeh", english="And Elohim said unto Moses: I AM THAT I AM") }}
 The Hebrew אֶהְיֶה אֲשֶׁר אֶהְיֶה (*Ehyeh asher Ehyeh*) is among the most discussed phrases in the entire Hebrew Bible. The verb *ehyeh* is the first-person imperfect of the verb *to be* — though Hebrew imperfect tense carries continuous and future implications that English present tense does not capture. The phrase can be translated "I am that I am," "I will be what I will be," "I am the One who is," or "I will become what I will become." The connection to the divine name יְהוָה (YHWH, the Tetragrammaton) is etymological: YHWH derives from the same root, in the third-person form. The divine name, on this etymology, means "He who is" or "He who causes to be." The corpus's reading does not commit to a specific translation but notes that the Hebrew preserves a deliberate ambiguity — the figure speaking to Moses is identifying itself by reference to its own existence, in a way that resists ordinary nomenclature.
 
 The Red Sea crossing is recorded in [Exodus 14:21](/library/exodus/#c14p21):
-
-וַיֵּט מֹשֶׁה אֶת־יָדוֹ עַל־הַיָּם וַיּוֹלֶךְ יְהוָה אֶת־הַיָּם בְּרוּחַ קָדִים עַזָּה כָּל־הַלַּיְלָה וַיָּשֶׂם אֶת־הַיָּם לֶחָרָבָה וַיִּבָּקְעוּ הַמָּיִם
-*Vayet Moshe et yado al ha-yam, vayolekh Adonai et ha-yam be-ruach kadim azah kol ha-laylah, vayasem et ha-yam le-charavah, vayibakeu ha-mayim*
-"And Moses stretched out his hand over the sea; and Yahweh caused the sea to go back by a strong east wind all that night, and made the sea dry land, and the waters were divided"
-
+{{ scripture(book="exodus", chapter=14, verse=21, hebrew="וַיֵּט מֹשֶׁה אֶת־יָדוֹ עַל־הַיָּם וַיּוֹלֶךְ יְהוָה אֶת־הַיָּם בְּרוּחַ קָדִים עַזָּה כָּל־הַלַּיְלָה וַיָּשֶׂם אֶת־הַיָּם לֶחָרָבָה וַיִּבָּקְעוּ הַמָּיִם", translit="Vayet Moshe et-yado al-ha-yam, vayolekh Adonai et-ha-yam be-ruach kadim azah kol-ha-laylah, vayasem et-ha-yam le-charavah, vayibakeu ha-mayim", english="And Moses stretched out his hand over the sea; and Yahweh caused the sea to go back by a strong east wind all that night, and made the sea dry land, and the waters were divided") }}
 The verb בָּקַע (*baka*), "to split, to cleave, to break open," in the niphal passive form *yibakeu* describes water being divided by an external force. The phrase לֶחָרָבָה (*le-charavah*), "to dry land," indicates the result: the divided seabed became walkable. The "strong east wind" mentioned in the verse is itself a striking detail, since wind alone could not produce the parted-water effect the narrative requires; the Hebrew text seems to preserve both the mechanism (some kind of force directed across the water) and the observable atmospheric effects that accompanied it.
 
 The Sinai theophany is recorded in [Exodus 19:18](/library/exodus/#c19p18):
-
-וְהַר סִינַי עָשַׁן כֻּלּוֹ מִפְּנֵי אֲשֶׁר יָרַד עָלָיו יְהוָה בָּאֵשׁ וַיַּעַל עֲשָׁנוֹ כְּעֶשֶׁן הַכִּבְשָׁן וַיֶּחֱרַד כָּל־הָהָר מְאֹד
-*Ve-har Sinai ashan kulo mi-pnei asher yarad alav Adonai ba-esh, vaya'al ashano ke-eshen ha-kivshan, vayecherad kol ha-har me'od*
-"And mount Sinai was altogether on a smoke, because Yahweh descended upon it in fire: and the smoke thereof ascended as the smoke of a furnace, and the whole mount quaked greatly"
-
+{{ scripture(book="exodus", chapter=19, verse=18, hebrew="וְהַר סִינַי עָשַׁן כֻּלּוֹ מִפְּנֵי אֲשֶׁר יָרַד עָלָיו יְהוָה בָּאֵשׁ וַיַּעַל עֲשָׁנוֹ כְּעֶשֶׁן הַכִּבְשָׁן וַיֶּחֱרַד כָּל־הָהָר מְאֹד", translit="Ve-har Sinai ashan kulo mi-pnei asher yarad alav Adonai ba-esh, vaya'al ashano ke-eshen ha-kivshan, vayecherad kol-ha-har me'od", english="And mount Sinai was altogether on a smoke, because Yahweh descended upon it in fire: and the smoke thereof ascended as the smoke of a furnace, and the whole mount quaked greatly") }}
 The verb יָרַד (*yarad*), "to descend, to come down," is unambiguous. The figure described is descending physically onto the mountain. The "fire" *ba-esh* is the visible phenomenon accompanying the descent; the "smoke as the smoke of a furnace" *ke-eshen ha-kivshan* compares the visible cloud to industrial-scale combustion (a *kivshan* is a furnace or kiln, the ancient world's most intensely smoke-producing apparatus); the "quaking" *vayecherad* describes the physical shockwave of the landing. The Hebrew is precise about what the witnesses observed.
 
 The Mosaic horn-or-rays passage is in [Exodus 34:29](/library/exodus/#c34p29):
-
-וְלֹא־יָדַע כִּי קָרַן עוֹר פָּנָיו בְּדַבְּרוֹ אִתּוֹ
-*Ve-lo yada ki karan or panav be-dabro ito*
-"And he wist not that the skin of his face shone while he talked with him"
-
+{{ scripture(book="exodus", chapter=34, verse=29, hebrew="וְלֹא־יָדַע כִּי קָרַן עוֹר פָּנָיו בְּדַבְּרוֹ אִתּוֹ", translit="Ve-lo-yada ki karan or panav be-dabro ito", english="And he wist not that the skin of his face shone while he talked with him") }}
 The verb קָרַן (*karan*) is the textual crux the chapter's later analysis will treat at length. It can mean either "to send forth horns" or "to send forth rays." Both readings are grammatically legitimate. The conventional translation tradition has split between them, and the corpus's reading argues that the ambiguity is deliberate.
 
 The Brass Serpent passage is in [Numbers 21:8-9](/library/numbers/#c21p8):
-
-וַיֹּאמֶר יְהוָה אֶל־מֹשֶׁה עֲשֵׂה לְךָ שָׂרָף וְשִׂים אֹתוֹ עַל־נֵס וְהָיָה כָּל־הַנָּשׁוּךְ וְרָאָה אֹתוֹ וָחָי
-*Vayomer Adonai el Moshe: aseh lekha saraf ve-sim oto al nes, ve-hayah kol ha-nashukh ve-ra'ah oto va-chai*
-"And Yahweh said unto Moses: Make thee a fiery serpent, and set it upon a pole: and it shall come to pass, that every one that is bitten, when he looketh upon it, shall live"
-
+{{ scripture(book="numbers", chapter=21, verse=8, hebrew="וַיֹּאמֶר יְהוָה אֶל־מֹשֶׁה עֲשֵׂה לְךָ שָׂרָף וְשִׂים אֹתוֹ עַל־נֵס וְהָיָה כָּל־הַנָּשׁוּךְ וְרָאָה אֹתוֹ וָחָי", translit="Vayomer Adonai el-Moshe: aseh lekha saraf ve-sim oto al-nes, ve-hayah kol-ha-nashukh ve-ra'ah oto va-chai", english="And Yahweh said unto Moses: Make thee a fiery serpent, and set it upon a pole: and it shall come to pass, that every one that is bitten, when he looketh upon it, shall live") }}
 The Hebrew שָׂרָף (*saraf*) is the same root that produces the seraphim of Isaiah's vision — etymologically "burning" or "fiery." The word נֵס (*nes*) means "pole, banner, signal" — the elevated structure on which the device was mounted. The instruction to "look upon" the serpent for healing is the operational instruction; the text's preservation of the procedure preserves the medical protocol of an Aries-period field treatment.
 
 The Jericho assault is described in [Joshua 6:20](/library/joshua/#c6p20):
-
-וַיָּרַע הָעָם וַיִּתְקְעוּ בַּשֹּׁפָרוֹת וַיְהִי כִשְׁמֹעַ הָעָם אֶת־קוֹל הַשּׁוֹפָר וַיָּרִיעוּ הָעָם תְּרוּעָה גְדוֹלָה וַתִּפֹּל הַחוֹמָה תַּחְתֶּיהָ
-*Vayara ha-am vayitke'u ba-shofarot, vayehi ki-shmoa ha-am et kol ha-shofar, vayariu ha-am teru'ah gedolah, vatipol ha-chomah tachteha*
-"So the people shouted when the priests blew with the trumpets: and it came to pass, when the people heard the sound of the trumpet, and the people shouted with a great shout, that the wall fell down flat"
-
+{{ scripture(book="joshua", chapter=6, verse=20, hebrew="וַיָּרַע הָעָם וַיִּתְקְעוּ בַּשֹּׁפָרוֹת וַיְהִי כִשְׁמֹעַ הָעָם אֶת־קוֹל הַשּׁוֹפָר וַיָּרִיעוּ הָעָם תְּרוּעָה גְדוֹלָה וַתִּפֹּל הַחוֹמָה תַּחְתֶּיהָ", translit="Vayara ha-am vayitke'u ba-shofarot, vayehi ki-shmoa ha-am et-kol ha-shofar, vayariu ha-am teru'ah gedolah, vatipol ha-chomah tachteha", english="So the people shouted when the priests blew with the trumpets: and it came to pass, when the people heard the sound of the trumpet, and the people shouted with a great shout, that the wall fell down flat") }}
 The Hebrew specifies the instruments precisely: שׁוֹפָר (*shofar*) is the ram's-horn trumpet; the form *shofarot* is the plural. The phrase תַּחְתֶּיהָ (*tachteha*), "in its place" or "where it stood," indicates that the wall fell straight down rather than collapsing outward — a vertical structural failure rather than horizontal pushing. The text preserves what the witnesses observed: the wall came down where it stood, at the moment the synchronized acoustic signal was given.
 
 The Ezekiel craft description opens his book at [Ezekiel 1:4-5](/library/ezekiel/#c1p4):
