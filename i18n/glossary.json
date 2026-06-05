@@ -1,6 +1,6 @@
 {
   "$schema": "./glossary-schema.json",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "updated": "2026-06-05",
   "description": "Terminology glossary for consistent translations across all languages",
   "terms": [
@@ -363,6 +363,391 @@
         "zh-Hant": "赫西俄德"
       },
       "notes": "Standard scholarly transliterations across languages. Adjectival form ('Hesiodic') derives regularly in each language (de: hesiodisch; fr: hésiodique; ja: ヘシオドスの; etc.). he: הסיודוס."
+    },
+    {
+      "id": "age-of-capricorn",
+      "category": "timeline",
+      "definition": "The precessional age of Capricorn — one of the twelve approximately 2,160-year ages that structure the Wheel of Heaven corpus's main sequence. Astronomical (precessional), not astrological.",
+      "translations": {
+        "en": "Age of Capricorn",
+        "de": "Zeitalter des Steinbocks",
+        "es": "Era de Capricornio",
+        "fr": "Ère du Capricorne",
+        "ja": "山羊座の時代",
+        "ko": "염소자리 시대",
+        "ru": "Эпоха Козерога",
+        "zh": "摩羯座时代",
+        "zh-Hant": "摩羯座時代",
+        "he": "עידן הגדי"
+      }
+    },
+    {
+      "id": "age-of-sagittarius",
+      "category": "timeline",
+      "definition": "The precessional age of Sagittarius — one of the twelve approximately 2,160-year ages that structure the Wheel of Heaven corpus's main sequence. Astronomical (precessional), not astrological.",
+      "translations": {
+        "en": "Age of Sagittarius",
+        "de": "Zeitalter des Schützen",
+        "es": "Era de Sagitario",
+        "fr": "Ère du Sagittaire",
+        "ja": "射手座の時代",
+        "ko": "사수자리 시대",
+        "ru": "Эпоха Стрельца",
+        "zh": "射手座时代",
+        "zh-Hant": "射手座時代",
+        "he": "עידן הקשת"
+      }
+    },
+    {
+      "id": "age-of-scorpio",
+      "category": "timeline",
+      "definition": "The precessional age of Scorpio — one of the twelve approximately 2,160-year ages that structure the Wheel of Heaven corpus's main sequence. Astronomical (precessional), not astrological.",
+      "translations": {
+        "en": "Age of Scorpio",
+        "de": "Zeitalter des Skorpions",
+        "es": "Era de Escorpio",
+        "fr": "Ère du Scorpion",
+        "ja": "蠍座の時代",
+        "ko": "전갈자리 시대",
+        "ru": "Эпоха Скорпиона",
+        "zh": "天蝎座时代",
+        "zh-Hant": "天蠍座時代",
+        "he": "עידן העקרב"
+      }
+    },
+    {
+      "id": "age-of-libra",
+      "category": "timeline",
+      "definition": "The precessional age of Libra — one of the twelve approximately 2,160-year ages that structure the Wheel of Heaven corpus's main sequence. Astronomical (precessional), not astrological.",
+      "translations": {
+        "en": "Age of Libra",
+        "de": "Zeitalter der Waage",
+        "es": "Era de Libra",
+        "fr": "Ère de la Balance",
+        "ja": "天秤座の時代",
+        "ko": "천칭자리 시대",
+        "ru": "Эпоха Весов",
+        "zh": "天秤座时代",
+        "zh-Hant": "天秤座時代",
+        "he": "עידן המאזניים"
+      }
+    },
+    {
+      "id": "age-of-virgo",
+      "category": "timeline",
+      "definition": "The precessional age of Virgo — one of the twelve approximately 2,160-year ages that structure the Wheel of Heaven corpus's main sequence. Astronomical (precessional), not astrological.",
+      "translations": {
+        "en": "Age of Virgo",
+        "de": "Zeitalter der Jungfrau",
+        "es": "Era de Virgo",
+        "fr": "Ère de la Vierge",
+        "ja": "乙女座の時代",
+        "ko": "처녀자리 시대",
+        "ru": "Эпоха Девы",
+        "zh": "处女座时代",
+        "zh-Hant": "處女座時代",
+        "he": "עידן הבתולה"
+      }
+    },
+    {
+      "id": "age-of-leo",
+      "category": "timeline",
+      "definition": "The precessional age of Leo — one of the twelve approximately 2,160-year ages that structure the Wheel of Heaven corpus's main sequence. Astronomical (precessional), not astrological.",
+      "translations": {
+        "en": "Age of Leo",
+        "de": "Zeitalter des Löwen",
+        "es": "Era de Leo",
+        "fr": "Ère du Lion",
+        "ja": "獅子座の時代",
+        "ko": "사자자리 시대",
+        "ru": "Эпоха Льва",
+        "zh": "狮子座时代",
+        "zh-Hant": "獅子座時代",
+        "he": "עידן האריה"
+      }
+    },
+    {
+      "id": "age-of-cancer",
+      "category": "timeline",
+      "definition": "The precessional age of Cancer — one of the twelve approximately 2,160-year ages that structure the Wheel of Heaven corpus's main sequence. Astronomical (precessional), not astrological.",
+      "translations": {
+        "en": "Age of Cancer",
+        "de": "Zeitalter des Krebses",
+        "es": "Era de Cáncer",
+        "fr": "Ère du Cancer",
+        "ja": "蟹座の時代",
+        "ko": "게자리 시대",
+        "ru": "Эпоха Рака",
+        "zh": "巨蟹座时代",
+        "zh-Hant": "巨蟹座時代",
+        "he": "עידן הסרטן"
+      }
+    },
+    {
+      "id": "age-of-gemini",
+      "category": "timeline",
+      "definition": "The precessional age of Gemini — one of the twelve approximately 2,160-year ages that structure the Wheel of Heaven corpus's main sequence. Astronomical (precessional), not astrological.",
+      "translations": {
+        "en": "Age of Gemini",
+        "de": "Zeitalter der Zwillinge",
+        "es": "Era de Géminis",
+        "fr": "Ère des Gémeaux",
+        "ja": "双子座の時代",
+        "ko": "쌍둥이자리 시대",
+        "ru": "Эпоха Близнецов",
+        "zh": "双子座时代",
+        "zh-Hant": "雙子座時代",
+        "he": "עידן התאומים"
+      }
+    },
+    {
+      "id": "age-of-taurus",
+      "category": "timeline",
+      "definition": "The precessional age of Taurus — one of the twelve approximately 2,160-year ages that structure the Wheel of Heaven corpus's main sequence. Astronomical (precessional), not astrological.",
+      "translations": {
+        "en": "Age of Taurus",
+        "de": "Zeitalter des Stiers",
+        "es": "Era de Tauro",
+        "fr": "Ère du Taureau",
+        "ja": "牡牛座の時代",
+        "ko": "황소자리 시대",
+        "ru": "Эпоха Тельца",
+        "zh": "金牛座时代",
+        "zh-Hant": "金牛座時代",
+        "he": "עידן השור"
+      }
+    },
+    {
+      "id": "age-of-aries",
+      "category": "timeline",
+      "definition": "The precessional age of Aries — one of the twelve approximately 2,160-year ages that structure the Wheel of Heaven corpus's main sequence. Astronomical (precessional), not astrological.",
+      "translations": {
+        "en": "Age of Aries",
+        "de": "Zeitalter des Widders",
+        "es": "Era de Aries",
+        "fr": "Ère du Bélier",
+        "ja": "牡羊座の時代",
+        "ko": "양자리 시대",
+        "ru": "Эпоха Овна",
+        "zh": "白羊座时代",
+        "zh-Hant": "白羊座時代",
+        "he": "עידן הטלה"
+      }
+    },
+    {
+      "id": "age-of-pisces",
+      "category": "timeline",
+      "definition": "The precessional age of Pisces — one of the twelve approximately 2,160-year ages that structure the Wheel of Heaven corpus's main sequence. Astronomical (precessional), not astrological.",
+      "translations": {
+        "en": "Age of Pisces",
+        "de": "Zeitalter der Fische",
+        "es": "Era de Piscis",
+        "fr": "Ère des Poissons",
+        "ja": "魚座の時代",
+        "ko": "물고기자리 시대",
+        "ru": "Эпоха Рыб",
+        "zh": "双鱼座时代",
+        "zh-Hant": "雙魚座時代",
+        "he": "עידן הדגים"
+      }
+    },
+    {
+      "id": "noah",
+      "category": "bible",
+      "definition": "The patriarch who built the ark in Genesis 6–9 and survived the flood. In the corpus's reading, the historical figure preserved as the genetic-and-cultural seed of the post-flood Eden lineage.",
+      "translations": {
+        "en": "Noah",
+        "de": "Noah",
+        "es": "Noé",
+        "fr": "Noé",
+        "ja": "ノア",
+        "ko": "노아",
+        "ru": "Ной",
+        "zh": "挪亚",
+        "zh-Hant": "諾亞",
+        "he": "נח"
+      },
+      "notes": "he: נח (no niqqud in modern usage; נֹחַ with niqqud in liturgical contexts)."
+    },
+    {
+      "id": "noahs-ark",
+      "category": "bible",
+      "definition": "The vessel built by Noah to survive the flood. In the corpus's reading, a preservation craft prepared in advance of an engineered or anticipated cataclysm.",
+      "translations": {
+        "en": "Noah's Ark",
+        "de": "Arche Noah",
+        "es": "Arca de Noé",
+        "fr": "Arche de Noé",
+        "ja": "ノアの方舟",
+        "ko": "노아의 방주",
+        "ru": "Ноев Ковчег",
+        "zh": "挪亚方舟",
+        "zh-Hant": "諾亞方舟",
+        "he": "תיבת נח"
+      },
+      "notes": "he: תיבת נח."
+    },
+    {
+      "id": "tower-of-babel",
+      "category": "bible",
+      "definition": "The structure described in Genesis 11 whose construction prompted the divine confusion of languages. In the corpus's reading, a post-flood human technological project that the Elohim intervened to disrupt.",
+      "translations": {
+        "en": "Tower of Babel",
+        "de": "Turm zu Babel",
+        "es": "Torre de Babel",
+        "fr": "Tour de Babel",
+        "ja": "バベルの塔",
+        "ko": "바벨탑",
+        "ru": "Вавилонская башня",
+        "zh": "巴别塔",
+        "zh-Hant": "巴別塔",
+        "he": "מגדל בבל"
+      },
+      "notes": "he: מגדל בבל. German uses Luther's 'Turm zu Babel'."
+    },
+    {
+      "id": "sodom-and-gomorrah",
+      "category": "bible",
+      "definition": "The cities destroyed by divine fire in Genesis 19. In the corpus's reading, a targeted Elohim intervention against a specific human population.",
+      "translations": {
+        "en": "Sodom and Gomorrah",
+        "de": "Sodom und Gomorra",
+        "es": "Sodoma y Gomorra",
+        "fr": "Sodome et Gomorrhe",
+        "ja": "ソドムとゴモラ",
+        "ko": "소돔과 고모라",
+        "ru": "Содом и Гоморра",
+        "zh": "所多玛与蛾摩拉",
+        "zh-Hant": "所多瑪與蛾摩拉",
+        "he": "סדום ועמורה"
+      },
+      "notes": "he: סדום ועמורה. zh/zh-Hant use Union Version (和合本) Protestant convention."
+    },
+    {
+      "id": "abraham",
+      "category": "bible",
+      "definition": "The patriarch of Genesis 12–25, founder of the Eden lineage's covenantal phase. In the corpus's reading, the figure with whom the Council establishes the long-arc lineage that becomes the Hebrew people.",
+      "translations": {
+        "en": "Abraham",
+        "de": "Abraham",
+        "es": "Abraham",
+        "fr": "Abraham",
+        "ja": "アブラハム",
+        "ko": "아브라함",
+        "ru": "Авраам",
+        "zh": "亚伯拉罕",
+        "zh-Hant": "亞伯拉罕",
+        "he": "אברהם"
+      },
+      "notes": "he: אברהם. Spanish alt 'Abrahán' is less common in modern usage."
+    },
+    {
+      "id": "moses",
+      "category": "bible",
+      "definition": "The leader of the Exodus and lawgiver of Sinai in the Hebrew Bible. In the corpus's reading, the figure who receives the Sinai theophany — read as a high-bandwidth Elohim contact event.",
+      "translations": {
+        "en": "Moses",
+        "de": "Mose",
+        "es": "Moisés",
+        "fr": "Moïse",
+        "ja": "モーセ",
+        "ko": "모세",
+        "ru": "Моисей",
+        "zh": "摩西",
+        "zh-Hant": "摩西",
+        "he": "משה"
+      },
+      "notes": "he: משה. German prefers 'Mose' (Luther) over the Latin 'Moses'; both occur."
+    },
+    {
+      "id": "exodus",
+      "category": "bible",
+      "definition": "The departure of the Israelites from Egypt under Moses, narrated in the biblical book of the same name. In the corpus's reading, an Elohim-led extraction event with full theophanic apparatus.",
+      "translations": {
+        "en": "Exodus",
+        "de": "Exodus",
+        "es": "Éxodo",
+        "fr": "Exode",
+        "ja": "出エジプト記",
+        "ko": "출애굽기",
+        "ru": "Исход",
+        "zh": "出埃及记",
+        "zh-Hant": "出埃及記",
+        "he": "ספר שמות"
+      },
+      "notes": "he: ספר שמות (book) / יציאת מצרים (the event). The biblical-book form is used here; for the event qua narrative, use the event form contextually."
+    },
+    {
+      "id": "jesus",
+      "category": "bible",
+      "definition": "Jesus of Nazareth, central figure of the New Testament and founder of the Christian tradition. In the corpus's reading, the most consequential of the Piscean-age prophetic figures sent under the post-discovery missionary strategy.",
+      "translations": {
+        "en": "Jesus",
+        "de": "Jesus",
+        "es": "Jesús",
+        "fr": "Jésus",
+        "ja": "イエス",
+        "ko": "예수",
+        "ru": "Иисус",
+        "zh": "耶稣",
+        "zh-Hant": "耶穌",
+        "he": "ישוע"
+      },
+      "notes": "he: ישוע (Yeshua, common scholarly form) or יֵשׁוּעַ with niqqud."
+    },
+    {
+      "id": "golden-age",
+      "category": "comparative",
+      "definition": "The first and best of the five ages in Hesiod's *Works and Days* (Gold, Silver, Bronze, Heroic, Iron). In the corpus's reading, the Hesiodic scheme is a Greek variant of the cross-cultural age-of-the-world framework that the precessional ages also preserve.",
+      "translations": {
+        "en": "Golden Age",
+        "de": "Goldenes Zeitalter",
+        "es": "Edad de Oro",
+        "fr": "Âge d'or",
+        "ja": "黄金時代",
+        "ko": "황금시대",
+        "ru": "Золотой век",
+        "zh": "黄金时代",
+        "zh-Hant": "黃金時代",
+        "he": "תור הזהב"
+      },
+      "notes": "he: תור הזהב. Distinct from the corpus's precessional 'great year' concept (see [[great-year]])."
+    },
+    {
+      "id": "war-in-heaven",
+      "category": "comparative",
+      "definition": "The conflict in the celestial realm described in Revelation 12 and analogous passages across traditions (Vedic devas vs. asuras, Norse Aesir-Vanir war, Mesopotamian Anunnaki conflicts). In the corpus's reading, a faction-conflict within the Elohim governance that is preserved across multiple cultural memories.",
+      "translations": {
+        "en": "War in Heaven",
+        "de": "Krieg im Himmel",
+        "es": "Guerra en el Cielo",
+        "fr": "Guerre au Ciel",
+        "ja": "天上の戦争",
+        "ko": "천상의 전쟁",
+        "ru": "Война на Небесах",
+        "zh": "天界之战",
+        "zh-Hant": "天界之戰",
+        "he": "מלחמה בשמיים"
+      },
+      "notes": "he: מלחמה בשמיים. fr alternative: 'Guerre dans le Ciel'."
+    },
+    {
+      "id": "day-of-creation",
+      "category": "bible",
+      "definition": "A single day of the seven-day creation sequence in Genesis 1. In the corpus's reading, each 'day' is mapped to one precessional age (the 1st day → Capricorn, etc.), making the Genesis 1 narrative a compressed cosmological framework rather than a literal seven-24-hour-day account.",
+      "translations": {
+        "en": "Day of Creation",
+        "de": "Schöpfungstag",
+        "es": "Día de la Creación",
+        "fr": "Jour de la Création",
+        "ja": "創造の日",
+        "ko": "창조의 날",
+        "ru": "День Творения",
+        "zh": "创造之日",
+        "zh-Hant": "創造之日",
+        "he": "יום הבריאה"
+      },
+      "notes": "Ordinals constructed regularly per language (1st Day → 1. Schöpfungstag / 1er jour de la Création / 創造の第1日 / 창조의 첫째 날 / 1-й день Творения / 创造的第一日 / 創造的第一日 / היום הראשון לבריאה). he: יום הבריאה."
     }
   ],
   "categories": {
