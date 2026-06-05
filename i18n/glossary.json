@@ -1,7 +1,7 @@
 {
   "$schema": "./glossary-schema.json",
-  "version": "1.0.0",
-  "updated": "2026-01-24",
+  "version": "1.2.0",
+  "updated": "2026-06-05",
   "description": "Terminology glossary for consistent translations across all languages",
   "terms": [
     {
@@ -180,6 +180,189 @@
         "zh": "天轮",
         "zh-Hant": "天輪"
       }
+    },
+    {
+      "id": "council-of-eternals",
+      "category": "core",
+      "definition": "The governing body of the Elohim on their home planet, led by Yahweh. Makes decisions about the creation, custody, and ongoing relationship with humanity.",
+      "translations": {
+        "en": "Council of Eternals",
+        "de": "Rat der Ewigen",
+        "es": "Consejo de los Eternos",
+        "fr": "Conseil des Éternels",
+        "ja": "永遠者の評議会",
+        "ko": "영원자 평의회",
+        "ru": "Совет Вечных",
+        "zh": "永恒者议会",
+        "zh-Hant": "永恆者議會"
+      }
+    },
+    {
+      "id": "hebrew-bible",
+      "category": "bible",
+      "definition": "The canonical Jewish scriptures, comprising the Torah, Prophets, and Writings. Also known as the Tanakh.",
+      "translations": {
+        "en": "Hebrew Bible",
+        "de": "Hebräische Bibel",
+        "es": "Biblia Hebrea",
+        "fr": "Bible hébraïque",
+        "ja": "ヘブライ語聖書",
+        "ko": "히브리어 성경",
+        "ru": "Еврейская Библия",
+        "zh": "希伯来圣经",
+        "zh-Hant": "希伯來聖經"
+      }
+    },
+    {
+      "id": "comparative-mythology",
+      "category": "method",
+      "definition": "The academic discipline of comparing myths across cultures to identify shared structures, motifs, and possible common origins.",
+      "translations": {
+        "en": "Comparative Mythology",
+        "de": "Vergleichende Mythologie",
+        "es": "Mitología Comparada",
+        "fr": "Mythologie comparée",
+        "ja": "比較神話学",
+        "ko": "비교신화학",
+        "ru": "Сравнительная мифология",
+        "zh": "比较神话学",
+        "zh-Hant": "比較神話學"
+      }
+    },
+    {
+      "id": "synthetic-biology",
+      "category": "science",
+      "definition": "The scientific field that designs and constructs new biological systems, including the de novo synthesis of organisms — the modern analogue of what the Elohim are described as having done on Earth.",
+      "translations": {
+        "en": "Synthetic Biology",
+        "de": "Synthetische Biologie",
+        "es": "Biología Sintética",
+        "fr": "Biologie de synthèse",
+        "ja": "合成生物学",
+        "ko": "합성생물학",
+        "ru": "Синтетическая биология",
+        "zh": "合成生物学",
+        "zh-Hant": "合成生物學"
+      }
+    },
+    {
+      "id": "zodiac",
+      "category": "astronomy",
+      "definition": "The belt of constellations along the ecliptic through which the Sun, Moon, and planets appear to move. The precessional age framework uses the astronomical zodiac, not the astrological sign system.",
+      "translations": {
+        "en": "Zodiac",
+        "de": "Tierkreis",
+        "es": "Zodíaco",
+        "fr": "Zodiaque",
+        "ja": "黄道帯",
+        "ko": "황도대",
+        "ru": "Зодиак",
+        "zh": "黄道带",
+        "zh-Hant": "黃道帶"
+      },
+      "notes": "Astronomical sense (the band of constellations) — distinct from astrological sign-set. In German prefer Tierkreis (astronomical) over Sternzeichen (astrological)."
+    },
+    {
+      "id": "satan",
+      "category": "core",
+      "definition": "In the corpus's reading, the Hebrew *ha-satan* — 'the accuser' or 'the tester' — designates a faction in the divine council that argues against the confident plans of others. The corpus uses the Hebrew sense, not the later Christian-demonological one.",
+      "translations": {
+        "en": "Satan",
+        "de": "Satan",
+        "es": "Satán",
+        "fr": "Satan",
+        "ja": "サタン",
+        "ko": "사탄",
+        "ru": "ха-сатан",
+        "zh": "撒但",
+        "zh-Hant": "撒但"
+      },
+      "notes": "ru uses transliterated Hebrew '*ха-сатан*' (italicised) per 2026-06 project decision — preserves the philological argument the corpus is making about the Hebrew root, vs. conventional 'Сатана' which carries the Christian-demonological sense. zh/zh-Hant use Union Version (和合本) Protestant convention 撒但. he rendering: שָׂטָן (native form, with niqqud)."
+    },
+    {
+      "id": "book-of-the-watchers",
+      "category": "bible",
+      "definition": "The first major section of 1 Enoch (chapters 1–36), recounting the descent of the Watchers — a class of divine beings — to Earth, their hybrid offspring (the Nephilim), and the divine response. A primary apocryphal source for the corpus's reading of pre-flood events.",
+      "translations": {
+        "en": "Book of the Watchers",
+        "de": "Buch der Wächter",
+        "es": "Libro de los Vigilantes",
+        "fr": "Livre des Veilleurs",
+        "ja": "監視者たちの書",
+        "ko": "감시자의 책",
+        "ru": "Книга Стражей",
+        "zh": "守望者之书",
+        "zh-Hant": "守望者之書"
+      },
+      "notes": "The class of beings themselves: 'Watchers' / 'Veilleurs' / 'Стражи' / 'Wächter' etc. — the same translations apply with the 'Book of' prefix dropped. he: ספר הצופים (alternative: ספר העירים)."
+    },
+    {
+      "id": "dreaming",
+      "category": "comparative",
+      "definition": "The Aboriginal Australian conception of the foundational creative period — neither past nor present in linear time but a continuously-active substratum of reality. Surfaces in the corpus as one of the cross-cultural traditions preserving the creation-narrative shape.",
+      "translations": {
+        "en": "Dreaming",
+        "de": "Traumzeit",
+        "es": "Tiempo del Sueño",
+        "fr": "Temps du Rêve",
+        "ja": "ドリーミング",
+        "ko": "드림타임",
+        "ru": "Время сновидений",
+        "zh": "梦境时光",
+        "zh-Hant": "夢時"
+      },
+      "notes": "Often rendered as 'the Dreaming' with definite article. de 'Traumzeit' is the standard German anthropological term. ja uses katakana loanword; alternatives include ドリームタイム. he: הזמן החלום."
+    },
+    {
+      "id": "hubris",
+      "category": "comparative",
+      "definition": "The Greek philosophical-tragic term for overweening pride that invites divine correction. The corpus uses it as a moral category recurring across traditions — most explicitly in the Crichton/Malcolm warning in the Preamble, and structurally in the Babel and Eden narratives.",
+      "translations": {
+        "en": "hubris",
+        "de": "Hybris",
+        "es": "hibris",
+        "fr": "hubris",
+        "ja": "ヒュブリス",
+        "ko": "휴브리스",
+        "ru": "хюбрис",
+        "zh": "傲慢",
+        "zh-Hant": "傲慢"
+      },
+      "notes": "Often italicised in body prose as a Greek loanword. fr keeps the Greek form 'hubris' (italicised) per French scholarly convention. de 'Hybris' is the naturalised German form (capitalised as all German nouns). zh/zh-Hant 傲慢 conveys the moral sense but loses the Greek-tragic connotation; consider keeping 'hubris' transliterated in Latin script alongside on first mention. ru 'хюбрис' is one of several competing transliterations (also: гюбрис); verify with native-speaker reviewer on first canonical use. he: הוּבְּריס (transliterated Greek with niqqud)."
+    },
+    {
+      "id": "hamlets-mill",
+      "category": "source",
+      "definition": "Giorgio de Santillana and Hertha von Dechend's 1969 study reconstructing precessional cosmology as a cross-cultural framework preserved in world mythology. One of the corpus's two interpretive backbones (the Raëlian source material being the other).",
+      "translations": {
+        "en": "Hamlet's Mill",
+        "de": "Hamlets Mühle",
+        "es": "El molino de Hamlet",
+        "fr": "Le Moulin d'Hamlet",
+        "ja": "ハムレットの臼",
+        "ko": "햄릿의 맷돌",
+        "ru": "Мельница Гамлета",
+        "zh": "哈姆雷特的磨坊",
+        "zh-Hant": "哈姆雷特之磨"
+      },
+      "notes": "Book title — preserve in italics as a work title. zh-Hant variant '哈姆雷特之磨' is closer to literary Chinese register; '哈姆雷特的磨坊' is also acceptable. ja '臼' (mortar/mill) emphasises the cosmological grinding-stone metaphor. he: standard practice keeps the English title with a Hebrew transliteration in parens (טחנת המלט)."
+    },
+    {
+      "id": "hesiod",
+      "category": "comparative",
+      "definition": "Ancient Greek poet (c. 700 BCE) whose *Theogony* and *Works and Days* preserve the five-ages scheme (Gold, Silver, Bronze, Heroic, Iron) that the corpus reads as a Greek variant of the cross-cultural age-of-the-world framework.",
+      "translations": {
+        "en": "Hesiod",
+        "de": "Hesiod",
+        "es": "Hesíodo",
+        "fr": "Hésiode",
+        "ja": "ヘシオドス",
+        "ko": "헤시오도스",
+        "ru": "Гесиод",
+        "zh": "赫西俄德",
+        "zh-Hant": "赫西俄德"
+      },
+      "notes": "Standard scholarly transliterations across languages. Adjectival form ('Hesiodic') derives regularly in each language (de: hesiodisch; fr: hésiodique; ja: ヘシオドスの; etc.). he: הסיודוס."
     }
   ],
   "categories": {
