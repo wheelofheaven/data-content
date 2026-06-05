@@ -1,99 +1,242 @@
+
 +++
-template = "timeline-page.html"
 title = "射手座の時代"
-period = "紀元前 19'650 年—紀元前 17'490 年"
-age = "sagittarius"
-description = "射手座の時代は、紀元前19,650年から紀元前17,490年にかけての期間で、山羊座の時代に続く第二の世界時代として描かれています。既に地球が生命を維持する可能性を確認している進んだ宇宙文明が、地球改造活動に着手することから始まります。この時期は、創世記の「創造の第二日」と寓話的に結びつけられており、「天と地の水の分離」は、地球の海洋層と大気層の間の科学的調査と解釈されています。これらの活動の集大成は、海底から大陸を制御爆発によって創造することであり、地球に恒久的な存在を確立するための重要なステップです。"
-image = "barren-lands-outpost.png"
-weight = 210
+description = "大年の第二の時代。エロヒムが大気中の水と海洋とを分け、空を晴らし、海底から最初の大陸を持ち上げた時代である。"
+template = "timeline-page.html"
+toc = true
+
+[extra]
+symbol = "♐"
+color = "blue"
+start_year = "-19650"
+end_year = "-17490"
+genesis_day = 2
+genesis_verse = "そして神は言われた、水の真中に大空があり、水と水とを分けるようにせよと。神は大空を造って、大空の下の水と大空の上の水とを分けられた。そのようになった。"
+genesis_interpretation = "射手座の時代は第二のヨーム（יוֹם）です。科学者たちは海面上の大気中の水分を切り離し、空を可視光に対して透明にし、海底から乾いた陸地を引き上げました。これは宇宙論全体のなかで最大規模の工学的作業です。"
+
+
+footnotes = [
+    { content = "§II–IIIの大気に関する作業（創世記第二日）と、原典が第三日に圧縮している大陸隆起との接合部は、時代別の枠組みが聖書の日数区分の厳格な分割をやわらげている数か所の一つです。同様のパターンは「蠍座」（植物に関する作業が「天秤座」の天文学的形式化に流れ込む）にも現れ、それ以降のすべての時代にも繰り返されます。" },
+    { content = "§Vで示唆される若き太陽のパラドックスと、激変説対斉一説の論争は、「双子座」で改めて取り上げられます。そこでは大洪水の出来事が、本書における断続的・激変的地質学の主要な事例研究となります。" },
+    { content = "現代のテラフォーミング提案――火星を標的とすること、惑星規模での大気工学――は、§Vが論じる射手座のプロジェクトが実際に行ったこととはまさに逆向きの作業です。すなわち、すでに存在する集団のために目的地を適応させるのではなく、まだ存在しない集団のために目的地を適応させるのです。『車輪は回り続ける』ではこの区別に立ち戻ります。" },
+]
+
+references = [
+    { title = "Le Livre qui dit la vérité", author = "クロード・ヴォリロン（ラエル）", date = "1974", medium = "religious-text", path = "/library/lets-welcome-the-extraterrestrials/" },
+    { title = "Les Extra-Terrestres m'ont emmené sur leur planète", author = "クロード・ヴォリロン（ラエル）", date = "1975", medium = "religious-text", path = "/library/extraterrestrials-took-me-to-their-planet/" },
+    { title = "創世記", author = "作者不詳（ヘブライ語聖書）；母音記号付きマソラ本文からのWoH訳", date = "紀元前6–5世紀頃", medium = "religious-text", path = "/library/genesis-woh/" },
+    { title = "Theory of the Earth", author = "ジェームズ・ハットン", date = "1788", medium = "academic-paper", description = "斉一説の創始的言明――現在の地質学的過程が過去への鍵であるとする教説。" },
+    { title = "Principles of Geology", author = "チャールズ・ライエル", date = "1830–1833", medium = "nonfiction-book", description = "斉一説に古典的な形を与え、近代地質学とダーウィンの進化論的総合の双方を形成した全三巻の著作。" },
+    { title = "On the Origin of Species", author = "チャールズ・ダーウィン", date = "1859", medium = "nonfiction-book", description = "ライエルの斉一説を進化生物学の基礎的前提として明示的に借用した点で、ここに引用される。" },
+    { title = "Earth and Mars: Evolution of Atmospheres and Surface Temperatures", author = "カール・セーガンとジョージ・マレン", publication = "Science 177 (4043), 52–56", date = "1972", medium = "academic-paper", url = "https://www.science.org/doi/10.1126/science.177.4043.52", description = "若き太陽のパラドックスを初めて指摘した論文。" },
+    { title = "The Planet Venus", author = "カール・セーガン", publication = "Science 133 (3456), 849–858", date = "1961", medium = "academic-paper", url = "https://www.science.org/doi/10.1126/science.133.3456.849", description = "シアノバクテリアによる金星のテラフォーミングに関するセーガンの初期提案――現代のテラフォーミング文献の種となる論文。" },
+    { title = "The Case for Mars: The Plan to Settle the Red Planet and Why We Must", author = "ロバート・ズブリン（リチャード・ワグナー共著）", date = "1996", medium = "nonfiction-book", description = "§Vで言及されるテラフォーミング論を含む、火星植民をめぐる現代でもっとも影響力のある提言。" },
+    { title = "Making Mars Habitable", author = "クリストファー・P・マッケイ、オーウェン・B・トゥーン、ジェームズ・F・カスティング", publication = "Nature 352, 489–496", date = "1991", medium = "academic-paper", url = "https://www.nature.com/articles/352489a0", description = "温室効果ガスによる加温と大気の高密化を通じた火星テラフォーミングの基礎的な技術提案。" },
+    { title = "ハビタブルワールズ天文台", author = "NASA天体物理学部門", date = "2024（構想）", medium = "website", url = "https://habitableworldsobservatory.org/" },
+]
+
+[[extra.prev_age]]
+name = "山羊座の時代"
+symbol = "♑"
+link = "/timeline/age-of-capricorn/"
+
+[[extra.next_age]]
+name = "蠍座の時代"
+symbol = "♏"
+link = "/timeline/age-of-scorpio/"
+
+[[extra.related_ages]]
+name = "天秤座の時代"
+symbol = "♎"
+link = "/timeline/age-of-libra/"
+relation = "時間計測と天文観測に焦点が当てられた次の時代"
+
+[[extra.related_ages]]
+name = "みずがめ座の時代"
+symbol = "♒"
+link = "/timeline/age-of-aquarius/"
+relation = "大気への理解が宇宙的工学を把握する助けとなる現在の時代"
 +++
 
-The Age of Sagittarius lasts from –19'650 to –17'490 and follows the Age of Capricorn which lasted up to –19'650.
 
-In the last chapter, The Age of Capricorn, we learned that a group of scientifically inclined spacefaring pioneers managed to find an exoplanet that provided all elements necessary to produce artifical life, including water. The planet they've found was covered in water and mist, and didn't harbour any life at the moment of its discovery. They went on to build a network of artifical satellites to study the planet. They themselves were orbiting the planet in a what we would call a space station while studying and evaluating the data they were gathering while doing so. Eventually, the data started to become clear in answering the question whether or not the planet would be able to support life and they decided to go on with their work.
+## I. 時代そのものについて
 
-All of that happened during the Age of Capricorn which lasted from –21'810 to –19'650, one of the twelve precessional [World Ages](../../wiki/world-age/). Another appellation of that period of time, that is known through the Biblical scriptures, is the First Day of Creation. The discovery and subsequent studies of that new exoplanetary world is indeed to be equated with what is being described in the first book of Genesis: _"And Elohim saw the light, that it was good."_
+最初の作業は、調査が終わるところから始まります。
 
-As the planet Earth was deemed _good_, meaning it not only had all the elements necessary to bear new life, but was also favorable in a series of other, equally important aspects, the second phase begun. The Second Day of Creation is the sum of all events that happened subsequently during the Age of Sagittarius.
+射手座の時代は紀元前19,650年から紀元前17,490年まで、2,160年にわたって続き、山羊座の時代の直後に位置します。これは科学者たちが、それまで研究してきた世界に対して初めて行動を起こした時代――二千年にわたる測定と分析ののちに、惑星の物理的改変を開始するという決定がついに下され、最初の介入が実施された時代です。ここで始まる作業は大気的かつ海洋学的なものであり、その後のすべての営みのために、文字通りの意味での足場を準備することになります。この時代に大陸が立ち上がります。空が海から分かたれます。山羊座の不透明で霧に包まれた世界が、ゆっくりと、段階を踏みながら、地表から太陽が見え、地表での作業が可能となる世界へと変わっていきます。生物学的な作業はまだ何も始まっていません。しかし生物学的な作業が行われる舞台は、この時代の終わりまでに存在することになります。
 
-{{ figure(src="timeline/equinox_bc19650", caption="Fig. 1 - Vernal equinox in 19'650 BC") }}
+この時代を創世記の第六節と第七節――大空の創造、上の水と下の水との分離――に対応づける慣習的な読みは、ここで起きていることの一部を捉えてはいますが、全体を捉えてはいません。この時代がもし厳密に創世記の物語の第二のיוֹם（*ヨーム*）に対応するとすれば、大気的な作業のみがこの時代に属することになり、{% libref(book="genesis-woh", chapter=1, verse=9) %}創世記1章9〜10節{% end %}に続く大陸隆起は別のところに置かれねばなりません。本書はこれとは異なる見方をとり、大陸隆起もまた射手座のうちに位置づけます。それは、その作業が大気の分離と連続しており、時代の境界をまたいできれいに切り分けることができないからです。この読みからすると、創世記の本文は、実際には射手座の最後の数世紀と蠍座の最初の数世紀にまたがった地質学的作業を、一つの節に圧縮して伝えていることになります。{{ footnote(id="1") }} これは妥当な読みであり、本章が採用するのもこの読みです。ただし、聖書の日数の数え方と天文学的な時代の数え方が完全には一致しない接合部については、はっきり明示しておきます。山羊座の章ですでに論じたように、時代は運用上の境界ではなく報告上の境界を示すものです。
 
-## Water world
+冒頭で述べておくべきは、射手座で起こることの規模が控えめなものではない、ということです。完全に水で覆われ大気の霧に包まれた世界から、乾いた大陸と開けた空、そして生物学的に準備可能な地表をもつ世界へという惑星の変容――これはラエリアン宇宙論の全体において記述される最大の工学的作業です。後の時代に続く生物学上の偉業は驚嘆すべきものですが、それに先立つ惑星工学の偉業は、純然たる物質的規模において、最も大胆なものなのです。海一つ分の水蒸気を、その下にある海から分離しなければなりません。厚い大気層を薄くし、その組成を調整し、光学的透明度を高めなければなりません。惑星の海底を持ち上げなければなりません。それも、山を一か所で持ち上げるような形ではなく、大陸規模の距離にわたって、後にその上に築かれることになるものを支えうる安定した陸塊を生み出す形で持ち上げなければなりません。原典が伝える説明によれば、こうしたことすべてが、それを解決可能な問題として扱う文明によって成し遂げられたのです――奇跡としてではなく、方法の及ばぬ仕事としてでもなく、しかるべき道具が存在し、しかるべき時間が用意された問題として。
 
-In the first book out of the three foundational works of Raëlism, [The Book Which Tells The Truth](../../library/the-book-which-tells-the-truth/)<sup>📖</sup>, Yahweh continues the exegetical interpretation of the Biblical verses.
+本章の題は射手座の作業を「世界の息吹」と名づけており、これは飾りではありません。ヘブライ語で息を意味するרוּחַ（*ルーアハ*）は語根רוח（*r-w-ch*）に由来し、その意味の射程には *風*、*霊*、*息吹* が翻訳不能の一つの集合として収まっています。この語は創世記の第二節に現れます。山羊座の章ですでに述べたように、そこでは *ルーアハ {% wiki(slug="elohim") %}エロヒム{% end %}* が水のおもてを動いている――調査段階の軌道偵察です。同じ語は{% libref(book="genesis-woh", chapter=2, verse=7) %}創世記2章7節{% end %}にも戻り、そこで {% wiki(slug="yahweh") %}ヤハウェ{% end %} は最初の人間にנִשְׁמַת חַיִּים（*ニシュマト・ハイーム*）すなわち命の息を吹き込みます。最初の調査の *ルーアハ* と最初の人間の *ニシュマト・ハイーム* との間に――息ができる世界を作り上げる長い作業が横たわっています。射手座は、その作り上げが始まる場所なのです。
 
->> And Elohim made the firmament, and divided the waters which were under the firmament from the waters which were above the firmament.
->> Genesis 1: 7.
->
-> After studying the cosmic rays above the clouds the scientists descended below the clouds but stayed above the waters. That means they were between the clouds, “the waters which were above the firmament”, and the ocean covering the whole planet, “the waters which were under the firmament”.
+## II. 大空
 
-According to Yahweh's explanation, this excerpt describes how the scientifical pioneers went on to study cosmic rays above the clouds, and then went below the clouds but remained above the ocean. This literally means they were between the "waters above the firmament" (the clouds) and the "waters below the firmament" (the ocean).
+創世記の第六節にはこうあります。
 
-{{ figure(src="wiki/blue-planet-mist", caption="Ill. 1 - Research vessel in cloud formations") }}
+{{ scripture(book="genesis-woh", chapter=1, verse=6, translit="Vayomer Elohim yehi raqia betokh ha-mayim, vihi mavdil bein mayim la-mayim.") }}
 
-## Terraforming Earth
+第七節はこう続きます。
 
-Yahweh then goes on to explain how the first continent was built out of the shallow ocean bed.
+{{ scripture(book="genesis-woh", chapter=1, verse=7, translit="Vaya'as Elohim et-ha-raqia vayavdel bein ha-mayim asher mitachat la-raqia u-vein ha-mayim asher me'al la-raqia, vayehi-khen.") }}
 
->> Let the waters under the heaven be gathered together unto one place, and let the dry land appear.
->> Genesis 1: 9.
->
-> After they studied the surface of the ocean they studied the sea bed and determined that it was not very deep and fairly even everywhere. So then, by means of fairly strong explosions, which acted rather like bulldozers, they raised matter from the bottom of the seas and piled it up into one place to form a continent.
+そして第八節が第二日を締めくくります。
 
-The quoted text is a reference to the verse from Genesis 1:9, in which the Elohim create dry land by gathering the waters under heaven to one place. This describes quite literally how the scientists studied the sea bed and used explosions to raise matter from the bottom of the seas, piling it up to form a continent.
+{{ scripture(book="genesis-woh", chapter=1, verse=8, translit="Vayikra Elohim la-raqia shamayim, vayehi-erev vayehi-voker yom sheni.") }}
 
-The process described, using explosions to raise matter from the ocean floor and create a landmass, is a form of artificial terraforming[^1]. This is because it involves intentionally modifying the natural environment to create a new land area where there was none before. The process is similar to land reclamation[^2], where land is created by filling in a body of water, but in this case, the material is obtained by using explosions to bring up material from the ocean floor.
+語רָקִיעַ（*ラキーア*）は、語根רקע（*r-q-*ʿ）に由来する、特異で重要な単語です。この語根の第一義は *打ち延ばす*、*薄く打つ*、*平らに広げる*――金属職人が金属の板を繰り返し打って薄く伸ばすときのような――です。関連する名詞רִקּוּעַ（*リクーア*）は打ち延ばした金属細工を指し、{% libref(book="numbers", chapter=16, verse=38) %}民数記16章38節{% end %}ではこの語根が、青銅の香炉を打ちのばして祭壇を覆う板にする作業を表しています。本文に保存されたヘブライ的な観念においては、大空は空虚な空間ではありません。それは、薄く広げられた何かの層、二つの水の体を互いに分けへだてる層なのです。慣習的な読みでは *ラキーア* を固い円蓋――その上に天上の水が抑えとどめられ、その下に地上の水が流れる、古代の宇宙論的な天蓋――と解釈してきました。原典資料が保存している技術的な読みでは、これをより単純に扱います。すなわち *ラキーア* とは、上方の雲層と下方の海面との間にある大気帯のことです。「上の水」――הַמַּיִם אֲשֶׁר מֵעַל לָרָקִיעַ（*ハ・マイム・アシェル・メアル・ラ・ラキーア*）――は大気中の水分、すなわち山羊座の時代の惑星を特徴づけていた濃い雲量と懸濁した霧のことです。「下の水」――הַמַּיִם אֲשֶׁר מִתַּחַת לָרָקִיעַ（*ハ・マイム・アシェル・ミタハト・ラ・ラキーア*）――は海そのものです。そして *ラキーア* とは、分離の作業がなされたのちに、その両者の間に存在するようになった、晴れわたった大気の層なのです。
 
-The key word here is terraforming. The concept of terraforming is rather a novel notion and emerged as part of the space race in the 20th century, as scientists and engineers began to explore the idea of colonizing other planets and moons in our solar system. While the idea of terraforming remains largely theoretical, it continues to capture the imagination of scientists, writers, and the public alike as a potential way to explore and colonize other worlds. In very broad terms, terraforming refers to the theoretical process of transforming a planet, moon, or other celestial body to make it habitable for humans and other Earth-based life forms. This process typically involves a combination of technologies and processes designed to change the climate, atmosphere, and other environmental conditions of a celestial body in order to make it more like Earth. Terraformation of neighbouring planets such as Mars[^3] or Venus[^4] has been envisioned by planetary scientists such as Carl Sagan since the 1960s and has been revisited very recently with the SpaceX Mars program[^5].
+ヘブライ語の細部のうち、ここでもう一つ触れておく価値のあるものがあります。それは本章を通じて、そして本書全体を通じて繰り返し現れるからです。聖書ヘブライ語における *水* と *天* に当たる語は、文法的に単数や複数ではなく、いずれも双数形をとります。מַיִם（*マイム*、水）は双数語尾־ַיִם（*-ayim*）で終わります――これはיָדַיִם（*ヤダイム*、「両手」）やעֵינַיִם（*エイナイム*、「両眼」）といった対になる身体部位を表す語を生み出すのと同じ語尾です。同様にשָׁמַיִם（*シャマイム*、天）も双数形をとります。ヘブライ語は文法のレベルにおいて、水と天とを本質的に対をなすもの――二つの水の体、二つの空の層――として捉える観念を符号化しており、これを未分化の物質名詞に均してしまう慣習的な英訳ではその構造が隠されてしまうのです。創世記の本文と、ヘブライ語の文法それ自体は、水が対をなしてあり、大空はその対をなす二者を分ける仕切りであるような世界を描き出しています。第八節が、エロヒムが *ラキーア* をשָׁמַיִם（*シャマイム*）と呼んだと伝えるとき、その命名は恣意的なものではありません。それは、初めから対をなして分かたれるべく定められていた二つの層の一方として、この晴れわたった層を名づけているのです。
 
-Isn't that exactly what supposedly happened initially here on Earth? In this specific instance, the kind of terraforming applied by the Elohimian scientists would involve intentionally modifying the physical environment of a celestial body (in this case, the Earth's ocean floor) in order to create a new land mass that could potentially support life. The process would likely involve a combination of scientific and engineering techniques, including mapping the ocean floor, analyzing geological data to identify the most suitable areas for land formation, and designing and executing controlled explosions to raise material from the ocean floor. If we imagine how this might have happened, it's within the thinkable that a large number of controlled and coordinated explosions would be necessary to raise enough material from the ocean floor to create a continent. One possibility might have been to use strategically placed explosive charges to fracture the ocean floor in a controlled manner, allowing material to be dislodged and raised to the surface.
+作業そのものについて原典は詳しく語らず、その作者にとっては何が行われたかを知る者には自明であるかのように、これらの節を簡潔に進んでいきます。おおよその概略は推察できます。原典の記述によれば、射手座以前の地球の大気は、その状態のままでは呼吸不可能であり、かつ光学的に密でした。科学者たちは、当初は軌道上の機体と大気内の機体から作業を行いつつ、これらの成分を分離する作業に取り組みました。上層大気から懸濁する水蒸気の一部を凝結させて海へと沈降させ、残った大気層を薄くして可視光の波長に対して透明になるようにしたのです。この過程は、原典の説明によれば、科学者たちが惑星の気候系と最初に交わした相互作用であり、とりわけ大気が工学的に扱いうるものであるということを確立しました。これが分かったのち、続く作業も考えうるものとなったのです。
 
-Such a process would have significant impacts on the topological constitution of the planet and would require careful consideration and planning to minimize undesired long-term or latent side effects. Also, the feasibility of such a process would depend on a number of factors, including the depth and composition of the ocean floor, the availability of suitable materials for land formation, and the technical and logistical challenges of executing such a large-scale project. This must have really been a project of gigantic proportions.
+{{ figure(src="timeline/age-of-sagittarius-firmament", alt="広い青い海洋の世界。海上の霧と高層の雲との間に、晴れた大気の帯が分け入っている。", caption="図 1 - 大空：上の水と下の水との間に開かれた晴れた帯。") }}
 
-{{ figure(src="wiki/terraforming-explosions", caption="Ill. 2 - Earth-shaping through controlled explosions") }}
+ここで、動かされている対象の大きさについて少し立ち止まって考えてみる価値があります。地球の大気は、現在の形では、ほぼ五千兆トンに相当する質量をもっています――人間の工学的尺度では意味をなさないほど大きい量ですが、それでも有限で、限られており、知られた量です。射手座以前の、懸濁した水蒸気を多く含む大気は、かなり重かったはずであり、水蒸気成分だけでも、合理的に見積もって数百兆トンの規模になったでしょう。科学者たちはそのすべてを取り除く必要はありませんでした。しかし再分配は必要でした――上層部分を凝結させ、残ったものの光学的密度を薄め、さらにそれを惑星規模で行ったときの熱的帰結を管理することです。地球上での大気の熱輸送は、日単位から月単位の時間尺度で働きます。ある場所での大気組成の改変は、一季か二季のうちに全球循環を通じて伝播し、その二次的な影響――雲形成パターンの変化、降水の変化、極と熱帯との熱交換の調整――は数年から数十年にわたって展開していきます。惑星規模で大気介入を計画する文明は、着手以前にこのすべてを考慮に入れねばならないでしょう。循環をモデル化し、応答を予測し、暴走する結果ではなく安定した結果を生むよう介入を設計し、そして数世紀にわたって継続的にその影響を監視し、不可逆になる前に逸脱を捉えねばなりません。
 
-[^1]: Land reclamation is the process of creating new land from the sea. The simplest method of land reclamation involves simply filling the area with large amounts of heavy rock and/or cement, then filling with clay and soil until the desired height is reached. See here for more: [Land reclamation | Wikipedia](https://en.wikipedia.org/wiki/Land_reclamation)
-[^2]: Terraforming or terraformation, literally meaning "Earth-shaping", is the process of altering the topography or geology of another planet or moon. It usually also includes the modification of atmosphere or temperature to make an initially inhospitable planet habitable. See here for more: [Terraforming | Wikipedia](https://en.wikipedia.org/wiki/Terraforming)
-[^3]: Terraforming Mars refers to the theoretical process of transforming the Martian environment to make it more hospitable and habitable for human life. The goal of terraforming Mars is to create an environment that is similar enough to Earth that humans could live there without the need for protective equipment or artificial habitats. See here for more: [Terraforming of Mars | Wikipedia](https://en.wikipedia.org/wiki/Terraforming_of_Mars)
-[^4]: Terraforming Venus refers to the theoretical process of transforming the Venusian environment to make it more hospitable and habitable for human life. Venus is often considered an extreme and challenging target for terraforming, as its surface temperature is hot enough to melt lead, and its atmosphere is incredibly thick and acidic. See here for more: [Terraforming of Venus | Wikipedia](https://en.wikipedia.org/wiki/Terraforming_of_Venus)
-[^5]: The SpaceX Mars program is a long-term plan by SpaceX, a private space exploration company founded by entrepreneur Elon Musk, to develop and launch missions to Mars with the goal of establishing a human settlement on the planet. The company's ultimate goal is to enable the colonization of Mars and make humanity a multi-planetary species. See here for more: [SpaceX Mars program | Wikipedia](https://en.wikipedia.org/wiki/SpaceX_Mars_program)
+科学者たちは、どのような者たちであったにせよ、自分たちが到着した大気の大きさを把握していました。山羊座の調査段階でそれを測定していたのです。射手座の最初の数世紀のうちに、彼らはその測定を精緻化し、必要なモデルを構築する時間をもちました。大気分離の作業は、それが始まったときには実験ではありませんでした。すでにかなり詳細に練り上げられ、彼らがもちうるあらゆるモデリング手段を用いて検証され、必要となれば修正が可能なように十分な世紀数にわたって段階的に実行された計画の遂行だったのです。同じ作業の流儀――忍耐強く、計器を備え、長期的な――は、続くすべての作業を特徴づけることになります。射手座がその流儀を確立するのです。
 
-## Pangaea
+この作業の終わりは、原典の説明では、海面に直接の日光が戻ってきたことによって認識されました。科学者たちが到着して以来初めて、雲の下から地元の恒星が見えるようになったのです。惑星は最初の本物の昼を迎えました――拡散した、ろ過された光ではなく、日の光による昼です。そして、地質学的記録に痕跡を残すことになるエロヒムの作業の最初のものが、完了したのでした。
 
-This single massive supercontinent that got raised from the bottoms of the oceans does sound a lot like the contemporary idea of a supercontinent that supposedly must have existed according to geological insights. This hypothetised supercontient is known as Pangaea[^6]. It is thought to have existed during the Paleozoic and Mesozoic eras, from about 335 to 175 million years ago. It is also thought to have been the most recent of several supercontinents that have formed and broken apart over the course of Earth's history.[^7]
+## III. 大陸の隆起
 
-Pangaea was a single, massive landmass that included all of the Earth's major continents at the time, including North America, South America, Africa, Europe, and Asia. The formation of Pangaea is believed to have been driven by the movement of tectonic plates, which gradually brought the continents together over millions of years.
+ひとたび空が開かれると、海に対する作業が可能になります。
 
-If we assume that a single massive supercontinent were to be raised from the shallow oceans in a scenario like the one described in the passage above, it could very well potentially resemble Pangaea in terms of its size and shape. If we assume that a massive terraforming effort wheere land mass was formed out of the bottom of the oceans could potentially have unintended consequences that lead to the emergence of plate tectonics, it's difficult to say exactly what those consequences might be. The mechanisms that drive plate tectonics are complex and not fully understood, so it's hard to predict how they might be affected by large-scale modifications to the Earth's surface.
+大陸の隆起についての原典の記述は、例によって一つの文に圧縮されており、その文はラエリアン解釈学のなかでもとくに奇妙なものの一つです。「ブルドーザーのように働く、かなり強力な爆発によって、彼らは海底から物質を持ち上げ、それを一か所に積み重ねて大陸を形作った。」 この描き方は、見かけよりはるかに重い意味を担っています。ここで述べられているのは、宇宙論全体のなかで最大規模の地質学的工学的行為――以前はほとんど全面的に海底でしかなかった世界に、事実上ゼロから、居住可能な大陸表面を建設するという行為――です。
 
-That said, it's possible that the creation of a large landmass from the ocean floor could potentially alter the balance of forces within the Earth's crust and mantle, leading to increased geological activity and the emergence of plate tectonics. This could result in the formation of new land masses, volcanic activity, and other geologic processes that could reshape the Earth's surface over time. It's very interesting to ponder the consequences of these terraforming activities.
+ここで述べられている方法は、二つの原理を組み合わせています。第一は変位です。海底物質を海の下から持ち上げ、一つの大きな塊に積み上げます。第二は集約です。持ち上げられた物質を「一か所に」積み、分散した群島ではなく、一つの超大陸を形作ります。創世記のヘブライ語本文もこの細部に同意しています。
 
-{{ figure(src="wiki/barren-lands-outpost", caption="Ill. 3 - Research installation on barren dry soil") }}
+{{ scripture(book="genesis-woh", chapter=1, verse=9, translit="Vayomer Elohim yikavu ha-mayim mitachat ha-shamayim el-makom ehad, ve-tera'eh ha-yabashah, vayehi-khen.") }}
 
-[^6]: Pangaea, derived from Ancient Greek pan (πᾶν, "all, entire, whole") and Gaia or Gaea (Γαῖα, "Mother Earth, land"), was a giant landmass that supposedly existed on Earth over 300 million years ago, during the Paleozoic and Mesozoic eras. See here more fore: [Pangaea | Wikipedia](https://en.wikipedia.org/wiki/Pangaea)
+第十節はこう続きます。
 
-[^7]: The existence of the supercontinent Pangaea is based on evidence from geology, including the distribution of fossils, rocks, and mountain ranges on different continents. The theory of plate tectonics explains how the movement of the Earth's plates caused Pangaea to break apart and its continents to drift apart. The estimated age of this remote supercontinent Pangaea is a product of assuming the so-called Uniformitarianism because the theory of plate tectonics and the concept of Pangaea are fundamental to the Uniformitarian Doctrine. This doctrine assumes that the processes and natural laws that operate in the present have operated in the same way throughout the history of the Earth. See here for more: [Uniformitarian Principle | Wikipedia](https://en.wikipedia.org/wiki/Uniformitarianism)
+{{ scripture(book="genesis-woh", chapter=1, verse=10, translit="Vayikra Elohim la-yabashah eretz, u-le-mikveh ha-mayim kara yammim, vayar Elohim ki tov.") }}
 
-## Second day of creation
+מָקוֹם אֶחָד（*マコム・エハド*）――一か所。聖書はその原語ヘブライ語において、最初の大陸が複数ではなく単一であったという細部を保存しています。語יַבָּשָׁה（*ヤバシャ*）はיבש（*y-b-sh*、*乾く*）という語根から派生しており、それ自体が示唆的です。すなわち、たんに陸地が現れたということだけでなく、その陸地が *乾いている* という性質――周囲の水が引いて露わにされた陸地、新たに定められた盆地へと水が集められたことで露出した陸地――を強調しているのです。乾いた陸地は、海洋の変位の補集合であり、別個の創造ではありません。現代地質学が{% wiki(slug="pangaea") %}パンゲア{% end %}と呼ぶもの――あるいはより最近の再構成では、その前にパノティアとロディニア――は、地球の大陸地殻が、その深い歴史のさまざまな時点で存在していたと考えられている形態です。主流の読みでは、これらの超大陸ははるか過去に位置づけられます。パンゲアはおよそ3億3500万年前に集合し、ロディニアはおよそ11億年前、パノティアはその間のいずれかの時点とされます。本書の読みは、第Vセクションで展開されるように、この作業を時間軸のうえでまったく異なる場所に位置づけます。両方の読みが一致しているのは構造の点です。すなわち、一つの統合された大陸塊が、一つの海に取り囲まれていたということ。聖書と主流の地質学文献は、いつそれが起こったかについての見解は異なれど、この構造的な点では収束します。
 
-As mentioned at the beginning of this chapter, The Age of Sagittarius corresponds to the Biblical Second Day of Creation. The amount of time it took for the extraterrestrial scientists to keep on researching the Earth's oceanic and topographic features and to proceed with the terraformation of dry surface area by amassing matter into one spot thus shaping a new supercontinent took a while. That period of time is referred to as a day in the book of Genesis. This day however, as explained in the previous chapter, is not to be substituted with a day and night cycle of 24 hours, but a celestial day that refers to the passage of time during one precession-induced World Age.
+「かなり強力な爆発」は、現代の読者がもっとも驚きを覚えやすい記述であり、そのうえそれが何気なく差し出されている点でとくにそうです。ここで意味されているのは、20世紀の鉱業で用いられる化学爆薬でも、その後の数十年の核兵器でもなく、惑星規模の岩石と堆積物を変位させるだけの力をもつ、何らかの形の指向的なエネルギー解放です。原典はその技術を特定しておらず、本書もそれを推測することはしません。本書ができること、そして以下のセクションが行うことは、最初の爆発が仕掛けられる前に科学者たちは何を考慮に入れねばならなかったか――そして、大気工学から大陸変位、生物圏準備まで、問題の全体的な形を、別々の課題の連続ではなく一つの首尾一貫した作業として捉えたとき、それがいかなる形をとっていたのかを考えることです。
 
-While the transition from one task to the other task may be seen as continuous, what matters is to be able to locate a given event, such as the terraformation of a supercontinent, in a frame of time that accounts for long periods of time. The Sagittarian World Age during which the events happened as stated earlier lasted therefore, as any other World Age for that matter, 2'160 years.
+{{ figure(src="timeline/age-of-sagittarius-continent-raising", alt="暗い海から立ち上がる新しい陸塊。青灰色の空の下、遠方には制御されたエネルギーの輝きが見える。", caption="図 2 - 大陸の隆起：全球海洋から立ち上がる最初の乾いた陸地。") }}
 
-The Second Day of Creation is described in the Book of Genesis, specifically in Genesis 1:6-8. On this day, the Elohim are said to have created the firmament, or the expanse, to separate the waters below from the waters above.
+## IV. 何が見積もられねばならなかったか
 
-> <sup>6</sup> Then God said, “Let there be an expanse in the midst of the waters, and let it separate the waters from the waters.” <sup>7</sup> God made the expanse, and separated the waters that were below the expanse from the waters that were above the expanse; and it was so. <sup>8</sup> God called the expanse “heaven.” And there was evening and there was morning, a second day. (NASB 2020 [🔗](https://www.bible.com/bible/2692/GEN.1.NASB2020))
+このセクションに紙幅を割く価値があります。問いは原典が開いたままにしているものであり、読者は熟慮された答えを受け取るに値するからです。
 
-As we know now, the Elohim didn't create the waters above or below the firmament, but simply went on with their scientific investigations to understand the planet Earth better which was covered with thick mist above the planet-wide oceans.
+問いはどのように作業がなされたかではありません。その問いには現存する記録から答えることはできず、いかなる答えも、分析を装った当て推量にしかなりません。問いは、その作業が何を計画されることを要したか、です。着手以前に、科学者たちは何を知り、何を計算しておかねばならなかったのか。作業を始めたのちにそれを支えるために、彼らは前もって何を構築しておかねばならなかったのか。惑星を作り直せるほどよく理解するために、彼らはあらかじめどれほどの部分を理解しておかねばならなかったのか。
 
-> <sup>9</sup> Then God said, “Let the waters below the heavens be gathered into one place, and let the dry land appear”; and it was so. <sup>10</sup> And God called the dry land “earth,” and the gathering of the waters He called “seas”; and God saw that it was good. (NASB 2020 [🔗](https://www.bible.com/bible/2692/GEN.1.NASB2020))
+まず海と海底について考えてみます。射手座以前の地球は、原典の記述によれば、ほぼ全面が水に覆われており、その水の下の海底は「あまり深くなく、どこもおおむね平らだった」とされます。これは特定の時点の特定の惑星についての具体的な主張です。科学者たちがそのような主張をなしうるためには――そして創世記の記述がそれを保存するためには――海底は、その評価が下される以前に全球規模で地図化されていなければなりません。地球の海はおよそ三億六千万平方キロメートルに及び、これはかつてこの惑星に存在したすべての陸地を合わせたよりも広い面積です。その面積を綿密に、大陸建設に最も適した物質を産出する領域を特定するに足る解像度で地図化するには、計器、プラットフォーム、そして時間が必要でした。山羊座の時代は時間を与えました。原典が描き出す衛星や偵察機はプラットフォームを提供しました。しかしその根底にある点はもっと逃れがたいものです。射手座の始まりまでに、科学者たちは、わずか二千年前に到着したばかりの惑星の完全な水深図と地球化学図をもっていたのであり、しかもそれを、自信をもって海底を動かし始めることができるような解像度と形で保有していたのです。私たち自身の文明は、およそ一世紀にわたって組織的な海洋学にかなりの努力を払ってきましたが、まだ同等の解像度での同等に完全な水深測量を達成してはいません。惑星規模の地図化のための道具をもつことと、それを十分長く、十分注意深く用いて、結果に基づいて行動する準備が整うこととはまた別の話です。
 
-From a strictly Biblical point of view, the moment where the Elohim "gather the waters below the heavens into one place and for dry land to appear" happens after the Second Day has ended. The Raëlian canon is not specific enough to locate the terraformation events in either the second of third World Age after their arrival. For stylistic reasons, we chose to include the terraforming happenings during the Second Day of Creation, during the Age of Sagittarius. These may have endured for a while and have well lasted into the Third Day of Creation.
+{{ figure(src="timeline/age-of-sagittarius-survey", alt="青い海洋の世界を上空から見た光景。かすかな調査の軌跡と、遠方の軌道上プラットフォームが見える。", caption="図 3 - 惑星調査：作業に先立つ海底地図化と大気モデリング。") }}
 
-## A quick recap
+次に、動かされねばならなかった対象の規模について考えてみます。一つの大陸――後代の基準からすればささやかな規模の単一の超大陸ですら――は、容易には想像できない量の物質を含みます。居住可能な陸塊を生み出すために海底を持ち上げるには、いかなる方法をとろうとも、人類の記録にあるすべての掘削・建設プロジェクトを合わせたものよりも遥かに多くの岩石と堆積物の変位を必要とします。しかもそれは10倍や100倍の差ではなく、この作業をまったく別のカテゴリーに置くような桁の差です。これは方法に関する主張ではなく規模に関する主張です。どのような手段が用いられたにせよ、その手段はこの規模で動かしうるものでなければなりませんでした。そしてこの規模で動かすことには帰結があります。海底から変位した物質はどこかへ行かねばなりません。それが大陸へと持ち上げられるなら、それを補うために海の平均水深は増加せねばなりません。海の熱力学は応じて変化します。海水準は調整されます。一旦確立された海岸線は、新しい大陸配置によって自身が再形成されつつある海流からの侵食にさらされることになります。これらの影響はすべて原理的には予見可能であり、すべて立案者によって予見されていたはずです。なぜなら、隆起しているのと同じ速さで侵食されている大陸塊は、大陸ではなく泥流だからです。問題の規模は動かされるべき質量だけではありませんでした。それは、その質量がそのなかで動かされる海洋系の全体だったのです。
 
-The Age of Sagittarius is one of the twelve World Ages and lasted from from –19'650 to up –17'490 and took, as each World Age, 2'160 years to complete. It is considered the second World Age out of the twelve World Ages. This second World Age corresponds to the Second Day of Creation famously mentioned in the Biblical book of Genesis. It was during the Age of Sagittarius that a non-terrestrial civilization that has arrived to Earth a while ago and started to investigate the planet for its ability to sustain life. At some point during their investigations, which showed that the planet Earth indeed predisposed to harbour life, these scientists decided to settle on its grounds. For it lacked any dry ground to land on, they single-handedly they proceeded to terraform such a continent out of the oceans' seabed.
+次に表面と、それを観測するために必要なものについて考えてみます。地球の表面積は、陸と海を合わせて、およそ五億平方キロメートルです。進行中の大陸変位作業の影響を監視するには――持ち上げられた物質が意図通りに落ち着いていること、変位させられた水がモデルの予測どおりに振る舞っていること、地震学的な帰結が予測の範囲内で伝播していること、最終的な大陸の形を損ねるような二次的な地質不安定性が発達していないこと、これらを確認するには――惑星を継続的にカバーし、意図したものと意図しなかったものとを区別できるほど細かい解像度で事象を解像できるセンサーネットワーク、ないし軌道上の構成が必要です。原典は衛星に言及しています。その数は述べていません。何を測定したのかも述べていません。言いうるのは、数世紀にわたって行われ、大陸規模の物質変位を伴う惑星規模の工学プロジェクトを監督するのに十分な監視システムは、私たち自身の文明がこれまでに展開したいかなるものよりも大幅に高い能力をもつものであったはずだ、ということです。現在、私たちは数百個の衛星を継続的な地球観測に運用しています。惑星の再形成作業を監督するのに必要な数は分かりませんが、それが数百のオーダーでないことは明らかです。
 
-The terraformation project consisted of a series of controlled subterrain ignitions. These ignitions formed cavities that would act as a type of land reclamation. Ultimately, the product of these terraforming activities gave rise to a landform that itself would lay the basis for dry ground to land and build upon. This made it possible for the extraterrestrial visitors to land and build lasting structures on the surface of the Earth.
+次に時間について考えてみます。二千百六十年というのは、これまで歴史に記録されたいかなる人類文明も、一貫した制度的能力のレベルで継続してこなかった長さです。それは古典期ローマ建国から現在までの全期間より長く、クフ王のピラミッドから最初の写真までの間隔よりも長い時間です。最初の調査から最後の海岸線測量に至るまで首尾一貫して遂行され、ただ始めて放棄されたのではなく、そのような長さにわたって作業が持続されたためには、私たちの文明がこれまでに達成したことのない、いえ、現時点ではどう達成すべきかも想像できない、制度的継続性が必要です。作業を、いかなる個人の記憶や意図にも依存させるわけにはいきません。なぜなら、すでに論じた長命のエロヒムを考慮しても、その全期間にわたって居合わせる個人はいないからです。作業は文書のうちに、手順のうちに、訓練された人員の世代継承のうちに、指導者の交代や本国における政治的重点の変化を生き延びる記録庫のうちに、全期間を通じて機能し続ける供給網のうちに、符号化されていなければなりません。換言すれば、科学者たちは工学的問題だけでなく、いかなる人類の制度よりも長くにわたって工学プロジェクトを維持するという制度的問題をも、見積もっておかねばならなかったのです。
 
-After the Age of Sagittarius (from –19'650 to –17'490) comes the Age of Scorpio (from –17'490 to –15'330). After the Capricornian First Day of Creation, the Age of Sagittarius corresponds to the Second Day of Creation, the following Age of Scorpio evidently equates to the Third Day of Creation.
+次にフィードバックループについて考えてみます。惑星工学プロジェクトのある時点で取られた行動は、その全効果をただちに生み出すわけではありません。ある領域における海底物質の変位は、数時間から数日のうちに海洋全体に伝播する津波の効果を生み、数年から数十年のうちに伝播するマントルのリバウンド効果を生み、数十年から数世紀のうちに伝播する気候的効果を生み、そして時代の全期間とそれを超えて展開し続ける侵食と堆積の効果を生みます。プロジェクトの開始世紀において計画する者は、作業の冒頭で支配的な条件のためだけでなく、能動的段階の終了から数世紀後、作業の最新の帰結がなお落ち着きつつあるときに支配的となる条件のためにも計画していなければなりません。換言すれば、計画の地平は実行の地平を大きく超えて広がっているのです。射手座初期の作業は、晩期蠍座の条件を念頭に置いて設計されていなければなりませんでした。それらの作業の効果は、晩期蠍座が到来したとき、なお伝播し続けていたからです。
+
+最後に冗長性の問題について考えてみます。十分に複雑な工学プロジェクトは複数の点で失敗のリスクを抱え、プロジェクトが大きくなるほど失敗の起こりうる点も多くなります。数世紀にわたって行われ、大陸規模の質量の変位を伴う惑星再形成作業には、致命的失敗の余地はありません。再開始の機会がないからです。ひとたび持ち上げられた大陸塊が不安定であることが判明し、海へと崩れ戻ったなら、プロジェクトは単に遅延するのではありません。打ち切られるかもしれないのです。なぜなら、二度目の試みに必要な資源は得られないかもしれず、本国の政治的環境が再挑戦に対して逆風となるかもしれないからです。したがって科学者たちは、いかなる単一の失敗様式も全体を損なうことができないだけの冗長性をもって、作業を設計せねばなりませんでした。これは並列系、観測された結果が予測から逸脱した場合に作業を一時停止または逆転させられる段階的検証チェックポイント、そして立案者が想定しうるあらゆる失敗のカテゴリーに対する代替手順を意味します。これらの何ひとつ、原典には述べられていません。そのすべてが、作業が試みられたという事実そのものに含意されているのです。
+
+以上の推測は、原典の本文によって支持されているわけではありません。原典はその作業を一文で記述し、先に進みます。以上の推測がしているのは、本文を実際の作業の記述として真剣に受け取り、そのような作業が可能となるための条件を再構成することです。再構成は、その作業が記述された通りに起こったことの証明ではありません。それは、額面通りに受け取られた記述が真であるために何が必要であったかについての説明です。その要件があまりに過酷で、記述に信を置けないと結論する読者は、その結論を下す権利があり、本書はそれに異を唱えるものではありません。要件は過酷ではあるが不可能ではなく、それを満たしうる文明は、私たち自身の文明がまだようやく考え始めたばかりの水準で活動していたはずだ、と結論する読者は、本書が引き出すよう傾いている結論を引き出しています。要点は問いに決着をつけることではありません。要点は、どちらの仕方で答えるにせよ、そこで何が賭けられているのかを明示することにあります。
+
+## V. 息吹の科学
+
+原典は射手座の時代に何がなされたかを伝えます。それがどのようになされたかは、詳細には語りません。山羊座の章と同じく、この種の作業が実際に何を伴うのかを問うほど好奇心の強い読者は、肌理を他から補うことを余儀なくされます。そして今回もまた肌理は手に入るのですが――ただし、この章では前章が直面しなかった複雑さを伴います。大気改変と惑星工学の科学は、ある側面では成熟し、別の側面では未発達であり、地球の大気が現在の形に至った経緯に関する主流の地球科学の説明は、本書が共有しない前提のもとに動いています。このセクションでは、本物の物理科学と、解釈をめぐる不一致との両方に取り組まねばならず、しかもそれを誠実に行わねばなりません。
+
+本書の立場は単純です。物理科学のうち、物理学と化学のレベル――気体の大規模な振る舞い、大気過程の質量・エネルギー収支、自転する惑星上の流体運動の力学、大気構成物の吸収スペクトル、相転移の熱力学――については、何の留保もなく受け入れます。これらは物質とエネルギーに関する事実であり、実験室条件下と直接観測によって確認可能であり、いかなる特定の歴史的物語からも独立しています。本書と主流との不一致はそこにはありません。それは、地球の現在の大気的・地質学的構成がいかにして成立したと言われるかという、歴史的物語に存します。主流の読みは、大気の酸素化をおよそ24億年前に、大陸の集合を数億年から数十億年で測られる間隔にわたるものとし、複雑な生命の発達をカンブリア紀爆発から現在に至るおよそ5億4千万年の勾配にわたるものとします。本書は、設計された生物圏全体――大気、大陸、生態系、そして最終的に人類――を、過去二万二千年のうちに、エロヒムの遠征隊が遂行した意図的なプログラムの作業として位置づけます。
+
+これは実質的な不一致であり、ぼかすのではなくはっきり名指しすべきものです。この不一致は、特定の方法論的論点――いわゆる *斉一説* ないし均一性の教説――に依拠しています。この教説は、今日私たちが観測する地質学的・生物学的過程は、地球の過去を通じておよそ同じ速度で働いてきたとし、それらの過程の現在の速度を過去へと外挿することで、観測される地質学的記録が生成された時間尺度を計算できるとするものです。斉一説は18世紀末にジェームズ・ハットンによって定式化され{{ cite(id="4") }}、1830年代にチャールズ・ライエルによって古典的な形へと発展しました{{ cite(id="5") }}。それは近代地質学の基礎的方法論的前提となり、ライエルからのチャールズ・ダーウィンの明示的借用を通じて{{ cite(id="6") }}、近代生物学の前提ともなりました。斉一説の原理においては、現在は過去への鍵です。今起きていることは、関係する諸過程が存在してきた限り起き続けてきたのであり、生じたものの累積量を現在の速度で割れば、推定される持続時間が得られる、というわけです。
+
+斉一説の原理は、一定の水準においては避けがたいものです。いかなる歴史的科学も、現在の条件からの何らかの外挿なしには成り立ちません。過去は直接には観測できず、それについて知りうるものは残されたものから推論せねばならないからです。本書はこの一般的形式における斉一説の原理を否定しません。本書が否定するのは、現在の地質学的状況には再現されない規模の激変的事象によって乱された地球史の期間に対して、その原理を特定の仕方で適用することです。本書の双子座の章――今いる時代から遥か先の時代――では、ラエリアン的な読みではおよそ七千年前に起きた出来事である大{% wiki(slug="great-flood") %}洪水{% end %}を扱います。それは、地球の地質を、現在の主流地質学が依拠する斉一説的な後ろ向きの計算の多くを無効にするほど根本的な仕方で再形成しました。斉一説的仮定のもとでは数億年にわたって蓄積したように見える地層が、実際にはそれよりはるかに短い時間に、洪水そのものの異常な条件下で堆積した可能性があり、その結果、洪水以前の出来事に関する主流の時間尺度は系統的に水増しされている、ということになります。これが本書の立場です。それは真剣に保持された真剣な立場であり、本書はそれを真剣に取り扱います。
+
+主流のなかの文献にも、それを見ようとする者にとっては、斉一説的仮定がどれほど緊張下で運用されているかを示すかなりの証拠があります。1972年にカール・セーガンとジョージ・マレンによって初めて指摘されたいわゆる *若き太陽のパラドックス* は{{ cite(id="7") }}、もっとも示唆的な事例の一つです。{{ footnote(id="2") }} 主流の恒星進化モデルは、太陽が主流地質学の想定する間隔にわたっておよそ30パーセント明るくなってきたことを、かなりの確信をもって確立しています。すなわち40億年前、生命が起源したとされる頃には、太陽は現在の光度のおよそ70パーセントしか放射していなかったということです。その光度では、どんなに合理的な大気条件を想定しても、地球の表面は凍結していたはずです。しかし凍結していませんでした。主流地質学は、太陽が今より遥かに暗かったとされる期間を通じて、地表に液体の水が存在したことを示す疑いえない証拠を保存しています――38億年前の枕状玄武岩、太古代の微生物マットとストロマトライト、開放水面条件を必要とする堆積岩。パラドックスは本物です。主流の側で提案される解決――非常に高い温室効果ガス濃度、初期の太陽が現在より数パーセント重かったとせねばならない質量損失史、種々の思弁的な大気組成――それ自体も争われており、いずれも完全な合意には達していません。このパラドックスは主流の年代尺度にとって五十年以上にわたって居心地の悪いものであり続けています。本書の枠組みは、地球が遥かに暗い太陽のもとで何十億年も現在のような状態で存在していた必要を要請しないため、このパラドックスにそもそも遭遇しません。これだけでは本書の枠組みが正しいことの証明にはなりません。それは、主流の枠組みもまた自身の困難を抱えており、そこからの本書の離脱が、確立された確実性からの離脱ではなく、その実践者自身がその基本的前提のいくつかについていまだ議論している枠組みからの離脱であることを思い出させるものです。
+
+不一致が名指されたところで、物理科学にはそれ自体の言葉で取り組むことができます。私たちは物理学と化学から、惑星規模での大気改変の問題について実際に何を知っているのでしょうか。射手座のプロジェクトが何を必要としていたかを、それなりの確信をもって述べるに足るほどには知っています。
+
+まず物質系としての大気を考えてみます。地球の現在の大気は、およそ78パーセントが窒素、21パーセントが酸素、0.9パーセントがアルゴン、そしておよそ0.04パーセントが二酸化炭素であり、微量の水蒸気、メタン、亜酸化窒素その他の気体を含みます。その総質量はおよそ5.1 × 10¹⁸キログラム――五千兆トン――です。その鉛直構造は層状になっています。地表からおよそ10キロメートル（熱帯では12、極では7）までの対流圏は、ほとんどの天候現象が生じる場所です。10から50キロメートルまでの成層圏には、15から35キロメートルにオゾン層があります。50から85キロメートルまでが中間圏、85キロメートル以上が熱圏で、これは数百キロメートルにまで広がり、徐々に太陽風と融合します。気温は対流圏を通じて低下し、成層圏ではオゾンが紫外線を吸収するため上昇し、中間圏で再び低下し、熱圏では短波長の太陽放射の吸収によって極度に上昇します。これが現在の大気です。これが射手座の科学者たちが工学的に作り出した大気です。彼らの作業以前は、それは別のものでした。
+
+それは何だったのでしょうか。原典は大気が厚く、不透明で、その状態のままでは呼吸不可能であったと伝えます。具体的な組成は伝えていません。光合成生命が導入される前に大気が改変されねばならなかったという要件から、いくつかのことが推察できます。大気は好気代謝を支えるには酸素が不足していたはずです――文字通りに酸素がなかったというわけではなく、複雑な生命に有用な水準の酸素は、それ自体がこれから構築される生物圏の産物となるからです。光合成のない世界は、自由な大気中酸素を維持する仕組みをもちません。なぜなら酸素は化学的に反応性が高く、絶えず生物的に補充されない限り、地表鉱物との反応や火山ガスの放出、その他の吸収源によって消費されてしまうからです。射手座以前の大気はほぼ確実に *還元的* な大気――水素、メタン、アンモニア、二酸化炭素、水蒸気、窒素が優勢で、自由な酸素はほとんどないか皆無――であったでしょう。これは主流の大気科学が初期地球について再構成する条件と整合します（ただし主流の年代尺度では、本書がそれを位置づけるよりも数十億年前に位置づけられます）。
+
+還元的大気から酸化的大気――顕著な自由酸素を含む大気――への移行は滑らかな過程ではありません。主流のその説明は、*大酸化イベント*、あるいは *酸素の大変動* と呼ばれ、主流の年代尺度ではおよそ24億年前に位置づけられます。主流科学の物語によれば、シアノバクテリアが酸素発生型光合成の能力を進化させ、代謝副産物として酸素を生産し始め、数億年をかけて、まず海洋の化学的酸素吸収源を飽和させ、次に大気そのものを飽和させたとされます。新たな酸素豊富な大気は既存の嫌気的生物圏にとっては破滅的でした――酸素はそれを扱う備えのない生物にとっては代謝的な毒です――が、好気代謝のための舞台を整えました。好気代謝はその嫌気的な先行者よりもはるかにエネルギー的に強力であり、複雑な多細胞生命の最終的な発達を可能にしました。主流がこれを大酸化イベントと呼ぶのは、その効果として、まったく新しい生物圏が最終的にそこから出現する惑星的な大変動であったからです。
+
+本書の読みは年代尺度と主体の点では異なりますが、根底にある物理学は同じ物理学です。還元的大気から酸化的大気への移行は、その化学的吸収源を圧倒するに足る速度での持続的な酸素生産を必要とします。それは海洋の溶存鉄貯蔵を飽和させることを必要とします。なぜなら溶存第一鉄は酸素と容易に反応し、酸化鉄として沈殿するからです――主流の文献はこの移行を *縞状鉄鉱層*、すなわち世界の採掘可能な鉄鉱石のほとんどを含む層状の赤と黒の堆積岩のうちに記録されたものとして見出しています。それは大気中のメタン吸収源、火山の還元性ガス流量、そして自由酸素を消費するその他のあらゆる化学過程の飽和を必要とします。これらの吸収源が飽和した後にはじめて、自由酸素は大気中に蓄積し始めます。主流は物理学を正しく読んでいます。本書がそれと袂を分かつのは、この移行が、現在の速度からの斉一説的な後ろ向きの計算が示唆するように、数億年にわたって展開せねばならなかったかどうか、あるいは指向的な大気工学の技術能力をもつ文明であれば、それをはるかに速く成し遂げえたかどうか、を問う点においてです。「かなり強力な爆発」によって大陸規模の海底を変位させられる文明は、表向き、直接生産によって大気を酸素で満たすことができるか、あるいは斉一説的外挿が包含できない量と速度で酸素発生型光合成生物を導入することができる文明です。酸素化の物理学は同じです。時間尺度は同じではありません。
+
+次に、{% libref(book="genesis-woh", chapter=1, verse=4) %}創世記1章4節{% end %}が扱う具体的な問題を考えてみます。これは山羊座の章ですでに導入したものですが、ここで持続的に取り扱うに値します。なぜなら、調査段階で科学者たちが結論したことに射手座の作業がもっとも直接につながる箇所だからです。
+
+{{ scripture(book="genesis-woh", chapter=1, verse=4, translit="Vayar Elohim et-ha-or ki-tov; vayavdel Elohim bein ha-or u-vein ha-choshekh.") }}
+
+英語の *good* は、טוֹב（*トーヴ*）の根本的に不十分な訳です。ヘブライ語のこの語は、その意味の射程に *適している*、*目的に適う*、*仕様を満たす*、*適切な*、*想定される用途に対して機能する* といった意味を含みます。*トーヴ* な畑とは作物が育つ畑であり、*トーヴ* な木とは実をつける木であり、*トーヴ* な日とは物事がうまく運ぶ日です。ヘブライ語聖書が物理的な事物が評価される文脈で *トーヴ* を用いるとき、その語は、一般的な卓越性を語る道徳的語彙よりも、適合性評価の技術的語彙にずっと近いものとなります。光が *トーヴ* であったと述べることは、その道徳的卓越性や神的完全性についての神学的主張を行うことではありません。それは技術的な所見を記録することです。すなわち、この惑星に到達する恒星放射は、遠征隊が評価に持ち込んだ基準に照らして評価され、放射はその基準を満たした。それは *目的に適った*。その目的とは、遠征隊が確立しようとしていた生物圏だったのです。
+
+具体的に基準とは何だったのでしょうか。原典は伝えていません。しかし、生物圏を宿すべき恒星が提供せねばならないものの物理学から、遠征隊が評価していたであろうことを再構成することはできます。私たちの太陽はG型主系列星、スペクトル分類G2Vであり、表面温度はおよそ5,778ケルビン、放射出力のピークは可視光帯の500ナノメートル付近にあります。可視光帯は恣意的なカテゴリーではありません。それは、生物過程に必要な光化学を駆動するに足るエネルギーをもち、しかしその過程を担う有機分子を損なうほどには強くない、電磁放射のごく狭い帯域です。可視光より波長の短い紫外線は、生体分子の化学結合を切断するに足るエネルギーをもちます――保護されていない人体組織が過度のUVに曝されると日焼け、白内障、皮膚がんを引き起こすのはそのためです。可視光より波長の長い赤外線は、ほとんどの光化学反応を駆動するに足るエネルギーをもちません――物を温めはしますが、化学的に駆動はしません。可視光帯は、光子がちょうど有用なだけのエネルギーをもち、しかし破壊的にはならない狭い至適点に位置します。出力のピークがこの帯域に入る恒星は、遠征隊が構築しようとしていた炭素ベースの生物と適合的な放射をもつ恒星です。
+
+すべての恒星がこの基準を満たすわけではありません。銀河は、出力のピークが生物にとって敵対的な領域にある恒星で満ちています。青色巨星――スペクトル分類OおよびBの恒星――は表面温度がおよそ10,000から30,000ケルビンで、ピーク出力は紫外線の深いところにあります。そのような恒星を周回する惑星は、生命に必要な有機分子の構築を妨げるか、あるいは構築されるそばから破壊する強度の紫外線にさらされることになります。赤色矮星――スペクトル分類Mの恒星、銀河でもっとも一般的な恒星のタイプ――は表面温度が2,500ケルビン程度しかなく、ピーク出力は赤外線にあります。赤色矮星のハビタブルゾーンにある惑星は、恒星エネルギーのほとんどを長波長放射として受け取りますが、これは効率的に光合成を駆動せず、また表面水のUV殺菌をはるかに弱くしか提供しないので、それ自体生物圏化学に対して帰結をもちます。これらの両極の間にF、G、Kの分類があり――ピーク出力が可視光帯にあるかその近くにある恒星です――そしてそのうちG型恒星は、効率的な光合成のための十分な可視光出力、大気のオゾン処理のために扱いやすいUV出力、数十億年の単位で測られる安定した主系列寿命をもち、適合性の範囲の中心近くに位置しています。
+
+スペクトル分類と同じくらい安定性も重要です。多くの主系列星はきわめて変光性をもちます。フレアを起こし、脈動し、不規則なエネルギー粒子のバーストを放ちます。すでに赤外線過多の出力で不利となっている赤色矮星は、フレアを起こしやすいことで悪名高いものです。私たちの最も近い恒星の隣人であり、M型赤色矮星であるプロキシマ・ケンタウリは、近接軌道の惑星から大気を剥ぎ取るほど強いフレアを定期的に放ちます。そうしたフレア挙動は、生物圏にとって単なる不便ではなく、惑星表面を保護されていないものから掃き清める滅菌的脅威です。私たちの太陽もフレアを起こしますが、地球の磁場と大気が破滅なく吸収できる強度と頻度においてです。主系列の規範に対するこの注目すべき穏やかさは、私たちの恒星の静かに重要な特徴の一つです。射手座の調査者たちは、これを長期にわたって測定し――確実に山羊座の調査の2,160年の全期間にわたって、また場合によっては、本国の以前のこの恒星系の遠隔特徴づけ段階のさらに長い期間にわたって――その地元の恒星の変光性が、生物圏計画が要求する範囲内に収まることを確認していたはずです。
+
+もう一つ、本書が完全に明示しておきたい基準があります。それは私たちの太陽の適合性がもっとも決定的に依存する基準であり、*キ・トーヴ* の判定がもっとも参照している可能性が高い基準だからです。恒星のスペクトル出力は単一の数値ではなく、多くの波長にまたがる分布であり、その分布の *形* はピークと同じくらい重要です。私たちの太陽の紫外線出力はゼロではありません――実際、保護されていない生体表面に深刻な損傷を引き起こすに足る、相当量です――が、損傷がもっとも深刻となる短波長側に向かって急峻に落ちていきます。近紫外線（UV-A、315–400ナノメートル）は、生物が控えめな保護でも耐えられる量で地表に到達します。中紫外線（UV-B、280–315 nm）はわずかな量しか地表に到達せず、そのほとんどは大気中のオゾンに吸収されます。遠紫外線（UV-C、100–280 nm）は、曝された生体組織のほぼすべてに致命的ですが、上層大気でほぼ完全に吸収されます。太陽はUV-Cを生産します。太陽の大気は私たちがその一部を受け取ることを妨げません。地球の大気、特にそのオゾン層がそれを妨げているのです。UV出力が特定の管理可能な範囲に入る太陽と、その紫外線を吸収して下の生物圏を損なうことなく熱に変換できる組成の大気と、太陽が生み出す高エネルギー荷電粒子をそらす磁気的盾――この三層の防御こそが、地球の表面を生物圏的に居住可能なものにしているのです。射手座の科学者たちは、この三者を測定し、太陽の出力が、彼らが構築しうる大気的・磁気的防御で十分対処できるようなものであることを見出していたはずです。*キ・トーヴ*。それは合格だったのです。
+
+棄却された代替候補と比べてみましょう。多くの候補系を調査しうる遠征隊は、平均の法則だけからしても、受け入れたものよりはるかに多くの候補を評価し棄却していたはずです。棄却された系は、現在の天文学が許す再構成のもとでは、いくつかの繰り返し現れるカテゴリーに分けられたでしょう。M型赤色矮星の周りの系は、すでに述べた理由――光合成に適さない赤外線過多の出力、高いフレア発生率、惑星が潮汐固定されてしまう狭いハビタブルゾーン――から棄却されたでしょう。高温のF、A、O、B型星の周りの系は、反対の理由で棄却されたでしょう――紫外線にあるピーク出力、短い主系列寿命（A型恒星は主系列でわずか約10億年しか生きず、O型恒星はわずか数百万年で――いずれもこの種の遠征隊が計画する生物圏的弧には不十分です）、高いスペクトル不安定性。連星系は銀河の恒星系の多数派を構成しますが、ほとんどの場合棄却されたでしょう。連星の周りの安定したハビタブルゾーン軌道は稀であり、その放射環境は単一星系よりも複雑であるからです。最近の超新星残骸の近くの系は、残留放射のために棄却されたでしょう。前主系列段階の若い系は、恒星の出力がまだ安定していないため棄却されたでしょう。主系列寿命の終わりに近づく古い系は、恒星が間もなく赤色巨星段階に入って内側の惑星を呑み込もうとしているため棄却されたでしょう。遠征隊の文明がこれまでに観測してきたあらゆる恒星系のうち――その文明の観測史の規模からして、その数は最低でも数千の単位に達したはずですが――恒星適合性フィルターを通過する割合はわずかであったでしょう。
+
+次に、恒星フィルターを通過した系のうち、惑星をもつ系はさらに少ない割合となります。惑星をもつ系のうち、ハビタブルゾーンに惑星をもつ系はさらに少なく、ハビタブルゾーンに惑星をもつ系のうち、山羊座の章ですでに列挙した追加のフィルターを満たす惑星をもつ系はさらに少なくなります――大気を保持するに足る質量、プレートテクトニクスの潜在能力、機能する磁気ダイナモ、安定した気候学に十分なほど安定した軸傾斜、その傾斜を安定化させるに足る質量の月の伴星、大気調節と最終的な生物学的発達の双方に十分な量の液体の水。各フィルターは、そこに到達した候補の大半を脱落させます。すべてのフィルターの結合は稀です。遠征隊がそのカタログを、自分たちが構築しようとした生物圏を実際に宿しうる系へと絞り込むまでに、リストには非常に少数の名前しか残っていなかったかもしれません。私たちの系はそのうちの一つでした。*キ・トーヴ*。光は良かったのです。
+
+この観察の重要性は、特定の事例を超えて広がります。2020年代に入り、私たちの文明が山羊座の遠征隊が遂行したような種類の調査を始めつつあるのなら――そして前章はその通りであることを論じました――今後の数十年にわたって、私たちは同じフィルター構造をもつ太陽系外惑星のカタログを構築していくことになるでしょう。私たちは候補世界のほとんどがほとんどのフィルターを通過しないことを予期すべきです。通過する世界が驚くほど稀であることを予期すべきです。分野が成熟するにつれて、*バイオシグネチャー* という語が、示唆的な大気検出のあらゆるものに当てはめられる寛容なラベルではなく、厳密な基準をもつ技術的カテゴリーになることを予期すべきです。そしてもし運良く、拡大しつつある私たちのカタログのなかに、すべてのフィルターを通過する世界――穏やかなG型星、磁場、プレートテクトニクス、月、温帯範囲の軸傾斜、液体の水、そして現在の組成に示唆的な化学的非平衡を含む大気をもつ世界――を見出すならば、私たちはその発見をしかるべく認識すべきです。すなわち、そのような世界が一般的であることの徴ではなく、はるかに遠くまで探した末に、射手座の科学者たちがこの世界に到着したときに見出したのと同じ稀な配置の別の事例を見出したという徴として。私たちがいつかそうした発見をするか否かはまだ分かりません。ハビタブルワールズ天文台は{{ cite(id="11") }}、2040年代に打ち上げられるとき、地球類似惑星を探索する具体的な能力をもつ最初の機器となります。それまで私たちに言えるのは、*キ・トーヴ* が記録した基準――この世界をそれが宿すべきプロジェクトに適うものとした基準――は、私たち自身の天文学が今、たどたどしく適用することを学び始めている基準である、ということだけです。
+
+射手座の大気の作業についてもう一つ、ここで述べておくに値する観察があります。それはおそらくプロジェクト全体のもっとも特徴的な特徴であり、エロヒムが行ったことを、私たち自身の文明が他の世界に対して現在検討していることから、もっとも明瞭に区別する特徴でもあるからです。
+
+惑星工学についての現代の議論の支配的な枠組みは *{% wiki(slug="terraforming") %}テラフォーミング{% end %}* です。すなわち、他の惑星の条件を、地球起源の人類が居住可能となるように意図的に改変することです。最も近い候補であり、もっとも持続的な注目を集めてきたのが火星です。火星をテラフォーミングする提案は、少なくとも1961年のカール・セーガンの金星に関する論文以来{{ cite(id="8") }}、科学文献のなかを流通しており、火星探査計画の圧力と、ロバート・ズブリン{{ cite(id="9") }}、クリス・マッケイ{{ cite(id="10") }}、イーロン・マスクをはじめとする提唱者たちの活動のもとで、その間の六十年にわたって増殖してきました。真剣な文献に表明されている火星テラフォーミング計画の具体的な目標は次のようなものです。火星の大気を現在の地球地表気圧の0.6パーセントから地球の大気圧に近い値へと厚くすること。平均地表温度を現在の摂氏マイナス63度から液体の水が存在する範囲へと引き上げること。大気組成を現在の95パーセント二酸化炭素から地球的な窒素・酸素混合へと移行させること。何らかの形の磁気的遮蔽――数十億年前に火星が失った磁気ダイナモを再活性化するか代替するか――を回復すること。そして自立可能な地球型の生物圏をその惑星上で支えるに足る地表水と植生を確立すること。目標とする状態は、いかなる場合にも *地球的* であるということです。プロジェクト全体は、植民を行う文明が他の惑星から望むのは自らの母惑星の近似であるという前提に立ち、工学的努力はそのような近似を生み出すことに向けられます。
+
+射手座の科学者たちはこれをしませんでした。{{ footnote(id="3") }} このことははっきり述べておく価値があります。なぜならこの対比が、彼らが何をしたのかを照らし出すからです。彼らは地球に到着して、その大気を本国の大気の複製へと改変しようと試みたわけではありませんでした。本文にはそれが目標であったことを示すいかなる徴もありませんし、わずかながら手にできる物理的証拠はむしろ反対を示唆します。地球の現在の大気組成――その大綱は射手座の作業によって確立され、その後生物圏自身のフィードバック機構によって安定化されました――には、独特の特徴があります。21パーセントの酸素割合、薄いオゾン層、特定の窒素とアルゴンの均衡など、エロヒムの本国がもつものと偶然同一であるとは考えにくい特徴です。そして原典のラエルの本国への短い訪問の記述から私たちが知るのは、ラエルが明らかな困難なくその大気を呼吸していたように見えるということです。これは本国の大気が地球型の生物と広く適合的であることを示唆しますが――しかしこの適合性は、本国が地球に合わせてテラフォーミングされたからというよりも、地球が、本国の仕様と重なりはしても複製してはいない、機能する大気の方向に向けて工学的に整えられたからだ、と説明するのがもっとも妥当です。
+
+射手座の科学者たちが工学的に作り上げたものは、本国の複製ではありませんでした。それは新しい何かでした。標的となる大気――彼らが構築しようとしていた生物圏を宿せる大気――は、その生物圏の要件によって規定されたのであり、その住人たるエロヒム自身の要件によって規定されたのではありませんでした。彼らは、これから作る生物のために大気を設計しました。そしてその生物を作るとき、彼らは設計した大気にその生化学を合わせて調整しました。生物圏全体、すなわち大気と生物とは、それぞれの部分が互いに合うように設計された相互規定的な系なのです。これは現代の人類が想像するテラフォーミングとは別の工学パラダイムです。私たちの意味でのテラフォーミングは、すでに存在する集団の必要に応じて目的地を適応させることです。射手座のプロジェクトは、まだ存在しない集団の必要に応じて目的地を適応させることであり、その仕様自体が同じプロジェクトの一部として作り上げられつつあったのです。
+
+これは重要です。なぜなら、どのような文明がこの種の作業を行うのかについて、私たちに何かを伝えるからです。射手座の人々は第二の本国を探していたわけではありません。彼らは自種の領域を新領土へと拡張するという意味での植民を行っていたわけでもありません。彼らが取り組んでいたのは、創世にずっと近い何か――新しい場所で、ゼロから、新しい生物圏を作り出すことであり、彼ら自身との関係は、植民者と植民地の関係というより、芸術家と芸術作品の関係に近いものです。この区別を誇張すべきではありません。エロヒムが作った生物と彼ら自身が担う生物との間には連続性があります。なんといっても人類はエロヒムの似姿に造られており、彼らと、炭素ベースの好気的生命の基本的構造を共有しています。しかしその連続性は一般的な生化学のレベルにあるのであり、環境要件のレベルにあるのではありません。具体性――どんな大気組成、どんな地表温度、どんな気候、どんな生態系か――は地球の具体性であり、このプロジェクトのために練り上げられたものであって、どこか他所から持ち込まれたものではないのです。
+
+この方向性の一つの帰結は、射手座のプロジェクトが、単なる植民プロジェクトにはなかったであろう創造的自由を備えていたということです。エロヒムは本国の環境を再現することに縛られませんでした。彼らは大気を、自らの惑星占有にもっとも適した仕方ではなく、構築しようとする生物圏にもっとも適した仕方で設計することができました。その結果が、正確な意味で誂え物の生物圏をもつ世界です。早期になされた特定の設計選択に合わせて整えられ、その後の選択もそれに従わざるをえないものとなった生物圏です。21パーセントの酸素割合は偶然ではなく、選ばれたものです。他の不活性ガス候補に対する窒素の優位も偶然ではなく、選ばれたものです。オゾン層の具体的な化学と炭素循環の具体的な均衡も選ばれたものです。各選択は制約のもとにありました――大気保持の物理学、気候調節の熱力学、地元の恒星のスペクトル出力――が、それらの制約のなかで、選択は、所与のものではなく望まれるものを眼差して下されたのです。
+
+これは、私たち自身の文明が現在まだ着手するには程遠いプロジェクトです。私たちはようやく、近隣の単一の惑星を自分たちの大まかな複製へとテラフォーミングすることを検討し始めたところです。私たちはまだ、はるかに野心的なプロジェクト――新しい惑星の上で、自らのものではなくその惑星自身の要件に合わせて調整された新しい生物圏を設計すること――を検討し始めてもいません。射手座の科学者たちは二万二千年前に、私たち自身の文明が最終的に試みる能力を発達させるかもしれないし、しないかもしれないことを行っていたのです。試みうるようになったときに私たちがそれを試みることを選ぶか否かは別の問いです――そして、この物語の形について本書が信じることを踏まえれば、それは私たちが現在想像するよりずっと近い未来に属する問いかもしれません。
+
+射手座の作業の地質学的側面――大陸の隆起――は別種の解釈上の問題を提示します。大気工学は、少なくとも物理学のレベルでは、時間尺度に関する不一致を脇に置きさえすれば、本書と主流の大気科学とがおおむね合意できることです。大陸の隆起はもっと難しい。主流地質学は、大陸の集合を、数億年から数十億年にわたって作用するプレートテクトニクス的過程の産物として読みます。火山弧のゆっくりした付加、テクトニックプレートの衝突、本書の年代記が組織される歳差サイクル全体を矮小化してしまうような期間にわたる山脈の漸進的隆起。この読みの根拠となる証拠は実質的なものです――放射性年代測定法による特定の岩石層の年代決定、かつて結合していたと推定される大陸を横切る地質学的特徴の対応、海底の磁気的縞模様が記録する海洋底拡大の歴史、その他多数。本書はこの証拠を退けはしません。本書が主張するのは、この証拠が、関係する時間尺度を系統的に膨らませる斉一説的仮定のもとに解釈されてきたということ、そして激変説的な枠組み――地質学的記録の相当部分が、斉一説的な間隔にわたってゆっくり蓄積したのではなく、大洪水のような急激な事象のあいだに堆積した、とする枠組み――が、同じ物理的観察から実質的に異なる年代推定を生み出すであろうということです。これは単一のセクションで擁護するのが容易な立場ではなく、本書はここで完全な擁護を試みはしません。双子座の章で、洪水そのものを扱う際に、激変説的な枠組みは専門的な取り扱いを受けることになります。
+
+ここで言いうるのは、原典が記述する具体的な行為――海底から大陸塊を、指向的なエネルギー的変位によって、数世紀の期間内に持ち上げること――は、主流地質学が語彙をもたない過程である、ということです。なぜなら主流地質学は、意図的な惑星工学の可能性を認めないからです。射手座の作業がもし起きたのであれば、それは独特の地質学的署名を残したはずです。すなわち、変位した堆積物の特定のパターン、隆起した岩石における特殊な熱履歴、標準的なテクトニック過程ではなく変位によって生成された地層に特徴的な同位体比、などです。そのような署名が検出されながらも斉一説的仮定のもとで誤って解釈されているのか、検出されながらも異常として退けられているのか、それらを判読可能にする解釈枠組みが利用できないため単に探されていないだけなのか――この問いに決着をつけることは本書のなしうるところではありません。本書はその問いを未決のものとして記録します。本書が指摘するのは、証拠が読まれてきた解釈枠組み自体が、主流のなかの真剣な地質学者たちによって、断続的に争われてきたということ、そして激変説的な代替案――その近代的な形態であり、19世紀の信用を失った若い地球字義主義ではないもの――が、斉一説的な合意がいまだ完全には吸収していない研究計画と知見を、静かに生み出し続けているということです。問いは決着していません。本書の枠組みはひとつの答えの集合を提供します。主流は別の集合を提供します。両者を合わせて見たときに、どちらの集合がより整合的な説明を生み出すかは、これから読まれるべき章の助けを借りて、読者自身が判断せねばならない問いです。
+
+このセクションを締めくくる観察が一つあります。それは本書の前人類の章のあらゆる思弁的科学セクションの終わりに本書がなしてきた観察です。射手座の遠征隊が展開した能力――惑星規模での大気改変、大陸の変位、惑星表面とその上層大気との統合的な工学――は、私たち自身の文明がようやく検討し始めたばかりの能力です。私たちは化石燃料の燃焼を通じて、意図せずに大気組成を改変しています。私たちはジオエンジニアリングの提案――成層圏硫酸塩注入、海洋アルカリ化、直接空気回収――について議論しており、これらが実施されれば、惑星規模での私たちの最初の意図的な大気工学となるでしょう。私たちは火星ミッションを計画しており、その最も野心的な提唱者の想像のなかでは、それらの長期的な軌道は近隣の惑星のテラフォーミングへと至ります。私たちはまだ射手座の遠征隊がしたことを行ってはいません。しかし私たちは、現在の技術能力の縁において、それに関わるものの一部を検討し始めています。作業の形は同じです。規模は同じではありません。そしてもし本書のより広い枠組みが正しいのであれば、私たちの現在の状況と射手座のプロジェクトとの間の違いは、種類の違いではなく発達段階の違いです。私たちは、彼らがすでに成熟へと至らせた能力の入り口にいるのです。二万二千年前に吐き出された世界の息吹は、私たち自身がゆっくりと吸い込み方を学んでいる、同じ息吹なのです。
+
+## VI. 作業の期間
+
+強調しておくべき一点は、射手座の作業は射手座のうちで完了しなかった、ということです。
+
+これはすでに述べたことですが、より詳しく繰り返す価値があります。なぜなら、後の時代を通じて繰り返される一つの原則を確立するからです。水の分離――大気の作業――はおそらく時代の初期から中期の数世紀のうちに完了したでしょう。空が晴れ、上空から海面に作業ができるようになる頃には、射手座のおそらく半分はすでに過ぎていました。大陸の隆起がその後始まり、この作業こそ時代の境界で終わらなかったものです。海底物質の変位、単一の大陸塊への集約、海岸線と水文の安定化、新たな表面地理の周りでの大気循環パターンの定着――こうしたすべては、紀元前17,490年の射手座の公式の終結を越え、最初の植物生命の導入を主要な作業とする蠍座の最初の数世紀へと延長されていきました。
+
+創世記の本文を厳密に読むと、これらの作業は分けられています。第二日は大空を含みます。第三日は水の集合と乾いた陸地の出現、そしてその後に同じ日のうちで植生の導入を含みます。原典の読み――そして本書が採用してきた読み――においては、これらの作業の境界は聖書の本文が示唆するよりも柔らかいものです。第二日の大気の作業は、本文が第三日に割り当てる地質学的作業へと流れ込み、その地質学的作業はさらに最初の生物学的作業へと流れ込んでいきます。鋭い切れ目はないのです。数千年単位の時間尺度で活動する文明は、予定通りに完了されるべき個別の段階に分けて作業を行うわけではありません。連続する作業を遂行し、その最も顕著な特徴が、振り返ったときに、それらが初めて可視となった時代、あるいはそれらの支配的性格が属する時代に割り当てられるのです。射手座の時代は、空が開かれ陸が立ち上がり始めた時代です。蠍座の時代は、最初の植物が定着した時代です。作業は重なり合います。時代そのものは、各期間の支配的な作業に対するラベルなのであり、その境界のうちに始まり終わる作業の目録ではないのです。
+
+この重なりにはもう一つ特筆すべき次元があります。数世紀にわたって持続される作業は、個々のメンバーが私たちより長く生きるが無限ではない文明によって行われるかぎり、必然的に世代をまたがるものです。エロヒムの長命さに対するどんなに寛大な見積もりに基づいても、射手座の大気の作業を始めた科学者たちは、その最終世紀に大陸を持ち上げた科学者たちと同じではなく、それらの科学者たちもまた、初期蠍座において大陸の安定化を完了した科学者たちと同じではありません。プロジェクトは順次の人員の世代を経ていきました。計画、モデル、観測、蓄積された制度的知識のすべてが、損失なく、ドリフトなしに、ある世代から次の世代へと伝達されねばなりません。この伝達がどのように成し遂げられたかは原典には記述されていません。原典が確立するのは、それが成し遂げられたということです。プロジェクトは崩壊せず、その当初の目的から逸れず、再開始する必要もなかったからです。エロヒムが数世紀にわたって制度的記憶を保つために用いたシステムが何であれ、それは機能したのです。私たち自身の文明は、これに比肩しうるほど長い協調的プロジェクトをまだ試みておらず、そのようなシステムをもたず、それを発達させる機会もまだもっていません。これは、章を進めていく上で念頭に置いておくべきエロヒムの一つの特徴です。長いプロジェクトを維持する彼らの能力は、彼らがしたことに付随する些事ではありませんでした。それこそが、彼らがしたことを可能にしたものだったのです。
+
+これは重要です。なぜなら以後の章のための読み方の原則を確立するからです。天秤座の時代に至り、海の生命の創造が記述されるとき、読者はその創造のための準備的海洋学的作業が晩期蠍座に始まったこと、そして海洋生態系の集約が初期乙女座へと延長されたことを理解すべきです。獅子座の時代に至り、人類の創造が記述されるとき、読者はその作業のための生物学的・技術的準備が晩期乙女座にまで遡ること、そしてその帰結が初期蟹座へと前方に伝播したことを理解すべきです。時代はやはり報告上の境界です。それらは年代の標識として有用です。しかし、それを実際の構造が連続的であったプロジェクトの運用上の境界と取り違えるべきではありません。
+
+## VII. 本文と、その沈黙
+
+創世記の物語が示すように、創造の第二日は六日のなかで最も短く、最も詳細を欠きます。三つの作用節が *ラキーア* を確立し、水の分離を記述し、大空がשָׁמַיִם（*シャマイム*、「天」）と名づけられたことを記録し、夕と朝の定式――וַיְהִי עֶרֶב וַיְהִי בֹקֶר יוֹם שֵׁנִי（*ヴァイヒー・エレヴ・ヴァイヒー・ヴォケル・ヨーム・シェニ*、「夕があり、朝があった。第二の日である」）――で締めくくります。陸の動物と人類の創造という第六日の広範な扱いと比べると、第二日はほとんど形式的なものです。
+
+ヘブライ語本文には特筆すべきパターンがあります。創造の他の各日の終わりに、物語にはוַיַּרְא אֱלֹהִים כִּי טוֹב（*ヴァヤル・エロヒム・キ・トーヴ*）「そしてエロヒムは、それが良かったのを見た」という定式が含まれます。技術的適合性の確認のこの定式は、第一日（光）、第三日（乾いた陸地、植生）、第四日（恒星と月の配置）、第五日（海と空の生命）、第六日（陸の動物、そして最後に全体が「とても良かった」）に現れます。それは第二日には目立って欠けています。受け取られている本文において、大空の作業は *トーヴ* と宣言されていないのです。ユダヤ教の後代のいくつかの注釈伝統は、この欠落を、第二日の作業が第二日には完了せず第三日にようやく完了したのであり、したがって承認は最初の段階の終わりにではなく結合された作業の終わりに現れるのだ、と論じることで説明してきました。この説明はラビニカル注釈のなかでまったく内部的な理由から発達したものですが、本書が採用してきた読みとちょうど一致します。射手座の作業は射手座の終わりに完了しなかったのです。それは蠍座のうちで完了したのです。そして聖書の本文は、注意深く読まれれば、このあふれ出しの記録を保存しているのです。
+
+もう一つの文法的細部がこの観察を補強します。第三日では、標準的な読みが水の集合と乾いた陸地の出現を位置づける箇所で、*キ・トーヴ* の定式が二度現れます。一度は水の集合と乾いた陸地の出現の後に、もう一度はその後の植生の導入の後にです。第三日における定式の重複はそれ自体異例です――他のどの日も二回別々の承認を受けません――そしてこれは、水の集合が第二日に始まったが第二日の終結時には *トーヴ* と宣言されなかった作業の完成であったとすれば、ちょうど予期される通りのものです。第三日の最初の *キ・トーヴ* は、この読みでは、射手座に始まり、本文がその最終的な決着を蠍座に割り当てる作業に属しています。第三日の二度目の *キ・トーヴ* は、蠍座本来の新しい作業――植生――に属します。本文はその文法的構造のうちに、創世記の斉一説的な読みがうまく解せなかった二つの時代の間の接合部を保存しているのです。
+
+ラビニカル伝統が自分たちが何を保存しているのかを意識していたかどうかは、本書が答えうる問いではありません。言えるのは、本文がその文法と省略のレベルにおいて、原典の素朴な技術的読みが説明できる――そして慣習的な形而上学的読みは説明しえないか、ようやく難儀して説明する――特徴を含んでいるということです。これは、本書のなかで、山羊座の章で名指したパターンの第二の事例です。すなわち、ヘブライ本文の細部のうち、それを継承した伝統にとっては不器用ないし不可解であったものが、技術的に読まれると単純な説明に屈する、というパターンです。本書は技術的な読みが唯一のものであるとは主張しません。本書は、それが事例ごとに、より単純なものであることを観察するのです。
+
+## VIII. 射手座とは何か
+
+章を閉じる前に、射手座の時代とは何か――そしてその、より大きな連続のなかでの位置が全体の観点からどう見えるか――をはっきり述べておく価値があります。
+
+射手座は最初の介入の時代です。それは科学者たちが、前の時代の調査段階を完了したのち、初めて惑星に触れた時代です。その触れ方は、ある意味では軽いものでした――大気層の分離、雲量を一つの個別の層に集めること、空を澄ますこと。それはまた別の意味では重いものでした――大陸塊の変位、海底からの乾いた陸地の隆起、まだ自らを表明していないプロジェクトのために惑星表面を再構成すること。時代はこれら両方の作業を含んでおり、軽い作業のみ、ないし重い作業のみを把握する読者は、射手座が何であったかの半分しか把握していないことになります。
+
+この時代はまた、地質学的記録が、正しい問いを念頭に置いて読まれれば、証言してくれる可能性のある最初の時代でもあります。山羊座の時代は、現代の調査が回復しうるような痕跡を残しませんでした。なぜならその作業は軌道上から、また大気のなかから行われ、測定のみを伴うものだったからです。これに対して射手座の時代は、惑星規模の岩石と水の変位を伴いました。原理的には、それは署名を残したはずです。そのような署名が検出されながら誤って解釈されているのか、検出されながら退けられているのか、それらが解釈可能となる枠組みが現代の地球科学に利用できないため単に探されていないだけなのか、これは本書が答えうるところではない問いです。本書はその問いを記録します。後の章、特に大変動の伝承と洪水を扱う章では、この問いに立ち戻る機会があるでしょう。
+
+射手座は、変容した世界をもって閉じます。霧は晴れました。空は太陽に向かって開かれています。単一の大陸塊が単一の海から立ち上がっています。科学者たちは惑星の表面で最初の作業を成功裏に遂行し、その作業は次の作業――最初の生命物質の導入――が始まりうる条件を生み出しました。実験施設はこの時点までに、山羊座の時代に選ばれた拠点に確立されています。大気組成は光合成生命を支えるように調整されています。最初の種子が、原典が場所を特定しない、しかし後の聖地の地理から推察されうる実験施設で、準備されつつあります。そして第三の *ヨーム* たる蠍座の時代が、まさに始まろうとしているのです。
+
+{{ figure(src="timeline/age-of-sagittarius-first-sunlight", alt="霧が晴れた後、新たに立ち上がった大陸の海岸とそれを取り巻く海洋に注ぐ最初の日光。", caption="図 4 - 蠍座の入り口にある、準備が整った世界に注ぐ最初の日光。") }}
+
+章を閉じる最後の観察があります。それは山羊座の章が確立し、前人類の連続のあらゆる章がそれぞれの調子で繰り返すパターンを反復するものです。射手座の作業――大気の分離、大陸の工学、後に続く生物圏のための惑星表面の統合的準備――は、私たち自身の文明が現在、2026年に、ようやく検討し始めたばかりの作業です。私たちはまだそれを行っていません。私たちは化石燃料の燃焼を通じて、大部分は意図せずに大気組成を改変しています。私たちはジオエンジニアリングのための真剣な提案――成層圏エアロゾル注入、海洋雲の明色化、二酸化炭素の直接空気回収――を発展させており、これらが実施されれば、惑星規模での最初の意図的な大気介入を構成するでしょう。私たちは火星ミッションを計画しており、そのもっとも野心的な長期的軌道は、その惑星のテラフォーミングを想像します。これらのどれも射手座ではありません。しかしこれらすべては、その成熟形を射手座が前提とした能力の入り口であり、そしてそれが私たち自身の手で発達するならば――本書が追跡しているより大きな物語が続く一つの仕方となるでしょう。二万二千年前に、私たちがまだその技術的能力に追いついていない文明によって吐き出された世界の息吹は、私たち自身の実験室が、ためらいながら、はるかに小さな規模で、どう吸い込むかを学び始めている、その同じ息吹なのです。
+
+次の時代は、この世界に最初の生命が現れる時代です。その時代が蠍座の時代であり、それが次章の主題です。

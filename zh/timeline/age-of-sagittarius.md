@@ -1,99 +1,242 @@
+
 +++
-template = "timeline-page.html"
 title = "射手座时代"
-period = "19'650—17'490BC"
-age = "sagittarius"
-description = "射手座时代，从公元前19650年持续到公元前17490年，被描绘为继摩羯座时代之后的第二个世界时代。它始于一种已经确认地球适宜维持生命的先进外星文明，着手进行地球改造活动。这一时期在寓言上与《创世记》中的“创世第二日”相联系，其中将“穹苍上下之水”的分离解释为对地球海洋层和大气层之间的科学研究。这些活动的高潮是通过控制爆炸从海床创造出一个大陆，这是在地球上建立永久存在的一个重要步骤。"
-image = "barren-lands-outpost.png"
-weight = 210
+description = "大年的第二时代——耶洛因将大气之水与海洋分离、清开天空，并将第一片大陆从海床升起。"
+template = "timeline-page.html"
+toc = true
+
+[extra]
+symbol = "♐"
+color = "blue"
+start_year = "-19650"
+end_year = "-17490"
+genesis_day = 2
+genesis_verse = "神说，诸水之间要有空气，将水分为上下。神就造出空气，将空气以下的水、空气以上的水分开了。事就这样成了。"
+genesis_interpretation = "射手座时代是第二个*yom*。科学家们将海面之上的大气水汽与海面相分离，清开天空以让可见日光透入，并自海床抬升出干燥的陆地——这是整个宇宙观中最为浩大的工程作业。"
+
+
+footnotes = [
+    { content = "第二、三节所述的大气工作（《创世记》第二日）与源材料压缩入第三日的造陆工作之间的接缝，是本语料库逐时代框架软化圣经日次硬性划分的若干处之一。这一模式在《天蝎座时代》（植物工作渗入《天秤座时代》的天文学规范化）以及其后的每一个时代中反复出现。" },
+    { content = "第五节中所预示的「年轻太阳暗淡悖论」以及灾变论与均变论之争，将在《双子座时代》中再次被拾起，届时洪水事件将成为本语料库关于「间断—灾变」式地质学的主要案例。" },
+    { content = "当代的地球化提案——以火星为目标、规模化的大气工程——恰是第五节所论射手期项目实际所为的反面：不是为一已存在的人口去适配一个目的地，而是为一个尚不存在的人口去适配一个目的地。《天轮继续转动》将回到这一区分。" },
+]
+
+references = [
+    { title = "宣告真理之书（Le Livre qui dit la vérité）", author = "克洛德·沃里隆（雷尔）", date = "1974", medium = "religious-text", path = "/library/lets-welcome-the-extraterrestrials/" },
+    { title = "外星人带我去了他们的星球（Les Extra-Terrestres m'ont emmené sur leur planète）", author = "克洛德·沃里隆（雷尔）", date = "1975", medium = "religious-text", path = "/library/extraterrestrials-took-me-to-their-planet/" },
+    { title = "创世记", author = "佚名（希伯来圣经）；据带标音的马所拉希伯来文本由WoH译出", date = "约公元前6至5世纪", medium = "religious-text", path = "/library/genesis-woh/" },
+    { title = "地球理论（Theory of the Earth）", author = "詹姆斯·赫顿", date = "1788", medium = "academic-paper", description = "均变论的奠基性陈述——即现今所观察到的地质过程乃是通往过去的钥匙这一学说。" },
+    { title = "地质学原理（Principles of Geology）", author = "查尔斯·莱尔", date = "1830–1833", medium = "nonfiction-book", description = "三卷本著作，赋予均变论以其经典形式，并塑造了近代地质学与达尔文的进化论综合。" },
+    { title = "物种起源（On the Origin of Species）", author = "查尔斯·达尔文", date = "1859", medium = "nonfiction-book", description = "此处引用，是因其明示地借用了莱尔的均变论作为进化生物学的奠基性假设。" },
+    { title = "地球与火星：大气与表面温度的演化", author = "卡尔·萨根与乔治·马伦", publication = "《科学》177 (4043)，52–56", date = "1972", medium = "academic-paper", url = "https://www.science.org/doi/10.1126/science.177.4043.52", description = "「年轻太阳暗淡悖论」的首次提出。" },
+    { title = "金星行星", author = "卡尔·萨根", publication = "《科学》133 (3456)，849–858", date = "1961", medium = "academic-paper", url = "https://www.science.org/doi/10.1126/science.133.3456.849", description = "萨根关于以蓝藻地球化金星的早期提案——现代地球化文献的种子论文。" },
+    { title = "火星之议：殖民这颗红色行星的计划及其必要性", author = "罗伯特·祖布林（与理查德·瓦格纳合著）", date = "1996", medium = "nonfiction-book", description = "对火星殖民最具影响力的现代论纲，含第五节所引及的地球化论证。" },
+    { title = "使火星宜居", author = "克里斯托弗·P·麦凯、欧文·B·图恩与詹姆斯·F·卡斯廷", publication = "《自然》352，489–496", date = "1991", medium = "academic-paper", url = "https://www.nature.com/articles/352489a0", description = "通过温室气体加热与大气加厚以地球化火星的奠基性技术提案。" },
+    { title = "宜居世界天文台", author = "NASA天体物理处", date = "2024（概念设计）", medium = "website", url = "https://habitableworldsobservatory.org/" },
+]
+
+[[extra.prev_age]]
+name = "摩羯座时代"
+symbol = "♑"
+link = "/timeline/age-of-capricorn/"
+
+[[extra.next_age]]
+name = "天蝎座时代"
+symbol = "♏"
+link = "/timeline/age-of-scorpio/"
+
+[[extra.related_ages]]
+name = "天秤座时代"
+symbol = "♎"
+link = "/timeline/age-of-libra/"
+relation = "随后聚焦于时间度量与天文观测的时代"
+
+[[extra.related_ages]]
+name = "水瓶座时代"
+symbol = "♒"
+link = "/timeline/age-of-aquarius/"
+relation = "当下时代——大气学的理解使我们得以领会宇宙工程"
 +++
 
-The Age of Sagittarius lasts from –19'650 to –17'490 and follows the Age of Capricorn which lasted up to –19'650.
 
-In the last chapter, The Age of Capricorn, we learned that a group of scientifically inclined spacefaring pioneers managed to find an exoplanet that provided all elements necessary to produce artifical life, including water. The planet they've found was covered in water and mist, and didn't harbour any life at the moment of its discovery. They went on to build a network of artifical satellites to study the planet. They themselves were orbiting the planet in a what we would call a space station while studying and evaluating the data they were gathering while doing so. Eventually, the data started to become clear in answering the question whether or not the planet would be able to support life and they decided to go on with their work.
+## 一、时代本身
 
-All of that happened during the Age of Capricorn which lasted from –21'810 to –19'650, one of the twelve precessional [World Ages](../../wiki/world-age/). Another appellation of that period of time, that is known through the Biblical scriptures, is the First Day of Creation. The discovery and subsequent studies of that new exoplanetary world is indeed to be equated with what is being described in the first book of Genesis: _"And Elohim saw the light, that it was good."_
+第一项工作始于勘测结束之处。
 
-As the planet Earth was deemed _good_, meaning it not only had all the elements necessary to bear new life, but was also favorable in a series of other, equally important aspects, the second phase begun. The Second Day of Creation is the sum of all events that happened subsequently during the Age of Sagittarius.
+射手座时代起于公元前19650年，止于公元前17490年，长达二千一百六十年，紧接在摩羯座时代之后。这是科学家们首次对其所研究的世界付诸行动的时代——在经过两千年的测量与分析之后，启动对该行星物理改造的决定终于被作出，第一批干预也在此时实施。这里所开始的工作是大气性与海洋学性的；它将——在最字面的意义上——为其后的一切准备地面。大陆将在这一时代升起。天空将与海洋相分离。摩羯期那个被薄雾笼罩的不透明世界将缓慢而渐进地变成一个太阳可被自地面所见、地面作业终于成为可能的世界。生物学尚未开始。但承载生物学的舞台，在这一时代结束之时，将已然存在。
 
-{{ figure(src="timeline/equinox_bc19650", caption="Fig. 1 - Vernal equinox in 19'650 BC") }}
+将这一时代约定俗成地对应到《创世记》第六、七节——苍穹的造作，上下之水的分离——只把握了此处发生之事的一部分而非全部。如果将这一时代严格对应于《创世记》叙述中的第二个יוֹם（*yom*），那么属于它的就只是大气工作，而{% libref(book="genesis-woh", chapter=1, verse=9) %}《创世记》1:9–10{% end %}中随后发生的造陆便须放在别处。本语料库采取了不同的立场，将造陆工作也置于射手期之内，理由是这一工作与大气分离是相连续的、不能在时代边界处被干脆地切分。在这一解读下，《创世记》文本将实际上跨越射手期末段与天蝎期开端数个世纪的地质作业，压缩为单一一节。{{ footnote(id="1") }} 这是一种合理的解读，也是本章将采纳的解读，同时本章会明确指出圣经日次计数与天文时代计数并不完全对齐的接缝。正如摩羯座章节已经论述过的，时代是报告意义上的边界，而非作业意义上的边界。
 
-## Water world
+开篇必须说清的一点是：射手期发生之事的规模并不温和。将一颗行星——从一个完全被水覆盖、被大气薄雾所笼罩的世界，转变为一个拥有干燥大陆、开阔天空与可作生物学预备之表面的世界——是雷尔运动宇宙观中所描述的最为浩大的单一工程作业。其后各时代中的生物学奇迹固然惊人；但先于这些奇迹的行星工程之壮举，就其纯粹的物质规模而言，是最为大胆的。整整一海洋之多的悬浮水汽必须自其下方的海洋中分离出来。一层厚重的大气层必须被减薄，其组成必须被调整，其光学透明度必须被提高。整颗行星的海床必须被升起，而且不是像一座山那样在某一处被升起，而是要在大陆尺度的距离上被升起，并以一种产生稳定陆块的方式——使其能够承载日后将于其上所建造之物。所有这一切，按源材料所述，是由一个把它当作可处理之问题的文明所完成的——不是奇迹，也不是超出方法之所及的工作，而是一个适合的工具已然存在、适合的时间也可获得的问题。
 
-In the first book out of the three foundational works of Raëlism, [The Book Which Tells The Truth](../../library/the-book-which-tells-the-truth/)<sup>📖</sup>, Yahweh continues the exegetical interpretation of the Biblical verses.
+本章将射手期的工作命名为「世界之息」，这一标题并非装饰。希伯来文中表「息」之词רוּחַ（*ruach*），源自词根רוח（*r-w-ch*），在其语义范围中以一不可分译的群集承载着「风」「灵」「气息」诸义。这一词出现于《创世记》第二节中——正如摩羯章节已经指出的——*ruach {% wiki(slug="elohim") %}elohim{% end %}*在水面上盘旋：勘测阶段的轨道侦察。它又在{% libref(book="genesis-woh", chapter=2, verse=7) %}《创世记》2:7{% end %}中回返，{% wiki(slug="yahweh") %}耶和华{% end %}向第一个人吹入נִשְׁמַת חַיִּים（*nishmat chayim*），生命之气。在那两个时刻之间——在初次勘测的*ruach*与第一个人类的*nishmat chayim*之间——横亘着使一个可被呼吸的世界得以成形的漫长工作。射手期正是这一成形工作开始之处。
 
->> And Elohim made the firmament, and divided the waters which were under the firmament from the waters which were above the firmament.
->> Genesis 1: 7.
->
-> After studying the cosmic rays above the clouds the scientists descended below the clouds but stayed above the waters. That means they were between the clouds, “the waters which were above the firmament”, and the ocean covering the whole planet, “the waters which were under the firmament”.
+## 二、苍穹
 
-According to Yahweh's explanation, this excerpt describes how the scientifical pioneers went on to study cosmic rays above the clouds, and then went below the clouds but remained above the ocean. This literally means they were between the "waters above the firmament" (the clouds) and the "waters below the firmament" (the ocean).
+《创世记》第六节读作：
 
-{{ figure(src="wiki/blue-planet-mist", caption="Ill. 1 - Research vessel in cloud formations") }}
+{{ scripture(book="genesis-woh", chapter=1, verse=6, translit="Vayomer Elohim yehi raqia betokh ha-mayim, vihi mavdil bein mayim la-mayim.") }}
 
-## Terraforming Earth
+第七节接续：
 
-Yahweh then goes on to explain how the first continent was built out of the shallow ocean bed.
+{{ scripture(book="genesis-woh", chapter=1, verse=7, translit="Vaya'as Elohim et-ha-raqia vayavdel bein ha-mayim asher mitachat la-raqia u-vein ha-mayim asher me'al la-raqia, vayehi-khen.") }}
 
->> Let the waters under the heaven be gathered together unto one place, and let the dry land appear.
->> Genesis 1: 9.
->
-> After they studied the surface of the ocean they studied the sea bed and determined that it was not very deep and fairly even everywhere. So then, by means of fairly strong explosions, which acted rather like bulldozers, they raised matter from the bottom of the seas and piled it up into one place to form a continent.
+第八节结束了第二日：
 
-The quoted text is a reference to the verse from Genesis 1:9, in which the Elohim create dry land by gathering the waters under heaven to one place. This describes quite literally how the scientists studied the sea bed and used explosions to raise matter from the bottom of the seas, piling it up to form a continent.
+{{ scripture(book="genesis-woh", chapter=1, verse=8, translit="Vayikra Elohim la-raqia shamayim, vayehi-erev vayehi-voker yom sheni.") }}
 
-The process described, using explosions to raise matter from the ocean floor and create a landmass, is a form of artificial terraforming[^1]. This is because it involves intentionally modifying the natural environment to create a new land area where there was none before. The process is similar to land reclamation[^2], where land is created by filling in a body of water, but in this case, the material is obtained by using explosions to bring up material from the ocean floor.
+希伯来文词רָקִיעַ（*raqia*）——源自词根רקע（*r-q-*ʿ）——既不寻常又重要。该词根的首要义为「锤打」「敲薄」或「展平」——犹如金匠通过反复敲击将一片金属薄板敲扁。其相关名词רִקּוּעַ（*riqqua*）指经锤打的金属制品；在{% libref(book="numbers", chapter=16, verse=38) %}《民数记》16:38{% end %}中，此词根描述将铜质香炉锤打成片以包裹祭坛。在该文本所保存的希伯来观念里，苍穹并非空旷的空间。它是一个「层」，一片被展薄之物，将两团水彼此隔开。约定俗成的解读把*raqia*视作一座固体穹顶——古代宇宙观中那种天穹的意象：其上有被拘束的天上之水，其下有流动的地上之水。源材料所保存的技术性解读则更朴素：*raqia*是云层之下、洋面之上的那一段大气带。「上之水」——הַמַּיִם אֲשֶׁר מֵעַל לָרָקִיעַ（*ha-mayim asher me'al la-raqia*）——是大气中的水汽，即摩羯座时代里这颗行星所具有的浓密云覆与悬浮薄雾。「下之水」——הַמַּיִם אֲשֶׁר מִתַּחַת לָרָקִיעַ（*ha-mayim asher mitachat la-raqia*）——是海洋本身。而*raqia*则是经过分离工作之后，在二者之间开始存在的、那一段被清开的大气层。
 
-The key word here is terraforming. The concept of terraforming is rather a novel notion and emerged as part of the space race in the 20th century, as scientists and engineers began to explore the idea of colonizing other planets and moons in our solar system. While the idea of terraforming remains largely theoretical, it continues to capture the imagination of scientists, writers, and the public alike as a potential way to explore and colonize other worlds. In very broad terms, terraforming refers to the theoretical process of transforming a planet, moon, or other celestial body to make it habitable for humans and other Earth-based life forms. This process typically involves a combination of technologies and processes designed to change the climate, atmosphere, and other environmental conditions of a celestial body in order to make it more like Earth. Terraformation of neighbouring planets such as Mars[^3] or Venus[^4] has been envisioned by planetary scientists such as Carl Sagan since the 1960s and has been revisited very recently with the SpaceX Mars program[^5].
+希伯来文的另一处细节在此值得一提，因为它将贯穿全章乃至整个语料库。圣经希伯来文中表「水」与「天」之词在语法上既非单数亦非复数，而是「双数」形式。מַיִם（*mayim*，水）以双数后缀־ַיִם（*-ayim*）结尾——与构成成对身体部位之词如יָדַיִם（*yadayim*，「两手」）、עֵינַיִם（*einayim*，「两眼」）的后缀相同。שָׁמַיִם（*shamayim*，天）同样带双数。希伯来语言在语法层面就编入了一种观念——水与天本质上是成对的：两团水、两层天——而约定俗成的英文译本将二者皆扁平化为不可分的物质性名词，从而掩盖了这一点。《创世记》文本所描述、其希伯来文法本身所强化的，正是这样一个世界：水成双成对，苍穹则是其间的分隔。当第八节告诉我们耶洛因将*raqia*命名为שָׁמַיִם（*shamayim*）时，这一命名并非随意。它是把被清开的那一层命名为——自始至终就理应成对并分开的——两层之一。
 
-Isn't that exactly what supposedly happened initially here on Earth? In this specific instance, the kind of terraforming applied by the Elohimian scientists would involve intentionally modifying the physical environment of a celestial body (in this case, the Earth's ocean floor) in order to create a new land mass that could potentially support life. The process would likely involve a combination of scientific and engineering techniques, including mapping the ocean floor, analyzing geological data to identify the most suitable areas for land formation, and designing and executing controlled explosions to raise material from the ocean floor. If we imagine how this might have happened, it's within the thinkable that a large number of controlled and coordinated explosions would be necessary to raise enough material from the ocean floor to create a continent. One possibility might have been to use strategically placed explosive charges to fracture the ocean floor in a controlled manner, allowing material to be dislodged and raised to the surface.
+工作本身在源材料中并未被详细描述，源材料以一种「凡知道其所行者皆视此为不言自明」之文本所特有的简略一掠而过这几节经文。其大致轮廓可以推出。按源材料所述，射手期之前的地球大气在其原初形态下既不可呼吸，又在光学上致密。科学家们最初是从轨道平台与大气载具进行作业的：他们致力于将这些组分分离开来——使上层大气中一部分悬浮水汽凝结而下沉入海，同时将剩余的大气层减薄，直至其在可见波段对阳光透明。按源材料所述，这一过程是科学家们与该行星气候系统的首次互动，它确立了——除其他事情之外——一件事：大气是可被工程化的。一旦此事被知，其后的种种作业便成为可被设想的。
 
-Such a process would have significant impacts on the topological constitution of the planet and would require careful consideration and planning to minimize undesired long-term or latent side effects. Also, the feasibility of such a process would depend on a number of factors, including the depth and composition of the ocean floor, the availability of suitable materials for land formation, and the technical and logistical challenges of executing such a large-scale project. This must have really been a project of gigantic proportions.
+{{ figure(src="timeline/age-of-sagittarius-firmament", alt="蔚蓝辽阔的海洋世界，一条被清开的大气带将海面薄雾与高空云层分开。", caption="图 1 - 苍穹：上之水与下之水之间被清开的一条带。") }}
 
-{{ figure(src="wiki/terraforming-explosions", caption="Ill. 2 - Earth-shaping through controlled explosions") }}
+值得在此停下来想一想所要搬动之物的体量。地球大气以其当前形态计，其质量大致相当于五千万亿吨——这一数字以人类工程标准而言无法被想象，却仍然是有限的、有界的、可知的。一层富含悬浮水汽的射手期之前的大气，将相当地更重，仅其水汽部分按任何合理估计计都将以数百万亿吨为量级。科学家们无需将其全部移除。但他们的确需要重新分配它——使上层凝结，使所余大气的光学密度减薄，并管理在行星尺度上同时进行二者的热学后果。地球上的大气热量输运，其时间尺度为数日至数月。一处对大气组分的干预将在一两个季节内通过全球环流而传播，其次生效应——云形成模式的变化、降水的变更、极区与热带间热交换的调整——将在数年与数十年间徐徐展开。一个谋划行星尺度大气干预的文明，在开始之前必须将所有这些都纳入考量。它必须为环流建模、预测其响应、设计干预以产生稳定而非失控的结果，然后跨数百年间持续监测其效应，以便在任何偏差变得不可逆之前发现它。
 
-[^1]: Land reclamation is the process of creating new land from the sea. The simplest method of land reclamation involves simply filling the area with large amounts of heavy rock and/or cement, then filling with clay and soil until the desired height is reached. See here for more: [Land reclamation | Wikipedia](https://en.wikipedia.org/wiki/Land_reclamation)
-[^2]: Terraforming or terraformation, literally meaning "Earth-shaping", is the process of altering the topography or geology of another planet or moon. It usually also includes the modification of atmosphere or temperature to make an initially inhospitable planet habitable. See here for more: [Terraforming | Wikipedia](https://en.wikipedia.org/wiki/Terraforming)
-[^3]: Terraforming Mars refers to the theoretical process of transforming the Martian environment to make it more hospitable and habitable for human life. The goal of terraforming Mars is to create an environment that is similar enough to Earth that humans could live there without the need for protective equipment or artificial habitats. See here for more: [Terraforming of Mars | Wikipedia](https://en.wikipedia.org/wiki/Terraforming_of_Mars)
-[^4]: Terraforming Venus refers to the theoretical process of transforming the Venusian environment to make it more hospitable and habitable for human life. Venus is often considered an extreme and challenging target for terraforming, as its surface temperature is hot enough to melt lead, and its atmosphere is incredibly thick and acidic. See here for more: [Terraforming of Venus | Wikipedia](https://en.wikipedia.org/wiki/Terraforming_of_Venus)
-[^5]: The SpaceX Mars program is a long-term plan by SpaceX, a private space exploration company founded by entrepreneur Elon Musk, to develop and launch missions to Mars with the goal of establishing a human settlement on the planet. The company's ultimate goal is to enable the colonization of Mars and make humanity a multi-planetary species. See here for more: [SpaceX Mars program | Wikipedia](https://en.wikipedia.org/wiki/SpaceX_Mars_program)
+科学家们——无论他们是谁——已知他们所抵达之大气的体量。他们已在摩羯期的勘测阶段对之测量过了。他们在射手期最初几个世纪中拥有时间，可以精炼那些测量，并建立所需的模型。当大气分离工作开始之时，它并非一项实验。它是一项早已被详尽推敲过的计划之执行——其参数已对科学家所掌握的任何建模工具作过测试，其执行被分阶段铺开于足够多的世纪之内，以便在需要修正时可作修正。同样的工作风格——耐心、被仪器化、漫长——将成为后续序列中每一项作业的特征。射手期确立了风格。
 
-## Pangaea
+按源材料所述，这一工作的结束以阳光直射重返洋面而被认定。自科学家们抵达以来，本地恒星首次得以在云层之下被看见。这颗行星拥有了它的第一个真正的白昼——一个真正阳光的白昼，而非弥散过滤而下的微光。第一项将于地质记录中可见的耶洛因作业，亦于此完成。
 
-This single massive supercontinent that got raised from the bottoms of the oceans does sound a lot like the contemporary idea of a supercontinent that supposedly must have existed according to geological insights. This hypothetised supercontient is known as Pangaea[^6]. It is thought to have existed during the Paleozoic and Mesozoic eras, from about 335 to 175 million years ago. It is also thought to have been the most recent of several supercontinents that have formed and broken apart over the course of Earth's history.[^7]
+## 三、大陆的升起
 
-Pangaea was a single, massive landmass that included all of the Earth's major continents at the time, including North America, South America, Africa, Europe, and Asia. The formation of Pangaea is believed to have been driven by the movement of tectonic plates, which gradually brought the continents together over millions of years.
+天空一旦开启，海洋就可以被作业。
 
-If we assume that a single massive supercontinent were to be raised from the shallow oceans in a scenario like the one described in the passage above, it could very well potentially resemble Pangaea in terms of its size and shape. If we assume that a massive terraforming effort wheere land mass was formed out of the bottom of the oceans could potentially have unintended consequences that lead to the emergence of plate tectonics, it's difficult to say exactly what those consequences might be. The mechanisms that drive plate tectonics are complex and not fully understood, so it's hard to predict how they might be affected by large-scale modifications to the Earth's surface.
+源材料对大陆升起的描述，一如其惯例，被压缩为一句，而这一句乃是雷尔注释中最离奇的一句：「他们以颇为强烈的爆破——其作用犹如推土机——将物质自海底升起，并将之堆积到一处以形成大陆。」这一意象貌似漫不经心。所描述者，是整个宇宙观中最大的地质工程之举——基本上是从零开始，在一颗此前几乎全部由海床构成的世界上，建造出一片可居的大陆表面。
 
-That said, it's possible that the creation of a large landmass from the ocean floor could potentially alter the balance of forces within the Earth's crust and mantle, leading to increased geological activity and the emergence of plate tectonics. This could result in the formation of new land masses, volcanic activity, and other geologic processes that could reshape the Earth's surface over time. It's very interesting to ponder the consequences of these terraforming activities.
+所述方法，结合了两条原则。其一是「排移」：海床物质被自洋底升起，并被堆入一片单一的大陆。其二是「集中」：被升起之物被堆积「至一处」，形成单一的超大陆，而非分散的群岛。希伯来文《创世记》文本与此细节相合：
 
-{{ figure(src="wiki/barren-lands-outpost", caption="Ill. 3 - Research installation on barren dry soil") }}
+{{ scripture(book="genesis-woh", chapter=1, verse=9, translit="Vayomer Elohim yikavu ha-mayim mitachat ha-shamayim el-makom ehad, ve-tera'eh ha-yabashah, vayehi-khen.") }}
 
-[^6]: Pangaea, derived from Ancient Greek pan (πᾶν, "all, entire, whole") and Gaia or Gaea (Γαῖα, "Mother Earth, land"), was a giant landmass that supposedly existed on Earth over 300 million years ago, during the Paleozoic and Mesozoic eras. See here more fore: [Pangaea | Wikipedia](https://en.wikipedia.org/wiki/Pangaea)
+第十节接续：
 
-[^7]: The existence of the supercontinent Pangaea is based on evidence from geology, including the distribution of fossils, rocks, and mountain ranges on different continents. The theory of plate tectonics explains how the movement of the Earth's plates caused Pangaea to break apart and its continents to drift apart. The estimated age of this remote supercontinent Pangaea is a product of assuming the so-called Uniformitarianism because the theory of plate tectonics and the concept of Pangaea are fundamental to the Uniformitarian Doctrine. This doctrine assumes that the processes and natural laws that operate in the present have operated in the same way throughout the history of the Earth. See here for more: [Uniformitarian Principle | Wikipedia](https://en.wikipedia.org/wiki/Uniformitarianism)
+{{ scripture(book="genesis-woh", chapter=1, verse=10, translit="Vayikra Elohim la-yabashah eretz, u-le-mikveh ha-mayim kara yammim, vayar Elohim ki tov.") }}
 
-## Second day of creation
+מָקוֹם אֶחָד（*makom ehad*）——「一处」。圣经在其原初的希伯来文中保存了这样一个细节：第一片大陆乃是单数，而非复数。希伯来文词יַבָּשָׁה（*yabashah*）源自词根יבש（*y-b-sh*，「干」），其本身就具说明性：它强调的不仅是陆地之出现，而是陆地之具体「干燥」的特性——周围水域被排去之地，由水汇聚入新指定盆地之际所暴露出来。干地与海洋的排移互为补充，而非独立的造作。现代地质学所谓的{% wiki(slug="pangaea") %}盘古大陆{% end %}——或在其更晚近的重建中称为「潘诺西亚」（其前为「罗迪尼亚」）——便是地球大陆地壳在其深时历史中不同时刻被认为存在过的形态。主流解读把这些超大陆置于极远之过去：盘古大陆约在三亿三千五百万年前组合形成、罗迪尼亚约在十一亿年前、潘诺西亚介于二者之间。本语料库的解读，将如第五节所展开的，把这一作业在时间上置得颇为不同。两种解读所共同认同的，是其结构：单一被聚合的大陆块，被单一海洋所环绕。圣经与主流地质学文献在这一结构性的点上趋同，无论其在时间上的分歧如何。
 
-As mentioned at the beginning of this chapter, The Age of Sagittarius corresponds to the Biblical Second Day of Creation. The amount of time it took for the extraterrestrial scientists to keep on researching the Earth's oceanic and topographic features and to proceed with the terraformation of dry surface area by amassing matter into one spot thus shaping a new supercontinent took a while. That period of time is referred to as a day in the book of Genesis. This day however, as explained in the previous chapter, is not to be substituted with a day and night cycle of 24 hours, but a celestial day that refers to the passage of time during one precession-induced World Age.
+对一名现代读者而言，「颇为强烈的爆破」最易令人吃惊，尤其因为此语被提出时所带的随意感。所指既非二十世纪采矿业的化学炸药，也非二十世纪后期的核装置，而是某种能够位移行星尺度岩石与沉积物的「定向能量释放」。源材料不指明其技术，本语料库亦不对此作猜测。本语料库所能做、并将在以下数节中做的，是去考察：科学家们在第一次此类爆破被引爆之前，必须为何而作打算——并将整个问题的全部形态——从大气工程到大陆位移、再到生物圈预备——作为单一连贯的作业，而非作为各自分离的任务之序列来看待。
 
-While the transition from one task to the other task may be seen as continuous, what matters is to be able to locate a given event, such as the terraformation of a supercontinent, in a frame of time that accounts for long periods of time. The Sagittarian World Age during which the events happened as stated earlier lasted therefore, as any other World Age for that matter, 2'160 years.
+{{ figure(src="timeline/age-of-sagittarius-continent-raising", alt="新陆块自幽暗的海洋中升起，蓝灰色天空之下远处闪动着受控能量的辉光。", caption="图 2 - 大陆升起：第一片干地自全球海洋中显现。") }}
 
-The Second Day of Creation is described in the Book of Genesis, specifically in Genesis 1:6-8. On this day, the Elohim are said to have created the firmament, or the expanse, to separate the waters below from the waters above.
+## 四、所必须被纳入规划者
 
-> <sup>6</sup> Then God said, “Let there be an expanse in the midst of the waters, and let it separate the waters from the waters.” <sup>7</sup> God made the expanse, and separated the waters that were below the expanse from the waters that were above the expanse; and it was so. <sup>8</sup> God called the expanse “heaven.” And there was evening and there was morning, a second day. (NASB 2020 [🔗](https://www.bible.com/bible/2692/GEN.1.NASB2020))
+值得用一节来讨论此事，因为这是源材料留为开放的问题，读者也理应得到一个深思熟虑的答复。
 
-As we know now, the Elohim didn't create the waters above or below the firmament, but simply went on with their scientific investigations to understand the planet Earth better which was covered with thick mist above the planet-wide oceans.
+问题并不是工作是如何被做的。那个问题无法从现存记录中被回答，而任何所给的答复都不过是装饰为分析的猜测。问题是工作需要哪些规划。科学家们必须知道哪些事？已计算过什么？必须先期建造什么以在作业开始之后支援它？他们必须先期了解这颗行星到什么程度，才足以重塑它？
 
-> <sup>9</sup> Then God said, “Let the waters below the heavens be gathered into one place, and let the dry land appear”; and it was so. <sup>10</sup> And God called the dry land “earth,” and the gathering of the waters He called “seas”; and God saw that it was good. (NASB 2020 [🔗](https://www.bible.com/bible/2692/GEN.1.NASB2020))
+先想想海洋与海床。按源材料所述，射手期之前的地球几乎完全被水所覆盖，水下的海床「并不甚深，且各处颇为平坦」。这是一项关于某一颗特定行星在某一特定时刻的特定主张。要让科学家们作出这一主张——并让《创世记》的叙述保存下来——海床就必须在被作出判断之前已经被全球性地测绘过。地球的海洋覆盖约三亿六千万平方公里——这一面积比这颗行星上有史以来一切干地之总和还要大。要细致地测绘这一区域，达到足以辨别哪些区域所产物质最适合用于大陆建造的分辨率，需要仪器、平台与时间。摩羯座时代提供了时间。源材料所述的卫星与侦察载具提供了平台。但其下的要点更难回避：科学家们在射手期开始之时，对一颗他们仅在两千年前才抵达的行星，拥有完整的海底地形与地球化学图，而该图的分辨率与形式足以让他们有信心地着手搬动海床。我们自己的文明，以相当的努力进行了约一个世纪的系统海洋学，尚未取得在相当分辨率上的相当完整的海底地形。拥有行星尺度测绘的工具是一回事；曾足够长时间、足够细致地使用过它们，以致已准备好对结果付诸行动，则是另一回事。
 
-From a strictly Biblical point of view, the moment where the Elohim "gather the waters below the heavens into one place and for dry land to appear" happens after the Second Day has ended. The Raëlian canon is not specific enough to locate the terraformation events in either the second of third World Age after their arrival. For stylistic reasons, we chose to include the terraforming happenings during the Second Day of Creation, during the Age of Sagittarius. These may have endured for a while and have well lasted into the Third Day of Creation.
+{{ figure(src="timeline/age-of-sagittarius-survey", alt="自高空大气俯视一颗蓝色海洋世界，可见微弱的勘测轨迹与远方的轨道平台。", caption="图 3 - 行星勘测：在工作开始之前的海床测绘与大气建模。") }}
 
-## A quick recap
+接下来想想所必须被搬动之物的规模。一片大陆——即便是按后世标准而言不甚广阔的单一超大陆——所涉及的物质体量并不易被想象。以任何方法将海床升起以形成一片可居陆块，所需位移的岩石与沉积物的量，将使人类记录中一切发掘与建造工程之总和相形见绌——而其差距不是十倍或一百倍，而是把这一作业放到完全不同的另一个范畴里。这是关于规模的主张，而非关于方法的主张。无论所用为何，其手段都必须能够在这一规模上运作。而在这一规模上运作，是有其后果的。自海床位移而出之物，必须有去处。若它被升起为大陆，那么海洋的平均深度就必须相应地增加。海洋的热动力学将随之改变。海平面将作出调整。一旦海岸线被确立，它们便将受到——本身正被新大陆构型所重塑的——洋流的侵蚀。所有这些效应在原则上是可被预见的；它们都必须被规划者所预见，因为一片其侵蚀速率与升起速率相等的大陆并非一片大陆，而是浆糊。问题的范围不仅是所要搬动的质量。它是该质量在其中被搬动的整个海洋系统。
 
-The Age of Sagittarius is one of the twelve World Ages and lasted from from –19'650 to up –17'490 and took, as each World Age, 2'160 years to complete. It is considered the second World Age out of the twelve World Ages. This second World Age corresponds to the Second Day of Creation famously mentioned in the Biblical book of Genesis. It was during the Age of Sagittarius that a non-terrestrial civilization that has arrived to Earth a while ago and started to investigate the planet for its ability to sustain life. At some point during their investigations, which showed that the planet Earth indeed predisposed to harbour life, these scientists decided to settle on its grounds. For it lacked any dry ground to land on, they single-handedly they proceeded to terraform such a continent out of the oceans' seabed.
+接下来想想表面以及监测它所需者。地球的总表面积——陆地与海洋合计——约为五亿平方公里。要监测一项正在进行中的大陆位移作业的效应——确认被升起之物正在所欲沉积之处沉积、被位移之水按模型所预测的方式运动、地震后果在所预测的范围内传播、并无次生地质不稳定性正在形成而最终危及大陆形态——需要一个传感器网络，或一种轨道架构，其能力足以持续地覆盖整颗行星，并能以分辨率细致到足以区分所欲与所非欲的方式分辨事件。源材料提及了卫星。它未说有多少颗。它未描述它们测量什么。可以说的是：一个足以监督一项跨数百世纪、涉及大陆体量物质位移之行星工程项目的监测系统，所必须具备的能力将远超我们自己的文明迄今所部署的任何系统。我们目前有数百颗在轨持续观测地球的卫星。要监督一项行星尺度的重塑作业所需的数量虽不明，却显然不是几百颗。
 
-The terraformation project consisted of a series of controlled subterrain ignitions. These ignitions formed cavities that would act as a type of land reclamation. Ultimately, the product of these terraforming activities gave rise to a landform that itself would lay the basis for dry ground to land and build upon. This made it possible for the extraterrestrial visitors to land and build lasting structures on the surface of the Earth.
+接下来想想时间。两千一百六十年比任何一个在持续制度能力上保持连贯的人类文明所有过的连续年限都更长。它比从古典罗马奠基到今天的整个时段更长。它比胡夫金字塔与首张照片之间的间隔更长。要让一项作业跨这样的时段被维持下来——不仅是被开始而后被弃置，而是被连贯地执行，自首次勘测一直到最终海岸线勘察——所需的制度延续性，是我们的文明从未取得过的，目前甚至无法构想其将如何取得。该工作不能依赖于任何个体的记忆或意图，因为没有任何个体会在其全部过程中持续在场——即便把我们已讨论过的耶洛因寿命考虑在内也不行。该工作必须被编入文献、编入程序、编入受训人员的相继传承、编入足以在母星领导层更迭与政治重心转移之间存续的档案、编入在整个时段中保持运作的供应链。换言之，科学家们所必须为之划定规模者，不仅是工程问题，更是一个比任何人类制度都更长寿的工程项目之制度问题。
 
-After the Age of Sagittarius (from –19'650 to –17'490) comes the Age of Scorpio (from –17'490 to –15'330). After the Capricornian First Day of Creation, the Age of Sagittarius corresponds to the Second Day of Creation, the following Age of Scorpio evidently equates to the Third Day of Creation.
+接下来想想反馈回路。在一项行星工程项目中某一时刻所采取的行动，并不立即产生其全部效应。某一区域之海床位移将产生海啸效应，在数小时与数日内沿整个洋面传播；将产生地幔回弹效应，在数年与数十年内传播；将产生气候效应，在数十年与数百年内传播；并将产生侵蚀与沉积效应，贯穿整个时代乃至其后而继续展开。一名在项目开端世纪从事谋划者，所必须为之打算的，不仅是工作开始时的条件，还有当其最晚效应仍在沉淀之际、即在主动阶段结束许多世纪之后所将出现的条件。换言之，规划的时间视界远超执行的时间视界。射手期初段的作业，必须以天蝎期晚段所将到来的条件为念而设计，因为那些作业的效应到天蝎期晚段时仍在传播。
+
+最后，想想冗余的问题。任何足够复杂的工程项目都会在多处承担失败的风险，而项目越大、可能发生失败的点就越多。一项跨数百世纪、涉及大陆质量位移的行星重塑作业，没有灾难性失败的容忍余地，因为没有重启的机会。如果大陆块在被升起后被证明不稳定而坍回海洋，那项目不仅是被延误而已；它可能被终止，因为再尝试一次所需的资源也许已不可获得，而母星的政治环境也许已转而反对第二次尝试。因此，科学家们必须以足够的冗余来设计这一作业，使任何单一失败模式都不能拖垮全局。这意味着平行系统、分阶段的核查节点（在其上一旦观察结果偏离预测便可暂停或回退作业），以及对规划者所能设想到的每一类失败的应急预案。源材料中对这些都没有描述。它们都隐含于一件事实之中：这项作业曾被试图执行。
+
+以上推测在源材料的文本中没有任何支持。文本以一句话描述这一作业，便不再多说。以上推测所做的，是将文本严肃地视为对一项真实作业的描述，并去重建该作业之所以可能所需要的诸条件。这一重建并不是该作业按所述发生过的证明。它是对——当这一描述按其字面被接纳时——所必须为真之事的陈述。一名读者若得出「这些要求过于苛刻，因而这一描述不可信」之结论，他有权得出此结论，本语料库亦不与之争辩。一名读者若得出「这些要求虽苛刻却并非不可能，而能满足这些要求的文明必须是在一个我们自己的文明才刚开始构想的水平上运行」之结论，则是本语料库倾向于得出的结论。要点不在于了断此问题。要点在于将此问题——无论答案倾向哪一边——的赌注是什么显题化。
+
+## 五、息的科学
+
+源材料告诉我们射手期里做了什么。它并未在任何细节上告诉我们「如何」。一如摩羯座章节中，那位足够好奇而想问「此类作业实际涉及什么」的读者，被留下去自行从他处补足肌理；而那肌理是可获得的——尽管在本章中，它带着前一章未曾面对的一种复杂性。大气改造与行星工程的科学，在某些方面是成熟的、在另一些方面则尚不发达；而关于地球大气如何走到其现今形态的主流地球科学叙述，运行于本语料库并不共享的一些假设之下。本节必须诚实地同时与真正的物理科学和这一解读上的分歧进行交涉。
+
+本语料库的立场是直截了当的。物理科学在物理学与化学层面——气体在大规模上的行为、大气过程的质能预算、流体在旋转行星上的动力学、大气组分的吸收谱、相变的热力学——是无保留地接受的。这些都是关于物质与能量的事实，可在实验室条件下与直接观察中被证实，独立于任何具体的历史叙述。本语料库与主流之间的分歧在别处：具体地讲，在地球当今的大气与地质形态是经由怎样的历史过程而成形的这一叙述上。主流的解读把大气含氧化置于大约24亿年前，把大陆组合置于以亿万年计的间隔上，并把复杂生命的发展置于自寒武纪大爆发至今约5.4亿年的渐变之上。本语料库则把整个被工程化的生物圈——大气、大陆、生态系统、最终人类——置于近两万二千年之内，作为耶洛因远征所推行的一项有意计划之结果。
+
+这是一项实质性的分歧，应当被直名而不应被回避。这一分歧依赖于一个特定的方法论要点：即被称为「均变论」或「均一性学说」的原则——它主张，我们今日所观察到的地质与生物过程，在地球的整个过去中以大致相同的速率运行；当今诸过程的速率可被外推回过去，以计算所观察到的地质记录在何种时段内产生。均变论由詹姆斯·赫顿在十八世纪末提出{{ cite(id="4") }}，又由查尔斯·莱尔在1830年代展开为其经典形式{{ cite(id="5") }}；它成为近代地质学的基础方法论假设，并通过查尔斯·达尔文明示自莱尔处的借用{{ cite(id="6") }}，也成为近代生物学之基础假设。根据均变论原则，现今是过去的钥匙：任何如今正在发生之事，只要相关过程存在过，它便已发生过；累积量除以当前速率，便可得到估计的持续时间。
+
+均变论原则在某种程度上是无可避免的。任何历史科学都不能没有某种从现今条件外推的做法，因为过去无法被直接观察、关于它的一切都必须从所余之物推得。本语料库并不否定均变论原则之普遍形式。本语料库所否定的，是该原则对地球史中——某些被以现今地质规律所不可重现之规模上的灾变事件所打断的——区间的具体应用。本语料库的《双子座时代》一章——位于我们当前所处时代之前许多个时代——将处理大{% wiki(slug="great-flood") %}洪水{% end %}：按雷尔运动的解读，此事件发生于距今约七千年前，并以足够根本的方式重塑了地球地质，使现今主流地质学所依赖的许多均变论回推无效。在均变论假设下看来历经数亿年才积累成的地层，事实上可能是在洪水本身的非常条件下、在一段短得多的时段内被沉积下来的；而主流对洪水前事件的时间尺度因而被系统性地夸大了。这是本语料库的立场。这是一种严肃的立场，由严肃的人所持，本语料库严肃对待之。
+
+主流自己的文献中，对任何愿意一看者都包含着相当多的证据，显示均变论假设运行时所承受的张力。卡尔·萨根与乔治·马伦于1972年首次提出的所谓「年轻太阳暗淡悖论」{{ cite(id="7") }}，便是其中最具揭示性的案例之一。{{ footnote(id="2") }} 主流恒星演化模型以相当的自信确立：在主流地质学所假定的时段中，太阳已增亮了约百分之三十——这就意味着，在四十亿年前——按所述生命起源之时——太阳所发出的亮度仅约为其当今的百分之七十。在那种亮度下，无论采何种合理的大气条件，地球表面都本应冻成固体。但它并非如此。主流地质学保存了在所谓「太阳要暗得多」的整个时段里地表液态水存在的明白证据——38亿年前的古老枕状玄武岩、太古宙的微生物席与叠层石、需要开阔水体条件的沉积岩层。这一悖论是真实的。主流所提出的诸种解决——大幅升高的温室气体浓度、要求年轻太阳曾比现今重若干个百分点的质量损失史，以及种种推测性大气组成——本身也存在争议，无一取得完全共识。这一悖论对主流时间表而言是一种尴尬，且已尴尬五十余年。本语料库的框架并不要求地球在一颗显著较暗的太阳之下、以大致与现今相近的状态存在数十亿年，因而根本不会遇上这一悖论。这本身并不构成本语料库框架正确的证明。它提醒人们：主流之框架也有其自身的难处，本语料库对主流框架的脱离，并非脱离一个已确立的确定性，而是脱离一个其从业者自己仍在为某些基本假设争论不休的框架。
+
+分歧既已名之，物理科学便可以按其本身的条款被处理。我们从物理学与化学中究竟知道什么关于「行星尺度大气改造问题」之事？足以让我们以一定把握说出射手期项目所要求者为何。
+
+先把大气作为一个物质系统来考量。地球当今的大气约由百分之七十八的氮、百分之二十一的氧、百分之零点九的氩与约百分之零点零四的二氧化碳组成，并含有微量水汽、甲烷、一氧化二氮等气体。其总质量约为5.1 × 10¹⁸千克——五千万亿吨。其垂直结构是分层的：自表面至约10公里（热带约12公里、极区约7公里）的对流层，是大部分天气现象所在的层；自10至50公里的平流层，在15–35公里之间含有臭氧层；自50至85公里的中间层；85公里以上则是热层，向上延伸至数百公里处而逐渐与太阳风融合。气温在对流层中随高度而下降，在平流层中因臭氧吸收紫外辐射而上升，在中间层中又下降，在热层中因吸收短波太阳辐射而异常地上升。这是当今的大气，它是射手期科学家们所工程化出来的大气。在其工作之前，它是另外的东西。
+
+它是什么？源材料告诉我们，那大气是厚的、不透明的，在其原初形态下不可呼吸。它未告诉我们具体的组成。从「在引入光合生物之前必须先对大气加以改造」这一要求出发，我们可推得若干事。该大气必定没有足以支撑有氧代谢的氧——并非真的全无氧，而是足以支撑复杂生命的氧浓度本身将是有待建立的生物圈之产物。无光合作用的世界没有任何维持自由大气氧的机制，因为氧具化学反应性、在与表面矿物、火山释气以及其他汇的反应中被消耗，除非由生物生产持续地补充。射手期之前的大气，几乎可以肯定，是一种「还原性」大气——其中氢、甲烷、氨、二氧化碳、水汽与氮占主导，几无自由氧。这与主流大气科学为早期地球所重建的条件相一致（尽管按主流时间表，它们被定位于比本语料库所定位之时段早数十亿年的过去）。
+
+由还原性大气到氧化性大气——即一种含有显著自由氧的大气——的过渡，并不是一个平滑的过程。主流对此的叙述是「大氧化事件」，或「氧灾难」，按主流时间表，定于约24亿年前。主流科学的故事是：蓝藻演化出了产氧光合作用的能力，开始把氧作为代谢副产物释出，并在数亿年中先饱和了海洋的化学氧汇、再饱和了大气本身。新的富氧大气对既存的厌氧生物圈是灾难性的——氧对未具应付能力的生物而言是代谢毒剂——但它为有氧代谢铺了路，而有氧代谢比其厌氧前身在能量上远为充沛，使复杂多细胞生命的最终发展成为可能。主流之所以称之为「大氧化事件」，是因为它在其效应上是一场行星尺度的灾难——一种全然崭新的生物圈最终从中浮现。
+
+本语料库的解读在时间与执行者上与之不同，但其下的物理学是同一种物理学。由还原性大气到氧化性大气的过渡，要求氧的产生维持在足以淹没其化学汇的速率上。它要求海洋的溶解铁库被饱和——因为溶解的亚铁与氧反应敏捷，沉淀为氧化铁；主流文献在「条带状铁矿层」——含有世界上大部分可采铁矿的红黑相间的沉积层——中找到了这一过渡之记录。它要求甲烷汇、火山还原气体通量以及其他一切消耗自由氧的化学过程都被饱和。仅在这些汇被饱和之后，自由氧才开始在大气中累积。主流对物理学的读法是正确的。本语料库的离异之处在于追问：这一过渡是否必须如「自现今速率作均变论回推」所主张的那样，跨数亿年才得展开；抑或，一个具备定向大气工程技术能力的文明能否将其完成得快得多。一个能够以「颇为强烈的爆破」位移大陆体量海床的文明，从面上看，是一个能够以直接产氧来淹没大气、或以均变论外推所不能覆盖之数量与速率引入产氧光合体的文明。氧化的物理学是同一种。时间尺度则不是。
+
+现在考虑{% libref(book="genesis-woh", chapter=1, verse=4) %}《创世记》1:4{% end %}所占据的那个具体问题——摩羯座章节已经引入并值得在此持续处理之，因为这是射手期工作与科学家们于勘测阶段所得出的结论最直接对接的经文。
+
+{{ scripture(book="genesis-woh", chapter=1, verse=4, translit="Vayar Elohim et-ha-or ki-tov; vayavdel Elohim bein ha-or u-vein ha-choshekh.") }}
+
+英文译词"good"对于טוֹב（*tov*）而言是一种远不充分的翻译。希伯来文这一词在其语义范围中承载着「合适」「合用」「合规格」「贴切」「就所考察之用而言可用」诸义。一片*tov*的田地，是能长庄稼的田地。一棵*tov*的树，是结果实的树。一个*tov*的日子，是诸事顺遂的日子。当希伯来圣经在涉及对实物作出评估的语境中使用*tov*时，该词更接近于「合规性评估」的技术词汇，而非「一般卓越」的道德词汇。说光是*tov*，并不是关于其道德卓越或神性完美的神学主张。它记录的是一项技术性判定：光通过了规范。抵达这颗行星的恒星辐射，按远征所携来评估之的诸标准而被评估，且该辐射符合那些标准。它是「合用」的。所合之用，便是远征所打算建立的生物圈。
+
+具体而言，标准是什么？源材料未告诉我们。但我们可以从「一颗承载生物圈的恒星所必须提供之物」之物理学，重建远征所将评估的内容。我们的太阳是一颗G型主序星，光谱型G2V，表面温度约5,778开尔文，辐射输出的峰值在可见光范围、约500纳米附近。可见光范围并非一项随意的分类；它是电磁辐射中那一段窄带——其能量足以驱动生物过程所需的光化学反应，但又不至于强到损坏执行那些反应的有机分子。紫外辐射，其波长短于可见光，能量足以打断生物分子中的化学键——这正是过量紫外暴露在未受保护的人体组织上导致晒伤、白内障与皮肤癌之故。红外辐射，其波长长于可见光，能量则不足以驱动大多数光化学反应——它能加热物体，却不能在化学上为其供能。可见光带处于光子所携能量「足以可用、又不至破坏」的那个窄甜蜜点上。一颗其辐射峰值落于此带的恒星，便是其辐射与远征所建造之那类碳基生物相容的恒星。
+
+并非所有恒星都满足这一标准。银河系中充满了其光谱输出峰值落于对生物敌对范围的恒星。蓝巨星——O型与B型恒星——其表面温度自约一万到三万开尔文，峰值输出深入紫外。围绕此类恒星运行的行星，将被强度足以阻止生命所需有机分子组装、或在它们能被组装的同时摧毁它们的紫外辐射所沐浴。红矮星——M型恒星——是银河中最常见的恒星类型，其表面温度可低至2,500开尔文，峰值输出在红外。在红矮星宜居带中的行星，所接收的恒星能量大部分为长波辐射，它无法高效驱动光合作用，并对地表水提供较弱得多的紫外消毒，这对生物圈化学有其自身的影响。介于两极端的F、G、K三型恒星的峰值输出落于或接近可见光范围；其中G型恒星位于合用性范围的中央，其可见光输出足以高效供光合作用，紫外输出可被大气臭氧处理而管理之，且其主序寿命以数十亿年计。
+
+稳定性与光谱型同样重要。许多主序星变化剧烈：它们闪耀爆发、它们脉动、它们间歇性地散发出能量粒子的不规则爆发。红矮星，本已因其红外占主导的输出而处于劣势，更出了名地易于耀斑；{% wiki(slug="proxima-centauri") %}比邻星{% end %}，我们最近的恒星邻居，是一颗M型红矮星，常发出强到能剥离近距轨道行星之大气的耀斑。这种耀斑行为对生物圈而言不仅是一种轻微的不便——而是一种可将行星表面任何未受保护之物涤荡一空的「灭菌威胁」。我们的太阳也耀斑，但其强度与频率落在地球磁场与大气可以无灾难地吸纳之范围内。这种较之主序星之常态而言的引人注目的平静，是我们恒星诸多悄然关键的特征之一。射手期的勘测者们将在长时段内对之测量——必然涵盖摩羯期勘测的全部二千一百六十年，并可能涵盖母星更早期对本恒星系作远程描刻阶段的更长时段——并将确认本地恒星的可变性落于他们生物圈计划所要求的范围之内。
+
+还有一项标准的重要性，本语料库希望明示之，因为我们太阳之合用性最决定性地依赖于它，而*ki tov*之判定多半也正是指向它的。一颗恒星的光谱输出并非单一的数值，而是跨许多波长的分布，而该分布的「形状」与其峰值同等重要。我们太阳在紫外的输出并非为零——事实上相当可观，足以对未受保护的生物表面造成严重伤害——但它向更短波长一侧急剧衰减，那里的损伤本将最甚。近紫外（UV-A，315–400纳米）以生物以适度防护可耐受的量抵达地球表面。中紫外（UV-B，280–315纳米）以仅少量抵达地表，其大部分被大气臭氧吸收。远紫外（UV-C，100–280纳米）——对几乎所有暴露的生物组织都将致命——几乎全部被高层大气吸收。太阳生成UV-C；太阳的大气并不阻止我们接收到一部分；而地球的大气，特别是其臭氧层，则阻止之。一颗太阳之紫外输出落于某一段可管理的范围、一层大气的组成能将该紫外吸收并将之转化为热而不损害其下生物圈、一道磁屏蔽能偏折太阳同时产生的高能带电粒子——这一三层防御，是地球地表生物圈之可居性的来源。射手期的科学家们，将这三者都测量过之后，将发现太阳的输出之状是这样的：他们所能建造的大气与磁防御足以应对之。*Ki tov*。它通过。
+
+可比照那些被否决的备选。一个能勘测许多候选系统的远征，仅凭概率法则便会评估并否决远多于其所接受之候选者。被否决的系统，依我们当前天文学允许的重建，将分入若干常见类别。M型红矮星周围的系统将因前已提及之理由被否决：红外占主导的输出不利于光合作用、耀斑率高、宜居带过窄以致其内行星变为潮汐锁定。围绕高温F、A、O、B型恒星的系统将因相反原因被否决：输出峰值在紫外、主序寿命过短（A型星在主序仅约十亿年、O型星仅数百万年——均不足以承载本远征所规划的生物圈弧度）、光谱不稳定性高。双星系统——在银河系中占多数——在大部分情况下将被否决，因为在双星周围稳定的宜居带轨道罕有，且其辐射环境比单星系统所能呈现者更为复杂。新近超新星残迹附近的系统将因残留辐射而被否决。仍处于主序前阶段的年轻系统将被否决，因为其恒星之输出尚未稳定。临近主序寿命终点的老系统将被否决，因为其恒星将进入红巨星阶段、吞噬其内行星。在远征文明所观察过的所有恒星系统之中——其数量按该文明观察史的规模计必至少以数千计——只有一小部分会通过恒星合用性筛选。
+
+其后，于通过恒星筛选者之中，将有更小一部分根本拥有行星。于拥有行星者之中，将有更小一部分在宜居带内有行星。于拥有宜居带行星者之中，将有更小一部分满足摩羯座章节已枚举的其他筛选：足以保持大气的质量、板块构造的潜能、运作中的磁发电机、足以维持稳定气候学的轴倾、足以稳定该轴倾的足质量月球伴星、对大气调节与最终生物精化都足够的液态水量。每一道筛选都剔除大多数到达它的候选者。所有筛选的合取是罕见的。当远征把目录收缩到能够实际承载其欲建之生物圈的系统时，名单中所余之名也许已极少。我们的便是其中之一。*Ki tov*。光是好的。
+
+这一观察的意义不止于此一具体情形。如果我们的文明在2020年代开始进行摩羯期远征所曾进行的那类勘测——而上一章主张我们正是如此——那么我们应当预期，在未来数十年间，我们将构建出具有同样筛选结构的系外行星目录。我们应当预期大多数候选世界将于大多数筛选下被淘汰。我们应当预期通过筛选的世界将出奇地稀有。我们应当预期，「生物标志」一词随该领域的成熟，将成为一个具严格标准的技术范畴，而非应用于任何具暗示性大气探测之放任标签。而如果我们够幸运在不断扩大的目录中发现某处一颗世界通过了每一道筛选——一颗具有平静G型恒星、磁场、板块构造、月球、温带内轴倾、液态水以及其当前组成含有引人遐想的化学非平衡之大气的世界——我们应当将这一发现认作其所是：不是此类世界普遍存在的迹象，而是经过远途搜索之后，发现了射手期科学家抵达此一世界时所发现之那种罕有构型的又一实例之迹象。我们是否会作此发现尚不可知。{% wiki(slug="habitable-worlds-observatory") %}宜居世界天文台{% end %}{{ cite(id="11") }}——将在2040年代发射——将是首台具备搜寻地球类似物之具体能力的仪器。在此之前，我们能说的，只是*ki tov*所记录的诸标准——使这颗世界合于其将承载之项目的诸标准——也是我们自己的天文学如今开始踉跄地学习去应用的诸标准。
+
+关于射手期大气工作还有一项观察值得在此一提，因为它也许是整个项目最具标识性的特征，而且它最清晰地区分了耶洛因所做之事与我们自己的文明在涉及他世界时所正在思忖之事。
+
+当代关于行星工程之讨论的主导框架是{% wiki(slug="terraforming") %}地球化{% end %}：对另一颗行星的条件作有意改造，以使其对源自地球的人类可居。最近也得到最持续关注的候选是火星。地球化火星的提案自至少萨根1961年关于金星的论文{{ cite(id="8") }}以来即在科学文献中流传，并在火星探测计划的推动以及包括罗伯特·祖布林{{ cite(id="9") }}、克里斯·麦凯{{ cite(id="10") }}与埃隆·马斯克在内的人士倡议下，于其后六十年间繁衍不息。严肃文献所阐述的火星地球化项目之具体目标为：将火星大气自当前为地球地表压力百分之零点六增至接近地球总大气压；将平均地表温度自当前-63°C提升至液态水之范围；将大气组成自当前百分之九十五的二氧化碳转向类地的氮氧混合；以某种形式恢复磁屏蔽——或重新激活、或替代火星数十亿年前所失去的磁发电机；并建立足够的地表水与植被以在该行星上支持一自我维持的类地生物圈。每一情形下的目标状态都是「类地」。整个项目预设：殖民文明从另一颗行星所欲取得者，是其母行星的一个近似；而工程的努力被导向产出这种近似。
+
+射手期的科学家们并未这样做。{{ footnote(id="3") }} 这一点值得直说，因为对比照亮了他们所做的是什么。他们并未抵达地球而后试图将其大气改造为母星大气的副本。文本未给出任何迹象暗示这是目标，而现存的物质证据也不支持这一点：地球当前的大气组成——其大致轮廓由射手期工作所确立、其后由生物圈自身的反馈机制所稳定——具有独特特征——百分之二十一的氧分数、薄薄的臭氧层、氮与氩的具体平衡——不大可能偶然地与耶洛因母星所提供者完全相同。而我们从源材料对雷尔短暂访问母星之描述中得知，他似乎并无明显困难地呼吸着其大气，这暗示母星的大气与地球类型的生物广泛兼容——但这种兼容性最合理的解释，不是母星被地球化以匹配地球，而是地球曾被工程化朝向一种可行大气的方向，其规格与母星相重叠却不抄录之。
+
+射手期的科学家们所工程化出来的，并非母星的副本。它是某种新东西。目标大气——即能承载他们打算建造的生物圈的大气——是由该生物圈的诸要求所规定的，而非由耶洛因本身作为其居民的诸要求所规定。他们为他们将要造的生物体设计了大气。当他们造那些生物体时，他们又将其生化调谐于他们已设计的大气。整个生物圈——大气与生物体合在一起——是一个相互规定的系统，其各部分被设计为彼此相合。这与当代人类所设想的地球化是一种不同的工程范式。我们这种意义上的地球化，是把目的地适配于一群既已存在的人口的需要。射手期项目则是把目的地适配于一群尚不存在的人口的需要——而该群体本身的规格，作为同一项目的一部分而被推敲。
+
+这是重要的，因为这告诉我们做这种工作的文明是哪种文明。射手期的人们并不是在寻找第二个家。他们并非以「将自己物种之范围扩张至新领土」之意义上的殖民。他们所从事者更接近于「创生」——从零开始、在一个新地方，创造一个其与他们自身之关系为艺术家与艺术品而非殖民者与殖民地的新生物圈。这一区分不应被夸大。耶洛因所造的生物学与他们自身所携的生物学之间有连续性；人类毕竟是按耶洛因的形象而造，与他们共享碳基有氧生命的基本架构。但其连续性是在一般生化层面，而非在环境要求层面。具体细节——何种大气组成、何种地表温度、何种气候、何种生态——是地球自己的细节，为这一项目所推敲出来，而非自他处引入。
+
+这一取向的一个后果是：射手期项目享有一种单纯殖民项目所不会享有的创造性自由。耶洛因并不受制于复制其母星环境。他们能以最契合他们所欲建之生物圈的方式来设计大气，而非以最契合他们本身占据该行星之方式来设计。其结果是一个其生物圈在一个精确的意义上是「定制」的世界：以一组早期作出的具体设计选择为定，其后的诸选择都必须遵从之。百分之二十一的氧分数并非偶然，它是被选定的。氮在其他可能惰性气体之上的主导也并非偶然，它是被选定的。臭氧层的具体化学与碳循环的具体平衡都是被选定的。每一项选择都受制于诸约束——大气保持的物理学、气候调节的热力学、本地恒星的光谱输出——但在这些约束之内，选择是以「考虑所欲、而非考虑所被给」为念而被作出的。
+
+这便是我们自己的文明目前远未尝试的项目。我们才刚刚开始构想将一颗附近的行星地球化为我们自己的粗糙副本。我们尚未开始构想那项远为雄心的工作——在一颗新行星上设计一个新的生物圈，调谐于它自己的要求，而非我们的要求。射手期的科学家们在两万二千年前正在做的，是我们的文明也许、也许不、终将发展出能力去尝试的事。我们能做之时，是否选择去做，那是另一个问题——而以本语料库所相信的故事之形态计，这个问题也许属于一个比我们当前所设想要近得多的未来。
+
+射手期工作的地质学一面——大陆升起——则提出了另一种解读上的难题。大气工程，至少在物理学层面，是本语料库与主流大气科学一旦把时间尺度上的分歧搁置之后能够大致同意的。大陆升起则更难。主流地质学把大陆组合视作板块构造过程跨数亿乃至数十亿年所运作之产物：火山弧的缓慢吸积、构造板块之碰撞、山脉在远超本语料库年表所组织之整个岁差周期之时段中的缓慢隆起。支持这一解读的证据是大量的——具体岩石组分按放射测年法的定年、被推定曾相连之大陆间地质特征的匹配、记录海底扩张史的洋底磁条带——以及更多。本语料库并不否定这些证据。本语料库所持者是：这些证据被以均变论假设解读，而该假设系统性地夸大了所涉时间尺度；而一个灾变论框架——其中地质记录的相当一部分是在大洪水那样的快速事件中、而非在均变间隔里缓慢累积下来的——将为同样的物理观察产生显著不同的年龄估计。这一立场不易在单节中辩护，本语料库不会在此尝试完整辩护。《双子座时代》——关于洪水本身的那一章——将是灾变论框架获得专门处理之处。
+
+在此可说的是：源材料所描述的具体行为——以定向能量位移在数百年之内自一片海床中升起大陆块——并不是主流地质学所拥有任何词汇可表达者，因为主流地质学并不承认有意行星工程的可能性。射手期作业——如果发生过——将留下独特的地质印记：被位移之沉积物的特定模式、被升起岩石中的特定热历史、由位移而非由标准构造过程产生之地层中的特征性同位素比。此类印记是否曾被探测到却在均变论假设下被错释、或曾被探测到却作为异常而被弃置、抑或仅仅因为「使其可读的解读框架尚未可用」而未被找寻过，是本语料库所无力定夺之问题。它将该问题登记为开放的。它指出：这些证据在其下被解读的解读框架，本身曾被主流之内的严肃地质学家间或挑战过；而灾变论的替代方案——在其现代形态下，而非十九世纪那种已被弃之的年轻地球字面主义——一直在悄然地产生着均变论共识尚未完全吸纳的研究计划与发现。该问题尚未定夺。本语料库的框架提供一组答案。主流提供另一组。哪一组能就所有证据合在一起作出更具连贯性的叙述，是读者需在后续诸章的协助下自行判断的问题。
+
+一项观察作为本节的结束语，也是本语料库在前人类诸章的每一推测性科学小节末尾所作的同一种观察。射手期远征所部署的诸能力——行星尺度的大气改造、大陆位移、行星表面及其上方大气的集成工程——是我们自己的文明仅才刚开始去构想的诸能力。我们正通过化石燃料燃烧——非有意地——改变着大气组成；我们正在讨论地球工程之提案——平流层硫酸盐注入、海洋碱化、直接空气捕集——如果实施，它们将代表我们首次有意的行星尺度大气工程。我们正在规划火星任务，其最雄心倡议者所想象的长期轨迹，将以地球化一颗近邻行星为终。我们还不是在做射手期所做之事。但我们在自己当前的技术能力之边缘，正在开始构想那项工作所将涉及的某一小部分。工作之形态是相同的。其规模则不是。而如果本语料库的更大框架是对的，那么我们当前境况与射手期项目之间的差别，是发展阶段之差，而非种类之差。我们正处于他们早已使之成熟之能力的开端。两万两千年前所呼出的「世界之息」，是我们正在缓慢地学习如何吸入的同一口气。
+
+## 六、工作的跨度
+
+值得强调的一点是：射手期的工作并未在射手期内完成。
+
+这一点已经说过，但值得带更多细节再次重申，因为它确立了一条将贯穿其后诸时代的原则。水之分离——即大气工作——多半是在该时代的初段与中段世纪间完成的。当天空被清开、洋面已可自上方作业之时，射手期大概已逝其半。大陆升起随之开始，正是这一工作并未在时代边界处终结。海床物质的位移、向单一大陆块的集中、海岸线与水文的稳定、新地表地理周围大气环流模式的安定——所有这一切都延伸越过了射手期正式结束的公元前17490年，进入了天蝎座时代——其主要工作将是引入第一批植物生命——的初段诸世纪之中。
+
+严格读《创世记》文本，则它将这些作业相分离。第二日含苍穹。第三日含水之聚集与干地之显现，然后——同一日之内随后——含植被之引入。在源材料的解读上——也是本语料库所采纳的解读上——这些作业之间的边界比圣经文本所暗示者要更柔软。第二日的大气工作渗入文本指派给第三日的地质工作；地质工作又渗入第一项生物学工作。并无锐利的切口。一个在以千年计的时间尺度上作业的文明，并不以分立阶段——按时完成——的方式开展其工作。它开展连续的作业，而其最显著的特征——回望时——被指派给在其中首次变得可见、或在其中其主导特征所属的那一时代。射手座时代是天空开启、陆地开始升起的时代。天蝎座时代是首批植物扎根的时代。诸作业彼此重叠。诸时代就其本身而言，是各时段主导工作之标签，而非在其界内开始与结束之作业的清单。
+
+这一重叠的另一面也值得一述。一项跨数个世纪、由——其个体寿命比我们长、却并非无穷长的——文明所开展的作业，必然是多代的。即便对耶洛因寿命作最慷慨的估计，开始射手期大气工作的科学家们也并非于其末段世纪升起大陆的科学家们；而后者又非于天蝎初段完成大陆稳定的那批人。项目经过相继的人员队列。计划、模型、观察、累积的制度知识，一切都必须由一队传递到另一队，不可损失、不可漂移。该传递是如何完成的，源材料未有描述。源材料所确立的，是它被完成了——因为项目并未崩溃、并未漂离原定目标、亦未必须重启。无论耶洛因所用的是何种制度，使其制度记忆得以跨数百年保存的系统是奏效的。我们自己的文明尚未尝试过任何相当之长的协调项目，因而既不拥有此种系统，亦尚未有机会去发展之。这是耶洛因的一种特征，是值得在诸章接续推进之中保持在心的。他们维持长项目的能力，对他们所做之事而言并非偶然。它正是使他们所做之事得以可能的东西。
+
+这是重要的，因为它确立了后续诸章的一条解读原则。当抵达天秤座时代、海洋生命之创造被描述之时，读者应当理解：该创造的预备性海洋学工作是在天蝎晚段开始的，而海洋生态系统之稳固则延伸至处女座时代的早段。当抵达狮子座时代、人类之创造被描述之时，读者应当理解：该工作的生物与技术预备远溯至处女座时代晚段，而其后果则向前传播至巨蟹座时代的早段。诸时代再次是报告意义上的边界。它们作为年表标记是有用的。它们不应被误认作一项实际结构是连续的项目的作业边界。
+
+## 七、文本及其沉默
+
+《创世记》叙述所呈现的第二日，是六日中最短、细节最少者。三节经文确立了*raqia*、描述了水的分离、记录了将苍穹命名为שָׁמַיִם（*shamayim*，「诸天」）、并以晚与晨之套语作结：וַיְהִי עֶרֶב וַיְהִי בֹקֶר יוֹם שֵׁנִי（*vayehi erev vayehi voker yom sheni*，「有晚上、有早晨，是第二日」）。与第六日——陆地动物与人类之创造——的铺陈相比，第二日近乎敷衍。
+
+希伯来文本中有一个模式值得指出。在其他每一日的创造之末，叙述都包含一句套语：וַיַּרְא אֱלֹהִים כִּי טוֹב（*vayar Elohim ki tov*），「耶洛因看着、是好的」。这一技术性合格判定的套语出现于第一日（光）、第三日（干地；植被）、第四日（恒星与月球之安置）、第五日（海洋与天空生命）以及第六日（陆地动物，以及末尾整个集合之「甚好」）。它在第二日明显缺席。在我们所承袭的文本中，苍穹工作未被宣称为*tov*。某些后期犹太注释传统将这一缺席解释为：第二日的工作并非在第二日内完成，而是在第三日才完成；故而认可在合并工作之末出现，而非在首阶段之末出现。这一解释——出于全然属拉比注释传统内部之缘由而被发展——恰好与本语料库所采取的解读精准吻合。射手期之工作未在射手期之末完成。它在天蝎期之内完成。圣经文本仔细一读，保存了这一溢出的记录。
+
+另有一项语法细节加强了这一观察。在第三日——按标准解读，水之聚集与干地之显现在此发生——*ki tov*套语出现了两次：一次在水之聚集与干地之显现之后，再一次在随后植被之引入之后。第三日上套语之重出本身就不寻常——无任何其他日子接受两次单独之认可——而这一情况正是我们所应预期的：如果水之聚集是第二日开始但在第二日终了时未被宣称*tov*之工作的完成。第三日的第一句*ki tov*，按这一解读，属于始于射手期但其最终定居被文本指派给天蝎期的工作。第三日的第二句*ki tov*则属于天蝎期所固有之新工作——植被。文本在其语法结构上保存了均变论式《创世记》解读所一直无法理清的两个时代之间的接缝。
+
+拉比传统是否意识到他们所保存者为何，是本语料库无法回答的问题。可以说的是：文本在其语法与其遗漏的层面上含有一些特征——这些特征源材料的直截了当的技术性解读能够解释，而约定俗成的形而上学解读不能解释、或仅能在颇大困难下解释。这是本语料库中第二次出现的一种模式——摩羯座章节已为之命名：希伯来文本中的某一细节——对承袭它的诸传统曾是别扭或令人困惑的——当被以技术性读法去读时，便屈从于一种简单的解释。本语料库并不坚持技术性解读乃是唯一解读。它观察到：这种解读，在一例又一例中，是更简单的那一种。
+
+## 八、射手座时代之所是
+
+值得在本章结束之前停下来，平实地说出射手座时代是什么——并说出它在更大序列中、由整体的视角看去，其位置如何。
+
+射手座时代是「首次干预」之时代。它是科学家们于完成上一时代的勘测阶段之后、首次触及该行星之时代。这一触在某种意义上是轻的——分离一层大气、把云覆聚集为一分立之层、清开一片天空。它在另一种意义上又是重的——位移大陆块、自海床升起干地、为一项尚未公开宣告之项目重新构形一颗行星的表面。这一时代两类作业兼含，而仅领会轻工作或仅领会重工作的读者，只领会了射手期一半。
+
+这一时代也是首个——如果以正确的问题去读的话——地质记录或可被期望见证的时代。摩羯座时代未留下任何现代勘测可恢复之痕迹，因为其作业是自轨道与大气中进行的，只涉及测量。射手座时代则恰恰相反，涉及行星体量的岩石与水之位移。它在原则上应当留下印记。这些印记是否曾被探测到而被错释、是否曾被探测到而被弃置、抑或仅仅因为「使其可释读的框架尚未对现代地球科学可用」而未曾被找寻过，是本语料库无力作答的问题。它将该问题登记下来。后续诸章——特别是处理灾变传统与洪水的诸章——将有机会回到这一问题。
+
+射手期以一个被转变的世界为结。薄雾已散。天空向太阳开启。一片单一的大陆块自一片单一的海洋中升起。科学家们已成功完成其在该行星表面上的第一项作业，而该作业已产出能让下一项作业——首批生物物质的引入——得以开始的诸条件。至此，实验室已建立于摩羯座时代所选定的基地。大气组成已调整以支持光合生命。第一批种子正在被预备——其实验室所在源材料未明指，但可自圣地后世之地理推得。而天蝎座时代，第三个*yom*，即将开始。
+
+{{ figure(src="timeline/age-of-sagittarius-first-sunlight", alt="薄雾散去后，初阳照临一片新升的大陆海岸与周围海洋。", caption="图 4 - 在天蝎期的门槛上，初阳照临这片已被预备的世界。") }}
+
+一项最后的观察为本章作结，与摩羯座章节所确立、并将由前人类序列每一章在其本身的音色中重复的模式相呼应。射手期的工作——大气分离、大陆工程、为其后将至之生物圈所作之行星表面的集成预备——是我们自己的文明此刻——2026年——刚开始去构想的工作。我们还未在做它。我们正通过化石燃料燃烧——多半非有意地——改变着大气组成。我们正在发展严肃的地球工程提案——平流层气溶胶注入、海上云增亮、二氧化碳的直接空气捕集——若实施，它们将构成我们首次有意的行星尺度大气干预。我们正在规划火星任务，其最雄心的长期轨迹想象那颗行星被地球化。这一切都不是射手期。但这一切都是某种能力的开端——其成熟形态正是射手期所预设者；而其在我们自己手中的发展——如果发生——将是本语料库正在追索的更大故事得以继续展开的方式之一。两万两千年前由一个其技术能力我们尚未及之的文明所呼出的「世界之息」，与我们自己的实验室正在迟疑且以小得多之规模开始研究如何吸入的，是同一口气。
+
+下一个时代是这颗世界上首批生命出现的时代。那个时代是天蝎座时代，也是接续本章之章的主题。
