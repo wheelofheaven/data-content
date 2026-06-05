@@ -1,6 +1,6 @@
 {
   "$schema": "./glossary-schema.json",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "updated": "2026-06-05",
   "description": "Terminology glossary for consistent translations across all languages",
   "terms": [
@@ -748,6 +748,219 @@
         "he": "יום הבריאה"
       },
       "notes": "Ordinals constructed regularly per language (1st Day → 1. Schöpfungstag / 1er jour de la Création / 創造の第1日 / 창조의 첫째 날 / 1-й день Творения / 创造的第一日 / 創造的第一日 / היום הראשון לבריאה). he: יום הבריאה."
+    },
+    {
+      "id": "terraforming",
+      "category": "science",
+      "definition": "The hypothetical engineering of a planetary surface and atmosphere to make it habitable. The corpus reads several precessional ages (Sagittarius / Scorpio / Libra) as terraforming phases preceding the biological-creation phases.",
+      "translations": {
+        "en": "terraforming",
+        "de": "Terraformierung",
+        "es": "terraformación",
+        "fr": "terraformation",
+        "ja": "テラフォーミング",
+        "ko": "지구화",
+        "ru": "терраформирование",
+        "zh": "地球化",
+        "zh-Hant": "地球化",
+        "he": "עיצוב מחדש"
+      },
+      "notes": "Wiki slug `terraforming` resolves to a corpus entry."
+    },
+    {
+      "id": "astrobiology",
+      "category": "science",
+      "definition": "The scientific discipline studying life beyond Earth — its possible forms, detection signatures, and the conditions under which it can arise. The corpus's 'scientific overlay' on the Capricorn-age survey-and-target-selection phase tracks contemporary astrobiology's instrumentation directly.",
+      "translations": {
+        "en": "astrobiology",
+        "de": "Astrobiologie",
+        "es": "astrobiología",
+        "fr": "astrobiologie",
+        "ja": "宇宙生物学",
+        "ko": "우주생물학",
+        "ru": "астробиология",
+        "zh": "天体生物学",
+        "zh-Hant": "天體生物學",
+        "he": "אסטרוביולוגיה"
+      }
+    },
+    {
+      "id": "elohim-home-planet",
+      "category": "core",
+      "definition": "The planet of origin of the Elohim — the world from which they departed before arriving on Earth in the Capricorn age. The wiki entry treats the canonical-source claims about its star, distance, and conditions.",
+      "translations": {
+        "en": "Elohim home planet",
+        "de": "Heimatplanet der Elohim",
+        "es": "planeta de origen de los Elohim",
+        "fr": "planète d'origine des Élohim",
+        "ja": "エロヒムの母惑星",
+        "ko": "엘로힘의 본국 행성",
+        "ru": "родная планета Элохим",
+        "zh": "耶洛因故乡行星",
+        "zh-Hant": "耶洛因母星",
+        "he": "כוכב הלכת של האלוהים"
+      },
+      "notes": "Short-form variants (Heimatplanet / 母星 / 故乡行星 / planète d'origine) are acceptable in body prose when the antecedent is clear; use the full form on first mention."
+    },
+    {
+      "id": "garden-of-eden",
+      "category": "bible",
+      "definition": "The original creation-site of the first humans in Genesis 2–3. In the corpus's reading, the laboratory or controlled environment in which the Elohim conducted the initial human-genesis work.",
+      "translations": {
+        "en": "Garden of Eden",
+        "de": "Garten Eden",
+        "es": "Jardín del Edén",
+        "fr": "Jardin d'Éden",
+        "ja": "エデンの園",
+        "ko": "에덴동산",
+        "ru": "Эдемский сад",
+        "zh": "伊甸园",
+        "zh-Hant": "伊甸園",
+        "he": "גן עדן"
+      }
+    },
+    {
+      "id": "ezekiel",
+      "category": "bible",
+      "definition": "Hebrew Bible prophet (6th c. BCE) whose visions — especially the chariot of Ezekiel 1 — the corpus reads as direct first-person testimony of an Elohim craft seen at close range.",
+      "translations": {
+        "en": "Ezekiel",
+        "de": "Hesekiel",
+        "es": "Ezequiel",
+        "fr": "Ézéchiel",
+        "ja": "エゼキエル",
+        "ko": "에스겔",
+        "ru": "Иезекииль",
+        "zh": "以西结",
+        "zh-Hant": "以西結",
+        "he": "יחזקאל"
+      },
+      "notes": "de uses Luther's 'Hesekiel'; Catholic German tradition sometimes uses 'Ezechiel'. zh uses Union Version (和合本) convention. ko uses 'Eseuk-gel' (에스겔, Protestant) — Catholic 한국 Bible uses 에제키엘."
+    },
+    {
+      "id": "drake-equation",
+      "category": "science",
+      "definition": "Frank Drake's 1961 probabilistic formulation estimating the number of communicating civilisations in the Milky Way as the product of seven factors (star-formation rate, fraction with planets, fraction habitable, fraction with life, fraction intelligent, fraction communicating, average lifetime). The corpus uses the equation as the contemporary scientific frame for the Capricorn-age target-selection problem.",
+      "translations": {
+        "en": "Drake equation",
+        "de": "Drake-Gleichung",
+        "es": "ecuación de Drake",
+        "fr": "équation de Drake",
+        "ja": "ドレイクの方程式",
+        "ko": "드레이크 방정식",
+        "ru": "Уравнение Дрейка",
+        "zh": "德雷克方程",
+        "zh-Hant": "德雷克方程式",
+        "he": "משוואת דרייק"
+      }
+    },
+    {
+      "id": "jwst",
+      "category": "science",
+      "definition": "The James Webb Space Telescope (launched 2021, science operations from 2022) — the contemporary instrument whose transit-spectroscopy capability the corpus reads as the early-stage analogue of the long-range characterisation phase the Elohim are described as having conducted on Earth.",
+      "translations": {
+        "en": "James Webb Space Telescope",
+        "de": "James-Webb-Weltraumteleskop",
+        "es": "Telescopio Espacial James Webb",
+        "fr": "Télescope spatial James-Webb",
+        "ja": "ジェイムズ・ウェッブ宇宙望遠鏡",
+        "ko": "제임스 웹 우주 망원경",
+        "ru": "космический телескоп «Джеймс Уэбб»",
+        "zh": "詹姆斯·韦伯太空望远镜",
+        "zh-Hant": "詹姆斯·韋伯太空望遠鏡",
+        "he": "טלסקופ החלל ג'יימס וב"
+      },
+      "notes": "Abbreviation 'JWST' is retained as-is across all languages (per international astronomy convention). Use the full name on first mention, then the abbreviation."
+    },
+    {
+      "id": "proxima-centauri",
+      "category": "science",
+      "definition": "The nearest star to the Sun (~4.24 light-years), with a known terrestrial-mass planet in the habitable zone (Proxima b). The corpus uses it as the contemporary instrumentation benchmark for what's reachable with present-day technique.",
+      "translations": {
+        "en": "Proxima Centauri",
+        "de": "Proxima Centauri",
+        "es": "Próxima Centauri",
+        "fr": "Proxima du Centaure",
+        "ja": "プロキシマ・ケンタウリ",
+        "ko": "프록시마 센타우리",
+        "ru": "Проксима Центавра",
+        "zh": "比邻星",
+        "zh-Hant": "比鄰星",
+        "he": "פרוקסימה קנטאורי"
+      },
+      "notes": "zh/zh-Hant use the calque '比邻星 / 比鄰星' (nearest-neighbour star) rather than transliteration; this is the standard PRC / Taiwan astronomy convention."
+    },
+    {
+      "id": "habitable-worlds-observatory",
+      "category": "science",
+      "definition": "NASA's planned successor to Hubble/JWST (concept announced 2023; launch target ~2040s), designed to characterise atmospheric biosignatures of dozens of Earth-analogue worlds around nearby stars.",
+      "translations": {
+        "en": "Habitable Worlds Observatory",
+        "de": "Habitable Worlds Observatory",
+        "es": "Observatorio de Mundos Habitables",
+        "fr": "Observatoire des Mondes Habitables",
+        "ja": "ハビタブルワールズ天文台",
+        "ko": "거주가능 세계 관측소",
+        "ru": "Habitable Worlds Observatory",
+        "zh": "宜居世界天文台",
+        "zh-Hant": "適居世界天文台",
+        "he": "Habitable Worlds Observatory"
+      },
+      "notes": "ru/de/he keep the English name (Russian astronomy-press convention; German scientific press often does the same). Translate the parenthetical descriptive gloss into the target language on first mention. Acronym HWO is universal."
+    },
+    {
+      "id": "breakthrough-starshot",
+      "category": "science",
+      "definition": "The Breakthrough Initiatives interstellar-probe concept (announced 2016, design study ongoing) for laser-pushed gram-scale spacecraft to Alpha/Proxima Centauri on a ~20-year timeline. The corpus uses it as the contemporary candidate for the kind of long-range Capricorn-age survey approach.",
+      "translations": {
+        "en": "Breakthrough Starshot",
+        "de": "Breakthrough Starshot",
+        "es": "Breakthrough Starshot",
+        "fr": "Breakthrough Starshot",
+        "ja": "ブレークスルー・スターショット",
+        "ko": "브레이크스루 스타샷",
+        "ru": "Breakthrough Starshot",
+        "zh": "突破星击",
+        "zh-Hant": "突破星擊計畫",
+        "he": "Breakthrough Starshot"
+      },
+      "notes": "Program-name convention — most languages keep the English name. zh and zh-Hant render as 突破星击 / 突破星擊 (with 計畫 'program' in Taiwan tradition). ja and ko use katakana/hangul phonetic forms."
+    },
+    {
+      "id": "k2-18b",
+      "category": "science",
+      "definition": "An exoplanet ~124 light-years away whose atmosphere shows tentative spectroscopic evidence of dimethyl sulphide (a possible biosignature), as observed by JWST in 2023–2025. The corpus uses it as the contemporary example of the kind of remote-detection result the Elohim survey would have generated.",
+      "translations": {
+        "en": "K2-18b",
+        "de": "K2-18b",
+        "es": "K2-18b",
+        "fr": "K2-18b",
+        "ja": "K2-18b",
+        "ko": "K2-18b",
+        "ru": "K2-18b",
+        "zh": "K2-18b",
+        "zh-Hant": "K2-18b",
+        "he": "K2-18b"
+      },
+      "notes": "Astronomical designation kept in Latin script across all languages per international astronomy convention. The same convention applies to all exoplanet / star catalogue designations (TRAPPIST-1, HD 209458 b, etc.)."
+    },
+    {
+      "id": "parasang",
+      "category": "comparative",
+      "definition": "An ancient Persian / Iranian unit of distance (roughly 5–6 km depending on era and surface). The corpus invokes it as the canonical ancient-measure analogue of the corpus's stated Elohim-home-planet distance figure.",
+      "translations": {
+        "en": "parasang",
+        "de": "Parasange",
+        "es": "parasanga",
+        "fr": "parasange",
+        "ja": "パラサング",
+        "ko": "파라상",
+        "ru": "парасанг",
+        "zh": "帕拉桑",
+        "zh-Hant": "帕拉桑",
+        "he": "פרסה"
+      },
+      "notes": "Italicised in body as a foreign technical unit. he 'פרסה' is the cognate ancient unit (1 פרסה ≈ 4 mil ≈ 3.84 km in Talmudic sources); other langs use phonetic transliteration."
     }
   ],
   "categories": {
