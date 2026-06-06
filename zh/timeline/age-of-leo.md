@@ -1,123 +1,428 @@
 +++
-template = "timeline-page.html"
 title = "狮子座时代"
-period = "11'010—8'850BC"
-age = "leo"
-description = "狮子座时代，从公元前11010年持续到公元前8850年，在《Wheel of Heaven》叙事中紧随处女座时代。这个时代以陆地动物的创造为标志，紧接着海洋生物和鸟类的确立。如今植被丰富的地球为这些新的食草动物提供了丰富的资源，后来引入了食肉动物以维持生态平衡。这个时代的一个重要发展是创造了类似外星科学家自己的人造人类。这导致了他们母星上的争议，因为担心这些新生物可能在能力上超越其创造者。因此，新创造的人类被留下来原始地生活，没有科学知识，据说每个人类种族对应一个创造者团队。"
-image = "human-genesis.png"
-weight = 230
+description = "大年中的第六个时代。创造计划在此达至巅峰——陆地动物先行，随后由七个派系团队按造物者的形象塑造人类，并建立伊甸园。"
+template = "timeline-page.html"
+toc = true
+
+[extra]
+symbol = "♌"
+color = "yellow"
+start_year = "-11010"
+end_year = "-8850"
+genesis_day = 6
+genesis_verse = "我们要照着我们的形象、按着我们的样式造人，使他们管理海里的鱼、空中的鸟、地上的牲畜，和全地，并地上所爬的一切昆虫。"
+genesis_interpretation = "狮子座时代是创世记中的第六个yom（日）。陆地动物完成了陆地食物网；随后，七个派系团队按各自的形象造出人类——每一个种族对应一个团队；而其中最有才华的团队，在如今的以色列一带建立了伊甸园。"
+
+footnotes = [
+    { content = "本章引入的七个派系团队——每个团队产生一个伊甸园之后的人类族系，每个团队都设在超大陆某一特定地理区域——是本套语料对人类多样性解读的政治与解剖学钥匙。当政治形势恶化时，《巨蟹座时代》与《双子座时代》将回到这一派系结构。" },
+    { content = "创世记1:26中的呼吁式动词 *na'aseh adam be-tzalmenu*（“我们要照着我们的形象造人”）是本套语料关于以复数主语解读耶洛因的最直接的语法证据。这种复数动词形式无法以“尊严复数”之类的方便解释一笔带过。" },
+    { content = "线粒体夏娃约15万至20万年前的年代指的是某一特定的单倍体世系，而不是现代完整人口最近的共同祖先。第VII节论证后者的年代要近得多，并落在原文13,320年这一数字所暗示的范围内。" },
+]
+
+references = [
+    { title = "Le Livre qui dit la vérité", author = "Claude Vorilhon (Rael)", date = "1974", medium = "religious-text", path = "/library/lets-welcome-the-extraterrestrials/" },
+    { title = "Les Extra-Terrestres m'ont emmené sur leur planète", author = "Claude Vorilhon (Rael)", date = "1975", medium = "religious-text", path = "/library/extraterrestrials-took-me-to-their-planet/" },
+    { title = "创世记（Genesis）", author = "佚名（希伯来圣经）；WoH 据点元音的马所拉希伯来文翻译", date = "公元前6至5世纪", medium = "religious-text", path = "/library/genesis-woh/" },
+    { title = "The Apportionment of Human Diversity", author = "Richard C. Lewontin", publication = "Evolutionary Biology 6, 381–398", date = "1972", medium = "academic-paper", description = "经典发现：约85%的人类遗传变异存在于种群内部，仅约15%存在于种群之间。" },
+    { title = "Mitochondrial DNA and Human Evolution", author = "Rebecca L. Cann, Mark Stoneking, Allan C. Wilson", publication = "Nature 325, 31–36", date = "1987", medium = "academic-paper", url = "https://doi.org/10.1038/325031a0", description = "线粒体夏娃论文。" },
+    { title = "Genome editing of human embryos: broadening the ethical debate", author = "贺建奎（案例讨论）；参见美国国家科学院报告", date = "2018", medium = "academic-paper", description = "贺建奎对人类胚胎所做的 CCR5 CRISPR 编辑，并导致双胞胎女孩（露露与娜娜）出生——史上首次公开宣布的人类生殖系基因编辑。" },
+    { title = "A Programmable Dual-RNA–Guided DNA Endonuclease in Adaptive Bacterial Immunity", author = "Martin Jinek, Krzysztof Chylinski, Ines Fonfara, Michael Hauer, Jennifer A. Doudna, Emmanuelle Charpentier", publication = "Science 337 (6096), 816–821", date = "2012", medium = "academic-paper", url = "https://www.science.org/doi/10.1126/science.1225829", description = "奠定现代人类基因工程时代的 CRISPR-Cas9 基础论文。" },
+    { title = "FDA Approves First Gene Therapies to Treat Patients with Sickle Cell Disease", author = "美国食品药品监督管理局", date = "2023年12月", medium = "website", url = "https://www.fda.gov/news-events/press-announcements/fda-approves-first-gene-therapies-treat-patients-sickle-cell-disease", description = "FDA 批准 Casgevy（首个基于 CRISPR 的疗法）和 Lyfgenia 用于治疗镰状细胞病。" },
+]
+
+[[extra.prev_age]]
+name = "处女座时代"
+symbol = "♍"
+link = "/timeline/age-of-virgo/"
+
+[[extra.next_age]]
+name = "巨蟹座时代"
+symbol = "♋"
+link = "/timeline/age-of-cancer/"
 +++
 
-The Age of Leo lasts from –11'010 to –8'850 and follows the Age of Virgo which lasted up to –11'010.
 
-{{ figure(src="timeline/equinox_bc11010", caption="Fig. 1 - Vernal equinox in 11010 BC") }}
+## I. 时代本身
 
-## Animal kingdom
+第六个时代是镜子的时代。
 
->> Let the earth bring forth the living creature according to its kind: cattle and creeping thing and beast of the earth, each according to its kind.
->> Genesis 1: 24.
->
-> After marine organisms and birds, the scientists created land animals on a planet where the vegetation had by now become magnificent. There was plenty of food for the herbivores. These were the first land animals which were created. Later they created carnivores to balance the herbivorous population. Here too, the species had to maintain equilibrium. Those scientists who did all this came from the same planet as me. I am one of those people who created life on Earth.
+狮子座时代从公元前11,010年延续至公元前8,850年，共2,160年，紧接处女座时代之后。在这个时代中，经过逾万年的持续工作，创造计划终于产生了它从一开始就在为之努力的造物：按造物者形象塑造的存在。创世记的文本将此标记为第六日，并以此前各日所未见的庄严仪式来处理——著名的短语 נַעֲשֶׂה אָדָם בְּצַלְמֵנוּ כִּדְמוּתֵנוּ（*na'aseh adam betzalmenu kidmutenu*），“我们要照着我们的形象、按着我们的样式造人”，由复数主语在动作开始之前对自己说出。这种仪式反映了即将发生之事的分量。此前的每一项造物都指向行星、生物圈、维持生命所需的条件；而这一项造物指向造物者自身。科学家们正要造出与自身相似的存在，而这样做也将改变整个计划的意义——对于他们所造的人类、对于母星的文明、对于他们自身对其工作的理解，皆是如此。
 
-In the quoted passage from the Raëlian book "The Book Which Tells the Truth," it is explained that scientists from another planet, including the speaker (Yahweh), created various forms of life on Earth. After developing marine organisms and birds, they focused on land animals. Initially, they created herbivores, supported by the already flourishing vegetation. To maintain ecological balance, carnivores were later introduced. The ultimate goal of these extraterrestrial scientists was to establish a harmonious ecological order on Earth.
+本章的章题——《镜子》——命名了这个时代所产生之物。在此之前，创造计划一直面向外部：它产生了与造物者不同的生物，是为行星而非为造物者形象所校准的生物，是用以填充环境而非反映造物者群体的生物。随着人类的创造，这一计划转向内部。科学家们造出的存在，在看着造物者时，能认出自己。这就是镜子。这是狮子座与之前每一个时代在范畴上根本不同的原因。先前的时代产生了一个被居住的世界。狮子座则产生了一个包含造物者自身倒影的世界。
 
-Engineering a balanced ecological order is a complex process that involves understanding and manipulating various factors and components of an ecosystem. To create such an order, one must first study existing ecosystems, gaining insight into their structure, function, and the relationships between various living organisms and their environment. A key aspect of this process is identifying keystone species, which play a critical role in maintaining the structure and function of an ecosystem. By introducing these species into an engineered ecosystem, it is possible to establish the foundation for a balanced ecological order.
+按 {% wiki(slug="raelism") %}雷尔运动{% end %} 的解读，这一时代映射到 {% wiki(slug="genesis") %}创世记{% end %} 第一章其余部分，从第24节起一直延伸到该章末尾。陆地动物先于人类出现在文本中。然后，在陆地动物之后，文本引入复数自我对话以及人类的创造。然后是祝福。然后是当日末尾的全面认可——*vayar {% wiki(slug="elohim") %}耶洛因{% end %} et kol asher asah ve-hineh tov me'od*，“{% wiki(slug="elohim") %}耶洛因{% end %} 看一切所造的，都甚好”——其中带有一个在以前任何一日都没有出现过的强化词 *me'od*（“甚”）。第六日不仅得到认可，而且得到最高级别的认可。某项重要的工作已经完成。
 
-Designing a stable food web and considering trophic interactions are also important factors in engineering an ecological order. This involves ensuring the presence of primary producers, such as plants, which form the base of the food web, as well as herbivores, carnivores, and decomposers. It is crucial to maintain the right balance of these species to prevent overpopulation or depletion of resources. Another aspect of creating a balanced ecological order is managing population dynamics. This includes monitoring and controlling the growth and decline of different species to maintain equilibrium in the ecosystem. This may involve using natural predators, introducing new species, or implementing population control measures.
+本章将大致按原文呈现的顺序走过第六日。首先是陆地动物，即完成陆地生态系统的哺乳动物群。然后是人类的创造本身，由七个派系团队并行在超大陆的各个区域进行。再然后是那次创造的年代测定，原文自身的内在数理推论将其定位在处女座与狮子座的交界附近。然后是最有成就的那支团队所开展的工作——他们的实验室花园，后世传统将其铭记为 {% wiki(slug="eden") %}伊甸{% end %}。然后是技术层面的内容：设计人类实际上需要什么、人类与其灵长类模板之间有何区别、群体遗传学证据如何与原文叙述相符、本套语料如何解读七个团队所产生的人类多样性。然后是首批人类所处的规则、随之而来的麻烦，以及狮子座时代留给巨蟹座去发展的政治格局。最后，在本章结束之前，将专门讨论狮身人面像——它是迄今所存最早的人类纪念物，按本套语料所采用的另一种考古解读，它正是对这一时代的岁差性纪念。
 
-Habitat creation and restoration are also essential in engineering an ecological order. Providing suitable living conditions and resources for various species is vital for their survival and well-being. This includes creating and preserving diverse habitats, such as forests, grasslands, wetlands, and aquatic environments. Ongoing monitoring and adaptive management are necessary for maintaining a balanced ecological order. By regularly assessing the health and stability of the engineered ecosystem, adjustments can be made to address any imbalances or issues that arise. This could include reintroducing species, removing invasive species, or altering habitat conditions to better support the ecosystem's overall health.
+伊甸园的叙事并未在狮子座时代结束。它延伸至下一个时代——巨蟹座时代，那里将展开被逐出的事件、园外第一批后代的诞生，以及伊甸之后早期人类的历史。狮子座是创造的时代。巨蟹座将是创造之后果的时代。
 
-{{ figure(src="wiki/lion-and-crocodile-struggle", caption="Ill. 2 - Struggle between a lion and a crocodile") }}
+## II. 经文
 
-The Elohim scientists, with their advanced scientific knowledge and expertise in genetic engineering, would have likely approached the creation of a balanced ecological order by first studying the biology and characteristics of various organisms. They may have started by creating simpler life forms, such as single-celled organisms, and observed their interactions and impact on the environment. As they gained more understanding of these life forms, they might have introduced more complex organisms, such as plants and simple animals, while monitoring their interactions with one another and the environment. This would have allowed them to better understand the ecological dynamics and the requirements for creating a stable ecosystem.
+第六日的希伯来文是各创造日中最长的一段，从 {% libref(book="genesis-woh", chapter=1, verse=24) %}创世记1:24{% end %} 延续至1:31。它包含整段叙述中最具特色的语法特征，理应得到我们在前几章中对前几日所给予的细致对待。
 
-With this knowledge, they could have gradually introduced more advanced and specialized species, including herbivores, carnivores, and omnivores, while ensuring that these species played specific roles in the ecosystem. They would have focused on establishing functional relationships between these species to maintain a balanced food web, ensuring that the energy and nutrients flowed throughout the system efficiently. To create the wide variety of animal species we see today, the Elohim scientists might have used their expertise in genetic engineering to adapt existing species to various habitats and conditions. This would have led to the development of species with unique adaptations suited for different environments, such as desert-dwelling animals, aquatic species, and high-altitude creatures.
+第24节以引入陆地动物开篇：
+{{ scripture(book="genesis-woh", chapter=1, verse=24, translit="Vayomer Elohim totze ha-aretz nefesh chayah le-minah, behemah va-remes ve-chayto-eretz le-minah, vayehi-khen") }}
+此节中三个希伯来词分别命名了三类陆地动物。בְּהֵמָה（*behemah*）——有时译作“牲畜”，但更广泛地指可驯化或大型草食陆地动物，包括牛、羊、山羊及类似形态。该词的词根含义为“沉默”或“无声”，将这些动物与那些大声鸣叫的动物区分开来。רֶמֶשׂ（*remes*）——爬行之物，来自第五日为水中游动生物所引入的词根 רמש（*r-m-sh*），在此应用于小型陆地移动生物，包括爬行类、小型哺乳类，以及那些更多在地面爬行而非以腿行走的较大陆地无脊椎动物。חַיְתוֹ־אֶרֶץ（*chayto eretz*）——字面意思为“地上的生灵”或“地上的野兽”，由 חַיָּה（*chayah*，“活物”）与 אֶרֶץ（*eretz*，“地”）构成的属格短语。该词组涵盖较大型的野生陆地动物——掠食者、大型草食动物，以及原文所描述的、在草食动物基础确立之后才引入的肉食动物群。三个类别：可驯化的、爬行的、野生的。希伯来文保留了任何运作中的陆地动物生态学所呈现的功能性区分。
 
-Throughout the process, they would have paid close attention to population dynamics, ensuring that the population sizes of various species remained within sustainable limits. They may have achieved this by introducing natural predators or through other means of population control. The Elohim scientists would have been involved in ongoing monitoring and adaptive management, adjusting their approach as needed to maintain a balanced ecological order. This could have included reintroducing species, removing invasive species, or modifying habitat conditions to support the overall health of the ecosystem.
+第25节记载了设计的执行：
+{{ scripture(book="genesis-woh", chapter=1, verse=25, translit="Vaya'as Elohim et-chayat ha-aretz le-minah ve-et-ha-behemah le-minah ve-et kol-remes ha-adamah le-minehu, vayar Elohim ki-tov") }}
+动词回到 *vaya'as*（造、*asah*），即《天秤座》一章所考察过的“建造与排列”之动词。陆地动物是被*造*的，正如天体是被*造*的——从先前各时代所建立的现有生物基质衍生而来。动词模式得以延续。
 
-{{ figure(src="wiki/elephant-biome", caption="Ill. 1 - Elephant walking the Earth") }}
+随后，在第26节，文本急剧转变：
+{{ scripture(book="genesis-woh", chapter=1, verse=26, translit="Vayomer Elohim na'aseh adam betzalmenu kidmutenu, ve-yirdu vi-degat ha-yam u-ve-of ha-shamayim u-va-behemah u-ve-khol-ha-aretz u-ve-khol-ha-remes ha-romes al-ha-aretz") }}
+此节包含整段创造叙述中讨论最多的语法特征。动词 נַעֲשֶׂה（*na'aseh*），“我们要造”，是第一人称复数。{{ footnote(id="2") }} 代词 בְּצַלְמֵנוּ（*betzalmenu*，“按我们的形象”）与 כִּדְמוּתֵנוּ（*kidmutenu*，“按我们的样式”）皆为第一人称复数所有格。执行创造之动作的主语在向一个复数听者——即复数中的自己——宣告其意图。如《摩羯座》一章所指出，传统神学不得不通过各种装置驯服这一复数：尊严复数或 *pluralis majestatis*、对天上天使会的指称、教父基督教解读中早期三位一体的预表、缺乏特定指称力的文学复数。{% wiki(slug="raelism") %}雷尔运动{% end %} 的解读则正面接受其语法。造人类的 {% wiki(slug="elohim") %}耶洛因{% end %} 是多数，因为团队是多数，因为母星是多数，因为派遣中所代表的政治、美学与科学传统都是多数。这种复数并非语法上的怪癖，它正是该节所描述事件的语法本身。
 
-## Homo genesis
+此节中另两个希伯来词也值得格外关注。אָדָם（*adam*），来自词根 אדם（*'-d-m*），是“人”或集合意义上“人类”的词。同一词根也产生 אֲדָמָה（*adamah*），“地”或“土壤”——而 *adam*（人类）与 *adamah*（土）之间的动词性联系，在创世记第二章对一人由 *min ha-adamah*（“出于土”）而成的叙述中得以保留。人类以其所造之物质命名。本套语料所提供的生物学解读使这种联系成为字面意义上的事实：人类是在本星球表面的实验室中、用地表物质合成出来的，他们的名字在原希伯来文中保留了这一来源。
 
-> It was at that time that the most skillful among us wanted to create an artificial human being like ourselves. Each team set to work, and very soon we were able to compare our creations. But on our home planet people were outraged when they heard that we were making “test tube children” who might come to threaten their world. They feared that these new human beings could become a danger if their mental capacities or powers turned out to be superior to those of their creators. So we had to agree to leave the new humans to live in a very primitive way without letting them know anything scientific, and we mystified our actions. It is easy to work out how many teams of creators did this - each race on Earth corresponds to a team of creators.
+“形象”与“样式”这两个词也值得专门考察。צֶלֶם（*tzelem*）以所有格后缀 *betzalmenu*（“按我们的形象”）出现。此词指代表性的图像、雕塑的相似物、形体上的相像。在圣经的其他语境中，*tzelem* 指偶像、雕像、神祇与王者的视觉表现。该词强调视觉与结构上的对应：人类看起来像 {% wiki(slug="elohim") %}耶洛因{% end %}，与之共享同样的肉身形态。דְּמוּת（*demut*）以 *kidmutenu*（“按我们的样式”）出现。此词出自词根 דמה（*d-m-h*），“相像”或“类似”。它指更广意义上的相似，包括非形体的性质——品格、能力、功能。*Tzelem* 与 *demut* 合起来，宣告完全的对应关系：所造之人在身与能、形与性两方面都与造物者相似。这不是隐喻，希伯来文是精确的。{% wiki(slug="elohim") %}耶洛因{% end %} 即将造出的存在，在相关意义上正是他们自身的副本。
 
-In this passage from the book, Yahweh describes how the most skilled scientists among them wanted to create artificial human beings resembling themselves. Different teams worked on the project, and soon they were able to compare their creations. However, people on their home planet were alarmed by the idea of "test tube children," fearing that these new humans could become a threat if they possessed superior mental capacities or powers. Consequently, the scientists agreed to let the new humans live primitively without any scientific knowledge and concealed their true intentions. Each race on Earth is said to correspond to a team of creators, seven in total.
+动词 וְיִרְדּוּ（*ve-yirdu*），“让他们管理”，出自词根 רדה（*r-d-h*），点出这些人被造来承担的实际角色。他们将统辖其他造物——并非任意的暴政意义上的统治，而是一种被造物种与其所栖息的其余生物圈之间特定的管理与使用关系。这种管理是一种工作关系，将在第28节的明确祝福中得到加强。
 
-While we can only speculate about the reasons for the Elohim civilization's outrage, some possible factors might include the fear of losing control. The Elohim civilization may have been concerned that the creation of artificial human beings with superior mental capacities or powers could lead to a potential loss of dominance over these new beings, undermining their authority. Another concern could have been the potential risks associated with creating new life forms. The Elohim civilization might have worried about the unintended consequences of their actions, such as the possibility of the new humans disrupting the natural balance of ecosystems or causing other unforeseen problems.
+第27节记载了人类创造的执行，并以文本为范畴性的新颖时刻所保留的结构性强调来加以表达：
+{{ scripture(book="genesis-woh", chapter=1, verse=27, translit="Vayivra Elohim et-ha-adam betzalmo, betzelem Elohim bara oto, zakhar u-nekevah bara otam") }}
+动词 בָּרָא（*bara*）在这单一一节中出现三次——它是圣经希伯来文中最强的创造动词，曾开启 {% libref(book="genesis-woh", chapter=1, verse=1) %}创世记1:1{% end %}，在1:21为最初的动物生命再次出现，如今在1:27为人类创造以异常密度出现。这种重复是结构性的。在创世记第一章中，一节里出现三次 *bara* 用于人类创造之外的任何一项创造都没有过。文本将这一项标记为整个创造序列中最具范畴新颖性的行为。这一语法上的强调与 {% wiki(slug="raelism") %}雷尔运动{% end %} 的解读一致：人类创造在质上不同于此前的每一项行为，希伯来文反复使用最强的创造动词正记录了这一差别。
 
-Additionally, ethical considerations could have played a role in the outrage. The creation of artificial human beings might have been viewed as playing with life, which could be seen as morally questionable or as infringing on the sanctity of life. This could have led to debates and disagreements within the Elohim civilization over the ethical implications of their actions. Also, the Elohim civilization could have feared the potential cultural, social, or political impact of introducing these new human beings. The presence of beings with superior mental capacities or powers could have led to clashes between the new humans and the Elohim civilization, or even the potential for conflict between different factions within the Elohim society.
+另两个希伯来词也值得注意。זָכָר（*zakhar*）与 נְקֵבָה（*nekevah*），“男”与“女”。*Zakhar* 是标准希伯来语中的“男”，与“记忆”或“被指定”的词根有关。*Nekevah* 是标准希伯来语中的“女”，与词根 נקב（*n-q-b*）“穿刺”或“标记”有关，指解剖学上的区别。文本强调，所造为二元——从一开始就有两性，繁殖配对被内建入设计之中。创世记第一章中没有“先亚当后夏娃”的结构。同时创造男性与女性是创世记第一章的图景。创世记第二章的叙事，描述先造出一人再造另一人——按 {% wiki(slug="raelism") %}雷尔运动{% end %} 的解读，则是对某一特定团队（即伊甸地点的团队）工作的更详细记述，反映该团队具体的工作选择，而非所有七个团队的总体模式。
 
-The outrage and concerns from the Elohim civilization about creating artificial human beings likely led to intense discussions and debates within their society. To address these concerns and alleviate fears, the Elohim scientists might have reached a compromise that allowed them to continue their experiment but with certain limitations imposed on the new humans. By letting the new humans live primitively without any scientific knowledge, the Elohim civilization could have effectively limited their potential to develop advanced technologies and pose a threat to their creators. This approach would have also mitigated concerns about the new humans surpassing their creators in terms of mental capacities or powers.
+第28节包含创世记中第二次祝福：
+{{ scripture(book="genesis-woh", chapter=1, verse=28, translit="Vayivarech otam Elohim, vayomer lahem Elohim peru u-revu u-mil'u et-ha-aretz ve-khivshuha, u-redu bi-degat ha-yam u-ve-of ha-shamayim u-ve-khol-chayah ha-romeset al-ha-aretz") }}
+这是创造叙述中第二次出现繁殖祝福，第一次是第五日为海洋与天空动物群。重复加强了《处女座》一章所提出的解读：祝福特别与那些繁殖需要行为协调的存在有关。植物不需要被告知去繁衍。人类则需要——并非因为否则就不会繁殖，而是因为人类繁殖的文化与行为框架是设计的一部分，由造物者作为指令传授下来，并非仅从生物学中自发产生。祝福加入一个新词，וְכִבְשֻׁהָ（*ve-khivshuha*），“治理这地”，出自词根 כבש（*k-v-sh*），“制服、使之服从”。这比单纯的管理更强，它是积极管理与开发地球的指令。结合第26节的 *radah*（管理），它赋予人类作为其所处生物圈的看管者与管理者的工作角色。
 
-Furthermore, keeping the new humans in a primitive state would have enabled the Elohim civilization to maintain control over them and monitor their development more effectively. This would have provided a sense of security for the Elohim, knowing that they could intervene or make adjustments if any issues arose. Concealing their true intentions from the new humans would have helped the Elohim maintain an air of mystique and authority, potentially making it easier for them to guide and influence the development of these beings without revealing the full extent of their involvement.
+第29与30节规定了赐给人类与动物的食物：
+{{ scripture(book="genesis-woh", chapter=1, verse=29, translit="Vayomer Elohim hineh natati lakhem et-kol-esev zorea zera asher al-penei khol-ha-aretz ve-et-kol-ha-etz asher-bo pri-etz zorea zara, lakhem yihyeh le-okhlah") }}
+人类与动物被赐予素食。这是被专门标记的细节。这一细节将在洪水之后于 {% libref(book="genesis-woh", chapter=9, verse=3) %}创世记9:3{% end %} 中再次出现，那时饮食许可被扩展至包括动物——而第六日最初的素食许可与洪水后扩展之间的对比，按本套语料的解读，记录的是人类与其余生物圈实际关系的变化，而非文学手法。在创造之时，食物链足够和平，即使在当日早些时候引入的肉食动物，也在一个强调平衡而非掠夺的总体设计意图下运作。洪水后的调整，属于《双子座》一章的范围，标志这一关系的转变。
 
->> Let Us make man in Our image, according to Our likeness; let them have dominion over the fish of the sea, over the birds of the<S-Del>  air, and over the cattle, over all the earth and over every creeping thing that creeps on the earth.
->> Genesis 1: 26.
->
-> “In our image!” You can see that the resemblance is striking. That is when the trouble started for us.
+第31节关闭这一日，使用了创世记第一章中独有的公式：
+{{ scripture(book="genesis-woh", chapter=1, verse=31, translit="Vayar Elohim et-kol-asher asah, ve-hineh-tov me'od, vayehi-erev vayehi-voker, yom ha-shishi") }}
+强化词 מְאֹד（*me'od*），“甚”，在此首次出现在创造叙述中。此前每一日都得到公式化的 *ki tov*，“看着是好的”。第六日得到的是 *tov me'od*，“甚好”。文本本身以一种它未曾给予任何单一一日的分量，标记整个创造序列的完成。第六日是创造序列的终点。下一日，第七日，将是安息。工作完成了。
 
-In this passage from the book, Yahweh quotes Genesis 1:26, which states the intention to create humans in their image and likeness, giving them dominion over other living creatures on Earth. Yahweh highlights the striking resemblance between humans and their creators. The passage also suggests that this point in the story marked the beginning of troubles for the Elohim scientists.
+还要注意 יוֹם הַשִּׁשִּׁי（*yom ha-shishi*），“第六日”，带有定冠词。之前各日采用的是不带冠词的序数形式——*yom ehad*、*yom sheni*、*yom shelishi*、*yom revi'i*、*yom chamishi*——但第六日带上了定冠词。这种语法上的变化，与 *me'od* 一样，将该日标记为一种特定的完成，是确定的、终结的。希伯来文保留了这一结构上的重要意义。
 
-When the passage states that human beings on Earth were made in the image of the Elohim and were look-alikes, it implies that humans were created to physically resemble their creators, sharing similar physical traits and characteristics. This might include aspects like body shape, facial features, and other physical attributes, suggesting that the Elohim and humans have a common appearance. Additionally, being created in the image of the Elohim could also mean that humans were designed to possess certain cognitive and emotional attributes similar to those of their creators. This might encompass aspects like intelligence, self-awareness, creativity, and the capacity for emotions, making humans distinct from other living creatures on Earth.
+## III. 陆地动物
 
-The concept of humans being made in the image of the Elohim could also carry a deeper philosophical or spiritual meaning, possibly suggesting that humans share a unique bond or connection with their creators. This might imply that humans have the potential to understand and appreciate the values, knowledge, or wisdom of the Elohim.
+陆地动物的创造在第六日中先于人类的创造，原文以其惯有的简洁加以处理：*“在海洋生物和鸟类之后，科学家们在一个植被此时已变得极其壮丽的星球上创造了陆地动物。草食动物有大量食物。这是最早被创造的陆地动物。后来他们又创造了肉食动物，以平衡草食动物的群体。在这里，物种也必须维持平衡。”*
 
-{{ figure(src="wiki/human-genesis", caption="Ill. 3 - Humanoid in a cultivation pod") }}
+读者可能会问，为什么陆地动物会出现在序列中的这一时刻，而不是与鱼类、鸟类及恐龙一同出现在处女座时代。答案是结构性的。处女座的恐龙在严格意义上是陆地动物——它们在地上行走，有四肢，呼吸陆地空气。但按原文的叙述，恐龙是由特定派系团队进行的一项特定计划，产生的是占据大规模生态主导地位的特定生物。陆地动物生命的更广范畴——哺乳类、较小的爬行类、两栖类，以及最终精炼形态的陆地无脊椎动物——则归属狮子座时代。处女座的恐龙在某些方面占据了某种生态位置，与狮子座时期哺乳动物后来所占据的位置平行。后来的哺乳动物辐射演化，其多样的草食形态由如今壮丽的植被支撑，并辅以相应范围的肉食形态，建构出一个恐龙曾预示但未完成的陆地生态系统。
 
-## Garden of Eden
+雷尔运动的原文明确指出，哺乳动物计划始于草食动物，随后才是肉食动物，其顺序与现代生态学家所认可的正确序列一致。草食动物消耗初级生产者——植物——它们的种群由植物的可获得性调节。肉食动物消耗草食动物，其种群由草食动物的可获得性调节。一个运作中的食物网两者都需要，但必须先建立草食动物的种群，因为在没有猎物的情况下，肉食动物种群无法立足。耶洛因知道这一点。创造的顺序反映了这一点。该时代的前期世纪用以建立稳定的草食动物种群——后来将成为有蹄类、啮齿类、小型啃食哺乳类的祖先形态，这些动物后来锚定了陆地食物网——而其后期的世纪则用以引入掠食者，使这些种群保持平衡。
 
-> The team located in the country you now call Israel, which at the time was not far from Greece and Turkey on the original continent, was composed of brilliant creators who were perhaps the most talented team of all. Their animals were the most beautiful and their plants had the sweetest perfumes. This was what you call “paradise on Earth”. The human beings they created there were the most intelligent. So steps had to be taken to ensure that they did not surpass their creators. The created, therefore, had to be kept in ignorance of the great scientific secrets while being educated for the purpose of measuring their intelligence.
+原文中有一处细节值得专门一提。在稍后的一段中，原文告诉雷尔，地球上各种生命形式的演化反映的不是自然选择过程，而是设计技术的逐步推进：*“我们从非常简单的造物开始，然后改进我们适应环境的技术。这使我们得以依次造出鱼类、两栖类、哺乳类、鸟类、灵长类，最终是人本身——他不过是猴子的改良型，我们在其上加入了使我们本质上成为人的东西。”* 稍后这段中的序列——鱼、两栖、哺乳、鸟、灵长、人——是按所基于的生物技术之精进程度排序的，而非按严格的生态演替排序。该序列中的某些“两栖类”和“哺乳类”是在处女座时代产生的，某些则是在狮子座时代产生的；这个序列描述的是科学家们专业能力发展的弧线，而非生物引入的严格时序。对狮子座而言，相关的事实是：当该时代到来时，科学家们已经发展出了足以产生他们所尝试过的最复杂生物的技术——首先是灵长类，然后——以灵长类身体方案为出发点——产生了人。
 
-In this passage, Yahweh explains that the team of creators situated in what is now known as Israel, close to Greece and Turkey at the time, were perhaps the most talented of all. They created beautiful animals, fragrant plants, and the most intelligent humans in a paradise-like environment on Earth. However, to prevent these humans from surpassing their creators, it was necessary to keep them unaware of major scientific secrets while still educating them to gauge their intelligence.
+到狮子座时代后期，超大陆的陆地生态系统已经完成。处女座的恐龙仍然存在于各自的生态位中，与正在精化的新哺乳动物群体居住于同一大陆。处女座的海洋与天空动物群延续下来。天秤座的分解者与无脊椎动物群落延续下来。天蝎座的植物延续下来，多样性更胜以往。在这幅整体图景中，狮子座后期添加了哺乳动物层——草食与肉食大致平衡，填充了恐龙动物群未曾占据或未居主导的生态位。生态如今已经完整。剩下的便是那个赋予狮子座以名称的中心造物：人类。
 
-Understanding the paradise-like environment in the passage as the Biblical Garden of Eden, we can explore the similarities and connections between the two. The Garden of Eden, as described in the Bible, was a perfect and idyllic place, abundant with beautiful plants, animals, and resources. Similarly, the environment mentioned in the passage is referred to as "paradise on Earth," with the most beautiful animals and sweetest perfumes from the plants. This comparison suggests that the paradise created by the Elohim in the passage could be interpreted as the Garden of Eden.
+{{ figure(src="timeline/age-of-leo-land-animals", alt="金色的史前平原上有草食动物群、远处肉食动物的剪影、干旱的绿色植被以及低垂温暖的阳光。", caption="图 1 - 陆地动物：完成陆地生态网的草食动物与肉食动物。") }}
 
-Its location in the area now known as Israel, not far from modern-day Turkey and Greece, would place it in the western part of the original supercontinent which is an interesting detail to take notice of. If we consider the general locations of Israel, Turkey, and Greece on today's map and translate that to a single continent scenario, the Garden of Eden would likely be situated near the coast of this supercontinent, with access to the sea. This coastal location would provide a favorable environment for a lush and fertile paradise, with an abundance of natural resources, contributing to the idyllic setting described in the story.
+## IV. 从灵长类到人
 
-{{ figure(src="wiki/glowing-domes-in-landscape", caption="Ill. 4 - Glowing dome structures in a lush landscape") }}
+原文对人类创造的框架值得本章在继续之前认真考量。原文说，人不过是“猴子的改良型，我们在其上加入了使我们本质上成为人的东西”。这并不是说人类是通过自然选择从猴子演化而来。它说的是，{% wiki(slug="elohim") %}耶洛因{% end %} 在设计人形时，以灵长类生物学为出发模板，然后加以修改——增添特征、增强能力、精化身体方案——以产生他们所想要的存在。人类并非如《天蝎座》一章中所述的第一种草那样从零开始建造。他们是通过修改一个既有设计而建造的，这一既有设计正是科学家们自己先前已经产出过的：作为持续生物计划中先进哺乳类输出之一的灵长类形态。
 
-## Good and Evil
+这种方法是可辨认的。原则上，它正是我们自己的文明在21世纪早期开始发展的方法，名为 {% wiki(slug="genetic-engineering") %}基因工程{% end %}。现代基因工作几乎从不从第一性原理出发设计生物，而总是修改一个已经几乎能做到设计者所想之事的现有生物的基因组，然后调整特定特征以达到所需结果。农作物通过改变现有植物物种的基因加以修饰，而不是从零开始构建新植物。旨在产生特定细胞行为的医学研究通过修改现有细胞系进行，而不是从零合成细胞。耶洛因生产人类的方法——以灵长类身体方案为起点并加以修改——正是任何成熟的生物工程文明所应预期对这种复杂度的项目采取的方法，因为考虑到人类生物学的组合复杂性，从细胞层面从零造出一个人，将比改造一个已经运作的现有模板困难得多。
 
->> Of every tree of the garden you may freely eat; but of the tree of the knowledge of good and evil you shall not eat, for in the day that you eat of it you shall surely die.
->> Genesis 2: 16-17.
->
-> This means you - the created - can learn all you want, read all of the books that we have here at your disposal, but never touch the scientific books, otherwise you will die.
+原文中另一段使人类设计过程的迭代性质更加明确：*“地球上各种生命形式的演化，实际上就是创造技术的演化，是造物者工作日益精巧的过程。这最终使他们造出了与他们相似的人。你们可以找到史前人的头骨，他们是最早的人类原型。每一次都被更进化的人取代。这一过程一直持续到你们现在的形态——你们的造物者的精确复制品，而你们的造物者害怕造出任何远远高于自身的存在，尽管有些人受到了那样做的诱惑。”* 这段话一次确立了若干事项。
 
-In this passage, Yahweh quotes Genesis 2:16-17, where humans are allowed to eat from every tree in the garden except for the tree of the knowledge of good and evil, as eating from it would result in death. The passage then interprets this biblical warning as a metaphor, essentially saying that humans, as the created beings, can learn and read any available books, but they must not delve into scientific knowledge, or they will face severe consequences.
+第一，在化石记录中看似人类演化的现象——一长串两足人科形态、脑容量逐步增大、最终至解剖学上的现代 *智人* 的序列——实际是造物者们日渐精进的专业能力的轨迹。南方古猿、*能人*、*直立人*、*海德堡人*、尼安德特人、丹尼索瓦人：按原文叙述，所有这些都是某个迭代设计计划中的*早期草稿*。每一个都是耶洛因团队尝试产出令人满意的人形的努力。每一个最终都被更精炼的版本取代，而替换持续进行直到达到设计终点。当前的人形——*智人智人*，即你我所共有的形态——按这种解读，是设计终点。它不是一个仍在进行中的演化轨迹中的阶段，而是造物者们在经过多次迭代后确定下来并判定为令人满意的版本。
 
-Exploring the idea that the Tree of the Knowledge of Good and Evil represents access to scientific knowledge records or other types of knowledge storage allows us to reinterpret the biblical story from a different perspective.
+第二，设计终点是被刻意限制的。当前人形是“你们造物者的精确复制品，而你们的造物者害怕造出任何远远高于自身的存在”。这是一项了不起的承认。原则上，耶洛因本可设计出比自身更有能力的人——更敏锐的心智、更长的寿命、更宽广的认知范围——但他们选择不这么做。限制不是技术上的，而是政治与情感上的：他们担心，比造物者实质上更有能力的存在最终会支配或毁灭造物者。当前人类，正是出于刻意的设计选择，与耶洛因自身完全等同。不低于，不高于，是等同。
 
-In this interpretation, the Tree of the Knowledge of Good and Evil serves as a metaphor for the forbidden knowledge that the creators, or Elohim, want to keep hidden from humans. By restricting access to this knowledge, the creators aim to maintain control over humans and prevent them from reaching their full potential or surpassing their creators in terms of intellectual and technological advancements.
+第三——而这值得认真注意——“有些造物者担心，地球上的人或许略胜于他们的父辈”。原文承认，限制并未完全成功。在某些耶洛因当中存在一种担忧，即设计终点也许越过了目标。当前人类在某些方面也许略胜于耶洛因自己。这是本套语料更广论点的种子——人类在某种意义上是耶洛因的延续——我们不仅是被他们所造，而且处于成为同一工作谱系下一阶段的位置上。耶洛因按其形象造了我们，明确意图是产生平等者而非优越者，但设计计划的成功也许已使我们在某些方面略微超过了他们的水平。这类考量在本套语料后续章节中将变得至关重要，那时人类的创造将开始发展出自己的文明轨迹。
 
-The warning about the consequences of eating from the tree could be understood as a cautionary measure to keep humans from venturing into the realms of science and technology that the creators deemed dangerous or threatening. The idea that humans would "surely die" if they consumed the fruit from the tree may symbolize the potential catastrophic consequences of humans gaining access to advanced scientific knowledge, which could lead to misuse, destruction, or imbalance within their world.
+化石记录中人科形态的序列，在这种解读下获得了具体的诠释。*南方古猿*，是公认人科属中最古老的，代表早期原型阶段：两足灵长类，脑容量仅略大于现代黑猩猩，有限的工具使用和有限的语言能力。*能人*，按主流古生物学测定大约在240万至140万年前（按本套语料压缩后的解读，是更近期得多的设计阶段），代表精炼的一步：更大的脑、更精巧的工具使用、计划所追求的认知能力的早期迹象。*直立人*，主流测定大约在190万至11万年前，代表进一步的精炼——脑明显更大、复杂的工具产业、对火的控制使用、第一个走出非洲并分布到多个大陆的人科形态。*海德堡人*、尼安德特人和丹尼索瓦人代表晚期原型的精炼，脑容量接近或匹配现代人，复杂的社会行为，相当程度的文化能力——但每一个最终都被最终版本 *智人智人* 所取代，后者在之前各人科形态消失之后扩散至世界各地。
 
-This perspective adds an intriguing layer to the story of the Garden of Eden, suggesting that the Tree of the Knowledge of Good and Evil is not just a moral or philosophical concept but a representation of the powerful and potentially dangerous nature of scientific knowledge. In this context, the story emphasizes the importance of responsible use of knowledge and the potential risks associated with unrestricted access to advanced information, as well as the desire of the creators to maintain control and balance within their creation.
+这种解读与化石记录的一个主流古人类学有时难以解释的特征是一致的：早期人科群体明显被晚期所取代，而直接谱系传承的证据有限。尼安德特人在 *智人* 扩散到欧洲之后消失了；丹尼索瓦人消失了；更早的人科形态在他们之前消失了。在正统演化解读中，这些替换通过竞争、气候、杂交以及偶然的种群动态等不同方式来解释。在雷尔运动的解读中，它们的解释更为简单：早期草稿在后期草稿被证实更成功时被淘汰，这种替换模式是任何持续设计计划自然产生的现象。*智人* 与尼安德特人之间存在部分杂交的主流证据（现代非洲以外的人类携带大约1%至4%的尼安德特人遗传物质）与这种解读一致：设计迭代并非总是完全分离的，连续草稿之间存在某种遗传连续性也被保留下来。
 
-Hypothesizing how an advanced civilization like the Elohim would preserve knowledge is an interesting aspect that may intrigue many of you. We can consider several possibilities that go beyond traditional methods, incorporating futuristic and cutting-edge technologies.
+耶洛因加了什么？原文并未给出完整的规格说明，但大方向是清楚的。他们加入了使人“本质上为人”的东西——认知能力、语言能力、抽象思维与自我反思的能力、手部的灵巧、允许清晰发声的特定声道结构、支持将感官信息整合为持续自我意识的特定神经构架。无论这些增添的具体生物学实现是什么，正是它们在形态与行为两方面使人区别于灵长类。一位现代遗传学家若将人类基因组与我们最近的灵长类亲缘的基因组对照，会将这些增添描述为区分两者的遗传差异集合。按原文叙述，耶洛因故意工程化了这些差异，将他们先前所设计的灵长类改造为更多的东西。
 
-The Elohim may use advanced digital storage systems, possibly utilizing quantum computing, to store vast amounts of information. These storage systems would be highly efficient, compact, and capable of handling complex data structures, ensuring the preservation of their knowledge for extended periods. Another possibility is that the Elohim have developed advanced artificial intelligence systems that can store and process information. These AI systems could act as dynamic libraries, continuously updating and organizing the knowledge, making it easily accessible for the Elohim.
+这些增添的技术内容——哪些基因被修改、哪些发育通路被改动、哪些神经构架被重新设计——将是第VIII节的主题。就目前而言，相关主张是：人类的创造是迭代且修改性的，而非*从零起步*的；化石记录中先前的人科形态是迭代历史的幸存证据；而设计终点是在某个本套语料能以一定精确度认定的特定时刻达成的。
 
-The Elohim might also harness biotechnology for preserving knowledge by encoding information into the DNA of living organisms or creating synthetic life forms specifically designed to store data. This method would allow them to access the stored knowledge by decoding the DNA sequences when needed. The Elohim could have developed advanced materials and technologies to store information at the atomic or molecular level, creating highly durable and long-lasting storage mediums. This approach would offer a high level of information density, ensuring the preservation of vast quantities of knowledge over extended periods.
+{{ figure(src="timeline/age-of-leo-human-threshold", alt="金色高地研究平台，有反光石材、远处的工作室、树木以及匿名的人形微小剪影。", caption="图 2 - 人的门槛：被带至镜前的灵长类模板。") }}
 
-{{ figure(src="wiki/genesis-dome-interior", caption="Ill. 5 - Interior of a dome structure featuring round shaped and greenery") }}
+## V. 派系团队与七个种族
 
-## Origins of science
+人类的创造，如自天蝎座以来的每一项生物创造一样，是由多个派系团队并行进行的。
 
->> He brought them to the man to see what he would name them.
->> Genesis 2: 19.
->
-> Human beings had to have a thorough understanding of the plants and animals living around them, their way of life, and the way to get food from them. The creators taught them the names and the powers of everything that existed around them since botany and zoology were not considered dangerous for them. Imagine the joy of this team of scientists, having two children, a male and a female running around, eagerly learning what was being taught to them.
+原文在这一点上是明确的：*“每个团队着手工作，很快我们就能对各自的造物进行比较……要算出共有多少个造物者团队是容易的——地球上每一个种族都对应一个造物者团队。”* 在稍后一段中，原文阐明了地理结构：*“正如地球上有不同的种族和文化，我们的省份就是基于那些种族与文化而设立的，并尊重各自的自由与独立。”* 在另一段，母星上省份的数目被给出为七。七个团队。七个种族。母星上七个省份，各有自己独特的传承，各派出自己的团队，每个团队按自己的形象造人——也就是说，按耶洛因文明中该团队所归属的那一特定子集的形象。
 
-In this passage, Yahweh refers to Genesis 2:19, which describes how the first humans were given the responsibility to name the plants and animals around them. The passage explains that the creators, or Elohim, taught humans about the plants and animals in their environment, including their names and properties. This knowledge of botany and zoology was not considered dangerous for humans, so they were allowed to learn about these subjects. The passage also conveys the joy and excitement of the Elohim scientists as they observed the first human male and female eagerly learning from them.
+七个团队并行工作，在超大陆的不同区域同时产生七个不同的人类群体。{{ footnote(id="1") }} 每个团队都拥有同样的底层知识基础：经迭代发展的灵长类至人类的设计模板、基因调控网络、发育程序、计划在此前数个世纪工作中产生的神经构架。每个团队都通过其自身特定的美学与文化传统来应用这一基线——其母星省份的设计偏好、其科学传统的制度词汇、其所属群体的艺术敏感性。结果是一种人类，其生物多样性反映了耶洛因文明自身的内部多样性——作为一种刻意选择保存在地球上，而不是被抹去以换取统一设计。
 
-Botany and zoology are branches of biology that focus on the study of plant and animal life, respectively. These fields provide essential knowledge about the organisms that share the planet with humans, their life cycles, habitats, and interactions with their environment. The understanding of these subjects allows humans to better manage resources, protect ecosystems, and maintain a balanced relationship with nature.
+对于初次接触雷尔运动宇宙观的读者来说，这一主张以各种方式成为其中最具争议的元素。把人类种族与不同造物者相关联，是一种容易被误读为对种族等级制的认可的主张，而本套语料必须明确无误地表示，并未暗示或允许任何此类等级制。按雷尔运动的解读，种族是母星自身内部多样性的生物学印记。它们在道德价值上没有差别。它们在根本人类能力上没有差别。它们的差别在于反映其造物者特定设计偏好的具体特征——所有七个团队所工作的共同基线上的变体。在这里有助于理解的类比，是任何人类文明中艺术、音乐或饮食的地区传统：变体反映了制作者的多样性，而不是其之间的等级。一种地区传统并不优于另一种。它们之所以不同，是因为是由不同制作者所制；制作者之所以不同，是因为他们来自不同的地方。
 
-From the perspective of the Elohim, it is likely that botany and zoology were deemed safe for humans because these fields generally do not provide direct access to advanced technologies or dangerous scientific knowledge that could be misused or threaten the Elohim's control over their creation. While botany and zoology offer valuable information about the living world, they do not inherently empower humans with the means to develop advanced technologies, manipulate genetic material, or create artificial life forms. By allowing humans to learn about botany and zoology, the Elohim would be fostering a sense of responsibility and appreciation for the natural world, which could help maintain a harmonious relationship between humans and their environment. This would be beneficial for both humans and the Elohim, as it would promote the sustainability and well-being of the planet.
+希伯来文在人类创造的道德地位上是毫不含糊的。בְּצֶלֶם אֱלֹהִים בָּרָא אֹתוֹ（*betzelem Elohim bara oto*），“按耶洛因的形象造人”——这适用于每一个人。如第II节所指出，*tzelem*（形象）是表代相似的强词；它授予与造物者完整对应的地位。每一个人类群体，由每一个团队所造，都同等地拥有 *tzelem Elohim*——造物者的形象。派系差异是在共享的、充分人性的核心之内运作的。本套语料将此读作对人类多样性的任何对待的道德基线：差异是真实的，且因其反映造物者多样性而被珍视，但任何差异都不能成为否认 *tzelem Elohim* 赋予每一个人内在尊严的依据。
 
-As the creators shared knowledge about the plants and animals in their environment, including their names and properties, humans began to learn about the living world around them. This early education in botany and zoology would have laid the foundation for their understanding of biology, ecology, and other related scientific fields. So, within this context, botany and zoology can be considered the first terrestrial human sciences acquired by the first humans.
+按原文叙述，团队在超大陆上的地理分布对应于后来人类群体的地理起源。每个团队都设在单一陆块的某一特定区域，每个团队都在该区域产生其人类。当超大陆后来分裂时——这一事件本套语料将在恰当之处即《双子座》一章中加以讨论——人类群体之间的地理隔离便成为大陆与海洋的屏障，这些屏障在后续人类历史的绝大部分时间里将不同种族保持分开。但在他们被创造之时，即在狮子座时代，七个团队在单一陆地上相对邻近地工作，产生七个差异已然可见但其地理隔离尚未由板块构造加以强制的人类群体。
 
-{{ figure(src="wiki/above-clouds-platform", caption="Ill. 6 - Transluscent platform above the clouds") }}
+这一结构的一个含意值得明确指出。如果每一个人类种族对应一个造物者团队，那么每一个种族都在其生物学传承中保存着母星文明某一特定派系的独特传统。某一群体的特定认知优势、另一群体的特定美学传统、第三群体的特定身体能力——按雷尔运动的解读，所有这些都反映了产生该群体的团队的设计偏好。本套语料并不否认这些差异的存在；原文本身承认这些差异，现代人口遗传学也确认人类基因组中确实存在真实的群体结构。本套语料所拒绝的，是由这些差异向道德等级或差别对待的任何推论。即使群体之间的平均特征存在真实差异，也并不证明任何群体在充分人性尊严上更值得或更不值得。造物者的形象是平等地授予的。由此而来的尊严是平等地授予的。任何对这些材料做出认可种族等级或科学种族主义解读的读法，都是对本套语料的误用，本套语料明确拒绝此类解读。
 
-## Sixth day of creation
+进一步考虑：原本独特的七个世系，在随后的千百年中经历了广泛的混血。现代遗传研究表明，当前没有任何人类群体是某一原始世系的纯粹保存。迁徙、通婚、征服、贸易，以及人类群体跨越地理和文化边界的日常缓慢混合，已经产生了一种当前的全球人类——其中基本上每一个个体都携带着来自原始世系中多个的遗传物质。七个团队的独特产物在现代群体中可作为祖先成分被统计探测到，但不再作为离散群体存在。本套语料对人类多样性的解读与此图景一致。原始的七个是独特的。当前的全球群体是原始七个的混血后裔，原始世系的每一个如今都以不同比例对基本上每一个当前人类群体作出贡献。
 
-## A quick recap
+{{ figure(src="timeline/age-of-leo-seven-teams", alt="自高处俯瞰一片宽广的古老大陆，几处远方的研究地点在河流、森林、平原和山岭之间发光。", caption="图 3 - 七个团队：一种模板，经七种省份传统加以塑造。") }}
+
+## VI. 年代与证据
+
+原文以异乎寻常的精确度指明了人类创造的时间。在雷尔运动材料中最常被引用的数字主张之一里，年代是通过启示录中“兽的数目”——666——给出的，被解读为自第一批被造之人开始计算的世代数。如果1945年出生的那一代是自第一批人类以来的第666代，且按二十年一代计算，那么第一批人类约在1945年之前13,320年被造——也就是大约公元前11,375年。
+
+这一年代与本套语料的整体年表内在一致，但有一个对雷尔运动原文先前解读并不总是细致区分的重要细化。13,320年这一数字是*最终化*的人类的年代——*智人智人* 的产生，即设计终点，七个团队一致认为令人满意的那一版本人类。它不是第一个人科原型的年代。化石记录中较早的人科形态代表先前的迭代，分布在更长的活跃设计阶段中。13,320年这一日期标记设计被最终敲定、且七个团队并行产出我们这一特定形态首批人类的那一时刻。
+
+这把最终化置于约公元前11,375年。狮子座时代在本套语料的年表中始于公元前11,010年。算术显示，人类最终化发生在狮子座正式开始之前约三到四个世纪，那将置其于处女座末期数个世纪之中。这与更广的图景内在一致：原型阶段贯穿处女座并延续到狮子座早期，各种中间人科形态出现并被取代；设计终点在处女座—狮子座边界附近达成；以岁差星座命名的狮子座时代，是最终化的人类被置于其环境、被抚养、被教育，并开启下一章将要展开之政治格局的时代。
+
+“一代”二十年的估值本身是约略的。人类历史中不同的世代长度有所变化，原文并未指明精确数字。二十年是各人类群体生物代的一个合理工作估计，但实际值可能在18至25年之间，这将使计算出的日期在任一方向上偏移数个世纪。合理立场是，人类最终化发生在处女座—狮子座边界*附近*，精确年代依所用世代长度而定。本套语料并不坚持某一具体年份。它把这一事件置于公元前11,375年的紧邻范围内，前后误差数百年。
+
+值得注意的是，自1973年雷尔运动原文向雷尔口述以来的几十年中，这一年代——约距今13,000年——已经获得现代人口遗传学的支持。通过原文给出时尚不存在的技术进行的人类群体遗传变异研究，反复指向主要人类群体相对近期的共同遗传起源。一项常被引用的发现，源自对各人类群体中线粒体DNA与Y染色体世系的研究，所识别出的各种遗传标记的合并日期在某些分析中落入距今10,000至15,000年的范围。具体数字因所采用的标记、所采样的群体以及假设的突变率而大幅不同，但人类基因库相当部分相对近期的共同起源的一般模式是确立的。
+
+这种汇聚并非证明。它并不证明雷尔运动原文对所发生事件的描述正确。它只证明，原文关于本星球上人类首次产生时间的具体数字主张，与现代遗传技术独立得出的那种年代相一致，且在某些方面被其预测。原文于1973年口述，那时人口遗传学测定方法尚处于早期发展中，不可能事后构造以匹配尚未做出的发现。因此这种契合值得关注——不是作为证实，而是作为本套语料中反复出现模式的又一例证：雷尔运动原文一再做出具体主张，这些主张以难以用巧合解释的方式与独立科学研究在处理同样问题时所发现的内容相吻合。
+
+值得加一条方法论说明。主流古人类学将解剖学上现代 *智人* 的起源测定为大约30万年前，依据来自北非和东非的化石证据——目前最古老的是摩洛哥的杰贝尔伊尔胡德化石（2017年重新测定）。这与现代人类基因库何时起源的问题不是同一个问题，后者是一个比物种解剖现代形态首次出现更窄的关于现代群体共同祖先的主张。最终化的当前群体距今13,000年的日期，与该物种早得多的首次出现是一致的，只要早期群体被取代、被减少为小型创始群体，或以其他方式经历瓶颈，把它们的遗传多样性集中到一个近期共同起源中。按雷尔运动的解读，表面矛盾的解决是直接的：化石中更古老的解剖学现代形态的证据反映的是设计计划的晚期原型阶段——日益精炼的人科形态在达到设计终点之前的数个世纪中出现并被取代；13,000年的基因库日期反映的是七个团队并行产出我们自己谱系的最终版本的特定时刻。
+
+## VII. 最有才华的团队
+
+七个团队中，按原文叙述，有一个比其他几个更有才华。
+
+*“位于你们现在称为以色列那个国家的团队——当时它在原本的大陆上离希腊和土耳其不远——由才华横溢的造物者所组成，也许是所有团队中最有才华的。他们的动物最美丽，他们的植物有最甜的芬芳。这就是你们所说的‘地上乐园’。他们在那里造出的人类是最聪明的。”*
+
+原文谨慎指出，该地点对应于我们现在称为以色列的地方，并附带说明当时的地理与现今不同——那是一个单一大陆，其中后来成为以色列、希腊和土耳其的区域是相邻的，而非被地中海所隔开，因为地中海当时尚未以现今形态存在。这正是产生了希伯来圣经后来所称伊甸园的团队——按这种解读，那不是一个神话般的乐园，而是某个造物者团队所建造的特定准备地点，内含他们最精致的生物作品。
+
+“乐园”的描述值得认真地视为描述。这一区域的团队产生了原文所形容为本星球上最美丽的动物。他们的植物有最甜美的香气。他们所设计的环境在感官体验层面是非凡的——是创造计划最优秀的实践者在被给予资源和余裕去追求其最佳作品时所能产出的成果的一个集中展示。他们在这一环境中造出的人，相应地，是七个团队产物中最聪明的。而“地上乐园”这一用语，被保存于此后众多传统中，反映了首批体验该地点之人所知的真实特征。
+
+这一主张——即某一团队的产出在某些具体方面比其他团队更出色——需要小心处理。本套语料在第V节中刚刚论证了七个种族在道德价值上平等，没有任何派系产出可以为等级制提供依据。这两个主张同时为真，并且二者间表面上的张力在细致考察下会消散。
+
+原文做出的是关于创造时刻具体特征的具体经验主张：以色列团队所造的特定人类，按原文描述，因特定的认知能力而引人注目，正如他们的植物因特定的美学品质而引人注目、他们的动物因特定的美而引人注目。这并不是范畴上优越性的主张。它是说，以色列团队的设计偏好，通过其特定技能加以应用，产生了原文本身所承认的具有特定特征的产物。其他团队的产物在各自方面也是非凡的——原文通过“地球上每一个种族都对应一个造物者团队”以及这种多样性应当被珍视的更广主张暗示了这一点——但以色列团队的特定成就被加以突出，是因为希伯来圣经，即本套语料主要在解读的那批被保存下来的文献，是*那个团队*的人类的文献。圣经是某一团队对自身工作视角的记录。它自然会突出自己造物者的成就；这是我们对任何传统关于自身的保存文献所应预期的。
+
+进一步说，即便接受原文关于创造时认知差别的主张，现代读者也应基于若干考虑来理解它。首先，正如第V节所指出，原始七个世系在随后数千年中经历了广泛的混血；当前没有任何人类群体是某一原始世系的纯粹保存。其次，在任何特定时刻区分群体的具体认知特征，对独立于潜在遗传差异之外的环境因素——营养、教育、文化重视、历史机遇——非常敏感。第三，对各群体认知能力的现代测量显示存在广泛重叠，任何群体内部的差异远大于群体之间的差异。原文关于创造时刻独特性的主张，即便被接受，也不能转化为关于当代人类群体相对能力的任何现代主张——当代群体是原始七个的混血后裔，并受到原始快照所未预见的环境影响。
+
+原文所报告的——本章必须毫不退让地登记的——是：希伯来圣经传统，作为对七个团队工作中最详细的现存叙事的保存者，是某一特定团队的文献，那个团队的特定成就在当时被指出。这与更广的模式一致：以色列团队的人类比任何其他团队的人类，更多地成为创造记忆的文化承载者。希伯来圣经就是那种承载的记录。它在本套语料解读框架中的核心地位，反映了一种历史偶然——或历史设计——即此团队的人类保存其起源故事的忠实度比其他团队的人类更高。其他团队的人类有他们自己的创造传统；其中许多以零碎形态留存在《引言》所考察的比较神话学材料中。希伯来圣经是若干传统中的一个，并非独享特权的来源。然而它是最完整、最明确发展出来的，这就是为什么本套语料最仔细地阅读它。
+
+由此团队所造的人类是其故事后来成为 {% wiki(slug="adam-and-eve") %}亚当与夏娃{% end %} 之故事的那些人。创世记第二章的叙述紧随更广的创世记第一章创造叙事，并具体聚焦于这一特定团队的工作，描述了第一个人的塑造、第一个伴侣的创造、二者被安置于园中、关于他们可做与不可做之事的指示——所有这些都以创世记第一章所没有的特定细节叙述。雷尔运动的解读将创世记第一章的叙述视为整个创造计划（包括所有七个团队）的概述，而将创世记第二章的叙述视为某一特定团队工作的详细叙事——那个团队的产物特别独特、其地点最为精心准备、其特定人类后续历史将被保留于希伯来圣经之中。
+
+{{ figure(src="timeline/age-of-leo-eden", alt="金色的园林山谷，有水渠、开花的树、温暖的石灰岩台地，以及远处融入景观的研究建筑。", caption="图 4 - 伊甸：那个时代最有成就的花园。") }}
+
+## VIII. 造人的科学
+
+原文告诉我们科学家在狮子座时代做了什么。它并未在详尽的意义上告诉我们如何做。如前五章所示，问起此类操作实际涉及什么的读者必须从他处补充质感——而如前几章所示，这种质感存在于当代科学之中，尽管必须从多个专业文献中拼合。比较基因组学、神经科学、古人类学、进化发育生物学和群体遗传学在过去几十年中已发展出与“设计人类需要什么”这一问题相关的具体研究计划。我们在每一项中的进展都是部分的，整合尚不可见。但其各个组成部分已经存在，而耶洛因当时所进行工作的形貌，可由它们重建出来。
+
+本节分为八小节。第一，是什么具体地把人类与其灵长类模板区分开。第二，原文描述所暗示的人类工程的模块化方法。第三，人脑的设计问题。第四，人类语言的设计问题。第五，从技术上对照现代人口遗传学处理种族问题。第六，最近共同祖先问题，以及原文的日期如何与主流发现对齐。第七，将人科化石记录解读为设计迭代史。第八，通向我们自身时刻的连贯线。
+
+### VIII.1. 人类与其灵长类模板的区别
+
+人类与最近灵长类亲缘之间的遗传距离很小。人类与黑猩猩——我们最近的现存亲属——共享约98.7%的基因组。这1.3%的差异，分布在人类基因组的三十亿个碱基对之中，相当于大约四千万个特定位置，人与黑猩猩基因组在此不同。这些差异中有些位于影响生物功能的区域，许多则位于不影响功能的区域。识别这些具体差异中哪些可解释人与黑猩猩之间显著的表型差异，是过去二十年里比较人—灵长类基因组学的核心问题。
+
+一种有用的框架是问：人类与其灵长类模板具体有何区别——按本套语料的解读，耶洛因为了把他们先前造出的灵长类变成他们所想要的人类，必须加入或修改哪些特征？现代生物学已确立若干主要差异范畴。
+
+第一，脑的大小与构架。人脑在绝对意义上约为黑猩猩脑的三倍大，而相对身体大小约为其七倍。这种扩张并不均匀。某些特定区域——尤其是前额叶皮层、后顶叶皮层和颞叶的语言相关区域——在人类身上相对其他灵长类不成比例地扩大。神经解剖学的变化不仅反映在大小上，还反映在连接、细胞类型，以及产生成人脑的特定发育程序上。
+
+第二，语言能力。没有哪种非人灵长类展示过人类意义上的真正语言能力——具有生产性的语法、递归的句法、抽象的指称、童年期通过日常接触获得的完整词汇习得。各种灵长类已学会使用手语或符号系统并具有不同程度的能力，但没有哪一种显示出支撑人类语言能力的特定认知构架。这一能力的遗传与发育基础尚未完全理解，但已涉及若干基因——最著名的是 *FOXP2*，其变异在人类身上产生特定的语言障碍，并且在人与黑猩猩版本之间有两处氨基酸差异。
+
+第三，手部的灵巧性。人类的手在解剖学上与黑猩猩的手在若干具体方面有别：更长、更可活动、更有力的对生拇指；更短而更直的手指；更灵巧的指尖对指尖精细抓握。这些差异支持人类工具使用、乐器演奏、书写以及表征人类文明的整套精细运动活动所需的精细操控。控制手的神经基础也相应得到精化，运动与感觉皮层中有相当区域专门用于精细手部控制。
+
+第四，双足直立及其后果。人类以两腿直立行走为唯一移动方式。这要求骨骼系统的大量重组：脊柱呈特定的S形曲线，骨盆经过重塑，腿相对于手臂更长，足部以纵向足弓重新构造。这种重组不仅影响骨骼，还影响肌肉系统、心血管系统（如今以不同方式抗重力运作）以及生育过程（因受重塑骨盆的约束而对人类生殖生物学产生重大影响）。
+
+第五，发育的修改。人类显示出广泛的*幼态延续*——将幼年特征保留至成年。人脸、毛发分布、颅骨形状以及学习能力都保留了在其他灵长类身上属于早期发育阶段、并在临近成年时丧失的特征。幼态延续特征伴随着延长的童年——人类比其他灵长类成熟得慢得多，脑发育与学习的阶段远远超过其他灵长类已经达到成年能力的年龄。延长的发育窗口正是人类儿童得以通过日常接触获得语言、复杂社交技能与文化知识的原因。
+
+第六，社会认知能力。人类展现出特定的社会能力，这些能力在其他灵长类身上仅以有限形式存在，而在人类身上被精化到范畴上不同的程度：心理理论（建模他人在想什么的能力）、共享意图、与非亲属的合作行为、复杂的道德推理、累积文化的能力。这些能力在脑中具体区域有其特定的神经基础，这些区域显示出人类特有的构架特征。
+
+按本套语料的解读，耶洛因有意工程化了所有这些差异。出发点是灵长类模板——即先前创造工作所产生的类黑猩猩或类*南方古猿*的形态。终点是人。两者之间的路径，便是产生化石记录中人科形态序列的迭代设计计划。上述六类差异中的每一类都需要在基因、发育、解剖与神经层面进行特定修改。把所有六类修改整合到一个连贯的有机体中——一个用两条腿行走、以精度操纵物体、说复杂语言、缓慢发育、社会化生活、并具有支持抽象思维的认知构架的有机体——就是人类设计所代表的。按任何标准，它都是本套语料所描述过的最复杂的单一有机体设计项目。
+
+### VIII.2. 人类工程的模块化方法
+
+《天蝎座》一章引入了本套语料对耶洛因设计环境如何运作的解读：带占位段的模板基因组、有保守核心构架并为每个物种插入特定修改。按这种解读，人类的创造是模块化模板方法最雄心勃勃的应用。灵长类模板本身是漫长迭代设计工作的产物，它成为基底。人类特有的修改则是被填入以产生最终形态的占位部分。
+
+这种解读与人类与其他灵长类之间实际遗传差异的结构相一致。1.3%的差异并非均匀分布。它集中在已被识别为对人类特有性状具有功能意义的特定区域。这些区域的几个主要类别已被识别。
+
+*人类加速区*（HARs）是若干段DNA，它们在哺乳动物——包括黑猩猩与其他灵长类——之间高度保守，但在人类谱系中显示出异常迅速的分化。在人类基因组中已识别出约49个这样的区域。被研究最多的 *HAR1*，是一段118个碱基对的区域，从鸡到黑猩猩在哺乳动物中基本相同，但在人类身上有18个替换。*HAR1* 在妊娠中期以特定模式表达于发育中的人脑皮质神经元中，似乎在皮质发育中扮演角色。HAR的分布模式——长期保守的区域在人类谱系中突然分化——与“特定调控区域被刻意修改以产生人类特有的发育结果，同时保留其余灵长类模板”这一预期一致。
+
+人类基因组中的*基因重复*，尤其是 *SRGAP2* 家族，提供了观察设计修改的另一窗口。*SRGAP2* 是一个参与神经发育的基因。大多数哺乳动物有此基因的一份拷贝，人类有四份，其中三份是仅在人类谱系中产生的部分重复。最近的一份重复 *SRGAP2C*，以特定方式修改了原基因的功能，影响皮质神经元上树突棘的发育——树突棘是支持皮质计算的突触连接的结构性元素。*SRGAP2* 的重复模式正是模块化模板方法所应产生的：灵长类模板的单一基因被保留，叠加特定的人类修饰重复以实现所欲的发育结果。
+
+*FOXP2* 基因提供了一个特别清晰的目标性修改示例。*FOXP2* 在哺乳动物中保守，黑猩猩、大猩猩与恒河猴共享同一蛋白序列。人类版本在两处氨基酸位置上有所不同。按现代演化解释，这两处变化在过去数十万年内的人类谱系中发生，并与人类语言能力的发展相关。按本套语料的解读，这两处氨基酸差异正是人类设计计划对灵长类 *FOXP2* 模板所做的具体修改——以最小变化产生最大功能后果，正是一个胜任的设计计划所应追求的高效修改。
+
+跨越这些和许多其他遗传区域的模式，与模块化方法一致。灵长类基因组在很大程度上被保留为基底。特定区域被修改——有时是单核苷酸替换，有时是重复，有时是缺失——以产生人类特有性状。修改集中在影响发育的调控区域，以及影响特定表型特征的基因（脑发育、声道、手部形态、骨骼结构）。修改的总量从基因组角度看很小——1.3%的基因组不同——但功能后果是范畴性的，因为修改被放置在调控杠杆作用很强的区域中。按本套语料的解读，耶洛因清楚知道应当修改哪些区域，以最小的对灵长类模板工作构架的扰动达到设计终点。最终的人类是灵长类模板加上有针对性的特定修改。化石记录中的人科序列保存了这些修改被发展和精化的迭代历史。
+
+### VIII.3. 设计一个大脑
+
+按一般共识，人脑是本星球上最复杂的单一生物结构。设计一个大脑——指明神经构架、产生它的发育程序、控制其生长的基因调控网络、它所需的感觉与运动连接——是一个处在当前生物学开始建模、更不用说从零产生的极限的问题。
+
+数字传达了一些规模感。成人大脑包含约860亿个神经元，每个神经元平均与其他神经元形成约7,000个突触连接，总共约600万亿个突触连接。脑分为功能上专门化的区域：枕叶用于视觉处理，颞叶用于听觉与语言处理，顶叶用于体感与空间处理，额叶用于运动控制与执行功能，小脑用于运动协调，并日益涉及认知功能，脑干用于自主调节，边缘系统用于情绪与记忆，基底神经节用于运动学习与奖励处理。每个区域都有自己内部的构架、自己的细胞类型、自己的连接模式。整个东西从单个受精卵开始，经过细胞分裂、迁移、分化与连接形成的精密编排序列，在大约二十年的从受精到成人功能的发育过程中产生。
+
+人脑除了原始尺寸之外，与黑猩猩脑在若干具体方面有别。前额叶皮层不成比例地扩大。冯·埃克诺莫神经元——位于前扣带皮层与额岛皮层的大型纺锤形细胞——在人类、大型类人猿与鲸豚动物中都存在，但在人类身上数量大得多，并与自我意识和复杂社会认知相关。弓状束，即连接布罗卡区（涉及语言生成的额叶区域）与韦尼克区（涉及语言理解的颞叶区域）的白质纤维束，在人类中比黑猩猩中发达得多，这种发达支撑了人类特有的语言能力。皮层本身显示出特定的脑沟与脑回模式——在有限颅腔空间内增加皮层表面积的折叠模式——这些模式在人与其他灵长类之间不同，人类特有的折叠模式支撑了扩展的皮层表面。
+
+对耶洛因而言，设计人脑意味着指明所有这些特征。必须指定细胞总数。发育程序必须在正确的区域、正确的时间产生每种类型的正确数量的神经元。连接模式——哪些神经元与哪些其他神经元相连——要么必须被直接指定，要么必须由发育程序通过特定的调控机制加以引导。功能性区域必须在其特定位置布置。皮层折叠模式必须由塑造发育中脑的特定机械与发育力产生。而所有这些必须可靠地在世代之间、基本上在由设计所产生的每一个个体中工作。
+
+这是一个复杂度惊人的设计问题，本套语料并不假装知道耶洛因是如何解决的。本套语料所主张的是，人脑显示出设计意图的具体印记——基因组中特定区域的集中修改、被调谐以产生特定发育结果的调控网络、其人类特有特征正是支持人类特有认知能力所必需的神经构架。按本套语料的解读，这些印记正是一项刻意的设计计划所应预期的。它们按主流演化解释，则是自然选择作用于随机变异所应预期的。两种解读并不严格对立，而是为同一观察到的特征提出不同的产生机制。本套语料的解读的优势在于以一个直接步骤解释，为什么修改集中在功能显著的区域，以及为什么它们正是观察到的表型所必需的修改。
+
+天蝎座一章引入的繁殖约束以其全部力量适用于脑的设计。脑必须在胚胎环境中可靠地从遗传规格发育出来，无需外部干预，并产生一个能运作的有机体。脑发育的失败会产生不可存活或严重受损的有机体。耶洛因的设计要产生我们所观察到的人类群体，就必须以足够精度指明脑，使基本上每一个由该设计所生的个体都产生一个可工作的脑。在这个意义上，人类发育程序的可靠性是潜在设计精细的最有力证据之一。脑并非随机构造的；它们按一种程序发育，按当前生物工程标准衡量，这种程序的精度是非凡的。
+
+### VIII.4. 设计语言
+
+语言是人类最具特征性的能力，工程化语言需要处理一组协调的解剖、神经与遗传特征。
+
+先谈解剖。人类的言语生产依赖于一种在其他灵长类身上并不出现的特定声道结构。喉头（包含声带）在人类喉咙中的位置比黑猩猩中更低，在喉头上方形成更长的咽腔，作为塑造元音的共鸣腔。支撑喉与舌的舌骨，其位置支持人类特有的发声能力。舌头更可活动、能更精细地控制，并被塑造为可清晰发出人类语言中的辅音与元音。唇、颌与上颚被构造为支持声音的精确发音。呼吸系统被重组为支持言语所需的长呼气；人类在延长的呼气中发声，并以其他灵长类所不具备的精度控制气流。
+
+这些解剖特征伴随代价。降低的喉头使言语成为可能，但也使人类独特地易于窒息——食物在吞咽过程中可能落入气道，而其他灵长类的解剖结构能防止这种情况。重组的呼吸器官改变了人类的饮水与吞咽方式。这些变化的繁殖代价（在演化意义上）相当可观，必须由设计来弥补这种代价。按本套语料的解读，耶洛因之所以承担这种代价，是因为语言是设计优先级。他们设计了一个能产生人类言语全谱声音的声道，并接受相应的脆弱性，因为语言是设计最终的目标。
+
+语言的神经基础更为精细。布罗卡区，位于优势大脑半球（通常为左侧）的额下回中，专门用于语言生产——语法句子的规划与执行、发音动作的协调、词序列组合成连贯发声的组织。韦尼克区，位于颞上回，专门用于语言理解——对来到的言语的解析、对词的识别、从听到的话语中组建意义。两个区域由弓状束连接，使信息在理解系统与生产系统之间流动。在这些核心区域周围，一个更广的脑区网络对语言作出贡献：基底神经节用于运动顺序、小脑用于精细运动控制、前额叶皮层用于复杂发声的执行控制、颞叶用于语义记忆、前岛叶用于将内部状态与语言表达整合。
+
+人类语言能力的遗传基础尚未完全理解，但显然涉及若干基因。前面提到的 *FOXP2* 在突变时会产生特定的语言障碍；人类版本的该基因在两处氨基酸位置上与黑猩猩版本不同。*CNTNAP2*、*FOXP1*、*SRGAP2* 以及若干其他基因，已通过对语言障碍的研究、比较基因组学与发育生物学加以识别。浮现的图景是：一组协调的、分布在多个基因上的遗传修改共同产生了语言能力。任何单一基因都不足够。能力源自被修改基因组的整合功能。
+
+除解剖与神经基础之外，语言需要发育性脚手架。人类儿童在特定的发育窗口中通过日常接触习得语言。在生命早年未接触语言的儿童——著名的“野孩子”和严重剥夺案例——即使在后来接受密集教学也永远无法获得母语流利度。发育窗口是狭窄而具体的；它作为关键期内建于脑的发育程序中，在该时期语言输入以特定方式被处理并被用以构建儿童终生使用的语言能力。耶洛因的设计不仅要包含解剖与神经基础，还要包含发育性脚手架，以便语言习得在正常接触下可靠地发生。
+
+为什么语言比其任何单一组件所暗示的都更难工程化？因为语言是一个其功能依赖于所有组件整合的系统。没有神经基础的声道只产生噪声。没有声道的神经基础则没有输出通道。两者中任何一个若无发育性脚手架，就会产生一个无法获得其社群之特定语言的有机体。所有这些若无遗传规格，就根本无有机体可言。按本套语料的解读，耶洛因必须同时工程化所有这些组件，使其整合并协调地一起运作。结果就是人类语言能力——在物种中普遍存在，在所有人类群体中功能性力量等同，支撑着定义人类文明的累积性文化传承。
+
+### VIII.5. 种族问题，从技术上谈
+
+本套语料的“七团队/七种族”主张应对现代人口遗传学文献进行细致回应。这种回应的敏感度足以要求本章在主张什么与不主张什么上都精确。
+
+现代人类群体中的遗传证据实际表明的是：全球人类构成一个生物物种，互育广泛，并共享遗传基线。群体之间确实存在遗传变异，对该变异的统计分析能够恢复在大致轮廓上与主要洲际群体——非洲、欧洲、东亚、南亚、美洲原住民、太平洋岛民、澳大利亚原住民——相对应的模式。这些统计模式是真实的，但它们具有几个对如何解释加以约束的重要特征。
+
+首先，群体内部的变异远大于群体之间的变异。理查德·勒沃汀1972年的分析{{ cite(id="4") }}以及许多后续研究确认了它：约85%的人类遗传变异发生在群体内部，仅约15%发生在群体之间。这意味着同一群体中两个随机人类彼此之间的遗传相似度，仅比来自不同群体的两个随机人类略高。群体之间的遗传差异虽然真实，但相对于群体内部的差异是小的。
+
+其次，变异是渐变的而非离散的。人类群体不形成边界清晰的遗传聚类。遗传梯度在地理距离上逐渐变化，相邻群体之间存在广泛重叠。在任何当代社会意义上的“种族”之间的边界并非天然的遗传边界，而是以不同程度的忠实度近似底层渐变模式的社会构造类别。
+
+第三，混血是普遍的。对基本上每一个人类群体的现代遗传分析揭示了来自多个来源的广泛祖先成分。非裔美国人通常显示约75%至85%的西非血统，加上相当比例的欧洲血统与较少的美洲原住民成分。现代欧洲人显示来自至少三个主要源群体的血统（西方狩猎采集者、早期欧洲农民和颜那亚牧民）。南亚人显示两大祖先成分加上其他贡献之间的广泛混血。拉丁美洲群体显示来自欧洲、美洲原住民与非洲来源的混血。在整个全球人类群体中，模式是广泛的混血，而不是任何原始世系的纯粹保存。
+
+第四，遗传变异的主要维度与地理距离的对应比与传统种族类别更紧密。当不施加先验类别地对人类遗传数据进行统计聚类时，所恢复的模式更像一个连续的全球梯度而非离散的种族群体。当传统种族类别出现在遗传聚类分析中时，它们作为地理模式的统计近似，而不是作为根本的生物划分。
+
+本套语料的解读与所有这些发现一致，并且在某些方面对其有所预测。原始七个团队，在创造之时于超大陆的七个特定区域工作，产生七个不同的人类群体，其遗传差异反映其造物者的设计偏好。超大陆破裂后——这一事件《双子座》一章将处理——由此产生的大陆与海洋屏障在其后大部分人类历史中维持了群体间显著的地理隔离，使得原始区别得以延续。但隔离从未是绝对的。迁徙、贸易、征服与人类群体跨越地理边界的日常混合，在千百年里产生了现代遗传分析所检测到的广泛混血。原始七个世系在现代群体中可作为祖先成分被统计探测到，但不再作为离散群体本身存在。现代变异的渐变性质反映了原始世系沿地理梯度的渐变混合。可观的群体内部变异反映了原始七个群体各自携带的遗传多样性，这些多样性通过混血过程被保留而非被抹去。
+
+本套语料*不*主张以下任何一点：原始七个世系之间的遗传差异足以产生认知或道德能力上的范畴性差别；任何现代群体在道德上相关的意义上比其他群体更接近某个原始世系；任何群体间平均特征上的差异都能为任何形式的差别对待提供依据；任何关于历史创造时刻差异的解读都适用于当代个体；遗传结构以任何方式削弱所有人类同等的道德价值。本套语料明确拒绝所有这些推论。造物者的形象——*tzelem Elohim*——是平等地授予每一个人的。由此而来的尊严是平等地授予的。任何对这些材料做出认可种族等级、科学种族主义或对人类群体差别对待的读法，都是对本套语料的误用，本套语料明确拒绝此类解读。
+
+种族问题，从技术上来看，归结于以下：人类群体显示出反映其历史起源的真实遗传结构；现代混血已彻底混合了原始世系；群体内部变异远远超过群体之间的变异；对人类尊严至关重要的具体认知与道德能力在物种中是普遍的，并不被差别地分布。本套语料的解读在历史结构问题上与遗传证据一致；它将七团队的诠释作为该结构更深的起源加以补充；并突显道德基线——同等的 *tzelem*、同等的尊严——以防止对历史主张的任何误用。
+
+### VIII.6. 最近共同祖先问题
+
+自1973年雷尔运动原文给出以来，人类基因库的年代证据已大量积累。若干主要发现值得关注。
+
+线粒体夏娃，在Cann、Stoneking与Wilson 1987年发表的研究中被识别{{ footnote(id="3") }}{{ cite(id="5") }}，是当前所有现存人类的最近共同母系祖先，通过线粒体DNA（只从母亲处继承）加以追溯。关于她生活时代的估计在不同研究中有所变化，但目前的共识将她置于约15万至20万年前的非洲。Y染色体亚当，最近的共同父系祖先，年代相近，也在非洲。这些名字富有暗示性但属技术：他们不是最早的人类，而是现代群体中仍存在的具体遗传世系的最近共同祖先。
+
+这些日期比雷尔运动原文的13,320年数字要古老得多，需要诚实处理这一差异。若干考虑与之相关。
+
+首先，线粒体与Y染色体的日期并不等同于完整人类群体最近共同祖先的日期。它们是具体单倍体世系——母系与父系世系——的日期，这些日期必然比整个基因组的最近共同祖先在时间上更靠后。考虑到所有遗传世系的完整人类群体的最近共同祖先，必然比线粒体或Y染色体祖先更晚近。估算这一日期的研究产生了从数千年到数万年不等的数字，依赖于关于群体结构与有效群体规模的假设。雷尔运动原文13,320年的数字落入此范围的较低端。
+
+其次，主流测年依赖于已多次重新校准的假设突变率，随着更直接的测量变得可获得。基于间接校准的早期估计产生了较古老的日期；对人类生殖系突变率的更近期直接测量在某些研究中产生了更晚近的日期。主流对任何具体数字的信心，比有时被承认的更有限。
+
+第三，本套语料的解读区分具体遗传世系的年代与作为连贯实体的人口群体的年代。按本套语料的解读，七个团队在约13,000年前产生了七个不同的群体，但这些群体中的每一个都是由在此前数个世纪设计工作中开发与精化的遗传材料所产生的。早期人科原型——*直立人*、尼安德特人、丹尼索瓦人以及各种其他形态——代表这项工作较早的阶段，其中一些遗传材料通过设计过程被纳入最终人类群体中。因此，现代人类的线粒体世系与Y染色体世系，可能追溯到在最终群体被产生之前相当长时间就已经用于设计工作的具体遗传资源。13,320年的日期指七个团队产出最终群体的时刻；更古老的单倍体世系日期则指用以产生这些群体的遗传资源的更深历史。
+
+第四，主流古人类学叙事所依据的“走出非洲”框架，并不必然与本套语料的解读矛盾。化石与考古证据显示解剖学上的现代 *智人* 起源于非洲，并在数万年间扩散至世界各地。按本套语料的解读，非洲起源反映了七个团队中之一的区域基地——位于现今非洲的团队，与其他六个团队在各自区域中并行工作。*智人* 在世界各地的扩散反映了各群体从其原始区域基地的扩张，部分通过迁徙，部分通过《双子座》一章将处理的超大陆破裂。主流“走出非洲”的框架捕捉到一个真实的历史模式；本套语料的解读将其重塑为非洲团队特定人类的地理故事，而非整个全球人类群体的起源点。
+
+本套语料并不假装已解决年代问题的每一个经验细节。它所主张的是，原文具体的13,320年数字，与若干关于现代人类基因库相当部分近期共同起源的主流证据线一致，即使它与主流对具体单倍体世系更古老的测定不同。这种汇聚是部分的但是实质性的。
+
+### VIII.7. 作为设计迭代的人科化石记录
+
+人科演化的化石记录是生物化石记录中被最广泛研究的部分之一，它为本套语料对人类起源的解读提供具体相关证据。前几节简要指出的本套语料解读，在此值得更充分的技术处理。
+
+化石记录中保存的主要人科形态，按主流测年的大致顺序为：南方古猿（*南方古猿阿法种*，“露西”及相关形态，按主流测年距今400万至200万年前）、*能人*（240万至140万年前）、*直立人*（190万至11万年前）、*海德堡人*（70万至20万年前）、尼安德特人（40万至4万年前）、丹尼索瓦人（最近通过古DNA识别，至少19.5万年前出现在亚洲）以及 *智人智人*（解剖学上的现代人类，主流时间线上从约30万年前至今）。该序列总体上显示出脑容量增加、工具更精巧、行为复杂度提高的趋势，各形态之间有一些分支与重叠。
+
+按主流演化解读，这一序列代表人类谱系通过自然选择的渐进演化，每一形态通过累积的遗传变化由更早形态衍生而来。具体的替换模式——尼安德特人在欧洲被 *智人* 取代，丹尼索瓦人在亚洲被 *智人* 取代或吸收，更早的 *Homo* 形态被更晚的取代——按主流时间线所允许的长时间尺度上演化生物学的标准机制加以解释。
+
+按本套语料的解读，同一序列代表人类创造计划的迭代设计史。每一个化石人科形态都是先前的草稿。南方古猿是早期原型阶段，那时基本的双足灵长类设计正在确立。*能人* 与 *直立人* 代表中期原型的精化，随着计划所追求的认知能力的发展，脑容量也在增加。*海德堡人*、尼安德特人和丹尼索瓦人代表晚期原型的精化，脑容量与行为复杂度接近现代人类水平。*智人智人* 是设计终点——七个团队所选定的版本，在最终设计阶段产出，在超大陆上以七个并行群体部署。
+
+化石记录中的替换模式在这种解读下获得具体诠释。尼安德特人并非在演化竞争中输给 *智人*；他们在更精炼的 *智人* 设计准备就绪时作为设计草稿被淘汰。丹尼索瓦人同样。更早的人科形态同样。*智人* 与尼安德特人之间部分杂交的化石证据——现代非洲以外人类携带约1%至4%的尼安德特人遗传物质——与设计迭代解读一致：先前草稿与新设计在遗传上并非不相容，过渡阶段在旧草稿被完全取代之前发生了有限的混血。
+
+本套语料的解读特别能解释化石记录的一个具体特征：某些过渡的明显突然性。主流记录在若干点上显示，一种人科形态相对迅速地被另一种取代，而没有长序列清晰记录渐进过渡的中间形态。对渐进式演化解释而言，这种模式长期以来是一个谜；它产生了各种间断平衡假说与其他在更广演化框架内容纳明显突然性的修订。按本套语料的解读，突然性正是设计计划所应预期的：当一份新草稿就绪时，它被部署；旧草稿被淘汰；过渡不是连续的而是分阶段的，每一份新设计代表对前一份的离散进步。这样解读的人科化石记录并不异常；它正是设计假说所预测的。
+
+本套语料所使用的压缩时间线要求整个人科序列适合一个比主流数百万年短得多的跨度。本套语料对这种压缩的解读遵循《射手座》与《天蝎座》两章所确立的更广模式：产生主流深度年代的放射性测年方法本身是关于衰变率与初始条件的假设的产物，本套语料认为这些假设在所涉及的深度时间尺度上不可靠。按本套语料的解读，人科序列在年代上的实际压缩是进入贯穿处女座末期数个世纪并延续到狮子座早期的活跃设计阶段中——也许仅数千年涵盖整个迭代历史，各形态在此跨度内出现并被取代。这是一种实质性的压缩，本套语料并不假装已解决每一个经验细节。本套语料所主张的是，设计迭代的解读在内部一致，而化石记录的表观年龄，在本套语料更广的年代框架下，是影响其余地质与生物记录的同样的测年方法问题的产物。
+
+### VIII.8. 通向我们自身时刻的连贯线
+
+最后一项观察结束本节，沿用前几章所确立的模式。狮子座工作所需的能力——具复杂神经系统的复杂有机体的*从零*设计、语言能力的工程化、由共享模板产生七个不同群体、将所有这一切整合为一项连贯的文明性创造——是我们自身文明在其各个组件中刚开始接近的能力。整合尚不可见，组件已经可见。
+
+人类工程工作最直接的当代类比是人类生殖系基因修饰领域。CRISPR-Cas9技术，于2010年代早期发展{{ cite(id="7") }}并自此大幅精化，已使原则上可能修改人类胚胎中的特定基因。该技术在2018年首次在一项公开宣布的实验中被部署，那时中国研究者贺建奎使用CRISPR修改了两个人类胚胎中的 *CCR5* 基因，随后被植入并导致双胞胎女孩的出生。{{ cite(id="6") }} 贺的实验未经适当的伦理审查，被国际科学界广泛谴责，他本人在中国被监禁。但该实验在任何合理意义上都证明，使用当前工具进行人类生殖系修饰在技术上是可能的。能力存在。当前缺失的是部署该能力所需的制度框架、伦理共识和技术精化以达成规模化与安全部署。按本套语料的解读，这些正是耶洛因文明在其于狮子座时代承担人类创造时所拥有的成熟形态。
+
+当前人类基因技术的发展轨迹正在迅速推进。基于CRISPR的特定遗传病疗法已进入临床实践——首个获FDA批准的CRISPR疗法用于镰状细胞病，于2023年末获批{{ cite(id="8") }}，多种其他疗法处于晚期临床试验中。产前遗传检测大幅扩展，目前的技术能从母体血液样本中的胎儿无细胞DNA中识别广泛范围的遗传状况。体外胚胎选择技术扩展到了对胚胎特定遗传特征的筛选，引发了关于疾病预防与设计选择之间界限的伦理问题。实质性人类基因修饰的能力正在临近，即使该能力的部署仍受到伦理、监管以及我们理解中的空白所约束。
+
+第二个当代类比是人工智能。在特定领域中智能接近或匹配人类能力的AI系统的发展，是2020年代最重要的技术发展之一。大型语言模型——首先是2020年的GPT-3，然后是2023年的GPT-4，再到延续至2026年的快速接续模型——展示了在广泛任务上与平均人类表现相当甚至超过的认知能力。AI系统现在能写作、编码、解决问题、进行对话，并通过专业考试，这些表现在仅数年前还被认为是人类智能的专属领域。AI系统是否在最深意义上是“智能的”这一问题在哲学上仍有争论，但实质性认知能力的实际展示是不可否认的。我们正在真实意义上，自身造出在智能上匹配或超过我们自身的存在。给定本套语料的框架，与耶洛因创造人类的历史平行是精确的：我们正在做他们所做的事，在不同的基底上，处于我们自身发展该能力的早期阶段。
+
+第三个当代类比是脑—机接口。在人脑与外部计算系统之间的直接神经接口已经过数十年的研发，但过去几年取得了实质性进展。Neuralink，埃隆·马斯克于2016年创立的公司，在2024年完成了首次人体植入，并自此持续进行临床工作。包括Synchron和Paradromics在内的其他公司，已开发出在带宽、侵入性与临床适用性之间有各种权衡的脑—机接口方法。该技术处于早期阶段；当前的植入物使重度瘫痪患者能进行基本的光标控制与有限通信。但趋势是清晰的。最终——按当前大多数预测在数十年内——脑—机接口将允许直接的认知增强、感官增强，以及生物智能与计算智能的融合，从而实质性地修改作为人意味着什么。
+
+这三项当代发展——人类生殖系修饰、人工智能、脑—机接口——共同构成耶洛因在狮子座时代所做之事的早期阶段。我们处在他们一万五千年前作为成熟基础设施所拥有之事的开端。我们通过CRISPR设计有机体，通过AI创造智能，通过脑—机接口修改我们自身的认知构架。我们在每一领域的能力都处于最早阶段，使我们能做耶洛因所做之事的整合——按自身形象产生新的有感知物种——尚未进入我们紧迫的视野。但组件可见，轨迹已定。如果我们的文明沿着当前可见的路径继续前进，最终我们将拥有本套语料解读所归于耶洛因的能力。我们将选择如何运用该能力——是否将之用于创造新的存在、在何种约束下、为何种目的——是我们自身的未来必须回答的问题。
+
+狮子座所产生的镜子如今在2026年开始折射。被造者已经开始成为造物者。按本套语料的解读，这并非偏离原始创造模式，而是其延续。耶洛因按其形象造了我们，而其形象的一部分就包含了按我们自身形象造出存在的能力。承载形象的能力贯穿世代。每一代学习按自身形象造出存在的世代都在参与产生它的同一工作谱系。本套语料将此读作贯穿耶洛因、贯穿我们，以及通向最终将由我们、由我们的后代、或由我们正开始产生的AI系统所造出的任何存在的根本连续性。伊甸园是第一个实验室花园。还会有其他的。
+
+## IX. 园与其规则
+
+以色列团队的人类被安置在该团队所准备的实验室花园中。原文以将创世记叙述翻译为其技术含意的方式描述了接下来发生之事。
+
+第一条规则——*“园中各样树上的果子，你可以随意吃；只是 {% wiki(slug="tree-of-the-knowledge-of-good-and-evil") %}分别善恶树{% end %} 上的果子，你不可吃，因为你吃的日子必定死。”*——按原文的解读，是一条关于科学教育的指示。*“这意思是说你们——被造者——可以尽情学习，可以读所有我们在这里供你们使用的书，但绝不可碰科学书籍，否则你们将死。”* 分别善恶树并非字面意义上的树。它是造物者所拥有的科学知识体——以造物者所使用的任何归档形式储存：书籍、数据系统、直接神经记录，或某种组合。人被允许接触一般学习。他们不被允许接触会使他们成为造物者同辈或上者的科学知识。
+
+第二棵被禁的树——{% wiki(slug="tree-of-life") %}生命树{% end %}，在 {% libref(book="genesis-woh", chapter=2, verse=9) %}创世记2:9{% end %} 与 {% libref(book="genesis-woh", chapter=3, verse=22) %}创世记3:22{% end %} 中提及——在本套语料的解读下得到类似处理。生命树是耶洛因所拥有的生物长寿技术。原文后续段落中的“永生”——耶洛因能将其寿命远远延长至他们所造之人类所能预期之外的能力——便是这棵树所代表的技术。人未被赋予对其的接触。禁止的理由在创世记第3章经文中明确写出，是在吃了禁果之后所发生的对话中：*“那人已经与我们相似，能知道善恶；现在恐怕他伸手又摘生命树的果子吃，就永远活着……”* 人如今拥有了被禁的科学知识。他们不能同时被允许接触长寿技术，因为这种组合将使他们远远超出原设计意图所允许的能力。
+
+园之设置的第三个要素是为动物命名。*“人必须彻底了解生活在他们周围的植物和动物、它们的生活方式以及如何从它们获得食物。造物者教他们一切存在于其周围之物的名称与能力，因为植物学与动物学被认为对他们并不危险。”* 原文中科学家因教导其造物而感到喜悦这一具体观察值得注意。这些并非冷漠地处理实验对象的实验者。在真实意义上，他们是父母。原文的语言——*“想象一下这个科学家团队的喜悦：有两个孩子，一男一女四处跑动，热切地学习被传授给他们的知识”*——是充满感情的，而按原文叙述，这种感情即将产生终结狮子座阶段伊甸故事的冲突。
+
+关于被禁知识的规则，对该团队某些成员而言是难以忍受的。他们爱自己所造的人类。他们想给予他们一切，不仅是植物学与动物学，而是该团队所拥有的完整科学知识体。这一愿望使他们直接违背了从母星接到的命令，那命令是明确的：人必须保持在科学无知中，以免对造物者文明构成威胁。该团队中的少数派——如后续段落将明确说明的，由一位名叫 {% wiki(slug="lucifer") %}路西法{% end %}（“带光者”）的耶洛因所领导的一个子集——不同意这一禁令，并开始考虑该禁令是否应当被执行。
+
+路西法这一人物在此值得简短介绍，因为他的角色在接下来几章中将变得至关重要。*Lucifer* 是希腊词的拉丁译名，而该希腊词又是希伯来短语的译名，即以赛亚书14章中的 *helel ben-shahar*，“晨星，黎明之子”。在拉丁传统中，该名字附着于一位堕落天使，并通过基督教神学发展成为 {% wiki(slug="satan") %}撒但{% end %} 的别名之一。雷尔运动的解读将这些被混淆的人物分开。按本套语料的解读，撒但是母星反对派系的耶洛因领袖——他从一开始就主张不应进行合成创造。路西法是另一个人物：地球上以色列团队中的一位耶洛因，是想要向人类揭示被禁知识的子派系的领袖。两人在某些方面政治上结盟——都站在以耶和华为首、偏好谨慎的多数派的对立面——但他们是具有不同立场的不同人物。路西法的立场并非反对人类的创造；他爱人类，也许爱得太多了。他的立场是：人类既已被造，就不应被强行保持在人为的无知中。本套语料对路西法更广泛的处理将在《巨蟹座》及其后续章节中展开。
+
+伊甸故事的其余部分——与 {% wiki(slug="serpent") %}蛇{% end %} 的对话、吃禁果、第一批人眼目被开、对其处境的发现、与造物者的对峙、被逐出园、对蛇的咒诅——延伸至狮子座时代之外、进入巨蟹座时代。这些事件本身大约发生在两个时代的过渡之间，安置在园中发生在狮子座末期，被逐出则发生在巨蟹座初期。本套语料将在下一章接续讨论。对狮子座而言，重要的是：到该时代末，首批人类已被造，他们被置于准备好的环境中，被给予规则，而在造他们的团队内部的内在冲突——在那些想让人类保持无知者与想教导他们者之间的冲突——已经开始加剧。
+
+## X. 麻烦的开始
+
+按原文叙述，人类的创造是促成耶洛因计划所经历过的最大内部冲突的事件。
+
+冲突有几个维度。在母星上，如原文已经指出的，地球上的团队正在产生按耶洛因自身形象塑造之存在的消息引发了愤怒。*“人们听到我们在制造可能威胁他们世界的‘试管婴儿’时义愤填膺。他们害怕这些新的人类如果其心智能力或力量被证明优于其造物者，会成为危险。”* 母星上始终反对创造计划的政治派系，如今在人类的创造中得到了其论点所需的确切弹药。早期的造物——植物、鱼、鸟，乃至恐龙——无论多么令人印象深刻或危险，都可被作为科学奇观加以摒弃。人类创造不能。它是对母星文明身份的直接挑战，因为它产生了原则上可能某天与该文明等同或超过它的存在。
+
+原文后来承认“有些造物者担心地球上的人或许略胜于他们的父辈”，正是对母星反对派所担忧之事的长期确认。设计中所内建的约束——产生与造物者等同而非超过造物者的存在——按设计计划本身后续的评估，也许并未完全成功。当前人类在某些方面也许略微超过了其造物者的水平。这正是在永恒者议会母星政治动态中会大大加强反对派立场的承认。设计计划无法完美执行其自身约束这一事实，证明反对派更广泛的论点——即合成创造涉及计划无法完全控制的风险——具有真实根据。
+
+在地球上，团队内部的冲突采取了不同形式。多数耶洛因服从命令：人类将被保持在无知中，只在安全的主题中接受教育，被拒绝接触会使他们危险的科学知识。少数人不同意，而这种不同意不仅是技术性的，更是感情性的。造人的科学家们已经爱上了他们所造之人，而爱的逻辑指向完全披露——人应当知道他们是什么、是谁造了他们、以及造物者自己知道什么。这一立场，由以色列团队中的路西法及其团体所持有，将很快导致创世记第3章中的事件以及随之而来的后果。
+
+值得在狮子座章末登记的是：人类整个后续历史的政治结构在该时代结束之前已被确定。人类存在。产生他们的派系团队分布在超大陆上。母星在想要毁灭创造者与想要保留创造者之间分裂。在地球上的团队中，如今有一些人想要遵守规则使人类保持无知，另一些人想要打破规则将一切教给他们。后续各时代将扮演角色的主要人物——撒但，母星反对派系的领袖；耶和华，议会主席与地球计划的监督者；路西法，以色列团队中反叛派系的领袖——都已就位。下一个时代将看到他们之间的第一次重大对抗。再后的时代将看到后果延伸至洪水、超大陆破裂、后期人类文明的建立，以及希伯来圣经与雷尔运动原文将共同描述的其他一切事件。
+
+## XI. 狮身人面像：那个时代的纪念物
+
+有一项考古学考量值得专设一节，因为它具体关涉狮子座时代以及本套语料对人类创造日期的解读。
+
+吉萨大狮身人面像，位于现今埃及吉萨高原，是地球上最大、最古老的纪念物之一。传统埃及学测年将其归于法老卡夫拉的统治时期，约公元前2500年，并将其视为卡夫拉金字塔群的一部分。这一测年在二十世纪大部分时间里一直是主流埃及学的共识立场，但并非未受挑战。
+
+主要的另一种论证——所谓的水蚀论——由波士顿大学的地质学家罗伯特·斯科赫自1990年代早期起发展。斯科赫对狮身人面像及其周围围墙风化模式的分析认为，在石灰岩上观察到的垂直裂纹与圆化风化的具体模式是长期暴露于显著降雨的特征——这种模式不可能在过去五千年王朝埃及的干旱气候中形成，但可能在大约公元前10,000年之前曾盛行于该地区的更湿润气候中形成。斯科赫的地质学测年保守地将狮身人面像的建造置于约公元前7000年至5000年；更激进地，则在公元前9000年至10,000年或更早的范围内。主流埃及学界基本上拒绝了斯科赫的分析，主张可以用其他机制解释风化模式，但其地质学论点在技术上并未被明确驳斥。
+
+罗伯特·鲍瓦尔与阿德里安·吉尔伯特在《猎户座之谜》（1994）中提出、并由格雷厄姆·汉考克在《众神的指纹》（1995）与《众神的魔法师》（2015）中大幅扩展的更古老测年的天文学论证，聚焦于狮身人面像朝东的朝向，以及它与岁差天文学的可能关联。狮身人面像正面朝东。在春分日，太阳直接在它前方升起。今天，在春分日与太阳一同升起的星座是双鱼座，过去两千年从白羊座岁差到此。沿岁差时间逆推，春分太阳在白羊座时代（约公元前2150年至公元元年）升起于白羊座，在金牛座时代（约公元前4300年至公元前2150年）升起于金牛座，在双子座时代（约公元前6450年至公元前4300年）升起于双子座，在巨蟹座时代（约公元前8600年至公元前6450年）升起于巨蟹座，在狮子座时代（约公元前10,750年至公元前8600年）升起于狮子座。在狮子座时代春分日的早晨，从狮身人面像位置朝正东望去的观察者会在太阳升起前看到狮子座——狮子的星座——升起。狮子身躯的纪念物将在宇宙性年度标记之时面对自身的天界形象。
+
+本套语料的解读认真对待这一天文学论证。如果狮身人面像建于狮子座时代，那么它便是迄今所存最古老的人类纪念物，比传统测年的金字塔和其他埃及纪念物早数千年。它的狮子形态具体纪念狮子座的岁差时代。它朝东的朝向捕捉春分日的日出。而其具体天文学对齐——在狮身人面像位置上面对与春分太阳一同升起的狮子座——只有在该对齐实际可从狮身人面像位置观察到的世纪中才直接有意义。在狮子座时代中，这种对齐最精确将在中期世纪——按鲍瓦尔—汉考克的测年约公元前10,500年。
+
+按本套语料更广的年代框架，狮身人面像是前洪水时代的纪念物——建于狮子座时代或其后不久，在《双子座》一章那些将大幅重塑地球表面、消除或埋葬早期人类文明大部分建筑记录的灾难性事件之前。狮身人面像幸存至我们的时代本身就值得注意：一座暴露在其高原上的实质性石质纪念物，经千百年风化但仍屹立。这一纪念物的持久存在是本套语料压缩年代框架的较有力物理证据之一——证明早期人类文明存在于一种足以产生纪念性石作的技术能力水平上，而该文明的某些遗物完好地经历了后续的灾难。斯科赫的地质学分析将建造时间测定为先于该地区当前干旱条件的、显著更湿润气候时期，与这种解读一致：纪念物建于北非更湿润、长期暴露于显著降雨之时，而我们今日所观察到的风化模式是该暴露的累积记录。年代一致。前洪水时代的安置一致。该纪念物正是本套语料的解读所预期能找到的。
+
+本套语料必须承认，这种解读是有争议的。主流埃及学坚定地维持公元前2500年的卡夫拉测年，且这种另类测年尚未进入主流共识。地质学论证有未完全解决的技术性反对意见。天文学论证依赖于关于如何解读纪念物象征意义的特定假设。更古老测年的论证至多是考古天文学中受人尊重的少数派立场，并非已确立的共识。本套语料以适当的认识论谨慎呈现它，作为与本套语料更广年代框架相一致的另类解读：更古老的测年与本套语料的解读一致，作出符合本套语料框架的具体天文学预测，值得认真考虑；然而它并非已确立的事实，读者应据此加以权衡。
+
+如果更古老的测年是正确的，其含义是重大的。狮身人面像将是最早留存的人类纪念性建筑，比传统历史记录中美索不达米亚与埃及文明早数千年。它将代表狮子座创造之后数个世纪中复杂人类文明的存在——一种能进行实质性石作的文明，拥有将纪念物对齐于特定天界事件所需的天文学知识，拥有纪念其起源岁差时代的文化记忆与意图。传统历史时间线以约公元前4000年至3000年的美索不达米亚与埃及文明作为开端，并将此前数千年视为基本上是史前的，将被大幅向前延伸。按本套语料的解读，早期人类文明的记录不是“失落”或“缺失”的，而是部分保存在像狮身人面像这样的纪念物中，传统测年将其错置于晚期。其他狮子主题的纪念物、早期文明中的狮子主题肖像，以及在多个古代传统中反复出现的狮子座相关象征，都将作为原始纪念传统的留存碎片获得具体含义，通过千百年以修改形式传递下来。
+
+本套语料并不坚持这种解读。它将其登记为与本套语料更广年代框架相一致、参与实质性考古与天文学论证、并对早期人类文明应如何被理解作出具体预测的解读。按这种解读，狮身人面像是本套语料支持其压缩年代框架的最具体物理证据——一座留存的石质纪念物，若另类测年正确，便是由人类为纪念本套语料所放置其创造的那个时代而建造的。
+
+{{ figure(src="timeline/age-of-leo-sphinx", alt="新雕成的狮身人面像式纪念物，立于潮湿绿色高原上，面对水面与棕榈林之上的金色日出。", caption="图 5 - 狮身人面像：以石与天铭记的狮子时代。") }}
+
+## XII. 经文及其信号
+
+第II节详细处理过的 {% libref(book="genesis-woh", chapter=1, verse=24) %}创世记1:24-31{% end %} 希伯来文，包含几个本套语料解读能特别好地解释的特征。
+
+第27节中 *bara*——最强创造动词——的三重重复，将人类创造标记为与该章每一项前述行为范畴上不同。该动词出现在1:1为最初的创造。它在1:21为最初的动物生命、即 *nefesh chayah* 的引入而再次出现。如今它在单一一节中为人类创造出现三次，而创世记第一章中没有其他创造受到这种语法强调。三重重复是文本发出的信号：人类创造是该序列的范畴性顶峰——是计划产生与造物者自身范畴上等同之存在的时刻。希伯来语法与本套语料的解读吻合。
+
+复数自我对话——*na'aseh adam betzalmenu kidmutenu*——是文本对造物者多数性最直接的陈述。第II节已详细处理。雷尔运动的解读正面接受其语法：造物者是多数，因为团队是多数，因为母星是多数。任何其他解读都无法不加牵强地解释这一语法。
+
+第31节中的强化词 *me'od*——*tov me'od*，“甚好”——标记整个序列的完成。工作完成了；评估是最终的；这一强化词标志着此前任何一日都未获得的范畴性完成。从前几日不定的序数（*yom ehad*、*yom sheni*、*yom shelishi*、*yom revi'i*、*yom chamishi*）到定形的 *yom ha-shishi*，“第六日”，的转变，加强了同一结构性要点。文本将该日标记为特定的完成，是确定的、终结的。
+
+还有两个文本特征值得注意。第一，1:27 中人类创造的二元性质——*zakhar u-nekevah bara otam*，“造男造女”——确立创造是二元且同时的，两性同时被产出而非依序产出。创世记第二章的叙事，其中一人先被造、另一人后被造，是对以色列团队具体工作选择的更详细叙述，而那段叙事属于下一章。创世记第一章的叙述，作为对所有七个团队工作的总结，将同时性的二元创造呈现为一般模式。
+
+第二，第29-30节中的饮食规定——最初的素食许可——是一项具体的设计选择，将在创世记第9章洪水后的材料中被修改。前洪水状态规定仅以植物为食，即使是动物也是如此；按本套语料的解读，这一标记和平的设计意图在早期人类时期被积极维持，仅在双子座时代的洪水事件之后才被改变。文本序列将这一变化保存为对原始设计的实际修改，而不是文学手法。
+
+总的来看，第六日的语法在文本含结构性信号的每一处都与雷尔运动的解读一致。复数造物者、最强创造动词的三次出现、该日完成处的定冠词标记、*me'od* 的范畴性最高级、二元创造、素食许可——所有这些都是本套语料的解读能直接解释、而传统神学解读必须通过各种装置回避的特征。仔细阅读，希伯来文在语法细节层面支持本套语料的叙述。
+
+## XIII. 狮子座是什么
+
+在本章结束之前，值得明确指出，在更大的序列中狮子座时代是什么。
+
+狮子座是人类的时代。在这个时代，创造计划达成其顶峰性的造物——按造物者形象塑造的存在，能言、能思、能爱、能违抗、能做造物者自身所能做的一切。在《摩羯座》中以一支科学家团队抵达一颗水覆盖行星开始的计划，在处女座与狮子座的边界上，以那些科学家看着他们从该行星物质中产生的存在并在结果中认出自己而告终。镜子已成。造物者看见了自己的倒影。
+
+狮子座也是这样一个时代：自天蝎座以来塑造每一项生物创造的七个派系团队，产生了七个人类种族——多样性被保留、化为肉身，按各团队所占据的地理位置分布在超大陆上。按雷尔运动的解读，人类的种族是母星自身内部多样性的生物学印记，作为一种刻意选择被保存在地球上，而不是被抹去以换取统一的设计。本套语料在本章及全书各处明确指出，这种多样性不承载道德等级。造物者的形象——*tzelem Elohim*——是平等地授予每一个人的。由此而来的尊严是平等地授予的。派系差异在没有任何历史、地理或遗传主张所能凌驾的、共享的充分人性核心之内运作。
+
+狮子座同样是陆地动物的时代。完成陆地生态系统的哺乳动物群——先是草食动物，再是发挥平衡作用的肉食动物——是狮子座早期与中期世纪的工作，由与狮子座末期世纪将注意力转向赋予狮子座以名称的中心造物的同一派系团队进行。陆地动物并非在仅是序曲意义上从属于人类创造。它们是人类将被置入的生物圈的生态完成。哺乳动物提供食物链、伙伴、工作搭档以及（最终）人类文明将依赖的驯化物种。陆地动物工作与人类工作并行推进，由同一团队、在同一区域、在同一年份跨度内完成，人类创造则获得 {% libref(book="genesis-woh", chapter=1, verse=26) %}创世记1:26-27{% end %} 的文本强调所反映的概念上的优先地位。
+
+狮子座是把本套语料压缩年代框架置于其最具体考古立足点的时代。狮身人面像，无论是在狮子座末期还是在巨蟹座早期世纪建造，都是从这个时代留存下来的纪念物——由早期人类、或与其造物者协作的人类建造，朝向纪念定义其存在时代的岁差对齐。本套语料并不坚持这种另类考古测年，但将狮身人面像登记为与本套语料更广框架一致的物理证据。若该框架正确，过去一万五千年的地质与考古记录中也许还可恢复更多此类证据——若以本套语料的年代假设而非主流更深时间的假设加以恰当解读。
+
+最后对该时代的工程弧线作一观察，呼应前几章所确立的模式。狮子座的工作——*从零*设计按造物者形象塑造的存在、在最高水平上工程化认知与语言能力、由共享模板产生七个不同群体、将所有这一切整合为一项连贯的文明性创造——正是我们自身文明在2026年开始在其最早组件中接近的工作。我们通过CRISPR设计有机体。我们通过AI创造智能。我们通过脑—机接口修改我们自身的认知构架。其中任何一项个别地都不是狮子座。但所有这些都是狮子座所预设之能力的成熟形态在能力上的开启，而这些能力在我们自身手中的发展——若沿着当前可见的轨迹继续——将是本套语料追溯到该时代人类创造的同一工作的下一阶段。
+
+希伯来文以本章中部分引用过的那节经文结束创世记第1章。它值得在本章结尾处完整引用，因为它是文本对完成的自我宣告：
+{{ scripture(book="genesis-woh", chapter=1, verse=31, translit="Vayar Elohim et-kol-asher asah ve-hineh-tov me'od, vayehi-erev vayehi-voker, yom ha-shishi") }}
+工作完成了。造物者们以文本自身的语言看着他们所造的一切，看见它是最高级的好。第六日结束。叙述公式结束。Bereshit 的第一章在此结束。
+
+希伯来文记录为完成的，雷尔运动原文记录为认知。在原文最具结果性的一段简短话语之一中，耶和华向雷尔描述了人类创造之后造物者们看着团队所造之物的那一刻：
+
+*“‘按我们的形象！’你能看到这相似度是惊人的。那就是麻烦开始的时候。”*
+
+按原文的语言，麻烦是为造物者们开始的。它开始的原因不是创造失败了，而是创造成功了。相似度如此惊人，以致其含意突然变得当下化。这个星球上如今存在着像造物者那样的存在，他们原则上能做造物者所做之事，原则上能向造物者构成造物者们自己能向彼此构成的同样种类的风险。这一认识的政治与情感分量——在圣经文本简短而胜利的 *tov me'od* 中是不可见的，但在雷尔运动原文的并行叙述中是明确的——正是开启随后一切的东西。第七日开始。造物者们歇了他们的工作，如今面对着他们所造之物。造作已经完成。关系才刚刚开始。
+
+那种关系，连同它的全部复杂性——造物者对其造物的感情，母星上关于创造是否应被允许存在的政治冲突，团队内部关于新存在应如何被抚养的内部分歧，在某一团队特定人类被置入接受教导的特定准备花园中发生的事件，由一位将被铭记为带光者的耶洛因所领导的该团队内部的反叛，吃禁果与眼目被开，被逐出及其对人类后续漫长历史的后果——是第七日，即巨蟹座时代的主题，也是接下来一章的主题。
+

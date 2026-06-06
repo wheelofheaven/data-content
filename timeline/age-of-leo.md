@@ -385,7 +385,7 @@ The corpus does not insist on this reading. It registers it as the reading that 
 
 {{ figure(src="timeline/age-of-leo-sphinx", alt="Newly carved Sphinx-like monument on a wet green plateau facing a golden sunrise over water and palms.", caption="Ill. 5 - The Sphinx: the lion age remembered in stone and sky.") }}
 
-## X. The Text and Its Signals
+## XII. The Text and Its Signals
 
 The Hebrew text of {% libref(book="genesis-woh", chapter=1, verse=24) %}Genesis 1:24-31{% end %}, treated in detail in Section II, contains several features that the corpus's reading explains particularly well.
 
@@ -401,7 +401,7 @@ Second, the dietary specification in verses 29-30 — the original vegetarian pe
 
 The grammar of Day 6, taken as a whole, is consistent with the Raëlian reading at every point where the text contains structural signals. The plural creators, the triple appearance of the strongest creation verb, the definite-article marking of the day's completion, the categorical superlative of *me'od*, the dual creation, the vegetarian permission — all of these are features that the corpus's reading explains directly and that the conventional theological readings have had to work around through various devices. The Hebrew, read carefully, supports the corpus's account at the level of grammatical detail.
 
-## XI. What Leo Is
+## XIII. What Leo Is
 
 It is worth stating plainly what the Age of Leo is within the larger sequence, before the chapter closes.
 
