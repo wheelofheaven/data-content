@@ -1,96 +1,280 @@
+
 +++
-template = "timeline-page.html"
 title = "蠍座の時代"
-period = "紀元前17'490—紀元前15'330"
-age = "scorpio"
-description = "蠍座の時代、紀元前17490年から紀元前15330年まで続くこの時代は、「Wheel of Heaven」物語における「創造の第三日」を表しています。射手座の時代の地球改造の成果を受けて、この時代は新しく形成された超大陸でエロヒムの科学者たちが合成生物学に取り組んだことが特徴です。彼らは繁殖能力を持つ様々な種類の植物を含む植生の創造に焦点を当て、地球上の多様な生態系への第一歩を踏み出しました。彼らの仕事は、科学的な能力と芸術的な影響を組み合わせ、調和が取れ、美的にも魅力的な自然世界の創造を目指しました。この時期は、私たちが知る生命の基盤を築く上で重要であり、地球改造から生命創造への重要な移行を示しています。"
-image = "geodesic-structures.png"
-weight = 215
+description = "大年の第三の時代。地球上に最初の生命が現れます——化学から合成された植物細胞が、科学者と芸術家のチームによって設計され、生物圏の基礎を築きます。"
+template = "timeline-page.html"
+toc = true
+
+[extra]
+symbol = "♏"
+color = "red"
+start_year = "-17490"
+end_year = "-15330"
+genesis_day = 3
+genesis_verse = "地は青草と、種をもつ草と、種類にしたがって種のある実を結ぶ果樹とを地の上に生えさせよ。"
+genesis_interpretation = "蠍座の時代は第三のヨームです。科学者たちは無機化学から最初の植物細胞を合成し、超大陸全体に分散した研究チームを設立し、芸術家と共に多様で美的に精巧な植生を生み出し、光合成を通じて大気を再形成し始めます。"
+
+
+footnotes = [
+    { content = "本章が論ずる連続性の原理——*デ・ノヴォ*合成プログラムが、新たな生物カテゴリーごとに再開するのではなく、命名された時代の下で連続的に進行するという考え方——は、本コーパスの中心的な解釈上の動きの一つです。時代名は、運用上の境界ではなく、優勢な新カテゴリーを示すものです。" },
+    { content = "2010年および2016年のヴェンターによる合成細胞プログラムは、§IIIが論ずる蠍座の科学者たちが惑星規模で行っていたことに対する、現代における最も直接的な類似事例です。みずがめ座の章では、2020年代のバイオテクノロジー期間においてこの系譜に戻ります。" },
+    { content = "ヘブライ語聖書の語句 *le-mino*（「その種類に従って」）こそが、本コーパスの読み方が新ダーウィン主義的な共通祖先説に対して鋭く対立する箇所です。本章の主張は、種が全く変化し得ないということではなく、*分類学的カテゴリー*そのものが設計時に指定され、設計上の制約として保存されてきたということです。" },
+]
+
+references = [
+    { title = "Le Livre qui dit la vérité（真実を告げる書）", author = "クロード・ヴォリロン（ラエル）", date = "1974", medium = "religious-text", path = "/library/lets-welcome-the-extraterrestrials/" },
+    { title = "Les Extra-Terrestres m'ont emmené sur leur planète（地球外生命体が私を彼らの惑星に連れて行った）", author = "クロード・ヴォリロン（ラエル）", date = "1975", medium = "religious-text", path = "/library/extraterrestrials-took-me-to-their-planet/" },
+    { title = "Intelligent Design: Message from the Designers（インテリジェント・デザイン：デザイナーからのメッセージ）", author = "クロード・ヴォリロン（ラエル）", date = "2005", medium = "religious-text", description = "ラエリアン基礎テキストの英語版統合版。2005年の序文では、当時のヴェンターによる合成細胞研究をラエリアン仮説の実証として明確に位置づけています。" },
+    { title = "創世記", author = "無名（ヘブライ語聖書）；WoHが点母音付きマソラ本文から翻訳", date = "紀元前6–5世紀頃", medium = "religious-text", path = "/library/genesis-woh/" },
+    { title = "The Origin of Life（生命の起源）", author = "アレクサンドル・I・オパーリン", date = "1924年（ロシア語）；1938年英訳", medium = "nonfiction-book", description = "原始スープ仮説による生命発生論の基礎的著作。" },
+    { title = "A Production of Amino Acids Under Possible Primitive Earth Conditions", author = "スタンレー・L・ミラー", publication = "Science 117 (3046), 528–529", date = "1953", medium = "academic-paper", url = "https://www.science.org/doi/10.1126/science.117.3046.528", description = "原始大気の化学条件をシミュレートし、単純なアミノ酸が自発的に生成することを実証したミラー・ユーリー実験。" },
+    { title = "Molecular Structure of Nucleic Acids: A Structure for Deoxyribose Nucleic Acid", author = "ジェームズ・D・ワトソンとフランシス・H・C・クリック", publication = "Nature 171 (4356), 737–738", date = "1953", medium = "academic-paper", url = "https://www.nature.com/articles/171737a0", description = "現代分子生物学の基盤となる二重らせん論文。" },
+    { title = "On the Origin of Species（種の起源）", author = "チャールズ・ダーウィン", date = "1859", medium = "nonfiction-book" },
+    { title = "Creation of a Bacterial Cell Controlled by a Chemically Synthesized Genome", author = "ダニエル・G・ギブソン、J・クレイグ・ヴェンター他", publication = "Science 329 (5987), 52–56", date = "2010", medium = "academic-paper", url = "https://www.science.org/doi/10.1126/science.1190719", description = "完全に合成されたゲノムを持つ最初の生細胞——マイコプラズマ・マイコイデス JCVI-syn1.0。" },
+    { title = "Design and Synthesis of a Minimal Bacterial Genome", author = "クライド・A・ハッチソンIII、J・クレイグ・ヴェンター他", publication = "Science 351 (6280), aad6253", date = "2016", medium = "academic-paper", url = "https://www.science.org/doi/10.1126/science.aad6253", description = "マイコプラズマ・マイコイデス JCVI-syn3.0——473遺伝子、既知の自立生存型ゲノムとして最小のもの。" },
+    { title = "How Life Works: A User's Guide to the New Biology（生命はいかに働くか：新しい生物学のためのユーザーガイド）", author = "フィリップ・ボール", date = "2023", medium = "nonfiction-book", description = "§IIIで引用される細胞内部動力学の「満員のナイトクラブ」という枠組みの出典。" },
+]
+
+[[extra.prev_age]]
+name = "射手座の時代"
+symbol = "♐"
+link = "/timeline/age-of-sagittarius/"
+
+[[extra.next_age]]
+name = "天秤座の時代"
+symbol = "♎"
+link = "/timeline/age-of-libra/"
 +++
 
-The Age of Scorpio lasts from –17'490 to –15'330 and follows the Age of Sagittarius which lasted up to –17'490.
 
-In the last chapter, The Age of Sagittarius, we learned that the group of scientifically inclined spacefaring pioneers who managed to find an exoplanet that provided all elements necessary to produce artifical life, including water, studied the planet well enough to capitalize on its capacity to harbour life. The whole planet was covered in water, so they went on to build new outposts on the surface these oceans and kept studying and surveying the constitution of this new planet, especially its ocean and the bottom of it. Eventually, they realized they could terraform a dry land mass by piling up matter from the bottom of the ocean in one place. A single gigantic land mass emerged through the terraformation.
+## I. 時代そのもの
 
-All of that happened during the Age of Sagittarius which lasted from –19'650 to –17'490, one of the twelve precessional World Ages. As we learned with the Age of Capricorn, which represents the First Day of Creation mentioned in the first book of Genesis, the Age of Sagittarius as the subsequent World Age is therefore representing the Second Day of Creation. The Bible describes the terraformation very eloquently as wollows: “Let the waters under the heaven be gathered together unto one place, and let the dry land appear.”
+この時代に最初の生命が現れます。
 
-With the newly terraformed supercontinent, the Elohimian scientists could land on firm soil and build permanent structures; the third phase could begin. The Third Day of Creation is the sum of all events that happened subsequently during the Age of Scorpio.
+蠍座の時代は紀元前17,490年から紀元前15,330年まで、2,160年間にわたり、射手座の時代の直後に続きます。これは、前二つの時代の長い準備——調査、大気の分離、大陸の隆起——が、ついに最初の生物学的成果をもたらす時代です。それまで広大な無人の実験室であった惑星に、住民が住み始めます。しかし、その住民の登場は華々しく告げられるものではありません。植物から始まります。より正確に言えば、その可視的な結果が顕著になるのに数世紀を要し、その生態学的影響がさらに長くかかる単純な光合成生物から始まります。この時代は、地球が緑化する時代です。また、その表現はあまりに劇的すぎるとはいえ、最初の生命の時代でもあります。そして、それが最初であるがゆえに、この後に続く全ての生物学的創造の連続におけるパターンを定めます。
 
-{{ figure(src="timeline/equinox_bc17490", caption="Fig. 1 - Vernal equinox in 17'490 BC") }}
+この時代はラエリアン的読解において、{% libref(book="genesis-woh", chapter=1, verse=11) %}創世記 1:11{% end %}と12節、そして拡張して13節に対応づけられます。創世記 1:11のヘブライ語本文は次のように読みます：
+{{ scripture(book="genesis-woh", chapter=1, verse=11, translit="Vayomer Elohim tadshe ha-aretz deshe, esev mazria zera, etz pri oseh pri le-mino asher zaro-vo al-ha-aretz, vayehi-khen") }}
+12節はそれを敷衍します：
+{{ scripture(book="genesis-woh", chapter=1, verse=12, translit="Va-totzei ha-aretz deshe, esev mazria zera le-minehu, ve-etz oseh-pri asher zaro-vo le-minehu, vayar Elohim ki-tov") }}
+13節は第三の日を閉じます：
+{{ scripture(book="genesis-woh", chapter=1, verse=13, translit="Vayehi-erev vayehi-voker, yom shelishi") }}
+この箇所における三つのヘブライ語の用語が、運用上の内容の大部分を担っており、注意深い検討に値します。דֶּשֶׁא（*deshe*）は、語根דשא（*d-sh-*ʾ、「発芽する」）から派生し、最も若く柔らかい植生——人のいない地に最初に蒔かれた時に現れる最初の緑の芽——を意味します。עֵשֶׂב（*esev*）は草本、種を持つ中程度の複雑性の植物を指し、זֶרַע（*zera*、種子、語根זרע *z-r-*ʿ「蒔く」より）を生む特定の能力によって*deshe*と区別されます。עֵץ פְּרִי（*etz pri*、果樹）は最も複雑なカテゴリーを表します——その生殖装置がפְּרִי（*pri*、語根פרה *p-r-h*「実を結ぶ、増える」より）として実を結ぶ樹木です。これら三つのカテゴリーは、それぞれ発達連続の開始期、中間期、複雑期を指し示し——本コーパスが展開する連続性原理に基づけば——最初の光合成的地被から実を結ぶ樹木性植生に至る進行であり、この時代の作業が21世紀紀を通じて成し遂げたものです。
 
-## Directed abiogenesis
+これらの節における、もう一つの語句が特に注目に値します。なぜなら、それは創世記1章を通じて繰り返し現れ、本コーパスの読解においては特定の解釈上の重みを担うからです。その語句はלְמִינוֹ（*le-mino*）、「その種類に従って」あるいは「その種類に応じて」であり、名詞מִין（*min*、種類または種）に由来します。この語句は{% libref(book="genesis-woh", chapter=1, verse=12) %}創世記 1:12{% end %}だけで2度——種を生む草本に1度、実を結ぶ樹木に1度——現れます。そしてさらに第5日と第6日の創造記述において8回現れ、それぞれの場合、生み出される特定のカテゴリーの生物に適用されます。この語句は装飾ではありません。それは設計上の制約を示しています。植物は*le-mino*、その*min*に従って、その設計された種類の境界内で繁殖します。果樹は、繁殖することによって草本に変化することはなく、草本が草に変化することもなく、草が植物でないものに変化することもありません。各生物はその種類を伝播します。本文が保存しているもの——そして本コーパスが主流派の進化論伝統が体系的に誤読してきたと論ずるもの——は、生物学プログラムの本来の構造です：設計されたカテゴリーの連続であり、各カテゴリーは内部では繁殖可能ですが、別のカテゴリーへの自然な繁殖は不可能です。この語句の意味するところは、第V節で詳述されます。
 
->> Let the earth bring forth grass, the herb yielding seed, and the fruit tree yielding fruit after his kind, whose seed is in itself, upon the earth.
->> Genesis 1: 11.
->
-> In this magnificent and gigantic laboratory, they created vegetable cells from nothing other than chemicals, which then produced various types of plants. All their efforts were aimed at reproduction. The few blades of grass they created had to reproduce on their own. [...]
+本章が進む前に、二つの観察を述べておきます。第一に、蠍座の作業は蠍座が始まる前から始まっています——前章で論じたように、射手座の最後の数世紀は蠍座の初期にまで及び、射手座の作業として形式上含まれる大陸の安定化は、最初の生物学的作業が準備される間も継続しています。この重なり合いは諸時代の特徴であり、繰り返されます。第二に、聖書の記述は、その圧縮が示唆するよりも実質的にはるかに込み入った作業を、わずか二節に圧縮しており、ラエリアン的源泉資料がそれを真の比率に近いものへと展開しています。簡潔な創世記の定型句——*地は青草を生やせ*——は、源泉の読解では、新しい超大陸に分散したチームの科学者たち、後に彼らに加わる芸術家たち、変異種を生み出す複数の独立した研究プログラム、そしてその変異種が比較・評価・選択される定期的な集会を伴う実験プログラムの実行を記述しています。創世記の詩は出来事を保存しています。その質感は保存していません。
 
-The quoted text is a reference to Genesis 1:11, in which the Elohimian scientists create vegetation on Earth. These scientists create plant cells from chemicals in a laboratory setting, with the goal of producing different types of plants. The scientists' focus was on reproduction, and they worked to create cells that could eventually reproduce on their own.
+## II. 最初の生物学、そしてプログラムの連続性
 
-The creation of synthetic life involves the design and engineering of biological systems that can perform specific functions or exhibit specific behaviors. In the context of the passage, the scientists are creating plant cells from chemicals in a laboratory setting, which is a type of synthetic life engineering.
+蠍座の作業は、この惑星における最初の生物学的作業であり、*最初*という言葉はある程度の精密さをもって受け止められるべきです。
 
-This type of engineering involves using techniques from various fields, including genetics, molecular biology, and bioengineering, to create artificial organisms or biological systems that did not exist on the Elohimian home planet before. To create synthetic life, these scientists need a thorough understanding of the molecular and genetic processes that underpin life. This includes knowledge of DNA replication, gene expression, and the regulation of metabolic pathways. They also require access to advanced tools and techniques for manipulating DNA and other biomolecules, such as CRISPR/Cas9[^1] gene editing. Other advanced techniques such as synthetic biology, metabolic engineering, and protein engineering have also been developed to enable scientists to engineer new biological systems and molecules with specific functions.
+源泉はそのプロセスを次のように描写しています：*「この壮大かつ巨大な実験室において、彼らは化学物質のみから植物細胞を創り出し、それが様々な種類の植物を生み出しました。彼らの努力のすべては繁殖を目指したものでした。彼らが創った数本の草の葉は、自力で繁殖しなければならなかったのです。」* この文は特徴的に圧縮されていますが、それが描写する作業はそうではありません。化学的前駆体——つまり、いかなる前駆生物にも頼らず、地球環境に存在する無機元素から——作られる植物細胞は、私たち自身の科学が2020年代において実証された能力を持たないプロセスです。私たちは既存の生物を広範に改変することはできます。自然細胞から採取した部品から人工細胞を組み立てることはできます。指定通りに遺伝物質を合成し始めています。しかし、無機化学のみから機能する細胞を構築することはまだできません。そして、それを行うという問題は、既存技術の単なる洗練の問題ではありません。それは、解決すれば第一級の科学革命をなすであろう問題です。エロヒムは、源泉の説明によれば、地球に到達する以前にこの問題を解決していました。蠍座の作業はその解決を前提としています。解決が母星から運ばれたのか、それとも射手座の準備段階で地球上で開発されたのかは明示されていません。
 
-The creation of synthetic life through engineering can be considered a type of directed abiogenesis, as it involves the deliberate design and creation of new forms of life using chemical and biological processes. Abiogenesis refers to the natural process by which life arises from non-living matter, and directed abiogenesis involves actively guiding and controlling this process to achieve specific outcomes.
+源泉の説明における繁殖への強調は、特に注目に値します。科学者たちは個々の植物を生み出すだけでは満足しませんでした。彼らは植物が自力で繁殖することを要求しました。すなわち、植物が細胞分裂、遺伝伝達、種子生産、発芽、そしてそれに続く発達連鎖の全装置を内包することを要求したのです。これは重要な設計上の制約であり、外部の介入を通じて植物を惑星に導入し維持するだけのより穏当な作業とは、蠍座の作業を区別します。エロヒムは温室を運営していたのではありません。彼らは生物圏を確立していました。植物はそれ以上の手入れなしで存続可能でなければなりませんでした。もしそうでなければ、プロジェクトは完了していませんでした。
 
-In synthetic life engineering, scientists are using their understanding of the principles of life to create new biological systems and organisms that do not exist in nature. This involves the design and construction of synthetic DNA and other biomolecules, as well as the development of new techniques for manipulating and controlling biological systems.
+本章がさらに進む前に、本章以降の全ての章に適用される原理を、一度、明確に述べる必要があります。
 
-[^1]: Gene editing technologies such as CRISPR/Cas9 are a group of powerful tools that would allow potential scientists to precisely modify the genetic code of living organisms. These technologies work by using specialized proteins to cut and modify specific sections of DNA, allowing researchers to add, delete, or replace genes with great accuracy. See more here: [CRISPR | Wikipedia](https://en.wikipedia.org/wiki/CRISPR)
+蠍座で始まる*デ・ノヴォ*生命合成の作業は、蠍座の終わりに止まりません。{{ footnote(id="1") }} それは、後続の時代が他の作業を行っている間も中断しません。それは、蠍座における最初の成功した植物細胞から、獅子座における最初の人類の創造、そしてそれ以降に至るまで、命名された時代の下を流れる連続的な研究プログラムとして、中断なく続きます。時代ごとに変わるのは、導入される*優勢な*新生物カテゴリーです——蠍座における植物、続く時代における海洋生物と鳥類、さらに後の時代における陸生動物、そしてさらに後の人類です。しかし、細胞合成、遺伝設計、生物構築、そして技術の洗練という根底にある作業は決して止まりません。各時代は、その時に導入される最も顕著な新カテゴリーから、その名前と本文上の要約を受け取ります。根底にあるプログラムは同じ命名規則の対象ではありません。それは、創造連続の全期間を通じて、背景で連続的に進行します。
 
-It's difficult to speculate on how a sophisticated extraterrestrial civilization such as the Elohim might create synthetic life _ex nihilo_ (from nothing), as we cannot be certain what their technological capabilities and limitations might have been in that moment in time. However, we can imagine some general strategies that the Elohim might have employed based on our current understanding of synthetic biology and genome engineering.
+これは二つの理由で重要です。第一の理由は、それが源泉資料を全体として読んだ時に実際に描写しているものを正しく反映しているということです。源泉が、ラエルへの後の遭遇でなされた一節の中で、*「私たちが地球に来て生命を創造した時、私たちは非常に単純な創造物から始めて、次に環境適応技術を改善していきました」*と述べる時、その発言は以前の説明の修正ではなく、それを補完するものです。創世記の諸時代は可視的な節目を描写しています。圧縮された創世記の記録には不可視である連続的なプログラムこそが、その節目を生み出したものです。各成功した節目——草、それからより複雑な植物、それから最初の魚、それから最初の鳥——は、先行する数世紀にわたって段階的に洗練されてきた技術の基盤の上で達成されました。休止はありませんでした。連続的な改善がありました。
 
-One possible approach to creating synthetic life ex nihilo might involve using advanced tools for genome engineering, such as CRISPR/Cas9 or other gene editing systems as mentioned before, to manipulate the genetic code of simple organisms such as bacteria or yeast. By carefully engineering the genome of these organisms, the Elohimian scientists could potentially create entirely new biological systems with novel functions and behaviors.
+第二の理由は、それが本コーパスの後続の章すべてに対する読者の取り組み方に影響するということです。天秤座の時代（第4日）に到達し、その時代を特徴づける天文学的作業に章の関心が向けられる時、読者は蠍座の生物学的作業が停止していないことを理解すべきです。それは、同じチームまたはその後継者の下で、同じ基地で、同じ規模で、並行して続いています。乙女座の時代（第5日）に到達し、海洋生物と鳥類の導入が描写される時、読者はこの導入そのものが、蠍座で始まり最初の魚が生み出されるまでに数世紀稼働してきた合成技術の連続的な洗練の上に築かれていることを理解すべきです。諸時代は報告のためのカテゴリーです。根底にあるプログラムは単一です。この区別は一度だけ注記して忘れるべき洗練ではありません。それは、本コーパスが理解する創造連続全体が依拠する原理です。
 
-Another approach might involve designing and synthesizing artificial DNA and other biomolecules that could be used to build entirely new biological systems from scratch. This would require a deep understanding of the underlying principles of life, as well as advanced techniques for synthesizing complex biomolecules and designing self-assembling systems.
+源泉の後の発言は、蠍座の作業そのものにも順序の詳細を加えています。創世記の本文は植物の三つのカテゴリー——*deshe*（草）、*esev*（種を生む草本）、*etz pri*（実を結ぶ果樹）——を名指し、それを同時的な創造として、あるいは発達連続として列挙しています。今述べた連続性原理に基づけば、後者の方が可能性が高いです。蠍座の作業はおそらく、最も単純な光合成生物——単細胞藻類、シアノバクテリア、既存の食物連鎖を必要とせずに生物圏を確立できる基本的な微小な形態——から始まり、時代の数世紀を経て、より複雑な植物形態へ、そして後の諸時代の生物圏を支えるであろう精巧な種子植物と実を結ぶ樹木へと進んでいったのです。21世紀紀は長い時間です。エロヒムはそれを使いました。
 
-It's also possible that a sophisticated extraterrestrial civilization might employ computational methods to design and simulate synthetic biological systems before actually building them. Computer simulations and modeling can be used to predict the behavior of complex biological systems, and could help extraterrestrial scientists to identify optimal designs and avoid potential pitfalls.
+{{ figure(src="timeline/age-of-scorpio-first-cell", alt="開けた赤い光に照らされた生物学実験室。暗い水と新しい土壌のそばに、浅いバイオリアクターが柔らかく光を放つ。", caption="図 1 - 最初の細胞：新しい実験室で化学から組み立てられた生命。") }}
 
-As for now, we must satisfy ourselves with mere speculations as we cannot fathom what incredible knowledge and technologies these early Elohimian scientists must have wielded to synthetize new life forms.
+## III. チームと派閥
 
-{{ figure(src="wiki/genetic-research-lab", caption="Ill. 1 - Genetic research lab with water supplies") }}
+蠍座に関する源泉の説明の最も際立った特徴の一つであり、圧縮の中で最も失われがちな点は、その作業が単一の中央集権的なプログラムによって行われたのではなかったということです。
 
-## Intelligent Design
+科学者たちは、源泉によれば、*「この広大な大陸に、小さな研究チームに分かれて広がりました。各人はそれぞれの霊感と気候に応じて、異なる種類の植物を創り出しました。」* チームは*「定期的に集まり、研究と創造を比較しました。」* これは重要な詳細であり、後続の諸時代を通じて繰り返されるパターンを確立します。地球上における生命の創造は、単一の青写真を持つ統一された作業ではありませんでした。それは、新しい超大陸の各地で並行して活動する複数の独立したチームによって行われた分散型の作業であり、各チームは地域条件に応じ、各チームはプロジェクトのより広範な枠組みの中で独自の研究議題を追求していました。
 
-Not only can this process be considered _directed abiogenesis_, but is also a subtype of Intelligent Design. Intelligent Design is a concept that argues that certain features of the natural world are best explained by the intervention of an intelligent designer or creator, rather than through natural processes such as evolution. Proponents of Intelligent Design argue that there are certain biological structures and systems that are too complex to have evolved through natural selection and therefore must have been designed by a higher power.
+しかし、チームは恣意的なものではありませんでした。これこそが、源泉資料を注意深く読んだ時に明らかになる、本コーパスの残り全体に影響をもたらす組織のレベルです。
 
-Intelligent Design argues that certain features of the natural world, such as the complexity and functionality of living organisms, are best explained by the intervention of an intelligent designer or creator. Proponents of Intelligent Design often use analogies to computer programming to support their argument, such as the idea that the DNA code that governs the development of living organisms is analogous to a software program. This kind of paradigm argues that the information content of the genetic code, and the complex biological systems that it controls, cannot be explained by natural processes such as evolution, but instead require the intervention of an intelligent agent or designer.
+最も可能性の高い読解——天の車輪が採用するもの——は、各チームが母星における派閥、地域、または政府の下位区分に対応していたというものです。地球プロジェクトは、たまたまその時に実験室を共有していた志を同じくする同僚たちによる単一の遠征ではありませんでした。それは、母星文明からの複数の異なる構成体の協調的な展開でした。母惑星の異なる地域、その地域内の異なる政治派閥、異なる制度文化——それぞれが科学者、芸術家、管理者、そして物資を派遣しました。それぞれが何が生み出されるかについて自分の利害関係を持っていました。それぞれが独自の設計伝統、独自の美的嗜好、適切に作られた生物がどのように見えるべきかについての独自の考えを持ち込みました。そして、それぞれが自分たちの貢献が最終結果において認識可能であることを期待していました。
 
-For instance, the intelligent agent is often considered a type of coder as biological life is thought to feature an information layer that is considered unaccounted for by more popular explanations such as evolution. DNA is often compared to computer programs because both are systems of information storage and processing that rely on a digital code. DNA is a long, linear molecule that consists of a sequence of nucleotides, which are the building blocks of the genetic code. The sequence of nucleotides in DNA encodes information that directs the development, function, and behavior of living organisms. Computer programs, similarly, are a set of instructions written in a digital language that directs the function of a computer. Computer programs consist of a series of code that is stored in binary form, consisting of 0s and 1s that represent the basic building blocks of digital information. Both DNA and computer programs rely on a digital code, where the sequence of individual units (nucleotides or binary digits) determines the overall function and behavior of the system. In the case of DNA, the sequence of nucleotides determines the sequence of amino acids that make up proteins, which in turn determine the structure and function of cells and tissues in the body.
+これこそが、源泉資料の他の方法では困惑を招くいくつかの特徴を理解できる読解です。なぜ一つではなく複数のチームがあったのかを説明します：それは母星の政治が、展開において複数の構成体が代表されることを要求したからです。なぜチームが異なる設計選択を追求するのに十分な独立性を持っていたのかを説明します：それは各チームが事実上、単一の一枚岩のプログラムの一部門ではなく、母星文明の異なるセグメントに対して責任を負う下位遠征隊であったからです。なぜチームが定期的に集まって結果を比較したのかを説明します：それは比較が科学的なだけでなく、政治的でもあり、各構成体に他の構成体が何を生み出しているかを知らせ、異なる貢献の相対的な地位を裁定する方法でもあったからです。そして——後続の諸章にとって最も重要なことに——なぜ源泉が最終的に、各人類種が創造者のチームに対応すると述べることになるのかを説明します。人類種は進化的地理の偶然ではありません。それらは異なる派閥チームによって行われた並行研究プログラムの出力であり、それらの間の差異は、それらを生み出した構成体の間の差異を、生物学的形態で保存しています。
 
-Intelligent Design is often associated with creationism, which is the belief that the Earth and all living things were created by a divine entity, as described in religious texts. Most Intelligent Design proponents have a Christian background and therefore equate the Designer to besame as the Creator God of the Christian exegesis of the Bible. While the process of creating synthetic life involves deliberate design and engineering, it is based on natural principles and the laws of physics and chemistry however. The goal of synthetic life engineering is to understand and replicate the natural processes that underlie life, rather than to invoke any kind of supernatural or religious explanation for the origin of life.
+この組織構造の物流的影響は注目に値します。なぜなら、それは実質的であり、源泉はそれを直接記述していないからです。複数の派閥が、千年紀にわたって持続する惑星規模の展開を共同で資金提供し人員配置することに合意した母星が、どのような状況であったかを考えてみてください。
 
-{{ figure(src="wiki/geodesic-structures", caption="Ill. 2 - Geodesic research structures on grassland") }}
+複数の派閥が共同で星間プロジェクトに資金を提供し人員を配置することに合意した母星は、そのプロジェクトのための統治構造についても合意しています。そこには、最低限、調整機関——機能的には源泉が後に永遠者の評議会として描写するものに類似していますが、この段階では支配評議会ではなくプロジェクト調整機関——があり、参加する各派閥からの代表が含まれていたでしょう。憲章、責任の合意された分配、チーム間の紛争解決のための合意された手続きがあったでしょう。スケジューリングがあったでしょう：いつチームが会合するか、どの基地で、誰の暦に従ってか。文書化プロトコルがあったでしょう：どのチームの報告書が母星のどの構成体に送られるか、どのくらいの頻度で、どの詳細度で。監査があったでしょう：各派閥が、派遣した人員が合意したことを行っていることをどのように検証するか。人員交代があったでしょう：エロヒムの長寿をもってしても、誰も交代なしに地球で完全な2000年の任期を過ごすことはなく、これは、ある定期スケジュールに従って科学者と支援スタッフを母星と地球の間で移動させる輸送システムがあり、そのスケジュールが派閥間で調整されなければならなかったことを意味します。物資管理があったでしょう：実験室は試薬、特殊機器、予備部品、人員のための食料を必要とします。これらの一部は植生が確立されれば地球上で生産できたでしょうが、その多く——特に特殊計器——は輸入されなければならなかったでしょう。通信があったでしょう：母星まで全距離にわたって定期的に送信される報告書であり、前章が指摘したように、これは私たちが持たない推進力と送信能力を必要とします。
 
-## Game of Life
+これらのいずれも源泉には記述されていません。これらのすべては、源泉が記述するものから示唆されています。チームは定期的に会合しました。会合にはスケジューリングが必要でした。スケジューリングには調整機関が必要でした。調整機関には憲章が必要でした。そしてそのように、実際の多派閥プロジェクトが必要としたあらゆる物流支援の層を通って下りていきます。エロヒムは、覚えておくべきことに、私たちよりもさらに進んだ発展段階にある人類の文明でした。彼らは異星人ではありませんでした。彼らは魔法的ではありませんでした。彼らは複雑な人類プロジェクトが常に組織される方法——委員会と手続きと予定と予算とともに——で組織されており、地球上の彼らのプロジェクトは、いかなる人類文明もこれまでに引き受けた最大の協調された企てでした。なぜなら、それは光年離れた惑星上の生物圏全体の構築を、すべての構成体の忍耐が管理すべき変数となるような時間の幅にわたって、含んでいたからです。
 
-> [...] The scientists spread out across this immense continent in small research teams. Every individual created different varieties of plants according to their inspiration and the climate. They met up at regular intervals to compare their research and their creations. The people back on their own planet followed their progress from afar with passion and amazement. The most brilliant artists came and joined the scientists in order to give some plants purely decorative and pleasing roles, either through their appearance or their perfume.
+実験室の中でチームが行っていたことは科学と芸術でした。実験室を取り囲んでいたのは官僚機構でした。これは非難ではありません。記述です。この規模の複雑なプロジェクトはどれも管理装置なしには運営されません。エロヒムを管理装置なしで想像することは、彼らがしばしば、誤って想定される神話的存在の種類と取り違えることになります。
 
-The extraterrestrial scientists created different varieties of plants according to their inspiration and the climate of the continent they were exploring. They worked in small research teams and met regularly to compare their progress. The people on their own planet followed their work with passion and amazement. The most brilliant artists joined the scientists to create decorative and pleasing plants with unique appearances and fragrances.
+{{ figure(src="timeline/age-of-scorpio-teams", alt="赤い夜明けの広い風景。遠くの実験室ドームと、暗く湿った地面に広がる初期の緑のテストプロット。", caption="図 2 - 分散したチーム：若い超大陸を横断して活動する別々の実験室。") }}
 
-They may use advanced techniques for genome engineering and biomolecule synthesis to create plants with desired traits, such as drought resistance or colorful blooms, and then modify these plants further over time to optimize their performance in the local environment. In terms of the involvement of artists in the scenario, this could suggest that aesthetics and creativity are valued as highly as functionality and practicality in the design and creation of synthetic life forms. The artists may use their skills to design plants with unique appearances and fragrances, using colors, textures, and patterns to create a visually appealing and harmonious environment. They may also work with the scientists to identify plants with particularly interesting or useful features, and then modify these plants further to enhance their aesthetic qualities. The involvement of artists in the scenario raises interesting questions about the relationship between art and science, and the potential role of aesthetics in the design and creation of synthetic life forms. It suggests that the creation of new life forms could be viewed as a form of art, with the aim of not only creating useful and functional organisms, but also aesthetically pleasing and visually stunning ones.
+## IV. 芸術家たち
 
-As Yahweh's explanation doesn't provide specific details about the different climates, we can only speculate about what they might have looked like. Depending on the size of the continent and its location on the globe, the different climates could range from arid deserts to lush tropical rainforests, from icy tundras to windy steppes.
+蠍座の作業の最も顕著な特徴は、それが科学者だけによって行われたのではなかったということです。
 
-Each of these climates would present unique challenges and opportunities for the extraterrestrial scientists in terms of the types of plants they could create and the adaptations required for those plants to survive in their respective environments. In a desert climate, for example, the plants may need to be adapted to conserve water and tolerate high temperatures, while in a rainforest climate they may need to be adapted to compete with other plant species for resources such as sunlight and water. In a polar climate, where temperatures are consistently below freezing, the scientists may need to create plants that can tolerate extreme cold and snow. These plants may need to be adapted to conserve energy during long periods of darkness and to withstand strong winds. In a tropical climate, where temperatures are consistently warm and rainfall is abundant, the scientists may need to create plants that can grow quickly and compete for resources such as sunlight and water. These plants may also need to be adapted to resist pests and diseases that thrive in humid conditions. In a mountainous climate, where temperatures can vary widely depending on altitude, the scientists may need to create plants that can tolerate extreme temperature fluctuations and low oxygen levels at high elevations. These plants may also need to be adapted to rocky terrain and steep slopes. In a coastal climate, where saltwater spray and high winds can be common, the scientists may need to create plants that can tolerate salt and moisture. These plants may need to be adapted to sandy soils and to resist damage from high winds and storms.
+源泉は、主張されていることの意味をほぼ覆い隠すような事実的な表現で、*「最も優れた芸術家たちが、その外見または香りを通じて、純粋に装飾的で心地よい役割を一部の植物に与えるために、科学者に加わりました」*と述べています。芸術家たちはコンサルタントでも、外部のアドバイザーでも、技術開発が終わった後に呼ばれた装飾家でもありませんでした。彼らは共同創造者でした。彼らは植物種そのものの設計に関して科学者と共に働きました。源泉の言葉で言えば、彼らは同じプログラムの一部でした。
 
-In other words, the specific characteristics of the different climates would require the Elohimian scientists to create plants with a wide range of adaptations and traits, based on the specific challenges and opportunities presented by each environment.
+これは深く考察する価値のある主張です。なぜなら、それは源泉資料の残りの部分が示唆するに留めているエロヒム文明についての何かを明らかにし、本コーパスが採用してきた人類だが進歩した枠組みから直接導かれるからです。私たち自身の文明は、現在の発達段階において、科学と芸術を異なる活動として扱っています。この区別は歴史的に新しく——それは19世紀の間、その時代の産業的および学術的制度に特有の圧力の下で固まりました——そして現代でも人類文化全体に普遍的なものではありません。私たち自身の過去にも、特にルネサンス期や特定の古典的伝統において、科学的および芸術的作業を単一の事業の連続的な側面として扱い、同じ個人によって、あるいは共通の語彙を共有する協働する専門家によって行われた文明がありました。エロヒムは、源泉の説明によれば、この連続性を保存していたか、あるいは復元していたかのいずれかです。地球上での彼らのプロジェクトは、美的後付けを伴う科学的プログラムではありませんでした。それは、両方の次元が設計作業への対等な貢献者と見なされた、共同の科学的・芸術的プログラムでした。
 
-{{ figure(src="wiki/primordial-jungle", caption="Ill. 3 - Primordial jungle featuring a researcher") }}
+この取り決めの物流的帰結は些細なものではありません。芸術家は、他の要件に加えて、科学者が必要とするものとは異なる材料、スタジオ、作業条件を必要とします。エロヒムの実験室を収容した基地は、エロヒムのスタジオも収容したでしょう。科学的結果を比較した集会は、芸術的提案も比較したでしょう。植物がどう見えるべきか、その花がどのような形であるべきか、どのような香りを発するべきか、季節的行動はどうであるべきかについての議論——これらの議論は両方のカテゴリーの実践者を巻き込んだでしょうし、紛争の解決は二つの間を橋渡しする語彙を必要としたでしょう。星間旅行と*デ・ノヴォ*生物学の技術的課題を習得した文明においては、この橋渡しの語彙はおそらく当然のこととして存在していたでしょう。私たちにおいては、それは発明されなければならないでしょう。
 
-## Third day of creation
+この取り決めの帰結は後続の諸時代に伝播します。蠍座以降のすべての生物学的創造は、科学者と芸術家の協働の痕跡を帯びています。後の時代の鳥は、源泉の説明によれば、非現実的な羽毛——一部の種が飛ぶのに困難を感じるほど派手な羽毛——を理由に批判されることになります。それは、科学者が負けることを望んだかもしれない美的過剰についての議論を、芸術家たちが勝ち取ったからです。動物の求愛のダンスは、選択されるのではなく、設計されることになります。魚の色、カモシカの角、哺乳類のプロポーション：これらすべてが、源泉が主張するように、選択圧の偶然ではなく、芸術家たちの作業でした。*「カモシカや野生のヤギが巻いた角を発達させるどんな自然な必要があり得るのか？あるいは鳥が青や赤の羽毛を持つどんな必要が？そしてエキゾチックな魚はどうか？」* 問いは修辞的ですが、源泉の用語においては経験的な挑戦でもあります。地球の生物世界は、この読解では、盲目的な最適化の産物ではありません。それは、自らのビジョンを実現する手段を持ち、その実現を労力に値すると考えた制作者たちによって実行された芸術的ビジョンの産物です。
 
-As mentioned at the beginning of this chapter, The Age of Scorpio corresponds to the Biblical Third Day of Creation. The period of time during which the extraterrestrial scientists were erecting terrestrial residential buildings and scientific research installations was indeed the Scorpionian Age. As we've seen in the previous chapter, The Age of Sagittarius, a supercontinent got formed out of the seabed by amassing matter from the bottom of the oceans in a given place, ultimately forming dry land that surpassed the sea level. It is on that newly formed dry land that these terrestrial structures were built upon, truly deserving the descriptor "terrestrial", on the earthy soil of the planet Earth. What succeeded was the beginning of what we commonly think of when we say Genesis. Genesis as in the creation of the very life that we see all around us. This Genesis project started with the engineering of simple cells from scratch. After the cells were successfully created, more complex organisms followed, organisms such as plants. All of this happaned during the Third Day of Creation, during the Age of Scorpio, a World Age that is situated between 17'490—15'330 BC.
+源泉を真剣に受け止める読者は、この主張の中に、その最も説得力のある特徴の一つを見出すかもしれません。生物学的形態の華美さは、いかなる盲目的選択の説明においても常にいくぶんか説明できないものです。標準的な説明には常に、選択の説明力と、選択が説明するよう求められるものの豊かさとの間に隔たりがあります。美的設計の説明は、その隔たりを一挙に閉じます。確かに、設計者を仮定することによってそうするのですが、これは主流の生物学が抜きでやっていくことに専念していることです。しかし、どちらの専念がより経済的な説明を生むかという問題は、専念そのものによっては解決されません。それは、仮定された設計者が信頼できるかどうか、そして彼らが提供する説明が内部的に一貫しているかどうかによって解決されます。天の車輪は源泉がそのような説明を提供していると読み、読者はその利点に基づいてそれを評価する自由があると注記します。
 
-The Third Day of Creation is described in the Book of Genesis, specifically in Genesis 1:9-13. The Elohim are said to have gathered the waters under the heaven into one place, forming the dry land, which is called "Earth," and the gathering together of the waters is called "Seas." The Elohim then commanded the Earth to bring forth vegetation, including grass, herbs, and fruit-bearing trees.
+{{ figure(src="timeline/age-of-scorpio-artists", alt="暖かい赤い夕方の光の中の実験的な植物学的段々畑。静かな研究館の近くにある見慣れない植物形態。", caption="図 3 - 芸術家たち：機能と並んで生物学プログラムに入り込む美。") }}
 
-> <sup>11</sup> Then God said, “Let the earth sprout vegetation, plants yielding seed, and fruit trees on the earth bearing fruit according to their kind with seed in them”; and it was so. <sup>12</sup> The earth produced vegetation, plants yielding seed according to their kind, and trees bearing fruit with seed in them, according to their kind; and God saw that it was good. <sup>13</sup> And there was evening and there was morning, a third day.
+## V. 最初の細胞の科学
 
-We can cleary read into what is being said here: "Let the earth sprout vegetation, plants yielding seed, and fruit trees on the earth bearing fruit according to their kind with seed in them". The fact that reproduction is highlighted as much in the Biblical Genesis story exhibits how this feature was of capital importance to these extraterrestrial scientists when they started out creating the first artifical organisms, namely organisms that were inherently capable of reproducing themselves, needing no further intervention from outside to preserve the continuity of their existence. "And it was so." They managed to implement this crucial feature with success, most likely taking life from their home planet as a blueprint template. The Elohim "saw that it was good". Patience paid off, after two full World Ages lasting for more than 4'000 Earthly years culminated in the ability to finally start with the serious work that got banned on their home planet, and their perseverance bore fruits.
+源泉は蠍座の時代に何が行われたかを教えてくれます。それがどのようにして行われたかは、詳細には教えてくれません。前二章と同じく、そのような作業が実際に何を含んでいたのかを問う読者は、その質感を他から補わざるを得ず、その質感は——本章においては他のどの章にも増して——実質的で、論争の的であり、急速に発展しています。細胞生物学、分子遺伝学、{% wiki(slug="synthetic-biology") %}合成生物学{% end %}の科学は、過去20年の間に、20世紀分子生物学が運営されてきた枠組みが最も深い前提において誤っていたという緩やかな認識によって変革されてきました。その認識はまだ完全ではなく、その完全な帰結はまだ吸収されていません。しかし、新しい理解の形は徐々に見え始めており、新しい理解が指し示す方向は——本コーパスの目的にとって——注目に値します。
 
-## A quick recap
+本章はいくつかの段階を踏んで進行します。第一に、生命がいかにして存在するに至り、種がいかにして異なるに至ったかについての主流の説明、そしてコーパスが反対する箇所。第二に、細胞とは実際に何であるか、そしてそれを化学のみから作るという問題が、なぜ思われていたよりも困難であるか。第三に、ツールキット——通常の*デ・ノヴォ*生物作成が可能な文明が所有しなければならないであろう設計環境とコンパイル基盤の種類。第四に、単純な単細胞から複雑な多細胞植物への段階的な進行、そして機能する植物生物圏が必要とする小さな無脊椎動物と土壌生物の並行導入。第五に、光合成の特定の事例。これは蠍座の作業が惑星規模で包括的に解決することを科学者に要求したものです。第六に、繁殖制約と聖書の語句*le-mino*、そしてコーパスの主流生物学との不一致が最も鋭くなる特定の場所。{{ footnote(id="3") }} そして第七に、エロヒムが2万年前に行っていたことから、私たち自身の文明の合成生物学が今行い始めていることへの貫通線。
 
-The Age of Scorpio is linked to the Biblical Third Day of Creation. During this time, which corresponds to a period between 17,490–15,330 BC, extraterrestrial scientists are said to have built terrestrial residential buildings and scientific research installations on the newly formed dry land, as described in the Book of Genesis 1:9-13.
+### V.1. 主流の説明とコーパスの不一致
 
-The creation of life as we know it started with the engineering of simple cells, followed by more complex organisms such as plants. The fact that reproduction is emphasized in the Biblical Genesis story suggests that this feature was crucial for these extraterrestrial scientists when creating the first artificial organisms. They aimed to create organisms capable of reproducing themselves without the need for further intervention.
+主流の説明は*アビオジェネシス*——初期地球で作用する化学的プロセスを通じての非生命からの生命の自発的な出現——から始まります。1924年のアレクサンドル・オパーリンの『生命の起源』{{ cite(id="5") }}以来、そして1953年のスタンレー・ミラーとハロルド・ユーリーの実験{{ cite(id="6") }}——シミュレートされた初期大気の化学の中で火花を含むフラスコ内でアミノ酸が形成されることを実証したもの——以来発展してきた標準的な物語は、単純な有機分子が初期地球の海に蓄積し、非生物的化学を通じて漸進的により複雑な構造に結合し、最終的にテンプレートベースの繁殖が可能な自己複製分子——RNAワールド仮説が最も発達したバージョンです——を生み出し、これらの自己複製分子から、その周りに細胞機構が徐々に蓄積していく中で、最終的に最初の細胞が出現したというものです。最初の細胞が存在するようになると、主流の説明は続けて、ダーウィン的進化が引き継ぎました：何十億年にもわたって作用したランダム変異プラス自然選択が、地球生物学の完全な多様性を生み出しました。1859年にダーウィンが提案した特定のメカニズム{{ cite(id="8") }}——修飾を伴う系統発生、差別的生存による選択——は、20世紀を通じてメンデル遺伝学の統合（1930年代と1940年代の「現代総合説」）、DNA構造の発見（1953年）{{ cite(id="7") }}、遺伝暗号の解読（1961年）、そして分子および進化発生生物学のより最近の研究によって漸進的に洗練されてきました。主流はこれを*新ダーウィン総合説*と呼び、それは現在、専門生物学者が運営する標準的な枠組みです。
 
-After the Age of Scorpio (from –17'490 to –15'330) comes the Age of Libra (from –15'330 to –13'170). As we've identified the Days of Creation being each a World Age based on the cycle of precession, the following Age of Libra corresponds to the Fourth Day of Creation.
+コーパスのこの説明への不一致は精密であり、注意を持って述べられるに値します。コーパスは主流生物学のすべてを拒絶するわけではありません。物理学、化学、直接的な生物学的観察のレベルにおいては、そのほとんどが受け入れられます。コーパスが拒絶するのは説明的メカニズムです：ランダム変異プラス選択が生命の全多様性を説明するのに十分であるという主張、そしてそれ以上の説明——設計者、介入する知能、*テロス*——が必要でも許可されてもいないという主張です。コーパスは、地球の生物圏が特定の文明によって、過去22,000年以内に設計されたこと、そしてこの設計の証拠が生物自体に見え、聖書の記録に保存され、主流の進化論的説明が最も説明に困難を感じる特定の生物学的複雑性のパターンと一致していると考えています。
+
+これは実質的な不一致であり、前章の斉一説の不一致と同じく、回避するのではなく名指しされるに値します。主流の立場は特定の方法論的専念に基づいています。これはチャールズ・ダーウィンが『種の起源』の結論の段落で最も影響力をもって定式化し、20世紀の彼の後継者たちによって体系化されたものです：超自然的または意図的な説明は生物学に認められてはならず、自然選択プラスランダム変異によって説明できないものは、それでもなお、原理的には、詳細が解明されれば説明可能でなければならないという専念です。この専念は*方法論的自然主義*と呼ばれ、主流は暫定的な方法論的選好としてではなく、分野の一種の憲法的規則としてそれを保持しています。生物学者は設計者を呼び出してはなりません。これは何が真かについての主張ではありません。それは何が生物学的説明として数えられるかについての規則です。
+
+コーパスはこの規則が不当であり、活動中の生物学者が利用可能な説明空間を体系的に切り詰めており、結果として生じる説明が、対応する設計者を許容する説明よりもしばしば弱いと考えています。コーパスはさらに、方法論的自然主義への特定の専念は、その時代の特定の制度的および政治的圧力——出現する研究大学における教会と国家の分離、トーマス・ヘンリー・ハクスリーやジョン・ティンダルのような人物の反教権論争、自然神学とは別個の分野としての生物学の専門的統合——によって形成された19世紀ヴィクトリア朝の和解であり、証拠そのものから導出可能な結論ではなかったと考えています。専念は歴史的理由で分野に課されました。それは経験的発見ではありません。そしてそれは、意図された結果か否かに関わらず、証拠上、規則が許容する説明よりも優れているかもしれない説明のクラスを排除する効果を持ってきました。
+
+この一般的領域に関する注目すべき主流の声は、フィリップ・ボールであり、彼の2023年の著書『How Life Works』は、分子生物学が今、細胞運営について理解していることの最も実質的な最近の再構築を提供しています。ボールは設計支持者ではありません——彼は進化が作用するメカニズムとしてのダーウィン的自然選択にしっかり専念しています——が、彼の本は、相当な長さと広範な技術的支援とともに、青写真としての遺伝子と、プログラム実行マシンとしての生物の20世紀的描像が崩壊したと論じています。ボールは次のように書いています：*「もし生命の言語のようなものがあるなら、それはゲノムの中には見つからないでしょう——それは人間がこれまでに作ったいかなる取扱説明書にも似ていません」*。彼は細胞は機械ではなくエージェントであり、決定を下し、意味を生成し、目標を追求すると論じています。生物学における因果関係は、ボトムアップと同じくらいトップダウンに流れ、より高い組織レベルがより低いレベルに真の因果的力を行使すると論じています。そして、その分子的構成要素を目録化することによって生命を説明するという還元主義的プログラムは、理解への貢献として必要であるとしても、それ自体では生命が実際に何であるかについての説明を生み出すことはできないと論じています。ボールが主流の分子生物学から組み立てた絵は、生命を根本的にエージェント的、還元不可能に目的的、意味深く目標指向的なものとして描いた絵です——換言すれば、古典的機械論者が*生気論的*と認識し、非科学的として拒絶したであろう絵です。ダーウィン的正統に専念する慎重な作家がこの絵を擁護することになるとは、最低でも、設計思考に対する主流生物学の自信ある却下の下にある地面が動いたという信号です。
+
+コーパスはボールがラエリアン的枠組みを受け入れるとは主張していません。彼はそうしないでしょう。コーパスが主張するのは、ボールの生命の絵——意味生成者としての生命、エージェンシーを持つ生命、還元不可能に目標指向的な生命——は、古典的新ダーウィン主義の純粋な偶然の枠組みの下では、生命が現在のあり方であるよう設計されたという枠組みの下でよりも、はるかに意味をなさないということです。主流生物学は、ボールが提示するように、それが観察する生命を、19世紀ダーウィン的和解が追放したはずの語彙——*目的*、*エージェンシー*、*意味*、*目標*——なしには、ますます説明できなくなっています。証拠の圧力の下でのその語彙の復帰は、それ自体では設計の議論ではありません。それは、利用可能な説明の空間が主流が認めようとしてきたよりも大きく、方法論的自然主義によって特に禁じられた設計の説明が、必ずしも主流の代替案より悪いわけではなく、ある場合にはより優れているかもしれないという議論です。
+
+### V.2. 細胞とは何か
+
+不一致を名指した上で、物理および生物科学はそれ自身の用語で取り組むことができます。
+
+細胞とは何でしょうか。最も単純で正直な答えは、細胞とは、境界づけられた、自己維持的で、自己複製する化学のパッケージであり、同じ化学の境界のない集合では行えないことを行うというものです。境界は脂質膜です——細胞の内部を外部から分離し、規定された条件下で特定の分子が横切ることを許容する、脂肪様分子の二重層です。境界の内側で、細胞は外側のものとは異なる化学濃度、pH値、電気的電位を維持し、これらの差異こそが細胞の代謝化学を可能にするものです。細胞は原材料を取り入れ、酵素反応を通じて加工し、必要な構造に組み立て、廃棄物を排出します。細胞が準備できると、それは分裂します——その内容物と境界を複製し、一つあったところに二つの細胞を生み出します。
+
+最も単純な細胞でさえ、工学的基準では驚くほど精巧です。私たちの細菌、私たちが知る最も単純な自由生活する細胞性生物は、数百から数千の異なるタンパク質を含み、それぞれが化学的に何ができるかを決定する特定の三次元形状に折り畳まれており、それぞれが細胞内に特定の数値濃度で存在します。実験室研究の好まれる対象である細菌*大腸菌*は、約4000の遺伝子を持ち、約4000のタンパク質をコードし、加えてRNA分子、脂質構成要素、低分子代謝物、そしてDNA複製装置、タンパク質を製造するリボソーム、膜を越えて分子を移動させる特定の輸送系を含む構造機構があります。細胞内のすべてが、直接的にまたは間接的に、他のすべてと相互作用します。細胞は、ボールが描写するように{{ cite(id="11") }}、明確なステーションに別個の作業者を配置した工場というよりも、*「満員のナイトクラブ」*であり、すべての分子が連続的に隣人と押し合いをしながら、その全体的な配置が、生物学がまだ解明中のメカニズムを通じて、それでも首尾一貫した行動を生み出すものです。
+
+化学のみから——水素、炭素、窒素、酸素、リン、硫黄の原子から、いくつかの金属を加えて、既存の生物学的前駆体なしに——そのようなシステムを作ることは、源泉の説明によれば、エロヒムがここに到着する前に解決していた問題です。私たち自身の科学はそれを解決していません。主流のアビオジェネシス文献は部分的な結果を指し示すことができます——ミラー・ユーリー実験とその多くの後継実験における初期大気条件下でのアミノ酸の形成、脂質分子からの特定の小胞様構造の自発的形成、特定の実験室条件下でRNAが自身の複製を触媒できるという実証——が、これらの部分的な結果と機能する自己複製細胞との間のギャップは依然として広大です。いかなる実験室もまだ無機前駆体から生細胞を生み出していません。そのような生産が最終的には可能であるという主流の自信は、生命が自然プロセスによって出現したに違いないという、上述のような専念に基づいています——他の説明は認められないからです——のであり、出現が実際に達成可能であるという特定の実証に基づいているわけではありません。
+
+既存の生物学的構成要素からの最小細胞の合成でさえ——これはゼロからのアビオジェネシスよりはるかに容易な問題です——著しく困難であることが証明されました。この方向で最も称賛された成果は、クレイグ・ヴェンターのJ・クレイグ・ヴェンター研究所のチームの研究であり、2010年にDNAが親から継承されたものではなく完全に実験室で合成された生細菌の生産を公表しました。{{ cite(id="9") }} チームは*マイコプラズマ・マイコイデス*の完全なゲノム——約100万塩基対のDNA——を化学的に合成し、自分のDNAが除去された生きた*マイコプラズマ・カプリコルム*細胞に移しました。今や完全に合成されたDNAで稼働している受容細胞は、繁殖に成功しました。2016年に同じチームは*マイコプラズマ・マイコイデス* JCVI-syn3.0を生み出しました{{ cite(id="10") }}——わずか473遺伝子を持つ合成細胞であり、既知の自由生活する生物の中で最小のゲノムです。Syn3.0は生存可能で繁殖し、そのDNAのすべての塩基対は実験室で設計および合成されました。これが現在、私たち自身の合成生物学の最先端です。
+
+ヴェンターの研究について二つの観察に値することがあります。第一に、その成果は、目覚ましいものであれ、アビオジェネシス問題を解決していません。合成ゲノムは生細胞に挿入されており、細胞機構——リボソーム、膜、代謝酵素、DNA複製装置——は親*マイコプラズマ*から継承されており、合成されてはいません。ヴェンターのチームが実証したのは、ゲノムが注文通りに設計され、既存の細胞シャーシに搭載できるということです。実証されていないのは、シャーシ自体をゼロから生産することです。第二の観察は、ヴェンター自身がこの研究の宗教的含意についてコメントしており、2010年に合成細胞は*「親がコンピューターである、惑星上にこれまで存在した最初の自己複製種」*であると述べたことです。ラエルが当時のヴェンターのプログラムに特に注意を払って書いた『インテリジェント・デザイン：デザイナーからのメッセージ』{{ cite(id="3") }}の2005年版への序文は、この研究をラエリアン仮説のミニチュアでの実証として明確に位置づけています：生命は実験室で、注文通りに知能によって作ることが*できる*。そしてそれがそのように作られるとき、結果として生じる生物は、進化したものではなく設計された創造物です。ヴェンターはラエリアンではなく、彼の研究はラエリアン的枠組みを支持していません。しかし、ヴェンターの成果は、単一の単純な細菌のスケールで、蠍座の説明が惑星規模で描写するのとまさに同じ作業を実体化しています。{{ footnote(id="2") }}
+
+蠍座の科学者たちが行ったことに最も直接的に類似する現代の研究は、ヴェンターのゲノム合成でも、1970年代のより古い組換えDNA技術でもなく、時に*合成形態学*または*生物レベルでの合成生物学*と呼ばれる新しい分野です。この分野の主導的人物は生物学者のマイケル・レヴィンであり、彼はタフツ大学とバーモント大学の協働者と共に、2020年以来、生きた細胞から構築されたが、いかなる自然の祖先からも進化していない一連の生物を生み出しました。これらの最初のものは*ゼノボット*でした——それぞれが数百マイクロメートルの幅の小さな自己運動する生物であり、コンピューターアルゴリズムによって生成された設計に従って配置され、その後手作業で推奨された構成に形作られた、カエルの皮膚細胞と筋細胞から組み立てられたものです。ゼノボットは改変されたカエルではありません。それらは、自然には存在しない完全に新しい生物であり、その解剖学はコンピューターで設計され、その細胞構成要素の手動操作によって物理的に実現されました。それらは動き、持続し、特定の構成では、環境から散在する細胞を集めてそれらを新しいゼノボットに組み立てることによって繁殖します。それらは、その小さな方法で、その設計が地上の進化の産物ではなく人類の知能の産物である、この惑星上の最初の生物を構成しています。
+
+レヴィンの哲学的志向は注目に値します。なぜなら、それは彼の研究が20世紀分子生物学の古典的還元主義から進んできた概念的距離を照らし出すからです。レヴィンは、細胞は真の認知エージェントであり——目標、嗜好、そして構成要素の分子の挙動には還元できない問題解決能力を持っていると主張しています。この見方では、新しい生物を構築することは、青写真に従って部品を組み立てることではありません。それは、認知エージェントに正しい初期条件を与え、望ましい結果を彼らに伝達することであり、その後、細胞自身がその結果を生み出す方法を考え出します。レヴィンはこれを*形態学的工学*、より最近は*生命との協働*と呼んでいます。ゼノボットに関する2020年の彼の論文は概念的変化を要約しています：*「これらは新しい生きた機械です。それらは伝統的なロボットでも、既知の動物種でもありません。それは新しいクラスの人工物です：生きた、プログラム可能な生物です。」* エロヒムは、源泉の説明によれば、その描写を認識したでしょう。蠍座はまさにこのような協働的形態形成——指示された、認知的な、設計された——が惑星規模で最初に行われた時代でした。レヴィンのゼノボットは、6桁小さなスケールで、はるかに粗いツールで、人類の手における蠍座プロジェクトの最初の真剣な再現です。
+
+### V.3. ツールキット
+
+源泉は科学者たちが何を生み出したかを教えてくれます。彼らがそれを生み出すために何を使ったかは教えてくれず、ここでコーパスは引用ではなく再構成によって進まなければなりません。再構成は推測的です。それを固定するのは、通常の*デ・ノヴォ*生物構築が可能な文明は特定の種類の設計環境を持っていたに違いないという観察であり、その環境の一般的な形は、そのような作業が必要とするものから推論できます。具体的な点は私たちは想像することしかできません。一般的な形は、ある程度の自信を持って描写できます。
+
+まず、いかなる成熟した工学分野もが最終的に発展させる抽象化レベルのスタックを考えてみてください。ソフトウェアの歴史において、生の機械語から現代の開発環境への進行は明確なパターンを辿ってきました。最低レベルにはマシンの命令セットがあります——プロセッサーが直接実行するバイナリ列です。一段上にはアセンブリ言語があり、これは機械語への人間可読の1対1マッピングです。アセンブリの上には高水準プログラミング言語があります——C、Python、JavaScript——これらは下層レベルを通じてコンパイルまたは解釈され、プログラマがより高い意味論レベルで意図を表現できるようにします。高水準言語の上にはドメイン固有言語、フレームワーク、ライブラリがあり、共通のパターンを単一の表現にカプセル化します。これらの上には統合開発環境があり、自動補完、リンティング、バージョン管理、デバッギング、そして——およそ2021年以降——自然言語の要求を作動可能なコードに翻訳できるますます洗練されたAI支援があります。軌道は一貫しています：抽象化レベルが上昇し、インターフェースがより意図的になり、実装の詳細が後退します。現代のプログラマは、彼らが望むものを通常の英語に近いもので指定し、機能する実装が具現化することを期待できます。
+
+同じ軌道が生物学に投影されると、対応するスタックを生み出すでしょう。最低レベルにはゲノムそれ自体があります——生のDNA配列、4塩基長、それを読む細胞機構に直接対応する位置に書かれています。一段上には生物学的アセンブリ言語と呼べるかもしれないものがあります：遺伝子調節の機能単位、プロモーター配列、特定のタンパク質をコードする配列、ターミネーター、リボソーム結合部位、そして遺伝子回路が構築されるモジュール部品です。これらは現在、iGEMパーツレジストリやSynBioHubデータベースのようなリポジトリで目録化されています——既知の挙動を持つ再利用可能なモジュールとして生物学的構成要素を扱う最初の真剣な試みです。このアセンブリ層の上には、設計仕様が配列ではなく機能のレベルで表現される高水準の生物学的プログラミング言語があるでしょう：*この光強度範囲に調整された光合成経路*を呼び出す表現は、アセンブリ層を通じて、それを実装する特定の遺伝子配列と調節要素にコンパイルされるでしょう。これは、高水準のソフトウェア関数呼び出しが中間表現を通じて機械実行可能なコードにコンパイルされるのとちょうど同じです。
+
+私たち自身の文明は今、2026年に、この生物学的スタックのおおよそ最も初期の可視段階にあります。現在利用可能な最も発達したツールは、MITのクリストファー・ヴォイトのグループとボストン大学のダグラス・デンスモアのグループの協力で開発された設計環境Celloであり、2016年に*Science*誌で最初に発表され、2022年に*Nature Protocols*誌でCello 2.0に拡張されました。CelloはVerilog仕様を入力として取り——Verilogはデジタル回路を指定するために電子工学で使用される標準的なハードウェア記述言語の一つです——指定された回路を対象生物で実装するDNA配列を自動的に生成します。ユーザーはVerilogでブール論理回路を記述します；ソフトウェアは特徴づけられたライブラリから生物学的ゲートを選択し、回路の論理ノードに割り当て、その配置を最適化し、化学的に合成して*大腸菌*や*サッカロマイセス・セレビシエ*酵母細胞に挿入できるDNA配列を出力し、それらが設計された論理を実行します。元の2016年の論文は、Celloが合計880,000塩基対のDNAを含む60回路を成功裏に設計したと報告し、そのうち45回路が最初の試行で正しく機能し、すべての回路の出力状態の92パーセントが正しいことを報告しました。追加の調整は必要ありませんでした。これは、私たち自身の文明における高水準仕様から機能する遺伝コードへの真のコンパイラの最初の存在証明です。
+
+Celloには制限があります。それはブール論理回路を扱い、生物レベルの設計は扱いません。その特徴づけられた部品のライブラリは小さいです。その対象生物は二つの特定の実験室の主力種です。それは形態学、発達、狭く定義された回路を超えた代謝、または生物設計者が気にする高水準の構造的問題のいずれにも触れません。しかし、それは原理の証明です。高水準の設計意図からDNA配列へのコンパイラの概念は本物であり、実証されており、2026年に作動する出力を生み出しています。エロヒムは多くの桁よりはるかに能力のあるものを稼働させていたでしょうが、彼らは同じ一般的種類のものを稼働させていたでしょう。
+
+スタックの異なる層における第二の固定点は、DeepMindによって開発されたAlphaFoldタンパク質構造予測システムのファミリーです。2020年にリリースされたAlphaFold 2は、タンパク質の三次元折り畳み構造をそのアミノ酸配列のみから、X線結晶学やクライオ電子顕微鏡による実験的決定と競合する精度で予測できることを初めて実証しました。タンパク質折り畳み問題——一次元のアミノ酸配列がタンパク質を機能させる三次元形状をどのように決定するか——は、AlphaFold 2が事実上それを解決する50年以上前から、計算生物学において未解決の問題でした。2024年にDeepMindがIsomorphic Labsと協力してリリースしたAlphaFold 3は、タンパク質、核酸、低分子、イオン、改変残基を含む複合体の結合構造を予測するために枠組みを拡張しました。デミス・ハッサビスとジョン・ジャンパーは、この研究について、計算的タンパク質設計に関する補完的な研究でデビッド・ベイカーと共に2024年のノーベル化学賞を共同受賞しました。AlphaFoldタンパク質構造データベースは現在、目録化された科学文献のすべてのタンパク質について、2億以上のタンパク質の予測構造を含んでいます。190カ国以上の300万人以上の研究者がそれを使用しています。
+
+AlphaFoldの意義は、エロヒムのツール再構成にとって、それがDNA配列と機能的出力との間の中間表現層を表していることです。生物設計者が必要とするコンパイル・スタックには、最低でも三つの層があります：高水準の設計意図（何の生物、何の機能、何の挙動）、ゲノム的実装（それを生み出す何のDNA配列か）、そして機能的検証（特定の細胞的文脈でそのDNAから何の三次元構造と何の生化学的挙動が生じるか）。AlphaFoldは第三の層を埋めます——指定されたDNA配列が細胞機構によって実行されるとき、意図された機能的形状に折り畳まれるタンパク質を生み出すという検証です。Celloは第二の層の一部を埋めます。第一の層、真の高水準設計環境は、私たちのツールにはまだ存在しませんが、それに向かう旅の方向は可視です。
+
+ここで外挿してください。星間バイオテクノロジーを持つ文明は、通常の専門基盤の問題として、このスタックの完全に発展したバージョンを持っていたでしょう。最高レベルの設計環境は、現代のテキストベースのプログラミングのようには見えなかったでしょう。それは、私たちが今ようやくプロトタイプを作り始めている没入型現実インターフェースに近いもの——空間的、ジェスチャー的、音声駆動的なもので、設計者は自然言語の記述、スケッチ、視覚表現の操作、そしてシステム自身の応答との対話的な洗練を通じて、望む生物を指定する——のように見えたでしょう。設計者は事実上次のように言います：*この大陸が発達させる地中海気候帯に適応した、秋に苦甘い果実を生み出し、自家受粉し、寿命は約50年、3年目に耐旱性を持つ小さな落葉樹*。現代の大規模言語モデルに類似したが、それよりはるかに能力のあるものを稼働させているシステムは、語られた意図を形式的仕様に翻訳します。形式的仕様は、中間表現を通じて、エピジェネティック調節マーカーと発達プログラムを伴う完全なゲノムにコンパイルされます。ゲノムは全生物発達モデル——AlphaFoldを全生物と完全なライフサイクルの規模に拡張したようなもの——でシミュレートされ、ゲノムが実際に生み出す生物を予測します。設計者はシミュレーションをレビューし、仕様を洗練し、コンパイルを再実行し、反復します。生物がシミュレーションで仕様を満たすと、ゲノムは化学的に合成され、機能する細胞に組み立てられ、発達することが許されます。発達は監視され、シミュレーションと比較され、後続のコンパイルの精度を改善するためにシステムのトレーニングデータにフィードバックされます。
+
+このスタックの個々の構成要素は、それぞれ、2026年に存在する技術からの認識可能な外挿です。高水準の自然言語インターフェースは、GitHub Copilot、Cursor、Claude CodeのようなAI支援開発環境がソフトウェア工学のために提供し始めているものを、数十年先に投影し、コードから生物学に拡張したものです。形式的仕様層は、SBOL（Synthetic Biology Open Language）のような合成生物学言語が標準化し始めているものです。形式的仕様からDNA配列へのコンパイルは、Celloがブール論理について行っており、生物レベルの範囲に拡張したものです。全生物発達シミュレーションは、計算的発達生物学と仮想細胞モデリングの新興分野が生み出し始めているものです。DNA合成は、現在のコスト曲線の軌道——DNA合成は2000年代初頭の塩基あたり約10ドルから、2026年の塩基あたり数セントまで下がっており、さらなる低下が進行中です——が最終的に完全ゲノム規模で実現するものです。各構成要素は今、可視です。可視ではないのは、それらすべてを通常の*デ・ノヴォ*生物設計が可能な統一された生産パイプラインへの統合です。その統合こそが、エロヒムが成熟した、賞賛されない専門ツールとして所有していたであろうものです。
+
+そのようなツールの二つの特徴は具体的に言及するに値します。なぜなら、それらは蠍座の作業が必要としたものから導かれるからです。第一は、設計環境がネイティブな能力として、プレースホルダー部分を持つテンプレートゲノムの再利用をサポートしていたであろうということです。ゼロから始める植物設計者は、毎回全ゲノムを再構成するわけではなく、コアアーキテクチャ——光合成機構、生殖装置、基本的な発達プログラム——を既にエンコードしているテンプレートゲノムで作業し、可変特徴をエンコードするプレースホルダー領域に特定の種レベルの内容を代入します：葉の形、花の色、実の特徴、成長速度、環境耐性。これは有能なソフトウェア工学が行われる方法であり、この成熟レベルの生物工学が異なるように働くと考える理由はありません。それはまた、設計方法論レベルで、遺伝子調節ネットワークが種を超えて深く保存される一方、それらが調節する特定の遺伝子は大きく変化するという観察可能なパターンを説明します。保存はテンプレートです。変化はプレースホルダー部分の内容であり、種ごとに挿入されます。
+
+第二の特徴は、環境がリアルタイムシミュレーションをサポートしていたであろうことです。設計者は、設計が機能するかどうかを評価する前に、実際の植物が種子から成熟まで育つのを待つことはできません；フィードバックループが絶望的に遅くなるでしょう。シミュレーション層——全生物発達モデル——は、ゲノムが合成される前に、設計者がゲノム改変の結果をプレビューし、バリアントを通じて素早く反復し、何千もの失敗したプロトタイプを育てることなく作業可能な設計に収束することを可能にしたでしょう。これは現代のCADソフトウェアが機械工学のために行うこと、現代の統合開発環境がソフトウェアのために行うことです。*デ・ノヴォ*生物設計の段階にある文明は、生物学的等価物を所有していたに違いありません。シミュレーションは完璧ではなかったでしょう——いくつかの生物-環境相互作用は実際の条件下でのみ現れるからこそ、蠍座の作業は実際の何世紀にもわたって実際の土壌で実際の植物を育てることを伴っていたのです——が、シミュレーションは、物理的合成にコミットする前に、機能しない何千ものバリアントを除外するのに十分でしょう。
+
+何一つ源泉には記述されておらず、何一つ源泉のみからは検証できません。それは明示的に推測です。推測が制約されているのは、蠍座の作業が必要としたものの物理学と論理学です。生物圏分の自己複製生物を生み出し、大陸全体に分散させ、複数の独立したチームによって並行して、21世紀紀の期間にわたって生み出すには、科学者たちはその作業が可能な設計環境を持っていたに違いありません。上述の環境は、その課題と一致する最小能力セットです。私たち自身の合成生物学分野は、2026年に、最初の真剣な構成要素を構築する最も初期の段階にあります。この作業を長い間日常的に行ってきた文明は、すべての構成要素を構築し、それらを完全な能力を私たちがまだ詳細に想像する立場にない何かに統合したでしょう。しかし、一般的な形——高水準の意図インターフェース、意図から配列へのコンパイルチェーン、結果をプレビューするシミュレーション層、物理DNAを生み出す合成層、システムの予測を改善する継続的なフィードバックループ——は、生物学に投影された任意の成熟した工学分野の形です。それは私たちが最終的に構築するものです。それは、エロヒムがここに到着する前にほぼ確実に構築していたものです。
+
+### V.4. 草の前に
+
+聖書の連続は植物の三つのカテゴリー——*deshe*、*esev*、*etz pri*——を名指し、これをコーパスは既に同時的ではなく発達的進行として論じてきました。しかし、人のいない惑星から実を結ぶ樹木への進行は、生物学的レベルでは、この三項連続が示唆するよりも長いものです。最初の合成された細胞と最初の草の葉の間には、源泉が記述していないが、その作業が必要としたであろう生物組織の相当な中間連続が横たわっています。草と最初の小さな無脊椎動物の間には、源泉が同様に記述していないが、生態系が必要としたであろう並行作業が横たわっています。両方が注意に値します。なぜなら、両方とも生物学から導かれ、両方とも蠍座の作業が実際に何であったかを制約するからです。
+
+まず、単細胞から多細胞植物への進行を考えてみてください。最も単純な植物は単細胞の光合成生物——原核生物系統のシアノバクテリア類似体、真核生物系統の緑藻——であり、その細胞機構には完全な光合成装置が含まれていますが、そのライフサイクルは、より多くの単細胞を生み出す細胞分裂で構成されています。単細胞の光合成生物だけが住む惑星には、限定された意味での生物圏があります——生命があり、光合成があり、大気が変動し始めます——が、細胞は微小であり、その直接的な可視的影響は表面水を緑に染めたり、水と空気の界面で藻類のマットを生み出したりすることに限定されており、{% libref(book="genesis-woh", chapter=1, verse=11) %}創世記 1:11{% end %}が記述するような意味の植物はありません。単細胞から多細胞への段階は実質的です。多細胞性は細胞間の接着を必要とします。そうでなければ、娘細胞は分散するのではなく接続したままになりません；細胞間の信号伝達を必要とします。接続された細胞が挙動を協調できるようにするためです；クローン集団全体での分化遺伝子発現を必要とします。一部の細胞がある機能のために特殊化し、他の細胞が別の機能のために特殊化できるようにするためです；そして発達プログラムを必要とします。特殊化された細胞が、多細胞生物を機能させる特定の空間パターンで自身を配置するためです。主流の進化論的説明では、単細胞性から多細胞性への移行は地球生命の異なる系統で複数回独立に起こったと考えられています——シアノバクテリア、藻類、菌類、動物がそれぞれ独自のバージョンの多細胞性に別個に達した——が、それ自体が、この移行が特定の革新セットを必要とするほど困難であり、異なる出発材料によって異なる経路で達成できるほど一貫しているという証拠です。
+
+蠍座の科学者にとって、単細胞から多細胞光合成への移行は、予備的なものではなく、植物生産プログラムの一段階だったでしょう。彼らの最初の成功した植物細胞は、時代の最初の数世紀において単細胞であり——シアノバクテリア類似体と単細胞緑藻——大陸の表面水、出現する海岸線の湿潤な界面、大気の水が最初の土壌を生み出し始めていた湿った地面を覆うために展開されたでしょう。これらの生物は単純で、頑健で、光合成的に可能で、繁殖的に自立しており、彼らのプロジェクトへの主な貢献は大気的なものでした——持続的な光合成を通じて大気の酸素分率をシフトし、より複雑な生命が後に繁栄できる条件を準備することです。聖書の用語דֶּשֶׁא（*deshe*）、柔らかい植生は、その最も包括的な意味でこの段階を捉えています：最初の緑のもの、その特定の細胞構造が何であれ、惑星上に。この語は単細胞の藻類マットと真の植物を区別せず、その区別はテキストを保存した書記たちにとって重要ではなかったかもしれません。しかし、設計者にとっては、区別は本質的でした。単細胞段階は、多細胞段階が始まる前に正しく行われなければなりませんでした。
+
+それから多細胞作業です。単純な細胞コロニー——現代の*ボルボックス*に類似した、調整単位として機能する数千細胞の緑藻コロニー——は、単細胞性を超えた最初の段階であり、その構成アーキテクチャはまだ単細胞ですが、コロニーレベルでの協調を示し始めています。組織分化を伴う真の多細胞性が次に来ます：最初のコケと苔類で、その細胞は異なる機能（光合成、構造支持、生殖器官、結合要素）を持つ異なる組織型に特殊化し始めた生物です。これらは小さな植物であり、低く育ち、必要な水に近く位置するのは、内部で重力に抗して水を輸送する維管束組織をまだ発達させていないからです。それから維管束植物：シダ、トクサ、ヒカゲノカズラで、内部の水輸送系を持ち、開水の直近から解放され、より乾燥した地面を植民地化できるようにします。それから種子植物：最初の裸子植物、現代の針葉樹に類似し、外部の水を受精に必要としない生殖装置と、発芽前に長い休眠期を生き残る能力を持つ種子を持ちます。それから、最後に、被子植物の顕花植物が、生殖装置として果実を持ち、同じ設計プログラムによって並行して生み出されていた動物による受粉のための特定の適応を持ちます。
+
+聖書の三項連続は、ある解釈的柔軟性をもって、このより長い生物学的進行にマッピングされます。*Deshe*は大まかに最も初期の段階——あらゆる細胞構造の単純な光合成生物、地被、世界の最初の緑——に対応します。*Esev*は種を持つ草本と非木質の維管束植物に対応します——中間段階、種を持つが完全な樹木構造を持たない植物。*Etz pri*は最も複雑な段階に対応します——実を結ぶ樹木、植物生産プログラムの頂点的成果。それぞれの命名されたカテゴリーは、内部的には、それ自身の全副プログラムです；蠍座の作業は、一日で*草*を生み出し、次の日に*樹木*を生み出したわけではなく、何世紀にもわたる拡張された発達を通じて三つのカテゴリーそれぞれを生み出しました。三つの名前は、生産スケジュールではなく、節目のマーカーです。それらは、聖書の本文が要約するおおよその時点で時代が達成したことを特定するものであり、達成に到達した個々の作業を特定するものではありません。
+
+蠍座の植物中心的読解が過小評価する作業のさらなる次元があります。植物生物圏は、それ単独では機能する生態系ではありません。植物だけが住む世界——広範で、十分に分散した植物集団であっても——は、生物学的安定性が必要とする栄養段階の深さを欠いています。複雑性のある生態系における植物は、その個々のサイズと可視性は小さいが、その存在が不可欠な他の生物のある範囲に依存します：大気窒素を生物学的に使用可能な形に固定する土壌微生物；根系を拡張し、水と栄養素の吸収を促進する菌根菌；死んだ植物物質を分解し、その構成要素を土壌に戻す細菌；土壌を機械的に処理し、その構造に貢献する小さな無脊椎動物——線虫、ミミズ類似体、トビムシ、ダニ；顕花植物が現れた後、個々の植物の間で花粉を移動させ、有性生殖を可能にする受粉昆虫。これらの支援生物なしでは、植物は長期的には繁栄しません。彼らが土壌から抽出する栄養素は補充されず；土壌構造は発達せず；花は受粉されないままになり；死んだ物質は生態系に循環するのではなく蓄積します。
+
+温室ではなく生物圏を構築する蠍座の科学者たちは、これに対処しなければならなかったでしょう。そして、彼らはプロジェクトの論理が許す唯一の方法でそれに対処したでしょう：命名された植物節目の後ろで稼働していた同じ連続的な*デ・ノヴォ*合成プログラムを通じて、植物自身と並行して支援生物を生み出すことです。土壌微生物はおそらくプログラムの最も初期の産物の一つでした——植物細胞より単純で、上に導入される植物の生態学的機能に決定的で、同じ*デ・ノヴォ*合成技術を必要としたが低い複雑性で。菌類はそれと並んで、あるいは少し後に来たでしょう。具体的には、維管束植物が導入されるとそれらの根と関連付けられるであろう菌根形式です。小さな無脊椎動物——線虫、貧毛類のミミズ、より小さな節足動物——は、植物生物圏がそれらを支えるのに十分発達したとき、植生が必要とする土壌構造化と機械的処理を提供するために導入されたでしょう。そして受粉昆虫——現在のミツバチ、スズメバチ、チョウ、ガの祖先——は、最初の顕花植物が導入されるどの時点であれ、おそらく蠍座の中期から後期の世紀において、顕花植物自身の生産と協調して生み出されたでしょう。
+
+これらのいずれも創世記の第3日の説明には名指しされておらず、6日間を生み出された時の網羅的目録として取る創世記1章の標準的読解は、これが意味する生態学的不完全性に持続的な困難を抱えてきました。植物はあるが昆虫がなく、ミミズがなく、土壌微生物がなく、菌類がない世界は、植物が生き残る世界ではありません。コーパスが発展させてきた連続性原理は困難を綺麗に解決します。6日間は、導入される*優勢な*可視カテゴリーの報告境界です。それらの下を流れる連続的なプログラムは、可視の節目と並んで、生態系が必要とするより目立たない支援生物を生み出します。本文が第3日の終わりに*etz pri*を名指すとき、それは頂点的な植物の節目を名指しているのです；その節目に伴う完全な生産には、土壌生物、菌類、線虫、昆虫、そして植物の存在が必要とするすべての他の支援的キャストが含まれます。聖書の本文がそれらを列挙しないのは、それらがその時代の優勢な可視カテゴリーではなかったからです。しかし、それらの導入は、蠍座の終わりの時点で植物生物圏が失敗するのではなく*「壮大」*であったという事実において暗黙です。
+
+このサブセクションを締めくくる二つのさらなる観察があります。第一に、受粉昆虫は、設計された協調の特に興味深い事例を表します。顕花植物は特定の受粉者パートナーシップを必要とします。ミツバチ受粉植物は、ミツバチを引き寄せる特定の花の形、色、香りを進化させており、ミツバチはそれらの花にアクセスし、その花粉を集めるための特定の解剖学的適応を進化させています。主流の進化論的説明では、この共進化は相互選択を通じて何千万年にもわたって徐々に解明されてきました。蠍座の説明では、それは同時に意図的に設計されました：顕花植物とその受粉者は、特定のパートナーシップアーキテクチャが最初から組み込まれた状態で、協調された設計セッションで一緒に生み出されました。これが、その適合性が現在のように精密である理由です。共進化の物語は、適合性が存在する理由を説明します；共設計の物語は、ランダム変異プラス選択が通らなければならなかったであろう部分的な適合性の長い中間段階なしに、それがなぜ現在のように緊密で相互的であるかを説明します。
+
+第二の観察は、これらの小さな無脊椎動物、土壌生物、受粉者を設計する作業は、おそらく植物を設計していた同じ派閥チームによって、あるいは同じ派閥内の密接に協力する下位チームによって行われたであろうということです。植物-昆虫のパートナーシップは、この協調を必要としたでしょう。新しい顕花植物を設計するチームは、受粉者チームが何を生み出しているかを詳細に知る必要があったでしょう。花の形と香りが受粉者の嗜好と合致するようにするためです；受粉者を設計するチームは、それがどの花を受粉するかを知る必要があったでしょう。その解剖学、色覚、採餌行動が合致するようにするためです。研究プログラム間でのこのレベルの協調こそが、定期的な集会を中心に組織された派閥チーム構造が支援するものです。蠍座の時代は、その終わりまでに、緑の世界だけでなく、生産者、分解者、栄養素循環者、そして最初の受粉者がすべて配置されたミニチュアの機能する生態系を生み出していました。乙女座の時代は、より大きな動物——魚、鳥——をもたらし、この基盤の上により高い栄養段階を構築するでしょう。基盤自体は蠍座の作業であり、聖書の要約が明かすよりも広範でした。
+
+### V.5. 設計問題としての光合成
+
+ここで、光合成という特定の事例を考えてみてください。これは蠍座の作業が生物圏が確立される前に科学者たちが包括的に解決することを要求したものです。光合成は、植物細胞が太陽光からエネルギーを捕獲し、それを使用して二酸化炭素と水から複雑な有機分子を構築するプロセスです。化学は、概略では単純です：6 CO2プラス6 H2Oプラス光は、グルコースプラス6 O2を生み出します。この化学が達成されるメカニズムは、詳細では特別なものです。二つの異なる光化学系（光化学系Iと光化学系II）が*Zスキーム*と呼ばれるプロセスで協力し、その中でクロロフィル分子は光子を吸収し、吸収されたエネルギーを電子運搬体の鎖を通じて移送し、廃棄物として酸素を放出するために水分子を分裂させ、電子運搬体としてNADP+をNADPHに還元し、化学エネルギー運搬体としてADPをATPにリン酸化します。結果として得られる高エネルギー分子は、その後、カルビン・ベンソン・バッシャム回路を通じて、大気のCO2を糖に固定するために使用されます。全機構は葉緑体、植物細胞内の特殊化されたオルガネラに収容されており、その膜は、連続するエネルギー移送を可能にする特定の空間配置で光化学系を保持します。
+
+光合成は、現在のすべての説明によれば、単一の生物学的発明です。地球上のすべての光合成生物は、コア色素として同じクロロフィル分子、同じ二光化学系アーキテクチャ、同じコア反応連続を持つ、同じ基本機構のバリアントを使用しています。これが、標準的な進化論的物語において、酸素発生型光合成が祖先のシアノバクテリアの特定の系統で一度だけ起こったと考えられ、それからそれらのシアノバクテリアの内部共生的取り込みを通じて、その後のすべての光合成的真核生物に継承された理由です。発明の単一性は、ある意味で、標準的な進化論的説明にとって困惑を招くものです；そのような基本的な生化学的革新は、光合成への選択圧が重要であれば、複数回独立に生じることが期待されたかもしれません。それが一度生じ、その後、元の機構の借用によってすべての後続の光合成系統に分配されたという事実は、光合成が単一の設計された革新であり、その後、複数の系統に設計者によって展開されたという、繰り返し進化した特徴ではなく、一致するパターンです。
+
+光合成機構自体は、工学側からアプローチされたときに、どれだけ多くが指定されなければならないかに注意深い注意を強いる種類の設計問題です。クロロフィル分子は単純な化合物ではありません。それは中心にマグネシウム原子を持つ拡張されたポルフィリン環を含み、その吸収スペクトルは、光化学を駆動するのに十分なエネルギーを持ち、かつ関与する有機分子を破壊するほどエネルギー的でないという太陽スペクトルの部分に特に調整されています。光化学系は大きなタンパク質複合体であり、その精密なアーキテクチャ——クロロフィル分子の特定の空間配置、電子運搬体、その支持足場——が、エネルギー移送が起こるかどうかを決定します。私たちが呼吸する酸素の責任を持つ光化学系IIの水分裂複合体は、特定の幾何学的配置で結合された4つのマンガン原子とカルシウム原子の特定のクラスターを含みます；そのクラスターには既知の非生物学的化学的類似物がなく、その作動は不完全に理解されたままです。装置全体は、工学的観点から、多くの副問題を持つ問題への協調された解決であり、それぞれが他のすべてと両立可能に解決されなければなりませんでした。解決が存在すること自体が、この惑星のすべての植物、すべての森林、すべての森林由来の大気を支える事実です。解決がまさに特定の形で存在することは、コーパスの読解では、盲目的選択が許容する累積的な手直しではなく、単一の決定的な設計プロセスの署名です。
+
+### V.6. 繁殖制約と*Le-Mino*
+
+最後に、蠍座の説明が特に強調する繁殖制約を考えてみてください。*「彼らの努力のすべては繁殖を目指したものでした」*そして*「彼らが創った数本の草の葉は、自力で繁殖しなければならなかった」*という源泉の発言は、代替が何であっただろうかを考えるまで、明白な制約ではありません。惑星上に植物生命を生み出している文明は、原理的に、外部の介入によって維持されなければならない個々の植物——その生殖装置が不完全な、あるいは種子が科学者によって集められ再び植えられる必要のある、あるいは伝播が継続的な栽培を必要とする植物——を生み出すことができたでしょう。エロヒムはそれをしませんでした。彼らは植物が自己繁殖することを要求しました。これは、生殖機構のすべての側面——遺伝装置、減数および有糸細胞分裂機構、種子が形成、分散、発芽し、それ自身の繁殖が可能な成体植物に発達する特定のメカニズム——が、最初の世代において存在し機能していなければならないことを意味しました。
+
+これは、単一の生存可能な植物の生産よりも難しい設計問題です。繁殖は統合されたシステムを必要とします。育つことができるが種子を作れない植物は、行き詰まりです。種子を作るが、その種子が発芽できない植物も、同様に行き詰まりです。種子が発芽するが繁殖しない子孫を生み出す植物は、一世代で行き詰まりです。蠍座の作業が成功するためには、設計者たちは完全なライフサイクル——発芽から成長、開花、種子生産、分散、発芽まで——が、最初の試行で、あるいは少なくとも持続的な集団を確立するのに十分な試行回数で機能する生物を生み出さなければなりませんでした。源泉のこの制約への強調は、設計者たちがそれをコアの困難として理解していたという信号です。繁殖できない第一世代の植物で覆われた惑星は、単一の植物世代以内に、死んだ植物で覆われた惑星になっていたでしょう。生物圏はそれ以上の介入なしで生存可能でなければならず、それは生殖システムのすべての構成要素が初日に機能しなければならないことを意味していました。
+
+聖書の語句*le-mino*——「その種類に従って」——は、この文脈でその完全な意義を帯びます。植物は*その種類に応じて*繁殖するように設計されました。*min*、設計されたカテゴリーは、世代を超えて保存されるべきものでした；科学者-芸術家たちが生み出したものを、生物自身がドリフトなしに伝播しました。果樹の種類の植物は果樹の子孫を生み出します；草本の種類の植物は草本の子孫を生み出します。カテゴリーは設計によって固定され、制約のない変異の気まぐれに任されませんでした。これがヘブライ語の本文が保存するアーキテクチャであり、その下で、無制限の変異と時折の種分化という主流の進化論的説明が、デフォルトではなく異常に見えるアーキテクチャです。
+
+種の境界に関するコーパスの立場は、今や明確に述べることができます。コーパスは、生物が世代と集団にわたって種内で変動することを、留保なく受け入れます。これは*ミクロ進化*です。それは実験室と現場で観察可能であり；細菌の抗生物質耐性、ダーウィンのフィンチの有名なクチバシの変化、犬種間の形態学的差異、集団が新しい環境に移されたときに受ける急速な適応を説明します。ミクロ進化は議論の対象ではありません。コーパスが拒絶するのは、ミクロ進化が長い間隔で作用すると、より単純なものから新しい種、新しい体制、新しい器官系を生み出すという主張です。これは*マクロ進化*であり、それは生物学における斉一説に特徴的な、観察された小規模変化から主張される大規模変換への外挿です。外挿そのものは観察されていません。それは推論されています。そして、それは設計者を呼び出すことが許されないという方法論的専念の下で推論されており、これは外挿が証拠が生物学に課す説明的負荷を担わなければならないことを意味します。
+
+ラエリアン的源泉資料は、この外挿に直接対処しており、その力が十分に理解されていない特定の議論があります：*「ショウジョウバエに引き起こされた無数の変異の中で、異なる種、あるいは祖先と異なるものを生み出したものは一つもなかった。ハエのサイズ、色、形態は変動するかもしれないが、一連の変異でさえ、これまでに存在しなかった属性を持つ新しい生物を生み出したことはない。」* 観察は経験的です。ショウジョウバエは100年以上にわたって実験遺伝学の主力でした。何兆ものショウジョウバエ世代が広範な変異原条件下で検査されてきました。生み出された変異はすべてショウジョウバエの*min*の中にとどまりました。いかなる実験室も、変異と選択によって、ショウジョウバエの祖先からショウジョウバエでない種を生み出したことはありません。「ミクロ進化が観察される」から「マクロ進化はしたがってすべての生物学を生み出したメカニズムである」への推論は、証拠上、行き過ぎた推論です。*Le-mino*の制約は、ヘブライ語の本文が保存するように、実験室が実際に示すものと一致しています。
+
+これがコーパスが主流生物学から取るレジスターB/Cの逸脱であり、それは鋭いものです。コーパスは、観察されたミクロ進化から仮定されたマクロ進化へのヴィクトリア朝時代のダーウィン的外挿は、それ以来、マクロ進化的移行の蓄積する証拠（化石記録のギャップは現状のままです）によってではなく、代替案を認めないという方法論的専念によって維持された理論的行き過ぎであったと考えています。専念を取り除けば、証拠は異なって見えます。私たちが観察するものは：その種類内で変動する生物、新しい種類を生み出さない実験室育種実験、マクロ進化的漸進主義が適応するのに苦労する複雑な体制の突然の出現を示す化石証拠（最も有名なのはカンブリア爆発）、そして——今、21世紀において——マクロ進化的主張がなされた機械的青写真の枠組み自体が誤っていると主導的思想家（ボール、レヴィン、その他）が論じている分子生物学です。コーパスは主流生物学が完全に間違っていたとは主張しません。それは、観察された小規模変化から主張される大規模進化への特定の外挿が、方法論的制約の下でなされた行き過ぎであり、その行き過ぎが証拠上もはや擁護できないと主張します。蠍座の説明——その種類に設計された生物、その種類に応じて繁殖する生物、設計者が構築した生殖アーキテクチャによってカテゴリーとして保存される生物——は、2026年に利用可能な証拠上、主流が主張し続ける代替案よりも経済的な説明です。
+
+### V.7. 私たち自身の瞬間への貫通線
+
+最後の観察がこのセクションを締めくくり、それは前人類章のすべての推測的科学セクションの終わりにコーパスがする観察です。蠍座の科学者たちが展開した能力——無機化学からの細胞生命の*デ・ノヴォ*合成、その完全な生殖機構が世代一から機能する光合成生物の生産、その*min*が伝播を通じて保存される生物の設計、高水準の意図からコンパイル、シミュレーション、合成まで完全な設計スタック、命名された生物と並んで生態学的支援キャストの統合された生産——は、私たち自身の文明がようやくアプローチし始めている能力です。
+
+クレイグ・ヴェンターの合成ゲノム研究は、2016年に、500未満の遺伝子を持つ細菌を生み出し、そのゲノムは注文通りに設計されました。マイケル・レヴィンのゼノボットプログラムは、2020年以来、その設計が進化的ではなく人類的である最初の新規の生物を生み出してきました。クリストファー・ヴォイトのCelloソフトウェアは、2016年と2022年に、高水準の論理仕様から機能するDNA配列への最初の作動するコンパイラを実証しました。2020年と2024年にリリースされたAlphaFold 2とAlphaFold 3は、タンパク質構造と相互作用の最初の高精度の計算的予測を提供しました。DNA合成のコスト曲線は下がり続けています。AI支援設計の合成生物学ワークフローへの統合が始まっています。これらのそれぞれが、エロヒムが日常基盤として持っていたであろう設計スタックの一部です。それらのいずれも、個別には蠍座ではありません。それらすべてが、合わせて、蠍座が前提とした成熟した形を持つ能力の開幕です。
+
+差異は発達段階のものであって、種類のものではありません。私たちは、エロヒムがとっくに成熟へともたらした能力の開幕にあり、そして——コーパスのより広範な枠組みが正しければ——このドメインにおける私たち自身の未来の作業は、源泉がこの時代まで遡るプロジェクトの、私たちの手による継続です。生物圏を作る野心を持つ設計者によって無機化学から作られた最初の細胞は、この惑星上のすべての生けるものの種でした。もし私たち自身がゼロから細胞を作ることに成功するなら、それは同じ系譜の作業への私たち自身の参加の始まりとなるでしょう。私たちが今構築しているスタック——コンパイルのためのCello、構造予測のためのAlphaFold、形態学のためのレヴィンのゼノボット、シャーシ組立のためのヴェンターのゲノム合成——は、成熟したバイオテック文明が必要とするスタックです。それは、今のところ、ばらばらに分かれています。最終的に、私たちの手、あるいは私たちに続く者の手で、それは統合されるでしょう。統合が完了したとき、それを所有する文明は、蠍座スタイルの規模で蠍座スタイルの作業を行う能力を持つことになります。この惑星上で、あるいは他の惑星上で、そのような作業を引き受けるかどうかを選ぶかどうかは、私たちの瞬間、そしておそらく続く数世代が決定しなければならない問題です。
+
+## VI. この時代が生み出すもの
+
+蠍座の終わりまでに、唯一の超大陸——その最終形態は時代の初期の数世紀の間に安定化し、射手座の作業が引き続き定着するにつれて——は緑の世界になっています。
+
+それを覆う植生は、源泉の説明によれば、私たち自身の時代の植生よりも広範で多様です。*「植生がすでに壮大なものとなっていた惑星」*が、最初の動物が導入された時点での後続の時代についての源泉の描写で使われている言葉です。植物は単に存在していただけではありませんでした。それらは豊富で、多様で、多くの場合素晴らしいものでした。芸術家と科学者によって設計され、その結果を比較したときに単一の設計プログラムが生み出さなかった形態の豊かさを生み出した独立した派閥チームによって発展させられました。植生の壮大さは念頭に置く価値のある源泉の詳細です。なぜなら、それは繰り返されるからです。後の時代に設立されるエデンの園は、この惑星上の景観造園の最初の事例ではありません。それは、エデンプロジェクトが始まる時までに、その全体的な性格が既に広範に作業されていたより大きな生物圏の中の特定の準備された場所です。
+
+植生の大気的帰結は注目に値します。光合成生物は、十分な量で確立されると、それらが光合成する大気の組成を変えます。それらは二酸化炭素を消費します。それらは酸素を生み出します。蠍座の始まりにおける地球の大気は、源泉の説明によれば、既に光合成生命に適しており、射手座の大気作業がそれをその目的に調整していました。しかし、蠍座の光合成作業はさらに組成をシフトし、酸素分率を増加させ、二酸化炭素分率を薄め、後続の時代に導入される動物生命の代謝要件のために大気を準備したでしょう。このシフトは源泉に記述されていません。それは連続によって暗示されています。エロヒムはそれを考慮しなければならなかったでしょうし、彼らのモデル——山羊座と射手座の準備段階で開発された——は、蠍座の植生が生み出す大気の軌道を予測したでしょう。植物自身が工学の一部です。それらは、射手座で機械的に始まった大気準備の最終段階であり、機械的ではなく生物学的な手段で行われています。
+
+可視植物バイオマスの下にある生態学的インフラストラクチャは、第V.4節が論じたように、植物自身を生み出したのと同じ連続的なプログラムを通じて発達し、同様に時代が生み出したものの一部です。蠍座の終わりまでに、超大陸には豊富な植生だけでなく、機能する土壌微生物叢、維管束植物の根系と関連付けられた菌根菌の分散集団、土壌を処理し栄養素を循環させる土壌無脊椎動物——線虫、貧毛類のミミズ、トビムシ、ダニ、より小さな節足動物——の多様な群集、そして顕花植物の生殖ニーズに合わせた受粉昆虫集団が宿っています。生態系はまだ完全ではありません。より高い栄養段階——脊椎動物の草食動物、肉食動物、大型の鳥、海洋動物——はまだ来るべきものであり、続く時代がそれらを生み出すでしょう。しかし、生態学的ピラミッドの基盤は、その上に構築されるものを支えるのに十分な深さで確立されました。蠍座は単に植物だけでなく、植物を無期限に支援できる生態系を生み出しました。これは、植物単独で考えるのとは異なる、より困難な達成です。
+
+蠍座の終わりにおける新しい生物圏の生態学的構造は、より高いレベルで意図的に不完全です。生産者——植物——があり、分解者と小さな土壌生物と受粉者がいますが、まだ大きな消費者はいません。植物を食べる大きなものがいないので、完全な意味での食物連鎖はありません。この欠如は、ある意味で特徴です。それは、植物バイオマスが脊椎動物の草食なしに蓄積することを意味し、植生が大きな草食動物に妨げられることなく深く確立され広く広がることを可能にします。別の意味では、それは後続の時代が対処する不完全性です。続く時代における海洋動物の導入、その後すぐの鳥、そしてさらに後の陸生動物は、安定した成熟した生態系が必要とする栄養構造を漸進的に構築するでしょう。蠍座は食物網の基盤と中間を生み出します。網の残りはまだ来るべきものですが——それを生み出す作業は既に進行中であり、植物作業と並行して、同じ実験室で、同じチームの下で、その最終出力である人類が獅子座の時代に生み出されるまで止まらない*デ・ノヴォ*合成の同じ連続的プログラムによって。
+
+{{ figure(src="timeline/age-of-scorpio-green-world", alt="赤金色の空の下、動物のいない、豊かな緑の植生に覆われた広い若い大陸。", caption="図 4 - 緑の世界：準備された土地に広がる最初の生物圏。") }}
+
+## VII. 本文とその信号
+
+{% libref(book="genesis-woh", chapter=1, verse=11) %}創世記 1:11-13{% end %}のヘブライ語本文は、私たちが先行する節に与えた注意を持って扱うと、注目に値する特徴を一つ含んでいます。
+
+第3日の終わりに、前章が観察したように、第2日からその顕著な不在の後に、定式וַיַּרְא אֱלֹהִים כִּי טוֹב（*vayar Elohim ki tov*）——「そしてエロヒムは、それが良いと見た」——が現れます。これは二つの点で重要です。第一に、それはその章で提供された読解を確認します：第3日の終わりに承認された作業には、厳密な聖書の日数計算がより早期に割り当てたであろう大陸的作業が含まれます。承認は、地質学的および最初の生物学的作業の両方が完了の状態に達したときに来ます。第二に、より興味深いことに、定式は第3日に*2回*現れます。これは創造記述全体において、この日に固有の特徴です。それは乾いた地の出現の後（10節の終わりの*vayar Elohim ki tov*）に1回現れ、植生のもたらしの後（12節の終わりの*vayar Elohim ki tov*）に再び現れます。創造の他のいかなる日も、二重の定式を含みません。
+
+ラビ的注解の伝統は、この二重化を注記し、それに対する様々な説明を提供してきました。このコーパスが採用する読解では最も単純なのは、第3日が二つの実質的な作業——地質学的完了と生物学的開始——を記録し、本文がそれらのそれぞれを別個の完了した段階として印付けているということです。換言すれば、諸時代は本文自身によって複合的な出来事として見られており、本文は作業を単一のיוֹם（*yom*）に圧縮しても、その構成を保存しています。これは、これまでコーパス内で繰り返されてきたパターンのもう一つの事例です：ヘブライ語の本文は、注意深く読まれると、従来の神学的読解が回避しなければならなかった特徴を保存し、源泉資料の技術的読解がそれを単純に説明します。
+
+これらの節のヘブライ語におけるもう一つの文法的観察も言及に値します。第3日における生物学的承認のために使用される定式は単に*ki tov*ではありません；本文はエロヒムが何を見たかを指定しています。それは、12節において、הָאָרֶץ（*ha-aretz*、「地」）が生み出したもの——*va-totzei ha-aretz*、「そして地が生み出した」——でした。動詞はהוֹצִיא（*hotzi*）、יצא（*y-tz-*ʾ、「出る」）の使役ヒフィル形であり、自発的に生成するのではなく、*出させる*または*もたらす*という意味を持ちます。地は植生をもたらしました；しかし、ラエリアン的読解では、地はエロヒム設計された生物が育つ媒体であり、それらが自律的に出現する源ではありませんでした。ヘブライ語の使役は両方の読解を許容します——自発的生成者としての地、設計された基質としての地——そして本文は、注意深く保存されると、選択を強制しません。それが正確に言うことは、地が（いかなる主体によってであれ）節が記述する植物を生み出し、エロヒムが生産を見て承認したということです。
+
+二重の定式は再び現れません。続く日々はそれぞれ単一の承認を含むか、第6日の場合のように、全作業の最終的な包括的承認を含みます。第3日は本文において、その作業が二回印付けされるに値するほど広範であった日として、独立しています。このコーパスの読解では、二つの承認は地質学的承認と生物学的承認であり、それらが二つとして記録されているという事実は、時代の真の運用構造の化石であり、写本の何世紀にもわたっても本文の文法に保存されています。
+
+## VIII. 蠍座とは何か
+
+本章が閉じる前に、蠍座の時代がより大きな連続の中で何であるかを、平易に述べる価値があります。
+
+蠍座は最初の生命の時代です。これは、この時点まで人のいない実験室であった惑星が、その上に生きていると言える最初の生物を獲得する時代です。現れる生命は植物生命であり、植物に伴う生命——土壌微生物、菌類、小さな無脊椎動物、受粉者——は、それなしには植物が生態系として機能しない支援キャストです。両方とも、諸時代の命名された節目の下を流れる連続的な*デ・ノヴォ*合成プログラムの産物です。両方とも、広い意味で光合成的であるか、光合成的基盤を支援的です。両方とも、自己繁殖し、美的に精巧化され、地域に適応し、独立した派閥チームによって生み出されました。それらの出力は、時代の集会で比較されたとき、単一のプログラムが生み出さなかった豊かさを明かしました。生命は、源泉の説明によれば、美しいものです。それは意図的に美しく作られました。
+
+時代はまた、後続のすべてのエロヒム創造のパターンが確立される時代でもあります。母星からの派閥を代表する分散したチーム。協調された枠組み内での独立した研究プログラム。定期的な比較と、それらを組織するために必要な管理装置。科学的実行と並ぶ美的参加。均一性よりも多様性への嗜好。制作者への維持された依存ではなく、自己繁殖する生存可能性への専念。能力を部分的にしか推測できないが、その一般的な形が作業の論理が必要とする没入型インターフェースのツール基盤で稼働する完全な設計スタック。創造連続の全期間にわたって、命名された節目の背後で不可視に稼働する合成技術の連続的な洗練。そして——本章のこのバージョンが明確にした土壌生物と受粉者の素材の追加によって——時代が生み出すものは命名された節目カテゴリーだけでなく、それを支えるのに必要な完全な生態学的インフラストラクチャであるという認識。これらすべてが繰り返されます。後続のすべての生物学的創造——魚、鳥、陸生動物、人類——は、蠍座で築かれたパターンの痕跡を帯びるでしょう。読者が後の章で、各人類種が創造者のチームに対応するという主張に出くわすとき、その主張は、それ以外の場合よりも奇妙には聞こえないでしょう。なぜなら、派閥チームのパターンは植物作業から既に馴染みのあるものになっているからです。
+
+蠍座は、植生で緑になった大陸、新しく確立された生物圏の光合成活動によって再均衡化される過程にある大気、そして植生の持続を可能にする土壌生物、菌類、無脊椎動物、受粉者の生態学的インフラストラクチャをもって閉じます。この結果を生み出した科学者と芸術家たちは、時代の終わりまでに、彼らのプログラムがそのコア作業を実行できることを実証しました。化学からの生命、惑星規模で、外部の維持なしに持続：達成。改善の連続的なプログラムは今稼働しており、蠍座の最後の数世紀においてより洗練された植物形態を生み出し、既に、来るべき時代でより可視的に導入される海洋生態系のための最初のプロトタイプ生物を生み出しています。創造連続の残りの時代は漸進的により野心的になるでしょう——完全な脊椎動物規模での感覚と運動生物の導入、複数の栄養段階を持つ複雑な食物連鎖の構築、最初の知的存在の創造——が、基礎的な達成はなされました。残るのは、ある意味で、既に可能であることが証明されたものの精緻化です。
+
+最後の観察が章を締めくくり、先行する章が確立したパターンを反映します。蠍座の作業——化学からの細胞の合成、生殖機構が世代一から機能する生物の設計、伝播を通じての設計されたカテゴリーの保存、そのような日常的設計を可能にしたツールスタック、命名された生物と並んで生態学的支援キャストの統合された生産——は、私たち自身の文明が今、2026年に、実験室でアプローチし始めている作業です。私たちはまだゼロから細胞を作りません。私たちは既存の細胞を広範に改変します；合成ゲノムを設計し、既存の細胞シャーシに搭載します；コンピューター生成された設計に従って細胞集合体を形作ることによって、ゼノボットのような新規生物を生み出します；Celloを介して高水準の論理仕様を機能するDNA回路にコンパイルします；AlphaFoldを介して配列からタンパク質構造を予測します。これらのいずれも蠍座ではありません。しかし、それらすべてが、蠍座が前提とした成熟した形を持つ能力の開幕であり、私たち自身の手におけるその発展は——ヴェンター、レヴィン、ヴォイト、DeepMindのプログラムが確立した軌道に沿って続くなら——コーパスが、20,000年前に新しい超大陸での最初の緑の成長まで遡る同じ作業の次の段階となるでしょう。生物圏を作る野心を持つ設計者によって無機化学から作られた最初の細胞は、私たちが今ようやく認識し始めている果実の種です。フィリップ・ボールの*「生命の新しい見方」*——エージェントとしての生命、意味生成者としての生命、機械的というよりも根本的に目標指向的なものとしての生命——は、このコーパスが正しければ、新しい見方ではありません。それは古い見方、設計者が最初から持っていた見方であり、私たち自身のツールが同じ作業の閾値に近づくにつれて、私たちの文明の主流の注意に戻りつつあるのです。
+
+次の時代は、生物学的作業の代替としてではなく、その支援活動として、天文学がプロジェクトの真剣な関心事になる時代です——エロヒムは、彼らがちょうど住まわせ始めた惑星の上の空に注意を向けます。なぜなら、彼らが設計し続けている生物は、この特定の世界の特定の回転、軌道、季節のリズムに適応されなければならないからです。その時代は天秤座の時代であり、続く章の主題です。
