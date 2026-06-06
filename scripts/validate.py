@@ -76,10 +76,11 @@ class ValidationError:
 
 def parse_frontmatter(content: str) -> tuple[dict, str]:
     """Extract TOML frontmatter from markdown content."""
-    if not content.startswith("+++"):
+    normalized = content.lstrip("\ufeff \t\r\n")
+    if not normalized.startswith("+++"):
         return {}, content
 
-    parts = content.split("+++", 2)
+    parts = normalized.split("+++", 2)
     if len(parts) < 3:
         return {}, content
 
