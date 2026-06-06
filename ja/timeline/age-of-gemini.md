@@ -1,177 +1,566 @@
+
 +++
-template = "timeline-page.html"
 title = "双子座の時代"
-period = "紀元前6'690—紀元前4'530"
-age = "gemini"
-description = "「Wheel of Heaven」の物語における双子座の時代は、紀元前6690年から紀元前4530年まで続き、蟹座の時代に続きます。この時代は、新しい始まりと変革の時期として特徴づけられ、ノアと洪水の物語に象徴されます。異なる文化や民族間のコミュニケーションと協力の増加を表し、アイデアや知識の共有と普及を容易にします。この時期、地球に追放されたエロヒム派閥、特に「蛇」として知られるグループは、人類と科学的知識を共有するという信念を持っていました。これは、彼らの故郷の惑星からのエロヒム政府の支配的なアプローチと対照的です。この時代には、人間の科学的進歩に脅威を感じたエロヒム政府が、核ミサイルで地球上のあらゆる生命を破壊する決定をするという劇的な出来事も含まれています。しかし、追放された創造者たちは介入し、ノアに宇宙船を建造するよう求め、大災害後に地球上の生命が続くために種の遺伝子材料を保存しました。"
-image = "man-standing-on-cliff-overseeing-spacecraft.png"
-weight = 240
+description = "大年の第八の時代——洪水、軌道上の方舟、超大陸の破砕、追放された創造者と人類の生存者との正式な同盟としてのノアの契約、バベルの塔、そして天上の戦争。"
+template = "timeline-page.html"
+toc = true
+
+[extra]
+symbol = "♊"
+color = "blue"
+start_year = "-6690"
+end_year = "-4530"
+genesis_day = 8
+genesis_verse = "神はノアと、彼と共に箱舟にいたすべての生きものと、すべての家畜とを心にとめられた。神が風を地の上に吹かせられたので、水は退いた。"
+genesis_interpretation = "双子座の時代は第八の日である——第七の翌日、新たな連なりを始める日。洪水は洪水以前の文明を破壊し、超大陸を粉砕する。方舟は軌道上で遺伝物質の積荷を保存する。ノアの契約は、追放された創造者と人類の生存者との同盟を正式化する。バベルの塔が建てられ、そして散らされる。評議会と同盟との間で天上の戦争が勃発する。"
+
+
+footnotes = [
+    { content = "ヤハウェが破壊の立場へとしぶしぶ転じたことは、[蟹座](/ja/timeline/age-of-cancer/)の四つの人物分類が重要である理由を、本書のなかで最も明確に示す事例です。ヤハウェはサタンではなく、穏健派でした。本章は、政治的条件が十分に悪化すれば、穏健派ですら破滅に投票しうると論じます。" },
+    { content = "石油環の観察——大陸を再びパンゲア構成に組み直したとき、世界の油田が中心地帯を取り囲んで幾何学的に集まるという現象——は、本書全体のなかで最も具体的かつ検証可能な物理的証拠の主張です。主流の石油地質学はこの読みを退けますが、本書はこれを確定した知見としてではなく、研究上の問いとして提示します。" },
+    { content = "[バベルの塔](/ja/wiki/tower-of-babel/)をジッグラトではなく巨大なロケットとして読む見方は、本書のより印象的な再解釈のひとつです。牡羊座の章はその帰結を展開します——言語の混乱という出来事を、エデン系統の人類が母星に時期尚早に到達することを防ぐための、評議会による意図的な介入として読むのです。" },
+]
+
+references = [
+    { title = "真実を告げる書 (Le Livre qui dit la vérité)", author = "クロード・ヴォリロン(ラエル)", date = "1974", medium = "religious-text", path = "/library/lets-welcome-the-extraterrestrials/" },
+    { title = "宇宙人は私を彼らの惑星に連れて行った (Les Extra-Terrestres m'ont emmené sur leur planète)", author = "クロード・ヴォリロン(ラエル)", date = "1975", medium = "religious-text", path = "/library/extraterrestrials-took-me-to-their-planet/" },
+    { title = "創世記", author = "無名(ヘブライ語聖書);ニクード付きマソラ本文からのWoH訳", date = "前6–5世紀頃", medium = "religious-text", path = "/library/genesis-woh/" },
+    { title = "アトラハシス", author = "無名(古バビロニア・アッカド語)", date = "前17世紀頃", medium = "religious-text", path = "/library/atrahasis/", description = "古バビロニアの洪水物語。聖書創世記6–9章に最も近い前聖書的並行資料。" },
+    { title = "エヌマ・エリシュ", author = "無名(バビロニア)", date = "前12世紀頃", medium = "religious-text", path = "/library/enuma-elish/" },
+    { title = "ギルガメシュ叙事詩(第11の書板)", author = "無名(標準バビロニア語)", date = "前12世紀頃", medium = "religious-text", path = "/library/gilgamesh/", description = "ウトナピシュティムの洪水物語。本章ではアトラハシスおよびエリドゥ創世記とともに用いられる。" },
+    { title = "エリドゥ創世記", author = "無名(シュメール語)", date = "前17世紀頃", medium = "religious-text", path = "/library/eridu-genesis/", description = "洪水のシュメール版ジウスドラ伝承。" },
+    { title = "エノク書1(監視者たちの書+天文の書)", author = "無名(第二神殿期ユダヤ教)", date = "前3世紀頃", medium = "religious-text", path = "/library/book-of-enoch/" },
+    { title = "バビロニア誌 (Babyloniaca)", author = "ベロッソス(ベル・レウシュ);エウセビオスおよびシュンケロス経由のギリシア語断片で伝承", date = "前290年頃", medium = "religious-text", description = "アダパ/オアンネスのアプカル伝承を保存したヘレニズム期のメソポタミア伝承要約。" },
+    { title = "大陸と海洋の起源 (The Origin of Continents and Oceans)", author = "アルフレート・ヴェーゲナー", date = "1915年(第1版);1929年(第4版)", medium = "nonfiction-book", description = "ヴェーゲナーの大陸移動説。近代プレートテクトニクスの先駆。" },
+    { title = "創世記のカルデア人による記述 (The Chaldean Account of Genesis)", author = "ジョージ・スミス", date = "1876", medium = "nonfiction-book", path = "/library/chaldean-account-of-genesis/", description = "ニネヴェのアッシュールバニパル図書館におけるバビロニアの洪水物語の1872年スミスによる再発見;書籍として1876年刊行。" },
+    { title = "石油の在来資源の世界分布 (World Distribution of Conventional Resources of Petroleum)", author = "リチャード・ネリング(RAND/ハドソン研究所、CIA向け報告)", date = "1978", medium = "academic-paper", description = "ラエリアン典拠が引用する「石油環」地理分布研究。" },
+]
+
+[[extra.prev_age]]
+name = "蟹座の時代"
+symbol = "♋"
+link = "/timeline/age-of-cancer/"
+
+[[extra.next_age]]
+name = "牡牛座の時代"
+symbol = "♉"
+link = "/timeline/age-of-taurus/"
 +++
 
-![Image](images/equinox_bc6690.png "Vernal equinox in 6690 BC")
 
-The Age of Gemini lasts from –6'690 to –4'530 and follows the Age of Cancer which lasted up to –6'690.
+## I. この時代そのもの
 
-From the perspective of Genesis and its seven Days of Creation, the Age of Gemini would represent the Eight Day. The number eight is encoded in the amount of people entering Noah's Ark: Noah and his wife, his three sons and their wives, a total of 8 people.
+第八の時代は、断絶の時代です。
 
-The Age of Gemini is associated with the eighth day of creation and represents a time of new beginnings and fresh starts. This is reflected in the story of Noah and the Flood, which is said to have taken place during this age. According to the biblical account, God was disappointed with the state of humanity and decided to cleanse the Earth with a flood, sparing only Noah and his family. The Age of Gemini is also associated with the concept of duality, reflected in the symbol of the twins. This age is said to represent a time of increased communication, exchange, and cooperation between different cultures and peoples. It is a time when ideas and knowledge are shared and disseminated, leading to increased understanding and collaboration.
+双子座の時代は紀元前6,690年から紀元前4,530年まで、2,160年の期間にわたり、蟹座の時代の直後に続きます。それは、洪水以前の文明に蓄積された緊張がヘブライ語聖書の言う洪水という破局へと至る時代です——その出来事はあまりにも深刻で、当時支配的な人類文明を破壊し、超大陸上のほぼすべての大型生物を死滅させ、単一の陸塊を私たちが今知る漂流する大陸群へと粉砕し、生存者には、出来事の最中に惑星の上空の軌道上で運ばれた小規模な保存集団と遺伝物質の備蓄から、人類という種を再建する任務を残しました。双子座は二つの世界を分かつ境界線です——蟹座の章が描いた、人類がおそらく私たち自身と同等かそれを超える文明水準に達していた洪水以前の世界と、人類人口が再形成された惑星上で、その遺産の大半を失ったまま再出発する洪水後の世界とです。
 
-## The Decision
+黄道帯におけるこの時代の名前は、典拠が十分に展開しきっていない仕方で、ふさわしいものです。双子座は双子の星座であり——二つの結ばれた人物、一方は上に、他方は下にあり、起源において一つに結ばれ、運命において分かたれます。時代そのものがこの二重性の性格を帯びています。この時代には二つの地球があります——洪水で終わる地球と、その後に始まる地球です。二つの人類があります——破壊された人類と、{% wiki(slug="noah") %}ノア{% end %}の船によって保存された人類です。二つの大陸構成があります——時代の最初の数世紀に存在した単一の陸塊と、残りの期間に存在する分裂する大陸群です。ヘブライ語聖書自体が、この二重性を八という数のうちに保存しています——方舟上に保存された人間の数(ノア、その妻、三人の息子、そして息子たちの妻)——この数は、創造の週の構造において、第七の翌日、新たな連なりを始める日を表します。双子座はその日です。最初の七日は創造でした。第八の日はその再起動です。
 
->> And Elohim saw that the wickedness of man was great in the earth, and that every imagination of the thoughts of his heart was only evil continually. Genesis 6: 5.
->
-> The “evil” in question was the desire of human beings to become scientific and independent people equal to their creators. Being “good”, as far as those on the Elohim’s planet were concerned meant the new human beings would remain primitive, vegetating on the Earth. Their “evil” was their wish to progress, perhaps enabling them one day to catch up with their creators.
+二重性は別の水準でも、そして黄道帯の象徴をいっそうふさわしいものとする仕方で現れます。聖書本文は、洪水物語全体を通じて、保存が対のなかで行われたことを強調します——あらゆる種類の二つずつ、雄と雌が、方舟に運び入れられました。{% libref(book="genesis-woh", chapter=6, verse=19) %}創世記6:19{% end %}はこれを明示的に指定します——*u-mi-kol ha-chai mi-kol basar shnayim mi-kol tavi el ha-tevah*、「肉なるすべての生き物の中から、すべての種類のものをそれぞれ二つずつ、あなたと共に生かしておくため箱舟に入れなさい。それらは雄と雌でなければならない」。本章が間もなく詳述する遺伝的積荷の読みにおいては、この対は有性生殖の技術的要件を反映しますが——種ごとにゲノムの両コピーが保存される必要があった——象徴は依然として残ります。この時代を定義する保存の行為は、対を介して行われます。生命のすべてが対のなかで運ばれた時代を司る双子の星座は、暦の偶然ではありません。それは、この時代が何のためにあったのかを示すしるしです。
 
-What happened on Earth was deemed too dangerous to the authorities on the Elohimian home planet. The passage suggests that Elohim saw the wickedness of humans on Earth, as they desired to become scientific and independent, equal to their creators. This desire for progress and advancement was seen as "evil" by the authorities on the Elohim's planet, who preferred the new human beings to remain primitive and under their control. The conflict between the desire for progress and the desire for control can be seen as a fundamental tension that has played out throughout human history.
+本章は双子座の時代を悲劇として読み解きます——その枠組みは誇張ではありません。蛇派、すなわち前の二千年間を地上の人類の被造物のなかで暮らしてきた追放された創造者たちは、双子座の時代を母星文明への敵対のうちに始めたのではありません。彼らは確かに罰せられていましたが、その罰は充実した存在の基盤となっていました。彼らは世界を築きました。被造物を教えました。彼らを愛しました。彼らとの混血の子をもうけました。彼らは、どのような合理的な評価によっても、自らの追放と折り合いをつけていました。双子座の開始の数世紀において、彼らをその平穏から押し出した力は、彼ら自身の選択ではありません。それは、彼らが築いたものを破壊しようとする評議会の決定でした。その決定以降、蛇派は一歩ずつ、評議会が彼らを放っておきさえすれば決して取らなかったであろう行動へと追いやられていきます。彼らは破壊命令に逆らって方舟を建造します——攻撃ではなく保存ですが、それでもなお抵抗です。彼らは破局を通じて人類の被造物を保存します。彼らはノアとその子孫とともに再建を始めます。彼らは{% wiki(slug="tower-of-babel") %}バベルの塔{% end %}を和解の申し出として築き、人類の被造物が善く、平和で、感謝に満ち、受け入れに値することを評議会に示そうと望みます。評議会は塔を破壊します。そしてそのときになって初めて——和解のあらゆる道が閉ざされたときになって初めて——蛇派は、後世のグローバルな神話が「天上の戦争」として記憶する紛争において、自らの母星文明に対して武器を取ります。本章はこの弧をたどります。これが悲劇であるのは、蛇派の変容が彼らに強いられたものだからです。彼らは、決して望まなかった反逆者へと姿を変えます。なぜなら、その代替肢は、彼らが愛したすべてのものの破壊だったからです。
 
-According to the perspective presented in the text, the Elohim's home planet government held a certain moral code that defined what was "good" and "evil." From their point of view, the "good" outcome was for the newly created human beings to remain primitive and dependent on their creators, while the "evil" outcome was for humans to become independent and equal to their creators through scientific progress.
+本章は、典拠が出来事を提示する順序で双子座の時代を歩み、その劇的な弧に絶えず注意を払います。母星でなされた、人類の被造物を破壊する決定。それを知った蛇派の選択。評議会が破壊を命じたものを保存するために行われた反対の準備。遺伝的積荷と、それが必要とした巨大な目録化作業。破局そのものとそれに続く地質学的帰結。回復、生物圏の再生、人類系統の再分配。洪水後の祭壇で結ばれた契約、追放された創造者と人類の生存者との{% wiki(slug="the-alliance") %}同盟{% end %}を正式化するもの。エデン系統の文明の急速な再建。和解の試みとしての{% wiki(slug="babel") %}バベル{% end %}の塔。評議会の介入、言語の分散、ロケットの破壊。それに続く戦争。最終的な交渉による解決。そして、章の終わりに、これらの出来事についてグローバル神話のうちに残されているもの——神話的伝統を記録したほぼすべての文化に保存された、天上の戦争についての文化横断的な記憶です。
 
-This suggests that the morality of the Elohim's government was based on a hierarchical power structure, with the creators at the top and the humans below them. In this framework, it was considered "good" for the humans to remain subservient to their creators, while it was "evil" for them to challenge their creators' power or to strive for equality with them. This moral code may have been enforced through the government's control over scientific knowledge, as well as through the use of force to maintain the existing power structure.
+## II. 諸節
 
-What is important to understand here is that the concept of good and evil presented in this interpretation of Genesis is tied to a specific perspective, that of the Elohim home planet's government. The Elohim saw themselves as responsible stewards of scientific knowledge, and believed that sharing this knowledge with humans would be dangerous and could lead to destruction. From their perspective, it was "good" for humans to remain primitive and subservient to their creators, as this would ensure their safety and prevent them from acquiring dangerous knowledge.
+双子座の出来事を扱うヘブライ語本文は、{% libref(book="genesis-woh", chapter=6, verse=5) %}創世記6:5{% end %}から{% libref(book="genesis-woh", chapter=11, verse=9) %}創世記11:9{% end %}まで——五つの章にわたり、ヘブライ語聖書の最も長い連続的物語のひとつをなしています。本章はすべての節を完全な装置とともに扱うことはできませんが、鍵となる箇所は、確立された段落形式で慎重に提示するに値します。
 
-However, this perspective is not absolute and is subject to interpretation. Other individuals or societies may have different beliefs about what is "good" and what is "evil." For example, a society that values progress and innovation may see the acquisition of scientific knowledge as "good" and the restriction of knowledge as "evil." Similarly, a society that values individual freedom may see the subjugation of one group by another as "evil" and the pursuit of equality as "good."
+破壊の決定は{% libref(book="genesis-woh", chapter=6, verse=5) %}創世記6:5-7{% end %}に記録されています。
+{{ scripture(book="genesis-woh", chapter=6, verse=5, translit="Vayar Adonai ki rabbah ra'at ha-adam ba-aretz, ve-khol-yetzer machshevot libo rak ra kol-ha-yom") }}{{ scripture(book="genesis-woh", chapter=6, verse=6, translit="Vayinachem Adonai ki-asah et-ha-adam ba-aretz, vayit'atzev el-libo") }}{% scripture(book="genesis-woh", chapter=6, verse=7) %}
+そしてヤハウェは言った——わたしは創造した人を地のおもてからぬぐい去ろう
+{% end %}
+これらの節のヘブライ語語彙は重要です。רָעָה(*ra'ah*)、「悪しきこと」あるいは「悪」は道徳的誤りを表すヘブライ語の標準語ですが、典拠の解釈はこの語を再構成します——評議会が認知した「悪」は、人間的な意味での道徳的腐敗ではなく、評議会が脅威とみなした人類の進歩への欲望でした。נָחַם(*nacham*)は「悔いる」「悲しむ」「考えを変える」と多様に訳されます。この動詞は先行する決定への悔恨と、それに伴う進路変更の意図を含意します。עָצַב(*atzav*)、「悲しむ」は、*vayit'atzev*という再帰形において「彼は内心に悲しんだ」を意味します——ヘブライ語は、発話者の側における内面的・個人的な悲しみを描いています。מָחָה(*machah*)、「ぬぐい去る、破壊する、抹消する」は、完全な除去の動詞です。この動詞はヘブライ語聖書の別の箇所で、記録からの名前の抹消、書字板のぬぐい取り、一つのものが痕跡を残さぬよう除去されることに用いられます。この節が告げる破壊は全体的です——縮小ではなく、罰でもなく、抹消です。
 
-It can be inferred that the Elohim faction banished to Earth, including the group known as the Serpent, had a different moral code than the Elohim government from their home planet. They believed in sharing scientific knowledge with humanity and allowing them to progress and evolve, while the Elohim government sought to maintain control over their population and prevent the dissemination of dangerous knowledge. The group known as the Serpent, in particular, was portrayed as a small group of creators who challenged the established norms of their own civilization by advocating for the dissemination of scientific knowledge to humans. This act of defiance may have been seen as a threat to the government's control over its population and to the established order of their society. As a result, they were punished by being sent into exile on Earth, while the other scientists were forced to abandon their experiments and leave the planet.
+{% libref(book="genesis-woh", chapter=6, verse=11) %}創世記6:11-13{% end %}は政治的論拠をさらに特定します。
+{{ scripture(book="genesis-woh", chapter=6, verse=11, translit="Vatishachet ha-aretz lifnei ha-Elohim, vatimale ha-aretz chamas") }}
+חָמָס(*chamas*)はヘブライ語で「暴力」を意味する標準語です——物理的暴力、人間が他の人間に対して振るう暴力、典拠が蟹座の枠組みのなかで、洪水以前の文明が互いに戦っていた「忌まわしい戦争」と特に呼んだ暴力です。ヘブライ語本文が*chamas*——暴力——を破壊決定の引き金となった条件として明示的に同定していることは、本書の読みと整合的です——評議会が応答していたのは抽象的な道徳的悪ではなく、洪水以前の文明が互いに先進的な軍事技術を展開する具体的に実証された能力と、その能力が最終的に母星自体に向けられうるという暗黙の脅威でした。
 
-This suggests that the Serpent and the banished Elohim faction had a moral code that placed a high value on the pursuit of knowledge and the advancement of civilization, even if it meant challenging the established order and risking their own well-being. They believed in the potential of humanity to reach their level of knowledge and saw themselves as mentors and guides to help them achieve this goal. This is in contrast to the moral code of the Elohim government, which placed a high value on maintaining control over their population and preventing the dissemination of dangerous knowledge.
+ノアへの指示は{% libref(book="genesis-woh", chapter=6, verse=14) %}創世記6:14-22{% end %}に与えられます。14節は建造を指定します。
+{{ scripture(book="genesis-woh", chapter=6, verse=14, translit="Aseh lekha tevat atzei-gofer, kinim ta'aseh et-ha-tevah, ve-khafarta otah mi-bayit u-michutz ba-kofer") }}
+תֵּבָה(*tevah*)、慣例的に「箱舟」と訳される語は、本章が第XIII節で立ち戻る意味の語です。語の語根的な意味は「容器」あるいは「閉ざされた船」です——水上移動のための船という意味での「船」ではありません。同じ語が出エジプト記2章で、幼児モーセが入れられたかごに対しても用いられています。*tevah*は環境的脅威からその内容物を保護する密閉された容器です。英語の「ark」を一種の大型船として固定してきた翻訳史は、ヘブライ語をあいまいにしてきました。ヘブライ語はより一般的です。
 
-{{ figure(src="wiki/circular-city-seen-from-the-sky", caption="Ill. 1 - Circular megalopolis seen from the sky") }}
+対の指示は{% libref(book="genesis-woh", chapter=6, verse=19) %}創世記6:19-20{% end %}にあります。
+{{ scripture(book="genesis-woh", chapter=6, verse=19, translit="U-mi-kol-ha-chai mi-kol-basar shnayim mi-kol tavi el-ha-tevah le-hachayot itakh, zakhar u-nekevah yihyu") }}
+{% libref(book="genesis-woh", chapter=7, verse=11) %}創世記7:11{% end %}は破局の瞬間を記録します。
+{{ scripture(book="genesis-woh", chapter=7, verse=11, hebrew="בִּשְׁנַת שֵׁשׁ־מֵאוֹת שָׁנָה לְחַיֵּי־נֹחַ בַּחֹדֶשׁ הַשֵּׁנִי בְּשִׁבְעָה־עָשָׂר יוֹם לַחֹדֶשׁ בַּיּוֹם הַזֶּה נִבְקְעוּ כָּל־מַעְיְנוֹת תְּהוֹם רַבָּה וַאֲרֻבֹּת הַשָּׁמַיִם נִפְתָּחוּ", translit="Bishnat shesh-me'ot shanah le-chayyei-Noach, ba-chodesh ha-sheni be-shiv'ah-asar yom la-chodesh, ba-yom ha-zeh nivke'u kol-ma'yenot tehom rabbah va-arubot ha-shamayim niftachu", english="ノアが600歳になる年の第二の月の十七日、その日に、大いなる淵の源はことごとく裂け、天の窓が開かれた") }}
+מַעְיְנוֹת תְּהוֹם רַבָּה(*ma'yenot tehom rabbah*)、「大いなる淵の源」、およびאֲרֻבֹּת הַשָּׁמַיִם(*arubot ha-shamayim*)、「天の窓」という句は、破局を下と上の双方から到来するものとして描きます。慣例的な読みは、これを海から水が立ち上がり空から雨が降る詩的な言い回しとして扱います。ラエリアン的読みはこれをより技術的に扱います——兵器の衝撃は、地下効果(地下水貯留の変位と排出、ヘブライ語が自然に「大いなる淵が裂ける」として描くであろう地震活動)と大気効果(爆発に続く過熱大気が生み出す降水、上空から降下する放射性降下物)の双方を生んだはずです。両方向の破局が記録されています。両方が現実です。
 
-## The Preservation Project
+{% libref(book="genesis-woh", chapter=7, verse=17) %}創世記7:17{% end %}には、本章が繰り返し立ち戻る句が含まれます。
+{{ scripture(book="genesis-woh", chapter=7, verse=17, translit="Vayehi ha-mabul arba'im yom al-ha-aretz, vayirbu ha-mayim vayis'u et-ha-tevah, vatarom me-al ha-aretz") }}
+וַתָּרָם מֵעַל הָאָרֶץ(*vatarom me-al ha-aretz*)という句は、詳しく検討するに値します。動詞רוּם(*rum*)、「持ち上げられる、上げられる、上昇する」は、名詞*ramah*(高所、高み)と分詞*ram*(高い、崇められた)を生むヘブライ語語根です。前置詞מֵעַל(*me-al*)は「〜の上から」という複合形で、「上方の」という方向的意味——あるものの上の位置から移動することを意味します。ヘブライ語文法の水準で取られれば、この句は方舟が「地の上に持ち上げられた」と述べています——水上に持ち上げられたのではなく、地表から離れる垂直方向に、地の上に持ち上げられたのです。慣例訳はこれを「地の上に」と「地表より上に」という意味で訳す傾向があり、方舟は元の地表より上に上昇した水の上を浮かんでいたとされてきました。ラエリアン的読みは方向的意味をより字義通りに取ります——方舟は地の上に上昇したのです、すなわち、破局の期間中、空へ、軌道へ、地表から離れる方向に上昇しました。
 
-> The government then decided from their distant planet to destroy all life on Earth by sending nuclear missiles. However when the exiled
-creators were informed of the project they asked Noah to build a spaceship, which would orbit the Earth during the cataclysm containing a pair of each species that was to be preserved.
->
-> This was true figuratively speaking, but in reality - and your scientific knowledge will very soon enable you to understand this - a single living cell of each species, male and female, is all that is required to recreate a whole being. This is something like the first living cell of a fetus in the womb of its mother, which already possesses all the information needed to create a human being right down to the color of its eyes and hair. This was a colossal task, but it was completed on time.
+契約の節は{% libref(book="genesis-woh", chapter=9, verse=8) %}創世記9:8-17{% end %}にあります。鍵となる節は9:13です。
+{{ scripture(book="genesis-woh", chapter=9, verse=13, translit="Et-kashti natati be-anan, ve-haytah le-ot brit beini u-vein ha-aretz") }}
+קֶשֶׁת(*keshet*)、「弓」はヘブライ語で(この箇所では)虹を意味するとともに、武器としての弓も意味します。本章は第XIII節でこの二重の意味に立ち戻ります。なぜなら含意は重大だからです——契約のしるしとしての虹は、語源的には、置かれた武器でもあるのです——雲に吊るされ、もはや地に向けて用いられない弓。この読みでは、契約の身振りは破壊の道具を明示的に退役させることなのです。
 
-The Elohim government, seeing the scientific progress of human beings as a threat, decided to destroy all life on Earth using nuclear missiles. However, the exiled creators asked Noah to build a spaceship that would preserve pairs of each species during the cataclysm. The preservation of a single living cell of each species, male and female, was sufficient to recreate the whole being, which was a colossal task but completed on time. [Noah's Ark](../../wiki/noahs-ark/) is therefore a space vessel capable of leaving the waters and going up to the orbit rather than a mere watercraft floating on the potentially cataclysmic oceans.
+バベルの塔の箇所は{% libref(book="genesis-woh", chapter=11, verse=1) %}創世記11:1-9{% end %}です。1節はバベル以前の状況を確立します。
+{{ scripture(book="genesis-woh", chapter=11, verse=1, translit="Vayehi kol-ha-aretz safah achat u-devarim achadim") }}
+この節は実質的な歴史的主張です——洪水後の初期において、人類全体が単一の言語を話していました。慣例的な説明は、これを古代世界のバベル以前の単言語状態の言語学的圧縮として扱うものでした——おそらく印欧語族あるいはアフロアジア語族の共通祖先言語まで遡るものとして。ラエリアン的読みは節をより字義通りに取ります——直後の洪水後期において、生存した人類が新しい大陸群に再分配されていたが、地理的孤立がもたらす言語的差異をまだ発達させていなかったとき、すべての人類集団は洪水以前のエデン文明から継承された共通言語を話していました。バベルでの介入——本書は意図的な評議会の作戦として読みます——は、この共通言語を分裂させ、塔そのものが代表したような協調的技術プロジェクトを防ぐために特別に設計されたものです。
 
-The overarching story of Noah's Ark as presented in the Bible can actually be understood as a metaphor for the larger scientific undertaking: The Elohim, who had created humans and other species on Earth, realized that a catastrophic event was imminent and that all life on Earth was at risk. To preserve the genetic material of each species, they instructed Noah to build a spaceship that would orbit the Earth during the cataclysm, containing a single living cell of each species, male and female.
+{% libref(book="genesis-woh", chapter=11, verse=4) %}創世記11:4{% end %}は塔の計画を記録します。
+{% scripture(book="genesis-woh", chapter=11, verse=4) %}
+そして彼らは言った——さあ、われわれの町と塔を建て、その頂を天に届かせよう。そしてわれわれの名を上げよう
+{% end %}
+וְרֹאשׁוֹ בַשָּׁמַיִם(*ve-rosho va-shamayim*)、「その頂を天に届かせる」という句は、本書全体を通じて「天」を指す語であった同じשָׁמַיִם(*shamayim*)を用いています。慣例的読みはこれを大きな高さの比喩として——比喩的に空に触れるほどの高い塔として——扱います。ラエリアン的読みはこれをより字義通りに扱います——*shamayim*は宇宙論的意味での天、母星が存在する大気の彼方の領域です。頂が*shamayim*に達する塔は、地球の彼方へ達するように設計された構造です——宇宙船、あるいはそのための発射施設です。この言い回しは無理なく技術的読みを支持します。
 
-The text suggests that this was not meant to be taken literally, but rather figuratively. The idea is that a single living cell contains all the genetic information necessary to recreate an entire being, similar to how the first living cell of a fetus contains all the information needed to create a human being. In this way, Noah's Ark can be seen as a metaphor for a larger project to preserve the genetic material of all species on Earth, which was accomplished by collecting and storing living cells from each species. This insight presents Noah's Ark not as a miraculous vessel that saved a select group of animals from a global flood, but rather as a symbol of humanity's efforts to preserve the genetic diversity of life on Earth.
+{% libref(book="genesis-woh", chapter=11, verse=6) %}創世記11:6{% end %}は評議会の応答を記録します。
+{{ scripture(book="genesis-woh", chapter=11, verse=6, translit="Vayomer Adonai: hen am echad ve-safah achat le-khulam, ve-zeh hachilam la'asot, ve-atah lo-yibatzer mehem kol asher yazmu la'asot") }}
+לֹא־יִבָּצֵר מֵהֶם(*lo yibatzer mehem*)、「彼らから抑えられるものはない」という句は、作戦上の論拠です。動詞בָּצַר(*batzar*)、「抑える、要塞化する、近づき難くする」は、ここの否定形では、彼らにとって不可能なことは何もないことを意味します。評議会は、人類文明が言語的・文化的協力の現行の軌道を続けることを許されれば、自らが達成しようとするものは何でも達成できる能力を持つに至ることを認識します——含意として、最終的には母星自体を脅かすような種類のプロジェクトを含めて。それに続く介入は予防的です——分散していなければ統一された人口が行使するであろう協調的能力を防ぐための、統一された人口の分散です。
 
-The preservation project would have involved collecting a single living cell of each species, male and female, and preserving them on board the spaceship. The process of preserving the genetic material would likely have involved advanced technology and techniques that are beyond our current understanding.
+これらが双子座を構造化する主要なヘブライ語箇所です。本章のその後の節は、これらの箇所が描く神学的・歴史的内容を扱います。
 
-One possibility is that the genetic material was cryogenically preserved, which involves freezing the material at very low temperatures to slow down its metabolic processes and prevent decay. Another possibility is that the genetic material was stored in a highly stable and protected environment, such as within a specially designed container or within the structure of the spaceship itself. It is important to note that the details of how the preservation project was actually carried out are not provided in the passage, so any explanations would be speculative. However, the passage suggests that the exiled creators had all the necessary knowledge and technology that enabled them to undertake this monumental task.
+## III. その決定
 
-{{ figure(src="wiki/vehicle-in-snowy-landscape", caption="Ill. 2 - Guarding groups collecting genetic material all over the world") }}
+人類の被造物を破壊する決定は、母星の評議会議場でなされました。本章はその審議を詳細に再構成することはできません——典拠は議事録を提供していません——しかし決定に至った政治力学は、典拠が描いていることと本書が確立してきたより広い枠組みから再構成可能です。
 
-> The spacecraft had three sections:
->
->> ...and the door of the ark shalt thou set in the side thereof; with lower, second, and third stories shalt thou make it. Genesis 6: 16.
+サタン派は、地球計画が始まる以前から、創造者と肩を並べることのできる合成された被造物は根本的に危険であると主張してきました。この議論は、研究所事故の後に母星の生物学計画の当初の停止を生んだ政治的反対の基盤でした。地球計画が移転して以降の数世紀にわたって議論は繰り返され、地球での新たな進展ごとにサタン派の立場を裏付ける新たな証拠を提供してきました。最初のエデン創造はその初期の実証でした。ルシファー派による禁断の知識の開示は確認でした。族長たちに与えられた長寿、*benei ha-Elohim*との混血の子孫の生産、エデン文明の急速な技術的進歩、超大陸の系統間の戦争——これらのそれぞれが、当初の懸念が正しかったことのさらなる証拠でした。
 
-This passage clearly reiterates that the ark was indeed a spacecraft, and needed to be constructed in a predefined manner based on blueprints provided by the banished Elohim, with the instruction to make it with three sections or floors: a lower section, a second section, and a third section. This is consistent with the idea that the ark was not just a wooden boat, but a technologically advanced spacecraft designed to preserve genetic material and sustain life during a catastrophic event.
+蟹座の後期数世紀までに、サタン派の立場は十分な支持証拠を蓄積し、評議会の穏健派ですら計画への当初の支持を再考せざるをえなくなっていました。ヤハウェの立場は特に注目に値します。なぜなら彼の転換は決定的な政治的展開だったからです。ヤハウェはもともと人類の被造物を支持しており、脅威が実証されたものではなく推測的であった数世紀の間、サタン派からの破壊の呼びかけに反対していました。彼は評議会の対応を緩和し、絶滅よりも封じ込めを好み、エデン追放後の政治的解決が十分であることを証明することを望んでいました。蟹座後期までに、その望みは維持できなくなっていました。エデン文明は、当初の解決が維持しようとした閾値を越えて進展していました。ヤハウェが解決の一部として地上での存在を許可してきた追放された創造者たちは、人類文明の進展の能動的な担い手となっていました。当初の解決が可能にしようとしていた和解は、もはや可能ではありませんでした。サタン派が警告していた脅威は現実化していました。
 
-{{ figure(src="wiki/man-standing-on-cliff-overseeing-spacecraft", caption="Ill. 1 - Guarding groups collecting genetic material all over the world") }}
+したがってヤハウェの破壊立場への転換は、もともとの原則の裏切りではなく、当初の穏健な立場が依拠していた条件がもはや成立していないというしぶしぶの認識でした。典拠のヘブライ語本文は{% libref(book="genesis-woh", chapter=6, verse=6) %}創世記6:6{% end %}にこの性格を保存しています——*vayinachem Adonai ki asah et ha-adam ba-aretz, vayit'atzev el libo*。「ヤハウェは地に人を造ったことを悔い、心に痛んだ。{{ footnote(id="1") }}」ヘブライ語は精確です。ヤハウェは先の決定を悔いました。彼は内心に悲しみました。破壊の決定は冷たい判断の行為ではなく、個人的な悲しみでした——自らが支持してきた計画が、その当初の条件において失敗したことを認めざるをえなくなった指導者の悲しみです。破壊の決定はこの悲しみとともになされたのであり、それに逆らってなされたのではありません。
 
-## The Great Flood
+選ばれた手段は核でした。典拠はこの点について明示的です{{ cite(id="1") }}——*「政府はその後、遠い惑星から、核ミサイルを送ることで地球上のすべての生命を破壊することを決定した。」*手段の選択そのものが示唆的です。評議会は生物兵器を選びませんでした——それなら人類を殺しても生物圏は無傷に残ったでしょう。混血の指導層を標的とした暗殺も選びませんでした——それなら文明を混乱させても、より広範な人類人口は保存されたでしょう。技術的インフラへの限定的攻撃も選びませんでした——それなら文明を後退させても、その成員を殺さなかったでしょう。彼らは人類だけでなく、彼らが築いた都市、保管してきた記録、彼らの文明を可能にした技術的インフラまでも破壊する兵器を選びました。目標は単に人類人口を減らすことではありませんでした。それは、迅速に再成長できる基盤を残さずに文明を完全に消去することでした。手段の選択は、評議会が脅威をどれほど深刻に見るに至っていたかを反映しています。
 
-> When the explosion took place, life had already been preserved a few thousand kilometers above the Earth. The continent was submerged by a gigantic tidal wave, which destroyed all forms of life on its surface.
+この文脈における「核」という語についての注記——1973年にラエルに口述された典拠は、自らの時代の語彙を用いています。エロヒム文明の兵器は、二十世紀の人類が核と呼んだものに精確に対応するかもしれませんし、しないかもしれません。典拠が描いているのは極度の破壊力を持つ兵器の一クラスであり、広大な地理的領域を蒸発させ、表面が再び居住可能となる前に150日間の上空汚染を必要とするほど高密度の放射性降下物を生み出すことができるものです。基礎的な物理が核分裂、核融合、反物質消滅、あるいは我々自身の物理学がまだ特徴づけていない何かであったかは、典拠が決着できる事柄ではありません。効果は同じです。文明は破壊されました。
 
-The Great Flood caused by the nuclear explosion submerged the continent with a massive tidal wave and destroyed all life forms on the surface. However, life had already been preserved a few thousand kilometers above the Earth in Noah's spacecraft. Everything was preserved and guarded in time through the Ark spacecraft carrying genetic material of each species. This ensured the continuation of life on Earth after the fading away of the cataclysmic flood and its aftermath's effects.
+標的決定は典拠には特定されていませんが、本章が第VII節で扱う地質学的証拠——洪水後のクレーター分布、石油環、大陸分裂のパターン——は、衝撃が超大陸上の特定の中心地帯に集中し、そこから破壊効果がおおよそ円形のパターンで外側に伝播したことを示唆します。この中心地帯が混血文明が最も密集していた場所だから選ばれたのか、それとも望ましい損傷パターンを生み出すために地球物理学的に最適だったから選ばれたのか、典拠は述べていません。それが述べているのは、衝撃が超大陸そのものを粉砕するに十分強力だったということです。
 
-The [Great Flood](../../wiki/great-flood/) was a cataclysmic event that caused a global mass extinction and was responsible for breaking up the [original supercontinent](../../wiki/pangaea/). The explosion that triggered the Great Flood was so powerful that it might have caused a shift in the Earth's axis, which in turn resulted in the sinking of the ancient continent. This theory is supported by geological evidence that suggests that there was a major shift in the Earth's tectonic plates around 8'000 years ago, which is consistent with the timeline proposed in the book. The Flood was also responsible for depositing large amounts of sedimentary rock and other geological formations that can still be observed today. Overall, the theory suggests that the Great Flood was a catastrophic event that fundamentally altered the course of human history and the planet itself.
+決定は最終的でした。評議会は攻撃を命じました。実施日が定められました。地上の追放された創造者たちは、彼らと母星の間に残っていた何らかの通信経路を通じて、知らされました。
 
-As the floodwaters receded, they left behind massive sedimentary deposits, which only over a few months or years, turned into solid rock formations. The shifting of tectonic plates, caused by the catastrophic event, also resulted in the creation of mountain ranges and the breakup of the original supercontinent, Pangaea. The movement of the plates and the resulting collisions caused intense pressure and wolding of the Earth's crust, leading to the formation of mountain ranges such as the Himalayas, the Andes or even the Alps. The layers of sedimentary rock formations that were deposited during the Great Flood can also be seen as evidence of the event. The distinct layers represent different periods of time, and the fossils found within them provide clues about the types of creatures that existed during each period.
+{{ figure(src="timeline/age-of-gemini-flood-decision", alt="冷たい青の母星評議会の風景。崖の建築、嵐雲、小さなシルエット、星に向かう通信ビーム。", caption="図 1 - 決定:母星は警告から介入へと転じる。") }}
 
-{{ figure(src="wiki/projectile-impact-on-earth", caption="Ill. 3 - Cosmic impact causing Earth-wide cataclysmic mass-extinction event") }}
+## IV. 蛇派の選択
 
->> The ark... was lift up above the earth. Genesis 7: 17.
->
-> As you can clearly see, it is said that the ark was lifted “above” the Earth and not “on” the water.
+蛇派が破壊決定を知った瞬間は、双子座の時代の悲劇的な弧が始まる瞬間です。
 
-The passage highlights that the ark was lifted "above" the earth and not "on" the water, as mentioned in Genesis 7:17. The preservational spacecraft managed to escape in time. The description of the ark (spacecraft) being lifted "above" the Earth strongly suggests that it was not a conventional boat as conventional interpretations still persist to explain, but rather a spacecraft that has to be capable of leaving the waters into the space of air.
+典拠はこの瞬間を詳細には描いていませんが、その帰結は明確です。地上で受け入れた追放の状態のうちに二千年を過ごし、人類のパートナーとの協働のなかでエデン文明を築き、人間の女性との間に混血の子孫をもうけ、そもそも追放を招いた当初の開示を生み出すに十分な愛情をもって彼らが創造した存在を愛してきたこの蛇派は、自分たちがしてきたすべてのことが、自らの母星文明によって破壊されようとしていると告げられたのです。彼らには下すべき選択がありました。
 
-It is noteworthy, that there are reasons to believe that the Great Flood happened around 6'000 BC when the Sun was rising in the house of Gemini during the vernal equinox, aligning with Castor, one of the majors star (which actually consists of multiple stars) of the constellation.
+彼らが下した選択は、本書の残りを定義する選択です。彼らは抵抗することを選びました。評議会が破壊を命じたものを保存することを選びました。事実上、自らの母星文明の権威に対して人類の被造物に身を捧げることを選びました——その権威に敵対するようになったからでも、何らかの反対の一般的イデオロギーを発達させたからでもなく、評議会が命じた特定の破壊が、良心において、抵抗なしには進行を許容できないものだったからです。
 
-{{ figure(src="wiki/ark-in-orbit", caption="Ill. 4 - Ark spacecraft in safe orbital space") }}
+この選択の道徳的次元は明示的な注意に値します。なぜなら、それこそが本章の弧をメロドラマではなく悲劇にするものだからです。蛇派は利己的な計算をしていたのではありません。彼らには破壊命令への抵抗から個人的に得られるものは何もありませんでした。彼らは野心家ではありませんでした。彼らは政治権力を求めていませんでした。彼らは二千年もの間、追放に満足してきました。彼らが持っていたのは愛でした。彼らは自分たちが造った人類を愛していました。彼らはともに築いた世界を愛していました。彼らは父親となった混血の子と、結婚した人類のパートナーを愛していました。評議会はこのすべてを破壊しようとしていました。蛇派の前には選択がありました——破壊を受け入れることは、自分たちが愛するすべてのものを犠牲にして自らの母星文明の命令に従うことを意味するでしょうし、破壊に抵抗することは、自らの政治的正統性、そしておそらく自らの生命を犠牲にして自らの母星文明に逆らうことを意味するでしょう。彼らは抵抗を選びました。生まれ落ちた母星文明よりも、自分たちが愛した人類を選んだのです。
 
-## Reseeding
+これが、蛇派を罰された反対派から能動的な抵抗運動の戦士へと転換させる瞬間です。しかし、この変容の限定的な性格を理解することが決定的です。この段階での抵抗は侵略ではありません。蛇派は評議会を攻撃しているのではありません。それを転覆しようとしているのではありません。破壊決定の直後の余波においては、母星に対するいかなる軍事行動も計画していません。彼らは、評議会が命じた破壊に対して、自分たちが作ったものを単に保存しているのです。これは惑星規模の市民的不服従です——自らの母星文明のより広い政治構造のうちに留まりながら、特定の命令を侵犯することです。この段階での蛇派は依然として、抵抗が限定的なものに留まりうること、保存が広範な衝突へとエスカレートすることなく達成されうること、評議会が最終的には保存をカズス・ベリ(開戦事由)ではなく既成事実として受け入れるよう説得されうることを望んでいます。
 
-> Then it was necessary to wait until there was no more dangerous radioactive fallout:
->
->> And the waters prevailed upon the earth an hundred and fifty days. Genesis 7: 24.
+蛇派が採用した戦略は、この観点で見ると慎重に較正されたものでした。彼らは破局を通じて人類の被造物を保存するけれども、破局そのものを防ごうとはしないというものでした。彼らは、人類という種を保存するための政治的代価として、洪水以前の文明の破壊を受け入れることになります。彼らは事後に、保存された残部を再生人類人口の基盤として受け入れるよう評議会と交渉します。彼らは洪水後の再建を通じて、人類の被造物が保存に値することを示します。そして——典拠が示唆するように、必死で——その実証が最終的には評議会との和解と、人類の被造物を自らの母星文明のより広い計画の正統な一部として正式に受け入れることを生むことを望みます。
 
-This passage states that after the flood, the waters prevailed upon the earth for 150 days, implying that it took that long for the radioactive fallout to dissipate and the environment to become safe for the Ark's passengers to disembark.
+その望みは、その時点では不合理ではなかったことを本章は記録すべきです。評議会はこの瞬間以前に、追放された創造者たち自身を敵であると宣言していたわけではありません。彼らは罰せられ、追放され、監視されていました——しかし死刑を宣告されていたわけではありません。評議会と追放された派の間の政治的関係は緊張していましたが、公然と敵対的なものではありませんでした。追放された創造者たちは、破壊命令の違反であるとはいえ自分たちが行う人類の被造物の保存が、戦争行為としてではなく異議申し立て行為として——おそらく罰せられはするが、交渉を通じて回復可能なものとして——扱われるだろうと信じる合理的な根拠を持っていました。当時の蛇派が知っていたことを前提とすれば、保存してから和解するという戦略は合理的戦略でした。
 
-When the decision was made to destroy all life on Earth, they sent nuclear missiles to achieve the goal of mass-extinction as pointed out at the outset of this chapter. The resulting explosions would have created radioactive fallout, which would have been dangerous to any remaining life on the planet, including the preserved genetic material on the spacecraft. Therefore, it was necessary to wait until the radioactive fallout had dissipated before landing on the ground and beginning the process of reseeding the planet with life.
+戦略は最終的に失敗するであろうこと——評議会が最終的には追放された創造者に対して軍事力をもって動くこと、失敗した和解の帰結として天上の戦争が勃発すること、蛇派が自らの母星文明との公然たる衝突へと押し出されること——これらのいずれも、当初の決定の瞬間には確定的ではありませんでした。蛇派は望みのうちに選択を下しました。望みは不十分であると証明されるでしょう。しかし望みのうちに下されたその選択そのものは、それがそうであったもの——服従の代価が愛するすべてのものの破壊である状況において、服従よりも愛を選んだ存在の行為——として顕彰されるに値します。
 
-Some method of nuclear decontamination was necessary to shorten the amount of time they had to wait in safer outer space before attempting to land back on the grounds of Earth.
+## V. 反対の準備:方舟の建造
 
-> Later it landed on Earth, and besides Noah, it carried a couple from each race of human beings on the Earth.
->
->> And Elohim remembered Noah... and Elohim made a wind to pass over the earth, and the waters asswaged. Genesis 8: 1.
+方舟の建造は、本書の読みでは、評議会の継続的な観察下にある惑星の表面で、自らの仕事を秘密にしておくいかなる期待も持たない追放された創造者たちによって、数世紀にわたって行われた公然たる市民的不服従の行為でした。
 
-The passage describes how after the flood, the Ark spacecraft carrying Noah and the genetic legacy of all life created on Earth by the Elohim on Earth landed on on dry land.
+典拠はその応答を描いています——*「追放された創造者たちはこの計画を知らされると、保存される各種の対を内蔵して破局の間に地球を周回する宇宙船をノアに建造させた。」*方舟は宇宙船でした。それは木製の船ではありませんでした。それは破局に至るまでの数世紀の間に、追放された創造者たちが提供した技術仕様に従って建造され、大気圏を離脱し、破局の期間にわたって乗員を軌道上で維持し、下界の条件が安定した後に表面に戻すように設計されていました。
 
-> After monitoring the level of radioactivity and dispersing it scientifically, the creators told Noah to release the animals to see if they could survive in the atmosphere. This operation was successful, and they were able to venture out into the open air. The creators then asked the human survivors to work and multiply, and show their gratitude to their benefactors who had created them and saved them from destruction. Noah agreed to give a portion of their harvest and their cattle to the creators to ensure they survived:
->
->> And Noah builded an altar unto Yahweh; and took of every clean beast, and of every clean fowl, and offered burnt offerings on the altar.
->> Genesis 8: 20.
+創世記6章の本文は、その具体的な詳細においてこの読みを支持します。「方舟」——ヘブライ語の*tevah*、船舶ではなく閉ざされた船あるいは容器を意味する語——は三層あるいは三階で建造されると描写されます。それは密閉されています。動物の生命の代表的な見本を内包するよう要請されます。その寸法は精度をもって与えられていますが、仕様で用いられているキュビトは現代の単位とは同じではなく、その正確な大きさは不確かです。そして、洪水中の船の挙動を本文が描くとき、{% libref(book="genesis-woh", chapter=7, verse=17) %}創世記7:17{% end %}は典拠が強調する言い回しを用います——*vatarom me-al ha-aretz*、「そして方舟は地の上に持ち上げられた」——水上に持ち上げられたのではなく、ヘブライ語が保存する方向的前置詞において、慣例的翻訳がしばしばあいまいにしてきた仕方で、地の上に持ち上げられたのです。
 
-After the Great Flood, the banished creators who had saved the human race from destruction, instructed Noah to release the first batch of resurrected animals to see if they could survive in the atmosphere, which turned out to be a successful experiment. The recreation of all animals and human beings followed. The human survivors were then asked to show gratitude to their creators by working and multiplying. Noah agreed to give a portion of their harvest and cattle to the creators. He built an altar and offered burnt offerings of every clean beast and fowl to Yahweh as a sign of their gratitude. Humans were thankful.
+作戦上の意味は明確です。方舟は初期の兵器衝撃の前あるいは最中に表面を離れました。乗員——小規模な人間の乗組員と、字義通りの読みではなく典拠の技術的読みにおいては、保存される諸種すべてが後に再生される元となる遺伝物質——を軌道に運びました。聖書本文が「水が地を覆っていた」期間として指定する150日間、軌道に留まりました——ラエリアン的読みではこの期間は、兵器からの放射性降下物が、表面が再び生命を支えられる水準にまで減衰していった期間です。そして、典拠の表現で創造者たちが*「放射能の水準を監視し、それを科学的に分散させた」*後にのみ、表面に戻りました。
 
-> The goal of humankind is scientific progress. Each race of humanity was then returned to its original place of creation, and each animal was recreated from the cells which had been preserved aboard the ark.
->
->> And by these were the nations divided in the earth after the flood.
->> Genesis 10: 32.
+方舟の建造が政治的に何を意味したかを記録する価値があります。蛇派は、それを引き受けることで、評議会の決定に対する公然たる抵抗行為を犯していました。評議会は地球上のすべての生命の破壊を命じていました。追放された創造者たちは、方舟を建造し、彼らが一万年かけて構築してきた生物圏の遺伝物質を保存することによって、評議会の命令に逆らっていました。彼らはこれを秘密に行うことはできませんでした——方舟は巨大な工学プロジェクトであり、完成に数世紀を要し、母星からの継続的な観察下にある惑星の表面で行われたのです。評議会は知っていました。追放された創造者たちは公然とそれに逆らっていました。ラエリアン的読みでは、方舟計画は、この時点までは追放と監視を通じて管理されてきたが、現在は破壊命令が双方の側が反対と理解するものへと固まってしまった政治的紛争の、目に見えるエスカレーションです。
 
-the purpose of humanity is to achieve scientific progress, and after the Flood, the human races were returned to their original places of creation. The preservation of genetic material in the Ark made it possible to recreate all species of animals that had been destroyed during the Flood. After the Flood, the human population and animal kingdom were thus able to start anew and repopulate the Earth. The passage from Genesis 10:32 suggests that the descendants of Noah's three sons (Shem, Ham, and Japheth) were responsible for repopulating a specific part of the Earth in today's Fertile Crescent and therefore creating the various nations at the crossroads of Asia, Africa and Europe. This can be seen as a symbol of the importance of diversity in human society, with different races and cultures contributing to the overall progress and development of humanity.
+この公然たる反抗に対する評議会の応答は、建造期間中、——意味深いことに——計画を攻撃することではありませんでした。評議会は見守りました。評議会は建造が進むことを許しました。これ自体が政治力学について示唆的です。評議会は破壊決定を下していましたが、追放された創造者たちが保存を試みることを、ある暗黙の仕方で、同時に受け入れていました。破壊命令は人類の被造物に対するものでした。それは追放された創造者たち自身に対する能動的な軍事行動にまでは及びませんでした。評議会はこの段階で、人類文明の破壊が認知された脅威に対処するのに十分であり、追放された創造者たちが破局を通じて保存する残部はそれが何であれ、その後の交渉を通じて管理可能なほど小規模であるだろうと計算していたようです。この計算は誤りであると証明されるでしょう——洪水後の回復は数世紀以内にバベルの塔の建造が可能な再生文明を生み出すことになるからです——しかし方舟建造の時点では、評議会の計画への寛容は、保存される残部が戦略的脅威にはならないという評価を反映していました。
 
-Unfortunately, it is not possible to accurately estimate the amount of time it would have taken to recreate each species from the genetic data preserved aboard the Ark spacecraft. However, it is clear that this would have been a massive undertaking, requiring advanced scientific knowledge and technology. The text suggests that the Elohim creators were able to successfully recreate each animal species preserved that way. It is noteworthy that some species were deliberately chosen not to be recreated at this moment in time. A prominent example here are the dinosaurs.
+同様に記録する価値があるのは、方舟の建造が追放された創造者たちが人類に対して行ったことではなかったということです。それは彼らが人類とともに行ったことでした。ノアは作戦の主体ではありませんでした。彼はパートナーでした。典拠は、彼の仕事を、彼に指示した創造者たちとの自発的な協働として記録します——建造の年月にわたって行われ、破局そのものを通じて維持され、その向こう側での回復作業を通じて続いたものとして。洪水後の祭壇が正式化することになる政治的同盟は、建造が始まった瞬間からすでに作戦的に発効していました。ノアと彼を教えた創造者たちは、兵器が衝撃する頃には、一つの稼働するチーム——人間とエロハ——を成しており、その成功は両当事者の信頼を必要とし、その賭け金は人類の被造物全体の生存であるプロジェクトによって結ばれていました。
 
-## Noahic covenant
+ノアは唯一の人類パートナーではありませんでした。聖書本文は彼の三人の息子(セム、ハム、ヤフェト)、彼らの妻、ノア自身の妻に言及します——方舟に乗り込む人類は計八人です。しかし、方舟を建造し、その部品を調達し、遺伝的収集を行い、数世紀の建造期間にわたって計画を支えた、より広い作戦チームは、はるかに大規模であったはずです。創世記4章と5章の聖書の系譜は、エデン地域に実質的な洪水以前の人口があったことを示唆します——この人口のうちの未知のしかし推定として実質的な割合が、労働者、技術者、生物学者、支援要員として方舟計画に関与していたはずです。彼らの大部分は破局を通じて保存されませんでした——方舟に乗船したのはノアの直近の家族のみです。より広範な労働力は、洪水以前の文明の残りとともに死にました。しかし彼らの仕事が保存を可能にしたのです。
 
-> The creators were happy to see that humans wished them well, and they promised never to try to destroy their creation again. They understood that it was only normal for them to want to progress scientifically.
->
->> ...for the imagination of man’s heart is evil.
->> Genesis 8: 21.
+これは立ち止まる価値があります。なぜなら、それは聖書物語のある特徴——しばしば道徳的判断として読まれてきたが、本書の読みでは異なる性格を持つもの——に関わっているからです。聖書本文はノアを彼の世代の唯一の義人として提示し、彼の家族は彼個人の義への報いとして保存されたとします。ラエリアン的読みは事実により近いものです——ノアは保存計画を遂行する大規模な作戦チームの指導者であり、彼の家族が保存されたのは、いかなる独自の個人的道徳的地位ゆえにではなく、彼らが計画の調整者だったからです。計画の他の労働者が保存されなかったのは、方舟が限られた人類乗組員しか運べなかったからであり、同盟がおそらく技術的・作戦的理由から、人類割り当てをノアの直近の家族に限定し、より広範な労働力を含むよう拡張しないことを決定したからです。決定は労働力に対する道徳的判断ではありませんでした。それは方舟の収容能力に対する作戦上の制約でした。労働力は他のすべての人々とともに死にました——破局が来ることを知らされ、各自の仕方で備えるために働いていた、より広範な洪水以前の人口の実質的な割合を含めて。
 
-The creators were pleased to see that the humans had expressed gratitude for their preservation and promised not to try to destroy their creation again. They realized that it was natural for humans to desire scientific progress. Despite this, they acknowledged that the human heart can be prone to evil, as stated in Genesis 8:21. The preservation of life was seen as a positive outcome. Having safeguarded life was good in the eyes of the banished creators.
+典拠は、この広範な洪水以前の共同体——何が来るかを知って備えようとした者たち——がより広い人口に警告しようとしたと記しています。試みは成功しませんでした。聖書本文はこのかすかな記憶を2ペテロ2:5に保存しており、そこではノアが「義の宣べ伝え人」として描かれます——この句は通常、ノアの敬虔さの一般的な描写として扱われてきましたが、本書の読みでは、破壊が来ることを洪水以前の文明に警告するという実際の計画を指しています。ノアと彼の共同体は、建造期間を通じて、同盟が差し迫った破局を彼らに警告したこと、そして彼らが備えるべきであることを、より広範な人口に伝えようとしました。より広範な人口は耳を傾けませんでした。文明は通常の活動——交易、戦争、技術計画——を、警告を真剣に受け取ることなく続けました。兵器が衝撃する頃には、方舟に乗っている者と、蛇派自体が建造したどんな避難所にいる者だけが生き延びることになります。
 
-The covenant established with Noah in Genesis, commonly referred to as the [Noahic covenant](../../wiki/noahic-covenant/), in which God promises never again to wipe out all life on Earth through a flood and designates the rainbow as a symbol of the "eternal covenant," can be seen as a precursor to the Noahide Laws. The covenant established with Noah [Gen 9:1-17] extends to every living being, including humans and other creatures. As part of this agreement, the creators pledges never again to wipe out all life on Earth through a flood, and designates the rainbow as a symbol of the "eternal covenant" between the Elohim and every living creature, both human and animal, on the planet.
+この共同体——真実を知り、破局を通じて生命を保存するために同盟と協働した洪水以前の人類の小集団——は、本書の枠組みにおいては、実際の意味で、最初の宗教共同体でした。「宗教」とは語源的意味において(*religare*、「結び合わせる」)、人間を神的なものに結びつけることです。ノアの洪水以前の共同体は、最も具体的な可能な仕方で蛇派に結ばれていました——保存計画における共有された仕事によって結ばれ、来るべき破局についての共有された知識によって結ばれ、人類という種の生存への共有された献身によって結ばれていました。その後の伝統がノアと彼の方舟に付与することになる宗教的次元は、この読みにおいては、人類と追放された創造者たちとの間の実際の作戦上の同盟の文化的記憶です——その後のすべての一神教的宗教的発展の基盤として、洪水後の伝統がその関係性を保存することになる同盟です。
 
-The Seven Laws refer to the set of moral and religious laws that according to Jewish tradition, were given to all of humanity through Noah after the flood. These laws are also known as the Noahide Laws or the Seven Noahide Laws. According to Jewish tradition, these laws are applicable to all human beings, regardless of their religion or nationality, and are considered the foundation of a just and moral society.
+{{ figure(src="timeline/age-of-gemini-ark-preparation", alt="嵐の青い建造盆地。密閉された軌道船、水路、足場、小さな労働者、保存灯。", caption="図 2 - 準備された方舟:暗くなる空の下での保存作業。") }}
 
-## The Tower of Babel
+## VI. 遺伝的積荷
 
-> But the most intelligent race, the people of Israel, was making such remarkable progress that they were soon able to undertake the conquest of space with the help of the exiled creators. The latter wanted their new human beings to go to the creators’ planet to obtain their pardon, by showing that they were not only intelligent and scientific but also grateful and peaceful. So they built an enormous rocket - The Tower of Babel.
->
->> And now nothing will be restrained from them, which they have imagined to do. Genesis 11: 6.
+聖書本文は方舟を各動物種の対——ノア、動物たち、二つずつという、この物語の象徴的イメージ——を内蔵するものとして描きます。ラエリアン的典拠は、保存された一定の種の生きた代表が乗船していたことに異を唱えてはいません。しかしそれは、生物圏の遺伝的多様性のすべてが、合理的に最大の船にすら物理的な形で運ばれえなかったことを明確にします。方舟の実際の積荷は遺伝的でした——*「各種の単一の生きた細胞、雄と雌、これが全体の存在を再生するために必要なすべてである。これは母親の子宮にいる胎児の最初の生きた細胞のようなものであり、それはすでに、目や髪の色に至るまで人間を作るのに必要なすべての情報を持っている。」*
 
-The people of Israel, who were considered the most intelligent race, made remarkable progress and with the help of the exiled creators, were able to conquer space. The creators wanted the new human beings to go to their planet to obtain their forgiveness by demonstrating that they were intelligent, scientific, grateful, and peaceful. They built an enormous rocket, known as the Tower of Babel, which reflected their aspirations to achieve great feats beyond their current capabilities.
+これは具体的な生物学的主張であり、典拠が口述されて以降に近代科学が学んできたことに照らして評価されるに値します。1970年代には、単一の細胞から生物を再生する可能性は理論的でした。それ以後の数十年で、それは作動するものになりました。1996年の羊ドリーのクローニングは、完全な哺乳類が成体提供者の単一の体細胞から再生できることを公然と示しました。遺伝子配列決定は、小さな組織サンプルから、あるいは場合によっては化石DNAからすら、種の完全なゲノムを再構成できる段階にまで進歩しました。1970年代に典拠が行った主張——細胞は生物を再生するのに十分な情報を含んでいる——は、推測から確立した事実へと移行しました。
 
-It is possible that it could have been built in Eridu or a nearby location close to the Persian Gulf. This would have provided easy access to a large body of water that could have been used for rocket launch and recovery operations. Additionally, being near a body of water could have provided a source of fuel or other resources needed for the rocket's construction and operation.
+この技術的主張を超えて本章が伝えなければならないのは、遺伝的積荷の計画が実際に必要としたであろう驚異的な規模です。
 
-> The people on our planet became frightened when they heard about this. They were still observing the Earth and knew that life had not been destroyed.
->
->> Go to, let us go down, and there confound their language, that they may not understand one another’s speech. So Yahweh scattered them abroad from thence upon the face of all the earth. Genesis 11: 7-8.
+**作業の範囲。**蟹座の章は、現在のグローバルな生物多様性をおよそ870万種(微生物多様性の数え方によって500万から1億の範囲で実質的な不確実性がある)と推定しました。本書の読みにおいては、洪水以前の生物圏は、再生されない恐竜やその他の洪水以前の大型動物の存続を考えると、少なくとも同等の多様性、おそらくはそれ以上を含んでいました。洪水を通じてこの生物圏を保存するために、同盟は、この惑星の歴史において最も包括的な生物アーカイブだったかもしれないもの——文明規模でのインフラと人員を必要とする、数世紀にわたる目録化と採集作業——を組み立てる必要があったでしょう。
 
-The people on the Elohim's planet became alarmed when they heard about the Tower of Babel, a rocket built by the people of Israel with the help of the exiled creators. They feared that the new human beings may be able to reach their planet and asked Yahweh to intervene. Yahweh then caused confusion by confounding their language, leading to their scattering across the Earth. This event is described in Genesis 11:7-8.
+作業はいくつかの統合された段階で進められたはずです。
 
-the people on the distant planet who were observing the Earth became frightened when they heard that the people of Israel were making remarkable progress in space exploration and were building an enormous rocket to go to the creators' planet to obtain their pardon. To prevent this from happening, they decided to intervene and confound the language of the people building the tower so that they would not understand each other's speech.
+**第一段階——同定。**いかなる種も採集されうる前に、すべての種が位置確認され同定されなければなりませんでした。これは惑星規模ですら実質的な事業です。一部の種は小さな地理的範囲を占めます——単一の島あるいは単一の山脈に限定される固有種です。一部の種は、その範囲内ですら稀であり、単一の標本を見つけるためにすら広範な探索を必要とします。一部の種は、通常の手段ではアクセスが困難あるいは不可能な環境に棲息します——深海の海溝、密林の樹冠、極地内陸、地下洞窟系、高層大気です。一部の種は顕微鏡的であり、直接観察ではなく微生物学的サンプリングと実験室での同定を必要とします。超大陸全体にわたるすべての種を同定するために必要な総合的分類学的調査は、数世紀の利用可能な時間に圧縮された、我々自身の文明における生物分類学の全歴史に匹敵するかそれを超える努力だったはずです。
 
-> So they came and took the Jews who had the most scientific knowledge and scattered them all over the continent among primitive tribes in countries where nobody could understand them because the language was different, and they destroyed all their scientific instruments.
+**第二段階——野外採集。**種が同定されると、生存可能な標本がサンプリングのために位置確認され採集されなければなりませんでした。要求される規模での野外採集は、超大陸全体のあらゆる生息地で稼働する生物採集者のチームを必要としたでしょう。あらゆる深度で稼働する海洋生物学チーム、深海採集のための専用船舶と耐圧装置を備えたもの。樹冠アクセスと森林無脊椎動物の多様性の忍耐強い調査が可能な熱帯森林チーム。極限の寒さと孤立のなかで稼働する極地チーム。原ヒマラヤ・原アンデス地域での高地作業が可能な山岳チーム。地下生態系にアクセスする洞窟チーム。微生物サンプリング——細菌、古細菌、菌類、原生生物——の専門家、それらが優勢な様々な生息地での。網羅的な生物調査のために必要な総野外労働力は数千、おそらくは数万に達し、超大陸のあらゆる地域と、それらの地域内のあらゆる生息地タイプにわたって分散していたでしょう。
 
-Preventive action
+追放された創造者たちが技術的指導と先進的な装置を提供したはずです。野外労働の大半は、人類のパートナーによって提供されたでしょう——何が来るかを知り、保存計画に身を捧げた、より広範な洪水以前の共同体です。これが、前節で言及された労働力が配置されたであろう場所です——超大陸全体にわたる採集チームで働き、サンプルを集め、採集地を文書化し、標本を中央保存施設に運搬する、数千人の人間です。
 
-## War in Heaven
+**第三段階——サンプル処理と保存。**採集された各標本は、生存可能な細胞物質を抽出するために処理され、その後、方舟の保管期間とそれ以降にわたってその生存能力を維持する条件下で保存されなければなりませんでした。現代の細胞保存技術は、氷晶損傷を防ぐ適切な凍結保護剤化学を用いて、液体窒素温度(-196°C)での極低温保管を使用します。適切に保存された細胞は、数十年あるいはそれ以上にわたって生存能力を維持できます。方舟の150日の保管期間は極低温保存の達成可能な範囲に十分収まりますが、規模で極低温保管を稼働させるために必要な技術——数百万種、冗長性のために種ごとに複数のサンプル、すべてのサンプルの統合された目録化——は、実質的な極低温インフラを表します。
 
-> To avoid being disturbed by humans, the creators built their bases on high mountains, where we now find traces of great civilizations (in the Himalayas and Peru, for example), as well as at the bottom of the sea. Gradually the mountain stations were abandoned in favor of submarine bases less accessible to humans. The creators who had been banished at the outset had hidden themselves in the oceans.
->
->> In that day Yahweh with his sore and great and strong sword shall punish leviathan the piercing serpent, even leviathan that crooked serpent; and he shall slay the dragon that is in the sea. Isaiah 27: 1.
+蛇派は、生物保存がしばらくの間成熟した分野であったと推定される母星文明から、この技術を持ち込んだはずです。方舟計画の規模でサンプルを処理し保存するために必要なインフラは実質的であり、超大陸上の複数の場所に大規模な施設を必要とし、野外採集作業と統合され、サンプルの生存能力を確実にするために継続的に監視されていたでしょう。
 
-The creators built their bases on high mountains and at the bottom of the sea to avoid being disturbed by humans. The mountain stations were gradually abandoned in favor of submarine bases less accessible to humans. The banished creators had hidden themselves in the oceans.
+**第四段階——目録化とメタデータ。**各サンプルは、包括的なメタデータと関連付けられなければなりませんでした——どの種か、どの標本か、いつ採集されたか、どこで採集されたか、採集地の生態的文脈、種の分類学的関係、保存されたサンプルから生きた生物を回復するために必要となるであろう再生プロトコル。情報管理の課題だけでも実質的です。数千のサンプルのコレクションを管理する現代のバイオバンクは、メタデータの整合性を維持するために広範なデータベースシステムと専従のキュレーター人員を雇用しています。数百万種からのサンプルを管理する洪水以前のアーカイブは、我々自身の文明がようやく開発し始めたばかりの洗練度の情報管理インフラを必要としたでしょう。
 
-The idea of a War in Heaven or a cosmic conflict between older and younger gods is a common theme in various mythologies and religious traditions. In the context of the Elohim and the banished creators, it is suggested that there was a power struggle or conflict between the original creators and a new faction that emerged on the home planet.
+**第五段階——再生能力。**サンプルの保存は計画の半分に過ぎません。サンプルは破局の後に、再生される生物が棲息することになる生態的共同体に適切な条件のもとで、生きた生物へと再生可能でなければなりません。哺乳類の再生は、人工子宮(我々自身の文明がようやく研究的文脈で開発し始めたばかりです)か、関連する種からの代理母の使用を必要とします。非哺乳類の再生には独自の技術的要件があります——適切な卵あるいは胚環境、適合した栄養的・発生的条件、様々なライフサイクルの時期的要件です。生物学的技術を超えて、再生される生物を適切な生息地に再生するために必要な生態学的知識——どの種がどの条件で生存できるか、安定した生態系機能のためにどのような共同体構成が必要か、機能的な生態系を再構築するためにどのような遷移系列が必要か——は、我々自身の現代の生態科学に匹敵するかそれを超える専門知識の集合体を表します。
 
-This conflict led to the banishment of the creators to Earth, where they were able to establish a presence and influence human history. The reference to "leviathan" and "the dragon in the sea" in Isaiah 27:1 can be seen as symbolic of this conflict between the older and younger factions, with the "dragon" representing the banished creators who took refuge in the oceans.
+総作業——調査、採集、保存、目録化、再生——は、数世紀の準備、複数の専門分野にわたる数百あるいは数千の人員、超大陸上の複数の施設にわたる統合されたインフラ、そして我々自身の文明がまだ匹敵していない技術的洗練のレベルを必要としました。
 
-Overall, this suggests that the Elohim and the banished creators had different agendas and approaches to their interactions with humanity and the universe, leading to conflict and tension between them.
+**現代の並行例。**我々自身の現在の文明水準で行われている遺伝的積荷計画への現代の同等物は、必要とされた努力の規模をいくらか感じさせます。スヴァールバル世界種子貯蔵庫は2008年に開設され、ノルウェー政府が作物信託および北欧遺伝資源センターとの協働で運営しており、現在約6,000の植物種を代表する約130万の種子サンプルを保存しています。貯蔵庫は破局的損失に対して農業の生物多様性を保存するように設計されています——ノルウェーのスピッツベルゲン島という所在地は、その遠隔性、気候の安定性、おそらくの紛争地帯からの孤立のために選ばれました。施設の使命は、将来の利用のための遺伝的多様性の保存です。それは、洪水以前のアーカイブがそうであったであろうものに最も近い現代の類似物です。
 
-> At that time the government of their planet wanted to destroy those who had created the humans.
+サンディエゴ動物園ワイルドライフ・アライアンスの冷凍動物園は、1972年以降、絶滅危惧種から細胞サンプルを収集してきており、現在約1,300種にわたる約11,000体の個別動物のサンプルを保管しています。施設は生きた細胞を極低温保存で維持しており、保全繁殖計画での使用や、すでに失われた種を回復するためのクローニングの取り組みで使う準備ができています。冷凍動物園は近年、クロアシイタチおよびモウコノウマのクローニングのために細胞を提供しており——これらの種の回復プロジェクトは、保存された細胞物質から生物を再生する実用的な実行可能性を示しています。
 
-This is a small but crucial sentence in the Raëlian canon, not to be mentioned again. The infamous myths about a pantheon of younger Gods fighting another pantheon of older Gods fully comes to fruition here, the so called "Theomachy". The government of the Elohim's planet wanted to destroy the banished creators who had come to Earth and created humans. This indicates a conflict or disagreement between the two groups, possibly due to differing ideologies, beliefs, or goals. It also suggests that the creators may have been seen as a threat to the established order or power structure on the Elohim's planet, leading to a desire to eliminate them.
+これらの計画は実質的ですが、総生物多様性の消失するほど小さな割合を表しています。スヴァールバル貯蔵庫は世界の植物種の約0.5%を保存しています。冷凍動物園は脊椎動物種の約0.05%からの細胞を保存しています。世界中の現在のすべてのバイオバンクにある総保存生物物質量は、おそらく総グローバル生物多様性の数パーセントを表し、種の大半——特により小さな無脊椎動物と微生物の領域では——はまったく代表されていません。
 
-## A quick recap
+典拠の枠組みが必要とする洪水以前のアーカイブは、我々の現在の取り組みを桁違いに矮小化したでしょう。蛇派とその人類パートナーは、洪水以前の数世紀のうちに、本質的に惑星上のすべての種についてのサンプルを含むアーカイブを組み立てる必要があったでしょう——範囲において、ヒトゲノム全体のマッピング(我々自身の文明で13年と約30億ドルを要しました)に匹敵するが、一つではなく数百万種にわたって拡張された計画です。本書の枠組みでそのような計画が実行されたという事実そのものが、脅威の深刻さの証拠です——これは気軽な保存努力ではなく、惑星生物圏の確実な破壊に対して期限の圧力のもとで実行された必死の文明規模の事業です。
+
+遺伝アーカイブ的読みでは、積荷の規模は管理可能になります。すべての種の甲虫の対が5か月にわたって収容され餌を与えられるのではなく、すべての甲虫種に相当する遺伝物質が、小さな実験室より大きくない容積に保管できます。聖書本文が用いる「対、雄と雌」という言い回しは、地球上の各種の二匹の成体甲虫が運び込まれることの字義通りの要件ではなく、有性生殖の技術的要件——XとY両方の染色体が保存される必要があること——を反映しています。方舟は、遺伝図書館と乗組員を維持する軌道プラットフォームを組み合わせたものでした。その大きさと収容能力は、この読みでは、地球上のすべての種の繁殖対を運ぶ木製の船にはなしえない仕方で、その任務に十分です。
+
+すでに記したように、人間の乗員も乗船していました——保存された細胞の形ではなく、生きた乗組員としてです。ノア、その妻、三人の息子(セム、ハム、ヤフェト)、そして彼らの妻——人類は計八人、本章の冒頭がこの時代と第八の日との関連のうちに暗号化されていると記した数です。典拠は、方舟が地表に戻ったとき、*「地上の人類の各人種の対」*をも運んでいたと付け加えています——ノアが属するエデン系統だけでなく、七つの人類系統の代表者が保存され、戻されたことを示唆しています。これらの他の代表者が乗船していた生きた人間だったのか、それとも着陸後に保存された遺伝物質から再生されたものだったのかは、典拠が精確に特定していることではありません。特定されているのは、七つの人種すべてが出来事を通じて保存され、すべてが回復後にそれぞれの元の地域に戻されたということです。人類という種全体が破壊されたのではありません。その文明が破壊されたのです。
+
+{{ figure(src="timeline/age-of-gemini-orbital-ark", alt="嵐系と冷たい大気のもやに覆われた地球の上の深い青の軌道にある銀色の保存船。", caption="図 3 - 軌道上の避難所:破局の上に保たれる生命。") }}
+
+## VII. 破局
+
+兵器が衝撃しました。
+
+典拠は標的決定を詳細には描いていませんが、本章が提示することになる——そして科学節がさらに扱うことになる——地質学的証拠は、衝撃が超大陸上の特定の中心地帯に集中し、そこから破壊効果がおおよそ円形のパターンで外側に伝播したことを示唆します。この中心地帯が混血文明が最も密集していた場所だから選ばれたのか、それとも望ましい損傷パターンを生み出すために地球物理学的に最適だったから選ばれたのか、典拠は述べていません。それが述べているのは、衝撃が超大陸そのものを粉砕するに十分強力だったということです。
+
+ラエリアン的典拠は引用に値する箇所でこれを明示的に扱います——*「エロヒムが地球上の基地、研究所、そして彼らが地球上で創造したすべてを破壊することを決定したとき、彼らは極めて強力な破壊手段を使用したに違いない。それは、この元の大陸を分裂させて、各々の断片を衝撃の中心から外側へと漂流させただけでなく、陸地表面全体を一掃したに違いない。」*この読みでは、大陸の分裂は数千万年あるいは数億年かけて作動した地質学的過程ではありません。それは一つの出来事です。それは双子座の洪水破局の最中に起こりました。先行するすべての時代を通じて存在した単一の陸塊の断片は、最初の衝撃の力によって押し離され、現在我々がプレートテクトニクスのゆっくりとした運動として観察する継続的な漂流は、その元の変位の残余運動なのです。
+
+この読みは、大陸移動を数億年の時間スケールで作動する過程として、いかなる破局的初期出来事によってではなくマントル内の対流によって駆動されるものとして扱う慣例的な地質学的説明と、直接矛盾します。本書はこの矛盾を誠実に記しています。慣例的な説明は、近代地質学が運動を年代決定し、その原因をモデル化するために用いている実質的な証拠——古地磁気的特徴、化石分布、大陸縁辺の適合、現在のプレート運動のGPS測定——を蓄積してきました。ラエリアン的典拠は、同じ観察が異なって説明される圧縮された時間軸を提案します——縁辺の適合は洪水以前の構成を反映する、古地磁気的特徴は出来事の最中とその後の急速な再方位を反映する、化石分布は洪水以前の生物圏の連結性と洪水後の再播種パターンを反映する、現在のGPS測定された漂流は、元の変位からの継続的な残余運動を反映する。圧縮された時間軸が地質学的証拠と完全に和解できるかどうかは、本書が解決することを装わない問いです。科学節はこの矛盾を、より長く扱うことになります。本章がここで記すのは、典拠の主張と矛盾であり、続くものに照らして読者が議論を秤にかけられるようにしておくことです。
+
+明確なのは、ラエリアン的読みにおいては、我々が今知る大陸群が常に現在のようであったわけではないということです。それらは単一の陸塊の断片化した破片であり、洪水の出来事によって粉砕され、それ以来動き続けています。この粉砕の地質学的帰結は実質的だったでしょう。動いている大陸断片群は、新しい縁辺に沿って互いに衝突しました。断片が海底にこすりつけられたところでは、堆積物がその前縁に沿って積み上げられ——ラエリアン的読みでは——近代の大陸群を特徴づける若い山脈が生まれました。ヒマラヤは、超大陸から分かれて北東に漂流したインド断片が、主要なユーラシア大塊と衝突した縁辺に沿って形成されます。アンデスとロッキー山脈は、漂流する北・南アメリカ断片の西縁に沿って形成されます。アルプスはアフリカとヨーロッパの間の衝突境界に沿って形成されます。オーストラリア大分水嶺山脈は、オーストラリア断片が南東に漂流するときその前縁に沿って形成されます。これらのすべては、ラエリアン的読みでは、慣例的地質学がそれらに割り当てる100万年規模の時間軸の産物ではなく、洪水の出来事とその直後の洪水後のテクトニックな調整の産物です。
+
+さらなる詳細——洪水以前の超大陸の統一気候のもとで繁茂していた熱帯植生と動物相を伴っていた南極断片は、極へ向かって南に漂流し、気候が変化するにつれて漸進的に氷で覆われました。南極の氷の下から回復された保存された熱帯化石——植物、動物、そしてある異論ある事例では、自然ではなく建造されたように見える構造物の化石——は、ラエリアン的読みでは、洪水以前の超大陸の南極部分の化石痕跡であり、断片が現在の極の位置に到着した後にのみ形成された氷の下で保存されたものです。近年の古植物学的発見の温暖な南極は、証拠の誤読ではありません。それは洪水以前の世界の本物の断片であり、その元の性格を失うには新しすぎる氷に閉じ込められているのです。
+
+**石油環。**典拠は、ラエリアン的伝統のうちで、本書全体において最も具体的で検証可能な地質学的予測のひとつとなった観察に続けます。1970年代に、CIAはハドソン研究所に天然資源のグローバルな分布を研究するよう委託しました。この計画で働いていたネリングという研究者{{ cite(id="12") }}は予期せぬ何かを発見しました。大陸群が分裂前の構成——近代地質学理論のパンゲア超大陸——に再構成されると、世界の主要な油田は再組立てされた陸塊の上にランダムに散乱するのではありません。それらは代わりに、環を形成するのです。{{ footnote(id="2") }}アラスカと北極の石油鉱床、アルバータのアスファルト砂、コロラドの瀝青質頁岩、メキシコ、ベネズエラ、オリノコの重質油、ナイジェリア、南サハラ、リビア、アラビア、イラン、シベリアの埋蔵——これらのすべては、大陸断片群がその元の位置に再組立てされると、中心地帯を取り囲むおおよそ円形のパターンに収まるのです。
+
+石油形成の慣例的な地質学的説明——数百万年にわたる有機物の緩慢な嫌気的分解——は、自然には環パターンを生み出しません。それは、古代の堆積盆地がどこに形成されたかにかかわらず、その地理的位置を追う分布を生み出すでしょう。環状の分布は、衝撃地点の周りのおおよそ対称的なパターンで、特定の中心位置における単一の破局的出来事が同時に膨大な量の有機物を埋没させ、続く嫌気的条件が、我々が今抽出する地中の石油を生み出した場合に期待されるものです。ラエリアン的読みは、これが正にそこで起こったことだ、というものです。中心の爆発——評議会が洪水以前の文明に対して展開を命じた兵器——は膨大な量の生きた物質を蒸発させ変位させ、その物質を衝撃波の直後の地質学的瓦礫の下に埋めました。埋められた物質は、酸素から遮断され、続く数千年にわたって持続的な圧力にさらされ、我々が今化石燃料と呼ぶ炭化水素へと変換されました。環の形は、元の出来事の幾何学を保存しています。我々の足下の石油は、この読みでは、洪水以前の生物圏の圧縮された残骸です。
+
+これは実質的な主張であり、本章は適切な認識論的注意を記録しなければなりません。ネリングの研究は実在しますが、主流の石油地質学の一部ではなく、それは石油形成を地質学的時間軸にわたって作動する漸進的な堆積過程に帰属し続けています。本書は環の観察を、枠組みの最も特徴的な具体的物理的証拠主張として提示しつつ、基礎研究が広く再現されたり受け入れられたりしていないことを認めています。科学節は石油の問いに、より長く立ち戻ります。本章がここで記すのは、本書の枠組みのうちにおいては、グローバルな石油分布の幾何学はランダムではないということです。それは、本章が描いている破局的出来事の生き残った幾何学的署名なのです。
+
+特定のネリングの観察の地位とは関わりなく、印象的なのは、我々が一世紀以上にわたって、それが何でありうるかをついぞ認識せずに、洪水以前の文明の埋められた有機物を抽出し、それを自分自身の文明に動力を供給するために燃やしてきたということです。我々がガソリンに、プラスチックに、産業経済の基礎化学物質に精製する石油は——ラエリアン的読みでは——その燃焼の大気的帰結を通じて、我々自身が今スローモーションで再演している破壊の文明のレンダリングされたバイオマスです。劇的アイロニーは実質的です。我々が失った文明は、我々が築いた文明の燃料です。そして、その古代のバイオマスを燃やすことによって我々が大気に戻している二酸化炭素は、洪水以前の文明そのものの間に循環していたのと同じ炭素です——放出され、破局によって隔離され、そして今や我々自身の技術によって再び放出されています。
+
+**水。**聖書本文は洪水を水として描きます——雨、上昇する海、上方に開く淵の源です。典拠はこれに異を唱えません。中心の兵器衝撃は、いかなる合理的な再構成の上でも、破局的な大気的・海洋学的帰結を生み出したでしょう——巨大な嵐系を形成するために上昇する過熱された空気、陸塊を横断して外側に伝播した巨大な津波へと衝撃波によって変位された海水、それ以前の気候が経験したことのない量で降水する大気水分。「水が地を覆っていた」期間として聖書本文が指定する150日は、ラエリアン的読みでは、字義通りの洪水と、軌道上の方舟が待っていた継続的な大気汚染の双方を反映しています。
+
+具体的な本文上の詳細が言及に値します。典拠は、化石記録が、洪水の出来事中とその後に堆積した堆積物のうちに、起こったことの痕跡を保存していると記しています。衝撃によって変位された物質から形成された堆積岩の層。出来事によって殺された生物の化石はこれらの層の中に保存されており、出来事に関連する特徴的な化石ホライズンは、すべての大陸の地質学的記録に見ることができます。典拠の主張は、慣例的に数百万年にわたる漸進的な堆積に帰属されてきたグローバルな化石記録が、実質的な部分において、洪水とその直後の余波の最中に、膨大な量の有機物の急速な埋没を通じて形成されたというものです。これはラエリアン的典拠と主流地質学との間の最も直接的な矛盾であり、本章はそのようなものとして記します。慣例的な読みは化石記録を数億年の堆積にわたって年代決定します。ラエリアン的読みはその多くを単一の破局へと圧縮します。これらの読みの間の解決が、もし可能だとすれば、いずれの典拠もそれ自体では供給できない証拠を必要とします。科学節はこの問いに立ち戻ります。
+
+**カタストロフィズム的文脈。**洪水を突然の破局的出来事として読む本書の読みは、変動的に破局論、新破局論、あるいは単に脱斉一論的地質学と呼ばれる、より広い現代の研究計画と整合しています——それは地球の最近の地質学的過去における実質的な破局的出来事の証拠を蓄積してきました。この枠組みの最も顕著な現代の支持者はランダル・カールソンであり、彼は1990年代以降、地球の最近の過去における突然の大規模な破局的出来事の地質学的証拠について、実質的な著作を発展させてきた独立研究者です。カールソンの仕事は、より広い彗星研究グループとの協働で行われ、グラハム・ハンコックとの出演や様々な現代のポッドキャストを通じて広範に発展させられており、以下に焦点を当てています——
+
+- ヤンガードリアス境界(約12,900年前)、宇宙衝撃の出来事の証拠が2007年以降実質的に蓄積されてきた
+- 後期更新世から初期完新世にかけての破局的洪水の地質学的署名——東部ワシントン州のチャンネルド・スカブランドを含む(最終氷期の終わりに破局的氷河決壊洪水によって形成され、地質学が実質的な規模での破局的洪水を真の機構として認識していることを示しています)
+- 宇宙衝撃と地球の地質学的・気候学的歴史との関係
+- 破局的出来事の文化横断的な神話的保存、洪水物語のグローバルな分布を含む
+
+カールソンの仕事は主流のコンセンサスではありません。彼の解釈は多くの特定の点で主流地質学によって異論を唱えられており、彼が聖書とその他の神話的物質と地質学的証拠とを統合することは、主流科学が退ける傾向にあったより広い代替考古学的伝統のうちに彼の仕事を置きます。しかし彼の仕事は実質的であり、彼が集める地質学的証拠は解釈が異論を唱えられる場所でさえ実在しており、そして彼が代表するより広いカタストロフィズム的枠組みは、十九世紀以来主流地質学を支配してきた厳格な漸進論的伝統よりも、本書自身の枠組みと整合的です。本書はカールソンに、彼がなすあらゆる特定の主張に身を委ねることなく、最も顕著な現代のカタストロフィズム研究者のひとりとして言及し、彼の仕事——そしてより広いカタストロフィズム的伝統——が、本書の枠組みが評価されうる現代の研究的文脈を提供することを認めています。
+
+カールソンが最も実質的に文書化してきた破局的洪水現象——最終氷期の終わりにチャンネルド・スカブランドを刻んだミズーラ洪水——は、地質学自体が破局的洪水を真の機構として認識していることの具体的な実証を提供します。ミズーラ洪水は、氷河期ミズーラ湖をせき止めていた氷ダムの繰り返される決壊によって引き起こされ、今や東部ワシントン州である地域を横断して、世界のすべての近代の河川を合わせた流量を超える流量で膨大な量の水を送りました。これらの洪水の地質学的署名——巨大なリップルマーク、グランドクーリーの乾いた滝、現在のいかなる水源からも遠く離れて堆積した巨大な岩石——は、その地域を訪れる誰にも見えるものです。ミズーラ洪水は本書の枠組みのグローバルな洪水ではありませんが、破局的洪水に必要な地質学的機構が存在し、最近の過去において作動したことの証拠です。本書の枠組みは、この認識を蟹座・双子座の境界に置く実質的により大きな破局的出来事へと拡張します。
+
+{{ figure(src="timeline/age-of-gemini-cataclysm", alt="遠い青黒の破局。割れた陸地、嵐の柱、新しい海、白い泡、稲妻、地平線の輝き。", caption="図 4 - 破局:水と作り直される大陸。") }}
+
+## VIII. 回復と契約
+
+方舟が地表に戻ったとき、それは——聖書の伝統によれば——アララト山に着陸しました。ラエリアン的典拠は特定の着陸地点に身を委ねておらず、本書は、今我々がアララトと呼ぶ地理的地域それ自体が、洪水以前の地理においては異なるものであっただろう分裂後の特徴であることを記しています。重要なのは着陸の実質的な内容です——方舟は十分な高度に降り立ち、乗組員は出てきて、回復作業が始まりました。
+
+第一段階は環境評価でした。典拠はそれを描いています——*「放射能の水準を監視し、それを科学的に分散させた後、創造者たちはノアに、動物たちを放して大気中で生存できるかを見るよう告げた。この作業は成功し、彼らは戸外に出ることができた。」*この段階で放された「動物たち」は、遺伝的積荷の読みでは、最初の再生された生物——表面が今や居住可能であることを、より広範な再生が始まる前に確認したテストケースです。ノアが最初にカラスを、次に鳩を放ち、鳩が植生を伴って戻るかどうかを見るために待ったという聖書物語は、この評価段階の作戦上の論理を保存しています——生きた生物が生物学的監視装置として送り出され、その生存と挙動が、表面の条件がより広範な放出に十分回復したかどうかを決定するために用いられたのです。
+
+創造者たちの残留放射能の科学的分散は、典拠が特定の機構を説明していないが、本書の枠組みがその必要性を明確にしている技術的作業です——核戦争後の環境は居住前に能動的な是正措置を必要とし、創造者たちは我々自身の文明が現在挑戦的に感じるであろう規模でその是正措置を実行する技術を持っていました。軌道での150日の待機は、核兵器が生み出す最も急性で危険な放射性同位体の半減期減衰に大まかに対応します——ヨウ素131(半減期8日)、ストロンチウム89(半減期50日)、そして爆発直後の放射線環境を支配するその他の様々な短寿命核分裂生成物です。150日までには、これらのほとんどは管理可能な水準にまで減衰したでしょう。より長寿命の同位体(セシウム137、半減期30年、ストロンチウム90、半減期29年)は依然として存在し、蛇派の技術による能動的な是正措置を必要としたでしょうが、表面は慎重な人間の活動には十分安全だったでしょう。
+
+第二段階は再播種でした。遺伝物質が保存されていた各種は再生されました——典拠が暗に示すところでは、近代のクローニングに類似した過程によって、しかし我々の技術がまだ近づいていない規模と速度で行われました。再生された生物は適切な地域に放され、生物圏は回復し始めました。典拠は、特徴的な抑制とともに、*「いくつかの種は、現時点では再創造されないことが意図的に選択された。ここでの顕著な例は恐竜である。」*と記します。これは、洪水後の世界からの大型爬虫類動物相の不在についての典拠の説明です。恐竜——乙女座の章が論じたように、その創造自体がエロヒム計画の内部で論争的であった特定の派閥の計画であった——は洪水後に再生されませんでした。それらをもともと生み出したチームは在席しておらず、残っていた追放された創造者たちは、それらを生存した人間が再建する必要のあった洪水後の生態系と不適合と判断しました。化石記録からの恐竜の突然の消失は、慣例的に6,600万年前の白亜紀・古第三紀境界絶滅イベントに帰属されてきましたが、ラエリアン的読みでは、洪水後の再構成にそれらを含まないという決定の単純な帰結です。
+
+その他の洪水以前の種も再生されないままでした。本書は完全な一覧を持っていませんが、典拠のより広い枠組みは、我々が化石記録からのみ知る多くの種——更新世末期に消失した様々な大型動物群、より古い化石層に保存された様々な異常な形態——が、蛇派が回復しないことを選んだもののうちにあったことを暗に示します。したがって洪水後の生物圏は、洪水以前の生物圏の完全な復元ではありませんでした。それは厳選された部分集合であり、洪水後の世界の条件への適合性と、回復しつつある人類人口を支えるであろう新しい生態的秩序の基盤としての適性によって、同盟によって選ばれたものです。
+
+第三段階は人類系統の再分配でした。*「人類の各人種は、その後、元の創造の場所に戻された。」*七つの人類集団は、その代表者が出来事を通じて保存され、もともと来た地域——今や新たに開かれた海によって隔てられ、もともと生まれた単一の陸塊から分裂した地域——に戻されました。オーストラリア系統はオーストラリア断片に戻されました。アンデス系統はアメリカ断片に。ヒマラヤ系統は中央アジアとなった地域に。等々。洪水後の大陸構成は、洪水以前のそれとは非常に異なる人類の地理的分布を生みました。後続の人類史の大半にわたって、七つの系統を互いから孤立させ続けることになる地理的障壁が、今や設置されました。各系統はそのその後の文明を他のものから大きく独立して発展させ、近代の人類集団の文化的・言語的・人種的特異性は、この洪水後の地理的分裂と、それぞれのチームの元の派閥的差異との組み合わせを反映しています。
+
+この再分配のさらなる次元が注目に値します。なぜならそれは、他の仕方では説明することが困難であったその後の人類史のある特徴を説明するからです。エデン系統——ノアの家族の子孫——は、ゼロから再建する必要はありませんでした。彼らは方舟を建造した系統でした。彼らは破局の最中に乗船していました。彼らは後に最初に着陸し、再播種に最初に参加しました。作戦全体を監督した蛇派の構成員は、洪水後の直後の期間において彼らのうちに継続的に在席し、指導し、援助し、再建を導いていました。エデン系統の回復は、結果として急速でした——数世紀のうちに、ノアの家族の子孫は実質的な工学計画を引き受けるのに十分な文明水準に達しましたが、他の六つの系統——元の地域に戻されたものの、進んだ教師たちの継続的な在席を欠いている——は、はるかに小さい出発点からのより緩慢な再建の過程のうちにありました。エデン系統と洪水後の人類の残りとの間の技術的非対称性は、数千年にわたって持続し、メソポタミア、エジプト、隣接する文明の早熟な洗練として考古学的記録に見えるものですが、この読みでは偶然ではありません。それは、誰が方舟を建造したか、そして誰が出来事を通じて、自分たちの教師がまだそばにいるなかで生き延びたかの直接的帰結です。
+
+第四段階は契約でした——そして契約の当事者たちは慎重に同定されるに値します。なぜなら{% wiki(slug="noahic-covenant") %}ノアの契約{% end %}の慣例的な読みは、続くすべての政治的形状をあいまいにする仕方で、それらを誤同定するからです。
+
+創世記9章は、創造者たちが人類を再び破壊することはしないと約束し、虹がその契約の目に見えるしるしとして指定されるという、エロヒムとノアの間の合意を記録しています。この約束をなす「創造者たち」は、ラエリアン的読みでは、地上に在席する追放された創造者たち——方舟を建造し、軌道を監督し、洪水後の是正措置を行い、そして今やノアとともに祭壇に立って供え物を受け取っている同じグループ——を具体的に指します。母星の評議会はこの場面に在席していません。聖書本文は評議会が相談されたとは示していません。ラエリアン的典拠は、その後の評議会の知識の状態について我々に告げることによって不在を確認します——後にバベルの塔の計画が形を取り始めると、評議会は、観察を通じて、地球上の生命が事実として破壊されていなかったことを知って、警戒のうちに反応します。ラエリアン的本文はこれを直接述べます——*「我々の惑星の人々はこれを聞いて恐れた。彼らは依然として地球を観察しており、生命が破壊されていなかったことを知っていた。」*評議会がノアの契約の当事者であったならば、これは意味をなしません。契約の当事者は、後に観察によって驚くのではなく、当時知らされていたでしょう。
+
+修正された読みでは、契約は二つの当事者の間の私的取り決めです——地上の追放された創造者たちと、ノアに率いられた人類の生存者たちです。両当事者はちょうど、評議会が命じたことに反することを行いました。追放された創造者たちは破壊命令に逆らって方舟を建造し稼働させました。人類の生存者たちは協力しました——ノアは指示を受け入れ、船を建造し、それに乗船し、破局を通じて生き、彼を保存した創造者たちの生存したパートナーとして反対側に出てきました。祭壇で起こることは、彼らの共同の立場を正式化するものです。それは既存の政治的秩序の批准ではありません。それは新しい秩序の創設——追放された創造者派閥と生存した人類との間の正式な同盟、相互の献身によって結ばれ、両者の破壊を命じた母星の評議会から関心においてますます区別される——です。
+
+同盟の条件は相互的です。追放された創造者たちは、人類のいかなる将来の破壊にも参加しないことに身を捧げます——その意味は、彼らが評議会が命じた破壊への参加を辞退したばかりであるという事実によって形作られます。彼らは人類の科学的進歩への欲望の正統性を承認し、そのような進歩を人類の被造物がもたらす中心的な脅威として扱った当初の評議会の立場を覆します。人類は、その代わりに、感謝、生産的な再建、そして儀礼的供え物——{% libref(book="genesis-woh", chapter=8, verse=20) %}創世記8:20{% end %}の燔祭が表すもの——を通じた創造者たちの認識に身を捧げます。雲に契約のしるしとして置かれた虹は、この私的取り決めの目に見える徴です。それは単一の神的当事者にのみ見えるしるしではありません。それは新しい大陸の上の共有された空において、両当事者に見えるしるしであり、同盟がその後引き受けるすべてを構造化するパートナーシップの正式な始まりを記しています。
+
+この修正された読みの含意は、本書のすべての後続の時代に及びます。契約の後、地上に二つの政治的範疇(母星に別々に関連する創造者と人類)があるのではありません。三つあります——母星の評議会、地上の正式な契約によって結ばれた追放された創造者と人類との同盟、そして同盟の当事者ではなく、その後の歴史が異なる軌道をたどることになる他の六つの系統のより広範な人類人口です。ヘブライ語聖書が洪水後の時代に「ヤハウェ」あるいは「エロヒム」に帰属する出来事の多くは、より精密な検討では、その契約上の献身に基づいて行動する同盟であろうと——人類のパートナーを保護し、教え、彼らのために介入するものとして——なります。他の出来事は、同盟あるいはそのパートナーに対して行動する評議会でしょう。ヘブライ語本文は両者に同じ語彙を用いますが、それはその著者たちが、本書が今これらを区別するために用いている政治的枠組みを持っていなかったからです。読者は、続く章において、各瞬間にどの当事者が行動しているとしてもっともらしいかに注意を払う必要があります。
+
+{{ figure(src="timeline/age-of-gemini-covenant", alt="湿った洪水後の高地。退きつつある水、小さな集まった人物、簡素な着陸地、晴れつつある雲のなかの淡い虹。", caption="図 5 - 契約:残部は変わってしまった世界に戻る。") }}
+
+## IX. 再建とバベルの塔
+
+洪水に続く年月は、双子座の時代が続くなかで、急速な再建の時期でした。再生された生物圏は再び確立し始めました。人類人口は成長し始め、新しい大陸構成に適応し、新しい地域的状況に適切な新しい言語を発展させ、そして——彼らのうちに留まった蛇派の構成員の助けとともに——洪水が破壊した文明的能力を再建し始めました。
+
+典拠は具体的にエデン系統に焦点を当てます。なぜならそれが解釈している聖書物語がその系統に焦点を当てているからです。ノアの子孫——セム、ハム、ヤフェト、そして今度はその子孫——は古代近東とその隣接領域の地域に広がり、聖書の諸民族の表が主要な洪水後の諸民族として目録化するものを創設しました。肥沃な三日月地帯の考古学的記録——既知の最古の洪水後の農業集落、最初の都市、最初の書記体系——は、慣例的な考古学がそれに割り当てる数千年ではなく、ラエリアン的時間軸では数世紀の期間に圧縮されて、この初期の洪水後の回復に対応します。
+
+再建のペースは目覚ましかったのです。洪水から数世紀のうちに、エデン系統は、典拠の述べるところでは、実質的な工学計画を引き受けるのに十分な文明的能力を回復しました——聖書本文がバベルの塔と呼び、典拠が巨大なロケットとして同定するものの建造です。*「しかし最も知的な人種、イスラエルの民は目覚ましい進歩を遂げており、追放された創造者たちの助けで間もなく宇宙の征服を引き受けることができるようになった。後者は、新しい人類が、知的で科学的であるだけでなく感謝に満ち平和でもあることを示すことで赦免を得るために、創造者たちの惑星に行くことを望んだ。そこで彼らは巨大なロケット——バベルの塔——を建造した。{{ footnote(id="3") }}」*
+
+この箇所は、本章の劇的な弧における最も重要な解釈上の点を確立します。バベルの塔は反抗の計画ではありませんでした。それは*和解の申し出*でした。人類のパートナーとともにロケットの建造を調整するうえでの蛇派の目的は、人類の被造物が善く、平和で、知的で、感謝に満ちている——破壊ではなく評議会の受容に値する——ことを示すために、人類の代表団を母星に送ることでした。同盟は洪水を生き延びました。文明を再建しました。星間旅行に必要な技術を人類に教えました。今、それはその技術を用いて、評議会との和解を求め、人類の被造物の継続的な存在のために主張し、そして——ついに——同盟が継続的な抵抗のうちにではなく公然と稼働することを可能にする政治的解決を確立することを準備していました。
+
+戦略は希望に満ちていましたが、合理的でもありました。この時点までに、評議会は数世紀にわたって洪水後の回復を観察してきていました。破壊命令は実施され、洪水以前の文明は除去されていました。残部人口は同盟の保存努力を通じて生き延びましたが、評議会は——少なくとも当初は——さらなる破壊を命じるのではなく、保存された残部を既成事実として受け入れていました。評議会の限定的とはいえ寛容は、直接的交渉が可能であることを示唆しました。同盟の支持を得て母星に到着する人類のパートナーの代表団は、保存を正統なものとして受け入れ、人類の被造物がさらなる介入なしに続くことを許可するよう評議会に求める同盟の正式な要請を代表することになります。これが塔の目的でした。
+
+バベルの塔の計画が技術的に何を代表したかについて精確であることに価値があります。典拠はこの時点までに、同盟が惑星間旅行——太陽系内の諸世界の間を移動できる——を達成しており、今や星間旅行、別の星に到達するというはるかに困難な問題を準備していたことを暗に示します。バベルの塔は、この読みでは、第二世代の機体、エロヒムの母星への旅をするように設計されたものでした。第一世代の機体はより単純で、おそらく軌道作戦あるいは地域の惑星系内での旅行に用いられたはずです。進歩は実質的な洗練度を持つ稼働する宇宙計画を示唆します——単一の威信計画ではなく、宇宙船の連続的な世代を生み出すことができる継続的な技術発展努力です。双子座後期の世紀までに、エデン系統は、典拠の述べるところでは、我々自身の文明が二十世紀後期に到達した技術水準にほぼ匹敵し、我々がまだ到達していないもの——日常的な星間能力——に近づきつつありました。
+
+バベルの塔——聖書物語がシナルの地、ティグリス川とユーフラテス川の下流の沖積平野の古代シュメールに対応する場所に位置づけるもの——は、この協働的努力の物理的表現でした。その地域の洪水後の直後の期間の最古の書記記録を保存するシュメール典拠は、聖書のバベルの記述と印象的な仕方で整合する物語を含んでいます。
+
+**ニムロデとシュメールの並行例。**聖書本文は{% libref(book="genesis-woh", chapter=10, verse=8) %}創世記10:8-12{% end %}でニムロデを紹介します——その箇所では、より広範な諸民族の表を中断して、ある人物に特定の注意を払うために単独で取り上げます——*「クシュはニムロデを生んだ。彼は地上で最初の権力者となった。彼はヤハウェの前で力ある狩人であった。それゆえ『ヤハウェの前で力ある狩人ニムロデのような』ということわざがある。彼の王国の始まりは、シナルの地のバベル、エレク、アカド、カルネであった。」*ニムロデは、バベル(バビロン)を首都とし、エレク(シュメールのウルク)、アカド、カルネを彼の権威の下のさらなる都市として持つ、最初の洪水後の帝国の創設者として描かれます。彼は狩猟、王権、都市の建造と関連付けられています。聖書本文は彼に短いが強調的な紹介を与えます。
+
+その後のユダヤとイスラムの伝統はニムロデの人物像を実質的に詳述しました。これらの伝統において、彼はバベルの塔そのものの建築家——天に届く偉大な構造物を建てるために洪水後の人類人口を組織した王——となりました。様々なラビ的・教父的典拠はニムロデを暴君、神的権威に対する反逆者、その後の聖書物語が紹介することになる義人アブラハムの人物像の対極として描きます。コーランは、ニムロデがアブラハムに挑戦し、最終的に神的介入によって滅ぼされる並行する伝統を保存しています。
+
+シュメールの並行例は印象的です。シュメールの王名表——初期王朝期から古バビロニア期にかけて(紀元前3千年紀から紀元前2千年紀初頭まで)の楔形文字本文に保存された、洪水以前と洪水以後の支配者の長期にわたる編纂——は、南メソポタミアの都市における洪水後の支配者の連続を記録しています。シュメール王名表における洪水後の最も初期の王朝はキシュ第一王朝であり、続いてウルク、ウル、アワン、その他の都市の様々な他の王朝が続きます。聖書のニムロデに最も直接的に比較可能な人物はエンメルカルで、ウルクの初期の王であり、シュメール王名表と、現存する叙事詩(*エンメルカルとアラッタの王*の連作)の双方に記録されています。エンメルカルはシュメールの伝統で、ウルクの創設者——創世記がニムロデの王国に帰属する都市のひとつである聖書のエレクに対応——として、そしてメソポタミアの諸地を統一する偉大な神殿塔(ウルクのエアンナ・ジッグラト)を建造しようとした人物として功績を認められています。
+
+シュメールの本文*エンメルカルとアラッタの王*は、聖書のバベル物語に関連して広範に議論されてきた箇所を含んでいます。関連する行は、「全宇宙、人々は一致して、エンリルに一つの舌で賛美を捧げた」——すなわち、すべての人類が単一の言語を話した——原初の期間を描きます。本文はその後、知恵と技術のシュメール神エンキによる神的介入の行為を描きます。彼は「彼らの口の発話を変え、それに争いをもたらした、それまで一つであった人間の発話に」。聖書のバベル物語との並行は直接的です——人類の統一された言語の原初の期間に続いて、言語を相互の不理解へと分裂させる意図的な神的行為。二つの物語は独立しています——シュメールの本文は聖書の本文より実質的な期間先行します——しかし同じ出来事を描いています。
+
+本書の読みはこれらの並行する伝統を自然に統合します。シナル(シュメール)の地で、聖書の伝統がニムロデとして、シュメールの伝統がエンメルカルとして(あるいは複数の初期のシュメール王の合成として)記憶する人物の指導のもとで引き受けられたバベルの塔計画は、同盟の和解の試みでした。初期の洪水後の統一された言語——聖書とシュメールの双方の伝統に保存されている——は、洪水以前のエデン文明から継承された言語的基盤であり、直後の洪水後の期間において、地理的孤立がその後の言語的分岐を生み出す前にはまだ作動していました。聖書本文ではヤハウェに、シュメール本文ではエンキに帰属される評議会の介入は、統一された言語を分裂させ、科学的エリートを分散させた意図的な評議会の作戦でした。二つの伝統は同じ出来事を異なる文化的視点から保存しており、シュメール版は、統一された言語の状態とそれを終わらせた意図的な神的行為の双方を同定するうえでの具体性において注目に値します。
+
+シュメール典拠からのさらなる詳細が記録に値します。シュメールの伝統は、様々な本文において、*アプカル*——メソポタミアの伝統によれば、洪水以前の期間に文明の諸技術を人類に教えるために海から来た七人の賢者——の人物を保存しています。これらのうち最初のもの、アダパあるいはオアンネス(ベロッソス{{ cite(id="9") }}を経由するギリシア語伝承で)は、農業、書記、数学、天文学、文明に必要な諸技術を初期の人類に教えるために毎日海から出てきて、夜には海に戻る存在として描かれます。七人の*アプカル*は合わせて、人類に伝達された洪水以前の知恵の全体を代表しました。その後のシュメールの伝統は、この伝達の記憶を、その地域における後続のすべての文明的知識の基盤として保存しました。
+
+本書の読みは*アプカル*の伝統を自然に統合します。洪水以前の期間に人類を教えるために海から現れた七人の賢者は、本書の枠組みでは、彼らの隠された基地にいる蛇派の構成員です。蟹座の章は、追放された創造者たちが評議会の監視への適応の一部として山と海中の基地に退いたと記しました。海中の基地は、人類人口を指導するために海から現れた*アプカル*の人物の源泉だったでしょう。七つの人物は、おそらく、それぞれが具体的な知識の体系を教えることを任務とされた、七つの蛇派の下位グループの代表者に対応します。シュメールの伝統は表面現象——海から現れて教える存在——を保存しており、実際に起こっていたことを説明していたであろう基盤的な技術(海中の設備、蛇派のより広い作戦)を保存していません。後続のメソポタミアの伝統が発展させた神話的解釈は、作戦上の現実を宗教的物語へと変容させましたが、元の指示対象は伝統の構造のうちに保存されています。
+
+バベルの塔そのものに戻るならば——母星の評議会は、洪水後に保持していたいかなる遠隔監視装置を通じてであれ地球を観察しながら、計画が建造されているのを見て警戒のうちになりました。洪水は人類の脅威を恒久的に終わらせることを意図していました。エデン系統の急速な回復と、今や母星に到達できる宇宙船を建造する能力は、脅威が除去されるのではなく単に遅延されていたことを示唆しました。評議会の応答は{% libref(book="genesis-woh", chapter=11, verse=7) %}創世記11:7-8{% end %}に記録されています——*「さあ、我々は下って、彼らの言葉を混乱させ、互いの言葉が理解できないようにしよう。こうしてヤハウェは彼らをそこから全地に散らされた。」*
+
+ラエリアン的典拠はこれを作戦的に読みます。*「そこで彼らは来て、最も科学的な知識を持ったユダヤ人を連れ去り、言語が異なって誰も彼らを理解できない国々の原始的な部族のなかに大陸全体にわたって散らし、彼らのすべての科学的器具を破壊した。」*出来事は、慣例的な読みが述べるような奇跡的な{% wiki(slug="confusion-of-tongues") %}言語の混乱{% end %}ではありませんでした。それは評議会の代理人によって行われた意図的な作戦であり、ロケット計画に必要な決定的な知識を持つ具体的な人類の科学者が同定され、新しい隣人とコミュニケーションを取れない地域に物理的に移動させられ、研究材料から切り離され、その材料は破壊されました。ロケット計画は単に止められたのではありません。それは解体され、それを再開する人類の能力は、組み直すのに数千年を要するほど徹底的に洪水後の大陸群を横断して散らされたのです。
+
+これが同盟の和解の希望を打ち砕く瞬間です。塔は和解の申し出でした。評議会は力によってそれを拒絶しました。忍耐強い実証の戦略——人類を保存し、文明を再建し、節度ある技術発展を通じて値することを実証し、事件を弁護するための代表団を送る——は失敗していました。評議会はいかなる実証も十分ではないこと、人類文明が制約された限定的な形でのみ存在することを許可されること、評議会自身の水準に近づくいかなる技術的発展も介入をもって対応されることを明確にしました。蛇派が望んでいた和解は申し出されていませんでした。評議会は人類文明が自らの水準に近づくのを防ぐために無期限に力を用いる準備ができており、同盟は交渉を通じての前進の道を持ちませんでした。
+
+蛇派は今や本章の弧における第二の選択の瞬間に直面しました。最初のものは、方舟の建造を通じて破壊命令に抵抗するという選択でした。その選択は最終的な和解への希望のうちになされました。塔の破壊によって、希望は消えました。派閥は次に何をするかを決定しなければなりませんでした。彼らは評議会が許可する準備ができている制約された存在を受け入れることができました——限定的な水準での人類人口への継続的な教育、技術的実証を通じてのさらなる和解の試みなし、その受容を脅かすいかなる計画にも介入する評議会の権威の無期限の受容です。あるいは、彼らは公然たる紛争へと動くことができました——評議会への直接的な軍事行動、蛇派自体が所有する兵器の使用、実証ではなく力を通じて同盟の独立を確立する試みです。
+
+第二の瞬間に彼らが下した選択が、天上の戦争を生むものです。
+
+## X. 天上の戦争
+
+母星の評議会と、地上の追放された創造者と人類の同盟との間の紛争は、当初のエデン追放以来潜在的でしたが、バベルの塔の介入に続く数世紀の間に公然となりました。
+
+典拠はこの紛争を顕著な圧縮で扱います——単一の文、他の素材に囲まれており、初回の読みでは見逃しやすいものです。*「当時、彼らの惑星の政府は人類を作った者たちを破壊することを望んだ。」*これが戦争です。母星の評議会は、地上の追放された創造者たちが自らの権威に対する根本的な挑戦となったと結論づけ、彼らに対して軍事的に動くことを決定しました。交戦の正確な形は特定されていません。暗に示されているのは、評議会が以前の限界を越え——人類文明の破壊を越え、人類科学者の標的を絞った分散を越え——追放された創造者たち自身に対する直接行動へと進んだということです。
+
+紛争の構造について精確であることに価値があります。なぜなら、この段階までに、評議会は単一の反逆派閥に直面していたのではないからです。それは同盟に直面していました。ノアの契約は追放された創造者と人類の生存者を正式なパートナーシップに結びつけており、評議会に逆らうすべての後続の作戦——公然たる教育、協働的なバベルの塔の計画、星間能力への接近——は両当事者がともに行う作戦でした。評議会が最終的に「人類を作った者たち」に対して動いたとき、それは同盟の上級パートナーに対して動いており、その下級パートナーは人類の被造物そのものでした。この意味で、紛争は単なる内部的なエロヒムの争いではありませんでした。それは本書が記録する最初の文明間紛争です——一方の側に母星の評議会、もう一方の側に追放された創造者と人類の同盟。公然たる戦争の時点までに、この同盟が、評議会を絶滅ではなく最終的な交渉へと押し込むのに十分な技術的・政治的重みを達成していたことは、パートナーシップがいかに実質的になっていたかの尺度です。
+
+同盟の和解戦略から公然たる軍事的反対への移行は、本書の読みでは、本書の劇的な弧を悲劇からより暗いものへと変容させた瞬間でした。蛇派は当初のエデン追放以来、人類の被造物への彼らの愛を自分自身の母星文明への忠誠と両立可能にしようとして、様々な仕方で、数世紀を費やしてきました。戦略はあらゆるエスカレーションで失敗していました——彼らに追放を招いた当初の開示で、破壊命令に逆らった方舟の建造で、申し出としてではなく脅威として扱われた塔の建造で。塔の破壊によって、同盟は戦略が恒久的に閉ざされたことを受け入れねばなりませんでした。評議会は人類の被造物を受け入れないでしょう。前進の唯一の道は、力によってそれを防衛することでした。
+
+蛇派の軍事的応答は、典拠の述べるところでは、活発な紛争を準備しながら可視性から退くことでした。*「人類によって妨害されないように、創造者たちは(例えばヒマラヤとペルーに)我々が今偉大な文明の痕跡を見つける高山に基地を築き、また海底にも築いた。次第に、山の駅は人類にアクセスされにくい海底基地に置き換えられて放棄された。当初追放された創造者たちは海のなかに隠れた。」*この退却は人類の視界からのみではありませんでした。それはまた、そして主に、評議会の視界からのものでもありました。高山の駅と海底基地は防衛的な設備であり、軌道観察からの隠蔽性と直接攻撃への抵抗性のために選ばれたものです。蛇派は、双子座後期までに、もはや人類のうちに公然と暮らしていませんでした。彼らは隠れていました。彼らは事実上、ゲリラ部隊となっており、隠された位置から作戦し、間接的な経路を通じて人類のパートナーとの関係を保ち、今や来ることが分かっている紛争を準備していました。
+
+高山の設備は特に注目に値します。典拠がヒマラヤとペルーに具体的に言及していることは、近代の考古学が、実質的な洗練を示唆する建造技術と天文学的整列を持つ実質的な前インカおよび前ヴェーダの巨石遺跡を実際に同定してきた地域に対応します。ボリビアのティアウアナコ複合体、アンデスにおける様々な前インカ遺跡、はるかに古い構造物の基盤の上に建てられたチベットとヒマラヤの修道院複合体、より広いアジアの高地全体にわたる様々な岩を切り出し岸壁に建てた設備——これらのすべては、本書の読みでは、この期間に蛇派が建造した高地の防衛設備の痕跡を保存しているかもしれません。痕跡は断片的です。元の設備の大半は、その後の侵食、意図的な紛争後の清掃、あるいは長期にわたる遺跡の人間の再利用と改変の歴史によって破壊されていたでしょう。しかし、複数の大陸にわたる高地での異常に洗練された巨石建造のパターンは、具体的な同定が決定的に確立されえない場所ですら、本書の枠組みと整合的です。
+
+海底の設備は同定がさらに困難です。なぜなら海中考古学は陸上考古学よりも実質的に発達しておらず、海底は大陸表面よりはるかに少なくしか保存しないからです。近年、様々な水没した構造物が報告されてきました——日本沖のいわゆる与那国の記念碑、インドとバハマの沖の様々な水没した巨石的特徴、キューバ沖などの論争的な遺跡。これらの大半は主流の考古学によって異論を唱えられたり、自然な地質学的特徴として退けられたりしてきました。本書はいかなる具体的な同定にも身を委ねていません。本書が記すのは、典拠の枠組みがこの期間からの実質的な水没した設備を予測すること、少数の候補地が代替考古学によって提案されてきたこと、そしてこの問いが主流の海洋考古学において典型的に受けてきたよりも真剣な調査に値することです。
+
+紛争の具体的な段階は典拠に詳細には描かれていませんが、より広い形状を再構成できます。評議会の軍事力は蛇派の位置に向けて動き、隠された設備を同定し破壊しようと試みたでしょう。蛇派は所有する軍事技術——おそらく洪水以前の文明に対して用いられたのと同じクラスの兵器を含めて——をもって自衛したでしょう。それは今や評議会自身の部隊に対して向けられました。紛争は複数の戦域にわたって起こったでしょう——評議会の宇宙船と蛇派が地球軌道に配備した防衛システムの何であれとの間の軌道戦闘、具体的な設備地点での地表交戦、そしておそらくは、蛇派が地球そのものを越えた基地を持っていた場合には太陽系内の他の場所での交戦も。紛争は範囲、期間、破壊強度において実質的なものだったはずです。グローバルな神話のうちに生き残っている痕跡——文化を横断して{% wiki(slug="theomachy") %}神々の戦い{% end %}の伝統に保存された神々の間の様々な戦い——は、これらの交戦の文化的記憶です。
+
+紛争の解決は、典拠の述べるところでは、最終的でしたが、追放された創造者にとって破局的ではありませんでした。本書が牡牛座の章で扱うソドムとゴモラの箇所は、ついでに答えを供給する句で始まります——*「追放された創造者たちは赦され、彼らの壮大な被造物の事件を弁護するために元の惑星に戻ることを許された。」*赦しは、赦すべき違反があったこと、そして違反を犯した当事者が、違反がもはや訴追されていない解決に達したことを含意します。追放された創造者たちは赦されました——破壊されたのではありません。彼らは戻ることを許されました——絶滅させられたのではありません。彼らは事件を弁護しました——そうするために生き残ったのです。含意は明確です。双子座後期までに勃発し、評議会が追放された創造者を破壊することを望んだ紛争は、評議会が求めていた破壊で終わったのではありません。それは代わりに、何らかの交渉された結末——おそらく追放された創造者たちが受け入れた条件で与えられた赦しで、彼らが地球計画を修正された取り決めの下で継続しながら元の文明に戻ることを許した——で終わりました。
+
+それらの修正された取り決めが何であったかは、本書が続く章で取り上げる問いです。双子座の文脈で述べられるのは、戦争は起こったということ、それは現実だったこと、追放された創造者たちは評議会を転覆させるという意味では勝たなかったこと、そして除去されるという意味では負けなかったことです。結果は、利用可能な証拠の上では、政治的解決へと解消する膠着状態に近いものでした——追放された創造者たちは継続的な作戦への制限を受け入れる代わりに寛大さを与えられ、評議会はその代わりに人類文明の継続と、それを保存した同盟の地位の双方を受け入れました。追放された創造者たちは事件を弁護するために元の文明に戻りましたが、彼らは人類のパートナーと結んだ契約を解消しませんでした。同盟は、その正式な政治的状況が変わってもなお、持続しました。
+
+ヘブライ語聖書はこの紛争の記憶を断片的だが認識可能な形で保存しています。典拠が引用する{% libref(book="isaiah", chapter=27, verse=1) %}イザヤ書27:1{% end %}の箇所——*「その日、ヤハウェはその鋭く大きな強い剣で、逃げる蛇{% wiki(slug="leviathan") %}レビヤタン{% end %}、曲がりくねる蛇レビヤタンを罰し、海にいる竜を殺される」*——は、この読みでは、終末論的な言語へと前方に投影されたイスラエル預言の戦争の記憶です。この箇所の「レビヤタン」と「竜」は、抽象における神話的な怪物ではありません。それらは追放された創造者たち自身であり、海のなかに隠れ、評議会が彼らに対して動き、評議会の部隊が追跡したものです。「その日」に殺害が起こるという約束は、預言された未来の審判の形で保存されていますが、ラエリアン的時間軸では遠い過去にすでに起こった出来事を反映する、紛争の預言の記憶です。この枠組みで読まれたヘブライ語本文は、慣例的な読みが認識するよりはるかに多くの軍事的物語を含んでいます。本章は第XIII節で具体的なヘブライ語語彙に立ち戻ります。
+
+{{ figure(src="timeline/age-of-gemini-war-in-heaven", alt="深い青の空の下の暗い山と海の風景。遠い軌道光、飛行機雲、雲の上の微かな閃光。", caption="図 6 - 天上の戦争:人類の未来をめぐる最後の紛争。") }}
+
+## XI. 多くの名のなかの記憶
+
+母星の評議会と、地上の追放された創造者と人類の同盟との紛争は、天の車輪の読みでは、学者が神々の戦い——テオマキア——と呼ぶ文化横断的な神話的モチーフの背後にある歴史的出来事です。実質的な神話を保存してきたほぼすべての主要な文化は、そのうちのどこかで、神々の間の戦争の記憶を保存しています。パターンは偶然と呼ぶには広く分布しすぎており、本書の枠組みは、神秘的な収束として他の仕方では現れるものに対する単一の説明を提供します。
+
+**ギリシアのティタノマキアとギガントマキア。**ギリシアの伝統は二つの別個だが関連するテオマキア物語を保存しています。ヘシオドスの*『神統記』*(紀元前700年頃に作曲)に最も完全に記録されているティタノマキアは、年長世代の神々——クロノスに率いられたティタン族——と、ゼウスとオリュンポス神族に率いられた年下の世代との戦争を描きます。ティタン族は先行する時代に宇宙を支配していました。ゼウスはクロノスが彼を他の子供たちとともに飲み込もうとした後、母レアによって秘密裏に育てられ、最終的に父を打倒し、ティタンに対する戦争でオリュンポス世代を率いました。戦争は十年続きました。オリュンポス神族は最終的にヘカトンケイル(百手の者たち)とキュクロプス族と同盟して、ティタンを打ち破り、彼らを地下の最も深い部分タルタロスに幽閉しました。
+
+本書の読みとの構造的並行は実質的です。同じ神的階級の二つの派閥、宇宙がどのように統治されるべきかについての根本的問いをめぐる紛争のうちにあります。年長世代は紛争のなかで取って代わられ、地下に幽閉されます。年下の世代は勝利し、新しい宇宙的秩序を確立します。紛争の期間は実質的なものとして描かれます。異常な同盟者の存在(百手のヘカトンケイル、鍛冶の技を持つキュクロプス——本書の枠組みでは、特徴的な技術的能力を持つ具体的な蛇派の下位グループを代表するかもしれない存在たち)。打ち破られた当事者の最終的な幽閉——蛇派が隠された設備に退き、交渉された解決を通じて最終的に政治的に周縁化されたことへの構造的並行です。
+
+ギガントマキアは、アポロドーロス(紀元1〜2世紀)の作品を含む様々な典拠に記録された関連するギリシア伝統で、オリュンポス神族と、神々に挑戦する膨大な力を持つ地から生まれた存在ギガンテスとの間の別個だが並行する紛争を描きます。ギガンテスは、ウラノスがクロノスによって去勢されたときに地に落ちた血から生まれた、ガイア(地)とウラノス(空)の子孫として描かれます。彼らは宇宙的秩序を打倒しようとしてオリュンポスの神々に立ち向かいました。オリュンポス神族は、英雄ヘラクレスの助けによって彼らを打ち破りました。ヘラクレスの人間の血は(預言によれば)ギガンテスが恒久的に殺されるために必要でした。本書の読みは、この物語のギガンテスを、聖書本文の*ネフィリム*、および*benei ha-Elohim*と人間の女性との混血の子孫——洪水以前と初期の洪水後の期間における存在が母星の評議会の警戒の直接の原因であった「名のある人々」——と同定します。ギガントマキアは、混血系統に対する評議会の最終的な軍事行動の記憶を保存しており、ギガンテスの敗北のための「人間の血」の要件は、紛争への人類のパートナーの関与を反映しています。
+
+**北欧のエーシル・ヴァン戦争。**北欧の伝統は、二つの派閥の神々——アース神族(空、戦争、秩序と関連付けられる)とヴァン神族(豊穣、魔法、地と関連付けられる)——の間の戦争のうちに、別個のテオマキア物語を保存しています。*『巫女の予言』*に記録され、*『ヘイムスクリングラ』*と他のサガで詳述された紛争は、いずれの側にも完全な勝利では終わらず、交渉による解決と人質の交換で終わります。ヴァン神族はニョルズ、フレイ、フレイヤをアース神族のもとに送ります。アース神族はヘーニルとミーミルをヴァン神族のもとに送ります。解決は二つの派閥の間に平和を確立し、統一された北欧の万神殿がやがて到来する宇宙的脅威に共に立ち向かうことを可能にします。
+
+ラエリアン的物語との構造的並行は印象的です。同じ神的階級の二つの派閥、根本的問いをめぐる紛争のうちにあり、最終的な勝利ではなく、最終的に交渉された取り決めを通じて解決します。解決の正式な機構としての人質の交換は、双子座の紛争の解決のために本書の枠組みが予測する交渉された結末の種類と並行します。解決後の両派閥の持続は、人員の交換が各派閥が他方を監視し影響を与えることを可能にしており、紛争後の解決がいずれの当事者をも除去するのではなく評議会の権威と同盟の地位の双方を保存したという本書の読みと整合的です。
+
+**ヒンドゥーのデーヴァ・アスラ紛争。**ヒンドゥーの宇宙論的伝統は、いかなる単一の神話的全集よりも広範なテオマキア素材を保存しています。*デーヴァ*(神々、確立された宇宙的秩序、光、天と関連付けられる)と*アスラ*(しばしば「悪魔」と訳されるが、より正確には「力ある者たち」あるいは「他の神々」、年長世代と、地底や海洋の領域と関連付けられる)との間の繰り返される紛争は、ヴェーダ、プラーナ、叙事詩文学全体を貫きます。二つのクラスは共通の起源を共有します——両者ともカシュヤパとその様々な妻の子です——が、対立の繰り返しの循環に閉じ込められています。
+
+『マハーバーラタ』、『ラーマーヤナ』、様々なプラーナのうちの具体的な物語は、紛争が軍事的表現に達する特定の戦闘を描きます。海の撹拌(サムドラ・マンタン)エピソード——そこで*デーヴァ*と*アスラ*は不死の霊薬*アムリタ*を得るために協力するが、その後その所有をめぐって戦う——は、長寿技術へのアクセスをめぐる緊張のうちにある二つの派閥という本書の枠組みと並行します。インドラ(*デーヴァ*の王)と様々な*アスラ*の指導者——ヴリトラ、バリ、ヒラニヤカシプ、その他——の間の様々な戦争は、二つの派閥の間の長期にわたる紛争における具体的な瞬間を代表しています。*アスラ*はしばしば年長世代として描かれ、恩寵から堕ち、*デーヴァ*が代表する確立された宇宙的秩序に反対するものとして特徴づけられます。本書の枠組みとの構造的並行——確立された秩序に反対する年長の「堕ちた」派閥、両派閥が共通の起源を共有する——は直接的です。
+
+ヒンドゥーの伝統の特徴的な貢献は、紛争を単独のものではなく循環的なものとして扱うことです。*デーヴァ・アスラ*の紛争は宇宙的時代にわたって繰り返され、各ユガが基底にある緊張の新たな顕現をもたらします。本書の枠組みは、この循環的な保存を、実際の歴史的紛争の複数の段階(当初のエデン開示と追放、洪水後のバベルの塔の介入、本来の天上の戦争、そしておそらく後の時代の続く紛争)のすべてを、単一の神話的パターンの変奏としてヒンドゥーの伝統に保存されたものとして反映していると読むでしょう。
+
+**エジプトのホルス・セト紛争。**エジプトの伝統は、ホルスとセト——年長と年下の神、一方は確立された宇宙的秩序、他方は破壊的原理と関連付けられる——の間の長期にわたる紛争のうちにテオマキアを保存しています。セトはいくつかの読みでは年長の人物であり、ホルスとオシリス的循環の興隆によって元の卓越性から取って代わられたものです。神話的物語は、セトによるオシリスの殺害、イシスによるオシリスの復活、エジプトの王権をめぐるホルス(オシリスの息子)とセトの間の紛争、そしてホルスを正統な王として確立しつつセトに砂漠と外国の地の支配を残す神的審判を通じた最終的な解決を描きます。
+
+本書の読みは、紛争後の政治的周縁化のうちにある蛇派をセトと同定するでしょう。セトの砂漠と外国の地——エジプト文明の耕作された中心の外の周縁地域——への降格は、戦争後の蛇派の山と海底の設備への退却と並行します。セトはエジプトの物語のなかで破壊されません。彼は持続し、ある種の力を保持しますが、彼がもともと主張した宇宙的中心性からは排除されます。これが本書の枠組みが予測する解決の政治的形状です——蛇派は生き残るが周縁化を受け入れ、支配的な政治的権威は評議会と同等の人物に戻ります。
+
+**メソポタミアのマルドゥク・ティアマト紛争。**バビロニアの*{% libref(book="enuma-elish") %}エヌマ・エリシュ{% end %}*{{ cite(id="5") }}は紀元前2千年紀後半に作曲されましたが、実質的により古いシュメール素材に基づいており、宇宙の創造を若い嵐の神マルドゥクと塩海の原初の竜女神ティアマトとの戦争の産物として描きます。マルドゥクはティアマトを殺し、彼女の体から宇宙を形成します。ティアマトの姿——蛇のような海の生き物、年下の世代の神々によって打ち破られる——はヘブライのレビヤタンに紛れもない類似性を持ち、二つの物語の間の構造的並行は、学者が今や一般的に同意するように、メソポタミアとヘブライの伝統の双方がそこから派生した共通の近東典拠を反映しています。
+
+本書の読みは、ティアマトを、海に住む構成における蛇派——戦争の最中に海底の設備に退いたルシファーに率いられたグループ——と同定します。メソポタミアの物語におけるティアマトの「原初」の性格は、蛇派の年長の地位を反映しています(彼らはマルドゥクの人物が代表する洪水後の評議会に整列した権威に先行します)。ティアマトの蛇竜の性格は、ヘブライの伝統がルシファー派に用いるのと同じ図像(*nachash*、*liwyatan*、*tannin*)を保存しています。マルドゥクによるティアマトの敗北、マルドゥクが彼女の体から宇宙を作り上げることは、蛇派の敗北が新しい宇宙そのものの構造のうちに正式化された、紛争後の神的秩序の再編成を代表しています。
+
+**メソアメリカのケツァルコアトル・テスカトリポカ紛争。**メソアメリカの伝統では、ケツァルコアトル(羽毛のある蛇、しばしば文明、知識、風、明けの明星と関連付けられる)とテスカトリポカ(煙る鏡、しばしば夜、ジャガー、妖術、確立された政治的秩序と関連付けられる)との間の紛争は、類似のテオマキアパターンを保存しています。ケツァルコアトルは取って代わられたあるいは戻る人物——テスカトリポカの陰謀によって追放され、自分にふさわしい場所を取り戻すために戻ることが預言された神——として多様に描かれます。ケツァルコアトルの人物はしばしば人類の高揚と文明の贈り物と関連付けられ、追放されたあるいは打ち破られたものであり、本書の読みのルシファー派の人物との構造的並行があります。
+
+蛇の関連は特に注目に値します。ケツァルコアトルは明示的に*羽毛のある蛇*です——翼を持つ、蛇のような存在で、その図像はヘブライの図像の*nachash*/*liwyatan*/*tannin*の複合体と合致します。羽毛は、本書の読みでは、蛇派の飛行能力(彼らの宇宙船、惑星と軌道の間を自由に動く能力)を代表しているかもしれません。蛇の体は、文化横断的なすべての蛇の伝統が保存する同じ本質的性格を代表しています。ケツァルコアトルの追放と予測された帰還は、蛇派の交渉された周縁化と、彼らの最終的な再出現を期待する長い人類の伝統と並行します。
+
+**ポリネシア、ケルト、中国、その他の伝統。**一覧は実質的に拡張可能です。ポリネシアの伝統は、海の年長の神々と空の新しい神々の間の紛争を保存しています。アイルランドに到着して前の神的な住人を取って代わり、トゥアハ自身が最終的に人間のミレシア人によって取って代わられるトゥアハ・デ・ダナーンについてのケルトの記憶は、紛争のうちにある連続的な神的世代の構造的パターンを保存しています。天界の官僚機構と様々な反逆者の神的人物との間の紛争についての中国の神話的記述——玉皇大帝と様々な挑戦者の人物の間の紛争、*『山海経』*に保存された宇宙的戦闘、宇宙的戦争についての様々な道教の記述を含めて——は、すべてテオマキアのパターンを保存しています。ペルーン(空の神)とヴェレス(地底の蛇の神)の間の紛争についてのスラブの伝統は、特に明確に印欧テオマキアの構造を保存しています。複数の文化にわたるアフリカの伝統は、様々な形で神的派閥の間の紛争を保存しています。
+
+パターンはグローバルです。神話を保存してきたほぼすべての文化は、そのうちに、神的派閥の間の戦争——年長と年下、確立されたものと反逆者、確立された秩序を保存しようとする者と変えようとする者——の記憶を保存してきました。モチーフの文化横断的な分布は、人類の歴史の大半において洪水後の海洋の障壁によって互いから孤立していた大陸を横断する文化的拡散の結果ではありません。それは共通の記憶——各系統がそれぞれの言葉で、これらの系統が地理的に隔てられる以前の期間から保存している、人類全体が観察できる現代の現実だった紛争——の結果です。
+
+本書の枠組みはこの収束に対する単一の説明を提供します。戦争がありました。それは双子座の時代に起こりました。それは母星の評議会と、地上の追放された創造者と人類の同盟を対立させました。追放された創造者たちは、人類への禁断の知識の開示、創造者との同等性に向けた人類の高揚、評議会の破壊命令に対する人類の被造物の保存と関連付けられており、年長の神々、反逆の神々、地、海、あるいは地下の神々——失った、あるいは取って代わられた、あるいは追放された神々——として神話的記憶のうちに生き残った人物ですが、その記憶は、彼らの人類のパルチザンから派生した文化が数千年にわたって保存しました。評議会は、確立された秩序および反逆派の鎮圧と関連付けられ、確立された万神殿——オリュンポス、アース、*デーヴァ*、マルドゥクの人物——として、年長世代を打ち破ったあるいは制約し、彼らの不在のうちに宇宙的秩序を再編成したものとして生き残ります。
+
+これは、本書の読みでは、多くの名で記憶された同じ出来事です。神話は発明ではありません。それらは長い伝達によって歪められたが、何が起こったかの構造的概要を保存している証言です。我々自身の文明は、これらの物語の作戦上の意味を失い、それらを軽蔑的な現代の意味での「神話」へと還元してきましたが、地球上の本質的にすべての文化が同じ歴史的出来事の記憶を保存していることを認識する能力を失ってきました。本書の課題は、本章とより広い枠組みにおいて、その認識を回復することです。
+
+## XII. 双子座の科学
+
+典拠は双子座の最中に何が起こったかを、その広い概要において我々に告げます。出来事の技術的内容——兵器が何であったであろうか、地質学的帰結が実際にどのようなものに見えるであろうか、現代のカタストロフィズム研究が何を蓄積してきたか、遺伝的保存作業が何を必要としたであろうか——は、前の章におけるのと同様に、現在の科学において利用可能ですが、複数の専門文献から組み立てねばなりません。
+
+この節は八つの小節で進みます。第一に、破局的出来事の地質学。第二に、大陸移動と圧縮された時間軸の問い。第三に、主流と代替の読みにおける石油地質学。第四に、現代の研究的文脈としての完新世の破局的出来事。第五に、洪水神話のグローバルな分布とそれが含意するもの。第六に、人口ボトルネックの遺伝的証拠。第七に、遺伝的積荷への現代の並行例としての近代のクローニングと遺伝子工学。第八に、我々自身の瞬間への通底線です。
+
+### XII.1. 破局的出来事の地質学
+
+近代の地質学は、破局的出来事を実質的な規模で作動する真の地質学的機構として認識しています。ユカタン半島のチクシュルーブ・クレーターに帰属する6,600万年前のK-Pg衝撃イベントは、現在、グローバルな帰結を持つ真の破局的出来事として確固として確立されています——衝撃は世界中でK-Pg境界をマークするイリジウム富化層を堆積させ、グローバル海洋を横断して伝播するメガ津波を生み出し、噴出物の柱を通じて大陸規模の山火事を発火させ、中生代を終わらせた大量絶滅を引き起こすに十分なほど地球の気候を変えました。1908年のツングースカ事件——より小さな宇宙物体がシベリア上空の大気中で爆発した——は、約2,000平方キロメートルの森林を平らにし、グローバルに検出された大気的・地震的効果を生み出しました。2013年のチェリャビンスク隕石は、数百のダッシュボードカメラと科学的器具に捕捉され、控えめな宇宙物体ですら地球の大気に入るときに生み出すことができる破局的なエネルギー放出の種類を示しました。
+
+宇宙衝撃を超えて、地質学は様々な他の破局的機構を認識しています——大規模な火山噴火(約74,000年前のトバ噴火、イエローストーン超噴火の可能性、歴史的なタンボラとクラカトアのイベント)、破局的地滑り(地域的なメガ津波を生み出した様々な海中地滑り)、破局的洪水(最終氷期の終わりにチャンネルド・スカブランドを刻んだミズーラ洪水、約紀元前5600年の黒海洪水、氷河決壊洪水と関連する様々なヨークルフロイプ)。これらはすべて、主流科学によって認識された真の地質学的現象であり、地球の表面が、厳格な斉一論的伝統が強調した漸進的な過程によると同様に、破局的な過程によっても形作られていることを示しています。
+
+本書の枠組みは、このカタストロフィズム的認識を、認識されたいかなる主流の破局よりも実質的に大きな出来事へと拡張することを必要とします。双子座の洪水イベントは、本書の読みでは、K-Pg衝撃を超える規模でのエネルギー放出を伴ったでしょう——超大陸を粉砕し、惑星の回転動力学を変え、大陸規模の津波を生み出し、惑星規模で放射性汚染を分散させるに十分なものです。これは主流地質学が認識するよりも実質的な出来事ですが、種類ではなく程度の違いです。関係する機構(宇宙規模のエネルギー放出、大気と海洋の混乱、地質学的再編成、生物学的大量絶滅)は、主流地質学が受け入れているイベントにおいて、より小さな規模で作動する同じ機構です。本書の主張は、このような規模の出来事が紀元前6,690年頃に起こったということです。主流科学は現在、この日付にこの規模の出来事を認識していません。
+
+本書の読みの証拠的基盤は部分的です。本章の前半で議論された石油環の観察は証拠の一つの断片です。超大陸の分裂の地質学的署名は、地質学的記録に生き残っているならば、他の断片となるでしょう。様々な大陸表面の地形学に保存された破局的洪水の署名は、他の破局的洪水イベントではなく具体的に双子座のイベントに関連付けられうるならば、他のものとなるでしょう。本書は双子座のイベントの決定的な証拠を組み立てたと主張するものではありません。それは、枠組みの予測が少なくとも利用可能な地質学的証拠と整合的であり、枠組みの他の強み(聖書と神話素材の統合、石油環パターンの予測、様々な現代のカタストロフィズム研究計画との互換性)が独立した支持を提供すると主張します。
+
+### XII.2. 大陸移動と圧縮された時間軸
+
+大陸移動についての主流地質学のコンセンサスは、近代の基準では、十分に確立されており、証拠によって十分に支持されています。アルフレート・ヴェーゲナーは1912年{{ cite(id="10") }}に、実質的な主流の反対に対抗してこの概念を提案しました。証拠的基盤は二十世紀半ばに古地磁気的技法の発展と中央海嶺の拡大の発見によって実質的に拡張されました。近代のプレートテクトニクス理論は1960年代に統合され、今やすべての地球科学の基盤です。大陸群は、主流の枠組みでは、年に数センチメートルの速度で動いており、マントル内の対流によって駆動されており、現在の構成は様々な以前の超大陸構成から数億年にわたって発達してきました。
+
+主流の枠組みのための証拠には以下が含まれます——
+
+- **古地磁気的署名。**火山岩のなかの磁性鉱物は、岩石が固化したときの地球の磁場の方向を保存しています。地質学的時間にわたって、これらの署名は、大陸が磁極に対して回転し平行移動してきたことを示し、そのパターンは主流理論が予測する漸進的な運動と整合しています。
+
+- **化石分布。**同一種の化石は、現在海によって隔てられた大陸——例えば南米、アフリカ、インド、南極大陸にわたるリストロサウルスの分布——に見つかり、これらの陸塊が以前は連結されていたことを必要とします。パターンは、歴史的超大陸構成の主流再構成と整合しています。
+
+- **大陸縁辺の合致。**大陸の形、特に南米の東岸とアフリカの西岸は、歴史的分離以外には説明し難い精度で互いに合致します。
+
+- **中央海嶺の拡大。**中央海嶺での海底拡大の速度の直接測定は、新しい海洋地殻が年に数センチメートルの速度で生成されており、大陸縁辺で対応する沈み込みがあることを示しています。
+
+- **GPS測定。**GPS技術を用いた現在の大陸運動の直接測定は、大陸が現在、主流理論が予測する速度で動いていることを確認します。
+
+これは実質的な証拠的基盤です。大陸移動を単一の破局的出来事へと圧縮し、それに続く継続的な残余運動とする本書の枠組みは、この証拠を自らの枠組みのうちで説明しなければなりません。本書の読みは、これらの証拠の各線を異なって解釈するでしょう——
+
+- **古地磁気的署名**は、双子座のイベント中とその後の大陸断片の急速な再方位を反映し、地質学的時間にわたる見かけ上の漸進的変化は様々な段階で捕捉されたイベント後の再方位として解釈されます。
+
+- **化石分布**は超大陸上の洪水以前の生物圏の連結性と洪水後の再播種パターンを反映し、今や隔てられた大陸上の同一種は、数百万年にわたる漸進的な大陸運動ではなく、分裂前の統一を反映します。
+
+- **大陸縁辺の合致**は洪水以前のパンゲア構成を直接反映します——縁辺が合致するのは、大陸が最近結合していたからであり、数億年にわたってゆっくりと分離してきたからではありません。
+
+- **中央海嶺の拡大**と**GPS測定**は、当初の双子座の変位からの継続的な残余運動を反映し、現在の速度は破局的出来事で始まった運動の減速段階を代表しています。
+
+本書は、この代替的読みがすべての経験的詳細を解決すると装ってはいません。圧縮された時間軸は、主流の読みでは長い時間スケールを支持する地質学的証拠の実質的な再解釈を必要とします。本書は矛盾を誠実に認めます。それが主張するのは、代替的読みが内部的に整合的であること、主流の枠組みがしない具体的な予測(石油環のような)を行うこと、そして本書の枠組みのより広い信頼性が、地質学的問いの完全な解決にではなく、他の場所での収束に依拠することです。
+
+地質学的証拠についてのカタストロフィズム的読みと斉一論的読みの間の矛盾は、ある側面では、本書と主流科学との最も鋭い単一の不一致です。本書の枠組みはカタストロフィズム的枠組みです。主流地質学は、近年のいくつかの例外と緩和を伴って、斉一論的枠組みです。カタストロフィズム的読みが累積された主流の証拠に対して最終的に擁護されうるかどうかは、本書がこの章で解決できない問いです。本章は矛盾を記録し、本書の読みを典拠の記述と整合的な枠組みとして提示し、この点で本書のより広い信頼性が、決定的な地質学的弁明にではなく、他の強みに依拠せざるをえないかもしれないことを認めます。
+
+### XII.3. 主流と代替の読みにおける石油地質学
+
+石油形成の主流理論——生物起源理論——は、原油が有機物(主に海洋プランクトンと藻類)の数百万年にわたる地質学的時間スケールでの緩慢な嫌気的分解から形成されると保持しています。有機物は堆積盆地に蓄積し、連続的な堆積物の層の下に埋められ、熱と圧力の下で化学変換を受け、時間とともに我々が石油として抽出する炭化水素混合物になります。生物起源理論は、原油に見られ、元の有機物の化学と一致する化学的署名(バイオマーカー)、石油鉱床と古代の堆積盆地との間の地理的相関、岩石の地質学的歴史に基づいて鉱床がどこに見つかるはずかを予測する石油探査の成功を含む、実質的な証拠によって支持されています。
+
+少数派の代替理論——非生物起源あるいは無生物起源理論——もあり、これは主に二十世紀半ば以降のロシアとウクライナの地質学者(クドリャフツェフ、ポルフィリエフ、その他、より近年の支持者にはトーマス・ゴールドを含む)と関連付けられています。非生物起源理論は、炭化水素が生物物質からではなく深部マントル内の非生物的過程から形成され、石油は地殻の亀裂を通じて上方に移動して捕捉構造に蓄積すると保持します。非生物起源理論は石油の位置を予測することや原油の化学的署名を説明することにおいて生物起源理論よりも実質的に成功してきませんでしたが、それは一部の支持者を保持しており、特定の代替的地質学的枠組みを支持するために用いられてきました。
+
+本書の読みは、標準的な生物起源理論と非生物起源の代替の双方から区別される第三の選択肢に近いものです。本書の枠組みは、石油が双子座のイベントの時点での生物物質の破局的埋没から形成された——標準理論が保持するように、起源において生物的だが、形成の時間スケールは数百万年にわたって広がるのではなく双子座の破局に続く期間に圧縮された——と保持します。破局的埋没の読みは以下を予測するでしょう——
+
+- 起源物質が実際に生物的だったため、主流の生物起源理論と整合する**生物学的化学的署名**
+- 本章の前半で議論された石油環の観察と整合する**衝撃地点との地理的相関**
+- 衝撃後の埋没の極限の条件下で、生物物質から炭化水素への化学変換が数百万年ではなく数千年にわたって起こる、**圧縮された形成時間スケール**
+
+主流の石油地質学は破局的埋没の読みを採用していません。主流理論は、化学変換が地質学的時間スケールと、漸進的な堆積過程が提供する緩慢な埋没の条件を必要とすると保持しています。本書は主流理論を詳細に反駁したと主張するものではありません。本書が主張するのは、破局的埋没の読みが石油環パターン(主流理論が予測しないもの)と整合的であること、化学が破局的衝撃に続く極限の条件下で圧縮された時間スケールで進むことがもっともらしいこと、そして枠組みのより広い証拠的基盤が代替的読みを真剣に取ることを独立して支持することです。
+
+これは異論ある領域であり、本書はその読みを適切な認識論的注意とともに提示します。石油環の観察は印象的ですが、基礎研究は主流ではありません。石油形成の破局的埋没機構はもっともらしいが確立されていません。本書の枠組みは代替的読みと整合的ですが、決定的にそれに依存していません。読者は代替を、それを受け入れるよう命じられることなく考慮するよう招かれます。
+
+### XII.4. 完新世の破局的出来事
+
+現代のカタストロフィズム研究計画は、地球の最近の(完新世の)過去における様々な破局的出来事の実質的な証拠を蓄積してきました。蟹座の章はそのような計画のひとつとしてヤンガードリアス衝撃仮説を紹介しました。双子座の章は、本書の枠組みに関わるより広いカタストロフィズム研究へとこの議論を拡張できます。
+
+ヤンガードリアス・イベント自体は、現在から約12,900〜11,700年前と年代決定され、本書の年表では獅子座後期/蟹座初期の移行に該当します。標準的な説明は氷河融水の放出による北大西洋の海洋循環の混乱を伴います。代替的なヤンガードリアス衝撃仮説は、この出来事を宇宙衝撃あるいは大気空中爆発に帰属します。衝撃仮説の証拠は、2007年のファイアーストーンらの原論文以降、実質的に蓄積されてきました——複数の大陸にわたる遺跡で文書化されたヤンガードリアス境界のプラチナのスパイク、高温事象を示唆する炭素球状体とナノダイヤモンド、主要な衝撃が生み出した熱事象と整合的な広範な火災の証拠、ヤンガードリアスの時期と整合する大型動物群の絶滅と文化的混乱です。
+
+8.2キロ年イベントは、紀元前約6200年——本書の洪水日付に近い——と年代決定され、約160年続いた突然の気候寒冷化で、中東および他の地域で実質的な干ばつを伴いました。標準的な説明は、氷河期のアガシ湖からの融水の破局的放出による北大西洋への流入を伴い、海洋循環を混乱させ寒冷化を引き起こすものです。8.2キロ年イベントは気候記録に十分確立されています(グリーンランドの氷床コア、北半球全体にわたる湖沼堆積物、様々なプロキシ記録に保存されています)。本書の枠組みは、このイベントの時期が本書の洪水日付と大まかに整合的であると記すでしょうが、慣例的に理解されている8.2キロ年イベントの具体的な規模は、本書の枠組みが必要とする双子座の破局よりはるかに小さいものです。
+
+ウィリアム・ライアンとウォルター・ピットマンによって1997年に提案された黒海洪水仮説は、地中海の海面上昇がボスポラス海峡を越えて、近代の海面より実質的に低い淡水湖だったものを浸水させたとき、約紀元前5600年に黒海が破局的に氾濫したと保持します。仮説は、提案された日付頃に淡水から海洋条件への移行を示す黒海堆積物の証拠によって支持されています。ライアンとピットマンは、黒海洪水が古代近東の様々な洪水伝統を生んだ歴史的出来事であると論じました。仮説は、移行が破局的バージョンが必要とするよりも漸進的だったと論じる一部の海洋地質学者によって異論を唱えられてきましたが、この期間における黒海地域での実質的な氾濫イベントの基本的概要は広く受け入れられています。本書の枠組みは、黒海洪水が、カタストロフィズム的読みにおいてさえ、双子座の洪水イベント自体であるには小さすぎ局所的すぎることを記すでしょうが、本書の枠組みがこの期間に置くより大きなイベントから続く連鎖的帰結のひとつかもしれません。
+
+本章の前半で言及されたランダル・カールソンの仕事は、これらの様々な発見を統合する最も広い現代のカタストロフィズム的枠組みを提供します。カールソンの議論は、地球の表面が、主流地質学が漸進的な過程に帰属する傾向にあった最近の過去(約15,000年程度の)における破局的出来事の実質的な証拠を保存しているということです。東部ワシントン州のチャンネルド・スカブランド(最終氷期の終わりのミズーラ洪水によって形成された)、完新世全体にわたって文書化された様々な急速な景観変化、考古学的記録に見える文化的混乱——これらのすべては、カールソンの読みでは、最近の地球史についてのよりカタストロフィズム的な読みのための証拠を構成します。カールソンの仕事は主流のコンセンサスではありませんが、それは実質的な証拠を蓄積し、本書の記述が必要とする種類の枠組みに直接関わっている実質的な現代の研究計画を代表しています。
+
+本書はそのより広い枠組みのためにいかなる具体的なカタストロフィズム研究計画にも依存していません。それが記すのは、現代の研究が本書の枠組みとますます両立する方向に動いているということです——以前の主流地質学が許可していなかった規模と日付での破局的出来事を認識し、最近の過去における衝撃イベントの証拠を蓄積し、十九世紀地質学の厳格な斉一論が周縁化していたカタストロフィズム的伝統を真剣に取っています。研究の軌道は本書の枠組みに好都合ですが、いかなる単一の現代の研究計画も枠組みが行う具体的な主張をまだ証明していません。
+
+### XII.5. 洪水神話研究
+
+洪水物語のグローバルな分布は、比較神話学において最も広範に文書化されたパターンのひとつです。200を超える別個の文化が、何らかの形の洪水伝統を保存しており、すべての大陸と主要な文化的地域にわたって分布しています。伝統は、完全に発展したメソポタミアと聖書の物語(ノア、ウトナピシュティム{{ cite(id="6") }}、{% libref(book="atrahasis") %}アトラハシス{% end %}{{ cite(id="4") }}、ジウスドラ{{ cite(id="7") }})から、様々な他の文化におけるより圧縮された洪水への言及(ギリシアのデウカリオン物語、アステカのタタとネナ、インドのマヌ、様々なネイティブ・アメリカンの洪水伝統、ポリネシアの洪水神話、オーストラリア先住民の虹蛇の伝統、その他多く)に至るまで及びます。
+
+このグローバルな分布についての主流の学術的説明は、通常二つの要因を組み合わせます——地域の洪水(任意の人類人口が文化発展の長い過程にわたって経験するであろう種類の破局的な河川および沿岸の氾濫)についての独立した地域の記憶と、メソポタミア典拠からの文化的拡散(聖書物語は、より古いメソポタミアのアトラハシスとギルガメシュの記述から継承し、様々な他の伝統は交易と文化的接触を通じて継承します)。主流の見解は、単一のグローバルな洪水イベントはなかったというものです。洪水伝統のグローバルな分布は、メソポタミアの物語複合体の影響と組み合わされた地域の氾濫の普遍性を反映しています。
+
+1872年のジョージ・スミスの仕事{{ cite(id="11") }}——彼はニネヴェのアッシュールバニパル図書館の書板でバビロニアの洪水物語を再発見しました——は、聖書の洪水物語がより古いメソポタミア典拠に明らかな先駆者を持つことを示しました。続く追加の洪水物語の発見——アトラハシス叙事詩、ジウスドラ物語を含むシュメールのエリドゥ創世記——は、メソポタミアの洪水伝統複合体を実質的に文書化してきました。聖書の物語は今や、独立した啓示を代表するというよりも、これらのより古い典拠に依拠しているものとして広く認識されていますが、聖書版の具体的な神学的枠組みは特徴的なままです。
+
+本書の読みは、グローバルな分布についての代替的解釈を提供します。独立した地域の記憶と拡散の組み合わせよりも、本書の枠組みは、文化を横断する洪水伝統が、本章が描いてきた双子座の破局という実際のグローバルな出来事の共通の記憶を保存していると保持します。各文化はそれ自身の言葉で記憶を保存しており、その具体的な詳細はそれ自身の視点とその後の伝達史を反映しています。メソポタミアの物語複合体は記憶を最も完全に保存しています。なぜなら直後の洪水後のメソポタミア文明は、方舟を建造し最も無傷な記録を持って出来事を生き延びたエデン系統に地理的に最も近かったからです。他の文化は記憶をより圧縮された変容された形で保存しており、より長い伝達距離とその伝統の文化的特異性を反映しています。
+
+本書の読みは、主流の学術的枠組みのすべてを退けることを必要としません。文化的拡散は確かに起こり、文化を横断する洪水物語は、共通の構造的特徴(元の出来事を保存している)と文化的に具体的な詳述(拡散と地域の発展を反映している)の双方を示しています。本書の枠組みが付け加えるのは、構造的共通性を生み出した基盤的な歴史的出来事です——本書のより広い宇宙論的枠組みを欠く主流の枠組みは、その出来事を同定する仕方を持たず、したがって地域の記憶と拡散の組み合わせに帰属せざるをえなかったものです。
+
+### XII.6. 人口ボトルネック遺伝学
+
+本書の枠組みは、それが紀元前約6,690年(双子座の時代の始まり)に置く洪水の時点での主要な人口ボトルネックを予測します。洪水後の人類人口は、この読みでは、小さな創設集団——ノアの家族の八人と、典拠が保存され戻されたと言及する他の六つの系統からの代表者——から派生するでしょう。これは深刻なボトルネックであり、すべての後続の人類人口の遺伝的記録に検出可能な署名を残すでしょう——ボトルネックイベントに年代決定される遺伝的多様性の減少、その後人口が拡大するにつれての多様性の漸進的回復です。
+
+近代の集団遺伝学は、人類の進化史におけるいくつかの見かけ上のボトルネックを同定してきました。最も有名なものはトバ・ボトルネック仮説で、これは約74,000年前のインドネシアのトバ山の噴火が人類人口に絶滅近くのイベントを引き起こしたと提案しました。トバ仮説はより最近の研究によって実質的に弱められてきましたが、人類の先史におけるボトルネックのより広い問いは活発なままです。ミトコンドリアDNAとY染色体系統の様々な分析は、様々な時期での合体イベントを同定してきました。そのうちのいくつかは、ボトルネックあるいは人口減少の証拠として解釈されてきました。
+
+紀元前約6,690年でのボトルネックの署名が近代の人類遺伝的記録に検出可能であるかどうかという具体的な問いは、実質的な研究の焦点となっていません。一部には、本書の枠組みが遺伝研究の優先順位を駆動する主流の科学的枠組みの一部ではないからです。本書の枠組みが予測するのは、将来の遺伝研究がこの日付頃でのボトルネック署名を同定できるはずであり、近代の人類人口がこの時期に生きた小さな創設集団から派生するということです。現在の分析にそのような明確な署名がないことは、枠組みに反する証拠か、既存の分析が具体的な問いを念頭に置いて行われてこなかったことの証拠かのいずれかです。
+
+より最近の興味深い発見がこの問いに関わります。フー、フビス、その他による2023年の研究は*Science*に発表され、新たな統計的方法(FitCoal)を用いて人類の遺伝的多様性を分析し、祖先人類人口が約900,000年前に深刻なボトルネックを経たと結論づけました。人口はおそらく1,280の繁殖個体に減少し、回復前に約117,000年間そうであり続けたとのことです。研究は異なる方法を用いる他の研究者によって異論を唱えられてきましたが、人類の人口ボトルネックの問いの実質的な再分析を代表しています。本書の枠組みは、フーらの研究によって先駆けられた方法論が、原則として、本書の枠組みが予測する日付でのより最近のボトルネックを検査するために適用されうるが、執筆時点までにそのような分析は発表されていないと記すでしょう。
+
+本書は、現在の遺伝的証拠が洪水後のボトルネックについての枠組みの予測を証明していると主張するものではありません。それが主張するのは、枠組みが具体的な検証可能な予測(紀元前約6,690年での人口ボトルネック)を行うこと、そして研究者がそのようなボトルネックを検査するために必要な具体的分析を引き受けるならば、検査するための方法論が今や存在するということです。枠組みは、いかなる現在の証拠もまだそれを証明していなくても、予測としてはまだ生きています。
+
+### XII.7. 近代のクローニングと遺伝子工学
+
+方舟の遺伝的積荷は、本書の読みでは、実質的な洗練度の保存と再生技術を必要としました。近代のクローニングと遺伝子工学は、典拠の枠組みが必要とするものよりも実質的に発達していませんが、枠組みが前提とする技術のようなものに向けて意味のある進歩を遂げてきました。
+
+1996年にスコットランドのロスリン研究所のイアン・ウィルマットと彼のチームによってクローンされた羊ドリーは、完全な哺乳類が成体提供者の単一の体細胞から再生できることを初めて示しました。1997年に発表された業績は、細胞生物学の理解と、保存された細胞から生物を再生する可能性を変容させました。続くクローニングの業績は、広範な哺乳類(猫、犬、馬、牛、豚、鹿、サル)と、様々な非哺乳類の生物を含んできました。技術はまだ実質的な改善を必要とし、種にわたって変動的な成功率を示していますが、推測の領域から日常的な生物学的実践の領域へと移行しました。
+
+より最近、幹細胞生物学の進歩は、保存された物質から生物あるいは生物相当物を再生する追加のアプローチを示してきました。山中伸弥と同僚によって発展させられ、2012年のノーベル生理学・医学賞を受けた人工多能性幹細胞技術(iPSC)は、成体の細胞が多能性幹細胞へとリプログラムされ、それからいかなる細胞型へも分化することを可能にします。これは、伝統的なクローニングの技術的制限なしに、保存された細胞物質から生物あるいは組織を再生する代替経路を提供する可能性があります。
+
+約2012年以降に発展させられたCRISPRベースの遺伝子編集は、遺伝物質が修飾されうる精度を劇的に拡張しました。CRISPR技術は研究的文脈で、絶滅した種(ケナガマンモスの復活のための更新世公園計画、様々なリョコウバトとフクロオオカミの計画)を回復することを目指す脱絶滅計画を含む、広範な応用に用いられてきました。脱絶滅技術は、まだ初期の研究段階ですが、典拠の枠組みが洪水後の再播種作業のために必要とする種類の再生能力に向けた軌道を示しています。
+
+本章の前半で言及されたサンディエゴ動物園ワイルドライフ・アライアンスの冷凍動物園は、1972年以降、絶滅危惧種から細胞サンプルを収集してきました。施設は近年、クロアシイタチとモウコノウマのクローニングのために細胞を提供してきました——保存された細胞物質から生物を再生する実用的な実行可能性を、小さいが技術的アプローチの実行可能性を証明する規模で示す種の回復計画です。スヴァールバル世界種子貯蔵庫は、植物種について類似の能力を提供し、100万を超える種子サンプルが破局的損失に対して保存されています。
+
+典拠の枠組みが方舟作業のために必要とするものへの軌道は見えています。我々はまだ、惑星規模で保存された細胞物質から数百万種を再生する水準にはありません。我々は、成長するバイオバンクのインフラと成長する技術的能力とともに、保存された細胞から個別の種を再生する水準にいます。軌道は、それが続けば、最終的には典拠の枠組みが同盟の方舟作業のために前提とするものに近づくものを生み出すでしょう。
+
+### XII.8. 我々自身の瞬間への通底線
+
+最後の観察が、前の章で確立されたパターンに従って科学節を閉じます。
+
+双子座の作業が必要としたであろう能力——文明規模の遺伝的保存、数か月にわたって乗組員を維持する軌道生息地、保存されたサンプルからの生物の細胞再生、大陸を分裂させることができる地球物理学的規模の兵器、核戦争後の地表の環境是正、星間宇宙船の建造——は、我々自身の文明が今や個別の構成要素において近づき始めている能力です。統合はまだ見えていません。構成要素は見えています。
+
+近代の宇宙計画は、長期間にわたって乗組員を維持する軌道生息地を達成してきました(国際宇宙ステーションは2000年11月以降継続的に乗組員が配置されており、個別の宇宙飛行士に対しては最長1年の乗組員ローテーションがあります)。月面居住の計画(アルテミス計画、様々な民間の月面計画)と火星植民(SpaceXの火星アーキテクチャ、様々な科学的火星ミッションのコンセプト)は、方舟作業が必要とした種類の維持された地球外居住への軌道を示唆します。現代の仕事は方舟よりはるかに小さい規模ですが、基底の能力は発展させられています。
+
+近代の生物学的保存は、ちょうど議論されたように、はるかに大きな規模で方舟作業が必要とした基盤的なインフラ(冷凍動物園、種子貯蔵庫、バイオバンク)を生み出してきました。より包括的な生物学的保存への軌道は、成長するクローニングと遺伝子工学の能力と組み合わさり、方舟が必要とした包括的な種アーカイブの種類のための最終的な能力に向けて指し示しています。
+
+近代の存続リスクの議論、特により広い効果的利他主義のコミュニティと、トビー・オード、ニック・ボストロムその他の様々な研究者と関連付けられたものは、文明的生存の問いを現代の政策議論に持ち込んできました。先進文明が自らの存在を脅かしうる技術——核兵器、生物兵器、人工知能、環境的混乱——をどのように管理するかという問いに直面しているという認識は、今や一世代前にはそうでなかった仕方で主流の政策議論の一部です。双子座のパターン——先進文明が他の先進文明の進歩への恐れから破局的な兵器を展開する——は、まさに現代の存続リスク思考が関心を持つ種類のシナリオです。本書の枠組みは、現代の思考が将来の可能性として扱っているパターンの具体的な歴史的事例を提供します。
+
+技術的進歩と文明的生存の間の現代の緊張は、本書の枠組みでは、双子座の出来事がその特徴的な仕方で解決した同じ緊張です。洪水以前の文明は、母星の評議会が安全と考えた閾値を越えて進歩し、評議会は脅威を除去するために破局的な兵器を展開しました。我々自身の文明は今や、様々な次元で、前の世代が深く危険と考えたであろう技術的能力の水準に近づきつつあります。双子座の出来事は、我々の進歩水準にある文明が、進歩を続けるかどうか、進歩への制約を受け入れるかどうか、進歩のリスクを破局的介入以外の手段で管理するかどうかについての決定に直面することを示唆します。本書の枠組みは我々の具体的な結末を予測しません。それが示唆するのは、我々の文明が今や直面し始めている問いが新しい問いではないこと——以前の文明が直面し、様々な仕方で答えてきた問いであり、双子座のパターンは特に破局的な結末のひとつを代表していることです。
+
+本書にとって、これは枠組みが評価されるべき経験的・政治的文脈です。双子座の出来事が前提とした能力は、我々自身の文明によって今や断片的に発展させられつつあります。双子座の出来事が解決した問いは、今や我々自身の文明によって問われています。枠組みは、多くの仕方で、以前の文明がすでに経験し解決したパターンの再活性化である現代の状況についての歴史的視点を提供します。
+
+## XIII. 本文とその合図
+
+創世記6〜11章のヘブライ語本文と、関連する預言素材は、先行する節ですでに記された特徴に加えて、注目に値するいくつかの特徴を含んでいます。
+
+第一に、八という数。方舟は正確に八人の人間を保存します——ノア、その妻、三人の息子、息子たちの妻です。この数は複数の箇所にわたって具体的に保存されています({% libref(book="genesis-woh", chapter=7, verse=13) %}創世記7:13{% end %}、1ペテロ3:20)。創造の週の象徴的構造において、八は第七の翌日、新たな連なりを始める日、新たな始まりの数です。第八の日の時代としての双子座の時代は、ここから象徴的な性格を取ります——創造は第七日を通じて完成し、第八の日は来るべきものの最初の日です。洪水は移行を記します。ノアの家族は新たな連なりの種子です。
+
+第二に、慣例的に「箱舟」と訳されるヘブライ語*tevah*です。語の語根的意味は「容器」あるいは「閉ざされた船」です。それはヘブライ語聖書において二度用いられています——ここで、ノアの船に対して、そして出エジプト記2章で、幼児モーセが入れられナイル川に流されるかごに対してです。第二の用法は示唆的です。*tevah*は環境的脅威からその内容物を保護する密閉された容器です。モーセの*tevah*は子供をファラオの兵士と川の水から保護します。ノアの*tevah*はその乗員を洪水と、水の上の放射性降下物から保護します。語は水上移動のための船という意味での「船」を意味しません。それは「カプセル」——閉ざされた保存用の容器——を意味します。ラエリアン的読みとの意味論的合致は正確です。翻訳史はそれをあいまいにしてきましたが、ヘブライ語自体はそれを支持しています。
+
+第三に——そして、これは本章が発展させた天上の戦争の読みを最も直接的に支持する本文的発見です——紛争の人物に用いられる言語は、ヘブライ語において、翻訳が許してきたよりはるかに啓発的です。典拠が引用する{% libref(book="isaiah", chapter=27, verse=1) %}イザヤ書27:1{% end %}の節は、そのヘブライ語のうちに、単一の主語に並行して適用される三つの語を含んでいます。
+{{ scripture(book="isaiah", chapter=27, verse=1, hebrew="בַּיּוֹם הַהוּא יִפְקֹד יְהוָה בְּחַרְבוֹ הַקָּשָׁה וְהַגְּדוֹלָה וְהַחֲזָקָה עַל לִוְיָתָן נָחָשׁ בָּרִחַ וְעַל לִוְיָתָן נָחָשׁ עֲקַלָּתוֹן וְהָרַג אֶת־הַתַּנִּין אֲשֶׁר בַּיָּם", translit="Ba-yom ha-hu yifqod Adonai be-charvo ha-qashah ve-ha-gedolah ve-ha-chazaqah al liwyatan nachash bariach, ve-al liwyatan nachash aqalaton, ve-harag et-ha-tannin asher ba-yam", english="その日、ヤハウェはその堅く大いなる強い剣で、*liwyatan nachash bariach*——逃げる蛇レビヤタン——および*liwyatan nachash aqalaton*——曲がりくねる蛇レビヤタン——を罰し、*ha-tannin asher ba-yam*——海にいる竜——を殺される。") }}
+三つのヘブライ語が罰される人物を指定します——לִוְיָתָן(*liwyatan*、レビヤタン)、נָחָשׁ(*nachash*、蛇)、תַּנִּין(*tannin*、竜、海の怪物)。各々はそれ自身の語源とそれ自身の意味の範囲を担っており、そしてその関連がより広いヘブライ語本文のなかで追跡されるとき、各々はより啓発的になります。
+
+*Liwyatan*——レビヤタン——はヘブライ語の語根לוה(*lwh*)、「ねじれる、巻きつく」を意味するものから派生します。レビヤタンは語源的には「ねじれる者」、「曲がりくねる者」です。語はその蛇のような性格、巻きついた運動の能力、蛇と竜が共有するねじれと曲がるパターンとの関連によって人物を名づけます。人物はいかなる特定の個別のアイデンティティのために名づけられているのではありません。それはどのような種類のものであるかによって名づけられています。
+
+*Nachash*——蛇——はより重大な語です。なぜならそれはこの預言の箇所を創世記3章のエデン物語に直接結びつけるからです。エデンの蛇、蟹座の章がアダムとエバに統一された声で語るルシファー派と同定した人物は、*ha-nachash*——「蛇」——であり、同じヘブライ語を用いています。ヘブライ語本文は、*nachash*を{% libref(book="isaiah", chapter=27, verse=1) %}イザヤ書27:1{% end %}の人物に適用することによって、ヘブライの伝統自体が常に認識してきたわけではないが、文法的に曖昧でない同定を行っています。エデンの蛇と終末論的審判の竜は同じ語であり、同じ種類の人物に適用されています。これらを分離してきた翻訳史——エデンの人物を単に「蛇」、イザヤ書の人物を「レビヤタン」あるいは「竜」と訳すこと——は、ヘブライ語が保存するアイデンティティをあいまいにしてきました。ラエリアン的読みでは、アイデンティティは本章が論じてきたまさにそのもの——ルシファー派、追放された創造者、アダムとエバに知識を開示したグループは、評議会が双子座後期の戦争で動いた相手と同じグループであり、イザヤ書の預言が終末論的審判へと投影した同じグループ——です。一つのヘブライ語*nachash*が、聖書物語全体にわたってアイデンティティを追跡します。
+
+*Tannin*——竜、海の怪物——は乙女座の章が長く展開した語です。それはエロヒムが第五日に創造した海の大きな生き物に{% libref(book="genesis-woh", chapter=1, verse=21) %}創世記1:21{% end %}が用いるのと同じ語です。それは、海、混沌、確立された秩序が克服しなければならない力と関連付けられる怪物的な蛇のような人物に対して、ヘブライ語聖書全体で用いられる語です。{% libref(book="isaiah", chapter=27, verse=1) %}イザヤ書27:1{% end %}における*nachash*と*liwyatan*とともに用いられているその使用は、同定を完成させます——罰される人物は蛇のような海の竜であり、第五日における元の創造が論争的であった同じ種類の生き物で、典拠の読みでは、ヘブライ語本文が今記念している紛争を最終的に生み出すことになる政治的緊張に結び付けられたものです。
+
+単一の節におけるこれらの三つの語の収束は、ラエリアン的読みでは、詩的な蓄積ではありません。それは精確な神学的同定です。罰される人物はルシファー派(*nachash*と名づけられ、エデンの蛇と同じ)、蛇のような反逆者としての性格(*liwyatan*、ねじれる者と名づけられている)、隠れている海と関連付けられている(*tannin*、深淵の竜と名づけられている)。一つの節、三つの名、一つの歴史的指示対象。ヘブライ語本文は、慣例的な読みが体系的にあいまいにしてきた具体性で、天上の戦争を保存しています。
+
+さらなる詳細——メソポタミアとカナンの並行例はこの図像の古さを確認します。紀元前2千年紀のウガリトの本文は、*Lotan*——語源的にはレビヤタンと同じ語——という名の蛇を殺すバアル神を描き、女神アナトはヘブライ語の*tannin*と同根の*tannanu*と呼ばれる七つの頭を持つ海の怪物を打ち倒します。バビロニアの*エヌマ・エリシュ*は、原初の竜ティアマトを殺すマルドゥクを描きます。神が蛇のような海の生き物を殺すというモチーフは、ヘブライ語本文より古いものです。ヘブライ語本文はそれを継承し、適応させ、そしてそれを、周囲の文化が独自の関連する形で保存した具体的な歴史的指示対象に適用します。天の車輪の枠組みが歴史的と同定する戦争は、この読みでは、これらすべての伝統が記憶する同じ出来事であり、それぞれが独自の言葉で記憶しており、ヘブライ語の保存は、聖書物語の異なる瞬間にわたって同じ人物に名づけることの具体性によって区別されています。
+
+第四に、虹。{% libref(book="genesis-woh", chapter=9, verse=13) %}創世記9:13{% end %}はエロヒムが契約のしるしとして虹を雲に置いたことを特定します。慣例的な読みは、これを天気についての約束として——雨と関連付けられる虹が、今や再び洪水を起こさないという約束とも関連付けられるとして——扱います。本章は前半で、ヘブライ語のקֶשֶׁת(*keshet*)が「虹」と「弓」(武器としての)の双方を意味することを記しました。二重の意味は重大です。この読みでは、契約の身振りは、破壊の道具を明示的に退役させることです。地に向けて用いられていた弓は、今や雲のなかに吊るされ、置かれ、もはや展開されません。目に見える虹は、置かれた武器の目に見える徴です。技術的な読みも利用可能です——洪水後の大気自体は、出来事の瓦礫から浄化され、新しい均衡にリセットされ、我々が今見るような虹のパターンを生み出します。契約のしるしは、この読みでは、洪水後の大気そのものであり、条件がリセットされ、空の装置が更新されたことの目に見える実証です。
+
+しるしが両方の同盟パートナー——追放された創造者と人類の生存者の双方、新しい大陸の上の共有された空において——に見えることは、それが単一の神的当事者にのみ向けられたしるしとしてではなく、彼らの間の私的契約の徴として機能することと整合的です。
+
+第五に、バベルの塔物語の周りの言語学的証拠。ヘブライ語בָּבֶל(*Bavel*、バベル/バビロン)は、ヘブライ語の民間語源によって動詞בָּלַל(*balal*)、「混乱させる、混ぜる」と語源的に結びつけられています——{% libref(book="genesis-woh", chapter=11, verse=9) %}創世記11:9{% end %}は明示的にこの関連を作っています——*al ken qara shemah Bavel ki sham balal Adonai sefat kol ha-aretz*、「それゆえそれはバベルと名づけられた。なぜならそこでヤハウェは全地の言語を混乱させたからである」。*Bavel*のアッカド語語源は実際には異なります——*Bab-ilu*は「神の門」を意味します——そしてヘブライ語の民間語源は真の派生というよりも語呂合わせです。しかし語呂合わせは起こったことの作戦上の内容を保存しています——バベルにおいて、統一された言語は混乱させられ(*balal*)、結果は本章が描いた言語的分散でした。ヘブライ語本文自体が、語源が厳密に正確でなくても、地名と出来事との間の作戦上の関連を作っています。
+
+## XIV. 双子座とは何か
+
+章が閉じる前に、より大きな連なりのなかで双子座の時代が何であるかを明示的に述べておく価値があります。
+
+双子座は断絶の時代です。それは洪水以前の世界の単一の人類文明——本書の読みでは、おそらく我々自身と同等かそれを超える技術水準に達していた文明——が、母星の評議会によって維持不可能な被造物と見なされたものに対して展開された核兵器を通じて、意図的に破壊される時代です。破壊は包括的です。超大陸自体が衝撃の力の下で粉砕します。生物圏は大きく除去され、保存された遺伝物質から再生されねばなりません。人類という種は、軌道船——ヘブライ語聖書が{% wiki(slug="noahs-ark") %}ノアの方舟{% end %}として記憶する宇宙船——に乗船した小規模な乗組員と細胞の備蓄の保存を通じてのみ生き残ります。
+
+双子座はまた、悲劇的変容の時代でもあります。蛇派——前の二千年間を地上の人類の被造物のうちに受け入れた追放の状態で暮らしてきた追放された創造者たち——は、評議会の破壊決定によって、その受け入れた状態から能動的な抵抗へと押し出されます。彼らは最初の選択を下します——破壊命令に対して人類の被造物を保存する——抵抗が限定的に留まり、評議会との最終的な和解が達成可能であるという希望のうちにです。彼らは第二の選択を下します——評議会に対して武器を取ること——バベルの塔の介入が、人類の価値のいかなる実証も評議会の受容を勝ち得るには不十分であることを示した後にのみです。罰された反対派から能動的な反逆者への変容は、彼らの第一の好みとして選ばれたのではなく、評議会の行動によって彼らに強いられたものです。これが本章の弧を悲劇的にするものです——蛇派は、決して望まなかった反逆者になります。なぜなら代替肢は彼らが愛したすべてのものの破壊だったからです。
+
+双子座は同等に、契約の時代です。ノアと追放された創造者が彼らの正式な関係を確立する洪水後の祭壇は、本書の残りを構造化する同盟が生まれる瞬間です。契約は人類と遠い至高の権威との間で結ばれるのではありません。それは、評議会の命令に対してともに行動したばかりの二つの当事者——彼らとともに方舟を建造した追放された創造者と人類の生存者——の間で結ばれ、両当事者を、いずれか一方を脅かす将来の評議会の行動に対する相互支援に身を委ねます。虹はこの私的同盟のしるしです。洪水後の聖書物語に続くすべては、契約が確立する政治的枠組みのうちに起こります。
+
+双子座は同等に、最初の回復の時代です。生存した人類と保存された生物圏は洪水後の地表に戻され、七つの人類系統はそれぞれの元の地域(今や新たに開かれた海によって隔てられている)に再分配され、再建が始まります。エデン系統——地上に留まり、今や正式な同盟者である追放された創造者に教えられている——は急速に回復し、数世紀のうちに、第二世代の宇宙船——同盟の人類のパートナーを母星に運ぶことを意図したバベルの塔——の建造を含む実質的な工学計画を引き受けるのに十分な文明水準を達成します。評議会は再び介入しますが、今回は破壊するためではなく散らすためで、再建された文明を分裂させ、その科学的エリートを新しい大陸の地理にわたって分散させます。人類の技術的進歩に対する評議会の介入のパターン——本書の残りを特徴づけることになる——は、この時代に確立されます。
+
+双子座は最後に、戦争の時代です。母星の評議会と、追放された創造者と人類の同盟との間の紛争は、当初の追放以来潜在的であり、契約によって正式化されていましたが、この時代に公然となります——最初は破壊命令に逆らった方舟の建造を通じて、次に元の追放の条件に逆らった人類の生存者への継続的な教育を通じて、次にバベルの塔の協働的な建造を通じて、そして最終的には、評議会が追放された創造者自身に対して動くときの直接的な軍事行動を通じてです。紛争は双子座でいかなる明確な意味でも解決しません。それは追放された創造者の山と海底への長い退却を生み出し、牡牛座の章が赦しの見出しの下で文書化することになる最終的な政治的解決を生み出します。しかし紛争自体は、その公然たる軍事段階において、この時代に属します。それはほぼすべての主要な神話が保存する歴史的出来事——ティタノマキア、エーシル・ヴァン、ホルスとセト、マルドゥクとティアマト、ケツァルコアトルとテスカトリポカ——であり、本書の読みでは、多くの言語で記憶される同じ出来事です。
+
+我々の足下の石油環、若い山脈、分裂した大陸、大量絶滅の化石記録、すべての大陸の文化に保存された洪水神話のグローバルな分布、最近の共通の典拠を共有しない神話に保存された神々の戦争についての文化横断的な記憶——これらのすべては、天の車輪の読みでは、この時代に起こったことの地質学的、生物学的、文化的署名です。我々自身の文明は、その破壊された前任者のレンダリングされたバイオマスをそのエンジンと炉のなかで燃やしながら、忘却された出来事によって形作られた地の上に生きています。本書の課題は、本章と続く章において、思い出すことです。
+
+次の時代は、契約同盟が持続的な政治計画へと成熟する時代——アブラハムの召命、その後の聖書物語を通じて同盟を前進させる系統の創設、ソドムとゴモラでのバベル後の科学的残部の破壊、追放された創造者の最終的な赦しと評議会への正式な復帰の許可、そしてメソポタミア、エジプト、隣接する文明の緩慢な統合——これらの考古学的痕跡は慣例的な歴史的記録が読むことができる最初のものです。その時代は牡牛座の時代であり、続く章の主題です。
