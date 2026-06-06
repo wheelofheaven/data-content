@@ -1,108 +1,268 @@
 +++
-template = "timeline-page.html"
 title = "天秤座の時代"
-period = "紀元前15'330—紀元前13'170"
-age = "libra"
-description = "てんびん座の時代は、紀元前15330年から紀元前13170年まで続き、「Wheel of Heaven」の物語における「創造の第四日」を表しています。蠍座の時代に植物生命が確立された後、てんびん座の時代は、地球上で新たに設計された生態系のさらなる発展と調整に焦点を当てています。エロヒムの科学者たちは、天体の理解を利用して時間を測り、地球の周期に適応することで、地球特有の動植物の設計を支援しました。この時期は、さまざまな植物、菌類、小さな生命体でバランスの取れた生態系を創出し、これらの設計された種の生存と繁栄を確保するために、地球の気候と生物群系を理解することを含んでいました。"
-image = "primordial-nature-two-researchers.png"
-weight = 220
+description = "大年の第四の時代。エロヒムが空との関係を正式に確立する時代──現地時間の較正、星座の地図作成、そして計画が必要とする天文学的インフラの構築。"
+template = "timeline-page.html"
+toc = true
+
+[extra]
+symbol = "♎"
+color = "green"
+start_year = "-15330"
+end_year = "-13170"
+genesis_day = 4
+genesis_verse = "天のおおぞらに光があって昼と夜とを分けよ。これらをしるしのため、季節のため、日のため、年のためにせよ。"
+genesis_interpretation = "天秤座の時代は第四のヨームです。太陽、月、星々はこの日に創造されたのではありません──エロヒムの到来よりも以前から存在していました──が、暦器具、航行基準、生物学的較正手段として、計画の中に機能的に統合されます。"
+
+footnotes = [
+    { content = "第4日を宇宙論的な創造ではなく機能的統合として読むことは、二千年にわたって聖書注釈者を悩ませてきた謎を解消します。すなわち、太陽が第4日まで造られなかったのであれば、第3日の植物はいかにして光合成を行ったのかという問題です。植物は同じ太陽を用いました。第4日は太陽に名を与える日であり、太陽を創造する日ではありません。" },
+    { content = "ヘブライ語本文が *shemesh*(太陽)と *yare'ach*(月)──これらは聖書ヘブライ語の標準的な名称であり、同時にメソポタミアの神々の名でもありました──を避け、機能的記述語である *ha-ma'or ha-gadol* と *ha-ma'or ha-katon* を代用していることは、《射手座》の章が *raqia* の箇所について指摘したものと同じ、天体神格化への論争的拒絶です。" },
+    { content = "1年に約50秒角という歳差運動の速度は、紀元前2世紀のヒッパルコスによって、それ以前の数世紀にわたって編まれた恒星カタログを用いて初めて定量化されました。『ハムレットの臼』は、この速度が機能的な意味において、それよりはるかに古い文明によって既に理解されており、表題の緩やかに回転する臼として神話体系に符号化されていたと論じています。" },
+]
+
+references = [
+    { title = "Le Livre qui dit la vérité", author = "Claude Vorilhon (Rael)", date = "1974", medium = "religious-text", path = "/library/lets-welcome-the-extraterrestrials/" },
+    { title = "Les Extra-Terrestres m'ont emmené sur leur planète", author = "Claude Vorilhon (Rael)", date = "1975", medium = "religious-text", path = "/library/extraterrestrials-took-me-to-their-planet/" },
+    { title = "創世記", author = "作者不詳(ヘブライ語聖書);ポイント付きマソラ本文からのWoH訳", date = "紀元前6〜5世紀頃", medium = "religious-text", path = "/library/genesis-woh/" },
+    { title = "ハムレットの臼:人類の知識の起源と神話を通じたその伝承についての試論", author = "ジョルジョ・デ・サンティラーナ、ヘルタ・フォン・デヒェント", date = "1969", medium = "nonfiction-book", url = "https://wheelofheaven.github.io/de-santillana-von-dechend-hamlets-mill/", description = "本章が継承し拡張する歳差運動の枠組みの、文化横断的再構成。" },
+    { title = "Astronomical Algorithms", author = "ジャン・ムーシュ", date = "1991年(第2版1998年)", medium = "nonfiction-book", description = "本章全体で引用される回帰年、恒星年、近点年、および歳差の公式に関する標準的な参考書。" },
+]
+
+[[extra.prev_age]]
+name = "蠍座の時代"
+symbol = "♏"
+link = "/timeline/age-of-scorpio/"
+
+[[extra.next_age]]
+name = "乙女座の時代"
+symbol = "♍"
+link = "/timeline/age-of-virgo/"
 +++
 
-The Age of Libra lasts from –15'330 to –13'170 and follows the Age of Scorpio which lasted up to –15'330.
 
-In the last chapter, The Age of Scorpio, we learned that the group of scientifically inclined spacefaring pioneers who managed to find an exoplanet that provided all elements necessary to produce artifical life, including water, studied the planet well enough to capitalize on its capacity to harbour life. As soon as they managed to terraform a new barren continental land mass out of the bottom of the oceans, they went on to synthetize plant life. This plant life was engineered from nothing else but chemical base elements. It didn't take them long to cover the new supercontinent with grass, saplings, shrubs and other greeneries. The engineers were joined by artists and formed various research groups that each focused on a different region of this supercontinent to diversify and sophisticate further the newly created flora.
+## I. この時代そのもの
 
-All of that happened during the Age of Scorpio which lasted from –17'490 to –15'330, one of the twelve precessional World Ages. As we learned with the preceedings World Ages, which each represented one of the Days of Creation as mentioned in the first book of Genesis, the Age of Libra as the subsequent World Age is considered the Fourth Day of Creation.
+第四の時代は、空が有用なものとなる時代です。
 
-With the research groups having split up and while exploring the prospective creative possibilities of having a whole planet to themselves, the Elohimian scientists had all the freedom in their hands to fully take advantage of their situation. Earth was a sandbox environment of engineering, research and artistic expression. It was time to settle further and better understand the environment they were in; the fourth phase could begin. The Fourth Day of Creation is the sum of all events that happened subsequently during the Age of Libra.
+天秤座の時代は紀元前15,330年から紀元前13,170年まで、2,160年間にわたり、蠍座の時代の直後に続きます。この時代に、創世記の記述{{ cite(id="3") }}は、従来の読み方では創造の連続の中でも特に謎めいた操作の一つを割り当てています──すなわち、太陽、月、星々の創造です。問題は単純に述べられます。光は第1日に既に現れており、その時{% wiki(slug="elohim") %}エロヒム{% end %}は光を見て良しとされました。植物は第3日に既に創造されており、光合成を行う植物は存在するために太陽放射を必要とします。もし太陽が第4日まで造られていないのであれば、第3日の植物はいかにして光合成を行ったのでしょうか。{{ footnote(id="1") }}この問いは数千年にわたって注釈者たちを悩ませてきました。従来の答え──第1日の光は何らかの原始的、非太陽的発光であるとか、第4日の*「造ること」*は真の創造ではなく既に内在していた機能の明示にすぎないとか、本文はこの点では順序通りに読まれることを意図していないとか──のいずれもが、ある程度の解釈的な体操を必要とします。
 
-{{ figure(src="timeline/equinox_bc15330", caption="Fig. 1 - Vernal equinox in 15'330 BC") }}
+ラエリアン的な読み方は、この謎を解消します。太陽と星々は第4日に創造されたのではありません。それらはエロヒムの到来以前から数十億年にわたって、本来の働きを続けてきました。月はより複雑な事例であり、本章は後ほどそれに戻ります。第4日に起こるのは宇宙論的な創造ではなく、機能的な統合です。すなわち、天体は、エロヒムの計画の中で、本文が מְאֹרוֹת(*me'orot*)と呼ぶもの──光、発光体──、より具体的には*「しるしのため、季節のため、日のため、年のため」*の光となります。山羊座の時代に測定され、創造の記述の冒頭で*「良し」*と宣言された放射を有する太陽は、今や暦器具となります。エロヒム到来以前から頭上を回転してきた星座群は、名づけられ、地図化され、計画の作業語彙に組み込まれます。第4日は、科学者たちが空との関係を正式に確立する日なのです。
 
-## Regulation
+この読み方は、蠍座の章で導入された継続性原則と整合し、実際それを必要とします。そこで始まった生物学的計画は、科学者たちが天文学に注意を向ける間も停止しません。細胞合成技術の精緻化の作業、より複雑な植物形態の生産、成熟しつつある生物圏が要求する分解者群集と無脊椎動物の土壌動物相をゆっくりと構築する作業は、天秤座の時代を通して途切れることなく続きます。天秤座の時代が加えるものは、生物学的作業の置き換えではなく、それに不可欠な支援活動です。科学者たちが設計を続けている生命は、この惑星の固有の自転、軌道、季節のリズムに適応されなければなりません。その適応をうまく行うために、科学者たちはそれらのリズムを詳細に理解しなければなりません。天秤座の時代は、その理解が体系化される時代です。
 
->> Let there be lights in the firmament of the heaven to divide the day from the night; and let them be for signs, and for seasons, and for days, and years.
->> Genesis 1: 14.
->
-> By observing the stars and the sun they could measure the duration of the days, the months and the years on Earth. This helped them regulate their life on the new planet - so different from their own where days and years did not have the same duration. Research in astronomy enabled them to locate themselves precisely and to understand the Earth better.
+本章の副題──*「空の天秤」*──は、この時代の象徴と作業を貫く二重性を反映しています。天秤座は黄道帯の伝統において均衡の象徴であり、慣例として一対の天秤として描かれます。天秤座の時代に行われる作業は、厳密な意味において均衡に関するものです。すなわち、計画の内的リズムと、今や住むようになった惑星のリズムとの均衡、生物学的時間と天文学的時間の較正、科学者たちが持ち込んだ前提と惑星の実際のパラメータとの平衡化です。この時代において、空自体が天秤となります──計画の運用を計量し調整する器具です。副題は装飾ではありません。それは、この時代が何であるかを名指しています。
 
-Yahweh states here that lights in the sky, such as stars and the sun, serve to differentiate day and night, and to mark signs, seasons, days, and years. Observing these celestial bodies allowed the Elohimian pioneers to measure time on Earth and adapt to the differing duration of days and years compared to their original planet. Studying astronomy helped them better understand and navigate their new environment on Earth.
+{{ figure(src="timeline/age-of-libra-calibrated-sky", alt="緑がかった夜の平原の上に、月と星々の精密な空が広がり、地平線にはかすかな天文台の光が見える。", caption="図1 - 較正された空:計画の器具となりつつある発光体。") }}
 
-We know that the Elohim, the Celestials that came from the sky, originate from a different planet. We're only so far in narrating the overarching story, not a lot is known yet about the Elohimian home planet. In the excerpt above, we learned that the duration of the day and night cycle as well as the duration of the year is different on their home planet than here on Earth. For reasons that we won't go into here, let's be said that there are reasons to believe that they day and night cycle would be much longer on the Elohimian home planet.
+## II. 諸節
 
-If we speculate on what would have been seen as different in direct comparaison of their home planet and the new Earthly frontier world they were exploring at that moment in time, several differences in the night sky and the pace of various astronomical cycles could have been observed. The arrangement of stars visible from their planet would likely be different, resulting in unique constellations and celestial landmarks compared to those on Earth. Their planet might have a different number of moons or other visible celestial bodies, which could influence tides, illumination during the night, and other phenomena.
+第4日の創世記本文は14節から19節まで及び、その先行する諸日よりも機能について具体的であるため、長く引用するに値します。
 
-The rotation period of their planet might be different from Earth's, leading to longer or shorter days and nights. Their planet's orbit around its star might also be shorter or longer than Earth's orbit around the Sun, affecting the duration of a year and the pace of seasonal changes. If their planet has a different axial tilt compared to Earth, the intensity and duration of seasons could differ as well.
+14節:
+{{ scripture(book="genesis-woh", chapter=1, verse=14, translit="Vayomer Elohim yehi me'orot birqia ha-shamayim lehavdil bein ha-yom u-vein ha-laylah, ve-hayu le-otot u-le-mo'adim u-le-yamim ve-shanim") }}
+15節は機能的目的を続けます:
+{{ scripture(book="genesis-woh", chapter=1, verse=15, translit="Ve-hayu li-me'orot birqia ha-shamayim le-ha'ir al-ha-aretz, vayehi-khen") }}
+四つのものが名指しされています。אוֹתֹת(*otot*、しるし)、מוֹעֲדִים(*mo'adim*、季節すなわち定められた時)、יָמִים(*yamim*、日)、שָׁנִים(*shanim*、年)。語彙は精確です。אוֹתֹת(*otot*)、単数 אוֹת(*ot*)は、しるし──装飾的な象徴ではなく、指標、目印、何かを示すものです。מוֹעֲדִים(*mo'adim*)、単数 מוֹעֵד(*mo'ed*)は、יעד(*y-*ʿ*-d*、「定める」)の語根に由来し、定められた時──聖書ヘブライ語では具体的には共同体が守る祭日や儀礼上の定めですが、より一般的には印づけられ共有される任意の時を指します。יָמִים(*yamim*)は地上的な意味での日──この惑星の自転単位です。שָׁנִים(*shanim*)、単数 שָׁנָה(*shanah*)は、שנה(*sh-n-h*、「繰り返す、再び行う」)の語根に由来し、年──ヘブライ語においてその名がその反復的性格を符号化している軌道単位です。
 
-The Elohimian planet could orbit a star different from our Sun, such as a red dwarf or a binary star system. This would affect the amount and type of light received on the planet's surface, as well as the pace of various astronomical cycles. Additionally, a different magnetic field strength could lead to unique auroras, different levels of cosmic radiation, and other effects on their planet's atmosphere.
+光そのものを表す מְאֹרוֹת(*me'orot*)は、מָאוֹר(*ma'or*)の複数形で、אור(*'-w-r*、「光である」)の語根に由来します。これは{% libref(book="genesis-woh", chapter=1, verse=3) %}創世記1章3節{% end %}の冒頭の宣言 *yehi or*(「光あれ」)が由来するのと同じ語根です。第4日の語彙は意図的に第1日の語彙に戻ります──創造の連続の冒頭で *tov* と宣言された光は、今や第4日において、それを地上環境に導入する具体的な器具(*me'orot*)の中に置かれるのです。
 
-These differences would affect the way the Elohimian scientists perceive and measure time, as well as their understanding of astronomy and celestial events. Adapting to Earth's unique cycles and celestial phenomena would be crucial for their successful integration and navigation on our planet.
+ラエリアンの源は、この箇所を科学者たちが空を何のために必要としたかについての直接的な陳述として読みます。*「星と太陽を観測することにより、彼らは地球上の日、月、年の長さを測定することができた。これは彼らが新しい惑星上の生活を調整するのに役立った──そこは彼ら自身の惑星とは大きく異なり、日や年の長さが同じではなかったのである。天文学の研究によって、彼らは自らの位置を精確に特定し、地球をよりよく理解することができた。」*{{ cite(id="1") }}これは、目的が較正である天文学的研究プログラムの圧縮された具体的な記述です。すなわち、この惑星における一日とは何か、一年とは何か、それらがどう関係するか、月の周期はどう見えるか、恒星背景は時間とともにどう変化するかを解明する作業です。異なる自転と軌道パラメータを持つ惑星から到来した文明にとって、この較正は選択肢ではありません。それは根本的なものです。
 
-{{ figure(src="wiki/oceanside-geodesy-station", caption="Ill. 1 - Geodetic installation by the ocean") }}
+この箇所は16節において、従来の読み方では冗長な仕様に聞こえるもので続きます:
+{{ scripture(book="genesis-woh", chapter=1, verse=16, translit="Vaya'as Elohim et-shnei ha-me'orot ha-gedolim, et-ha-ma'or ha-gadol le-memshelet ha-yom, ve-et-ha-ma'or ha-katon le-memshelet ha-laylah, ve-et ha-kokhavim") }}
+この節のいくつかの特徴は注目に値します。第一に、動詞です。本文は וַיַּעַשׂ(*vaya'as*)、「そして彼は造った」と述べ、これは עשה(*-s-h*)、*asah* の語根に由来し、行うこと、造ること、構築することを意味します。これは{% libref(book="genesis-woh", chapter=1, verse=1) %}創世記1章1節{% end %}で「創造した」のために、また1章21節と1章27節で海洋動物と人類の創造のために用いられた動詞 בָּרָא(*bara*)ではありません。*Bara* は無からの創造あるいは根源的起源という具体的な含意を持ちますが、*asah* は構築、形成、利用可能な素材からの製作というより一般的な意味を持ちます。1章16節のヘブライ語の動詞選択は、エロヒムが太陽、月、星々を無から創造したと述べているのではありません。それらを構築あるいは配置したと述べており、これは天体が既に存在しており、科学者たちはそれらに対して何かを行ったのであって、存在へと呼び出したのではないという読み方と整合します。
 
-## Adaptation
+第二に、本文が太陽と月の標準的なヘブライ語の名称を避けていることです。ヘブライ語聖書の他のすべての箇所で、太陽は שֶׁמֶשׁ(*shemesh*)、月は יָרֵחַ(*yare'ach*)と呼ばれます。{% libref(book="genesis-woh", chapter=1, verse=16) %}創世記1章16節{% end %}はこれらの名称を意図的に用いません。それは太陽を הַמָּאוֹר הַגָּדֹל(*ha-ma'or ha-gadol*、「大いなる光」)、月を הַמָּאוֹר הַקָּטֹן(*ha-ma'or ha-katon*、「小さき光」)と呼びます。この回避は偶然ではありません。周囲の古代近東の諸文化において、*shemesh* と *yare'ach* は神々の名でした──メソポタミアではシャマシュ、ウガリットのカナンではヤリフです。{{ footnote(id="2") }}それらの名を用いることは、それらに神格の地位を与えることになります。創世記本文はその地位を拒否します。それは機能的な記述によってのみそれらを呼びます。それらは器具であり、神々ではありません。この論争は、第4日の操作を宇宙論的な創造ではなく機能的な統合として扱うラエリアン的な読み方と整合します──太陽と月は神格として造られたのではなく、運用上の任務に就かされたのです。
 
-The new Earthly planet could offer a range of different possibilities. We learned in the previous chapter how new plant life was created ex-nihilo from base elements, the Elohimian scientists would face a unique opportunity to design and shape the planet's ecosystems from scratch. This would allow them to build a completely new biosphere, with a careful balance of plants, fungi and other small life forms such as insects and worms, that could thrive in Earth's specific environmental conditions.
+第三に、מֶמְשָׁלָה(*memshalah*)という語、句 לְמֶמְשֶׁלֶת(*le-memshelet*)、「の支配のため」あるいは「治める」です。語根は משל(*m-sh-l*、「支配する、統治する」)です。太陽は昼を「治め」、月は夜を「治める」と読まれることがあり、これは時に太陽と月が神々として崇拝されていたメソポタミアの宗教体系に対する論争として、創世記がそれらを単なる機能体に格下げしているものと読まれます。ラエリアンの読み方はその論争を否定しませんが、より技術的な次元を加えます。すなわち、ここでの*「治める」*は規制すること、地上の昼および地上の夜のそれぞれの支配的な周期性を確立することを意味します。太陽の周期は日中のサイクルを規制します。月の周期──月の見かけの位置がその軌道運動と地球の自転とを組み合わせたものに依存するため、より複雑です──は夜のサイクルと、昼や年では捉えられない、より長い月単位の周期を規制します。
 
-Creating Earth-specific plant life ex-nihilo would involve designing plants that could efficiently harness energy from the Sun through photosynthesis, and have the necessary adaptations to survive and reproduce in different climates and habitats. These engineered plants would form the basis of Earth's ecosystems, providing the essential foundation for food chains and nutrient cycles.
+そして最後に、星々──הַכּוֹכָבִים(*ha-kokhavim*)──は、節の末尾にほとんど後付けのように現れます。文法は印象的です。節は二つの大いなる光に三つの主節を費やし、その後、簡潔な付加句で星々に言及します。この従属化は意図的です。計画の目的のために、太陽と月は主要な較正器具であり──日と月は地上生物学が主に動く単位です──、一方、星々は主要な器具を較正するための固定的な基準枠を提供します。付加句 *ve-et ha-kokhavim*、「そして星々も」は、恒星背景が日常生活の中心ではないものの、天文学的インフラの一部であるという本文の圧縮された承認です。
 
-Once the flora would be established, the scientists would be able to introduce various fauna, designed to interact with the plants and with one another in a harmonious manner. This would involve the possibility of creating herbivores to consume the plants, carnivores to regulate herbivore populations, and decomposers to recycle nutrients back into the environment. The balance of these species would be crucial in maintaining a stable and functioning ecosystem.
+17節と18節は光の設置を記録しています:
+{{ scripture(book="genesis-woh", chapter=1, verse=17, translit="Vayiten otam Elohim birqia ha-shamayim le-ha'ir al-ha-aretz") }}{{ scripture(book="genesis-woh", chapter=1, verse=18, translit="Ve-limshol ba-yom u-va-laylah u-le-havdil bein ha-or u-vein ha-hoshekh, vayar Elohim ki-tov") }}
+19節は日を閉じます:
+{{ scripture(book="genesis-woh", chapter=1, verse=19, translit="Vayehi-erev vayehi-voker, yom revi'i") }}
+*「エロヒムはそれらを置かれた」*の動詞──וַיִּתֵּן(*vayiten*)、「与えた」あるいは「置いた」、語根 נתן(*n-t-n*)──は心に留めるに値します。これは *bara* とも *asah* とも異なります。太陽、月、星々はここで存在へと至らしめられているのではなく、機能の中に置かれているのです。ヘブライ語はその動詞選択において、ラエリアンの読み方が明示する区別を保持しています。すなわち、これらの天体は宇宙にとって新しいものではないが、エロヒムの計画におけるそれらの機能的役割は新しいということです。節が配置の動詞を用いるのは、配置こそが起こっていることだからです──既に存在する天体を取り、それらを計画の任務に就かせるのです。
 
-The Elohimian scientists would also have the opportunity to design Earth's ecosystems in such a way that they are resilient to disturbances and can adapt to changing conditions over time. This could involve creating species with high genetic diversity, fostering symbiotic relationships between different organisms, and ensuring that ecosystems have redundancies and backups for key ecological processes.
+## III. 天文学は何のためだったか
 
-The synthetic engineering of plant life on a new Earthly planet could significantly benefit from the knowledge gained through observing the sky and understanding one's location. This knowledge would provide valuable information about the specific environmental conditions that the engineered plants would need to adapt to, and help guide the design of these plants to ensure their success in the new ecosystem.
+天秤座の時代における科学者たちの天文学的作業は、この資料体が採用する読み方では、観想的なものではなく道具的なものでした。それは計画に奉仕しました。それが何に奉仕したのかを詳述する価値があります。なぜなら、その詳細はエロヒムが行っていたことについての、見落とされやすい何かを明らかにするからです。
 
-Understanding day-night cycles through sky observation would enable the scientists to design plants that can efficiently utilize available sunlight for photosynthesis. They could tailor the plants' light-harvesting mechanisms and growth patterns to match the duration and intensity of sunlight received in different parts of the planet.
+第一に、現地時間への較正の問題を考えてみましょう。エロヒムは、自転周期、軌道周期、自転軸傾斜が地球とは異なる世界から到来しました。彼らの生物学──自分たちの身体の生物学──は故郷の惑星のリズムに適応していました。彼らのサーカディアンサイクル、代謝スケジュール、生殖タイミング、睡眠パターンは、地球のものとは異なる昼の長さと年の長さに調律されていました。地球上で活動するには適応が必要でした。この適応の一部は基地内での環境制御──故郷のスケジュールに合わせた人工照明、故郷の条件に合致した内部気候──によって対処できました。しかし要員は基地の外に出る必要があり、その際には地上時間に従って機能しなければなりませんでした。地上時間が精確に何であるかを──秒、時、日、月、年に至るまで──知ることは、したがって、惑星の表面上で活動するための前提条件でした。天秤座の時代の天文学はこの知識を生み出しました。
 
-By studying the movements of celestial bodies, scientists could also gain insight into Earth's climate and seasonal variations. This knowledge would be crucial in engineering plants that can tolerate temperature fluctuations and adapt to the changing availability of water and nutrients throughout the year. Additionally, understanding how seasonal changes impact pollinator activity could help inform the development of plants with appropriate flowering and fruiting periods to maximize reproductive success.
+第二に、生物学を現地時間に較正する問題を考えてみましょう。蠍座の時代の植物は既に日々および季節のサイクルに応答していました。なぜなら蠍座のチームは、おそらく山羊座の時代に行われた測定からこれらのサイクルをモデル化し、それに従って植物を設計していたからです。しかし完全なパラメータの集合──自転周期と軌道周期の正確な関係、精確な自転軸傾斜とその様々な緯度における季節変動への帰結、潮汐パターンへの月の影響、計画の経過にわたって恒星背景を変動させる歳差運動──は、準備期に行われたよりも長期の観測を必要としました。天秤座の時代は、これらのパラメータが高精度で確定される時代であり、生物学的計画はそれに従って再較正されます。暫定的なパラメータに基づいて蠍座の時代の初期に育種された植物は、天秤座の時代の後期に確定的なパラメータに基づいて精緻化できます。次の時代に現れる動物は、天秤座の時代の間に既に、精緻化された暦データを用いて設計されつつあります。後続のあらゆる生物がこの時代に行われた天文学的作業の恩恵を受けます。
 
-Precise location information, derived from astronomical observations, would allow scientists to map out the different biomes and habitats present on Earth. This knowledge would enable them to engineer plant species that are specifically adapted to the unique environmental conditions of each biome, such as temperature, precipitation, and soil composition.
+第三に、航行の問題を考えてみましょう。恒星間航行は安定した基準枠を必要とし、故郷の世界と地球の間で活動するエロヒムにとって、最も自然な基準枠は天文学的なものです。彼らは両端から見える星々の位置、それらの間の視線、通行回廊を高精度で知る必要があります。地球から故郷の世界へ向かう宇宙船は、空の中の正確な点を狙わなければならず、その狙いの標的は地球が太陽の周りを公転し、軸の周りを自転するにつれて連続的に変化します。いかなる瞬間にも正確にどこを狙うかを知ることは、天文学的な問題です。天秤座の時代は、必要な目録と手順が開発される時代です。
 
-Monitoring the sky could also help scientists predict and prepare for natural disasters, such as volcanic eruptions, earthquakes, or meteor impacts, which could significantly affect the survival of the engineered plant life. By understanding the potential risks and incorporating resilience strategies into the design of the plants, they could increase the likelihood of their successful establishment and long-term survival on the new Earthly planet.
+第四に、長期的方位の問題を考えてみましょう。地球の軸の歳差運動──{% wiki(slug="zodiac") %}黄道帯{% end %}における春分点の2,160年の移動を生み出す緩やかな揺らぎ──は約25,920年の周期を持ちます。{{ cite(id="4") }}そのような時代を複数にわたって持続する計画にとって、科学者たちはこの運動を精確に理解する必要があります。なぜならそれは観測可能な空を実用上の帰結を伴う仕方で変化させるからです。航行基準は移動します。季節較正は周期的な調整が必要となります。恒星背景に対する衛星の位置は変化します。これらはすべて管理可能ですが、理解されている場合に限ります。そしてそれを理解するためには、長期持続の計画のみが提供できるような持続的観測が必要です。天秤座の時代は、{% wiki(slug="precession") %}歳差運動{% end %}そのもの──天の車輪の全体構造を与える現象──が、計画自身の持続期間のための年代計として用いられるのに十分な詳細さで特徴づけられる時代です。{{ footnote(id="3") }}
 
-{{ figure(src="wiki/primordial-nature-two-researchers", caption="Ill. 2 - Primordial botany featuring two researchers") }}
+これらのいずれも法外な憶測ではありません。すべては、資料が提供する三つの事実の組み合わせから直接に従います。すなわち、科学者たちは他の場所から来たということ、彼らは数千年にわたる持続期間の計画を遂行していたということ、そして生物学を適切に行うことを気にかけていたということです。これらの目的に奉仕するに足る天文学は選択肢ではありません。それは必須です。天秤座の時代は、それが大規模に遂行される時代です。
 
-## Earth in motion
+## IV. 観測インフラ
 
-Several key astronomical cycles, which are influenced by Earth's unique properties, govern various aspects of our planet's behavior and environment.
+前節が記述するような天文学を行うには、天文台が必要です。資料はそれらを詳細には記述していません。何が存在していたはずかを考察する価値があります。
 
-One of the most fundamental cycles is the Earth's rotation, which creates the day-night cycle. As Earth rotates on its axis, different parts of the planet are exposed to sunlight, resulting in alternating periods of daylight and darkness. This cycle has a significant impact on temperature, weather patterns, and the behavior of living organisms.
+このような範囲の較正計画のための天文台は、単一の場所の単一の器具ではありません。それは分散ネットワークです。科学者たちは複数の緯度で測定が行われる必要がありました。なぜなら太陽高度や極星位置の緯度による変化はそれ自体が鍵となるパラメータだからです。彼らは長期間にわたって測定が行われる必要がありました。なぜなら彼らが特徴づけていた現象──軌道年、歳差周期、月の交点周期──は、数十年あるいは数世紀の観測を必要とする時間尺度で作動するからです。彼らはネットワーク全体で測定が調整される必要があり、それによって一つの場所での出来事が別の場所での出来事と関連づけられるようにしました。そして彼らはデータ保管庫を必要としました──連続する世代の観測者たちが読み、拡張できる形式で、多くの世代にわたって維持される記録です。
 
-Another important astronomical cycle is Earth's orbit around the Sun, which takes approximately 365.25 days to complete. This cycle, combined with Earth's axial tilt of roughly 23.5 degrees, results in the changing of the seasons. As Earth moves around the Sun, the angle at which sunlight strikes different parts of the planet changes, leading to variations in temperature, daylight duration, and weather conditions.
+このネットワークが展開された地理は、私たちが知る地理ではありませんでした。射手座の時代に隆起した超大陸は、その存在のこの段階では、現代の地形にはほとんど似ていない若い陸塊でした。現代世界の主要な山脈──ヒマラヤ、アンデス、アルプス、ロッキー──はすべて、この時代をかなり後にする構造運動の産物であり、そのほとんどは超大陸の分裂に続く大陸移動の産物であり、この資料体は適切な箇所でそれを取り上げます。天秤座の時代の超大陸には山々がありましたが、それらはより古く、より浸食された種類のもの──クラトン内部、火山性高地、比較的静穏な大陸表面のゆっくりと成長した特徴──でした。山頂はおそらく現代の基準では控えめなものでした。後に聖なる山として、そして神々の住まいとして文化的に有名になる名のある山脈は、まだ形成されていませんでした。
 
-The axial tilt of Earth also leads to the cycle of solstices and equinoxes. The solstices mark the longest and shortest days of the year, while the equinoxes occur when day and night have equal lengths. These events are caused by Earth's tilted axis and its position relative to the Sun during its orbit.
+したがって、観測所は後の伝統がそれらを置く場所とは別のどこかにありました。エロヒムは、利用可能な地理が提供する緯度、標高、大気透明度、地質安定性の組み合わせのいかなる場所にも基地を設置しました。選択は、科学者たちが惑星を全体として評価していた山羊座の時代の調査の間に行われたはずであり、選択された場所は当時存在した地理に対して最適でした。これらの場所がどこであったかは私たちには分かりません。超大陸の分裂に続く大陸移動は、天秤座の時代の天文台が乗っていた表面的特徴を移動させ再形成してきました。元の設備の物理的痕跡は、十五千年以上の時間の中で、埋もれ、浸食され、水没し、あるいは構造運動によって元の位置とは明らかな関係を持たない場所へと運ばれてきたでしょう。
 
-In addition to these cycles, the Moon's orbit around Earth gives rise to several cycles that influence our planet. The most notable of these is the lunar cycle, which lasts approximately 29.5 days. This cycle causes the Moon to go through different phases, from new moon to full moon, as its position relative to Earth and the Sun changes. The lunar cycle has a strong influence on tides, with higher tides occurring during full and new moons due to the combined gravitational forces of the Moon and the Sun.
+現代的な高峰の不在は、名指しに値する制約を課します。地上天文学は標高から恩恵を受けます。なぜなら大気乱流は観測精度を低下させ、器具と標的の間の大気の柱を減らすことはデータを向上させる直接的な方法だからです。故郷の世界に高峰があった文明、あるいは以前の天文学的実践がそれらに頼っていた文明は、天秤座の時代の超大陸の相対的な平坦さを制限として感じたでしょう。したがって、天秤座の時代の天文ネットワークの地上部分は、地理的標高よりも器具の精巧さに依存していた可能性が高く、軌道部分──山羊座の時代の調査の間に配置された衛星で、天秤座の時代を通じて作動し続けたであろうもの──は、そうでなかった場合よりも観測負荷のより大きな部分を担っていたでしょう。これは計画の二つの既知の特徴の組み合わせからの合理的な推論です。すなわち、科学者たちは恒星間級の器具を利用可能であったこと、そして彼らが扱っていた地形は伝統的な地上天文学にとって理想的ではなかったことです。彼らは適応しました。
 
-Another lunar cycle is the lunar nodal cycle, which lasts about 18.6 years. This cycle affects the angle of the Moon's orbit relative to Earth's equator, influencing the occurrence of solar and lunar eclipses. When the nodes of the Moon's orbit align with the Sun, eclipses can occur.
+天秤座の時代に開発された天文学的知識は、天の車輪の読み方では、持続的な計画内で活動する連続する世代の科学者たちによって保存され、その一部は最終的に獅子座の時代に創造される人間たちに伝達されました。天秤座の時代に存在したいかなる物理的な天文台も、私たちの時代には消えています。断片的な形で生き残ったのは、知識そのものです──恒星目録、歳差運動の理解、後に特定の古代文明の天文学的伝統に現れることになる暦体系です。これらの後の伝統と元の天秤座の作業との関係は、特定の場所や特定の器具の存続の問題ではありません。それは根底にある天文学的理解の存続の問題であり、それはこの資料体の後の章で扱う仲介者たちを通じて伝達されたのです。
 
-These astronomical cycles are crucial in shaping the Earth's climate, ecosystems, and the behavior of living organisms. Understanding these cycles allows us to predict and prepare for various natural events, as well as to better comprehend the complex interactions that occur on our planet.
+{{ figure(src="timeline/age-of-libra-observatories", alt="緑がかった青色の薄明の風景の中で、尾根、平原、遠くの高地にわたって広がる小さな天文台の数々。", caption="図2 - 天文台:日、年、星々を測定する分散ネットワーク。") }}
 
-Several key astronomical cycles, which are influenced by Earth's unique properties, govern various aspects of our planet's behavior and environment.
+## V. 並行作業:地面の静かな構築
 
-One of the most fundamental cycles is the Earth's rotation, which creates the day-night cycle. As Earth rotates on its axis, different parts of the planet are exposed to sunlight, resulting in alternating periods of daylight and darkness. This cycle has a significant impact on temperature, weather patterns, and the behavior of living organisms.
+継続性原則が要求するように、天文学的作業と並行して、生物学的計画はそれ自身のペースで続きました。この並行作業がどのようなものであったかについて熟考する価値があります。なぜなら、創世記の従来の読み方──各日の作業はその日のうちに完了する個別の操作であるという読み方──は、天秤座の時代が何であったかについて誤った像を生み出すからです。
 
-Another important astronomical cycle is Earth's orbit around the Sun, which takes approximately 365.25 days to complete. This cycle, combined with Earth's axial tilt of roughly 23.5 degrees, results in the changing of the seasons. As Earth moves around the Sun, the angle at which sunlight strikes different parts of the planet changes, leading to variations in temperature, daylight duration, and weather conditions.
+天秤座の時代は生物学的計画の休止ではありませんでした。それは生物学的計画が重要な新しい計画──天文学──と並行して進行し、両方の計画が相互に情報を提供し合った時代でした。そして天秤座の時代における生物学的計画は、主として、後続の時代のより目に見える生物学的操作が進む前に完了されなければならなかった、ゆっくりとした、地味で基礎的な作業に関わっていました。
 
-The axial tilt of Earth also leads to the cycle of solstices and equinoxes. The solstices mark the longest and shortest days of the year, while the equinoxes occur when day and night have equal lengths. These events are caused by Earth's tilted axis and its position relative to the Sun during its orbit.
+蠍座の時代の植物に覆われた超大陸が、生態学的観点から実際に何であるかを考えてみましょう。それは、光合成が惑星規模で起こり、酸素と有機炭素を生産している景観です。しかしそれはまだ、有機炭素が完全な規模で再循環されている景観ではありません。植物は成長します。植物は死にます。植物質が蓄積します。成熟した分解者群集の不在では、この物質は単に積み重なり、それが含む炭素を、系の他の部分が利用できない不活性なバイオマスの中に閉じ込めるだけです。機能する生物圏のためには、再循環装置が整っていなければなりません。蠍座の時代の後期に導入された分解者たちは、成熟し、多様化し、大陸規模で分布しなければなりません。
 
-In addition to these cycles, the Moon's orbit around Earth gives rise to several cycles that influence our planet. The most notable of these is the lunar cycle, which lasts approximately 29.5 days. This cycle causes the Moon to go through different phases, from new moon to full moon, as its position relative to Earth and the Sun changes. The lunar cycle has a strong influence on tides, with higher tides occurring during full and new moons due to the combined gravitational forces of the Moon and the Sun.
+分解者群集は、生物圏の小さくも付随的な部分でもありません。バイオマスと代謝量の両方において、それは、生物圏を持つどの惑星にあっても最大かつ最も複雑な生物群集の一つです。それは、菌糸ネットワークが土壌と枯死植物物質を浸透し、他のものでは消化できないリグニンとセルロースを細胞外酵素が分解する腐生菌類で構成されています。それは、新鮮組織の最初の分解から有機残渣の最終的な無機化まで、分解のあらゆる段階の専門家からなる、目を見張る多様性の細菌群集で構成されています。それは、細菌個体数を調節し栄養素を栄養段階の上方へ移送する原生動物で構成されています。それは、線形動物──顕微鏡的な回虫──で構成されており、機能する土壌中に莫大な数で存在し、直接的な分解からより小さな生物の捕食まで様々な生態学的役割を担っています。それは、環形動物──ミミズとその近縁種──で構成されており、その穿孔と土壌物質の摂取が機械的に地面を再構築し、有機物を鉱物土壌に混ぜ、さらなる生物学的活動を支える基質を生み出します。そしてそれは、初期節足動物──昆虫、ダニ、トビムシなど──で構成されており、より大きな残骸の分解と栄養素の循環における役割は、いかなる陸上生態系の機能にとっても不可欠です。
 
-Another lunar cycle is the lunar nodal cycle, which lasts about 18.6 years. This cycle affects the angle of the Moon's orbit relative to Earth's equator, influencing the occurrence of solar and lunar eclipses. When the nodes of the Moon's orbit align with the Sun, eclipses can occur.
+蠍座の章が既に論じたように、この分解者群集の一部は蠍座の時代の間に植物そのものと並行して導入されました。天秤座の時代が加えるものは、深さと精緻化です。蠍座の時代後期に確立された最初の分解者群集は、その初期段階にありました──機能的ではあるが薄く、存在はするが成熟した生態系が要求する完全な代謝量をまだ提供していませんでした。天秤座の時代は、これらの群集が成熟し、多様化し、計画の残りが依拠する完全な地理的および栄養段階規模で自らを確立する時代です。科学者たちは、植物被覆の下の機能的分解生態系を完成させるために、追加のあらゆる分解者カテゴリーを正しい順序で、正しい規模で、正しい地理的分布で設計し、合成し、試験し、配備しなければなりませんでした。そして彼らは、これらの生物を孤立した種としてではなく、機能的群集の成員として設計しなければなりませんでした。そこでは一つの生物の出力が別の生物の入力となり、共生関係──菌糸と植物の根の間の菌根共生、マメ科植物の根との窒素固定細菌の共生──は、数世紀にわたって、いかなる現代の大陸の健全な土壌を特徴づける密な相互利益関係へと成熟しました。
 
-These astronomical cycles are crucial in shaping the Earth's climate, ecosystems, and the behavior of living organisms. Understanding these cycles allows us to predict and prepare for various natural events, as well as to better comprehend the complex interactions that occur on our planet.
+土壌そのものの構築は、この作業の帰結でした。天秤座の時代の初めには、超大陸の表面は大部分が裸の岩と堆積物で、その上に薄い植物質の層が蓄積し、初期の分解者群集がそれを処理し始めていました。天秤座の時代の終わりまでに、それは土壌でした──生きた土壌、構造化された土壌、複雑な凝集構造の中に腐植と鉱物粒子を含む土壌、水と栄養素を保持する土壌、後の生態系のより大きく要求の多い植物と、最終的にそれらを食む動物を支えることができる土壌でした。腐植は素早く形成されません。理想的な条件下で完全な分解者群集が存在していても、植物物質の分解から土壌が生成されるには数世紀かかります。大陸生態系を支えるために必要な深さと豊かさの土壌を惑星規模で生み出すには、単一の人間の寿命が包含できる以上の時間が必要です。天秤座の時代の2,160年間は、蠍座の時代初期から進行していた並行作業と合わせて、辛うじて十分でした。
 
-{{ figure(src="wiki/orbital-geodesy-satellite", caption="Ill. 3 - Geodetic satellite in orbit") }}
+これが天秤座の時代の地味な作業です。これは創世記には記述されていません。なぜなら創世記はそのための語彙を持たないからです──聖書本文は目に見えるマイルストーンのみを与え、土壌の構築と分解者群集の成熟は設計上不可視です。しかしそれらは天秤座の時代を通じて、天文学的較正作業を遂行していたのと同じ研究室で、同じチームの下で、連続的に起こっていました。この時代の終わりまでに、超大陸はただ緑であっただけではありません。それは、地面そのものが生物学的になったという、より深い意味において生きていました──微生物から無脊椎動物まであらゆる規模で住まわれ、自らの栄養素を再循環し、自らの肥沃さを構築し、次の時代が導入する感覚および運動生物を支える準備をしていました。
 
-### Precession
+蠍座の章で導入された党派的チームは天秤座の時代を通じて活動し続けます。一部のチームはより天文学的計画に集中し、他のチームは生物学的計画に集中し続けます。ほとんどは両方を行います。なぜなら、私たち自身の文明が当然視するようになった学問分野の分離は、エロヒムの実践には存在しないからです。集会は続きます。結果は比較されます。計画は調整されます。山羊座の時代に始まり、射手座の時代と蠍座の時代を通じて続いた計画の長いリズムは、天秤座の時代を通じて中断なく続きます。
 
-Earth's precession is another important astronomical cycle that is very characteristic. Precession has been explained multiple times during the Introduction because it plays a key role in retelling of the Elohimian chronicles with an accurate time marker. Precession, often referred to as the precession of the equinoxes, is the gradual change in the orientation of Earth's rotational axis. It is caused by the gravitational forces exerted by the Sun and the Moon on Earth's equatorial bulge. This slow, wobbling motion of the Earth's axis takes approximately 25'920 years (modern day estimations amount to 25'772 years) to complete a full cycle.
+## VI. 空の科学
 
-As a result of precession, the position of the celestial poles (the points in the sky that the Earth's axis points towards) gradually shifts over time. This means that the pole stars, which are currently Polaris in the Northern Hemisphere and Sigma Octantis in the Southern Hemisphere, change over thousands of years. For example, around the year 14'000 CE, the bright star Vega will become the new North Star.
+資料は科学者たちが天秤座の時代に何を行ったかを私たちに告げています。それがどのように行われたか、あるいはどの器具を用いて、どの理論的枠組みに対して、どの目録を用いて行われたかについては、詳細を告げていません。前三章と同様、そのような作業が実際に何を必要とするかを問う読者は、現在の科学から再構成するに任されており、ここでも質感は利用可能です。私たち自身の天文学、天体測定学、時間生物学は、過去一世紀にわたって、特に過去十年間に、天秤座の時代の作業が前提としていた具体的な研究プログラムを発展させてきました。私たちはまだエロヒムが所有していたであろう精度や規模を持っていません。しかし作業の形は見えており、進行方向は整合しています。
 
-Precession also impacts the timing of the solstices and equinoxes. Over the course of the 25'920-year cycle, the positions of the Sun along the ecliptic at the time of the solstices and equinoxes gradually shift. This has a subtle effect on the length of the seasons and the timing of the solstices and equinoxes, with each season slowly changing its duration.
+この節の枠組みは、最初に明示的に述べる価値があります。天秤座の時代の天文学は、天文学それ自体のための天文学ではありませんでした。それは生物学に奉仕する天文学でした。科学者たちは星々を観想する哲学者ではありませんでした。彼らは、設計している生物がパラメータによって生きるか死ぬかが決まるため、精密な天文学的パラメータを必要としたエンジニアでした。資料体のこれまでのすべての章で、思弁的科学の節はその時代の作業が解決していた問題に集中してきました──山羊座の時代の調査、射手座の時代の大気と地質工学、蠍座の時代の細胞合成です。天秤座の時代の問題は、同じ言葉で言えば、空と生命設計プログラムの間のインターフェースです。下の節はこのインターフェースを六つの小節で展開します。地球の三つの運動と設計プログラムがそれぞれから必要としたもの、計画の内部暦としての黄道帯枠組み、特定の空のための生命を設計するという固有の問題(ここに工学的素材が最も集中しています)、空が地上に生み出す緯度構造に適応した生物群系を設計するという関連した問題、技術的に扱われる月の問題、そしてエロヒムが構築したであろうものから私たち自身の作業が今や接近し始めているものまでの貫流です。
 
-Understanding Earth's various cycles such as the precession allowed the Elohimian scientists to study long-term astronomical changes, which can have implications for climate and ecosystems.
+### VI.1. 三つの運動とそれを必要とした計画
 
-## Fourth day of creation
+異郷の惑星に到来し、そこで活動することを意図するいかなる文明も、その惑星上の生物が従って生きるリズムを決定する三つの運動を、高精度で理解しなければなりません。これらは、惑星の軸周りの自転(日を与える)、星周りの公転(年を与える)、そして惑星の軸の歳差運動(季節が数えられる恒星背景を移動させる非常に長い周期を与える)です。これら三つすべては、現在主流の天文学によって十分に理解されており、三つすべてが天秤座の時代の測定計画の固有の目標であったでしょう──エロヒムが理論的主題として天体力学に関心を持っていたからではなく、各運動が設計プログラムが合致させなければならなかった生物学的現象を駆動していたからです。
 
-## A quick recap
+地球の自転は、直観的な記述が示唆するように、正確に24時間ではありません。それは固定された星々に対して測定して、約23時間56分4秒です──恒星日です。私たちが用いる24時間の日は太陽日です──ある太陽南中から次の南中までの時間──であり、地球がその間に軌道に沿っても移動しているため約4分長く、したがって太陽は恒星背景に対してわずかに移動したように見え、地球は同じ見かけの位置に太陽を戻すためにもう少し回転しなければなりません。恒星時と太陽時の区別は、異郷の天文学者がここに到来して最初に遭遇し、最初に解決する較正問題です。生物学的設計の目的のためには、太陽日が問題となるものであり──地上の生物は太陽の上下に応答し、恒星自転には応答しません──、その精確な持続時間を確定することは、日常サイクルで動くいかなる生物を設計するための前提条件です。
+
+年──軌道周期──はそれ自体が単一の数より複雑です。回帰年(ある春分から次の春分までの時間)は約365.2422太陽日です。恒星年(地球が星々に対して同じ位置に戻るまでの時間)は約20分長くなります。近点年(近日点から近日点まで、地球が太陽に最も近づく時間)はさらに長いです。{{ cite(id="5") }}これら三つの測度の違いは、地球の軌道が変化しない基準枠の中の単純な閉じた楕円ではなく、楕円自体がゆっくりと歳差運動し、軸も歳差運動し、これら両方が年の異なる測度間の関係を移動させることから生じます。生物学的目的のためには、回帰年が関連するものです。なぜならそれは季節を追跡するからです──開花、結実、移動、冬眠、生殖を駆動する温度と日照の年間パターンです。この惑星のために設計された植物や動物は、その年間サイクルを回帰年と合致させなければならず、それは、季節的に挙動する生物が指定される前に、設計プログラムが回帰年の持続時間を高精度で知っていなければならないことを意味します。
+
+そして歳差運動──地球の軸の緩やかな揺らぎ──は約25,920年で一周期を完了します。これが天の車輪を組織する周期です。これを十二(黄道帯の十二星座のため)で割ると、この資料体が基本的な年代単位として用いる2,160年の時代が得られます。歳差運動は、太陽と月による地球の赤道膨らみへの重力トルクが主な原因であり、地球が現在の自転軸傾斜を獲得して以来、地球の運動の一部となっています。人間の寿命にとっては、それは事実上知覚不能です──天の北極は年に約50秒角移動し、これは約36年で満月の幅に相当し、日常的観察を逃れるほど小さなものです。しかし複数の歳差時代にわたって持続する計画にとって、運動はかなりのものであり、その帰結は理解されなければなりません。科学者たちの恒星目録は移動します。彼らの季節較正は、移動する春分点に対して周期的な再正規化が必要です。早期の時代に設計された生物は、後の時代にはわずかに異なる空の下に住むことになります。これらのいずれも危険ではありませんが、いずれも無視できるものでもありません。それを管理するには、歳差運動の速度が単一の観測が提供できるよりもはるかに高い精度で知られている必要があります。
+
+これら三つの運動それぞれの生物学的帰結は異なり、それぞれが設計プログラムによって異なる仕方で扱われなければなりませんでした。日はサーカディアンリズムを駆動します──細菌から哺乳類まで、ほとんどあらゆる地上生物が代謝を明暗サイクルと同期させるために維持している内部時計です。年は季節的挙動を駆動します──植物における開花と結実、動物における移動と冬眠、太陽の見かけの位置と地球の表面との間の変化する関係を追跡する年間サイクルの全集合です。歳差運動は、計画そのものにとって、作業の弧を印づける長い{% wiki(slug="chronology") %}年代{% end %}を駆動します。個々の生物にとって、その直接的な効果は小さいですが、生物群系設計と種の緯度分布にとって、複数の時代にわたる特定の緯度における季節タイミングの緩やかな変化は、設計者たちが計画しなければならなかったものです。三つの運動のそれぞれは、要するに、それに依存した特定の生物学的応用のために必要とされる精度に測定されなければなりませんでした。天秤座の時代は、これらの測定がその精度にもたらされる時代です。
+
+### VI.2. エンジニアリング・ツールとしての黄道帯枠組み
+
+総称して黄道帯と呼ばれる、空を十二の星座的領域に分割することは、天の車輪の暦的背骨です。それはまた、資料体の読み方では、エロヒムが自らの計画のために考案した枠組み──恒星間バイオテクノロジー計画が自らの調整のために必要とする長期持続暦であり、日常作業を組織するより短い日と年の暦から独立したものです。後の人間文明はこの枠組みの断片を継承し、それを自らの天文学的伝統に織り込みました。天秤座の時代において、それらの文明はまだ存在しません。存在するのは枠組みそのものであり、科学者たちによって彼ら自身の運用上の器具として開発されています。
+
+なぜ十二なのでしょうか。この分割は恣意的ではありません。黄道──一年の経過において太陽が恒星背景に対して描く見かけの経路──は空の特定の帯を通り、その帯に沿った星座群は、いかなる地球ベースの天文学が存在するよりも遥か前から目印として利用可能でした。この帯を等しい区分に分割することは、数を選ぶ問題です。十二がうまく機能するのは、月の周期が太陽年あたり約十二回(実際には12.37により近いが、十二が自然な丸めです)であるため、十二が清潔な細分(半分、三分の一、四分の一、六分の一)を許すため、そして十二が2,160年の歳差時代を与えるためです──真の時代として数えるに足る長さでありながら、持続的な計画がそのような複数の時代を経験し、それらを記帳単位として用いることから恩恵を受けるに足る短さの期間です。十あるいは八の分割は、異なる長さの時代と異なる有用性の細分を生み出したでしょう。十二は、この種の計画にとって、賢明な選択です。科学者たちは、数学的および天文学的洗練が、後続のいかなる人間の伝統よりもはるかに大きかったので、前文がスケッチする種類の直接的な工学的推論によってこの数に到達したでしょう──占いによってではなく、美的選好によってではなく、手元の運用に最も適した暦構造は何かを解明することによって。
+
+黄道帯の徴そのもの──牡羊座、牡牛座、双子座、蟹座、獅子座、乙女座、天秤座、蠍座、射手座、山羊座、水瓶座、魚座──は、資料体の読み方ではエロヒム自身の名称、あるいはそれらの直接的な祖先です。十二星座への特定の動物および人間の図像のマッピングは、後の人間文化がゼロから発明したものではありません。それは、後の章がたどる経路を通じてそれらに伝達された天文学的知識から、修正を伴って継承されたものです。天秤座の時代において、図像は新しいものです。それらは設計者自身による黄道の十二の区分に対する概念的速記であり、蠍座の章が論じたように、エロヒムの科学者と芸術家の協働が彼らの手にするすべてのものに生み出した美的真剣さで選ばれました。名称は恣意的ではなかったでしょう。それらは、設計者が各区分に関連付けた特定の質を喚起するように選ばれたでしょう──計画の長い弧にわたって、各時代に行われる作業と相関するようになる質です。それらの相関が最初から予期されていたのか、計画の進行とともに蓄積されたのかは、源資料が答えない問いです。
+
+黄道帯の対立対構造は具体的な注意に値します。なぜならそれは資料体が後の章で詳細に発展させる特徴であり、その最初の技術的扱いをここで受けるに値するからです。十二徴のそれぞれは、黄道を挟んで直接に対立する徴を持ちます。牡羊座と天秤座の対立、牡牛座と蠍座の対立、双子座と射手座の対立、蟹座と山羊座の対立、獅子座と水瓶座の対立、乙女座と魚座の対立です。これらの対はマッピングの人工物ではありません。それらは幾何学の帰結です──円を十二の等しい区分に分割すれば六つの対立対が生まれ、各対は六徴ずつ離れています──しかしエロヒムは、各徴のための図像を選ぶ際、対立に注意を払い、対を挟んで意味が互いに補完する図像を選んだようです。牡羊座と天秤座、雄羊と天秤、衝動と均衡。牡牛座と蠍座、雄牛と蠍、生と死。蟹座と山羊座、蟹と山羊、感情的な家と構造化された頂上。対構造は黄道帯の最も際立った特徴の一つであり、資料体が後に*{% wiki(slug="doubled-signature") %}二重署名{% end %}原則*と呼ぶもの──計画における重要な出来事は、現在春分点が保持する徴だけでなく、与えられた対の両徴の占星術的な刻印を帯びる傾向があるという観察──を支えます。天秤座の時代の作業そのものにとって、牡羊座との対立は直接に関連します。すなわち、天秤座の時代に確立される均衡は、はるかに後の時代において、牡羊座の下で起こる律法と契約の作業に対して試されるでしょう。両徴は単一の軸の対極であり、軸はそれ自体が、計画が自らの長い年代を組織するために用いる道具の一つです。
+
+星座群は計画にとって二つの具体的な仕方で有用です。第一に、それらは基準格子です。星座に対する太陽の位置は、科学者たちに回帰年の何月であるかを告げ、ひいてはどの季節であるか、予想される日々の気温範囲、光レベル、彼らの生物が年間サイクルのどの段階にあるべきかを告げます。射手座の時代の大気作業によって空が地表から確実に可視となる前は、この基準格子は地上から利用できなかったでしょう。その作業の後では利用できます。天秤座の時代は、基準格子が形式化され、名づけられ、目録化され、計画の運用語彙に統合される時代です。
+
+第二に、星座群は計画の長期年代計です。春分点が黄道帯を2,160年あたり一徴の速度で歳差運動するため、所定の瞬間に春分点が位置する特定の星座は時代の署名です。計画は(ラエリアンの年代では)春分点が山羊座にあった時に始まり、作業の進行とともに、徴ごとに黄道帯を後ろ向きに進行します──山羊座、射手座、蠍座、天秤座、乙女座、獅子座、そしてそれ以降。各時代の作業は、千年後にも、その時代に春分点が保持していた徴によって識別可能です。これが、資料体が黄道帯の名称を章題として用いる理由です。それらは装飾ではなく、計画自身の年代の歳差運動の時計盤であり、エロヒムはそれらをそのようなものとして選びました。天秤座の時代の科学者たちにとって、歳差周期のどこにいるかを知ることは、自分たちがどの時代にいるかを知ることであり、これは計画がどこに立っているか、どの生物が創造されたか、何が残っているかに直接の含意を持ちました。
+
+日と年と同様、歳差時代は、天文学から生じ、計画が発明するのではなく用いる自然な単位です。日は地球の自転によって与えられ、年は軌道によって、時代は軸の歳差運動によって与えられます。三つすべては測定されるためにそこにあり、科学者たちは到来した時にそれらを測定しました。黄道帯枠組みはその帰結です──十二徴の分割、対立対、時代ごとの年代です。エロヒムにとって、それのいずれも神話的ではありませんでした。神話は後に来ました──人間文明が枠組みの断片を受け取り、それらを自らの聖なる伝統に織り込んだ時です。計画そのものにとって、黄道帯はエンジニアリングの器具でした。
+
+### VI.3. 特定の空のための生命設計
+
+この節の中心となる新しい素材は、天秤座の時代の天文学が継続する生命設計作業を可能にするために存在したという主張です。以下はその主張を具体的な技術的詳細において発展させます。詳細が利用可能であり、一般的原則はそれによって強化されるからです。
+
+第一にサーカディアン生物学を考えてみましょう。ウイルスより複雑なほぼあらゆる地上生物は、内部時計を維持しています──約24時間サイクルで動き、生物の代謝を外部の昼夜リズムと同期させる、自己持続的な細胞性振動子です。時計は光への受動的な応答ではありません。それは活動的な振動子であり、定常的な暗黒の中でも動き続け、正確な24時間からわずかに漂いながら(ラテン語の *circa diem*、「日に近い」から)、毎朝の光信号によってリセットされます。時計の分子機構は20世紀の最後の数十年間にわたって、主にショウジョウバエにおいて、シアノバクテリア、マウス、その他のモデルからの貢献とともに解明されました。2017年のノーベル生理学・医学賞は、昆虫時計の中核を形成する *period* と *timeless* 遺伝子を特徴づけた業績、そして本質的にすべての真核生物において同じ一般的構造──時計タンパク質が日中に蓄積し夜間に自らの発現を抑制する転写翻訳フィードバックループ──が作動することを確立した業績により、ジェフリー・ホール、マイケル・ロスバッシュ、マイケル・ヤングに授与されました。
+
+哺乳類では、時計は視床下部の視交叉上核と呼ばれる小さな構造に中心があります──約2万個のニューロンが共に身体の残りの主要なペースメーカーを構成します。視交叉上核は、視覚に貢献せずに光に応答する特殊な感光性神経節細胞を介して網膜から直接の入力を受け、その入力を用いて外部の日と自らを同期します。視交叉上核は次に身体の組織全体の末梢時計を調整し、肝臓代謝、腎臓機能、免疫活動、細胞分裂、消化タイミング、体温、血圧、その他数百の変数が24時間日にわたって調整された位相で循環するようにします。時計が乱されると──時差ぼけによって、シフトワークによって、時計遺伝子の遺伝的突然変異によって──結果は、睡眠障害から代謝機能不全、癌リスクの増大まで多岐にわたる生理学的問題の連鎖です。時計は地上生物学の周辺的特徴ではありません。それは地上生命が築かれている深い構造原則の一つです。
+
+エロヒムは、この惑星のための生命を設計するにあたって、時計を正しく得なければなりませんでした。彼らが生み出すすべての生物は、地球の24時間日──23時間日でも26時間日でもなく、地球の自転軸傾斜が生み出す日長の特定の季節下変動を伴う、固有の24時間太陽日──に合致する内部振動子を持たなければなりませんでした。これを正しく得ることは、太陽日を高精度で知ることを意味しました。科学者たちは故郷の世界の生物学から時計設計を単に持ち込むことはできませんでした。なぜなら故郷の世界は異なる日長を持ち、その長さに調律された時計は地球の明暗サイクルと慢性的に位相がずれることになるからです。時計は関連するパラメータから設計されなければならず、それはパラメータが知られていなければならないことを意味しました。天秤座の時代は、設計作業が必要とする精度にそれらがもたらされる時代です。
+
+次に植物における光周性を考えてみましょう。非常に多くの植物種は単に連続的に成長するのではなく、特定の発達移行──開花、結実、休眠、発芽──を一年の特定の時期に合わせ、日長を測定することによってそうします。長日植物は日が臨界長(関連する緯度ではしばしば約15時間)を超える時に開花し、短日植物は日が臨界長より下回る時に開花します。測定は光受容タンパク質──主に赤色光と遠赤色光に応答するフィトクロム、青色光に応答するクリプトクロム──によって行われ、その信号はFT(フロリゲン)タンパク質を含む調節ネットワークに収束し、それは葉から茎頂へと移動し開花を引き起こします。短日植物と長日植物はこのネットワークの配線において異なり、根底にある機構ではありません。両タイプに共通するのは、日長への絶妙な感受性です。臨界閾値の15分あるいは30分の変化は、開花日を数週間ずらすことができます。
+
+植物の光周性機構は、生物学的設計が天文学的精度に依存する最も明瞭な事例の一つです。15時間1分という日長で開花するように調律された植物は、ちょうど15時間ではなく、関連する緯度において意図されたものより1〜2日早くあるいは遅く開花し、完全な生育期にわたって、種子設定と散布の窓における小さなタイミング誤差の累積効果は、生殖的に成功する植物と行き止まりの違いとなりえます。エロヒムは、蠍座の時代後期と天秤座の時代初期の種を実らせる草本と果樹を設計するにあたって──そして継続性原則において、天秤座の時代を通じて乙女座の時代まで配備されるすべてのより洗練された植物を設計するにあたって──、各種の光周性閾値を指定しなければなりませんでした。それらの閾値は、種が育つことを意図された緯度に依存し、地球の自転軸傾斜がその緯度で生み出す日長の特定の季節下変動に依存し、臨界閾値と年間気温および降水サイクルのタイミングとの関係に依存します。これらのいずれかを誤れば、正しい時に開花しない、正しい時に種子を設定しない、設計された環境とその生活サイクルを合致させない植物が生じます。天秤座の時代の天文学的作業は、後続の植物の光周性設計が築かれた基盤でした。
+
+次に潮汐生物学を考えてみましょう。地球上の潮汐は主として地球、月、そして(より少なく)太陽の間の重力相互作用によって生じます。月の12時間半の潮汐周期は、約29.5日のより長い陰暦月、そして新月と満月の間の太陽と月の整列によって生じる大潮小潮の交替と組み合わさり、海洋および沿岸生物の進化を形作ってきた複雑な沿岸水運動パターンを生み出します。多くの沿岸種は、太陽日にではなく(あるいはそれに加えて)潮汐周期に調律された内部時計を持っています。特定の海洋ゴカイ種は生殖行動を特定の月相に同期させます。大きなサンゴ礁系全体にわたるサンゴの大量産卵イベントは、水温、日長、月周期の組み合わせによって、特定の月の特定の夕方にまで及ぶ精度で引き起こされます。沿岸生物学の潮汐への引き込みは海洋生態学への小さな脚注ではありません。それは海洋生態学の浸透的特徴であり、この惑星のための海洋および沿岸生物を生産するいかなる設計プログラムも、最初からそれを組み込まなければなりませんでした。
+
+蠍座の時代の作業のために、科学者たちは植物と支援する土壌生物を設計していました。潮汐生物学はまだ主要な設計制約ではありませんでした。なぜなら植物生物圏は大陸的であり、最初の海洋生物はまだ導入されていなかったからです。次に来る乙女座の時代の作業のためには、それは中心的なものとなるでしょう──乙女座の時代は海洋生態系が構築される時代です。しかし天秤座の時代は天文学と生物学のインターフェースが解明される時代であり、そのインターフェースは潮汐次元を含みます。科学者たちは、月の周期、大潮小潮パターン、これらのパターンが緯度と海岸線幾何学とともにどう変化するかを特徴づけなければなりませんでした。生殖タイミングが進入する環境と合致するような海洋生物を設計する前にです。これは天秤座の時代の天文学が後続の生物学的設計に直接に供給する第二の場所です。
+
+そして最後に、季節適応の集合を考えてみましょう。落葉樹は秋に葉を落とし春に新しい葉を生やします。渡り鳥は夏の繁殖地と冬の摂食地の間を数千キロメートル旅します。冬眠する哺乳類は代謝を遅らせ寒い月の間眠ります。爬虫類と両生類は様々な深さで季節休眠に入ります。昆虫は特定の越冬形態を生み出します。これらすべては季節適応であり、これらすべては、生物が年の進行を測定し、気温、日長、食物利用可能性の今後の変化を予期する能力に依存しています。測定機構は様々です──ある生物は日長を直接用い、ある生物は累積温度の合計を用い、ある生物は複数の手がかりの間の相互作用を用います──しかし共通する要件は、生物の季節時間の内部感覚が外部現実との整合を保つことです。漂流は破滅的です。最初の大雪の前に冬眠に入れない熊は死にます。最初の厳しい霜の前に葉を落とせない木は細胞損傷を被ります。誤った時に誤った場所に渡る鳥は飢えます。
+
+エロヒムが設計した各種について、季節挙動は指定されなければならず、タイミングの手がかりは特定されなければならず、臨界閾値は設定されなければなりませんでした。赤道から極地まですべての緯度にわたる大陸生態系のために、季節挙動は各緯度ごとに異なる仕方で指定されなければなりませんでした──弱いあるいは欠如した季節サイクルを持つ熱帯種、降水量で駆動される季節性を持つ亜熱帯種、顕著な夏冬対比を持つ温帯種、短い生育期と長い寒い冬に適応した亜寒帯種、高緯度における連続的な光あるいは連続的な暗黒を含む極端な光周性に適応した極地種です。これらの仕様のすべては天文学的入力を必要としました。すなわち、この緯度では日長がどれだけ変動するか、太陽がいつ最大高度に達するか、いつ長期間にわたって地平線下に沈むか、季節温度曲線は何であり、それは太陽の位置からどう遅れているか。設計プログラムは天秤座の時代の天文学的作業が提供する精度にしかこれらの問いに答えられませんでした。その精度をもって、設計プログラムは進めることができました。それなしには、設計プログラムは暫定的なパラメータで動かなければならず、生物は暫定性の帰結を負ったでしょう。
+
+一般的な像は、それでは、こうです。エロヒムが設計していた生物学は包括的に時間的および空間的に構造化されていました。日に調律されたサーカディアン振動子。特定の緯度における年間日長変動に調律された光周性閾値。月の周期に調律された潮汐時計。回帰年に調律された季節挙動。移動、冬眠、開花、結実、交尾、出産──大陸全体の数百あるいは数千の種におけるこれらすべての過程は、正しい時に、正しい場所に、正しい条件の下で作動するように設計されなければなりませんでした。天秤座の時代が提供した天文学は装飾ではありませんでした。それは、時間的に構造化されたあらゆる生物学的過程が指定された基質でした。
+
+{{ figure(src="timeline/age-of-libra-biology-time", alt="月明かりに照らされた研究テラスで、制御された光と開かれた空の下で様々な成長段階の植物が並んでいる。", caption="図3 - 生物学的時間:太陽と月のリズムに調律された成長しつつある生物圏。") }}
+
+### VI.4. 生物群系設計と緯度構造
+
+天秤座の時代の天文学的作業の第二のエンジニアリング上の帰結は、生物圏の地理的構造に関わります。地球は単一の均一な生態系を支えていません。それは生物群系の混合──熱帯雨林、温帯落葉樹林、北方針葉樹林、熱帯サバンナ、温帯草原、暑い砂漠、寒い砂漠、ツンドラ、地中海性低木地、高山帯、湿地──を支えており、それぞれが特定の地理的領域を占め、それぞれが温度、降水量、季節変動の特定の組み合わせに適応しています。生物群系間の境界は恣意的ではありません。それらは主として三つの要因の相互作用によって決定されます。すなわち、領域の緯度(平均太陽入力を設定する)、海洋への近さと大陸幾何学(降水パターンを形作る)、そして標高(高度の大気圧と温度勾配への影響を通じて温度と降水量の両方を修正する)です。これら三つすべては、直接あるいは間接に、天秤座の時代の作業が測定した天文学的パラメータによって形作られています。
+
+気候の緯度構造は、地球の球状幾何学とその自転軸傾斜の帰結です。赤道は一年中表面にほぼ垂直な日光を受け、極は短い年間部分に低角度の日光を、長い年間部分に日光なしを受けます。この差異的加熱は地球規模の大気循環──赤道近くのハドレー循環、中緯度のフェレル循環、極近くの極循環──を駆動し、これが今度は惑星の主要な生物群系帯を定義する降水と乾燥の緯度帯を生み出します。熱帯収束帯では、赤道近くで暖かい湿潤空気が上昇し、赤道雨林帯を生み出します。約北緯および南緯30度のハドレー循環の下降部分は、世界の大砂漠が集中する亜熱帯砂漠帯を生み出します。極前線では、中緯度の気象系が極地空気と相互作用し、温帯降雨帯を生み出します。極高気圧領域は寒冷で乾燥した極条件を生み出します。これらのパターンのすべては、地球の自転速度、自転軸傾斜、球状幾何学、太陽エネルギー入力の組み合わせに依存しており──これらはすべて、特定の緯度帯のために生物を設計する前に、天秤座の時代の作業が特徴づけなければならなかったパラメータでした。
+
+具体例を考えてみましょう。熱帯雨林生物群系は、緯度が一年中高い太陽入力を提供し、大気循環が一貫した降水を届け、季節変動が最小である場所で発生します。この生物群系のために設計された生物は、年間を通じて連続的な成長を維持することができ、常緑葉構造を支えることができ、季節的ではなく連続的な生殖を生み出すことができます。熱帯雨林に配備される特定の種パッケージは、季節変動が顕著で、落葉が冬の適応であり、開花と結実が特定の年間窓に集中する、北緯35度の温帯林に配備される種パッケージとは異なります。両方の生物群系は個々の種のレベルで異なる設計選択を必要とし、それらの設計選択は地域の天文学的条件の精密な知識に依存します。
+
+また温帯草原生物群系も考えてみましょう。これは大陸内部の中緯度で、海洋から遠く、降水量が沿岸地域より低く、季節温度変動が極端な場所で発生します。草、草本顕花植物、適応した放牧動物が特徴的な群集を形成します。草自体は森林樹とは異なる仕方で設計されています。それらは先端からではなく基部から成長し(放牧や火災からの回復を可能にする)、広範な根系を持ち(乾燥した夏を生き延びることを可能にする)、その緯度と大陸位置で利用可能な特定の生育期窓に合わせた季節スケジュールで開花し種子を設定します。中緯度の大陸草原のために設計された草は熱帯気候に植えられても繁栄しません。熱帯の草は中緯度では繁栄しません。適応は精密であり、精密さは天文学的入力を必要とします。
+
+北極ツンドラのすぐ南の高中緯度における北方針葉樹林生物群系は、それ自身の設計問題を提示します。生育期は短く、冬は長く厳しく、降水量はほとんど雪として降り、土壌は薄く栄養素に乏しいです。針葉樹──トウヒ、モミ、マツ、カラマツ──はこれらの条件に適応しています。それらの針状の葉は長い乾燥した冬の水分損失に抵抗し、その円錐形は雪を落とし、その酸性の落葉は彼らが育つ土壌化学を修正します。彼らの成長のタイミング、春の芽吹きと秋の耐寒化を引き起こす光周性の手がかり、組織の耐凍性──これらすべては特定の北方条件に調律されており、これは今度は緯度、大陸位置、根底にある天文学的パラメータの相互作用に依存します。
+
+生物圏を設計するエロヒムにとって、生物群系構造は偶発的な創発的特性ではありませんでした。それは、超大陸の各緯度および地理帯に配備された特定の種パッケージを通じて実装された設計選択でした。蠍座の時代の間に、最初の植物種は暫定的な構成で大陸全体に配備されていました。天秤座の時代の後期までに、それらの構成は次の時代が築き上げる成熟した生物群系構造へと精緻化されつつありました。精緻化は天文学的精度に依存しました。なぜなら生物群系の境界そのものが天文学的パラメータに依存するからです。熱帯帯は太陽の南中高度がある閾値を超える緯度まで広がり、温帯帯は冬の太陽がまだ落葉樹の回復のために十分な暖かさを提供する場所まで広がり、北方帯は夏の日長が短い生育期を補償する場所まで広がり、極地帯は冬の暗黒期が連続的な生物学的活動には長すぎる場所まで広がります。閾値は天文学的です。生物群系はその帰結です。生物群系を生み出す設計プログラムは、したがって、閾値を特徴づける天文学的プログラムの下流にあります。
+
+天秤座の時代にとっての帰結は、天文学的作業と生物学的作業は、たまたま並行して進んでいた二つの別個の活動ではありませんでした。それらは、天文学的測定が生物学的仕様に直接に供給する、単一の統合された設計プログラムの二つの段階でした。自転軸傾斜を測定していた科学者たちは、緯度別種パッケージを設計していた科学者たちの同僚でした。結果が比較される集会は天文学的および生物学的両方の結果を含んでいたでしょう。なぜなら二つの結果集合は共に必要だったからです。そしてチーム──蠍座の章で導入された党派的チーム、それぞれが故郷の世界の構成集団に対応する──のそれぞれは、両種の作業を行っていたか、各党派内の密接に調整された下位チームがそれらを行っていたでしょう。なぜなら党派の生物圏への種貢献は、それらの種が設計される条件に関する党派の知識から分離できなかったからです。天文学は生物学の基盤であり、生物学は天文学の目的でした。
+
+### VI.5. 月の問題、技術的に
+
+月は、本章の先の節が指摘したように、いかなる合理的な基準においても十分に異常であり、その起源と創造の連続における存在は具体的な注意に値します。この問いに関する資料体の正典的な立場は簡潔に述べられ、読者が資料体が何を保持するかを知るために、平明に一度述べておく価値があります。天の車輪の読み方の中では、月は初期の創造の連続の間にはおそらく存在していませんでした──確実に山羊座、射手座、蠍座の時代の間には存在せず、おそらく天秤座の時代の間にも存在していませんでした。それは資料体が特定を装わない何らかの後の時点で置かれました。ラエリアンの源資料は月の起源について扱っておらず、資料体は年代の主張をしません。資料体が観察するのは、月の物理的異常と起源についての源の陳述の不在の組み合わせが問いを開いたままにしており、月が地上系への後の追加であるという読み方が利用可能な証拠と整合するということです。
+
+物理的異常は簡潔な技術的概要に値します。なぜならそれらは資料体の立場の証拠基盤だからです。第一に、主星に対する月の大きさです。地球の直径の約四分の一で、月は親惑星に対して太陽系で最大の衛星です。地球と月の系は惑星と衛星の系ではなく、二重惑星と記述されることがあります。外惑星の衛星のほとんどはその主星に対して小さいです。月のその種類の衛星に対する相対的サイズは統計的に異常です。
+
+第二に、軌道の円形性です。月の軌道離心率は約0.055で、自然衛星にとっては低いです。同程度の質量の衛星のほとんどはより離心的な軌道を持ちます。ほぼ円形の軌道は長期間にわたって力学的に安定しており、特定の形成機構あるいは特定の条件を必要とする潮汐円形化の履歴のいずれかを含意します。
+
+第三に、太陽との角度直径の一致です。地球の表面から、月と太陽はほぼ正確に同じ角度直径──約0.5度──を持っており、これは月が太陽の円盤を正確に覆う皆既日食を生み出す数学的条件です。この一致は天文学法則によって要求されません。太陽は月の直径の約400倍であり、月から地球までの距離の約400倍離れているため、二つの角度直径はたまたま一致します。一致は統計的に印象的です。月がいくらか近いかいくらか遠いか、いくらか大きいかいくらか小さいかであれば、皆既日食は現在のような特定の視覚現象を生み出さないでしょう。これが無意味な偶然であるか、別の何かであるかは、月について他に何を知っているかに依存します。
+
+第四に、密度です。月の平均密度は約3.34グラム毎立方センチメートルで、地球の5.51より実質的に低いです。標準的な巨大衝突仮説では、この違いは、月が地球のような実質的な金属コアを含むのではなく、主に地球のより軽いマントル物質から形成されたことによるとされます。仮説は密度を説明しますが、ほとんどの衛星に当てはまる単純な円盤からの集積に比べてより制約された特定の衝突幾何学と特定の衝突後条件を要求する代償を払ってです。
+
+第五に、アポロ計画からの地震観測です。アポロ宇宙飛行士によって設置され1977年までデータを送信し続けた地震計は、月が隕石によってあるいは意図的に衝突させられた宇宙船によって打たれた時、異常に長引く地震信号を生み出すことを記録しました。信号は──時に数時間──、地球の組成によって比較的素早く減衰される地球上の地震イベントによって生み出される対応する信号よりもはるかに長い持続時間にわたって持続します。長持続する月の鳴動は、一部の分析家によって部分的に空洞である、あるいは空洞を含む内部構造と整合すると解釈されてきました。ただし主流の解釈は、鳴動は空洞性を要求せずに月のマントルの特定の性質を反映するというものです。いずれにせよ、鳴動は月の内部構造に関わる観察であり、その起源のいかなるモデルをも制約します。
+
+第六に、1960年代後半にジェット推進研究所のミュラーとショグレンによって地図化された重力異常です。月の表面側のいくつかの大きな円形の海の下のいわゆるマスコン(質量集中)は、標準的な衝突盆地モデルが完全に説明することが困難であった重要な密度異常を示しています。同じマッピングは、少なくとも一つの顕著な負の質量集中──地下密度が周囲の岩石より実質的に低いように見える領域──を特定しました。地下空洞あるいはボイドはこの署名を生み出すでしょう。他の説明は可能ですが、負の質量集中は均一に冷えた溶融岩体が生み出すものではありません。
+
+これらの観察のいずれも、個々に取り上げれば、非慣例的な説明を要求しません。それぞれは巨大衝突仮説あるいはその様々な精緻化の中で受け入れられます。しかし合わせて取り上げると、それらは自然衛星にとっては異常なパターンを構成しており、資料体はそのパターンを、月が慣例的な意味での自然衛星ではないという読み方と整合するものとして記録します。資料体が行わないことは、月がいつあるいはどのようにして現在の場所に至ったかを知っていると主張することです。源資料は沈黙しており、証拠は示唆的ですが決定的ではなく、責任ある立場は、解決を装わずに開いた問いを記録することです。本章は先に進み、月の問題を証拠が残す状態のままにします。
+
+### VI.6. 私たち自身の瞬間への貫流
+
+前章で確立されたパターンに従って、最後の観察がこの節を閉じます。天秤座の時代の作業が完全に統合したであろう天文学と生物学のインターフェースは、私たち自身の文明が今ようやくその具体的構成要素を組み立て始めている知識体系です。構成要素は存在しますが、統合はまだ存在しません。
+
+天文学側では、天秤座の時代の作業が必要とした特定の精度インフラ──世代を越えて維持される大陸規模の恒星目録、主要な星々に対するサブ秒角の位置精度、歳差運動と他の長周期運動の機能的理解──は、過去半世紀にわたって、最も集中的には過去十年間に、私たちが真剣な形で発展させてきたものです。1989年に打ち上げられた欧州宇宙機関のヒッパルコスミッションは、約11万8千個の星々の位置をミリ秒角の精度で測定し、最初の高精度の宇宙ベース恒星目録を生み出しました。その後継機であるガイアは、2013年に打ち上げられ2025年初頭まで運用され、約20億個の星々の位置、運動、視差を目録化しており──これは人類史における単一最大かつ最も精密な恒星目録を構成する人口調査です。2022年6月に公開されたガイアのデータリリース3は、視差と固有運動を伴う14億6千万の天体源について完全な天体測定解を含みました。現在処理中のガイアデータリリース4は2026年後半に予想されており、精度を拡張し追加のデータ製品を加える予定です。将来のミッション──特にサブマイクロ秒角の天体測定のための提案されたテイアミッション──は、精度をさらに押し進めるでしょう。
+
+しかしながら、ガイアは生命設計プログラムのための較正インフラではありません。それは調査ミッションであり、天文学者たちが後続の研究で用いるためのデータを生み出します。天秤座の時代の作業は、調査データを超えて、進行中の生物学的設計プロセスへの天文学的パラメータの具体的な統合を必要としたでしょう。この統合こそが私たち自身の時間生物学が発展させ始めていることです。ショウジョウバエの時計遺伝子、哺乳類の視交叉上核構造、植物の光周性機構、沿岸生物の潮汐時計を特定した研究プログラム──これらすべては過去50年間の作業であり、最も重要な概念的進展は過去25年間に集中しています。2017年のホール、ロスバッシュ、ヤングへのノーベル委員会の認定は、事実上、地上生物のタイミングの基本構造が解明されたという正式な承認でした。残された作業は、その構造を設計作業に統合すること──生物が時間を測定する仕方の理解を取り、その時間的挙動が継承されるのではなく指定された生物を生み出すためにそれを用いることです。
+
+私たちはこの第二段階のまさに始まりにいます。農業研究は、特定の光周性応答を持つように工学的に設計された作物品種を生み出し始めています──大豆、米、その他の季節的に調節される作物の品種で、臨界日長閾値が、もともと適応していたものとは異なる緯度で作物が育つことを可能にするように修正されたものです。春化──一部の植物が開花するために延長された寒い期間を要求すること──の分子機構が特徴づけられつつあり、場合によっては非季節的条件下で季節作物の生産を可能にするために遺伝的修飾を通じて回避されつつあります。蠍座の章がエロヒムの細胞設計作業の現代的類似物として言及したCRISPRベースの編集ツールは、新規環境に時間的挙動を調律できる生物を生み出すことを目標として、サーカディアンおよび光周性遺伝子に適用され始めています。これは初期の作業であり、まだ統合されておらず、まだ生物圏設計を構成する規模に近づいていません。しかしこれは、資料体の読み方では、天秤座の時代の作業が15,000年前にはるかに高い成熟度レベルで遂行していた特定の研究プログラムの開始です。
+
+生物群系側では、状況は同等です。生物群系がどう組織されているかについての私たちの生態学的理解──ハドレー循環、緯度気候帯、標高で修正された気温と降水勾配、海洋、大陸、大気循環の相互作用──は20世紀の達成であり、一般的な輪郭においては実質的に完成していますが、具体的な機構的詳細においてはまだ精緻化されつつあります。私たちが生物群系を記述するだけでなく設計あるいは復元する能力は、はるかに若く、はるかに粗雑です。保全生物学と生態的復元プロジェクトは、断片的な残余から特定の生態系を再構築する方法、特定のキーストーン種を再導入する方法、撹乱された生態系が安定した構成に戻る長い遷移動態を管理する方法を学んできました。これらのプロジェクトは典型的にはヘクタール、せいぜい数千ヘクタールの規模で活動し、大陸の規模ではなく、新しい種を設計するのではなく既存の種で活動します。意図された場所の特定の天文学的および気候パラメータに調律された、種パッケージ、土壌マイクロバイオーム、植物と動物の相互作用、遷移軌道を指定する、生物群系のゼロからの設計は、私たちの文明がまだ試みていないことです。しかし構成要素は見えています。復元生態学、気候モデリング、種設計ツール、天文学的目録、時間生物学。すべてが、それぞれ自身の軌道に沿って進んでいます。残るのは統合です。
+
+貫流は前章と同じです。私たちは、天秤座の時代の作業が成熟したインフラとして所有していたであろうものの始まりにいます。科学者たちが20,000年前に運用形態で持っていたものを、私たちは現在、別々の研究コミュニティにわたって、まだ未来にある統合を伴って、断片で構築しています。その未来は、私たちの文明が現在見える軌道に沿って続けば、最終的には天秤座の時代が惑星規模で配備したものに似た能力を生み出すでしょう。能力が利用可能になった時、それを所有する文明は、特定の天文学的条件に調律された生物圏を、この惑星上、あるいはそれが到達するいかなる他の惑星上にも設計することができるでしょう。そのような設計を引き受けるかどうか、どのような制約の下で、どのような目的のためかは、私たち自身の未来と、最終的に私たちについて書かれるであろう歴史の後の章に属する問いです。
+
+## VII. 本文とその信号
+
+第4日の記述の一つの特徴は注目に値し、それはラエリアン的読み方が特に容易に説明する特徴です。
+
+第4日の創世記本文は、機能について異常に具体的です。それより前と後の日々は、操作──地は草を生じ、水は生き物を生じ──を、出力を前面に出す言語で記述しています。第4日は用途を前面に出します。לְהַבְדִּיל(*le-havdil*)、分けるため。לְאֹתֹת וּלְמוֹעֲדִים וּלְיָמִים וְשָׁנִים(*le-otot u-le-mo'adim u-le-yamim ve-shanim*)、しるしと季節と日と年のため。לְהָאִיר עַל־הָאָרֶץ(*le-ha'ir al ha-aretz*)、地に光を与えるため。לִמְשֹׁל(*li-mshol*)、治めるため。動詞はすべて目的的です。本文は、私たちに何が造られたかではなく、そこにあったものが何のために*造られた*かを告げているように見えます。慣例的な読み方では、これは奇妙です──第4日が太陽と月が創造される日であれば、なぜ本文はそれらの造ることではなく機能を強調するのでしょうか。ラエリアン的読み方では、この奇妙さは解消されます。第4日は太陽と月が創造される日ではありません。それらが用に供される日です。本文が機能を強調するのは、機能こそがその日が関わるものだからです。
+
+注目に値するさらなる詳細です。ヘブライ語本文は、光が בִּרְקִיעַ הַשָּׁמַיִם(*birqia ha-shamayim*)、「天の大空に」あると指定しており──第2日の大気作業で導入された同じ語、רָקִיעַ(*raqia*)を用いています。これは整合しています。第2日の *raqia* は、表面の水と上の雲層の間の整理された大気帯でした。第4日の光は、この整理された帯の*中に*置かれ、つまりそれらは表面からそれを通して可視となります。射手座の時代の大気作業の前は、太陽と星々は密な雲覆いを通して表面から見えなかったでしょう。大気作業の後では、見えます。本文は、その前置詞の選択と先の語の再使用において、第4日の天文学的統合が第2日の大気準備によって可能にされたという論理を保持しています。光は第4日に機能的となります。なぜなら第2日が下から観察可能なものとしたからです。
+
+第4日の動詞と先の日々の動詞の間の文法的非対称性は、さらなる言葉に値します。第1日はその冒頭で בָּרָא(*bara*)を用います──*「はじめに、エロヒムは天と地を創造された」*──そして動詞は根源的創造、起源化の重みを担います。第3日は地の発芽に תַּדְשֵׁא(*tadshe*)を用います。これはヒフィル使役形であり、新しい生物学的出力の意図的な生産を強調します。第4日は連続して三つの異なる動詞を用います──יְהִי(*yehi*、「あれ」)、וַיַּעַשׂ(*vaya'as*、「そして彼は造った」、*asah* から)、וַיִּתֵּן(*vayiten*、「そして彼は置いた」、*natan* から)。三つの動詞のそれぞれは異なる意味的負荷を担います。*Yehi* は存在の宣言です──第1日に光そのものが召喚された語です。*Asah* は構築あるいは配置の動詞で、前節が述べたまさにその仕方で *bara* と区別されます。*Natan* は配置の動詞、与えることの動詞、何かを特定の場所に位置づけることの動詞です。三つの動詞は共に、存在すると宣言されたものが構築あるいは配置され、最終的に属するべき場所に置かれる操作を記述します。これは宇宙論的なものではなく、エンジニアリング操作の文法的署名です。光は無から召喚されるのではありません。それらは存在すると述べられ、次に特定の役割の中に配置され、特定の位置に置かれます。ヘブライ語は第4日の作業の運用構造を見事な忠実さで保持しています。
+
+最後に、第4日の終わりの承認──וַיַּרְא אֱלֹהִים כִּי־טוֹב(*vayar Elohim ki tov*)──は定型的なものです。ここに二重の承認はありません。天文学的統合は、実質的なものでしたが、第3日に見られた二重定型を要求するレベルには上昇しませんでした。これは、第3日の二重化が二つの主要な操作(大陸の完成と生物学的開始)の組み合わせを反映したのに対して、第4日は単一の種類の一つの大きな操作であるという読み方と整合します。本文の文法は、ラエリアン的読み方が予測する通りに振る舞い続けます。
+
+## VIII. 天秤座の時代とは何か
+
+本章が閉じる前に、より大きな連続の中で天秤座の時代が何であるかを平明に述べる価値があります。
+
+天秤座の時代は天文学的統合の時代です。それは、科学者たちが準備期に始めた較正作業を完成させ、この惑星の上の空が彼らの計画の完全に統合された部分となる時代です──時間管理のため、航行のため、生物学的較正のため、そして彼らの前に残るプログラムの完全な持続期間にわたる長期的方位のためです。作業は観想的ではありません。それは道具的です。エロヒムは、美的鑑賞という意味での星を見る人たちではありませんでした。確かに彼らはそれもできたでしょうが。彼らは器具の較正を必要とする操作者たちであり、空は彼らがなしには済ませられない器具でした。
+
+天秤座の時代はまた、基地の場所の機能的性格が完全に明らかになる時代です。緯度、標高、大気透明度の理由で山羊座の時代の調査の間に選ばれた天文台の場所は、天秤座の時代に作動する天文学的ステーションとなります。元の超大陸上のこれらの場所の特定の位置は私たちには回復不能です。なぜなら超大陸の分裂に続いた大陸移動が、それらが残したいかなる物理的な目印をも消去あるいは再配置してしまったからです。しかし、そこで開発された天文学的知識は断片的な形で生き残り、後の世代を通じて伝達され、最終的に来るべき古代人間文化の伝統に現れるでしょう。その伝達の特定の経路──天文学的知識がどのようにして天秤座の時代の天文台から、創造の連続の後続の時代を経て、最初の人間文明にまで長い旅をしたか──は、この資料体の前にある章の主題です。
+
+天秤座の時代は、同様に、生物学的計画がゆっくりとした基礎的作業を続ける時代です。植物が多様化します。分解者群集が成熟し広がります。菌類が菌糸ネットワークを拡張します。ミミズと最初の節足動物が土壌を再構築する長い作業を続けます。腐植が蓄積します。大陸の地面は、2,000年をかけて、後続の時代が導入するより大きな生命形態を支えることができる生きた媒体となります。この作業は劇的ではありません。それは創世記には記録されていません。創世記は生物圏の微生物および無脊椎動物基質のための語彙を持たないからです。しかしそれは、超大陸のあらゆるヘクタールにわたって、連続的に起こっており、それなしには後に来るものは何も可能ではないでしょう。天秤座の時代は地面の時代です。
+
+そして天秤座の時代は、最終的に、二つの計画──天文学的および生物学的──の間の統合が完成にもたらされる時代です。天秤座の時代の研究室で設計されている生物は、彼らが生きる空の精密な知識をもって設計されています。彼らのサーカディアン時計は太陽日に分単位で測定される精度に調律されています。彼らの光周性閾値は意図された緯度における年間日長変動に調律されています。彼らの潮汐感受性は月の周期に調律されています。彼らの季節挙動は回帰年に調律されています。超大陸全体に形をとりつつある生物圏は、時間的に構造化されたすべての特徴がこの時代が必要な精度にもたらした天文学的パラメータの表現である生物圏です。空と地面は、天秤座の時代において、互いに対して均衡をとっています──この時代の副題が、この時代が生み出す作業の中で文字通りになっています。
+
+{{ figure(src="timeline/age-of-libra-sky-ground", alt="月明かりに照らされた精密な空の下に広がる広大な緑の生きた平原と、地平線に立つ静かな天文台のシルエット。", caption="図4 - 空と地面:生きた地球に対して均衡をとる天文学的リズム。") }}
+
+次の時代は、最初の動物生命が現れる時代です──海中に、空中に、陸上に。それは魚、鳥、そして源が龍と呼び、現代科学が恐竜と呼ぶ大型陸生生物のカテゴリーの時代です。これら最後の二つの群の関係は、天の車輪の読み方では、付随的ではありません。現代古生物学は、恐竜と鳥の間の真の祖先関係を確立しており、鳥は適切には恐竜系統の生き残った枝として理解されます。鳥と恐竜を同じ創造的時代に置く源の配置は、この発見と整合しており、私たちはそれに戻ります。その時代は乙女座の時代であり、それに続く章の主題です。
