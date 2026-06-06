@@ -12,6 +12,7 @@ header_image = "/images/articles/example-header.jpg"
 featured = true
 
 [[extra.references]]
+id = "foundational-text-on-complex-topics"
 title = "Foundational Text on Complex Topics"
 author = "Dr. Jane Smith"
 publication = "Journal of Complex Studies"
@@ -20,6 +21,7 @@ url = "https://example.com/foundational-text"
 description = "The seminal work that established the framework we discuss in this explainer."
 
 [[extra.references]]
+id = "modern-perspectives-on-topic-analysis"
 title = "Modern Perspectives on Topic Analysis"
 author = "Prof. John Doe"
 publication = "Academic Press"

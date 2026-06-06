@@ -20,6 +20,32 @@ see_also = [
     { title = "Elohim's Home Planet", path = "wiki/elohim-home-planet", description = "The planet of origin described by Raël after his 1975 visit." },
 ]
 
+[[extra.references]]
+id = "genesis"
+locator = "Genesis 1:26; Genesis 3:22; Genesis 11:7; Psalm 82:1"
+note = "Primary Hebrew Bible passages for the plural-subject and divine-council readings."
+
+[[extra.references]]
+id = "the-book-which-tells-the-truth"
+locator = "Chapter 1:51"
+note = "Foundational Raelian source for the Elohim as biological beings like humans."
+
+[[extra.references]]
+id = "those-gods-who-made-heaven-and-earth"
+note = "Jean Sendy's early philological-historiographic extraterrestrial reading of Elohim."
+
+[[extra.references]]
+id = "a-gentlemans-joyous-esotericism"
+note = "Academic engagement with Sendy's ancient-astronaut reading."
+
+[[extra.references]]
+id = "the-bible-is-not-a-sacred-book"
+note = "Mauro Biglino's strict-literal reading of the Hebrew Bible."
+
+[[extra.references]]
+id = "escaping-from-eden"
+note = "Paul Anthony Wallis's comparative reading of Genesis and the Elohim."
+
 [extra.infobox]
 hebrew_form = "אֱלֹהִים"
 transliteration = "ʾĕlōhîm"

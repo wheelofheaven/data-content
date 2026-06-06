@@ -12,6 +12,34 @@ entry_type = "text"
 alternative_names = ["Tanakh (Hebrew: תָּנָ״ךְ)", "the Hebrew Scriptures", "the Jewish Bible", "Mikra (Hebrew: מִקְרָא, 'reading')", "the Old Testament (Christian-tradition designation)", "the Hebrew Old Testament", "the canonical Hebrew Scriptures"]
 timeline = ["multi-age"]
 
+[[extra.references]]
+id = "tanakh"
+note = "Canonical Jewish-tradition framing of the Hebrew Bible."
+
+[[extra.references]]
+id = "sefaria"
+note = "Primary digital access point for Hebrew Bible texts and related Jewish source traditions."
+
+[[extra.references]]
+id = "genesis"
+note = "Principal primeval-history text engaged across the Wheel of Heaven framework."
+
+[[extra.references]]
+id = "the-book-which-tells-the-truth"
+note = "Foundational Raelian source for the framework's reading of Hebrew Bible creation material."
+
+[[extra.references]]
+id = "those-gods-who-made-heaven-and-earth"
+note = "Jean Sendy's source-textual antecedent for the corpus's extraterrestrial reading."
+
+[[extra.references]]
+id = "the-naked-bible"
+note = "Mauro Biglino and Giorgio Cattaneo's strict-translational alternative-history reading."
+
+[[extra.references]]
+id = "escaping-from-eden"
+note = "Paul Anthony Wallis's Genesis-focused comparative reading."
+
 [extra.infobox]
 type = "Foundational source-textual entity; the principal canonical Hebrew-language textual corpus that operates at the structural center of the broader corpus framework"
 language = "Biblical Hebrew principally; Biblical Aramaic in select passages (Daniel 2:4b-7:28, Ezra 4:8-6:18 and 7:12-26, Jeremiah 10:11, Genesis 31:47)"
