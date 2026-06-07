@@ -6,7 +6,7 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
-category = "Teología y Tradiciones"
+category = "Theology & Traditions"
 claim_type = "inferred"
 editorial_pass = "2026-05"
 alternative_names = ["Mapa intertextual del canon raeliano", "Textos y tradiciones citados en el canon raeliano", "Campo intertextual del canon raeliano", "El horizonte de fuentes del canon"]
@@ -196,4 +196,3 @@ Vale la pena señalar algunas tensiones claras para el trabajo futuro de Wheel o
 - [Wikipedia — Édouard Dhorme](https://en.wikipedia.org/wiki/%C3%89douard_Dhorme)
 - [Wikipedia — Crónica de Akakor](https://en.wikipedia.org/wiki/Chronicle_of_Akakor)
 - [Wikipedia — Shi'ur Qomah](https://en.wikipedia.org/wiki/Shi%27ur_Qomah)
-

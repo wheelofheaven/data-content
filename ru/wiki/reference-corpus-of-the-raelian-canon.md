@@ -6,7 +6,7 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
-category = "Богословие и традиции"
+category = "Theology & Traditions"
 claim_type = "inferred"
 editorial_pass = "2026-05"
 alternative_names = ["Интертекстуальная карта раэлианского канона", "Тексты и традиции, цитируемые в раэлианском каноне", "Интертекстуальное поле раэлианского канона", "Горизонт источников канона"]

@@ -196,4 +196,3 @@ reading = "interpretive"
 - [Wikipedia ── エドゥアール・ドルム](https://en.wikipedia.org/wiki/%C3%89douard_Dhorme)
 - [Wikipedia ── アカコールのクロニクル](https://en.wikipedia.org/wiki/Chronicle_of_Akakor)
 - [Wikipedia ── シウル・コマー](https://en.wikipedia.org/wiki/Shi%27ur_Qomah)
-

@@ -196,4 +196,3 @@ reading = "interpretive"
 - [維基百科——愛德華·多爾姆](https://en.wikipedia.org/wiki/%C3%89douard_Dhorme)
 - [維基百科——《阿卡科爾編年史》](https://en.wikipedia.org/wiki/Chronicle_of_Akakor)
 - [維基百科——Shi'ur Qomah](https://en.wikipedia.org/wiki/Shi%27ur_Qomah)
-
