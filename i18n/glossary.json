@@ -1,7 +1,7 @@
 {
   "$schema": "./glossary-schema.json",
-  "version": "1.4.0",
-  "updated": "2026-06-05",
+  "version": "1.5.0",
+  "updated": "2026-06-07",
   "description": "Terminology glossary for consistent translations across all languages",
   "terms": [
     {
@@ -13,6 +13,7 @@
         "de": "Elohim",
         "es": "Elohim",
         "fr": "Élohim",
+        "he": "אלוהים",
         "ja": "エロヒム",
         "ko": "엘로힘",
         "ru": "Элохим",
@@ -30,6 +31,7 @@
         "de": "Jahwe",
         "es": "Yahvé",
         "fr": "Yahvé",
+        "he": "יהוה",
         "ja": "ヤハウェ",
         "ko": "야훼",
         "ru": "Яхве",
@@ -46,6 +48,7 @@
         "de": "Raëlismus",
         "es": "Raelismo",
         "fr": "Raélisme",
+        "he": "ראליזם",
         "ja": "ラエリアン・ムーブメント",
         "ko": "라엘리안 운동",
         "ru": "Раэлизм",
@@ -78,6 +81,7 @@
         "de": "Zeitalter des Wassermanns",
         "es": "Era de Acuario",
         "fr": "Ère du Verseau",
+        "he": "עידן הדלי",
         "ja": "みずがめ座の時代",
         "ko": "물병자리 시대",
         "ru": "Эпоха Водолея",
