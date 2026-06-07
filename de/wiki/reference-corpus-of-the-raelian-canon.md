@@ -6,7 +6,7 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
-category = "Theologie & Traditionen"
+category = "Theology & Traditions"
 claim_type = "inferred"
 editorial_pass = "2026-05"
 alternative_names = ["Intertextuelle Karte des raëlianischen Kanons", "Im raëlianischen Kanon zitierte Texte und Traditionen", "Intertextuelles Feld des raëlianischen Kanons", "Der Quellenhorizont des Kanons"]

@@ -6,7 +6,7 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
-category = "Théologie et traditions"
+category = "Theology & Traditions"
 claim_type = "inferred"
 editorial_pass = "2026-05"
 alternative_names = ["Cartographie intertextuelle du canon raélien", "Textes et traditions cités dans le canon raélien", "Champ intertextuel du canon raélien", "L'horizon des sources du canon"]
@@ -196,4 +196,3 @@ Quelques tensions nettes méritent d'être signalées pour les travaux futurs de
 - [Wikipédia — Édouard Dhorme](https://en.wikipedia.org/wiki/%C3%89douard_Dhorme)
 - [Wikipédia — Chronique d'Akakor](https://en.wikipedia.org/wiki/Chronicle_of_Akakor)
 - [Wikipédia — Shi'ur Qomah](https://en.wikipedia.org/wiki/Shi%27ur_Qomah)
-
