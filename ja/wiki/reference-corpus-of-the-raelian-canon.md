@@ -6,7 +6,7 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
-category = "神学と伝統"
+category = "Theology & Traditions"
 claim_type = "inferred"
 editorial_pass = "2026-05"
 alternative_names = ["ラエリアン正典の間テクスト的地図", "ラエリアン正典で引用されるテクストと伝統", "ラエリアン正典の間テクスト的領野", "正典の参照源域"]

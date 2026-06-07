@@ -6,7 +6,7 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
-category = "神学与传统"
+category = "Theology & Traditions"
 claim_type = "inferred"
 editorial_pass = "2026-05"
 alternative_names = ["雷尔正典的互文图谱", "雷尔正典中引用的文本与传统", "雷尔正典的互文场", "正典的来源视域"]

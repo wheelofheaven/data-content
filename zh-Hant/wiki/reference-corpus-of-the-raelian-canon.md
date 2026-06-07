@@ -6,7 +6,7 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
-category = "神學與傳統"
+category = "Theology & Traditions"
 claim_type = "inferred"
 editorial_pass = "2026-05"
 alternative_names = ["雷爾運動經典的互文地圖", "雷爾運動經典所引用的文本與傳統", "雷爾運動經典的互文場域", "經典的來源視域"]
