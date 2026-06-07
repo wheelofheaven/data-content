@@ -15,6 +15,7 @@ aliases = [
 
 [extra]
 claim_type = "direct"
+editorial_pass = "2026-05"
 lede = "Wheel of Heaven reads ancient texts — Raëlian, biblical, and cross-cultural — through a precessional clock, on the working hypothesis that the gods of those texts were a small advanced human civilization from elsewhere. Pick a path below, or read the orientation first."
 +++
 

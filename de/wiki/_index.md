@@ -1,6 +1,25 @@
 +++
 title = "Enzyklopädie"
-description = "Das Wheel of Heaven Wiki ist eine umfassende Online-Ressource, die als ausgedehnte Informationsquelle zu den Kernthemen der Website dient. Es bietet eine breite Palette von Artikeln, die verschiedene Aspekte der Hypothese über die Rolle einer fortgeschrittenen außerirdischen Zivilisation bei der Formung der menschlichen Geschichte und der Entwicklung des Lebens auf der Erde abdecken. Es ist ein unschätzbares Werkzeug für Benutzer, die ein tieferes Verständnis der Erforschung der kosmischen Verbindungen und Ursprünge der Menschheit durch die Website suchen."
+description = "Begriffe, Personen, Orte und Konzepte im Kern der Wheel-of-Heaven-Hypothese — kurze Definitionen mit Quellenangaben und Verweisen auf verwandtes Material."
 template = "wiki-section.html"
 sort_by = "title"
+aliases = [
+    "/intro/see-more/",
+    "/intro/see-more/faq/",
+    "/intro/see-more/knowledge-base/",
+    "/explore/",
+    "/explore/concept/",
+    "/wiki/how-to-use-wiki/",
+]
+generate_feeds = true
+
+[extra]
+claim_type = "direct"
+editorial_pass = "2026-05"
 +++
+
+# Enzyklopädie
+
+Kurze, mit Quellen belegte Einträge zu den Begriffen, Personen, Orten und Konzepten, die im gesamten Wheel-of-Heaven-Korpus wiederkehren — die Elohim, Yahweh, der Rat, die Präzessionszeitalter, die Quelltexte, aus denen das Projekt schöpft, sowie das Vergleichsmaterial, neben dem der Kanon gelesen wird.
+
+Jeder Eintrag trägt ein kleines Abzeichen, das seine zentrale Aussage kennzeichnet als **direkt** (ausdrücklich in einer Primärquelle belegt), **abgeleitet** (eine plausible Lesart einer Quelle) oder **spekulativ** (interpretative Synthese, die über das hinausgeht, was eine einzelne Quelle aussagt). Nutzen Sie die Suche und die Kategoriefilter, um zu finden, was Sie suchen, oder folgen Sie internen Verweisen aus den Zeitleisten- und Bibliothekseinträgen.

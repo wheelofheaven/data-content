@@ -5,6 +5,10 @@ template = "news-section.html"
 sort_by = "date"
 generate_feeds = true
 paginate_by = 20
+
+[extra]
+claim_type = "direct"
+editorial_pass = "2026-05"
 +++
 
 # Newsroom

@@ -4,6 +4,10 @@ description = "Evergreen, thesis-driven Explainers on the Wheel of Heaven hypoth
 template = "articles-section.html"
 sort_by = "date"
 generate_feeds = true
+
+[extra]
+claim_type = "direct"
+editorial_pass = "2026-05"
 +++
 
 # Articles
