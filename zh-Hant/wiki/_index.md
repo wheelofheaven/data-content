@@ -3,14 +3,6 @@ title = "百科全書"
 description = "天輪假說核心的術語、人物、地點與概念——附有來源出處的簡明定義，並連結至相關資料。"
 template = "wiki-section.html"
 sort_by = "title"
-aliases = [
-    "/intro/see-more/",
-    "/intro/see-more/faq/",
-    "/intro/see-more/knowledge-base/",
-    "/explore/",
-    "/explore/concept/",
-    "/wiki/how-to-use-wiki/",
-]
 generate_feeds = true
 
 [extra]

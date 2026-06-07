@@ -3,14 +3,6 @@ title = "백과사전"
 description = "Wheel of Heaven 가설의 핵심을 이루는 용어, 인물, 장소, 개념 — 출처와 관련 자료 링크를 포함한 간결한 정의."
 template = "wiki-section.html"
 sort_by = "title"
-aliases = [
-    "/intro/see-more/",
-    "/intro/see-more/faq/",
-    "/intro/see-more/knowledge-base/",
-    "/explore/",
-    "/explore/concept/",
-    "/wiki/how-to-use-wiki/",
-]
 generate_feeds = true
 
 [extra]

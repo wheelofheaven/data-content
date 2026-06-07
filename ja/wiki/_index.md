@@ -3,14 +3,6 @@ title = "百科事典"
 description = "Wheel of Heaven仮説の中核をなす用語、人物、場所、概念について — 出典と関連資料へのリンクを備えた簡潔な定義をまとめています。"
 template = "wiki-section.html"
 sort_by = "title"
-aliases = [
-    "/intro/see-more/",
-    "/intro/see-more/faq/",
-    "/intro/see-more/knowledge-base/",
-    "/explore/",
-    "/explore/concept/",
-    "/wiki/how-to-use-wiki/",
-]
 generate_feeds = true
 
 [extra]

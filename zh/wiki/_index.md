@@ -3,14 +3,6 @@ title = "百科全书"
 description = "Wheel of Heaven 假说核心的术语、人物、地点与概念——简明定义，附带来源与相关材料的链接。"
 template = "wiki-section.html"
 sort_by = "title"
-aliases = [
-    "/intro/see-more/",
-    "/intro/see-more/faq/",
-    "/intro/see-more/knowledge-base/",
-    "/explore/",
-    "/explore/concept/",
-    "/wiki/how-to-use-wiki/",
-]
 generate_feeds = true
 
 [extra]

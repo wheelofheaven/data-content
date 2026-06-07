@@ -3,14 +3,6 @@ title = "אנציקלופדיה"
 description = "מונחים, דמויות, מקומות ומושגים בלב השערת גלגל השמיים — הגדרות תמציתיות עם מקורות וקישורים לחומר קשור."
 template = "wiki-section.html"
 sort_by = "title"
-aliases = [
-    "/intro/see-more/",
-    "/intro/see-more/faq/",
-    "/intro/see-more/knowledge-base/",
-    "/explore/",
-    "/explore/concept/",
-    "/wiki/how-to-use-wiki/",
-]
 generate_feeds = true
 
 [extra]

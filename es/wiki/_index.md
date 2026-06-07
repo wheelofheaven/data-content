@@ -3,14 +3,6 @@ title = "Enciclopedia"
 description = "Términos, figuras, lugares y conceptos centrales de la hipótesis de Wheel of Heaven: definiciones breves con fuentes y enlaces a material relacionado."
 template = "wiki-section.html"
 sort_by = "title"
-aliases = [
-    "/intro/see-more/",
-    "/intro/see-more/faq/",
-    "/intro/see-more/knowledge-base/",
-    "/explore/",
-    "/explore/concept/",
-    "/wiki/how-to-use-wiki/",
-]
 generate_feeds = true
 
 [extra]

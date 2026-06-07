@@ -3,14 +3,6 @@ title = "Enzyklopädie"
 description = "Begriffe, Personen, Orte und Konzepte im Kern der Wheel-of-Heaven-Hypothese — kurze Definitionen mit Quellenangaben und Verweisen auf verwandtes Material."
 template = "wiki-section.html"
 sort_by = "title"
-aliases = [
-    "/intro/see-more/",
-    "/intro/see-more/faq/",
-    "/intro/see-more/knowledge-base/",
-    "/explore/",
-    "/explore/concept/",
-    "/wiki/how-to-use-wiki/",
-]
 generate_feeds = true
 
 [extra]

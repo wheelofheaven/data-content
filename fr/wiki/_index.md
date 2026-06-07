@@ -3,14 +3,6 @@ title = "Encyclopédie"
 description = "Termes, figures, lieux et concepts au cœur de l'hypothèse Wheel of Heaven — brèves définitions assorties de sources et de liens vers les contenus connexes."
 template = "wiki-section.html"
 sort_by = "title"
-aliases = [
-    "/intro/see-more/",
-    "/intro/see-more/faq/",
-    "/intro/see-more/knowledge-base/",
-    "/explore/",
-    "/explore/concept/",
-    "/wiki/how-to-use-wiki/",
-]
 generate_feeds = true
 
 [extra]
