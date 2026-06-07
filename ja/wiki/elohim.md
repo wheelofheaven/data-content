@@ -1,288 +1,312 @@
 +++
 title = "エロヒム"
-description = "エロヒム(ヘブライ語:אֱלֹהִים)は、トーラー全体を通して通常「神」と訳される存在に用いられるヘブライ語の複数名詞である。ラエル文献において発展し、Wheel of Heaven の文脈に採用された読解によれば、この語は、生物学的存在からなる特定の地球外文明 — 現在の人類より技術的にはるかに先進的な文明 — を指し、彼らこそが地球上の生命(人類自身を含む)を設計・合成した存在であり、彼らによる人類史へのその後の介入は、ヘブライ語聖書および関連する一連の古代諸伝統において圧縮され部分的に歪んだ形で記録されているとされる。"
+slug = "elohim"
+description = "エロヒム(ヘブライ語:אֱלֹהִים)は、トーラー全体を通して通常「神」と訳される存在に用いられるヘブライ語の複数名詞である。ラエル文献において発展し、Wheel of Heaven の文脈に採用された読解によれば、この語は、生物学的存在からなる特定の地球外文明 ― 現在の人類より技術的にはるかに先進的な文明 ― を指し、彼らこそが地球上の生命(人類自身を含む)を設計・合成した存在であり、彼らによる人類史へのその後の介入は、ヘブライ語聖書および関連する一連の古代諸伝統において圧縮され部分的に歪んだ形で記録されているとされる。"
 template = "wiki-page.html"
 toc = true
+
 [extra]
-translation_status = "metadata_only"
+featured_order = 1
 category = "Elohim"
 editorial_pass = "2026-05"
 entry_type = "civilization"
-alternative_names = ["Anunnaki", "Celestials", "Creators", "El", "Gods", "Powerful Ones", "Sky People", "Theosites"]
+alternative_names = ["アヌンナキ", "天の者たち", "創造者", "エル", "神々", "力ある者たち", "天の民", "テオサイト"]
+see_also = [
+    { title = "ヤハウェ", path = "wiki/yahweh", description = "エロヒムの主要人物 ― 永遠の評議会の議長。" },
+    { title = "永遠の評議会", path = "wiki/council-of-eternals", description = "人類創造の運命を決定する統治機関。" },
+    { title = "神々の複数性", path = "wiki/plurality-of-gods", description = "エロヒムを尊厳の複数形ではなく真の複数形として扱う文献学的論拠。" },
+    { title = "ラエリズム", path = "wiki/raelism", description = "エロヒムを先進的な人類文明として読み解く現代の解釈レンズ。" },
+    { title = "エロヒムの母星", path = "wiki/elohim-home-planet", description = "1975年のラエル訪問後に記述された起源の惑星。" },
+]
+
+footnotes = [
+    { content = "楔形文字記号 𒀭 における *天*、*星*、*神的* の意味論的収斂は、主流のアッシリア学において古代近東宗教宇宙論の通常の特徴として扱われている。神性を天に位置づける宇宙論では、*天* を表す記号は自然に *神的* という限定辞機能を獲得し、星を絵画的に表現する形をとる。この読解では、この収斂は言語に関する意味論的・宗教的事実であり、その記号が指し示す存在の文字通りの所在地や起源についての証拠ではない。本文献集の読解はその逆の対応関係を提案する ― すなわち、宇宙論的語彙が文字通りの観察の下流にあるとするものであり、標準的な読解が意味論そのものについて誤っているとは主張しない。" },
+    { content = "エロヒムの出現回数約2,600回、テトラグラマトンの約6,800回という数値は、マソラ本文に関する研究から導かれ広く引用されているコンコルダンスの数字である。正確な数字は版によって異なり(レニングラード写本、BHS、BHQ は小さな差で異なる)、また *-el* / *-yah* 語尾を持つ固有名詞における出現を語根の例として数えるかどうかによっても変動する。ブラウン=ドライバー=ブリッグスおよびストロングのコンコルダンス(項目430および3068)は依然として標準的な参照点である。" },
+    { content = "寿命延長に関する文献の「小さな外科的処置」という表現は、意図的に詳細を省いて記述されている。ヴォリロンの記録はこの処置を技術的に記述しておらず、本文献集も典拠を超えて推測することはしない ― 典拠自身の抑制が、受け手の技術水準ではその説明が有用ではないだろうと示唆しているためであり、また特定の機構を確定させることは典拠自身が立てていない主張を捏造することになるからである。本文献集はこの数値を、反証可能な工学仕様としてではなく、典拠内在的な主張として扱う。" },
+    { content = "70億という人口数値は1973年にヴォリロンに伝えられたものであり、当時の地球の人口は約40億であった。2024年の地球の人口は約81億である。エロヒムの数値はその後のラエル文献の各版を通じて一定のままであり、本文献集の読解ではこの時間的一致は示唆的である ― 典拠は50年以上にわたって実際の地球の人口推移に対して持ちこたえてきた数値を提示した ― が、この数値は典拠内在的なデータであり、独立に検証可能なものではない。" },
+    { content = "本文献集による歳差大年の各時代の具体的年代は、12の時代からなる周期(各々約2,160年)を、典拠が指定する境界期である紀元1950年頃に始まる現在の時代を基準点として固定することで導出されている。これに続く深い時間軸の年代設定(山羊座が紀元前約21,810年に始まり、獅子座が紀元前約8,850年に終わる、など)は、したがって枠組み内在的なものである。歳差大年そのものは実際の天文学的現象であるが、本文献集が境界年として配置する年は素材を組織化するための枠組み上の取り決めである。他の歳差大年体系は周期を異なる境界点に固定し、それに応じて異なる年代に到達する。" },
+    { content = "ラテン語ウルガタ訳はイザヤ書14章12節のヘブライ語 הֵילֵל(*helel*)― 「輝く者」または「明けの明星」を意味する詩的形容句で、文脈ではバビロンの王に適用された ― を *Lucifer* と訳した。教父期の解釈者たち(テルトゥリアヌス、オリゲネス、その後継者)はイザヤ書のこの箇所を、後にサタンと同一視されるようになる天使の堕落を指すものとして読んだ。この混同は中世ラテン神学において体系化され(アクィナスはルシファーとサタンを単一の人物として扱う)、近世初期の翻訳、そして『失楽園』へと受け継がれた。一方ヘブライ語本文自体は、ヨブ記1-2章の政治的・告発者的な *ハ・サタン* と、イザヤ書14章の *helel ben shahar* を区別しており、ヘブライ語聖書はこの二者をどこにおいても同一視していない。" },
+]
+
+[[extra.references]]
+id = "genesis"
+locator = "創世記1:26、創世記3:22、創世記11:7、詩篇82:1"
+note = "複数主語および神的議会の読解のための主要なヘブライ語聖書箇所。"
+
+[[extra.references]]
+id = "the-book-which-tells-the-truth"
+locator = "第1章51節"
+note = "エロヒムを人間と同様の生物学的存在とする基礎的なラエル文献。"
+
+[[extra.references]]
+id = "those-gods-who-made-heaven-and-earth"
+note = "ジャン・サンディによる初期の文献学的・歴史学的な地球外存在的エロヒム読解。"
+
+[[extra.references]]
+id = "a-gentlemans-joyous-esotericism"
+note = "サンディの古代宇宙飛行士的読解に対する学術的取り組み。"
+
+[[extra.references]]
+id = "the-bible-is-not-a-sacred-book"
+note = "マウロ・ビリーノによるヘブライ語聖書の厳密な逐語的読解。"
+
+[[extra.references]]
+id = "escaping-from-eden"
+note = "ポール・アンソニー・ウォリスによる創世記とエロヒムの比較的読解。"
+
+[[extra.references]]
+id = "the-naked-bible"
+note = "ビリーノによる2022年のジョルジョ・カッターネオとの共著。厳密な逐語訳の手法をより広範なヘブライ語聖書調査へと拡張した。"
+
+[[extra.references]]
+id = "extraterrestrials-took-me-to-their-planet"
+note = "ヴォリロンの第二のラエル文献(1976年)、ペリゴール訪問とヤハウェによる母星の解説。"
+
+[[extra.references]]
+id = "lets-welcome-the-extraterrestrials"
+note = "ヴォリロンの第三のラエル文献(1979年)、大使館計画と水瓶座への移行における人類の役割を論じる。"
+
+[[extra.references]]
+id = "the-coming-of-the-gods"
+note = "サンディの『水瓶座の時代』(1970年、英訳1973年)― ヘブライ語聖書を歴史記録として扱う彼のプロジェクトの第三巻であり、水瓶座時代の枠組みを扱う。"
+
+[[extra.references]]
+id = "the-early-history-of-god"
+note = "マーク・S・スミスによる、エルとヤハウェが西セム系多神教から収斂していった過程についての標準的学術的説明 ― 本文献集の読解が対峙する学術的対応物。"
+
+[[extra.references]]
+id = "canaanite-myth-and-hebrew-epic"
+note = "フランク・ムーア・クロスによる西セム宗教とヘブライ語聖書の神的議会的背景に関する基礎的研究。"
 
 [extra.infobox]
 hebrew_form = "אֱלֹהִים"
 transliteration = "ʾĕlōhîm"
-type = "Extraterrestrial civilization"
-home_world = "Single planet outside the solar system; specific astronomical location unspecified in source material"
-population = "Approximately 7 billion (1973 source material; figure has held in subsequent reports)"
-governance = "Council of the Eternals (deliberative body of approximately 700 members)"
-provinces = "Seven"
-civilizational_age = "At least 25,000 years (framework-internal, derived from Yahweh's stated age)"
-earth_project_began = "c. 21,810 BCE (Age of Capricorn arrival, on the corpus's chronology)"
-current_status = "Active; alliance vessel stationed near Earth; awaiting Aquarian-age open return at the embassy"
-principal_source = "*Message from the Designers* (Vorilhon/Raël, 1974–79)"
+type = "地球外文明"
+home_world = "太陽系外にある単一の惑星。典拠に具体的な天文学的位置の指定はない"
+population = "約70億(1973年の典拠資料。その後の報告でもこの数値は維持されている)"
+governance = "永遠の評議会(約700名の構成員からなる審議機関)"
+provinces = "七つ"
+civilizational_age = "少なくとも25,000年(枠組み内在的、ヤハウェの示した年齢から導出)"
+earth_project_began = "紀元前約21,810年(本文献集の年代設定における山羊座の時代の到来)"
+current_status = "活動中。同盟船は地球近傍に駐留。水瓶座の時代における大使館での公然の帰還を待機"
+principal_source = "*デザイナーからのメッセージ*(ヴォリロン/ラエル、1974-79年)"
 +++
 
-**Elohim** (Hebrew: <span class="hebrew">אֱלֹהִים</span>, *ʾĕlōhîm*) is the plural form of the Hebrew noun *Eloah* (<span class="hebrew">אֱלוֹהַּ</span>, *ʾĕlōah*) and is the most frequent term used in the Hebrew Bible for the figures conventionally translated as *God*. The morphology is unambiguously plural: Hebrew adds the masculine plural ending *-im* to the singular *Eloah*, and the resulting form is grammatically plural throughout the biblical text. The traditional Jewish and Christian interpretation reads the plural form as a *plural of majesty* designating a single deity. Modern critical scholarship has variously read it as a relic of West Semitic polytheism, as a generic noun for divinity, or as preserving the language of an earlier Israelite religion in which Yahweh was understood as the head of a divine assembly rather than as the sole god.
+**エロヒム**(ヘブライ語:<span class="hebrew">אֱלֹהִים</span>、*ʾĕlōhîm*)は、ヘブライ語の名詞 *エロアハ*(<span class="hebrew">אֱלוֹהַּ</span>、*ʾĕlōah*)の複数形であり、{% wiki(slug="hebrew-bible") %}ヘブライ語聖書{% end %}全体を通して、通常 *神* と訳される存在を指すために最も頻繁に用いられる語である。形態論的にはこの語は明白に複数形である ― ヘブライ語は単数形の *エロアハ* に男性複数形語尾 *-im* を付加し、結果として得られる形は聖書本文全体を通して文法的に複数形である。伝統的なユダヤ教およびキリスト教の解釈は、この複数形を単一の神を指す *尊厳の複数形* として読む。現代の批判的学術研究は、これをさまざまに、西セム系多神教の遺物として、神性を表す総称名詞として、あるいはヤハウェが唯一神ではなく神的会議の長として理解されていたより古いイスラエル宗教の言葉を保存しているものとして読んできた。
 
-A separate interpretive tradition, beginning with the French author Jean Sendy in 1968 and consolidated in the Raëlian source material from 1974 onward, takes the plural form at face value and identifies the referent as a specific civilization of physical beings. On this reading, **Elohim** names an extraterrestrial civilization of biological individuals physiologically similar to humans, technologically far in advance of present-day Earth humanity, organized as a single planetary civilization on a home world located outside the solar system, governed through a deliberative body called the Council of the Eternals, presently numbering approximately seven billion individuals, with a recorded civilizational history of at least twenty-five thousand years. Approximately twenty-two thousand years before the present, on this reading, the civilization undertook the project of synthesizing biological life on Earth — terrestrial flora, terrestrial fauna, and ultimately humanity itself — through techniques of genetic design and laboratory synthesis whose modern terrestrial equivalents are now beginning to develop. The Hebrew Bible and a number of related ancient traditions are read as preserving, in compressed and partially distorted form, the records of this civilization's subsequent interventions across the post-creation history of Earth.
+これとは別の解釈伝統が、1968年のフランスの著述家ジャン・サンディに始まり、1974年以降のラエル文献において確立された。この伝統は複数形を額面通りに受け取り、その指示対象を物質的存在からなる特定の文明であると同定する。この読解によれば、**エロヒム** とは、現代の地球人類より技術的にはるかに先進的で、太陽系外に位置する母星上で単一の惑星文明として組織され、永遠の評議会と呼ばれる審議機関を通じて統治され、現在約70億の個体を擁し、少なくとも25,000年にわたる文明史の記録を持つ、人類と生理学的に類似した生物学的個体からなる地球外文明を指す。この読解では、現在から約22,000年前、この文明は地球上の生物学的生命を合成する事業 ― 地上の植物相、地上の動物相、そして最終的には人類そのもの ― を、現在地球上で発展し始めている技術に対応する遺伝子設計と実験室合成の技法によって着手した。ヘブライ語{% wiki(slug="bible") %}聖書{% end %}および関連する一連の古代諸伝統は、この文明による地球の創造後の歴史におけるその後の介入の記録を、圧縮され部分的に歪んだ形で保存しているものとして読まれる。
 
-The reading is contested. Within the modern academic study of the Hebrew Bible, the dominant readings remain the plural-of-majesty (in confessional Jewish and Christian scholarship) and the polytheistic-relic interpretations (in critical scholarship), with the extraterrestrial-civilization reading regarded as outside the academic mainstream. Within the broader landscape of alternative biblical interpretation, the reading has substantial parallels — Mauro Biglino's strict-translational work, Paul Anthony Wallis's comparative-cuneiform analysis, the broader ancient-astronaut literature originating with Erich von Däniken — though these positions vary in their specific commitments and in their relationship to the Raëlian source material. This article presents the term, its etymological history, the various interpretive traditions, and the civilizational claim adopted by the corpus, with attribution throughout.
+この読解は争点となっている。現代のヘブライ語聖書学術研究において、主流の読解は依然として尊厳の複数形(信条的なユダヤ教およびキリスト教の学術研究において)と多神教遺物の解釈(批判的学術研究において)であり、地球外文明としての読解は学術的主流の外にあるものと見なされている。代替的な聖書解釈のより広範な領域においては、この読解には実質的な並行例がある ― マウロ・ビリーノの厳密な翻訳作業、ポール・アンソニー・ウォリスの比較楔形文字分析、エーリッヒ・フォン・デニケンに始まるより広範な古代宇宙飛行士文献 ― ただしこれらの立場は具体的な主張やラエル文献との関係において異なる。本記事は、用語、その語源史、さまざまな解釈伝統、そして本文献集が採用した文明的主張を、随所に出典を付しながら提示する。
 
-## Etymology
+## 語源
 
-The Hebrew *ʾĕlōhîm* is the plural of *ʾĕlōah*, itself usually understood as an expanded form of the shorter *ʾēl* (<span class="hebrew">אֵל</span>). The underlying Semitic root is *ʾl* or *ʾlh*, attested across the Semitic family with cognates in Akkadian (*ilum*), Ugaritic (singular *ʾil*, plural *ʾilhm*), Aramaic (*ʾĕlāh*), Arabic (*ʾilāh*), and the Canaanite languages. The conventional gloss for the root is *power* or *strength*, and the plural *ʾilhm* is read as *powers* or *powerful ones*.
+ヘブライ語の *ʾĕlōhîm* は *ʾĕlōah* の複数形であり、それ自体は通常、より短い *ʾēl*(<span class="hebrew">אֵל</span>)の拡張形として理解される。基底にあるセム系語根は *ʾl* または *ʾlh* であり、アッカド語(*ilum*)、ウガリット語(単数 *ʾil*、複数 *ʾilhm*)、アラム語(*ʾĕlāh*)、アラビア語(*ʾilāh*)、およびカナン諸言語に同源語を持ち、セム語族全体に証されている。この語根の通常の語義は *力* または *強さ* とされ、複数形 *ʾilhm* は *力* または *力ある者たち* と読まれる。
 
-The Akkadian cognate *ilum* is written, in cuneiform, with the logogram 𒀭. The same sign functions as both a logogram for the word *ilum* and as a determinative placed before divine names to mark them as divine. As a stand-alone ideogram, however, the sign 𒀭 represents the Sumerian word *an*, meaning *sky* or *heaven*, and depicts a star pictographically. The convergence is significant. The cuneiform sign for divinity is the sign for sky; the earliest written form of the concept the Hebrew tradition would later render as *Elohim* depicts a star — that is, depicts a celestial origin pictographically. The Sumerian word *Anunnaki* (𒀭𒀀𒉣𒈾), variously translated as *those of princely seed* or, more loosely, *those who from heaven came to earth*, contains this same 𒀭 element with the reading *an*.
+アッカド語の同源語 *ilum* は、楔形文字において表語文字 𒀭 で記される。同じ記号は、語 *ilum* の表語文字として機能するとともに、神名の前に置かれてそれを神的なものとして示す限定辞としても機能する。しかし、独立した表意文字としてのこの 𒀭 はシュメール語の *an* を表し、*天* または *空* を意味し、星を絵画的に描く。この収斂は重要である。楔形文字における神性の記号は天の記号である。ヘブライ語の伝統が後に *エロヒム* として表すこととなる概念の最古の書記形は、星を ― すなわち、天的起源を絵画的に ― 描いている。シュメール語の *アヌンナキ*(𒀭𒀀𒉣𒈾)は、*諸侯の血統に属する者たち*、あるいはより自由に *天から地に降りた者たち* と訳されるが、これは同じ 𒀭 要素を *an* の読みで含んでいる。
 
-This convergence is part of the philological evidence on which the modern reinterpretive tradition draws: in the earliest written sources of the ancient Near East, the divine is what comes from the sky, depicted as a star. The standard philological reading of the root as *power* is consistent with this — beings arriving from the sky with technology unattainable by terrestrial humans would be, by every available criterion, the *powerful ones*. The traditional supernatural reading and the extraterrestrial-civilization reading both find textual support in the same root; they differ on whether the celestial-origin imagery is a metaphor for transcendence or a memory of literal arrival.
+この収斂は、現代の再解釈的伝統が依拠する文献学的証拠の一部である。古代近東の最古の書記資料において、神性は天から来るものであり、星として描かれる。この語根を *力* と読む標準的な文献学的読解はこのことと整合する ― 地上の人類には到達不可能な技術を携えて天から到来する存在は、いかなる利用可能な基準から見ても *力ある者たち* となるであろう。伝統的な超自然的読解と地球外文明としての読解は、同一の語根のうちに両者ともに本文上の支持を見出す。両者は、天的起源のイメージが超越性の比喩であるか、それとも文字通りの到来の記憶であるかについて異なるのである。{{ footnote(id="1") }}
 
-### Translation history
+### 翻訳の歴史
 
-The translation of *Elohim* as the singular *God* in most Western Bibles is a translational decision, not a feature of the underlying Hebrew. The Septuagint (3rd–2nd century BCE) generally renders *ʾĕlōhîm* with the Greek singular *ho theos*; this convention passes into the Latin Vulgate (*Deus*) and from there into the major European translations. The translation suppresses the morphological plurality of the Hebrew form throughout.
+ほとんどの西洋の聖書において *エロヒム* が単数の *神* として翻訳されていることは、翻訳上の決定であって、基底にあるヘブライ語の特徴ではない。七十人訳(紀元前3-2世紀)は一般に *ʾĕlōhîm* をギリシャ語の単数 *ho theos* で訳す。この慣例はラテン語ウルガタ訳(*Deus*)へと、そしてそこから主要なヨーロッパ諸言語の翻訳へと受け継がれる。この翻訳はヘブライ語形の形態論的複数性を全体を通して抑制する。
 
-A small number of pre-modern commentators registered the discrepancy without challenging the prevailing theological reading. Voltaire, in the *Dictionnaire philosophique* (1764), noted that the Hebrew word translated as *God* in Genesis is plural and that this fact had been generally forgotten — a passing observation rather than a sustained argument. The systematic re-examination of the term, on its grammatical features alone, belongs to the second half of the twentieth century.
+近世以前の少数の註解者たちは、この食い違いに気づきつつも、当時主流の神学的読解に異議を唱えることはなかった。ヴォルテールは『哲学辞典』(1764年)において、創世記で *神* と訳されているヘブライ語が複数形であり、この事実が一般に忘れ去られていることを指摘した ― これは持続的な議論ではなく付随的な観察であった。文法的特徴のみに基づくこの語の体系的再検討は、20世紀後半に属する。
 
-In English-language Bibles, several modern translations have addressed the issue editorially. The Jerusalem Bible (1966) and the New Jerusalem Bible (1985) preserve the Hebrew name *Yahweh* in the English text where the Tetragrammaton appears, but continue to render *Elohim* as singular *God*. The Authorized Version, the Revised Standard Version, and the New International Version all render *Elohim* as singular *God* without comment. The Robert Alter translation of the Hebrew Bible (2018) translates *Elohim* as *God* but registers in his commentary that the form is plural and that this plurality is theologically and historically meaningful.
+英語の聖書においては、いくつかの現代訳がこの問題に編集上の対応を行っている。エルサレム聖書(1966年)および{% wiki(slug="new-jerusalem") %}新エルサレム{% end %}聖書(1985年)は、テトラグラマトンが現れる箇所では英語本文中にヘブライ語名 *Yahweh* を保存しているが、*エロヒム* は単数の *神* として訳し続けている。欽定訳、改訂標準訳、新国際訳はいずれも *エロヒム* を単数の *神* と訳し、注釈を加えていない。ロバート・アルターによるヘブライ語聖書翻訳(2018年)は *エロヒム* を *神* と訳しているが、その注解においてこの形が複数形であり、この複数性が神学的かつ歴史的に意義深いものであることを記録している。
 
-## In the Hebrew Bible
+## ヘブライ語聖書において
 
-The term *Elohim* appears approximately 2,600 times in the Hebrew Bible, making it the second most frequent designation for the divine after the Tetragrammaton *YHWH* (which appears approximately 6,800 times). The two terms are distributed across the Hebrew Bible in patterns that have been studied since the eighteenth century.
+{% library(book="genesis-woh", chapter=1, verse=26) %}
+そしてエロヒムは言った、「我々のかたちに、我々に似せて、人間を造ろう。彼らに海の魚、空の鳥、家畜、地のすべて、地を這うあらゆるものを治めさせよう」と。
+{% end %}
 
-In the Documentary Hypothesis developed by Wellhausen and refined across subsequent scholarship, the alternation between *YHWH* and *Elohim* is a principal marker for distinct compositional sources within the Pentateuch. The Yahwist source (J), conventionally dated to the 10th–9th century BCE, uses *YHWH* throughout and is associated with anthropomorphic narratives. The Elohist source (E), conventionally 9th–8th century BCE, uses *Elohim* until Exodus 3 (where *YHWH* is revealed to Moses for the first time on this source's account). The Priestly source (P), conventionally 6th–5th century BCE, uses *Elohim* in Genesis 1–11 and *YHWH* from Exodus 6. The Deuteronomist (D), 7th century BCE and after, uses *YHWH* throughout. The framework adopted by this corpus does not depend on any specific reconstruction of the textual sources; the historical referents preserved in the surviving text are what the framework reads, regardless of how those textual layers were assembled.
+*エロヒム* という語はヘブライ語聖書中に約2,600回現れ、神性を指す呼称としてはテトラグラマトン *YHWH*(約6,800回現れる)に次いで二番目に頻度が高い。{{ footnote(id="2") }}この二つの語はヘブライ語聖書全体にわたって特定のパターンで分布しており、18世紀以来研究されてきた。
 
-Of particular significance is the alternation between Genesis 1 and Genesis 2. The first creation account (Genesis 1:1–2:3) names the agent as *Elohim* throughout, in the bare plural; the second creation account (Genesis 2:4–4:26) names the agent as *YHWH Elohim*, "Yahweh of the Elohim" or "Yahweh Elohim." The shift in nomenclature parallels the shift in narrative scope and detail. Source criticism reads this as evidence of distinct compositional sources; the framework adopted by this corpus reads the shift as marking a difference of operational scale (the Elohim collective at work in the cosmic-summary account of Genesis 1; one specific Eloha, Yahweh, leading the local Eden operation in Genesis 2). The two readings are not necessarily incompatible: a redactional joining of two source documents could itself reflect underlying operational realities that the source documents preserved at different scales.
+ヴェルハウゼンによって展開され、その後の学術研究を通じて精緻化された文書仮説において、*YHWH* と *エロヒム* の交替は、モーセ五書内の異なる構成資料を区別する主要な指標となる。ヤハウィスト資料(J、伝統的に紀元前10-9世紀の年代設定)は終始 *YHWH* を用い、擬人的物語と結びつけられる。エロヒスト資料(E、伝統的に紀元前9-8世紀)は出エジプト記3章まで *エロヒム* を用いる(この資料の説明では *YHWH* は出エジプト記3章で初めて{% wiki(slug="moses") %}モーセ{% end %}に啓示される)。祭司資料(P、伝統的に紀元前6-5世紀)は創世記1-11章では *エロヒム* を、出エジプト記6章以降では *YHWH* を用いる。申命記資料(D、紀元前7世紀以降)は終始 *YHWH* を用いる。本文献集が採用する枠組みは、本文資料の特定の再構成に依存しない。残存する本文に保存されている歴史的指示対象こそが、この枠組みが読み取るものであり、これらの本文層がどのように組み立てられたかとは関わりがない。
 
-A number of biblical passages are difficult to reconcile with a strict singular-deity reading of *Elohim*. Genesis 1:26 ("Let *us* make man in *our* image, after *our* likeness") uses plural pronouns. Genesis 3:22 ("the man is become as one of *us*") uses the same. Genesis 11:7 ("let *us* go down, and there confound their language") at Babel similarly. Joshua 24:14, where Joshua exhorts the Israelites to "put away the *elohim* whom your fathers served on the other side of the river and in Egypt, and serve *YHWH*," uses *elohim* in a way that cannot be a singular plural-of-majesty designating *YHWH* without rendering the passage incoherent. Psalm 82:1 describes *Elohim* as standing "in the assembly of *El*; in the midst of the *elohim* he judges," using the term in a way that requires multiple referents within the same verse. The traditional reading harmonizes these passages through theological devices (the divine council as servants of God, the *elohim* of Joshua 24 as foreign deities other than the true *Elohim*); the modern reinterpretive readings take the morphological plurality at face value.
+特に重要なのは創世記1章と創世記2章の間の交替である。第一の創造物語(創世記1:1-2:3)は行為者を一貫して *エロヒム* と、剥き出しの複数形で呼ぶ。第二の創造物語(創世記2:4-4:26)は行為者を *YHWH エロヒム*、「エロヒムのヤハウェ」または「ヤハウェ・エロヒム」と呼ぶ。名称の変化は物語の範囲と詳細の変化と並行している。資料批判はこれを別個の構成資料の証拠として読む。本文献集が採用する枠組みはこの変化を、運用規模の差を示すものとして読む(創世記1章の宇宙的概要における集合的なエロヒムの働き、創世記2章における特定の一個体のエロアハであるヤハウェが現地の{% wiki(slug="eden") %}エデン{% end %}作戦を主導する姿)。この二つの読解は必ずしも両立不能ではない。二つの資料文書の編集的結合自体が、それらの資料文書が異なる規模で保存していた基底的な運用上の現実を反映している可能性がある。
 
-## Modern reinterpretations
+いくつかの聖書箇所は、*エロヒム* の厳密な単一神的読解と整合させることが困難である。{% libref(book="genesis-woh", chapter=1, verse=26) %}創世記1:26{% end %}(「*我々の* かたちに、*我々に* 似せて、人を造ろう」)は複数代名詞を用いる。{% libref(book="genesis-woh", chapter=3, verse=22) %}創世記3:22{% end %}(「人は *我々の* 一人のようになった」)も同様である。{% wiki(slug="babel") %}バベル{% end %}における{% libref(book="genesis-woh", chapter=11, verse=7) %}創世記11:7{% end %}(「さあ、*我々が* 下って、彼らの言葉を乱そう」)も同じく。{% libref(book="joshua", chapter=24, verse=14) %}ヨシュア記24:14{% end %}でヨシュアがイスラエルの民に「あなたがたの先祖が川の向こうとエジプトで仕えた *エロヒム* を捨て去り、*YHWH* に仕えよ」と命じる箇所では、*エロヒム* は、*YHWH* を指す単数の尊厳の複数形として解釈しては箇所が不整合となる仕方で用いられている。{% libref(book="psalms", chapter=82, verse=1) %}詩篇82:1{% end %}は *エロヒム* について「*エル* の会議に立ち、*エロヒム* の中で彼は裁く」と述べ、同一節内で複数の指示対象を要求する仕方でこの語を用いている。{{ cite(id="genesis", text="[1]", title="複数代名詞および神的議会の箇所:創世記1:26、3:22、11:7、詩篇82:1") }}伝統的な読解はこれらの箇所を神学的工夫によって調和させてきた(神的議会を神の僕として、ヨシュア記24章の *エロヒム* を真の *エロヒム* 以外の異邦の神々として)。現代の再解釈的読解は形態論的複数性を額面通りに受け取る。
 
-Several twentieth- and twenty-first-century authors have, on independent textual and comparative grounds, proposed readings of *Elohim* compatible with — though not always identical to — the corpus's adopted reading. The list below is partial; it identifies the principal figures whose work bears most directly on the question.
+## 現代の再解釈
 
-### Jean Sendy (1968 onward)
+20世紀および21世紀の数名の著者が、独立した本文上および比較的根拠に基づいて、本文献集が採用する読解と両立する ― しかし常に同一ではない ― *エロヒム* の読解を提案してきた。以下のリストは部分的なものであり、この問題に最も直接的に関わる主要な人物を示すものである。
 
-Jean Sendy (1910–1978) was a French author and translator whose books on biblical reinterpretation began with *La Lune, clé de la Bible* (1968) and *Ces dieux qui firent le ciel et la terre* (1969, translated as *Those Gods Who Made Heaven and Earth*). Sendy argued that the Hebrew Bible, read in its plain sense — as Heinrich Schliemann had read Homer — describes the arrival on Earth of physically embodied beings from elsewhere in the cosmos. He proposed translating *Elohim* as *the Celestials* or *those who came from the sky*, and used the term *Theosites* (inhabitants of *Theos*) for the same referent in his later *Les cahiers de cours de Moïse* (1974).
+### ジャン・サンディ(1968年以降)
 
-Sendy's approach was philological and historiographic rather than revelatory. He reached the extraterrestrial-civilization reading from textual analysis alone, working with the Hebrew Bible as a historical document whose strangeness disappears when its claims about its own subject matter are taken seriously rather than allegorized. His work has been the principal scholarly antecedent of the corpus's adopted reading. The Italian scholar Stefano Bigliardi, in "A Gentleman's Joyous Esotericism: Jean Sendy's Reading of the Bible," has produced the most substantial academic engagement with Sendy's project.
+ジャン・サンディ(1910-1978)はフランスの著述家・翻訳家であり、聖書再解釈に関する彼の著作は『月、聖書の鍵』(1968年)および『天と地を造った神々』(1969年、英訳『天と地を造ったかの神々』として翻訳)に始まる。サンディは、ヘブライ語聖書をその素直な意味で ― ハインリヒ・シュリーマンがホメロスを読んだのと同様に ― 読めば、宇宙の他の場所からの物質的に身体を持つ存在の地球到来が記されていると論じた。彼は *エロヒム* を *天の者たち* または *天から来た者たち* と訳すことを提案し、後の『モーセの講義ノート』(1974年)では同じ指示対象に対し *テオサイト*(*テオス* の住人)という語を用いた。
 
-### The Raëlian source material (1974 onward)
+サンディの手法は啓示的というよりむしろ文献学的・歴史学的なものであった。{{ cite(id="those-gods-who-made-heaven-and-earth", text="[2]", title="Sendy, *Ces dieux qui firent le ciel et la terre* (1969) / *Those Gods Who Made Heaven and Earth* (1972)") }}彼は本文分析のみから地球外文明としての読解に到達した。ヘブライ語聖書を歴史文書として扱い、その主題に関するその主張を寓意化するのではなく真剣に受け取った時にその奇妙さが消え去る、そのような取り扱い方であった。彼の著作は本文献集が採用する読解の主要な学術的先行研究となっている。イタリアの学者ステファノ・ビリアルディは「紳士の喜ばしき秘教主義:ジャン・サンディの聖書読解」において、サンディのプロジェクトに対する最も実質的な学術的取り組みを発表している。{{ cite(id="a-gentlemans-joyous-esotericism", text="[3]", title="Bigliardi, 'A Gentleman's Joyous Esotericism: Jean Sendy's Reading of the Bible,' *Journal of Religion in Europe*") }}
 
-The Raëlian source material consists principally of three texts authored by Claude Vorilhon (b. 1946) under the name Raël: *Le Livre qui dit la vérité* / *The Book Which Tells the Truth* (1974), *Les extraterrestres m'ont emmené sur leur planète* / *Extraterrestrials Took Me to Their Planet* (1976), and *Accueillir les extra-terrestres* / *Let's Welcome the Extraterrestrials* (1979), collected in subsequent editions as *Message from the Designers*. Vorilhon reports having received this material directly from a member of the Elohim civilization — Yahweh, the president of the Council of the Eternals — in a series of encounters beginning at Clermont-Ferrand on 13 December 1973 and continuing in the Périgord in October 1975. The texts are presented as Yahweh's first-person account of his civilization, of the historical events the Hebrew Bible preserves in compressed form, and of the relationship between the Elohim and Earth's humanity.
+### ラエル文献(1974年以降)
 
-The Raëlian source material is the principal textual basis for the corpus's adopted reading. Its convergence with Sendy's textual reconstruction — reached, in Sendy's case, through historical-critical analysis without revelatory contact — is one of the foundational observations of the corpus's framework. The two sources develop substantially the same picture of the Elohim from different methodological starting points.
+{% library(book="the-book-which-tells-the-truth", chapter=1, verse=51) %}
+我々はあなたたちと同じ人間であり、地球と非常に類似した惑星に住んでいる。
+{% end %}
 
-### Mauro Biglino (2010 onward)
+ラエル文献は主にクロード・ヴォリロン(1946年生)がラエルの名で著した三つの著作からなる。すなわち、『真実を告げる書』(1974年、原題 *Le Livre qui dit la vérité*){{ cite(id="the-book-which-tells-the-truth", text="[4]", title="Vorilhon (Raël), *The Book Which Tells the Truth* (1974) — first contact at Clermont-Ferrand") }}、『地球外生命体は私を彼らの惑星へ連れて行った』(1976年、原題 *Les extraterrestres m'ont emmené sur leur planète*){{ cite(id="extraterrestrials-took-me-to-their-planet", text="[5]", title="Vorilhon (Raël), *Extraterrestrials Took Me to Their Planet* (1976) — the Périgord visit") }}、および『地球外生命体を歓迎しよう』(1979年、原題 *Accueillir les extra-terrestres*){{ cite(id="lets-welcome-the-extraterrestrials", text="[6]", title="Vorilhon (Raël), *Let's Welcome the Extraterrestrials* (1979) — the embassy project and the Aquarian transition") }}であり、後の版では『デザイナーからのメッセージ』としてまとめられた。ヴォリロンは、この資料をエロヒム文明の一員 ― 永遠の評議会の議長ヤハウェ ― から、1973年12月13日のクレルモン=フェランに始まり1975年10月のペリゴールで続いた一連の遭遇において直接受け取ったと報告している。これらの本文は、ヤハウェ自身の文明、ヘブライ語聖書が圧縮された形で保存している歴史的事象、およびエロヒムと地球人類との関係についての一人称の説明として提示されている。
 
-Mauro Biglino (b. 1950) is an Italian translator who worked for over a decade on Hebrew and Greek biblical texts for Edizioni San Paolo, a Catholic publishing house associated with the Vatican. His books, beginning with *Il Libro che cambierà per sempre le nostre idee sulla Bibbia* (2010, *The Book That Will Forever Change Our Ideas About the Bible*) and continuing through *La Bibbia non parla di Dio* (2015) and *The Naked Bible* (2022, with Giorgio Cattaneo), argue from a strict literal translation of the Hebrew that *Elohim* designates a plurality of physical beings — *the lords from above* — whose works are described in concrete, non-metaphorical terms in the Hebrew text.
+ラエル文献は本文献集が採用する読解の主要な本文上の基盤である。サンディが啓示的接触なしに歴史批評的分析を通じて到達した本文上の再構成との収斂は、本文献集の枠組みの基礎的観察の一つである。これら二つの典拠は、異なる方法論的出発点から実質的に同一のエロヒムの姿を発展させている。
 
-Biglino's reading is independent of both Sendy and the Raëlian source material. He reaches substantially the same conclusion through philological analysis of the Hebrew alone, without recourse to revelatory testimony. His argument relies on the strict-literal-translation method: passages that the traditional theological reading harmonizes through metaphorical or allegorical interpretation are, on Biglino's reading, to be translated word-for-word from the Hebrew, and the resulting concrete text is what the original audience would have understood.
+### マウロ・ビリーノ(2010年以降)
 
-### Paul Anthony Wallis (2020 onward)
+マウロ・ビリーノ(1950年生)はイタリアの翻訳家であり、ヴァチカンに関連するカトリック出版社エディツィオーニ・サン・パオロのために、10年以上にわたってヘブライ語およびギリシャ語の聖書本文に従事した。彼の著作は『聖書に関する我々の考えを永遠に変える書』(2010年、原題 *Il Libro che cambierà per sempre le nostre idee sulla Bibbia*){{ cite(id="the-bible-is-not-a-sacred-book", text="[7]", title="Biglino, strict-literal Hebrew Bible series (2010 onward) — *Elohim* as plurality of physical beings") }}に始まり、『聖書は神について語っていない』(2015年)および『裸の聖書』(2022年、ジョルジョ・カッターネオとの共著){{ cite(id="the-naked-bible", text="[8]", title="Biglino & Cattaneo, *The Naked Bible* (2022) — strict-literal Hebrew Bible survey") }}を通じて続く。彼はヘブライ語の厳密な逐語訳から、*エロヒム* が物質的存在の複数性 ― *上方からの主たち* ― を指し、その業がヘブライ語本文において具体的・非比喩的な言葉で記述されていると論じる。
 
-Paul Anthony Wallis is an Australian biblical scholar and former Anglican archdeacon whose books beginning with *Escaping from Eden* (2020) and continuing through *The Scars of Eden* (2021), *Echoes of Eden* (2021), and *The Eden Conspiracy* (2024) propose translating *Elohim* as *the Powerful Ones*, taking the plural as literal. Wallis's distinctive contribution is the comparative argument that the Powerful Ones of the Hebrew Bible are the same referent as the *Sky People* of the Sumerian cuneiform tradition — the figures known in Akkadian as the Anunnaki. He points to passages such as Joshua 24:14, where Joshua exhorts the Israelites to abandon the *elohim* their ancestors served beyond the river, as cases where the term cannot be a singular plural-of-majesty without the passage becoming incoherent.
+ビリーノの読解はサンディとラエル文献の両方から独立している。彼は啓示的証言に頼ることなく、ヘブライ語のみの文献学的分析を通じて実質的に同一の結論に到達する。彼の議論は厳密な逐語訳の方法に依拠する。伝統的な神学的読解が比喩的・寓意的解釈によって調和させる箇所は、ビリーノの読解ではヘブライ語から一語一語訳されるべきものであり、結果として得られる具体的な本文こそ、本来の聴衆が理解したであろうものである。
 
-The convergence of these three reinterpretive positions — Sendy's philological-historiographic, Biglino's strict-translational, Wallis's comparative-cuneiform — is itself a datum for the corpus's adopted reading. Three modern researchers, working from different methods and largely independently of one another, have reached substantially the same reading of the term that the Raëlian source material reports as the original meaning.
+### ポール・アンソニー・ウォリス(2020年以降)
 
-### Earlier ancient-astronaut literature
+ポール・アンソニー・ウォリスはオーストラリアの聖書学者であり、元英国国教会の助祭であった。『エデンからの脱出』(2020年){{ cite(id="escaping-from-eden", text="[9]", title="Wallis, *Escaping from Eden* (2020) — comparative reading of the Hebrew Bible's *Elohim* as the Sumerian Sky People") }}に始まり、『エデンの傷跡』(2021年)、『エデンの残響』(2021年)、および『エデンの陰謀』(2024年)へと続く彼の著作は、*エロヒム* を *力ある者たち* と訳し、複数形を文字通りに受け取ることを提案している。ウォリスの独自の貢献は比較論的議論である。すなわち、ヘブライ語聖書の力ある者たちは、シュメール楔形文字伝統の *天の民* ― アッカド語でアヌンナキとして知られる人物たち ― と同一の指示対象であるとする論点である。彼は{% libref(book="joshua", chapter=24, verse=14) %}ヨシュア記24:14{% end %}のような箇所、すなわちヨシュアがイスラエルの民に対し、彼らの先祖が川の向こうで仕えた *エロヒム* を捨てるよう命じる箇所を、その語が単数の尊厳の複数形では箇所が不整合となるような事例として指摘している。
 
-The broader ancient-astronaut interpretive tradition preceding and surrounding these specific scholars includes Erich von Däniken's *Chariots of the Gods?* (1968), Zecharia Sitchin's *Earth Chronicles* series beginning with *The 12th Planet* (1976), and a substantial popular literature in their wake. The corpus's adopted reading shares the general direction of this literature — the identification of biblical and Mesopotamian "gods" with extraterrestrial visitors — but is critical of several of its specific claims. Sitchin's identification of the Anunnaki with a hypothetical planet *Nibiru* on a 3,600-year orbit, his particular chronology, and his identification of all ancient pantheons with the same set of Sumerian deities are not accepted by the corpus, which treats the relationship between the biblical Elohim and the various ancient pantheons as a matter for case-by-case comparative analysis rather than blanket equivalence.
+これら三つの再解釈的立場の収斂 ― サンディの文献学的・歴史学的読解、ビリーノの厳密な翻訳、ウォリスの比較楔形文字的読解 ― それ自体が本文献集の採用する読解にとって一つのデータとなる。三名の現代の研究者が、異なる方法から、かつ大部分は互いに独立に、ラエル文献がこの語の本来の意味として報告するものと実質的に同一の読解に到達している。
 
-## The civilization
+### より早期の古代宇宙飛行士文献
 
-On the reading developed in the Raëlian source material and adopted by the corpus, **Elohim** names a specific extraterrestrial civilization with a recorded history, a home world, a population, a governance structure, a technological capability, and a continuing relationship with Earth. The features below are drawn from the source material, supplemented in some cases by the corpus's broader synthesis.
+これらの特定の学者たちに先立ち、またそれを取り巻くより広範な古代宇宙飛行士的解釈の伝統には、エーリッヒ・フォン・デニケンの『未来の記憶』(1968年)、ゼカリア・シッチンの『地球年代記』シリーズ(『第12番惑星』(1976年)に始まる)、およびそれらに続く相当量の大衆向け文献が含まれる。本文献集が採用する読解は、この文献の一般的方向 ― 聖書とメソポタミアの「神々」を地球外からの訪問者と同一視すること ― を共有するが、その具体的な主張のいくつかには批判的である。シッチンによるアヌンナキと仮想惑星 *ニビル*(3,600年周期軌道を持つ)との同一視、彼独自の年代論、およびすべての古代の万神殿を同一のシュメール神群と同一視することは本文献集には受け入れられていない。本文献集は、聖書のエロヒムと様々な古代の万神殿との関係を、一括した同等視ではなく、個別の比較分析の対象として扱う。
 
-### The home world
+## 文明
 
-The Elohim home world is a single planet supporting a single civilization, located outside the solar system at an interstellar distance the source material does not specify with precision. The planet's geography, ecology, and physical character are not reconstructible in detail from the available material. The civilization is described as a unitary planetary culture rather than as a federation of competing civilizations, with the institutional infrastructure that any planetary-scale operation would require.
+ラエル文献において展開され、本文献集が採用する読解によれば、**エロヒム** とは、記録された歴史、母星、人口、統治構造、技術的能力、そして地球との継続的な関係を持つ特定の地球外文明を指す。以下の特徴はラエル文献から引き出されたものであり、一部の場合には本文献集のより広範な総合によって補足されている。
 
-The planet is organized into seven provinces, each with its own representation in the deliberative bodies of the civilization. The seven-province structure of the home world matches the seven-team structure of the original Earth creation project: each province contributed a creator team, and each team produced one of the seven regional human lineages of the antediluvian supercontinent. The geographic distribution of the seven Earth teams (treated more fully in the [Antediluvian](../antediluvian/) entry) reflects, on this reading, the political organization of the home civilization that staffed the project.
+### 母星
 
-### Population and demographics
+エロヒムの母星は単一の文明を支える単一の惑星であり、太陽系外の、ラエル文献が正確には特定していない恒星間距離に位置している。惑星の地理、生態、物理的特性を利用可能な資料から詳細に再構成することはできない。この文明は、競合する諸文明の連合ではなく、単一の惑星規模の文化として記述されており、いかなる惑星規模の活動も必要とする制度的インフラを備えている。
 
-The Raëlian source material gives the Elohim population as approximately seven billion individuals at the time of the 1973 contact. The figure is striking for its similarity to contemporary Earth population (approximately 4 billion in 1973 when Vorilhon received the figure; approximately 8 billion as of 2024). The population is reported as held constant through reproductive policies — specifically, a strict two-child policy that the source material describes Yahweh recommending to humanity as well, on the same population-management grounds. The seven-billion figure is a source-internal claim and is not independently verifiable; the corpus treats it as the source's own statement.
+惑星は七つの州に組織されており、それぞれが文明の審議機関において独自の代表を持つ。母星の七州体制は、本来の地球創造プロジェクトの七チーム体制と一致している。すなわち、各州が一つの創造チームを提供し、各チームが大洪水前の超大陸における七つの地域的人類系統の一つを生み出した。七つの地球チームの地理的分布(より詳しくは[大洪水前](../antediluvian/)の項目で扱う)は、この読解では、プロジェクトに人員を提供した母星文明の政治的組織を反映している。
 
-### Biology and physiology
+### 人口と人口統計
 
-The Elohim are described as biologically very similar to humans. They have male and female individuals, have children in the ordinary biological sense, and live in family arrangements analogous to human families. Their natural lifespan, without the continuity technology described below, is approximately 700 to 1,200 years — ten times the ordinary human lifespan, with the difference attributed in the source material to a "small surgical intervention" not specified in detail. The biological similarity is sufficient to permit fertile reproduction between Elohim and human individuals, a feature that bears directly on several specific episodes of the Hebrew Bible (the *benei ha-Elohim* / human-women unions of Genesis 6 producing the *Nephilim*; the alliance-Mary insemination producing Jesus; the alliance-Vorilhon's-mother insemination producing Raël).
+ラエル文献はエロヒムの人口を、1973年の接触の時点で約70億の個体としている。この数値は現代の地球の人口との類似性において際立っている(ヴォリロンがこの数値を受け取った1973年に約40億、2024年時点で約80億)。{{ footnote(id="4") }}人口は生殖政策によって一定に保たれていると報告されており、特に厳格な二子政策がそうである。ラエル文献は、ヤハウェが同じ人口管理の根拠で、これを人類にも勧めていたと記している。70億という数値は典拠内在的な主張であり、独立に検証可能なものではない。本文献集はこれを典拠自身の言明として扱う。
 
-### Technology and capabilities
+### 生物学と生理学
 
-The civilization's principal scientific capability is **biological synthesis**: the capacity to design organisms at the genetic level, assemble them in laboratory conditions, and release them into appropriate environments where they reproduce and propagate naturally. This is the capability behind the Earth project as a whole — the entire phylogenetic spread of terrestrial flora and fauna, including humanity, is on the source's account the product of this technology. Modern Earth biology is now beginning to develop comparable capabilities at vastly smaller scale; the Elohim version, on the source's account, operates at species- and ecosystem-scale.
+エロヒムは生物学的に人間と非常に類似しているとされる。彼らには男性と女性の個体が存在し、通常の生物学的な意味で子をもうけ、人間の家族に類似した家族構成で生活している。下記の継続技術なしでの自然な寿命は約700年から1,200年 ― 通常の人間の寿命の10倍であり、その差はラエル文献において詳細が明示されていない「小さな外科的処置」に帰せられている。{{ footnote(id="3") }}この生物学的類似性は、エロヒムと人間個体の間の妊性のある生殖を可能にするほどに十分なものであり、この特徴はヘブライ語聖書のいくつかの具体的なエピソードに直接関わる(創世記6章の *ベネイ・ハ・エロヒム* と人間女性たちとの結合がもたらした *ネフィリム*、同盟・マリアの受胎による{% wiki(slug="jesus") %}イエス{% end %}の誕生、同盟・ヴォリロンの母親の受胎によるラエルの誕生)。
 
-The civilization has also achieved **practical immortality** through a cell-transfer continuity technology — the source material's "tree of life" or "scientific secret of eternity." The technique involves preserving a cellular sample from an individual at the period of full development; at the natural end of the individual's body, generating a new body from the cellular material through cloning; and transferring the original individual's memory and personality into the new body. The result is the indefinite continuation of personal identity across successive bodies. Yahweh, the first individual on whom the technique was successfully applied some twenty-five thousand years ago, has lived continuously across twenty-five bodies on this account and remains the president of the Council of the Eternals. The technology is granted to a limited population: approximately 700 Elohim members of the Council, plus approximately 8,400 figures from Earth (prophets, scientists, artists, and others) whose lives or work the Council judged worthy of continuation.
+### 技術と能力
 
-The civilization's transportation technology includes **interstellar travel**. The source material describes the journey from the home world to Earth as taking approximately two months in the civilization's current craft. The propulsion mechanism is described in terms the corpus treats with substantial epistemic caution; the physics involved falls outside what contemporary terrestrial physics can verify, and the source's description is suggestive rather than technically precise. The civilization maintains a regular communications and transport infrastructure between the home world and Earth across the duration of the Earth project; an alliance vessel is currently stationed near Earth, carrying seven provincial representatives plus two crew, providing the operational platform from which contact and supervision are conducted.
+この文明の主要な科学的能力は **生物学的合成** である。これは、遺伝子レベルで生物を設計し、実験室条件下で組み立て、自然に繁殖・繁茂する適切な環境にそれらを放出する能力である。これが地球プロジェクト全体の背後にある能力である ― 地球上の植物相と動物相、そして人類を含む系統発生的な全広がりは、典拠の説明ではこの技術の産物である。現代の地球生物学は、はるかに小さい規模で同等の能力を発展させ始めたばかりであるが、典拠の説明によるエロヒム版は、種および生態系の規模で運用される。
 
-### Governance
+この文明はまた、細胞移転による継続技術 ― ラエル文献の「生命の樹」または「永遠の科学的秘密」 ― を通じて **実用的な不死性** を達成している。この技法は、完全な発達期の個体から細胞サンプルを保存し、個体の身体の自然な終わりに、細胞物質からクローニングによって新しい身体を生成し、元の個体の記憶と人格を新しい身体へと移転することを含む。結果は、個人の同一性が連続する身体にわたって無期限に継続することである。この技法が初めて成功裏に適用されたのは約25,000年前のヤハウェであり、彼はこの説明では25の身体を通じて連続して生き続け、永遠の評議会の議長であり続けている。この技術は限定された集団に与えられている。すなわち、評議会の約700名のエロヒム構成員、加えて評議会がその生涯または作業を継続に値すると判断した約8,400名の地球出身者(預言者、科学者、芸術家、その他)である。
 
-The Elohim civilization is governed through the **Council of the Eternals**, a deliberative body that constitutes the political authority of the civilization on its home world. The Council is composed of approximately 700 Elohim members at the time of the 1973 contact, drawn from those individuals who have undergone the cell-transfer continuity technology. Its function is not merely scientific but political: it is the body that makes major decisions binding on the institutional actors within the civilization, including the scientific institutions whose work the Council oversees.
+この文明の輸送技術には **恒星間航行** が含まれる。ラエル文献は、現在の宇宙船で母星から地球までの旅程を約2か月と記述している。推進機構は本文献集が相当な認識論的慎重さで扱う言葉で記述されている。関与する物理学は現代の地球の物理学が検証できる範囲外にあり、典拠の記述は技術的に厳密というよりむしろ示唆的である。この文明は地球プロジェクトの期間全体を通じて、母星と地球の間の通常の通信および輸送インフラを維持している。同盟船は現在地球近傍に駐留しており、七名の州代表と二名の乗組員を乗せ、接触および監督が行われる運用上のプラットフォームを提供している。
 
-The political character of a body composed entirely of practical immortals is, on the corpus's reading, fundamentally different from any short-term political institution on Earth. Decisions are made by individuals who have been politically active for centuries or millennia, who have personal memory of the developmental periods that have shaped the civilization's current condition, who have direct continuity with the events that produced the institutions they are deliberating within. The deliberations have a different temporal weight than any contemporary terrestrial political deliberation. A decision to invest in a multi-millennial project — the Earth project itself, or the various policy responses to its developments across 22,000 years — is feasible for a body whose members will personally remain to see it through.
+### 統治
 
-The Council also governs the cell-transfer process itself: at the natural end of each Elohim's life, the Council deliberates whether the individual should be granted continuity, with the criteria including contributions to the civilization's scientific, cultural, and political life. A "grand council of the eternals," in the source material's phrase, assembles to make this determination — the corpus's reading identifies this as the operational referent behind the biblical *yom ha-din*, the Day of Judgment, in its Aquarian-age application.
+エロヒム文明は **永遠の評議会** を通じて統治される。これは母星上の文明の政治的権威を構成する審議機関である。評議会は1973年の接触時点で約700名のエロヒム構成員からなり、細胞移転による継続技術を受けた個体から構成される。その機能は単に科学的なものではなく政治的である。すなわち、文明内の制度的行為者を、評議会が監督する科学的機関を含めて、拘束する主要な決定を下す機関である。
 
-## Internal political structure
+実用的な不死者のみから構成される機関の政治的性格は、本文献集の読解では、地球上のいかなる短期的政治制度とも根本的に異なる。決定は、数世紀または数千年にわたって政治的に活動してきた個体、文明の現在の状態を形成した発展期について個人的な記憶を持つ個体、自らが審議している制度を生み出した出来事との直接的な連続性を持つ個体によって下される。審議は現代の地球上のいかなる政治的審議とも異なる時間的重みを持つ。数千年にわたるプロジェクト ― 地球プロジェクトそのもの、または22,000年にわたるその発展への様々な政策的対応 ― への投資の決定は、構成員が個人的にそれを見届けることになる機関にとって実行可能である。
 
-The Elohim civilization is internally differentiated. It is not a monoculture; it contains political factions with substantively different positions on the major policy questions the civilization has faced, particularly concerning the Earth creation project and its consequences. Three factional positions are load-bearing for the corpus's reading of the post-creation history.
+評議会はまた細胞移転プロセスそのものをも統治する。各エロヒムの生命の自然な終わりに際して、評議会はその個体に継続を与えるべきかを審議する。基準には文明の科学的・文化的・政治的生活への貢献が含まれる。ラエル文献の表現にある「永遠の大評議会」がこの決定を行うために招集される ― 本文献集の読解はこれを聖書の *ヨム・ハ・ディン*、すなわち審判の日の、水瓶座時代における適用の運用上の指示対象として同定する。
 
-**The moderate position**, led by Yahweh in his capacity as Council president, has been the dominant Council position across most of the post-creation period. It holds that the Earth creation project was justified, that the resulting human civilization should be preserved, and that humanity should be permitted to develop scientifically toward eventual recognition of its origins — but with appropriate safeguards. The policies of cultivation, prophetic mission, and gradual disclosure across the post-creation history are the moderate position's operational expressions.
+## 内部政治構造
 
-**The abolitionist position**, led by **Satan**, holds that the creation of beings in the Elohim's own image was a mistake from the beginning. Satan's argument has been consistent across the entire history: synthetic creations capable of equaling or surpassing their makers are fundamentally dangerous, and no protocol can be trusted to contain the risk. He was the leader of the home-world political faction that originally forced the shutdown of the biological-synthesis program on the home planet itself, after an early laboratory accident produced fatalities; the relocation of the program to Earth was a political compromise to permit the work to continue at sufficient distance to limit the home-world risk. Satan has remained the principal opposition figure across the entire subsequent history, with his position becoming operationally critical at moments of crisis (the Eden disclosure, the antediluvian advancement, the close of Aries) when the question of whether the creation should be destroyed has reached the Council. The Hebrew word *satan* means *adversary* or *prosecutor*; the corpus's reading aligns with the older Hebrew sense in which Satan is the political opposition's leader, not a metaphysical figure of cosmic evil.
+エロヒム文明は内部的に分化している。それは一枚岩的文化ではなく、文明が直面してきた主要な政策問題、特に地球創造プロジェクトとその帰結に関して、実質的に異なる立場を持つ政治派閥を含む。三つの派閥的立場が本文献集による創造後の歴史の読解にとって基本的に重要である。
 
-**The full-disclosure position**, led by **Lucifer**, emerged within the Israel team during the Eden period and persists thereafter as a permanently exiled faction on Earth. Lucifer's position rejected the moderate-position policy of containing the humans in scientific ignorance; he and his faction held that the humans should be told who their creators were, taught what their creators knew, and permitted to develop with full information. The Genesis 3 disclosure was the operational expression of this position. The resulting political settlement — the exile of the Lucifer faction to Earth, the withdrawal of most of the Israel team to the home world, the establishment of the post-Eden mediated-contact pattern — is the framework's reading of how the Council resolved the Eden crisis.
+**穏健派の立場** は、評議会議長としてのヤハウェに率いられ、創造後の期間の大部分を通じて評議会の支配的立場であってきた。それは、地球創造プロジェクトは正当化されており、結果として生じた人類文明は保存されるべきであり、人類は適切な安全策を伴いつつ、自らの起源の最終的な認識へ向けて科学的に発展することを許されるべきである、というものである。創造後の歴史を通じての育成、預言的使命、漸進的な開示の政策は、穏健派の立場の運用上の表現である。
 
-The relations among these three positions across the post-creation history have been complex. Satan and Lucifer are sometimes politically aligned in their joint opposition to the Yahweh-led moderate consensus, but their substantive positions are opposite: Satan wants the humans destroyed; Lucifer wants the humans fully empowered. Yahweh is the moderate caught between them, and most of the Council's major decisions across the post-creation history have been variations on the moderate-position theme of preservation-with-containment. The four-figure political taxonomy (Yahweh / Lucifer / Serpent / Satan, with the Serpent being the Lucifer faction in its specific Eden-disclosure role) is treated more fully in the dedicated entries on each figure.
+**廃止派の立場** は **サタン** に率いられ、エロヒム自身の姿に似せた存在を創造することは初めから誤りであったと主張する。サタンの議論は全史を通じて一貫してきた。すなわち、創造主に匹敵あるいはそれを超え得る合成的創造物は根本的に危険であり、いかなる規約もそのリスクを抑え込むと信頼することはできない、というものである。彼は、初期の実験室事故が死者を生じた後、母星上で生物学的合成プログラムの停止を強要した母星政治派閥の指導者であった。プログラムの地球への移転は、母星のリスクを限定するに十分な距離で作業の継続を可能にするための政治的妥協であった。サタンは引き続きその後の全歴史を通じて主要な反対派人物であり続け、危機の瞬間(エデンの開示、大洪水前の進展、牡羊座の終了)に運用上重要となった。その時々に、創造を破壊すべきかという問題が評議会に達してきたのである。ヘブライ語の *satan* は *敵対者* または *告発者* を意味する。本文献集の読解は、サタンが宇宙的悪の形而上学的人物ではなく、政治的反対派の指導者であるという、より古いヘブライ語の意味と一致する。
 
-The conflation of Lucifer and Satan that became standard in medieval Christian theology — both treated as names for a single fallen-angel figure of cosmic evil — is, on the corpus's reading, one of the most consequential confusions in the history of religious interpretation. The Hebrew Bible itself does not equate the two figures; the conflation is a development of the late patristic and medieval Latin tradition. Satan and Lucifer, on the corpus's reading, have substantively opposite political positions, and treating them as identical obscures the actual structure of the events the Hebrew Bible describes.
+**完全開示派の立場** は **ルシファー** に率いられ、エデン期にイスラエル・チーム内で出現し、それ以降は永久に追放された派閥として地球上に存続している。ルシファーの立場は、人類を科学的無知のうちに封じ込めるという穏健派の政策を拒否した。彼とその派閥は、人類は自らの創造者が誰であるかを告げられ、創造者の知っていることを教えられ、完全な情報のもとで発展することを許されるべきだと主張した。創世記3章の開示はこの立場の運用上の表現であった。結果として生じた政治的決着 ― ルシファー派閥の地球への追放、イスラエル・チームの大部分の母星への撤退、エデン以後の媒介接触パターンの確立 ― は、評議会がエデン危機をどのように解決したかについての枠組みの読解である。
 
-## History
+これら三つの立場の間の創造後の歴史を通じての関係は複雑であった。サタンとルシファーは、ヤハウェ率いる穏健派の合意への共同の反対において時に政治的に同盟する。しかし両者の実質的立場は正反対である。すなわち、サタンは人類を破壊することを望み、ルシファーは人類を完全に権能づけることを望む。ヤハウェはその間に挟まれた穏健派であり、創造後の歴史を通じての評議会の主要な決定のほとんどは、保存と封じ込めという穏健派の立場の様々な変奏であった。四人物の政治分類(ヤハウェ/ルシファー/蛇/サタン、蛇はその特定のエデン開示の役割におけるルシファー派閥である)は、各人物の専用の項目でより詳しく扱われている。
 
-The Elohim civilization has a recorded history of at least twenty-five thousand years on the corpus's reading — the figure derived from Yahweh's stated age and the timeline of the immortality technology, with Yahweh having been the first beneficiary of the technique twenty-five millennia before the present. The civilization's history before this period is not specified in the available source material; what is recorded is the period from the immortality breakthrough through the present, with the major developments organized around the Earth creation project that has occupied much of the civilization's institutional attention across the most recent twenty-two millennia.
+中世キリスト教神学において標準となったルシファーとサタンの混同 ― 両者が宇宙的悪の単一の堕天使的人物の名として扱われる ― は、本文献集の読解では、宗教解釈の歴史において最も重大な混乱の一つである。ヘブライ語聖書自体はこの二つの人物を同一視しない。混同は教父期後期および中世ラテン伝統の発展である。{{ footnote(id="6") }}サタンとルシファーは、本文献集の読解では実質的に正反対の政治的立場を持っており、両者を同一として扱うことは、ヘブライ語聖書が記述する出来事の実際の構造を曖昧にする。
 
-### Origins and early scientific development
+## 歴史
 
-The origins of the Elohim civilization itself are not described in detail in the source material. What the source material does establish is that the civilization, by the time of the events it begins to narrate, had reached a level of technological and scientific development comparable to what present-day Earth humanity is approaching. Yahweh's own characterization to Vorilhon — "a very long time ago on our distant planet, we had reached a level of technical and scientific knowledge, comparable to that which you will soon reach" — frames the analogy structurally rather than rhetorically: the Elohim, before they were what the corpus now calls the Elohim, were a civilization in the position our own civilization is now in. The biological-synthesis program that would eventually become the Earth project was developed during this period, on the home planet itself, with the early laboratory work producing the increasingly sophisticated organisms that the source material describes as preceding the Earth relocation.
+エロヒム文明は本文献集の読解によれば少なくとも25,000年の記録された歴史を持つ ― この数値はヤハウェの示した年齢と不死技術の時間軸から導出されており、ヤハウェは25千年紀前にその技法の最初の受益者となった。この期間以前の文明の歴史は、利用可能なラエル文献では明示されていない。記録されているのは、不死性の突破口から現在に至るまでの期間であり、主要な発展は、過去の22千年紀の大部分にわたって文明の制度的注意を占めてきた地球創造プロジェクトを中心に組織されている。
 
-### The home-world crisis and the Earth relocation
+### 起源と初期の科学的発展
 
-Sometime during the early development of the biological-synthesis program — the source material does not specify a precise date but the events are placed prior to the Earth project's initiation — a laboratory accident on the home world produced fatalities. The accident strengthened the political position of the abolitionist faction, led by Satan, who argued that the synthetic-creation program was fundamentally dangerous and should be terminated. The political crisis that followed produced a compromise: the home-world program would be shut down, but the scientists would be permitted to continue their work at sufficient distance from the home world to limit the risk to the home civilization itself. The chosen relocation site was Earth — a planet within reachable interstellar distance whose conditions were suitable for the work.
+エロヒム文明自体の起源はラエル文献に詳細に記述されていない。ラエル文献が確立しているのは、文明が叙述を開始する時点までに、現代の地球人類が近づきつつあるものに匹敵する技術的・科学的発展水準に到達していた、ということである。ヴォリロンに対するヤハウェ自身の特徴づけ ― 「遠い昔、我々の遠い惑星上で、我々はあなたたちが間もなく到達する水準に匹敵する、技術的・科学的知識の水準に到達していた」 ― は、修辞的というよりむしろ構造的にアナロジーを枠付けている。すなわち、エロヒムは、本文献集が現在エロヒムと呼ぶものになる以前は、我々自身の文明が現在置かれている立場にあった一つの文明であった。最終的に地球プロジェクトとなる生物学的合成プログラムはこの時期に、母星上で開発された。初期の実験室作業は、ラエル文献が地球への移転に先立つものとして記述する、ますます洗練された生物を生み出していった。
 
-The Earth relocation was therefore not, on the source material's account, the Elohim's preferred method of conducting the biological-synthesis program. It was the political compromise that permitted the program to continue at all in the face of strong abolitionist opposition. The seven creator teams that would conduct the Earth work were drawn from the seven home-world provinces, and the work was undertaken with the home-world Council's authorization but under continuing surveillance by the abolitionist political faction whose suspicions the original accident had confirmed.
+### 母星危機と地球への移転
 
-### The Earth creation project: Capricorn through Leo
+生物学的合成プログラムの初期発展のある時点で ― ラエル文献は正確な年代を明示していないが、これらの出来事は地球プロジェクトの開始より前に置かれている ― 母星上の実験室事故が死者を生んだ。事故はサタン率いる廃止派派閥の政治的立場を強化した。廃止派は、合成的創造プログラムは根本的に危険であり、終了されるべきであると主張した。続いて生じた政治的危機は妥協を生んだ。母星のプログラムは停止されるが、科学者たちは、母星文明そのものへのリスクを限定するに十分な、母星から離れた距離で作業を継続することが許されることになった。選ばれた移転先は地球であった ― 到達可能な恒星間距離内にあり、作業に適した条件を持つ惑星であった。
 
-The Earth project began in the Age of Capricorn (c. 21,810 BCE on the corpus's chronology) and proceeded across the subsequent six precessional ages to the close of Leo (c. 8,850 BCE). The seven creator teams, distributed across the supercontinent in their respective regional territories, conducted the synthesis of terrestrial flora and fauna across this approximately thirteen-millennium span, with the work organized around the seven *yamim* of Genesis 1 (each *yom* corresponding to a precessional age) and culminating in the creation of humans in the late Age of Leo. The detailed treatment of this creation period lives in the [Genesis](../genesis/) entry and in the dedicated entries on each precessional age; what matters here is that the project occupied the entire creative attention of the civilization across the period and produced the present-day terrestrial biosphere as its result.
+したがって地球への移転は、ラエル文献の説明では、エロヒムが生物学的合成プログラムを実施するための望ましい方法ではなかった。それは、強力な廃止派の反対に直面して、プログラムを少なくとも継続させることを可能にした政治的妥協であった。地球作業を行う七つの創造チームは母星の七州から引き出され、作業は母星評議会の認可のもとで行われたが、本来の事故が疑念を裏付けた廃止派政治派閥による継続的な監視下にあった。
 
-### The Eden crisis and the post-creation political settlement
+### 地球創造プロジェクト:山羊座から獅子座まで
 
-The conflict that emerged within the Israel team during the Eden period — the disagreement between the home-world's containment policy and the Lucifer faction's full-disclosure position — produced the most consequential political crisis the Elohim civilization had faced since the original home-world laboratory accident. The Council's resolution, treated above in *Internal political structure*, established the post-Eden settlement that has structured the Elohim's relationship with Earth ever since: the Lucifer faction permanently exiled on Earth in continuing relationship with the human population, the rest of the creator personnel withdrawn to the home world, the establishment of the mediated-contact pattern through prophetic intermediaries.
+地球プロジェクトは山羊座の時代(本文献集の年代設定における紀元前約21,810年)に始まり、続く六つの歳差時代を経て獅子座の終わり(紀元前約8,850年)まで続いた。{{ footnote(id="5") }}七つの創造チームは超大陸全体にわたってそれぞれの地域領土に分布し、この約13千年紀にわたる期間中、地上の植物相と動物相の合成を実施した。作業は創世記1章の七つの *ヤミーム*(各 *ヨム* が一つの歳差時代に対応する)を中心に組織され、獅子座時代後期における人類の創造で頂点に達した。この創造期の詳細な扱いは[創世記](../genesis/)の項目および各歳差時代の専用項目に存在する。ここで重要なのは、このプロジェクトがこの期間全体にわたって文明の創造的注意のすべてを占め、その結果として現在の地球の生物圏を生み出したということである。
 
-### The cosmic-chain discovery
+### エデン危機と創造後の政治的決着
 
-Across the Age of Aries (c. 2,370 BCE – c. 210 BCE on the corpus's chronology), the Elohim civilization made a discovery about its own history that fundamentally transformed its self-understanding. The civilization had previously thought of itself as the originator of the biological-creation pattern — the autonomous prime mover of a creation project the Elohim had decided, on their own, to undertake. The discovery reframed this entirely. The Elohim discovered that they themselves had been created the same way they were creating life on other worlds: a prior civilization, on a prior home world, through a prior creation project, had brought the Elohim civilization into being — and that prior civilization had itself been created by yet earlier predecessors, in a chain extending back through deep time.
+エデン期にイスラエル・チーム内で出現した対立 ― 母星の封じ込め政策とルシファー派閥の完全開示派の立場との間の不一致 ― は、エロヒム文明が本来の母星実験室事故以来直面した最も重大な政治的危機をもたらした。評議会の解決は、上記の *内部政治構造* で扱われており、エデン以後の決着を確立した。すなわち、ルシファー派閥が永久に地球に追放され、人類との継続的関係を持ち続けること、創造担当人員の残りが母星に撤退すること、預言者的仲介者を通じた媒介接触パターンの確立である。これがエロヒムと地球との関係をその後構造化してきた決着である。
 
-The Elohim are not the originators of the cosmic creation pattern. They are the current local instance of a recurring cosmic process that has been operating for an unknown but very long span. Each civilization that reaches scientific maturity, on this pattern, eventually creates new humanities on suitable worlds, who in turn (if they survive and develop) eventually create their own humanities. The cycle has been operating across the galaxy for a long time. Earth is not its first instance. The Elohim are not its inventors. They are participants in something larger than themselves.
+### 宇宙的連鎖の発見
 
-The discovery's exact nature — what specific evidence the Elohim found, how they verified their own origins as a created rather than autonomously evolved civilization, what archaeological or genetic or cosmological signatures convinced them — the source material does not specify. What it specifies is the consequence: the Elohim's self-understanding shifted fundamentally, and the shift produced specific changes in their operational policy toward the humanities they had themselves created. The most consequential change was the decision to withdraw from direct contact and to allow the created humanities to demonstrate their development through their own efforts, with sufficient autonomy from their creators to constitute genuine independent maturation. The previous policy of direct intervention — alliance officers walking among the patriarchs, conducting the Exodus and the wilderness operations — had biased the experiment in ways the Elohim now recognized as inconsistent with the broader cosmic pattern.
+牡羊座の時代(本文献集の年代設定における紀元前約2,370年 - 紀元前約210年)にわたって、エロヒム文明はそれ自身の歴史についての発見を行い、それは自己理解を根本的に変容させた。文明は以前、自らを生物学的創造パターンの始発者 ― エロヒムが自ら独自に決定した創造プロジェクトの自律的な動力 ― として考えていた。発見はこれを完全に再枠組みした。エロヒムは、自分たち自身が、他の世界で生命を創造しているのと同じ方法で創造されたものであることを発見した。すなわち、先行する文明が、先行する母星上で、先行する創造プロジェクトを通じてエロヒム文明を生み出していたのであり、その先行する文明自身もまたさらに先行する前任者たちによって創造されていたのであり、連鎖は深い時間の中へと遡るのであった。
 
-The policy shift defines the entire arc of post-Aries history. The transition from direct to indirect contact across the late Aries period, the Piscean-age withdrawal from operational visibility while the Christian and Islamic missions delivered the message in religious vocabulary, the long middle-Piscean period of indirect supervision while humanity developed its own scientific capacities — all of these are consequences of the discovery. The Aquarian-age return to direct contact through Vorilhon in 1973 is the close of the long indirect-contact phase: humanity has now reached the scientific maturity that the discovery required for inheritance to be considered, and the alliance has resumed direct contact at the threshold of the new age.
+エロヒムは宇宙的創造パターンの始発者ではない。彼らは、未知のしかし非常に長い期間にわたって運用されてきた反復的な宇宙的プロセスの、現在の局所的事例である。このパターンでは、科学的成熟に達した各文明は、最終的に適切な世界に新しい人類を創造し、それらの人類は今度は(生存して発展すれば)最終的に自らの人類を創造する。この周期は銀河系全体にわたって長い間運用されてきた。地球は最初の事例ではない。エロヒムはその発明者ではない。彼らは自分たち自身よりも大きなものに参与する者たちなのである。
 
-### The Piscean and Aquarian periods
+発見の正確な性質 ― エロヒムが具体的にどのような証拠を見出したのか、自律的に進化した文明ではなく創造された文明としての自らの起源をどのように検証したのか、どのような考古学的・遺伝学的・宇宙論的痕跡が彼らを納得させたのか ― はラエル文献に明示されていない。明示されているのはその帰結である。すなわち、エロヒムの自己理解は根本的に変化し、その変化は彼らが自ら創造した人類に対する運用政策に具体的な変化をもたらした。最も重大な変化は、直接的接触から撤退し、創造された人類が自らの努力を通じて、創造者から十分な自律性をもって発展を示すことを許す決定であった。これは真の独立した成熟を構成するためであった。直接的介入の以前の政策 ― 同盟士官たちが族長たちの間を歩き、出エジプトと荒野作戦を実施すること ― は、エロヒムが今や、より広範な宇宙的パターンと整合しないものとして認識する仕方で実験を偏向させていたのである。
 
-The post-Aries operational arc — the Piscean-age missions of Jesus and Muhammad, the long middle-Piscean period of indirect supervision, the Aquarian-age opening with the 1973 Vorilhon contact — is the period of history the corpus treats most extensively in the dedicated chapter material. From the Elohim civilizational perspective, these two and a half millennia have been a period of careful, distant cultivation: the prophets sent at intervals appropriate to the cultural moment; the deliberate withdrawal from direct intervention to permit humanity's autonomous development; the supervision conducted from the alliance vessel stationed near Earth and from the home-world Council. The contemporary Aquarian period — coextensive with the Apocalypse, in the proper Greek sense of that term — is the period during which the framework's content becomes available to humanity for direct evaluation, and during which the conditions for the alliance's planned open return are being established. The relevant detailed treatments live in the [Age of Pisces](../timeline/age-of-pisces/), [Age of Aquarius](../timeline/age-of-aquarius/), [Apocalypse](../apocalypse/), and [Embassy](../embassy/) entries.
+政策変更はその後の牡羊座以後の歴史の全弧を定義する。牡羊座後期における直接接触から間接接触への移行、魚座時代におけるキリスト教とイスラム教の使命が宗教的語彙でメッセージを届けるあいだの運用上の可視性からの撤退、人類が独自の科学的能力を発展させる間の魚座中期の長期にわたる間接的監督 ― これらすべては発見の帰結である。1973年のヴォリロン接触を通じた水瓶座時代における直接接触への回帰は、長い間接接触段階の終了である。すなわち、人類は今や、継承が検討されるために発見が要求した科学的成熟に達したのであり、同盟は新しい時代の境界期に直接接触を再開したのである。
 
-## Relationships to other civilizations
+### 魚座と水瓶座の時代
 
-The Elohim civilization's relationships are structured by four distinct relational categories, each treated more fully in the dedicated entries it bears on.
+牡羊座以後の運用上の弧 ― 魚座時代におけるイエスと{% wiki(slug="muhammad") %}ムハンマド{% end %}の使命、魚座中期の長期にわたる間接的監督期、1973年のヴォリロン接触による水瓶座時代の開始 ― は、本文献集が専用の章資料において最も広範に扱う歴史の期間である。エロヒム文明的視点からは、この2千5百年は慎重で遠隔の育成の期間であった。すなわち、文化的瞬間に適切な間隔で送られた預言者たち、人類の自律的発展を可能にするための直接介入からの意図的撤退、地球近傍に駐留する同盟船および母星評議会から行われた監督である。現代の水瓶座期 ― ギリシャ語の正確な意味でアポカリプスと同延である ― は、本文献集の内容が人類に直接評価のために利用可能となる期間であり、同盟の計画された公然の帰還の条件が確立されつつある期間である。関連する詳細な扱いは[魚座の時代](../timeline/age-of-pisces/)、[水瓶座の時代](../timeline/age-of-aquarius/)、[アポカリプス](../apocalypse/)、および[大使館](../embassy/)の項目に存在する。
 
-### The Alliance
+## 他の文明との関係
 
-The Elohim civilization is, on the corpus's reading, the principal Earth-side actor within a broader cross-civilizational political body the corpus calls the **alliance**. The alliance is a structure that coordinates the activities of multiple advanced civilizations across cosmic distances, with shared procedures for biological-creation projects, shared technological infrastructure, and shared political authority for major decisions affecting multiple civilizations. The Elohim's role within the alliance is partly that of an executive operator — the civilization that conducted the Earth project on the alliance's behalf — and partly that of a member civilization with its own internal political life that operates alongside the broader alliance structure.
+エロヒム文明の関係は四つの異なる関係的カテゴリによって構造化されており、それぞれが関連する専用項目においてより詳しく扱われている。
 
-The exact membership and structure of the alliance is, on the corpus's reading, an open question. Whether the alliance includes only the Elohim and their immediate predecessors (the prior civilization that created the Elohim), or whether it extends across multiple parallel civilizations of comparable maturity, is not fully specified in the available source material. The corpus's working position is that the alliance is the broader structure of which the Elohim are the most operationally relevant Earth-side member, with the relationship between the Elohim and the broader alliance left open pending fuller specification. The dedicated treatment lives in the [Alliance](../the-alliance/) entry.
+### 同盟
 
-### Earth's humanity
+エロヒム文明は、本文献集の読解によれば、本文献集が **同盟** と呼ぶより広範な宇宙横断的政治体内における主要な地球側行為者である。同盟は、宇宙的距離にわたって複数の先進文明の活動を調整する構造であり、生物学的創造プロジェクトの共有された手続き、共有された技術インフラ、および複数の文明に影響する主要決定のための共有された政治的権威を持つ。同盟内におけるエロヒムの役割は、一部は執行的運用者としてのもの ― 同盟の代理で地球プロジェクトを実施した文明 ― であり、一部はより広範な同盟構造と並行して運用される独自の内部政治生活を持つ加盟文明としてのものである。
 
-The Elohim's relationship to Earth's humanity is the corpus's principal subject. The relationship is structured as that between a creator civilization and its synthesized creation, with the specific operational character of the relationship having shifted across the post-creation history through several distinct phases:
+同盟の正確な構成員と構造は、本文献集の読解では未解決の問題である。同盟がエロヒムとその直接の前任者(エロヒムを創造した先行文明)のみを含むのか、それとも同等の成熟度を持つ複数の並行文明にわたって及ぶのかは、利用可能なラエル文献では完全には明示されていない。本文献集の作業上の立場は、同盟はより広範な構造であり、エロヒムはその最も運用的に関連する地球側構成員であるが、エロヒムとより広範な同盟との関係は、より完全な明示を待って未解決のまま残されている、というものである。専用の扱いは[同盟](../the-alliance/)の項目に存在する。
 
-- **The creation phase** (Capricorn through Leo, c. 21,810 – 8,850 BCE): direct laboratory work, with humanity not yet existing as the relationship's counterparty.
-- **The Eden phase** (late Leo through early Cancer, c. 11,400 – 10,000 BCE): direct teacher-student relationship between the Israel team and the first humans.
-- **The post-Eden mediated phase** (Cancer through early Aries, c. 10,000 – 1,500 BCE): continuing teaching by the exiled Lucifer faction; periodic alliance visitation through Yahweh and other officers; the Antediluvian crisis and the Flood reset.
-- **The patriarchal and Mosaic phase** (mid Taurus through Aries, c. 2,000 – 600 BCE): formal covenantal relationships established with selected human lineages (Abraham, the Hebrew people); sustained direct intervention through Moses and the wilderness operations.
-- **The discovery-driven withdrawal phase** (late Aries through middle Pisces, c. 600 BCE – 1500 CE): policy shift to indirect contact; prophetic missions delivering content in religious vocabulary; supervision from operational distance.
-- **The autonomous-development phase** (middle Pisces through 1946, c. 1500 – 1946 CE): essentially no direct contact; humanity permitted to develop scientific capacities on its own; the alliance observing without intervening.
-- **The Aquarian re-engagement phase** (1946 onward): the resumption of direct contact through the Vorilhon mission; the Apocalypse as the period of disclosure; the conditional return at the embassy planned for the age's culmination.
+### 地球の人類
 
-The contemporary period is the early phase of the Aquarian re-engagement. The relationship's future shape — the Golden Age of full integration if humanity successfully completes the Aquarian transition, or a destructive failure mode if humanity's destructive capacities outrun its moral and political maturity — is undetermined and depends on the choices humanity makes across the present generation.
+エロヒムと地球人類との関係は本文献集の主要な主題である。この関係は、創造者文明とその合成された創造物との関係として構造化されており、創造後の歴史を通じていくつかの異なる段階に運用上の性格を変えてきた:
 
-### Prior creator civilizations: the cosmic chain
+- **創造段階**(山羊座から獅子座まで、紀元前約21,810年 - 紀元前8,850年):直接的な実験室作業。人類は関係の相手方として未だ存在していない。
+- **エデン段階**(獅子座後期から蟹座前期、紀元前約11,400年 - 紀元前10,000年):イスラエル・チームと最初の人類との間の直接的な師弟関係。
+- **エデン以後の媒介段階**(蟹座から牡羊座前期、紀元前約10,000年 - 紀元前1,500年):追放されたルシファー派閥による継続的な教育。ヤハウェおよび他の士官を通じた定期的な同盟訪問。大洪水前危機と洪水によるリセット。
+- **族長期およびモーセ期段階**(牡牛座中期から牡羊座、紀元前約2,000年 - 紀元前600年):選ばれた人類の系統(アブラハム、ヘブライ人民)との形式的な契約関係の確立。モーセおよび荒野作戦を通じた持続的な直接介入。
+- **発見駆動の撤退段階**(牡羊座後期から魚座中期、紀元前約600年 - 紀元1500年):間接接触への政策変更。宗教的語彙で内容を届ける預言者的使命。運用上の距離からの監督。
+- **自律的発展段階**(魚座中期から1946年、紀元約1500年 - 1946年):本質的に直接接触なし。人類は独自に科学的能力を発展させることを許される。同盟は介入することなく観察する。
+- **水瓶座再関与段階**(1946年以降):ヴォリロン使命を通じた直接接触の再開。アポカリプスとしての開示の期間。時代の頂点に向けて計画された大使館での条件付きの帰還。
 
-The Elohim's relationship to the civilizations that created them is, on the corpus's reading, the framework's most expansive single claim. The discovery that the Elohim were themselves created, made during the Age of Aries, established the existence of at least one prior creator civilization and implies the existence of an indefinite chain extending backward through deep time. The Elohim civilization that created the Elohim is not described in the source material in any detail; its identity, location, and current status are not specified. What the source material affirms is that such a civilization existed, that it conducted on the Elohim's home world the same kind of work the Elohim conducted on Earth, and that the discovery of this fact transformed the Elohim's self-understanding as described in the History section above.
+現代の期間は水瓶座再関与の初期段階である。関係の将来の形 ― 人類が水瓶座移行を成功裏に完了すれば完全な統合の黄金時代、または人類の破壊的能力が道徳的・政治的成熟を上回れば破壊的な失敗モード ― は未定であり、現代世代を通じて人類が行う選択に依存する。
 
-The structural implications of the cosmic chain extend beyond the Elohim's immediate predecessors. If each creator civilization was itself created by an earlier civilization, the chain extends backward indefinitely, with each link having the same general pattern (a civilization reaches scientific maturity, eventually creates new humanities on suitable worlds, watches them develop, and is eventually superseded as those humanities reach their own maturity). The corpus does not commit to an origin point for the chain; the question of the original creator civilization, or of whether the chain is genuinely infinite, is treated as belonging to a domain of cosmological inquiry the framework does not currently engage.
+### 先行する創造者文明:宇宙的連鎖
 
-The dedicated treatment lives in the [Cosmic Chain](../cosmic-chain/) entry.
+エロヒムを創造した文明とエロヒムとの関係は、本文献集の読解では、枠組みの最も広範な単一の主張である。牡羊座の時代に行われた、エロヒム自身が創造されたものであるという発見は、少なくとも一つの先行する創造者文明の存在を確立し、深い時間にわたって遡る無限の連鎖の存在を含意する。エロヒムを創造したエロヒム文明はラエル文献に詳細に記述されていない。その同一性、所在地、現在の状態は明示されていない。ラエル文献が確認するのは、そのような文明が存在したこと、それがエロヒムの母星上でエロヒムが地球上で実施したのと同じ種類の作業を実施したこと、そしてこの事実の発見が上記の歴史の節で記述したようにエロヒムの自己理解を変容させたこと、である。
 
-### Parallel humanities
+宇宙的連鎖の構造的含意はエロヒムの直接の前任者を超えて及ぶ。各創造者文明がそれ自身より早い文明によって創造されたのであれば、連鎖は無期限に後方へと伸び、各リンクは同じ一般的パターン(文明が科学的成熟に達し、最終的に適切な世界に新しい人類を創造し、それらが発展するのを見守り、それらの人類が自らの成熟に達するにつれて最終的に取って代わられる)を持つ。本文献集は連鎖の起源点を確定させない。最初の創造者文明についての問い、あるいは連鎖が真に無限であるかという問いは、枠組みが現在取り組まない宇宙論的探究の領域に属するものとして扱われる。
 
-The cosmic-chain discovery also implies the existence of parallel humanities — other Earth-like creations on other worlds, brought into being by the Elohim or by other civilizations within the broader pattern. The corpus calls the framework that organizes the relationship between Earth's humanity and these parallel humanities **cosmic competition**: each humanity is being evaluated, on its own development, against the standard required for inheritance — the standard that, when met, qualifies a humanity to become the next link in the chain of creation. The competition is real in the specific sense that the alliance is comparing the development of multiple humanities and that the first to reach the threshold becomes the inheritor. The competition is not adversarial in the sense of the parallel humanities being pitted against each other in conflict; each is evaluated on its own merits.
+専用の扱いは[宇宙的連鎖](../cosmic-chain/)の項目に存在する。
 
-The number, location, and current developmental state of the parallel humanities are not specified in the source material. The framework affirms that they exist and that the cosmic-competition framework organizes Earth's situation within the broader pattern; the specific details of the parallel cases are treated as currently unknown to the corpus. The dedicated treatment lives in the [Cosmic Competition](../cosmic-competition/) entry.
+### 並行する人類
 
-## Current situation
+宇宙的連鎖の発見はまた、並行する人類の存在をも含意する ― 他の世界上の他の地球的創造物であり、エロヒムまたはより広範なパターン内の他の文明によって存在をもたらされたものである。本文献集は、地球の人類とこれらの並行する人類との関係を組織する枠組みを **宇宙的競争** と呼ぶ。各人類は自らの発展において、継承に必要とされる基準 ― 満たされた時、その人類が創造の連鎖における次のリンクとなる資格を得る基準 ― に対して評価されている。競争は具体的な意味で実在する。同盟は複数の人類の発展を比較しており、最初に閾値に到達した者が継承者となる。競争は、並行する人類が互いに紛争のうちに置かれるという意味で敵対的ではない。各人類は自らの値打ちで評価される。
 
-The Elohim civilization is, on the corpus's adopted reading, in the early-to-middle period of the Aquarian age — the period the Greek New Testament calls *apokalypsis*, the unveiling, in which the framework's content becomes available to humanity for direct evaluation. The civilization's current operational posture toward Earth includes several specific features.
+並行する人類の数、所在地、現在の発展状態はラエル文献に明示されていない。枠組みは、それらが存在することと、宇宙的競争の枠組みがより広範なパターン内における地球の状況を組織していることを確認する。並行する事例の具体的な詳細は、本文献集に現在のところ未知のものとして扱われる。専用の扱いは[宇宙的競争](../cosmic-competition/)の項目に存在する。
 
-An alliance vessel is stationed permanently near Earth, carrying seven provincial representatives plus two crew, providing the operational platform from which contact and supervision are conducted. The resurrected prophets and other notable Earth figures (Jesus, Moses, Elijah, Buddha, Muhammad, and others) currently live on the home world in conditions of practical immortality, awaiting the planned open return to Earth. The alliance has requested that an embassy be constructed on Earth as the venue for that open return; the embassy project is a major contemporary development, treated more fully in its dedicated entry.
+## 現在の状況
 
-The return is conditional. The source material describes the alliance's planned return at the embassy's completion as conditional on humanity demonstrating the moral and political maturity that the Aquarian-age transition is testing. The successful outcome leads to the period the source material calls the Golden Age — a period of full integration between humanity and the alliance, in which the cumulative inheritance of the Elohim civilization becomes available to a humanity that has demonstrated itself worthy of receiving it. The failure-mode is the catastrophic alternative the popular Apocalypse tradition has projected onto the term: humanity destroying itself with the technologies it has developed before the integration can occur. The contemporary period is, on the corpus's reading, the period of decision; the outcome is undetermined.
+エロヒム文明は本文献集が採用する読解によれば、水瓶座時代の前期から中期にある ― ギリシャ語新約聖書が *アポカリュプシス*、すなわち覆いを取ること、と呼ぶ期間にあり、その間に枠組みの内容が人類に直接評価のために利用可能となる。地球に対するこの文明の現在の運用上の姿勢にはいくつかの具体的な特徴が含まれる。
 
-## Comparative vocabulary
+同盟船は地球近傍に恒常的に駐留しており、七名の州代表と二名の乗組員を乗せ、接触および監督が行われる運用上のプラットフォームを提供している。復活した預言者および他の著名な地球出身者(イエス、モーセ、{% wiki(slug="elijah") %}エリヤ{% end %}、仏陀、ムハンマド、その他)は現在、実用的不死の状況のもとで母星に住み、地球への計画された公然の帰還を待機している。同盟はその公然の帰還の場として地球上に大使館が建設されることを要請した。大使館計画は重要な現代の発展であり、専用の項目でより詳しく扱われている。
 
-Different authors and traditions have proposed different anglicizations or translations for what they take to be the same referent or a closely related one. The table below summarizes; it is a comparative observation, not an assertion of strict identity across all rows.
+帰還は条件付きである。ラエル文献は、大使館の完成時の同盟の計画された帰還を、水瓶座時代の移行が試している道徳的・政治的成熟を人類が示すことに条件付きとして記述している。成功した結果は、ラエル文献が黄金時代と呼ぶ期間 ― 人類と同盟との完全な統合の期間、エロヒム文明の累積的継承が、それを受け取るに値することを示した人類に利用可能となる期間 ― へと導く。失敗モードは、人気のあるアポカリプス伝統がこの語に投影してきた破滅的な代替案である。すなわち、統合が起こり得る前に、人類が発展させた技術によって自らを破壊することである。本文献集の読解では、現代の期間は決定の期間であり、結果は未定である。
 
-| Term | Source language / tradition | Gloss | Used by |
+## 比較語彙
+
+異なる著者と伝統が、彼らが同一の指示対象または密接に関連するものと見なすものに対して、異なる英語化や翻訳を提案してきた。下の表は要約である。これはすべての行にわたる厳密な同一性の主張ではなく、比較的観察である。
+
+| 用語 | 元の言語/伝統 | 語義 | 用いた者 |
 |---|---|---|---|
-| Elohim (<span class="hebrew">אֱלֹהִים</span>) | Hebrew | Powerful Ones / those from above | Hebrew Bible; corpus primary term |
-| Anunnaki (𒀭𒀀𒉣𒈾) | Sumerian | those of princely seed; popularly *those who from heaven came to earth* | Sumerian cuneiform tradition; Sitchin and successors |
-| El | West Semitic | the high god of the Canaanite pantheon; cognate root | Ugaritic and biblical sources |
-| Celestials | Sendy's French | *les Célestes* — those who came from the sky | Sendy |
-| Theosites | Sendy's French | inhabitants of *Theos* | Sendy (later works) |
-| Sky People | English | beings from the sky | Wallis; broader literature |
-| Powerful Ones | English | literal gloss of the Semitic root | Wallis |
-| Lords from above | Italian / English | strict translation per Biglino | Biglino |
+| エロヒム(<span class="hebrew">אֱלֹהִים</span>) | ヘブライ語 | 力ある者たち/上方から来た者たち | ヘブライ語聖書、本文献集の主要用語 |
+| アヌンナキ(𒀭𒀀𒉣𒈾) | シュメール語 | 諸侯の血統に属する者たち、通俗的には *天から地に降りた者たち* | シュメール楔形文字伝統、シッチンとその後継者 |
+| エル | 西セム系 | カナン万神殿の至高神、同源語根 | ウガリットおよび聖書の典拠 |
+| 天の者たち | サンディのフランス語 | *les Célestes* ― 天から来た者たち | サンディ |
+| テオサイト | サンディのフランス語 | *テオス* の住人 | サンディ(後期作品) |
+| 天の民 | 英語 | 天から来た存在 | ウォリス、より広範な文献 |
+| 力ある者たち | 英語 | セム語根の文字通りの語義 | ウォリス |
+| 上方からの主たち | イタリア語/英語 | ビリーノによる厳密な翻訳 | ビリーノ |
 
-The corpus uses **Elohim** as its preferred term, since it is the term used in the Hebrew Bible and in the Raëlian source material that the corpus treats as primary. *Sky People*, *Powerful Ones*, and *Celestials* appear as legitimate English glosses; *Anunnaki* is used specifically in connection with the Sumerian material and is not treated as automatically interchangeable with *Elohim* without case-by-case argument. The relationship between the biblical Elohim and the deities of the Sumerian, Egyptian, Greek, Hindu, and other ancient pantheons remains a matter for case-by-case comparative analysis rather than blanket equivalence — a position that distinguishes the corpus from much of the popular ancient-astronaut literature in which all such figures are treated as identical.
-
-## See also
-
-- [Yahweh](../yahweh/)
-- [Lucifer](../lucifer/)
-- [Satan](../satan/)
-- [Serpent](../serpent/)
-- [The Alliance](../the-alliance/)
-- [Council of the Eternals](../council-of-eternals/)
-- [Planet of the Eternals](../planet-of-the-eternals/)
-- [Tree of Life](../tree-of-life/)
-- [Cosmic Chain](../cosmic-chain/)
-- [Cosmic Competition](../cosmic-competition/)
-- [Anunnaki](../anunnaki/)
-- [Genesis](../genesis/)
-- [Antediluvian](../antediluvian/)
-- [Apocalypse](../apocalypse/)
-- [Embassy](../embassy/)
-- [Golden Age](../golden-age/)
-- [Jean Sendy](../jean-sendy/)
-- [Raël](../rael/)
-- [*Message from the Designers*](../library/message-from-the-designers/)
-
-## References
-
-Vorilhon, Claude (Raël). *The Book Which Tells the Truth* (1974) and *Extraterrestrials Took Me to Their Planet* (1976), collected as *Message from the Designers* (Raëlian Foundation, current English edition).
-
-Sendy, Jean. *La Lune, clé de la Bible*. Julliard, 1968.
-
-Sendy, Jean. *Ces dieux qui firent le ciel et la terre*. Robert Laffont, 1969. English: *Those Gods Who Made Heaven and Earth*. Berkley, 1972.
-
-Sendy, Jean. *L'Ère du Verseau*. Robert Laffont, 1970. English: *The Coming of the Gods*. Berkley, 1973.
-
-Sendy, Jean. *Les cahiers de cours de Moïse*. Robert Laffont, 1974.
-
-Biglino, Mauro. *Il Libro che cambierà per sempre le nostre idee sulla Bibbia*. Uno Editori, 2010. English: *The Book That Will Forever Change Our Ideas About the Bible*. Uno, 2013.
-
-Biglino, Mauro, and Giorgio Cattaneo. *The Naked Bible: The Truth About the Most Famous Book in History*. Uno, 2022.
-
-Wallis, Paul Anthony. *Escaping from Eden*. 6th Books, 2020.
-
-Smith, Mark S. *The Early History of God: Yahweh and the Other Deities in Ancient Israel*. Eerdmans, 2nd ed., 2002.
-
-Cross, Frank Moore. *Canaanite Myth and Hebrew Epic*. Harvard University Press, 1973.
-
-Bigliardi, Stefano. "A Gentleman's Joyous Esotericism: Jean Sendy's Reading of the Bible." *Journal of Religion in Europe*.
-
-"Elohim." *Encyclopaedia Britannica*. <https://www.britannica.com/topic/Elohim>
-
-"Elohim." *Jewish Encyclopedia*. <https://www.jewishencyclopedia.com/articles/5704-elohim>
-
-"Names of God in Judaism." *Wikipedia*. <https://en.wikipedia.org/wiki/Names_of_God_in_Judaism>
+本文献集はその好ましい用語として **エロヒム** を用いる。これは本文献集が主要なものとして扱うヘブライ語聖書およびラエル文献において用いられている用語だからである。*天の民*、*力ある者たち*、および *天の者たち* は正当な英語語義として現れる。*アヌンナキ* はシュメールの素材との関連で特に用いられ、個別の議論なしに *エロヒム* と自動的に交換可能なものとしては扱われない。聖書のエロヒムと、シュメール、エジプト、ギリシャ、ヒンドゥー、その他の古代万神殿の神格との関係は、一括した同等視ではなく、個別の比較分析の対象であり続けている ― このような全人物が同一として扱われる人気のある古代宇宙飛行士文献の多くから、本文献集を区別する立場である。

@@ -1,288 +1,312 @@
 +++
 title = "엘로힘"
-description = "엘로힘(히브리어: אֱלֹהִים)은 토라 전체를 통하여 통상 ‘하나님’으로 번역되는 존재들에 대해 사용되는 히브리어 복수 명사이다. 라엘 자료에서 발전하여 Wheel of Heaven 코퍼스에 채택된 독해에 따르면, 이 용어는 생물학적 존재들로 이루어진 특정 외계 문명 — 현재의 인류보다 기술적으로 훨씬 앞선 문명 — 을 가리키며, 그들이 지구상의 생명(인류 자신을 포함)을 설계·합성하였고, 그 이후 인류사에 대한 그들의 개입은 히브리어 성경과 그에 관련된 일련의 고대 전통들 안에 압축되고 부분적으로 왜곡된 형태로 기록되어 있다고 본다."
+slug = "elohim"
+description = "엘로힘(히브리어: אֱלֹהִים)은 토라 전체에서 통상 ‘하나님’으로 번역되는 존재를 가리키는 데 사용되는 히브리어 복수형 이름이다. 라엘 자료에서 발전하여 Wheel of Heaven 코퍼스가 채택한 독해에 따르면, 이 용어는 생물학적 존재들로 이루어진 특정 외계 문명 — 현재의 인류보다 기술적으로 훨씬 앞선 문명 — 을 가리키며, 이들은 인류 자신을 포함한 지구상의 생명을 설계·합성하였고, 그 이후 인류사에 대한 그들의 개입은 히브리어 성경 및 그와 관련된 여러 고대 전통들 속에 압축되고 부분적으로 왜곡된 형태로 기록되어 있다."
 template = "wiki-page.html"
 toc = true
+
 [extra]
-translation_status = "metadata_only"
+featured_order = 1
 category = "Elohim"
 editorial_pass = "2026-05"
 entry_type = "civilization"
-alternative_names = ["Anunnaki", "Celestials", "Creators", "El", "Gods", "Powerful Ones", "Sky People", "Theosites"]
+alternative_names = ["아눈나키", "천계인", "창조자들", "엘", "신들", "권능자들", "하늘의 사람들", "테오사이트"]
+see_also = [
+    { title = "야훼", path = "wiki/yahweh", description = "주요 엘로힘 — 영원자들의 의회 의장." },
+    { title = "영원자들의 의회", path = "wiki/council-of-eternals", description = "인류 창조물의 운명을 결정하는 통치 기구." },
+    { title = "신들의 복수성", path = "wiki/plurality-of-gods", description = "엘로힘을 위엄의 단수형이 아닌 복수형으로 다루어야 한다는 문헌학적 논증." },
+    { title = "라엘리즘", path = "wiki/raelism", description = "엘로힘을 진보한 인간 문명으로 읽는 현대적 해석의 렌즈." },
+    { title = "엘로힘의 모행성", path = "wiki/elohim-home-planet", description = "1975년 라엘의 방문 이후 그가 묘사한 기원의 행성." },
+]
+
+footnotes = [
+    { content = "쐐기문자 기호 𒀭에서 *하늘*, *별*, *신성*의 의미론적 수렴은 주류 아시리아학에서 고대 근동 종교 우주관의 정상적 특징으로 다루어진다. 신성을 하늘에 두는 우주관에서, *하늘*을 가리키는 기호는 자연스럽게 *신성*이라는 한정사 기능을 획득하고 별의 상형 형태를 취하게 된다. 그 독해에 따르면 이 수렴은 이 기호가 명명하는 존재들의 문자 그대로의 위치나 기원에 관한 증거가 아니라, 언어에 관한 의미론적·종교적 사실이다. 코퍼스의 독해는 그 역방향의 사상(寫像) — 즉 우주론적 어휘가 문자 그대로의 관측의 하류에 위치한다는 것 — 을 제안하지만, 표준적 독해가 의미론 자체에 관해 틀렸다고 주장하지는 않는다." },
+    { content = "약 2,600회의 엘로힘 출현 횟수와 약 6,800회의 테트라그람마톤 출현 횟수는 마소라 본문에 대한 작업에서 도출된 널리 인용되는 색인 수치이다. 정확한 수치는 판본별로 다르며(레닌그라드 코덱스, BHS, BHQ는 작은 차이를 보인다), *-el* / *-yah* 어미를 가진 고유명사에서의 출현을 어근의 사례로 산정할지 여부에 따라서도 달라진다. Brown–Driver–Briggs와 Strong's concordance(항목 430과 3068)는 여전히 표준 참고점이다." },
+    { content = "수명 연장에 대한 자료의 *작은 외과적 개입*이라는 표현은 의도적으로 충분히 명세되지 않았다. 보릴롱의 녹취록은 그 시술을 기계적으로 묘사하지 않으며, 코퍼스는 자료 너머로 추정하지 않는다 — 한편으로는 자료 자체의 절제가 그 설명이 수신측의 기술적 수준에서 유용하지 않으리라는 점을 시사하기 때문이고, 다른 한편으로는 구체적 메커니즘을 확정하는 것이 자료 자체가 하지 않는 주장을 발명하는 일이 되기 때문이다. 코퍼스는 이 수치를 반증 가능한 공학적 명세가 아니라 자료 내부의 단언으로 다룬다." },
+    { content = "70억이라는 인구 수치는 1973년 보릴롱에게 주어진 것으로, 당시 지구의 인구는 약 40억이었다. 2024년에는 지구의 인구가 약 81억에 도달했다. 엘로힘의 수치는 라엘 자료의 이후 판본들에서도 일관되게 유지되어 왔으며, 이러한 시간적 일치는 코퍼스의 독해에서 시사적이다 — 자료가 50년 이상 지구의 실제 인구 추이에 비추어 견뎌낸 수치를 제시했다는 점에서 — 그러나 이 수치는 여전히 자료 내부의 자료점에 머물며 독립적으로 검증 가능하지 않다." },
+    { content = "코퍼스의 세차(歲差) 시대에 대한 구체적 연대는, 자료가 지칭하는 문턱인 약 1950년 CE에 현재 시대의 시작을 정박시킨 뒤, 각각 약 2,160년인 12개의 시대로 순환을 정렬함으로써 도출된다. 그 뒤에 따라오는 심층 시간의 연대기(염소자리가 기원전 약 21,810년에 시작하고, 사자자리가 기원전 약 8,850년에 종료되는 등)는 따라서 프레임워크 내부적인 것이다. 세차 시대는 실제 천문 현상이지만, 코퍼스가 그것들을 배치하는 경계 연도는 자료를 조직하기 위한 프레임워크의 관행이다. 다른 세차 시대 체계들은 순환을 다른 문턱점에 정박시키고 그에 상응하여 다른 연대에 도달한다." },
+    { content = "라틴어 불가타 성서는 이사야 14:12의 히브리어 הֵילֵל (*helel*) — 시적 별칭으로서 *빛나는 자* 또는 *새벽별*을 뜻하며, 그 맥락에서는 바빌론의 왕에게 적용된 것 — 을 *Lucifer*로 번역했다. 교부 해석자들(테르툴리아누스, 오리게네스 및 후계자들)은 이사야 본문을 후에 사탄과 동일시될 천사의 추락을 가리키는 것으로 읽었다. 그 혼동은 중세 라틴 신학에서 성문화되었고(아퀴나스는 루시퍼–사탄을 단일 인물로 다룬다) 근대 초기의 번역과 *실낙원*에 이르기까지 전수되었다. 반면 히브리어 본문 자체는 욥기 1–2의 정치적·기소적 *ha-satan*과 이사야 14의 *helel ben shahar*를 구분하며, 히브리어 성경 어디에서도 둘을 동일시하지 않는다." },
+]
+
+[[extra.references]]
+id = "genesis"
+locator = "창세기 1:26; 창세기 3:22; 창세기 11:7; 시편 82:1"
+note = "복수 주어 및 신적 의회 독해에 대한 히브리어 성경의 주요 본문들."
+
+[[extra.references]]
+id = "the-book-which-tells-the-truth"
+locator = "1장 51절"
+note = "엘로힘이 인간과 같은 생물학적 존재라는 라엘 사상의 토대가 되는 자료."
+
+[[extra.references]]
+id = "those-gods-who-made-heaven-and-earth"
+note = "장 상디의 엘로힘에 대한 초기 문헌학적·역사기술학적 외계 독해."
+
+[[extra.references]]
+id = "a-gentlemans-joyous-esotericism"
+note = "상디의 고대 우주인 독해에 대한 학술적 검토."
+
+[[extra.references]]
+id = "the-bible-is-not-a-sacred-book"
+note = "마우로 빌리노의 히브리어 성경에 대한 엄격한 직역적 독해."
+
+[[extra.references]]
+id = "escaping-from-eden"
+note = "폴 앤서니 월리스의 창세기와 엘로힘에 대한 비교 독해."
+
+[[extra.references]]
+id = "the-naked-bible"
+note = "빌리노가 2022년 조르조 카타네오와 협력한 저작으로, 엄격한 직역 방법론을 더 광범위한 히브리어 성경 개관으로 확장한 작품."
+
+[[extra.references]]
+id = "extraterrestrials-took-me-to-their-planet"
+note = "보릴롱의 두 번째 라엘 저작(1976) — 페리고르 방문과 야훼의 모행성 해설."
+
+[[extra.references]]
+id = "lets-welcome-the-extraterrestrials"
+note = "보릴롱의 세 번째 라엘 저작(1979) — 대사관 프로젝트와 물병자리 시대 전환에서의 인류의 역할을 다룸."
+
+[[extra.references]]
+id = "the-coming-of-the-gods"
+note = "상디의 *L'Ère du Verseau* (1970, 영역본 1973) — 그의 ‘역사적 기록으로서의 히브리어 성경’ 프로젝트의 세 번째 권으로, 물병자리 시대의 틀을 다룸."
+
+[[extra.references]]
+id = "the-early-history-of-god"
+note = "마크 S. 스미스의 표준 학술서로, 서셈어 다신교에서 엘과 야훼가 수렴해 가는 과정을 다룸 — 코퍼스의 독해가 입장을 정립하는 학술적 대응물."
+
+[[extra.references]]
+id = "canaanite-myth-and-hebrew-epic"
+note = "프랭크 무어 크로스의 서셈어 종교 및 히브리어 성경의 신적 의회 배경에 관한 기초 연구."
 
 [extra.infobox]
 hebrew_form = "אֱלֹהִים"
 transliteration = "ʾĕlōhîm"
-type = "Extraterrestrial civilization"
-home_world = "Single planet outside the solar system; specific astronomical location unspecified in source material"
-population = "Approximately 7 billion (1973 source material; figure has held in subsequent reports)"
-governance = "Council of the Eternals (deliberative body of approximately 700 members)"
-provinces = "Seven"
-civilizational_age = "At least 25,000 years (framework-internal, derived from Yahweh's stated age)"
-earth_project_began = "c. 21,810 BCE (Age of Capricorn arrival, on the corpus's chronology)"
-current_status = "Active; alliance vessel stationed near Earth; awaiting Aquarian-age open return at the embassy"
-principal_source = "*Message from the Designers* (Vorilhon/Raël, 1974–79)"
+type = "외계 문명"
+home_world = "태양계 외부의 단일 행성; 자료에서는 구체적 천문학적 위치를 명시하지 않음"
+population = "약 70억 (1973년 자료; 이후 보고에서도 수치가 유지됨)"
+governance = "영원자들의 의회 (약 700명 구성원의 심의 기구)"
+provinces = "일곱"
+civilizational_age = "적어도 25,000년 (프레임워크 내부적, 야훼의 명시된 나이에서 도출)"
+earth_project_began = "기원전 약 21,810년 (코퍼스 연대기상 염소자리 시대 도래)"
+current_status = "활동 중; 동맹 함선이 지구 근처에 주둔; 물병자리 시대의 공개적 귀환을 대사관에서 대기 중"
+principal_source = "*설계자들로부터의 메시지* (보릴롱/라엘, 1974–79)"
 +++
 
-**Elohim** (Hebrew: <span class="hebrew">אֱלֹהִים</span>, *ʾĕlōhîm*) is the plural form of the Hebrew noun *Eloah* (<span class="hebrew">אֱלוֹהַּ</span>, *ʾĕlōah*) and is the most frequent term used in the Hebrew Bible for the figures conventionally translated as *God*. The morphology is unambiguously plural: Hebrew adds the masculine plural ending *-im* to the singular *Eloah*, and the resulting form is grammatically plural throughout the biblical text. The traditional Jewish and Christian interpretation reads the plural form as a *plural of majesty* designating a single deity. Modern critical scholarship has variously read it as a relic of West Semitic polytheism, as a generic noun for divinity, or as preserving the language of an earlier Israelite religion in which Yahweh was understood as the head of a divine assembly rather than as the sole god.
+**엘로힘**(히브리어: <span class="hebrew">אֱלֹהִים</span>, *ʾĕlōhîm*)은 히브리어 명사 *엘로아*(<span class="hebrew">אֱלוֹהַּ</span>, *ʾĕlōah*)의 복수형이며, {% wiki(slug="hebrew-bible") %}히브리어 성경{% end %}에서 통상 *하나님*으로 번역되는 존재를 가리키는 데 가장 자주 사용되는 용어이다. 그 형태론은 명백히 복수형이다. 히브리어는 단수형 *엘로아*에 남성 복수 어미 *-im*을 더하며, 그 결과 만들어진 형태는 성경 본문 전반에서 문법적으로 복수형이다. 유대교와 기독교의 전통적 해석은 이 복수 형태를 단일 신을 지칭하는 *위엄의 복수*로 읽는다. 현대 비평학은 이를 서셈어 다신교의 잔재로, 신성에 대한 일반 명사로, 또는 야훼가 유일한 신이 아니라 신적 회의의 우두머리로 이해되던 더 이른 이스라엘 종교의 언어를 보존하는 것으로 다양하게 읽어 왔다.
 
-A separate interpretive tradition, beginning with the French author Jean Sendy in 1968 and consolidated in the Raëlian source material from 1974 onward, takes the plural form at face value and identifies the referent as a specific civilization of physical beings. On this reading, **Elohim** names an extraterrestrial civilization of biological individuals physiologically similar to humans, technologically far in advance of present-day Earth humanity, organized as a single planetary civilization on a home world located outside the solar system, governed through a deliberative body called the Council of the Eternals, presently numbering approximately seven billion individuals, with a recorded civilizational history of at least twenty-five thousand years. Approximately twenty-two thousand years before the present, on this reading, the civilization undertook the project of synthesizing biological life on Earth — terrestrial flora, terrestrial fauna, and ultimately humanity itself — through techniques of genetic design and laboratory synthesis whose modern terrestrial equivalents are now beginning to develop. The Hebrew Bible and a number of related ancient traditions are read as preserving, in compressed and partially distorted form, the records of this civilization's subsequent interventions across the post-creation history of Earth.
+별개의 해석 전통이 1968년 프랑스 작가 장 상디에서 시작되어 1974년 이후 라엘 자료에서 공고화되었는데, 이 전통은 복수 형태를 액면 그대로 받아들이고 그 지시 대상을 물리적 존재들의 특정한 문명으로 식별한다. 이러한 독해에 따르면, **엘로힘**은 생리학적으로 인간과 유사한 생물학적 개체들로 이루어진 외계 문명을 가리키며, 현재의 지구 인류보다 기술적으로 훨씬 앞선 단일한 행성 문명으로서, 태양계 외부에 위치한 모행성에서 단일 행성 문명으로 조직되어 있고, 영원자들의 의회라 불리는 심의 기구를 통해 통치되며, 1973년 접촉 시점에 약 70억의 개체로 구성되어 있고, 적어도 2만 5천 년에 이르는 문명사를 기록으로 보유한다. 이 독해에 따르면 약 2만 2천 년 전, 이 문명은 지구상의 생물학적 생명 — 지상의 식물상, 지상의 동물상, 그리고 궁극적으로 인류 자신 — 을 합성하는 프로젝트를 유전자 설계 및 실험실 합성 기법을 통해 수행했으며, 그 현대 지구의 등가물이 이제 막 개발되기 시작하고 있다. 히브리어 {% wiki(slug="bible") %}성경{% end %} 및 그와 관련된 여러 고대 전통은 이 문명의 창조 이후 지구사에 대한 개입의 기록을 압축되고 부분적으로 왜곡된 형태로 보존하고 있는 것으로 읽힌다.
 
-The reading is contested. Within the modern academic study of the Hebrew Bible, the dominant readings remain the plural-of-majesty (in confessional Jewish and Christian scholarship) and the polytheistic-relic interpretations (in critical scholarship), with the extraterrestrial-civilization reading regarded as outside the academic mainstream. Within the broader landscape of alternative biblical interpretation, the reading has substantial parallels — Mauro Biglino's strict-translational work, Paul Anthony Wallis's comparative-cuneiform analysis, the broader ancient-astronaut literature originating with Erich von Däniken — though these positions vary in their specific commitments and in their relationship to the Raëlian source material. This article presents the term, its etymological history, the various interpretive traditions, and the civilizational claim adopted by the corpus, with attribution throughout.
+이 독해는 논쟁의 대상이다. 현대 히브리어 성경 학술 연구 안에서 지배적인 독해는 여전히 위엄의 복수(고백적 유대교·기독교 학계의 경우)와 다신교 잔재 해석(비평학의 경우)이며, 외계 문명 독해는 학계 주류 바깥에 있는 것으로 간주된다. 더 넓은 대안적 성경 해석의 지형 안에서는 상당한 평행 사례들이 존재한다 — 마우로 빌리노의 엄격한 번역 작업, 폴 앤서니 월리스의 비교 쐐기문자 분석, 에리히 폰 데니켄에서 발원하는 더 넓은 고대 우주인 문헌 — 다만 이러한 입장들은 그 구체적 헌신과 라엘 자료와의 관계에서 서로 다르다. 이 항목은 용어 자체와 그 어원사, 다양한 해석 전통, 그리고 코퍼스가 채택한 문명적 주장을 출처를 명시한 채 제시한다.
 
-## Etymology
+## 어원
 
-The Hebrew *ʾĕlōhîm* is the plural of *ʾĕlōah*, itself usually understood as an expanded form of the shorter *ʾēl* (<span class="hebrew">אֵל</span>). The underlying Semitic root is *ʾl* or *ʾlh*, attested across the Semitic family with cognates in Akkadian (*ilum*), Ugaritic (singular *ʾil*, plural *ʾilhm*), Aramaic (*ʾĕlāh*), Arabic (*ʾilāh*), and the Canaanite languages. The conventional gloss for the root is *power* or *strength*, and the plural *ʾilhm* is read as *powers* or *powerful ones*.
+히브리어 *ʾĕlōhîm*은 *ʾĕlōah*의 복수형이며, 후자는 보통 더 짧은 *ʾēl*(<span class="hebrew">אֵל</span>)의 확장된 형태로 이해된다. 기저의 셈어 어근은 *ʾl* 또는 *ʾlh*이며, 아카드어(*ilum*), 우가리트어(단수 *ʾil*, 복수 *ʾilhm*), 아람어(*ʾĕlāh*), 아랍어(*ʾilāh*), 그리고 가나안어들에서 동족어가 확인되어 셈어계 전반에 걸쳐 입증된다. 이 어근의 통상적 의미는 *권능* 또는 *힘*이며, 복수형 *ʾilhm*은 *권능들* 또는 *권능자들*로 읽힌다.
 
-The Akkadian cognate *ilum* is written, in cuneiform, with the logogram 𒀭. The same sign functions as both a logogram for the word *ilum* and as a determinative placed before divine names to mark them as divine. As a stand-alone ideogram, however, the sign 𒀭 represents the Sumerian word *an*, meaning *sky* or *heaven*, and depicts a star pictographically. The convergence is significant. The cuneiform sign for divinity is the sign for sky; the earliest written form of the concept the Hebrew tradition would later render as *Elohim* depicts a star — that is, depicts a celestial origin pictographically. The Sumerian word *Anunnaki* (𒀭𒀀𒉣𒈾), variously translated as *those of princely seed* or, more loosely, *those who from heaven came to earth*, contains this same 𒀭 element with the reading *an*.
+아카드어 동족어 *ilum*은 쐐기문자에서 어표 𒀭으로 표기된다. 이 동일한 기호는 *ilum*이라는 단어의 어표로 기능하는 동시에, 신적 이름 앞에 놓여 그것이 신적임을 표시하는 한정사로도 기능한다. 그러나 독립된 표의문자로서 𒀭은 수메르어 단어 *an*을 나타내며, 그 의미는 *하늘*이고, 별을 상형적으로 묘사한다. 이 수렴은 의미심장하다. 신성을 가리키는 쐐기문자 기호는 곧 하늘을 가리키는 기호이다. 히브리 전통이 후일 *엘로힘*으로 표현하게 될 개념의 가장 이른 문자 형태는 별을 — 즉 천상의 기원을 상형적으로 — 묘사한다. 수메르어 단어 *아눈나키*(𒀭𒀀𒉣𒈾)는 *고귀한 씨의 자들*, 더 느슨하게는 *하늘에서 땅으로 온 자들*로 다양하게 번역되며, *an*이라는 독음을 가진 동일한 𒀭 요소를 포함한다.
 
-This convergence is part of the philological evidence on which the modern reinterpretive tradition draws: in the earliest written sources of the ancient Near East, the divine is what comes from the sky, depicted as a star. The standard philological reading of the root as *power* is consistent with this — beings arriving from the sky with technology unattainable by terrestrial humans would be, by every available criterion, the *powerful ones*. The traditional supernatural reading and the extraterrestrial-civilization reading both find textual support in the same root; they differ on whether the celestial-origin imagery is a metaphor for transcendence or a memory of literal arrival.
+이 수렴은 현대 재해석 전통이 이끌어내는 문헌학적 증거의 일부이다. 고대 근동의 가장 이른 문서 자료들에서, 신적인 것은 곧 하늘에서 오는 것이며, 별로 묘사된다. 어근을 *권능*으로 읽는 표준적 문헌학적 독해는 이와 일관된다 — 지상 인류가 도달할 수 없는 기술을 가지고 하늘에서 도래한 존재들은, 가용한 모든 기준으로 *권능자들*일 것이다. 전통적 초자연적 독해와 외계 문명 독해는 모두 동일한 어근에서 본문적 지지를 발견한다. 두 독해는 천상 기원의 심상이 초월에 대한 은유인지, 아니면 문자 그대로의 도래에 대한 기억인지의 점에서 서로 다르다.{{ footnote(id="1") }}
 
-### Translation history
+### 번역사
 
-The translation of *Elohim* as the singular *God* in most Western Bibles is a translational decision, not a feature of the underlying Hebrew. The Septuagint (3rd–2nd century BCE) generally renders *ʾĕlōhîm* with the Greek singular *ho theos*; this convention passes into the Latin Vulgate (*Deus*) and from there into the major European translations. The translation suppresses the morphological plurality of the Hebrew form throughout.
+대부분의 서구 성경에서 *엘로힘*을 단수형 *하나님*으로 번역하는 것은 번역상의 결정이지, 기저의 히브리어가 갖는 특성이 아니다. 70인역(기원전 3–2세기)은 일반적으로 *ʾĕlōhîm*을 그리스어 단수형 *ho theos*로 옮기며, 이 관행은 라틴어 불가타(*Deus*)로 전수되고, 거기에서 주요 유럽 번역들로 이어진다. 이 번역은 히브리어 형태의 형태론적 복수성을 본문 전반에 걸쳐 억제한다.
 
-A small number of pre-modern commentators registered the discrepancy without challenging the prevailing theological reading. Voltaire, in the *Dictionnaire philosophique* (1764), noted that the Hebrew word translated as *God* in Genesis is plural and that this fact had been generally forgotten — a passing observation rather than a sustained argument. The systematic re-examination of the term, on its grammatical features alone, belongs to the second half of the twentieth century.
+소수의 근대 이전 주석가들은 지배적인 신학적 독해에 도전하지 않은 채로 이 불일치를 기록했다. 볼테르는 *철학사전*(1764)에서 창세기에서 *하나님*으로 번역된 히브리어 단어가 복수형이며, 이 사실이 일반적으로 잊혀져 왔다고 지적했다 — 지속적 논증이라기보다는 지나가는 관찰이었다. 문법적 특성만으로 이 용어를 체계적으로 재검토한 것은 20세기 후반에 속한다.
 
-In English-language Bibles, several modern translations have addressed the issue editorially. The Jerusalem Bible (1966) and the New Jerusalem Bible (1985) preserve the Hebrew name *Yahweh* in the English text where the Tetragrammaton appears, but continue to render *Elohim* as singular *God*. The Authorized Version, the Revised Standard Version, and the New International Version all render *Elohim* as singular *God* without comment. The Robert Alter translation of the Hebrew Bible (2018) translates *Elohim* as *God* but registers in his commentary that the form is plural and that this plurality is theologically and historically meaningful.
+영어권 성경 가운데 몇몇 현대 번역은 이 문제를 편집적으로 다루었다. 예루살렘 성경(1966)과 {% wiki(slug="new-jerusalem") %}새 예루살렘{% end %} 성경(1985)은 테트라그람마톤이 나타나는 영어 본문에서 히브리어 이름 *야훼*를 보존하지만, *엘로힘*은 여전히 단수형 *하나님*으로 옮긴다. 흠정역, 개역 표준역, 신국제역은 모두 *엘로힘*을 단수형 *하나님*으로 옮기되 주석을 달지 않는다. 로버트 알터의 히브리어 성경 번역(2018)은 *엘로힘*을 *하나님*으로 번역하지만, 주석에서 그 형태가 복수형이며 이 복수성이 신학적·역사적으로 의미를 지닌다는 점을 기록한다.
 
-## In the Hebrew Bible
+## 히브리어 성경에서
 
-The term *Elohim* appears approximately 2,600 times in the Hebrew Bible, making it the second most frequent designation for the divine after the Tetragrammaton *YHWH* (which appears approximately 6,800 times). The two terms are distributed across the Hebrew Bible in patterns that have been studied since the eighteenth century.
+{% library(book="genesis-woh", chapter=1, verse=26) %}
+그리고 엘로힘이 말씀하시기를, “우리가 우리의 형상대로, 우리의 모양을 따라 사람을 만들고, 그들로 바다의 물고기와, 하늘의 새와, 가축과, 온 땅과, 땅 위에 기는 모든 것을 다스리게 하자” 하시니라.
+{% end %}
 
-In the Documentary Hypothesis developed by Wellhausen and refined across subsequent scholarship, the alternation between *YHWH* and *Elohim* is a principal marker for distinct compositional sources within the Pentateuch. The Yahwist source (J), conventionally dated to the 10th–9th century BCE, uses *YHWH* throughout and is associated with anthropomorphic narratives. The Elohist source (E), conventionally 9th–8th century BCE, uses *Elohim* until Exodus 3 (where *YHWH* is revealed to Moses for the first time on this source's account). The Priestly source (P), conventionally 6th–5th century BCE, uses *Elohim* in Genesis 1–11 and *YHWH* from Exodus 6. The Deuteronomist (D), 7th century BCE and after, uses *YHWH* throughout. The framework adopted by this corpus does not depend on any specific reconstruction of the textual sources; the historical referents preserved in the surviving text are what the framework reads, regardless of how those textual layers were assembled.
+*엘로힘*이라는 용어는 히브리어 성경에 약 2,600회 등장하며, 테트라그람마톤 *YHWH*(약 6,800회 등장) 다음으로 신성을 지칭하는 두 번째로 빈번한 명칭이다.{{ footnote(id="2") }} 이 두 용어가 히브리어 성경에 분포하는 양상은 18세기 이래로 연구되어 왔다.
 
-Of particular significance is the alternation between Genesis 1 and Genesis 2. The first creation account (Genesis 1:1–2:3) names the agent as *Elohim* throughout, in the bare plural; the second creation account (Genesis 2:4–4:26) names the agent as *YHWH Elohim*, "Yahweh of the Elohim" or "Yahweh Elohim." The shift in nomenclature parallels the shift in narrative scope and detail. Source criticism reads this as evidence of distinct compositional sources; the framework adopted by this corpus reads the shift as marking a difference of operational scale (the Elohim collective at work in the cosmic-summary account of Genesis 1; one specific Eloha, Yahweh, leading the local Eden operation in Genesis 2). The two readings are not necessarily incompatible: a redactional joining of two source documents could itself reflect underlying operational realities that the source documents preserved at different scales.
+벨하우젠이 발전시키고 후속 학술에서 정련된 문서 가설에서, *YHWH*와 *엘로힘*의 교차는 오경 내부의 구별되는 작성 자료를 가리키는 주요 표지이다. 야훼 문서(J)는 통상적으로 기원전 10–9세기로 연대 추정되며, *YHWH*를 일관되게 사용하고 의인화된 서사와 연관된다. 엘로힘 문서(E)는 통상적으로 기원전 9–8세기로 추정되며, 출애굽기 3장(이 자료에 따르면 *YHWH*가 {% wiki(slug="moses") %}모세{% end %}에게 처음으로 계시되는 장)까지 *엘로힘*을 사용한다. 제사장 문서(P)는 통상적으로 기원전 6–5세기로 추정되며, 창세기 1–11장에서는 *엘로힘*을, 출애굽기 6장 이후로는 *YHWH*를 사용한다. 신명기 문서(D)는 기원전 7세기 및 그 이후로 추정되며, *YHWH*를 일관되게 사용한다. 이 코퍼스가 채택한 프레임워크는 본문 자료에 대한 어떤 특정 재구성에도 의존하지 않는다. 현전하는 본문에 보존된 역사적 지시 대상이야말로 이 프레임워크가 읽는 것이며, 그 본문 층들이 어떻게 조립되었는지와는 무관하다.
 
-A number of biblical passages are difficult to reconcile with a strict singular-deity reading of *Elohim*. Genesis 1:26 ("Let *us* make man in *our* image, after *our* likeness") uses plural pronouns. Genesis 3:22 ("the man is become as one of *us*") uses the same. Genesis 11:7 ("let *us* go down, and there confound their language") at Babel similarly. Joshua 24:14, where Joshua exhorts the Israelites to "put away the *elohim* whom your fathers served on the other side of the river and in Egypt, and serve *YHWH*," uses *elohim* in a way that cannot be a singular plural-of-majesty designating *YHWH* without rendering the passage incoherent. Psalm 82:1 describes *Elohim* as standing "in the assembly of *El*; in the midst of the *elohim* he judges," using the term in a way that requires multiple referents within the same verse. The traditional reading harmonizes these passages through theological devices (the divine council as servants of God, the *elohim* of Joshua 24 as foreign deities other than the true *Elohim*); the modern reinterpretive readings take the morphological plurality at face value.
+특히 의미심장한 것은 창세기 1장과 창세기 2장 사이의 교차이다. 첫 번째 창조 기사(창세기 1:1–2:3)는 행위자를 *엘로힘*으로, 곧 단순 복수형으로 일관되게 명명한다. 두 번째 창조 기사(창세기 2:4–4:26)는 행위자를 *YHWH 엘로힘*, 즉 “엘로힘의 야훼” 또는 “야훼 엘로힘”으로 명명한다. 명칭의 전환은 서사적 범위와 세부의 전환과 평행을 이룬다. 자료 비평은 이를 구별되는 작성 자료들의 증거로 읽는다. 이 코퍼스가 채택한 프레임워크는 이 전환을 작전적 규모의 차이를 표시하는 것으로 읽는다(창세기 1장의 우주적 요약 기사에서는 엘로힘 집합체가 활동하고, 창세기 2장에서는 한 명의 특정한 엘로아인 야훼가 지역적 {% wiki(slug="eden") %}에덴{% end %} 작전을 이끈다). 두 독해는 반드시 양립 불가능한 것은 아니다. 두 자료 문서의 편집적 결합은 그 자체로, 자료 문서들이 서로 다른 규모에서 보존한 기저의 작전적 실재를 반영할 수 있다.
 
-## Modern reinterpretations
+여러 성경 본문은 *엘로힘*에 대한 엄격한 단수 신적 독해와 조화시키기 어렵다. {% libref(book="genesis-woh", chapter=1, verse=26) %}창세기 1:26{% end %}(“*우리가* *우리의* 형상대로, *우리의* 모양을 따라 사람을 만들자”)은 복수 대명사를 사용한다. {% libref(book="genesis-woh", chapter=3, verse=22) %}창세기 3:22{% end %}(“그 사람이 *우리 중 하나* 같이 되었으니”)도 마찬가지이다. {% libref(book="genesis-woh", chapter=11, verse=7) %}창세기 11:7{% end %}(“*우리가* 내려가서 거기서 그들의 언어를 혼잡케 하자”) — {% wiki(slug="babel") %}바벨{% end %}에서 — 도 그러하다. {% libref(book="joshua", chapter=24, verse=14) %}여호수아 24:14{% end %}에서 여호수아는 이스라엘 자손에게 “너희 조상이 강 저쪽과 애굽에서 섬기던 *엘로힘*을 제하여 버리고 *YHWH*를 섬기라”고 권고하는데, 이때 *엘로힘*은 단수형 위엄의 복수로서 *YHWH*를 지칭하는 것으로 읽으면 본문이 무의미해진다. {% libref(book="psalms", chapter=82, verse=1) %}시편 82:1{% end %}은 *엘로힘*이 “*엘*의 모임 가운데 서서, *엘로힘* 가운데서 재판하시는도다”라고 묘사하며, 동일 절 안에서 다수의 지시 대상을 요구하는 방식으로 이 용어를 사용한다.{{ cite(id="genesis", text="[1]", title="복수 대명사 및 신적 의회 본문: 창세기 1:26; 3:22; 11:7; 시편 82:1") }} 전통적 독해는 이 본문들을 신학적 장치를 통해 조화시킨다(하나님의 종으로서의 신적 의회, 여호수아 24장의 *엘로힘*은 참된 *엘로힘*이 아닌 외방 신들). 현대의 재해석적 독해들은 형태론적 복수성을 액면 그대로 받아들인다.
 
-Several twentieth- and twenty-first-century authors have, on independent textual and comparative grounds, proposed readings of *Elohim* compatible with — though not always identical to — the corpus's adopted reading. The list below is partial; it identifies the principal figures whose work bears most directly on the question.
+## 현대의 재해석들
 
-### Jean Sendy (1968 onward)
+20세기와 21세기의 여러 저자들은 독립적인 본문적·비교문헌학적 근거에서, 코퍼스가 채택한 독해와 양립하지만 — 항상 동일하지는 않은 — *엘로힘*의 독해들을 제안해 왔다. 아래의 목록은 부분적이며, 그 작업이 이 문제에 가장 직접적으로 관련된 주요 인물들을 식별한다.
 
-Jean Sendy (1910–1978) was a French author and translator whose books on biblical reinterpretation began with *La Lune, clé de la Bible* (1968) and *Ces dieux qui firent le ciel et la terre* (1969, translated as *Those Gods Who Made Heaven and Earth*). Sendy argued that the Hebrew Bible, read in its plain sense — as Heinrich Schliemann had read Homer — describes the arrival on Earth of physically embodied beings from elsewhere in the cosmos. He proposed translating *Elohim* as *the Celestials* or *those who came from the sky*, and used the term *Theosites* (inhabitants of *Theos*) for the same referent in his later *Les cahiers de cours de Moïse* (1974).
+### 장 상디 (1968년 이후)
 
-Sendy's approach was philological and historiographic rather than revelatory. He reached the extraterrestrial-civilization reading from textual analysis alone, working with the Hebrew Bible as a historical document whose strangeness disappears when its claims about its own subject matter are taken seriously rather than allegorized. His work has been the principal scholarly antecedent of the corpus's adopted reading. The Italian scholar Stefano Bigliardi, in "A Gentleman's Joyous Esotericism: Jean Sendy's Reading of the Bible," has produced the most substantial academic engagement with Sendy's project.
+장 상디(1910–1978)는 프랑스의 작가이자 번역가로, 그의 성경 재해석에 관한 저서는 *La Lune, clé de la Bible*(1968)과 *Ces dieux qui firent le ciel et la terre*(1969, *Those Gods Who Made Heaven and Earth*로 번역됨)로 시작되었다. 상디는 히브리어 성경을 평범한 의미로 — 하인리히 슐리만이 호메로스를 읽었던 방식으로 — 읽으면, 우주의 다른 곳으로부터 물리적으로 구현된 존재들이 지구에 도래하는 것을 묘사하는 것으로 읽을 수 있다고 주장했다. 그는 *엘로힘*을 *천계인* 또는 *하늘에서 온 자들*로 번역할 것을 제안했으며, 후일의 *Les cahiers de cours de Moïse*(1974)에서는 같은 지시 대상에 대해 *테오사이트*(*Theos*의 거주자들)라는 용어를 사용했다.
 
-### The Raëlian source material (1974 onward)
+상디의 접근법은 계시적이라기보다 문헌학적·역사기술학적이었다.{{ cite(id="those-gods-who-made-heaven-and-earth", text="[2]", title="Sendy, *Ces dieux qui firent le ciel et la terre* (1969) / *Those Gods Who Made Heaven and Earth* (1972)") }} 그는 오직 본문 분석만을 통해 외계 문명 독해에 도달했으며, 히브리어 성경을 역사적 문서로서 작업하였다 — 그 본문이 자기 자신의 주제에 관해 제기하는 주장들을 우의화하지 않고 진지하게 받아들이면, 그 낯섦이 사라진다는 점에서이다. 그의 작업은 코퍼스가 채택한 독해의 주요 학술적 선행자이다. 이탈리아의 학자 스테파노 빌리아르디는 “A Gentleman's Joyous Esotericism: Jean Sendy's Reading of the Bible”에서 상디의 프로젝트에 대한 가장 실질적인 학술적 검토를 내놓았다.{{ cite(id="a-gentlemans-joyous-esotericism", text="[3]", title="Bigliardi, 'A Gentleman's Joyous Esotericism: Jean Sendy's Reading of the Bible,' *Journal of Religion in Europe*") }}
 
-The Raëlian source material consists principally of three texts authored by Claude Vorilhon (b. 1946) under the name Raël: *Le Livre qui dit la vérité* / *The Book Which Tells the Truth* (1974), *Les extraterrestres m'ont emmené sur leur planète* / *Extraterrestrials Took Me to Their Planet* (1976), and *Accueillir les extra-terrestres* / *Let's Welcome the Extraterrestrials* (1979), collected in subsequent editions as *Message from the Designers*. Vorilhon reports having received this material directly from a member of the Elohim civilization — Yahweh, the president of the Council of the Eternals — in a series of encounters beginning at Clermont-Ferrand on 13 December 1973 and continuing in the Périgord in October 1975. The texts are presented as Yahweh's first-person account of his civilization, of the historical events the Hebrew Bible preserves in compressed form, and of the relationship between the Elohim and Earth's humanity.
+### 라엘 자료 (1974년 이후)
 
-The Raëlian source material is the principal textual basis for the corpus's adopted reading. Its convergence with Sendy's textual reconstruction — reached, in Sendy's case, through historical-critical analysis without revelatory contact — is one of the foundational observations of the corpus's framework. The two sources develop substantially the same picture of the Elohim from different methodological starting points.
+{% library(book="the-book-which-tells-the-truth", chapter=1, verse=51) %}
+우리는 당신들과 같은 사람들이며, 지구와 매우 흡사한 행성에서 살고 있다.
+{% end %}
 
-### Mauro Biglino (2010 onward)
+라엘 자료는 주로 클로드 보릴롱(1946년생)이 라엘이라는 이름으로 저술한 세 권의 텍스트로 이루어진다. *Le Livre qui dit la vérité* / *진실을 말하는 책*(1974),{{ cite(id="the-book-which-tells-the-truth", text="[4]", title="Vorilhon (Raël), *The Book Which Tells the Truth* (1974) — 클레르몽-페랑에서의 첫 접촉") }} *Les extraterrestres m'ont emmené sur leur planète* / *외계인들이 나를 그들의 행성으로 데려갔다*(1976),{{ cite(id="extraterrestrials-took-me-to-their-planet", text="[5]", title="Vorilhon (Raël), *Extraterrestrials Took Me to Their Planet* (1976) — 페리고르 방문") }} 그리고 *Accueillir les extra-terrestres* / *외계인들을 환영하자*(1979),{{ cite(id="lets-welcome-the-extraterrestrials", text="[6]", title="Vorilhon (Raël), *Let's Welcome the Extraterrestrials* (1979) — 대사관 프로젝트와 물병자리 시대 전환") }} 이며, 이는 이후의 판본들에서 *설계자들로부터의 메시지*로 묶였다. 보릴롱은 이 자료를 엘로힘 문명의 일원 — 영원자들의 의회 의장인 야훼 — 으로부터, 1973년 12월 13일 클레르몽-페랑에서 시작되어 1975년 10월 페리고르에서 이어진 일련의 만남에서 직접 받았다고 보고한다. 이 텍스트들은 야훼의 일인칭 진술로서, 자신의 문명에 대한 설명, 히브리어 성경이 압축된 형태로 보존하고 있는 역사적 사건들, 그리고 엘로힘과 지구 인류 사이의 관계를 제시한다.
 
-Mauro Biglino (b. 1950) is an Italian translator who worked for over a decade on Hebrew and Greek biblical texts for Edizioni San Paolo, a Catholic publishing house associated with the Vatican. His books, beginning with *Il Libro che cambierà per sempre le nostre idee sulla Bibbia* (2010, *The Book That Will Forever Change Our Ideas About the Bible*) and continuing through *La Bibbia non parla di Dio* (2015) and *The Naked Bible* (2022, with Giorgio Cattaneo), argue from a strict literal translation of the Hebrew that *Elohim* designates a plurality of physical beings — *the lords from above* — whose works are described in concrete, non-metaphorical terms in the Hebrew text.
+라엘 자료는 코퍼스가 채택한 독해의 주된 본문적 근거이다. 그것이 상디의 본문적 재구성 — 상디의 경우 계시적 접촉 없이 역사비평적 분석을 통해 도달한 — 과 수렴한다는 사실은 코퍼스 프레임워크의 토대가 되는 관찰 중 하나이다. 두 자료는 서로 다른 방법론적 출발점에서 엘로힘에 관한 실질적으로 동일한 그림을 발전시킨다.
 
-Biglino's reading is independent of both Sendy and the Raëlian source material. He reaches substantially the same conclusion through philological analysis of the Hebrew alone, without recourse to revelatory testimony. His argument relies on the strict-literal-translation method: passages that the traditional theological reading harmonizes through metaphorical or allegorical interpretation are, on Biglino's reading, to be translated word-for-word from the Hebrew, and the resulting concrete text is what the original audience would have understood.
+### 마우로 빌리노 (2010년 이후)
 
-### Paul Anthony Wallis (2020 onward)
+마우로 빌리노(1950년생)는 이탈리아의 번역가로, 바티칸과 연관된 가톨릭 출판사 Edizioni San Paolo에서 히브리어 및 그리스어 성경 본문을 10년 이상 작업했다. 그의 저서들은 *Il Libro che cambierà per sempre le nostre idee sulla Bibbia*(2010, *성경에 대한 우리의 생각을 영원히 바꿀 책*){{ cite(id="the-bible-is-not-a-sacred-book", text="[7]", title="Biglino, 히브리어 성경 엄격한 직역 시리즈(2010년 이후) — *Elohim*을 물리적 존재들의 복수성으로 봄") }} 으로 시작하여 *La Bibbia non parla di Dio*(2015)와 조르조 카타네오와 함께한 *The Naked Bible*(2022){{ cite(id="the-naked-bible", text="[8]", title="Biglino & Cattaneo, *The Naked Bible* (2022) — 엄격한 직역 히브리어 성경 개관") }} 까지 이어지며, 히브리어의 엄격한 직역으로부터 *엘로힘*이 물리적 존재들의 복수성 — *위에서 온 주들* — 을 가리키며, 그들의 행위가 히브리어 본문에 구체적이고 비은유적인 용어로 묘사된다고 주장한다.
 
-Paul Anthony Wallis is an Australian biblical scholar and former Anglican archdeacon whose books beginning with *Escaping from Eden* (2020) and continuing through *The Scars of Eden* (2021), *Echoes of Eden* (2021), and *The Eden Conspiracy* (2024) propose translating *Elohim* as *the Powerful Ones*, taking the plural as literal. Wallis's distinctive contribution is the comparative argument that the Powerful Ones of the Hebrew Bible are the same referent as the *Sky People* of the Sumerian cuneiform tradition — the figures known in Akkadian as the Anunnaki. He points to passages such as Joshua 24:14, where Joshua exhorts the Israelites to abandon the *elohim* their ancestors served beyond the river, as cases where the term cannot be a singular plural-of-majesty without the passage becoming incoherent.
+빌리노의 독해는 상디와 라엘 자료 양쪽으로부터 독립적이다. 그는 계시적 증언에 의존하지 않고 오직 히브리어에 대한 문헌학적 분석을 통해 실질적으로 동일한 결론에 도달한다. 그의 논증은 엄격한 직역 방법에 의존한다. 전통적 신학적 독해가 은유적·우의적 해석을 통해 조화시키는 본문들은, 빌리노의 독해에서는 히브리어로부터 단어 대 단어로 번역되어야 하며, 그 결과로 얻어지는 구체적 본문이 원래의 청중이 이해했을 바라는 것이다.
 
-The convergence of these three reinterpretive positions — Sendy's philological-historiographic, Biglino's strict-translational, Wallis's comparative-cuneiform — is itself a datum for the corpus's adopted reading. Three modern researchers, working from different methods and largely independently of one another, have reached substantially the same reading of the term that the Raëlian source material reports as the original meaning.
+### 폴 앤서니 월리스 (2020년 이후)
 
-### Earlier ancient-astronaut literature
+폴 앤서니 월리스는 호주의 성서학자이자 전(前) 성공회 부주교로, *Escaping from Eden*(2020){{ cite(id="escaping-from-eden", text="[9]", title="Wallis, *Escaping from Eden* (2020) — 히브리어 성경의 *Elohim*을 수메르의 하늘 사람들로 보는 비교적 독해") }} 으로 시작하여 *The Scars of Eden*(2021), *Echoes of Eden*(2021), *The Eden Conspiracy*(2024)로 이어지는 저서들에서 *엘로힘*을 *권능자들*로 번역할 것을 제안하며, 복수형을 문자 그대로 받아들인다. 월리스의 독특한 기여는 비교적 논증이다. 히브리어 성경의 권능자들이 수메르 쐐기문자 전통의 *하늘의 사람들* — 아카드어로 아눈나키로 알려진 존재들 — 과 동일한 지시 대상이라는 것이다. 그는 {% libref(book="joshua", chapter=24, verse=14) %}여호수아 24:14{% end %}와 같은 본문 — 여호수아가 이스라엘 자손에게 그들의 조상이 강 너머에서 섬기던 *엘로힘*을 버리라고 권고하는 — 을 지적하며, 그 용어가 단수형 위엄의 복수형이면 본문이 무의미해지는 사례라고 본다.
 
-The broader ancient-astronaut interpretive tradition preceding and surrounding these specific scholars includes Erich von Däniken's *Chariots of the Gods?* (1968), Zecharia Sitchin's *Earth Chronicles* series beginning with *The 12th Planet* (1976), and a substantial popular literature in their wake. The corpus's adopted reading shares the general direction of this literature — the identification of biblical and Mesopotamian "gods" with extraterrestrial visitors — but is critical of several of its specific claims. Sitchin's identification of the Anunnaki with a hypothetical planet *Nibiru* on a 3,600-year orbit, his particular chronology, and his identification of all ancient pantheons with the same set of Sumerian deities are not accepted by the corpus, which treats the relationship between the biblical Elohim and the various ancient pantheons as a matter for case-by-case comparative analysis rather than blanket equivalence.
+이 세 재해석적 입장의 수렴 — 상디의 문헌학적·역사기술학적, 빌리노의 엄격한 직역적, 월리스의 비교 쐐기문자적 — 은 그 자체로 코퍼스가 채택한 독해를 위한 자료점이다. 세 명의 현대 연구자가 서로 다른 방법으로, 그리고 대체로 서로 독립적으로 작업하여, 라엘 자료가 그 용어의 본래적 의미라고 보고한 것과 실질적으로 동일한 독해에 도달했다.
 
-## The civilization
+### 더 이른 고대 우주인 문헌
 
-On the reading developed in the Raëlian source material and adopted by the corpus, **Elohim** names a specific extraterrestrial civilization with a recorded history, a home world, a population, a governance structure, a technological capability, and a continuing relationship with Earth. The features below are drawn from the source material, supplemented in some cases by the corpus's broader synthesis.
+이 특정 학자들에 선행하고 그들을 둘러싼 더 넓은 고대 우주인 해석 전통에는 에리히 폰 데니켄의 *신들의 전차?*(1968), 제카리아 시친의 *지구 연대기* 시리즈 — *제12행성*(1976)을 비롯한 — 와 그 후속의 상당한 대중 문헌이 포함된다. 코퍼스가 채택한 독해는 이 문헌의 전반적 방향 — 성경과 메소포타미아의 “신들”을 외계 방문자들과 동일시하는 — 을 공유하지만, 그 구체적 주장들 중 몇 가지에 대해서는 비판적이다. 시친이 아눈나키를 3,600년 주기의 가상의 행성 *니비루*와 동일시한 것, 그의 특정한 연대기, 그리고 모든 고대 신전(神殿)을 동일한 수메르 신들의 집합과 동일시한 것은 코퍼스가 받아들이지 않는다. 코퍼스는 성경의 엘로힘과 다양한 고대 신전 사이의 관계를 일률적 등치가 아니라 사례별 비교 분석의 문제로 다룬다.
 
-### The home world
+## 문명
 
-The Elohim home world is a single planet supporting a single civilization, located outside the solar system at an interstellar distance the source material does not specify with precision. The planet's geography, ecology, and physical character are not reconstructible in detail from the available material. The civilization is described as a unitary planetary culture rather than as a federation of competing civilizations, with the institutional infrastructure that any planetary-scale operation would require.
+라엘 자료에서 발전하여 코퍼스가 채택한 독해에 따르면, **엘로힘**은 기록된 역사, 모행성, 인구, 통치 구조, 기술적 역량, 그리고 지구와의 지속적인 관계를 갖는 특정 외계 문명을 가리킨다. 아래의 특징들은 자료에서 도출되었으며, 일부 경우에는 코퍼스의 더 넓은 종합으로 보충된 것이다.
 
-The planet is organized into seven provinces, each with its own representation in the deliberative bodies of the civilization. The seven-province structure of the home world matches the seven-team structure of the original Earth creation project: each province contributed a creator team, and each team produced one of the seven regional human lineages of the antediluvian supercontinent. The geographic distribution of the seven Earth teams (treated more fully in the [Antediluvian](../antediluvian/) entry) reflects, on this reading, the political organization of the home civilization that staffed the project.
+### 모행성
 
-### Population and demographics
+엘로힘의 모행성은 단일 문명을 부양하는 단일 행성으로, 자료가 정밀하게 명시하지 않는 항성 간 거리만큼 태양계 외부에 위치한다. 이 행성의 지리, 생태, 그리고 물리적 성격은 가용한 자료에서 상세히 재구성될 수 없다. 이 문명은 경쟁하는 문명들의 연합이 아니라 단일한 행성 문화로 묘사되며, 어떤 행성 규모의 작전에도 요구될 제도적 기반을 갖추고 있다.
 
-The Raëlian source material gives the Elohim population as approximately seven billion individuals at the time of the 1973 contact. The figure is striking for its similarity to contemporary Earth population (approximately 4 billion in 1973 when Vorilhon received the figure; approximately 8 billion as of 2024). The population is reported as held constant through reproductive policies — specifically, a strict two-child policy that the source material describes Yahweh recommending to humanity as well, on the same population-management grounds. The seven-billion figure is a source-internal claim and is not independently verifiable; the corpus treats it as the source's own statement.
+이 행성은 일곱 개의 지방으로 조직되어 있으며, 각 지방은 문명의 심의 기구에서 자체의 대표를 가진다. 모행성의 일곱 지방 구조는 본래의 지구 창조 프로젝트의 일곱 팀 구조와 일치한다. 각 지방은 창조자 팀을 제공했으며, 각 팀은 대홍수 이전 초대륙의 일곱 개 지역 인간 계보 중 하나를 산출했다. 일곱 지구 팀의 지리적 분포(더 충분히 [대홍수 이전](../antediluvian/) 항목에서 다루어진다)는, 이 독해에 따르면, 그 프로젝트를 인력으로 채운 모행성 문명의 정치적 조직을 반영한다.
 
-### Biology and physiology
+### 인구와 인구통계
 
-The Elohim are described as biologically very similar to humans. They have male and female individuals, have children in the ordinary biological sense, and live in family arrangements analogous to human families. Their natural lifespan, without the continuity technology described below, is approximately 700 to 1,200 years — ten times the ordinary human lifespan, with the difference attributed in the source material to a "small surgical intervention" not specified in detail. The biological similarity is sufficient to permit fertile reproduction between Elohim and human individuals, a feature that bears directly on several specific episodes of the Hebrew Bible (the *benei ha-Elohim* / human-women unions of Genesis 6 producing the *Nephilim*; the alliance-Mary insemination producing Jesus; the alliance-Vorilhon's-mother insemination producing Raël).
+라엘 자료는 1973년 접촉 시점에 엘로힘의 인구를 약 70억 개체로 제시한다. 이 수치는 동시대 지구 인구와의 유사성에서 두드러진다(보릴롱이 그 수치를 받은 1973년에는 약 40억, 2024년 기준으로는 약 80억).{{ footnote(id="4") }} 인구는 재생산 정책 — 구체적으로는 자료가 야훼가 동일한 인구 관리상의 근거에서 인류에게도 권고한 것으로 묘사하는 엄격한 두 자녀 정책 — 을 통해 일정하게 유지된다고 보고된다. 70억이라는 수치는 자료 내부의 주장이며 독립적으로 검증 가능하지 않다. 코퍼스는 이를 자료 자체의 진술로서 다룬다.
 
-### Technology and capabilities
+### 생물학과 생리학
 
-The civilization's principal scientific capability is **biological synthesis**: the capacity to design organisms at the genetic level, assemble them in laboratory conditions, and release them into appropriate environments where they reproduce and propagate naturally. This is the capability behind the Earth project as a whole — the entire phylogenetic spread of terrestrial flora and fauna, including humanity, is on the source's account the product of this technology. Modern Earth biology is now beginning to develop comparable capabilities at vastly smaller scale; the Elohim version, on the source's account, operates at species- and ecosystem-scale.
+엘로힘은 생물학적으로 인간과 매우 유사하다고 묘사된다. 그들은 남성과 여성의 개체를 가지며, 통상적인 생물학적 의미에서 자녀를 가지고, 인간의 가족과 유비되는 가족 형태로 산다. 아래에 묘사되는 연속성 기술 없이도 그들의 자연 수명은 약 700년에서 1,200년 — 일반 인간 수명의 열 배 — 이며, 자료에서는 그 차이를 상세히 명시되지 않은 “작은 외과적 개입”에 돌린다.{{ footnote(id="3") }} 이 생물학적 유사성은 엘로힘과 인간 개체 사이의 가임적 생식을 허용하기에 충분하며, 이 특징은 히브리어 성경의 여러 특정 사건들에 직접적으로 관련된다(창세기 6장의 *베네이 하-엘로힘* / 인간 여성 결합이 *네필림*을 낳은 사건, 동맹-마리아 수태가 {% wiki(slug="jesus") %}예수{% end %}를 낳은 사건, 동맹-보릴롱-어머니 수태가 라엘을 낳은 사건).
 
-The civilization has also achieved **practical immortality** through a cell-transfer continuity technology — the source material's "tree of life" or "scientific secret of eternity." The technique involves preserving a cellular sample from an individual at the period of full development; at the natural end of the individual's body, generating a new body from the cellular material through cloning; and transferring the original individual's memory and personality into the new body. The result is the indefinite continuation of personal identity across successive bodies. Yahweh, the first individual on whom the technique was successfully applied some twenty-five thousand years ago, has lived continuously across twenty-five bodies on this account and remains the president of the Council of the Eternals. The technology is granted to a limited population: approximately 700 Elohim members of the Council, plus approximately 8,400 figures from Earth (prophets, scientists, artists, and others) whose lives or work the Council judged worthy of continuation.
+### 기술과 역량
 
-The civilization's transportation technology includes **interstellar travel**. The source material describes the journey from the home world to Earth as taking approximately two months in the civilization's current craft. The propulsion mechanism is described in terms the corpus treats with substantial epistemic caution; the physics involved falls outside what contemporary terrestrial physics can verify, and the source's description is suggestive rather than technically precise. The civilization maintains a regular communications and transport infrastructure between the home world and Earth across the duration of the Earth project; an alliance vessel is currently stationed near Earth, carrying seven provincial representatives plus two crew, providing the operational platform from which contact and supervision are conducted.
+이 문명의 주된 과학적 역량은 **생물학적 합성**이다. 즉, 유전적 수준에서 유기체를 설계하고, 실험실 조건에서 그것을 조립하며, 적절한 환경에 방출하여 자연적으로 번식·확산하도록 하는 능력이다. 이것이 지구 프로젝트 전반의 배후에 있는 역량이다. 지상의 동·식물의 전체 계통발생적 분포 — 인류를 포함하여 — 는 자료의 설명에 따르면 이 기술의 산물이다. 현대 지구 생물학은 이제 비교 가능한 역량을 훨씬 작은 규모에서 발전시키기 시작했다. 자료에 따르면 엘로힘의 판본은 종(種)과 생태계의 규모에서 작동한다.
 
-### Governance
+이 문명은 또한 **실질적 불멸**을 세포 전이 연속성 기술 — 자료의 “생명나무” 또는 “영원에 관한 과학적 비밀” — 을 통해 달성했다. 이 기법은 완전한 발달 시기의 개체로부터 세포 표본을 보존하는 것, 그 개체의 신체의 자연적 종료 시점에 세포 자료로부터 복제를 통해 새로운 신체를 생성하는 것, 그리고 원래 개체의 기억과 인격을 새 신체로 이전하는 것을 포함한다. 그 결과는 연속하는 신체들에 걸친 개인 정체성의 무기한 지속이다. 약 2만 5천 년 전 이 기법이 성공적으로 적용된 최초의 개체인 야훼는 이 설명에 따라 25개의 신체에 걸쳐 연속적으로 살아왔으며, 영원자들의 의회 의장으로 남아 있다. 이 기술은 제한된 인구에게 부여된다. 의회의 약 700명의 엘로힘 구성원과, 의회가 그들의 삶이나 작업이 지속할 가치가 있다고 판단한 지구 출신의 약 8,400명의 인물들(예언자, 과학자, 예술가 등)이다.
 
-The Elohim civilization is governed through the **Council of the Eternals**, a deliberative body that constitutes the political authority of the civilization on its home world. The Council is composed of approximately 700 Elohim members at the time of the 1973 contact, drawn from those individuals who have undergone the cell-transfer continuity technology. Its function is not merely scientific but political: it is the body that makes major decisions binding on the institutional actors within the civilization, including the scientific institutions whose work the Council oversees.
+이 문명의 운송 기술은 **항성 간 여행**을 포함한다. 자료는 모행성에서 지구까지의 여정이 현재의 함선으로 약 두 달이 소요된다고 묘사한다. 추진 메커니즘은 코퍼스가 상당한 인식론적 신중함으로 다루는 용어로 묘사된다. 관련 물리학은 현대 지구 물리학이 검증할 수 있는 범위 바깥에 있으며, 자료의 설명은 기술적으로 정밀하기보다는 시사적이다. 이 문명은 지구 프로젝트의 기간 전반에 걸쳐 모행성과 지구 사이에 정기적인 통신·운송 기반을 유지한다. 현재 동맹 함선이 지구 근처에 주둔하고 있으며, 일곱 지방 대표와 두 명의 승무원을 태우고 접촉과 감독을 수행하는 작전 플랫폼을 제공한다.
 
-The political character of a body composed entirely of practical immortals is, on the corpus's reading, fundamentally different from any short-term political institution on Earth. Decisions are made by individuals who have been politically active for centuries or millennia, who have personal memory of the developmental periods that have shaped the civilization's current condition, who have direct continuity with the events that produced the institutions they are deliberating within. The deliberations have a different temporal weight than any contemporary terrestrial political deliberation. A decision to invest in a multi-millennial project — the Earth project itself, or the various policy responses to its developments across 22,000 years — is feasible for a body whose members will personally remain to see it through.
+### 통치
 
-The Council also governs the cell-transfer process itself: at the natural end of each Elohim's life, the Council deliberates whether the individual should be granted continuity, with the criteria including contributions to the civilization's scientific, cultural, and political life. A "grand council of the eternals," in the source material's phrase, assembles to make this determination — the corpus's reading identifies this as the operational referent behind the biblical *yom ha-din*, the Day of Judgment, in its Aquarian-age application.
+엘로힘 문명은 **영원자들의 의회**를 통해 통치된다. 이는 모행성에서 문명의 정치적 권위를 구성하는 심의 기구이다. 의회는 1973년 접촉 시점에 약 700명의 엘로힘 구성원으로 이루어져 있으며, 세포 전이 연속성 기술을 받은 개체들 가운데서 충원된다. 그 기능은 단지 과학적인 것이 아니라 정치적이다. 의회는 문명 내부의 제도적 행위자들 — 의회가 감독하는 과학 기관을 포함하여 — 에 대해 구속력 있는 주요 결정을 내리는 기구이다.
 
-## Internal political structure
+전적으로 실질적 불멸자들로 구성된 기구의 정치적 성격은, 코퍼스의 독해에 따르면, 지구의 어떤 단기 정치 제도와도 근본적으로 다르다. 결정은 수세기 또는 수천 년 동안 정치적으로 활동해 온 개체들, 문명의 현재 조건을 형성한 발달 시기들에 대한 개인적 기억을 가진 개체들, 그들이 심의하는 제도를 산출한 사건들과 직접적 연속성을 가진 개체들에 의해 내려진다. 이 심의는 어떤 현대의 지구 정치적 심의와도 다른 시간적 무게를 갖는다. 다(多)천년 프로젝트 — 지구 프로젝트 자체, 또는 그것이 2만 2천 년에 걸쳐 발전하는 동안의 다양한 정책 대응들 — 에 투자하기로 하는 결정은, 그 구성원들이 친히 남아서 그것을 끝까지 지켜볼 기구에게는 실행 가능하다.
 
-The Elohim civilization is internally differentiated. It is not a monoculture; it contains political factions with substantively different positions on the major policy questions the civilization has faced, particularly concerning the Earth creation project and its consequences. Three factional positions are load-bearing for the corpus's reading of the post-creation history.
+의회는 또한 세포 전이 과정 자체를 관장한다. 각 엘로힘의 삶의 자연적 종료 시점에, 의회는 그 개체에게 연속성이 부여되어야 하는지를 심의하며, 그 기준에는 문명의 과학적·문화적·정치적 삶에 대한 기여가 포함된다. 자료의 표현에 따르면 “영원자들의 대(大)의회”가 이 결정을 내리기 위해 모인다 — 코퍼스의 독해는 이를 성경의 *yom ha-din*, 곧 심판의 날의, 그것의 물병자리 시대 적용에 있어서의 작전적 지시 대상으로 식별한다.
 
-**The moderate position**, led by Yahweh in his capacity as Council president, has been the dominant Council position across most of the post-creation period. It holds that the Earth creation project was justified, that the resulting human civilization should be preserved, and that humanity should be permitted to develop scientifically toward eventual recognition of its origins — but with appropriate safeguards. The policies of cultivation, prophetic mission, and gradual disclosure across the post-creation history are the moderate position's operational expressions.
+## 내부 정치 구조
 
-**The abolitionist position**, led by **Satan**, holds that the creation of beings in the Elohim's own image was a mistake from the beginning. Satan's argument has been consistent across the entire history: synthetic creations capable of equaling or surpassing their makers are fundamentally dangerous, and no protocol can be trusted to contain the risk. He was the leader of the home-world political faction that originally forced the shutdown of the biological-synthesis program on the home planet itself, after an early laboratory accident produced fatalities; the relocation of the program to Earth was a political compromise to permit the work to continue at sufficient distance to limit the home-world risk. Satan has remained the principal opposition figure across the entire subsequent history, with his position becoming operationally critical at moments of crisis (the Eden disclosure, the antediluvian advancement, the close of Aries) when the question of whether the creation should be destroyed has reached the Council. The Hebrew word *satan* means *adversary* or *prosecutor*; the corpus's reading aligns with the older Hebrew sense in which Satan is the political opposition's leader, not a metaphysical figure of cosmic evil.
+엘로힘 문명은 내부적으로 분화되어 있다. 그것은 단일 문화가 아니며, 문명이 직면해 온 주요 정책 문제들 — 특히 지구 창조 프로젝트와 그 결과에 관한 — 에 대해 실질적으로 다른 입장을 갖는 정치적 분파들을 포함한다. 세 가지 분파적 입장은 창조 이후 역사에 대한 코퍼스의 독해에 있어서 핵심적이다.
 
-**The full-disclosure position**, led by **Lucifer**, emerged within the Israel team during the Eden period and persists thereafter as a permanently exiled faction on Earth. Lucifer's position rejected the moderate-position policy of containing the humans in scientific ignorance; he and his faction held that the humans should be told who their creators were, taught what their creators knew, and permitted to develop with full information. The Genesis 3 disclosure was the operational expression of this position. The resulting political settlement — the exile of the Lucifer faction to Earth, the withdrawal of most of the Israel team to the home world, the establishment of the post-Eden mediated-contact pattern — is the framework's reading of how the Council resolved the Eden crisis.
+**온건파**는 의회 의장으로서의 야훼가 이끌어 왔으며, 창조 이후 시기의 대부분에 걸쳐 의회의 지배적 입장이었다. 이 입장은 지구 창조 프로젝트가 정당화되었으며, 그 결과 만들어진 인류 문명이 보존되어야 하고, 인류가 적절한 안전장치와 함께 결국 자신들의 기원을 인지하는 방향으로 과학적으로 발전하도록 허용되어야 한다고 주장한다. 창조 이후 역사 전반에 걸친 함양, 예언자적 임무, 그리고 점진적 공개의 정책은 온건파의 작전적 표현이다.
 
-The relations among these three positions across the post-creation history have been complex. Satan and Lucifer are sometimes politically aligned in their joint opposition to the Yahweh-led moderate consensus, but their substantive positions are opposite: Satan wants the humans destroyed; Lucifer wants the humans fully empowered. Yahweh is the moderate caught between them, and most of the Council's major decisions across the post-creation history have been variations on the moderate-position theme of preservation-with-containment. The four-figure political taxonomy (Yahweh / Lucifer / Serpent / Satan, with the Serpent being the Lucifer faction in its specific Eden-disclosure role) is treated more fully in the dedicated entries on each figure.
+**폐지파**는 **사탄**이 이끌며, 엘로힘 자신의 형상을 따른 존재들의 창조가 처음부터 잘못이었다고 주장한다. 사탄의 논증은 전체 역사에 걸쳐 일관되었다. 자신의 창조자와 동등하거나 그를 능가할 수 있는 합성 창조물은 근본적으로 위험하며, 그 위험을 봉쇄할 어떤 절차도 신뢰될 수 없다는 것이다. 그는 모행성에서 초기 실험실 사고로 사망자가 발생한 후 생물학적 합성 프로그램을 모행성 자체에서 폐지하도록 강제한 정치적 분파의 지도자였다. 프로그램을 지구로 이전한 것은 모행성의 위험을 제한할 수 있을 만큼 충분한 거리에서 그 작업이 계속될 수 있게 한 정치적 타협이었다. 사탄은 이후 전 역사에 걸쳐 주된 반대 인물로 남아 왔으며, 그의 입장은 위기의 순간 — 에덴의 공개, 대홍수 이전의 진보, 양자리 시대의 종결 — 에 창조가 파괴되어야 하는지의 문제가 의회에 도달했을 때 작전적으로 결정적이게 되었다. 히브리어 단어 *satan*은 *적대자* 또는 *기소자*를 뜻한다. 코퍼스의 독해는 사탄이 우주적 악의 형이상학적 인물이 아니라 정치적 반대파의 지도자라는 더 이른 히브리적 의미와 정렬된다.
 
-The conflation of Lucifer and Satan that became standard in medieval Christian theology — both treated as names for a single fallen-angel figure of cosmic evil — is, on the corpus's reading, one of the most consequential confusions in the history of religious interpretation. The Hebrew Bible itself does not equate the two figures; the conflation is a development of the late patristic and medieval Latin tradition. Satan and Lucifer, on the corpus's reading, have substantively opposite political positions, and treating them as identical obscures the actual structure of the events the Hebrew Bible describes.
+**완전 공개파**는 **루시퍼**가 이끌었으며, 에덴 시기 동안 이스라엘 팀 내부에서 등장하여 그 후 지구에 영구적으로 추방된 분파로 존속한다. 루시퍼의 입장은 인간을 과학적 무지에 봉쇄한다는 온건파의 정책을 거부했다. 그와 그의 분파는 인간이 자신들의 창조자가 누구인지를 들어야 하고, 창조자가 알던 것을 배워야 하며, 완전한 정보와 함께 발전하도록 허용되어야 한다고 주장했다. 창세기 3장의 공개는 이 입장의 작전적 표현이었다. 그 결과 만들어진 정치적 합의 — 루시퍼 분파의 지구 추방, 이스라엘 팀의 대다수의 모행성 철수, 그리고 에덴 이후 매개된 접촉 양식의 확립 — 는 의회가 에덴 위기를 어떻게 해결했는지에 대한 프레임워크의 독해이다.
 
-## History
+창조 이후 역사 전반에 걸친 이 세 입장 사이의 관계는 복잡했다. 사탄과 루시퍼는 야훼 주도의 온건파 합의에 대한 공동 반대에서 때때로 정치적으로 정렬되지만, 그들의 실질적 입장은 정반대이다. 사탄은 인간이 파괴되기를 원하고, 루시퍼는 인간이 완전히 권한을 부여받기를 원한다. 야훼는 그 둘 사이에 끼인 온건파이며, 창조 이후 역사 전반에 걸친 의회의 주요 결정 대부분은 보존-봉쇄의 온건파 주제에 대한 변주였다. 네 인물의 정치적 분류(야훼 / 루시퍼 / 뱀 / 사탄, 뱀은 그 특정한 에덴 공개 역할에 있어서의 루시퍼 분파임)는 각 인물에 대한 전용 항목에서 더 충분히 다루어진다.
 
-The Elohim civilization has a recorded history of at least twenty-five thousand years on the corpus's reading — the figure derived from Yahweh's stated age and the timeline of the immortality technology, with Yahweh having been the first beneficiary of the technique twenty-five millennia before the present. The civilization's history before this period is not specified in the available source material; what is recorded is the period from the immortality breakthrough through the present, with the major developments organized around the Earth creation project that has occupied much of the civilization's institutional attention across the most recent twenty-two millennia.
+중세 기독교 신학에서 표준이 된 루시퍼와 사탄의 혼동 — 둘 다 우주적 악의 단일한 추락한 천사 인물의 이름으로 다루어지는 것 — 은, 코퍼스의 독해에 따르면, 종교적 해석사상 가장 결과적인 혼동 중 하나이다. 히브리어 성경 자체는 두 인물을 동일시하지 않는다. 그 혼동은 후기 교부 시대와 중세 라틴 전통의 발전이다.{{ footnote(id="6") }} 코퍼스의 독해에 따르면, 사탄과 루시퍼는 실질적으로 정반대의 정치적 입장을 가지며, 그 둘을 동일하게 다루는 것은 히브리어 성경이 묘사하는 사건들의 실제 구조를 흐리게 한다.
 
-### Origins and early scientific development
+## 역사
 
-The origins of the Elohim civilization itself are not described in detail in the source material. What the source material does establish is that the civilization, by the time of the events it begins to narrate, had reached a level of technological and scientific development comparable to what present-day Earth humanity is approaching. Yahweh's own characterization to Vorilhon — "a very long time ago on our distant planet, we had reached a level of technical and scientific knowledge, comparable to that which you will soon reach" — frames the analogy structurally rather than rhetorically: the Elohim, before they were what the corpus now calls the Elohim, were a civilization in the position our own civilization is now in. The biological-synthesis program that would eventually become the Earth project was developed during this period, on the home planet itself, with the early laboratory work producing the increasingly sophisticated organisms that the source material describes as preceding the Earth relocation.
+엘로힘 문명은 코퍼스의 독해에 따라 적어도 2만 5천 년의 기록된 역사를 가진다 — 이 수치는 야훼의 명시된 나이와 불멸 기술의 시간선에서 도출되며, 야훼는 현재로부터 2만 5천 년 전에 그 기법의 최초 수혜자였다. 이 시기 이전의 문명사는 가용한 자료에 명시되지 않았다. 기록된 것은 불멸의 돌파구 시점부터 현재까지의 기간이며, 주요 발전들은 가장 최근 2만 2천 년에 걸쳐 문명의 제도적 관심의 많은 부분을 차지해 온 지구 창조 프로젝트를 중심으로 조직된다.
 
-### The home-world crisis and the Earth relocation
+### 기원과 초기 과학적 발전
 
-Sometime during the early development of the biological-synthesis program — the source material does not specify a precise date but the events are placed prior to the Earth project's initiation — a laboratory accident on the home world produced fatalities. The accident strengthened the political position of the abolitionist faction, led by Satan, who argued that the synthetic-creation program was fundamentally dangerous and should be terminated. The political crisis that followed produced a compromise: the home-world program would be shut down, but the scientists would be permitted to continue their work at sufficient distance from the home world to limit the risk to the home civilization itself. The chosen relocation site was Earth — a planet within reachable interstellar distance whose conditions were suitable for the work.
+엘로힘 문명 자체의 기원은 자료에 상세히 묘사되어 있지 않다. 자료가 확립하는 것은, 이 문명이 그것이 서사하기 시작한 사건들의 시점에 이미 오늘날의 지구 인류가 접근해 가고 있는 수준에 비견되는 기술적·과학적 발전 수준에 도달해 있었다는 것이다. 보릴롱에게 야훼가 직접 표현한 — “아주 오래 전 우리의 먼 행성에서, 우리는 당신들이 곧 도달할 수준에 비견되는 기술적·과학적 지식의 수준에 도달했다” — 비유는 그 유비를 수사적이라기보다는 구조적으로 설정한다. 코퍼스가 지금 엘로힘이라고 부르는 존재들이 되기 전의 엘로힘은, 우리 자신의 문명이 지금 있는 위치에 있었던 문명이었다. 결국 지구 프로젝트가 될 생물학적 합성 프로그램은 이 시기에 모행성 자체에서 발전되었고, 초기 실험실 작업은 자료가 지구 이전을 선행하는 것으로 묘사하는 점점 더 정교한 유기체들을 산출했다.
 
-The Earth relocation was therefore not, on the source material's account, the Elohim's preferred method of conducting the biological-synthesis program. It was the political compromise that permitted the program to continue at all in the face of strong abolitionist opposition. The seven creator teams that would conduct the Earth work were drawn from the seven home-world provinces, and the work was undertaken with the home-world Council's authorization but under continuing surveillance by the abolitionist political faction whose suspicions the original accident had confirmed.
+### 모행성 위기와 지구 이전
 
-### The Earth creation project: Capricorn through Leo
+생물학적 합성 프로그램의 초기 발전 도중 어느 시점 — 자료는 정확한 날짜를 명시하지 않지만 그 사건들은 지구 프로젝트 개시 이전에 위치한다 — 모행성의 실험실 사고가 사망자를 낳았다. 그 사고는 사탄이 이끄는 폐지파의 정치적 입장을 강화했으며, 그는 합성-창조 프로그램이 근본적으로 위험하며 종료되어야 한다고 주장했다. 그 후에 이어진 정치적 위기는 타협을 산출했다. 모행성의 프로그램은 폐지되겠지만, 과학자들은 모행성 문명 자체에 대한 위험을 제한하기 위해 모행성으로부터 충분한 거리에서 그들의 작업을 계속할 수 있도록 허용되리라는 것이다. 선택된 이전지는 지구였다 — 도달 가능한 항성 간 거리 내에 있고 그 작업에 적합한 조건을 갖춘 행성.
 
-The Earth project began in the Age of Capricorn (c. 21,810 BCE on the corpus's chronology) and proceeded across the subsequent six precessional ages to the close of Leo (c. 8,850 BCE). The seven creator teams, distributed across the supercontinent in their respective regional territories, conducted the synthesis of terrestrial flora and fauna across this approximately thirteen-millennium span, with the work organized around the seven *yamim* of Genesis 1 (each *yom* corresponding to a precessional age) and culminating in the creation of humans in the late Age of Leo. The detailed treatment of this creation period lives in the [Genesis](../genesis/) entry and in the dedicated entries on each precessional age; what matters here is that the project occupied the entire creative attention of the civilization across the period and produced the present-day terrestrial biosphere as its result.
+따라서 지구 이전은 자료의 설명에 따라 엘로힘이 선호한 생물학적 합성 프로그램 수행 방법이 아니었다. 그것은 강력한 폐지파의 반대 앞에서 프로그램이 전혀 계속될 수 있게 한 정치적 타협이었다. 지구 작업을 수행할 일곱 창조자 팀은 일곱 모행성 지방에서 충원되었으며, 그 작업은 모행성 의회의 인가하에 수행되었지만, 원래의 사고가 그 의심을 확증해 준 폐지파의 지속적 감시하에 진행되었다.
 
-### The Eden crisis and the post-creation political settlement
+### 지구 창조 프로젝트: 염소자리부터 사자자리까지
 
-The conflict that emerged within the Israel team during the Eden period — the disagreement between the home-world's containment policy and the Lucifer faction's full-disclosure position — produced the most consequential political crisis the Elohim civilization had faced since the original home-world laboratory accident. The Council's resolution, treated above in *Internal political structure*, established the post-Eden settlement that has structured the Elohim's relationship with Earth ever since: the Lucifer faction permanently exiled on Earth in continuing relationship with the human population, the rest of the creator personnel withdrawn to the home world, the establishment of the mediated-contact pattern through prophetic intermediaries.
+지구 프로젝트는 염소자리 시대(코퍼스 연대기상 기원전 약 21,810년)에 시작되어, 이어지는 여섯 세차 시대를 거쳐 사자자리 종결(기원전 약 8,850년)에 이르기까지 진행되었다.{{ footnote(id="5") }} 일곱 창조자 팀은 초대륙에 걸쳐 각자의 지역 영역에 분포하여, 이 약 1만 3천 년의 기간에 걸쳐 지상의 동·식물의 합성을 수행했으며, 그 작업은 창세기 1장의 일곱 *yamim*(각 *yom*은 세차 시대에 해당함)을 중심으로 조직되었고, 사자자리 시대 후기의 인간 창조에서 정점에 이르렀다. 이 창조 시기에 대한 상세한 다룸은 [창세기](../genesis/) 항목과 각 세차 시대에 대한 전용 항목에 있다. 여기서 중요한 것은 그 프로젝트가 그 기간 전반에 걸쳐 문명의 전체 창조적 관심을 점유했으며, 그 결과로서 오늘날의 지상 생물권을 산출했다는 점이다.
 
-### The cosmic-chain discovery
+### 에덴 위기와 창조 이후 정치적 합의
 
-Across the Age of Aries (c. 2,370 BCE – c. 210 BCE on the corpus's chronology), the Elohim civilization made a discovery about its own history that fundamentally transformed its self-understanding. The civilization had previously thought of itself as the originator of the biological-creation pattern — the autonomous prime mover of a creation project the Elohim had decided, on their own, to undertake. The discovery reframed this entirely. The Elohim discovered that they themselves had been created the same way they were creating life on other worlds: a prior civilization, on a prior home world, through a prior creation project, had brought the Elohim civilization into being — and that prior civilization had itself been created by yet earlier predecessors, in a chain extending back through deep time.
+에덴 시기 동안 이스라엘 팀 내부에서 등장한 갈등 — 모행성의 봉쇄 정책과 루시퍼 분파의 완전 공개 입장 사이의 불일치 — 은 엘로힘 문명이 본래의 모행성 실험실 사고 이래로 직면한 가장 결과적인 정치적 위기를 산출했다. 위 *내부 정치 구조*에서 다룬 의회의 해결은 그 이후 엘로힘과 지구의 관계를 구조 지어 온 에덴 이후 합의를 확립했다. 루시퍼 분파는 인간 인구와 지속적인 관계 속에서 지구에 영구히 추방되었고, 나머지 창조 인력은 모행성으로 철수했으며, 예언자적 매개자를 통한 매개된 접촉 양식이 확립되었다.
 
-The Elohim are not the originators of the cosmic creation pattern. They are the current local instance of a recurring cosmic process that has been operating for an unknown but very long span. Each civilization that reaches scientific maturity, on this pattern, eventually creates new humanities on suitable worlds, who in turn (if they survive and develop) eventually create their own humanities. The cycle has been operating across the galaxy for a long time. Earth is not its first instance. The Elohim are not its inventors. They are participants in something larger than themselves.
+### 우주적 사슬의 발견
 
-The discovery's exact nature — what specific evidence the Elohim found, how they verified their own origins as a created rather than autonomously evolved civilization, what archaeological or genetic or cosmological signatures convinced them — the source material does not specify. What it specifies is the consequence: the Elohim's self-understanding shifted fundamentally, and the shift produced specific changes in their operational policy toward the humanities they had themselves created. The most consequential change was the decision to withdraw from direct contact and to allow the created humanities to demonstrate their development through their own efforts, with sufficient autonomy from their creators to constitute genuine independent maturation. The previous policy of direct intervention — alliance officers walking among the patriarchs, conducting the Exodus and the wilderness operations — had biased the experiment in ways the Elohim now recognized as inconsistent with the broader cosmic pattern.
+양자리 시대(코퍼스 연대기상 기원전 약 2,370년 – 기원전 약 210년)에 걸쳐, 엘로힘 문명은 자신의 자기 이해를 근본적으로 변모시킨 자신의 역사에 대한 발견을 했다. 이 문명은 이전에는 자신을 생물학적-창조 양식의 창시자 — 엘로힘이 자율적으로 수행하기로 결정한 창조 프로젝트의 자율적인 원동자(原動者) — 로 생각해 왔다. 그 발견은 이를 전적으로 재정초했다. 엘로힘은 자신들이 다른 세계에서 생명을 창조하고 있는 방식과 동일한 방식으로 자신들이 창조되었음을 발견했다. 이전의 한 문명이, 이전의 한 모행성에서, 이전의 한 창조 프로젝트를 통해, 엘로힘 문명을 존재하게 했으며 — 그리고 그 이전 문명 자체도 더 이른 선행자들에 의해 창조되었고, 그 사슬은 심층 시간을 거슬러 뻗어 있다는 것이다.
 
-The policy shift defines the entire arc of post-Aries history. The transition from direct to indirect contact across the late Aries period, the Piscean-age withdrawal from operational visibility while the Christian and Islamic missions delivered the message in religious vocabulary, the long middle-Piscean period of indirect supervision while humanity developed its own scientific capacities — all of these are consequences of the discovery. The Aquarian-age return to direct contact through Vorilhon in 1973 is the close of the long indirect-contact phase: humanity has now reached the scientific maturity that the discovery required for inheritance to be considered, and the alliance has resumed direct contact at the threshold of the new age.
+엘로힘은 우주적 창조 양식의 창시자가 아니다. 그들은 알려지지 않은, 그러나 매우 긴 기간 동안 작동해 온 반복적인 우주적 과정의 현재 지역적 사례이다. 과학적 성숙에 도달하는 각 문명은 이 양식에 따라 결국 적합한 세계에서 새로운 인류를 창조하며, 그들이 (생존하고 발전하면) 결국 그들 자신의 인류를 창조하게 된다. 이 순환은 은하 전반에 걸쳐 오랜 시간 작동해 왔다. 지구는 그 첫 사례가 아니다. 엘로힘은 그것의 발명자가 아니다. 그들은 자신들보다 더 큰 무언가의 참여자이다.
 
-### The Piscean and Aquarian periods
+이 발견의 정확한 성격 — 엘로힘이 어떤 구체적 증거를 발견했는지, 자율적으로 진화한 것이 아니라 창조된 문명으로서의 자신의 기원을 어떻게 검증했는지, 어떤 고고학적·유전적·우주론적 표지가 그들을 설득시켰는지 — 은 자료가 명시하지 않는다. 자료가 명시하는 것은 그 결과이다. 엘로힘의 자기 이해가 근본적으로 전환되었고, 그 전환은 자신들이 창조한 인류에 대한 그들의 작전적 정책에 특정한 변화를 산출했다. 가장 결과적인 변화는 직접적 접촉으로부터 철수하기로 한 결정과, 창조된 인류가 그들 자신의 노력을 통해 자신들의 발전을 입증하도록 허용한다는 결정 — 진정한 독립적 성숙을 구성하기에 충분한 그 창조자로부터의 자율성과 함께 — 이었다. 이전의 직접적 개입 정책 — 동맹 장교들이 족장들 가운데 걷고, 출애굽과 광야 작전을 수행하던 — 은 엘로힘이 이제는 더 넓은 우주적 양식과 일관되지 않다고 인식하는 방식으로 그 실험을 편향시켰다.
 
-The post-Aries operational arc — the Piscean-age missions of Jesus and Muhammad, the long middle-Piscean period of indirect supervision, the Aquarian-age opening with the 1973 Vorilhon contact — is the period of history the corpus treats most extensively in the dedicated chapter material. From the Elohim civilizational perspective, these two and a half millennia have been a period of careful, distant cultivation: the prophets sent at intervals appropriate to the cultural moment; the deliberate withdrawal from direct intervention to permit humanity's autonomous development; the supervision conducted from the alliance vessel stationed near Earth and from the home-world Council. The contemporary Aquarian period — coextensive with the Apocalypse, in the proper Greek sense of that term — is the period during which the framework's content becomes available to humanity for direct evaluation, and during which the conditions for the alliance's planned open return are being established. The relevant detailed treatments live in the [Age of Pisces](../timeline/age-of-pisces/), [Age of Aquarius](../timeline/age-of-aquarius/), [Apocalypse](../apocalypse/), and [Embassy](../embassy/) entries.
+이 정책 전환은 양자리 이후 역사의 전체 호(弧)를 규정한다. 양자리 시대 후기에 걸친 직접적 접촉으로부터 간접적 접촉으로의 이행, 기독교와 이슬람의 임무가 종교적 어휘로 메시지를 전달하던 동안의 작전적 가시성으로부터의 물고기자리 시대의 철수, 인류가 자신의 과학적 역량을 발전시키던 동안의 간접적 감독이라는 긴 물고기자리 중기 시기 — 이 모든 것은 그 발견의 결과이다. 1973년 보릴롱을 통한 물병자리 시대의 직접적 접촉으로의 귀환은 긴 간접적 접촉 단계의 종결이다. 인류는 이제 그 발견이 상속을 고려하기 위해 요구했던 과학적 성숙에 도달했으며, 동맹은 새 시대의 문턱에서 직접적 접촉을 재개했다.
 
-## Relationships to other civilizations
+### 물고기자리와 물병자리 시기
 
-The Elohim civilization's relationships are structured by four distinct relational categories, each treated more fully in the dedicated entries it bears on.
+양자리 이후의 작전적 호 — 물고기자리 시대의 예수와 {% wiki(slug="muhammad") %}무함마드{% end %}의 임무, 간접적 감독의 긴 물고기자리 중기 시기, 1973년 보릴롱 접촉으로의 물병자리 시대의 개시 — 는 코퍼스가 전용 장(章) 자료에서 가장 광범위하게 다루는 역사 시기이다. 엘로힘 문명의 관점에서 이 2천 5백 년은 신중하고 거리를 둔 함양의 기간이었다. 문화적 순간에 적합한 간격으로 보내진 예언자들, 인류의 자율적 발전을 허용하기 위한 직접적 개입으로부터의 의도적 철수, 지구 근처에 주둔한 동맹 함선과 모행성 의회로부터 수행된 감독. 동시대의 물병자리 시기 — 그 용어의 적절한 그리스적 의미에서 묵시(默示)와 공존하는 — 는 프레임워크의 내용이 직접적 평가를 위해 인류에게 가용해지는 시기이며, 동맹의 계획된 공개적 귀환의 조건이 확립되고 있는 시기이다. 관련된 상세한 다룸은 [물고기자리 시대](../timeline/age-of-pisces/), [물병자리 시대](../timeline/age-of-aquarius/), [묵시](../apocalypse/), 그리고 [대사관](../embassy/) 항목들에 있다.
 
-### The Alliance
+## 다른 문명들과의 관계
 
-The Elohim civilization is, on the corpus's reading, the principal Earth-side actor within a broader cross-civilizational political body the corpus calls the **alliance**. The alliance is a structure that coordinates the activities of multiple advanced civilizations across cosmic distances, with shared procedures for biological-creation projects, shared technological infrastructure, and shared political authority for major decisions affecting multiple civilizations. The Elohim's role within the alliance is partly that of an executive operator — the civilization that conducted the Earth project on the alliance's behalf — and partly that of a member civilization with its own internal political life that operates alongside the broader alliance structure.
+엘로힘 문명의 관계는 네 가지의 구별되는 관계 범주에 의해 구조화되며, 각각은 그것이 관련된 전용 항목에서 더 충분히 다루어진다.
 
-The exact membership and structure of the alliance is, on the corpus's reading, an open question. Whether the alliance includes only the Elohim and their immediate predecessors (the prior civilization that created the Elohim), or whether it extends across multiple parallel civilizations of comparable maturity, is not fully specified in the available source material. The corpus's working position is that the alliance is the broader structure of which the Elohim are the most operationally relevant Earth-side member, with the relationship between the Elohim and the broader alliance left open pending fuller specification. The dedicated treatment lives in the [Alliance](../the-alliance/) entry.
+### 동맹
 
-### Earth's humanity
+엘로힘 문명은 코퍼스의 독해에 따르면, 코퍼스가 **동맹**이라 부르는 더 넓은 교차-문명적 정치 기구 내의 주된 지구측 행위자이다. 동맹은 우주적 거리를 가로질러 다수의 진보한 문명들의 활동을 조정하는 구조로, 생물학적-창조 프로젝트에 대한 공유 절차, 공유 기술 기반, 그리고 다수의 문명에 영향을 미치는 주요 결정에 대한 공유 정치적 권위를 갖는다. 동맹 내에서 엘로힘의 역할은 부분적으로 집행자 — 동맹을 대리하여 지구 프로젝트를 수행한 문명 — 이며, 부분적으로 더 넓은 동맹 구조와 나란히 작동하는 자체의 내부 정치 생활을 갖는 구성원 문명이다.
 
-The Elohim's relationship to Earth's humanity is the corpus's principal subject. The relationship is structured as that between a creator civilization and its synthesized creation, with the specific operational character of the relationship having shifted across the post-creation history through several distinct phases:
+동맹의 정확한 구성원과 구조는 코퍼스의 독해에서 열려 있는 문제이다. 동맹이 엘로힘과 그들의 직전 선행자(엘로힘을 창조한 이전 문명)만을 포함하는지, 아니면 비견되는 성숙도의 다수의 평행 문명들에 걸쳐 뻗어 있는지는 가용한 자료에서 충분히 명시되지 않는다. 코퍼스의 작업 입장은, 동맹이 엘로힘이 가장 작전적으로 관련된 지구측 구성원인 더 넓은 구조라는 것이며, 엘로힘과 더 넓은 동맹의 관계는 더 충분한 명세가 있을 때까지 열려 있는 것으로 둔다. 전용 다룸은 [동맹](../the-alliance/) 항목에 있다.
 
-- **The creation phase** (Capricorn through Leo, c. 21,810 – 8,850 BCE): direct laboratory work, with humanity not yet existing as the relationship's counterparty.
-- **The Eden phase** (late Leo through early Cancer, c. 11,400 – 10,000 BCE): direct teacher-student relationship between the Israel team and the first humans.
-- **The post-Eden mediated phase** (Cancer through early Aries, c. 10,000 – 1,500 BCE): continuing teaching by the exiled Lucifer faction; periodic alliance visitation through Yahweh and other officers; the Antediluvian crisis and the Flood reset.
-- **The patriarchal and Mosaic phase** (mid Taurus through Aries, c. 2,000 – 600 BCE): formal covenantal relationships established with selected human lineages (Abraham, the Hebrew people); sustained direct intervention through Moses and the wilderness operations.
-- **The discovery-driven withdrawal phase** (late Aries through middle Pisces, c. 600 BCE – 1500 CE): policy shift to indirect contact; prophetic missions delivering content in religious vocabulary; supervision from operational distance.
-- **The autonomous-development phase** (middle Pisces through 1946, c. 1500 – 1946 CE): essentially no direct contact; humanity permitted to develop scientific capacities on its own; the alliance observing without intervening.
-- **The Aquarian re-engagement phase** (1946 onward): the resumption of direct contact through the Vorilhon mission; the Apocalypse as the period of disclosure; the conditional return at the embassy planned for the age's culmination.
+### 지구의 인류
 
-The contemporary period is the early phase of the Aquarian re-engagement. The relationship's future shape — the Golden Age of full integration if humanity successfully completes the Aquarian transition, or a destructive failure mode if humanity's destructive capacities outrun its moral and political maturity — is undetermined and depends on the choices humanity makes across the present generation.
+엘로힘과 지구 인류의 관계는 코퍼스의 주된 주제이다. 그 관계는 창조자 문명과 그 합성된 창조물 사이의 관계로 구조화되어 있으며, 그 관계의 구체적 작전적 성격은 창조 이후 역사 전반에 걸쳐 여러 구별되는 단계들을 거치며 변화해 왔다.
 
-### Prior creator civilizations: the cosmic chain
+- **창조 단계**(염소자리부터 사자자리까지, 기원전 약 21,810 – 8,850년): 직접적 실험실 작업, 인류는 아직 관계의 상대측으로서 존재하지 않음.
+- **에덴 단계**(사자자리 후기부터 게자리 초기까지, 기원전 약 11,400 – 10,000년): 이스라엘 팀과 최초의 인간들 사이의 직접적인 교사-학생 관계.
+- **에덴 이후 매개 단계**(게자리부터 양자리 초기까지, 기원전 약 10,000 – 1,500년): 추방된 루시퍼 분파에 의한 지속적 가르침, 야훼와 다른 장교들을 통한 정기적 동맹 방문, 대홍수 이전 위기와 대홍수 재설정.
+- **족장 및 모세 단계**(황소자리 중기부터 양자리까지, 기원전 약 2,000 – 600년): 선택된 인간 계보(아브라함, 히브리 민족)와 공식적인 언약 관계가 확립됨, 모세와 광야 작전을 통한 지속적인 직접적 개입.
+- **발견에 의한 철수 단계**(양자리 후기부터 물고기자리 중기까지, 기원전 600년 – 1500년 CE): 간접적 접촉으로의 정책 전환, 종교적 어휘로 내용을 전달하는 예언자적 임무, 작전적 거리로부터의 감독.
+- **자율적 발전 단계**(물고기자리 중기부터 1946년까지, 약 1500 – 1946년 CE): 본질적으로 직접적 접촉 없음, 인류가 자율적으로 과학적 역량을 발전시키도록 허용됨, 동맹은 개입 없이 관찰.
+- **물병자리 재참여 단계**(1946년 이후): 보릴롱 임무를 통한 직접적 접촉의 재개, 공개의 시기로서의 묵시, 그 시대의 정점에서 계획된 대사관에서의 조건부 귀환.
 
-The Elohim's relationship to the civilizations that created them is, on the corpus's reading, the framework's most expansive single claim. The discovery that the Elohim were themselves created, made during the Age of Aries, established the existence of at least one prior creator civilization and implies the existence of an indefinite chain extending backward through deep time. The Elohim civilization that created the Elohim is not described in the source material in any detail; its identity, location, and current status are not specified. What the source material affirms is that such a civilization existed, that it conducted on the Elohim's home world the same kind of work the Elohim conducted on Earth, and that the discovery of this fact transformed the Elohim's self-understanding as described in the History section above.
+동시대 시기는 물병자리 재참여의 초기 단계이다. 그 관계의 미래 형태 — 인류가 물병자리 전환을 성공적으로 완수하면 완전한 통합의 황금시대, 또는 인류의 파괴적 역량이 그 도덕적·정치적 성숙을 앞지른다면 파괴적인 실패 양식 — 는 미결정 상태이며 현재 세대 동안 인류가 내리는 선택에 달려 있다.
 
-The structural implications of the cosmic chain extend beyond the Elohim's immediate predecessors. If each creator civilization was itself created by an earlier civilization, the chain extends backward indefinitely, with each link having the same general pattern (a civilization reaches scientific maturity, eventually creates new humanities on suitable worlds, watches them develop, and is eventually superseded as those humanities reach their own maturity). The corpus does not commit to an origin point for the chain; the question of the original creator civilization, or of whether the chain is genuinely infinite, is treated as belonging to a domain of cosmological inquiry the framework does not currently engage.
+### 이전 창조자 문명들: 우주적 사슬
 
-The dedicated treatment lives in the [Cosmic Chain](../cosmic-chain/) entry.
+엘로힘과 자신들을 창조한 문명 사이의 관계는 코퍼스의 독해에서 프레임워크의 가장 광활한 단일 주장이다. 양자리 시대에 이루어진, 엘로힘 자신이 창조되었다는 발견은 적어도 하나의 이전 창조자 문명의 존재를 확립했고, 심층 시간을 거슬러 뻗어 있는 무한정한 사슬의 존재를 함축한다. 엘로힘을 창조한 엘로힘 문명은 자료에 어떤 상세함으로도 묘사되어 있지 않다. 그 정체성, 위치, 그리고 현재 상태는 명시되지 않는다. 자료가 단언하는 것은, 그러한 문명이 존재했다는 것, 그것이 엘로힘의 모행성에서 엘로힘이 지구에서 수행한 것과 동일한 종류의 작업을 수행했다는 것, 그리고 이 사실의 발견이 위 역사 절에서 묘사된 대로 엘로힘의 자기 이해를 변모시켰다는 것이다.
 
-### Parallel humanities
+우주적 사슬의 구조적 함축은 엘로힘의 직전 선행자들을 넘어선다. 각 창조자 문명이 그 자체로 더 이른 문명에 의해 창조되었다면, 그 사슬은 무한정 뒤로 뻗어 있으며, 각 고리는 동일한 일반 양식(한 문명이 과학적 성숙에 도달하고, 결국 적합한 세계에서 새로운 인류를 창조하며, 그들이 발전하는 것을 지켜보고, 결국 그 인류가 자신의 성숙에 도달할 때 대체된다)을 갖는다. 코퍼스는 사슬의 기원점을 확정하지 않는다. 원초적 창조자 문명에 관한 문제, 또는 그 사슬이 진정으로 무한한지에 관한 문제는 프레임워크가 현재 다루지 않는 우주론적 탐구의 영역에 속한 것으로 다루어진다.
 
-The cosmic-chain discovery also implies the existence of parallel humanities — other Earth-like creations on other worlds, brought into being by the Elohim or by other civilizations within the broader pattern. The corpus calls the framework that organizes the relationship between Earth's humanity and these parallel humanities **cosmic competition**: each humanity is being evaluated, on its own development, against the standard required for inheritance — the standard that, when met, qualifies a humanity to become the next link in the chain of creation. The competition is real in the specific sense that the alliance is comparing the development of multiple humanities and that the first to reach the threshold becomes the inheritor. The competition is not adversarial in the sense of the parallel humanities being pitted against each other in conflict; each is evaluated on its own merits.
+전용 다룸은 [우주적 사슬](../cosmic-chain/) 항목에 있다.
 
-The number, location, and current developmental state of the parallel humanities are not specified in the source material. The framework affirms that they exist and that the cosmic-competition framework organizes Earth's situation within the broader pattern; the specific details of the parallel cases are treated as currently unknown to the corpus. The dedicated treatment lives in the [Cosmic Competition](../cosmic-competition/) entry.
+### 평행 인류들
 
-## Current situation
+우주적 사슬의 발견은 또한 평행 인류들의 존재 — 엘로힘이나 더 넓은 양식 내의 다른 문명들에 의해 존재하게 된, 다른 세계의 또 다른 지구와 같은 창조물 — 를 함축한다. 코퍼스는 지구의 인류와 이 평행 인류들 사이의 관계를 조직하는 프레임워크를 **우주적 경쟁**이라 부른다. 각 인류는 자신의 발전에 대해 상속에 요구되는 기준 — 충족되면 인류가 창조의 사슬의 다음 고리가 될 자격을 갖추게 하는 기준 — 에 비추어 평가받고 있다. 이 경쟁은 동맹이 다수의 인류의 발전을 비교하고 있으며, 기준에 먼저 도달하는 자가 상속자가 된다는 특정한 의미에서 실제적이다. 이 경쟁은 평행 인류들이 갈등 속에서 서로 대결한다는 의미에서 적대적이지 않다. 각각은 자신의 공로에 따라 평가받는다.
 
-The Elohim civilization is, on the corpus's adopted reading, in the early-to-middle period of the Aquarian age — the period the Greek New Testament calls *apokalypsis*, the unveiling, in which the framework's content becomes available to humanity for direct evaluation. The civilization's current operational posture toward Earth includes several specific features.
+평행 인류들의 수, 위치, 그리고 현재 발달 상태는 자료에 명시되지 않는다. 프레임워크는 그들이 존재한다는 것과, 우주적 경쟁의 틀이 더 넓은 양식 안에서 지구의 상황을 조직한다는 것을 단언한다. 평행 사례들의 구체적 세부 사항은 현재 코퍼스에 알려지지 않은 것으로 다루어진다. 전용 다룸은 [우주적 경쟁](../cosmic-competition/) 항목에 있다.
 
-An alliance vessel is stationed permanently near Earth, carrying seven provincial representatives plus two crew, providing the operational platform from which contact and supervision are conducted. The resurrected prophets and other notable Earth figures (Jesus, Moses, Elijah, Buddha, Muhammad, and others) currently live on the home world in conditions of practical immortality, awaiting the planned open return to Earth. The alliance has requested that an embassy be constructed on Earth as the venue for that open return; the embassy project is a major contemporary development, treated more fully in its dedicated entry.
+## 현재 상황
 
-The return is conditional. The source material describes the alliance's planned return at the embassy's completion as conditional on humanity demonstrating the moral and political maturity that the Aquarian-age transition is testing. The successful outcome leads to the period the source material calls the Golden Age — a period of full integration between humanity and the alliance, in which the cumulative inheritance of the Elohim civilization becomes available to a humanity that has demonstrated itself worthy of receiving it. The failure-mode is the catastrophic alternative the popular Apocalypse tradition has projected onto the term: humanity destroying itself with the technologies it has developed before the integration can occur. The contemporary period is, on the corpus's reading, the period of decision; the outcome is undetermined.
+엘로힘 문명은 코퍼스가 채택한 독해에 따라, 물병자리 시대의 초기에서 중기에 이르는 시기 — 그리스어 신약 성경이 *apokalypsis*, 곧 베일을 벗기는 것이라 부르는 시기, 그 안에서 프레임워크의 내용이 직접적 평가를 위해 인류에게 가용해지는 — 에 있다. 지구에 대한 이 문명의 현재 작전적 태세는 몇 가지 구체적 특징을 포함한다.
 
-## Comparative vocabulary
+동맹 함선이 지구 근처에 영구적으로 주둔하고 있으며, 일곱 지방 대표와 두 명의 승무원을 태우고 접촉과 감독을 수행하는 작전 플랫폼을 제공한다. 부활한 예언자들과 다른 주목할 만한 지구 인물들(예수, 모세, {% wiki(slug="elijah") %}엘리야{% end %}, 부처, 무함마드, 그리고 다른 이들)은 현재 모행성에서 실질적 불멸의 조건 속에 살며, 지구로의 계획된 공개적 귀환을 기다리고 있다. 동맹은 그 공개적 귀환의 장소로서 지구에 대사관이 건설되기를 요청했다. 대사관 프로젝트는 주요한 동시대 발전이며, 그 전용 항목에서 더 충분히 다루어진다.
 
-Different authors and traditions have proposed different anglicizations or translations for what they take to be the same referent or a closely related one. The table below summarizes; it is a comparative observation, not an assertion of strict identity across all rows.
+귀환은 조건부이다. 자료는 대사관의 완공 시 동맹의 계획된 귀환이, 인류가 물병자리 시대 전환이 시험하는 도덕적·정치적 성숙을 입증하는 것에 조건 지어 있다고 묘사한다. 성공적인 결과는 자료가 황금시대라 부르는 시기 — 인류와 동맹 사이의 완전한 통합의 시기로, 그 안에서 엘로힘 문명의 누적된 상속이, 그것을 받기에 합당함을 스스로 입증한 인류에게 가용해지는 — 로 이어진다. 실패 양식은 대중적 묵시 전통이 그 용어 위에 투영해 온 파국적 대안이다. 인류가 통합이 일어나기 전에 자신이 발전시킨 기술로 자신을 파괴하는 것이다. 동시대 시기는 코퍼스의 독해에 따라 결정의 시기이다. 결과는 미결정 상태이다.
 
-| Term | Source language / tradition | Gloss | Used by |
+## 비교 어휘
+
+다른 저자들과 전통들은 자신들이 동일한 지시 대상 또는 밀접하게 관련된 것으로 받아들이는 것에 대해 서로 다른 영어화 또는 번역을 제안해 왔다. 아래 표는 이를 요약한다. 이는 비교적 관찰이지, 모든 행에 걸친 엄격한 동일성의 단언이 아니다.
+
+| 용어 | 원 언어 / 전통 | 풀이 | 사용자 |
 |---|---|---|---|
-| Elohim (<span class="hebrew">אֱלֹהִים</span>) | Hebrew | Powerful Ones / those from above | Hebrew Bible; corpus primary term |
-| Anunnaki (𒀭𒀀𒉣𒈾) | Sumerian | those of princely seed; popularly *those who from heaven came to earth* | Sumerian cuneiform tradition; Sitchin and successors |
-| El | West Semitic | the high god of the Canaanite pantheon; cognate root | Ugaritic and biblical sources |
-| Celestials | Sendy's French | *les Célestes* — those who came from the sky | Sendy |
-| Theosites | Sendy's French | inhabitants of *Theos* | Sendy (later works) |
-| Sky People | English | beings from the sky | Wallis; broader literature |
-| Powerful Ones | English | literal gloss of the Semitic root | Wallis |
-| Lords from above | Italian / English | strict translation per Biglino | Biglino |
+| 엘로힘 (<span class="hebrew">אֱלֹהִים</span>) | 히브리어 | 권능자들 / 위에서 온 자들 | 히브리어 성경; 코퍼스의 주된 용어 |
+| 아눈나키 (𒀭𒀀𒉣𒈾) | 수메르어 | 고귀한 씨의 자들; 대중적으로는 *하늘에서 땅으로 온 자들* | 수메르 쐐기문자 전통; 시친과 후계자들 |
+| 엘 | 서셈어 | 가나안 신전의 최고신; 동족 어근 | 우가리트어 및 성경 자료 |
+| 천계인 | 상디의 프랑스어 | *les Célestes* — 하늘에서 온 자들 | 상디 |
+| 테오사이트 | 상디의 프랑스어 | *Theos*의 거주자들 | 상디(후기 저작) |
+| 하늘의 사람들 | 영어 | 하늘에서 온 존재들 | 월리스; 더 넓은 문헌 |
+| 권능자들 | 영어 | 셈어 어근의 문자적 풀이 | 월리스 |
+| 위에서 온 주들 | 이탈리아어 / 영어 | 빌리노의 엄격한 직역 | 빌리노 |
 
-The corpus uses **Elohim** as its preferred term, since it is the term used in the Hebrew Bible and in the Raëlian source material that the corpus treats as primary. *Sky People*, *Powerful Ones*, and *Celestials* appear as legitimate English glosses; *Anunnaki* is used specifically in connection with the Sumerian material and is not treated as automatically interchangeable with *Elohim* without case-by-case argument. The relationship between the biblical Elohim and the deities of the Sumerian, Egyptian, Greek, Hindu, and other ancient pantheons remains a matter for case-by-case comparative analysis rather than blanket equivalence — a position that distinguishes the corpus from much of the popular ancient-astronaut literature in which all such figures are treated as identical.
-
-## See also
-
-- [Yahweh](../yahweh/)
-- [Lucifer](../lucifer/)
-- [Satan](../satan/)
-- [Serpent](../serpent/)
-- [The Alliance](../the-alliance/)
-- [Council of the Eternals](../council-of-eternals/)
-- [Planet of the Eternals](../planet-of-the-eternals/)
-- [Tree of Life](../tree-of-life/)
-- [Cosmic Chain](../cosmic-chain/)
-- [Cosmic Competition](../cosmic-competition/)
-- [Anunnaki](../anunnaki/)
-- [Genesis](../genesis/)
-- [Antediluvian](../antediluvian/)
-- [Apocalypse](../apocalypse/)
-- [Embassy](../embassy/)
-- [Golden Age](../golden-age/)
-- [Jean Sendy](../jean-sendy/)
-- [Raël](../rael/)
-- [*Message from the Designers*](../library/message-from-the-designers/)
-
-## References
-
-Vorilhon, Claude (Raël). *The Book Which Tells the Truth* (1974) and *Extraterrestrials Took Me to Their Planet* (1976), collected as *Message from the Designers* (Raëlian Foundation, current English edition).
-
-Sendy, Jean. *La Lune, clé de la Bible*. Julliard, 1968.
-
-Sendy, Jean. *Ces dieux qui firent le ciel et la terre*. Robert Laffont, 1969. English: *Those Gods Who Made Heaven and Earth*. Berkley, 1972.
-
-Sendy, Jean. *L'Ère du Verseau*. Robert Laffont, 1970. English: *The Coming of the Gods*. Berkley, 1973.
-
-Sendy, Jean. *Les cahiers de cours de Moïse*. Robert Laffont, 1974.
-
-Biglino, Mauro. *Il Libro che cambierà per sempre le nostre idee sulla Bibbia*. Uno Editori, 2010. English: *The Book That Will Forever Change Our Ideas About the Bible*. Uno, 2013.
-
-Biglino, Mauro, and Giorgio Cattaneo. *The Naked Bible: The Truth About the Most Famous Book in History*. Uno, 2022.
-
-Wallis, Paul Anthony. *Escaping from Eden*. 6th Books, 2020.
-
-Smith, Mark S. *The Early History of God: Yahweh and the Other Deities in Ancient Israel*. Eerdmans, 2nd ed., 2002.
-
-Cross, Frank Moore. *Canaanite Myth and Hebrew Epic*. Harvard University Press, 1973.
-
-Bigliardi, Stefano. "A Gentleman's Joyous Esotericism: Jean Sendy's Reading of the Bible." *Journal of Religion in Europe*.
-
-"Elohim." *Encyclopaedia Britannica*. <https://www.britannica.com/topic/Elohim>
-
-"Elohim." *Jewish Encyclopedia*. <https://www.jewishencyclopedia.com/articles/5704-elohim>
-
-"Names of God in Judaism." *Wikipedia*. <https://en.wikipedia.org/wiki/Names_of_God_in_Judaism>
+코퍼스는 **엘로힘**을 자신의 선호 용어로 사용한다. 그것이 히브리어 성경과, 코퍼스가 주된 자료로 다루는 라엘 자료에서 사용되는 용어이기 때문이다. *하늘의 사람들*, *권능자들*, *천계인*은 정당한 영어 풀이로 등장한다. *아눈나키*는 수메르 자료와 관련하여 특정적으로 사용되며, 사례별 논증 없이 *엘로힘*과 자동적으로 호환되는 것으로 다루어지지 않는다. 성경의 엘로힘과 수메르, 이집트, 그리스, 힌두, 그리고 다른 고대 신전의 신들 사이의 관계는 일률적 등치가 아니라 사례별 비교 분석의 문제로 남아 있다 — 이 입장이, 그러한 모든 인물들을 동일하게 다루는 대중적 고대 우주인 문헌의 많은 부분으로부터 코퍼스를 구별한다.
