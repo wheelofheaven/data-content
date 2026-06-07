@@ -13,6 +13,64 @@ entry_type = "civilization"
 alternative_names = ["the Grand Council of the Eternals", "the Council", "the Council of Eternals", "the Divine Council", "the Divine Assembly", "the Heavenly Court", "the Assembly of the Elohim"]
 timeline = ["pre-creation", "capricorn", "sagittarius", "scorpio", "libra", "virgo", "leo", "cancer", "gemini", "taurus", "aries", "pisces", "aquarius"]
 
+[[extra.references]]
+id = "extraterrestrials-took-me-to-their-planet"
+locator = "'Meeting the Ancient Prophets'"
+note = "Principal Raëlian source-material passage establishing the 700-member Council, Yahweh's presidency, and the Planet of the Eternals."
+
+[[extra.references]]
+id = "the-book-which-tells-the-truth"
+note = "Foundational Raëlian source for Yahweh's 25,000-year continuous existence and the cloning-and-memory-transfer technology."
+
+[[extra.references]]
+id = "tanakh"
+locator = "Psalm 82; 1 Kings 22:19–23; Job 1–2; Daniel 7:9–14; Isaiah 6:1–8; Isaiah 14:13; Genesis 1:26"
+note = "Hebrew Bible divine-council passages preserving the framework's reading of the Council."
+
+[[extra.references]]
+id = "those-gods-who-made-heaven-and-earth"
+note = "Jean Sendy's philological-historiographic reading of the Hebrew Bible's divine-council material as referring to actual political bodies of advanced biological beings."
+
+[[extra.references]]
+id = "a-gentlemans-joyous-esotericism"
+note = "Bigliardi's academic engagement with Sendy's reading of the Bible."
+
+[[extra.references]]
+id = "the-bible-is-not-a-sacred-book"
+note = "Mauro Biglino's strict-literal reading of the Hebrew divine-council material."
+
+[[extra.references]]
+id = "the-naked-bible"
+note = "Biglino & Cattaneo's 2022 strict-literal Hebrew Bible survey."
+
+[[extra.references]]
+id = "escaping-from-eden"
+note = "Paul Anthony Wallis's comparative reading of the Hebrew Bible's Elohim as the Sumerian Sky People."
+
+[[extra.references]]
+id = "the-scars-of-eden"
+note = "Wallis's 2021 follow-up developing the divine-council material as preserving accurate operational content."
+
+[[extra.references]]
+id = "echoes-of-eden"
+note = "Wallis's 2021 work extending the comparative-cuneiform reading."
+
+[[extra.references]]
+id = "1-enoch-the-book-of-the-watchers"
+note = "Preserves substantial divine-council material in the Watchers narrative."
+
+[[extra.references]]
+id = "enuma-elish"
+note = "Mesopotamian divine-assembly material parallel to the Council."
+
+[[extra.references]]
+id = "atrahasis"
+note = "Mesopotamian flood epic preserving divine-council deliberation about the human creation."
+
+[[extra.references]]
+id = "theogony-and-works-and-days"
+note = "Hesiod's account of the Hellenic Olympian council."
+
 [extra.infobox]
 hebrew_designations = "עֲדַת אֵל (ʿadat ʾēl, 'assembly of El'); סוֹד יְהוָה (sod Yhwh, 'council of Yahweh'); בְּנֵי הָאֱלֹהִים (benei ha-Elohim, 'sons of Elohim')"
 greek_designation = "ἡ βουλὴ τῶν θεῶν (he boulē tōn theōn, 'the council of the gods', in the Septuagint and broader Hellenistic tradition)"
@@ -145,7 +203,7 @@ The Council of the Eternals' specific composition and structural features warran
 
 ### Membership: 700 Eternals
 
-The Council comprises **700 members**, all of whom are Eternals — individuals from the Elohim civilization who have undergone the cloning-and-memory-transfer technology that produces practical immortality. The 700-member figure is specified explicitly in the Raëlian source material at the "Meeting the Ancient Prophets" passage: *"Alongside [the resurrected humans] live the 700 Elohim members of the Council of the Eternals."*
+The Council comprises **700 members**, all of whom are Eternals — individuals from the Elohim civilization who have undergone the cloning-and-memory-transfer technology that produces practical immortality. The 700-member figure is specified explicitly in the Raëlian source material at the "Meeting the Ancient Prophets" passage: *"Alongside [the resurrected humans] live the 700 Elohim members of the Council of the Eternals."*{{ cite(id="extraterrestrials-took-me-to-their-planet", text="[1]", title="Vorilhon (Raël), *Extra-Terrestrials Took Me to Their Planet* (1975) — 'Meeting the Ancient Prophets': the 700-member Council specification") }}
 
 The Council membership is qualitatively distinct from the broader Elohim civilization in several respects:
 
@@ -158,7 +216,7 @@ The Council membership is qualitatively distinct from the broader Elohim civiliz
 
 The Council is presided over by **Yahweh**, the first individual on whom the cloning-and-memory-transfer technology was successfully applied. Yahweh's specific position and continuous role are foundational to the Council's institutional identity.
 
-The Raëlian source material's explicit specification: *"The oldest, the president of the council of the eternals, is 25,000 years old, and you see him before you now. I have lived in twenty-five bodies up to this day, and I was the first one on whom this experiment was successfully carried out."*
+The Raëlian source material's explicit specification: *"The oldest, the president of the council of the eternals, is 25,000 years old, and you see him before you now. I have lived in twenty-five bodies up to this day, and I was the first one on whom this experiment was successfully carried out."*{{ cite(id="the-book-which-tells-the-truth", text="[2]", title="Vorilhon (Raël), *The Book Which Tells the Truth* (1974) — Yahweh's 25,000-year continuous existence and first beneficiary of the cloning-and-memory-transfer technology") }}
 
 The framework's reading of Yahweh's specific role:
 
@@ -243,7 +301,7 @@ The Council's executive authority across this 25,000-year period is itself the p
 
 The Council conducts an annual deliberative procedure that the Raëlian source material calls the **Last Judgment** (or *jugement dernier*). The procedure determines which deceased humans of the past year warrant resurrection on the Planet of the Eternals. The source material's specific phrasing:
 
-> *"Once they have died, a grand council of the eternals assembles to decide in a 'last judgement', who among those who died during the year deserves to live another life. For a period of three lifetimes, the eternal is on probation, and at the end of this time, the council of the eternals reconvenes to judge who, in the light of their work, deserves to join the council of the eternals as a perpetual member."*
+> *"Once they have died, a grand council of the eternals assembles to decide in a 'last judgement', who among those who died during the year deserves to live another life. For a period of three lifetimes, the eternal is on probation, and at the end of this time, the council of the eternals reconvenes to judge who, in the light of their work, deserves to join the council of the eternals as a perpetual member."*{{ cite(id="the-book-which-tells-the-truth", text="[3]", title="Vorilhon (Raël), *The Book Which Tells the Truth* (1974) — the annual Last Judgment procedure") }}
 
 The procedure's principal features:
 
@@ -363,9 +421,9 @@ The Council appears across multiple primary sources, with substantial fragmentar
 
 Several Hebrew Bible passages preserve substantial divine-council material that the framework reads as referring to the Council of the Eternals. The principal cases:
 
-**Psalm 82:1–8** is the most direct Hebrew Bible reference to the divine assembly:
+**{% libref(book="psalms", chapter=82, verse=1) %}Psalm 82:1–8{% end %}** is the most direct Hebrew Bible reference to the divine assembly:
 
-> *"Elohim has taken his place in the divine council (ʿadat ʾēl); in the midst of the elohim he holds judgment: 'How long will you judge unjustly and show partiality to the wicked?'... I say, 'You are elohim, sons of the Most High, all of you; nevertheless, like men you shall die, and fall like any prince.'"*
+> *"Elohim has taken his place in the divine council (ʿadat ʾēl); in the midst of the elohim he holds judgment: 'How long will you judge unjustly and show partiality to the wicked?'... I say, 'You are elohim, sons of the Most High, all of you; nevertheless, like men you shall die, and fall like any prince.'"*{{ cite(id="tanakh", text="[4]", title="Psalm 82:1–8 — the divine assembly (ʿadat ʾēl)") }}
 
 The corpus reads this passage as the most direct preservation of the Council of the Eternals' deliberative procedures in the Hebrew Bible. The principal observations:
 
@@ -373,39 +431,39 @@ The corpus reads this passage as the most direct preservation of the Council of 
 - The "judgment in the midst of the elohim" refers to deliberative procedures within the Council
 - The reference to "you shall die" (despite the Eternals' practical immortality) is read as either reflecting a specific punitive measure for Council members who have failed in their duties or as preserving the broader civilization's recognition that even Eternals are not absolutely immortal (the cloning technology requires continuing operation, and individual Eternals can be terminated for cause)
 
-**1 Kings 22:19–23** records the prophet Micaiah's vision of the divine council:
+**{% libref(book="1-kings", chapter=22, verse=19) %}1 Kings 22:19–23{% end %}** records the prophet Micaiah's vision of the divine council:
 
-> *"I saw Yahweh sitting on his throne, and all the host of heaven (kol-ṣəbāʾ ha-šāmayim) standing beside him on his right and on his left; and Yahweh said, 'Who will entice Ahab, that he may go up and fall at Ramoth-gilead?'... Then a spirit came forward and stood before Yahweh, saying, 'I will entice him.'"*
+> *"I saw Yahweh sitting on his throne, and all the host of heaven (kol-ṣəbāʾ ha-šāmayim) standing beside him on his right and on his left; and Yahweh said, 'Who will entice Ahab, that he may go up and fall at Ramoth-gilead?'... Then a spirit came forward and stood before Yahweh, saying, 'I will entice him.'"*{{ cite(id="tanakh", text="[5]", title="1 Kings 22:19–23 — Micaiah's vision of the divine council") }}
 
 The corpus reads this passage as preserving an actual Council deliberation event, with the specific deliberative procedures (Yahweh asking for volunteers, a specific Council member coming forward with a proposal) being recorded substantially accurately by the human prophetic witness. The "host of heaven" is read as the Council membership; the specific spirit who volunteers is read as a specific Council member with specific operational role.
 
-**Job 1:6–12 and 2:1–6** record the Job heavenly-court scenes:
+**{% libref(book="job-woh", chapter=1, verse=6) %}Job 1:6–12{% end %} and {% libref(book="job-woh", chapter=2, verse=1) %}2:1–6{% end %}** record the Job heavenly-court scenes:
 
-> *"Now there was a day when the sons of Elohim (benei ha-Elohim) came to present themselves before Yahweh, and ha-satan came also among them. Yahweh said to ha-satan, 'Whence have you come?' Ha-satan answered Yahweh, 'From going to and fro on the earth, and from walking up and down on it.' And Yahweh said to ha-satan, 'Have you considered my servant Job?'..."*
+> *"Now there was a day when the sons of Elohim (benei ha-Elohim) came to present themselves before Yahweh, and ha-satan came also among them. Yahweh said to ha-satan, 'Whence have you come?' Ha-satan answered Yahweh, 'From going to and fro on the earth, and from walking up and down on it.' And Yahweh said to ha-satan, 'Have you considered my servant Job?'..."*{{ cite(id="tanakh", text="[6]", title="Job 1:6–12, 2:1–6 — the heavenly-court scenes with ha-satan among the benei ha-Elohim") }}
 
 The corpus reads these passages as preserving actual Council deliberative procedures, with *ha-satan* as the institutional prosecutor figure within the Council whose specific role is to test, challenge, and argue against the Council's confident plans. The framework's reading distinguishes carefully between *ha-satan* as Council institutional role (the prosecutor figure within the Council deliberations) and Satan as the specific Elohim figure leading the broader abolitionist faction. The detailed treatment of Satan as figure lives in the [Satan](../satan/) entry.
 
-**Daniel 7:9–14** records Daniel's vision of the Ancient of Days enthroned with the heavenly court:
+**{% libref(book="daniel-woh", chapter=7, verse=9) %}Daniel 7:9–14{% end %}** records Daniel's vision of the Ancient of Days enthroned with the heavenly court:
 
-> *"As I looked, thrones were placed and one that was ancient of days took his seat... A thousand thousands served him, and ten thousand times ten thousand stood before him; the court sat in judgment, and the books were opened."*
+> *"As I looked, thrones were placed and one that was ancient of days took his seat... A thousand thousands served him, and ten thousand times ten thousand stood before him; the court sat in judgment, and the books were opened."*{{ cite(id="tanakh", text="[7]", title="Daniel 7:9–14 — the Ancient of Days enthroned with the heavenly court") }}
 
 The corpus reads this passage as preserving the Council's specific institutional features — the formal seating of Council members, the deliberative procedures, the use of recorded documentation ("the books were opened"), and the broader institutional infrastructure that supports the Council's operations.
 
-**Isaiah 6:1–8** records Isaiah's vision of his commissioning:
+**{% libref(book="isaiah-woh", chapter=6, verse=1) %}Isaiah 6:1–8{% end %}** records Isaiah's vision of his commissioning:
 
-> *"I saw Yahweh sitting upon a throne, high and lifted up; and his train filled the temple. Above him stood the seraphim... And I heard the voice of Yahweh saying, 'Whom shall I send, and who will go for us?' Then I said, 'Here am I! Send me.'"*
+> *"I saw Yahweh sitting upon a throne, high and lifted up; and his train filled the temple. Above him stood the seraphim... And I heard the voice of Yahweh saying, 'Whom shall I send, and who will go for us?' Then I said, 'Here am I! Send me.'"*{{ cite(id="tanakh", text="[8]", title="Isaiah 6:1–8 — Isaiah's commissioning by the divine council") }}
 
 The corpus reads this passage as preserving an actual Council commissioning procedure, with the deliberative question ("whom shall I send?") and the specific volunteer response (Isaiah's "send me") reflecting the Council's procedures for commissioning prophetic missions to Earth. The plural pronoun ("for us") preserves the Council's collective character at the level of the Hebrew text itself.
 
-**Isaiah 14:13** preserves the satirical lament's reference to the Council's specific convening location:
+**{% libref(book="isaiah-woh", chapter=14, verse=13) %}Isaiah 14:13{% end %}** preserves the satirical lament's reference to the Council's specific convening location:
 
-> *"You said in your heart, 'I will ascend to heaven; above the stars of God I will set my throne on high; I will sit on the mount of assembly (har moed) in the far reaches of the north.'"*
+> *"You said in your heart, 'I will ascend to heaven; above the stars of God I will set my throne on high; I will sit on the mount of assembly (har moed) in the far reaches of the north.'"*{{ cite(id="tanakh", text="[9]", title="Isaiah 14:13 — the har moed (mount of assembly)") }}
 
 The corpus reads the *har moed* as a specific reference to the Planet of the Eternals as the Council's convening location, with the "far reaches of the north" preserving the directional character of the Planet's position relative to Earth.
 
-**Genesis 1:26** preserves the plural self-address at the human creation:
+**{% libref(book="genesis-woh", chapter=1, verse=26) %}Genesis 1:26{% end %}** preserves the plural self-address at the human creation:
 
-> *"Then Elohim said, 'Let us make humanity (naʿaśeh ʾāḏām) in our image, after our likeness.'"*
+> *"Then Elohim said, 'Let us make humanity (naʿaśeh ʾāḏām) in our image, after our likeness.'"*{{ cite(id="tanakh", text="[10]", title="Genesis 1:26 — the plural self-address at the human creation") }}
 
 The corpus reads the plural self-address as preserving the Council's specific deliberative character at the moment of the human-creation authorization. The "let us make" implies multiple deliberating parties, consistent with the Council's collective character.
 
@@ -413,19 +471,19 @@ The corpus reads the plural self-address as preserving the Council's specific de
 
 The principal Raëlian source-material passage on the Council of the Eternals appears in *Extra-Terrestrials Took Me to Their Planet* (1975), in the section "Meeting the Ancient Prophets." The source's specific phrasing:
 
-> *"In my first message I told you of a residence located on our planet where people from Earth can continue to live thanks to the scientific secret of eternity that is based on a single cell. Among those people are Jesus, Moses, Elijah and so on. This residence is, in fact, very large, since it is an entire planet where the members of the Council of the Eternals live as well. My name is Yahweh, and I am the president of that Council of the Eternals. There are currently 8,400 people from Earth living on the planet where we are at this moment... Alongside them live the 700 Elohim members of the Council of the Eternals."*
+> *"In my first message I told you of a residence located on our planet where people from Earth can continue to live thanks to the scientific secret of eternity that is based on a single cell. Among those people are Jesus, Moses, Elijah and so on. This residence is, in fact, very large, since it is an entire planet where the members of the Council of the Eternals live as well. My name is Yahweh, and I am the president of that Council of the Eternals. There are currently 8,400 people from Earth living on the planet where we are at this moment... Alongside them live the 700 Elohim members of the Council of the Eternals."*{{ cite(id="extraterrestrials-took-me-to-their-planet", text="[11]", title="Vorilhon (Raël), *Extra-Terrestrials Took Me to Their Planet* (1975) — the 'Meeting the Ancient Prophets' passage on Council membership, presidency, and the Planet of the Eternals") }}
 
 The passage establishes the Council's principal features: the 700 Elohim membership, Yahweh's presidency, the Planet of the Eternals as residence, the alongside-residence of approximately 8,400 resurrected humans.
 
-The first-volume Raëlian source material (*The Book Which Tells the Truth*, 1974) provides the foundational material on Yahweh's 25,000-year continuous existence and his role as the first beneficiary of the cloning-and-memory-transfer technology, with the broader Council operations developed across the subsequent corpus.
+The first-volume Raëlian source material (*The Book Which Tells the Truth*, 1974) provides the foundational material on Yahweh's 25,000-year continuous existence and his role as the first beneficiary of the cloning-and-memory-transfer technology, with the broader Council operations developed across the subsequent corpus.{{ cite(id="the-book-which-tells-the-truth", text="[12]", title="Vorilhon (Raël), *The Book Which Tells the Truth* (1974) — foundational material on Yahweh's continuous existence and Council operations") }}
 
 ### Other primary sources
 
 The Council is referenced across various other primary-source materials:
 
-- **The Book of 1 Enoch** preserves substantial divine-council material in the Watchers narrative and the Apocalypse of Weeks
+- **The Book of 1 Enoch** preserves substantial divine-council material in the Watchers narrative and the Apocalypse of Weeks{{ cite(id="1-enoch-the-book-of-the-watchers", text="[13]", title="*1 Enoch (The Book of the Watchers)* — divine-council material in the Watchers narrative") }}
 - **The Dead Sea Scrolls** include various texts preserving divine-council material (the *Songs of the Sabbath Sacrifice* / *Shirot ʿOlat ha-Shabbat*, the various angelological texts)
-- **The Mesopotamian *Atra-ḫasīs* and *Enuma Elish*** preserve the parallel Mesopotamian divine-assembly traditions
+- **The Mesopotamian *Atra-ḫasīs* and *Enuma Elish*** preserve the parallel Mesopotamian divine-assembly traditions{{ cite(id="atrahasis", text="[14]", title="*Atra-ḫasīs* — Mesopotamian divine-council deliberation about the human creation and the flood") }}{{ cite(id="enuma-elish", text="[15]", title="*Enuma Elish* — divine-council material in the Tiamat–Marduk cosmic conflict") }}
 - **The Ugaritic *Baal Cycle*** preserves the Canaanite divine-council material at El's mountain
 
 The framework reads all these primary sources as preserving fragmentary memory of the actual Council, with each tradition's specific cultural-religious framing reflecting the distinctive context of its preservation.
@@ -540,14 +598,14 @@ The broader ancient-astronaut interpretive tradition has developed various engag
 
 - **Erich von Däniken** in *Chariots of the Gods* (1968) and successor works treats the divine-council material as preserving memory of advanced-technology beings rather than supernatural deities, but does not develop the specific Council-of-the-Eternals reading the corpus develops
 - **Zecharia Sitchin** in *The 12th Planet* (1976) and successor works develops a substantially different reading, treating the divine council as the Anunnaki council operating from the planet Nibiru. Sitchin's specific Anunnaki-Nibiru cosmology is not adopted by the corpus, but Sitchin's broader treatment of the divine council as an actual political body with specific membership and operational history is structurally aligned with the framework's reading
-- **Mauro Biglino**'s strict-translational engagement with the Hebrew divine-council material consistently treats the underlying figures as physically embodied beings operating within specific political-operational arrangements
-- **Paul Anthony Wallis** develops substantial treatment of the divine-council material as preserving accurate operational content within the broader alliance-mediated history
+- **Mauro Biglino**'s strict-translational engagement with the Hebrew divine-council material consistently treats the underlying figures as physically embodied beings operating within specific political-operational arrangements{{ cite(id="the-bible-is-not-a-sacred-book", text="[18]", title="Biglino, strict-literal Hebrew Bible series (2010 onward) — divine-council figures as physically embodied beings") }}{{ cite(id="the-naked-bible", text="[19]", title="Biglino & Cattaneo, *The Naked Bible* (2022) — strict-literal Hebrew Bible survey") }}
+- **Paul Anthony Wallis** develops substantial treatment of the divine-council material as preserving accurate operational content within the broader alliance-mediated history{{ cite(id="escaping-from-eden", text="[20]", title="Wallis, *Escaping from Eden* (2020) — comparative-cuneiform reading of the divine-council material") }}{{ cite(id="the-scars-of-eden", text="[21]", title="Wallis, *The Scars of Eden* (2021) — continued development of the divine-council reading") }}{{ cite(id="echoes-of-eden", text="[22]", title="Wallis, *Echoes of Eden* (2021) — extending the comparative-cuneiform analysis") }}
 
 The corpus's relationship to the broader ancient-astronaut tradition is one of structural alignment on the basic interpretive direction (divine council as actual political body) with substantial divergence on specific points (the framework's specific Council-of-the-Eternals reading is distinct from Sitchin's Anunnaki-Nibiru reading, from von Däniken's more general framework, and from various other specific ancient-astronaut readings).
 
 ### Sendy on the divine council
 
-**Jean Sendy** developed the principal scholarly antecedent of the framework's Council reading. Sendy's *Ces dieux qui firent le ciel et la terre* (1969) and *La lune, clé de la Bible* (1968) treat the Hebrew Bible's divine-council material as referring to actual political bodies of advanced biological beings rather than as theological-conceptual categories. Sendy's specific contributions include the philological-historical reading of the *ʿadat ʾēl* and *sod Yhwh* terminology, the recognition that the divine-council material preserves substantive operational content, and the broader treatment of the Council within the alliance-mediated history Sendy reconstructed. The framework's Council reading is structurally aligned with Sendy's approach while developing it substantially through the specific Raëlian source-material content (the 700-member specification, the Yahweh-presidency continuity, the Planet of the Eternals location).
+**Jean Sendy** developed the principal scholarly antecedent of the framework's Council reading. Sendy's *Ces dieux qui firent le ciel et la terre* (1969) and *La lune, clé de la Bible* (1968) treat the Hebrew Bible's divine-council material as referring to actual political bodies of advanced biological beings rather than as theological-conceptual categories.{{ cite(id="those-gods-who-made-heaven-and-earth", text="[16]", title="Sendy, *Those Gods Who Made Heaven and Earth* (1969/1972) — the philological-historiographic reading of the divine-council material") }}{{ cite(id="a-gentlemans-joyous-esotericism", text="[17]", title="Bigliardi, 'A Gentleman's Joyous Esotericism: Jean Sendy's Reading of the Bible' — academic engagement with Sendy's project") }} Sendy's specific contributions include the philological-historical reading of the *ʿadat ʾēl* and *sod Yhwh* terminology, the recognition that the divine-council material preserves substantive operational content, and the broader treatment of the Council within the alliance-mediated history Sendy reconstructed. The framework's Council reading is structurally aligned with Sendy's approach while developing it substantially through the specific Raëlian source-material content (the 700-member specification, the Yahweh-presidency continuity, the Planet of the Eternals location).
 
 ### The framework's relationship to the broader landscape
 
@@ -593,7 +651,7 @@ The Greek tradition preserves the **Olympian council** as the principal divine-p
 
 **Zeus's presidency** as the principal organizing role, with Zeus convening the council, presiding over deliberations, and possessing executive authority over cosmic-political matters.
 
-**The deliberative procedures** as recorded across the Greek mythological tradition (Hesiod's *Theogony*, Homer's *Iliad* and *Odyssey*, the various Hellenic mythographic traditions) include substantial detail on the council's specific deliberative procedures, with the gods convening to address specific cosmic-political questions and reaching decisions through formal procedures.
+**The deliberative procedures** as recorded across the Greek mythological tradition (Hesiod's *Theogony*, Homer's *Iliad* and *Odyssey*, the various Hellenic mythographic traditions) include substantial detail on the council's specific deliberative procedures, with the gods convening to address specific cosmic-political questions and reaching decisions through formal procedures.{{ cite(id="theogony-and-works-and-days", text="[23]", title="Hesiod, *Theogony and Works and Days* — the Hellenic Olympian council") }}
 
 **The various subordinate deities** (the Titans, the various lesser gods, the nymphs and other supernatural beings) are organized in a broader cosmic-political structure with the Olympian council as the principal authority.
 

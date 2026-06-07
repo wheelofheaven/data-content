@@ -12,6 +12,22 @@ entry_type = "concept"
 alternative_names = ["the zodiac belt", "the zodiacal circle", "*zōidiakos kyklos* (Greek: ζῳδιακὸς κύκλος, 'circle of small figures')", "*Mazzaroth* (Hebrew: מַזָּרוֹת)", "the celestial circle", "the wheel of heaven (in older usage)", "the twelve houses (in astrological usage)"]
 timeline = ["multi-age"]
 
+[[extra.references]]
+id = "hamlets-mill"
+note = "Santillana & von Dechend's foundational scholarly anchor for the framework's cross-cultural zodiacal-precessional encoding engagement."
+
+[[extra.references]]
+id = "the-coming-of-the-gods"
+note = "Sendy's *L'Ère du Verseau* (1970) — systematic treatment of Moses operating through *religion zodiacale* and the broader precessional reading of biblical content."
+
+[[extra.references]]
+id = "mazzaroth-rolleston"
+note = "Frances Rolleston's *Mazzaroth; or, The Constellations* (1862) — principal nineteenth-century systematic Gospel-in-the-Stars articulation."
+
+[[extra.references]]
+id = "the-gospels-in-the-stars"
+note = "Joseph A. Seiss's *The Gospel in the Stars* (1882) — subsequent systematic articulation of the broader Rolleston Gospel-in-the-Stars framework."
+
 [extra.infobox]
 type = "Structural-foundational concept; the principal observational-symbolic framework underlying the precessional age system"
 definition = "The band of sky extending approximately 8° on either side of the ecliptic, divided into twelve constellational regions named after small figures (animal, human, and inanimate) traversed by the sun, moon, and planets in their apparent celestial motion"
@@ -35,7 +51,7 @@ The Wheel of Heaven framework reads the zodiac as **the alliance's own engineeri
 
 The framework articulates four principal features of the zodiac that operate substantively within the broader corpus engagement. First, the **twelve-fold division** as engineering rationale — twelve as the natural rounding of the lunar-solar ratio (12.37 lunations per solar year), as the number admitting clean halves, thirds, quarters, and sixths, as the number producing 2,160-year ages of functional length for an extended biotech program. Second, the **paired-opposition structure** — six axes connecting opposite signs (Aries↔Libra, Taurus↔Scorpio, Gemini↔Sagittarius, Cancer↔Capricorn, Leo↔Aquarius, Virgo↔Pisces), with the figures chosen across each pair to complement each other in meaning. Third, the **doubled-signature principle** — each precessional age encoding its astronomical identity in both its current sign and its zodiacal opposite, with the doubling ensuring the astronomical content survives transmission across centuries during which the original meaning may be lost. Fourth, the **engineering-vs-mythological distinction** — the zodiac as engineering instrument for the Elohim project, with the mythological-religious framing emerging later when human civilizations received fragments of the framework and wove them into their sacred traditions.
 
-The reading is grounded across two distinct source families. The astronomical-mechanical content draws on mainstream astronomy, accepted across the scholarly tradition with substantial multi-millennial documentation. The historical-cultural content draws on mainstream archaeoastronomy, with substantial scholarly engagement through the *Hamlet's Mill* tradition. The framework-specific reading (the alliance-engineering interpretation, the zodiacal-names-as-Elohim's-conceptual-shorthand reading) draws principally on *timeline.epub* with substantial complementary engagement through Jean Sendy's *L'ère du Verseau* (1970) — particularly Sendy's substantial treatment of Moses as operating through *religion zodiacale*. The framework's epistemic status is **substantial-source-grounding-with-substantial-corpus-extension** — the astronomical mechanism is mainstream science; the cross-cultural distribution is documented archaeoastronomy; the alliance-engineering reading is the corpus's distinctive contribution.
+The reading is grounded across two distinct source families. The astronomical-mechanical content draws on mainstream astronomy, accepted across the scholarly tradition with substantial multi-millennial documentation. The historical-cultural content draws on mainstream archaeoastronomy, with substantial scholarly engagement through the *Hamlet's Mill* tradition.{{ cite(id="hamlets-mill", text="[1]", title="de Santillana & von Dechend, *Hamlet's Mill* (1969) — foundational scholarly anchor for the cross-cultural zodiacal-precessional encoding tradition") }} The framework-specific reading (the alliance-engineering interpretation, the zodiacal-names-as-Elohim's-conceptual-shorthand reading) draws principally on *timeline.epub* with substantial complementary engagement through Jean Sendy's *L'ère du Verseau* (1970) — particularly Sendy's substantial treatment of Moses as operating through *religion zodiacale*.{{ cite(id="the-coming-of-the-gods", text="[2]", title="Sendy, *L'Ère du Verseau* (1970) / *The Coming of the Gods* — Moses operating through *religion zodiacale*, the precessional reading of biblical content") }} The framework's epistemic status is **substantial-source-grounding-with-substantial-corpus-extension** — the astronomical mechanism is mainstream science; the cross-cultural distribution is documented archaeoastronomy; the alliance-engineering reading is the corpus's distinctive contribution.
 
 ## Etymology and naming
 
@@ -395,9 +411,9 @@ Mainstream archaeoastronomy has produced substantive scholarly engagement with t
 
 Substantial scholarly engagement with the Mazzaroth reference and the broader "Gospel in the Stars" tradition operates principally within nineteenth-century Christian-apologetic scholarship.
 
-**Frances Rolleston's substantial work**. **Frances Rolleston**'s *Mazzaroth; or, The Constellations* (1862) is the principal nineteenth-century systematic articulation of the Gospel-in-the-Stars framework. Rolleston's principal argument: the twelve constellations and their associated star-names preserve substantial Hebrew-prophetic content registering the broader Christian-salvation narrative. The reading operates principally through Hebrew etymological engagement with star-names.
+**Frances Rolleston's substantial work**. **Frances Rolleston**'s *Mazzaroth; or, The Constellations* (1862) is the principal nineteenth-century systematic articulation of the Gospel-in-the-Stars framework.{{ cite(id="mazzaroth-rolleston", text="[3]", title="Rolleston, *Mazzaroth; or, The Constellations* (1862) — the principal nineteenth-century systematic Gospel-in-the-Stars articulation") }} Rolleston's principal argument: the twelve constellations and their associated star-names preserve substantial Hebrew-prophetic content registering the broader Christian-salvation narrative. The reading operates principally through Hebrew etymological engagement with star-names.
 
-**Joseph Seiss's substantial work**. **Joseph A. Seiss**'s *The Gospel in the Stars* (1882) provides substantive subsequent systematic articulation of the broader Rolleston framework. Seiss extends the Rolleston reading with substantial Christian-apologetic content.
+**Joseph Seiss's substantial work**. **Joseph A. Seiss**'s *The Gospel in the Stars* (1882) provides substantive subsequent systematic articulation of the broader Rolleston framework.{{ cite(id="the-gospels-in-the-stars", text="[4]", title="Seiss, *The Gospel in the Stars* (1882) — subsequent systematic articulation of the Gospel-in-the-Stars framework") }} Seiss extends the Rolleston reading with substantial Christian-apologetic content.
 
 **Ethelbert W. Bullinger's engagement**. **Ethelbert W. Bullinger**'s *The Witness of the Stars* (1893) provides further substantive subsequent engagement with the Gospel-in-the-Stars framework.
 

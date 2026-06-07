@@ -19,6 +19,71 @@ see_also = [
     { title = "Abraham", path = "wiki/abraham", description = "The founding patriarch through whom Yahweh established the covenant." },
 ]
 
+[[extra.references]]
+id = "genesis"
+locator = "Genesis 2:4ff.; 12; 15; 17; 18; 22"
+note = "Primary Hebrew Bible passages for the YHWH Elohim of the Eden, Flood, and patriarchal narratives."
+
+[[extra.references]]
+id = "exodus"
+locator = "Exodus 3:14; 6; 19–24; 33–34"
+note = "The burning bush, the Ehyeh asher ehyeh self-naming, and the Sinai theophany."
+
+[[extra.references]]
+id = "isaiah"
+locator = "Isaiah 6"
+note = "Isaiah's throne-room vision of Yahweh enthroned with the seraphim."
+
+[[extra.references]]
+id = "ezekiel"
+locator = "Ezekiel 1"
+note = "The chariot-throne vision of the kavod of Yahweh."
+
+[[extra.references]]
+id = "revelation"
+locator = "Revelation 1:8; 1:17; 21:6; 22:13"
+note = "Yahweh's 'First and the Last' / 'Alpha and Omega' self-identification."
+
+[[extra.references]]
+id = "the-book-which-tells-the-truth"
+note = "Vorilhon's foundational 1974 Raëlian text, presented as Yahweh's first-person account of himself and his civilization."
+
+[[extra.references]]
+id = "extraterrestrials-took-me-to-their-planet"
+note = "Vorilhon's second Raëlian work (1976), including the meeting with the Council of the Eternals on the Elohim home world."
+
+[[extra.references]]
+id = "lets-welcome-the-extraterrestrials"
+note = "Vorilhon's third Raëlian work (1979), subsequent communications and clarifications."
+
+[[extra.references]]
+id = "those-gods-who-made-heaven-and-earth"
+note = "Jean Sendy's early philological-historiographic reading of Yahweh as a specific Theosite within the Elohim plurality."
+
+[[extra.references]]
+id = "the-bible-is-not-a-sacred-book"
+note = "Mauro Biglino's strict-literal Hebrew Bible reading: Yahweh as a specific individual among the 'lords from above.'"
+
+[[extra.references]]
+id = "the-naked-bible"
+note = "Biglino & Cattaneo's 2022 broader Hebrew Bible survey extending the strict-literal-translation method."
+
+[[extra.references]]
+id = "escaping-from-eden"
+note = "Paul Anthony Wallis's comparative reading of the Hebrew Elohim/Powerful Ones."
+
+[[extra.references]]
+id = "the-spaceships-of-ezekiel"
+note = "Engineering-oriented reading of the Ezekiel 1 chariot-throne vision."
+
+[[extra.references]]
+id = "a-hebrew-and-english-lexicon-of-the-old-testament"
+note = "BDB lexicon — reference for the verbal root h-y-h / h-w-h underlying the Tetragrammaton."
+
+[[extra.references]]
+id = "the-hebrew-and-aramaic-lexicon-of-the-old-testament"
+note = "HALOT (Koehler-Baumgartner) — standard lexicographical reference for YHWH and related forms."
+
 [extra.infobox]
 hebrew_form = "יהוה"
 transliteration = "YHWH"
@@ -42,13 +107,13 @@ The reading is contested. Within the modern academic study of the Hebrew Bible, 
 
 ## Etymology and naming
 
-The Tetragrammaton appears in the Hebrew Bible from Genesis 2:4 onward. In Genesis 1:1–2:3 the divine name is *Elohim* (plural); from Genesis 2:4 the compound *YHWH Elohim* appears, and from Genesis 4 onward *YHWH* is used independently. The distribution of the divine names across the Hebrew Bible has been studied since Astruc in the 18th century and is one of the foundational observations of modern source criticism, which reads the alternation as evidence of distinct compositional sources behind the Pentateuchal text.
+The Tetragrammaton appears in the Hebrew Bible from {% libref(book="genesis", chapter=2, verse=4) %}Genesis 2:4{% end %} onward. In Genesis 1:1–2:3 the divine name is *Elohim* (plural); from Genesis 2:4 the compound *YHWH Elohim* appears, and from Genesis 4 onward *YHWH* is used independently. The distribution of the divine names across the Hebrew Bible has been studied since Astruc in the 18th century and is one of the foundational observations of modern source criticism, which reads the alternation as evidence of distinct compositional sources behind the Pentateuchal text.
 
 ### Etymology of the name
 
-The name's etymology connects most plausibly to the Hebrew verbal root *h-y-h* (and its archaic variant *h-w-h*), "to be," "to exist," or "to become." On this analysis, *YHWH* is the third-person singular masculine imperfect of the verb, conventionally translated "He is," "He will be," or "He causes to be." The Exodus 3:14 self-naming — *Ehyeh asher ehyeh*, conventionally translated "I am that I am" or "I will be what I will be" — uses the first-person form *ehyeh* of the same verbal root, and the connection to the Tetragrammaton is grammatically transparent: the form Moses receives ("I am") is the first-person counterpart of the third-person form by which the divine is named ("He is").
+The name's etymology connects most plausibly to the Hebrew verbal root *h-y-h* (and its archaic variant *h-w-h*), "to be," "to exist," or "to become." On this analysis, *YHWH* is the third-person singular masculine imperfect of the verb, conventionally translated "He is," "He will be," or "He causes to be." The {% libref(book="exodus", chapter=3, verse=14) %}Exodus 3:14{% end %} self-naming — *Ehyeh asher ehyeh*, conventionally translated "I am that I am" or "I will be what I will be" — uses the first-person form *ehyeh* of the same verbal root, and the connection to the Tetragrammaton is grammatically transparent: the form Moses receives ("I am") is the first-person counterpart of the third-person form by which the divine is named ("He is").
 
-The "He is" reading is the dominant scholarly reconstruction but not the only one. Alternative proposals connect the name to a putative *Yahweh-Sabaoth* military epithet, to a storm-god title from the broader West Semitic tradition, to a place-name (Mount Yahu, mentioned in Egyptian sources of the Late Bronze Age in connection with nomadic groups in the Sinai region), or to a causative form ("He who causes to be") rather than the simple existential. None of these has displaced the existential reading, but several remain alive in specialist debate.
+The "He is" reading is the dominant scholarly reconstruction but not the only one. Alternative proposals connect the name to a putative *Yahweh-Sabaoth* military epithet, to a storm-god title from the broader West Semitic tradition, to a place-name (Mount Yahu, mentioned in Egyptian sources of the Late Bronze Age in connection with nomadic groups in the Sinai region), or to a causative form ("He who causes to be") rather than the simple existential.{{ cite(id="a-hebrew-and-english-lexicon-of-the-old-testament", text="[1]", title="Brown, Driver, Briggs, *A Hebrew and English Lexicon of the Old Testament* — entry on the verbal root h-y-h / h-w-h") }}{{ cite(id="the-hebrew-and-aramaic-lexicon-of-the-old-testament", text="[2]", title="Koehler-Baumgartner, *The Hebrew and Aramaic Lexicon of the Old Testament* (HALOT) — entries on YHWH and related forms") }} None of these has displaced the existential reading, but several remain alive in specialist debate.
 
 ### Pointing and pronunciation
 
@@ -81,16 +146,16 @@ We are men like you, and we live on a planet quite similar to Earth.
 
 Yahweh's most significant direct appearances in the Hebrew Bible, in their canonical sequence, include:
 
-- **Genesis 2–3** (the Eden narrative): Yahweh Elohim plants the garden, forms the man, places him in the garden, prohibits the tree of knowledge, forms the woman, confronts the humans after the transgression, pronounces consequences on the serpent, the woman, and the man, and expels them from the garden.
-- **Genesis 4** (Cain and Abel): Yahweh receives offerings, prefers Abel's, warns Cain, hears Abel's blood crying from the ground, and pronounces Cain's punishment.
-- **Genesis 6–9** (the Flood narrative): Yahweh observes the corruption of the antediluvian world, decides to send the Flood, instructs Noah to build the ark, sends the Flood and ends it, smells Noah's burnt offering, and establishes the Noahic covenant with the rainbow as its sign.
-- **Genesis 12, 15, 17, 18, 22** (the Abrahamic narratives): Yahweh calls Abram from Ur, establishes the covenant of land and posterity, performs the formal covenant-cutting ceremony of Genesis 15, renames Abram to Abraham at the institution of circumcision, visits Abraham at the oaks of Mamre, and tests Abraham at the binding of Isaac.
-- **Exodus 3** (the burning bush): Yahweh appears to Moses at Horeb, identifies himself with the *Ehyeh asher ehyeh* self-naming, and commissions Moses for the Exodus mission.
-- **Exodus 19–24, 33–34** (the Sinai theophany): Yahweh descends on Sinai in cloud and fire, gives the Decalogue and the broader covenant code, and is encountered by Moses in the most direct theophanic mode the Hebrew Bible records.
+- **{% libref(book="genesis", chapter=2) %}Genesis 2–3{% end %}** (the Eden narrative): Yahweh Elohim plants the garden, forms the man, places him in the garden, prohibits the tree of knowledge, forms the woman, confronts the humans after the transgression, pronounces consequences on the serpent, the woman, and the man, and expels them from the garden.
+- **{% libref(book="genesis", chapter=4) %}Genesis 4{% end %}** (Cain and Abel): Yahweh receives offerings, prefers Abel's, warns Cain, hears Abel's blood crying from the ground, and pronounces Cain's punishment.
+- **{% libref(book="genesis", chapter=6) %}Genesis 6–9{% end %}** (the Flood narrative): Yahweh observes the corruption of the antediluvian world, decides to send the Flood, instructs Noah to build the ark, sends the Flood and ends it, smells Noah's burnt offering, and establishes the Noahic covenant with the rainbow as its sign.
+- **{% libref(book="genesis", chapter=12) %}Genesis 12, 15, 17, 18, 22{% end %}** (the Abrahamic narratives): Yahweh calls Abram from Ur, establishes the covenant of land and posterity, performs the formal covenant-cutting ceremony of Genesis 15, renames Abram to Abraham at the institution of circumcision, visits Abraham at the oaks of Mamre, and tests Abraham at the binding of Isaac.
+- **{% libref(book="exodus", chapter=3) %}Exodus 3{% end %}** (the burning bush): Yahweh appears to Moses at Horeb, identifies himself with the *Ehyeh asher ehyeh* self-naming, and commissions Moses for the Exodus mission.
+- **{% libref(book="exodus", chapter=19) %}Exodus 19–24, 33–34{% end %}** (the Sinai theophany): Yahweh descends on Sinai in cloud and fire, gives the Decalogue and the broader covenant code, and is encountered by Moses in the most direct theophanic mode the Hebrew Bible records.
 - **1 Samuel 3** (the calling of Samuel): Yahweh calls Samuel by name in the night, Samuel mistaking the voice for Eli's until Eli identifies the source.
 - **1 Kings 19** (Elijah at Horeb): Yahweh appears to Elijah not in the wind, the earthquake, or the fire, but in the *qol demamah daqqah*, the "thin silent voice."
-- **Isaiah 6** (Isaiah's throne-room vision): Yahweh appears enthroned with the seraphim, sending Isaiah for his prophetic mission.
-- **Ezekiel 1** (the chariot-throne vision): Ezekiel sees the *kavod* of Yahweh in the elaborate chariot-throne vision that opens the book.
+- **{% libref(book="isaiah", chapter=6) %}Isaiah 6{% end %}** (Isaiah's throne-room vision): Yahweh appears enthroned with the seraphim, sending Isaiah for his prophetic mission.
+- **{% libref(book="ezekiel", chapter=1) %}Ezekiel 1{% end %}** (the chariot-throne vision): Ezekiel sees the *kavod* of Yahweh in the elaborate chariot-throne vision that opens the book.{{ cite(id="ezekiel", text="[3]", title="Ezekiel 1 — the chariot-throne vision of the kavod") }}{{ cite(id="the-spaceships-of-ezekiel", text="[4]", title="Blumrich, *The Spaceships of Ezekiel* — engineering-oriented reading of the chariot-throne vision") }}
 
 Beyond these major direct appearances, Yahweh is the named subject or agent of thousands of additional passages across the Hebrew Bible, particularly in the prophetic books where the formula "Thus says Yahweh" introduces oracles delivered through the prophets.
 
@@ -106,7 +171,7 @@ Yahweh's biographical arc, on the corpus's reading, spans the entire 25,000-year
 
 ### Origins and the home-world period
 
-The framework's reading places Yahweh's birth approximately twenty-five thousand years before the present — that is, around 23,000 BCE — on the Elohim home world. He was, on Yahweh's own statement in *The Book Which Tells the Truth*, the first individual on whom the cell-transfer continuity technology was successfully applied. The technology, treated more fully in the [Tree of Life](../tree-of-life/) entry, permits the indefinite continuation of personal identity across successive bodies cloned from a preserved cellular sample, and Yahweh's seniority as its first beneficiary is the basis of his subsequent presidency of the Council of the Eternals.
+The framework's reading places Yahweh's birth approximately twenty-five thousand years before the present — that is, around 23,000 BCE — on the Elohim home world. He was, on Yahweh's own statement in *The Book Which Tells the Truth*, the first individual on whom the cell-transfer continuity technology was successfully applied.{{ cite(id="the-book-which-tells-the-truth", text="[5]", title="Vorilhon (Raël), *The Book Which Tells the Truth* (1974) — Yahweh's first-person account of his civilization and his own seniority") }} The technology, treated more fully in the [Tree of Life](../tree-of-life/) entry, permits the indefinite continuation of personal identity across successive bodies cloned from a preserved cellular sample, and Yahweh's seniority as its first beneficiary is the basis of his subsequent presidency of the Council of the Eternals.
 
 The early home-world period of Yahweh's life is not described in detail in the source material. What is recorded is that by the time the home-world's scientific community proposed and undertook the Earth creation project — around 21,810 BCE on the corpus's chronology — Yahweh was approximately twelve hundred years old in continuous existence and was in a position of senior political authority. The political crisis on the home world that produced the Earth-relocation compromise (treated in the [Elohim](../elohim/) entry under History) occurred during this period, with Yahweh as one of the moderate-faction leaders supporting the relocation as a compromise between the abolitionist position (no biological synthesis program at all) and the original direct-on-home-world program that had produced the laboratory accident.
 
@@ -118,29 +183,29 @@ The detailed narrative of the seven precessional ages of creation lives in the [
 
 ### The Eden episode and its political settlement
 
-The Eden episode, occupying the late Age of Leo through early Age of Cancer (c. 11,400 – 10,000 BCE), is the period during which Yahweh's role as Israel-team leader is most directly preserved in the Hebrew text. Genesis 2–3 records the events from the framework's reading of an essentially first-hand perspective: Yahweh planting the garden, forming the first humans, instructing them, prohibiting the tree of knowledge, confronting them after the Lucifer-faction disclosure, and pronouncing the consequences that effectively reorganized the entire subsequent post-creation operation. The framework's reading treats Yahweh's pronouncements in Genesis 3:14–24 as the moderate-position political response to the Lucifer-faction transgression: not the action of a vengeful supernatural deity but the operational implementation of the Council's decision to maintain the containment policy in the face of its violation.
+The Eden episode, occupying the late Age of Leo through early Age of Cancer (c. 11,400 – 10,000 BCE), is the period during which Yahweh's role as Israel-team leader is most directly preserved in the Hebrew text. {% libref(book="genesis", chapter=2) %}Genesis 2–3{% end %} records the events from the framework's reading of an essentially first-hand perspective: Yahweh planting the garden, forming the first humans, instructing them, prohibiting the tree of knowledge, confronting them after the Lucifer-faction disclosure, and pronouncing the consequences that effectively reorganized the entire subsequent post-creation operation. The framework's reading treats Yahweh's pronouncements in {% libref(book="genesis", chapter=3, verse=14) %}Genesis 3:14–24{% end %} as the moderate-position political response to the Lucifer-faction transgression: not the action of a vengeful supernatural deity but the operational implementation of the Council's decision to maintain the containment policy in the face of its violation.
 
 The political settlement Yahweh established at the Eden crisis — the permanent exile of the Lucifer faction on Earth, the withdrawal of most of the Israel team to the home world, the establishment of the post-Eden mediated-contact pattern — has structured the entire subsequent arc of the Elohim's relationship with Earth.
 
 ### The pre-Flood period and the Flood
 
-Through the Age of Cancer (c. 8,850 – 6,690 BCE), Yahweh maintained contact with the human leadership of the Eden lineage, granting the Tree of Life longevity technology to selected patriarchs (the Genesis 5 long-lived figures from Adam to Noah) and supervising the Council's increasing concern about the rapid technological advancement of the post-Eden civilization. When the home-world Council ultimately decided to destroy the antediluvian world — the political crisis treated in the [Antediluvian](../antediluvian/) entry — Yahweh communicated the decision to Noah (Genesis 6:13ff.), supervised the construction of the ark, and re-established the post-Flood relationship with the surviving human lineage through the Noahic covenant of Genesis 9.
+Through the Age of Cancer (c. 8,850 – 6,690 BCE), Yahweh maintained contact with the human leadership of the Eden lineage, granting the Tree of Life longevity technology to selected patriarchs (the {% libref(book="genesis", chapter=5) %}Genesis 5{% end %} long-lived figures from Adam to Noah) and supervising the Council's increasing concern about the rapid technological advancement of the post-Eden civilization. When the home-world Council ultimately decided to destroy the antediluvian world — the political crisis treated in the [Antediluvian](../antediluvian/) entry — Yahweh communicated the decision to Noah ({% libref(book="genesis", chapter=6, verse=13) %}Genesis 6:13ff.{% end %}), supervised the construction of the ark, and re-established the post-Flood relationship with the surviving human lineage through the Noahic covenant of {% libref(book="genesis", chapter=9) %}Genesis 9{% end %}.
 
 ### The Abrahamic period: Taurus
 
-In the Age of Taurus (c. 4,530 – 2,370 BCE), Yahweh undertook the formal reconstruction of the alliance's relationship with a specific human lineage through the figure of Abraham. The Abrahamic covenant — established at Genesis 12, formalized at the covenant-cutting of Genesis 15, marked with the institution of circumcision at Genesis 17, and witnessed at Yahweh's visitation at the oaks of Mamre in Genesis 18 — is the foundational pact between the alliance and the Hebrew people. The renaming of Abram to Abraham (Genesis 17:5) is one of the alliance's name-conferral events that mark transitions from private to commissioned status, paralleling the later renamings of Jacob to Israel and Vorilhon to Raël. Yahweh supervised the destruction of {% wiki(slug="sodom-and-gomorrah") %}Sodom and Gomorrah{% end %} (Genesis 19) at the close of the Mamre visit, and the subsequent patriarchal generations through Isaac, Jacob, and the descent into Egypt continue under Yahweh's direct or mediated supervision.
+In the Age of Taurus (c. 4,530 – 2,370 BCE), Yahweh undertook the formal reconstruction of the alliance's relationship with a specific human lineage through the figure of Abraham. The Abrahamic covenant — established at {% libref(book="genesis", chapter=12) %}Genesis 12{% end %}, formalized at the covenant-cutting of {% libref(book="genesis", chapter=15) %}Genesis 15{% end %}, marked with the institution of circumcision at {% libref(book="genesis", chapter=17) %}Genesis 17{% end %}, and witnessed at Yahweh's visitation at the oaks of Mamre in {% libref(book="genesis", chapter=18) %}Genesis 18{% end %} — is the foundational pact between the alliance and the Hebrew people. The renaming of Abram to Abraham ({% libref(book="genesis", chapter=17, verse=5) %}Genesis 17:5{% end %}) is one of the alliance's name-conferral events that mark transitions from private to commissioned status, paralleling the later renamings of Jacob to Israel and Vorilhon to Raël. Yahweh supervised the destruction of {% wiki(slug="sodom-and-gomorrah") %}Sodom and Gomorrah{% end %} ({% libref(book="genesis", chapter=19) %}Genesis 19{% end %}) at the close of the Mamre visit, and the subsequent patriarchal generations through Isaac, Jacob, and the descent into Egypt continue under Yahweh's direct or mediated supervision.{{ cite(id="genesis", text="[6]", title="Genesis — the Eden, Flood, and patriarchal narratives that record Yahweh's direct interventions") }}
 
 ### The Mosaic period: Aries
 
-The Age of Aries (c. 2,370 BCE – c. 210 BCE) opens with the most extensive direct contact between Yahweh and humanity recorded in the Hebrew Bible. The burning bush (Exodus 3) is Yahweh's commissioning of Moses for the Exodus mission, with the *Ehyeh asher ehyeh* self-naming providing the textual link between the verbal root *h-y-h* and the Tetragrammaton itself. The plagues, the parting of the sea, the manna, the pillar of cloud and fire, and the Sinai theophany (Exodus 19–24, 33–34) are operational events the corpus reads as alliance technology deployments under Yahweh's direct command. The covenant at Sinai, the giving of the Decalogue, and the establishment of the priestly system are the alliance's institutional structuring of the Hebrew lineage for the long mission of carrying the message across the centuries that followed. Yahweh's specific theophanic forms in this period — the burning bush, the cloud, the fire, the *kavod* (manifest glory) — are read by the framework as descriptions of alliance craft and protective installations.
+The Age of Aries (c. 2,370 BCE – c. 210 BCE) opens with the most extensive direct contact between Yahweh and humanity recorded in the Hebrew Bible. The burning bush ({% libref(book="exodus", chapter=3) %}Exodus 3{% end %}) is Yahweh's commissioning of Moses for the Exodus mission, with the *Ehyeh asher ehyeh* self-naming providing the textual link between the verbal root *h-y-h* and the Tetragrammaton itself. The plagues, the parting of the sea, the manna, the pillar of cloud and fire, and the Sinai theophany ({% libref(book="exodus", chapter=19) %}Exodus 19–24, 33–34{% end %}) are operational events the corpus reads as alliance technology deployments under Yahweh's direct command.{{ cite(id="exodus", text="[7]", title="Exodus — the burning bush, the Ehyeh asher ehyeh self-naming, and the Sinai theophany") }} The covenant at Sinai, the giving of the Decalogue, and the establishment of the priestly system are the alliance's institutional structuring of the Hebrew lineage for the long mission of carrying the message across the centuries that followed. Yahweh's specific theophanic forms in this period — the burning bush, the cloud, the fire, the *kavod* (manifest glory) — are read by the framework as descriptions of alliance craft and protective installations.
 
 ### The prophetic period and the policy shift
 
-The prophetic period that follows Moses extends across the divided monarchy, the exile, and the post-exilic restoration. Yahweh's contact with the prophetic figures of this period — Samuel, Nathan, Elijah, Elisha, Isaiah, Jeremiah, Ezekiel, Daniel, and the Twelve Minor Prophets — proceeds through increasingly mediated forms across the centuries. Elijah's encounter at Horeb (1 Kings 19:11–13) is structurally significant: Yahweh is explicitly *not* in the wind, not in the earthquake, not in the fire, but in the *qol demamah daqqah*, the "thin silent voice" — read by the corpus as a specific telepathic or technologically mediated communication distinct from the more visible theophanies of earlier periods. The shift from direct to indirect contact across the Aries period is the operational expression of the cosmic-chain discovery (treated more fully in the [Elohim](../elohim/) entry): Yahweh, as Council president, implementing the policy shift his civilization adopted in light of its altered self-understanding.
+The prophetic period that follows Moses extends across the divided monarchy, the exile, and the post-exilic restoration. Yahweh's contact with the prophetic figures of this period — Samuel, Nathan, Elijah, Elisha, Isaiah, Jeremiah, Ezekiel, Daniel, and the Twelve Minor Prophets — proceeds through increasingly mediated forms across the centuries.{{ cite(id="isaiah", text="[8]", title="Isaiah 6 — the throne-room vision of Yahweh enthroned with the seraphim") }} Elijah's encounter at Horeb (1 Kings 19:11–13) is structurally significant: Yahweh is explicitly *not* in the wind, not in the earthquake, not in the fire, but in the *qol demamah daqqah*, the "thin silent voice" — read by the corpus as a specific telepathic or technologically mediated communication distinct from the more visible theophanies of earlier periods. The shift from direct to indirect contact across the Aries period is the operational expression of the cosmic-chain discovery (treated more fully in the [Elohim](../elohim/) entry): Yahweh, as Council president, implementing the policy shift his civilization adopted in light of its altered self-understanding.
 
 ### The Piscean period
 
-The Age of Pisces (c. 210 BCE – 1950 CE) is the age of the deliberate withdrawal from operational visibility while the Christian and Islamic missions delivered the framework's content in religious vocabulary. Yahweh's role across this two-thousand-year period is the alliance-level supervision of the Piscean-age interventions: the deliberate conception of Jesus through alliance-mediated insemination of Mary, the protection of the child during the Herodian period, the ongoing oversight of Jesus's ministry, and the parallel later supervision of the {% wiki(slug="muhammad") %}Muhammad{% end %} mission in seventh-century Arabia. The Revelation visions to John of Patmos at the close of the first century CE are framework-read as Yahweh's communication to John of the events that would unfold across the closing centuries of Pisces and the transition to Aquarius. The "first and the last" / "Alpha and Omega" self-identification in Revelation 1:8, 1:17, 21:6, and 22:13 is Yahweh's own attribution and is treated below under *Identifications and conflations*.
+The Age of Pisces (c. 210 BCE – 1950 CE) is the age of the deliberate withdrawal from operational visibility while the Christian and Islamic missions delivered the framework's content in religious vocabulary. Yahweh's role across this two-thousand-year period is the alliance-level supervision of the Piscean-age interventions: the deliberate conception of Jesus through alliance-mediated insemination of Mary, the protection of the child during the Herodian period, the ongoing oversight of Jesus's ministry, and the parallel later supervision of the {% wiki(slug="muhammad") %}Muhammad{% end %} mission in seventh-century Arabia. The Revelation visions to John of Patmos at the close of the first century CE are framework-read as Yahweh's communication to John of the events that would unfold across the closing centuries of Pisces and the transition to Aquarius. The "first and the last" / "Alpha and Omega" self-identification in {% libref(book="revelation", chapter=1, verse=8) %}Revelation 1:8{% end %}, {% libref(book="revelation", chapter=1, verse=17) %}1:17{% end %}, {% libref(book="revelation", chapter=21, verse=6) %}21:6{% end %}, and {% libref(book="revelation", chapter=22, verse=13) %}22:13{% end %} is Yahweh's own attribution and is treated below under *Identifications and conflations*.{{ cite(id="revelation", text="[9]", title="Revelation 1:8; 1:17; 21:6; 22:13 — the 'First and Last' / 'Alpha and Omega' self-identification") }}
 
 ### The 1973 contact and the Aquarian opening
 
@@ -166,7 +231,7 @@ Yahweh is not the only Eloha with operational responsibility for the Earth proje
 
 ### Source of the Raëlian revelation
 
-The third specific role Yahweh occupies in the framework — and the most epistemically consequential for the corpus — is that of the first-person speaker of the Raëlian source material. *The Book Which Tells the Truth* (1974), *Extraterrestrials Took Me to Their Planet* (1976), and *Let's Welcome the Extraterrestrials* (1979) are presented as Yahweh's own account of himself and his civilization, delivered to Vorilhon across the 1973 and 1975 contacts. Most of what the framework knows about the Elohim civilization, about Yahweh's own biographical arc, about the internal political structure of the home-world Council, about the cell-transfer continuity technology, about the cosmic-chain discovery, and about the alliance's plans for the Aquarian-age open return — the framework knows because Yahweh told Vorilhon.
+The third specific role Yahweh occupies in the framework — and the most epistemically consequential for the corpus — is that of the first-person speaker of the Raëlian source material. *The Book Which Tells the Truth* (1974),{{ cite(id="the-book-which-tells-the-truth", text="[10]", title="Vorilhon (Raël), *The Book Which Tells the Truth* (1974) — Yahweh as first-person speaker") }} *Extraterrestrials Took Me to Their Planet* (1976),{{ cite(id="extraterrestrials-took-me-to-their-planet", text="[11]", title="Vorilhon (Raël), *Extraterrestrials Took Me to Their Planet* (1976) — meeting with the Council of the Eternals") }} and *Let's Welcome the Extraterrestrials* (1979){{ cite(id="lets-welcome-the-extraterrestrials", text="[12]", title="Vorilhon (Raël), *Let's Welcome the Extraterrestrials* (1979) — subsequent communications and clarifications") }} are presented as Yahweh's own account of himself and his civilization, delivered to Vorilhon across the 1973 and 1975 contacts. Most of what the framework knows about the Elohim civilization, about Yahweh's own biographical arc, about the internal political structure of the home-world Council, about the cell-transfer continuity technology, about the cosmic-chain discovery, and about the alliance's plans for the Aquarian-age open return — the framework knows because Yahweh told Vorilhon.
 
 This first-person provenance gives the framework's evidentiary structure an unusual character. The principal source on the Elohim is a member of the Elohim. The principal source on Yahweh's own biographical arc is Yahweh himself. The principal source on the home-world Council's deliberations is the Council's president. The framework is, in this respect, dependent on the testimony of its principal subject in a way that ordinary historical or scientific knowledge is not. The corpus treats this dependence with epistemic care — acknowledging it openly, distinguishing source-internal claims from independently verifiable ones, registering where the source's account is the only available basis for a given claim — but does not treat the dependence as disqualifying. Most religious traditions and many historical inquiries depend ultimately on testimony from primary participants; the framework's specific situation is unusual in its specificity and its single-source character but is not unique in its structural form.
 
@@ -192,7 +257,7 @@ The conflation of Yahweh with Satan that has been proposed by some adversarial a
 
 ### The First and the Last / Alpha and Omega
 
-In the Book of Revelation and in *The Book Which Tells the Truth*, Yahweh identifies himself as **the First and the Last** (Revelation 1:17; 22:13) and as the **Alpha and the Omega** (Revelation 1:8; 21:6; 22:13). Conventional Christian theology has read these titles as expressions of God's eternal pre-existence and post-existence — God as the metaphysical beginning and end of all things, encompassing all of time without himself being subject to it.
+In the Book of Revelation and in *The Book Which Tells the Truth*, Yahweh identifies himself as **the First and the Last** ({% libref(book="revelation", chapter=1, verse=17) %}Revelation 1:17{% end %}; {% libref(book="revelation", chapter=22, verse=13) %}22:13{% end %}) and as the **Alpha and the Omega** ({% libref(book="revelation", chapter=1, verse=8) %}Revelation 1:8{% end %}; {% libref(book="revelation", chapter=21, verse=6) %}21:6{% end %}; {% libref(book="revelation", chapter=22, verse=13) %}22:13{% end %}). Conventional Christian theology has read these titles as expressions of God's eternal pre-existence and post-existence — God as the metaphysical beginning and end of all things, encompassing all of time without himself being subject to it.
 
 The corpus reads the titles more concretely. *The Book Which Tells the Truth* records Yahweh's own gloss on the Revelation passage: he is the first in two specific senses (the first individual on whom the immortality technology was applied, and the first member of the Elohim civilization to arrive on Earth), and he will be the last in two corresponding senses (the last to remain alive among the original creators if the cell-transfer continuity proves indefinitely sustainable, and potentially the last to witness Earth if humanity self-destroys with the energies it has now discovered). The titles, on this reading, are statements of biographical fact and operational role, not of metaphysical category. The Greek *Alpha* and *Omega* — the first and last letters of the alphabet — function as a stylized rendering of the same first-and-last claim in the language of the Greek-speaking audience for whom Revelation was written.
 
@@ -218,7 +283,7 @@ The corpus's reading is consistent with the historical-critical observation that
 
 ### The Sendy tradition: Yahweh as Eloha
 
-**Jean Sendy**'s reinterpretive work (treated more fully in the [Elohim](../elohim/) entry) addresses Yahweh specifically as one of the *Theosites* — the inhabitants of *Theos*, the home world — distinguished from the broader collective. Sendy's approach is philological and historiographic, working from the Hebrew Bible's own internal evidence to reach the conclusion that the named Yahweh is a specific identifiable individual within the broader plurality of the Elohim, rather than an abstract or supernatural deity. Sendy's reading is the principal scholarly antecedent of the corpus's adopted reading on Yahweh specifically, as on Elohim collectively.
+**Jean Sendy**'s reinterpretive work (treated more fully in the [Elohim](../elohim/) entry) addresses Yahweh specifically as one of the *Theosites* — the inhabitants of *Theos*, the home world — distinguished from the broader collective.{{ cite(id="those-gods-who-made-heaven-and-earth", text="[13]", title="Sendy, *Ces dieux qui firent le ciel et la terre* (1969) / *Those Gods Who Made Heaven and Earth* (1972)") }} Sendy's approach is philological and historiographic, working from the Hebrew Bible's own internal evidence to reach the conclusion that the named Yahweh is a specific identifiable individual within the broader plurality of the Elohim, rather than an abstract or supernatural deity. Sendy's reading is the principal scholarly antecedent of the corpus's adopted reading on Yahweh specifically, as on Elohim collectively.
 
 ### The Raëlian source material
 
@@ -226,7 +291,7 @@ The Raëlian source material, beginning with *The Book Which Tells the Truth* (1
 
 ### The Biglino reading
 
-**Mauro Biglino**'s strict-translational work treats Yahweh in continuity with his treatment of *Elohim* generally — as a specific individual within the plurality of *the lords from above*, with the Hebrew text describing his actions in concrete operational terms. Biglino's reading of specific passages (the Genesis 18 visitation at Mamre, the Exodus theophanies, the destruction narratives) develops the corpus's general approach in particular textual cases.
+**Mauro Biglino**'s strict-translational work treats Yahweh in continuity with his treatment of *Elohim* generally — as a specific individual within the plurality of *the lords from above*, with the Hebrew text describing his actions in concrete operational terms.{{ cite(id="the-bible-is-not-a-sacred-book", text="[14]", title="Biglino, strict-literal Hebrew Bible series (2010 onward) — Yahweh as an individual among the 'lords from above'") }}{{ cite(id="the-naked-bible", text="[15]", title="Biglino & Cattaneo, *The Naked Bible* (2022) — broader Hebrew Bible survey on the same strict-literal method") }} Biglino's reading of specific passages (the Genesis 18 visitation at Mamre, the Exodus theophanies, the destruction narratives) develops the corpus's general approach in particular textual cases.
 
 ## Comparative observations
 
@@ -236,7 +301,7 @@ The relationships between Yahweh and other ancient Near Eastern divine figures a
 
 **Yahweh and Ba'al**: The major Canaanite storm-god Ba'al is, in the Hebrew Bible, the principal religious antagonist of Yahweh — the figure whose worship the prophets denounce and whose priesthood Elijah confronts at Mount Carmel (1 Kings 18). The framework reads this conflict as a real political contest between the Hebrew Yahweh-tradition and the surrounding Canaanite Ba'al-tradition rather than as a theological abstraction. Whether the Ba'al of the Canaanite tradition was an alliance figure (perhaps from a different team or with different policies than Yahweh's), a regional deity in the more general religious-history sense, or a polemical construction of Yahweh-tradition rhetoric is treated by the corpus as an open question requiring case-by-case textual analysis.
 
-**Yahweh and the Sumerian and Akkadian high gods**: The Sumerian An and Enlil, and the Akkadian Anu and Marduk, are the high-god figures of the Mesopotamian pantheons. The popular ancient-astronaut literature has often proposed direct identifications between Yahweh and one or another of these figures — most commonly between Yahweh and Enlil, on the basis of certain functional parallels. The corpus does not endorse blanket identifications; the relationships between the biblical Yahweh and the Mesopotamian high-god figures are treated as open questions requiring careful comparative analysis. Some of the parallels (high-god status, divine-council leadership, certain narrative motifs) may reflect shared underlying referents; others (specific iconographic conventions, particular cultural-political functions) may reflect independent religious-historical developments.
+**Yahweh and the Sumerian and Akkadian high gods**: The Sumerian An and Enlil, and the Akkadian Anu and Marduk, are the high-god figures of the Mesopotamian pantheons. The popular ancient-astronaut literature has often proposed direct identifications between Yahweh and one or another of these figures — most commonly between Yahweh and Enlil, on the basis of certain functional parallels.{{ cite(id="escaping-from-eden", text="[16]", title="Wallis, *Escaping from Eden* (2020) — comparative reading of the Hebrew Elohim and the Sumerian Sky People") }} The corpus does not endorse blanket identifications; the relationships between the biblical Yahweh and the Mesopotamian high-god figures are treated as open questions requiring careful comparative analysis. Some of the parallels (high-god status, divine-council leadership, certain narrative motifs) may reflect shared underlying referents; others (specific iconographic conventions, particular cultural-political functions) may reflect independent religious-historical developments.
 
 **Yahweh and the Egyptian, Greek, and Hindu high gods**: The corpus treats the relationships between Yahweh and the high-god figures of other ancient pantheons (the Egyptian Atum or Amun, the Greek Zeus, the Hindu Indra or Brahma) as similarly open. The framework's general position — that the relationship between specific biblical figures and the deities of other ancient pantheons is a matter for case-by-case comparative analysis rather than blanket equivalence — applies here as throughout. The cosmic-competition framework (treated in the [Elohim](../elohim/) entry under Relationships) implies that other humanities on other worlds may have had their own alliance contacts producing their own religious traditions; whether or how these other traditions' high-god figures relate to Yahweh specifically is open.
 

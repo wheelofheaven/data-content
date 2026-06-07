@@ -12,6 +12,46 @@ entry_type = "concept"
 alternative_names = ["Precessional Age", "Astrological Age", "Zodiacal Age", "Great Month", "Platonic Month (older Western-philosophical designation)", "Cosmic Age"]
 timeline = ["multi-age"]
 
+[[extra.references]]
+id = "hamlets-mill"
+note = "de Santillana and von Dechend's foundational cross-cultural reconstruction of the precessional cycle as encoded in ancient mythological and religious-iconographic tradition; the principal scholarly anchor for the corpus's precessional framework."
+
+[[extra.references]]
+id = "the-book-which-tells-the-truth"
+note = "Vorilhon's first Raëlian volume; source of the Aquarian-opening identification and the 1946 anchor for the operational opening of the new age."
+
+[[extra.references]]
+id = "extraterrestrials-took-me-to-their-planet"
+note = "Vorilhon's second Raëlian volume; further material on the Aquarian transition and the forty-prophet preparation pattern."
+
+[[extra.references]]
+id = "intelligent-design-message-from-the-designers"
+note = "The collected English edition of the Raëlian source material, principal source for the Aquarian-age positioning within the corpus chronology."
+
+[[extra.references]]
+id = "the-coming-of-the-gods"
+note = "Jean Sendy's *L'ère du Verseau* (1970) — the principal Sendy engagement with the Aquarian-age framework, complementary to the Raëlian material."
+
+[[extra.references]]
+id = "theogony-and-works-and-days"
+note = "Hesiod's *Works and Days* (lines 109–201) — the five ages of man (golden, silver, bronze, heroic, iron) as cyclical-degenerative cosmic phases."
+
+[[extra.references]]
+id = "bhagavad-gita"
+note = "Principal canonical Hindu text registering the *yuga* cyclical-temporal architecture within which the present *kali yuga* operates."
+
+[[extra.references]]
+id = "avesta"
+note = "Zoroastrian sacred corpus; preserves the 12,000-year world-history cycle (four 3,000-year periods) concluding in *Frashokereti*."
+
+[[extra.references]]
+id = "popol-vuh"
+note = "Mayan creation narrative registering the cyclical-cosmological architecture within which the Mesoamerican Long Count operates."
+
+[[extra.references]]
+id = "fingerprints-of-the-gods"
+note = "Hancock's principal pre-1996 articulation of the precessional-age framework within the broader 'lost civilization' tradition; popular dissemination of pre-Hipparchean precessional awareness."
+
 [extra.infobox]
 type = "Structural-foundational temporal-cosmological framework concept; the principal organizing temporal unit of the corpus narrative"
 duration = "Approximately 2,160 years per age (one-twelfth of the ~25,920-year Great Year cycle)"
@@ -33,7 +73,7 @@ The mechanism is straightforward astronomy. Earth's rotational axis is tilted at
 
 The framework reads the precessional cycle as the alliance's principal temporal-cosmological framework — the calendrical backbone within which the entire creation project on Earth has unfolded. The Capricorn age opened the project at approximately 21,810 BCE, when an alliance expedition arrived at Earth and began the planetary-engineering work required to prepare the world for the eventual creation of life. Eleven subsequent ages — Sagittarius, Scorpio, Libra, Virgo, Leo, Cancer, Gemini, Taurus, Aries, Pisces, and the present Aquarius — have each contributed a specific phase to the unfolding work. The corpus's twelve main chapters walk through these ages in sequence. Each age is treated not as a period of mystical-astrological symbolism but as an operational phase of an extended engineering project, with tasks appropriate to its position in the longer arc and with religious-iconographic signatures left in the cultures of the period that preserve the astronomical identity of the age across the millennia during which the original meaning would otherwise be lost.
 
-The framework's distinctive contribution within the broader landscape of precessional thought is fourfold. First, the precessional ages are read as **engineering units** that the alliance operationally employs — the zodiac as calendrical tool of the project rather than as mystical-symbolic system superimposed on it. Second, the **doubled signature principle** (each age encoding its astronomical identity in both its current sign and its zodiacal opposite) is given systematic treatment as the mechanism by which the astronomical content survives transmission through religious traditions whose carriers no longer understand what they are transmitting. Third, the twelve precessional ages are aligned with twelve framework-articulated phases of the broader project (the pre-human ages of planetary preparation; the human-creation age of Leo; the post-Eden ages of civilizational development; the Piscean age of universal distribution; the present Aquarian age of inheritance), producing a tightly integrated chronological-narrative structure. Fourth, the corpus draws explicitly on the precessional reconstruction articulated by Giorgio de Santillana and Hertha von Dechend in ***Hamlet's Mill*** (1969), extending their cross-cultural framework through the additional interpretive moves the corpus introduces.
+The framework's distinctive contribution within the broader landscape of precessional thought is fourfold. First, the precessional ages are read as **engineering units** that the alliance operationally employs — the zodiac as calendrical tool of the project rather than as mystical-symbolic system superimposed on it. Second, the **doubled signature principle** (each age encoding its astronomical identity in both its current sign and its zodiacal opposite) is given systematic treatment as the mechanism by which the astronomical content survives transmission through religious traditions whose carriers no longer understand what they are transmitting. Third, the twelve precessional ages are aligned with twelve framework-articulated phases of the broader project (the pre-human ages of planetary preparation; the human-creation age of Leo; the post-Eden ages of civilizational development; the Piscean age of universal distribution; the present Aquarian age of inheritance), producing a tightly integrated chronological-narrative structure. Fourth, the corpus draws explicitly on the precessional reconstruction articulated by Giorgio de Santillana and Hertha von Dechend in ***Hamlet's Mill*** (1969),{{ cite(id="hamlets-mill", text="[1]", title="de Santillana & von Dechend, *Hamlet's Mill: An Essay on Myth and the Frame of Time* (Gambit, 1969) — foundational cross-cultural reconstruction of precessional encoding in ancient myth") }} extending their cross-cultural framework through the additional interpretive moves the corpus introduces.
 
 The current World Age is the **Age of Aquarius**. The corpus chronology dates the Aquarian opening at 1950 CE, with the source-anchored alternative dating of 1946 CE marking the age's operational opening (the year of Vorilhon's birth and of various other inaugural events). The age runs to approximately 4110 CE — at which point the cycle returns to a new Capricorn, opening the second Great Year of the framework's larger temporal architecture. The corpus reads this transition as the closure of the first Great Year (the cycle during which the alliance's creation project on Earth has unfolded) and the opening of the second Great Year (the cycle during which humanity itself becomes the creating civilization, extending the work to other worlds across the galactic neighborhood). The detailed treatment of the broader Cosmic Chain framework lives in the [Cosmic Chain](../cosmic-chain/) entry; the World Age entry's contribution is registering the precessional-temporal architecture within which that chain operates.
 
@@ -151,13 +191,13 @@ The framework's primary source material on the precessional-age framework is dis
 
 ### The principal source statements
 
-The Raëlian source material registers the Aquarian age explicitly across multiple passages, with the framework reading the precessional-age structure principally as the temporal architecture within which the source's narrative content unfolds.
+The Raëlian source material registers the Aquarian age explicitly across multiple passages, with the framework reading the precessional-age structure principally as the temporal architecture within which the source's narrative content unfolds.{{ cite(id="intelligent-design-message-from-the-designers", text="[4]", title="Vorilhon (Raël), *Intelligent Design: Message from the Designers* — collected English edition of the principal Raëlian source material") }}
 
 **The Aquarian-opening identification**. The source identifies the present moment as the opening of the Age of Aquarius:
 
 > *"The time has come, when the planets are in the appropriate positions [...] We shall now create a religion which is not really a religion since we shall ask you to verify everything we say and do."*
 
-The astronomical-temporal positioning is registered, with the source's explicit identification of the moment as suitable for the new revelation. The Aquarian opening is implicit in the broader source positioning of the present moment as the threshold of the new era.
+The astronomical-temporal positioning is registered, with the source's explicit identification of the moment as suitable for the new revelation. The Aquarian opening is implicit in the broader source positioning of the present moment as the threshold of the new era.{{ cite(id="the-book-which-tells-the-truth", text="[2]", title="Vorilhon (Raël), *The Book Which Tells the Truth* (1974) — Aquarian-opening identification and the 1946 anchor") }}
 
 **The 1946 anchor**. The source registers Vorilhon's birth date (September 30, 1946, in Vichy, France) as the inaugural moment of the new era:
 
@@ -165,7 +205,7 @@ The astronomical-temporal positioning is registered, with the source's explicit 
 
 The year 1946 operates as the source's anchor for the operational opening of the Aquarian age. The corpus chronology uses 1950 as the round-numbered boundary, with 1946 as the source-anchored alternative for the operational threshold.
 
-**The forty-prophet preparation**. The source registers approximately forty prophets sent across human history as preparation for the Aquarian-age revelation. The temporal architecture within which these prophetic missions unfold is the precessional-age framework, with each prophetic mission appropriate to the specific age in which it occurred.
+**The forty-prophet preparation**. The source registers approximately forty prophets sent across human history as preparation for the Aquarian-age revelation. The temporal architecture within which these prophetic missions unfold is the precessional-age framework, with each prophetic mission appropriate to the specific age in which it occurred.{{ cite(id="extraterrestrials-took-me-to-their-planet", text="[3]", title="Vorilhon (Raël), *Extraterrestrials Took Me to Their Planet* (1976) — the forty-prophet preparation pattern and broader Aquarian-transition material") }}
 
 ### The corpus articulation of the precessional framework
 
@@ -193,7 +233,7 @@ The passage establishes the framework's broader temporal architecture: the Great
 
 ### The Sendy engagement
 
-**Jean Sendy** in *L'ère du Verseau* (Robert Laffont, 1970) and various other works develops substantial complementary content on the precessional-age framework. Sendy's engagement registers the Aquarian opening as the principal moment of substantial cosmological-civilizational transition, with substantial framework alignment. Sendy's broader Tradition framework operates substantively within the broader precessional engagement.
+**Jean Sendy** in *L'ère du Verseau* (Robert Laffont, 1970) and various other works develops substantial complementary content on the precessional-age framework. Sendy's engagement registers the Aquarian opening as the principal moment of substantial cosmological-civilizational transition, with substantial framework alignment. Sendy's broader Tradition framework operates substantively within the broader precessional engagement.{{ cite(id="the-coming-of-the-gods", text="[5]", title="Sendy, *L'ère du Verseau* (1970), translated as *The Coming of the Gods* — principal Sendy engagement with the Aquarian-age framework") }}
 
 ### The Vorilhon-Sendy chronological distinction
 
@@ -407,7 +447,7 @@ The framework engages the New Age tradition's "Aquarian Age" content with substa
 
 Various alternative-history scholars have engaged precessional-age content with substantial popular reach.
 
-**Graham Hancock**. **Graham Hancock**'s *Magicians of the Gods* (St. Martin's Press, 2015) and earlier works (*Fingerprints of the Gods*, 1995; *Heaven's Mirror*, 1998 with Santha Faiia) develop substantial engagement with precessional-age content, particularly through the Younger Dryas Impact Hypothesis and the broader "lost civilization" framework. Hancock's framework operates with substantial structural alignment with the corpus framework at the broader-pre-Hipparchean-precessional-awareness level while operating from distinct source-material warrant. Hancock's work has produced substantial popular awareness of the precessional-encoding tradition.
+**Graham Hancock**. **Graham Hancock**'s *Magicians of the Gods* (St. Martin's Press, 2015) and earlier works (*Fingerprints of the Gods*, 1995; *Heaven's Mirror*, 1998 with Santha Faiia) develop substantial engagement with precessional-age content, particularly through the Younger Dryas Impact Hypothesis and the broader "lost civilization" framework.{{ cite(id="fingerprints-of-the-gods", text="[10]", title="Hancock, *Fingerprints of the Gods* (1995) — popular articulation of the precessional-age framework within the broader 'lost civilization' tradition") }} Hancock's framework operates with substantial structural alignment with the corpus framework at the broader-pre-Hipparchean-precessional-awareness level while operating from distinct source-material warrant. Hancock's work has produced substantial popular awareness of the precessional-encoding tradition.
 
 **Robert Bauval**. **Robert Bauval** (with Adrian Gilbert), *The Orion Mystery* (Crown, 1994), develops substantive engagement with precessional-encoding in the Giza pyramid complex through the **Orion correlation theory** — the proposal that the three pyramids of Giza encode the three stars of Orion's belt at their precessional position circa 10,500 BCE. The theory operates substantively within the broader *Hamlet's Mill* framework with specific Egyptian application. The framework engages Bauval's work as substantial supporting material for the broader pre-Hipparchean precessional-awareness reading. The detailed treatment lives in the [Great Pyramid](../great-pyramid/) entry when written.
 
@@ -458,7 +498,7 @@ The Hindu cosmological tradition preserves the most elaborate cyclical-temporal 
 - **Dvapara Yuga** ("Second Age"): 864,000 years; the age of half dharma
 - **Kali Yuga** ("Age of Kali," the strife-age): 432,000 years; the age of one-quarter dharma — the present age
 
-The full *mahayuga* totals 4,320,000 years (the four *yuga* numbers in 4:3:2:1 ratio). The current *kali yuga* is conventionally reckoned as having begun at 3102 BCE (the traditional date of the Mahabharata war).
+The full *mahayuga* totals 4,320,000 years (the four *yuga* numbers in 4:3:2:1 ratio). The current *kali yuga* is conventionally reckoned as having begun at 3102 BCE (the traditional date of the Mahabharata war).{{ cite(id="bhagavad-gita", text="[7]", title="*Bhagavad Gita* — principal canonical Hindu text registering the *yuga* cyclical-temporal architecture within which the *kali yuga* operates") }}
 
 **The larger cosmic cycles**. The *mahayuga* nests within larger cycles:
 
@@ -482,7 +522,7 @@ The Mesoamerican (principally Mayan, with substantial broader Mesoamerican engag
 - **Katun**: 20 tun (7,200 days, ~19.7 years)
 - **Baktun**: 20 katun (144,000 days, ~394 years)
 
-**The Long Count cycle**. The full Long Count cycle of 13 baktuns equals 1,872,000 days, or approximately 5,125 years. The current cycle is conventionally reckoned as having begun at 3114 BCE (the Mayan creation date) and as having completed at December 21, 2012 CE (the much-discussed "Mayan apocalypse" date that produced substantial popular engagement). The completion of the 13-baktun cycle in 2012 marked the transition to a new Long Count cycle.
+**The Long Count cycle**. The full Long Count cycle of 13 baktuns equals 1,872,000 days, or approximately 5,125 years. The current cycle is conventionally reckoned as having begun at 3114 BCE (the Mayan creation date) and as having completed at December 21, 2012 CE (the much-discussed "Mayan apocalypse" date that produced substantial popular engagement). The completion of the 13-baktun cycle in 2012 marked the transition to a new Long Count cycle.{{ cite(id="popol-vuh", text="[8]", title="*Popol Vuh* — Mayan creation narrative registering the cyclical-cosmological architecture within which the Long Count operates") }}
 
 **The structural relationship to precession**. The 5,125-year Long Count cycle approximates one-fifth of the 25,920-year precessional cycle. The structural relationship has produced substantive scholarly engagement (principally John Major Jenkins's work) proposing that the Long Count encodes precessional content. The reading is contested but registers structural parallels worth noting.
 
@@ -512,7 +552,7 @@ The Greek philosophical-astronomical tradition preserves substantive engagement 
 
 **Plato's Great Year**. **Plato**'s *Timaeus* (37d-39d) articulates the **Great Year** (*megas eniautos*) as the cycle in which all the celestial bodies return to their original positions. Plato does not specify the cycle's duration precisely, but later Platonic and Stoic engagement variously reckoned it at 36,000 years (the **Platonic Year** of later tradition) or other values.
 
-**Hesiod's ages of man**. **Hesiod**'s *Works and Days* (lines 109-201) articulates the five ages of man — golden, silver, bronze, heroic, iron — as cyclical-degenerative cosmic phases. The framework operates substantively within the broader cyclical-cosmological pattern without explicit precessional anchoring.
+**Hesiod's ages of man**. **Hesiod**'s *Works and Days* (lines 109-201) articulates the five ages of man — golden, silver, bronze, heroic, iron — as cyclical-degenerative cosmic phases.{{ cite(id="theogony-and-works-and-days", text="[6]", title="Hesiod, *Works and Days* (lines 109–201) — the five ages of man as cyclical-degenerative cosmic phases") }} The framework operates substantively within the broader cyclical-cosmological pattern without explicit precessional anchoring.
 
 **The Stoic *ekpyrosis* tradition**. The Stoic philosophical tradition articulates the **ekpyrosis** (cosmic conflagration) cycle — the recurring destruction and renewal of the cosmos through fire. The framework operates within the broader cyclical-cosmological pattern.
 
@@ -522,7 +562,7 @@ The Greek philosophical-astronomical tradition preserves substantive engagement 
 
 The Zoroastrian tradition preserves substantive cyclical-temporal architecture.
 
-**The world-history cycle**. The Zoroastrian framework articulates the world's history as a 12,000-year cycle divided into four 3,000-year periods, with the final period concluding in the **Frashokereti** (renovation of the world). The detailed Zoroastrian eschatological content involves substantial engagement with cosmic-temporal cycles.
+**The world-history cycle**. The Zoroastrian framework articulates the world's history as a 12,000-year cycle divided into four 3,000-year periods, with the final period concluding in the **Frashokereti** (renovation of the world). The detailed Zoroastrian eschatological content involves substantial engagement with cosmic-temporal cycles.{{ cite(id="avesta", text="[9]", title="*Avesta* — Zoroastrian sacred corpus preserving the 12,000-year world-history cycle and the *Frashokereti* renovation") }}
 
 **The framework reading**. The corpus reads the Zoroastrian millennial system as preserving substantive cyclical-cosmological content within distinctive Zoroastrian framing.
 

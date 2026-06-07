@@ -12,6 +12,29 @@ entry_type = "figure"
 alternative_names = ["Claude Vorilhon", "Rael", "Raël Maitreya", "the Maitreya from the West", "Guide of Guides", "the last of the prophets"]
 timeline = ["aquarius"]
 
+[[extra.references]]
+id = "the-book-which-tells-the-truth"
+locator = "Chapter 1 (The Encounter); six-day Puy-de-Lassolas teaching"
+note = "Vorilhon's first Raëlian volume (1974), recording the December 13, 1973 first contact and the inaugural body of teaching."
+
+[[extra.references]]
+id = "extraterrestrials-took-me-to-their-planet"
+locator = "My Life Until the First Encounter; Roc Plat second contact"
+note = "Vorilhon's second Raëlian volume (1976), recording the October 7, 1975 contact, the visit to the Planet of the Eternals, the seven new commandments, and the principal pre-1973 autobiographical material."
+
+[[extra.references]]
+id = "lets-welcome-the-extraterrestrials"
+note = "Vorilhon's third Raëlian volume (1979), publishing the biological-parentage disclosure withheld three years and preserving the March 14, 1978 telepathic message on parallel humanities."
+
+[[extra.references]]
+id = "intelligent-design-message-from-the-designers"
+locator = "Foreword; preface; consolidated edition (2005)"
+note = "English-language consolidated edition of the principal three Raëlian volumes plus extensive additional material; principal contemporary English-language access point."
+
+[[extra.references]]
+id = "rael-dot-org"
+note = "Official International Raëlian Movement website; institutional record of post-1979 telepathic messages, including the December 13, 1997 embassy-relocation authorization."
+
 [extra.infobox]
 type = "Aquarian-age prophet; founder of the International Raëlian Movement; corpus-identified last of the cumulative prophetic tradition"
 birth_name = "Claude Vorilhon"
@@ -31,11 +54,11 @@ status_in_source_material = "Substantially documented; biographical content prin
 principal_text = "*The Book Which Tells the Truth* (1974); *Extra-Terrestrials Took Me to Their Planet* (1976); *Let's Welcome the Extra-terrestrials* (1979); *The Maitreya* (anthology)"
 +++
 
-**Raël**, born **Claude Vorilhon** on September 30, 1946 in Vichy, France, is the French former motor-sports journalist who reported a contact with an officer of the Elohim alliance at the Puy-de-Lassolas volcanic crater near Clermont-Ferrand on the morning of December 13, 1973. The contact inaugurated the Aquarian-age prophetic mission and produced the body of teaching subsequently published as *Le Livre qui dit la vérité* (*The Book Which Tells the Truth*, 1974), *Les Extra-Terrestres m'ont emmené sur leur planète* (*Extra-Terrestrials Took Me to Their Planet*, 1975/76), and *Accueillir les Extra-terrestres* (*Let's Welcome the Extra-terrestrials*, 1979) — collectively the principal Raëlian source material that the Wheel of Heaven corpus engages with. The figure subsequently founded the International Raëlian Movement (1976) and across the subsequent five decades has served as the institutional and public face of the broader embassy project and the Aquarian-age program the alliance has proposed for humanity.
+**Raël**, born **Claude Vorilhon** on September 30, 1946 in Vichy, France, is the French former motor-sports journalist who reported a contact with an officer of the Elohim alliance at the Puy-de-Lassolas volcanic crater near Clermont-Ferrand on the morning of December 13, 1973. The contact inaugurated the Aquarian-age prophetic mission and produced the body of teaching subsequently published as *Le Livre qui dit la vérité* (*The Book Which Tells the Truth*, 1974),{{ cite(id="the-book-which-tells-the-truth", text="[1]", title="Vorilhon (Raël), *The Book Which Tells the Truth* (1974) — record of the December 13, 1973 Puy-de-Lassolas contact") }} *Les Extra-Terrestres m'ont emmené sur leur planète* (*Extra-Terrestrials Took Me to Their Planet*, 1975/76),{{ cite(id="extraterrestrials-took-me-to-their-planet", text="[2]", title="Vorilhon (Raël), *Extra-Terrestrials Took Me to Their Planet* (1976) — record of the October 7, 1975 Roc Plat contact and the Planet of the Eternals visit") }} and *Accueillir les Extra-terrestres* (*Let's Welcome the Extra-terrestrials*, 1979){{ cite(id="lets-welcome-the-extraterrestrials", text="[3]", title="Vorilhon (Raël), *Let's Welcome the Extraterrestrials* (1979) — the biological-parentage disclosure and the embassy project") }} — collectively the principal Raëlian source material that the Wheel of Heaven corpus engages with. The figure subsequently founded the International Raëlian Movement (1976) and across the subsequent five decades has served as the institutional and public face of the broader embassy project and the Aquarian-age program the alliance has proposed for humanity.
 
 Within the corpus's broader framework, Raël occupies a specific position in the cumulative prophetic tradition. The corpus reads Raël as the **last of approximately forty prophets** sent by the alliance across human history, with each prophet appropriate to the specific cultural and temporal moment at which they appeared and each contributing to the cumulative preparation of humanity for the Aquarian-age revelation. The earlier prophets — Abraham, Moses, the Hebrew prophetic tradition, Buddha, Zarathustra, Jesus, Muhammad, and various others — operated within the indirect-contact framework that the alliance adopted following the Aries-age discovery (treated more fully in the [Cosmic Chain](../cosmic-chain/) entry). The Aquarian-age prophet, on the corpus's framing, had to be a figure of substantially different character than the earlier prophets — a figure drawn from the cultural mainstream of late-twentieth-century secular modernity rather than from any traditionally religious context, positioned to deliver the alliance's message to a scientifically mature humanity that could evaluate the content on its rational merits rather than receiving it through the established religious frameworks of the prior ages. Raël's specific biographical features — the French motor-sports journalist with no prior religious background, the cultural ordinariness, the modern Western sensibility, the absence of any traditional religious lineage — are read by the corpus as deliberate features of the alliance's selection rather than as incidental biographical details.
 
-The figure's identification as the **Maitreya** of Buddhist tradition is theologically substantial. The source explicitly identifies Raël with the anticipated future Buddha of the Buddhist tradition, with the published anthology *The Maitreya* (collecting Raël's teachings across the post-1973 decades) making the identification operationally explicit. The identification connects Raël to the broader anticipated-return traditions across world religions — the Buddhist Maitreya, the Christian projected Second Coming, the Islamic Mahdi, the Hindu Kalki avatar, the Zoroastrian Saoshyant, and various others (treated more fully in the [Embassy](../embassy/) entry's *Comparative observations*). The framework's reading is that these various anticipated-return traditions across world religions preserve fragmentary memory of the same projected Aquarian-age event, with each tradition preserving the memory in its own cultural-religious framing. Raël is, on this reading, the specific contemporary figure these traditions have been anticipating across the previous ages.
+The figure's identification as the **Maitreya** of Buddhist tradition is theologically substantial. The source explicitly identifies Raël with the anticipated future Buddha of the Buddhist tradition, with the published anthology *The Maitreya* (collecting Raël's teachings across the post-1973 decades) making the identification operationally explicit.{{ cite(id="intelligent-design-message-from-the-designers", text="[4]", title="Vorilhon (Raël), *Intelligent Design: Message from the Designers* (2005) — consolidated English edition of the three Raëlian source volumes") }} The identification connects Raël to the broader anticipated-return traditions across world religions — the Buddhist Maitreya, the Christian projected Second Coming, the Islamic Mahdi, the Hindu Kalki avatar, the Zoroastrian Saoshyant, and various others (treated more fully in the [Embassy](../embassy/) entry's *Comparative observations*). The framework's reading is that these various anticipated-return traditions across world religions preserve fragmentary memory of the same projected Aquarian-age event, with each tradition preserving the memory in its own cultural-religious framing. Raël is, on this reading, the specific contemporary figure these traditions have been anticipating across the previous ages.
 
 The figure's biographical content is **substantially documented** through contemporary record — unlike the earlier prophets whose biographical record is heavily mediated through religious tradition. Raël's own autobiographical statements (principally in *Extra-Terrestrials Took Me to Their Planet*'s "My Life Until the First Encounter" section and in subsequent published material), the International Raëlian Movement's institutional records, contemporary journalistic treatments across the past five decades, and substantial academic engagement (Susan Palmer's principal scholarly studies; Massimo Introvigne's CESNUR work; James R. Lewis's edited volumes; various other scholarly engagements) provide a substantially documented record from which the corpus's treatment can draw. The biographical record is contested in specific respects — particularly the December 13, 1973 contact event itself, which mainstream scholarship treats as either authentic religious experience, deliberate religious construction, or some combination, with no scholarly consensus — but the broader biographical outline is well-documented.
 
@@ -49,7 +72,7 @@ The figure has two principal designations operating across the source material a
 
 The birth name **Claude Vorilhon** is the figure's legal name and the name under which his pre-1973 life unfolded. The name continues to be the legal-civil name across the subsequent decades, though it is used relatively rarely in the Raëlian movement's institutional materials and in subsequent public engagement.
 
-The source material registers the birth name explicitly: the Foreword of the 2005 *Message from the Designers* English edition opens with "The author of these unique writings was born Claude Vorilhon in France in September 1946. He changed his name to Rael, which means 'messenger' in Hebrew, after meeting a human being from another planet."
+The source material registers the birth name explicitly: the Foreword of the 2005 *Message from the Designers* English edition opens with "The author of these unique writings was born Claude Vorilhon in France in September 1946. He changed his name to Rael, which means 'messenger' in Hebrew, after meeting a human being from another planet."{{ cite(id="intelligent-design-message-from-the-designers", text="[4]", title="Vorilhon (Raël), *Intelligent Design: Message from the Designers* (2005) — Foreword opening on the birth name and naming") }}
 
 ### "Raël" — the prophetic name
 
@@ -59,7 +82,7 @@ The prophetic name **Raël** (sometimes transliterated **Rael** without the diac
 - **"Light of the Elohim"** — alternative gloss
 - **"Ambassador of the Elohim"** — alternative gloss
 
-The source material's specific framing: the new name marks the transition from the pre-1973 private person to the post-1973 commissioned messenger. The pattern is consistent with earlier alliance operations — Abram becoming Abraham at the Taurus-age alliance encounter (Genesis 17:5), Jacob becoming Israel after the Genesis 32 nocturnal encounter, Simon becoming Peter (*Petros*) at Jesus's Piscean-age commissioning. The new name marks the formal commissioning of the prophet at the moment of selection.
+The source material's specific framing: the new name marks the transition from the pre-1973 private person to the post-1973 commissioned messenger. The pattern is consistent with earlier alliance operations — Abram becoming Abraham at the Taurus-age alliance encounter ({% libref(book="genesis-woh", chapter=17, verse=5) %}Genesis 17:5{% end %}), Jacob becoming Israel after the {% libref(book="genesis-woh", chapter=32, verse=28) %}Genesis 32{% end %} nocturnal encounter, Simon becoming Peter (*Petros*) at Jesus's Piscean-age commissioning. The new name marks the formal commissioning of the prophet at the moment of selection.
 
 ### Other titles within the Raëlian tradition
 
@@ -136,9 +159,9 @@ The primary-source material on Raël is substantial and contemporary, comprising
 
 ### Raël's autobiographical material
 
-The principal autobiographical material is preserved in *Extra-Terrestrials Took Me to Their Planet* (1975/76), particularly in the opening section "My Life Until the First Encounter."
+The principal autobiographical material is preserved in *Extra-Terrestrials Took Me to Their Planet* (1975/76), particularly in the opening section "My Life Until the First Encounter."{{ cite(id="extraterrestrials-took-me-to-their-planet", text="[2]", title="Vorilhon (Raël), *Extra-Terrestrials Took Me to Their Planet* (1976) — 'My Life Until the First Encounter' autobiographical section") }}
 
-**Childhood and family background**. Vorilhon was born in Vichy, France on September 30, 1946 — the same year the source identifies as "the first year of the new era," with the broader 1945-1946 cluster of events (treated more fully in the [Apocalypse](../apocalypse/) and [Atomic Threshold](../atomic-threshold/) entries) marking the Aquarian-age opening. The source treats this birth date as not coincidental: "It is not by chance that you were born in 1946." The Aquarian-age prophet had to be born at the age's beginning, positioned to receive the alliance's contact at the specific point in his adult life when the contact was scheduled to occur.
+**Childhood and family background**. Vorilhon was born in Vichy, France on September 30, 1946 — the same year the source identifies as "the first year of the new era," with the broader 1945-1946 cluster of events (treated more fully in the [Apocalypse](../apocalypse/) and [Atomic Threshold](../atomic-threshold/) entries) marking the Aquarian-age opening. The source treats this birth date as not coincidental: "It is not by chance that you were born in 1946."{{ cite(id="the-book-which-tells-the-truth", text="[1]", title="Vorilhon (Raël), *The Book Which Tells the Truth* (1974) — Yahweh's framing of Vorilhon's 1946 birth as Aquarian-age-opening") }} The Aquarian-age prophet had to be born at the age's beginning, positioned to receive the alliance's contact at the specific point in his adult life when the contact was scheduled to occur.
 
 **Childhood UFO experience**. Vorilhon's autobiographical material includes a childhood UFO experience over Ambert (a town near Clermont-Ferrand) — a prefigurement of the subsequent direct contact, in the source's framing.
 
@@ -152,7 +175,7 @@ The principal autobiographical material is preserved in *Extra-Terrestrials Took
 
 ### The December 13, 1973 contact
 
-The principal source material on the December 13, 1973 contact is preserved in *The Book Which Tells the Truth* (1974), with Raël's own narrative account preserved in the opening "The Encounter" section.
+The principal source material on the December 13, 1973 contact is preserved in *The Book Which Tells the Truth* (1974), with Raël's own narrative account preserved in the opening "The Encounter" section.{{ cite(id="the-book-which-tells-the-truth", text="[1]", title="Vorilhon (Raël), *The Book Which Tells the Truth* (1974) — 'The Encounter' opening narrative of the Puy-de-Lassolas contact") }}
 
 **The location and circumstance**. The Puy-de-Lassolas volcanic crater is one of the Chaîne des Puys, a north-south line of approximately eighty volcanic features near Clermont-Ferrand in the Auvergne region of central France. The crater is a bowl-shaped depression approximately 100 meters across, accessible by walking path. Vorilhon's autobiographical narrative describes the December 1973 morning as cool, with background mist and gray sky, the crater "almost certainly deserted." Vorilhon had walked up to the crater for what he described as "a breath of fresh air" rather than for any specific religious or contact-seeking purpose.
 
@@ -160,13 +183,13 @@ The principal source material on the December 13, 1973 contact is preserved in *
 
 **The figure**. The source's specific description: a humanoid figure approximately 1.20 meters in height, with long dark hair, a beard, pale and slightly olive-tinted skin, large almond-shaped eyes, and a white single-piece suit. The figure communicated in fluent French.
 
-**The six-day contact**. Across six successive mornings, the figure delivered the body of teaching that Vorilhon subsequently published as *The Book Which Tells the Truth*. The teaching covered the broader framework — the Elohim civilization, the Genesis-as-genetic-engineering reading, the broader Hebrew Bible content, the parallel humanities, the embassy specifications, the seven new commandments, the Aquarian-age program. The figure identified himself as an officer of the Elohim, with subsequent material identifying the specific Eloha as Yahweh (the president of the Council of the Eternals).
+**The six-day contact**. Across six successive mornings, the figure delivered the body of teaching that Vorilhon subsequently published as *The Book Which Tells the Truth*. The teaching covered the broader framework — the Elohim civilization, the Genesis-as-genetic-engineering reading, the broader Hebrew Bible content, the parallel humanities, the embassy specifications, the seven new commandments, the Aquarian-age program. The figure identified himself as an officer of the Elohim, with subsequent material identifying the specific Eloha as Yahweh (the president of the Council of the Eternals).{{ cite(id="the-book-which-tells-the-truth", text="[1]", title="Vorilhon (Raël), *The Book Which Tells the Truth* (1974) — the six-day Puy-de-Lassolas teaching delivered by Yahweh") }}
 
 **The new name**. The figure named Vorilhon as Raël during the six-day contact. The naming ceremony marked the formal commissioning of Vorilhon as the Aquarian-age prophet.
 
 ### The October 7, 1975 second contact
 
-The principal source material on the October 7, 1975 second contact is preserved in *Extra-Terrestrials Took Me to Their Planet* (1975/76).
+The principal source material on the October 7, 1975 second contact is preserved in *Extra-Terrestrials Took Me to Their Planet* (1975/76).{{ cite(id="extraterrestrials-took-me-to-their-planet", text="[2]", title="Vorilhon (Raël), *Extra-Terrestrials Took Me to Their Planet* (1976) — record of the Roc Plat contact, journey to the Planet of the Eternals, and the seven new commandments") }}
 
 **The location**. Roc Plat near Brantôme in the Périgord region of southwestern France (some sources place the location more generally in the broader Auvergne or Dordogne region; the source material's specific identification is Roc Plat near Brantôme).
 
@@ -174,7 +197,7 @@ The principal source material on the October 7, 1975 second contact is preserved
 
 **The Planet of the Eternals**. The source's description includes substantial detail: the home-world setting, the architectural and natural features, the encounters with various previously-existing prophets (Moses, Elijah, Buddha, Jesus, Muhammad, and others — preserved on the home world through the alliance's biotechnology), the specific philosophical and cosmological content delivered across the visit.
 
-**The biological-parentage disclosure**. During the second contact, Raël was informed of his biological parentage by Yahweh — the president of the Council of the Eternals as Raël's biological father. The disclosure was accompanied by the request that Raël withhold publication of this information for three years, to avoid producing what the source describes as "a serious imbalance" in the broader public reception. The disclosure was eventually published in 1979's *Let's Welcome the Extra-terrestrials*, the third volume of the principal source material.
+**The biological-parentage disclosure**. During the second contact, Raël was informed of his biological parentage by Yahweh — the president of the Council of the Eternals as Raël's biological father. The disclosure was accompanied by the request that Raël withhold publication of this information for three years, to avoid producing what the source describes as "a serious imbalance" in the broader public reception. The disclosure was eventually published in 1979's *Let's Welcome the Extra-terrestrials*, the third volume of the principal source material.{{ cite(id="lets-welcome-the-extraterrestrials", text="[3]", title="Vorilhon (Raël), *Let's Welcome the Extraterrestrials* (1979) — the biological-parentage disclosure, withheld three years until publication") }}
 
 **The seven new commandments**. The seven new commandments (geniocracy, humanitarianism, world government, demilitarization, science as religion, telepathic cultivation, the metaphysical clarifications) were delivered across the second contact, providing the broader political-religious program the alliance has proposed for the Aquarian age.
 
@@ -184,9 +207,9 @@ Several subsequent contacts and telepathic messages are preserved in the source 
 
 **The October 7, 1976 message**. Approximately fifty Raëlians were present at La Negrerie near Roc Plat for the first anniversary of the October 7, 1975 contact. A subsequent telepathic message and broader gathering occurred at this anniversary event.
 
-**The March 14, 1978 telepathic message**. The principal subsequent telepathic message regarding the parallel humanities (treated more fully in the [Cosmic Competition](../cosmic-competition/) entry). The message established Earth's specific cooperative role with respect to the parallel humanities.
+**The March 14, 1978 telepathic message**. The principal subsequent telepathic message regarding the parallel humanities (treated more fully in the [Cosmic Competition](../cosmic-competition/) entry). The message established Earth's specific cooperative role with respect to the parallel humanities.{{ cite(id="lets-welcome-the-extraterrestrials", text="[3]", title="Vorilhon (Raël), *Let's Welcome the Extraterrestrials* (1979) — preserves the March 14, 1978 telepathic message on parallel humanities") }}
 
-**The December 13, 1997 telepathic message**. The principal subsequent telepathic message regarding the embassy relocation (treated more fully in the [Embassy](../embassy/) entry). The message authorized the Raëlian movement to seek extraterritorial status for the embassy from "all nations on Earth" rather than only Israel.
+**The December 13, 1997 telepathic message**. The principal subsequent telepathic message regarding the embassy relocation (treated more fully in the [Embassy](../embassy/) entry). The message authorized the Raëlian movement to seek extraterritorial status for the embassy from "all nations on Earth" rather than only Israel.{{ cite(id="rael-dot-org", text="[5]", title="International Raëlian Movement, rael.org — the December 13, 1997 telepathic message and embassy relocation authorization") }}
 
 ### The published works
 
@@ -202,7 +225,7 @@ The principal works:
 - ***Oui au clonage humain*** (*Yes to Human Cloning*, 2000) — engagement with the cloning technology that became substantially relevant following the 1997 Dolly-the-sheep cloning
 - ***Le Maitreya*** (anthology) — collection of Raël's teachings across the post-1973 decades
 
-The combined works have been translated into approximately thirty languages, with over two million copies sold worldwide as of the 2005 *Message from the Designers* English edition's publication.
+The combined works have been translated into approximately thirty languages, with over two million copies sold worldwide as of the 2005 *Message from the Designers* English edition's publication.{{ cite(id="intelligent-design-message-from-the-designers", text="[4]", title="Vorilhon (Raël), *Intelligent Design: Message from the Designers* (2005) — preface statement on translation and circulation figures") }}
 
 ## The figure's content
 
@@ -274,7 +297,7 @@ The post-2005 period has comprised the continuing development of the Raëlian mo
 
 **The 2024 Memorandum of Collaboration**. The undisclosed national government's signing of the Memorandum of Collaboration with the Raëlian movement.
 
-**Raël's continuing role**. Across the post-2005 period, Raël has continued in the institutional role of Guide of Guides, while progressively transferring substantial operational responsibility to senior Raëlian movement figures (notably Daniel Turcotte for the embassy project, Brigitte Boisselier for Clonaid-related work, and various other senior Guides for specific operational areas). The 2005 *Message from the Designers* preface notes Raël's specific recognition that "the International Raelian Movement... has become self-sustaining and could now function perfectly well without me," registering the operational maturation of the institutional movement.
+**Raël's continuing role**. Across the post-2005 period, Raël has continued in the institutional role of Guide of Guides, while progressively transferring substantial operational responsibility to senior Raëlian movement figures (notably Daniel Turcotte for the embassy project, Brigitte Boisselier for Clonaid-related work, and various other senior Guides for specific operational areas). The 2005 *Message from the Designers* preface notes Raël's specific recognition that "the International Raelian Movement... has become self-sustaining and could now function perfectly well without me," registering the operational maturation of the institutional movement.{{ cite(id="intelligent-design-message-from-the-designers", text="[4]", title="Vorilhon (Raël), *Intelligent Design: Message from the Designers* (2005) — preface remark on the movement's operational self-sufficiency") }}
 
 ### The figure's specific role within the cumulative prophetic tradition
 
@@ -428,7 +451,7 @@ Within the cumulative prophetic tradition, Raël occupies a specific position th
 
 Moses occupies a structurally comparable position within the Aries-age prophetic tradition. The principal comparative features:
 
-**The age-inaugural commissioning**. Moses's commissioning at the burning bush (Exodus 3) inaugurated the Aries-age direct-contact period; Raël's commissioning at the Puy-de-Lassolas inaugurated the Aquarian-age direct-contact period. Both commissionings involved direct alliance contact with a previously unremarkable figure, with the figure's subsequent mission being the principal age-defining religious-political project.
+**The age-inaugural commissioning**. Moses's commissioning at the burning bush ({% libref(book="exodus-woh", chapter=3, verse=1) %}Exodus 3{% end %}) inaugurated the Aries-age direct-contact period; Raël's commissioning at the Puy-de-Lassolas inaugurated the Aquarian-age direct-contact period. Both commissionings involved direct alliance contact with a previously unremarkable figure, with the figure's subsequent mission being the principal age-defining religious-political project.
 
 **The new-name marking**. Moses's specific name was preserved without change (though the broader Hebrew tradition has developed substantial subsequent interpretive material on the name's etymology). Raël received a new name from the alliance officer at the December 13, 1973 contact, marking the formal commissioning. The new-name marking is a recurring feature of alliance-prophet selections (Abram→Abraham, Jacob→Israel, Simon→Peter), with Raël's case continuing the pattern.
 
@@ -442,7 +465,7 @@ Moses occupies a structurally comparable position within the Aries-age prophetic
 
 Jesus occupies the structurally comparable position within the Piscean-age prophetic tradition. The principal comparative features:
 
-**The age-inaugural commissioning**. Jesus's commissioning at the Jordan baptism (Mark 1:9-11) inaugurated the Piscean-age prophetic mission; Raël's commissioning inaugurated the Aquarian-age mission. Both commissionings involved alliance-direct identification of the prophet (the Jordan voice; the Puy-de-Lassolas naming).
+**The age-inaugural commissioning**. Jesus's commissioning at the Jordan baptism ({% libref(book="mark-woh", chapter=1, verse=9) %}Mark 1:9-11{% end %}) inaugurated the Piscean-age prophetic mission; Raël's commissioning inaugurated the Aquarian-age mission. Both commissionings involved alliance-direct identification of the prophet (the Jordan voice; the Puy-de-Lassolas naming).
 
 **The biological-parentage feature**. The Christian tradition's identification of Jesus as biological son of God / the divine principle has structural parallels with Raël's biological-parentage by Yahweh. The framework reads both cases as instances of the broader pattern in which alliance-age-inaugurating prophets have biological connections to senior alliance figures.
 

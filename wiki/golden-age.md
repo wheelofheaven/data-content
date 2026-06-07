@@ -12,6 +12,61 @@ entry_type = "concept"
 alternative_names = ["the awaited Golden Age", "the Golden Age of civilization", "the earthly paradise", "the Golden Age of interplanetary civilization", "the operational Golden Age"]
 timeline = ["age-of-aquarius", "post-aquarius"]
 
+[[extra.references]]
+id = "extraterrestrials-took-me-to-their-planet"
+note = "Vorilhon's *Extra-Terrestrials Took Me to Their Planet* (1975) — principal source-textual location of the Buddhism section's 'golden age of civilization' articulation, the soteriological dual-path passage, the Society and Government / Geniocracy articulation, and the 'golden age of interplanetary civilization' framing."
+
+[[extra.references]]
+id = "intelligent-design-message-from-the-designers"
+note = "*Message from the Designers* — the consolidated English-language edition collecting the principal Vorilhon source material in which the Golden Age content is articulated."
+
+[[extra.references]]
+id = "the-book-which-tells-the-truth"
+note = "Vorilhon's *Le Livre qui dit la vérité* / *The Book Which Tells the Truth* (1974), the foundational Raëlian source preceding the *Extra-Terrestrials* volume in which the Golden Age content is principally articulated."
+
+[[extra.references]]
+id = "lets-welcome-the-extraterrestrials"
+note = "Vorilhon's *Accueillir les Extra-Terrestres* / *Let's Welcome the Extraterrestrials* (1979), addressing the embassy project and the Aquarian-age transition framework within which Golden Age realization is positioned."
+
+[[extra.references]]
+id = "theogony-and-works-and-days"
+locator = "Works and Days, lines 109–201"
+note = "Hesiod's principal articulation of the five descending ages of humanity (χρύσεον γένος / Golden race) — the originary Western articulation of 'Golden Age' terminology."
+
+[[extra.references]]
+id = "isaiah"
+locator = "Isaiah 35:5–6"
+note = "Hebrew Bible messianic-restoration passage ('the eyes of the blind shall be opened, and the ears of the deaf shall be unstopped') intertextually engaged in Vorilhon's Buddhism-section Golden Age articulation."
+
+[[extra.references]]
+id = "bhagavad-gita"
+note = "Principal Hindu textual engagement with the yuga-cycle framework (Satya / Treta / Dvapara / Kali) — the substantively closest cross-cultural structural parallel to the corpus Golden Age framework."
+
+[[extra.references]]
+id = "revelation"
+locator = "Revelation 20"
+note = "Principal New Testament textual basis for the Christian Millennialist thousand-year-reign eschatological framework engaged in the comparative section."
+
+[[extra.references]]
+id = "prose-edda"
+note = "Snorri Sturluson's *Prose Edda* (c. 1220 CE) — principal Norse source articulating Ragnarök and the post-Ragnarök regeneration of the world by Líf and Lífþrasir."
+
+[[extra.references]]
+id = "avesta"
+note = "Principal Zoroastrian textual corpus, the source basis for the Frashokereti renewal framework engaged in the comparative section."
+
+[[extra.references]]
+id = "the-qur-an"
+note = "Principal Islamic textual source standing behind the Mahdi (al-Mahdī) eschatological tradition engaged in the comparative section."
+
+[[extra.references]]
+id = "the-techno-optimist-manifesto"
+note = "Marc Andreessen, *The Techno-Optimist Manifesto* (October 2023) — principal contemporary articulation of the techno-optimistic engagement aligned with Golden Age content."
+
+[[extra.references]]
+id = "cyberparadism-manifesto"
+note = "Contemporary aesthetic-cultural articulation aligned with Golden Age content; the substantive cultural production registering Aquarian-age intuitive recognition of Golden Age possibility."
+
 [extra.infobox]
 type = "Eschatological-cosmological concept; the operational form of life that becomes available to humanity if it navigates the Aquarian-age threshold successfully"
 principal_corpus_articulation = "Vorilhon's Buddhism section in *Message from the Designers* (the substantial Buddhist-enlightenment metaphor); the substantial soteriological dual-path passage; the seven-characteristics articulation in *timeline.epub*"
@@ -26,11 +81,11 @@ status_in_framework = "Foundational eschatological-cosmological concept; the sub
 
 The **Golden Age** is, in the Wheel of Heaven framework, the operational form of life that becomes available to humanity if it navigates the Aquarian-age threshold successfully. The framework articulates the Golden Age through seven principal characteristics: the progressive elimination of material scarcity through nanotechnology and full automation; substantial longevity through biological rejuvenation and computational continuation options; the transformation of human social and political life through New Commandments implementation; computational continuation as substantive option for individual identity; the cultivation of latent cognitive capacities including telepathy; the development of a new spirituality appropriate to the scientifically mature age; and the maturation of humanity into creating-civilization status capable of extending the alliance's work to other worlds.
 
-The concept is articulated explicitly by **Claude Vorilhon** in *Message from the Designers* across two principal passages. The **Buddhism section** in *Extra-Terrestrials Took Me to Their Planet* (1975) reads Buddhist enlightenment as metaphor for *"a golden age of civilization in which science serves the people, thus producing an earthly paradise, where the blind can see and the deaf can hear by scientific means."* The substantial **soteriological passage** registers a dual-path Golden Age engagement: *"Either you will know the Golden Age on Earth because of your efforts which have contributed to world peace and the awakening of Mankind, or Humanity will destroy itself and you will know the Golden Age amongst the great prophets who are already on the planet of the Eternals."* The substantial alternative paths register two distinct Golden Age realizations — the terrestrial Golden Age via collective successful navigation, or the cosmic Golden Age via individual resurrection on the Planet of the Eternals if collective navigation fails.
+The concept is articulated explicitly by **Claude Vorilhon** in *Message from the Designers*{{ cite(id="intelligent-design-message-from-the-designers", text="[1]", title="*Message from the Designers* — the consolidated English-language Raëlian source material in which the Golden Age content is principally articulated.") }} across two principal passages. The **Buddhism section** in *Extra-Terrestrials Took Me to Their Planet* (1975) reads Buddhist enlightenment as metaphor for *"a golden age of civilization in which science serves the people, thus producing an earthly paradise, where the blind can see and the deaf can hear by scientific means."*{{ cite(id="extraterrestrials-took-me-to-their-planet", text="[2]", title="Vorilhon, *Extra-Terrestrials Took Me to Their Planet* (1975), Buddhism section — the principal direct articulation of 'golden age of civilization' terminology.") }} The substantial **soteriological passage** registers a dual-path Golden Age engagement: *"Either you will know the Golden Age on Earth because of your efforts which have contributed to world peace and the awakening of Mankind, or Humanity will destroy itself and you will know the Golden Age amongst the great prophets who are already on the planet of the Eternals."*{{ cite(id="extraterrestrials-took-me-to-their-planet", text="[2]", title="Vorilhon, *Extra-Terrestrials Took Me to Their Planet* (1975) — the soteriological dual-path passage articulating terrestrial vs. cosmic Golden Age realization.") }} The substantial alternative paths register two distinct Golden Age realizations — the terrestrial Golden Age via collective successful navigation, or the cosmic Golden Age via individual resurrection on the Planet of the Eternals if collective navigation fails.
 
-The Golden Age is distinguished carefully from several related corpus concepts. The **Age of Aquarius** designates the broader chronological-astronomical period (1950 to approximately 4110 on the corpus chronology) within which the Golden Age may emerge — but the Aquarian age is not itself the Golden Age, since the age operates as the period of the threshold-test rather than as guaranteed realization. **Apocalypse** designates the threshold-revelation moment (etymologically ἀποκάλυψις *apokalypsis*, "unveiling") that may inaugurate either the Golden Age or its catastrophic alternative — the substantive moment of revealed alliance contact at the Embassy that begins the broader Aquarian-age operational engagement. **Cyberparadism** designates the contemporary aesthetic-cultural articulation aligned with Golden Age content — the substantive cultural production registering Aquarian-age intuitive recognition of Golden Age possibility. The **Cosmic Chain** designates the broader succession framework within which Golden Age maturation operates as one stage — the substantive cosmic-civilizational pattern of created civilizations maturing into creator status. The **Eden** lab designates the originary historical Golden Age — the substantive alliance laboratory in which early humans lived in environmental-technological harmony — with the Aquarian-age Golden Age operating as recovery and extension of that originary content at planetary civilizational scale.
+The Golden Age is distinguished carefully from several related corpus concepts. The **Age of Aquarius** designates the broader chronological-astronomical period (1950 to approximately 4110 on the corpus chronology) within which the Golden Age may emerge — but the Aquarian age is not itself the Golden Age, since the age operates as the period of the threshold-test rather than as guaranteed realization. **Apocalypse** designates the threshold-revelation moment (etymologically ἀποκάλυψις *apokalypsis*, "unveiling") that may inaugurate either the Golden Age or its catastrophic alternative — the substantive moment of revealed alliance contact at the Embassy that begins the broader Aquarian-age operational engagement. **Cyberparadism** designates the contemporary aesthetic-cultural articulation aligned with Golden Age content — the substantive cultural production registering Aquarian-age intuitive recognition of Golden Age possibility.{{ cite(id="cyberparadism-manifesto", text="[13]", title="*Cyberparadism Manifesto* — contemporary aesthetic-cultural articulation aligned with Golden Age content.") }} The **Cosmic Chain** designates the broader succession framework within which Golden Age maturation operates as one stage — the substantive cosmic-civilizational pattern of created civilizations maturing into creator status. The **Eden** lab designates the originary historical Golden Age — the substantive alliance laboratory in which early humans lived in environmental-technological harmony — with the Aquarian-age Golden Age operating as recovery and extension of that originary content at planetary civilizational scale.
 
-The framework reads the term's etymology principally through **Hesiod**'s *Works and Days* (Greek Ἔργα καὶ Ἡμέραι *Erga kai Hēmerai*, c. 700 BCE), where "Golden Age" (χρύσεον γένος *chryseon genos*) designates the first of five descending ages of humanity — humanity's originary condition in environmental-divine harmony before progressive degeneration through Silver, Bronze, Heroic, and Iron ages. The framework registers a structural inversion of the Hesiodic pattern: Hesiod's Golden Age operates as the substantively past originary condition humanity has lost; the framework's anticipated Golden Age operates as the substantively future Aquarian-age operational realization. The substantive resolution: the originary Eden lab operates as the historical Golden Age aligned with Hesiod's past-orientation, with the future operational realization recovering and extending the originary content at substantively expanded planetary civilizational scale rather than principally returning to the originary form.
+The framework reads the term's etymology principally through **Hesiod**'s *Works and Days* (Greek Ἔργα καὶ Ἡμέραι *Erga kai Hēmerai*, c. 700 BCE), where "Golden Age" (χρύσεον γένος *chryseon genos*) designates the first of five descending ages of humanity — humanity's originary condition in environmental-divine harmony before progressive degeneration through Silver, Bronze, Heroic, and Iron ages.{{ cite(id="theogony-and-works-and-days", text="[3]", title="Hesiod, *Works and Days*, lines 109–201 — the originary Western articulation of the five descending ages of humanity.") }} The framework registers a structural inversion of the Hesiodic pattern: Hesiod's Golden Age operates as the substantively past originary condition humanity has lost; the framework's anticipated Golden Age operates as the substantively future Aquarian-age operational realization. The substantive resolution: the originary Eden lab operates as the historical Golden Age aligned with Hesiod's past-orientation, with the future operational realization recovering and extending the originary content at substantively expanded planetary civilizational scale rather than principally returning to the originary form.
 
 Parallel articulations of "Golden Age" or substantively equivalent eschatological-cosmological concepts operate across virtually every major civilization globally. The Greek/Roman ages of man tradition (Hesiod, Ovid, the substantial subsequent classical reception); the Hindu Satya/Treta/Dvapara/Kali yuga framework with the substantial cyclical-cosmological tradition; the Mesoamerican Long Count cycles with the substantial Mayan calendar tradition; the Buddhist Maitreya tradition articulating the future-Buddha eschatological framework; the Norse Ragnarök and post-Ragnarök regeneration; the Persian Zoroastrian Frashokereti millennial framework; the Chinese dynastic-cycle and Daoist cyclical traditions; the various indigenous "great-cleansing/renewal" prophecies (Hopi traditions, various Native American traditions, Australian Aboriginal Dreamtime, the broader cross-cultural pattern). Contemporary articulations operate principally through Kurzweil's Singularity engagement, the e/acc movement, the abundance-economy tradition (Diamandis, Kotler), and the broader "Great Awakening" cultural engagement.
 
@@ -58,7 +113,7 @@ In the Hesiodic context, the Greek term was actually **γένος** (*genos*, "r
 
 ### The Hesiodic five-age framework
 
-Hesiod's *Works and Days* (lines 109-201) articulates five descending ages of humanity:
+Hesiod's *Works and Days* (lines 109-201){{ cite(id="theogony-and-works-and-days", text="[3]", title="Hesiod, *Works and Days*, lines 109–201 — the five descending ages of humanity.") }} articulates five descending ages of humanity:
 
 1. **Golden** (χρύσεον γένος *chryseon genos*) — humanity's originary condition; lived without toil or sorrow; were "as gods"; died as if falling asleep; became "guardian-spirits" after death
 2. **Silver** (ἀργύρεον γένος *argyreon genos*) — substantial decline; lived a hundred years as children, then briefly as adults; punished by Zeus for impiety
@@ -93,7 +148,7 @@ The Golden Age is articulated principally across several distinct source-textual
 
 ### The Buddhism section articulation
 
-The principal direct articulation of "Golden Age" terminology appears in *Extra-Terrestrials Took Me to Their Planet* (1975) in the section titled "Buddhism," where Vorilhon's Eloha guide articulates the substantive metaphorical reading of Buddhist enlightenment:
+The principal direct articulation of "Golden Age" terminology appears in *Extra-Terrestrials Took Me to Their Planet* (1975) in the section titled "Buddhism,"{{ cite(id="extraterrestrials-took-me-to-their-planet", text="[2]", title="Vorilhon, *Extra-Terrestrials Took Me to Their Planet* (1975), Buddhism section.") }} where Vorilhon's Eloha guide articulates the substantive metaphorical reading of Buddhist enlightenment:
 
 > *"Buddhism explains that at the time of death, the soul of the dead person must be vigilant enough to escape numerous devils, otherwise it will be reincarnated and fall back into the cycle. On the other hand, if it manages to escape those infamous devils, it will be liberated from the cycle and attain a state of bliss through awakening.*
 >
@@ -103,7 +158,7 @@ The principal direct articulation of "Golden Age" terminology appears in *Extra-
 
 The articulation registers several substantive moves. The Buddhist "state of bliss through awakening" (substantively the *nirvana* concept across Buddhist philosophical traditions) operates substantively as metaphor for civilizational-collective rather than principally individual-religious content — the substantive Buddhist liberation from the reincarnation cycle becomes substantive civilizational liberation from the destruction-and-restart cycle. The "devils" are not supernatural beings but specific psychological-behavioral patterns (aggressiveness toward fellow humans and toward nature) that operate substantively as the substantive mechanisms producing the destruction-and-restart cycle. The "golden age" emerging from successful resistance to these patterns is characterized substantively as scientific-civilizational arrangement ("science serves the people," "earthly paradise," the substantive Isaiah-resonant "blind can see and the deaf can hear by scientific means").
 
-The substantial Isaiah-resonance deserves note. The phrase "the blind can see and the deaf can hear" registers substantive intertextual engagement with Isaiah 35:5-6 (*"Then the eyes of the blind shall be opened, and the ears of the deaf shall be unstopped. Then shall the lame man leap as an hart, and the tongue of the dumb sing"*), which operates substantively in Hebrew Bible eschatological tradition as the principal articulation of the messianic-age restoration. Vorilhon's substantive recasting reads the Isaianic content scientifically rather than supernaturally — the substantive blind seeing and deaf hearing operate substantively through scientific-medical capacity rather than through miraculous-divine intervention. The substantive recasting registers the framework's broader pattern of reading scriptural eschatological content as scientific-technological content.
+The substantial Isaiah-resonance deserves note. The phrase "the blind can see and the deaf can hear" registers substantive intertextual engagement with {% libref(book="isaiah", chapter=35, verse=5) %}Isaiah 35:5-6{% end %} (*"Then the eyes of the blind shall be opened, and the ears of the deaf shall be unstopped. Then shall the lame man leap as an hart, and the tongue of the dumb sing"*), which operates substantively in Hebrew Bible eschatological tradition as the principal articulation of the messianic-age restoration.{{ cite(id="isaiah", text="[4]", title="Isaiah 35:5–6 — Hebrew Bible messianic-restoration passage engaged intertextually in Vorilhon's Buddhism-section Golden Age articulation.") }} Vorilhon's substantive recasting reads the Isaianic content scientifically rather than supernaturally — the substantive blind seeing and deaf hearing operate substantively through scientific-medical capacity rather than through miraculous-divine intervention. The substantive recasting registers the framework's broader pattern of reading scriptural eschatological content as scientific-technological content.
 
 ### The soteriological dual-path passage
 
@@ -121,7 +176,7 @@ The substantive moral-psychological structure operates substantively against fat
 
 ### The Society and Government articulation
 
-The substantial *Extra-Terrestrials Took Me to Their Planet* "Society and Government" section articulates the Golden Age in connection with the New Commandments framework:
+The substantial *Extra-Terrestrials Took Me to Their Planet* "Society and Government" section{{ cite(id="extraterrestrials-took-me-to-their-planet", text="[2]", title="Vorilhon, *Extra-Terrestrials Took Me to Their Planet* (1975), Society and Government section — Geniocracy as political-institutional prerequisite for Golden Age realization.") }} articulates the Golden Age in connection with the New Commandments framework:
 
 > *"Just as a human body has a brain to make decisions, it is essential that society also have a government to make decisions. So you will do everything you can to set up a government that practices geniocracy, which puts intelligence in power. You will also participate in the creation of a worldwide political party advocating humanitarianism and geniocracy, as they are described in the first part of this message of the Elohim, and you will support its candidates. Only via geniocracy can humanity move fully into the golden age."*
 
@@ -129,7 +184,7 @@ The articulation registers substantive specific connection between Geniocracy im
 
 ### The "Golden Age of interplanetary civilization" framing
 
-A substantial subsequent articulation in the same source extends the Golden Age framing to interplanetary scope:
+A substantial subsequent articulation in the same source extends the Golden Age framing to interplanetary scope:{{ cite(id="extraterrestrials-took-me-to-their-planet", text="[2]", title="Vorilhon, *Extra-Terrestrials Took Me to Their Planet* (1975) — 'golden age of interplanetary civilization' framing.") }}
 
 > *"To begin with, we must correct a passage in the first message we gave you that you wrongly transcribed concerning an eventual intervention on our part to destroy humanity. It must be made clear that we will not intervene. Humanity is now arriving at a turning point in its history, and its future depends only on itself. If you can control your aggressiveness towards each other and your environment, then you will reach a golden age of interplanetary civilization, in which universal happiness and fulfillment will be realized."*
 
@@ -273,7 +328,7 @@ The Golden Age content aligns substantively with the substantive Cyberparadism a
 
 ### The Vorilhon source-textual material
 
-The Golden Age is articulated principally in *Message from the Designers* (specifically the *Extra-Terrestrials Took Me to Their Planet* second-book content) with substantial subsequent corpus contextualization in *timeline.epub*. The detailed treatment of the broader Vorilhon source material lives in the [Raël](../rael/) and [Message from the Designers](../message-from-the-designers/) entries.
+The Golden Age is articulated principally in *Message from the Designers*{{ cite(id="intelligent-design-message-from-the-designers", text="[1]", title="*Message from the Designers* — consolidated English-language Raëlian source.") }} (specifically the *Extra-Terrestrials Took Me to Their Planet* second-book content){{ cite(id="extraterrestrials-took-me-to-their-planet", text="[2]", title="Vorilhon, *Extra-Terrestrials Took Me to Their Planet* (1975) — principal source-textual location of Golden Age articulation.") }} with substantial subsequent corpus contextualization in *timeline.epub*. The broader Raëlian source material includes *The Book Which Tells the Truth* (1974){{ cite(id="the-book-which-tells-the-truth", text="[11]", title="Vorilhon, *The Book Which Tells the Truth* (1974) — foundational Raëlian source preceding the Golden Age articulation.") }} and *Let's Welcome the Extraterrestrials* (1979).{{ cite(id="lets-welcome-the-extraterrestrials", text="[12]", title="Vorilhon, *Let's Welcome the Extraterrestrials* (1979) — addressing the embassy project and the Aquarian-age transition within which Golden Age realization is positioned.") }} The detailed treatment of the broader Vorilhon source material lives in the [Raël](../rael/) and [Message from the Designers](../message-from-the-designers/) entries.
 
 ### The Planet of the Eternals
 
@@ -307,7 +362,7 @@ The substantial Hindu yuga-cycle framework articulates the substantively closest
 
 The substantial cyclical framework: substantive Kali Yuga substantively concludes; substantive new Satya Yuga substantively begins; the substantial cycle substantively repeats across substantively cosmic timescales (the substantial *mahā-yuga* operating as substantive complete four-age cycle of approximately 4,320,000 years).
 
-The substantial subsequent Hindu engagement extends substantially across two-and-a-half millennia of substantive substantive philosophical-religious tradition. The substantial principal textual engagements: the substantial Bhagavad Gita engagement; the substantial Mahabharata engagement; the substantial Puranic engagements (Bhagavata Purana, Vishnu Purana, the broader Puranic tradition); the substantial Manusmriti engagement; the substantial subsequent commentary tradition.
+The substantial subsequent Hindu engagement extends substantially across two-and-a-half millennia of substantive substantive philosophical-religious tradition. The substantial principal textual engagements: the substantial Bhagavad Gita engagement;{{ cite(id="bhagavad-gita", text="[5]", title="*Bhagavad Gita* — principal Hindu textual engagement with the yuga-cycle framework.") }} the substantial Mahabharata engagement; the substantial Puranic engagements (Bhagavata Purana, Vishnu Purana, the broader Puranic tradition); the substantial Manusmriti engagement; the substantial subsequent commentary tradition.
 
 The substantial mainstream Indological scholarship (Wendy Doniger, Gavin Flood, the substantial broader scholarly tradition) engages the substantial yuga-cycle framework substantively as substantive substantial cyclical-cosmological framework with substantive substantial cross-cultural engagement.
 
@@ -342,13 +397,13 @@ The substantial Islamic **Mahdi** (Arabic المهدي *al-Mahdī*, "the rightly
 
 **Shia Mahdi tradition** (substantively most substantively developed in Twelver Shi'ism). The substantial substantive Twelfth Imam, Muhammad al-Mahdi, substantially substantively occulted (in substantive substantial *Ghaybah*) since substantive substantive 874 CE, substantively substantially substantively returns at substantive substantial future moment, substantively substantially establishes substantive substantial just substantive substantive Islamic governance, substantively inaugurates substantive substantial subsequent flourishing.
 
-The substantial subsequent textual-traditional engagement operates substantively across substantively substantial Hadith tradition, substantial subsequent Islamic-eschatological scholarship, substantial substantive substantive contemporary Islamic-eschatological engagement.
+The substantial subsequent textual-traditional engagement operates substantively across substantively substantial Hadith tradition, substantial subsequent Islamic-eschatological scholarship, substantial substantive substantive contemporary Islamic-eschatological engagement.{{ cite(id="the-qur-an", text="[8]", title="*The Qur'an* — principal Islamic textual source standing behind the Mahdi (al-Mahdī) eschatological tradition.") }}
 
 The substantial framework's relationship registers as **substantive future-eschatological parallel** with substantive distinct cultural-religious framing.
 
 ### The Christian Millennialist traditions
 
-The substantial Christian **Millennialist** traditions articulate substantive substantial substantive thousand-year-reign eschatological frameworks principally through substantive substantial Revelation 20 engagement. The substantial principal positions:
+The substantial Christian **Millennialist** traditions articulate substantive substantial substantive thousand-year-reign eschatological frameworks principally through substantive substantial {% libref(book="revelation", chapter=20) %}Revelation 20{% end %} engagement.{{ cite(id="revelation", text="[9]", title="Revelation 20 — principal New Testament textual basis for the Christian Millennialist thousand-year-reign framework.") }} The substantial principal positions:
 
 **Premillennialism**. Substantive substantive Christ substantially substantively returns substantively *before* substantive substantial thousand-year reign; substantive substantial substantive subsequent thousand-year period operates substantively under substantive substantial substantive Christ's direct rule. The substantial principal contemporary articulation operates through substantive substantial Dispensational Premillennialism (substantive Darby, Scofield, the substantial subsequent evangelical tradition).
 
@@ -380,7 +435,7 @@ The substantial contemporary techno-utopian engagement articulates substantive s
 
 **The substantial abundance-economy tradition** principally articulated through substantive substantial **Peter Diamandis** and **Steven Kotler**'s substantial *Abundance: The Future Is Better Than You Think* (Free Press, 2012) articulates substantive substantial substantive techno-economic arrangement positioning substantive substantial substantive imminent abundance-arrangement through substantive substantial substantive technology-driven cost-reduction across substantial principal life-quality dimensions.
 
-The substantial broader contemporary techno-utopian engagement (Marc Andreessen's *Techno-Optimist Manifesto*, October 2023; the substantive substantive substantive substantial broader contemporary cultural engagement) registers substantive substantial substantive cultural moment of substantive substantive substantive substantial techno-optimistic articulation against substantive substantive substantive substantive dominant techno-pessimism of preceding period.
+The substantial broader contemporary techno-utopian engagement (Marc Andreessen's *Techno-Optimist Manifesto*, October 2023;{{ cite(id="the-techno-optimist-manifesto", text="[10]", title="Marc Andreessen, *The Techno-Optimist Manifesto* (October 2023) — principal contemporary articulation of techno-optimistic engagement aligned with Golden Age content.") }} the substantive substantive substantive substantial broader contemporary cultural engagement) registers substantive substantial substantive cultural moment of substantive substantive substantive substantial techno-optimistic articulation against substantive substantive substantive substantive dominant techno-pessimism of preceding period.
 
 The substantial framework's relationship to substantive contemporary techno-utopian engagement registers as **substantive substantive substantive substantial contemporary cultural-aesthetic articulation aligned with Golden Age content**:
 
@@ -431,7 +486,7 @@ Treated principally above in *Modern reinterpretations*. The substantial Buddhis
 
 ### The Norse Ragnarök and post-Ragnarök regeneration
 
-The substantial Norse **Ragnarök** tradition (Old Norse *Ragnarǫk*, "Doom of the Gods"; sometimes *Ragnarøkkr*, "Twilight of the Gods") articulates substantive substantial substantive eschatological-cosmological framework principally through substantive substantial *Völuspá* (substantive substantial *Poetic Edda* opening poem, c. 10th century CE in extant manuscript tradition) and substantive substantial *Gylfaginning* (substantive substantial Snorri Sturluson's *Prose Edda*, c. 1220 CE).
+The substantial Norse **Ragnarök** tradition (Old Norse *Ragnarǫk*, "Doom of the Gods"; sometimes *Ragnarøkkr*, "Twilight of the Gods") articulates substantive substantial substantive eschatological-cosmological framework principally through substantive substantial *Völuspá* (substantive substantial *Poetic Edda* opening poem, c. 10th century CE in extant manuscript tradition) and substantive substantial *Gylfaginning* (substantive substantial Snorri Sturluson's *Prose Edda*, c. 1220 CE).{{ cite(id="prose-edda", text="[6]", title="Snorri Sturluson, *Prose Edda* (c. 1220 CE) — principal Norse source for Ragnarök and post-Ragnarök regeneration.") }}
 
 The substantial principal articulation: substantive substantial cosmic-civilizational catastrophe (Ragnarök) culminates substantive substantial Norse cosmic-civilizational arrangement; substantive substantial subsequent regeneration produces substantive substantial substantive new world arrangement with substantive substantial substantive substantive substantive substantive substantial new generation of gods (substantive substantial **Líf** and **Lífþrasir**, substantive substantial substantive surviving humans repopulating substantive substantial substantive substantive substantive new-world arrangement) and substantive substantial substantive substantive substantive subsequent substantive substantial flourishing.
 
@@ -441,7 +496,7 @@ The substantial framework's relationship registers as **substantive substantive 
 
 The substantial Zoroastrian **Frashokereti** tradition (Avestan *frašō.kərəti*, "making wonderful, renovation") articulates substantive substantial Persian eschatological framework. The substantial principal articulation: substantive substantial cosmic-temporal trajectory toward substantive substantial culminating substantive substantial substantive substantive substantive renewal moment at which substantive substantial Ahura Mazda substantively substantively substantially substantively substantively substantively substantively substantively substantively substantively substantively defeats substantively substantively substantively substantively substantively substantively substantively substantively substantively substantively Angra Mainyu, substantive substantial evil substantively eliminated, substantive substantial righteous resurrected, substantive substantial substantive substantive substantive substantive substantive substantial new-world arrangement substantively substantively substantively substantively substantively substantively substantively substantively substantively substantively substantively substantively substantively substantively inaugurated.
 
-The substantial subsequent Zoroastrian engagement extends substantially across substantively substantial Pahlavi-period engagement (substantive substantial *Bundahishn*, substantive substantial *Dēnkard*, substantive substantial broader Pahlavi tradition) and substantive substantial subsequent Zoroastrian-religious tradition.
+The substantial subsequent Zoroastrian engagement extends substantially across substantively substantial Pahlavi-period engagement (substantive substantial *Bundahishn*, substantive substantial *Dēnkard*, substantive substantial broader Pahlavi tradition) and substantive substantial subsequent Zoroastrian-religious tradition.{{ cite(id="avesta", text="[7]", title="*Avesta* — principal Zoroastrian textual corpus standing behind the Frashokereti renewal framework.") }}
 
 The substantial historical influence registers substantive substantial substantive influence on substantive substantial subsequent Abrahamic eschatological frameworks (substantial Jewish apocalyptic, substantive substantial Christian Revelation, substantive substantial Islamic eschatology) — substantive substantial scholarly engagement (substantive substantial **Mary Boyce**'s substantial work, substantive substantive substantial broader scholarly tradition) registers substantive substantial substantive Persian-Zoroastrian eschatological influence on substantive substantial broader Western eschatological tradition.
 

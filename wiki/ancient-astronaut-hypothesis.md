@@ -12,6 +12,62 @@ entry_type = "concept"
 alternative_names = ["Ancient Astronaut Hypothesis", "Ancient Astronaut Theory", "Ancient Aliens hypothesis", "paleocontact hypothesis", "extraterrestrial-intervention hypothesis", "ancient-extraterrestrial-hypothesis"]
 timeline = ["age-of-aquarius"]
 
+[[extra.references]]
+id = "those-gods-who-made-heaven-and-earth"
+note = "Jean Sendy's *Ces dieux qui firent le ciel et la terre* (1969) — principal pre-Vorilhon textual reading of the Hebrew Bible's *Elohim* as a physical extraterrestrial civilization."
+
+[[extra.references]]
+id = "the-coming-of-the-gods"
+note = "Sendy's *L'Ère du Verseau* (1970) — Aquarian-age framing adopted by the corpus as a principal Sendy source-text."
+
+[[extra.references]]
+id = "hamlets-mill"
+note = "Santillana and von Dechend (1969) — precessional-framework analysis adopted by the corpus as the structural organizing principle for the alliance's work on Earth."
+
+[[extra.references]]
+id = "fingerprints-of-the-gods"
+note = "Graham Hancock (1995) — principal contemporary alternative-archaeology engagement intersecting the Ancient Astronaut tradition."
+
+[[extra.references]]
+id = "intelligent-design-message-from-the-designers"
+note = "Consolidated Vorilhon/Raël material (2005) — primary corpus source-textual basis grounding the framework's adopted reading."
+
+[[extra.references]]
+id = "the-book-which-tells-the-truth"
+note = "Vorilhon (Raël), *Le Livre qui dit la vérité* (1974) — the inaugural 1973 Puy-de-Lassolas contact."
+
+[[extra.references]]
+id = "extraterrestrials-took-me-to-their-planet"
+note = "Vorilhon (Raël) (1975/1976) — the Périgord visit and the home-planet exposition."
+
+[[extra.references]]
+id = "lets-welcome-the-extraterrestrials"
+note = "Vorilhon (Raël), *Accueillir les Extra-Terrestres* (1979) — the embassy project and the Aquarian transition."
+
+[[extra.references]]
+id = "the-bible-is-not-a-sacred-book"
+note = "Mauro Biglino's strict-literal Hebrew Bible series (2010– / 2011 Italian) — contemporary textual-philological engagement methodologically closer to corpus discipline than broader popularizers."
+
+[[extra.references]]
+id = "the-naked-bible"
+note = "Biglino and Cattaneo (2022) — strict-literal Hebrew Bible survey extending the Biglino method."
+
+[[extra.references]]
+id = "escaping-from-eden"
+note = "Paul Anthony Wallis (2020) — contemporary engagement reading the Hebrew Bible's plural *Elohim* as the Sumerian Sky People."
+
+[[extra.references]]
+id = "the-scars-of-eden"
+note = "Wallis (2021) — continuation of the *Escaping from Eden* engagement; cross-cultural Hebrew Bible corruption thesis."
+
+[[extra.references]]
+id = "echoes-of-eden"
+note = "Wallis (2021) — further extension of the comparative cuneiform-Hebrew reading."
+
+[[extra.references]]
+id = "ancient-apocalypse"
+note = "Graham Hancock's 2022 Netflix series — contemporary popular alternative-archaeology engagement intersecting the Ancient Astronaut tradition."
+
 [extra.infobox]
 type = "Interpretive tradition / methodological category proposing extraterrestrial influence on prehistoric and ancient human development"
 principal_period = "Modern formulation: 1950s-present; broader antecedents in late nineteenth-century occult tradition and earlier speculative engagement"
@@ -29,8 +85,8 @@ The **Ancient Astronaut Hypothesis** (also known as **Ancient Aliens**, the **pa
 The Wheel of Heaven framework operates substantively **within this broader interpretive tradition** while diverging from it methodologically in several respects:
 
 - The corpus is grounded primarily in the **direct Vorilhon revelation** (December 13, 1973 contact with the **Elohim** alliance at Puy-de-Lassolas, Auvergne, France) rather than in speculative interpretation of ancient evidence
-- The corpus integrates the **Sendy framework** (Jean Sendy's *Les dieux nous sont nés*, 1968, *Ces dieux qui firent le ciel et la terre*, 1969, and *L'Ère du Verseau*, 1970) with the Vorilhon material in a systematic synthesis — Sendy operates as one of the corpus's three principal source-traditions alongside Vorilhon and the contemporary *timeline.epub* corpus engagement
-- The corpus adopts the ***Hamlet's Mill*** precessional framework (Giorgio de Santillana and Hertha von Dechend's 1969 *Hamlet's Mill: An Essay Investigating the Origins of Human Knowledge and Its Transmission Through Myth*) as the structural organizing principle for the alliance's work on Earth across approximately twenty-five thousand years
+- The corpus integrates the **Sendy framework** (Jean Sendy's *Les dieux nous sont nés*, 1968, *Ces dieux qui firent le ciel et la terre*, 1969,{{ cite(id="those-gods-who-made-heaven-and-earth", text="[1]", title="Sendy, *Ces dieux qui firent le ciel et la terre* (1969) / *Those Gods Who Made Heaven and Earth* (1972)") }} and *L'Ère du Verseau*, 1970){{ cite(id="the-coming-of-the-gods", text="[2]", title="Sendy, *L'Ère du Verseau* (1970) / *The Coming of the Gods* (1973)") }} with the Vorilhon material in a systematic synthesis — Sendy operates as one of the corpus's three principal source-traditions alongside Vorilhon and the contemporary *timeline.epub* corpus engagement
+- The corpus adopts the ***Hamlet's Mill*** precessional framework (Giorgio de Santillana and Hertha von Dechend's 1969 *Hamlet's Mill: An Essay Investigating the Origins of Human Knowledge and Its Transmission Through Myth*){{ cite(id="hamlets-mill", text="[3]", title="de Santillana and von Dechend, *Hamlet's Mill* (1969) — precessional framework") }} as the structural organizing principle for the alliance's work on Earth across approximately twenty-five thousand years
 - The corpus operates under a **disciplined epistemic-pluralism methodology** that distinguishes (1) direct source claims, (2) comparative observations, (3) corpus interpretations, and (4) speculative inference at every interpretive move
 
 The broader Ancient Astronaut Hypothesis tradition includes substantial principal figures across multiple generations of scholarship and popular engagement:
@@ -160,7 +216,7 @@ The substantive substantial academic-skeptical engagement during substantive sub
 The substantive substantial 1990s-2000s period registers substantive substantial continued popular Ancient Astronaut engagement alongside substantive substantial academic-skeptical response.
 
 - **David Hatcher Childress** (1957– ) — substantive substantial extensive publications across substantive ancient mysteries and alternative history; substantive substantial principal substantive subsequent popularizer.
-- **Graham Hancock** (1950– ) — *Fingerprints of the Gods* (1995) and substantive substantial subsequent works substantively engage substantive substantial broader alternative-archaeology engagement with substantive substantial various ancient-astronaut-adjacent content. Hancock substantively does not principally engage substantive substantial extraterrestrial-contact content but substantive substantial work intersects substantive substantial ancient-astronaut tradition substantively.
+- **Graham Hancock** (1950– ) — *Fingerprints of the Gods* (1995){{ cite(id="fingerprints-of-the-gods", text="[4]", title="Hancock, *Fingerprints of the Gods* (1995) — principal contemporary alternative-archaeology engagement") }} and substantive substantial subsequent works substantively engage substantive substantial broader alternative-archaeology engagement with substantive substantial various ancient-astronaut-adjacent content. Hancock substantively does not principally engage substantive substantial extraterrestrial-contact content but substantive substantial work intersects substantive substantial ancient-astronaut tradition substantively.
 - **Robert Bauval** (1948– ) — substantive substantial various Egyptian-engagement publications including *The Orion Mystery* (1994, with Adrian Gilbert) substantively proposing substantive substantial Giza pyramid alignment with substantive Orion's Belt stars.
 
 ### 2009-present: Ancient Aliens television and broader popular reach
@@ -178,7 +234,7 @@ The substantive substantial contemporary 2010s-2020s period registers substantiv
 
 - **Mauro Biglino** (1950– ) — Italian translator and author; substantive *Il libro che cambierà per sempre le nostre idee sulla Bibbia* (*The Book That Will Forever Change Our Ideas About the Bible*, 2011) and substantive substantial subsequent works. Biglino's substantive substantial methodology: substantive substantial direct Hebrew-textual engagement; substantive 17-year career as substantive Vatican Pauline Editions Hebrew Bible translator before substantive substantial subsequent independent engagement. Substantive substantial Biglino operates substantively as substantive substantial methodologically-distinctive contemporary engagement with substantive substantial textual-philological focus more aligned with substantive corpus methodology than substantive substantial broader popularizer engagement.
 - **Paul Anthony Wallis** — Australian author; substantive *Escaping from Eden: Does Genesis Teach that the Human Race was Created by God or Engineered by ETs?* (2020), *The Scars of Eden: Has the Original Bible Story Been Corrupted by Humans?* (2021), substantive substantial various subsequent works. Substantive substantial Wallis operates substantively as substantive substantial contemporary engagement with substantive substantial focus on substantive substantial Hebrew Bible content.
-- **Claude Vorilhon (Raël)** — substantive Raëlian Movement (founded 1973) substantively operates substantively as substantive substantial principal religious-organizational engagement with substantive substantial Elohim-creator framework. The substantive substantial Vorilhon material operates substantively as substantive substantial primary corpus source-textual basis.
+- **Claude Vorilhon (Raël)** — substantive Raëlian Movement (founded 1973) substantively operates substantively as substantive substantial principal religious-organizational engagement with substantive substantial Elohim-creator framework. The substantive substantial Vorilhon material operates substantively as substantive substantial primary corpus source-textual basis.{{ cite(id="intelligent-design-message-from-the-designers", text="[5]", title="Vorilhon (Raël), *Intelligent Design: Message from the Designers* (consolidated 2005) — primary corpus source-textual basis") }}
 - **The substantive substantial broader contemporary alternative-history community** — substantive substantial various authors, podcasters, YouTube content creators, conferences substantively continuing substantive substantial Ancient Astronaut tradition engagement.
 
 ## Principal proponents
@@ -282,7 +338,7 @@ Substantive substantial corpus position on Sitchin: Sitchin operates substantive
 
 **Mauro Biglino** operates as substantive substantial principal contemporary methodologically-distinctive Ancient Astronaut engagement. Italian author; substantive 17-year career (1990s-2010s) as substantive Vatican Pauline Editions Hebrew Bible translator before substantive substantial subsequent independent engagement. Substantive substantial principal works:
 
-- *Il libro che cambierà per sempre le nostre idee sulla Bibbia* (*The Book That Will Forever Change Our Ideas About the Bible*, 2011)
+- *Il libro che cambierà per sempre le nostre idee sulla Bibbia* (*The Book That Will Forever Change Our Ideas About the Bible*, 2011){{ cite(id="the-bible-is-not-a-sacred-book", text="[6]", title="Biglino, strict-literal Hebrew Bible series (2010 onward) — *Elohim* as plurality of physical beings") }}
 - *Antico e Nuovo Testamento: Libri senza Dio* (*Old and New Testament: Books Without God*, 2012)
 - *La Bibbia non parla di Dio* (*The Bible Doesn't Speak of God*, 2015)
 - Numerous subsequent works
@@ -295,8 +351,8 @@ Substantive substantial corpus position on Biglino: Biglino operates substantive
 
 **Paul Anthony Wallis** is substantive substantial Australian contemporary author engaging substantive Ancient Astronaut content. Substantive substantial principal works:
 
-- *Escaping from Eden: Does Genesis Teach that the Human Race was Created by God or Engineered by ETs?* (2020)
-- *The Scars of Eden: Has the Original Bible Story Been Corrupted by Humans?* (2021)
+- *Escaping from Eden: Does Genesis Teach that the Human Race was Created by God or Engineered by ETs?* (2020){{ cite(id="escaping-from-eden", text="[7]", title="Wallis, *Escaping from Eden* (2020) — comparative reading of the Hebrew Bible's *Elohim* as the Sumerian Sky People") }}
+- *The Scars of Eden: Has the Original Bible Story Been Corrupted by Humans?* (2021){{ cite(id="the-scars-of-eden", text="[8]", title="Wallis, *The Scars of Eden* (2021) — cross-cultural Hebrew Bible corruption thesis") }}
 - Substantial subsequent works and substantial substantive podcast engagement
 
 Wallis substantively focuses on substantive substantial Hebrew Bible content from substantive substantial perspective substantively informed by substantive Biglino-style textual engagement.
@@ -460,7 +516,7 @@ Substantive substantial alternative-history adjacent traditions operate substant
 
 - **Theosophical Society and broader esoteric tradition** — substantive substantial Helena Blavatsky founding-engagement (treated above in *Historical development*); substantive substantial Annie Besant, substantive substantial Charles Webster Leadbeater, substantive substantial Rudolf Steiner (founding Anthroposophy), substantive substantial Alice Bailey, substantive substantial various others. Substantive substantial detailed treatment of Theosophical context lives in the [Forerunners](../forerunners/) entry.
 - **Atlantis tradition** — substantive Plato's *Critias* and *Timaeus* originating tradition; substantive substantial Edgar Cayce (1877-1945) "sleeping prophet" engagement; substantive substantial Ignatius Donnelly (1831-1901) *Atlantis: The Antediluvian World* (1882); substantive substantial various contemporary Atlantis engagement.
-- **Graham Hancock and substantive substantial broader alternative-archaeology** — substantive *Fingerprints of the Gods* (1995), *Magicians of the Gods* (2015), *America Before* (2019); substantive substantial Netflix *Ancient Apocalypse* (2022). Hancock substantively does not principally engage substantive substantial extraterrestrial-contact content but substantive substantial work intersects substantively.
+- **Graham Hancock and substantive substantial broader alternative-archaeology** — substantive *Fingerprints of the Gods* (1995), *Magicians of the Gods* (2015), *America Before* (2019); substantive substantial Netflix *Ancient Apocalypse* (2022).{{ cite(id="ancient-apocalypse", text="[9]", title="Hancock, *Ancient Apocalypse* (Netflix, 2022) — contemporary popular alternative-archaeology series") }} Hancock substantively does not principally engage substantive substantial extraterrestrial-contact content but substantive substantial work intersects substantively.
 - **Various other alternative-history engagement** — substantive substantial Robert Bauval, substantive substantial John Anthony West, substantive substantial various other figures.
 
 ### Science-fiction tradition
@@ -569,7 +625,7 @@ The substantive substantial cross-cultural distribution of sky-visitor tradition
 Substantial cross-cultural divine-descent traditions register substantive substantial parallel content:
 
 - Greek divine-mortal hybrid offspring (substantive substantial Heracles, substantive Perseus, substantive substantial various heroes)
-- Hebrew Bible *bnei ha-elohim* / *nephilim* content (Genesis 6:1-4)
+- Hebrew Bible *bnei ha-elohim* / *nephilim* content ({% libref(book="genesis-woh", chapter=6, verse=1) %}Genesis 6:1-4{% end %})
 - Mesopotamian divine-human hybrid content (substantive substantial Gilgamesh as substantive substantial two-thirds divine)
 - Indian devas-and-asuras with substantive substantial various divine-mortal engagement
 - Various other traditions

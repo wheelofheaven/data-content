@@ -22,6 +22,43 @@ see_also = [
 ]
 timeline = ["aquarius"]
 
+[[extra.references]]
+id = "the-book-which-tells-the-truth"
+note = "Foundational 1974 Raëlian text recording the December 13, 1973 first contact at Clermont-Ferrand and the principal teaching from Yahweh."
+
+[[extra.references]]
+id = "extraterrestrials-took-me-to-their-planet"
+note = "Vorilhon's 1976 second book, recording the October 7, 1975 second contact and the visit to the Planet of the Eternals."
+
+[[extra.references]]
+id = "lets-welcome-the-extraterrestrials"
+note = "Vorilhon's 1979 third book, addressing the embassy project, the previously-withheld biological-parentage disclosure, and the Aquarian transition."
+
+[[extra.references]]
+id = "intelligent-design-message-from-the-designers"
+note = "The 2005 consolidated English edition collecting the three foundational books as *Message from the Designers* — principal contemporary access point to the Raëlian source material."
+
+[[extra.references]]
+id = "rael-dot-org"
+note = "Principal official website of the International Raëlian Movement; institutional self-presentation and contemporary communications."
+
+[[extra.references]]
+id = "genesis"
+locator = "Genesis 1"
+note = "The Hebrew Bible's first creation account, read in the Raëlian framework as preserving substantively accurate memory of the Elohim civilization's genetic-engineering creation work."
+
+[[extra.references]]
+id = "those-gods-who-made-heaven-and-earth"
+note = "Jean Sendy's 1969 philological-historiographic reading of the Hebrew Bible's Elohim as embodied extraterrestrial beings — independent scholarly antecedent of the Raëlian reading."
+
+[[extra.references]]
+id = "the-bible-is-not-a-sacred-book"
+note = "Mauro Biglino's strict-literal Hebrew Bible series (2010 onward) — independent philological convergence on the Elohim-as-plurality-of-physical-beings reading."
+
+[[extra.references]]
+id = "escaping-from-eden"
+note = "Paul Anthony Wallis's 2020 comparative-cuneiform reading of the Hebrew Bible's Elohim as the Sumerian Sky People — third independent scholarly convergence with the Raëlian framework."
+
 [extra.infobox]
 type = "Religious-philosophical movement; explicitly atheist religion based on extraterrestrial-creator framework; institutional vehicle for the embassy project and broader Aquarian-age preparation"
 founded = "1974 (MADECH); 1976 (International Raëlian Movement)"
@@ -148,14 +185,14 @@ The primary-source material on Raëlism is substantial and contemporary, compris
 
 The principal source material for Raëlism's doctrinal content is the body of Raël's published works:
 
-- ***The Book Which Tells the Truth*** (1974) — recording the December 13, 1973 contact and the principal teaching
-- ***Extra-Terrestrials Took Me to Their Planet*** (1975/76) — recording the October 7, 1975 second contact and the visit to the Planet of the Eternals
-- ***Let's Welcome the Extra-terrestrials*** (1979) — including the previously-withheld biological-parentage disclosure and substantial subsequent material
+- ***The Book Which Tells the Truth*** (1974) — recording the December 13, 1973 contact and the principal teaching{{ cite(id="the-book-which-tells-the-truth", text="[1]", title="Vorilhon (Raël), *The Book Which Tells the Truth* (1974) — first contact at Clermont-Ferrand") }}
+- ***Extra-Terrestrials Took Me to Their Planet*** (1975/76) — recording the October 7, 1975 second contact and the visit to the Planet of the Eternals{{ cite(id="extraterrestrials-took-me-to-their-planet", text="[2]", title="Vorilhon (Raël), *Extraterrestrials Took Me to Their Planet* (1976) — the Périgord visit") }}
+- ***Let's Welcome the Extra-terrestrials*** (1979) — including the previously-withheld biological-parentage disclosure and substantial subsequent material{{ cite(id="lets-welcome-the-extraterrestrials", text="[3]", title="Vorilhon (Raël), *Let's Welcome the Extraterrestrials* (1979) — embassy project and Aquarian transition") }}
 - ***{% wiki(slug="geniocracy") %}Geniocracy{% end %}*** (1978) — substantial elaboration of the first new commandment
 - ***Sensual Meditation*** (1980) — meditation practices designed by the Elohim
 - ***Yes to Human Cloning*** (2000) — engagement with the cloning question
 - ***The Maitreya*** (anthology) — collection of Raël's teachings across the post-1973 decades
-- ***Message from the Designers*** (2005 consolidated English edition) — principal contemporary access point to the principal source material
+- ***Message from the Designers*** (2005 consolidated English edition) — principal contemporary access point to the principal source material{{ cite(id="intelligent-design-message-from-the-designers", text="[4]", title="Vorilhon (Raël), *Intelligent Design: Message from the Designers* (2005 consolidated English edition)") }}
 
 The combined source-material corpus has been translated into approximately thirty languages, with over two million copies sold worldwide as of the 2005 publication of the consolidated English edition.
 
@@ -164,7 +201,7 @@ The combined source-material corpus has been translated into approximately thirt
 The Raëlian movement's institutional records provide substantial documentary basis for the movement's institutional history:
 
 - **Movement publications**: *Apocalypse* (international glossy magazine, semi-annual); *Contact* (weekly e-newsletter through raelianews.org)
-- **Institutional websites**: rael.org (principal Raëlian movement website), elohimembassy.org (embassy project), various subsidiary organization websites
+- **Institutional websites**: rael.org (principal Raëlian movement website),{{ cite(id="rael-dot-org", text="[5]", title="rael.org — official International Raëlian Movement website") }} elohimembassy.org (embassy project), various subsidiary organization websites
 - **Annual seminars and gatherings**: Documented seminars across multiple continents, with substantial photographic and video records preserved
 - **Internal communications**: Various levels of internal Raëlian-movement communications across the institutional hierarchy
 
@@ -200,7 +237,7 @@ Various subsequent Raëlian-movement communications across the post-1997 period 
 
 The doctrinal framework of Raëlism comprises several interrelated components:
 
-**The Elohim creation framework**. The Elohim civilization, an advanced biological civilization 25,000 years in advance of contemporary human science, created all life on Earth through deliberate genetic engineering across the past 25,000 years. The Hebrew {% wiki(slug="bible") %}Bible{% end %}'s Genesis 1 creation narrative preserves substantively accurate memory of this creation work in pre-scientific vocabulary; the elohim of the Hebrew text refer to multiple individuals (the Elohim civilization) rather than to a single deity. The Elohim are not gods in any supernatural sense; they are advanced beings of human kind, themselves created by a prior civilization in the broader Cosmic Chain.
+**The Elohim creation framework**. The Elohim civilization, an advanced biological civilization 25,000 years in advance of contemporary human science, created all life on Earth through deliberate genetic engineering across the past 25,000 years. The Hebrew {% wiki(slug="bible") %}Bible{% end %}'s Genesis 1 creation narrative preserves substantively accurate memory of this creation work in pre-scientific vocabulary; the elohim of the Hebrew text refer to multiple individuals (the Elohim civilization) rather than to a single deity.{{ cite(id="genesis", text="[6]", title="Genesis 1 — the plural-subject creation account read as the Elohim civilization's work") }} The Elohim are not gods in any supernatural sense; they are advanced beings of human kind, themselves created by a prior civilization in the broader Cosmic Chain.
 
 **The cumulative prophetic tradition**. The alliance has sent approximately forty prophets across human history, with each prophet appropriate to the specific cultural-temporal moment at which they appeared and each contributing to the cumulative preparation of humanity for the Aquarian-age revelation. Moses, Jesus, Muhammad, Buddha, Zarathustra, and various other principal prophetic figures across world religions are read as alliance-appointed teachers who delivered substantively accurate content within the cultural-religious vocabularies available to them. Raël is the last of this cumulative prophetic tradition, the specific Aquarian-age figure whose mission delivers the accurate account of human origins to a scientifically mature humanity.
 
@@ -238,7 +275,7 @@ The seven new commandments structure the broader Aquarian-age political-religiou
 
 **1. Geniocracy** — selective democracy with intelligence-based eligibility for office (50% above mean) and voting (10% above mean); positioned as long-term developmental target rather than immediate institutional change
 
-**2. {% wiki(slug="humanitarianism") %}Humanitarianism{% end %}** — replacement of property ownership with renting for finite terms (49 years, drawn from Leviticus 25 jubilee pattern); elimination of inheritable wealth while preserving individual incentive structure
+**2. {% wiki(slug="humanitarianism") %}Humanitarianism{% end %}** — replacement of property ownership with renting for finite terms (49 years, drawn from {% libref(book="leviticus", chapter=25) %}Leviticus 25{% end %} jubilee pattern); elimination of inheritable wealth while preserving individual incentive structure
 
 **3. World government** — unified planetary authority with single global currency, single common second language alongside local mother tongues, single coordinating framework for planetary-level issues
 
@@ -370,7 +407,7 @@ The Wheel of Heaven corpus is operationally distinct from Raëlism. The corpus e
 
 The Wheel of Heaven framework (the corpus's distinctive interpretive contribution) is distinct from Raëlism (the religious-philosophical movement) in several specific respects:
 
-- The corpus's framework draws substantially on Jean Sendy's broader work, the Hamlet's Mill astronomical-mythological framework, Mauro Biglino's strict-translational engagement with the Hebrew Bible, Paul Anthony Wallis's broader alliance-mediated history, and various other scholarly sources beyond the Raëlian source material itself
+- The corpus's framework draws substantially on Jean Sendy's broader work,{{ cite(id="those-gods-who-made-heaven-and-earth", text="[7]", title="Sendy, *Ces dieux qui firent le ciel et la terre* / *Those Gods Who Made Heaven and Earth* (1969/1972)") }} the Hamlet's Mill astronomical-mythological framework, Mauro Biglino's strict-translational engagement with the Hebrew Bible,{{ cite(id="the-bible-is-not-a-sacred-book", text="[8]", title="Biglino, strict-literal Hebrew Bible series (2010 onward)") }} Paul Anthony Wallis's broader alliance-mediated history,{{ cite(id="escaping-from-eden", text="[9]", title="Wallis, *Escaping from Eden* (2020) and subsequent comparative-cuneiform volumes") }} and various other scholarly sources beyond the Raëlian source material itself
 - The corpus's framework develops substantially the precessional-age framework's twelve-age elaboration, which the Raëlian source material gestures at but does not systematically develop
 - The corpus's framework develops the doubled-signature principle systematically across the twelve ages, which is not present in the Raëlian source material
 - The corpus's framework engages substantially with cross-cultural comparative material that the Raëlian source material does not directly engage
