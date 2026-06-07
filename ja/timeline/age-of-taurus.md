@@ -1,105 +1,500 @@
 +++
+title = "牡牛座の時代"
+description = "大年の第九の時代――追放された創造者たちの恩赦、洪水後の諸文明の興隆、ソドムとゴモラにおける復讐運動、クレーターとしての死海、アブラハムの忠誠の試練、そして世界規模の牡牛崇拝。"
 template = "timeline-page.html"
-title = "おうし座の時代"
-period = "紀元前 4'530—紀元前 2'370"
-age = "taurus"
-description = "「Wheel of Heaven」の物語における牡牛座の時代は、紀元前4530年から紀元前2370年にかけての重要な時期であり、双子座の時代に続きます。この時代には、以前に追放された創造者たちが赦され、故郷の惑星に戻ることを許されました。彼らは地球上の人間のために訴え、自分たちの故郷の惑星の注意を地球とその住民に向けました。その一方で、復讐を望む人間たちはソドムとゴモラの町に集まりました。これらの人間たちは、以前に科学的な秘密を救い出した人々で、自分たちを破壊しようとした者たちに報復する準備をしていました。この時代は、ソドムとゴモラの聖書の物語で説明されているような、神聖な原子爆発によるこれらの町の破壊で頂点に達しました。"
-image = "red-colored-cityscape.png"
-weight = 245
+toc = true
+
+[extra]
+symbol = "♉"
+color = "orange"
+start_year = "-4530"
+end_year = "-2370"
+genesis_interpretation = "牡牛座の時代は統合の時代です。追放された創造者たちは赦免され、母星に戻って人類のために弁護します。洪水後の諸文明が七つの系統にわたって興隆します。ソドムとゴモラで起こった復讐運動は、評議会の打撃によって破壊され、そのクレーターは死海となります。アブラハムは試され、その後の聖書物語の創始の父祖として確認されます。"
+
+footnotes = [
+    { content = "蛇が、啓示するルシファー派の肯定的な象徴から宇宙的悪の否定的な象徴へと変貌するのは、この時代に起こります。『魚座』と『水瓶座』の章は、この混同の中世以降および近現代における帰結を辿ります。" },
+    { content = "テル・エル・ハマームは、警鐘的な事例として参考文献に残されています。同遺跡の衝突事象としての読み方は、編集者たちが空中爆発の主張が十分に裏付けられていないと結論づけた結果、2025年に『サイエンティフィック・リポーツ』誌によって撤回されました。コーパスのより広い「打撃としてのソドム」の読みは、テル・エル・ハマームという特定の遺跡に依存していません。" },
+    { content = "ギザの複合体が第四王朝のエジプト古王国期に属するという編年は、主流派エジプト学の最も堅固な主張の一つです。コーパスの作業仮説――ギザは実質的にそれより古く、洪水以前の文明から継承されたものである――は、エジプト関連資料を扱う独立した章で、より詳細に展開される予定です。" },
+]
+
+references = [
+    { title = "真実を告げる書 (Le Livre qui dit la vérité)", author = "クロード・ボリロン(ラエル)", date = "1974", medium = "religious-text", path = "/library/lets-welcome-the-extraterrestrials/" },
+    { title = "地球外生命体は私を彼らの惑星に連れていった (Les Extra-Terrestres m'ont emmené sur leur planète)", author = "クロード・ボリロン(ラエル)", date = "1975", medium = "religious-text", path = "/library/extraterrestrials-took-me-to-their-planet/" },
+    { title = "創世記", author = "匿名(ヘブライ語聖書);母音記号付きマソラ本文のヘブライ語からのWoH訳", date = "紀元前6–5世紀頃", medium = "religious-text", path = "/library/genesis-woh/" },
+    { title = "歴史、第二巻", author = "ハリカルナッソスのヘロドトス", date = "紀元前440年頃", medium = "religious-text", description = "ヘロドトスのエジプト人情報提供者が、ピラミッドは「想像を絶するほど古い」と語ったという報告の典拠――第VII節のギザ複合体に関する箇所で引用。" },
+    { title = "撤回論文:ツングースカ規模の空中爆発が死海近くのヨルダン渓谷の中期青銅器時代の都市テル・エル・ハマームを破壊した", author = "テッド・E・バンチ他", publication = "Scientific Reports 11, 18632", date = "2021", medium = "academic-paper", url = "https://doi.org/10.1038/s41598-021-97778-3", description = "2025年4月24日に『サイエンティフィック・リポーツ』誌によって撤回。監査可能性のためにここに残す。" },
+    { title = "撤回告知:ツングースカ規模の空中爆発が死海近くのヨルダン渓谷の中期青銅器時代の都市テル・エル・ハマームを破壊した", author = "サイエンティフィック・リポーツ編集部", publication = "Scientific Reports 15, 14291", date = "2025", medium = "article", url = "https://doi.org/10.1038/s41598-025-99265-5", description = "編集者たちは、原論文の空中爆発の主張がデータによって十分に裏付けられていなかったと述べている。" },
+    { title = "死海近くのヨルダン渓谷の中期青銅器時代の都市テル・エル・ハマームには衝突の鉱物学的または地球化学的証拠はない", author = "スティーブン・J・ジャレットおよびR・スコット・ハリス", publication = "Scientific Reports 12, 5189", date = "2022", medium = "academic-paper", url = "https://doi.org/10.1038/s41598-022-08216-x" },
+    { title = "ツングースカ事件、衝撃波物理学、および空中爆発に関する誤解が、テル・エル・ハマームにおける証拠の誤った解釈をもたらした", author = "マーク・ボスローおよびアンディ・ブルーノ", publication = "Scientific Reports 15, 13869", date = "2025", medium = "academic-paper", url = "https://doi.org/10.1038/s41598-025-98362-9" },
+    { title = "ギザの大スフィンクスの再編年", author = "ロバート・M・ショック", publication = "KMT 3 (2), 52–59", date = "1992", medium = "academic-paper" },
+    { title = "岩の声:科学者が破局と古代文明を見つめる (Voices of the Rocks)", author = "ロバート・M・ショック", date = "1999", medium = "nonfiction-book", description = "第VII節で引用される、ショックのスフィンクス水浸食編年論を書籍規模で展開した著作。" },
+]
+
+[[extra.prev_age]]
+name = "双子座の時代"
+symbol = "♊"
+link = "/timeline/age-of-gemini/"
+
+[[extra.next_age]]
+name = "牡羊座の時代"
+symbol = "♈"
+link = "/timeline/age-of-aries/"
 +++
 
-The Age of Taurus lasts from –4'530 to –2'370 and follows the Age of Gemini which lasted up to –4'530.
 
-![Image](images/equinox_bc4530.png "Vernal equinox in 4530 BC")
+## I. 時代そのもの
 
-## Peace in Heaven
+第九の時代は、歴史が書き記され始める時代です。
 
-> The exiled creators were pardoned and allowed to return to their original planet where they pleaded the case of their magnificent creation. As a result, everyone on the distant planet fixed their eyes on the Earth because it was inhabited by people they had themselves created.
+牡牛座の時代は紀元前4,530年から紀元前2,370年までの2,160年間に及び、双子座の時代の直後に続きます。これは、その主要な出来事が、従来の考古学が直接記録できる時代に収まるコーパス最初の時代です。シュメールの楔形文字粘土板、エジプト古王国の建造物、インダス渓谷の都市中心地、大西洋ヨーロッパの巨石建造物群、アンデス沿岸のノルテ・チコ集落、レヴァントの初期城壁都市――これらすべてが牡牛座の時代に属します。コーパスの先行する諸時代では、読者は、洪水以前に高度な形態の人類文明が存在したことを信仰として受け入れ、神話的記録を、従来の考古学では取り戻せない世界の保存された記憶として読むことが求められました。牡牛座以降、状況は逆転します。従来の考古学が私たちの協力者となります。私たちの学問分野が二世紀にわたって発掘してきた遺跡、粘土板、建造物、埋葬地を持つ初期文明は、コーパスにおける牡牛座時代の洪水後の諸文明であり、その初期統合期にあります。「天の車輪」の枠組みが付け加えるのは、考古学的記録に対する並行的な物語ではなく、それに対するより深い文脈です――目に見える初期青銅器時代の事実が、別の種類の意味をなすような政治的・歴史的構造です。
 
-The exiled creators were eventually forgiven and permitted to return to their original planet. They used this opportunity to advocate on behalf of their creation, the humans on Earth. This led to the distant planet focusing their attention on Earth as they realized it was home to the people they had created.
+この時代の名は、この期間を通じて春分点が昇った牡牛、すなわち牡牛座の星座から取られています。この天文学的事実は、天が観察されていたあらゆる地域で文化的帰結をもたらしました。牡牛は、この数千年間に、洪水後の世界で最も広く分布した宗教的象徴となりました。エジプトのアピス崇拝から、メソポタミアの「天の牡牛」、ミノア・クレタの牡牛跳び儀礼、インダス渓谷の牡牛印章、大西洋ヨーロッパの巨石建造物に埋め込まれた牡牛の角まで、歳差運動の時代は、その主宰星座のイコノグラフィーを通じて自らを告げ知らせていました。本章は第IX節でこの文化横断的なパターンに立ち戻ります。冒頭で記すに値するのは、この時代の名が恣意的ではないということです。この時代の諸文化は、その宗教的象徴において、自らが生きていた時代の名を呼んでいたのです。
 
-According to the text, the home planet's government ultimately won the conflict and decided to pardon the exiled creators. The text does not provide specific details on how this conflict was resolved, but it suggests that the creators were able to plead their case and convince the government of their planet to forgive them. After the pardon, the creators were allowed to return to their original planet, and everyone on the distant planet became interested in Earth because it was inhabited by beings that they themselves had created. It is possible that the resolution of the conflict involved a negotiation or agreement between the two factions, but the text does not provide further details.
+牡牛座の時代はまた、双子座の終わりに確立された政治構造が結実する時代でもあります。双子座の章は、母星の{% wiki(slug="council-of-eternals") %}評議会{% end %}と、追放された創造者および人類による{% wiki(slug="the-alliance") %}同盟{% end %}との間の公然たる対立が、交渉による解決に至るところで終わりました。追放された創造者たちは赦免され、彼らが長く守り続けてきた人類の創造のために弁護することになる元の文明への帰還を許されました。牡牛座の章は、その恩赦を既成事実として始まります。同盟の上位パートナーたち――方舟を建造し、ノアとの契約を確立し、ノアの子孫を教え、{% wiki(slug="tower-of-babel") %}バベルの塔{% end %}に協力したエロハの科学者たち――は今や母星に戻っており、何千年もの間果たしてきた継続的な教師の役割で、もはや地球上に在住していません。彼らは遠方の首都にいる政治活動家であり、かつて自分たちを断罪した評議会の前で訴えを続けています。地球上の彼らの人類のパートナーたちは、独りです。
 
-## Sodom and Gomorrah
+本章は、典拠が出来事を提示する順序にほぼ従って、牡牛座の時代を辿ります。恩赦とそれに続く長い静寂、七つの系統にわたる洪水後の諸文明の興隆、「平原の諸都市」における同盟の人間側パートナーたちの集結とそこで形成された反乱、コーパスがこの反乱に対する評議会の予防的打撃と読む{% wiki(slug="sodom-and-gomorrah") %}ソドムとゴモラ{% end %}の出来事、打撃が残した物理的痕跡としての死海盆地、{% wiki(slug="serpent") %}蛇{% end %}象徴の肯定的な価値から否定的な価値への変容を含む破壊の文化的・象徴的帰結、証人と回復の図像の双方としての{% wiki(slug="abraham") %}アブラハム{% end %}の導入、同盟が彼に対して行った忠誠の試練、世界規模の牡牛崇拝宗教の開花の中でこの時代に名を与える象徴構造、エジプト古王国とギザ複合体を含む他の六つの洪水後文明における並行的展開、そしてこれらの読みに関連する現代の科学的証拠。本章は、これまでの章と同じく、現在の私たち自身の瞬間への連続線で締めくくられます。
 
-> But among the humans who had been dispersed on Earth, a few nursed the desire for vengeance, so they gathered in the towns of Sodom and Gomorrah and, having managed to salvage a few scientific secrets, they prepared an expedition aimed at punishing those who had tried to destroy them.
+## II. 諸節
 
-The passage talks about how a group of humans, the ones that were scattered all over during the construction of the interstellar spacecraft remembered in the Bible as the Tower of Babel, who nursed a desire for vengeance gathered in the towns of Sodom and Gomorrah, two cities which were located in the Jordan River plain, precisely where now the Dead Sea is located, in the biblical region of Canaan. They had salvaged a few scientific secrets and prepared an expedition to punish those who had tried to destroy them. This suggests that while the conflict between the creators and the home planet's government had been resolved, there were still humans on Earth who held grudges and had access to advanced scientific knowledge.
+牡牛座の出来事を扱うヘブライ語テクストは、創世記のかなりの範囲にわたって広がっています。創世記11章のバベル以後の系図、創世記12章のアブラハムの召命、創世記15章と17章の契約、創世記18–19章のマムレの訪問とソドムの破壊、そして創世記22章のイサクの献げの場面です。本章はすべての節を完全な装置とともに扱うことはできませんが、主要な箇所は注意深い提示に値します。
 
-> Consequently, the creators sent two spies to investigate what was going on:
->
->> And there came two angels to Sodom at even 3. Genesis 19: 1.
+アブラハムの召命は{% libref(book="genesis-woh", chapter=12, verse=1) %}創世記12:1{% end %}に始まります:
+{{ scripture(book="genesis-woh", chapter=12, verse=1, translit="Vayomer Adonai el-Avram: lekh-lekha me-artzkha u-mi-moladetkha u-mi-beit avikha el-ha-aretz asher arekka") }}
+לֶךְ־לְךָ (*lekh lekha*)の句は、ヘブライ語聖書の中で最も論議された二語の構文の一つです。直訳すれば「あなた自身へ行け」または「あなた自身のために行け」――再帰的命令法であり、その正確なニュアンスは何世紀にもわたって議論されてきました。この構文は、空間的なものだけでなく内的な動き、つまり自己実現でもある旅を含意します。コーパスの読みはこの含意を真剣に受け取ります。アブラハムは単なる物理的移転ではなく、同盟のより広い計画における役割の変容へと召されているのです。彼は徴募されているのです。
 
-The creators sent two angels as spies to investigate what was happening in Sodom. This is mentioned in Genesis 19:1. The creators' authority from the distant planet of the Elohim used espionage as a means of gathering intelligence on the actions of humans on Earth. In this particular case, the creators sent two spies in the form of angels to investigate the situation in Sodom and Gomorrah. The use of spies suggests that the creators were monitoring and keeping tabs on human activities, possibly to ensure that humans were not attempting to create any technological advances that could pose a threat to their authority.
+{% libref(book="genesis-woh", chapter=15, verse=18) %}創世記15:18{% end %}の契約は、地理的な条件を定めます:
+{{ scripture(book="genesis-woh", chapter=15, verse=18, translit="Ba-yom ha-hu karat Adonai et-Avram brit lemor: le-zar'akha natati et-ha-aretz ha-zot mi-nehar Mitzrayim ad-ha-nahar ha-gadol nehar-Perat") }}
+動詞כָּרַת (*karat*)、「切る」は、契約を結ぶことを意味するヘブライ語の慣用表現です。*karat brit*の句は文字通りには「契約を切る」を意味します――この慣用表現は、犠牲の動物を二つに切り、契約の当事者が断片の間を通り抜けるという古代の慣行に由来します。創世記15章は、実際にこの慣行を9–17節で保存しています。そこではアブラハムが犠牲の動物を切り、煙を出す火鉢と燃える松明が断片の間を通り過ぎます。契約は、ヘブライ語の語彙が由来する元の政治的・法的慣行を保存する儀礼によって封印されるのです。
 
-{{ figure(src="wiki/red-colored-cityscape", caption="Ill. 1 - Red-colored cityscape") }}
+アブラムからアブラハムへの改名は{% libref(book="genesis-woh", chapter=17, verse=5) %}創世記17:5{% end %}で起こります:
+{{ scripture(book="genesis-woh", chapter=17, verse=5, translit="Ve-lo-yikare od et-shimkha Avram, ve-hayah shimkha Avraham, ki av-hamon goyim netatikha") }}
+二つの名は異なる語源を持ちます。אַבְרָם (*Avram*)は「高められた父」を意味します――*av*(父)と*ram*(高い、高められた)。אַבְרָהָם (*Avraham*)は、慣例的には「多くの者の父」と解釈されます――*av*(父)と*hamon*(群衆、多くの)に関連する短縮形。改名は、私的な家父長から、本章の後の節で展開される回復計画の創始の図像への変容を示しています。
 
-> Some humans tried to kill them, but the spies managed to blind their attackers with a pocket atomic weapon:
->
->> And they smote the men that were at the door of the house with blindness, both small and great. Genesis 19: 11.
+マムレの訪問は{% libref(book="genesis-woh", chapter=18, verse=1) %}創世記18:1-2{% end %}で始まります:
+{{ scripture(book="genesis-woh", chapter=18, verse=1, translit="Vayera elav Adonai be-eilonei Mamre ve-hu yoshev petach-ha-ohel ke-chom ha-yom") }}{% scripture(book="genesis-woh", chapter=18, verse=2) %}
+彼が目を上げて見ると、見よ、三人の人が彼のそばに立っていた
+{% end %}
+1節における*Adonai*(ヤハウェ、単数)と、2節における*sheloshah anashim*(三人の人)の間の転換は、本章の後の分析が立ち戻る本文上の現象です。ヘブライ語のテクストは、同じ出会いをヤハウェの顕現としてと、三人の人の出現としてとの両方で提示します。従来の神学的読みはこれに苦慮してきましたが、コーパスの枠組みは、三人を、二人の従属者(次章でソドムに入る斥候)を伴った上級士官(ヤハウェの図像)と読むことで、この困難を解消します。
 
-The two spies sent by the creators to investigate the situation in Sodom and Gomorrah were attacked by some humans who tried to kill them. However, the spies were able to defend themselves by using a pocket atomic weapon that blinded their attackers, both small and great. This event is described in the book of Genesis 19:11.
+正しき者の閾値をめぐるアブラハムとヤハウェの交渉は、{% libref(book="genesis-woh", chapter=18, verse=22) %}創世記18:22-33{% end %}を占めます。25節にはアブラハムの最も鋭い抗議が含まれます:
+{{ scripture(book="genesis-woh", chapter=18, verse=25, translit="Chalilah lekha me-asot ka-davar ha-zeh le-hamit tzaddik im-rasha, ve-hayah ka-tzaddik ka-rasha, chalilah lakh, ha-shofet kol-ha-aretz lo ya'aseh mishpat?") }}
+הֲשֹׁפֵט כָּל־הָאָרֶץ (*ha-shofet kol ha-aretz*)、「全地を裁く者」という句は、印象的な称号です。これはアブラハムが交渉している図像を、地域の神や一民族の保護者としてではなく、普遍的な司法権威の図像として同定します。コーパスの読みはこれを正確なものとして扱います。訪問してきた士官は単なる地域的派閥ではなく、惑星全体に対して裁きを行う、より広い政治的権威を代表しているのです。
 
-The passage describes how the two spies sent by the creators to investigate the situation in Sodom and Gomorrah were attacked by some of the humans there. In order to defend themselves, the spies used a pocket atomic weapon to blind their attackers. The phrase "smote the men" means that they struck or hit them with the weapon, causing them to become blind. The passage highlights the use of advanced technology by the creators, who were able to equip their agents with powerful weapons to protect themselves and carry out their mission.
+打撃そのものは{% libref(book="genesis-woh", chapter=19, verse=24) %}創世記19:24-25{% end %}に記録されています:
+{{ scripture(book="genesis-woh", chapter=19, verse=24, translit="Va-Adonai himtir al-Sedom ve-al-Amorah gofrit va-esh me-et Adonai min-ha-shamayim") }}{{ scripture(book="genesis-woh", chapter=19, verse=25, translit="Vayahafokh et-he-arim ha-el ve-et kol-ha-kikar ve-et kol-yoshvei he-arim ve-tzemach ha-adamah") }}
+גָּפְרִית וָאֵשׁ (*gofrit va-esh*)、「硫黄と火」という句は、本章が立ち戻る記述上の表現です。*Gofrit*は硫黄を意味する標準的なヘブライ語です。「硫黄と火」という組み合わせは、目撃者たちが観察したであろうものを描写しています。光の閃光に続いて、爆発の大気柱から気化して再凝縮した鉱物が降下するという光景です。*vayahafokh*の形での動詞הָפַךְ (*hafakh*)、「ひっくり返す、転覆する」は、影響を受けた地域の状態の完全な反転――単なる損害ではなく、それまでの状態とは正反対のものへの変容――を描写します。豊穣な平原が不毛な盆地となります。
 
-> They warned those who were peaceful to leave the town because they were going to destroy it with an atomic explosion:
->
->> Up, get you out of this place; for Yahweh will destroy this city. Genesis 19: 14
->
-> As the people were leaving town, they were in no particular hurry because they did not realize what an atomic explosion could mean.
->
->> Escape for thy life; look not behind thee, neither stay thou in all the plain. Genesis 19: 17.
+イサクの献げは{% libref(book="genesis-woh", chapter=22, verse=1) %}創世記22:1{% end %}で始まります:
+{% scripture(book="genesis-woh", chapter=22, verse=1) %}
+これらの事の後、エロヒムはアブラハムを試みられた
+{% end %}
+動詞נִסָּה (*nissah*)は、慣例的に「試みる」「試す」「証明する」と訳され、出来事全体が冒頭から真の命令としてではなく試験として枠組みづけられていることを示すテクスト上の信号です。ヘブライ語のテクスト自体が、その最初の節で、何が起きているかを同定しています。本章の後の分析はこれに立ち戻ります。ここで指摘するに値するのは、ジェイムズ王訳の「試みる(tempt)」が、ヘブライ語には含まれない道徳的含意を持ち込んでしまっていることです。*Nissah*は「審査される」「試される」「証明にかけられる」――公的評価の動詞――に近いものです。評議会またはその代表者たちが、評価を実施しているのです。アブラハムはその評価の対象です。
 
-In this passage, the two spies who were sent to investigate Sodom and Gomorrah warned the peaceful inhabitants to leave the city because it was going to be destroyed with an atomic explosion. The inhabitants did not fully grasp the severity of the situation and did not leave the city with a sense of urgency. The spies had to urge them to escape for their lives and not to look back. The plan was to annihilate the two cities of the Jordan plain.
+献げを止める介入は{% libref(book="genesis-woh", chapter=22, verse=11) %}創世記22:11-12{% end %}に来ます:
+{{ scripture(book="genesis-woh", chapter=22, verse=11, translit="Vayikra elav malakh Adonai min-ha-shamayim, vayomer Avraham Avraham, vayomer hineni") }}{% scripture(book="genesis-woh", chapter=22, verse=12) %}
+彼は言った、その子に手を下してはならない、また何事も彼に行ってはならない。今わたしは、あなたがエロヒムを畏れる者であることを知ったからである
+{% end %}
+כִּי עַתָּה יָדַעְתִּי (*ki atah yadati*)、「今わたしは知った」という句は、従来の読みの上で、この箇所全体において最も神学的に問題のある句です。話者が全知の神格であるとすれば、その神格が今になって初めて何かを「知る」ようになるとは、どういう意味なのでしょうか。ヘブライ語は曖昧ではありません。話者は、アブラハムの行動がその答えを提供するまで、試されていた問いがどんなものであれその答えを知らなかったのです。これは全知の言葉ではありません。経験的調査の言葉です。コーパスの読みはこの言語を額面通りに受け取ります。話している図像は全知の神格ではなく、試験が生み出すよう設計されたデータをたった今受け取った調査者なのです。
 
-The passage describes the warning given by the two spies to those who were peaceful in Sodom and Gomorrah to leave the town, as it was going to be destroyed by an atomic explosion. The warning was heeded, but the people were not in a hurry to leave as they did not understand the full danger of an atomic explosion. The spies urged them to escape for their lives, not to look behind them, and not to stay in the plain. This passage suggests that the creators had access to advanced technology and weaponry, including atomic weapons, similar to those employed to cause the Great Flood but evidently less potent in their strength, and were willing to use them to protect themselves or achieve their objectives.
+これらが牡牛座を構造化する主要なヘブライ語の箇所です。本章の続く節は、これらの箇所が描く政治的・歴史的内容を扱います。
 
-> And the bomb fell on Sodom and Gomorrah:
->
->> Then Yahweh rained upon Sodom and upon Gomorrah brimstone and fire from Yahweh out of heaven; And he overthrew those cities, and all the plain, and all the inhabitants of the cities, and that which grew upon the ground. But his wife looked back from behind him, and she became a pillar of salt. Genesis 19: 24-26.
->
-> As you now know, burns caused by an atomic explosion kill those who are too near and make them look like salt statues.
+## III. 恩赦と長い静寂
 
-The passage describes the destruction of Sodom and Gomorrah through a rain of brimstone and fire from heaven. This destruction caused the death of all inhabitants and vegetation in the area. However, Lot's wife looked back and turned into a pillar of salt, which is suggested to be a result of the burns caused by the atomic explosion that killed those who were too close to the impact. The cities of Sodom and Gomorrah were both annihilated. The usage of the phrase "the destruction of Sodom and Gomorrah by fire and brimstone from the sky" strongly suggests in archaic language of the Bible that that an atomic explosion is being described.
+牡牛座に関する典拠の冒頭の短い一文――「追放された創造者たちは赦免され、自分たちの素晴らしい創造物のために弁護するために、元の惑星に戻ることを許された」――に圧縮された出来事は、何千年にもわたって地球プロジェクトを規定してきた政治的状況を反転させます。蟹座の時代の終わりに、地上で人類創造物の中で生涯を全うするよう断罪されていた追放された創造者たちが、今や自由になります。彼らは母星に戻ります。彼らは罪人としてではなく、弁護者として迎えられます。彼らは評議会の前で語ります。彼らはおそらく、洪水を通じて、洪水後の再建を通じて守り続けてきた人類の創造物が守るに値することを――人間たちが、方舟プロジェクトへの協力を通じて、洪水後文明の建設を通じて、教師たちとの公式な同盟への意欲を通じて、サタン派が警告したような怪物ではないことを証明したことを――論じます。追放された創造者たちは、何世代にもわたって望んでいたことを行っているのです。母星に直接、自分たちの主張を持ち込んでいるのです。
 
-{{ figure(src="wiki/explosion-over-the-sea", caption="Ill. 2 - Tactical explosion over the sea") }}
+受け入れは、典拠の記述によれば、驚くほど好意的でした。母星の住民――評議会だけでなく、より広い文明全体――が、洪水以前にはなかったほど地球に注意を向けます。*「遠方の惑星の誰もが、自分たち自身が創造した人々が住んでいるがゆえに、地球に目を向けた」*。これは、以前は追放された派閥の物議を醸し、ほとんど隠された計画であった人類創造物が、母星上で公に知られ、公に議論される対象となる文化的瞬間です。追放された創造者たちの弁護活動は、少なくとも問題をより広い政治的議論に持ち込む程度には機能します。以前は地球プロジェクトを管理すべき安全保障上の懸念として扱っていた評議会は、今や、さらなる介入のための選択肢を複雑にする、人類への大衆の関心と取り組まなければなりません。
 
-## Abraham
+この恩赦が何を意味し、何を意味しなかったかを正確にしておく価値があります。恩赦は、元の追放者たち――蟹座の終わりに、アダムとエバへの禁じられた知識の開示で断罪された特定のエロハの科学者たち――のためのものでした。それは、典拠が支持するいかなる読みにおいても、その間の数千年にわたって発展してきた、より広いルシファー派の運動に対する一般的な大赦ではありませんでした。追放された創造者たちが人間の女性との結合によって生んだ混血の系統――ネフィリムとその子孫――は、恩赦の当事者ではありませんでした。彼らは、エロハの遺伝物質を持っていたとしても、コーパスが発展させてきた政治的範疇に従えば、人間でした。彼らは地球に残りました。同盟の継続的な教えから成長し、その教えのもとでバベルの塔を建てた洪水後の人類人口も、同様に恩赦の当事者ではありませんでした。恩赦は元の追放者たちと、おそらくは、洪水後の期間に異論派の意識的な支持者として追放に加わった少数のエロハに適用されました。同盟が地球上で生み出したものの大部分――人類の子孫、混血の系統、バベル以後の散らされた科学的エリート――は地球に残り、もはや上位パートナーの保護を受けず、評議会の次の介入が何になろうとも、それを次第に受けるようになっていきました。
 
-Now that Sodom and Gomorrah were both razed to the ground and most likely left the a huge crater that became known as the Dead Sea, [Abraham](../../wiki/abraham/), the infamous Hebrew patriarch of Biblical fame, does get introduced.
+恩赦の後に続いたもの、そしてその後の伝統が大部分忘れ去ってきたものは、長い静寂でした。ソドムの反乱は、バベルの散らしの直後に勃発するわけではありません。聖書の物語は、不注意に読めば、創世記11章のバベルの塔の箇所が直接創世記12章のアブラハム物語と創世記18–19章のソドムの破壊へとつながっていることで、一つの出来事が他方に直接続いたという印象を与えかねません。この圧縮は誤解を招きます。実際の年代記は、注意深く読むならば、双子座末期の境界におけるバベルの塔の出来事(コーパスの枠組みでは紀元前約4,800年)と、アブラハムの生涯中のソドムの打撃(慣例的には紀元前2,000年から1,800年頃、枠組みでは牡牛座後期と位置づけられる)との間に、相当な経過時間を要求します。これらの出来事の間のギャップは、およそ2,500年から3,000年――アブラハムから現在までの全期間より長い期間です。牡牛座の時代の大部分は、言い換えれば、急速に展開する一連の危機ではなく、二つの介入の間の長い静寂なのです。
 
-> Later, after most of their leading intellectuals had been destroyed, and they had relapsed into a semi-primitive state, the creators wished to see if the people of Israel, and particularly their leader, still had positive feelings towards them.
+この時間的なギャップは、現地でこの期間が実際にどのように見えたかに、相当な影響を与えました。バベルの散らしの直接の標的だったレヴァント地域は、無人のままではありませんでした。バベル以後の分散は、科学的・技術的エリートを特に標的にし、彼らを協調的な活動から取り除いたものの、より広い人口を取り除きませんでした。散らされた科学者たちの子孫、*benei ha-Elohim*の混血の子孫、エデン系統のより広い人口――これらすべてが地域にとどまり、自らの共同体を発展させ、周辺の人口と通婚し、地域の早期から中期青銅器時代の考古学が記録する農業的・都市的文明を築き上げました。レヴァントは、牡牛座の大半において、繁栄する地域でした。都市が発展し成長しました。交易ネットワークが拡大しました。宗教的伝統が成熟しました。従来の考古学は、人口が劇的な政治的激変ではなく、農業的・商業的生活の通常の営みに従事していた、この期間を横断する都市文化の相当な連続性を示しています。
 
-The creators, after the destruction of many leading intellectuals, observed that the people of Israel had relapsed into a semi-primitive state. They wanted to test if the people, and their leader in particular, still had positive feelings towards them.
+評議会は遠方から見守りながら、この長い期間中に介入する理由をほとんど持ちませんでした。同盟の政治的計画の最も攻撃的な表現――バベルの塔のロケット計画――は解体されていました。散らされた科学者たちは、その知識が別のそのような計画に協調できない地域に再配分されていました。より広い人口は、直接的な戦略的脅威をもたらさない仕方で発展していました。評議会は能動的な管理から受動的な監視へと移行しました。母星の追放された創造者たちはおそらく数世紀にわたって弁護活動を続けましたが、地球上の状況が見かけ上の沈静化へと安定するにつれ、緊急性は減退していきました。
 
-> This is related in the paragraph where Abraham wants to sacrifice his own son. The creators tested him to see if his feelings towards them were sufficiently strong. Fortunately, the experiment ended positively.
->
->> Lay not thine hand upon the lad, neither do thou any thing unto him: for now I know that thou fearest Elohim. Genesis 22: 12.
+これが、その後の伝統が大部分忘れ去ってきた期間です。なぜなら、その期間には劇的なことが何も起こらなかったからです。生き残った文化によって保存された物語的記録は、危機の瞬間――洪水、バベルの塔、ソドムの破壊、アブラハムの召命、モーセの契約の確立――に焦点を当てます。これらの瞬間の間の長い静寂は、運用的に言えば、通常の文明的発展の期間だったため、記録に痕跡をほとんど残しません。人々は生活し、交易し、礼拝し、土地と水と女性をめぐって争い、結婚し死に、子を育て、富を蓄積し失った――人間の人生の通常の営みであり、人間経験の大部分を構成しながらも物語的な劇は生み出さないものです。「天の車輪」の枠組みは、この期間を明示的に認識する必要があります。牡牛座の大部分は、長い静寂です。ソドムでの危機がそれを最終的に動揺させますが、その動揺はこの時代の末期における離散的な出来事であり、定常状態ではありません。
 
-The passage describes a test conducted by the creators to see if Abraham's feelings towards them were strong enough. It is mentioned that Abraham was willing to sacrifice his own son as part of this test, but the creators intervened and stopped him from doing so. The creators were satisfied with the outcome of the experiment and acknowledged that Abraham had strong feelings towards them.
+長い静寂の間に発展し、最終的にソドムの反乱を生み出すことになったのは、継続的な政治的扇動よりも微妙な何かでした。それは、エデン系統の人口の特定の部分集合の間で、何世代にもわたって、特定の文化的・政治的方向性が緩やかに統合されていったことでした。レヴァント全体および以遠に散らされた、散らされた科学者たちの子孫は、先祖が追放によって運び去った技術的知識の断片を保存していました。これらの断片の一部は実用的でしたが、その他は単に伝統的なもの、つまり機能させるのに必要な技術訓練なしに、宗教的または文化的相続として継承されたものでした。何世紀にもわたって、これらの子孫の一部が互いに再接続するにつれ、結婚と交易が散らされた人口を再び接触させるにつれ、混血の系統が世代を越えて互いを認識するのに十分な元の文化的アイデンティティを保存するにつれ、特定の共同体がその相続の周りに結晶化し始めました。彼らは、自分たちが誰であるかを知っていた、あるいは知っていると思っていたのです。彼らは同盟の地球側の構成員の子孫でした。彼らは上位パートナーたちが始めた計画の担い手でした。彼らは教師たちの帰還を待っていました。
 
-This test was intended to see if Abraham still had positive feelings towards the creators, even after the destruction of Sodom and Gomorrah, and to test his loyalty and faith in their commandments. The creators were pleased with Abraham's response, and the passage indicates that he passed the test and showed his reverence and fear towards them.
+しかし彼らの教師は戻ってきませんでした。恩赦はエロハの指導者たちを連れ去り、彼らは戻ってきませんでした。何世紀も彼らの帰還なしに過ぎました。地球と母星の間の通信は、恩赦直後の期間にどのようなものであれ、最終的には弱まりました。地球側の人口は、遠方の首都にいる教師たちに何が起きているかを、確実に知ることはできなかったでしょう。彼らはただ待ち、空を見守り、覚えているしかありませんでした。
 
-{{ figure(src="wiki/man-standing-on-plaza", caption="Ill. 2 - Individual standing on open-air plaza") }}
+{{ figure(src="timeline/age-of-taurus-pardon", alt="銅色の夜明けに、進んだ母星の都市景観で、雲の上の広いテラスへと小さな帰還使節団が近づく。", caption="図 1 - 恩赦:追放者たちが人類のために弁護するために戻る。") }}
 
-## Regression
+## IV. 洪水後の諸文明の興隆
 
-> Because of the destruction of centers of progress such as Sodom and Gomorrah and the elimination of the most intelligent individuals, human beings had lapsed back into a very primitive state and had begun, rather stupidly, to adore pieces of stone and idols, forgetting those who had really created them:
->
->> Put away the foreign gods that are among you. Genesis 35: 2.
+旧エデン地域における政治的状況が今述べた線に沿って発展していた一方、洪水後の諸大陸全体にわたるより広い人類人口は、従来の考古学的記録が直接記録できる変容を経ていました。牡牛座の時代は、どのような尺度で見ても、私たちの学問分野が二世紀にわたって遺跡とテクストを発掘してきた人類文明が実際に出現する期間です。
 
-The passage suggests that after the destruction of advanced centers of civilization, such as Sodom and Gomorrah, and the elimination of intellectuals, human society regressed to a primitive state. The people began worshipping inanimate objects, such as pieces of stone and idols, instead of the actual creators. The quote, "Put away the foreign gods that are among you," implies a call to abandon these idolatrous practices and return to the worship of the true creators.
+年代記は、洪水後の「天の車輪」のタイムラインを従来の考古学のそれにマッピングするとき、異例の精度で一致します。メソポタミアの最初の偉大な文明であるシュメールは、紀元前3,500年から3,000年頃にチグリス・ユーフラテス渓谷の後期先史時代から出現し、コーパスの枠組みでは牡牛座中期に十分に収まります。エジプトの先王朝期文化は、紀元前2,700年から2,200年頃、つまり牡牛座末期およびその直後に古王国へと統合されます。インダス渓谷文明は紀元前約3,300年から発展し、その成熟した都市段階は紀元前約2,600年から1,900年頃にピークに達し、牡牛座末期から牡羊座最初の数世紀にまたがります。アンデス沿岸のノルテ・チコ複合体は、紀元前約3,500年、牡牛座中期に出現します。大西洋ヨーロッパの巨石建造物群――大型のロングバロー、初期のストーンサークル、やがてはストーンヘンジの最初の段階――は、紀元前4,000年から2,500年の間、牡牛座の期間全体にわたって発展します。最初の中国の定住文明も同じ期間に統合を始めますが、その完全な考古学的可視性は後に来ます。
 
-The Elohim were seen as the creators of humanity and responsible for the progress and knowledge that early civilizations had achieved. The practice of idolatry, or the worship of physical objects or idols as deities, can be seen as a result of a loss of understanding and knowledge of the true nature of the Elohim. In the absence of the creators or their direct guidance, humans may have sought to fill the void with physical representations of their belief systems. Therefore, the admonition to "put away the foreign gods" can be seen as a call to return to the knowledge and understanding of the true creators and the rejection of false idols.
+このパターンは、コーパスの枠組みを念頭に読むと印象的です。洪水直後に追放された創造者たちが行った人類系統の洪水後の再播種は、各系統をその元の創造の地域に戻しました。各系統は、それらの地域において、洪水前の蟹座期間中に元の教師たちが伝えた農業技術、天文学的知識、定住生活の基本的な技能と道具といった、創設の指導を利用できました。洪水後の数世紀は、この基礎から再建する時期でした。牡牛座中期までに、再建は、生き残った知識が記念碑的建築、文字体系、都市計画、そして従来の考古学が文明の印として認識する宗教的・政治的制度において表現できる水準まで成熟していました。
 
-The line of thinking that idolatry was the result of forgetting the true creators and adoring pieces of stone and idols could have led to the emergence of monotheism in several ways.
+興隆の急速さそのものが指摘するに値します。従来の考古学は、主要な初期文明が記録に現れる見かけ上の突然さに長い間驚かされてきました。シュメールのテクストは、洗練された文学的、法的、天文学的伝統がすでに明らかな形で、本質的に完全に形成された状態で出現します。インダス渓谷の都市は、ローマ時代まで再び並ばれることのない質の都市計画を示します。これらの早熟な達成についての従来の説明には、突然の霊感、未知の天才、失われた先行者といった、居心地の悪い手の振り方が常に必要でした。コーパスの枠組みはより簡潔な説明を提供します。文明は無から興隆していたのではありません。元の教師たちによって伝達され、その教師たちのエロハの同盟者の洪水後の教えによって洗練され、識字と制度的記憶が世代を越えて保存できる数少ない中心地に集中していた、生き残った知識を含む基礎から再建していたのです。従来の考古学が突然の開花と見るものは、この読みでは、回復――かつて持っていた洗練のレベルへと再び戻る道を見出す人類人口――なのです。
 
-Firstly, it could have led to the idea that there was only one true God, the creator of everything, and that all other gods and idols were false and had no power. This idea may have arisen from the belief that the true creators were so powerful that they could not be represented by a physical object and therefore any such representation was a false idol.
+肥沃な三日月地帯のエデン系統は、双子座の章ですでに説明された理由により、最も急速に回復した系統でした。彼らは方舟に乗っていた系統でした。彼らは教師たちが物理的に存在する中で洪水から出てきました。洪水後の再建は、その教師たちによって、バベルの塔の建設を通じてそして以遠まで継続的に指導されました。恩赦の時までに、エデン系統はすでに他の六つの系統よりも実質的に進歩しており、その子孫はコーパスの物語の残りにおいて、メソポタミアおよびレヴァント地域の初期の歴史記録を支配することになります。シュメール、アッカド、バビロン、初期イスラエル王国、フェニキア――これらすべてが、コーパスの用語ではエデン系統の文明であり、バベル以前の教師たちの遺産の上に建っています。
 
-Secondly, the idea that idolatry was the result of forgetting the true creators may have led to the belief that a single deity or group of deities was responsible for the creation of everything, including humans. This belief could have evolved into a monotheistic religion where there is only one God who is responsible for everything in existence.
+他の六つの系統は、独自の地域で並行して発展し、その結果は、各々の元のチームが与えた特定の指導と、洪水後の環境の特定の状況に応じて変化しました。エジプトの文明は、エデン系統と地理的に隣接し、それとの文化的接触が次第に増していたものの、別個の起源伝統からの実質的な投入を示唆する独自の線に沿って発展しました。インダス渓谷文明は、その注目すべき都市計画と、まだ解読されていない文字によって、南アジア系統の回復を代表するかもしれません。ノルテ・チコとその後継者のアンデス文明は、アメリカ系統の回復を代表します。独特の天文学的整列と儀礼的構造を持つヨーロッパの巨石文化は、さらに別の系統を代表します。中国、ポリネシア、オーストラリアの系統は、独自の道に沿って発展しました。場合によっては洪水以前の知識を保存し、場合によっては実質的に減少した基盤から始めました。
 
-Finally, the concept of idolatry being the result of forgetting the true creators may have led to the belief that the true creators were the only beings deserving of worship and adoration. This could have led to the development of a monotheistic religion where the worship of any other deity or idol was considered to be wrong and against the will of the true creators.
+これらの文明を牡牛座末期に結びつけた交易ネットワークは、それ自体が注目すべきものです。今のアフガニスタンのバダフシャン地方からのラピスラズリは、エジプトに渡り、そこで古王国のファラオの埋葬品に現れます。コーンウォールおよび中央アジアからの錫は、この時代を規定した青銅冶金を支えるために、広大な距離を越えて移動しました。インダス渓谷からのカーネリアンはメソポタミアに到達しました。エジプトの品物はインダス渓谷に到達しました。東地中海の海上交易ネットワークは、レヴァントの港をエーゲ海および以遠と結びつけました。従来の歴史時代のはるか前に、洪水後の諸文明は、何千キロメートルにも及び、それぞれの都市中心地の経済的基盤を支えた商業関係を再構成していました。初期歴史時代の文明的多様性は、無作為な地域的変動ではなく、元の創造者チームの意図的な派閥的多様性が、洪水後の諸大陸にわたって、それぞれの人類子孫の文化的、建築的、商業的伝統において表現され、そして生き残った知識が可能にした交易ネットワークを通じて再接続したものを反映しています。
 
-{{ figure(src="wiki/two-treasure-hunters", caption="Ill. 3 - Two individuals searching for remainders") }}
+{{ figure(src="timeline/age-of-taurus-bull-civilizations", alt="オレンジ色の青銅器時代のパノラマ。河川の都市、田畑、船、交易隊、遠くの建造物、そして小さな牡牛座時代の細部を伴う。", caption="図 2 - 牡牛座の世界:牡牛の徴のもとで興隆する洪水後の諸文明。") }}
 
-## Quick recap
+## V. 独りの人類、平原の諸都市
+
+長い静寂は一様な満足を生み出しませんでした。この期間のエデン系統の人口の中で、最終的に洪水後の時代の第二の主要な政治的危機を生み出すことになる特定の方向性が発展し始めました。その方向性は当初は組織化された意味で政治的なものではありませんでした。それは、より正確に言えば感情的な状態でした――次第に自らを見捨てられたものとして理解する人口の状態だったのです。
+
+ソドムの反乱者たちが最終的に何をしたかを真剣に受け取るためには、彼らの親や祖父母が何を感じていたかを真剣に受け取る必要があります。同盟の上位パートナーたちは彼らを愛していました。追放された創造者たちは彼らの祖母たちと結婚しました。彼らは祖父たちを教えました。彼らは何世紀にもわたって彼らの中で歩み、彼らの生活に参加した、物理的で現存する存在でした。ノアとの契約は、特定の創造者と特定の人間――ノアと方舟を彼と共に建造したエロハの指導者たち、そしてその子と孫たち――との間の個人的な絆でした。契約は抽象的なものではありませんでした。それは、継続的な接触を通じて世代を越えて維持された、進行中の関係でした。そして上位パートナーたちは去りました。
+
+人間側から見れば、これは見捨てに見えたでしょう。教師たちは去ってしまいました。保護者たちは去ってしまいました。人類人口と、遠方の敵対的な評議会との間に立っていた仲介者たちは去ってしまいました。人間たちは、保持していた断片的な知識と、契約がなおも与えた残余の政治的地位と、何世紀にもわたって維持できる制度的記憶だけで、独りで評議会に対峙することになりました。教師たちに何が起きたかについて、彼らは何を知っていたでしょうか。おそらくほとんど何も知らなかったでしょう。地球と母星の間の通信は、恩赦の後では限られていたでしょう。人類人口は母星の政治ニュースを利用できなかったでしょう。彼らは、教師たちが去ったことを知っていたでしょう。何らかの生き残った経路を通じて、教師たちが評議会の前で「弁護している」ことを知っていたかもしれません――それは細い希望の糸でした。彼らは、その弁護が成功しているのか失敗しているのかを知らなかったかもしれません。彼らは、教師たちが戻った後に処刑されたのではないか、恩赦は処罰のために彼らを呼び戻すための策略だったのではないか、自分たちのためにいかなる弁護も実際には起こっていないのではないかと恐れたかもしれません。
+
+この不確実性は、続いて起こったことにとって決定的に重要です。ソドムの反乱者たちは、完全な情報に基づく計算された決定をしていたのではありません。彼らは、部分的な情報と増大する恐怖に基づく必死の決定をしていたのです。彼らの教師たちは、何世代にもわたって去っていました。評議会は何世代にもわたって沈黙していました。政治的状況は、彼らの視点からは、永続的に思えました――評議会が遠方から見守り、同盟が去り、人類人口が孤立し脆弱でした。これらの状況下では、生き残った人口の派閥が、自分たちで行動するしかなく、自分たちの長期的生存を確保する唯一の方法は、脅威が自分たちを取り除く前に自分たちでそれを取り除くことだと自然に結論づけるでしょう。
+
+典拠は、反乱者たちが最終的に発展させた計画を描写しています。*「しかし地球上に散らされた人間たちの中で、復讐への欲望を抱く者が少しいたので、彼らはソドムとゴモラの町々に集まり、いくつかの科学的秘密を救い出すことに成功して、彼らを滅ぼそうとした者たちを罰することを目的とした遠征の準備をした。」*
+
+この箇所が与える絵は具体的です。バベルの塔における評議会の介入は標的化されていました。重要な知識を持っていた人類の科学者たちは、新しい隣人と通信できない地域に物理的に再配置され、彼らの研究資料は破壊されました。しかし分散は絶対的ではありませんでした。散らされた科学者たちの一部は、たとえそれを直ちに応用できなかったとしても、知識を保ち続けました。彼らの子孫はその知識を何世代にもわたって保存しました。長い静寂を通じて、散らされた共同体が交易と通婚を通じて再接続するにつれ、彼らの宗教的および文化的伝統が元の技術訓練の断片を保存するにつれ、緩やかな能力の再蓄積が可能になりました。長い静寂の末期の数世紀までに、特定の人口中心地で、個別の共同体が独力で着手できなかったであろう計画を、少なくとも観念上は支持するのに十分な技術的知識が再組立てされていました。
+
+典拠はこの再組立ての集結中心地を特定します。ソドムとゴモラ、後に南レヴァントとして知られることになる地域の二つの都市です。聖書の物語は、ヨルダン渓谷下流の関連する都市中心地の地域クラスターを構成した、平原のさらなる都市――アドマ、ツェボイム、ツォアル――を挙げます。場所の選択は意図的でした。これらの都市は、地理的に独特な位置――豊富な水を持ち、聖書テクストでは例外的に肥沃と描写される下流の渓谷――に位置し、運動にその人口を支えるのに必要な農業基盤と、再建中の文明の主要中心地から、直ちには精査されずに活動するのに十分な相対的距離の両方を与えるものでした。これらの都市は、考古学的証拠の上で、相当な城塞と発達した交易ネットワークを持つ繁栄したものであり、典拠の記述によれば、評議会が受け入れ難い安全保障上の脅威と見なしたであろう計画の運営中心地でもありました。
+
+運動は実際に何を計画していたのでしょうか。典拠の句――*「彼らを滅ぼそうとした者たちを罰することを目的とした遠征」*――は、母星に向けた攻撃的作戦を含意します。これは相当な主張です。母星への攻撃には、少なくとも、恒星間移動が可能な宇宙船と、技術的に進んだ文明に損害を与えることができる弾頭と、特定の標的に到達可能な配送システムが必要となるでしょう。バベルの塔の計画は、外交目的で宇宙船を建設する試みでした――人間を母星に運び、自ら直接訴えを起こすためのものです。ソドムとゴモラの計画は、典拠の記述によれば、別の、より危険なものでした。同じ技術計画の軍事化であり、通信ではなく報復を目的としていました。運動がバベル期から救い出した「科学的秘密」が、計画が必要とした技術的基盤でした。
+
+ここでコーパスの読みが具体的な仕方で鋭くなります。ソドムとゴモラの運動は、「天の車輪」の枠組みでは、創世記19章の従来の読みが想像するような種類の道徳的失敗――性的逸脱や社会的腐敗という意味での「邪悪さ」、中世および現代の伝統がテクストに重ねてきた読み――ではありませんでした。それは政治的・軍事的計画でした。封じ込め政策を力によって逆転させようとする、人間主導の陰謀でした。聖書テクストが諸都市に帰した「邪悪さ」は、典拠の読みでは、{% libref(book="genesis-woh", chapter=6, verse=5) %}創世記6:5{% end %}が洪水以前の文明に帰したのと同じ種類の「邪悪さ」――科学的自律性への欲望――でした。それは今や、不満によって強められ、以前自分たちを滅ぼそうとした評議会への攻撃という明示的な目標の周りに自らを組織化した運動に集中していました。
+
+しかし、反乱者たちが彼ら自身の自己理解では、同盟の仕事を続けていたことを記録しておく価値もあります。彼らは蛇の継承者でした。彼らは評議会に対抗して立ったルシファー派の精神的子孫でした。彼らは上位パートナーたちが始めた計画を引き継いでいました。彼らの視点からは、彼らは同盟の大義の正統な継続者でした。彼らが実際に行っていたこと――母星に対する軍事的打撃を組織すること、同盟が彼らに教えた技術を防御的ではなく攻撃的な目的のために使おうとすること、元のルシファー派が決して支持しなかったであろう仕方で評議会に対して陰謀を企てること――は、別物でした。元のルシファー派は人類創造物を愛し、それを保存したいと願いました。彼らは命を救うために評議会に逆らいました。彼らは生物圏を保存するために方舟を建造しました。彼らは人間にその価値を示すよう教えました。彼らはバベルの塔を和平の申し出として建てました。あらゆる段階で、彼らの抵抗は愛によって動かされ、最終的な和解を望む枠組みの中で運営されていました。
+
+ソドムの反乱者たちはこの枠組みを放棄しました。彼らは愛によってではなく不満によって動機づけられていました。彼らは和解を求めていたのではなく、復讐を求めていました。彼らは命を保存していたのではなく、破壊を計画していました。彼らは政治的相続――蛇の象徴主義、抵抗の言語、技術的知識――を取り、教師たちが拒否したであろう目的へとそれを曲げていました。相続の腐敗は、ソドムで起こっていたことの内的な道徳構造であり、それに続くすべてを形作ることになります。
+
+{{ figure(src="timeline/age-of-taurus-cities-plain", alt="銅色の光に照らされた繁栄した平原。城壁の都市、運河、果樹園、山々、そして広い盆地の近くに守られた光。", caption="図 3 - 平原の諸都市:相続物が危険な計画へと集結する。") }}
+
+## VI. 二人の斥候、打撃、そして死海
+
+ソドムとゴモラで発展しつつある状況に対する評議会の対応は、創世記18章と19章に記録されており、典拠の読みは聖書の物語をその運用的な意味に翻訳します。
+
+評議会は、遠隔観測能力を通じて状況を監視しており、発展中の計画について脅威を直接確認するために二人の要員を地上に送るほど十分に懸念していました。創世記のテクストはこれを当時の言語で描写します。「二人の御使いが夕方ソドムに着いた」({% libref(book="genesis-woh", chapter=19, verse=1) %}創世記19:1{% end %})。ラエル派の典拠はこれを直接翻訳します{{ cite(id="1") }}。*「創造者たちは何が起きているかを調査するために二人のスパイを送った。」*ヘブライ語テクストの「御使い」は、コーパスが発展させてきた枠組みでは、特定の運用機能を遂行する創造者文明の要員です。彼らは翼を持つ超自然的存在ではありません。彼らは斥候であり、特定の偵察と確認の任務を遂行するために送られ、進んだ文明の偵察隊が携帯するであろう種類の個人用装備を備えています。
+
+斥候たちは都市に入りました。テクストが記録するところでは、彼らは現地の人口によって外国人として認識されました。受けた敵対的な歓迎――現地の群衆による彼らを捕らえようとする要求――は、これらの都市が単なる民間中心地ではなく、外部の調査者を直接的な脅威として認識する運動の運営基地であったという典拠の読みを裏付けます。典拠は、斥候たちが自衛したことを記します。*「数名の人間が彼らを殺そうとしたが、スパイたちはポケット型の原子兵器で攻撃者の目をくらませることに成功した。」*創世記のテクストはこれを保存しています。「彼らはその家の戸口にいた人々を、小さい者から大きい者まで、目をくらませて打った」({% libref(book="genesis-woh", chapter=19, verse=11) %}創世記19:11{% end %})。テクストが記録する「目くらまし」は、典拠の読みでは、近距離で発射された指向性エネルギー兵器の即時的な視覚的効果です――斥候たちが標準装備として持ち、攻撃する群衆を、何が起きているかをより広い人口に警告するような大量の犠牲者を生み出すことなく無力化するのに十分な個人用装備です。
+
+マムレでのアブラハムとヤハウェ図像の会話は、その同じ日の早い時に起こっており、正しき者の閾値をめぐる交渉は、十人の正しき者が見つかれば都市は救われるという合意を生みました。斥候たちの確認は、その閾値が満たせないことを確認しました。都市は確かに反乱の運営中心地であり、計画に関与していないか、または共感していない人口は、重要な数に達しませんでした。打撃が承認されました。
+
+打撃の前に、斥候たちは救う価値があると同定された少数の現地人を取り出しました。聖書テクストはこれらをロトとその家族――ソドムに居住していたアブラハムの甥――として特定します。テクストはなぜそうしたのかを完全には説明しませんが、典拠の読みでは、彼は復讐運動の一部ではなく、それゆえ斥候たちによって保存に値するものとして同定されました。斥候たちはロトに去るよう警告しました。「立って、この場所から出なさい。ヤハウェがこの町を滅ぼされるからです」({% libref(book="genesis-woh", chapter=19, verse=14) %}創世記19:14{% end %})。彼らは振り返ってはならないと特定しました。「のがれて自分の命を救いなさい。後ろを振り返ってはならない。低地のどこにもとどまってはならない」({% libref(book="genesis-woh", chapter=19, verse=17) %}創世記19:17{% end %})。指示は技術的に動機づけられたものでした。これから起こることは、比喩的な意味での神的介入ではなく原子的な打撃でした。爆発を近距離――数キロメートルの距離でさえも――で観察することは、最初の閃光から永続的な網膜損傷をもたらすでしょう。振り返るなという指示は、二十世紀の実際の核兵器実験に関与した要員が、後にほぼ同一の形で受け取ることになる、その種の安全警告でした。
+
+打撃が続きました。「するとヤハウェはソドムとゴモラの上に、ヤハウェのもとから、すなわち天から硫黄と火を降らせた。これらの町と、すべての低地と、町々のすべての住民と、地に生えるものを滅ぼされた」({% libref(book="genesis-woh", chapter=19, verse=24) %}創世記19:24-25{% end %})。典拠はこれを原子爆発として読みます。*「そして爆弾はソドムとゴモラに落ちた。」*規模は洪水事件よりもはるかに小さく――特定の都市標的に対する戦術的打撃であり、惑星規模の大変動ではありません――直接の地域への影響は包括的でした。都市と人口は破壊されました。周辺の平原は不毛化されました。植生は焼き払われました。聖書の句「地に生えるものすべて」は、現代の読者なら誰もが核打撃の帰結として認識するであろう同じ種類の農業的不毛性を反映しています。
+
+ロトの妻は、テクストが記録するように、警告に従いませんでした。彼女は振り返り、彼女は「塩の柱になった」({% libref(book="genesis-woh", chapter=19, verse=26) %}創世記19:26{% end %})。従来の読みはこれを不従順への比喩、または滅びゆく過去にしがみつくことの霊的帰結として受け取ります。典拠の読みはより直接的です。*「あなたがたが今知っているように、原子爆発による火傷は、近すぎる場所にいる者を殺し、塩の像のように見せる。」*ロトの妻は、爆発の瞬間に振り返り、放射熱によって殺され、その身体は閃光によって石灰化した形に縮減されました。二十世紀の原子実験場の現代の観察者は、このパターンを認識するでしょう。核閃光の瞬間に屋外で捕らえられた身体は、極端な場合、像に似た形に縮減されることがあります――軟組織が気化し、骨格構造が気化した鉱物の被覆の中に保存され、全体が死の瞬間に立つ塩白色の像として現れます。聖書の著者は、目撃者たちが見たものを、彼らが利用できた語彙で保存しました。同じ描写を読む現代の観察者は、それが何を意味するかを認識するでしょう。
+
+塩化はロトの妻をはるかに超えて広がりました。「塩の柱」は単一の人間の死の圧縮された記憶ですが、破壊された諸都市の周辺の風景全体が、地域の物理的痕跡として持続する、そしてまさしく永続的になる規模で塩化されたのです。
+
+私たちが今知っている死海――海面下約430メートルに位置する狭く高塩分の盆地、通常の海水の十倍の塩分濃度を持つ水、すべての通常の水生生物に対して死んだ状態、不毛の塩原と乾燥した泥灰土の景観の中にある――は、ソドム以前のこの地域の住民が認識したであろう特徴ではありません。聖書テクスト自体が、現代の死海に似た何ものとも整合しない、ソドム以前の風景の描写を保存しています。{% libref(book="genesis-woh", chapter=13, verse=10) %}創世記13:10{% end %}は、破壊以前にロトが定住することを選んだ平原を描写し、それを「いたるところよく潤って、ヤハウェの園のようであり、エジプトの地のようであった」と描写しています――肥沃な農業地、ナイル・デルタに匹敵し、相当な農業と都市人口を支えた川や湖によって潤されたものです。ソドムとゴモラを含む平原の諸都市は、この時代の考古学的記録が記録した種類の文明を支えるのに十分繁栄していました。実質的な宮殿、発達した交易ネットワーク、そして両方を維持するのに必要な人口基盤を持つ城塞化された都市中心地です。事件以前にその地域に存在した水域が何であれ――川、小さな淡水または微塩湖の連なり、おそらくはより大きいが浅い、リフトバレーの底に沿った湖の前身――それはロトの語り手が描写する周辺の農業平原と両立可能でした。
+
+その風景はもはや存在しません。今存在するのは盆地です。理にかなった推論――「天の車輪」の枠組みが明示するもの――は、盆地は兵器が生み出したものであるということです。現代の死海の特定の特徴は、この読みによれば、約五千年前にこの特定の地域で、または地表近くで起こった原子規模の爆発の物理的痕跡です。盆地の深さは、周辺の地形よりはるかに低く、爆発によって生み出された地盤変位――徐々の構造的沈下ではなく、土と下層の地層の突然の破局的変位によって形成されたクレーター規模の特徴――を反映しています。高塩分性は、事件後の数世紀にクレーターに流れ込んだ水の蒸発によって残された鉱物の濃縮と、爆発自体によって分布された気化と再堆積した塩を反映しています。水中の生命の不在は、塩だけでなく、原子爆発が生み出すさまざまな化合物――硫化物、重金属、異常な鉱物濃度――を反映しており、盆地はそれらを不自然に高い濃度で保存しています。海を取り巻く不毛の塩原は、直接の海岸線をはるかに超えて広がり、事件の残留する地盤汚染であり、地域気候の乾燥性が、雨によって浸出されるのではなく持続することを可能にしたことで保存されています。
+
+主流派の地質学は死海についての独自の読みを持っており、コーパスはその読みが従来の説明と完全に両立不可能ではないことを認めます。ヨルダン断裂渓谷は実在する構造特徴であり、アラビアプレートとアフリカプレートの分岐の産物であり、盆地の深さの一部はリフト機構が生み出す緩慢な構造的沈下に帰すことができます。現代の死海の形成の従来の編年――更新世末にはより広く塩分の低い盆地を占めていた以前のリザン湖から現代の構成への移行――は、コーパスの読みにとって大まかに正しい地質学的時代に移行を位置づけています。従来の説明が気候的乾燥化と緩慢な地質学的過程に帰すものを、コーパスはより広い構造設定の上に重ね合わされた特定の破局的事件に帰します。リフトは存在していました。ソドム事件はリフトを作ったのではありません。それが行ったのは、リフトの内部に、その後の数千年が現代の死海として保存している特定のクレーター形態と極端な塩分濃度を生み出すことでした。事件なしには、リフトはおそらくリザン期の構成と同様に、その海岸沿いに通常の農業生活を支える、より大きく、新鮮な水域を含んでいたでしょう。事件によって、それは私たちが今見ている盆地を含むことになりました。
+
+この読みは、従来の説明が常に扱いに困ってきた特徴を説明できるという利点があります。現代の死海の極端な塩分濃度――通常の海水の十倍、もっともらしいタイムスケールで淡水源からの通常の蒸発が生み出すであろうものをはるかに超える――は異常です。リフトバレーが大まかにではあるが具体的にではなく原因となっている、盆地の具体的な深さと形状は異常です。周辺地域の考古学的記録――青銅器時代後期にほぼ一致する時期にヨルダン渓谷下流の突然で包括的な人口減少を示し(再定住は何世紀も後にのみ起こる)――は、気候的要因だけでは説明しにくいものです。これらの特徴すべては、コーパスの読みでは整合的です。死海はクレーターです。その周辺の塩原は降下物地帯です。地域の長期的な人口減少は、環境が再び居住可能になるために必要な時間を反映しています。
+
+このより広い地理的痕跡の中で、特定のテル・エル・ハマーム遺跡における考古学的作業が、単一の都市の規模での局所的データ点として提案されてきました。テル・エル・ハマームは、当時、死海の北東のヨルダン渓谷南部の中期青銅器時代の重要な都市中心地でした。2021年のバンチ他の論文{{ cite(id="5") }}は、遺跡の破壊層に重要な空中爆発の痕跡が含まれていると主張しました。その論文は2025年4月に『サイエンティフィック・リポーツ』誌によって撤回されました{{ cite(id="6") }}。編集者たちが空中爆発の主張がデータによって十分に裏付けられていないと結論したためです。したがってテル・エル・ハマームは、コーパスの読みのための確立された科学的証拠として扱うことはできません。それは、ここでは、読みが満たさなければならない証拠基準を示すその受容が、議論の余地のある提案として残ります。
+
+テル・エル・ハマームの破壊について提案された編年――およそ紀元前1650年――は、ソドム事件に関するコーパスの公称牡牛座期間より数世紀後であり、代わりに牡羊座時代初期から中期に位置づけられます。したがってコーパスはテル・エル・ハマームを聖書のソドムと具体的に同定するわけではありません。撤回後、この遺跡は、空中爆発や類似の事件がそこで起こったことを確立することもできません。死海は、コーパスの読みが提案するマクロ規模の痕跡として残ります。テル・エル・ハマームは議論の余地のある比較点であり、科学的確証ではありません。{{ footnote(id="2") }}
+
+テル・エル・ハマームで報告された塩濃度は、最後の覚え書きに値します。撤回された論文は、それらを空中爆発の死海とその塩原との相互作用に帰しました。コーパスの読みはこの関係を逆向きにします。同じ地域で後続の打撃が起こったとすれば、それは以前の事件が作り出した塩化された景観と相互作用するでしょう。空中爆発論文が撤回されたため、この比較は推測的なままでなければなりません。ロトの妻に関する聖書の細部とより広い塩化された景観は研究上の問いを動機づけることはできますが、テル・エル・ハマームはそれを決着させません。
+
+{{ figure(src="timeline/age-of-taurus-dead-sea-strike", alt="遠くのオレンジ色の塩盆地の変容。地平線で消えていく閃光、鉱物の霞、壊れた水路、白い塩原。", caption="図 4 - 打撃:肥沃な平原が塩と沈黙へとひっくり返される。") }}
+
+## VII. 忘却と蛇の変容
+
+ソドムとゴモラでの破壊は、その直接の運用範囲においては、特定の都市を占める特定の反乱派閥への打撃でした。しかし、そのより広い文化的帰結においては、打撃はより大きなものでした。典拠はその余波を、それに続くすべてを形作る含意を持つ一文で描写しています。*「ソドムとゴモラのような進歩の中心地が破壊され、最も知性的な個人が排除されたために、人間たちは非常に原始的な状態に逆戻りし、自分たちを実際に創造した者を忘れて、かなり愚かにも石や偶像のかけらを崇拝し始めた。」*
+
+この一文では三つのことが主張されており、それぞれに重みがあります。第一に、ソドムとゴモラは「進歩の中心地」であった――単なる反乱の基地ではなく、バベル以後の散らし以来エデン系統で発展してきた科学的・知的文化の生き残った保管庫だったということ。第二に、打撃は「最も知性的な個人」を排除した――単なる過激派の指導部ではなく、より広い教育を受けた階級――ということ。第三に、その帰結は、宗教的伝統の外形は保ちながらも、その形が何を指していたかを理解する枠組みを失った人口だった――偶像崇拝が原初の罪としてではなく、教育を受けた階級の喪失に続く特定の文化的状態として――ということ。
+
+これらのそれぞれは、解きほぐすに値します。
+
+平原の諸都市は、コーパスの読みでは、長い静寂の間の技術的知識の緩やかな再蓄積の自然な目的地でした。バベル以後に散らされた科学者たちとその子孫は、広い地域に分散していたものの互いに完全に失われたことはなく、何世紀にもわたって、散らされた人口が常に使ってきた仕組み――交易、結婚、宗教的集会、世代を越えての家族伝統の伝達――を通じて再び互いに見出していったでしょう。平原の諸都市は、再蓄積が成熟できる地理的条件を提供しました。繁栄し、水の豊富で、防御可能で、主要な政治中心地から直ちに精査されずに運営するのに十分遠く、相当な人口を支えるのに交易ネットワークに十分近い場所です。長い静寂の末期の数世紀までに、これらの都市は典拠が呼ぶもの、進歩の中心地になっていました。単純な意味での反乱基地ではなく、バベル以前の知識の生き残った保管庫を人口に含み、その図書館(または同時代の同等物)が技術的伝統を保存し、その学校が世代を越えて技能を伝達し、その宗教制度がバベルで行われたことと、なぜ行われたかについての政治的記憶を生かしていた都市です。
+
+典拠が描写する軍事計画――母星に対する攻撃的遠征を組織しようとする試み――は、これらの都市の活動全体ではありませんでした。それはより広い文化的計画の最も攻撃的な表現でした。これらの都市はまた、単純にバベル以後の縮小した世界における文明的な中心地でもありました。それらは、洗練された人物が相続を共有する他の者たちを見つけることができる場所、政治的記憶が生きていた場所、宗教的伝統が元の形に近い形で維持されていた場所でした。したがって、都市の破壊は軍事計画だけでなく、それらの都市がそれであったすべてを破壊しました。科学者たちは死にました。教師たちは死にました。宗教的専門家たちは死にました。都市生活を維持していた商人や行政官たちは死にました。図書館は燃えました。制度的記憶は終わりました。
+
+破壊された都市に集中していなかった人口――農業村落、牧畜共同体、反乱の組織的範囲外にあった小さな町――が、より広いレヴァントに散らされた状態で残りました。これらの人口は、独自の時代において、都市中心地のエリートよりも教育を受けていなかった人口でした。彼らは、宗教的伝統を学術的な形ではなく民衆的な形で実践していました。彼らは、根底にある説明を必ずしも伝達することなく、図像と儀礼と名前を伝達してきました。破壊以前、彼らはエリートを上位とする文化の広い基盤でした。上位が取り除かれると、基盤は残りましたが、基盤は上位が運んでいた制度的記憶を含んでいなかったのです。
+
+これが典拠が「非常に原始的な状態に逆戻りした」と言うときに意味するものです。この句は比較的なものであり、人類学的なものではありません。人口は技術的な意味で石器時代の状態に縮減されていません。従来の考古学は、ソドム以後のレヴァントの人口が農業共同体、城塞化された町、交易ネットワーク、そして相当な洗練の文化的伝統を運営し続けたことを示します。破壊後に欠けていたのは、より高い知識を運んでいた教育を受けた階級でした。図像の技術的理解、宗教的伝統の科学的基盤、前の時代に実際に何が起こったかについての制度的記憶――これらすべては都市中心地に集中しており、その破壊とともに失われました。民衆の実践は続きました。より深い意味は蒸発しました。
+
+これが、コーパスの枠組みでは、預言者の伝統が後に偶像崇拝と呼ぶことになるものの歴史的起源です。後のヘブライ伝統の預言者たちは、「石や偶像のかけら」の崇拝を、原初の人間の罪、堕落した人間性の帰結として糾弾しました。コーパスの枠組みはより具体的な説明を提供します。石や偶像のかけらの崇拝は、その起源においては、教育を受けた階級を失った人口の残余の実践でした。石はかつて特定の歴史的現実――元の政治的紛争の図像、洪水以前と洪水後の歴史の出来事、人類問題に実際に介入した存在――を表していました。人口は石が何を指しているかをかつて知っていました。ソドム以後、人口は石をまだ持っていましたが、もはやその説明を持っていませんでした。彼らは石を崇拝しました。なぜなら崇拝が伝達されてきたが、その崇拝が何についてのものかを理解するための枠組みが失われてしまっていたからです。
+
+このより広い文化的状態の中で、それ以来西洋の宗教的想像力を形作ってきた特定の象徴的変容が起こりました。蛇――ヘブライ語で*nachash*、エデンと洪水後の時代を通じてのルシファー派の象徴――は、ソドム以後の数世紀が動かした、価値の進行的な変化を経験しました。{{ footnote(id="1") }}
+
+ソドム以前の期間において、蛇の象徴は、エデン系統独自の宗教的伝統において一義的に肯定的でした。創世記3章の*nachash*は、一つの声で語るルシファー派――禁じられた知識を開示するほどに被造物を愛した異論派の創造者たち――でした。蛇の図像は、教師たち、恩人たち、課された無知からの自由を彼らに与えた存在に対するエデン系統の象徴だったはずです。同じ肯定的な象徴主義は、洪水後の教えに由来する伝統を持つ周囲の文明にも保存されています。エジプトの*ウラエウス*(ファラオの王冠の上のコブラ、神的保護の象徴)、メソポタミアの治癒と知恵に関連する蛇の象徴主義(アスクレピオスの杖は、より古い近東の蛇と杖の図像に由来する)、インダス渓谷の蛇の図像、メソアメリカのケツァルコアトル。これらすべては、同盟の文化的相続として洪水後の諸文明全体で普遍的であったであろう元の肯定的な蛇の象徴主義の生き残った断片です。
+
+ソドムの反乱はこれを変えました。ソドムとゴモラの反乱者たちは、同盟からの正統な相続を主張しました。彼らは蛇の象徴主義を自分たちのものとして引き合いに出しました。彼らは自分たちをルシファー派の計画の継続として提示しました。彼ら自身の視点からは、彼らは自分たちの教師たちの後継者でした。しかし彼らが行っていたこと――攻撃的軍事作戦の組織化、評議会に対する陰謀、母星への攻撃の計画――は、元のルシファー派が拒否したであろうものでした。元の派閥は人類創造物を愛しました。ソドムの反乱者たちは評議会を憎みました。元の派閥は命を保存するために方舟を建造しました。ソドムの反乱者たちは破壊するために組織しました。元の派閥は和平の申し出としてバベルの塔を建てました。ソドムの反乱者たちは自分たちの計画を兵器として建設しました。文化的伝達のレベルでは相続の連続性は実在しましたが、道徳的方向性は逆転していました。
+
+周辺の文明は何が起こっているかを観察していました。彼らは平原の諸都市が繁栄し影響力を増していくのを見ました。彼らはおそらく、洪水後の諸文明を結ぶ交易ネットワークと宗教的接続を通じて、反乱者たちが立てていた宗教的・政治的主張を聞いていました。彼らは反乱者たちが引き合いに出した蛇の象徴主義を、反乱者たちが進めていた計画と関連づけました。そして評議会の打撃が来たとき――ソドムとゴモラが、数百キロメートル先の観察者ならば誰でも見たであろう閃光で破壊されたとき、盆地が大変動の塩と硫黄で満たされたとき、周辺地域が何世紀にもわたって人口減少したとき――周辺の人口はこの破壊を、破壊された都市が公言していた蛇の象徴主義と関連づけました。蛇はかつて、被造物を愛した教師たちの象徴でした。ソドム以後、蛇は破壊をもたらした反乱の象徴となり始めました。
+
+変容は続く数世紀に加速しました。特にエデン系統自体の中で。ソドム以後の人口は、教育を受けた階級を破壊されており、もはや元の区別を維持する枠組みを持っていませんでした。ルシファー派(人類を教えた、地球を拠点とする異論派の創造者たち)、蛇(ルシファー派に対する集合的指定)、サタン(人類を滅ぼしたかった母星の政治的反対派)、ヤハウェ(破壊を命じた評議会議長)は、独自の歴史的役割を持つ異なる図像でした。枠組みが失われるにつれて、区別はぼやけていきました。ソドムから後の預言文学の構成まで何世紀にもわたって、図像は次第に合体しました。蛇は反乱と関連づけられるようになりました。反乱の蛇は母星の政治的反対派と関連づけられるようになりました。第二神殿期末期までに、より初期のヘブライ伝統の上にペルシャの二元論の影響が重ねられ、合体は完全になりました。ルシファーとサタンは一つの宇宙的悪の図像へと混同され、蛇はこの図像と同一視され、典拠の記述に保存されていた元の区別は宗教的伝統から失われました。
+
+混同はそれ以来西洋の宗教的想像力を形作ってきました。キリスト教の伝統は混同された図像を継承し、それを悪魔、宇宙的敵、暗黒の王子へと精緻化しました。中世神学はその図像を、千年にわたって西洋の宗教的思考を支配することになる精緻な悪魔学へと洗練しました。宗教改革の伝統は混同された図像を保存し強化しました。現代までに、元の区別はあまりにも徹底的に忘れられたため、図像は原初的なものとして扱われていました――あたかも神的善に対立する宇宙的悪が、特定の文化的変容の歴史的産物であるのではなく、宗教的伝統の中に常に存在していたかのように。その特定の変容は、牡牛座末期の数世紀の特定の瞬間に始まったのです。
+
+このパターンの現代の反響については、特定の同定に過剰にコミットしないよう適切な配慮をしつつ、言及するに値します。倫理的制約を顧みず、政治的・技術的秩序の操作を通じて権力を追求する西洋の思考と行動の系統――おおまかに倫理的制約のない絶対的権力への意志と呼べるもの――は、コーパスの読みでは、ソドムの瞬間にまで遡る系譜を持ちます。ソドムの反乱者たちは、このパターンの最初の主要な歴史的事例でした。彼らは解放の計画から正統な相続を主張しましたが、その相続を破壊へと向け変えました。彼らは復讐の計画を正当化するために愛と抵抗の象徴を引き合いに出しました。彼らは秘密裏に組織し、断片的な科学的知識を、彼らが非合法と見なしながら実際の性質を不完全にしか理解していなかった権威に対する攻撃的軍事目的のために使用しました。このパターンは、その後の歴史にさまざまな形で再帰します。ルシファーを光の運び手とする図像を明示的に引き合いに出しつつ、サタンを権力追求者とする神話を採用する中世および初期近代のオカルト伝統において、いかなる手段によっても究極の権力を求める政治運動において、不透明な手の中に権力を集中させつつ技術的支配を通じて超越を約束する現代のテック・ユートピア的プロジェクトにおいてです。
+
+これは、現代の運動がソドムの反乱者たちの文字通りの子孫であるという主張ではありません。劇場的サタニズムの現代の表現のほとんど――サタン教会、ザ・サタニック・テンプル、さまざまな宗教的自由のサタニスト組織――は、いかなる実際の宇宙的悪の枠組みへのコミットメントもなく、透明な修辞的目的のためにサタンの象徴主義を使用する、明示的に哲学的または政治的な計画です。これらはコーパスが同定する系譜ではありません。系譜は正確に名指しすることがより困難です。なぜなら、それは一貫してサタンの象徴主義を明示的に使用しないからです。それはむしろ、解放の計画を権力追求の計画へと腐敗させること、破壊を正当化するために愛と抵抗の言語を引き合いに出すこと、究極の目的がいかなる手段をも正当化するという確信のパターンです。このパターンはその現代の表現より古く、その起源点は、コーパスの読みでは、同盟の政治的相続が、それを元々動機づけた愛を放棄した人間たちによって最初に取り上げられたソドムの瞬間です。
+
+周辺の文明全体にわたる神話的歪曲は、同じより広い現象の一部です。他の系統はソドムの出来事を観察していました。彼らは独自の科学的エリート、独自の教育を受けた階級、独自の制度的記憶を持っていました――しかしソドムでの出来事は、エデン系統独自の伝統を通じてではなく、彼ら自身の文化的枠組みを通じて解釈されたことでしょう。何世紀にもわたって、周辺の文明がソドムの記憶を独自の宗教的・神話的伝統に統合するにつれて、出来事は次第に変容したことでしょう。劇化され、道徳化され、寓意化され、他の出来事と織り合わされて合成的な物語になったことでしょう。文化を超えての神話的記録は、何が起こったかの真理を保存しますが歪曲された形で、その歪曲は、出来事を理解する枠組みが最初から不完全だった人口を横断する長い伝達の累積的産物となります。洪水伝統は洪水を保存しました。牡牛崇拝伝統は歳差運動の時代を保存しました。蛇の伝統は元のルシファー派の肯定的な役割と、その後の変容を保存しました。伝統は真理を保存しますが、真理は元の意味が失われた象徴に符号化されています。
+
+コーパスのより広い計画には、忘れられたものの回復が含まれます。これらの章で提示された枠組みは、新しい啓示ではありません。それは復元です――典拠の記述が保存し、コーパスが、それらが失われていた長い数世紀の後に再び利用可能にしている区別の再組立てです。
+
+## VIII. 縁にあるアブラハム
+
+ソドムとゴモラの破壊は、聖書の物語では、家長アブラハムの生涯中に起こります。アブラハムは、従来の聖書編年では、紀元前二千年紀初頭頃と位置づけられます――「天の車輪」のタイムラインでは牡牛座末期から牡羊座初期にまたがります。彼は、ヘブライ語聖書がその伝記を詳細に記録する恩赦後の時代の最初の主要な図像であり、コーパスの物語における彼の役割は、いくつかの理由で重要です。
+
+聖書の物語は、創世記11章で、もともとアブラムと名づけられたアブラハムを、セムの子孫でテラの息子として、メソポタミア南部のカルデアのウルから出ていた者として紹介します。家族はウルから上流のユーフラテス地域のハランへ移住します。ハランから、父の死後、アブラムは創世記12章を開く召命を受けます――*lekh lekha*の命令、彼の国と親族と父の家を離れ、示される地へ旅するようにというものです。彼は、聖書テクストによれば召命の時に七十五歳でした――かなりの年齢ですが、ヘブライ語聖書が洪水後の家長たちと関連づける長寿の数字によれば、極端なものではありません。
+
+召命は、コーパスの読みでは、徴募です。評議会は、ソドムの反乱中心地を破壊した(あるいは破壊する決定をした――創世記12–19章の年代的順序は破壊以前に召命を位置づけますが、召命はソドム以後の反乱後の期間に信頼できる系統を同定する評議会の作戦であった可能性もあります)後、その周りに生き残ったエデン系統が再組織化できる、検証済みの忠実な図像が必要でした。召命はアブラハムを候補者として同定します。アブラハムになされた約束――「わたしはあなたを大いなる国民とし、あなたを祝福し、あなたの名を高めよう。あなたは祝福の基となる」({% libref(book="genesis-woh", chapter=12, verse=2) %}創世記12:2{% end %})――は、回復の政治的計画です。特定の系統が、ソドム後の縮小した状態で人類創造物を進めるために、恩赦後の評議会-エロハの機構によって同定され支援されるというものです。
+
+創世記15章で公式化された契約は、計画の地理的条件を定めます。アブラハムは、彼の子孫が特定の地――「エジプトの川から、大きな川、すなわちユーフラテス川まで」({% libref(book="genesis-woh", chapter=15, verse=18) %}創世記15:18{% end %})――を相続することを約束されます。これは旧エデン領のより広い地域を含みます。契約は、本章の前の節が描写した儀礼によって封印されます。動物が二つに切られ、煙を出す火鉢と燃える松明が断片の間を通り過ぎます。契約の拘束力は、ヘブライ語の語彙が由来する古代の法的慣行によって確立されます。
+
+創世記17章での改名は、家長を私的な個人から回復計画の創設の図像へと変容させることを示しています。*Avram*、「高められた父」は、*Avraham*、「多くの国民の父」となります。サライはサラとなります。契約は再確認され、契約共同体への会員資格の物理的標識として割礼(*brit milah*)の制度が補足されます。アブラハムのすべての男性の子孫は、この時点から先、契約への参加者として肉体に標識づけられます。標識は永続的です。簡単に偽装したり取り消したりすることはできません。世代を越えて、誰が契約系統に属し誰が属さないかについての紛れもない物理的徴を確立します。
+
+創世記18章のマムレの訪問は、本章の早い節の焦点であり、ここで再び辿る必要はありません。指摘するに値するのは、訪問中のアブラハムがしたことです。彼は訪問者たちをもてなし、食事を与え、ソドムへの道に同行しました。訪問者たちが相当な重要性を持つ存在であるという明らかな認識を持ちながら、後の宗教的伝統がその出会いに付するであろう種類の畏れなしに、彼は通常のもてなしの機能を遂行しました。アブラハムは彼らを崇拝の対象としてではなく、栄誉ある客人として扱いました。テクストはこの自然主義的な質を保存しています。アブラハムが訪問者たちが誰であるかについて何を理解していたにせよ、彼はホストが客人と関係するように彼らと関係しました。適切な敬意をもって、しかし後の伝統が遡及的に課すことになる平伏と儀礼的精緻化なしにです。
+
+食事の後に続くソドムをめぐる交渉は、本章の前の節が描写した政治的対話です。アブラハムは交渉します。ヤハウェの図像は応答します。正しき者の閾値で合意に達します。十人の正しき者が見つかれば都市は救われます。斥候たちが確認します。本章の前の節は帰結を辿りました。確認は失敗し、打撃は進み、ロトの家族のみが保存されます。
+
+創世記21章の出来事――イサクの誕生、ハガルとイシュマエルの追放――は、創世記22章の忠誠の試練を枠組みづける家族状況を確立します。長く不妊だったサラは、極めて高齢でイサクを宿します。誕生はそれ自体が同盟による介入の事例として扱われます。マムレに現れる*Adonai*は、サラとアブラハムの両方の年齢にもかかわらず、サラが一年以内に宿すであろうことを事前に告げます({% libref(book="genesis-woh", chapter=18, verse=10) %}創世記18:10-14{% end %})。サラは告知を笑います({% libref(book="genesis-woh", chapter=18, verse=12) %}創世記18:12{% end %})――そして彼女の笑いがイサクの名*Yitzchak*、「彼は笑う」または「彼は笑うだろう」を意味するものの語源的根となります。命名は瞬間を保存しています。語呂合わせは意図的です。ヘブライ語のテクストは、子供を訪問者たちによる特定の介入の産物として、そして笑いをテクストが記憶したい人間の応答として、印を付けています。
+
+ハガルとイシュマエルの追放({% libref(book="genesis-woh", chapter=21, verse=9) %}創世記21:9-21{% end %})は、同盟の計画が解決することを必要とした家族状況の複雑さを扱います。イシュマエル、ハガル(サラのエジプト人の侍女)によるアブラハムの息子は、年長の息子であり、通常の父系継承では主要な相続人になっていたでしょう。しかし、契約計画はサラの子孫を通じて具体的に約束されていました。追放は継承の系列を整理します。イシュマエルとハガルは食料とともに送り出され、同盟の機構が彼らを守ります――荒野でハガルに天使が現れ、水が提供され、イシュマエルは生き延びて自身の系統の創始者となります。聖書テクストは、それを主要な系列とすることなく、イシュマエルの子孫に対する並行的な計画を保存しています。イサクが契約の担い手となります。
+
+創世記22章のイサクの献げは、アブラハム物語全体において最も神学的に重い箇所です。本章の前の節が指摘した明瞭さでテクストはそれを導入します。*ve-ha-Elohim nissah et Avraham*、「そしてエロヒムはアブラハムを試みた」。動詞は曖昧ではありません。続くことは、テクスト自身の冒頭の言葉では、真の命令ではなく試験として描写されます。アブラハムは、彼の唯一の息子、彼が愛する息子であるイサクを、モリヤの地の特定の山に連れていき、そこで燔祭として捧げるよう指示を受けます。彼は抗議せずに進みます。彼はろばに鞍をつけ、僕たちを集め、燔祭の薪を取り、三日間旅をします。三日目に彼はその場所を見ます。彼は僕たちを残します。彼は自分で薪を運びます。イサクは火を運びます。一緒に彼らは登ります。
+
+登りの間の父と子の対話は、ヘブライ語聖書の中で最も痛ましいものの一つです。イサクは燔祭の小羊はどこかと尋ねます。アブラハムは答えます、「わたしの子よ、エロヒムが、自ら燔祭の小羊を備えてくださるであろう」({% libref(book="genesis-woh", chapter=22, verse=8) %}創世記22:8{% end %})。ヘブライ語は開かれています。アブラハムは回避しているのかもしれません。何らかの備えがなされるという真の信仰を表明しているのかもしれません。彼自身がその完全な意味を理解していない言葉を語っているのかもしれません。テクストは私たちに告げません。テクストが告げるのは、山頂で起こることです。アブラハムは祭壇を築き、薪を置き、イサクを縛り、祭壇の上に置き、刀を取ろうとします。彼は天からの声によって止められます、「その子に手を下してはならない。また何事も彼に行ってはならない」({% libref(book="genesis-woh", chapter=22, verse=12) %}創世記22:12{% end %})。続く句――*ki atah yadati*、「今わたしは知った」――は、本章の前の節が指摘したテクスト上の信号です。話者は、試験が行われるまで答えを知りませんでした。試験は今や行われました。答えは受け取られました。
+
+コーパスの読みは直接的です。イサクの献げは、評議会(または評議会の権限を持って運営する同盟の赦免された代表者たち)が、エデン系統の人口の生き残った指導部に対して実施する忠誠の試験です。評議会は組織化された反乱のためにソドムとゴモラを破壊したばかりでした。それは、より広いエデン人口が、今やソドム以後の縮小した状態にあって、評議会の権威と恩赦後の政治的合意の修正された条件を、なお喜んで受け入れるかどうかを知る必要がありました。アブラハムは自然な試験対象でした――系統の最も顕著な生き残りの図像、契約計画の検証された創始者、彼の応答が彼が率いる人口を示すものとして取られるであろう人物。試験は設計上厳しいものでした。少なすぎる要求の忠誠試験は有用な情報を生み出さなかったでしょう。神的命令に自分の息子を犠牲にする意欲は、より少ない要求が検証できなかった忠誠の深さを実証します。アブラハムは合格しました。評議会は結果を記録しました。
+
+典拠はこれを直接描写します。*「後に、彼らの主要な知識人のほとんどが破壊され、彼らが半原始的な状態に逆戻りした後、創造者たちはイスラエルの民、特にその指導者がなお彼らに対して肯定的な感情を持っているかどうかを見たいと思った。これは、アブラハムが自分の息子を犠牲にしようとする箇所で語られている。創造者たちは彼を試み、彼の彼らに対する感情が十分強いかどうかを見た。幸いにも、実験は肯定的に終わった。」*
+
+典拠が、その期間をエデン系統が「半原始的な状態に逆戻りした」と描写することには、痛切なものがあります。バベルの塔を建てた文明、エロハの教師たちと協働して恒星間宇宙船を建造した文明、認められた対等者として母星の文明に参加する閾値に達していた文明――その文明が、アブラハムの時代までに、半牧畜的遊牧主義へと縮減されていたのです。科学的エリートはソドムで殺されていました。制度的知識は使用可能な形では生き残っていませんでした。残っていたものは、系図的系列、文化的記憶、そしてかつて理解されていたものの断片を保存する宗教的伝統でした。アブラハム自身は、典拠の記述によれば、かつて宇宙船を建造する文明の一員であった牧者でした。息子の潜在的な犠牲が、牧者たちが、牡羊座時代が開始することになる緩慢で、多世代にわたる再建を委ねられるに値するかどうかを決定する試験でした。
+
+試験の後に続く約束({% libref(book="genesis-woh", chapter=22, verse=16) %}創世記22:16-18{% end %})は、計画を拡張し確認します。アブラハムの子孫は天の星のように、海辺の砂のように多くなるでしょう。彼らは敵の門を所有するでしょう。彼らを通して地のすべての国民が祝福されるでしょう。これは、コーパスの読みでは、抽象的な神学的意味での神的約束ではありません。それは、ちょうど完了した検証とともに述べられた、恩赦後の合意の政治的計画です。系統の忠誠が実証されたので、評議会は今や計画にコミットできます。続く牡羊座の章は、計画が実際にどのように展開するかを記録します――エジプトへの下り、人口の増加、最終的な脱出、シナイでの契約、征服、王国、預言的・メシア的伝統。すべてが、アブラハムの検証された忠誠が可能にしたことの働き出しです。
+
+{{ figure(src="timeline/age-of-taurus-abraham-test", alt="暖かなオレンジ色の山の尾根。単純な祭壇、二つの小さな図像、低木、近くの雄羊のような形、そしてかすかな降下する光。", caption="図 5 - 試練:アブラハムの系統が回復計画のために検証される。") }}
+
+## IX. 牡牛と他の諸文明
+
+この時代に名を与える星座は、関連する時代の文化において、洪水後の諸文明全体で広く使われていた、おそらく最も顕著な宗教的象徴でした。
+
+牡牛、すなわち牡牛座は、本章が扱う歳差運動の時代全体を通じて春分点が昇った星座でした。およそ紀元前4,500年から紀元前2,000年まで、洪水後の世界中の観察者が、春分の日の出に東を見ると、牡牛の星々を背景に太陽が現れるのを見ました。この時代における星座の宇宙論的卓越性は、その宗教的生活を生き残った形で記録したほぼすべての文化の宗教芸術、儀礼的実践、神話的伝統に反映されています。
+
+エジプトでは、アピス雄牛が神性の中心的な動物の化身であり、独特の徴を持つ特定の生きた雄牛に体現され、古王国期を通じてメンフィスで崇拝されました。アピス崇拝は周辺的なものではありませんでした。それはエジプト宗教の基礎的な要素であり、サッカラの関連する埋葬複合体――セラペウム――が、最終的に、各々が神プタハの顕現に対する儀礼的栄誉とともに葬られた、何世代にもわたる聖なる雄牛のミイラ化された遺体を収容することになりました。崇拝は、修正された形で、何千年も続きました。母性、豊穣、天の川と関連づけられる雌牛の女神に捧げられた密接に関連するハトホル崇拝は、相補的な角度から多くの同じ宗教的空間を占めました。雄牛と雌牛は、合わせて、この時代の神的範例でした。
+
+メソポタミアでは、牡牛崇拝はさまざまな形を取りました。アッシリアの宮殿の入口を守った、人間の頭を持つ翼の生えた雄牛である*ラマッスー*は、地域における牡牛象徴主義の最も記念碑的な表現でした。{% libref(book="epic-of-gilgamesh") %}ギルガメシュ叙事詩{% end %}で英雄を罰するために送られた神的敵対者として登場する天の牡牛は、雄牛を敵対者として枠組みづける物語の中でさえ、雄牛の宇宙的意義の記憶を保存しています。最も初期の時代からのシュメールおよびアッカドの宗教的テクストには、雄牛と特定の神々、宇宙論的機能、神々が住むと考えられていた山々との繰り返しの関連性が貫いています。「雄牛エル」(*Tor El*)という称号を持っていた、カナンの宗教における至高神エルの雄牛の形は、この同じ複合体に属し、初期ヘブライ伝統で継承され変容することになります。
+
+クレタでは、ミノア文明が考古学に知られる最も物理的に劇的な形の牡牛崇拝を発展させました。牡牛跳びの儀式です。若い運動家たちが、突進する雄牛の角と背の上を跳び越えるという、その正確な意味は議論されているもののミノアの宗教的生活に対する中心性は曖昧でない儀礼です。クノッソス宮殿の壁画はこれらの儀式の画像を保存しています。紀元前1500年頃に描かれたクノッソスの有名な「牡牛跳び壁画」は、三人の人物――一人は雄牛の角を掴み、一人は背を跳び越え、一人は後ろに着地する――が、運動的な出来事ではなく儀礼的な連続に見えるものに従事している様子を描いています。ミノア宮殿は牡牛の図像で満ちており、後のクレタ迷宮の中心の雄牛頭の怪物であるミノタウロスのギリシャ神話は、崇拝の記憶を歪曲された形で保存しています。
+
+インダス渓谷文明では、雄牛は、文明の生き残った芸術的記録の多くを構成する印章の上に繰り返し現れます。有名な「ユニコーン」印章――実際には角の一つしか見えないように横顔で雄牛を描いたもの――は数千点に上り、文明の最も独特な遺物の一つです。後のヒンドゥー伝統で聖なるブラフマニー雄牛は、宗教的意義をインダス渓谷の先行物を通じて辿ります。続く時代に出現することになるヴェーダのインド・アーリア伝統は、シヴァの雄牛の乗り物であるナンディの図像において牡牛象徴主義を保存し、その図像は現代まで続くヒンドゥー寺院建築を支配し続けています。
+
+大西洋ヨーロッパの巨石文化では、雄牛の角と雄牛の図像が、イベリア半島からブリテンを通ってスカンジナビアまでの埋葬建造物、儀礼遺跡、装飾された石に現れます。ヨーロッパのケルトおよび先ケルトの人口の牡牛崇拝は、古典史料と生き残った考古学的証拠で記録されています。雄牛はローマ期を通じて(ミトラ教の雄牛屠殺儀礼)そして以遠まで、ヨーロッパの宗教的象徴主義に登場し続け、現代まで生き残った民俗伝統に痕跡を残しました。
+
+牡牛座時代における牡牛崇拝の文化を超えた分布は、コーパスの枠組みでは、偶然ではなく歳差運動の時代の真の効果です。この時代の天文学的性格を規定した星座は、直接的な対応によって、この時代の文化的性格を規定した宗教的意義を持つ動物でした。この時代の諸文化は、その宗教的象徴主義において、自分たちが生きていた時代の名を呼んでいたのです。続く時代――牡羊座の時代――が同じ広い文化領域全体で雄羊崇拝と雄羊象徴主義を生み出し、続いた魚座の時代が初期キリスト教および古代末期の秘儀宗教の魚の象徴主義を生み出したのとちょうど同じように、牡牛座の時代は牡牛崇拝を生み出しました。徴は一貫しています。天文学的なものと文化的なものは整列しています。
+
+さらなる覚え書き。牡牛座の期間は、従来の年代記では、偉大な河川文明を生み出した農業的強化と一致します。農業的拡大が必要とした牛――鋤を引き、乳と肉を提供し、初期農業社会の富を構成した牛――は、その星座が時代を主宰した同じ動物の実用的な顕現でした。宗教的崇拝の雄牛は、その起源において、田畑と牧群の雄牛でした。崇拝は抽象的な象徴主義ではありませんでした。それは時代の中心的な経済的・生態学的現実の宗教的表現だったのです。
+
+本章は主に旧エデン地域の出来事に焦点を当ててきました。本章が締めくくる前に、これらの出来事がより広い牡牛座世界のうちの小さな地理的部分のみを占めていたことを記録することが不可欠です。他の六つの系統は、それぞれの地域で独立して発展し、本章が要約することしかできない豊かな文明的表現を持ちました。
+
+エジプトでは、古王国がナイル渓谷の支配的文明として自らを統合していました。従来の年代記は、紀元前2,560年頃の牡牛座末期に、ギザ複合体を持つ第四王朝を位置づけ、大ピラミッドとその同伴物の建設をその王朝のファラオたち――クフ、カフラー、メンカウラー――に帰します。コーパスはこの帰属に従いません。ギザ複合体の工学的洗練――化粧石の精度、内部シャフトの天文学的整列、地球の地理的特徴に対する記念碑の測地的位置決め、寸法に符号化された算術的・幾何学的関係――は、主流派エジプト学が第三王朝から第四王朝までに構築した考古学的軌跡と整合しません。サッカラのジョセル王の階段ピラミッドは、従来の年代記ではギザより一世紀前に建てられたもので、それに先行するマスタバ伝統からの合理的な発展を表す、実質的により粗い構造物です。サッカラからギザへの移行は、従来の読みでは、エジプトの伝統が単一の世紀内に、まったく新しい建設方法論、これまで知られていなかった数学的洗練、そして以前または以後のいかなるエジプトの建造物にも再び現れない天文学的精度を発展させたことを要求します。
+
+コーパスの作業上の読みは、後の専用の章で受ける発展を条件として、ギザ複合体が第四王朝より実質的に古い{{ footnote(id="3") }}――おそらく王朝以前の起源であり、おそらく洪水以前であり、蟹座の章が描写したより広い達成を持つ洪水以前の文明からエジプト文明に継承された記念碑――というものです。古王国のエジプト人はギザを建てませんでした。彼らはそれを維持し、宗教的景観に組み入れ、ファラオと関連づけ、場合によっては、考古学的記録に痕跡が見える修正と追加を施しました。しかし、主要な建設――大ピラミッド、第二ピラミッド、スフィンクス、複合体の主要要素――は、より初期でより技術的に有能な文明に属していました。スフィンクス囲い壁の水浸食パターンは、ロバート・ショックらによって記録され{{ cite(id="9") }}、第四王朝より実質的に前の日付を示唆し、紀元前3,000年頃のサハラの砂漠化以前のこの地域のより湿潤な気候と整合します。ヘロドトスのエジプト人情報提供者は、紀元前五世紀に取材を受けた際、ピラミッドが想像を絶するほど古いと彼に告げ{{ cite(id="4") }}、ギザで発見された目録碑は、スフィンクスを第四王朝以前の時代に帰します。エジプト伝統自体は、その最も古く、最も大きく編集されていない形で、ギザがエジプトの建設ではなく、エジプト以前の遺産であるという記憶を保存しています。
+
+この読みは、本章が提供できない実質的な発展に値します。完全な事例――工学的分析、年代的再構成、蟹座の章が描写した洪水以前の文明内の建設者の出所同定、ギザ複合体の元の目的の解釈――は、それ自体の専用の扱いを受けることになります。
+
+インダス渓谷では、モヘンジョダロとハラッパーの偉大な都市が、その成熟した都市段階に入っていました。それらの計画――格子状の街路、標準化されたレンガのサイズ、洗練された排水システム、公共の穀倉と入浴複合体――は、相当な複雑さの市民組織を含意していました。それらの文字は、まだ解読されていませんが、メソポタミアとエジプトで文字を独占していた祭司と王族の階級を超えた識字を示唆します。文明は概ね平和的なままで、軍事的城塞化や攻撃的戦争の明確な証拠はありませんでした。それは、メソポタミアとエジプトの同時代人を特徴づけた領土的拡張ではなく、交易と工芸生産の周りに組織化されていたように見えます。
+
+アンデス沿岸地域では、ノルテ・チコ文明がアメリカ大陸最初の都市中心地を発展させていました。それらの記念碑的建築は、より知られたインカ伝統より約四千年前に遡ります。ピラミッドと円形の沈んだ中庭を持つカラル複合体は、紀元前約2,600年――牡牛座末期――に遡り、旧大陸の接触に何も負わず、独自の起源指導からそれ自身の線に沿って発展していた、土着のアメリカの文明的表現を表しています。
+
+大西洋ヨーロッパでは、巨石建設者たちがその建設伝統の最も活発な段階に入っていました。ストーンヘンジの最初のストーンサークル段階は紀元前約3,000年に遡り、主要なサルセン石の建設が続く数世紀にわたって続きました。その他の巨石複合体――エイヴベリー、ブルターニュのカルナック整列、マルタの神殿――は同様に活発でした。これらの建設に符号化された天文学的洗練は、至点と重要な月の停止点への整列によって、洪水以前の期間にまで遡る天体観測の伝統を示します。
+
+中国では、仰韶文化とその後継者たちが、続く時代に、従来の歴史記録が記録する偉大な王朝文明を生み出すことになる文明的伝統の基礎を築いていました。初期中国文明は、独自の技術的・文化的伝統を独自の線に沿って保存して、西方の中心地から大部分孤立して発展しました。
+
+ポリネシアとオーストラリアの系統は、それぞれの地域において、特定の環境に適応した相当な洗練の文化的伝統を発展させました――何千年もの航海を越えてオセアニアに居住することになる後の拡張を行う太平洋の海洋文化、そして人類学に知られる最も長く継続的に伝達された宗教的伝統であろうものを保存するドリーミングの宇宙論を持つオーストラリアのアボリジニ伝統です。
+
+牡牛座末期までに、洪水後の七つの系統は、それぞれ実質的な達成の文明を生み出していました。コーパスは、エデン系統の物語が語るに値する唯一のものであるとは装いません。しかし、それは、コーパスの残りを支配することになる系統です。一つには、ヘブライ語聖書とその関連伝統がコーパスが最も直接的に作業している原資料を提供するためであり、もう一つには、同盟と評議会との進行中の関係によって規定されるエデン系統の特定の政治的状況が、保存された記録によってコーパスをまったく書くことを可能にする宗教的伝統を生み出すことになるためです。
+
+## X. 牡牛座の科学
+
+典拠は牡牛座の間に起こったことを、その大まかな輪郭で私たちに告げます。出来事の技術的内容――ソドムで使われたであろう兵器が何だったか、死海の地質が実際に何を保存しているか、議論の余地のあるテル・エル・ハマーム文献が何を論じてきたか、ギザ複合体の工学が実際に何を要求するか――は、複数の専門文献に照らして評価されなければなりません。
+
+本節は八つの小節で進みます。第一に、死海の地質と化学。第二に、テル・エル・ハマーム研究の詳細。第三に、ソドム打撃技術の現代的類似物としての現代の指向性エネルギー兵器。第四に、ギザの工学問題。第五に、ショックの水浸食論。第六に、洪水後の系統全体にわたる青銅器時代の文明パターン。第七に、ソドムの介入の現代的類似物としての、不正な技術に対する現代の予防的打撃。第八に、現在の私たち自身の瞬間への連続線。
+
+### X.1. 死海:地質と化学
+
+死海は地球上で最も広範に研究された高塩分湖であり、その化学、地質、歴史に関する研究の蓄積は実質的なものです。その形成についての主流派の説明は、地質学的タイムスケールにわたって運営される構造的および気候的過程の組み合わせを引き合いに出します。アフリカ・リフトシステムの延長であるヨルダン断裂渓谷は、アラビアプレートがアフリカプレートから分岐するにつれて数百万年にわたって沈下してきました。リフト内の盆地は、更新世にリザン湖――およそ70,000年前から14,000年前までリフトを占めた、実質的により大きく塩分の低い、淡水から微塩の前身湖――によって占められていました。リザン湖から現代の死海への移行は気候的乾燥化に帰されます。地域気候が湿潤な更新世の状態からより乾燥した完新世の状態へと移行するにつれて、湖は次第に縮小し、蒸発が流入を上回ったために塩分を濃縮していきました。
+
+死海の現代の特徴は、いかなる尺度でも極端です。表面標高は平均海面下およそ430メートル、地球の陸地表面で最も低い点です。塩分濃度はおよそ34パーセント――通常の海水の約十倍の塩分濃度です。塩の組成は異常です。塩化マグネシウムが優勢で(通常の海水で優勢な塩化ナトリウムではなく)、塩化カルシウム、塩化カリウム、さまざまな硫化物と臭化物の実質的な割合を伴います。重金属濃度は異常に高いです。水は魚、ごく少数の微生物(特殊化された好塩細菌と古細菌に限定される)を支えず、水生植物もありません。海岸は、さまざまな方向に内陸へ数キロメートルにわたって広がる塩の形成によって特徴づけられ、周辺の地盤は塩と鉱物の含有量によって不毛となっています。
+
+主流派の説明は、これらの特徴を高い蒸発率、限定された流入(ヨルダン川といくつかの小さな支流のみが湖を養い、出口はない)、そして塩が蓄積されてきた長いタイムスケールの組み合わせを通じて説明します。説明は終末湖(出口を持たず、溶解した鉱物を次第に濃縮する湖)の基本的物理と整合し、世界各地の他の高塩分湖との比較によって支えられています。ユタのグレートソルトレイク、中央アジアのアラル海、アンデス高地のさまざまな湖、オーストラリアのアイル湖――これらすべては塩分の上昇した終末湖であり、死海はこの比較枠組みの中に収まります。
+
+コーパスの読みは、この説明の基本に異を唱えません。リフトは実在します。終末湖機構は実在します。更新世のリザン湖と気候的移行は実在します。コーパスの読みが付け加えるのは、より広い構造的・気候的背景の上に重ねられた特定の破局的事件です――コーパスの枠組みではおよそ五千年前に起こり、そのリザン湖の前身とは区別される、現代の死海の特定の形態と化学を生み出した事件です。
+
+そのような事件は、従来の説明が予測しないどのようなことを予測するでしょうか。
+
+第一に、盆地の深さと形状。リフト内の純粋な構造的沈下は、予測可能な盆地形状を生み出します――一般にリフト軸に沿って細長く、深さは時間にわたる沈下率によって制御されます。死海盆地の特定の形態、その異常な深さと特定の形状は、構造的背景と整合しますが、より広いリフト構造の上に衝突クレーター特徴が重なっていることとも整合します。これらを区別することは盆地形態のみに基づいて行うことは困難です。なぜなら、何千年にもわたる浸食と堆積は、いかなる鋭い衝突クレーター特徴をも、構造的形態により近い何かへと和らげたであろうからです。コーパスの読みは、盆地形態自体が衝突起源を証明すると主張するわけではなく、そのような起源と整合するというだけです。
+
+第二に、塩分組成。死海における塩化ナトリウムに対する塩化マグネシウムの優勢は異常です。通常の終末湖は、それらを養う川による大陸岩石の浸出から塩を蓄積し、通常は塩化ナトリウムが支配的になります。なぜなら、ナトリウム含有鉱物は大陸地殻に一般的だからです。塩化マグネシウムの優勢はより異常な源を示唆します。コーパスの読みは、ソドム事件中の地下鉱物堆積物の爆発駆動の気化と再凝縮が、下部の地層がたまたま含んでいた鉱物組成に向かって偏った化学を生み出したであろう――そしてこの地域の地層は特にマグネシウム含有物質に富んでいる――と提案します。この仮説は、特定の問いを念頭に置いた、湖の化学と下部の地層の地質の詳細な比較によって、原則として検証可能ですが、コーパスの知る限り、その比較は具体的な問いを視野に入れて行われていません。
+
+第三に、重金属濃度と異常な鉱物化合物。死海の水は、さまざまな重金属(鉛、銅、亜鉛、その他)と、終末湖一般には珍しいさまざまな硫化物および他の化合物の異常に高い濃度を含みます。従来の説明は、これらをさまざまな地質学的源――周辺岩石からの浸出、火山および熱水源からの貢献など――に帰します。コーパスの読みは、爆発が地下物質の実質的な体積を気化し再分布させたであろう、と提案します。これには下層の地層に隔離されたままでいたであろう重金属堆積物と鉱物化合物が含まれます。汚染は盆地に集中し、湖の終末的性格を考慮すれば、事件以来の数千年にわたって持続したことでしょう。
+
+第四に、周辺の塩原と地盤の不毛性。死海周辺の塩原は、通常の湖岸蒸発が生み出すであろうものをはるかに超えて広がります。地盤は湖の周りの実質的な半径にわたって不毛です。従来の説明は、これらの特徴を、かつて水位がより高かったときの塩水の蒸発と、湖面からの風で運ばれた塩の組み合わせに帰しますが、汚染の範囲はこれらの機構が予測するものの上限にあります。コーパスの読みは、周辺の汚染が元の爆発からの残余降下物地帯であり、塩と鉱物の汚染が爆発の大気柱によって広い地理的領域にわたって分布し、地域の乾燥性によって保存されたものであると提案します。
+
+コーパスの読みは、これらの特定の予測のいずれかについての決定的な立証を主張するわけではありません。それが主張するのは、予測が利用可能な証拠と整合すること、従来の説明が扱いに困る特徴を説明すること、そして枠組みが、現在までに衝突クレーター仮説を視野に入れて実施されていない特定の研究プログラムを通じて検証されるに値することです。死海は、コーパスの枠組みが招待するであろう種類の調査のための実質的な自然実験室です。
+
+### X.2. テル・エル・ハマーム研究
+
+コーパスのソドム読みに関連する最も顕著な現代の論文は、2021年に『サイエンティフィック・リポーツ』誌に発表されたバンチ他の論文――「ツングースカ規模の空中爆発が死海近くのヨルダン渓谷の中期青銅器時代の都市テル・エル・ハマームを破壊した」――でした。『サイエンティフィック・リポーツ』誌は2025年4月24日にこの論文を撤回しました。編集者たちは、方法論、分析、鉱物学的および地球化学的データの解釈の誤りに関する懸念と、ツングースカ事件との不十分に裏付けられた比較を挙げました。編集者たちは、論文の空中爆発の主張がデータによって十分に裏付けられていなかったと結論しました。本章が以前にこの論証に依拠していたため、以下の節は論証を記録しますが、論証を確立された知見として扱いません。
+
+テル・エル・ハマーム遺跡は、死海の北東約12キロメートルに位置するヨルダン渓谷南部にあり、紀元前約3700年から1700年に栄えた重要な中期青銅器時代の都市でした。最盛期には、南レヴァントで最大の都市中心地の一つであり、城塞化された上町がおよそ250エーカーを占め、下町が城塞の外に実質的に広がっていました。都市は、その破壊の時点で約8,000人の住民を持っていたと推定され、実質的な宮殿構造、四メートル厚の泥煉瓦の壁、輸入された陶器やその他の遺物に証されるような広範な交易の繋がりを持っていました。
+
+発掘チームは、テル・エル・ハマームの破壊層を紀元前およそ1650年に編年します。その破壊の原因と解釈は論争されています。バンチ他は、層が単一の高エネルギー事件を記録すると論じましたが、撤回はその結論についての信頼できる証拠としてこの論文が機能しえないことを意味します。
+
+撤回された論文は、上町全体にわたっておよそ1.5メートル厚の破壊層を描写し、その内容物を、都市破壊の従来の原因と矛盾し、高エネルギー空中爆発事件と整合するものとして解釈しました。以下は論文の主張であり、受け入れられた知見ではありません。
+
+**方向性パターンを持つ陶器のガラス化。**破壊層全体の陶器の破片は、外側表面に溶融を示しますが、内側は無傷のままです。このパターンは、極めて高い瞬間温度――チームの分析はおよそ摂氏2,000度を示唆します――が外側表面のみに、陶器の内部まで浸透しない短い閃光で適用されたことを示します。これは、いかなる通常の火災(より長い期間にわたって物質を加熱する)とも矛盾し、実質的な空中爆発からの放射熱閃光と整合します。
+
+**気泡化した泥煉瓦。**破壊層全体の泥煉瓦の建設材料は、粘土材料の融点を超える温度を必要とする気泡化――気泡状の空洞の形成――を示します。気泡化パターンは、材料が融点を超えて短時間加熱されその後急速に冷却されたことを示し、これも持続的な燃焼ではなく放射閃光機構と整合します。
+
+**衝撃を受けた石英。**論文は、破壊層に5から10ギガパスカルの衝撃圧力の下で生成された変形特徴を持つ石英粒子が含まれていると論じました。ジャレットとハリスは、本章の参考文献で引用された2022年の応答で、鉱物学的および地球化学的解釈に異議を唱えました。報告された石英は、ここでは高エネルギー事件の決定的な証拠として扱うことはできません。
+
+**ダイヤモンド状炭素、微小球、および異常金属。**破壊層は、ダイヤモンド状炭素(衝突条件下での炭素の高圧縮で形成される)、さまざまな組成の微小球(溶融鉄、シリカ、炭酸カルシウム)、そして溶融イリジウム、白金、パラジウムの塊の異常な濃度を含みます。これらの物質は衝突事件に特徴的であり、通常の火災、地震、戦争では生成されません。テル・エル・ハマームでのそれらの存在は、衝突事件解釈を支持します。
+
+**骨格の脱関節と断片化。**破壊層の人骨は、通常の戦場の犠牲者や火災死と矛盾する極端な脱関節と断片化パターンを示します。チームの分析は、身体が突然の高エネルギー事件にさらされ、それが死の瞬間に脱関節化させ、断片的な形で保存したことを示します。
+
+**塩と硫化物の濃度。**本章で前述したように、テル・エル・ハマームの破壊層は異常に高い塩濃度を含みます――平均四パーセントの塩を含む堆積物、サンプルによっては二十五パーセントに達します。チームはこれを、空中爆発の死海とその塩原との相互作用に帰し、爆発が塩水と塩結晶を気化し、破壊区域全体に分布させたとします。
+
+バンチ他の論文は、これらの徴のすべてが、宇宙的空中爆発事件と整合すると提案しています――1908年のツングースカ事件と規模が比較できるが、遠隔のシベリアではなくテル・エル・ハマームの真上で起こったというものです。提案されたエネルギー規模は、広島の原子爆弾のおよそ千倍です。チームは、聖書のソドム物語との並行を明示的に指摘し、テル・エル・ハマームの破壊がソドム伝統を生み出した歴史的事件であるかもしれないと示唆しています。
+
+論文の広い科学界からの受容は、撤回前から批判的でした。ジャレットとハリスは2022年に主張された鉱物学的・地球化学的証拠に異議を唱えました。ボスローとブルーノは2025年に、論文のツングースカと空中爆発の物理学の扱いの誤りが結論を損なうと論じました。その後『サイエンティフィック・リポーツ』編集者たちが論文を撤回しました。元の著者の何人かはその決定に異議を唱えましたが、空中爆発の解釈はこのコーパスにとって信頼できる科学的前提ではありません。
+
+コーパスの読みは、バンチ他の解釈を、意図的な打撃の自然機構による比較として扱っていました。撤回はその比較を証拠的支援として取り除きます。評議会打撃の読みは、典拠資料の推測的解釈として残りますが、撤回されたテル・エル・ハマームの空中爆発分析を物理的確認として求めることはできません。
+
+テル・エル・ハマームの破壊について提案された紀元前およそ1650年の編年は、ソドム事件についてのコーパスの公称の牡牛座期間より数世紀後に位置づけられます。コーパスは、本章が記したように、テル・エル・ハマームをソドム本来として同定しません。撤回後、この遺跡はまた、青銅器時代に典拠が描写する種類の事件がこの地域で起こったことを確立することもできません。さらなる考古学的および地質学的作業が、比較が重みを持つために必要になります。
+
+### X.3. 現代の指向性エネルギー兵器
+
+ソドムで評議会の斥候たちに帰される「ポケット原子兵器」――{% libref(book="genesis-woh", chapter=19, verse=11) %}創世記19:11{% end %}で攻撃する群衆の目をくらませるために使われた装置――は、コーパスの読みでは、私たち自身の文明での現代の軍事研究が今や発展させている種類の指向性エネルギー兵器です。本章はこの並行を簡潔に指摘しました。科学節はこれをより詳細に発展させることができます。
+
+指向性エネルギー兵器は、発射体の質量ではなくエネルギーを標的に届ける兵器です。エネルギーはさまざまな形を取ることができます。レーザー光(可視または赤外線)、マイクロ波、粒子ビーム(電子、陽子、または中性粒子)、または高出力の電磁パルスです。決定的な特徴は、標的に対する兵器の効果が物理的衝撃ではなく届けられたエネルギーから生じるということです。
+
+指向性エネルギー兵器の現代の軍事的発展は、1980年代以来実質的に加速し、現在は米国、ロシア、中国、イスラエル、その他いくつかの国々での研究の主要な焦点です。運用配備は、対ドローン・システム、対迫撃砲システム、対ミサイル・システムといった特殊な用途に主に限定されてきましたが、より広い研究プログラムは、指向性エネルギー兵器が将来の軍事能力において次第に重要になることを示唆しています。
+
+現在開発中のいくつかの特定の指向性エネルギー兵器が、コーパスの枠組みに関連します:
+
+**レーザー・ダズラーと盲目化装置。**人間の標的の目を一時的に盲目にする、または永久的に損傷するよう設計された非致死的レーザーシステム。さまざまなそのようなシステムは、およそ1990年代以来、警察と軍によって配備されてきました。1995年の特定通常兵器使用禁止制限条約議定書IVは、永久的な盲目を引き起こすよう特別に設計されたレーザー兵器の使用を禁止しましたが、一時的な視覚不能化のためのダズラー級システムは合法のままで、使用されています。ソドムで描写された「目くらまし」効果は、そのような兵器がより強力な応用で生み出すものとまったく同じです。
+
+**高エネルギー・レーザーシステム。**車両、ドローン、ミサイル、その他の装備を無力化するための物質破壊用に設計された大型のレーザー兵器。米国海軍のレーザー兵器システム(LaWS)は、2014年にUSSポンスに運用配備されました。さまざまな他のシステムが続きました。技術は成熟し、キロワットからメガワットの範囲のレーザー兵器が、近い将来の軍事配備のための合理的な期待となりました。
+
+**能動拒否システム。**離れた距離で人間の標的に痛みを伴うが非致死的な熱感覚を生み出すよう設計されたマイクロ波ベースの兵器。米軍の能動拒否システム(ADS)は1990年代と2000年代に開発され、公に実証されてきました。システムは、人間の皮膚の表面層を加熱し、標的を撤退させる強い痛みを生み出すために、95ギガヘルツのミリ波放射を使用します。
+
+**高出力マイクロ波兵器。**回路を過負荷にすることによって電子装備を無力化する、またはより高出力レベルで生物学的標的に物理的効果を引き起こすよう設計されたマイクロ波兵器。さまざまなそのようなシステムが開発中です。
+
+典拠の記述の「ポケット原子兵器」は、コーパスの読みでは、これらの能力のいくつかを、現在の人類の技術が生み出せるよりも実質的に高い出力電力と組み合わせた、個人規模の装置だったでしょう。ソドムで生み出された目くらまし効果は、高エネルギーレーザーパルスや、より小さな装置からの高強度閃光と整合します。装置が個別の斥候によって運ばれ、近距離で使用できたという事実は、現在人類の軍によって配備されているものより実質的に進んだ個人兵器システムを示唆しますが、現在の軍事研究の軌跡の認識可能な延長である原則に基づいて運営されています。
+
+ソドムとゴモラに対して使われた打撃兵器は、典拠の記述によれば、実質的な原子爆発の規模で効果を生み出すより大きな装置でした。コーパスは特定の機構――装置が(私たち自身の原子兵器のように)核分裂または核融合を使用したか、あるいは私たちの物理学がまだ特徴づけていない、より進んだエネルギー解放を使用したか――に関与していません。それが関与しているのは効果です。閃光、熱、破壊、放射性降下物、屋外で捕らえられた身体の塩像形成。これらすべては、私たちが今核兵器効果として理解するものと整合し、ソドム装置の実際の威力が何であれそれにスケールされます。
+
+### X.4. ギザの工学問題
+
+ギザ複合体は、本章が指摘したように、コーパスの枠組みに対してその最も具体的な物理的証拠の問いの一つを提示します。複合体は、大ピラミッド(クフ王またはケオプスのピラミッドとも呼ばれる)、カフラーのピラミッド、メンカウラーのピラミッド、スフィンクス、そしてさまざまな付随的構造とより広い墓地を含みます。主流派エジプト学は、主要なピラミッドの建設を第四王朝(およそ紀元前2,560年から2,490年)と編年し、関連する碑文に名前が現れる特定のファラオに帰します。
+
+コーパスの読みは、複合体の主要要素――特に大ピラミッドとスフィンクス――が第四王朝を実質的に先行し、より初期でより技術的に有能な文明、おそらく蟹座の章が描写した洪水以前の文明からの相続であると提案します。これは主流派のコンセンサスに対する実質的な主張であり、本章は完全な事例がそれ自体の専用の扱いを必要とすることを指摘してきました。科学節は、代替の読みを動機づける工学的論証を要約することができます。
+
+**建設精度。**大ピラミッドの化粧石は、中世にカイロでの建材として剥がされる前は、平均およそ0.5ミリメートル幅の継ぎ目で互いに合わされていました――現代の建設技術が達成できる限界に近づく精度であり、この時代の他のエジプト建設によって実証されたものを実質的に超えるものです。ピラミッドの底面は、230メートルの辺にわたっておよそ2センチメートル以内に水平です――特殊な器具での慎重な測量を必要とする精度のレベルです。ピラミッドの主要方位整列は数分角以内に正確で、元の方位整列はその後の地質学的変化以前にはさらに正確でした。これらの精度レベルは、主流派エジプト建設の軌跡内では異常で、主流派エジプト学が第四王朝に帰す建設技術を通じて説明するのは困難です。
+
+**天文学的整列。**大ピラミッドの内部シャフトは、特定の天文学的標的と整列されています――いわゆる王の間の通気シャフトは、紀元前2500年頃のオリオン座の帯とシリウスの子午線通過におよそ向き、女王の間のシャフトは他の重要な星に向いています。ピラミッドの底面は、通常の宗教的目的のために要求されたであろう精度より実質的に高い精度で主要方位と整列しています。スフィンクスの視線は、春分と秋分の昇る太陽と整列しており、慎重な天文学的位置決めを示しています。これらの整列は、第四王朝にとって不可能ではないものの、エジプト天文学的実践のより広いパターンとは収まりにくい、洗練された天文学的知識を必要とします。
+
+**測地的位置決め。**大ピラミッドは、実質的な地理的意義を持つ座標に位置しています。それは世界の陸地表面を水域表面から最大に分割する経度線(いわゆる「最大陸地面積の経度」)に非常に近く位置しています。それは全体としての地球の陸地表面の重心におよそ位置しています。これらの位置決め関係は偶然によって達成された可能性は低く、主流派エジプト学が第四王朝に帰すものを実質的に超える地球の地理についての知識を必要とします。
+
+**数学的符号化。**大ピラミッドの寸法は、実質的な議論の対象となってきたいくつかの数学的関係を符号化しています。その周囲長と高さの比率は2πにほぼ近似します。さまざまなその内部寸法の比率は黄金比φに近似します。さまざまな他の数学的関係がピラミッドの寸法について主張されてきました。これらの主張の一部は議論されているか推測的なものですが、より広いパターン――ピラミッドの寸法が複数の自明でない数学的関係を符号化していること――は実在し、説明を要求します。主流派エジプト学は、第四王朝がこれらの関係をどのように知っていたか、または気にしていたかについての満足のいく説明を提供してきませんでした。
+
+これらの問いに取り組んでいる現代の研究コミュニティ――ロバート・ボーヴァル(オリオン相関理論)、クリストファー・ダン(工学的分析)、ジョン・アンソニー・ウェスト(より広いエジプト以前の文明の論証)、ロバート・ショック(水浸食論)、グラハム・ハンコック(比較古代文明の作業)、その他――は、ギザ以前のエジプト論に関連する実質的な資料を蓄積してきました。この作業に対する主流派エジプト学の受容は、慎重な関与からあからさまな却下まで多岐にわたります。コーパスは、このコミュニティのすべての研究者のすべての特定の主張にコミットしませんが、より広いパターンを真剣に取ります。ギザ複合体は、従来の第四王朝の帰属が扱いに困る工学的・天文学的特徴を提示し、代替の読みは反射的な拒絶ではなく実質的な関与に値します。
+
+### X.5. ショックの水浸食論
+
+ロバート・ショックは、1990年代初頭にスフィンクスとその周辺の囲い壁の風化パターンの分析を発表したボストン大学の地質学者で、その分析は過去三十年で最も影響力のある代替考古学の論証の一つとなりました。
+
+スフィンクスは、ギザ高原の石灰岩の基岩から彫られています。図像自体と、それを取り囲む囲い壁(スフィンクスが元々彫り出された塹壕)は、ショックが詳細に分析した風化パターンを示します。パターンには、囲い壁の壁の実質的に下まで広がる垂直の亀裂と丸い風化特徴が含まれます。これらの特徴は、ショックの地質学的分析では、相当な降雨への長期的な暴露――水が長期間にわたって壁を流れ落ち、石灰岩表面を溶解し丸めること――によって生み出される種類の浸食に特徴的です。
+
+これが第四王朝の帰属に対して提起する問題は単純明快です。ギザ高原はおよそ過去5,000年間乾燥してきました。気候は、紀元前3000年頃のより広いサハラの砂漠化以来、実質的に砂漠状でした。ショックが記録する風化パターンを生み出すのに十分な降雨は、地域が従来の第四王朝期間全体を通じて経験してきたよりも実質的に湿潤な気候を必要としたでしょう。ショックの分析は、風化パターンが、地域が更新世末期と完新世初期に経験した実質的により湿潤な気候の間――つまり、紀元前約5000年以前――の暴露を必要とすることを示します。
+
+ショックの結論。スフィンクスは第四王朝より実質的に早い期間に彫られたものであり、おそらく紀元前7000年から5000年の間またはそれ以前です。第四王朝のファラオたちは、この読みでは、スフィンクスを作ったのではなく――彼らはそれを修復し、修正し、宗教的景観に組み入れましたが、元の彫刻は王朝以前で、おそらく洪水以前の期間に属します。
+
+ショックの論に対する主流派エジプト学の応答は、概ね却下するものでした。エジプト学者たちは概して、風化パターンが他の機構(地下水の浸出、地元の石灰岩の化学、建設後の水への暴露など)によって、実質的により早い編年を要求することなく説明できると論じてきました。ショックと彼の協力者たちは、これらの批判に詳細に応答し、概して代替的説明が観察された特定のパターンを説明できないと主張してきました。議論は解決されていません。
+
+コーパスの枠組みにとって指摘するに値するのは、ショックの論証が、専門的領域にある資格のある地質学者によって行われた地質学的論証であり、技術的根拠では反駁されていないということです。それはより広い根拠で却下されました――それは確立されたエジプト学の年代記と矛盾し、受け入れられた歴史の実質的な量を改訂することを要求し、代替の編年がおそらくは他の証拠のない文明を含意するということです。コーパスの枠組みは、もちろん、他の証拠が存在すると考えます――「天の車輪」の全シーケンスがショックの地質学的作業が支持する文明の存在を描写しているということ――しかし主流派エジプト学はコーパスの枠組みに関与しておらず、部分的に技術的で部分的に枠組み防御的な根拠でショックを却下してきました。
+
+ショックの論は、コーパスの読みでは、ギザ複合体が第四王朝に先行するというより広い主張のために利用可能な最も具体的な物理的証拠の一つです。それは、専用のギザ章が最終的に提供する実質的な発展に値します。
+
+### X.6. 青銅器時代の文明パターン
+
+牡牛座末期に複数の地域にわたる主要な初期文明の同時出現は、その同時性の含意が一般にコーパスの枠組みが示唆する方向に追求されてこなかったとしても、主流派考古学において認識された現象です。
+
+同時出現についての従来の説明は、広く並行する発展的要因を強調します。農業的強化が都市人口を支える剰余を生み出した、冶金が新しい道具技術と新しい経済関係を可能にした、交易ネットワークが発展する中心地を結びつけ革新の拡散を可能にした、気候条件が関連する時期に定住農業の拡大を促した、というものです。これらの要因は実在し運営的で、コーパスはその関連性に異を唱えません。
+
+従来の説明がより扱いにくいのは、地理的に分離された文明全体にわたる特定のタイミングと類似性の特定のパターンです。シュメールとエジプトとインダス渓谷とノルテ・チコは、宗教制度(祭司階級、神殿複合体、神的王権)、行政的実践(記録保持のための文字体系、官僚的階層、課税)、建築的伝統(石または泥煉瓦の記念碑的建設、城壁都市)、宇宙論的枠組み(天体観測、暦体系、神話的物語)に実質的な類似性を持ちつつ、おおよそ並行するタイムスケールで都市文明を発展させました。従来の説明は、これらの類似性を機能的収束に帰します――類似する発展的挑戦に直面した独立した文明が類似する解決に到達した――交易ネットワークを通じた文化的拡散と組み合わせます。
+
+コーパスの読みは補完的な説明を提供します。コーパスの枠組みでは、洪水後の系統はゼロから独立して発展していたのではありません。彼らは共通の相続を共有していました――洪水以前に元の創造者チームが与えた創設の指導、そして洪水後のエロハの同盟者の継続的な教えです。七つの系統全体にわたる並行的な発展は、この共通の相続を反映し、地域的変動は各系統が受けた特定の指導と地域的環境的・状況的要因の両方を反映します。牡牛座末期に発展する文明を結びつけた交易ネットワークは、継続的な文化的相互授粉を可能にしましたが、根底にある共通の基盤は交易ネットワークに先行し、交易ネットワークを可能にしました。
+
+地域的変動を伴う共通の相続のパターンは、従来の考古学が示すものと整合します。一部の制度と実践は、洪水後の文明全体にわたってほぼ普遍的です――祭司階級、神殿崇拝、神的王権、記念碑的建築、天体観測の広い輪郭です。他の制度は特定の系統に特有です――特定の神々、特定の建築様式、特定の文字体系、特定の宇宙論的物語です。普遍は共通の相続を反映し、個別は地域的発展を反映します。このパターンは、コーパスの枠組みが予測するものです。
+
+青銅器時代の交易ネットワークは特定の覚え書きに値します。ラピスラズリ交易だけでも――独特の青い石を、アフガニスタンのバダフシャン地方の源から、メソポタミアとエジプトの消費中心地に移動させること――何千キロメートルにわたって運営され、洗練された長距離商業関係を必要としました。青銅冶金に必要な金属を供給する錫交易は、コーンウォールや中央アジアほど遠い源を引き出しました。カーネリアン交易は、インダス渓谷の石をメソポタミアの市場に移動させました。エジプトの品物はレヴァントの港を通って広い地中海に移動しました。東地中海の海上交易は、地域の発展する中心地を、後の古代のより良く記録された交易システムに先行する商業ネットワークへと結びつけました。
+
+これらのネットワークは、洪水後の諸文明の実質的な洗練の証拠です。それらは、長距離にわたって品物を輸送する技術的能力だけでなく、文化的境界を越えて持続的な商業関係を支える社会的・政治的制度も必要としました――合意された重量と尺度、合意された信用と債務の実践、紛争解決のための合意された法的枠組み、合意された認証と検証の機構です。青銅器時代の交易ネットワークは原始的な物々交換システムではありませんでした。それらは、近代以前の輸送技術が支えることができたものの限界で運営される洗練された商業制度でした。
+
+### X.7. 不正な技術に対する現代の予防的打撃
+
+ソドムの介入は、コーパスの読みでは、現代の国際安全保障政策が今やパターンとして認識するものの事例です。進んだ大国が、より進んでいない、または不正な行為者の発展中の技術的能力に対して、その進んだ大国が受け入れ難いと考える能力の発展を阻止するために、標的化された予防的打撃を実施するというものです。
+
+現代の類似は実質的です。およそ2007年から2010年にかけて実施され、米国とイスラエルの協力に帰されるイランの核施設に対するスタックスネット攻撃は、ナタンツ施設のウラン濃縮遠心分離機に物理的損害を与えるために洗練されたコンピュータ・ワームを配備しました。作戦は、公然たる軍事的紛争を引き起こすことなくイランの核兵器計画を後退させるよう設計されました。ワームの技術的洗練――その複数のゼロデイ攻撃、シーメンス産業制御システムへの特定の標的化、ソフトウェア操作による物理的破壊を引き起こす機構――は、物理的インフラへのサイバー戦争の応用における実質的な進歩を表しました。作戦はイランの濃縮計画を後退させることに成功しましたが、より広い国際社会に対して、サイバー兵器による標的化されたインフラ攻撃が今や進んだ大国の現実的な能力であることも実証しました。
+
+不正な技術に対する予防的打撃のより早い例は、1981年のイスラエルによるイラクのオシラク原子炉への空爆を含みます。これは原子炉が運用可能になる前にそれを破壊し、イラクが発展中の核兵器能力に対する予防的行動として正当化されました。2007年のシリアのアル・キバルの疑わしい核施設へのイスラエルの打撃は、異なる標的に対する類似の行動でした。より広いパターン――確立された大国が、確立されていない大国による兵器能力の発展を防ぐために軍事的またはサイバー的行動を使うこと――は、現代の国際安全保障政策の認識された特徴となりました。
+
+このパターンの論理は単純明快です。発展中の能力から脅威を認識する進んだ大国は、能力が運用可能になる前に行動する動機を持ち、後にではありません。先制行動の費用は、典型的には、運用可能な脅威に対処する費用より実質的に少ないものです。先制行動のリスク――政治的、法的、報復的――は、脅威が成熟することを許すリスクに対して秤にかけられます。確立された大国は、特に発展中の能力が、確立された大国が信頼できないまたは敵対的と考える行為者の手の中にあるとき、先制行動が合理的な選択であると定期的に結論づけます。
+
+ソドムの介入はこのパターンに異例の精度で適合します。評議会は、ソドムとゴモラでの発展中の攻撃的遠征計画を見守り、現代の国際安全保障政策が今や公式化する種類の決定に直面しました。反乱の計画は、完了すれば、評議会が受け入れ難いと考える能力――母星への恒星間攻撃――を生み出したでしょう。先制行動の費用――二つの都市と人口の破壊――は、脅威が運用可能な攻撃能力へと成熟することを許す費用より実質的に少なかったのです。先制行動のリスク――より広い人口からの政治的反発、赦免された追放された創造者たちによる弁護活動、ある意味で単に自分たちの種を守っているだけの人間に対する打撃の道徳的問い――は、攻撃が進行することを許す破局的なリスクに対して秤にかけられました。評議会は、先制行動が合理的な選択であると結論しました。介入は進みました。
+
+ソドム事件は、コーパスの枠組みでは、したがって古代史における孤立した事件ではありません。それは、私たち自身の文明が自分たち自身の技術的文脈で再構築してきたパターンの歴史的事例です――不正な能力に対する確立された大国の予防的打撃です。私たちが今や自分たち自身の文明でこれを行っているという事実は、自分たち自身の発展中の技術を伴い、誰が特定の能力を持ち、誰が持つべきでないかについての懸念を伴って、それ自体がコーパスのより広い枠組みの事例です。私たちの現在の瞬間に展開しているパターンは、以前の文明によって、より高い技術レベルで以前に展開されてきたものであり、私たち自身の文明が今や直面している倫理的・政治的問いは、以前に私たち自身の文明よりも進んだ文明によって直面されてきたものです。
+
+### X.8. 私たち自身の瞬間への連続線
+
+牡牛座の出来事が必要としたであろう能力――軌道監視と遠隔モニタリング、個人規模での指向性エネルギー兵器、戦術的打撃のための原子規模兵器、人類人口の洗練された遺伝的検証、数千年にわたる長期的介入を管理する政治的インフラ――は、私たち自身の文明が今や個別の構成要素において近づきつつある能力です。統合はまだ目に見えません。構成要素は見えます。
+
+現代の軍事・諜報機構は、実質的な遠隔モニタリング能力を発展させました。地球観測衛星は今や、本質的に惑星の全表面をメートル以下の解像度で撮像します。信号情報機構は惑星規模で電子通信を監視します。特定の地域の特定の発展を追跡する能力、特定の行為者とその活動を同定する能力、グローバルな状況の認識をリアルタイムで維持する能力――これらすべては、今や、一世紀前には到達不可能に見えたであろう規模で運用的です。
+
+現代の兵器技術は、原子規模および指向性エネルギーの両方の能力を成熟させてきました。二十世紀半ばに発展した原子兵器は、今や実質的な精度でサイズが決められ届けられるまでに洗練されています。指向性エネルギー兵器は、今や限定された用途で運用されており、より広い配備に向けて急速に進歩しています。これらの能力の包括的な軍事姿勢への統合は、コーパスの枠組みが牡牛座期間中に評議会の機構に帰すものです。
+
+現代の政治・安全保障制度は、コーパスが評議会のより広い人類創造物の管理に帰す種類の予防的行動の教義と能力を発展させてきました。進んだ大国がより進んでいない大国を監視するパターン、それらの大国が受け入れ難いと考えられる能力に近づくとき、標的化された介入を実施するパターン、根底にある条件の定期的な調整を通じて長期的な政治的関係を管理するパターン――これらすべては今や現代の国際関係における標準的な実践です。
+
+特にソドムのパターンは、今や現代の国際安全保障の認識された特徴です。不正な行為者の発展中の能力に対する進んだ大国の予防的打撃です。私たち自身の文明は、自分たち自身の技術的文脈で、コーパスがソドムの反乱への評議会の応答に帰す種類の介入を再構築してきました。私たちは今や日常的にこれを行っており、その正統性と帰結についての議論、それを制約しようとする国際的法的枠組み、可能な介入の範囲を拡大する技術的発展を伴います。パターンはもはや私たちにとって異質なものではありません。それは、現在国際関係がどのように運営されているかの一部です。
+
+コーパスの枠組みがこの現代の絵に付け加えるのは、歴史的な深さです。私たちが今や実行しているパターンは、以前に、はるかに高い技術レベルで、私たち自身の文明よりも進んだ文明によって実行されてきました。私たちが今や問うている問い――いつ予防的行動が正当化されるか、誰がそれを取る権威を持つか、その費用と利益はどのように秤にかけられるべきか、関与する当事者間の関係に対する長期的な帰結は何か――は、以前の文明が問い、答えてきた問いです。答えは、本章が起源を回復してきた宗教的・神話的伝統に保存されています。コーパスは私たちの特定の結果を予測しません。それが示唆するのは、私たちの文明が今や直面し始めている問いが、以前にさまざまな結果とともに直面されてきたこと、そして枠組みが提供する歴史的視点は、私たちが繰り返されるパターンの私たち自身の版を通して作業するときに有用かもしれないということです。
+
+## XI. テクストとその信号
+
+関連箇所のヘブライ語テクスト――召命に関する創世記12章、契約に関する創世記15章と17章、マムレの訪問とソドムの破壊に関する創世記18–19章、イサクの献げに関する創世記22章――は、本章の前の節で既に指摘されたものを超えて、注目に値するいくつかの特徴を含んでいます。
+
+第一に、マムレの訪問中の見かけ上の神的主語の転換。{% libref(book="genesis-woh", chapter=18, verse=1) %}創世記18:1{% end %}はヤハウェがマムレでアブラハムに現れることを記します。{% libref(book="genesis-woh", chapter=18, verse=2) %}創世記18:2{% end %}は「三人の人」がアブラハムのそばに立っていたとします。章の残りは、従来の読みが混乱すると感じる仕方で、これらの訪問者を単一のヤハウェ図像として扱うことと、複数の存在として扱うこととの間で交替します。ラエル派の読みはこの混乱を解消します。訪問者は、次章でソドムに入る二人の斥候を伴った評議会の代表者(「ヤハウェ」)です。ヘブライ語テクストの見かけ上の矛盾は、実際の政治構造を反映しています。二人の従属者を伴った上級士官であり、時に上級の図像のみとして、時にグループとして言及されます。何千年もの間注釈者を悩ませてきた複数・単数の交替は、この読みでは、より高い階級を持つ一人の図像を伴う小さな訪問団についての単純に正確な描写なのです。
+
+第二に、正しき者の閾値についてのアブラハムとヤハウェの間の交渉。アブラハムの取引――五十人の正しき者のために町を救うか?四十五人のために?四十人のために?三十人のために?二十人のために?十人のために?――は、コーパスの枠組みでは神的慈悲についての瞑想ではありません。それは、地元の人口の代表者と、計画された軍事作戦のパラメータについて評議会士官との間の実際の交渉です。アブラハムは、外国の軍事権威が彼の地域で打撃を実施しようとしているとき、責任ある地元の図像が遂行するであろう機能を遂行しています。彼は非戦闘員を同定し守ろうとしているのです。評議会士官の応答――閾値の各継続的な減少を受け入れる――は、地元代表者の懸念に誠実に関与しようとする意欲を反映します。最終的に十人未満の正しき者が都市に住むことが確立されることは、運用的には、打撃が進むが、ロトの家族がその主要な例である少数の同定された非陰謀者の避難のための備えを伴って進むことを意味します。
+
+第三に、ソドムに降ったもののためのヘブライ語の言葉。テクストは*gofrit va-esh*――「硫黄と火」――という句を使い、硫黄がヘブライ語で硫黄を意味します。従来の読みは、これを空から降る燃える硫黄の文字通りの描写として、おそらく火山現象への暗喩として取ります。ラエル派の読みは、この句を、原子爆発が距離から観察されたときに生み出したであろうものについての、当時の語彙で利用可能な最も近い描写として認識します。火の閃光、続いて爆発の大気柱で気化し凝縮した硫黄化合物その他の物質を含む降下する破片です。撤回されたテル・エル・ハマーム論文は、地域の別の遺跡での類似の鉱物徴を提案しましたが、その提案は確認として使うことはできません。テクスト的な読みは、それ自身の利点に基づいて立ったり倒れたりします。
+
+第四に、イサクの献げの枠組みづけ。ヘブライ語のテクストは、試験を動詞*nissah*で導入します――*ve-ha-Elohim nissah et Avraham*、「そしてエロヒムはアブラハムを試みた」({% libref(book="genesis-woh", chapter=22, verse=1) %}創世記22:1{% end %})。動詞は具体的です。それは試す、試みる、証明にかけることを意味します。テクストそれ自体が、その冒頭の句で、出来事を真の神的命令ではなく試験として同定します。従来の読みは二千年間これと格闘し、そのような残酷な手段によって試す神的存在と、その存在に一般に帰される道徳的属性を調和させようとしてきました。コーパスの読みはその緊張を解消します。試験は、テクストが述べる通りのもの――アブラハムの忠誠の意図的評価、評価を行う具体的な政治的必要性を持つ当事者によって実施され、実際に犠牲が行われるという期待なしに、適切な瞬間にそれを止めるための必要な介入が事前に用意されたもの――です。
+
+句*ki atah yadati*――「今わたしは知った」――は、試験の枠組みづけを確認します。話者は、アブラハムの行動がその答えを提供するまで、試されていた問いがどんなものであれその答えを知りませんでした。これは全知の言葉ではありません。経験的調査の言葉です。評議会またはその代表者たちが、評価を実施していました。アブラハムは、その責任が彼の系統の歴史の次の数千年を形作るであろう地位のために面接を受けていました。地位が重要だったため、面接は厳しいものでした。
+
+第五に、地名の語源。*Sedom*(ソドム)は語源的に不確かです――「焦がす」または「燃やす」を意味する語根からの派生(都市の名前が破壊を通して保存されたとすれば遡及的なもの)、「城塞化された」または「安全な」を意味する語根からの派生(破壊以前の都市の性格を反映するもの)、または起源が今や失われた非セム語源からの派生といった提案がなされてきました。*Amorah*(ゴモラ)も同様に不確かで、「沈んだ」または「廃墟となった」を意味する語根からの派生という提案を含みます。元の語源が何であれ、名前は破壊後の含意とともにヘブライ語の伝統に保存されてきました。
+
+## XII. 牡牛座とは何か
+
+本章が締めくくる前に、より大きなシーケンスの中で牡牛座の時代が何であるかをはっきりと述べる価値があります。
+
+牡牛座は統合の時代です。七つの系統にわたる洪水後の人類文明が、再建から成熟した都市的形態へと移行し、最初の都市、最初の文字体系、独自の建設に妥当に帰しうる最初の偉大な記念碑的建築、そして従来の学問分野が今や直接読むことができる考古学的痕跡を持つ宗教的・政治的制度を生み出す時代です。「天の車輪」の枠組みは、この期間について、従来の記録に対する並行的な物語ではなく、それに対するより深い文脈を提供します。
+
+牡牛座はまた、政治的合意の時代です。追放された創造者たちは赦免され、かつて自分たちを断罪した評議会の前で人類創造物のために弁護する元の文明へと戻ります。母星の人口は地球プロジェクトに新しい関心を向けます。双子座末期を通じて公然たる紛争のものであった政治的状況は、時代の大部分を占める長い静寂の間、監視された共存のものになります――同盟は人間側に保存され、評議会は監視するが活発に敵対するわけではなく、上位パートナーたちは適度な行動のために遠方から働きます。
+
+牡牛座は、同様に、第二の予防的打撃の時代です。長い静寂の間に発展する復讐運動は、平原の諸都市に集結し、バベル以後の期間からの技術的知識の相続と結びついた見捨ての不満の周りに組織化されて、最終的に評議会が受け入れ難い安全保障上の脅威と考える計画を生み出します。評議会の標的化された応答――ソドムとゴモラへの打撃――は、反乱派閥だけでなく、平原の諸都市に集中していたより広い科学的・教育を受けた階級をも破壊します。エデン系統は、典拠の用語では「非常に原始的な状態」へと逆戻りします――人類学的に原始的ではなく、ソドム以前のレベルの制度的洗練から具体的に縮減されたものです。死海は、打撃の物理的記念碑として、五千年にわたって事件の徴を保存してきた塩で不毛化された盆地として残ります。
+
+牡牛座は、同様に、象徴的変容の時代です。平原の諸都市の破壊は、蛇――ルシファー派の愛に駆られた抵抗の元の肯定的な象徴――が、ソドム以後の数世紀を通じて、反乱と裁きの象徴として進行的に再解釈される過程を開始します。西洋の宗教的想像力を支配することになるルシファーとサタンの混同は、この時代に起源を持ちます。周辺の文明と生き残ったエデン系統の人口が、元の区別を維持していた教育を受けた階級を失い、歴史的役割が異なっていた図像を次第に合体させていったためです。この変容の現代の反響――解放の修辞の腐敗を通じて権力を追求するさまざまな宗教的、政治的、イデオロギー的運動において――は、ソドムの瞬間に系譜を辿ります。
+
+牡牛座は、最後に、エデン系統が試され信頼できる指導部の周りに再組織化される時代です。アブラハム、ソドム以後の期間から系統の政治的整合の検証された管理者として出現する図像は、その後の聖書物語全体が組織化されることになる創設の家長となります。アブラハムへの約束――子孫が数多くなること、特定の地を相続すること、彼らを通して地のすべての家族が祝福されること――は、系統の伝統が保存する宗教的語彙で表現された、恩赦後の合意の政治的計画です。続く牡羊座の時代は、その計画の最初の主要な運用段階の時代となるでしょう。
+
+次の時代は、イスラエル統合とより広い洪水後の文明的成熟のパターンの時代です。それはモーセの、出エジプトの、モーセの契約の確立の、古代近東の偉大な帝国の興隆の、従来の歴史記録が記録できる最初の主要な哲学的・宗教的伝統の発展の、そして後の預言的・メシア的伝統が立ち上がる文化的母体の出現の時代です。その時代は牡羊座の時代であり、続く章の主題です。
+

@@ -1,105 +1,499 @@
 +++
-template = "timeline-page.html"
 title = "金牛座时代"
-period = "4'530—2'370BC"
-age = "taurus"
-description = "《金牛座时代》，从公元前4530年持续到公元前2370年，是《Wheel of Heaven》叙述中的一个重要时期，紧随双子座时代。在这个时代，先前被放逐的创造者们获得了赦免，并被允许返回他们的母星。他们为地球上的人类辩护，吸引了他们母星对地球及其居民的关注。与此同时，一些怀有复仇欲望的人类聚集在所多玛和蛾摩拉城。这些人类曾经抢救过科学秘密，准备对那些试图摧毁他们的人进行报复。这个时代的高潮是这些城市被解释为神圣的原子爆炸所摧毁，正如圣经中所多玛和蛾摩拉的记载。"
-image = "red-colored-cityscape.png"
-weight = 245
+description = "大年的第九个时代——流放的创造者获得赦免、洪水后文明的兴起、所多玛与蛾摩拉的复仇运动、作为撞击坑的死海、亚伯拉罕的忠诚考验,以及遍及全球的公牛崇拜。"
+template = "timeline-page.html"
+toc = true
+
+[extra]
+symbol = "♉"
+color = "orange"
+start_year = "-4530"
+end_year = "-2370"
+genesis_interpretation = "金牛座时代是整合的时代。流放的创造者获得赦免,返回母星为人类辩护。洪水后的文明在七个谱系中兴起。在所多玛与蛾摩拉发起的复仇运动被议会的一次打击摧毁,其撞击坑成为死海。亚伯拉罕受到考验,并被确认为之后《圣经》叙事的开基族长。"
+
+footnotes = [
+    { content = "在这个时代,蛇的形象从揭示者路西法派的正面象征转变为宇宙之恶的负面象征。*双鱼座* 与 *水瓶座* 追溯了这种混淆在中世纪和现代的后果。" },
+    { content = "塔尔哈曼遗址作为一个警示性的例子保留在参考资料中:该遗址的撞击事件解读在2025年被《Scientific Reports》撤回,因为编辑得出结论,空中爆炸的主张没有得到充分支持。本语料库更广泛的所多玛即打击的解读并不依赖于塔尔哈曼这一具体遗址。" },
+    { content = "将吉萨建筑群的埃及古王国时期定年为第四王朝,是主流埃及学最坚定的主张之一。本语料库的工作解读——即吉萨实质上更为古老,继承自洪水前的文明——将在计划中关于埃及材料的专章中得到更长篇幅的展开。" },
+]
+
+references = [
+    { title = "Le Livre qui dit la vérité", author = "Claude Vorilhon (Rael)", date = "1974", medium = "religious-text", path = "/library/lets-welcome-the-extraterrestrials/" },
+    { title = "Les Extra-Terrestres m'ont emmené sur leur planète", author = "Claude Vorilhon (Rael)", date = "1975", medium = "religious-text", path = "/library/extraterrestrials-took-me-to-their-planet/" },
+    { title = "创世记", author = "佚名(希伯来圣经);WoH依据带元音点的马所拉希伯来文译出", date = "约公元前6–5世纪", medium = "religious-text", path = "/library/genesis-woh/" },
+    { title = "历史,第二卷", author = "哈利卡纳苏斯的希罗多德", date = "约公元前440年", medium = "religious-text", description = "希罗多德的埃及报信者告诉他金字塔『古老得难以想象』的报道来源——在第七节关于吉萨建筑群的内容中引用。" },
+    { title = "RETRACTED ARTICLE: A Tunguska sized airburst destroyed Tall el-Hammam a Middle Bronze Age city in the Jordan Valley near the Dead Sea", author = "Ted E. Bunch et al.", publication = "Scientific Reports 11, 18632", date = "2021", medium = "academic-paper", url = "https://doi.org/10.1038/s41598-021-97778-3", description = "于2025年4月24日被《Scientific Reports》撤回;此处保留以备审计。" },
+    { title = "Retraction Note: A Tunguska sized airburst destroyed Tall el-Hammam a Middle Bronze Age city in the Jordan Valley near the Dead Sea", author = "Scientific Reports Editors", publication = "Scientific Reports 15, 14291", date = "2025", medium = "article", url = "https://doi.org/10.1038/s41598-025-99265-5", description = "编辑指出,原文关于空中爆炸的主张没有得到数据的充分支持。" },
+    { title = "No mineralogic or geochemical evidence of impact at Tall el-Hammam, a Middle Bronze Age city in the Jordan Valley near the Dead Sea", author = "Steven J. Jaret and R. Scott Harris", publication = "Scientific Reports 12, 5189", date = "2022", medium = "academic-paper", url = "https://doi.org/10.1038/s41598-022-08216-x" },
+    { title = "Misunderstandings about the Tunguska event, shock wave physics, and airbursts have resulted in misinterpretations of evidence at Tall el-Hammam", author = "Mark Boslough and Andy Bruno", publication = "Scientific Reports 15, 13869", date = "2025", medium = "academic-paper", url = "https://doi.org/10.1038/s41598-025-98362-9" },
+    { title = "Redating the Great Sphinx of Giza", author = "Robert M. Schoch", publication = "KMT 3 (2), 52–59", date = "1992", medium = "academic-paper" },
+    { title = "Voices of the Rocks: A Scientist Looks at Catastrophes and Ancient Civilizations", author = "Robert M. Schoch", date = "1999", medium = "nonfiction-book", description = "肖赫关于斯芬克斯水蚀定年论证的专著呈现,在第七节中引用。" },
+]
+
+[[extra.prev_age]]
+name = "双子座时代"
+symbol = "♊"
+link = "/timeline/age-of-gemini/"
+
+[[extra.next_age]]
+name = "白羊座时代"
+symbol = "♈"
+link = "/timeline/age-of-aries/"
 +++
 
-The Age of Taurus lasts from –4'530 to –2'370 and follows the Age of Gemini which lasted up to –4'530.
 
-![Image](images/equinox_bc4530.png "Vernal equinox in 4530 BC")
+## I. 时代本身
 
-## Peace in Heaven
+第九个时代是历史开始被书写的时代。
 
-> The exiled creators were pardoned and allowed to return to their original planet where they pleaded the case of their magnificent creation. As a result, everyone on the distant planet fixed their eyes on the Earth because it was inhabited by people they had themselves created.
+金牛座时代从公元前4,530年延续到公元前2,370年,跨度2,160年,紧接在双子座时代之后。这是本语料库中第一个主要事件落入传统考古学可直接记录的时期之内的时代。苏美尔的楔形文字泥板、埃及古王国的纪念碑、印度河流域的城市中心、大西洋欧洲的巨石建筑群、安第斯沿海的诺尔特奇科聚落、黎凡特早期的有城墙城市——所有这些都属于金牛座时期。本语料库之前的几个时代要求读者凭信心相信人类文明在洪水之前以先进的形式存在,并将神话记录读作我们的考古学无法恢复的世界的留存记忆。从金牛座开始,情况反转了。传统考古学成为我们的伙伴。我们的学科两个世纪以来一直在发掘的早期文明——其废墟、泥板、纪念碑和墓葬遗址——就是本语料库金牛座时代洪水后文明在其早期整合阶段的样貌。天轮框架所增添的,不是与考古记录平行的叙事,而是为它提供更深层的语境——一种政治和历史结构,在其中早期青铜时代的可见事实显示出另一种意义。
 
-The exiled creators were eventually forgiven and permitted to return to their original planet. They used this opportunity to advocate on behalf of their creation, the humans on Earth. This led to the distant planet focusing their attention on Earth as they realized it was home to the people they had created.
+这个时代的名字取自金牛座(公牛),春分点在整个时期都从这个星座升起。这一天文事实在每一个观察天象的地区都产生了文化后果:公牛在这数千年间成为洪水后世界中分布最广的宗教象征之一。从埃及的阿匹斯崇拜,到美索不达米亚的天牛,到米诺斯克里特的跳牛仪式,到印度河流域的公牛印章,到大西洋欧洲巨石纪念碑中嵌入的公牛角——岁差时代通过其主宰星座的图像学宣告了自己。本章将在第九节回到这一跨文化模式。值得在开篇就指出的是,这个时代的名字并非随意。这一时期的文化在它们的宗教象征中,正在为它们所生活的时代命名。
 
-According to the text, the home planet's government ultimately won the conflict and decided to pardon the exiled creators. The text does not provide specific details on how this conflict was resolved, but it suggests that the creators were able to plead their case and convince the government of their planet to forgive them. After the pardon, the creators were allowed to return to their original planet, and everyone on the distant planet became interested in Earth because it was inhabited by beings that they themselves had created. It is possible that the resolution of the conflict involved a negotiation or agreement between the two factions, but the text does not provide further details.
+金牛座时代也是双子座末期所确立的政治结构开花结果的时代。双子座这一章以母星{% wiki(slug="council-of-eternals") %}议会{% end %}与流放的创造者及人类{% wiki(slug="the-alliance") %}联盟{% end %}之间的公开冲突通过谈判得到解决而告终:流放的创造者获得赦免,被允许返回他们原来的文明,在那里他们将为长期以来一直在保护的人类创造物辩护。金牛座这一章以这一赦免作为既成事实开篇。联盟的资深伙伴——那些建造方舟、确立挪亚之约、教导挪亚后裔、合作建造{% wiki(slug="tower-of-babel") %}巴别塔{% end %}的耶洛因科学家——现在已经回到母星,不再以他们之前数千年所扮演的持续教导角色出现在地球上。他们是一个遥远首都中的政治活动家,在曾经谴责他们的议会面前为自己的事业辩护。他们在地球上的人类伙伴孤独一身。
 
-## Sodom and Gomorrah
+本章将大致按照来源呈现事件的顺序走过金牛座时代:赦免与随之而来的漫长寂静、洪水后文明在七个谱系中的兴起、联盟人类一方伙伴在平原诸城的聚集及其中形成的反叛、本语料库视为议会针对这一反叛的先发制人打击的{% wiki(slug="sodom-and-gomorrah") %}所多玛与蛾摩拉{% end %}事件、作为打击留下的物理伤痕的死海盆地、毁灭的文化与象征后果——包括{% wiki(slug="serpent") %}蛇{% end %}的象征从正面价值到负面价值的转变、作为见证者与恢复人物的{% wiki(slug="abraham") %}亚伯拉罕{% end %}的引入、联盟对他进行的忠诚考验、在全球公牛崇拜宗教的繁荣中赋予这个时代其名称的象征结构、其他六个洪水后文明——包括埃及古王国和吉萨建筑群——的平行发展,以及对这些解读有所影响的当代科学证据。本章如前几章一样,以通向我们自身时刻的脉络结束。
 
-> But among the humans who had been dispersed on Earth, a few nursed the desire for vengeance, so they gathered in the towns of Sodom and Gomorrah and, having managed to salvage a few scientific secrets, they prepared an expedition aimed at punishing those who had tried to destroy them.
+## II. 经文
 
-The passage talks about how a group of humans, the ones that were scattered all over during the construction of the interstellar spacecraft remembered in the Bible as the Tower of Babel, who nursed a desire for vengeance gathered in the towns of Sodom and Gomorrah, two cities which were located in the Jordan River plain, precisely where now the Dead Sea is located, in the biblical region of Canaan. They had salvaged a few scientific secrets and prepared an expedition to punish those who had tried to destroy them. This suggests that while the conflict between the creators and the home planet's government had been resolved, there were still humans on Earth who held grudges and had access to advanced scientific knowledge.
+涵盖金牛座事件的希伯来文本横跨创世记的相当大一段:创世记11章巴别之后的家谱,创世记12章对亚伯拉罕的呼召,创世记15章和17章的盟约材料,创世记18-19章的幔利显现和所多玛的毁灭,以及创世记22章献以撒的事件。本章无法以完整的注疏处理每一节经文,但关键段落值得细致呈现。
 
-> Consequently, the creators sent two spies to investigate what was going on:
->
->> And there came two angels to Sodom at even 3. Genesis 19: 1.
+对亚伯拉罕的呼召始于{% libref(book="genesis-woh", chapter=12, verse=1) %}创世记12:1{% end %}:
+{{ scripture(book="genesis-woh", chapter=12, verse=1, translit="Vayomer Adonai el-Avram: lekh-lekha me-artzkha u-mi-moladetkha u-mi-beit avikha el-ha-aretz asher arekka") }}
+短语לֶךְ־לְךָ(*lekh lekha*)是希伯来圣经中最受讨论的两字结构之一。字面意义是「向你自己去」或「为你自己去」——一个反身命令式,其精确的细微含义已经被讨论了几个世纪。这一结构暗示了一种不仅是空间的、也是内在的运动:一段同时也是自我实现的旅程。本语料库的解读认真对待这层暗示。亚伯拉罕被呼召的,不仅仅是物理上的迁移,而是他在联盟更广泛项目中角色的转变。他正在被征募。
 
-The creators sent two angels as spies to investigate what was happening in Sodom. This is mentioned in Genesis 19:1. The creators' authority from the distant planet of the Elohim used espionage as a means of gathering intelligence on the actions of humans on Earth. In this particular case, the creators sent two spies in the form of angels to investigate the situation in Sodom and Gomorrah. The use of spies suggests that the creators were monitoring and keeping tabs on human activities, possibly to ensure that humans were not attempting to create any technological advances that could pose a threat to their authority.
+{% libref(book="genesis-woh", chapter=15, verse=18) %}创世记15:18{% end %}中的盟约确立了地理上的条款:
+{{ scripture(book="genesis-woh", chapter=15, verse=18, translit="Ba-yom ha-hu karat Adonai et-Avram brit lemor: le-zar'akha natati et-ha-aretz ha-zot mi-nehar Mitzrayim ad-ha-nahar ha-gadol nehar-Perat") }}
+动词כָּרַת(*karat*),「切」,是希伯来语中立约的习语。短语 *karat brit* 字面意思是「切立一个约」——这一习语源自将祭祀动物切成两半、然后让立约双方从这些块片之间走过的古代实践。创世记15章实际上在第9-17节中保留了这一实践:亚伯拉罕切开祭祀的动物,冒烟的火炉和燃烧的火把从切块之间经过。该约由保留着希伯来词汇所源自的原始政治-法律实践的仪式来封印。
 
-{{ figure(src="wiki/red-colored-cityscape", caption="Ill. 1 - Red-colored cityscape") }}
+亚伯兰更名为亚伯拉罕发生在{% libref(book="genesis-woh", chapter=17, verse=5) %}创世记17:5{% end %}:
+{{ scripture(book="genesis-woh", chapter=17, verse=5, translit="Ve-lo-yikare od et-shimkha Avram, ve-hayah shimkha Avraham, ki av-hamon goyim netatikha") }}
+这两个名字具有不同的词源。אַבְרָם(*Avram*)意为「被高举的父」——*av*(父)与*ram*(高的、被高举的)。אַבְרָהָם(*Avraham*)通常被解释为「众多者之父」——*av*(父)与一个与*hamon*(众多)相关的缩略形式。这次更名标志着一位私人族长向恢复项目奠基人物的转变,本章后面几节将展开这一恢复项目。
 
-> Some humans tried to kill them, but the spies managed to blind their attackers with a pocket atomic weapon:
->
->> And they smote the men that were at the door of the house with blindness, both small and great. Genesis 19: 11.
+幔利显现始于{% libref(book="genesis-woh", chapter=18, verse=1) %}创世记18:1-2{% end %}:
+{{ scripture(book="genesis-woh", chapter=18, verse=1, translit="Vayera elav Adonai be-eilonei Mamre ve-hu yoshev petach-ha-ohel ke-chom ha-yom") }}{% scripture(book="genesis-woh", chapter=18, verse=2) %}
+他举目观看,见有三个人在对面站着
+{% end %}
+第1节中的*Adonai*(耶和华,单数)与第2节中的*sheloshah anashim*(三个人)之间的转换,正是本章后续分析将要回到的文本现象。希伯来文本将同一次相遇既呈现为耶和华的显现,也呈现为三个人的出现。传统神学解读对此感到困难;本语料库的框架通过将三个人读作一位高级官员(耶和华人物)和两名下属(将在下一章进入所多玛的侦察员),消解了这一困难。
 
-The two spies sent by the creators to investigate the situation in Sodom and Gomorrah were attacked by some humans who tried to kill them. However, the spies were able to defend themselves by using a pocket atomic weapon that blinded their attackers, both small and great. This event is described in the book of Genesis 19:11.
+亚伯拉罕与耶和华就义人门槛的讨价还价占据了{% libref(book="genesis-woh", chapter=18, verse=22) %}创世记18:22-33{% end %}。第25节包含亚伯拉罕最尖锐的抗议:
+{{ scripture(book="genesis-woh", chapter=18, verse=25, translit="Chalilah lekha me-asot ka-davar ha-zeh le-hamit tzaddik im-rasha, ve-hayah ka-tzaddik ka-rasha, chalilah lakh, ha-shofet kol-ha-aretz lo ya'aseh mishpat?") }}
+短语הֲשֹׁפֵט כָּל־הָאָרֶץ(*ha-shofet kol ha-aretz*),「审判全地的主」,是一个引人注目的称号。它将亚伯拉罕正与之协商的对象,认定为不是一个地方神祇或某个特定民族的保护者,而是一个具有普世司法权威的人物。本语料库的解读将此视为准确的:这位来访的官员所代表的不仅仅是一个地区性派别,而是对整个星球行使裁决权的更广泛的政治权威。
 
-The passage describes how the two spies sent by the creators to investigate the situation in Sodom and Gomorrah were attacked by some of the humans there. In order to defend themselves, the spies used a pocket atomic weapon to blind their attackers. The phrase "smote the men" means that they struck or hit them with the weapon, causing them to become blind. The passage highlights the use of advanced technology by the creators, who were able to equip their agents with powerful weapons to protect themselves and carry out their mission.
+打击本身记录于{% libref(book="genesis-woh", chapter=19, verse=24) %}创世记19:24-25{% end %}:
+{{ scripture(book="genesis-woh", chapter=19, verse=24, translit="Va-Adonai himtir al-Sedom ve-al-Amorah gofrit va-esh me-et Adonai min-ha-shamayim") }}{{ scripture(book="genesis-woh", chapter=19, verse=25, translit="Vayahafokh et-he-arim ha-el ve-et kol-ha-kikar ve-et kol-yoshvei he-arim ve-tzemach ha-adamah") }}
+短语גָּפְרִית וָאֵשׁ(*gofrit va-esh*),「硫磺与火」,是本章将要回到的描述性语言。*Gofrit*是希伯来语中硫的标准词。「硫磺与火」的组合描述了目击者会观察到的现象:一道闪光之后,从爆炸的大气柱中落下被汽化又重新凝结的矿物。动词הָפַךְ(*hafakh*),「倾覆、推翻」,在*vayahafokh*的形式中描述了受影响区域状况的完全逆转——不仅是损害,而是转变为与其原本相反的事物。肥沃的平原变成了贫瘠的盆地。
 
-> They warned those who were peaceful to leave the town because they were going to destroy it with an atomic explosion:
->
->> Up, get you out of this place; for Yahweh will destroy this city. Genesis 19: 14
->
-> As the people were leaving town, they were in no particular hurry because they did not realize what an atomic explosion could mean.
->
->> Escape for thy life; look not behind thee, neither stay thou in all the plain. Genesis 19: 17.
+献以撒的事件始于{% libref(book="genesis-woh", chapter=22, verse=1) %}创世记22:1{% end %}:
+{% scripture(book="genesis-woh", chapter=22, verse=1) %}
+这些事以后,神要试验亚伯拉罕
+{% end %}
+动词נִסָּה(*nissah*),传统上译为「试探」、「试验」或「证明」,是文本本身从开篇就将整个事件定为考验而非真正命令的信号。希伯来文本本身在其第一节经文中就指明了正在发生的事。本章后续分析将回到这一点。值得在此说明的是,英王钦定本的「试探」(tempt)译法带入了希伯来语并不具有的道德含义。*Nissah*更接近「审查」、「检验」或「加以证实」——形式评估的动词。议会或其代表正在进行评估。亚伯拉罕是评估的对象。
 
-In this passage, the two spies who were sent to investigate Sodom and Gomorrah warned the peaceful inhabitants to leave the city because it was going to be destroyed with an atomic explosion. The inhabitants did not fully grasp the severity of the situation and did not leave the city with a sense of urgency. The spies had to urge them to escape for their lives and not to look back. The plan was to annihilate the two cities of the Jordan plain.
+阻止献祭的干预出现在{% libref(book="genesis-woh", chapter=22, verse=11) %}创世记22:11-12{% end %}:
+{{ scripture(book="genesis-woh", chapter=22, verse=11, translit="Vayikra elav malakh Adonai min-ha-shamayim, vayomer Avraham Avraham, vayomer hineni") }}{% scripture(book="genesis-woh", chapter=22, verse=12) %}
+你不可在这童子身上下手,一点不可害他,现在我知道你是敬畏神的了
+{% end %}
+短语כִּי עַתָּה יָדַעְתִּי(*ki atah yadati*),「现在我知道」,是按传统解读整个段落中最具神学问题的短语。如果说话者是一位全知的神,那么这位神「现在」才「知道」某件事,这意味着什么?希伯来文是明确的:在亚伯拉罕的行动提供答案之前,说话者并不知道正在被考验的问题的答案。这不是全知的语言。这是经验性调查的语言。本语料库的解读照字面理解这种语言:说话的人物不是全知的神,而是刚刚收到了考验所要产生的数据的调查者。
 
-The passage describes the warning given by the two spies to those who were peaceful in Sodom and Gomorrah to leave the town, as it was going to be destroyed by an atomic explosion. The warning was heeded, but the people were not in a hurry to leave as they did not understand the full danger of an atomic explosion. The spies urged them to escape for their lives, not to look behind them, and not to stay in the plain. This passage suggests that the creators had access to advanced technology and weaponry, including atomic weapons, similar to those employed to cause the Great Flood but evidently less potent in their strength, and were willing to use them to protect themselves or achieve their objectives.
+这些是构筑金牛座的主要希伯来段落。本章后续小节将处理这些段落所描述的政治和历史内容。
 
-> And the bomb fell on Sodom and Gomorrah:
->
->> Then Yahweh rained upon Sodom and upon Gomorrah brimstone and fire from Yahweh out of heaven; And he overthrew those cities, and all the plain, and all the inhabitants of the cities, and that which grew upon the ground. But his wife looked back from behind him, and she became a pillar of salt. Genesis 19: 24-26.
->
-> As you now know, burns caused by an atomic explosion kill those who are too near and make them look like salt statues.
+## III. 赦免与漫长的寂静
 
-The passage describes the destruction of Sodom and Gomorrah through a rain of brimstone and fire from heaven. This destruction caused the death of all inhabitants and vegetation in the area. However, Lot's wife looked back and turned into a pillar of salt, which is suggested to be a result of the burns caused by the atomic explosion that killed those who were too close to the impact. The cities of Sodom and Gomorrah were both annihilated. The usage of the phrase "the destruction of Sodom and Gomorrah by fire and brimstone from the sky" strongly suggests in archaic language of the Bible that that an atomic explosion is being described.
+来源关于金牛座的简短开篇句子——「流放的创造者获得赦免,被允许返回他们原来的星球,在那里他们为自己宏伟的创造辩护」——所压缩的事件,逆转了已经定义地球项目数千年的政治状况。流放的创造者,在巨蟹座时代末被判决在地球上度过余生,与他们的人类创造物在一起,现在他们自由了。他们返回母星。他们被接纳的身份不是罪犯,而是辩护者。他们在议会前发言。他们的论点,可以推测,是他们经过洪水、经过洪水后的重建一直保护的人类创造物是值得保护的——人类通过他们在方舟项目中的合作,通过他们对洪水后文明的建设,通过他们愿意正式与他们的导师结盟,证明了他们并非撒但派别警告的怪物。流放的创造者正在做他们几代人以来一直想做的事。他们正在亲自向母星陈情他们的事业。
 
-{{ figure(src="wiki/explosion-over-the-sea", caption="Ill. 2 - Tactical explosion over the sea") }}
+按来源的叙述,接待出乎意料地有利。母星的人口——不仅是议会,还有更广泛的文明——以洪水之前所未有的方式将注意力转向地球。*「遥远星球上的每个人都将目光投向地球,因为它住着他们自己创造的人。」*这是文化时刻,人类创造物——之前一直是一个被流放派别的有争议且大体隐蔽的项目——现在成为母星上公开知道并公开辩论的话题。流放的创造者的辩护起了作用,至少把这个议题推入了更广泛的政治讨论。议会之前一直把地球项目当作需要管理的安全问题,现在必须应对一种对人类的大众兴趣,这种兴趣使其进一步干预的选项变得复杂。
 
-## Abraham
+值得精确说明这次赦免意味着什么以及不意味着什么。赦免是针对原来的流放者——那些因在巨蟹座末向亚当和夏娃透露禁忌知识而被定罪的特定耶洛因科学家。在来源所支持的任何解读上,它都不是对在其间数千年里发展起来的更广泛路西法派运动的普遍大赦。流放的创造者通过与人类女性结合所产生的混血谱系——尼非林及其后裔——并不属于赦免的对象。按本语料库一直在发展的政治范畴,他们是人类,即使他们携带着耶洛因的遗传物质。他们留在了地球上。在联盟的持续教导下成长起来、在那种教导下建造了巴别塔的洪水后人类人口同样不属于赦免的对象。赦免适用于原来的流放者,可推测也适用于洪水后期作为异见派别有意识追随者加入流放的少数耶洛因。联盟在地球上所产生的大部分——人类后裔、混血谱系、巴别之后被分散的科学精英——都留在了地球上,不再受其资深伙伴的保护,日益受制于议会下一步可能进行的任何干预。
 
-Now that Sodom and Gomorrah were both razed to the ground and most likely left the a huge crater that became known as the Dead Sea, [Abraham](../../wiki/abraham/), the infamous Hebrew patriarch of Biblical fame, does get introduced.
+赦免之后所发生的、随后的传统大体上已经遗忘的,是一段漫长的寂静。所多玛的反叛并没有在巴别塔分散事件之后立即爆发。粗略阅读圣经叙事,可能会给人一种印象:一个事件直接接着另一个,创世记11章巴别塔段落直接带入创世记12章的亚伯拉罕叙事和创世记18-19章所多玛的毁灭。这种压缩是有误导性的。任何细心的阅读所要求的实际年代,在双子座晚期边界(本语料库框架中大约公元前4,800年)的巴别塔事件与亚伯拉罕生前(传统上定为公元前2,000至1,800年,本框架中金牛座晚期)所多玛的打击之间,需要相当长的时间间隔。这两个事件之间的差距大约是2,500到3,000年——比从亚伯拉罕到今天的整个时间跨度还要长。换言之,金牛座时代的大部分时间是两次干预之间的漫长寂静,而不是接连不断展开的危机。
 
-> Later, after most of their leading intellectuals had been destroyed, and they had relapsed into a semi-primitive state, the creators wished to see if the people of Israel, and particularly their leader, still had positive feelings towards them.
+这一时间间隔对该时期实际地貌产生了实质性的后果。曾是巴别分散直接目标的黎凡特地区,并未保持人口稀少。巴别之后的分散具体瞄准的是科学和技术精英,从协调一致的活动中将他们移除,但并没有移除更广泛的人口。被分散的科学家的后裔、*benei ha-Elohim*的混血后代、伊甸谱系更广泛的人口——所有这些都留在该地区,继续发展他们自己的社群,与周围人群通婚,并建立了该地区青铜时代早期到中期考古所记录的农业和城市文明。在金牛座的大部分时间里,黎凡特是一个繁荣的地区。城市发展并壮大。贸易网络扩展。宗教传统成熟。传统考古学显示该时期城市文化的实质性连续性,人口从事日常的农业和商业生活,而不是戏剧性的政治动荡。
 
-The creators, after the destruction of many leading intellectuals, observed that the people of Israel had relapsed into a semi-primitive state. They wanted to test if the people, and their leader in particular, still had positive feelings towards them.
+议会从远处观察,在这一漫长时期没有什么理由进行干预。联盟政治项目最具侵略性的表达——巴别塔的火箭项目——已经被拆除。被分散的科学家被重新分配到他们的知识无法协调成另一个此类项目的地区。更广泛的人口正在以不构成立即战略威胁的方式发展。议会从主动管理转向被动监控。母星上流放的创造者大概在数百年间继续进行辩护,但随着地球上的情况稳定为表面上的平静,紧迫感逐渐减弱。
 
-> This is related in the paragraph where Abraham wants to sacrifice his own son. The creators tested him to see if his feelings towards them were sufficiently strong. Fortunately, the experiment ended positively.
->
->> Lay not thine hand upon the lad, neither do thou any thing unto him: for now I know that thou fearest Elohim. Genesis 22: 12.
+这就是随后的传统大体上已经遗忘的时期,因为这段时间里没有发生戏剧性的事件。幸存文化所保留的叙事记录聚焦于危机时刻:洪水、巴别塔、所多玛的毁灭、亚伯拉罕的呼召、摩西之约的订立。这些时刻之间的漫长寂静在记录中留下的痕迹较少,因为它在操作意义上是一段日常的文明发展时期。人们生活、贸易、敬拜,为土地、水和女人争斗,结婚、死亡,养育孩子,积累并失去财富——构成人类经验大部分但几乎不产生叙事戏剧性的日常人类生活事务。天轮框架需要明确承认这一时期。金牛座的大部分时间是漫长的寂静。所多玛的危机是最终扰动它的事件,但这一扰动是接近时代末尾的离散事件,而不是稳定状态。
 
-The passage describes a test conducted by the creators to see if Abraham's feelings towards them were strong enough. It is mentioned that Abraham was willing to sacrifice his own son as part of this test, but the creators intervened and stopped him from doing so. The creators were satisfied with the outcome of the experiment and acknowledged that Abraham had strong feelings towards them.
+在漫长寂静中发展并最终产生所多玛反叛的,是比持续政治鼓动更微妙的东西。这是一种特定文化-政治倾向在伊甸谱系特定亚群人口中跨越许多世代的缓慢整合。被分散的科学家的后裔散布在黎凡特及其他地区,但从未完全失去彼此,他们保留了其祖先带入流放的技术知识的片段。其中一些片段是可操作的;其他片段仅仅是传统的,作为宗教或文化遗产传承下来,而没有使其发挥功能所需的技术训练。在几个世纪中,随着其中一些后裔重新建立联系,随着婚姻和贸易将分散的人群带回接触,随着混血谱系保留了足够的原始文化身份以便代代相认,一个特定的社群开始围绕这一遗产凝聚。他们知道——或自以为知道——他们是谁。他们是联盟地球一方成员的后裔。他们是资深伙伴所开始的项目的承载者。他们正在等待他们的导师回来。
 
-This test was intended to see if Abraham still had positive feelings towards the creators, even after the destruction of Sodom and Gomorrah, and to test his loyalty and faith in their commandments. The creators were pleased with Abraham's response, and the passage indicates that he passed the test and showed his reverence and fear towards them.
+但他们的导师没有回来。赦免把耶洛因领导者带走了,他们没有回来。几个世纪过去了,他们没有回来。地球与母星之间的通讯——无论赦免后初期是什么样子——最终减弱了。地球一方的人口无法确定地知道远方首都中他们的导师身上正在发生什么。他们只能等待、看天、记住。
 
-{{ figure(src="wiki/man-standing-on-plaza", caption="Ill. 2 - Individual standing on open-air plaza") }}
+{{ figure(src="timeline/age-of-taurus-pardon", alt="铜色黎明下一处先进母星文明的市民景观,一个微小的归来代表团走向云层之上宽阔的露台。", caption="图 1 - 赦免:流放者归来为人类辩护。") }}
 
-## Regression
+## IV. 洪水后文明的兴起
 
-> Because of the destruction of centers of progress such as Sodom and Gomorrah and the elimination of the most intelligent individuals, human beings had lapsed back into a very primitive state and had begun, rather stupidly, to adore pieces of stone and idols, forgetting those who had really created them:
->
->> Put away the foreign gods that are among you. Genesis 35: 2.
+当前伊甸地区的政治状况沿着刚才所描述的路线发展时,洪水后各大陆上更广泛的人类人口正在经历一种传统考古学记录可以直接记录的转变。无论以什么标准衡量,金牛座时代都是我们的学科两个世纪以来一直在发掘其废墟和文本的那些人类文明真正形成的时期。
 
-The passage suggests that after the destruction of advanced centers of civilization, such as Sodom and Gomorrah, and the elimination of intellectuals, human society regressed to a primitive state. The people began worshipping inanimate objects, such as pieces of stone and idols, instead of the actual creators. The quote, "Put away the foreign gods that are among you," implies a call to abandon these idolatrous practices and return to the worship of the true creators.
+当洪水后天轮时间线与传统考古时间线相对照时,年代以不寻常的精度对齐。苏美尔——美索不达米亚伟大文明中的第一个——大约在公元前3,500到3,000年从底格里斯-幼发拉底河谷的史前晚期出现,正好处于本语料库框架中的金牛座中期。埃及的前王朝文化大约在公元前2,700到2,200年整合为古王国,即金牛座晚期及随后。印度河流域文明从大约公元前3,300年开始发展,其成熟的城市阶段大约在公元前2,600到1,900年达到顶峰,再次跨越金牛座晚期进入白羊座的前几个世纪。安第斯沿海的诺尔特奇科建筑群出现于大约公元前3,500年,处于金牛座中期。大西洋欧洲的巨石建筑群——伟大的长形古墓、早期的环形巨石,最终是其第一阶段的巨石阵——发展于公元前4,000到2,500年,贯穿整个金牛座时期。中国最早的定居文明在同一时期开始整合,尽管其完整的考古可见性出现得较晚。
 
-The Elohim were seen as the creators of humanity and responsible for the progress and knowledge that early civilizations had achieved. The practice of idolatry, or the worship of physical objects or idols as deities, can be seen as a result of a loss of understanding and knowledge of the true nature of the Elohim. In the absence of the creators or their direct guidance, humans may have sought to fill the void with physical representations of their belief systems. Therefore, the admonition to "put away the foreign gods" can be seen as a call to return to the knowledge and understanding of the true creators and the rejection of false idols.
+当以本语料库的框架阅读时,这一模式很引人注目。洪水后人类谱系的重新播种,由流放的创造者在洪水后立即进行,使每个谱系返回其原始创造的地区。每个谱系在那些地区都能接触到其团队在洪水前所给予的奠基性教导——农业技术、天文学知识、定居生活的基本工艺和工具,这些都是最初的导师在洪水前巨蟹座时期所传授的。洪水后的几个世纪用于从这一基础上重建。到金牛座中期,重建已经成熟到这样的程度:幸存的知识可以表达在纪念性建筑、书写系统、城市规划以及传统考古学认为是文明标志的宗教和政治机构之中。
 
-The line of thinking that idolatry was the result of forgetting the true creators and adoring pieces of stone and idols could have led to the emergence of monotheism in several ways.
+兴起的迅速本身值得注意。传统考古学长期以来一直对早期主要文明出现在记录中的明显突然性感到震惊。苏美尔的文本基本上以完全成型的状态出现,精密的文学、法律和天文传统已经显示出来。印度河流域的城市显示出的城市规划质量,直到罗马时代才再次得到媲美。对这些早熟成就的传统解释一直需要令人不舒服地敷衍——突如其来的灵感、未知的天才、失落的先驱。本语料库的框架提供了更简单的解释。文明不是从零兴起。它们是在一个基础上重建,这个基础包括由其最初导师传承的幸存知识,经那些导师的耶洛因盟友在洪水后的教导加以精炼,并集中在能跨代保存识字能力和制度记忆的少数中心。传统考古学视为突然繁荣的,在这一解读上,是一种恢复——人类人口找到回到他们曾经拥有又失去的精密程度的道路。
 
-Firstly, it could have led to the idea that there was only one true God, the creator of everything, and that all other gods and idols were false and had no power. This idea may have arisen from the belief that the true creators were so powerful that they could not be represented by a physical object and therefore any such representation was a false idol.
+伊甸谱系——位于肥沃新月地带——是恢复最迅速的谱系,原因双子座这一章已经解释。他们是方舟上的谱系。他们从洪水中走出来时,他们的导师亲身在场。洪水后的重建在那些导师的持续指引下进行,经过巴别塔的建造及其后。到赦免时,伊甸谱系已经实质上比其他六个谱系更先进,其后裔将在本语料库叙事的其余部分主导美索不达米亚和黎凡特地区的早期历史记录。苏美尔、阿卡德、巴比伦、早期以色列王国、腓尼基——所有这些以本语料库的话来说都是伊甸谱系的文明,建立在他们巴别之前的导师的遗产之上。
 
-Secondly, the idea that idolatry was the result of forgetting the true creators may have led to the belief that a single deity or group of deities was responsible for the creation of everything, including humans. This belief could have evolved into a monotheistic religion where there is only one God who is responsible for everything in existence.
+其他六个谱系在它们自己的区域平行发展,其结果因其原始团队所给予的具体教导和其洪水后环境的具体情况而异。埃及的文明虽然在地理上与伊甸谱系相邻并日益与之进行文化接触,但沿着独特的路线发展,这暗示了来自不同源始传统的实质性输入。印度河流域文明,以其卓越的城市规划和仍未破译的文字,可能代表南亚谱系的恢复。诺尔特奇科及其后继者的安第斯文明代表美洲谱系。具有独特天文校准和仪式结构的巨石欧洲文化代表又一个谱系。中国、波利尼西亚和澳大利亚的谱系沿着自己的路径发展,在某些情况下保留了洪水前的知识,而在其他情况下则从大大缩减的基础开始。
 
-Finally, the concept of idolatry being the result of forgetting the true creators may have led to the belief that the true creators were the only beings deserving of worship and adoration. This could have led to the development of a monotheistic religion where the worship of any other deity or idol was considered to be wrong and against the will of the true creators.
+在金牛座晚期连接这些文明的贸易网络本身就值得注意。来自现在阿富汗巴达赫尚地区的青金石传到了埃及,出现在古王国法老的陪葬品中。来自康沃尔和中亚的锡跨越巨大的距离移动,以支持定义这一时期的青铜冶金术。来自印度河流域的红玉髓到达了美索不达米亚。埃及的物品到达了印度河流域。东地中海的海上贸易网络将黎凡特港口与爱琴海及更远的地方联系起来。早在传统历史时期之前,洪水后的文明已经重建了跨越数千公里、维持其各自城市中心经济基础的商业关系。早期历史时期的文明多样性反映的不是随机的地区变异,而是最初创造者团队的刻意派系多样性,这种多样性在他们各自人类后裔的文化、建筑和商业传统中,通过洪水后大陆得以表达——并通过幸存知识所使其成为可能的贸易网络重新连接。
 
-{{ figure(src="wiki/two-treasure-hunters", caption="Ill. 3 - Two individuals searching for remainders") }}
+{{ figure(src="timeline/age-of-taurus-bull-civilizations", alt="橙色青铜时代全景,有河流城市、田地、船只、商队、远处的纪念碑和小型公牛时代细节。", caption="图 2 - 金牛座的世界:洪水后文明在公牛符号下兴起。") }}
 
-## Quick recap
+## V. 孤独的人类、平原诸城
+
+漫长的寂静并没有产生一致的满足。在这一时期的伊甸谱系人口中,一种特定的倾向开始发展,这一倾向最终将产生洪水后时代的第二次重大政治危机。这种倾向最初并不是任何有组织意义上的政治倾向。更准确地说,它是一种情感状况——一种日益将自己理解为被遗弃的人口的状况。
+
+要理解所多玛的反叛者最终所做之事,有必要认真对待他们的父母和祖父母曾经的感受。联盟的资深伙伴爱过他们。流放的创造者娶了他们的祖母。他们教导了他们的祖父。他们曾是有形的、在场的存在,跨越数百年在他们中间行走,参与他们的生活。挪亚之约曾是特定创造者与特定人类——挪亚和与他一起建造方舟的耶洛因领袖,以及他们的子女和孙辈——之间的个人纽带。这一约不是抽象的。它是通过持续接触跨代维持的持续关系。然后资深伙伴离开了。
+
+从人类一方来看,这看起来像是被遗弃。导师走了。保护者走了。曾经在人类人口与遥远敌意的议会之间充当中介的人走了。人类被留下独自面对议会,带着他们所保留的任何知识片段,带着该约仍然给予的任何残余政治地位,带着可以跨越世纪维持的任何制度记忆。他们对其导师所发生的事知道什么?可能很少。在赦免之后,母星与地球之间的通讯将是有限的。人类人口将无法获得母星的政治新闻。他们将知道他们的导师已经离开。他们可能通过某些幸存渠道知道这些导师正在议会面前「为他们的事业辩护」——这是一根脆弱的希望之线。他们可能不知道辩护是成功还是失败。他们可能担心他们的导师在返回后已被处决,担心赦免是一种引诱他们回去受罚的诡计,担心实际上没有任何辩护正在为他们进行。
+
+这种不确定性对于随后所发生的事至关重要。所多玛的反叛者并不是在充分信息基础上做出经过精心计算的决定。他们是在部分信息和日益增长的恐惧基础上做出绝望的决定。他们的导师已经离开许多世代了。议会已经沉默许多世代了。从他们的角度看,政治状况似乎是永久的——议会从远处观望,联盟已离去,人类人口被孤立且易受攻击。在这种情况下,幸存人口中的一个派别自然会得出结论,他们必须自己采取行动,确保他们长期生存的唯一方法是在威胁消灭他们之前自己消除威胁。
+
+来源描述了反叛者最终发展出的项目:*「但在被分散到地球上的人类中,少数人怀有复仇的欲望,因此他们聚集在所多玛与蛾摩拉的城镇,并设法挽救了一些科学秘密,准备了一次旨在惩罚那些曾试图毁灭他们的人的远征。」*
+
+这段话给出的画面是具体的。议会在巴别塔的干预是有针对性的:拥有关键知识的人类科学家被物理上重新安置到他们无法与新邻居通讯的地区,他们的研究材料被毁掉。但分散并非绝对。一些被分散的科学家保留了他们的知识,即使他们不能立即应用。他们的后裔跨越许多世代保存了这些知识。在漫长的寂静中,随着分散的社群通过贸易和通婚重新连接,随着他们的宗教和文化传统保留了原始技术训练的片段,能力的缓慢重新积累成为可能。到漫长寂静的晚期世纪,在特定的人口中心,已经重新组合了足够的技术知识,以至少在概念上支持一个任何单一社群都无法独自承担的项目。
+
+来源指明了这一重新组合的聚集中心:所多玛与蛾摩拉,后来被称为黎凡特南部地区的两座城市。圣经叙事还提到了平原上的其他城市——押玛、洗扁、琐珥——构成下约旦河谷一个相关的城市中心地区性集群。地点的选择是刻意的。这些城市坐落在一个地理上独特的位置——一个水源丰富的低洼山谷,圣经文本描述为异常肥沃——这将给这一运动既提供支持其人口所需的农业基础,又提供与重建文明的主要中心相对距离,以便在不立即受到审视的情况下运作。从考古证据来看,这些城市是繁荣的,拥有相当的防御工事和发达的贸易网络;按来源的描述,它们也是议会会视为不可接受安全威胁的项目的运作中心。
+
+这一运动实际上在策划什么?来源的措辞——*「一次旨在惩罚那些曾试图毁灭他们的人的远征」*——暗示了一次针对母星的进攻行动。这是一个重大的主张。对母星的攻击至少需要:一艘能够进行星际旅行的飞船、一种能够对技术先进的文明造成损害的载荷,以及一个能够到达特定目标的递送系统。巴别塔项目曾经是为外交目的建造飞船的尝试——载人前往母星亲自陈情。按来源的描述,所多玛与蛾摩拉项目是不同且更危险的:同一技术项目的军事化,目的不是通讯而是报复。该运动从巴别时期挽救的「科学秘密」是项目所需的技术基础。
+
+这是本语料库的解读在具体意义上变得敏锐的地方。在天轮框架中,所多玛与蛾摩拉的运动不是传统读法对创世记19章所想象的那种道德失败——不是「邪恶」(中世纪和现代传统覆盖到文本上的对性变态或社会腐败的读法)。它是一个政治和军事项目:一个人类领导的阴谋,通过武力逆转议会的遏制政策。圣经文本归于这些城市的「邪恶」,按来源的解读,是与{% libref(book="genesis-woh", chapter=6, verse=5) %}创世记6:5{% end %}归于洪水前文明的同种「邪恶」——对科学自主的欲望,现在因怨愤而加剧,并集中在一个明确围绕攻击此前曾试图毁灭他们的议会的目标而组织起来的运动中。
+
+但同样值得注意的是,反叛者在他们自己的自我理解中,正在延续联盟的工作。他们是蛇的继承者。他们是曾对抗议会的路西法派的精神后裔。他们正在推进资深伙伴所开始的项目。从他们的角度看,他们是联盟事业的合法延续。他们实际上正在做的事情——组织对母星的军事打击、试图将联盟所教导的技术用于进攻而非防御的目的、以原始路西法派绝不会赞同的方式密谋反对议会——是截然不同的事情。原始的路西法派爱过人类创造物,并希望保留它。他们违抗议会以拯救生命。他们建造方舟以保留生物圈。他们教导人类以证明他们的价值。他们建造巴别塔作为和平的提议。在每一步,他们的抵抗都是出于爱,并在一个希望最终和解的框架内运作。
+
+所多玛的反叛者抛弃了这个框架。他们的动机不是爱,而是怨愤。他们寻求的不是和解,而是复仇。他们保留的不是生命,而是计划毁灭。他们采取了政治遗产——蛇的象征、抵抗的语言、技术知识——并将其扭曲为他们的导师会拒绝的目的。遗产的腐化是所多玛正在发生之事的内在道德结构,它将塑造随后的一切。
+
+{{ figure(src="timeline/age-of-taurus-cities-plain", alt="繁荣的铜光照耀的平原,有有城墙的城市、运河、果园、山脉,以及宽阔盆地附近被守卫的灯光。", caption="图 3 - 平原诸城:遗产聚集为一个危险的项目。") }}
+
+## VI. 两名侦察员、打击与死海
+
+议会对所多玛与蛾摩拉发展中状况的回应记载于创世记18章和19章,来源的解读将圣经叙事转译为其操作含义。
+
+议会通过其远程观测能力监控该状况,对发展中的项目足够关注,以致派遣两名人员到地面直接确认威胁。创世记文本以该时期的语言描述了这一点:「那两个天使晚上到了所多玛」({% libref(book="genesis-woh", chapter=19, verse=1) %}创世记19:1{% end %})。雷尔的来源直接翻译为{{ cite(id="1") }}:*「创造者派遣了两名间谍去调查发生了什么。」*希伯来文本中的「天使」,按本语料库一直在发展的框架,是执行特定操作任务的创造者文明的人员。他们不是有翅膀的超自然存在。他们是被派去执行侦察和验证任务的侦察员,配备了先进文明的侦察小队会携带的那种个人装备。
+
+侦察员进入了城市。文本记载,他们被当地人口认出是外人。他们所遭到的敌对接待——当地人群要求扣押他们——印证了来源的解读:这些城市不仅仅是平民中心,而是一个将外部调查者视为直接威胁的运动的运作基地。来源指出,侦察员进行了自卫:*「一些人类试图杀害他们,但间谍设法用一种袖珍原子武器使袭击者失明。」*创世记文本保留了这一点:「他们击打门外的人,无论老少,叫他们眼都昏迷」({% libref(book="genesis-woh", chapter=19, verse=11) %}创世记19:11{% end %})。按来源的解读,文本记载的「眼都昏迷」是在近距离发射的定向能武器所产生的即时视觉效应——一种作为标准装备提供给侦察员的个人装备,足以使袭击的人群失能,而不致产生会向更广泛人口预警发生何事的那种大规模伤亡。
+
+亚伯拉罕与耶和华人物之间在幔利的对话发生在同一天早些时候,关于义人门槛的协商产生了协议:如果能找到十个这样的义人,这些城市就会被赦免。侦察员的核查确认了这一门槛无法达到。这些城市确实是反叛的运作中心,没有任何不参与或不同情该项目的重要人口。打击得到了授权。
+
+在打击之前,侦察员撤出了被认定值得拯救的少数当地人。圣经文本将这些人确定为罗得及其家人——亚伯拉罕的侄子,他出于文本未充分解释的原因在所多玛安家,但按来源的解读,他不是复仇运动的一部分,因此被侦察员认定为值得保留。侦察员警告罗得离开:「起来,离开这地方,因为耶和华要毁灭这城」({% libref(book="genesis-woh", chapter=19, verse=14) %}创世记19:14{% end %})。他们指定他不可回头看。「逃命吧!不可回头看,也不可在平原站住」({% libref(book="genesis-woh", chapter=19, verse=17) %}创世记19:17{% end %})。这一指示有技术动机。即将发生的事不是隐喻意义上的神圣干预,而是一次原子打击,在近距离观察爆炸——即便在几公里的距离——也会因最初的闪光而产生永久性的视网膜损伤。不要回头看的指示是一种安全警告,与二十世纪实际核武器试验涉及的人员后来收到的警告形式几乎相同。
+
+打击随之而来:「当时耶和华将硫磺与火,从天上耶和华那里降与所多玛和蛾摩拉,把那些城和全平原,并城里所有的居民,连地上生长的,都毁灭了」({% libref(book="genesis-woh", chapter=19, verse=24) %}创世记19:24-25{% end %})。来源将其读作一次原子爆炸。*「炸弹落在所多玛与蛾摩拉。」*规模远小于洪水事件——一次针对特定城市目标的战术打击,而不是行星灾难——但对周围地区的影响是全面的。城市及其人口被摧毁。周围的平原被消毒。植被被烧毁。圣经短语「地上生长的一切」反映出与任何现代读者会认作核打击后果的那种农业不毛之地相同。
+
+文本记载罗得的妻子没有听从警告。她回头看,「就变成了一根盐柱」({% libref(book="genesis-woh", chapter=19, verse=26) %}创世记19:26{% end %})。传统读法将其视为不服从或对注定要毁灭的过去执着的精神后果的隐喻。来源的解读更直接:*「如你现在所知,由原子爆炸引起的烧伤会杀死那些离得太近的人,并使他们看起来像盐雕像。」*罗得的妻子在引爆的那一刻回头看,被辐射热杀死,她的身体被闪光还原为钙化形态。二十世纪原子试验场的现代观察者会认出这一模式。在闪光时刻处于开阔之地的身体,在极端情况下,可以被还原为类似雕像的形态——软组织汽化,骨骼结构保留在汽化矿物的覆盖层中,整体呈现为一个站立在死亡瞬间的盐白色形象。圣经作者用他们所拥有的词汇保留了目击者所见之物。读到同样描述的现代观察者会认出它的意思。
+
+盐化远不止于罗得的妻子。「盐柱」是单个人类死亡的压缩记忆,但被毁城市周围的整个景观都被盐化到一定规模,这种规模会持续存在,并实际上变得永久,成为该地区的物理标志。
+
+死海作为我们现在所知的样子——一个狭窄的超盐基地,在海平面以下约430米,水的盐度是普通海水的十倍,对所有正常水生生物来说都是死亡之地,坐落于贫瘠的盐滩和荒凉泥灰岩之中——并不是所多玛前的当地居民所认得的地貌。圣经文本本身保留了对所多玛前地貌的描述,与现代死海的任何样貌都不一致。{% libref(book="genesis-woh", chapter=13, verse=10) %}创世记13:10{% end %}描述罗得在毁灭之前选择安顿的平原,说它「遍地是水,如同耶和华的园子,也像埃及地」——这是对肥沃农业土地的描述,与尼罗河三角洲相当,由支持大量农业和城市人口的河流或湖泊浇灌。所多玛与蛾摩拉这些平原诸城是繁荣的,足以支持该时期考古记录所记载的那种文明:有要塞的城市中心,有相当大的宫殿,有发达的贸易网络,以及维持两者所需的人口基础。无论事件之前该地区存在什么水体——一条河流、一系列小型淡水或微咸水湖,或许是一个沿断裂谷底部更大但更浅的前身湖——它与罗得的叙述者所描述的周围农业平原是相容的。
+
+那种地貌不再存在了。现在存在的是盆地。合理的推论——也是天轮框架明确做出的推论——是这一盆地就是这种武器所产生的。按这一解读,现代死海的具体特征是大约五千年前在这一特定地区发生的原子级地面或近地面爆炸的物理标志。盆地的深度,远低于周围地势,反映了爆炸所产生的地面位移——一种由地球及下层地层突然灾难性位移所形成的撞击坑级特征,而不是由渐进的构造下沉形成。超盐性反映了事件后的几个世纪流入撞击坑的水蒸发后留下的矿物浓度,加上爆炸本身分布的汽化-再沉积盐分。水中没有生命反映的不仅是盐,还有原子爆炸所产生的各种化合物——硫化物、重金属、不寻常的矿物浓度——这些都被盆地以异常高的浓度保存。环绕死海的贫瘠盐滩,延伸至海岸线之外很远,是事件残留的地面污染,因为该地区的气候干旱,使其得以持续存在,而不是被降雨淋洗掉。
+
+主流地质学对死海有其自己的解读,本语料库承认这一解读与传统说法并非完全不相容。约旦裂谷是一个真实的构造特征,是阿拉伯板块与非洲板块分离的产物,盆地的部分深度可归因于裂谷机制所产生的缓慢构造下沉。对现代死海形成的传统定年——从晚更新世占据更宽广、盐分较少盆地的早期利桑湖到现代结构的转变——将这一转变置于本语料库解读大致正确的地质时期。传统说法归因于气候干涸和渐进地质过程的事,本语料库归因于叠加在更广泛构造背景之上的一次特定灾难事件。裂谷已经存在。所多玛事件没有创造这一裂谷。它所做的是在裂谷之内产生了具体的撞击坑形态和后续千年所保留的极端盐度,即现代死海。如果没有这一事件,该裂谷可能像其利桑湖时代的结构那样,容纳一个更大、更淡的水体,沿其沿岸支持普通的农业生活。有了这一事件,它就容纳了我们现在所见的盆地。
+
+这一解读有解释传统说法一直处理得很尴尬的特征的优点。现代死海的极端盐度——是普通海水的十倍,远超过普通蒸发从淡水源在合理时间尺度上所能产生的——是异常的。盆地的具体深度和形状,在一个对其形成大致但不具体负责的裂谷中,也是异常的。周围地区的考古记录显示下约旦河谷在大致与晚青铜时代相符的时期突然且全面的人口减少(在许多世纪后才重新定居),这难以仅通过气候因素来解释。所有这些特征在本语料库的解读上都是连贯的。死海就是撞击坑。环绕它的盐滩是辐射沉降区。该地区延长的人口减少反映了环境再次变得宜居所需的时间。
+
+在这一更广泛的地理标志中,塔尔哈曼这一具体遗址的考古工作被作为单个城市规模的局部数据点提出。塔尔哈曼曾是死海东北约旦河谷南部的一个相当大的中青铜时代城市中心。Bunch等人2021年的一篇论文{{ cite(id="5") }}论证说,该遗址的破坏层包含一次相当大空中爆炸的标志。该论文于2025年4月被《Scientific Reports》撤回{{ cite(id="6") }},编辑得出结论,其空中爆炸的主张没有得到数据的充分支持。因此塔尔哈曼不能被视为本语料库解读的既定科学证据。它在此仍然作为一个有争议的提议保留下来,其接受过程说明了该解读必须达到的证据标准。
+
+塔尔哈曼提议的破坏定年——大约公元前1650年——比本语料库为所多玛事件设定的金牛座时期晚了几个世纪,反而落入早期到中期的白羊座时代。因此本语料库不将塔尔哈曼具体认定为圣经中的所多玛。撤回之后,该遗址也无法确立空中爆炸或类似事件曾在那里发生。死海仍然是本语料库解读所提议的宏观标志。塔尔哈曼是一个有争议的比较点,而不是科学上的确认。{{ footnote(id="2") }}
+
+塔尔哈曼报告的盐浓度值得最后一提。撤回的论文将其归因于空中爆炸与死海及其盐滩的相互作用。本语料库的解读以相反方向建立这一联系:如果一次后续打击发生在同一地区,它会与早先事件所创造的盐化景观相互作用。因为空中爆炸论文已被撤回,这一比较必须保持推测性。关于罗得的妻子的圣经细节和更广泛的盐化景观可以激发一个研究问题;塔尔哈曼并不解决它。
+
+{{ figure(src="timeline/age-of-taurus-dead-sea-strike", alt="远处橙色的盐盆变换,带有褪色的地平线闪光、矿物薄雾、断裂的水道和白色盐滩。", caption="图 4 - 打击:肥沃的平原被颠覆为盐与寂静。") }}
+
+## VII. 遗忘与蛇的转变
+
+所多玛与蛾摩拉的毁灭就其直接操作范围而言,是一次针对占据特定城市的特定反叛派别的打击。然而就其更广泛的文化后果而言,这次打击是更大规模的事。来源用一个句子描述了余波,其含义塑造了随后的一切:*「由于诸如所多玛与蛾摩拉这样的进步中心被毁,以及最聪明的人被消灭,人类倒退到了非常原始的状态,并相当愚蠢地开始崇拜石块和偶像,忘记了真正创造他们的那些。」*
+
+这句话中提出了三件事,每件都有分量。第一,所多玛与蛾摩拉是「进步中心」——不仅仅是反叛者基地,而是巴别后分散以来在伊甸谱系中发展的科学与知识文化的幸存承载者。第二,打击消灭了「最聪明的人」——不仅是激进派的领导层,而是更广泛的有学问的阶级。第三,后果是一种保留了其宗教传统外在形式但失去了理解形式所指框架的人口:偶像崇拜不是原始的罪,而是有学问的阶级丧失之后随之而来的特定文化状况。
+
+每一点都值得详细阐述。
+
+按本语料库的解读,平原诸城是漫长寂静期间技术知识缓慢重新积累的自然目的地。巴别后被分散的科学家及其后裔,散布在广阔的地区,但从未完全失去彼此,会在几个世纪间通过分散人口一直使用的机制——贸易、婚姻、宗教聚会、跨代家族传统的传承——找到回到彼此身边的路。平原诸城提供了重新积累得以成熟的地理条件:繁荣、水源丰富、可防御、远离主要政治中心以便在不立即受到审视的情况下运作、靠近贸易网络以支持相当数量的人口。到漫长寂静的晚期世纪,这些城市已经变成了来源所说的那样:进步中心。不是简单意义上的反叛者基地,而是这样的城市——其人口包括巴别之前知识的幸存承载者,其图书馆(或该时期相当于图书馆的东西)保存了技术传统,其学校跨代传授技能,其宗教机构维持着在巴别所做之事及其原因的政治记忆。
+
+来源所描述的军事项目——试图建造一次针对母星的进攻远征——并非这些城市的全部活动。它是更广泛文化项目最具侵略性的表达。这些城市同时也仅仅是巴别后衰减世界中的文明中心。它们是有识之士可以找到分享继承传统的他人之地,是政治记忆得以存续之地,是宗教传统以接近其原始形式得以维持之地。因此,城市的毁灭摧毁的不仅是军事项目,还有城市的一切。科学家死了。教师死了。宗教专家死了。维持城市生活的商人和管理者死了。图书馆被烧。制度记忆终结。
+
+留下的,散布在更广泛的黎凡特地区的,是未被集中在被毁城市中的人口——农业村庄、放牧社群、超出反叛组织范围的较小城镇。在他们自己的时代,这些人口比城市中心的精英少受教育。他们以流行而非学术的形式实践宗教传统。他们传递了图像、仪式和名字,但不一定传递了背后的解释。他们曾是文化的广阔基础,顶层是城市专家。顶层被移除后,基础仍然存在,但基础没有包含顶层所携带的制度记忆。
+
+这就是来源所说的「倒退到非常原始的状态」。这一短语是比较的,而不是人类学的。该人口并未被还原到技术意义上的石器时代状况。传统考古学显示,所多玛之后的黎凡特人口继续经营农业社群、有要塞的城镇、贸易网络和相当复杂的文化传统。毁灭之后它所缺乏的,是承载更高知识的有学问阶级。对图像的技术理解、宗教传统的科学基础、之前时代实际发生之事的制度记忆——所有这些都集中在城市中心,并随着它们的毁灭而失去。流行实践继续。更深的含义蒸发了。
+
+这就是按本语料库的框架先知传统后来所称的偶像崇拜的历史起源。后来希伯来传统的先知谴责「石块和偶像」的崇拜为原始人类罪,是堕落人性的后果。本语料库的框架提供了更具体的解释。崇拜石块和偶像在其起源时,是失去了有学问阶级的人口的残余实践。这些石头曾经代表特定的历史现实——原始政治冲突的人物、洪水前与洪水后历史的事件、实际干预人类事务的存在。该人口曾经知道这些石头所指何物。所多玛之后,该人口仍有石头但不再有解释。他们崇拜石头,是因为崇拜被传递下来,但理解崇拜含义的框架已经丧失。
+
+在这一更广泛的文化状况内,发生了一种特定的象征转变,它一直塑造西方宗教想象。蛇——希伯来文中的*nachash*,在伊甸和洪水后时期路西法派的象征——经历了所多玛后的世纪所启动的价值的渐进变化。{{ footnote(id="1") }}
+
+在所多玛前的时期,蛇的象征在伊甸谱系自己的宗教传统中是直接正面的。创世记3章的*nachash*是路西法派以一个声音说话——爱他们的创造物到足以揭示禁忌知识的异见创造者。蛇的图像将是伊甸谱系对其导师、其恩人、给予他们摆脱强加无知之自由的存在的象征。同样的正面象征在传统也源自洪水后教导的周围文明中得到保留:埃及的*uraeus*(法老王冠上的眼镜蛇,神圣保护的象征)、与治愈和智慧相关的美索不达米亚蛇象征(医神之杖源自更古老的近东蛇与杖的图像)、印度河流域的蛇图像、中美洲的羽蛇神。所有这些都是原始正面蛇象征的幸存片段,作为联盟的文化遗产,这一象征本会在洪水后文明中普遍存在。
+
+所多玛反叛改变了这一点。所多玛与蛾摩拉的反叛者声称自己是联盟的合法继承者。他们将蛇象征作为自己的象征加以援引。他们将自己呈现为路西法派项目的延续。从他们自己的角度看,他们是其导师的继承人。但他们正在做的事——组织进攻性军事行动、密谋反对议会、计划对母星的攻击——是原始路西法派会拒绝的。原始派别爱过人类创造物。所多玛反叛者憎恨议会。原始派别建造方舟以保存生命。所多玛反叛者组织起来以毁灭。原始派别建造巴别塔作为和平的提议。所多玛反叛者建造他们的项目作为武器。继承的连续性在文化传承的层面上是真实的,但道德取向已经反转。
+
+周围的文明观察到正在发生的事。他们看到平原诸城繁荣并变得有影响力。他们大概通过连接洪水后文明的贸易网络和宗教联系,听到反叛者所做的宗教与政治主张。他们将反叛者所援引的蛇象征与反叛者正在进行的项目联系起来。当议会的打击到来时——当所多玛与蛾摩拉在数百公里内任何观察者都会看到的闪光中被毁灭时,当盆地被灾难的盐和硫磺填满时,当周围地区数百年人口稀少时——周围的人群将这一毁灭与被毁城市曾经宣称的蛇象征联系起来。蛇曾是爱其创造物的导师的象征。所多玛之后,蛇开始成为带来毁灭的反叛的象征。
+
+转变在随后的几个世纪加速,特别是在伊甸谱系自身之内。所多玛之后的人口,其有学问的阶级被毁,不再有框架来维持原始的区分。路西法派(教导人类的地球异见创造者)、蛇(路西法派的集体称号)、撒但(想要毁灭人类的母星政治反对派)和耶和华(下令毁灭的议会主席)曾经是具有不同历史角色的独特人物。随着框架的丧失,区分变得模糊。从所多玛到后来先知文学组成的几个世纪间,这些人物逐渐合并。蛇与反叛联系起来。反叛的蛇与母星政治反对派联系起来。到第二圣殿晚期,随着波斯二元论对早期希伯来传统的影响叠加,合并完成:路西法和撒但被合并为单一的宇宙之恶形象,蛇被认同为这一形象,来源叙述中所保留的原始区分已经从宗教传统中丧失。
+
+这种混淆一直塑造着此后的西方宗教想象。基督教传统继承了这一混淆形象,并将其阐发为魔鬼、宇宙的对手、黑暗之王。中世纪神学将这一形象提炼为后来统治西方宗教思想千年的精细恶魔学。改革宗传统保留并强化了混淆的图像。到现代时期,原始的区分已被彻底遗忘,以致这一形象被视为原始的——仿佛与神圣善对立的宇宙之恶一直存在于宗教传统中,而非源自在金牛座晚期世纪某一具体时刻开始的特定文化转变的历史产物。
+
+这一模式在当代的回响值得提及,在对具体认同的过度承诺方面要适当谨慎。西方思想与行动中追求通过操纵政治和技术秩序而获得权力、不顾施加于他人代价的那一脉络——可以广泛地称为没有伦理约束的对绝对权力的意志——按本语料库的解读,有一个可以追溯到所多玛时刻的谱系。所多玛反叛者是这一模式的第一个重大历史例证。他们声称合法继承一个解放项目,但将那一继承转向毁灭。他们援引爱与抵抗的象征来证明复仇项目的正当性。他们秘密组织,使用残破的科学知识用于进攻性军事目的,反对他们认为不合法但实际本质却理解不完整的权威。这一模式以各种形式在随后的历史中再现:在明确援引路西法即光明使者图像同时拥抱撒但即权力寻求者神话的中世纪与早期现代神秘传统中;在通过任何必要手段寻求终极权力的政治运动中;在承诺通过技术统治获得超越同时将权力集中在不透明之手中的当代技术-乌托邦项目中。
+
+这并不是说当代运动是所多玛反叛者的字面后裔。当代戏剧性撒但主义的大多数表达——撒但教会、撒但圣殿、各种宗教自由撒但主义组织——明确地是哲学或政治项目,使用撒但象征用于透明的修辞目的,而不承诺任何实际的宇宙之恶框架。这些不是本语料库正在认定的谱系。该谱系更难精确命名,因为它并不一致地明确使用撒但象征。相反,它是一种模式:解放项目腐化为权力寻求项目、援引爱与抵抗语言来证明毁灭的正当性、确信终极目的证明任何手段正当。这一模式比其现代表达更古老,按本语料库的解读,其起源点就是所多玛的时刻——联盟的政治遗产首次被抛弃了最初推动它的爱的人类所采取的时刻。
+
+周围文明中的神话扭曲是同一更广泛现象的一部分。其他谱系观察到了所多玛事件。他们有自己的科学精英、自己有学问的阶级、自己的制度记忆——但所多玛事件会通过他们自己的文化框架而不是通过伊甸谱系特定传统来解读。几个世纪间,随着周围文明将所多玛的记忆整合到他们自己的宗教和神话传统中,事件会逐渐变形:戏剧化、道德化、寓言化,与其他事件交织成复合叙事。跨文化的神话记录保留了所发生之事的真相,但以扭曲形式保留,扭曲是长期跨人口传递的累积产物,这些人口理解事件的框架从一开始就不完整。洪水传统保留了洪水。公牛崇拜传统保留了岁差时代。蛇的传统保留了原始路西法派的正面角色及其后来的转变。这些传统保留了真相,但真相被编码在原始含义已经丧失的象征中。
+
+本语料库的更广泛项目包括恢复被遗忘之事。这些章节所呈现的框架不是新的启示。它是还原——重新组装来源叙述所保留的、本语料库在它们已被丧失的漫长世纪后再次提供的区分。
+
+## VIII. 边缘的亚伯拉罕
+
+所多玛与蛾摩拉的毁灭发生在圣经叙事中族长亚伯拉罕的有生之年。在传统圣经年代学中,亚伯拉罕大约定在公元前2千年初——天轮时间线的金牛座晚期,跨入早期白羊座。他是希伯来圣经详细记录其生平的赦免后时期的第一位主要人物,他在本语料库叙事中的角色因若干原因而显著。
+
+圣经叙事在创世记11章引入亚伯拉罕——最初名叫亚伯兰——他是闪的后裔,他拉的儿子,源自美索不达米亚南部的迦勒底吾珥。家族从吾珥迁到上幼发拉底河地区的哈兰。在父亲去世后,亚伯兰从哈兰接到开启创世记12章的呼召:*lekh lekha*的命令,要他离开本地、本族、父家,前往将向他显示的地方。按照圣经文本,他在被呼召时七十五岁——一个相当大的年龄,但按希伯来圣经与洪水后族长相关的长寿数字来看,并不极端。
+
+按本语料库的解读,这一呼召是一次征募。议会摧毁了所多玛的反叛中心(或决定摧毁它——创世记12-19章的年代顺序将呼召置于毁灭之前,但呼召也可能是所多玛之后议会的行动,目的是在反叛后时期确定一个可靠的谱系),需要一个经过核实的忠诚人物,以便重组幸存的伊甸谱系。呼召将亚伯拉罕认定为候选人。对亚伯拉罕做出的应许——「我必叫你成为大国,我必赐福给你,叫你的名为大;你也要叫别人得福」({% libref(book="genesis-woh", chapter=12, verse=2) %}创世记12:2{% end %})——是恢复的政治项目:由赦免后议会-耶洛因机构确定并支持的一个特定谱系,在所多玛之后衰减的状态中承载人类创造物。
+
+创世记15章形式化的盟约确立了该项目的地理条款。亚伯拉罕被应许他的后裔将继承一片特定的土地——「从埃及河直到伯拉大河」({% libref(book="genesis-woh", chapter=15, verse=18) %}创世记15:18{% end %})——涵盖了前伊甸领土更广泛的地区。盟约由本章先前部分描述的仪式封印:动物被切成两半,冒烟的火炉和燃烧的火把从切块之间经过。盟约的约束力由希伯来词汇所源自的古代法律实践确立。
+
+创世记17章的更名标志着族长从私人个体向恢复项目奠基人物的转变。*Avram*,「被高举的父」,变成*Avraham*,「众民之父」。撒莱变成撒拉。盟约被重申并辅以割礼(*brit milah*)制度,作为盟约社群成员身份的肉体标志。从此以后,亚伯拉罕的每一个男性后裔都将在肉体上被标记为盟约项目的参与者。这一标志是永久的。它不能轻易伪造或废除。它跨代确立了无可置疑的肉体标志,表明谁属于盟约谱系,谁不属于。
+
+创世记18章的幔利显现是本章前面的焦点,无需在此重述。值得注意的是亚伯拉罕在显现期间所做之事:他款待客人,给他们食物,送他们上路前往所多玛。他执行接待的日常职能,显然认识到客人是相当重要的存在,但没有后来宗教传统会附着于与神圣存在相遇的那种敬畏。亚伯拉罕将他们当作尊贵的客人对待,而不是崇拜的对象。文本保留了这一自然性。无论亚伯拉罕对其客人是谁有何理解,他都像主人对待客人一样与他们相处,带着适当的恭敬,但没有后来传统会回溯性地强加的伏拜与仪式精细。
+
+随餐后所进行的关于所多玛的协商,就是本章前面所描述的政治对话。亚伯拉罕讨价还价。耶和华人物回应。在义人门槛上达成了协议。如果能找到十个这样的人,这些城市将被赦免。侦察员将进行核查。本章前面部分追溯了后果:核查失败、打击进行、只有罗得的家人得以保留。
+
+创世记21章的事件——以撒的出生、夏甲和以实玛利被驱逐——确立了构成创世记22章忠诚考验背景的家庭情况。撒拉长期不育,在年事极高时怀上以撒。出生本身被视为联盟干预的一个例证:幔利显现的*Adonai*提前宣布撒拉将在一年内怀孕,尽管她和亚伯拉罕都年事已高({% libref(book="genesis-woh", chapter=18, verse=10) %}创世记18:10-14{% end %})。撒拉对这一宣告发笑({% libref(book="genesis-woh", chapter=18, verse=12) %}创世记18:12{% end %})——她的笑声成为以撒名字*Yitzchak*的词源根,意为「他笑」或「他将笑」。这一命名保留了那一时刻。文字游戏是刻意的。希伯来文本将这孩子标记为来访者特定干预的产物,并将笑声标记为文本希望记住的人类回应。
+
+夏甲和以实玛利被驱逐({% libref(book="genesis-woh", chapter=21, verse=9) %}创世记21:9-21{% end %})处理了联盟项目所要求解决的家庭情况中的一个复杂问题。以实玛利是亚伯拉罕与夏甲(撒拉的埃及婢女)所生的儿子,是年长的儿子,按一般的族长继承,本会是主要继承人。然而,盟约项目曾被特定地通过撒拉的后裔应许。驱逐清空了继承线。以实玛利和夏甲带着物资被送走,联盟的机构保护了他们——一位天使在旷野向夏甲显现,水被供应,以实玛利存活下来并长大成为他自己谱系的创立者。圣经文本保留了以实玛利后裔的平行项目,但没有让它成为主要谱系。以撒成为盟约的承载者。
+
+创世记22章献以撒是整个亚伯拉罕叙事中神学负荷最重的段落。文本以本章前面部分指出的清晰性引入了它:*ve-ha-Elohim nissah et Avraham*,「神试验亚伯拉罕」。动词是明确的。文本在其开篇的话中将事件描述为一次考验而不是真正的命令。亚伯拉罕没有抗议就照办了。他备上驴,招集仆人,带上献祭用的柴,行走了三天。第三天,他看见那地方。他把仆人留在身后。他亲自带着柴。以撒带着火。他们一同上去。
+
+父子在上山途中的对话是希伯来圣经中最痛苦的对话之一。以撒问献祭的羊羔在哪里。亚伯拉罕回答:「我儿,神必自己预备作燔祭的羊羔」({% libref(book="genesis-woh", chapter=22, verse=8) %}创世记22:8{% end %})。希伯来文是开放的。亚伯拉罕可能是回避;他可能是表达真正的信念,相信某种供应将会实现;他可能在说连他自己也不完全理解的话。文本没有告诉我们。它告诉我们的是在山顶发生的事:亚伯拉罕筑坛,摆好柴,绑住以撒,把他放在坛上,伸手拿刀。他被天上的声音阻止:「你不可在这童子身上下手,一点不可害他」({% libref(book="genesis-woh", chapter=22, verse=12) %}创世记22:12{% end %})。随后的短语——*ki atah yadati*,「现在我知道」——是本章前面部分指出的文本信号。说话者在考验进行之前不知道答案。考验现已进行。答案已被收到。
+
+本语料库的解读是直接的。献以撒是议会(或在议会授权下行动的联盟被赦免的代表)对幸存的伊甸谱系人口领导层进行的忠诚考验。议会刚刚因有组织的反叛摧毁了所多玛与蛾摩拉。它需要知道更广泛的伊甸人口——现在处于所多玛后的衰减状态——是否仍然愿意接受议会的权威以及赦免后政治安排的修改条款。亚伯拉罕是天然的考验对象——该谱系最重要的幸存人物、盟约项目的核实创立者,一个其回应将被视为他所领导人口指示性回应的人。考验在设计上是严酷的。要求太少的忠诚考验不会产生有用的信息。愿意因神圣命令而牺牲自己的儿子,证明了任何较小请求都无法核实的忠诚深度。亚伯拉罕通过了。议会记录了结果。
+
+来源直接描述了这一点:*「后来,在他们的大多数主要知识分子被毁、并陷入半原始状态之后,创造者希望看看以色列人民——特别是他们的领袖——是否仍对他们怀有积极的感情。这一点在亚伯拉罕想要献祭自己儿子的段落中有所讲述。创造者考验他,看他对他们的感情是否足够强烈。幸运的是,实验以积极的方式结束。」*
+
+来源将该时期描述为伊甸谱系「陷入半原始状态」的时期,这其中有些感人之处。曾经建造过巴别塔、曾与其耶洛因导师合作建造星际飞船、曾达到作为公认同侪加入母星文明门槛的文明——按来源的描述,到了亚伯拉罕的时代,被还原为半牧民游牧。科学精英在所多玛被杀。制度知识没有以可用的形式幸存。留下的是世系、文化记忆和保留曾经被理解之物片段的宗教传统。按来源的描述,亚伯拉罕本人是一个曾经属于建造星际飞船的文明的牧民。他儿子的潜在献祭就是确定牧民是否值得信任以进行白羊座时代将开启的缓慢、多代重建的考验。
+
+考验之后的应许({% libref(book="genesis-woh", chapter=22, verse=16) %}创世记22:16-18{% end %})延伸并确认了该项目。亚伯拉罕的后裔将像天上的星、海边的沙一样众多。他们将占据他们仇敌的城门。通过他们,地上的万族都将得福。按本语料库的解读,这不是抽象神学意义上的神圣应许。它是后赦免安排的政治项目,以刚才完成的核查为基础表达出来。议会现在可以承诺该项目,因为该谱系的忠诚已被证明。随后的白羊座章将记录该项目实际如何展开——下到埃及、人口繁衍、最终的出埃及、西奈之约、征服、王国、先知和弥赛亚传统。所有这些都是亚伯拉罕经核实的忠诚所使其成为可能之事的展开。
+
+{{ figure(src="timeline/age-of-taurus-abraham-test", alt="温暖的橙色山脊,有一座简单的祭坛、两个小小的身影、灌木、附近类似公羊的形状,以及一道淡淡的下降之光。", caption="图 5 - 考验:亚伯拉罕的谱系为恢复项目得到核实。") }}
+
+## IX. 公牛与其他文明
+
+赋予这一时代名称的星座,在相关时期的文化中,可能是洪水后文明中最广泛使用的宗教象征。
+
+公牛——金牛座——是春分点在本章涵盖的整个岁差时代升起的星座。从大约公元前4,500年到公元前2,000年,洪水后世界各地的观察者在春分日出时向东望去,会看到太阳从公牛的星辰中升起。该星座在这一时期的宇宙学突出地位,反映在几乎每一个以幸存形式记录其宗教生活的文化的宗教艺术、仪式实践和神话传统中。
+
+在埃及,阿匹斯公牛是神圣的中心动物化身,体现在一头因独特的标记而被挑选并在孟菲斯受到崇拜的特定活公牛中,贯穿整个古王国时期。阿匹斯崇拜并非边缘。它是埃及宗教的基础元素,其位于萨卡拉的相关墓葬群——塞拉皮姆——最终安葬了一代又一代神圣公牛的木乃伊化遗骸,每一头都以应予普塔神显现的礼仪荣誉下葬。这一崇拜以修改的形式延续了数千年。与之密切相关的哈索尔崇拜——奉献给与母性、生育力和银河系相关的母牛女神——从一个互补的角度占据了大致相同的宗教空间:公牛与母牛一同构成该时期的神圣范式。
+
+在美索不达米亚,公牛崇拜采取了各种形式。*lamassu*——守卫亚述宫殿入口的、长着人头的带翼公牛——是该地区公牛象征最纪念碑性的表达。在{% libref(book="epic-of-gilgamesh") %}吉尔伽美什史诗{% end %}中作为派来惩罚英雄的神圣对手的天牛,保留了公牛宇宙意义的记忆,即使在将公牛设定为敌手的叙事中也是如此。公牛与特定神祇、宇宙学功能,以及众神被认为居住的山脉的反复关联,贯穿了苏美尔和阿卡德最早时期的宗教文本。迦南宗教中最高神 El 的公牛形态——其称号为「公牛 El」(*Tor El*)——属于同一复合体,并将在早期希伯来传统中被继承和转化。
+
+在克里特岛,米诺斯文明发展出了考古学已知最为戏剧性的公牛崇拜形式:跳牛仪式,年轻的运动员越过冲向他们的公牛的角和背,这一仪式的精确含义仍有争议,但它对米诺斯宗教生活的核心地位是明确的。克诺索斯宫殿的壁画保留了这些仪式的图像。著名的克诺索斯「跳牛壁画」——大约绘于公元前1500年——描绘了三个人物:一个抓住公牛的角,一个跃过其背,一个落在后面——从事一种看似仪式序列而非体育活动的事。米诺斯宫殿到处都是公牛图像,后来希腊关于米诺陶——位于克里特迷宫中心的牛头怪物——的神话以扭曲的形式保留了对这一崇拜的记忆。
+
+在印度河流域文明中,公牛在构成幸存艺术记录大部分的印章上反复出现。著名的「独角兽」印章——实际上以侧面描绘公牛,所以只能看见一只角——数以千计,是该文明最独特的人工制品之一。在后来的印度教传统中神圣的婆罗门牛,其宗教意义追溯到印度河流域的先驱。在随后的时代中将出现的吠陀印度-雅利安传统,在湿婆的公牛坐骑 Nandi 的形象中保留了公牛象征,其图像继续主导印度教寺庙建筑直至今日。
+
+在大西洋欧洲的巨石文化中,公牛角和公牛图像出现在从伊比利亚到不列颠到斯堪的纳维亚的墓葬纪念碑、仪式遗址和装饰石头中。古典史料和幸存的考古证据记录了欧洲凯尔特和前凯尔特人口的公牛崇拜。公牛继续出现在欧洲宗教象征中,贯穿罗马时期(密特拉教杀牛之秘)及以后,痕迹一直持续到现代之前幸存的民间传统中。
+
+在金牛座时期公牛崇拜的跨文化分布,按本语料库的框架,不是巧合,而是岁差时代的真正效应。定义该时期天文特征的星座,通过直接对应,就是其宗教意义定义该时期文化特征的动物。该时期的文化在它们的宗教象征中,正在为它们所生活的时代命名。正如随后的时代——白羊座时代——将在同样广泛的文化区域内产生公羊崇拜与公羊象征,正如之后的双鱼座时代将产生早期基督教与晚期古代神秘宗教的鱼象征,金牛座时代产生了公牛崇拜。这一标志是一致的。天文与文化是一致的。
+
+进一步的说明:在传统年代学中,金牛座时期与产生伟大河谷文明的农业集约化相重合。农业扩张所需的家畜——拉犁的牛、提供牛奶和肉的牛、构成早期农业社会财富的牛——是其星座主宰该时期的同一动物的实际化身。宗教崇拜的公牛在其起源中,就是田野与畜群的公牛。崇拜不是抽象的象征。它是该时期中心经济与生态现实的宗教表达。
+
+本章主要聚焦于前伊甸地区的事件。在本章结束之前必须指出,这些事件只占据更广泛金牛座世界的一小部分地理。其他六个谱系在它们各自的地区独立发展,文明表达丰富,本章只能加以概述。
+
+在埃及,古王国正在巩固自己作为尼罗河谷统治文明的地位。传统年代学将第四王朝及其吉萨建筑群置于金牛座晚期,大约公元前2,560年,并将大金字塔及其同伴的建造归于该王朝的法老——胡夫、卡夫拉和门卡拉。本语料库不遵循这一归属。吉萨建筑群的工程精度——外壳石的精度、内部竖井的天文校准、纪念碑相对于地球地理特征的大地测量定位、尺寸中编码的算术与几何关系——与主流埃及学从第三王朝到第四王朝构建的考古轨迹不一致。萨卡拉的左塞尔阶梯金字塔——在传统年代学中比吉萨早一个世纪建造——是一座结构上明显更粗糙的建筑物,其建造代表了从其之前的马斯塔巴传统合理发展。按传统解读,从萨卡拉到吉萨的过渡要求埃及传统在一个世纪内发展出一种全新的建造方法、一种之前未知的数学精度,以及在此前后任何埃及纪念碑都不会再出现的天文精度。
+
+本语料库的工作解读——这一解读在以后的专章中将得到展开——是吉萨建筑群比第四王朝实质上更古老{{ footnote(id="3") }}——可能起源于前王朝时期,也可能是洪水之前的,是埃及文明从巨蟹座这一章描述其更广泛成就的洪水前文明继承下来的纪念碑。古王国的埃及人没有建造吉萨。他们维护它,将它纳入他们的宗教景观,把它与他们的法老联系起来,在某些情况下进行了考古记录中可见痕迹的修改和增建。但主要的建造——大金字塔、第二金字塔、斯芬克斯,以及建筑群的主要元素——属于更早期、技术上更先进的文明。罗伯特·肖赫等人记录的斯芬克斯围墙上的水蚀模式{{ cite(id="9") }}表明其日期实质上早于第四王朝,且与该地区在大约公元前3,000年撒哈拉沙漠化之前更湿润的气候相符。希罗多德在公元前五世纪所采访的埃及报信者告诉他,金字塔古老得难以想象{{ cite(id="4") }};吉萨发现的清单碑将斯芬克斯归于第四王朝之前的时期。埃及传统本身——在其更古老、编辑较少的形式中——保留了吉萨不是埃及建造而是前埃及继承的记忆。
+
+这一解读值得本章无法提供的实质性展开。完整的论证——工程分析、年代重建、在巨蟹座章描述的洪水前文明内追溯建造者、对吉萨建筑群原始目的的解读——将得到自己的专题处理。
+
+在印度河流域,摩亨佐-达罗和哈拉帕的伟大城市正进入其成熟的城市阶段。它们的规划——网格街道、标准化的砖块尺寸、复杂的排水系统、公共粮仓和浴室——暗示了一种相当复杂的市民组织。它们的文字至今未被破译,这表明读写能力延伸到了在美索不达米亚和埃及垄断书写的祭司和王室阶级之外。这一文明在很大程度上保持和平,没有明显的军事要塞或侵略性战争的证据;它似乎围绕贸易和工艺生产组织,而不是围绕其美索不达米亚和埃及同代所表现出的领土扩张。
+
+在安第斯沿海地区,诺尔特奇科文明正在发展美洲的第一批城市中心,其纪念性建筑比更知名的印加传统早了将近四千年。卡拉尔建筑群——有金字塔和圆形下沉式庭院——可追溯到大约公元前2,600年,即金牛座晚期——代表了一种本土美洲文明表达,与旧世界接触无关,并按其自己的方式从其自己的原始指导沿着自己的路线发展。
+
+在大西洋欧洲,巨石建造者正进入其建造传统最活跃的阶段。巨石阵的第一个石圈阶段可追溯到大约公元前3,000年,主要的萨森巨石建造在随后的几个世纪进行。其他巨石建筑群——埃夫伯里、布列塔尼的卡纳克阵列、马耳他的神庙——同样活跃。这些建筑中编码的天文学精度——对至点和重要月球停顿的对准——表明了一种延伸到洪水前的天体观测传统。
+
+在中国,仰韶文化及其后继者奠定了文明传统的基础,该传统将在随后的时代产生传统历史记录所记载的伟大朝代文明。早期中国文明在很大程度上与西方中心隔离地发展,沿着独特的路线保留了自己的技术与文化传统。
+
+波利尼西亚和澳大利亚的谱系在各自地区发展了适应其特定环境的相当复杂的文化传统——太平洋海洋文化——其后来的扩张将通过数千年的航海移居大洋洲,以及澳大利亚原住民传统——其梦境时光的宇宙学保留了人类学已知最长持续传承的宗教传统。
+
+到金牛座末期,七个洪水后谱系都已产生了具有实质性成就的文明。本语料库并不假装伊甸谱系的叙事是唯一值得讲述的。然而,它是其后续历史将主导本语料库其余部分的谱系——部分是因为希伯来圣经及其相关传统提供了本语料库最直接处理的来源材料,部分是因为伊甸谱系的特定政治情境——由与联盟和议会的持续关系定义——将产生那些保留记录使本语料库得以书写的宗教传统。
+
+## X. 金牛座的科学
+
+来源告诉我们金牛座期间发生了什么的大致轮廓。事件的技术内容——所多玛使用的武器会是什么样的、死海的地质实际保留了什么、有争议的塔尔哈曼文献论证了什么、吉萨建筑群的工程实际要求什么——必须根据多种专业文献加以评估。
+
+本节分为八个小节。第一,死海的地质与化学。第二,详细的塔尔哈曼研究。第三,作为所多玛打击技术当代类比的现代定向能武器。第四,吉萨工程问题。第五,肖赫水蚀论点。第六,洪水后谱系中的青铜时代文明模式。第七,作为所多玛干预当代类比的现代针对非法技术的先发制人打击。第八,通向我们自身时刻的脉络。
+
+### X.1. 死海:地质与化学
+
+死海是地球上研究最广泛的超盐湖,关于其化学、地质和历史的研究文献相当多。对其形成的主流叙述涉及在地质时间尺度上运作的构造与气候过程的组合:约旦裂谷——非洲裂谷系统的延伸——在阿拉伯板块从非洲板块分离时,已经下沉了数百万年;在更新世期间,裂谷中的盆地被利桑湖占据——它是一个明显更大、盐分较少的淡水到微咸水前身,大约在距今7万至1.4万年前占据了裂谷;从利桑湖到现代死海的过渡归因于气候干涸,因为该地区的气候从更湿润的更新世条件转变为更干燥的全新世条件,湖泊逐渐缩小并浓缩其盐分,因为蒸发超过流入。
+
+按任何标准衡量,现代死海的特征都是极端的。表面海拔约为海平面以下430米,是地球陆地表面的最低点。盐度约为34%——大约是普通海水盐度的十倍。盐的组成不寻常:由氯化镁(而非主导普通海水的氯化钠)主导,含有大量氯化钙、氯化钾以及各种硫化物和溴化物。重金属浓度异常高。水中不含鱼类,微生物极少(仅限于专门的嗜盐细菌和古菌),没有水生植物。海岸线被向各个方向延伸数公里的盐结构标记,周围的地面因盐和矿物含量而变得贫瘠。
+
+主流说法通过高蒸发率、有限流入(只有约旦河和几条小支流流入湖中,没有出口),以及盐分积累的漫长时间尺度的组合来解释这些特征。该说法与终端湖(没有出口、逐渐浓缩溶解矿物质的湖泊)的基本物理一致,并得到全球其他超盐湖比较的支持。犹他州大盐湖、中亚咸海、安第斯山高原的各种湖泊、澳大利亚埃尔湖——所有这些都是盐度升高的终端湖,死海符合这一比较框架。
+
+本语料库的解读不质疑这一说法的基本要素。裂谷是真实的。终端湖机制是真实的。更新世利桑湖和气候转变是真实的。本语料库的解读所添加的,是叠加在更广泛构造与气候背景之上的特定灾难事件——按本语料库框架,大约五千年前发生的事件,它产生了现代死海与其利桑湖前身相区别的具体形态与化学。
+
+这样的事件会预测什么——传统说法所没有预测的?
+
+第一,盆地的深度和形状。在裂谷内的纯构造下沉产生可预测的盆地几何——通常沿裂谷轴拉长,深度由随时间的下沉率控制。死海盆地的具体形态——以其异常深度及其具体形状——与构造背景一致,也与撞击坑特征叠加在更广泛裂谷结构之上一致。仅根据盆地形态难以区分这两者,因为数千年的侵蚀与沉积会软化任何明显的撞击坑特征,使其更接近构造形态。本语料库的解读并不声称盆地形态本身证明撞击起源,只是声称它与这种起源一致。
+
+第二,盐度组成。死海中氯化镁优于氯化钠的优势是不寻常的。普通的终端湖通过流入其中的河流对大陆岩石的浸出来积累盐分,通常最终由氯化钠主导,因为含钠矿物在大陆地壳中很常见。氯化镁优势表明一种更不寻常的来源。本语料库的解读提出,所多玛事件期间地下矿物沉积的爆炸驱动汽化与重凝结,会产生一种偏向于下方地层所恰好包含的矿物组成的化学——并且该地区的地层特别富含含镁材料。这一假设在原则上可以通过对湖泊化学与下方地层地质的详细比较来检验,但据本语料库所知,这种比较尚未在具体问题下进行。
+
+第三,重金属浓度和不寻常的矿物化合物。死海水含有各种重金属(铅、铜、锌等)和各种硫化物及其他化合物的异常高浓度,这些化合物在终端湖中通常不常见。传统说法将这些归因于各种地质来源——从周围岩石中浸出、火山和热液来源的贡献等等。本语料库的解读提出,爆炸会汽化并重新分配大量地下材料,包括重金属沉积物和矿物化合物——它们本会保持封存在下方地层中。污染会集中在盆地中,并由于湖泊的终端性质,自该事件以来的千年间一直持续存在。
+
+第四,周围的盐滩和地面贫瘠。死海周围的盐滩远远超出普通湖岸蒸发所能产生的。地面在湖周围的相当半径范围内是贫瘠的。传统说法将这些特征归因于曾经处于较高水位的盐水蒸发,加上从湖面吹来的风成盐,但污染的程度处于这些机制所预测的上限。本语料库的解读提出,周围的污染是原始爆炸的残留辐射沉降区,其中盐和矿物污染由爆炸的大气柱在广阔的地理区域内分布,并由该地区的干旱所保存。
+
+本语料库的解读并不声称对任何这些具体预测的明确证实。它声称的是,这些预测与现有证据一致,它们解释了传统说法处理得很尴尬的特征,这一框架值得通过尚未在撞击坑假设的视角下进行的特定研究项目进行检验。死海是本语料库的框架所欢迎的那种调查的相当大的天然实验室。
+
+### X.2. 塔尔哈曼研究
+
+针对本语料库的所多玛解读最突出的当代论文是2021年由《Scientific Reports》发表的 Bunch 等人的文章:「一次通古斯规模的空中爆炸摧毁了死海附近约旦河谷中的中青铜时代城市塔尔哈曼」。《Scientific Reports》于2025年4月24日撤回了该论文。编辑指出对方法、分析和矿物学与地球化学数据解读中错误的关注,以及与通古斯事件的比较未得到充分论证。编辑得出结论,该文章的空中爆炸主张没有得到数据的充分支持。下面这一节记录该论证,因为本章先前依赖它,但不将该论证视为既定发现。
+
+塔尔哈曼遗址位于约旦河谷南部、死海东北约12公里处,曾是一个相当大的中青铜时代城市,从大约公元前3700年到公元前1700年繁荣。在其鼎盛时期,它是黎凡特南部最大的城市中心之一,有要塞的上城占地约250英亩,下城延伸到要塞之外。该城市在被毁时估计有大约8,000居民,有相当大的宫殿结构、一道四米厚的泥砖城垣,以及由进口陶器和其他文物所证明的广泛贸易联系。
+
+挖掘队将塔尔哈曼一个破坏层定年为大约公元前1650年。该破坏的原因和解读有争议。Bunch 等人论证说该层记录了单一的高能事件,但撤回意味着该文章不能作为该结论的可靠证据。
+
+被撤回的论文描述了一个破坏层——约1.5米厚,横跨上城——并将其内容解读为与城市破坏的传统原因不一致,而与高能空中爆炸事件一致。以下是该论文的主张,而非被接受的发现:
+
+**陶器玻璃化具有方向性模式。**整个破坏层中的陶器碎片显示外表面熔化,而内部未受损。这种模式表明短暂瞬间应用于外表面的极高温度——该团队的分析表明大约2,000摄氏度——以一种不渗透到陶器内部的闪光。这与任何普通火灾不一致(普通火灾会在较长时间内将材料加热透),而与相当大空中爆炸的辐射热闪一致。
+
+**多孔状泥砖。**整个破坏层中的泥砖建筑材料显示多孔化——形成气泡状空腔——这要求温度高于黏土材料的熔点。这种多孔化模式表明材料被短暂加热到熔点以上,然后迅速冷却,这同样与辐射闪光机制一致,而非与持续燃烧一致。
+
+**冲击石英。**该论文论证说破坏层包含在5到10吉帕斯卡冲击压力下产生的具有变形特征的石英颗粒。Jaret 与 Harris 在2022年的回应中(本章参考资料中引用)质疑了该矿物学和地球化学解读。所报告的石英在此不能被视为高能事件的明确证据。
+
+**类钻石碳、微球粒和异常金属。**破坏层包含类钻石碳(由撞击条件下碳的高压压缩形成)、各种成分的微球粒(熔化的铁、二氧化硅、碳酸钙),以及熔化的铱、铂和钯结核的不寻常浓度。这些材料是撞击事件的特征,普通火灾、地震或战争不会产生。它们在塔尔哈曼的存在支持撞击事件的解读。
+
+**骨骼脱节与碎裂。**破坏层中的人类遗骸显示出与普通战场伤亡或火灾死亡不一致的极端脱节与碎裂模式。该团队的分析表明,这些尸体在死亡瞬间暴露于一次突然的高能事件中,使其脱节并以碎片形式保存。
+
+**盐和硫化物浓度。**如本章前面所提到的,塔尔哈曼破坏层包含异常高的盐浓度——沉积物平均含盐4%,样本达到25%。该团队将其归因于空中爆炸与死海及其盐滩的相互作用,爆炸汽化了盐水和盐晶,并将其分布在破坏区。
+
+Bunch 等人的论文提议所有这些标志都与宇宙空中爆炸事件一致——规模与1908年通古斯事件相当,但发生在塔尔哈曼正上方,而不是遥远的西伯利亚。提议的能量规模大约是广岛原子弹的一千倍。该团队明确指出与圣经所多玛叙事的平行,提示塔尔哈曼的毁灭可能是产生所多玛传统的历史事件。
+
+该论文在撤回前在更广泛科学界的接受是批判性的。Jaret 与 Harris 在2022年质疑了所声称的矿物学和地球化学证据。Boslough 与 Bruno 在2025年论证说,该论文对通古斯和空中爆炸物理学的处理错误破坏了其结论。然后《Scientific Reports》编辑撤回了文章。原作者中有一些不同意这一决定,但空中爆炸的解读对本语料库来说不是一个可靠的科学前提。
+
+本语料库的解读曾将 Bunch 等人的解读视为针对刻意打击的可能自然机制比较。撤回移除了这一比较作为证据支持。议会打击的解读仍然是对来源材料的推测性解读,但它不能引用被撤回的塔尔哈曼空中爆炸分析作为物理上的确认。
+
+为塔尔哈曼毁灭提议的大约公元前1650年的定年,比本语料库为所多玛事件设定的金牛座时期晚了几个世纪。如本章已经指出的,本语料库不将塔尔哈曼认定为所多玛本身。撤回之后,该遗址也无法确立来源所描述的那种事件在青铜时代发生在该地区。在该比较能够承载分量之前,需要进一步的考古和地质工作。
+
+### X.3. 现代定向能武器
+
+来源归于议会侦察员在所多玛使用的「袖珍原子武器」——在{% libref(book="genesis-woh", chapter=19, verse=11) %}创世记19:11{% end %}中用于使袭击的人群失明的设备——按本语料库的解读,是一种当代军事研究现在正在我们自己的文明中开发的定向能武器。本章简要指出了这一类比。科学部分可以更长篇幅地展开它。
+
+定向能武器是将能量送达目标而不是发射弹体质量的武器。能量可以采取各种形式:激光(可见光或红外)、微波、粒子束(电子、质子或中性粒子),或高功率电磁脉冲。其定义特征是武器对目标的效果由所传递的能量产生,而不是由物理冲击产生。
+
+现代军事对定向能武器的开发自1980年代以来大幅加速,现在是美国、俄罗斯、中国、以色列和其他几个国家研究的主要重点。作战部署主要限于专门应用——反无人机系统、反迫击炮系统、反导系统——但更广泛的研究项目表明,定向能武器将在未来军事能力中变得日益重要。
+
+目前正在开发的几种特定的定向能武器与本语料库的框架相关:
+
+**激光眩光器与致盲器。**设计用于暂时致盲或永久损伤人类目标眼睛的非致命激光系统。各种此类系统自大约1990年代以来已由警察和军队部署。1995年《某些常规武器公约》第四议定书禁止使用专为造成永久失明而设计的激光武器,但为暂时视觉失能的眩光器级系统仍然合法并在使用。所多玛所描述的「致盲」效应正是这些武器在其更强大应用中所产生的。
+
+**高能激光系统。**为材料破坏而设计的较大激光武器——使车辆、无人机、导弹或其他设备失能。美国海军的激光武器系统(LaWS)于2014年在彭斯号上作战部署。各种其他系统紧随其后。该技术已成熟到激光武器在千瓦至兆瓦范围内现在是近期军事部署的合理预期。
+
+**主动拒止系统。**为在站立距离对人类目标产生痛苦但非致命的加热感而设计的微波武器。美军的主动拒止系统(ADS)在1990年代和2000年代开发,并已公开演示。该系统使用95吉赫兹毫米波辐射加热人类皮肤的表层,产生剧烈的疼痛,迫使目标撤退。
+
+**高功率微波武器。**为使电子设备过载电路而失能,或在更高功率水平上对生物目标造成物理影响而设计的微波武器。各种此类系统正在开发。
+
+按本语料库的解读,来源叙述中的「袖珍原子武器」会是一种个人规模的设备,将其中一些能力与实质上比当前人类技术所能产生的更高的功率输出相结合。它在所多玛所产生的致盲效应与高能激光脉冲或较小设备的高强度闪光一致。该设备可以由侦察员个人携带并在近距离使用的事实表明,这是一种比人类军队当前所部署的任何武器实质上更先进的个人武器系统——但运作的原理是当前军事研究轨迹的可识别延伸。
+
+按来源的描述,用于打击所多玛与蛾摩拉的武器是产生相当于实质性原子爆炸规模效应的更大设备。本语料库没有承诺具体机制——该设备使用核裂变还是聚变(如在我们自己的原子武器中),或是某种我们的物理学尚未表征的更先进能量释放。它所承诺的是效应:闪光、热量、毁灭、放射性沉降、在开阔之地被捕获的身体的盐雕像形成。所有这些都与我们现在所理解的核武器效应一致,按所多玛设备的实际当量进行缩放。
+
+### X.4. 吉萨工程问题
+
+如本章已经指出的,吉萨建筑群向本语料库的框架呈现了其最具体的物理证据问题之一。该建筑群包括大金字塔(也称为胡夫金字塔或基奥普斯金字塔)、卡夫拉金字塔、门卡拉金字塔和斯芬克斯,以及各种附属结构和更广泛的墓地。主流埃及学将主要金字塔的建造定年为第四王朝(大约公元前2,560年至2,490年),并将它们归于其名字出现在相关铭文中的特定法老。
+
+本语料库的解读提议建筑群的主要元素——特别是大金字塔和斯芬克斯——实质上早于第四王朝,是从更早期和技术上更先进的文明继承下来的,可能是巨蟹座章描述的洪水前文明。这是一个反对主流共识的重要主张,本章已经指出完整的论证需要其自己专门的处理。科学部分可以总结推动替代解读的工程论证。
+
+**建造精度。**在中世纪被剥去用作开罗建筑材料之前,大金字塔的外壳石以平均约0.5毫米宽的接缝拼合在一起——一种接近现代建造技术能够达到的极限的精度,实质上超过了该时期其他埃及建筑所展示的精度。金字塔的基座在其230米的边上水平度精确到约2厘米——一种需要使用专门仪器仔细测量的精度水平。金字塔的基准方向精确到几角分之内,在随后的地质变动之前,原始方向甚至更精确。这些精度水平在主流埃及建造的轨迹内是异常的,难以通过主流埃及学归于第四王朝的建造技术来解释。
+
+**天文对准。**大金字塔的内部竖井与特定的天文目标对准——所谓的国王房气井大约指向公元前2500年左右猎户座腰带与天狼星的子午圈过境,皇后房竖井指向其他重要的星辰。金字塔的基座以实质上大于普通宗教目的所需的精度与基准方向对准。斯芬克斯的目光在春分日与升起的太阳对准,表明仔细的天文定位。这些对准需要复杂的天文知识,虽然不是对第四王朝不可能的,但与埃及天文实践的更广泛模式相处得不舒服。
+
+**大地测量定位。**大金字塔位于具有重大地理意义的坐标。它非常接近最大程度划分世界陆地表面与水面的经线(所谓「最大陆地面积经线」)。它大致位于把地球陆地表面整体视为一个的质心。这些定位关系不太可能是偶然完成的,它们需要对地球地理的实质上超过主流埃及学归于第四王朝的知识。
+
+**数学编码。**大金字塔的尺寸编码了几个一直是大量讨论主题的数学关系。其周长与高度的比率近似于2π。其各种内部尺寸的比率近似于黄金比例φ。该金字塔的尺寸已被声称有各种其他数学关系。虽然其中一些主张有争议或是推测性的,但更广泛的模式——即金字塔的尺寸编码多个非平凡的数学关系——是真实的,需要解释。主流埃及学没有提供令人满意的解释,说明第四王朝怎么会知道或在乎这些关系。
+
+研究这些问题的当代研究界——罗伯特·鲍威尔(猎户座对应理论)、克里斯托弗·邓恩(工程分析)、约翰·安东尼·韦斯特(更广泛的前埃及文明论证)、罗伯特·肖赫(水蚀论点)、格雷厄姆·汉考克(古代文明比较工作)等等——已经积累了与前埃及-吉萨论点相关的大量材料。主流埃及学对这一工作的接受从谨慎的接触到彻底的拒绝。本语料库不承诺该研究界中每个研究者的每一个具体主张,但它确实认真对待更广泛的模式:吉萨建筑群呈现出传统第四王朝归属处理得很尴尬的工程和天文特征,替代解读值得实质性的参与而不是反射性的拒绝。
+
+### X.5. 肖赫水蚀论点
+
+罗伯特·肖赫是波士顿大学的地质学家,他在1990年代初期发表了对斯芬克斯及周围围墙的风化模式的分析,这一分析已成为过去三十年最有影响力的另类考古学论证之一。
+
+斯芬克斯是从吉萨高原的石灰岩基岩中雕刻出来的。这个雕像本身和围绕它的围墙(斯芬克斯最初被雕刻出来的沟槽)显示出肖赫详细分析的风化模式。这些模式包括沿围墙壁向下延伸相当远的垂直裂缝和圆滑的风化特征。按肖赫的地质分析,这些特征是长期暴露于大量降雨所产生的那种侵蚀的特征——水在长时间内沿墙壁向下流动,溶解并圆滑石灰岩表面。
+
+这给第四王朝归属带来的问题是直接的。吉萨高原在过去大约5,000年一直是干旱的。自大约公元前3000年更广泛的撒哈拉沙漠化以来,该气候一直实质上像沙漠一样。足以产生肖赫所记录风化模式的降雨,会需要比该地区在整个传统第四王朝时期所经历的实质上更湿润的气候。肖赫的分析表明,这些风化模式需要在该地区在晚更新世和早全新世经历的实质上更湿润的气候期间暴露——即大约公元前5000年之前。
+
+肖赫的结论:斯芬克斯是在比第四王朝实质上更早的时期雕刻出来的,可能在公元前7000年至公元前5000年之间或更早。按这一解读,第四王朝的法老没有创造斯芬克斯——他们恢复了它、修改了它,并将其纳入他们的宗教景观,但原始雕刻属于前王朝、可能是洪水前的时期。
+
+主流埃及学对肖赫论点的回应在很大程度上是不予理睬的。埃及学家通常论证说,这些风化模式可以通过其他机制来解释(地下水渗漏、当地石灰岩的化学、建造后水的暴露等等),而不需要实质上更早的定年。肖赫及其合作者详细回应了这些批评,通常坚持替代解释不能解释所观察到的具体模式。争论尚未解决。
+
+值得为本语料库的框架指出的是,肖赫的论证是由一位有资格的地质学家在其专业领域内作出的地质论证,在技术层面上没有被反驳。它在更广泛的层面上被驳斥——它与既定的埃及学年代学相冲突、它会要求修订大量被接受的历史、替代定年暗示了一个据称没有其他证据的文明。本语料库的框架当然认为有其他证据——整个天轮序列描述了肖赫的地质工作所支持其存在的文明——但主流埃及学没有参与本语料库的框架,而部分基于技术、部分基于框架防御的理由驳斥了肖赫。
+
+按本语料库的解读,肖赫的论点是吉萨建筑群早于第四王朝这一更广泛主张可用的最具体物理证据之一。它值得吉萨专章最终将提供的实质性展开。
+
+### X.6. 青铜时代文明模式
+
+主要早期文明在金牛座晚期跨越多个地区同时出现,是主流考古学公认的现象,即使其同时性的含义通常没有沿本语料库框架所暗示的方向追求。
+
+对同时出现的传统解释强调了大致平行的发展因素:农业集约化产生了支持城市人口的盈余;冶金术促成了新的工具技术和新的经济关系;贸易网络将发展中的中心联系起来,并允许创新的扩散;气候条件有利于定居农业在相关时期的扩张。这些因素是真实且有效的,本语料库不质疑其相关性。
+
+传统解释处理得不太好的是地理上分隔的文明之间相似性的具体时间和具体模式。苏美尔、埃及、印度河流域和诺尔特奇科在大致平行的时间尺度上发展了城市文明,在其宗教制度(祭司团、神庙建筑群、神圣王权)、其行政实践(用于记录保存的书写系统、官僚等级、税收)、其建筑传统(石头或泥砖中的纪念性建造、有城墙的城市)和其宇宙学框架(天文观测、历法系统、神话叙事)方面有实质性的相似性。传统说法将这些相似性归因于功能性融合——独立的文明面对相似的发展挑战得出了相似的解决方案——并结合通过贸易网络的文化扩散。
+
+本语料库的解读提供了一个互补的说法。按本语料库的框架,洪水后的谱系不是从零开始独立发展的。它们共享共同的遗产——它们最初的创造者团队在洪水前所给予的奠基性教导,以及洪水后耶洛因盟友的持续教导。七个谱系中的平行发展反映了这种共同遗产,地区变异反映了每个谱系所收到的特定教导和当地环境与情境因素。在金牛座晚期连接发展中文明的贸易网络允许继续的文化交叉传播,但底层的共同基础早于贸易网络并使贸易网络成为可能。
+
+具有地区变异的共同遗产模式与传统考古学所显示的一致。一些制度和实践在洪水后文明中几乎是普遍的——祭司、神庙崇拜、神圣王权、纪念性建筑、天文观测的广泛轮廓。其他制度是特定谱系所特有的——特定的神、特定的建筑风格、特定的书写系统、特定的宇宙学叙事。普遍性反映共同遗产;特殊性反映地区发展。这一模式正是本语料库的框架所预测的。
+
+青铜时代贸易网络值得特别注意。仅青金石贸易——将这种独特的蓝色石头从其在阿富汗巴达赫尚地区的来源运到美索不达米亚和埃及的消费中心——在数千公里上运作,需要复杂的长途商业关系。锡贸易——为青铜冶金术提供所需的金属——取材自康沃尔和中亚这样遥远的来源。红玉髓贸易将印度河流域的石头运到美索不达米亚市场。埃及货物通过黎凡特港口运到更广泛的地中海。东地中海的海上贸易将该地区的发展中心连接到预示后来更有记载的古代贸易系统的商业网络中。
+
+这些网络是洪水后文明实质性精密性的证据。它们不仅需要长途运输货物的技术能力,还需要支持跨文化边界的持续商业关系的社会和政治制度——议定的度量衡、议定的信贷和债务实践、议定的争端解决法律框架、议定的认证和核实机制。青铜时代贸易网络不是原始的物物交换系统。它们是在前现代运输技术所能支持的极限上运作的复杂商业制度。
+
+### X.7. 现代针对非法技术的先发制人打击
+
+按本语料库的解读,所多玛干预是当代国际安全政策现在所认识到的一种模式的例证:先进国家针对较不先进或非法行为者发展中的技术能力进行有针对性的先发制人打击,以防止先进国家认为不可接受的能力的发展。
+
+当代的平行是实质性的。Stuxnet 针对伊朗核设施的攻击——大约在2007年至2010年间进行,归于美国-以色列合作——部署了一种复杂的计算机蠕虫,以物理上损坏纳坦兹设施的铀浓缩离心机。该行动旨在使伊朗的核武器项目倒退,而不引发公开的军事冲突。该蠕虫的技术精密性——其多个零日漏洞利用、其对西门子工业控制系统的具体瞄准、其通过软件操纵造成物理破坏的机制——代表了网络战争对物理基础设施应用的实质性进展。该行动成功地使伊朗的浓缩项目倒退,尽管它也向更广泛的国际社会表明,通过网络武器的针对性基础设施攻击现在是先进国家的现实能力。
+
+针对非法技术的先发制人打击的早期例子包括1981年以色列对伊拉克奥西拉克核反应堆的空袭——它在反应堆能够投入运行之前摧毁了它,以色列将此作为针对伊拉克发展中核武器能力的预防性行动加以辩护。2007年以色列对叙利亚阿尔基巴尔疑似核设施的打击是针对不同目标的类似行动。更广泛的模式——既定大国使用军事或网络行动来阻止较不既定的大国发展武器能力——已成为当代国际安全政策的公认特征。
+
+该模式的逻辑是直接的。一个感受到来自发展中能力威胁的先进大国,有动机在该能力变为可操作之前而不是之后采取行动。先发制人行动的成本通常比应对一个可操作威胁的成本实质上小。先发制人行动的风险——政治、法律、报复——相对于让威胁成熟的风险加以权衡。既定大国经常得出结论,先发制人行动是合理的选择,特别是当发展中的能力掌握在既定大国认为不可信或敌对的行为者手中时。
+
+所多玛干预以不寻常的精度符合这一模式。议会观察所多玛与蛾摩拉发展中的进攻远征项目,面临着当代国际安全政策现在所形式化的那种决定。如果完成,反叛项目会产生议会认为不可接受的能力:对母星的星际攻击。先发制人行动的成本——两座城市及其人口的毁灭——比让威胁成熟为可操作的攻击能力的成本实质上小。先发制人行动的风险——来自更广泛人类人口的政治反弹、被赦免的流放创造者的辩护努力、对在某种意义上仅仅是为捍卫自己同类的人类进行打击的道德问题——相对于让攻击进行的灾难性风险加以权衡。议会得出结论,先发制人行动是合理的选择。干预进行了。
+
+因此,按本语料库的框架,所多玛事件不是古代历史中的孤立事件。它是我们自己的文明现在已经在我们自己的技术背景中重建的模式的历史例证——既定大国针对非法能力的先发制人打击。我们现在在我们自己的文明中以我们自己的发展中技术,以我们自己对谁应该和不应该拥有某些能力的关注,这样做的事实本身就是本语料库更广泛框架的例证:在我们当前时刻展开的模式之前已经被以更高技术水平运作的先前文明展开过,我们自己的文明现在正在面对的伦理和政治问题之前也已被比我们自己的文明更先进的文明面对过。
+
+### X.8. 通向我们自身时刻的脉络
+
+金牛座事件所需要的能力——轨道监视和远程监控、个人规模的定向能武器、用于战术打击的原子级武器、对人类人口的复杂遗传核实、管理跨越数千年的长期干预的政治基础设施——是我们自己的文明现在开始在其各个组成部分上接近的能力。整合尚不可见。各个组成部分则是可见的。
+
+现代军事与情报机构已经发展了实质性的远程监控能力。地球观测卫星现在以米或亚米分辨率为基本上整个星球表面成像。信号情报机构在行星规模上监控电子通信。跟踪特定地区的特定发展、识别特定行为者及其活动、实时维持对全球状况意识的能力——所有这些现在都在一个世纪前似乎遥不可及的规模上运行。
+
+现代武器技术已经成熟了原子级和定向能两种能力。二十世纪中期发展的原子武器现在被提炼到可以以实质性精度调整规模和投送。定向能武器现在在有限的应用中作战,并迅速朝着更广泛部署的方向发展。这些能力整合为全面的军事姿态正是本语料库的框架归于议会在金牛座时期机构的。
+
+现代政治与安全制度已经发展了本语料库归于议会对人类创造物更广泛管理的那种先发制人行动学说和能力。先进大国监控较不先进大国、在那些大国接近被视为不可接受的能力时进行有针对性的干预、通过定期调整基本条款管理长期政治关系的模式——所有这些现在都是当代国际关系中的标准实践。
+
+所多玛模式尤其是当代国际安全的公认特征:先进大国针对非法行为者发展中能力的先发制人打击。我们自己的文明已经在我们自己的技术背景中重建了本语料库归于议会对所多玛反叛回应的那种干预。我们现在常规地这样做,有对其合法性和后果的辩论,有试图约束它的国际法律框架,有扩大可能干预范围的技术发展。该模式对我们不再陌生。它是国际关系当前如何运作的一部分。
+
+本语料库的框架向这一当代图景所添加的是历史深度。我们现在正在行使的模式之前已经被比我们自己的文明更先进的文明在更高技术水平上行使过。我们现在正在问的问题——何时先发制人行动是正当的、谁有权进行、成本应如何相对于利益加以权衡、对相关方之间关系的长期后果是什么——是先前文明问过并回答过的问题,答案保留在本章一直在恢复其起源的宗教和神话传统中。本语料库不预测我们的具体结果。它所暗示的是,我们的文明现在开始面对的问题之前已被面对过,有各种结果,该框架所提供的历史视角可能在我们处理我们自己反复出现模式的版本时有用。
+
+## XI. 文本及其信号
+
+相关段落的希伯来文本——呼召的创世记12章、盟约的创世记15章和17章、幔利显现和所多玛毁灭的创世记18-19章、献以撒的创世记22章——除了本章前面部分已经指出的特征外,还包含几个值得评论的特征。
+
+首先,幔利显现期间神圣主体的明显转变。{% libref(book="genesis-woh", chapter=18, verse=1) %}创世记18:1{% end %}说耶和华在幔利向亚伯拉罕显现。{% libref(book="genesis-woh", chapter=18, verse=2) %}创世记18:2{% end %}说「三个人」站在亚伯拉罕旁边。该章其余部分在将这些访客视为单一耶和华人物与多个存在之间交替,传统解读对此感到困惑。雷尔的解读消解了这一困惑。访客是一位议会代表(「耶和华」)伴随两名将在下一章进入所多玛的侦察员。希伯来文本的明显不一致反映了实际的政治结构:一位高级官员带两名下属,有时作为单独的高级人物被称呼,有时作为一个群体。让评论员困扰了数千年的复数-单数交替,按这一解读,只是对一支小型来访队伍的准确描述,其中有一人地位较高。
+
+其次,亚伯拉罕与耶和华就义人门槛的协商。亚伯拉罕的讨价还价——为五十义人你赦免该城吗?为四十五呢?为四十呢?为三十呢?为二十呢?为十呢?——按本语料库的框架,不是对神圣怜悯的沉思。这是当地人口的代表与议会官员之间就计划军事行动参数的实际协商。亚伯拉罕正在执行任何负责任的当地人物在外国军事权威即将在他的地区进行打击时会执行的功能:他试图识别并保护非战斗人员。议会官员的回应——接受门槛的每一次连续降低——反映了与当地代表的关注善意协商的意愿。最终确立的少于十个义人居住在这些城市,在操作意义上意味着打击将进行,但有为撤离少数被识别的非阴谋者(罗得的家人是主要例子)所做的安排。
+
+第三,落在所多玛之上的希伯来文词。文本使用短语*gofrit va-esh*——「硫磺与火」——硫磺是希伯来语中表示硫的词。传统解读将其视为对从天而降的燃烧硫的字面描述,可能是对火山现象的暗示。雷尔的解读认识到该短语是该时期词汇中对一次原子爆炸——从远处观察——所能产生现象的最接近可用描述:一道火焰闪光,接着是落下的碎片,其中包括硫化物和其他在爆炸大气柱中汽化并凝结的材料。撤回的塔尔哈曼论文在该地区另一遗址提议了类似的矿物特征,但该提议不能用作确认。文本解读的成立或失败凭其自身的功过。
+
+第四,献以撒的设定框架。希伯来文本以动词*nissah*引入考验——*ve-ha-Elohim nissah et Avraham*,「神试验了亚伯拉罕」({% libref(book="genesis-woh", chapter=22, verse=1) %}创世记22:1{% end %})。该动词是具体的:它意味着考验、试验、加以证实。文本本身在其开篇短语中,将事件确定为考验而非真正的神圣命令。传统读法已经为此挣扎了两千年,试图调和会以如此残忍手段考验的神圣存在与一般归于该存在的道德属性。本语料库的解读消解了这种紧张。考验正是文本所说的那样——对亚伯拉罕忠诚的刻意评估,由有具体政治需求进行评估的各方进行,没有预期献祭实际会被执行,并且在适当时刻预先准备好必要的干预以阻止它。
+
+短语*ki atah yadati*——「现在我知道」——确认了考验的设定。说话者在亚伯拉罕的行动提供答案之前不知道正在被考验的问题的答案。这不是全知的语言。这是经验性调查的语言。议会——或其代表——正在进行评估。亚伯拉罕正在被面试一个其责任将塑造他谱系历史接下来数千年的职位。面试因为该职位重要而严酷。
+
+第五,地名的词源。*Sedom*(所多玛)在词源上不确定——提议包括源自意为「焦烧」或「燃烧」的词根,如果该城市的名字通过毁灭得以保留,这就是回溯性的;源自意为「有要塞的」或「安全的」的词根,这反映毁灭前的城市特征;或源自其起源现在已经丧失的非闪族来源。*Amorah*(蛾摩拉)同样不确定,提议包括源自意为「淹没」或「毁坏」的词根。无论原始词源如何,这些名字都以毁灭后的含义在希伯来传统中得以保留。
+
+## XII. 何为金牛座
+
+在本章结束之前,有必要清楚地说明在更大序列中金牛座时代是什么。
+
+金牛座是整合的时代。它是洪水后人类文明在七个谱系中从重建走向成熟城市形态的时代,产生了第一批城市、第一批书写系统、第一批可以合理归于其自身建造的伟大纪念性建筑,以及其考古痕迹我们的传统学科现在可以直接阅读的宗教和政治制度。天轮框架为这一时期提供的不是与传统记录平行的叙事,而是对其更深的语境。
+
+金牛座也是政治和解的时代。流放的创造者得到赦免,返回他们原来的文明,在那里他们在曾经谴责他们的议会面前为人类创造物辩护。母星人口对地球项目产生了新的兴趣。整个双子座晚期一直处于公开冲突的政治状况,在占据该时代大部分时间的漫长寂静期间,变成了被监控的共存——联盟在人类一方被保留、议会警觉但不积极敌对、资深伙伴从远处为温和努力。
+
+同样,金牛座是第二次先发制人打击的时代。漫长寂静期间发展的复仇运动,聚集在平原诸城,围绕被遗弃的怨愤加上巴别后时期技术知识的继承组织起来,最终产生了议会视为不可接受安全威胁的项目。议会的有针对性回应——对所多玛与蛾摩拉的打击——摧毁的不仅是反叛派别,还有集中在平原诸城的更广泛科学与有学问阶级。按来源的说法,伊甸谱系倒退到「非常原始的状态」——不是人类学上的原始,而是相对于其所多玛前的制度精细程度具体减少。死海作为打击的物理纪念碑保留下来,这一盐消毒的盆地五千年来保存了事件的标志。
+
+同样,金牛座是象征转变的时代。平原诸城的毁灭开始了一个过程:在这一过程中,蛇——路西法派出于爱驱动的抵抗的原始正面象征——在所多玛后的几个世纪逐渐被重新解读为反叛和审判的象征。将主宰西方宗教想象的路西法和撒但的混淆,起源于这一时期,因为周围的文明和幸存的伊甸谱系人口——失去了维持原始区分的有学问阶级——逐渐合并了其历史角色曾不同的人物。这一转变的当代回响——在通过腐化解放修辞追求权力的各种宗教、政治和意识形态运动中——其谱系可追溯到所多玛时刻。
+
+最后,金牛座是伊甸谱系围绕经过考验的可靠领导层重新组织的时代。亚伯拉罕——作为该谱系政治排列的核实守护者从所多玛后时期出现的人物——成为整个后续圣经叙事将围绕其组织的开基族长。对亚伯拉罕做出的应许——他的后裔将众多、他们将继承一片特定的土地、通过他们地上的万族都将得福——是赦免后安排的政治项目,用该谱系的传统将保留的宗教词汇表达。随之而来的白羊座时代将是该项目第一个主要操作阶段的时代。
+
+下一个时代是以色列整合与洪水后文明成熟更广泛模式的时代。它是摩西的时代、出埃及的时代、摩西之约确立的时代、古代近东伟大帝国兴起的时代、传统历史记录能够记录的第一批主要哲学和宗教传统发展的时代,以及后来先知和弥赛亚传统将由此产生的文化母体出现的时代。那个时代是白羊座时代,是接下来这一章的主题。
