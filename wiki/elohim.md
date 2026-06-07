@@ -58,6 +58,18 @@ note = "Vorilhon's second Raëlian work (1976), the Périgord visit and Yahweh's
 id = "lets-welcome-the-extraterrestrials"
 note = "Vorilhon's third Raëlian work (1979), addressing the embassy project and the human role in the Aquarian transition."
 
+[[extra.references]]
+id = "the-coming-of-the-gods"
+note = "Sendy's *L'Ère du Verseau* (1970, English 1973) — the third volume of his Hebrew-Bible-as-historical-record project, treating the Aquarian-age framing."
+
+[[extra.references]]
+id = "the-early-history-of-god"
+note = "Mark S. Smith's standard scholarly account of the convergence of El and Yahweh out of West Semitic polytheism — the academic counterpart against which the corpus's reading is positioned."
+
+[[extra.references]]
+id = "canaanite-myth-and-hebrew-epic"
+note = "Frank Moore Cross's foundational study of West Semitic religion and the divine-council background of the Hebrew Bible."
+
 [extra.infobox]
 hebrew_form = "אֱלֹהִים"
 transliteration = "ʾĕlōhîm"
@@ -290,55 +302,3 @@ Different authors and traditions have proposed different anglicizations or trans
 | Lords from above | Italian / English | strict translation per Biglino | Biglino |
 
 The corpus uses **Elohim** as its preferred term, since it is the term used in the Hebrew Bible and in the Raëlian source material that the corpus treats as primary. *Sky People*, *Powerful Ones*, and *Celestials* appear as legitimate English glosses; *Anunnaki* is used specifically in connection with the Sumerian material and is not treated as automatically interchangeable with *Elohim* without case-by-case argument. The relationship between the biblical Elohim and the deities of the Sumerian, Egyptian, Greek, Hindu, and other ancient pantheons remains a matter for case-by-case comparative analysis rather than blanket equivalence — a position that distinguishes the corpus from much of the popular ancient-astronaut literature in which all such figures are treated as identical.
-
-## See also
-
-- [Yahweh](../yahweh/)
-- [Lucifer](../lucifer/)
-- [Satan](../satan/)
-- [Serpent](../serpent/)
-- [The Alliance](../the-alliance/)
-- [Council of the Eternals](../council-of-eternals/)
-- [Planet of the Eternals](../planet-of-the-eternals/)
-- [Tree of Life](../tree-of-life/)
-- [Cosmic Chain](../cosmic-chain/)
-- [Cosmic Competition](../cosmic-competition/)
-- [Anunnaki](../anunnaki/)
-- [Genesis](../genesis/)
-- [Antediluvian](../antediluvian/)
-- [Apocalypse](../apocalypse/)
-- [Embassy](../embassy/)
-- [Golden Age](../golden-age/)
-- [Jean Sendy](../jean-sendy/)
-- [Raël](../rael/)
-- [*Message from the Designers*](../library/message-from-the-designers/)
-
-## References
-
-Vorilhon, Claude (Raël). *The Book Which Tells the Truth* (1974) and *Extraterrestrials Took Me to Their Planet* (1976), collected as *Message from the Designers* (Raëlian Foundation, current English edition).
-
-Sendy, Jean. *La Lune, clé de la Bible*. Julliard, 1968.
-
-Sendy, Jean. *Ces dieux qui firent le ciel et la terre*. Robert Laffont, 1969. English: *Those Gods Who Made Heaven and Earth*. Berkley, 1972.
-
-Sendy, Jean. *L'Ère du Verseau*. Robert Laffont, 1970. English: *The Coming of the Gods*. Berkley, 1973.
-
-Sendy, Jean. *Les cahiers de cours de Moïse*. Robert Laffont, 1974.
-
-Biglino, Mauro. *Il Libro che cambierà per sempre le nostre idee sulla Bibbia*. Uno Editori, 2010. English: *The Book That Will Forever Change Our Ideas About the Bible*. Uno, 2013.
-
-Biglino, Mauro, and Giorgio Cattaneo. *The Naked Bible: {% wiki(slug="the-truth") %}The Truth{% end %} About the Most Famous Book in History*. Uno, 2022.
-
-Wallis, Paul Anthony. *Escaping from Eden*. 6th Books, 2020.
-
-Smith, Mark S. *The Early History of God: Yahweh and the Other Deities in Ancient Israel*. Eerdmans, 2nd ed., 2002.
-
-Cross, Frank Moore. *Canaanite Myth and Hebrew Epic*. Harvard University Press, 1973.
-
-Bigliardi, Stefano. "A Gentleman's Joyous Esotericism: Jean Sendy's Reading of the Bible." *Journal of {% wiki(slug="religion") %}Religion{% end %} in Europe*.
-
-"Elohim." *Encyclopaedia Britannica*. <https://www.britannica.com/topic/Elohim>
-
-"Elohim." *Jewish Encyclopedia*. <https://www.jewishencyclopedia.com/articles/5704-elohim>
-
-"Names of God in Judaism." *Wikipedia*. <https://en.wikipedia.org/wiki/Names_of_God_in_Judaism>
