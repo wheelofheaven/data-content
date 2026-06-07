@@ -1,14 +1,18 @@
 +++
 title = "Timeline"
-description = "Journey through the 26,000-year cosmic cycle of creation, from the Age of Capricorn to the Age of Aquarius. Discover how the Elohim shaped Earth's destiny across 12 precessional ages."
+description = "Fifteen chapters across the 26,000-year precessional cycle: how the Elohim shaped Earth, from the first arrival to the Aquarian opening of our current age."
 template = "timeline-section.html"
 aliases = ["/intro/timeline/"]
+
+[extra]
+claim_type = "inferred"
+editorial_pass = "2026-05"
 +++
 
-# The Great Cosmic Timeline
+# Timeline
 
-Embark on an extraordinary journey through time itself—a 26,000-year odyssey that reveals the true history of Earth and humanity. This timeline chronicles the twelve precessional ages, each spanning approximately 2,160 years, during which our cosmic creators, the Elohim, guided the development of life on our planet.
+The corpus reads human history through the precessional cycle — the 26,000-year wobble of Earth's axis, divided into twelve roughly 2,160-year ages, each named for the constellation behind the spring equinox sunrise. Within that frame, fifteen chapters trace what the Elohim — the small advanced human civilization that engineered terrestrial life — did, when, and why.
 
-From the initial discovery of Earth in the Age of Capricorn to the prophetic revelations awaiting us in the Age of Aquarius, witness how each age brought profound developments in the grand design of creation. This is not merely history—it is the cosmic blueprint of our existence, told through the lens of the Wheel of Heaven.
+The series opens before the first age, in *In the Beginning*, with the political breach on the home world that sent the exiles to Earth. It runs through the deep-time chapters of intervention and re-intervention — Capricorn, Sagittarius, Scorpio, Libra, Virgo, Leo, Cancer, Gemini — into the historical record of Taurus, Aries, and Pisces, and closes with the Aquarian transition we are currently inside, plus a synthesis chapter on the wheel itself.
 
-Prepare to see time not as a linear progression, but as a great wheel turning through the cosmos, each rotation bringing us closer to understanding our true origins and ultimate destiny.
+Each chapter reads its own age through the canon's lens — comparative religion, scientific context, and critical scholarship all included — but the canon claims are stated directly, not hedged.
