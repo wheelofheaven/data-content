@@ -26,7 +26,31 @@ sources = [
 
 As of June 7, 2026, the Wheel of Heaven library hosts the full Hebrew Bible — Genesis through Zephaniah, thirty-six books — in nine languages. Every chapter renders the English ASV 1901 baseline alongside imported public-domain editions in German, Spanish, French, Japanese, Korean, Russian, Simplified Chinese, and Traditional Chinese. Readers consulting the library in any of the nine site languages now see the text in their reading language without having to route through English.
 
-The imported editions are named, dated, and openly licensed: **Elberfelder 1905** (German), **Reina-Valera 1909** (Spanish), **Crampon 1923** with PD Dhorme additions where extant (French), **口語訳 1955** (Japanese), the Korean Revised Version of **1961** (Korean), the **Synodal 1876** (Russian), and the **Chinese Union Version** in both Simplified and Traditional scripts. Per-book provenance — translation name, year, license, source URL, retrieval date — is recorded in the library catalog for every entry. The catalog also reports per-language coverage: where versification shifts between the Masoretic and Vulgate or Synodal traditions leave a verse unaligned, the English ASV remains as a fallback.
+The imported editions are named, dated, and openly licensed. The catalog also reports per-language coverage: where versification shifts between the Masoretic and Vulgate or Synodal traditions leave a verse unaligned, the English ASV remains as a fallback.
+
+| Language | Edition | Year | License |
+|---|---|---|---|
+| English | American Standard Version (ASV) | 1901 | Public Domain |
+| German | Elberfelder | 1905 | Public Domain |
+| Spanish | Reina-Valera | 1909 | Public Domain |
+| French | Crampon (PD Dhorme for Job, Samuel where extant) | 1923 | Public Domain |
+| Japanese | 口語訳 (Kougo-yaku) | 1955 | Public Domain (moral rights) |
+| Korean | Korean Revised Version (KRV) | 1961 | Public Domain |
+| Russian | Synodal | 1876 | Public Domain |
+| Simplified Chinese | Chinese Union Version (和合本) | 1919 | Public Domain |
+| Traditional Chinese | Chinese Union Version (和合本) | 1919 | Public Domain |
+
+Per-book provenance — translation name, year, license, source URL, retrieval date — is recorded in `data-library/catalog.json` for every entry, under each book's `translations.{lang}` block.
+
+## Why literal translations
+
+Every imported edition above is, by its translation theory, a **formal-equivalence** translation — sometimes loosely called "literal." The chosen editions sit on the *concordant* side of their respective traditions: Elberfelder is famously the most word-for-word German Bible of the modern era; Reina-Valera, Crampon, the Synodal, the KRV, and the Chinese Union Version all belong to the same formal-equivalence lineage in their own languages. 口語訳 is the colloquial-Japanese modernization of the classical 文語訳 — still formal-equivalent by the standards of the tradition, deliberately positioned against the dynamic-equivalence 新共同訳 (1987) that later became the Japanese Catholic-Protestant standard.
+
+The choice is deliberate, not nostalgic. A formal-equivalence translation tries to preserve the **lexical and syntactic shape** of the source — one Hebrew word, one target word, where the languages will permit it; one Hebrew clause, one target clause; the same word in the same source verse gets the same translation across the corpus where it can. A dynamic-equivalence translation does the opposite — it tries to preserve the *effect* on the reader, which means it routinely collapses, paraphrases, and smooths the source's choices into idiomatic target language.
+
+For a library whose entire reason to host eight translations is comparative — *what does each tradition do with the divine-name pericopes, with Genesis 1:1, with Psalm 82, with the Elohim plural?* — formal equivalence is the only register that preserves the question. Once a translation has decided to render `יהוה` as "the LORD" because that reads better in English, or as 主 because that reads better in Japanese, the lexical choice the canon wants to track is already gone. The reader sees the translator's tidying, not the translator's reading.
+
+The same reasoning applies to the Elohim referent itself. Elberfelder keeps "Jehova" / "Elohim" visible where the Hebrew distinguishes them; Crampon writes "Yahweh" and "Élohim" with the same discipline; the Synodal preserves "Господь" / "Бог" pairings that map back to the underlying source. A dynamic-equivalence translation would, in the same verse, give the reader one undifferentiated *God* — easier to read, but the comparative argument no longer has anything to compare.
 
 ## Why this is the right shape for the library
 
