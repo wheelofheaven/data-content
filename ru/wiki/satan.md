@@ -6,7 +6,7 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
-category = "Элохим"
+category = "Elohim"
 editorial_pass = "2026-05"
 entry_type = "figure"
 claim_type = "inferred"

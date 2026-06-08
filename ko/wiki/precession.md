@@ -8,7 +8,7 @@ toc = true
 [extra]
 featured_order = 5
 redirect_to = { title = "세계의 시대", path = "/ko/wiki/world-age/" }
-category = "우주적 연대기"
+category = "Cosmic Chronology"
 editorial_pass = "2026-05"
 entry_type = "concept"
 claim_type = "inferred"

@@ -6,7 +6,7 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
-category = "Événements et récits"
+category = "Events & Narratives"
 editorial_pass = "2026-05"
 entry_type = "event"
 claim_type = "inferred"

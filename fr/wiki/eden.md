@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 featured_order = 7
-category = "Lieux"
+category = "Places & Locations"
 editorial_pass = "2026-05"
 entry_type = "place"
 claim_type = "inferred"

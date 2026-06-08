@@ -8,7 +8,7 @@ toc = true
 [extra]
 featured_order = 6
 redirect_to = { title = "עידן עולם", path = "/he/wiki/world-age/" }
-category = "כרונולוגיה קוסמית"
+category = "Cosmic Chronology"
 editorial_pass = "2026-05"
 entry_type = "concept"
 claim_type = "inferred"

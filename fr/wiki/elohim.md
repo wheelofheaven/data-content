@@ -6,7 +6,7 @@ toc = true
 
 [extra]
 featured_order = 1
-category = "Élohim"
+category = "Elohim"
 editorial_pass = "2026-05"
 entry_type = "civilization"
 alternative_names = ["Anunnaki", "les Célestes", "les Créateurs", "El", "les Dieux", "les Puissants", "le Peuple du Ciel", "Théosites"]

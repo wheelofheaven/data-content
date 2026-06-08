@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 featured_order = 3
-category = "Cosmologie et cadre"
+category = "Cosmology & Framework"
 editorial_pass = "2026-05"
 entry_type = "concept"
 alternative_names = ["le Mouvement Raélien", "le Mouvement Raélien International", "la religion raélienne", "le Raélianisme", "le MRI"]

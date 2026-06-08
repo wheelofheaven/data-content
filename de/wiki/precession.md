@@ -8,7 +8,7 @@ toc = true
 [extra]
 featured_order = 5
 redirect_to = { title = "Weltzeitalter", path = "/wiki/world-age/" }
-category = "Kosmische Chronologie"
+category = "Cosmic Chronology"
 editorial_pass = "2026-05"
 entry_type = "concept"
 claim_type = "inferred"

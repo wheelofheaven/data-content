@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 featured_order = 1
-category = "Элохим"
+category = "Elohim"
 editorial_pass = "2026-05"
 entry_type = "civilization"
 alternative_names = ["Ануннаки", "Небесные", "Создатели", "Эль", "Боги", "Могущественные", "Люди с неба", "Теоситы"]

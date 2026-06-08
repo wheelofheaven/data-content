@@ -6,7 +6,7 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
-category = "Culture et esthétique"
+category = "Culture & Aesthetics"
 editorial_pass = "2026-05"
 entry_type = "concept"
 claim_type = "inferred"

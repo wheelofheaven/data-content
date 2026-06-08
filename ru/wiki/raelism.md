@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 featured_order = 3
-category = "Космология и фреймворк"
+category = "Cosmology & Framework"
 editorial_pass = "2026-05"
 entry_type = "concept"
 alternative_names = ["Раэлианское движение", "Международное Раэлианское Движение", "Раэлианская религия", "Раэлианизм", "МРД"]

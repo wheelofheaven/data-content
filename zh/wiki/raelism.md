@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 featured_order = 3
-category = "宇宙学与框架"
+category = "Cosmology & Framework"
 editorial_pass = "2026-05"
 entry_type = "concept"
 alternative_names = ["雷尔运动", "国际雷尔运动", "雷尔派宗教", "Raëlianism", "IRM"]

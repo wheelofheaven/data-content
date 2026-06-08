@@ -7,7 +7,7 @@ toc = true
 
 [extra]
 featured_order = 2
-category = "Élohim"
+category = "Elohim"
 editorial_pass = "2026-05"
 entry_type = "figure"
 alternative_names = ["YHWH", "יהוה", "𐤉𐤄𐤅𐤄", "YHVH", "Jéhovah", "l'Éternel", "le Premier et le Dernier", "Alpha et Oméga"]

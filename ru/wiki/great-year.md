@@ -8,7 +8,7 @@ toc = true
 [extra]
 featured_order = 6
 redirect_to = { title = "Эпоха мира", path = "/ru/wiki/world-age/" }
-category = "Космическая хронология"
+category = "Cosmic Chronology"
 editorial_pass = "2026-05"
 entry_type = "concept"
 claim_type = "inferred"
