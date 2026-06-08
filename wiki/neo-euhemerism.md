@@ -291,7 +291,7 @@ Neo-Euhemerism operates principally as the methodological foundation enabling th
 
 **The Truth entry**. The detailed treatment of The Truth as concept lives in the [The Truth](../the-truth/) entry. The Truth recovery operates substantively through neo-euhemeristic interpretive operations.
 
-**The Tradition entry**. The detailed treatment of The Tradition as Sendy-derived framework concept lives in the [The Tradition](../the-tradition/) entry. The Tradition operates substantively as preserved-Truth content within the broader neo-euhemeristic framework.
+**{% wiki(slug="the-tradition") %}The Tradition{% end %} entry**. The detailed treatment of The Tradition as Sendy-derived framework concept lives in the [The Tradition](../the-tradition/) entry. The Tradition operates substantively as preserved-Truth content within the broader neo-euhemeristic framework.
 
 **The Plurality of Gods entry**. The detailed treatment of the structured-plurality cross-cultural pattern lives in the [Plurality of Gods](../plurality-of-gods/) entry. The plurality of gods operates substantively as principal cross-cultural neo-euhemeristic content.
 

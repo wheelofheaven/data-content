@@ -220,7 +220,7 @@ The wiki's typological architecture distinguishes seven principal entry types:
 2. **Civilization / polity entries** — collective entities: the Hebrews, the Elohim, the Israelites, various others
 3. **Place entries** — specific locations: {% wiki(slug="eden") %}Eden{% end %}, {% wiki(slug="babel") %}Babel{% end %}, {% wiki(slug="sodom-and-gomorrah") %}Sodom and Gomorrah{% end %}, the Embassy site, various others
 4. **Event / period entries** — specific historical-cultural events or periods: the {% wiki(slug="theomachy") %}Theomachy{% end %}, the {% wiki(slug="great-flood") %}Great Flood{% end %}, the Babel intervention, the Sodom strike, various others
-5. **Concept entries** — interpretive concepts: World Age, Zodiac, Doubled Signature, Cosmic Chain, Cosmic Competition, Mass Effect, Fractal Cosmology, Plurality of Gods, various others
+5. **Concept entries** — interpretive concepts: World Age, Zodiac, Doubled Signature, Cosmic Chain, Cosmic Competition, {% wiki(slug="mass-effect") %}Mass Effect{% end %}, Fractal Cosmology, Plurality of Gods, various others
 6. **Text entries** — source-textual entities: Hebrew Bible, Kabbalah, *Hamlet's Mill*, *Message from the Designers*, various others
 7. **Precessional age entries** — the twelve individual age treatments: Age of Capricorn, Age of Sagittarius, Age of Scorpio, Age of Libra, Age of Virgo, Age of Leo, Age of Cancer, Age of Gemini, Age of Taurus, Age of Aries, Age of Pisces, Age of Aquarius
 

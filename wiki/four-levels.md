@@ -111,7 +111,7 @@ The Four Levels framework operates within this broader landscape with specific s
 
 **Multi-perspectival rather than hierarchical**. The framework operates through multi-perspectival structure where all four levels must be operative simultaneously, while preserving substantive hierarchical asymmetry (the Infinite is the principal evaluative reference point).
 
-**Substantively cosmological grounding**. The framework's specific structure derives from the broader cosmological framework cluster (Infinity, Fractal Cosmology, Mass Effect, Living Earth) rather than from religious-traditional assertion or philosophical-systematic derivation alone.
+**Substantively cosmological grounding**. The framework's specific structure derives from the broader cosmological framework cluster (Infinity, Fractal Cosmology, {% wiki(slug="mass-effect") %}Mass Effect{% end %}, Living Earth) rather than from religious-traditional assertion or philosophical-systematic derivation alone.
 
 **Love-as-constant integration**. Love operates as the constant integrative principle across all four levels rather than at any single level. The integration produces the framework's distinctive ethical-philosophical character.
 

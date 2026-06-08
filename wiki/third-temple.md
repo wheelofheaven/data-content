@@ -410,7 +410,7 @@ The framework reads the substantive numerical patterns in the Vorilhon Embassy s
 - **Seven rooms** — connects to the broader cross-cultural seven-fold pattern (the seven prior prophets translated to the Elohim planet, the seven days of creation, the seven seals, the seven branches of the menorah, and the broader seven-pattern tradition)
 - **Twenty-one (3 × 7) capacity** for both conference and dining — substantively connects the three-fold and seven-fold patterns
 - **Two stories, two entrances** — substantively connects to the broader dyadic-symbolic pattern
-- **Twelve meters** for the spacecraft diameter — connects to the twelve-fold patterns (twelve tribes, twelve apostles, twelve constellations, twelve Great Months in one Great Year)
+- **Twelve meters** for the spacecraft diameter — connects to the twelve-fold patterns (twelve tribes, twelve apostles, twelve constellations, twelve {% wiki(slug="great-month") %}Great Months{% end %} in one Great Year)
 - **One thousand meters** for the minimum distance — substantively connects to the millenarian-symbolic tradition
 
 The substantive numerical patterns are read by the framework as substantive evidence of the operational specification's deliberate symbolic-architectural design, consistent with the broader cross-cultural preservation of symbolic-numerical content treated in the [Great Month](../great-month/) and [Great Year](../great-year/) entries.

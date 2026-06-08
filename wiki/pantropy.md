@@ -204,7 +204,7 @@ The framework's adopted position on this question is open; the corpus treats the
 The framework reads the contemporary scientific development of pantropy as a real engineering practice as humanity's gradual recovery of the technology that produced humanity itself. The pattern is consistent with the broader corpus reading of contemporary scientific development as a recapitulation of the engineering programmes that the Elohim conducted on Earth approximately 25,000 years ago:
 
 - **Synthetic biology** (treated in the dedicated [Synthetic Biology](../synthetic-biology/) entry) — the engineering of biological systems with novel functions, recapitulating the broader engineering capabilities the Elohim possessed
-- **Synthetic genomics** (treated in the dedicated [Synthetic Genomics](../synthetic-genomics/) entry) — the construction of complete genomes from synthesised oligonucleotides, recapitulating the genome-construction capabilities required for organism synthesis
+- **{% wiki(slug="synthetic-genomics") %}Synthetic genomics{% end %}** (treated in the dedicated [Synthetic Genomics](../synthetic-genomics/) entry) — the construction of complete genomes from synthesised oligonucleotides, recapitulating the genome-construction capabilities required for organism synthesis
 - **CRISPR-Cas9 and broader gene editing** — the targeted modification of specific genome locations, recapitulating the targeted-modification capabilities required for adaptive engineering
 - **Pantropy** — the integrated application of the above capabilities to specific environmental-adaptation problems, recapitulating the Elohim's Earth project
 

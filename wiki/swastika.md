@@ -252,7 +252,7 @@ The passage establishes:
 The swastika operates within the broader Raëlian source-material context, with substantial supporting material across multiple passages:
 
 - The Raëlian Symbol of Infinity (the composite emblem within which the swastika operates as central element) is treated more fully in the [Raëlian Symbol of Infinity](../raelian-symbol-of-infinity/) entry
-- The Mass Effect framework (the temporal-scaling content that the swastika partially represents) is treated in the [Mass Effect](../mass-effect/) entry
+- The {% wiki(slug="mass-effect") %}Mass Effect{% end %} framework (the temporal-scaling content that the swastika partially represents) is treated in the [Mass Effect](../mass-effect/) entry
 - The Cosmic Chain framework (the broader recursive-creation cycle that the swastika represents through cyclic content) is treated in the [Cosmic Chain](../cosmic-chain/) entry
 - The Infinity framework (the broader cosmological framework within which the swastika operates as iconographic representation of the temporal dimension) is treated in the [Infinity](../infinity/) entry
 

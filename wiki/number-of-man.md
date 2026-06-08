@@ -39,7 +39,7 @@ $$
 
 The result places the original creation event at the substantive Virgo-Leo precessional boundary — the substantive transition from the Age of Virgo (substantively −13,170 to −11,010 in the corpus's chronology) into the Age of Leo (substantively −11,010 to −8,850). The substantial subsequent *timeline.epub* engagement refines this reading: the 11,375 BCE date marks the **finalized humans** (Homo sapiens sapiens, the design endpoint) rather than the earliest hominid prototypes. The substantive intermediate hominid forms in the fossil record represent substantive prior iterations distributed across the longer Virgo-into-Leo design phase; the 11,375 BCE date marks the moment when the substantive design was finalized and the first humans of the substantively current form were produced by the seven creator teams in parallel.
 
-The 13,320-year span operates substantively at structural-mathematical significance. Dividing by the substantive 2,160-year Great Month (one-twelfth of the substantive 25,920-year Great Year, the precessional cycle):
+The 13,320-year span operates substantively at structural-mathematical significance. Dividing by the substantive 2,160-year {% wiki(slug="great-month") %}Great Month{% end %} (one-twelfth of the substantive 25,920-year Great Year, the precessional cycle):
 
 $$
 \frac{13{,}320 \text{ years}}{2{,}160 \text{ years/Great Month}} = 6.166... \text{ Great Months}

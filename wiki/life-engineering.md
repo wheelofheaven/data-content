@@ -157,7 +157,7 @@ The dedicated treatment lives in the [Synthetic biology](../synthetic-biology/) 
 
 ### Synthetic genomics
 
-Synthetic genomics is the construction of complete genomes from chemically synthesised DNA — the most ambitious wing of life engineering and the one most directly comparable to the source material's account of the Elohim's work. Where genetic engineering modifies existing genomes and synthetic biology designs sub-systems within existing organisms, synthetic genomics constructs the genome itself, from the ground up, from designed sequence.
+{% wiki(slug="synthetic-genomics") %}Synthetic genomics{% end %} is the construction of complete genomes from chemically synthesised DNA — the most ambitious wing of life engineering and the one most directly comparable to the source material's account of the Elohim's work. Where genetic engineering modifies existing genomes and synthetic biology designs sub-systems within existing organisms, synthetic genomics constructs the genome itself, from the ground up, from designed sequence.
 
 The field's principal achievements have been the products of the J. Craig Venter Institute and its collaborators across the 2000s and 2010s.
 
