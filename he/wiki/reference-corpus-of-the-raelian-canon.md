@@ -1,199 +1,268 @@
 +++
-title = "Reference corpus of the Raëlian canon"
+title = "קורפוס ההפניות של הקאנון הראליאני"
 slug = "reference-corpus-of-the-raelian-canon"
-description = "A catalogue of the texts, traditions, and figures that the three canonical books of the Raëlian corpus — The Book Which Tells The Truth (1974), Extra-Terrestrials Took Me To Their Planet (1975), and Let's Welcome The Extra-Terrestrials (1979) — either quote directly or allude to indirectly, organised into a primary tier of named sources and a secondary tier of hinted ones."
+description = "קטלוג של הטקסטים, המסורות והדמויות שאליהם שלושת הספרים הקאנוניים של הקורפוס הראליאני — »הספר שאומר את האמת« (1974), »החייזרים לקחו אותי לכוכב שלהם« (1975) ו»בואו נקבל את פני החייזרים« (1979) — מצטטים ישירות או רומזים אליהם בעקיפין, מאורגן בנדבך ראשוני של מקורות מפורשים ובנדבך משני של מקורות נרמזים."
 template = "wiki-page.html"
 toc = true
 
 [extra]
-translation_status = "metadata_only"
 category = "Theology & Traditions"
 claim_type = "inferred"
 editorial_pass = "2026-05"
-alternative_names = ["Intertextual map of the Raëlian canon", "Texts and traditions cited in the Raëlian canon", "Intertextual field of the Raëlian canon", "The canon's source horizon"]
+alternative_names = ["מפה בין-טקסטואלית של הקאנון הראליאני", "טקסטים ומסורות המצוטטים בקאנון הראליאני", "השדה הבין-טקסטואלי של הקאנון הראליאני", "אופק המקורות של הקאנון"]
 timeline = ["pisces"]
-lead = "Across the three canonical books of the Raëlian corpus, Claude Vorilhon (Raël) builds his exposition by quoting, paraphrasing, and gesturing toward a wide range of pre-existing texts, traditions, and named figures. This entry catalogues that intertextual field in two tiers: a primary tier of works the canon names or quotes outright, and a secondary tier of traditions, languages, and motifs the canon engages without formally citing."
+lead = "בשלושת הספרים הקאנוניים של הקורפוס הראליאני, קלוד וורילון (ראל) בונה את ביאורו על ידי ציטוט, פרפרזה ורמיזה למגוון רחב של טקסטים, מסורות ודמויות מוכרות שקדמו לו. ערך זה מקטלג שדה בין-טקסטואלי זה בשני נדבכים: נדבך ראשוני של יצירות שהקאנון נוקב בשמן או מצטט אותן במישרין, ונדבך משני של מסורות, שפות ומוטיבים שהקאנון מתכתב איתם מבלי לצטט אותם פורמלית."
 reading = "interpretive"
+
+see_also = [
+    { title = "התנ״ך והברית החדשה", path = "/wiki/bible/", description = "המסורת הטקסטואלית הרחבה יותר שבה שוכנים התנ״ך והברית החדשה." },
+    { title = "התנ״ך", path = "/wiki/hebrew-bible/", description = "גוף ההפניות הגדול והמדויק ביותר בקאנון." },
+    { title = "בראשית", path = "/wiki/genesis/", description = "הספר המצוטט בהרחבה ביותר במהלך פרשנות תולדות־הקדם של הקאנון." },
+    { title = "קבלה", path = "/wiki/kabbalah/", description = "מכונה ב»קץ העולם« »הספר הקרוב ביותר לאמת«; קטע הפרסאות מצביע לכיוון »שיעור קומה«." },
+    { title = "ראליזם", path = "/wiki/raelism/", description = "התנועה המכוננת על ידי שלושת הספרים הקאנוניים המקוטלגים כאן." },
+    { title = "ראל", path = "/wiki/rael/", description = "קלוד וורילון, מחבר שלושת הספרים הקאנוניים." },
+    { title = "אלוהים", path = "/wiki/elohim/", description = "הכינוי הציוויליזציוני שהקאנון מפענח מתוך צורת הריבוי בעברית." },
+    { title = "יהוה", path = "/wiki/yahweh/", description = "מנהיג המועצה שהקאנון משיב לטקסט המקראי." },
+    { title = "משה", path = "/wiki/moses/", description = "הראשון מבין השליחים הנקובים בשם המופיעים לאורך הקאנון." },
+    { title = "ישוע", path = "/wiki/jesus/", description = "השליח המרכזי של עידן הדגים; »תפקידו של המשיח« בנוי סביב הבשורה על פי מתי." },
+    { title = "מוחמד", path = "/wiki/muhammad/", description = "שליח הקוראן; הקאנון מתייחס ישירות לסורות 21, 54 ו־56." },
+    { title = "עברים", path = "/wiki/hebrews/", description = "השושלת שמסורתה הטקסטואלית מספקת את גוף ההפניות הגדול ביותר של הקאנון." },
+    { title = "אפוקליפסה", path = "/wiki/apocalypse/", description = "קריאת »ההתגלות« המפותחת ב»ההתגלויות החדשות«." },
+    { title = "טחנת המלט", path = "/wiki/hamlets-mill/", description = "קריאה מיתולוגית־פרצסיונית בין־תרבותית הסמוכה לטיעון העקבות של הקאנון." },
+    { title = "החתימה הכפולה", path = "/wiki/doubled-signature/", description = "עקרון הקורפוס שלפיו הקאנון וטקסטי ההפניה שלו מתכנסים אל אותה מציאות יסודית." },
+]
+
+footnotes = [
+    { content = "המהדורה האנגלית המקובצת משנת 2005 *Intelligent Design — Message From the Designers* משלבת את שלושת הספרים הקאנוניים (*הספר שאומר את האמת* 1974, *החייזרים לקחו אותי לכוכב שלהם* 1975, *בואו נקבל את פני החייזרים* 1979) בתוספת חיבורים מאוחרים יותר. במקומות שבהם המהדורות הצרפתית והאנגלית נחלקות בציטוטים המקראיים שלהן, הקאנון עצמו מציין את הפער: הכרכים הצרפתיים מסתמכים בעיקר על תרגומו של אדואר דורם, בעוד שהמהדורה האנגלית המקובצת משתמשת ב־Restored Name King James Version (RNKJV) ברוב הציטוטים, עם שימוש מזדמן ב־New King James Version, American Standard Version, Webster Bible, Hebrew Names Version ו־Darby Translation. בחירות עריכתיות אלו הן בעצמן עמדות פרשניות ישירות." },
+    { content = "אדואר דורם (1881-1966) היה כומר קתולי צרפתי וחוקר אשורולוגיה שתרגומו המרכזי לתנ״ך הופיע בין השנים 1956-1959 בסדרת Bibliothèque de la Pléiade. תרגומיו של דורם — במיוחד *מדע* במקום שבו תרגומים אנגלוסקסיים נותנים *טוב ורע*, והדיוק הפילולוגי־אשורולוגי שלו לאורך כל הדרך — מספקים עמדה פרשנית מהותית שעליה הקאנון מסתמך. בחירת הקאנון לקרוא דרך דורם איננה אסתטית; תרגומו של דורם נוטה לפרק את ההילה המיסטית של העברית, ופירוק זה הוא הכרחי מבחינה מבנית לקריאת הקאנון." },
+    { content = "רשימת ה»עקבות« (קוג'יקי, פופול ווה, כרוניקה של אקאקור, עלילות גלגמש, מהאבהארטה) בפרשנות *כן... אני ראליאני* מופיעה בתרומה של חסיד בתוך *בואו נקבל את פני החייזרים* ולא בקולו של ראל עצמו. היא קוננה על ידי שימור במהדורות השונות, אך היא סינתזה של חסיד. השאלה האם להעניק לרשימה משקל שווה לזה של ציטוטים מהנדבך הראשוני היא שאלה עריכתית פתוחה — וה*כרוניקה של אקאקור* בפרט יושבת באי־נוחות עם שאר הקטלוג, שכן יצירתו של ברוגר משנת 1976 טופלה במחקרים מאוחרים בהרחבה כתרמית ספרותית." },
+    { content = "הקטע הקוסמולוגי שהקאנון מייחס ל»קבלה« ב*קץ העולם* — »גובה הבורא« ו»גובה עקביו« הנמדדים ב*פרסאות* — תואם מוטיבים ממסורת *שיעור קומה* של ספקולציות אזוטריות על גוף האל (סביב המאות ה־2 עד ה־4 לספירה), ולא מקורפוס ה*זוהר* שאליו מתייחס בדרך כלל המונח »קבלה« בימינו. הקאנון נוקב בשם הקבלה באופן כללי; קריאה פילולוגית מדויקת יותר תפרש את ההפניה כשייכת ל*שיעור קומה* באופן ספציפי." },
+    { content = "עבודתו האטימולוגית־פילולוגית של הקאנון — *אלוהים* כ»אלו שבאו מהשמיים«, *אנגלוס* כ»שליח«, *אפוקליפסיס* כ»התגלות«, *דיאבולוס* כ»משטין«, *אֲוַאנְגֵלִיוֹן* כ»בשורה טובה« וכן הלאה — מתייחסת להיסטוריה של מילים כאל עדויות בפני עצמן. דיוקה של כל אטימולוגיה בודדת אינו אחיד (חלקן הן קונצנזוס מחקרי, אחרות ספקולטיביות או שנויות במחלוקת), אך המהלך המבני עקבי: הקאנון קורא אטימולוגיה כשומרת על תוכן היסטורי שאוצר המילים התיאולוגי המקובל הסתיר. זוהי אחת מפעולות הפרשנות החוזרות של הקאנון." },
+    { content = "הקאנון מחריג מפורשות מהיקפו את מסורת הפרשנות הרחבה של האסטרונאוטים הקדומים (סנדי, סיצ'ין, פון דניקן, וואליס, ביגלינו) כ*הקשר מיובא על ידי הקורא* ולא ככרך ההפניות של הקאנון עצמו. הקאנון הראליאני טוען להתגלות, לא לגזירה, ומתייחס לספרות הדתית הקודמת כאל רישומים בלתי־מושלמים של מגעי אלוהים מוקדמים יותר, ולא כאל מקורותיו האינטלקטואליים שלו. מסגרת הקורפוס מבחינה בין שכבות אלו בקפידה: ערך זה מקטלג רק את מה שהקאנון עצמו נוקב בשמו ומתכתב איתו." },
+]
+
+[[extra.references]]
+id = "the-book-which-tells-the-truth"
+note = "וורילון (ראל, 1974); הספר הקאנוני המייסד והאתר העיקרי של פרשנות המקרא של הקאנון (בראשית פרקים 1-11 פרק אחר פרק)."
+
+[[extra.references]]
+id = "extraterrestrials-took-me-to-their-planet"
+note = "וורילון (ראל, 1975); כולל את הפרק על הבודהיזם, ציטוטים ישירים מהקוראן וקריאת חזון העצמות היבשות ביחזקאל 37."
+
+[[extra.references]]
+id = "lets-welcome-the-extraterrestrials"
+note = "וורילון (ראל, 1979); כולל את פרק ההתגלויות החדשות על ספר ההתגלות ואת פרשנות »כן... אני ראליאני« המפרטת עקבות שורדות."
+
+[[extra.references]]
+id = "intelligent-design-message-from-the-designers"
+note = "המהדורה האנגלית המקובצת משנת 2005 המשלבת את שלושת הספרים הקאנוניים; בסיס הטקסט העיקרי לקטלוג זה."
+
+[[extra.references]]
+id = "dhorme-bible"
+note = "תנ״ך צרפתי עיקרי ששימש את ראל במהלך המגע ב־1973 ומצוטט בכרכים הקאנוניים הצרפתיים."
+
+[[extra.references]]
+id = "rnkjv"
+note = "Restored Name King James Version; התנ״ך האנגלי העיקרי המשמש לאורך המהדורה המקובצת של 2005, המשיב את אלוהים ויהוה לטקסט."
+
+[[extra.references]]
+id = "the-qur-an"
+locator = "סורה 21:1-5; 54:1; 56:15-24"
+note = "מצוטט ישירות ב»החייזרים לקחו אותי לכוכב שלהם« בדיוק של פרק ופסוק."
+
+[[extra.references]]
+id = "book-of-enoch"
+note = "נקוב בשמו בפרשנות »כן... אני ראליאני« כאחד הטקסטים הקרובים יותר לאמת של הקאנון."
+
+[[extra.references]]
+id = "shiur-qomah"
+note = "המסורת המיסטית היהודית הקדומה שמוטיב המידות האנתרופומורפיות־קוסמיות של גוף האל בה תואם את ציטוט הקבלה של הקאנון לגבי הפרסאות / גובה הבורא."
+
+[[extra.references]]
+id = "epic-of-gilgamesh"
+note = "מופיע בפרשנות »כן... אני ראליאני« בין העקבות השורדות (מזוהה כ»שומרי־בבלי«)."
+
+[[extra.references]]
+id = "mahabharata"
+note = "נקוב בשמו בפרשנות »כן... אני ראליאני«; הוודות והרמאיאנה מפורטים כחלקים מהקורפוס הרחב יותר."
+
+[[extra.references]]
+id = "ramayana"
+note = "מפורט לצד המהאבהארטה בפרשנות »כן... אני ראליאני«."
+
+[[extra.references]]
+id = "vedas"
+note = "נקוב בשמו בתוך קורפוס המהאבהארטה בפרשנות »כן... אני ראליאני«."
+
+[[extra.references]]
+id = "kojiki"
+note = "הכרוניקה היפנית משנת 712 לספירה הנקובה בשמה בפרשנות »כן... אני ראליאני« בין העקבות השורדות."
+
+[[extra.references]]
+id = "popol-vuh"
+note = "אפוס הבריאה של הקיצ'ה מאיה הנקוב בשמו בפרשנות »כן... אני ראליאני«, לצד הכרוניקה של אקאקור כעדות מאמריקה הלטינית."
+
+[[extra.references]]
+id = "chronicle-of-akakor"
+note = "ברוגר (1976); מופיע ברשימת העקבות של »כן... אני ראליאני«. מחקרים מאוחרים מתייחסים בהרחבה לעבודתו של ברוגר כתרמית ספרותית — מתח בלתי־פתור בתוך אופק ההפניות של הקאנון."
 +++
 
-## Quick Answer
+## תשובה מהירה
 
-The three books of the Raëlian canon — *The Book Which Tells The Truth* (1974), *Extra-Terrestrials Took Me To Their Planet* (1975), and *Let's Welcome The Extra-Terrestrials* (1979) — do not present themselves as derived from earlier writings. They present themselves as direct revelation from the Elohim, with prior religious literature treated as imperfect records of earlier Elohim contact. Within that frame, however, the canon engages a substantial body of pre-existing material. This entry maps that engagement in two tiers: a **primary tier** of texts and figures the canon names or quotes, and a **secondary tier** of traditions, languages, and motifs it invokes by allusion.
+שלושת ספרי הקאנון הראליאני — *הספר שאומר את האמת* (1974), *החייזרים לקחו אותי לכוכב שלהם* (1975) ו*בואו נקבל את פני החייזרים* (1979) — אינם מציגים את עצמם כנגזרים מכתבים מוקדמים יותר. הם מציגים את עצמם כהתגלות ישירה מן האלוהים, כשהספרות הדתית הקודמת נתפסת כרישומים בלתי־מושלמים של מגעי אלוהים מוקדמים יותר. בתוך מסגרת זו, עם זאת, הקאנון מתכתב עם גוף משמעותי של חומר שקדם לו. ערך זה ממפה את ההתכתבות הזו בשני נדבכים: **נדבך ראשוני** של טקסטים ודמויות שהקאנון נוקב בשמם או מצטט אותם, ו**נדבך משני** של מסורות, שפות ומוטיבים שהוא מעורר ברמיזה.
 
-A note on terminology before the catalogue. Within the Wheel of Heaven reading, the texts listed below are not *sources* of the Raëlian canon in the philological sense; the canon claims revelation, not derivation. The accurate description is that these texts make up the canon's **reference corpus** — the body of prior writing the canon reads, re-reads, and asks its reader to re-read alongside it.
+הערה לגבי מינוח לפני הקטלוג. במסגרת הקריאה של גלגל השמיים, הטקסטים המפורטים להלן אינם *מקורות* של הקאנון הראליאני במובן הפילולוגי; הקאנון טוען להתגלות, לא לגזירה. התיאור המדויק הוא שטקסטים אלו מהווים את **קורפוס ההפניות** של הקאנון — גוף הכתיבה הקודמת שהקאנון קורא, קורא מחדש, ומבקש מקוראיו לקרוא לצדו.
 
-## Scope and method
+## היקף ושיטה
 
-This article catalogues *what the canon itself names and engages*, not the broader corpus of materials a reader might bring to interpret it. Three distinctions structure the catalogue:
+מאמר זה מקטלג את *מה שהקאנון עצמו נוקב בשמו ומתכתב איתו*, ולא את הקורפוס הרחב יותר של חומרים שקורא עשוי להביא כדי לפרש אותו. שלוש הבחנות מבנות את הקטלוג:
 
-1. **Direct reference.** A text, figure, or tradition the canon names explicitly, quotes from, or attributes a numbered chapter-and-verse to.
-2. **Indirect reference.** A text, figure, tradition, language, or motif the canon engages without formal citation — through paraphrase, etymological reading, name-checking in lists, or allusion to characteristic content.
-3. **Reader-imported context.** Material a reader or commentator might bring to the canon from outside (Sendy, Sitchin, Biglino, ancient astronaut literature generally). This third category is **outside the scope** of this article. It is catalogued elsewhere in the project's source taxonomy.
+1. **הפניה ישירה.** טקסט, דמות או מסורת שהקאנון נוקב בשמם במפורש, מצטט מהם, או מייחס להם מספר פרק ופסוק.
+2. **הפניה עקיפה.** טקסט, דמות, מסורת, שפה או מוטיב שהקאנון מתכתב איתם מבלי לצטט פורמלית — באמצעות פרפרזה, קריאה אטימולוגית, איזכור שמות ברשימות או רמיזה לתוכן מאפיין.
+3. **הקשר מיובא על ידי הקורא.** חומר שקורא או פרשן עשוי להביא לקאנון מבחוץ (סנדי, סיצ'ין, ביגלינו, ספרות האסטרונאוטים הקדומים בכלל). קטגוריה שלישית זו היא **מחוץ להיקפו** של מאמר זה{{ footnote(id="6") }}. היא מקוטלגת במקום אחר בטקסונומיית המקורות של הפרויקט.
 
-The cut between (1) and (2) is not always sharp. Where the canon names a tradition but cites no specific text — for instance "Greek mythology" or "Mormons" — the entry sits in the secondary tier. Where the canon quotes verbatim or supplies a chapter-and-verse, it sits in the primary tier.
+החיתוך בין (1) ל־(2) אינו תמיד חד. כאשר הקאנון נוקב בשם מסורת אך אינו מצטט טקסט ספציפי — למשל »מיתולוגיה יוונית« או »מורמונים« — הערך יושב בנדבך המשני. כאשר הקאנון מצטט מילולית או מספק פרק ופסוק, הוא יושב בנדבך הראשוני.
 
-The text base for this catalogue is the 2005 English-language omnibus edition *Intelligent Design — Message From the Designers*, which combines all three canonical books. Where the original French editions differ from the English translation in their handling of biblical quotations, the canon itself notes the divergence: the French volumes rely chiefly on the **Édouard Dhorme** translation of the Bible, while the English omnibus uses the **Restored Name King James Version** (RNKJV) for most quotations, with occasional use of the **New King James Version**, the **American Standard Version**, the **Webster Bible**, the **Hebrew Names Version**, and the **Darby Translation**. These editorial choices are themselves direct references to specific text-traditions and are catalogued below.
-
----
-
-## Primary tier — direct references
-
-These are texts, figures, and traditions the canon names explicitly, quotes from with chapter-and-verse precision, or treats as proper subjects of interpretation in their own right.
-
-### Hebrew Bible / Old Testament
-
-The canon's largest and most precisely cited body of reference is the Hebrew Bible. Quoted books, with characteristic loci:
-
-- **Genesis** — quoted extensively across chapters 1–11, 19, 22, 28, 35. The opening of *The Truth* is a chapter-by-chapter re-reading of the primaeval history (creation, the Garden, the Flood, the Tower of Babel, Sodom and Gomorrah, the Binding of Isaac, Jacob's ladder).
-- **Exodus** — quoted from chapters 3, 13, 14, 16, 17, 19, 20 (the burning bush, the pillar of cloud and fire, the parting of the sea, manna, the staff of Moses, Sinai).
-- **Joshua** — the fall of Jericho (chapter 6), read as a sonic-weapon episode.
-- **Judges** — Samson narratives, read telepathically rather than as superhuman strength.
-- **1 Kings / 2 Kings** — Elijah's chariot of fire and ascent (2 Kings 2), read as a spacecraft ascension.
-- **Job** — quoted from the speeches in chapters 37–38, with a specific footnote pointing out a divergence between the Dhorme French translation and the English RNKJV.
-- **Psalms** — quoted in passing.
-- **Isaiah** — quoted in the *End of the World* chapter.
-- **Ezekiel** — chapter 1 is treated as a full set-piece description of an Elohim landing; chapter 37 (the valley of dry bones) is interpreted in *Extra-Terrestrials Took Me To Their Planet* as a description of the biological-creation machine.
-- **Daniel** — referenced in the apocalyptic context.
-
-The Pentateuch and the prophetic books are the densest sites of citation. The Song of Songs (called by the canon the *Canticle of Canticles*) is named in a specific cosmological reading concerning the "height of the creator" measured in *parasangs*.
-
-### New Testament / Christian scriptures
-
-- **Gospel of Matthew** — quoted extensively in *The Role of Christ*. Citations from chapters 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 13, 14, 17, 19, 25, 26, 28. The Parable of the Sower (Matthew 13) is given a specific reading as a description of life being seeded on multiple worlds.
-- **Gospel of Mark** — quoted from chapter 16 (the Ascension and the "they shall take up serpents" passage).
-- **Gospel of Luke** — quoted from chapter 21 (the parable of the fig tree).
-- **Acts of the Apostles** — quoted from chapters 2 (Pentecost), 12 (Peter's prison release), 15, 17.
-- **Revelation / Apocalypse of John** — treated at length in *The New Revelations*. The canon reads chapters 1, 4, 6, and onward as a dictation given to John through what is described as a visual-display apparatus.
-
-### Specific Bible translations as references
-
-The canon engages not only the biblical text but specific translations of it, treating translation choices as interpretively decisive:
-
-- **Édouard Dhorme** — the French Bible translation used by Rael during the encounter, named explicitly in the canon's editorial notes. The Dhorme rendering of certain Hebrew terms (notably the use of *science* where other translations use "good and evil") is presented as preserving meaning lost in other versions.
-- **Restored Name King James Version (RNKJV)** — used throughout the English omnibus for its restoration of *Elohim* and *Yahweh* in place of "God" and "the Lord".
-- **New King James Version**, **American Standard Version**, **Webster Bible**, **Hebrew Names Version**, **Darby Translation** — all named in the editorial notes as supplementary translation choices.
-- **Latin Vulgate** — invoked twice in the editorial notes to settle questions of meaning (*caelis*, *desertum*).
-
-### Other named texts
-
-- **The Kabbalah** — named in *The End of the World*, chapter *At the Root of All Religions*, as "the closest book to the truth." The canon attributes to it a specific cosmological passage concerning the "height of the creator" and the distance between Earth and the Elohim home planet, measured in *parasangs*. (The reference to a *Canticle of Canticles* passage within the Kabbalah here points toward the *Shi'ur Qomah* tradition of esoteric body-of-God speculation.)
-- **The Qur'an** — quoted with chapter-and-verse precision in *Extra-Terrestrials Took Me To Their Planet*. Direct citations include **Sura 21:1–5**, **Sura 54:1**, and **Sura 56:15–24**.
-- **The Book of Enoch** — named in the *Yes... I am Raelian* commentary as one of the texts closer to the canon's truth.
-
-### Named figures treated as Elohim messengers
-
-The canon names a roster of historical and traditional religious figures and identifies them as messengers ("prophets") sent by the Elohim. The recurring list:
-
-- **Moses**
-- **Elijah** (transliterated *EliYah* in some quotations)
-- **Jesus**
-- **Buddha** — given a brief biographical sketch in *Extra-Terrestrials Took Me To Their Planet*, chapter *Buddhism*.
-- **Muhammad** — within whose writings the Elohim leader is said to have been called *Allah* "out of respect."
-- **Joseph Smith** — named alongside the four above in *An Atheist Religion*.
-
-Additional figures named within biblical quotations and given Wheel-of-Heaven-relevant interpretation include Adam, Eve, Seth, Enos, Enoch, Noah, Lot, Abraham, Isaac, Jacob, Joseph, Samson, Ezekiel, John (the seer of Patmos), Peter, and Joseph (husband of Mary). These are not in themselves source-traditions but characters whose biblical narratives the canon re-reads.
-
-### Religious traditions named as direct interlocutors
-
-The canon names specific religious traditions and engages them on doctrinal or comparative grounds rather than only in passing:
-
-- **Judaism** — addressed directly in *To the People of Israel*; the State of Israel is given a specific eschatological role.
-- **Christianity** — the Catholic and Roman Catholic Church are critiqued at length; Mormonism is mentioned by name.
-- **Islam** — engaged through direct Qur'an citation.
-- **Buddhism** — given its own chapter in *Extra-Terrestrials Took Me To Their Planet* and discussed as "the religion closest to the Truth" in the 1997 addendum.
+בסיס הטקסט לקטלוג זה הוא המהדורה האנגלית המקובצת משנת 2005 *Intelligent Design — Message From the Designers*{{ cite(id="intelligent-design-message-from-the-designers", text="[1]", title="המהדורה האנגלית המקובצת משנת 2005 המשלבת את שלושת הספרים הקאנוניים") }}{{ footnote(id="1") }}, המשלבת את שלושת הספרים הקאנוניים. במקומות שבהם המהדורות הצרפתיות המקוריות נחלקות מהתרגום האנגלי בטיפול בציטוטים המקראיים, הקאנון עצמו מציין את הפער: הכרכים הצרפתיים מסתמכים בעיקר על תרגום התנ״ך של **אדואר דורם**{{ cite(id="dhorme-bible", text="[2]", title="דורם (1956-1959); תרגום התנ״ך הצרפתי שראל התייעץ בו") }}{{ footnote(id="2") }}, בעוד שהמהדורה האנגלית המקובצת משתמשת ב־**Restored Name King James Version** (RNKJV){{ cite(id="rnkjv", text="[3]", title="Restored Name King James Version; משיב את אלוהים ויהוה לטקסט") }} ברוב הציטוטים, עם שימוש מזדמן ב־**New King James Version**, **American Standard Version**, **Webster Bible**, **Hebrew Names Version** ו־**Darby Translation**. בחירות עריכתיות אלו הן בעצמן הפניות ישירות למסורות־טקסט ספציפיות ומקוטלגות להלן.
 
 ---
 
-## Secondary tier — indirect references
+## הנדבך הראשוני — הפניות ישירות
 
-These are texts, traditions, languages, and motifs the canon engages without formal citation. They are named, alluded to, or treated as carrying "traces" of the Elohim story, but the canon does not quote from them directly or supply specific references.
+אלו הם הטקסטים, הדמויות והמסורות שהקאנון נוקב בשמם במפורש, מצטט מהם בדיוק של פרק ופסוק, או מתייחס אליהם כאל נושאי פרשנות לגיטימיים בפני עצמם.
 
-### Religious traditions named as carrying "traces"
+### התנ״ך / הברית הישנה
 
-In the chapter *At the Root of All Religions* (and the closely related commentary section *Yes... I am Raelian*), the canon and its early followers enumerate traditions in which "testimonies can be found" but from which no specific text is cited:
+גוף ההפניות הגדול והמדויק ביותר של הקאנון הוא התנ״ך. הספרים המצוטטים, עם המקומות האופייניים:
 
-- **Greek mythology** — named as containing "important testimonies," located by the canon in regions where the Elohim are said to have had bases.
-- **Mormon scripture** — named but not quoted.
-- **Mahābhārata** (with the *Vedas* and *Rāmāyaṇa* listed as its parts) — named in the *Yes... I am Raelian* commentary as among the surviving traces.
-- **Kojiki** of Japan — named in the same list.
-- **Popol Vuh** of the K'iche' Maya — named in the same list.
-- **Chronicle of Akakor** — named in the same list, alongside the Popol Vuh, as a Latin American testimony.
-- **Epic of Gilgamesh**, identified as "Sumerian-Babylonian" — named in the same list.
+- **בראשית** — מצוטט בהרחבה לאורך פרקים 1–11, 19, 22, 28, 35. פתיחתו של *הספר שאומר את האמת* היא קריאה מחודשת פרק אחר פרק של תולדות־הקדם (הבריאה, גן עדן, המבול, מגדל בבל, סדום ועמורה, עקדת יצחק, סולם יעקב).
+- **שמות** — מצוטט מפרקים 3, 13, 14, 16, 17, 19, 20 (הסנה הבוער, עמוד הענן והאש, קריעת ים סוף, המן, מטה משה, סיני).
+- **יהושע** — נפילת יריחו (פרק 6), נקראת כאפיזודה של נשק קולי.
+- **שופטים** — סיפורי שמשון, נקראים בקריאה טלפתית במקום ככוח על־אנושי.
+- **מלכים א׳ / מלכים ב׳** — מרכבת האש ועלייתו של אליהו (מלכים ב׳ 2), נקראות כעליית חללית.
+- **איוב** — מצוטט מתוך הנאומים בפרקים 37–38, עם הערת שוליים ספציפית המצביעה על פער בין תרגום דורם הצרפתי לבין ה־RNKJV האנגלי.
+- **תהלים** — מצוטט אגב אורחא.
+- **ישעיהו** — מצוטט בפרק *קץ העולם*.
+- **יחזקאל** — פרק 1 מטופל כתיאור־מופע מלא של נחיתת אלוהים; פרק 37 (בקעת העצמות היבשות) מפורש ב*החייזרים לקחו אותי לכוכב שלהם* כתיאור של מכונת היצירה הביולוגית.
+- **דניאל** — מוזכר בהקשר האפוקליפטי.
 
-The *Yes... I am Raelian* list is a commentary by a follower rather than a statement by Rael, but it appears within the canonical omnibus and articulates the same reading the canon establishes in *At the Root of All Religions*.
+חמשת חומשי התורה וספרי הנביאים הם האתרים הצפופים ביותר של ציטוט. שיר השירים (המכונה על ידי הקאנון *Canticle of Canticles*) נקוב בשמו בקריאה קוסמולוגית ספציפית הנוגעת ל»גובה הבורא« הנמדד ב*פרסאות*.
 
-### Languages engaged philologically
+### הברית החדשה / כתבי הקודש הנוצריים
 
-The canon performs sustained etymological readings, treating word-histories as testimonies in their own right. The languages explicitly drawn on include:
+- **הבשורה על פי מתי** — מצוטטת בהרחבה ב*תפקידו של המשיח*. ציטוטים מפרקים 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 13, 14, 17, 19, 25, 26, 28. משל הזורע (מתי 13) מקבל קריאה ספציפית כתיאור של זריעת חיים בעולמות מרובים.
+- **הבשורה על פי מרקוס** — מצוטטת מפרק 16 (העלייה השמימה והקטע »וייקחו נחשים בידיהם«).
+- **הבשורה על פי לוקס** — מצוטטת מפרק 21 (משל התאנה).
+- **מעשי השליחים** — מצוטטים מפרקים 2 (חג השבועות), 12 (שחרורו של פטרוס מהכלא), 15, 17.
+- **ההתגלות / חזון יוחנן** — מטופלת באריכות ב*ההתגלויות החדשות*. הקאנון קורא את פרקים 1, 4, 6 והלאה כתכתיב הניתן ליוחנן באמצעות מה שמתואר כמכשיר תצוגה ויזואלית.
 
-- **Hebrew** — most importantly the plural *Elohim*, read as "those who came from the sky"; *Yahweh*; *Edenic* terminology.
-- **Aramaic** — the root of *Messiah* / *meschika* is read as "anointed by the Lord."
-- **Greek** — a long sequence of Greek etymologies is presented as decisive: *angelos* (messenger), *apocalypsis* (revelation), *euagelion* (good news / gospel), *ekklesia* (assembly / church), *pappas* (father / pope), *prophētēs* (revealer), *katholikos* (universal), *atheos* (denying divinity), *diabolos* (slanderer), *eutymos* + *logos* (true science / etymology).
-- **Latin** — *senior* (the elder / lord), *pontifex* (bridge-maker), *cultus* (tribute), *religio* (that which links).
-- **Sanskrit** — explicitly named in the context of the swastika, glossed as meaning "well-being" and serving as an icon of "infinity in time."
+### תרגומי תנ״ך ספציפיים כהפניות
 
-### Geographic and material traces
+הקאנון מתכתב לא רק עם הטקסט המקראי אלא עם תרגומים ספציפיים שלו, בהתייחסו לבחירות תרגום כמכריעות פרשנית:
 
-Beyond named texts, the canon points to physical sites and regions as locations where the Elohim are said to have had bases or left material evidence:
+- **אדואר דורם** — תרגום התנ״ך הצרפתי ששימש את ראל במהלך המפגש, נקוב בשמו במפורש בהערות העריכה של הקאנון. תרגום דורם של מונחים עבריים מסוימים (במיוחד השימוש ב*מדע* במקום שבו תרגומים אחרים משתמשים ב»טוב ורע«) מוצג כשומר על משמעות שאבדה בגרסאות אחרות.
+- **Restored Name King James Version (RNKJV)** — בשימוש לאורך המהדורה האנגלית המקובצת בשל השבת *אלוהים* ו*יהוה* במקום »אלוהים« ו»האדון«.
+- **New King James Version**, **American Standard Version**, **Webster Bible**, **Hebrew Names Version**, **Darby Translation** — כולם נקובים בשמם בהערות העריכה כבחירות תרגום משלימות.
+- **הוולגטה הלטינית** — מוזכרת פעמיים בהערות העריכה כדי ליישב שאלות של משמעות (*caelis*, *desertum*).
 
-- The **Andes** and **Peru** (general region, Latin American highlands).
-- The **Himalayas** and **Tibet** (general region).
-- **Greece** (general region).
-- The **Nazca lines** ("engravings on the plain of Nazca").
-- **Baalbek** (Lebanon).
-- **Tiahuanaco** (Bolivia).
-- **Easter Island** ("Ile de Pâques").
-- The **Pyramids** and **Egyptian architecture** generally.
+### טקסטים אחרים הנקובים בשם
 
-The canon also alludes to the *Atlantis* and *Mu* legends, but specifically as misremembered traces of an antediluvian single continent — that is, as legends the canon explains rather than texts it consults.
+- **הקבלה** — נקובה בשמה ב*קץ העולם*, פרק *בשורש כל הדתות*, כ»הספר הקרוב ביותר לאמת«. הקאנון מייחס לה קטע קוסמולוגי ספציפי הנוגע ל»גובה הבורא« ולמרחק שבין כדור הארץ לכוכב הבית של האלוהים, הנמדד ב*פרסאות*. (ההפניה לקטע *Canticle of Canticles* בתוך הקבלה כאן מצביעה לעבר מסורת *שיעור קומה* של ספקולציות אזוטריות על גוף האל{{ cite(id="shiur-qomah", text="[4]", title="שיעור קומה; המסורת המיסטית היהודית הקדומה לגוף האל") }}{{ footnote(id="4") }}.)
+- **הקוראן** — מצוטט בדיוק של פרק ופסוק ב*החייזרים לקחו אותי לכוכב שלהם*. ציטוטים ישירים כוללים את **סורה 21:1–5**, **סורה 54:1** ו**סורה 56:15–24**.
+- **ספר חנוך** — נקוב בשמו בפרשנות *כן... אני ראליאני* כאחד הטקסטים הקרובים יותר לאמת של הקאנון.
 
-### Motifs and tropes engaged without specific citation
+### דמויות נקובות בשם המטופלות כשליחי אלוהים
 
-A small set of comparative motifs surface in the canon without specific textual citation:
+הקאנון נוקב בשמן של דמויות דתיות היסטוריות ומסורתיות ומזהה אותן כשליחים (»נביאים«) שנשלחו על ידי האלוהים. הרשימה החוזרת:
 
-- **Universal flood narratives** — the canon's reading of Noah's ark as a spacecraft / genetic-preservation vessel is offered as the underlying reality behind the global family of flood myths.
-- **The Tower of Babel and the confusion of tongues** — treated as a specific historical episode rather than a comparative motif, but with implicit reference to the broader family of language-origin myths.
-- **Chariot-of-fire / sky-ascent narratives** — the readings of Elijah (2 Kings 2) and Ezekiel (chapter 1) are offered as paradigmatic instances of a wider family of sky-vehicle traditions.
-- **Council-of-gods scenes** — the *bnei-elohim* episodes of Genesis 6 and the broader divine-council motif of the Hebrew Bible are engaged through the canon's reading of *Elohim* as plural.
+- **{% wiki(slug="moses") %}משה{% end %}**
+- **{% wiki(slug="elijah") %}אליהו{% end %}** (מתועתק *EliYah* בחלק מהציטוטים)
+- **{% wiki(slug="jesus") %}ישוע{% end %}**
+- **{% wiki(slug="buddha") %}בודהה{% end %}** — מקבל סקירה ביוגרפית קצרה ב*החייזרים לקחו אותי לכוכב שלהם*, פרק *הבודהיזם*.
+- **{% wiki(slug="muhammad") %}מוחמד{% end %}** — בכתביו, מנהיג האלוהים נקרא לפי הנאמר *אללה* »מתוך כבוד«.
+- **ג'וזף סמית** — נקוב בשמו לצד ארבעת הנ״ל ב*דת אתאיסטית*.
 
-These are catalogued in the secondary tier because the canon engages them through interpretation of its primary citations rather than by naming a separate body of literature.
+דמויות נוספות הנקובות בשם בתוך ציטוטים מקראיים והמקבלות פרשנות רלוונטית של גלגל השמיים כוללות את אדם, חוה, שת, אנוש, חנוך, נח, לוט, אברהם, יצחק, יעקב, יוסף, שמשון, יחזקאל, יוחנן (חוזה פטמוס), פטרוס ויוסף (בעלה של מרים). אין אלו בעצמן מסורות־מקור אלא דמויות שהקאנון קורא מחדש את סיפוריהן המקראיים.
 
----
+### מסורות דתיות הנקובות בשם כבני־שיח ישירים
 
-## Source tensions and unresolved issues
+הקאנון נוקב בשמן של מסורות דתיות ספציפיות ומתכתב איתן על בסיס דוקטרינלי או השוואתי ולא רק אגב אורחא:
 
-A few clean tensions are worth flagging for future Wheel of Heaven work.
-
-**The Dhorme / RNKJV divergence.** The French canon and the English omnibus do not always quote the same biblical wording. The editorial notes acknowledge this explicitly, but the practical consequence is that some Wheel of Heaven readings are sensitive to which translation a reader has in front of them. The canon's choice of Dhorme is itself an interpretive position — Dhorme's rendering tends to demystify, and the canon depends on that demystification.
-
-**The status of the *Yes... I am Raelian* enumeration.** The list of "traces" (Kojiki, Popol Vuh, Akakor, Gilgamesh, Mahābhārata) appears in a commentator's contribution to *Let's Welcome The Extra-Terrestrials*, not in Rael's own voice. The list has been canonised by being preserved across editions, but it is a follower's synthesis rather than a direct revelation claim. Whether to weight it equally with the primary tier is an open editorial question.
-
-**The "Kabbalah" reference.** The cosmological passage attributed to the Kabbalah in *The End of the World* — with the *parasangs* measurement and the "height of the creator" / "height of his heels" formula — matches motifs from the *Shi'ur Qomah* tradition rather than the *Zohar* proper. The canon names the Kabbalah generically. This raises the question of whether the canon's "Kabbalah" should be glossed as the *Shi'ur Qomah* corpus specifically, or left at the more general level the canon itself uses.
-
-**The *Chronicle of Akakor* problem.** The *Chronicle of Akakor*, published in 1976 by Karl Brugger from a purported indigenous Amazonian source, has been widely treated as a literary hoax by subsequent scholarship. Its appearance in the canon's "traces" list — published only a few years after Brugger's book — sits awkwardly with the rest of the catalogue, which is composed of texts with deep traditional pedigrees. How to handle this in a serious Wheel of Heaven framing is unresolved.
-
-**Direct vs. indirect, again.** Some of the categorisation above is borderline. Joseph Smith is named directly, but no Mormon scripture is quoted — so the Mormon tradition sits in the secondary tier even though the figure of its founder is primary. Conversely, the *Kabbalah* is named generically (secondary-tier language) but a specific cosmological passage is engaged (primary-tier behaviour). These are flagged for future refinement.
+- **יהדות** — מטופלת ישירות ב*אל עם ישראל*; מדינת ישראל מקבלת תפקיד אסכטולוגי ספציפי.
+- **נצרות** — הכנסייה הקתולית והרומית־קתולית מבוקרות באריכות; המורמוניזם מוזכר בשמו.
+- **אסלאם** — נדון באמצעות ציטוט ישיר מהקוראן.
+- **בודהיזם** — מקבל פרק משלו ב*החייזרים לקחו אותי לכוכב שלהם* ונדון כ»הדת הקרובה ביותר לאמת« בתוספת משנת 1997.
 
 ---
 
-## See also
+## הנדבך המשני — הפניות עקיפות
 
-- [Bible](../bible/)
-- [Hebrew Bible](../hebrew-bible/)
-- [Genesis](../genesis/)
-- [Kabbalah](../kabbalah/)
-- [Comparative mythology](../comparative-mythology/)
-- [List of prophets and religions](../list-of-prophets-and-religions/)
-- [List of etymological readings](../list-of-etymological-readings/)
-- [List of exegetic readings](../list-of-exegetic-readings/)
-- [Dhorme Bible translation](../dhorme-bible-translation/)
-- [Raëlism](../raelism/)
-- [The Tradition](../the-tradition/)
+אלו הם טקסטים, מסורות, שפות ומוטיבים שהקאנון מתכתב איתם מבלי לצטט פורמלית. הם נקובים בשם, נרמזים, או מטופלים כנושאי »עקבות« של סיפור האלוהים, אך הקאנון אינו מצטט מהם ישירות ואינו מספק הפניות ספציפיות.
 
-## External links
+### מסורות דתיות הנקובות בשם כנושאות »עקבות«
 
-- [The Book Which Tells The Truth — full text](https://www.rael.org/downloads/intelligent_design.pdf)
-- [Wikipedia — Raëlism](https://en.wikipedia.org/wiki/Ra%C3%ABlism)
-- [Wikipedia — Édouard Dhorme](https://en.wikipedia.org/wiki/%C3%89douard_Dhorme)
-- [Wikipedia — Chronicle of Akakor](https://en.wikipedia.org/wiki/Chronicle_of_Akakor)
-- [Wikipedia — Shi'ur Qomah](https://en.wikipedia.org/wiki/Shi%27ur_Qomah)
+בפרק *בשורש כל הדתות* (וקטע הפרשנות הקרוב אליו *כן... אני ראליאני*), הקאנון וחסידיו המוקדמים מונים מסורות שבהן »ניתן למצוא עדויות« אך מהן לא מצוטט שום טקסט ספציפי:
+
+- **מיתולוגיה יוונית** — נקובה בשמה כמכילה »עדויות חשובות«, ממוקמת על ידי הקאנון באזורים שבהם נאמר שלאלוהים היו בסיסים.
+- **כתבי הקודש המורמוניים** — נקובים בשמם אך לא מצוטטים.
+- **מהאבהארטה** (כאשר ה*וודות* וה*רמאיאנה* מפורטים כחלקיה) — נקובה בשמה בפרשנות *כן... אני ראליאני* כאחת מהעקבות השורדות.
+- **קוג'יקי** של יפן — נקוב בשמו באותה רשימה.
+- **פופול ווה** של הקיצ'ה מאיה — נקוב בשמו באותה רשימה.
+- **כרוניקה של אקאקור** — נקובה בשמה באותה רשימה, לצד פופול ווה, כעדות מאמריקה הלטינית.
+- **עלילות גלגמש**, המזוהה כ»שומרית־בבלית« — נקוב בשמו באותה רשימה.
+
+רשימת *כן... אני ראליאני* היא פרשנות של חסיד ולא הצהרה של ראל, אך היא מופיעה בתוך המהדורה הקאנונית המקובצת ומבטאת את אותה קריאה שהקאנון מבסס ב*בשורש כל הדתות*{{ footnote(id="3") }}.
+
+### שפות שהקאנון מתכתב איתן פילולוגית
+
+הקאנון מבצע קריאות אטימולוגיות ממושכות, מתייחס להיסטוריה של מילים כאל עדויות בפני עצמן{{ footnote(id="5") }}. השפות הנשענות עליהן במפורש כוללות:
+
+- **עברית** — חשוב ביותר הריבוי *אלוהים*, נקרא כ»אלו שבאו מהשמיים«; *יהוה*; טרמינולוגיית *גן עדן*.
+- **ארמית** — שורש *משיח* / *meschika* נקרא כ»משוח על ידי האדון«.
+- **יוונית** — רצף ארוך של אטימולוגיות יווניות מוצג כמכריע: *אנגלוס* (שליח), *אפוקליפסיס* (התגלות), *אֲוַאנְגֵלִיוֹן* (בשורה טובה / אוונגליון), *אקלסיה* (אסיפה / כנסייה), *פאפאס* (אב / אפיפיור), *פרופטס* (מתגלה), *קתוליקוס* (אוניברסלי), *אתאוס* (כופר באלוהות), *דיאבולוס* (משטין), *אֵטִימוֹס* + *לוגוס* (מדע אמיתי / אטימולוגיה).
+- **לטינית** — *senior* (הזקן / האדון), *pontifex* (בונה גשרים), *cultus* (מס), *religio* (זה שמקשר).
+- **סנסקריט** — נקובה בשמה במפורש בהקשר הצלב הקרס, מפורשת כמשמעותה »רווחה« ומשמשת כסמל של »אינסוף בזמן«.
+
+### עקבות גיאוגרפיות וחומריות
+
+מעבר לטקסטים נקובים בשם, הקאנון מצביע על אתרים פיזיים ואזורים כמיקומים שבהם נאמר שלאלוהים היו בסיסים או שהם השאירו ראיות חומריות:
+
+- **האנדים** ו**פרו** (אזור כללי, רמות אמריקה הלטינית).
+- **ההימלאיה** ו**טיבט** (אזור כללי).
+- **יוון** (אזור כללי).
+- **קווי נסקה** (»גילופים על מישור נסקה«).
+- **בעלבק** (לבנון).
+- **טיוואנקו** (בוליביה).
+- **אי הפסחא** (»Ile de Pâques«).
+- **הפירמידות** והאדריכלות **המצרית** באופן כללי.
+
+הקאנון רומז גם לאגדות *אטלנטיס* ו*מו*, אך באופן ספציפי כעקבות מסולפים של יבשת יחידה שקדמה למבול — כלומר, כאגדות שהקאנון מסביר ולא כטקסטים שהוא מתייעץ בהם.
+
+### מוטיבים וטרופים שהקאנון מתכתב איתם ללא ציטוט ספציפי
+
+קבוצה קטנה של מוטיבים השוואתיים צפה בקאנון ללא ציטוט טקסטואלי ספציפי:
+
+- **נרטיבים אוניברסליים של מבול** — קריאת הקאנון של תיבת נח כחללית / כלי לשימור גנטי מוצעת כמציאות היסודית שמאחורי המשפחה הגלובלית של מיתוסי המבול.
+- **מגדל בבל ובלילת השפות** — מטופל כאפיזודה היסטורית ספציפית ולא כמוטיב השוואתי, אך עם הפניה משתמעת למשפחה הרחבה יותר של מיתוסי מקור־השפה.
+- **נרטיבים של מרכבת אש / עלייה לשמיים** — קריאות אליהו (מלכים ב׳ 2) ויחזקאל (פרק 1) מוצעות כדוגמאות פרדיגמטיות למשפחה רחבה יותר של מסורות כלי־רכב שמיימיים.
+- **סצנות של מועצת אלים** — אפיזודות *בני האלוהים* בבראשית 6 ומוטיב המועצה האלוהית הרחב יותר של התנ״ך נדונים באמצעות הקריאה של הקאנון את *אלוהים* כצורת ריבוי.
+
+אלו מקוטלגים בנדבך המשני כיוון שהקאנון מתכתב איתם דרך פרשנות הציטוטים הראשוניים שלו ולא על ידי נקיבת שמו של גוף ספרות נפרד.
+
+---
+
+## מתחי מקור וסוגיות בלתי־פתורות
+
+מספר מתחים נקיים ראויים לציון לעבודה עתידית של גלגל השמיים.
+
+**הפער בין דורם ל־RNKJV.** הקאנון הצרפתי והמהדורה המקובצת האנגלית לא תמיד מצטטים את אותה לשון מקראית. הערות העריכה מכירות בכך במפורש, אך התוצאה המעשית היא שחלק מקריאות גלגל השמיים רגישות לתרגום שבידי הקורא. בחירת הקאנון בדורם היא בעצמה עמדה פרשנית — תרגומו של דורם נוטה לפרק את ההילה המיסטית, והקאנון תלוי בפירוק זה.
+
+**מעמד המניין של *כן... אני ראליאני*.** רשימת ה»עקבות« (קוג'יקי, פופול ווה, אקאקור, גלגמש, מהאבהארטה) מופיעה בתרומתו של פרשן ל*בואו נקבל את פני החייזרים*, ולא בקולו של ראל. הרשימה קוננה על ידי שימור במהדורות שונות, אך היא סינתזה של חסיד ולא טענת התגלות ישירה. השאלה האם להעניק לה משקל שווה לזה של הנדבך הראשוני היא שאלה עריכתית פתוחה.
+
+**ההפניה ל»קבלה«.** הקטע הקוסמולוגי המיוחס לקבלה ב*קץ העולם* — עם מדידת ה*פרסאות* ונוסחת »גובה הבורא« / »גובה עקביו« — תואם מוטיבים ממסורת *שיעור קומה* ולא מה*זוהר* עצמו. הקאנון נוקב בשם הקבלה באופן כללי. הדבר מעלה את השאלה האם »הקבלה« של הקאנון צריכה להיות מפורשת כקורפוס *שיעור קומה* באופן ספציפי, או להישאר ברמה הכללית יותר שהקאנון עצמו משתמש בה.
+
+**בעיית ה*כרוניקה של אקאקור*.** ה*כרוניקה של אקאקור*, שפורסמה ב־1976 על ידי קרל ברוגר ממקור אינדיגני אמזוני לכאורה, טופלה בהרחבה כתרמית ספרותית במחקרים מאוחרים. הופעתה ברשימת ה»עקבות« של הקאנון — שפורסמה רק שנים ספורות לאחר ספרו של ברוגר — יושבת באי־נוחות עם שאר הקטלוג, המורכב מטקסטים בעלי שושלות מסורתיות עמוקות. כיצד להתמודד עם זה במסגרת רצינית של גלגל השמיים זוהי שאלה פתוחה.
+
+**ישיר מול עקיף, שוב.** חלק מהקטלוגיזציה לעיל היא גבולית. ג'וזף סמית נקוב בשמו ישירות, אך שום כתב מורמוני אינו מצוטט — ולכן המסורת המורמונית יושבת בנדבך המשני, אף שדמות מייסדה היא ראשונית. לעומת זאת, ה*קבלה* נקובה בשמה באופן כללי (לשון של נדבך משני) אך קטע קוסמולוגי ספציפי נדון (התנהגות של נדבך ראשוני). אלו מסומנים לחידוד עתידי.
+
+---

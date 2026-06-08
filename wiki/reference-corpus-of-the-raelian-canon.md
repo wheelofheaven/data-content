@@ -13,6 +13,98 @@ alternative_names = ["Intertextual map of the Raëlian canon", "Texts and tradit
 timeline = ["pisces"]
 lead = "Across the three canonical books of the Raëlian corpus, Claude Vorilhon (Raël) builds his exposition by quoting, paraphrasing, and gesturing toward a wide range of pre-existing texts, traditions, and named figures. This entry catalogues that intertextual field in two tiers: a primary tier of works the canon names or quotes outright, and a secondary tier of traditions, languages, and motifs the canon engages without formally citing."
 reading = "interpretive"
+
+see_also = [
+    { title = "Bible", path = "/wiki/bible/", description = "The broader textual tradition within which the Hebrew Bible and New Testament sit." },
+    { title = "Hebrew Bible", path = "/wiki/hebrew-bible/", description = "The canon's largest and most precisely cited body of reference." },
+    { title = "Genesis", path = "/wiki/genesis/", description = "The book quoted most extensively across the canon's primaeval-history exegesis." },
+    { title = "Kabbalah", path = "/wiki/kabbalah/", description = "Named in The End of the World as 'the closest book to the truth'; the parasangs passage points toward the Shi'ur Qomah." },
+    { title = "Raëlism", path = "/wiki/raelism/", description = "The movement constituted by the three canonical books catalogued here." },
+    { title = "Rael", path = "/wiki/rael/", description = "Claude Vorilhon, author of the three canonical books." },
+    { title = "Elohim", path = "/wiki/elohim/", description = "The civilisational designation the canon decodes from the Hebrew plural." },
+    { title = "Yahweh", path = "/wiki/yahweh/", description = "The Council leader the canon restores to the biblical text." },
+    { title = "Moses", path = "/wiki/moses/", description = "First of the named messengers listed across the canon." },
+    { title = "Jesus", path = "/wiki/jesus/", description = "The principal Piscean-age messenger; The Role of Christ is built around the Gospel of Matthew." },
+    { title = "Muhammad", path = "/wiki/muhammad/", description = "The Qur'anic messenger; the canon engages Suras 21, 54, and 56 directly." },
+    { title = "Hebrews", path = "/wiki/hebrews/", description = "The lineage whose textual tradition supplies the canon's largest reference body." },
+    { title = "Apocalypse", path = "/wiki/apocalypse/", description = "The Revelation reading developed in The New Revelations." },
+    { title = "Hamlet's Mill", path = "/wiki/hamlets-mill/", description = "Cross-cultural mythological-precessional reading adjacent to the canon's traces argument." },
+    { title = "Doubled Signature", path = "/wiki/doubled-signature/", description = "The corpus principle by which the canon and its reference texts converge on the same underlying reality." },
+]
+
+footnotes = [
+    { content = "The 2005 English-language omnibus *Intelligent Design — Message From the Designers* combines all three canonical books (*The Book Which Tells The Truth* 1974, *Extra-Terrestrials Took Me To Their Planet* 1975, *Let's Welcome The Extra-Terrestrials* 1979) plus subsequent additions. Where the French and English editions differ in their biblical quotations, the canon itself notes the divergence: the French volumes rely chiefly on Édouard Dhorme's translation, while the English omnibus uses the Restored Name King James Version (RNKJV) for most quotations, with occasional use of the New King James Version, the American Standard Version, the Webster Bible, the Hebrew Names Version, and the Darby Translation. These editorial choices are themselves direct interpretive positions." },
+    { content = "Édouard Dhorme (1881-1966) was a French Catholic priest and Assyriologist whose principal Bible translation appeared 1956-1959 in the Bibliothèque de la Pléiade. Dhorme's renderings — particularly *science* where Anglophone translations give *good and evil*, and his Assyriological-philological precision throughout — supply a substantial interpretive position the canon depends on. The canon's choice to read through Dhorme is not aesthetic; Dhorme's translation tends to demystify the Hebrew, and that demystification is structurally necessary to the canon's reading." },
+    { content = "The list of 'traces' (Kojiki, Popol Vuh, Chronicle of Akakor, Epic of Gilgamesh, Mahābhārata) in the *Yes... I am Raelian* commentary appears in a follower's contribution to *Let's Welcome The Extra-Terrestrials* rather than in Rael's own voice. It has been canonised by preservation across editions, but it is a follower's synthesis. Whether to weight the list equally with primary-tier citations is an open editorial question — and the *Chronicle of Akakor* in particular sits awkwardly with the rest of the catalogue, since Brugger's 1976 work has been widely treated by subsequent scholarship as a literary hoax." },
+    { content = "The cosmological passage the canon attributes to 'the Kabbalah' in *The End of the World* — the 'height of the creator' and the 'height of his heels' measured in *parasangs* — matches motifs from the *Shi'ur Qomah* tradition of esoteric body-of-God speculation (c. 2nd-4th century CE) rather than from the *Zohar* corpus the term 'Kabbalah' more conventionally designates today. The canon names the Kabbalah generically; a tighter philological reading would gloss the reference as Shi'ur Qomah specifically." },
+    { content = "The canon's etymological-philological work — *Elohim* as 'those who came from the sky,' *angelos* as 'messenger,' *apocalypsis* as 'revelation,' *diabolos* as 'slanderer,' *euagelion* as 'good news,' and so on — treats word-histories as testimonies in their own right. The accuracy of any individual etymology is uneven (some are mainstream scholarly consensus, others are speculative or contested), but the structural move is consistent: the canon reads etymology as preserving historical content the conventional theological vocabulary has obscured. This is one of the canon's recurring interpretive operations." },
+    { content = "The canon explicitly excludes from its scope the broader ancient-astronaut interpretive tradition (Sendy, Sitchin, von Däniken, Wallis, Biglino) as *reader-imported context* rather than as the canon's own reference corpus. The Raëlian canon claims revelation, not derivation, and treats prior religious literature as imperfect records of earlier Elohim contact rather than as its own intellectual sources. The corpus framework distinguishes these layers carefully: this entry catalogues only what the canon itself names and engages." },
+]
+
+[[extra.references]]
+id = "the-book-which-tells-the-truth"
+note = "Vorilhon (Raël, 1974); the foundational canonical book and the principal site of the canon's biblical exegesis (Genesis 1-11 chapter by chapter)."
+
+[[extra.references]]
+id = "extraterrestrials-took-me-to-their-planet"
+note = "Vorilhon (Raël, 1975); contains the chapter Buddhism, the direct Qur'an citations, and the Ezekiel 37 dry-bones reading."
+
+[[extra.references]]
+id = "lets-welcome-the-extraterrestrials"
+note = "Vorilhon (Raël, 1979); contains the New Revelations chapter on Revelation and the Yes... I am Raelian commentary listing surviving traces."
+
+[[extra.references]]
+id = "intelligent-design-message-from-the-designers"
+note = "The 2005 English omnibus combining all three canonical books; the principal text base for this catalogue."
+
+[[extra.references]]
+id = "dhorme-bible"
+note = "The principal French Bible used by Rael during the 1973 contact and quoted across the French canonical volumes."
+
+[[extra.references]]
+id = "rnkjv"
+note = "Restored Name King James Version; the principal English-language Bible used across the 2005 omnibus, restoring Elohim and Yahweh to the text."
+
+[[extra.references]]
+id = "the-qur-an"
+locator = "Sura 21:1-5; 54:1; 56:15-24"
+note = "Directly cited in Extra-Terrestrials Took Me To Their Planet with chapter-and-verse precision."
+
+[[extra.references]]
+id = "book-of-enoch"
+note = "Named in the Yes... I am Raelian commentary as one of the texts closer to the canon's truth."
+
+[[extra.references]]
+id = "shiur-qomah"
+note = "The early Jewish mystical tradition whose anthropomorphic-cosmic body-measurement motif matches the canon's parasangs / height-of-the-creator Kabbalah citation."
+
+[[extra.references]]
+id = "epic-of-gilgamesh"
+note = "Listed in the Yes... I am Raelian commentary among surviving traces (identified as 'Sumerian-Babylonian')."
+
+[[extra.references]]
+id = "mahabharata"
+note = "Named in the Yes... I am Raelian commentary; the Vedas and Rāmāyaṇa are listed as parts of the broader corpus."
+
+[[extra.references]]
+id = "ramayana"
+note = "Listed alongside the Mahābhārata in the Yes... I am Raelian commentary."
+
+[[extra.references]]
+id = "vedas"
+note = "Named within the Mahābhārata corpus in the Yes... I am Raelian commentary."
+
+[[extra.references]]
+id = "kojiki"
+note = "The 712 CE Japanese chronicle named in the Yes... I am Raelian commentary among surviving traces."
+
+[[extra.references]]
+id = "popol-vuh"
+note = "The K'iche' Maya creation epic named in the Yes... I am Raelian commentary, alongside the Chronicle of Akakor as Latin American testimony."
+
+[[extra.references]]
+id = "chronicle-of-akakor"
+note = "Brugger (1976); appears in the Yes... I am Raelian trace list. Subsequent scholarship widely treats Brugger's work as a literary hoax — an unresolved tension within the canon's reference horizon."
 +++
 
 ## Quick Answer
@@ -27,11 +119,11 @@ This article catalogues *what the canon itself names and engages*, not the broad
 
 1. **Direct reference.** A text, figure, or tradition the canon names explicitly, quotes from, or attributes a numbered chapter-and-verse to.
 2. **Indirect reference.** A text, figure, tradition, language, or motif the canon engages without formal citation — through paraphrase, etymological reading, name-checking in lists, or allusion to characteristic content.
-3. **Reader-imported context.** Material a reader or commentator might bring to the canon from outside (Sendy, Sitchin, Biglino, ancient astronaut literature generally). This third category is **outside the scope** of this article. It is catalogued elsewhere in the project's source taxonomy.
+3. **Reader-imported context.** Material a reader or commentator might bring to the canon from outside (Sendy, Sitchin, Biglino, ancient astronaut literature generally). This third category is **outside the scope** of this article{{ footnote(id="6") }}. It is catalogued elsewhere in the project's source taxonomy.
 
 The cut between (1) and (2) is not always sharp. Where the canon names a tradition but cites no specific text — for instance "Greek mythology" or "Mormons" — the entry sits in the secondary tier. Where the canon quotes verbatim or supplies a chapter-and-verse, it sits in the primary tier.
 
-The text base for this catalogue is the 2005 English-language omnibus edition *Intelligent Design — Message From the Designers*, which combines all three canonical books. Where the original French editions differ from the English translation in their handling of biblical quotations, the canon itself notes the divergence: the French volumes rely chiefly on the **Édouard Dhorme** translation of the Bible, while the English omnibus uses the **Restored Name King James Version** (RNKJV) for most quotations, with occasional use of the **New King James Version**, the **American Standard Version**, the **Webster Bible**, the **Hebrew Names Version**, and the **Darby Translation**. These editorial choices are themselves direct references to specific text-traditions and are catalogued below.
+The text base for this catalogue is the 2005 English-language omnibus edition *Intelligent Design — Message From the Designers*{{ cite(id="intelligent-design-message-from-the-designers", text="[1]", title="The 2005 English omnibus combining all three canonical books") }}{{ footnote(id="1") }}, which combines all three canonical books. Where the original French editions differ from the English translation in their handling of biblical quotations, the canon itself notes the divergence: the French volumes rely chiefly on the **Édouard Dhorme** translation of the Bible{{ cite(id="dhorme-bible", text="[2]", title="Dhorme (1956-1959); the French Bible translation Rael consulted") }}{{ footnote(id="2") }}, while the English omnibus uses the **Restored Name King James Version** (RNKJV){{ cite(id="rnkjv", text="[3]", title="Restored Name King James Version; restores Elohim and Yahweh to the text") }} for most quotations, with occasional use of the **New King James Version**, the **American Standard Version**, the **Webster Bible**, the **Hebrew Names Version**, and the **Darby Translation**. These editorial choices are themselves direct references to specific text-traditions and are catalogued below.
 
 ---
 
@@ -75,7 +167,7 @@ The canon engages not only the biblical text but specific translations of it, tr
 
 ### Other named texts
 
-- **The Kabbalah** — named in *The End of the World*, chapter *At the Root of All Religions*, as "the closest book to the truth." The canon attributes to it a specific cosmological passage concerning the "height of the creator" and the distance between Earth and the Elohim home planet, measured in *parasangs*. (The reference to a *Canticle of Canticles* passage within the Kabbalah here points toward the *Shi'ur Qomah* tradition of esoteric body-of-God speculation.)
+- **The Kabbalah** — named in *The End of the World*, chapter *At the Root of All Religions*, as "the closest book to the truth." The canon attributes to it a specific cosmological passage concerning the "height of the creator" and the distance between Earth and the Elohim home planet, measured in *parasangs*. (The reference to a *Canticle of Canticles* passage within the Kabbalah here points toward the *Shi'ur Qomah* tradition of esoteric body-of-God speculation{{ cite(id="shiur-qomah", text="[4]", title="Shi'ur Qomah; the early Jewish mystical body-of-God tradition") }}{{ footnote(id="4") }}.)
 - **The Qur'an** — quoted with chapter-and-verse precision in *Extra-Terrestrials Took Me To Their Planet*. Direct citations include **Sura 21:1–5**, **Sura 54:1**, and **Sura 56:15–24**.
 - **The Book of Enoch** — named in the *Yes... I am Raelian* commentary as one of the texts closer to the canon's truth.
 
@@ -83,11 +175,11 @@ The canon engages not only the biblical text but specific translations of it, tr
 
 The canon names a roster of historical and traditional religious figures and identifies them as messengers ("prophets") sent by the Elohim. The recurring list:
 
-- **Moses**
-- **Elijah** (transliterated *EliYah* in some quotations)
-- **Jesus**
-- **Buddha** — given a brief biographical sketch in *Extra-Terrestrials Took Me To Their Planet*, chapter *Buddhism*.
-- **Muhammad** — within whose writings the Elohim leader is said to have been called *Allah* "out of respect."
+- **{% wiki(slug="moses") %}Moses{% end %}**
+- **{% wiki(slug="elijah") %}Elijah{% end %}** (transliterated *EliYah* in some quotations)
+- **{% wiki(slug="jesus") %}Jesus{% end %}**
+- **{% wiki(slug="buddha") %}Buddha{% end %}** — given a brief biographical sketch in *Extra-Terrestrials Took Me To Their Planet*, chapter *Buddhism*.
+- **{% wiki(slug="muhammad") %}Muhammad{% end %}** — within whose writings the Elohim leader is said to have been called *Allah* "out of respect."
 - **Joseph Smith** — named alongside the four above in *An Atheist Religion*.
 
 Additional figures named within biblical quotations and given Wheel-of-Heaven-relevant interpretation include Adam, Eve, Seth, Enos, Enoch, Noah, Lot, Abraham, Isaac, Jacob, Joseph, Samson, Ezekiel, John (the seer of Patmos), Peter, and Joseph (husband of Mary). These are not in themselves source-traditions but characters whose biblical narratives the canon re-reads.
@@ -119,11 +211,11 @@ In the chapter *At the Root of All Religions* (and the closely related commentar
 - **Chronicle of Akakor** — named in the same list, alongside the Popol Vuh, as a Latin American testimony.
 - **Epic of Gilgamesh**, identified as "Sumerian-Babylonian" — named in the same list.
 
-The *Yes... I am Raelian* list is a commentary by a follower rather than a statement by Rael, but it appears within the canonical omnibus and articulates the same reading the canon establishes in *At the Root of All Religions*.
+The *Yes... I am Raelian* list is a commentary by a follower rather than a statement by Rael, but it appears within the canonical omnibus and articulates the same reading the canon establishes in *At the Root of All Religions*{{ footnote(id="3") }}.
 
 ### Languages engaged philologically
 
-The canon performs sustained etymological readings, treating word-histories as testimonies in their own right. The languages explicitly drawn on include:
+The canon performs sustained etymological readings, treating word-histories as testimonies in their own right{{ footnote(id="5") }}. The languages explicitly drawn on include:
 
 - **Hebrew** — most importantly the plural *Elohim*, read as "those who came from the sky"; *Yahweh*; *Edenic* terminology.
 - **Aramaic** — the root of *Messiah* / *meschika* is read as "anointed by the Lord."
@@ -174,25 +266,3 @@ A few clean tensions are worth flagging for future Wheel of Heaven work.
 **Direct vs. indirect, again.** Some of the categorisation above is borderline. Joseph Smith is named directly, but no Mormon scripture is quoted — so the Mormon tradition sits in the secondary tier even though the figure of its founder is primary. Conversely, the *Kabbalah* is named generically (secondary-tier language) but a specific cosmological passage is engaged (primary-tier behaviour). These are flagged for future refinement.
 
 ---
-
-## See also
-
-- [Bible](../bible/)
-- [Hebrew Bible](../hebrew-bible/)
-- [Genesis](../genesis/)
-- [Kabbalah](../kabbalah/)
-- [Comparative mythology](../comparative-mythology/)
-- [List of prophets and religions](../list-of-prophets-and-religions/)
-- [List of etymological readings](../list-of-etymological-readings/)
-- [List of exegetic readings](../list-of-exegetic-readings/)
-- [Dhorme Bible translation](../dhorme-bible-translation/)
-- [Raëlism](../raelism/)
-- [The Tradition](../the-tradition/)
-
-## External links
-
-- [The Book Which Tells The Truth — full text](https://www.rael.org/downloads/intelligent_design.pdf)
-- [Wikipedia — Raëlism](https://en.wikipedia.org/wiki/Ra%C3%ABlism)
-- [Wikipedia — Édouard Dhorme](https://en.wikipedia.org/wiki/%C3%89douard_Dhorme)
-- [Wikipedia — Chronicle of Akakor](https://en.wikipedia.org/wiki/Chronicle_of_Akakor)
-- [Wikipedia — Shi'ur Qomah](https://en.wikipedia.org/wiki/Shi%27ur_Qomah)
