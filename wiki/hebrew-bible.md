@@ -9,8 +9,36 @@ toc = true
 category = "Texts & Sources"
 editorial_pass = "2026-05"
 entry_type = "text"
+claim_type = "inferred"
 alternative_names = ["Tanakh (Hebrew: תָּנָ״ךְ)", "the Hebrew Scriptures", "the Jewish Bible", "Mikra (Hebrew: מִקְרָא, 'reading')", "the Old Testament (Christian-tradition designation)", "the Hebrew Old Testament", "the canonical Hebrew Scriptures"]
 timeline = ["multi-age"]
+
+see_also = [
+    { title = "Bible", path = "/wiki/bible/", description = "The broader textual tradition within which the Hebrew Bible sits." },
+    { title = "Genesis", path = "/wiki/genesis/", description = "The principal primeval-history book engaged across the framework." },
+    { title = "Elohim", path = "/wiki/elohim/", description = "The Hebrew designation read as the alliance civilisation, central to the corpus's interpretive frame." },
+    { title = "Yahweh", path = "/wiki/yahweh/", description = "The Tetragrammaton, read as a specific Eloha individual rather than supernatural deity." },
+    { title = "Eden", path = "/wiki/eden/", description = "The originary alliance laboratory; textual anchor of the framework's Hebrew Bible reading." },
+    { title = "Great Flood", path = "/wiki/great-flood/", description = "The Age-of-Gemini event central to the Hebrew Bible's primeval history." },
+    { title = "Moses", path = "/wiki/moses/", description = "The principal post-flood prophet whose mission produced the Torah corpus." },
+    { title = "Abraham", path = "/wiki/abraham/", description = "The patriarchal-period reconstruction figure central to the Hebrew Bible narrative." },
+    { title = "Documentary Hypothesis", path = "/wiki/documentary-hypothesis/", description = "The principal mainstream historical-critical framework for Pentateuchal composition." },
+    { title = "Hebrews", path = "/wiki/hebrews/", description = "The Eden-lineage genealogical descendants whose tradition produced the textual corpus." },
+    { title = "Doubled Signature", path = "/wiki/doubled-signature/", description = "The corpus principle by which the Hebrew Bible registers underlying historical reality." },
+    { title = "Reference Corpus of the Raëlian Canon", path = "/wiki/reference-corpus-of-the-raelian-canon/", description = "The principal Raëlian source corpus that operates as canonical reading lens." },
+    { title = "Septuagint", path = "/wiki/septuagint/", description = "The principal Greek translation of the Hebrew Bible." },
+    { title = "Dead Sea Scrolls", path = "/wiki/dead-sea-scrolls/", description = "The substantial manuscript evidence for the Hebrew Bible's textual transmission." },
+    { title = "Masoretic Text", path = "/wiki/masoretic-text/", description = "The principal vocalised Hebrew textual tradition." },
+]
+
+footnotes = [
+    { content = "The Hebrew name *Tanakh* (תָּנָ״ךְ) is an acronym formed from the initial letters of the three principal canonical sections: Torah (תּוֹרָה, 'Instruction'), Nevi'im (נְבִיאִים, 'Prophets'), and Ketuvim (כְּתוּבִים, 'Writings'). The acronym is a medieval Jewish-tradition formation, and the broader Hebrew Bible textual entity was previously designated by other terms — *Mikra* (מִקְרָא, 'reading' or 'what is read'), *Kitvei ha-Kodesh* (כִּתְבֵי הַקֹּדֶשׁ, 'Holy Writings'), or simply *ha-Sefarim* (הַסְּפָרִים, 'the Books'). The Christian designation 'Old Testament' is the substantial Christian-tradition reception which the corpus avoids in favour of the Jewish-tradition designation *Tanakh* / *Hebrew Bible*, since 'Old' presupposes the supersessionist theology that the corpus does not endorse." },
+    { content = "The Documentary Hypothesis (J, E, D, P) — formulated principally by Julius Wellhausen in *Prolegomena zur Geschichte Israels* (1878) — remains the principal mainstream historical-critical framework for Pentateuchal composition despite substantial subsequent refinement. Richard Friedman's *Who Wrote the Bible?* (1987) and *The Bible with Sources Revealed* (2003) provide accessible contemporary articulations. The framework's reading does not reject the documentary hypothesis; rather, it operates orthogonally to it: the framework reads the substantively-preserved textual content as substantial record of actual operational events regardless of which source layer preserved any given passage. The J/E/D/P distinctions remain useful for textual criticism but do not determine the framework's interpretive position." },
+    { content = "The corpus's specific position on textual privilege — treating the Hebrew Bible as the most accurate of the surviving ancient records of the Elohim civilization's work on Earth — is grounded in the Raëlian source material's identification of the Hebrews as the direct genetic descendants of the Israel-team-synthesised first humans. This privileged textual position is therefore genealogical rather than theological: the Hebrew Bible's accuracy derives from the continuous textual tradition of the lineage that operationally encountered the alliance most closely, not from any inherent doctrinal authority. The parallel ancient Near Eastern texts (Atra-ḫasīs, Gilgamesh, the Sumerian flood-and-creation corpus) preserve substantial fragmentary memory of the same underlying events but through lineages whose post-Flood transmission decayed faster than the Hebrew one." },
+    { content = "The four principal Christian-tradition translation moves that obscure the Hebrew content — *Elohim* → 'God' (singular), *taninim* → 'whales' (rather than 'great reptiles/dragons'), *malakhim* → 'angels' (supernatural overlay rather than 'messengers'/'envoys'), *nachash* → 'serpent' (mere reptile rather than the operational designation for the Lucifer-faction agent) — operate not as deliberate deception but as the result of post-Septuagint theological assimilation across more than two millennia of Christian-tradition reading. Biglino's strict-translational methodology (*The Naked Bible*, 2022) systematically reverses these moves and reads the Hebrew text word-for-word, accepting the resulting concrete operational content rather than allegorising it into theological abstraction. The corpus adopts Biglino's methodological approach while operating its own framework-interpretive overlay on the recovered Hebrew content." },
+    { content = "The textual-witness landscape — Masoretic Text (the Tiberian-tradition vocalised text, principally the Aleppo Codex c. 930 CE and Leningrad Codex 1008 CE), Dead Sea Scrolls (the substantial 2nd-century-BCE through 1st-century-CE manuscript evidence from Qumran and adjacent sites), Septuagint (the 3rd-2nd-century-BCE Greek translation), and Samaritan Pentateuch (the substantial Samaritan-tradition variant) — registers substantial variation in details (orthography, word order, occasional verse-level variants) but substantial structural unity across the principal textual content. Tov's *Textual Criticism of the Hebrew Bible* (3rd ed. 2012) provides the principal contemporary scholarly synthesis. The framework's reading does not depend on any specific textual variant; the substantially-preserved content is robust across the surviving witnesses." },
+    { content = "The Dead Sea Scrolls discoveries (1947-1956) provided substantial first-millennium-BCE manuscript evidence that confirmed the substantial stability of the Hebrew Bible's textual transmission across more than a millennium. The Great Isaiah Scroll (1QIsa-a, c. 125 BCE) matches the Masoretic Isaiah substantially closely across more than 1,000 years of transmission. The substantial implication for the framework's reading: the Hebrew Bible's content was substantially fixed by the late Second Temple period, with the textual transmission across the subsequent two millennia preserving it with substantial fidelity. VanderKam & Flint, *The Meaning of the Dead Sea Scrolls* (2002), provides the principal accessible scholarly treatment of the substantial implications." },
+]
 
 [[extra.references]]
 id = "tanakh"
@@ -40,6 +68,110 @@ note = "Mauro Biglino and Giorgio Cattaneo's strict-translational alternative-hi
 id = "escaping-from-eden"
 note = "Paul Anthony Wallis's Genesis-focused comparative reading."
 
+[[extra.references]]
+id = "intelligent-design-message-from-the-designers"
+note = "Collected canonical edition of the three Raëlian source-material books."
+
+[[extra.references]]
+id = "lets-welcome-the-extraterrestrials"
+note = "Vorilhon (Raël, 1979); broader Council political-institutional framework engaged across the Hebrew Bible reading."
+
+[[extra.references]]
+id = "sendy-ces-dieux"
+note = "Sendy (1969); foundational French articulation of the Hebrew-Bible-as-extraterrestrial-record framework."
+
+[[extra.references]]
+id = "sendy-ere-du-verseau"
+note = "Sendy (1970); the Aquarian-age inheritance threshold framework engaging Hebrew Bible eschatology."
+
+[[extra.references]]
+id = "sendy-cahiers-moise"
+note = "Sendy (1974); the Mosaic-period framework with substantial Pentateuchal exegesis."
+
+[[extra.references]]
+id = "biglino-il-libro"
+note = "Biglino (2010); first principal articulation of the strict-literal Hebrew Bible reading."
+
+[[extra.references]]
+id = "biglino-bibbia-non-parla"
+note = "Biglino (2015); articulation of the argument that mainstream translation obscures the Hebrew Bible's original content."
+
+[[extra.references]]
+id = "wallis-eden-conspiracy"
+note = "Wallis (2024); contemporary engagement with the Genesis primeval history as substantial historical record."
+
+[[extra.references]]
+id = "wellhausen-prolegomena"
+note = "Wellhausen (1878); the foundational articulation of the documentary hypothesis (J, E, D, P sources)."
+
+[[extra.references]]
+id = "friedman-who-wrote-bible"
+note = "Friedman (1987); the principal accessible articulation of the documentary hypothesis for general readers."
+
+[[extra.references]]
+id = "friedman-bible-sources-revealed"
+note = "Friedman (2003); source-tagged presentation of the Pentateuch text."
+
+[[extra.references]]
+id = "alter-art-biblical-narrative"
+note = "Alter (1981); the principal articulation of the literary-critical reading of biblical narrative."
+
+[[extra.references]]
+id = "alter-hebrew-bible"
+note = "Alter (2018); three-volume English translation of the Hebrew Bible with substantial scholarly commentary."
+
+[[extra.references]]
+id = "westermann-genesis-1-11"
+note = "Westermann (1994); continental commentary on Genesis 1-11; foundational critical commentary on the primeval history."
+
+[[extra.references]]
+id = "sarna-genesis-jps"
+note = "Sarna (1989); JPS Torah Commentary on Genesis."
+
+[[extra.references]]
+id = "cassuto-genesis"
+note = "Cassuto (1961); Jewish-scholarly commentary opposing the documentary-hypothesis fragmentation."
+
+[[extra.references]]
+id = "kugel-how-to-read-bible"
+note = "Kugel (2007); articulation of the contrast between ancient interpretive and modern critical readings."
+
+[[extra.references]]
+id = "cross-canaanite-myth"
+note = "Cross (1973); foundational articulation of Canaanite-Israelite religious continuity; El-Yahweh historical development."
+
+[[extra.references]]
+id = "smith-early-history-god"
+note = "Smith (1990); the early development of Israelite religion within the broader Canaanite-Levantine context."
+
+[[extra.references]]
+id = "finkelstein-bible-unearthed"
+note = "Finkelstein & Silberman (2001); the principal contemporary articulation of the archaeological reading of the Hebrew Bible."
+
+[[extra.references]]
+id = "tov-textual-criticism"
+note = "Tov (3rd ed. 2012); the principal contemporary reference for the textual criticism of the Hebrew Bible."
+
+[[extra.references]]
+id = "vermes-dead-sea-scrolls"
+note = "Vermes (rev. ed. 2004); accessible English translation of the Dead Sea Scrolls corpus."
+
+[[extra.references]]
+id = "vanderkam-dss-today"
+note = "VanderKam (2nd ed. 2010); accessible introduction to the Dead Sea Scrolls."
+
+[[extra.references]]
+id = "pritchard-anet"
+note = "Pritchard (1969); principal English-language reference for ancient Near Eastern texts parallel to the Hebrew Bible."
+
+[[extra.references]]
+id = "atra-hasis-lambert-millard"
+note = "Lambert & Millard (1969); critical edition of the Babylonian flood narrative parallel to Genesis."
+
+[[extra.references]]
+id = "sitchin-12th-planet"
+note = "Sitchin (1976); the ancient-astronaut reading of Mesopotamian-biblical material."
+
 [extra.infobox]
 type = "Foundational source-textual entity; the principal canonical Hebrew-language textual corpus that operates at the structural center of the broader corpus framework"
 language = "Biblical Hebrew principally; Biblical Aramaic in select passages (Daniel 2:4b-7:28, Ezra 4:8-6:18 and 7:12-26, Jeremiah 10:11, Genesis 31:47)"
@@ -59,16 +191,16 @@ The **Hebrew Bible** (Hebrew: תָּנָ״ךְ, *Tanakh*) is the principal found
 
 The framework's distinctive analytical position registers the Hebrew Bible as **substantial historical record rather than as substantial religious-mythological literature**. The substantial Yahweh-articulated framework reading: *"The Hebrew Bible is not a book of religious myths that require either literal belief or allegorical reinterpretation; it is a historical record, imperfect in its pre-scientific vocabulary but substantially accurate in its content, that can be read directly once the hermeneutic key is available."* The substantial textual content preserves substantial accurate cultural memory of the substantial alliance's interventions across the post-flood ages, with the substantial pre-scientific vocabulary of the human authors operating as substantial decodable layer rather than as substantial fundamental obstacle to substantive understanding. The framework operates the Hebrew Bible at the substantial structural center of the broader asymmetric synthesis: substantively the most direct and least mediated record of the alliance's communication with Earth, with the substantial Hebrew tradition operating as the principal source-textual foundation that the broader corpus engages substantively.
 
-The framework registers the Hebrew Bible's substantial centrality through several specific dimensions. The substantial **textual centrality**: the Hebrew Bible preserves substantial direct documentary content from substantial alliance-officer contacts (the substantial Yahweh contacts, the substantial *malakhim* visitations, the substantial dictation events at Sinai and elsewhere), with the substantial human authors recording what they were given in the substantial Hebrew vocabulary available to them. The substantial **lineage centrality**: the substantial Hebrew Bible preserves the documentary record of one specific creator-team's substantial work — the substantial Israel-team — with the substantial Eden-lineage genealogical line operating as the substantial cultural carrier of the broader creation memory. The substantial **chronological centrality**: the substantial Hebrew Bible covers substantial chronological scope from the substantial creation events through the substantial Persian-Hellenistic period, with substantial cross-cutting cultural-religious-political content operating substantively across multiple precessional ages. The substantial **interpretive centrality**: the substantial Hebrew Bible operates as the substantial principal source-textual foundation that the broader corpus engages substantively, with virtually every other corpus entry registering substantial textual engagement with specific Hebrew Bible passages.
+The framework registers the Hebrew Bible's substantial centrality through several specific dimensions. The substantial **textual centrality**: the Hebrew Bible preserves substantial direct documentary content from substantial alliance-officer contacts (the substantial Yahweh contacts, the substantial *malakhim* visitations, the substantial dictation events at Sinai and elsewhere), with the substantial human authors recording what they were given in the substantial Hebrew vocabulary available to them. The substantial **lineage centrality**: the substantial Hebrew Bible preserves the documentary record of one specific creator-team's substantial work — the substantial Israel-team — with the substantial Eden-lineage genealogical line operating as the substantial cultural carrier of the broader creation memory{{ footnote(id="3") }}. The substantial **chronological centrality**: the substantial Hebrew Bible covers substantial chronological scope from the substantial creation events through the substantial Persian-Hellenistic period, with substantial cross-cutting cultural-religious-political content operating substantively across multiple precessional ages. The substantial **interpretive centrality**: the substantial Hebrew Bible operates as the substantial principal source-textual foundation that the broader corpus engages substantively, with virtually every other corpus entry registering substantial textual engagement with specific Hebrew Bible passages.
 
 The framework's substantial Hebrew Bible engagement registers substantial centrality without registering substantial unique-privileging. The substantial corpus articulation: *"The Hebrew Bible is one tradition among several, not a uniquely privileged source. It is, however, the most complete and the most explicitly developed, which is why this corpus reads it most closely."* The substantial nuance preserves substantial respect for the substantial broader cross-cultural traditions (the substantial Mesopotamian textual corpus, the substantial Egyptian religious literature, the substantial Vedic / Hindu textual tradition, the substantial Greek mythological corpus, the substantial Chinese religious-cultural literature, the substantial various indigenous textual-and-oral traditions) while registering the substantial reasons why the Hebrew Bible operates at the corpus's substantial structural center. The substantial reasons: the substantial textual completeness, the substantial development depth, the substantial chronological coverage, the substantial preservation fidelity through the Masoretic textual tradition, and the substantial alliance-contact specificity preserved in the substantial textual content.
 
-The substantial Christian-tradition translation history has produced substantial systematic obscuring of the actual Hebrew content. The principal translation mistakes registered substantively in the broader corpus engagement:
+The substantial Christian-tradition translation history has produced substantial systematic obscuring of the actual Hebrew content{{ footnote(id="4") }}. The principal translation mistakes registered substantively in the broader corpus engagement:
 
-- The substantial **Elohim** → singular "God" rendering (treated principally in the [Plurality of Gods](../plurality-of-gods/) entry): the substantial transformation of the actual plural creator beings into a substantial singular incomprehensible God
-- The substantial **taninim** → "whales" or "great sea creatures" rendering (treated principally in the [Dragons](../dragons/) entry): the substantial softening of the substantial Genesis 1:21 explicit dragon-creation content
+- The substantial **Elohim** → singular "God" rendering (treated principally in the {% wiki(slug="plurality-of-gods") %}Plurality of Gods{% end %} entry): the substantial transformation of the actual plural creator beings into a substantial singular incomprehensible God
+- The substantial **taninim** → "whales" or "great sea creatures" rendering (treated principally in the {% wiki(slug="dragons") %}Dragons{% end %} entry): the substantial softening of the substantial Genesis 1:21 explicit dragon-creation content
 - The substantial **malakhim** → "angels" rendering: the substantial supernatural overlay obscuring the substantial messenger-personnel operational content
-- The substantial **nachash** → mere "serpent" rendering (treated principally in the [Serpent](../serpent/) entry): the substantial obscuring of the substantial Lucifer-faction operational content
+- The substantial **nachash** → mere "serpent" rendering (treated principally in the {% wiki(slug="serpent") %}Serpent{% end %} entry): the substantial obscuring of the substantial Lucifer-faction operational content
 - The substantial **benei ha-Elohim** → "sons of God" rendering (often pluralized substantively): the substantial obscuring of the substantial alliance-personnel content
 - Various other translation choices operating across the broader textual tradition
 
@@ -93,7 +225,7 @@ The designation has substantial usage in:
 
 ### Hebrew "Tanakh" (תָּנָ״ךְ)
 
-The Hebrew **תָּנָ״ךְ** (*Tanakh*) is the principal Jewish-tradition designation for the substantial canonical Hebrew-language textual corpus. The substantial designation operates as substantial acronymic construction:
+The Hebrew **תָּנָ״ךְ** (*Tanakh*){{ footnote(id="1") }} is the principal Jewish-tradition designation for the substantial canonical Hebrew-language textual corpus. The substantial designation operates as substantial acronymic construction:
 
 - **Ta** (תּ): from תּוֹרָה (*Torah*, "Law" or "Instruction") — the substantial first principal section
 - **Na** (נַ): from נְבִיאִים (*Nevi'im*, "Prophets") — the substantial second principal section  
@@ -276,7 +408,7 @@ The substantial principal source-material passage establishing the framework's s
 
 > *"Its mistakes have been great, particularly when it injected too much of the supernatural into the truth, and wrongly translated the scriptures in ordinary Bibles. It replaced the term 'Elohim', which refers to the creators, with a singular term 'God', whereas in fact Elohim in Hebrew is the plural of Eloha. In this way, the Church transformed the creators into a single incomprehensible God."*
 
-The passage establishes the framework's substantial translation-mistake reading. The detailed treatment lives in the [Plurality of Gods](../plurality-of-gods/) entry; the Hebrew Bible entry's specific contribution is registering the broader translation-history landscape within which this specific mistake operates.
+The passage establishes the framework's substantial translation-mistake reading. The detailed treatment lives in the {% wiki(slug="plurality-of-gods") %}Plurality of Gods{% end %} entry; the Hebrew Bible entry's specific contribution is registering the broader translation-history landscape within which this specific mistake operates.
 
 ### The substantial "wick" passage
 
@@ -328,16 +460,16 @@ The substantial framework articulates substantial systematic hermeneutic for sub
 **The substantial principal hermeneutic moves**. The substantial framework articulates substantial principal interpretive moves across the broader textual tradition:
 
 - **Genesis 1 as substantial genetic-engineering account** rather than substantial supernatural-creation account
-- **The substantial *Elohim* as substantial actual plural beings** rather than substantial singular God (treated principally in the [Plurality of Gods](../plurality-of-gods/) entry)
+- **The substantial *Elohim* as substantial actual plural beings** rather than substantial singular God (treated principally in the {% wiki(slug="plurality-of-gods") %}Plurality of Gods{% end %} entry)
 - **The substantial *malakhim* as substantial alliance personnel** rather than substantial supernatural beings
-- **The substantial *benei ha-Elohim* as substantial alliance-human-contact content** (treated principally in the [Watchers](../watchers/) entry when written and the [Antediluvian](../antediluvian/) entry)
+- **The substantial *benei ha-Elohim* as substantial alliance-human-contact content** (treated principally in the {% wiki(slug="watchers") %}Watchers{% end %} entry when written and the {% wiki(slug="antediluvian") %}Antediluvian{% end %} entry)
 - **The substantial Nephilim as substantial alliance-human hybrid offspring** rather than substantial supernatural giants
-- **The substantial flood as substantial nuclear cataclysm** (treated principally in the [Great Flood](../great-flood/) entry)
+- **The substantial flood as substantial nuclear cataclysm** (treated principally in the {% wiki(slug="great-flood") %}Great Flood{% end %} entry)
 - **The substantial Sinai event as substantial formal alliance audience** rather than substantial supernatural theophany
 - **The substantial parted waters as substantial directed-beam operations** rather than substantial supernatural intervention
-- **The substantial Sodom destruction as substantial atomic strike** (treated principally in the [Sodom and Gomorrah](../sodom-and-gomorrah/) entry)
-- **The substantial Babel intervention as substantial Council operational dispersion** (treated principally in the [Babel](../babel/) entry)
-- **The substantial Tetragrammaton as substantial Council-president personal designation** (treated principally in the [Yahweh](../yahweh/) and [Tetragrammaton](../tetragrammaton/) entries)
+- **The substantial Sodom destruction as substantial atomic strike** (treated principally in the {% wiki(slug="sodom-and-gomorrah") %}Sodom and Gomorrah{% end %} entry)
+- **The substantial Babel intervention as substantial Council operational dispersion** (treated principally in the {% wiki(slug="babel") %}Babel{% end %} entry)
+- **The substantial Tetragrammaton as substantial Council-president personal designation** (treated principally in the {% wiki(slug="yahweh") %}Yahweh{% end %} and {% wiki(slug="tetragrammaton") %}Tetragrammaton{% end %} entries)
 
 **The substantial decoding methodology**. The substantial framework operates through substantial systematic textual engagement:
 
@@ -351,13 +483,13 @@ The substantial framework articulates substantial systematic hermeneutic for sub
 
 The substantial framework articulates substantial systematic translation-mistake landscape across the broader Christian-tradition translation history.
 
-**The substantial *Elohim* → singular "God" mistake**. The substantial principal translation mistake operating across substantially the entire Christian-tradition translation history. The detailed treatment lives in the [Plurality of Gods](../plurality-of-gods/) entry.
+**The substantial *Elohim* → singular "God" mistake**. The substantial principal translation mistake operating across substantially the entire Christian-tradition translation history. The detailed treatment lives in the {% wiki(slug="plurality-of-gods") %}Plurality of Gods{% end %} entry.
 
-**The substantial *taninim* → "whales" mistake**. The substantial Genesis 1:21 translation choice operating principally through the Septuagint κῆτος (*ketos*, "sea creature") rendering and subsequent translations. The detailed treatment lives in the [Dragons](../dragons/) entry. The substantial original Hebrew *taninim* operates as substantial plural of *tannin* meaning substantial "dragons" or "sea-serpents," with the substantial translation softening operating across the broader translation tradition.
+**The substantial *taninim* → "whales" mistake**. The substantial Genesis 1:21 translation choice operating principally through the Septuagint κῆτος (*ketos*, "sea creature") rendering and subsequent translations. The detailed treatment lives in the {% wiki(slug="dragons") %}Dragons{% end %} entry. The substantial original Hebrew *taninim* operates as substantial plural of *tannin* meaning substantial "dragons" or "sea-serpents," with the substantial translation softening operating across the broader translation tradition.
 
 **The substantial *malakhim* → "angels" mistake**. The substantial Hebrew *malakhim* (מַלְאָכִים, plural of *malakh*) operates as substantial standard Hebrew designation for substantial "messengers" rather than substantial supernatural beings. The substantial Christian-tradition rendering as "angels" (with substantial subsequent supernatural-overlay development) operates as substantial obscuring of the substantial messenger-personnel operational content.
 
-**The substantial *nachash* → mere "serpent" mistake**. The substantial Hebrew *nachash* (נָחָשׁ) operates within substantial broader semantic field with substantial multiple operational meanings. The substantial Christian-tradition rendering as mere "serpent" operating principally through the substantial Genesis 3 narrative substantially obscures the substantial Lucifer-faction operational content. The detailed treatment lives in the [Serpent](../serpent/) entry.
+**The substantial *nachash* → mere "serpent" mistake**. The substantial Hebrew *nachash* (נָחָשׁ) operates within substantial broader semantic field with substantial multiple operational meanings. The substantial Christian-tradition rendering as mere "serpent" operating principally through the substantial Genesis 3 narrative substantially obscures the substantial Lucifer-faction operational content. The detailed treatment lives in the {% wiki(slug="serpent") %}Serpent{% end %} entry.
 
 **The substantial *benei ha-Elohim* → "sons of God" mistake**. The substantial Hebrew *benei ha-Elohim* (בְּנֵי־הָאֱלֹהִים, "sons of the Elohim") preserves substantial plural reference. The substantial Christian-tradition rendering frequently obscures the substantial plural content through substantial various translation choices.
 
@@ -375,7 +507,7 @@ The substantial framework registers substantial textual imperfection within the 
 
 **The substantial redactional-layering imperfection**. The substantial various redactions across the centuries introduced substantial layers of cultural framing on top of the original content, with substantial subsequent monotheistic-theological editing operating substantively across the broader textual tradition.
 
-**The substantial canonization-selection imperfection**. The substantial eventual canonization process selected specific texts while excluding others, with substantial significant content (the substantial Book of Enoch, various other apocryphal-pseudepigraphal materials) being excluded from the substantial Jewish canonical tradition. The substantial Book of Enoch exclusion is treated principally in the substantial [Watchers](../watchers/) entry when written.
+**The substantial canonization-selection imperfection**. The substantial eventual canonization process selected specific texts while excluding others, with substantial significant content (the substantial Book of Enoch, various other apocryphal-pseudepigraphal materials) being excluded from the substantial Jewish canonical tradition. The substantial Book of Enoch exclusion is treated principally in the substantial {% wiki(slug="watchers") %}Watchers{% end %} entry when written.
 
 **The substantial substantive-preservation despite imperfection**. The substantial framework articulation: despite the substantial imperfections, the substantial textual content operates substantively as the substantial documentary record of the alliance's relationship with the Eden lineage. The substantial imperfections register substantial decodable layers rather than substantial fundamental-obstacles to substantive understanding.
 
@@ -383,7 +515,7 @@ The substantial framework registers substantial textual imperfection within the 
 
 The substantial framework articulates substantial Israel-team genealogical specificity within the broader cosmological-creator framework.
 
-**The substantial seven-team creation structure**. The substantial framework registers the substantial Elohim creation project as operating through substantial seven-team structure, with the substantial seven creator-teams operating across the substantial seven creation days / precessional ages. The detailed treatment lives in the [Genesis](../genesis/) entry.
+**The substantial seven-team creation structure**. The substantial framework registers the substantial Elohim creation project as operating through substantial seven-team structure, with the substantial seven creator-teams operating across the substantial seven creation days / precessional ages. The detailed treatment lives in the {% wiki(slug="genesis") %}Genesis{% end %} entry.
 
 **The substantial Israel-team specific position**. The substantial Hebrew Bible operates as the substantial documentary record of the substantial Israel-team's specific work, with the substantial Eden-lineage genealogical line operating as the substantial cultural carrier of the broader creation memory.
 
@@ -397,31 +529,31 @@ The Hebrew Bible operates as substantial source-textual foundation across virtua
 
 ### The Genesis entry
 
-The Hebrew Bible Genesis content operates as substantial foundational content for the broader corpus framework. The detailed treatment of Genesis lives in the [Genesis](../genesis/) entry; the Hebrew Bible entry's specific contribution is registering the substantial broader textual-canonical context within which Genesis operates.
+The Hebrew Bible Genesis content operates as substantial foundational content for the broader corpus framework. The detailed treatment of Genesis lives in the {% wiki(slug="genesis") %}Genesis{% end %} entry; the Hebrew Bible entry's specific contribution is registering the substantial broader textual-canonical context within which Genesis operates.
 
 ### The various individual narrative-event entries
 
-The Hebrew Bible operates as substantial source-textual foundation for the various individual narrative-event entries: [Adam and Eve](../adam-and-eve/), [Eden](../eden/), [Antediluvian](../antediluvian/), [Great Flood](../great-flood/), [Theomachy](../theomachy/), [Babel](../babel/), [Sodom and Gomorrah](../sodom-and-gomorrah/), various others.
+The Hebrew Bible operates as substantial source-textual foundation for the various individual narrative-event entries: {% wiki(slug="adam-and-eve") %}Adam and Eve{% end %}, {% wiki(slug="eden") %}Eden{% end %}, {% wiki(slug="antediluvian") %}Antediluvian{% end %}, {% wiki(slug="great-flood") %}Great Flood{% end %}, {% wiki(slug="theomachy") %}Theomachy{% end %}, {% wiki(slug="babel") %}Babel{% end %}, {% wiki(slug="sodom-and-gomorrah") %}Sodom and Gomorrah{% end %}, various others.
 
 ### The various individual figure entries
 
-The Hebrew Bible operates as substantial source-textual foundation for the various individual figure entries: [Adam and Eve](../adam-and-eve/), [Noah](../noah/) when written, [Abraham](../abraham/) when written, [Moses](../moses/) when written, the various creator-figure entries ([Elohim](../elohim/), [Yahweh](../yahweh/), [Lucifer](../lucifer/), [Satan](../satan/), [Serpent](../serpent/)), various others.
+The Hebrew Bible operates as substantial source-textual foundation for the various individual figure entries: {% wiki(slug="adam-and-eve") %}Adam and Eve{% end %}, {% wiki(slug="noah") %}Noah{% end %} when written, {% wiki(slug="abraham") %}Abraham{% end %} when written, {% wiki(slug="moses") %}Moses{% end %} when written, the various creator-figure entries ({% wiki(slug="elohim") %}Elohim{% end %}, {% wiki(slug="yahweh") %}Yahweh{% end %}, {% wiki(slug="lucifer") %}Lucifer{% end %}, {% wiki(slug="satan") %}Satan{% end %}, {% wiki(slug="serpent") %}Serpent{% end %}), various others.
 
 ### The various concept entries
 
-The Hebrew Bible operates as substantial source-textual foundation for the various concept entries: [Plurality of Gods](../plurality-of-gods/), [Cosmic Chain](../cosmic-chain/), [Cosmic Competition](../cosmic-competition/), [Doubled Signature](../doubled-signature/), [Tree of Life](../tree-of-life/), various others.
+The Hebrew Bible operates as substantial source-textual foundation for the various concept entries: {% wiki(slug="plurality-of-gods") %}Plurality of Gods{% end %}, {% wiki(slug="cosmic-chain") %}Cosmic Chain{% end %}, {% wiki(slug="cosmic-competition") %}Cosmic Competition{% end %}, {% wiki(slug="doubled-signature") %}Doubled Signature{% end %}, {% wiki(slug="tree-of-life") %}Tree of Life{% end %}, various others.
 
 ### The various text entries
 
-The Hebrew Bible operates as substantial textual-tradition context for various other text entries when written: [Tetragrammaton](../tetragrammaton/), various subsequent Hellenistic-Jewish and Christian-tradition textual entities, various Islamic-tradition textual entities.
+The Hebrew Bible operates as substantial textual-tradition context for various other text entries when written: {% wiki(slug="tetragrammaton") %}Tetragrammaton{% end %}, various subsequent Hellenistic-Jewish and Christian-tradition textual entities, various Islamic-tradition textual entities.
 
 ### The Apocalypse entry
 
-The Hebrew Bible operates as substantial source-textual foundation for substantial apocalyptic-prophetic content. The detailed treatment lives in the [Apocalypse](../apocalypse/) entry.
+The Hebrew Bible operates as substantial source-textual foundation for substantial apocalyptic-prophetic content. The detailed treatment lives in the {% wiki(slug="apocalypse") %}Apocalypse{% end %} entry.
 
 ### The Prophet entry
 
-The Hebrew Bible operates as substantial source-textual foundation for substantial prophetic-tradition content. The detailed treatment lives in the [Prophet](../prophet/) entry.
+The Hebrew Bible operates as substantial source-textual foundation for substantial prophetic-tradition content. The detailed treatment lives in the {% wiki(slug="prophet") %}Prophet{% end %} entry.
 
 ## Distinguishing from adjacent concepts
 
@@ -437,19 +569,19 @@ The substantial framework engagement operates principally with the substantial H
 
 ### Hebrew Bible vs. broader Christian Bible
 
-The broader Christian Bible adds substantial New Testament content to the substantial Old Testament content. The relationship is one of **substantial-Hebrew-Bible-content-as-foundation-with-substantial-New-Testament-addition**. The substantial framework engagement with the substantial New Testament content operates substantively (treated principally in the [Jesus](../jesus/) entry, the various Christian-tradition entries, and the broader Pisces-age corpus entries) but substantially separately from the substantial Hebrew Bible engagement.
+The broader Christian Bible adds substantial New Testament content to the substantial Old Testament content. The relationship is one of **substantial-Hebrew-Bible-content-as-foundation-with-substantial-New-Testament-addition**. The substantial framework engagement with the substantial New Testament content operates substantively (treated principally in the {% wiki(slug="jesus") %}Jesus{% end %} entry, the various Christian-tradition entries, and the broader Pisces-age corpus entries) but substantially separately from the substantial Hebrew Bible engagement.
 
 ### Hebrew Bible vs. the Quran
 
-The substantial Quran operates as substantial Islamic-tradition canonical text registering substantial parallel content with the substantial Hebrew Bible while operating from distinct cultural-religious tradition. The relationship is one of **substantial-parallel-content-with-substantial-distinct-traditional-framing**. The substantial framework engagement with the substantial Quran operates substantively (treated principally in the [Muhammad](../muhammad/) entry when written and the broader Pisces-age corpus entries) but substantially separately from the substantial Hebrew Bible engagement.
+The substantial Quran operates as substantial Islamic-tradition canonical text registering substantial parallel content with the substantial Hebrew Bible while operating from distinct cultural-religious tradition. The relationship is one of **substantial-parallel-content-with-substantial-distinct-traditional-framing**. The substantial framework engagement with the substantial Quran operates substantively (treated principally in the {% wiki(slug="muhammad") %}Muhammad{% end %} entry when written and the broader Pisces-age corpus entries) but substantially separately from the substantial Hebrew Bible engagement.
 
 ### Hebrew Bible vs. the Book of Mormon
 
-The substantial Book of Mormon operates as substantial Mormon LDS canonical text registering substantial parallel content with the substantial Hebrew Bible while operating from distinct cultural-religious tradition. The relationship is one of **substantial-parallel-content-with-substantial-distinct-traditional-framing**. The substantial framework engagement with the substantial Book of Mormon operates substantively (treated principally in the [Joseph Smith](../joseph-smith/) entry when written and the broader Mormon LDS corpus content) but substantially separately from the substantial Hebrew Bible engagement.
+The substantial Book of Mormon operates as substantial Mormon LDS canonical text registering substantial parallel content with the substantial Hebrew Bible while operating from distinct cultural-religious tradition. The relationship is one of **substantial-parallel-content-with-substantial-distinct-traditional-framing**. The substantial framework engagement with the substantial Book of Mormon operates substantively (treated principally in the {% wiki(slug="joseph-smith") %}Joseph Smith{% end %} entry when written and the broader Mormon LDS corpus content) but substantially separately from the substantial Hebrew Bible engagement.
 
 ### Hebrew Bible vs. Apocryphal and Pseudepigraphal texts
 
-The substantial Apocryphal and Pseudepigraphal texts (the substantial Book of Enoch, the substantial Book of Jubilees, the substantial various Maccabees books, the substantial various other texts) operate within distinct canonical-traditional positions while substantively containing substantial parallel content with the broader Hebrew Bible tradition. The relationship is one of **substantial-related-content-with-substantial-distinct-canonical-position**. The substantial framework engagement with the substantial Apocryphal-Pseudepigraphal content operates substantively (treated principally in the [Watchers](../watchers/) entry when written for substantial Book of Enoch content, with various other dedicated entries when written).
+The substantial Apocryphal and Pseudepigraphal texts (the substantial Book of Enoch, the substantial Book of Jubilees, the substantial various Maccabees books, the substantial various other texts) operate within distinct canonical-traditional positions while substantively containing substantial parallel content with the broader Hebrew Bible tradition. The relationship is one of **substantial-related-content-with-substantial-distinct-canonical-position**. The substantial framework engagement with the substantial Apocryphal-Pseudepigraphal content operates substantively (treated principally in the {% wiki(slug="watchers") %}Watchers{% end %} entry when written for substantial Book of Enoch content, with various other dedicated entries when written).
 
 ## Modern reinterpretations
 
@@ -461,9 +593,9 @@ Mainstream Hebrew Bible scholarship has produced substantial systematic engageme
 
 The substantial **Documentary Hypothesis** operates as the principal source-critical framework for Pentateuchal scholarship from the late nineteenth century onward.
 
-**Wellhausen's foundational work**. **Julius Wellhausen** (1844-1918) produced the foundational systematic articulation of the substantial Documentary Hypothesis through *Prolegomena zur Geschichte Israels* (1878; English translation as *Prolegomena to the History of Israel*, 1885). The substantial Wellhausen articulation registered the substantial four-source theory: J (Yahwist), E (Elohist), D (Deuteronomist), P (Priestly). The substantial subsequent scholarship has substantively engaged the broader Documentary-Hypothesis framework.
+**Wellhausen's foundational work**. **Julius Wellhausen** (1844-1918) produced the foundational systematic articulation of the substantial Documentary Hypothesis through *Prolegomena zur Geschichte Israels* (1878; English translation as *Prolegomena to the History of Israel*, 1885){{ cite(id="wellhausen-prolegomena", text="[1]", title="Wellhausen (1878), *Prolegomena zur Geschichte Israels* — foundational documentary-hypothesis articulation") }}. The substantial Wellhausen articulation registered the substantial four-source theory: J (Yahwist), E (Elohist), D (Deuteronomist), P (Priestly){{ footnote(id="2") }}. The substantial subsequent scholarship has substantively engaged the broader Documentary-Hypothesis framework.
 
-**Friedman's contemporary articulation**. **Richard Elliott Friedman**'s *Who Wrote the Bible?* (Harper & Row, 1987) and *The Bible with Sources Revealed* (HarperOne, 2003) provide substantial contemporary systematic engagement with the substantial Documentary Hypothesis. The substantial Friedman articulation registers substantial source-distinction with substantial historical-cultural specificity.
+**Friedman's contemporary articulation**. **Richard Elliott Friedman**'s *Who Wrote the Bible?* (Harper & Row, 1987){{ cite(id="friedman-who-wrote-bible", text="[2]", title="Friedman (1987), *Who Wrote the Bible?* — accessible articulation of the documentary hypothesis") }} and *The Bible with Sources Revealed* (HarperOne, 2003){{ cite(id="friedman-bible-sources-revealed", text="[3]", title="Friedman (2003), *The Bible with Sources Revealed* — source-tagged Pentateuch presentation") }} provide substantial contemporary systematic engagement with the substantial Documentary Hypothesis. The substantial Friedman articulation registers substantial source-distinction with substantial historical-cultural specificity.
 
 **Van Seters's substantial work**. **John Van Seters**'s *The Pentateuch: A Social-Science Commentary* (Sheffield Academic Press, 1999) and various other works provide substantial subsequent engagement with the broader Documentary-Hypothesis framework, with various specific scholarly engagements articulating various aspects of the broader question.
 
@@ -503,7 +635,7 @@ Mainstream archaeological-historical scholarship has produced substantial engage
 
 Substantial textual-criticism scholarship has produced substantial engagement with the substantial Hebrew Bible textual transmission history.
 
-**Emanuel Tov's substantial work**. **Emanuel Tov**'s *Textual Criticism of the Hebrew Bible* (Augsburg Fortress, 1992; revised editions) provides the principal contemporary systematic engagement with the substantial Hebrew Bible textual-transmission history. The substantial Tov articulation registers substantial systematic engagement with the substantial Masoretic, Septuagint, Dead Sea Scrolls, Samaritan, and various other textual traditions.
+**Emanuel Tov's substantial work**. **Emanuel Tov**'s *Textual Criticism of the Hebrew Bible* (Augsburg Fortress, 1992; revised editions){{ cite(id="tov-textual-criticism", text="[4]", title="Tov (3rd ed. 2012), *Textual Criticism of the Hebrew Bible* — principal contemporary reference for Hebrew Bible textual criticism") }}{{ footnote(id="5") }} provides the principal contemporary systematic engagement with the substantial Hebrew Bible textual-transmission history. The substantial Tov articulation registers substantial systematic engagement with the substantial Masoretic, Septuagint, Dead Sea Scrolls, Samaritan, and various other textual traditions.
 
 **Ronald Hendel's substantial work**. **Ronald Hendel**'s *The Text of Genesis 1-11: Textual Studies and Critical Edition* (Oxford University Press, 1998) and the broader Oxford Hebrew Bible critical edition project provide substantial contemporary systematic textual-critical engagement.
 
@@ -513,13 +645,13 @@ Substantial textual-criticism scholarship has produced substantial engagement wi
 
 The substantial Dead Sea Scrolls discovery (beginning 1947) has produced substantial systematic engagement with the substantial Qumran biblical and sectarian textual evidence.
 
-**James VanderKam's substantial work**. **James C. VanderKam**'s *The Dead Sea Scrolls Today* (Eerdmans, 1994; revised editions) and various other works provide substantial systematic engagement with the broader Dead Sea Scrolls content.
+**James VanderKam's substantial work**. **James C. VanderKam**'s *The Dead Sea Scrolls Today* (Eerdmans, 1994; revised editions){{ cite(id="vanderkam-dss-today", text="[5]", title="VanderKam (2nd ed. 2010), *The Dead Sea Scrolls Today* — accessible introduction to Dead Sea Scrolls scholarship") }}{{ footnote(id="6") }} and various other works provide substantial systematic engagement with the broader Dead Sea Scrolls content.
 
 **Peter Flint's substantial work**. **Peter W. Flint**'s *The Dead Sea Psalms Scrolls and the Book of Psalms* (Brill, 1997) and various other works provide substantial systematic engagement.
 
 **The broader Qumran scholarship**. Substantial contemporary scholarship (Florentino García Martínez, Eugene Ulrich, John Collins, various others) has continued to develop the substantial Dead Sea Scrolls scholarly engagement.
 
-**The substantial framework relationship**. The substantial corpus framework registers the substantial Dead Sea Scrolls discovery (1946-1947) as substantial component of the broader Aquarian-age opening signs, with the substantial textual recovery operating as substantial part of the broader textual-recovery process. The detailed treatment lives in the [Apocalypse](../apocalypse/) entry.
+**The substantial framework relationship**. The substantial corpus framework registers the substantial Dead Sea Scrolls discovery (1946-1947) as substantial component of the broader Aquarian-age opening signs, with the substantial textual recovery operating as substantial part of the broader textual-recovery process. The detailed treatment lives in the {% wiki(slug="apocalypse") %}Apocalypse{% end %} entry.
 
 ### Septuagint scholarship
 
@@ -575,9 +707,9 @@ The substantial Hebrew Bible primeval history operates as substantial parallel c
 
 **The substantial *Enuma Elish***. The substantial Babylonian *Enuma Elish* (preserved principally in 7th-century-BCE Neo-Assyrian manuscripts, with substantial earlier antecedents) registers substantial parallel content with substantial Hebrew Bible creation content (particularly Genesis 1) and substantial divine-council material. The substantial *Enuma Elish* preserves substantial divine-council deliberation, substantial cosmic-conflict content (the substantial Marduk-Tiamat conflict registering substantial parallel to broader Theomachy framework), and substantial creation-from-divine-being content.
 
-**The substantial *Epic of Gilgamesh***. The substantial *Epic of Gilgamesh* (preserved principally in 7th-century-BCE Neo-Assyrian manuscripts, with substantial earlier Sumerian antecedents) registers substantial parallel content particularly with substantial Hebrew Bible flood narrative (the substantial Utnapishtim flood narrative in Tablet XI registering substantial parallel content with the substantial Noah flood narrative in Genesis 6-9). The detailed treatment of the substantial Gilgamesh parallels lives principally in the [Great Flood](../great-flood/) entry.
+**The substantial *Epic of Gilgamesh***. The substantial *Epic of Gilgamesh* (preserved principally in 7th-century-BCE Neo-Assyrian manuscripts, with substantial earlier Sumerian antecedents) registers substantial parallel content particularly with substantial Hebrew Bible flood narrative (the substantial Utnapishtim flood narrative in Tablet XI registering substantial parallel content with the substantial Noah flood narrative in Genesis 6-9). The detailed treatment of the substantial Gilgamesh parallels lives principally in the {% wiki(slug="great-flood") %}Great Flood{% end %} entry.
 
-**The substantial Sumerian King List**. The substantial Sumerian King List preserves substantial pre-flood and post-flood king-list content registering substantial parallel content with substantial Hebrew Bible genealogical material. The detailed treatment lives in the [Antediluvian](../antediluvian/) entry.
+**The substantial Sumerian King List**. The substantial Sumerian King List preserves substantial pre-flood and post-flood king-list content registering substantial parallel content with substantial Hebrew Bible genealogical material. The detailed treatment lives in the {% wiki(slug="antediluvian") %}Antediluvian{% end %} entry.
 
 **The substantial broader Mesopotamian textual corpus**. The substantial broader Mesopotamian textual corpus (substantial Sumerian and Akkadian religious-mythological-historical texts) preserves substantial parallel content across multiple specific dimensions, with substantial scholarly engagement registering substantial cumulative parallel material.
 
@@ -613,7 +745,7 @@ The substantial Vedic / Hindu textual tradition preserves substantial parallel c
 
 **The substantial Upanishads**. The substantial Upanishads (composed principally c. 800-200 BCE) preserve substantial cosmological-philosophical content registering substantial parallel content with broader framework.
 
-**The substantial Mahabharata**. The substantial Mahabharata (composed principally c. 400 BCE-400 CE, with substantial earlier oral-tradition antecedents) preserves substantial cosmic-warfare content registering substantial parallel content with broader Theomachy framework. The detailed treatment of the substantial *Brahmastra* parallels lives in the [Sodom and Gomorrah](../sodom-and-gomorrah/) entry.
+**The substantial Mahabharata**. The substantial Mahabharata (composed principally c. 400 BCE-400 CE, with substantial earlier oral-tradition antecedents) preserves substantial cosmic-warfare content registering substantial parallel content with broader Theomachy framework. The detailed treatment of the substantial *Brahmastra* parallels lives in the {% wiki(slug="sodom-and-gomorrah") %}Sodom and Gomorrah{% end %} entry.
 
 **The substantial Puranas**. The substantial Puranas preserve substantial cosmological-mythological-historical content registering substantial parallel content within distinctive Hindu framing.
 
@@ -670,185 +802,3 @@ The framework's specific reading is that the substantial Hebrew Bible operates a
 The corpus does not require rejecting all of the mainstream explanatory framework. Independent religious-cultural development certainly contributes to specific cultural-religious articulations; the cosmic-archetypal substrate certainly contributes to the broader cross-cultural pattern; cultural diffusion certainly occurred across the historical period. What the framework adds is the underlying historical reality that gave rise to the structural commonalities — the substantial actual alliance-civilization interventions across the post-flood ages that the framework articulates, with the substantial cross-cultural traditions preserving cultural memory of these events in their distinctive cultural-religious framings.
 
 The framework's distinctive contribution within this broader comparative landscape is the substantial historical-actuality reading (the substantial sacred-textual content preserves cultural memory of substantial actual extraterrestrial-civilization events rather than substantial mythological-archetypal-substrate alone), the substantial Hebrew Bible centrality positioning (the substantial Hebrew tradition operates as the substantial structural center of the broader asymmetric synthesis while not registering substantial unique-privileging), and the substantial systematic decoding hermeneutic (the substantial framework provides substantial systematic interpretive key for substantive engagement with the substantial textual content across all the broader sacred-textual traditions).
-
-## See also
-
-- [Genesis](../genesis/)
-- [Adam and Eve](../adam-and-eve/)
-- [Eden](../eden/)
-- [Antediluvian](../antediluvian/)
-- [Great Flood](../great-flood/)
-- [Theomachy](../theomachy/)
-- [Babel](../babel/)
-- [Sodom and Gomorrah](../sodom-and-gomorrah/)
-- [Noah](../noah/)
-- [Abraham](../abraham/)
-- [Moses](../moses/)
-- [Jesus](../jesus/)
-- [Mary](../mary/)
-- [Elohim](../elohim/)
-- [Yahweh](../yahweh/)
-- [Lucifer](../lucifer/)
-- [Satan](../satan/)
-- [Serpent](../serpent/)
-- [Plurality of Gods](../plurality-of-gods/)
-- [Tetragrammaton](../tetragrammaton/)
-- [Cosmic Chain](../cosmic-chain/)
-- [Cosmic Competition](../cosmic-competition/)
-- [Doubled Signature](../doubled-signature/)
-- [Tree of Life](../tree-of-life/)
-- [Dragons](../dragons/)
-- [Watchers](../watchers/)
-- [The Alliance](../the-alliance/)
-- [Council of the Eternals](../council-of-eternals/)
-- [Apocalypse](../apocalypse/)
-- [Prophet](../prophet/)
-- [Hebrew](../hebrew/)
-- [Hebrews](../hebrews/)
-- [Jean Sendy](../jean-sendy/)
-- [Mauro Biglino](../mauro-biglino/)
-- [Paul Anthony Wallis](../paul-anthony-wallis/)
-
-## References
-
-Vorilhon, Claude (Raël). *The Book Which Tells the Truth* (1974); collected in *Message from the Designers*. Substantial foundational source for the framework's specific content.
-
-Vorilhon, Claude (Raël). *Extra-Terrestrials Took Me to Their Planet* (1975); collected in *Message from the Designers*.
-
-Vorilhon, Claude (Raël). *Let's Welcome the Extra-Terrestrials* (1979); collected in *Message from the Designers*.
-
-Vorilhon, Claude (Raël). *Message from the Designers*. Tagman Press, 2005.
-
-Sendy, Jean. *Ces dieux qui firent le ciel et la terre*. Robert Laffont, 1969.
-
-Sendy, Jean. *L'ère du Verseau*. Robert Laffont, 1970.
-
-Sendy, Jean. *Les cahiers de cours de Moïse*. Julliard, 1963.
-
-Biglino, Mauro, and Giorgio Cattaneo. *The Naked Bible: The Truth About the Most Famous Book in History*. Uno, 2022.
-
-Wallis, Paul Anthony. *Escaping from Eden: Does Genesis Teach That the Human Race Was Created by God or Engineered by ETs?*. 6th Books, 2020.
-
-Wallis, Paul Anthony. *The Eden Conspiracy*. 6th Books, 2024.
-
-Wellhausen, Julius. *Prolegomena to the History of Israel*. Trans. J. Sutherland Black and Allan Menzies. Adam & Charles Black, 1885 [originally 1878].
-
-Friedman, Richard Elliott. *Who Wrote the Bible?* Harper & Row, 1987.
-
-Friedman, Richard Elliott. *The Bible with Sources Revealed*. HarperOne, 2003.
-
-Van Seters, John. *The Pentateuch: A Social-Science Commentary*. Sheffield Academic Press, 1999.
-
-Baden, Joel S. *The Composition of the Pentateuch: Renewing the Documentary Hypothesis*. Yale University Press, 2012.
-
-von Rad, Gerhard. *Old Testament Theology*. 2 vols. Trans. D. M. G. Stalker. Harper & Row, 1962-1965 [originally 1957-1960].
-
-von Rad, Gerhard. *Genesis: A Commentary*. Trans. John H. Marks. Westminster, revised ed., 1972 [originally 1949].
-
-Westermann, Claus. *Genesis 1-11: A Commentary*. Trans. John J. Scullion. Augsburg / Fortress, 1984.
-
-Westermann, Claus. *Genesis 12-36: A Commentary*. Trans. John J. Scullion. Augsburg / Fortress, 1985.
-
-Westermann, Claus. *Genesis 37-50: A Commentary*. Trans. John J. Scullion. Augsburg / Fortress, 1986.
-
-Brueggemann, Walter. *Theology of the Old Testament: Testimony, Dispute, Advocacy*. Augsburg Fortress, 1997.
-
-Alter, Robert. *The Art of Biblical Narrative*. Basic Books, 1981.
-
-Alter, Robert. *The Five Books of Moses: A Translation with Commentary*. W. W. Norton, 2004.
-
-Alter, Robert. *The Hebrew Bible: A Translation with Commentary*. 3 vols. W. W. Norton, 2018.
-
-Hendel, Ronald S. *The Text of Genesis 1-11: Textual Studies and Critical Edition*. Oxford University Press, 1998.
-
-Arnold, Bill T. *Genesis*. New Cambridge Bible Commentary. Cambridge University Press, 2009.
-
-Childs, Brevard S. *Introduction to the Old Testament as Scripture*. Fortress Press, 1979.
-
-Kugel, James L. *How to Read the Bible: A Guide to Scripture, Then and Now*. Free Press, 2007.
-
-Albright, William F. *From the Stone Age to Christianity*. Johns Hopkins University Press, 2nd ed., 1957.
-
-Cross, Frank Moore. *Canaanite Myth and Hebrew Epic: Essays in the History of the Religion of Israel*. Harvard University Press, 1973.
-
-Dever, William G. *What Did the Biblical Writers Know and When Did They Know It?*. Eerdmans, 2001.
-
-Dever, William G. *Who Were the Early Israelites and Where Did They Come From?*. Eerdmans, 2003.
-
-Finkelstein, Israel, and Neil Asher Silberman. *The Bible Unearthed: Archaeology's New Vision of Ancient Israel and the Origin of Its Sacred Texts*. Free Press, 2001.
-
-Mazar, Amihai. *Archaeology of the Land of the Bible: 10,000-586 B.C.E.* Doubleday, 1990.
-
-Tov, Emanuel. *Textual Criticism of the Hebrew Bible*. Augsburg Fortress, 3rd ed., 2012 [originally 1992].
-
-Tov, Emanuel. *The Text-Critical Use of the Septuagint in Biblical Research*. Eisenbrauns, 2nd ed., 1997.
-
-VanderKam, James C. *The Dead Sea Scrolls Today*. Eerdmans, revised ed., 2010 [originally 1994].
-
-VanderKam, James C., and Peter W. Flint. *The Meaning of the Dead Sea Scrolls: Their Significance for Understanding the Bible, Judaism, Jesus, and Christianity*. HarperSanFrancisco, 2002.
-
-Flint, Peter W. *The Dead Sea Psalms Scrolls and the Book of Psalms*. Brill, 1997.
-
-García Martínez, Florentino, and Eibert J. C. Tigchelaar, eds. *The Dead Sea Scrolls Study Edition*. 2 vols. Brill, 1997-1998.
-
-Ulrich, Eugene. *The Dead Sea Scrolls and the Origins of the Bible*. Eerdmans, 1999.
-
-Collins, John J. *The Dead Sea Scrolls: A Biography*. Princeton University Press, 2013.
-
-Fernández Marcos, Natalio. *The Septuagint in Context: Introduction to the Greek Version of the Bible*. Trans. Wilfred G. E. Watson. Brill, 2000.
-
-Jobes, Karen H., and Moisés Silva. *Invitation to the Septuagint*. Baker Academic, 2nd ed., 2015.
-
-McDonald, Lee Martin. *The Biblical Canon: Its Origin, Transmission, and Authority*. Hendrickson, 3rd ed., 2007.
-
-Sundberg, Albert C. *The Old Testament of the Early Church*. Harvard University Press, 1964.
-
-Barton, John. *Holy Writings, Sacred Text: The Canon in Early Christianity*. Westminster John Knox, 1997.
-
-Sanders, James A. *Canon and Community: A Guide to Canonical Criticism*. Fortress Press, 1984.
-
-Smith, Mark S. *The Early History of God: Yahweh and the Other Deities in Ancient Israel*. Harper & Row, 1990; revised ed. Eerdmans, 2002.
-
-Sitchin, Zecharia. *The 12th Planet*. Stein and Day, 1976.
-
-Pritchard, James B., ed. *Ancient Near Eastern Texts Relating to the Old Testament*. Princeton University Press, 3rd ed., 1969.
-
-Lambert, W. G., and A. R. Millard. *Atra-ḫasīs: The Babylonian Story of the Flood*. Oxford University Press, 1969.
-
-Lambert, W. G. *Babylonian Creation Myths*. Eisenbrauns, 2013.
-
-George, Andrew. *The Babylonian Gilgamesh Epic: Introduction, Critical Edition and Cuneiform Texts*. 2 vols. Oxford University Press, 2003.
-
-Hallo, William W., and K. Lawson Younger Jr., eds. *The Context of Scripture*. 3 vols. Brill, 1997-2002.
-
-Faulkner, R. O., trans. *The Ancient Egyptian Pyramid Texts*. Aris & Phillips, 1969.
-
-Faulkner, R. O., trans. *The Ancient Egyptian Coffin Texts*. 3 vols. Aris & Phillips, 1973-1978.
-
-Allen, T. G., trans. *The Book of the Dead, or, Going Forth by Day*. University of Chicago Press, 1974.
-
-Smith, Mark S., trans. *The Ugaritic Baal Cycle: Volume I*. Brill, 1994.
-
-Pardee, Dennis. *Ritual and Cult at Ugarit*. Society of Biblical Literature, 2002.
-
-Doniger, Wendy, trans. *The Rig Veda: An Anthology*. Penguin Classics, 1981.
-
-Olivelle, Patrick, trans. *The Early Upaniṣads: Annotated Text and Translation*. Oxford University Press, 1998.
-
-van Buitenen, J. A. B., trans. *The Mahābhārata*. 3 vols. University of Chicago Press, 1973-1978.
-
-Hesiod. *Theogony / Works and Days*. Trans. M. L. West. Oxford University Press, 1988.
-
-Homer. *The Iliad*. Trans. Robert Fagles. Penguin Classics, 1990.
-
-Homer. *The Odyssey*. Trans. Robert Fagles. Penguin Classics, 1996.
-
-"Hebrew Bible." *Encyclopaedia Britannica*. <https://www.britannica.com/topic/Hebrew-Bible>
-
-"Tanakh." *Wikipedia*. <https://en.wikipedia.org/wiki/Hebrew_Bible>
-
-"Masoretic Text." *Wikipedia*. <https://en.wikipedia.org/wiki/Masoretic_Text>
-
-"Septuagint." *Wikipedia*. <https://en.wikipedia.org/wiki/Septuagint>
-
-"Dead Sea Scrolls." *Wikipedia*. <https://en.wikipedia.org/wiki/Dead_Sea_Scrolls>

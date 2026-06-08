@@ -9,10 +9,40 @@ toc = true
 category = "Events & Narratives"
 editorial_pass = "2026-05"
 entry_type = "event"
+claim_type = "inferred"
 alternative_names = ["the Great Deluge", "the Flood", "the Mabbul", "the Deluge", "ha-mabbul", "הַמַּבּוּל", "the Noahic Flood"]
 timeline = ["gemini"]
 
-[extra.infobox]
+see_also = [
+    { title = "Noah", path = "/wiki/noah/", description = "The human survivor and patriarch through whom the post-Flood lineage continues." },
+    { title = "Noah's Ark", path = "/wiki/noahs-ark/", description = "The orbital vessel that preserved Noah's family and the genetic representatives." },
+    { title = "Noahic Covenant", path = "/wiki/noahic-covenant/", description = "The post-Flood political settlement constituted by the rainbow signature." },
+    { title = "The Alliance", path = "/wiki/the-alliance/", description = "The political arrangement founded by the Noahic covenant." },
+    { title = "Lucifer", path = "/wiki/lucifer/", description = "The faction whose intervention preserved Noah through the ark operation." },
+    { title = "Yahweh", path = "/wiki/yahweh/", description = "The Council leader on whose post-Flood vote the never-again commitment rests." },
+    { title = "Council of the Eternals", path = "/wiki/council-of-eternals/", description = "The home-world political body that authorised the strike." },
+    { title = "Antediluvian", path = "/wiki/antediluvian/", description = "The pre-Flood civilisational period that the strike ended." },
+    { title = "Pangaea", path = "/wiki/pangaea/", description = "The supercontinent whose fragmentation the strike produced." },
+    { title = "Eden", path = "/wiki/eden/", description = "The originary alliance laboratory whose lineage the antediluvian civilisation extended." },
+    { title = "Hebrew Bible", path = "/wiki/hebrew-bible/", description = "The principal scriptural source for the Flood narrative." },
+    { title = "Genesis", path = "/wiki/genesis/", description = "The biblical book containing the Flood account (Genesis 6-9)." },
+    { title = "Atra-ḫasīs", path = "/wiki/atra-hasis/", description = "The Babylonian flood narrative closely parallel to the Hebrew account." },
+    { title = "Epic of Gilgamesh", path = "/wiki/epic-of-gilgamesh/", description = "The Mesopotamian flood account in tablet XI." },
+    { title = "Sodom and Gomorrah", path = "/wiki/sodom-and-gomorrah/", description = "A later analogous strike event whose mechanism is structurally similar." },
+    { title = "Babel", path = "/wiki/babel/", description = "The post-Flood civilisational dispersal episode." },
+    { title = "Doubled Signature", path = "/wiki/doubled-signature/", description = "The corpus principle by which the global flood-tradition preserves underlying historical memory." },
+    { title = "Theomachy", path = "/wiki/theomachy/", description = "The broader cosmic-political-conflict framework within which the strike operates." },
+]
+
+footnotes = [
+    { content = "The Hebrew *mabbul* (מַבּוּל) is a hapax-style biblical term used principally in the Genesis 6-9 flood narrative and a small handful of derivative texts (Psalm 29:10). The term is not the ordinary Hebrew word for *flood* (which is *zerem* or *sheteph*) but a specific designation for *the* flood event — the *catastrophic-cosmic* flood rather than ordinary inundation. The etymological connection to Akkadian *abubu* (the flood) and ultimately to Sumerian *a-ma-ru* (great flood) is widely accepted in mainstream Assyriology and indicates substantial linguistic-cultural continuity between the Hebrew and Mesopotamian flood traditions." },
+    { content = "The framework's reading of the Flood as a nuclear-weapons strike from the home-world Council operates on the source-textual articulation in *The Book Which Tells the Truth* (Vorilhon 1974). The Genesis 7:11 imagery — *the fountains of the great deep were broken up, and the windows of heaven were opened* — is read as a description of cosmic-mechanical effects produced by high-energy weapons rather than as supernatural-meteorological metaphor. The subsequent 150-day waiting period (Genesis 7:24) corresponds to the residual fallout-decay timeline before safe disembarkation; the ark's design as a *sealed* vessel (Genesis 6:14, *kopher*, 'pitch/sealing') corresponds to radiation shielding rather than ordinary waterproofing." },
+    { content = "The continental-fragmentation reading is the framework's strongest departure from mainstream geology. Conventional geology dates the Pangaean breakup to approximately 175 million years ago, with continental drift unfolding via mantle convection across hundreds of millions of years. The corpus reads the breakup as a catastrophic c. 6,690 BCE event, with observed continental drift since then as the residual momentum. The conflict with mainstream radiometric dating, paleomagnetic stratigraphy, and seafloor-spreading measurements is substantial and is treated openly in the Pangaea entry. The corpus's reading depends on the source-textual material's specific articulation of the Flood as a single catastrophic event with continental-scale geological consequences." },
+    { content = "The 200+ parallel flood traditions across world cultures — Mesopotamian Atrahasis and Gilgamesh, Greek Deucalion, Hindu Manu, Chinese Gun-Yu, Mesoamerican Popol Vuh, Polynesian Tangaloa, etc. — are widely documented in comparative-mythology scholarship (Dundes 1988; Bierlein 1994). Mainstream comparative religion treats the convergence variously as evidence of shared archetypal structure, cultural diffusion from Mesopotamian sources, or independent response to local catastrophic events. The corpus reads the convergence as evidence of a single underlying historical event whose memory was preserved across the various human populations descended from the seven antediluvian creator-team lineages, with the variation in details reflecting post-Flood transmission across approximately eight millennia and substantial cultural-linguistic divergence." },
+    { content = "Specific contemporary scientific evidence consistent with a c. 7,000-BCE catastrophic event is mixed and contested. The Younger Dryas cosmic-impact hypothesis (Firestone et al. 2007; Bunch et al. 2021 for Tall el-Hammam) proposes substantial extraterrestrial-impact events in the late Pleistocene and Middle Bronze Age that produced regional catastrophic effects. The Ryan-Pitman Black Sea flood hypothesis (1998) proposes a c. 5,600 BCE catastrophic flooding of the Black Sea basin from Mediterranean sea-level rise. None of these proposals reaches the corpus's continental-fragmentation reading, but the Younger Dryas and Black Sea hypotheses establish that mainstream paleoscience does recognise substantial catastrophic events in the period the corpus identifies." },
+    { content = "The ark's animal-pair preservation (Genesis 6:19-20; 7:2-3) is read on the framework's reading as genetic-sample preservation rather than literal animal-loading. The seven-pair distinction for clean animals vs. one pair for unclean animals (Genesis 7:2-3) is read as reflecting reproductive-population-genetics considerations — the larger founder population required for the species marked for sacrificial use post-Flood. The dove and raven released from the ark (Genesis 8:6-12) are read as biological-reconnaissance instruments for post-strike environmental assessment, with the olive-branch return signalling sufficient radiological and ecological recovery for disembarkation." },
+]
+
 hebrew_name = "הַמַּבּוּל (ha-mabbul)"
 greek_name = "ὁ κατακλυσμός (ho kataklysmos, in the Septuagint)"
 latin_name = "Diluvium"
@@ -30,11 +60,93 @@ geological_consequence = "Fragmentation of the Pangaean supercontinent into the 
 political_consequence = "Foundation of the Alliance through the Noahic covenant; long-term political reorientation of the post-Flood human-Eloha relationship"
 principal_text = "Genesis 6:1–9:17"
 principal_framework_source = "*The Book Which Tells the Truth* (Vorilhon/Raël, 1974), chapter 2"
+
+[[extra.references]]
+id = "the-book-which-tells-the-truth"
+note = "Vorilhon (Raël, 1974), chapter 2; the principal Raëlian source for the framework's reading of the Flood as a deliberate home-world strike."
+
+[[extra.references]]
+id = "intelligent-design-message-from-the-designers"
+note = "Collected canonical edition of the three Raëlian source-material books, including the Flood material."
+
+[[extra.references]]
+id = "sendy-ces-dieux"
+note = "Sendy (1969); foundational French articulation of the alliance reading; principal scholarly antecedent."
+
+[[extra.references]]
+id = "sendy-lune-cle-bible"
+note = "Sendy (1968); the lunar-astronomical reading of biblical chronology, including Flood-period chronological context."
+
+[[extra.references]]
+id = "the-naked-bible"
+note = "Biglino & Cattaneo (2022); strict-literal Hebrew translation of Genesis 6-9 including the technical flood vocabulary."
+
+[[extra.references]]
+id = "wallis-eden-conspiracy"
+note = "Wallis (2024); contemporary articulation of the engineered-civilisational reading with substantial post-Flood-political content."
+
+[[extra.references]]
+id = "sarna-genesis-jps"
+note = "Sarna (1989); JPS Torah Commentary on Genesis 6-9; principal contemporary Jewish-scholarly treatment of the Flood narrative."
+
+[[extra.references]]
+id = "westermann-genesis-1-11"
+note = "Westermann (1994); continental commentary on Genesis 1-11; foundational critical commentary on the Flood pericope."
+
+[[extra.references]]
+id = "atra-hasis-lambert-millard"
+note = "Lambert & Millard (1969); critical edition of the Babylonian flood narrative; closest ancient Near Eastern parallel."
+
+[[extra.references]]
+id = "george-gilgamesh"
+note = "George (1999); accessible English edition of the Gilgamesh epic including tablet XI flood narrative."
+
+[[extra.references]]
+id = "foster-before-muses"
+note = "Foster (2005); anthology of Akkadian literature including the principal Mesopotamian flood corpus."
+
+[[extra.references]]
+id = "heidel-gilgamesh-ot"
+note = "Heidel (1949); foundational comparative articulation of the Gilgamesh-Genesis parallel structure."
+
+[[extra.references]]
+id = "ryan-pitman-noahs-flood"
+note = "Ryan & Pitman (1998); Black Sea flood hypothesis as historical anchor for the great-flood traditions."
+
+[[extra.references]]
+id = "bunch-tall-el-hammam"
+note = "Bunch et al. (2021); Scientific Reports article on the Tall el-Hammam Tunguska-sized airburst event."
+
+[[extra.references]]
+id = "firestone-younger-dryas"
+note = "Firestone et al. (2007); PNAS article on the Younger Dryas cosmic-impact hypothesis."
+
+[[extra.references]]
+id = "doniger-hindu-myths"
+note = "Doniger (1975); Hindu mythological sourcebook including the Manu flood tradition."
+
+[[extra.references]]
+id = "kramer-enki-myths"
+note = "Kramer & Maier (1989); Sumerian Enki corpus including the Ziusudra flood account, the earliest extant Mesopotamian version."
+
+[[extra.references]]
+id = "boyce-zoroastrians"
+note = "Boyce (rev. ed. 2001); the Persian Vara-of-Yima tradition closely parallel to the ark-preservation pattern."
+
+[[extra.references]]
+id = "sitchin-12th-planet"
+note = "Sitchin (1976); the ancient-astronaut reading of Mesopotamian-biblical flood material; principal popular anchor."
+
+[[extra.references]]
+id = "genesis"
+locator = "Genesis 6:1-9:17"
+note = "The principal scriptural source for the Flood narrative; primary reading focus across the entry."
+
 +++
 
-The **Great Flood** (Hebrew: <span class="hebrew">הַמַּבּוּל</span>, *ha-mabbul*; Greek: *ho kataklysmos*; Latin: *Diluvium*) is the catastrophic global event recorded in Genesis 6–9 and across more than two hundred parallel cultural traditions worldwide. The biblical account narrates the destruction of the pre-Flood human civilization by waters that covered the entire earth for a duration of approximately one year, with Noah and his family preserved through divine intervention in the ark — a wooden vessel built to specific divine instructions — along with representative pairs of all animal species. The Flood concludes with the ark's landing on the mountains of Ararat, Noah's release of the dove that returns with an olive branch, the disembarkation, and the establishment of the Noahic covenant signified by the rainbow. The narrative is among the most theologically and culturally consequential in the Hebrew Bible, providing the foundational frame for the broader biblical narrative of divine judgment and renewal.
+The **Great Flood** (Hebrew: <span class="hebrew">הַמַּבּוּל</span>, *ha-mabbul*{{ footnote(id="1") }}; Greek: *ho kataklysmos*; Latin: *Diluvium*) is the catastrophic global event recorded in Genesis 6–9 and across more than two hundred parallel cultural traditions worldwide{{ footnote(id="4") }}. The biblical account narrates the destruction of the pre-Flood human civilization by waters that covered the entire earth for a duration of approximately one year, with Noah and his family preserved through divine intervention in the ark — a wooden vessel built to specific divine instructions — along with representative pairs of all animal species. The Flood concludes with the ark's landing on the mountains of Ararat, Noah's release of the dove that returns with an olive branch, the disembarkation, and the establishment of the Noahic covenant signified by the rainbow. The narrative is among the most theologically and culturally consequential in the Hebrew Bible, providing the foundational frame for the broader biblical narrative of divine judgment and renewal.
 
-On the reading developed in the Raëlian source material and adopted by the Wheel of Heaven corpus, the Great Flood is read as a specific historical event with substantively different operational content than the conventional reading allows. The Flood occurred at the opening of the Age of Gemini (c. 6,690 BCE on the corpus's reckoning), at the end of the antediluvian period during which the broader Eden civilization had developed under the continuing teaching of the exiled Lucifer-faction creators. The home-world Council of the Elohim civilization, having concluded that the antediluvian civilization's technological development had passed the point where the original political settlement could be sustained, ordered the destruction of all life on Earth. The order was executed through nuclear weapons impacts directed at the central zones of the supercontinent — impacts powerful enough to produce both the immediate catastrophic effects (continent-scale tidal waves, atmospheric and seismic disruption, mass extinction of large terrestrial organisms) and the longer-term geological consequence of fragmenting the Pangaean supercontinent into the drifting continental configuration that has structured subsequent geological history. The exiled Lucifer faction, anticipating the Council's action, conducted a counter-preparation: the construction of an orbital spacecraft (the ark) capable of preserving genetic material from the threatened biosphere through the catastrophic event, with Noah and his family serving as the human crew that would accompany the genetic cargo through the orbital period and supervise the post-Flood reseeding operation.
+On the reading developed in the Raëlian source material{{ cite(id="the-book-which-tells-the-truth", text="[1]", title="Vorilhon (Raël), *The Book Which Tells the Truth* (1974), chapter 2 — principal Raëlian source for the framework's reading of the Flood as a deliberate Council strike") }} and adopted by the Wheel of Heaven corpus, the Great Flood is read as a specific historical event with substantively different operational content than the conventional reading allows. The Flood occurred at the opening of the Age of Gemini (c. 6,690 BCE on the corpus's reckoning), at the end of the antediluvian period during which the broader Eden civilization had developed under the continuing teaching of the exiled Lucifer-faction creators. The home-world Council of the Elohim civilization, having concluded that the antediluvian civilization's technological development had passed the point where the original political settlement could be sustained, ordered the destruction of all life on Earth. The order was executed through nuclear weapons impacts directed at the central zones of the supercontinent{{ footnote(id="2") }} — impacts powerful enough to produce both the immediate catastrophic effects (continent-scale tidal waves, atmospheric and seismic disruption, mass extinction of large terrestrial organisms) and the longer-term geological consequence of fragmenting the Pangaean supercontinent into the drifting continental configuration that has structured subsequent geological history{{ footnote(id="3") }}. The exiled Lucifer faction, anticipating the Council's action, conducted a counter-preparation: the construction of an orbital spacecraft (the ark) capable of preserving genetic material from the threatened biosphere through the catastrophic event, with Noah and his family serving as the human crew that would accompany the genetic cargo through the orbital period and supervise the post-Flood reseeding operation.
 
 The reading is contested. Within mainstream historical-critical biblical scholarship, the Genesis flood narrative is read as a composite of two source documents (J and P, on the documentary hypothesis) reflecting Israelite religious development across the first millennium BCE, with substantial textual dependence on the older Mesopotamian flood traditions (the *Atra-ḫasīs* epic, the *Epic of Gilgamesh*, the Sumerian *Eridu Genesis*). Within mainstream geology and paleontology, no event matching the corpus's framework has been identified in the Holocene; the continental drift question is read through the standard plate-tectonic framework that places Pangaean breakup approximately 175 million years ago. Within Christian theological tradition, the Flood is read variously as a historical event with theological-typological significance (the conservative position), as theological-mythological narrative reflecting moral-religious truths (the liberal position), or as primarily prefigurative of New Testament events (the typological position). Within the contemporary catastrophist research tradition (Carlson, Bunch et al., the broader Younger-Dryas-impact-hypothesis literature), various positions advocate for substantial recent catastrophic events that mainstream geology has typically attributed to gradual processes, with substantial implications for how the Holocene should be reconstructed. The corpus's reading is structurally distinctive: it accepts the global recurrence of flood traditions as evidence of a genuine global event (against mainstream comparative-mythology scholarship's diffusionist account), accepts the catastrophist tradition's broader argument while specifying a particular mechanism (deliberate Council military strike) that the mainstream catastrophist literature does not propose, and reads the underlying narrative as preserving substantially accurate operational content rather than as theological-mythological construction.
 
@@ -84,17 +196,17 @@ In the six hundredth year of Noah's life, in the second month, on the seventeent
 
 The Genesis flood narrative occupies four chapters of the Hebrew Bible's opening book and contains substantial textual complexity. The principal narrative elements:
 
-**Genesis 6:1–4** introduces the *benei ha-Elohim* episode — the "sons of Elohim" who took human women as wives and produced the Nephilim hybrid offspring. The corpus reads this passage as recording the operational context that produced the home-world Council's eventual decision to intervene (treated more fully in the [Sons of Elohim](../sons-of-elohim/) and [Nephilim](../nephilim/) entries).
+**Genesis 6:1–4** introduces the *benei ha-Elohim* episode — the "sons of Elohim" who took human women as wives and produced the Nephilim hybrid offspring. The corpus reads this passage as recording the operational context that produced the home-world Council's eventual decision to intervene (treated more fully in the {% wiki(slug="sons-of-elohim") %}Sons of Elohim{% end %} and {% wiki(slug="nephilim") %}Nephilim{% end %} entries).
 
 **Genesis 6:5–13** records the divine assessment of the pre-Flood human civilization: *"Yahweh saw that the wickedness of humanity was great in the earth, and that every imagination of the thoughts of his heart was only evil continually."* The corpus reads "wickedness" (*raʿat*) here not in the conventional moral-theological sense but as referring to the antediluvian civilization's accelerating technological development that the home-world Council judged threatening — the framework's specific reading is that the "evil" was the human desire to progress scientifically toward the level of their creators.
 
-**Genesis 6:14–22** records the divine instructions for the ark: the dimensions (300 cubits long, 50 cubits wide, 30 cubits high), the materials (gopher wood with pitch sealant), the structural features (three stories, a door in the side, a window), and the instructions for the cargo (Noah and his family, plus pairs of every kind of animal). The corpus reads these specifications as the technical requirements transmitted by the exiled Lucifer-faction creators to Noah for the construction of the orbital spacecraft.
+**Genesis 6:14–22** records the divine instructions for the ark: the dimensions (300 cubits long, 50 cubits wide, 30 cubits high), the materials (gopher wood with pitch sealant), the structural features (three stories, a door in the side, a window), and the instructions for the cargo (Noah and his family, plus pairs of every kind of animal){{ footnote(id="6") }}. The corpus reads these specifications as the technical requirements transmitted by the exiled Lucifer-faction creators to Noah for the construction of the orbital spacecraft.
 
 **Genesis 7:1–24** records the events of the Flood itself: the entry of Noah and the animals into the ark, the onset of the flood ("the fountains of the great deep burst forth, and the windows of the heavens were opened"), the duration of the rain (forty days and forty nights), the rising of the waters above the mountains, and the duration of the waters' prevalence (150 days). The corpus reads this material as the human witnesses' specific account of the catastrophic event, with the surface narrative covering substantively different operational content than the conventional reading allows.
 
 **Genesis 8:1–22** records the Flood's recession and Noah's disembarkation: the ark coming to rest on Ararat, the receding of the waters, Noah's release of the raven and the dove, the eventual emergence onto dry land, and Noah's burnt offering at the altar.
 
-**Genesis 9:1–17** records the post-Flood arrangements: the divine blessing of Noah's family, the dietary provisions, the prohibition on bloodshed, and the Noahic covenant with its rainbow sign. The corpus reads this material as the operational record of the Alliance's founding moment (treated more fully in the [The Alliance](../the-alliance/) entry).
+**Genesis 9:1–17** records the post-Flood arrangements: the divine blessing of Noah's family, the dietary provisions, the prohibition on bloodshed, and the Noahic covenant with its rainbow sign. The corpus reads this material as the operational record of the Alliance's founding moment (treated more fully in the {% wiki(slug="the-alliance") %}The Alliance{% end %} entry).
 
 ### The textual question: J and P sources
 
@@ -130,7 +242,7 @@ The New Testament references treat the Flood as a historical event with typologi
 
 The Mesopotamian flood narratives substantially predate the Hebrew Bible's Genesis material and provide direct textual parallels that mainstream scholarship has documented since George Smith's 1872 rediscovery of the Babylonian flood narrative. The principal Mesopotamian texts:
 
-**The *Atra-ḫasīs* epic** (c. 18th century BCE in its preserved form, with possible earlier oral antecedents) records the flood narrative within a broader Mesopotamian theological framework. The principal narrative elements:
+**The *Atra-ḫasīs* epic**{{ cite(id="atra-hasis-lambert-millard", text="[2]", title="Lambert & Millard (1969), *Atra-ḫasīs: The Babylonian Story of the Flood* — critical edition and translation") }} (c. 18th century BCE in its preserved form, with possible earlier oral antecedents) records the flood narrative within a broader Mesopotamian theological framework. The principal narrative elements:
 - The gods create humans to relieve themselves of agricultural labor
 - Human population growth produces noise and disturbance that the gods find intolerable
 - The gods send plagues, droughts, and famines to reduce the human population
@@ -139,7 +251,7 @@ The Mesopotamian flood narratives substantially predate the Hebrew Bible's Genes
 - Atra-ḫasīs builds the vessel and preserves himself, his family, and animals through the flood
 - After the flood, the gods regret the destruction and establish new arrangements with the surviving humans
 
-**The *Epic of Gilgamesh*** preserves the flood narrative in Tablet XI, which records Utnapishtim's account of the flood event to Gilgamesh during the latter's quest for immortality. The Gilgamesh flood narrative is substantially parallel to the *Atra-ḫasīs* account, with Utnapishtim serving as the parallel figure to Atra-ḫasīs and Noah. The specific narrative elements (the divine warning, the construction of the vessel, the duration of the flood, the release of birds to test the conditions) are remarkably parallel to the Genesis narrative.
+**The *Epic of Gilgamesh***{{ cite(id="george-gilgamesh", text="[3]", title="George (1999), The Epic of Gilgamesh — accessible English edition including Tablet XI flood narrative") }} preserves the flood narrative in Tablet XI, which records Utnapishtim's account of the flood event to Gilgamesh during the latter's quest for immortality. The Gilgamesh flood narrative is substantially parallel to the *Atra-ḫasīs* account, with Utnapishtim serving as the parallel figure to Atra-ḫasīs and Noah. The specific narrative elements (the divine warning, the construction of the vessel, the duration of the flood, the release of birds to test the conditions) are remarkably parallel to the Genesis narrative.
 
 **The Sumerian *Eridu Genesis*** preserves the earliest known version of the flood narrative, with Ziusudra ("life of long days") as the parallel figure. The Sumerian account, fragmentary in its preserved form, records substantially the same narrative elements as the later Akkadian and Hebrew traditions.
 
@@ -169,7 +281,7 @@ The Flood event itself, on the framework's reading, has several distinct phases 
 
 **The post-Flood landing and reseeding period**: Months to years following the orbital phase, during which the ark landed (Genesis 8:4 places the landing on the seventeenth day of the seventh month, with the waters drying off the earth across subsequent months), the animals were released, the post-Flood agriculture began, and the broader reseeding operations were conducted.
 
-**The Noahic covenant founding moment**: The specific event at the post-Flood altar where the formal Alliance between the exiled creators and the human survivors was established. This is treated extensively in the [The Alliance](../the-alliance/) entry.
+**The Noahic covenant founding moment**: The specific event at the post-Flood altar where the formal Alliance between the exiled creators and the human survivors was established. This is treated extensively in the {% wiki(slug="the-alliance") %}The Alliance{% end %} entry.
 
 The total duration from the catastrophic phase through the establishment of viable post-Flood conditions was, on the framework's reading, on the order of a year — substantially consistent with the Genesis narrative's specific chronological notations.
 
@@ -256,7 +368,7 @@ The post-Flood altar event recorded in Genesis 8:20–9:17 is, on the framework'
 
 **The covenant terms**. Genesis 9:8–17 records the formal terms of the covenant: the creators' commitment never to participate in another destruction of humanity, the rainbow as the visible sign of the covenant. The framework reads these terms as the founding moment of the Alliance's specific bilateral obligations.
 
-**The Alliance founding**. The detailed treatment of the Alliance's founding lives in the [The Alliance](../the-alliance/) entry. For the Great Flood entry, the principal point is that the post-Flood altar event constitutes the operational outcome of the Flood — the establishment of the formal cross-civilizational political body that would structure all subsequent Eloha-human relations.
+**The Alliance founding**. The detailed treatment of the Alliance's founding lives in the {% wiki(slug="the-alliance") %}The Alliance{% end %} entry. For the Great Flood entry, the principal point is that the post-Flood altar event constitutes the operational outcome of the Flood — the establishment of the formal cross-civilizational political body that would structure all subsequent Eloha-human relations.
 
 ## Mechanisms and operational content
 
@@ -341,7 +453,7 @@ The Flood produced one of the most substantial biological events in Earth's hist
 
 The Flood's political consequences were substantial and structured the subsequent post-Flood political development:
 
-**The Alliance founding**. The post-Flood Noahic covenant established the formal Alliance between the exiled creators and the surviving humans, structuring all subsequent Eloha-human relations. The detailed treatment lives in the [The Alliance](../the-alliance/) entry.
+**The Alliance founding**. The post-Flood Noahic covenant established the formal Alliance between the exiled creators and the surviving humans, structuring all subsequent Eloha-human relations. The detailed treatment lives in the {% wiki(slug="the-alliance") %}The Alliance{% end %} entry.
 
 **The Council-Alliance opposition**. The Flood event hardened the political opposition between the home-world Council and the exiled-creator-and-human Alliance, producing the late-Gemini conflict that would culminate in the Tower of Babel intervention and the war in heaven. The Alliance's defiance of the Council's destruction order through the ark operation made the Alliance's position politically explicit in a way that the previous exile had not.
 
@@ -381,7 +493,7 @@ Mainstream geology and paleontology do not recognize any global Flood event in t
 
 **The catastrophist-uniformitarian distinction** has substantially shifted in mainstream geology over the past several decades, with mainstream geology now accepting that catastrophic events (asteroid impacts, volcanic supereruptions, megafloods) play substantial roles in Earth's history alongside the gradual processes that strict uniformitarianism emphasized. However, the catastrophic events that mainstream geology accepts are substantially smaller and earlier than the corpus's Gemini-age event would require.
 
-**Specific recent-catastrophe research** includes the Younger Dryas Impact Hypothesis (proposing a cosmic impact event approximately 12,800 years ago that triggered the Younger Dryas climate shift), the Tall el-Hammam airburst proposal (Bunch et al., 2021, proposing a catastrophic airburst event at the Bronze Age site identified by some scholars with biblical Sodom), and various other catastrophist research programs. These programs propose substantial catastrophic events at scales and dates that earlier mainstream geology did not allow.
+**Specific recent-catastrophe research** includes the Younger Dryas Impact Hypothesis (proposing a cosmic impact event approximately 12,800 years ago that triggered the Younger Dryas climate shift), the Tall el-Hammam airburst proposal (Bunch et al., 2021, proposing a catastrophic airburst event at the Bronze Age site identified by some scholars with biblical Sodom), and various other catastrophist research programs{{ footnote(id="5") }}. These programs propose substantial catastrophic events at scales and dates that earlier mainstream geology did not allow.
 
 The framework's reading is sharply at variance with the mainstream geological position. The corpus does not pretend to have resolved this variance; the corpus's claim is that the framework is at least competitive with the mainstream alternatives at specific empirical points (the petroleum ring distribution, the global flood-tradition pattern, the population-bottleneck genetic signatures) and deserves serious consideration despite the substantial mainstream disagreement.
 
@@ -393,7 +505,7 @@ Several contemporary research programs propose substantial recent catastrophic e
 
 **The Younger Dryas Impact Hypothesis** (Firestone et al., 2007 and successors) proposes that a cosmic impact event approximately 12,800 years ago triggered the Younger Dryas climate shift and contributed to the Pleistocene megafaunal extinction. The hypothesis has been substantially debated in mainstream science, with both supporting and critical research programs continuing to develop. The corpus does not identify the Younger Dryas event with the Gemini-age Flood (the dating is substantially older than the corpus's framework) but registers the Younger Dryas research as evidence that mainstream science is moving toward recognition of substantial recent catastrophic events.
 
-**The Bunch et al. Tall el-Hammam research** (2021) proposes that a catastrophic airburst event destroyed the Bronze Age site at Tall el-Hammam in the Jordan Valley around 1650 BCE. The proposal involves substantial physical evidence (high-temperature melt features, shock-metamorphism signatures, anomalous mineral deposits) that the research team interprets as cosmic-impact debris. The corpus reads the Tall el-Hammam findings as consistent with the Sodom intervention (treated more fully in the [Sodom and Gomorrah](../sodom-and-gomorrah/) entry, when written) rather than with the Gemini-age Flood, but registers the broader research as evidence that events of the type the corpus's framework predicts are now finding substantial physical-evidence support.
+**The Bunch et al. Tall el-Hammam research** (2021) proposes that a catastrophic airburst event destroyed the Bronze Age site at Tall el-Hammam in the Jordan Valley around 1650 BCE. The proposal involves substantial physical evidence (high-temperature melt features, shock-metamorphism signatures, anomalous mineral deposits) that the research team interprets as cosmic-impact debris. The corpus reads the Tall el-Hammam findings as consistent with the Sodom intervention (treated more fully in the {% wiki(slug="sodom-and-gomorrah") %}Sodom and Gomorrah{% end %} entry, when written) rather than with the Gemini-age Flood, but registers the broader research as evidence that events of the type the corpus's framework predicts are now finding substantial physical-evidence support.
 
 **The Black Sea Deluge hypothesis** (Ryan and Pitman, 1998) proposes a catastrophic flooding event in the Black Sea region around 5600 BCE caused by Mediterranean waters breaking through the Bosporus Strait. The hypothesis is supported by sediment evidence showing the transition from freshwater to marine conditions at approximately the proposed date. The corpus reads the Black Sea Deluge as too small and too localized to be the Gemini-age Flood itself but suggests it may be one of the cascade of consequences that followed from the larger event the framework places at this period.
 
@@ -457,7 +569,7 @@ The corpus reads the *Atra-ḫasīs* as preserving substantial fragmentary memor
 
 **The Sumerian *Eridu Genesis*** preserves the earliest known version of the flood narrative, with Ziusudra ("life of long days") as the parallel figure. The Sumerian account, fragmentary in its preserved form, records substantially the same narrative elements as the later Akkadian and Hebrew traditions. The Sumerian King List divides into pre-Flood and post-Flood sections, with the antediluvian kings receiving substantially extended reigns (some recorded reigns exceeding 28,000 years) before the Flood reduces the human lifespans to the more conventional figures of the post-Flood period.
 
-The Mesopotamian flood material is treated more fully in the [Atra-ḫasīs](../atra-hasis/) and [Epic of Gilgamesh](../epic-of-gilgamesh/) entries (when written).
+The Mesopotamian flood material is treated more fully in the {% wiki(slug="atra-hasis") %}Atra-ḫasīs{% end %} and {% wiki(slug="epic-of-gilgamesh") %}Epic of Gilgamesh{% end %} entries (when written).
 
 ### The Greek Deucalion narrative
 
@@ -555,105 +667,3 @@ The corpus's working position on the comparative-flood question is that the glob
 The framework's specific reading is that the global flood-tradition pattern preserves common memory of the actual Gemini-age event, with each culture preserving the memory in its own terms and with its own specific details reflecting its own perspective and its own subsequent transmission history. The Mesopotamian narrative complex preserves the memory most fully because the immediate post-Flood Mesopotamian civilization was geographically closest to the Eden lineage that built the ark and survived the event with the most intact records. Other cultures preserve the memory in more compressed or transformed forms, reflecting the longer transmission distances and the cultural distinctiveness of their traditions.
 
 The corpus does not require rejecting all of the mainstream scholarly framework. Cultural diffusion certainly occurred across the post-Flood ages, and the flood narratives across cultures show both common structural features (preserving the original event) and culturally specific elaborations (reflecting the diffusion and the local development). What the corpus's framework adds is the underlying historical event that gave rise to the structural commonalities — an event that the mainstream framework, lacking the corpus's broader cosmological framework, has had no way to identify and has therefore had to attribute to combinations of local memory and diffusion.
-
-## See also
-
-- [Noah](../noah/)
-- [Noah's Ark](../noahs-ark/)
-- [Noahic Covenant](../noahic-covenant/)
-- [The Alliance](../the-alliance/)
-- [Lucifer](../lucifer/)
-- [Yahweh](../yahweh/)
-- [Council of the Eternals](../council-of-eternals/)
-- [Antediluvian](../antediluvian/)
-- [Pangaea](../pangaea/)
-- [Sons of Elohim](../sons-of-elohim/)
-- [Nephilim](../nephilim/)
-- [Eden](../eden/)
-- [Genesis](../genesis/)
-- [Hebrew Bible](../hebrew-bible/)
-- [Atra-ḫasīs](../atra-hasis/)
-- [Epic of Gilgamesh](../epic-of-gilgamesh/)
-- [Sumerian King List](../sumerian-king-list/)
-- [Tower of Babel](../babel/)
-- [Sodom and Gomorrah](../sodom-and-gomorrah/)
-- [Age of Cancer](../timeline/age-of-cancer/)
-- [Age of Gemini](../timeline/age-of-gemini/)
-- [Documentary Hypothesis](../documentary-hypothesis/)
-- [Jean Sendy](../jean-sendy/)
-- [Mauro Biglino](../mauro-biglino/)
-- [Paul Anthony Wallis](../paul-anthony-wallis/)
-
-## References
-
-Vorilhon, Claude (Raël). *The Book Which Tells the Truth* (1974), chapter 2; collected in *Message from the Designers*.
-
-Sendy, Jean. *Ces dieux qui firent le ciel et la terre*. Robert Laffont, 1969. English: *Those Gods Who Made Heaven and Earth*. Berkley, 1972.
-
-Sendy, Jean. *La lune, clé de la Bible*. Julliard, 1968.
-
-Biglino, Mauro, and Giorgio Cattaneo. *The Naked Bible: The Truth About the Most Famous Book in History*. Uno, 2022.
-
-Wallis, Paul Anthony. *The Eden Conspiracy*. 6th Books, 2024.
-
-*Biblia Hebraica Stuttgartensia*. Deutsche Bibelgesellschaft, 4th rev. ed., 1997.
-
-Sarna, Nahum. *Genesis: The JPS Torah Commentary*. Jewish Publication Society, 1989.
-
-Westermann, Claus. *Genesis 1–11: A Continental Commentary*. Fortress, 1994.
-
-Skinner, John. *A Critical and Exegetical Commentary on Genesis*. International Critical Commentary, T&T Clark, 1910.
-
-von Rad, Gerhard. *Genesis: A Commentary*. Westminster, 1961.
-
-Lambert, W. G., and A. R. Millard. *Atra-ḫasīs: The Babylonian Story of the Flood*. Oxford University Press, 1969.
-
-George, Andrew, ed. and trans. *The Epic of Gilgamesh: The Babylonian Epic Poem and Other Texts in Akkadian and Sumerian*. Penguin Classics, 1999.
-
-Foster, Benjamin R. *Before the Muses: An Anthology of Akkadian Literature*. CDL Press, 3rd ed., 2005.
-
-Heidel, Alexander. *The Gilgamesh Epic and Old Testament Parallels*. University of Chicago Press, 2nd ed., 1949.
-
-Smith, George. *The Chaldean Account of Genesis*. Sampson Low, 1876.
-
-Ryan, William, and Walter Pitman. *Noah's Flood: The New Scientific Discoveries About the Event That Changed History*. Simon & Schuster, 1998.
-
-Bunch, Ted E., et al. "A Tunguska sized airburst destroyed Tall el-Hammam a Middle Bronze Age city in the Jordan Valley near the Dead Sea." *Scientific Reports* 11, 18632 (2021).
-
-Firestone, Richard B., et al. "Evidence for an extraterrestrial impact 12,900 years ago that contributed to the megafaunal extinctions and the Younger Dryas cooling." *Proceedings of the National Academy of Sciences* 104, 16016–16021 (2007).
-
-Carlson, Randall. Various lectures and publications on the Younger Dryas catastrophic event hypothesis.
-
-Wegener, Alfred. *Die Entstehung der Kontinente und Ozeane* (1912). English: *The Origin of Continents and Oceans*. Trans. John Biram. Dover, 1966.
-
-Doniger, Wendy. *Hindu Myths: A Sourcebook*. Penguin Classics, 1975.
-
-Apollodorus. *The Library*. Loeb Classical Library, Harvard University Press.
-
-Ovid. *Metamorphoses*. Trans. Charles Martin. Norton, 2004.
-
-Hesiod. *Works and Days*. Loeb Classical Library, Harvard University Press.
-
-Bierlein, J. F. *Parallel Myths*. Ballantine, 1994.
-
-Dundes, Alan, ed. *The Flood Myth*. University of California Press, 1988.
-
-von Däniken, Erich. *Chariots of the Gods?* Trans. Michael Heron. Putnam, 1968.
-
-Sitchin, Zecharia. *The 12th Planet*. Stein and Day, 1976.
-
-Brown, Francis, S. R. Driver, and Charles A. Briggs. *A Hebrew and English Lexicon of the Old Testament* (BDB). Oxford, 1907.
-
-*The Hebrew and Aramaic Lexicon of the Old Testament* (HALOT), Koehler-Baumgartner. Brill, 2001.
-
-"Flood myth." *Encyclopaedia Britannica*. <https://www.britannica.com/topic/flood-myth>
-
-"Flood myth." *Wikipedia*. <https://en.wikipedia.org/wiki/Flood_myth>
-
-"Noah." *Encyclopaedia Britannica*. <https://www.britannica.com/topic/Noah-biblical-figure>
-
-"Atrahasis." *Encyclopaedia Britannica*. <https://www.britannica.com/topic/Atrahasis>
-
-"Epic of Gilgamesh." *Encyclopaedia Britannica*. <https://www.britannica.com/topic/Epic-of-Gilgamesh>
-
-"Continental drift." *Encyclopaedia Britannica*. <https://www.britannica.com/science/continental-drift-geology>
