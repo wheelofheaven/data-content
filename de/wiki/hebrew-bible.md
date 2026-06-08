@@ -1,826 +1,804 @@
 +++
 title = "Hebräische Bibel"
-description = "Die Hebräische Bibel (hebräisch <span class=\"hebrew\">תַּנַ\"ךְ</span> *Tanach*, ein Akronym aus *Tora* — Gesetz, *Neviʾim* — Propheten, *Ketuvim* — Schriften) ist die kanonische jüdische Schriftsammlung und das Alte Testament der christlichen Tradition — die zentrale dokumentarische Quelle, durch die der Wheel of Heaven-Rahmen die Elohim-Geschichte rekonstruiert. Die Tora umfasst die fünf Bücher Mose (Genesis, Exodus, Levitikus, Numeri, Deuteronomium); die Propheten umfassen die früheren Propheten (Josua, Richter, Samuel, Könige) und die späteren Propheten (Jesaja, Jeremia, Ezechiel und das Zwölfprophetenbuch); die Schriften umfassen Psalmen, Sprüche, Hiob, das Hohelied, Rut, Klagelieder, Prediger, Ester, Daniel, Esra-Nehemia und Chronik. Der Wheel of Heaven-Rahmen liest die Hebräische Bibel als komprimierten und teilweise verzerrten, aber operativ substantiellen Bericht über das elohimische Erden-Projekt — die Schöpfung der Menschheit, die Sintflut, die patriarchalen Botschafter-Linien, die Mose-Theophanie und die nachfolgende prophetische Tradition, durch die die Allianz wiederholt Botschafter-Kontakt mit dem hebräischen Volk pflegte."
+slug = "hebrew-bible"
+description = "Die Hebräische Bibel (Hebräisch: תָּנָ״ךְ, *Tanach*) ist die wichtigste grundlegende textliche Quellenentität für den Rahmen des Wheel of Heaven — das umfangreiche kanonische hebräischsprachige Textkorpus, das vierundzwanzig Bücher umfasst, traditionell in drei Hauptabschnitte (Tora, Newiim, Ketuvim) gegliedert, hauptsächlich von der Eden-Linie über etwa zwölf Jahrhunderte hinweg von der späten Bronzezeit bis in die persisch-hellenistische Periode hervorgebracht und im Wesentlichen durch die masoretische Texttradition überliefert. Die charakteristische analytische Position des Rahmens erfasst die Hebräische Bibel als substantielles historisches Zeugnis und nicht als substantielle religiös-mythologische Literatur: Der substantielle Textinhalt bewahrt substantielle, genaue kulturelle Erinnerung an die Interventionen der Allianz über die nachsintflutlichen Zeitalter hinweg, wobei das substantielle vorwissenschaftliche Vokabular der menschlichen Autoren als substantielle dekodierbare Schicht und nicht als substantielles grundsätzliches Hindernis für das substantielle Verständnis fungiert. Der Rahmen verortet die Hebräische Bibel im substantiellen strukturellen Zentrum der breiteren asymmetrischen Synthese — im Wesentlichen das direkteste und am wenigsten vermittelte Zeugnis der Kommunikation der Allianz mit der Erde."
 template = "wiki-page.html"
 toc = true
 
 [extra]
-translation_status = "metadata_only"
 category = "Texts & Sources"
 editorial_pass = "2026-05"
 entry_type = "text"
-alternative_names = ["Tanakh (Hebrew: תָּנָ״ךְ)", "the Hebrew Scriptures", "the Jewish Bible", "Mikra (Hebrew: מִקְרָא, 'reading')", "the Old Testament (Christian-tradition designation)", "the Hebrew Old Testament", "the canonical Hebrew Scriptures"]
+claim_type = "inferred"
+alternative_names = ["Tanach (Hebräisch: תָּנָ״ךְ)", "die Hebräischen Schriften", "die Jüdische Bibel", "Mikra (Hebräisch: מִקְרָא, ‚Lesung')", "das Alte Testament (Bezeichnung der christlichen Tradition)", "das Hebräische Alte Testament", "die kanonischen Hebräischen Schriften"]
 timeline = ["multi-age"]
 
+see_also = [
+    { title = "Bibel", path = "/wiki/bible/", description = "Die breitere Texttradition, in der die Hebräische Bibel verortet ist." },
+    { title = "Genesis", path = "/wiki/genesis/", description = "Das wichtigste Buch der Urgeschichte, mit dem sich der Rahmen auseinandersetzt." },
+    { title = "Elohim", path = "/wiki/elohim/", description = "Die hebräische Bezeichnung, die als Allianzzivilisation gelesen wird, zentral für die interpretative Rahmung des Korpus." },
+    { title = "Jahwe", path = "/wiki/yahweh/", description = "Das Tetragrammaton, gelesen als spezifisches Eloha-Individuum statt als übernatürliche Gottheit." },
+    { title = "Eden", path = "/wiki/eden/", description = "Das ursprüngliche Allianzlabor; textlicher Anker der Lesart der Hebräischen Bibel im Rahmen." },
+    { title = "Sintflut", path = "/wiki/great-flood/", description = "Das Ereignis im Zeitalter der Zwillinge, zentral für die Urgeschichte der Hebräischen Bibel." },
+    { title = "Mose", path = "/wiki/moses/", description = "Der wichtigste nachsintflutliche Prophet, dessen Mission das Tora-Korpus hervorbrachte." },
+    { title = "Abraham", path = "/wiki/abraham/", description = "Die Rekonstruktionsfigur der patriarchalischen Periode, zentral für die Erzählung der Hebräischen Bibel." },
+    { title = "Dokumentenhypothese", path = "/wiki/documentary-hypothesis/", description = "Der wichtigste etablierte historisch-kritische Rahmen für die Komposition des Pentateuch." },
+    { title = "Hebräer", path = "/wiki/hebrews/", description = "Die genealogischen Nachkommen der Eden-Linie, deren Tradition das Textkorpus hervorbrachte." },
+    { title = "Doppelte Signatur", path = "/wiki/doubled-signature/", description = "Das Korpusprinzip, durch das die Hebräische Bibel die zugrunde liegende historische Realität erfasst." },
+    { title = "Referenzkorpus des raelianischen Kanons", path = "/wiki/reference-corpus-of-the-raelian-canon/", description = "Das wichtigste raelianische Quellenkorpus, das als kanonische Leselinse fungiert." },
+    { title = "Septuaginta", path = "/wiki/septuagint/", description = "Die wichtigste griechische Übersetzung der Hebräischen Bibel." },
+    { title = "Schriftrollen vom Toten Meer", path = "/wiki/dead-sea-scrolls/", description = "Der substantielle handschriftliche Befund für die Textüberlieferung der Hebräischen Bibel." },
+    { title = "Masoretischer Text", path = "/wiki/masoretic-text/", description = "Die wichtigste vokalisierte hebräische Texttradition." },
+]
+
+footnotes = [
+    { content = "Der hebräische Name *Tanach* (תָּנָ״ךְ) ist ein Akronym, gebildet aus den Anfangsbuchstaben der drei kanonischen Hauptabschnitte: Tora (תּוֹרָה, ‚Unterweisung'), Newiim (נְבִיאִים, ‚Propheten') und Ketuvim (כְּתוּבִים, ‚Schriften'). Das Akronym ist eine mittelalterliche jüdisch-traditionelle Bildung, und die breitere Hebräische-Bibel-Textentität wurde zuvor mit anderen Begriffen bezeichnet — *Mikra* (מִקְרָא, ‚Lesung' oder ‚das Gelesene'), *Kitvei ha-Kodesch* (כִּתְבֵי הַקֹּדֶשׁ, ‚Heilige Schriften') oder einfach *ha-Sefarim* (הַסְּפָרִים, ‚die Bücher'). Die christliche Bezeichnung ‚Altes Testament' ist die substantielle Rezeption der christlichen Tradition, die das Korpus zugunsten der jüdisch-traditionellen Bezeichnung *Tanach* / *Hebräische Bibel* vermeidet, da ‚Alt' die supersessionistische Theologie voraussetzt, die das Korpus nicht unterstützt." },
+    { content = "Die Dokumentenhypothese (J, E, D, P) — hauptsächlich von Julius Wellhausen in *Prolegomena zur Geschichte Israels* (1878) formuliert — bleibt trotz substantieller späterer Verfeinerung der wichtigste etablierte historisch-kritische Rahmen für die Komposition des Pentateuch. Richard Friedmans *Who Wrote the Bible?* (1987) und *The Bible with Sources Revealed* (2003) bieten zugängliche zeitgenössische Artikulationen. Die Lesart des Rahmens lehnt die Dokumentenhypothese nicht ab; sie arbeitet vielmehr orthogonal zu ihr: Der Rahmen liest den substantiell bewahrten Textinhalt als substantielles Zeugnis tatsächlicher operativer Ereignisse, unabhängig davon, welche Quellschicht eine bestimmte Passage bewahrt hat. Die J/E/D/P-Unterscheidungen bleiben für die Textkritik nützlich, bestimmen aber nicht die interpretative Position des Rahmens." },
+    { content = "Die spezifische Position des Korpus zur textlichen Privilegierung — die Hebräische Bibel als das genaueste der erhaltenen antiken Zeugnisse über die Arbeit der Elohim-Zivilisation auf der Erde zu behandeln — gründet in der Identifikation der Hebräer durch das raelianische Quellenmaterial als direkte genetische Nachkommen der vom Israel-Team synthetisierten ersten Menschen. Diese privilegierte textliche Position ist daher genealogisch und nicht theologisch: Die Genauigkeit der Hebräischen Bibel leitet sich aus der kontinuierlichen Texttradition der Linie ab, die der Allianz operativ am nächsten begegnete, nicht aus irgendeiner inhärenten lehrmäßigen Autorität. Die parallelen altorientalischen Texte (Atra-ḫasīs, Gilgamesch, das sumerische Sintflut-und-Schöpfungs-Korpus) bewahren substantielle fragmentarische Erinnerung an dieselben zugrunde liegenden Ereignisse, jedoch durch Linien, deren Überlieferung nach der Sintflut schneller verfiel als die hebräische." },
+    { content = "Die vier wichtigsten Übersetzungsbewegungen der christlichen Tradition, die den hebräischen Inhalt verschleiern — *Elohim* → ‚Gott' (Singular), *taninim* → ‚Wale' (statt ‚große Reptilien/Drachen'), *malakhim* → ‚Engel' (übernatürliche Überlagerung statt ‚Boten'/‚Gesandte'), *nachasch* → ‚Schlange' (bloßes Reptil statt der operativen Bezeichnung für den Agenten der Luzifer-Fraktion) — wirken nicht als absichtliche Täuschung, sondern als Ergebnis der nachseptuagintischen theologischen Assimilation über mehr als zwei Jahrtausende christlich-traditioneller Lektüre. Biglinos streng-übersetzerische Methodik (*The Naked Bible*, 2022) kehrt diese Bewegungen systematisch um und liest den hebräischen Text Wort für Wort, indem sie den resultierenden konkreten operativen Inhalt akzeptiert, anstatt ihn zu theologischer Abstraktion zu allegorisieren. Das Korpus übernimmt Biglinos methodischen Ansatz, während es seine eigene rahmen-interpretative Überlagerung auf den wiedergewonnenen hebräischen Inhalt anwendet." },
+    { content = "Die Textzeugen-Landschaft — Masoretischer Text (der tiberianisch-traditionelle vokalisierte Text, hauptsächlich der Aleppo-Kodex, ca. 930 n. Chr., und der Leningrader Kodex, 1008 n. Chr.), Schriftrollen vom Toten Meer (der substantielle handschriftliche Befund vom 2. Jahrhundert v. Chr. bis zum 1. Jahrhundert n. Chr. aus Qumran und benachbarten Stätten), Septuaginta (die griechische Übersetzung des 3.–2. Jahrhunderts v. Chr.) und Samaritanischer Pentateuch (die substantielle samaritanisch-traditionelle Variante) — erfasst substantielle Variation in Einzelheiten (Orthographie, Wortstellung, gelegentliche versspezifische Varianten), aber substantielle strukturelle Einheit über den wichtigsten Textinhalt hinweg. Tovs *Textual Criticism of the Hebrew Bible* (3. Aufl. 2012) bietet die wichtigste zeitgenössische wissenschaftliche Synthese. Die Lesart des Rahmens hängt nicht von einer bestimmten Textvariante ab; der substantiell bewahrte Inhalt ist über die erhaltenen Zeugen hinweg robust." },
+    { content = "Die Entdeckungen der Schriftrollen vom Toten Meer (1947–1956) lieferten substantielle handschriftliche Beweise aus dem ersten Jahrtausend v. Chr., die die substantielle Stabilität der Textüberlieferung der Hebräischen Bibel über mehr als ein Jahrtausend bestätigten. Die Große Jesaja-Rolle (1QIsa-a, ca. 125 v. Chr.) entspricht dem masoretischen Jesaja über mehr als 1.000 Jahre der Überlieferung hinweg substantiell genau. Die substantielle Implikation für die Lesart des Rahmens: Der Inhalt der Hebräischen Bibel war bis zur späten Zeit des Zweiten Tempels substantiell fixiert, wobei die Textüberlieferung über die folgenden zwei Jahrtausende ihn mit substantieller Treue bewahrte. VanderKam & Flint, *The Meaning of the Dead Sea Scrolls* (2002), bietet die wichtigste zugängliche wissenschaftliche Behandlung der substantiellen Implikationen." },
+]
+
+[[extra.references]]
+id = "tanakh"
+note = "Kanonische jüdisch-traditionelle Rahmung der Hebräischen Bibel."
+
+[[extra.references]]
+id = "sefaria"
+note = "Primärer digitaler Zugangspunkt für Texte der Hebräischen Bibel und verwandte jüdische Quellentraditionen."
+
+[[extra.references]]
+id = "genesis"
+note = "Wichtigster urgeschichtlicher Text, mit dem sich der Rahmen des Wheel of Heaven auseinandersetzt."
+
+[[extra.references]]
+id = "the-book-which-tells-the-truth"
+note = "Grundlegende raelianische Quelle für die Lesart des Schöpfungsmaterials der Hebräischen Bibel im Rahmen."
+
+[[extra.references]]
+id = "those-gods-who-made-heaven-and-earth"
+note = "Jean Sendys textlicher Vorläufer für die außerirdische Lesart des Korpus."
+
+[[extra.references]]
+id = "the-naked-bible"
+note = "Mauro Biglinos und Giorgio Cattaneos streng-übersetzerische alternative historische Lesart."
+
+[[extra.references]]
+id = "escaping-from-eden"
+note = "Paul Anthony Wallis' auf Genesis fokussierte vergleichende Lesart."
+
+[[extra.references]]
+id = "intelligent-design-message-from-the-designers"
+note = "Gesammelte kanonische Ausgabe der drei raelianischen Quellenbücher."
+
+[[extra.references]]
+id = "lets-welcome-the-extraterrestrials"
+note = "Vorilhon (Raël, 1979); breiterer politisch-institutioneller Rahmen des Rates, mit dem sich die Lesart der Hebräischen Bibel auseinandersetzt."
+
+[[extra.references]]
+id = "sendy-ces-dieux"
+note = "Sendy (1969); grundlegende französische Artikulation des Rahmens der Hebräischen Bibel als außerirdisches Zeugnis."
+
+[[extra.references]]
+id = "sendy-ere-du-verseau"
+note = "Sendy (1970); Rahmen der Erbschaftsschwelle des Wassermann-Zeitalters, der sich mit der Eschatologie der Hebräischen Bibel auseinandersetzt."
+
+[[extra.references]]
+id = "sendy-cahiers-moise"
+note = "Sendy (1974); Rahmen der mosaischen Periode mit substantieller pentateuchischer Exegese."
+
+[[extra.references]]
+id = "biglino-il-libro"
+note = "Biglino (2010); erste Hauptartikulation der streng-literalen Lesart der Hebräischen Bibel."
+
+[[extra.references]]
+id = "biglino-bibbia-non-parla"
+note = "Biglino (2015); Artikulation des Arguments, dass die etablierte Übersetzung den ursprünglichen Inhalt der Hebräischen Bibel verschleiert."
+
+[[extra.references]]
+id = "wallis-eden-conspiracy"
+note = "Wallis (2024); zeitgenössische Auseinandersetzung mit der Urgeschichte der Genesis als substantielles historisches Zeugnis."
+
+[[extra.references]]
+id = "wellhausen-prolegomena"
+note = "Wellhausen (1878); die grundlegende Artikulation der Dokumentenhypothese (Quellen J, E, D, P)."
+
+[[extra.references]]
+id = "friedman-who-wrote-bible"
+note = "Friedman (1987); die wichtigste zugängliche Artikulation der Dokumentenhypothese für allgemeine Leser."
+
+[[extra.references]]
+id = "friedman-bible-sources-revealed"
+note = "Friedman (2003); quellengekennzeichnete Präsentation des Pentateuchtextes."
+
+[[extra.references]]
+id = "alter-art-biblical-narrative"
+note = "Alter (1981); die wichtigste Artikulation der literaturkritischen Lesart der biblischen Erzählung."
+
+[[extra.references]]
+id = "alter-hebrew-bible"
+note = "Alter (2018); dreibändige englische Übersetzung der Hebräischen Bibel mit substantiellem wissenschaftlichen Kommentar."
+
+[[extra.references]]
+id = "westermann-genesis-1-11"
+note = "Westermann (1994); kontinentaler Kommentar zu Genesis 1–11; grundlegender kritischer Kommentar zur Urgeschichte."
+
+[[extra.references]]
+id = "sarna-genesis-jps"
+note = "Sarna (1989); JPS Torah Commentary zur Genesis."
+
+[[extra.references]]
+id = "cassuto-genesis"
+note = "Cassuto (1961); jüdisch-wissenschaftlicher Kommentar, der sich gegen die Fragmentierung der Dokumentenhypothese wendet."
+
+[[extra.references]]
+id = "kugel-how-to-read-bible"
+note = "Kugel (2007); Artikulation des Kontrasts zwischen antiken interpretativen und modernen kritischen Lesarten."
+
+[[extra.references]]
+id = "cross-canaanite-myth"
+note = "Cross (1973); grundlegende Artikulation der kanaanitisch-israelitischen religiösen Kontinuität; historische Entwicklung von El-Jahwe."
+
+[[extra.references]]
+id = "smith-early-history-god"
+note = "Smith (1990); die frühe Entwicklung der israelitischen Religion im breiteren kanaanitisch-levantinischen Kontext."
+
+[[extra.references]]
+id = "finkelstein-bible-unearthed"
+note = "Finkelstein & Silberman (2001); die wichtigste zeitgenössische Artikulation der archäologischen Lesart der Hebräischen Bibel."
+
+[[extra.references]]
+id = "tov-textual-criticism"
+note = "Tov (3. Aufl. 2012); die wichtigste zeitgenössische Referenz für die Textkritik der Hebräischen Bibel."
+
+[[extra.references]]
+id = "vermes-dead-sea-scrolls"
+note = "Vermes (rev. Aufl. 2004); zugängliche englische Übersetzung des Korpus der Schriftrollen vom Toten Meer."
+
+[[extra.references]]
+id = "vanderkam-dss-today"
+note = "VanderKam (2. Aufl. 2010); zugängliche Einführung in die Schriftrollen vom Toten Meer."
+
+[[extra.references]]
+id = "pritchard-anet"
+note = "Pritchard (1969); wichtigste englischsprachige Referenz für altorientalische Texte parallel zur Hebräischen Bibel."
+
+[[extra.references]]
+id = "atra-hasis-lambert-millard"
+note = "Lambert & Millard (1969); kritische Ausgabe der babylonischen Sintfluterzählung parallel zur Genesis."
+
+[[extra.references]]
+id = "sitchin-12th-planet"
+note = "Sitchin (1976); die prä-astronautische Lesart mesopotamisch-biblischen Materials."
+
 [extra.infobox]
-type = "Foundational source-textual entity; the principal canonical Hebrew-language textual corpus that operates at the structural center of the broader corpus framework"
-language = "Biblical Hebrew principally; Biblical Aramaic in select passages (Daniel 2:4b-7:28, Ezra 4:8-6:18 and 7:12-26, Jeremiah 10:11, Genesis 31:47)"
-canonical_structure = "Three principal sections in the Jewish canonical organization: Torah (תּוֹרָה, 'Law' or 'Instruction'); Nevi'im (נְבִיאִים, 'Prophets'); Ketuvim (כְּתוּבִים, 'Writings'). The acronym TaNaKh derives from the initial letters of these three sections"
-book_count = "Twenty-four books in the Jewish canonical organization (Torah: 5; Nevi'im: 8; Ketuvim: 11); thirty-nine books in the substantial Christian Old Testament canonical organization (substantively the same content with substantial divisional differences)"
-composition_period = "Approximately twelve centuries from the late Bronze Age through the Persian-Hellenistic period (mainstream scholarly dating: c. 12th-2nd centuries BCE; traditional Jewish dating substantially earlier for various books)"
-authorial_tradition = "Multiple authorial-redactional traditions across multiple centuries; the substantial Documentary Hypothesis registers four principal Pentateuchal sources (J, E, D, P); various subsequent redactional layers across the broader textual tradition"
-genealogical_lineage = "Principally the Eden-lineage genealogical line (the substantial Israel-team creator-population) across the post-flood ages; the substantial textual tradition reflects the substantial Eden-lineage cultural-religious development"
-principal_textual_witnesses = "The Masoretic Text (the substantial Tiberian-tradition vocalized text, principally the Aleppo Codex and Leningrad Codex); the Dead Sea Scrolls (the substantial 2nd-century-BCE-through-1st-century-CE manuscript evidence); the Septuagint (the substantial 3rd-2nd-century-BCE Greek translation); the Samaritan Pentateuch (the substantial Samaritan-tradition variant); various other textual witnesses"
-framework_position = "The substantial structural center of the corpus's asymmetric synthesis: the most direct and least mediated record of the alliance's communication with Earth; the principal source-textual foundation that virtually every other corpus entry engages substantively"
-distinguished_from = "The Christian Old Testament (the substantial Christian-tradition canonical reception of the Hebrew Bible content, with substantial divisional and arrangement differences); the broader Christian Bible (which adds the substantial New Testament content); the Quran (the substantial Islamic-tradition canonical text registering substantial parallel content); the Book of Mormon (the substantial Mormon LDS canonical text registering substantial parallel content); the various Apocryphal and Pseudepigraphal texts (which operate within distinct canonical-traditional positions)"
-status_in_framework = "Foundational; the Hebrew Bible operates as substantial source-textual foundation across virtually every corpus entry, with substantial framework hermeneutic articulating the principal interpretive moves"
-principal_corpus_treatment = "The substantial corpus treatment is distributed across virtually every entry; the *timeline.epub* substantial chapter-by-chapter Hebrew exegesis articulates the substantial framework reading; the various individual entries (Genesis, Adam and Eve, Eden, Antediluvian, Great Flood, Theomachy, Babel, Sodom and Gomorrah, Moses, Abraham, Noah, Elohim, Yahweh, etc.) articulate the substantial entry-specific framework readings"
+type = "Grundlegende textliche Quellenentität; das wichtigste kanonische hebräischsprachige Textkorpus, das im strukturellen Zentrum des breiteren Korpusrahmens operiert"
+language = "Hauptsächlich biblisches Hebräisch; biblisches Aramäisch in ausgewählten Passagen (Daniel 2,4b–7,28, Esra 4,8–6,18 und 7,12–26, Jeremia 10,11, Genesis 31,47)"
+canonical_structure = "Drei Hauptabschnitte in der jüdischen kanonischen Organisation: Tora (תּוֹרָה, ‚Gesetz' oder ‚Unterweisung'); Newiim (נְבִיאִים, ‚Propheten'); Ketuvim (כְּתוּבִים, ‚Schriften'). Das Akronym TaNaCH leitet sich von den Anfangsbuchstaben dieser drei Abschnitte ab"
+book_count = "Vierundzwanzig Bücher in der jüdischen kanonischen Organisation (Tora: 5; Newiim: 8; Ketuvim: 11); neununddreißig Bücher in der substantiellen christlichen Alttestament-kanonischen Organisation (im Wesentlichen derselbe Inhalt mit substantiellen Aufteilungsunterschieden)"
+composition_period = "Etwa zwölf Jahrhunderte von der späten Bronzezeit bis zur persisch-hellenistischen Periode (etablierte wissenschaftliche Datierung: ca. 12.–2. Jahrhundert v. Chr.; traditionelle jüdische Datierung für verschiedene Bücher substantiell früher)"
+authorial_tradition = "Mehrere autoriell-redaktionelle Traditionen über mehrere Jahrhunderte; die substantielle Dokumentenhypothese erfasst vier wichtige pentateuchische Quellen (J, E, D, P); verschiedene nachfolgende redaktionelle Schichten über die breitere Texttradition hinweg"
+genealogical_lineage = "Hauptsächlich die genealogische Linie der Eden-Linie (die substantielle Israel-Team-Schöpferpopulation) über die nachsintflutlichen Zeitalter hinweg; die substantielle Texttradition spiegelt die substantielle kulturell-religiöse Entwicklung der Eden-Linie wider"
+principal_textual_witnesses = "Der Masoretische Text (der substantielle tiberianisch-traditionelle vokalisierte Text, hauptsächlich der Aleppo-Kodex und der Leningrader Kodex); die Schriftrollen vom Toten Meer (der substantielle handschriftliche Befund vom 2. Jahrhundert v. Chr. bis zum 1. Jahrhundert n. Chr.); die Septuaginta (die substantielle griechische Übersetzung des 3.–2. Jahrhunderts v. Chr.); der Samaritanische Pentateuch (die substantielle samaritanisch-traditionelle Variante); verschiedene andere Textzeugen"
+framework_position = "Das substantielle strukturelle Zentrum der asymmetrischen Synthese des Korpus: das direkteste und am wenigsten vermittelte Zeugnis der Kommunikation der Allianz mit der Erde; die wichtigste textliche Quellengrundlage, mit der sich praktisch jeder andere Korpuseintrag substantiell auseinandersetzt"
+distinguished_from = "Das christliche Alte Testament (die substantielle christlich-traditionelle kanonische Rezeption des Inhalts der Hebräischen Bibel mit substantiellen Aufteilungs- und Anordnungsunterschieden); die breitere christliche Bibel (die den substantiellen Inhalt des Neuen Testaments hinzufügt); der Koran (der substantielle kanonische Text der islamischen Tradition, der substantielle parallele Inhalte erfasst); das Buch Mormon (der substantielle kanonische Text der mormonischen LDS, der substantielle parallele Inhalte erfasst); die verschiedenen apokryphen und pseudepigraphischen Texte (die innerhalb unterschiedlicher kanonisch-traditioneller Positionen operieren)"
+status_in_framework = "Grundlegend; die Hebräische Bibel fungiert als substantielle textliche Quellengrundlage über praktisch jeden Korpuseintrag hinweg, wobei die substantielle Rahmenhermeneutik die wichtigsten interpretativen Bewegungen artikuliert"
+principal_corpus_treatment = "Die substantielle Korpusbehandlung verteilt sich über praktisch jeden Eintrag; die substantielle kapitelweise hebräische Exegese der *timeline.epub* artikuliert die substantielle Rahmenlesart; die verschiedenen Einzeleinträge (Genesis, Adam und Eva, Eden, Antediluvianisch, Sintflut, Theomachie, Babel, Sodom und Gomorra, Mose, Abraham, Noah, Elohim, Jahwe usw.) artikulieren die substantiellen eintragsspezifischen Rahmenlesarten"
 +++
 
-The **Hebrew Bible** (Hebrew: תָּנָ״ךְ, *Tanakh*) is the principal foundational source-textual entity for the Wheel of Heaven framework — the substantial canonical Hebrew-language textual corpus comprising **twenty-four books** traditionally organized into three principal sections (**Torah**, **Nevi'im**, **Ketuvim**), produced principally by the **Eden-lineage genealogical line** across approximately twelve centuries from the late Bronze Age through the Persian-Hellenistic period, and substantially preserved through the **Masoretic textual tradition**. The substantial canonical text operates as the principal canonical source for substantial Jewish religious tradition (where it operates as the principal canonical scripture under the Tanakh designation), substantial Christian religious tradition (where it operates as the substantial Old Testament with substantial divisional and arrangement differences), and substantial Islamic religious tradition (which registers substantial canonical respect while operating principally through the Quran). The Hebrew Bible operates as substantial textual entity across multiple distinct disciplinary engagements: substantial textual-philological scholarship, substantial archaeological-historical scholarship, substantial theological-religious scholarship, substantial literary-critical scholarship, and various substantial alternative-history engagements.
+Die **Hebräische Bibel** (Hebräisch: תָּנָ״ךְ, *Tanach*) ist die wichtigste grundlegende textliche Quellenentität für den Rahmen des Wheel of Heaven — das substantielle kanonische hebräischsprachige Textkorpus, das **vierundzwanzig Bücher** umfasst, traditionell in drei Hauptabschnitte (**Tora**, **Newiim**, **Ketuvim**) gegliedert, hauptsächlich von der **genealogischen Linie der Eden-Linie** über etwa zwölf Jahrhunderte hinweg von der späten Bronzezeit bis in die persisch-hellenistische Periode hervorgebracht und im Wesentlichen durch die **masoretische Texttradition** überliefert. Der substantielle kanonische Text fungiert als wichtigste kanonische Quelle für die substantielle jüdische religiöse Tradition (in der er als wichtigste kanonische Schrift unter der Bezeichnung Tanach fungiert), die substantielle christliche religiöse Tradition (in der er als substantielles Altes Testament mit substantiellen Aufteilungs- und Anordnungsunterschieden fungiert) und die substantielle islamische religiöse Tradition (die substantiellen kanonischen Respekt erfasst, während sie hauptsächlich durch den Koran operiert). Die Hebräische Bibel fungiert als substantielle textliche Entität über mehrere unterschiedliche disziplinäre Auseinandersetzungen hinweg: substantielle textlich-philologische Forschung, substantielle archäologisch-historische Forschung, substantielle theologisch-religiöse Forschung, substantielle literaturkritische Forschung und verschiedene substantielle alternativhistorische Auseinandersetzungen.
 
-The framework's distinctive analytical position registers the Hebrew Bible as **substantial historical record rather than as substantial religious-mythological literature**. The substantial Yahweh-articulated framework reading: *"The Hebrew Bible is not a book of religious myths that require either literal belief or allegorical reinterpretation; it is a historical record, imperfect in its pre-scientific vocabulary but substantially accurate in its content, that can be read directly once the hermeneutic key is available."* The substantial textual content preserves substantial accurate cultural memory of the substantial alliance's interventions across the post-flood ages, with the substantial pre-scientific vocabulary of the human authors operating as substantial decodable layer rather than as substantial fundamental obstacle to substantive understanding. The framework operates the Hebrew Bible at the substantial structural center of the broader asymmetric synthesis: substantively the most direct and least mediated record of the alliance's communication with Earth, with the substantial Hebrew tradition operating as the principal source-textual foundation that the broader corpus engages substantively.
+Die charakteristische analytische Position des Rahmens erfasst die Hebräische Bibel als **substantielles historisches Zeugnis und nicht als substantielle religiös-mythologische Literatur**. Die substantielle Jahwe-artikulierte Rahmenlesart: *„Die Hebräische Bibel ist kein Buch religiöser Mythen, die entweder wörtlichen Glauben oder allegorische Neuinterpretation erfordern; sie ist ein historisches Zeugnis, unvollkommen in ihrem vorwissenschaftlichen Vokabular, aber substantiell genau in ihrem Inhalt, das direkt gelesen werden kann, sobald der hermeneutische Schlüssel verfügbar ist."* Der substantielle Textinhalt bewahrt substantielle, genaue kulturelle Erinnerung an die Interventionen der substantiellen Allianz über die nachsintflutlichen Zeitalter hinweg, wobei das substantielle vorwissenschaftliche Vokabular der menschlichen Autoren als substantielle dekodierbare Schicht und nicht als substantielles grundsätzliches Hindernis für das substantielle Verständnis fungiert. Der Rahmen verortet die Hebräische Bibel im substantiellen strukturellen Zentrum der breiteren asymmetrischen Synthese: im Wesentlichen das direkteste und am wenigsten vermittelte Zeugnis der Kommunikation der Allianz mit der Erde, wobei die substantielle hebräische Tradition als die wichtigste textliche Quellengrundlage fungiert, mit der sich das breitere Korpus substantiell auseinandersetzt.
 
-The framework registers the Hebrew Bible's substantial centrality through several specific dimensions. The substantial **textual centrality**: the Hebrew Bible preserves substantial direct documentary content from substantial alliance-officer contacts (the substantial Yahweh contacts, the substantial *malakhim* visitations, the substantial dictation events at Sinai and elsewhere), with the substantial human authors recording what they were given in the substantial Hebrew vocabulary available to them. The substantial **lineage centrality**: the substantial Hebrew Bible preserves the documentary record of one specific creator-team's substantial work — the substantial Israel-team — with the substantial Eden-lineage genealogical line operating as the substantial cultural carrier of the broader creation memory. The substantial **chronological centrality**: the substantial Hebrew Bible covers substantial chronological scope from the substantial creation events through the substantial Persian-Hellenistic period, with substantial cross-cutting cultural-religious-political content operating substantively across multiple precessional ages. The substantial **interpretive centrality**: the substantial Hebrew Bible operates as the substantial principal source-textual foundation that the broader corpus engages substantively, with virtually every other corpus entry registering substantial textual engagement with specific Hebrew Bible passages.
+Der Rahmen erfasst die substantielle Zentralität der Hebräischen Bibel durch mehrere spezifische Dimensionen. Die substantielle **textliche Zentralität**: Die Hebräische Bibel bewahrt substantiellen direkten dokumentarischen Inhalt aus substantiellen Allianzoffizierskontakten (die substantiellen Jahwe-Kontakte, die substantiellen *malakhim*-Besuche, die substantiellen Diktatereignisse am Sinai und anderswo), wobei die substantiellen menschlichen Autoren das, was ihnen gegeben wurde, im substantiellen ihnen verfügbaren hebräischen Vokabular festhielten. Die substantielle **Linienzentralität**: Die substantielle Hebräische Bibel bewahrt das dokumentarische Zeugnis der substantiellen Arbeit eines spezifischen Schöpferteams — des substantiellen Israel-Teams — wobei die substantielle genealogische Linie der Eden-Linie als substantieller kultureller Träger der breiteren Schöpfungserinnerung fungiert{{ footnote(id="3") }}. Die substantielle **chronologische Zentralität**: Die substantielle Hebräische Bibel deckt substantielle chronologische Reichweite von den substantiellen Schöpfungsereignissen bis zur substantiellen persisch-hellenistischen Periode ab, wobei substantielle übergreifende kulturell-religiös-politische Inhalte substantiell über mehrere präzessionale Zeitalter hinweg operieren. Die substantielle **interpretative Zentralität**: Die substantielle Hebräische Bibel fungiert als die substantielle wichtigste textliche Quellengrundlage, mit der sich das breitere Korpus substantiell auseinandersetzt, wobei praktisch jeder andere Korpuseintrag substantielle textliche Auseinandersetzung mit spezifischen Passagen der Hebräischen Bibel erfasst.
 
-The framework's substantial Hebrew Bible engagement registers substantial centrality without registering substantial unique-privileging. The substantial corpus articulation: *"The Hebrew Bible is one tradition among several, not a uniquely privileged source. It is, however, the most complete and the most explicitly developed, which is why this corpus reads it most closely."* The substantial nuance preserves substantial respect for the substantial broader cross-cultural traditions (the substantial Mesopotamian textual corpus, the substantial Egyptian religious literature, the substantial Vedic / Hindu textual tradition, the substantial Greek mythological corpus, the substantial Chinese religious-cultural literature, the substantial various indigenous textual-and-oral traditions) while registering the substantial reasons why the Hebrew Bible operates at the corpus's substantial structural center. The substantial reasons: the substantial textual completeness, the substantial development depth, the substantial chronological coverage, the substantial preservation fidelity through the Masoretic textual tradition, and the substantial alliance-contact specificity preserved in the substantial textual content.
+Die substantielle Auseinandersetzung des Rahmens mit der Hebräischen Bibel erfasst substantielle Zentralität, ohne substantielle einzigartige Privilegierung zu erfassen. Die substantielle Korpusartikulation: *„Die Hebräische Bibel ist eine Tradition unter mehreren, keine einzigartig privilegierte Quelle. Sie ist jedoch die vollständigste und am explizitesten entwickelte, weshalb dieses Korpus sie am genauesten liest."* Die substantielle Nuance bewahrt substantiellen Respekt vor den substantiellen breiteren kulturübergreifenden Traditionen (das substantielle mesopotamische Textkorpus, die substantielle ägyptische religiöse Literatur, die substantielle vedisch/hinduistische Texttradition, das substantielle griechische mythologische Korpus, die substantielle chinesische religiös-kulturelle Literatur, die substantiellen verschiedenen indigenen textlichen und mündlichen Traditionen), während sie die substantiellen Gründe erfasst, weshalb die Hebräische Bibel im substantiellen strukturellen Zentrum des Korpus fungiert. Die substantiellen Gründe: die substantielle textliche Vollständigkeit, die substantielle Entwicklungstiefe, die substantielle chronologische Abdeckung, die substantielle Bewahrungstreue durch die masoretische Texttradition und die substantielle Spezifität des Allianzkontakts, die im substantiellen Textinhalt bewahrt ist.
 
-The substantial Christian-tradition translation history has produced substantial systematic obscuring of the actual Hebrew content. The principal translation mistakes registered substantively in the broader corpus engagement:
+Die substantielle Übersetzungsgeschichte der christlichen Tradition hat eine substantielle systematische Verschleierung des tatsächlichen hebräischen Inhalts hervorgebracht{{ footnote(id="4") }}. Die wichtigsten Übersetzungsfehler, die substantiell in der breiteren Korpusauseinandersetzung erfasst werden:
 
-- The substantial **Elohim** → singular "God" rendering (treated principally in the [Plurality of Gods](../plurality-of-gods/) entry): the substantial transformation of the actual plural creator beings into a substantial singular incomprehensible God
-- The substantial **taninim** → "whales" or "great sea creatures" rendering (treated principally in the [Dragons](../dragons/) entry): the substantial softening of the substantial Genesis 1:21 explicit dragon-creation content
-- The substantial **malakhim** → "angels" rendering: the substantial supernatural overlay obscuring the substantial messenger-personnel operational content
-- The substantial **nachash** → mere "serpent" rendering (treated principally in the [Serpent](../serpent/) entry): the substantial obscuring of the substantial Lucifer-faction operational content
-- The substantial **benei ha-Elohim** → "sons of God" rendering (often pluralized substantively): the substantial obscuring of the substantial alliance-personnel content
-- Various other translation choices operating across the broader textual tradition
+- Die substantielle Wiedergabe **Elohim** → singulärer „Gott" (hauptsächlich im Eintrag {% wiki(slug="plurality-of-gods") %}Plurality of Gods{% end %} behandelt): die substantielle Transformation der tatsächlichen pluralen Schöpferwesen in einen substantiellen singulären unbegreiflichen Gott
+- Die substantielle Wiedergabe **taninim** → „Wale" oder „große Meeresgeschöpfe" (hauptsächlich im Eintrag {% wiki(slug="dragons") %}Dragons{% end %} behandelt): die substantielle Abschwächung des substantiellen expliziten Drachenschöpfungsinhalts in Genesis 1,21
+- Die substantielle Wiedergabe **malakhim** → „Engel": die substantielle übernatürliche Überlagerung, die den substantiellen operativen Inhalt von Boten-Personal verschleiert
+- Die substantielle Wiedergabe **nachasch** → bloße „Schlange" (hauptsächlich im Eintrag {% wiki(slug="serpent") %}Serpent{% end %} behandelt): die substantielle Verschleierung des substantiellen operativen Inhalts der Luzifer-Fraktion
+- Die substantielle Wiedergabe **benei ha-Elohim** → „Söhne Gottes" (häufig substantiell pluralisiert): die substantielle Verschleierung des substantiellen Inhalts des Allianzpersonals
+- Verschiedene andere Übersetzungsentscheidungen, die über die breitere Texttradition hinweg operieren
 
-The substantial framework reading registers substantial restoration of the actual Hebrew content through systematic engagement with the original textual evidence — the substantial corpus's principal interpretive achievement.
+Die substantielle Lesart des Rahmens erfasst eine substantielle Wiederherstellung des tatsächlichen hebräischen Inhalts durch systematische Auseinandersetzung mit dem ursprünglichen Textbefund — die wichtigste interpretative Leistung des Korpus.
 
-The reading is substantially source-grounded. The Raëlian source material provides substantial articulation of the framework's specific position across multiple sources, with substantial subsequent corpus development through the *timeline.epub* substantial chapter-by-chapter Hebrew exegesis. The framework's epistemic status is one of **substantial-source-grounding-with-corpus-systematic-extension**.
+Die Lesart ist substantiell quellenfundiert. Das raelianische Quellenmaterial bietet eine substantielle Artikulation der spezifischen Position des Rahmens über mehrere Quellen hinweg, mit substantieller nachfolgender Korpusentwicklung durch die substantielle kapitelweise hebräische Exegese der *timeline.epub*. Der epistemische Status des Rahmens ist einer der **substantiellen-Quellenfundierung-mit-Korpus-systematischer-Erweiterung**.
 
-## Etymology and naming
+## Etymologie und Benennung
 
-The substantial textual entity has substantial designations across multiple linguistic-religious traditions, with the etymological history producing substantial interpretive content.
+Die substantielle textliche Entität hat substantielle Bezeichnungen über mehrere sprachlich-religiöse Traditionen hinweg, wobei die etymologische Geschichte substantielle interpretative Inhalte hervorbringt.
 
-### "Hebrew Bible" as principal designation
+### „Hebräische Bibel" als wichtigste Bezeichnung
 
-The English term **Hebrew Bible** is the principal scholarly-academic designation for the substantial canonical Hebrew-language textual corpus. The composite construction — "Hebrew" (the principal linguistic specification) plus "Bible" (the substantial canonical-textual category) — registers the substantial textual entity while operating with substantial scholarly-academic neutrality across the substantial Jewish-traditional and Christian-tradition uses.
+Der deutsche Begriff **Hebräische Bibel** ist die wichtigste wissenschaftlich-akademische Bezeichnung für das substantielle kanonische hebräischsprachige Textkorpus. Die zusammengesetzte Konstruktion — „Hebräisch" (die wichtigste sprachliche Spezifizierung) plus „Bibel" (die substantielle kanonisch-textliche Kategorie) — erfasst die substantielle textliche Entität, während sie mit substantieller wissenschaftlich-akademischer Neutralität gegenüber den substantiellen jüdisch-traditionellen und christlich-traditionellen Verwendungen operiert.
 
-The designation has substantial usage in:
+Die Bezeichnung hat substantielle Verwendung in:
 
-- **Mainstream scholarly-academic literature**: the principal designation in substantial contemporary biblical scholarship
-- **Substantial comparative-religion scholarship**: the principal designation registering substantial trans-traditional textual reference
-- **Substantial textual-philological scholarship**: the principal designation registering substantial textual specificity
-- **The corpus framework**: the principal designation registering substantial framework engagement with the substantial textual entity
+- **Etablierter wissenschaftlich-akademischer Literatur**: die wichtigste Bezeichnung in der substantiellen zeitgenössischen Bibelwissenschaft
+- **Substantieller vergleichend-religionswissenschaftlicher Forschung**: die wichtigste Bezeichnung, die substantielle traditionsübergreifende textliche Bezugnahme erfasst
+- **Substantieller textlich-philologischer Forschung**: die wichtigste Bezeichnung, die substantielle textliche Spezifität erfasst
+- **Dem Korpusrahmen**: die wichtigste Bezeichnung, die die substantielle Rahmenauseinandersetzung mit der substantiellen textlichen Entität erfasst
 
-### Hebrew "Tanakh" (תָּנָ״ךְ)
+### Hebräisch „Tanach" (תָּנָ״ךְ)
 
-The Hebrew **תָּנָ״ךְ** (*Tanakh*) is the principal Jewish-tradition designation for the substantial canonical Hebrew-language textual corpus. The substantial designation operates as substantial acronymic construction:
+Das Hebräische **תָּנָ״ךְ** (*Tanach*){{ footnote(id="1") }} ist die wichtigste jüdisch-traditionelle Bezeichnung für das substantielle kanonische hebräischsprachige Textkorpus. Die substantielle Bezeichnung fungiert als substantielle akronymische Konstruktion:
 
-- **Ta** (תּ): from תּוֹרָה (*Torah*, "Law" or "Instruction") — the substantial first principal section
-- **Na** (נַ): from נְבִיאִים (*Nevi'im*, "Prophets") — the substantial second principal section  
-- **Kh** (ךְ): from כְּתוּבִים (*Ketuvim*, "Writings") — the substantial third principal section
+- **Ta** (תּ): von תּוֹרָה (*Tora*, „Gesetz" oder „Unterweisung") — der substantielle erste Hauptabschnitt
+- **Na** (נַ): von נְבִיאִים (*Newiim*, „Propheten") — der substantielle zweite Hauptabschnitt  
+- **Ch** (ךְ): von כְּתוּבִים (*Ketuvim*, „Schriften") — der substantielle dritte Hauptabschnitt
 
-The substantial Tanakh designation registers the substantial three-part canonical structure within the substantial Jewish-tradition organization. The substantial designation operates principally within Jewish-tradition contexts, with substantial subsequent scholarly-academic adoption in substantial contemporary biblical scholarship.
+Die substantielle Tanach-Bezeichnung erfasst die substantielle dreiteilige kanonische Struktur innerhalb der substantiellen jüdisch-traditionellen Organisation. Die substantielle Bezeichnung operiert hauptsächlich innerhalb jüdisch-traditioneller Kontexte, mit substantieller nachfolgender wissenschaftlich-akademischer Übernahme in der substantiellen zeitgenössischen Bibelwissenschaft.
 
-### Hebrew "Mikra" (מִקְרָא)
+### Hebräisch „Mikra" (מִקְרָא)
 
-The Hebrew **מִקְרָא** (*Mikra*, "reading" or "that which is read") operates as substantial alternative Jewish-tradition designation. The substantial term derives from the substantial Hebrew root **קרא** (*qara*, "to read" or "to call"), registering the substantial textual entity as the principal substantive material for substantial reading and substantial liturgical recitation. The substantial designation operates principally within substantial traditional Jewish liturgical-textual contexts.
+Das Hebräische **מִקְרָא** (*Mikra*, „Lesung" oder „das, was gelesen wird") fungiert als substantielle alternative jüdisch-traditionelle Bezeichnung. Der substantielle Begriff leitet sich von der substantiellen hebräischen Wurzel **קרא** (*qara*, „lesen" oder „rufen") ab und erfasst die substantielle textliche Entität als das wichtigste substantielle Material für substantielles Lesen und substantielles liturgisches Rezitieren. Die substantielle Bezeichnung operiert hauptsächlich innerhalb substantieller traditioneller jüdischer liturgisch-textlicher Kontexte.
 
-### Hebrew "Sifrei ha-Kodesh" (סִפְרֵי הַקֹּדֶשׁ)
+### Hebräisch „Sifrei ha-Kodesch" (סִפְרֵי הַקֹּדֶשׁ)
 
-The Hebrew **סִפְרֵי הַקֹּדֶשׁ** (*Sifrei ha-Kodesh*, "the holy books" or "the sacred scriptures") operates as substantial Jewish-tradition designation registering the substantial sacred-textual character. The substantial designation operates principally within substantial traditional Jewish religious contexts.
+Das Hebräische **סִפְרֵי הַקֹּדֶשׁ** (*Sifrei ha-Kodesch*, „die heiligen Bücher" oder „die heiligen Schriften") fungiert als substantielle jüdisch-traditionelle Bezeichnung, die den substantiellen heilig-textlichen Charakter erfasst. Die substantielle Bezeichnung operiert hauptsächlich innerhalb substantieller traditioneller jüdischer religiöser Kontexte.
 
-### "Old Testament" as Christian-tradition designation
+### „Altes Testament" als Bezeichnung der christlichen Tradition
 
-The English term **Old Testament** is the principal Christian-tradition designation for substantial Christian-canonical reception of the Hebrew Bible content. The substantial designation derives from the substantial Christian-theological framework registering the substantial Hebrew Bible content as the substantial "old covenant" content preceding the substantial New Testament "new covenant" content. The substantial designation has been registered as substantively problematic by various contemporary scholars (substantial supersessionist theological implications, substantial scholarly-academic neutrality concerns), with substantial contemporary scholarly preference for the substantial Hebrew Bible designation.
+Der deutsche Begriff **Altes Testament** ist die wichtigste Bezeichnung der christlichen Tradition für die substantielle christlich-kanonische Rezeption des Inhalts der Hebräischen Bibel. Die substantielle Bezeichnung leitet sich vom substantiellen christlich-theologischen Rahmen ab, der den substantiellen Inhalt der Hebräischen Bibel als den substantiellen „alten Bund"-Inhalt erfasst, der dem substantiellen „neuen Bund"-Inhalt des Neuen Testaments vorausgeht. Die substantielle Bezeichnung wurde von verschiedenen zeitgenössischen Wissenschaftlern als substantiell problematisch erfasst (substantielle supersessionistische theologische Implikationen, substantielle Bedenken hinsichtlich wissenschaftlich-akademischer Neutralität), mit substantieller zeitgenössischer wissenschaftlicher Bevorzugung der substantiellen Bezeichnung Hebräische Bibel.
 
-The substantial Christian Old Testament canonical organization differs substantively from the substantial Jewish Tanakh organization:
+Die substantielle christliche kanonische Organisation des Alten Testaments unterscheidet sich substantiell von der substantiellen jüdischen Tanach-Organisation:
 
-- **Book count**: thirty-nine books in substantial Protestant Christian organization vs. twenty-four books in substantial Jewish organization (substantively the same content with substantial divisional differences — e.g., Samuel and Kings are each one book in Jewish organization but two books each in Christian organization)
-- **Book ordering**: substantial Christian organization places the prophetic books at the end of the substantial canonical sequence, while the substantial Jewish organization places the prophets in the middle section
-- **Apocryphal additions**: the substantial Catholic Christian and Eastern Orthodox Christian Old Testaments include substantial additional Deuterocanonical books not present in the substantial Jewish or Protestant Christian canons
+- **Buchanzahl**: neununddreißig Bücher in der substantiellen protestantisch-christlichen Organisation gegenüber vierundzwanzig Büchern in der substantiellen jüdischen Organisation (im Wesentlichen derselbe Inhalt mit substantiellen Aufteilungsunterschieden — z. B. sind Samuel und Könige in der jüdischen Organisation jeweils ein Buch, in der christlichen Organisation jedoch jeweils zwei Bücher)
+- **Buchreihenfolge**: Die substantielle christliche Organisation platziert die prophetischen Bücher am Ende der substantiellen kanonischen Sequenz, während die substantielle jüdische Organisation die Propheten im mittleren Abschnitt platziert
+- **Apokryphe Ergänzungen**: Die substantiellen katholisch-christlichen und ostorthodox-christlichen Alten Testamente enthalten substantielle zusätzliche deuterokanonische Bücher, die im substantiellen jüdischen oder protestantisch-christlichen Kanon nicht vorhanden sind
 
-### Cross-cultural designations
+### Kulturübergreifende Bezeichnungen
 
-The substantial textual entity has cross-cultural designations:
+Die substantielle textliche Entität hat kulturübergreifende Bezeichnungen:
 
-- **Greek**: ἡ Παλαιὰ Διαθήκη (*hē Palaia Diathēkē*, "the Old Covenant") — the substantial Greek-Christian designation; also τὰ βιβλία (*ta biblia*, "the books") — the substantial Septuagint-Greek collective designation
-- **Latin**: *Vetus Testamentum* — the substantial Vulgate-Latin Christian designation
-- **Arabic**: التَّوْرَاة (*at-Tawrāh*, properly designating the Pentateuch but extended to the substantial Hebrew Bible content); الكِتَاب المُقَدَّس (*al-Kitāb al-Muqaddas*, "the Holy Book") — the substantial broader Islamic-tradition designation
-- **Aramaic**: מקרא (*Mikra*) — the substantial Aramaic-tradition designation cognate with the Hebrew
+- **Griechisch**: ἡ Παλαιὰ Διαθήκη (*hē Palaia Diathēkē*, „der Alte Bund") — die substantielle griechisch-christliche Bezeichnung; auch τὰ βιβλία (*ta biblia*, „die Bücher") — die substantielle kollektive Bezeichnung der Septuaginta auf Griechisch
+- **Latein**: *Vetus Testamentum* — die substantielle vulgata-lateinische christliche Bezeichnung
+- **Arabisch**: التَّوْرَاة (*at-Taurāh*, eigentlich den Pentateuch bezeichnend, aber auf den substantiellen Inhalt der Hebräischen Bibel ausgedehnt); الكِتَاب المُقَدَّس (*al-Kitāb al-Muqaddas*, „das Heilige Buch") — die substantielle breitere Bezeichnung der islamischen Tradition
+- **Aramäisch**: מקרא (*Mikra*) — die substantielle aramäisch-traditionelle Bezeichnung, verwandt mit dem Hebräischen
 
-### Corpus-internal usage
+### Korpus-interne Verwendung
 
-The Wheel of Heaven corpus uses **Hebrew Bible** as the principal designation, with **Tanakh** used in framework-specific contexts where substantial Jewish-tradition specificity is required. The various other designations are used in specific contexts where operational specificity is required.
+Das Wheel-of-Heaven-Korpus verwendet **Hebräische Bibel** als wichtigste Bezeichnung, wobei **Tanach** in rahmenspezifischen Kontexten verwendet wird, in denen substantielle jüdisch-traditionelle Spezifität erforderlich ist. Die verschiedenen anderen Bezeichnungen werden in spezifischen Kontexten verwendet, in denen operative Spezifität erforderlich ist.
 
-## Conventional understanding
+## Konventionelles Verständnis
 
-The Hebrew Bible has substantial mainstream scholarly engagement across multiple distinct disciplines.
+Die Hebräische Bibel hat substantielle etablierte wissenschaftliche Auseinandersetzung über mehrere unterschiedliche Disziplinen hinweg.
 
-### The substantial canonical structure
+### Die substantielle kanonische Struktur
 
-Mainstream scholarly engagement registers the substantial Hebrew Bible canonical structure across the substantial three-part organization.
+Die etablierte wissenschaftliche Auseinandersetzung erfasst die substantielle kanonische Struktur der Hebräischen Bibel über die substantielle dreiteilige Organisation hinweg.
 
-**The Torah / Pentateuch**. The substantial Hebrew **תּוֹרָה** (*Torah*, "Law" or "Instruction") comprises the substantial first five books:
+**Die Tora / der Pentateuch**. Das substantielle Hebräische **תּוֹרָה** (*Tora*, „Gesetz" oder „Unterweisung") umfasst die substantiellen ersten fünf Bücher:
 
-1. **Genesis** (Hebrew: בְּרֵאשִׁית, *Bereshit*, "In the beginning"): the substantial creation account, the substantial primeval history (Genesis 1-11), the substantial patriarchal narratives (Genesis 12-50)
-2. **Exodus** (Hebrew: שְׁמוֹת, *Shemot*, "Names"): the substantial Egyptian bondage, the substantial Mosaic deliverance, the substantial Sinai covenant, the substantial tabernacle construction
-3. **Leviticus** (Hebrew: וַיִּקְרָא, *Vayikra*, "And he called"): the substantial priestly legislation, the substantial sacrificial system, the substantial holiness code
-4. **Numbers** (Hebrew: בְּמִדְבָּר, *Bemidbar*, "In the wilderness"): the substantial wilderness wanderings, the substantial census materials, various substantial legal-ritual content
-5. **Deuteronomy** (Hebrew: דְּבָרִים, *Devarim*, "Words"): the substantial Mosaic farewell discourses, the substantial covenant renewal, the substantial Mosaic death
+1. **Genesis** (Hebräisch: בְּרֵאשִׁית, *Bereschit*, „Im Anfang"): die substantielle Schöpfungserzählung, die substantielle Urgeschichte (Genesis 1–11), die substantiellen Patriarchenerzählungen (Genesis 12–50)
+2. **Exodus** (Hebräisch: שְׁמוֹת, *Schemot*, „Namen"): die substantielle ägyptische Knechtschaft, die substantielle mosaische Befreiung, der substantielle Sinai-Bund, der substantielle Tabernakelbau
+3. **Levitikus** (Hebräisch: וַיִּקְרָא, *Wajikra*, „Und er rief"): die substantielle priesterliche Gesetzgebung, das substantielle Opfersystem, der substantielle Heiligkeitskodex
+4. **Numeri** (Hebräisch: בְּמִדְבָּר, *Bemidbar*, „In der Wüste"): die substantiellen Wüstenwanderungen, die substantiellen Volkszählungsmaterialien, verschiedene substantielle rechtlich-rituelle Inhalte
+5. **Deuteronomium** (Hebräisch: דְּבָרִים, *Devarim*, „Worte"): die substantiellen mosaischen Abschiedsreden, die substantielle Bundeserneuerung, der substantielle Tod des Mose
 
-The substantial Pentateuch operates as substantial foundational legal-religious-narrative content within the broader Hebrew Bible canonical structure.
+Der substantielle Pentateuch fungiert als substantieller grundlegender rechtlich-religiös-erzählerischer Inhalt innerhalb der breiteren kanonischen Struktur der Hebräischen Bibel.
 
-**The Nevi'im / Prophets**. The substantial Hebrew **נְבִיאִים** (*Nevi'im*, "Prophets") comprises substantial historical-prophetic content organized into Former Prophets and Latter Prophets:
+**Die Newiim / Propheten**. Das substantielle Hebräische **נְבִיאִים** (*Newiim*, „Propheten") umfasst substantielle historisch-prophetische Inhalte, organisiert in Vordere Propheten und Hintere Propheten:
 
-**Former Prophets** (Hebrew: נְבִיאִים רִאשׁוֹנִים, *Nevi'im Rishonim*):
-1. **Joshua** (Hebrew: יְהוֹשֻׁעַ, *Yehoshua*): the substantial conquest narrative
-2. **Judges** (Hebrew: שׁוֹפְטִים, *Shoftim*): the substantial pre-monarchic period
-3. **Samuel** (Hebrew: שְׁמוּאֵל, *Shmuel*) — single book in Jewish organization, two books in Christian organization: the substantial transition to monarchy, the substantial Davidic kingship
-4. **Kings** (Hebrew: מְלָכִים, *Melakhim*) — single book in Jewish organization, two books in Christian organization: the substantial monarchic history through the substantial Babylonian exile
+**Vordere Propheten** (Hebräisch: נְבִיאִים רִאשׁוֹנִים, *Newiim Rischonim*):
+1. **Josua** (Hebräisch: יְהוֹשֻׁעַ, *Jehoschua*): die substantielle Eroberungserzählung
+2. **Richter** (Hebräisch: שׁוֹפְטִים, *Schoftim*): die substantielle vormonarchische Periode
+3. **Samuel** (Hebräisch: שְׁמוּאֵל, *Schmuel*) — Einzelbuch in der jüdischen Organisation, zwei Bücher in der christlichen Organisation: der substantielle Übergang zur Monarchie, das substantielle davidische Königtum
+4. **Könige** (Hebräisch: מְלָכִים, *Melakhim*) — Einzelbuch in der jüdischen Organisation, zwei Bücher in der christlichen Organisation: die substantielle monarchische Geschichte bis zum substantiellen babylonischen Exil
 
-**Latter Prophets** (Hebrew: נְבִיאִים אַחֲרוֹנִים, *Nevi'im Aharonim*):
-5. **Isaiah** (Hebrew: יְשַׁעְיָהוּ, *Yeshayahu*)
-6. **Jeremiah** (Hebrew: יִרְמְיָהוּ, *Yirmeyahu*)
-7. **Ezekiel** (Hebrew: יְחֶזְקֵאל, *Yehezkel*)
-8. **The Twelve** (Hebrew: תְּרֵי עֲשַׂר, *Trei Asar*) — twelve minor prophets in Jewish organization, twelve separate books in Christian organization: Hosea, Joel, Amos, Obadiah, Jonah, Micah, Nahum, Habakkuk, Zephaniah, Haggai, Zechariah, Malachi
+**Hintere Propheten** (Hebräisch: נְבִיאִים אַחֲרוֹנִים, *Newiim Acharonim*):
+5. **Jesaja** (Hebräisch: יְשַׁעְיָהוּ, *Jeschajahu*)
+6. **Jeremia** (Hebräisch: יִרְמְיָהוּ, *Jirmejahu*)
+7. **Ezechiel** (Hebräisch: יְחֶזְקֵאל, *Jechezkel*)
+8. **Die Zwölf** (Hebräisch: תְּרֵי עֲשַׂר, *Trei Asar*) — zwölf kleine Propheten in der jüdischen Organisation, zwölf separate Bücher in der christlichen Organisation: Hosea, Joel, Amos, Obadja, Jona, Micha, Nahum, Habakuk, Zefanja, Haggai, Sacharja, Maleachi
 
-**The Ketuvim / Writings**. The substantial Hebrew **כְּתוּבִים** (*Ketuvim*, "Writings") comprises substantial diverse content:
+**Die Ketuvim / Schriften**. Das substantielle Hebräische **כְּתוּבִים** (*Ketuvim*, „Schriften") umfasst substantielle vielfältige Inhalte:
 
-1. **Psalms** (Hebrew: תְּהִלִּים, *Tehillim*)
-2. **Proverbs** (Hebrew: מִשְׁלֵי, *Mishlei*)
-3. **Job** (Hebrew: אִיּוֹב, *Iyov*)
-4. **Song of Songs** (Hebrew: שִׁיר הַשִּׁירִים, *Shir ha-Shirim*)
-5. **Ruth** (Hebrew: רוּת, *Rut*)
-6. **Lamentations** (Hebrew: אֵיכָה, *Eikhah*)
-7. **Ecclesiastes** (Hebrew: קֹהֶלֶת, *Kohelet*)
-8. **Esther** (Hebrew: אֶסְתֵּר, *Ester*)
-9. **Daniel** (Hebrew: דָּנִיֵּאל, *Daniel*)
-10. **Ezra-Nehemiah** (Hebrew: עֶזְרָא־נְחֶמְיָה) — single book in Jewish organization, two books in Christian organization
-11. **Chronicles** (Hebrew: דִּבְרֵי הַיָּמִים, *Divrei ha-Yamim*) — single book in Jewish organization, two books in Christian organization
+1. **Psalmen** (Hebräisch: תְּהִלִּים, *Tehillim*)
+2. **Sprüche** (Hebräisch: מִשְׁלֵי, *Mischlei*)
+3. **Hiob** (Hebräisch: אִיּוֹב, *Ijov*)
+4. **Hoheslied** (Hebräisch: שִׁיר הַשִּׁירִים, *Schir ha-Schirim*)
+5. **Rut** (Hebräisch: רוּת, *Rut*)
+6. **Klagelieder** (Hebräisch: אֵיכָה, *Eikha*)
+7. **Kohelet** (Hebräisch: קֹהֶלֶת, *Kohelet*)
+8. **Ester** (Hebräisch: אֶסְתֵּר, *Ester*)
+9. **Daniel** (Hebräisch: דָּנִיֵּאל, *Daniel*)
+10. **Esra-Nehemia** (Hebräisch: עֶזְרָא־נְחֶמְיָה) — Einzelbuch in der jüdischen Organisation, zwei Bücher in der christlichen Organisation
+11. **Chronik** (Hebräisch: דִּבְרֵי הַיָּמִים, *Divrei ha-Jamim*) — Einzelbuch in der jüdischen Organisation, zwei Bücher in der christlichen Organisation
 
-The substantial Ketuvim operates as substantial diverse-genre content within the broader Hebrew Bible canonical structure.
+Die substantiellen Ketuvim fungieren als substantieller vielfältig-gattungsmäßiger Inhalt innerhalb der breiteren kanonischen Struktur der Hebräischen Bibel.
 
-### The substantial linguistic content
+### Der substantielle sprachliche Inhalt
 
-The substantial Hebrew Bible operates principally in **Biblical Hebrew** (substantial classical Hebrew language with substantial diachronic development across the substantial composition period). The substantial textual content includes substantial **Biblical Aramaic** in select passages:
+Die substantielle Hebräische Bibel operiert hauptsächlich in **biblischem Hebräisch** (substantielle klassische hebräische Sprache mit substantieller diachroner Entwicklung über die substantielle Kompositionszeit hinweg). Der substantielle Textinhalt umfasst substantielles **biblisches Aramäisch** in ausgewählten Passagen:
 
-- **Daniel 2:4b-7:28**: the substantial Aramaic narrative section
-- **Ezra 4:8-6:18 and 7:12-26**: the substantial Aramaic documentary materials
-- **Jeremiah 10:11**: a single Aramaic verse
-- **Genesis 31:47**: a brief Aramaic phrase
+- **Daniel 2,4b–7,28**: der substantielle aramäische Erzählabschnitt
+- **Esra 4,8–6,18 und 7,12–26**: die substantiellen aramäischen Dokumentarmaterialien
+- **Jeremia 10,11**: ein einzelner aramäischer Vers
+- **Genesis 31,47**: eine kurze aramäische Phrase
 
-The substantial linguistic dual-language content reflects the substantial historical-cultural context of substantial Persian-period composition for various Daniel and Ezra materials, with substantial Aramaic operating as substantial *lingua franca* of the broader Persian Empire.
+Der substantielle sprachliche zweisprachige Inhalt spiegelt den substantiellen historisch-kulturellen Kontext der substantiellen Komposition in persischer Zeit für verschiedene Daniel- und Esra-Materialien wider, wobei substantielles Aramäisch als substantielle *Lingua franca* des breiteren Persischen Reiches fungierte.
 
-### The substantial composition period
+### Die substantielle Kompositionsperiode
 
-Mainstream scholarly engagement registers substantial composition period extending across approximately twelve centuries:
+Die etablierte wissenschaftliche Auseinandersetzung erfasst eine substantielle Kompositionsperiode, die sich über etwa zwölf Jahrhunderte erstreckt:
 
-- **The earliest layers**: traditionally dated to the substantial Late Bronze Age (c. 12th century BCE), with substantial scholarly debate regarding the dating of various Pentateuchal source-materials
-- **The principal composition period**: c. 10th-5th centuries BCE, with substantial monarchic-period and exilic-period composition operating substantially across the broader textual tradition
-- **The latest layers**: c. 4th-2nd centuries BCE, with various Persian-Hellenistic-period composition (Daniel, various other late materials)
-- **The canonization process**: c. 5th-2nd centuries BCE for various sections, with the substantial finalization of the broader canonical structure operating across the substantial period
+- **Die frühesten Schichten**: traditionell datiert auf die substantielle späte Bronzezeit (ca. 12. Jahrhundert v. Chr.), mit substantieller wissenschaftlicher Debatte über die Datierung verschiedener pentateuchischer Quellenmaterialien
+- **Die wichtigste Kompositionsperiode**: ca. 10.–5. Jahrhundert v. Chr., mit substantieller monarchischer und exilischer Komposition, die substantiell über die breitere Texttradition hinweg operiert
+- **Die spätesten Schichten**: ca. 4.–2. Jahrhundert v. Chr., mit verschiedener persisch-hellenistischer Komposition (Daniel, verschiedene andere späte Materialien)
+- **Der Kanonisierungsprozess**: ca. 5.–2. Jahrhundert v. Chr. für verschiedene Abschnitte, wobei die substantielle Finalisierung der breiteren kanonischen Struktur über die substantielle Periode hinweg operiert
 
-### The substantial textual transmission
+### Die substantielle Textüberlieferung
 
-The substantial Hebrew Bible has been preserved through substantial textual-transmission tradition spanning approximately three millennia.
+Die substantielle Hebräische Bibel wurde durch eine substantielle Textüberlieferungstradition bewahrt, die sich über etwa drei Jahrtausende erstreckt.
 
-**The substantial Masoretic Text**. The substantial **Masoretic Text** (Hebrew: נֻסַּח הַמָּסוֹרָה, *Nusach ha-Masorah*) operates as the principal received text of the Hebrew Bible. The substantial textual tradition was developed across approximately the 6th-10th centuries CE by the substantial **Masoretes** (Hebrew: בַּעֲלֵי הַמָּסוֹרָה, *Ba'alei ha-Masorah*, "Masters of the Tradition") — substantial Jewish scholars principally in Tiberias and Babylon who developed substantial vocalization-and-cantillation systems for the previously-unvocalized consonantal Hebrew text. The substantial principal manuscript witnesses:
+**Der substantielle Masoretische Text**. Der substantielle **Masoretische Text** (Hebräisch: נֻסַּח הַמָּסוֹרָה, *Nusach ha-Masorah*) fungiert als der wichtigste empfangene Text der Hebräischen Bibel. Die substantielle Texttradition wurde über etwa das 6.–10. Jahrhundert n. Chr. hinweg von den substantiellen **Masoreten** (Hebräisch: בַּעֲלֵי הַמָּסוֹרָה, *Ba'alei ha-Masorah*, „Meister der Tradition") entwickelt — substantielle jüdische Gelehrte hauptsächlich in Tiberias und Babylon, die substantielle Vokalisations- und Kantillationssysteme für den zuvor unvokalisierten konsonantischen hebräischen Text entwickelten. Die substantiellen wichtigsten Handschriftenzeugen:
 
-- **The Aleppo Codex** (10th century CE): the substantial principal early Masoretic manuscript, partially preserved
-- **The Leningrad Codex** (1008 CE): the substantial complete early Masoretic manuscript, the principal basis for substantial modern critical editions
-- **Various Cairo Genizah fragments**: substantial earlier manuscript evidence
+- **Der Aleppo-Kodex** (10. Jahrhundert n. Chr.): die substantielle wichtigste frühe masoretische Handschrift, teilweise erhalten
+- **Der Leningrader Kodex** (1008 n. Chr.): die substantielle vollständige frühe masoretische Handschrift, die wichtigste Grundlage für substantielle moderne kritische Ausgaben
+- **Verschiedene Fragmente der Kairoer Geniza**: substantielle frühere Handschriftenbeweise
 
-**The substantial Dead Sea Scrolls evidence**. The substantial discovery of the Dead Sea Scrolls beginning in 1947 produced substantial textual evidence approximately one thousand years older than the previously-available Masoretic manuscripts. The substantial Qumran biblical scrolls register substantial textual content with substantial agreement with the subsequent Masoretic tradition while preserving substantial textual variants in various passages.
+**Der substantielle Befund der Schriftrollen vom Toten Meer**. Die substantielle Entdeckung der Schriftrollen vom Toten Meer ab 1947 brachte substantielle Textbeweise hervor, die etwa tausend Jahre älter sind als die zuvor verfügbaren masoretischen Handschriften. Die substantiellen biblischen Schriftrollen von Qumran erfassen substantielle Textinhalte mit substantieller Übereinstimmung mit der nachfolgenden masoretischen Tradition, während sie substantielle Textvarianten in verschiedenen Passagen bewahren.
 
-**The substantial Septuagint translation**. The substantial **Septuagint** (Greek: Ἡ Μετάφρασις τῶν Ἑβδομήκοντα, *Hē Metaphrasis tōn Hebdomēkonta*, "The Translation of the Seventy"; abbreviated LXX) operates as the substantial 3rd-2nd-century-BCE Greek translation of the Hebrew Bible. The substantial translation was produced principally in Alexandria, Egypt, within the substantial Hellenistic Jewish community. The substantial Septuagint preserves substantial pre-Masoretic Hebrew textual tradition in various passages, with substantial textual-critical importance.
+**Die substantielle Septuaginta-Übersetzung**. Die substantielle **Septuaginta** (Griechisch: Ἡ Μετάφρασις τῶν Ἑβδομήκοντα, *Hē Metaphrasis tōn Hebdomēkonta*, „Die Übersetzung der Siebzig"; abgekürzt LXX) fungiert als die substantielle griechische Übersetzung der Hebräischen Bibel aus dem 3.–2. Jahrhundert v. Chr. Die substantielle Übersetzung wurde hauptsächlich in Alexandria, Ägypten, innerhalb der substantiellen hellenistisch-jüdischen Gemeinde hervorgebracht. Die substantielle Septuaginta bewahrt in verschiedenen Passagen die substantielle vor-masoretische hebräische Texttradition, mit substantieller textkritischer Bedeutung.
 
-**The substantial Samaritan Pentateuch**. The substantial **Samaritan Pentateuch** preserves substantial alternative textual tradition for the Pentateuch within the substantial Samaritan religious community. The substantial Samaritan Pentateuch registers substantial textual variants from the substantial Masoretic tradition, with substantial textual-critical importance.
+**Der substantielle Samaritanische Pentateuch**. Der substantielle **Samaritanische Pentateuch** bewahrt eine substantielle alternative Texttradition für den Pentateuch innerhalb der substantiellen samaritanischen religiösen Gemeinschaft. Der substantielle Samaritanische Pentateuch erfasst substantielle Textvarianten gegenüber der substantiellen masoretischen Tradition, mit substantieller textkritischer Bedeutung.
 
-### The substantial Sendy engagement with the Hebrew Bible
+### Die substantielle Sendy-Auseinandersetzung mit der Hebräischen Bibel
 
-**Jean Sendy** in *Ces dieux qui firent le ciel et la terre* (1969), *L'ère du Verseau* (1970), and various other works develops substantial complementary content on the broader Hebrew Bible framework. Sendy's substantial principal contribution: substantial systematic engagement with the substantial Hebrew Bible content through the broader Tradition framework, particularly the substantial *Elohim* plurality, the substantial *benei ha-Elohim* content, and the substantial alliance-contact specificity preserved in the substantial textual content. Sendy's substantial broader Tradition framework operates substantively within the corpus's broader Hebrew Bible engagement.
+**Jean Sendy** entwickelt in *Ces dieux qui firent le ciel et la terre* (1969), *L'ère du Verseau* (1970) und verschiedenen anderen Werken substantielle ergänzende Inhalte zum breiteren Rahmen der Hebräischen Bibel. Sendys substantieller wichtigster Beitrag: substantielle systematische Auseinandersetzung mit dem substantiellen Inhalt der Hebräischen Bibel durch den breiteren Traditionsrahmen, insbesondere die substantielle *Elohim*-Pluralität, der substantielle *benei ha-Elohim*-Inhalt und die substantielle Spezifität des Allianzkontakts, die im substantiellen Textinhalt bewahrt ist. Sendys substantieller breiterer Traditionsrahmen operiert substantiell innerhalb der breiteren Auseinandersetzung des Korpus mit der Hebräischen Bibel.
 
-### The framework's relationship to the broader landscape
+### Die Beziehung des Rahmens zur breiteren Landschaft
 
-The Wheel of Heaven corpus's Hebrew Bible framework is positioned within this scholarly landscape as follows: substantially aligned with mainstream Hebrew Bible scholarship at the textual-philological level (recognizing the substantial scholarly documentation of the substantial textual content); substantially aligned with mainstream archaeological-historical scholarship at the substantial historical-context level (recognizing the substantial scholarly documentation of the substantial historical-cultural background); substantially aligned with the substantial textual-criticism scholarship at the substantial textual-history level (recognizing the substantial scholarly documentation of the substantial transmission history); substantively distinct from mainstream theological scholarship at the interpretive level (the framework's specific historical-record reading operates substantively beyond the conventional religious-mythological treatment); substantially aligned with various alternative-history scholarly traditions (Sitchin's Anunnaki framework, Wallis's broader engagement, Biglino's strict-translational approach) at the underlying-historical-event-reading level while operating from distinct source-material warrant principally drawn from the Raëlian source material.
+Der Rahmen der Hebräischen Bibel des Wheel-of-Heaven-Korpus ist innerhalb dieser wissenschaftlichen Landschaft wie folgt positioniert: substantiell ausgerichtet auf etablierte Hebräische-Bibel-Forschung auf der textlich-philologischen Ebene (in Anerkennung der substantiellen wissenschaftlichen Dokumentation des substantiellen Textinhalts); substantiell ausgerichtet auf etablierte archäologisch-historische Forschung auf der substantiellen historisch-kontextuellen Ebene (in Anerkennung der substantiellen wissenschaftlichen Dokumentation des substantiellen historisch-kulturellen Hintergrunds); substantiell ausgerichtet auf die substantielle textkritische Forschung auf der substantiellen textgeschichtlichen Ebene (in Anerkennung der substantiellen wissenschaftlichen Dokumentation der substantiellen Überlieferungsgeschichte); substantiell verschieden von der etablierten theologischen Forschung auf der interpretativen Ebene (die spezifische Lesart als historisches Zeugnis des Rahmens operiert substantiell jenseits der konventionellen religiös-mythologischen Behandlung); substantiell ausgerichtet auf verschiedene alternativhistorische wissenschaftliche Traditionen (Sitchins Anunnaki-Rahmen, Wallis' breitere Auseinandersetzung, Biglinos streng-übersetzerischer Ansatz) auf der Ebene der Lesart der zugrunde liegenden historischen Ereignisse, während sie aus unterschiedlicher Quellenmaterial-Berechtigung operiert, die hauptsächlich aus dem raelianischen Quellenmaterial gewonnen wird.
 
-## In primary sources
+## In den Primärquellen
 
-The framework's principal primary-source material registers the substantial Hebrew Bible's foundational status across multiple Yahweh-articulated passages and substantial subsequent corpus development.
+Das wichtigste Primärquellenmaterial des Rahmens erfasst den substantiellen grundlegenden Status der Hebräischen Bibel über mehrere Jahwe-artikulierte Passagen und substantielle nachfolgende Korpusentwicklung hinweg.
 
-### The principal "historical record" passage
+### Die wichtigste Passage über das „historische Zeugnis"
 
-The substantial principal source-material passage establishing the framework's distinctive historical-record reading appears in the substantial corpus articulation of the broader revelation-content:
+Die substantielle wichtigste Quellenmaterialpassage, die die charakteristische Lesart des Rahmens als historisches Zeugnis begründet, erscheint in der substantiellen Korpusartikulation des breiteren Offenbarungsinhalts:
 
-> *"The second claim is that the Hebrew Bible and the other major religious traditions of the world preserve accurate historical memory of the alliance's interventions, in forms that reflect the pre-scientific vocabularies of their authors but that can be decoded by a scientifically mature reader. The specific decoding the source provides — Genesis 1 as genetic engineering rather than supernatural creation, the Nephilim as alliance-human hybrids, the flood as a nuclear cataclysm, Sinai as a formal alliance audience, the parted waters as directed-beam operations, the miracles of Jesus as scientific applications of advanced technology, the Elohim as plural rather than singular — is the corpus's foundational hermeneutic. The Hebrew Bible is not a book of religious myths that require either literal belief or allegorical reinterpretation; it is a historical record, imperfect in its pre-scientific vocabulary but substantially accurate in its content, that can be read directly once the hermeneutic key is available."*
+> *„Die zweite Behauptung ist, dass die Hebräische Bibel und die anderen großen religiösen Traditionen der Welt eine genaue historische Erinnerung an die Interventionen der Allianz bewahren, in Formen, die die vorwissenschaftlichen Vokabularien ihrer Autoren widerspiegeln, die aber von einem wissenschaftlich gereiften Leser entschlüsselt werden können. Die spezifische Entschlüsselung, die die Quelle liefert — Genesis 1 als Gentechnik statt übernatürliche Schöpfung, die Nephilim als Allianz-Mensch-Hybride, die Sintflut als nukleare Katastrophe, Sinai als formales Allianzaudienz, die geteilten Wasser als Operationen gerichteter Strahlen, die Wunder Jesu als wissenschaftliche Anwendungen fortgeschrittener Technologie, die Elohim als Plural statt Singular — ist die grundlegende Hermeneutik des Korpus. Die Hebräische Bibel ist kein Buch religiöser Mythen, die entweder wörtlichen Glauben oder allegorische Neuinterpretation erfordern; sie ist ein historisches Zeugnis, unvollkommen in ihrem vorwissenschaftlichen Vokabular, aber substantiell genau in ihrem Inhalt, das direkt gelesen werden kann, sobald der hermeneutische Schlüssel verfügbar ist."*
 
-The passage establishes the framework's principal structural and operational components:
+Die Passage begründet die wichtigsten strukturellen und operativen Komponenten des Rahmens:
 
-**1. The substantial historical-record framing**. The substantial Hebrew Bible operates as substantial accurate historical memory rather than as substantial religious-mythological invention.
+**1. Die substantielle Rahmung als historisches Zeugnis**. Die substantielle Hebräische Bibel fungiert als substantielle genaue historische Erinnerung und nicht als substantielle religiös-mythologische Erfindung.
 
-**2. The substantial pre-scientific-vocabulary content**. The substantial human authors recorded what they observed in the substantial pre-scientific vocabulary available to them, with substantial decodable layer operating across the broader textual content.
+**2. Der substantielle vorwissenschaftlich-vokabuläre Inhalt**. Die substantiellen menschlichen Autoren hielten das, was sie beobachteten, im substantiellen vorwissenschaftlichen Vokabular fest, das ihnen verfügbar war, wobei eine substantielle dekodierbare Schicht über den breiteren Textinhalt hinweg operiert.
 
-**3. The substantial decoding hermeneutic**. The substantial framework provides substantial systematic hermeneutic key for substantive engagement with the substantial textual content — Genesis 1 as genetic engineering, the Nephilim as alliance-human hybrids, the flood as nuclear cataclysm, Sinai as formal alliance audience, etc.
+**3. Die substantielle Entschlüsselungshermeneutik**. Der substantielle Rahmen bietet einen substantiellen systematischen hermeneutischen Schlüssel für die substantielle Auseinandersetzung mit dem substantiellen Textinhalt — Genesis 1 als Gentechnik, die Nephilim als Allianz-Mensch-Hybride, die Sintflut als nukleare Katastrophe, Sinai als formales Allianzaudienz usw.
 
-**4. The substantial scientifically-mature-reader contextualization**. The substantial decoding requires substantial scientific maturity that the substantial Aquarian-age contemporary reader possesses but that previous generations lacked.
+**4. Die substantielle Kontextualisierung des wissenschaftlich gereiften Lesers**. Die substantielle Entschlüsselung erfordert substantielle wissenschaftliche Reife, die der substantielle zeitgenössische Leser des Wassermann-Zeitalters besitzt, die aber früheren Generationen fehlte.
 
-### The substantial centrality passage
+### Die substantielle Zentralitätspassage
 
-The substantial principal source-material passage establishing the framework's substantial centrality position appears in the corpus articulation:
+Die substantielle wichtigste Quellenmaterialpassage, die die substantielle Zentralitätsposition des Rahmens begründet, erscheint in der Korpusartikulation:
 
-> *"At the structural center of the synthesis is the Hebrew tradition. The Hebrew Bible is, on the corpus's reading, the most direct and least mediated record of the alliance's communication with Earth. The text was produced by a specific lineage — the Eden lineage, the descendants of the original alliance-cultivated population in the Eden geographic location — across the long arc from the Taurus age's reconstruction through the Aries age's prophetic tradition. The text's authors had direct access to the alliance's officers (the Yahweh contacts, the malakhim visitations, the dictation events at Sinai and elsewhere) and recorded what they were given in the Hebrew vocabulary available to them. The text is imperfect — the Hebrew authors did not always understand what they were recording, the various redactions across the centuries introduced layers of cultural framing on top of the original content, and the eventual canonization process selected specific texts while excluding others — but the text is, on the corpus's reading, substantially what it presents itself as: the documentary record of the alliance's relationship with the Eden lineage across the post-flood millennia."*
+> *„Im strukturellen Zentrum der Synthese steht die hebräische Tradition. Die Hebräische Bibel ist, in der Lesart des Korpus, das direkteste und am wenigsten vermittelte Zeugnis der Kommunikation der Allianz mit der Erde. Der Text wurde von einer spezifischen Linie hervorgebracht — der Eden-Linie, den Nachkommen der ursprünglichen von der Allianz kultivierten Bevölkerung am geographischen Ort Eden — über den langen Bogen vom Wiederaufbau im Stier-Zeitalter bis zur prophetischen Tradition im Widder-Zeitalter. Die Autoren des Textes hatten direkten Zugang zu den Offizieren der Allianz (die Jahwe-Kontakte, die malakhim-Besuche, die Diktatereignisse am Sinai und anderswo) und hielten das, was ihnen gegeben wurde, im ihnen verfügbaren hebräischen Vokabular fest. Der Text ist unvollkommen — die hebräischen Autoren verstanden nicht immer, was sie aufzeichneten, die verschiedenen Redaktionen über die Jahrhunderte hinweg führten Schichten kultureller Rahmung über den ursprünglichen Inhalt ein, und der letztendliche Kanonisierungsprozess wählte spezifische Texte aus, während er andere ausschloss — aber der Text ist, in der Lesart des Korpus, substantiell das, was er sich selbst präsentiert: das dokumentarische Zeugnis der Beziehung der Allianz zur Eden-Linie über die nachsintflutlichen Jahrtausende hinweg."*
 
-The passage establishes the substantial centrality content:
+Die Passage begründet den substantiellen Zentralitätsinhalt:
 
-**1. The substantial structural-center position**. The Hebrew Bible operates at the substantial structural center of the broader corpus asymmetric synthesis.
+**1. Die substantielle strukturell-zentrale Position**. Die Hebräische Bibel operiert im substantiellen strukturellen Zentrum der breiteren asymmetrischen Synthese des Korpus.
 
-**2. The substantial direct-and-least-mediated character**. The Hebrew Bible operates as substantively the most direct and least mediated record of the alliance's communication with Earth.
+**2. Der substantielle direkte und am wenigsten vermittelte Charakter**. Die Hebräische Bibel fungiert als im Wesentlichen das direkteste und am wenigsten vermittelte Zeugnis der Kommunikation der Allianz mit der Erde.
 
-**3. The substantial Eden-lineage genealogical specificity**. The substantial textual content was produced by the substantial Eden-lineage genealogical line across the substantial long arc from the Taurus-age reconstruction through the Aries-age prophetic tradition.
+**3. Die substantielle genealogische Spezifität der Eden-Linie**. Der substantielle Textinhalt wurde von der substantiellen genealogischen Linie der Eden-Linie über den substantiellen langen Bogen vom Wiederaufbau im Stier-Zeitalter bis zur prophetischen Tradition im Widder-Zeitalter hervorgebracht.
 
-**4. The substantial direct-access content**. The substantial textual authors had substantial direct access to the alliance's officers — the substantial Yahweh contacts, the substantial *malakhim* visitations, the substantial dictation events at Sinai and elsewhere.
+**4. Der substantielle Inhalt des direkten Zugangs**. Die substantiellen Textautoren hatten substantiellen direkten Zugang zu den Offizieren der Allianz — die substantiellen Jahwe-Kontakte, die substantiellen *malakhim*-Besuche, die substantiellen Diktatereignisse am Sinai und anderswo.
 
-**5. The substantial imperfection content**. The substantial textual content registers substantial imperfections — the substantial pre-scientific vocabulary, the substantial redactional layering, the substantial canonization selection — but operates substantively as the substantial documentary record of the alliance's relationship with the Eden lineage.
+**5. Der substantielle Inhalt der Unvollkommenheit**. Der substantielle Textinhalt erfasst substantielle Unvollkommenheiten — das substantielle vorwissenschaftliche Vokabular, die substantielle redaktionelle Schichtung, die substantielle Kanonisierungsauswahl — fungiert aber substantiell als das substantielle dokumentarische Zeugnis der Beziehung der Allianz zur Eden-Linie.
 
-### The substantial "Israel-team" passage
+### Die substantielle „Israel-Team"-Passage
 
-The substantial corpus articulation of the substantial Israel-team genealogical specificity:
+Die substantielle Korpusartikulation der substantiellen genealogischen Spezifität des Israel-Teams:
 
-> *"What the source does report — what the chapter must register without backing away from — is that the Hebrew biblical tradition, which preserves the most detailed surviving narrative of any of the seven teams' work, is the literature of one specific team whose particular accomplishment was noted at the time. This is consistent with the broader pattern in which the Israel team's humans, more than any other team's, became the cultural carriers of the creation memory. The Hebrew Bible is the record of that carrying. Its centrality to the corpus's interpretive framework reflects the historical accident — or the historical design — that this team's humans preserved their origin story with greater fidelity than the other teams' humans preserved theirs. The other teams' humans had their own creation traditions; many of those traditions survive in fragmentary form in the comparative-mythology material the Preamble surveyed. The Hebrew Bible is one tradition among several, not a uniquely privileged source. It is, however, the most complete and the most explicitly developed, which is why this corpus reads it most closely."*
+> *„Was die Quelle berichtet — was das Kapitel ohne Rückzug erfassen muss — ist, dass die hebräische biblische Tradition, die die detaillierteste erhaltene Erzählung von der Arbeit aller sieben Teams bewahrt, die Literatur eines spezifischen Teams ist, dessen besondere Leistung zu jener Zeit bemerkt wurde. Dies steht im Einklang mit dem breiteren Muster, in dem die Menschen des Israel-Teams mehr als die jedes anderen Teams zu den kulturellen Trägern der Schöpfungserinnerung wurden. Die Hebräische Bibel ist das Zeugnis dieses Tragens. Ihre Zentralität für den interpretativen Rahmen des Korpus spiegelt den historischen Zufall — oder das historische Design — wider, dass die Menschen dieses Teams ihre Ursprungsgeschichte mit größerer Treue bewahrten als die Menschen der anderen Teams ihre. Die Menschen der anderen Teams hatten ihre eigenen Schöpfungstraditionen; viele dieser Traditionen überleben in fragmentarischer Form im vergleichend-mythologischen Material, das die Präambel überblickte. Die Hebräische Bibel ist eine Tradition unter mehreren, keine einzigartig privilegierte Quelle. Sie ist jedoch die vollständigste und am explizitesten entwickelte, weshalb dieses Korpus sie am genauesten liest."*
 
-The passage establishes the substantial nuance: the Hebrew Bible operates as the literature of one specific creator-team's substantial work rather than as substantial unique-privileging content, with the substantial preservation-fidelity operating as the substantial reason for the corpus's substantial centrality positioning.
+Die Passage begründet die substantielle Nuance: Die Hebräische Bibel fungiert als die Literatur der substantiellen Arbeit eines spezifischen Schöpferteams und nicht als substantieller einzigartig privilegierter Inhalt, wobei die substantielle Bewahrungstreue als der substantielle Grund für die substantielle Zentralitätspositionierung des Korpus fungiert.
 
-### The substantial "first mistake of the Church" passage
+### Die substantielle Passage über den „ersten Fehler der Kirche"
 
-The substantial principal source-material passage establishing the framework's substantial translation-mistake reading appears in *Message from the Designers*:
+Die substantielle wichtigste Quellenmaterialpassage, die die substantielle Übersetzungsfehler-Lesart des Rahmens begründet, erscheint in *Message from the Designers*:
 
-> *"Its mistakes have been great, particularly when it injected too much of the supernatural into the truth, and wrongly translated the scriptures in ordinary Bibles. It replaced the term 'Elohim', which refers to the creators, with a singular term 'God', whereas in fact Elohim in Hebrew is the plural of Eloha. In this way, the Church transformed the creators into a single incomprehensible God."*
+> *„Ihre Fehler waren groß, besonders als sie zu viel Übernatürliches in die Wahrheit einbrachte und die Schriften in den gewöhnlichen Bibeln falsch übersetzte. Sie ersetzte den Begriff ‚Elohim', der sich auf die Schöpfer bezieht, durch den singulären Begriff ‚Gott', während Elohim im Hebräischen tatsächlich der Plural von Eloha ist. Auf diese Weise verwandelte die Kirche die Schöpfer in einen einzigen unbegreiflichen Gott."*
 
-The passage establishes the framework's substantial translation-mistake reading. The detailed treatment lives in the [Plurality of Gods](../plurality-of-gods/) entry; the Hebrew Bible entry's specific contribution is registering the broader translation-history landscape within which this specific mistake operates.
+Die Passage begründet die substantielle Übersetzungsfehler-Lesart des Rahmens. Die detaillierte Behandlung lebt im Eintrag {% wiki(slug="plurality-of-gods") %}Plurality of Gods{% end %}; der spezifische Beitrag des Eintrags Hebräische Bibel besteht darin, die breitere Landschaft der Übersetzungsgeschichte zu erfassen, innerhalb derer dieser spezifische Fehler operiert.
 
-### The substantial "wick" passage
+### Die substantielle Passage über den „Docht"
 
-The substantial corpus articulation of the broader Christian-tradition assessment registers substantial nuance:
+Die substantielle Korpusartikulation der breiteren Bewertung der christlichen Tradition erfasst substantielle Nuance:
 
-> *"The 'wick' is weakening. It has accomplished its mission, and it is time for it to disappear. It has made mistakes and has enriched itself at the expense of the truth, without trying to interpret it in a clear enough way for people of this era. But do not be too hard on it, for thanks to the Church, the word of the Bible, which is a witness to the truth, has spread throughout the world."*
+> *„Der ‚Docht' schwächt sich ab. Er hat seine Mission erfüllt, und es ist Zeit für ihn zu verschwinden. Er hat Fehler gemacht und sich auf Kosten der Wahrheit bereichert, ohne zu versuchen, sie auf klare Weise für die Menschen dieser Zeit zu interpretieren. Aber seid nicht zu hart mit ihm, denn dank der Kirche hat sich das Wort der Bibel, die ein Zeugnis der Wahrheit ist, über die ganze Welt verbreitet."*
 
-The passage registers substantial framework nuance: while the substantial Christian-tradition translation-and-theological mistakes are substantively registered, the substantial broader function of the Church in spreading the substantial Bible content "throughout the world" is also registered substantively. The substantial Hebrew Bible operates as the substantial textual content the Church has substantively distributed across the broader global landscape.
+Die Passage erfasst substantielle Rahmen-Nuance: Während die substantiellen Übersetzungs- und theologischen Fehler der christlichen Tradition substantiell erfasst werden, wird auch die substantielle breitere Funktion der Kirche bei der Verbreitung des substantiellen Bibelinhalts „über die ganze Welt" substantiell erfasst. Die substantielle Hebräische Bibel fungiert als der substantielle Textinhalt, den die Kirche substantiell über die breitere globale Landschaft hinweg verteilt hat.
 
-### The broader source-material context
+### Der breitere Quellenmaterial-Kontext
 
-The Hebrew Bible framework operates within the broader Raëlian source-material context, with substantial supporting material across multiple passages:
+Der Rahmen der Hebräischen Bibel operiert innerhalb des breiteren raelianischen Quellenmaterialkontextes, mit substantiellem unterstützendem Material über mehrere Passagen hinweg:
 
-- The substantial source's chapter-by-chapter engagement with substantial Hebrew Bible passages registers substantial framework engagement
-- The substantial *timeline.epub* substantial chapter-by-chapter Hebrew exegesis articulates substantial framework reading
-- The various individual entries (Genesis, Adam and Eve, Eden, Antediluvian, Great Flood, Theomachy, Babel, Sodom and Gomorrah, Moses, Abraham, Noah, Elohim, Yahweh, etc.) articulate substantial entry-specific framework readings
+- Die substantielle kapitelweise Auseinandersetzung der Quelle mit substantiellen Passagen der Hebräischen Bibel erfasst substantielle Rahmenauseinandersetzung
+- Die substantielle kapitelweise hebräische Exegese der *timeline.epub* artikuliert die substantielle Rahmenlesart
+- Die verschiedenen Einzeleinträge (Genesis, Adam und Eva, Eden, Antediluvianisch, Sintflut, Theomachie, Babel, Sodom und Gomorra, Mose, Abraham, Noah, Elohim, Jahwe usw.) artikulieren substantielle eintragsspezifische Rahmenlesarten
 
-## The Hebrew Bible's content
+## Der Inhalt der Hebräischen Bibel
 
-### The substantial canonical structure within the framework
+### Die substantielle kanonische Struktur innerhalb des Rahmens
 
-The framework operates substantively across the substantial Hebrew Bible canonical structure.
+Der Rahmen operiert substantiell über die substantielle kanonische Struktur der Hebräischen Bibel hinweg.
 
-**The Torah / Pentateuch within the framework**. The substantial Torah operates as substantial primary content for the broader corpus framework:
+**Die Tora / der Pentateuch innerhalb des Rahmens**. Die substantielle Tora fungiert als substantieller primärer Inhalt für den breiteren Korpusrahmen:
 
-- **Genesis 1-11 (the primeval history)**: substantial framework engagement across multiple corpus entries (Genesis, Adam and Eve, Eden, Antediluvian, Great Flood, Babel, the various creator-figure entries)
-- **Genesis 12-50 (the patriarchal narratives)**: substantial framework engagement (Abraham, Sodom and Gomorrah, Joseph, the various Eden-lineage genealogical content)
-- **Exodus**: substantial framework engagement (Moses, the substantial Sinai covenant, the substantial alliance-audience content)
-- **Leviticus**: substantial framework engagement with substantial priestly-legislative content as substantial alliance-instructed protocol
-- **Numbers**: substantial framework engagement with substantial wilderness-period content
-- **Deuteronomy**: substantial framework engagement with substantial covenant-renewal content
+- **Genesis 1–11 (die Urgeschichte)**: substantielle Rahmenauseinandersetzung über mehrere Korpuseinträge hinweg (Genesis, Adam und Eva, Eden, Antediluvianisch, Sintflut, Babel, die verschiedenen Schöpferfigureinträge)
+- **Genesis 12–50 (die Patriarchenerzählungen)**: substantielle Rahmenauseinandersetzung (Abraham, Sodom und Gomorra, Josef, die verschiedenen genealogischen Inhalte der Eden-Linie)
+- **Exodus**: substantielle Rahmenauseinandersetzung (Mose, der substantielle Sinai-Bund, der substantielle Inhalt der Allianzaudienz)
+- **Levitikus**: substantielle Rahmenauseinandersetzung mit substantiellem priesterlich-gesetzgeberischem Inhalt als substantielles allianzangeordnetes Protokoll
+- **Numeri**: substantielle Rahmenauseinandersetzung mit substantiellem Inhalt der Wüstenperiode
+- **Deuteronomium**: substantielle Rahmenauseinandersetzung mit substantiellem Bundeserneuerungsinhalt
 
-**The Nevi'im / Prophets within the framework**. The substantial Nevi'im operates as substantial subsequent framework content:
+**Die Newiim / Propheten innerhalb des Rahmens**. Die substantiellen Newiim fungieren als substantieller nachfolgender Rahmeninhalt:
 
-- **Former Prophets** (Joshua, Judges, Samuel, Kings): substantial framework engagement with the substantial monarchic period and the substantial broader alliance-relationship development
-- **Latter Prophets** (Isaiah, Jeremiah, Ezekiel, the Twelve): substantial framework engagement with the substantial prophetic tradition and the substantial alliance-mediated communication
+- **Vordere Propheten** (Josua, Richter, Samuel, Könige): substantielle Rahmenauseinandersetzung mit der substantiellen monarchischen Periode und der substantiellen breiteren Entwicklung der Allianzbeziehung
+- **Hintere Propheten** (Jesaja, Jeremia, Ezechiel, die Zwölf): substantielle Rahmenauseinandersetzung mit der substantiellen prophetischen Tradition und der substantiellen allianzvermittelten Kommunikation
 
-**The Ketuvim / Writings within the framework**. The substantial Ketuvim operates as substantial diverse-content framework engagement:
+**Die Ketuvim / Schriften innerhalb des Rahmens**. Die substantiellen Ketuvim fungieren als substantielle Rahmenauseinandersetzung mit vielfältigem Inhalt:
 
-- **Psalms**: substantial framework engagement with substantial liturgical-poetic content registering substantial alliance-relationship
-- **Job**: substantial framework engagement with the substantial divine-council scenes (Job 1-2) registering substantial Council operational structure
-- **Daniel**: substantial framework engagement with the substantial apocalyptic content registering substantial alliance-prophetic communication
-- **Various other Ketuvim books**: substantial framework engagement with various specific content
+- **Psalmen**: substantielle Rahmenauseinandersetzung mit substantiellem liturgisch-poetischem Inhalt, der substantielle Allianzbeziehung erfasst
+- **Hiob**: substantielle Rahmenauseinandersetzung mit den substantiellen göttlichen Ratsszenen (Hiob 1–2), die die substantielle operative Struktur des Rates erfassen
+- **Daniel**: substantielle Rahmenauseinandersetzung mit dem substantiellen apokalyptischen Inhalt, der die substantielle allianzprophetische Kommunikation erfasst
+- **Verschiedene andere Ketuvim-Bücher**: substantielle Rahmenauseinandersetzung mit verschiedenen spezifischen Inhalten
 
-### The substantial framework hermeneutic
+### Die substantielle Rahmenhermeneutik
 
-The substantial framework articulates substantial systematic hermeneutic for substantive engagement with the substantial Hebrew Bible content.
+Der substantielle Rahmen artikuliert eine substantielle systematische Hermeneutik für die substantielle Auseinandersetzung mit dem substantiellen Inhalt der Hebräischen Bibel.
 
-**The substantial principal hermeneutic moves**. The substantial framework articulates substantial principal interpretive moves across the broader textual tradition:
+**Die substantiellen wichtigsten hermeneutischen Bewegungen**. Der substantielle Rahmen artikuliert substantielle wichtigste interpretative Bewegungen über die breitere Texttradition hinweg:
 
-- **Genesis 1 as substantial genetic-engineering account** rather than substantial supernatural-creation account
-- **The substantial *Elohim* as substantial actual plural beings** rather than substantial singular God (treated principally in the [Plurality of Gods](../plurality-of-gods/) entry)
-- **The substantial *malakhim* as substantial alliance personnel** rather than substantial supernatural beings
-- **The substantial *benei ha-Elohim* as substantial alliance-human-contact content** (treated principally in the [Watchers](../watchers/) entry when written and the [Antediluvian](../antediluvian/) entry)
-- **The substantial Nephilim as substantial alliance-human hybrid offspring** rather than substantial supernatural giants
-- **The substantial flood as substantial nuclear cataclysm** (treated principally in the [Great Flood](../great-flood/) entry)
-- **The substantial Sinai event as substantial formal alliance audience** rather than substantial supernatural theophany
-- **The substantial parted waters as substantial directed-beam operations** rather than substantial supernatural intervention
-- **The substantial Sodom destruction as substantial atomic strike** (treated principally in the [Sodom and Gomorrah](../sodom-and-gomorrah/) entry)
-- **The substantial Babel intervention as substantial Council operational dispersion** (treated principally in the [Babel](../babel/) entry)
-- **The substantial Tetragrammaton as substantial Council-president personal designation** (treated principally in the [Yahweh](../yahweh/) and [Tetragrammaton](../tetragrammaton/) entries)
+- **Genesis 1 als substantielle gentechnische Darstellung** statt als substantielle übernatürliche Schöpfungsdarstellung
+- **Die substantiellen *Elohim* als substantielle tatsächlich plurale Wesen** statt als substantieller singulärer Gott (hauptsächlich im Eintrag {% wiki(slug="plurality-of-gods") %}Plurality of Gods{% end %} behandelt)
+- **Die substantiellen *malakhim* als substantielles Allianzpersonal** statt als substantielle übernatürliche Wesen
+- **Die substantiellen *benei ha-Elohim* als substantieller Inhalt des Allianz-Mensch-Kontakts** (hauptsächlich im Eintrag {% wiki(slug="watchers") %}Watchers{% end %}, wenn verfasst, und im Eintrag {% wiki(slug="antediluvian") %}Antediluvian{% end %} behandelt)
+- **Die substantiellen Nephilim als substantielle Allianz-Mensch-Hybridnachkommen** statt als substantielle übernatürliche Riesen
+- **Die substantielle Sintflut als substantielle nukleare Katastrophe** (hauptsächlich im Eintrag {% wiki(slug="great-flood") %}Great Flood{% end %} behandelt)
+- **Das substantielle Sinai-Ereignis als substantielle formale Allianzaudienz** statt als substantielle übernatürliche Theophanie
+- **Die substantiellen geteilten Wasser als substantielle Operationen gerichteter Strahlen** statt als substantielle übernatürliche Intervention
+- **Die substantielle Zerstörung Sodoms als substantieller atomarer Angriff** (hauptsächlich im Eintrag {% wiki(slug="sodom-and-gomorrah") %}Sodom and Gomorrah{% end %} behandelt)
+- **Die substantielle Babel-Intervention als substantielle operative Zerstreuung des Rates** (hauptsächlich im Eintrag {% wiki(slug="babel") %}Babel{% end %} behandelt)
+- **Das substantielle Tetragrammaton als substantielle persönliche Bezeichnung des Ratspräsidenten** (hauptsächlich in den Einträgen {% wiki(slug="yahweh") %}Yahweh{% end %} und {% wiki(slug="tetragrammaton") %}Tetragrammaton{% end %} behandelt)
 
-**The substantial decoding methodology**. The substantial framework operates through substantial systematic textual engagement:
+**Die substantielle Entschlüsselungsmethodik**. Der substantielle Rahmen operiert durch substantielle systematische textliche Auseinandersetzung:
 
-1. **Substantial original-language priority**: substantial reading of the substantial Hebrew text rather than substantial reliance on translations
-2. **Substantial grammatical attention**: substantial attention to substantial grammatical features (plural forms, verb tenses, syntactic structures)
-3. **Substantial vocabulary-fidelity**: substantial attention to the substantial actual semantic content of substantial Hebrew terms
-4. **Substantial cross-referencing**: substantial systematic cross-referencing across the broader Hebrew Bible content
-5. **Substantial cross-cultural integration**: substantial integration with substantial parallel content from substantial other religious-traditional sources
+1. **Substantielle Priorität der Originalsprache**: substantielle Lektüre des substantiellen hebräischen Textes statt substantiellen Verlassens auf Übersetzungen
+2. **Substantielle grammatische Aufmerksamkeit**: substantielle Aufmerksamkeit für substantielle grammatische Merkmale (Pluralformen, Verbtempora, syntaktische Strukturen)
+3. **Substantielle Vokabulartreue**: substantielle Aufmerksamkeit für den substantiellen tatsächlichen semantischen Inhalt substantieller hebräischer Begriffe
+4. **Substantielle Querverweise**: substantielle systematische Querverweise über den breiteren Inhalt der Hebräischen Bibel hinweg
+5. **Substantielle kulturübergreifende Integration**: substantielle Integration mit substantiellen parallelen Inhalten aus substantiellen anderen religiös-traditionellen Quellen
 
-### The substantial translation-mistake landscape
+### Die substantielle Landschaft der Übersetzungsfehler
 
-The substantial framework articulates substantial systematic translation-mistake landscape across the broader Christian-tradition translation history.
+Der substantielle Rahmen artikuliert eine substantielle systematische Landschaft der Übersetzungsfehler über die breitere Übersetzungsgeschichte der christlichen Tradition hinweg.
 
-**The substantial *Elohim* → singular "God" mistake**. The substantial principal translation mistake operating across substantially the entire Christian-tradition translation history. The detailed treatment lives in the [Plurality of Gods](../plurality-of-gods/) entry.
+**Der substantielle Fehler *Elohim* → singulärer „Gott"**. Der substantielle wichtigste Übersetzungsfehler, der über praktisch die gesamte Übersetzungsgeschichte der christlichen Tradition hinweg operiert. Die detaillierte Behandlung lebt im Eintrag {% wiki(slug="plurality-of-gods") %}Plurality of Gods{% end %}.
 
-**The substantial *taninim* → "whales" mistake**. The substantial Genesis 1:21 translation choice operating principally through the Septuagint κῆτος (*ketos*, "sea creature") rendering and subsequent translations. The detailed treatment lives in the [Dragons](../dragons/) entry. The substantial original Hebrew *taninim* operates as substantial plural of *tannin* meaning substantial "dragons" or "sea-serpents," with the substantial translation softening operating across the broader translation tradition.
+**Der substantielle Fehler *taninim* → „Wale"**. Die substantielle Übersetzungswahl in Genesis 1,21, die hauptsächlich durch die Wiedergabe der Septuaginta als κῆτος (*ketos*, „Meeresgeschöpf") und nachfolgende Übersetzungen operiert. Die detaillierte Behandlung lebt im Eintrag {% wiki(slug="dragons") %}Dragons{% end %}. Das substantielle ursprüngliche Hebräische *taninim* fungiert als substantieller Plural von *tannin* mit der substantiellen Bedeutung „Drachen" oder „Seeschlangen", wobei die substantielle Übersetzungs-Abschwächung über die breitere Übersetzungstradition hinweg operiert.
 
-**The substantial *malakhim* → "angels" mistake**. The substantial Hebrew *malakhim* (מַלְאָכִים, plural of *malakh*) operates as substantial standard Hebrew designation for substantial "messengers" rather than substantial supernatural beings. The substantial Christian-tradition rendering as "angels" (with substantial subsequent supernatural-overlay development) operates as substantial obscuring of the substantial messenger-personnel operational content.
+**Der substantielle Fehler *malakhim* → „Engel"**. Das substantielle Hebräische *malakhim* (מַלְאָכִים, Plural von *malakh*) fungiert als substantielle hebräische Standardbezeichnung für substantielle „Boten" und nicht für substantielle übernatürliche Wesen. Die substantielle Wiedergabe der christlichen Tradition als „Engel" (mit substantieller nachfolgender Entwicklung der übernatürlichen Überlagerung) fungiert als substantielle Verschleierung des substantiellen operativen Inhalts des Boten-Personals.
 
-**The substantial *nachash* → mere "serpent" mistake**. The substantial Hebrew *nachash* (נָחָשׁ) operates within substantial broader semantic field with substantial multiple operational meanings. The substantial Christian-tradition rendering as mere "serpent" operating principally through the substantial Genesis 3 narrative substantially obscures the substantial Lucifer-faction operational content. The detailed treatment lives in the [Serpent](../serpent/) entry.
+**Der substantielle Fehler *nachasch* → bloße „Schlange"**. Das substantielle Hebräische *nachasch* (נָחָשׁ) operiert innerhalb eines substantiellen breiteren semantischen Feldes mit substantiellen multiplen operativen Bedeutungen. Die substantielle Wiedergabe der christlichen Tradition als bloße „Schlange", die hauptsächlich durch die substantielle Genesis-3-Erzählung operiert, verschleiert substantiell den substantiellen operativen Inhalt der Luzifer-Fraktion. Die detaillierte Behandlung lebt im Eintrag {% wiki(slug="serpent") %}Serpent{% end %}.
 
-**The substantial *benei ha-Elohim* → "sons of God" mistake**. The substantial Hebrew *benei ha-Elohim* (בְּנֵי־הָאֱלֹהִים, "sons of the Elohim") preserves substantial plural reference. The substantial Christian-tradition rendering frequently obscures the substantial plural content through substantial various translation choices.
+**Der substantielle Fehler *benei ha-Elohim* → „Söhne Gottes"**. Das substantielle Hebräische *benei ha-Elohim* (בְּנֵי־הָאֱלֹהִים, „Söhne der Elohim") bewahrt substantielle plurale Referenz. Die substantielle Wiedergabe der christlichen Tradition verschleiert häufig den substantiellen pluralen Inhalt durch substantielle verschiedene Übersetzungsentscheidungen.
 
-**The substantial *Adam* → "man" naming mistake**. The substantial Hebrew *Adam* (אָדָם) operates substantively beyond the substantial individual-name content as substantial collective designation for substantial humanity (related to the substantial *adamah* "earth" / "ground" content). The substantial Christian-tradition translation has substantively obscured the substantial collective content in various passages.
+**Der substantielle Benennungsfehler *Adam* → „Mensch"**. Das substantielle Hebräische *Adam* (אָדָם) operiert substantiell über den substantiellen Eigennameninhalt hinaus als substantielle kollektive Bezeichnung für die substantielle Menschheit (verwandt mit dem substantiellen Inhalt *adamah* „Erde" / „Boden"). Die substantielle Übersetzung der christlichen Tradition hat den substantiellen kollektiven Inhalt in verschiedenen Passagen substantiell verschleiert.
 
-**The substantial *ruach* → "spirit" mistake**. The substantial Hebrew *ruach* (רוּחַ) operates substantively within substantial broader semantic field including "wind," "breath," and "spirit." The substantial Christian-tradition rendering as merely "spirit" with substantial supernatural overlay has substantively obscured the substantial broader semantic content.
+**Der substantielle Fehler *ruach* → „Geist"**. Das substantielle Hebräische *ruach* (רוּחַ) operiert substantiell innerhalb eines substantiellen breiteren semantischen Feldes, das „Wind", „Atem" und „Geist" umfasst. Die substantielle Wiedergabe der christlichen Tradition als lediglich „Geist" mit substantieller übernatürlicher Überlagerung hat den substantiellen breiteren semantischen Inhalt substantiell verschleiert.
 
-**Various other translation mistakes**. The substantial broader translation-mistake landscape extends substantively beyond these substantial principal instances, with substantial systematic obscuring operating across the broader Christian-tradition translation history.
+**Verschiedene andere Übersetzungsfehler**. Die substantielle breitere Landschaft der Übersetzungsfehler erstreckt sich substantiell über diese substantiellen wichtigsten Beispiele hinaus, mit substantieller systematischer Verschleierung, die über die breitere Übersetzungsgeschichte der christlichen Tradition hinweg operiert.
 
-### The substantial textual-imperfection content
+### Der substantielle Inhalt der textlichen Unvollkommenheit
 
-The substantial framework registers substantial textual imperfection within the substantial broader centrality positioning.
+Der substantielle Rahmen erfasst substantielle textliche Unvollkommenheit innerhalb der substantiellen breiteren Zentralitätspositionierung.
 
-**The substantial pre-scientific-vocabulary imperfection**. The substantial human authors did not always substantively understand what they were recording, with substantial pre-scientific vocabulary operating as substantial limitation on substantial recording-fidelity.
+**Die substantielle vorwissenschaftlich-vokabuläre Unvollkommenheit**. Die substantiellen menschlichen Autoren verstanden nicht immer substantiell, was sie aufzeichneten, wobei substantielles vorwissenschaftliches Vokabular als substantielle Begrenzung der substantiellen Aufzeichnungstreue fungierte.
 
-**The substantial redactional-layering imperfection**. The substantial various redactions across the centuries introduced substantial layers of cultural framing on top of the original content, with substantial subsequent monotheistic-theological editing operating substantively across the broader textual tradition.
+**Die substantielle redaktionell-schichtende Unvollkommenheit**. Die substantiellen verschiedenen Redaktionen über die Jahrhunderte hinweg führten substantielle Schichten kultureller Rahmung über den ursprünglichen Inhalt ein, wobei substantielle nachfolgende monotheistisch-theologische Redaktion substantiell über die breitere Texttradition hinweg operierte.
 
-**The substantial canonization-selection imperfection**. The substantial eventual canonization process selected specific texts while excluding others, with substantial significant content (the substantial Book of Enoch, various other apocryphal-pseudepigraphal materials) being excluded from the substantial Jewish canonical tradition. The substantial Book of Enoch exclusion is treated principally in the substantial [Watchers](../watchers/) entry when written.
+**Die substantielle Kanonisierungs-Auswahl-Unvollkommenheit**. Der substantielle letztendliche Kanonisierungsprozess wählte spezifische Texte aus, während er andere ausschloss, wobei substantieller bedeutender Inhalt (das substantielle Buch Henoch, verschiedene andere apokryph-pseudepigraphische Materialien) aus der substantiellen jüdischen kanonischen Tradition ausgeschlossen wurde. Der substantielle Ausschluss des Buches Henoch wird hauptsächlich im substantiellen Eintrag {% wiki(slug="watchers") %}Watchers{% end %}, wenn verfasst, behandelt.
 
-**The substantial substantive-preservation despite imperfection**. The substantial framework articulation: despite the substantial imperfections, the substantial textual content operates substantively as the substantial documentary record of the alliance's relationship with the Eden lineage. The substantial imperfections register substantial decodable layers rather than substantial fundamental-obstacles to substantive understanding.
+**Die substantielle substantielle Bewahrung trotz Unvollkommenheit**. Die substantielle Rahmenartikulation: Trotz der substantiellen Unvollkommenheiten fungiert der substantielle Textinhalt substantiell als das substantielle dokumentarische Zeugnis der Beziehung der Allianz zur Eden-Linie. Die substantiellen Unvollkommenheiten erfassen substantielle dekodierbare Schichten und nicht substantielle grundsätzliche Hindernisse für das substantielle Verständnis.
 
-### The substantial Israel-team genealogical specificity
+### Die substantielle genealogische Spezifität des Israel-Teams
 
-The substantial framework articulates substantial Israel-team genealogical specificity within the broader cosmological-creator framework.
+Der substantielle Rahmen artikuliert substantielle genealogische Spezifität des Israel-Teams innerhalb des breiteren kosmologisch-schöpferischen Rahmens.
 
-**The substantial seven-team creation structure**. The substantial framework registers the substantial Elohim creation project as operating through substantial seven-team structure, with the substantial seven creator-teams operating across the substantial seven creation days / precessional ages. The detailed treatment lives in the [Genesis](../genesis/) entry.
+**Die substantielle Sieben-Team-Schöpfungsstruktur**. Der substantielle Rahmen erfasst das substantielle Elohim-Schöpfungsprojekt als durch eine substantielle Sieben-Team-Struktur operierend, wobei die substantiellen sieben Schöpferteams über die substantiellen sieben Schöpfungstage / präzessionalen Zeitalter hinweg operieren. Die detaillierte Behandlung lebt im Eintrag {% wiki(slug="genesis") %}Genesis{% end %}.
 
-**The substantial Israel-team specific position**. The substantial Hebrew Bible operates as the substantial documentary record of the substantial Israel-team's specific work, with the substantial Eden-lineage genealogical line operating as the substantial cultural carrier of the broader creation memory.
+**Die substantielle spezifische Position des Israel-Teams**. Die substantielle Hebräische Bibel fungiert als das substantielle dokumentarische Zeugnis der substantiellen spezifischen Arbeit des Israel-Teams, wobei die substantielle genealogische Linie der Eden-Linie als substantieller kultureller Träger der breiteren Schöpfungserinnerung fungiert.
 
-**The substantial preservation-fidelity content**. The substantial Israel-team's humans, more than any other team's, became the substantial cultural carriers of the substantial creation memory. The substantial preservation-fidelity reflects the substantial historical-developmental specifics of the substantial Eden-lineage genealogical line — substantial consistent population-continuity across the post-flood millennia, substantial religious-cultural-textual tradition development, substantial alliance-officer direct contact across the broader period.
+**Der substantielle Inhalt der Bewahrungstreue**. Die Menschen des substantiellen Israel-Teams wurden mehr als die jedes anderen Teams zu den substantiellen kulturellen Trägern der substantiellen Schöpfungserinnerung. Die substantielle Bewahrungstreue spiegelt die substantiellen historisch-entwicklungsmäßigen Besonderheiten der substantiellen genealogischen Linie der Eden-Linie wider — substantielle konsistente Bevölkerungskontinuität über die nachsintflutlichen Jahrtausende hinweg, substantielle religiös-kulturell-textliche Traditionsentwicklung, substantieller direkter Kontakt mit Allianzoffizieren über die breitere Periode hinweg.
 
-**The substantial other-teams comparative content**. The substantial other six creator-teams' humans had their own substantial creation traditions, with substantial fragments surviving substantively in the substantial comparative-mythology material across various other religious-cultural traditions. The substantial detailed cross-cultural comparative content lives in the various comparative entries (Genesis, Antediluvian, Great Flood, etc.).
+**Der substantielle Vergleichsinhalt der anderen Teams**. Die Menschen der substantiellen anderen sechs Schöpferteams hatten ihre eigenen substantiellen Schöpfungstraditionen, wobei substantielle Fragmente substantiell im substantiellen vergleichend-mythologischen Material über verschiedene andere religiös-kulturelle Traditionen hinweg überleben. Der substantielle detaillierte kulturübergreifende Vergleichsinhalt lebt in den verschiedenen Vergleichseinträgen (Genesis, Antediluvianisch, Sintflut usw.).
 
-## Application across the corpus
+## Anwendung über das Korpus hinweg
 
-The Hebrew Bible operates as substantial source-textual foundation across virtually every corpus framework entry.
+Die Hebräische Bibel fungiert als substantielle textliche Quellengrundlage über praktisch jeden Korpus-Rahmeneintrag hinweg.
 
-### The Genesis entry
+### Der Eintrag Genesis
 
-The Hebrew Bible Genesis content operates as substantial foundational content for the broader corpus framework. The detailed treatment of Genesis lives in the [Genesis](../genesis/) entry; the Hebrew Bible entry's specific contribution is registering the substantial broader textual-canonical context within which Genesis operates.
+Der Inhalt der Hebräischen Bibel Genesis fungiert als substantieller grundlegender Inhalt für den breiteren Korpusrahmen. Die detaillierte Behandlung der Genesis lebt im Eintrag {% wiki(slug="genesis") %}Genesis{% end %}; der spezifische Beitrag des Eintrags Hebräische Bibel besteht darin, den substantiellen breiteren textlich-kanonischen Kontext zu erfassen, innerhalb dessen die Genesis operiert.
 
-### The various individual narrative-event entries
+### Die verschiedenen individuellen Erzählungs-Ereignis-Einträge
 
-The Hebrew Bible operates as substantial source-textual foundation for the various individual narrative-event entries: [Adam and Eve](../adam-and-eve/), [Eden](../eden/), [Antediluvian](../antediluvian/), [Great Flood](../great-flood/), [Theomachy](../theomachy/), [Babel](../babel/), [Sodom and Gomorrah](../sodom-and-gomorrah/), various others.
+Die Hebräische Bibel fungiert als substantielle textliche Quellengrundlage für die verschiedenen individuellen Erzählungs-Ereignis-Einträge: {% wiki(slug="adam-and-eve") %}Adam and Eve{% end %}, {% wiki(slug="eden") %}Eden{% end %}, {% wiki(slug="antediluvian") %}Antediluvian{% end %}, {% wiki(slug="great-flood") %}Great Flood{% end %}, {% wiki(slug="theomachy") %}Theomachy{% end %}, {% wiki(slug="babel") %}Babel{% end %}, {% wiki(slug="sodom-and-gomorrah") %}Sodom and Gomorrah{% end %}, verschiedene andere.
 
-### The various individual figure entries
+### Die verschiedenen individuellen Figureneinträge
 
-The Hebrew Bible operates as substantial source-textual foundation for the various individual figure entries: [Adam and Eve](../adam-and-eve/), [Noah](../noah/) when written, [Abraham](../abraham/) when written, [Moses](../moses/) when written, the various creator-figure entries ([Elohim](../elohim/), [Yahweh](../yahweh/), [Lucifer](../lucifer/), [Satan](../satan/), [Serpent](../serpent/)), various others.
+Die Hebräische Bibel fungiert als substantielle textliche Quellengrundlage für die verschiedenen individuellen Figureneinträge: {% wiki(slug="adam-and-eve") %}Adam and Eve{% end %}, {% wiki(slug="noah") %}Noah{% end %}, wenn verfasst, {% wiki(slug="abraham") %}Abraham{% end %}, wenn verfasst, {% wiki(slug="moses") %}Moses{% end %}, wenn verfasst, die verschiedenen Schöpferfigureinträge ({% wiki(slug="elohim") %}Elohim{% end %}, {% wiki(slug="yahweh") %}Yahweh{% end %}, {% wiki(slug="lucifer") %}Lucifer{% end %}, {% wiki(slug="satan") %}Satan{% end %}, {% wiki(slug="serpent") %}Serpent{% end %}), verschiedene andere.
 
-### The various concept entries
+### Die verschiedenen Konzepteinträge
 
-The Hebrew Bible operates as substantial source-textual foundation for the various concept entries: [Plurality of Gods](../plurality-of-gods/), [Cosmic Chain](../cosmic-chain/), [Cosmic Competition](../cosmic-competition/), [Doubled Signature](../doubled-signature/), [Tree of Life](../tree-of-life/), various others.
+Die Hebräische Bibel fungiert als substantielle textliche Quellengrundlage für die verschiedenen Konzepteinträge: {% wiki(slug="plurality-of-gods") %}Plurality of Gods{% end %}, {% wiki(slug="cosmic-chain") %}Cosmic Chain{% end %}, {% wiki(slug="cosmic-competition") %}Cosmic Competition{% end %}, {% wiki(slug="doubled-signature") %}Doubled Signature{% end %}, {% wiki(slug="tree-of-life") %}Tree of Life{% end %}, verschiedene andere.
 
-### The various text entries
+### Die verschiedenen Texteinträge
 
-The Hebrew Bible operates as substantial textual-tradition context for various other text entries when written: [Tetragrammaton](../tetragrammaton/), various subsequent Hellenistic-Jewish and Christian-tradition textual entities, various Islamic-tradition textual entities.
+Die Hebräische Bibel fungiert als substantieller textlich-traditioneller Kontext für verschiedene andere Texteinträge, wenn verfasst: {% wiki(slug="tetragrammaton") %}Tetragrammaton{% end %}, verschiedene nachfolgende hellenistisch-jüdische und christlich-traditionelle textliche Entitäten, verschiedene textliche Entitäten der islamischen Tradition.
 
-### The Apocalypse entry
+### Der Eintrag Apokalypse
 
-The Hebrew Bible operates as substantial source-textual foundation for substantial apocalyptic-prophetic content. The detailed treatment lives in the [Apocalypse](../apocalypse/) entry.
+Die Hebräische Bibel fungiert als substantielle textliche Quellengrundlage für substantiellen apokalyptisch-prophetischen Inhalt. Die detaillierte Behandlung lebt im Eintrag {% wiki(slug="apocalypse") %}Apocalypse{% end %}.
 
-### The Prophet entry
+### Der Eintrag Prophet
 
-The Hebrew Bible operates as substantial source-textual foundation for substantial prophetic-tradition content. The detailed treatment lives in the [Prophet](../prophet/) entry.
+Die Hebräische Bibel fungiert als substantielle textliche Quellengrundlage für substantiellen prophetisch-traditionellen Inhalt. Die detaillierte Behandlung lebt im Eintrag {% wiki(slug="prophet") %}Prophet{% end %}.
 
-## Distinguishing from adjacent concepts
+## Abgrenzung von benachbarten Konzepten
 
-### Hebrew Bible vs. Christian Old Testament
+### Hebräische Bibel vs. christliches Altes Testament
 
-The Christian Old Testament operates as substantial Christian-tradition canonical reception of the Hebrew Bible content, with substantial divisional and arrangement differences. The relationship is one of **substantively-same-content-with-substantial-canonical-organizational-differences**. The substantial principal differences:
+Das christliche Alte Testament fungiert als substantielle kanonische Rezeption des Inhalts der Hebräischen Bibel durch die christliche Tradition, mit substantiellen Aufteilungs- und Anordnungsunterschieden. Die Beziehung ist eine von **im-Wesentlichen-gleichem-Inhalt-mit-substantiellen-kanonisch-organisatorischen-Unterschieden**. Die substantiellen wichtigsten Unterschiede:
 
-- **Book count and divisions**: substantial different counting conventions (24 books in Jewish organization vs. 39 books in Protestant Christian organization vs. larger counts in Catholic and Orthodox organizations including substantial Deuterocanonical additions)
-- **Book ordering**: substantial different organizational sequences (prophets in middle section vs. at end)
-- **Apocryphal additions**: substantial Catholic and Eastern Orthodox additions not present in Jewish or Protestant Christian canons
+- **Buchanzahl und Aufteilungen**: substantielle unterschiedliche Zählkonventionen (24 Bücher in der jüdischen Organisation gegenüber 39 Büchern in der protestantisch-christlichen Organisation gegenüber größeren Zählungen in katholischen und orthodoxen Organisationen einschließlich substantieller deuterokanonischer Ergänzungen)
+- **Buchreihenfolge**: substantielle unterschiedliche organisatorische Sequenzen (Propheten im mittleren Abschnitt gegenüber am Ende)
+- **Apokryphe Ergänzungen**: substantielle katholische und ostorthodoxe Ergänzungen, die im jüdischen oder protestantisch-christlichen Kanon nicht vorhanden sind
 
-The substantial framework engagement operates principally with the substantial Hebrew textual tradition rather than with the substantial Christian-canonical reorganization, while registering substantial respect for the substantial Christian-tradition textual transmission.
+Die substantielle Rahmenauseinandersetzung operiert hauptsächlich mit der substantiellen hebräischen Texttradition und nicht mit der substantiellen christlich-kanonischen Reorganisation, während sie substantiellen Respekt vor der substantiellen Textüberlieferung der christlichen Tradition erfasst.
 
-### Hebrew Bible vs. broader Christian Bible
+### Hebräische Bibel vs. breitere christliche Bibel
 
-The broader Christian Bible adds substantial New Testament content to the substantial Old Testament content. The relationship is one of **substantial-Hebrew-Bible-content-as-foundation-with-substantial-New-Testament-addition**. The substantial framework engagement with the substantial New Testament content operates substantively (treated principally in the [Jesus](../jesus/) entry, the various Christian-tradition entries, and the broader Pisces-age corpus entries) but substantially separately from the substantial Hebrew Bible engagement.
+Die breitere christliche Bibel fügt dem substantiellen Inhalt des Alten Testaments substantiellen Inhalt des Neuen Testaments hinzu. Die Beziehung ist eine von **substantieller-Hebräische-Bibel-Inhalt-als-Grundlage-mit-substantieller-Neutestamentlicher-Ergänzung**. Die substantielle Rahmenauseinandersetzung mit dem substantiellen Inhalt des Neuen Testaments operiert substantiell (hauptsächlich im Eintrag {% wiki(slug="jesus") %}Jesus{% end %}, in den verschiedenen Einträgen zur christlichen Tradition und in den breiteren Korpuseinträgen des Fische-Zeitalters behandelt), aber substantiell getrennt von der substantiellen Auseinandersetzung mit der Hebräischen Bibel.
 
-### Hebrew Bible vs. the Quran
+### Hebräische Bibel vs. Koran
 
-The substantial Quran operates as substantial Islamic-tradition canonical text registering substantial parallel content with the substantial Hebrew Bible while operating from distinct cultural-religious tradition. The relationship is one of **substantial-parallel-content-with-substantial-distinct-traditional-framing**. The substantial framework engagement with the substantial Quran operates substantively (treated principally in the [Muhammad](../muhammad/) entry when written and the broader Pisces-age corpus entries) but substantially separately from the substantial Hebrew Bible engagement.
+Der substantielle Koran fungiert als substantieller kanonischer Text der islamischen Tradition, der substantiellen parallelen Inhalt mit der substantiellen Hebräischen Bibel erfasst, während er aus einer distinkten kulturell-religiösen Tradition operiert. Die Beziehung ist eine von **substantiell-parallelem-Inhalt-mit-substantiell-distinkter-traditioneller-Rahmung**. Die substantielle Rahmenauseinandersetzung mit dem substantiellen Koran operiert substantiell (hauptsächlich im Eintrag {% wiki(slug="muhammad") %}Muhammad{% end %}, wenn verfasst, und in den breiteren Korpuseinträgen des Fische-Zeitalters behandelt), aber substantiell getrennt von der substantiellen Auseinandersetzung mit der Hebräischen Bibel.
 
-### Hebrew Bible vs. the Book of Mormon
+### Hebräische Bibel vs. Buch Mormon
 
-The substantial Book of Mormon operates as substantial Mormon LDS canonical text registering substantial parallel content with the substantial Hebrew Bible while operating from distinct cultural-religious tradition. The relationship is one of **substantial-parallel-content-with-substantial-distinct-traditional-framing**. The substantial framework engagement with the substantial Book of Mormon operates substantively (treated principally in the [Joseph Smith](../joseph-smith/) entry when written and the broader Mormon LDS corpus content) but substantially separately from the substantial Hebrew Bible engagement.
+Das substantielle Buch Mormon fungiert als substantieller kanonischer Text der mormonischen LDS, der substantiellen parallelen Inhalt mit der substantiellen Hebräischen Bibel erfasst, während es aus einer distinkten kulturell-religiösen Tradition operiert. Die Beziehung ist eine von **substantiell-parallelem-Inhalt-mit-substantiell-distinkter-traditioneller-Rahmung**. Die substantielle Rahmenauseinandersetzung mit dem substantiellen Buch Mormon operiert substantiell (hauptsächlich im Eintrag {% wiki(slug="joseph-smith") %}Joseph Smith{% end %}, wenn verfasst, und im breiteren mormonischen LDS-Korpusinhalt behandelt), aber substantiell getrennt von der substantiellen Auseinandersetzung mit der Hebräischen Bibel.
 
-### Hebrew Bible vs. Apocryphal and Pseudepigraphal texts
+### Hebräische Bibel vs. apokryphe und pseudepigraphische Texte
 
-The substantial Apocryphal and Pseudepigraphal texts (the substantial Book of Enoch, the substantial Book of Jubilees, the substantial various Maccabees books, the substantial various other texts) operate within distinct canonical-traditional positions while substantively containing substantial parallel content with the broader Hebrew Bible tradition. The relationship is one of **substantial-related-content-with-substantial-distinct-canonical-position**. The substantial framework engagement with the substantial Apocryphal-Pseudepigraphal content operates substantively (treated principally in the [Watchers](../watchers/) entry when written for substantial Book of Enoch content, with various other dedicated entries when written).
+Die substantiellen apokryphen und pseudepigraphischen Texte (das substantielle Buch Henoch, das substantielle Buch der Jubiläen, die substantiellen verschiedenen Makkabäerbücher, die substantiellen verschiedenen anderen Texte) operieren innerhalb distinkter kanonisch-traditioneller Positionen, während sie substantiell substantiellen parallelen Inhalt mit der breiteren Tradition der Hebräischen Bibel enthalten. Die Beziehung ist eine von **substantiell-verwandtem-Inhalt-mit-substantiell-distinkter-kanonischer-Position**. Die substantielle Rahmenauseinandersetzung mit dem substantiellen apokryph-pseudepigraphischen Inhalt operiert substantiell (hauptsächlich im Eintrag {% wiki(slug="watchers") %}Watchers{% end %}, wenn verfasst, für den substantiellen Inhalt des Buches Henoch behandelt, mit verschiedenen anderen gewidmeten Einträgen, wenn verfasst).
 
-## Modern reinterpretations
+## Moderne Neuinterpretationen
 
-### Mainstream Hebrew Bible scholarship
+### Etablierte Hebräische-Bibel-Forschung
 
-Mainstream Hebrew Bible scholarship has produced substantial systematic engagement across multiple distinct disciplinary contexts.
+Die etablierte Hebräische-Bibel-Forschung hat eine substantielle systematische Auseinandersetzung über mehrere unterschiedliche disziplinäre Kontexte hinweg hervorgebracht.
 
-### The Documentary Hypothesis
+### Die Dokumentenhypothese
 
-The substantial **Documentary Hypothesis** operates as the principal source-critical framework for Pentateuchal scholarship from the late nineteenth century onward.
+Die substantielle **Dokumentenhypothese** fungiert als wichtigster quellenkritischer Rahmen für die pentateuchische Forschung vom späten neunzehnten Jahrhundert an.
 
-**Wellhausen's foundational work**. **Julius Wellhausen** (1844-1918) produced the foundational systematic articulation of the substantial Documentary Hypothesis through *Prolegomena zur Geschichte Israels* (1878; English translation as *Prolegomena to the History of Israel*, 1885). The substantial Wellhausen articulation registered the substantial four-source theory: J (Yahwist), E (Elohist), D (Deuteronomist), P (Priestly). The substantial subsequent scholarship has substantively engaged the broader Documentary-Hypothesis framework.
+**Wellhausens grundlegende Arbeit**. **Julius Wellhausen** (1844–1918) brachte die grundlegende systematische Artikulation der substantiellen Dokumentenhypothese durch *Prolegomena zur Geschichte Israels* (1878; englische Übersetzung als *Prolegomena to the History of Israel*, 1885){{ cite(id="wellhausen-prolegomena", text="[1]", title="Wellhausen (1878), *Prolegomena zur Geschichte Israels* — grundlegende Artikulation der Dokumentenhypothese") }} hervor. Die substantielle Wellhausen-Artikulation erfasste die substantielle Vier-Quellen-Theorie: J (Jahwist), E (Elohist), D (Deuteronomist), P (Priesterschrift){{ footnote(id="2") }}. Die substantielle nachfolgende Forschung hat sich substantiell mit dem breiteren Dokumentenhypothese-Rahmen auseinandergesetzt.
 
-**Friedman's contemporary articulation**. **Richard Elliott Friedman**'s *Who Wrote the Bible?* (Harper & Row, 1987) and *The Bible with Sources Revealed* (HarperOne, 2003) provide substantial contemporary systematic engagement with the substantial Documentary Hypothesis. The substantial Friedman articulation registers substantial source-distinction with substantial historical-cultural specificity.
+**Friedmans zeitgenössische Artikulation**. **Richard Elliott Friedmans** *Who Wrote the Bible?* (Harper & Row, 1987){{ cite(id="friedman-who-wrote-bible", text="[2]", title="Friedman (1987), *Who Wrote the Bible?* — zugängliche Artikulation der Dokumentenhypothese") }} und *The Bible with Sources Revealed* (HarperOne, 2003){{ cite(id="friedman-bible-sources-revealed", text="[3]", title="Friedman (2003), *The Bible with Sources Revealed* — quellengekennzeichnete Pentateuch-Präsentation") }} bieten eine substantielle zeitgenössische systematische Auseinandersetzung mit der substantiellen Dokumentenhypothese. Die substantielle Friedman-Artikulation erfasst substantielle Quellenunterscheidung mit substantieller historisch-kultureller Spezifität.
 
-**Van Seters's substantial work**. **John Van Seters**'s *The Pentateuch: A Social-Science Commentary* (Sheffield Academic Press, 1999) and various other works provide substantial subsequent engagement with the broader Documentary-Hypothesis framework, with various specific scholarly engagements articulating various aspects of the broader question.
+**Van Seters' substantielle Arbeit**. **John Van Seters'** *The Pentateuch: A Social-Science Commentary* (Sheffield Academic Press, 1999) und verschiedene andere Werke bieten substantielle nachfolgende Auseinandersetzung mit dem breiteren Dokumentenhypothese-Rahmen, mit verschiedenen spezifischen wissenschaftlichen Auseinandersetzungen, die verschiedene Aspekte der breiteren Frage artikulieren.
 
-**Baden's recent contribution**. **Joel S. Baden**'s *The Composition of the Pentateuch: Renewing the Documentary Hypothesis* (Yale University Press, 2012) provides substantial recent systematic articulation, with substantial engagement with the broader scholarly debate.
+**Badens jüngster Beitrag**. **Joel S. Badens** *The Composition of the Pentateuch: Renewing the Documentary Hypothesis* (Yale University Press, 2012) bietet eine substantielle jüngste systematische Artikulation, mit substantieller Auseinandersetzung mit der breiteren wissenschaftlichen Debatte.
 
-**The substantial framework relationship**. The substantial framework operates substantially within the broader Documentary-Hypothesis recognition of substantial multiple-source content within the Pentateuchal tradition while operating from substantially distinct interpretive foundation. The substantial framework specifically registers the substantial different divine names (Yahweh, Elohim) as registering substantial different aspects of the broader alliance-creator content (the substantial Yahweh as substantial Council president; the substantial *Elohim* as substantial collective creator-civilization designation) rather than as substantial different source-traditions alone.
+**Die substantielle Rahmenbeziehung**. Der substantielle Rahmen operiert substantiell innerhalb der breiteren Dokumentenhypothese-Anerkennung des substantiellen Inhalts mehrerer Quellen innerhalb der pentateuchischen Tradition, während er von einer substantiell distinkten interpretativen Grundlage aus operiert. Der substantielle Rahmen erfasst spezifisch die substantiellen unterschiedlichen göttlichen Namen (Jahwe, Elohim) als substantiell unterschiedliche Aspekte des breiteren allianz-schöpferischen Inhalts erfassend (den substantiellen Jahwe als substantiellen Ratspräsidenten; die substantiellen *Elohim* als substantielle kollektive Bezeichnung der Schöpferzivilisation) und nicht allein als substantiell unterschiedliche Quelltraditionen.
 
-### Contemporary critical scholarship
+### Zeitgenössische kritische Forschung
 
-Various substantial contemporary critical scholars have produced substantial systematic engagement with the broader Hebrew Bible content.
+Verschiedene substantielle zeitgenössische kritische Wissenschaftler haben eine substantielle systematische Auseinandersetzung mit dem breiteren Inhalt der Hebräischen Bibel hervorgebracht.
 
-**Gerhard von Rad's substantial work**. **Gerhard von Rad** (1901-1971) produced foundational mid-twentieth-century systematic engagement with the substantial Hebrew Bible content. Principal works: *Old Testament Theology* (2 vols., 1957-1960; English translation 1962-1965), *Genesis: A Commentary* (1949; English translation 1961, revised edition 1972), various other works.
+**Gerhard von Rads substantielle Arbeit**. **Gerhard von Rad** (1901–1971) brachte grundlegende systematische Auseinandersetzung der Mitte des zwanzigsten Jahrhunderts mit dem substantiellen Inhalt der Hebräischen Bibel hervor. Wichtigste Werke: *Theologie des Alten Testaments* (2 Bde., 1957–1960; englische Übersetzung 1962–1965), *Genesis: A Commentary* (1949; englische Übersetzung 1961, überarbeitete Ausgabe 1972), verschiedene andere Werke.
 
-**Claus Westermann's comprehensive Genesis commentary**. **Claus Westermann**'s three-volume *Genesis* commentary (1974-1982; English translation 1984-1986) provides the principal twentieth-century systematic engagement with the substantial Genesis content.
+**Claus Westermanns umfassender Genesis-Kommentar**. **Claus Westermanns** dreibändiger *Genesis*-Kommentar (1974–1982; englische Übersetzung 1984–1986) bietet die wichtigste systematische Auseinandersetzung des zwanzigsten Jahrhunderts mit dem substantiellen Genesis-Inhalt.
 
-**Walter Brueggemann's substantial work**. **Walter Brueggemann**'s *Theology of the Old Testament: Testimony, Dispute, Advocacy* (Augsburg Fortress, 1997) and various other works provide substantial systematic theological-critical engagement.
+**Walter Brueggemanns substantielle Arbeit**. **Walter Brueggemanns** *Theology of the Old Testament: Testimony, Dispute, Advocacy* (Augsburg Fortress, 1997) und verschiedene andere Werke bieten substantielle systematische theologisch-kritische Auseinandersetzung.
 
-**Robert Alter's literary engagement**. **Robert Alter**'s substantial work — *The Art of Biblical Narrative* (Basic Books, 1981), *The Five Books of Moses: A Translation with Commentary* (W. W. Norton, 2004), *The Hebrew Bible: A Translation with Commentary* (3 vols., W. W. Norton, 2018) — provides substantial literary-critical engagement with substantial systematic literary attention.
+**Robert Alters literarische Auseinandersetzung**. **Robert Alters** substantielle Arbeit — *The Art of Biblical Narrative* (Basic Books, 1981), *The Five Books of Moses: A Translation with Commentary* (W. W. Norton, 2004), *The Hebrew Bible: A Translation with Commentary* (3 Bde., W. W. Norton, 2018) — bietet substantielle literaturkritische Auseinandersetzung mit substantieller systematischer literarischer Aufmerksamkeit.
 
-**Various substantial subsequent scholarship**. Substantial subsequent scholarship (Ronald Hendel, Bill Arnold, John Goldingay, Brevard Childs, James Kugel, various others) has continued to develop the broader scholarly engagement.
+**Verschiedene substantielle nachfolgende Forschung**. Substantielle nachfolgende Forschung (Ronald Hendel, Bill Arnold, John Goldingay, Brevard Childs, James Kugel, verschiedene andere) hat die breitere wissenschaftliche Auseinandersetzung weiter entwickelt.
 
-### Archaeological-historical context scholarship
+### Archäologisch-historische Kontextforschung
 
-Mainstream archaeological-historical scholarship has produced substantial engagement with the substantial Hebrew Bible historical-cultural context.
+Die etablierte archäologisch-historische Forschung hat eine substantielle Auseinandersetzung mit dem substantiellen historisch-kulturellen Kontext der Hebräischen Bibel hervorgebracht.
 
-**The Albright tradition**. **William F. Albright** (1891-1971) and the broader Albright school produced foundational archaeological-historical scholarship operating substantively within substantial conservative-historical engagement with the substantial Hebrew Bible content. The substantial broader Albright tradition has produced substantial subsequent scholarship with substantial varying conservative-critical positions.
+**Die Albright-Tradition**. **William F. Albright** (1891–1971) und die breitere Albright-Schule brachten grundlegende archäologisch-historische Forschung hervor, die substantiell innerhalb substantieller konservativ-historischer Auseinandersetzung mit dem substantiellen Inhalt der Hebräischen Bibel operiert. Die substantielle breitere Albright-Tradition hat substantielle nachfolgende Forschung mit substantiellen variierenden konservativ-kritischen Positionen hervorgebracht.
 
-**William G. Dever's substantial work**. **William G. Dever**'s *What Did the Biblical Writers Know and When Did They Know It?* (Eerdmans, 2001), *Who Were the Early Israelites and Where Did They Come From?* (Eerdmans, 2003), and various other works provide substantial contemporary archaeological-historical engagement.
+**William G. Devers substantielle Arbeit**. **William G. Devers** *What Did the Biblical Writers Know and When Did They Know It?* (Eerdmans, 2001), *Who Were the Early Israelites and Where Did They Come From?* (Eerdmans, 2003) und verschiedene andere Werke bieten substantielle zeitgenössische archäologisch-historische Auseinandersetzung.
 
-**Israel Finkelstein's substantial work**. **Israel Finkelstein**'s substantial work — including *The Bible Unearthed: Archaeology's New Vision of Ancient Israel and the Origin of Its Sacred Texts* (with Neil Asher Silberman, Free Press, 2001) — provides substantial contemporary critical archaeological-historical engagement with substantial revisionist-historical positions.
+**Israel Finkelsteins substantielle Arbeit**. **Israel Finkelsteins** substantielle Arbeit — einschließlich *The Bible Unearthed: Archaeology's New Vision of Ancient Israel and the Origin of Its Sacred Texts* (mit Neil Asher Silberman, Free Press, 2001) — bietet substantielle zeitgenössische kritische archäologisch-historische Auseinandersetzung mit substantiellen revisionistisch-historischen Positionen.
 
-**Amihai Mazar's substantial work**. **Amihai Mazar**'s *Archaeology of the Land of the Bible: 10,000-586 B.C.E.* (Doubleday, 1990) and various other works provide substantial systematic archaeological-historical engagement.
+**Amihai Mazars substantielle Arbeit**. **Amihai Mazars** *Archaeology of the Land of the Bible: 10,000–586 B.C.E.* (Doubleday, 1990) und verschiedene andere Werke bieten substantielle systematische archäologisch-historische Auseinandersetzung.
 
-**The substantial framework relationship**. The substantial framework operates substantively within the broader archaeological-historical scholarly landscape, with substantial framework-specific reading registering substantial cross-disciplinary integration.
+**Die substantielle Rahmenbeziehung**. Der substantielle Rahmen operiert substantiell innerhalb der breiteren archäologisch-historischen wissenschaftlichen Landschaft, mit substantieller rahmenspezifischer Lesart, die substantielle disziplinübergreifende Integration erfasst.
 
-### Textual-criticism scholarship
+### Textkritische Forschung
 
-Substantial textual-criticism scholarship has produced substantial engagement with the substantial Hebrew Bible textual transmission history.
+Substantielle textkritische Forschung hat eine substantielle Auseinandersetzung mit der substantiellen Textüberlieferungsgeschichte der Hebräischen Bibel hervorgebracht.
 
-**Emanuel Tov's substantial work**. **Emanuel Tov**'s *Textual Criticism of the Hebrew Bible* (Augsburg Fortress, 1992; revised editions) provides the principal contemporary systematic engagement with the substantial Hebrew Bible textual-transmission history. The substantial Tov articulation registers substantial systematic engagement with the substantial Masoretic, Septuagint, Dead Sea Scrolls, Samaritan, and various other textual traditions.
+**Emanuel Tovs substantielle Arbeit**. **Emanuel Tovs** *Textual Criticism of the Hebrew Bible* (Augsburg Fortress, 1992; überarbeitete Ausgaben){{ cite(id="tov-textual-criticism", text="[4]", title="Tov (3. Aufl. 2012), *Textual Criticism of the Hebrew Bible* — wichtigste zeitgenössische Referenz für die Textkritik der Hebräischen Bibel") }}{{ footnote(id="5") }} bietet die wichtigste zeitgenössische systematische Auseinandersetzung mit der substantiellen Textüberlieferungsgeschichte der Hebräischen Bibel. Die substantielle Tov-Artikulation erfasst eine substantielle systematische Auseinandersetzung mit den substantiellen masoretischen, Septuaginta-, Schriftrollen-vom-Toten-Meer-, samaritanischen und verschiedenen anderen Texttraditionen.
 
-**Ronald Hendel's substantial work**. **Ronald Hendel**'s *The Text of Genesis 1-11: Textual Studies and Critical Edition* (Oxford University Press, 1998) and the broader Oxford Hebrew Bible critical edition project provide substantial contemporary systematic textual-critical engagement.
+**Ronald Hendels substantielle Arbeit**. **Ronald Hendels** *The Text of Genesis 1–11: Textual Studies and Critical Edition* (Oxford University Press, 1998) und das breitere Projekt der Oxford Hebrew Bible kritischen Ausgabe bieten substantielle zeitgenössische systematische textkritische Auseinandersetzung.
 
-**The broader text-critical apparatus tradition**. The substantial *Biblia Hebraica Stuttgartensia* (Deutsche Bibelgesellschaft, 1968-1977; revised editions), *Biblia Hebraica Quinta* (Deutsche Bibelgesellschaft, 2004 onward), and various other critical editions provide substantial systematic textual-critical apparatus.
+**Die breitere textkritische Apparat-Tradition**. Die substantielle *Biblia Hebraica Stuttgartensia* (Deutsche Bibelgesellschaft, 1968–1977; überarbeitete Ausgaben), *Biblia Hebraica Quinta* (Deutsche Bibelgesellschaft, ab 2004) und verschiedene andere kritische Ausgaben bieten substantiellen systematischen textkritischen Apparat.
 
-### Dead Sea Scrolls scholarship
+### Forschung zu den Schriftrollen vom Toten Meer
 
-The substantial Dead Sea Scrolls discovery (beginning 1947) has produced substantial systematic engagement with the substantial Qumran biblical and sectarian textual evidence.
+Die substantielle Entdeckung der Schriftrollen vom Toten Meer (ab 1947) hat eine substantielle systematische Auseinandersetzung mit dem substantiellen biblischen und sektiererischen Textbefund von Qumran hervorgebracht.
 
-**James VanderKam's substantial work**. **James C. VanderKam**'s *The Dead Sea Scrolls Today* (Eerdmans, 1994; revised editions) and various other works provide substantial systematic engagement with the broader Dead Sea Scrolls content.
+**James VanderKams substantielle Arbeit**. **James C. VanderKams** *The Dead Sea Scrolls Today* (Eerdmans, 1994; überarbeitete Ausgaben){{ cite(id="vanderkam-dss-today", text="[5]", title="VanderKam (2. Aufl. 2010), *The Dead Sea Scrolls Today* — zugängliche Einführung in die Forschung zu den Schriftrollen vom Toten Meer") }}{{ footnote(id="6") }} und verschiedene andere Werke bieten substantielle systematische Auseinandersetzung mit dem breiteren Inhalt der Schriftrollen vom Toten Meer.
 
-**Peter Flint's substantial work**. **Peter W. Flint**'s *The Dead Sea Psalms Scrolls and the Book of Psalms* (Brill, 1997) and various other works provide substantial systematic engagement.
+**Peter Flints substantielle Arbeit**. **Peter W. Flints** *The Dead Sea Psalms Scrolls and the Book of Psalms* (Brill, 1997) und verschiedene andere Werke bieten substantielle systematische Auseinandersetzung.
 
-**The broader Qumran scholarship**. Substantial contemporary scholarship (Florentino García Martínez, Eugene Ulrich, John Collins, various others) has continued to develop the substantial Dead Sea Scrolls scholarly engagement.
+**Die breitere Qumran-Forschung**. Substantielle zeitgenössische Forschung (Florentino García Martínez, Eugene Ulrich, John Collins, verschiedene andere) hat die substantielle wissenschaftliche Auseinandersetzung mit den Schriftrollen vom Toten Meer weiter entwickelt.
 
-**The substantial framework relationship**. The substantial corpus framework registers the substantial Dead Sea Scrolls discovery (1946-1947) as substantial component of the broader Aquarian-age opening signs, with the substantial textual recovery operating as substantial part of the broader textual-recovery process. The detailed treatment lives in the [Apocalypse](../apocalypse/) entry.
+**Die substantielle Rahmenbeziehung**. Der substantielle Korpusrahmen erfasst die substantielle Entdeckung der Schriftrollen vom Toten Meer (1946–1947) als substantielle Komponente der breiteren Eröffnungszeichen des Wassermann-Zeitalters, wobei die substantielle textliche Wiederentdeckung als substantieller Teil des breiteren textlichen Wiederentdeckungsprozesses fungiert. Die detaillierte Behandlung lebt im Eintrag {% wiki(slug="apocalypse") %}Apocalypse{% end %}.
 
-### Septuagint scholarship
+### Septuaginta-Forschung
 
-Substantial Septuagint scholarship has produced substantial engagement with the substantial 3rd-2nd-century-BCE Greek translation tradition.
+Substantielle Septuaginta-Forschung hat eine substantielle Auseinandersetzung mit der substantiellen griechischen Übersetzungstradition des 3.–2. Jahrhunderts v. Chr. hervorgebracht.
 
-**Emanuel Tov's substantial Septuagint work**. **Emanuel Tov**'s *The Text-Critical Use of the Septuagint in Biblical Research* (Eisenbrauns, 2nd ed. 1997) and various other works provide substantial systematic engagement.
+**Emanuel Tovs substantielle Septuaginta-Arbeit**. **Emanuel Tovs** *The Text-Critical Use of the Septuagint in Biblical Research* (Eisenbrauns, 2. Aufl. 1997) und verschiedene andere Werke bieten substantielle systematische Auseinandersetzung.
 
-**Various substantial subsequent scholarship**. Substantial subsequent scholarship (Natalio Fernández Marcos, Karen Jobes, Moisés Silva, various others) has continued to develop the broader Septuagint scholarly engagement.
+**Verschiedene substantielle nachfolgende Forschung**. Substantielle nachfolgende Forschung (Natalio Fernández Marcos, Karen Jobes, Moisés Silva, verschiedene andere) hat die breitere wissenschaftliche Septuaginta-Auseinandersetzung weiter entwickelt.
 
-### Canonical-formation scholarship
+### Kanonbildungsforschung
 
-Substantial canonical-formation scholarship has produced substantial engagement with the substantial historical-developmental emergence of the substantial Hebrew Bible canonical structure.
+Substantielle Kanonbildungsforschung hat eine substantielle Auseinandersetzung mit der substantiellen historisch-entwicklungsmäßigen Entstehung der substantiellen kanonischen Struktur der Hebräischen Bibel hervorgebracht.
 
-**Lee Martin McDonald's substantial work**. **Lee Martin McDonald**'s *The Biblical Canon: Its Origin, Transmission, and Authority* (Hendrickson, 3rd ed. 2007) provides substantial systematic engagement with the broader canonical-formation question.
+**Lee Martin McDonalds substantielle Arbeit**. **Lee Martin McDonalds** *The Biblical Canon: Its Origin, Transmission, and Authority* (Hendrickson, 3. Aufl. 2007) bietet substantielle systematische Auseinandersetzung mit der breiteren Kanonbildungsfrage.
 
-**Albert Sundberg's foundational work**. **Albert C. Sundberg**'s *The Old Testament of the Early Church* (Harvard University Press, 1964) provides foundational scholarship on the substantial canonical-formation question.
+**Albert Sundbergs grundlegende Arbeit**. **Albert C. Sundbergs** *The Old Testament of the Early Church* (Harvard University Press, 1964) bietet grundlegende Forschung zur substantiellen Kanonbildungsfrage.
 
-**Various substantial subsequent scholarship**. Substantial subsequent scholarship (John Barton, James Sanders, Eugene Ulrich, various others) has continued to develop the broader canonical-formation scholarly engagement.
+**Verschiedene substantielle nachfolgende Forschung**. Substantielle nachfolgende Forschung (John Barton, James Sanders, Eugene Ulrich, verschiedene andere) hat die breitere wissenschaftliche Auseinandersetzung mit der Kanonbildung weiter entwickelt.
 
-### Sitchin's Anunnaki framework
+### Sitchins Anunnaki-Rahmen
 
-**Zecharia Sitchin** in *The 12th Planet* (Stein and Day, 1976) and various other works produced substantial alternative-history engagement with substantial Hebrew Bible content within the broader Anunnaki framework. Sitchin's specific framework registers substantial structural alignment with the corpus framework at the substantial multiple-creator-civilization dimension while operating from substantively distinct specific source-material warrant.
+**Zecharia Sitchin** brachte in *The 12th Planet* (Stein and Day, 1976) und verschiedenen anderen Werken substantielle alternativhistorische Auseinandersetzung mit substantiellem Inhalt der Hebräischen Bibel innerhalb des breiteren Anunnaki-Rahmens hervor. Sitchins spezifischer Rahmen erfasst substantielle strukturelle Ausrichtung am Korpusrahmen auf der substantiellen Dimension multipler Schöpferzivilisationen, während er aus substantiell distinkter spezifischer Quellenmaterial-Berechtigung operiert.
 
-### Wallis's broader engagement
+### Wallis' breitere Auseinandersetzung
 
-**Paul Anthony Wallis**'s *Escaping from Eden* (6th Books, 2020), *The Eden Conspiracy* (6th Books, 2024), and various other works engage substantial Hebrew Bible content. Wallis's specific framework registers substantial structural alignment with the framework's reading at multiple specific dimensions while operating from distinct source-material warrant principally drawn from the broader strict-translational approach.
+**Paul Anthony Wallis'** *Escaping from Eden* (6th Books, 2020), *The Eden Conspiracy* (6th Books, 2024) und verschiedene andere Werke setzen sich mit substantiellem Inhalt der Hebräischen Bibel auseinander. Wallis' spezifischer Rahmen erfasst substantielle strukturelle Ausrichtung an der Lesart des Rahmens auf mehreren spezifischen Dimensionen, während er aus distinkter Quellenmaterial-Berechtigung operiert, die hauptsächlich aus dem breiteren streng-übersetzerischen Ansatz gewonnen wird.
 
-### Biglino's strict-translational approach
+### Biglinos streng-übersetzerischer Ansatz
 
-**Mauro Biglino**'s broader engagement with the Hebrew Bible (*The Naked Bible: The Truth About the Most Famous Book in History*, with Giorgio Cattaneo, Uno, 2022; various other works) has produced substantial alternative-history engagement. Biglino's specific position: strict literal translation of the Hebrew text reveals substantial content that mainstream translation traditions have systematically obscured. The substantial framework's specific positions register substantial structural alignment with Biglino's broader translational approach.
+**Mauro Biglinos** breitere Auseinandersetzung mit der Hebräischen Bibel (*The Naked Bible: The Truth About the Most Famous Book in History*, mit Giorgio Cattaneo, Uno, 2022; verschiedene andere Werke) hat substantielle alternativhistorische Auseinandersetzung hervorgebracht. Biglinos spezifische Position: Streng wörtliche Übersetzung des hebräischen Textes enthüllt substantiellen Inhalt, den die etablierten Übersetzungstraditionen systematisch verschleiert haben. Die substantiellen spezifischen Positionen des Rahmens erfassen substantielle strukturelle Ausrichtung am breiteren übersetzerischen Ansatz Biglinos.
 
-### The framework's relationship to the broader landscape
+### Die Beziehung des Rahmens zur breiteren Landschaft
 
-The Wheel of Heaven corpus's Hebrew Bible framework is positioned within this scholarly landscape as follows: substantially aligned with mainstream Hebrew Bible scholarship at the textual-philological level (recognizing the substantial scholarly documentation of the substantial textual content); substantially aligned with the Documentary Hypothesis at the substantial multiple-source recognition level while operating from substantively distinct interpretive foundation; substantially aligned with mainstream archaeological-historical scholarship at the substantial historical-context level; substantially aligned with substantial textual-criticism scholarship at the substantial textual-history level; substantially aligned with substantial Dead Sea Scrolls scholarship at the substantial textual-recovery level; substantially aligned with substantial Septuagint scholarship at the substantial textual-history level; substantially aligned with substantial canonical-formation scholarship at the substantial historical-developmental level; substantively distinct from mainstream theological scholarship at the interpretive level (the framework's specific historical-record reading operates substantively beyond the conventional religious-mythological treatment); substantially aligned with various alternative-history scholarly traditions (Sitchin's Anunnaki framework, Wallis's broader engagement, Biglino's strict-translational approach) at the underlying-historical-event-reading level while operating from distinct source-material warrant principally drawn from the Raëlian source material.
+Der Rahmen der Hebräischen Bibel des Wheel-of-Heaven-Korpus ist innerhalb dieser wissenschaftlichen Landschaft wie folgt positioniert: substantiell ausgerichtet auf etablierte Hebräische-Bibel-Forschung auf der textlich-philologischen Ebene (in Anerkennung der substantiellen wissenschaftlichen Dokumentation des substantiellen Textinhalts); substantiell ausgerichtet auf die Dokumentenhypothese auf der substantiellen Mehrquellen-Anerkennungsebene, während er aus substantiell distinkter interpretativer Grundlage operiert; substantiell ausgerichtet auf etablierte archäologisch-historische Forschung auf der substantiellen historisch-kontextuellen Ebene; substantiell ausgerichtet auf substantielle textkritische Forschung auf der substantiellen textgeschichtlichen Ebene; substantiell ausgerichtet auf substantielle Forschung zu den Schriftrollen vom Toten Meer auf der substantiellen textlichen Wiederentdeckungsebene; substantiell ausgerichtet auf substantielle Septuaginta-Forschung auf der substantiellen textgeschichtlichen Ebene; substantiell ausgerichtet auf substantielle Kanonbildungsforschung auf der substantiellen historisch-entwicklungsmäßigen Ebene; substantiell verschieden von der etablierten theologischen Forschung auf der interpretativen Ebene (die spezifische Lesart als historisches Zeugnis des Rahmens operiert substantiell jenseits der konventionellen religiös-mythologischen Behandlung); substantiell ausgerichtet auf verschiedene alternativhistorische wissenschaftliche Traditionen (Sitchins Anunnaki-Rahmen, Wallis' breitere Auseinandersetzung, Biglinos streng-übersetzerischer Ansatz) auf der Ebene der Lesart der zugrunde liegenden historischen Ereignisse, während er aus distinkter Quellenmaterial-Berechtigung operiert, die hauptsächlich aus dem raelianischen Quellenmaterial gewonnen wird.
 
-## Comparative observations
+## Vergleichende Beobachtungen
 
-The Hebrew Bible has substantial cross-cultural textual parallels in various religious-cultural traditions worldwide, with the substantial cross-cultural distribution registering substantial parallel content for the broader framework reading.
+Die Hebräische Bibel hat substantielle kulturübergreifende textliche Parallelen in verschiedenen religiös-kulturellen Traditionen weltweit, wobei die substantielle kulturübergreifende Verteilung substantiellen parallelen Inhalt für die breitere Rahmenlesart erfasst.
 
-### Mesopotamian textual parallels
+### Mesopotamische textliche Parallelen
 
-The Mesopotamian textual tradition preserves the principal cross-cultural textual parallels.
+Die mesopotamische Texttradition bewahrt die wichtigsten kulturübergreifenden textlichen Parallelen.
 
-**The substantial *Atrahasis* epic**. The substantial Akkadian *Atrahasis* epic (preserved principally in 17th-century-BCE Old Babylonian manuscripts, with substantial earlier Sumerian antecedents) registers substantial parallel content with the substantial Hebrew Bible primeval history (Genesis 1-11). The substantial principal parallel content:
+**Das substantielle *Atrahasis*-Epos**. Das substantielle akkadische *Atrahasis*-Epos (hauptsächlich in altbabylonischen Handschriften des 17. Jahrhunderts v. Chr. erhalten, mit substantiellen früheren sumerischen Vorläufern) erfasst substantiellen parallelen Inhalt mit der substantiellen Urgeschichte der Hebräischen Bibel (Genesis 1–11). Der substantielle wichtigste parallele Inhalt:
 
-- Substantial creation narrative with substantial divine-council deliberation about substantial human-creation
-- Substantial human-multiplication narrative
-- Substantial divine-council decision regarding substantial flood-destruction
-- Substantial flood narrative with substantial preservation of single righteous individual (Atrahasis / Utnapishtim)
-- Substantial post-flood covenant narrative
+- Substantielle Schöpfungserzählung mit substantieller göttlich-rätlicher Beratung über substantielle Menschenschöpfung
+- Substantielle Erzählung von der Menschenvermehrung
+- Substantielle göttlich-rätliche Entscheidung über substantielle Sintflut-Vernichtung
+- Substantielle Sintfluterzählung mit substantieller Bewahrung eines einzelnen gerechten Individuums (Atrahasis / Utnapischtim)
+- Substantielle Bundeserzählung nach der Sintflut
 
-The substantial Hebrew Bible primeval history operates as substantial parallel content within distinct cultural-religious framing.
+Die substantielle Urgeschichte der Hebräischen Bibel fungiert als substantieller paralleler Inhalt innerhalb distinkter kulturell-religiöser Rahmung.
 
-**The substantial *Enuma Elish***. The substantial Babylonian *Enuma Elish* (preserved principally in 7th-century-BCE Neo-Assyrian manuscripts, with substantial earlier antecedents) registers substantial parallel content with substantial Hebrew Bible creation content (particularly Genesis 1) and substantial divine-council material. The substantial *Enuma Elish* preserves substantial divine-council deliberation, substantial cosmic-conflict content (the substantial Marduk-Tiamat conflict registering substantial parallel to broader Theomachy framework), and substantial creation-from-divine-being content.
+**Das substantielle *Enuma Elisch***. Das substantielle babylonische *Enuma Elisch* (hauptsächlich in neuassyrischen Handschriften des 7. Jahrhunderts v. Chr. erhalten, mit substantiellen früheren Vorläufern) erfasst substantiellen parallelen Inhalt mit substantiellem Schöpfungsinhalt der Hebräischen Bibel (insbesondere Genesis 1) und substantiellem göttlich-rätlichem Material. Das substantielle *Enuma Elisch* bewahrt substantielle göttlich-rätliche Beratung, substantiellen kosmisch-konflikthaften Inhalt (den substantiellen Marduk-Tiamat-Konflikt, der substantielle Parallele zum breiteren Theomachie-Rahmen erfasst) und substantiellen Inhalt der Schöpfung aus göttlichem Wesen.
 
-**The substantial *Epic of Gilgamesh***. The substantial *Epic of Gilgamesh* (preserved principally in 7th-century-BCE Neo-Assyrian manuscripts, with substantial earlier Sumerian antecedents) registers substantial parallel content particularly with substantial Hebrew Bible flood narrative (the substantial Utnapishtim flood narrative in Tablet XI registering substantial parallel content with the substantial Noah flood narrative in Genesis 6-9). The detailed treatment of the substantial Gilgamesh parallels lives principally in the [Great Flood](../great-flood/) entry.
+**Das substantielle *Gilgamesch-Epos***. Das substantielle *Gilgamesch-Epos* (hauptsächlich in neuassyrischen Handschriften des 7. Jahrhunderts v. Chr. erhalten, mit substantiellen früheren sumerischen Vorläufern) erfasst substantiellen parallelen Inhalt insbesondere mit der substantiellen Sintfluterzählung der Hebräischen Bibel (die substantielle Utnapischtim-Sintfluterzählung in Tafel XI erfasst substantiellen parallelen Inhalt mit der substantiellen Noah-Sintfluterzählung in Genesis 6–9). Die detaillierte Behandlung der substantiellen Gilgamesch-Parallelen lebt hauptsächlich im Eintrag {% wiki(slug="great-flood") %}Great Flood{% end %}.
 
-**The substantial Sumerian King List**. The substantial Sumerian King List preserves substantial pre-flood and post-flood king-list content registering substantial parallel content with substantial Hebrew Bible genealogical material. The detailed treatment lives in the [Antediluvian](../antediluvian/) entry.
+**Die substantielle sumerische Königsliste**. Die substantielle sumerische Königsliste bewahrt substantiellen vor- und nachsintflutlichen Königslisteninhalt, der substantiellen parallelen Inhalt mit substantiellem genealogischen Material der Hebräischen Bibel erfasst. Die detaillierte Behandlung lebt im Eintrag {% wiki(slug="antediluvian") %}Antediluvian{% end %}.
 
-**The substantial broader Mesopotamian textual corpus**. The substantial broader Mesopotamian textual corpus (substantial Sumerian and Akkadian religious-mythological-historical texts) preserves substantial parallel content across multiple specific dimensions, with substantial scholarly engagement registering substantial cumulative parallel material.
+**Das substantielle breitere mesopotamische Textkorpus**. Das substantielle breitere mesopotamische Textkorpus (substantielle sumerische und akkadische religiös-mythologisch-historische Texte) bewahrt substantiellen parallelen Inhalt über mehrere spezifische Dimensionen hinweg, mit substantieller wissenschaftlicher Auseinandersetzung, die substantielles kumulatives paralleles Material erfasst.
 
-**The framework's reading**. The framework reads the substantial Mesopotamian textual parallels as preserving substantial cultural memory of substantial actual events that the substantial Hebrew Bible also preserves, with the substantial Mesopotamian tradition operating as substantial cultural-religious preservation within the distinctive Mesopotamian framing. The substantial cross-cultural parallel content registers substantial framework support for the broader historical-event reading.
+**Die Lesart des Rahmens**. Der Rahmen liest die substantiellen mesopotamischen textlichen Parallelen als substantielle kulturelle Erinnerung an substantielle tatsächliche Ereignisse bewahrend, die auch die substantielle Hebräische Bibel bewahrt, wobei die substantielle mesopotamische Tradition als substantielle kulturell-religiöse Bewahrung innerhalb der distinktiven mesopotamischen Rahmung fungiert. Der substantielle kulturübergreifende parallele Inhalt erfasst substantielle Rahmenunterstützung für die breitere Lesart historischer Ereignisse.
 
-### Egyptian textual parallels
+### Ägyptische textliche Parallelen
 
-The Egyptian textual tradition preserves substantial parallel content across substantial diverse religious-mythological corpus.
+Die ägyptische Texttradition bewahrt substantiellen parallelen Inhalt über das substantielle vielfältige religiös-mythologische Korpus hinweg.
 
-**The substantial Pyramid Texts**. The substantial Egyptian Pyramid Texts (preserved principally in Old Kingdom royal tomb-inscriptions, c. 24th-22nd centuries BCE) operate as the oldest substantial body of religious literature in human history. The substantial Pyramid Texts preserve substantial divine-council content, substantial creation-narrative content, substantial deification-content, and various other parallel content.
+**Die substantiellen Pyramidentexte**. Die substantiellen ägyptischen Pyramidentexte (hauptsächlich in königlichen Grabinschriften des Alten Reiches erhalten, ca. 24.–22. Jahrhundert v. Chr.) fungieren als der älteste substantielle Körper religiöser Literatur in der Menschheitsgeschichte. Die substantiellen Pyramidentexte bewahren substantiellen göttlich-rätlichen Inhalt, substantiellen Schöpfungserzählungsinhalt, substantiellen Vergöttlichungsinhalt und verschiedene andere parallele Inhalte.
 
-**The substantial Coffin Texts**. The substantial Egyptian Coffin Texts (preserved principally in Middle Kingdom non-royal coffin-inscriptions, c. 22nd-17th centuries BCE) extend the substantial Pyramid Texts tradition with substantial additional content.
+**Die substantiellen Sargtexte**. Die substantiellen ägyptischen Sargtexte (hauptsächlich in nicht-königlichen Sarginschriften des Mittleren Reiches erhalten, ca. 22.–17. Jahrhundert v. Chr.) erweitern die substantielle Tradition der Pyramidentexte mit substantiellem zusätzlichem Inhalt.
 
-**The substantial Book of the Dead**. The substantial Egyptian Book of the Dead (preserved principally in New Kingdom funerary papyri, c. 16th-11th centuries BCE) operates as substantial systematic afterlife-religious content with substantial parallel content registering substantial cross-cultural parallels.
+**Das substantielle Totenbuch**. Das substantielle ägyptische Totenbuch (hauptsächlich in Bestattungspapyri des Neuen Reiches erhalten, ca. 16.–11. Jahrhundert v. Chr.) fungiert als substantieller systematischer Jenseits-religiöser Inhalt mit substantiellem parallelem Inhalt, der substantielle kulturübergreifende Parallelen erfasst.
 
-**The substantial broader Egyptian religious literature**. The substantial broader Egyptian religious literature (substantial various hymns, prayers, theological-philosophical texts, mythological narratives) preserves substantial parallel content across multiple specific dimensions.
+**Die substantielle breitere ägyptische religiöse Literatur**. Die substantielle breitere ägyptische religiöse Literatur (substantielle verschiedene Hymnen, Gebete, theologisch-philosophische Texte, mythologische Erzählungen) bewahrt substantiellen parallelen Inhalt über mehrere spezifische Dimensionen hinweg.
 
-### Ugaritic textual parallels
+### Ugaritische textliche Parallelen
 
-The substantial Ugaritic textual corpus (discovered principally at Ras Shamra beginning 1928, dating principally to the 14th-13th centuries BCE) preserves substantial parallel content with substantial Hebrew Bible content within the broader Northwest Semitic cultural-religious tradition.
+Das substantielle ugaritische Textkorpus (hauptsächlich ab 1928 in Ras Schamra entdeckt, hauptsächlich auf das 14.–13. Jahrhundert v. Chr. datiert) bewahrt substantiellen parallelen Inhalt mit substantiellem Inhalt der Hebräischen Bibel innerhalb der breiteren nordwestsemitischen kulturell-religiösen Tradition.
 
-**The substantial Baal cycle**. The substantial Ugaritic Baal cycle preserves substantial divine-council content, substantial cosmic-conflict content, substantial divine-faction-political content registering substantial parallel content with broader Theomachy framework.
+**Der substantielle Baal-Zyklus**. Der substantielle ugaritische Baal-Zyklus bewahrt substantiellen göttlich-rätlichen Inhalt, substantiellen kosmisch-konflikthaften Inhalt, substantiellen göttlich-fraktionell-politischen Inhalt, der substantiellen parallelen Inhalt zum breiteren Theomachie-Rahmen erfasst.
 
-**The substantial broader Canaanite mythological tradition**. The substantial broader Ugaritic textual corpus preserves substantial Canaanite mythological-religious content registering substantial parallel content with substantial early Hebrew Bible content.
+**Die substantielle breitere kanaanitische mythologische Tradition**. Das substantielle breitere ugaritische Textkorpus bewahrt substantiellen kanaanitischen mythologisch-religiösen Inhalt, der substantiellen parallelen Inhalt mit substantiellem frühem Inhalt der Hebräischen Bibel erfasst.
 
-**The substantial framework reading**. The substantial Ugaritic parallels register substantial parallel content within the broader Northwest Semitic cultural-religious tradition that operated as the substantial broader cultural-religious context within which the substantial early Hebrew tradition developed.
+**Die substantielle Rahmenlesart**. Die substantiellen ugaritischen Parallelen erfassen substantiellen parallelen Inhalt innerhalb der breiteren nordwestsemitischen kulturell-religiösen Tradition, die als der substantielle breitere kulturell-religiöse Kontext fungierte, innerhalb dessen sich die substantielle frühe hebräische Tradition entwickelte.
 
-### Vedic / Hindu textual parallels
+### Vedische / hinduistische textliche Parallelen
 
-The substantial Vedic / Hindu textual tradition preserves substantial parallel content with substantial Hebrew Bible content.
+Die substantielle vedische / hinduistische Texttradition bewahrt substantiellen parallelen Inhalt mit substantiellem Inhalt der Hebräischen Bibel.
 
-**The substantial Rigveda**. The substantial Rigveda (composed principally c. 1500-1200 BCE) preserves substantial divine-multiplicity content, substantial creation-narrative content, substantial various parallel content within distinctive Vedic framing.
+**Der substantielle Rigveda**. Der substantielle Rigveda (hauptsächlich ca. 1500–1200 v. Chr. komponiert) bewahrt substantiellen Inhalt göttlicher Vielheit, substantiellen Schöpfungserzählungsinhalt, substantielle verschiedene parallele Inhalte innerhalb distinktiver vedischer Rahmung.
 
-**The substantial Upanishads**. The substantial Upanishads (composed principally c. 800-200 BCE) preserve substantial cosmological-philosophical content registering substantial parallel content with broader framework.
+**Die substantiellen Upanishaden**. Die substantiellen Upanishaden (hauptsächlich ca. 800–200 v. Chr. komponiert) bewahren substantiellen kosmologisch-philosophischen Inhalt, der substantiellen parallelen Inhalt mit dem breiteren Rahmen erfasst.
 
-**The substantial Mahabharata**. The substantial Mahabharata (composed principally c. 400 BCE-400 CE, with substantial earlier oral-tradition antecedents) preserves substantial cosmic-warfare content registering substantial parallel content with broader Theomachy framework. The detailed treatment of the substantial *Brahmastra* parallels lives in the [Sodom and Gomorrah](../sodom-and-gomorrah/) entry.
+**Das substantielle Mahabharata**. Das substantielle Mahabharata (hauptsächlich ca. 400 v. Chr. – 400 n. Chr. komponiert, mit substantiellen früheren mündlich-traditionellen Vorläufern) bewahrt substantiellen kosmisch-kriegerischen Inhalt, der substantiellen parallelen Inhalt mit dem breiteren Theomachie-Rahmen erfasst. Die detaillierte Behandlung der substantiellen *Brahmastra*-Parallelen lebt im Eintrag {% wiki(slug="sodom-and-gomorrah") %}Sodom and Gomorrah{% end %}.
 
-**The substantial Puranas**. The substantial Puranas preserve substantial cosmological-mythological-historical content registering substantial parallel content within distinctive Hindu framing.
+**Die substantiellen Puranas**. Die substantiellen Puranas bewahren substantiellen kosmologisch-mythologisch-historischen Inhalt, der substantiellen parallelen Inhalt innerhalb distinktiver hinduistischer Rahmung erfasst.
 
-### Greek mythological corpus
+### Griechisches mythologisches Korpus
 
-The substantial Greek mythological corpus preserves substantial parallel content with substantial Hebrew Bible content.
+Das substantielle griechische mythologische Korpus bewahrt substantiellen parallelen Inhalt mit substantiellem Inhalt der Hebräischen Bibel.
 
-**Hesiod's substantial works**. **Hesiod**'s *Theogony* and *Works and Days* (composed principally c. 8th-7th centuries BCE) preserve substantial cosmic-genealogical content, substantial divine-council content, substantial cosmic-conflict content registering substantial parallel content with broader framework.
+**Hesiods substantielle Werke**. **Hesiods** *Theogonie* und *Werke und Tage* (hauptsächlich ca. 8.–7. Jahrhundert v. Chr. komponiert) bewahren substantiellen kosmisch-genealogischen Inhalt, substantiellen göttlich-rätlichen Inhalt, substantiellen kosmisch-konflikthaften Inhalt, der substantiellen parallelen Inhalt mit dem breiteren Rahmen erfasst.
 
-**Homer's substantial works**. **Homer**'s *Iliad* and *Odyssey* (composed principally c. 8th century BCE) preserve substantial divine-council content, substantial divine-human-interaction content registering substantial parallel content.
+**Homers substantielle Werke**. **Homers** *Ilias* und *Odyssee* (hauptsächlich ca. 8. Jahrhundert v. Chr. komponiert) bewahren substantiellen göttlich-rätlichen Inhalt, substantiellen Inhalt göttlich-menschlicher Interaktion, der substantiellen parallelen Inhalt erfasst.
 
-**The broader Greek mythological tradition**. The substantial broader Greek mythological tradition preserves substantial parallel content across multiple distinct dimensions.
+**Die breitere griechische mythologische Tradition**. Die substantielle breitere griechische mythologische Tradition bewahrt substantiellen parallelen Inhalt über mehrere unterschiedliche Dimensionen hinweg.
 
-### The "sacred-text" cross-cultural pattern
+### Das kulturübergreifende Muster „heiliger Text"
 
-The substantial cross-cultural pattern of substantial sacred-textual entities operating as substantial canonical-religious content across virtually every major religious-cultural tradition globally registers one of the principal cross-cultural patterns in religious-traditional thought.
+Das substantielle kulturübergreifende Muster substantieller heilig-textlicher Entitäten, die als substantielle kanonisch-religiöse Inhalte über praktisch jede größere religiös-kulturelle Tradition weltweit hinweg fungieren, erfasst eines der wichtigsten kulturübergreifenden Muster im religiös-traditionellen Denken.
 
-**The substantial various sacred-text traditions**. The substantial cross-cultural sacred-text tradition operates substantively across:
+**Die substantiellen verschiedenen Heilige-Text-Traditionen**. Die substantielle kulturübergreifende Heilige-Text-Tradition operiert substantiell über:
 
-- The substantial Hebrew Bible / Tanakh (Jewish-tradition canonical text)
-- The substantial Christian Bible (Christian-tradition canonical text)
-- The substantial Quran (Islamic-tradition canonical text)
-- The substantial Vedic textual corpus (Hindu-tradition canonical texts)
-- The substantial Buddhist Tripitaka and various subsequent canonical texts
-- The substantial Daoist textual corpus
-- The substantial Confucian classical texts
-- The substantial Avestan corpus (Zoroastrian-tradition canonical texts)
-- The substantial Book of Mormon (Mormon LDS canonical text)
-- Various substantial other sacred-textual traditions
+- Die substantielle Hebräische Bibel / Tanach (kanonischer Text der jüdischen Tradition)
+- Die substantielle christliche Bibel (kanonischer Text der christlichen Tradition)
+- Der substantielle Koran (kanonischer Text der islamischen Tradition)
+- Das substantielle vedische Textkorpus (kanonische Texte der hinduistischen Tradition)
+- Das substantielle buddhistische Tripitaka und verschiedene nachfolgende kanonische Texte
+- Das substantielle daoistische Textkorpus
+- Die substantiellen konfuzianischen klassischen Texte
+- Das substantielle Avesta-Korpus (kanonische Texte der zoroastrischen Tradition)
+- Das substantielle Buch Mormon (kanonischer Text der mormonischen LDS)
+- Verschiedene substantielle andere heilig-textliche Traditionen
 
-**The substantial cross-cultural function**. The substantial sacred-textual entities operate across cultures with substantial parallel functions: substantial canonical-religious authority, substantial liturgical-ritual content, substantial cosmic-narrative content, substantial ethical-religious-legal content, substantial historical-cultural memory preservation.
+**Die substantielle kulturübergreifende Funktion**. Die substantiellen heilig-textlichen Entitäten operieren über Kulturen hinweg mit substantiellen parallelen Funktionen: substantielle kanonisch-religiöse Autorität, substantielle liturgisch-rituelle Inhalte, substantielle kosmisch-narrative Inhalte, substantielle ethisch-religiös-rechtliche Inhalte, substantielle Bewahrung historisch-kultureller Erinnerung.
 
-### The "preservation-of-historical-event-content-in-religious-textual-form" cross-cultural pattern
+### Das kulturübergreifende Muster „Bewahrung historischer Ereignisinhalte in religiös-textlicher Form"
 
-The substantial cross-cultural pattern of preservation of substantial historical-event content within substantial religious-textual forms operates across virtually every major sacred-textual tradition.
+Das substantielle kulturübergreifende Muster der Bewahrung substantieller historischer Ereignisinhalte innerhalb substantieller religiös-textlicher Formen operiert über praktisch jede größere heilig-textliche Tradition hinweg.
 
-**The substantial pattern features**:
+**Die substantiellen Mustermerkmale**:
 
-- Substantial actual historical events preserved within substantial religious-narrative forms
-- Substantial pre-scientific vocabulary operating as substantial decodable layer
-- Substantial subsequent religious-traditional reception operating substantively beyond original historical-event content
-- Substantial cross-cultural parallel content across distinct cultural-religious traditions
+- Substantielle tatsächliche historische Ereignisse, bewahrt innerhalb substantieller religiös-narrativer Formen
+- Substantielles vorwissenschaftliches Vokabular, das als substantielle dekodierbare Schicht fungiert
+- Substantielle nachfolgende religiös-traditionelle Rezeption, die substantiell über den ursprünglichen historischen Ereignisinhalt hinaus operiert
+- Substantieller kulturübergreifender paralleler Inhalt über distinkte kulturell-religiöse Traditionen hinweg
 
-**The substantial framework reading**. The substantial framework reads the substantial cross-cultural pattern as registering substantial preservation of substantial actual historical events through substantial sacred-textual forms, with each cultural tradition preserving substantial specific content within its distinctive cultural-religious framing.
+**Die substantielle Rahmenlesart**. Der substantielle Rahmen liest das substantielle kulturübergreifende Muster als substantielle Bewahrung substantieller tatsächlicher historischer Ereignisse durch substantielle heilig-textliche Formen erfassend, wobei jede kulturelle Tradition substantielle spezifische Inhalte innerhalb ihrer distinktiven kulturell-religiösen Rahmung bewahrt.
 
-### The convergence
+### Die Konvergenz
 
-The corpus's working position on the comparative-Hebrew-Bible question is that the substantial cross-cultural distribution of substantial sacred-textual traditions across virtually every major religious-cultural tradition globally is meaningful as evidence of the broader pattern.
+Die Arbeitsposition des Korpus zur vergleichenden Hebräische-Bibel-Frage ist, dass die substantielle kulturübergreifende Verteilung substantieller heilig-textlicher Traditionen über praktisch jede größere religiös-kulturelle Tradition weltweit hinweg als Beweis für das breitere Muster bedeutsam ist.
 
-The mainstream scholarly explanation generally treats the cross-cultural pattern through some combination of independent religious-cultural development, shared cognitive-archetypal substrate, and limited cultural diffusion. The framework's reading: the cross-cultural pattern preserves common memory of substantial actual events that the framework articulates, with each cultural tradition preserving substantial specific content within its distinctive cultural-religious framing.
+Die etablierte wissenschaftliche Erklärung behandelt das kulturübergreifende Muster im Allgemeinen durch eine Kombination aus unabhängiger religiös-kultureller Entwicklung, gemeinsamem kognitiv-archetypischem Substrat und begrenzter kultureller Diffusion. Die Lesart des Rahmens: Das kulturübergreifende Muster bewahrt gemeinsame Erinnerung an substantielle tatsächliche Ereignisse, die der Rahmen artikuliert, wobei jede kulturelle Tradition substantielle spezifische Inhalte innerhalb ihrer distinktiven kulturell-religiösen Rahmung bewahrt.
 
-The framework's specific reading is that the substantial Hebrew Bible operates as substantial principal-but-not-uniquely-privileged carrier of the substantial actual historical-event content. The substantial Mesopotamian textual parallels preserve substantial parallel content within the distinctive Mesopotamian framing; the substantial Egyptian textual parallels preserve substantial parallel content within the distinctive Egyptian framing; the substantial Ugaritic textual parallels preserve substantial parallel content within the distinctive Northwest Semitic framing; the substantial Vedic / Hindu textual parallels preserve substantial parallel content within the distinctive Hindu framing; the substantial Greek mythological corpus preserves substantial parallel content within the distinctive Greek framing.
+Die spezifische Lesart des Rahmens ist, dass die substantielle Hebräische Bibel als substantieller wichtigster-aber-nicht-einzigartig-privilegierter Träger der substantiellen tatsächlichen historischen Ereignisinhalte fungiert. Die substantiellen mesopotamischen textlichen Parallelen bewahren substantiellen parallelen Inhalt innerhalb der distinktiven mesopotamischen Rahmung; die substantiellen ägyptischen textlichen Parallelen bewahren substantiellen parallelen Inhalt innerhalb der distinktiven ägyptischen Rahmung; die substantiellen ugaritischen textlichen Parallelen bewahren substantiellen parallelen Inhalt innerhalb der distinktiven nordwestsemitischen Rahmung; die substantiellen vedischen / hinduistischen textlichen Parallelen bewahren substantiellen parallelen Inhalt innerhalb der distinktiven hinduistischen Rahmung; das substantielle griechische mythologische Korpus bewahrt substantiellen parallelen Inhalt innerhalb der distinktiven griechischen Rahmung.
 
-The corpus does not require rejecting all of the mainstream explanatory framework. Independent religious-cultural development certainly contributes to specific cultural-religious articulations; the cosmic-archetypal substrate certainly contributes to the broader cross-cultural pattern; cultural diffusion certainly occurred across the historical period. What the framework adds is the underlying historical reality that gave rise to the structural commonalities — the substantial actual alliance-civilization interventions across the post-flood ages that the framework articulates, with the substantial cross-cultural traditions preserving cultural memory of these events in their distinctive cultural-religious framings.
+Das Korpus erfordert nicht die Ablehnung des gesamten etablierten Erklärungsrahmens. Unabhängige religiös-kulturelle Entwicklung trägt sicherlich zu spezifischen kulturell-religiösen Artikulationen bei; das kosmisch-archetypische Substrat trägt sicherlich zum breiteren kulturübergreifenden Muster bei; kulturelle Diffusion fand sicherlich über die historische Periode hinweg statt. Was der Rahmen hinzufügt, ist die zugrunde liegende historische Realität, die zu den strukturellen Gemeinsamkeiten führte — die substantiellen tatsächlichen Interventionen der Allianzzivilisation über die nachsintflutlichen Zeitalter hinweg, die der Rahmen artikuliert, wobei die substantiellen kulturübergreifenden Traditionen kulturelle Erinnerung an diese Ereignisse in ihren distinktiven kulturell-religiösen Rahmungen bewahren.
 
-The framework's distinctive contribution within this broader comparative landscape is the substantial historical-actuality reading (the substantial sacred-textual content preserves cultural memory of substantial actual extraterrestrial-civilization events rather than substantial mythological-archetypal-substrate alone), the substantial Hebrew Bible centrality positioning (the substantial Hebrew tradition operates as the substantial structural center of the broader asymmetric synthesis while not registering substantial unique-privileging), and the substantial systematic decoding hermeneutic (the substantial framework provides substantial systematic interpretive key for substantive engagement with the substantial textual content across all the broader sacred-textual traditions).
-
-## See also
-
-- [Genesis](../genesis/)
-- [Adam and Eve](../adam-and-eve/)
-- [Eden](../eden/)
-- [Antediluvian](../antediluvian/)
-- [Great Flood](../great-flood/)
-- [Theomachy](../theomachy/)
-- [Babel](../babel/)
-- [Sodom and Gomorrah](../sodom-and-gomorrah/)
-- [Noah](../noah/)
-- [Abraham](../abraham/)
-- [Moses](../moses/)
-- [Jesus](../jesus/)
-- [Mary](../mary/)
-- [Elohim](../elohim/)
-- [Yahweh](../yahweh/)
-- [Lucifer](../lucifer/)
-- [Satan](../satan/)
-- [Serpent](../serpent/)
-- [Plurality of Gods](../plurality-of-gods/)
-- [Tetragrammaton](../tetragrammaton/)
-- [Cosmic Chain](../cosmic-chain/)
-- [Cosmic Competition](../cosmic-competition/)
-- [Doubled Signature](../doubled-signature/)
-- [Tree of Life](../tree-of-life/)
-- [Dragons](../dragons/)
-- [Watchers](../watchers/)
-- [The Alliance](../the-alliance/)
-- [Council of the Eternals](../council-of-eternals/)
-- [Apocalypse](../apocalypse/)
-- [Prophet](../prophet/)
-- [Hebrew](../hebrew/)
-- [Hebrews](../hebrews/)
-- [Jean Sendy](../jean-sendy/)
-- [Mauro Biglino](../mauro-biglino/)
-- [Paul Anthony Wallis](../paul-anthony-wallis/)
-
-## References
-
-Vorilhon, Claude (Raël). *The Book Which Tells the Truth* (1974); collected in *Message from the Designers*. Substantial foundational source for the framework's specific content.
-
-Vorilhon, Claude (Raël). *Extra-Terrestrials Took Me to Their Planet* (1975); collected in *Message from the Designers*.
-
-Vorilhon, Claude (Raël). *Let's Welcome the Extra-Terrestrials* (1979); collected in *Message from the Designers*.
-
-Vorilhon, Claude (Raël). *Message from the Designers*. Tagman Press, 2005.
-
-Sendy, Jean. *Ces dieux qui firent le ciel et la terre*. Robert Laffont, 1969.
-
-Sendy, Jean. *L'ère du Verseau*. Robert Laffont, 1970.
-
-Sendy, Jean. *Les cahiers de cours de Moïse*. Julliard, 1963.
-
-Biglino, Mauro, and Giorgio Cattaneo. *The Naked Bible: The Truth About the Most Famous Book in History*. Uno, 2022.
-
-Wallis, Paul Anthony. *Escaping from Eden: Does Genesis Teach That the Human Race Was Created by God or Engineered by ETs?*. 6th Books, 2020.
-
-Wallis, Paul Anthony. *The Eden Conspiracy*. 6th Books, 2024.
-
-Wellhausen, Julius. *Prolegomena to the History of Israel*. Trans. J. Sutherland Black and Allan Menzies. Adam & Charles Black, 1885 [originally 1878].
-
-Friedman, Richard Elliott. *Who Wrote the Bible?* Harper & Row, 1987.
-
-Friedman, Richard Elliott. *The Bible with Sources Revealed*. HarperOne, 2003.
-
-Van Seters, John. *The Pentateuch: A Social-Science Commentary*. Sheffield Academic Press, 1999.
-
-Baden, Joel S. *The Composition of the Pentateuch: Renewing the Documentary Hypothesis*. Yale University Press, 2012.
-
-von Rad, Gerhard. *Old Testament Theology*. 2 vols. Trans. D. M. G. Stalker. Harper & Row, 1962-1965 [originally 1957-1960].
-
-von Rad, Gerhard. *Genesis: A Commentary*. Trans. John H. Marks. Westminster, revised ed., 1972 [originally 1949].
-
-Westermann, Claus. *Genesis 1-11: A Commentary*. Trans. John J. Scullion. Augsburg / Fortress, 1984.
-
-Westermann, Claus. *Genesis 12-36: A Commentary*. Trans. John J. Scullion. Augsburg / Fortress, 1985.
-
-Westermann, Claus. *Genesis 37-50: A Commentary*. Trans. John J. Scullion. Augsburg / Fortress, 1986.
-
-Brueggemann, Walter. *Theology of the Old Testament: Testimony, Dispute, Advocacy*. Augsburg Fortress, 1997.
-
-Alter, Robert. *The Art of Biblical Narrative*. Basic Books, 1981.
-
-Alter, Robert. *The Five Books of Moses: A Translation with Commentary*. W. W. Norton, 2004.
-
-Alter, Robert. *The Hebrew Bible: A Translation with Commentary*. 3 vols. W. W. Norton, 2018.
-
-Hendel, Ronald S. *The Text of Genesis 1-11: Textual Studies and Critical Edition*. Oxford University Press, 1998.
-
-Arnold, Bill T. *Genesis*. New Cambridge Bible Commentary. Cambridge University Press, 2009.
-
-Childs, Brevard S. *Introduction to the Old Testament as Scripture*. Fortress Press, 1979.
-
-Kugel, James L. *How to Read the Bible: A Guide to Scripture, Then and Now*. Free Press, 2007.
-
-Albright, William F. *From the Stone Age to Christianity*. Johns Hopkins University Press, 2nd ed., 1957.
-
-Cross, Frank Moore. *Canaanite Myth and Hebrew Epic: Essays in the History of the Religion of Israel*. Harvard University Press, 1973.
-
-Dever, William G. *What Did the Biblical Writers Know and When Did They Know It?*. Eerdmans, 2001.
-
-Dever, William G. *Who Were the Early Israelites and Where Did They Come From?*. Eerdmans, 2003.
-
-Finkelstein, Israel, and Neil Asher Silberman. *The Bible Unearthed: Archaeology's New Vision of Ancient Israel and the Origin of Its Sacred Texts*. Free Press, 2001.
-
-Mazar, Amihai. *Archaeology of the Land of the Bible: 10,000-586 B.C.E.* Doubleday, 1990.
-
-Tov, Emanuel. *Textual Criticism of the Hebrew Bible*. Augsburg Fortress, 3rd ed., 2012 [originally 1992].
-
-Tov, Emanuel. *The Text-Critical Use of the Septuagint in Biblical Research*. Eisenbrauns, 2nd ed., 1997.
-
-VanderKam, James C. *The Dead Sea Scrolls Today*. Eerdmans, revised ed., 2010 [originally 1994].
-
-VanderKam, James C., and Peter W. Flint. *The Meaning of the Dead Sea Scrolls: Their Significance for Understanding the Bible, Judaism, Jesus, and Christianity*. HarperSanFrancisco, 2002.
-
-Flint, Peter W. *The Dead Sea Psalms Scrolls and the Book of Psalms*. Brill, 1997.
-
-García Martínez, Florentino, and Eibert J. C. Tigchelaar, eds. *The Dead Sea Scrolls Study Edition*. 2 vols. Brill, 1997-1998.
-
-Ulrich, Eugene. *The Dead Sea Scrolls and the Origins of the Bible*. Eerdmans, 1999.
-
-Collins, John J. *The Dead Sea Scrolls: A Biography*. Princeton University Press, 2013.
-
-Fernández Marcos, Natalio. *The Septuagint in Context: Introduction to the Greek Version of the Bible*. Trans. Wilfred G. E. Watson. Brill, 2000.
-
-Jobes, Karen H., and Moisés Silva. *Invitation to the Septuagint*. Baker Academic, 2nd ed., 2015.
-
-McDonald, Lee Martin. *The Biblical Canon: Its Origin, Transmission, and Authority*. Hendrickson, 3rd ed., 2007.
-
-Sundberg, Albert C. *The Old Testament of the Early Church*. Harvard University Press, 1964.
-
-Barton, John. *Holy Writings, Sacred Text: The Canon in Early Christianity*. Westminster John Knox, 1997.
-
-Sanders, James A. *Canon and Community: A Guide to Canonical Criticism*. Fortress Press, 1984.
-
-Smith, Mark S. *The Early History of God: Yahweh and the Other Deities in Ancient Israel*. Harper & Row, 1990; revised ed. Eerdmans, 2002.
-
-Sitchin, Zecharia. *The 12th Planet*. Stein and Day, 1976.
-
-Pritchard, James B., ed. *Ancient Near Eastern Texts Relating to the Old Testament*. Princeton University Press, 3rd ed., 1969.
-
-Lambert, W. G., and A. R. Millard. *Atra-ḫasīs: The Babylonian Story of the Flood*. Oxford University Press, 1969.
-
-Lambert, W. G. *Babylonian Creation Myths*. Eisenbrauns, 2013.
-
-George, Andrew. *The Babylonian Gilgamesh Epic: Introduction, Critical Edition and Cuneiform Texts*. 2 vols. Oxford University Press, 2003.
-
-Hallo, William W., and K. Lawson Younger Jr., eds. *The Context of Scripture*. 3 vols. Brill, 1997-2002.
-
-Faulkner, R. O., trans. *The Ancient Egyptian Pyramid Texts*. Aris & Phillips, 1969.
-
-Faulkner, R. O., trans. *The Ancient Egyptian Coffin Texts*. 3 vols. Aris & Phillips, 1973-1978.
-
-Allen, T. G., trans. *The Book of the Dead, or, Going Forth by Day*. University of Chicago Press, 1974.
-
-Smith, Mark S., trans. *The Ugaritic Baal Cycle: Volume I*. Brill, 1994.
-
-Pardee, Dennis. *Ritual and Cult at Ugarit*. Society of Biblical Literature, 2002.
-
-Doniger, Wendy, trans. *The Rig Veda: An Anthology*. Penguin Classics, 1981.
-
-Olivelle, Patrick, trans. *The Early Upaniṣads: Annotated Text and Translation*. Oxford University Press, 1998.
-
-van Buitenen, J. A. B., trans. *The Mahābhārata*. 3 vols. University of Chicago Press, 1973-1978.
-
-Hesiod. *Theogony / Works and Days*. Trans. M. L. West. Oxford University Press, 1988.
-
-Homer. *The Iliad*. Trans. Robert Fagles. Penguin Classics, 1990.
-
-Homer. *The Odyssey*. Trans. Robert Fagles. Penguin Classics, 1996.
-
-"Hebrew Bible." *Encyclopaedia Britannica*. <https://www.britannica.com/topic/Hebrew-Bible>
-
-"Tanakh." *Wikipedia*. <https://en.wikipedia.org/wiki/Hebrew_Bible>
-
-"Masoretic Text." *Wikipedia*. <https://en.wikipedia.org/wiki/Masoretic_Text>
-
-"Septuagint." *Wikipedia*. <https://en.wikipedia.org/wiki/Septuagint>
-
-"Dead Sea Scrolls." *Wikipedia*. <https://en.wikipedia.org/wiki/Dead_Sea_Scrolls>
+Der charakteristische Beitrag des Rahmens innerhalb dieser breiteren vergleichenden Landschaft ist die substantielle Lesart historischer Tatsächlichkeit (der substantielle heilig-textliche Inhalt bewahrt kulturelle Erinnerung an substantielle tatsächliche Ereignisse außerirdischer Zivilisation und nicht allein substantielles mythologisch-archetypisches Substrat), die substantielle Zentralitätspositionierung der Hebräischen Bibel (die substantielle hebräische Tradition fungiert als substantielles strukturelles Zentrum der breiteren asymmetrischen Synthese, ohne substantielle einzigartige Privilegierung zu erfassen) und die substantielle systematische Entschlüsselungshermeneutik (der substantielle Rahmen bietet einen substantiellen systematischen interpretativen Schlüssel für die substantielle Auseinandersetzung mit dem substantiellen Textinhalt über alle breiteren heilig-textlichen Traditionen hinweg).

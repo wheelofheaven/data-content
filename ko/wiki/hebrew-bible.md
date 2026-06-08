@@ -1,826 +1,804 @@
 +++
-title = "히브리어 성경"
-description = "히브리어 성경(히브리어: תָּנָ״ךְ, 타나흐)은 유대교의 근본 텍스트들을 모은 정전 모음집으로, 토라·예언서·성문서로 이루어진다. Wheel of Heaven 코퍼스에서 그것은 네 단계를 통해 읽어야 할 일차 원천이며, 특히 그 기술적 층에 비중이 실린다."
+title = "히브리어 성서"
+slug = "hebrew-bible"
+description = "히브리어 성서(히브리어: תָּנָ״ךְ, *타나크*)는 휠 오브 헤븐 프레임워크의 가장 근본적인 원천 텍스트적 실체입니다 — 전통적으로 세 개의 주요 부분(토라, 네비임, 케투빔)으로 조직된 24권의 책으로 구성된 실질적인 정경 히브리어 텍스트 코퍼스로서, 청동기 시대 후기부터 페르시아-헬레니즘 시대에 이르기까지 약 12세기에 걸쳐 주로 에덴 계보의 가계 혈통에 의해 산출되었으며, 마소라 텍스트 전통을 통해 실질적으로 보존되어 왔습니다. 이 프레임워크의 독특한 분석적 입장은 히브리어 성서를 실질적인 종교적-신화적 문학이 아니라 실질적인 역사적 기록으로 등록합니다: 실질적인 텍스트 내용은 홍수 이후의 시대들에 걸친 실질적인 동맹의 개입에 대한 실질적으로 정확한 문화적 기억을 보존하며, 인간 저자들의 실질적인 전과학적 어휘는 실질적인 본질적 장애물이 아니라 실질적인 해독 가능한 층위로 작동합니다. 이 프레임워크는 더 넓은 비대칭적 종합의 실질적인 구조적 중심에서 히브리어 성서를 운용합니다 — 실질적으로 지구와의 동맹의 소통에 관한 가장 직접적이고 가장 덜 매개된 기록입니다. 실질적인 기독교 전통의 번역 역사는 여러 주요 번역 오류들을 통해 실제 히브리어 내용의 실질적인 체계적 모호화를 산출해 왔으며(실질적인 *Elohim* → 단수 God 번역, 실질적인 *taninim* → '고래' 번역, 실질적인 *malakhim* → '천사' 초자연적 덧칠, 실질적인 *nachash* → 단순한 '뱀' 모호화), 실질적인 프레임워크 독해는 원본 텍스트 증거와의 체계적 관여를 통해 실제 히브리어 내용의 실질적인 복원을 등록합니다."
 template = "wiki-page.html"
 toc = true
 
 [extra]
-translation_status = "metadata_only"
 category = "Texts & Sources"
 editorial_pass = "2026-05"
 entry_type = "text"
-alternative_names = ["Tanakh (Hebrew: תָּנָ״ךְ)", "the Hebrew Scriptures", "the Jewish Bible", "Mikra (Hebrew: מִקְרָא, 'reading')", "the Old Testament (Christian-tradition designation)", "the Hebrew Old Testament", "the canonical Hebrew Scriptures"]
+claim_type = "inferred"
+alternative_names = ["타나크 (히브리어: תָּנָ״ךְ)", "히브리어 경전", "유대교 성서", "미크라 (히브리어: מִקְרָא, '읽기')", "구약성서 (기독교 전통 명칭)", "히브리어 구약성서", "정경 히브리어 경전"]
 timeline = ["multi-age"]
 
+see_also = [
+    { title = "성서", path = "/wiki/bible/", description = "히브리어 성서가 자리하는 더 넓은 텍스트 전통." },
+    { title = "창세기", path = "/wiki/genesis/", description = "프레임워크 전반에 걸쳐 다루어지는 주요 원시사 책." },
+    { title = "엘로힘", path = "/wiki/elohim/", description = "동맹 문명으로 읽히는 히브리어 명칭, 코퍼스의 해석 틀의 중심." },
+    { title = "야훼", path = "/wiki/yahweh/", description = "초자연적 신성이 아닌 특정 엘로하 개인으로 읽히는 사신문자(테트라그라마톤)." },
+    { title = "에덴", path = "/wiki/eden/", description = "최초의 동맹 실험실; 프레임워크의 히브리어 성서 독해의 텍스트적 기준점." },
+    { title = "대홍수", path = "/wiki/great-flood/", description = "히브리어 성서의 원시사에서 중심적인 쌍둥이자리 시대의 사건." },
+    { title = "모세", path = "/wiki/moses/", description = "토라 코퍼스를 산출한 임무의 주요 홍수 이후 예언자." },
+    { title = "아브라함", path = "/wiki/abraham/", description = "히브리어 성서 서사의 중심에 있는 족장 시대의 재구성 인물." },
+    { title = "문서설", path = "/wiki/documentary-hypothesis/", description = "오경 구성에 관한 주류 역사비평적 프레임워크." },
+    { title = "히브리인", path = "/wiki/hebrews/", description = "텍스트 코퍼스를 산출한 전통의 에덴 계보 가계 후손들." },
+    { title = "이중 서명", path = "/wiki/doubled-signature/", description = "히브리어 성서가 기저의 역사적 실재를 등록하는 코퍼스 원칙." },
+    { title = "라엘리안 정경의 참조 코퍼스", path = "/wiki/reference-corpus-of-the-raelian-canon/", description = "정경적 독해 렌즈로 작동하는 주요 라엘리안 원천 코퍼스." },
+    { title = "칠십인역", path = "/wiki/septuagint/", description = "히브리어 성서의 주요 그리스어 번역." },
+    { title = "사해 사본", path = "/wiki/dead-sea-scrolls/", description = "히브리어 성서의 텍스트 전승에 대한 실질적인 사본 증거." },
+    { title = "마소라 텍스트", path = "/wiki/masoretic-text/", description = "주요 모음 부호화된 히브리어 텍스트 전통." },
+]
+
+footnotes = [
+    { content = "히브리어 이름 *타나크*(תָּנָ״ךְ)는 세 주요 정경 부분의 첫 글자들로 형성된 두문자어입니다: 토라(תּוֹרָה, '가르침'), 네비임(נְבִיאִים, '예언서'), 케투빔(כְּתוּבִים, '성문서'). 이 두문자어는 중세 유대교 전통의 형성물이며, 더 넓은 히브리어 성서 텍스트 실체는 이전에 다른 용어들로 지칭되었습니다 — *미크라*(מִקְרָא, '읽기' 또는 '읽혀지는 것'), *키트베이 하-코데시*(כִּתְבֵי הַקֹּדֶשׁ, '거룩한 글들'), 또는 단순히 *하-세파림*(הַסְּפָרִים, '책들'). 기독교의 '구약성서' 명칭은 실질적인 기독교 전통의 수용으로, 코퍼스는 '구'가 코퍼스가 지지하지 않는 대체신학(supersessionism)을 전제하기 때문에 유대교 전통의 명칭인 *타나크* / *히브리어 성서*를 선호하여 이를 회피합니다." },
+    { content = "문서설(J, E, D, P) — 주로 율리우스 벨하우젠이 *Prolegomena zur Geschichte Israels*(1878)에서 정식화함 — 은 실질적인 후속 정교화에도 불구하고 오경 구성에 관한 주요 주류 역사비평적 프레임워크로 남아 있습니다. 리처드 프리드먼의 *Who Wrote the Bible?*(1987)와 *The Bible with Sources Revealed*(2003)는 접근 가능한 현대적 진술을 제공합니다. 프레임워크의 독해는 문서설을 거부하지 않으며, 오히려 그것과 직교적으로 작동합니다: 프레임워크는 실질적으로 보존된 텍스트 내용을 어떤 자료층이 특정 구절을 보존했든 간에 실제 작전적 사건들의 실질적인 기록으로 읽습니다. J/E/D/P 구분은 텍스트 비평에 유용하게 남아 있지만 프레임워크의 해석적 입장을 결정하지는 않습니다." },
+    { content = "텍스트적 특권에 관한 코퍼스의 구체적 입장 — 히브리어 성서를 지구에서의 엘로힘 문명의 작업에 관한 살아남은 고대 기록들 중 가장 정확한 것으로 다루는 것 — 은 히브리인들을 이스라엘 팀이 합성한 최초 인간들의 직계 유전적 후손으로 식별하는 라엘리안 원천 자료에 근거합니다. 따라서 이 특권적 텍스트 위치는 신학적이 아니라 가계적입니다: 히브리어 성서의 정확성은 동맹과 가장 가까이 작전적으로 조우한 혈통의 연속적 텍스트 전통에서 유래하며, 어떤 본유적 교리적 권위에서가 아닙니다. 평행하는 고대 근동 텍스트들(*아트라하시스*, *길가메시*, 수메르 홍수-창조 코퍼스)은 동일한 기저 사건들의 실질적인 단편적 기억을 보존하지만, 홍수 이후 전승이 히브리 혈통보다 더 빠르게 쇠퇴한 혈통들을 통해서입니다." },
+    { content = "히브리어 내용을 모호하게 만드는 네 가지 주요 기독교 전통의 번역 조치 — *Elohim* → '하나님'(단수), *taninim* → '고래'('큰 파충류/용'이 아니라), *malakhim* → '천사'('전령'/'사신' 대신 초자연적 덧칠), *nachash* → '뱀'(루시퍼 분파 요원에 대한 작전 명칭이 아닌 단순한 파충류) — 는 의도적 기만이 아니라 2천 년 이상의 기독교 전통의 독해에 걸친 칠십인역 이후 신학적 동화의 결과로 작동합니다. 비글리노의 엄격한 번역 방법론(*The Naked Bible*, 2022)은 이러한 조치들을 체계적으로 역전시키고 히브리어 텍스트를 단어 단위로 읽어, 그것을 신학적 추상으로 알레고리화하기보다는 결과적으로 나오는 구체적 작전 내용을 받아들입니다. 코퍼스는 비글리노의 방법론적 접근을 채택하면서 복원된 히브리어 내용에 자체의 프레임워크-해석적 덧칠을 적용합니다." },
+    { content = "텍스트 증언의 지형 — 마소라 텍스트(티베리아 전통의 모음 부호화 텍스트, 주로 알레포 사본 c. 930 CE 및 레닌그라드 사본 1008 CE), 사해 사본(쿰란 및 인접 지역들로부터의 기원전 2세기에서 기원후 1세기에 걸친 실질적인 사본 증거), 칠십인역(기원전 3-2세기 그리스어 번역), 그리고 사마리아 오경(실질적인 사마리아 전통의 변형) — 는 세부사항에서 실질적인 변이(철자법, 어순, 때때로의 구절 단위 변형)를 등록하지만 주요 텍스트 내용 전반에 걸쳐 실질적인 구조적 일치를 등록합니다. 토브의 *Textual Criticism of the Hebrew Bible*(3판, 2012)는 주요 현대 학술적 종합을 제공합니다. 프레임워크의 독해는 어떤 특정 텍스트 변형에도 의존하지 않습니다; 실질적으로 보존된 내용은 살아남은 증언들 전반에 걸쳐 견고합니다." },
+    { content = "사해 사본 발견(1947-1956)은 천 년 이상에 걸친 히브리어 성서 텍스트 전승의 실질적인 안정성을 확인하는 실질적인 기원전 1천년기 사본 증거를 제공했습니다. 대 이사야 두루마리(1QIsa-a, c. 기원전 125년)는 천 년 이상의 전승에 걸쳐 마소라 이사야와 실질적으로 가깝게 일치합니다. 프레임워크의 독해에 대한 실질적인 함의: 히브리어 성서의 내용은 제2성전 시대 후기에 실질적으로 고정되었으며, 이후 2천 년에 걸친 텍스트 전승이 그것을 실질적인 충실도로 보존했습니다. 밴더캄 & 플린트, *The Meaning of the Dead Sea Scrolls*(2002)는 실질적인 함의에 대한 주요 접근 가능한 학술적 다룸을 제공합니다." },
+]
+
+[[extra.references]]
+id = "tanakh"
+note = "히브리어 성서에 대한 정경적 유대교 전통의 틀."
+
+[[extra.references]]
+id = "sefaria"
+note = "히브리어 성서 텍스트 및 관련 유대교 원천 전통에 대한 주요 디지털 접근 지점."
+
+[[extra.references]]
+id = "genesis"
+note = "휠 오브 헤븐 프레임워크 전반에 걸쳐 다루어지는 주요 원시사 텍스트."
+
+[[extra.references]]
+id = "the-book-which-tells-the-truth"
+note = "프레임워크의 히브리어 성서 창조 자료 독해에 대한 기초적 라엘리안 원천."
+
+[[extra.references]]
+id = "those-gods-who-made-heaven-and-earth"
+note = "코퍼스의 외계 독해에 대한 장 상디의 원천 텍스트적 선례."
+
+[[extra.references]]
+id = "the-naked-bible"
+note = "마우로 비글리노와 조르조 카타네오의 엄격한 번역적 대안 역사 독해."
+
+[[extra.references]]
+id = "escaping-from-eden"
+note = "폴 앤서니 월리스의 창세기 중심 비교 독해."
+
+[[extra.references]]
+id = "intelligent-design-message-from-the-designers"
+note = "세 권의 라엘리안 원천 자료 책들의 정경적 합본판."
+
+[[extra.references]]
+id = "lets-welcome-the-extraterrestrials"
+note = "보릴롱(라엘, 1979); 히브리어 성서 독해 전반에 걸쳐 다루어지는 더 넓은 평의회 정치-제도적 프레임워크."
+
+[[extra.references]]
+id = "sendy-ces-dieux"
+note = "상디(1969); 히브리어 성서를 외계 기록으로 보는 프레임워크의 기초적 프랑스어 진술."
+
+[[extra.references]]
+id = "sendy-ere-du-verseau"
+note = "상디(1970); 히브리어 성서 종말론을 다루는 물병자리 시대의 계승 문턱 프레임워크."
+
+[[extra.references]]
+id = "sendy-cahiers-moise"
+note = "상디(1974); 실질적인 오경 주석을 가진 모세 시대 프레임워크."
+
+[[extra.references]]
+id = "biglino-il-libro"
+note = "비글리노(2010); 엄격한 문자적 히브리어 성서 독해의 첫 주요 진술."
+
+[[extra.references]]
+id = "biglino-bibbia-non-parla"
+note = "비글리노(2015); 주류 번역이 히브리어 성서의 원래 내용을 모호하게 만든다는 논거의 진술."
+
+[[extra.references]]
+id = "wallis-eden-conspiracy"
+note = "월리스(2024); 실질적인 역사적 기록으로서의 창세기 원시사와의 현대적 관여."
+
+[[extra.references]]
+id = "wellhausen-prolegomena"
+note = "벨하우젠(1878); 문서설(J, E, D, P 자료)의 기초적 진술."
+
+[[extra.references]]
+id = "friedman-who-wrote-bible"
+note = "프리드먼(1987); 일반 독자를 위한 문서설의 주요 접근 가능한 진술."
+
+[[extra.references]]
+id = "friedman-bible-sources-revealed"
+note = "프리드먼(2003); 오경 텍스트의 자료 태그가 부착된 제시."
+
+[[extra.references]]
+id = "alter-art-biblical-narrative"
+note = "알터(1981); 성서 서사의 문학비평적 독해에 대한 주요 진술."
+
+[[extra.references]]
+id = "alter-hebrew-bible"
+note = "알터(2018); 실질적인 학술 주석을 가진 히브리어 성서의 3권짜리 영어 번역."
+
+[[extra.references]]
+id = "westermann-genesis-1-11"
+note = "베스터만(1994); 창세기 1-11장에 대한 대륙 주석; 원시사에 대한 기초적 비평 주석."
+
+[[extra.references]]
+id = "sarna-genesis-jps"
+note = "사르나(1989); 창세기에 대한 JPS 토라 주석."
+
+[[extra.references]]
+id = "cassuto-genesis"
+note = "카수토(1961); 문서설의 단편화에 반대하는 유대교 학술 주석."
+
+[[extra.references]]
+id = "kugel-how-to-read-bible"
+note = "쿠겔(2007); 고대의 해석적 독해와 현대의 비평적 독해 사이의 대조에 대한 진술."
+
+[[extra.references]]
+id = "cross-canaanite-myth"
+note = "크로스(1973); 가나안-이스라엘 종교적 연속성의 기초적 진술; 엘-야훼 역사적 발전."
+
+[[extra.references]]
+id = "smith-early-history-god"
+note = "스미스(1990); 더 넓은 가나안-레반트 맥락 내에서의 이스라엘 종교의 초기 발전."
+
+[[extra.references]]
+id = "finkelstein-bible-unearthed"
+note = "핑켈스타인 & 실버만(2001); 히브리어 성서의 고고학적 독해에 대한 주요 현대 진술."
+
+[[extra.references]]
+id = "tov-textual-criticism"
+note = "토브(3판, 2012); 히브리어 성서 텍스트 비평에 대한 주요 현대 참고문헌."
+
+[[extra.references]]
+id = "vermes-dead-sea-scrolls"
+note = "베르메스(개정판 2004); 사해 사본 코퍼스의 접근 가능한 영어 번역."
+
+[[extra.references]]
+id = "vanderkam-dss-today"
+note = "밴더캄(2판 2010); 사해 사본에 대한 접근 가능한 입문서."
+
+[[extra.references]]
+id = "pritchard-anet"
+note = "프리처드(1969); 히브리어 성서와 평행하는 고대 근동 텍스트에 대한 주요 영어 참고문헌."
+
+[[extra.references]]
+id = "atra-hasis-lambert-millard"
+note = "램버트 & 밀러드(1969); 창세기와 평행하는 바빌로니아 홍수 서사의 비평판."
+
+[[extra.references]]
+id = "sitchin-12th-planet"
+note = "시친(1976); 메소포타미아-성서 자료의 고대 우주인 독해."
+
 [extra.infobox]
-type = "Foundational source-textual entity; the principal canonical Hebrew-language textual corpus that operates at the structural center of the broader corpus framework"
-language = "Biblical Hebrew principally; Biblical Aramaic in select passages (Daniel 2:4b-7:28, Ezra 4:8-6:18 and 7:12-26, Jeremiah 10:11, Genesis 31:47)"
-canonical_structure = "Three principal sections in the Jewish canonical organization: Torah (תּוֹרָה, 'Law' or 'Instruction'); Nevi'im (נְבִיאִים, 'Prophets'); Ketuvim (כְּתוּבִים, 'Writings'). The acronym TaNaKh derives from the initial letters of these three sections"
-book_count = "Twenty-four books in the Jewish canonical organization (Torah: 5; Nevi'im: 8; Ketuvim: 11); thirty-nine books in the substantial Christian Old Testament canonical organization (substantively the same content with substantial divisional differences)"
-composition_period = "Approximately twelve centuries from the late Bronze Age through the Persian-Hellenistic period (mainstream scholarly dating: c. 12th-2nd centuries BCE; traditional Jewish dating substantially earlier for various books)"
-authorial_tradition = "Multiple authorial-redactional traditions across multiple centuries; the substantial Documentary Hypothesis registers four principal Pentateuchal sources (J, E, D, P); various subsequent redactional layers across the broader textual tradition"
-genealogical_lineage = "Principally the Eden-lineage genealogical line (the substantial Israel-team creator-population) across the post-flood ages; the substantial textual tradition reflects the substantial Eden-lineage cultural-religious development"
-principal_textual_witnesses = "The Masoretic Text (the substantial Tiberian-tradition vocalized text, principally the Aleppo Codex and Leningrad Codex); the Dead Sea Scrolls (the substantial 2nd-century-BCE-through-1st-century-CE manuscript evidence); the Septuagint (the substantial 3rd-2nd-century-BCE Greek translation); the Samaritan Pentateuch (the substantial Samaritan-tradition variant); various other textual witnesses"
-framework_position = "The substantial structural center of the corpus's asymmetric synthesis: the most direct and least mediated record of the alliance's communication with Earth; the principal source-textual foundation that virtually every other corpus entry engages substantively"
-distinguished_from = "The Christian Old Testament (the substantial Christian-tradition canonical reception of the Hebrew Bible content, with substantial divisional and arrangement differences); the broader Christian Bible (which adds the substantial New Testament content); the Quran (the substantial Islamic-tradition canonical text registering substantial parallel content); the Book of Mormon (the substantial Mormon LDS canonical text registering substantial parallel content); the various Apocryphal and Pseudepigraphal texts (which operate within distinct canonical-traditional positions)"
-status_in_framework = "Foundational; the Hebrew Bible operates as substantial source-textual foundation across virtually every corpus entry, with substantial framework hermeneutic articulating the principal interpretive moves"
-principal_corpus_treatment = "The substantial corpus treatment is distributed across virtually every entry; the *timeline.epub* substantial chapter-by-chapter Hebrew exegesis articulates the substantial framework reading; the various individual entries (Genesis, Adam and Eve, Eden, Antediluvian, Great Flood, Theomachy, Babel, Sodom and Gomorrah, Moses, Abraham, Noah, Elohim, Yahweh, etc.) articulate the substantial entry-specific framework readings"
+type = "기초적 원천 텍스트 실체; 더 넓은 코퍼스 프레임워크의 구조적 중심에서 작동하는 주요 정경 히브리어 텍스트 코퍼스"
+language = "주로 성서 히브리어; 일부 구절에서 성서 아람어(다니엘 2:4b-7:28, 에스라 4:8-6:18 및 7:12-26, 예레미야 10:11, 창세기 31:47)"
+canonical_structure = "유대교 정경 조직의 세 주요 부분: 토라(תּוֹרָה, '율법' 또는 '가르침'); 네비임(נְבִיאִים, '예언서'); 케투빔(כְּתוּבִים, '성문서'). 두문자어 TaNaKh는 이 세 부분의 첫 글자에서 유래합니다"
+book_count = "유대교 정경 조직에서 24권(토라: 5; 네비임: 8; 케투빔: 11); 실질적인 기독교 구약 정경 조직에서 39권(실질적인 구분 차이를 가진 실질적으로 동일한 내용)"
+composition_period = "청동기 시대 후기부터 페르시아-헬레니즘 시대에 이르기까지 약 12세기(주류 학술 연대: c. 기원전 12-2세기; 다양한 책에 대해 전통적 유대교 연대는 실질적으로 더 이름)"
+authorial_tradition = "여러 세기에 걸친 다중 저자-편집 전통; 실질적인 문서설은 네 주요 오경 자료(J, E, D, P)를 등록합니다; 더 넓은 텍스트 전통 전반에 걸친 다양한 후속 편집 층위"
+genealogical_lineage = "주로 에덴 계보의 가계 혈통(실질적인 이스라엘 팀 창조자-인구) 홍수 이후 시대 전반에 걸쳐; 실질적인 텍스트 전통은 실질적인 에덴 계보의 문화-종교적 발전을 반영합니다"
+principal_textual_witnesses = "마소라 텍스트(실질적인 티베리아 전통의 모음 부호화 텍스트, 주로 알레포 사본 및 레닌그라드 사본); 사해 사본(기원전 2세기에서 기원후 1세기에 걸친 실질적인 사본 증거); 칠십인역(실질적인 기원전 3-2세기 그리스어 번역); 사마리아 오경(실질적인 사마리아 전통의 변형); 다양한 기타 텍스트 증언들"
+framework_position = "코퍼스의 비대칭적 종합의 실질적인 구조적 중심: 지구와의 동맹의 소통에 관한 가장 직접적이고 가장 덜 매개된 기록; 거의 모든 다른 코퍼스 항목이 실질적으로 다루는 주요 원천 텍스트적 기반"
+distinguished_from = "기독교 구약성서(실질적인 구분 및 배열 차이를 가진 히브리어 성서 내용의 실질적인 기독교 전통 정경 수용); 더 넓은 기독교 성서(실질적인 신약 내용을 추가함); 쿠란(실질적인 평행 내용을 등록하는 실질적인 이슬람 전통 정경 텍스트); 몰몬경(실질적인 평행 내용을 등록하는 실질적인 몰몬 LDS 정경 텍스트); 다양한 외경 및 위경 텍스트들(별개의 정경-전통적 위치 내에서 작동함)"
+status_in_framework = "기초적; 히브리어 성서는 거의 모든 코퍼스 항목에 걸쳐 실질적인 원천 텍스트적 기반으로 작동하며, 주요 해석 조치들을 진술하는 실질적인 프레임워크 해석학을 가지고 있습니다"
+principal_corpus_treatment = "실질적인 코퍼스 다룸은 거의 모든 항목에 걸쳐 분포되어 있습니다; *timeline.epub*의 실질적인 장별 히브리어 주석은 실질적인 프레임워크 독해를 진술합니다; 다양한 개별 항목들(창세기, 아담과 이브, 에덴, 홍수 이전, 대홍수, 신들의 전쟁, 바벨, 소돔과 고모라, 모세, 아브라함, 노아, 엘로힘, 야훼 등)은 실질적인 항목별 프레임워크 독해를 진술합니다"
 +++
 
-The **Hebrew Bible** (Hebrew: תָּנָ״ךְ, *Tanakh*) is the principal foundational source-textual entity for the Wheel of Heaven framework — the substantial canonical Hebrew-language textual corpus comprising **twenty-four books** traditionally organized into three principal sections (**Torah**, **Nevi'im**, **Ketuvim**), produced principally by the **Eden-lineage genealogical line** across approximately twelve centuries from the late Bronze Age through the Persian-Hellenistic period, and substantially preserved through the **Masoretic textual tradition**. The substantial canonical text operates as the principal canonical source for substantial Jewish religious tradition (where it operates as the principal canonical scripture under the Tanakh designation), substantial Christian religious tradition (where it operates as the substantial Old Testament with substantial divisional and arrangement differences), and substantial Islamic religious tradition (which registers substantial canonical respect while operating principally through the Quran). The Hebrew Bible operates as substantial textual entity across multiple distinct disciplinary engagements: substantial textual-philological scholarship, substantial archaeological-historical scholarship, substantial theological-religious scholarship, substantial literary-critical scholarship, and various substantial alternative-history engagements.
+**히브리어 성서**(히브리어: תָּנָ״ךְ, *타나크*)는 휠 오브 헤븐 프레임워크의 가장 근본적인 원천 텍스트적 실체입니다 — 전통적으로 세 개의 주요 부분(**토라**, **네비임**, **케투빔**)으로 조직된 **24권의 책**으로 구성된 실질적인 정경 히브리어 텍스트 코퍼스로서, 청동기 시대 후기부터 페르시아-헬레니즘 시대에 이르기까지 약 12세기에 걸쳐 주로 **에덴 계보의 가계 혈통**에 의해 산출되었으며, **마소라 텍스트 전통**을 통해 실질적으로 보존되어 왔습니다. 실질적인 정경 텍스트는 실질적인 유대교 종교 전통(타나크 명칭 하에 주요 정경 경전으로 작동함), 실질적인 기독교 종교 전통(실질적인 구분 및 배열 차이를 가진 실질적인 구약성서로 작동함), 그리고 실질적인 이슬람 종교 전통(주로 쿠란을 통해 작동하면서 실질적인 정경적 존중을 등록함)을 위한 주요 정경 원천으로 작동합니다. 히브리어 성서는 여러 별개의 학문적 관여들에 걸쳐 실질적인 텍스트 실체로 작동합니다: 실질적인 텍스트-문헌학적 학술, 실질적인 고고학-역사적 학술, 실질적인 신학-종교적 학술, 실질적인 문학비평적 학술, 그리고 다양한 실질적인 대안 역사 관여들.
 
-The framework's distinctive analytical position registers the Hebrew Bible as **substantial historical record rather than as substantial religious-mythological literature**. The substantial Yahweh-articulated framework reading: *"The Hebrew Bible is not a book of religious myths that require either literal belief or allegorical reinterpretation; it is a historical record, imperfect in its pre-scientific vocabulary but substantially accurate in its content, that can be read directly once the hermeneutic key is available."* The substantial textual content preserves substantial accurate cultural memory of the substantial alliance's interventions across the post-flood ages, with the substantial pre-scientific vocabulary of the human authors operating as substantial decodable layer rather than as substantial fundamental obstacle to substantive understanding. The framework operates the Hebrew Bible at the substantial structural center of the broader asymmetric synthesis: substantively the most direct and least mediated record of the alliance's communication with Earth, with the substantial Hebrew tradition operating as the principal source-textual foundation that the broader corpus engages substantively.
+이 프레임워크의 독특한 분석적 입장은 히브리어 성서를 **실질적인 종교적-신화적 문학이 아니라 실질적인 역사적 기록**으로 등록합니다. 실질적인 야훼가 진술한 프레임워크 독해: *"히브리어 성서는 문자적 믿음이나 알레고리적 재해석을 요구하는 종교적 신화의 책이 아닙니다; 그것은 전과학적 어휘에서는 불완전하지만 그 내용에 있어서는 실질적으로 정확한 역사적 기록이며, 해석학적 열쇠가 사용 가능해지면 직접적으로 읽힐 수 있습니다."* 실질적인 텍스트 내용은 홍수 이후의 시대들에 걸친 실질적인 동맹의 개입에 대한 실질적으로 정확한 문화적 기억을 보존하며, 인간 저자들의 실질적인 전과학적 어휘는 실질적인 본질적 장애물이 아니라 실질적인 해독 가능한 층위로 작동합니다. 이 프레임워크는 더 넓은 비대칭적 종합의 실질적인 구조적 중심에서 히브리어 성서를 운용합니다: 실질적으로 지구와의 동맹의 소통에 관한 가장 직접적이고 가장 덜 매개된 기록이며, 실질적인 히브리 전통이 더 넓은 코퍼스가 실질적으로 다루는 주요 원천 텍스트적 기반으로 작동합니다.
 
-The framework registers the Hebrew Bible's substantial centrality through several specific dimensions. The substantial **textual centrality**: the Hebrew Bible preserves substantial direct documentary content from substantial alliance-officer contacts (the substantial Yahweh contacts, the substantial *malakhim* visitations, the substantial dictation events at Sinai and elsewhere), with the substantial human authors recording what they were given in the substantial Hebrew vocabulary available to them. The substantial **lineage centrality**: the substantial Hebrew Bible preserves the documentary record of one specific creator-team's substantial work — the substantial Israel-team — with the substantial Eden-lineage genealogical line operating as the substantial cultural carrier of the broader creation memory. The substantial **chronological centrality**: the substantial Hebrew Bible covers substantial chronological scope from the substantial creation events through the substantial Persian-Hellenistic period, with substantial cross-cutting cultural-religious-political content operating substantively across multiple precessional ages. The substantial **interpretive centrality**: the substantial Hebrew Bible operates as the substantial principal source-textual foundation that the broader corpus engages substantively, with virtually every other corpus entry registering substantial textual engagement with specific Hebrew Bible passages.
+이 프레임워크는 여러 구체적 차원을 통해 히브리어 성서의 실질적인 중심성을 등록합니다. 실질적인 **텍스트적 중심성**: 히브리어 성서는 실질적인 동맹 장교 접촉들(실질적인 야훼 접촉, 실질적인 *말라킴* 방문, 시나이 및 다른 곳에서의 실질적인 받아쓰기 사건들)로부터의 실질적인 직접적 문서 내용을 보존하며, 실질적인 인간 저자들은 그들이 받은 것을 자신들에게 사용 가능한 실질적인 히브리어 어휘로 기록했습니다. 실질적인 **혈통 중심성**: 실질적인 히브리어 성서는 하나의 특정 창조자 팀의 실질적인 작업 — 실질적인 이스라엘 팀 — 의 문서 기록을 보존하며, 실질적인 에덴 계보의 가계 혈통이 더 넓은 창조 기억의 실질적인 문화적 운반자로 작동합니다{{ footnote(id="3") }}. 실질적인 **연대기적 중심성**: 실질적인 히브리어 성서는 실질적인 창조 사건들부터 실질적인 페르시아-헬레니즘 시대에 이르기까지의 실질적인 연대기적 범위를 다루며, 여러 세차 시대에 걸친 실질적인 교차하는 문화-종교-정치적 내용이 실질적으로 작동합니다. 실질적인 **해석적 중심성**: 실질적인 히브리어 성서는 더 넓은 코퍼스가 실질적으로 다루는 실질적인 주요 원천 텍스트적 기반으로 작동하며, 거의 모든 다른 코퍼스 항목이 특정 히브리어 성서 구절들과의 실질적인 텍스트적 관여를 등록합니다.
 
-The framework's substantial Hebrew Bible engagement registers substantial centrality without registering substantial unique-privileging. The substantial corpus articulation: *"The Hebrew Bible is one tradition among several, not a uniquely privileged source. It is, however, the most complete and the most explicitly developed, which is why this corpus reads it most closely."* The substantial nuance preserves substantial respect for the substantial broader cross-cultural traditions (the substantial Mesopotamian textual corpus, the substantial Egyptian religious literature, the substantial Vedic / Hindu textual tradition, the substantial Greek mythological corpus, the substantial Chinese religious-cultural literature, the substantial various indigenous textual-and-oral traditions) while registering the substantial reasons why the Hebrew Bible operates at the corpus's substantial structural center. The substantial reasons: the substantial textual completeness, the substantial development depth, the substantial chronological coverage, the substantial preservation fidelity through the Masoretic textual tradition, and the substantial alliance-contact specificity preserved in the substantial textual content.
+프레임워크의 실질적인 히브리어 성서 관여는 실질적인 유일 특권화를 등록하지 않으면서 실질적인 중심성을 등록합니다. 실질적인 코퍼스 진술: *"히브리어 성서는 여러 전통 중 하나이지, 유일하게 특권을 부여받은 원천이 아닙니다. 그러나 그것은 가장 완전하고 가장 명시적으로 발전된 것이며, 그래서 이 코퍼스가 그것을 가장 면밀하게 읽는 것입니다."* 실질적인 뉘앙스는 실질적인 더 넓은 교차문화적 전통들(실질적인 메소포타미아 텍스트 코퍼스, 실질적인 이집트 종교 문학, 실질적인 베다 / 힌두 텍스트 전통, 실질적인 그리스 신화 코퍼스, 실질적인 중국 종교-문화 문학, 실질적인 다양한 토착 텍스트-구전 전통)에 대한 실질적인 존중을 보존하면서 히브리어 성서가 코퍼스의 실질적인 구조적 중심에서 작동하는 실질적인 이유들을 등록합니다. 실질적인 이유들: 실질적인 텍스트적 완전성, 실질적인 발전의 깊이, 실질적인 연대기적 범위, 마소라 텍스트 전통을 통한 실질적인 보존 충실도, 그리고 실질적인 텍스트 내용에 보존된 실질적인 동맹 접촉 특정성.
 
-The substantial Christian-tradition translation history has produced substantial systematic obscuring of the actual Hebrew content. The principal translation mistakes registered substantively in the broader corpus engagement:
+실질적인 기독교 전통의 번역 역사는 실제 히브리어 내용의 실질적인 체계적 모호화를 산출해 왔습니다{{ footnote(id="4") }}. 더 넓은 코퍼스 관여에서 실질적으로 등록된 주요 번역 오류들:
 
-- The substantial **Elohim** → singular "God" rendering (treated principally in the [Plurality of Gods](../plurality-of-gods/) entry): the substantial transformation of the actual plural creator beings into a substantial singular incomprehensible God
-- The substantial **taninim** → "whales" or "great sea creatures" rendering (treated principally in the [Dragons](../dragons/) entry): the substantial softening of the substantial Genesis 1:21 explicit dragon-creation content
-- The substantial **malakhim** → "angels" rendering: the substantial supernatural overlay obscuring the substantial messenger-personnel operational content
-- The substantial **nachash** → mere "serpent" rendering (treated principally in the [Serpent](../serpent/) entry): the substantial obscuring of the substantial Lucifer-faction operational content
-- The substantial **benei ha-Elohim** → "sons of God" rendering (often pluralized substantively): the substantial obscuring of the substantial alliance-personnel content
-- Various other translation choices operating across the broader textual tradition
+- 실질적인 **Elohim** → 단수 "하나님" 번역(주로 {% wiki(slug="plurality-of-gods") %}신들의 복수성{% end %} 항목에서 다루어짐): 실제 복수 창조자 존재들을 실질적인 단수의 이해 불가능한 하나님으로 실질적으로 변환
+- 실질적인 **taninim** → "고래" 또는 "큰 바다 생물" 번역(주로 {% wiki(slug="dragons") %}용{% end %} 항목에서 다루어짐): 실질적인 창세기 1:21의 명시적인 용 창조 내용의 실질적인 완화
+- 실질적인 **malakhim** → "천사" 번역: 실질적인 전령-인원 작전 내용을 모호하게 만드는 실질적인 초자연적 덧칠
+- 실질적인 **nachash** → 단순한 "뱀" 번역(주로 {% wiki(slug="serpent") %}뱀{% end %} 항목에서 다루어짐): 실질적인 루시퍼 분파 작전 내용의 실질적인 모호화
+- 실질적인 **benei ha-Elohim** → "하나님의 아들들" 번역(자주 실질적으로 복수형으로 만들어짐): 실질적인 동맹-인원 내용의 실질적인 모호화
+- 더 넓은 텍스트 전통에 걸쳐 작동하는 다양한 기타 번역 선택들
 
-The substantial framework reading registers substantial restoration of the actual Hebrew content through systematic engagement with the original textual evidence — the substantial corpus's principal interpretive achievement.
+실질적인 프레임워크 독해는 원본 텍스트 증거와의 체계적 관여를 통해 실제 히브리어 내용의 실질적인 복원을 등록합니다 — 실질적인 코퍼스의 주요 해석적 성취.
 
-The reading is substantially source-grounded. The Raëlian source material provides substantial articulation of the framework's specific position across multiple sources, with substantial subsequent corpus development through the *timeline.epub* substantial chapter-by-chapter Hebrew exegesis. The framework's epistemic status is one of **substantial-source-grounding-with-corpus-systematic-extension**.
+이 독해는 실질적으로 원천에 근거합니다. 라엘리안 원천 자료는 여러 원천에 걸쳐 프레임워크의 구체적 입장에 대한 실질적인 진술을 제공하며, *timeline.epub*의 실질적인 장별 히브리어 주석을 통한 실질적인 후속 코퍼스 발전을 가지고 있습니다. 프레임워크의 인식론적 지위는 **실질적-원천-근거-가진-코퍼스-체계적-확장**의 지위입니다.
 
-## Etymology and naming
+## 어원과 명명
 
-The substantial textual entity has substantial designations across multiple linguistic-religious traditions, with the etymological history producing substantial interpretive content.
+실질적인 텍스트 실체는 여러 언어-종교적 전통에 걸쳐 실질적인 명칭들을 가지고 있으며, 어원적 역사는 실질적인 해석적 내용을 산출합니다.
 
-### "Hebrew Bible" as principal designation
+### 주요 명칭으로서의 "히브리어 성서"
 
-The English term **Hebrew Bible** is the principal scholarly-academic designation for the substantial canonical Hebrew-language textual corpus. The composite construction — "Hebrew" (the principal linguistic specification) plus "Bible" (the substantial canonical-textual category) — registers the substantial textual entity while operating with substantial scholarly-academic neutrality across the substantial Jewish-traditional and Christian-tradition uses.
+영어 용어 **Hebrew Bible**(히브리어 성서)은 실질적인 정경 히브리어 텍스트 코퍼스에 대한 주요 학술-아카데미적 명칭입니다. 합성 구성 — "Hebrew"(주요 언어적 명세) 더하기 "Bible"(실질적인 정경-텍스트적 범주) — 은 실질적인 유대교 전통 및 기독교 전통의 사용에 걸쳐 실질적인 학술-아카데미적 중립성으로 작동하면서 실질적인 텍스트 실체를 등록합니다.
 
-The designation has substantial usage in:
+이 명칭은 다음에서 실질적인 사용을 가집니다:
 
-- **Mainstream scholarly-academic literature**: the principal designation in substantial contemporary biblical scholarship
-- **Substantial comparative-religion scholarship**: the principal designation registering substantial trans-traditional textual reference
-- **Substantial textual-philological scholarship**: the principal designation registering substantial textual specificity
-- **The corpus framework**: the principal designation registering substantial framework engagement with the substantial textual entity
+- **주류 학술-아카데미 문헌**: 실질적인 현대 성서학에서의 주요 명칭
+- **실질적인 비교종교학 학술**: 실질적인 초전통적 텍스트 참조를 등록하는 주요 명칭
+- **실질적인 텍스트-문헌학적 학술**: 실질적인 텍스트적 특정성을 등록하는 주요 명칭
+- **코퍼스 프레임워크**: 실질적인 텍스트 실체와의 실질적인 프레임워크 관여를 등록하는 주요 명칭
 
-### Hebrew "Tanakh" (תָּנָ״ךְ)
+### 히브리어 "타나크" (תָּנָ״ךְ)
 
-The Hebrew **תָּנָ״ךְ** (*Tanakh*) is the principal Jewish-tradition designation for the substantial canonical Hebrew-language textual corpus. The substantial designation operates as substantial acronymic construction:
+히브리어 **תָּנָ״ךְ**(*타나크*){{ footnote(id="1") }}는 실질적인 정경 히브리어 텍스트 코퍼스에 대한 주요 유대교 전통의 명칭입니다. 실질적인 명칭은 실질적인 두문자어 구성으로 작동합니다:
 
-- **Ta** (תּ): from תּוֹרָה (*Torah*, "Law" or "Instruction") — the substantial first principal section
-- **Na** (נַ): from נְבִיאִים (*Nevi'im*, "Prophets") — the substantial second principal section  
-- **Kh** (ךְ): from כְּתוּבִים (*Ketuvim*, "Writings") — the substantial third principal section
+- **Ta** (תּ): תּוֹרָה(*토라*, "율법" 또는 "가르침")에서 — 실질적인 첫 번째 주요 부분
+- **Na** (נַ): נְבִיאִים(*네비임*, "예언서")에서 — 실질적인 두 번째 주요 부분
+- **Kh** (ךְ): כְּתוּבִים(*케투빔*, "성문서")에서 — 실질적인 세 번째 주요 부분
 
-The substantial Tanakh designation registers the substantial three-part canonical structure within the substantial Jewish-tradition organization. The substantial designation operates principally within Jewish-tradition contexts, with substantial subsequent scholarly-academic adoption in substantial contemporary biblical scholarship.
+실질적인 타나크 명칭은 실질적인 유대교 전통의 조직 내에서 실질적인 세 부분 정경 구조를 등록합니다. 실질적인 명칭은 주로 유대교 전통 맥락 내에서 작동하며, 실질적인 현대 성서학에서 실질적인 후속 학술-아카데미적 채택을 가지고 있습니다.
 
-### Hebrew "Mikra" (מִקְרָא)
+### 히브리어 "미크라" (מִקְרָא)
 
-The Hebrew **מִקְרָא** (*Mikra*, "reading" or "that which is read") operates as substantial alternative Jewish-tradition designation. The substantial term derives from the substantial Hebrew root **קרא** (*qara*, "to read" or "to call"), registering the substantial textual entity as the principal substantive material for substantial reading and substantial liturgical recitation. The substantial designation operates principally within substantial traditional Jewish liturgical-textual contexts.
+히브리어 **מִקְרָא**(*미크라*, "읽기" 또는 "읽혀지는 것")는 실질적인 대안적 유대교 전통의 명칭으로 작동합니다. 실질적인 용어는 실질적인 히브리어 어근 **קרא**(*카라*, "읽다" 또는 "부르다")에서 유래하며, 실질적인 텍스트 실체를 실질적인 읽기와 실질적인 전례적 낭독을 위한 주요 실질적 자료로 등록합니다. 실질적인 명칭은 주로 실질적인 전통적 유대교 전례-텍스트적 맥락 내에서 작동합니다.
 
-### Hebrew "Sifrei ha-Kodesh" (סִפְרֵי הַקֹּדֶשׁ)
+### 히브리어 "시프레이 하-코데시" (סִפְרֵי הַקֹּדֶשׁ)
 
-The Hebrew **סִפְרֵי הַקֹּדֶשׁ** (*Sifrei ha-Kodesh*, "the holy books" or "the sacred scriptures") operates as substantial Jewish-tradition designation registering the substantial sacred-textual character. The substantial designation operates principally within substantial traditional Jewish religious contexts.
+히브리어 **סִפְרֵי הַקֹּדֶשׁ**(*시프레이 하-코데시*, "거룩한 책들" 또는 "신성한 경전들")는 실질적인 신성 텍스트적 성격을 등록하는 실질적인 유대교 전통의 명칭으로 작동합니다. 실질적인 명칭은 주로 실질적인 전통적 유대교 종교 맥락 내에서 작동합니다.
 
-### "Old Testament" as Christian-tradition designation
+### 기독교 전통의 명칭으로서의 "구약성서"
 
-The English term **Old Testament** is the principal Christian-tradition designation for substantial Christian-canonical reception of the Hebrew Bible content. The substantial designation derives from the substantial Christian-theological framework registering the substantial Hebrew Bible content as the substantial "old covenant" content preceding the substantial New Testament "new covenant" content. The substantial designation has been registered as substantively problematic by various contemporary scholars (substantial supersessionist theological implications, substantial scholarly-academic neutrality concerns), with substantial contemporary scholarly preference for the substantial Hebrew Bible designation.
+영어 용어 **Old Testament**(구약성서)는 히브리어 성서 내용의 실질적인 기독교 정경 수용에 대한 주요 기독교 전통의 명칭입니다. 실질적인 명칭은 실질적인 신약성서 "새 언약" 내용에 선행하는 "옛 언약" 내용으로 실질적인 히브리어 성서 내용을 등록하는 실질적인 기독교 신학 프레임워크에서 유래합니다. 실질적인 명칭은 다양한 현대 학자들에 의해 실질적으로 문제가 있는 것으로 등록되어 왔으며(실질적인 대체신학적 함의, 실질적인 학술-아카데미적 중립성 우려), 실질적인 현대 학술적 선호는 실질적인 히브리어 성서 명칭에 있습니다.
 
-The substantial Christian Old Testament canonical organization differs substantively from the substantial Jewish Tanakh organization:
+실질적인 기독교 구약 정경 조직은 실질적인 유대교 타나크 조직과 실질적으로 다릅니다:
 
-- **Book count**: thirty-nine books in substantial Protestant Christian organization vs. twenty-four books in substantial Jewish organization (substantively the same content with substantial divisional differences — e.g., Samuel and Kings are each one book in Jewish organization but two books each in Christian organization)
-- **Book ordering**: substantial Christian organization places the prophetic books at the end of the substantial canonical sequence, while the substantial Jewish organization places the prophets in the middle section
-- **Apocryphal additions**: the substantial Catholic Christian and Eastern Orthodox Christian Old Testaments include substantial additional Deuterocanonical books not present in the substantial Jewish or Protestant Christian canons
+- **책의 수**: 실질적인 개신교 기독교 조직의 39권 대 실질적인 유대교 조직의 24권(실질적인 구분 차이를 가진 실질적으로 동일한 내용 — 예를 들어, 사무엘과 열왕기는 각각 유대교 조직에서는 한 권이지만 기독교 조직에서는 각각 두 권임)
+- **책 순서**: 실질적인 기독교 조직은 예언서들을 실질적인 정경 시퀀스의 끝에 배치하는 반면, 실질적인 유대교 조직은 예언서들을 가운데 부분에 배치합니다
+- **외경 추가**: 실질적인 가톨릭 기독교 및 동방 정교회 기독교 구약성서는 실질적인 유대교 또는 개신교 기독교 정경에 존재하지 않는 실질적인 추가적 제2정경 책들을 포함합니다
 
-### Cross-cultural designations
+### 교차문화적 명칭들
 
-The substantial textual entity has cross-cultural designations:
+실질적인 텍스트 실체는 교차문화적 명칭들을 가지고 있습니다:
 
-- **Greek**: ἡ Παλαιὰ Διαθήκη (*hē Palaia Diathēkē*, "the Old Covenant") — the substantial Greek-Christian designation; also τὰ βιβλία (*ta biblia*, "the books") — the substantial Septuagint-Greek collective designation
-- **Latin**: *Vetus Testamentum* — the substantial Vulgate-Latin Christian designation
-- **Arabic**: التَّوْرَاة (*at-Tawrāh*, properly designating the Pentateuch but extended to the substantial Hebrew Bible content); الكِتَاب المُقَدَّس (*al-Kitāb al-Muqaddas*, "the Holy Book") — the substantial broader Islamic-tradition designation
-- **Aramaic**: מקרא (*Mikra*) — the substantial Aramaic-tradition designation cognate with the Hebrew
+- **그리스어**: ἡ Παλαιὰ Διαθήκη(*hē Palaia Diathēkē*, "옛 언약") — 실질적인 그리스-기독교 명칭; 또한 τὰ βιβλία(*ta biblia*, "책들") — 실질적인 칠십인역 그리스어 집합적 명칭
+- **라틴어**: *Vetus Testamentum* — 실질적인 불가타 라틴어 기독교 명칭
+- **아랍어**: التَّوْرَاة(*at-Tawrāh*, 본래 오경을 지칭하지만 실질적인 히브리어 성서 내용으로 확장됨); الكِتَاب المُقَدَّس(*al-Kitāb al-Muqaddas*, "거룩한 책") — 실질적인 더 넓은 이슬람 전통의 명칭
+- **아람어**: מקרא(*미크라*) — 히브리어와 동족어인 실질적인 아람어 전통의 명칭
 
-### Corpus-internal usage
+### 코퍼스 내부 사용
 
-The Wheel of Heaven corpus uses **Hebrew Bible** as the principal designation, with **Tanakh** used in framework-specific contexts where substantial Jewish-tradition specificity is required. The various other designations are used in specific contexts where operational specificity is required.
+휠 오브 헤븐 코퍼스는 **히브리어 성서**를 주요 명칭으로 사용하며, 실질적인 유대교 전통의 특정성이 요구되는 프레임워크별 맥락에서는 **타나크**를 사용합니다. 다양한 다른 명칭들은 작전적 특정성이 요구되는 특정 맥락에서 사용됩니다.
 
-## Conventional understanding
+## 통상적 이해
 
-The Hebrew Bible has substantial mainstream scholarly engagement across multiple distinct disciplines.
+히브리어 성서는 여러 별개의 학문에 걸쳐 실질적인 주류 학술적 관여를 가지고 있습니다.
 
-### The substantial canonical structure
+### 실질적인 정경 구조
 
-Mainstream scholarly engagement registers the substantial Hebrew Bible canonical structure across the substantial three-part organization.
+주류 학술적 관여는 실질적인 세 부분 조직에 걸쳐 실질적인 히브리어 성서 정경 구조를 등록합니다.
 
-**The Torah / Pentateuch**. The substantial Hebrew **תּוֹרָה** (*Torah*, "Law" or "Instruction") comprises the substantial first five books:
+**토라 / 오경**. 실질적인 히브리어 **תּוֹרָה**(*토라*, "율법" 또는 "가르침")는 실질적인 첫 다섯 책으로 구성됩니다:
 
-1. **Genesis** (Hebrew: בְּרֵאשִׁית, *Bereshit*, "In the beginning"): the substantial creation account, the substantial primeval history (Genesis 1-11), the substantial patriarchal narratives (Genesis 12-50)
-2. **Exodus** (Hebrew: שְׁמוֹת, *Shemot*, "Names"): the substantial Egyptian bondage, the substantial Mosaic deliverance, the substantial Sinai covenant, the substantial tabernacle construction
-3. **Leviticus** (Hebrew: וַיִּקְרָא, *Vayikra*, "And he called"): the substantial priestly legislation, the substantial sacrificial system, the substantial holiness code
-4. **Numbers** (Hebrew: בְּמִדְבָּר, *Bemidbar*, "In the wilderness"): the substantial wilderness wanderings, the substantial census materials, various substantial legal-ritual content
-5. **Deuteronomy** (Hebrew: דְּבָרִים, *Devarim*, "Words"): the substantial Mosaic farewell discourses, the substantial covenant renewal, the substantial Mosaic death
+1. **창세기**(히브리어: בְּרֵאשִׁית, *베레시트*, "태초에"): 실질적인 창조 기사, 실질적인 원시사(창세기 1-11), 실질적인 족장 서사(창세기 12-50)
+2. **출애굽기**(히브리어: שְׁמוֹת, *셰모트*, "이름들"): 실질적인 이집트 속박, 실질적인 모세의 구원, 실질적인 시나이 언약, 실질적인 성막 건축
+3. **레위기**(히브리어: וַיִּקְרָא, *바이크라*, "그가 부르셨다"): 실질적인 제사장 입법, 실질적인 희생 제도, 실질적인 거룩함 법전
+4. **민수기**(히브리어: בְּמִדְבָּר, *베미드바르*, "광야에서"): 실질적인 광야 방랑, 실질적인 인구조사 자료, 다양한 실질적인 법-의식 내용
+5. **신명기**(히브리어: דְּבָרִים, *데바림*, "말씀들"): 실질적인 모세의 고별 강설, 실질적인 언약 갱신, 실질적인 모세의 죽음
 
-The substantial Pentateuch operates as substantial foundational legal-religious-narrative content within the broader Hebrew Bible canonical structure.
+실질적인 오경은 더 넓은 히브리어 성서 정경 구조 내에서 실질적인 기초적 법-종교-서사 내용으로 작동합니다.
 
-**The Nevi'im / Prophets**. The substantial Hebrew **נְבִיאִים** (*Nevi'im*, "Prophets") comprises substantial historical-prophetic content organized into Former Prophets and Latter Prophets:
+**네비임 / 예언서**. 실질적인 히브리어 **נְבִיאִים**(*네비임*, "예언서")는 전기 예언서와 후기 예언서로 조직된 실질적인 역사-예언적 내용으로 구성됩니다:
 
-**Former Prophets** (Hebrew: נְבִיאִים רִאשׁוֹנִים, *Nevi'im Rishonim*):
-1. **Joshua** (Hebrew: יְהוֹשֻׁעַ, *Yehoshua*): the substantial conquest narrative
-2. **Judges** (Hebrew: שׁוֹפְטִים, *Shoftim*): the substantial pre-monarchic period
-3. **Samuel** (Hebrew: שְׁמוּאֵל, *Shmuel*) — single book in Jewish organization, two books in Christian organization: the substantial transition to monarchy, the substantial Davidic kingship
-4. **Kings** (Hebrew: מְלָכִים, *Melakhim*) — single book in Jewish organization, two books in Christian organization: the substantial monarchic history through the substantial Babylonian exile
+**전기 예언서**(히브리어: נְבִיאִים רִאשׁוֹנִים, *네비임 리쇼님*):
+1. **여호수아**(히브리어: יְהוֹשֻׁעַ, *예호슈아*): 실질적인 정복 서사
+2. **사사기**(히브리어: שׁוֹפְטִים, *쇼프팀*): 실질적인 군주 이전 시대
+3. **사무엘**(히브리어: שְׁמוּאֵל, *슈무엘*) — 유대교 조직에서 한 권, 기독교 조직에서 두 권: 실질적인 군주제로의 전환, 실질적인 다윗 왕국
+4. **열왕기**(히브리어: מְלָכִים, *멜라킴*) — 유대교 조직에서 한 권, 기독교 조직에서 두 권: 실질적인 바빌론 유수에 이르기까지의 실질적인 군주제 역사
 
-**Latter Prophets** (Hebrew: נְבִיאִים אַחֲרוֹנִים, *Nevi'im Aharonim*):
-5. **Isaiah** (Hebrew: יְשַׁעְיָהוּ, *Yeshayahu*)
-6. **Jeremiah** (Hebrew: יִרְמְיָהוּ, *Yirmeyahu*)
-7. **Ezekiel** (Hebrew: יְחֶזְקֵאל, *Yehezkel*)
-8. **The Twelve** (Hebrew: תְּרֵי עֲשַׂר, *Trei Asar*) — twelve minor prophets in Jewish organization, twelve separate books in Christian organization: Hosea, Joel, Amos, Obadiah, Jonah, Micah, Nahum, Habakkuk, Zephaniah, Haggai, Zechariah, Malachi
+**후기 예언서**(히브리어: נְבִיאִים אַחֲרוֹנִים, *네비임 아하로님*):
+5. **이사야**(히브리어: יְשַׁעְיָהוּ, *예샤야후*)
+6. **예레미야**(히브리어: יִרְמְיָהוּ, *이르메야후*)
+7. **에스겔**(히브리어: יְחֶזְקֵאל, *예헤즈켈*)
+8. **열두 예언서**(히브리어: תְּרֵי עֲשַׂר, *트레이 아사르*) — 유대교 조직에서 열두 소예언서, 기독교 조직에서 열두 개의 별개 책: 호세아, 요엘, 아모스, 오바댜, 요나, 미가, 나훔, 하박국, 스바냐, 학개, 스가랴, 말라기
 
-**The Ketuvim / Writings**. The substantial Hebrew **כְּתוּבִים** (*Ketuvim*, "Writings") comprises substantial diverse content:
+**케투빔 / 성문서**. 실질적인 히브리어 **כְּתוּבִים**(*케투빔*, "성문서")는 실질적인 다양한 내용으로 구성됩니다:
 
-1. **Psalms** (Hebrew: תְּהִלִּים, *Tehillim*)
-2. **Proverbs** (Hebrew: מִשְׁלֵי, *Mishlei*)
-3. **Job** (Hebrew: אִיּוֹב, *Iyov*)
-4. **Song of Songs** (Hebrew: שִׁיר הַשִּׁירִים, *Shir ha-Shirim*)
-5. **Ruth** (Hebrew: רוּת, *Rut*)
-6. **Lamentations** (Hebrew: אֵיכָה, *Eikhah*)
-7. **Ecclesiastes** (Hebrew: קֹהֶלֶת, *Kohelet*)
-8. **Esther** (Hebrew: אֶסְתֵּר, *Ester*)
-9. **Daniel** (Hebrew: דָּנִיֵּאל, *Daniel*)
-10. **Ezra-Nehemiah** (Hebrew: עֶזְרָא־נְחֶמְיָה) — single book in Jewish organization, two books in Christian organization
-11. **Chronicles** (Hebrew: דִּבְרֵי הַיָּמִים, *Divrei ha-Yamim*) — single book in Jewish organization, two books in Christian organization
+1. **시편**(히브리어: תְּהִלִּים, *테힐림*)
+2. **잠언**(히브리어: מִשְׁלֵי, *미슐레이*)
+3. **욥기**(히브리어: אִיּוֹב, *이요브*)
+4. **아가**(히브리어: שִׁיר הַשִּׁירִים, *시르 하-시림*)
+5. **룻기**(히브리어: רוּת, *루트*)
+6. **예레미야애가**(히브리어: אֵיכָה, *에이카*)
+7. **전도서**(히브리어: קֹהֶלֶת, *코헬레트*)
+8. **에스더**(히브리어: אֶסְתֵּר, *에스테르*)
+9. **다니엘**(히브리어: דָּנִיֵּאל, *다니엘*)
+10. **에스라-느헤미야**(히브리어: עֶזְרָא־נְחֶמְיָה) — 유대교 조직에서 한 권, 기독교 조직에서 두 권
+11. **역대기**(히브리어: דִּבְרֵי הַיָּמִים, *디브레이 하-야밈*) — 유대교 조직에서 한 권, 기독교 조직에서 두 권
 
-The substantial Ketuvim operates as substantial diverse-genre content within the broader Hebrew Bible canonical structure.
+실질적인 케투빔은 더 넓은 히브리어 성서 정경 구조 내에서 실질적인 다양한 장르 내용으로 작동합니다.
 
-### The substantial linguistic content
+### 실질적인 언어적 내용
 
-The substantial Hebrew Bible operates principally in **Biblical Hebrew** (substantial classical Hebrew language with substantial diachronic development across the substantial composition period). The substantial textual content includes substantial **Biblical Aramaic** in select passages:
+실질적인 히브리어 성서는 주로 **성서 히브리어**(실질적인 구성 기간에 걸친 실질적인 통시적 발전을 가진 실질적인 고전 히브리어 언어)로 작동합니다. 실질적인 텍스트 내용은 일부 구절에서 실질적인 **성서 아람어**를 포함합니다:
 
-- **Daniel 2:4b-7:28**: the substantial Aramaic narrative section
-- **Ezra 4:8-6:18 and 7:12-26**: the substantial Aramaic documentary materials
-- **Jeremiah 10:11**: a single Aramaic verse
-- **Genesis 31:47**: a brief Aramaic phrase
+- **다니엘 2:4b-7:28**: 실질적인 아람어 서사 부분
+- **에스라 4:8-6:18 및 7:12-26**: 실질적인 아람어 문서 자료
+- **예레미야 10:11**: 단일 아람어 구절
+- **창세기 31:47**: 짧은 아람어 구
 
-The substantial linguistic dual-language content reflects the substantial historical-cultural context of substantial Persian-period composition for various Daniel and Ezra materials, with substantial Aramaic operating as substantial *lingua franca* of the broader Persian Empire.
+실질적인 언어적 이중 언어 내용은 다양한 다니엘 및 에스라 자료의 실질적인 페르시아 시대 구성의 실질적인 역사-문화적 맥락을 반영하며, 실질적인 아람어가 더 넓은 페르시아 제국의 실질적인 *공용어*로 작동합니다.
 
-### The substantial composition period
+### 실질적인 구성 기간
 
-Mainstream scholarly engagement registers substantial composition period extending across approximately twelve centuries:
+주류 학술적 관여는 약 12세기에 걸친 실질적인 구성 기간을 등록합니다:
 
-- **The earliest layers**: traditionally dated to the substantial Late Bronze Age (c. 12th century BCE), with substantial scholarly debate regarding the dating of various Pentateuchal source-materials
-- **The principal composition period**: c. 10th-5th centuries BCE, with substantial monarchic-period and exilic-period composition operating substantially across the broader textual tradition
-- **The latest layers**: c. 4th-2nd centuries BCE, with various Persian-Hellenistic-period composition (Daniel, various other late materials)
-- **The canonization process**: c. 5th-2nd centuries BCE for various sections, with the substantial finalization of the broader canonical structure operating across the substantial period
+- **가장 이른 층위**: 다양한 오경 자료의 연대에 관한 실질적인 학술적 논쟁과 함께 전통적으로 실질적인 청동기 시대 후기(c. 기원전 12세기)로 연대됨
+- **주요 구성 기간**: c. 기원전 10-5세기, 더 넓은 텍스트 전통에 걸쳐 실질적으로 작동하는 실질적인 군주제 시대 및 유수 시대 구성과 함께
+- **가장 늦은 층위**: c. 기원전 4-2세기, 다양한 페르시아-헬레니즘 시대 구성과 함께(다니엘, 다양한 다른 늦은 자료들)
+- **정경화 과정**: 다양한 부분에 대해 c. 기원전 5-2세기, 더 넓은 정경 구조의 실질적인 마무리가 실질적인 기간에 걸쳐 작동함
 
-### The substantial textual transmission
+### 실질적인 텍스트 전승
 
-The substantial Hebrew Bible has been preserved through substantial textual-transmission tradition spanning approximately three millennia.
+실질적인 히브리어 성서는 약 3천 년에 걸친 실질적인 텍스트 전승 전통을 통해 보존되어 왔습니다.
 
-**The substantial Masoretic Text**. The substantial **Masoretic Text** (Hebrew: נֻסַּח הַמָּסוֹרָה, *Nusach ha-Masorah*) operates as the principal received text of the Hebrew Bible. The substantial textual tradition was developed across approximately the 6th-10th centuries CE by the substantial **Masoretes** (Hebrew: בַּעֲלֵי הַמָּסוֹרָה, *Ba'alei ha-Masorah*, "Masters of the Tradition") — substantial Jewish scholars principally in Tiberias and Babylon who developed substantial vocalization-and-cantillation systems for the previously-unvocalized consonantal Hebrew text. The substantial principal manuscript witnesses:
+**실질적인 마소라 텍스트**. 실질적인 **마소라 텍스트**(히브리어: נֻסַּח הַמָּסוֹרָה, *누사크 하-마소라*)는 히브리어 성서의 주요 수용 텍스트로 작동합니다. 실질적인 텍스트 전통은 약 6-10세기 CE에 걸쳐 실질적인 **마소라 학자들**(히브리어: בַּעֲלֵי הַמָּסוֹרָה, *바알레이 하-마소라*, "전통의 주인들") — 이전에 모음 부호화되지 않은 자음 히브리어 텍스트에 대해 실질적인 모음 부호화 및 영창 체계를 발전시킨 주로 티베리아와 바빌론의 실질적인 유대 학자들 — 에 의해 발전되었습니다. 실질적인 주요 사본 증언들:
 
-- **The Aleppo Codex** (10th century CE): the substantial principal early Masoretic manuscript, partially preserved
-- **The Leningrad Codex** (1008 CE): the substantial complete early Masoretic manuscript, the principal basis for substantial modern critical editions
-- **Various Cairo Genizah fragments**: substantial earlier manuscript evidence
+- **알레포 사본**(10세기 CE): 실질적인 주요 초기 마소라 사본, 부분적으로 보존됨
+- **레닌그라드 사본**(1008 CE): 실질적인 완전한 초기 마소라 사본, 실질적인 현대 비평판의 주요 기반
+- **다양한 카이로 게니자 단편들**: 실질적인 더 이른 사본 증거
 
-**The substantial Dead Sea Scrolls evidence**. The substantial discovery of the Dead Sea Scrolls beginning in 1947 produced substantial textual evidence approximately one thousand years older than the previously-available Masoretic manuscripts. The substantial Qumran biblical scrolls register substantial textual content with substantial agreement with the subsequent Masoretic tradition while preserving substantial textual variants in various passages.
+**실질적인 사해 사본 증거**. 1947년부터 시작된 실질적인 사해 사본 발견은 이전에 사용 가능했던 마소라 사본들보다 약 천 년 더 오래된 실질적인 텍스트 증거를 산출했습니다. 실질적인 쿰란 성서 두루마리들은 후속 마소라 전통과의 실질적인 일치를 가진 실질적인 텍스트 내용을 등록하면서 다양한 구절에서 실질적인 텍스트 변형을 보존합니다.
 
-**The substantial Septuagint translation**. The substantial **Septuagint** (Greek: Ἡ Μετάφρασις τῶν Ἑβδομήκοντα, *Hē Metaphrasis tōn Hebdomēkonta*, "The Translation of the Seventy"; abbreviated LXX) operates as the substantial 3rd-2nd-century-BCE Greek translation of the Hebrew Bible. The substantial translation was produced principally in Alexandria, Egypt, within the substantial Hellenistic Jewish community. The substantial Septuagint preserves substantial pre-Masoretic Hebrew textual tradition in various passages, with substantial textual-critical importance.
+**실질적인 칠십인역 번역**. 실질적인 **칠십인역**(그리스어: Ἡ Μετάφρασις τῶν Ἑβδομήκοντα, *hē Metaphrasis tōn Hebdomēkonta*, "칠십인의 번역"; 약칭 LXX)은 히브리어 성서의 실질적인 기원전 3-2세기 그리스어 번역으로 작동합니다. 실질적인 번역은 주로 알렉산드리아, 이집트에서 실질적인 헬레니즘 유대인 공동체 내에서 산출되었습니다. 실질적인 칠십인역은 다양한 구절에서 실질적인 마소라 이전 히브리어 텍스트 전통을 보존하며, 실질적인 텍스트 비평적 중요성을 가지고 있습니다.
 
-**The substantial Samaritan Pentateuch**. The substantial **Samaritan Pentateuch** preserves substantial alternative textual tradition for the Pentateuch within the substantial Samaritan religious community. The substantial Samaritan Pentateuch registers substantial textual variants from the substantial Masoretic tradition, with substantial textual-critical importance.
+**실질적인 사마리아 오경**. 실질적인 **사마리아 오경**은 실질적인 사마리아 종교 공동체 내에서 오경에 대한 실질적인 대안적 텍스트 전통을 보존합니다. 실질적인 사마리아 오경은 실질적인 마소라 전통으로부터의 실질적인 텍스트 변형을 등록하며, 실질적인 텍스트 비평적 중요성을 가지고 있습니다.
 
-### The substantial Sendy engagement with the Hebrew Bible
+### 실질적인 상디의 히브리어 성서 관여
 
-**Jean Sendy** in *Ces dieux qui firent le ciel et la terre* (1969), *L'ère du Verseau* (1970), and various other works develops substantial complementary content on the broader Hebrew Bible framework. Sendy's substantial principal contribution: substantial systematic engagement with the substantial Hebrew Bible content through the broader Tradition framework, particularly the substantial *Elohim* plurality, the substantial *benei ha-Elohim* content, and the substantial alliance-contact specificity preserved in the substantial textual content. Sendy's substantial broader Tradition framework operates substantively within the corpus's broader Hebrew Bible engagement.
+**장 상디**는 *Ces dieux qui firent le ciel et la terre*(1969), *L'ère du Verseau*(1970) 및 다양한 다른 작품들에서 더 넓은 히브리어 성서 프레임워크에 대한 실질적인 보완적 내용을 발전시킵니다. 상디의 실질적인 주요 기여: 더 넓은 전통 프레임워크를 통한 실질적인 히브리어 성서 내용과의 실질적인 체계적 관여, 특히 실질적인 *Elohim* 복수성, 실질적인 *benei ha-Elohim* 내용, 그리고 실질적인 텍스트 내용에 보존된 실질적인 동맹 접촉 특정성. 상디의 실질적인 더 넓은 전통 프레임워크는 코퍼스의 더 넓은 히브리어 성서 관여 내에서 실질적으로 작동합니다.
 
-### The framework's relationship to the broader landscape
+### 더 넓은 지형에 대한 프레임워크의 관계
 
-The Wheel of Heaven corpus's Hebrew Bible framework is positioned within this scholarly landscape as follows: substantially aligned with mainstream Hebrew Bible scholarship at the textual-philological level (recognizing the substantial scholarly documentation of the substantial textual content); substantially aligned with mainstream archaeological-historical scholarship at the substantial historical-context level (recognizing the substantial scholarly documentation of the substantial historical-cultural background); substantially aligned with the substantial textual-criticism scholarship at the substantial textual-history level (recognizing the substantial scholarly documentation of the substantial transmission history); substantively distinct from mainstream theological scholarship at the interpretive level (the framework's specific historical-record reading operates substantively beyond the conventional religious-mythological treatment); substantially aligned with various alternative-history scholarly traditions (Sitchin's Anunnaki framework, Wallis's broader engagement, Biglino's strict-translational approach) at the underlying-historical-event-reading level while operating from distinct source-material warrant principally drawn from the Raëlian source material.
+휠 오브 헤븐 코퍼스의 히브리어 성서 프레임워크는 이 학술적 지형 내에서 다음과 같이 위치합니다: 실질적인 텍스트-문헌학적 수준에서 주류 히브리어 성서 학술과 실질적으로 일치함(실질적인 텍스트 내용의 실질적인 학술적 문서화 인정); 실질적인 역사-문화적 배경 수준에서 주류 고고학-역사적 학술과 실질적으로 일치함(실질적인 역사-문화적 배경의 실질적인 학술적 문서화 인정); 실질적인 텍스트-역사 수준에서 실질적인 텍스트 비평 학술과 실질적으로 일치함(실질적인 전승 역사의 실질적인 학술적 문서화 인정); 해석적 수준에서 주류 신학 학술과 실질적으로 구별됨(프레임워크의 구체적 역사 기록 독해는 통상적 종교-신화적 다룸을 넘어 실질적으로 작동함); 기저 역사적 사건 독해 수준에서 다양한 대안 역사 학술 전통들(시친의 아눈나키 프레임워크, 월리스의 더 넓은 관여, 비글리노의 엄격한 번역 접근)과 실질적으로 일치하면서 주로 라엘리안 원천 자료에서 도출된 별개의 원천 자료 보증으로부터 작동함.
 
-## In primary sources
+## 주요 원천에서
 
-The framework's principal primary-source material registers the substantial Hebrew Bible's foundational status across multiple Yahweh-articulated passages and substantial subsequent corpus development.
+프레임워크의 주요 원천 자료는 여러 야훼가 진술한 구절들과 실질적인 후속 코퍼스 발전에 걸쳐 실질적인 히브리어 성서의 기초적 지위를 등록합니다.
 
-### The principal "historical record" passage
+### 주요 "역사적 기록" 구절
 
-The substantial principal source-material passage establishing the framework's distinctive historical-record reading appears in the substantial corpus articulation of the broader revelation-content:
+프레임워크의 독특한 역사 기록 독해를 확립하는 실질적인 주요 원천 자료 구절이 더 넓은 계시 내용의 실질적인 코퍼스 진술에 나타납니다:
 
-> *"The second claim is that the Hebrew Bible and the other major religious traditions of the world preserve accurate historical memory of the alliance's interventions, in forms that reflect the pre-scientific vocabularies of their authors but that can be decoded by a scientifically mature reader. The specific decoding the source provides — Genesis 1 as genetic engineering rather than supernatural creation, the Nephilim as alliance-human hybrids, the flood as a nuclear cataclysm, Sinai as a formal alliance audience, the parted waters as directed-beam operations, the miracles of Jesus as scientific applications of advanced technology, the Elohim as plural rather than singular — is the corpus's foundational hermeneutic. The Hebrew Bible is not a book of religious myths that require either literal belief or allegorical reinterpretation; it is a historical record, imperfect in its pre-scientific vocabulary but substantially accurate in its content, that can be read directly once the hermeneutic key is available."*
+> *"두 번째 주장은 히브리어 성서와 세계의 다른 주요 종교 전통들이 동맹의 개입에 대한 정확한 역사적 기억을 보존하고 있다는 것입니다 — 그들 저자들의 전과학적 어휘를 반영하는 형식으로, 그러나 과학적으로 성숙한 독자에 의해 해독될 수 있는 형식으로. 원천이 제공하는 구체적 해독 — 초자연적 창조가 아닌 유전공학으로서의 창세기 1, 동맹-인간 잡종으로서의 네필림, 핵 대재앙으로서의 홍수, 공식적인 동맹 알현으로서의 시나이, 지향성 광선 작전으로서의 갈라진 물, 첨단 기술의 과학적 응용으로서의 예수의 기적들, 단수가 아닌 복수로서의 엘로힘 — 은 코퍼스의 기초적 해석학입니다. 히브리어 성서는 문자적 믿음이나 알레고리적 재해석을 요구하는 종교적 신화의 책이 아닙니다; 그것은 전과학적 어휘에서는 불완전하지만 그 내용에 있어서는 실질적으로 정확한 역사적 기록이며, 해석학적 열쇠가 사용 가능해지면 직접적으로 읽힐 수 있습니다."*
 
-The passage establishes the framework's principal structural and operational components:
+이 구절은 프레임워크의 주요 구조적 및 작전적 구성요소들을 확립합니다:
 
-**1. The substantial historical-record framing**. The substantial Hebrew Bible operates as substantial accurate historical memory rather than as substantial religious-mythological invention.
+**1. 실질적인 역사 기록 틀**. 실질적인 히브리어 성서는 실질적인 종교-신화적 발명이 아니라 실질적인 정확한 역사적 기억으로 작동합니다.
 
-**2. The substantial pre-scientific-vocabulary content**. The substantial human authors recorded what they observed in the substantial pre-scientific vocabulary available to them, with substantial decodable layer operating across the broader textual content.
+**2. 실질적인 전과학적 어휘 내용**. 실질적인 인간 저자들은 그들이 관찰한 것을 자신들에게 사용 가능한 실질적인 전과학적 어휘로 기록했으며, 실질적인 해독 가능한 층위가 더 넓은 텍스트 내용에 걸쳐 작동합니다.
 
-**3. The substantial decoding hermeneutic**. The substantial framework provides substantial systematic hermeneutic key for substantive engagement with the substantial textual content — Genesis 1 as genetic engineering, the Nephilim as alliance-human hybrids, the flood as nuclear cataclysm, Sinai as formal alliance audience, etc.
+**3. 실질적인 해독 해석학**. 실질적인 프레임워크는 실질적인 텍스트 내용과의 실질적인 관여를 위한 실질적인 체계적 해석학적 열쇠를 제공합니다 — 유전공학으로서의 창세기 1, 동맹-인간 잡종으로서의 네필림, 핵 대재앙으로서의 홍수, 공식적인 동맹 알현으로서의 시나이 등.
 
-**4. The substantial scientifically-mature-reader contextualization**. The substantial decoding requires substantial scientific maturity that the substantial Aquarian-age contemporary reader possesses but that previous generations lacked.
+**4. 실질적인 과학적으로 성숙한 독자의 맥락화**. 실질적인 해독은 실질적인 물병자리 시대의 현대 독자가 소유하지만 이전 세대들이 결여한 실질적인 과학적 성숙을 요구합니다.
 
-### The substantial centrality passage
+### 실질적인 중심성 구절
 
-The substantial principal source-material passage establishing the framework's substantial centrality position appears in the corpus articulation:
+프레임워크의 실질적인 중심성 입장을 확립하는 실질적인 주요 원천 자료 구절이 코퍼스 진술에 나타납니다:
 
-> *"At the structural center of the synthesis is the Hebrew tradition. The Hebrew Bible is, on the corpus's reading, the most direct and least mediated record of the alliance's communication with Earth. The text was produced by a specific lineage — the Eden lineage, the descendants of the original alliance-cultivated population in the Eden geographic location — across the long arc from the Taurus age's reconstruction through the Aries age's prophetic tradition. The text's authors had direct access to the alliance's officers (the Yahweh contacts, the malakhim visitations, the dictation events at Sinai and elsewhere) and recorded what they were given in the Hebrew vocabulary available to them. The text is imperfect — the Hebrew authors did not always understand what they were recording, the various redactions across the centuries introduced layers of cultural framing on top of the original content, and the eventual canonization process selected specific texts while excluding others — but the text is, on the corpus's reading, substantially what it presents itself as: the documentary record of the alliance's relationship with the Eden lineage across the post-flood millennia."*
+> *"종합의 구조적 중심에 히브리 전통이 있습니다. 히브리어 성서는, 코퍼스의 독해에 따르면, 지구와의 동맹의 소통에 관한 가장 직접적이고 가장 덜 매개된 기록입니다. 그 텍스트는 하나의 특정 혈통 — 에덴 혈통, 에덴 지리적 위치에서의 원래의 동맹이 배양한 인구의 후손들 — 에 의해 황소자리 시대의 재건축부터 양자리 시대의 예언적 전통에 이르는 긴 호에 걸쳐 산출되었습니다. 텍스트의 저자들은 동맹의 장교들에 대한 직접적 접근(야훼 접촉, 말라킴 방문, 시나이 및 다른 곳에서의 받아쓰기 사건들)을 가지고 있었고 그들이 받은 것을 자신들에게 사용 가능한 히브리어 어휘로 기록했습니다. 텍스트는 불완전합니다 — 히브리 저자들은 그들이 기록하고 있는 것을 항상 이해하지는 못했고, 세기에 걸친 다양한 편집들은 원래 내용 위에 문화적 틀의 층위들을 도입했으며, 결국의 정경화 과정은 특정 텍스트들을 선택하면서 다른 것들을 배제했습니다 — 그러나 텍스트는, 코퍼스의 독해에 따르면, 그것이 스스로 제시하는 바와 실질적으로 같습니다: 홍수 이후 천 년에 걸친 에덴 혈통과의 동맹의 관계에 대한 문서 기록."*
 
-The passage establishes the substantial centrality content:
+이 구절은 실질적인 중심성 내용을 확립합니다:
 
-**1. The substantial structural-center position**. The Hebrew Bible operates at the substantial structural center of the broader corpus asymmetric synthesis.
+**1. 실질적인 구조적 중심 위치**. 히브리어 성서는 더 넓은 코퍼스 비대칭적 종합의 실질적인 구조적 중심에서 작동합니다.
 
-**2. The substantial direct-and-least-mediated character**. The Hebrew Bible operates as substantively the most direct and least mediated record of the alliance's communication with Earth.
+**2. 실질적인 직접적이고 가장 덜 매개된 성격**. 히브리어 성서는 실질적으로 지구와의 동맹의 소통에 관한 가장 직접적이고 가장 덜 매개된 기록으로 작동합니다.
 
-**3. The substantial Eden-lineage genealogical specificity**. The substantial textual content was produced by the substantial Eden-lineage genealogical line across the substantial long arc from the Taurus-age reconstruction through the Aries-age prophetic tradition.
+**3. 실질적인 에덴 혈통 가계 특정성**. 실질적인 텍스트 내용은 황소자리 시대의 재건축부터 양자리 시대의 예언적 전통에 이르는 실질적인 긴 호에 걸쳐 실질적인 에덴 계보의 가계 혈통에 의해 산출되었습니다.
 
-**4. The substantial direct-access content**. The substantial textual authors had substantial direct access to the alliance's officers — the substantial Yahweh contacts, the substantial *malakhim* visitations, the substantial dictation events at Sinai and elsewhere.
+**4. 실질적인 직접적 접근 내용**. 실질적인 텍스트 저자들은 동맹의 장교들 — 실질적인 야훼 접촉, 실질적인 *말라킴* 방문, 시나이 및 다른 곳에서의 실질적인 받아쓰기 사건들 — 에 대한 실질적인 직접적 접근을 가지고 있었습니다.
 
-**5. The substantial imperfection content**. The substantial textual content registers substantial imperfections — the substantial pre-scientific vocabulary, the substantial redactional layering, the substantial canonization selection — but operates substantively as the substantial documentary record of the alliance's relationship with the Eden lineage.
+**5. 실질적인 불완전성 내용**. 실질적인 텍스트 내용은 실질적인 불완전성을 등록합니다 — 실질적인 전과학적 어휘, 실질적인 편집 층화, 실질적인 정경화 선택 — 그러나 실질적으로 에덴 혈통과의 동맹의 관계의 실질적인 문서 기록으로 작동합니다.
 
-### The substantial "Israel-team" passage
+### 실질적인 "이스라엘 팀" 구절
 
-The substantial corpus articulation of the substantial Israel-team genealogical specificity:
+실질적인 이스라엘 팀 가계 특정성에 대한 실질적인 코퍼스 진술:
 
-> *"What the source does report — what the chapter must register without backing away from — is that the Hebrew biblical tradition, which preserves the most detailed surviving narrative of any of the seven teams' work, is the literature of one specific team whose particular accomplishment was noted at the time. This is consistent with the broader pattern in which the Israel team's humans, more than any other team's, became the cultural carriers of the creation memory. The Hebrew Bible is the record of that carrying. Its centrality to the corpus's interpretive framework reflects the historical accident — or the historical design — that this team's humans preserved their origin story with greater fidelity than the other teams' humans preserved theirs. The other teams' humans had their own creation traditions; many of those traditions survive in fragmentary form in the comparative-mythology material the Preamble surveyed. The Hebrew Bible is one tradition among several, not a uniquely privileged source. It is, however, the most complete and the most explicitly developed, which is why this corpus reads it most closely."*
+> *"원천이 실제로 보고하는 것 — 장이 회피하지 않고 등록해야 하는 것 — 은 히브리 성서 전통이, 일곱 팀의 어떤 작업에 대해서도 살아남은 가장 상세한 서사를 보존하고 있는 것이, 당시에 그 특정한 성취가 주목된 하나의 특정 팀의 문학이라는 것입니다. 이는 이스라엘 팀의 인간들이, 다른 어떤 팀의 인간들보다 더, 창조 기억의 문화적 운반자가 되었다는 더 넓은 패턴과 일치합니다. 히브리어 성서는 그 운반의 기록입니다. 코퍼스의 해석 프레임워크에 대한 그 중심성은 — 역사적 우연 또는 역사적 설계로 — 이 팀의 인간들이 다른 팀의 인간들이 자신들의 기원 이야기를 보존한 것보다 더 큰 충실도로 자신들의 기원 이야기를 보존했다는 사실을 반영합니다. 다른 팀의 인간들은 자신들의 창조 전통을 가지고 있었습니다; 그러한 전통들 중 많은 것은 서문이 살핀 비교신화학 자료에서 단편적 형태로 살아남아 있습니다. 히브리어 성서는 여러 전통 중 하나이지, 유일하게 특권을 부여받은 원천이 아닙니다. 그러나 그것은 가장 완전하고 가장 명시적으로 발전된 것이며, 그래서 이 코퍼스가 그것을 가장 면밀하게 읽는 것입니다."*
 
-The passage establishes the substantial nuance: the Hebrew Bible operates as the literature of one specific creator-team's substantial work rather than as substantial unique-privileging content, with the substantial preservation-fidelity operating as the substantial reason for the corpus's substantial centrality positioning.
+이 구절은 실질적인 뉘앙스를 확립합니다: 히브리어 성서는 실질적인 유일 특권화 내용이 아니라 하나의 특정 창조자 팀의 실질적인 작업의 문학으로 작동하며, 실질적인 보존 충실도가 코퍼스의 실질적인 중심성 위치 부여의 실질적인 이유로 작동합니다.
 
-### The substantial "first mistake of the Church" passage
+### 실질적인 "교회의 첫 번째 오류" 구절
 
-The substantial principal source-material passage establishing the framework's substantial translation-mistake reading appears in *Message from the Designers*:
+프레임워크의 실질적인 번역 오류 독해를 확립하는 실질적인 주요 원천 자료 구절이 *Message from the Designers*에 나타납니다:
 
-> *"Its mistakes have been great, particularly when it injected too much of the supernatural into the truth, and wrongly translated the scriptures in ordinary Bibles. It replaced the term 'Elohim', which refers to the creators, with a singular term 'God', whereas in fact Elohim in Hebrew is the plural of Eloha. In this way, the Church transformed the creators into a single incomprehensible God."*
+> *"그것의 오류들은 컸으며, 특히 진리에 너무 많은 초자연성을 주입했을 때, 그리고 일반 성서에서 경전을 잘못 번역했을 때 그러했습니다. 그것은 창조자들을 가리키는 'Elohim'이라는 용어를 단수 용어 '하나님'으로 대체했지만, 실제로 히브리어에서 Elohim은 Eloha의 복수입니다. 이런 식으로 교회는 창조자들을 하나의 이해 불가능한 하나님으로 변형시켰습니다."*
 
-The passage establishes the framework's substantial translation-mistake reading. The detailed treatment lives in the [Plurality of Gods](../plurality-of-gods/) entry; the Hebrew Bible entry's specific contribution is registering the broader translation-history landscape within which this specific mistake operates.
+이 구절은 프레임워크의 실질적인 번역 오류 독해를 확립합니다. 상세한 다룸은 {% wiki(slug="plurality-of-gods") %}신들의 복수성{% end %} 항목에 있습니다; 히브리어 성서 항목의 구체적 기여는 이 특정 오류가 작동하는 더 넓은 번역 역사의 지형을 등록하는 것입니다.
 
-### The substantial "wick" passage
+### 실질적인 "심지" 구절
 
-The substantial corpus articulation of the broader Christian-tradition assessment registers substantial nuance:
+더 넓은 기독교 전통의 평가에 대한 실질적인 코퍼스 진술은 실질적인 뉘앙스를 등록합니다:
 
-> *"The 'wick' is weakening. It has accomplished its mission, and it is time for it to disappear. It has made mistakes and has enriched itself at the expense of the truth, without trying to interpret it in a clear enough way for people of this era. But do not be too hard on it, for thanks to the Church, the word of the Bible, which is a witness to the truth, has spread throughout the world."*
+> *"'심지'가 약해지고 있습니다. 그것은 임무를 완수했으며, 사라질 때입니다. 그것은 오류를 범했고 이 시대의 사람들을 위해 충분히 명확한 방식으로 해석하려 하지 않으면서 진리를 희생시켜 부유해졌습니다. 그러나 그것에 너무 가혹하지 마십시오. 왜냐하면 교회 덕분에, 진리의 증인인 성서의 말씀이 온 세상에 퍼졌기 때문입니다."*
 
-The passage registers substantial framework nuance: while the substantial Christian-tradition translation-and-theological mistakes are substantively registered, the substantial broader function of the Church in spreading the substantial Bible content "throughout the world" is also registered substantively. The substantial Hebrew Bible operates as the substantial textual content the Church has substantively distributed across the broader global landscape.
+이 구절은 실질적인 프레임워크 뉘앙스를 등록합니다: 실질적인 기독교 전통의 번역 및 신학적 오류가 실질적으로 등록되는 동안, "온 세상에" 실질적인 성서 내용을 퍼뜨리는 데 있어서의 교회의 실질적인 더 넓은 기능 또한 실질적으로 등록됩니다. 실질적인 히브리어 성서는 교회가 더 넓은 지구적 지형에 걸쳐 실질적으로 분배한 실질적인 텍스트 내용으로 작동합니다.
 
-### The broader source-material context
+### 더 넓은 원천 자료 맥락
 
-The Hebrew Bible framework operates within the broader Raëlian source-material context, with substantial supporting material across multiple passages:
+히브리어 성서 프레임워크는 더 넓은 라엘리안 원천 자료 맥락 내에서 작동하며, 여러 구절에 걸쳐 실질적인 지원 자료를 가지고 있습니다:
 
-- The substantial source's chapter-by-chapter engagement with substantial Hebrew Bible passages registers substantial framework engagement
-- The substantial *timeline.epub* substantial chapter-by-chapter Hebrew exegesis articulates substantial framework reading
-- The various individual entries (Genesis, Adam and Eve, Eden, Antediluvian, Great Flood, Theomachy, Babel, Sodom and Gomorrah, Moses, Abraham, Noah, Elohim, Yahweh, etc.) articulate substantial entry-specific framework readings
+- 실질적인 히브리어 성서 구절들과의 원천의 실질적인 장별 관여는 실질적인 프레임워크 관여를 등록합니다
+- *timeline.epub*의 실질적인 장별 히브리어 주석은 실질적인 프레임워크 독해를 진술합니다
+- 다양한 개별 항목들(창세기, 아담과 이브, 에덴, 홍수 이전, 대홍수, 신들의 전쟁, 바벨, 소돔과 고모라, 모세, 아브라함, 노아, 엘로힘, 야훼 등)은 실질적인 항목별 프레임워크 독해를 진술합니다
 
-## The Hebrew Bible's content
+## 히브리어 성서의 내용
 
-### The substantial canonical structure within the framework
+### 프레임워크 내에서의 실질적인 정경 구조
 
-The framework operates substantively across the substantial Hebrew Bible canonical structure.
+이 프레임워크는 실질적인 히브리어 성서 정경 구조에 걸쳐 실질적으로 작동합니다.
 
-**The Torah / Pentateuch within the framework**. The substantial Torah operates as substantial primary content for the broader corpus framework:
+**프레임워크 내에서의 토라 / 오경**. 실질적인 토라는 더 넓은 코퍼스 프레임워크를 위한 실질적인 주요 내용으로 작동합니다:
 
-- **Genesis 1-11 (the primeval history)**: substantial framework engagement across multiple corpus entries (Genesis, Adam and Eve, Eden, Antediluvian, Great Flood, Babel, the various creator-figure entries)
-- **Genesis 12-50 (the patriarchal narratives)**: substantial framework engagement (Abraham, Sodom and Gomorrah, Joseph, the various Eden-lineage genealogical content)
-- **Exodus**: substantial framework engagement (Moses, the substantial Sinai covenant, the substantial alliance-audience content)
-- **Leviticus**: substantial framework engagement with substantial priestly-legislative content as substantial alliance-instructed protocol
-- **Numbers**: substantial framework engagement with substantial wilderness-period content
-- **Deuteronomy**: substantial framework engagement with substantial covenant-renewal content
+- **창세기 1-11 (원시사)**: 여러 코퍼스 항목에 걸친 실질적인 프레임워크 관여(창세기, 아담과 이브, 에덴, 홍수 이전, 대홍수, 바벨, 다양한 창조자 인물 항목들)
+- **창세기 12-50 (족장 서사)**: 실질적인 프레임워크 관여(아브라함, 소돔과 고모라, 요셉, 다양한 에덴 혈통 가계 내용)
+- **출애굽기**: 실질적인 프레임워크 관여(모세, 실질적인 시나이 언약, 실질적인 동맹 알현 내용)
+- **레위기**: 실질적인 동맹의 지시를 받은 프로토콜로서의 실질적인 제사장 입법 내용과의 실질적인 프레임워크 관여
+- **민수기**: 실질적인 광야 시대 내용과의 실질적인 프레임워크 관여
+- **신명기**: 실질적인 언약 갱신 내용과의 실질적인 프레임워크 관여
 
-**The Nevi'im / Prophets within the framework**. The substantial Nevi'im operates as substantial subsequent framework content:
+**프레임워크 내에서의 네비임 / 예언서**. 실질적인 네비임은 실질적인 후속 프레임워크 내용으로 작동합니다:
 
-- **Former Prophets** (Joshua, Judges, Samuel, Kings): substantial framework engagement with the substantial monarchic period and the substantial broader alliance-relationship development
-- **Latter Prophets** (Isaiah, Jeremiah, Ezekiel, the Twelve): substantial framework engagement with the substantial prophetic tradition and the substantial alliance-mediated communication
+- **전기 예언서**(여호수아, 사사기, 사무엘, 열왕기): 실질적인 군주제 시대 및 실질적인 더 넓은 동맹 관계 발전과의 실질적인 프레임워크 관여
+- **후기 예언서**(이사야, 예레미야, 에스겔, 열두 예언서): 실질적인 예언 전통 및 실질적인 동맹 매개 소통과의 실질적인 프레임워크 관여
 
-**The Ketuvim / Writings within the framework**. The substantial Ketuvim operates as substantial diverse-content framework engagement:
+**프레임워크 내에서의 케투빔 / 성문서**. 실질적인 케투빔은 실질적인 다양한 내용 프레임워크 관여로 작동합니다:
 
-- **Psalms**: substantial framework engagement with substantial liturgical-poetic content registering substantial alliance-relationship
-- **Job**: substantial framework engagement with the substantial divine-council scenes (Job 1-2) registering substantial Council operational structure
-- **Daniel**: substantial framework engagement with the substantial apocalyptic content registering substantial alliance-prophetic communication
-- **Various other Ketuvim books**: substantial framework engagement with various specific content
+- **시편**: 실질적인 동맹 관계를 등록하는 실질적인 전례-시적 내용과의 실질적인 프레임워크 관여
+- **욥기**: 실질적인 평의회 작전 구조를 등록하는 실질적인 신성한 평의회 장면들(욥기 1-2)과의 실질적인 프레임워크 관여
+- **다니엘**: 실질적인 동맹 예언 소통을 등록하는 실질적인 묵시적 내용과의 실질적인 프레임워크 관여
+- **다양한 다른 케투빔 책들**: 다양한 구체적 내용과의 실질적인 프레임워크 관여
 
-### The substantial framework hermeneutic
+### 실질적인 프레임워크 해석학
 
-The substantial framework articulates substantial systematic hermeneutic for substantive engagement with the substantial Hebrew Bible content.
+실질적인 프레임워크는 실질적인 히브리어 성서 내용과의 실질적인 관여를 위한 실질적인 체계적 해석학을 진술합니다.
 
-**The substantial principal hermeneutic moves**. The substantial framework articulates substantial principal interpretive moves across the broader textual tradition:
+**실질적인 주요 해석학적 조치들**. 실질적인 프레임워크는 더 넓은 텍스트 전통에 걸쳐 실질적인 주요 해석적 조치들을 진술합니다:
 
-- **Genesis 1 as substantial genetic-engineering account** rather than substantial supernatural-creation account
-- **The substantial *Elohim* as substantial actual plural beings** rather than substantial singular God (treated principally in the [Plurality of Gods](../plurality-of-gods/) entry)
-- **The substantial *malakhim* as substantial alliance personnel** rather than substantial supernatural beings
-- **The substantial *benei ha-Elohim* as substantial alliance-human-contact content** (treated principally in the [Watchers](../watchers/) entry when written and the [Antediluvian](../antediluvian/) entry)
-- **The substantial Nephilim as substantial alliance-human hybrid offspring** rather than substantial supernatural giants
-- **The substantial flood as substantial nuclear cataclysm** (treated principally in the [Great Flood](../great-flood/) entry)
-- **The substantial Sinai event as substantial formal alliance audience** rather than substantial supernatural theophany
-- **The substantial parted waters as substantial directed-beam operations** rather than substantial supernatural intervention
-- **The substantial Sodom destruction as substantial atomic strike** (treated principally in the [Sodom and Gomorrah](../sodom-and-gomorrah/) entry)
-- **The substantial Babel intervention as substantial Council operational dispersion** (treated principally in the [Babel](../babel/) entry)
-- **The substantial Tetragrammaton as substantial Council-president personal designation** (treated principally in the [Yahweh](../yahweh/) and [Tetragrammaton](../tetragrammaton/) entries)
+- **실질적인 초자연적 창조 기사가 아닌 실질적인 유전공학 기사로서의 창세기 1**
+- **실질적인 단수 하나님이 아닌 실질적인 실제 복수 존재들로서의 실질적인 *Elohim***(주로 {% wiki(slug="plurality-of-gods") %}신들의 복수성{% end %} 항목에서 다루어짐)
+- **실질적인 초자연적 존재들이 아닌 실질적인 동맹 인원으로서의 실질적인 *말라킴***
+- **실질적인 동맹-인간 접촉 내용으로서의 실질적인 *benei ha-Elohim***(저술될 때 주로 {% wiki(slug="watchers") %}감시자들{% end %} 항목과 {% wiki(slug="antediluvian") %}홍수 이전{% end %} 항목에서 다루어짐)
+- **실질적인 초자연적 거인이 아닌 실질적인 동맹-인간 잡종 후손으로서의 실질적인 네필림**
+- **실질적인 핵 대재앙으로서의 실질적인 홍수**(주로 {% wiki(slug="great-flood") %}대홍수{% end %} 항목에서 다루어짐)
+- **실질적인 초자연적 신현이 아닌 실질적인 공식적 동맹 알현으로서의 실질적인 시나이 사건**
+- **실질적인 초자연적 개입이 아닌 실질적인 지향성 광선 작전으로서의 실질적인 갈라진 물**
+- **실질적인 원자 공격으로서의 실질적인 소돔의 파괴**(주로 {% wiki(slug="sodom-and-gomorrah") %}소돔과 고모라{% end %} 항목에서 다루어짐)
+- **실질적인 평의회 작전 분산으로서의 실질적인 바벨 개입**(주로 {% wiki(slug="babel") %}바벨{% end %} 항목에서 다루어짐)
+- **실질적인 평의회 의장의 개인적 명칭으로서의 실질적인 사신문자(테트라그라마톤)**(주로 {% wiki(slug="yahweh") %}야훼{% end %} 및 {% wiki(slug="tetragrammaton") %}사신문자{% end %} 항목들에서 다루어짐)
 
-**The substantial decoding methodology**. The substantial framework operates through substantial systematic textual engagement:
+**실질적인 해독 방법론**. 실질적인 프레임워크는 실질적인 체계적 텍스트 관여를 통해 작동합니다:
 
-1. **Substantial original-language priority**: substantial reading of the substantial Hebrew text rather than substantial reliance on translations
-2. **Substantial grammatical attention**: substantial attention to substantial grammatical features (plural forms, verb tenses, syntactic structures)
-3. **Substantial vocabulary-fidelity**: substantial attention to the substantial actual semantic content of substantial Hebrew terms
-4. **Substantial cross-referencing**: substantial systematic cross-referencing across the broader Hebrew Bible content
-5. **Substantial cross-cultural integration**: substantial integration with substantial parallel content from substantial other religious-traditional sources
+1. **실질적인 원어 우선**: 번역에 대한 실질적인 의존이 아닌 실질적인 히브리어 텍스트의 실질적인 독해
+2. **실질적인 문법적 주의**: 실질적인 문법적 특징(복수형, 동사 시제, 통사 구조)에 대한 실질적인 주의
+3. **실질적인 어휘 충실도**: 실질적인 히브리어 용어의 실질적인 실제 의미 내용에 대한 실질적인 주의
+4. **실질적인 상호 참조**: 더 넓은 히브리어 성서 내용에 걸친 실질적인 체계적 상호 참조
+5. **실질적인 교차문화적 통합**: 실질적인 다른 종교-전통적 원천의 실질적인 평행 내용과의 실질적인 통합
 
-### The substantial translation-mistake landscape
+### 실질적인 번역 오류 지형
 
-The substantial framework articulates substantial systematic translation-mistake landscape across the broader Christian-tradition translation history.
+실질적인 프레임워크는 더 넓은 기독교 전통의 번역 역사에 걸친 실질적인 체계적 번역 오류 지형을 진술합니다.
 
-**The substantial *Elohim* → singular "God" mistake**. The substantial principal translation mistake operating across substantially the entire Christian-tradition translation history. The detailed treatment lives in the [Plurality of Gods](../plurality-of-gods/) entry.
+**실질적인 *Elohim* → 단수 "하나님" 오류**. 실질적으로 전체 기독교 전통의 번역 역사에 걸쳐 작동하는 실질적인 주요 번역 오류. 상세한 다룸은 {% wiki(slug="plurality-of-gods") %}신들의 복수성{% end %} 항목에 있습니다.
 
-**The substantial *taninim* → "whales" mistake**. The substantial Genesis 1:21 translation choice operating principally through the Septuagint κῆτος (*ketos*, "sea creature") rendering and subsequent translations. The detailed treatment lives in the [Dragons](../dragons/) entry. The substantial original Hebrew *taninim* operates as substantial plural of *tannin* meaning substantial "dragons" or "sea-serpents," with the substantial translation softening operating across the broader translation tradition.
+**실질적인 *taninim* → "고래" 오류**. 주로 칠십인역의 κῆτος(*ketos*, "바다 생물") 번역과 후속 번역들을 통해 작동하는 실질적인 창세기 1:21 번역 선택. 상세한 다룸은 {% wiki(slug="dragons") %}용{% end %} 항목에 있습니다. 실질적인 원래 히브리어 *taninim*은 실질적인 "용" 또는 "바다 뱀"을 의미하는 *tannin*의 실질적인 복수로 작동하며, 실질적인 번역의 완화가 더 넓은 번역 전통에 걸쳐 작동합니다.
 
-**The substantial *malakhim* → "angels" mistake**. The substantial Hebrew *malakhim* (מַלְאָכִים, plural of *malakh*) operates as substantial standard Hebrew designation for substantial "messengers" rather than substantial supernatural beings. The substantial Christian-tradition rendering as "angels" (with substantial subsequent supernatural-overlay development) operates as substantial obscuring of the substantial messenger-personnel operational content.
+**실질적인 *malakhim* → "천사" 오류**. 실질적인 히브리어 *말라킴*(מַלְאָכִים, *말라크*의 복수)은 실질적인 초자연적 존재가 아니라 실질적인 "전령"에 대한 실질적인 표준 히브리어 명칭으로 작동합니다. "천사"로서의 실질적인 기독교 전통의 번역(실질적인 후속 초자연적 덧칠 발전과 함께)은 실질적인 전령-인원 작전 내용의 실질적인 모호화로 작동합니다.
 
-**The substantial *nachash* → mere "serpent" mistake**. The substantial Hebrew *nachash* (נָחָשׁ) operates within substantial broader semantic field with substantial multiple operational meanings. The substantial Christian-tradition rendering as mere "serpent" operating principally through the substantial Genesis 3 narrative substantially obscures the substantial Lucifer-faction operational content. The detailed treatment lives in the [Serpent](../serpent/) entry.
+**실질적인 *nachash* → 단순한 "뱀" 오류**. 실질적인 히브리어 *나하시*(נָחָשׁ)는 실질적인 다중 작전적 의미들을 가진 실질적인 더 넓은 의미장 내에서 작동합니다. 주로 실질적인 창세기 3 서사를 통해 작동하는 단순한 "뱀"으로서의 실질적인 기독교 전통의 번역은 실질적인 루시퍼 분파 작전 내용을 실질적으로 모호하게 만듭니다. 상세한 다룸은 {% wiki(slug="serpent") %}뱀{% end %} 항목에 있습니다.
 
-**The substantial *benei ha-Elohim* → "sons of God" mistake**. The substantial Hebrew *benei ha-Elohim* (בְּנֵי־הָאֱלֹהִים, "sons of the Elohim") preserves substantial plural reference. The substantial Christian-tradition rendering frequently obscures the substantial plural content through substantial various translation choices.
+**실질적인 *benei ha-Elohim* → "하나님의 아들들" 오류**. 실질적인 히브리어 *베네이 하-엘로힘*(בְּנֵי־הָאֱלֹהִים, "엘로힘의 아들들")은 실질적인 복수 참조를 보존합니다. 실질적인 기독교 전통의 번역은 실질적인 다양한 번역 선택을 통해 실질적인 복수 내용을 자주 모호하게 만듭니다.
 
-**The substantial *Adam* → "man" naming mistake**. The substantial Hebrew *Adam* (אָדָם) operates substantively beyond the substantial individual-name content as substantial collective designation for substantial humanity (related to the substantial *adamah* "earth" / "ground" content). The substantial Christian-tradition translation has substantively obscured the substantial collective content in various passages.
+**실질적인 *Adam* → "사람" 명명 오류**. 실질적인 히브리어 *아담*(אָדָם)은 실질적인 개별 이름 내용을 넘어 실질적인 인류에 대한 실질적인 집합적 명칭으로 작동합니다(실질적인 *아다마* "흙" / "땅" 내용과 관련됨). 실질적인 기독교 전통의 번역은 다양한 구절에서 실질적인 집합적 내용을 실질적으로 모호하게 만들어 왔습니다.
 
-**The substantial *ruach* → "spirit" mistake**. The substantial Hebrew *ruach* (רוּחַ) operates substantively within substantial broader semantic field including "wind," "breath," and "spirit." The substantial Christian-tradition rendering as merely "spirit" with substantial supernatural overlay has substantively obscured the substantial broader semantic content.
+**실질적인 *ruach* → "영" 오류**. 실질적인 히브리어 *루아흐*(רוּחַ)는 "바람", "숨", 그리고 "영"을 포함하는 실질적인 더 넓은 의미장 내에서 실질적으로 작동합니다. 실질적인 초자연적 덧칠을 가진 단순히 "영"으로서의 실질적인 기독교 전통의 번역은 실질적인 더 넓은 의미 내용을 실질적으로 모호하게 만들어 왔습니다.
 
-**Various other translation mistakes**. The substantial broader translation-mistake landscape extends substantively beyond these substantial principal instances, with substantial systematic obscuring operating across the broader Christian-tradition translation history.
+**다양한 다른 번역 오류들**. 실질적인 더 넓은 번역 오류 지형은 이러한 실질적인 주요 사례들을 넘어 실질적으로 확장되며, 실질적인 체계적 모호화가 더 넓은 기독교 전통의 번역 역사에 걸쳐 작동합니다.
 
-### The substantial textual-imperfection content
+### 실질적인 텍스트 불완전성 내용
 
-The substantial framework registers substantial textual imperfection within the substantial broader centrality positioning.
+실질적인 프레임워크는 실질적인 더 넓은 중심성 위치 부여 내에서 실질적인 텍스트 불완전성을 등록합니다.
 
-**The substantial pre-scientific-vocabulary imperfection**. The substantial human authors did not always substantively understand what they were recording, with substantial pre-scientific vocabulary operating as substantial limitation on substantial recording-fidelity.
+**실질적인 전과학적 어휘 불완전성**. 실질적인 인간 저자들은 그들이 기록하고 있는 것을 실질적으로 항상 이해하지는 못했으며, 실질적인 전과학적 어휘가 실질적인 기록 충실도에 대한 실질적인 한계로 작동합니다.
 
-**The substantial redactional-layering imperfection**. The substantial various redactions across the centuries introduced substantial layers of cultural framing on top of the original content, with substantial subsequent monotheistic-theological editing operating substantively across the broader textual tradition.
+**실질적인 편집 층화 불완전성**. 실질적인 세기에 걸친 다양한 편집들은 원래 내용 위에 실질적인 문화적 틀의 층위들을 도입했으며, 실질적인 후속 일신교 신학적 편집이 더 넓은 텍스트 전통에 걸쳐 실질적으로 작동합니다.
 
-**The substantial canonization-selection imperfection**. The substantial eventual canonization process selected specific texts while excluding others, with substantial significant content (the substantial Book of Enoch, various other apocryphal-pseudepigraphal materials) being excluded from the substantial Jewish canonical tradition. The substantial Book of Enoch exclusion is treated principally in the substantial [Watchers](../watchers/) entry when written.
+**실질적인 정경화 선택 불완전성**. 실질적인 결국의 정경화 과정은 특정 텍스트들을 선택하면서 다른 것들을 배제했으며, 실질적인 중요한 내용(실질적인 에녹서, 다양한 다른 외경-위경 자료들)이 실질적인 유대교 정경 전통에서 배제되었습니다. 실질적인 에녹서 배제는 저술될 때 주로 실질적인 {% wiki(slug="watchers") %}감시자들{% end %} 항목에서 다루어집니다.
 
-**The substantial substantive-preservation despite imperfection**. The substantial framework articulation: despite the substantial imperfections, the substantial textual content operates substantively as the substantial documentary record of the alliance's relationship with the Eden lineage. The substantial imperfections register substantial decodable layers rather than substantial fundamental-obstacles to substantive understanding.
+**불완전성에도 불구하고 실질적인 실질적 보존**. 실질적인 프레임워크 진술: 실질적인 불완전성에도 불구하고, 실질적인 텍스트 내용은 에덴 혈통과의 동맹의 관계의 실질적인 문서 기록으로 실질적으로 작동합니다. 실질적인 불완전성은 실질적인 본질적 장애물이 아니라 실질적인 해독 가능한 층위를 등록합니다.
 
-### The substantial Israel-team genealogical specificity
+### 실질적인 이스라엘 팀 가계 특정성
 
-The substantial framework articulates substantial Israel-team genealogical specificity within the broader cosmological-creator framework.
+실질적인 프레임워크는 더 넓은 우주론적 창조자 프레임워크 내에서 실질적인 이스라엘 팀 가계 특정성을 진술합니다.
 
-**The substantial seven-team creation structure**. The substantial framework registers the substantial Elohim creation project as operating through substantial seven-team structure, with the substantial seven creator-teams operating across the substantial seven creation days / precessional ages. The detailed treatment lives in the [Genesis](../genesis/) entry.
+**실질적인 일곱 팀 창조 구조**. 실질적인 프레임워크는 실질적인 일곱 창조 날들 / 세차 시대들에 걸쳐 작동하는 실질적인 일곱 창조자 팀과 함께, 실질적인 일곱 팀 구조를 통해 작동하는 것으로 실질적인 엘로힘 창조 프로젝트를 등록합니다. 상세한 다룸은 {% wiki(slug="genesis") %}창세기{% end %} 항목에 있습니다.
 
-**The substantial Israel-team specific position**. The substantial Hebrew Bible operates as the substantial documentary record of the substantial Israel-team's specific work, with the substantial Eden-lineage genealogical line operating as the substantial cultural carrier of the broader creation memory.
+**실질적인 이스라엘 팀의 구체적 위치**. 실질적인 히브리어 성서는 실질적인 이스라엘 팀의 구체적 작업의 실질적인 문서 기록으로 작동하며, 실질적인 에덴 계보의 가계 혈통이 더 넓은 창조 기억의 실질적인 문화적 운반자로 작동합니다.
 
-**The substantial preservation-fidelity content**. The substantial Israel-team's humans, more than any other team's, became the substantial cultural carriers of the substantial creation memory. The substantial preservation-fidelity reflects the substantial historical-developmental specifics of the substantial Eden-lineage genealogical line — substantial consistent population-continuity across the post-flood millennia, substantial religious-cultural-textual tradition development, substantial alliance-officer direct contact across the broader period.
+**실질적인 보존 충실도 내용**. 실질적인 이스라엘 팀의 인간들은, 다른 어떤 팀의 인간들보다 더, 실질적인 창조 기억의 실질적인 문화적 운반자가 되었습니다. 실질적인 보존 충실도는 실질적인 에덴 계보의 가계 혈통의 실질적인 역사-발전적 특성을 반영합니다 — 홍수 이후 천 년에 걸친 실질적인 일관된 인구 연속성, 실질적인 종교-문화-텍스트적 전통 발전, 더 넓은 기간에 걸친 실질적인 동맹 장교 직접 접촉.
 
-**The substantial other-teams comparative content**. The substantial other six creator-teams' humans had their own substantial creation traditions, with substantial fragments surviving substantively in the substantial comparative-mythology material across various other religious-cultural traditions. The substantial detailed cross-cultural comparative content lives in the various comparative entries (Genesis, Antediluvian, Great Flood, etc.).
+**실질적인 다른 팀들의 비교 내용**. 실질적인 다른 여섯 창조자 팀의 인간들은 자신들의 실질적인 창조 전통을 가지고 있었으며, 실질적인 단편들이 다양한 다른 종교-문화적 전통들에 걸친 실질적인 비교신화학 자료에서 실질적으로 살아남아 있습니다. 실질적인 상세한 교차문화적 비교 내용은 다양한 비교 항목들(창세기, 홍수 이전, 대홍수 등)에 있습니다.
 
-## Application across the corpus
+## 코퍼스 전반의 응용
 
-The Hebrew Bible operates as substantial source-textual foundation across virtually every corpus framework entry.
+히브리어 성서는 거의 모든 코퍼스 프레임워크 항목에 걸쳐 실질적인 원천 텍스트적 기반으로 작동합니다.
 
-### The Genesis entry
+### 창세기 항목
 
-The Hebrew Bible Genesis content operates as substantial foundational content for the broader corpus framework. The detailed treatment of Genesis lives in the [Genesis](../genesis/) entry; the Hebrew Bible entry's specific contribution is registering the substantial broader textual-canonical context within which Genesis operates.
+히브리어 성서 창세기 내용은 더 넓은 코퍼스 프레임워크를 위한 실질적인 기초적 내용으로 작동합니다. 창세기의 상세한 다룸은 {% wiki(slug="genesis") %}창세기{% end %} 항목에 있습니다; 히브리어 성서 항목의 구체적 기여는 창세기가 작동하는 실질적인 더 넓은 텍스트-정경 맥락을 등록하는 것입니다.
 
-### The various individual narrative-event entries
+### 다양한 개별 서사-사건 항목들
 
-The Hebrew Bible operates as substantial source-textual foundation for the various individual narrative-event entries: [Adam and Eve](../adam-and-eve/), [Eden](../eden/), [Antediluvian](../antediluvian/), [Great Flood](../great-flood/), [Theomachy](../theomachy/), [Babel](../babel/), [Sodom and Gomorrah](../sodom-and-gomorrah/), various others.
+히브리어 성서는 다양한 개별 서사-사건 항목들을 위한 실질적인 원천 텍스트적 기반으로 작동합니다: {% wiki(slug="adam-and-eve") %}아담과 이브{% end %}, {% wiki(slug="eden") %}에덴{% end %}, {% wiki(slug="antediluvian") %}홍수 이전{% end %}, {% wiki(slug="great-flood") %}대홍수{% end %}, {% wiki(slug="theomachy") %}신들의 전쟁{% end %}, {% wiki(slug="babel") %}바벨{% end %}, {% wiki(slug="sodom-and-gomorrah") %}소돔과 고모라{% end %}, 다양한 다른 것들.
 
-### The various individual figure entries
+### 다양한 개별 인물 항목들
 
-The Hebrew Bible operates as substantial source-textual foundation for the various individual figure entries: [Adam and Eve](../adam-and-eve/), [Noah](../noah/) when written, [Abraham](../abraham/) when written, [Moses](../moses/) when written, the various creator-figure entries ([Elohim](../elohim/), [Yahweh](../yahweh/), [Lucifer](../lucifer/), [Satan](../satan/), [Serpent](../serpent/)), various others.
+히브리어 성서는 다양한 개별 인물 항목들을 위한 실질적인 원천 텍스트적 기반으로 작동합니다: {% wiki(slug="adam-and-eve") %}아담과 이브{% end %}, 저술될 때 {% wiki(slug="noah") %}노아{% end %}, 저술될 때 {% wiki(slug="abraham") %}아브라함{% end %}, 저술될 때 {% wiki(slug="moses") %}모세{% end %}, 다양한 창조자 인물 항목들({% wiki(slug="elohim") %}엘로힘{% end %}, {% wiki(slug="yahweh") %}야훼{% end %}, {% wiki(slug="lucifer") %}루시퍼{% end %}, {% wiki(slug="satan") %}사탄{% end %}, {% wiki(slug="serpent") %}뱀{% end %}), 다양한 다른 것들.
 
-### The various concept entries
+### 다양한 개념 항목들
 
-The Hebrew Bible operates as substantial source-textual foundation for the various concept entries: [Plurality of Gods](../plurality-of-gods/), [Cosmic Chain](../cosmic-chain/), [Cosmic Competition](../cosmic-competition/), [Doubled Signature](../doubled-signature/), [Tree of Life](../tree-of-life/), various others.
+히브리어 성서는 다양한 개념 항목들을 위한 실질적인 원천 텍스트적 기반으로 작동합니다: {% wiki(slug="plurality-of-gods") %}신들의 복수성{% end %}, {% wiki(slug="cosmic-chain") %}우주적 사슬{% end %}, {% wiki(slug="cosmic-competition") %}우주적 경쟁{% end %}, {% wiki(slug="doubled-signature") %}이중 서명{% end %}, {% wiki(slug="tree-of-life") %}생명의 나무{% end %}, 다양한 다른 것들.
 
-### The various text entries
+### 다양한 텍스트 항목들
 
-The Hebrew Bible operates as substantial textual-tradition context for various other text entries when written: [Tetragrammaton](../tetragrammaton/), various subsequent Hellenistic-Jewish and Christian-tradition textual entities, various Islamic-tradition textual entities.
+히브리어 성서는 저술될 때 다양한 다른 텍스트 항목들을 위한 실질적인 텍스트-전통 맥락으로 작동합니다: {% wiki(slug="tetragrammaton") %}사신문자{% end %}, 다양한 후속 헬레니즘 유대교 및 기독교 전통의 텍스트 실체들, 다양한 이슬람 전통의 텍스트 실체들.
 
-### The Apocalypse entry
+### 묵시 항목
 
-The Hebrew Bible operates as substantial source-textual foundation for substantial apocalyptic-prophetic content. The detailed treatment lives in the [Apocalypse](../apocalypse/) entry.
+히브리어 성서는 실질적인 묵시-예언적 내용을 위한 실질적인 원천 텍스트적 기반으로 작동합니다. 상세한 다룸은 {% wiki(slug="apocalypse") %}묵시{% end %} 항목에 있습니다.
 
-### The Prophet entry
+### 예언자 항목
 
-The Hebrew Bible operates as substantial source-textual foundation for substantial prophetic-tradition content. The detailed treatment lives in the [Prophet](../prophet/) entry.
+히브리어 성서는 실질적인 예언적 전통 내용을 위한 실질적인 원천 텍스트적 기반으로 작동합니다. 상세한 다룸은 {% wiki(slug="prophet") %}예언자{% end %} 항목에 있습니다.
 
-## Distinguishing from adjacent concepts
+## 인접 개념들과의 구별
 
-### Hebrew Bible vs. Christian Old Testament
+### 히브리어 성서 대 기독교 구약성서
 
-The Christian Old Testament operates as substantial Christian-tradition canonical reception of the Hebrew Bible content, with substantial divisional and arrangement differences. The relationship is one of **substantively-same-content-with-substantial-canonical-organizational-differences**. The substantial principal differences:
+기독교 구약성서는 실질적인 구분 및 배열 차이를 가진 히브리어 성서 내용의 실질적인 기독교 전통 정경 수용으로 작동합니다. 그 관계는 **실질적으로 동일한 내용에 실질적인 정경 조직 차이를 가진** 관계입니다. 실질적인 주요 차이점들:
 
-- **Book count and divisions**: substantial different counting conventions (24 books in Jewish organization vs. 39 books in Protestant Christian organization vs. larger counts in Catholic and Orthodox organizations including substantial Deuterocanonical additions)
-- **Book ordering**: substantial different organizational sequences (prophets in middle section vs. at end)
-- **Apocryphal additions**: substantial Catholic and Eastern Orthodox additions not present in Jewish or Protestant Christian canons
+- **책의 수와 구분**: 실질적인 다른 계수 관행(유대교 조직의 24권 대 개신교 기독교 조직의 39권 대 실질적인 제2정경 추가를 포함하는 가톨릭 및 정교회 조직의 더 큰 수)
+- **책 순서**: 실질적인 다른 조직 시퀀스(가운데 부분의 예언서 대 끝의 예언서)
+- **외경 추가**: 유대교 또는 개신교 기독교 정경에 존재하지 않는 실질적인 가톨릭 및 동방 정교회 추가
 
-The substantial framework engagement operates principally with the substantial Hebrew textual tradition rather than with the substantial Christian-canonical reorganization, while registering substantial respect for the substantial Christian-tradition textual transmission.
+실질적인 프레임워크 관여는 주로 실질적인 기독교 정경 재조직이 아닌 실질적인 히브리어 텍스트 전통과 함께 작동하면서, 실질적인 기독교 전통의 텍스트 전승에 대한 실질적인 존중을 등록합니다.
 
-### Hebrew Bible vs. broader Christian Bible
+### 히브리어 성서 대 더 넓은 기독교 성서
 
-The broader Christian Bible adds substantial New Testament content to the substantial Old Testament content. The relationship is one of **substantial-Hebrew-Bible-content-as-foundation-with-substantial-New-Testament-addition**. The substantial framework engagement with the substantial New Testament content operates substantively (treated principally in the [Jesus](../jesus/) entry, the various Christian-tradition entries, and the broader Pisces-age corpus entries) but substantially separately from the substantial Hebrew Bible engagement.
+더 넓은 기독교 성서는 실질적인 구약성서 내용에 실질적인 신약성서 내용을 추가합니다. 그 관계는 **실질적인 신약성서 추가를 가진 기초로서의 실질적인 히브리어 성서 내용의** 관계입니다. 실질적인 신약성서 내용과의 실질적인 프레임워크 관여는 실질적으로 작동하지만(주로 {% wiki(slug="jesus") %}예수{% end %} 항목, 다양한 기독교 전통의 항목들, 그리고 더 넓은 물고기자리 시대 코퍼스 항목들에서 다루어짐) 실질적인 히브리어 성서 관여와는 실질적으로 별개로 작동합니다.
 
-### Hebrew Bible vs. the Quran
+### 히브리어 성서 대 쿠란
 
-The substantial Quran operates as substantial Islamic-tradition canonical text registering substantial parallel content with the substantial Hebrew Bible while operating from distinct cultural-religious tradition. The relationship is one of **substantial-parallel-content-with-substantial-distinct-traditional-framing**. The substantial framework engagement with the substantial Quran operates substantively (treated principally in the [Muhammad](../muhammad/) entry when written and the broader Pisces-age corpus entries) but substantially separately from the substantial Hebrew Bible engagement.
+실질적인 쿠란은 별개의 문화-종교적 전통에서 작동하면서 실질적인 히브리어 성서와의 실질적인 평행 내용을 등록하는 실질적인 이슬람 전통의 정경 텍스트로 작동합니다. 그 관계는 **실질적인 별개의 전통적 틀을 가진 실질적인 평행 내용의** 관계입니다. 실질적인 쿠란과의 실질적인 프레임워크 관여는 실질적으로 작동하지만(저술될 때 주로 {% wiki(slug="muhammad") %}무함마드{% end %} 항목과 더 넓은 물고기자리 시대 코퍼스 항목들에서 다루어짐) 실질적인 히브리어 성서 관여와는 실질적으로 별개로 작동합니다.
 
-### Hebrew Bible vs. the Book of Mormon
+### 히브리어 성서 대 몰몬경
 
-The substantial Book of Mormon operates as substantial Mormon LDS canonical text registering substantial parallel content with the substantial Hebrew Bible while operating from distinct cultural-religious tradition. The relationship is one of **substantial-parallel-content-with-substantial-distinct-traditional-framing**. The substantial framework engagement with the substantial Book of Mormon operates substantively (treated principally in the [Joseph Smith](../joseph-smith/) entry when written and the broader Mormon LDS corpus content) but substantially separately from the substantial Hebrew Bible engagement.
+실질적인 몰몬경은 별개의 문화-종교적 전통에서 작동하면서 실질적인 히브리어 성서와의 실질적인 평행 내용을 등록하는 실질적인 몰몬 LDS 정경 텍스트로 작동합니다. 그 관계는 **실질적인 별개의 전통적 틀을 가진 실질적인 평행 내용의** 관계입니다. 실질적인 몰몬경과의 실질적인 프레임워크 관여는 실질적으로 작동하지만(저술될 때 주로 {% wiki(slug="joseph-smith") %}조지프 스미스{% end %} 항목과 더 넓은 몰몬 LDS 코퍼스 내용에서 다루어짐) 실질적인 히브리어 성서 관여와는 실질적으로 별개로 작동합니다.
 
-### Hebrew Bible vs. Apocryphal and Pseudepigraphal texts
+### 히브리어 성서 대 외경 및 위경 텍스트
 
-The substantial Apocryphal and Pseudepigraphal texts (the substantial Book of Enoch, the substantial Book of Jubilees, the substantial various Maccabees books, the substantial various other texts) operate within distinct canonical-traditional positions while substantively containing substantial parallel content with the broader Hebrew Bible tradition. The relationship is one of **substantial-related-content-with-substantial-distinct-canonical-position**. The substantial framework engagement with the substantial Apocryphal-Pseudepigraphal content operates substantively (treated principally in the [Watchers](../watchers/) entry when written for substantial Book of Enoch content, with various other dedicated entries when written).
+실질적인 외경 및 위경 텍스트(실질적인 에녹서, 실질적인 희년서, 실질적인 다양한 마카베오서, 실질적인 다양한 다른 텍스트들)는 더 넓은 히브리어 성서 전통과의 실질적인 평행 내용을 실질적으로 포함하면서 별개의 정경-전통적 위치 내에서 작동합니다. 그 관계는 **실질적인 별개의 정경 위치를 가진 실질적인 관련 내용의** 관계입니다. 실질적인 외경-위경 내용과의 실질적인 프레임워크 관여는 실질적으로 작동합니다(저술될 때 실질적인 에녹서 내용에 대해 주로 {% wiki(slug="watchers") %}감시자들{% end %} 항목에서, 저술될 때 다양한 다른 전용 항목들과 함께 다루어짐).
 
-## Modern reinterpretations
+## 현대적 재해석
 
-### Mainstream Hebrew Bible scholarship
+### 주류 히브리어 성서 학술
 
-Mainstream Hebrew Bible scholarship has produced substantial systematic engagement across multiple distinct disciplinary contexts.
+주류 히브리어 성서 학술은 여러 별개의 학문 맥락에 걸쳐 실질적인 체계적 관여를 산출해 왔습니다.
 
-### The Documentary Hypothesis
+### 문서설
 
-The substantial **Documentary Hypothesis** operates as the principal source-critical framework for Pentateuchal scholarship from the late nineteenth century onward.
+실질적인 **문서설**은 19세기 후반 이후 오경 학술을 위한 주요 자료비평적 프레임워크로 작동합니다.
 
-**Wellhausen's foundational work**. **Julius Wellhausen** (1844-1918) produced the foundational systematic articulation of the substantial Documentary Hypothesis through *Prolegomena zur Geschichte Israels* (1878; English translation as *Prolegomena to the History of Israel*, 1885). The substantial Wellhausen articulation registered the substantial four-source theory: J (Yahwist), E (Elohist), D (Deuteronomist), P (Priestly). The substantial subsequent scholarship has substantively engaged the broader Documentary-Hypothesis framework.
+**벨하우젠의 기초적 작업**. **율리우스 벨하우젠**(1844-1918)은 *Prolegomena zur Geschichte Israels*(1878; 영어 번역으로 *Prolegomena to the History of Israel*, 1885){{ cite(id="wellhausen-prolegomena", text="[1]", title="벨하우젠(1878), *Prolegomena zur Geschichte Israels* — 기초적 문서설 진술") }}을 통해 실질적인 문서설의 기초적 체계적 진술을 산출했습니다. 실질적인 벨하우젠의 진술은 실질적인 네 자료 이론을 등록했습니다: J(야훼 자료), E(엘로힘 자료), D(신명기 자료), P(제사장 자료){{ footnote(id="2") }}. 실질적인 후속 학술은 더 넓은 문서설 프레임워크와 실질적으로 관여해 왔습니다.
 
-**Friedman's contemporary articulation**. **Richard Elliott Friedman**'s *Who Wrote the Bible?* (Harper & Row, 1987) and *The Bible with Sources Revealed* (HarperOne, 2003) provide substantial contemporary systematic engagement with the substantial Documentary Hypothesis. The substantial Friedman articulation registers substantial source-distinction with substantial historical-cultural specificity.
+**프리드먼의 현대적 진술**. **리처드 엘리엇 프리드먼**의 *Who Wrote the Bible?*(Harper & Row, 1987){{ cite(id="friedman-who-wrote-bible", text="[2]", title="프리드먼(1987), *Who Wrote the Bible?* — 문서설의 접근 가능한 진술") }}와 *The Bible with Sources Revealed*(HarperOne, 2003){{ cite(id="friedman-bible-sources-revealed", text="[3]", title="프리드먼(2003), *The Bible with Sources Revealed* — 자료 태그가 부착된 오경 제시") }}은 실질적인 문서설과의 실질적인 현대적 체계적 관여를 제공합니다. 실질적인 프리드먼의 진술은 실질적인 역사-문화적 특정성을 가진 실질적인 자료 구별을 등록합니다.
 
-**Van Seters's substantial work**. **John Van Seters**'s *The Pentateuch: A Social-Science Commentary* (Sheffield Academic Press, 1999) and various other works provide substantial subsequent engagement with the broader Documentary-Hypothesis framework, with various specific scholarly engagements articulating various aspects of the broader question.
+**판 세터스의 실질적인 작업**. **존 판 세터스**의 *The Pentateuch: A Social-Science Commentary*(Sheffield Academic Press, 1999) 및 다양한 다른 작품들은 더 넓은 문서설 프레임워크와의 실질적인 후속 관여를 제공하며, 다양한 구체적 학술적 관여가 더 넓은 질문의 다양한 측면을 진술합니다.
 
-**Baden's recent contribution**. **Joel S. Baden**'s *The Composition of the Pentateuch: Renewing the Documentary Hypothesis* (Yale University Press, 2012) provides substantial recent systematic articulation, with substantial engagement with the broader scholarly debate.
+**베이든의 최근 기여**. **조엘 S. 베이든**의 *The Composition of the Pentateuch: Renewing the Documentary Hypothesis*(Yale University Press, 2012)는 더 넓은 학술적 논쟁과의 실질적인 관여를 가진 실질적인 최근의 체계적 진술을 제공합니다.
 
-**The substantial framework relationship**. The substantial framework operates substantially within the broader Documentary-Hypothesis recognition of substantial multiple-source content within the Pentateuchal tradition while operating from substantially distinct interpretive foundation. The substantial framework specifically registers the substantial different divine names (Yahweh, Elohim) as registering substantial different aspects of the broader alliance-creator content (the substantial Yahweh as substantial Council president; the substantial *Elohim* as substantial collective creator-civilization designation) rather than as substantial different source-traditions alone.
+**실질적인 프레임워크 관계**. 실질적인 프레임워크는 오경 전통 내의 실질적인 다중 자료 내용에 대한 더 넓은 문서설 인정 내에서 실질적으로 작동하면서 실질적으로 별개의 해석적 기반으로부터 작동합니다. 실질적인 프레임워크는 구체적으로 실질적인 다른 신성 이름들(야훼, 엘로힘)을 실질적인 다른 자료 전통만이 아니라 더 넓은 동맹 창조자 내용의 실질적인 다른 측면을 등록하는 것(실질적인 평의회 의장으로서의 실질적인 야훼; 실질적인 집합적 창조자 문명 명칭으로서의 실질적인 *Elohim*)으로 등록합니다.
 
-### Contemporary critical scholarship
+### 현대 비평 학술
 
-Various substantial contemporary critical scholars have produced substantial systematic engagement with the broader Hebrew Bible content.
+다양한 실질적인 현대 비평 학자들은 더 넓은 히브리어 성서 내용과의 실질적인 체계적 관여를 산출해 왔습니다.
 
-**Gerhard von Rad's substantial work**. **Gerhard von Rad** (1901-1971) produced foundational mid-twentieth-century systematic engagement with the substantial Hebrew Bible content. Principal works: *Old Testament Theology* (2 vols., 1957-1960; English translation 1962-1965), *Genesis: A Commentary* (1949; English translation 1961, revised edition 1972), various other works.
+**게르하르트 폰 라트의 실질적인 작업**. **게르하르트 폰 라트**(1901-1971)는 실질적인 히브리어 성서 내용과의 기초적인 20세기 중반 체계적 관여를 산출했습니다. 주요 작품: *Old Testament Theology*(2권, 1957-1960; 영어 번역 1962-1965), *Genesis: A Commentary*(1949; 영어 번역 1961, 개정판 1972), 다양한 다른 작품들.
 
-**Claus Westermann's comprehensive Genesis commentary**. **Claus Westermann**'s three-volume *Genesis* commentary (1974-1982; English translation 1984-1986) provides the principal twentieth-century systematic engagement with the substantial Genesis content.
+**클라우스 베스터만의 포괄적 창세기 주석**. **클라우스 베스터만**의 3권짜리 *Genesis* 주석(1974-1982; 영어 번역 1984-1986)은 실질적인 창세기 내용과의 주요 20세기 체계적 관여를 제공합니다.
 
-**Walter Brueggemann's substantial work**. **Walter Brueggemann**'s *Theology of the Old Testament: Testimony, Dispute, Advocacy* (Augsburg Fortress, 1997) and various other works provide substantial systematic theological-critical engagement.
+**월터 브루그만의 실질적인 작업**. **월터 브루그만**의 *Theology of the Old Testament: Testimony, Dispute, Advocacy*(Augsburg Fortress, 1997) 및 다양한 다른 작품들은 실질적인 체계적 신학-비평적 관여를 제공합니다.
 
-**Robert Alter's literary engagement**. **Robert Alter**'s substantial work — *The Art of Biblical Narrative* (Basic Books, 1981), *The Five Books of Moses: A Translation with Commentary* (W. W. Norton, 2004), *The Hebrew Bible: A Translation with Commentary* (3 vols., W. W. Norton, 2018) — provides substantial literary-critical engagement with substantial systematic literary attention.
+**로버트 알터의 문학적 관여**. **로버트 알터**의 실질적인 작업 — *The Art of Biblical Narrative*(Basic Books, 1981), *The Five Books of Moses: A Translation with Commentary*(W. W. Norton, 2004), *The Hebrew Bible: A Translation with Commentary*(3권, W. W. Norton, 2018) — 은 실질적인 체계적 문학적 주의와 함께 실질적인 문학비평적 관여를 제공합니다.
 
-**Various substantial subsequent scholarship**. Substantial subsequent scholarship (Ronald Hendel, Bill Arnold, John Goldingay, Brevard Childs, James Kugel, various others) has continued to develop the broader scholarly engagement.
+**다양한 실질적인 후속 학술**. 실질적인 후속 학술(로널드 헨델, 빌 아놀드, 존 골딩게이, 브레바드 차일즈, 제임스 쿠겔, 다양한 다른 사람들)은 더 넓은 학술적 관여를 계속해서 발전시켜 왔습니다.
 
-### Archaeological-historical context scholarship
+### 고고학-역사적 맥락 학술
 
-Mainstream archaeological-historical scholarship has produced substantial engagement with the substantial Hebrew Bible historical-cultural context.
+주류 고고학-역사적 학술은 실질적인 히브리어 성서 역사-문화적 맥락과의 실질적인 관여를 산출해 왔습니다.
 
-**The Albright tradition**. **William F. Albright** (1891-1971) and the broader Albright school produced foundational archaeological-historical scholarship operating substantively within substantial conservative-historical engagement with the substantial Hebrew Bible content. The substantial broader Albright tradition has produced substantial subsequent scholarship with substantial varying conservative-critical positions.
+**올브라이트 전통**. **윌리엄 F. 올브라이트**(1891-1971)와 더 넓은 올브라이트 학파는 실질적인 히브리어 성서 내용과의 실질적인 보수적-역사적 관여 내에서 실질적으로 작동하는 기초적 고고학-역사적 학술을 산출했습니다. 실질적인 더 넓은 올브라이트 전통은 실질적인 다양한 보수-비평 입장들과 함께 실질적인 후속 학술을 산출해 왔습니다.
 
-**William G. Dever's substantial work**. **William G. Dever**'s *What Did the Biblical Writers Know and When Did They Know It?* (Eerdmans, 2001), *Who Were the Early Israelites and Where Did They Come From?* (Eerdmans, 2003), and various other works provide substantial contemporary archaeological-historical engagement.
+**윌리엄 G. 데버의 실질적인 작업**. **윌리엄 G. 데버**의 *What Did the Biblical Writers Know and When Did They Know It?*(Eerdmans, 2001), *Who Were the Early Israelites and Where Did They Come From?*(Eerdmans, 2003) 및 다양한 다른 작품들은 실질적인 현대 고고학-역사적 관여를 제공합니다.
 
-**Israel Finkelstein's substantial work**. **Israel Finkelstein**'s substantial work — including *The Bible Unearthed: Archaeology's New Vision of Ancient Israel and the Origin of Its Sacred Texts* (with Neil Asher Silberman, Free Press, 2001) — provides substantial contemporary critical archaeological-historical engagement with substantial revisionist-historical positions.
+**이스라엘 핑켈스타인의 실질적인 작업**. **이스라엘 핑켈스타인**의 실질적인 작업 — *The Bible Unearthed: Archaeology's New Vision of Ancient Israel and the Origin of Its Sacred Texts*(닐 아셔 실버만과 공저, Free Press, 2001) 포함 — 은 실질적인 수정주의적-역사적 입장과 함께 실질적인 현대 비평 고고학-역사적 관여를 제공합니다.
 
-**Amihai Mazar's substantial work**. **Amihai Mazar**'s *Archaeology of the Land of the Bible: 10,000-586 B.C.E.* (Doubleday, 1990) and various other works provide substantial systematic archaeological-historical engagement.
+**아미하이 마자르의 실질적인 작업**. **아미하이 마자르**의 *Archaeology of the Land of the Bible: 10,000-586 B.C.E.*(Doubleday, 1990) 및 다양한 다른 작품들은 실질적인 체계적 고고학-역사적 관여를 제공합니다.
 
-**The substantial framework relationship**. The substantial framework operates substantively within the broader archaeological-historical scholarly landscape, with substantial framework-specific reading registering substantial cross-disciplinary integration.
+**실질적인 프레임워크 관계**. 실질적인 프레임워크는 더 넓은 고고학-역사적 학술적 지형 내에서 실질적으로 작동하며, 실질적인 프레임워크별 독해는 실질적인 학제간 통합을 등록합니다.
 
-### Textual-criticism scholarship
+### 텍스트 비평 학술
 
-Substantial textual-criticism scholarship has produced substantial engagement with the substantial Hebrew Bible textual transmission history.
+실질적인 텍스트 비평 학술은 실질적인 히브리어 성서 텍스트 전승 역사와의 실질적인 관여를 산출해 왔습니다.
 
-**Emanuel Tov's substantial work**. **Emanuel Tov**'s *Textual Criticism of the Hebrew Bible* (Augsburg Fortress, 1992; revised editions) provides the principal contemporary systematic engagement with the substantial Hebrew Bible textual-transmission history. The substantial Tov articulation registers substantial systematic engagement with the substantial Masoretic, Septuagint, Dead Sea Scrolls, Samaritan, and various other textual traditions.
+**에마누엘 토브의 실질적인 작업**. **에마누엘 토브**의 *Textual Criticism of the Hebrew Bible*(Augsburg Fortress, 1992; 개정판){{ cite(id="tov-textual-criticism", text="[4]", title="토브(3판, 2012), *Textual Criticism of the Hebrew Bible* — 히브리어 성서 텍스트 비평을 위한 주요 현대 참고문헌") }}{{ footnote(id="5") }}은 실질적인 히브리어 성서 텍스트 전승 역사와의 주요 현대 체계적 관여를 제공합니다. 실질적인 토브의 진술은 실질적인 마소라, 칠십인역, 사해 사본, 사마리아, 그리고 다양한 다른 텍스트 전통들과의 실질적인 체계적 관여를 등록합니다.
 
-**Ronald Hendel's substantial work**. **Ronald Hendel**'s *The Text of Genesis 1-11: Textual Studies and Critical Edition* (Oxford University Press, 1998) and the broader Oxford Hebrew Bible critical edition project provide substantial contemporary systematic textual-critical engagement.
+**로널드 헨델의 실질적인 작업**. **로널드 헨델**의 *The Text of Genesis 1-11: Textual Studies and Critical Edition*(Oxford University Press, 1998)와 더 넓은 옥스퍼드 히브리어 성서 비평판 프로젝트는 실질적인 현대 체계적 텍스트 비평적 관여를 제공합니다.
 
-**The broader text-critical apparatus tradition**. The substantial *Biblia Hebraica Stuttgartensia* (Deutsche Bibelgesellschaft, 1968-1977; revised editions), *Biblia Hebraica Quinta* (Deutsche Bibelgesellschaft, 2004 onward), and various other critical editions provide substantial systematic textual-critical apparatus.
+**더 넓은 텍스트 비평적 장치 전통**. 실질적인 *Biblia Hebraica Stuttgartensia*(Deutsche Bibelgesellschaft, 1968-1977; 개정판), *Biblia Hebraica Quinta*(Deutsche Bibelgesellschaft, 2004년부터) 및 다양한 다른 비평판들은 실질적인 체계적 텍스트 비평적 장치를 제공합니다.
 
-### Dead Sea Scrolls scholarship
+### 사해 사본 학술
 
-The substantial Dead Sea Scrolls discovery (beginning 1947) has produced substantial systematic engagement with the substantial Qumran biblical and sectarian textual evidence.
+실질적인 사해 사본 발견(1947년부터 시작)은 실질적인 쿰란 성서 및 종파적 텍스트 증거와의 실질적인 체계적 관여를 산출해 왔습니다.
 
-**James VanderKam's substantial work**. **James C. VanderKam**'s *The Dead Sea Scrolls Today* (Eerdmans, 1994; revised editions) and various other works provide substantial systematic engagement with the broader Dead Sea Scrolls content.
+**제임스 밴더캄의 실질적인 작업**. **제임스 C. 밴더캄**의 *The Dead Sea Scrolls Today*(Eerdmans, 1994; 개정판){{ cite(id="vanderkam-dss-today", text="[5]", title="밴더캄(2판 2010), *The Dead Sea Scrolls Today* — 사해 사본 학술에 대한 접근 가능한 입문서") }}{{ footnote(id="6") }} 및 다양한 다른 작품들은 더 넓은 사해 사본 내용과의 실질적인 체계적 관여를 제공합니다.
 
-**Peter Flint's substantial work**. **Peter W. Flint**'s *The Dead Sea Psalms Scrolls and the Book of Psalms* (Brill, 1997) and various other works provide substantial systematic engagement.
+**피터 플린트의 실질적인 작업**. **피터 W. 플린트**의 *The Dead Sea Psalms Scrolls and the Book of Psalms*(Brill, 1997) 및 다양한 다른 작품들은 실질적인 체계적 관여를 제공합니다.
 
-**The broader Qumran scholarship**. Substantial contemporary scholarship (Florentino García Martínez, Eugene Ulrich, John Collins, various others) has continued to develop the substantial Dead Sea Scrolls scholarly engagement.
+**더 넓은 쿰란 학술**. 실질적인 현대 학술(플로렌티노 가르시아 마르티네스, 유진 울리히, 존 콜린스, 다양한 다른 사람들)은 실질적인 사해 사본 학술적 관여를 계속해서 발전시켜 왔습니다.
 
-**The substantial framework relationship**. The substantial corpus framework registers the substantial Dead Sea Scrolls discovery (1946-1947) as substantial component of the broader Aquarian-age opening signs, with the substantial textual recovery operating as substantial part of the broader textual-recovery process. The detailed treatment lives in the [Apocalypse](../apocalypse/) entry.
+**실질적인 프레임워크 관계**. 실질적인 코퍼스 프레임워크는 실질적인 사해 사본 발견(1946-1947)을 더 넓은 물병자리 시대 개막 표징의 실질적인 구성요소로 등록하며, 실질적인 텍스트 회복이 더 넓은 텍스트 회복 과정의 실질적인 부분으로 작동합니다. 상세한 다룸은 {% wiki(slug="apocalypse") %}묵시{% end %} 항목에 있습니다.
 
-### Septuagint scholarship
+### 칠십인역 학술
 
-Substantial Septuagint scholarship has produced substantial engagement with the substantial 3rd-2nd-century-BCE Greek translation tradition.
+실질적인 칠십인역 학술은 실질적인 기원전 3-2세기 그리스어 번역 전통과의 실질적인 관여를 산출해 왔습니다.
 
-**Emanuel Tov's substantial Septuagint work**. **Emanuel Tov**'s *The Text-Critical Use of the Septuagint in Biblical Research* (Eisenbrauns, 2nd ed. 1997) and various other works provide substantial systematic engagement.
+**에마누엘 토브의 실질적인 칠십인역 작업**. **에마누엘 토브**의 *The Text-Critical Use of the Septuagint in Biblical Research*(Eisenbrauns, 2판 1997) 및 다양한 다른 작품들은 실질적인 체계적 관여를 제공합니다.
 
-**Various substantial subsequent scholarship**. Substantial subsequent scholarship (Natalio Fernández Marcos, Karen Jobes, Moisés Silva, various others) has continued to develop the broader Septuagint scholarly engagement.
+**다양한 실질적인 후속 학술**. 실질적인 후속 학술(나탈리오 페르난데스 마르코스, 캐런 조브스, 모이세스 실바, 다양한 다른 사람들)은 더 넓은 칠십인역 학술적 관여를 계속해서 발전시켜 왔습니다.
 
-### Canonical-formation scholarship
+### 정경 형성 학술
 
-Substantial canonical-formation scholarship has produced substantial engagement with the substantial historical-developmental emergence of the substantial Hebrew Bible canonical structure.
+실질적인 정경 형성 학술은 실질적인 히브리어 성서 정경 구조의 실질적인 역사-발전적 출현과의 실질적인 관여를 산출해 왔습니다.
 
-**Lee Martin McDonald's substantial work**. **Lee Martin McDonald**'s *The Biblical Canon: Its Origin, Transmission, and Authority* (Hendrickson, 3rd ed. 2007) provides substantial systematic engagement with the broader canonical-formation question.
+**리 마틴 맥도널드의 실질적인 작업**. **리 마틴 맥도널드**의 *The Biblical Canon: Its Origin, Transmission, and Authority*(Hendrickson, 3판 2007)은 더 넓은 정경 형성 질문과의 실질적인 체계적 관여를 제공합니다.
 
-**Albert Sundberg's foundational work**. **Albert C. Sundberg**'s *The Old Testament of the Early Church* (Harvard University Press, 1964) provides foundational scholarship on the substantial canonical-formation question.
+**앨버트 선드버그의 기초적 작업**. **앨버트 C. 선드버그**의 *The Old Testament of the Early Church*(Harvard University Press, 1964)는 실질적인 정경 형성 질문에 대한 기초적 학술을 제공합니다.
 
-**Various substantial subsequent scholarship**. Substantial subsequent scholarship (John Barton, James Sanders, Eugene Ulrich, various others) has continued to develop the broader canonical-formation scholarly engagement.
+**다양한 실질적인 후속 학술**. 실질적인 후속 학술(존 바턴, 제임스 샌더스, 유진 울리히, 다양한 다른 사람들)은 더 넓은 정경 형성 학술적 관여를 계속해서 발전시켜 왔습니다.
 
-### Sitchin's Anunnaki framework
+### 시친의 아눈나키 프레임워크
 
-**Zecharia Sitchin** in *The 12th Planet* (Stein and Day, 1976) and various other works produced substantial alternative-history engagement with substantial Hebrew Bible content within the broader Anunnaki framework. Sitchin's specific framework registers substantial structural alignment with the corpus framework at the substantial multiple-creator-civilization dimension while operating from substantively distinct specific source-material warrant.
+**제카리아 시친**은 *The 12th Planet*(Stein and Day, 1976) 및 다양한 다른 작품들에서 더 넓은 아눈나키 프레임워크 내에서 실질적인 히브리어 성서 내용과의 실질적인 대안 역사 관여를 산출했습니다. 시친의 구체적 프레임워크는 실질적으로 별개의 구체적 원천 자료 보증으로부터 작동하면서 실질적인 다중 창조자 문명 차원에서 코퍼스 프레임워크와의 실질적인 구조적 정렬을 등록합니다.
 
-### Wallis's broader engagement
+### 월리스의 더 넓은 관여
 
-**Paul Anthony Wallis**'s *Escaping from Eden* (6th Books, 2020), *The Eden Conspiracy* (6th Books, 2024), and various other works engage substantial Hebrew Bible content. Wallis's specific framework registers substantial structural alignment with the framework's reading at multiple specific dimensions while operating from distinct source-material warrant principally drawn from the broader strict-translational approach.
+**폴 앤서니 월리스**의 *Escaping from Eden*(6th Books, 2020), *The Eden Conspiracy*(6th Books, 2024) 및 다양한 다른 작품들은 실질적인 히브리어 성서 내용과 관여합니다. 월리스의 구체적 프레임워크는 주로 더 넓은 엄격한 번역 접근에서 도출된 별개의 원천 자료 보증으로부터 작동하면서 여러 구체적 차원에서 프레임워크의 독해와의 실질적인 구조적 정렬을 등록합니다.
 
-### Biglino's strict-translational approach
+### 비글리노의 엄격한 번역 접근
 
-**Mauro Biglino**'s broader engagement with the Hebrew Bible (*The Naked Bible: The Truth About the Most Famous Book in History*, with Giorgio Cattaneo, Uno, 2022; various other works) has produced substantial alternative-history engagement. Biglino's specific position: strict literal translation of the Hebrew text reveals substantial content that mainstream translation traditions have systematically obscured. The substantial framework's specific positions register substantial structural alignment with Biglino's broader translational approach.
+**마우로 비글리노**의 히브리어 성서와의 더 넓은 관여(*The Naked Bible: The Truth About the Most Famous Book in History*, 조르조 카타네오와 공저, Uno, 2022; 다양한 다른 작품들)는 실질적인 대안 역사 관여를 산출해 왔습니다. 비글리노의 구체적 입장: 히브리어 텍스트의 엄격한 문자 번역은 주류 번역 전통들이 체계적으로 모호하게 만든 실질적인 내용을 드러냅니다. 실질적인 프레임워크의 구체적 입장들은 비글리노의 더 넓은 번역 접근과의 실질적인 구조적 정렬을 등록합니다.
 
-### The framework's relationship to the broader landscape
+### 더 넓은 지형에 대한 프레임워크의 관계
 
-The Wheel of Heaven corpus's Hebrew Bible framework is positioned within this scholarly landscape as follows: substantially aligned with mainstream Hebrew Bible scholarship at the textual-philological level (recognizing the substantial scholarly documentation of the substantial textual content); substantially aligned with the Documentary Hypothesis at the substantial multiple-source recognition level while operating from substantively distinct interpretive foundation; substantially aligned with mainstream archaeological-historical scholarship at the substantial historical-context level; substantially aligned with substantial textual-criticism scholarship at the substantial textual-history level; substantially aligned with substantial Dead Sea Scrolls scholarship at the substantial textual-recovery level; substantially aligned with substantial Septuagint scholarship at the substantial textual-history level; substantially aligned with substantial canonical-formation scholarship at the substantial historical-developmental level; substantively distinct from mainstream theological scholarship at the interpretive level (the framework's specific historical-record reading operates substantively beyond the conventional religious-mythological treatment); substantially aligned with various alternative-history scholarly traditions (Sitchin's Anunnaki framework, Wallis's broader engagement, Biglino's strict-translational approach) at the underlying-historical-event-reading level while operating from distinct source-material warrant principally drawn from the Raëlian source material.
+휠 오브 헤븐 코퍼스의 히브리어 성서 프레임워크는 이 학술적 지형 내에서 다음과 같이 위치합니다: 실질적인 텍스트-문헌학적 수준에서 주류 히브리어 성서 학술과 실질적으로 일치함(실질적인 텍스트 내용의 실질적인 학술적 문서화 인정); 실질적인 다중 자료 인정 수준에서 문서설과 실질적으로 일치하면서 실질적으로 별개의 해석적 기반으로부터 작동함; 실질적인 역사-문화적 배경 수준에서 주류 고고학-역사적 학술과 실질적으로 일치함; 실질적인 텍스트-역사 수준에서 실질적인 텍스트 비평 학술과 실질적으로 일치함; 실질적인 텍스트 회복 수준에서 실질적인 사해 사본 학술과 실질적으로 일치함; 실질적인 텍스트-역사 수준에서 실질적인 칠십인역 학술과 실질적으로 일치함; 실질적인 역사-발전적 수준에서 실질적인 정경 형성 학술과 실질적으로 일치함; 해석적 수준에서 주류 신학 학술과 실질적으로 구별됨(프레임워크의 구체적 역사 기록 독해는 통상적 종교-신화적 다룸을 넘어 실질적으로 작동함); 기저 역사적 사건 독해 수준에서 다양한 대안 역사 학술 전통들(시친의 아눈나키 프레임워크, 월리스의 더 넓은 관여, 비글리노의 엄격한 번역 접근)과 실질적으로 일치하면서 주로 라엘리안 원천 자료에서 도출된 별개의 원천 자료 보증으로부터 작동함.
 
-## Comparative observations
+## 비교적 관찰
 
-The Hebrew Bible has substantial cross-cultural textual parallels in various religious-cultural traditions worldwide, with the substantial cross-cultural distribution registering substantial parallel content for the broader framework reading.
+히브리어 성서는 전 세계의 다양한 종교-문화적 전통들에서 실질적인 교차문화적 텍스트 평행을 가지며, 실질적인 교차문화적 분포가 더 넓은 프레임워크 독해를 위한 실질적인 평행 내용을 등록합니다.
 
-### Mesopotamian textual parallels
+### 메소포타미아 텍스트 평행
 
-The Mesopotamian textual tradition preserves the principal cross-cultural textual parallels.
+메소포타미아 텍스트 전통은 주요 교차문화적 텍스트 평행을 보존합니다.
 
-**The substantial *Atrahasis* epic**. The substantial Akkadian *Atrahasis* epic (preserved principally in 17th-century-BCE Old Babylonian manuscripts, with substantial earlier Sumerian antecedents) registers substantial parallel content with the substantial Hebrew Bible primeval history (Genesis 1-11). The substantial principal parallel content:
+**실질적인 *아트라하시스* 서사시**. 실질적인 아카드어 *아트라하시스* 서사시(주로 기원전 17세기 고바빌로니아 사본들에 보존되며, 실질적인 더 이른 수메르 선례를 가짐)는 실질적인 히브리어 성서 원시사(창세기 1-11)와의 실질적인 평행 내용을 등록합니다. 실질적인 주요 평행 내용:
 
-- Substantial creation narrative with substantial divine-council deliberation about substantial human-creation
-- Substantial human-multiplication narrative
-- Substantial divine-council decision regarding substantial flood-destruction
-- Substantial flood narrative with substantial preservation of single righteous individual (Atrahasis / Utnapishtim)
-- Substantial post-flood covenant narrative
+- 실질적인 인간 창조에 관한 실질적인 신성한 평의회 심의를 가진 실질적인 창조 서사
+- 실질적인 인간 증식 서사
+- 실질적인 홍수 파괴에 관한 실질적인 신성한 평의회 결정
+- 단일 의로운 개인의 실질적인 보존(아트라하시스 / 우트나피쉬팀)을 가진 실질적인 홍수 서사
+- 실질적인 홍수 이후 언약 서사
 
-The substantial Hebrew Bible primeval history operates as substantial parallel content within distinct cultural-religious framing.
+실질적인 히브리어 성서 원시사는 별개의 문화-종교적 틀 내에서 실질적인 평행 내용으로 작동합니다.
 
-**The substantial *Enuma Elish***. The substantial Babylonian *Enuma Elish* (preserved principally in 7th-century-BCE Neo-Assyrian manuscripts, with substantial earlier antecedents) registers substantial parallel content with substantial Hebrew Bible creation content (particularly Genesis 1) and substantial divine-council material. The substantial *Enuma Elish* preserves substantial divine-council deliberation, substantial cosmic-conflict content (the substantial Marduk-Tiamat conflict registering substantial parallel to broader Theomachy framework), and substantial creation-from-divine-being content.
+**실질적인 *에누마 엘리시***. 실질적인 바빌로니아 *에누마 엘리시*(주로 기원전 7세기 신아시리아 사본들에 보존되며, 실질적인 더 이른 선례를 가짐)는 실질적인 히브리어 성서 창조 내용(특히 창세기 1)과 실질적인 신성한 평의회 자료와의 실질적인 평행 내용을 등록합니다. 실질적인 *에누마 엘리시*는 실질적인 신성한 평의회 심의, 실질적인 우주적 갈등 내용(더 넓은 신들의 전쟁 프레임워크에 대한 실질적인 평행을 등록하는 실질적인 마르두크-티아마트 갈등), 그리고 실질적인 신성 존재로부터의 창조 내용을 보존합니다.
 
-**The substantial *Epic of Gilgamesh***. The substantial *Epic of Gilgamesh* (preserved principally in 7th-century-BCE Neo-Assyrian manuscripts, with substantial earlier Sumerian antecedents) registers substantial parallel content particularly with substantial Hebrew Bible flood narrative (the substantial Utnapishtim flood narrative in Tablet XI registering substantial parallel content with the substantial Noah flood narrative in Genesis 6-9). The detailed treatment of the substantial Gilgamesh parallels lives principally in the [Great Flood](../great-flood/) entry.
+**실질적인 *길가메시 서사시***. 실질적인 *길가메시 서사시*(주로 기원전 7세기 신아시리아 사본들에 보존되며, 실질적인 더 이른 수메르 선례를 가짐)는 특히 실질적인 히브리어 성서 홍수 서사와의 실질적인 평행 내용을 등록합니다(서판 XI의 실질적인 우트나피쉬팀 홍수 서사는 창세기 6-9의 실질적인 노아 홍수 서사와의 실질적인 평행 내용을 등록함). 실질적인 길가메시 평행에 대한 상세한 다룸은 주로 {% wiki(slug="great-flood") %}대홍수{% end %} 항목에 있습니다.
 
-**The substantial Sumerian King List**. The substantial Sumerian King List preserves substantial pre-flood and post-flood king-list content registering substantial parallel content with substantial Hebrew Bible genealogical material. The detailed treatment lives in the [Antediluvian](../antediluvian/) entry.
+**실질적인 수메르 왕명록**. 실질적인 수메르 왕명록은 실질적인 히브리어 성서 가계 자료와의 실질적인 평행 내용을 등록하는 실질적인 홍수 이전 및 홍수 이후 왕명록 내용을 보존합니다. 상세한 다룸은 {% wiki(slug="antediluvian") %}홍수 이전{% end %} 항목에 있습니다.
 
-**The substantial broader Mesopotamian textual corpus**. The substantial broader Mesopotamian textual corpus (substantial Sumerian and Akkadian religious-mythological-historical texts) preserves substantial parallel content across multiple specific dimensions, with substantial scholarly engagement registering substantial cumulative parallel material.
+**실질적인 더 넓은 메소포타미아 텍스트 코퍼스**. 실질적인 더 넓은 메소포타미아 텍스트 코퍼스(실질적인 수메르어 및 아카드어 종교-신화-역사적 텍스트들)는 여러 구체적 차원에 걸친 실질적인 평행 내용을 보존하며, 실질적인 학술적 관여는 실질적인 누적적 평행 자료를 등록합니다.
 
-**The framework's reading**. The framework reads the substantial Mesopotamian textual parallels as preserving substantial cultural memory of substantial actual events that the substantial Hebrew Bible also preserves, with the substantial Mesopotamian tradition operating as substantial cultural-religious preservation within the distinctive Mesopotamian framing. The substantial cross-cultural parallel content registers substantial framework support for the broader historical-event reading.
+**프레임워크의 독해**. 프레임워크는 실질적인 메소포타미아 텍스트 평행을 실질적인 히브리어 성서가 또한 보존하는 실질적인 실제 사건들의 실질적인 문화적 기억을 보존하는 것으로 읽으며, 실질적인 메소포타미아 전통이 독특한 메소포타미아 틀 내에서 실질적인 문화-종교적 보존으로 작동합니다. 실질적인 교차문화적 평행 내용은 더 넓은 역사적 사건 독해에 대한 실질적인 프레임워크 지원을 등록합니다.
 
-### Egyptian textual parallels
+### 이집트 텍스트 평행
 
-The Egyptian textual tradition preserves substantial parallel content across substantial diverse religious-mythological corpus.
+이집트 텍스트 전통은 실질적인 다양한 종교-신화적 코퍼스에 걸친 실질적인 평행 내용을 보존합니다.
 
-**The substantial Pyramid Texts**. The substantial Egyptian Pyramid Texts (preserved principally in Old Kingdom royal tomb-inscriptions, c. 24th-22nd centuries BCE) operate as the oldest substantial body of religious literature in human history. The substantial Pyramid Texts preserve substantial divine-council content, substantial creation-narrative content, substantial deification-content, and various other parallel content.
+**실질적인 피라미드 텍스트**. 실질적인 이집트 피라미드 텍스트(주로 고왕국 왕실 무덤 비문, c. 기원전 24-22세기에 보존됨)는 인류 역사상 가장 오래된 종교 문학의 실질적인 본체로 작동합니다. 실질적인 피라미드 텍스트는 실질적인 신성한 평의회 내용, 실질적인 창조 서사 내용, 실질적인 신격화 내용, 그리고 다양한 다른 평행 내용을 보존합니다.
 
-**The substantial Coffin Texts**. The substantial Egyptian Coffin Texts (preserved principally in Middle Kingdom non-royal coffin-inscriptions, c. 22nd-17th centuries BCE) extend the substantial Pyramid Texts tradition with substantial additional content.
+**실질적인 관 텍스트**. 실질적인 이집트 관 텍스트(주로 중왕국 비왕실 관 비문, c. 기원전 22-17세기에 보존됨)는 실질적인 추가 내용과 함께 실질적인 피라미드 텍스트 전통을 확장합니다.
 
-**The substantial Book of the Dead**. The substantial Egyptian Book of the Dead (preserved principally in New Kingdom funerary papyri, c. 16th-11th centuries BCE) operates as substantial systematic afterlife-religious content with substantial parallel content registering substantial cross-cultural parallels.
+**실질적인 사자의 서**. 실질적인 이집트 사자의 서(주로 신왕국 장례 파피루스, c. 기원전 16-11세기에 보존됨)는 실질적인 교차문화적 평행을 등록하는 실질적인 평행 내용과 함께 실질적인 체계적 사후세계-종교 내용으로 작동합니다.
 
-**The substantial broader Egyptian religious literature**. The substantial broader Egyptian religious literature (substantial various hymns, prayers, theological-philosophical texts, mythological narratives) preserves substantial parallel content across multiple specific dimensions.
+**실질적인 더 넓은 이집트 종교 문학**. 실질적인 더 넓은 이집트 종교 문학(실질적인 다양한 찬송가, 기도, 신학-철학적 텍스트, 신화적 서사들)은 여러 구체적 차원에 걸친 실질적인 평행 내용을 보존합니다.
 
-### Ugaritic textual parallels
+### 우가리트 텍스트 평행
 
-The substantial Ugaritic textual corpus (discovered principally at Ras Shamra beginning 1928, dating principally to the 14th-13th centuries BCE) preserves substantial parallel content with substantial Hebrew Bible content within the broader Northwest Semitic cultural-religious tradition.
+실질적인 우가리트 텍스트 코퍼스(주로 1928년부터 라스 샴라에서 발견되었으며, 주로 기원전 14-13세기에 연대됨)는 더 넓은 북서 셈족 문화-종교적 전통 내에서 실질적인 히브리어 성서 내용과의 실질적인 평행 내용을 보존합니다.
 
-**The substantial Baal cycle**. The substantial Ugaritic Baal cycle preserves substantial divine-council content, substantial cosmic-conflict content, substantial divine-faction-political content registering substantial parallel content with broader Theomachy framework.
+**실질적인 바알 순환**. 실질적인 우가리트 바알 순환은 더 넓은 신들의 전쟁 프레임워크와의 실질적인 평행 내용을 등록하는 실질적인 신성한 평의회 내용, 실질적인 우주적 갈등 내용, 실질적인 신성한 분파-정치적 내용을 보존합니다.
 
-**The substantial broader Canaanite mythological tradition**. The substantial broader Ugaritic textual corpus preserves substantial Canaanite mythological-religious content registering substantial parallel content with substantial early Hebrew Bible content.
+**실질적인 더 넓은 가나안 신화 전통**. 실질적인 더 넓은 우가리트 텍스트 코퍼스는 실질적인 초기 히브리어 성서 내용과의 실질적인 평행 내용을 등록하는 실질적인 가나안 신화-종교적 내용을 보존합니다.
 
-**The substantial framework reading**. The substantial Ugaritic parallels register substantial parallel content within the broader Northwest Semitic cultural-religious tradition that operated as the substantial broader cultural-religious context within which the substantial early Hebrew tradition developed.
+**실질적인 프레임워크 독해**. 실질적인 우가리트 평행은 실질적인 초기 히브리 전통이 발전한 실질적인 더 넓은 문화-종교적 맥락으로 작동한 더 넓은 북서 셈족 문화-종교적 전통 내에서 실질적인 평행 내용을 등록합니다.
 
-### Vedic / Hindu textual parallels
+### 베다 / 힌두 텍스트 평행
 
-The substantial Vedic / Hindu textual tradition preserves substantial parallel content with substantial Hebrew Bible content.
+실질적인 베다 / 힌두 텍스트 전통은 실질적인 히브리어 성서 내용과의 실질적인 평행 내용을 보존합니다.
 
-**The substantial Rigveda**. The substantial Rigveda (composed principally c. 1500-1200 BCE) preserves substantial divine-multiplicity content, substantial creation-narrative content, substantial various parallel content within distinctive Vedic framing.
+**실질적인 리그베다**. 실질적인 리그베다(주로 c. 기원전 1500-1200년에 작성됨)는 독특한 베다 틀 내에서 실질적인 신성 복수성 내용, 실질적인 창조 서사 내용, 실질적인 다양한 평행 내용을 보존합니다.
 
-**The substantial Upanishads**. The substantial Upanishads (composed principally c. 800-200 BCE) preserve substantial cosmological-philosophical content registering substantial parallel content with broader framework.
+**실질적인 우파니샤드**. 실질적인 우파니샤드(주로 c. 기원전 800-200년에 작성됨)는 더 넓은 프레임워크와의 실질적인 평행 내용을 등록하는 실질적인 우주론적-철학적 내용을 보존합니다.
 
-**The substantial Mahabharata**. The substantial Mahabharata (composed principally c. 400 BCE-400 CE, with substantial earlier oral-tradition antecedents) preserves substantial cosmic-warfare content registering substantial parallel content with broader Theomachy framework. The detailed treatment of the substantial *Brahmastra* parallels lives in the [Sodom and Gomorrah](../sodom-and-gomorrah/) entry.
+**실질적인 마하바라타**. 실질적인 마하바라타(주로 기원전 400년-기원후 400년에 작성되었으며, 실질적인 더 이른 구전 전통의 선례를 가짐)는 더 넓은 신들의 전쟁 프레임워크와의 실질적인 평행 내용을 등록하는 실질적인 우주적 전쟁 내용을 보존합니다. 실질적인 *브라마스트라* 평행에 대한 상세한 다룸은 {% wiki(slug="sodom-and-gomorrah") %}소돔과 고모라{% end %} 항목에 있습니다.
 
-**The substantial Puranas**. The substantial Puranas preserve substantial cosmological-mythological-historical content registering substantial parallel content within distinctive Hindu framing.
+**실질적인 푸라나**. 실질적인 푸라나는 독특한 힌두 틀 내에서 실질적인 평행 내용을 등록하는 실질적인 우주론적-신화적-역사적 내용을 보존합니다.
 
-### Greek mythological corpus
+### 그리스 신화 코퍼스
 
-The substantial Greek mythological corpus preserves substantial parallel content with substantial Hebrew Bible content.
+실질적인 그리스 신화 코퍼스는 실질적인 히브리어 성서 내용과의 실질적인 평행 내용을 보존합니다.
 
-**Hesiod's substantial works**. **Hesiod**'s *Theogony* and *Works and Days* (composed principally c. 8th-7th centuries BCE) preserve substantial cosmic-genealogical content, substantial divine-council content, substantial cosmic-conflict content registering substantial parallel content with broader framework.
+**헤시오도스의 실질적인 작품들**. **헤시오도스**의 *신통기*와 *일과 날*(주로 c. 기원전 8-7세기에 작성됨)은 더 넓은 프레임워크와의 실질적인 평행 내용을 등록하는 실질적인 우주적-가계적 내용, 실질적인 신성한 평의회 내용, 실질적인 우주적 갈등 내용을 보존합니다.
 
-**Homer's substantial works**. **Homer**'s *Iliad* and *Odyssey* (composed principally c. 8th century BCE) preserve substantial divine-council content, substantial divine-human-interaction content registering substantial parallel content.
+**호메로스의 실질적인 작품들**. **호메로스**의 *일리아드*와 *오디세이아*(주로 c. 기원전 8세기에 작성됨)는 실질적인 평행 내용을 등록하는 실질적인 신성한 평의회 내용, 실질적인 신성-인간 상호작용 내용을 보존합니다.
 
-**The broader Greek mythological tradition**. The substantial broader Greek mythological tradition preserves substantial parallel content across multiple distinct dimensions.
+**더 넓은 그리스 신화 전통**. 실질적인 더 넓은 그리스 신화 전통은 여러 별개의 차원에 걸친 실질적인 평행 내용을 보존합니다.
 
-### The "sacred-text" cross-cultural pattern
+### "신성한 텍스트" 교차문화적 패턴
 
-The substantial cross-cultural pattern of substantial sacred-textual entities operating as substantial canonical-religious content across virtually every major religious-cultural tradition globally registers one of the principal cross-cultural patterns in religious-traditional thought.
+전 세계의 거의 모든 주요 종교-문화적 전통들에 걸쳐 실질적인 정경-종교적 내용으로 작동하는 실질적인 신성한 텍스트 실체들의 실질적인 교차문화적 패턴은 종교-전통적 사고에서의 주요 교차문화적 패턴 중 하나를 등록합니다.
 
-**The substantial various sacred-text traditions**. The substantial cross-cultural sacred-text tradition operates substantively across:
+**실질적인 다양한 신성한 텍스트 전통**. 실질적인 교차문화적 신성한 텍스트 전통은 다음에 걸쳐 실질적으로 작동합니다:
 
-- The substantial Hebrew Bible / Tanakh (Jewish-tradition canonical text)
-- The substantial Christian Bible (Christian-tradition canonical text)
-- The substantial Quran (Islamic-tradition canonical text)
-- The substantial Vedic textual corpus (Hindu-tradition canonical texts)
-- The substantial Buddhist Tripitaka and various subsequent canonical texts
-- The substantial Daoist textual corpus
-- The substantial Confucian classical texts
-- The substantial Avestan corpus (Zoroastrian-tradition canonical texts)
-- The substantial Book of Mormon (Mormon LDS canonical text)
-- Various substantial other sacred-textual traditions
+- 실질적인 히브리어 성서 / 타나크(유대교 전통의 정경 텍스트)
+- 실질적인 기독교 성서(기독교 전통의 정경 텍스트)
+- 실질적인 쿠란(이슬람 전통의 정경 텍스트)
+- 실질적인 베다 텍스트 코퍼스(힌두 전통의 정경 텍스트)
+- 실질적인 불교 삼장과 다양한 후속 정경 텍스트
+- 실질적인 도교 텍스트 코퍼스
+- 실질적인 유교 고전 텍스트
+- 실질적인 아베스타 코퍼스(조로아스터교 전통의 정경 텍스트)
+- 실질적인 몰몬경(몰몬 LDS 정경 텍스트)
+- 다양한 실질적인 다른 신성한 텍스트 전통들
 
-**The substantial cross-cultural function**. The substantial sacred-textual entities operate across cultures with substantial parallel functions: substantial canonical-religious authority, substantial liturgical-ritual content, substantial cosmic-narrative content, substantial ethical-religious-legal content, substantial historical-cultural memory preservation.
+**실질적인 교차문화적 기능**. 실질적인 신성한 텍스트 실체들은 실질적인 평행 기능들과 함께 문화 전반에 걸쳐 작동합니다: 실질적인 정경-종교적 권위, 실질적인 전례-의식 내용, 실질적인 우주적 서사 내용, 실질적인 윤리-종교-법적 내용, 실질적인 역사-문화적 기억 보존.
 
-### The "preservation-of-historical-event-content-in-religious-textual-form" cross-cultural pattern
+### "종교적 텍스트 형식으로의 역사적 사건 내용 보존" 교차문화적 패턴
 
-The substantial cross-cultural pattern of preservation of substantial historical-event content within substantial religious-textual forms operates across virtually every major sacred-textual tradition.
+실질적인 종교적 텍스트 형식 내에서의 실질적인 역사적 사건 내용 보존의 실질적인 교차문화적 패턴은 거의 모든 주요 신성한 텍스트 전통에 걸쳐 작동합니다.
 
-**The substantial pattern features**:
+**실질적인 패턴 특징들**:
 
-- Substantial actual historical events preserved within substantial religious-narrative forms
-- Substantial pre-scientific vocabulary operating as substantial decodable layer
-- Substantial subsequent religious-traditional reception operating substantively beyond original historical-event content
-- Substantial cross-cultural parallel content across distinct cultural-religious traditions
+- 실질적인 종교적 서사 형식 내에서 보존된 실질적인 실제 역사적 사건들
+- 실질적인 해독 가능한 층위로 작동하는 실질적인 전과학적 어휘
+- 원래 역사적 사건 내용을 넘어 실질적으로 작동하는 실질적인 후속 종교-전통적 수용
+- 별개의 문화-종교적 전통들에 걸친 실질적인 교차문화적 평행 내용
 
-**The substantial framework reading**. The substantial framework reads the substantial cross-cultural pattern as registering substantial preservation of substantial actual historical events through substantial sacred-textual forms, with each cultural tradition preserving substantial specific content within its distinctive cultural-religious framing.
+**실질적인 프레임워크 독해**. 실질적인 프레임워크는 실질적인 교차문화적 패턴을 실질적인 신성한 텍스트 형식을 통한 실질적인 실제 역사적 사건들의 실질적인 보존을 등록하는 것으로 읽으며, 각 문화적 전통은 자신의 독특한 문화-종교적 틀 내에서 실질적인 구체적 내용을 보존합니다.
 
-### The convergence
+### 수렴
 
-The corpus's working position on the comparative-Hebrew-Bible question is that the substantial cross-cultural distribution of substantial sacred-textual traditions across virtually every major religious-cultural tradition globally is meaningful as evidence of the broader pattern.
+비교적 히브리어 성서 질문에 대한 코퍼스의 작업 입장은 전 세계의 거의 모든 주요 종교-문화적 전통들에 걸친 실질적인 신성한 텍스트 전통의 실질적인 교차문화적 분포가 더 넓은 패턴의 증거로서 의미 있다는 것입니다.
 
-The mainstream scholarly explanation generally treats the cross-cultural pattern through some combination of independent religious-cultural development, shared cognitive-archetypal substrate, and limited cultural diffusion. The framework's reading: the cross-cultural pattern preserves common memory of substantial actual events that the framework articulates, with each cultural tradition preserving substantial specific content within its distinctive cultural-religious framing.
+주류 학술적 설명은 일반적으로 독립적 종교-문화적 발전, 공유된 인지-원형적 기저, 그리고 제한된 문화적 전파의 어떤 조합을 통해 교차문화적 패턴을 다룹니다. 프레임워크의 독해: 교차문화적 패턴은 프레임워크가 진술하는 실질적인 실제 사건들의 공통 기억을 보존하며, 각 문화적 전통은 자신의 독특한 문화-종교적 틀 내에서 실질적인 구체적 내용을 보존합니다.
 
-The framework's specific reading is that the substantial Hebrew Bible operates as substantial principal-but-not-uniquely-privileged carrier of the substantial actual historical-event content. The substantial Mesopotamian textual parallels preserve substantial parallel content within the distinctive Mesopotamian framing; the substantial Egyptian textual parallels preserve substantial parallel content within the distinctive Egyptian framing; the substantial Ugaritic textual parallels preserve substantial parallel content within the distinctive Northwest Semitic framing; the substantial Vedic / Hindu textual parallels preserve substantial parallel content within the distinctive Hindu framing; the substantial Greek mythological corpus preserves substantial parallel content within the distinctive Greek framing.
+프레임워크의 구체적 독해는 실질적인 히브리어 성서가 실질적인 실제 역사-사건 내용의 실질적인 주요하지만-유일하게-특권화되지-않은 운반자로 작동한다는 것입니다. 실질적인 메소포타미아 텍스트 평행은 독특한 메소포타미아 틀 내에서 실질적인 평행 내용을 보존합니다; 실질적인 이집트 텍스트 평행은 독특한 이집트 틀 내에서 실질적인 평행 내용을 보존합니다; 실질적인 우가리트 텍스트 평행은 독특한 북서 셈족 틀 내에서 실질적인 평행 내용을 보존합니다; 실질적인 베다 / 힌두 텍스트 평행은 독특한 힌두 틀 내에서 실질적인 평행 내용을 보존합니다; 실질적인 그리스 신화 코퍼스는 독특한 그리스 틀 내에서 실질적인 평행 내용을 보존합니다.
 
-The corpus does not require rejecting all of the mainstream explanatory framework. Independent religious-cultural development certainly contributes to specific cultural-religious articulations; the cosmic-archetypal substrate certainly contributes to the broader cross-cultural pattern; cultural diffusion certainly occurred across the historical period. What the framework adds is the underlying historical reality that gave rise to the structural commonalities — the substantial actual alliance-civilization interventions across the post-flood ages that the framework articulates, with the substantial cross-cultural traditions preserving cultural memory of these events in their distinctive cultural-religious framings.
+코퍼스는 주류 설명 프레임워크의 모든 것을 거부할 것을 요구하지 않습니다. 독립적 종교-문화적 발전은 확실히 구체적 문화-종교적 진술들에 기여합니다; 우주적-원형적 기저는 확실히 더 넓은 교차문화적 패턴에 기여합니다; 문화적 전파는 확실히 역사적 기간에 걸쳐 발생했습니다. 프레임워크가 추가하는 것은 구조적 공통성을 발생시킨 기저의 역사적 실재 — 프레임워크가 진술하는 홍수 이후 시대들에 걸친 실질적인 실제 동맹-문명 개입들이며, 실질적인 교차문화적 전통들은 자신들의 독특한 문화-종교적 틀에서 이러한 사건들의 문화적 기억을 보존합니다.
 
-The framework's distinctive contribution within this broader comparative landscape is the substantial historical-actuality reading (the substantial sacred-textual content preserves cultural memory of substantial actual extraterrestrial-civilization events rather than substantial mythological-archetypal-substrate alone), the substantial Hebrew Bible centrality positioning (the substantial Hebrew tradition operates as the substantial structural center of the broader asymmetric synthesis while not registering substantial unique-privileging), and the substantial systematic decoding hermeneutic (the substantial framework provides substantial systematic interpretive key for substantive engagement with the substantial textual content across all the broader sacred-textual traditions).
-
-## See also
-
-- [Genesis](../genesis/)
-- [Adam and Eve](../adam-and-eve/)
-- [Eden](../eden/)
-- [Antediluvian](../antediluvian/)
-- [Great Flood](../great-flood/)
-- [Theomachy](../theomachy/)
-- [Babel](../babel/)
-- [Sodom and Gomorrah](../sodom-and-gomorrah/)
-- [Noah](../noah/)
-- [Abraham](../abraham/)
-- [Moses](../moses/)
-- [Jesus](../jesus/)
-- [Mary](../mary/)
-- [Elohim](../elohim/)
-- [Yahweh](../yahweh/)
-- [Lucifer](../lucifer/)
-- [Satan](../satan/)
-- [Serpent](../serpent/)
-- [Plurality of Gods](../plurality-of-gods/)
-- [Tetragrammaton](../tetragrammaton/)
-- [Cosmic Chain](../cosmic-chain/)
-- [Cosmic Competition](../cosmic-competition/)
-- [Doubled Signature](../doubled-signature/)
-- [Tree of Life](../tree-of-life/)
-- [Dragons](../dragons/)
-- [Watchers](../watchers/)
-- [The Alliance](../the-alliance/)
-- [Council of the Eternals](../council-of-eternals/)
-- [Apocalypse](../apocalypse/)
-- [Prophet](../prophet/)
-- [Hebrew](../hebrew/)
-- [Hebrews](../hebrews/)
-- [Jean Sendy](../jean-sendy/)
-- [Mauro Biglino](../mauro-biglino/)
-- [Paul Anthony Wallis](../paul-anthony-wallis/)
-
-## References
-
-Vorilhon, Claude (Raël). *The Book Which Tells the Truth* (1974); collected in *Message from the Designers*. Substantial foundational source for the framework's specific content.
-
-Vorilhon, Claude (Raël). *Extra-Terrestrials Took Me to Their Planet* (1975); collected in *Message from the Designers*.
-
-Vorilhon, Claude (Raël). *Let's Welcome the Extra-Terrestrials* (1979); collected in *Message from the Designers*.
-
-Vorilhon, Claude (Raël). *Message from the Designers*. Tagman Press, 2005.
-
-Sendy, Jean. *Ces dieux qui firent le ciel et la terre*. Robert Laffont, 1969.
-
-Sendy, Jean. *L'ère du Verseau*. Robert Laffont, 1970.
-
-Sendy, Jean. *Les cahiers de cours de Moïse*. Julliard, 1963.
-
-Biglino, Mauro, and Giorgio Cattaneo. *The Naked Bible: The Truth About the Most Famous Book in History*. Uno, 2022.
-
-Wallis, Paul Anthony. *Escaping from Eden: Does Genesis Teach That the Human Race Was Created by God or Engineered by ETs?*. 6th Books, 2020.
-
-Wallis, Paul Anthony. *The Eden Conspiracy*. 6th Books, 2024.
-
-Wellhausen, Julius. *Prolegomena to the History of Israel*. Trans. J. Sutherland Black and Allan Menzies. Adam & Charles Black, 1885 [originally 1878].
-
-Friedman, Richard Elliott. *Who Wrote the Bible?* Harper & Row, 1987.
-
-Friedman, Richard Elliott. *The Bible with Sources Revealed*. HarperOne, 2003.
-
-Van Seters, John. *The Pentateuch: A Social-Science Commentary*. Sheffield Academic Press, 1999.
-
-Baden, Joel S. *The Composition of the Pentateuch: Renewing the Documentary Hypothesis*. Yale University Press, 2012.
-
-von Rad, Gerhard. *Old Testament Theology*. 2 vols. Trans. D. M. G. Stalker. Harper & Row, 1962-1965 [originally 1957-1960].
-
-von Rad, Gerhard. *Genesis: A Commentary*. Trans. John H. Marks. Westminster, revised ed., 1972 [originally 1949].
-
-Westermann, Claus. *Genesis 1-11: A Commentary*. Trans. John J. Scullion. Augsburg / Fortress, 1984.
-
-Westermann, Claus. *Genesis 12-36: A Commentary*. Trans. John J. Scullion. Augsburg / Fortress, 1985.
-
-Westermann, Claus. *Genesis 37-50: A Commentary*. Trans. John J. Scullion. Augsburg / Fortress, 1986.
-
-Brueggemann, Walter. *Theology of the Old Testament: Testimony, Dispute, Advocacy*. Augsburg Fortress, 1997.
-
-Alter, Robert. *The Art of Biblical Narrative*. Basic Books, 1981.
-
-Alter, Robert. *The Five Books of Moses: A Translation with Commentary*. W. W. Norton, 2004.
-
-Alter, Robert. *The Hebrew Bible: A Translation with Commentary*. 3 vols. W. W. Norton, 2018.
-
-Hendel, Ronald S. *The Text of Genesis 1-11: Textual Studies and Critical Edition*. Oxford University Press, 1998.
-
-Arnold, Bill T. *Genesis*. New Cambridge Bible Commentary. Cambridge University Press, 2009.
-
-Childs, Brevard S. *Introduction to the Old Testament as Scripture*. Fortress Press, 1979.
-
-Kugel, James L. *How to Read the Bible: A Guide to Scripture, Then and Now*. Free Press, 2007.
-
-Albright, William F. *From the Stone Age to Christianity*. Johns Hopkins University Press, 2nd ed., 1957.
-
-Cross, Frank Moore. *Canaanite Myth and Hebrew Epic: Essays in the History of the Religion of Israel*. Harvard University Press, 1973.
-
-Dever, William G. *What Did the Biblical Writers Know and When Did They Know It?*. Eerdmans, 2001.
-
-Dever, William G. *Who Were the Early Israelites and Where Did They Come From?*. Eerdmans, 2003.
-
-Finkelstein, Israel, and Neil Asher Silberman. *The Bible Unearthed: Archaeology's New Vision of Ancient Israel and the Origin of Its Sacred Texts*. Free Press, 2001.
-
-Mazar, Amihai. *Archaeology of the Land of the Bible: 10,000-586 B.C.E.* Doubleday, 1990.
-
-Tov, Emanuel. *Textual Criticism of the Hebrew Bible*. Augsburg Fortress, 3rd ed., 2012 [originally 1992].
-
-Tov, Emanuel. *The Text-Critical Use of the Septuagint in Biblical Research*. Eisenbrauns, 2nd ed., 1997.
-
-VanderKam, James C. *The Dead Sea Scrolls Today*. Eerdmans, revised ed., 2010 [originally 1994].
-
-VanderKam, James C., and Peter W. Flint. *The Meaning of the Dead Sea Scrolls: Their Significance for Understanding the Bible, Judaism, Jesus, and Christianity*. HarperSanFrancisco, 2002.
-
-Flint, Peter W. *The Dead Sea Psalms Scrolls and the Book of Psalms*. Brill, 1997.
-
-García Martínez, Florentino, and Eibert J. C. Tigchelaar, eds. *The Dead Sea Scrolls Study Edition*. 2 vols. Brill, 1997-1998.
-
-Ulrich, Eugene. *The Dead Sea Scrolls and the Origins of the Bible*. Eerdmans, 1999.
-
-Collins, John J. *The Dead Sea Scrolls: A Biography*. Princeton University Press, 2013.
-
-Fernández Marcos, Natalio. *The Septuagint in Context: Introduction to the Greek Version of the Bible*. Trans. Wilfred G. E. Watson. Brill, 2000.
-
-Jobes, Karen H., and Moisés Silva. *Invitation to the Septuagint*. Baker Academic, 2nd ed., 2015.
-
-McDonald, Lee Martin. *The Biblical Canon: Its Origin, Transmission, and Authority*. Hendrickson, 3rd ed., 2007.
-
-Sundberg, Albert C. *The Old Testament of the Early Church*. Harvard University Press, 1964.
-
-Barton, John. *Holy Writings, Sacred Text: The Canon in Early Christianity*. Westminster John Knox, 1997.
-
-Sanders, James A. *Canon and Community: A Guide to Canonical Criticism*. Fortress Press, 1984.
-
-Smith, Mark S. *The Early History of God: Yahweh and the Other Deities in Ancient Israel*. Harper & Row, 1990; revised ed. Eerdmans, 2002.
-
-Sitchin, Zecharia. *The 12th Planet*. Stein and Day, 1976.
-
-Pritchard, James B., ed. *Ancient Near Eastern Texts Relating to the Old Testament*. Princeton University Press, 3rd ed., 1969.
-
-Lambert, W. G., and A. R. Millard. *Atra-ḫasīs: The Babylonian Story of the Flood*. Oxford University Press, 1969.
-
-Lambert, W. G. *Babylonian Creation Myths*. Eisenbrauns, 2013.
-
-George, Andrew. *The Babylonian Gilgamesh Epic: Introduction, Critical Edition and Cuneiform Texts*. 2 vols. Oxford University Press, 2003.
-
-Hallo, William W., and K. Lawson Younger Jr., eds. *The Context of Scripture*. 3 vols. Brill, 1997-2002.
-
-Faulkner, R. O., trans. *The Ancient Egyptian Pyramid Texts*. Aris & Phillips, 1969.
-
-Faulkner, R. O., trans. *The Ancient Egyptian Coffin Texts*. 3 vols. Aris & Phillips, 1973-1978.
-
-Allen, T. G., trans. *The Book of the Dead, or, Going Forth by Day*. University of Chicago Press, 1974.
-
-Smith, Mark S., trans. *The Ugaritic Baal Cycle: Volume I*. Brill, 1994.
-
-Pardee, Dennis. *Ritual and Cult at Ugarit*. Society of Biblical Literature, 2002.
-
-Doniger, Wendy, trans. *The Rig Veda: An Anthology*. Penguin Classics, 1981.
-
-Olivelle, Patrick, trans. *The Early Upaniṣads: Annotated Text and Translation*. Oxford University Press, 1998.
-
-van Buitenen, J. A. B., trans. *The Mahābhārata*. 3 vols. University of Chicago Press, 1973-1978.
-
-Hesiod. *Theogony / Works and Days*. Trans. M. L. West. Oxford University Press, 1988.
-
-Homer. *The Iliad*. Trans. Robert Fagles. Penguin Classics, 1990.
-
-Homer. *The Odyssey*. Trans. Robert Fagles. Penguin Classics, 1996.
-
-"Hebrew Bible." *Encyclopaedia Britannica*. <https://www.britannica.com/topic/Hebrew-Bible>
-
-"Tanakh." *Wikipedia*. <https://en.wikipedia.org/wiki/Hebrew_Bible>
-
-"Masoretic Text." *Wikipedia*. <https://en.wikipedia.org/wiki/Masoretic_Text>
-
-"Septuagint." *Wikipedia*. <https://en.wikipedia.org/wiki/Septuagint>
-
-"Dead Sea Scrolls." *Wikipedia*. <https://en.wikipedia.org/wiki/Dead_Sea_Scrolls>
+이 더 넓은 비교 지형 내에서 프레임워크의 독특한 기여는 실질적인 역사-실재 독해(실질적인 신성한 텍스트 내용은 실질적인 신화-원형적 기저만이 아니라 실질적인 실제 외계 문명 사건들의 문화적 기억을 보존함), 실질적인 히브리어 성서 중심성 위치 부여(실질적인 히브리 전통은 실질적인 유일 특권화를 등록하지 않으면서 더 넓은 비대칭적 종합의 실질적인 구조적 중심으로 작동함), 그리고 실질적인 체계적 해독 해석학(실질적인 프레임워크는 모든 더 넓은 신성한 텍스트 전통들에 걸친 실질적인 텍스트 내용과의 실질적인 관여를 위한 실질적인 체계적 해석적 열쇠를 제공함)입니다.

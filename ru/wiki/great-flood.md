@@ -1,655 +1,669 @@
 +++
 title = "Великий потоп"
-description = "Великий потоп — крупный гидрологический ресет, засвидетельствованный в Книге Бытия и почти во всех мировых традициях. В корпусе Wheel of Heaven он прочитывается как преднамеренное вмешательство Элохимов с целью переустановки человеческого эксперимента после признанного критическим отклонения."
+slug = "great-flood"
+description = "Великий потоп (евр.: הַמַּבּוּל, ha-mabbul) — катастрофическое глобальное событие, зафиксированное в Бытии 6–9 и более чем в двухстах параллельных культурных традициях, в ходе которого более широкая допотопная человеческая цивилизация была уничтожена, а малый остаток сохранён через Ноев Ковчег. В прочтении, развитом в раэлианских первоисточниках и принятом корпусом Колеса Небес, Великий потоп прочитывается как конкретное историческое событие Эпохи Близнецов (ок. 6690 г. до н. э. по летоисчислению корпуса): преднамеренный военный удар, нанесённый Советом цивилизации Элохим с родной планеты по допотопной эдемской цивилизации, развивавшейся под продолжавшимся руководством сосланной фракции Люцифера, причём разрушение было осуществлено посредством ядерных ударов, которые произвели как непосредственные катастрофические последствия, так и долговременную континентальную фрагментацию допотопного суперконтинента Пангеи."
 template = "wiki-page.html"
 toc = true
 
 [extra]
-translation_status = "metadata_only"
 category = "Events & Narratives"
 editorial_pass = "2026-05"
 entry_type = "event"
-alternative_names = ["the Great Deluge", "the Flood", "the Mabbul", "the Deluge", "ha-mabbul", "הַמַּבּוּל", "the Noahic Flood"]
+claim_type = "inferred"
+alternative_names = ["Великий Потоп", "Потоп", "ха-Маббуль", "Девкалионов потоп", "Ноев потоп", "ha-mabbul", "הַמַּבּוּל"]
 timeline = ["gemini"]
 
-[extra.infobox]
+see_also = [
+    { title = "Ной", path = "/wiki/noah/", description = "Человеческий выживший и патриарх, через которого продолжается послепотопная линия." },
+    { title = "Ноев Ковчег", path = "/wiki/noahs-ark/", description = "Орбитальный аппарат, сохранивший семью Ноя и генетических представителей." },
+    { title = "Ноев Завет", path = "/wiki/noahic-covenant/", description = "Послепотопное политическое урегулирование, учреждённое радужной подписью." },
+    { title = "Альянс", path = "/wiki/the-alliance/", description = "Политическое устройство, основанное Ноевым Заветом." },
+    { title = "Люцифер", path = "/wiki/lucifer/", description = "Фракция, чьё вмешательство сохранило Ноя через операцию ковчега." },
+    { title = "Яхве", path = "/wiki/yahweh/", description = "Лидер Совета, на чьём послепотопном голосовании держится обязательство «никогда более»." },
+    { title = "Совет Вечных", path = "/wiki/council-of-eternals/", description = "Политический орган родной планеты, санкционировавший удар." },
+    { title = "Допотопный мир", path = "/wiki/antediluvian/", description = "Допотопный цивилизационный период, который удар прекратил." },
+    { title = "Пангея", path = "/wiki/pangaea/", description = "Суперконтинент, чью фрагментацию произвёл удар." },
+    { title = "Эдем", path = "/wiki/eden/", description = "Изначальная лаборатория альянса, чью линию продолжила допотопная цивилизация." },
+    { title = "Еврейская Библия", path = "/wiki/hebrew-bible/", description = "Главный библейский источник повествования о Потопе." },
+    { title = "Бытие", path = "/wiki/genesis/", description = "Библейская книга, содержащая рассказ о Потопе (Бытие 6–9)." },
+    { title = "Атра-хасис", path = "/wiki/atra-hasis/", description = "Вавилонское повествование о потопе, тесно параллельное еврейскому рассказу." },
+    { title = "Эпос о Гильгамеше", path = "/wiki/epic-of-gilgamesh/", description = "Месопотамский рассказ о потопе в табличке XI." },
+    { title = "Содом и Гоморра", path = "/wiki/sodom-and-gomorrah/", description = "Позднейшее аналогичное событие удара, чей механизм структурно схож." },
+    { title = "Вавилон", path = "/wiki/babel/", description = "Послепотопный эпизод цивилизационного рассеяния." },
+    { title = "Удвоенная подпись", path = "/wiki/doubled-signature/", description = "Корпусный принцип, по которому глобальная традиция о потопе сохраняет лежащую в её основе историческую память." },
+    { title = "Теомахия", path = "/wiki/theomachy/", description = "Более широкая рамка космополитического конфликта, в которой действует удар." },
+]
+
+footnotes = [
+    { content = "Еврейское *mabbul* (מַבּוּל) — это библейский термин, близкий к hapax legomenon, используемый главным образом в повествовании о потопе в Бытии 6–9 и в небольшом числе производных текстов (Псалом 28/29:10). Термин не является обычным еврейским словом для *потопа* (это *zerem* или *sheteph*), а представляет собой особое обозначение *того самого* события потопа — *катастрофически-космического* потопа, а не обычного наводнения. Этимологическая связь с аккадским *abubu* (потоп) и в конечном счёте с шумерским *a-ma-ru* (великий потоп) широко принята в академической ассириологии и указывает на существенную лингвокультурную преемственность между еврейской и месопотамской традициями о потопе." },
+    { content = "Прочтение Потопа в рамках корпуса как ядерного удара со стороны Совета родной планеты опирается на формулировку первоисточника в «Книге, которая говорит правду» (Vorilhon 1974). Образность Бытия 7:11 — *разверзлись все источники великой бездны, и окна небесные отворились* — прочитывается как описание космомеханических эффектов, произведённых высокоэнергетическим оружием, а не как сверхъестественно-метеорологическая метафора. Последующий период ожидания в 150 дней (Бытие 7:24) соответствует временно́й шкале распада остаточных радиоактивных осадков до безопасной высадки; конструкция ковчега как *запечатанного* сосуда (Бытие 6:14, *kopher*, «смола/запечатывание») соответствует радиационной защите, а не обычной гидроизоляции." },
+    { content = "Прочтение континентальной фрагментации — самое сильное отклонение корпуса от академической геологии. Общепринятая геология датирует распад Пангеи примерно 175 миллионами лет назад, с континентальным дрейфом, развёртывающимся через мантийную конвекцию на протяжении сотен миллионов лет. Корпус прочитывает распад как катастрофическое событие ок. 6690 г. до н. э., а наблюдаемый с тех пор континентальный дрейф — как остаточный импульс. Конфликт с общепринятыми радиометрическим датированием, палеомагнитной стратиграфией и измерениями расширения океанического дна существенен и открыто обсуждается в статье о Пангее. Прочтение корпуса опирается на конкретную артикуляцию Потопа в первоисточнике как единого катастрофического события с континентальными геологическими последствиями." },
+    { content = "Более 200 параллельных традиций о потопе в мировых культурах — месопотамские «Атра-хасис» и «Гильгамеш», греческий Девкалион, индуистский Ману, китайские Гунь-Юй, мезоамериканский «Пополь-Вух», полинезийский Тангалоа и т. д. — широко задокументированы в сравнительно-мифологической науке (Dundes 1988; Bierlein 1994). Академическое сравнительное религиоведение трактует это схождение различно: как свидетельство общей архетипической структуры, культурной диффузии из месопотамских источников или независимого ответа на локальные катастрофические события. Корпус прочитывает схождение как свидетельство единого лежащего в основе исторического события, память о котором сохранилась у различных человеческих популяций, происходящих от семи допотопных линий команд‑творцов; вариации в деталях отражают послепотопную трансмиссию длиной около восьми тысячелетий и существенное культурно-лингвистическое расхождение." },
+    { content = "Конкретные современные научные данные, согласующиеся с катастрофическим событием ок. 7000 г. до н. э., смешаны и оспариваются. Гипотеза космического импакта позднего дриаса (Firestone et al. 2007; Bunch et al. 2021 по Талль-эль-Хаммаму) предполагает существенные события внеземного импакта в позднем плейстоцене и в среднем бронзовом веке, произведшие региональные катастрофические эффекты. Гипотеза Райана‑Питмана о черноморском потопе (1998) предполагает катастрофическое затопление Черноморского бассейна ок. 5600 г. до н. э. от подъёма уровня Средиземного моря. Ни одно из этих предложений не достигает уровня корпусного прочтения континентальной фрагментации, но гипотезы позднего дриаса и Чёрного моря показывают, что общепринятая палеонаука всё же признаёт существенные катастрофические события в период, который корпус идентифицирует." },
+    { content = "Сохранение пар животных на ковчеге (Бытие 6:19–20; 7:2–3) прочитывается в рамках корпуса как сохранение генетических образцов, а не буквальная погрузка животных. Различие в семь пар чистых животных против одной пары нечистых (Бытие 7:2–3) прочитывается как отражение соображений популяционной генетики воспроизводства — больший размер основательской популяции требовался для видов, предназначенных для жертвенного использования после Потопа. Голубь и ворон, выпущенные из ковчега (Бытие 8:6–12), прочитываются как биологически‑разведочные инструменты для оценки окружающей среды после удара, причём возвращение голубя с оливковой ветвью сигнализирует о достаточном радиологическом и экологическом восстановлении для высадки." },
+]
+
 hebrew_name = "הַמַּבּוּל (ha-mabbul)"
-greek_name = "ὁ κατακλυσμός (ho kataklysmos, in the Septuagint)"
+greek_name = "ὁ κατακλυσμός (ho kataklysmos, в Септуагинте)"
 latin_name = "Diluvium"
-arabic_name = "الطوفان (aṭ-Ṭūfān, in the Qur'anic tradition)"
-type = "Catastrophic global event; deliberate military intervention by the home-world Council against the antediluvian human civilization"
-date = "c. 6,690 BCE on the corpus's reckoning; opening of the Age of Gemini"
-date_type = "framework-internal; derived from the corpus's precessional-age chronology"
-duration = "Initial catastrophic phase: weeks to months; ark orbital period: 150 days (Genesis 7:24); subsequent post-Flood reseeding and reconstruction: years to decades"
-biblical_account = "Genesis 6:1–9:17 (the principal narrative); Job 38:8–11; Psalm 29:10; Isaiah 54:9; Matthew 24:37–39; 1 Peter 3:20; 2 Peter 2:5"
-mechanism_conventional = "Forty days and nights of rain (Genesis 7:12); waters from the deep and from the windows of heaven (Genesis 7:11)"
-mechanism_framework = "Nuclear weapons strike from the home-world Council; immediate impact effects (continental tidal wave); subsequent fallout-decay period (the 150 days); deliberate post-strike radiological remediation conducted by alliance personnel"
-parties_involved = "Home-world Council (executing party); exiled Lucifer-faction creators (preservation party); Noah and his family (human survivors, 8 individuals); broader pre-Flood Eden civilization (target population); the seven antediluvian creator-team lineages (representatives preserved)"
-casualties = "The broader antediluvian Eden civilization destroyed; substantial portions of the other six creator-team lineages destroyed; representatives of all seven lineages preserved through the ark operation"
-geological_consequence = "Fragmentation of the Pangaean supercontinent into the modern continental configuration; ongoing residual continental drift as observed motion"
-political_consequence = "Foundation of the Alliance through the Noahic covenant; long-term political reorientation of the post-Flood human-Eloha relationship"
-principal_text = "Genesis 6:1–9:17"
-principal_framework_source = "*The Book Which Tells the Truth* (Vorilhon/Raël, 1974), chapter 2"
+arabic_name = "الطوفان (aṭ-Ṭūfān, в коранической традиции)"
+type = "Катастрофическое глобальное событие; преднамеренное военное вмешательство Совета родной планеты против допотопной человеческой цивилизации"
+date = "ок. 6690 г. до н. э. по летоисчислению корпуса; открытие Эпохи Близнецов"
+date_type = "внутрикорпусное; выведено из прецессионно‑возрастной хронологии корпуса"
+duration = "Начальная катастрофическая фаза: недели — месяцы; орбитальный период ковчега: 150 дней (Бытие 7:24); последующее послепотопное пересеивание и восстановление: годы — десятилетия"
+biblical_account = "Бытие 6:1–9:17 (основное повествование); Иов 38:8–11; Псалом 28/29:10; Исаия 54:9; Матфея 24:37–39; 1 Петра 3:20; 2 Петра 2:5"
+mechanism_conventional = "Сорок дней и ночей дождя (Бытие 7:12); во́ды из бездны и из окон небесных (Бытие 7:11)"
+mechanism_framework = "Ядерный удар со стороны Совета родной планеты; непосредственные эффекты импакта (континентальная приливная волна); последующий период распада радиоактивных осадков (150 дней); преднамеренная послеударная радиологическая ремедиация, проведённая персоналом альянса"
+parties_involved = "Совет родной планеты (исполняющая сторона); сосланные творцы фракции Люцифера (сохраняющая сторона); Ной и его семья (человеческие выжившие, 8 лиц); более широкая допотопная эдемская цивилизация (целевая популяция); семь допотопных линий команд‑творцов (сохранены представители)"
+casualties = "Более широкая допотопная эдемская цивилизация уничтожена; существенные части других шести линий команд‑творцов уничтожены; представители всех семи линий сохранены через операцию ковчега"
+geological_consequence = "Фрагментация суперконтинента Пангея в современную континентальную конфигурацию; продолжающийся остаточный континентальный дрейф как наблюдаемое движение"
+political_consequence = "Основание Альянса через Ноев Завет; долговременная политическая переориентация послепотопных отношений «человек — Элоха»"
+principal_text = "Бытие 6:1–9:17"
+principal_framework_source = "«Книга, которая говорит правду» (Vorilhon/Raël, 1974), глава 2"
+
+[[extra.references]]
+id = "the-book-which-tells-the-truth"
+note = "Vorilhon (Raël, 1974), глава 2; главный раэлианский источник для прочтения Потопа корпусом как преднамеренного удара со стороны родной планеты."
+
+[[extra.references]]
+id = "intelligent-design-message-from-the-designers"
+note = "Сводное каноническое издание трёх раэлианских книг‑первоисточников, включая материал о Потопе."
+
+[[extra.references]]
+id = "sendy-ces-dieux"
+note = "Sendy (1969); основополагающая французская артикуляция прочтения через альянс; главный научный предшественник."
+
+[[extra.references]]
+id = "sendy-lune-cle-bible"
+note = "Sendy (1968); лунно‑астрономическое прочтение библейской хронологии, включая контекст хронологии Потопа."
+
+[[extra.references]]
+id = "the-naked-bible"
+note = "Biglino & Cattaneo (2022); строго‑буквальный перевод Бытия 6–9 с еврейского, включая техническую лексику потопа."
+
+[[extra.references]]
+id = "wallis-eden-conspiracy"
+note = "Wallis (2024); современная артикуляция прочтения «спроектированной цивилизации» с существенным содержанием о послепотопной политике."
+
+[[extra.references]]
+id = "sarna-genesis-jps"
+note = "Sarna (1989); комментарий JPS Torah Commentary на Бытие 6–9; главный современный иудаистско‑научный разбор повествования о Потопе."
+
+[[extra.references]]
+id = "westermann-genesis-1-11"
+note = "Westermann (1994); континентальный комментарий на Бытие 1–11; основополагающий критический комментарий на потопный перикоп."
+
+[[extra.references]]
+id = "atra-hasis-lambert-millard"
+note = "Lambert & Millard (1969); критическое издание вавилонского повествования о потопе; ближайшая древне‑ближневосточная параллель."
+
+[[extra.references]]
+id = "george-gilgamesh"
+note = "George (1999); доступное английское издание эпоса о Гильгамеше, включая повествование о потопе в табличке XI."
+
+[[extra.references]]
+id = "foster-before-muses"
+note = "Foster (2005); антология аккадской литературы, включая главный месопотамский корпус о потопе."
+
+[[extra.references]]
+id = "heidel-gilgamesh-ot"
+note = "Heidel (1949); основополагающая сравнительная артикуляция параллельной структуры Гильгамеш — Бытие."
+
+[[extra.references]]
+id = "ryan-pitman-noahs-flood"
+note = "Ryan & Pitman (1998); гипотеза черноморского потопа как исторический якорь для традиций о великом потопе."
+
+[[extra.references]]
+id = "bunch-tall-el-hammam"
+note = "Bunch et al. (2021); статья в Scientific Reports об атмосферном взрыве «тунгусского» масштаба у Талль‑эль‑Хаммама."
+
+[[extra.references]]
+id = "firestone-younger-dryas"
+note = "Firestone et al. (2007); статья в PNAS о гипотезе космического импакта позднего дриаса."
+
+[[extra.references]]
+id = "doniger-hindu-myths"
+note = "Doniger (1975); индуистская мифологическая хрестоматия, включая традицию о потопе Ману."
+
+[[extra.references]]
+id = "kramer-enki-myths"
+note = "Kramer & Maier (1989); шумерский корпус об Энки, включая повествование о потопе Зиусудры — самую раннюю сохранившуюся месопотамскую версию."
+
+[[extra.references]]
+id = "boyce-zoroastrians"
+note = "Boyce (перераб. изд. 2001); персидская традиция о Варе Йимы, тесно параллельная схеме сохранения через ковчег."
+
+[[extra.references]]
+id = "sitchin-12th-planet"
+note = "Sitchin (1976); прочтение месопотамско‑библейского материала о потопе через теорию древних астронавтов; главный популярный якорь."
+
+[[extra.references]]
+id = "genesis"
+locator = "Бытие 6:1–9:17"
+note = "Главный библейский источник повествования о Потопе; первичный фокус прочтения по всей статье."
+
 +++
 
-The **Great Flood** (Hebrew: <span class="hebrew">הַמַּבּוּל</span>, *ha-mabbul*; Greek: *ho kataklysmos*; Latin: *Diluvium*) is the catastrophic global event recorded in Genesis 6–9 and across more than two hundred parallel cultural traditions worldwide. The biblical account narrates the destruction of the pre-Flood human civilization by waters that covered the entire earth for a duration of approximately one year, with Noah and his family preserved through divine intervention in the ark — a wooden vessel built to specific divine instructions — along with representative pairs of all animal species. The Flood concludes with the ark's landing on the mountains of Ararat, Noah's release of the dove that returns with an olive branch, the disembarkation, and the establishment of the Noahic covenant signified by the rainbow. The narrative is among the most theologically and culturally consequential in the Hebrew Bible, providing the foundational frame for the broader biblical narrative of divine judgment and renewal.
+**Великий потоп** (евр.: <span class="hebrew">הַמַּבּוּל</span>, *ha-mabbul*{{ footnote(id="1") }}; греч.: *ho kataklysmos*; лат.: *Diluvium*) — катастрофическое глобальное событие, зафиксированное в Бытии 6–9 и более чем в двухстах параллельных культурных традициях по всему миру{{ footnote(id="4") }}. Библейский рассказ повествует об уничтожении допотопной человеческой цивилизации водами, покрывшими всю землю на протяжении приблизительно одного года, причём Ной и его семья были сохранены посредством божественного вмешательства в ковчеге — деревянном сосуде, построенном по конкретным божественным указаниям, — вместе с представительными парами всех видов животных. Потоп завершается приземлением ковчега на горах Арарат, выпуском Ноем голубя, который возвращается с оливковой ветвью, высадкой и установлением Ноева Завета, обозначенного радугой. Это повествование — одно из наиболее богословски и культурно значимых в Еврейской Библии, оно задаёт основополагающую рамку для более широкого библейского нарратива о божественном суде и обновлении.
 
-On the reading developed in the Raëlian source material and adopted by the Wheel of Heaven corpus, the Great Flood is read as a specific historical event with substantively different operational content than the conventional reading allows. The Flood occurred at the opening of the Age of Gemini (c. 6,690 BCE on the corpus's reckoning), at the end of the antediluvian period during which the broader Eden civilization had developed under the continuing teaching of the exiled Lucifer-faction creators. The home-world Council of the Elohim civilization, having concluded that the antediluvian civilization's technological development had passed the point where the original political settlement could be sustained, ordered the destruction of all life on Earth. The order was executed through nuclear weapons impacts directed at the central zones of the supercontinent — impacts powerful enough to produce both the immediate catastrophic effects (continent-scale tidal waves, atmospheric and seismic disruption, mass extinction of large terrestrial organisms) and the longer-term geological consequence of fragmenting the Pangaean supercontinent into the drifting continental configuration that has structured subsequent geological history. The exiled Lucifer faction, anticipating the Council's action, conducted a counter-preparation: the construction of an orbital spacecraft (the ark) capable of preserving genetic material from the threatened biosphere through the catastrophic event, with Noah and his family serving as the human crew that would accompany the genetic cargo through the orbital period and supervise the post-Flood reseeding operation.
+В прочтении, развитом в раэлианских первоисточниках{{ cite(id="the-book-which-tells-the-truth", text="[1]", title="Vorilhon (Raël), «Книга, которая говорит правду» (1974), глава 2 — главный раэлианский источник для прочтения Потопа корпусом как преднамеренного удара Совета") }} и принятом корпусом Колеса Небес, Великий потоп прочитывается как конкретное историческое событие с существенно иным операционным содержанием, чем допускает общепринятое прочтение. Потоп произошёл при открытии Эпохи Близнецов (ок. 6690 г. до н. э. по летоисчислению корпуса), в конце допотопного периода, в течение которого более широкая эдемская цивилизация развивалась под продолжавшимся руководством сосланных творцов фракции Люцифера. Совет цивилизации Элохим на родной планете, заключив, что технологическое развитие допотопной цивилизации перешло точку, за которой исходное политическое урегулирование не могло быть сохранено, отдал приказ об уничтожении всей жизни на Земле. Приказ был исполнен посредством ядерных ударов, направленных в центральные зоны суперконтинента{{ footnote(id="2") }} — ударов, достаточно мощных, чтобы произвести как непосредственные катастрофические эффекты (континентальные приливные волны, атмосферные и сейсмические возмущения, массовое вымирание крупных наземных организмов), так и долговременное геологическое последствие в виде фрагментации суперконтинента Пангея на дрейфующую континентальную конфигурацию, структурировавшую последующую геологическую историю{{ footnote(id="3") }}. Сосланная фракция Люцифера, предвидя действия Совета, провела контрподготовку: построила орбитальный космический аппарат (ковчег), способный сохранить генетический материал из угрожаемой биосферы через катастрофическое событие, причём Ной и его семья служили человеческим экипажем, сопровождавшим генетический груз через орбитальный период и руководившим послепотопной операцией пересеивания.
 
-The reading is contested. Within mainstream historical-critical biblical scholarship, the Genesis flood narrative is read as a composite of two source documents (J and P, on the documentary hypothesis) reflecting Israelite religious development across the first millennium BCE, with substantial textual dependence on the older Mesopotamian flood traditions (the *Atra-ḫasīs* epic, the *Epic of Gilgamesh*, the Sumerian *Eridu Genesis*). Within mainstream geology and paleontology, no event matching the corpus's framework has been identified in the Holocene; the continental drift question is read through the standard plate-tectonic framework that places Pangaean breakup approximately 175 million years ago. Within Christian theological tradition, the Flood is read variously as a historical event with theological-typological significance (the conservative position), as theological-mythological narrative reflecting moral-religious truths (the liberal position), or as primarily prefigurative of New Testament events (the typological position). Within the contemporary catastrophist research tradition (Carlson, Bunch et al., the broader Younger-Dryas-impact-hypothesis literature), various positions advocate for substantial recent catastrophic events that mainstream geology has typically attributed to gradual processes, with substantial implications for how the Holocene should be reconstructed. The corpus's reading is structurally distinctive: it accepts the global recurrence of flood traditions as evidence of a genuine global event (against mainstream comparative-mythology scholarship's diffusionist account), accepts the catastrophist tradition's broader argument while specifying a particular mechanism (deliberate Council military strike) that the mainstream catastrophist literature does not propose, and reads the underlying narrative as preserving substantially accurate operational content rather than as theological-mythological construction.
+Это прочтение оспаривается. В рамках академической историко‑критической библеистики потопное повествование Бытия прочитывается как композит двух источников (J и P, по документальной гипотезе), отражающий израильское религиозное развитие на протяжении первого тысячелетия до н. э., с существенной текстовой зависимостью от более древних месопотамских традиций о потопе (эпос об *Атра‑хасисе*, *Эпос о Гильгамеше*, шумерское *Эриду Бытие*). В рамках академической геологии и палеонтологии не выявлено события, соответствующего корпусной рамке, в голоцене; вопрос континентального дрейфа прочитывается через стандартную плитно‑тектоническую рамку, которая помещает распад Пангеи примерно в 175 миллионов лет назад. В рамках христианской богословской традиции Потоп прочитывается различно: как историческое событие с богословско‑типологическим значением (консервативная позиция), как богословско‑мифологическое повествование, отражающее морально‑религиозные истины (либеральная позиция), или преимущественно как прообраз новозаветных событий (типологическая позиция). В рамках современной катастрофистской исследовательской традиции (Карлсон, Bunch et al., более широкая литература по гипотезе импакта позднего дриаса) различные позиции отстаивают существенные недавние катастрофические события, которые академическая геология традиционно приписывала постепенным процессам, что имеет существенные следствия для того, как должен реконструироваться голоцен. Прочтение корпуса структурно отличительно: оно принимает глобальную повторяемость традиций о потопе как свидетельство подлинного глобального события (против диффузионистского изложения академической сравнительной мифологии), принимает более широкий аргумент катастрофистской традиции, но при этом конкретизирует определённый механизм (преднамеренный военный удар Совета), который основная катастрофистская литература не предлагает, и прочитывает лежащее в основе повествование как сохраняющее существенно достоверное операционное содержание, а не как богословско‑мифологическую конструкцию.
 
-## Etymology and naming
+## Этимология и наименование
 
-The principal terms for the event across the languages and traditions in which it has been preserved warrant individual treatment.
+Основные термины для этого события в языках и традициях, в которых оно сохранилось, заслуживают индивидуального рассмотрения.
 
-### Hebrew *ha-mabbul*
+### Еврейское *ha-mabbul*
 
-The Hebrew *ha-mabbul* (<span class="hebrew">הַמַּבּוּל</span>) is the specific Hebrew Bible designation for the Flood event. The term derives from the root *y-b-l* / *n-b-l*, with proposed etymological connections to "to flow," "to bring forth," or "to convey." The form *mabbul* is unique to the flood context — appearing principally in Genesis 6–11 (with thirteen occurrences) and in Psalm 29:10 (the only non-Genesis occurrence) — and is not used for ordinary floods in Biblical Hebrew (the standard term *šeṭep* or *zeram* serving for ordinary flooding). The specificity of *ha-mabbul* as a technical term for the specific event is itself substantively significant: the Hebrew tradition preserves a specific designation that distinguishes the Flood event from the broader category of flooding.
+Еврейское *ha-mabbul* (<span class="hebrew">הַמַּבּוּל</span>) — это специфическое обозначение Потопа в Еврейской Библии. Термин происходит от корня *y-b-l* / *n-b-l*, с предполагаемыми этимологическими связями со значениями «течь», «изводить» или «переносить». Форма *mabbul* уникальна для контекста потопа — встречается главным образом в Бытии 6–11 (тринадцать вхождений) и в Псалме 28/29:10 (единственное вхождение вне Бытия) — и не используется в библейском иврите для обычных наводнений (для обычного затопления служит стандартный термин *šeṭep* или *zeram*). Специфичность *ha-mabbul* как технического термина для конкретного события сама по себе существенно значима: еврейская традиция сохраняет конкретное обозначение, отличающее событие Потопа от более широкой категории наводнения.
 
-The definite article *ha-* ("the") is preserved across nearly all Genesis 6–11 occurrences, marking the Flood as a unique definite event rather than a generic flooding phenomenon. The framework reads this definiteness as substantively significant: the Hebrew Bible's vocabulary preserves the recognition that the Flood was a specific historical event with specific operational content rather than a recurring or generic phenomenon.
+Определённый артикль *ha-* («тот, тот самый») сохраняется почти во всех вхождениях в Бытии 6–11, маркируя Потоп как уникальное определённое событие, а не как родовое явление наводнения. Корпус прочитывает эту определённость как существенно значимую: лексика Еврейской Библии сохраняет признание того, что Потоп был конкретным историческим событием с конкретным операционным содержанием, а не повторяющимся или родовым явлением.
 
-### Other ancient Near Eastern terms
+### Другие древне‑ближневосточные термины
 
-The Mesopotamian tradition preserves several distinct terms for the parallel flood events:
+Месопотамская традиция сохраняет несколько различных терминов для параллельных событий потопа:
 
-- **Akkadian *abūbu*** (𒀀𒈠𒊒) — the principal Akkadian term for the catastrophic flood event in the *Atra-ḫasīs* epic and the *Epic of Gilgamesh*. The term derives from a root meaning "destruction" or "catastrophe" and is used specifically for the deliberate flood event sent by the gods.
-- **Sumerian *a-ma-ru*** — the parallel Sumerian term, used in the *Eridu Genesis* and in the Sumerian King List's pre-Flood and post-Flood divisions.
-- **Akkadian *butuqtu*** — used in some texts for the inundation event specifically.
+- **Аккадское *abūbu*** (𒀀𒈠𒊒) — главный аккадский термин для катастрофического события потопа в эпосе об *Атра‑хасисе* и в *Эпосе о Гильгамеше*. Термин происходит от корня со значением «разрушение» или «катастрофа» и используется специально для преднамеренного события потопа, посланного богами.
+- **Шумерское *a-ma-ru*** — параллельный шумерский термин, используемый в *Эриду Бытии* и в шумерском «Царском списке» в его до- и послепотопных делениях.
+- **Аккадское *butuqtu*** — употребляется в некоторых текстах специально для события затопления.
 
-The Mesopotamian terminology preserves substantially the same distinction the Hebrew tradition preserves: a specific technical term for the catastrophic flood event, distinct from the generic terminology for ordinary flooding. The cross-tradition convergence on specific technical vocabulary for the event is part of the framework's evidence that the underlying event was a specific historical occurrence rather than a generic mythological category.
+Месопотамская терминология сохраняет по существу то же различие, которое сохраняет еврейская традиция: конкретный технический термин для катастрофического события потопа, отличный от родовой терминологии для обычного наводнения. Кросс‑традиционное схождение на специфической технической лексике для события — часть свидетельств корпуса о том, что лежащее в основе событие было конкретным историческим происшествием, а не родовой мифологической категорией.
 
-### Greek *kataklysmos* and Latin *diluvium*
+### Греческое *kataklysmos* и латинское *diluvium*
 
-The Greek Septuagint translates *ha-mabbul* as *kataklysmos* (κατακλυσμός), the standard Greek term for catastrophic flooding, providing the basis for the English "cataclysm" through Latin transmission. The term emphasizes the destructive character of the event — *kataklysmos* derives from *kata-* ("down") and *klyzō* ("to wash"), with the underlying sense of "washing down" or "deluging."
+Греческая Септуагинта переводит *ha-mabbul* как *kataklysmos* (κατακλυσμός) — стандартный греческий термин для катастрофического затопления, ставший основой для русского «катаклизм» через латинскую передачу. Термин подчёркивает разрушительный характер события — *kataklysmos* происходит от *kata-* («вниз») и *klyzō* («омывать»), с лежащим в основе значением «омывание сверху вниз» или «потопление».
 
-The Latin Vulgate translates *ha-mabbul* as *diluvium*, from *diluere* ("to wash away" or "to dissolve"), with the underlying sense of "washing away" or "dispersal." The Latin term provides the basis for the English "deluge" (through Old French *deluge*) and for the various Romance-language cognates.
+Латинская Вульгата переводит *ha-mabbul* как *diluvium*, от *diluere* («смывать» или «растворять»), с лежащим в основе значением «смывания» или «рассеяния». Латинский термин даёт основу для английского "deluge" (через старофранцузское *deluge*) и для различных романских когнатов.
 
-### Arabic *aṭ-Ṭūfān*
+### Арабское *aṭ-Ṭūfān*
 
-The Arabic Qur'anic tradition uses *aṭ-Ṭūfān* (<span class="hebrew">الطوفان</span>) for the Flood event. The term derives from a root meaning "to go around" or "to encompass," with the underlying sense of an encompassing catastrophe. The Qur'anic flood narrative (treated principally in surahs 7:59–64, 11:25–48, 23:23–30, 26:105–122, and 71) develops the Hebrew tradition's narrative with substantive theological elaborations specific to Islamic context, with Noah (Nūḥ) as the principal Qur'anic prophet of the pre-Flood period.
+Арабская кораническая традиция использует для события Потопа *aṭ-Ṭūfān* (<span class="hebrew">الطوفان</span>). Термин происходит от корня со значением «обходить» или «охватывать», с лежащим в основе смыслом охватывающей катастрофы. Кораническое повествование о потопе (рассматривается главным образом в сурах 7:59–64, 11:25–48, 23:23–30, 26:105–122 и 71) развивает повествование еврейской традиции с существенными богословскими разработками, специфичными для исламского контекста, причём Ной (Нух) выступает главным кораническим пророком допотопного периода.
 
-### "Great Flood," "Deluge," and "Cataclysm" in English
+### «Великий потоп», «Девкалионов потоп» и «Катаклизм» в русском
 
-The English "Great Flood" preserves the Hebrew tradition's emphasis on the event's distinctive scale ("Great" capturing the *ha-* definite article's marking of the event as unique). The "Deluge" (from Latin *diluvium*) emphasizes the encompassing-water character of the conventional reading. The "Cataclysm" (from Greek *kataklysmos*) emphasizes the destructive character. The framework's preferred designation is "the Great Flood" as the most semantically neutral term that preserves the event's specific historical character while not committing to specific mechanism-readings (the "deluge" terminology presupposing the conventional water-based mechanism).
+Русское «Великий потоп» сохраняет акцент еврейской традиции на отличительном масштабе события («Великий» передаёт маркирование события определённым артиклем *ha-* как уникального). «Потоп» (от той же библейской традиции) передаёт охватывающе‑водный характер общепринятого прочтения. «Катаклизм» (от греческого *kataklysmos*) подчёркивает разрушительный характер. Предпочтительное обозначение корпуса — «Великий потоп», как наиболее семантически нейтральный термин, который сохраняет специфический исторический характер события, не привязываясь к конкретному прочтению механизма (терминология «потопа» предполагает общепринятый водный механизм).
 
-## In the Hebrew Bible and other primary sources
+## В Еврейской Библии и других первоисточниках
 
-The Flood narrative appears principally in Genesis 6:1–9:17, with substantial parallel material across the broader Hebrew Bible and substantial precedent material in the Mesopotamian textual tradition that the Hebrew narrative draws on.
+Повествование о Потопе появляется главным образом в Бытии 6:1–9:17, с существенным параллельным материалом по всей Еврейской Библии и с существенным предшествующим материалом в месопотамской текстовой традиции, на которую опирается еврейский рассказ.
 
-### The Genesis narrative
+### Повествование Бытия
 
-The Genesis flood narrative occupies four chapters of the Hebrew Bible's opening book and contains substantial textual complexity. The principal narrative elements:
+{% library(book="genesis-woh", chapter=7, verse=11) %}
+В шестисотый год жизни Ноя, во второй месяц, в семнадцатый день месяца — именно в этот день — разверзлись все источники великой бездны, и отворились окна небесные.
+{% end %}
 
-**Genesis 6:1–4** introduces the *benei ha-Elohim* episode — the "sons of Elohim" who took human women as wives and produced the Nephilim hybrid offspring. The corpus reads this passage as recording the operational context that produced the home-world Council's eventual decision to intervene (treated more fully in the [Sons of Elohim](../sons-of-elohim/) and [Nephilim](../nephilim/) entries).
+Потопное повествование Бытия занимает четыре главы вступительной книги Еврейской Библии и содержит существенную текстуальную сложность. Главные нарративные элементы:
 
-**Genesis 6:5–13** records the divine assessment of the pre-Flood human civilization: *"Yahweh saw that the wickedness of humanity was great in the earth, and that every imagination of the thoughts of his heart was only evil continually."* The corpus reads "wickedness" (*raʿat*) here not in the conventional moral-theological sense but as referring to the antediluvian civilization's accelerating technological development that the home-world Council judged threatening — the framework's specific reading is that the "evil" was the human desire to progress scientifically toward the level of their creators.
+**Бытие 6:1–4** вводит эпизод *benei ha-Elohim* — «сынов Элохим», которые взяли в жёны человеческих женщин и произвели гибридное потомство Нефилимов. Корпус прочитывает этот фрагмент как фиксирующий операционный контекст, приведший к итоговому решению Совета родной планеты о вмешательстве (более полно рассматривается в статьях {% wiki(slug="sons-of-elohim") %}Сыны Элохим{% end %} и {% wiki(slug="nephilim") %}Нефилимы{% end %}).
 
-**Genesis 6:14–22** records the divine instructions for the ark: the dimensions (300 cubits long, 50 cubits wide, 30 cubits high), the materials (gopher wood with pitch sealant), the structural features (three stories, a door in the side, a window), and the instructions for the cargo (Noah and his family, plus pairs of every kind of animal). The corpus reads these specifications as the technical requirements transmitted by the exiled Lucifer-faction creators to Noah for the construction of the orbital spacecraft.
+**Бытие 6:5–13** фиксирует божественную оценку допотопной человеческой цивилизации: *«Яхве увидел, что велико зло человеков на земле, и что все мысли и помышления сердца их были зло во всякое время»*. Корпус прочитывает «зло» (*raʿat*) здесь не в общепринятом морально‑богословском смысле, а как отсылку к ускоряющемуся технологическому развитию допотопной цивилизации, которое Совет родной планеты счёл угрожающим — конкретное прочтение корпуса состоит в том, что «зло» — это человеческое желание научно прогрессировать к уровню своих творцов.
 
-**Genesis 7:1–24** records the events of the Flood itself: the entry of Noah and the animals into the ark, the onset of the flood ("the fountains of the great deep burst forth, and the windows of the heavens were opened"), the duration of the rain (forty days and forty nights), the rising of the waters above the mountains, and the duration of the waters' prevalence (150 days). The corpus reads this material as the human witnesses' specific account of the catastrophic event, with the surface narrative covering substantively different operational content than the conventional reading allows.
+**Бытие 6:14–22** фиксирует божественные указания относительно ковчега: размеры (300 локтей в длину, 50 в ширину, 30 в высоту), материалы (дерево гофер с битумным герметиком), конструктивные особенности (три яруса, дверь сбоку, окно) и указания относительно груза (Ной и его семья плюс пары всех видов животных){{ footnote(id="6") }}. Корпус прочитывает эти спецификации как технические требования, переданные сосланными творцами фракции Люцифера Ною для постройки орбитального космического аппарата.
 
-**Genesis 8:1–22** records the Flood's recession and Noah's disembarkation: the ark coming to rest on Ararat, the receding of the waters, Noah's release of the raven and the dove, the eventual emergence onto dry land, and Noah's burnt offering at the altar.
+**Бытие 7:1–24** фиксирует события самого Потопа: вхождение Ноя и животных в ковчег, начало потопа («разверзлись источники великой бездны, и окна небесные отворились»), продолжительность дождя (сорок дней и сорок ночей), подъём вод выше гор и продолжительность преобладания вод (150 дней). Корпус прочитывает этот материал как конкретный отчёт человеческих свидетелей о катастрофическом событии, причём поверхностное повествование охватывает существенно иное операционное содержание, чем допускает общепринятое прочтение.
 
-**Genesis 9:1–17** records the post-Flood arrangements: the divine blessing of Noah's family, the dietary provisions, the prohibition on bloodshed, and the Noahic covenant with its rainbow sign. The corpus reads this material as the operational record of the Alliance's founding moment (treated more fully in the [The Alliance](../the-alliance/) entry).
+**Бытие 8:1–22** фиксирует отступление Потопа и высадку Ноя: остановку ковчега на Арарате, спад вод, выпуск Ноем ворона и голубя, окончательный выход на сушу и всесожжение Ноя на жертвеннике.
 
-### The textual question: J and P sources
+**Бытие 9:1–17** фиксирует послепотопные установления: божественное благословение семейства Ноя, диетические предписания, запрет кровопролития и Ноев Завет с его радужным знамением. Корпус прочитывает этот материал как операционную запись основополагающего момента Альянса (более полно рассматривается в статье {% wiki(slug="the-alliance") %}Альянс{% end %}).
 
-Mainstream historical-critical scholarship recognizes the Genesis flood narrative as a composite of two distinct source documents that have been interwoven in the final form. The principal observations:
+### Текстуальный вопрос: источники J и P
 
-- The narrative contains substantial repetitions and apparent contradictions: two distinct accounts of Noah's entry into the ark (Genesis 7:1–5 and 7:6–9), two distinct accounts of the cargo (one pair vs. seven pairs of clean animals at 6:19–20 and 7:2–3), two distinct accounts of the flood duration (forty days at 7:12 vs. 150 days at 7:24), two distinct names for the deity (Yahweh in some sections, Elohim in others).
-- The Yahwist source (J) is identified by the use of the divine name Yahweh, the seven-pairs cargo specification, the forty-day duration, and other distinctive features. J is conventionally dated to the early monarchic period (c. 10th–9th century BCE).
-- The Priestly source (P) is identified by the use of the divine name Elohim, the one-pair cargo specification, the 150-day duration, the elaborate dating-by-month-and-day notation, and other distinctive features. P is conventionally dated to the post-exilic period (c. 6th–5th century BCE).
+Академическая историко‑критическая наука признаёт потопное повествование Бытия композитом двух различных источников, переплетённых в окончательной форме. Основные наблюдения:
 
-The framework's reading does not reject the documentary-hypothesis observation that the final-form text combines multiple sources. The corpus reads the underlying historical event as preserved in both source traditions, with the source variations reflecting different angles of preservation rather than fundamentally different events. The framework's specific operational reading (orbital duration of 150 days, weather phenomena of forty days as specific atmospheric effects) draws on both source traditions where their specific details are operationally informative.
+- Повествование содержит существенные повторы и кажущиеся противоречия: два различных рассказа о вхождении Ноя в ковчег (Бытие 7:1–5 и 7:6–9), два различных рассказа о грузе (одна пара против семи пар чистых животных в 6:19–20 и 7:2–3), два различных рассказа о продолжительности потопа (сорок дней в 7:12 против 150 дней в 7:24), два различных имени божества (Яхве в одних разделах, Элохим в других).
+- Яхвистский источник (J) опознаётся по использованию божественного имени Яхве, спецификации семи пар, сорокадневной продолжительности и иным отличительным чертам. J условно датируется ранним монархическим периодом (ок. X–IX вв. до н. э.).
+- Жреческий источник (P) опознаётся по использованию божественного имени Элохим, спецификации одной пары, продолжительности 150 дней, развёрнутой нотации датировки по месяцу и дню и иным отличительным чертам. P условно датируется послепленным периодом (ок. VI–V вв. до н. э.).
 
-### Other Hebrew Bible references
+Прочтение корпуса не отвергает наблюдение документальной гипотезы о том, что текст окончательной формы соединяет несколько источников. Корпус прочитывает лежащее в основе историческое событие как сохранённое в обеих традициях‑источниках, причём вариации источников отражают разные углы сохранения, а не принципиально разные события. Конкретное операционное прочтение корпуса (орбитальная продолжительность 150 дней, погодные явления в 40 дней как конкретные атмосферные эффекты) опирается на обе традиции‑источники там, где их конкретные детали операционно информативны.
 
-Several other Hebrew Bible passages refer to the Flood event:
+### Другие отсылки в Еврейской Библии
 
-- **Job 38:8–11** records Yahweh's containing the seas: *"Who shut in the sea with doors, when it burst forth from the womb... and prescribed bounds for it, and set bars and doors, and said, 'Thus far shall you come, and no farther, and here shall your proud waves be stayed'?"* The passage's specific cosmic-water imagery has been read by some interpreters as reflecting Flood-tradition material.
-- **Psalm 29:10** records: *"Yahweh sat enthroned at the Flood (la-mabbul); Yahweh sits enthroned as king forever."* This is the only non-Genesis Hebrew Bible occurrence of the specific term *mabbul*.
-- **Isaiah 54:9** invokes the Flood covenant explicitly: *"This is like the days of Noah to me; just as I swore that the waters of Noah should never again go over the earth, so I have sworn that I will not be angry with you and will not rebuke you."*
+Несколько других мест Еврейской Библии отсылают к событию Потопа:
 
-### New Testament references
+- **Иов 38:8–11** фиксирует, как Яхве заключает мо́ря: *«Кто затворил море дверями, когда оно исторгалось, как бы выходило из чрева... и установил ему пределы, и положил запоры и двери, и сказал: „доселе дойдёшь и не перейдёшь, и здесь предел надменным волнам твоим"?»* Конкретная космическо‑водная образность фрагмента прочитывалась некоторыми интерпретаторами как отражение потопно‑традиционного материала.
+- **Псалом 28/29:10** фиксирует: *«Яхве восседал во время потопа (la-mabbul); и будет восседать Яхве царём вовек»*. Это единственное небытийное вхождение специфического термина *mabbul* в Еврейской Библии.
+- **Исаия 54:9** прямо взывает к Ноеву Завету: *«Это для Меня как воды Ноя: как Я поклялся, что воды Ноя не придут более на землю, так поклялся не гневаться на тебя и не укорять тебя»*.
 
-The New Testament references the Flood material in several theological contexts:
+### Отсылки в Новом Завете
 
-- **Matthew 24:37–39** (and parallel Luke 17:26–27) records Jesus's reference to the Flood as a typological precedent for the coming of the Son of Man.
-- **1 Peter 3:20–21** references the eight souls saved through water as a typological figure for Christian baptism.
-- **2 Peter 2:5** references "the ancient world" that was destroyed except for "Noah, a herald of righteousness, with seven others."
-- **2 Peter 3:5–7** uses the Flood as typological precedent for the coming destruction by fire.
-- **Hebrews 11:7** lists Noah's faith in building the ark as exemplary.
+Новый Завет отсылает к материалу о Потопе в нескольких богословских контекстах:
 
-The New Testament references treat the Flood as a historical event with typological significance for Christian theology. The corpus reads these references as continuing the broader Hebrew tradition's treatment of the Flood as a specific historical event, with the New Testament's typological elaborations being theological constructions that build on the underlying historical material.
+- **Матфея 24:37–39** (и параллельное Луки 17:26–27) фиксирует отсылку Иисуса к Потопу как типологическому прообразу пришествия Сына Человеческого.
+- **1 Петра 3:20–21** ссылается на восемь душ, спасённых через воду, как на типологический образ христианского крещения.
+- **2 Петра 2:5** ссылается на «древний мир», уничтоженный, кроме «Ноя, проповедника правды, с семью другими».
+- **2 Петра 3:5–7** использует Потоп как типологический прообраз грядущего уничтожения огнём.
+- **Евреям 11:7** перечисляет веру Ноя в постройке ковчега как образцовую.
 
-### The Mesopotamian textual precedents
+Отсылки Нового Завета трактуют Потоп как историческое событие с типологическим значением для христианского богословия. Корпус прочитывает эти отсылки как продолжение более широкого еврейского обращения с Потопом как с конкретным историческим событием, причём типологические разработки Нового Завета — богословские конструкции, надстроенные над лежащим в основе историческим материалом.
 
-The Mesopotamian flood narratives substantially predate the Hebrew Bible's Genesis material and provide direct textual parallels that mainstream scholarship has documented since George Smith's 1872 rediscovery of the Babylonian flood narrative. The principal Mesopotamian texts:
+### Месопотамские текстовые предшественники
 
-**The *Atra-ḫasīs* epic** (c. 18th century BCE in its preserved form, with possible earlier oral antecedents) records the flood narrative within a broader Mesopotamian theological framework. The principal narrative elements:
-- The gods create humans to relieve themselves of agricultural labor
-- Human population growth produces noise and disturbance that the gods find intolerable
-- The gods send plagues, droughts, and famines to reduce the human population
-- When these prove insufficient, the gods decide to send a flood to destroy humanity
-- The god Enki warns Atra-ḫasīs (the "exceedingly wise" human) of the impending flood and instructs him to build a vessel
-- Atra-ḫasīs builds the vessel and preserves himself, his family, and animals through the flood
-- After the flood, the gods regret the destruction and establish new arrangements with the surviving humans
+Месопотамские потопные повествования существенно предшествуют материалу Бытия в Еврейской Библии и предоставляют прямые текстовые параллели, которые академическая наука документирует со времени переоткрытия Джорджем Смитом вавилонского повествования о потопе в 1872 году. Основные месопотамские тексты:
 
-**The *Epic of Gilgamesh*** preserves the flood narrative in Tablet XI, which records Utnapishtim's account of the flood event to Gilgamesh during the latter's quest for immortality. The Gilgamesh flood narrative is substantially parallel to the *Atra-ḫasīs* account, with Utnapishtim serving as the parallel figure to Atra-ḫasīs and Noah. The specific narrative elements (the divine warning, the construction of the vessel, the duration of the flood, the release of birds to test the conditions) are remarkably parallel to the Genesis narrative.
+**Эпос об *Атра‑хасисе***{{ cite(id="atra-hasis-lambert-millard", text="[2]", title="Lambert & Millard (1969), «Атра‑хасис: вавилонский рассказ о потопе» — критическое издание и перевод") }} (ок. XVIII в. до н. э. в сохранившейся форме, с возможными более ранними устными предшественниками) фиксирует повествование о потопе в более широкой месопотамской богословской рамке. Основные нарративные элементы:
+- Боги создают людей, чтобы избавить себя от сельскохозяйственного труда
+- Рост человеческой популяции производит шум и беспокойство, которые боги находят невыносимыми
+- Боги насылают эпидемии, засухи и голод, чтобы сократить человеческую популяцию
+- Когда это оказывается недостаточным, боги решают наслать потоп для уничтожения человечества
+- Бог Энки предупреждает Атра‑хасиса («чрезвычайно мудрого» человека) о грядущем потопе и приказывает построить сосуд
+- Атра‑хасис строит сосуд и сохраняет себя, свою семью и животных через потоп
+- После потопа боги сожалеют о разрушении и устанавливают новые соглашения с выжившими людьми
 
-**The Sumerian *Eridu Genesis*** preserves the earliest known version of the flood narrative, with Ziusudra ("life of long days") as the parallel figure. The Sumerian account, fragmentary in its preserved form, records substantially the same narrative elements as the later Akkadian and Hebrew traditions.
+***Эпос о Гильгамеше***{{ cite(id="george-gilgamesh", text="[3]", title="George (1999), Эпос о Гильгамеше — доступное английское издание, включая повествование о потопе в табличке XI") }} сохраняет повествование о потопе в табличке XI, где зафиксирован рассказ Утнапиштима о событии потопа Гильгамешу во время поисков последним бессмертия. Повествование о потопе в «Гильгамеше» существенно параллельно рассказу из «Атра‑хасиса», причём Утнапиштим выступает как параллельная фигура Атра‑хасиса и Ноя. Конкретные нарративные элементы (божественное предупреждение, постройка сосуда, продолжительность потопа, выпуск птиц для проверки условий) поразительно параллельны повествованию Бытия.
 
-The framework reads these Mesopotamian precedents as parallel preservations of the same underlying historical event rather than as independent mythological developments. The Hebrew tradition's specific Noahic narrative is one of several culturally specific preservations of the Gemini-age flood event, with the Mesopotamian preservations being closer to the event geographically and chronologically and therefore preserving substantial operational detail.
+**Шумерское *Эриду Бытие*** сохраняет самую раннюю известную версию повествования о потопе, с Зиусудрой («долгих дней жизни») в качестве параллельной фигуры. Шумерский рассказ, фрагментарный в сохранившейся форме, фиксирует по существу те же нарративные элементы, что и более поздние аккадская и еврейская традиции.
 
-## Chronology and duration
+Корпус прочитывает эти месопотамские предшественники как параллельные сохранения одного и того же лежащего в основе исторического события, а не как независимые мифологические разработки. Конкретное Ноево повествование еврейской традиции — одно из нескольких культурно‑специфичных сохранений события потопа Эпохи Близнецов, причём месопотамские сохранения географически и хронологически ближе к событию и потому сохраняют существенные операционные детали.
 
-The Flood's chronology in the framework's reading is structured by the broader corpus's precessional-age framework. The principal points:
+## Хронология и продолжительность
 
-### Date in the framework
+Хронология Потопа в прочтении корпуса структурирована более широкой прецессионно‑возрастной рамкой корпуса. Основные положения:
 
-The framework places the Flood at approximately **6,690 BCE**, at the opening of the Age of Gemini. The dating is derived from the corpus's broader precessional-age chronology, with the Age of Gemini running from c. 6,690 BCE to c. 4,530 BCE in the corpus's framework.
+### Дата в рамке корпуса
 
-The 6,690 BCE date is substantially older than the conventional biblical chronology (which places the Flood at approximately 2,300 BCE on Ussher's calculations, derived from the Genesis 5 patriarchal genealogy) and substantially younger than the conventional geological dating of any major catastrophic events. The framework's date is internal to the corpus's broader chronological framework rather than directly attested in the source material; the corpus derives the date from the precessional-age scheme rather than from an explicit Raëlian-source dating.
+Корпус помещает Потоп приблизительно в **6690 г. до н. э.**, на открытие Эпохи Близнецов. Датировка выводится из более широкой прецессионно‑возрастной хронологии корпуса, причём Эпоха Близнецов продлевается с ок. 6690 г. до н. э. до ок. 4530 г. до н. э. в рамке корпуса.
 
-The conventional biblical chronology problem warrants registration. The Genesis 5 patriarchal genealogy, taken at face value with the recorded ages summed, places the Flood approximately 1,656 years after the creation of Adam. Combined with various subsequent biblical chronological calculations, this produces dates ranging from approximately 2,300 BCE (the Ussher tradition) to approximately 3,500 BCE (other traditional calculations). The framework's reading addresses this discrepancy by treating the Genesis 5 genealogy's specific recorded ages as substantively meaningful (the patriarchs received longevity treatment from the Lucifer faction's continuing post-Eden support) but the cumulative chronological calculation as unreliable for absolute dating purposes (the genealogies may compress generations or contain other transmission distortions across the long oral-and-written transmission period).
+Дата 6690 г. до н. э. существенно древнее общепринятой библейской хронологии (которая помещает Потоп приблизительно в 2300 г. до н. э. по расчётам Ашшера, выведенным из патриаршей генеалогии Бытия 5) и существенно моложе общепринятой геологической датировки любых крупных катастрофических событий. Дата в рамке корпуса внутренняя для более широкой хронологической рамки корпуса, а не прямо засвидетельствована в первоисточнике; корпус выводит дату из схемы прецессионных эпох, а не из прямой раэлианско‑источниковой датировки.
 
-### Duration of the event
+Стоит зафиксировать проблему общепринятой библейской хронологии. Патриаршая генеалогия Бытия 5, взятая в буквальном виде с суммированием записанных возрастов, помещает Потоп примерно через 1656 лет после сотворения Адама. В сочетании с различными последующими библейскими хронологическими расчётами это даёт даты в диапазоне примерно от 2300 г. до н. э. (традиция Ашшера) до примерно 3500 г. до н. э. (другие традиционные расчёты). Прочтение корпуса разрешает это расхождение, трактуя конкретные записанные возрасты в генеалогии Бытия 5 как существенно осмысленные (патриархи получили обработку на долголетие со стороны продолжавшейся послеэдемской поддержки фракции Люцифера), но кумулятивный хронологический расчёт — как ненадёжный для целей абсолютной датировки (генеалогии могут сжимать поколения или содержать иные искажения трансмиссии за долгий период устной и письменной передачи).
 
-The Flood event itself, on the framework's reading, has several distinct phases with distinct durations:
+### Продолжительность события
 
-**The pre-Flood preparation period**: Centuries to perhaps a millennium of ark construction by the Lucifer faction and the Noahic operational team. The Genesis 5 genealogy records Noah's age at 600 years when the Flood begins (Genesis 7:6); the framework reads this as substantively accurate, with the ark's construction occupying the latter portion of Noah's pre-Flood lifespan and involving substantial operational team effort across the construction period.
+Само событие Потопа, в прочтении корпуса, имеет несколько отдельных фаз с разной продолжительностью:
 
-**The catastrophic phase**: The immediate effects of the nuclear weapons impacts — the continental tidal wave, the atmospheric and seismic disruption, the mass extinction of the surface biosphere. The Genesis text records "forty days and forty nights" of rain (Genesis 7:12), which the framework reads as the period of severe atmospheric disturbance following the impacts (precipitation effects from the impact-generated atmospheric disruption, fallout-bearing rain across the affected zones).
+**Допотопный подготовительный период**: века, возможно тысячелетие постройки ковчега фракцией Люцифера и операционной командой Ноя. Генеалогия Бытия 5 фиксирует возраст Ноя в 600 лет, когда начинается Потоп (Бытие 7:6); корпус прочитывает это как существенно точное, причём постройка ковчега занимает позднюю часть допотопной продолжительности жизни Ноя и предполагает существенные усилия операционной команды на протяжении периода строительства.
 
-**The orbital phase**: 150 days (Genesis 7:24) during which the ark remained in orbit while the surface conditions stabilized. The framework reads this as the period during which the radioactive fallout from the nuclear weapons decayed to levels that the surface could again support life, with the alliance personnel monitoring the fallout decay and conducting the necessary atmospheric remediation.
+**Катастрофическая фаза**: непосредственные эффекты ядерных ударов — континентальная приливная волна, атмосферные и сейсмические возмущения, массовое вымирание поверхностной биосферы. Текст Бытия фиксирует «сорок дней и сорок ночей» дождя (Бытие 7:12), что корпус прочитывает как период сильного атмосферного возмущения после ударов (осадковые эффекты от импактно‑порождённого атмосферного возмущения, выпадение осадков с радиоактивными осадками над затронутыми зонами).
 
-**The post-Flood landing and reseeding period**: Months to years following the orbital phase, during which the ark landed (Genesis 8:4 places the landing on the seventeenth day of the seventh month, with the waters drying off the earth across subsequent months), the animals were released, the post-Flood agriculture began, and the broader reseeding operations were conducted.
+**Орбитальная фаза**: 150 дней (Бытие 7:24), в течение которых ковчег оставался на орбите, пока стабилизировались поверхностные условия. Корпус прочитывает это как период, в течение которого радиоактивные осадки от ядерного оружия распадались до уровней, при которых поверхность снова могла поддерживать жизнь, причём персонал альянса отслеживал распад радиоактивных осадков и проводил необходимую атмосферную ремедиацию.
 
-**The Noahic covenant founding moment**: The specific event at the post-Flood altar where the formal Alliance between the exiled creators and the human survivors was established. This is treated extensively in the [The Alliance](../the-alliance/) entry.
+**Послепотопная фаза приземления и пересеивания**: месяцы — годы после орбитальной фазы, в течение которых ковчег приземлился (Бытие 8:4 помещает приземление на семнадцатый день седьмого месяца, причём во́ды сходили с земли в течение последующих месяцев), животные были выпущены, началось послепотопное земледелие и проводились более широкие операции пересеивания.
 
-The total duration from the catastrophic phase through the establishment of viable post-Flood conditions was, on the framework's reading, on the order of a year — substantially consistent with the Genesis narrative's specific chronological notations.
+**Основополагающий момент Ноева Завета**: конкретное событие у послепотопного жертвенника, где был установлен формальный Альянс между сосланными творцами и человеческими выжившими. Это подробно рассматривается в статье {% wiki(slug="the-alliance") %}Альянс{% end %}.
 
-## The events themselves
+Общая продолжительность от катастрофической фазы до установления жизнеспособных послепотопных условий составила, в прочтении корпуса, порядка года — существенно согласуясь с конкретными хронологическими указаниями повествования Бытия.
 
-The Flood event's narrative arc, on the framework's reading, can be reconstructed from the source material with substantial detail. The principal phases:
+## Сами события
 
-### The pre-Flood political situation
+Нарративная арка события Потопа в прочтении корпуса может быть реконструирована из материала первоисточника с существенными деталями. Основные фазы:
 
-The pre-Flood political situation at the close of the Age of Cancer involved several interconnected developments:
+### Допотопная политическая ситуация
 
-**The antediluvian Eden civilization's technological development**. Across the approximately 4,700 years between the Eden disclosure (c. 11,375 BCE) and the Flood (c. 6,690 BCE), the Eden-lineage civilization had developed under the continuing teaching of the exiled Lucifer faction. By the close of the Age of Cancer, the civilization had achieved substantial technological capability — substantially exceeding what the home-world Council's containment policy had originally permitted, and approaching levels that the Council judged threatening.
+Допотопная политическая ситуация на закате Эпохи Рака включала несколько взаимосвязанных событий:
 
-**The *benei ha-Elohim* and Nephilim development**. Genesis 6:1–4 records the *benei ha-Elohim* episode in which "sons of Elohim" took human women as wives and produced hybrid offspring. The framework reads this as the broader operational reality of Eloha-human reproductive interaction across the antediluvian period, with the resulting Nephilim hybrid population becoming a substantial portion of the antediluvian civilization's leadership and producing an increasing genetic mixing that the home-world Council found alarming.
+**Технологическое развитие допотопной эдемской цивилизации**. На протяжении приблизительно 4700 лет между раскрытием Эдема (ок. 11 375 г. до н. э.) и Потопом (ок. 6690 г. до н. э.) эдемско‑линейная цивилизация развивалась под продолжавшимся руководством сосланной фракции Люцифера. К закату Эпохи Рака цивилизация достигла существенной технологической способности — существенно превышая то, что изначально допускала политика сдерживания Совета родной планеты, и приближаясь к уровням, которые Совет счёл угрожающими.
 
-**The Council's deliberation**. The home-world Council, watching the antediluvian developments across the long centuries, eventually concluded that the situation had passed the point where the original political settlement could be sustained. The Council's specific deliberations are not preserved in detail in the source material, but the broader framework reading is that the decision involved substantial political conflict between the abolitionist faction (led by Satan, advocating immediate termination) and various more moderate factions, with the eventual decision being a compromise: destruction of the broader human creation while permitting the exiled creators themselves to remain.
+**Развитие *benei ha-Elohim* и Нефилимов**. Бытие 6:1–4 фиксирует эпизод *benei ha-Elohim*, в котором «сыны Элохим» взяли в жёны человеческих женщин и произвели гибридное потомство. Корпус прочитывает это как более широкую операционную реальность репродуктивного взаимодействия «Элоха — человек» в допотопный период, причём возникшая нефилимская гибридная популяция стала существенной частью руководства допотопной цивилизации и произвела возрастающее генетическое смешение, которое Совет родной планеты нашёл тревожным.
 
-**The destruction order**. The home-world Council formally ordered the destruction of all life on Earth, with the destruction to be effected through nuclear weapons impacts. The order was issued without consultation with the exiled creators and without consideration of the human survivors who might be preserved.
+**Обсуждение в Совете**. Совет родной планеты, наблюдая допотопные события на протяжении долгих столетий, в конце концов заключил, что ситуация прошла точку, за которой исходное политическое урегулирование не могло быть сохранено. Конкретные обсуждения Совета не сохранились в деталях в первоисточнике, но более широкое прочтение корпуса состоит в том, что решение включало существенный политический конфликт между аболиционистской фракцией (во главе с Сатаной, отстаивавшей немедленное прекращение) и различными более умеренными фракциями, причём окончательное решение было компромиссом: уничтожение более широкого человеческого творения с разрешением самим сосланным творцам остаться.
 
-### The exiled creators' counter-preparation
+**Приказ об уничтожении**. Совет родной планеты формально приказал уничтожить всю жизнь на Земле, причём уничтожение должно было быть осуществлено посредством ядерных ударов. Приказ был отдан без консультации с сосланными творцами и без учёта человеческих выживших, которые могли бы быть сохранены.
 
-The exiled Lucifer faction, learning of the Council's destruction order, conducted a substantial counter-preparation across the years preceding the Flood:
+### Контрподготовка сосланных творцов
 
-**The strategic decision**. The exiled creators decided not to attempt to prevent the catastrophe (which would have required direct military confrontation with the Council that they could not realistically win) but to preserve the human creation through the catastrophe. This is the strategic decision the framework reads as the founding moment of the broader Alliance — a calculated political act undertaken in hope of eventual reconciliation.
+Сосланная фракция Люцифера, узнав о приказе Совета об уничтожении, провела существенную контрподготовку в годы, предшествующие Потопу:
 
-**The Noahic operational team**. The exiled creators identified Noah as the principal human partner for the preservation operation. Noah's specific qualifications — the source material's "righteous" framing — are read by the framework as identifying Noah's competence, leadership capacity, and commitment to the cooperative project rather than as moral-theological evaluation. The broader operational team that supported the construction was substantial: workers, technicians, biologists, support personnel from the antediluvian Eden civilization who participated in the project across its decades of development. Most of this broader team was not preserved through the catastrophe — only Noah's immediate family was on board the ark itself.
+**Стратегическое решение**. Сосланные творцы решили не пытаться предотвратить катастрофу (что потребовало бы прямой военной конфронтации с Советом, в которой они не могли реалистично победить), а сохранить человеческое творение через катастрофу. Это стратегическое решение корпус прочитывает как основополагающий момент более широкого Альянса — расчётливый политический акт, предпринятый в надежде на возможное примирение.
 
-**The construction of the ark**. The ark was constructed over an extended period (centuries on the source's reading, though the Genesis text does not specify an exact duration) according to technical specifications provided by the exiled creators. The framework's reading of the ark's specific character:
+**Ноева операционная команда**. Сосланные творцы определили Ноя как главного человеческого партнёра для операции сохранения. Конкретные качества Ноя — обрамление в первоисточнике как «праведного» — корпус прочитывает как идентификацию компетентности Ноя, лидерских способностей и преданности кооперативному проекту, а не как морально‑богословскую оценку. Более широкая операционная команда, поддерживавшая постройку, была существенной: работники, техники, биологи, вспомогательный персонал из допотопной эдемской цивилизации, участвовавшие в проекте на протяжении десятилетий его развития. Бо́льшая часть этой более широкой команды не была сохранена через катастрофу — лишь непосредственная семья Ноя находилась на борту самого ковчега.
 
-- The ark was a **spacecraft**, not a wooden boat. The Hebrew *tevah* (תֵּבָה) meaning "closed vessel" or "container" is consistent with this reading; the term is used elsewhere in the Hebrew Bible only for the basket in which the infant Moses was placed (Exodus 2:3), suggesting a specific technical-vessel meaning rather than the generic "boat" reading.
-- The dimensions specified in Genesis 6:15 (300 × 50 × 30 cubits) are read as the spacecraft's structural specifications rather than as nautical dimensions. The cubit unit's specific scale in the source material is uncertain; modern translations using the standard 18-inch cubit produce a vessel of approximately 137 × 23 × 14 meters, but the actual scale may have been different.
-- The three stories specified in Genesis 6:16 are read as the spacecraft's three deck levels, with various functional specifications for each level (cargo, crew quarters, operational systems).
-- The specific construction materials (gopher wood, pitch sealant) are read as the human-recordable account of materials whose specific technical character the human observers could not fully describe in their available vocabulary.
+**Постройка ковчега**. Ковчег был построен в течение продлённого периода (столетия в прочтении первоисточника, хотя текст Бытия не уточняет точную продолжительность) согласно техническим спецификациям, предоставленным сосланными творцами. Прочтение корпусом конкретного характера ковчега:
 
-**The genetic cargo**. The framework's reading of the cargo follows the source material's explicit clarification: rather than living pairs of every species (which would be impossible in any plausible vessel), the ark's actual cargo was substantially **genetic material** — preserved cellular samples from each species sufficient for post-Flood regeneration. The source's explicit phrasing: *"a single living cell of each species, male and female, is all that is required to recreate a whole being."* The framework reads this as the underlying technical reality, with the Genesis text's "two of every kind" language being the human-recordable account of the operation.
+- Ковчег был **космическим аппаратом**, а не деревянной лодкой. Еврейское *tevah* (תֵּבָה) со значением «закрытый сосуд» или «вместилище» согласуется с этим прочтением; термин используется в Еврейской Библии в другом месте только для корзины, в которую был положен младенец Моисей (Исход 2:3), что предполагает специфическое технико‑сосудное значение, а не родовое «лодка».
+- Размеры, указанные в Бытии 6:15 (300 × 50 × 30 локтей), прочитываются как структурные спецификации космического аппарата, а не как мореходные размеры. Конкретный масштаб единицы локтя в первоисточнике неопределён; современные переводы, использующие стандартный 18‑дюймовый локоть, дают сосуд примерно 137 × 23 × 14 метров, но фактический масштаб мог быть иным.
+- Три яруса, указанные в Бытии 6:16, прочитываются как три палубных уровня космического аппарата с различными функциональными спецификациями для каждого уровня (груз, помещения экипажа, операционные системы).
+- Конкретные строительные материалы (дерево гофер, битумный герметик) прочитываются как доступный человеку‑записывателю отчёт о материалах, чей конкретный технический характер человеческие наблюдатели не могли полностью описать в имевшейся у них лексике.
 
-The ark's actual passengers included Noah, his wife, his three sons (Shem, Ham, Japheth), and their wives — eight humans total. The source material additionally specifies that representatives of the seven creator-team lineages were preserved through the operation, with these representatives apparently in either living form (small numbers from each lineage) or in genetic form (with subsequent post-Flood regeneration).
+**Генетический груз**. Прочтение груза корпусом следует прямому разъяснению первоисточника: вместо живых пар каждого вида (что было бы невозможно ни в каком правдоподобном сосуде), фактическим грузом ковчега был существенно **генетический материал** — сохранённые клеточные образцы каждого вида, достаточные для послепотопной регенерации. Прямая формулировка первоисточника: *«единой живой клетки каждого вида, мужского и женского, достаточно для воссоздания целого существа»*. Корпус прочитывает это как лежащую в основе техническую реальность, причём язык текста Бытия «по два каждого рода» — это доступный человеку‑записывателю отчёт об операции.
 
-### The catastrophic event
+Фактические пассажиры ковчега включали Ноя, его жену, трёх его сыновей (Сима, Хама, Иафета) и их жён — всего восемь человек. Первоисточник дополнительно уточняет, что через операцию были сохранены представители семи линий команд‑творцов, причём эти представители, по‑видимому, были либо в живой форме (малое число от каждой линии), либо в генетической форме (с последующей послепотопной регенерацией).
 
-The Council's destruction order was executed through nuclear weapons impacts directed at the central zones of the antediluvian Pangaean supercontinent. The framework's reading of the specific operational events:
+### Катастрофическое событие
 
-**The strike**. The weapons struck at multiple targets across the central regions of the supercontinent, with the impacts producing immediate catastrophic effects. The source material does not specify the exact number or distribution of weapons; the framework reads the strike as substantial in scale, sufficient to produce the immediate destruction of the antediluvian civilization's principal population centers and to initiate the broader continental-fragmentation effects.
+Приказ Совета об уничтожении был исполнен посредством ядерных ударов, направленных в центральные зоны допотопного суперконтинента Пангеи. Прочтение корпусом конкретных операционных событий:
 
-**The continental tidal wave**. The strike produced massive ocean displacements that propagated outward across the supercontinent's coastlines. The Genesis text's description of "the fountains of the great deep" being "broken up" (Genesis 7:11) is read by the framework as the human witnesses' specific account of the impact-generated tsunami effects.
+**Удар**. Оружие поразило несколько целей в центральных регионах суперконтинента, причём удары произвели непосредственные катастрофические эффекты. Первоисточник не уточняет точное число или распределение оружия; корпус прочитывает удар как существенный по масштабу, достаточный для немедленного уничтожения главных населённых центров допотопной цивилизации и для запуска более широких эффектов континентальной фрагментации.
 
-**The atmospheric and seismic disruption**. The strike produced substantial atmospheric disturbance (the "windows of heaven" being "opened" in Genesis 7:11, the "forty days and forty nights" of rain in Genesis 7:12), with the precipitation reflecting both the impact-disturbed water cycle and the fallout-bearing precipitation across the affected zones.
+**Континентальная приливная волна**. Удар произвёл массивные смещения океана, распространившиеся наружу через побережья суперконтинента. Описание текста Бытия о «разверзшихся источниках великой бездны» (Бытие 7:11) корпус прочитывает как конкретный отчёт человеческих свидетелей об эффектах цунами, порождённых импактом.
 
-**The continental fragmentation**. The most substantial geological consequence of the strike was the fragmentation of the Pangaean supercontinent into the modern continental configuration. The source material is explicit on this point: *"When the Elohim decided to destroy their bases, their laboratories and all that they had created on Earth, they must have used extremely powerful methods of destruction, which, as well as breaking up this original continent and sending each respective fragment drifting outwards from the centre of the shock, must also have swept the whole land surface."* The framework reads the modern continental drift as the residual momentum from this original displacement, with the ongoing GPS-measured plate motion being the slowing-down phase of the original Gemini-age event.
+**Атмосферные и сейсмические возмущения**. Удар произвёл существенные атмосферные возмущения («отворились окна небесные» в Бытии 7:11, «сорок дней и сорок ночей» дождя в Бытии 7:12), причём осадки отражали как нарушенный импактом водный цикл, так и осадки, несущие радиоактивные осадки, над затронутыми зонами.
 
-**The mass extinction**. The strike effectively destroyed the broader pre-Flood biosphere on the supercontinent's surface — the antediluvian human civilization's broader population, the Nephilim hybrid lineages, the various large terrestrial organisms (including the surviving dinosaur populations the source material treats as having persisted into the late antediluvian period), the broader plant and animal communities. The post-Flood biosphere would be reconstructed substantially from the genetic cargo preserved in the ark.
+**Континентальная фрагментация**. Наиболее существенным геологическим последствием удара была фрагментация суперконтинента Пангея в современную континентальную конфигурацию. Первоисточник прямо говорит об этом: *«Когда Элохимы решили уничтожить свои базы, свои лаборатории и всё, что они создали на Земле, они, должно быть, использовали чрезвычайно мощные методы уничтожения, которые, помимо разбиения этого изначального континента и отправки каждого соответствующего фрагмента дрейфовать наружу от центра удара, должны были также смести всю поверхность суши»*. Корпус прочитывает современный континентальный дрейф как остаточный импульс от этого изначального смещения, причём текущее измеряемое GPS движение плит — фаза замедления изначального события Эпохи Близнецов.
 
-### The orbital phase
+**Массовое вымирание**. Удар фактически уничтожил более широкую допотопную биосферу на поверхности суперконтинента — более широкую популяцию допотопной человеческой цивилизации, нефилимские гибридные линии, различные крупные наземные организмы (включая выжившие популяции динозавров, которые в первоисточнике трактуются как сохранявшиеся в позднем допотопном периоде), более широкие сообщества растений и животных. Послепотопная биосфера была бы восстановлена преимущественно из генетического груза, сохранённого в ковчеге.
 
-The ark's 150-day orbital period (Genesis 7:24) involved several specific operational features:
+### Орбитальная фаза
 
-**The lift-off**. The ark lifted off the Earth's surface before or during the initial weapon impacts. The Genesis 7:17 phrasing — *"the ark... was lift up above the earth"* — is read by the framework as specifically indicating the lifting *above* the Earth (into orbit) rather than *on* the water (as a floating boat). The Hebrew *vatārom mēʿal hā-ʾāreṣ* uses the directional preposition *mēʿal* ("from above"), preserving the orbital reading at the level of the Hebrew text itself.
+150‑дневный орбитальный период ковчега (Бытие 7:24) включал несколько конкретных операционных особенностей:
 
-**The orbital sustainment**. The ark remained in orbit for 150 days, sustaining its eight human occupants and the genetic cargo through the period during which the surface conditions stabilized. The specific orbital altitude and operational features are not specified in the source material; the framework reads the orbital sustainment as requiring substantial life-support, atmospheric, food-and-water, and waste-management infrastructure consistent with what the broader pre-Flood civilizational technology would have permitted.
+**Старт**. Ковчег стартовал с поверхности Земли до или во время начальных ударов оружия. Формулировка Бытия 7:17 — *«ковчег... поднялся над землёй»* — корпус прочитывает как конкретное указание на подъём *над* Землёй (на орбиту), а не *на* воде (как плавающая лодка). Еврейское *vatārom mēʿal hā-ʾāreṣ* использует направительный предлог *mēʿal* («сверху»), сохраняя орбитальное прочтение на уровне самого еврейского текста.
 
-**The fallout monitoring**. Throughout the orbital period, the alliance personnel monitored the radioactive fallout decay and conducted necessary atmospheric remediation. The source's specific phrase: *"After monitoring the level of radioactivity and dispersing it scientifically..."* This is read by the framework as the alliance's deliberate post-strike radiological remediation, with the specific technical mechanisms being beyond what the source material specifies.
+**Орбитальное обеспечение**. Ковчег оставался на орбите 150 дней, поддерживая своих восьмерых человеческих обитателей и генетический груз в течение периода, когда стабилизировались поверхностные условия. Конкретная орбитальная высота и операционные особенности не уточняются в первоисточнике; корпус прочитывает орбитальное обеспечение как требующее существенной инфраструктуры жизнеобеспечения — атмосферной, продовольственно‑водной и для управления отходами — согласованной с тем, что позволила бы более широкая допотопная цивилизационная технология.
 
-**The waters' recession**. The Genesis 8:1 reference to "Elohim made a wind to pass over the earth, and the waters asswaged" is read by the framework as the alliance personnel's deliberate atmospheric and oceanic stabilization following the catastrophic phase. The "wind" (*rûaḥ*) is read operationally as the application of substantive technological intervention to restore atmospheric and oceanic stability.
+**Мониторинг радиоактивных осадков**. На протяжении орбитального периода персонал альянса отслеживал распад радиоактивных осадков и проводил необходимую атмосферную ремедиацию. Конкретная фраза первоисточника: *«После мониторинга уровня радиоактивности и научного её рассеяния...»* Корпус прочитывает это как преднамеренную послеударную радиологическую ремедиацию альянса, причём конкретные технические механизмы выходят за рамки того, что уточняет первоисточник.
 
-### The post-Flood landing and reseeding
+**Спад вод**. Отсылка Бытия 8:1 к тому, что «Элохим навёл ветер на землю, и во́ды остановились», корпус прочитывает как преднамеренную атмосферную и океаническую стабилизацию персоналом альянса после катастрофической фазы. «Ветер» (*rûaḥ*) прочитывается операционно как применение существенного технологического вмешательства для восстановления атмосферной и океанической стабильности.
 
-The ark's eventual landing and the subsequent post-Flood operations involved several phases:
+### Послепотопное приземление и пересеивание
 
-**The landing**. The ark came to rest on the mountains of Ararat (Genesis 8:4) on the seventeenth day of the seventh month — approximately five months after the Flood's onset. The landing site is identified with the modern Mount Ararat region in eastern Turkey, though the specific location is contested. The framework reads the landing as the alliance's deliberate selection of a high-altitude site in the post-Flood continental configuration where surface conditions had stabilized sufficiently for safe landing.
+Возможное приземление ковчега и последующие послепотопные операции включали несколько фаз:
 
-**The bird-release sequence**. Genesis 8:6–12 records Noah's release of the raven and the dove as tests of the surface conditions. The framework reads this as the specific operational sequence by which Noah verified that the surface conditions were habitable, with the dove's eventual return with an olive branch (Genesis 8:11) serving as the specific evidence that vegetation had begun to re-establish.
+**Приземление**. Ковчег остановился на горах Арарат (Бытие 8:4) на семнадцатый день седьмого месяца — примерно через пять месяцев после начала Потопа. Место приземления отождествляется с современным регионом горы Арарат в восточной Турции, хотя конкретное расположение оспаривается. Корпус прочитывает приземление как преднамеренный выбор альянсом высокогорного места в послепотопной континентальной конфигурации, где поверхностные условия достаточно стабилизировались для безопасного приземления.
 
-**The disembarkation**. Genesis 8:15–19 records Noah's disembarkation from the ark with his family and the animals at the divine command. The framework reads this as the alliance's authorization for Noah's family to begin the post-Flood reconstruction.
+**Последовательность выпуска птиц**. Бытие 8:6–12 фиксирует выпуск Ноем ворона и голубя как проверки поверхностных условий. Корпус прочитывает это как конкретную операционную последовательность, посредством которой Ной проверил, что поверхностные условия пригодны для жизни, причём возвращение голубя с оливковой ветвью (Бытие 8:11) служит конкретным свидетельством того, что растительность начала восстанавливаться.
 
-**The post-Flood reseeding**. The animals released from the ark (and the additional genetic-material reconstruction subsequently conducted) provided the foundational populations for the post-Flood biosphere. The specific reseeding operation involved the alliance's continuing technical support across an extended period — months to years following the disembarkation — during which the broader biosphere was reconstructed from the preserved genetic material. The framework reads this as a substantial technical operation, with the alliance personnel actively conducting the reseeding work alongside Noah's family's broader resettlement activities.
+**Высадка**. Бытие 8:15–19 фиксирует высадку Ноя из ковчега с семьёй и животными по божественному повелению. Корпус прочитывает это как разрешение альянса для семьи Ноя начать послепотопное восстановление.
 
-**The post-Flood return of the seven lineages**. The source material specifies that the ark also carried representatives of the seven antediluvian creator-team lineages, with each lineage being returned to its original geographic region after the Flood: *"Each race of humanity was then returned to its original place of creation."* The framework reads this as the alliance's restoration of the broader pre-Flood human population's geographic distribution across the post-Flood continental configuration, with the post-Flood populations descending from the small founder groups of each lineage.
+**Послепотопное пересеивание**. Животные, выпущенные из ковчега (и дополнительная реконструкция из генетического материала, проведённая впоследствии), обеспечили основательские популяции для послепотопной биосферы. Конкретная операция пересеивания включала продолжавшуюся техническую поддержку альянса на протяжении продлённого периода — месяцев — лет после высадки, — в течение которого более широкая биосфера восстанавливалась из сохранённого генетического материала. Корпус прочитывает это как существенную техническую операцию, причём персонал альянса активно проводил работу по пересеиванию наряду с более широкой деятельностью по переселению семьи Ноя.
 
-### The Noahic covenant founding
+**Послепотопное возвращение семи линий**. Первоисточник уточняет, что ковчег также нёс представителей семи допотопных линий команд‑творцов, причём каждая линия возвращалась в свой изначальный географический регион после Потопа: *«Каждая раса человечества затем была возвращена в своё изначальное место создания»*. Корпус прочитывает это как восстановление альянсом более широкого географического распределения допотопной человеческой популяции по послепотопной континентальной конфигурации, причём послепотопные популяции происходят от малых групп‑основателей каждой линии.
 
-The post-Flood altar event recorded in Genesis 8:20–9:17 is, on the framework's reading, the founding moment of the broader Alliance. The principal events:
+### Основание Ноева Завета
 
-**Noah's altar and burnt offering**. Genesis 8:20 records Noah's construction of an altar and his offering of "burnt offerings" of "every clean beast" and "every clean fowl." The framework reads this as the specific human-side ceremonial gesture that initiated the formal alliance relationship — the human party's offering of recognition and gratitude to the exiled creators who had preserved them through the catastrophe.
+Послепотопное событие у жертвенника, зафиксированное в Бытии 8:20–9:17, является в прочтении корпуса основополагающим моментом более широкого Альянса. Основные события:
 
-**The covenant terms**. Genesis 9:8–17 records the formal terms of the covenant: the creators' commitment never to participate in another destruction of humanity, the rainbow as the visible sign of the covenant. The framework reads these terms as the founding moment of the Alliance's specific bilateral obligations.
+**Жертвенник и всесожжение Ноя**. Бытие 8:20 фиксирует постройку Ноем жертвенника и его принесение «всесожжений» из «всякого скота чистого» и «всякой птицы чистой». Корпус прочитывает это как конкретный человеческо‑сторонний церемониальный жест, инициировавший формальные отношения альянса — приношение признания и благодарности со стороны человеческой стороны сосланным творцам, которые сохранили их через катастрофу.
 
-**The Alliance founding**. The detailed treatment of the Alliance's founding lives in the [The Alliance](../the-alliance/) entry. For the Great Flood entry, the principal point is that the post-Flood altar event constitutes the operational outcome of the Flood — the establishment of the formal cross-civilizational political body that would structure all subsequent Eloha-human relations.
+**Условия завета**. Бытие 9:8–17 фиксирует формальные условия завета: обязательство творцов никогда более не участвовать в новом уничтожении человечества, радуга как видимый знак завета. Корпус прочитывает эти условия как основополагающий момент конкретных двусторонних обязательств Альянса.
 
-## Mechanisms and operational content
+**Основание Альянса**. Подробное рассмотрение основания Альянса находится в статье {% wiki(slug="the-alliance") %}Альянс{% end %}. Для статьи о Великом потопе основной момент состоит в том, что послепотопное событие у жертвенника конституирует операционный результат Потопа — установление формального межцивилизационного политического органа, который структурировал бы все последующие отношения «Элоха — человек».
 
-The framework's reading of the Flood's specific mechanisms warrants direct treatment, given the substantial divergence from the conventional reading of the Genesis narrative.
+## Механизмы и операционное содержание
 
-### The nuclear weapons mechanism
+Прочтение корпусом конкретных механизмов Потопа заслуживает прямого рассмотрения, учитывая существенное расхождение с общепринятым прочтением повествования Бытия.
 
-The framework reads the Flood's destructive mechanism as **nuclear weapons impacts** rather than as supernatural divine intervention or as natural meteorological catastrophe. The source material is explicit on this point: the Council *"decided from their distant planet to destroy all life on Earth by sending nuclear missiles."*
+### Механизм ядерного оружия
 
-The specific implications of this reading:
+Корпус прочитывает разрушительный механизм Потопа как **ядерные удары**, а не как сверхъестественное божественное вмешательство или природную метеорологическую катастрофу. Первоисточник прямо говорит об этом: Совет *«решил со своей далёкой планеты уничтожить всю жизнь на Земле, послав ядерные ракеты»*.
 
-- The "forty days and forty nights" of rain (Genesis 7:12) is read as the period of severe atmospheric disturbance following the impacts, with the precipitation reflecting both impact-generated atmospheric disruption and fallout-bearing rain across the affected zones.
-- The "fountains of the great deep" being "broken up" (Genesis 7:11) is read as the impact-generated tsunami effects propagating across the supercontinent's coastlines.
-- The "windows of heaven" being "opened" (Genesis 7:11) is read as the atmospheric phenomena resulting from the impacts (cloud generation, precipitation effects, atmospheric circulation disruption).
-- The 150 days during which "the waters prevailed upon the earth" (Genesis 7:24) is read as the orbital period during which the radioactive fallout decayed to safe levels.
-- The post-Flood divine "wind" that "passed over the earth" (Genesis 8:1) is read as the alliance's deliberate atmospheric remediation.
+Конкретные следствия этого прочтения:
 
-The reading involves substantial reinterpretation of the conventional flood-as-meteorological-event reading. The framework does not deny that substantial water-based effects occurred (the continental tidal waves, the atmospheric precipitation, the broader oceanic disruption); the framework's specific claim is about the underlying mechanism that produced these effects.
+- «Сорок дней и сорок ночей» дождя (Бытие 7:12) прочитываются как период сильного атмосферного возмущения после ударов, причём осадки отражают как импактно‑порождённое атмосферное возмущение, так и выпадение осадков с радиоактивными осадками над затронутыми зонами.
+- «Разверзшиеся источники великой бездны» (Бытие 7:11) прочитываются как эффекты цунами, порождённые импактом и распространяющиеся через побережья суперконтинента.
+- «Отворившиеся окна небесные» (Бытие 7:11) прочитываются как атмосферные явления, возникающие в результате ударов (генерация облаков, осадковые эффекты, нарушение атмосферной циркуляции).
+- 150 дней, в течение которых «во́ды усиливались на земле» (Бытие 7:24), прочитываются как орбитальный период, в течение которого радиоактивные осадки распадались до безопасных уровней.
+- Послепотопный божественный «ветер», который «прошёл по земле» (Бытие 8:1), прочитывается как преднамеренная атмосферная ремедиация альянса.
 
-### The continental fragmentation
+Прочтение предполагает существенную переинтерпретацию общепринятого прочтения потопа‑как‑метеорологического‑события. Корпус не отрицает, что произошли существенные эффекты, связанные с водой (континентальные приливные волны, атмосферные осадки, более широкое океаническое возмущение); конкретное утверждение корпуса касается лежащего в основе механизма, который произвёл эти эффекты.
 
-The framework's reading of the Flood's geological consequences is one of the corpus's sharpest single disagreements with mainstream science. The framework reads the modern continental configuration as the result of the Flood event's continental-fragmentation effects, with the ongoing continental drift being the residual momentum from the original Gemini-age displacement.
+### Континентальная фрагментация
 
-This reading is substantially incompatible with the mainstream geological position, which places the Pangaean breakup at approximately 175 million years ago and treats the modern continental drift as driven by mantle convection across the long subsequent geological history. The corpus's reading requires substantial reinterpretation of the paleomagnetic, fossil-distribution, continental-margin-matching, and direct GPS-measurement evidence that mainstream geology adduces for the long timeline.
+Прочтение корпусом геологических последствий Потопа — одно из самых острых единичных разногласий корпуса с академической наукой. Корпус прочитывает современную континентальную конфигурацию как результат эффектов континентальной фрагментации события Потопа, причём продолжающийся континентальный дрейф — остаточный импульс от изначального смещения Эпохи Близнецов.
 
-The framework does not pretend to have resolved the geological evidence in its favor. The corpus's claim is that the alternative reading is internally consistent, that it makes specific predictions (the petroleum ring distribution that Nehring identified at the Hudson Institute) that the mainstream framework does not make, and that the broader credibility of the framework rests on convergences elsewhere rather than on a complete resolution of the geological question. The detailed treatment of the catastrophist-vs-uniformitarian question lives in the corpus's broader chapter material on the Age of Gemini.
+Это прочтение существенно несовместимо с академической геологической позицией, которая помещает распад Пангеи примерно в 175 миллионов лет назад и трактует современный континентальный дрейф как обусловленный мантийной конвекцией на протяжении долгой последующей геологической истории. Прочтение корпуса требует существенной переинтерпретации палеомагнитных, фоссильно‑распределительных, континентально‑краевых и прямо‑GPS‑измерительных свидетельств, которые академическая геология приводит для длинной шкалы времени.
 
-### The orbital ark mechanism
+Корпус не претендует на то, что разрешил геологические свидетельства в свою пользу. Притязание корпуса состоит в том, что альтернативное прочтение внутренне непротиворечиво, что оно делает конкретные предсказания (распределение нефтяного кольца, которое Неринг определил в Институте Гудзона), которых не делает основная рамка, и что более широкая достоверность рамки опирается на схождения в других местах, а не на полное разрешение геологического вопроса. Подробное рассмотрение вопроса «катастрофизм против униформизма» находится в более широком главном материале корпуса об Эпохе Близнецов.
 
-The framework reads the ark as an orbital spacecraft rather than as a wooden boat. The principal evidence:
+### Механизм орбитального ковчега
 
-- The Hebrew *tevah* meaning "closed vessel" or "container" rather than "boat"
-- The Genesis 7:17 phrasing "lift up above the earth" rather than "lift up on the water"
-- The 150-day duration that, the framework argues, would have been substantially impractical for a wooden vessel carrying every species of animal but is consistent with orbital sustainment of a smaller human crew with genetic-cargo preservation
-- The source material's explicit clarification that the vessel "would orbit the Earth during the cataclysm"
-- The Genesis 6:16 reference to "three stories" being read as the spacecraft's three deck levels
+Корпус прочитывает ковчег как орбитальный космический аппарат, а не как деревянную лодку. Основные свидетельства:
 
-The reading involves substantial reinterpretation of the conventional ark-as-wooden-boat reading. The framework's specific claim is about the underlying technical character of the vessel, with the Genesis narrative's specific descriptions reflecting the human witnesses' available vocabulary rather than the actual technical reality.
+- Еврейское *tevah* со значением «закрытый сосуд» или «вместилище», а не «лодка»
+- Формулировка Бытия 7:17 «поднялся над землёй», а не «поднялся на воде»
+- Продолжительность в 150 дней, которая, как утверждает рамка корпуса, была бы существенно непрактична для деревянного сосуда, несущего все виды животных, но согласуется с орбитальным обеспечением меньшего человеческого экипажа с сохранением генетического груза
+- Прямое разъяснение первоисточника о том, что сосуд *«будет вращаться вокруг Земли во время катаклизма»*
+- Отсылка Бытия 6:16 к «трём ярусам», прочитываемая как три палубных уровня космического аппарата
 
-### The genetic-cargo mechanism
+Прочтение предполагает существенную переинтерпретацию общепринятого прочтения ковчега‑как‑деревянной‑лодки. Конкретное утверждение корпуса касается лежащего в основе технического характера сосуда, причём конкретные описания повествования Бытия отражают доступную лексику человеческих свидетелей, а не фактическую техническую реальность.
 
-The framework reads the ark's actual cargo as substantially **genetic material** rather than as living pairs of every species. The principal evidence:
+### Механизм генетического груза
 
-- The source material's explicit clarification: *"a single living cell of each species, male and female, is all that is required to recreate a whole being."*
-- The practical impossibility of preserving living pairs of all of Earth's millions of species (current estimates: approximately 8.7 million species) on any plausible vessel for 150 days
-- The post-1996 demonstration of cloning capability (Dolly the sheep) showing that cellular regeneration of complete organisms is technically achievable with sufficient infrastructure
-- The contemporary biobanking infrastructure (Frozen Zoo, Svalbard Global Seed Vault) demonstrating the trajectory toward what the source's framework requires for the ark operation
+Корпус прочитывает фактический груз ковчега как существенно **генетический материал**, а не как живые пары всех видов. Основные свидетельства:
 
-The reading involves substantial reinterpretation of the conventional two-of-every-kind cargo reading. The framework's specific claim is that the underlying preservation operation was conducted at the cellular-genetic level rather than at the whole-organism level, with the Genesis text's specific descriptions reflecting the human-recordable account of the operation rather than the actual technical reality.
+- Прямое разъяснение первоисточника: *«единой живой клетки каждого вида, мужского и женского, достаточно для воссоздания целого существа»*.
+- Практическая невозможность сохранения живых пар всех земных миллионов видов (современные оценки: приблизительно 8,7 миллиона видов) ни на каком правдоподобном сосуде в течение 150 дней
+- Демонстрация после 1996 года способности клонирования (овечка Долли), показывающая, что клеточная регенерация целых организмов технически достижима при достаточной инфраструктуре
+- Современная биобанковая инфраструктура (Frozen Zoo, Свальбардское всемирное хранилище семян), демонстрирующая траекторию к тому, что требуется рамке первоисточника для операции ковчега
 
-### The post-strike radiological remediation
+Прочтение предполагает существенную переинтерпретацию общепринятого прочтения груза «по два каждого рода». Конкретное утверждение корпуса состоит в том, что лежащая в основе операция сохранения проводилась на клеточно‑генетическом уровне, а не на уровне целого организма, причём конкретные описания текста Бытия отражают доступный человеку‑записывателю отчёт об операции, а не фактическую техническую реальность.
 
-The framework reads the alliance's post-Flood radiological remediation as a substantial technical operation. The source material's specific phrasing: *"After monitoring the level of radioactivity and dispersing it scientifically..."* This is read by the framework as deliberate technological intervention to restore atmospheric and surface habitability following the nuclear weapons strike, with the specific technical mechanisms being beyond what the source material specifies but consistent with the broader civilizational technology level the framework attributes to the alliance.
+### Послеударная радиологическая ремедиация
 
-## Consequences and aftermath
+Корпус прочитывает послепотопную радиологическую ремедиацию альянса как существенную техническую операцию. Конкретная формулировка первоисточника: *«После мониторинга уровня радиоактивности и научного её рассеяния...»* Корпус прочитывает это как преднамеренное технологическое вмешательство для восстановления атмосферной и поверхностной пригодности к жизни после ядерного удара, причём конкретные технические механизмы выходят за рамки того, что уточняет первоисточник, но согласованы с более широким уровнем цивилизационной технологии, который рамка приписывает альянсу.
 
-The Flood's consequences extended substantially beyond the immediate catastrophic effects, structuring the broader post-Flood political, geographical, biological, and religious development.
+## Последствия и итоги
 
-### The geographical consequences
+Последствия Потопа простирались существенно дальше непосредственных катастрофических эффектов, структурируя более широкое послепотопное политическое, географическое, биологическое и религиозное развитие.
 
-The fragmentation of the Pangaean supercontinent produced a substantially different post-Flood geographical configuration than the pre-Flood arrangement. The principal consequences:
+### Географические последствия
 
-**The continental redistribution**. The seven antediluvian creator-team lineages, which had developed in distinct regions of the unified supercontinent, were now distributed across the fragmented continents. The geographic barriers between the lineages, which had not existed in the pre-Flood unified configuration, now isolated each lineage's subsequent civilizational development to substantial extent. The cultural, linguistic, and racial distinctness of the modern human populations reflects this post-Flood geographic fragmentation combined with the original factional differences of their respective creator teams.
+Фрагментация суперконтинента Пангея произвела существенно иную послепотопную географическую конфигурацию, чем допотопное устройство. Основные последствия:
 
-**The mountain-range formation**. The continental fragments, in motion following the breakup, collided with one another along their new margins. The young mountain ranges that characterize the modern continents (the Himalayas, Andes, Rocky Mountains, Alps, Australian Great Dividing Range) are read by the framework as products of the Flood event and its immediate post-Flood tectonic adjustments rather than of the million-year timelines mainstream geology assigns to them.
+**Континентальное перераспределение**. Семь допотопных линий команд‑творцов, развивавшихся в разных регионах единого суперконтинента, теперь были распределены по фрагментированным континентам. Географические барьеры между линиями, не существовавшие в допотопной единой конфигурации, теперь в существенной мере изолировали последующее цивилизационное развитие каждой линии. Культурная, лингвистическая и расовая отчётливость современных человеческих популяций отражает эту послепотопную географическую фрагментацию в сочетании с изначальными фракционными различиями их соответствующих команд‑творцов.
 
-**The Antarctic preservation**. The Antarctic continental fragment, carrying with it the tropical vegetation and fauna that had flourished in the pre-Flood unified climate, drifted south toward the pole and was progressively covered with ice as the climate shifted. The preserved tropical fossils recovered from beneath the Antarctic ice are read by the framework as fossil traces of the Antarctic portion of the pre-Flood supercontinent.
+**Формирование горных хребтов**. Континентальные фрагменты, находящиеся в движении после распада, сталкивались друг с другом по своим новым краям. Молодые горные хребты, характерные для современных континентов (Гималаи, Анды, Скалистые горы, Альпы, Большой Водораздельный хребет Австралии), корпус прочитывает как продукты события Потопа и его непосредственных послепотопных тектонических корректировок, а не миллионолетних шкал времени, которые им приписывает академическая геология.
 
-**The Mediterranean and other inland-sea formations**. Various inland seas and isolated water bodies that did not exist in the pre-Flood configuration formed during and after the continental fragmentation, contributing to the modern hydrological geography.
+**Антарктическое сохранение**. Антарктический континентальный фрагмент, несущий с собой тропическую растительность и фауну, процветавшую в допотопном едином климате, дрейфовал на юг к полюсу и постепенно покрывался льдом по мере смены климата. Сохранившиеся тропические ископаемые, извлечённые из‑под антарктического льда, корпус прочитывает как ископаемые следы антарктической части допотопного суперконтинента.
 
-### The biological consequences
+**Образование Средиземного и других внутренних морей**. Различные внутренние моря и изолированные водоёмы, не существовавшие в допотопной конфигурации, образовались во время и после континентальной фрагментации, внося вклад в современную гидрологическую географию.
 
-The Flood produced one of the most substantial biological events in Earth's history. The principal consequences:
+### Биологические последствия
 
-**The mass extinction**. The broader pre-Flood biosphere on the supercontinent's surface was destroyed in the catastrophic phase, with the post-Flood biosphere being reconstructed substantially from the genetic cargo preserved in the ark. The pre-Flood megafauna (including the surviving dinosaur populations the source material treats as having persisted into the late antediluvian period) were largely not regenerated, with the post-Flood biosphere having a substantially different composition than the pre-Flood biosphere.
+Потоп произвёл одно из наиболее существенных биологических событий в истории Земли. Основные последствия:
 
-**The post-Flood reseeding**. The genetic cargo regenerated produced the foundational populations for the post-Flood biosphere, with the alliance's continuing technical support during the reseeding period providing the operational infrastructure for the biosphere's reconstruction. The contemporary biosphere is, on the framework's reading, the post-Flood reconstruction rather than a continuous descent from the pre-Flood biosphere.
+**Массовое вымирание**. Более широкая допотопная биосфера на поверхности суперконтинента была уничтожена в катастрофической фазе, причём послепотопная биосфера была восстановлена существенно из генетического груза, сохранённого в ковчеге. Допотопная мегафауна (включая выжившие популяции динозавров, которые в первоисточнике трактуются как сохранявшиеся в позднем допотопном периоде) в значительной мере не была регенерирована, причём послепотопная биосфера имеет существенно иной состав, чем допотопная биосфера.
 
-**The human population bottleneck**. The post-Flood human population descended from a small founder group — Noah's eight family members plus the representatives from the seven lineages preserved through the operation. This is a severe genetic bottleneck, and the framework predicts a detectable signature in the genetic record of all subsequent human populations: reduced genetic diversity dating to the bottleneck event with gradual recovery as the population subsequently expanded. Modern population-genetics research has identified various potential bottlenecks in human evolutionary history; the corpus reads the Gemini-age Flood as the specific bottleneck event the framework predicts, with the genetic record's specific dating being a research question that has not yet been definitively resolved.
+**Послепотопное пересеивание**. Регенерированный генетический груз произвёл основательские популяции для послепотопной биосферы, причём продолжавшаяся техническая поддержка альянса в период пересеивания обеспечила операционную инфраструктуру для восстановления биосферы. Современная биосфера, в прочтении корпуса, — это послепотопное восстановление, а не непрерывное происхождение от допотопной биосферы.
 
-### The political consequences
+**Бутылочное горлышко человеческой популяции**. Послепотопная человеческая популяция произошла от малой группы основателей — восьми членов семьи Ноя плюс представителей от семи линий, сохранённых через операцию. Это серьёзное генетическое бутылочное горлышко, и рамка предсказывает обнаружимую сигнатуру в генетической записи всех последующих человеческих популяций: пониженное генетическое разнообразие, датируемое событием бутылочного горлышка, с постепенным восстановлением по мере последующего расширения популяции. Современные исследования популяционной генетики выявили различные потенциальные бутылочные горлышки в эволюционной истории человека; корпус прочитывает Потоп Эпохи Близнецов как конкретное событие бутылочного горлышка, предсказываемое рамкой, причём конкретная датировка генетической записи — исследовательский вопрос, который ещё не был окончательно разрешён.
 
-The Flood's political consequences were substantial and structured the subsequent post-Flood political development:
+### Политические последствия
 
-**The Alliance founding**. The post-Flood Noahic covenant established the formal Alliance between the exiled creators and the surviving humans, structuring all subsequent Eloha-human relations. The detailed treatment lives in the [The Alliance](../the-alliance/) entry.
+Политические последствия Потопа были существенными и структурировали последующее послепотопное политическое развитие:
 
-**The Council-Alliance opposition**. The Flood event hardened the political opposition between the home-world Council and the exiled-creator-and-human Alliance, producing the late-Gemini conflict that would culminate in the Tower of Babel intervention and the war in heaven. The Alliance's defiance of the Council's destruction order through the ark operation made the Alliance's position politically explicit in a way that the previous exile had not.
+**Основание Альянса**. Послепотопный Ноев Завет установил формальный Альянс между сосланными творцами и выжившими людьми, структурируя все последующие отношения «Элоха — человек». Подробное рассмотрение находится в статье {% wiki(slug="the-alliance") %}Альянс{% end %}.
 
-**The Tower of Babel and subsequent interventions**. The post-Flood Eden lineage's rapid recovery and reconstruction (under the exiled creators' continuing teaching) produced, within centuries, the Tower of Babel project that would prompt the Council's subsequent intervention to scatter the post-Flood scientific elite. The pattern of Council intervention against alliance-mediated human technological development was established in this period and would continue across the subsequent ages.
+**Оппозиция Совет — Альянс**. Событие Потопа закалило политическую оппозицию между Советом родной планеты и Альянсом сосланных творцов и людей, произведя поздне‑геминийский конфликт, который кульминировал бы в Вавилонском вмешательстве и войне на Небесах. Вызов Альянса приказу Совета об уничтожении через операцию ковчега сделал положение Альянса политически явным таким образом, каким предыдущая ссылка его не делала.
 
-### The religious-cultural consequences
+**Вавилонская башня и последующие вмешательства**. Быстрое восстановление и реконструкция послепотопной эдемской линии (под продолжавшимся руководством сосланных творцов) произвели в течение столетий проект Вавилонской башни, который побудил бы последующее вмешательство Совета по рассеянию послепотопной научной элиты. Образец вмешательства Совета против опосредованного альянсом человеческого технологического развития был установлен в этот период и продолжался бы на протяжении последующих эпох.
 
-The Flood's religious and cultural consequences have been substantial across the subsequent four-and-a-half millennia:
+### Религиозно‑культурные последствия
 
-**The covenant tradition's foundation**. The Noahic covenant became the foundational text for the broader Hebrew Bible's covenant tradition, with the subsequent covenants (Abrahamic, Mosaic, Davidic, New) being successive re-formations of the original covenant relationship. The covenant tradition's central place in Jewish, Christian, and Islamic religious life reflects the Flood event's foundational political-religious role.
+Религиозные и культурные последствия Потопа были существенными на протяжении последующих четырёх с половиной тысячелетий:
 
-**The flood-tradition preservation across cultures**. The global recurrence of flood traditions across more than two hundred cultures preserves substantial fragmentary memory of the Gemini-age event in various culturally specific forms. The framework reads this cross-cultural preservation as substantial evidence of the event's historical character, with the specific cultural traditions reflecting the various lineages' specific preservations.
+**Основание заветной традиции**. Ноев Завет стал основополагающим текстом для более широкой заветной традиции Еврейской Библии, причём последующие заветы (Авраамов, Моисеев, Давидов, Новый) были последовательными переоформлениями изначальных заветных отношений. Центральное место заветной традиции в иудейской, христианской и исламской религиозной жизни отражает основополагающую политико‑религиозную роль события Потопа.
 
-**The symbolic transformations**. The Flood event substantially shaped subsequent symbolic and religious thought, with imagery of cosmic water, divine judgment, ark-as-salvation, and rainbow-as-promise developing extensive elaborations across the subsequent religious traditions.
+**Сохранение традиции о потопе через культуры**. Глобальное повторение традиций о потопе более чем в двухстах культурах сохраняет существенную фрагментарную память о событии Эпохи Близнецов в различных культурно‑специфичных формах. Корпус прочитывает это межкультурное сохранение как существенное свидетельство исторического характера события, причём конкретные культурные традиции отражают конкретные сохранения различных линий.
 
-## Modern reinterpretations
+**Символические трансформации**. Событие Потопа существенно сформировало последующую символическую и религиозную мысль, причём образы космической воды, божественного суда, ковчега‑как‑спасения и радуги‑как‑обещания развили обширные разработки в последующих религиозных традициях.
 
-The Flood material has been the subject of substantial modern reinterpretive engagement across multiple traditions. The principal strands:
+## Современные переинтерпретации
 
-### Mainstream historical-critical biblical scholarship
+Материал о Потопе стал предметом существенного современного переинтерпретационного вовлечения в нескольких традициях. Основные направления:
 
-Mainstream historical-critical scholarship treats the Genesis flood narrative as a composite of distinct source documents reflecting Israelite religious development. The principal positions:
+### Академическая историко‑критическая библеистика
 
-**The documentary hypothesis** (Wellhausen and successors) identifies the Yahwist (J) and Priestly (P) sources as the principal contributors to the final-form Genesis narrative. The J source (c. 10th–9th century BCE) provides the older narrative material with its distinctive features (Yahweh as divine name, seven pairs of clean animals, forty-day duration); the P source (c. 6th–5th century BCE) provides the later editorial framework with its distinctive features (Elohim as divine name, single pairs of all animals, 150-day duration, elaborate dating notation).
+Академическая историко‑критическая наука трактует потопное повествование Бытия как композит различных источниковых документов, отражающий израильское религиозное развитие. Основные позиции:
 
-**The Mesopotamian dependence hypothesis** holds that the Hebrew flood narrative drew substantially on the older Mesopotamian flood traditions through cultural diffusion and direct textual borrowing. The structural and detailed parallels between Genesis 6–9 and the Atra-ḫasīs / Gilgamesh / Eridu Genesis flood narratives are treated as evidence of dependence rather than as evidence of common preservation of an actual historical event.
+**Документальная гипотеза** (Вельхаузен и преемники) идентифицирует яхвистский (J) и жреческий (P) источники как основных составителей окончательной формы повествования Бытия. Источник J (ок. X–IX вв. до н. э.) предоставляет более древний нарративный материал с его отличительными чертами (Яхве как божественное имя, семь пар чистых животных, сорокадневная продолжительность); источник P (ок. VI–V вв. до н. э.) предоставляет более позднюю редакторскую рамку с её отличительными чертами (Элохим как божественное имя, единичные пары всех животных, продолжительность 150 дней, развёрнутая нотация датировки).
 
-**The aetiological-mythological reading** treats the flood narrative as theological-mythological construction reflecting Israelite religious-philosophical reflection on themes of divine judgment, divine mercy, and human sinfulness rather than as historical record.
+**Гипотеза месопотамской зависимости** утверждает, что еврейское повествование о потопе существенно опиралось на более древние месопотамские традиции о потопе через культурную диффузию и прямые текстовые заимствования. Структурные и детальные параллели между Бытием 6–9 и потопными повествованиями «Атра‑хасиса» / «Гильгамеша» / «Эриду Бытия» трактуются как свидетельство зависимости, а не как свидетельство общего сохранения подлинного исторического события.
 
-The framework's reading partially aligns with the historical-critical observations about source-document composition while differing fundamentally on the underlying historical referent. The corpus accepts the J/P composite analysis at the textual level while reading both source traditions as preserving aspects of an actual historical event. The corpus rejects the diffusionist reading of the Mesopotamian parallels, treating the cross-tradition convergence as evidence of common historical preservation rather than as evidence of textual dependence. The corpus rejects the purely aetiological-mythological reading, treating the narrative as preserving substantively accurate operational content despite its religious-narrative framing.
+**Этиолого‑мифологическое прочтение** трактует потопное повествование как богословско‑мифологическую конструкцию, отражающую израильское религиозно‑философское размышление о темах божественного суда, божественной милости и человеческой греховности, а не как историческую запись.
 
-### Mainstream geology and paleontology
+Прочтение корпуса частично выравнивается с историко‑критическими наблюдениями о композиции источниковых документов, фундаментально отличаясь по лежащему в основе историческому референту. Корпус принимает анализ J/P‑композита на текстовом уровне, прочитывая обе традиции‑источники как сохраняющие аспекты подлинного исторического события. Корпус отвергает диффузионистское прочтение месопотамских параллелей, трактуя межтрадиционное схождение как свидетельство общего исторического сохранения, а не как свидетельство текстовой зависимости. Корпус отвергает чисто этиолого‑мифологическое прочтение, трактуя повествование как сохраняющее существенно достоверное операционное содержание, несмотря на его религиозно‑нарративное обрамление.
 
-Mainstream geology and paleontology do not recognize any global Flood event in the Holocene matching the framework's description. The principal positions:
+### Академическая геология и палеонтология
 
-**The plate-tectonic framework** places the Pangaean breakup at approximately 175 million years ago and treats the modern continental drift as driven by mantle convection across the long subsequent geological history. No event matching the corpus's framework has been identified in the geological record at the corpus's date (c. 6,690 BCE).
+Академическая геология и палеонтология не признают какого‑либо глобального события Потопа в голоцене, соответствующего описанию рамки. Основные позиции:
 
-**The catastrophist-uniformitarian distinction** has substantially shifted in mainstream geology over the past several decades, with mainstream geology now accepting that catastrophic events (asteroid impacts, volcanic supereruptions, megafloods) play substantial roles in Earth's history alongside the gradual processes that strict uniformitarianism emphasized. However, the catastrophic events that mainstream geology accepts are substantially smaller and earlier than the corpus's Gemini-age event would require.
+**Плитно‑тектоническая рамка** помещает распад Пангеи примерно в 175 миллионов лет назад и трактует современный континентальный дрейф как обусловленный мантийной конвекцией на протяжении долгой последующей геологической истории. Никакого события, соответствующего рамке корпуса, не выявлено в геологической записи на дату корпуса (ок. 6690 г. до н. э.).
 
-**Specific recent-catastrophe research** includes the Younger Dryas Impact Hypothesis (proposing a cosmic impact event approximately 12,800 years ago that triggered the Younger Dryas climate shift), the Tall el-Hammam airburst proposal (Bunch et al., 2021, proposing a catastrophic airburst event at the Bronze Age site identified by some scholars with biblical Sodom), and various other catastrophist research programs. These programs propose substantial catastrophic events at scales and dates that earlier mainstream geology did not allow.
+**Различие катастрофизм — униформизм** существенно сдвинулось в академической геологии за последние несколько десятилетий, причём академическая геология теперь принимает, что катастрофические события (астероидные импакты, вулканические супер‑извержения, мегапотопы) играют существенные роли в истории Земли наряду с постепенными процессами, которые подчёркивал строгий униформизм. Однако катастрофические события, которые принимает академическая геология, существенно меньше и древнее, чем потребовало бы событие Эпохи Близнецов корпуса.
 
-The framework's reading is sharply at variance with the mainstream geological position. The corpus does not pretend to have resolved this variance; the corpus's claim is that the framework is at least competitive with the mainstream alternatives at specific empirical points (the petroleum ring distribution, the global flood-tradition pattern, the population-bottleneck genetic signatures) and deserves serious consideration despite the substantial mainstream disagreement.
+**Конкретные исследования недавних катастроф** включают гипотезу импакта позднего дриаса (предлагающую событие космического импакта примерно 12 800 лет назад, запустившее климатический сдвиг позднего дриаса), предложение об атмосферном взрыве у Талль‑эль‑Хаммама (Bunch et al., 2021, предлагающее катастрофическое событие атмосферного взрыва на бронзовом веку, идентифицированном некоторыми учёными с библейским Содомом) и различные другие катастрофистские исследовательские программы{{ footnote(id="5") }}. Эти программы предлагают существенные катастрофические события в масштабах и датах, которые более ранняя академическая геология не допускала.
 
-### Contemporary catastrophist research
+Прочтение корпуса резко расходится с академической геологической позицией. Корпус не претендует на то, что разрешил это расхождение; притязание корпуса состоит в том, что рамка по крайней мере конкурентоспособна с основными альтернативами в конкретных эмпирических точках (распределение нефтяного кольца, глобальный паттерн традиций о потопе, сигнатуры генетических бутылочных горлышек) и заслуживает серьёзного рассмотрения, несмотря на существенное основное несогласие.
 
-Several contemporary research programs propose substantial recent catastrophic events that bear on the framework's broader reading. The principal cases:
+### Современные катастрофистские исследования
 
-**Randall Carlson's catastrophist framework** integrates various findings from end-of-Pleistocene catastrophic events (the Missoula Floods, the Younger Dryas, the various rapid landscape changes documented across the Holocene) into a broader catastrophist reading of recent Earth history. Carlson's work is not mainstream consensus but represents a substantive contemporary research program that has accumulated significant evidence and that bears directly on the kind of framework the corpus's account requires.
+Несколько современных исследовательских программ предлагают существенные недавние катастрофические события, которые имеют отношение к более широкому прочтению рамки. Основные случаи:
 
-**The Younger Dryas Impact Hypothesis** (Firestone et al., 2007 and successors) proposes that a cosmic impact event approximately 12,800 years ago triggered the Younger Dryas climate shift and contributed to the Pleistocene megafaunal extinction. The hypothesis has been substantially debated in mainstream science, with both supporting and critical research programs continuing to develop. The corpus does not identify the Younger Dryas event with the Gemini-age Flood (the dating is substantially older than the corpus's framework) but registers the Younger Dryas research as evidence that mainstream science is moving toward recognition of substantial recent catastrophic events.
+**Катастрофистская рамка Рэндалла Карлсона** интегрирует различные находки конца‑плейстоценовых катастрофических событий (Миссульские потопы, поздний дриас, различные быстрые ландшафтные изменения, задокументированные на протяжении голоцена) в более широкое катастрофистское прочтение недавней истории Земли. Работа Карлсона не является основным консенсусом, но представляет собой существенную современную исследовательскую программу, накопившую значительные свидетельства и имеющую прямое отношение к тому типу рамки, который требует изложение корпуса.
 
-**The Bunch et al. Tall el-Hammam research** (2021) proposes that a catastrophic airburst event destroyed the Bronze Age site at Tall el-Hammam in the Jordan Valley around 1650 BCE. The proposal involves substantial physical evidence (high-temperature melt features, shock-metamorphism signatures, anomalous mineral deposits) that the research team interprets as cosmic-impact debris. The corpus reads the Tall el-Hammam findings as consistent with the Sodom intervention (treated more fully in the [Sodom and Gomorrah](../sodom-and-gomorrah/) entry, when written) rather than with the Gemini-age Flood, but registers the broader research as evidence that events of the type the corpus's framework predicts are now finding substantial physical-evidence support.
+**Гипотеза импакта позднего дриаса** (Firestone et al., 2007, и преемники) предлагает, что событие космического импакта примерно 12 800 лет назад запустило климатический сдвиг позднего дриаса и внесло вклад в плейстоценовое вымирание мегафауны. Гипотеза существенно обсуждается в основной науке, причём как поддерживающие, так и критические исследовательские программы продолжают развиваться. Корпус не отождествляет событие позднего дриаса с Потопом Эпохи Близнецов (датировка существенно древнее, чем рамка корпуса), но регистрирует исследование позднего дриаса как свидетельство того, что основная наука движется к признанию существенных недавних катастрофических событий.
 
-**The Black Sea Deluge hypothesis** (Ryan and Pitman, 1998) proposes a catastrophic flooding event in the Black Sea region around 5600 BCE caused by Mediterranean waters breaking through the Bosporus Strait. The hypothesis is supported by sediment evidence showing the transition from freshwater to marine conditions at approximately the proposed date. The corpus reads the Black Sea Deluge as too small and too localized to be the Gemini-age Flood itself but suggests it may be one of the cascade of consequences that followed from the larger event the framework places at this period.
+**Исследование Bunch et al. по Талль‑эль‑Хаммаму** (2021) предлагает, что катастрофическое событие атмосферного взрыва уничтожило памятник бронзового века в Талль‑эль‑Хаммаме в долине Иордана около 1650 г. до н. э. Предложение включает существенные физические свидетельства (высокотемпературные расплавные особенности, сигнатуры ударного метаморфизма, аномальные минеральные отложения), которые исследовательская команда интерпретирует как остатки космического импакта. Корпус прочитывает находки в Талль‑эль‑Хаммаме как согласованные с вмешательством в Содоме (более полно рассматривается в статье {% wiki(slug="sodom-and-gomorrah") %}Содом и Гоморра{% end %}, когда будет написана), а не с Потопом Эпохи Близнецов, но регистрирует более широкое исследование как свидетельство того, что события того типа, который предсказывает рамка корпуса, теперь находят существенную физико‑свидетельственную поддержку.
 
-The corpus's relationship to contemporary catastrophist research is one of substantial methodological alignment with structural divergence on specific events. The framework shares the catastrophist tradition's broader argument that mainstream geology has substantially underestimated the role of catastrophic events in recent Earth history; the framework's specific Gemini-age Flood reading goes beyond what any mainstream catastrophist research currently proposes, and the corpus does not claim that any specific catastrophist research program has vindicated the framework's specific claims.
+**Гипотеза черноморского потопа** (Ryan and Pitman, 1998) предлагает катастрофическое событие затопления в регионе Чёрного моря около 5600 г. до н. э., вызванное прорывом средиземноморских вод через Босфорский пролив. Гипотеза поддерживается осадочными свидетельствами, показывающими переход от пресноводных к морским условиям приблизительно на предложенную дату. Корпус прочитывает черноморский потоп как слишком малый и слишком локализованный, чтобы быть самим Потопом Эпохи Близнецов, но предполагает, что он может быть одним из каскада последствий, последовавших за бо́льшим событием, которое рамка помещает в этот период.
 
-### Sendy on the Flood
+Отношение корпуса к современным катастрофистским исследованиям — это отношение существенного методологического выравнивания со структурным расхождением по конкретным событиям. Рамка разделяет более широкий аргумент катастрофистской традиции о том, что академическая геология существенно недооценила роль катастрофических событий в недавней истории Земли; конкретное прочтение Потопа Эпохи Близнецов рамкой выходит за рамки того, что в настоящее время предлагает любое основное катастрофистское исследование, и корпус не претендует на то, что какая‑либо конкретная катастрофистская исследовательская программа подтвердила конкретные притязания рамки.
 
-**Jean Sendy** developed the principal scholarly antecedent of the framework's Flood reading. Sendy's *Ces dieux qui firent le ciel et la terre* (1969) and *La lune, clé de la Bible* (1968) treat the Flood narrative as the record of an actual catastrophic event involving advanced technology rather than as theological-mythological construction. Sendy's specific contributions include the philological-historical reading of the *tevah* as a technical vessel rather than a wooden boat, the recognition that the Hebrew narrative preserves substantive operational content, and the broader treatment of the Flood event within the alliance-mediated history Sendy reconstructed.
+### Санди о Потопе
 
-The framework's Flood reading is structurally aligned with Sendy's approach while developing it substantially. Sendy provides the principal scholarly antecedent; the framework's specific reading (orbital ark, nuclear weapons mechanism, continental fragmentation, genetic-cargo preservation) extends Sendy's broader approach with substantial specific operational content drawn from the Raëlian source material.
+**Жан Санди** разработал главного научного предшественника прочтения Потопа корпусом. «Ces dieux qui firent le ciel et la terre» (1969) и «La lune, clé de la Bible» (1968) Санди трактуют потопное повествование как запись подлинного катастрофического события с участием продвинутой технологии, а не как богословско‑мифологическую конструкцию. Конкретные вклады Санди включают филолого‑историческое прочтение *tevah* как технического сосуда, а не деревянной лодки, признание того, что еврейское повествование сохраняет существенное операционное содержание, и более широкое рассмотрение события Потопа в рамках альянс‑опосредованной истории, которую реконструировал Санди.
 
-### Biglino on the Flood
+Прочтение Потопа рамкой структурно выровнено с подходом Санди, развивая его существенно. Санди предоставляет главного научного предшественника; конкретное прочтение рамки (орбитальный ковчег, механизм ядерного оружия, континентальная фрагментация, сохранение генетического груза) расширяет более широкий подход Санди существенным конкретным операционным содержанием, извлечённым из раэлианских первоисточников.
 
-**Mauro Biglino**'s strict-translational engagement with the Flood material is developed across his works. Biglino's specific contributions include:
+### Бильино о Потопе
 
-- The Hebrew *tevah* read as a technical vessel
-- The specific narrative details (the dimensions, the structural features, the cargo specifications) read literally as technical specifications
-- The "windows of heaven" and "fountains of the great deep" read as specific operational events rather than as cosmological mythology
-- The broader Flood narrative read as preserving substantive operational content
+**Мауро Бильино** в своём строго‑переводческом обращении с материалом о Потопе развивает следующее в своих работах. Конкретные вклады Бильино включают:
 
-The framework's reading is broadly aligned with Biglino's reading at the methodological level, with substantial overlap on specific lexical-philological readings. Biglino does not develop the orbital-spacecraft reading specifically; the framework's specific orbital-mechanics treatment goes beyond Biglino's strict-translational program to include the operational-mechanism reading the Raëlian source material specifies.
+- Еврейское *tevah*, прочитываемое как технический сосуд
+- Конкретные нарративные детали (размеры, конструктивные особенности, спецификации груза), прочитываемые буквально как технические спецификации
+- «Окна небесные» и «источники великой бездны», прочитываемые как конкретные операционные события, а не как космологическая мифология
+- Более широкое потопное повествование, прочитываемое как сохраняющее существенное операционное содержание
 
-### Wallis on the Flood
+Прочтение рамки в широком смысле выровнено с прочтением Бильино на методологическом уровне с существенным наложением по конкретным лексико‑филологическим прочтениям. Бильино специально не развивает прочтение орбитального космического аппарата; конкретное обращение рамки с орбитальной механикой выходит за рамки строго‑переводческой программы Бильино, включая прочтение операционного механизма, которое уточняют раэлианские первоисточники.
 
-**Paul Anthony Wallis**'s engagement with the Flood material across his various works includes substantial treatment of the alliance-mediated reading. Wallis's specific contributions include the structural reading of the Flood event within the broader alliance-Council political conflict, the careful treatment of the ark as advanced technology rather than as wooden boat, and the comparative engagement with parallel ancient flood traditions. Wallis's reading is broadly compatible with the corpus's reading and provides accessible recent treatment of material the framework has been developing through the Sendy-Raëlian tradition.
+### Уоллис о Потопе
 
-### The broader ancient-astronaut tradition
+**Пол Энтони Уоллис** в своих различных работах включает существенное рассмотрение альянс‑опосредованного прочтения. Конкретные вклады Уоллиса включают структурное прочтение события Потопа в рамках более широкого политического конфликта Альянс — Совет, тщательное обращение с ковчегом как с продвинутой технологией, а не деревянной лодкой, и сравнительное вовлечение в параллельные древние традиции о потопе. Прочтение Уоллиса в широком смысле совместимо с прочтением корпуса и предоставляет доступное недавнее обращение с материалом, который рамка развивает через традицию Санди — Раэля.
 
-The broader ancient-astronaut interpretive tradition (von Däniken, Sitchin, Tellinger, others) includes various engagements with the Flood material. The principal positions:
+### Более широкая традиция древних астронавтов
 
-- **Erich von Däniken** in *Chariots of the Gods* (1968) and successor works treats the flood narrative as preserving memory of advanced-technology intervention, with the ark being a technical vessel rather than a wooden boat. Von Däniken's specific reading is less philologically developed than Sendy's or Biglino's but reaches structurally similar conclusions.
-- **Zecharia Sitchin** in *The 12th Planet* (1976) and successor works develops a substantially different reading, treating the Flood as the result of the Anunnaki's deliberate intervention timed to the Nibiru orbital cycle, with the Mesopotamian flood narratives being treated as the principal source material. Sitchin's specific Anunnaki-Nibiru reading is not adopted by the corpus, but Sitchin's broader treatment of the Flood as alliance-mediated event rather than as natural catastrophe is structurally aligned with the framework's reading.
-- **Michael Tellinger** and various other contemporary ancient-astronaut writers develop further engagements with the Flood material, with various specific positions on mechanisms and consequences.
+Более широкая интерпретационная Теория древних астронавтов (фон Дэникен, Ситчин, Теллингер и др.) включает различные обращения с материалом о Потопе. Основные позиции:
 
-The corpus's relationship to the broader ancient-astronaut tradition is one of structural alignment on the basic interpretive direction (Flood as alliance-mediated event with substantive operational content) with substantial divergence on specific points (the framework's reading does not adopt Sitchin's Nibiru cosmology or various other specific ancient-astronaut readings).
+- **Эрих фон Дэникен** в «Колесницах богов» (1968) и последующих работах трактует потопное повествование как сохраняющее память о продвинутом‑технологическом вмешательстве, причём ковчег является техническим сосудом, а не деревянной лодкой. Конкретное прочтение фон Дэникена менее филологически разработано, чем у Санди или Бильино, но достигает структурно сходных выводов.
+- **Захария Ситчин** в «Двенадцатой планете» (1976) и последующих работах развивает существенно иное прочтение, трактуя Потоп как результат преднамеренного вмешательства Аннунаков, приуроченного к орбитальному циклу Нибиру, причём месопотамские потопные повествования трактуются как главный первоисточник. Конкретное прочтение Ситчина об Аннунаках и Нибиру не принимается корпусом, но более широкое обращение Ситчина с Потопом как с альянс‑опосредованным событием, а не природной катастрофой, структурно выровнено с прочтением рамки.
+- **Майкл Теллингер** и различные другие современные авторы Теории древних астронавтов развивают дальнейшие обращения с материалом о Потопе, с различными конкретными позициями по механизмам и последствиям.
 
-### The framework's relationship to the broader landscape
+Отношение корпуса к более широкой Теории древних астронавтов — это отношение структурного выравнивания по основному интерпретационному направлению (Потоп как альянс‑опосредованное событие с существенным операционным содержанием) с существенным расхождением по конкретным точкам (прочтение рамки не принимает Нибиру‑космологию Ситчина или различные другие конкретные прочтения теории древних астронавтов).
 
-The corpus's Flood reading is positioned within this landscape as follows: aligned with Sendy's, Biglino's, and Wallis's readings as the principal scholarly antecedents; structurally aligned with the broader ancient-astronaut tradition while diverging on specific points; aligned with contemporary catastrophist research in its broader methodological commitments while specifying particular events that go beyond what mainstream catastrophist research currently proposes; structurally distinct from mainstream historical-critical biblical scholarship and mainstream geology at the level of underlying ontology; and developing the specific corpus-internal reading (orbital spacecraft, nuclear weapons mechanism, continental fragmentation, genetic-cargo preservation, Alliance founding) as the framework's distinctive contribution to the broader reinterpretive landscape.
+### Отношение рамки к более широкому ландшафту
 
-## Comparative observations
+Прочтение Потопа корпусом позиционировано в этом ландшафте следующим образом: выровнено с прочтениями Санди, Бильино и Уоллиса как главных научных предшественников; структурно выровнено с более широкой Теорией древних астронавтов, расходясь по конкретным точкам; выровнено с современными катастрофистскими исследованиями в своих более широких методологических обязательствах, конкретизируя при этом определённые события, выходящие за рамки того, что в настоящее время предлагает основное катастрофистское исследование; структурно отлично от академической историко‑критической библеистики и академической геологии на уровне лежащей в основе онтологии; и развивает конкретное внутрикорпусное прочтение (орбитальный космический аппарат, механизм ядерного оружия, континентальная фрагментация, сохранение генетического груза, основание Альянса) как отличительный вклад рамки в более широкий переинтерпретационный ландшафт.
 
-Flood narratives appear across more than two hundred distinct cultures worldwide, with substantial structural and detailed parallels to the Hebrew Bible's Genesis account. The corpus reads this cross-cultural pattern as substantial evidence of the underlying historical reality the framework describes. The principal cross-cultural cases warrant treatment.
+## Сравнительные наблюдения
 
-### The Mesopotamian flood traditions
+Потопные повествования встречаются более чем в двухстах различных культурах по всему миру, с существенными структурными и детальными параллелями с рассказом Бытия в Еврейской Библии. Корпус прочитывает этот межкультурный образец как существенное свидетельство лежащей в основе исторической реальности, которую описывает рамка. Основные межкультурные случаи заслуживают рассмотрения.
 
-The Mesopotamian flood traditions provide the most substantively developed parallels to the Hebrew Bible's Genesis narrative, with substantial textual evidence preserved in cuneiform tablets dating from the third millennium BCE through the first millennium BCE.
+### Месопотамские традиции о потопе
 
-**The *Atra-ḫasīs* epic** (c. 18th century BCE) is the principal Akkadian flood narrative. The epic's three-tablet structure covers the creation of humanity, the divine attempts to reduce the human population (plagues, droughts, famines), and the eventual decision to send the flood. The flood narrative itself includes substantial parallel elements to the Genesis account:
+Месопотамские традиции о потопе предоставляют наиболее существенно развитые параллели рассказу Бытия в Еврейской Библии, с существенными текстовыми свидетельствами, сохранёнными в клинописных табличках, датированных с третьего тысячелетия до н. э. по первое тысячелетие до н. э.
 
-- A divine warning communicated to a chosen human (Atra-ḫasīs)
-- Detailed instructions for constructing a vessel of specific dimensions
-- The preservation of the chosen human, his family, and animals
-- The duration of the flood (in the Atra-ḫasīs, seven days and seven nights)
-- The release of birds to test the conditions (in the Atra-ḫasīs, a dove, a swallow, and a raven)
-- The post-flood sacrifice and divine response
+**Эпос об *Атра‑хасисе*** (ок. XVIII в. до н. э.) — главное аккадское потопное повествование. Трёхтабличная структура эпоса охватывает создание человечества, божественные попытки сократить человеческую популяцию (эпидемии, засухи, голод) и итоговое решение наслать потоп. Само потопное повествование включает существенные параллельные элементы рассказу Бытия:
 
-The corpus reads the *Atra-ḫasīs* as preserving substantial fragmentary memory of the same underlying Gemini-age event that the Hebrew tradition preserves, with the specific cultural-religious framing reflecting the Mesopotamian tradition's distinctive theological apparatus.
+- Божественное предупреждение, переданное избранному человеку (Атра‑хасису)
+- Подробные указания по постройке сосуда конкретных размеров
+- Сохранение избранного человека, его семьи и животных
+- Продолжительность потопа (в «Атра‑хасисе» — семь дней и семь ночей)
+- Выпуск птиц для проверки условий (в «Атра‑хасисе» — голубь, ласточка и ворон)
+- Послепотопное жертвоприношение и божественный ответ
 
-**The *Epic of Gilgamesh*** Tablet XI preserves the Utnapishtim flood narrative in substantially the same form as the *Atra-ḫasīs* tradition. The Gilgamesh flood narrative is the source through which the Mesopotamian flood material became most widely known, particularly following George Smith's 1872 rediscovery. The detailed parallels with Genesis 6–9 (the specific bird-release sequence, the duration specifications, the post-flood sacrifice) have substantially shaped subsequent comparative-mythology scholarship.
+Корпус прочитывает «Атра‑хасис» как сохраняющий существенную фрагментарную память о том же лежащем в основе событии Эпохи Близнецов, которое сохраняет еврейская традиция, причём конкретное культурно‑религиозное обрамление отражает отличительный богословский аппарат месопотамской традиции.
 
-**The Sumerian *Eridu Genesis*** preserves the earliest known version of the flood narrative, with Ziusudra ("life of long days") as the parallel figure. The Sumerian account, fragmentary in its preserved form, records substantially the same narrative elements as the later Akkadian and Hebrew traditions. The Sumerian King List divides into pre-Flood and post-Flood sections, with the antediluvian kings receiving substantially extended reigns (some recorded reigns exceeding 28,000 years) before the Flood reduces the human lifespans to the more conventional figures of the post-Flood period.
+***Эпос о Гильгамеше*** в табличке XI сохраняет потопное повествование об Утнапиштиме по существу в той же форме, что и традиция «Атра‑хасиса». Потопное повествование «Гильгамеша» — это источник, через который месопотамский материал о потопе стал наиболее широко известен, особенно после переоткрытия Джорджем Смитом в 1872 году. Детальные параллели с Бытием 6–9 (конкретная последовательность выпуска птиц, спецификации продолжительности, послепотопное жертвоприношение) существенно сформировали последующую сравнительно‑мифологическую науку.
 
-The Mesopotamian flood material is treated more fully in the [Atra-ḫasīs](../atra-hasis/) and [Epic of Gilgamesh](../epic-of-gilgamesh/) entries (when written).
+**Шумерское *Эриду Бытие*** сохраняет самую раннюю известную версию потопного повествования, с Зиусудрой («долгих дней жизни») в качестве параллельной фигуры. Шумерский рассказ, фрагментарный в сохранившейся форме, фиксирует по существу те же нарративные элементы, что и более поздние аккадская и еврейская традиции. Шумерский «Царский список» делится на до- и послепотопные разделы, причём допотопные цари получают существенно продлённые царствования (некоторые записанные царствования превышают 28 000 лет), прежде чем Потоп сокращает человеческие продолжительности жизни до более общепринятых цифр послепотопного периода.
 
-### The Greek Deucalion narrative
+Месопотамский материал о потопе более полно рассматривается в статьях {% wiki(slug="atra-hasis") %}Атра‑хасис{% end %} и {% wiki(slug="epic-of-gilgamesh") %}Эпос о Гильгамеше{% end %} (когда будут написаны).
 
-The Greek tradition preserves the **Deucalion and Pyrrha** flood narrative, with the principal sources being Hesiod (8th century BCE), Apollodorus's *Library* (1st–2nd century CE), and Ovid's *Metamorphoses* (1st century CE). The narrative's principal elements:
+### Греческий рассказ о Девкалионе
 
-- Zeus, angered by the wickedness of the bronze race of humans, decides to send a flood
-- Prometheus warns Deucalion (his son) of the impending flood
-- Deucalion and his wife Pyrrha build a chest (Greek *larnax* or *kibōtos*) and survive the flood
-- The flood lasts nine days (in the Apollodorus version)
-- The chest comes to rest on Mount Parnassus
-- Deucalion and Pyrrha repopulate the earth by throwing stones over their shoulders, with the stones becoming new humans
+Греческая традиция сохраняет потопное повествование о **Девкалионе и Пирре**, причём основными источниками являются Гесиод (VIII в. до н. э.), «Библиотека» Аполлодора (I–II вв. н. э.) и «Метаморфозы» Овидия (I в. н. э.). Основные элементы повествования:
 
-The Greek tradition's structural parallels to the Hebrew Genesis narrative are substantial: a divine flood judgment, a warned and preserved human couple, a vessel for survival, a post-flood landing on a mountain, and a post-flood repopulation. The specific Greek elaboration (the stones-becoming-humans repopulation mechanism) reflects the Greek tradition's distinctive cultural-mythological framework. The corpus reads the Deucalion tradition as preserving fragmentary memory of the same underlying event in the Greek-tradition cultural form.
+- Зевс, разгневанный нечестием бронзовой расы людей, решает наслать потоп
+- Прометей предупреждает Девкалиона (своего сына) о грядущем потопе
+- Девкалион и его жена Пирра строят ларь (греч. *larnax* или *kibōtos*) и переживают потоп
+- Потоп длится девять дней (в версии Аполлодора)
+- Ларь останавливается на горе Парнас
+- Девкалион и Пирра вновь заселяют землю, бросая камни через плечо, причём камни становятся новыми людьми
 
-### Hindu Manu Vaivasvata
+Структурные параллели греческой традиции рассказу Бытия в Еврейской Библии существенны: божественный суд‑потоп, предупреждённая и сохранённая человеческая пара, сосуд для выживания, послепотопное приземление на горе и послепотопное переселение. Конкретная греческая разработка (механизм переселения «камни‑становятся‑людьми») отражает отличительную культурно‑мифологическую рамку греческой традиции. Корпус прочитывает традицию Девкалиона как сохраняющую фрагментарную память о том же лежащем в основе событии в культурной форме греческой традиции.
 
-The Hindu tradition preserves the **Manu Vaivasvata** flood narrative across multiple sources. The principal texts:
+### Индуистский Ману Вайвасвата
 
-**The *Shatapatha Brahmana*** (c. 9th–7th century BCE) records the foundational Manu flood narrative. Manu, while washing his hands in a river, finds a small fish in his palms. The fish (later revealed as Vishnu's avatar) warns Manu of the impending flood and instructs him to build a vessel. Manu builds the vessel, preserves himself and various seeds and creatures through the flood, and is eventually deposited on a mountain peak as the waters recede. After the flood, Manu performs a sacrifice that produces a daughter, with whom he repopulates humanity.
+Индуистская традиция сохраняет потопное повествование о **Ману Вайвасвате** в нескольких источниках. Основные тексты:
 
-**The *Mahabharata*** preserves a parallel Manu-Vaivasvata flood narrative with substantial elaboration of the religious-mythological framework.
+***Шатапатха‑брахмана*** (ок. IX–VII вв. до н. э.) фиксирует основополагающее потопное повествование о Ману. Ману, моя руки в реке, находит маленькую рыбку в своих ладонях. Рыба (позднее раскрытая как аватара Вишну) предупреждает Ману о грядущем потопе и приказывает ему построить сосуд. Ману строит сосуд, сохраняет себя и различные семена и существа через потоп и в конце концов оказывается выгружен на вершине горы по мере спада вод. После потопа Ману совершает жертвоприношение, которое производит дочь, с которой он вновь заселяет человечество.
 
-**The various Puranas** (Bhagavata, Matsya, Vishnu) preserve further elaborations of the Manu flood narrative within their broader cosmological-religious frameworks.
+***Махабхарата*** сохраняет параллельное потопное повествование о Ману‑Вайвасвате с существенной разработкой религиозно‑мифологической рамки.
 
-The Hindu tradition's structural parallels to the Hebrew Genesis narrative include the divine warning, the preserved human partner, the construction of a vessel, the preservation of seeds and creatures, the post-flood landing on a mountain, and the post-flood repopulation through the surviving human. The corpus reads the Manu tradition as preserving fragmentary memory of the same underlying event in the Indian-subcontinent cultural form, with the specific Vishnu-as-fish-avatar elaboration reflecting the Hindu tradition's distinctive theological apparatus.
+**Различные Пураны** (Бхагавата, Матсья, Вишну) сохраняют дальнейшие разработки потопного повествования о Ману в их более широких космологически‑религиозных рамках.
 
-### Aztec Tata and Nena
+Структурные параллели индуистской традиции рассказу Бытия в Еврейской Библии включают божественное предупреждение, сохранённого человеческого партнёра, постройку сосуда, сохранение семян и существ, послепотопное приземление на горе и послепотопное переселение через выжившего человека. Корпус прочитывает традицию о Ману как сохраняющую фрагментарную память о том же лежащем в основе событии в культурной форме индийского субконтинента, причём конкретная разработка о Вишну‑как‑рыбе‑аватаре отражает отличительный богословский аппарат индуистской традиции.
 
-The Aztec / Mesoamerican tradition preserves the **Tata and Nena** flood narrative within the broader cosmological framework of the five suns. The narrative's principal elements:
+### Ацтекские Тата и Нена
 
-- The fourth sun is destroyed by water
-- The god Tezcatlipoca (or in some versions, Titlacauan) warns the human couple Tata and Nena of the impending flood
-- The couple is instructed to hollow out a great tree as their vessel
-- They survive the flood within the tree
-- After the flood, they begin to repopulate humanity
+Ацтекская / мезоамериканская традиция сохраняет потопное повествование о **Тата и Нена** в более широкой космологической рамке пяти солнц. Основные элементы повествования:
 
-The Aztec tradition's structural parallels to the Hebrew Genesis narrative are substantial despite the substantially different cultural framework. The specific Mesoamerican elaboration (the cosmological five-suns framework, the hollow-tree vessel) reflects the tradition's distinctive cultural-religious context. The corpus reads the Tata-and-Nena tradition as preserving fragmentary memory of the same underlying event in the Mesoamerican cultural form.
+- Четвёртое солнце уничтожено водой
+- Бог Тескатлипока (или в некоторых версиях Титлакауан) предупреждает человеческую пару Тата и Нена о грядущем потопе
+- Паре указано выдолбить большое дерево как свой сосуд
+- Они переживают потоп внутри дерева
+- После потопа они начинают вновь заселять человечество
 
-### Chinese flood traditions
+Структурные параллели ацтекской традиции рассказу Бытия в Еврейской Библии существенны, несмотря на существенно иную культурную рамку. Конкретная мезоамериканская разработка (космологическая рамка пяти солнц, сосуд‑полое‑дерево) отражает отличительный культурно‑религиозный контекст традиции. Корпус прочитывает традицию о Тата и Нена как сохраняющую фрагментарную память о том же лежащем в основе событии в мезоамериканской культурной форме.
 
-The Chinese tradition preserves multiple flood narratives. The principal cases:
+### Китайские традиции о потопе
 
-**The Gun-Yu flood control narrative** (recorded in the *Shujing* and various other classical Chinese sources) records the great flood of the time of Emperor Yao, with Gun and his son Yu conducting the engineering work to control the flood. The narrative emphasizes the human technological response to the flood rather than the preservation of survivors through the catastrophe.
+Китайская традиция сохраняет несколько потопных повествований. Основные случаи:
 
-**The Fuxi-Nüwa narrative** preserves a more direct flood-survival narrative. The two figures (in some versions, brother and sister; in others, husband and wife) survive a great flood and repopulate humanity afterward.
+**Повествование о Гунь‑Юй и контроле над потопом** (зафиксированное в *Шуцзин* и различных других классических китайских источниках) фиксирует великий потоп времени императора Яо, причём Гунь и его сын Юй проводят инженерную работу по контролю над потопом. Повествование подчёркивает человеческий технологический ответ на потоп, а не сохранение выживших через катастрофу.
 
-The Chinese tradition's flood material is structurally distinctive in its emphasis on flood control (Gun-Yu) and its specific cultural-mythological elaborations (Fuxi-Nüwa). The corpus reads the Chinese flood traditions as preserving fragmentary memory of the same underlying event in the East Asian cultural form, with the specific Chinese cultural framework reflecting the tradition's distinctive context.
+**Повествование о Фуси и Нюйва** сохраняет более прямое повествование о выживании в потопе. Две фигуры (в некоторых версиях — брат и сестра; в других — муж и жена) переживают великий потоп и вновь заселяют человечество после него.
 
-### Polynesian flood traditions
+Потопный материал китайской традиции структурно отличителен своим акцентом на контроле над потопом (Гунь‑Юй) и своими конкретными культурно‑мифологическими разработками (Фуси — Нюйва). Корпус прочитывает китайские традиции о потопе как сохраняющие фрагментарную память о том же лежащем в основе событии в восточноазиатской культурной форме, причём конкретная китайская культурная рамка отражает отличительный контекст традиции.
 
-Various Polynesian cultures preserve flood narratives with substantial structural parallels to the broader pattern. The principal cases:
+### Полинезийские традиции о потопе
 
-**The Hawaiian Kahinaliʻi narrative** records a great flood in the time of Nuʻu (the Hawaiian Noah), with Nuʻu surviving the flood in a great canoe with his family.
+Различные полинезийские культуры сохраняют потопные повествования с существенными структурными параллелями более широкому образцу. Основные случаи:
 
-**The Tahitian flood narrative** records a great flood that destroys the broader population, with a small remnant surviving on Mount Pitohiti.
+**Гавайское повествование о Кахиналии** фиксирует великий потоп во времена Нуу (гавайского Ноя), причём Нуу переживает потоп в большом каноэ со своей семьёй.
 
-**Various Maori traditions** preserve flood narratives within their broader cosmological frameworks.
+**Таитянское потопное повествование** фиксирует великий потоп, уничтожающий более широкую популяцию, причём малый остаток выживает на горе Питохити.
 
-The Polynesian flood traditions are remarkable for their geographic isolation from the Mesopotamian source region. The framework reads the Polynesian preservations as evidence of the global character of the underlying event, with even the substantially geographically isolated Polynesian populations preserving fragmentary memory of the catastrophic event.
+**Различные традиции маори** сохраняют потопные повествования в их более широких космологических рамках.
 
-### Australian Aboriginal traditions
+Полинезийские традиции о потопе примечательны своей географической изолированностью от месопотамского региона‑источника. Рамка прочитывает полинезийские сохранения как свидетельство глобального характера лежащего в основе события, причём даже существенно географически изолированные полинезийские популяции сохраняют фрагментарную память о катастрофическом событии.
 
-Various **Australian Aboriginal traditions** preserve flood narratives within the broader Dreamtime cosmological framework. The principal cases:
+### Австралийские аборигенные традиции
 
-**The Rainbow Serpent traditions** include various flood-related narratives, with the Rainbow Serpent figure serving as both creator and destroyer in different accounts.
+Различные **австралийские аборигенные традиции** сохраняют потопные повествования в более широкой космологической рамке Времени сновидений. Основные случаи:
 
-**Various regional flood narratives** record specific great-flood events within local cultural-mythological frameworks.
+**Традиции о Радужном Змее** включают различные потопно‑связанные повествования, причём фигура Радужного Змея выступает и творцом, и разрушителем в разных рассказах.
 
-The Australian Aboriginal flood material is structurally distinctive in its integration with the broader Dreamtime cosmological framework. The corpus reads the Aboriginal traditions as preserving fragmentary memory of the same underlying event in the substantially distinctive Australian cultural form.
+**Различные региональные потопные повествования** фиксируют конкретные события великого потопа в локальных культурно‑мифологических рамках.
 
-### Native American flood traditions
+Австралийский аборигенный материал о потопе структурно отличителен своей интеграцией с более широкой космологической рамкой Времени сновидений. Корпус прочитывает аборигенные традиции как сохраняющие фрагментарную память о том же лежащем в основе событии в существенно отличительной австралийской культурной форме.
 
-Various **Native American traditions** across both continents preserve flood narratives with substantial structural parallels to the broader pattern. The principal cases:
+### Индейские традиции о потопе
 
-**The Hopi tradition** records the destruction of multiple worlds by various catastrophes including water, with the surviving humans entering the new world through a sipapu (emergence point).
+Различные **индейские традиции** на обоих континентах сохраняют потопные повествования с существенными структурными параллелями более широкому образцу. Основные случаи:
 
-**The Iroquois tradition** preserves flood narratives within the broader Sky Woman cosmological framework.
+**Традиция хопи** фиксирует уничтожение нескольких миров различными катастрофами, включая воду, причём выжившие люди входят в новый мир через сипапу (точку выхода).
 
-**Various Algonquian traditions** preserve flood narratives often involving the trickster figure (Manabozho, Glooscap) and the survival of humans on a raft or other vessel.
+**Традиция ирокезов** сохраняет потопные повествования в более широкой космологической рамке Небесной Женщины.
 
-**The Inca / Andean traditions** preserve flood narratives within the broader Pachacuti (cosmic destruction-and-renewal) cosmological framework.
+**Различные алгонкинские традиции** сохраняют потопные повествования, часто включающие фигуру трикстера (Манабожо, Глускап) и выживание людей на плоту или ином сосуде.
 
-The Native American flood traditions are remarkable for their geographic and cultural diversity, with substantial structural parallels persisting across the substantially distinct cultural traditions of the two American continents. The corpus reads these traditions as preserving fragmentary memory of the same underlying event in the various Native American cultural forms.
+**Инкские / андские традиции** сохраняют потопные повествования в более широкой космологической рамке Пачакути (космическое разрушение‑и‑обновление).
 
-### The Black Sea Deluge hypothesis
+Индейские традиции о потопе примечательны своим географическим и культурным разнообразием, с существенными структурными параллелями, сохраняющимися в существенно различных культурных традициях двух американских континентов. Корпус прочитывает эти традиции как сохраняющие фрагментарную память о том же лежащем в основе событии в различных индейских культурных формах.
 
-The **Black Sea Deluge hypothesis** (Ryan and Pitman, *Noah's Flood*, 1998) proposes a substantial flooding event in the Black Sea region around 5600 BCE caused by Mediterranean waters breaking through the Bosporus Strait following sea-level rise at the end of the last glacial period. The hypothesis is supported by sediment evidence in the Black Sea showing the transition from freshwater to marine conditions at approximately the proposed date.
+### Гипотеза черноморского потопа
 
-Ryan and Pitman propose that the Black Sea Deluge was the historical event that gave rise to the various flood traditions of the ancient Near East. The hypothesis has been substantially debated, with some marine geologists arguing for a more gradual transition and others maintaining the catastrophic version. The corpus's framework would note that the Black Sea Deluge, even on the catastrophist reading, is too small and too localized to be the Gemini-age Flood itself, but suggests it may be one of the cascade of consequences that followed from the larger event the framework places at this period.
+**Гипотеза черноморского потопа** (Ryan and Pitman, «Noah's Flood», 1998) предлагает существенное событие затопления в регионе Чёрного моря около 5600 г. до н. э., вызванное прорывом средиземноморских вод через Босфорский пролив после подъёма уровня моря в конце последнего ледникового периода. Гипотеза поддерживается осадочными свидетельствами в Чёрном море, показывающими переход от пресноводных к морским условиям приблизительно на предложенную дату.
 
-### The convergence
+Райан и Питман предполагают, что черноморский потоп был историческим событием, давшим начало различным традициям о потопе древнего Ближнего Востока. Гипотеза существенно обсуждалась, причём некоторые морские геологи отстаивают более постепенный переход, а другие сохраняют катастрофическую версию. Рамка корпуса отметила бы, что черноморский потоп, даже в катастрофистском прочтении, слишком мал и слишком локализован, чтобы быть самим Потопом Эпохи Близнецов, но предполагает, что он может быть одним из каскада последствий, последовавших за бо́льшим событием, которое рамка помещает в этот период.
 
-The corpus's working position on the comparative-flood question is that the global recurrence of flood traditions across more than two hundred cultures, distributed across every continent and every major cultural region, is meaningful as evidence of a genuine underlying event. The mainstream scholarly explanation (independent local memories combined with diffusion from Mesopotamian sources) is read by the corpus as substantially insufficient to account for the breadth, the specific structural parallels, and the persistence of the tradition across geographically isolated populations.
+### Схождение
 
-The framework's specific reading is that the global flood-tradition pattern preserves common memory of the actual Gemini-age event, with each culture preserving the memory in its own terms and with its own specific details reflecting its own perspective and its own subsequent transmission history. The Mesopotamian narrative complex preserves the memory most fully because the immediate post-Flood Mesopotamian civilization was geographically closest to the Eden lineage that built the ark and survived the event with the most intact records. Other cultures preserve the memory in more compressed or transformed forms, reflecting the longer transmission distances and the cultural distinctiveness of their traditions.
+Рабочая позиция корпуса по сравнительно‑потопному вопросу состоит в том, что глобальное повторение традиций о потопе более чем в двухстах культурах, распределённых по всем континентам и всем основным культурным регионам, осмысленно как свидетельство подлинного лежащего в основе события. Основное научное объяснение (независимые локальные памяти в сочетании с диффузией из месопотамских источников) корпус прочитывает как существенно недостаточное для объяснения широты, конкретных структурных параллелей и устойчивости традиции в географически изолированных популяциях.
 
-The corpus does not require rejecting all of the mainstream scholarly framework. Cultural diffusion certainly occurred across the post-Flood ages, and the flood narratives across cultures show both common structural features (preserving the original event) and culturally specific elaborations (reflecting the diffusion and the local development). What the corpus's framework adds is the underlying historical event that gave rise to the structural commonalities — an event that the mainstream framework, lacking the corpus's broader cosmological framework, has had no way to identify and has therefore had to attribute to combinations of local memory and diffusion.
+Конкретное прочтение рамки состоит в том, что глобальный образец традиций о потопе сохраняет общую память о подлинном событии Эпохи Близнецов, причём каждая культура сохраняет память в своих собственных терминах и со своими собственными конкретными деталями, отражающими её собственную перспективу и её собственную последующую историю трансмиссии. Месопотамский нарративный комплекс сохраняет память наиболее полно, потому что непосредственная послепотопная месопотамская цивилизация была географически ближе всего к эдемской линии, построившей ковчег и пережившей событие с наиболее сохранными записями. Другие культуры сохраняют память в более сжатых или преобразованных формах, отражая более длинные дистанции трансмиссии и культурную отличительность их традиций.
 
-## See also
-
-- [Noah](../noah/)
-- [Noah's Ark](../noahs-ark/)
-- [Noahic Covenant](../noahic-covenant/)
-- [The Alliance](../the-alliance/)
-- [Lucifer](../lucifer/)
-- [Yahweh](../yahweh/)
-- [Council of the Eternals](../council-of-eternals/)
-- [Antediluvian](../antediluvian/)
-- [Pangaea](../pangaea/)
-- [Sons of Elohim](../sons-of-elohim/)
-- [Nephilim](../nephilim/)
-- [Eden](../eden/)
-- [Genesis](../genesis/)
-- [Hebrew Bible](../hebrew-bible/)
-- [Atra-ḫasīs](../atra-hasis/)
-- [Epic of Gilgamesh](../epic-of-gilgamesh/)
-- [Sumerian King List](../sumerian-king-list/)
-- [Tower of Babel](../babel/)
-- [Sodom and Gomorrah](../sodom-and-gomorrah/)
-- [Age of Cancer](../timeline/age-of-cancer/)
-- [Age of Gemini](../timeline/age-of-gemini/)
-- [Documentary Hypothesis](../documentary-hypothesis/)
-- [Jean Sendy](../jean-sendy/)
-- [Mauro Biglino](../mauro-biglino/)
-- [Paul Anthony Wallis](../paul-anthony-wallis/)
-
-## References
-
-Vorilhon, Claude (Raël). *The Book Which Tells the Truth* (1974), chapter 2; collected in *Message from the Designers*.
-
-Sendy, Jean. *Ces dieux qui firent le ciel et la terre*. Robert Laffont, 1969. English: *Those Gods Who Made Heaven and Earth*. Berkley, 1972.
-
-Sendy, Jean. *La lune, clé de la Bible*. Julliard, 1968.
-
-Biglino, Mauro, and Giorgio Cattaneo. *The Naked Bible: The Truth About the Most Famous Book in History*. Uno, 2022.
-
-Wallis, Paul Anthony. *The Eden Conspiracy*. 6th Books, 2024.
-
-*Biblia Hebraica Stuttgartensia*. Deutsche Bibelgesellschaft, 4th rev. ed., 1997.
-
-Sarna, Nahum. *Genesis: The JPS Torah Commentary*. Jewish Publication Society, 1989.
-
-Westermann, Claus. *Genesis 1–11: A Continental Commentary*. Fortress, 1994.
-
-Skinner, John. *A Critical and Exegetical Commentary on Genesis*. International Critical Commentary, T&T Clark, 1910.
-
-von Rad, Gerhard. *Genesis: A Commentary*. Westminster, 1961.
-
-Lambert, W. G., and A. R. Millard. *Atra-ḫasīs: The Babylonian Story of the Flood*. Oxford University Press, 1969.
-
-George, Andrew, ed. and trans. *The Epic of Gilgamesh: The Babylonian Epic Poem and Other Texts in Akkadian and Sumerian*. Penguin Classics, 1999.
-
-Foster, Benjamin R. *Before the Muses: An Anthology of Akkadian Literature*. CDL Press, 3rd ed., 2005.
-
-Heidel, Alexander. *The Gilgamesh Epic and Old Testament Parallels*. University of Chicago Press, 2nd ed., 1949.
-
-Smith, George. *The Chaldean Account of Genesis*. Sampson Low, 1876.
-
-Ryan, William, and Walter Pitman. *Noah's Flood: The New Scientific Discoveries About the Event That Changed History*. Simon & Schuster, 1998.
-
-Bunch, Ted E., et al. "A Tunguska sized airburst destroyed Tall el-Hammam a Middle Bronze Age city in the Jordan Valley near the Dead Sea." *Scientific Reports* 11, 18632 (2021).
-
-Firestone, Richard B., et al. "Evidence for an extraterrestrial impact 12,900 years ago that contributed to the megafaunal extinctions and the Younger Dryas cooling." *Proceedings of the National Academy of Sciences* 104, 16016–16021 (2007).
-
-Carlson, Randall. Various lectures and publications on the Younger Dryas catastrophic event hypothesis.
-
-Wegener, Alfred. *Die Entstehung der Kontinente und Ozeane* (1912). English: *The Origin of Continents and Oceans*. Trans. John Biram. Dover, 1966.
-
-Doniger, Wendy. *Hindu Myths: A Sourcebook*. Penguin Classics, 1975.
-
-Apollodorus. *The Library*. Loeb Classical Library, Harvard University Press.
-
-Ovid. *Metamorphoses*. Trans. Charles Martin. Norton, 2004.
-
-Hesiod. *Works and Days*. Loeb Classical Library, Harvard University Press.
-
-Bierlein, J. F. *Parallel Myths*. Ballantine, 1994.
-
-Dundes, Alan, ed. *The Flood Myth*. University of California Press, 1988.
-
-von Däniken, Erich. *Chariots of the Gods?* Trans. Michael Heron. Putnam, 1968.
-
-Sitchin, Zecharia. *The 12th Planet*. Stein and Day, 1976.
-
-Brown, Francis, S. R. Driver, and Charles A. Briggs. *A Hebrew and English Lexicon of the Old Testament* (BDB). Oxford, 1907.
-
-*The Hebrew and Aramaic Lexicon of the Old Testament* (HALOT), Koehler-Baumgartner. Brill, 2001.
-
-"Flood myth." *Encyclopaedia Britannica*. <https://www.britannica.com/topic/flood-myth>
-
-"Flood myth." *Wikipedia*. <https://en.wikipedia.org/wiki/Flood_myth>
-
-"Noah." *Encyclopaedia Britannica*. <https://www.britannica.com/topic/Noah-biblical-figure>
-
-"Atrahasis." *Encyclopaedia Britannica*. <https://www.britannica.com/topic/Atrahasis>
-
-"Epic of Gilgamesh." *Encyclopaedia Britannica*. <https://www.britannica.com/topic/Epic-of-Gilgamesh>
-
-"Continental drift." *Encyclopaedia Britannica*. <https://www.britannica.com/science/continental-drift-geology>
+Корпус не требует отвержения всей основной научной рамки. Культурная диффузия, безусловно, происходила в послепотопные эпохи, и потопные повествования в культурах показывают как общие структурные черты (сохраняющие изначальное событие), так и культурно‑специфичные разработки (отражающие диффузию и локальное развитие). Что добавляет рамка корпуса, так это лежащее в основе историческое событие, давшее начало структурным общностям, — событие, которое основная рамка, не имея более широкой космологической рамки корпуса, не могла идентифицировать и которое поэтому ей пришлось приписывать сочетаниям локальной памяти и диффузии.

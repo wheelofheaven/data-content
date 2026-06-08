@@ -1,826 +1,804 @@
 +++
 title = "希伯來聖經"
-description = "希伯來聖經(希伯來語:תָּנָ״ךְ,《塔納赫》)是猶太教根本經典的正典彙集,由《妥拉》、《先知書》與《聖文集》三部分構成。對 Wheel of Heaven 文集而言,它是應通過四層級閱讀的首要源典,其技術層尤其受到重視。"
+slug = "hebrew-bible"
+description = "希伯來聖經（希伯來語：תָּנָ״ךְ，*Tanakh*）是天輪框架的主要根基性源文本實體——這部大量正典希伯來語文本文集包含二十四卷書，傳統上組織為三個主要部分（妥拉、先知書、聖卷），主要由伊甸譜系世系線在從晚期青銅時代到波斯—希臘化時期約十二個世紀中產生，並透過馬所拉文本傳統大量保存。本框架的獨特分析立場將希伯來聖經登錄為大量歷史記錄，而非大量宗教—神話文學：大量文本內容保存了關於聯盟在洪水後各時代干預的大量準確文化記憶，人類作者的大量前科學詞彙作為大量可解碼層次運作，而非作為實質性理解的大量根本障礙。本框架將希伯來聖經置於更廣泛不對稱綜合的大量結構中心——實質上是聯盟與地球溝通最直接、最少中介的記錄。大量基督教傳統的翻譯歷史已透過幾個主要翻譯錯誤（大量*Elohim* → 單數神的翻譯、大量*taninim* → 「鯨魚」的翻譯、大量*malakhim* → 「天使」的超自然覆蓋、大量*nachash* → 僅僅「蛇」的遮蔽）對實際希伯來內容產生大量系統性遮蔽，本框架的解讀透過對原始文本證據的系統性參與登錄對實際希伯來內容的大量恢復。"
 template = "wiki-page.html"
 toc = true
 
 [extra]
-translation_status = "metadata_only"
 category = "Texts & Sources"
 editorial_pass = "2026-05"
 entry_type = "text"
-alternative_names = ["Tanakh (Hebrew: תָּנָ״ךְ)", "the Hebrew Scriptures", "the Jewish Bible", "Mikra (Hebrew: מִקְרָא, 'reading')", "the Old Testament (Christian-tradition designation)", "the Hebrew Old Testament", "the canonical Hebrew Scriptures"]
+claim_type = "inferred"
+alternative_names = ["塔納赫（希伯來語：תָּנָ״ךְ）", "希伯來聖典", "猶太聖經", "Mikra（希伯來語：מִקְרָא，「誦讀」）", "舊約（基督教傳統名稱）", "希伯來舊約", "正典希伯來聖典"]
 timeline = ["multi-age"]
 
+see_also = [
+    { title = "聖經", path = "/wiki/bible/", description = "希伯來聖經所處的更廣泛文本傳統。" },
+    { title = "創世記", path = "/wiki/genesis/", description = "本框架中廣泛探討的主要原始歷史卷書。" },
+    { title = "耶洛因", path = "/wiki/elohim/", description = "被解讀為聯盟文明的希伯來名稱，是本文集解釋框架的核心。" },
+    { title = "耶和華", path = "/wiki/yahweh/", description = "四字神名，被解讀為特定的耶洛因個體，而非超自然神祇。" },
+    { title = "伊甸園", path = "/wiki/eden/", description = "最初的聯盟實驗室；本框架希伯來聖經解讀的文本錨點。" },
+    { title = "大洪水", path = "/wiki/great-flood/", description = "雙子座時代事件，希伯來聖經原始歷史的核心。" },
+    { title = "摩西", path = "/wiki/moses/", description = "其使命產生妥拉文集的主要洪水後先知。" },
+    { title = "亞伯拉罕", path = "/wiki/abraham/", description = "希伯來聖經敘事核心的族長時期重建人物。" },
+    { title = "底本假說", path = "/wiki/documentary-hypothesis/", description = "五經組成的主要主流歷史批判框架。" },
+    { title = "希伯來人", path = "/wiki/hebrews/", description = "伊甸譜系的世系後裔，其傳統產生了文本文集。" },
+    { title = "雙重簽名", path = "/wiki/doubled-signature/", description = "希伯來聖經藉以登錄底層歷史現實的文集原則。" },
+    { title = "雷爾運動正典參考文集", path = "/wiki/reference-corpus-of-the-raelian-canon/", description = "作為正典解讀視角運作的主要雷爾運動來源文集。" },
+    { title = "七十士譯本", path = "/wiki/septuagint/", description = "希伯來聖經的主要希臘文翻譯。" },
+    { title = "死海古卷", path = "/wiki/dead-sea-scrolls/", description = "希伯來聖經文本傳遞的大量手稿證據。" },
+    { title = "馬所拉文本", path = "/wiki/masoretic-text/", description = "主要的有元音標註之希伯來文本傳統。" },
+]
+
+footnotes = [
+    { content = "希伯來名稱*Tanakh*（תָּנָ״ךְ）是由三個主要正典部分首字母組成的縮寫：妥拉（תּוֹרָה，「訓誨」）、先知書（נְבִיאִים，「先知」）和聖卷（כְּתוּבִים，「著作」）。此縮寫是中世紀猶太傳統的形成，更廣泛的希伯來聖經文本實體先前以其他名稱指稱——*Mikra*（מִקְרָא，「誦讀」或「所讀者」）、*Kitvei ha-Kodesh*（כִּתְבֵי הַקֹּדֶשׁ，「神聖著作」）、或僅僅*ha-Sefarim*（הַסְּפָרִים，「諸書」）。基督教名稱「舊約」是大量基督教傳統的接受，本文集避免使用，而偏好猶太傳統名稱*Tanakh* / *希伯來聖經*，因為「舊」預設了本文集不認可的取代論神學。" },
+    { content = "底本假說（J、E、D、P）——主要由Julius Wellhausen在《以色列史導論》（1878）中提出——儘管有大量後續精細化，仍是五經組成的主要主流歷史批判框架。Richard Friedman的《誰寫了聖經？》（1987）和《揭示來源的聖經》（2003）提供易於理解的當代闡述。本框架的解讀並不拒絕底本假說；相反，它與之正交運作：本框架將實質上保存的文本內容讀作大量實際操作事件的記錄，無論哪一個來源層次保存了任何特定段落。J/E/D/P的區分對文本批判仍然有用，但並不決定本框架的解釋立場。" },
+    { content = "本文集關於文本特權的具體立場——將希伯來聖經視為地球上耶洛因文明工作的現存古代記錄中最準確的——是基於雷爾運動來源材料對希伯來人作為以色列團隊合成的首批人類的直接基因後裔的識別。因此，這個特權的文本立場是世系性的而非神學性的：希伯來聖經的準確性源於在操作上最接近遇到聯盟的世系的連續文本傳統，而非源於任何固有的教義權威。平行的古代近東文本（《阿特拉哈西斯》、《吉爾伽美什》、蘇美爾洪水與創造文集）保存了關於相同底層事件的大量片段記憶，但透過洪水後傳遞衰退較快的世系。" },
+    { content = "四個遮蔽希伯來內容的主要基督教傳統翻譯動作——*Elohim* → 「神」（單數）、*taninim* → 「鯨魚」（而非「大爬蟲/龍」）、*malakhim* → 「天使」（超自然覆蓋而非「使者」/「特使」）、*nachash* → 「蛇」（僅僅是爬蟲類，而非路西法派系特工的操作性指稱）——並非作為刻意欺騙，而是七十士譯本之後超過兩千年基督教傳統解讀的神學同化結果。Biglino的嚴格翻譯方法（《赤裸的聖經》，2022）系統性地逆轉這些動作，逐字解讀希伯來文本，接受由此產生的具體操作內容，而非將其寓意化為神學抽象。本文集採用Biglino的方法論進路，同時在恢復的希伯來內容上運作其自身的框架解釋覆蓋。" },
+    { content = "文本見證的格局——馬所拉文本（提比里亞傳統的有元音標註文本，主要是阿勒頗抄本約930 CE和列寧格勒抄本1008 CE）、死海古卷（公元前2世紀至公元1世紀來自昆蘭和鄰近遺址的大量手稿證據）、七十士譯本（公元前3-2世紀的希臘文翻譯）和撒瑪利亞五經（大量撒瑪利亞傳統的變體）——登錄了細節上的大量變異（正字法、詞序、偶爾的經節層次變體），但在主要文本內容上有大量結構統一性。Tov的《希伯來聖經文本批判》（第3版，2012）提供主要的當代學術綜合。本框架的解讀不依賴於任何具體的文本變體；實質上保存的內容在現存見證中是穩健的。" },
+    { content = "死海古卷的發現（1947-1956）提供了大量公元前第一千年的手稿證據，證實了希伯來聖經文本傳遞超過一千年的大量穩定性。大以賽亞書古卷（1QIsa-a，約公元前125年）在超過1,000年的傳遞中與馬所拉以賽亞書非常接近地匹配。對本框架解讀的大量含意：希伯來聖經的內容在第二聖殿晚期已大量固定，隨後兩千年的文本傳遞以大量忠實度保存了它。VanderKam & Flint，《死海古卷的意義》（2002），提供關於大量含意的主要易讀學術論述。" },
+]
+
+[[extra.references]]
+id = "tanakh"
+note = "希伯來聖經的猶太傳統正典框架。"
+
+[[extra.references]]
+id = "sefaria"
+note = "希伯來聖經文本及相關猶太來源傳統的主要數位存取點。"
+
+[[extra.references]]
+id = "genesis"
+note = "天輪框架中廣泛探討的主要原始歷史文本。"
+
+[[extra.references]]
+id = "the-book-which-tells-the-truth"
+note = "本框架解讀希伯來聖經創造材料的根基性雷爾運動來源。"
+
+[[extra.references]]
+id = "those-gods-who-made-heaven-and-earth"
+note = "Jean Sendy為本文集外星人解讀提供的源文本先驅。"
+
+[[extra.references]]
+id = "the-naked-bible"
+note = "Mauro Biglino與Giorgio Cattaneo的嚴格翻譯式另類歷史解讀。"
+
+[[extra.references]]
+id = "escaping-from-eden"
+note = "Paul Anthony Wallis以創世記為焦點的比較解讀。"
+
+[[extra.references]]
+id = "intelligent-design-message-from-the-designers"
+note = "三本雷爾運動來源材料書籍的合集正典版本。"
+
+[[extra.references]]
+id = "lets-welcome-the-extraterrestrials"
+note = "Vorilhon（雷爾，1979）；在希伯來聖經解讀中廣泛探討的更廣泛理事會政治—體制框架。"
+
+[[extra.references]]
+id = "sendy-ces-dieux"
+note = "Sendy（1969）；希伯來聖經作為外星人記錄框架的根基性法文闡述。"
+
+[[extra.references]]
+id = "sendy-ere-du-verseau"
+note = "Sendy（1970）；探討希伯來聖經末世論的水瓶時代繼承門檻框架。"
+
+[[extra.references]]
+id = "sendy-cahiers-moise"
+note = "Sendy（1974）；具有大量五經注釋的摩西時期框架。"
+
+[[extra.references]]
+id = "biglino-il-libro"
+note = "Biglino（2010）；嚴格字面希伯來聖經解讀的首次主要闡述。"
+
+[[extra.references]]
+id = "biglino-bibbia-non-parla"
+note = "Biglino（2015）；主流翻譯遮蔽希伯來聖經原始內容此一論點的闡述。"
+
+[[extra.references]]
+id = "wallis-eden-conspiracy"
+note = "Wallis（2024）；對創世記原始歷史作為大量歷史記錄的當代探討。"
+
+[[extra.references]]
+id = "wellhausen-prolegomena"
+note = "Wellhausen（1878）；底本假說（J、E、D、P來源）的根基性闡述。"
+
+[[extra.references]]
+id = "friedman-who-wrote-bible"
+note = "Friedman（1987）；針對一般讀者的底本假說主要易讀闡述。"
+
+[[extra.references]]
+id = "friedman-bible-sources-revealed"
+note = "Friedman（2003）；五經文本的來源標記呈現。"
+
+[[extra.references]]
+id = "alter-art-biblical-narrative"
+note = "Alter（1981）；聖經敘事文學批判解讀的主要闡述。"
+
+[[extra.references]]
+id = "alter-hebrew-bible"
+note = "Alter（2018）；具有大量學術註釋的希伯來聖經三卷本英文翻譯。"
+
+[[extra.references]]
+id = "westermann-genesis-1-11"
+note = "Westermann（1994）；關於創世記1-11的歐陸註釋；原始歷史的根基性批判註釋。"
+
+[[extra.references]]
+id = "sarna-genesis-jps"
+note = "Sarna（1989）；JPS創世記妥拉註釋。"
+
+[[extra.references]]
+id = "cassuto-genesis"
+note = "Cassuto（1961）；反對底本假說片段化的猶太學術註釋。"
+
+[[extra.references]]
+id = "kugel-how-to-read-bible"
+note = "Kugel（2007）；古代解釋性閱讀與現代批判性閱讀之間對比的闡述。"
+
+[[extra.references]]
+id = "cross-canaanite-myth"
+note = "Cross（1973）；迦南—以色列宗教連續性的根基性闡述；埃爾—耶和華的歷史發展。"
+
+[[extra.references]]
+id = "smith-early-history-god"
+note = "Smith（1990）；以色列宗教在更廣泛迦南—黎凡特語境中的早期發展。"
+
+[[extra.references]]
+id = "finkelstein-bible-unearthed"
+note = "Finkelstein & Silberman（2001）；希伯來聖經考古學解讀的主要當代闡述。"
+
+[[extra.references]]
+id = "tov-textual-criticism"
+note = "Tov（第3版，2012）；希伯來聖經文本批判的主要當代參考。"
+
+[[extra.references]]
+id = "vermes-dead-sea-scrolls"
+note = "Vermes（修訂版，2004）；死海古卷文集的易讀英文翻譯。"
+
+[[extra.references]]
+id = "vanderkam-dss-today"
+note = "VanderKam（第2版，2010）；死海古卷的易讀導論。"
+
+[[extra.references]]
+id = "pritchard-anet"
+note = "Pritchard（1969）；與希伯來聖經平行的古代近東文本的主要英文參考。"
+
+[[extra.references]]
+id = "atra-hasis-lambert-millard"
+note = "Lambert & Millard（1969）；與創世記平行的巴比倫洪水敘事的批判版本。"
+
+[[extra.references]]
+id = "sitchin-12th-planet"
+note = "Sitchin（1976）；美索不達米亞—聖經材料的古代太空人解讀。"
+
 [extra.infobox]
-type = "Foundational source-textual entity; the principal canonical Hebrew-language textual corpus that operates at the structural center of the broader corpus framework"
-language = "Biblical Hebrew principally; Biblical Aramaic in select passages (Daniel 2:4b-7:28, Ezra 4:8-6:18 and 7:12-26, Jeremiah 10:11, Genesis 31:47)"
-canonical_structure = "Three principal sections in the Jewish canonical organization: Torah (תּוֹרָה, 'Law' or 'Instruction'); Nevi'im (נְבִיאִים, 'Prophets'); Ketuvim (כְּתוּבִים, 'Writings'). The acronym TaNaKh derives from the initial letters of these three sections"
-book_count = "Twenty-four books in the Jewish canonical organization (Torah: 5; Nevi'im: 8; Ketuvim: 11); thirty-nine books in the substantial Christian Old Testament canonical organization (substantively the same content with substantial divisional differences)"
-composition_period = "Approximately twelve centuries from the late Bronze Age through the Persian-Hellenistic period (mainstream scholarly dating: c. 12th-2nd centuries BCE; traditional Jewish dating substantially earlier for various books)"
-authorial_tradition = "Multiple authorial-redactional traditions across multiple centuries; the substantial Documentary Hypothesis registers four principal Pentateuchal sources (J, E, D, P); various subsequent redactional layers across the broader textual tradition"
-genealogical_lineage = "Principally the Eden-lineage genealogical line (the substantial Israel-team creator-population) across the post-flood ages; the substantial textual tradition reflects the substantial Eden-lineage cultural-religious development"
-principal_textual_witnesses = "The Masoretic Text (the substantial Tiberian-tradition vocalized text, principally the Aleppo Codex and Leningrad Codex); the Dead Sea Scrolls (the substantial 2nd-century-BCE-through-1st-century-CE manuscript evidence); the Septuagint (the substantial 3rd-2nd-century-BCE Greek translation); the Samaritan Pentateuch (the substantial Samaritan-tradition variant); various other textual witnesses"
-framework_position = "The substantial structural center of the corpus's asymmetric synthesis: the most direct and least mediated record of the alliance's communication with Earth; the principal source-textual foundation that virtually every other corpus entry engages substantively"
-distinguished_from = "The Christian Old Testament (the substantial Christian-tradition canonical reception of the Hebrew Bible content, with substantial divisional and arrangement differences); the broader Christian Bible (which adds the substantial New Testament content); the Quran (the substantial Islamic-tradition canonical text registering substantial parallel content); the Book of Mormon (the substantial Mormon LDS canonical text registering substantial parallel content); the various Apocryphal and Pseudepigraphal texts (which operate within distinct canonical-traditional positions)"
-status_in_framework = "Foundational; the Hebrew Bible operates as substantial source-textual foundation across virtually every corpus entry, with substantial framework hermeneutic articulating the principal interpretive moves"
-principal_corpus_treatment = "The substantial corpus treatment is distributed across virtually every entry; the *timeline.epub* substantial chapter-by-chapter Hebrew exegesis articulates the substantial framework reading; the various individual entries (Genesis, Adam and Eve, Eden, Antediluvian, Great Flood, Theomachy, Babel, Sodom and Gomorrah, Moses, Abraham, Noah, Elohim, Yahweh, etc.) articulate the substantial entry-specific framework readings"
+type = "根基性源文本實體；運作於更廣泛文集框架結構中心的主要正典希伯來語文本文集"
+language = "主要為聖經希伯來語；在特定段落中為聖經亞蘭語（但以理書2:4b-7:28、以斯拉記4:8-6:18和7:12-26、耶利米書10:11、創世記31:47）"
+canonical_structure = "猶太正典組織中的三個主要部分：妥拉（תּוֹרָה，「律法」或「訓誨」）；先知書（נְבִיאִים，「先知」）；聖卷（כְּתוּבִים，「著作」）。縮寫TaNaKh源自這三個部分的首字母"
+book_count = "猶太正典組織中的二十四卷書（妥拉：5；先知書：8；聖卷：11）；基督教舊約正典組織中的三十九卷書（實質上相同的內容，有大量劃分差異）"
+composition_period = "從晚期青銅時代到波斯—希臘化時期約十二個世紀（主流學術年代：約公元前12-2世紀；傳統猶太年代對各卷書實質上更早）"
+authorial_tradition = "跨越多個世紀的多個作者—編訂傳統；大量底本假說登錄了四個主要五經來源（J、E、D、P）；更廣泛文本傳統中的各種後續編訂層次"
+genealogical_lineage = "主要為伊甸譜系的世系線（大量以色列團隊創造者—族群）貫穿洪水後各時代；大量文本傳統反映了大量伊甸譜系的文化—宗教發展"
+principal_textual_witnesses = "馬所拉文本（大量提比里亞傳統的有元音標註文本，主要為阿勒頗抄本和列寧格勒抄本）；死海古卷（大量公元前2世紀至公元1世紀的手稿證據）；七十士譯本（大量公元前3-2世紀的希臘文翻譯）；撒瑪利亞五經（大量撒瑪利亞傳統的變體）；各種其他文本見證"
+framework_position = "本文集不對稱綜合的大量結構中心：聯盟與地球溝通最直接、最少中介的記錄；實質上每一個其他文集條目都廣泛涉及的主要源文本基礎"
+distinguished_from = "基督教舊約（希伯來聖經內容的大量基督教傳統正典接受，有大量劃分和排列差異）；更廣泛的基督教聖經（增加了大量新約內容）；古蘭經（登錄大量平行內容的大量伊斯蘭傳統正典文本）；摩爾門經（登錄大量平行內容的大量摩門教LDS正典文本）；各種次經和偽經文本（運作於不同正典—傳統位置內）"
+status_in_framework = "根基性；希伯來聖經作為大量源文本基礎運作於實質上每一個文集條目，具有大量框架詮釋學闡述主要解釋動作"
+principal_corpus_treatment = "大量文集處理分布於實質上每一個條目；*timeline.epub*的大量逐章希伯來注釋闡述大量框架解讀；各個別條目（創世記、亞當與夏娃、伊甸園、洪水前、大洪水、神戰、巴別、所多瑪與蛾摩拉、摩西、亞伯拉罕、挪亞、耶洛因、耶和華等）闡述大量條目特定的框架解讀"
 +++
 
-The **Hebrew Bible** (Hebrew: תָּנָ״ךְ, *Tanakh*) is the principal foundational source-textual entity for the Wheel of Heaven framework — the substantial canonical Hebrew-language textual corpus comprising **twenty-four books** traditionally organized into three principal sections (**Torah**, **Nevi'im**, **Ketuvim**), produced principally by the **Eden-lineage genealogical line** across approximately twelve centuries from the late Bronze Age through the Persian-Hellenistic period, and substantially preserved through the **Masoretic textual tradition**. The substantial canonical text operates as the principal canonical source for substantial Jewish religious tradition (where it operates as the principal canonical scripture under the Tanakh designation), substantial Christian religious tradition (where it operates as the substantial Old Testament with substantial divisional and arrangement differences), and substantial Islamic religious tradition (which registers substantial canonical respect while operating principally through the Quran). The Hebrew Bible operates as substantial textual entity across multiple distinct disciplinary engagements: substantial textual-philological scholarship, substantial archaeological-historical scholarship, substantial theological-religious scholarship, substantial literary-critical scholarship, and various substantial alternative-history engagements.
+**希伯來聖經**（希伯來語：תָּנָ״ךְ，*Tanakh*）是天輪框架的主要根基性源文本實體——這部大量正典希伯來語文本文集包含**二十四卷書**，傳統上組織為三個主要部分（**妥拉**、**先知書**、**聖卷**），主要由**伊甸譜系世系線**在從晚期青銅時代到波斯—希臘化時期約十二個世紀中產生，並透過**馬所拉文本傳統**大量保存。大量正典文本作為大量猶太宗教傳統的主要正典來源運作（在其中作為Tanakh名下的主要正典經文運作）、大量基督教宗教傳統（在其中作為具有大量劃分和排列差異的大量舊約運作）以及大量伊斯蘭宗教傳統（登錄大量正典尊重，同時主要透過古蘭經運作）。希伯來聖經作為大量文本實體跨越多個不同的學科探討運作：大量文本—語言學學術研究、大量考古學—歷史學術研究、大量神學—宗教學術研究、大量文學批判學術研究，以及各種大量另類歷史探討。
 
-The framework's distinctive analytical position registers the Hebrew Bible as **substantial historical record rather than as substantial religious-mythological literature**. The substantial Yahweh-articulated framework reading: *"The Hebrew Bible is not a book of religious myths that require either literal belief or allegorical reinterpretation; it is a historical record, imperfect in its pre-scientific vocabulary but substantially accurate in its content, that can be read directly once the hermeneutic key is available."* The substantial textual content preserves substantial accurate cultural memory of the substantial alliance's interventions across the post-flood ages, with the substantial pre-scientific vocabulary of the human authors operating as substantial decodable layer rather than as substantial fundamental obstacle to substantive understanding. The framework operates the Hebrew Bible at the substantial structural center of the broader asymmetric synthesis: substantively the most direct and least mediated record of the alliance's communication with Earth, with the substantial Hebrew tradition operating as the principal source-textual foundation that the broader corpus engages substantively.
+本框架的獨特分析立場將希伯來聖經登錄為**大量歷史記錄，而非大量宗教—神話文學**。大量耶和華闡述的框架解讀：*「希伯來聖經並非一部需要字面相信或寓意重新詮釋的宗教神話書；它是一部歷史記錄，在其前科學詞彙中不完美，但在其內容上實質上準確，一旦詮釋學鑰匙可用，就可以直接閱讀。」*大量文本內容保存了關於聯盟在洪水後各時代干預的大量準確文化記憶，人類作者的大量前科學詞彙作為大量可解碼層次運作，而非作為實質性理解的大量根本障礙。本框架將希伯來聖經置於更廣泛不對稱綜合的大量結構中心：實質上是聯盟與地球溝通最直接、最少中介的記錄，大量希伯來傳統作為更廣泛文集廣泛探討的主要源文本基礎運作。
 
-The framework registers the Hebrew Bible's substantial centrality through several specific dimensions. The substantial **textual centrality**: the Hebrew Bible preserves substantial direct documentary content from substantial alliance-officer contacts (the substantial Yahweh contacts, the substantial *malakhim* visitations, the substantial dictation events at Sinai and elsewhere), with the substantial human authors recording what they were given in the substantial Hebrew vocabulary available to them. The substantial **lineage centrality**: the substantial Hebrew Bible preserves the documentary record of one specific creator-team's substantial work — the substantial Israel-team — with the substantial Eden-lineage genealogical line operating as the substantial cultural carrier of the broader creation memory. The substantial **chronological centrality**: the substantial Hebrew Bible covers substantial chronological scope from the substantial creation events through the substantial Persian-Hellenistic period, with substantial cross-cutting cultural-religious-political content operating substantively across multiple precessional ages. The substantial **interpretive centrality**: the substantial Hebrew Bible operates as the substantial principal source-textual foundation that the broader corpus engages substantively, with virtually every other corpus entry registering substantial textual engagement with specific Hebrew Bible passages.
+本框架透過幾個具體面向登錄希伯來聖經的大量中心性。大量**文本中心性**：希伯來聖經保存了來自大量聯盟官員接觸的大量直接文獻內容（大量耶和華接觸、大量*malakhim*顯現、大量在西奈山及其他地方的口述事件），大量人類作者以可用的大量希伯來詞彙記錄他們所領受的。大量**世系中心性**：大量希伯來聖經保存了一個特定創造者團隊大量工作的文獻記錄——大量以色列團隊——大量伊甸譜系世系線作為更廣泛創造記憶的大量文化攜帶者運作{{ footnote(id="3") }}。大量**年代中心性**：大量希伯來聖經涵蓋從大量創造事件到大量波斯—希臘化時期的大量年代範圍，具有大量跨越多個歲差時代的大量交叉文化—宗教—政治內容。大量**解釋中心性**：大量希伯來聖經作為更廣泛文集廣泛探討的大量主要源文本基礎運作，實質上每一個其他文集條目都登錄與具體希伯來聖經段落的大量文本參與。
 
-The framework's substantial Hebrew Bible engagement registers substantial centrality without registering substantial unique-privileging. The substantial corpus articulation: *"The Hebrew Bible is one tradition among several, not a uniquely privileged source. It is, however, the most complete and the most explicitly developed, which is why this corpus reads it most closely."* The substantial nuance preserves substantial respect for the substantial broader cross-cultural traditions (the substantial Mesopotamian textual corpus, the substantial Egyptian religious literature, the substantial Vedic / Hindu textual tradition, the substantial Greek mythological corpus, the substantial Chinese religious-cultural literature, the substantial various indigenous textual-and-oral traditions) while registering the substantial reasons why the Hebrew Bible operates at the corpus's substantial structural center. The substantial reasons: the substantial textual completeness, the substantial development depth, the substantial chronological coverage, the substantial preservation fidelity through the Masoretic textual tradition, and the substantial alliance-contact specificity preserved in the substantial textual content.
+本框架對希伯來聖經的大量參與登錄大量中心性，而不登錄大量獨特特權。大量文集闡述：*「希伯來聖經是幾個傳統之一，而非獨特特權的來源。然而，它是最完整且最明確發展的，這就是為什麼本文集最仔細地解讀它。」*大量細微差別保留了對更廣泛跨文化傳統的大量尊重（大量美索不達米亞文本文集、大量埃及宗教文學、大量吠陀/印度教文本傳統、大量希臘神話文集、大量中國宗教—文化文學、大量各種原住民文本與口傳傳統），同時登錄希伯來聖經運作於文集大量結構中心的大量原因。大量原因：大量文本完整性、大量發展深度、大量年代涵蓋、透過馬所拉文本傳統的大量保存忠實度，以及大量文本內容中保存的大量聯盟接觸特異性。
 
-The substantial Christian-tradition translation history has produced substantial systematic obscuring of the actual Hebrew content. The principal translation mistakes registered substantively in the broader corpus engagement:
+大量基督教傳統的翻譯歷史已對實際希伯來內容產生大量系統性遮蔽{{ footnote(id="4") }}。在更廣泛文集探討中廣泛登錄的主要翻譯錯誤：
 
-- The substantial **Elohim** → singular "God" rendering (treated principally in the [Plurality of Gods](../plurality-of-gods/) entry): the substantial transformation of the actual plural creator beings into a substantial singular incomprehensible God
-- The substantial **taninim** → "whales" or "great sea creatures" rendering (treated principally in the [Dragons](../dragons/) entry): the substantial softening of the substantial Genesis 1:21 explicit dragon-creation content
-- The substantial **malakhim** → "angels" rendering: the substantial supernatural overlay obscuring the substantial messenger-personnel operational content
-- The substantial **nachash** → mere "serpent" rendering (treated principally in the [Serpent](../serpent/) entry): the substantial obscuring of the substantial Lucifer-faction operational content
-- The substantial **benei ha-Elohim** → "sons of God" rendering (often pluralized substantively): the substantial obscuring of the substantial alliance-personnel content
-- Various other translation choices operating across the broader textual tradition
+- 大量**Elohim** → 單數「神」的翻譯（主要在{% wiki(slug="plurality-of-gods") %}眾神的複數性{% end %}條目中處理）：將實際的複數創造者存有大量轉變為大量單數的不可理解之神
+- 大量**taninim** → 「鯨魚」或「大海生物」的翻譯（主要在{% wiki(slug="dragons") %}龍{% end %}條目中處理）：對大量創世記1:21明確的龍創造內容的大量軟化
+- 大量**malakhim** → 「天使」的翻譯：大量超自然覆蓋遮蔽大量信使—人員的操作內容
+- 大量**nachash** → 僅僅「蛇」的翻譯（主要在{% wiki(slug="serpent") %}蛇{% end %}條目中處理）：對大量路西法派系操作內容的大量遮蔽
+- 大量**benei ha-Elohim** → 「神的兒子」的翻譯（通常以單數化方式）：對大量聯盟人員內容的大量遮蔽
+- 跨越更廣泛文本傳統運作的各種其他翻譯選擇
 
-The substantial framework reading registers substantial restoration of the actual Hebrew content through systematic engagement with the original textual evidence — the substantial corpus's principal interpretive achievement.
+大量框架解讀透過對原始文本證據的系統性參與登錄對實際希伯來內容的大量恢復——這是本文集的主要解釋成就。
 
-The reading is substantially source-grounded. The Raëlian source material provides substantial articulation of the framework's specific position across multiple sources, with substantial subsequent corpus development through the *timeline.epub* substantial chapter-by-chapter Hebrew exegesis. The framework's epistemic status is one of **substantial-source-grounding-with-corpus-systematic-extension**.
+此解讀大量基於來源。雷爾運動來源材料在多個來源中大量闡述了本框架的具體立場，並透過*timeline.epub*的大量逐章希伯來注釋有大量後續的文集發展。本框架的認識論狀態是**大量基於來源、文集系統性擴展**之一。
 
-## Etymology and naming
+## 詞源與命名
 
-The substantial textual entity has substantial designations across multiple linguistic-religious traditions, with the etymological history producing substantial interpretive content.
+大量文本實體在多個語言—宗教傳統中有大量名稱，詞源歷史產生大量解釋內容。
 
-### "Hebrew Bible" as principal designation
+### 「希伯來聖經」作為主要名稱
 
-The English term **Hebrew Bible** is the principal scholarly-academic designation for the substantial canonical Hebrew-language textual corpus. The composite construction — "Hebrew" (the principal linguistic specification) plus "Bible" (the substantial canonical-textual category) — registers the substantial textual entity while operating with substantial scholarly-academic neutrality across the substantial Jewish-traditional and Christian-tradition uses.
+英文術語**希伯來聖經**是大量正典希伯來語文本文集的主要學術—學院名稱。複合構造——「希伯來」（主要語言規範）加上「聖經」（大量正典—文本類別）——登錄大量文本實體，同時跨越大量猶太傳統和基督教傳統用法以大量學術—學院中立性運作。
 
-The designation has substantial usage in:
+此名稱在以下範圍有大量使用：
 
-- **Mainstream scholarly-academic literature**: the principal designation in substantial contemporary biblical scholarship
-- **Substantial comparative-religion scholarship**: the principal designation registering substantial trans-traditional textual reference
-- **Substantial textual-philological scholarship**: the principal designation registering substantial textual specificity
-- **The corpus framework**: the principal designation registering substantial framework engagement with the substantial textual entity
+- **主流學術—學院文獻**：大量當代聖經學術研究中的主要名稱
+- **大量比較宗教學術研究**：登錄大量跨傳統文本參考的主要名稱
+- **大量文本—語言學學術研究**：登錄大量文本特異性的主要名稱
+- **本文集框架**：登錄與大量文本實體的大量框架參與的主要名稱
 
-### Hebrew "Tanakh" (תָּנָ״ךְ)
+### 希伯來語「Tanakh」（תָּנָ״ךְ）
 
-The Hebrew **תָּנָ״ךְ** (*Tanakh*) is the principal Jewish-tradition designation for the substantial canonical Hebrew-language textual corpus. The substantial designation operates as substantial acronymic construction:
+希伯來語**תָּנָ״ךְ**（*Tanakh*）{{ footnote(id="1") }}是大量正典希伯來語文本文集的主要猶太傳統名稱。大量名稱作為大量首字母縮寫構造運作：
 
-- **Ta** (תּ): from תּוֹרָה (*Torah*, "Law" or "Instruction") — the substantial first principal section
-- **Na** (נַ): from נְבִיאִים (*Nevi'im*, "Prophets") — the substantial second principal section  
-- **Kh** (ךְ): from כְּתוּבִים (*Ketuvim*, "Writings") — the substantial third principal section
+- **Ta**（תּ）：來自תּוֹרָה（*Torah*，「律法」或「訓誨」）——大量第一個主要部分
+- **Na**（נַ）：來自נְבִיאִים（*Nevi'im*，「先知」）——大量第二個主要部分
+- **Kh**（ךְ）：來自כְּתוּבִים（*Ketuvim*，「著作」）——大量第三個主要部分
 
-The substantial Tanakh designation registers the substantial three-part canonical structure within the substantial Jewish-tradition organization. The substantial designation operates principally within Jewish-tradition contexts, with substantial subsequent scholarly-academic adoption in substantial contemporary biblical scholarship.
+大量Tanakh名稱登錄大量猶太傳統組織內的大量三部分正典結構。大量名稱主要在猶太傳統脈絡中運作，在大量當代聖經學術研究中有大量後續的學術—學院採用。
 
-### Hebrew "Mikra" (מִקְרָא)
+### 希伯來語「Mikra」（מִקְרָא）
 
-The Hebrew **מִקְרָא** (*Mikra*, "reading" or "that which is read") operates as substantial alternative Jewish-tradition designation. The substantial term derives from the substantial Hebrew root **קרא** (*qara*, "to read" or "to call"), registering the substantial textual entity as the principal substantive material for substantial reading and substantial liturgical recitation. The substantial designation operates principally within substantial traditional Jewish liturgical-textual contexts.
+希伯來語**מִקְרָא**（*Mikra*，「誦讀」或「所讀者」）作為大量替代的猶太傳統名稱運作。大量術語源自大量希伯來語詞根**קרא**（*qara*，「閱讀」或「呼叫」），將大量文本實體登錄為大量閱讀和大量禮儀誦讀的主要實質性材料。大量名稱主要在大量傳統猶太禮儀—文本脈絡中運作。
 
-### Hebrew "Sifrei ha-Kodesh" (סִפְרֵי הַקֹּדֶשׁ)
+### 希伯來語「Sifrei ha-Kodesh」（סִפְרֵי הַקֹּדֶשׁ）
 
-The Hebrew **סִפְרֵי הַקֹּדֶשׁ** (*Sifrei ha-Kodesh*, "the holy books" or "the sacred scriptures") operates as substantial Jewish-tradition designation registering the substantial sacred-textual character. The substantial designation operates principally within substantial traditional Jewish religious contexts.
+希伯來語**סִפְרֵי הַקֹּדֶשׁ**（*Sifrei ha-Kodesh*，「聖書」或「神聖經文」）作為登錄大量神聖文本特性的大量猶太傳統名稱運作。大量名稱主要在大量傳統猶太宗教脈絡中運作。
 
-### "Old Testament" as Christian-tradition designation
+### 「舊約」作為基督教傳統名稱
 
-The English term **Old Testament** is the principal Christian-tradition designation for substantial Christian-canonical reception of the Hebrew Bible content. The substantial designation derives from the substantial Christian-theological framework registering the substantial Hebrew Bible content as the substantial "old covenant" content preceding the substantial New Testament "new covenant" content. The substantial designation has been registered as substantively problematic by various contemporary scholars (substantial supersessionist theological implications, substantial scholarly-academic neutrality concerns), with substantial contemporary scholarly preference for the substantial Hebrew Bible designation.
+英文術語**舊約**是希伯來聖經內容的大量基督教正典接受的主要基督教傳統名稱。大量名稱源自大量基督教神學框架，將大量希伯來聖經內容登錄為先於大量新約「新約」內容的大量「舊約」內容。大量名稱已被各種當代學者登錄為實質性有問題的（大量取代論神學含意、大量學術—學院中立性疑慮），當代學術研究大量偏好大量希伯來聖經名稱。
 
-The substantial Christian Old Testament canonical organization differs substantively from the substantial Jewish Tanakh organization:
+大量基督教舊約正典組織與大量猶太Tanakh組織有實質性差異：
 
-- **Book count**: thirty-nine books in substantial Protestant Christian organization vs. twenty-four books in substantial Jewish organization (substantively the same content with substantial divisional differences — e.g., Samuel and Kings are each one book in Jewish organization but two books each in Christian organization)
-- **Book ordering**: substantial Christian organization places the prophetic books at the end of the substantial canonical sequence, while the substantial Jewish organization places the prophets in the middle section
-- **Apocryphal additions**: the substantial Catholic Christian and Eastern Orthodox Christian Old Testaments include substantial additional Deuterocanonical books not present in the substantial Jewish or Protestant Christian canons
+- **卷書數**：大量新教基督教組織中的三十九卷書 vs. 大量猶太組織中的二十四卷書（實質上相同的內容，有大量劃分差異——例如，撒母耳記和列王記在猶太組織中各為一卷，但在基督教組織中各為兩卷）
+- **卷書排序**：大量基督教組織將先知書置於大量正典序列的末尾，而大量猶太組織將先知書置於中間部分
+- **次經增加**：大量天主教基督教和東正教基督教舊約包括大量猶太或新教基督教正典中不存在的額外次經卷書
 
-### Cross-cultural designations
+### 跨文化名稱
 
-The substantial textual entity has cross-cultural designations:
+大量文本實體有跨文化名稱：
 
-- **Greek**: ἡ Παλαιὰ Διαθήκη (*hē Palaia Diathēkē*, "the Old Covenant") — the substantial Greek-Christian designation; also τὰ βιβλία (*ta biblia*, "the books") — the substantial Septuagint-Greek collective designation
-- **Latin**: *Vetus Testamentum* — the substantial Vulgate-Latin Christian designation
-- **Arabic**: التَّوْرَاة (*at-Tawrāh*, properly designating the Pentateuch but extended to the substantial Hebrew Bible content); الكِتَاب المُقَدَّس (*al-Kitāb al-Muqaddas*, "the Holy Book") — the substantial broader Islamic-tradition designation
-- **Aramaic**: מקרא (*Mikra*) — the substantial Aramaic-tradition designation cognate with the Hebrew
+- **希臘語**：ἡ Παλαιὰ Διαθήκη（*hē Palaia Diathēkē*，「舊約」）——大量希臘—基督教名稱；也有τὰ βιβλία（*ta biblia*，「諸書」）——大量七十士譯本—希臘文集合名稱
+- **拉丁語**：*Vetus Testamentum*——大量武加大—拉丁基督教名稱
+- **阿拉伯語**：التَّوْرَاة（*at-Tawrāh*，正確指稱五經但延伸至大量希伯來聖經內容）；الكِتَاب المُقَدَّس（*al-Kitāb al-Muqaddas*，「聖書」）——大量更廣泛的伊斯蘭傳統名稱
+- **亞蘭語**：מקרא（*Mikra*）——與希伯來語同源的大量亞蘭傳統名稱
 
-### Corpus-internal usage
+### 文集內部用法
 
-The Wheel of Heaven corpus uses **Hebrew Bible** as the principal designation, with **Tanakh** used in framework-specific contexts where substantial Jewish-tradition specificity is required. The various other designations are used in specific contexts where operational specificity is required.
+天輪文集使用**希伯來聖經**作為主要名稱，在需要大量猶太傳統特異性的框架特定脈絡中使用**Tanakh**。各種其他名稱在需要操作特異性的特定脈絡中使用。
 
-## Conventional understanding
+## 傳統理解
 
-The Hebrew Bible has substantial mainstream scholarly engagement across multiple distinct disciplines.
+希伯來聖經在多個不同學科中有大量主流學術參與。
 
-### The substantial canonical structure
+### 大量正典結構
 
-Mainstream scholarly engagement registers the substantial Hebrew Bible canonical structure across the substantial three-part organization.
+主流學術參與登錄大量希伯來聖經正典結構跨越大量三部分組織。
 
-**The Torah / Pentateuch**. The substantial Hebrew **תּוֹרָה** (*Torah*, "Law" or "Instruction") comprises the substantial first five books:
+**妥拉/五經**。大量希伯來語**תּוֹרָה**（*Torah*，「律法」或「訓誨」）包含大量前五卷書：
 
-1. **Genesis** (Hebrew: בְּרֵאשִׁית, *Bereshit*, "In the beginning"): the substantial creation account, the substantial primeval history (Genesis 1-11), the substantial patriarchal narratives (Genesis 12-50)
-2. **Exodus** (Hebrew: שְׁמוֹת, *Shemot*, "Names"): the substantial Egyptian bondage, the substantial Mosaic deliverance, the substantial Sinai covenant, the substantial tabernacle construction
-3. **Leviticus** (Hebrew: וַיִּקְרָא, *Vayikra*, "And he called"): the substantial priestly legislation, the substantial sacrificial system, the substantial holiness code
-4. **Numbers** (Hebrew: בְּמִדְבָּר, *Bemidbar*, "In the wilderness"): the substantial wilderness wanderings, the substantial census materials, various substantial legal-ritual content
-5. **Deuteronomy** (Hebrew: דְּבָרִים, *Devarim*, "Words"): the substantial Mosaic farewell discourses, the substantial covenant renewal, the substantial Mosaic death
+1. **創世記**（希伯來語：בְּרֵאשִׁית，*Bereshit*，「起初」）：大量創造記敘、大量原始歷史（創世記1-11）、大量族長敘事（創世記12-50）
+2. **出埃及記**（希伯來語：שְׁמוֹת，*Shemot*，「名字」）：大量埃及奴役、大量摩西解救、大量西奈盟約、大量會幕建造
+3. **利未記**（希伯來語：וַיִּקְרָא，*Vayikra*，「他呼叫」）：大量祭司立法、大量獻祭系統、大量聖潔法典
+4. **民數記**（希伯來語：בְּמִדְבָּר，*Bemidbar*，「在曠野」）：大量曠野漂流、大量人口普查材料、各種大量法律—禮儀內容
+5. **申命記**（希伯來語：דְּבָרִים，*Devarim*，「言語」）：大量摩西告別講論、大量盟約更新、大量摩西之死
 
-The substantial Pentateuch operates as substantial foundational legal-religious-narrative content within the broader Hebrew Bible canonical structure.
+大量五經作為更廣泛希伯來聖經正典結構內的大量根基性法律—宗教—敘事內容運作。
 
-**The Nevi'im / Prophets**. The substantial Hebrew **נְבִיאִים** (*Nevi'im*, "Prophets") comprises substantial historical-prophetic content organized into Former Prophets and Latter Prophets:
+**先知書/Nevi'im**。大量希伯來語**נְבִיאִים**（*Nevi'im*，「先知」）包含組織為前先知書和後先知書的大量歷史—預言內容：
 
-**Former Prophets** (Hebrew: נְבִיאִים רִאשׁוֹנִים, *Nevi'im Rishonim*):
-1. **Joshua** (Hebrew: יְהוֹשֻׁעַ, *Yehoshua*): the substantial conquest narrative
-2. **Judges** (Hebrew: שׁוֹפְטִים, *Shoftim*): the substantial pre-monarchic period
-3. **Samuel** (Hebrew: שְׁמוּאֵל, *Shmuel*) — single book in Jewish organization, two books in Christian organization: the substantial transition to monarchy, the substantial Davidic kingship
-4. **Kings** (Hebrew: מְלָכִים, *Melakhim*) — single book in Jewish organization, two books in Christian organization: the substantial monarchic history through the substantial Babylonian exile
+**前先知書**（希伯來語：נְבִיאִים רִאשׁוֹנִים，*Nevi'im Rishonim*）：
+1. **約書亞記**（希伯來語：יְהוֹשֻׁעַ，*Yehoshua*）：大量征服敘事
+2. **士師記**（希伯來語：שׁוֹפְטִים，*Shoftim*）：大量前君主時期
+3. **撒母耳記**（希伯來語：שְׁמוּאֵל，*Shmuel*）——猶太組織中為一卷，基督教組織中為兩卷：大量過渡到君主制、大量大衛王權
+4. **列王記**（希伯來語：מְלָכִים，*Melakhim*）——猶太組織中為一卷，基督教組織中為兩卷：大量君主制歷史到大量巴比倫流亡
 
-**Latter Prophets** (Hebrew: נְבִיאִים אַחֲרוֹנִים, *Nevi'im Aharonim*):
-5. **Isaiah** (Hebrew: יְשַׁעְיָהוּ, *Yeshayahu*)
-6. **Jeremiah** (Hebrew: יִרְמְיָהוּ, *Yirmeyahu*)
-7. **Ezekiel** (Hebrew: יְחֶזְקֵאל, *Yehezkel*)
-8. **The Twelve** (Hebrew: תְּרֵי עֲשַׂר, *Trei Asar*) — twelve minor prophets in Jewish organization, twelve separate books in Christian organization: Hosea, Joel, Amos, Obadiah, Jonah, Micah, Nahum, Habakkuk, Zephaniah, Haggai, Zechariah, Malachi
+**後先知書**（希伯來語：נְבִיאִים אַחֲרוֹנִים，*Nevi'im Aharonim*）：
+5. **以賽亞書**（希伯來語：יְשַׁעְיָהוּ，*Yeshayahu*）
+6. **耶利米書**（希伯來語：יִרְמְיָהוּ，*Yirmeyahu*）
+7. **以西結書**（希伯來語：יְחֶזְקֵאל，*Yehezkel*）
+8. **十二先知書**（希伯來語：תְּרֵי עֲשַׂר，*Trei Asar*）——猶太組織中為十二位小先知，基督教組織中為十二卷分開的書：何西阿書、約珥書、阿摩司書、俄巴底亞書、約拿書、彌迦書、那鴻書、哈巴谷書、西番雅書、哈該書、撒迦利亞書、瑪拉基書
 
-**The Ketuvim / Writings**. The substantial Hebrew **כְּתוּבִים** (*Ketuvim*, "Writings") comprises substantial diverse content:
+**聖卷/Ketuvim**。大量希伯來語**כְּתוּבִים**（*Ketuvim*，「著作」）包含大量多元內容：
 
-1. **Psalms** (Hebrew: תְּהִלִּים, *Tehillim*)
-2. **Proverbs** (Hebrew: מִשְׁלֵי, *Mishlei*)
-3. **Job** (Hebrew: אִיּוֹב, *Iyov*)
-4. **Song of Songs** (Hebrew: שִׁיר הַשִּׁירִים, *Shir ha-Shirim*)
-5. **Ruth** (Hebrew: רוּת, *Rut*)
-6. **Lamentations** (Hebrew: אֵיכָה, *Eikhah*)
-7. **Ecclesiastes** (Hebrew: קֹהֶלֶת, *Kohelet*)
-8. **Esther** (Hebrew: אֶסְתֵּר, *Ester*)
-9. **Daniel** (Hebrew: דָּנִיֵּאל, *Daniel*)
-10. **Ezra-Nehemiah** (Hebrew: עֶזְרָא־נְחֶמְיָה) — single book in Jewish organization, two books in Christian organization
-11. **Chronicles** (Hebrew: דִּבְרֵי הַיָּמִים, *Divrei ha-Yamim*) — single book in Jewish organization, two books in Christian organization
+1. **詩篇**（希伯來語：תְּהִלִּים，*Tehillim*）
+2. **箴言**（希伯來語：מִשְׁלֵי，*Mishlei*）
+3. **約伯記**（希伯來語：אִיּוֹב，*Iyov*）
+4. **雅歌**（希伯來語：שִׁיר הַשִּׁירִים，*Shir ha-Shirim*）
+5. **路得記**（希伯來語：רוּת，*Rut*）
+6. **耶利米哀歌**（希伯來語：אֵיכָה，*Eikhah*）
+7. **傳道書**（希伯來語：קֹהֶלֶת，*Kohelet*）
+8. **以斯帖記**（希伯來語：אֶסְתֵּר，*Ester*）
+9. **但以理書**（希伯來語：דָּנִיֵּאל，*Daniel*）
+10. **以斯拉—尼希米記**（希伯來語：עֶזְרָא־נְחֶמְיָה）——猶太組織中為一卷，基督教組織中為兩卷
+11. **歷代志**（希伯來語：דִּבְרֵי הַיָּמִים，*Divrei ha-Yamim*）——猶太組織中為一卷，基督教組織中為兩卷
 
-The substantial Ketuvim operates as substantial diverse-genre content within the broader Hebrew Bible canonical structure.
+大量聖卷作為更廣泛希伯來聖經正典結構內的大量多元類型內容運作。
 
-### The substantial linguistic content
+### 大量語言內容
 
-The substantial Hebrew Bible operates principally in **Biblical Hebrew** (substantial classical Hebrew language with substantial diachronic development across the substantial composition period). The substantial textual content includes substantial **Biblical Aramaic** in select passages:
+大量希伯來聖經主要以**聖經希伯來語**運作（大量古典希伯來語，在大量組成時期有大量歷時發展）。大量文本內容在特定段落中包括大量**聖經亞蘭語**：
 
-- **Daniel 2:4b-7:28**: the substantial Aramaic narrative section
-- **Ezra 4:8-6:18 and 7:12-26**: the substantial Aramaic documentary materials
-- **Jeremiah 10:11**: a single Aramaic verse
-- **Genesis 31:47**: a brief Aramaic phrase
+- **但以理書2:4b-7:28**：大量亞蘭語敘事部分
+- **以斯拉記4:8-6:18和7:12-26**：大量亞蘭語文獻材料
+- **耶利米書10:11**：單一的亞蘭語經節
+- **創世記31:47**：簡短的亞蘭語片語
 
-The substantial linguistic dual-language content reflects the substantial historical-cultural context of substantial Persian-period composition for various Daniel and Ezra materials, with substantial Aramaic operating as substantial *lingua franca* of the broader Persian Empire.
+大量語言雙語內容反映了但以理書和以斯拉記材料大量波斯時期組成的大量歷史—文化脈絡，大量亞蘭語作為更廣泛波斯帝國的大量*通用語*運作。
 
-### The substantial composition period
+### 大量組成時期
 
-Mainstream scholarly engagement registers substantial composition period extending across approximately twelve centuries:
+主流學術參與登錄大量組成時期延伸跨越約十二個世紀：
 
-- **The earliest layers**: traditionally dated to the substantial Late Bronze Age (c. 12th century BCE), with substantial scholarly debate regarding the dating of various Pentateuchal source-materials
-- **The principal composition period**: c. 10th-5th centuries BCE, with substantial monarchic-period and exilic-period composition operating substantially across the broader textual tradition
-- **The latest layers**: c. 4th-2nd centuries BCE, with various Persian-Hellenistic-period composition (Daniel, various other late materials)
-- **The canonization process**: c. 5th-2nd centuries BCE for various sections, with the substantial finalization of the broader canonical structure operating across the substantial period
+- **最早期的層次**：傳統上定年於大量晚期青銅時代（約公元前12世紀），關於各種五經來源材料的定年有大量學術辯論
+- **主要組成時期**：約公元前10-5世紀，大量君主時期和流亡時期組成跨越更廣泛文本傳統廣泛運作
+- **最晚期的層次**：約公元前4-2世紀，各種波斯—希臘化時期組成（但以理書、各種其他晚期材料）
+- **正典化過程**：約公元前5-2世紀的各種部分，大量更廣泛正典結構的最終確定跨越大量時期運作
 
-### The substantial textual transmission
+### 大量文本傳遞
 
-The substantial Hebrew Bible has been preserved through substantial textual-transmission tradition spanning approximately three millennia.
+大量希伯來聖經透過跨越約三千年的大量文本傳遞傳統得以保存。
 
-**The substantial Masoretic Text**. The substantial **Masoretic Text** (Hebrew: נֻסַּח הַמָּסוֹרָה, *Nusach ha-Masorah*) operates as the principal received text of the Hebrew Bible. The substantial textual tradition was developed across approximately the 6th-10th centuries CE by the substantial **Masoretes** (Hebrew: בַּעֲלֵי הַמָּסוֹרָה, *Ba'alei ha-Masorah*, "Masters of the Tradition") — substantial Jewish scholars principally in Tiberias and Babylon who developed substantial vocalization-and-cantillation systems for the previously-unvocalized consonantal Hebrew text. The substantial principal manuscript witnesses:
+**大量馬所拉文本**。大量**馬所拉文本**（希伯來語：נֻסַּח הַמָּסוֹרָה，*Nusach ha-Masorah*）作為希伯來聖經的主要接受文本運作。大量文本傳統在約公元6-10世紀由大量**馬所拉學者**（希伯來語：בַּעֲלֵי הַמָּסוֹרָה，*Ba'alei ha-Masorah*，「傳統的大師們」）發展——大量主要在提比里亞和巴比倫的猶太學者，他們為先前無元音標註的子音希伯來文本發展了大量元音標註與唱誦標註系統。大量主要手稿見證：
 
-- **The Aleppo Codex** (10th century CE): the substantial principal early Masoretic manuscript, partially preserved
-- **The Leningrad Codex** (1008 CE): the substantial complete early Masoretic manuscript, the principal basis for substantial modern critical editions
-- **Various Cairo Genizah fragments**: substantial earlier manuscript evidence
+- **阿勒頗抄本**（公元10世紀）：大量主要早期馬所拉手稿，部分保存
+- **列寧格勒抄本**（1008 CE）：大量完整的早期馬所拉手稿，大量現代批判版本的主要基礎
+- **各種開羅檔藏殘片**：大量更早的手稿證據
 
-**The substantial Dead Sea Scrolls evidence**. The substantial discovery of the Dead Sea Scrolls beginning in 1947 produced substantial textual evidence approximately one thousand years older than the previously-available Masoretic manuscripts. The substantial Qumran biblical scrolls register substantial textual content with substantial agreement with the subsequent Masoretic tradition while preserving substantial textual variants in various passages.
+**大量死海古卷證據**。大量自1947年開始的死海古卷發現產生了比先前可用的馬所拉手稿早約一千年的大量文本證據。大量昆蘭聖經古卷登錄與隨後馬所拉傳統大量一致的大量文本內容，同時在各種段落中保留大量文本變體。
 
-**The substantial Septuagint translation**. The substantial **Septuagint** (Greek: Ἡ Μετάφρασις τῶν Ἑβδομήκοντα, *Hē Metaphrasis tōn Hebdomēkonta*, "The Translation of the Seventy"; abbreviated LXX) operates as the substantial 3rd-2nd-century-BCE Greek translation of the Hebrew Bible. The substantial translation was produced principally in Alexandria, Egypt, within the substantial Hellenistic Jewish community. The substantial Septuagint preserves substantial pre-Masoretic Hebrew textual tradition in various passages, with substantial textual-critical importance.
+**大量七十士譯本翻譯**。大量**七十士譯本**（希臘語：Ἡ Μετάφρασις τῶν Ἑβδομήκοντα，*Hē Metaphrasis tōn Hebdomēkonta*，「七十人的翻譯」；縮寫為LXX）作為希伯來聖經的大量公元前3-2世紀希臘文翻譯運作。大量翻譯主要在埃及亞歷山卓內大量希臘化猶太群體中產生。大量七十士譯本在各種段落中保留大量前馬所拉希伯來文本傳統，具有大量文本批判重要性。
 
-**The substantial Samaritan Pentateuch**. The substantial **Samaritan Pentateuch** preserves substantial alternative textual tradition for the Pentateuch within the substantial Samaritan religious community. The substantial Samaritan Pentateuch registers substantial textual variants from the substantial Masoretic tradition, with substantial textual-critical importance.
+**大量撒瑪利亞五經**。大量**撒瑪利亞五經**在大量撒瑪利亞宗教群體內保留大量替代的五經文本傳統。大量撒瑪利亞五經登錄與大量馬所拉傳統的大量文本變體，具有大量文本批判重要性。
 
-### The substantial Sendy engagement with the Hebrew Bible
+### 大量Sendy對希伯來聖經的探討
 
-**Jean Sendy** in *Ces dieux qui firent le ciel et la terre* (1969), *L'ère du Verseau* (1970), and various other works develops substantial complementary content on the broader Hebrew Bible framework. Sendy's substantial principal contribution: substantial systematic engagement with the substantial Hebrew Bible content through the broader Tradition framework, particularly the substantial *Elohim* plurality, the substantial *benei ha-Elohim* content, and the substantial alliance-contact specificity preserved in the substantial textual content. Sendy's substantial broader Tradition framework operates substantively within the corpus's broader Hebrew Bible engagement.
+**Jean Sendy**在《創造天地的眾神》（1969）、《水瓶時代》（1970）和各種其他著作中發展對更廣泛希伯來聖經框架的大量補充內容。Sendy的大量主要貢獻：透過更廣泛傳統框架對大量希伯來聖經內容進行大量系統性探討，特別是大量*Elohim*複數性、大量*benei ha-Elohim*內容，以及大量文本內容中保存的大量聯盟接觸特異性。Sendy的大量更廣泛傳統框架在文集更廣泛的希伯來聖經探討中廣泛運作。
 
-### The framework's relationship to the broader landscape
+### 本框架與更廣泛景觀的關係
 
-The Wheel of Heaven corpus's Hebrew Bible framework is positioned within this scholarly landscape as follows: substantially aligned with mainstream Hebrew Bible scholarship at the textual-philological level (recognizing the substantial scholarly documentation of the substantial textual content); substantially aligned with mainstream archaeological-historical scholarship at the substantial historical-context level (recognizing the substantial scholarly documentation of the substantial historical-cultural background); substantially aligned with the substantial textual-criticism scholarship at the substantial textual-history level (recognizing the substantial scholarly documentation of the substantial transmission history); substantively distinct from mainstream theological scholarship at the interpretive level (the framework's specific historical-record reading operates substantively beyond the conventional religious-mythological treatment); substantially aligned with various alternative-history scholarly traditions (Sitchin's Anunnaki framework, Wallis's broader engagement, Biglino's strict-translational approach) at the underlying-historical-event-reading level while operating from distinct source-material warrant principally drawn from the Raëlian source material.
+天輪文集的希伯來聖經框架在此學術景觀中的定位如下：在文本—語言學層次與主流希伯來聖經學術研究大量一致（認可大量文本內容的大量學術文獻）；在大量歷史—脈絡層次與主流考古學—歷史學術研究大量一致（認可大量歷史—文化背景的大量學術文獻）；在大量文本史層次與大量文本批判學術研究大量一致（認可大量傳遞歷史的大量學術文獻）；在解釋層次與主流神學學術研究實質上不同（本框架具體的歷史記錄解讀實質上超越傳統的宗教—神話處理）；在底層歷史事件解讀層次與各種另類歷史學術傳統（Sitchin的阿努納奇框架、Wallis的更廣泛探討、Biglino的嚴格翻譯方法）大量一致，同時運作於主要源自雷爾運動來源材料的不同源材料保證。
 
-## In primary sources
+## 在主要來源中
 
-The framework's principal primary-source material registers the substantial Hebrew Bible's foundational status across multiple Yahweh-articulated passages and substantial subsequent corpus development.
+本框架的主要源材料登錄大量希伯來聖經的根基性狀態跨越多個耶和華闡述的段落和大量後續的文集發展。
 
-### The principal "historical record" passage
+### 主要「歷史記錄」段落
 
-The substantial principal source-material passage establishing the framework's distinctive historical-record reading appears in the substantial corpus articulation of the broader revelation-content:
+建立本框架獨特歷史記錄解讀的大量主要源材料段落出現在更廣泛啟示內容的大量文集闡述中：
 
-> *"The second claim is that the Hebrew Bible and the other major religious traditions of the world preserve accurate historical memory of the alliance's interventions, in forms that reflect the pre-scientific vocabularies of their authors but that can be decoded by a scientifically mature reader. The specific decoding the source provides — Genesis 1 as genetic engineering rather than supernatural creation, the Nephilim as alliance-human hybrids, the flood as a nuclear cataclysm, Sinai as a formal alliance audience, the parted waters as directed-beam operations, the miracles of Jesus as scientific applications of advanced technology, the Elohim as plural rather than singular — is the corpus's foundational hermeneutic. The Hebrew Bible is not a book of religious myths that require either literal belief or allegorical reinterpretation; it is a historical record, imperfect in its pre-scientific vocabulary but substantially accurate in its content, that can be read directly once the hermeneutic key is available."*
+> *「第二個主張是，希伯來聖經和世界其他主要宗教傳統保存了關於聯盟干預的準確歷史記憶，其形式反映了其作者的前科學詞彙，但可以被科學上成熟的讀者解碼。來源提供的具體解碼——創世記1作為基因工程而非超自然創造、拿非利人作為聯盟—人類混血、洪水作為核災難、西奈作為正式聯盟覲見、分開的水域作為定向光束操作、耶穌的神蹟作為先進科技的科學應用、Elohim作為複數而非單數——是本文集的根基性詮釋學。希伯來聖經並非一部需要字面相信或寓意重新詮釋的宗教神話書；它是一部歷史記錄，在其前科學詞彙中不完美，但在其內容上實質上準確，一旦詮釋學鑰匙可用，就可以直接閱讀。」*
 
-The passage establishes the framework's principal structural and operational components:
+此段落建立本框架的主要結構和操作組成部分：
 
-**1. The substantial historical-record framing**. The substantial Hebrew Bible operates as substantial accurate historical memory rather than as substantial religious-mythological invention.
+**1. 大量歷史記錄框架**。大量希伯來聖經作為大量準確的歷史記憶運作，而非作為大量宗教—神話發明。
 
-**2. The substantial pre-scientific-vocabulary content**. The substantial human authors recorded what they observed in the substantial pre-scientific vocabulary available to them, with substantial decodable layer operating across the broader textual content.
+**2. 大量前科學詞彙內容**。大量人類作者以他們可用的大量前科學詞彙記錄他們所觀察到的，大量可解碼層次跨越更廣泛文本內容運作。
 
-**3. The substantial decoding hermeneutic**. The substantial framework provides substantial systematic hermeneutic key for substantive engagement with the substantial textual content — Genesis 1 as genetic engineering, the Nephilim as alliance-human hybrids, the flood as nuclear cataclysm, Sinai as formal alliance audience, etc.
+**3. 大量解碼詮釋學**。大量框架為與大量文本內容的實質性參與提供大量系統性詮釋學鑰匙——創世記1作為基因工程、拿非利人作為聯盟—人類混血、洪水作為核災難、西奈作為正式聯盟覲見等。
 
-**4. The substantial scientifically-mature-reader contextualization**. The substantial decoding requires substantial scientific maturity that the substantial Aquarian-age contemporary reader possesses but that previous generations lacked.
+**4. 大量科學上成熟讀者脈絡化**。大量解碼需要大量水瓶時代當代讀者所擁有但前幾代人所缺乏的大量科學成熟度。
 
-### The substantial centrality passage
+### 大量中心性段落
 
-The substantial principal source-material passage establishing the framework's substantial centrality position appears in the corpus articulation:
+建立本框架大量中心性立場的大量主要源材料段落出現在文集闡述中：
 
-> *"At the structural center of the synthesis is the Hebrew tradition. The Hebrew Bible is, on the corpus's reading, the most direct and least mediated record of the alliance's communication with Earth. The text was produced by a specific lineage — the Eden lineage, the descendants of the original alliance-cultivated population in the Eden geographic location — across the long arc from the Taurus age's reconstruction through the Aries age's prophetic tradition. The text's authors had direct access to the alliance's officers (the Yahweh contacts, the malakhim visitations, the dictation events at Sinai and elsewhere) and recorded what they were given in the Hebrew vocabulary available to them. The text is imperfect — the Hebrew authors did not always understand what they were recording, the various redactions across the centuries introduced layers of cultural framing on top of the original content, and the eventual canonization process selected specific texts while excluding others — but the text is, on the corpus's reading, substantially what it presents itself as: the documentary record of the alliance's relationship with the Eden lineage across the post-flood millennia."*
+> *「綜合的結構中心是希伯來傳統。希伯來聖經在本文集的解讀中，是聯盟與地球溝通最直接、最少中介的記錄。文本是由一個特定的世系——伊甸世系，伊甸地理位置原始聯盟培養族群的後裔——跨越從金牛時代重建到白羊時代預言傳統的長弧線產生的。文本的作者有對聯盟官員的直接接觸（耶和華接觸、malakhim顯現、在西奈山及其他地方的口述事件）並以他們可用的希伯來詞彙記錄他們所領受的。文本是不完美的——希伯來作者並不總是了解他們所記錄的內容，跨越各世紀的各種編訂在原始內容之上引入了文化框架層次，最終的正典化過程選擇了特定文本同時排除了其他文本——但文本在本文集的解讀中，實質上是它所呈現自身的樣子：聯盟與伊甸世系跨越洪水後千禧年關係的文獻記錄。」*
 
-The passage establishes the substantial centrality content:
+此段落建立大量中心性內容：
 
-**1. The substantial structural-center position**. The Hebrew Bible operates at the substantial structural center of the broader corpus asymmetric synthesis.
+**1. 大量結構中心立場**。希伯來聖經運作於更廣泛文集不對稱綜合的大量結構中心。
 
-**2. The substantial direct-and-least-mediated character**. The Hebrew Bible operates as substantively the most direct and least mediated record of the alliance's communication with Earth.
+**2. 大量直接且最少中介特性**。希伯來聖經實質上作為聯盟與地球溝通最直接、最少中介的記錄運作。
 
-**3. The substantial Eden-lineage genealogical specificity**. The substantial textual content was produced by the substantial Eden-lineage genealogical line across the substantial long arc from the Taurus-age reconstruction through the Aries-age prophetic tradition.
+**3. 大量伊甸世系遺傳特異性**。大量文本內容由大量伊甸譜系世系線跨越從金牛時代重建到白羊時代預言傳統的大量長弧線產生。
 
-**4. The substantial direct-access content**. The substantial textual authors had substantial direct access to the alliance's officers — the substantial Yahweh contacts, the substantial *malakhim* visitations, the substantial dictation events at Sinai and elsewhere.
+**4. 大量直接接觸內容**。大量文本作者有對聯盟官員的大量直接接觸——大量耶和華接觸、大量*malakhim*顯現、大量在西奈山及其他地方的口述事件。
 
-**5. The substantial imperfection content**. The substantial textual content registers substantial imperfections — the substantial pre-scientific vocabulary, the substantial redactional layering, the substantial canonization selection — but operates substantively as the substantial documentary record of the alliance's relationship with the Eden lineage.
+**5. 大量不完美內容**。大量文本內容登錄大量不完美——大量前科學詞彙、大量編訂層次、大量正典化選擇——但實質上作為聯盟與伊甸世系關係的大量文獻記錄運作。
 
-### The substantial "Israel-team" passage
+### 大量「以色列團隊」段落
 
-The substantial corpus articulation of the substantial Israel-team genealogical specificity:
+大量以色列團隊世系特異性的文集闡述：
 
-> *"What the source does report — what the chapter must register without backing away from — is that the Hebrew biblical tradition, which preserves the most detailed surviving narrative of any of the seven teams' work, is the literature of one specific team whose particular accomplishment was noted at the time. This is consistent with the broader pattern in which the Israel team's humans, more than any other team's, became the cultural carriers of the creation memory. The Hebrew Bible is the record of that carrying. Its centrality to the corpus's interpretive framework reflects the historical accident — or the historical design — that this team's humans preserved their origin story with greater fidelity than the other teams' humans preserved theirs. The other teams' humans had their own creation traditions; many of those traditions survive in fragmentary form in the comparative-mythology material the Preamble surveyed. The Hebrew Bible is one tradition among several, not a uniquely privileged source. It is, however, the most complete and the most explicitly developed, which is why this corpus reads it most closely."*
+> *「來源確實報告的——本章必須登錄而不退縮的——是，希伯來聖經傳統，它保存了七個團隊任何一個工作的最詳細現存敘事，是當時其特定成就被注意到的一個特定團隊的文獻。這與更廣泛的模式一致，即以色列團隊的人類比任何其他團隊的人類更成為創造記憶的文化攜帶者。希伯來聖經就是該攜帶的記錄。它對本文集解釋框架的中心性反映了歷史偶然——或歷史設計——這個團隊的人類比其他團隊的人類更忠實地保存了他們的起源故事。其他團隊的人類有他們自己的創造傳統；許多這些傳統以片段形式存留於前言所考察的比較神話材料中。希伯來聖經是幾個傳統之一，而非獨特特權的來源。然而，它是最完整且最明確發展的，這就是為什麼本文集最仔細地解讀它。」*
 
-The passage establishes the substantial nuance: the Hebrew Bible operates as the literature of one specific creator-team's substantial work rather than as substantial unique-privileging content, with the substantial preservation-fidelity operating as the substantial reason for the corpus's substantial centrality positioning.
+此段落建立大量細微差別：希伯來聖經作為一個特定創造者團隊大量工作的文獻運作，而非作為大量獨特特權的內容，大量保存忠實度作為文集大量中心性定位的大量原因運作。
 
-### The substantial "first mistake of the Church" passage
+### 大量「教會的第一個錯誤」段落
 
-The substantial principal source-material passage establishing the framework's substantial translation-mistake reading appears in *Message from the Designers*:
+建立本框架大量翻譯錯誤解讀的大量主要源材料段落出現在《設計者的訊息》中：
 
-> *"Its mistakes have been great, particularly when it injected too much of the supernatural into the truth, and wrongly translated the scriptures in ordinary Bibles. It replaced the term 'Elohim', which refers to the creators, with a singular term 'God', whereas in fact Elohim in Hebrew is the plural of Eloha. In this way, the Church transformed the creators into a single incomprehensible God."*
+> *「它的錯誤是巨大的，特別是當它將過多的超自然注入真理時，並錯誤地翻譯了普通聖經中的經文。它將指稱創造者的『Elohim』這個詞替換為單數的『神』，而事實上Elohim在希伯來語中是Eloha的複數。透過這種方式，教會將創造者轉變為一個單一的不可理解的神。」*
 
-The passage establishes the framework's substantial translation-mistake reading. The detailed treatment lives in the [Plurality of Gods](../plurality-of-gods/) entry; the Hebrew Bible entry's specific contribution is registering the broader translation-history landscape within which this specific mistake operates.
+此段落建立本框架大量翻譯錯誤解讀。詳細處理存在於{% wiki(slug="plurality-of-gods") %}眾神的複數性{% end %}條目中；希伯來聖經條目的具體貢獻是登錄此具體錯誤運作所在的更廣泛翻譯歷史景觀。
 
-### The substantial "wick" passage
+### 大量「燈芯」段落
 
-The substantial corpus articulation of the broader Christian-tradition assessment registers substantial nuance:
+大量更廣泛基督教傳統評估的文集闡述登錄大量細微差別：
 
-> *"The 'wick' is weakening. It has accomplished its mission, and it is time for it to disappear. It has made mistakes and has enriched itself at the expense of the truth, without trying to interpret it in a clear enough way for people of this era. But do not be too hard on it, for thanks to the Church, the word of the Bible, which is a witness to the truth, has spread throughout the world."*
+> *「『燈芯』正在減弱。它已完成了它的使命，是時候讓它消失了。它犯了錯誤，並以真理為代價豐富了自己，沒有試圖以對這個時代的人們足夠清晰的方式來詮釋它。但不要對它太苛刻，因為多虧了教會，作為真理見證的聖經話語才傳遍了世界。」*
 
-The passage registers substantial framework nuance: while the substantial Christian-tradition translation-and-theological mistakes are substantively registered, the substantial broader function of the Church in spreading the substantial Bible content "throughout the world" is also registered substantively. The substantial Hebrew Bible operates as the substantial textual content the Church has substantively distributed across the broader global landscape.
+此段落登錄大量框架細微差別：雖然大量基督教傳統的翻譯與神學錯誤被廣泛登錄，教會在「全世界」傳播大量聖經內容的大量更廣泛功能也被廣泛登錄。大量希伯來聖經作為教會跨越更廣泛全球景觀廣泛分發的大量文本內容運作。
 
-### The broader source-material context
+### 更廣泛的源材料脈絡
 
-The Hebrew Bible framework operates within the broader Raëlian source-material context, with substantial supporting material across multiple passages:
+希伯來聖經框架運作於更廣泛雷爾運動源材料脈絡內，具有跨越多個段落的大量支援材料：
 
-- The substantial source's chapter-by-chapter engagement with substantial Hebrew Bible passages registers substantial framework engagement
-- The substantial *timeline.epub* substantial chapter-by-chapter Hebrew exegesis articulates substantial framework reading
-- The various individual entries (Genesis, Adam and Eve, Eden, Antediluvian, Great Flood, Theomachy, Babel, Sodom and Gomorrah, Moses, Abraham, Noah, Elohim, Yahweh, etc.) articulate substantial entry-specific framework readings
+- 大量來源逐章參與大量希伯來聖經段落，登錄大量框架參與
+- 大量*timeline.epub*的大量逐章希伯來注釋闡述大量框架解讀
+- 各個別條目（創世記、亞當與夏娃、伊甸園、洪水前、大洪水、神戰、巴別、所多瑪與蛾摩拉、摩西、亞伯拉罕、挪亞、耶洛因、耶和華等）闡述大量條目特定的框架解讀
 
-## The Hebrew Bible's content
+## 希伯來聖經的內容
 
-### The substantial canonical structure within the framework
+### 框架內的大量正典結構
 
-The framework operates substantively across the substantial Hebrew Bible canonical structure.
+本框架在大量希伯來聖經正典結構上廣泛運作。
 
-**The Torah / Pentateuch within the framework**. The substantial Torah operates as substantial primary content for the broader corpus framework:
+**框架內的妥拉/五經**。大量妥拉作為更廣泛文集框架的大量主要內容運作：
 
-- **Genesis 1-11 (the primeval history)**: substantial framework engagement across multiple corpus entries (Genesis, Adam and Eve, Eden, Antediluvian, Great Flood, Babel, the various creator-figure entries)
-- **Genesis 12-50 (the patriarchal narratives)**: substantial framework engagement (Abraham, Sodom and Gomorrah, Joseph, the various Eden-lineage genealogical content)
-- **Exodus**: substantial framework engagement (Moses, the substantial Sinai covenant, the substantial alliance-audience content)
-- **Leviticus**: substantial framework engagement with substantial priestly-legislative content as substantial alliance-instructed protocol
-- **Numbers**: substantial framework engagement with substantial wilderness-period content
-- **Deuteronomy**: substantial framework engagement with substantial covenant-renewal content
+- **創世記1-11（原始歷史）**：大量跨越多個文集條目的框架參與（創世記、亞當與夏娃、伊甸園、洪水前、大洪水、巴別、各種創造者人物條目）
+- **創世記12-50（族長敘事）**：大量框架參與（亞伯拉罕、所多瑪與蛾摩拉、約瑟、各種伊甸譜系世系內容）
+- **出埃及記**：大量框架參與（摩西、大量西奈盟約、大量聯盟覲見內容）
+- **利未記**：對大量祭司立法內容作為大量聯盟指示協議的大量框架參與
+- **民數記**：對大量曠野時期內容的大量框架參與
+- **申命記**：對大量盟約更新內容的大量框架參與
 
-**The Nevi'im / Prophets within the framework**. The substantial Nevi'im operates as substantial subsequent framework content:
+**框架內的先知書/Nevi'im**。大量先知書作為大量後續框架內容運作：
 
-- **Former Prophets** (Joshua, Judges, Samuel, Kings): substantial framework engagement with the substantial monarchic period and the substantial broader alliance-relationship development
-- **Latter Prophets** (Isaiah, Jeremiah, Ezekiel, the Twelve): substantial framework engagement with the substantial prophetic tradition and the substantial alliance-mediated communication
+- **前先知書**（約書亞記、士師記、撒母耳記、列王記）：對大量君主時期和大量更廣泛聯盟關係發展的大量框架參與
+- **後先知書**（以賽亞書、耶利米書、以西結書、十二先知書）：對大量預言傳統和大量聯盟中介溝通的大量框架參與
 
-**The Ketuvim / Writings within the framework**. The substantial Ketuvim operates as substantial diverse-content framework engagement:
+**框架內的聖卷/Ketuvim**。大量聖卷作為大量多元內容的框架參與運作：
 
-- **Psalms**: substantial framework engagement with substantial liturgical-poetic content registering substantial alliance-relationship
-- **Job**: substantial framework engagement with the substantial divine-council scenes (Job 1-2) registering substantial Council operational structure
-- **Daniel**: substantial framework engagement with the substantial apocalyptic content registering substantial alliance-prophetic communication
-- **Various other Ketuvim books**: substantial framework engagement with various specific content
+- **詩篇**：對登錄大量聯盟關係的大量禮儀—詩歌內容的大量框架參與
+- **約伯記**：對登錄大量理事會操作結構的大量神聖議會場景（約伯記1-2）的大量框架參與
+- **但以理書**：對登錄大量聯盟預言溝通的大量啟示內容的大量框架參與
+- **各種其他聖卷書卷**：對各種具體內容的大量框架參與
 
-### The substantial framework hermeneutic
+### 大量框架詮釋學
 
-The substantial framework articulates substantial systematic hermeneutic for substantive engagement with the substantial Hebrew Bible content.
+大量框架闡述對大量希伯來聖經內容實質性參與的大量系統性詮釋學。
 
-**The substantial principal hermeneutic moves**. The substantial framework articulates substantial principal interpretive moves across the broader textual tradition:
+**大量主要詮釋學動作**。大量框架跨越更廣泛文本傳統闡述大量主要解釋動作：
 
-- **Genesis 1 as substantial genetic-engineering account** rather than substantial supernatural-creation account
-- **The substantial *Elohim* as substantial actual plural beings** rather than substantial singular God (treated principally in the [Plurality of Gods](../plurality-of-gods/) entry)
-- **The substantial *malakhim* as substantial alliance personnel** rather than substantial supernatural beings
-- **The substantial *benei ha-Elohim* as substantial alliance-human-contact content** (treated principally in the [Watchers](../watchers/) entry when written and the [Antediluvian](../antediluvian/) entry)
-- **The substantial Nephilim as substantial alliance-human hybrid offspring** rather than substantial supernatural giants
-- **The substantial flood as substantial nuclear cataclysm** (treated principally in the [Great Flood](../great-flood/) entry)
-- **The substantial Sinai event as substantial formal alliance audience** rather than substantial supernatural theophany
-- **The substantial parted waters as substantial directed-beam operations** rather than substantial supernatural intervention
-- **The substantial Sodom destruction as substantial atomic strike** (treated principally in the [Sodom and Gomorrah](../sodom-and-gomorrah/) entry)
-- **The substantial Babel intervention as substantial Council operational dispersion** (treated principally in the [Babel](../babel/) entry)
-- **The substantial Tetragrammaton as substantial Council-president personal designation** (treated principally in the [Yahweh](../yahweh/) and [Tetragrammaton](../tetragrammaton/) entries)
+- **創世記1作為大量基因工程記敘**而非大量超自然創造記敘
+- **大量*Elohim*作為大量實際的複數存有**而非大量單數神（主要在{% wiki(slug="plurality-of-gods") %}眾神的複數性{% end %}條目中處理）
+- **大量*malakhim*作為大量聯盟人員**而非大量超自然存有
+- **大量*benei ha-Elohim*作為大量聯盟—人類接觸內容**（寫成時主要在{% wiki(slug="watchers") %}守望者{% end %}條目和{% wiki(slug="antediluvian") %}洪水前{% end %}條目中處理）
+- **大量拿非利人作為大量聯盟—人類混血後代**而非大量超自然巨人
+- **大量洪水作為大量核災難**（主要在{% wiki(slug="great-flood") %}大洪水{% end %}條目中處理）
+- **大量西奈事件作為大量正式聯盟覲見**而非大量超自然神顯
+- **大量分開的水域作為大量定向光束操作**而非大量超自然干預
+- **大量所多瑪毀滅作為大量原子打擊**（主要在{% wiki(slug="sodom-and-gomorrah") %}所多瑪與蛾摩拉{% end %}條目中處理）
+- **大量巴別干預作為大量理事會操作分散**（主要在{% wiki(slug="babel") %}巴別{% end %}條目中處理）
+- **大量四字神名作為大量理事會主席個人指稱**（主要在{% wiki(slug="yahweh") %}耶和華{% end %}和{% wiki(slug="tetragrammaton") %}四字神名{% end %}條目中處理）
 
-**The substantial decoding methodology**. The substantial framework operates through substantial systematic textual engagement:
+**大量解碼方法論**。大量框架透過大量系統性文本參與運作：
 
-1. **Substantial original-language priority**: substantial reading of the substantial Hebrew text rather than substantial reliance on translations
-2. **Substantial grammatical attention**: substantial attention to substantial grammatical features (plural forms, verb tenses, syntactic structures)
-3. **Substantial vocabulary-fidelity**: substantial attention to the substantial actual semantic content of substantial Hebrew terms
-4. **Substantial cross-referencing**: substantial systematic cross-referencing across the broader Hebrew Bible content
-5. **Substantial cross-cultural integration**: substantial integration with substantial parallel content from substantial other religious-traditional sources
+1. **大量原始語言優先**：大量解讀大量希伯來文本，而非大量依賴翻譯
+2. **大量語法注意**：對大量語法特徵（複數形式、動詞時態、句法結構）的大量注意
+3. **大量詞彙忠實度**：對大量希伯來術語的大量實際語義內容的大量注意
+4. **大量交叉參照**：跨越更廣泛希伯來聖經內容的大量系統性交叉參照
+5. **大量跨文化整合**：與來自大量其他宗教—傳統來源的大量平行內容的大量整合
 
-### The substantial translation-mistake landscape
+### 大量翻譯錯誤景觀
 
-The substantial framework articulates substantial systematic translation-mistake landscape across the broader Christian-tradition translation history.
+大量框架跨越更廣泛基督教傳統翻譯歷史闡述大量系統性翻譯錯誤景觀。
 
-**The substantial *Elohim* → singular "God" mistake**. The substantial principal translation mistake operating across substantially the entire Christian-tradition translation history. The detailed treatment lives in the [Plurality of Gods](../plurality-of-gods/) entry.
+**大量*Elohim* → 單數「神」錯誤**。大量主要翻譯錯誤實質上跨越整個基督教傳統翻譯歷史運作。詳細處理存在於{% wiki(slug="plurality-of-gods") %}眾神的複數性{% end %}條目中。
 
-**The substantial *taninim* → "whales" mistake**. The substantial Genesis 1:21 translation choice operating principally through the Septuagint κῆτος (*ketos*, "sea creature") rendering and subsequent translations. The detailed treatment lives in the [Dragons](../dragons/) entry. The substantial original Hebrew *taninim* operates as substantial plural of *tannin* meaning substantial "dragons" or "sea-serpents," with the substantial translation softening operating across the broader translation tradition.
+**大量*taninim* → 「鯨魚」錯誤**。大量創世記1:21翻譯選擇主要透過七十士譯本κῆτος（*ketos*，「海洋生物」）的翻譯和後續翻譯運作。詳細處理存在於{% wiki(slug="dragons") %}龍{% end %}條目中。大量原始希伯來語*taninim*作為大量*tannin*的複數運作，意指大量「龍」或「海蛇」，大量翻譯軟化跨越更廣泛翻譯傳統運作。
 
-**The substantial *malakhim* → "angels" mistake**. The substantial Hebrew *malakhim* (מַלְאָכִים, plural of *malakh*) operates as substantial standard Hebrew designation for substantial "messengers" rather than substantial supernatural beings. The substantial Christian-tradition rendering as "angels" (with substantial subsequent supernatural-overlay development) operates as substantial obscuring of the substantial messenger-personnel operational content.
+**大量*malakhim* → 「天使」錯誤**。大量希伯來語*malakhim*（מַלְאָכִים，*malakh*的複數）作為大量「使者」的標準希伯來名稱運作，而非大量超自然存有。大量基督教傳統將其翻譯為「天使」（具有大量後續的超自然覆蓋發展）作為對大量信使—人員操作內容的大量遮蔽運作。
 
-**The substantial *nachash* → mere "serpent" mistake**. The substantial Hebrew *nachash* (נָחָשׁ) operates within substantial broader semantic field with substantial multiple operational meanings. The substantial Christian-tradition rendering as mere "serpent" operating principally through the substantial Genesis 3 narrative substantially obscures the substantial Lucifer-faction operational content. The detailed treatment lives in the [Serpent](../serpent/) entry.
+**大量*nachash* → 僅僅「蛇」的錯誤**。大量希伯來語*nachash*（נָחָשׁ）在大量更廣泛的語義場中運作，具有大量多重操作意義。大量基督教傳統將其翻譯為僅僅「蛇」，主要透過大量創世記3敘事運作，實質上遮蔽了大量路西法派系操作內容。詳細處理存在於{% wiki(slug="serpent") %}蛇{% end %}條目中。
 
-**The substantial *benei ha-Elohim* → "sons of God" mistake**. The substantial Hebrew *benei ha-Elohim* (בְּנֵי־הָאֱלֹהִים, "sons of the Elohim") preserves substantial plural reference. The substantial Christian-tradition rendering frequently obscures the substantial plural content through substantial various translation choices.
+**大量*benei ha-Elohim* → 「神的兒子」錯誤**。大量希伯來語*benei ha-Elohim*（בְּנֵי־הָאֱלֹהִים，「眾耶洛因的兒子」）保留大量複數指稱。大量基督教傳統翻譯經常透過大量各種翻譯選擇遮蔽大量複數內容。
 
-**The substantial *Adam* → "man" naming mistake**. The substantial Hebrew *Adam* (אָדָם) operates substantively beyond the substantial individual-name content as substantial collective designation for substantial humanity (related to the substantial *adamah* "earth" / "ground" content). The substantial Christian-tradition translation has substantively obscured the substantial collective content in various passages.
+**大量*Adam* → 「人」命名錯誤**。大量希伯來語*Adam*（אָדָם）實質上超越大量個人名字內容，作為大量人類的集體指稱運作（與大量*adamah*「地」/「土」內容有關）。大量基督教傳統翻譯在各種段落中已實質上遮蔽了大量集體內容。
 
-**The substantial *ruach* → "spirit" mistake**. The substantial Hebrew *ruach* (רוּחַ) operates substantively within substantial broader semantic field including "wind," "breath," and "spirit." The substantial Christian-tradition rendering as merely "spirit" with substantial supernatural overlay has substantively obscured the substantial broader semantic content.
+**大量*ruach* → 「靈」錯誤**。大量希伯來語*ruach*（רוּחַ）實質上在大量更廣泛的語義場內運作，包括「風」、「氣息」和「靈」。大量基督教傳統將其翻譯為僅僅「靈」並帶有大量超自然覆蓋，實質上遮蔽了大量更廣泛的語義內容。
 
-**Various other translation mistakes**. The substantial broader translation-mistake landscape extends substantively beyond these substantial principal instances, with substantial systematic obscuring operating across the broader Christian-tradition translation history.
+**各種其他翻譯錯誤**。大量更廣泛翻譯錯誤景觀實質上超越這些大量主要實例，大量系統性遮蔽跨越更廣泛基督教傳統翻譯歷史運作。
 
-### The substantial textual-imperfection content
+### 大量文本不完美內容
 
-The substantial framework registers substantial textual imperfection within the substantial broader centrality positioning.
+大量框架在大量更廣泛的中心性定位內登錄大量文本不完美。
 
-**The substantial pre-scientific-vocabulary imperfection**. The substantial human authors did not always substantively understand what they were recording, with substantial pre-scientific vocabulary operating as substantial limitation on substantial recording-fidelity.
+**大量前科學詞彙不完美**。大量人類作者並不總是實質上理解他們所記錄的內容，大量前科學詞彙作為大量記錄忠實度的大量限制運作。
 
-**The substantial redactional-layering imperfection**. The substantial various redactions across the centuries introduced substantial layers of cultural framing on top of the original content, with substantial subsequent monotheistic-theological editing operating substantively across the broader textual tradition.
+**大量編訂層次不完美**。跨越各世紀的大量各種編訂在原始內容之上引入了大量文化框架層次，大量後續的一神論—神學編輯跨越更廣泛文本傳統廣泛運作。
 
-**The substantial canonization-selection imperfection**. The substantial eventual canonization process selected specific texts while excluding others, with substantial significant content (the substantial Book of Enoch, various other apocryphal-pseudepigraphal materials) being excluded from the substantial Jewish canonical tradition. The substantial Book of Enoch exclusion is treated principally in the substantial [Watchers](../watchers/) entry when written.
+**大量正典化選擇不完美**。大量最終的正典化過程選擇了特定文本，同時排除了其他文本，大量重要內容（大量《以諾書》、各種其他次經—偽經材料）被從大量猶太正典傳統中排除。大量《以諾書》排除主要在大量{% wiki(slug="watchers") %}守望者{% end %}條目寫成時處理。
 
-**The substantial substantive-preservation despite imperfection**. The substantial framework articulation: despite the substantial imperfections, the substantial textual content operates substantively as the substantial documentary record of the alliance's relationship with the Eden lineage. The substantial imperfections register substantial decodable layers rather than substantial fundamental-obstacles to substantive understanding.
+**大量儘管不完美的實質性保存**。大量框架闡述：儘管有大量不完美，大量文本內容實質上作為聯盟與伊甸世系關係的大量文獻記錄運作。大量不完美登錄大量可解碼層次，而非對實質性理解的大量根本障礙。
 
-### The substantial Israel-team genealogical specificity
+### 大量以色列團隊世系特異性
 
-The substantial framework articulates substantial Israel-team genealogical specificity within the broader cosmological-creator framework.
+大量框架在更廣泛宇宙論—創造者框架內闡述大量以色列團隊世系特異性。
 
-**The substantial seven-team creation structure**. The substantial framework registers the substantial Elohim creation project as operating through substantial seven-team structure, with the substantial seven creator-teams operating across the substantial seven creation days / precessional ages. The detailed treatment lives in the [Genesis](../genesis/) entry.
+**大量七團隊創造結構**。大量框架登錄大量耶洛因創造計畫作為透過大量七團隊結構運作，大量七個創造者團隊跨越大量七個創造日/歲差時代運作。詳細處理存在於{% wiki(slug="genesis") %}創世記{% end %}條目中。
 
-**The substantial Israel-team specific position**. The substantial Hebrew Bible operates as the substantial documentary record of the substantial Israel-team's specific work, with the substantial Eden-lineage genealogical line operating as the substantial cultural carrier of the broader creation memory.
+**大量以色列團隊具體立場**。大量希伯來聖經作為大量以色列團隊具體工作的大量文獻記錄運作，大量伊甸譜系世系線作為更廣泛創造記憶的大量文化攜帶者運作。
 
-**The substantial preservation-fidelity content**. The substantial Israel-team's humans, more than any other team's, became the substantial cultural carriers of the substantial creation memory. The substantial preservation-fidelity reflects the substantial historical-developmental specifics of the substantial Eden-lineage genealogical line — substantial consistent population-continuity across the post-flood millennia, substantial religious-cultural-textual tradition development, substantial alliance-officer direct contact across the broader period.
+**大量保存忠實度內容**。大量以色列團隊的人類比任何其他團隊的人類更成為大量創造記憶的大量文化攜帶者。大量保存忠實度反映大量伊甸譜系世系線的大量歷史—發展具體性——跨越洪水後千禧年的大量一致族群連續性、大量宗教—文化—文本傳統發展、跨越更廣泛時期的大量聯盟官員直接接觸。
 
-**The substantial other-teams comparative content**. The substantial other six creator-teams' humans had their own substantial creation traditions, with substantial fragments surviving substantively in the substantial comparative-mythology material across various other religious-cultural traditions. The substantial detailed cross-cultural comparative content lives in the various comparative entries (Genesis, Antediluvian, Great Flood, etc.).
+**大量其他團隊比較內容**。大量其他六個創造者團隊的人類有他們自己的大量創造傳統，大量片段實質上存留於各種其他宗教—文化傳統的大量比較神話材料中。大量詳細的跨文化比較內容存在於各種比較條目中（創世記、洪水前、大洪水等）。
 
-## Application across the corpus
+## 跨文集的應用
 
-The Hebrew Bible operates as substantial source-textual foundation across virtually every corpus framework entry.
+希伯來聖經作為大量源文本基礎運作於實質上每一個文集框架條目。
 
-### The Genesis entry
+### 創世記條目
 
-The Hebrew Bible Genesis content operates as substantial foundational content for the broader corpus framework. The detailed treatment of Genesis lives in the [Genesis](../genesis/) entry; the Hebrew Bible entry's specific contribution is registering the substantial broader textual-canonical context within which Genesis operates.
+希伯來聖經創世記內容作為更廣泛文集框架的大量根基性內容運作。創世記的詳細處理存在於{% wiki(slug="genesis") %}創世記{% end %}條目中；希伯來聖經條目的具體貢獻是登錄創世記運作所在的大量更廣泛文本—正典脈絡。
 
-### The various individual narrative-event entries
+### 各個別敘事—事件條目
 
-The Hebrew Bible operates as substantial source-textual foundation for the various individual narrative-event entries: [Adam and Eve](../adam-and-eve/), [Eden](../eden/), [Antediluvian](../antediluvian/), [Great Flood](../great-flood/), [Theomachy](../theomachy/), [Babel](../babel/), [Sodom and Gomorrah](../sodom-and-gomorrah/), various others.
+希伯來聖經作為各個別敘事—事件條目的大量源文本基礎運作：{% wiki(slug="adam-and-eve") %}亞當與夏娃{% end %}、{% wiki(slug="eden") %}伊甸園{% end %}、{% wiki(slug="antediluvian") %}洪水前{% end %}、{% wiki(slug="great-flood") %}大洪水{% end %}、{% wiki(slug="theomachy") %}神戰{% end %}、{% wiki(slug="babel") %}巴別{% end %}、{% wiki(slug="sodom-and-gomorrah") %}所多瑪與蛾摩拉{% end %}、各種其他。
 
-### The various individual figure entries
+### 各個別人物條目
 
-The Hebrew Bible operates as substantial source-textual foundation for the various individual figure entries: [Adam and Eve](../adam-and-eve/), [Noah](../noah/) when written, [Abraham](../abraham/) when written, [Moses](../moses/) when written, the various creator-figure entries ([Elohim](../elohim/), [Yahweh](../yahweh/), [Lucifer](../lucifer/), [Satan](../satan/), [Serpent](../serpent/)), various others.
+希伯來聖經作為各個別人物條目的大量源文本基礎運作：{% wiki(slug="adam-and-eve") %}亞當與夏娃{% end %}、寫成時的{% wiki(slug="noah") %}挪亞{% end %}、寫成時的{% wiki(slug="abraham") %}亞伯拉罕{% end %}、寫成時的{% wiki(slug="moses") %}摩西{% end %}、各種創造者人物條目（{% wiki(slug="elohim") %}耶洛因{% end %}、{% wiki(slug="yahweh") %}耶和華{% end %}、{% wiki(slug="lucifer") %}路西法{% end %}、{% wiki(slug="satan") %}撒但{% end %}、{% wiki(slug="serpent") %}蛇{% end %}）、各種其他。
 
-### The various concept entries
+### 各概念條目
 
-The Hebrew Bible operates as substantial source-textual foundation for the various concept entries: [Plurality of Gods](../plurality-of-gods/), [Cosmic Chain](../cosmic-chain/), [Cosmic Competition](../cosmic-competition/), [Doubled Signature](../doubled-signature/), [Tree of Life](../tree-of-life/), various others.
+希伯來聖經作為各概念條目的大量源文本基礎運作：{% wiki(slug="plurality-of-gods") %}眾神的複數性{% end %}、{% wiki(slug="cosmic-chain") %}宇宙鏈{% end %}、{% wiki(slug="cosmic-competition") %}宇宙競爭{% end %}、{% wiki(slug="doubled-signature") %}雙重簽名{% end %}、{% wiki(slug="tree-of-life") %}生命樹{% end %}、各種其他。
 
-### The various text entries
+### 各文本條目
 
-The Hebrew Bible operates as substantial textual-tradition context for various other text entries when written: [Tetragrammaton](../tetragrammaton/), various subsequent Hellenistic-Jewish and Christian-tradition textual entities, various Islamic-tradition textual entities.
+希伯來聖經作為各種其他文本條目寫成時的大量文本傳統脈絡運作：{% wiki(slug="tetragrammaton") %}四字神名{% end %}、各種後續的希臘化—猶太和基督教傳統文本實體、各種伊斯蘭傳統文本實體。
 
-### The Apocalypse entry
+### 啟示錄條目
 
-The Hebrew Bible operates as substantial source-textual foundation for substantial apocalyptic-prophetic content. The detailed treatment lives in the [Apocalypse](../apocalypse/) entry.
+希伯來聖經作為大量啟示—預言內容的大量源文本基礎運作。詳細處理存在於{% wiki(slug="apocalypse") %}啟示{% end %}條目中。
 
-### The Prophet entry
+### 先知條目
 
-The Hebrew Bible operates as substantial source-textual foundation for substantial prophetic-tradition content. The detailed treatment lives in the [Prophet](../prophet/) entry.
+希伯來聖經作為大量預言—傳統內容的大量源文本基礎運作。詳細處理存在於{% wiki(slug="prophet") %}先知{% end %}條目中。
 
-## Distinguishing from adjacent concepts
+## 與相鄰概念的區分
 
-### Hebrew Bible vs. Christian Old Testament
+### 希伯來聖經 vs. 基督教舊約
 
-The Christian Old Testament operates as substantial Christian-tradition canonical reception of the Hebrew Bible content, with substantial divisional and arrangement differences. The relationship is one of **substantively-same-content-with-substantial-canonical-organizational-differences**. The substantial principal differences:
+基督教舊約作為希伯來聖經內容的大量基督教傳統正典接受運作，具有大量劃分和排列差異。這種關係是**實質上相同內容但具有大量正典組織差異**的關係。大量主要差異：
 
-- **Book count and divisions**: substantial different counting conventions (24 books in Jewish organization vs. 39 books in Protestant Christian organization vs. larger counts in Catholic and Orthodox organizations including substantial Deuterocanonical additions)
-- **Book ordering**: substantial different organizational sequences (prophets in middle section vs. at end)
-- **Apocryphal additions**: substantial Catholic and Eastern Orthodox additions not present in Jewish or Protestant Christian canons
+- **卷書數和劃分**：大量不同的計算慣例（猶太組織中24卷 vs. 新教基督教組織中39卷 vs. 包括大量次經增加的天主教和東正教組織中更大的數量）
+- **卷書排序**：大量不同的組織序列（先知書在中間部分 vs. 在末尾）
+- **次經增加**：大量天主教和東正教的增加，在猶太或新教基督教正典中不存在
 
-The substantial framework engagement operates principally with the substantial Hebrew textual tradition rather than with the substantial Christian-canonical reorganization, while registering substantial respect for the substantial Christian-tradition textual transmission.
+大量框架參與主要與大量希伯來文本傳統而非大量基督教正典重組運作，同時登錄對大量基督教傳統文本傳遞的大量尊重。
 
-### Hebrew Bible vs. broader Christian Bible
+### 希伯來聖經 vs. 更廣泛的基督教聖經
 
-The broader Christian Bible adds substantial New Testament content to the substantial Old Testament content. The relationship is one of **substantial-Hebrew-Bible-content-as-foundation-with-substantial-New-Testament-addition**. The substantial framework engagement with the substantial New Testament content operates substantively (treated principally in the [Jesus](../jesus/) entry, the various Christian-tradition entries, and the broader Pisces-age corpus entries) but substantially separately from the substantial Hebrew Bible engagement.
+更廣泛的基督教聖經將大量新約內容加入大量舊約內容。這種關係是**大量希伯來聖經內容作為基礎，加上大量新約內容**的關係。本框架對大量新約內容的參與廣泛運作（主要在{% wiki(slug="jesus") %}耶穌{% end %}條目、各種基督教傳統條目和更廣泛的雙魚時代文集條目中處理），但實質上與大量希伯來聖經參與分開。
 
-### Hebrew Bible vs. the Quran
+### 希伯來聖經 vs. 古蘭經
 
-The substantial Quran operates as substantial Islamic-tradition canonical text registering substantial parallel content with the substantial Hebrew Bible while operating from distinct cultural-religious tradition. The relationship is one of **substantial-parallel-content-with-substantial-distinct-traditional-framing**. The substantial framework engagement with the substantial Quran operates substantively (treated principally in the [Muhammad](../muhammad/) entry when written and the broader Pisces-age corpus entries) but substantially separately from the substantial Hebrew Bible engagement.
+大量古蘭經作為大量伊斯蘭傳統正典文本運作，登錄與大量希伯來聖經的大量平行內容，同時運作於不同的文化—宗教傳統。這種關係是**大量平行內容但具有大量不同傳統框架**的關係。本框架對大量古蘭經的參與廣泛運作（寫成時主要在{% wiki(slug="muhammad") %}穆罕默德{% end %}條目和更廣泛的雙魚時代文集條目中處理），但實質上與大量希伯來聖經參與分開。
 
-### Hebrew Bible vs. the Book of Mormon
+### 希伯來聖經 vs. 摩爾門經
 
-The substantial Book of Mormon operates as substantial Mormon LDS canonical text registering substantial parallel content with the substantial Hebrew Bible while operating from distinct cultural-religious tradition. The relationship is one of **substantial-parallel-content-with-substantial-distinct-traditional-framing**. The substantial framework engagement with the substantial Book of Mormon operates substantively (treated principally in the [Joseph Smith](../joseph-smith/) entry when written and the broader Mormon LDS corpus content) but substantially separately from the substantial Hebrew Bible engagement.
+大量摩爾門經作為大量摩門教LDS正典文本運作，登錄與大量希伯來聖經的大量平行內容，同時運作於不同的文化—宗教傳統。這種關係是**大量平行內容但具有大量不同傳統框架**的關係。本框架對大量摩爾門經的參與廣泛運作（寫成時主要在{% wiki(slug="joseph-smith") %}約瑟·斯密{% end %}條目和更廣泛的摩門教LDS文集內容中處理），但實質上與大量希伯來聖經參與分開。
 
-### Hebrew Bible vs. Apocryphal and Pseudepigraphal texts
+### 希伯來聖經 vs. 次經和偽經文本
 
-The substantial Apocryphal and Pseudepigraphal texts (the substantial Book of Enoch, the substantial Book of Jubilees, the substantial various Maccabees books, the substantial various other texts) operate within distinct canonical-traditional positions while substantively containing substantial parallel content with the broader Hebrew Bible tradition. The relationship is one of **substantial-related-content-with-substantial-distinct-canonical-position**. The substantial framework engagement with the substantial Apocryphal-Pseudepigraphal content operates substantively (treated principally in the [Watchers](../watchers/) entry when written for substantial Book of Enoch content, with various other dedicated entries when written).
+大量次經和偽經文本（大量《以諾書》、大量《禧年書》、大量各種瑪加伯書卷、大量各種其他文本）運作於不同的正典—傳統位置內，同時實質上包含與更廣泛希伯來聖經傳統的大量平行內容。這種關係是**大量相關內容但具有大量不同正典位置**的關係。本框架對大量次經—偽經內容的參與廣泛運作（對大量《以諾書》內容，主要在寫成時的{% wiki(slug="watchers") %}守望者{% end %}條目中處理，並寫成時有各種其他專門條目）。
 
-## Modern reinterpretations
+## 現代重新詮釋
 
-### Mainstream Hebrew Bible scholarship
+### 主流希伯來聖經學術研究
 
-Mainstream Hebrew Bible scholarship has produced substantial systematic engagement across multiple distinct disciplinary contexts.
+主流希伯來聖經學術研究跨越多個不同學科脈絡產生大量系統性參與。
 
-### The Documentary Hypothesis
+### 底本假說
 
-The substantial **Documentary Hypothesis** operates as the principal source-critical framework for Pentateuchal scholarship from the late nineteenth century onward.
+大量**底本假說**作為自十九世紀晚期以來五經學術研究的主要源批判框架運作。
 
-**Wellhausen's foundational work**. **Julius Wellhausen** (1844-1918) produced the foundational systematic articulation of the substantial Documentary Hypothesis through *Prolegomena zur Geschichte Israels* (1878; English translation as *Prolegomena to the History of Israel*, 1885). The substantial Wellhausen articulation registered the substantial four-source theory: J (Yahwist), E (Elohist), D (Deuteronomist), P (Priestly). The substantial subsequent scholarship has substantively engaged the broader Documentary-Hypothesis framework.
+**Wellhausen的根基性工作**。**Julius Wellhausen**（1844-1918）透過《以色列史導論》（1878；英譯為《以色列史導論》，1885）產生大量底本假說的根基性系統闡述{{ cite(id="wellhausen-prolegomena", text="[1]", title="Wellhausen（1878），《以色列史導論》——根基性底本假說闡述") }}。大量Wellhausen闡述登錄大量四源理論：J（耶和華典）、E（伊羅興典）、D（申命典）、P（祭司典）{{ footnote(id="2") }}。大量後續的學術研究實質上參與了更廣泛的底本假說框架。
 
-**Friedman's contemporary articulation**. **Richard Elliott Friedman**'s *Who Wrote the Bible?* (Harper & Row, 1987) and *The Bible with Sources Revealed* (HarperOne, 2003) provide substantial contemporary systematic engagement with the substantial Documentary Hypothesis. The substantial Friedman articulation registers substantial source-distinction with substantial historical-cultural specificity.
+**Friedman的當代闡述**。**Richard Elliott Friedman**的《誰寫了聖經？》（Harper & Row，1987）{{ cite(id="friedman-who-wrote-bible", text="[2]", title="Friedman（1987），《誰寫了聖經？》——底本假說的易讀闡述") }}和《揭示來源的聖經》（HarperOne，2003）{{ cite(id="friedman-bible-sources-revealed", text="[3]", title="Friedman（2003），《揭示來源的聖經》——來源標記的五經呈現") }}提供對大量底本假說的大量當代系統參與。大量Friedman闡述登錄大量具有大量歷史—文化具體性的源區分。
 
-**Van Seters's substantial work**. **John Van Seters**'s *The Pentateuch: A Social-Science Commentary* (Sheffield Academic Press, 1999) and various other works provide substantial subsequent engagement with the broader Documentary-Hypothesis framework, with various specific scholarly engagements articulating various aspects of the broader question.
+**Van Seters的大量工作**。**John Van Seters**的《五經：社會科學註釋》（Sheffield Academic Press，1999）和各種其他著作對更廣泛的底本假說框架提供大量後續參與，各種具體的學術參與闡述更廣泛問題的各個面向。
 
-**Baden's recent contribution**. **Joel S. Baden**'s *The Composition of the Pentateuch: Renewing the Documentary Hypothesis* (Yale University Press, 2012) provides substantial recent systematic articulation, with substantial engagement with the broader scholarly debate.
+**Baden的近期貢獻**。**Joel S. Baden**的《五經的組成：重新更新底本假說》（Yale University Press，2012）提供大量近期的系統闡述，大量參與更廣泛的學術辯論。
 
-**The substantial framework relationship**. The substantial framework operates substantially within the broader Documentary-Hypothesis recognition of substantial multiple-source content within the Pentateuchal tradition while operating from substantially distinct interpretive foundation. The substantial framework specifically registers the substantial different divine names (Yahweh, Elohim) as registering substantial different aspects of the broader alliance-creator content (the substantial Yahweh as substantial Council president; the substantial *Elohim* as substantial collective creator-civilization designation) rather than as substantial different source-traditions alone.
+**大量框架關係**。大量框架在更廣泛的底本假說對五經傳統內大量多源內容的認可內大量運作，同時運作於實質上不同的解釋基礎。大量框架特別登錄大量不同的神聖名稱（耶和華、Elohim）作為登錄更廣泛聯盟—創造者內容的大量不同面向（大量耶和華作為大量理事會主席；大量*Elohim*作為大量創造者文明集體指稱），而非僅僅作為大量不同的源傳統。
 
-### Contemporary critical scholarship
+### 當代批判學術研究
 
-Various substantial contemporary critical scholars have produced substantial systematic engagement with the broader Hebrew Bible content.
+各種大量當代批判學者對更廣泛的希伯來聖經內容產生大量系統參與。
 
-**Gerhard von Rad's substantial work**. **Gerhard von Rad** (1901-1971) produced foundational mid-twentieth-century systematic engagement with the substantial Hebrew Bible content. Principal works: *Old Testament Theology* (2 vols., 1957-1960; English translation 1962-1965), *Genesis: A Commentary* (1949; English translation 1961, revised edition 1972), various other works.
+**Gerhard von Rad的大量工作**。**Gerhard von Rad**（1901-1971）對大量希伯來聖經內容產生根基性的二十世紀中期系統參與。主要著作：《舊約神學》（2卷，1957-1960；英譯1962-1965）、《創世記：註釋》（1949；英譯1961，修訂版1972）、各種其他著作。
 
-**Claus Westermann's comprehensive Genesis commentary**. **Claus Westermann**'s three-volume *Genesis* commentary (1974-1982; English translation 1984-1986) provides the principal twentieth-century systematic engagement with the substantial Genesis content.
+**Claus Westermann的全面創世記註釋**。**Claus Westermann**的三卷本《創世記》註釋（1974-1982；英譯1984-1986）對大量創世記內容提供主要的二十世紀系統參與。
 
-**Walter Brueggemann's substantial work**. **Walter Brueggemann**'s *Theology of the Old Testament: Testimony, Dispute, Advocacy* (Augsburg Fortress, 1997) and various other works provide substantial systematic theological-critical engagement.
+**Walter Brueggemann的大量工作**。**Walter Brueggemann**的《舊約神學：見證、爭論、倡導》（Augsburg Fortress，1997）和各種其他著作提供大量系統神學—批判參與。
 
-**Robert Alter's literary engagement**. **Robert Alter**'s substantial work — *The Art of Biblical Narrative* (Basic Books, 1981), *The Five Books of Moses: A Translation with Commentary* (W. W. Norton, 2004), *The Hebrew Bible: A Translation with Commentary* (3 vols., W. W. Norton, 2018) — provides substantial literary-critical engagement with substantial systematic literary attention.
+**Robert Alter的文學參與**。**Robert Alter**的大量工作——《聖經敘事的藝術》（Basic Books，1981）、《摩西五經：翻譯與註釋》（W. W. Norton，2004）、《希伯來聖經：翻譯與註釋》（3卷，W. W. Norton，2018）——提供具有大量系統文學注意的大量文學批判參與。
 
-**Various substantial subsequent scholarship**. Substantial subsequent scholarship (Ronald Hendel, Bill Arnold, John Goldingay, Brevard Childs, James Kugel, various others) has continued to develop the broader scholarly engagement.
+**各種大量後續學術研究**。大量後續學術研究（Ronald Hendel、Bill Arnold、John Goldingay、Brevard Childs、James Kugel、各種其他）繼續發展更廣泛的學術參與。
 
-### Archaeological-historical context scholarship
+### 考古學—歷史脈絡學術研究
 
-Mainstream archaeological-historical scholarship has produced substantial engagement with the substantial Hebrew Bible historical-cultural context.
+主流考古學—歷史學術研究對大量希伯來聖經歷史—文化脈絡產生大量參與。
 
-**The Albright tradition**. **William F. Albright** (1891-1971) and the broader Albright school produced foundational archaeological-historical scholarship operating substantively within substantial conservative-historical engagement with the substantial Hebrew Bible content. The substantial broader Albright tradition has produced substantial subsequent scholarship with substantial varying conservative-critical positions.
+**Albright傳統**。**William F. Albright**（1891-1971）和更廣泛的Albright學派在對大量希伯來聖經內容的大量保守—歷史參與內實質上產生根基性的考古學—歷史學術研究。大量更廣泛的Albright傳統產生具有大量不同保守—批判立場的大量後續學術研究。
 
-**William G. Dever's substantial work**. **William G. Dever**'s *What Did the Biblical Writers Know and When Did They Know It?* (Eerdmans, 2001), *Who Were the Early Israelites and Where Did They Come From?* (Eerdmans, 2003), and various other works provide substantial contemporary archaeological-historical engagement.
+**William G. Dever的大量工作**。**William G. Dever**的《聖經作者知道什麼，他們什麼時候知道？》（Eerdmans，2001）、《早期以色列人是誰，他們來自哪裡？》（Eerdmans，2003）和各種其他著作提供大量當代考古學—歷史參與。
 
-**Israel Finkelstein's substantial work**. **Israel Finkelstein**'s substantial work — including *The Bible Unearthed: Archaeology's New Vision of Ancient Israel and the Origin of Its Sacred Texts* (with Neil Asher Silberman, Free Press, 2001) — provides substantial contemporary critical archaeological-historical engagement with substantial revisionist-historical positions.
+**Israel Finkelstein的大量工作**。**Israel Finkelstein**的大量工作——包括《揭示的聖經：考古學對古代以色列及其神聖文本起源的新視野》（與Neil Asher Silberman合著，Free Press，2001）——提供大量具有大量修正歷史立場的當代批判考古學—歷史參與。
 
-**Amihai Mazar's substantial work**. **Amihai Mazar**'s *Archaeology of the Land of the Bible: 10,000-586 B.C.E.* (Doubleday, 1990) and various other works provide substantial systematic archaeological-historical engagement.
+**Amihai Mazar的大量工作**。**Amihai Mazar**的《聖經土地考古學：公元前10,000-586年》（Doubleday，1990）和各種其他著作提供大量系統考古學—歷史參與。
 
-**The substantial framework relationship**. The substantial framework operates substantively within the broader archaeological-historical scholarly landscape, with substantial framework-specific reading registering substantial cross-disciplinary integration.
+**大量框架關係**。大量框架實質上在更廣泛的考古學—歷史學術景觀內運作，大量框架特定的解讀登錄大量跨學科整合。
 
-### Textual-criticism scholarship
+### 文本批判學術研究
 
-Substantial textual-criticism scholarship has produced substantial engagement with the substantial Hebrew Bible textual transmission history.
+大量文本批判學術研究對大量希伯來聖經文本傳遞歷史產生大量參與。
 
-**Emanuel Tov's substantial work**. **Emanuel Tov**'s *Textual Criticism of the Hebrew Bible* (Augsburg Fortress, 1992; revised editions) provides the principal contemporary systematic engagement with the substantial Hebrew Bible textual-transmission history. The substantial Tov articulation registers substantial systematic engagement with the substantial Masoretic, Septuagint, Dead Sea Scrolls, Samaritan, and various other textual traditions.
+**Emanuel Tov的大量工作**。**Emanuel Tov**的《希伯來聖經文本批判》（Augsburg Fortress，1992；修訂版）{{ cite(id="tov-textual-criticism", text="[4]", title="Tov（第3版，2012），《希伯來聖經文本批判》——希伯來聖經文本批判的主要當代參考") }}{{ footnote(id="5") }}對大量希伯來聖經文本傳遞歷史提供大量主要當代系統參與。大量Tov闡述登錄對大量馬所拉、七十士譯本、死海古卷、撒瑪利亞和各種其他文本傳統的大量系統參與。
 
-**Ronald Hendel's substantial work**. **Ronald Hendel**'s *The Text of Genesis 1-11: Textual Studies and Critical Edition* (Oxford University Press, 1998) and the broader Oxford Hebrew Bible critical edition project provide substantial contemporary systematic textual-critical engagement.
+**Ronald Hendel的大量工作**。**Ronald Hendel**的《創世記1-11的文本：文本研究和批判版本》（Oxford University Press，1998）和更廣泛的牛津希伯來聖經批判版本計畫提供大量當代系統文本批判參與。
 
-**The broader text-critical apparatus tradition**. The substantial *Biblia Hebraica Stuttgartensia* (Deutsche Bibelgesellschaft, 1968-1977; revised editions), *Biblia Hebraica Quinta* (Deutsche Bibelgesellschaft, 2004 onward), and various other critical editions provide substantial systematic textual-critical apparatus.
+**更廣泛的文本批判工具傳統**。大量《斯圖加特希伯來聖經》（Deutsche Bibelgesellschaft，1968-1977；修訂版）、《第五希伯來聖經》（Deutsche Bibelgesellschaft，2004年起）和各種其他批判版本提供大量系統文本批判工具。
 
-### Dead Sea Scrolls scholarship
+### 死海古卷學術研究
 
-The substantial Dead Sea Scrolls discovery (beginning 1947) has produced substantial systematic engagement with the substantial Qumran biblical and sectarian textual evidence.
+大量死海古卷發現（始於1947年）對大量昆蘭聖經和教派文本證據產生大量系統參與。
 
-**James VanderKam's substantial work**. **James C. VanderKam**'s *The Dead Sea Scrolls Today* (Eerdmans, 1994; revised editions) and various other works provide substantial systematic engagement with the broader Dead Sea Scrolls content.
+**James VanderKam的大量工作**。**James C. VanderKam**的《今日的死海古卷》（Eerdmans，1994；修訂版）{{ cite(id="vanderkam-dss-today", text="[5]", title="VanderKam（第2版，2010），《今日的死海古卷》——死海古卷學術研究的易讀導論") }}{{ footnote(id="6") }}和各種其他著作對更廣泛的死海古卷內容提供大量系統參與。
 
-**Peter Flint's substantial work**. **Peter W. Flint**'s *The Dead Sea Psalms Scrolls and the Book of Psalms* (Brill, 1997) and various other works provide substantial systematic engagement.
+**Peter Flint的大量工作**。**Peter W. Flint**的《死海詩篇古卷和詩篇》（Brill，1997）和各種其他著作提供大量系統參與。
 
-**The broader Qumran scholarship**. Substantial contemporary scholarship (Florentino García Martínez, Eugene Ulrich, John Collins, various others) has continued to develop the substantial Dead Sea Scrolls scholarly engagement.
+**更廣泛的昆蘭學術研究**。大量當代學術研究（Florentino García Martínez、Eugene Ulrich、John Collins、各種其他）繼續發展大量死海古卷學術參與。
 
-**The substantial framework relationship**. The substantial corpus framework registers the substantial Dead Sea Scrolls discovery (1946-1947) as substantial component of the broader Aquarian-age opening signs, with the substantial textual recovery operating as substantial part of the broader textual-recovery process. The detailed treatment lives in the [Apocalypse](../apocalypse/) entry.
+**大量框架關係**。大量文集框架將大量死海古卷發現（1946-1947）登錄為更廣泛水瓶時代開啟跡象的大量組成部分，大量文本恢復作為更廣泛文本恢復過程的大量部分運作。詳細處理存在於{% wiki(slug="apocalypse") %}啟示{% end %}條目中。
 
-### Septuagint scholarship
+### 七十士譯本學術研究
 
-Substantial Septuagint scholarship has produced substantial engagement with the substantial 3rd-2nd-century-BCE Greek translation tradition.
+大量七十士譯本學術研究對大量公元前3-2世紀希臘文翻譯傳統產生大量參與。
 
-**Emanuel Tov's substantial Septuagint work**. **Emanuel Tov**'s *The Text-Critical Use of the Septuagint in Biblical Research* (Eisenbrauns, 2nd ed. 1997) and various other works provide substantial systematic engagement.
+**Emanuel Tov的大量七十士譯本工作**。**Emanuel Tov**的《七十士譯本在聖經研究中的文本批判運用》（Eisenbrauns，第2版，1997）和各種其他著作提供大量系統參與。
 
-**Various substantial subsequent scholarship**. Substantial subsequent scholarship (Natalio Fernández Marcos, Karen Jobes, Moisés Silva, various others) has continued to develop the broader Septuagint scholarly engagement.
+**各種大量後續學術研究**。大量後續學術研究（Natalio Fernández Marcos、Karen Jobes、Moisés Silva、各種其他）繼續發展更廣泛的七十士譯本學術參與。
 
-### Canonical-formation scholarship
+### 正典形成學術研究
 
-Substantial canonical-formation scholarship has produced substantial engagement with the substantial historical-developmental emergence of the substantial Hebrew Bible canonical structure.
+大量正典形成學術研究對大量希伯來聖經正典結構的大量歷史—發展性出現產生大量參與。
 
-**Lee Martin McDonald's substantial work**. **Lee Martin McDonald**'s *The Biblical Canon: Its Origin, Transmission, and Authority* (Hendrickson, 3rd ed. 2007) provides substantial systematic engagement with the broader canonical-formation question.
+**Lee Martin McDonald的大量工作**。**Lee Martin McDonald**的《聖經正典：其起源、傳遞和權威》（Hendrickson，第3版，2007）對更廣泛的正典形成問題提供大量系統參與。
 
-**Albert Sundberg's foundational work**. **Albert C. Sundberg**'s *The Old Testament of the Early Church* (Harvard University Press, 1964) provides foundational scholarship on the substantial canonical-formation question.
+**Albert Sundberg的根基性工作**。**Albert C. Sundberg**的《早期教會的舊約》（Harvard University Press，1964）對大量正典形成問題提供根基性學術研究。
 
-**Various substantial subsequent scholarship**. Substantial subsequent scholarship (John Barton, James Sanders, Eugene Ulrich, various others) has continued to develop the broader canonical-formation scholarly engagement.
+**各種大量後續學術研究**。大量後續學術研究（John Barton、James Sanders、Eugene Ulrich、各種其他）繼續發展更廣泛的正典形成學術參與。
 
-### Sitchin's Anunnaki framework
+### Sitchin的阿努納奇框架
 
-**Zecharia Sitchin** in *The 12th Planet* (Stein and Day, 1976) and various other works produced substantial alternative-history engagement with substantial Hebrew Bible content within the broader Anunnaki framework. Sitchin's specific framework registers substantial structural alignment with the corpus framework at the substantial multiple-creator-civilization dimension while operating from substantively distinct specific source-material warrant.
+**Zecharia Sitchin**在《第十二顆行星》（Stein and Day，1976）和各種其他著作中，在更廣泛的阿努納奇框架內對大量希伯來聖經內容產生大量另類歷史參與。Sitchin的具體框架在大量多重創造者文明面向上登錄與文集框架的大量結構一致，同時運作於實質上不同的具體源材料保證。
 
-### Wallis's broader engagement
+### Wallis的更廣泛參與
 
-**Paul Anthony Wallis**'s *Escaping from Eden* (6th Books, 2020), *The Eden Conspiracy* (6th Books, 2024), and various other works engage substantial Hebrew Bible content. Wallis's specific framework registers substantial structural alignment with the framework's reading at multiple specific dimensions while operating from distinct source-material warrant principally drawn from the broader strict-translational approach.
+**Paul Anthony Wallis**的《逃離伊甸園》（6th Books，2020）、《伊甸園陰謀》（6th Books，2024）和各種其他著作參與大量希伯來聖經內容。Wallis的具體框架在多個具體面向上登錄與本框架解讀的大量結構一致，同時運作於主要源自更廣泛嚴格翻譯方法的不同源材料保證。
 
-### Biglino's strict-translational approach
+### Biglino的嚴格翻譯方法
 
-**Mauro Biglino**'s broader engagement with the Hebrew Bible (*The Naked Bible: The Truth About the Most Famous Book in History*, with Giorgio Cattaneo, Uno, 2022; various other works) has produced substantial alternative-history engagement. Biglino's specific position: strict literal translation of the Hebrew text reveals substantial content that mainstream translation traditions have systematically obscured. The substantial framework's specific positions register substantial structural alignment with Biglino's broader translational approach.
+**Mauro Biglino**對希伯來聖經更廣泛的參與（《赤裸的聖經：關於歷史上最著名書籍的真相》，與Giorgio Cattaneo合著，Uno，2022；各種其他著作）產生大量另類歷史參與。Biglino的具體立場：對希伯來文本的嚴格字面翻譯揭示主流翻譯傳統系統性遮蔽的大量內容。大量框架的具體立場登錄與Biglino更廣泛翻譯方法的大量結構一致。
 
-### The framework's relationship to the broader landscape
+### 本框架與更廣泛景觀的關係
 
-The Wheel of Heaven corpus's Hebrew Bible framework is positioned within this scholarly landscape as follows: substantially aligned with mainstream Hebrew Bible scholarship at the textual-philological level (recognizing the substantial scholarly documentation of the substantial textual content); substantially aligned with the Documentary Hypothesis at the substantial multiple-source recognition level while operating from substantively distinct interpretive foundation; substantially aligned with mainstream archaeological-historical scholarship at the substantial historical-context level; substantially aligned with substantial textual-criticism scholarship at the substantial textual-history level; substantially aligned with substantial Dead Sea Scrolls scholarship at the substantial textual-recovery level; substantially aligned with substantial Septuagint scholarship at the substantial textual-history level; substantially aligned with substantial canonical-formation scholarship at the substantial historical-developmental level; substantively distinct from mainstream theological scholarship at the interpretive level (the framework's specific historical-record reading operates substantively beyond the conventional religious-mythological treatment); substantially aligned with various alternative-history scholarly traditions (Sitchin's Anunnaki framework, Wallis's broader engagement, Biglino's strict-translational approach) at the underlying-historical-event-reading level while operating from distinct source-material warrant principally drawn from the Raëlian source material.
+天輪文集的希伯來聖經框架在此學術景觀中的定位如下：在文本—語言學層次與主流希伯來聖經學術研究大量一致（認可大量文本內容的大量學術文獻）；在大量多源認可層次與底本假說大量一致，同時運作於實質上不同的解釋基礎；在大量歷史—脈絡層次與主流考古學—歷史學術研究大量一致；在大量文本史層次與大量文本批判學術研究大量一致；在大量文本恢復層次與大量死海古卷學術研究大量一致；在大量文本史層次與大量七十士譯本學術研究大量一致；在大量歷史—發展性層次與大量正典形成學術研究大量一致；在解釋層次與主流神學學術研究實質上不同（本框架具體的歷史記錄解讀實質上超越傳統的宗教—神話處理）；在底層歷史事件解讀層次與各種另類歷史學術傳統（Sitchin的阿努納奇框架、Wallis的更廣泛探討、Biglino的嚴格翻譯方法）大量一致，同時運作於主要源自雷爾運動來源材料的不同源材料保證。
 
-## Comparative observations
+## 比較觀察
 
-The Hebrew Bible has substantial cross-cultural textual parallels in various religious-cultural traditions worldwide, with the substantial cross-cultural distribution registering substantial parallel content for the broader framework reading.
+希伯來聖經在世界各種宗教—文化傳統中有大量跨文化文本平行，大量跨文化分布為更廣泛框架解讀登錄大量平行內容。
 
-### Mesopotamian textual parallels
+### 美索不達米亞文本平行
 
-The Mesopotamian textual tradition preserves the principal cross-cultural textual parallels.
+美索不達米亞文本傳統保留了主要的跨文化文本平行。
 
-**The substantial *Atrahasis* epic**. The substantial Akkadian *Atrahasis* epic (preserved principally in 17th-century-BCE Old Babylonian manuscripts, with substantial earlier Sumerian antecedents) registers substantial parallel content with the substantial Hebrew Bible primeval history (Genesis 1-11). The substantial principal parallel content:
+**大量*阿特拉哈西斯*史詩**。大量阿卡德語*阿特拉哈西斯*史詩（主要保存於公元前17世紀古巴比倫手稿中，具有大量更早的蘇美爾先驅）登錄與大量希伯來聖經原始歷史（創世記1-11）的大量平行內容。大量主要平行內容：
 
-- Substantial creation narrative with substantial divine-council deliberation about substantial human-creation
-- Substantial human-multiplication narrative
-- Substantial divine-council decision regarding substantial flood-destruction
-- Substantial flood narrative with substantial preservation of single righteous individual (Atrahasis / Utnapishtim)
-- Substantial post-flood covenant narrative
+- 具有關於大量人類創造的大量神聖議會審議的大量創造敘事
+- 大量人類繁衍敘事
+- 關於大量洪水毀滅的大量神聖議會決定
+- 具有對單一義人（Atrahasis / Utnapishtim）的大量保存的大量洪水敘事
+- 大量洪水後盟約敘事
 
-The substantial Hebrew Bible primeval history operates as substantial parallel content within distinct cultural-religious framing.
+大量希伯來聖經原始歷史在不同的文化—宗教框架內作為大量平行內容運作。
 
-**The substantial *Enuma Elish***. The substantial Babylonian *Enuma Elish* (preserved principally in 7th-century-BCE Neo-Assyrian manuscripts, with substantial earlier antecedents) registers substantial parallel content with substantial Hebrew Bible creation content (particularly Genesis 1) and substantial divine-council material. The substantial *Enuma Elish* preserves substantial divine-council deliberation, substantial cosmic-conflict content (the substantial Marduk-Tiamat conflict registering substantial parallel to broader Theomachy framework), and substantial creation-from-divine-being content.
+**大量*埃努瑪·埃利什***。大量巴比倫*埃努瑪·埃利什*（主要保存於公元前7世紀新亞述手稿中，具有大量更早的先驅）登錄與大量希伯來聖經創造內容（特別是創世記1）的大量平行內容，以及大量神聖議會材料。大量*埃努瑪·埃利什*保留大量神聖議會審議、大量宇宙衝突內容（大量馬爾杜克—提阿瑪特衝突登錄與更廣泛神戰框架的大量平行）、以及大量從神聖存有創造的內容。
 
-**The substantial *Epic of Gilgamesh***. The substantial *Epic of Gilgamesh* (preserved principally in 7th-century-BCE Neo-Assyrian manuscripts, with substantial earlier Sumerian antecedents) registers substantial parallel content particularly with substantial Hebrew Bible flood narrative (the substantial Utnapishtim flood narrative in Tablet XI registering substantial parallel content with the substantial Noah flood narrative in Genesis 6-9). The detailed treatment of the substantial Gilgamesh parallels lives principally in the [Great Flood](../great-flood/) entry.
+**大量*吉爾伽美什史詩***。大量*吉爾伽美什史詩*（主要保存於公元前7世紀新亞述手稿中，具有大量更早的蘇美爾先驅）特別登錄與大量希伯來聖經洪水敘事的大量平行內容（在第十一塊泥板中的大量Utnapishtim洪水敘事登錄與創世記6-9中大量挪亞洪水敘事的大量平行內容）。大量吉爾伽美什平行的詳細處理主要存在於{% wiki(slug="great-flood") %}大洪水{% end %}條目中。
 
-**The substantial Sumerian King List**. The substantial Sumerian King List preserves substantial pre-flood and post-flood king-list content registering substantial parallel content with substantial Hebrew Bible genealogical material. The detailed treatment lives in the [Antediluvian](../antediluvian/) entry.
+**大量蘇美爾王表**。大量蘇美爾王表保留大量洪水前和洪水後王表內容，登錄與大量希伯來聖經譜系材料的大量平行內容。詳細處理存在於{% wiki(slug="antediluvian") %}洪水前{% end %}條目中。
 
-**The substantial broader Mesopotamian textual corpus**. The substantial broader Mesopotamian textual corpus (substantial Sumerian and Akkadian religious-mythological-historical texts) preserves substantial parallel content across multiple specific dimensions, with substantial scholarly engagement registering substantial cumulative parallel material.
+**大量更廣泛的美索不達米亞文本文集**。大量更廣泛的美索不達米亞文本文集（大量蘇美爾和阿卡德宗教—神話—歷史文本）在多個具體面向上保留大量平行內容，大量學術參與登錄大量累積平行材料。
 
-**The framework's reading**. The framework reads the substantial Mesopotamian textual parallels as preserving substantial cultural memory of substantial actual events that the substantial Hebrew Bible also preserves, with the substantial Mesopotamian tradition operating as substantial cultural-religious preservation within the distinctive Mesopotamian framing. The substantial cross-cultural parallel content registers substantial framework support for the broader historical-event reading.
+**本框架的解讀**。本框架將大量美索不達米亞文本平行解讀為保留大量希伯來聖經也保留的大量實際事件的大量文化記憶，大量美索不達米亞傳統作為獨特的美索不達米亞框架內的大量文化—宗教保存運作。大量跨文化平行內容為更廣泛的歷史事件解讀登錄大量框架支持。
 
-### Egyptian textual parallels
+### 埃及文本平行
 
-The Egyptian textual tradition preserves substantial parallel content across substantial diverse religious-mythological corpus.
+埃及文本傳統在大量多元的宗教—神話文集中保留大量平行內容。
 
-**The substantial Pyramid Texts**. The substantial Egyptian Pyramid Texts (preserved principally in Old Kingdom royal tomb-inscriptions, c. 24th-22nd centuries BCE) operate as the oldest substantial body of religious literature in human history. The substantial Pyramid Texts preserve substantial divine-council content, substantial creation-narrative content, substantial deification-content, and various other parallel content.
+**大量金字塔文本**。大量埃及金字塔文本（主要保存於古王國皇家陵墓銘文中，約公元前24-22世紀）作為人類歷史上最古老的大量宗教文獻運作。大量金字塔文本保留大量神聖議會內容、大量創造敘事內容、大量神化內容，以及各種其他平行內容。
 
-**The substantial Coffin Texts**. The substantial Egyptian Coffin Texts (preserved principally in Middle Kingdom non-royal coffin-inscriptions, c. 22nd-17th centuries BCE) extend the substantial Pyramid Texts tradition with substantial additional content.
+**大量棺木文本**。大量埃及棺木文本（主要保存於中王國非皇家棺木銘文中，約公元前22-17世紀）以大量額外內容延伸大量金字塔文本傳統。
 
-**The substantial Book of the Dead**. The substantial Egyptian Book of the Dead (preserved principally in New Kingdom funerary papyri, c. 16th-11th centuries BCE) operates as substantial systematic afterlife-religious content with substantial parallel content registering substantial cross-cultural parallels.
+**大量死者之書**。大量埃及死者之書（主要保存於新王國葬儀紙莎草中，約公元前16-11世紀）作為大量系統的死後宗教內容運作，具有大量登錄大量跨文化平行的平行內容。
 
-**The substantial broader Egyptian religious literature**. The substantial broader Egyptian religious literature (substantial various hymns, prayers, theological-philosophical texts, mythological narratives) preserves substantial parallel content across multiple specific dimensions.
+**大量更廣泛的埃及宗教文獻**。大量更廣泛的埃及宗教文獻（大量各種讚美詩、禱文、神學—哲學文本、神話敘事）在多個具體面向上保留大量平行內容。
 
-### Ugaritic textual parallels
+### 烏加里特文本平行
 
-The substantial Ugaritic textual corpus (discovered principally at Ras Shamra beginning 1928, dating principally to the 14th-13th centuries BCE) preserves substantial parallel content with substantial Hebrew Bible content within the broader Northwest Semitic cultural-religious tradition.
+大量烏加里特文本文集（主要在拉斯沙姆拉發現，始於1928年，主要定年於公元前14-13世紀）在更廣泛的西北閃米特文化—宗教傳統內保留與大量希伯來聖經內容的大量平行內容。
 
-**The substantial Baal cycle**. The substantial Ugaritic Baal cycle preserves substantial divine-council content, substantial cosmic-conflict content, substantial divine-faction-political content registering substantial parallel content with broader Theomachy framework.
+**大量巴力循環**。大量烏加里特巴力循環保留大量神聖議會內容、大量宇宙衝突內容、大量神聖派系政治內容，登錄與更廣泛神戰框架的大量平行內容。
 
-**The substantial broader Canaanite mythological tradition**. The substantial broader Ugaritic textual corpus preserves substantial Canaanite mythological-religious content registering substantial parallel content with substantial early Hebrew Bible content.
+**大量更廣泛的迦南神話傳統**。大量更廣泛的烏加里特文本文集保留大量迦南神話—宗教內容，登錄與大量早期希伯來聖經內容的大量平行內容。
 
-**The substantial framework reading**. The substantial Ugaritic parallels register substantial parallel content within the broader Northwest Semitic cultural-religious tradition that operated as the substantial broader cultural-religious context within which the substantial early Hebrew tradition developed.
+**大量框架解讀**。大量烏加里特平行在更廣泛的西北閃米特文化—宗教傳統內登錄大量平行內容，該傳統作為大量早期希伯來傳統發展所在的大量更廣泛文化—宗教脈絡運作。
 
-### Vedic / Hindu textual parallels
+### 吠陀/印度教文本平行
 
-The substantial Vedic / Hindu textual tradition preserves substantial parallel content with substantial Hebrew Bible content.
+大量吠陀/印度教文本傳統保留與大量希伯來聖經內容的大量平行內容。
 
-**The substantial Rigveda**. The substantial Rigveda (composed principally c. 1500-1200 BCE) preserves substantial divine-multiplicity content, substantial creation-narrative content, substantial various parallel content within distinctive Vedic framing.
+**大量梨俱吠陀**。大量梨俱吠陀（主要約公元前1500-1200年組成）在獨特的吠陀框架內保留大量神聖多重性內容、大量創造敘事內容、各種大量平行內容。
 
-**The substantial Upanishads**. The substantial Upanishads (composed principally c. 800-200 BCE) preserve substantial cosmological-philosophical content registering substantial parallel content with broader framework.
+**大量奧義書**。大量奧義書（主要約公元前800-200年組成）保留大量宇宙論—哲學內容，登錄與更廣泛框架的大量平行內容。
 
-**The substantial Mahabharata**. The substantial Mahabharata (composed principally c. 400 BCE-400 CE, with substantial earlier oral-tradition antecedents) preserves substantial cosmic-warfare content registering substantial parallel content with broader Theomachy framework. The detailed treatment of the substantial *Brahmastra* parallels lives in the [Sodom and Gomorrah](../sodom-and-gomorrah/) entry.
+**大量摩訶婆羅多**。大量摩訶婆羅多（主要約公元前400年至公元400年組成，具有大量更早的口傳傳統先驅）保留大量宇宙戰爭內容，登錄與更廣泛神戰框架的大量平行內容。大量*梵天武器*平行的詳細處理存在於{% wiki(slug="sodom-and-gomorrah") %}所多瑪與蛾摩拉{% end %}條目中。
 
-**The substantial Puranas**. The substantial Puranas preserve substantial cosmological-mythological-historical content registering substantial parallel content within distinctive Hindu framing.
+**大量往世書**。大量往世書在獨特的印度教框架內保留大量宇宙論—神話—歷史內容，登錄大量平行內容。
 
-### Greek mythological corpus
+### 希臘神話文集
 
-The substantial Greek mythological corpus preserves substantial parallel content with substantial Hebrew Bible content.
+大量希臘神話文集保留與大量希伯來聖經內容的大量平行內容。
 
-**Hesiod's substantial works**. **Hesiod**'s *Theogony* and *Works and Days* (composed principally c. 8th-7th centuries BCE) preserve substantial cosmic-genealogical content, substantial divine-council content, substantial cosmic-conflict content registering substantial parallel content with broader framework.
+**赫西俄德的大量著作**。**赫西俄德**的《神譜》和《工作與時日》（主要約公元前8-7世紀組成）保留大量宇宙譜系內容、大量神聖議會內容、大量宇宙衝突內容，登錄與更廣泛框架的大量平行內容。
 
-**Homer's substantial works**. **Homer**'s *Iliad* and *Odyssey* (composed principally c. 8th century BCE) preserve substantial divine-council content, substantial divine-human-interaction content registering substantial parallel content.
+**荷馬的大量著作**。**荷馬**的《伊利亞特》和《奧德賽》（主要約公元前8世紀組成）保留大量神聖議會內容、大量神聖—人類互動內容，登錄大量平行內容。
 
-**The broader Greek mythological tradition**. The substantial broader Greek mythological tradition preserves substantial parallel content across multiple distinct dimensions.
+**更廣泛的希臘神話傳統**。大量更廣泛的希臘神話傳統跨越多個不同面向保留大量平行內容。
 
-### The "sacred-text" cross-cultural pattern
+### 「神聖文本」跨文化模式
 
-The substantial cross-cultural pattern of substantial sacred-textual entities operating as substantial canonical-religious content across virtually every major religious-cultural tradition globally registers one of the principal cross-cultural patterns in religious-traditional thought.
+大量跨文化模式，即大量神聖文本實體作為大量正典—宗教內容運作於實質上全球每一個主要的宗教—文化傳統，登錄宗教—傳統思想中主要的跨文化模式之一。
 
-**The substantial various sacred-text traditions**. The substantial cross-cultural sacred-text tradition operates substantively across:
+**大量各種神聖文本傳統**。大量跨文化神聖文本傳統實質上跨越以下範圍運作：
 
-- The substantial Hebrew Bible / Tanakh (Jewish-tradition canonical text)
-- The substantial Christian Bible (Christian-tradition canonical text)
-- The substantial Quran (Islamic-tradition canonical text)
-- The substantial Vedic textual corpus (Hindu-tradition canonical texts)
-- The substantial Buddhist Tripitaka and various subsequent canonical texts
-- The substantial Daoist textual corpus
-- The substantial Confucian classical texts
-- The substantial Avestan corpus (Zoroastrian-tradition canonical texts)
-- The substantial Book of Mormon (Mormon LDS canonical text)
-- Various substantial other sacred-textual traditions
+- 大量希伯來聖經/Tanakh（猶太傳統正典文本）
+- 大量基督教聖經（基督教傳統正典文本）
+- 大量古蘭經（伊斯蘭傳統正典文本）
+- 大量吠陀文本文集（印度教傳統正典文本）
+- 大量佛教三藏和各種後續正典文本
+- 大量道教文本文集
+- 大量儒家經典文本
+- 大量阿維斯陀文集（瑣羅亞斯德傳統正典文本）
+- 大量摩爾門經（摩門教LDS正典文本）
+- 各種大量其他神聖文本傳統
 
-**The substantial cross-cultural function**. The substantial sacred-textual entities operate across cultures with substantial parallel functions: substantial canonical-religious authority, substantial liturgical-ritual content, substantial cosmic-narrative content, substantial ethical-religious-legal content, substantial historical-cultural memory preservation.
+**大量跨文化功能**。大量神聖文本實體跨越文化運作具有大量平行功能：大量正典—宗教權威、大量禮儀—儀式內容、大量宇宙—敘事內容、大量倫理—宗教—法律內容、大量歷史—文化記憶保存。
 
-### The "preservation-of-historical-event-content-in-religious-textual-form" cross-cultural pattern
+### 「在宗教文本形式中保存歷史事件內容」跨文化模式
 
-The substantial cross-cultural pattern of preservation of substantial historical-event content within substantial religious-textual forms operates across virtually every major sacred-textual tradition.
+跨越實質上每一個主要的神聖文本傳統，大量在大量宗教—文本形式中保存大量歷史事件內容的跨文化模式運作。
 
-**The substantial pattern features**:
+**大量模式特徵**：
 
-- Substantial actual historical events preserved within substantial religious-narrative forms
-- Substantial pre-scientific vocabulary operating as substantial decodable layer
-- Substantial subsequent religious-traditional reception operating substantively beyond original historical-event content
-- Substantial cross-cultural parallel content across distinct cultural-religious traditions
+- 大量在大量宗教—敘事形式中保存的大量實際歷史事件
+- 大量作為大量可解碼層次運作的前科學詞彙
+- 大量後續的宗教—傳統接受實質上超越原始歷史事件內容運作
+- 跨越不同文化—宗教傳統的大量跨文化平行內容
 
-**The substantial framework reading**. The substantial framework reads the substantial cross-cultural pattern as registering substantial preservation of substantial actual historical events through substantial sacred-textual forms, with each cultural tradition preserving substantial specific content within its distinctive cultural-religious framing.
+**大量框架解讀**。大量框架將大量跨文化模式解讀為登錄大量透過大量神聖文本形式保存的大量實際歷史事件，每個文化傳統在其獨特的文化—宗教框架內保存大量具體內容。
 
-### The convergence
+### 匯合
 
-The corpus's working position on the comparative-Hebrew-Bible question is that the substantial cross-cultural distribution of substantial sacred-textual traditions across virtually every major religious-cultural tradition globally is meaningful as evidence of the broader pattern.
+本文集對比較性希伯來聖經問題的工作立場是，大量神聖文本傳統跨越實質上全球每一個主要的宗教—文化傳統的大量跨文化分布，作為更廣泛模式的證據是有意義的。
 
-The mainstream scholarly explanation generally treats the cross-cultural pattern through some combination of independent religious-cultural development, shared cognitive-archetypal substrate, and limited cultural diffusion. The framework's reading: the cross-cultural pattern preserves common memory of substantial actual events that the framework articulates, with each cultural tradition preserving substantial specific content within its distinctive cultural-religious framing.
+主流學術解釋通常透過獨立宗教—文化發展、共享認知—原型基底以及有限文化擴散的某種結合來處理跨文化模式。本框架的解讀：跨文化模式保留本框架闡述的大量實際事件的共同記憶，每個文化傳統在其獨特的文化—宗教框架內保留大量具體內容。
 
-The framework's specific reading is that the substantial Hebrew Bible operates as substantial principal-but-not-uniquely-privileged carrier of the substantial actual historical-event content. The substantial Mesopotamian textual parallels preserve substantial parallel content within the distinctive Mesopotamian framing; the substantial Egyptian textual parallels preserve substantial parallel content within the distinctive Egyptian framing; the substantial Ugaritic textual parallels preserve substantial parallel content within the distinctive Northwest Semitic framing; the substantial Vedic / Hindu textual parallels preserve substantial parallel content within the distinctive Hindu framing; the substantial Greek mythological corpus preserves substantial parallel content within the distinctive Greek framing.
+本框架的具體解讀是，大量希伯來聖經作為大量實際歷史事件內容的大量主要但非獨特特權攜帶者運作。大量美索不達米亞文本平行在獨特的美索不達米亞框架內保留大量平行內容；大量埃及文本平行在獨特的埃及框架內保留大量平行內容；大量烏加里特文本平行在獨特的西北閃米特框架內保留大量平行內容；大量吠陀/印度教文本平行在獨特的印度教框架內保留大量平行內容；大量希臘神話文集在獨特的希臘框架內保留大量平行內容。
 
-The corpus does not require rejecting all of the mainstream explanatory framework. Independent religious-cultural development certainly contributes to specific cultural-religious articulations; the cosmic-archetypal substrate certainly contributes to the broader cross-cultural pattern; cultural diffusion certainly occurred across the historical period. What the framework adds is the underlying historical reality that gave rise to the structural commonalities — the substantial actual alliance-civilization interventions across the post-flood ages that the framework articulates, with the substantial cross-cultural traditions preserving cultural memory of these events in their distinctive cultural-religious framings.
+本文集不要求拒絕所有的主流解釋框架。獨立的宗教—文化發展確實對具體的文化—宗教闡述有所貢獻；宇宙—原型基底確實對更廣泛的跨文化模式有所貢獻；文化擴散確實在歷史時期跨越發生。本框架增加的是產生結構共同性的底層歷史現實——本框架闡述的跨越洪水後各時代的大量實際聯盟—文明干預，大量跨文化傳統在其獨特的文化—宗教框架中保留這些事件的文化記憶。
 
-The framework's distinctive contribution within this broader comparative landscape is the substantial historical-actuality reading (the substantial sacred-textual content preserves cultural memory of substantial actual extraterrestrial-civilization events rather than substantial mythological-archetypal-substrate alone), the substantial Hebrew Bible centrality positioning (the substantial Hebrew tradition operates as the substantial structural center of the broader asymmetric synthesis while not registering substantial unique-privileging), and the substantial systematic decoding hermeneutic (the substantial framework provides substantial systematic interpretive key for substantive engagement with the substantial textual content across all the broader sacred-textual traditions).
-
-## See also
-
-- [Genesis](../genesis/)
-- [Adam and Eve](../adam-and-eve/)
-- [Eden](../eden/)
-- [Antediluvian](../antediluvian/)
-- [Great Flood](../great-flood/)
-- [Theomachy](../theomachy/)
-- [Babel](../babel/)
-- [Sodom and Gomorrah](../sodom-and-gomorrah/)
-- [Noah](../noah/)
-- [Abraham](../abraham/)
-- [Moses](../moses/)
-- [Jesus](../jesus/)
-- [Mary](../mary/)
-- [Elohim](../elohim/)
-- [Yahweh](../yahweh/)
-- [Lucifer](../lucifer/)
-- [Satan](../satan/)
-- [Serpent](../serpent/)
-- [Plurality of Gods](../plurality-of-gods/)
-- [Tetragrammaton](../tetragrammaton/)
-- [Cosmic Chain](../cosmic-chain/)
-- [Cosmic Competition](../cosmic-competition/)
-- [Doubled Signature](../doubled-signature/)
-- [Tree of Life](../tree-of-life/)
-- [Dragons](../dragons/)
-- [Watchers](../watchers/)
-- [The Alliance](../the-alliance/)
-- [Council of the Eternals](../council-of-eternals/)
-- [Apocalypse](../apocalypse/)
-- [Prophet](../prophet/)
-- [Hebrew](../hebrew/)
-- [Hebrews](../hebrews/)
-- [Jean Sendy](../jean-sendy/)
-- [Mauro Biglino](../mauro-biglino/)
-- [Paul Anthony Wallis](../paul-anthony-wallis/)
-
-## References
-
-Vorilhon, Claude (Raël). *The Book Which Tells the Truth* (1974); collected in *Message from the Designers*. Substantial foundational source for the framework's specific content.
-
-Vorilhon, Claude (Raël). *Extra-Terrestrials Took Me to Their Planet* (1975); collected in *Message from the Designers*.
-
-Vorilhon, Claude (Raël). *Let's Welcome the Extra-Terrestrials* (1979); collected in *Message from the Designers*.
-
-Vorilhon, Claude (Raël). *Message from the Designers*. Tagman Press, 2005.
-
-Sendy, Jean. *Ces dieux qui firent le ciel et la terre*. Robert Laffont, 1969.
-
-Sendy, Jean. *L'ère du Verseau*. Robert Laffont, 1970.
-
-Sendy, Jean. *Les cahiers de cours de Moïse*. Julliard, 1963.
-
-Biglino, Mauro, and Giorgio Cattaneo. *The Naked Bible: The Truth About the Most Famous Book in History*. Uno, 2022.
-
-Wallis, Paul Anthony. *Escaping from Eden: Does Genesis Teach That the Human Race Was Created by God or Engineered by ETs?*. 6th Books, 2020.
-
-Wallis, Paul Anthony. *The Eden Conspiracy*. 6th Books, 2024.
-
-Wellhausen, Julius. *Prolegomena to the History of Israel*. Trans. J. Sutherland Black and Allan Menzies. Adam & Charles Black, 1885 [originally 1878].
-
-Friedman, Richard Elliott. *Who Wrote the Bible?* Harper & Row, 1987.
-
-Friedman, Richard Elliott. *The Bible with Sources Revealed*. HarperOne, 2003.
-
-Van Seters, John. *The Pentateuch: A Social-Science Commentary*. Sheffield Academic Press, 1999.
-
-Baden, Joel S. *The Composition of the Pentateuch: Renewing the Documentary Hypothesis*. Yale University Press, 2012.
-
-von Rad, Gerhard. *Old Testament Theology*. 2 vols. Trans. D. M. G. Stalker. Harper & Row, 1962-1965 [originally 1957-1960].
-
-von Rad, Gerhard. *Genesis: A Commentary*. Trans. John H. Marks. Westminster, revised ed., 1972 [originally 1949].
-
-Westermann, Claus. *Genesis 1-11: A Commentary*. Trans. John J. Scullion. Augsburg / Fortress, 1984.
-
-Westermann, Claus. *Genesis 12-36: A Commentary*. Trans. John J. Scullion. Augsburg / Fortress, 1985.
-
-Westermann, Claus. *Genesis 37-50: A Commentary*. Trans. John J. Scullion. Augsburg / Fortress, 1986.
-
-Brueggemann, Walter. *Theology of the Old Testament: Testimony, Dispute, Advocacy*. Augsburg Fortress, 1997.
-
-Alter, Robert. *The Art of Biblical Narrative*. Basic Books, 1981.
-
-Alter, Robert. *The Five Books of Moses: A Translation with Commentary*. W. W. Norton, 2004.
-
-Alter, Robert. *The Hebrew Bible: A Translation with Commentary*. 3 vols. W. W. Norton, 2018.
-
-Hendel, Ronald S. *The Text of Genesis 1-11: Textual Studies and Critical Edition*. Oxford University Press, 1998.
-
-Arnold, Bill T. *Genesis*. New Cambridge Bible Commentary. Cambridge University Press, 2009.
-
-Childs, Brevard S. *Introduction to the Old Testament as Scripture*. Fortress Press, 1979.
-
-Kugel, James L. *How to Read the Bible: A Guide to Scripture, Then and Now*. Free Press, 2007.
-
-Albright, William F. *From the Stone Age to Christianity*. Johns Hopkins University Press, 2nd ed., 1957.
-
-Cross, Frank Moore. *Canaanite Myth and Hebrew Epic: Essays in the History of the Religion of Israel*. Harvard University Press, 1973.
-
-Dever, William G. *What Did the Biblical Writers Know and When Did They Know It?*. Eerdmans, 2001.
-
-Dever, William G. *Who Were the Early Israelites and Where Did They Come From?*. Eerdmans, 2003.
-
-Finkelstein, Israel, and Neil Asher Silberman. *The Bible Unearthed: Archaeology's New Vision of Ancient Israel and the Origin of Its Sacred Texts*. Free Press, 2001.
-
-Mazar, Amihai. *Archaeology of the Land of the Bible: 10,000-586 B.C.E.* Doubleday, 1990.
-
-Tov, Emanuel. *Textual Criticism of the Hebrew Bible*. Augsburg Fortress, 3rd ed., 2012 [originally 1992].
-
-Tov, Emanuel. *The Text-Critical Use of the Septuagint in Biblical Research*. Eisenbrauns, 2nd ed., 1997.
-
-VanderKam, James C. *The Dead Sea Scrolls Today*. Eerdmans, revised ed., 2010 [originally 1994].
-
-VanderKam, James C., and Peter W. Flint. *The Meaning of the Dead Sea Scrolls: Their Significance for Understanding the Bible, Judaism, Jesus, and Christianity*. HarperSanFrancisco, 2002.
-
-Flint, Peter W. *The Dead Sea Psalms Scrolls and the Book of Psalms*. Brill, 1997.
-
-García Martínez, Florentino, and Eibert J. C. Tigchelaar, eds. *The Dead Sea Scrolls Study Edition*. 2 vols. Brill, 1997-1998.
-
-Ulrich, Eugene. *The Dead Sea Scrolls and the Origins of the Bible*. Eerdmans, 1999.
-
-Collins, John J. *The Dead Sea Scrolls: A Biography*. Princeton University Press, 2013.
-
-Fernández Marcos, Natalio. *The Septuagint in Context: Introduction to the Greek Version of the Bible*. Trans. Wilfred G. E. Watson. Brill, 2000.
-
-Jobes, Karen H., and Moisés Silva. *Invitation to the Septuagint*. Baker Academic, 2nd ed., 2015.
-
-McDonald, Lee Martin. *The Biblical Canon: Its Origin, Transmission, and Authority*. Hendrickson, 3rd ed., 2007.
-
-Sundberg, Albert C. *The Old Testament of the Early Church*. Harvard University Press, 1964.
-
-Barton, John. *Holy Writings, Sacred Text: The Canon in Early Christianity*. Westminster John Knox, 1997.
-
-Sanders, James A. *Canon and Community: A Guide to Canonical Criticism*. Fortress Press, 1984.
-
-Smith, Mark S. *The Early History of God: Yahweh and the Other Deities in Ancient Israel*. Harper & Row, 1990; revised ed. Eerdmans, 2002.
-
-Sitchin, Zecharia. *The 12th Planet*. Stein and Day, 1976.
-
-Pritchard, James B., ed. *Ancient Near Eastern Texts Relating to the Old Testament*. Princeton University Press, 3rd ed., 1969.
-
-Lambert, W. G., and A. R. Millard. *Atra-ḫasīs: The Babylonian Story of the Flood*. Oxford University Press, 1969.
-
-Lambert, W. G. *Babylonian Creation Myths*. Eisenbrauns, 2013.
-
-George, Andrew. *The Babylonian Gilgamesh Epic: Introduction, Critical Edition and Cuneiform Texts*. 2 vols. Oxford University Press, 2003.
-
-Hallo, William W., and K. Lawson Younger Jr., eds. *The Context of Scripture*. 3 vols. Brill, 1997-2002.
-
-Faulkner, R. O., trans. *The Ancient Egyptian Pyramid Texts*. Aris & Phillips, 1969.
-
-Faulkner, R. O., trans. *The Ancient Egyptian Coffin Texts*. 3 vols. Aris & Phillips, 1973-1978.
-
-Allen, T. G., trans. *The Book of the Dead, or, Going Forth by Day*. University of Chicago Press, 1974.
-
-Smith, Mark S., trans. *The Ugaritic Baal Cycle: Volume I*. Brill, 1994.
-
-Pardee, Dennis. *Ritual and Cult at Ugarit*. Society of Biblical Literature, 2002.
-
-Doniger, Wendy, trans. *The Rig Veda: An Anthology*. Penguin Classics, 1981.
-
-Olivelle, Patrick, trans. *The Early Upaniṣads: Annotated Text and Translation*. Oxford University Press, 1998.
-
-van Buitenen, J. A. B., trans. *The Mahābhārata*. 3 vols. University of Chicago Press, 1973-1978.
-
-Hesiod. *Theogony / Works and Days*. Trans. M. L. West. Oxford University Press, 1988.
-
-Homer. *The Iliad*. Trans. Robert Fagles. Penguin Classics, 1990.
-
-Homer. *The Odyssey*. Trans. Robert Fagles. Penguin Classics, 1996.
-
-"Hebrew Bible." *Encyclopaedia Britannica*. <https://www.britannica.com/topic/Hebrew-Bible>
-
-"Tanakh." *Wikipedia*. <https://en.wikipedia.org/wiki/Hebrew_Bible>
-
-"Masoretic Text." *Wikipedia*. <https://en.wikipedia.org/wiki/Masoretic_Text>
-
-"Septuagint." *Wikipedia*. <https://en.wikipedia.org/wiki/Septuagint>
-
-"Dead Sea Scrolls." *Wikipedia*. <https://en.wikipedia.org/wiki/Dead_Sea_Scrolls>
+本框架在此更廣泛比較景觀中的獨特貢獻是大量歷史現實解讀（大量神聖文本內容保存大量實際外星人—文明事件的文化記憶，而非僅僅大量神話—原型基底）、大量希伯來聖經中心性定位（大量希伯來傳統作為更廣泛不對稱綜合的大量結構中心運作，同時不登錄大量獨特特權）、以及大量系統性解碼詮釋學（大量框架為跨越所有更廣泛神聖文本傳統的大量文本內容的實質性參與提供大量系統性解釋鑰匙）。

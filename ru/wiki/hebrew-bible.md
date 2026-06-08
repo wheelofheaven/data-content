@@ -1,826 +1,804 @@
 +++
 title = "Еврейская Библия"
-description = "Еврейская Библия (ивр. תָּנָ״ךְ, Танах) — канонический свод основополагающих текстов иудаизма, объединяющий Тору, Пророков и Писания. Для корпуса Wheel of Heaven она представляет первичный источник, читаемый сквозь четыре уровня, с особым весом её технического пласта."
+slug = "hebrew-bible"
+description = "Еврейская Библия (ивр. תָּנָ״ךְ, *Танах*) — главный основополагающий источниковый текстовый корпус для системы Колесо Небес: канонический корпус на древнееврейском языке, состоящий из двадцати четырёх книг, традиционно организованных в три главных раздела (Тора, Невиим, Кетувим), произведённый главным образом эденской генеалогической линией на протяжении приблизительно двенадцати столетий — от позднего бронзового века до персидско-эллинистического периода — и сохранённый преимущественно через масоретскую текстовую традицию. Отличительная аналитическая позиция системы регистрирует Еврейскую Библию как исторический документ, а не как религиозно-мифологическую литературу: текстовое содержание сохраняет точную культурную память об интервенциях альянса в послепотопные эпохи, а донаучный словарь человеческих авторов выступает как поддающийся расшифровке слой, а не как фундаментальное препятствие к содержательному пониманию. Система помещает Еврейскую Библию в структурный центр более широкого асимметричного синтеза — самой прямой и наименее опосредованной записи общения альянса с Землёй. Христианско-традиционная история переводов произвела систематическое затемнение действительного древнееврейского содержания через несколько главных переводческих ошибок (передача *Элохим* → единственного «Бога», передача *танниним* → «китов», супернатуральное наложение *малахим* → «ангелов», затемнение *нахаш* → просто «змея»), причём прочтение системы регистрирует восстановление действительного древнееврейского содержания через систематическую работу с оригинальной текстовой базой."
 template = "wiki-page.html"
 toc = true
 
 [extra]
-translation_status = "metadata_only"
 category = "Texts & Sources"
 editorial_pass = "2026-05"
 entry_type = "text"
-alternative_names = ["Tanakh (Hebrew: תָּנָ״ךְ)", "the Hebrew Scriptures", "the Jewish Bible", "Mikra (Hebrew: מִקְרָא, 'reading')", "the Old Testament (Christian-tradition designation)", "the Hebrew Old Testament", "the canonical Hebrew Scriptures"]
+claim_type = "inferred"
+alternative_names = ["Танах (ивр. תָּנָ״ךְ)", "Еврейские Писания", "Иудейская Библия", "Микра (ивр. מִקְרָא, «чтение»)", "Ветхий Завет (христианско-традиционное обозначение)", "Еврейский Ветхий Завет", "канонические Еврейские Писания"]
 timeline = ["multi-age"]
 
+see_also = [
+    { title = "Библия", path = "/wiki/bible/", description = "Более широкая текстовая традиция, в которой располагается Еврейская Библия." },
+    { title = "Бытие", path = "/wiki/genesis/", description = "Главная книга первобытной истории, разрабатываемая в системе." },
+    { title = "Элохим", path = "/wiki/elohim/", description = "Древнееврейское обозначение, прочитываемое как цивилизация альянса; центральное для интерпретационной рамки корпуса." },
+    { title = "Яхве", path = "/wiki/yahweh/", description = "Тетраграмматон, прочитываемый как конкретный индивид-Элоах, а не как сверхъестественное божество." },
+    { title = "Эдем", path = "/wiki/eden/", description = "Изначальная лаборатория альянса; текстовый якорь системного прочтения Еврейской Библии." },
+    { title = "Великий Потоп", path = "/wiki/great-flood/", description = "Событие Эпохи Близнецов, центральное для первобытной истории Еврейской Библии." },
+    { title = "Моисей", path = "/wiki/moses/", description = "Главный послепотопный пророк, чья миссия породила корпус Торы." },
+    { title = "Авраам", path = "/wiki/abraham/", description = "Фигура реконструкции патриархального периода, центральная для нарратива Еврейской Библии." },
+    { title = "Документальная гипотеза", path = "/wiki/documentary-hypothesis/", description = "Главная мейнстримная историко-критическая рамка для композиции Пятикнижия." },
+    { title = "Евреи", path = "/wiki/hebrews/", description = "Генеалогические потомки эденской линии, чья традиция произвела текстовый корпус." },
+    { title = "Удвоенная подпись", path = "/wiki/doubled-signature/", description = "Корпусной принцип, по которому Еврейская Библия регистрирует лежащую в основе историческую реальность." },
+    { title = "Справочный корпус раэлианского канона", path = "/wiki/reference-corpus-of-the-raelian-canon/", description = "Главный раэлианский источниковый корпус, работающий как канонический интерпретационный фильтр." },
+    { title = "Септуагинта", path = "/wiki/septuagint/", description = "Главный греческий перевод Еврейской Библии." },
+    { title = "Свитки Мёртвого моря", path = "/wiki/dead-sea-scrolls/", description = "Существенное рукописное свидетельство текстовой передачи Еврейской Библии." },
+    { title = "Масоретский текст", path = "/wiki/masoretic-text/", description = "Главная вокализированная древнееврейская текстовая традиция." },
+]
+
+footnotes = [
+    { content = "Еврейское наименование *Танах* (תָּנָ״ךְ) — акроним, образованный из начальных букв трёх главных канонических разделов: Тора (תּוֹרָה, «Наставление»), Невиим (נְבִיאִים, «Пророки») и Кетувим (כְּתוּבִים, «Писания»). Сам акроним — средневековая иудейско-традиционная конструкция, а более широкая текстовая сущность Еврейской Библии ранее обозначалась иными терминами — *Микра* (מִקְרָא, «чтение» или «то, что читается»), *Китвей ха-Кодеш* (כִּתְבֵי הַקֹּדֶשׁ, «Святые Писания»), или просто *ха-Сфарим* (הַסְּפָרִים, «Книги»). Христианское обозначение «Ветхий Завет» — христианско-традиционная рецепция, которой корпус избегает в пользу иудейско-традиционного обозначения *Танах* / *Еврейская Библия*, поскольку «Ветхий» предполагает супрессионистскую теологию, не одобряемую корпусом." },
+    { content = "Документальная гипотеза (J, E, D, P), сформулированная прежде всего Юлиусом Велльхаузеном в «Prolegomena zur Geschichte Israels» (1878), остаётся главной мейнстримной историко-критической рамкой для композиции Пятикнижия, несмотря на значительное последующее уточнение. «Кто написал Библию?» Ричарда Фридмана (1987) и «The Bible with Sources Revealed» (2003) дают доступные современные изложения. Прочтение системы не отвергает документальной гипотезы; оно работает ортогонально к ней: система прочитывает содержательно сохранённое текстовое содержание как запись действительных операционных событий вне зависимости от того, какой источниковый слой сохранил тот или иной отрывок. Различения J/E/D/P остаются полезными для текстуальной критики, но не определяют интерпретационную позицию системы." },
+    { content = "Конкретная позиция корпуса в отношении текстовой привилегии — обращение с Еврейской Библией как с самой точной из сохранившихся древних записей работы цивилизации Элохим на Земле — основана на идентификации в раэлианском источниковом материале евреев как прямых генетических потомков первых людей, синтезированных командой «Израиль». Эта привилегированная текстовая позиция, таким образом, генеалогическая, а не теологическая: точность Еврейской Библии происходит из непрерывной текстовой традиции той линии, которая операционно встречалась с альянсом наиболее тесно, а не из какого-либо собственного доктринального авторитета. Параллельные древние ближневосточные тексты («Атрахасис», «Гильгамеш», шумерский корпус потопа и творения) сохраняют фрагментарную память о тех же событиях, лежащих в основе, но через линии, чья послепотопная передача распадалась быстрее, чем еврейская." },
+    { content = "Четыре главных христианско-традиционных переводческих хода, затемняющих древнееврейское содержание, — *Элохим* → «Бог» (единственное число), *танниним* → «киты» (а не «великие рептилии/драконы»), *малахим* → «ангелы» (супернатуральное наложение, а не «вестники»/«посланцы»), *нахаш* → «змей» (просто рептилия, а не операционное обозначение агента фракции Люцифера) — действуют не как намеренный обман, но как результат послесептуагинтной богословской ассимиляции на протяжении более двух тысячелетий христианско-традиционного прочтения. Строго-переводческая методология Бильино («The Naked Bible», 2022) систематически обращает эти ходы и читает древнееврейский текст слово за словом, принимая получающееся конкретное операционное содержание, а не аллегоризируя его в богословскую абстракцию. Корпус усваивает методологический подход Бильино, накладывая собственную интерпретационную рамку системы на восстановленное древнееврейское содержание." },
+    { content = "Ландшафт текстовых свидетельств — масоретский текст (тиверианско-традиционный вокализированный текст, прежде всего Алеппский кодекс ок. 930 г. н. э. и Ленинградский кодекс 1008 г. н. э.), Свитки Мёртвого моря (рукописное свидетельство со II в. до н. э. по I в. н. э. из Кумрана и сопредельных мест), Септуагинта (греческий перевод III–II вв. до н. э.) и Самаритянское Пятикнижие (самаритянско-традиционный вариант) — регистрирует вариативность в деталях (орфография, порядок слов, отдельные расхождения уровня стиха), но структурное единство по основному текстовому содержанию. «Textual Criticism of the Hebrew Bible» Това (3-е изд., 2012) даёт главный современный научный синтез. Прочтение системы не зависит от какого-либо конкретного текстового варианта; содержательно сохранённое содержание устойчиво по всем сохранившимся свидетельствам." },
+    { content = "Открытия Свитков Мёртвого моря (1947–1956) дали рукописное свидетельство первого тысячелетия до н. э., подтвердившее стабильность текстовой передачи Еврейской Библии на протяжении более тысячелетия. Большой свиток Исайи (1QIsa-a, ок. 125 г. до н. э.) совпадает с масоретским Исайей в очень высокой степени через более чем 1 000 лет передачи. Импликация для прочтения системы: содержание Еврейской Библии было фиксировано к концу периода Второго Храма, а текстовая передача в последующие два тысячелетия сохранила его с высокой верностью. VanderKam & Flint, «The Meaning of the Dead Sea Scrolls» (2002), даёт главное доступное научное изложение." },
+]
+
+[[extra.references]]
+id = "tanakh"
+note = "Канонически-иудейское обрамление Еврейской Библии."
+
+[[extra.references]]
+id = "sefaria"
+note = "Главная цифровая точка доступа к текстам Еврейской Библии и связанным иудейским источниковым традициям."
+
+[[extra.references]]
+id = "genesis"
+note = "Главный текст первобытной истории, разрабатываемый в системе Колесо Небес."
+
+[[extra.references]]
+id = "the-book-which-tells-the-truth"
+note = "Основополагающий раэлианский источник для системного прочтения материала о творении в Еврейской Библии."
+
+[[extra.references]]
+id = "those-gods-who-made-heaven-and-earth"
+note = "Источниково-текстовый предшественник прочтения корпуса как внеземного у Жана Санди."
+
+[[extra.references]]
+id = "the-naked-bible"
+note = "Строго-переводческое альтернативно-историческое прочтение Мауро Бильино и Джорджо Каттанео."
+
+[[extra.references]]
+id = "escaping-from-eden"
+note = "Сосредоточенное на Бытии сравнительное прочтение Пола Энтони Уоллиса."
+
+[[extra.references]]
+id = "intelligent-design-message-from-the-designers"
+note = "Собранное каноническое издание трёх книг раэлианского источникового материала."
+
+[[extra.references]]
+id = "lets-welcome-the-extraterrestrials"
+note = "Ворилон (Раэль, 1979); более широкая политико-институциональная рамка Совета, разрабатываемая в прочтении Еврейской Библии."
+
+[[extra.references]]
+id = "sendy-ces-dieux"
+note = "Санди (1969); основополагающая французская артикуляция рамки «Еврейская Библия как запись внеземного»."
+
+[[extra.references]]
+id = "sendy-ere-du-verseau"
+note = "Санди (1970); рамка порога наследования Эпохи Водолея, разрабатывающая эсхатологию Еврейской Библии."
+
+[[extra.references]]
+id = "sendy-cahiers-moise"
+note = "Санди (1974); рамка мозаического периода со значительной экзегезой Пятикнижия."
+
+[[extra.references]]
+id = "biglino-il-libro"
+note = "Бильино (2010); первая главная артикуляция строго-буквального прочтения Еврейской Библии."
+
+[[extra.references]]
+id = "biglino-bibbia-non-parla"
+note = "Бильино (2015); артикуляция аргумента о том, что мейнстримный перевод затемняет оригинальное содержание Еврейской Библии."
+
+[[extra.references]]
+id = "wallis-eden-conspiracy"
+note = "Уоллис (2024); современная разработка первобытной истории Бытия как существенной исторической записи."
+
+[[extra.references]]
+id = "wellhausen-prolegomena"
+note = "Велльхаузен (1878); основополагающая артикуляция документальной гипотезы (источники J, E, D, P)."
+
+[[extra.references]]
+id = "friedman-who-wrote-bible"
+note = "Фридман (1987); главная доступная артикуляция документальной гипотезы для широкого читателя."
+
+[[extra.references]]
+id = "friedman-bible-sources-revealed"
+note = "Фридман (2003); представление текста Пятикнижия с источниковой разметкой."
+
+[[extra.references]]
+id = "alter-art-biblical-narrative"
+note = "Альтер (1981); главная артикуляция литературно-критического прочтения библейского нарратива."
+
+[[extra.references]]
+id = "alter-hebrew-bible"
+note = "Альтер (2018); трёхтомный английский перевод Еврейской Библии с обширным научным комментарием."
+
+[[extra.references]]
+id = "westermann-genesis-1-11"
+note = "Вестерман (1994); континентальный комментарий к Бытию 1–11; основополагающий критический комментарий к первобытной истории."
+
+[[extra.references]]
+id = "sarna-genesis-jps"
+note = "Сарна (1989); комментарий JPS Torah к Бытию."
+
+[[extra.references]]
+id = "cassuto-genesis"
+note = "Кассуто (1961); иудейско-учёный комментарий, противостоящий фрагментации документальной гипотезы."
+
+[[extra.references]]
+id = "kugel-how-to-read-bible"
+note = "Кугель (2007); артикуляция контраста между древними интерпретативными и современными критическими прочтениями."
+
+[[extra.references]]
+id = "cross-canaanite-myth"
+note = "Кросс (1973); основополагающая артикуляция ханаанско-израильской религиозной непрерывности; историческое развитие Эль–Яхве."
+
+[[extra.references]]
+id = "smith-early-history-god"
+note = "Смит (1990); раннее развитие израильской религии в более широком ханаанско-левантийском контексте."
+
+[[extra.references]]
+id = "finkelstein-bible-unearthed"
+note = "Финкельштейн и Зильберман (2001); главная современная артикуляция археологического прочтения Еврейской Библии."
+
+[[extra.references]]
+id = "tov-textual-criticism"
+note = "Тов (3-е изд., 2012); главный современный справочник по текстуальной критике Еврейской Библии."
+
+[[extra.references]]
+id = "vermes-dead-sea-scrolls"
+note = "Вермеш (испр. изд., 2004); доступный английский перевод корпуса Свитков Мёртвого моря."
+
+[[extra.references]]
+id = "vanderkam-dss-today"
+note = "Вандеркам (2-е изд., 2010); доступное введение в Свитки Мёртвого моря."
+
+[[extra.references]]
+id = "pritchard-anet"
+note = "Притчард (1969); главный англоязычный справочник по древним ближневосточным текстам, параллельным Еврейской Библии."
+
+[[extra.references]]
+id = "atra-hasis-lambert-millard"
+note = "Ламберт и Миллард (1969); критическое издание вавилонского нарратива потопа, параллельного Бытию."
+
+[[extra.references]]
+id = "sitchin-12th-planet"
+note = "Ситчин (1976); прочтение месопотамско-библейского материала в духе теории древних астронавтов."
+
 [extra.infobox]
-type = "Foundational source-textual entity; the principal canonical Hebrew-language textual corpus that operates at the structural center of the broader corpus framework"
-language = "Biblical Hebrew principally; Biblical Aramaic in select passages (Daniel 2:4b-7:28, Ezra 4:8-6:18 and 7:12-26, Jeremiah 10:11, Genesis 31:47)"
-canonical_structure = "Three principal sections in the Jewish canonical organization: Torah (תּוֹרָה, 'Law' or 'Instruction'); Nevi'im (נְבִיאִים, 'Prophets'); Ketuvim (כְּתוּבִים, 'Writings'). The acronym TaNaKh derives from the initial letters of these three sections"
-book_count = "Twenty-four books in the Jewish canonical organization (Torah: 5; Nevi'im: 8; Ketuvim: 11); thirty-nine books in the substantial Christian Old Testament canonical organization (substantively the same content with substantial divisional differences)"
-composition_period = "Approximately twelve centuries from the late Bronze Age through the Persian-Hellenistic period (mainstream scholarly dating: c. 12th-2nd centuries BCE; traditional Jewish dating substantially earlier for various books)"
-authorial_tradition = "Multiple authorial-redactional traditions across multiple centuries; the substantial Documentary Hypothesis registers four principal Pentateuchal sources (J, E, D, P); various subsequent redactional layers across the broader textual tradition"
-genealogical_lineage = "Principally the Eden-lineage genealogical line (the substantial Israel-team creator-population) across the post-flood ages; the substantial textual tradition reflects the substantial Eden-lineage cultural-religious development"
-principal_textual_witnesses = "The Masoretic Text (the substantial Tiberian-tradition vocalized text, principally the Aleppo Codex and Leningrad Codex); the Dead Sea Scrolls (the substantial 2nd-century-BCE-through-1st-century-CE manuscript evidence); the Septuagint (the substantial 3rd-2nd-century-BCE Greek translation); the Samaritan Pentateuch (the substantial Samaritan-tradition variant); various other textual witnesses"
-framework_position = "The substantial structural center of the corpus's asymmetric synthesis: the most direct and least mediated record of the alliance's communication with Earth; the principal source-textual foundation that virtually every other corpus entry engages substantively"
-distinguished_from = "The Christian Old Testament (the substantial Christian-tradition canonical reception of the Hebrew Bible content, with substantial divisional and arrangement differences); the broader Christian Bible (which adds the substantial New Testament content); the Quran (the substantial Islamic-tradition canonical text registering substantial parallel content); the Book of Mormon (the substantial Mormon LDS canonical text registering substantial parallel content); the various Apocryphal and Pseudepigraphal texts (which operate within distinct canonical-traditional positions)"
-status_in_framework = "Foundational; the Hebrew Bible operates as substantial source-textual foundation across virtually every corpus entry, with substantial framework hermeneutic articulating the principal interpretive moves"
-principal_corpus_treatment = "The substantial corpus treatment is distributed across virtually every entry; the *timeline.epub* substantial chapter-by-chapter Hebrew exegesis articulates the substantial framework reading; the various individual entries (Genesis, Adam and Eve, Eden, Antediluvian, Great Flood, Theomachy, Babel, Sodom and Gomorrah, Moses, Abraham, Noah, Elohim, Yahweh, etc.) articulate the substantial entry-specific framework readings"
+type = "Основополагающий источниковый текстовый корпус; главный канонический корпус на древнееврейском языке, действующий в структурном центре общей рамки корпуса"
+language = "Преимущественно библейский иврит; библейский арамейский в избранных отрывках (Даниил 2:4b–7:28, Ездра 4:8–6:18 и 7:12–26, Иеремия 10:11, Бытие 31:47)"
+canonical_structure = "Три главных раздела в иудейской канонической организации: Тора (תּוֹרָה, «Закон» или «Наставление»); Невиим (נְבִיאִים, «Пророки»); Кетувим (כְּתוּבִים, «Писания»). Акроним «ТаНаХ» образован из начальных букв этих трёх разделов"
+book_count = "Двадцать четыре книги в иудейской канонической организации (Тора: 5; Невиим: 8; Кетувим: 11); тридцать девять книг в христианской канонической организации Ветхого Завета (по сути то же содержание с делительными отличиями)"
+composition_period = "Приблизительно двенадцать столетий — от позднего бронзового века до персидско-эллинистического периода (мейнстримная научная датировка: ок. XII–II вв. до н. э.; традиционная иудейская датировка для различных книг существенно ранее)"
+authorial_tradition = "Множественные авторско-редакторские традиции на протяжении нескольких столетий; документальная гипотеза регистрирует четыре главных источника Пятикнижия (J, E, D, P); различные последующие редакторские слои по всей более широкой текстовой традиции"
+genealogical_lineage = "Преимущественно эденская генеалогическая линия (популяция, созданная командой «Израиль») на протяжении послепотопных эпох; текстовая традиция отражает культурно-религиозное развитие эденской линии"
+principal_textual_witnesses = "Масоретский текст (тиверианско-традиционный вокализированный текст, прежде всего Алеппский кодекс и Ленинградский кодекс); Свитки Мёртвого моря (рукописное свидетельство со II в. до н. э. по I в. н. э.); Септуагинта (греческий перевод III–II вв. до н. э.); Самаритянское Пятикнижие (самаритянско-традиционный вариант); различные иные текстовые свидетели"
+framework_position = "Структурный центр асимметричного синтеза корпуса: самая прямая и наименее опосредованная запись общения альянса с Землёй; главное источниковое текстовое основание, с которым по сути работает почти каждая другая статья корпуса"
+distinguished_from = "Христианский Ветхий Завет (христианско-традиционная каноническая рецепция содержания Еврейской Библии с делительными и порядковыми отличиями); более широкая христианская Библия (добавляющая содержание Нового Завета); Коран (исламский канонический текст с параллельным содержанием); Книга Мормона (мормонский канонический текст LDS с параллельным содержанием); различные апокрифические и псевдоэпиграфические тексты (действующие в отдельных канонически-традиционных позициях)"
+status_in_framework = "Основополагающий; Еврейская Библия действует как источниковое текстовое основание почти каждой статьи корпуса, с системной герменевтикой, артикулирующей главные интерпретационные ходы"
+principal_corpus_treatment = "Корпусная разработка распределена почти по каждой статье; в *timeline.epub* подробная глава за главой экзегеза древнееврейского текста артикулирует системное прочтение; отдельные статьи (Бытие, Адам и Ева, Эдем, Допотопный период, Великий Потоп, Теомахия, Вавилон, Содом и Гоморра, Моисей, Авраам, Ной, Элохим, Яхве и т. д.) артикулируют системное прочтение, специфичное для каждой статьи"
 +++
 
-The **Hebrew Bible** (Hebrew: תָּנָ״ךְ, *Tanakh*) is the principal foundational source-textual entity for the Wheel of Heaven framework — the substantial canonical Hebrew-language textual corpus comprising **twenty-four books** traditionally organized into three principal sections (**Torah**, **Nevi'im**, **Ketuvim**), produced principally by the **Eden-lineage genealogical line** across approximately twelve centuries from the late Bronze Age through the Persian-Hellenistic period, and substantially preserved through the **Masoretic textual tradition**. The substantial canonical text operates as the principal canonical source for substantial Jewish religious tradition (where it operates as the principal canonical scripture under the Tanakh designation), substantial Christian religious tradition (where it operates as the substantial Old Testament with substantial divisional and arrangement differences), and substantial Islamic religious tradition (which registers substantial canonical respect while operating principally through the Quran). The Hebrew Bible operates as substantial textual entity across multiple distinct disciplinary engagements: substantial textual-philological scholarship, substantial archaeological-historical scholarship, substantial theological-religious scholarship, substantial literary-critical scholarship, and various substantial alternative-history engagements.
+**Еврейская Библия** (ивр. תָּנָ״ךְ, *Танах*) — главный основополагающий источниковый текстовый корпус для системы Колесо Небес: канонический корпус на древнееврейском языке, состоящий из **двадцати четырёх книг**, традиционно организованных в три главных раздела (**Тора**, **Невиим**, **Кетувим**), произведённый главным образом **эденской генеалогической линией** на протяжении приблизительно двенадцати столетий — от позднего бронзового века до персидско-эллинистического периода — и сохранённый преимущественно через **масоретскую текстовую традицию**. Канонический текст выступает главным каноническим источником для иудейской религиозной традиции (где он действует как главное каноническое Писание под обозначением «Танах»), для христианской религиозной традиции (где он действует как Ветхий Завет с делительными и порядковыми отличиями) и для исламской религиозной традиции (которая регистрирует канонический respect, действуя прежде всего через Коран). Еврейская Библия выступает текстовой сущностью в нескольких различных дисциплинарных полях: текстуально-филологическая наука, археолого-историческая наука, теолого-религиозная наука, литературно-критическая наука и различные альтернативно-исторические разработки.
 
-The framework's distinctive analytical position registers the Hebrew Bible as **substantial historical record rather than as substantial religious-mythological literature**. The substantial Yahweh-articulated framework reading: *"The Hebrew Bible is not a book of religious myths that require either literal belief or allegorical reinterpretation; it is a historical record, imperfect in its pre-scientific vocabulary but substantially accurate in its content, that can be read directly once the hermeneutic key is available."* The substantial textual content preserves substantial accurate cultural memory of the substantial alliance's interventions across the post-flood ages, with the substantial pre-scientific vocabulary of the human authors operating as substantial decodable layer rather than as substantial fundamental obstacle to substantive understanding. The framework operates the Hebrew Bible at the substantial structural center of the broader asymmetric synthesis: substantively the most direct and least mediated record of the alliance's communication with Earth, with the substantial Hebrew tradition operating as the principal source-textual foundation that the broader corpus engages substantively.
+Отличительная аналитическая позиция системы регистрирует Еврейскую Библию как **исторический документ, а не как религиозно-мифологическую литературу**. Сформулированное Яхве системное прочтение: «*Еврейская Библия — не книга религиозных мифов, требующих либо буквальной веры, либо аллегорической переинтерпретации; это исторический документ, несовершенный в своём донаучном словаре, но содержательно точный, который может быть прочитан напрямую, как только доступен герменевтический ключ.*» Текстовое содержание сохраняет точную культурную память об интервенциях альянса в послепотопные эпохи, а донаучный словарь человеческих авторов работает как поддающийся расшифровке слой, а не как фундаментальное препятствие к содержательному пониманию. Система помещает Еврейскую Библию в структурный центр более широкого асимметричного синтеза: по сути это самая прямая и наименее опосредованная запись общения альянса с Землёй, а еврейская традиция выступает главным источниковым текстовым основанием, с которым по сути работает более широкий корпус.
 
-The framework registers the Hebrew Bible's substantial centrality through several specific dimensions. The substantial **textual centrality**: the Hebrew Bible preserves substantial direct documentary content from substantial alliance-officer contacts (the substantial Yahweh contacts, the substantial *malakhim* visitations, the substantial dictation events at Sinai and elsewhere), with the substantial human authors recording what they were given in the substantial Hebrew vocabulary available to them. The substantial **lineage centrality**: the substantial Hebrew Bible preserves the documentary record of one specific creator-team's substantial work — the substantial Israel-team — with the substantial Eden-lineage genealogical line operating as the substantial cultural carrier of the broader creation memory. The substantial **chronological centrality**: the substantial Hebrew Bible covers substantial chronological scope from the substantial creation events through the substantial Persian-Hellenistic period, with substantial cross-cutting cultural-religious-political content operating substantively across multiple precessional ages. The substantial **interpretive centrality**: the substantial Hebrew Bible operates as the substantial principal source-textual foundation that the broader corpus engages substantively, with virtually every other corpus entry registering substantial textual engagement with specific Hebrew Bible passages.
+Система регистрирует центральность Еврейской Библии по нескольким конкретным измерениям. **Текстовая центральность**: Еврейская Библия сохраняет прямое документальное содержание контактов с офицерами альянса (контакты с Яхве, посещения *малахим*, события диктовки на Синае и в других местах), причём человеческие авторы записывали полученное в том древнееврейском словаре, который был им доступен. **Линейная центральность**: Еврейская Библия сохраняет документальную запись работы одной конкретной команды-творца — команды «Израиль» — а эденская генеалогическая линия действует как культурный носитель более широкой памяти о творении{{ footnote(id="3") }}. **Хронологическая центральность**: Еврейская Библия охватывает хронологический диапазон от событий творения до персидско-эллинистического периода, с пересекающим культурно-религиозно-политическим содержанием, действующим по существу через несколько прецессионных эпох. **Интерпретационная центральность**: Еврейская Библия действует как главное источниковое текстовое основание, с которым по сути работает более широкий корпус, причём почти каждая другая статья корпуса регистрирует текстовое взаимодействие с конкретными отрывками Еврейской Библии.
 
-The framework's substantial Hebrew Bible engagement registers substantial centrality without registering substantial unique-privileging. The substantial corpus articulation: *"The Hebrew Bible is one tradition among several, not a uniquely privileged source. It is, however, the most complete and the most explicitly developed, which is why this corpus reads it most closely."* The substantial nuance preserves substantial respect for the substantial broader cross-cultural traditions (the substantial Mesopotamian textual corpus, the substantial Egyptian religious literature, the substantial Vedic / Hindu textual tradition, the substantial Greek mythological corpus, the substantial Chinese religious-cultural literature, the substantial various indigenous textual-and-oral traditions) while registering the substantial reasons why the Hebrew Bible operates at the corpus's substantial structural center. The substantial reasons: the substantial textual completeness, the substantial development depth, the substantial chronological coverage, the substantial preservation fidelity through the Masoretic textual tradition, and the substantial alliance-contact specificity preserved in the substantial textual content.
+Системная работа с Еврейской Библией регистрирует центральность без регистрации уникальной привилегированности. Корпусная формулировка: «*Еврейская Библия — одна из нескольких традиций, а не уникально привилегированный источник. Однако она наиболее полна и наиболее эксплицитно развита, и именно поэтому этот корпус читает её ближе всего.*» Этот нюанс сохраняет уважение к более широким кросс-культурным традициям (месопотамскому текстовому корпусу, египетской религиозной литературе, ведийской/индуистской текстовой традиции, греческому мифологическому корпусу, китайской религиозно-культурной литературе, различным коренным текстово-устным традициям), регистрируя одновременно причины, по которым Еврейская Библия действует в структурном центре корпуса. Эти причины: текстовая полнота, глубина разработки, хронологический охват, верность сохранения через масоретскую текстовую традицию и специфичность контактов альянса, сохранённая в текстовом содержании.
 
-The substantial Christian-tradition translation history has produced substantial systematic obscuring of the actual Hebrew content. The principal translation mistakes registered substantively in the broader corpus engagement:
+Христианско-традиционная история переводов произвела систематическое затемнение действительного древнееврейского содержания{{ footnote(id="4") }}. Главные переводческие ошибки, регистрируемые в более широкой работе корпуса:
 
-- The substantial **Elohim** → singular "God" rendering (treated principally in the [Plurality of Gods](../plurality-of-gods/) entry): the substantial transformation of the actual plural creator beings into a substantial singular incomprehensible God
-- The substantial **taninim** → "whales" or "great sea creatures" rendering (treated principally in the [Dragons](../dragons/) entry): the substantial softening of the substantial Genesis 1:21 explicit dragon-creation content
-- The substantial **malakhim** → "angels" rendering: the substantial supernatural overlay obscuring the substantial messenger-personnel operational content
-- The substantial **nachash** → mere "serpent" rendering (treated principally in the [Serpent](../serpent/) entry): the substantial obscuring of the substantial Lucifer-faction operational content
-- The substantial **benei ha-Elohim** → "sons of God" rendering (often pluralized substantively): the substantial obscuring of the substantial alliance-personnel content
-- Various other translation choices operating across the broader textual tradition
+- Передача **Элохим** → единственного «Бога» (рассматривается главным образом в статье {% wiki(slug="plurality-of-gods") %}Множественность богов{% end %}): преобразование действительных множественных творцов в единственного непостижимого Бога
+- Передача **танниним** → «китов» или «больших морских существ» (рассматривается главным образом в статье {% wiki(slug="dragons") %}Драконы{% end %}): смягчение эксплицитного драконо-творящего содержания Бытия 1:21
+- Передача **малахим** → «ангелов»: супернатуральное наложение, затемняющее операционное содержание о вестниках-персонале
+- Передача **нахаш** → просто «змея» (рассматривается главным образом в статье {% wiki(slug="serpent") %}Змей{% end %}): затемнение операционного содержания о фракции Люцифера
+- Передача **бней ха-Элохим** → «сынов Божиих» (часто плюрализируемое лишь по сути): затемнение содержания о персонале альянса
+- Различные иные переводческие решения, действующие по всей более широкой текстовой традиции
 
-The substantial framework reading registers substantial restoration of the actual Hebrew content through systematic engagement with the original textual evidence — the substantial corpus's principal interpretive achievement.
+Системное прочтение регистрирует восстановление действительного древнееврейского содержания через систематическую работу с оригинальной текстовой базой — главное интерпретационное достижение корпуса.
 
-The reading is substantially source-grounded. The Raëlian source material provides substantial articulation of the framework's specific position across multiple sources, with substantial subsequent corpus development through the *timeline.epub* substantial chapter-by-chapter Hebrew exegesis. The framework's epistemic status is one of **substantial-source-grounding-with-corpus-systematic-extension**.
+Прочтение по существу опирается на источники. Раэлианский источниковый материал даёт артикуляцию конкретной позиции системы по нескольким источникам, с последующей корпусной разработкой через подробную глава за главой экзегезу древнееврейского текста в *timeline.epub*. Эпистемический статус системы — **обоснованность источниками плюс систематическое расширение корпуса**.
 
-## Etymology and naming
+## Этимология и наименование
 
-The substantial textual entity has substantial designations across multiple linguistic-religious traditions, with the etymological history producing substantial interpretive content.
+Текстовая сущность имеет обозначения в нескольких лингво-религиозных традициях, причём этимологическая история содержит интерпретационное содержание.
 
-### "Hebrew Bible" as principal designation
+### «Еврейская Библия» как главное обозначение
 
-The English term **Hebrew Bible** is the principal scholarly-academic designation for the substantial canonical Hebrew-language textual corpus. The composite construction — "Hebrew" (the principal linguistic specification) plus "Bible" (the substantial canonical-textual category) — registers the substantial textual entity while operating with substantial scholarly-academic neutrality across the substantial Jewish-traditional and Christian-tradition uses.
+Английский термин **Hebrew Bible** — главное научно-академическое обозначение для канонического корпуса на древнееврейском языке. Составная конструкция — «Hebrew» (лингвистическая спецификация) плюс «Bible» (канонически-текстовая категория) — регистрирует текстовую сущность с научно-академической нейтральностью между иудейско-традиционным и христианско-традиционным употреблениями. Русский эквивалент **Еврейская Библия** работает в той же функции.
 
-The designation has substantial usage in:
+Обозначение употребляется:
 
-- **Mainstream scholarly-academic literature**: the principal designation in substantial contemporary biblical scholarship
-- **Substantial comparative-religion scholarship**: the principal designation registering substantial trans-traditional textual reference
-- **Substantial textual-philological scholarship**: the principal designation registering substantial textual specificity
-- **The corpus framework**: the principal designation registering substantial framework engagement with the substantial textual entity
+- **В мейнстримной научно-академической литературе**: главное обозначение в современной библейской науке
+- **В сравнительно-религиозной науке**: главное обозначение, регистрирующее межтрадиционную текстовую референцию
+- **В текстуально-филологической науке**: главное обозначение, регистрирующее текстовую специфичность
+- **В рамке корпуса**: главное обозначение, регистрирующее системное взаимодействие с текстовой сущностью
 
-### Hebrew "Tanakh" (תָּנָ״ךְ)
+### Древнееврейское «Танах» (תָּנָ״ךְ)
 
-The Hebrew **תָּנָ״ךְ** (*Tanakh*) is the principal Jewish-tradition designation for the substantial canonical Hebrew-language textual corpus. The substantial designation operates as substantial acronymic construction:
+Древнееврейское **תָּנָ״ךְ** (*Танах*){{ footnote(id="1") }} — главное иудейско-традиционное обозначение для канонического корпуса на древнееврейском языке. Обозначение действует как акронимическая конструкция:
 
-- **Ta** (תּ): from תּוֹרָה (*Torah*, "Law" or "Instruction") — the substantial first principal section
-- **Na** (נַ): from נְבִיאִים (*Nevi'im*, "Prophets") — the substantial second principal section  
-- **Kh** (ךְ): from כְּתוּבִים (*Ketuvim*, "Writings") — the substantial third principal section
+- **Та** (תּ): от תּוֹרָה (*Тора*, «Закон» или «Наставление») — первый главный раздел
+- **На** (נַ): от נְבִיאִים (*Невиим*, «Пророки») — второй главный раздел
+- **Х** (ךְ): от כְּתוּבִים (*Кетувим*, «Писания») — третий главный раздел
 
-The substantial Tanakh designation registers the substantial three-part canonical structure within the substantial Jewish-tradition organization. The substantial designation operates principally within Jewish-tradition contexts, with substantial subsequent scholarly-academic adoption in substantial contemporary biblical scholarship.
+Обозначение «Танах» регистрирует трёхчастную каноническую структуру в иудейско-традиционной организации. Оно действует прежде всего в иудейско-традиционных контекстах, с последующим научно-академическим усвоением в современной библейской науке.
 
-### Hebrew "Mikra" (מִקְרָא)
+### Древнееврейское «Микра» (מִקְרָא)
 
-The Hebrew **מִקְרָא** (*Mikra*, "reading" or "that which is read") operates as substantial alternative Jewish-tradition designation. The substantial term derives from the substantial Hebrew root **קרא** (*qara*, "to read" or "to call"), registering the substantial textual entity as the principal substantive material for substantial reading and substantial liturgical recitation. The substantial designation operates principally within substantial traditional Jewish liturgical-textual contexts.
+Древнееврейское **מִקְרָא** (*Микра*, «чтение» или «то, что читается») действует как альтернативное иудейско-традиционное обозначение. Термин происходит от древнееврейского корня **קרא** (*кара*, «читать» или «звать»), регистрируя текстовую сущность как главный материал для чтения и литургического декламирования. Обозначение действует прежде всего в традиционных иудейских литургико-текстовых контекстах.
 
-### Hebrew "Sifrei ha-Kodesh" (סִפְרֵי הַקֹּדֶשׁ)
+### Древнееврейское «Сифрей ха-Кодеш» (סִפְרֵי הַקֹּדֶשׁ)
 
-The Hebrew **סִפְרֵי הַקֹּדֶשׁ** (*Sifrei ha-Kodesh*, "the holy books" or "the sacred scriptures") operates as substantial Jewish-tradition designation registering the substantial sacred-textual character. The substantial designation operates principally within substantial traditional Jewish religious contexts.
+Древнееврейское **סִפְרֵי הַקֹּדֶשׁ** (*Сифрей ха-Кодеш*, «святые книги» или «священные Писания») действует как иудейско-традиционное обозначение, регистрирующее священно-текстовый характер. Обозначение действует прежде всего в традиционных иудейских религиозных контекстах.
 
-### "Old Testament" as Christian-tradition designation
+### «Ветхий Завет» как христианско-традиционное обозначение
 
-The English term **Old Testament** is the principal Christian-tradition designation for substantial Christian-canonical reception of the Hebrew Bible content. The substantial designation derives from the substantial Christian-theological framework registering the substantial Hebrew Bible content as the substantial "old covenant" content preceding the substantial New Testament "new covenant" content. The substantial designation has been registered as substantively problematic by various contemporary scholars (substantial supersessionist theological implications, substantial scholarly-academic neutrality concerns), with substantial contemporary scholarly preference for the substantial Hebrew Bible designation.
+Английский термин **Old Testament** (русск. «Ветхий Завет») — главное христианско-традиционное обозначение христианско-канонической рецепции содержания Еврейской Библии. Обозначение происходит из христианско-богословской рамки, регистрирующей содержание Еврейской Библии как «ветхий завет», предшествующий «новому завету» Нового Завета. Различные современные учёные регистрировали обозначение как по существу проблематичное (импликации супрессионистской теологии, забота о научно-академической нейтральности), и современное научное предпочтение склоняется к обозначению «Еврейская Библия».
 
-The substantial Christian Old Testament canonical organization differs substantively from the substantial Jewish Tanakh organization:
+Христианская каноническая организация Ветхого Завета по сути отличается от иудейской организации Танаха:
 
-- **Book count**: thirty-nine books in substantial Protestant Christian organization vs. twenty-four books in substantial Jewish organization (substantively the same content with substantial divisional differences — e.g., Samuel and Kings are each one book in Jewish organization but two books each in Christian organization)
-- **Book ordering**: substantial Christian organization places the prophetic books at the end of the substantial canonical sequence, while the substantial Jewish organization places the prophets in the middle section
-- **Apocryphal additions**: the substantial Catholic Christian and Eastern Orthodox Christian Old Testaments include substantial additional Deuterocanonical books not present in the substantial Jewish or Protestant Christian canons
+- **Число книг**: тридцать девять книг в протестантской христианской организации против двадцати четырёх книг в иудейской организации (по сути то же содержание с делительными отличиями — например, Книга Самуила и Книга Царей — каждая по одной книге в иудейской организации, но по две книги каждая в христианской)
+- **Порядок книг**: христианская организация помещает пророческие книги в конце канонической последовательности, тогда как иудейская организация помещает Пророков в среднем разделе
+- **Апокрифические добавления**: католический и восточно-православный Ветхие Заветы включают дополнительные второканонические книги, отсутствующие в иудейском и протестантском канонах
 
-### Cross-cultural designations
+### Кросс-культурные обозначения
 
-The substantial textual entity has cross-cultural designations:
+Текстовая сущность имеет кросс-культурные обозначения:
 
-- **Greek**: ἡ Παλαιὰ Διαθήκη (*hē Palaia Diathēkē*, "the Old Covenant") — the substantial Greek-Christian designation; also τὰ βιβλία (*ta biblia*, "the books") — the substantial Septuagint-Greek collective designation
-- **Latin**: *Vetus Testamentum* — the substantial Vulgate-Latin Christian designation
-- **Arabic**: التَّوْرَاة (*at-Tawrāh*, properly designating the Pentateuch but extended to the substantial Hebrew Bible content); الكِتَاب المُقَدَّس (*al-Kitāb al-Muqaddas*, "the Holy Book") — the substantial broader Islamic-tradition designation
-- **Aramaic**: מקרא (*Mikra*) — the substantial Aramaic-tradition designation cognate with the Hebrew
+- **Греческий**: ἡ Παλαιὰ Διαθήκη (*hē Palaia Diathēkē*, «Ветхий Завет») — греко-христианское обозначение; также τὰ βιβλία (*ta biblia*, «книги») — собирательное септуагинтско-греческое обозначение
+- **Латынь**: *Vetus Testamentum* — латинско-христианское обозначение Вульгаты
+- **Арабский**: التَّوْرَاة (*ат-Таура*, собственно обозначающее Пятикнижие, но расширенное на содержание Еврейской Библии); الكِتَاب المُقَدَّس (*аль-Китаб аль-Мукаддас*, «Святая Книга») — более широкое исламско-традиционное обозначение
+- **Арамейский**: מקרא (*Микра*) — арамейско-традиционное обозначение, родственное древнееврейскому
 
-### Corpus-internal usage
+### Внутрикорпусное употребление
 
-The Wheel of Heaven corpus uses **Hebrew Bible** as the principal designation, with **Tanakh** used in framework-specific contexts where substantial Jewish-tradition specificity is required. The various other designations are used in specific contexts where operational specificity is required.
+Корпус Колеса Небес использует **Еврейская Библия** как главное обозначение, а **Танах** — в системно-специфических контекстах, где требуется иудейско-традиционная специфичность. Различные иные обозначения используются в конкретных контекстах, где требуется операционная специфичность.
 
-## Conventional understanding
+## Конвенциональное понимание
 
-The Hebrew Bible has substantial mainstream scholarly engagement across multiple distinct disciplines.
+Еврейская Библия имеет мейнстримную научную разработку в нескольких различных дисциплинах.
 
-### The substantial canonical structure
+### Каноническая структура
 
-Mainstream scholarly engagement registers the substantial Hebrew Bible canonical structure across the substantial three-part organization.
+Мейнстримная научная разработка регистрирует каноническую структуру Еврейской Библии в трёхчастной организации.
 
-**The Torah / Pentateuch**. The substantial Hebrew **תּוֹרָה** (*Torah*, "Law" or "Instruction") comprises the substantial first five books:
+**Тора / Пятикнижие**. Древнееврейская **תּוֹרָה** (*Тора*, «Закон» или «Наставление») охватывает первые пять книг:
 
-1. **Genesis** (Hebrew: בְּרֵאשִׁית, *Bereshit*, "In the beginning"): the substantial creation account, the substantial primeval history (Genesis 1-11), the substantial patriarchal narratives (Genesis 12-50)
-2. **Exodus** (Hebrew: שְׁמוֹת, *Shemot*, "Names"): the substantial Egyptian bondage, the substantial Mosaic deliverance, the substantial Sinai covenant, the substantial tabernacle construction
-3. **Leviticus** (Hebrew: וַיִּקְרָא, *Vayikra*, "And he called"): the substantial priestly legislation, the substantial sacrificial system, the substantial holiness code
-4. **Numbers** (Hebrew: בְּמִדְבָּר, *Bemidbar*, "In the wilderness"): the substantial wilderness wanderings, the substantial census materials, various substantial legal-ritual content
-5. **Deuteronomy** (Hebrew: דְּבָרִים, *Devarim*, "Words"): the substantial Mosaic farewell discourses, the substantial covenant renewal, the substantial Mosaic death
+1. **Бытие** (ивр. בְּרֵאשִׁית, *Берешит*, «В начале»): рассказ о творении, первобытная история (Бытие 1–11), патриархальные нарративы (Бытие 12–50)
+2. **Исход** (ивр. שְׁמוֹת, *Шемот*, «Имена»): египетское рабство, мозаическое избавление, синайский завет, постройка скинии
+3. **Левит** (ивр. וַיִּקְרָא, *Вайикра*, «И воззвал»): священническое законодательство, жертвенная система, кодекс святости
+4. **Числа** (ивр. בְּמִדְבָּר, *Бемидбар*, «В пустыне»): странствования в пустыне, материалы переписей, различные ритуально-правовые содержания
+5. **Второзаконие** (ивр. דְּבָרִים, *Деварим*, «Слова»): прощальные речи Моисея, обновление завета, смерть Моисея
 
-The substantial Pentateuch operates as substantial foundational legal-religious-narrative content within the broader Hebrew Bible canonical structure.
+Пятикнижие действует как основополагающее правовое-религиозно-нарративное содержание в более широкой канонической структуре Еврейской Библии.
 
-**The Nevi'im / Prophets**. The substantial Hebrew **נְבִיאִים** (*Nevi'im*, "Prophets") comprises substantial historical-prophetic content organized into Former Prophets and Latter Prophets:
+**Невиим / Пророки**. Древнееврейское **נְבִיאִים** (*Невиим*, «Пророки») охватывает историко-пророческое содержание, организованное в Ранних и Поздних Пророков:
 
-**Former Prophets** (Hebrew: נְבִיאִים רִאשׁוֹנִים, *Nevi'im Rishonim*):
-1. **Joshua** (Hebrew: יְהוֹשֻׁעַ, *Yehoshua*): the substantial conquest narrative
-2. **Judges** (Hebrew: שׁוֹפְטִים, *Shoftim*): the substantial pre-monarchic period
-3. **Samuel** (Hebrew: שְׁמוּאֵל, *Shmuel*) — single book in Jewish organization, two books in Christian organization: the substantial transition to monarchy, the substantial Davidic kingship
-4. **Kings** (Hebrew: מְלָכִים, *Melakhim*) — single book in Jewish organization, two books in Christian organization: the substantial monarchic history through the substantial Babylonian exile
+**Ранние Пророки** (ивр. נְבִיאִים רִאשׁוֹנִים, *Невиим Ришоним*):
+1. **Иисус Навин** (ивр. יְהוֹשֻׁעַ, *Иехошуа*): нарратив завоевания
+2. **Книга Судей** (ивр. שׁוֹפְטִים, *Шофтим*): домонархический период
+3. **Книга Самуила** (ивр. שְׁמוּאֵל, *Шмуэль*) — одна книга в иудейской организации, две книги в христианской: переход к монархии, царствование Давида
+4. **Книга Царей** (ивр. מְלָכִים, *Мелахим*) — одна книга в иудейской организации, две книги в христианской: монархическая история до вавилонского пленения
 
-**Latter Prophets** (Hebrew: נְבִיאִים אַחֲרוֹנִים, *Nevi'im Aharonim*):
-5. **Isaiah** (Hebrew: יְשַׁעְיָהוּ, *Yeshayahu*)
-6. **Jeremiah** (Hebrew: יִרְמְיָהוּ, *Yirmeyahu*)
-7. **Ezekiel** (Hebrew: יְחֶזְקֵאל, *Yehezkel*)
-8. **The Twelve** (Hebrew: תְּרֵי עֲשַׂר, *Trei Asar*) — twelve minor prophets in Jewish organization, twelve separate books in Christian organization: Hosea, Joel, Amos, Obadiah, Jonah, Micah, Nahum, Habakkuk, Zephaniah, Haggai, Zechariah, Malachi
+**Поздние Пророки** (ивр. נְבִיאִים אַחֲרוֹנִים, *Невиим Ахароним*):
+5. **Исайя** (ивр. יְשַׁעְיָהוּ, *Иешаяху*)
+6. **Иеремия** (ивр. יִרְמְיָהוּ, *Ирмеяху*)
+7. **Иезекииль** (ивр. יְחֶזְקֵאל, *Иехезкель*)
+8. **Двенадцать** (ивр. תְּרֵי עֲשַׂר, *Трей Асар*) — двенадцать малых пророков в иудейской организации, двенадцать отдельных книг в христианской: Осия, Иоиль, Амос, Авдий, Иона, Михей, Наум, Аввакум, Софония, Аггей, Захария, Малахия
 
-**The Ketuvim / Writings**. The substantial Hebrew **כְּתוּבִים** (*Ketuvim*, "Writings") comprises substantial diverse content:
+**Кетувим / Писания**. Древнееврейское **כְּתוּבִים** (*Кетувим*, «Писания») охватывает разнообразное содержание:
 
-1. **Psalms** (Hebrew: תְּהִלִּים, *Tehillim*)
-2. **Proverbs** (Hebrew: מִשְׁלֵי, *Mishlei*)
-3. **Job** (Hebrew: אִיּוֹב, *Iyov*)
-4. **Song of Songs** (Hebrew: שִׁיר הַשִּׁירִים, *Shir ha-Shirim*)
-5. **Ruth** (Hebrew: רוּת, *Rut*)
-6. **Lamentations** (Hebrew: אֵיכָה, *Eikhah*)
-7. **Ecclesiastes** (Hebrew: קֹהֶלֶת, *Kohelet*)
-8. **Esther** (Hebrew: אֶסְתֵּר, *Ester*)
-9. **Daniel** (Hebrew: דָּנִיֵּאל, *Daniel*)
-10. **Ezra-Nehemiah** (Hebrew: עֶזְרָא־נְחֶמְיָה) — single book in Jewish organization, two books in Christian organization
-11. **Chronicles** (Hebrew: דִּבְרֵי הַיָּמִים, *Divrei ha-Yamim*) — single book in Jewish organization, two books in Christian organization
+1. **Псалтирь** (ивр. תְּהִלִּים, *Теhилим*)
+2. **Притчи** (ивр. מִשְׁלֵי, *Мишлей*)
+3. **Иов** (ивр. אִיּוֹב, *Иёв*)
+4. **Песнь Песней** (ивр. שִׁיר הַשִּׁירִים, *Шир ха-Ширим*)
+5. **Руфь** (ивр. רוּת, *Рут*)
+6. **Плач Иеремии** (ивр. אֵיכָה, *Эйха*)
+7. **Екклесиаст** (ивр. קֹהֶלֶת, *Коhелет*)
+8. **Эсфирь** (ивр. אֶסְתֵּר, *Эстер*)
+9. **Даниил** (ивр. דָּנִיֵּאל, *Даниэль*)
+10. **Ездра-Неемия** (ивр. עֶזְרָא־נְחֶמְיָה) — одна книга в иудейской организации, две книги в христианской
+11. **Паралипоменон** (ивр. דִּבְרֵי הַיָּמִים, *Диврей ха-Ямим*) — одна книга в иудейской организации, две книги в христианской
 
-The substantial Ketuvim operates as substantial diverse-genre content within the broader Hebrew Bible canonical structure.
+Кетувим действует как разножанровое содержание в более широкой канонической структуре Еврейской Библии.
 
-### The substantial linguistic content
+### Лингвистическое содержание
 
-The substantial Hebrew Bible operates principally in **Biblical Hebrew** (substantial classical Hebrew language with substantial diachronic development across the substantial composition period). The substantial textual content includes substantial **Biblical Aramaic** in select passages:
+Еврейская Библия действует прежде всего на **библейском иврите** (классический древнееврейский язык с диахроническим развитием по периоду композиции). Текстовое содержание включает **библейский арамейский** в избранных отрывках:
 
-- **Daniel 2:4b-7:28**: the substantial Aramaic narrative section
-- **Ezra 4:8-6:18 and 7:12-26**: the substantial Aramaic documentary materials
-- **Jeremiah 10:11**: a single Aramaic verse
-- **Genesis 31:47**: a brief Aramaic phrase
+- **Даниил 2:4b–7:28**: арамейский нарративный раздел
+- **Ездра 4:8–6:18 и 7:12–26**: арамейские документальные материалы
+- **Иеремия 10:11**: единственный арамейский стих
+- **Бытие 31:47**: краткое арамейское выражение
 
-The substantial linguistic dual-language content reflects the substantial historical-cultural context of substantial Persian-period composition for various Daniel and Ezra materials, with substantial Aramaic operating as substantial *lingua franca* of the broader Persian Empire.
+Лингвистическое двуязычное содержание отражает историко-культурный контекст композиции персидского периода для различных материалов Даниила и Ездры, причём арамейский действовал как *lingua franca* более широкой Персидской империи.
 
-### The substantial composition period
+### Период композиции
 
-Mainstream scholarly engagement registers substantial composition period extending across approximately twelve centuries:
+Мейнстримная научная разработка регистрирует период композиции, простирающийся приблизительно на двенадцать столетий:
 
-- **The earliest layers**: traditionally dated to the substantial Late Bronze Age (c. 12th century BCE), with substantial scholarly debate regarding the dating of various Pentateuchal source-materials
-- **The principal composition period**: c. 10th-5th centuries BCE, with substantial monarchic-period and exilic-period composition operating substantially across the broader textual tradition
-- **The latest layers**: c. 4th-2nd centuries BCE, with various Persian-Hellenistic-period composition (Daniel, various other late materials)
-- **The canonization process**: c. 5th-2nd centuries BCE for various sections, with the substantial finalization of the broader canonical structure operating across the substantial period
+- **Самые ранние слои**: традиционно датируются поздним бронзовым веком (ок. XII в. до н. э.), с научной дискуссией о датировке различных источниковых материалов Пятикнижия
+- **Главный период композиции**: ок. X–V вв. до н. э., с монархической и постпленной композицией, действующей по более широкой текстовой традиции
+- **Самые поздние слои**: ок. IV–II вв. до н. э., с различной композицией персидско-эллинистического периода (Даниил, различные иные поздние материалы)
+- **Процесс канонизации**: ок. V–II вв. до н. э. для различных разделов, с финализацией более широкой канонической структуры по этому периоду
 
-### The substantial textual transmission
+### Текстовая передача
 
-The substantial Hebrew Bible has been preserved through substantial textual-transmission tradition spanning approximately three millennia.
+Еврейская Библия сохранена через текстово-передающую традицию протяжённостью приблизительно три тысячелетия.
 
-**The substantial Masoretic Text**. The substantial **Masoretic Text** (Hebrew: נֻסַּח הַמָּסוֹרָה, *Nusach ha-Masorah*) operates as the principal received text of the Hebrew Bible. The substantial textual tradition was developed across approximately the 6th-10th centuries CE by the substantial **Masoretes** (Hebrew: בַּעֲלֵי הַמָּסוֹרָה, *Ba'alei ha-Masorah*, "Masters of the Tradition") — substantial Jewish scholars principally in Tiberias and Babylon who developed substantial vocalization-and-cantillation systems for the previously-unvocalized consonantal Hebrew text. The substantial principal manuscript witnesses:
+**Масоретский текст**. **Масоретский текст** (ивр. נֻסַּח הַמָּסוֹרָה, *Нусах ха-Масора*) действует как главный полученный текст Еврейской Библии. Текстовая традиция разрабатывалась приблизительно с VI по X в. н. э. **масоретами** (ивр. בַּעֲלֵי הַמָּסוֹרָה, *Баалей ха-Масора*, «Хранители Традиции») — иудейскими учёными прежде всего в Тверии и Вавилонии, разработавшими системы вокализации и кантилляции для ранее невокализированного консонантного древнееврейского текста. Главные рукописные свидетели:
 
-- **The Aleppo Codex** (10th century CE): the substantial principal early Masoretic manuscript, partially preserved
-- **The Leningrad Codex** (1008 CE): the substantial complete early Masoretic manuscript, the principal basis for substantial modern critical editions
-- **Various Cairo Genizah fragments**: substantial earlier manuscript evidence
+- **Алеппский кодекс** (X в. н. э.): главная ранняя масоретская рукопись, сохранена частично
+- **Ленинградский кодекс** (1008 г. н. э.): полная ранняя масоретская рукопись, главная основа современных критических изданий
+- **Различные фрагменты Каирской генизы**: более ранние рукописные свидетельства
 
-**The substantial Dead Sea Scrolls evidence**. The substantial discovery of the Dead Sea Scrolls beginning in 1947 produced substantial textual evidence approximately one thousand years older than the previously-available Masoretic manuscripts. The substantial Qumran biblical scrolls register substantial textual content with substantial agreement with the subsequent Masoretic tradition while preserving substantial textual variants in various passages.
+**Свидетельства Свитков Мёртвого моря**. Открытие Свитков Мёртвого моря, начавшееся в 1947 году, произвело текстовое свидетельство приблизительно на тысячу лет старше ранее доступных масоретских рукописей. Кумранские библейские свитки регистрируют текстовое содержание со значительным согласием с последующей масоретской традицией, сохраняя при этом текстовые варианты в различных отрывках.
 
-**The substantial Septuagint translation**. The substantial **Septuagint** (Greek: Ἡ Μετάφρασις τῶν Ἑβδομήκοντα, *Hē Metaphrasis tōn Hebdomēkonta*, "The Translation of the Seventy"; abbreviated LXX) operates as the substantial 3rd-2nd-century-BCE Greek translation of the Hebrew Bible. The substantial translation was produced principally in Alexandria, Egypt, within the substantial Hellenistic Jewish community. The substantial Septuagint preserves substantial pre-Masoretic Hebrew textual tradition in various passages, with substantial textual-critical importance.
+**Перевод Септуагинты**. **Септуагинта** (греч. Ἡ Μετάφρασις τῶν Ἑβδομήκοντα, *Hē Metaphrasis tōn Hebdomēkonta*, «Перевод Семидесяти»; сокр. LXX) действует как греческий перевод Еврейской Библии III–II вв. до н. э. Перевод был произведён прежде всего в Александрии, Египет, в эллинистической иудейской общине. Септуагинта сохраняет домасоретскую древнееврейскую текстовую традицию в различных отрывках, имея существенное текстуально-критическое значение.
 
-**The substantial Samaritan Pentateuch**. The substantial **Samaritan Pentateuch** preserves substantial alternative textual tradition for the Pentateuch within the substantial Samaritan religious community. The substantial Samaritan Pentateuch registers substantial textual variants from the substantial Masoretic tradition, with substantial textual-critical importance.
+**Самаритянское Пятикнижие**. **Самаритянское Пятикнижие** сохраняет альтернативную текстовую традицию для Пятикнижия в самаритянской религиозной общине. Самаритянское Пятикнижие регистрирует текстовые варианты, отличные от масоретской традиции, имея существенное текстуально-критическое значение.
 
-### The substantial Sendy engagement with the Hebrew Bible
+### Работа Санди с Еврейской Библией
 
-**Jean Sendy** in *Ces dieux qui firent le ciel et la terre* (1969), *L'ère du Verseau* (1970), and various other works develops substantial complementary content on the broader Hebrew Bible framework. Sendy's substantial principal contribution: substantial systematic engagement with the substantial Hebrew Bible content through the broader Tradition framework, particularly the substantial *Elohim* plurality, the substantial *benei ha-Elohim* content, and the substantial alliance-contact specificity preserved in the substantial textual content. Sendy's substantial broader Tradition framework operates substantively within the corpus's broader Hebrew Bible engagement.
+**Жан Санди** в «Ces dieux qui firent le ciel et la terre» (1969), «L'ère du Verseau» (1970) и различных иных работах разрабатывает дополнительное содержание о более широкой рамке Еврейской Библии. Главный вклад Санди — систематическая работа с содержанием Еврейской Библии через более широкую рамку Традиции, в частности множественность *Элохим*, содержание *бней ха-Элохим* и специфичность контактов альянса, сохранённая в текстовом содержании. Более широкая рамка Традиции у Санди действует по существу внутри более широкой работы корпуса с Еврейской Библией.
 
-### The framework's relationship to the broader landscape
+### Отношение системы к более широкому ландшафту
 
-The Wheel of Heaven corpus's Hebrew Bible framework is positioned within this scholarly landscape as follows: substantially aligned with mainstream Hebrew Bible scholarship at the textual-philological level (recognizing the substantial scholarly documentation of the substantial textual content); substantially aligned with mainstream archaeological-historical scholarship at the substantial historical-context level (recognizing the substantial scholarly documentation of the substantial historical-cultural background); substantially aligned with the substantial textual-criticism scholarship at the substantial textual-history level (recognizing the substantial scholarly documentation of the substantial transmission history); substantively distinct from mainstream theological scholarship at the interpretive level (the framework's specific historical-record reading operates substantively beyond the conventional religious-mythological treatment); substantially aligned with various alternative-history scholarly traditions (Sitchin's Anunnaki framework, Wallis's broader engagement, Biglino's strict-translational approach) at the underlying-historical-event-reading level while operating from distinct source-material warrant principally drawn from the Raëlian source material.
+Рамка Еврейской Библии в корпусе Колеса Небес позиционирована в этом научном ландшафте следующим образом: по существу выровнена с мейнстримной наукой о Еврейской Библии на текстуально-филологическом уровне (с признанием научной документации текстового содержания); по существу выровнена с мейнстримной археолого-исторической наукой на уровне историко-культурного контекста (с признанием научной документации историко-культурного фона); по существу выровнена с текстуально-критической наукой на уровне текстовой истории (с признанием научной документации истории передачи); по существу отлична от мейнстримной теологической науки на интерпретационном уровне (специфическое прочтение системы как исторического документа действует по существу за пределами конвенционального религиозно-мифологического обращения); по существу выровнена с различными альтернативно-историческими научными традициями (рамка Ануннаков у Ситчина, более широкая работа Уоллиса, строго-переводческий подход Бильино) на уровне прочтения лежащих в основе исторических событий, действуя при этом из иной источниковой опоры, опирающейся прежде всего на раэлианский материал.
 
-## In primary sources
+## В первичных источниках
 
-The framework's principal primary-source material registers the substantial Hebrew Bible's foundational status across multiple Yahweh-articulated passages and substantial subsequent corpus development.
+Главный первично-источниковый материал системы регистрирует основополагающий статус Еврейской Библии в нескольких сформулированных Яхве отрывках и в последующей корпусной разработке.
 
-### The principal "historical record" passage
+### Главный отрывок «исторического документа»
 
-The substantial principal source-material passage establishing the framework's distinctive historical-record reading appears in the substantial corpus articulation of the broader revelation-content:
+Главный источниковый отрывок, устанавливающий отличительное прочтение системы как исторического документа, появляется в корпусной артикуляции более широкого содержания откровения:
 
-> *"The second claim is that the Hebrew Bible and the other major religious traditions of the world preserve accurate historical memory of the alliance's interventions, in forms that reflect the pre-scientific vocabularies of their authors but that can be decoded by a scientifically mature reader. The specific decoding the source provides — Genesis 1 as genetic engineering rather than supernatural creation, the Nephilim as alliance-human hybrids, the flood as a nuclear cataclysm, Sinai as a formal alliance audience, the parted waters as directed-beam operations, the miracles of Jesus as scientific applications of advanced technology, the Elohim as plural rather than singular — is the corpus's foundational hermeneutic. The Hebrew Bible is not a book of religious myths that require either literal belief or allegorical reinterpretation; it is a historical record, imperfect in its pre-scientific vocabulary but substantially accurate in its content, that can be read directly once the hermeneutic key is available."*
+> «*Второе утверждение в том, что Еврейская Библия и другие крупные религиозные традиции мира сохраняют точную историческую память об интервенциях альянса в формах, отражающих донаучные словари их авторов, но поддающихся расшифровке научно зрелым читателем. Конкретная расшифровка, предоставляемая источником, — Бытие 1 как генетическая инженерия, а не сверхъестественное творение; Нефилим как гибриды альянса и человека; потоп как ядерный катаклизм; Синай как формальная аудиенция альянса; разделение вод как операции направленного луча; чудеса Иисуса как научные приложения продвинутой технологии; Элохим как множественные, а не единственный, — это основополагающая герменевтика корпуса. Еврейская Библия — не книга религиозных мифов, требующих либо буквальной веры, либо аллегорической переинтерпретации; это исторический документ, несовершенный в своём донаучном словаре, но содержательно точный, который может быть прочитан напрямую, как только доступен герменевтический ключ.*»
 
-The passage establishes the framework's principal structural and operational components:
+Отрывок устанавливает главные структурные и операционные компоненты системы:
 
-**1. The substantial historical-record framing**. The substantial Hebrew Bible operates as substantial accurate historical memory rather than as substantial religious-mythological invention.
+**1. Обрамление как исторический документ**. Еврейская Библия действует как точная историческая память, а не как религиозно-мифологическое изобретение.
 
-**2. The substantial pre-scientific-vocabulary content**. The substantial human authors recorded what they observed in the substantial pre-scientific vocabulary available to them, with substantial decodable layer operating across the broader textual content.
+**2. Содержание донаучного словаря**. Человеческие авторы записывали то, что наблюдали, в донаучном словаре, доступном им, с расшифровываемым слоем, действующим по более широкому текстовому содержанию.
 
-**3. The substantial decoding hermeneutic**. The substantial framework provides substantial systematic hermeneutic key for substantive engagement with the substantial textual content — Genesis 1 as genetic engineering, the Nephilim as alliance-human hybrids, the flood as nuclear cataclysm, Sinai as formal alliance audience, etc.
+**3. Герменевтика расшифровки**. Система предоставляет систематический герменевтический ключ для содержательной работы с текстовым содержанием — Бытие 1 как генетическая инженерия, Нефилим как гибриды альянса и человека, потоп как ядерный катаклизм, Синай как формальная аудиенция альянса и т. д.
 
-**4. The substantial scientifically-mature-reader contextualization**. The substantial decoding requires substantial scientific maturity that the substantial Aquarian-age contemporary reader possesses but that previous generations lacked.
+**4. Контекстуализация для научно зрелого читателя**. Расшифровка требует научной зрелости, которой обладает современный читатель эпохи Водолея, но которой не обладали предыдущие поколения.
 
-### The substantial centrality passage
+### Отрывок о центральности
 
-The substantial principal source-material passage establishing the framework's substantial centrality position appears in the corpus articulation:
+Главный источниковый отрывок, устанавливающий позицию центральности в системе, появляется в корпусной артикуляции:
 
-> *"At the structural center of the synthesis is the Hebrew tradition. The Hebrew Bible is, on the corpus's reading, the most direct and least mediated record of the alliance's communication with Earth. The text was produced by a specific lineage — the Eden lineage, the descendants of the original alliance-cultivated population in the Eden geographic location — across the long arc from the Taurus age's reconstruction through the Aries age's prophetic tradition. The text's authors had direct access to the alliance's officers (the Yahweh contacts, the malakhim visitations, the dictation events at Sinai and elsewhere) and recorded what they were given in the Hebrew vocabulary available to them. The text is imperfect — the Hebrew authors did not always understand what they were recording, the various redactions across the centuries introduced layers of cultural framing on top of the original content, and the eventual canonization process selected specific texts while excluding others — but the text is, on the corpus's reading, substantially what it presents itself as: the documentary record of the alliance's relationship with the Eden lineage across the post-flood millennia."*
+> «*В структурном центре синтеза находится еврейская традиция. Еврейская Библия, по прочтению корпуса, — самая прямая и наименее опосредованная запись общения альянса с Землёй. Текст произведён конкретной линией — эденской линией, потомками изначальной альянсом-возделанной популяции в географическом месте Эдема, — на длительной дуге от реконструкции Эпохи Тельца через пророческую традицию Эпохи Овна. Авторы текста имели прямой доступ к офицерам альянса (контакты с Яхве, посещения малахим, события диктовки на Синае и в других местах) и записывали полученное в том древнееврейском словаре, который был им доступен. Текст несовершенен — еврейские авторы не всегда понимали то, что записывали; различные редактуры на протяжении столетий вводили слои культурного обрамления поверх исходного содержания; а возможная канонизация выбирала конкретные тексты, исключая другие, — но текст, по прочтению корпуса, по сути таков, каким он сам себя представляет: документальная запись отношений альянса с эденской линией в послепотопные тысячелетия.*»
 
-The passage establishes the substantial centrality content:
+Отрывок устанавливает содержание центральности:
 
-**1. The substantial structural-center position**. The Hebrew Bible operates at the substantial structural center of the broader corpus asymmetric synthesis.
+**1. Позиция структурного центра**. Еврейская Библия действует в структурном центре более широкого асимметричного синтеза корпуса.
 
-**2. The substantial direct-and-least-mediated character**. The Hebrew Bible operates as substantively the most direct and least mediated record of the alliance's communication with Earth.
+**2. Прямой и наименее опосредованный характер**. Еврейская Библия действует как по сути самая прямая и наименее опосредованная запись общения альянса с Землёй.
 
-**3. The substantial Eden-lineage genealogical specificity**. The substantial textual content was produced by the substantial Eden-lineage genealogical line across the substantial long arc from the Taurus-age reconstruction through the Aries-age prophetic tradition.
+**3. Генеалогическая специфичность эденской линии**. Текстовое содержание произведено эденской генеалогической линией на длительной дуге от реконструкции Эпохи Тельца через пророческую традицию Эпохи Овна.
 
-**4. The substantial direct-access content**. The substantial textual authors had substantial direct access to the alliance's officers — the substantial Yahweh contacts, the substantial *malakhim* visitations, the substantial dictation events at Sinai and elsewhere.
+**4. Содержание прямого доступа**. Авторы текста имели прямой доступ к офицерам альянса — контакты с Яхве, посещения *малахим*, события диктовки на Синае и в других местах.
 
-**5. The substantial imperfection content**. The substantial textual content registers substantial imperfections — the substantial pre-scientific vocabulary, the substantial redactional layering, the substantial canonization selection — but operates substantively as the substantial documentary record of the alliance's relationship with the Eden lineage.
+**5. Содержание несовершенства**. Текстовое содержание регистрирует несовершенства — донаучный словарь, редакторское наслоение, канонизационный отбор, — но действует по сути как документальная запись отношений альянса с эденской линией.
 
-### The substantial "Israel-team" passage
+### Отрывок о команде «Израиль»
 
-The substantial corpus articulation of the substantial Israel-team genealogical specificity:
+Корпусная артикуляция генеалогической специфичности команды «Израиль»:
 
-> *"What the source does report — what the chapter must register without backing away from — is that the Hebrew biblical tradition, which preserves the most detailed surviving narrative of any of the seven teams' work, is the literature of one specific team whose particular accomplishment was noted at the time. This is consistent with the broader pattern in which the Israel team's humans, more than any other team's, became the cultural carriers of the creation memory. The Hebrew Bible is the record of that carrying. Its centrality to the corpus's interpretive framework reflects the historical accident — or the historical design — that this team's humans preserved their origin story with greater fidelity than the other teams' humans preserved theirs. The other teams' humans had their own creation traditions; many of those traditions survive in fragmentary form in the comparative-mythology material the Preamble surveyed. The Hebrew Bible is one tradition among several, not a uniquely privileged source. It is, however, the most complete and the most explicitly developed, which is why this corpus reads it most closely."*
+> «*Что источник действительно сообщает — что глава должна зарегистрировать без отступления, — это то, что еврейская библейская традиция, сохраняющая наиболее подробный из выживших нарративов о работе любой из семи команд, есть литература одной конкретной команды, чьё особое достижение было отмечено в своё время. Это согласуется с более широкой закономерностью, в которой люди команды «Израиль» — более, чем люди любой другой команды, — стали культурными носителями памяти о творении. Еврейская Библия — запись этого ношения. Её центральность для интерпретационной рамки корпуса отражает историческую случайность — или исторический замысел, — состоящую в том, что люди этой команды сохранили свою историю происхождения с большей верностью, чем люди других команд сохранили свои. У людей других команд были свои традиции творения; многие из этих традиций сохранились во фрагментарной форме в сравнительно-мифологическом материале, обзор которого дала Преамбула. Еврейская Библия — одна из нескольких традиций, а не уникально привилегированный источник. Однако она наиболее полна и наиболее эксплицитно развита, и именно поэтому этот корпус читает её ближе всего.*»
 
-The passage establishes the substantial nuance: the Hebrew Bible operates as the literature of one specific creator-team's substantial work rather than as substantial unique-privileging content, with the substantial preservation-fidelity operating as the substantial reason for the corpus's substantial centrality positioning.
+Отрывок устанавливает нюанс: Еврейская Библия действует как литература работы одной конкретной команды-творца, а не как уникально привилегированное содержание, причём верность сохранения действует как причина позиционирования центральности в корпусе.
 
-### The substantial "first mistake of the Church" passage
+### Отрывок о «первой ошибке Церкви»
 
-The substantial principal source-material passage establishing the framework's substantial translation-mistake reading appears in *Message from the Designers*:
+Главный источниковый отрывок, устанавливающий системное прочтение переводческих ошибок, появляется в «Послании от Создателей»:
 
-> *"Its mistakes have been great, particularly when it injected too much of the supernatural into the truth, and wrongly translated the scriptures in ordinary Bibles. It replaced the term 'Elohim', which refers to the creators, with a singular term 'God', whereas in fact Elohim in Hebrew is the plural of Eloha. In this way, the Church transformed the creators into a single incomprehensible God."*
+> «*Его ошибки были велики, особенно когда оно влило слишком много сверхъестественного в истину и неверно перевело Писания в обычных Библиях. Оно заменило термин «Элохим», обозначающий творцов, единичным термином «Бог», тогда как в действительности Элохим в древнееврейском — множественное число от Элоах. Тем самым Церковь превратила творцов в единого непостижимого Бога.*»
 
-The passage establishes the framework's substantial translation-mistake reading. The detailed treatment lives in the [Plurality of Gods](../plurality-of-gods/) entry; the Hebrew Bible entry's specific contribution is registering the broader translation-history landscape within which this specific mistake operates.
+Отрывок устанавливает системное прочтение переводческой ошибки. Подробная разработка располагается в статье {% wiki(slug="plurality-of-gods") %}Множественность богов{% end %}; специфический вклад статьи о Еврейской Библии — регистрация более широкого ландшафта истории переводов, внутри которого действует эта конкретная ошибка.
 
-### The substantial "wick" passage
+### Отрывок о «фитиле»
 
-The substantial corpus articulation of the broader Christian-tradition assessment registers substantial nuance:
+Корпусная артикуляция более широкой оценки христианской традиции регистрирует нюанс:
 
-> *"The 'wick' is weakening. It has accomplished its mission, and it is time for it to disappear. It has made mistakes and has enriched itself at the expense of the truth, without trying to interpret it in a clear enough way for people of this era. But do not be too hard on it, for thanks to the Church, the word of the Bible, which is a witness to the truth, has spread throughout the world."*
+> «*«Фитиль» ослабевает. Он выполнил свою миссию, и пришло время ему исчезнуть. Он совершал ошибки и обогащался за счёт истины, не пытаясь интерпретировать её достаточно ясно для людей этой эпохи. Но не будьте слишком суровы к нему, ибо благодаря Церкви слово Библии, которое есть свидетель истины, распространилось по всему миру.*»
 
-The passage registers substantial framework nuance: while the substantial Christian-tradition translation-and-theological mistakes are substantively registered, the substantial broader function of the Church in spreading the substantial Bible content "throughout the world" is also registered substantively. The substantial Hebrew Bible operates as the substantial textual content the Church has substantively distributed across the broader global landscape.
+Отрывок регистрирует системный нюанс: хотя переводческие и богословские ошибки христианской традиции по сути регистрируются, более широкая функция Церкви в распространении содержания Библии «по всему миру» также регистрируется по сути. Еврейская Библия действует как то текстовое содержание, которое Церковь по сути распределила по более широкому глобальному ландшафту.
 
-### The broader source-material context
+### Более широкий источниковый контекст
 
-The Hebrew Bible framework operates within the broader Raëlian source-material context, with substantial supporting material across multiple passages:
+Рамка Еврейской Библии действует внутри более широкого раэлианского источникового контекста, со вспомогательным материалом в нескольких отрывках:
 
-- The substantial source's chapter-by-chapter engagement with substantial Hebrew Bible passages registers substantial framework engagement
-- The substantial *timeline.epub* substantial chapter-by-chapter Hebrew exegesis articulates substantial framework reading
-- The various individual entries (Genesis, Adam and Eve, Eden, Antediluvian, Great Flood, Theomachy, Babel, Sodom and Gomorrah, Moses, Abraham, Noah, Elohim, Yahweh, etc.) articulate substantial entry-specific framework readings
+- Глава за главой работа источника с конкретными отрывками Еврейской Библии регистрирует системную работу
+- Подробная глава за главой экзегеза древнееврейского текста в *timeline.epub* артикулирует системное прочтение
+- Отдельные статьи (Бытие, Адам и Ева, Эдем, Допотопный период, Великий Потоп, Теомахия, Вавилон, Содом и Гоморра, Моисей, Авраам, Ной, Элохим, Яхве и т. д.) артикулируют специфичное для статьи системное прочтение
 
-## The Hebrew Bible's content
+## Содержание Еврейской Библии
 
-### The substantial canonical structure within the framework
+### Каноническая структура внутри системы
 
-The framework operates substantively across the substantial Hebrew Bible canonical structure.
+Система действует по сути по канонической структуре Еврейской Библии.
 
-**The Torah / Pentateuch within the framework**. The substantial Torah operates as substantial primary content for the broader corpus framework:
+**Тора / Пятикнижие внутри системы**. Тора действует как первичное содержание для более широкой системной рамки:
 
-- **Genesis 1-11 (the primeval history)**: substantial framework engagement across multiple corpus entries (Genesis, Adam and Eve, Eden, Antediluvian, Great Flood, Babel, the various creator-figure entries)
-- **Genesis 12-50 (the patriarchal narratives)**: substantial framework engagement (Abraham, Sodom and Gomorrah, Joseph, the various Eden-lineage genealogical content)
-- **Exodus**: substantial framework engagement (Moses, the substantial Sinai covenant, the substantial alliance-audience content)
-- **Leviticus**: substantial framework engagement with substantial priestly-legislative content as substantial alliance-instructed protocol
-- **Numbers**: substantial framework engagement with substantial wilderness-period content
-- **Deuteronomy**: substantial framework engagement with substantial covenant-renewal content
+- **Бытие 1–11 (первобытная история)**: системная работа в нескольких статьях корпуса (Бытие, Адам и Ева, Эдем, Допотопный период, Великий Потоп, Вавилон, различные статьи о фигурах-творцах)
+- **Бытие 12–50 (патриархальные нарративы)**: системная работа (Авраам, Содом и Гоморра, Иосиф, различное генеалогическое содержание эденской линии)
+- **Исход**: системная работа (Моисей, синайский завет, содержание аудиенции альянса)
+- **Левит**: системная работа со священнически-законодательным содержанием как с альянсом-инструктированным протоколом
+- **Числа**: системная работа с содержанием периода пустыни
+- **Второзаконие**: системная работа с содержанием обновления завета
 
-**The Nevi'im / Prophets within the framework**. The substantial Nevi'im operates as substantial subsequent framework content:
+**Невиим / Пророки внутри системы**. Невиим действует как последующее системное содержание:
 
-- **Former Prophets** (Joshua, Judges, Samuel, Kings): substantial framework engagement with the substantial monarchic period and the substantial broader alliance-relationship development
-- **Latter Prophets** (Isaiah, Jeremiah, Ezekiel, the Twelve): substantial framework engagement with the substantial prophetic tradition and the substantial alliance-mediated communication
+- **Ранние Пророки** (Иисус Навин, Судьи, Самуил, Цари): системная работа с монархическим периодом и более широким развитием отношений с альянсом
+- **Поздние Пророки** (Исайя, Иеремия, Иезекииль, Двенадцать): системная работа с пророческой традицией и опосредованной альянсом коммуникацией
 
-**The Ketuvim / Writings within the framework**. The substantial Ketuvim operates as substantial diverse-content framework engagement:
+**Кетувим / Писания внутри системы**. Кетувим действует как разнородная системная работа:
 
-- **Psalms**: substantial framework engagement with substantial liturgical-poetic content registering substantial alliance-relationship
-- **Job**: substantial framework engagement with the substantial divine-council scenes (Job 1-2) registering substantial Council operational structure
-- **Daniel**: substantial framework engagement with the substantial apocalyptic content registering substantial alliance-prophetic communication
-- **Various other Ketuvim books**: substantial framework engagement with various specific content
+- **Псалтирь**: системная работа с литургико-поэтическим содержанием, регистрирующим отношения с альянсом
+- **Иов**: системная работа со сценами божественного совета (Иов 1–2), регистрирующими операционную структуру Совета
+- **Даниил**: системная работа с апокалиптическим содержанием, регистрирующим опосредованную альянсом пророческую коммуникацию
+- **Различные иные книги Кетувим**: системная работа с различным конкретным содержанием
 
-### The substantial framework hermeneutic
+### Системная герменевтика
 
-The substantial framework articulates substantial systematic hermeneutic for substantive engagement with the substantial Hebrew Bible content.
+Система артикулирует систематическую герменевтику для содержательной работы с содержанием Еврейской Библии.
 
-**The substantial principal hermeneutic moves**. The substantial framework articulates substantial principal interpretive moves across the broader textual tradition:
+**Главные герменевтические ходы**. Система артикулирует главные интерпретационные ходы по более широкой текстовой традиции:
 
-- **Genesis 1 as substantial genetic-engineering account** rather than substantial supernatural-creation account
-- **The substantial *Elohim* as substantial actual plural beings** rather than substantial singular God (treated principally in the [Plurality of Gods](../plurality-of-gods/) entry)
-- **The substantial *malakhim* as substantial alliance personnel** rather than substantial supernatural beings
-- **The substantial *benei ha-Elohim* as substantial alliance-human-contact content** (treated principally in the [Watchers](../watchers/) entry when written and the [Antediluvian](../antediluvian/) entry)
-- **The substantial Nephilim as substantial alliance-human hybrid offspring** rather than substantial supernatural giants
-- **The substantial flood as substantial nuclear cataclysm** (treated principally in the [Great Flood](../great-flood/) entry)
-- **The substantial Sinai event as substantial formal alliance audience** rather than substantial supernatural theophany
-- **The substantial parted waters as substantial directed-beam operations** rather than substantial supernatural intervention
-- **The substantial Sodom destruction as substantial atomic strike** (treated principally in the [Sodom and Gomorrah](../sodom-and-gomorrah/) entry)
-- **The substantial Babel intervention as substantial Council operational dispersion** (treated principally in the [Babel](../babel/) entry)
-- **The substantial Tetragrammaton as substantial Council-president personal designation** (treated principally in the [Yahweh](../yahweh/) and [Tetragrammaton](../tetragrammaton/) entries)
+- **Бытие 1 как рассказ о генетической инженерии**, а не как рассказ о сверхъестественном творении
+- **Элохим как действительные множественные существа**, а не как единственный Бог (рассматривается главным образом в статье {% wiki(slug="plurality-of-gods") %}Множественность богов{% end %})
+- **Малахим как персонал альянса**, а не как сверхъестественные существа
+- **Бней ха-Элохим как содержание о контактах альянса с человеком** (рассматривается главным образом в статье {% wiki(slug="watchers") %}Стражи{% end %}, когда она будет написана, и в статье {% wiki(slug="antediluvian") %}Допотопный период{% end %})
+- **Нефилим как гибридное потомство альянса и человека**, а не как сверхъестественные великаны
+- **Потоп как ядерный катаклизм** (рассматривается главным образом в статье {% wiki(slug="great-flood") %}Великий Потоп{% end %})
+- **Синайское событие как формальная аудиенция альянса**, а не как сверхъестественная теофания
+- **Разделение вод как операции направленного луча**, а не как сверхъестественное вмешательство
+- **Уничтожение Содома как атомный удар** (рассматривается главным образом в статье {% wiki(slug="sodom-and-gomorrah") %}Содом и Гоморра{% end %})
+- **Вмешательство при Вавилоне как операционное рассеяние Совета** (рассматривается главным образом в статье {% wiki(slug="babel") %}Вавилон{% end %})
+- **Тетраграмматон как личное обозначение президента Совета** (рассматривается главным образом в статьях {% wiki(slug="yahweh") %}Яхве{% end %} и {% wiki(slug="tetragrammaton") %}Тетраграмматон{% end %})
 
-**The substantial decoding methodology**. The substantial framework operates through substantial systematic textual engagement:
+**Методология расшифровки**. Система действует через систематическую текстовую работу:
 
-1. **Substantial original-language priority**: substantial reading of the substantial Hebrew text rather than substantial reliance on translations
-2. **Substantial grammatical attention**: substantial attention to substantial grammatical features (plural forms, verb tenses, syntactic structures)
-3. **Substantial vocabulary-fidelity**: substantial attention to the substantial actual semantic content of substantial Hebrew terms
-4. **Substantial cross-referencing**: substantial systematic cross-referencing across the broader Hebrew Bible content
-5. **Substantial cross-cultural integration**: substantial integration with substantial parallel content from substantial other religious-traditional sources
+1. **Приоритет оригинального языка**: чтение древнееврейского текста, а не опора на переводы
+2. **Грамматическое внимание**: внимание к грамматическим чертам (множественные формы, времена глаголов, синтаксические структуры)
+3. **Верность словарю**: внимание к действительному семантическому содержанию древнееврейских терминов
+4. **Перекрёстные ссылки**: систематические перекрёстные ссылки по более широкому содержанию Еврейской Библии
+5. **Кросс-культурная интеграция**: интеграция с параллельным содержанием из иных религиозно-традиционных источников
 
-### The substantial translation-mistake landscape
+### Ландшафт переводческих ошибок
 
-The substantial framework articulates substantial systematic translation-mistake landscape across the broader Christian-tradition translation history.
+Система артикулирует систематический ландшафт переводческих ошибок по более широкой христианско-традиционной истории переводов.
 
-**The substantial *Elohim* → singular "God" mistake**. The substantial principal translation mistake operating across substantially the entire Christian-tradition translation history. The detailed treatment lives in the [Plurality of Gods](../plurality-of-gods/) entry.
+**Ошибка *Элохим* → единственного «Бога»**. Главная переводческая ошибка, действующая по сути по всей христианско-традиционной истории переводов. Подробная разработка располагается в статье {% wiki(slug="plurality-of-gods") %}Множественность богов{% end %}.
 
-**The substantial *taninim* → "whales" mistake**. The substantial Genesis 1:21 translation choice operating principally through the Septuagint κῆτος (*ketos*, "sea creature") rendering and subsequent translations. The detailed treatment lives in the [Dragons](../dragons/) entry. The substantial original Hebrew *taninim* operates as substantial plural of *tannin* meaning substantial "dragons" or "sea-serpents," with the substantial translation softening operating across the broader translation tradition.
+**Ошибка *танниним* → «китов»**. Переводческое решение для Бытия 1:21, действующее прежде всего через септуагинтную передачу κῆτος (*ketos*, «морское существо») и последующие переводы. Подробная разработка располагается в статье {% wiki(slug="dragons") %}Драконы{% end %}. Оригинальное древнееврейское *танниним* действует как множественное число от *таннин* в значении «драконы» или «морские змеи», причём переводческое смягчение действует по более широкой переводческой традиции.
 
-**The substantial *malakhim* → "angels" mistake**. The substantial Hebrew *malakhim* (מַלְאָכִים, plural of *malakh*) operates as substantial standard Hebrew designation for substantial "messengers" rather than substantial supernatural beings. The substantial Christian-tradition rendering as "angels" (with substantial subsequent supernatural-overlay development) operates as substantial obscuring of the substantial messenger-personnel operational content.
+**Ошибка *малахим* → «ангелов»**. Древнееврейское *малахим* (מַלְאָכִים, мн. ч. от *малах*) действует как стандартное древнееврейское обозначение «вестников», а не сверхъестественных существ. Христианско-традиционная передача как «ангелов» (с последующим супернатуральным наложением) действует как затемнение операционного содержания о вестниках-персонале.
 
-**The substantial *nachash* → mere "serpent" mistake**. The substantial Hebrew *nachash* (נָחָשׁ) operates within substantial broader semantic field with substantial multiple operational meanings. The substantial Christian-tradition rendering as mere "serpent" operating principally through the substantial Genesis 3 narrative substantially obscures the substantial Lucifer-faction operational content. The detailed treatment lives in the [Serpent](../serpent/) entry.
+**Ошибка *нахаш* → просто «змея»**. Древнееврейское *нахаш* (נָחָשׁ) действует в более широком семантическом поле с несколькими операционными значениями. Христианско-традиционная передача как просто «змея», действующая прежде всего через нарратив Бытия 3, по сути затемняет операционное содержание о фракции Люцифера. Подробная разработка располагается в статье {% wiki(slug="serpent") %}Змей{% end %}.
 
-**The substantial *benei ha-Elohim* → "sons of God" mistake**. The substantial Hebrew *benei ha-Elohim* (בְּנֵי־הָאֱלֹהִים, "sons of the Elohim") preserves substantial plural reference. The substantial Christian-tradition rendering frequently obscures the substantial plural content through substantial various translation choices.
+**Ошибка *бней ха-Элохим* → «сынов Божиих»**. Древнееврейское *бней ха-Элохим* (בְּנֵי־הָאֱלֹהִים, «сыны Элохим») сохраняет множественную референцию. Христианско-традиционная передача часто затемняет множественное содержание через различные переводческие решения.
 
-**The substantial *Adam* → "man" naming mistake**. The substantial Hebrew *Adam* (אָדָם) operates substantively beyond the substantial individual-name content as substantial collective designation for substantial humanity (related to the substantial *adamah* "earth" / "ground" content). The substantial Christian-tradition translation has substantively obscured the substantial collective content in various passages.
+**Ошибка именования *Адам* → «человек»**. Древнееврейское *Адам* (אָדָם) действует по сути за пределами содержания индивидуального имени как собирательное обозначение для человечества (родственное содержанию *адама* «земля» / «почва»). Христианско-традиционный перевод по сути затемнил собирательное содержание в различных отрывках.
 
-**The substantial *ruach* → "spirit" mistake**. The substantial Hebrew *ruach* (רוּחַ) operates substantively within substantial broader semantic field including "wind," "breath," and "spirit." The substantial Christian-tradition rendering as merely "spirit" with substantial supernatural overlay has substantively obscured the substantial broader semantic content.
+**Ошибка *руах* → «дух»**. Древнееврейское *руах* (רוּחַ) действует по сути в более широком семантическом поле, включающем «ветер», «дыхание» и «дух». Христианско-традиционная передача просто как «дух» со супернатуральным наложением по сути затемнила более широкое семантическое содержание.
 
-**Various other translation mistakes**. The substantial broader translation-mistake landscape extends substantively beyond these substantial principal instances, with substantial systematic obscuring operating across the broader Christian-tradition translation history.
+**Различные иные переводческие ошибки**. Более широкий ландшафт переводческих ошибок простирается по сути за пределы этих главных случаев, с систематическим затемнением, действующим по более широкой христианско-традиционной истории переводов.
 
-### The substantial textual-imperfection content
+### Содержание текстового несовершенства
 
-The substantial framework registers substantial textual imperfection within the substantial broader centrality positioning.
+Система регистрирует текстовое несовершенство внутри более широкого позиционирования центральности.
 
-**The substantial pre-scientific-vocabulary imperfection**. The substantial human authors did not always substantively understand what they were recording, with substantial pre-scientific vocabulary operating as substantial limitation on substantial recording-fidelity.
+**Несовершенство донаучного словаря**. Человеческие авторы не всегда по сути понимали то, что записывали, причём донаучный словарь действует как ограничение на верность записи.
 
-**The substantial redactional-layering imperfection**. The substantial various redactions across the centuries introduced substantial layers of cultural framing on top of the original content, with substantial subsequent monotheistic-theological editing operating substantively across the broader textual tradition.
+**Несовершенство редакторского наслоения**. Различные редактуры на протяжении столетий вводили слои культурного обрамления поверх исходного содержания, причём последующее монотеистико-богословское редактирование действует по сути по более широкой текстовой традиции.
 
-**The substantial canonization-selection imperfection**. The substantial eventual canonization process selected specific texts while excluding others, with substantial significant content (the substantial Book of Enoch, various other apocryphal-pseudepigraphal materials) being excluded from the substantial Jewish canonical tradition. The substantial Book of Enoch exclusion is treated principally in the substantial [Watchers](../watchers/) entry when written.
+**Несовершенство канонизационного отбора**. Возможный процесс канонизации выбирал конкретные тексты, исключая другие, причём значимое содержание (Книга Еноха, различные иные апокрифико-псевдоэпиграфические материалы) было исключено из иудейской канонической традиции. Исключение Книги Еноха рассматривается главным образом в статье {% wiki(slug="watchers") %}Стражи{% end %}, когда она будет написана.
 
-**The substantial substantive-preservation despite imperfection**. The substantial framework articulation: despite the substantial imperfections, the substantial textual content operates substantively as the substantial documentary record of the alliance's relationship with the Eden lineage. The substantial imperfections register substantial decodable layers rather than substantial fundamental-obstacles to substantive understanding.
+**Содержательное сохранение несмотря на несовершенство**. Системная артикуляция: несмотря на несовершенства, текстовое содержание действует по сути как документальная запись отношений альянса с эденской линией. Несовершенства регистрируют расшифровываемые слои, а не фундаментальные препятствия к содержательному пониманию.
 
-### The substantial Israel-team genealogical specificity
+### Генеалогическая специфичность команды «Израиль»
 
-The substantial framework articulates substantial Israel-team genealogical specificity within the broader cosmological-creator framework.
+Система артикулирует генеалогическую специфичность команды «Израиль» внутри более широкой космологическо-творческой рамки.
 
-**The substantial seven-team creation structure**. The substantial framework registers the substantial Elohim creation project as operating through substantial seven-team structure, with the substantial seven creator-teams operating across the substantial seven creation days / precessional ages. The detailed treatment lives in the [Genesis](../genesis/) entry.
+**Структура семи команд творения**. Система регистрирует творческий проект Элохим как действующий через структуру семи команд, причём семь команд-творцов действуют по семи дням творения / прецессионным эпохам. Подробная разработка располагается в статье {% wiki(slug="genesis") %}Бытие{% end %}.
 
-**The substantial Israel-team specific position**. The substantial Hebrew Bible operates as the substantial documentary record of the substantial Israel-team's specific work, with the substantial Eden-lineage genealogical line operating as the substantial cultural carrier of the broader creation memory.
+**Конкретная позиция команды «Израиль»**. Еврейская Библия действует как документальная запись конкретной работы команды «Израиль», причём эденская генеалогическая линия действует как культурный носитель более широкой памяти о творении.
 
-**The substantial preservation-fidelity content**. The substantial Israel-team's humans, more than any other team's, became the substantial cultural carriers of the substantial creation memory. The substantial preservation-fidelity reflects the substantial historical-developmental specifics of the substantial Eden-lineage genealogical line — substantial consistent population-continuity across the post-flood millennia, substantial religious-cultural-textual tradition development, substantial alliance-officer direct contact across the broader period.
+**Содержание верности сохранения**. Люди команды «Израиль», более чем люди любой другой команды, стали культурными носителями памяти о творении. Верность сохранения отражает историко-развитийные особенности эденской генеалогической линии — последовательную непрерывность популяции в послепотопные тысячелетия, развитие религиозно-культурно-текстовой традиции, прямой контакт с офицерами альянса по более широкому периоду.
 
-**The substantial other-teams comparative content**. The substantial other six creator-teams' humans had their own substantial creation traditions, with substantial fragments surviving substantively in the substantial comparative-mythology material across various other religious-cultural traditions. The substantial detailed cross-cultural comparative content lives in the various comparative entries (Genesis, Antediluvian, Great Flood, etc.).
+**Сравнительное содержание других команд**. У людей других шести команд-творцов были собственные традиции творения, причём фрагменты сохраняются по сути в сравнительно-мифологическом материале по различным иным религиозно-культурным традициям. Подробное кросс-культурное сравнительное содержание располагается в различных сравнительных статьях (Бытие, Допотопный период, Великий Потоп и т. д.).
 
-## Application across the corpus
+## Применение по корпусу
 
-The Hebrew Bible operates as substantial source-textual foundation across virtually every corpus framework entry.
+Еврейская Библия действует как источниковое текстовое основание почти каждой системной статьи корпуса.
 
-### The Genesis entry
+### Статья «Бытие»
 
-The Hebrew Bible Genesis content operates as substantial foundational content for the broader corpus framework. The detailed treatment of Genesis lives in the [Genesis](../genesis/) entry; the Hebrew Bible entry's specific contribution is registering the substantial broader textual-canonical context within which Genesis operates.
+Содержание Бытия в Еврейской Библии действует как основополагающее содержание для более широкой системной рамки корпуса. Подробная разработка Бытия располагается в статье {% wiki(slug="genesis") %}Бытие{% end %}; специфический вклад статьи о Еврейской Библии — регистрация более широкого текстово-канонического контекста, в котором действует Бытие.
 
-### The various individual narrative-event entries
+### Различные статьи об отдельных событиях нарратива
 
-The Hebrew Bible operates as substantial source-textual foundation for the various individual narrative-event entries: [Adam and Eve](../adam-and-eve/), [Eden](../eden/), [Antediluvian](../antediluvian/), [Great Flood](../great-flood/), [Theomachy](../theomachy/), [Babel](../babel/), [Sodom and Gomorrah](../sodom-and-gomorrah/), various others.
+Еврейская Библия действует как источниковое текстовое основание для различных статей об отдельных событиях нарратива: {% wiki(slug="adam-and-eve") %}Адам и Ева{% end %}, {% wiki(slug="eden") %}Эдем{% end %}, {% wiki(slug="antediluvian") %}Допотопный период{% end %}, {% wiki(slug="great-flood") %}Великий Потоп{% end %}, {% wiki(slug="theomachy") %}Теомахия{% end %}, {% wiki(slug="babel") %}Вавилон{% end %}, {% wiki(slug="sodom-and-gomorrah") %}Содом и Гоморра{% end %} и различных иных.
 
-### The various individual figure entries
+### Различные статьи об отдельных фигурах
 
-The Hebrew Bible operates as substantial source-textual foundation for the various individual figure entries: [Adam and Eve](../adam-and-eve/), [Noah](../noah/) when written, [Abraham](../abraham/) when written, [Moses](../moses/) when written, the various creator-figure entries ([Elohim](../elohim/), [Yahweh](../yahweh/), [Lucifer](../lucifer/), [Satan](../satan/), [Serpent](../serpent/)), various others.
+Еврейская Библия действует как источниковое текстовое основание для различных статей об отдельных фигурах: {% wiki(slug="adam-and-eve") %}Адам и Ева{% end %}, {% wiki(slug="noah") %}Ной{% end %} (когда она будет написана), {% wiki(slug="abraham") %}Авраам{% end %} (когда она будет написана), {% wiki(slug="moses") %}Моисей{% end %} (когда она будет написана), различные статьи о фигурах-творцах ({% wiki(slug="elohim") %}Элохим{% end %}, {% wiki(slug="yahweh") %}Яхве{% end %}, {% wiki(slug="lucifer") %}Люцифер{% end %}, {% wiki(slug="satan") %}*ха-сатан*{% end %}, {% wiki(slug="serpent") %}Змей{% end %}) и различных иных.
 
-### The various concept entries
+### Различные статьи о понятиях
 
-The Hebrew Bible operates as substantial source-textual foundation for the various concept entries: [Plurality of Gods](../plurality-of-gods/), [Cosmic Chain](../cosmic-chain/), [Cosmic Competition](../cosmic-competition/), [Doubled Signature](../doubled-signature/), [Tree of Life](../tree-of-life/), various others.
+Еврейская Библия действует как источниковое текстовое основание для различных статей о понятиях: {% wiki(slug="plurality-of-gods") %}Множественность богов{% end %}, {% wiki(slug="cosmic-chain") %}Космическая цепь{% end %}, {% wiki(slug="cosmic-competition") %}Космическое соревнование{% end %}, {% wiki(slug="doubled-signature") %}Удвоенная подпись{% end %}, {% wiki(slug="tree-of-life") %}Древо жизни{% end %} и различных иных.
 
-### The various text entries
+### Различные статьи о текстах
 
-The Hebrew Bible operates as substantial textual-tradition context for various other text entries when written: [Tetragrammaton](../tetragrammaton/), various subsequent Hellenistic-Jewish and Christian-tradition textual entities, various Islamic-tradition textual entities.
+Еврейская Библия действует как контекст текстовой традиции для различных иных статей о текстах, когда они будут написаны: {% wiki(slug="tetragrammaton") %}Тетраграмматон{% end %}, различные последующие эллинистико-иудейские и христианско-традиционные текстовые сущности, различные исламско-традиционные текстовые сущности.
 
-### The Apocalypse entry
+### Статья «Апокалипсис»
 
-The Hebrew Bible operates as substantial source-textual foundation for substantial apocalyptic-prophetic content. The detailed treatment lives in the [Apocalypse](../apocalypse/) entry.
+Еврейская Библия действует как источниковое текстовое основание для апокалиптико-пророческого содержания. Подробная разработка располагается в статье {% wiki(slug="apocalypse") %}Апокалипсис{% end %}.
 
-### The Prophet entry
+### Статья «Пророк»
 
-The Hebrew Bible operates as substantial source-textual foundation for substantial prophetic-tradition content. The detailed treatment lives in the [Prophet](../prophet/) entry.
+Еврейская Библия действует как источниковое текстовое основание для содержания пророческой традиции. Подробная разработка располагается в статье {% wiki(slug="prophet") %}Пророк{% end %}.
 
-## Distinguishing from adjacent concepts
+## Отграничение от смежных понятий
 
-### Hebrew Bible vs. Christian Old Testament
+### Еврейская Библия и христианский Ветхий Завет
 
-The Christian Old Testament operates as substantial Christian-tradition canonical reception of the Hebrew Bible content, with substantial divisional and arrangement differences. The relationship is one of **substantively-same-content-with-substantial-canonical-organizational-differences**. The substantial principal differences:
+Христианский Ветхий Завет действует как христианско-традиционная каноническая рецепция содержания Еврейской Библии с делительными и порядковыми отличиями. Отношение — **по сути то же содержание со значительными канонически-организационными отличиями**. Главные отличия:
 
-- **Book count and divisions**: substantial different counting conventions (24 books in Jewish organization vs. 39 books in Protestant Christian organization vs. larger counts in Catholic and Orthodox organizations including substantial Deuterocanonical additions)
-- **Book ordering**: substantial different organizational sequences (prophets in middle section vs. at end)
-- **Apocryphal additions**: substantial Catholic and Eastern Orthodox additions not present in Jewish or Protestant Christian canons
+- **Число книг и деления**: различные конвенции счёта (24 книги в иудейской организации против 39 книг в протестантской христианской организации против больших чисел в католической и православной организациях с второканоническими добавлениями)
+- **Порядок книг**: различные организационные последовательности (Пророки в среднем разделе против конца)
+- **Апокрифические добавления**: католические и восточно-православные добавления, отсутствующие в иудейском и протестантском канонах
 
-The substantial framework engagement operates principally with the substantial Hebrew textual tradition rather than with the substantial Christian-canonical reorganization, while registering substantial respect for the substantial Christian-tradition textual transmission.
+Системная работа действует прежде всего с древнееврейской текстовой традицией, а не с христианско-канонической реорганизацией, регистрируя при этом уважение к христианско-традиционной текстовой передаче.
 
-### Hebrew Bible vs. broader Christian Bible
+### Еврейская Библия и более широкая христианская Библия
 
-The broader Christian Bible adds substantial New Testament content to the substantial Old Testament content. The relationship is one of **substantial-Hebrew-Bible-content-as-foundation-with-substantial-New-Testament-addition**. The substantial framework engagement with the substantial New Testament content operates substantively (treated principally in the [Jesus](../jesus/) entry, the various Christian-tradition entries, and the broader Pisces-age corpus entries) but substantially separately from the substantial Hebrew Bible engagement.
+Более широкая христианская Библия добавляет содержание Нового Завета к содержанию Ветхого Завета. Отношение — **содержание Еврейской Библии как основание со значительным добавлением Нового Завета**. Системная работа с содержанием Нового Завета действует по сути (рассматривается главным образом в статье {% wiki(slug="jesus") %}Иисус{% end %}, в различных статьях о христианской традиции и в более широких статьях корпуса об Эпохе Рыб), но по сути отдельно от работы с Еврейской Библией.
 
-### Hebrew Bible vs. the Quran
+### Еврейская Библия и Коран
 
-The substantial Quran operates as substantial Islamic-tradition canonical text registering substantial parallel content with the substantial Hebrew Bible while operating from distinct cultural-religious tradition. The relationship is one of **substantial-parallel-content-with-substantial-distinct-traditional-framing**. The substantial framework engagement with the substantial Quran operates substantively (treated principally in the [Muhammad](../muhammad/) entry when written and the broader Pisces-age corpus entries) but substantially separately from the substantial Hebrew Bible engagement.
+Коран действует как канонический текст исламской традиции, регистрирующий параллельное содержание с Еврейской Библией, действуя при этом из иной культурно-религиозной традиции. Отношение — **параллельное содержание со значительным отличным традиционным обрамлением**. Системная работа с Кораном действует по сути (рассматривается главным образом в статье {% wiki(slug="muhammad") %}Мухаммад{% end %}, когда она будет написана, и в более широких статьях корпуса об Эпохе Рыб), но по сути отдельно от работы с Еврейской Библией.
 
-### Hebrew Bible vs. the Book of Mormon
+### Еврейская Библия и Книга Мормона
 
-The substantial Book of Mormon operates as substantial Mormon LDS canonical text registering substantial parallel content with the substantial Hebrew Bible while operating from distinct cultural-religious tradition. The relationship is one of **substantial-parallel-content-with-substantial-distinct-traditional-framing**. The substantial framework engagement with the substantial Book of Mormon operates substantively (treated principally in the [Joseph Smith](../joseph-smith/) entry when written and the broader Mormon LDS corpus content) but substantially separately from the substantial Hebrew Bible engagement.
+Книга Мормона действует как канонический текст мормонской традиции LDS, регистрирующий параллельное содержание с Еврейской Библией, действуя при этом из иной культурно-религиозной традиции. Отношение — **параллельное содержание со значительным отличным традиционным обрамлением**. Системная работа с Книгой Мормона действует по сути (рассматривается главным образом в статье {% wiki(slug="joseph-smith") %}Джозеф Смит{% end %}, когда она будет написана, и в более широком мормонском LDS-содержании корпуса), но по сути отдельно от работы с Еврейской Библией.
 
-### Hebrew Bible vs. Apocryphal and Pseudepigraphal texts
+### Еврейская Библия и апокрифические и псевдоэпиграфические тексты
 
-The substantial Apocryphal and Pseudepigraphal texts (the substantial Book of Enoch, the substantial Book of Jubilees, the substantial various Maccabees books, the substantial various other texts) operate within distinct canonical-traditional positions while substantively containing substantial parallel content with the broader Hebrew Bible tradition. The relationship is one of **substantial-related-content-with-substantial-distinct-canonical-position**. The substantial framework engagement with the substantial Apocryphal-Pseudepigraphal content operates substantively (treated principally in the [Watchers](../watchers/) entry when written for substantial Book of Enoch content, with various other dedicated entries when written).
+Апокрифические и псевдоэпиграфические тексты (Книга Еноха, Книга Юбилеев, различные книги Маккавеев, различные иные тексты) действуют в отдельных канонически-традиционных позициях, по сути содержа параллельное содержание с более широкой традицией Еврейской Библии. Отношение — **родственное содержание со значительной отличной канонической позицией**. Системная работа с апокрифико-псевдоэпиграфическим содержанием действует по сути (рассматривается главным образом в статье {% wiki(slug="watchers") %}Стражи{% end %}, когда она будет написана, для содержания Книги Еноха, с различными иными выделенными статьями, когда они будут написаны).
 
-## Modern reinterpretations
+## Современные переинтерпретации
 
-### Mainstream Hebrew Bible scholarship
+### Мейнстримная наука о Еврейской Библии
 
-Mainstream Hebrew Bible scholarship has produced substantial systematic engagement across multiple distinct disciplinary contexts.
+Мейнстримная наука о Еврейской Библии произвела систематическую разработку в нескольких различных дисциплинарных контекстах.
 
-### The Documentary Hypothesis
+### Документальная гипотеза
 
-The substantial **Documentary Hypothesis** operates as the principal source-critical framework for Pentateuchal scholarship from the late nineteenth century onward.
+**Документальная гипотеза** действует как главная источнико-критическая рамка для науки о Пятикнижии с конца XIX века.
 
-**Wellhausen's foundational work**. **Julius Wellhausen** (1844-1918) produced the foundational systematic articulation of the substantial Documentary Hypothesis through *Prolegomena zur Geschichte Israels* (1878; English translation as *Prolegomena to the History of Israel*, 1885). The substantial Wellhausen articulation registered the substantial four-source theory: J (Yahwist), E (Elohist), D (Deuteronomist), P (Priestly). The substantial subsequent scholarship has substantively engaged the broader Documentary-Hypothesis framework.
+**Основополагающий труд Велльхаузена**. **Юлиус Велльхаузен** (1844–1918) произвёл основополагающую систематическую артикуляцию документальной гипотезы через «Prolegomena zur Geschichte Israels» (1878; английский перевод как «Prolegomena to the History of Israel», 1885){{ cite(id="wellhausen-prolegomena", text="[1]", title="Велльхаузен (1878), «Prolegomena zur Geschichte Israels» — основополагающая артикуляция документальной гипотезы") }}. Велльхаузеновская артикуляция зарегистрировала четырёхисточниковую теорию: J (Яхвист), E (Элохист), D (Девтерономист), P (Жреческий){{ footnote(id="2") }}. Последующая наука по сути работала с более широкой рамкой документальной гипотезы.
 
-**Friedman's contemporary articulation**. **Richard Elliott Friedman**'s *Who Wrote the Bible?* (Harper & Row, 1987) and *The Bible with Sources Revealed* (HarperOne, 2003) provide substantial contemporary systematic engagement with the substantial Documentary Hypothesis. The substantial Friedman articulation registers substantial source-distinction with substantial historical-cultural specificity.
+**Современная артикуляция Фридмана**. «Кто написал Библию?» **Ричарда Эллиотта Фридмана** (Harper & Row, 1987){{ cite(id="friedman-who-wrote-bible", text="[2]", title="Фридман (1987), «Кто написал Библию?» — доступная артикуляция документальной гипотезы") }} и «The Bible with Sources Revealed» (HarperOne, 2003){{ cite(id="friedman-bible-sources-revealed", text="[3]", title="Фридман (2003), «The Bible with Sources Revealed» — представление Пятикнижия с источниковой разметкой") }} дают современную систематическую разработку документальной гипотезы. Артикуляция Фридмана регистрирует различение источников с историко-культурной специфичностью.
 
-**Van Seters's substantial work**. **John Van Seters**'s *The Pentateuch: A Social-Science Commentary* (Sheffield Academic Press, 1999) and various other works provide substantial subsequent engagement with the broader Documentary-Hypothesis framework, with various specific scholarly engagements articulating various aspects of the broader question.
+**Работа Ван Сетерса**. «The Pentateuch: A Social-Science Commentary» (Sheffield Academic Press, 1999) **Джона Ван Сетерса** и различные иные работы дают последующую разработку более широкой рамки документальной гипотезы, с различными конкретными научными разработками, артикулирующими различные аспекты более широкого вопроса.
 
-**Baden's recent contribution**. **Joel S. Baden**'s *The Composition of the Pentateuch: Renewing the Documentary Hypothesis* (Yale University Press, 2012) provides substantial recent systematic articulation, with substantial engagement with the broader scholarly debate.
+**Недавний вклад Бадена**. «The Composition of the Pentateuch: Renewing the Documentary Hypothesis» (Yale University Press, 2012) **Джоэла С. Бадена** даёт недавнюю систематическую артикуляцию с разработкой более широкой научной дискуссии.
 
-**The substantial framework relationship**. The substantial framework operates substantially within the broader Documentary-Hypothesis recognition of substantial multiple-source content within the Pentateuchal tradition while operating from substantially distinct interpretive foundation. The substantial framework specifically registers the substantial different divine names (Yahweh, Elohim) as registering substantial different aspects of the broader alliance-creator content (the substantial Yahweh as substantial Council president; the substantial *Elohim* as substantial collective creator-civilization designation) rather than as substantial different source-traditions alone.
+**Отношение системы**. Система действует по сути внутри признания документальной гипотезой множественно-источникового содержания в традиции Пятикнижия, действуя при этом из иной интерпретационной основы. Система специфически регистрирует различные божественные имена (Яхве, Элохим) как регистрирующие различные аспекты более широкого альянсово-творческого содержания (Яхве как президент Совета; *Элохим* как собирательное обозначение цивилизации-творца), а не лишь как различные источниковые традиции.
 
-### Contemporary critical scholarship
+### Современная критическая наука
 
-Various substantial contemporary critical scholars have produced substantial systematic engagement with the broader Hebrew Bible content.
+Различные современные критические учёные произвели систематическую разработку более широкого содержания Еврейской Библии.
 
-**Gerhard von Rad's substantial work**. **Gerhard von Rad** (1901-1971) produced foundational mid-twentieth-century systematic engagement with the substantial Hebrew Bible content. Principal works: *Old Testament Theology* (2 vols., 1957-1960; English translation 1962-1965), *Genesis: A Commentary* (1949; English translation 1961, revised edition 1972), various other works.
+**Работа Герхарда фон Рада**. **Герхард фон Рад** (1901–1971) произвёл основополагающую среднюю-XX-века систематическую разработку содержания Еврейской Библии. Главные труды: «Old Testament Theology» (2 тома, 1957–1960; английский перевод 1962–1965), «Genesis: A Commentary» (1949; английский перевод 1961, переработанное издание 1972), различные иные работы.
 
-**Claus Westermann's comprehensive Genesis commentary**. **Claus Westermann**'s three-volume *Genesis* commentary (1974-1982; English translation 1984-1986) provides the principal twentieth-century systematic engagement with the substantial Genesis content.
+**Полный комментарий Вестермана к Бытию**. Трёхтомный комментарий «Genesis» **Клауса Вестермана** (1974–1982; английский перевод 1984–1986) даёт главную систематическую разработку содержания Бытия XX века.
 
-**Walter Brueggemann's substantial work**. **Walter Brueggemann**'s *Theology of the Old Testament: Testimony, Dispute, Advocacy* (Augsburg Fortress, 1997) and various other works provide substantial systematic theological-critical engagement.
+**Работа Уолтера Брюггемана**. «Theology of the Old Testament: Testimony, Dispute, Advocacy» (Augsburg Fortress, 1997) **Уолтера Брюггемана** и различные иные работы дают систематическую теолого-критическую разработку.
 
-**Robert Alter's literary engagement**. **Robert Alter**'s substantial work — *The Art of Biblical Narrative* (Basic Books, 1981), *The Five Books of Moses: A Translation with Commentary* (W. W. Norton, 2004), *The Hebrew Bible: A Translation with Commentary* (3 vols., W. W. Norton, 2018) — provides substantial literary-critical engagement with substantial systematic literary attention.
+**Литературная работа Роберта Альтера**. Работа **Роберта Альтера** — «The Art of Biblical Narrative» (Basic Books, 1981), «The Five Books of Moses: A Translation with Commentary» (W. W. Norton, 2004), «The Hebrew Bible: A Translation with Commentary» (3 тома, W. W. Norton, 2018) — даёт литературно-критическую разработку с систематическим литературным вниманием.
 
-**Various substantial subsequent scholarship**. Substantial subsequent scholarship (Ronald Hendel, Bill Arnold, John Goldingay, Brevard Childs, James Kugel, various others) has continued to develop the broader scholarly engagement.
+**Различная последующая наука**. Последующая наука (Рональд Хендель, Билл Арнольд, Джон Голдингей, Бревард Чайлдс, Джеймс Кугель и др.) продолжала развивать более широкую научную разработку.
 
-### Archaeological-historical context scholarship
+### Наука об археолого-историческом контексте
 
-Mainstream archaeological-historical scholarship has produced substantial engagement with the substantial Hebrew Bible historical-cultural context.
+Мейнстримная археолого-историческая наука произвела разработку историко-культурного контекста Еврейской Библии.
 
-**The Albright tradition**. **William F. Albright** (1891-1971) and the broader Albright school produced foundational archaeological-historical scholarship operating substantively within substantial conservative-historical engagement with the substantial Hebrew Bible content. The substantial broader Albright tradition has produced substantial subsequent scholarship with substantial varying conservative-critical positions.
+**Традиция Олбрайта**. **Уильям Ф. Олбрайт** (1891–1971) и более широкая школа Олбрайта произвели основополагающую археолого-историческую науку, действующую по сути в консервативно-исторической разработке содержания Еврейской Библии. Более широкая олбрайтовская традиция произвела последующую науку с различными консервативно-критическими позициями.
 
-**William G. Dever's substantial work**. **William G. Dever**'s *What Did the Biblical Writers Know and When Did They Know It?* (Eerdmans, 2001), *Who Were the Early Israelites and Where Did They Come From?* (Eerdmans, 2003), and various other works provide substantial contemporary archaeological-historical engagement.
+**Работа Уильяма Дж. Девера**. «What Did the Biblical Writers Know and When Did They Know It?» (Eerdmans, 2001), «Who Were the Early Israelites and Where Did They Come From?» (Eerdmans, 2003) **Уильяма Дж. Девера** и различные иные работы дают современную археолого-историческую разработку.
 
-**Israel Finkelstein's substantial work**. **Israel Finkelstein**'s substantial work — including *The Bible Unearthed: Archaeology's New Vision of Ancient Israel and the Origin of Its Sacred Texts* (with Neil Asher Silberman, Free Press, 2001) — provides substantial contemporary critical archaeological-historical engagement with substantial revisionist-historical positions.
+**Работа Израэля Финкельштейна**. Работа **Израэля Финкельштейна** — включая «The Bible Unearthed: Archaeology's New Vision of Ancient Israel and the Origin of Its Sacred Texts» (с Нилом Эшером Зильберманом, Free Press, 2001) — даёт современную критическую археолого-историческую разработку с ревизионистско-историческими позициями.
 
-**Amihai Mazar's substantial work**. **Amihai Mazar**'s *Archaeology of the Land of the Bible: 10,000-586 B.C.E.* (Doubleday, 1990) and various other works provide substantial systematic archaeological-historical engagement.
+**Работа Амихая Мазара**. «Archaeology of the Land of the Bible: 10,000–586 B.C.E.» (Doubleday, 1990) **Амихая Мазара** и различные иные работы дают систематическую археолого-историческую разработку.
 
-**The substantial framework relationship**. The substantial framework operates substantively within the broader archaeological-historical scholarly landscape, with substantial framework-specific reading registering substantial cross-disciplinary integration.
+**Отношение системы**. Система действует по сути внутри более широкого археолого-исторического научного ландшафта, причём специфическое для системы прочтение регистрирует межотраслевую интеграцию.
 
-### Textual-criticism scholarship
+### Текстуально-критическая наука
 
-Substantial textual-criticism scholarship has produced substantial engagement with the substantial Hebrew Bible textual transmission history.
+Текстуально-критическая наука произвела разработку истории текстовой передачи Еврейской Библии.
 
-**Emanuel Tov's substantial work**. **Emanuel Tov**'s *Textual Criticism of the Hebrew Bible* (Augsburg Fortress, 1992; revised editions) provides the principal contemporary systematic engagement with the substantial Hebrew Bible textual-transmission history. The substantial Tov articulation registers substantial systematic engagement with the substantial Masoretic, Septuagint, Dead Sea Scrolls, Samaritan, and various other textual traditions.
+**Работа Эмануэля Това**. «Textual Criticism of the Hebrew Bible» (Augsburg Fortress, 1992; переработанные издания) **Эмануэля Това**{{ cite(id="tov-textual-criticism", text="[4]", title="Тов (3-е изд., 2012), «Textual Criticism of the Hebrew Bible» — главный современный справочник по текстуальной критике Еврейской Библии") }}{{ footnote(id="5") }} даёт главную современную систематическую разработку истории текстовой передачи Еврейской Библии. Артикуляция Това регистрирует систематическую разработку масоретской, септуагинтской, кумранской, самаритянской и различных иных текстовых традиций.
 
-**Ronald Hendel's substantial work**. **Ronald Hendel**'s *The Text of Genesis 1-11: Textual Studies and Critical Edition* (Oxford University Press, 1998) and the broader Oxford Hebrew Bible critical edition project provide substantial contemporary systematic textual-critical engagement.
+**Работа Рональда Хенделя**. «The Text of Genesis 1–11: Textual Studies and Critical Edition» (Oxford University Press, 1998) **Рональда Хенделя** и более широкий проект Оксфордского критического издания Еврейской Библии дают современную систематическую текстуально-критическую разработку.
 
-**The broader text-critical apparatus tradition**. The substantial *Biblia Hebraica Stuttgartensia* (Deutsche Bibelgesellschaft, 1968-1977; revised editions), *Biblia Hebraica Quinta* (Deutsche Bibelgesellschaft, 2004 onward), and various other critical editions provide substantial systematic textual-critical apparatus.
+**Более широкая традиция текстуально-критического аппарата**. «Biblia Hebraica Stuttgartensia» (Deutsche Bibelgesellschaft, 1968–1977; переработанные издания), «Biblia Hebraica Quinta» (Deutsche Bibelgesellschaft, с 2004) и различные иные критические издания дают систематический текстуально-критический аппарат.
 
-### Dead Sea Scrolls scholarship
+### Наука о Свитках Мёртвого моря
 
-The substantial Dead Sea Scrolls discovery (beginning 1947) has produced substantial systematic engagement with the substantial Qumran biblical and sectarian textual evidence.
+Открытие Свитков Мёртвого моря (с 1947 г.) произвело систематическую разработку кумранского библейского и сектантского текстового свидетельства.
 
-**James VanderKam's substantial work**. **James C. VanderKam**'s *The Dead Sea Scrolls Today* (Eerdmans, 1994; revised editions) and various other works provide substantial systematic engagement with the broader Dead Sea Scrolls content.
+**Работа Джеймса Вандеркама**. «The Dead Sea Scrolls Today» (Eerdmans, 1994; переработанные издания) **Джеймса Ч. Вандеркама**{{ cite(id="vanderkam-dss-today", text="[5]", title="Вандеркам (2-е изд., 2010), «The Dead Sea Scrolls Today» — доступное введение в науку о Свитках Мёртвого моря") }}{{ footnote(id="6") }} и различные иные работы дают систематическую разработку более широкого содержания Свитков Мёртвого моря.
 
-**Peter Flint's substantial work**. **Peter W. Flint**'s *The Dead Sea Psalms Scrolls and the Book of Psalms* (Brill, 1997) and various other works provide substantial systematic engagement.
+**Работа Питера Флинта**. «The Dead Sea Psalms Scrolls and the Book of Psalms» (Brill, 1997) **Питера У. Флинта** и различные иные работы дают систематическую разработку.
 
-**The broader Qumran scholarship**. Substantial contemporary scholarship (Florentino García Martínez, Eugene Ulrich, John Collins, various others) has continued to develop the substantial Dead Sea Scrolls scholarly engagement.
+**Более широкая кумранская наука**. Современная наука (Флорентино Гарсия Мартинес, Юджин Ульрих, Джон Коллинз и др.) продолжала развивать научную разработку Свитков Мёртвого моря.
 
-**The substantial framework relationship**. The substantial corpus framework registers the substantial Dead Sea Scrolls discovery (1946-1947) as substantial component of the broader Aquarian-age opening signs, with the substantial textual recovery operating as substantial part of the broader textual-recovery process. The detailed treatment lives in the [Apocalypse](../apocalypse/) entry.
+**Отношение системы**. Корпусная рамка регистрирует открытие Свитков Мёртвого моря (1946–1947) как компонент более широких знаков открытия Эпохи Водолея, причём текстовое восстановление действует как часть более широкого процесса текстового восстановления. Подробная разработка располагается в статье {% wiki(slug="apocalypse") %}Апокалипсис{% end %}.
 
-### Septuagint scholarship
+### Наука о Септуагинте
 
-Substantial Septuagint scholarship has produced substantial engagement with the substantial 3rd-2nd-century-BCE Greek translation tradition.
+Наука о Септуагинте произвела разработку греческой переводческой традиции III–II вв. до н. э.
 
-**Emanuel Tov's substantial Septuagint work**. **Emanuel Tov**'s *The Text-Critical Use of the Septuagint in Biblical Research* (Eisenbrauns, 2nd ed. 1997) and various other works provide substantial systematic engagement.
+**Септуагинтная работа Эмануэля Това**. «The Text-Critical Use of the Septuagint in Biblical Research» (Eisenbrauns, 2-е изд. 1997) **Эмануэля Това** и различные иные работы дают систематическую разработку.
 
-**Various substantial subsequent scholarship**. Substantial subsequent scholarship (Natalio Fernández Marcos, Karen Jobes, Moisés Silva, various others) has continued to develop the broader Septuagint scholarly engagement.
+**Различная последующая наука**. Последующая наука (Наталио Фернандес Маркос, Карен Джобс, Моисес Силва и др.) продолжала развивать более широкую науку о Септуагинте.
 
-### Canonical-formation scholarship
+### Наука о канонической формации
 
-Substantial canonical-formation scholarship has produced substantial engagement with the substantial historical-developmental emergence of the substantial Hebrew Bible canonical structure.
+Наука о канонической формации произвела разработку историко-развитийного возникновения канонической структуры Еврейской Библии.
 
-**Lee Martin McDonald's substantial work**. **Lee Martin McDonald**'s *The Biblical Canon: Its Origin, Transmission, and Authority* (Hendrickson, 3rd ed. 2007) provides substantial systematic engagement with the broader canonical-formation question.
+**Работа Ли Мартина Макдональда**. «The Biblical Canon: Its Origin, Transmission, and Authority» (Hendrickson, 3-е изд. 2007) **Ли Мартина Макдональда** даёт систематическую разработку более широкого вопроса канонической формации.
 
-**Albert Sundberg's foundational work**. **Albert C. Sundberg**'s *The Old Testament of the Early Church* (Harvard University Press, 1964) provides foundational scholarship on the substantial canonical-formation question.
+**Основополагающая работа Альберта Сандберга**. «The Old Testament of the Early Church» (Harvard University Press, 1964) **Альберта Ч. Сандберга** даёт основополагающую науку о вопросе канонической формации.
 
-**Various substantial subsequent scholarship**. Substantial subsequent scholarship (John Barton, James Sanders, Eugene Ulrich, various others) has continued to develop the broader canonical-formation scholarly engagement.
+**Различная последующая наука**. Последующая наука (Джон Бартон, Джеймс Сандерс, Юджин Ульрих и др.) продолжала развивать научную разработку канонической формации.
 
-### Sitchin's Anunnaki framework
+### Рамка Ануннаков у Ситчина
 
-**Zecharia Sitchin** in *The 12th Planet* (Stein and Day, 1976) and various other works produced substantial alternative-history engagement with substantial Hebrew Bible content within the broader Anunnaki framework. Sitchin's specific framework registers substantial structural alignment with the corpus framework at the substantial multiple-creator-civilization dimension while operating from substantively distinct specific source-material warrant.
+**Захария Ситчин** в «The 12th Planet» (Stein and Day, 1976) и различных иных работах произвёл альтернативно-историческую разработку содержания Еврейской Библии в более широкой рамке Ануннаков. Конкретная рамка Ситчина регистрирует структурное выравнивание с системной рамкой на уровне множественности цивилизаций-творцов, действуя при этом из по сути иной источниковой опоры.
 
-### Wallis's broader engagement
+### Более широкая работа Уоллиса
 
-**Paul Anthony Wallis**'s *Escaping from Eden* (6th Books, 2020), *The Eden Conspiracy* (6th Books, 2024), and various other works engage substantial Hebrew Bible content. Wallis's specific framework registers substantial structural alignment with the framework's reading at multiple specific dimensions while operating from distinct source-material warrant principally drawn from the broader strict-translational approach.
+«Escaping from Eden» (6th Books, 2020), «The Eden Conspiracy» (6th Books, 2024) **Пола Энтони Уоллиса** и различные иные работы разрабатывают содержание Еврейской Библии. Конкретная рамка Уоллиса регистрирует структурное выравнивание с системным прочтением по нескольким конкретным измерениям, действуя при этом из иной источниковой опоры, опирающейся прежде всего на более широкий строго-переводческий подход.
 
-### Biglino's strict-translational approach
+### Строго-переводческий подход Бильино
 
-**Mauro Biglino**'s broader engagement with the Hebrew Bible (*The Naked Bible: The Truth About the Most Famous Book in History*, with Giorgio Cattaneo, Uno, 2022; various other works) has produced substantial alternative-history engagement. Biglino's specific position: strict literal translation of the Hebrew text reveals substantial content that mainstream translation traditions have systematically obscured. The substantial framework's specific positions register substantial structural alignment with Biglino's broader translational approach.
+Более широкая работа **Мауро Бильино** с Еврейской Библией («The Naked Bible: The Truth About the Most Famous Book in History», с Джорджо Каттанео, Uno, 2022; различные иные работы) произвела альтернативно-историческую разработку. Конкретная позиция Бильино: строгий буквальный перевод древнееврейского текста раскрывает содержание, систематически затемнённое мейнстримными переводческими традициями. Конкретные позиции системы регистрируют структурное выравнивание с более широким переводческим подходом Бильино.
 
-### The framework's relationship to the broader landscape
+### Отношение системы к более широкому ландшафту
 
-The Wheel of Heaven corpus's Hebrew Bible framework is positioned within this scholarly landscape as follows: substantially aligned with mainstream Hebrew Bible scholarship at the textual-philological level (recognizing the substantial scholarly documentation of the substantial textual content); substantially aligned with the Documentary Hypothesis at the substantial multiple-source recognition level while operating from substantively distinct interpretive foundation; substantially aligned with mainstream archaeological-historical scholarship at the substantial historical-context level; substantially aligned with substantial textual-criticism scholarship at the substantial textual-history level; substantially aligned with substantial Dead Sea Scrolls scholarship at the substantial textual-recovery level; substantially aligned with substantial Septuagint scholarship at the substantial textual-history level; substantially aligned with substantial canonical-formation scholarship at the substantial historical-developmental level; substantively distinct from mainstream theological scholarship at the interpretive level (the framework's specific historical-record reading operates substantively beyond the conventional religious-mythological treatment); substantially aligned with various alternative-history scholarly traditions (Sitchin's Anunnaki framework, Wallis's broader engagement, Biglino's strict-translational approach) at the underlying-historical-event-reading level while operating from distinct source-material warrant principally drawn from the Raëlian source material.
+Рамка Еврейской Библии в корпусе Колеса Небес позиционирована в этом научном ландшафте следующим образом: по существу выровнена с мейнстримной наукой о Еврейской Библии на текстуально-филологическом уровне (с признанием научной документации текстового содержания); по существу выровнена с документальной гипотезой на уровне признания множественности источников, действуя при этом из по сути иной интерпретационной основы; по существу выровнена с мейнстримной археолого-исторической наукой на уровне историко-культурного контекста; по существу выровнена с текстуально-критической наукой на уровне текстовой истории; по существу выровнена с наукой о Свитках Мёртвого моря на уровне текстового восстановления; по существу выровнена с наукой о Септуагинте на уровне текстовой истории; по существу выровнена с наукой о канонической формации на историко-развитийном уровне; по существу отлична от мейнстримной теологической науки на интерпретационном уровне (специфическое прочтение системы как исторического документа действует по существу за пределами конвенционального религиозно-мифологического обращения); по существу выровнена с различными альтернативно-историческими научными традициями (рамка Ануннаков у Ситчина, более широкая работа Уоллиса, строго-переводческий подход Бильино) на уровне прочтения лежащих в основе исторических событий, действуя при этом из иной источниковой опоры, опирающейся прежде всего на раэлианский источниковый материал.
 
-## Comparative observations
+## Сравнительные наблюдения
 
-The Hebrew Bible has substantial cross-cultural textual parallels in various religious-cultural traditions worldwide, with the substantial cross-cultural distribution registering substantial parallel content for the broader framework reading.
+Еврейская Библия имеет кросс-культурные текстовые параллели в различных религиозно-культурных традициях по всему миру, причём кросс-культурное распределение регистрирует параллельное содержание для более широкого системного прочтения.
 
-### Mesopotamian textual parallels
+### Месопотамские текстовые параллели
 
-The Mesopotamian textual tradition preserves the principal cross-cultural textual parallels.
+Месопотамская текстовая традиция сохраняет главные кросс-культурные текстовые параллели.
 
-**The substantial *Atrahasis* epic**. The substantial Akkadian *Atrahasis* epic (preserved principally in 17th-century-BCE Old Babylonian manuscripts, with substantial earlier Sumerian antecedents) registers substantial parallel content with the substantial Hebrew Bible primeval history (Genesis 1-11). The substantial principal parallel content:
+**Эпос *Атрахасис***. Аккадский эпос *Атрахасис* (сохранён прежде всего в старовавилонских рукописях XVII в. до н. э., с более ранними шумерскими предшественниками) регистрирует параллельное содержание с первобытной историей Еврейской Библии (Бытие 1–11). Главное параллельное содержание:
 
-- Substantial creation narrative with substantial divine-council deliberation about substantial human-creation
-- Substantial human-multiplication narrative
-- Substantial divine-council decision regarding substantial flood-destruction
-- Substantial flood narrative with substantial preservation of single righteous individual (Atrahasis / Utnapishtim)
-- Substantial post-flood covenant narrative
+- Нарратив творения с обсуждением сотворения человека в божественном совете
+- Нарратив умножения человечества
+- Решение божественного совета о потопе-разрушении
+- Нарратив потопа с сохранением одного праведного индивида (Атрахасис / Утнапиштим)
+- Послепотопный нарратив завета
 
-The substantial Hebrew Bible primeval history operates as substantial parallel content within distinct cultural-religious framing.
+Первобытная история Еврейской Библии действует как параллельное содержание в отличном культурно-религиозном обрамлении.
 
-**The substantial *Enuma Elish***. The substantial Babylonian *Enuma Elish* (preserved principally in 7th-century-BCE Neo-Assyrian manuscripts, with substantial earlier antecedents) registers substantial parallel content with substantial Hebrew Bible creation content (particularly Genesis 1) and substantial divine-council material. The substantial *Enuma Elish* preserves substantial divine-council deliberation, substantial cosmic-conflict content (the substantial Marduk-Tiamat conflict registering substantial parallel to broader Theomachy framework), and substantial creation-from-divine-being content.
+***Энума элиш***. Вавилонский *Энума элиш* (сохранён прежде всего в новоассирийских рукописях VII в. до н. э., с более ранними предшественниками) регистрирует параллельное содержание с содержанием творения в Еврейской Библии (в частности Бытие 1) и материалом о божественном совете. *Энума элиш* сохраняет обсуждение в божественном совете, содержание о космическом конфликте (конфликт Мардук–Тиамат, регистрирующий параллель более широкой рамке Теомахии) и содержание о творении из божественного существа.
 
-**The substantial *Epic of Gilgamesh***. The substantial *Epic of Gilgamesh* (preserved principally in 7th-century-BCE Neo-Assyrian manuscripts, with substantial earlier Sumerian antecedents) registers substantial parallel content particularly with substantial Hebrew Bible flood narrative (the substantial Utnapishtim flood narrative in Tablet XI registering substantial parallel content with the substantial Noah flood narrative in Genesis 6-9). The detailed treatment of the substantial Gilgamesh parallels lives principally in the [Great Flood](../great-flood/) entry.
+***Эпос о Гильгамеше***. *Эпос о Гильгамеше* (сохранён прежде всего в новоассирийских рукописях VII в. до н. э., с более ранними шумерскими предшественниками) регистрирует параллельное содержание особенно с нарративом потопа в Еврейской Библии (нарратив потопа Утнапиштима в Таблице XI регистрирует параллельное содержание с нарративом потопа Ноя в Бытии 6–9). Подробная разработка параллелей с Гильгамешем располагается главным образом в статье {% wiki(slug="great-flood") %}Великий Потоп{% end %}.
 
-**The substantial Sumerian King List**. The substantial Sumerian King List preserves substantial pre-flood and post-flood king-list content registering substantial parallel content with substantial Hebrew Bible genealogical material. The detailed treatment lives in the [Antediluvian](../antediluvian/) entry.
+**Шумерский царский список**. Шумерский царский список сохраняет допотопное и послепотопное содержание царского списка, регистрирующее параллельное содержание с генеалогическим материалом Еврейской Библии. Подробная разработка располагается в статье {% wiki(slug="antediluvian") %}Допотопный период{% end %}.
 
-**The substantial broader Mesopotamian textual corpus**. The substantial broader Mesopotamian textual corpus (substantial Sumerian and Akkadian religious-mythological-historical texts) preserves substantial parallel content across multiple specific dimensions, with substantial scholarly engagement registering substantial cumulative parallel material.
+**Более широкий месопотамский текстовый корпус**. Более широкий месопотамский текстовый корпус (шумерские и аккадские религиозно-мифологическо-исторические тексты) сохраняет параллельное содержание по нескольким конкретным измерениям, с научной разработкой, регистрирующей кумулятивный параллельный материал.
 
-**The framework's reading**. The framework reads the substantial Mesopotamian textual parallels as preserving substantial cultural memory of substantial actual events that the substantial Hebrew Bible also preserves, with the substantial Mesopotamian tradition operating as substantial cultural-religious preservation within the distinctive Mesopotamian framing. The substantial cross-cultural parallel content registers substantial framework support for the broader historical-event reading.
+**Прочтение системы**. Система прочитывает месопотамские текстовые параллели как сохраняющие культурную память о действительных событиях, которые также сохраняет Еврейская Библия, причём месопотамская традиция действует как культурно-религиозное сохранение в специфическом месопотамском обрамлении. Кросс-культурное параллельное содержание регистрирует системную поддержку для более широкого прочтения исторических событий.
 
-### Egyptian textual parallels
+### Египетские текстовые параллели
 
-The Egyptian textual tradition preserves substantial parallel content across substantial diverse religious-mythological corpus.
+Египетская текстовая традиция сохраняет параллельное содержание в разнообразном религиозно-мифологическом корпусе.
 
-**The substantial Pyramid Texts**. The substantial Egyptian Pyramid Texts (preserved principally in Old Kingdom royal tomb-inscriptions, c. 24th-22nd centuries BCE) operate as the oldest substantial body of religious literature in human history. The substantial Pyramid Texts preserve substantial divine-council content, substantial creation-narrative content, substantial deification-content, and various other parallel content.
+**Тексты пирамид**. Египетские Тексты пирамид (сохранены прежде всего в надписях царских гробниц Древнего царства, ок. XXIV–XXII вв. до н. э.) действуют как древнейший корпус религиозной литературы в истории человечества. Тексты пирамид сохраняют содержание о божественном совете, содержание нарратива творения, содержание обожествления и различное иное параллельное содержание.
 
-**The substantial Coffin Texts**. The substantial Egyptian Coffin Texts (preserved principally in Middle Kingdom non-royal coffin-inscriptions, c. 22nd-17th centuries BCE) extend the substantial Pyramid Texts tradition with substantial additional content.
+**Тексты саркофагов**. Египетские Тексты саркофагов (сохранены прежде всего в нецарских надписях саркофагов Среднего царства, ок. XXII–XVII вв. до н. э.) расширяют традицию Текстов пирамид дополнительным содержанием.
 
-**The substantial Book of the Dead**. The substantial Egyptian Book of the Dead (preserved principally in New Kingdom funerary papyri, c. 16th-11th centuries BCE) operates as substantial systematic afterlife-religious content with substantial parallel content registering substantial cross-cultural parallels.
+**Книга мёртвых**. Египетская Книга мёртвых (сохранена прежде всего в погребальных папирусах Нового царства, ок. XVI–XI вв. до н. э.) действует как систематическое содержание о загробной жизни с параллельным содержанием, регистрирующим кросс-культурные параллели.
 
-**The substantial broader Egyptian religious literature**. The substantial broader Egyptian religious literature (substantial various hymns, prayers, theological-philosophical texts, mythological narratives) preserves substantial parallel content across multiple specific dimensions.
+**Более широкая египетская религиозная литература**. Более широкая египетская религиозная литература (различные гимны, молитвы, теолого-философские тексты, мифологические нарративы) сохраняет параллельное содержание по нескольким конкретным измерениям.
 
-### Ugaritic textual parallels
+### Угаритские текстовые параллели
 
-The substantial Ugaritic textual corpus (discovered principally at Ras Shamra beginning 1928, dating principally to the 14th-13th centuries BCE) preserves substantial parallel content with substantial Hebrew Bible content within the broader Northwest Semitic cultural-religious tradition.
+Угаритский текстовый корпус (открытый главным образом в Рас-Шамре с 1928 г., датируется прежде всего XIV–XIII вв. до н. э.) сохраняет параллельное содержание с содержанием Еврейской Библии в более широкой северо-западносемитской культурно-религиозной традиции.
 
-**The substantial Baal cycle**. The substantial Ugaritic Baal cycle preserves substantial divine-council content, substantial cosmic-conflict content, substantial divine-faction-political content registering substantial parallel content with broader Theomachy framework.
+**Цикл Баала**. Угаритский цикл Баала сохраняет содержание о божественном совете, содержание о космическом конфликте, содержание о политике божественных фракций, регистрирующее параллельное содержание с более широкой рамкой Теомахии.
 
-**The substantial broader Canaanite mythological tradition**. The substantial broader Ugaritic textual corpus preserves substantial Canaanite mythological-religious content registering substantial parallel content with substantial early Hebrew Bible content.
+**Более широкая ханаанская мифологическая традиция**. Более широкий угаритский текстовый корпус сохраняет ханаанское мифологическо-религиозное содержание, регистрирующее параллельное содержание с ранним содержанием Еврейской Библии.
 
-**The substantial framework reading**. The substantial Ugaritic parallels register substantial parallel content within the broader Northwest Semitic cultural-religious tradition that operated as the substantial broader cultural-religious context within which the substantial early Hebrew tradition developed.
+**Прочтение системы**. Угаритские параллели регистрируют параллельное содержание в более широкой северо-западносемитской культурно-религиозной традиции, действовавшей как более широкий культурно-религиозный контекст, в котором развивалась ранняя еврейская традиция.
 
-### Vedic / Hindu textual parallels
+### Ведийские / индуистские текстовые параллели
 
-The substantial Vedic / Hindu textual tradition preserves substantial parallel content with substantial Hebrew Bible content.
+Ведийская / индуистская текстовая традиция сохраняет параллельное содержание с содержанием Еврейской Библии.
 
-**The substantial Rigveda**. The substantial Rigveda (composed principally c. 1500-1200 BCE) preserves substantial divine-multiplicity content, substantial creation-narrative content, substantial various parallel content within distinctive Vedic framing.
+**Ригведа**. Ригведа (составлена прежде всего ок. 1500–1200 гг. до н. э.) сохраняет содержание о божественной множественности, содержание нарратива творения, различное параллельное содержание в специфическом ведийском обрамлении.
 
-**The substantial Upanishads**. The substantial Upanishads (composed principally c. 800-200 BCE) preserve substantial cosmological-philosophical content registering substantial parallel content with broader framework.
+**Упанишады**. Упанишады (составлены прежде всего ок. 800–200 гг. до н. э.) сохраняют космологическо-философское содержание, регистрирующее параллельное содержание с более широкой рамкой.
 
-**The substantial Mahabharata**. The substantial Mahabharata (composed principally c. 400 BCE-400 CE, with substantial earlier oral-tradition antecedents) preserves substantial cosmic-warfare content registering substantial parallel content with broader Theomachy framework. The detailed treatment of the substantial *Brahmastra* parallels lives in the [Sodom and Gomorrah](../sodom-and-gomorrah/) entry.
+**Махабхарата**. Махабхарата (составлена прежде всего ок. 400 г. до н. э. — 400 г. н. э., с более ранними устно-традиционными предшественниками) сохраняет содержание о космической войне, регистрирующее параллельное содержание с более широкой рамкой Теомахии. Подробная разработка параллелей *Брахмастры* располагается в статье {% wiki(slug="sodom-and-gomorrah") %}Содом и Гоморра{% end %}.
 
-**The substantial Puranas**. The substantial Puranas preserve substantial cosmological-mythological-historical content registering substantial parallel content within distinctive Hindu framing.
+**Пураны**. Пураны сохраняют космологическо-мифологическо-историческое содержание, регистрирующее параллельное содержание в специфическом индуистском обрамлении.
 
-### Greek mythological corpus
+### Греческий мифологический корпус
 
-The substantial Greek mythological corpus preserves substantial parallel content with substantial Hebrew Bible content.
+Греческий мифологический корпус сохраняет параллельное содержание с содержанием Еврейской Библии.
 
-**Hesiod's substantial works**. **Hesiod**'s *Theogony* and *Works and Days* (composed principally c. 8th-7th centuries BCE) preserve substantial cosmic-genealogical content, substantial divine-council content, substantial cosmic-conflict content registering substantial parallel content with broader framework.
+**Работы Гесиода**. «Теогония» и «Труды и дни» **Гесиода** (составлены прежде всего ок. VIII–VII вв. до н. э.) сохраняют содержание о космической генеалогии, содержание о божественном совете, содержание о космическом конфликте, регистрирующее параллельное содержание с более широкой рамкой.
 
-**Homer's substantial works**. **Homer**'s *Iliad* and *Odyssey* (composed principally c. 8th century BCE) preserve substantial divine-council content, substantial divine-human-interaction content registering substantial parallel content.
+**Работы Гомера**. «Илиада» и «Одиссея» **Гомера** (составлены прежде всего ок. VIII в. до н. э.) сохраняют содержание о божественном совете, содержание о божественно-человеческом взаимодействии, регистрирующее параллельное содержание.
 
-**The broader Greek mythological tradition**. The substantial broader Greek mythological tradition preserves substantial parallel content across multiple distinct dimensions.
+**Более широкая греческая мифологическая традиция**. Более широкая греческая мифологическая традиция сохраняет параллельное содержание по нескольким различным измерениям.
 
-### The "sacred-text" cross-cultural pattern
+### Кросс-культурная закономерность «священных текстов»
 
-The substantial cross-cultural pattern of substantial sacred-textual entities operating as substantial canonical-religious content across virtually every major religious-cultural tradition globally registers one of the principal cross-cultural patterns in religious-traditional thought.
+Кросс-культурная закономерность священно-текстовых сущностей, действующих как канонически-религиозное содержание в почти каждой крупной религиозно-культурной традиции глобально, регистрирует одну из главных кросс-культурных закономерностей в религиозно-традиционной мысли.
 
-**The substantial various sacred-text traditions**. The substantial cross-cultural sacred-text tradition operates substantively across:
+**Различные традиции священных текстов**. Кросс-культурная традиция священных текстов действует по сути по:
 
-- The substantial Hebrew Bible / Tanakh (Jewish-tradition canonical text)
-- The substantial Christian Bible (Christian-tradition canonical text)
-- The substantial Quran (Islamic-tradition canonical text)
-- The substantial Vedic textual corpus (Hindu-tradition canonical texts)
-- The substantial Buddhist Tripitaka and various subsequent canonical texts
-- The substantial Daoist textual corpus
-- The substantial Confucian classical texts
-- The substantial Avestan corpus (Zoroastrian-tradition canonical texts)
-- The substantial Book of Mormon (Mormon LDS canonical text)
-- Various substantial other sacred-textual traditions
+- Еврейской Библии / Танаху (канонический текст иудейской традиции)
+- Христианской Библии (канонический текст христианской традиции)
+- Корану (канонический текст исламской традиции)
+- Ведийскому текстовому корпусу (канонические тексты индуистской традиции)
+- Буддийской Трипитаке и различным последующим каноническим текстам
+- Даосскому текстовому корпусу
+- Конфуцианским классическим текстам
+- Авестийскому корпусу (канонические тексты зороастрийской традиции)
+- Книге Мормона (канонический текст мормонской традиции LDS)
+- Различным иным традициям священных текстов
 
-**The substantial cross-cultural function**. The substantial sacred-textual entities operate across cultures with substantial parallel functions: substantial canonical-religious authority, substantial liturgical-ritual content, substantial cosmic-narrative content, substantial ethical-religious-legal content, substantial historical-cultural memory preservation.
+**Кросс-культурная функция**. Священно-текстовые сущности действуют между культурами с параллельными функциями: канонически-религиозный авторитет, литургико-ритуальное содержание, космо-нарративное содержание, этико-религиозно-правовое содержание, сохранение историко-культурной памяти.
 
-### The "preservation-of-historical-event-content-in-religious-textual-form" cross-cultural pattern
+### Кросс-культурная закономерность «сохранения содержания исторических событий в религиозно-текстовой форме»
 
-The substantial cross-cultural pattern of preservation of substantial historical-event content within substantial religious-textual forms operates across virtually every major sacred-textual tradition.
+Кросс-культурная закономерность сохранения содержания исторических событий в религиозно-текстовых формах действует по почти каждой крупной священно-текстовой традиции.
 
-**The substantial pattern features**:
+**Черты закономерности**:
 
-- Substantial actual historical events preserved within substantial religious-narrative forms
-- Substantial pre-scientific vocabulary operating as substantial decodable layer
-- Substantial subsequent religious-traditional reception operating substantively beyond original historical-event content
-- Substantial cross-cultural parallel content across distinct cultural-religious traditions
+- Действительные исторические события, сохранённые в религиозно-нарративных формах
+- Донаучный словарь, действующий как расшифровываемый слой
+- Последующая религиозно-традиционная рецепция, действующая по сути за пределами исходного содержания исторических событий
+- Кросс-культурное параллельное содержание между различными культурно-религиозными традициями
 
-**The substantial framework reading**. The substantial framework reads the substantial cross-cultural pattern as registering substantial preservation of substantial actual historical events through substantial sacred-textual forms, with each cultural tradition preserving substantial specific content within its distinctive cultural-religious framing.
+**Прочтение системы**. Система прочитывает кросс-культурную закономерность как регистрирующую сохранение действительных исторических событий через священно-текстовые формы, причём каждая культурная традиция сохраняет конкретное содержание в специфическом культурно-религиозном обрамлении.
 
-### The convergence
+### Сходимость
 
-The corpus's working position on the comparative-Hebrew-Bible question is that the substantial cross-cultural distribution of substantial sacred-textual traditions across virtually every major religious-cultural tradition globally is meaningful as evidence of the broader pattern.
+Рабочая позиция корпуса по сравнительному вопросу о Еврейской Библии состоит в том, что кросс-культурное распределение священно-текстовых традиций по почти каждой крупной религиозно-культурной традиции глобально является значимым как свидетельство более широкой закономерности.
 
-The mainstream scholarly explanation generally treats the cross-cultural pattern through some combination of independent religious-cultural development, shared cognitive-archetypal substrate, and limited cultural diffusion. The framework's reading: the cross-cultural pattern preserves common memory of substantial actual events that the framework articulates, with each cultural tradition preserving substantial specific content within its distinctive cultural-religious framing.
+Мейнстримное научное объяснение в общем рассматривает кросс-культурную закономерность через некоторую комбинацию независимого религиозно-культурного развития, общего когнитивно-архетипического субстрата и ограниченной культурной диффузии. Прочтение системы: кросс-культурная закономерность сохраняет общую память о действительных событиях, артикулируемых системой, причём каждая культурная традиция сохраняет конкретное содержание в специфическом культурно-религиозном обрамлении.
 
-The framework's specific reading is that the substantial Hebrew Bible operates as substantial principal-but-not-uniquely-privileged carrier of the substantial actual historical-event content. The substantial Mesopotamian textual parallels preserve substantial parallel content within the distinctive Mesopotamian framing; the substantial Egyptian textual parallels preserve substantial parallel content within the distinctive Egyptian framing; the substantial Ugaritic textual parallels preserve substantial parallel content within the distinctive Northwest Semitic framing; the substantial Vedic / Hindu textual parallels preserve substantial parallel content within the distinctive Hindu framing; the substantial Greek mythological corpus preserves substantial parallel content within the distinctive Greek framing.
+Специфическое прочтение системы состоит в том, что Еврейская Библия действует как главный, но не уникально привилегированный, носитель содержания действительных исторических событий. Месопотамские текстовые параллели сохраняют параллельное содержание в специфическом месопотамском обрамлении; египетские текстовые параллели сохраняют параллельное содержание в специфическом египетском обрамлении; угаритские текстовые параллели сохраняют параллельное содержание в специфическом северо-западносемитском обрамлении; ведийские / индуистские текстовые параллели сохраняют параллельное содержание в специфическом индуистском обрамлении; греческий мифологический корпус сохраняет параллельное содержание в специфическом греческом обрамлении.
 
-The corpus does not require rejecting all of the mainstream explanatory framework. Independent religious-cultural development certainly contributes to specific cultural-religious articulations; the cosmic-archetypal substrate certainly contributes to the broader cross-cultural pattern; cultural diffusion certainly occurred across the historical period. What the framework adds is the underlying historical reality that gave rise to the structural commonalities — the substantial actual alliance-civilization interventions across the post-flood ages that the framework articulates, with the substantial cross-cultural traditions preserving cultural memory of these events in their distinctive cultural-religious framings.
+Корпус не требует отвержения всей мейнстримной объяснительной рамки. Независимое религиозно-культурное развитие, безусловно, вносит вклад в конкретные культурно-религиозные артикуляции; космо-архетипический субстрат, безусловно, вносит вклад в более широкую кросс-культурную закономерность; культурная диффузия, безусловно, происходила в исторический период. Что добавляет система — лежащая в основе историческая реальность, породившая структурные общности, — действительные интервенции цивилизации-альянса в послепотопные эпохи, артикулируемые системой, причём кросс-культурные традиции сохраняют культурную память об этих событиях в своих специфических культурно-религиозных обрамлениях.
 
-The framework's distinctive contribution within this broader comparative landscape is the substantial historical-actuality reading (the substantial sacred-textual content preserves cultural memory of substantial actual extraterrestrial-civilization events rather than substantial mythological-archetypal-substrate alone), the substantial Hebrew Bible centrality positioning (the substantial Hebrew tradition operates as the substantial structural center of the broader asymmetric synthesis while not registering substantial unique-privileging), and the substantial systematic decoding hermeneutic (the substantial framework provides substantial systematic interpretive key for substantive engagement with the substantial textual content across all the broader sacred-textual traditions).
-
-## See also
-
-- [Genesis](../genesis/)
-- [Adam and Eve](../adam-and-eve/)
-- [Eden](../eden/)
-- [Antediluvian](../antediluvian/)
-- [Great Flood](../great-flood/)
-- [Theomachy](../theomachy/)
-- [Babel](../babel/)
-- [Sodom and Gomorrah](../sodom-and-gomorrah/)
-- [Noah](../noah/)
-- [Abraham](../abraham/)
-- [Moses](../moses/)
-- [Jesus](../jesus/)
-- [Mary](../mary/)
-- [Elohim](../elohim/)
-- [Yahweh](../yahweh/)
-- [Lucifer](../lucifer/)
-- [Satan](../satan/)
-- [Serpent](../serpent/)
-- [Plurality of Gods](../plurality-of-gods/)
-- [Tetragrammaton](../tetragrammaton/)
-- [Cosmic Chain](../cosmic-chain/)
-- [Cosmic Competition](../cosmic-competition/)
-- [Doubled Signature](../doubled-signature/)
-- [Tree of Life](../tree-of-life/)
-- [Dragons](../dragons/)
-- [Watchers](../watchers/)
-- [The Alliance](../the-alliance/)
-- [Council of the Eternals](../council-of-eternals/)
-- [Apocalypse](../apocalypse/)
-- [Prophet](../prophet/)
-- [Hebrew](../hebrew/)
-- [Hebrews](../hebrews/)
-- [Jean Sendy](../jean-sendy/)
-- [Mauro Biglino](../mauro-biglino/)
-- [Paul Anthony Wallis](../paul-anthony-wallis/)
-
-## References
-
-Vorilhon, Claude (Raël). *The Book Which Tells the Truth* (1974); collected in *Message from the Designers*. Substantial foundational source for the framework's specific content.
-
-Vorilhon, Claude (Raël). *Extra-Terrestrials Took Me to Their Planet* (1975); collected in *Message from the Designers*.
-
-Vorilhon, Claude (Raël). *Let's Welcome the Extra-Terrestrials* (1979); collected in *Message from the Designers*.
-
-Vorilhon, Claude (Raël). *Message from the Designers*. Tagman Press, 2005.
-
-Sendy, Jean. *Ces dieux qui firent le ciel et la terre*. Robert Laffont, 1969.
-
-Sendy, Jean. *L'ère du Verseau*. Robert Laffont, 1970.
-
-Sendy, Jean. *Les cahiers de cours de Moïse*. Julliard, 1963.
-
-Biglino, Mauro, and Giorgio Cattaneo. *The Naked Bible: The Truth About the Most Famous Book in History*. Uno, 2022.
-
-Wallis, Paul Anthony. *Escaping from Eden: Does Genesis Teach That the Human Race Was Created by God or Engineered by ETs?*. 6th Books, 2020.
-
-Wallis, Paul Anthony. *The Eden Conspiracy*. 6th Books, 2024.
-
-Wellhausen, Julius. *Prolegomena to the History of Israel*. Trans. J. Sutherland Black and Allan Menzies. Adam & Charles Black, 1885 [originally 1878].
-
-Friedman, Richard Elliott. *Who Wrote the Bible?* Harper & Row, 1987.
-
-Friedman, Richard Elliott. *The Bible with Sources Revealed*. HarperOne, 2003.
-
-Van Seters, John. *The Pentateuch: A Social-Science Commentary*. Sheffield Academic Press, 1999.
-
-Baden, Joel S. *The Composition of the Pentateuch: Renewing the Documentary Hypothesis*. Yale University Press, 2012.
-
-von Rad, Gerhard. *Old Testament Theology*. 2 vols. Trans. D. M. G. Stalker. Harper & Row, 1962-1965 [originally 1957-1960].
-
-von Rad, Gerhard. *Genesis: A Commentary*. Trans. John H. Marks. Westminster, revised ed., 1972 [originally 1949].
-
-Westermann, Claus. *Genesis 1-11: A Commentary*. Trans. John J. Scullion. Augsburg / Fortress, 1984.
-
-Westermann, Claus. *Genesis 12-36: A Commentary*. Trans. John J. Scullion. Augsburg / Fortress, 1985.
-
-Westermann, Claus. *Genesis 37-50: A Commentary*. Trans. John J. Scullion. Augsburg / Fortress, 1986.
-
-Brueggemann, Walter. *Theology of the Old Testament: Testimony, Dispute, Advocacy*. Augsburg Fortress, 1997.
-
-Alter, Robert. *The Art of Biblical Narrative*. Basic Books, 1981.
-
-Alter, Robert. *The Five Books of Moses: A Translation with Commentary*. W. W. Norton, 2004.
-
-Alter, Robert. *The Hebrew Bible: A Translation with Commentary*. 3 vols. W. W. Norton, 2018.
-
-Hendel, Ronald S. *The Text of Genesis 1-11: Textual Studies and Critical Edition*. Oxford University Press, 1998.
-
-Arnold, Bill T. *Genesis*. New Cambridge Bible Commentary. Cambridge University Press, 2009.
-
-Childs, Brevard S. *Introduction to the Old Testament as Scripture*. Fortress Press, 1979.
-
-Kugel, James L. *How to Read the Bible: A Guide to Scripture, Then and Now*. Free Press, 2007.
-
-Albright, William F. *From the Stone Age to Christianity*. Johns Hopkins University Press, 2nd ed., 1957.
-
-Cross, Frank Moore. *Canaanite Myth and Hebrew Epic: Essays in the History of the Religion of Israel*. Harvard University Press, 1973.
-
-Dever, William G. *What Did the Biblical Writers Know and When Did They Know It?*. Eerdmans, 2001.
-
-Dever, William G. *Who Were the Early Israelites and Where Did They Come From?*. Eerdmans, 2003.
-
-Finkelstein, Israel, and Neil Asher Silberman. *The Bible Unearthed: Archaeology's New Vision of Ancient Israel and the Origin of Its Sacred Texts*. Free Press, 2001.
-
-Mazar, Amihai. *Archaeology of the Land of the Bible: 10,000-586 B.C.E.* Doubleday, 1990.
-
-Tov, Emanuel. *Textual Criticism of the Hebrew Bible*. Augsburg Fortress, 3rd ed., 2012 [originally 1992].
-
-Tov, Emanuel. *The Text-Critical Use of the Septuagint in Biblical Research*. Eisenbrauns, 2nd ed., 1997.
-
-VanderKam, James C. *The Dead Sea Scrolls Today*. Eerdmans, revised ed., 2010 [originally 1994].
-
-VanderKam, James C., and Peter W. Flint. *The Meaning of the Dead Sea Scrolls: Their Significance for Understanding the Bible, Judaism, Jesus, and Christianity*. HarperSanFrancisco, 2002.
-
-Flint, Peter W. *The Dead Sea Psalms Scrolls and the Book of Psalms*. Brill, 1997.
-
-García Martínez, Florentino, and Eibert J. C. Tigchelaar, eds. *The Dead Sea Scrolls Study Edition*. 2 vols. Brill, 1997-1998.
-
-Ulrich, Eugene. *The Dead Sea Scrolls and the Origins of the Bible*. Eerdmans, 1999.
-
-Collins, John J. *The Dead Sea Scrolls: A Biography*. Princeton University Press, 2013.
-
-Fernández Marcos, Natalio. *The Septuagint in Context: Introduction to the Greek Version of the Bible*. Trans. Wilfred G. E. Watson. Brill, 2000.
-
-Jobes, Karen H., and Moisés Silva. *Invitation to the Septuagint*. Baker Academic, 2nd ed., 2015.
-
-McDonald, Lee Martin. *The Biblical Canon: Its Origin, Transmission, and Authority*. Hendrickson, 3rd ed., 2007.
-
-Sundberg, Albert C. *The Old Testament of the Early Church*. Harvard University Press, 1964.
-
-Barton, John. *Holy Writings, Sacred Text: The Canon in Early Christianity*. Westminster John Knox, 1997.
-
-Sanders, James A. *Canon and Community: A Guide to Canonical Criticism*. Fortress Press, 1984.
-
-Smith, Mark S. *The Early History of God: Yahweh and the Other Deities in Ancient Israel*. Harper & Row, 1990; revised ed. Eerdmans, 2002.
-
-Sitchin, Zecharia. *The 12th Planet*. Stein and Day, 1976.
-
-Pritchard, James B., ed. *Ancient Near Eastern Texts Relating to the Old Testament*. Princeton University Press, 3rd ed., 1969.
-
-Lambert, W. G., and A. R. Millard. *Atra-ḫasīs: The Babylonian Story of the Flood*. Oxford University Press, 1969.
-
-Lambert, W. G. *Babylonian Creation Myths*. Eisenbrauns, 2013.
-
-George, Andrew. *The Babylonian Gilgamesh Epic: Introduction, Critical Edition and Cuneiform Texts*. 2 vols. Oxford University Press, 2003.
-
-Hallo, William W., and K. Lawson Younger Jr., eds. *The Context of Scripture*. 3 vols. Brill, 1997-2002.
-
-Faulkner, R. O., trans. *The Ancient Egyptian Pyramid Texts*. Aris & Phillips, 1969.
-
-Faulkner, R. O., trans. *The Ancient Egyptian Coffin Texts*. 3 vols. Aris & Phillips, 1973-1978.
-
-Allen, T. G., trans. *The Book of the Dead, or, Going Forth by Day*. University of Chicago Press, 1974.
-
-Smith, Mark S., trans. *The Ugaritic Baal Cycle: Volume I*. Brill, 1994.
-
-Pardee, Dennis. *Ritual and Cult at Ugarit*. Society of Biblical Literature, 2002.
-
-Doniger, Wendy, trans. *The Rig Veda: An Anthology*. Penguin Classics, 1981.
-
-Olivelle, Patrick, trans. *The Early Upaniṣads: Annotated Text and Translation*. Oxford University Press, 1998.
-
-van Buitenen, J. A. B., trans. *The Mahābhārata*. 3 vols. University of Chicago Press, 1973-1978.
-
-Hesiod. *Theogony / Works and Days*. Trans. M. L. West. Oxford University Press, 1988.
-
-Homer. *The Iliad*. Trans. Robert Fagles. Penguin Classics, 1990.
-
-Homer. *The Odyssey*. Trans. Robert Fagles. Penguin Classics, 1996.
-
-"Hebrew Bible." *Encyclopaedia Britannica*. <https://www.britannica.com/topic/Hebrew-Bible>
-
-"Tanakh." *Wikipedia*. <https://en.wikipedia.org/wiki/Hebrew_Bible>
-
-"Masoretic Text." *Wikipedia*. <https://en.wikipedia.org/wiki/Masoretic_Text>
-
-"Septuagint." *Wikipedia*. <https://en.wikipedia.org/wiki/Septuagint>
-
-"Dead Sea Scrolls." *Wikipedia*. <https://en.wikipedia.org/wiki/Dead_Sea_Scrolls>
+Отличительный вклад системы в этот более широкий сравнительный ландшафт — прочтение исторической действительности (священно-текстовое содержание сохраняет культурную память о действительных событиях внеземной цивилизации, а не лишь о мифологическо-архетипическом субстрате), позиционирование центральности Еврейской Библии (еврейская традиция действует как структурный центр более широкого асимметричного синтеза, не регистрируя при этом уникальной привилегированности), и систематическая герменевтика расшифровки (система предоставляет систематический интерпретационный ключ для содержательной работы с текстовым содержанием по всем более широким священно-текстовым традициям).

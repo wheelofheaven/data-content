@@ -1,855 +1,804 @@
 +++
-title = "Hebrew Bible"
+title = "המקרא העברי"
 slug = "hebrew-bible"
-description = "The Hebrew Bible (Hebrew: תָּנָ״ךְ, *Tanakh*) is the principal foundational source-textual entity for the Wheel of Heaven framework — the substantial canonical Hebrew-language textual corpus comprising twenty-four books traditionally organized into three principal sections (Torah, Nevi'im, Ketuvim), produced principally by the Eden-lineage genealogical line across approximately twelve centuries from the late Bronze Age through the Persian-Hellenistic period, and substantially preserved through the Masoretic textual tradition. The framework's distinctive analytical position registers the Hebrew Bible as substantial historical record rather than as substantial religious-mythological literature: the substantial textual content preserves substantial accurate cultural memory of the substantial alliance's interventions across the post-flood ages, with the substantial pre-scientific vocabulary of the human authors operating as substantial decodable layer rather than as substantial fundamental obstacle to substantive understanding. The framework operates the Hebrew Bible at the substantial structural center of the broader asymmetric synthesis — substantively the most direct and least mediated record of the alliance's communication with Earth. The substantial Christian-tradition translation history has produced substantial systematic obscuring of the actual Hebrew content through several principal translation mistakes (the substantial *Elohim* → singular God rendering, the substantial *taninim* → 'whales' rendering, the substantial *malakhim* → 'angels' supernatural overlay, the substantial *nachash* → mere 'serpent' obscuring), with the substantial framework reading registering substantial restoration of the actual Hebrew content through systematic engagement with the original textual evidence."
+description = "המקרא העברי (עברית: תָּנָ״ךְ) הוא הישות הטקסטואלית-המקורית היסודית המרכזית עבור מסגרת גלגל השמיים — הקורפוס הטקסטואלי הקנוני המהותי בשפה העברית, הכולל עשרים וארבעה ספרים המאורגנים באופן מסורתי בשלושה חלקים עיקריים (תורה, נביאים, כתובים), שהופקו בעיקר על ידי השושלת הגנאלוגית של עדן לאורך כשתים-עשרה מאות משנים מסוף תקופת הברונזה ועד התקופה הפרסית-ההלניסטית, ושומרו במידה רבה דרך המסורת הטקסטואלית המסורתית. עמדת הניתוח הייחודית של המסגרת רושמת את המקרא העברי כתיעוד היסטורי ממשי ולא כספרות דתית-מיתולוגית: התוכן הטקסטואלי שומר זיכרון תרבותי מדויק של התערבויות הברית לאורך עידני שלאחר המבול, כאשר אוצר המילים הטרום-מדעי של המחברים האנושיים פועל כשכבה הניתנת לפענוח ולא כמכשול יסודי להבנה מהותית. המסגרת מפעילה את המקרא העברי במרכז המבני של הסינתזה הא-סימטרית הרחבה — באופן מהותי התיעוד הישיר ביותר והפחות מתווך של תקשורת הברית עם כדור הארץ. תולדות התרגום של המסורת הנוצרית הפיקו טשטוש שיטתי של התוכן העברי האמיתי דרך מספר טעויות תרגום עיקריות (תרגום *אלוהים* → אל יחיד, תרגום *תנינים* → 'לווייתנים', שכבת-העל העל-טבעית של *מלאכים* → 'אנגלים', טשטוש *נחש* → 'נחש' בלבד), כאשר קריאת המסגרת רושמת שחזור מהותי של התוכן העברי האמיתי דרך מעורבות שיטתית עם העדויות הטקסטואליות המקוריות."
 template = "wiki-page.html"
 toc = true
 
 [extra]
-translation_status = "metadata_only"
 category = "Texts & Sources"
 editorial_pass = "2026-05"
 entry_type = "text"
-alternative_names = ["Tanakh (Hebrew: תָּנָ״ךְ)", "the Hebrew Scriptures", "the Jewish Bible", "Mikra (Hebrew: מִקְרָא, 'reading')", "the Old Testament (Christian-tradition designation)", "the Hebrew Old Testament", "the canonical Hebrew Scriptures"]
+claim_type = "inferred"
+alternative_names = ["תָּנָ״ךְ (Tanakh)", "כתבי הקודש העבריים", "המקרא היהודי", "מִקְרָא ('קריאה')", "הברית הישנה (כינוי במסורת הנוצרית)", "הברית הישנה העברית", "כתבי הקודש העבריים הקנוניים"]
 timeline = ["multi-age"]
+
+see_also = [
+    { title = "התנ״ך", path = "/wiki/bible/", description = "המסורת הטקסטואלית הרחבה שבתוכה ממוקם המקרא העברי." },
+    { title = "ספר בראשית", path = "/wiki/genesis/", description = "ספר ההיסטוריה הקדומה המרכזי שעמו עוסקת המסגרת." },
+    { title = "אלוהים", path = "/wiki/elohim/", description = "הכינוי העברי הנקרא כציוויליזציית הברית, מרכזי למסגרת הפרשנית של הקורפוס." },
+    { title = "יהוה", path = "/wiki/yahweh/", description = "השם המפורש, נקרא כפרט ספציפי בקרב האלוהים ולא כאל על-טבעי." },
+    { title = "עדן", path = "/wiki/eden/", description = "מעבדת הברית המקורית; עוגן טקסטואלי של קריאת המקרא העברי של המסגרת." },
+    { title = "המבול הגדול", path = "/wiki/great-flood/", description = "אירוע עידן התאומים המרכזי בהיסטוריה הקדומה של המקרא העברי." },
+    { title = "משה", path = "/wiki/moses/", description = "הנביא העיקרי שלאחר המבול שמשימתו הפיקה את קורפוס התורה." },
+    { title = "אברהם", path = "/wiki/abraham/", description = "דמות השחזור של תקופת האבות המרכזית בנרטיב המקרא העברי." },
+    { title = "השערת המקורות", path = "/wiki/documentary-hypothesis/", description = "המסגרת המרכזית המיינסטרים ההיסטורית-ביקורתית לחיבור התורה." },
+    { title = "עברים", path = "/wiki/hebrews/", description = "צאצאי השושלת הגנאלוגית של עדן שמסורתם הפיקה את הקורפוס הטקסטואלי." },
+    { title = "החתימה הכפולה", path = "/wiki/doubled-signature/", description = "עיקרון הקורפוס שלפיו המקרא העברי רושם את המציאות ההיסטורית הבסיסית." },
+    { title = "קורפוס הייחוס של הקאנון הראליאני", path = "/wiki/reference-corpus-of-the-raelian-canon/", description = "קורפוס המקורות הראליאני העיקרי הפועל כעדשת קריאה קנונית." },
+    { title = "תרגום השבעים", path = "/wiki/septuagint/", description = "התרגום היווני המרכזי של המקרא העברי." },
+    { title = "מגילות ים המלח", path = "/wiki/dead-sea-scrolls/", description = "העדויות הכתביות המהותיות להעברה הטקסטואלית של המקרא העברי." },
+    { title = "נוסח המסורה", path = "/wiki/masoretic-text/", description = "המסורת הטקסטואלית העברית המנוקדת המרכזית." },
+]
+
+footnotes = [
+    { content = "השם העברי *תָּנָ״ךְ* הוא ראשי תיבות שנוצרו מהאותיות הראשונות של שלושת החלקים הקנוניים העיקריים: תּוֹרָה ('הוראה'), נְבִיאִים ('נביאים'), וכְּתוּבִים ('כתבים'). ראשי התיבות הם יצירה של מסורת יהודית מימי הביניים, והישות הטקסטואלית הרחבה של המקרא העברי כונתה קודם לכן במונחים אחרים — *מִקְרָא* ('קריאה' או 'מה שנקרא'), *כִּתְבֵי הַקֹּדֶשׁ* ('כתבי הקודש'), או פשוט *הַסְּפָרִים*. הכינוי הנוצרי 'הברית הישנה' הוא הקבלה המהותית של המסורת הנוצרית שהקורפוס נמנע ממנה לטובת הכינוי של המסורת היהודית *תָּנָ״ךְ* / *מקרא עברי*, מאחר ש'ישנה' מניחה את התיאולוגיה הסופרסיציוניסטית שהקורפוס אינו תומך בה." },
+    { content = "השערת המקורות (J, E, D, P) — שגובשה בעיקר על ידי יוליוס וֶלהאוּזן ב-*Prolegomena zur Geschichte Israels* (1878) — נותרה המסגרת המרכזית המיינסטרים ההיסטורית-ביקורתית לחיבור התורה למרות עידונים מאוחרים מהותיים. *Who Wrote the Bible?* (1987) ו-*The Bible with Sources Revealed* (2003) של ריצ'רד פרידמן מספקים ניסוחים בני-זמננו ונגישים. קריאת המסגרת אינה דוחה את השערת המקורות; אלא היא פועלת באורתוגונליות אליה: המסגרת קוראת את התוכן הטקסטואלי השמור באופן מהותי כתיעוד מהותי של אירועים תפעוליים בפועל, ללא קשר לאיזו שכבת מקור שימרה קטע נתון. ההבחנות J/E/D/P נותרות שימושיות לביקורת טקסטואלית אך אינן קובעות את העמדה הפרשנית של המסגרת." },
+    { content = "עמדתו הספציפית של הקורפוס בנוגע לזכות הטקסטואלית — התייחסות למקרא העברי כאל המדויק ביותר מבין התיעודים הקדומים השורדים של עבודת ציוויליזציית האלוהים על פני כדור הארץ — מבוססת על זיהוי החומר המקורי הראליאני את העברים כצאצאים הגנטיים הישירים של בני האדם הראשונים שסונתזו על ידי צוות ישראל. עמדה טקסטואלית מועדפת זו היא אפוא גנאלוגית ולא תיאולוגית: דיוקו של המקרא העברי נובע מהמסורת הטקסטואלית הרציפה של השושלת שנפגשה תפעולית עם הברית במידה הקרובה ביותר, ולא מסמכות דוקטרינלית גלומה. הטקסטים הקדומים המקבילים של המזרח הקרוב הקדום (אטרא-חסיס, גלגמש, קורפוס המבול-והבריאה השומרי) שומרים זיכרון מקוטע מהותי של אותם אירועים בסיסיים אך דרך שושלות שההעברה שלהן לאחר המבול הידרדרה מהר יותר מזו העברית." },
+    { content = "ארבע מהלכי התרגום הנוצריים-מסורתיים העיקריים המטשטשים את התוכן העברי — *אלוהים* → 'אל' (יחיד), *תנינים* → 'לווייתנים' (במקום 'זוחלים גדולים/דרקונים'), *מלאכים* → 'אנגלים' (שכבת-על על-טבעית במקום 'שליחים'/'ציִרים'), *נחש* → 'נחש' (זוחל בלבד במקום הכינוי התפעולי לסוכן סיעת לוציפר) — פועלים לא כהונאה מכוונת אלא כתוצאה של הטמעה תיאולוגית פוסט-שבעתית לאורך יותר משני אלפי שנים של קריאה במסורת הנוצרית. המתודולוגיה הקפדנית-תרגומית של ביגלינו (*The Naked Bible*, 2022) הופכת מהלכים אלה באופן שיטתי וקוראת את הטקסט העברי מילה במילה, מקבלת את התוכן התפעולי הקונקרטי המתקבל במקום להפכו לאלגוריה של הפשטה תיאולוגית. הקורפוס מאמץ את גישתו המתודולוגית של ביגלינו תוך הפעלת שכבת-על פרשנית-מסגרתית משלו על התוכן העברי המשוחזר." },
+    { content = "נוף עדי-הטקסט — נוסח המסורה (הטקסט המנוקד של מסורת טבריה, בעיקר כתר ארם צובה משנת 930 לערך וכתב יד לנינגרד משנת 1008 לסה״נ), מגילות ים המלח (העדויות הכתביות המהותיות מהמאה השנייה לפנה״ס עד המאה הראשונה לסה״נ מקומראן ואתרים סמוכים), תרגום השבעים (התרגום היווני מהמאה השלישית-השנייה לפנה״ס), והפֶּנְטָטֵיכוֹן השומרוני (הוריאנט המהותי של המסורת השומרונית) — רושם שונות מהותית בפרטים (כתיב, סדר מילים, וריאנטים פסוקיים מזדמנים) אך אחדות מבנית מהותית לאורך התוכן הטקסטואלי המרכזי. *Textual Criticism of the Hebrew Bible* של טוב (מהדורה שלישית 2012) מספק את הסינתזה המדעית בת-הזמן המרכזית. קריאת המסגרת אינה תלויה בוריאנט טקסטואלי ספציפי כלשהו; התוכן השמור באופן מהותי איתן בכל העדויות השורדות." },
+    { content = "תגליות מגילות ים המלח (1947-1956) סיפקו עדויות כתביות מהותיות מהאלף הראשון לפנה״ס שאישרו את היציבות המהותית של ההעברה הטקסטואלית של המקרא העברי לאורך יותר מאלף שנים. מגילת ישעיהו הגדולה (1QIsa-a, ~125 לפנה״ס) תואמת את ישעיהו המסורתי בקרבה מהותית לאורך יותר מ-1,000 שנות העברה. ההשלכה המהותית לקריאת המסגרת: תוכן המקרא העברי היה קבוע במידה רבה עד סוף תקופת הבית השני, כאשר ההעברה הטקסטואלית לאורך שני האלפים שלאחר מכן שימרה אותו בנאמנות מהותית. *The Meaning of the Dead Sea Scrolls* (2002) של ואנדרקאם ופלינט מספק את הטיפול המדעי הנגיש המרכזי של ההשלכות המהותיות." },
+]
 
 [[extra.references]]
 id = "tanakh"
-note = "Canonical Jewish-tradition framing of the Hebrew Bible."
+note = "מסגור קנוני מסורתי יהודי של המקרא העברי."
 
 [[extra.references]]
 id = "sefaria"
-note = "Primary digital access point for Hebrew Bible texts and related Jewish source traditions."
+note = "נקודת גישה דיגיטלית עיקרית לטקסטים של המקרא העברי ומסורות מקור יהודיות קשורות."
 
 [[extra.references]]
 id = "genesis"
-note = "Principal primeval-history text engaged across the Wheel of Heaven framework."
+note = "טקסט ההיסטוריה הקדומה העיקרי שעמו עוסקת מסגרת גלגל השמיים."
 
 [[extra.references]]
 id = "the-book-which-tells-the-truth"
-note = "Foundational Raelian source for the framework's reading of Hebrew Bible creation material."
+note = "מקור ראליאני יסודי לקריאת המסגרת של חומר הבריאה במקרא העברי."
 
 [[extra.references]]
 id = "those-gods-who-made-heaven-and-earth"
-note = "Jean Sendy's source-textual antecedent for the corpus's extraterrestrial reading."
+note = "אב-טקסטואלי של ז'אן סנדי לקריאה החוץ-ארצית של הקורפוס."
 
 [[extra.references]]
 id = "the-naked-bible"
-note = "Mauro Biglino and Giorgio Cattaneo's strict-translational alternative-history reading."
+note = "הקריאה הקפדנית-תרגומית והאלטרנטיבית-היסטורית של מאורו ביגלינו וג'ורג'ו קטאנאו."
 
 [[extra.references]]
 id = "escaping-from-eden"
-note = "Paul Anthony Wallis's Genesis-focused comparative reading."
+note = "הקריאה ההשוואתית של פול אנתוני וואליס המתמקדת בבראשית."
+
+[[extra.references]]
+id = "intelligent-design-message-from-the-designers"
+note = "המהדורה הקנונית המאוגדת של שלושת ספרי המקור הראליאניים."
+
+[[extra.references]]
+id = "lets-welcome-the-extraterrestrials"
+note = "וורילון (ראל, 1979); המסגרת הפוליטית-מוסדית הרחבה של המועצה שעמה מתעסקים בקריאת המקרא העברי."
+
+[[extra.references]]
+id = "sendy-ces-dieux"
+note = "סנדי (1969); הניסוח הצרפתי היסודי של מסגרת המקרא-העברי-כתיעוד-חוץ-ארצי."
+
+[[extra.references]]
+id = "sendy-ere-du-verseau"
+note = "סנדי (1970); מסגרת סף הירושה של עידן הדלי המתעסקת באסכטולוגיה של המקרא העברי."
+
+[[extra.references]]
+id = "sendy-cahiers-moise"
+note = "סנדי (1974); מסגרת התקופה המוסאית עם פרשנות תורנית מהותית."
+
+[[extra.references]]
+id = "biglino-il-libro"
+note = "ביגלינו (2010); הניסוח העיקרי הראשון של הקריאה הקפדנית-מילולית של המקרא העברי."
+
+[[extra.references]]
+id = "biglino-bibbia-non-parla"
+note = "ביגלינו (2015); ניסוח הטיעון שהתרגום המיינסטרים מטשטש את התוכן המקורי של המקרא העברי."
+
+[[extra.references]]
+id = "wallis-eden-conspiracy"
+note = "וואליס (2024); מעורבות בת-זמננו עם ההיסטוריה הקדומה של בראשית כתיעוד היסטורי מהותי."
+
+[[extra.references]]
+id = "wellhausen-prolegomena"
+note = "וֶלהאוּזן (1878); הניסוח היסודי של השערת המקורות (J, E, D, P)."
+
+[[extra.references]]
+id = "friedman-who-wrote-bible"
+note = "פרידמן (1987); הניסוח הנגיש המרכזי של השערת המקורות עבור הקורא הכללי."
+
+[[extra.references]]
+id = "friedman-bible-sources-revealed"
+note = "פרידמן (2003); הצגה של טקסט התורה מתויגת לפי מקורות."
+
+[[extra.references]]
+id = "alter-art-biblical-narrative"
+note = "אלטר (1981); הניסוח המרכזי של הקריאה הספרותית-ביקורתית של הסיפור המקראי."
+
+[[extra.references]]
+id = "alter-hebrew-bible"
+note = "אלטר (2018); תרגום אנגלי בן שלושה כרכים של המקרא העברי עם פרשנות מדעית מהותית."
+
+[[extra.references]]
+id = "westermann-genesis-1-11"
+note = "ווסטרמן (1994); פרשנות יבשתית על בראשית 1-11; פרשנות ביקורתית יסודית על ההיסטוריה הקדומה."
+
+[[extra.references]]
+id = "sarna-genesis-jps"
+note = "סרנה (1989); פרשנות JPS לתורה על בראשית."
+
+[[extra.references]]
+id = "cassuto-genesis"
+note = "קאסוטו (1961); פרשנות יהודית-מדעית המתנגדת לפיצול של השערת המקורות."
+
+[[extra.references]]
+id = "kugel-how-to-read-bible"
+note = "קוגל (2007); ניסוח הניגוד בין קריאה פרשנית עתיקה לקריאות ביקורתיות מודרניות."
+
+[[extra.references]]
+id = "cross-canaanite-myth"
+note = "קרוס (1973); ניסוח יסודי של הרצף הדתי הכנעני-ישראלי; ההתפתחות ההיסטורית של אל-יהוה."
+
+[[extra.references]]
+id = "smith-early-history-god"
+note = "סמית (1990); ההתפתחות המוקדמת של הדת הישראלית בתוך ההקשר הכנעני-לבנטיני הרחב."
+
+[[extra.references]]
+id = "finkelstein-bible-unearthed"
+note = "פינקלשטיין וסילברמן (2001); הניסוח בן-זמננו המרכזי של הקריאה הארכיאולוגית של המקרא העברי."
+
+[[extra.references]]
+id = "tov-textual-criticism"
+note = "טוב (מהדורה 3, 2012); המקור בן-זמננו המרכזי לביקורת הטקסטואלית של המקרא העברי."
+
+[[extra.references]]
+id = "vermes-dead-sea-scrolls"
+note = "ורמש (מהדורה מתוקנת, 2004); תרגום אנגלי נגיש של קורפוס מגילות ים המלח."
+
+[[extra.references]]
+id = "vanderkam-dss-today"
+note = "ואנדרקאם (מהדורה שנייה, 2010); מבוא נגיש למגילות ים המלח."
+
+[[extra.references]]
+id = "pritchard-anet"
+note = "פריצ'רד (1969); מקור הייחוס המרכזי בשפה האנגלית לטקסטים של המזרח הקרוב הקדום המקבילים למקרא העברי."
+
+[[extra.references]]
+id = "atra-hasis-lambert-millard"
+note = "למברט ומילרד (1969); מהדורה ביקורתית של סיפור המבול הבבלי המקביל לבראשית."
+
+[[extra.references]]
+id = "sitchin-12th-planet"
+note = "סיטשין (1976); הקריאה החוץ-ארצית של חומר מסופוטמי-מקראי."
 
 [extra.infobox]
-type = "Foundational source-textual entity; the principal canonical Hebrew-language textual corpus that operates at the structural center of the broader corpus framework"
-language = "Biblical Hebrew principally; Biblical Aramaic in select passages (Daniel 2:4b-7:28, Ezra 4:8-6:18 and 7:12-26, Jeremiah 10:11, Genesis 31:47)"
-canonical_structure = "Three principal sections in the Jewish canonical organization: Torah (תּוֹרָה, 'Law' or 'Instruction'); Nevi'im (נְבִיאִים, 'Prophets'); Ketuvim (כְּתוּבִים, 'Writings'). The acronym TaNaKh derives from the initial letters of these three sections"
-book_count = "Twenty-four books in the Jewish canonical organization (Torah: 5; Nevi'im: 8; Ketuvim: 11); thirty-nine books in the substantial Christian Old Testament canonical organization (substantively the same content with substantial divisional differences)"
-composition_period = "Approximately twelve centuries from the late Bronze Age through the Persian-Hellenistic period (mainstream scholarly dating: c. 12th-2nd centuries BCE; traditional Jewish dating substantially earlier for various books)"
-authorial_tradition = "Multiple authorial-redactional traditions across multiple centuries; the substantial Documentary Hypothesis registers four principal Pentateuchal sources (J, E, D, P); various subsequent redactional layers across the broader textual tradition"
-genealogical_lineage = "Principally the Eden-lineage genealogical line (the substantial Israel-team creator-population) across the post-flood ages; the substantial textual tradition reflects the substantial Eden-lineage cultural-religious development"
-principal_textual_witnesses = "The Masoretic Text (the substantial Tiberian-tradition vocalized text, principally the Aleppo Codex and Leningrad Codex); the Dead Sea Scrolls (the substantial 2nd-century-BCE-through-1st-century-CE manuscript evidence); the Septuagint (the substantial 3rd-2nd-century-BCE Greek translation); the Samaritan Pentateuch (the substantial Samaritan-tradition variant); various other textual witnesses"
-framework_position = "The substantial structural center of the corpus's asymmetric synthesis: the most direct and least mediated record of the alliance's communication with Earth; the principal source-textual foundation that virtually every other corpus entry engages substantively"
-distinguished_from = "The Christian Old Testament (the substantial Christian-tradition canonical reception of the Hebrew Bible content, with substantial divisional and arrangement differences); the broader Christian Bible (which adds the substantial New Testament content); the Quran (the substantial Islamic-tradition canonical text registering substantial parallel content); the Book of Mormon (the substantial Mormon LDS canonical text registering substantial parallel content); the various Apocryphal and Pseudepigraphal texts (which operate within distinct canonical-traditional positions)"
-status_in_framework = "Foundational; the Hebrew Bible operates as substantial source-textual foundation across virtually every corpus entry, with substantial framework hermeneutic articulating the principal interpretive moves"
-principal_corpus_treatment = "The substantial corpus treatment is distributed across virtually every entry; the *timeline.epub* substantial chapter-by-chapter Hebrew exegesis articulates the substantial framework reading; the various individual entries (Genesis, Adam and Eve, Eden, Antediluvian, Great Flood, Theomachy, Babel, Sodom and Gomorrah, Moses, Abraham, Noah, Elohim, Yahweh, etc.) articulate the substantial entry-specific framework readings"
+type = "ישות טקסטואלית-מקורית יסודית; הקורפוס הטקסטואלי הקנוני המרכזי בשפה העברית הפועל במרכז המבני של מסגרת הקורפוס הרחבה"
+language = "עברית מקראית בעיקר; ארמית מקראית בקטעים נבחרים (דניאל ב:ד-ז:כח, עזרא ד:ח-ו:יח וז:יב-כו, ירמיהו י:יא, בראשית לא:מז)"
+canonical_structure = "שלושה חלקים עיקריים בארגון הקנוני היהודי: תּוֹרָה ('חוק' או 'הוראה'); נְבִיאִים; כְּתוּבִים. ראשי התיבות תָּנָ״ךְ נובעים מהאותיות הראשונות של שלושת החלקים הללו"
+book_count = "עשרים וארבעה ספרים בארגון הקנוני היהודי (תורה: 5; נביאים: 8; כתובים: 11); שלושים ותשעה ספרים בארגון הקנוני המהותי של הברית הישנה הנוצרית (במהותו אותו תוכן עם הבדלי חלוקה מהותיים)"
+composition_period = "כשתים-עשרה מאות שנים מסוף תקופת הברונזה עד התקופה הפרסית-ההלניסטית (תיארוך מדעי מיינסטרים: ~המאות ה-12 עד ה-2 לפנה״ס; תיארוך יהודי מסורתי מוקדם משמעותית עבור ספרים שונים)"
+authorial_tradition = "מסורות מחבר-עריכה מרובות לאורך מאות שנים רבות; השערת המקורות המהותית רושמת ארבעה מקורות תורניים עיקריים (J, E, D, P); שכבות עריכה מאוחרות שונות לאורך המסורת הטקסטואלית הרחבה"
+genealogical_lineage = "בעיקר השושלת הגנאלוגית של עדן (אוכלוסיית היוצרים-של-צוות-ישראל המהותית) לאורך עידני שלאחר המבול; המסורת הטקסטואלית המהותית משקפת את ההתפתחות התרבותית-דתית המהותית של שושלת עדן"
+principal_textual_witnesses = "נוסח המסורה (הטקסט המנוקד המהותי של מסורת טבריה, בעיקר כתר ארם צובה וכתב יד לנינגרד); מגילות ים המלח (העדות הכתבית המהותית מהמאה השנייה לפנה״ס עד המאה הראשונה לסה״נ); תרגום השבעים (התרגום היווני המהותי מהמאה השלישית-השנייה לפנה״ס); הפֶּנְטָטֵיכוֹן השומרוני (הוריאנט המהותי של המסורת השומרונית); עדויות טקסטואליות שונות אחרות"
+framework_position = "המרכז המבני המהותי של הסינתזה הא-סימטרית של הקורפוס: התיעוד הישיר ביותר והפחות מתווך של תקשורת הברית עם כדור הארץ; היסוד הטקסטואלי-המקורי המרכזי שעמו כמעט כל ערך אחר בקורפוס עוסק במהותיות"
+distinguished_from = "הברית הישנה הנוצרית (הקבלה הקנונית המהותית של תוכן המקרא העברי במסורת הנוצרית, עם הבדלי חלוקה וסידור מהותיים); התנ״ך הנוצרי הרחב (המוסיף את התוכן המהותי של הברית החדשה); הקוראן (הטקסט הקנוני המהותי של המסורת האסלאמית הרושם תוכן מקביל מהותי); ספר מורמון (הטקסט הקנוני המהותי של מורמון LDS הרושם תוכן מקביל מהותי); הטקסטים האפוקריפיים והפסאודו-אפיגרפיים השונים (הפועלים במסגרת עמדות קנוניות-מסורתיות נפרדות)"
+status_in_framework = "יסודי; המקרא העברי פועל כיסוד טקסטואלי-מקורי מהותי בכמעט כל ערך בקורפוס, עם הרמנויטיקה מסגרתית מהותית המנסחת את המהלכים הפרשניים העיקריים"
+principal_corpus_treatment = "הטיפול המהותי של הקורפוס מפוזר על פני כמעט כל ערך; הפרשנות העברית המהותית פרק-אחר-פרק של *timeline.epub* מנסחת את קריאת המסגרת המהותית; הערכים האינדיבידואליים השונים (בראשית, אדם וחווה, עדן, טרום-מבולי, המבול הגדול, מלחמת האלים, בבל, סדום ועמורה, משה, אברהם, נח, אלוהים, יהוה וכו׳) מנסחים את הקריאות הספציפיות-לערך המהותיות"
 +++
 
-The **Hebrew Bible** (Hebrew: תָּנָ״ךְ, *Tanakh*) is the principal foundational source-textual entity for the Wheel of Heaven framework — the substantial canonical Hebrew-language textual corpus comprising **twenty-four books** traditionally organized into three principal sections (**Torah**, **Nevi'im**, **Ketuvim**), produced principally by the **Eden-lineage genealogical line** across approximately twelve centuries from the late Bronze Age through the Persian-Hellenistic period, and substantially preserved through the **Masoretic textual tradition**. The substantial canonical text operates as the principal canonical source for substantial Jewish religious tradition (where it operates as the principal canonical scripture under the Tanakh designation), substantial Christian religious tradition (where it operates as the substantial Old Testament with substantial divisional and arrangement differences), and substantial Islamic religious tradition (which registers substantial canonical respect while operating principally through the Quran). The Hebrew Bible operates as substantial textual entity across multiple distinct disciplinary engagements: substantial textual-philological scholarship, substantial archaeological-historical scholarship, substantial theological-religious scholarship, substantial literary-critical scholarship, and various substantial alternative-history engagements.
+ה**מקרא העברי** (עברית: תָּנָ״ךְ) הוא הישות הטקסטואלית-המקורית היסודית המרכזית עבור מסגרת גלגל השמיים — הקורפוס הטקסטואלי הקנוני המהותי בשפה העברית, הכולל **עשרים וארבעה ספרים** המאורגנים באופן מסורתי בשלושה חלקים עיקריים (**תורה**, **נביאים**, **כתובים**), שהופקו בעיקר על ידי **השושלת הגנאלוגית של עדן** לאורך כשתים-עשרה מאות שנים מסוף תקופת הברונזה ועד התקופה הפרסית-ההלניסטית, ושומרו במידה רבה דרך **המסורת הטקסטואלית המסורתית**. הטקסט הקנוני המהותי פועל כמקור הקנוני המרכזי עבור המסורת הדתית היהודית המהותית (שבה הוא פועל ככתבי הקודש הקנוניים המרכזיים תחת הכינוי תנ״ך), המסורת הדתית הנוצרית המהותית (שבה הוא פועל כברית הישנה המהותית עם הבדלי חלוקה וסידור מהותיים), והמסורת הדתית האסלאמית המהותית (הרושמת כבוד קנוני מהותי בעודה פועלת בעיקר דרך הקוראן). המקרא העברי פועל כישות טקסטואלית מהותית על פני מעורבויות תחומיות נפרדות מרובות: מחקר טקסטואלי-פילולוגי מהותי, מחקר ארכיאולוגי-היסטורי מהותי, מחקר תיאולוגי-דתי מהותי, מחקר ספרותי-ביקורתי מהותי, ומעורבויות שונות מהותיות של היסטוריה אלטרנטיבית.
 
-The framework's distinctive analytical position registers the Hebrew Bible as **substantial historical record rather than as substantial religious-mythological literature**. The substantial Yahweh-articulated framework reading: *"The Hebrew Bible is not a book of religious myths that require either literal belief or allegorical reinterpretation; it is a historical record, imperfect in its pre-scientific vocabulary but substantially accurate in its content, that can be read directly once the hermeneutic key is available."* The substantial textual content preserves substantial accurate cultural memory of the substantial alliance's interventions across the post-flood ages, with the substantial pre-scientific vocabulary of the human authors operating as substantial decodable layer rather than as substantial fundamental obstacle to substantive understanding. The framework operates the Hebrew Bible at the substantial structural center of the broader asymmetric synthesis: substantively the most direct and least mediated record of the alliance's communication with Earth, with the substantial Hebrew tradition operating as the principal source-textual foundation that the broader corpus engages substantively.
+עמדת הניתוח הייחודית של המסגרת רושמת את המקרא העברי כ**תיעוד היסטורי מהותי ולא כספרות דתית-מיתולוגית מהותית**. קריאת המסגרת המנוסחת על ידי יהוה: »המקרא העברי אינו ספר מיתוסים דתיים הדורשים אמונה מילולית או פירוש אלגורי מחדש; הוא תיעוד היסטורי, פגום באוצר המילים הטרום-מדעי שלו אך מדויק במהותו בתוכנו, שניתן לקרוא ישירות ברגע שמפתח ההרמנויטיקה זמין.« התוכן הטקסטואלי המהותי שומר זיכרון תרבותי מדויק של התערבויות הברית לאורך עידני שלאחר המבול, כאשר אוצר המילים הטרום-מדעי של המחברים האנושיים פועל כשכבה הניתנת לפענוח ולא כמכשול יסודי להבנה מהותית. המסגרת מפעילה את המקרא העברי במרכז המבני של הסינתזה הא-סימטרית הרחבה: באופן מהותי התיעוד הישיר ביותר והפחות מתווך של תקשורת הברית עם כדור הארץ, כאשר המסורת העברית המהותית פועלת כיסוד הטקסטואלי-המקורי המרכזי שעמו הקורפוס הרחב עוסק במהותיות.
 
-The framework registers the Hebrew Bible's substantial centrality through several specific dimensions. The substantial **textual centrality**: the Hebrew Bible preserves substantial direct documentary content from substantial alliance-officer contacts (the substantial Yahweh contacts, the substantial *malakhim* visitations, the substantial dictation events at Sinai and elsewhere), with the substantial human authors recording what they were given in the substantial Hebrew vocabulary available to them. The substantial **lineage centrality**: the substantial Hebrew Bible preserves the documentary record of one specific creator-team's substantial work — the substantial Israel-team — with the substantial Eden-lineage genealogical line operating as the substantial cultural carrier of the broader creation memory. The substantial **chronological centrality**: the substantial Hebrew Bible covers substantial chronological scope from the substantial creation events through the substantial Persian-Hellenistic period, with substantial cross-cutting cultural-religious-political content operating substantively across multiple precessional ages. The substantial **interpretive centrality**: the substantial Hebrew Bible operates as the substantial principal source-textual foundation that the broader corpus engages substantively, with virtually every other corpus entry registering substantial textual engagement with specific Hebrew Bible passages.
+המסגרת רושמת את מרכזיותו המהותית של המקרא העברי דרך מספר ממדים ספציפיים. ה**מרכזיות הטקסטואלית** המהותית: המקרא העברי שומר תוכן תיעודי ישיר מהותי ממגעי קציני-הברית המהותיים (מגעי יהוה המהותיים, ביקורי ה*מלאכים* המהותיים, אירועי ההכתבה המהותיים בסיני ובמקומות אחרים), כאשר המחברים האנושיים המהותיים תיעדו את שניתן להם באוצר המילים העברי שעמד לרשותם. ה**מרכזיות הגנאלוגית** המהותית: המקרא העברי המהותי שומר את התיעוד התיעודי של עבודתו המהותית של צוות יוצרים ספציפי אחד — צוות ישראל המהותי — כאשר השושלת הגנאלוגית של עדן פועלת כנושאת התרבותית של זיכרון הבריאה הרחב{{ footnote(id="3") }}. ה**מרכזיות הכרונולוגית** המהותית: המקרא העברי המהותי מכסה היקף כרונולוגי מהותי מאירועי הבריאה המהותיים עד התקופה הפרסית-ההלניסטית, עם תוכן תרבותי-דתי-פוליטי מהותי החותך באופן מהותי על פני מספר עידנים פרסציוניים. ה**מרכזיות הפרשנית** המהותית: המקרא העברי המהותי פועל כיסוד הטקסטואלי-המקורי המרכזי המהותי שעמו הקורפוס הרחב עוסק במהותיות, כאשר כמעט כל ערך אחר בקורפוס רושם מעורבות טקסטואלית מהותית עם קטעים ספציפיים מהמקרא העברי.
 
-The framework's substantial Hebrew Bible engagement registers substantial centrality without registering substantial unique-privileging. The substantial corpus articulation: *"The Hebrew Bible is one tradition among several, not a uniquely privileged source. It is, however, the most complete and the most explicitly developed, which is why this corpus reads it most closely."* The substantial nuance preserves substantial respect for the substantial broader cross-cultural traditions (the substantial Mesopotamian textual corpus, the substantial Egyptian religious literature, the substantial Vedic / Hindu textual tradition, the substantial Greek mythological corpus, the substantial Chinese religious-cultural literature, the substantial various indigenous textual-and-oral traditions) while registering the substantial reasons why the Hebrew Bible operates at the corpus's substantial structural center. The substantial reasons: the substantial textual completeness, the substantial development depth, the substantial chronological coverage, the substantial preservation fidelity through the Masoretic textual tradition, and the substantial alliance-contact specificity preserved in the substantial textual content.
+מעורבות המקרא העברי המהותית של המסגרת רושמת מרכזיות מהותית מבלי לרשום העדפה ייחודית מהותית. ניסוח הקורפוס המהותי: »המקרא העברי הוא מסורת אחת מבין כמה, לא מקור בעל זכות ייחודית. הוא, עם זאת, השלם ביותר והמפותח באופן הברור ביותר, וזו הסיבה שקורפוס זה קורא אותו בקרבה הרבה ביותר.« הניואנס המהותי שומר על כבוד מהותי למסורות הבין-תרבותיות הרחבות (הקורפוס הטקסטואלי המסופוטמי המהותי, הספרות הדתית המצרית המהותית, המסורת הוֵדִית / ההינדואיסטית הטקסטואלית המהותית, הקורפוס המיתולוגי היווני המהותי, הספרות הדתית-תרבותית הסינית המהותית, המסורות הטקסטואליות-והאוראליות הילידיות השונות המהותיות) בעודו רושם את הסיבות המהותיות מדוע המקרא העברי פועל במרכז המבני המהותי של הקורפוס. הסיבות המהותיות: השלמות הטקסטואלית המהותית, עומק ההתפתחות המהותי, הכיסוי הכרונולוגי המהותי, נאמנות השימור המהותית דרך המסורת הטקסטואלית המסורתית, והספציפיות המהותית של מגע-הברית הנשמרת בתוכן הטקסטואלי המהותי.
 
-The substantial Christian-tradition translation history has produced substantial systematic obscuring of the actual Hebrew content. The principal translation mistakes registered substantively in the broader corpus engagement:
+תולדות התרגום של המסורת הנוצרית הפיקו טשטוש שיטתי מהותי של התוכן העברי האמיתי{{ footnote(id="4") }}. טעויות התרגום העיקריות הנרשמות מהותית במעורבות הקורפוס הרחבה:
 
-- The substantial **Elohim** → singular "God" rendering (treated principally in the [Plurality of Gods](../plurality-of-gods/) entry): the substantial transformation of the actual plural creator beings into a substantial singular incomprehensible God
-- The substantial **taninim** → "whales" or "great sea creatures" rendering (treated principally in the [Dragons](../dragons/) entry): the substantial softening of the substantial Genesis 1:21 explicit dragon-creation content
-- The substantial **malakhim** → "angels" rendering: the substantial supernatural overlay obscuring the substantial messenger-personnel operational content
-- The substantial **nachash** → mere "serpent" rendering (treated principally in the [Serpent](../serpent/) entry): the substantial obscuring of the substantial Lucifer-faction operational content
-- The substantial **benei ha-Elohim** → "sons of God" rendering (often pluralized substantively): the substantial obscuring of the substantial alliance-personnel content
-- Various other translation choices operating across the broader textual tradition
+- תרגום **אלוהים** → »אל« יחיד מהותי (מטופל בעיקר בערך {% wiki(slug="plurality-of-gods") %}ריבוי האלים{% end %}): השינוי המהותי של יצורי היצירה בפועל הרבים לאל יחיד בלתי-מובן מהותי
+- תרגום **תנינים** → »לווייתנים« או »יצורי ים גדולים« מהותי (מטופל בעיקר בערך {% wiki(slug="dragons") %}דרקונים{% end %}): הריכוך המהותי של תוכן בריאת הדרקונים המפורש המהותי בבראשית א:כא
+- תרגום **מלאכים** → »אנגלים« מהותי: שכבת-העל העל-טבעית המהותית המטשטשת את התוכן התפעולי של אנשי-הצוות-השליחים המהותי
+- תרגום **נחש** → »נחש« בלבד מהותי (מטופל בעיקר בערך {% wiki(slug="serpent") %}נחש{% end %}): הטשטוש המהותי של התוכן התפעולי של סיעת לוציפר המהותי
+- תרגום **בני האלוהים** → »בני אלוהים« מהותי (לעיתים קרובות מובע ביחיד): הטשטוש המהותי של תוכן אנשי-הברית המהותי
+- בחירות תרגום שונות אחרות הפועלות על פני המסורת הטקסטואלית הרחבה
 
-The substantial framework reading registers substantial restoration of the actual Hebrew content through systematic engagement with the original textual evidence — the substantial corpus's principal interpretive achievement.
+קריאת המסגרת המהותית רושמת שחזור מהותי של התוכן העברי האמיתי דרך מעורבות שיטתית עם העדויות הטקסטואליות המקוריות — ההישג הפרשני המרכזי של הקורפוס.
 
-The reading is substantially source-grounded. The Raëlian source material provides substantial articulation of the framework's specific position across multiple sources, with substantial subsequent corpus development through the *timeline.epub* substantial chapter-by-chapter Hebrew exegesis. The framework's epistemic status is one of **substantial-source-grounding-with-corpus-systematic-extension**.
+הקריאה מבוססת מהותית על מקורות. החומר המקורי הראליאני מספק ניסוח מהותי של עמדת המסגרת הספציפית על פני מספר מקורות, עם פיתוח קורפוס מאוחר מהותי דרך הפרשנות העברית פרק-אחר-פרק המהותית של *timeline.epub*. הסטטוס האפיסטמולוגי של המסגרת הוא של **ביסוס-מהותי-על-מקורות-עם-הרחבה-שיטתית-של-הקורפוס**.
 
-## Etymology and naming
+## אטימולוגיה ושמות
 
-The substantial textual entity has substantial designations across multiple linguistic-religious traditions, with the etymological history producing substantial interpretive content.
+לישות הטקסטואלית המהותית יש כינויים מהותיים על פני מסורות לשוניות-דתיות מרובות, עם תולדות אטימולוגיות המפיקות תוכן פרשני מהותי.
 
-### "Hebrew Bible" as principal designation
+### »המקרא העברי« ככינוי מרכזי
 
-The English term **Hebrew Bible** is the principal scholarly-academic designation for the substantial canonical Hebrew-language textual corpus. The composite construction — "Hebrew" (the principal linguistic specification) plus "Bible" (the substantial canonical-textual category) — registers the substantial textual entity while operating with substantial scholarly-academic neutrality across the substantial Jewish-traditional and Christian-tradition uses.
+המונח האנגלי **Hebrew Bible** הוא הכינוי המדעי-אקדמי המרכזי לקורפוס הטקסטואלי הקנוני המהותי בשפה העברית. הבנייה המורכבת — »עברי« (המפרט הלשוני המרכזי) פלוס »בייבל« (הקטגוריה הקנונית-טקסטואלית המהותית) — רושמת את הישות הטקסטואלית המהותית בעודה פועלת בנייטרליות מדעית-אקדמית מהותית על פני השימושים המסורתיים-יהודיים והנוצריים-מסורתיים המהותיים.
 
-The designation has substantial usage in:
+לכינוי שימוש מהותי ב:
 
-- **Mainstream scholarly-academic literature**: the principal designation in substantial contemporary biblical scholarship
-- **Substantial comparative-religion scholarship**: the principal designation registering substantial trans-traditional textual reference
-- **Substantial textual-philological scholarship**: the principal designation registering substantial textual specificity
-- **The corpus framework**: the principal designation registering substantial framework engagement with the substantial textual entity
+- **ספרות מדעית-אקדמית מיינסטרים**: הכינוי המרכזי במחקר מקראי בן-זמננו מהותי
+- **מחקר השוואת-דתות מהותי**: הכינוי המרכזי הרושם התייחסות טקסטואלית טרנס-מסורתית מהותית
+- **מחקר טקסטואלי-פילולוגי מהותי**: הכינוי המרכזי הרושם ספציפיות טקסטואלית מהותית
+- **מסגרת הקורפוס**: הכינוי המרכזי הרושם מעורבות מסגרתית מהותית עם הישות הטקסטואלית המהותית
 
-### Hebrew "Tanakh" (תָּנָ״ךְ)
+### העברי »תָּנָ״ךְ«
 
-The Hebrew **תָּנָ״ךְ** (*Tanakh*) is the principal Jewish-tradition designation for the substantial canonical Hebrew-language textual corpus. The substantial designation operates as substantial acronymic construction:
+ה**תָּנָ״ךְ**{{ footnote(id="1") }} העברי הוא הכינוי המרכזי של המסורת היהודית לקורפוס הטקסטואלי הקנוני המהותי בשפה העברית. הכינוי המהותי פועל כבנייה אקרונימית מהותית:
 
-- **Ta** (תּ): from תּוֹרָה (*Torah*, "Law" or "Instruction") — the substantial first principal section
-- **Na** (נַ): from נְבִיאִים (*Nevi'im*, "Prophets") — the substantial second principal section  
-- **Kh** (ךְ): from כְּתוּבִים (*Ketuvim*, "Writings") — the substantial third principal section
+- **תָּ** (תּ): מ-תּוֹרָה (»חוק« או »הוראה«) — החלק המרכזי המהותי הראשון
+- **נָ** (נַ): מ-נְבִיאִים — החלק המרכזי המהותי השני  
+- **ךְ** (ךְ): מ-כְּתוּבִים — החלק המרכזי המהותי השלישי
 
-The substantial Tanakh designation registers the substantial three-part canonical structure within the substantial Jewish-tradition organization. The substantial designation operates principally within Jewish-tradition contexts, with substantial subsequent scholarly-academic adoption in substantial contemporary biblical scholarship.
+כינוי התנ״ך המהותי רושם את המבנה הקנוני התלת-חלקי המהותי בתוך הארגון של המסורת היהודית. הכינוי המהותי פועל בעיקר בתוך הקשרים מסורתיים-יהודיים, עם אימוץ מדעי-אקדמי מאוחר מהותי במחקר מקראי בן-זמננו מהותי.
 
-### Hebrew "Mikra" (מִקְרָא)
+### העברי »מִקְרָא«
 
-The Hebrew **מִקְרָא** (*Mikra*, "reading" or "that which is read") operates as substantial alternative Jewish-tradition designation. The substantial term derives from the substantial Hebrew root **קרא** (*qara*, "to read" or "to call"), registering the substantial textual entity as the principal substantive material for substantial reading and substantial liturgical recitation. The substantial designation operates principally within substantial traditional Jewish liturgical-textual contexts.
+ה**מִקְרָא** (»קריאה« או »מה שנקרא«) העברי פועל ככינוי חלופי מהותי של המסורת היהודית. המונח המהותי נובע מהשורש העברי המהותי **קרא** (»לקרוא« או »לקרוא בשם«), הרושם את הישות הטקסטואלית כחומר המהותי המרכזי לקריאה מהותית ולהקראה ליטורגית מהותית. הכינוי המהותי פועל בעיקר בתוך הקשרים מסורתיים-יהודיים ליטורגיים-טקסטואליים מהותיים.
 
-### Hebrew "Sifrei ha-Kodesh" (סִפְרֵי הַקֹּדֶשׁ)
+### העברי »סִפְרֵי הַקֹּדֶשׁ«
 
-The Hebrew **סִפְרֵי הַקֹּדֶשׁ** (*Sifrei ha-Kodesh*, "the holy books" or "the sacred scriptures") operates as substantial Jewish-tradition designation registering the substantial sacred-textual character. The substantial designation operates principally within substantial traditional Jewish religious contexts.
+ה**סִפְרֵי הַקֹּדֶשׁ** (»הספרים הקדושים« או »כתבי הקודש«) העברי פועל ככינוי של המסורת היהודית הרושם את האופי הטקסטואלי-הקדוש המהותי. הכינוי המהותי פועל בעיקר בתוך הקשרים דתיים מסורתיים-יהודיים מהותיים.
 
-### "Old Testament" as Christian-tradition designation
+### »הברית הישנה« ככינוי במסורת הנוצרית
 
-The English term **Old Testament** is the principal Christian-tradition designation for substantial Christian-canonical reception of the Hebrew Bible content. The substantial designation derives from the substantial Christian-theological framework registering the substantial Hebrew Bible content as the substantial "old covenant" content preceding the substantial New Testament "new covenant" content. The substantial designation has been registered as substantively problematic by various contemporary scholars (substantial supersessionist theological implications, substantial scholarly-academic neutrality concerns), with substantial contemporary scholarly preference for the substantial Hebrew Bible designation.
+המונח האנגלי **Old Testament** הוא הכינוי המרכזי של המסורת הנוצרית לקבלה הקנונית-נוצרית המהותית של תוכן המקרא העברי. הכינוי המהותי נובע מהמסגרת התיאולוגית-הנוצרית המהותית הרושמת את תוכן המקרא העברי המהותי כתוכן »הברית הישנה« המהותי שקדם לתוכן »הברית החדשה« של הברית החדשה המהותי. הכינוי המהותי נרשם כבעייתי באופן מהותי על ידי חוקרים בני-זמננו שונים (השלכות תיאולוגיות סופרסיציוניסטיות מהותיות, דאגות נייטרליות מדעית-אקדמית מהותית), עם העדפה מדעית בת-זמננו מהותית לכינוי המקרא העברי המהותי.
 
-The substantial Christian Old Testament canonical organization differs substantively from the substantial Jewish Tanakh organization:
+הארגון הקנוני המהותי של הברית הישנה הנוצרית שונה מהותית מהארגון המהותי של התנ״ך היהודי:
 
-- **Book count**: thirty-nine books in substantial Protestant Christian organization vs. twenty-four books in substantial Jewish organization (substantively the same content with substantial divisional differences — e.g., Samuel and Kings are each one book in Jewish organization but two books each in Christian organization)
-- **Book ordering**: substantial Christian organization places the prophetic books at the end of the substantial canonical sequence, while the substantial Jewish organization places the prophets in the middle section
-- **Apocryphal additions**: the substantial Catholic Christian and Eastern Orthodox Christian Old Testaments include substantial additional Deuterocanonical books not present in the substantial Jewish or Protestant Christian canons
+- **ספירת ספרים**: שלושים ותשעה ספרים בארגון הפרוטסטנטי-הנוצרי המהותי לעומת עשרים וארבעה ספרים בארגון היהודי המהותי (במהותו אותו תוכן עם הבדלי חלוקה מהותיים — לדוגמה, שמואל ומלכים הם כל אחד ספר אחד בארגון היהודי אך שני ספרים כל אחד בארגון הנוצרי)
+- **סדר הספרים**: הארגון הנוצרי המהותי ממקם את ספרי הנבואה בסוף הרצף הקנוני המהותי, בעוד שהארגון היהודי המהותי ממקם את הנביאים בחלק האמצעי
+- **תוספות אפוקריפיות**: הברית הישנה הקתולית-הנוצרית והאורתודוקסית-המזרחית המהותית כוללת ספרים דאוטרוקנוניים נוספים מהותיים שאינם נוכחים בקנונים היהודיים או הפרוטסטנטיים-הנוצריים המהותיים
 
-### Cross-cultural designations
+### כינויים בין-תרבותיים
 
-The substantial textual entity has cross-cultural designations:
+לישות הטקסטואלית המהותית יש כינויים בין-תרבותיים:
 
-- **Greek**: ἡ Παλαιὰ Διαθήκη (*hē Palaia Diathēkē*, "the Old Covenant") — the substantial Greek-Christian designation; also τὰ βιβλία (*ta biblia*, "the books") — the substantial Septuagint-Greek collective designation
-- **Latin**: *Vetus Testamentum* — the substantial Vulgate-Latin Christian designation
-- **Arabic**: التَّوْرَاة (*at-Tawrāh*, properly designating the Pentateuch but extended to the substantial Hebrew Bible content); الكِتَاب المُقَدَّس (*al-Kitāb al-Muqaddas*, "the Holy Book") — the substantial broader Islamic-tradition designation
-- **Aramaic**: מקרא (*Mikra*) — the substantial Aramaic-tradition designation cognate with the Hebrew
+- **יוונית**: ἡ Παλαιὰ Διαθήκη (*hē Palaia Diathēkē*, »הברית הישנה«) — הכינוי היווני-הנוצרי המהותי; גם τὰ βιβλία (*ta biblia*, »הספרים«) — הכינוי הקולקטיבי היווני-השבעתי המהותי
+- **לטינית**: *Vetus Testamentum* — הכינוי הלטיני-הנוצרי המהותי של הוולגטה
+- **ערבית**: التَّوْرَاة (*at-Tawrāh*, מתייחס באופן ראוי לתורה אך הורחב לתוכן המקרא העברי המהותי); الكِتَاب المُقَدَّس (*al-Kitāb al-Muqaddas*, »הספר הקדוש«) — הכינוי הרחב יותר של המסורת האסלאמית
+- **ארמית**: מקרא — הכינוי המהותי של המסורת הארמית הקוגנטי לעברי
 
-### Corpus-internal usage
+### שימוש פנים-קורפוסי
 
-The Wheel of Heaven corpus uses **Hebrew Bible** as the principal designation, with **Tanakh** used in framework-specific contexts where substantial Jewish-tradition specificity is required. The various other designations are used in specific contexts where operational specificity is required.
+קורפוס גלגל השמיים משתמש ב**מקרא העברי** ככינוי המרכזי, כאשר **תנ״ך** משמש בהקשרים ספציפיים-למסגרת שבהם נדרשת ספציפיות מסורתית-יהודית מהותית. הכינויים השונים האחרים משמשים בהקשרים ספציפיים שבהם נדרשת ספציפיות תפעולית.
 
-## Conventional understanding
+## הבנה מקובלת
 
-The Hebrew Bible has substantial mainstream scholarly engagement across multiple distinct disciplines.
+למקרא העברי יש מעורבות מדעית מיינסטרים מהותית על פני תחומים נפרדים מרובים.
 
-### The substantial canonical structure
+### המבנה הקנוני המהותי
 
-Mainstream scholarly engagement registers the substantial Hebrew Bible canonical structure across the substantial three-part organization.
+מעורבות מדעית מיינסטרים רושמת את המבנה הקנוני המהותי של המקרא העברי על פני הארגון התלת-חלקי המהותי.
 
-**The Torah / Pentateuch**. The substantial Hebrew **תּוֹרָה** (*Torah*, "Law" or "Instruction") comprises the substantial first five books:
+**התורה / החומש**. ה**תּוֹרָה** (»חוק« או »הוראה«) העברית המהותית כוללת את חמשת הספרים המהותיים הראשונים:
 
-1. **Genesis** (Hebrew: בְּרֵאשִׁית, *Bereshit*, "In the beginning"): the substantial creation account, the substantial primeval history (Genesis 1-11), the substantial patriarchal narratives (Genesis 12-50)
-2. **Exodus** (Hebrew: שְׁמוֹת, *Shemot*, "Names"): the substantial Egyptian bondage, the substantial Mosaic deliverance, the substantial Sinai covenant, the substantial tabernacle construction
-3. **Leviticus** (Hebrew: וַיִּקְרָא, *Vayikra*, "And he called"): the substantial priestly legislation, the substantial sacrificial system, the substantial holiness code
-4. **Numbers** (Hebrew: בְּמִדְבָּר, *Bemidbar*, "In the wilderness"): the substantial wilderness wanderings, the substantial census materials, various substantial legal-ritual content
-5. **Deuteronomy** (Hebrew: דְּבָרִים, *Devarim*, "Words"): the substantial Mosaic farewell discourses, the substantial covenant renewal, the substantial Mosaic death
+1. **בְּרֵאשִׁית** (»בהתחלה«): תיאור הבריאה המהותי, ההיסטוריה הקדומה המהותית (בראשית 1-11), הסיפורים האבותיים המהותיים (בראשית 12-50)
+2. **שְׁמוֹת**: השעבוד המצרי המהותי, הגאולה המוסאית המהותית, ברית סיני המהותית, בניית המשכן המהותית
+3. **וַיִּקְרָא** (»ויקרא«): החקיקה הכוהנית המהותית, מערכת הקורבנות המהותית, חוק הקדושה
+4. **בְּמִדְבָּר**: נדודי המדבר המהותיים, חומרי המפקד המהותיים, תוכן חוקי-טקסי מהותי שונה
+5. **דְּבָרִים** (»מילים«): שיחות הפרידה המוסאיות המהותיות, חידוש הברית המהותי, מות משה המהותי
 
-The substantial Pentateuch operates as substantial foundational legal-religious-narrative content within the broader Hebrew Bible canonical structure.
+החומש המהותי פועל כתוכן יסודי משפטי-דתי-נרטיבי בתוך המבנה הקנוני הרחב של המקרא העברי.
 
-**The Nevi'im / Prophets**. The substantial Hebrew **נְבִיאִים** (*Nevi'im*, "Prophets") comprises substantial historical-prophetic content organized into Former Prophets and Latter Prophets:
+**הנביאים**. ה**נְבִיאִים** העבריים המהותיים כוללים תוכן היסטורי-נבואי מהותי המאורגן לנביאים ראשונים ונביאים אחרונים:
 
-**Former Prophets** (Hebrew: נְבִיאִים רִאשׁוֹנִים, *Nevi'im Rishonim*):
-1. **Joshua** (Hebrew: יְהוֹשֻׁעַ, *Yehoshua*): the substantial conquest narrative
-2. **Judges** (Hebrew: שׁוֹפְטִים, *Shoftim*): the substantial pre-monarchic period
-3. **Samuel** (Hebrew: שְׁמוּאֵל, *Shmuel*) — single book in Jewish organization, two books in Christian organization: the substantial transition to monarchy, the substantial Davidic kingship
-4. **Kings** (Hebrew: מְלָכִים, *Melakhim*) — single book in Jewish organization, two books in Christian organization: the substantial monarchic history through the substantial Babylonian exile
+**נביאים ראשונים**:
+1. **יְהוֹשֻׁעַ**: סיפור הכיבוש המהותי
+2. **שׁוֹפְטִים**: התקופה הטרום-מלוכנית המהותית
+3. **שְׁמוּאֵל** — ספר יחיד בארגון היהודי, שני ספרים בארגון הנוצרי: המעבר למלוכה המהותי, המלכות הדוידית המהותית
+4. **מְלָכִים** — ספר יחיד בארגון היהודי, שני ספרים בארגון הנוצרי: ההיסטוריה המלוכנית המהותית עד הגלות הבבלית המהותית
 
-**Latter Prophets** (Hebrew: נְבִיאִים אַחֲרוֹנִים, *Nevi'im Aharonim*):
-5. **Isaiah** (Hebrew: יְשַׁעְיָהוּ, *Yeshayahu*)
-6. **Jeremiah** (Hebrew: יִרְמְיָהוּ, *Yirmeyahu*)
-7. **Ezekiel** (Hebrew: יְחֶזְקֵאל, *Yehezkel*)
-8. **The Twelve** (Hebrew: תְּרֵי עֲשַׂר, *Trei Asar*) — twelve minor prophets in Jewish organization, twelve separate books in Christian organization: Hosea, Joel, Amos, Obadiah, Jonah, Micah, Nahum, Habakkuk, Zephaniah, Haggai, Zechariah, Malachi
+**נביאים אחרונים**:
+5. **יְשַׁעְיָהוּ**
+6. **יִרְמְיָהוּ**
+7. **יְחֶזְקֵאל**
+8. **תְּרֵי עֲשַׂר** — שנים-עשר נביאים קטנים בארגון היהודי, שנים-עשר ספרים נפרדים בארגון הנוצרי: הושע, יואל, עמוס, עובדיה, יונה, מיכה, נחום, חבקוק, צפניה, חגי, זכריה, מלאכי
 
-**The Ketuvim / Writings**. The substantial Hebrew **כְּתוּבִים** (*Ketuvim*, "Writings") comprises substantial diverse content:
+**הכתובים**. ה**כְּתוּבִים** העבריים המהותיים כוללים תוכן מגוון מהותי:
 
-1. **Psalms** (Hebrew: תְּהִלִּים, *Tehillim*)
-2. **Proverbs** (Hebrew: מִשְׁלֵי, *Mishlei*)
-3. **Job** (Hebrew: אִיּוֹב, *Iyov*)
-4. **Song of Songs** (Hebrew: שִׁיר הַשִּׁירִים, *Shir ha-Shirim*)
-5. **Ruth** (Hebrew: רוּת, *Rut*)
-6. **Lamentations** (Hebrew: אֵיכָה, *Eikhah*)
-7. **Ecclesiastes** (Hebrew: קֹהֶלֶת, *Kohelet*)
-8. **Esther** (Hebrew: אֶסְתֵּר, *Ester*)
-9. **Daniel** (Hebrew: דָּנִיֵּאל, *Daniel*)
-10. **Ezra-Nehemiah** (Hebrew: עֶזְרָא־נְחֶמְיָה) — single book in Jewish organization, two books in Christian organization
-11. **Chronicles** (Hebrew: דִּבְרֵי הַיָּמִים, *Divrei ha-Yamim*) — single book in Jewish organization, two books in Christian organization
+1. **תְּהִלִּים**
+2. **מִשְׁלֵי**
+3. **אִיּוֹב**
+4. **שִׁיר הַשִּׁירִים**
+5. **רוּת**
+6. **אֵיכָה**
+7. **קֹהֶלֶת**
+8. **אֶסְתֵּר**
+9. **דָּנִיֵּאל**
+10. **עֶזְרָא־נְחֶמְיָה** — ספר יחיד בארגון היהודי, שני ספרים בארגון הנוצרי
+11. **דִּבְרֵי הַיָּמִים** — ספר יחיד בארגון היהודי, שני ספרים בארגון הנוצרי
 
-The substantial Ketuvim operates as substantial diverse-genre content within the broader Hebrew Bible canonical structure.
+הכתובים המהותיים פועלים כתוכן מהותי בעל מגוון ז'אנרי בתוך המבנה הקנוני הרחב של המקרא העברי.
 
-### The substantial linguistic content
+### התוכן הלשוני המהותי
 
-The substantial Hebrew Bible operates principally in **Biblical Hebrew** (substantial classical Hebrew language with substantial diachronic development across the substantial composition period). The substantial textual content includes substantial **Biblical Aramaic** in select passages:
+המקרא העברי המהותי פועל בעיקר ב**עברית מקראית** (השפה העברית הקלאסית המהותית עם התפתחות דיאכרונית מהותית לאורך תקופת החיבור המהותית). התוכן הטקסטואלי המהותי כולל **ארמית מקראית** מהותית בקטעים נבחרים:
 
-- **Daniel 2:4b-7:28**: the substantial Aramaic narrative section
-- **Ezra 4:8-6:18 and 7:12-26**: the substantial Aramaic documentary materials
-- **Jeremiah 10:11**: a single Aramaic verse
-- **Genesis 31:47**: a brief Aramaic phrase
+- **דניאל ב:ד-ז:כח**: קטע הסיפור הארמי המהותי
+- **עזרא ד:ח-ו:יח וז:יב-כו**: חומרי המסמכים הארמיים המהותיים
+- **ירמיהו י:יא**: פסוק ארמי יחיד
+- **בראשית לא:מז**: ביטוי ארמי קצר
 
-The substantial linguistic dual-language content reflects the substantial historical-cultural context of substantial Persian-period composition for various Daniel and Ezra materials, with substantial Aramaic operating as substantial *lingua franca* of the broader Persian Empire.
+התוכן הדו-לשוני המהותי משקף את ההקשר ההיסטורי-תרבותי המהותי של חיבור מהתקופה הפרסית עבור חומרי דניאל ועזרא שונים, כאשר הארמית המהותית פעלה כ*lingua franca* המהותית של האימפריה הפרסית הרחבה.
 
-### The substantial composition period
+### תקופת החיבור המהותית
 
-Mainstream scholarly engagement registers substantial composition period extending across approximately twelve centuries:
+מעורבות מדעית מיינסטרים רושמת תקופת חיבור מהותית המשתרעת על פני כשתים-עשרה מאות שנים:
 
-- **The earliest layers**: traditionally dated to the substantial Late Bronze Age (c. 12th century BCE), with substantial scholarly debate regarding the dating of various Pentateuchal source-materials
-- **The principal composition period**: c. 10th-5th centuries BCE, with substantial monarchic-period and exilic-period composition operating substantially across the broader textual tradition
-- **The latest layers**: c. 4th-2nd centuries BCE, with various Persian-Hellenistic-period composition (Daniel, various other late materials)
-- **The canonization process**: c. 5th-2nd centuries BCE for various sections, with the substantial finalization of the broader canonical structure operating across the substantial period
+- **השכבות המוקדמות ביותר**: מתוארכות באופן מסורתי לתקופת הברונזה המאוחרת המהותית (~המאה ה-12 לפנה״ס), עם דיון מדעי מהותי לגבי תיארוך חומרי-מקור תורניים שונים
+- **תקופת החיבור העיקרית**: ~המאות ה-10 עד ה-5 לפנה״ס, עם חיבור מהתקופה המלוכנית והגלותית הפועל באופן מהותי על פני המסורת הטקסטואלית הרחבה
+- **השכבות המאוחרות ביותר**: ~המאות ה-4 עד ה-2 לפנה״ס, עם חיבור שונה מהתקופה הפרסית-ההלניסטית (דניאל, חומרים מאוחרים שונים אחרים)
+- **תהליך הקנוניזציה**: ~המאות ה-5 עד ה-2 לפנה״ס עבור חלקים שונים, עם סיום המבנה הקנוני הרחב המהותי הפועל על פני התקופה המהותית
 
-### The substantial textual transmission
+### ההעברה הטקסטואלית המהותית
 
-The substantial Hebrew Bible has been preserved through substantial textual-transmission tradition spanning approximately three millennia.
+המקרא העברי המהותי נשמר דרך מסורת העברה-טקסטואלית מהותית המשתרעת על פני כשלושה אלפי שנים.
 
-**The substantial Masoretic Text**. The substantial **Masoretic Text** (Hebrew: נֻסַּח הַמָּסוֹרָה, *Nusach ha-Masorah*) operates as the principal received text of the Hebrew Bible. The substantial textual tradition was developed across approximately the 6th-10th centuries CE by the substantial **Masoretes** (Hebrew: בַּעֲלֵי הַמָּסוֹרָה, *Ba'alei ha-Masorah*, "Masters of the Tradition") — substantial Jewish scholars principally in Tiberias and Babylon who developed substantial vocalization-and-cantillation systems for the previously-unvocalized consonantal Hebrew text. The substantial principal manuscript witnesses:
+**נוסח המסורה המהותי**. ה**נוסח המסורה** העברי המהותי (נֻסַּח הַמָּסוֹרָה) פועל כטקסט המתקבל המרכזי של המקרא העברי. המסורת הטקסטואלית המהותית פותחה על פני המאות ה-6 עד ה-10 לסה״נ בערך על ידי ה**מסורתיים** המהותיים (בַּעֲלֵי הַמָּסוֹרָה) — חוקרים יהודים מהותיים בעיקר בטבריה ובבל שפיתחו מערכות ניקוד-וטעמים מהותיות עבור הטקסט העברי העיצורי הלא-מנוקד הקודם. עדי כתבי היד העיקריים המהותיים:
 
-- **The Aleppo Codex** (10th century CE): the substantial principal early Masoretic manuscript, partially preserved
-- **The Leningrad Codex** (1008 CE): the substantial complete early Masoretic manuscript, the principal basis for substantial modern critical editions
-- **Various Cairo Genizah fragments**: substantial earlier manuscript evidence
+- **כתר ארם צובה** (המאה ה-10 לסה״נ): כתב היד המסורתי המוקדם העיקרי המהותי, שמור חלקית
+- **כתב יד לנינגרד** (1008 לסה״נ): כתב היד המסורתי המוקדם השלם המהותי, הבסיס העיקרי למהדורות הביקורתיות המודרניות המהותיות
+- **שברי גניזת קהיר השונים**: עדויות כתבי יד מוקדמות מהותיות
 
-**The substantial Dead Sea Scrolls evidence**. The substantial discovery of the Dead Sea Scrolls beginning in 1947 produced substantial textual evidence approximately one thousand years older than the previously-available Masoretic manuscripts. The substantial Qumran biblical scrolls register substantial textual content with substantial agreement with the subsequent Masoretic tradition while preserving substantial textual variants in various passages.
+**עדויות מגילות ים המלח המהותיות**. גילוי מגילות ים המלח המהותי החל ב-1947 הפיק עדויות טקסטואליות מהותיות גילן כאלף שנים יותר מכתבי היד המסורתיים שהיו זמינים קודם. מגילות המקרא של קומראן המהותיות רושמות תוכן טקסטואלי מהותי עם הסכמה מהותית עם המסורת המסורתית המאוחרת, בעודן שומרות וריאנטים טקסטואליים מהותיים בקטעים שונים.
 
-**The substantial Septuagint translation**. The substantial **Septuagint** (Greek: Ἡ Μετάφρασις τῶν Ἑβδομήκοντα, *Hē Metaphrasis tōn Hebdomēkonta*, "The Translation of the Seventy"; abbreviated LXX) operates as the substantial 3rd-2nd-century-BCE Greek translation of the Hebrew Bible. The substantial translation was produced principally in Alexandria, Egypt, within the substantial Hellenistic Jewish community. The substantial Septuagint preserves substantial pre-Masoretic Hebrew textual tradition in various passages, with substantial textual-critical importance.
+**תרגום השבעים המהותי**. ה**תרגום השבעים** המהותי (יוונית: Ἡ Μετάφρασις τῶν Ἑβδομήκοντα, *Hē Metaphrasis tōn Hebdomēkonta*, »תרגום השבעים«; קיצור LXX) פועל כתרגום היווני המהותי מהמאה ה-3 עד ה-2 לפנה״ס של המקרא העברי. התרגום המהותי הופק בעיקר באלכסנדריה, מצרים, בתוך הקהילה היהודית-ההלניסטית המהותית. תרגום השבעים שומר מסורת טקסטואלית עברית טרום-מסורתית מהותית בקטעים שונים, עם חשיבות ביקורתית-טקסטואלית מהותית.
 
-**The substantial Samaritan Pentateuch**. The substantial **Samaritan Pentateuch** preserves substantial alternative textual tradition for the Pentateuch within the substantial Samaritan religious community. The substantial Samaritan Pentateuch registers substantial textual variants from the substantial Masoretic tradition, with substantial textual-critical importance.
+**הפֶּנְטָטֵיכוֹן השומרוני המהותי**. ה**פֶּנְטָטֵיכוֹן השומרוני** המהותי שומר מסורת טקסטואלית חלופית מהותית עבור התורה בתוך הקהילה הדתית השומרונית המהותית. הפֶּנְטָטֵיכוֹן השומרוני רושם וריאנטים טקסטואליים מהותיים מהמסורת המסורתית המהותית, עם חשיבות ביקורתית-טקסטואלית מהותית.
 
-### The substantial Sendy engagement with the Hebrew Bible
+### מעורבות סנדי המהותית עם המקרא העברי
 
-**Jean Sendy** in *Ces dieux qui firent le ciel et la terre* (1969), *L'ère du Verseau* (1970), and various other works develops substantial complementary content on the broader Hebrew Bible framework. Sendy's substantial principal contribution: substantial systematic engagement with the substantial Hebrew Bible content through the broader Tradition framework, particularly the substantial *Elohim* plurality, the substantial *benei ha-Elohim* content, and the substantial alliance-contact specificity preserved in the substantial textual content. Sendy's substantial broader Tradition framework operates substantively within the corpus's broader Hebrew Bible engagement.
+**ז'אן סנדי** ב-*Ces dieux qui firent le ciel et la terre* (1969), *L'ère du Verseau* (1970), ויצירות שונות אחרות מפתח תוכן משלים מהותי על מסגרת המקרא העברי הרחבה. תרומתו המרכזית המהותית של סנדי: מעורבות שיטתית מהותית עם תוכן המקרא העברי המהותי דרך מסגרת המסורת הרחבה, במיוחד ריבוי ה*אלוהים* המהותי, תוכן *בני האלוהים* המהותי, וספציפיות מגע-הברית המהותית הנשמרת בתוכן הטקסטואלי המהותי. מסגרת המסורת הרחבה של סנדי פועלת באופן מהותי בתוך מעורבות המקרא העברי הרחבה של הקורפוס.
 
-### The framework's relationship to the broader landscape
+### יחס המסגרת לנוף הרחב
 
-The Wheel of Heaven corpus's Hebrew Bible framework is positioned within this scholarly landscape as follows: substantially aligned with mainstream Hebrew Bible scholarship at the textual-philological level (recognizing the substantial scholarly documentation of the substantial textual content); substantially aligned with mainstream archaeological-historical scholarship at the substantial historical-context level (recognizing the substantial scholarly documentation of the substantial historical-cultural background); substantially aligned with the substantial textual-criticism scholarship at the substantial textual-history level (recognizing the substantial scholarly documentation of the substantial transmission history); substantively distinct from mainstream theological scholarship at the interpretive level (the framework's specific historical-record reading operates substantively beyond the conventional religious-mythological treatment); substantially aligned with various alternative-history scholarly traditions (Sitchin's Anunnaki framework, Wallis's broader engagement, Biglino's strict-translational approach) at the underlying-historical-event-reading level while operating from distinct source-material warrant principally drawn from the Raëlian source material.
+מסגרת המקרא העברי של קורפוס גלגל השמיים ממוקמת בתוך נוף מדעי זה כך: מיושרת מהותית עם מחקר המקרא העברי המיינסטרים ברמה הטקסטואלית-הפילולוגית (הכרה בתיעוד המדעי המהותי של התוכן הטקסטואלי המהותי); מיושרת מהותית עם המחקר הארכיאולוגי-ההיסטורי המיינסטרים ברמת ההקשר ההיסטורי-התרבותי המהותי (הכרה בתיעוד המדעי המהותי של הרקע ההיסטורי-התרבותי המהותי); מיושרת מהותית עם מחקר הביקורת הטקסטואלית המהותי ברמת התולדות הטקסטואליות המהותיות (הכרה בתיעוד המדעי המהותי של תולדות ההעברה המהותיות); נבדלת מהותית מהמחקר התיאולוגי המיינסטרים ברמה הפרשנית (קריאת המסגרת הספציפית של תיעוד-היסטורי פועלת מהותית מעבר לטיפול המקובל של מיתולוגיה-דתית); מיושרת מהותית עם מסורות מדעיות אלטרנטיביות-היסטוריות שונות (מסגרת האנונאקי של סיטשין, מעורבותו הרחבה של וואליס, גישתו הקפדנית-תרגומית של ביגלינו) ברמת קריאת-האירוע-ההיסטורי הבסיסי בעודה פועלת מהקנייה ספציפית של חומר-מקור הנובע בעיקר מהחומר המקורי הראליאני.
 
-## In primary sources
+## במקורות ראשוניים
 
-The framework's principal primary-source material registers the substantial Hebrew Bible's foundational status across multiple Yahweh-articulated passages and substantial subsequent corpus development.
+החומר העיקרי של המקור הראשוני של המסגרת רושם את הסטטוס היסודי של המקרא העברי המהותי על פני קטעים מרובים המנוסחים על ידי יהוה ופיתוח קורפוס מאוחר מהותי.
 
-### The principal "historical record" passage
+### קטע »התיעוד ההיסטורי« המרכזי
 
-The substantial principal source-material passage establishing the framework's distinctive historical-record reading appears in the substantial corpus articulation of the broader revelation-content:
+קטע החומר המקור המהותי המרכזי המבסס את קריאת התיעוד ההיסטורי הייחודית של המסגרת מופיע בניסוח הקורפוס המהותי של תוכן ההתגלות הרחב:
 
-> *"The second claim is that the Hebrew Bible and the other major religious traditions of the world preserve accurate historical memory of the alliance's interventions, in forms that reflect the pre-scientific vocabularies of their authors but that can be decoded by a scientifically mature reader. The specific decoding the source provides — Genesis 1 as genetic engineering rather than supernatural creation, the Nephilim as alliance-human hybrids, the flood as a nuclear cataclysm, Sinai as a formal alliance audience, the parted waters as directed-beam operations, the miracles of Jesus as scientific applications of advanced technology, the Elohim as plural rather than singular — is the corpus's foundational hermeneutic. The Hebrew Bible is not a book of religious myths that require either literal belief or allegorical reinterpretation; it is a historical record, imperfect in its pre-scientific vocabulary but substantially accurate in its content, that can be read directly once the hermeneutic key is available."*
+> »הטענה השנייה היא שהמקרא העברי והמסורות הדתיות העיקריות האחרות של העולם שומרים זיכרון היסטורי מדויק של התערבויות הברית, בצורות המשקפות את אוצרות המילים הטרום-מדעיים של מחבריהם אך הניתנים לפענוח על ידי קורא בעל בגרות מדעית. הפענוח הספציפי שהמקור מספק — בראשית 1 כהנדסה גנטית ולא כיצירה על-טבעית, הנפילים כהיברידים של ברית-אדם, המבול כקטסטרופה גרעינית, סיני כקבלת פנים פורמלית של הברית, המים המבותרים כפעולות קרן-מכוונת, ניסי ישוע כיישומים מדעיים של טכנולוגיה מתקדמת, האלוהים כרבים ולא כיחיד — הוא ההרמנויטיקה היסודית של הקורפוס. המקרא העברי אינו ספר מיתוסים דתיים הדורשים אמונה מילולית או פירוש אלגורי מחדש; הוא תיעוד היסטורי, פגום באוצר המילים הטרום-מדעי שלו אך מדויק במהותו בתוכנו, שניתן לקרוא ישירות ברגע שמפתח ההרמנויטיקה זמין.«
 
-The passage establishes the framework's principal structural and operational components:
+הקטע מבסס את המרכיבים המבניים והתפעוליים העיקריים של המסגרת:
 
-**1. The substantial historical-record framing**. The substantial Hebrew Bible operates as substantial accurate historical memory rather than as substantial religious-mythological invention.
+**1. מסגור התיעוד-ההיסטורי המהותי**. המקרא העברי המהותי פועל כזיכרון היסטורי מדויק מהותי ולא כהמצאה דתית-מיתולוגית מהותית.
 
-**2. The substantial pre-scientific-vocabulary content**. The substantial human authors recorded what they observed in the substantial pre-scientific vocabulary available to them, with substantial decodable layer operating across the broader textual content.
+**2. תוכן אוצר-המילים-הטרום-מדעי המהותי**. המחברים האנושיים המהותיים תיעדו את שצפו באוצר המילים הטרום-מדעי שעמד לרשותם, עם שכבה ניתנת לפענוח מהותית הפועלת על פני התוכן הטקסטואלי הרחב.
 
-**3. The substantial decoding hermeneutic**. The substantial framework provides substantial systematic hermeneutic key for substantive engagement with the substantial textual content — Genesis 1 as genetic engineering, the Nephilim as alliance-human hybrids, the flood as nuclear cataclysm, Sinai as formal alliance audience, etc.
+**3. ההרמנויטיקה של הפענוח המהותית**. המסגרת המהותית מספקת מפתח הרמנויטי שיטתי מהותי למעורבות מהותית עם התוכן הטקסטואלי המהותי — בראשית 1 כהנדסה גנטית, הנפילים כהיברידים של ברית-אדם, המבול כקטסטרופה גרעינית, סיני כקבלת פנים פורמלית של הברית וכו׳.
 
-**4. The substantial scientifically-mature-reader contextualization**. The substantial decoding requires substantial scientific maturity that the substantial Aquarian-age contemporary reader possesses but that previous generations lacked.
+**4. ההקשרה של הקורא בעל-הבגרות-המדעית המהותית**. הפענוח המהותי דורש בגרות מדעית מהותית שהקורא בן-הזמן של עידן הדלי מחזיק בה אך שדורות קודמים חסרו.
 
-### The substantial centrality passage
+### קטע המרכזיות המהותי
 
-The substantial principal source-material passage establishing the framework's substantial centrality position appears in the corpus articulation:
+קטע החומר המקור המהותי המרכזי המבסס את עמדת המרכזיות המהותית של המסגרת מופיע בניסוח הקורפוס:
 
-> *"At the structural center of the synthesis is the Hebrew tradition. The Hebrew Bible is, on the corpus's reading, the most direct and least mediated record of the alliance's communication with Earth. The text was produced by a specific lineage — the Eden lineage, the descendants of the original alliance-cultivated population in the Eden geographic location — across the long arc from the Taurus age's reconstruction through the Aries age's prophetic tradition. The text's authors had direct access to the alliance's officers (the Yahweh contacts, the malakhim visitations, the dictation events at Sinai and elsewhere) and recorded what they were given in the Hebrew vocabulary available to them. The text is imperfect — the Hebrew authors did not always understand what they were recording, the various redactions across the centuries introduced layers of cultural framing on top of the original content, and the eventual canonization process selected specific texts while excluding others — but the text is, on the corpus's reading, substantially what it presents itself as: the documentary record of the alliance's relationship with the Eden lineage across the post-flood millennia."*
+> »במרכז המבני של הסינתזה נמצאת המסורת העברית. המקרא העברי הוא, על פי קריאת הקורפוס, התיעוד הישיר ביותר והפחות מתווך של תקשורת הברית עם כדור הארץ. הטקסט הופק על ידי שושלת ספציפית — שושלת עדן, צאצאי האוכלוסייה המקורית שטופחה על ידי הברית במיקום הגיאוגרפי של עדן — על פני הקשת הארוכה מהשחזור של עידן השור דרך המסורת הנבואית של עידן הטלה. למחברי הטקסט הייתה גישה ישירה לקציני הברית (מגעי יהוה, ביקורי המלאכים, אירועי ההכתבה בסיני ובמקומות אחרים) והם תיעדו את שניתן להם באוצר המילים העברי שעמד לרשותם. הטקסט פגום — המחברים העבריים לא תמיד הבינו את שתיעדו, העריכות השונות לאורך המאות הכניסו שכבות של מסגור תרבותי על גבי התוכן המקורי, ותהליך הקנוניזציה הסופי בחר טקסטים ספציפיים בעודו מוציא אחרים — אך הטקסט הוא, על פי קריאת הקורפוס, באופן מהותי מה שהוא מציג את עצמו: התיעוד התיעודי של יחס הברית לשושלת עדן על פני אלפי השנים שלאחר המבול.«
 
-The passage establishes the substantial centrality content:
+הקטע מבסס את תוכן המרכזיות המהותי:
 
-**1. The substantial structural-center position**. The Hebrew Bible operates at the substantial structural center of the broader corpus asymmetric synthesis.
+**1. עמדת המרכז-המבני המהותית**. המקרא העברי פועל במרכז המבני המהותי של הסינתזה הא-סימטרית של הקורפוס הרחב.
 
-**2. The substantial direct-and-least-mediated character**. The Hebrew Bible operates as substantively the most direct and least mediated record of the alliance's communication with Earth.
+**2. האופי הישיר-והפחות-מתווך המהותי**. המקרא העברי פועל באופן מהותי כתיעוד הישיר ביותר והפחות מתווך של תקשורת הברית עם כדור הארץ.
 
-**3. The substantial Eden-lineage genealogical specificity**. The substantial textual content was produced by the substantial Eden-lineage genealogical line across the substantial long arc from the Taurus-age reconstruction through the Aries-age prophetic tradition.
+**3. הספציפיות הגנאלוגית של שושלת עדן המהותית**. התוכן הטקסטואלי המהותי הופק על ידי השושלת הגנאלוגית של עדן המהותית על פני הקשת הארוכה המהותית מהשחזור של עידן השור דרך המסורת הנבואית של עידן הטלה.
 
-**4. The substantial direct-access content**. The substantial textual authors had substantial direct access to the alliance's officers — the substantial Yahweh contacts, the substantial *malakhim* visitations, the substantial dictation events at Sinai and elsewhere.
+**4. תוכן הגישה הישירה המהותי**. למחברי הטקסט המהותיים הייתה גישה ישירה מהותית לקציני הברית — מגעי יהוה המהותיים, ביקורי ה*מלאכים* המהותיים, אירועי ההכתבה המהותיים בסיני ובמקומות אחרים.
 
-**5. The substantial imperfection content**. The substantial textual content registers substantial imperfections — the substantial pre-scientific vocabulary, the substantial redactional layering, the substantial canonization selection — but operates substantively as the substantial documentary record of the alliance's relationship with the Eden lineage.
+**5. תוכן הפגימות המהותי**. התוכן הטקסטואלי המהותי רושם פגימות מהותיות — אוצר המילים הטרום-מדעי המהותי, השכבות העריכתיות המהותיות, בחירת הקנוניזציה המהותית — אך פועל באופן מהותי כתיעוד התיעודי המהותי של יחס הברית לשושלת עדן.
 
-### The substantial "Israel-team" passage
+### קטע »צוות ישראל« המהותי
 
-The substantial corpus articulation of the substantial Israel-team genealogical specificity:
+ניסוח הקורפוס של הספציפיות הגנאלוגית של צוות ישראל המהותית:
 
-> *"What the source does report — what the chapter must register without backing away from — is that the Hebrew biblical tradition, which preserves the most detailed surviving narrative of any of the seven teams' work, is the literature of one specific team whose particular accomplishment was noted at the time. This is consistent with the broader pattern in which the Israel team's humans, more than any other team's, became the cultural carriers of the creation memory. The Hebrew Bible is the record of that carrying. Its centrality to the corpus's interpretive framework reflects the historical accident — or the historical design — that this team's humans preserved their origin story with greater fidelity than the other teams' humans preserved theirs. The other teams' humans had their own creation traditions; many of those traditions survive in fragmentary form in the comparative-mythology material the Preamble surveyed. The Hebrew Bible is one tradition among several, not a uniquely privileged source. It is, however, the most complete and the most explicitly developed, which is why this corpus reads it most closely."*
+> »מה שהמקור כן מדווח — מה שהפרק חייב לרשום מבלי להתחמק ממנו — הוא שהמסורת המקראית העברית, השומרת את הסיפור המפורט ביותר ששרד מעבודת אחד משבעת הצוותים, היא הספרות של צוות ספציפי אחד שהישגו המסוים נרשם בזמנו. זה עקבי עם הדפוס הרחב שבו בני האדם של צוות ישראל, יותר מאלה של כל צוות אחר, הפכו לנושאים התרבותיים של זיכרון הבריאה. המקרא העברי הוא התיעוד של נשיאה זו. מרכזיותו למסגרת הפרשנית של הקורפוס משקפת את התאונה ההיסטורית — או את העיצוב ההיסטורי — שבני האדם של צוות זה שימרו את סיפור המוצא שלהם בנאמנות גדולה יותר מבני האדם של הצוותים האחרים את שלהם. לבני האדם של הצוותים האחרים היו מסורות בריאה משלהם; רבות ממסורות אלה שורדות בצורה מקוטעת בחומר השוואת-המיתולוגיה שהפתיח סקר. המקרא העברי הוא מסורת אחת מבין כמה, לא מקור בעל זכות ייחודית. הוא, עם זאת, השלם ביותר והמפותח באופן הברור ביותר, וזו הסיבה שקורפוס זה קורא אותו בקרבה הרבה ביותר.«
 
-The passage establishes the substantial nuance: the Hebrew Bible operates as the literature of one specific creator-team's substantial work rather than as substantial unique-privileging content, with the substantial preservation-fidelity operating as the substantial reason for the corpus's substantial centrality positioning.
+הקטע מבסס את הניואנס המהותי: המקרא העברי פועל כספרות של עבודתו המהותית של צוות יוצרים ספציפי אחד ולא כתוכן בעל-זכות-ייחודית מהותי, כאשר נאמנות-השימור המהותית פועלת כסיבה המהותית למיצוב המרכזיות המהותי של הקורפוס.
 
-### The substantial "first mistake of the Church" passage
+### קטע »הטעות הראשונה של הכנסייה« המהותי
 
-The substantial principal source-material passage establishing the framework's substantial translation-mistake reading appears in *Message from the Designers*:
+קטע החומר המקור המהותי המרכזי המבסס את קריאת טעות-התרגום של המסגרת מופיע ב-*Message from the Designers*:
 
-> *"Its mistakes have been great, particularly when it injected too much of the supernatural into the truth, and wrongly translated the scriptures in ordinary Bibles. It replaced the term 'Elohim', which refers to the creators, with a singular term 'God', whereas in fact Elohim in Hebrew is the plural of Eloha. In this way, the Church transformed the creators into a single incomprehensible God."*
+> »טעויותיה היו גדולות, במיוחד כאשר הזריקה יותר מדי מהעל-טבעי לתוך האמת, ותרגמה באופן שגוי את כתבי הקודש בתנ״כים רגילים. היא החליפה את המונח 'אלוהים', המתייחס ליוצרים, במונח יחיד 'אל', בעוד שלמעשה אלוהים בעברית הוא הצורה הרבה של אלוה. בדרך זו, הכנסייה הפכה את היוצרים לאל יחיד בלתי-מובן.«
 
-The passage establishes the framework's substantial translation-mistake reading. The detailed treatment lives in the [Plurality of Gods](../plurality-of-gods/) entry; the Hebrew Bible entry's specific contribution is registering the broader translation-history landscape within which this specific mistake operates.
+הקטע מבסס את קריאת טעות-התרגום של המסגרת המהותית. הטיפול המפורט חי בערך {% wiki(slug="plurality-of-gods") %}ריבוי האלים{% end %}; התרומה הספציפית של ערך המקרא העברי היא רישום נוף תולדות-התרגום הרחב שבתוכו פועלת טעות ספציפית זו.
 
-### The substantial "wick" passage
+### קטע »הפתיל« המהותי
 
-The substantial corpus articulation of the broader Christian-tradition assessment registers substantial nuance:
+ניסוח הקורפוס של ההערכה הרחבה של המסורת הנוצרית רושם ניואנס מהותי:
 
-> *"The 'wick' is weakening. It has accomplished its mission, and it is time for it to disappear. It has made mistakes and has enriched itself at the expense of the truth, without trying to interpret it in a clear enough way for people of this era. But do not be too hard on it, for thanks to the Church, the word of the Bible, which is a witness to the truth, has spread throughout the world."*
+> »ה'פתיל' נחלש. הוא השלים את משימתו, והגיע הזמן שיעלם. הוא עשה טעויות והעשיר את עצמו על חשבון האמת, מבלי לנסות לפרשה בצורה ברורה דיה לאנשי תקופה זו. אך אל תהיו קשים מדי איתו, כי הודות לכנסייה, דבר התנ״ך, שהוא עד לאמת, התפשט בכל העולם.«
 
-The passage registers substantial framework nuance: while the substantial Christian-tradition translation-and-theological mistakes are substantively registered, the substantial broader function of the Church in spreading the substantial Bible content "throughout the world" is also registered substantively. The substantial Hebrew Bible operates as the substantial textual content the Church has substantively distributed across the broader global landscape.
+הקטע רושם ניואנס מסגרתי מהותי: בעוד שטעויות התרגום-וההתיאולוגיה של המסורת הנוצרית נרשמות מהותית, גם הפונקציה הרחבה המהותית של הכנסייה בהפצת תוכן התנ״ך המהותי »בכל העולם« נרשמת מהותית. המקרא העברי המהותי פועל כתוכן הטקסטואלי המהותי שהכנסייה הפיצה מהותית על פני הנוף הגלובלי הרחב.
 
-### The broader source-material context
+### ההקשר הרחב של חומר המקור
 
-The Hebrew Bible framework operates within the broader Raëlian source-material context, with substantial supporting material across multiple passages:
+מסגרת המקרא העברי פועלת בתוך ההקשר הרחב של החומר המקורי הראליאני, עם חומר תומך מהותי על פני קטעים מרובים:
 
-- The substantial source's chapter-by-chapter engagement with substantial Hebrew Bible passages registers substantial framework engagement
-- The substantial *timeline.epub* substantial chapter-by-chapter Hebrew exegesis articulates substantial framework reading
-- The various individual entries (Genesis, Adam and Eve, Eden, Antediluvian, Great Flood, Theomachy, Babel, Sodom and Gomorrah, Moses, Abraham, Noah, Elohim, Yahweh, etc.) articulate substantial entry-specific framework readings
+- מעורבות המקור פרק-אחר-פרק עם קטעים מהותיים מהמקרא העברי רושמת מעורבות מסגרתית מהותית
+- הפרשנות העברית פרק-אחר-פרק המהותית של *timeline.epub* מנסחת קריאה מסגרתית מהותית
+- הערכים האינדיבידואליים השונים (בראשית, אדם וחווה, עדן, טרום-מבולי, המבול הגדול, מלחמת האלים, בבל, סדום ועמורה, משה, אברהם, נח, אלוהים, יהוה וכו׳) מנסחים קריאות מסגרתיות ספציפיות-לערך מהותיות
 
-## The Hebrew Bible's content
+## תוכן המקרא העברי
 
-### The substantial canonical structure within the framework
+### המבנה הקנוני המהותי בתוך המסגרת
 
-The framework operates substantively across the substantial Hebrew Bible canonical structure.
+המסגרת פועלת באופן מהותי על פני המבנה הקנוני המהותי של המקרא העברי.
 
-**The Torah / Pentateuch within the framework**. The substantial Torah operates as substantial primary content for the broader corpus framework:
+**התורה / החומש בתוך המסגרת**. התורה המהותית פועלת כתוכן ראשוני מהותי עבור מסגרת הקורפוס הרחבה:
 
-- **Genesis 1-11 (the primeval history)**: substantial framework engagement across multiple corpus entries (Genesis, Adam and Eve, Eden, Antediluvian, Great Flood, Babel, the various creator-figure entries)
-- **Genesis 12-50 (the patriarchal narratives)**: substantial framework engagement (Abraham, Sodom and Gomorrah, Joseph, the various Eden-lineage genealogical content)
-- **Exodus**: substantial framework engagement (Moses, the substantial Sinai covenant, the substantial alliance-audience content)
-- **Leviticus**: substantial framework engagement with substantial priestly-legislative content as substantial alliance-instructed protocol
-- **Numbers**: substantial framework engagement with substantial wilderness-period content
-- **Deuteronomy**: substantial framework engagement with substantial covenant-renewal content
+- **בראשית 1-11 (ההיסטוריה הקדומה)**: מעורבות מסגרתית מהותית על פני ערכי קורפוס מרובים (בראשית, אדם וחווה, עדן, טרום-מבולי, המבול הגדול, בבל, ערכי דמות-היוצרים השונים)
+- **בראשית 12-50 (הסיפורים האבותיים)**: מעורבות מסגרתית מהותית (אברהם, סדום ועמורה, יוסף, תכני שושלת עדן הגנאלוגיים השונים)
+- **שמות**: מעורבות מסגרתית מהותית (משה, ברית סיני המהותית, תוכן קבלת-פנים-הברית המהותי)
+- **ויקרא**: מעורבות מסגרתית מהותית עם תוכן חקיקתי-כוהני מהותי כפרוטוקול-מונחה-ברית מהותי
+- **במדבר**: מעורבות מסגרתית מהותית עם תוכן תקופת-המדבר המהותי
+- **דברים**: מעורבות מסגרתית מהותית עם תוכן חידוש-הברית המהותי
 
-**The Nevi'im / Prophets within the framework**. The substantial Nevi'im operates as substantial subsequent framework content:
+**הנביאים בתוך המסגרת**. הנביאים המהותיים פועלים כתוכן מסגרתי מאוחר מהותי:
 
-- **Former Prophets** (Joshua, Judges, Samuel, Kings): substantial framework engagement with the substantial monarchic period and the substantial broader alliance-relationship development
-- **Latter Prophets** (Isaiah, Jeremiah, Ezekiel, the Twelve): substantial framework engagement with the substantial prophetic tradition and the substantial alliance-mediated communication
+- **נביאים ראשונים** (יהושע, שופטים, שמואל, מלכים): מעורבות מסגרתית מהותית עם התקופה המלוכנית המהותית והפיתוח הרחב של יחסי הברית המהותיים
+- **נביאים אחרונים** (ישעיהו, ירמיהו, יחזקאל, תרי עשר): מעורבות מסגרתית מהותית עם המסורת הנבואית המהותית והתקשורת המתווכת על ידי הברית המהותית
 
-**The Ketuvim / Writings within the framework**. The substantial Ketuvim operates as substantial diverse-content framework engagement:
+**הכתובים בתוך המסגרת**. הכתובים המהותיים פועלים כמעורבות מסגרתית של תוכן מגוון מהותי:
 
-- **Psalms**: substantial framework engagement with substantial liturgical-poetic content registering substantial alliance-relationship
-- **Job**: substantial framework engagement with the substantial divine-council scenes (Job 1-2) registering substantial Council operational structure
-- **Daniel**: substantial framework engagement with the substantial apocalyptic content registering substantial alliance-prophetic communication
-- **Various other Ketuvim books**: substantial framework engagement with various specific content
+- **תהלים**: מעורבות מסגרתית מהותית עם תוכן ליטורגי-פואטי מהותי הרושם את יחסי הברית המהותיים
+- **איוב**: מעורבות מסגרתית מהותית עם סצנות מועצת-האלוהים המהותיות (איוב 1-2) הרושמות את המבנה התפעולי המהותי של המועצה
+- **דניאל**: מעורבות מסגרתית מהותית עם התוכן האפוקליפטי המהותי הרושם תקשורת נבואית מהותית מתווכת על ידי הברית
+- **ספרי כתובים שונים אחרים**: מעורבות מסגרתית מהותית עם תוכן ספציפי שונה
 
-### The substantial framework hermeneutic
+### ההרמנויטיקה המסגרתית המהותית
 
-The substantial framework articulates substantial systematic hermeneutic for substantive engagement with the substantial Hebrew Bible content.
+המסגרת המהותית מנסחת הרמנויטיקה שיטתית מהותית למעורבות מהותית עם תוכן המקרא העברי המהותי.
 
-**The substantial principal hermeneutic moves**. The substantial framework articulates substantial principal interpretive moves across the broader textual tradition:
+**המהלכים ההרמנויטיים העיקריים המהותיים**. המסגרת המהותית מנסחת מהלכים פרשניים עיקריים מהותיים על פני המסורת הטקסטואלית הרחבה:
 
-- **Genesis 1 as substantial genetic-engineering account** rather than substantial supernatural-creation account
-- **The substantial *Elohim* as substantial actual plural beings** rather than substantial singular God (treated principally in the [Plurality of Gods](../plurality-of-gods/) entry)
-- **The substantial *malakhim* as substantial alliance personnel** rather than substantial supernatural beings
-- **The substantial *benei ha-Elohim* as substantial alliance-human-contact content** (treated principally in the [Watchers](../watchers/) entry when written and the [Antediluvian](../antediluvian/) entry)
-- **The substantial Nephilim as substantial alliance-human hybrid offspring** rather than substantial supernatural giants
-- **The substantial flood as substantial nuclear cataclysm** (treated principally in the [Great Flood](../great-flood/) entry)
-- **The substantial Sinai event as substantial formal alliance audience** rather than substantial supernatural theophany
-- **The substantial parted waters as substantial directed-beam operations** rather than substantial supernatural intervention
-- **The substantial Sodom destruction as substantial atomic strike** (treated principally in the [Sodom and Gomorrah](../sodom-and-gomorrah/) entry)
-- **The substantial Babel intervention as substantial Council operational dispersion** (treated principally in the [Babel](../babel/) entry)
-- **The substantial Tetragrammaton as substantial Council-president personal designation** (treated principally in the [Yahweh](../yahweh/) and [Tetragrammaton](../tetragrammaton/) entries)
+- **בראשית 1 כתיאור הנדסה-גנטית מהותי** ולא כתיאור יצירה-על-טבעית מהותי
+- **ה*אלוהים* המהותי כיצורים רבים בפועל מהותיים** ולא כאל יחיד מהותי (מטופל בעיקר בערך {% wiki(slug="plurality-of-gods") %}ריבוי האלים{% end %})
+- **ה*מלאכים* המהותיים כאנשי-צוות ברית מהותיים** ולא כיצורים על-טבעיים מהותיים
+- **ה*בני האלוהים* המהותיים כתוכן מגע ברית-אדם מהותי** (מטופל בעיקר בערך {% wiki(slug="watchers") %}השומרים{% end %} כאשר ייכתב ובערך {% wiki(slug="antediluvian") %}טרום-מבולי{% end %})
+- **הנפילים המהותיים כצאצאים היברידיים מהותיים של ברית-אדם** ולא כענקים על-טבעיים מהותיים
+- **המבול המהותי כקטסטרופה גרעינית מהותית** (מטופל בעיקר בערך {% wiki(slug="great-flood") %}המבול הגדול{% end %})
+- **אירוע סיני המהותי כקבלת פנים פורמלית מהותית של הברית** ולא כתאופניה על-טבעית מהותית
+- **המים המבותרים המהותיים כפעולות קרן-מכוונת מהותיות** ולא כהתערבות על-טבעית מהותית
+- **חורבן סדום המהותי כמכת אטום מהותית** (מטופל בעיקר בערך {% wiki(slug="sodom-and-gomorrah") %}סדום ועמורה{% end %})
+- **התערבות בבל המהותית כפיזור תפעולי מהותי של המועצה** (מטופל בעיקר בערך {% wiki(slug="babel") %}בבל{% end %})
+- **השם המפורש המהותי ככינוי אישי מהותי של נשיא-המועצה** (מטופל בעיקר בערכים {% wiki(slug="yahweh") %}יהוה{% end %} ו-{% wiki(slug="tetragrammaton") %}השם המפורש{% end %})
 
-**The substantial decoding methodology**. The substantial framework operates through substantial systematic textual engagement:
+**מתודולוגיית הפענוח המהותית**. המסגרת המהותית פועלת דרך מעורבות טקסטואלית שיטתית מהותית:
 
-1. **Substantial original-language priority**: substantial reading of the substantial Hebrew text rather than substantial reliance on translations
-2. **Substantial grammatical attention**: substantial attention to substantial grammatical features (plural forms, verb tenses, syntactic structures)
-3. **Substantial vocabulary-fidelity**: substantial attention to the substantial actual semantic content of substantial Hebrew terms
-4. **Substantial cross-referencing**: substantial systematic cross-referencing across the broader Hebrew Bible content
-5. **Substantial cross-cultural integration**: substantial integration with substantial parallel content from substantial other religious-traditional sources
+1. **קדימות-לשון-המקור המהותית**: קריאה מהותית של הטקסט העברי המהותי ולא הסתמכות על תרגומים
+2. **תשומת לב דקדוקית מהותית**: תשומת לב מהותית לתכונות דקדוקיות מהותיות (צורות רבות, זמני פעלים, מבנים תחביריים)
+3. **נאמנות-אוצר-מילים מהותית**: תשומת לב מהותית לתוכן הסמנטי בפועל של מונחים עבריים מהותיים
+4. **הצלבת ייחוסים מהותית**: הצלבת ייחוסים שיטתית מהותית על פני התוכן הרחב של המקרא העברי
+5. **אינטגרציה בין-תרבותית מהותית**: אינטגרציה מהותית עם תוכן מקביל מהותי ממקורות דתיים-מסורתיים אחרים מהותיים
 
-### The substantial translation-mistake landscape
+### נוף טעויות התרגום המהותי
 
-The substantial framework articulates substantial systematic translation-mistake landscape across the broader Christian-tradition translation history.
+המסגרת המהותית מנסחת נוף שיטתי מהותי של טעויות תרגום על פני תולדות התרגום של המסורת הנוצרית הרחבה.
 
-**The substantial *Elohim* → singular "God" mistake**. The substantial principal translation mistake operating across substantially the entire Christian-tradition translation history. The detailed treatment lives in the [Plurality of Gods](../plurality-of-gods/) entry.
+**טעות **אלוהים** → »אל« יחיד המהותית**. טעות התרגום העיקרית המהותית הפועלת על פני באופן מהותי כל תולדות התרגום של המסורת הנוצרית. הטיפול המפורט חי בערך {% wiki(slug="plurality-of-gods") %}ריבוי האלים{% end %}.
 
-**The substantial *taninim* → "whales" mistake**. The substantial Genesis 1:21 translation choice operating principally through the Septuagint κῆτος (*ketos*, "sea creature") rendering and subsequent translations. The detailed treatment lives in the [Dragons](../dragons/) entry. The substantial original Hebrew *taninim* operates as substantial plural of *tannin* meaning substantial "dragons" or "sea-serpents," with the substantial translation softening operating across the broader translation tradition.
+**טעות **תנינים** → »לווייתנים« המהותית**. בחירת התרגום המהותית של בראשית א:כא הפועלת בעיקר דרך עיבוד תרגום השבעים κῆτος (*ketos*, »יצור ים«) ותרגומים מאוחרים. הטיפול המפורט חי בערך {% wiki(slug="dragons") %}דרקונים{% end %}. ה*תנינים* העברי המקורי המהותי פועל כצורת רבים של *תנין* שמשמעותו »דרקונים« או »נחשי-ים« מהותי, עם הריכוך התרגומי הפועל על פני מסורת התרגום הרחבה.
 
-**The substantial *malakhim* → "angels" mistake**. The substantial Hebrew *malakhim* (מַלְאָכִים, plural of *malakh*) operates as substantial standard Hebrew designation for substantial "messengers" rather than substantial supernatural beings. The substantial Christian-tradition rendering as "angels" (with substantial subsequent supernatural-overlay development) operates as substantial obscuring of the substantial messenger-personnel operational content.
+**טעות **מלאכים** → »אנגלים« המהותית**. ה*מלאכים* (מַלְאָכִים, צורת רבים של *מלאך*) העברי המהותי פועל ככינוי עברי סטנדרטי מהותי ל»שליחים« ולא ליצורים על-טבעיים מהותיים. עיבוד המסורת הנוצרית כ»אנגלים« (עם פיתוח שכבת-על על-טבעית מאוחר מהותי) פועל כטשטוש של תוכן אנשי-הצוות-השליחים התפעולי המהותי.
 
-**The substantial *nachash* → mere "serpent" mistake**. The substantial Hebrew *nachash* (נָחָשׁ) operates within substantial broader semantic field with substantial multiple operational meanings. The substantial Christian-tradition rendering as mere "serpent" operating principally through the substantial Genesis 3 narrative substantially obscures the substantial Lucifer-faction operational content. The detailed treatment lives in the [Serpent](../serpent/) entry.
+**טעות **נחש** → »נחש« בלבד המהותית**. ה*נחש* (נָחָשׁ) העברי המהותי פועל בתוך שדה סמנטי רחב מהותי עם משמעויות תפעוליות מרובות מהותיות. עיבוד המסורת הנוצרית כ»נחש« בלבד הפועל בעיקר דרך נרטיב בראשית 3 המהותי מטשטש באופן מהותי את התוכן התפעולי של סיעת לוציפר המהותי. הטיפול המפורט חי בערך {% wiki(slug="serpent") %}נחש{% end %}.
 
-**The substantial *benei ha-Elohim* → "sons of God" mistake**. The substantial Hebrew *benei ha-Elohim* (בְּנֵי־הָאֱלֹהִים, "sons of the Elohim") preserves substantial plural reference. The substantial Christian-tradition rendering frequently obscures the substantial plural content through substantial various translation choices.
+**טעות **בני האלוהים** → »בני אל« המהותית**. ה*בני האלוהים* (בְּנֵי־הָאֱלֹהִים, »בני האלוהים«) העברי המהותי שומר התייחסות רבים מהותית. עיבוד המסורת הנוצרית מטשטש לעיתים קרובות את התוכן הרבים המהותי דרך בחירות תרגום שונות מהותיות.
 
-**The substantial *Adam* → "man" naming mistake**. The substantial Hebrew *Adam* (אָדָם) operates substantively beyond the substantial individual-name content as substantial collective designation for substantial humanity (related to the substantial *adamah* "earth" / "ground" content). The substantial Christian-tradition translation has substantively obscured the substantial collective content in various passages.
+**טעות **אדם** → »איש« המהותית**. ה*אדם* (אָדָם) העברי המהותי פועל באופן מהותי מעבר לתוכן השם-האישי המהותי ככינוי קולקטיבי מהותי עבור האנושות המהותית (קשור לתוכן ה*אדמה* »ארץ« / »קרקע« המהותי). תרגום המסורת הנוצרית טשטש באופן מהותי את התוכן הקולקטיבי המהותי בקטעים שונים.
 
-**The substantial *ruach* → "spirit" mistake**. The substantial Hebrew *ruach* (רוּחַ) operates substantively within substantial broader semantic field including "wind," "breath," and "spirit." The substantial Christian-tradition rendering as merely "spirit" with substantial supernatural overlay has substantively obscured the substantial broader semantic content.
+**טעות **רוח** → »רוח« המהותית**. ה*רוח* (רוּחַ) העברי המהותי פועל באופן מהותי בתוך שדה סמנטי רחב מהותי הכולל »רוח-נשיבה«, »נשימה«, ו»רוח-נפש«. עיבוד המסורת הנוצרית כ»רוח« בלבד עם שכבת-על על-טבעית מהותית טשטש באופן מהותי את התוכן הסמנטי הרחב המהותי.
 
-**Various other translation mistakes**. The substantial broader translation-mistake landscape extends substantively beyond these substantial principal instances, with substantial systematic obscuring operating across the broader Christian-tradition translation history.
+**טעויות תרגום שונות אחרות**. נוף טעויות התרגום הרחב המהותי משתרע באופן מהותי מעבר למקרים העיקריים המהותיים הללו, עם טשטוש שיטתי מהותי הפועל על פני תולדות התרגום של המסורת הנוצרית הרחבה.
 
-### The substantial textual-imperfection content
+### תוכן הפגימות הטקסטואלית המהותי
 
-The substantial framework registers substantial textual imperfection within the substantial broader centrality positioning.
+המסגרת המהותית רושמת פגימות טקסטואלית מהותית בתוך מיצוב המרכזיות הרחב המהותי.
 
-**The substantial pre-scientific-vocabulary imperfection**. The substantial human authors did not always substantively understand what they were recording, with substantial pre-scientific vocabulary operating as substantial limitation on substantial recording-fidelity.
+**פגימות אוצר-המילים-הטרום-מדעי המהותית**. המחברים האנושיים המהותיים לא תמיד הבינו באופן מהותי את שתיעדו, כאשר אוצר המילים הטרום-מדעי המהותי פועל כמגבלה על נאמנות-התיעוד המהותית.
 
-**The substantial redactional-layering imperfection**. The substantial various redactions across the centuries introduced substantial layers of cultural framing on top of the original content, with substantial subsequent monotheistic-theological editing operating substantively across the broader textual tradition.
+**פגימות השכבות-העריכתיות המהותית**. העריכות השונות המהותיות לאורך המאות הכניסו שכבות מהותיות של מסגור תרבותי על גבי התוכן המקורי, עם עריכה תיאולוגית-מונותאיסטית מאוחרת הפועלת מהותית על פני המסורת הטקסטואלית הרחבה.
 
-**The substantial canonization-selection imperfection**. The substantial eventual canonization process selected specific texts while excluding others, with substantial significant content (the substantial Book of Enoch, various other apocryphal-pseudepigraphal materials) being excluded from the substantial Jewish canonical tradition. The substantial Book of Enoch exclusion is treated principally in the substantial [Watchers](../watchers/) entry when written.
+**פגימות בחירת-הקנוניזציה המהותית**. תהליך הקנוניזציה הסופי המהותי בחר טקסטים ספציפיים בעודו מוציא אחרים, כאשר תוכן משמעותי מהותי (ספר חנוך המהותי, חומרים אפוקריפיים-פסאודו-אפיגרפיים שונים אחרים) הוצא מהמסורת הקנונית היהודית המהותית. הוצאת ספר חנוך המהותית מטופלת בעיקר בערך {% wiki(slug="watchers") %}השומרים{% end %} כאשר ייכתב.
 
-**The substantial substantive-preservation despite imperfection**. The substantial framework articulation: despite the substantial imperfections, the substantial textual content operates substantively as the substantial documentary record of the alliance's relationship with the Eden lineage. The substantial imperfections register substantial decodable layers rather than substantial fundamental-obstacles to substantive understanding.
+**שימור-במהותי-למרות-פגימות**. ניסוח המסגרת המהותית: למרות הפגימות המהותיות, התוכן הטקסטואלי המהותי פועל מהותית כתיעוד התיעודי המהותי של יחס הברית לשושלת עדן. הפגימות המהותיות רושמות שכבות הניתנות לפענוח מהותיות ולא מכשולים יסודיים מהותיים להבנה מהותית.
 
-### The substantial Israel-team genealogical specificity
+### הספציפיות הגנאלוגית של צוות ישראל המהותית
 
-The substantial framework articulates substantial Israel-team genealogical specificity within the broader cosmological-creator framework.
+המסגרת המהותית מנסחת ספציפיות גנאלוגית מהותית של צוות ישראל בתוך המסגרת הקוסמולוגית-יוצרים הרחבה.
 
-**The substantial seven-team creation structure**. The substantial framework registers the substantial Elohim creation project as operating through substantial seven-team structure, with the substantial seven creator-teams operating across the substantial seven creation days / precessional ages. The detailed treatment lives in the [Genesis](../genesis/) entry.
+**מבנה הבריאה של שבעת הצוותים המהותי**. המסגרת המהותית רושמת את פרויקט בריאת האלוהים המהותי כפועל דרך מבנה שבעת-צוותים מהותי, כאשר שבעת צוותי היוצרים המהותיים פועלים על פני שבעת ימי הבריאה / עידנים פרסציוניים המהותיים. הטיפול המפורט חי בערך {% wiki(slug="genesis") %}בראשית{% end %}.
 
-**The substantial Israel-team specific position**. The substantial Hebrew Bible operates as the substantial documentary record of the substantial Israel-team's specific work, with the substantial Eden-lineage genealogical line operating as the substantial cultural carrier of the broader creation memory.
+**עמדת צוות-ישראל הספציפית המהותית**. המקרא העברי המהותי פועל כתיעוד התיעודי המהותי של עבודתו הספציפית של צוות ישראל המהותי, כאשר השושלת הגנאלוגית של עדן פועלת כנושאת התרבותית המהותית של זיכרון הבריאה הרחב.
 
-**The substantial preservation-fidelity content**. The substantial Israel-team's humans, more than any other team's, became the substantial cultural carriers of the substantial creation memory. The substantial preservation-fidelity reflects the substantial historical-developmental specifics of the substantial Eden-lineage genealogical line — substantial consistent population-continuity across the post-flood millennia, substantial religious-cultural-textual tradition development, substantial alliance-officer direct contact across the broader period.
+**תוכן נאמנות-השימור המהותי**. בני האדם של צוות ישראל המהותי, יותר מכל צוות אחר, הפכו לנושאים התרבותיים המהותיים של זיכרון הבריאה המהותי. נאמנות-השימור המהותית משקפת את הספציפיות ההיסטורית-התפתחותית של השושלת הגנאלוגית של עדן המהותית — רציפות אוכלוסייה עקבית מהותית על פני אלפי השנים שלאחר המבול, פיתוח מסורת דתית-תרבותית-טקסטואלית מהותית, מגע ישיר מהותי עם קציני הברית על פני התקופה הרחבה.
 
-**The substantial other-teams comparative content**. The substantial other six creator-teams' humans had their own substantial creation traditions, with substantial fragments surviving substantively in the substantial comparative-mythology material across various other religious-cultural traditions. The substantial detailed cross-cultural comparative content lives in the various comparative entries (Genesis, Antediluvian, Great Flood, etc.).
+**תוכן השוואת-הצוותים-האחרים המהותי**. לבני האדם של ששת צוותי היוצרים האחרים המהותיים היו מסורות בריאה משלהם מהותיות, עם שברים השורדים מהותית בחומר השוואת-המיתולוגיה המהותי על פני מסורות דתיות-תרבותיות אחרות שונות. תוכן ההשוואה הבין-תרבותית המפורט המהותי חי בערכים ההשוואתיים השונים (בראשית, טרום-מבולי, המבול הגדול וכו׳).
 
-## Application across the corpus
+## יישום ברחבי הקורפוס
 
-The Hebrew Bible operates as substantial source-textual foundation across virtually every corpus framework entry.
+המקרא העברי פועל כיסוד טקסטואלי-מקורי מהותי על פני כמעט כל ערך מסגרתי בקורפוס.
 
-### The Genesis entry
+### ערך בראשית
 
-The Hebrew Bible Genesis content operates as substantial foundational content for the broader corpus framework. The detailed treatment of Genesis lives in the [Genesis](../genesis/) entry; the Hebrew Bible entry's specific contribution is registering the substantial broader textual-canonical context within which Genesis operates.
+תוכן בראשית של המקרא העברי פועל כתוכן יסודי מהותי עבור מסגרת הקורפוס הרחבה. הטיפול המפורט של בראשית חי בערך {% wiki(slug="genesis") %}בראשית{% end %}; התרומה הספציפית של ערך המקרא העברי היא רישום ההקשר הטקסטואלי-קנוני הרחב המהותי שבתוכו פועל בראשית.
 
-### The various individual narrative-event entries
+### ערכי האירועים-הנרטיביים האינדיבידואליים השונים
 
-The Hebrew Bible operates as substantial source-textual foundation for the various individual narrative-event entries: [Adam and Eve](../adam-and-eve/), [Eden](../eden/), [Antediluvian](../antediluvian/), [Great Flood](../great-flood/), [Theomachy](../theomachy/), [Babel](../babel/), [Sodom and Gomorrah](../sodom-and-gomorrah/), various others.
+המקרא העברי פועל כיסוד טקסטואלי-מקורי מהותי עבור ערכי האירועים-הנרטיביים האינדיבידואליים השונים: {% wiki(slug="adam-and-eve") %}אדם וחווה{% end %}, {% wiki(slug="eden") %}עדן{% end %}, {% wiki(slug="antediluvian") %}טרום-מבולי{% end %}, {% wiki(slug="great-flood") %}המבול הגדול{% end %}, {% wiki(slug="theomachy") %}מלחמת האלים{% end %}, {% wiki(slug="babel") %}בבל{% end %}, {% wiki(slug="sodom-and-gomorrah") %}סדום ועמורה{% end %}, ושונים אחרים.
 
-### The various individual figure entries
+### ערכי הדמויות האינדיבידואליות השונים
 
-The Hebrew Bible operates as substantial source-textual foundation for the various individual figure entries: [Adam and Eve](../adam-and-eve/), [Noah](../noah/) when written, [Abraham](../abraham/) when written, [Moses](../moses/) when written, the various creator-figure entries ([Elohim](../elohim/), [Yahweh](../yahweh/), [Lucifer](../lucifer/), [Satan](../satan/), [Serpent](../serpent/)), various others.
+המקרא העברי פועל כיסוד טקסטואלי-מקורי מהותי עבור ערכי הדמויות האינדיבידואליות השונים: {% wiki(slug="adam-and-eve") %}אדם וחווה{% end %}, {% wiki(slug="noah") %}נח{% end %} כאשר ייכתב, {% wiki(slug="abraham") %}אברהם{% end %} כאשר ייכתב, {% wiki(slug="moses") %}משה{% end %} כאשר ייכתב, ערכי דמות-היוצרים השונים ({% wiki(slug="elohim") %}אלוהים{% end %}, {% wiki(slug="yahweh") %}יהוה{% end %}, {% wiki(slug="lucifer") %}לוציפר{% end %}, {% wiki(slug="satan") %}השטן{% end %}, {% wiki(slug="serpent") %}נחש{% end %}), ושונים אחרים.
 
-### The various concept entries
+### ערכי המושגים השונים
 
-The Hebrew Bible operates as substantial source-textual foundation for the various concept entries: [Plurality of Gods](../plurality-of-gods/), [Cosmic Chain](../cosmic-chain/), [Cosmic Competition](../cosmic-competition/), [Doubled Signature](../doubled-signature/), [Tree of Life](../tree-of-life/), various others.
+המקרא העברי פועל כיסוד טקסטואלי-מקורי מהותי עבור ערכי המושגים השונים: {% wiki(slug="plurality-of-gods") %}ריבוי האלים{% end %}, {% wiki(slug="cosmic-chain") %}השרשרת הקוסמית{% end %}, {% wiki(slug="cosmic-competition") %}התחרות הקוסמית{% end %}, {% wiki(slug="doubled-signature") %}החתימה הכפולה{% end %}, {% wiki(slug="tree-of-life") %}עץ החיים{% end %}, ושונים אחרים.
 
-### The various text entries
+### ערכי הטקסטים השונים
 
-The Hebrew Bible operates as substantial textual-tradition context for various other text entries when written: [Tetragrammaton](../tetragrammaton/), various subsequent Hellenistic-Jewish and Christian-tradition textual entities, various Islamic-tradition textual entities.
+המקרא העברי פועל כהקשר מסורת-טקסטואלית מהותי עבור ערכי טקסטים אחרים שונים כאשר ייכתבו: {% wiki(slug="tetragrammaton") %}השם המפורש{% end %}, ישויות טקסטואליות הלניסטיות-יהודיות ונוצריות-מסורתיות מאוחרות שונות, ישויות טקסטואליות אסלאמיות-מסורתיות שונות.
 
-### The Apocalypse entry
+### ערך האפוקליפסה
 
-The Hebrew Bible operates as substantial source-textual foundation for substantial apocalyptic-prophetic content. The detailed treatment lives in the [Apocalypse](../apocalypse/) entry.
+המקרא העברי פועל כיסוד טקסטואלי-מקורי מהותי עבור תוכן אפוקליפטי-נבואי מהותי. הטיפול המפורט חי בערך {% wiki(slug="apocalypse") %}אפוקליפסה{% end %}.
 
-### The Prophet entry
+### ערך הנביא
 
-The Hebrew Bible operates as substantial source-textual foundation for substantial prophetic-tradition content. The detailed treatment lives in the [Prophet](../prophet/) entry.
+המקרא העברי פועל כיסוד טקסטואלי-מקורי מהותי עבור תוכן המסורת-הנבואית המהותי. הטיפול המפורט חי בערך {% wiki(slug="prophet") %}נביא{% end %}.
 
-## Distinguishing from adjacent concepts
+## הבחנה ממושגים סמוכים
 
-### Hebrew Bible vs. Christian Old Testament
+### המקרא העברי לעומת הברית הישנה הנוצרית
 
-The Christian Old Testament operates as substantial Christian-tradition canonical reception of the Hebrew Bible content, with substantial divisional and arrangement differences. The relationship is one of **substantively-same-content-with-substantial-canonical-organizational-differences**. The substantial principal differences:
+הברית הישנה הנוצרית פועלת כקבלה קנונית מהותית של המסורת הנוצרית של תוכן המקרא העברי, עם הבדלי חלוקה וסידור מהותיים. היחס הוא של **תוכן-במהותו-זהה-עם-הבדלים-קנוניים-ארגוניים-מהותיים**. ההבדלים העיקריים המהותיים:
 
-- **Book count and divisions**: substantial different counting conventions (24 books in Jewish organization vs. 39 books in Protestant Christian organization vs. larger counts in Catholic and Orthodox organizations including substantial Deuterocanonical additions)
-- **Book ordering**: substantial different organizational sequences (prophets in middle section vs. at end)
-- **Apocryphal additions**: substantial Catholic and Eastern Orthodox additions not present in Jewish or Protestant Christian canons
+- **ספירת ספרים וחלוקות**: מוסכמות ספירה שונות מהותיות (24 ספרים בארגון היהודי לעומת 39 ספרים בארגון הפרוטסטנטי-הנוצרי לעומת ספירות גדולות יותר בארגונים הקתוליים והאורתודוקסיים הכוללים תוספות דאוטרוקנוניות מהותיות)
+- **סדר ספרים**: רצפים ארגוניים שונים מהותיים (נביאים בחלק האמצעי לעומת בסוף)
+- **תוספות אפוקריפיות**: תוספות קתוליות ואורתודוקסיות-מזרחיות מהותיות שאינן נוכחות בקנונים היהודיים או הפרוטסטנטיים-הנוצריים
 
-The substantial framework engagement operates principally with the substantial Hebrew textual tradition rather than with the substantial Christian-canonical reorganization, while registering substantial respect for the substantial Christian-tradition textual transmission.
+מעורבות המסגרת המהותית פועלת בעיקר עם המסורת הטקסטואלית העברית המהותית ולא עם הארגון-מחדש הקנוני-הנוצרי המהותי, בעודה רושמת כבוד מהותי להעברה הטקסטואלית של המסורת הנוצרית המהותית.
 
-### Hebrew Bible vs. broader Christian Bible
+### המקרא העברי לעומת התנ״ך הנוצרי הרחב
 
-The broader Christian Bible adds substantial New Testament content to the substantial Old Testament content. The relationship is one of **substantial-Hebrew-Bible-content-as-foundation-with-substantial-New-Testament-addition**. The substantial framework engagement with the substantial New Testament content operates substantively (treated principally in the [Jesus](../jesus/) entry, the various Christian-tradition entries, and the broader Pisces-age corpus entries) but substantially separately from the substantial Hebrew Bible engagement.
+התנ״ך הנוצרי הרחב מוסיף תוכן מהותי של ברית חדשה לתוכן הברית הישנה המהותי. היחס הוא של **תוכן-המקרא-העברי-המהותי-כיסוד-עם-תוספת-של-הברית-החדשה-המהותית**. מעורבות המסגרת עם תוכן הברית החדשה המהותי פועלת באופן מהותי (מטופל בעיקר בערך {% wiki(slug="jesus") %}ישוע{% end %}, ערכי המסורת הנוצרית השונים, וערכי הקורפוס הרחבים של עידן הדגים) אך בנפרד באופן מהותי ממעורבות המקרא העברי המהותית.
 
-### Hebrew Bible vs. the Quran
+### המקרא העברי לעומת הקוראן
 
-The substantial Quran operates as substantial Islamic-tradition canonical text registering substantial parallel content with the substantial Hebrew Bible while operating from distinct cultural-religious tradition. The relationship is one of **substantial-parallel-content-with-substantial-distinct-traditional-framing**. The substantial framework engagement with the substantial Quran operates substantively (treated principally in the [Muhammad](../muhammad/) entry when written and the broader Pisces-age corpus entries) but substantially separately from the substantial Hebrew Bible engagement.
+הקוראן המהותי פועל כטקסט קנוני של המסורת האסלאמית מהותי הרושם תוכן מקביל מהותי עם המקרא העברי המהותי בעודו פועל ממסורת תרבותית-דתית נפרדת. היחס הוא של **תוכן-מקביל-מהותי-עם-מסגור-מסורתי-נפרד-מהותי**. מעורבות המסגרת עם הקוראן המהותי פועלת באופן מהותי (מטופל בעיקר בערך {% wiki(slug="muhammad") %}מוחמד{% end %} כאשר ייכתב ובערכי הקורפוס הרחבים של עידן הדגים) אך בנפרד באופן מהותי ממעורבות המקרא העברי המהותית.
 
-### Hebrew Bible vs. the Book of Mormon
+### המקרא העברי לעומת ספר מורמון
 
-The substantial Book of Mormon operates as substantial Mormon LDS canonical text registering substantial parallel content with the substantial Hebrew Bible while operating from distinct cultural-religious tradition. The relationship is one of **substantial-parallel-content-with-substantial-distinct-traditional-framing**. The substantial framework engagement with the substantial Book of Mormon operates substantively (treated principally in the [Joseph Smith](../joseph-smith/) entry when written and the broader Mormon LDS corpus content) but substantially separately from the substantial Hebrew Bible engagement.
+ספר מורמון המהותי פועל כטקסט קנוני של מורמון LDS מהותי הרושם תוכן מקביל מהותי עם המקרא העברי המהותי בעודו פועל ממסורת תרבותית-דתית נפרדת. היחס הוא של **תוכן-מקביל-מהותי-עם-מסגור-מסורתי-נפרד-מהותי**. מעורבות המסגרת עם ספר מורמון המהותי פועלת באופן מהותי (מטופל בעיקר בערך {% wiki(slug="joseph-smith") %}ג'וזף סמית{% end %} כאשר ייכתב ובתוכן הקורפוס הרחב של מורמון LDS) אך בנפרד באופן מהותי ממעורבות המקרא העברי המהותית.
 
-### Hebrew Bible vs. Apocryphal and Pseudepigraphal texts
+### המקרא העברי לעומת טקסטים אפוקריפיים ופסאודו-אפיגרפיים
 
-The substantial Apocryphal and Pseudepigraphal texts (the substantial Book of Enoch, the substantial Book of Jubilees, the substantial various Maccabees books, the substantial various other texts) operate within distinct canonical-traditional positions while substantively containing substantial parallel content with the broader Hebrew Bible tradition. The relationship is one of **substantial-related-content-with-substantial-distinct-canonical-position**. The substantial framework engagement with the substantial Apocryphal-Pseudepigraphal content operates substantively (treated principally in the [Watchers](../watchers/) entry when written for substantial Book of Enoch content, with various other dedicated entries when written).
+הטקסטים האפוקריפיים והפסאודו-אפיגרפיים המהותיים (ספר חנוך המהותי, ספר היובלים המהותי, ספרי המקבים השונים המהותיים, טקסטים שונים אחרים מהותיים) פועלים בתוך עמדות קנוניות-מסורתיות נפרדות בעודם מכילים מהותית תוכן מקביל מהותי עם מסורת המקרא העברי הרחבה. היחס הוא של **תוכן-קשור-מהותי-עם-עמדה-קנונית-נפרדת-מהותית**. מעורבות המסגרת עם התוכן האפוקריפי-פסאודו-אפיגרפי המהותי פועלת באופן מהותי (מטופל בעיקר בערך {% wiki(slug="watchers") %}השומרים{% end %} כאשר ייכתב עבור תוכן ספר חנוך המהותי, עם ערכים ייעודיים שונים אחרים כאשר ייכתבו).
 
-## Modern reinterpretations
+## פירושים מודרניים
 
-### Mainstream Hebrew Bible scholarship
+### מחקר המקרא העברי המיינסטרים
 
-Mainstream Hebrew Bible scholarship has produced substantial systematic engagement across multiple distinct disciplinary contexts.
+מחקר המקרא העברי המיינסטרים הפיק מעורבות שיטתית מהותית על פני הקשרים תחומיים נפרדים מרובים.
 
-### The Documentary Hypothesis
+### השערת המקורות
 
-The substantial **Documentary Hypothesis** operates as the principal source-critical framework for Pentateuchal scholarship from the late nineteenth century onward.
+ה**השערת המקורות** המהותית פועלת כמסגרת ביקורת-המקורות המרכזית עבור מחקר התורה מסוף המאה התשע-עשרה והלאה.
 
-**Wellhausen's foundational work**. **Julius Wellhausen** (1844-1918) produced the foundational systematic articulation of the substantial Documentary Hypothesis through *Prolegomena zur Geschichte Israels* (1878; English translation as *Prolegomena to the History of Israel*, 1885). The substantial Wellhausen articulation registered the substantial four-source theory: J (Yahwist), E (Elohist), D (Deuteronomist), P (Priestly). The substantial subsequent scholarship has substantively engaged the broader Documentary-Hypothesis framework.
+**עבודתו היסודית של ולהאוזן**. **יוליוס וֶלהאוּזן** (1844-1918) הפיק את הניסוח השיטתי היסודי של השערת המקורות המהותית דרך *Prolegomena zur Geschichte Israels* (1878; תרגום אנגלי כ-*Prolegomena to the History of Israel*, 1885){{ cite(id="wellhausen-prolegomena", text="[1]", title="ולהאוזן (1878), *Prolegomena zur Geschichte Israels* — ניסוח יסודי של השערת המקורות") }}. הניסוח של ולהאוזן המהותי רשם את תיאוריית ארבעת-המקורות המהותית: J (יהוויסטי), E (אלוהיסטי), D (דאוטרונומיסטי), P (כוהני){{ footnote(id="2") }}. המחקר המאוחר המהותי עסק באופן מהותי במסגרת השערת המקורות הרחבה.
 
-**Friedman's contemporary articulation**. **Richard Elliott Friedman**'s *Who Wrote the Bible?* (Harper & Row, 1987) and *The Bible with Sources Revealed* (HarperOne, 2003) provide substantial contemporary systematic engagement with the substantial Documentary Hypothesis. The substantial Friedman articulation registers substantial source-distinction with substantial historical-cultural specificity.
+**ניסוחו בן-זמננו של פרידמן**. *Who Wrote the Bible?* (Harper & Row, 1987){{ cite(id="friedman-who-wrote-bible", text="[2]", title="פרידמן (1987), *Who Wrote the Bible?* — ניסוח נגיש של השערת המקורות") }} של **ריצ'רד אליוט פרידמן** ו-*The Bible with Sources Revealed* (HarperOne, 2003){{ cite(id="friedman-bible-sources-revealed", text="[3]", title="פרידמן (2003), *The Bible with Sources Revealed* — הצגה של התורה מתויגת לפי מקורות") }} מספקים מעורבות שיטתית בת-זמננו מהותית עם השערת המקורות המהותית. ניסוחו של פרידמן המהותי רושם הבחנת-מקור מהותית עם ספציפיות היסטורית-תרבותית מהותית.
 
-**Van Seters's substantial work**. **John Van Seters**'s *The Pentateuch: A Social-Science Commentary* (Sheffield Academic Press, 1999) and various other works provide substantial subsequent engagement with the broader Documentary-Hypothesis framework, with various specific scholarly engagements articulating various aspects of the broader question.
+**עבודתו המהותית של ואן סטרס**. *The Pentateuch: A Social-Science Commentary* (Sheffield Academic Press, 1999) של **ג'ון ואן סטרס** ויצירות שונות אחרות מספקות מעורבות מאוחרת מהותית עם מסגרת השערת המקורות הרחבה, עם מעורבויות מדעיות ספציפיות שונות המנסחות היבטים שונים של השאלה הרחבה.
 
-**Baden's recent contribution**. **Joel S. Baden**'s *The Composition of the Pentateuch: Renewing the Documentary Hypothesis* (Yale University Press, 2012) provides substantial recent systematic articulation, with substantial engagement with the broader scholarly debate.
+**תרומתו האחרונה של בייידן**. *The Composition of the Pentateuch: Renewing the Documentary Hypothesis* (Yale University Press, 2012) של **ג'ואל ס. בייידן** מספק ניסוח שיטתי אחרון מהותי, עם מעורבות מהותית בדיון המדעי הרחב.
 
-**The substantial framework relationship**. The substantial framework operates substantially within the broader Documentary-Hypothesis recognition of substantial multiple-source content within the Pentateuchal tradition while operating from substantially distinct interpretive foundation. The substantial framework specifically registers the substantial different divine names (Yahweh, Elohim) as registering substantial different aspects of the broader alliance-creator content (the substantial Yahweh as substantial Council president; the substantial *Elohim* as substantial collective creator-civilization designation) rather than as substantial different source-traditions alone.
+**יחס המסגרת המהותי**. המסגרת המהותית פועלת באופן מהותי בתוך ההכרה של השערת המקורות הרחבה בתוכן מקור-מרובה מהותי בתוך המסורת התורנית בעודה פועלת מיסוד פרשני נפרד באופן מהותי. המסגרת המהותית רושמת באופן ספציפי את שמות-האלוהים השונים (יהוה, אלוהים) כרושמים היבטים שונים מהותיים של תוכן הברית-היוצרת הרחב (יהוה המהותי כנשיא המועצה המהותי; ה*אלוהים* המהותי ככינוי קולקטיבי מהותי של ציוויליזציית-היוצרים) ולא רק כמסורות-מקור שונות מהותיות.
 
-### Contemporary critical scholarship
+### מחקר ביקורתי בן-זמננו
 
-Various substantial contemporary critical scholars have produced substantial systematic engagement with the broader Hebrew Bible content.
+חוקרים ביקורתיים בני-זמננו שונים מהותיים הפיקו מעורבות שיטתית מהותית עם תוכן המקרא העברי הרחב.
 
-**Gerhard von Rad's substantial work**. **Gerhard von Rad** (1901-1971) produced foundational mid-twentieth-century systematic engagement with the substantial Hebrew Bible content. Principal works: *Old Testament Theology* (2 vols., 1957-1960; English translation 1962-1965), *Genesis: A Commentary* (1949; English translation 1961, revised edition 1972), various other works.
+**עבודתו המהותית של גרהרד פון רד**. **גרהרד פון רד** (1901-1971) הפיק מעורבות שיטתית יסודית של אמצע המאה העשרים עם תוכן המקרא העברי המהותי. יצירות עיקריות: *Old Testament Theology* (2 כרכים, 1957-1960; תרגום אנגלי 1962-1965), *Genesis: A Commentary* (1949; תרגום אנגלי 1961, מהדורה מתוקנת 1972), יצירות שונות אחרות.
 
-**Claus Westermann's comprehensive Genesis commentary**. **Claus Westermann**'s three-volume *Genesis* commentary (1974-1982; English translation 1984-1986) provides the principal twentieth-century systematic engagement with the substantial Genesis content.
+**הפרשנות המקיפה של ווסטרמן על בראשית**. פרשנות *בראשית* בת שלושת הכרכים של **קלאוס ווסטרמן** (1974-1982; תרגום אנגלי 1984-1986) מספקת את המעורבות השיטתית המרכזית של המאה העשרים עם תוכן בראשית המהותי.
 
-**Walter Brueggemann's substantial work**. **Walter Brueggemann**'s *Theology of the Old Testament: Testimony, Dispute, Advocacy* (Augsburg Fortress, 1997) and various other works provide substantial systematic theological-critical engagement.
+**עבודתו המהותית של ברוגמן**. *Theology of the Old Testament: Testimony, Dispute, Advocacy* (Augsburg Fortress, 1997) של **וולטר ברוגמן** ויצירות שונות אחרות מספקות מעורבות שיטתית תיאולוגית-ביקורתית מהותית.
 
-**Robert Alter's literary engagement**. **Robert Alter**'s substantial work — *The Art of Biblical Narrative* (Basic Books, 1981), *The Five Books of Moses: A Translation with Commentary* (W. W. Norton, 2004), *The Hebrew Bible: A Translation with Commentary* (3 vols., W. W. Norton, 2018) — provides substantial literary-critical engagement with substantial systematic literary attention.
+**המעורבות הספרותית של אלטר**. עבודתו המהותית של **רוברט אלטר** — *The Art of Biblical Narrative* (Basic Books, 1981), *The Five Books of Moses: A Translation with Commentary* (W. W. Norton, 2004), *The Hebrew Bible: A Translation with Commentary* (3 כרכים, W. W. Norton, 2018) — מספקת מעורבות ספרותית-ביקורתית מהותית עם תשומת לב ספרותית שיטתית מהותית.
 
-**Various substantial subsequent scholarship**. Substantial subsequent scholarship (Ronald Hendel, Bill Arnold, John Goldingay, Brevard Childs, James Kugel, various others) has continued to develop the broader scholarly engagement.
+**מחקר מאוחר מהותי שונה**. מחקר מאוחר מהותי (רונלד הנדל, ביל ארנולד, ג'ון גולדינגיי, ברווארד צ'יילדס, ג'יימס קוגל, שונים אחרים) המשיך לפתח את המעורבות המדעית הרחבה.
 
-### Archaeological-historical context scholarship
+### מחקר ההקשר הארכיאולוגי-ההיסטורי
 
-Mainstream archaeological-historical scholarship has produced substantial engagement with the substantial Hebrew Bible historical-cultural context.
+המחקר הארכיאולוגי-ההיסטורי המיינסטרים הפיק מעורבות מהותית עם ההקשר ההיסטורי-התרבותי המהותי של המקרא העברי.
 
-**The Albright tradition**. **William F. Albright** (1891-1971) and the broader Albright school produced foundational archaeological-historical scholarship operating substantively within substantial conservative-historical engagement with the substantial Hebrew Bible content. The substantial broader Albright tradition has produced substantial subsequent scholarship with substantial varying conservative-critical positions.
+**מסורת אולברייט**. **ויליאם פ. אולברייט** (1891-1971) ובית הספר הרחב של אולברייט הפיקו מחקר ארכיאולוגי-היסטורי יסודי הפועל באופן מהותי בתוך מעורבות שמרנית-היסטורית מהותית עם תוכן המקרא העברי המהותי. מסורת אולברייט הרחבה הפיקה מחקר מאוחר מהותי עם עמדות שמרניות-ביקורתיות משתנות מהותיות.
 
-**William G. Dever's substantial work**. **William G. Dever**'s *What Did the Biblical Writers Know and When Did They Know It?* (Eerdmans, 2001), *Who Were the Early Israelites and Where Did They Come From?* (Eerdmans, 2003), and various other works provide substantial contemporary archaeological-historical engagement.
+**עבודתו המהותית של דֵבֵר**. *What Did the Biblical Writers Know and When Did They Know It?* (Eerdmans, 2001), *Who Were the Early Israelites and Where Did They Come From?* (Eerdmans, 2003), ויצירות שונות אחרות של **ויליאם ג. דֵבֵר** מספקות מעורבות ארכיאולוגית-היסטורית בת-זמננו מהותית.
 
-**Israel Finkelstein's substantial work**. **Israel Finkelstein**'s substantial work — including *The Bible Unearthed: Archaeology's New Vision of Ancient Israel and the Origin of Its Sacred Texts* (with Neil Asher Silberman, Free Press, 2001) — provides substantial contemporary critical archaeological-historical engagement with substantial revisionist-historical positions.
+**עבודתו המהותית של פינקלשטיין**. עבודתו המהותית של **ישראל פינקלשטיין** — כולל *The Bible Unearthed: Archaeology's New Vision of Ancient Israel and the Origin of Its Sacred Texts* (יחד עם ניל אשר סילברמן, Free Press, 2001) — מספקת מעורבות ארכיאולוגית-היסטורית ביקורתית בת-זמננו מהותית עם עמדות היסטוריות-רוויזיוניסטיות מהותיות.
 
-**Amihai Mazar's substantial work**. **Amihai Mazar**'s *Archaeology of the Land of the Bible: 10,000-586 B.C.E.* (Doubleday, 1990) and various other works provide substantial systematic archaeological-historical engagement.
+**עבודתו המהותית של אמיחי מזר**. *Archaeology of the Land of the Bible: 10,000-586 B.C.E.* (Doubleday, 1990) של **אמיחי מזר** ויצירות שונות אחרות מספקות מעורבות ארכיאולוגית-היסטורית שיטתית מהותית.
 
-**The substantial framework relationship**. The substantial framework operates substantively within the broader archaeological-historical scholarly landscape, with substantial framework-specific reading registering substantial cross-disciplinary integration.
+**יחס המסגרת המהותי**. המסגרת המהותית פועלת באופן מהותי בתוך הנוף המדעי הארכיאולוגי-ההיסטורי הרחב, עם קריאה ספציפית-למסגרת מהותית הרושמת אינטגרציה חוצת-תחומים מהותית.
 
-### Textual-criticism scholarship
+### מחקר ביקורת טקסטואלית
 
-Substantial textual-criticism scholarship has produced substantial engagement with the substantial Hebrew Bible textual transmission history.
+מחקר ביקורת טקסטואלית מהותי הפיק מעורבות מהותית עם תולדות ההעברה הטקסטואלית של המקרא העברי המהותי.
 
-**Emanuel Tov's substantial work**. **Emanuel Tov**'s *Textual Criticism of the Hebrew Bible* (Augsburg Fortress, 1992; revised editions) provides the principal contemporary systematic engagement with the substantial Hebrew Bible textual-transmission history. The substantial Tov articulation registers substantial systematic engagement with the substantial Masoretic, Septuagint, Dead Sea Scrolls, Samaritan, and various other textual traditions.
+**עבודתו המהותית של אמנואל טוב**. *Textual Criticism of the Hebrew Bible* (Augsburg Fortress, 1992; מהדורות מתוקנות){{ cite(id="tov-textual-criticism", text="[4]", title="טוב (מהדורה 3, 2012), *Textual Criticism of the Hebrew Bible* — מקור הייחוס המרכזי בן-זמננו לביקורת טקסטואלית של המקרא העברי") }}{{ footnote(id="5") }} של **אמנואל טוב** מספק את המעורבות השיטתית בת-הזמננו המרכזית עם תולדות ההעברה הטקסטואלית של המקרא העברי המהותי. ניסוחו של טוב המהותי רושם מעורבות שיטתית מהותית עם המסורות הטקסטואליות המסורתית, השבעתית, של מגילות ים המלח, השומרונית, ואחרות שונות.
 
-**Ronald Hendel's substantial work**. **Ronald Hendel**'s *The Text of Genesis 1-11: Textual Studies and Critical Edition* (Oxford University Press, 1998) and the broader Oxford Hebrew Bible critical edition project provide substantial contemporary systematic textual-critical engagement.
+**עבודתו המהותית של רונלד הנדל**. *The Text of Genesis 1-11: Textual Studies and Critical Edition* (Oxford University Press, 1998) של **רונלד הנדל** ופרויקט המהדורה הביקורתית הרחב של המקרא העברי באוקספורד מספקים מעורבות ביקורתית-טקסטואלית שיטתית בת-זמננו מהותית.
 
-**The broader text-critical apparatus tradition**. The substantial *Biblia Hebraica Stuttgartensia* (Deutsche Bibelgesellschaft, 1968-1977; revised editions), *Biblia Hebraica Quinta* (Deutsche Bibelgesellschaft, 2004 onward), and various other critical editions provide substantial systematic textual-critical apparatus.
+**מסורת מנגנון הביקורת הטקסטואלית הרחבה**. *Biblia Hebraica Stuttgartensia* (Deutsche Bibelgesellschaft, 1968-1977; מהדורות מתוקנות), *Biblia Hebraica Quinta* (Deutsche Bibelgesellschaft, 2004 ואילך), ומהדורות ביקורתיות שונות אחרות מספקות מנגנון ביקורתי-טקסטואלי שיטתי מהותי.
 
-### Dead Sea Scrolls scholarship
+### מחקר מגילות ים המלח
 
-The substantial Dead Sea Scrolls discovery (beginning 1947) has produced substantial systematic engagement with the substantial Qumran biblical and sectarian textual evidence.
+תגלית מגילות ים המלח המהותית (החל ב-1947) הפיקה מעורבות שיטתית מהותית עם העדויות הטקסטואליות המקראיות והכתות של קומראן.
 
-**James VanderKam's substantial work**. **James C. VanderKam**'s *The Dead Sea Scrolls Today* (Eerdmans, 1994; revised editions) and various other works provide substantial systematic engagement with the broader Dead Sea Scrolls content.
+**עבודתו המהותית של ואנדרקאם**. *The Dead Sea Scrolls Today* (Eerdmans, 1994; מהדורות מתוקנות){{ cite(id="vanderkam-dss-today", text="[5]", title="ואנדרקאם (מהדורה שנייה, 2010), *The Dead Sea Scrolls Today* — מבוא נגיש למחקר מגילות ים המלח") }}{{ footnote(id="6") }} של **ג'יימס סי. ואנדרקאם** ויצירות שונות אחרות מספקות מעורבות שיטתית מהותית עם תוכן מגילות ים המלח הרחב.
 
-**Peter Flint's substantial work**. **Peter W. Flint**'s *The Dead Sea Psalms Scrolls and the Book of Psalms* (Brill, 1997) and various other works provide substantial systematic engagement.
+**עבודתו המהותית של פיטר פלינט**. *The Dead Sea Psalms Scrolls and the Book of Psalms* (Brill, 1997) של **פיטר ו. פלינט** ויצירות שונות אחרות מספקות מעורבות שיטתית מהותית.
 
-**The broader Qumran scholarship**. Substantial contemporary scholarship (Florentino García Martínez, Eugene Ulrich, John Collins, various others) has continued to develop the substantial Dead Sea Scrolls scholarly engagement.
+**מחקר קומראן הרחב**. מחקר בן-זמננו מהותי (פלורנטינו גרסיה מרטינז, יוג'ין אולריך, ג'ון קולינס, שונים אחרים) המשיך לפתח את המעורבות המדעית המהותית של מגילות ים המלח.
 
-**The substantial framework relationship**. The substantial corpus framework registers the substantial Dead Sea Scrolls discovery (1946-1947) as substantial component of the broader Aquarian-age opening signs, with the substantial textual recovery operating as substantial part of the broader textual-recovery process. The detailed treatment lives in the [Apocalypse](../apocalypse/) entry.
+**יחס המסגרת המהותי**. מסגרת הקורפוס המהותית רושמת את תגלית מגילות ים המלח (1946-1947) כמרכיב מהותי של סימני הפתיחה הרחבים של עידן הדלי, כאשר השחזור הטקסטואלי המהותי פועל כחלק מתהליך השחזור הטקסטואלי הרחב. הטיפול המפורט חי בערך {% wiki(slug="apocalypse") %}אפוקליפסה{% end %}.
 
-### Septuagint scholarship
+### מחקר תרגום השבעים
 
-Substantial Septuagint scholarship has produced substantial engagement with the substantial 3rd-2nd-century-BCE Greek translation tradition.
+מחקר תרגום השבעים המהותי הפיק מעורבות מהותית עם מסורת התרגום היווני מהמאה ה-3 עד ה-2 לפנה״ס המהותית.
 
-**Emanuel Tov's substantial Septuagint work**. **Emanuel Tov**'s *The Text-Critical Use of the Septuagint in Biblical Research* (Eisenbrauns, 2nd ed. 1997) and various other works provide substantial systematic engagement.
+**עבודתו המהותית של טוב בתרגום השבעים**. *The Text-Critical Use of the Septuagint in Biblical Research* (Eisenbrauns, מהדורה שנייה 1997) של **אמנואל טוב** ויצירות שונות אחרות מספקות מעורבות שיטתית מהותית.
 
-**Various substantial subsequent scholarship**. Substantial subsequent scholarship (Natalio Fernández Marcos, Karen Jobes, Moisés Silva, various others) has continued to develop the broader Septuagint scholarly engagement.
+**מחקר מאוחר מהותי שונה**. מחקר מאוחר מהותי (נטליו פרננדס מרקוס, קארן ג'ובס, מוייסס סילבה, שונים אחרים) המשיך לפתח את המעורבות המדעית הרחבה של תרגום השבעים.
 
-### Canonical-formation scholarship
+### מחקר היווצרות-הקאנון
 
-Substantial canonical-formation scholarship has produced substantial engagement with the substantial historical-developmental emergence of the substantial Hebrew Bible canonical structure.
+מחקר היווצרות-הקאנון המהותי הפיק מעורבות מהותית עם ההופעה ההיסטורית-התפתחותית של המבנה הקנוני המהותי של המקרא העברי.
 
-**Lee Martin McDonald's substantial work**. **Lee Martin McDonald**'s *The Biblical Canon: Its Origin, Transmission, and Authority* (Hendrickson, 3rd ed. 2007) provides substantial systematic engagement with the broader canonical-formation question.
+**עבודתו המהותית של מקדונלד**. *The Biblical Canon: Its Origin, Transmission, and Authority* (Hendrickson, מהדורה 3, 2007) של **לי מרטין מקדונלד** מספק מעורבות שיטתית מהותית עם שאלת היווצרות-הקאנון הרחבה.
 
-**Albert Sundberg's foundational work**. **Albert C. Sundberg**'s *The Old Testament of the Early Church* (Harvard University Press, 1964) provides foundational scholarship on the substantial canonical-formation question.
+**עבודתו היסודית של סונדברג**. *The Old Testament of the Early Church* (Harvard University Press, 1964) של **אלברט סי. סונדברג** מספק מחקר יסודי על שאלת היווצרות-הקאנון המהותית.
 
-**Various substantial subsequent scholarship**. Substantial subsequent scholarship (John Barton, James Sanders, Eugene Ulrich, various others) has continued to develop the broader canonical-formation scholarly engagement.
+**מחקר מאוחר מהותי שונה**. מחקר מאוחר מהותי (ג'ון בארטון, ג'יימס סנדרס, יוג'ין אולריך, שונים אחרים) המשיך לפתח את המעורבות המדעית הרחבה של היווצרות-הקאנון.
 
-### Sitchin's Anunnaki framework
+### מסגרת האנונאקי של סיטשין
 
-**Zecharia Sitchin** in *The 12th Planet* (Stein and Day, 1976) and various other works produced substantial alternative-history engagement with substantial Hebrew Bible content within the broader Anunnaki framework. Sitchin's specific framework registers substantial structural alignment with the corpus framework at the substantial multiple-creator-civilization dimension while operating from substantively distinct specific source-material warrant.
+**זכריה סיטשין** ב-*The 12th Planet* (Stein and Day, 1976) ויצירות שונות אחרות הפיק מעורבות אלטרנטיבית-היסטורית מהותית עם תוכן המקרא העברי המהותי בתוך מסגרת האנונאקי הרחבה. המסגרת הספציפית של סיטשין רושמת יישור מבני מהותי עם מסגרת הקורפוס בממד הציוויליזציה-יוצרת-מרובה המהותי בעודה פועלת מהקנייה ספציפית של חומר-מקור נפרדת באופן מהותי.
 
-### Wallis's broader engagement
+### המעורבות הרחבה של וואליס
 
-**Paul Anthony Wallis**'s *Escaping from Eden* (6th Books, 2020), *The Eden Conspiracy* (6th Books, 2024), and various other works engage substantial Hebrew Bible content. Wallis's specific framework registers substantial structural alignment with the framework's reading at multiple specific dimensions while operating from distinct source-material warrant principally drawn from the broader strict-translational approach.
+*Escaping from Eden* (6th Books, 2020), *The Eden Conspiracy* (6th Books, 2024), ויצירות שונות אחרות של **פול אנתוני וואליס** עוסקים בתוכן המקרא העברי המהותי. המסגרת הספציפית של וואליס רושמת יישור מבני מהותי עם קריאת המסגרת בממדים ספציפיים מרובים בעודה פועלת מהקנייה ספציפית של חומר-מקור הנובע בעיקר מהגישה הקפדנית-תרגומית הרחבה.
 
-### Biglino's strict-translational approach
+### הגישה הקפדנית-תרגומית של ביגלינו
 
-**Mauro Biglino**'s broader engagement with the Hebrew Bible (*The Naked Bible: The Truth About the Most Famous Book in History*, with Giorgio Cattaneo, Uno, 2022; various other works) has produced substantial alternative-history engagement. Biglino's specific position: strict literal translation of the Hebrew text reveals substantial content that mainstream translation traditions have systematically obscured. The substantial framework's specific positions register substantial structural alignment with Biglino's broader translational approach.
+המעורבות הרחבה של **מאורו ביגלינו** עם המקרא העברי (*The Naked Bible: The Truth About the Most Famous Book in History*, יחד עם ג'ורג'ו קטאנאו, Uno, 2022; יצירות שונות אחרות) הפיקה מעורבות אלטרנטיבית-היסטורית מהותית. עמדתו הספציפית של ביגלינו: תרגום מילולי קפדני של הטקסט העברי חושף תוכן מהותי שמסורות התרגום המיינסטרים טשטשו באופן שיטתי. עמדות המסגרת הספציפיות המהותיות רושמות יישור מבני מהותי עם הגישה התרגומית הרחבה של ביגלינו.
 
-### The framework's relationship to the broader landscape
+### יחס המסגרת לנוף הרחב
 
-The Wheel of Heaven corpus's Hebrew Bible framework is positioned within this scholarly landscape as follows: substantially aligned with mainstream Hebrew Bible scholarship at the textual-philological level (recognizing the substantial scholarly documentation of the substantial textual content); substantially aligned with the Documentary Hypothesis at the substantial multiple-source recognition level while operating from substantively distinct interpretive foundation; substantially aligned with mainstream archaeological-historical scholarship at the substantial historical-context level; substantially aligned with substantial textual-criticism scholarship at the substantial textual-history level; substantially aligned with substantial Dead Sea Scrolls scholarship at the substantial textual-recovery level; substantially aligned with substantial Septuagint scholarship at the substantial textual-history level; substantially aligned with substantial canonical-formation scholarship at the substantial historical-developmental level; substantively distinct from mainstream theological scholarship at the interpretive level (the framework's specific historical-record reading operates substantively beyond the conventional religious-mythological treatment); substantially aligned with various alternative-history scholarly traditions (Sitchin's Anunnaki framework, Wallis's broader engagement, Biglino's strict-translational approach) at the underlying-historical-event-reading level while operating from distinct source-material warrant principally drawn from the Raëlian source material.
+מסגרת המקרא העברי של קורפוס גלגל השמיים ממוקמת בתוך נוף מדעי זה כך: מיושרת מהותית עם מחקר המקרא העברי המיינסטרים ברמה הטקסטואלית-הפילולוגית (הכרה בתיעוד המדעי המהותי של התוכן הטקסטואלי המהותי); מיושרת מהותית עם השערת המקורות ברמת ההכרה ב-מקור-מרובה מהותית בעודה פועלת מיסוד פרשני נפרד באופן מהותי; מיושרת מהותית עם המחקר הארכיאולוגי-ההיסטורי המיינסטרים ברמת ההקשר ההיסטורי-התרבותי המהותי; מיושרת מהותית עם מחקר הביקורת הטקסטואלית המהותי ברמת התולדות הטקסטואליות המהותיות; מיושרת מהותית עם מחקר מגילות ים המלח המהותי ברמת השחזור הטקסטואלי המהותי; מיושרת מהותית עם מחקר תרגום השבעים המהותי ברמת התולדות הטקסטואליות המהותיות; מיושרת מהותית עם מחקר היווצרות-הקאנון המהותי ברמה ההיסטורית-התפתחותית המהותית; נבדלת מהותית מהמחקר התיאולוגי המיינסטרים ברמה הפרשנית (קריאת המסגרת הספציפית של תיעוד-היסטורי פועלת מהותית מעבר לטיפול המקובל של מיתולוגיה-דתית); מיושרת מהותית עם מסורות מדעיות אלטרנטיביות-היסטוריות שונות (מסגרת האנונאקי של סיטשין, מעורבותו הרחבה של וואליס, גישתו הקפדנית-תרגומית של ביגלינו) ברמת קריאת-האירוע-ההיסטורי הבסיסי בעודה פועלת מהקנייה ספציפית של חומר-מקור הנובע בעיקר מהחומר המקורי הראליאני.
 
-## Comparative observations
+## תצפיות השוואתיות
 
-The Hebrew Bible has substantial cross-cultural textual parallels in various religious-cultural traditions worldwide, with the substantial cross-cultural distribution registering substantial parallel content for the broader framework reading.
+למקרא העברי יש מקבילות טקסטואליות בין-תרבותיות מהותיות במסורות דתיות-תרבותיות שונות ברחבי העולם, כאשר ההפצה הבין-תרבותית המהותית רושמת תוכן מקביל מהותי עבור קריאת המסגרת הרחבה.
 
-### Mesopotamian textual parallels
+### מקבילות טקסטואליות מסופוטמיות
 
-The Mesopotamian textual tradition preserves the principal cross-cultural textual parallels.
+המסורת הטקסטואלית המסופוטמית שומרת את המקבילות הטקסטואליות הבין-תרבותיות המרכזיות.
 
-**The substantial *Atrahasis* epic**. The substantial Akkadian *Atrahasis* epic (preserved principally in 17th-century-BCE Old Babylonian manuscripts, with substantial earlier Sumerian antecedents) registers substantial parallel content with the substantial Hebrew Bible primeval history (Genesis 1-11). The substantial principal parallel content:
+**אפוס *אטרא-חסיס* המהותי**. אפוס *אטרא-חסיס* האכדי המהותי (שמור בעיקר בכתבי יד בבליים-עתיקים מהמאה ה-17 לפנה״ס, עם אבות שומריים מוקדמים מהותיים) רושם תוכן מקביל מהותי עם ההיסטוריה הקדומה של המקרא העברי המהותי (בראשית 1-11). תוכן המקביל העיקרי המהותי:
 
-- Substantial creation narrative with substantial divine-council deliberation about substantial human-creation
-- Substantial human-multiplication narrative
-- Substantial divine-council decision regarding substantial flood-destruction
-- Substantial flood narrative with substantial preservation of single righteous individual (Atrahasis / Utnapishtim)
-- Substantial post-flood covenant narrative
+- נרטיב בריאה מהותי עם דיון של מועצת אלוהים מהותית על בריאת האדם המהותית
+- נרטיב התרבות האדם המהותי
+- החלטת מועצת האלוהים המהותית בנוגע לחורבן המבול המהותי
+- נרטיב מבול מהותי עם שימור פרט צדיק יחיד (אטרא-חסיס / אוטנפישתים)
+- נרטיב ברית שלאחר המבול מהותית
 
-The substantial Hebrew Bible primeval history operates as substantial parallel content within distinct cultural-religious framing.
+ההיסטוריה הקדומה של המקרא העברי המהותית פועלת כתוכן מקביל מהותי בתוך מסגור תרבותי-דתי נפרד.
 
-**The substantial *Enuma Elish***. The substantial Babylonian *Enuma Elish* (preserved principally in 7th-century-BCE Neo-Assyrian manuscripts, with substantial earlier antecedents) registers substantial parallel content with substantial Hebrew Bible creation content (particularly Genesis 1) and substantial divine-council material. The substantial *Enuma Elish* preserves substantial divine-council deliberation, substantial cosmic-conflict content (the substantial Marduk-Tiamat conflict registering substantial parallel to broader Theomachy framework), and substantial creation-from-divine-being content.
+**ה*אנומה אליש* המהותי**. ה*אנומה אליש* הבבלי המהותי (שמור בעיקר בכתבי יד נאו-אשוריים מהמאה ה-7 לפנה״ס, עם אבות מוקדמים מהותיים) רושם תוכן מקביל מהותי עם תוכן הבריאה של המקרא העברי המהותי (במיוחד בראשית 1) ועם חומר מועצת אלוהים מהותי. ה*אנומה אליש* המהותי שומר דיון של מועצת אלוהים מהותי, תוכן קונפליקט קוסמי מהותי (קונפליקט מרדוק-תיאמת המהותי הרושם מקבילה למסגרת מלחמת האלים הרחבה), ותוכן בריאה-מתוך-יצור-אלוהי מהותי.
 
-**The substantial *Epic of Gilgamesh***. The substantial *Epic of Gilgamesh* (preserved principally in 7th-century-BCE Neo-Assyrian manuscripts, with substantial earlier Sumerian antecedents) registers substantial parallel content particularly with substantial Hebrew Bible flood narrative (the substantial Utnapishtim flood narrative in Tablet XI registering substantial parallel content with the substantial Noah flood narrative in Genesis 6-9). The detailed treatment of the substantial Gilgamesh parallels lives principally in the [Great Flood](../great-flood/) entry.
+**אפוס *גלגמש* המהותי**. אפוס *גלגמש* המהותי (שמור בעיקר בכתבי יד נאו-אשוריים מהמאה ה-7 לפנה״ס, עם אבות שומריים מוקדמים מהותיים) רושם תוכן מקביל במיוחד עם נרטיב המבול של המקרא העברי המהותי (נרטיב מבול אוטנפישתים בלוח XI הרושם תוכן מקביל מהותי עם נרטיב מבול נח בבראשית 6-9). הטיפול המפורט של מקבילות גלגמש המהותיות חי בעיקר בערך {% wiki(slug="great-flood") %}המבול הגדול{% end %}.
 
-**The substantial Sumerian King List**. The substantial Sumerian King List preserves substantial pre-flood and post-flood king-list content registering substantial parallel content with substantial Hebrew Bible genealogical material. The detailed treatment lives in the [Antediluvian](../antediluvian/) entry.
+**רשימת מלכים שומרית המהותית**. רשימת המלכים השומרית המהותית שומרת תוכן רשימת-מלכים טרום-מבולית ושלאחר-המבולית מהותית הרושם תוכן מקביל מהותי עם חומר גנאלוגי מהותי במקרא העברי. הטיפול המפורט חי בערך {% wiki(slug="antediluvian") %}טרום-מבולי{% end %}.
 
-**The substantial broader Mesopotamian textual corpus**. The substantial broader Mesopotamian textual corpus (substantial Sumerian and Akkadian religious-mythological-historical texts) preserves substantial parallel content across multiple specific dimensions, with substantial scholarly engagement registering substantial cumulative parallel material.
+**הקורפוס הטקסטואלי המסופוטמי הרחב המהותי**. הקורפוס הטקסטואלי המסופוטמי הרחב המהותי (טקסטים דתיים-מיתולוגיים-היסטוריים שומריים ואכדיים מהותיים) שומר תוכן מקביל מהותי על פני ממדים ספציפיים מרובים, עם מעורבות מדעית מהותית הרושמת חומר מקביל מצטבר מהותי.
 
-**The framework's reading**. The framework reads the substantial Mesopotamian textual parallels as preserving substantial cultural memory of substantial actual events that the substantial Hebrew Bible also preserves, with the substantial Mesopotamian tradition operating as substantial cultural-religious preservation within the distinctive Mesopotamian framing. The substantial cross-cultural parallel content registers substantial framework support for the broader historical-event reading.
+**קריאת המסגרת**. המסגרת קוראת את המקבילות הטקסטואליות המסופוטמיות המהותיות כשומרות זיכרון תרבותי מהותי של אירועים בפועל מהותיים שגם המקרא העברי המהותי שומר, כאשר המסורת המסופוטמית המהותית פועלת כשימור תרבותי-דתי מהותי בתוך המסגור המסופוטמי הייחודי. תוכן המקבילה הבין-תרבותית המהותית רושם תמיכה מסגרתית מהותית לקריאת האירוע ההיסטורי הרחבה.
 
-### Egyptian textual parallels
+### מקבילות טקסטואליות מצריות
 
-The Egyptian textual tradition preserves substantial parallel content across substantial diverse religious-mythological corpus.
+המסורת הטקסטואלית המצרית שומרת תוכן מקביל מהותי על פני קורפוס דתי-מיתולוגי מגוון מהותי.
 
-**The substantial Pyramid Texts**. The substantial Egyptian Pyramid Texts (preserved principally in Old Kingdom royal tomb-inscriptions, c. 24th-22nd centuries BCE) operate as the oldest substantial body of religious literature in human history. The substantial Pyramid Texts preserve substantial divine-council content, substantial creation-narrative content, substantial deification-content, and various other parallel content.
+**טקסטי הפירמידות המהותיים**. טקסטי הפירמידות המצריים המהותיים (שמורים בעיקר בכתובות קברים מלכותיים של הממלכה הישנה, ~המאות ה-24 עד ה-22 לפנה״ס) פועלים כגוף הספרות הדתית הוותיק ביותר בהיסטוריה האנושית. טקסטי הפירמידות המהותיים שומרים תוכן מועצת-אלוהים מהותי, תוכן נרטיב-בריאה מהותי, תוכן האלהה מהותי, ותוכן מקביל שונה אחר.
 
-**The substantial Coffin Texts**. The substantial Egyptian Coffin Texts (preserved principally in Middle Kingdom non-royal coffin-inscriptions, c. 22nd-17th centuries BCE) extend the substantial Pyramid Texts tradition with substantial additional content.
+**טקסטי הארונות המהותיים**. טקסטי הארונות המצריים המהותיים (שמורים בעיקר בכתובות ארונות לא-מלכותיים של הממלכה האמצעית, ~המאות ה-22 עד ה-17 לפנה״ס) מרחיבים את מסורת טקסטי הפירמידות המהותית עם תוכן נוסף מהותי.
 
-**The substantial Book of the Dead**. The substantial Egyptian Book of the Dead (preserved principally in New Kingdom funerary papyri, c. 16th-11th centuries BCE) operates as substantial systematic afterlife-religious content with substantial parallel content registering substantial cross-cultural parallels.
+**ספר המתים המהותי**. ספר המתים המצרי המהותי (שמור בעיקר בפפירוסי קבורה של הממלכה החדשה, ~המאות ה-16 עד ה-11 לפנה״ס) פועל כתוכן דתי-אחרי-החיים שיטתי מהותי עם תוכן מקביל מהותי הרושם מקבילות בין-תרבותיות מהותיות.
 
-**The substantial broader Egyptian religious literature**. The substantial broader Egyptian religious literature (substantial various hymns, prayers, theological-philosophical texts, mythological narratives) preserves substantial parallel content across multiple specific dimensions.
+**הספרות הדתית המצרית הרחבה המהותית**. הספרות הדתית המצרית הרחבה המהותית (מזמורים שונים, תפילות, טקסטים תיאולוגיים-פילוסופיים, נרטיבים מיתולוגיים) שומרת תוכן מקביל מהותי על פני ממדים ספציפיים מרובים.
 
-### Ugaritic textual parallels
+### מקבילות טקסטואליות אוגריתיות
 
-The substantial Ugaritic textual corpus (discovered principally at Ras Shamra beginning 1928, dating principally to the 14th-13th centuries BCE) preserves substantial parallel content with substantial Hebrew Bible content within the broader Northwest Semitic cultural-religious tradition.
+הקורפוס הטקסטואלי האוגריתי המהותי (שהתגלה בעיקר בראס שמרה החל ב-1928, מתוארך בעיקר למאות ה-14 וה-13 לפנה״ס) שומר תוכן מקביל מהותי עם תוכן המקרא העברי המהותי בתוך המסורת הצפון-מערב-שמית הרחבה.
 
-**The substantial Baal cycle**. The substantial Ugaritic Baal cycle preserves substantial divine-council content, substantial cosmic-conflict content, substantial divine-faction-political content registering substantial parallel content with broader Theomachy framework.
+**מחזור בעל המהותי**. מחזור בעל האוגריתי המהותי שומר תוכן מועצת-אלוהים מהותי, תוכן קונפליקט קוסמי מהותי, ותוכן פוליטי של סיעות-אלוהיות מהותי הרושם תוכן מקביל מהותי עם מסגרת מלחמת האלים הרחבה.
 
-**The substantial broader Canaanite mythological tradition**. The substantial broader Ugaritic textual corpus preserves substantial Canaanite mythological-religious content registering substantial parallel content with substantial early Hebrew Bible content.
+**המסורת המיתולוגית הכנענית הרחבה המהותית**. הקורפוס הטקסטואלי האוגריתי הרחב המהותי שומר תוכן מיתולוגי-דתי כנעני מהותי הרושם תוכן מקביל מהותי עם תוכן עברי קדום מהותי במקרא.
 
-**The substantial framework reading**. The substantial Ugaritic parallels register substantial parallel content within the broader Northwest Semitic cultural-religious tradition that operated as the substantial broader cultural-religious context within which the substantial early Hebrew tradition developed.
+**קריאת המסגרת המהותית**. המקבילות האוגריתיות המהותיות רושמות תוכן מקביל מהותי בתוך המסורת הצפון-מערב-שמית הרחבה שפעלה כהקשר התרבותי-הדתי הרחב המהותי שבתוכו התפתחה המסורת העברית המוקדמת המהותית.
 
-### Vedic / Hindu textual parallels
+### מקבילות טקסטואליות וֵדִיוֹת / הינדואיסטיות
 
-The substantial Vedic / Hindu textual tradition preserves substantial parallel content with substantial Hebrew Bible content.
+המסורת הטקסטואלית הוֵדִית / ההינדואיסטית המהותית שומרת תוכן מקביל מהותי עם תוכן המקרא העברי המהותי.
 
-**The substantial Rigveda**. The substantial Rigveda (composed principally c. 1500-1200 BCE) preserves substantial divine-multiplicity content, substantial creation-narrative content, substantial various parallel content within distinctive Vedic framing.
+**הריגוודה המהותי**. הריגוודה המהותי (חובר בעיקר ~1500-1200 לפנה״ס) שומר תוכן ריבוי-אלוהי מהותי, תוכן נרטיב-בריאה מהותי, ותוכן מקביל שונה בתוך המסגור הוֵדִי הייחודי.
 
-**The substantial Upanishads**. The substantial Upanishads (composed principally c. 800-200 BCE) preserve substantial cosmological-philosophical content registering substantial parallel content with broader framework.
+**האופאנישדות המהותיות**. האופאנישדות המהותיות (חוברו בעיקר ~800-200 לפנה״ס) שומרות תוכן קוסמולוגי-פילוסופי מהותי הרושם תוכן מקביל מהותי עם המסגרת הרחבה.
 
-**The substantial Mahabharata**. The substantial Mahabharata (composed principally c. 400 BCE-400 CE, with substantial earlier oral-tradition antecedents) preserves substantial cosmic-warfare content registering substantial parallel content with broader Theomachy framework. The detailed treatment of the substantial *Brahmastra* parallels lives in the [Sodom and Gomorrah](../sodom-and-gomorrah/) entry.
+**המהאבהארטה המהותית**. המהאבהארטה המהותית (חוברה בעיקר ~400 לפנה״ס-400 לסה״נ, עם אבות מסורת אוראליים מוקדמים מהותיים) שומרת תוכן לוחמה קוסמית מהותי הרושם תוכן מקביל מהותי עם מסגרת מלחמת האלים הרחבה. הטיפול המפורט של מקבילות *ברהמאסטרא* המהותיות חי בערך {% wiki(slug="sodom-and-gomorrah") %}סדום ועמורה{% end %}.
 
-**The substantial Puranas**. The substantial Puranas preserve substantial cosmological-mythological-historical content registering substantial parallel content within distinctive Hindu framing.
+**הפוראנות המהותיות**. הפוראנות המהותיות שומרות תוכן קוסמולוגי-מיתולוגי-היסטורי מהותי הרושם תוכן מקביל מהותי בתוך המסגור ההינדואיסטי הייחודי.
 
-### Greek mythological corpus
+### הקורפוס המיתולוגי היווני
 
-The substantial Greek mythological corpus preserves substantial parallel content with substantial Hebrew Bible content.
+הקורפוס המיתולוגי היווני המהותי שומר תוכן מקביל מהותי עם תוכן המקרא העברי המהותי.
 
-**Hesiod's substantial works**. **Hesiod**'s *Theogony* and *Works and Days* (composed principally c. 8th-7th centuries BCE) preserve substantial cosmic-genealogical content, substantial divine-council content, substantial cosmic-conflict content registering substantial parallel content with broader framework.
+**יצירותיו המהותיות של הסיודוס**. *תיאוגוניה* ו-*עבודות וימים* של **הסיודוס** (חוברו בעיקר ~המאות ה-8 וה-7 לפנה״ס) שומרים תוכן גנאלוגי-קוסמי מהותי, תוכן מועצת-אלוהים מהותי, תוכן קונפליקט קוסמי מהותי הרושם תוכן מקביל מהותי עם המסגרת הרחבה.
 
-**Homer's substantial works**. **Homer**'s *Iliad* and *Odyssey* (composed principally c. 8th century BCE) preserve substantial divine-council content, substantial divine-human-interaction content registering substantial parallel content.
+**יצירותיו המהותיות של הומרוס**. *איליאדה* ו-*אודיסיה* של **הומרוס** (חוברו בעיקר ~המאה ה-8 לפנה״ס) שומרים תוכן מועצת-אלוהים מהותי, תוכן יחסי-אלוהים-אדם מהותי הרושם תוכן מקביל מהותי.
 
-**The broader Greek mythological tradition**. The substantial broader Greek mythological tradition preserves substantial parallel content across multiple distinct dimensions.
+**המסורת המיתולוגית היוונית הרחבה**. המסורת המיתולוגית היוונית הרחבה המהותית שומרת תוכן מקביל מהותי על פני ממדים נפרדים מרובים.
 
-### The "sacred-text" cross-cultural pattern
+### הדפוס הבין-תרבותי של »טקסט-קדוש«
 
-The substantial cross-cultural pattern of substantial sacred-textual entities operating as substantial canonical-religious content across virtually every major religious-cultural tradition globally registers one of the principal cross-cultural patterns in religious-traditional thought.
+הדפוס הבין-תרבותי המהותי של ישויות טקסטואליות-קדושות מהותיות הפועלות כתוכן קנוני-דתי מהותי על פני כמעט כל מסורת דתית-תרבותית גדולה גלובלית רושם את אחד הדפוסים הבין-תרבותיים העיקריים בחשיבה דתית-מסורתית.
 
-**The substantial various sacred-text traditions**. The substantial cross-cultural sacred-text tradition operates substantively across:
+**מסורות הטקסט-הקדוש השונות המהותיות**. מסורת הטקסט-הקדוש הבין-תרבותית המהותית פועלת באופן מהותי על פני:
 
-- The substantial Hebrew Bible / Tanakh (Jewish-tradition canonical text)
-- The substantial Christian Bible (Christian-tradition canonical text)
-- The substantial Quran (Islamic-tradition canonical text)
-- The substantial Vedic textual corpus (Hindu-tradition canonical texts)
-- The substantial Buddhist Tripitaka and various subsequent canonical texts
-- The substantial Daoist textual corpus
-- The substantial Confucian classical texts
-- The substantial Avestan corpus (Zoroastrian-tradition canonical texts)
-- The substantial Book of Mormon (Mormon LDS canonical text)
-- Various substantial other sacred-textual traditions
+- המקרא העברי / תנ״ך המהותי (טקסט קנוני של המסורת היהודית)
+- התנ״ך הנוצרי המהותי (טקסט קנוני של המסורת הנוצרית)
+- הקוראן המהותי (טקסט קנוני של המסורת האסלאמית)
+- הקורפוס הטקסטואלי הוֵדִי המהותי (טקסטים קנוניים של המסורת ההינדואיסטית)
+- הטריפיטקה הבודהיסטית המהותית וטקסטים קנוניים מאוחרים שונים
+- הקורפוס הטקסטואלי הדאואיסטי המהותי
+- הטקסטים הקלאסיים הקונפוציאניים המהותיים
+- הקורפוס האוֶסטי המהותי (טקסטים קנוניים של המסורת הזורואסטרית)
+- ספר מורמון המהותי (טקסט קנוני של מורמון LDS)
+- מסורות טקסטואליות-קדושות שונות אחרות מהותיות
 
-**The substantial cross-cultural function**. The substantial sacred-textual entities operate across cultures with substantial parallel functions: substantial canonical-religious authority, substantial liturgical-ritual content, substantial cosmic-narrative content, substantial ethical-religious-legal content, substantial historical-cultural memory preservation.
+**הפונקציה הבין-תרבותית המהותית**. הישויות הטקסטואליות-הקדושות המהותיות פועלות על פני תרבויות עם פונקציות מקבילות מהותיות: סמכות קנונית-דתית מהותית, תוכן ליטורגי-טקסי מהותי, תוכן נרטיבי-קוסמי מהותי, תוכן אתי-דתי-משפטי מהותי, שימור זיכרון היסטורי-תרבותי מהותי.
 
-### The "preservation-of-historical-event-content-in-religious-textual-form" cross-cultural pattern
+### הדפוס הבין-תרבותי של »שימור-תוכן-של-אירועים-היסטוריים-בצורה-טקסטואלית-דתית«
 
-The substantial cross-cultural pattern of preservation of substantial historical-event content within substantial religious-textual forms operates across virtually every major sacred-textual tradition.
+הדפוס הבין-תרבותי המהותי של שימור תוכן אירועים-היסטוריים מהותי בתוך צורות טקסטואליות-דתיות מהותיות פועל על פני כמעט כל מסורת טקסטואלית-קדושה גדולה.
 
-**The substantial pattern features**:
+**תכונות הדפוס המהותיות**:
 
-- Substantial actual historical events preserved within substantial religious-narrative forms
-- Substantial pre-scientific vocabulary operating as substantial decodable layer
-- Substantial subsequent religious-traditional reception operating substantively beyond original historical-event content
-- Substantial cross-cultural parallel content across distinct cultural-religious traditions
+- אירועים היסטוריים בפועל מהותיים נשמרים בתוך צורות נרטיביות-דתיות מהותיות
+- אוצר מילים טרום-מדעי מהותי פועל כשכבה ניתנת לפענוח מהותית
+- קבלה דתית-מסורתית מאוחרת מהותית פועלת מהותית מעבר לתוכן האירוע-ההיסטורי המקורי
+- תוכן מקביל בין-תרבותי מהותי על פני מסורות תרבותיות-דתיות נפרדות
 
-**The substantial framework reading**. The substantial framework reads the substantial cross-cultural pattern as registering substantial preservation of substantial actual historical events through substantial sacred-textual forms, with each cultural tradition preserving substantial specific content within its distinctive cultural-religious framing.
+**קריאת המסגרת המהותית**. המסגרת קוראת את הדפוס הבין-תרבותי המהותי כרושם שימור מהותי של אירועים היסטוריים בפועל מהותיים דרך צורות טקסטואליות-קדושות מהותיות, כאשר כל מסורת תרבותית שומרת תוכן ספציפי מהותי בתוך המסגור התרבותי-הדתי הייחודי שלה.
 
-### The convergence
+### ההתכנסות
 
-The corpus's working position on the comparative-Hebrew-Bible question is that the substantial cross-cultural distribution of substantial sacred-textual traditions across virtually every major religious-cultural tradition globally is meaningful as evidence of the broader pattern.
+עמדת העבודה של הקורפוס על שאלת המקרא-העברי-ההשוואתי היא שההפצה הבין-תרבותית המהותית של מסורות טקסטואליות-קדושות מהותיות על פני כמעט כל מסורת דתית-תרבותית גדולה גלובלית היא משמעותית כראיה לדפוס הרחב.
 
-The mainstream scholarly explanation generally treats the cross-cultural pattern through some combination of independent religious-cultural development, shared cognitive-archetypal substrate, and limited cultural diffusion. The framework's reading: the cross-cultural pattern preserves common memory of substantial actual events that the framework articulates, with each cultural tradition preserving substantial specific content within its distinctive cultural-religious framing.
+ההסבר המדעי המיינסטרים בדרך כלל מתייחס לדפוס הבין-תרבותי דרך שילוב כלשהו של פיתוח דתי-תרבותי עצמאי, סובסטרט קוגניטיבי-ארכיטיפי משותף, ודיפוזיה תרבותית מוגבלת. קריאת המסגרת: הדפוס הבין-תרבותי שומר זיכרון משותף של אירועים בפועל מהותיים שהמסגרת מנסחת, כאשר כל מסורת תרבותית שומרת תוכן ספציפי מהותי בתוך המסגור התרבותי-הדתי הייחודי שלה.
 
-The framework's specific reading is that the substantial Hebrew Bible operates as substantial principal-but-not-uniquely-privileged carrier of the substantial actual historical-event content. The substantial Mesopotamian textual parallels preserve substantial parallel content within the distinctive Mesopotamian framing; the substantial Egyptian textual parallels preserve substantial parallel content within the distinctive Egyptian framing; the substantial Ugaritic textual parallels preserve substantial parallel content within the distinctive Northwest Semitic framing; the substantial Vedic / Hindu textual parallels preserve substantial parallel content within the distinctive Hindu framing; the substantial Greek mythological corpus preserves substantial parallel content within the distinctive Greek framing.
+הקריאה הספציפית של המסגרת היא שהמקרא העברי המהותי פועל כנושא העיקרי-אך-לא-בעל-זכות-ייחודית של תוכן האירוע-ההיסטורי בפועל המהותי. המקבילות הטקסטואליות המסופוטמיות המהותיות שומרות תוכן מקביל מהותי בתוך המסגור המסופוטמי הייחודי; המקבילות הטקסטואליות המצריות המהותיות שומרות תוכן מקביל מהותי בתוך המסגור המצרי הייחודי; המקבילות הטקסטואליות האוגריתיות המהותיות שומרות תוכן מקביל מהותי בתוך המסגור הצפון-מערב-שמי הייחודי; המקבילות הטקסטואליות הוֵדִיוֹת / ההינדואיסטיות המהותיות שומרות תוכן מקביל מהותי בתוך המסגור ההינדואיסטי הייחודי; הקורפוס המיתולוגי היווני המהותי שומר תוכן מקביל מהותי בתוך המסגור היווני הייחודי.
 
-The corpus does not require rejecting all of the mainstream explanatory framework. Independent religious-cultural development certainly contributes to specific cultural-religious articulations; the cosmic-archetypal substrate certainly contributes to the broader cross-cultural pattern; cultural diffusion certainly occurred across the historical period. What the framework adds is the underlying historical reality that gave rise to the structural commonalities — the substantial actual alliance-civilization interventions across the post-flood ages that the framework articulates, with the substantial cross-cultural traditions preserving cultural memory of these events in their distinctive cultural-religious framings.
+הקורפוס אינו דורש דחייה של כל המסגרת ההסברית המיינסטרים. פיתוח דתי-תרבותי עצמאי בוודאי תורם לניסוחים תרבותיים-דתיים ספציפיים; הסובסטרט הקוסמי-ארכיטיפי בוודאי תורם לדפוס הבין-תרבותי הרחב; דיפוזיה תרבותית בוודאי התרחשה על פני התקופה ההיסטורית. מה שהמסגרת מוסיפה הוא המציאות ההיסטורית הבסיסית שהולידה את ההסכמות המבניות — התערבויות ציוויליזציית-הברית בפועל המהותיות על פני עידני שלאחר המבול שהמסגרת מנסחת, כאשר המסורות הבין-תרבותיות המהותיות שומרות זיכרון תרבותי של אירועים אלה במסגוריהן התרבותיים-הדתיים הייחודיים.
 
-The framework's distinctive contribution within this broader comparative landscape is the substantial historical-actuality reading (the substantial sacred-textual content preserves cultural memory of substantial actual extraterrestrial-civilization events rather than substantial mythological-archetypal-substrate alone), the substantial Hebrew Bible centrality positioning (the substantial Hebrew tradition operates as the substantial structural center of the broader asymmetric synthesis while not registering substantial unique-privileging), and the substantial systematic decoding hermeneutic (the substantial framework provides substantial systematic interpretive key for substantive engagement with the substantial textual content across all the broader sacred-textual traditions).
-
-## See also
-
-- [Genesis](../genesis/)
-- [Adam and Eve](../adam-and-eve/)
-- [Eden](../eden/)
-- [Antediluvian](../antediluvian/)
-- [Great Flood](../great-flood/)
-- [Theomachy](../theomachy/)
-- [Babel](../babel/)
-- [Sodom and Gomorrah](../sodom-and-gomorrah/)
-- [Noah](../noah/)
-- [Abraham](../abraham/)
-- [Moses](../moses/)
-- [Jesus](../jesus/)
-- [Mary](../mary/)
-- [Elohim](../elohim/)
-- [Yahweh](../yahweh/)
-- [Lucifer](../lucifer/)
-- [Satan](../satan/)
-- [Serpent](../serpent/)
-- [Plurality of Gods](../plurality-of-gods/)
-- [Tetragrammaton](../tetragrammaton/)
-- [Cosmic Chain](../cosmic-chain/)
-- [Cosmic Competition](../cosmic-competition/)
-- [Doubled Signature](../doubled-signature/)
-- [Tree of Life](../tree-of-life/)
-- [Dragons](../dragons/)
-- [Watchers](../watchers/)
-- [The Alliance](../the-alliance/)
-- [Council of the Eternals](../council-of-eternals/)
-- [Apocalypse](../apocalypse/)
-- [Prophet](../prophet/)
-- [Hebrew](../hebrew/)
-- [Hebrews](../hebrews/)
-- [Jean Sendy](../jean-sendy/)
-- [Mauro Biglino](../mauro-biglino/)
-- [Paul Anthony Wallis](../paul-anthony-wallis/)
-
-## References
-
-Vorilhon, Claude (Raël). *The Book Which Tells the Truth* (1974); collected in *Message from the Designers*. Substantial foundational source for the framework's specific content.
-
-Vorilhon, Claude (Raël). *Extra-Terrestrials Took Me to Their Planet* (1975); collected in *Message from the Designers*.
-
-Vorilhon, Claude (Raël). *Let's Welcome the Extra-Terrestrials* (1979); collected in *Message from the Designers*.
-
-Vorilhon, Claude (Raël). *Message from the Designers*. Tagman Press, 2005.
-
-Sendy, Jean. *Ces dieux qui firent le ciel et la terre*. Robert Laffont, 1969.
-
-Sendy, Jean. *L'ère du Verseau*. Robert Laffont, 1970.
-
-Sendy, Jean. *Les cahiers de cours de Moïse*. Julliard, 1963.
-
-Biglino, Mauro, and Giorgio Cattaneo. *The Naked Bible: The Truth About the Most Famous Book in History*. Uno, 2022.
-
-Wallis, Paul Anthony. *Escaping from Eden: Does Genesis Teach That the Human Race Was Created by God or Engineered by ETs?*. 6th Books, 2020.
-
-Wallis, Paul Anthony. *The Eden Conspiracy*. 6th Books, 2024.
-
-Wellhausen, Julius. *Prolegomena to the History of Israel*. Trans. J. Sutherland Black and Allan Menzies. Adam & Charles Black, 1885 [originally 1878].
-
-Friedman, Richard Elliott. *Who Wrote the Bible?* Harper & Row, 1987.
-
-Friedman, Richard Elliott. *The Bible with Sources Revealed*. HarperOne, 2003.
-
-Van Seters, John. *The Pentateuch: A Social-Science Commentary*. Sheffield Academic Press, 1999.
-
-Baden, Joel S. *The Composition of the Pentateuch: Renewing the Documentary Hypothesis*. Yale University Press, 2012.
-
-von Rad, Gerhard. *Old Testament Theology*. 2 vols. Trans. D. M. G. Stalker. Harper & Row, 1962-1965 [originally 1957-1960].
-
-von Rad, Gerhard. *Genesis: A Commentary*. Trans. John H. Marks. Westminster, revised ed., 1972 [originally 1949].
-
-Westermann, Claus. *Genesis 1-11: A Commentary*. Trans. John J. Scullion. Augsburg / Fortress, 1984.
-
-Westermann, Claus. *Genesis 12-36: A Commentary*. Trans. John J. Scullion. Augsburg / Fortress, 1985.
-
-Westermann, Claus. *Genesis 37-50: A Commentary*. Trans. John J. Scullion. Augsburg / Fortress, 1986.
-
-Brueggemann, Walter. *Theology of the Old Testament: Testimony, Dispute, Advocacy*. Augsburg Fortress, 1997.
-
-Alter, Robert. *The Art of Biblical Narrative*. Basic Books, 1981.
-
-Alter, Robert. *The Five Books of Moses: A Translation with Commentary*. W. W. Norton, 2004.
-
-Alter, Robert. *The Hebrew Bible: A Translation with Commentary*. 3 vols. W. W. Norton, 2018.
-
-Hendel, Ronald S. *The Text of Genesis 1-11: Textual Studies and Critical Edition*. Oxford University Press, 1998.
-
-Arnold, Bill T. *Genesis*. New Cambridge Bible Commentary. Cambridge University Press, 2009.
-
-Childs, Brevard S. *Introduction to the Old Testament as Scripture*. Fortress Press, 1979.
-
-Kugel, James L. *How to Read the Bible: A Guide to Scripture, Then and Now*. Free Press, 2007.
-
-Albright, William F. *From the Stone Age to Christianity*. Johns Hopkins University Press, 2nd ed., 1957.
-
-Cross, Frank Moore. *Canaanite Myth and Hebrew Epic: Essays in the History of the Religion of Israel*. Harvard University Press, 1973.
-
-Dever, William G. *What Did the Biblical Writers Know and When Did They Know It?*. Eerdmans, 2001.
-
-Dever, William G. *Who Were the Early Israelites and Where Did They Come From?*. Eerdmans, 2003.
-
-Finkelstein, Israel, and Neil Asher Silberman. *The Bible Unearthed: Archaeology's New Vision of Ancient Israel and the Origin of Its Sacred Texts*. Free Press, 2001.
-
-Mazar, Amihai. *Archaeology of the Land of the Bible: 10,000-586 B.C.E.* Doubleday, 1990.
-
-Tov, Emanuel. *Textual Criticism of the Hebrew Bible*. Augsburg Fortress, 3rd ed., 2012 [originally 1992].
-
-Tov, Emanuel. *The Text-Critical Use of the Septuagint in Biblical Research*. Eisenbrauns, 2nd ed., 1997.
-
-VanderKam, James C. *The Dead Sea Scrolls Today*. Eerdmans, revised ed., 2010 [originally 1994].
-
-VanderKam, James C., and Peter W. Flint. *The Meaning of the Dead Sea Scrolls: Their Significance for Understanding the Bible, Judaism, Jesus, and Christianity*. HarperSanFrancisco, 2002.
-
-Flint, Peter W. *The Dead Sea Psalms Scrolls and the Book of Psalms*. Brill, 1997.
-
-García Martínez, Florentino, and Eibert J. C. Tigchelaar, eds. *The Dead Sea Scrolls Study Edition*. 2 vols. Brill, 1997-1998.
-
-Ulrich, Eugene. *The Dead Sea Scrolls and the Origins of the Bible*. Eerdmans, 1999.
-
-Collins, John J. *The Dead Sea Scrolls: A Biography*. Princeton University Press, 2013.
-
-Fernández Marcos, Natalio. *The Septuagint in Context: Introduction to the Greek Version of the Bible*. Trans. Wilfred G. E. Watson. Brill, 2000.
-
-Jobes, Karen H., and Moisés Silva. *Invitation to the Septuagint*. Baker Academic, 2nd ed., 2015.
-
-McDonald, Lee Martin. *The Biblical Canon: Its Origin, Transmission, and Authority*. Hendrickson, 3rd ed., 2007.
-
-Sundberg, Albert C. *The Old Testament of the Early Church*. Harvard University Press, 1964.
-
-Barton, John. *Holy Writings, Sacred Text: The Canon in Early Christianity*. Westminster John Knox, 1997.
-
-Sanders, James A. *Canon and Community: A Guide to Canonical Criticism*. Fortress Press, 1984.
-
-Smith, Mark S. *The Early History of God: Yahweh and the Other Deities in Ancient Israel*. Harper & Row, 1990; revised ed. Eerdmans, 2002.
-
-Sitchin, Zecharia. *The 12th Planet*. Stein and Day, 1976.
-
-Pritchard, James B., ed. *Ancient Near Eastern Texts Relating to the Old Testament*. Princeton University Press, 3rd ed., 1969.
-
-Lambert, W. G., and A. R. Millard. *Atra-ḫasīs: The Babylonian Story of the Flood*. Oxford University Press, 1969.
-
-Lambert, W. G. *Babylonian Creation Myths*. Eisenbrauns, 2013.
-
-George, Andrew. *The Babylonian Gilgamesh Epic: Introduction, Critical Edition and Cuneiform Texts*. 2 vols. Oxford University Press, 2003.
-
-Hallo, William W., and K. Lawson Younger Jr., eds. *The Context of Scripture*. 3 vols. Brill, 1997-2002.
-
-Faulkner, R. O., trans. *The Ancient Egyptian Pyramid Texts*. Aris & Phillips, 1969.
-
-Faulkner, R. O., trans. *The Ancient Egyptian Coffin Texts*. 3 vols. Aris & Phillips, 1973-1978.
-
-Allen, T. G., trans. *The Book of the Dead, or, Going Forth by Day*. University of Chicago Press, 1974.
-
-Smith, Mark S., trans. *The Ugaritic Baal Cycle: Volume I*. Brill, 1994.
-
-Pardee, Dennis. *Ritual and Cult at Ugarit*. Society of Biblical Literature, 2002.
-
-Doniger, Wendy, trans. *The Rig Veda: An Anthology*. Penguin Classics, 1981.
-
-Olivelle, Patrick, trans. *The Early Upaniṣads: Annotated Text and Translation*. Oxford University Press, 1998.
-
-van Buitenen, J. A. B., trans. *The Mahābhārata*. 3 vols. University of Chicago Press, 1973-1978.
-
-Hesiod. *Theogony / Works and Days*. Trans. M. L. West. Oxford University Press, 1988.
-
-Homer. *The Iliad*. Trans. Robert Fagles. Penguin Classics, 1990.
-
-Homer. *The Odyssey*. Trans. Robert Fagles. Penguin Classics, 1996.
-
-"Hebrew Bible." *Encyclopaedia Britannica*. <https://www.britannica.com/topic/Hebrew-Bible>
-
-"Tanakh." *Wikipedia*. <https://en.wikipedia.org/wiki/Hebrew_Bible>
-
-"Masoretic Text." *Wikipedia*. <https://en.wikipedia.org/wiki/Masoretic_Text>
-
-"Septuagint." *Wikipedia*. <https://en.wikipedia.org/wiki/Septuagint>
-
-"Dead Sea Scrolls." *Wikipedia*. <https://en.wikipedia.org/wiki/Dead_Sea_Scrolls>
+תרומת המסגרת הייחודית בתוך הנוף ההשוואתי הרחב הזה היא קריאת הממשות-ההיסטורית המהותית (תוכן הטקסטים-הקדושים המהותי שומר זיכרון תרבותי של אירועי ציוויליזציה-חוץ-ארצית בפועל מהותיים ולא רק סובסטרט מיתולוגי-ארכיטיפי מהותי), מיצוב מרכזיות המקרא העברי המהותי (המסורת העברית המהותית פועלת כמרכז המבני של הסינתזה הא-סימטרית הרחבה בעודה לא רושמת זכות ייחודית מהותית), והרמנויטיקת הפענוח השיטתית המהותית (המסגרת המהותית מספקת מפתח פרשני שיטתי מהותי למעורבות מהותית עם התוכן הטקסטואלי על פני כל מסורות הטקסטים-הקדושים הרחבות).

@@ -1,655 +1,669 @@
 +++
 title = "大洪水"
-description = "大洪水是《创世记》以及世界几乎所有传统中证言的重大水文重置。在 Wheel of Heaven 文集中,它被读作厄罗欣有意干预,意在对人类实验进行重启,以应对被判为危机性的偏移。"
+slug = "great-flood"
+description = "大洪水(希伯来语:הַמַּבּוּל,ha-mabbul)是记载于《创世记》6—9章并在两百多个平行文化传统中得到证言的灾难性全球事件,其中更广义的洪水前人类文明被毁灭,只有少量遗民通过挪亚方舟得以保存。按照雷尔派源材料所发展、并被 Wheel of Heaven 文集所采纳的读法,大洪水被读作双子座时代(按文集纪年约公元前 6,690 年)的一次具体历史事件:一次由耶洛因文明母星议会针对洪水前伊甸文明所发动的有意军事打击,该洪水前文明在被流放的路西法派的持续教导下发展而来;其毁灭以核武器撞击实现,既产生了即时的灾难性效应,也带来了洪水前盘古超大陆较长期的大陆分裂。"
 template = "wiki-page.html"
 toc = true
 
 [extra]
-translation_status = "metadata_only"
-category = "Events & Narratives"
+category = "事件与叙事"
 editorial_pass = "2026-05"
 entry_type = "event"
-alternative_names = ["the Great Deluge", "the Flood", "the Mabbul", "the Deluge", "ha-mabbul", "הַמַּבּוּל", "the Noahic Flood"]
+claim_type = "inferred"
+alternative_names = ["大洪水事件", "洪水", "Mabbul", "Deluge", "ha-mabbul", "הַמַּבּוּל", "挪亚洪水"]
 timeline = ["gemini"]
 
-[extra.infobox]
+see_also = [
+    { title = "挪亚", path = "/wiki/noah/", description = "洪水后世系借以延续的人类幸存者与族长。" },
+    { title = "挪亚方舟", path = "/wiki/noahs-ark/", description = "保存了挪亚家族及遗传代表样本的轨道飞船。" },
+    { title = "挪亚之约", path = "/wiki/noahic-covenant/", description = "由虹之印记所构成的洪水后政治协定。" },
+    { title = "联盟", path = "/wiki/the-alliance/", description = "由挪亚之约创立的政治安排。" },
+    { title = "路西法", path = "/wiki/lucifer/", description = "其干预通过方舟行动保存了挪亚的派系。" },
+    { title = "耶和华", path = "/wiki/yahweh/", description = "议会领袖,洪水后“永不再如此”的承诺以其投票为依据。" },
+    { title = "永恒议会", path = "/wiki/council-of-eternals/", description = "授权进行打击的母星政治机构。" },
+    { title = "洪水前期", path = "/wiki/antediluvian/", description = "被该次打击终结的洪水前文明阶段。" },
+    { title = "盘古大陆", path = "/wiki/pangaea/", description = "因该次打击而分裂的超大陆。" },
+    { title = "伊甸", path = "/wiki/eden/", description = "其世系被洪水前文明延续的初始联盟实验室。" },
+    { title = "希伯来圣经", path = "/wiki/hebrew-bible/", description = "洪水叙事的主要经文出处。" },
+    { title = "创世记", path = "/wiki/genesis/", description = "含有洪水记述的圣经书卷(创世记 6—9章)。" },
+    { title = "阿特拉哈西斯", path = "/wiki/atra-hasis/", description = "与希伯来记述高度平行的巴比伦洪水叙事。" },
+    { title = "吉尔伽美什史诗", path = "/wiki/epic-of-gilgamesh/", description = "美索不达米亚洪水记述,载于第十一块泥板。" },
+    { title = "所多玛与蛾摩拉", path = "/wiki/sodom-and-gomorrah/", description = "后期一次类似的打击事件,机制结构相似。" },
+    { title = "巴别", path = "/wiki/babel/", description = "洪水后的文明离散事件。" },
+    { title = "双重签名", path = "/wiki/doubled-signature/", description = "文集所采用的原则,认为全球洪水传统保留了潜在的历史记忆。" },
+    { title = "诸神之战", path = "/wiki/theomachy/", description = "该次打击所处的更广义宇宙政治冲突框架。" },
+]
+
+footnotes = [
+    { content = "希伯来语 *mabbul*(מַבּוּל)是一个近似仅出现于该处的圣经术语,主要用于《创世记》6—9章的洪水叙事及少量派生文本(诗篇 29:10)。该词并非希伯来语中表示*洪水*的普通词(普通词为 *zerem* 或 *sheteph*),而是对*那场*洪水事件的特定指称——指*灾难—宇宙性*洪水,而非普通水患。学界主流的亚述学普遍接受其与阿卡德语 *abubu*(洪水)以及最终与苏美尔语 *a-ma-ru*(大洪水)在词源上的联系,这表明希伯来洪水传统与美索不达米亚洪水传统之间存在实质性的语言—文化连续性。" },
+    { content = "本框架将洪水读作母星议会所发动的核武器打击,这一读法依据《讲述真理之书》(Vorilhon 1974)的源材料表述。创世记 7:11 的意象——*大渊的泉源都裂开了,天上的窗户也敞开了*——被读作高能武器所产生的宇宙—机械效应的描述,而非超自然—气象性的隐喻。随后的 150 天等待期(创世记 7:24)对应于安全离船前的残余辐射衰变时间线;方舟作为*封闭*容器的设计(创世记 6:14,*kopher*,“沥青/封涂”)对应于辐射屏蔽而非普通防水。" },
+    { content = "大陆分裂的读法是本框架与主流地质学最大的分歧。常规地质学将盘古大陆解体定在约 1.75 亿年前,大陆漂移由地幔对流驱动,在数亿年中展开。文集则将解体读为约公元前 6,690 年的一次灾难性事件,自彼时以来观测到的大陆漂移为其残余动量。与主流放射性年代测定、古地磁地层学和海底扩张测量结果之间的冲突是实质性的,在盘古大陆词条中已被公开处理。文集的读法依据源材料对洪水的特定表述,即一次具有大陆尺度地质后果的单一灾难性事件。" },
+    { content = "世界各文化中两百多个平行洪水传统——美索不达米亚的阿特拉哈西斯与吉尔伽美什、希腊的丢卡利翁、印度的摩奴、中国的鲧禹、中美洲的《波波尔乌》、波利尼西亚的塔加洛阿等——在比较神话学研究中已被广泛记载(Dundes 1988;Bierlein 1994)。主流比较宗教学对这种汇聚有多种解释:或将其视为共同原型结构的证据,或视为由美索不达米亚源向外扩散的文化传播,或视为对各地灾难事件的独立反应。文集则将这种汇聚读为单一潜在历史事件的证据,该事件的记忆被七支洪水前创造团队世系所衍生的各个人类族群保留下来,细节的差异反映了约八千年的洪水后传播过程以及实质性的文化—语言分化。" },
+    { content = "支持公元前约 7,000 年发生灾难性事件的具体当代科学证据是混杂且有争议的。新仙女木期宇宙撞击假说(Firestone 等 2007;Bunch 等 2021,关于 Tall el-Hammam)提出了晚更新世和中青铜时代发生的实质性外星撞击事件,带来了区域性灾难效应。Ryan-Pitman 黑海洪水假说(1998)则提出公元前约 5,600 年地中海海平面上升导致黑海盆地遭受灾难性洪水。这些假说中没有一个达到文集所主张的大陆分裂规模,但新仙女木与黑海假说确实表明,主流古科学已经承认在文集所指认的时期发生过实质性的灾难事件。" },
+    { content = "方舟中动物成对保存的记载(创世记 6:19-20;7:2-3)在本框架的读法中被读作遗传样本保存,而非字面意义上的活体装载。洁净动物七对、不洁净动物一对的区分(创世记 7:2-3)被读作反映了繁殖种群遗传学的考量——为洪水后将用于祭祀的物种保留更大的创始群体。从方舟放出的鸽子与乌鸦(创世记 8:6-12)被读作打击后环境评估的生物侦察工具,带回橄榄枝则标志着辐射与生态恢复已足以离船。" },
+]
+
 hebrew_name = "הַמַּבּוּל (ha-mabbul)"
-greek_name = "ὁ κατακλυσμός (ho kataklysmos, in the Septuagint)"
+greek_name = "ὁ κατακλυσμός (ho kataklysmos,见于七十士译本)"
 latin_name = "Diluvium"
-arabic_name = "الطوفان (aṭ-Ṭūfān, in the Qur'anic tradition)"
-type = "Catastrophic global event; deliberate military intervention by the home-world Council against the antediluvian human civilization"
-date = "c. 6,690 BCE on the corpus's reckoning; opening of the Age of Gemini"
-date_type = "framework-internal; derived from the corpus's precessional-age chronology"
-duration = "Initial catastrophic phase: weeks to months; ark orbital period: 150 days (Genesis 7:24); subsequent post-Flood reseeding and reconstruction: years to decades"
-biblical_account = "Genesis 6:1–9:17 (the principal narrative); Job 38:8–11; Psalm 29:10; Isaiah 54:9; Matthew 24:37–39; 1 Peter 3:20; 2 Peter 2:5"
-mechanism_conventional = "Forty days and nights of rain (Genesis 7:12); waters from the deep and from the windows of heaven (Genesis 7:11)"
-mechanism_framework = "Nuclear weapons strike from the home-world Council; immediate impact effects (continental tidal wave); subsequent fallout-decay period (the 150 days); deliberate post-strike radiological remediation conducted by alliance personnel"
-parties_involved = "Home-world Council (executing party); exiled Lucifer-faction creators (preservation party); Noah and his family (human survivors, 8 individuals); broader pre-Flood Eden civilization (target population); the seven antediluvian creator-team lineages (representatives preserved)"
-casualties = "The broader antediluvian Eden civilization destroyed; substantial portions of the other six creator-team lineages destroyed; representatives of all seven lineages preserved through the ark operation"
-geological_consequence = "Fragmentation of the Pangaean supercontinent into the modern continental configuration; ongoing residual continental drift as observed motion"
-political_consequence = "Foundation of the Alliance through the Noahic covenant; long-term political reorientation of the post-Flood human-Eloha relationship"
-principal_text = "Genesis 6:1–9:17"
-principal_framework_source = "*The Book Which Tells the Truth* (Vorilhon/Raël, 1974), chapter 2"
+arabic_name = "الطوفان (aṭ-Ṭūfān,见于古兰经传统)"
+type = "灾难性全球事件;母星议会针对洪水前人类文明的有意军事干预"
+date = "按文集纪年约公元前 6,690 年;双子座时代开端"
+date_type = "框架内部;由文集的岁差时代纪年推得"
+duration = "初始灾难阶段:数周至数月;方舟轨道周期:150 天(创世记 7:24);随后洪水后的重新播种与重建:数年至数十年"
+biblical_account = "创世记 6:1—9:17(主要叙事);约伯记 38:8—11;诗篇 29:10;以赛亚书 54:9;马太福音 24:37—39;彼得前书 3:20;彼得后书 2:5"
+mechanism_conventional = "四十昼夜的大雨(创世记 7:12);深渊与天上窗户涌出的水(创世记 7:11)"
+mechanism_framework = "来自母星议会的核武器打击;直接撞击效应(大陆性海啸);随后的辐射衰变期(那 150 天);打击后由联盟人员实施的有意辐射修复"
+parties_involved = "母星议会(执行方);被流放的路西法派创造者(保存方);挪亚及其家族(人类幸存者,共 8 人);更广义的洪水前伊甸文明(目标人口);七支洪水前创造团队世系(其代表得以保存)"
+casualties = "更广义的洪水前伊甸文明被毁灭;其他六支创造团队世系的大部分被毁灭;通过方舟行动保存了所有七支世系的代表"
+geological_consequence = "盘古超大陆分裂为现代大陆构造;持续观测到的残余大陆漂移"
+political_consequence = "通过挪亚之约创立联盟;洪水后人类—耶洛因关系的长期政治再定向"
+principal_text = "创世记 6:1—9:17"
+principal_framework_source = "《讲述真理之书》(Vorilhon/雷尔,1974),第 2 章"
+
+[[extra.references]]
+id = "the-book-which-tells-the-truth"
+note = "Vorilhon(雷尔,1974),第 2 章;本框架将洪水读作母星有意打击的主要雷尔派源材料。"
+
+[[extra.references]]
+id = "intelligent-design-message-from-the-designers"
+note = "三本雷尔派源材料书籍的合订正典版,含洪水内容。"
+
+[[extra.references]]
+id = "sendy-ces-dieux"
+note = "Sendy(1969);联盟读法的奠基性法语表述;主要的学术先驱。"
+
+[[extra.references]]
+id = "sendy-lune-cle-bible"
+note = "Sendy(1968);对圣经纪年的月相—天文读法,含洪水时期的纪年背景。"
+
+[[extra.references]]
+id = "the-naked-bible"
+note = "Biglino & Cattaneo(2022);对创世记 6—9 章的严格字面希伯来语翻译,含技术性洪水词汇。"
+
+[[extra.references]]
+id = "wallis-eden-conspiracy"
+note = "Wallis(2024);对工程化文明读法的当代表述,含大量洪水后政治内容。"
+
+[[extra.references]]
+id = "sarna-genesis-jps"
+note = "Sarna(1989);JPS 妥拉注释中关于创世记 6—9 章的部分;洪水叙事的主要当代犹太学界处理。"
+
+[[extra.references]]
+id = "westermann-genesis-1-11"
+note = "Westermann(1994);关于创世记 1—11 章的大陆派注释;洪水段落的奠基性批判性注释。"
+
+[[extra.references]]
+id = "atra-hasis-lambert-millard"
+note = "Lambert & Millard(1969);巴比伦洪水叙事的校勘本;最接近的古代近东平行文本。"
+
+[[extra.references]]
+id = "george-gilgamesh"
+note = "George(1999);吉尔伽美什史诗易读英文版,含第十一块泥板洪水叙事。"
+
+[[extra.references]]
+id = "foster-before-muses"
+note = "Foster(2005);阿卡德文学选集,含主要美索不达米亚洪水文集。"
+
+[[extra.references]]
+id = "heidel-gilgamesh-ot"
+note = "Heidel(1949);吉尔伽美什—创世记平行结构的奠基性比较论述。"
+
+[[extra.references]]
+id = "ryan-pitman-noahs-flood"
+note = "Ryan & Pitman(1998);作为大洪水传统历史锚点的黑海洪水假说。"
+
+[[extra.references]]
+id = "bunch-tall-el-hammam"
+note = "Bunch 等(2021);《科学报告》关于 Tall el-Hammam 通古斯量级空爆事件的论文。"
+
+[[extra.references]]
+id = "firestone-younger-dryas"
+note = "Firestone 等(2007);PNAS 关于新仙女木期宇宙撞击假说的论文。"
+
+[[extra.references]]
+id = "doniger-hindu-myths"
+note = "Doniger(1975);印度神话源典选集,含摩奴洪水传统。"
+
+[[extra.references]]
+id = "kramer-enki-myths"
+note = "Kramer & Maier(1989);苏美尔恩基文集,含齐乌苏德拉洪水记述,最早现存的美索不达米亚版本。"
+
+[[extra.references]]
+id = "boyce-zoroastrians"
+note = "Boyce(2001 修订版);与方舟保存模式高度平行的波斯伊玛之瓦拉传统。"
+
+[[extra.references]]
+id = "sitchin-12th-planet"
+note = "Sitchin(1976);对美索不达米亚—圣经洪水材料的古代宇航员读法;主要的大众化锚点。"
+
+[[extra.references]]
+id = "genesis"
+locator = "创世记 6:1-9:17"
+note = "洪水叙事的主要经文出处;贯穿全词条的主要阅读焦点。"
+
 +++
 
-The **Great Flood** (Hebrew: <span class="hebrew">הַמַּבּוּל</span>, *ha-mabbul*; Greek: *ho kataklysmos*; Latin: *Diluvium*) is the catastrophic global event recorded in Genesis 6–9 and across more than two hundred parallel cultural traditions worldwide. The biblical account narrates the destruction of the pre-Flood human civilization by waters that covered the entire earth for a duration of approximately one year, with Noah and his family preserved through divine intervention in the ark — a wooden vessel built to specific divine instructions — along with representative pairs of all animal species. The Flood concludes with the ark's landing on the mountains of Ararat, Noah's release of the dove that returns with an olive branch, the disembarkation, and the establishment of the Noahic covenant signified by the rainbow. The narrative is among the most theologically and culturally consequential in the Hebrew Bible, providing the foundational frame for the broader biblical narrative of divine judgment and renewal.
+**大洪水**(希伯来语:<span class="hebrew">הַמַּבּוּל</span>,*ha-mabbul*{{ footnote(id="1") }};希腊语:*ho kataklysmos*;拉丁语:*Diluvium*)是记载于《创世记》6—9章并在世界范围内两百多个平行文化传统中得到证言的灾难性全球事件{{ footnote(id="4") }}。圣经的记述讲述了洪水前人类文明被覆盖全地约一年之久的水所毁灭,挪亚及其家族通过神圣干预,在方舟——按神圣指示建造的木制容器——中得到保存,并与所有动物物种的代表性配对一同获得保留。洪水以方舟停靠亚拉腊山结束,挪亚放出鸽子并带回橄榄枝,众生离船,并以彩虹为标记的挪亚之约得以立定。该叙事是希伯来圣经中神学与文化影响最为深远的叙事之一,为更广义的圣经审判与更新叙事提供了奠基性框架。
 
-On the reading developed in the Raëlian source material and adopted by the Wheel of Heaven corpus, the Great Flood is read as a specific historical event with substantively different operational content than the conventional reading allows. The Flood occurred at the opening of the Age of Gemini (c. 6,690 BCE on the corpus's reckoning), at the end of the antediluvian period during which the broader Eden civilization had developed under the continuing teaching of the exiled Lucifer-faction creators. The home-world Council of the Elohim civilization, having concluded that the antediluvian civilization's technological development had passed the point where the original political settlement could be sustained, ordered the destruction of all life on Earth. The order was executed through nuclear weapons impacts directed at the central zones of the supercontinent — impacts powerful enough to produce both the immediate catastrophic effects (continent-scale tidal waves, atmospheric and seismic disruption, mass extinction of large terrestrial organisms) and the longer-term geological consequence of fragmenting the Pangaean supercontinent into the drifting continental configuration that has structured subsequent geological history. The exiled Lucifer faction, anticipating the Council's action, conducted a counter-preparation: the construction of an orbital spacecraft (the ark) capable of preserving genetic material from the threatened biosphere through the catastrophic event, with Noah and his family serving as the human crew that would accompany the genetic cargo through the orbital period and supervise the post-Flood reseeding operation.
+按照雷尔派源材料所发展{{ cite(id="the-book-which-tells-the-truth", text="[1]", title="Vorilhon(雷尔),《讲述真理之书》(1974),第 2 章——本框架将洪水读作议会有意打击的主要雷尔派源材料") }}、并被 Wheel of Heaven 文集所采纳的读法,大洪水被读作一次具体历史事件,其运作内容与常规读法所允许的有实质差异。洪水发生在双子座时代开端(按文集纪年约公元前 6,690 年),即洪水前时期的末尾,期间更广义的伊甸文明在被流放的路西法派创造者的持续教导下发展。耶洛因文明母星议会判定洪水前文明的技术发展已超越原初政治协定所能维持的临界点,遂下令毁灭地球上的一切生命。该命令通过定向打击超大陆中央区域的核武器撞击执行{{ footnote(id="2") }}——其威力足以产生即时的灾难性效应(大陆尺度的海啸、大气与地震扰动、大型陆地生物的大规模灭绝),以及更长期的地质后果:将盘古超大陆分裂为漂移的大陆构造,从而构造了随后整个地质历史{{ footnote(id="3") }}。被流放的路西法派预见到议会的行动,展开了反向准备:建造了一艘能够在灾难事件中保存受威胁生物圈遗传材料的轨道飞船(方舟),挪亚及其家族作为人类船员,在轨道期间陪伴遗传载荷,并监督洪水后的重新播种行动。
 
-The reading is contested. Within mainstream historical-critical biblical scholarship, the Genesis flood narrative is read as a composite of two source documents (J and P, on the documentary hypothesis) reflecting Israelite religious development across the first millennium BCE, with substantial textual dependence on the older Mesopotamian flood traditions (the *Atra-ḫasīs* epic, the *Epic of Gilgamesh*, the Sumerian *Eridu Genesis*). Within mainstream geology and paleontology, no event matching the corpus's framework has been identified in the Holocene; the continental drift question is read through the standard plate-tectonic framework that places Pangaean breakup approximately 175 million years ago. Within Christian theological tradition, the Flood is read variously as a historical event with theological-typological significance (the conservative position), as theological-mythological narrative reflecting moral-religious truths (the liberal position), or as primarily prefigurative of New Testament events (the typological position). Within the contemporary catastrophist research tradition (Carlson, Bunch et al., the broader Younger-Dryas-impact-hypothesis literature), various positions advocate for substantial recent catastrophic events that mainstream geology has typically attributed to gradual processes, with substantial implications for how the Holocene should be reconstructed. The corpus's reading is structurally distinctive: it accepts the global recurrence of flood traditions as evidence of a genuine global event (against mainstream comparative-mythology scholarship's diffusionist account), accepts the catastrophist tradition's broader argument while specifying a particular mechanism (deliberate Council military strike) that the mainstream catastrophist literature does not propose, and reads the underlying narrative as preserving substantially accurate operational content rather than as theological-mythological construction.
+该读法是有争议的。在主流历史批判圣经学界,创世记的洪水叙事被读作两份独立源文件(按文献假说为 J 与 P)的合成,反映了公元前一千年期间以色列宗教的发展,并在文本上实质性依赖于更古老的美索不达米亚洪水传统(*阿特拉哈西斯*史诗、*吉尔伽美什史诗*、苏美尔的*埃利都创世记*)。在主流地质学与古生物学界,全新世内未发现与文集框架相符的事件;大陆漂移问题以标准板块构造框架来理解,该框架将盘古大陆解体定在约 1.75 亿年前。在基督教神学传统中,洪水被多样地读为具有神学—预表意义的历史事件(保守派立场)、反映道德—宗教真理的神学—神话叙事(自由派立场),或主要作为新约事件的预表(预表派立场)。在当代灾变论研究传统中(Carlson、Bunch 等,以及更广义的新仙女木撞击假说文献),各种立场主张近期发生了实质性的灾难事件,而主流地质学通常将这些归因于渐进过程,这对全新世应如何重建有实质性的影响。文集的读法在结构上具有独特性:它将全球洪水传统的反复出现视为真实全球事件的证据(与主流比较神话学界的扩散主义解释相对),接受灾变论传统的更广义论点但同时指明一种主流灾变论文献不曾提出的特定机制(议会有意的军事打击),并将潜在叙事读作保留了实质性准确运作内容的记录,而非神学—神话构造。
 
-## Etymology and naming
+## 词源与命名
 
-The principal terms for the event across the languages and traditions in which it has been preserved warrant individual treatment.
+事件在其得以保存的各种语言与传统中的主要术语值得逐一处理。
 
-### Hebrew *ha-mabbul*
+### 希伯来语 *ha-mabbul*
 
-The Hebrew *ha-mabbul* (<span class="hebrew">הַמַּבּוּל</span>) is the specific Hebrew Bible designation for the Flood event. The term derives from the root *y-b-l* / *n-b-l*, with proposed etymological connections to "to flow," "to bring forth," or "to convey." The form *mabbul* is unique to the flood context — appearing principally in Genesis 6–11 (with thirteen occurrences) and in Psalm 29:10 (the only non-Genesis occurrence) — and is not used for ordinary floods in Biblical Hebrew (the standard term *šeṭep* or *zeram* serving for ordinary flooding). The specificity of *ha-mabbul* as a technical term for the specific event is itself substantively significant: the Hebrew tradition preserves a specific designation that distinguishes the Flood event from the broader category of flooding.
+希伯来语 *ha-mabbul*(<span class="hebrew">הַמַּבּוּל</span>)是希伯来圣经对洪水事件的特定指称。该词出自词根 *y-b-l* / *n-b-l*,提出的词源关联包括"流"、"产出"或"输送"。*mabbul* 这一形式专属于洪水语境——主要出现于创世记 6—11 章(共 13 处)及诗篇 29:10(唯一不在创世记中的出现),在圣经希伯来语中并不用于普通洪水(普通词为 *šeṭep* 或 *zeram*)。*ha-mabbul* 作为该特定事件的技术术语,这一专属性本身就具有实质意义:希伯来传统保留了一个特定指称,将洪水事件与更广义的洪水范畴区分开来。
 
-The definite article *ha-* ("the") is preserved across nearly all Genesis 6–11 occurrences, marking the Flood as a unique definite event rather than a generic flooding phenomenon. The framework reads this definiteness as substantively significant: the Hebrew Bible's vocabulary preserves the recognition that the Flood was a specific historical event with specific operational content rather than a recurring or generic phenomenon.
+定冠词 *ha-*(意为"那")在创世记 6—11 章几乎所有出现处都得到保留,将洪水标记为一个独特的特定事件而非普遍的洪水现象。本框架将这种确定性读作具有实质意义:希伯来圣经的词汇保留了一种识别——洪水是一次具体的历史事件,具有特定运作内容,而非一种反复出现或泛指的现象。
 
-### Other ancient Near Eastern terms
+### 其他古代近东术语
 
-The Mesopotamian tradition preserves several distinct terms for the parallel flood events:
+美索不达米亚传统为平行的洪水事件保留了若干不同术语:
 
-- **Akkadian *abūbu*** (𒀀𒈠𒊒) — the principal Akkadian term for the catastrophic flood event in the *Atra-ḫasīs* epic and the *Epic of Gilgamesh*. The term derives from a root meaning "destruction" or "catastrophe" and is used specifically for the deliberate flood event sent by the gods.
-- **Sumerian *a-ma-ru*** — the parallel Sumerian term, used in the *Eridu Genesis* and in the Sumerian King List's pre-Flood and post-Flood divisions.
-- **Akkadian *butuqtu*** — used in some texts for the inundation event specifically.
+- **阿卡德语 *abūbu***(𒀀𒈠𒊒)——*阿特拉哈西斯*史诗和*吉尔伽美什史诗*中关于灾难性洪水事件的主要阿卡德语术语。该词出自意为"毁灭"或"灾难"的词根,专门用于神祇所派遣的有意洪水事件。
+- **苏美尔语 *a-ma-ru*** ——平行的苏美尔语术语,用于*埃利都创世记*,以及苏美尔王表的洪水前与洪水后分段。
+- **阿卡德语 *butuqtu*** ——在部分文本中专门用于该次淹没事件。
 
-The Mesopotamian terminology preserves substantially the same distinction the Hebrew tradition preserves: a specific technical term for the catastrophic flood event, distinct from the generic terminology for ordinary flooding. The cross-tradition convergence on specific technical vocabulary for the event is part of the framework's evidence that the underlying event was a specific historical occurrence rather than a generic mythological category.
+美索不达米亚的术语保留了与希伯来传统几乎相同的区分:对灾难性洪水事件有一个特定的技术术语,与普通洪水的通用术语相区别。各传统对该事件特定技术词汇的趋同,是本框架认为潜在事件是一次具体历史发生而非通用神话范畴的证据之一。
 
-### Greek *kataklysmos* and Latin *diluvium*
+### 希腊语 *kataklysmos* 与拉丁语 *diluvium*
 
-The Greek Septuagint translates *ha-mabbul* as *kataklysmos* (κατακλυσμός), the standard Greek term for catastrophic flooding, providing the basis for the English "cataclysm" through Latin transmission. The term emphasizes the destructive character of the event — *kataklysmos* derives from *kata-* ("down") and *klyzō* ("to wash"), with the underlying sense of "washing down" or "deluging."
+希腊语七十士译本将 *ha-mabbul* 译为 *kataklysmos*(κατακλυσμός),即希腊语中标准的灾难性洪水术语,经由拉丁语传承构成英语"cataclysm"的基础。该词强调事件的破坏性——*kataklysmos* 由 *kata-*("向下")与 *klyzō*("冲洗")构成,潜在意涵为"冲下"或"淹没"。
 
-The Latin Vulgate translates *ha-mabbul* as *diluvium*, from *diluere* ("to wash away" or "to dissolve"), with the underlying sense of "washing away" or "dispersal." The Latin term provides the basis for the English "deluge" (through Old French *deluge*) and for the various Romance-language cognates.
+拉丁语武加大译本将 *ha-mabbul* 译为 *diluvium*,出自 *diluere*("冲走"或"消解"),潜在意涵为"冲走"或"散去"。拉丁词构成英语"deluge"的基础(经由古法语 *deluge*),也是各罗曼语族同源词的源头。
 
-### Arabic *aṭ-Ṭūfān*
+### 阿拉伯语 *aṭ-Ṭūfān*
 
-The Arabic Qur'anic tradition uses *aṭ-Ṭūfān* (<span class="hebrew">الطوفان</span>) for the Flood event. The term derives from a root meaning "to go around" or "to encompass," with the underlying sense of an encompassing catastrophe. The Qur'anic flood narrative (treated principally in surahs 7:59–64, 11:25–48, 23:23–30, 26:105–122, and 71) develops the Hebrew tradition's narrative with substantive theological elaborations specific to Islamic context, with Noah (Nūḥ) as the principal Qur'anic prophet of the pre-Flood period.
+古兰经阿拉伯传统使用 *aṭ-Ṭūfān*(<span class="hebrew">الطوفان</span>)来指洪水事件。该词出自意为"环绕"或"包围"的词根,潜在意涵为一种包围性的灾难。古兰经的洪水叙事(主要见于第 7:59—64、11:25—48、23:23—30、26:105—122 及 71 章)在希伯来传统的叙事基础上,以伊斯兰语境特有的实质性神学阐发加以发展,挪亚(Nūḥ)是古兰经中洪水前时期的主要先知。
 
-### "Great Flood," "Deluge," and "Cataclysm" in English
+### 英语中的"Great Flood"、"Deluge"与"Cataclysm"
 
-The English "Great Flood" preserves the Hebrew tradition's emphasis on the event's distinctive scale ("Great" capturing the *ha-* definite article's marking of the event as unique). The "Deluge" (from Latin *diluvium*) emphasizes the encompassing-water character of the conventional reading. The "Cataclysm" (from Greek *kataklysmos*) emphasizes the destructive character. The framework's preferred designation is "the Great Flood" as the most semantically neutral term that preserves the event's specific historical character while not committing to specific mechanism-readings (the "deluge" terminology presupposing the conventional water-based mechanism).
+英语"Great Flood"保留了希伯来传统对事件独特规模的强调("Great"对应于 *ha-* 定冠词将事件标识为独一无二)。"Deluge"(出自拉丁语 *diluvium*)强调常规读法中包围性水体的特征。"Cataclysm"(出自希腊语 *kataklysmos*)强调破坏性特征。本框架优先采用"大洪水"作为语义上最为中性的指称,既保留事件的具体历史性质,又不预先承诺特定的机制读法("deluge"的术语已预设了常规的水体机制)。
 
-## In the Hebrew Bible and other primary sources
+## 在希伯来圣经及其他主要源中
 
-The Flood narrative appears principally in Genesis 6:1–9:17, with substantial parallel material across the broader Hebrew Bible and substantial precedent material in the Mesopotamian textual tradition that the Hebrew narrative draws on.
+洪水叙事主要出现于创世记 6:1—9:17,在更广义的希伯来圣经中有大量平行材料,并在希伯来叙事所依据的美索不达米亚文本传统中有大量先行材料。
 
-### The Genesis narrative
+### 创世记叙事
 
-The Genesis flood narrative occupies four chapters of the Hebrew Bible's opening book and contains substantial textual complexity. The principal narrative elements:
+{% library(book="genesis-woh", chapter=7, verse=11) %}
+当挪亚六百岁那年,二月十七日那一天,大渊的泉源都裂开了,天上的闸门也敞开了。
+{% end %}
 
-**Genesis 6:1–4** introduces the *benei ha-Elohim* episode — the "sons of Elohim" who took human women as wives and produced the Nephilim hybrid offspring. The corpus reads this passage as recording the operational context that produced the home-world Council's eventual decision to intervene (treated more fully in the [Sons of Elohim](../sons-of-elohim/) and [Nephilim](../nephilim/) entries).
+创世记洪水叙事占据希伯来圣经开篇之书的四章,文本上具有相当的复杂性。主要叙事要素如下:
 
-**Genesis 6:5–13** records the divine assessment of the pre-Flood human civilization: *"Yahweh saw that the wickedness of humanity was great in the earth, and that every imagination of the thoughts of his heart was only evil continually."* The corpus reads "wickedness" (*raʿat*) here not in the conventional moral-theological sense but as referring to the antediluvian civilization's accelerating technological development that the home-world Council judged threatening — the framework's specific reading is that the "evil" was the human desire to progress scientifically toward the level of their creators.
+**创世记 6:1—4** 引入 *benei ha-Elohim* 片段——"耶洛因之子"娶人类女子为妻,生出拿非利混血后代。文集将此段读作记录了引发母星议会最终决定干预的运作背景(在 {% wiki(slug="sons-of-elohim") %}耶洛因之子{% end %} 与 {% wiki(slug="nephilim") %}拿非利{% end %} 词条中有更详尽处理)。
 
-**Genesis 6:14–22** records the divine instructions for the ark: the dimensions (300 cubits long, 50 cubits wide, 30 cubits high), the materials (gopher wood with pitch sealant), the structural features (three stories, a door in the side, a window), and the instructions for the cargo (Noah and his family, plus pairs of every kind of animal). The corpus reads these specifications as the technical requirements transmitted by the exiled Lucifer-faction creators to Noah for the construction of the orbital spacecraft.
+**创世记 6:5—13** 记载了神对洪水前人类文明的评估:*"耶和华见人在地上罪恶很大,终日所思想的尽都是恶。"* 文集并不按常规道德—神学意义解读此处的"罪恶"(*raʿat*),而是将其指向洪水前文明加速发展的技术,母星议会视之为威胁——本框架的具体读法是,"恶"是指人类渴望在科学上进步到接近其创造者的水平。
 
-**Genesis 7:1–24** records the events of the Flood itself: the entry of Noah and the animals into the ark, the onset of the flood ("the fountains of the great deep burst forth, and the windows of the heavens were opened"), the duration of the rain (forty days and forty nights), the rising of the waters above the mountains, and the duration of the waters' prevalence (150 days). The corpus reads this material as the human witnesses' specific account of the catastrophic event, with the surface narrative covering substantively different operational content than the conventional reading allows.
+**创世记 6:14—22** 记载了建造方舟的神圣指示:尺寸(长 300 肘、宽 50 肘、高 30 肘)、材料(歌斐木与沥青密封剂)、结构特征(三层、侧门、窗户),以及关于载荷的指示(挪亚一家,加上每种动物的配对){{ footnote(id="6") }}。文集将这些规格读作被流放的路西法派创造者向挪亚传达的轨道飞船建造的技术要求。
 
-**Genesis 8:1–22** records the Flood's recession and Noah's disembarkation: the ark coming to rest on Ararat, the receding of the waters, Noah's release of the raven and the dove, the eventual emergence onto dry land, and Noah's burnt offering at the altar.
+**创世记 7:1—24** 记载洪水事件本身:挪亚与动物进入方舟,洪水开始("大渊的泉源都裂开了,天上的窗户也敞开了"),雨的持续时间(四十昼夜),水涨过山顶,水势汹涌的持续时间(150 天)。文集将这部分读作人类见证者对该灾难事件的具体陈述,其表层叙述涵盖了与常规读法实质不同的运作内容。
 
-**Genesis 9:1–17** records the post-Flood arrangements: the divine blessing of Noah's family, the dietary provisions, the prohibition on bloodshed, and the Noahic covenant with its rainbow sign. The corpus reads this material as the operational record of the Alliance's founding moment (treated more fully in the [The Alliance](../the-alliance/) entry).
+**创世记 8:1—22** 记载洪水的退去与挪亚的离船:方舟停在亚拉腊山上,水退去,挪亚放出乌鸦与鸽子,最终登上干地,挪亚在祭坛上献燔祭。
 
-### The textual question: J and P sources
+**创世记 9:1—17** 记载洪水后的安排:神对挪亚一家的祝福、饮食规定、禁止流血,以及以彩虹为印记的挪亚之约。文集将这部分读作联盟创立时刻的运作记录(在 {% wiki(slug="the-alliance") %}联盟{% end %} 词条中有更详尽处理)。
 
-Mainstream historical-critical scholarship recognizes the Genesis flood narrative as a composite of two distinct source documents that have been interwoven in the final form. The principal observations:
+### 文本问题:J 与 P 源
 
-- The narrative contains substantial repetitions and apparent contradictions: two distinct accounts of Noah's entry into the ark (Genesis 7:1–5 and 7:6–9), two distinct accounts of the cargo (one pair vs. seven pairs of clean animals at 6:19–20 and 7:2–3), two distinct accounts of the flood duration (forty days at 7:12 vs. 150 days at 7:24), two distinct names for the deity (Yahweh in some sections, Elohim in others).
-- The Yahwist source (J) is identified by the use of the divine name Yahweh, the seven-pairs cargo specification, the forty-day duration, and other distinctive features. J is conventionally dated to the early monarchic period (c. 10th–9th century BCE).
-- The Priestly source (P) is identified by the use of the divine name Elohim, the one-pair cargo specification, the 150-day duration, the elaborate dating-by-month-and-day notation, and other distinctive features. P is conventionally dated to the post-exilic period (c. 6th–5th century BCE).
+主流历史批判学界将创世记洪水叙事识别为两份不同源文件的合成,最终形式中两者交织。主要观察:
 
-The framework's reading does not reject the documentary-hypothesis observation that the final-form text combines multiple sources. The corpus reads the underlying historical event as preserved in both source traditions, with the source variations reflecting different angles of preservation rather than fundamentally different events. The framework's specific operational reading (orbital duration of 150 days, weather phenomena of forty days as specific atmospheric effects) draws on both source traditions where their specific details are operationally informative.
+- 叙事中存在大量重复与表面矛盾:对挪亚进入方舟有两段不同记述(创世记 7:1—5 与 7:6—9);对载荷有两段不同记述(6:19—20 的一对与 7:2—3 的洁净动物七对);对洪水持续时间有两段不同记述(7:12 的四十天与 7:24 的 150 天);神祇的两个不同名称(部分段落中为耶和华,部分段落中为耶洛因)。
+- 雅伟典(J)以使用神圣名号耶和华、七对载荷规定、四十天持续时间及其他显著特征为识别标志。J 常规定年于王国初期(约公元前 10—9 世纪)。
+- 祭司典(P)以使用神圣名号耶洛因、一对载荷规定、150 天持续时间、详尽的月日标注及其他显著特征为识别标志。P 常规定年于流亡后时期(约公元前 6—5 世纪)。
 
-### Other Hebrew Bible references
+本框架的读法并不否认文献假说关于最终形式文本综合多源的观察。文集将潜在的历史事件读作在两种源传统中均有保留,源之间的差异反映了不同角度的保存,而非根本不同的事件。本框架具体的运作读法(150 天的轨道周期、四十天作为特定大气效应的天气现象)在两种源传统中都吸取了其具体细节中具有运作意义的部分。
 
-Several other Hebrew Bible passages refer to the Flood event:
+### 希伯来圣经的其他出处
 
-- **Job 38:8–11** records Yahweh's containing the seas: *"Who shut in the sea with doors, when it burst forth from the womb... and prescribed bounds for it, and set bars and doors, and said, 'Thus far shall you come, and no farther, and here shall your proud waves be stayed'?"* The passage's specific cosmic-water imagery has been read by some interpreters as reflecting Flood-tradition material.
-- **Psalm 29:10** records: *"Yahweh sat enthroned at the Flood (la-mabbul); Yahweh sits enthroned as king forever."* This is the only non-Genesis Hebrew Bible occurrence of the specific term *mabbul*.
-- **Isaiah 54:9** invokes the Flood covenant explicitly: *"This is like the days of Noah to me; just as I swore that the waters of Noah should never again go over the earth, so I have sworn that I will not be angry with you and will not rebuke you."*
+希伯来圣经的其他几处经文提及洪水事件:
 
-### New Testament references
+- **约伯记 38:8—11** 记载耶和华约束海洋:*"海水冲出,如出胎胞,那时谁将它关闭呢?……为它定界限,又安门和闩,说:'你只可到这里,不可越过;你狂傲的浪要到此止住'?"* 该段特定的宇宙—水体意象,被部分释经者读作反映洪水传统的材料。
+- **诗篇 29:10** 记载:*"洪水(la-mabbul)泛滥之时,耶和华坐着为王;耶和华坐着为王,直到永远。"* 这是希伯来圣经中唯一非创世记里出现 *mabbul* 一词之处。
+- **以赛亚书 54:9** 明确援引洪水之约:*"这事在我好像挪亚的洪水。我怎样起誓不再使挪亚的洪水漫过遍地,我也照样起誓不再向你发怒,也不斥责你。"*
 
-The New Testament references the Flood material in several theological contexts:
+### 新约出处
 
-- **Matthew 24:37–39** (and parallel Luke 17:26–27) records Jesus's reference to the Flood as a typological precedent for the coming of the Son of Man.
-- **1 Peter 3:20–21** references the eight souls saved through water as a typological figure for Christian baptism.
-- **2 Peter 2:5** references "the ancient world" that was destroyed except for "Noah, a herald of righteousness, with seven others."
-- **2 Peter 3:5–7** uses the Flood as typological precedent for the coming destruction by fire.
-- **Hebrews 11:7** lists Noah's faith in building the ark as exemplary.
+新约在多种神学语境中提及洪水材料:
 
-The New Testament references treat the Flood as a historical event with typological significance for Christian theology. The corpus reads these references as continuing the broader Hebrew tradition's treatment of the Flood as a specific historical event, with the New Testament's typological elaborations being theological constructions that build on the underlying historical material.
+- **马太福音 24:37—39**(及平行的路加福音 17:26—27)记载耶稣以洪水作为人子降临的预表先例。
+- **彼得前书 3:20—21** 提及借水得救的八口人,作为基督徒洗礼的预表。
+- **彼得后书 2:5** 提及"古时的世代"被毁灭,只剩下"挪亚和另外七个人"——"传义道的挪亚"。
+- **彼得后书 3:5—7** 以洪水作为即将到来的火烧毁灭的预表先例。
+- **希伯来书 11:7** 将挪亚因信造方舟列为信心的典范。
 
-### The Mesopotamian textual precedents
+新约的引用将洪水视为对基督教神学具有预表意义的历史事件。文集将这些引用读作希伯来传统更广义地将洪水视为具体历史事件的延续,新约的预表性发挥乃是建立在潜在历史材料之上的神学构造。
 
-The Mesopotamian flood narratives substantially predate the Hebrew Bible's Genesis material and provide direct textual parallels that mainstream scholarship has documented since George Smith's 1872 rediscovery of the Babylonian flood narrative. The principal Mesopotamian texts:
+### 美索不达米亚的文本先例
 
-**The *Atra-ḫasīs* epic** (c. 18th century BCE in its preserved form, with possible earlier oral antecedents) records the flood narrative within a broader Mesopotamian theological framework. The principal narrative elements:
-- The gods create humans to relieve themselves of agricultural labor
-- Human population growth produces noise and disturbance that the gods find intolerable
-- The gods send plagues, droughts, and famines to reduce the human population
-- When these prove insufficient, the gods decide to send a flood to destroy humanity
-- The god Enki warns Atra-ḫasīs (the "exceedingly wise" human) of the impending flood and instructs him to build a vessel
-- Atra-ḫasīs builds the vessel and preserves himself, his family, and animals through the flood
-- After the flood, the gods regret the destruction and establish new arrangements with the surviving humans
+美索不达米亚的洪水叙事在时间上实质性早于希伯来圣经的创世记材料,自 1872 年乔治·史密斯重新发现巴比伦洪水叙事以来,主流学界已记录到直接的文本平行。主要美索不达米亚文本:
 
-**The *Epic of Gilgamesh*** preserves the flood narrative in Tablet XI, which records Utnapishtim's account of the flood event to Gilgamesh during the latter's quest for immortality. The Gilgamesh flood narrative is substantially parallel to the *Atra-ḫasīs* account, with Utnapishtim serving as the parallel figure to Atra-ḫasīs and Noah. The specific narrative elements (the divine warning, the construction of the vessel, the duration of the flood, the release of birds to test the conditions) are remarkably parallel to the Genesis narrative.
+***阿特拉哈西斯*史诗**{{ cite(id="atra-hasis-lambert-millard", text="[2]", title="Lambert & Millard(1969),《阿特拉哈西斯:巴比伦洪水故事》——校勘本与译本") }}(其保存形式约为公元前 18 世纪,可能有更早的口头先驱)在更广义的美索不达米亚神学框架中记录洪水叙事。主要叙事要素:
+- 神祇创造人类以减轻自己的农业劳动
+- 人口增长产生的喧嚣与扰动令神祇难以忍受
+- 神祇派出瘟疫、干旱与饥荒以减少人口
+- 这些手段不足时,神祇决定派洪水毁灭人类
+- 恩基神警告阿特拉哈西斯(那个"极其智慧"的人)洪水将临,并指示其建造容器
+- 阿特拉哈西斯建造容器,使自己、家人与动物在洪水中得以保存
+- 洪水后,神祇为毁灭悔恨,与幸存的人类立定新的安排
 
-**The Sumerian *Eridu Genesis*** preserves the earliest known version of the flood narrative, with Ziusudra ("life of long days") as the parallel figure. The Sumerian account, fragmentary in its preserved form, records substantially the same narrative elements as the later Akkadian and Hebrew traditions.
+***吉尔伽美什史诗***{{ cite(id="george-gilgamesh", text="[3]", title="George(1999),《吉尔伽美什史诗》——易读英文版,含第十一块泥板洪水叙事") }} 在第十一块泥板中保留了洪水叙事,记述乌特纳皮什提姆向追求永生的吉尔伽美什讲述洪水事件。吉尔伽美什的洪水叙事在内容上与*阿特拉哈西斯*的记述实质平行,乌特纳皮什提姆扮演与阿特拉哈西斯和挪亚相对应的角色。具体的叙事要素(神圣警告、容器建造、洪水持续时间、放出鸟类以测试条件)与创世记叙事高度平行。
 
-The framework reads these Mesopotamian precedents as parallel preservations of the same underlying historical event rather than as independent mythological developments. The Hebrew tradition's specific Noahic narrative is one of several culturally specific preservations of the Gemini-age flood event, with the Mesopotamian preservations being closer to the event geographically and chronologically and therefore preserving substantial operational detail.
+**苏美尔的*埃利都创世记*** 保留了已知最早版本的洪水叙事,以齐乌苏德拉("长寿之日")作为相对应人物。其保存形式残缺的苏美尔记述记录了与后来阿卡德及希伯来传统实质相同的叙事要素。
 
-## Chronology and duration
+本框架将这些美索不达米亚先例读作对同一潜在历史事件的平行保存,而非独立的神话发展。希伯来传统具体的挪亚叙事,是双子座时代洪水事件文化特定保存版本之一,而美索不达米亚的保存版本在地理与时间上更接近事件,因而保留了大量运作细节。
 
-The Flood's chronology in the framework's reading is structured by the broader corpus's precessional-age framework. The principal points:
+## 纪年与持续时间
 
-### Date in the framework
+按本框架的读法,洪水的纪年由文集更广义的岁差时代框架所构造。主要要点:
 
-The framework places the Flood at approximately **6,690 BCE**, at the opening of the Age of Gemini. The dating is derived from the corpus's broader precessional-age chronology, with the Age of Gemini running from c. 6,690 BCE to c. 4,530 BCE in the corpus's framework.
+### 框架内的日期
 
-The 6,690 BCE date is substantially older than the conventional biblical chronology (which places the Flood at approximately 2,300 BCE on Ussher's calculations, derived from the Genesis 5 patriarchal genealogy) and substantially younger than the conventional geological dating of any major catastrophic events. The framework's date is internal to the corpus's broader chronological framework rather than directly attested in the source material; the corpus derives the date from the precessional-age scheme rather than from an explicit Raëlian-source dating.
+本框架将洪水定在约**公元前 6,690 年**,即双子座时代开端。该日期来自文集更广义的岁差时代纪年,双子座时代在文集框架中从约公元前 6,690 年延续至约公元前 4,530 年。
 
-The conventional biblical chronology problem warrants registration. The Genesis 5 patriarchal genealogy, taken at face value with the recorded ages summed, places the Flood approximately 1,656 years after the creation of Adam. Combined with various subsequent biblical chronological calculations, this produces dates ranging from approximately 2,300 BCE (the Ussher tradition) to approximately 3,500 BCE (other traditional calculations). The framework's reading addresses this discrepancy by treating the Genesis 5 genealogy's specific recorded ages as substantively meaningful (the patriarchs received longevity treatment from the Lucifer faction's continuing post-Eden support) but the cumulative chronological calculation as unreliable for absolute dating purposes (the genealogies may compress generations or contain other transmission distortions across the long oral-and-written transmission period).
+公元前 6,690 年的日期实质上早于常规圣经纪年(根据由创世记 5 章族长家谱推得的乌歇尔计算,洪水约在公元前 2,300 年),并实质上晚于任何主要灾难事件的常规地质学定年。本框架的日期源自文集更广义的纪年体系,而非源材料中直接证言;文集是从岁差时代框架推得日期,而非来自雷尔派源中的明确日期。
 
-### Duration of the event
+常规圣经纪年的问题值得登记。若按创世记 5 章族长家谱所记年龄逐字累计,洪水大致发生于亚当受造后 1,656 年。再结合后续若干圣经纪年推算,得到的日期范围约为公元前 2,300 年(乌歇尔传统)至约公元前 3,500 年(其他传统推算)。本框架处理这种差异的方式是:将创世记 5 章家谱所记的具体年龄视为具有实质意义(族长们从洪水后路西法派持续的伊甸后支持中获得了长寿处理),但将累计的纪年推算视为对绝对纪年不可靠(家谱可能压缩代际,或在漫长口头与书面传播过程中含有其他传递性失真)。
 
-The Flood event itself, on the framework's reading, has several distinct phases with distinct durations:
+### 事件的持续时间
 
-**The pre-Flood preparation period**: Centuries to perhaps a millennium of ark construction by the Lucifer faction and the Noahic operational team. The Genesis 5 genealogy records Noah's age at 600 years when the Flood begins (Genesis 7:6); the framework reads this as substantively accurate, with the ark's construction occupying the latter portion of Noah's pre-Flood lifespan and involving substantial operational team effort across the construction period.
+按本框架的读法,洪水事件本身可分为若干阶段,各有不同的持续时间:
 
-**The catastrophic phase**: The immediate effects of the nuclear weapons impacts — the continental tidal wave, the atmospheric and seismic disruption, the mass extinction of the surface biosphere. The Genesis text records "forty days and forty nights" of rain (Genesis 7:12), which the framework reads as the period of severe atmospheric disturbance following the impacts (precipitation effects from the impact-generated atmospheric disruption, fallout-bearing rain across the affected zones).
+**洪水前的准备期**:由路西法派与挪亚的运作团队进行的方舟建造,持续数个世纪乃至上千年。创世记 5 章家谱记载挪亚在洪水开始时 600 岁(创世记 7:6);本框架将此读作实质准确,方舟的建造占据了挪亚洪水前生命的后段,并在整个建造期内涉及实质性的运作团队工作。
 
-**The orbital phase**: 150 days (Genesis 7:24) during which the ark remained in orbit while the surface conditions stabilized. The framework reads this as the period during which the radioactive fallout from the nuclear weapons decayed to levels that the surface could again support life, with the alliance personnel monitoring the fallout decay and conducting the necessary atmospheric remediation.
+**灾难阶段**:核武器撞击的直接效应——大陆性海啸、大气与地震扰动、地表生物圈的大规模灭绝。创世记记载了"四十昼夜"的雨(创世记 7:12),本框架将其读作撞击后严重大气扰动的时期(由撞击引发的大气扰动所产生的降水效应,以及波及区域上含放射性沉降物的降雨)。
 
-**The post-Flood landing and reseeding period**: Months to years following the orbital phase, during which the ark landed (Genesis 8:4 places the landing on the seventeenth day of the seventh month, with the waters drying off the earth across subsequent months), the animals were released, the post-Flood agriculture began, and the broader reseeding operations were conducted.
+**轨道阶段**:方舟保持在轨道的 150 天(创世记 7:24),期间地表条件趋于稳定。本框架将其读作核武器放射性沉降物衰减至地表能够再次承载生命的水平所需的时期,期间联盟人员监测沉降物的衰变,并进行必要的大气修复。
 
-**The Noahic covenant founding moment**: The specific event at the post-Flood altar where the formal Alliance between the exiled creators and the human survivors was established. This is treated extensively in the [The Alliance](../the-alliance/) entry.
+**洪水后的着陆与重新播种期**:轨道阶段结束后的数月至数年,期间方舟降落(创世记 8:4 记载着陆在七月十七日,水在随后数月内退去),动物被释放,洪水后的农业开始,更广义的重新播种行动展开。
 
-The total duration from the catastrophic phase through the establishment of viable post-Flood conditions was, on the framework's reading, on the order of a year — substantially consistent with the Genesis narrative's specific chronological notations.
+**挪亚之约的奠基时刻**:在洪水后祭坛处发生的具体事件,即被流放的创造者与人类幸存者之间正式联盟的设立。详见 {% wiki(slug="the-alliance") %}联盟{% end %} 词条。
 
-## The events themselves
+按本框架的读法,从灾难阶段到建立可维持的洪水后条件,总持续时间约为一年——与创世记叙事的具体纪年标注实质一致。
 
-The Flood event's narrative arc, on the framework's reading, can be reconstructed from the source material with substantial detail. The principal phases:
+## 事件本身
 
-### The pre-Flood political situation
+按本框架的读法,洪水事件的叙事弧线可以从源材料中以相当详尽的程度重建。主要阶段:
 
-The pre-Flood political situation at the close of the Age of Cancer involved several interconnected developments:
+### 洪水前的政治形势
 
-**The antediluvian Eden civilization's technological development**. Across the approximately 4,700 years between the Eden disclosure (c. 11,375 BCE) and the Flood (c. 6,690 BCE), the Eden-lineage civilization had developed under the continuing teaching of the exiled Lucifer faction. By the close of the Age of Cancer, the civilization had achieved substantial technological capability — substantially exceeding what the home-world Council's containment policy had originally permitted, and approaching levels that the Council judged threatening.
+巨蟹座时代末期洪水前的政治形势涉及若干相互关联的发展:
 
-**The *benei ha-Elohim* and Nephilim development**. Genesis 6:1–4 records the *benei ha-Elohim* episode in which "sons of Elohim" took human women as wives and produced hybrid offspring. The framework reads this as the broader operational reality of Eloha-human reproductive interaction across the antediluvian period, with the resulting Nephilim hybrid population becoming a substantial portion of the antediluvian civilization's leadership and producing an increasing genetic mixing that the home-world Council found alarming.
+**洪水前伊甸文明的技术发展**。在伊甸披露(约公元前 11,375 年)至洪水(约公元前 6,690 年)之间约 4,700 年间,伊甸—世系文明在被流放的路西法派持续的教导下发展。到巨蟹座时代末期,该文明已获得相当的技术能力——实质性地超过了母星议会遏制政策最初所允许的水平,并接近议会判定为威胁性的水平。
 
-**The Council's deliberation**. The home-world Council, watching the antediluvian developments across the long centuries, eventually concluded that the situation had passed the point where the original political settlement could be sustained. The Council's specific deliberations are not preserved in detail in the source material, but the broader framework reading is that the decision involved substantial political conflict between the abolitionist faction (led by Satan, advocating immediate termination) and various more moderate factions, with the eventual decision being a compromise: destruction of the broader human creation while permitting the exiled creators themselves to remain.
+***benei ha-Elohim* 与拿非利的发展**。创世记 6:1—4 记载了 *benei ha-Elohim* 片段,即"耶洛因之子"娶人类女子为妻,生下混血后代。本框架将其读作洪水前整个时期耶洛因—人类生殖互动的更广义运作现实,所产生的拿非利混血人口构成洪水前文明领导层的相当部分,并造成日益增长的遗传混合,令母星议会感到警觉。
 
-**The destruction order**. The home-world Council formally ordered the destruction of all life on Earth, with the destruction to be effected through nuclear weapons impacts. The order was issued without consultation with the exiled creators and without consideration of the human survivors who might be preserved.
+**议会的审议**。母星议会在漫长的几个世纪中观察着洪水前的发展,最终判定情况已超越原初政治协定所能维持的临界点。源材料中并未保留议会的具体审议细节,但更广义的框架读法是:该决定涉及废止派(由撒但领导,主张立即终止)与各较温和派系之间的实质性政治冲突,最终决定是一种妥协:摧毁更广义的人类创造,但允许被流放的创造者本身留存。
 
-### The exiled creators' counter-preparation
+**毁灭命令**。母星议会正式下令毁灭地球上的一切生命,毁灭以核武器撞击执行。命令在未与被流放的创造者协商、也未考虑可能保存的人类幸存者的情况下发布。
 
-The exiled Lucifer faction, learning of the Council's destruction order, conducted a substantial counter-preparation across the years preceding the Flood:
+### 被流放的创造者的反向准备
 
-**The strategic decision**. The exiled creators decided not to attempt to prevent the catastrophe (which would have required direct military confrontation with the Council that they could not realistically win) but to preserve the human creation through the catastrophe. This is the strategic decision the framework reads as the founding moment of the broader Alliance — a calculated political act undertaken in hope of eventual reconciliation.
+被流放的路西法派得知议会的毁灭命令后,在洪水前数年间进行了实质性的反向准备:
 
-**The Noahic operational team**. The exiled creators identified Noah as the principal human partner for the preservation operation. Noah's specific qualifications — the source material's "righteous" framing — are read by the framework as identifying Noah's competence, leadership capacity, and commitment to the cooperative project rather than as moral-theological evaluation. The broader operational team that supported the construction was substantial: workers, technicians, biologists, support personnel from the antediluvian Eden civilization who participated in the project across its decades of development. Most of this broader team was not preserved through the catastrophe — only Noah's immediate family was on board the ark itself.
+**战略决定**。被流放的创造者决定不试图阻止灾难(那将要求直接与议会进行他们不可能现实地获胜的军事对抗),而是在灾难中保存人类创造。本框架将此战略决定读作更广义联盟创立的时刻——一次以最终和解为期盼而采取的有计划政治行动。
 
-**The construction of the ark**. The ark was constructed over an extended period (centuries on the source's reading, though the Genesis text does not specify an exact duration) according to technical specifications provided by the exiled creators. The framework's reading of the ark's specific character:
+**挪亚的运作团队**。被流放的创造者将挪亚识别为保存行动的主要人类伙伴。挪亚的具体资格——源材料中"义人"的描述——被本框架读作识别挪亚的能力、领导力以及对合作项目的承诺,而非道德—神学评价。在建造过程中提供支持的更广义运作团队规模相当可观:洪水前伊甸文明的工人、技术人员、生物学家、支援人员,他们在项目数十年的发展中参与其中。该更广义团队的大部分人并未通过灾难得以保存——只有挪亚的直系家人在方舟上。
 
-- The ark was a **spacecraft**, not a wooden boat. The Hebrew *tevah* (תֵּבָה) meaning "closed vessel" or "container" is consistent with this reading; the term is used elsewhere in the Hebrew Bible only for the basket in which the infant Moses was placed (Exodus 2:3), suggesting a specific technical-vessel meaning rather than the generic "boat" reading.
-- The dimensions specified in Genesis 6:15 (300 × 50 × 30 cubits) are read as the spacecraft's structural specifications rather than as nautical dimensions. The cubit unit's specific scale in the source material is uncertain; modern translations using the standard 18-inch cubit produce a vessel of approximately 137 × 23 × 14 meters, but the actual scale may have been different.
-- The three stories specified in Genesis 6:16 are read as the spacecraft's three deck levels, with various functional specifications for each level (cargo, crew quarters, operational systems).
-- The specific construction materials (gopher wood, pitch sealant) are read as the human-recordable account of materials whose specific technical character the human observers could not fully describe in their available vocabulary.
+**方舟的建造**。方舟在较长的时间内(按源材料读法长达数个世纪,尽管创世记文本并未给出确切时长)按照被流放的创造者所提供的技术规格建造。本框架对方舟具体性质的读法:
 
-**The genetic cargo**. The framework's reading of the cargo follows the source material's explicit clarification: rather than living pairs of every species (which would be impossible in any plausible vessel), the ark's actual cargo was substantially **genetic material** — preserved cellular samples from each species sufficient for post-Flood regeneration. The source's explicit phrasing: *"a single living cell of each species, male and female, is all that is required to recreate a whole being."* The framework reads this as the underlying technical reality, with the Genesis text's "two of every kind" language being the human-recordable account of the operation.
+- 方舟是**飞船**,而非木船。希伯来语 *tevah*(תֵּבָה)意为"封闭的容器"或"容器",与此读法一致;该词在希伯来圣经的其他地方仅用于盛放婴儿摩西的篮子(出埃及记 2:3),暗示其具有特定的技术—容器意义,而非通用的"船"义。
+- 创世记 6:15 所规定的尺寸(300 × 50 × 30 肘)被读作飞船的结构规格,而非船舶尺寸。源材料中肘的具体尺度并不确定;现代翻译采用标准的 18 英寸肘,得到长约 137 × 23 × 14 米的容器,但实际尺度可能不同。
+- 创世记 6:16 规定的三层被读作飞船的三层甲板,各层有不同的功能规格(载荷、船员舱位、运作系统)。
+- 具体的建造材料(歌斐木、沥青密封剂)被读作人类可记录的描述,其指代材料的具体技术性质,人类观察者无法以其可用词汇完整描述。
 
-The ark's actual passengers included Noah, his wife, his three sons (Shem, Ham, Japheth), and their wives — eight humans total. The source material additionally specifies that representatives of the seven creator-team lineages were preserved through the operation, with these representatives apparently in either living form (small numbers from each lineage) or in genetic form (with subsequent post-Flood regeneration).
+**遗传载荷**。本框架对载荷的读法遵循源材料的明确澄清:方舟实际载荷的并非每种物种的活体配对(任何可信容器都无法做到),而实质性地是**遗传材料**——每种物种保存的细胞样本,足以在洪水后再生。源材料的明确表述:*"每个物种、一雌一雄的单个活细胞,即足以重造整个生物。"* 本框架将其读作潜在的技术现实,创世记文本中"各样两个"的措辞是人类对该运作的可记录表述。
 
-### The catastrophic event
+方舟的实际乘客包括挪亚、其妻、其三子(闪、含、雅弗)及其媳妇——共八人。源材料另外指明,七支创造团队世系的代表通过该次行动得以保存,这些代表显然以活体形式(每个世系少量个体)或以遗传形式(随后在洪水后再生)存在。
 
-The Council's destruction order was executed through nuclear weapons impacts directed at the central zones of the antediluvian Pangaean supercontinent. The framework's reading of the specific operational events:
+### 灾难事件
 
-**The strike**. The weapons struck at multiple targets across the central regions of the supercontinent, with the impacts producing immediate catastrophic effects. The source material does not specify the exact number or distribution of weapons; the framework reads the strike as substantial in scale, sufficient to produce the immediate destruction of the antediluvian civilization's principal population centers and to initiate the broader continental-fragmentation effects.
+议会的毁灭命令通过核武器撞击执行,定向针对洪水前盘古超大陆的中央区域。本框架对具体运作事件的读法:
 
-**The continental tidal wave**. The strike produced massive ocean displacements that propagated outward across the supercontinent's coastlines. The Genesis text's description of "the fountains of the great deep" being "broken up" (Genesis 7:11) is read by the framework as the human witnesses' specific account of the impact-generated tsunami effects.
+**打击**。武器袭击了超大陆中央区域的多个目标,撞击产生了即时的灾难性效应。源材料并未指明武器的确切数量或分布;本框架将打击读作规模实质性的行动,足以即时摧毁洪水前文明的主要人口中心,并启动更广义的大陆分裂效应。
 
-**The atmospheric and seismic disruption**. The strike produced substantial atmospheric disturbance (the "windows of heaven" being "opened" in Genesis 7:11, the "forty days and forty nights" of rain in Genesis 7:12), with the precipitation reflecting both the impact-disturbed water cycle and the fallout-bearing precipitation across the affected zones.
+**大陆性海啸**。打击产生了巨大的海洋位移,沿超大陆海岸线向外传播。创世记文本对"大渊的泉源""裂开"(创世记 7:11)的描述,被本框架读作人类见证者对撞击所产生海啸效应的具体陈述。
 
-**The continental fragmentation**. The most substantial geological consequence of the strike was the fragmentation of the Pangaean supercontinent into the modern continental configuration. The source material is explicit on this point: *"When the Elohim decided to destroy their bases, their laboratories and all that they had created on Earth, they must have used extremely powerful methods of destruction, which, as well as breaking up this original continent and sending each respective fragment drifting outwards from the centre of the shock, must also have swept the whole land surface."* The framework reads the modern continental drift as the residual momentum from this original displacement, with the ongoing GPS-measured plate motion being the slowing-down phase of the original Gemini-age event.
+**大气与地震扰动**。打击产生了实质性的大气扰动(创世记 7:11 中"天上的窗户"被"敞开",创世记 7:12 中的"四十昼夜"大雨),降水既反映了撞击扰乱的水循环,也反映了波及区域上含放射性沉降物的降水。
 
-**The mass extinction**. The strike effectively destroyed the broader pre-Flood biosphere on the supercontinent's surface — the antediluvian human civilization's broader population, the Nephilim hybrid lineages, the various large terrestrial organisms (including the surviving dinosaur populations the source material treats as having persisted into the late antediluvian period), the broader plant and animal communities. The post-Flood biosphere would be reconstructed substantially from the genetic cargo preserved in the ark.
+**大陆分裂**。打击最实质性的地质后果是将盘古超大陆分裂为现代大陆构造。源材料在这一点上明确表述:*"当耶洛因决定摧毁他们在地球上的基地、实验室及一切创造物时,他们必定使用了极为强大的毁灭手段,这些手段既会将这片原初大陆撕裂,使各部分从冲击中心向外漂移,也必定席卷了整个陆地表面。"* 本框架将现代大陆漂移读作此次原初位移的残余动量,持续的 GPS 测量板块运动是原初双子座时代事件的减速阶段。
 
-### The orbital phase
+**大规模灭绝**。打击实际摧毁了超大陆地表更广义的洪水前生物圈——洪水前人类文明的更广义人口、拿非利混血世系、各种大型陆地生物(包括源材料所认为延续至洪水前晚期的尚存恐龙群体)、更广义的动植物群落。洪水后的生物圈将主要从方舟中保存的遗传载荷重建。
 
-The ark's 150-day orbital period (Genesis 7:24) involved several specific operational features:
+### 轨道阶段
 
-**The lift-off**. The ark lifted off the Earth's surface before or during the initial weapon impacts. The Genesis 7:17 phrasing — *"the ark... was lift up above the earth"* — is read by the framework as specifically indicating the lifting *above* the Earth (into orbit) rather than *on* the water (as a floating boat). The Hebrew *vatārom mēʿal hā-ʾāreṣ* uses the directional preposition *mēʿal* ("from above"), preserving the orbital reading at the level of the Hebrew text itself.
+方舟 150 天的轨道周期(创世记 7:24)涉及若干具体运作特征:
 
-**The orbital sustainment**. The ark remained in orbit for 150 days, sustaining its eight human occupants and the genetic cargo through the period during which the surface conditions stabilized. The specific orbital altitude and operational features are not specified in the source material; the framework reads the orbital sustainment as requiring substantial life-support, atmospheric, food-and-water, and waste-management infrastructure consistent with what the broader pre-Flood civilizational technology would have permitted.
+**起飞**。方舟在最初武器撞击之前或期间从地球表面升空。创世记 7:17 的措辞——*"方舟……便从地上漂起"*——被本框架读作具体表示*升至*地面之上(进入轨道),而非*漂在*水面之上(作为浮船)。希伯来语 *vatārom mēʿal hā-ʾāreṣ* 使用方向介词 *mēʿal*("从……之上"),在希伯来文本层面本身就保留了轨道读法。
 
-**The fallout monitoring**. Throughout the orbital period, the alliance personnel monitored the radioactive fallout decay and conducted necessary atmospheric remediation. The source's specific phrase: *"After monitoring the level of radioactivity and dispersing it scientifically..."* This is read by the framework as the alliance's deliberate post-strike radiological remediation, with the specific technical mechanisms being beyond what the source material specifies.
+**轨道维持**。方舟在轨道上停留 150 天,期间维持其八名人类乘员及遗传载荷的生命,直至地表条件趋于稳定。源材料并未指明具体的轨道高度及运作特征;本框架将轨道维持读作需要实质性的生命支持、大气、食物与饮水以及废物管理基础设施,这与本框架所归于洪水前文明技术水平相一致。
 
-**The waters' recession**. The Genesis 8:1 reference to "Elohim made a wind to pass over the earth, and the waters asswaged" is read by the framework as the alliance personnel's deliberate atmospheric and oceanic stabilization following the catastrophic phase. The "wind" (*rûaḥ*) is read operationally as the application of substantive technological intervention to restore atmospheric and oceanic stability.
+**沉降监测**。在整个轨道期间,联盟人员监测放射性沉降物的衰变并进行必要的大气修复。源材料的具体表述:*"在监测放射性水平并对其进行科学性扩散之后……"* 本框架将其读作联盟在打击后有意进行的辐射修复,具体技术机制超出了源材料的指明范围。
 
-### The post-Flood landing and reseeding
+**水的退去**。创世记 8:1 提及"耶洛因叫风吹地,水势渐落",本框架将其读作联盟人员在灾难阶段后有意进行的大气与海洋稳定操作。"风"(*rûaḥ*)在运作上被读作运用实质性的技术干预,以恢复大气与海洋的稳定。
 
-The ark's eventual landing and the subsequent post-Flood operations involved several phases:
+### 洪水后的着陆与重新播种
 
-**The landing**. The ark came to rest on the mountains of Ararat (Genesis 8:4) on the seventeenth day of the seventh month — approximately five months after the Flood's onset. The landing site is identified with the modern Mount Ararat region in eastern Turkey, though the specific location is contested. The framework reads the landing as the alliance's deliberate selection of a high-altitude site in the post-Flood continental configuration where surface conditions had stabilized sufficiently for safe landing.
+方舟最终的着陆及随后洪水后行动包含若干阶段:
 
-**The bird-release sequence**. Genesis 8:6–12 records Noah's release of the raven and the dove as tests of the surface conditions. The framework reads this as the specific operational sequence by which Noah verified that the surface conditions were habitable, with the dove's eventual return with an olive branch (Genesis 8:11) serving as the specific evidence that vegetation had begun to re-establish.
+**着陆**。方舟于七月十七日——即洪水开始后约五个月——停在亚拉腊山上(创世记 8:4)。着陆地点被认定为现代土耳其东部的亚拉腊山区,具体位置存在争议。本框架将着陆读作联盟在洪水后大陆构造中,有意选择地表条件已足够稳定可供安全着陆的高海拔地点。
 
-**The disembarkation**. Genesis 8:15–19 records Noah's disembarkation from the ark with his family and the animals at the divine command. The framework reads this as the alliance's authorization for Noah's family to begin the post-Flood reconstruction.
+**放鸟序列**。创世记 8:6—12 记载挪亚放出乌鸦与鸽子,以测试地表条件。本框架将此读作挪亚验证地表条件是否可供居住的具体运作序列,鸽子最终带回橄榄枝(创世记 8:11)是植被开始重新建立的具体证据。
 
-**The post-Flood reseeding**. The animals released from the ark (and the additional genetic-material reconstruction subsequently conducted) provided the foundational populations for the post-Flood biosphere. The specific reseeding operation involved the alliance's continuing technical support across an extended period — months to years following the disembarkation — during which the broader biosphere was reconstructed from the preserved genetic material. The framework reads this as a substantial technical operation, with the alliance personnel actively conducting the reseeding work alongside Noah's family's broader resettlement activities.
+**离船**。创世记 8:15—19 记载挪亚奉神圣命令带着家人与动物离开方舟。本框架将此读作联盟授权挪亚一家开始洪水后的重建。
 
-**The post-Flood return of the seven lineages**. The source material specifies that the ark also carried representatives of the seven antediluvian creator-team lineages, with each lineage being returned to its original geographic region after the Flood: *"Each race of humanity was then returned to its original place of creation."* The framework reads this as the alliance's restoration of the broader pre-Flood human population's geographic distribution across the post-Flood continental configuration, with the post-Flood populations descending from the small founder groups of each lineage.
+**洪水后的重新播种**。从方舟释放的动物(以及随后进行的额外遗传材料重建)为洪水后的生物圈提供了基础种群。具体的重新播种行动在较长时期内(离船后数月至数年)涉及联盟持续的技术支持,期间更广义的生物圈从所保存的遗传材料中重建。本框架将此读作一项实质性的技术行动,联盟人员与挪亚一家更广义的重新定居活动并行,主动进行重新播种工作。
 
-### The Noahic covenant founding
+**七支世系的洪水后回归**。源材料指明方舟还携带了七支洪水前创造团队世系的代表,洪水后每支世系都被送回其原始地理区域:*"每个人种随后被送回其原始的创造之地。"* 本框架将此读作联盟在洪水后大陆构造中恢复更广义洪水前人类人口的地理分布,洪水后人口由每支世系少量创始群体衍生而来。
 
-The post-Flood altar event recorded in Genesis 8:20–9:17 is, on the framework's reading, the founding moment of the broader Alliance. The principal events:
+### 挪亚之约的创立
 
-**Noah's altar and burnt offering**. Genesis 8:20 records Noah's construction of an altar and his offering of "burnt offerings" of "every clean beast" and "every clean fowl." The framework reads this as the specific human-side ceremonial gesture that initiated the formal alliance relationship — the human party's offering of recognition and gratitude to the exiled creators who had preserved them through the catastrophe.
+按本框架的读法,创世记 8:20—9:17 所记的洪水后祭坛事件,是更广义联盟的奠基时刻。主要事件:
 
-**The covenant terms**. Genesis 9:8–17 records the formal terms of the covenant: the creators' commitment never to participate in another destruction of humanity, the rainbow as the visible sign of the covenant. The framework reads these terms as the founding moment of the Alliance's specific bilateral obligations.
+**挪亚的祭坛与燔祭**。创世记 8:20 记载挪亚筑坛,献"各种洁净的牲畜"与"各种洁净的飞鸟"为"燔祭"。本框架将此读作启动正式联盟关系的具体人类一方的礼仪行为——人类一方对在灾难中保全他们的被流放创造者表示承认与感谢的献祭。
 
-**The Alliance founding**. The detailed treatment of the Alliance's founding lives in the [The Alliance](../the-alliance/) entry. For the Great Flood entry, the principal point is that the post-Flood altar event constitutes the operational outcome of the Flood — the establishment of the formal cross-civilizational political body that would structure all subsequent Eloha-human relations.
+**约的条款**。创世记 9:8—17 记载约的正式条款:创造者承诺永不参与另一次对人类的毁灭,以彩虹为约的可见印记。本框架将这些条款读作联盟具体双边义务的奠基时刻。
 
-## Mechanisms and operational content
+**联盟的创立**。联盟创立的详尽处理见 {% wiki(slug="the-alliance") %}联盟{% end %} 词条。对于大洪水词条而言,主要要点是:洪水后的祭坛事件构成了洪水的运作成果——确立了将构造一切随后耶洛因—人类关系的正式跨文明政治机构。
 
-The framework's reading of the Flood's specific mechanisms warrants direct treatment, given the substantial divergence from the conventional reading of the Genesis narrative.
+## 机制与运作内容
 
-### The nuclear weapons mechanism
+鉴于与创世记叙事常规读法的实质性分歧,本框架对洪水具体机制的读法值得直接处理。
 
-The framework reads the Flood's destructive mechanism as **nuclear weapons impacts** rather than as supernatural divine intervention or as natural meteorological catastrophe. The source material is explicit on this point: the Council *"decided from their distant planet to destroy all life on Earth by sending nuclear missiles."*
+### 核武器机制
 
-The specific implications of this reading:
+本框架将洪水的毁灭机制读作**核武器撞击**,而非超自然神圣干预或自然气象灾难。源材料对此明确表述:议会*"从他们遥远的星球决定通过发射核导弹来毁灭地球上的一切生命。"*
 
-- The "forty days and forty nights" of rain (Genesis 7:12) is read as the period of severe atmospheric disturbance following the impacts, with the precipitation reflecting both impact-generated atmospheric disruption and fallout-bearing rain across the affected zones.
-- The "fountains of the great deep" being "broken up" (Genesis 7:11) is read as the impact-generated tsunami effects propagating across the supercontinent's coastlines.
-- The "windows of heaven" being "opened" (Genesis 7:11) is read as the atmospheric phenomena resulting from the impacts (cloud generation, precipitation effects, atmospheric circulation disruption).
-- The 150 days during which "the waters prevailed upon the earth" (Genesis 7:24) is read as the orbital period during which the radioactive fallout decayed to safe levels.
-- The post-Flood divine "wind" that "passed over the earth" (Genesis 8:1) is read as the alliance's deliberate atmospheric remediation.
+该读法的具体含义:
 
-The reading involves substantial reinterpretation of the conventional flood-as-meteorological-event reading. The framework does not deny that substantial water-based effects occurred (the continental tidal waves, the atmospheric precipitation, the broader oceanic disruption); the framework's specific claim is about the underlying mechanism that produced these effects.
+- "四十昼夜"的雨(创世记 7:12)被读作撞击后严重大气扰动的时期,降水既反映撞击所产生的大气扰动,也反映波及区域上含放射性沉降物的降雨。
+- "大渊的泉源"被"裂开"(创世记 7:11)被读作沿超大陆海岸线传播的撞击所产生的海啸效应。
+- "天上的窗户"被"敞开"(创世记 7:11)被读作撞击所产生的大气现象(云的生成、降水效应、大气环流扰动)。
+- "水势浩大,在地上共一百五十天"(创世记 7:24)被读作放射性沉降物衰减至安全水平所需的轨道周期。
+- 洪水后神圣的"风""吹地"(创世记 8:1)被读作联盟有意进行的大气修复。
 
-### The continental fragmentation
+该读法对常规的洪水—气象事件读法涉及实质性的重新诠释。本框架并不否认实质性的水体效应曾经发生(大陆性海啸、大气降水、更广义的海洋扰动);本框架的具体主张是关于产生这些效应的潜在机制。
 
-The framework's reading of the Flood's geological consequences is one of the corpus's sharpest single disagreements with mainstream science. The framework reads the modern continental configuration as the result of the Flood event's continental-fragmentation effects, with the ongoing continental drift being the residual momentum from the original Gemini-age displacement.
+### 大陆分裂
 
-This reading is substantially incompatible with the mainstream geological position, which places the Pangaean breakup at approximately 175 million years ago and treats the modern continental drift as driven by mantle convection across the long subsequent geological history. The corpus's reading requires substantial reinterpretation of the paleomagnetic, fossil-distribution, continental-margin-matching, and direct GPS-measurement evidence that mainstream geology adduces for the long timeline.
+本框架对洪水地质后果的读法是文集与主流科学最尖锐的单一分歧之一。本框架将现代大陆构造读作洪水事件大陆分裂效应的结果,持续的大陆漂移是双子座时代原初位移的残余动量。
 
-The framework does not pretend to have resolved the geological evidence in its favor. The corpus's claim is that the alternative reading is internally consistent, that it makes specific predictions (the petroleum ring distribution that Nehring identified at the Hudson Institute) that the mainstream framework does not make, and that the broader credibility of the framework rests on convergences elsewhere rather than on a complete resolution of the geological question. The detailed treatment of the catastrophist-vs-uniformitarian question lives in the corpus's broader chapter material on the Age of Gemini.
+该读法与主流地质学立场实质性不兼容,后者将盘古大陆解体定在约 1.75 亿年前,并将现代大陆漂移视为长期后续地质历史中地幔对流驱动。文集的读法要求对古地磁、化石分布、大陆边缘匹配以及主流地质学为长时间尺度所引述的直接 GPS 测量证据进行实质性重新诠释。
 
-### The orbital ark mechanism
+本框架并不假装已经解决了对其有利的地质证据问题。文集的主张是:替代读法在内部具有一致性,它做出了主流框架不做出的具体预测(Nehring 在哈德逊研究所识别出的石油环分布),框架的更广义可信度依赖于他处的趋同证据,而非地质问题的全面解决。灾变论—均变论问题的详细处理见文集更广义的双子座时代章节材料。
 
-The framework reads the ark as an orbital spacecraft rather than as a wooden boat. The principal evidence:
+### 轨道方舟机制
 
-- The Hebrew *tevah* meaning "closed vessel" or "container" rather than "boat"
-- The Genesis 7:17 phrasing "lift up above the earth" rather than "lift up on the water"
-- The 150-day duration that, the framework argues, would have been substantially impractical for a wooden vessel carrying every species of animal but is consistent with orbital sustainment of a smaller human crew with genetic-cargo preservation
-- The source material's explicit clarification that the vessel "would orbit the Earth during the cataclysm"
-- The Genesis 6:16 reference to "three stories" being read as the spacecraft's three deck levels
+本框架将方舟读作轨道飞船,而非木船。主要证据:
 
-The reading involves substantial reinterpretation of the conventional ark-as-wooden-boat reading. The framework's specific claim is about the underlying technical character of the vessel, with the Genesis narrative's specific descriptions reflecting the human witnesses' available vocabulary rather than the actual technical reality.
+- 希伯来语 *tevah* 意为"封闭的容器"或"容器",而非"船"
+- 创世记 7:17 的措辞"从地上漂起",而非"在水上漂起"
+- 本框架认为,150 天的持续时间对于一艘载有每种动物的木船而言实质上不切实际,但与一艘较小的人类船员加上遗传载荷保存的轨道维持相一致
+- 源材料明确澄清该容器"将在灾难期间环绕地球运行"
+- 创世记 6:16 的"三层"被读作飞船的三层甲板
 
-### The genetic-cargo mechanism
+该读法对常规的方舟—木船读法涉及实质性的重新诠释。本框架的具体主张是关于容器潜在的技术性质,创世记叙事的具体描述反映了人类见证者可用的词汇,而非实际的技术现实。
 
-The framework reads the ark's actual cargo as substantially **genetic material** rather than as living pairs of every species. The principal evidence:
+### 遗传载荷机制
 
-- The source material's explicit clarification: *"a single living cell of each species, male and female, is all that is required to recreate a whole being."*
-- The practical impossibility of preserving living pairs of all of Earth's millions of species (current estimates: approximately 8.7 million species) on any plausible vessel for 150 days
-- The post-1996 demonstration of cloning capability (Dolly the sheep) showing that cellular regeneration of complete organisms is technically achievable with sufficient infrastructure
-- The contemporary biobanking infrastructure (Frozen Zoo, Svalbard Global Seed Vault) demonstrating the trajectory toward what the source's framework requires for the ark operation
+本框架将方舟的实际载荷读作实质性的**遗传材料**,而非每种物种的活体配对。主要证据:
 
-The reading involves substantial reinterpretation of the conventional two-of-every-kind cargo reading. The framework's specific claim is that the underlying preservation operation was conducted at the cellular-genetic level rather than at the whole-organism level, with the Genesis text's specific descriptions reflecting the human-recordable account of the operation rather than the actual technical reality.
+- 源材料的明确澄清:*"每个物种、一雌一雄的单个活细胞,即足以重造整个生物。"*
+- 在任何可信容器上将地球数百万物种(目前估计约 870 万种)的活体配对保存 150 天在实际上不可能
+- 1996 年后克隆能力的证明(克隆羊多莉)显示,凭借足够基础设施,通过细胞再生完整生物在技术上可达成
+- 当代生物样本库基础设施(冷冻动物园、斯瓦尔巴全球种子库)展示了通向源材料框架所要求的方舟行动的发展轨迹
 
-### The post-strike radiological remediation
+该读法对常规"各样两个"载荷读法涉及实质性的重新诠释。本框架的具体主张是,潜在的保存行动是在细胞—遗传层面而非整体生物层面进行,创世记文本的具体描述反映了对该行动的人类可记录陈述,而非实际的技术现实。
 
-The framework reads the alliance's post-Flood radiological remediation as a substantial technical operation. The source material's specific phrasing: *"After monitoring the level of radioactivity and dispersing it scientifically..."* This is read by the framework as deliberate technological intervention to restore atmospheric and surface habitability following the nuclear weapons strike, with the specific technical mechanisms being beyond what the source material specifies but consistent with the broader civilizational technology level the framework attributes to the alliance.
+### 打击后辐射修复
 
-## Consequences and aftermath
+本框架将联盟洪水后的辐射修复读作一项实质性的技术行动。源材料的具体表述:*"在监测放射性水平并对其进行科学性扩散之后……"* 本框架将其读作核武器打击后为恢复大气与地表宜居性所做的有意技术干预,具体技术机制超出源材料的指明范围,但与本框架归于联盟的更广义文明技术水平一致。
 
-The Flood's consequences extended substantially beyond the immediate catastrophic effects, structuring the broader post-Flood political, geographical, biological, and religious development.
+## 后果与余波
 
-### The geographical consequences
+洪水的后果实质性地延伸至直接灾难效应之外,构造了更广义的洪水后政治、地理、生物与宗教发展。
 
-The fragmentation of the Pangaean supercontinent produced a substantially different post-Flood geographical configuration than the pre-Flood arrangement. The principal consequences:
+### 地理后果
 
-**The continental redistribution**. The seven antediluvian creator-team lineages, which had developed in distinct regions of the unified supercontinent, were now distributed across the fragmented continents. The geographic barriers between the lineages, which had not existed in the pre-Flood unified configuration, now isolated each lineage's subsequent civilizational development to substantial extent. The cultural, linguistic, and racial distinctness of the modern human populations reflects this post-Flood geographic fragmentation combined with the original factional differences of their respective creator teams.
+盘古超大陆的分裂产生了与洪水前实质不同的洪水后地理构造。主要后果:
 
-**The mountain-range formation**. The continental fragments, in motion following the breakup, collided with one another along their new margins. The young mountain ranges that characterize the modern continents (the Himalayas, Andes, Rocky Mountains, Alps, Australian Great Dividing Range) are read by the framework as products of the Flood event and its immediate post-Flood tectonic adjustments rather than of the million-year timelines mainstream geology assigns to them.
+**大陆再分布**。曾在统一超大陆不同区域中发展的七支洪水前创造团队世系,如今被分布在分裂的各大陆上。世系之间在洪水前统一构造中不存在的地理障碍,如今在相当程度上隔离了各世系随后的文明发展。现代人口在文化、语言与种族上的差异性,反映了洪水后的地理分裂与其各自创造团队原有派系差异的结合。
 
-**The Antarctic preservation**. The Antarctic continental fragment, carrying with it the tropical vegetation and fauna that had flourished in the pre-Flood unified climate, drifted south toward the pole and was progressively covered with ice as the climate shifted. The preserved tropical fossils recovered from beneath the Antarctic ice are read by the framework as fossil traces of the Antarctic portion of the pre-Flood supercontinent.
+**山脉形成**。处于运动中的大陆碎片在解体后沿新的边缘相互碰撞。构成现代大陆特征的年轻山脉(喜马拉雅、安第斯、落基山、阿尔卑斯、澳大利亚大分水岭)在本框架的读法中,是洪水事件及其直接洪水后构造调整的产物,而非主流地质学归之于百万年时间尺度的产物。
 
-**The Mediterranean and other inland-sea formations**. Various inland seas and isolated water bodies that did not exist in the pre-Flood configuration formed during and after the continental fragmentation, contributing to the modern hydrological geography.
+**南极洲的保存**。南极洲大陆碎片承载着曾在洪水前统一气候中繁茂的热带植被与动物群,向南漂向极点,随着气候变化逐渐被冰雪覆盖。在南极冰下找到的被保存的热带化石,在本框架的读法中是洪水前超大陆的南极部分的化石遗迹。
 
-### The biological consequences
+**地中海及其他内陆海的形成**。在洪水前构造中并不存在的各种内陆海与孤立水体,在大陆分裂期间及之后形成,促成了现代水文地理。
 
-The Flood produced one of the most substantial biological events in Earth's history. The principal consequences:
+### 生物后果
 
-**The mass extinction**. The broader pre-Flood biosphere on the supercontinent's surface was destroyed in the catastrophic phase, with the post-Flood biosphere being reconstructed substantially from the genetic cargo preserved in the ark. The pre-Flood megafauna (including the surviving dinosaur populations the source material treats as having persisted into the late antediluvian period) were largely not regenerated, with the post-Flood biosphere having a substantially different composition than the pre-Flood biosphere.
+洪水产生了地球史上最实质性的生物事件之一。主要后果:
 
-**The post-Flood reseeding**. The genetic cargo regenerated produced the foundational populations for the post-Flood biosphere, with the alliance's continuing technical support during the reseeding period providing the operational infrastructure for the biosphere's reconstruction. The contemporary biosphere is, on the framework's reading, the post-Flood reconstruction rather than a continuous descent from the pre-Flood biosphere.
+**大规模灭绝**。超大陆地表更广义的洪水前生物圈在灾难阶段被毁灭,洪水后的生物圈主要从方舟中保存的遗传载荷重建。洪水前的大型动物群(包括源材料认为延续至洪水前晚期的尚存恐龙群体)大多未被再生,洪水后生物圈的组成与洪水前生物圈实质不同。
 
-**The human population bottleneck**. The post-Flood human population descended from a small founder group — Noah's eight family members plus the representatives from the seven lineages preserved through the operation. This is a severe genetic bottleneck, and the framework predicts a detectable signature in the genetic record of all subsequent human populations: reduced genetic diversity dating to the bottleneck event with gradual recovery as the population subsequently expanded. Modern population-genetics research has identified various potential bottlenecks in human evolutionary history; the corpus reads the Gemini-age Flood as the specific bottleneck event the framework predicts, with the genetic record's specific dating being a research question that has not yet been definitively resolved.
+**洪水后的重新播种**。再生的遗传载荷产生了洪水后生物圈的基础种群,联盟在重新播种期间持续的技术支持提供了生物圈重建的运作基础设施。按本框架的读法,当代生物圈是洪水后的重建,而非自洪水前生物圈连续传承而来。
 
-### The political consequences
+**人类种群瓶颈**。洪水后的人类种群源自一个小创始群体——挪亚一家八口,加上通过行动所保存的七支世系代表。这是一种严重的遗传瓶颈,本框架预测在所有随后人类种群的遗传记录中应有可检测的特征:在瓶颈事件时降低的遗传多样性,随着种群随后扩张而逐渐恢复。现代种群遗传学研究已识别人类演化史上多个潜在瓶颈;文集将双子座时代的洪水读作本框架所预测的特定瓶颈事件,遗传记录中的具体定年仍是尚未明确解决的研究问题。
 
-The Flood's political consequences were substantial and structured the subsequent post-Flood political development:
+### 政治后果
 
-**The Alliance founding**. The post-Flood Noahic covenant established the formal Alliance between the exiled creators and the surviving humans, structuring all subsequent Eloha-human relations. The detailed treatment lives in the [The Alliance](../the-alliance/) entry.
+洪水的政治后果是实质性的,构造了随后洪水后的政治发展:
 
-**The Council-Alliance opposition**. The Flood event hardened the political opposition between the home-world Council and the exiled-creator-and-human Alliance, producing the late-Gemini conflict that would culminate in the Tower of Babel intervention and the war in heaven. The Alliance's defiance of the Council's destruction order through the ark operation made the Alliance's position politically explicit in a way that the previous exile had not.
+**联盟的创立**。洪水后挪亚之约确立了被流放的创造者与幸存人类之间的正式联盟,构造了一切随后耶洛因—人类的关系。详尽的处理见 {% wiki(slug="the-alliance") %}联盟{% end %} 词条。
 
-**The Tower of Babel and subsequent interventions**. The post-Flood Eden lineage's rapid recovery and reconstruction (under the exiled creators' continuing teaching) produced, within centuries, the Tower of Babel project that would prompt the Council's subsequent intervention to scatter the post-Flood scientific elite. The pattern of Council intervention against alliance-mediated human technological development was established in this period and would continue across the subsequent ages.
+**议会—联盟的对立**。洪水事件加剧了母星议会与被流放创造者及人类联盟之间的政治对立,产生了在双子座时代末期酿成巴别塔干预与天上之战的冲突。联盟通过方舟行动违抗议会的毁灭命令,使其政治立场以先前流放并未达到的方式变得明确。
 
-### The religious-cultural consequences
+**巴别塔与随后的干预**。在被流放的创造者持续教导下,洪水后伊甸世系迅速恢复重建,在数个世纪内便产生了巴别塔项目,促使议会随后进行干预以驱散洪水后的科学精英。议会针对联盟所中介的人类技术发展进行干预的模式,在这一时期得以确立,并将在随后各时代中延续。
 
-The Flood's religious and cultural consequences have been substantial across the subsequent four-and-a-half millennia:
+### 宗教—文化后果
 
-**The covenant tradition's foundation**. The Noahic covenant became the foundational text for the broader Hebrew Bible's covenant tradition, with the subsequent covenants (Abrahamic, Mosaic, Davidic, New) being successive re-formations of the original covenant relationship. The covenant tradition's central place in Jewish, Christian, and Islamic religious life reflects the Flood event's foundational political-religious role.
+洪水的宗教与文化后果在随后四千五百年中是实质性的:
 
-**The flood-tradition preservation across cultures**. The global recurrence of flood traditions across more than two hundred cultures preserves substantial fragmentary memory of the Gemini-age event in various culturally specific forms. The framework reads this cross-cultural preservation as substantial evidence of the event's historical character, with the specific cultural traditions reflecting the various lineages' specific preservations.
+**约的传统之基础**。挪亚之约成为更广义希伯来圣经约的传统的奠基文本,随后的诸约(亚伯拉罕之约、摩西之约、大卫之约、新约)是原初约关系的连续再形成。约的传统在犹太、基督教与伊斯兰宗教生活中的中心地位,反映了洪水事件奠基性的政治—宗教角色。
 
-**The symbolic transformations**. The Flood event substantially shaped subsequent symbolic and religious thought, with imagery of cosmic water, divine judgment, ark-as-salvation, and rainbow-as-promise developing extensive elaborations across the subsequent religious traditions.
+**洪水传统在各文化中的保存**。两百多个文化中洪水传统的全球反复出现,以各种文化特有的形式保留了对双子座时代事件的实质性片段记忆。本框架将此跨文化保存读作事件历史性质的实质性证据,各具体文化传统反映了各世系特定的保存。
 
-## Modern reinterpretations
+**象征转化**。洪水事件实质性地塑造了随后的象征与宗教思想,宇宙之水、神圣审判、方舟作为救赎、彩虹作为应许的意象在随后宗教传统中发展出广泛的阐发。
 
-The Flood material has been the subject of substantial modern reinterpretive engagement across multiple traditions. The principal strands:
+## 现代重新诠释
 
-### Mainstream historical-critical biblical scholarship
+洪水材料在多个传统中被实质性的现代重新诠释所投入。主要脉络:
 
-Mainstream historical-critical scholarship treats the Genesis flood narrative as a composite of distinct source documents reflecting Israelite religious development. The principal positions:
+### 主流历史批判圣经学界
 
-**The documentary hypothesis** (Wellhausen and successors) identifies the Yahwist (J) and Priestly (P) sources as the principal contributors to the final-form Genesis narrative. The J source (c. 10th–9th century BCE) provides the older narrative material with its distinctive features (Yahweh as divine name, seven pairs of clean animals, forty-day duration); the P source (c. 6th–5th century BCE) provides the later editorial framework with its distinctive features (Elohim as divine name, single pairs of all animals, 150-day duration, elaborate dating notation).
+主流历史批判学界将创世记洪水叙事视为反映以色列宗教发展的不同源文件的合成。主要立场:
 
-**The Mesopotamian dependence hypothesis** holds that the Hebrew flood narrative drew substantially on the older Mesopotamian flood traditions through cultural diffusion and direct textual borrowing. The structural and detailed parallels between Genesis 6–9 and the Atra-ḫasīs / Gilgamesh / Eridu Genesis flood narratives are treated as evidence of dependence rather than as evidence of common preservation of an actual historical event.
+**文献假说**(Wellhausen 及其后继者)将雅伟典(J)与祭司典(P)识别为最终形式创世记叙事的主要贡献者。J 源(约公元前 10—9 世纪)提供较早的叙事材料及其显著特征(以耶和华为神名,洁净动物七对,四十天持续时间);P 源(约公元前 6—5 世纪)提供较后的编辑框架及其显著特征(以耶洛因为神名,所有动物一对,150 天持续时间,详尽的日期标注)。
 
-**The aetiological-mythological reading** treats the flood narrative as theological-mythological construction reflecting Israelite religious-philosophical reflection on themes of divine judgment, divine mercy, and human sinfulness rather than as historical record.
+**美索不达米亚依赖假说**主张希伯来洪水叙事通过文化扩散及直接文本借用,实质性地依赖于更古老的美索不达米亚洪水传统。创世记 6—9 章与阿特拉哈西斯/吉尔伽美什/埃利都创世记之间结构与细节上的平行被视为依赖的证据,而非对实际历史事件共同保存的证据。
 
-The framework's reading partially aligns with the historical-critical observations about source-document composition while differing fundamentally on the underlying historical referent. The corpus accepts the J/P composite analysis at the textual level while reading both source traditions as preserving aspects of an actual historical event. The corpus rejects the diffusionist reading of the Mesopotamian parallels, treating the cross-tradition convergence as evidence of common historical preservation rather than as evidence of textual dependence. The corpus rejects the purely aetiological-mythological reading, treating the narrative as preserving substantively accurate operational content despite its religious-narrative framing.
+**起因—神话学读法**将洪水叙事视为反映以色列宗教—哲学对神圣审判、神圣怜悯及人类罪性主题反思的神学—神话构造,而非历史记录。
 
-### Mainstream geology and paleontology
+本框架的读法在部分上与历史批判学关于源文件合成的观察一致,但在潜在的历史指代上存在根本差异。文集在文本层面接受 J/P 合成分析,但将两种源传统都读作保留了实际历史事件的若干方面。文集拒绝美索不达米亚平行的扩散主义读法,将各传统间的趋同视为共同历史保存的证据,而非文本依赖的证据。文集拒绝纯起因—神话学读法,认为该叙事尽管以宗教—叙事框架呈现,但保留了实质准确的运作内容。
 
-Mainstream geology and paleontology do not recognize any global Flood event in the Holocene matching the framework's description. The principal positions:
+### 主流地质学与古生物学
 
-**The plate-tectonic framework** places the Pangaean breakup at approximately 175 million years ago and treats the modern continental drift as driven by mantle convection across the long subsequent geological history. No event matching the corpus's framework has been identified in the geological record at the corpus's date (c. 6,690 BCE).
+主流地质学与古生物学并不承认全新世内存在任何与本框架描述相符的全球洪水事件。主要立场:
 
-**The catastrophist-uniformitarian distinction** has substantially shifted in mainstream geology over the past several decades, with mainstream geology now accepting that catastrophic events (asteroid impacts, volcanic supereruptions, megafloods) play substantial roles in Earth's history alongside the gradual processes that strict uniformitarianism emphasized. However, the catastrophic events that mainstream geology accepts are substantially smaller and earlier than the corpus's Gemini-age event would require.
+**板块构造框架**将盘古大陆解体定在约 1.75 亿年前,将现代大陆漂移视为长期后续地质历史中地幔对流的驱动。在文集所主张的日期(约公元前 6,690 年)未发现地质记录中与文集框架相符的事件。
 
-**Specific recent-catastrophe research** includes the Younger Dryas Impact Hypothesis (proposing a cosmic impact event approximately 12,800 years ago that triggered the Younger Dryas climate shift), the Tall el-Hammam airburst proposal (Bunch et al., 2021, proposing a catastrophic airburst event at the Bronze Age site identified by some scholars with biblical Sodom), and various other catastrophist research programs. These programs propose substantial catastrophic events at scales and dates that earlier mainstream geology did not allow.
+**灾变论与均变论的区分**在过去几十年中,主流地质学的立场已实质性转变,如今主流地质学已接受灾难事件(小行星撞击、火山超喷发、巨型洪水)在地球史中的实质角色,与严格均变论所强调的渐进过程并存。然而,主流地质学所接受的灾难事件在规模与时间上实质性地小于、早于文集双子座时代事件所要求的规模。
 
-The framework's reading is sharply at variance with the mainstream geological position. The corpus does not pretend to have resolved this variance; the corpus's claim is that the framework is at least competitive with the mainstream alternatives at specific empirical points (the petroleum ring distribution, the global flood-tradition pattern, the population-bottleneck genetic signatures) and deserves serious consideration despite the substantial mainstream disagreement.
+**具体的近期灾难研究**包括新仙女木撞击假说(提出约 12,800 年前一次宇宙撞击事件触发了新仙女木气候转变)、Tall el-Hammam 空爆提案(Bunch 等,2021,提出在被部分学者认定为圣经所多玛的青铜时代遗址发生灾难性空爆),以及其他各种灾变论研究项目{{ footnote(id="5") }}。这些项目所提出的灾难事件在规模与日期上超过了较早期主流地质学所允许的范围。
 
-### Contemporary catastrophist research
+本框架的读法与主流地质学立场明显有别。文集并不假装已经解决这种分歧;文集的主张是,本框架在具体经验问题上(石油环分布、全球洪水传统模式、种群瓶颈遗传特征)至少与主流替代方案具有竞争力,尽管存在实质性的主流分歧,但仍值得严肃考虑。
 
-Several contemporary research programs propose substantial recent catastrophic events that bear on the framework's broader reading. The principal cases:
+### 当代灾变论研究
 
-**Randall Carlson's catastrophist framework** integrates various findings from end-of-Pleistocene catastrophic events (the Missoula Floods, the Younger Dryas, the various rapid landscape changes documented across the Holocene) into a broader catastrophist reading of recent Earth history. Carlson's work is not mainstream consensus but represents a substantive contemporary research program that has accumulated significant evidence and that bears directly on the kind of framework the corpus's account requires.
+若干当代研究项目提出了与本框架更广义读法相关的实质性近期灾难事件。主要案例:
 
-**The Younger Dryas Impact Hypothesis** (Firestone et al., 2007 and successors) proposes that a cosmic impact event approximately 12,800 years ago triggered the Younger Dryas climate shift and contributed to the Pleistocene megafaunal extinction. The hypothesis has been substantially debated in mainstream science, with both supporting and critical research programs continuing to develop. The corpus does not identify the Younger Dryas event with the Gemini-age Flood (the dating is substantially older than the corpus's framework) but registers the Younger Dryas research as evidence that mainstream science is moving toward recognition of substantial recent catastrophic events.
+**Randall Carlson 的灾变论框架**将更新世末期灾难事件的各种发现(米苏拉洪水、新仙女木期、全新世中记录到的各种快速地形变化)整合到对近期地球历史的更广义灾变论读法中。Carlson 的工作并非主流共识,但代表了一项实质性的当代研究项目,已积累相当证据,并直接关系到文集记述所需的那种框架。
 
-**The Bunch et al. Tall el-Hammam research** (2021) proposes that a catastrophic airburst event destroyed the Bronze Age site at Tall el-Hammam in the Jordan Valley around 1650 BCE. The proposal involves substantial physical evidence (high-temperature melt features, shock-metamorphism signatures, anomalous mineral deposits) that the research team interprets as cosmic-impact debris. The corpus reads the Tall el-Hammam findings as consistent with the Sodom intervention (treated more fully in the [Sodom and Gomorrah](../sodom-and-gomorrah/) entry, when written) rather than with the Gemini-age Flood, but registers the broader research as evidence that events of the type the corpus's framework predicts are now finding substantial physical-evidence support.
+**新仙女木撞击假说**(Firestone 等,2007 及其后继者)提出约 12,800 年前一次宇宙撞击事件触发了新仙女木气候转变,并促成更新世大型动物灭绝。该假说在主流科学中已被实质性辩论,支持与批判的研究项目持续展开。文集并不将新仙女木事件与双子座时代洪水相认同(其纪年实质早于文集框架),但将新仙女木研究登记为主流科学正在向承认实质性近期灾难事件靠拢的证据。
 
-**The Black Sea Deluge hypothesis** (Ryan and Pitman, 1998) proposes a catastrophic flooding event in the Black Sea region around 5600 BCE caused by Mediterranean waters breaking through the Bosporus Strait. The hypothesis is supported by sediment evidence showing the transition from freshwater to marine conditions at approximately the proposed date. The corpus reads the Black Sea Deluge as too small and too localized to be the Gemini-age Flood itself but suggests it may be one of the cascade of consequences that followed from the larger event the framework places at this period.
+**Bunch 等关于 Tall el-Hammam 的研究**(2021)提出约公元前 1650 年前后,一次灾难性空爆事件摧毁了约旦河谷 Tall el-Hammam 的青铜时代遗址。该提案涉及实质性的物理证据(高温熔融特征、冲击变质特征、异常矿物沉积),研究团队将其诠释为宇宙撞击碎片。文集将 Tall el-Hammam 的发现读作与所多玛干预相符(将在 {% wiki(slug="sodom-and-gomorrah") %}所多玛与蛾摩拉{% end %} 词条中作更详尽处理),而非与双子座时代洪水相符,但将该更广义研究登记为本框架所预测类型事件如今正获得实质性物理证据支持的证据。
 
-The corpus's relationship to contemporary catastrophist research is one of substantial methodological alignment with structural divergence on specific events. The framework shares the catastrophist tradition's broader argument that mainstream geology has substantially underestimated the role of catastrophic events in recent Earth history; the framework's specific Gemini-age Flood reading goes beyond what any mainstream catastrophist research currently proposes, and the corpus does not claim that any specific catastrophist research program has vindicated the framework's specific claims.
+**黑海洪水假说**(Ryan 与 Pitman,1998)提出约公元前 5,600 年由于地中海海水冲破博斯普鲁斯海峡,黑海地区遭受了灾难性洪水事件。该假说得到沉积证据支持,显示约在所提议的日期由淡水转变为海水。文集将黑海洪水读作过于小且过于局部,不足以构成双子座时代洪水本身,但暗示其可能是本框架置于该时期之较大事件所引发后果级联中的一环。
 
-### Sendy on the Flood
+文集与当代灾变论研究的关系是:在方法论上有实质性的一致,在具体事件上有结构性的分歧。本框架与灾变论传统在更广义论点上一致,即主流地质学实质性地低估了灾难事件在近期地球史中的作用;本框架具体的双子座时代洪水读法超出了任何当前主流灾变论研究所提出的范围,文集并不主张任何具体灾变论研究项目已证实本框架的具体主张。
 
-**Jean Sendy** developed the principal scholarly antecedent of the framework's Flood reading. Sendy's *Ces dieux qui firent le ciel et la terre* (1969) and *La lune, clé de la Bible* (1968) treat the Flood narrative as the record of an actual catastrophic event involving advanced technology rather than as theological-mythological construction. Sendy's specific contributions include the philological-historical reading of the *tevah* as a technical vessel rather than a wooden boat, the recognition that the Hebrew narrative preserves substantive operational content, and the broader treatment of the Flood event within the alliance-mediated history Sendy reconstructed.
+### Sendy 论洪水
 
-The framework's Flood reading is structurally aligned with Sendy's approach while developing it substantially. Sendy provides the principal scholarly antecedent; the framework's specific reading (orbital ark, nuclear weapons mechanism, continental fragmentation, genetic-cargo preservation) extends Sendy's broader approach with substantial specific operational content drawn from the Raëlian source material.
+**让·桑迪**(Jean Sendy)发展了本框架洪水读法主要的学术先驱。Sendy 的《那些创造天地的诸神》(*Ces dieux qui firent le ciel et la terre*,1969)与《月亮,圣经之钥》(*La lune, clé de la Bible*,1968)将洪水叙事视为涉及先进技术的实际灾难事件的记录,而非神学—神话构造。Sendy 的具体贡献包括:将 *tevah* 作为技术容器而非木船的语文学—历史读法;承认希伯来叙事保留了实质性的运作内容;以及将洪水事件置于其重建的联盟所中介历史中的更广义处理。
 
-### Biglino on the Flood
+本框架的洪水读法在结构上与 Sendy 的方法一致,并在其基础上做出实质性的发展。Sendy 提供了主要的学术先驱;本框架的具体读法(轨道方舟、核武器机制、大陆分裂、遗传载荷保存)以源自雷尔派源材料的实质具体运作内容,延展了 Sendy 的更广义方法。
 
-**Mauro Biglino**'s strict-translational engagement with the Flood material is developed across his works. Biglino's specific contributions include:
+### Biglino 论洪水
 
-- The Hebrew *tevah* read as a technical vessel
-- The specific narrative details (the dimensions, the structural features, the cargo specifications) read literally as technical specifications
-- The "windows of heaven" and "fountains of the great deep" read as specific operational events rather than as cosmological mythology
-- The broader Flood narrative read as preserving substantive operational content
+**毛罗·比格利诺**(Mauro Biglino)对洪水材料的严格翻译性投入在其各部著作中展开。Biglino 的具体贡献包括:
 
-The framework's reading is broadly aligned with Biglino's reading at the methodological level, with substantial overlap on specific lexical-philological readings. Biglino does not develop the orbital-spacecraft reading specifically; the framework's specific orbital-mechanics treatment goes beyond Biglino's strict-translational program to include the operational-mechanism reading the Raëlian source material specifies.
+- 希伯来语 *tevah* 被读作技术容器
+- 具体的叙事细节(尺寸、结构特征、载荷规格)被字面读作技术规格
+- "天上的窗户"与"大渊的泉源"被读作具体的运作事件,而非宇宙神话
+- 更广义的洪水叙事被读作保留实质性运作内容
 
-### Wallis on the Flood
+本框架的读法在方法论层面与 Biglino 的读法广泛一致,在具体的词汇—语文学读法上存在实质重叠。Biglino 并未专门发展轨道飞船的读法;本框架具体的轨道力学处理超出 Biglino 的严格翻译项目,纳入了雷尔派源材料所指明的运作机制读法。
 
-**Paul Anthony Wallis**'s engagement with the Flood material across his various works includes substantial treatment of the alliance-mediated reading. Wallis's specific contributions include the structural reading of the Flood event within the broader alliance-Council political conflict, the careful treatment of the ark as advanced technology rather than as wooden boat, and the comparative engagement with parallel ancient flood traditions. Wallis's reading is broadly compatible with the corpus's reading and provides accessible recent treatment of material the framework has been developing through the Sendy-Raëlian tradition.
+### Wallis 论洪水
 
-### The broader ancient-astronaut tradition
+**保罗·安东尼·沃利斯**(Paul Anthony Wallis)在其各种著作中对洪水材料的处理包括对联盟中介读法的实质性处理。Wallis 的具体贡献包括:在更广义联盟—议会政治冲突中对洪水事件的结构读法;对方舟作为先进技术而非木船的细致处理;以及与平行古代洪水传统的比较投入。Wallis 的读法与文集的读法广泛兼容,并为本框架借桑迪—雷尔派传统所发展的材料提供了易读的近期处理。
 
-The broader ancient-astronaut interpretive tradition (von Däniken, Sitchin, Tellinger, others) includes various engagements with the Flood material. The principal positions:
+### 更广义的古代宇航员传统
 
-- **Erich von Däniken** in *Chariots of the Gods* (1968) and successor works treats the flood narrative as preserving memory of advanced-technology intervention, with the ark being a technical vessel rather than a wooden boat. Von Däniken's specific reading is less philologically developed than Sendy's or Biglino's but reaches structurally similar conclusions.
-- **Zecharia Sitchin** in *The 12th Planet* (1976) and successor works develops a substantially different reading, treating the Flood as the result of the Anunnaki's deliberate intervention timed to the Nibiru orbital cycle, with the Mesopotamian flood narratives being treated as the principal source material. Sitchin's specific Anunnaki-Nibiru reading is not adopted by the corpus, but Sitchin's broader treatment of the Flood as alliance-mediated event rather than as natural catastrophe is structurally aligned with the framework's reading.
-- **Michael Tellinger** and various other contemporary ancient-astronaut writers develop further engagements with the Flood material, with various specific positions on mechanisms and consequences.
+更广义的古代宇航员诠释传统(冯·丹尼肯、西琴、Tellinger 等)包括对洪水材料的各种投入。主要立场:
 
-The corpus's relationship to the broader ancient-astronaut tradition is one of structural alignment on the basic interpretive direction (Flood as alliance-mediated event with substantive operational content) with substantial divergence on specific points (the framework's reading does not adopt Sitchin's Nibiru cosmology or various other specific ancient-astronaut readings).
+- **埃里希·冯·丹尼肯**(Erich von Däniken)在《诸神的战车》(*Chariots of the Gods*,1968)及其后续著作中将洪水叙事视为保留先进技术干预的记忆,方舟是技术容器而非木船。冯·丹尼肯的具体读法在语文学发展程度上不及 Sendy 或 Biglino,但在结构上得出相似的结论。
+- **撒迦利亚·西琴**(Zecharia Sitchin)在《第十二个天体》(*The 12th Planet*,1976)及其后续著作中发展了实质不同的读法,将洪水视为阿努纳奇按尼比鲁轨道周期所定有意干预的结果,以美索不达米亚洪水叙事为主要源材料。文集并不采纳西琴具体的阿努纳奇—尼比鲁读法,但西琴将洪水视为联盟所中介事件而非自然灾难的更广义处理,在结构上与本框架的读法一致。
+- **迈克尔·特林格**(Michael Tellinger)及其他各种当代古代宇航员作家对洪水材料进行了进一步投入,对机制与后果有各种具体立场。
 
-### The framework's relationship to the broader landscape
+文集与更广义古代宇航员传统的关系是:在基本诠释方向(将洪水视为具有实质性运作内容的联盟所中介事件)上结构性一致,在具体要点上实质性分歧(本框架的读法不采纳西琴的尼比鲁宇宙观或其他各种具体古代宇航员读法)。
 
-The corpus's Flood reading is positioned within this landscape as follows: aligned with Sendy's, Biglino's, and Wallis's readings as the principal scholarly antecedents; structurally aligned with the broader ancient-astronaut tradition while diverging on specific points; aligned with contemporary catastrophist research in its broader methodological commitments while specifying particular events that go beyond what mainstream catastrophist research currently proposes; structurally distinct from mainstream historical-critical biblical scholarship and mainstream geology at the level of underlying ontology; and developing the specific corpus-internal reading (orbital spacecraft, nuclear weapons mechanism, continental fragmentation, genetic-cargo preservation, Alliance founding) as the framework's distinctive contribution to the broader reinterpretive landscape.
+### 本框架与更广义版图的关系
 
-## Comparative observations
+文集的洪水读法在该版图中的定位如下:与 Sendy、Biglino 与 Wallis 的读法作为主要学术先驱保持一致;与更广义的古代宇航员传统在结构上一致,但在具体要点上存在分歧;在更广义方法论承诺上与当代灾变论研究一致,但所指明的具体事件超出当前主流灾变论研究所提出的范围;在潜在本体论层面与主流历史批判圣经学界及主流地质学具有结构性差异;并将具体的文集内部读法(轨道飞船、核武器机制、大陆分裂、遗传载荷保存、联盟创立)发展为本框架对更广义重新诠释版图的独特贡献。
 
-Flood narratives appear across more than two hundred distinct cultures worldwide, with substantial structural and detailed parallels to the Hebrew Bible's Genesis account. The corpus reads this cross-cultural pattern as substantial evidence of the underlying historical reality the framework describes. The principal cross-cultural cases warrant treatment.
+## 比较观察
 
-### The Mesopotamian flood traditions
+洪水叙事出现于世界两百多个不同文化中,与希伯来圣经的创世记记述存在实质性的结构与细节平行。文集将这种跨文化模式读作本框架所描述的潜在历史现实的实质性证据。主要的跨文化案例值得处理。
 
-The Mesopotamian flood traditions provide the most substantively developed parallels to the Hebrew Bible's Genesis narrative, with substantial textual evidence preserved in cuneiform tablets dating from the third millennium BCE through the first millennium BCE.
+### 美索不达米亚洪水传统
 
-**The *Atra-ḫasīs* epic** (c. 18th century BCE) is the principal Akkadian flood narrative. The epic's three-tablet structure covers the creation of humanity, the divine attempts to reduce the human population (plagues, droughts, famines), and the eventual decision to send the flood. The flood narrative itself includes substantial parallel elements to the Genesis account:
+美索不达米亚洪水传统为希伯来圣经的创世记叙事提供了发展最为实质性的平行,实质性的文本证据保存于公元前第三个千年至公元前第一个千年的楔形文字泥板中。
 
-- A divine warning communicated to a chosen human (Atra-ḫasīs)
-- Detailed instructions for constructing a vessel of specific dimensions
-- The preservation of the chosen human, his family, and animals
-- The duration of the flood (in the Atra-ḫasīs, seven days and seven nights)
-- The release of birds to test the conditions (in the Atra-ḫasīs, a dove, a swallow, and a raven)
-- The post-flood sacrifice and divine response
+***阿特拉哈西斯*史诗**(约公元前 18 世纪)是主要的阿卡德洪水叙事。史诗的三块泥板结构涵盖人类的创造、神祇试图减少人口(瘟疫、干旱、饥荒)以及最终决定派洪水的过程。洪水叙事本身包含与创世记记述实质平行的要素:
 
-The corpus reads the *Atra-ḫasīs* as preserving substantial fragmentary memory of the same underlying Gemini-age event that the Hebrew tradition preserves, with the specific cultural-religious framing reflecting the Mesopotamian tradition's distinctive theological apparatus.
+- 神圣警告传达给选定的人类(阿特拉哈西斯)
+- 关于建造特定尺寸容器的详细指示
+- 选定的人类、其家人及动物的保存
+- 洪水的持续时间(在阿特拉哈西斯中为七昼夜)
+- 放出鸟类以测试条件(在阿特拉哈西斯中为鸽子、燕子和乌鸦)
+- 洪水后的献祭与神圣回应
 
-**The *Epic of Gilgamesh*** Tablet XI preserves the Utnapishtim flood narrative in substantially the same form as the *Atra-ḫasīs* tradition. The Gilgamesh flood narrative is the source through which the Mesopotamian flood material became most widely known, particularly following George Smith's 1872 rediscovery. The detailed parallels with Genesis 6–9 (the specific bird-release sequence, the duration specifications, the post-flood sacrifice) have substantially shaped subsequent comparative-mythology scholarship.
+文集将*阿特拉哈西斯*读作对希伯来传统所保留的同一潜在双子座时代事件之实质性片段记忆的保存,具体的文化—宗教框架反映了美索不达米亚传统独特的神学体系。
 
-**The Sumerian *Eridu Genesis*** preserves the earliest known version of the flood narrative, with Ziusudra ("life of long days") as the parallel figure. The Sumerian account, fragmentary in its preserved form, records substantially the same narrative elements as the later Akkadian and Hebrew traditions. The Sumerian King List divides into pre-Flood and post-Flood sections, with the antediluvian kings receiving substantially extended reigns (some recorded reigns exceeding 28,000 years) before the Flood reduces the human lifespans to the more conventional figures of the post-Flood period.
+***吉尔伽美什史诗***第十一块泥板以与*阿特拉哈西斯*传统实质相同的形式保留了乌特纳皮什提姆的洪水叙事。吉尔伽美什的洪水叙事是美索不达米亚洪水材料得以最广泛知晓的渠道,尤其在 1872 年乔治·史密斯重新发现之后。它与创世记 6—9 章在细节上的平行(具体的放鸟序列、持续时间规定、洪水后献祭)实质性地塑造了随后的比较神话学研究。
 
-The Mesopotamian flood material is treated more fully in the [Atra-ḫasīs](../atra-hasis/) and [Epic of Gilgamesh](../epic-of-gilgamesh/) entries (when written).
+**苏美尔的*埃利都创世记*** 保留了已知最早版本的洪水叙事,以齐乌苏德拉("长寿之日")作为相对应人物。其保存形式残缺的苏美尔记述记录了与后来阿卡德及希伯来传统实质相同的叙事要素。苏美尔王表分为洪水前与洪水后两段,洪水前诸王享有实质性的延长在位时间(部分记录的在位时间超过 28,000 年),洪水将人类寿命缩减为洪水后较为常规的数字。
 
-### The Greek Deucalion narrative
+美索不达米亚洪水材料在 {% wiki(slug="atra-hasis") %}阿特拉哈西斯{% end %} 与 {% wiki(slug="epic-of-gilgamesh") %}吉尔伽美什史诗{% end %} 词条中(待撰写)有更详尽处理。
 
-The Greek tradition preserves the **Deucalion and Pyrrha** flood narrative, with the principal sources being Hesiod (8th century BCE), Apollodorus's *Library* (1st–2nd century CE), and Ovid's *Metamorphoses* (1st century CE). The narrative's principal elements:
+### 希腊的丢卡利翁叙事
 
-- Zeus, angered by the wickedness of the bronze race of humans, decides to send a flood
-- Prometheus warns Deucalion (his son) of the impending flood
-- Deucalion and his wife Pyrrha build a chest (Greek *larnax* or *kibōtos*) and survive the flood
-- The flood lasts nine days (in the Apollodorus version)
-- The chest comes to rest on Mount Parnassus
-- Deucalion and Pyrrha repopulate the earth by throwing stones over their shoulders, with the stones becoming new humans
+希腊传统保留**丢卡利翁与皮拉**洪水叙事,主要来源为赫西俄德(公元前 8 世纪)、阿波罗多罗斯的《书库》(公元 1—2 世纪)和奥维德的《变形记》(公元 1 世纪)。叙事的主要要素:
 
-The Greek tradition's structural parallels to the Hebrew Genesis narrative are substantial: a divine flood judgment, a warned and preserved human couple, a vessel for survival, a post-flood landing on a mountain, and a post-flood repopulation. The specific Greek elaboration (the stones-becoming-humans repopulation mechanism) reflects the Greek tradition's distinctive cultural-mythological framework. The corpus reads the Deucalion tradition as preserving fragmentary memory of the same underlying event in the Greek-tradition cultural form.
+- 宙斯因青铜种族人类的邪恶发怒,决定派洪水
+- 普罗米修斯警告其子丢卡利翁洪水将临
+- 丢卡利翁与妻子皮拉建造一个箱子(希腊语 *larnax* 或 *kibōtos*),在洪水中幸存
+- 洪水持续九天(在阿波罗多罗斯版本中)
+- 箱子停在帕纳塞斯山上
+- 丢卡利翁与皮拉通过将石头扔过肩膀来繁衍地球,石头变成新的人类
 
-### Hindu Manu Vaivasvata
+希腊传统与希伯来创世记叙事的结构平行是实质性的:神圣的洪水审判、受警告并被保存的人类夫妇、用以求生的容器、洪水后停在山上、洪水后的繁衍。希腊特有的阐发(石头变人的繁衍机制)反映了希腊传统独特的文化—神话框架。文集将丢卡利翁传统读作以希腊传统文化形式对同一潜在事件之片段记忆的保存。
 
-The Hindu tradition preserves the **Manu Vaivasvata** flood narrative across multiple sources. The principal texts:
+### 印度的摩奴·毗婆斯瓦
 
-**The *Shatapatha Brahmana*** (c. 9th–7th century BCE) records the foundational Manu flood narrative. Manu, while washing his hands in a river, finds a small fish in his palms. The fish (later revealed as Vishnu's avatar) warns Manu of the impending flood and instructs him to build a vessel. Manu builds the vessel, preserves himself and various seeds and creatures through the flood, and is eventually deposited on a mountain peak as the waters recede. After the flood, Manu performs a sacrifice that produces a daughter, with whom he repopulates humanity.
+印度传统在多种来源中保留**摩奴·毗婆斯瓦**洪水叙事。主要文本:
 
-**The *Mahabharata*** preserves a parallel Manu-Vaivasvata flood narrative with substantial elaboration of the religious-mythological framework.
+***百道梵书***(约公元前 9—7 世纪)记载奠基性的摩奴洪水叙事。摩奴在河中洗手时,在掌中发现一条小鱼。该鱼(后来被揭示为毗湿奴的化身)警告摩奴洪水将临,并指示其建造容器。摩奴建造容器,在洪水中保存了自己、各种种子与生物,水退后最终被安置在山峰上。洪水后,摩奴举行献祭,产生一个女儿,与之繁衍人类。
 
-**The various Puranas** (Bhagavata, Matsya, Vishnu) preserve further elaborations of the Manu flood narrative within their broader cosmological-religious frameworks.
+***摩诃婆罗多***以实质性扩展的宗教—神话框架,保留了一段平行的摩奴—毗婆斯瓦洪水叙事。
 
-The Hindu tradition's structural parallels to the Hebrew Genesis narrative include the divine warning, the preserved human partner, the construction of a vessel, the preservation of seeds and creatures, the post-flood landing on a mountain, and the post-flood repopulation through the surviving human. The corpus reads the Manu tradition as preserving fragmentary memory of the same underlying event in the Indian-subcontinent cultural form, with the specific Vishnu-as-fish-avatar elaboration reflecting the Hindu tradition's distinctive theological apparatus.
+**各《往世书》**(《薄伽梵往世书》《摩蹉往世书》《毗湿奴往世书》)在其更广义的宇宙—宗教框架中,保留了对摩奴洪水叙事的进一步阐发。
 
-### Aztec Tata and Nena
+印度传统与希伯来创世记叙事的结构平行包括神圣警告、受保存的人类伙伴、容器的建造、对种子与生物的保存、洪水后停在山上以及通过幸存的人类进行洪水后繁衍。文集将摩奴传统读作以印度次大陆文化形式对同一潜在事件之片段记忆的保存,具体的毗湿奴化身为鱼的阐发反映了印度传统独特的神学体系。
 
-The Aztec / Mesoamerican tradition preserves the **Tata and Nena** flood narrative within the broader cosmological framework of the five suns. The narrative's principal elements:
+### 阿兹特克的塔塔与内娜
 
-- The fourth sun is destroyed by water
-- The god Tezcatlipoca (or in some versions, Titlacauan) warns the human couple Tata and Nena of the impending flood
-- The couple is instructed to hollow out a great tree as their vessel
-- They survive the flood within the tree
-- After the flood, they begin to repopulate humanity
+阿兹特克 / 中美洲传统在五个太阳的更广义宇宙框架中保留**塔塔与内娜**洪水叙事。叙事的主要要素:
 
-The Aztec tradition's structural parallels to the Hebrew Genesis narrative are substantial despite the substantially different cultural framework. The specific Mesoamerican elaboration (the cosmological five-suns framework, the hollow-tree vessel) reflects the tradition's distinctive cultural-religious context. The corpus reads the Tata-and-Nena tradition as preserving fragmentary memory of the same underlying event in the Mesoamerican cultural form.
+- 第四个太阳被水所毁灭
+- 神特斯卡特利波卡(或在某些版本中为提特拉考安)警告人类夫妇塔塔与内娜洪水将临
+- 这对夫妇被指示掏空一棵大树作为他们的容器
+- 他们在树内幸存洪水
+- 洪水后,他们开始繁衍人类
 
-### Chinese flood traditions
+阿兹特克传统与希伯来创世记叙事的结构平行实质性地存在,尽管文化框架显著不同。中美洲特有的阐发(五个太阳的宇宙框架、空心树容器)反映了该传统独特的文化—宗教语境。文集将塔塔与内娜传统读作以中美洲文化形式对同一潜在事件之片段记忆的保存。
 
-The Chinese tradition preserves multiple flood narratives. The principal cases:
+### 中国洪水传统
 
-**The Gun-Yu flood control narrative** (recorded in the *Shujing* and various other classical Chinese sources) records the great flood of the time of Emperor Yao, with Gun and his son Yu conducting the engineering work to control the flood. The narrative emphasizes the human technological response to the flood rather than the preservation of survivors through the catastrophe.
+中国传统保留了多种洪水叙事。主要案例:
 
-**The Fuxi-Nüwa narrative** preserves a more direct flood-survival narrative. The two figures (in some versions, brother and sister; in others, husband and wife) survive a great flood and repopulate humanity afterward.
+**鲧禹治水叙事**(记载于《尚书》及多种其他中国古典来源)记录尧帝时期的大洪水,鲧及其子禹进行工程治水。该叙事强调人类对洪水的技术回应,而非通过灾难对幸存者的保存。
 
-The Chinese tradition's flood material is structurally distinctive in its emphasis on flood control (Gun-Yu) and its specific cultural-mythological elaborations (Fuxi-Nüwa). The corpus reads the Chinese flood traditions as preserving fragmentary memory of the same underlying event in the East Asian cultural form, with the specific Chinese cultural framework reflecting the tradition's distinctive context.
+**伏羲—女娲叙事**保留了更直接的洪水生存叙事。两位人物(在某些版本中为兄妹,在另一些版本中为夫妇)在一场大洪水中幸存,并在之后繁衍人类。
 
-### Polynesian flood traditions
+中国传统的洪水材料在其强调治水(鲧禹)及其特定的文化—神话阐发(伏羲—女娲)方面在结构上具有特色。文集将中国洪水传统读作以东亚文化形式对同一潜在事件之片段记忆的保存,具体的中国文化框架反映了该传统独特的语境。
 
-Various Polynesian cultures preserve flood narratives with substantial structural parallels to the broader pattern. The principal cases:
+### 波利尼西亚洪水传统
 
-**The Hawaiian Kahinaliʻi narrative** records a great flood in the time of Nuʻu (the Hawaiian Noah), with Nuʻu surviving the flood in a great canoe with his family.
+各种波利尼西亚文化保留了与更广义模式有实质结构平行的洪水叙事。主要案例:
 
-**The Tahitian flood narrative** records a great flood that destroys the broader population, with a small remnant surviving on Mount Pitohiti.
+**夏威夷的 Kahinaliʻi 叙事**记载努阿(夏威夷的挪亚)时期的大洪水,努阿与家人乘大独木舟在洪水中幸存。
 
-**Various Maori traditions** preserve flood narratives within their broader cosmological frameworks.
+**塔希提洪水叙事**记载摧毁更广义人口的大洪水,小群遗民在皮托希提山上幸存。
 
-The Polynesian flood traditions are remarkable for their geographic isolation from the Mesopotamian source region. The framework reads the Polynesian preservations as evidence of the global character of the underlying event, with even the substantially geographically isolated Polynesian populations preserving fragmentary memory of the catastrophic event.
+**各种毛利传统**在其更广义的宇宙框架中保留洪水叙事。
 
-### Australian Aboriginal traditions
+波利尼西亚洪水传统因其在地理上远离美索不达米亚源区而显得引人注目。本框架将波利尼西亚的保存读作潜在事件全球性质的证据,即使在地理上实质性孤立的波利尼西亚人口也保留了对灾难事件的片段记忆。
 
-Various **Australian Aboriginal traditions** preserve flood narratives within the broader Dreamtime cosmological framework. The principal cases:
+### 澳大利亚土著传统
 
-**The Rainbow Serpent traditions** include various flood-related narratives, with the Rainbow Serpent figure serving as both creator and destroyer in different accounts.
+各种**澳大利亚土著传统**在更广义的"梦时代"宇宙框架中保留洪水叙事。主要案例:
 
-**Various regional flood narratives** record specific great-flood events within local cultural-mythological frameworks.
+**彩虹蛇传统**包括各种与洪水相关的叙事,在不同记述中彩虹蛇既作为创造者也作为毁灭者。
 
-The Australian Aboriginal flood material is structurally distinctive in its integration with the broader Dreamtime cosmological framework. The corpus reads the Aboriginal traditions as preserving fragmentary memory of the same underlying event in the substantially distinctive Australian cultural form.
+**各种地区性洪水叙事**在当地文化—神话框架内记录具体的大洪水事件。
 
-### Native American flood traditions
+澳大利亚土著洪水材料在其与更广义"梦时代"宇宙框架的整合方面在结构上具有特色。文集将土著传统读作以实质性独特的澳大利亚文化形式对同一潜在事件之片段记忆的保存。
 
-Various **Native American traditions** across both continents preserve flood narratives with substantial structural parallels to the broader pattern. The principal cases:
+### 美洲原住民洪水传统
 
-**The Hopi tradition** records the destruction of multiple worlds by various catastrophes including water, with the surviving humans entering the new world through a sipapu (emergence point).
+两大美洲的各种**美洲原住民传统**保留了与更广义模式有实质结构平行的洪水叙事。主要案例:
 
-**The Iroquois tradition** preserves flood narratives within the broader Sky Woman cosmological framework.
+**霍皮传统**记载多个世界被各种灾难包括水所摧毁,幸存的人类通过 sipapu(涌出之点)进入新世界。
 
-**Various Algonquian traditions** preserve flood narratives often involving the trickster figure (Manabozho, Glooscap) and the survival of humans on a raft or other vessel.
+**易洛魁传统**在更广义的天女宇宙框架中保留洪水叙事。
 
-**The Inca / Andean traditions** preserve flood narratives within the broader Pachacuti (cosmic destruction-and-renewal) cosmological framework.
+**各种阿尔冈昆传统**保留洪水叙事,通常涉及恶作剧者形象(Manabozho、Glooscap)以及人类在木筏或其他容器上的幸存。
 
-The Native American flood traditions are remarkable for their geographic and cultural diversity, with substantial structural parallels persisting across the substantially distinct cultural traditions of the two American continents. The corpus reads these traditions as preserving fragmentary memory of the same underlying event in the various Native American cultural forms.
+**印加 / 安第斯传统**在更广义的 Pachacuti(宇宙毁灭与更新)宇宙框架中保留洪水叙事。
 
-### The Black Sea Deluge hypothesis
+美洲原住民洪水传统在其地理与文化的多样性方面引人注目,实质性的结构平行在两大美洲实质相异的文化传统中持续存在。文集将这些传统读作以各种美洲原住民文化形式对同一潜在事件之片段记忆的保存。
 
-The **Black Sea Deluge hypothesis** (Ryan and Pitman, *Noah's Flood*, 1998) proposes a substantial flooding event in the Black Sea region around 5600 BCE caused by Mediterranean waters breaking through the Bosporus Strait following sea-level rise at the end of the last glacial period. The hypothesis is supported by sediment evidence in the Black Sea showing the transition from freshwater to marine conditions at approximately the proposed date.
+### 黑海洪水假说
 
-Ryan and Pitman propose that the Black Sea Deluge was the historical event that gave rise to the various flood traditions of the ancient Near East. The hypothesis has been substantially debated, with some marine geologists arguing for a more gradual transition and others maintaining the catastrophic version. The corpus's framework would note that the Black Sea Deluge, even on the catastrophist reading, is too small and too localized to be the Gemini-age Flood itself, but suggests it may be one of the cascade of consequences that followed from the larger event the framework places at this period.
+**黑海洪水假说**(Ryan 与 Pitman,《挪亚的洪水》,1998)提出约公元前 5,600 年,由于上一冰期结束时海平面上升,地中海海水冲破博斯普鲁斯海峡,引发黑海地区的实质性洪水事件。该假说得到黑海沉积证据支持,显示约在所提议的日期由淡水向海水的转变。
 
-### The convergence
+Ryan 与 Pitman 提出黑海洪水是引发古代近东各种洪水传统的历史事件。该假说已被实质性辩论,部分海洋地质学家主张更渐进的转变,另一些则维持灾难性版本。文集的框架将指出:黑海洪水即便按灾变论读法,也过于小且过于局部,不足以构成双子座时代洪水本身,但暗示其可能是本框架置于该时期之较大事件所引发后果级联中的一环。
 
-The corpus's working position on the comparative-flood question is that the global recurrence of flood traditions across more than two hundred cultures, distributed across every continent and every major cultural region, is meaningful as evidence of a genuine underlying event. The mainstream scholarly explanation (independent local memories combined with diffusion from Mesopotamian sources) is read by the corpus as substantially insufficient to account for the breadth, the specific structural parallels, and the persistence of the tradition across geographically isolated populations.
+### 趋同
 
-The framework's specific reading is that the global flood-tradition pattern preserves common memory of the actual Gemini-age event, with each culture preserving the memory in its own terms and with its own specific details reflecting its own perspective and its own subsequent transmission history. The Mesopotamian narrative complex preserves the memory most fully because the immediate post-Flood Mesopotamian civilization was geographically closest to the Eden lineage that built the ark and survived the event with the most intact records. Other cultures preserve the memory in more compressed or transformed forms, reflecting the longer transmission distances and the cultural distinctiveness of their traditions.
+文集在比较—洪水问题上的工作立场是:全球两百多个文化中洪水传统的反复出现,分布在每个大陆与每个主要文化区域,作为真实潜在事件的证据具有意义。主流学界的解释(独立的本地记忆结合来自美索不达米亚源的扩散)被文集读作不足以解释其广度、具体的结构平行,以及该传统在地理上孤立的人口中的持续存在。
 
-The corpus does not require rejecting all of the mainstream scholarly framework. Cultural diffusion certainly occurred across the post-Flood ages, and the flood narratives across cultures show both common structural features (preserving the original event) and culturally specific elaborations (reflecting the diffusion and the local development). What the corpus's framework adds is the underlying historical event that gave rise to the structural commonalities — an event that the mainstream framework, lacking the corpus's broader cosmological framework, has had no way to identify and has therefore had to attribute to combinations of local memory and diffusion.
+本框架的具体读法是,全球洪水传统模式保留了对实际双子座时代事件的共同记忆,各文化以其自身的术语、自身的具体细节保留该记忆,反映了各自的视角与各自随后的传播历史。美索不达米亚叙事综合体最完整地保留了该记忆,因为洪水后的美索不达米亚文明在地理上最接近建造方舟并幸存事件的伊甸世系,记录最为完整。其他文化以更压缩或更转化的形式保留该记忆,反映了较长的传播距离与其传统的文化独特性。
 
-## See also
-
-- [Noah](../noah/)
-- [Noah's Ark](../noahs-ark/)
-- [Noahic Covenant](../noahic-covenant/)
-- [The Alliance](../the-alliance/)
-- [Lucifer](../lucifer/)
-- [Yahweh](../yahweh/)
-- [Council of the Eternals](../council-of-eternals/)
-- [Antediluvian](../antediluvian/)
-- [Pangaea](../pangaea/)
-- [Sons of Elohim](../sons-of-elohim/)
-- [Nephilim](../nephilim/)
-- [Eden](../eden/)
-- [Genesis](../genesis/)
-- [Hebrew Bible](../hebrew-bible/)
-- [Atra-ḫasīs](../atra-hasis/)
-- [Epic of Gilgamesh](../epic-of-gilgamesh/)
-- [Sumerian King List](../sumerian-king-list/)
-- [Tower of Babel](../babel/)
-- [Sodom and Gomorrah](../sodom-and-gomorrah/)
-- [Age of Cancer](../timeline/age-of-cancer/)
-- [Age of Gemini](../timeline/age-of-gemini/)
-- [Documentary Hypothesis](../documentary-hypothesis/)
-- [Jean Sendy](../jean-sendy/)
-- [Mauro Biglino](../mauro-biglino/)
-- [Paul Anthony Wallis](../paul-anthony-wallis/)
-
-## References
-
-Vorilhon, Claude (Raël). *The Book Which Tells the Truth* (1974), chapter 2; collected in *Message from the Designers*.
-
-Sendy, Jean. *Ces dieux qui firent le ciel et la terre*. Robert Laffont, 1969. English: *Those Gods Who Made Heaven and Earth*. Berkley, 1972.
-
-Sendy, Jean. *La lune, clé de la Bible*. Julliard, 1968.
-
-Biglino, Mauro, and Giorgio Cattaneo. *The Naked Bible: The Truth About the Most Famous Book in History*. Uno, 2022.
-
-Wallis, Paul Anthony. *The Eden Conspiracy*. 6th Books, 2024.
-
-*Biblia Hebraica Stuttgartensia*. Deutsche Bibelgesellschaft, 4th rev. ed., 1997.
-
-Sarna, Nahum. *Genesis: The JPS Torah Commentary*. Jewish Publication Society, 1989.
-
-Westermann, Claus. *Genesis 1–11: A Continental Commentary*. Fortress, 1994.
-
-Skinner, John. *A Critical and Exegetical Commentary on Genesis*. International Critical Commentary, T&T Clark, 1910.
-
-von Rad, Gerhard. *Genesis: A Commentary*. Westminster, 1961.
-
-Lambert, W. G., and A. R. Millard. *Atra-ḫasīs: The Babylonian Story of the Flood*. Oxford University Press, 1969.
-
-George, Andrew, ed. and trans. *The Epic of Gilgamesh: The Babylonian Epic Poem and Other Texts in Akkadian and Sumerian*. Penguin Classics, 1999.
-
-Foster, Benjamin R. *Before the Muses: An Anthology of Akkadian Literature*. CDL Press, 3rd ed., 2005.
-
-Heidel, Alexander. *The Gilgamesh Epic and Old Testament Parallels*. University of Chicago Press, 2nd ed., 1949.
-
-Smith, George. *The Chaldean Account of Genesis*. Sampson Low, 1876.
-
-Ryan, William, and Walter Pitman. *Noah's Flood: The New Scientific Discoveries About the Event That Changed History*. Simon & Schuster, 1998.
-
-Bunch, Ted E., et al. "A Tunguska sized airburst destroyed Tall el-Hammam a Middle Bronze Age city in the Jordan Valley near the Dead Sea." *Scientific Reports* 11, 18632 (2021).
-
-Firestone, Richard B., et al. "Evidence for an extraterrestrial impact 12,900 years ago that contributed to the megafaunal extinctions and the Younger Dryas cooling." *Proceedings of the National Academy of Sciences* 104, 16016–16021 (2007).
-
-Carlson, Randall. Various lectures and publications on the Younger Dryas catastrophic event hypothesis.
-
-Wegener, Alfred. *Die Entstehung der Kontinente und Ozeane* (1912). English: *The Origin of Continents and Oceans*. Trans. John Biram. Dover, 1966.
-
-Doniger, Wendy. *Hindu Myths: A Sourcebook*. Penguin Classics, 1975.
-
-Apollodorus. *The Library*. Loeb Classical Library, Harvard University Press.
-
-Ovid. *Metamorphoses*. Trans. Charles Martin. Norton, 2004.
-
-Hesiod. *Works and Days*. Loeb Classical Library, Harvard University Press.
-
-Bierlein, J. F. *Parallel Myths*. Ballantine, 1994.
-
-Dundes, Alan, ed. *The Flood Myth*. University of California Press, 1988.
-
-von Däniken, Erich. *Chariots of the Gods?* Trans. Michael Heron. Putnam, 1968.
-
-Sitchin, Zecharia. *The 12th Planet*. Stein and Day, 1976.
-
-Brown, Francis, S. R. Driver, and Charles A. Briggs. *A Hebrew and English Lexicon of the Old Testament* (BDB). Oxford, 1907.
-
-*The Hebrew and Aramaic Lexicon of the Old Testament* (HALOT), Koehler-Baumgartner. Brill, 2001.
-
-"Flood myth." *Encyclopaedia Britannica*. <https://www.britannica.com/topic/flood-myth>
-
-"Flood myth." *Wikipedia*. <https://en.wikipedia.org/wiki/Flood_myth>
-
-"Noah." *Encyclopaedia Britannica*. <https://www.britannica.com/topic/Noah-biblical-figure>
-
-"Atrahasis." *Encyclopaedia Britannica*. <https://www.britannica.com/topic/Atrahasis>
-
-"Epic of Gilgamesh." *Encyclopaedia Britannica*. <https://www.britannica.com/topic/Epic-of-Gilgamesh>
-
-"Continental drift." *Encyclopaedia Britannica*. <https://www.britannica.com/science/continental-drift-geology>
+文集并不要求拒绝主流学界框架的全部内容。文化扩散在洪水后各时代中无疑发生过,各文化的洪水叙事既显示共同的结构特征(保留原初事件),也显示文化特有的阐发(反映扩散与当地发展)。文集的框架所增添的,是给出结构共性所源自的潜在历史事件——一个主流框架因缺乏文集更广义的宇宙框架而无法识别、因此不得不归因于本地记忆与扩散组合的事件。

@@ -1,655 +1,670 @@
 +++
 title = "大洪水"
-description = "大洪水は、創世記をはじめ世界のほぼ全ての伝統に証言される大規模な水文学的リセットである。Wheel of Heaven の文脈では、それは人類の実験を再起動するためのエロヒムによる意図的介入として読まれ、危機的と判断された逸脱の後に行われた措置とされる。"
+slug = "great-flood"
+description = "大洪水（ヘブライ語：הַמַּבּוּל、ha-mabbul）は、創世記6〜9章および世界の二百を超える並行する文化伝承に記録された壊滅的な地球規模の出来事であり、洪水以前の広範な人類文明が滅ぼされ、ノアの方舟を通じて少数の残存者が保たれた事件である。ラエリアン原典に展開され、Wheel of Heaven 体系が採用する読みでは、大洪水は双子座の時代の特定の歴史的出来事（本体系の年代計算によれば紀元前およそ6,690年）として読まれる。すなわち、追放されたルシファー派の継続的な指導のもとで発展していた洪水以前のエデン文明に対し、母惑星のエロヒム文明評議会が実行した意図的な軍事攻撃であり、その破壊は核兵器による衝突を通じて行われ、その効果は直接の壊滅的影響と、洪水以前のパンゲア超大陸のより長期的な大陸分裂の双方を生み出した。"
 template = "wiki-page.html"
 toc = true
 
 [extra]
-translation_status = "metadata_only"
 category = "Events & Narratives"
 editorial_pass = "2026-05"
 entry_type = "event"
-alternative_names = ["the Great Deluge", "the Flood", "the Mabbul", "the Deluge", "ha-mabbul", "הַמַּבּוּל", "the Noahic Flood"]
+claim_type = "inferred"
+alternative_names = ["大いなる氾濫", "洪水", "マブール", "デリュージ", "ha-mabbul", "הַמַּבּוּל", "ノアの洪水"]
 timeline = ["gemini"]
 
-[extra.infobox]
+see_also = [
+    { title = "ノア", path = "/wiki/noah/", description = "洪水以後の系譜を継承する人間の生存者にして家長。" },
+    { title = "ノアの方舟", path = "/wiki/noahs-ark/", description = "ノアの家族と遺伝的代表を保存した軌道上の宇宙船。" },
+    { title = "ノアの契約", path = "/wiki/noahic-covenant/", description = "虹の徴によって構成された洪水後の政治的合意。" },
+    { title = "同盟", path = "/wiki/the-alliance/", description = "ノアの契約によって創設された政治的な取り決め。" },
+    { title = "ルシファー", path = "/wiki/lucifer/", description = "方舟作戦を通じてノアの存続を確保した派閥。" },
+    { title = "ヤハウェ", path = "/wiki/yahweh/", description = "「もう二度と行わない」という洪水後の誓約がその投票に基づいている評議会の指導者。" },
+    { title = "永遠者の評議会", path = "/wiki/council-of-eternals/", description = "攻撃を承認した母惑星の政治機関。" },
+    { title = "洪水以前（アンテディルヴィアン）", path = "/wiki/antediluvian/", description = "攻撃によって終止符を打たれた洪水以前の文明期。" },
+    { title = "パンゲア", path = "/wiki/pangaea/", description = "攻撃がその分裂を生じさせた超大陸。" },
+    { title = "エデン", path = "/wiki/eden/", description = "洪水以前の文明がその系譜を引き継いだ、起源の同盟研究施設。" },
+    { title = "ヘブライ語聖書", path = "/wiki/hebrew-bible/", description = "洪水物語の主要な聖典的典拠。" },
+    { title = "創世記", path = "/wiki/genesis/", description = "洪水記事（創世記6〜9章）を含む聖書の書。" },
+    { title = "アトラ・ハシース", path = "/wiki/atra-hasis/", description = "ヘブライ語の物語と密接に並行するバビロニアの洪水物語。" },
+    { title = "ギルガメシュ叙事詩", path = "/wiki/epic-of-gilgamesh/", description = "第11書板に収められたメソポタミアの洪水記事。" },
+    { title = "ソドムとゴモラ", path = "/wiki/sodom-and-gomorrah/", description = "そのメカニズムが構造的に類似した、後代の類比的な攻撃事件。" },
+    { title = "バベル", path = "/wiki/babel/", description = "洪水後の文明分散のエピソード。" },
+    { title = "二重の徴", path = "/wiki/doubled-signature/", description = "世界規模の洪水伝承が基底にある歴史的記憶を保存しているとする、本体系の原理。" },
+    { title = "神々の戦い（テオマキー）", path = "/wiki/theomachy/", description = "攻撃がその内部で作動する、より広い宇宙的‐政治的紛争の枠組み。" },
+]
+
+footnotes = [
+    { content = "ヘブライ語の *mabbul*（מַבּוּל）は、主として創世記6〜9章の洪水物語および少数の派生的テキスト（詩篇29篇10節）で用いられる、ハパクス的な聖書用語である。この語はヘブライ語で通常の「洪水」を意味する語（*zerem* または *sheteph*）ではなく、洪水という出来事そのもの——通常の氾濫ではなく、まさに *壊滅的・宇宙的* な洪水——を指す固有の呼称である。アッカド語の *abubu*（洪水）、ひいてはシュメール語の *a-ma-ru*（大洪水）への語源的つながりは主流のアッシリア学で広く受け入れられており、ヘブライとメソポタミアの洪水伝承の間に実質的な言語的・文化的連続性があることを示している。" },
+    { content = "本枠組みが洪水を母惑星評議会による核兵器攻撃として読むのは、『真実を告げる書』（Vorilhon 1974）における原典上の言明に基づく。創世記7章11節の描写——*大いなる淵の源はことごとく裂け、天の窓は開かれた*——は、超自然的‐気象学的比喩としてではなく、高エネルギー兵器が生み出した宇宙的‐機械的効果の記述として読まれる。続く150日の待機期間（創世記7章24節）は、安全な下船前の残留放射性降下物の減衰期間に対応する。方舟が *封じられた* 容器として設計されていること（創世記6章14節、*kopher*、「ピッチ／封止」）は、通常の防水ではなく放射線遮蔽に対応する。" },
+    { content = "大陸分裂の読みは、本枠組みが主流の地質学からもっとも大きく逸脱する点である。従来の地質学はパンゲアの分裂をおよそ1億7,500万年前に位置づけ、大陸移動はマントル対流を介して数億年にわたって展開したとする。本体系はこの分裂を紀元前およそ6,690年の壊滅的事件として読み、それ以降に観察される大陸移動はその残余運動であるとする。主流の放射年代測定、古地磁気層序、海洋底拡大の測定との対立は大きく、パンゲア項目で率直に扱われている。本体系の読みは、洪水を単一の壊滅的事件として大陸規模の地質学的帰結を伴うものとする原典上の特定の言明に依拠している。" },
+    { content = "世界の諸文化にまたがる200を超える並行する洪水伝承——メソポタミアのアトラ・ハシースとギルガメシュ、ギリシャのデウカリオン、ヒンドゥーのマヌ、中国の鯀禹、メソアメリカのポポル・ヴフ、ポリネシアのタンガロアなど——は比較神話学において広く記録されている（Dundes 1988；Bierlein 1994）。主流の比較宗教学はこの収斂を、共有された原型構造の証拠として、あるいはメソポタミアの源泉からの文化的伝播として、あるいは局所的な壊滅的事件への独立した応答として、さまざまに扱う。本体系はこの収斂を、洪水以前の七つの創造者チーム系統に由来する各人類集団全体に保存された単一の基底的歴史事件の記憶の証拠として読み、細部における変異は約八千年にわたる洪水後の伝承過程と、実質的な文化的・言語的分岐とを反映しているとする。" },
+    { content = "紀元前およそ7,000年の壊滅的事件と整合的な現代の具体的科学的証拠は錯綜しており、議論の対象となっている。ヤンガードリアス宇宙衝突仮説（Firestone et al. 2007；Bunch et al. 2021 によるテル・エル・ハマム研究）は、後期更新世および中期青銅器時代に地域規模の壊滅的効果を生じた実質的な地球外起源衝突事件を提唱している。ライアン‐ピットマンの黒海洪水仮説（1998）は、地中海の海面上昇による紀元前およそ5,600年の黒海盆地の壊滅的氾濫を提唱している。これらの提案のいずれも本体系の大陸分裂の読みには及ばないが、ヤンガードリアスおよび黒海の仮説は、主流の古生物学・古地球科学が本体系の特定する時期に実質的な壊滅的事件を認めていることを示している。" },
+    { content = "方舟の動物の対による保存（創世記6章19〜20節；7章2〜3節）は、本枠組みの読みでは文字通りの動物搭載ではなく遺伝的サンプル保存として読まれる。清い動物が七つの対、汚れた動物が一対という区別（創世記7章2〜3節）は、繁殖集団遺伝学上の考慮——洪水後に犠牲用途に指定された種に必要なより大きな創始者集団——を反映するものとして読まれる。方舟から放たれた鳩と烏（創世記8章6〜12節）は、攻撃後の環境評価のための生物学的偵察手段として読まれ、オリーブの枝を持ち帰ったことが下船に十分な放射線学的・生態学的回復の合図となっている。" },
+]
+
 hebrew_name = "הַמַּבּוּל (ha-mabbul)"
-greek_name = "ὁ κατακλυσμός (ho kataklysmos, in the Septuagint)"
+greek_name = "ὁ κατακλυσμός（ho kataklysmos、七十人訳）"
 latin_name = "Diluvium"
-arabic_name = "الطوفان (aṭ-Ṭūfān, in the Qur'anic tradition)"
-type = "Catastrophic global event; deliberate military intervention by the home-world Council against the antediluvian human civilization"
-date = "c. 6,690 BCE on the corpus's reckoning; opening of the Age of Gemini"
-date_type = "framework-internal; derived from the corpus's precessional-age chronology"
-duration = "Initial catastrophic phase: weeks to months; ark orbital period: 150 days (Genesis 7:24); subsequent post-Flood reseeding and reconstruction: years to decades"
-biblical_account = "Genesis 6:1–9:17 (the principal narrative); Job 38:8–11; Psalm 29:10; Isaiah 54:9; Matthew 24:37–39; 1 Peter 3:20; 2 Peter 2:5"
-mechanism_conventional = "Forty days and nights of rain (Genesis 7:12); waters from the deep and from the windows of heaven (Genesis 7:11)"
-mechanism_framework = "Nuclear weapons strike from the home-world Council; immediate impact effects (continental tidal wave); subsequent fallout-decay period (the 150 days); deliberate post-strike radiological remediation conducted by alliance personnel"
-parties_involved = "Home-world Council (executing party); exiled Lucifer-faction creators (preservation party); Noah and his family (human survivors, 8 individuals); broader pre-Flood Eden civilization (target population); the seven antediluvian creator-team lineages (representatives preserved)"
-casualties = "The broader antediluvian Eden civilization destroyed; substantial portions of the other six creator-team lineages destroyed; representatives of all seven lineages preserved through the ark operation"
-geological_consequence = "Fragmentation of the Pangaean supercontinent into the modern continental configuration; ongoing residual continental drift as observed motion"
-political_consequence = "Foundation of the Alliance through the Noahic covenant; long-term political reorientation of the post-Flood human-Eloha relationship"
-principal_text = "Genesis 6:1–9:17"
-principal_framework_source = "*The Book Which Tells the Truth* (Vorilhon/Raël, 1974), chapter 2"
+arabic_name = "الطوفان（aṭ-Ṭūfān、クルアーン伝統において）"
+type = "壊滅的な地球規模の出来事。洪水以前の人類文明に対する母惑星評議会の意図的軍事介入。"
+date = "本体系の年代計算では紀元前およそ6,690年。双子座の時代の幕開け。"
+date_type = "枠組み内部のもの。本体系の歳差時代に基づく年代から導出される。"
+duration = "初期壊滅段階：数週間から数か月。方舟の軌道周期：150日（創世記7章24節）。その後の洪水後の再播種と再建：数年から数十年。"
+biblical_account = "創世記6章1節〜9章17節（主要物語）。ヨブ記38章8〜11節。詩篇29篇10節。イザヤ書54章9節。マタイによる福音書24章37〜39節。ペテロの第一の手紙3章20節。ペテロの第二の手紙2章5節。"
+mechanism_conventional = "四十日四十夜の雨（創世記7章12節）。深淵からの水と天の窓からの水（創世記7章11節）。"
+mechanism_framework = "母惑星評議会からの核兵器攻撃。即時の衝突効果（大陸規模の津波）。続く放射性降下物の減衰期間（150日）。同盟要員による意図的な攻撃後の放射線学的修復。"
+parties_involved = "母惑星評議会（実行側）。追放されたルシファー派の創造者たち（保存側）。ノアとその家族（人間の生存者、計8名）。洪水以前のより広いエデン文明（標的集団）。洪水以前の七つの創造者チーム系統（代表者が保存された）。"
+casualties = "洪水以前のより広いエデン文明は滅ぼされた。他の六つの創造者チーム系統のうちかなりの部分も滅ぼされた。七系統すべての代表者は方舟作戦を通じて保存された。"
+geological_consequence = "パンゲア超大陸が現代の大陸配置へと分裂。観察される運動として継続している残余の大陸移動。"
+political_consequence = "ノアの契約を通じた同盟の創設。洪水後の人類‐エロハ関係の長期的な政治的再編。"
+principal_text = "創世記6章1節〜9章17節"
+principal_framework_source = "『真実を告げる書』（Vorilhon／ラエル、1974）、第2章"
+
+[[extra.references]]
+id = "the-book-which-tells-the-truth"
+note = "Vorilhon（ラエル、1974）、第2章。洪水を母惑星による意図的な攻撃として読む本枠組みの主要なラエリアン典拠。"
+
+[[extra.references]]
+id = "intelligent-design-message-from-the-designers"
+note = "三冊のラエリアン原典書の正典的合本版。洪水に関する記述を含む。"
+
+[[extra.references]]
+id = "sendy-ces-dieux"
+note = "Sendy（1969）。同盟読解の基礎的なフランス語による定式化。主要な学術的先行者。"
+
+[[extra.references]]
+id = "sendy-lune-cle-bible"
+note = "Sendy（1968）。聖書年代学の月‐天文学的読解。洪水期の年代学的文脈を含む。"
+
+[[extra.references]]
+id = "the-naked-bible"
+note = "Biglino & Cattaneo（2022）。技術的な洪水語彙を含む創世記6〜9章の厳密な逐語ヘブライ語訳。"
+
+[[extra.references]]
+id = "wallis-eden-conspiracy"
+note = "Wallis（2024）。実質的な洪水後‐政治的内容を備えた、工学的・文明的読解の現代的定式化。"
+
+[[extra.references]]
+id = "sarna-genesis-jps"
+note = "Sarna（1989）。JPS Torah Commentary の創世記6〜9章。洪水物語に関する主要な現代ユダヤ学的論考。"
+
+[[extra.references]]
+id = "westermann-genesis-1-11"
+note = "Westermann（1994）。創世記1〜11章の大陸的注解。洪水ペリコーペに関する基礎的な批評的注解。"
+
+[[extra.references]]
+id = "atra-hasis-lambert-millard"
+note = "Lambert & Millard（1969）。バビロニア洪水物語の批判校訂版。最も近い古代近東の並行物。"
+
+[[extra.references]]
+id = "george-gilgamesh"
+note = "George（1999）。第11書板の洪水物語を含む、入手しやすいギルガメシュ叙事詩の英語版。"
+
+[[extra.references]]
+id = "foster-before-muses"
+note = "Foster（2005）。主要なメソポタミア洪水文書群を含むアッカド文学のアンソロジー。"
+
+[[extra.references]]
+id = "heidel-gilgamesh-ot"
+note = "Heidel（1949）。ギルガメシュ‐創世記の並行構造に関する基礎的比較研究。"
+
+[[extra.references]]
+id = "ryan-pitman-noahs-flood"
+note = "Ryan & Pitman（1998）。大洪水伝承の歴史的拠点としての黒海洪水仮説。"
+
+[[extra.references]]
+id = "bunch-tall-el-hammam"
+note = "Bunch et al.（2021）。テル・エル・ハマムにおけるツングースカ規模の空中爆発事件に関する『Scientific Reports』掲載論文。"
+
+[[extra.references]]
+id = "firestone-younger-dryas"
+note = "Firestone et al.（2007）。ヤンガードリアス宇宙衝突仮説に関する『PNAS』掲載論文。"
+
+[[extra.references]]
+id = "doniger-hindu-myths"
+note = "Doniger（1975）。マヌの洪水伝承を含むヒンドゥー神話資料集。"
+
+[[extra.references]]
+id = "kramer-enki-myths"
+note = "Kramer & Maier（1989）。現存する最古のメソポタミア版であるジウスドラ洪水記事を含むシュメールのエンキ文書群。"
+
+[[extra.references]]
+id = "boyce-zoroastrians"
+note = "Boyce（改訂版2001）。方舟保存パターンと密接に並行するペルシアの「イマの囲い（ヴァラ）」伝承。"
+
+[[extra.references]]
+id = "sitchin-12th-planet"
+note = "Sitchin（1976）。メソポタミア‐聖書洪水資料に関する古代宇宙飛行士的読解。主要な大衆的拠点。"
+
+[[extra.references]]
+id = "genesis"
+locator = "創世記6章1節〜9章17節"
+note = "洪水物語の主要な聖典的典拠。本項目全体の主要な読解対象。"
+
 +++
 
-The **Great Flood** (Hebrew: <span class="hebrew">הַמַּבּוּל</span>, *ha-mabbul*; Greek: *ho kataklysmos*; Latin: *Diluvium*) is the catastrophic global event recorded in Genesis 6–9 and across more than two hundred parallel cultural traditions worldwide. The biblical account narrates the destruction of the pre-Flood human civilization by waters that covered the entire earth for a duration of approximately one year, with Noah and his family preserved through divine intervention in the ark — a wooden vessel built to specific divine instructions — along with representative pairs of all animal species. The Flood concludes with the ark's landing on the mountains of Ararat, Noah's release of the dove that returns with an olive branch, the disembarkation, and the establishment of the Noahic covenant signified by the rainbow. The narrative is among the most theologically and culturally consequential in the Hebrew Bible, providing the foundational frame for the broader biblical narrative of divine judgment and renewal.
+**大洪水**（ヘブライ語：<span class="hebrew">הַמַּבּוּל</span>、*ha-mabbul*{{ footnote(id="1") }}；ギリシャ語：*ho kataklysmos*；ラテン語：*Diluvium*）は、創世記6〜9章および世界の二百を超える並行する文化伝承に記録された壊滅的な地球規模の出来事である{{ footnote(id="4") }}。聖書の記事は、洪水以前の人類文明が全地を覆う水によって約一年の期間にわたり滅ぼされたこと、そしてノアとその家族が、特定の神の指示に従って建造された木造の容器である方舟を通じて、すべての動物種の代表的な対と共に神の介入によって保存されたことを物語る。洪水は方舟がアララト山々に着陸し、ノアが放った鳩がオリーブの枝を持ち帰り、下船が行われ、虹を徴とするノアの契約が結ばれることで結ばれる。この物語はヘブライ語聖書のうちでももっとも神学的・文化的に重大なものの一つであり、神の裁きと再生という聖書のより広い物語の基礎的枠組みを提供している。
 
-On the reading developed in the Raëlian source material and adopted by the Wheel of Heaven corpus, the Great Flood is read as a specific historical event with substantively different operational content than the conventional reading allows. The Flood occurred at the opening of the Age of Gemini (c. 6,690 BCE on the corpus's reckoning), at the end of the antediluvian period during which the broader Eden civilization had developed under the continuing teaching of the exiled Lucifer-faction creators. The home-world Council of the Elohim civilization, having concluded that the antediluvian civilization's technological development had passed the point where the original political settlement could be sustained, ordered the destruction of all life on Earth. The order was executed through nuclear weapons impacts directed at the central zones of the supercontinent — impacts powerful enough to produce both the immediate catastrophic effects (continent-scale tidal waves, atmospheric and seismic disruption, mass extinction of large terrestrial organisms) and the longer-term geological consequence of fragmenting the Pangaean supercontinent into the drifting continental configuration that has structured subsequent geological history. The exiled Lucifer faction, anticipating the Council's action, conducted a counter-preparation: the construction of an orbital spacecraft (the ark) capable of preserving genetic material from the threatened biosphere through the catastrophic event, with Noah and his family serving as the human crew that would accompany the genetic cargo through the orbital period and supervise the post-Flood reseeding operation.
+ラエリアン原典に展開され{{ cite(id="the-book-which-tells-the-truth", text="[1]", title="Vorilhon（ラエル）『真実を告げる書』（1974）、第2章——洪水を評議会の意図的攻撃として読む本枠組みの主要なラエリアン典拠") }}、Wheel of Heaven 体系が採用する読みでは、大洪水は実質的に従来の読みが認める内容とは異なる作戦内容を備えた、特定の歴史的事件として読まれる。洪水は双子座の時代の幕開け（本体系の年代計算では紀元前およそ6,690年）に、追放されたルシファー派の創造者たちの継続的な指導のもとで、より広いエデン文明が発展していた洪水以前の時代の終わりに発生した。エロヒム文明の母惑星評議会は、洪水以前の文明の技術的発展が、当初の政治的合意では維持し得ない地点を越えたと判断し、地上のあらゆる生命の破壊を命じた。命令は、超大陸の中心地帯に向けられた核兵器衝突を通じて執行された{{ footnote(id="2") }}——その衝突は、即時の壊滅的効果（大陸規模の津波、大気・地震面の擾乱、大型陸上生物の大量絶滅）と、パンゲア超大陸を、その後の地質史を構造づけることになる漂流する大陸配置へと分裂させるという、より長期的な地質学的帰結との双方を生み出すに足る強力なものであった{{ footnote(id="3") }}。追放されたルシファー派は評議会の行動を予期し、対抗準備を進めていた。すなわち、壊滅的事件を通して脅威にさらされた生物圏から遺伝物質を保存し得る軌道用宇宙船（方舟）を建造したのである。ノアとその家族は、軌道周期を遺伝積荷と共に過ごし、洪水後の再播種作戦を監督する人間の乗組員として参加した。
 
-The reading is contested. Within mainstream historical-critical biblical scholarship, the Genesis flood narrative is read as a composite of two source documents (J and P, on the documentary hypothesis) reflecting Israelite religious development across the first millennium BCE, with substantial textual dependence on the older Mesopotamian flood traditions (the *Atra-ḫasīs* epic, the *Epic of Gilgamesh*, the Sumerian *Eridu Genesis*). Within mainstream geology and paleontology, no event matching the corpus's framework has been identified in the Holocene; the continental drift question is read through the standard plate-tectonic framework that places Pangaean breakup approximately 175 million years ago. Within Christian theological tradition, the Flood is read variously as a historical event with theological-typological significance (the conservative position), as theological-mythological narrative reflecting moral-religious truths (the liberal position), or as primarily prefigurative of New Testament events (the typological position). Within the contemporary catastrophist research tradition (Carlson, Bunch et al., the broader Younger-Dryas-impact-hypothesis literature), various positions advocate for substantial recent catastrophic events that mainstream geology has typically attributed to gradual processes, with substantial implications for how the Holocene should be reconstructed. The corpus's reading is structurally distinctive: it accepts the global recurrence of flood traditions as evidence of a genuine global event (against mainstream comparative-mythology scholarship's diffusionist account), accepts the catastrophist tradition's broader argument while specifying a particular mechanism (deliberate Council military strike) that the mainstream catastrophist literature does not propose, and reads the underlying narrative as preserving substantially accurate operational content rather than as theological-mythological construction.
+この読みは異論を呼ぶものである。主流の歴史批評的聖書学では、創世記の洪水物語は紀元前一千年紀のイスラエルの宗教発展を反映する二つの源資料（文書仮説における J と P）の合成として読まれ、より古いメソポタミアの洪水伝承（『アトラ・ハシース』叙事詩、『ギルガメシュ叙事詩』、シュメールの『エリドゥ創世記』）に実質的に依拠しているとされる。主流の地質学・古生物学では、本体系の枠組みに合致する事件は完新世内に同定されておらず、大陸移動の問題は、パンゲアの分裂をおよそ1億7,500万年前に位置づける標準的なプレートテクトニクスの枠組みを通じて読まれる。キリスト教神学の伝統内では、洪水は神学的・予表論的意義を伴う歴史的事件（保守的立場）として、道徳的・宗教的真理を反映する神学的・神話的物語（自由主義的立場）として、あるいは主として新約聖書の出来事の予表として（予表論的立場）、さまざまに読まれてきた。現代のカタストロフィスト研究の伝統（Carlson、Bunch et al.、より広いヤンガードリアス衝突仮説の文献）内では、主流の地質学が通常は緩慢な過程に帰してきた最近の実質的な壊滅的事件をさまざまな立場が擁護しており、完新世がいかに再構成されるべきかについて実質的な含意を有する。本体系の読みは構造的に独自である。世界規模の洪水伝承の反復を真に地球規模の事件の証拠として受け入れ（主流の比較神話学の伝播論的説明に反する）、より広いカタストロフィスト的伝統の議論を受け入れつつ、主流のカタストロフィスト文献が提案していない特定のメカニズム（評議会の意図的軍事攻撃）を特定し、基底にある物語を神学的・神話的構築としてではなく実質的に正確な作戦内容を保存するものとして読む。
 
-## Etymology and naming
+## 語源と名称
 
-The principal terms for the event across the languages and traditions in which it has been preserved warrant individual treatment.
+この出来事が保存されている諸言語と諸伝統にまたがる主要な用語は、それぞれ個別の取り扱いに値する。
 
-### Hebrew *ha-mabbul*
+### ヘブライ語 *ha-mabbul*
 
-The Hebrew *ha-mabbul* (<span class="hebrew">הַמַּבּוּל</span>) is the specific Hebrew Bible designation for the Flood event. The term derives from the root *y-b-l* / *n-b-l*, with proposed etymological connections to "to flow," "to bring forth," or "to convey." The form *mabbul* is unique to the flood context — appearing principally in Genesis 6–11 (with thirteen occurrences) and in Psalm 29:10 (the only non-Genesis occurrence) — and is not used for ordinary floods in Biblical Hebrew (the standard term *šeṭep* or *zeram* serving for ordinary flooding). The specificity of *ha-mabbul* as a technical term for the specific event is itself substantively significant: the Hebrew tradition preserves a specific designation that distinguishes the Flood event from the broader category of flooding.
+ヘブライ語 *ha-mabbul*（<span class="hebrew">הַמַּבּוּל</span>）は洪水という出来事に対するヘブライ語聖書固有の呼称である。語は *y-b-l*／*n-b-l* の語根に由来し、「流れる」「もたらす」「運ぶ」への語源的つながりが提案されている。*mabbul* の語形は洪水の文脈に固有であり——主として創世記6〜11章（13回出現）と詩篇29篇10節（創世記以外で唯一の出現）に現れる——聖書ヘブライ語で通常の洪水を指すには用いられない（通常の氾濫には標準語の *šeṭep* または *zeram* が用いられる）。*ha-mabbul* がこの特定の事件に対する技術用語として持つ固有性は、それ自体実質的に意味深い。ヘブライ伝統は、洪水という事件を氾濫一般のカテゴリーから区別する固有の呼称を保存しているのである。
 
-The definite article *ha-* ("the") is preserved across nearly all Genesis 6–11 occurrences, marking the Flood as a unique definite event rather than a generic flooding phenomenon. The framework reads this definiteness as substantively significant: the Hebrew Bible's vocabulary preserves the recognition that the Flood was a specific historical event with specific operational content rather than a recurring or generic phenomenon.
+定冠詞 *ha-*（「その」）は創世記6〜11章のほぼすべての出現で保たれており、洪水を一般的な氾濫現象ではなく固有で特定の事件として刻印している。本枠組みはこの限定性を実質的に重要なものとして読む。ヘブライ語聖書の語彙は、洪水が反復的あるいは一般的な現象ではなく、特定の作戦内容を備えた特定の歴史的事件であったという認識を保存しているのである。
 
-### Other ancient Near Eastern terms
+### 他の古代近東の用語
 
-The Mesopotamian tradition preserves several distinct terms for the parallel flood events:
+メソポタミアの伝統は、並行する洪水事件についていくつかの区別された用語を保存している。
 
-- **Akkadian *abūbu*** (𒀀𒈠𒊒) — the principal Akkadian term for the catastrophic flood event in the *Atra-ḫasīs* epic and the *Epic of Gilgamesh*. The term derives from a root meaning "destruction" or "catastrophe" and is used specifically for the deliberate flood event sent by the gods.
-- **Sumerian *a-ma-ru*** — the parallel Sumerian term, used in the *Eridu Genesis* and in the Sumerian King List's pre-Flood and post-Flood divisions.
-- **Akkadian *butuqtu*** — used in some texts for the inundation event specifically.
+- **アッカド語 *abūbu***（𒀀𒈠𒊒）——『アトラ・ハシース』叙事詩および『ギルガメシュ叙事詩』における壊滅的洪水事件を指す主要なアッカド語。語は「破壊」または「災厄」を意味する語根に由来し、神々が送った意図的な洪水事件を特定して指す。
+- **シュメール語 *a-ma-ru***——並行するシュメール語の用語。『エリドゥ創世記』およびシュメール王名表の洪水前・洪水後区分で用いられる。
+- **アッカド語 *butuqtu***——一部のテキストで具体的に氾濫事件を指して用いられる。
 
-The Mesopotamian terminology preserves substantially the same distinction the Hebrew tradition preserves: a specific technical term for the catastrophic flood event, distinct from the generic terminology for ordinary flooding. The cross-tradition convergence on specific technical vocabulary for the event is part of the framework's evidence that the underlying event was a specific historical occurrence rather than a generic mythological category.
+メソポタミアの術語はヘブライ伝統が保存するのと実質的に同じ区別を保持している。すなわち、通常の氾濫を指す一般語彙とは別の、壊滅的洪水事件に対する固有の技術語である。事件に対する固有の技術語彙への伝統横断的収斂は、本枠組みが基底事件を一般的な神話カテゴリーではなく特定の歴史的事象として捉える根拠の一つである。
 
-### Greek *kataklysmos* and Latin *diluvium*
+### ギリシャ語 *kataklysmos* とラテン語 *diluvium*
 
-The Greek Septuagint translates *ha-mabbul* as *kataklysmos* (κατακλυσμός), the standard Greek term for catastrophic flooding, providing the basis for the English "cataclysm" through Latin transmission. The term emphasizes the destructive character of the event — *kataklysmos* derives from *kata-* ("down") and *klyzō* ("to wash"), with the underlying sense of "washing down" or "deluging."
+ギリシャ語七十人訳は *ha-mabbul* を *kataklysmos*（κατακλυσμός）と訳す。これは壊滅的氾濫を指す標準的ギリシャ語であり、ラテン語経由で英語の「cataclysm」の基礎となった。語は出来事の破壊的性格を強調する——*kataklysmos* は *kata-*（「下方へ」）と *klyzō*（「洗う」）から派生し、「洗い下す」「氾濫させる」という基底的な意味を持つ。
 
-The Latin Vulgate translates *ha-mabbul* as *diluvium*, from *diluere* ("to wash away" or "to dissolve"), with the underlying sense of "washing away" or "dispersal." The Latin term provides the basis for the English "deluge" (through Old French *deluge*) and for the various Romance-language cognates.
+ラテン語ウルガタは *ha-mabbul* を *diluvium* と訳す。これは *diluere*（「洗い流す」「溶解する」）に由来し、「洗い流すこと」「分散」という基底的な意味を持つ。ラテン語は英語「deluge」（古フランス語 *deluge* 経由）および種々のロマンス諸語の同源語の基礎を提供する。
 
-### Arabic *aṭ-Ṭūfān*
+### アラビア語 *aṭ-Ṭūfān*
 
-The Arabic Qur'anic tradition uses *aṭ-Ṭūfān* (<span class="hebrew">الطوفان</span>) for the Flood event. The term derives from a root meaning "to go around" or "to encompass," with the underlying sense of an encompassing catastrophe. The Qur'anic flood narrative (treated principally in surahs 7:59–64, 11:25–48, 23:23–30, 26:105–122, and 71) develops the Hebrew tradition's narrative with substantive theological elaborations specific to Islamic context, with Noah (Nūḥ) as the principal Qur'anic prophet of the pre-Flood period.
+アラビア語クルアーン伝統は洪水事件に *aṭ-Ṭūfān*（<span class="hebrew">الطوفان</span>）を用いる。語は「巡る」「取り囲む」を意味する語根に由来し、取り囲むような災厄という基底的な意味を持つ。クルアーンの洪水物語（主として7章59〜64節、11章25〜48節、23章23〜30節、26章105〜122節、71章で扱われる）は、ヘブライ伝統の物語をイスラム的文脈に固有な実質的な神学的展開とともに発展させ、ヌーフ（ノア）が洪水以前の時代の主要なクルアーン的預言者となる。
 
-### "Great Flood," "Deluge," and "Cataclysm" in English
+### 英語における「Great Flood」「Deluge」「Cataclysm」
 
-The English "Great Flood" preserves the Hebrew tradition's emphasis on the event's distinctive scale ("Great" capturing the *ha-* definite article's marking of the event as unique). The "Deluge" (from Latin *diluvium*) emphasizes the encompassing-water character of the conventional reading. The "Cataclysm" (from Greek *kataklysmos*) emphasizes the destructive character. The framework's preferred designation is "the Great Flood" as the most semantically neutral term that preserves the event's specific historical character while not committing to specific mechanism-readings (the "deluge" terminology presupposing the conventional water-based mechanism).
+英語の「Great Flood」は、ヘブライ伝統がこの事件の独自の規模を強調した点（「Great」が事件を固有のものとして刻印する *ha-* の定冠詞性を捉える）を保存する。「Deluge」（ラテン語 *diluvium* から）は従来の読みにおける水で取り囲む性格を強調する。「Cataclysm」（ギリシャ語 *kataklysmos* から）は破壊的性格を強調する。本枠組みが好む呼称は「the Great Flood（大洪水）」である。事件の特定の歴史的性格を保ちつつ、特定のメカニズム読解（「deluge」の語法は従来の水を基盤とするメカニズムを前提とする）には踏み込まない、もっとも意味論的に中立な用語だからである。
 
-## In the Hebrew Bible and other primary sources
+## ヘブライ語聖書および他の一次資料における扱い
 
-The Flood narrative appears principally in Genesis 6:1–9:17, with substantial parallel material across the broader Hebrew Bible and substantial precedent material in the Mesopotamian textual tradition that the Hebrew narrative draws on.
+洪水物語は主として創世記6章1節〜9章17節に現れ、ヘブライ語聖書全体にわたる実質的な並行資料と、ヘブライ語の物語がそれに依拠するメソポタミア文書伝統における実質的な先行資料がある。
 
-### The Genesis narrative
+### 創世記の物語
 
-The Genesis flood narrative occupies four chapters of the Hebrew Bible's opening book and contains substantial textual complexity. The principal narrative elements:
+{% library(book="genesis-woh", chapter=7, verse=11) %}
+ノアの生涯の六百年目、第二の月、その月の十七日——まさにこの日に、大いなる淵の源はすべて裂け、天の水門は開かれた。
+{% end %}
 
-**Genesis 6:1–4** introduces the *benei ha-Elohim* episode — the "sons of Elohim" who took human women as wives and produced the Nephilim hybrid offspring. The corpus reads this passage as recording the operational context that produced the home-world Council's eventual decision to intervene (treated more fully in the [Sons of Elohim](../sons-of-elohim/) and [Nephilim](../nephilim/) entries).
+創世記の洪水物語はヘブライ語聖書冒頭の書の四章を占め、実質的な本文上の複雑さを含む。主要な物語的要素は以下のとおりである。
 
-**Genesis 6:5–13** records the divine assessment of the pre-Flood human civilization: *"Yahweh saw that the wickedness of humanity was great in the earth, and that every imagination of the thoughts of his heart was only evil continually."* The corpus reads "wickedness" (*raʿat*) here not in the conventional moral-theological sense but as referring to the antediluvian civilization's accelerating technological development that the home-world Council judged threatening — the framework's specific reading is that the "evil" was the human desire to progress scientifically toward the level of their creators.
+**創世記6章1〜4節** は *benei ha-Elohim* のエピソードを導入する——「エロヒムの息子たち」が人間の女を妻に取り、ネフィリムの混血の子孫を生んだ、という記述である。本体系はこの一節を、母惑星評議会が最終的に介入を決意するに至った作戦的文脈の記録として読む（{% wiki(slug="sons-of-elohim") %}エロヒムの息子たち{% end %}と{% wiki(slug="nephilim") %}ネフィリム{% end %}の項目でより詳しく扱われる）。
 
-**Genesis 6:14–22** records the divine instructions for the ark: the dimensions (300 cubits long, 50 cubits wide, 30 cubits high), the materials (gopher wood with pitch sealant), the structural features (three stories, a door in the side, a window), and the instructions for the cargo (Noah and his family, plus pairs of every kind of animal). The corpus reads these specifications as the technical requirements transmitted by the exiled Lucifer-faction creators to Noah for the construction of the orbital spacecraft.
+**創世記6章5〜13節** は洪水以前の人類文明に対する神の評価を記す。*「ヤハウェは、人の悪が地に満ち、その心に思いはかることが、ただひたすら悪いことばかりであるのを見た。」* 本体系はここでの「悪」（*raʿat*）を従来の道徳神学的意味ではなく、母惑星評議会が脅威と判断した、洪水以前の文明の加速する技術的発展を指すものとして読む。本枠組みの特定の読みでは、その「悪」とは、人類が創造者と同じ水準まで科学的に進歩しようとする欲望のことであった。
 
-**Genesis 7:1–24** records the events of the Flood itself: the entry of Noah and the animals into the ark, the onset of the flood ("the fountains of the great deep burst forth, and the windows of the heavens were opened"), the duration of the rain (forty days and forty nights), the rising of the waters above the mountains, and the duration of the waters' prevalence (150 days). The corpus reads this material as the human witnesses' specific account of the catastrophic event, with the surface narrative covering substantively different operational content than the conventional reading allows.
+**創世記6章14〜22節** は方舟に関する神の指示を記す。寸法（長さ300キュビト、幅50キュビト、高さ30キュビト）、材料（ピッチで封じたゴフェル材）、構造的特徴（三階建て、側面の戸、窓）、積荷の指示（ノアとその家族、加えてあらゆる種類の動物の対）である{{ footnote(id="6") }}。本体系はこれらの仕様を、軌道宇宙船の建造のために追放されたルシファー派の創造者たちからノアへと伝達された技術的要件として読む。
 
-**Genesis 8:1–22** records the Flood's recession and Noah's disembarkation: the ark coming to rest on Ararat, the receding of the waters, Noah's release of the raven and the dove, the eventual emergence onto dry land, and Noah's burnt offering at the altar.
+**創世記7章1〜24節** は洪水自体の出来事を記す。ノアと動物たちの方舟への乗船、洪水の到来（「大いなる淵の源はことごとく裂け、天の窓は開かれた」）、雨の継続期間（四十日四十夜）、水が山々を越えて上昇したこと、水の優勢の継続期間（150日）である。本体系はこの資料を、壊滅的事件に関する人間の目撃者たちの固有の記録として読み、その表層的な物語が従来の読みが認めるものとは実質的に異なる作戦内容を覆っているとする。
 
-**Genesis 9:1–17** records the post-Flood arrangements: the divine blessing of Noah's family, the dietary provisions, the prohibition on bloodshed, and the Noahic covenant with its rainbow sign. The corpus reads this material as the operational record of the Alliance's founding moment (treated more fully in the [The Alliance](../the-alliance/) entry).
+**創世記8章1〜22節** は洪水の引きとノアの下船を記す。方舟がアララトの上にとどまったこと、水が引いたこと、ノアが烏と鳩を放ったこと、ついには乾いた地に降り立ったこと、ノアが祭壇で焼き尽くす供え物を捧げたことである。
 
-### The textual question: J and P sources
+**創世記9章1〜17節** は洪水後の取り決めを記す。ノアの家族への神の祝福、食物に関する規定、流血の禁止、虹を徴とするノアの契約である。本体系はこの資料を、同盟の創設の瞬間の作戦記録として読む（{% wiki(slug="the-alliance") %}同盟{% end %}の項目でより詳しく扱われる）。
 
-Mainstream historical-critical scholarship recognizes the Genesis flood narrative as a composite of two distinct source documents that have been interwoven in the final form. The principal observations:
+### 本文上の問題：J 資料と P 資料
 
-- The narrative contains substantial repetitions and apparent contradictions: two distinct accounts of Noah's entry into the ark (Genesis 7:1–5 and 7:6–9), two distinct accounts of the cargo (one pair vs. seven pairs of clean animals at 6:19–20 and 7:2–3), two distinct accounts of the flood duration (forty days at 7:12 vs. 150 days at 7:24), two distinct names for the deity (Yahweh in some sections, Elohim in others).
-- The Yahwist source (J) is identified by the use of the divine name Yahweh, the seven-pairs cargo specification, the forty-day duration, and other distinctive features. J is conventionally dated to the early monarchic period (c. 10th–9th century BCE).
-- The Priestly source (P) is identified by the use of the divine name Elohim, the one-pair cargo specification, the 150-day duration, the elaborate dating-by-month-and-day notation, and other distinctive features. P is conventionally dated to the post-exilic period (c. 6th–5th century BCE).
+主流の歴史批評的学術は、創世記の洪水物語を、最終形において織り合わされた二つの異なる源文書の合成として認めている。主要な観察は以下のとおりである。
 
-The framework's reading does not reject the documentary-hypothesis observation that the final-form text combines multiple sources. The corpus reads the underlying historical event as preserved in both source traditions, with the source variations reflecting different angles of preservation rather than fundamentally different events. The framework's specific operational reading (orbital duration of 150 days, weather phenomena of forty days as specific atmospheric effects) draws on both source traditions where their specific details are operationally informative.
+- 物語は実質的な反復と一見矛盾する事柄を含んでいる。ノアの方舟への乗船についての異なる二つの記述（創世記7章1〜5節と7章6〜9節）、積荷についての異なる二つの記述（6章19〜20節の各種一対と7章2〜3節の清い動物七対）、洪水の継続期間についての異なる二つの記述（7章12節の四十日と7章24節の150日）、神の異なる二つの名（ある箇所ではヤハウェ、他の箇所ではエロヒム）。
+- ヤハウィスト資料（J）はヤハウェの神名、七対の積荷仕様、四十日の継続期間、その他の固有の特徴で識別される。J は通常、王国初期（紀元前およそ10〜9世紀）に位置づけられる。
+- 祭司資料（P）はエロヒムの神名、一対の積荷仕様、150日の継続期間、月日による精緻な日付表記、その他の固有の特徴で識別される。P は通常、捕囚後期（紀元前およそ6〜5世紀）に位置づけられる。
 
-### Other Hebrew Bible references
+本枠組みの読みは、最終形のテキストが複数の資料を結合しているという文書仮説の観察を退けるものではない。本体系は基底にある歴史事件が両資料伝承に保存されており、両資料の異同は根本的に異なる事件ではなく、保存の角度の違いを反映していると読む。本枠組みの特定の作戦的読み（150日の軌道周期、固有の大気効果としての四十日の気象現象）は、両資料伝承の具体的細部が作戦上の情報を与えるところでそれらに依拠する。
 
-Several other Hebrew Bible passages refer to the Flood event:
+### その他のヘブライ語聖書における言及
 
-- **Job 38:8–11** records Yahweh's containing the seas: *"Who shut in the sea with doors, when it burst forth from the womb... and prescribed bounds for it, and set bars and doors, and said, 'Thus far shall you come, and no farther, and here shall your proud waves be stayed'?"* The passage's specific cosmic-water imagery has been read by some interpreters as reflecting Flood-tradition material.
-- **Psalm 29:10** records: *"Yahweh sat enthroned at the Flood (la-mabbul); Yahweh sits enthroned as king forever."* This is the only non-Genesis Hebrew Bible occurrence of the specific term *mabbul*.
-- **Isaiah 54:9** invokes the Flood covenant explicitly: *"This is like the days of Noah to me; just as I swore that the waters of Noah should never again go over the earth, so I have sworn that I will not be angry with you and will not rebuke you."*
+ヘブライ語聖書のいくつかの他の箇所が洪水事件に言及している。
 
-### New Testament references
+- **ヨブ記38章8〜11節** はヤハウェが海を閉じ込める様を記す。*「だれが海を戸で閉ざしたか、それが母の胎から噴き出るとき……。わたしはこれに境を定め、かんぬきと戸を設けて、『ここまでは来てもよいが、これ以上はならぬ。おまえの高ぶる波はここで止まれ』と言った。」* この箇所の固有の宇宙的水の心象は、一部の解釈者によって洪水伝承資料を反映するものとして読まれてきた。
+- **詩篇29篇10節** は記す。*「ヤハウェは洪水の上に（la-mabbul）御座した。ヤハウェは王として永久に御座する。」* 固有の用語 *mabbul* の創世記以外のヘブライ語聖書における唯一の出現である。
+- **イザヤ書54章9節** は洪水の契約を明示的に喚起する。*「これはわたしにとってノアの日のようだ。ノアの水が再び地を越えないようにわたしが誓ったように、わたしはあなたに対して怒らず、責めないと誓った。」*
 
-The New Testament references the Flood material in several theological contexts:
+### 新約聖書における言及
 
-- **Matthew 24:37–39** (and parallel Luke 17:26–27) records Jesus's reference to the Flood as a typological precedent for the coming of the Son of Man.
-- **1 Peter 3:20–21** references the eight souls saved through water as a typological figure for Christian baptism.
-- **2 Peter 2:5** references "the ancient world" that was destroyed except for "Noah, a herald of righteousness, with seven others."
-- **2 Peter 3:5–7** uses the Flood as typological precedent for the coming destruction by fire.
-- **Hebrews 11:7** lists Noah's faith in building the ark as exemplary.
+新約聖書はいくつかの神学的文脈で洪水資料に言及する。
 
-The New Testament references treat the Flood as a historical event with typological significance for Christian theology. The corpus reads these references as continuing the broader Hebrew tradition's treatment of the Flood as a specific historical event, with the New Testament's typological elaborations being theological constructions that build on the underlying historical material.
+- **マタイによる福音書24章37〜39節**（およびその並行であるルカによる福音書17章26〜27節）は、人の子の来臨に対する予表的先例としての洪水へのイエスの言及を記す。
+- **ペテロの第一の手紙3章20〜21節** は、水を通って救われた八つの魂を、キリスト教の洗礼の予表的形として言及する。
+- **ペテロの第二の手紙2章5節** は、「ノアと他の七人」を除いて滅ぼされた「古い世」に言及する。
+- **ペテロの第二の手紙3章5〜7節** は来るべき火による破壊への予表的先例として洪水を用いる。
+- **ヘブライ人への手紙11章7節** はノアの方舟建造における信仰を範例として挙げる。
 
-### The Mesopotamian textual precedents
+新約聖書の言及は洪水をキリスト教神学にとって予表論的意義を持つ歴史的事件として扱う。本体系はこれらの言及を、洪水を特定の歴史的事件として扱うヘブライ伝統の継続として読み、新約聖書の予表論的展開は基底にある歴史資料の上に組み立てられた神学的構築であるとする。
 
-The Mesopotamian flood narratives substantially predate the Hebrew Bible's Genesis material and provide direct textual parallels that mainstream scholarship has documented since George Smith's 1872 rediscovery of the Babylonian flood narrative. The principal Mesopotamian texts:
+### メソポタミアの本文上の先行資料
 
-**The *Atra-ḫasīs* epic** (c. 18th century BCE in its preserved form, with possible earlier oral antecedents) records the flood narrative within a broader Mesopotamian theological framework. The principal narrative elements:
-- The gods create humans to relieve themselves of agricultural labor
-- Human population growth produces noise and disturbance that the gods find intolerable
-- The gods send plagues, droughts, and famines to reduce the human population
-- When these prove insufficient, the gods decide to send a flood to destroy humanity
-- The god Enki warns Atra-ḫasīs (the "exceedingly wise" human) of the impending flood and instructs him to build a vessel
-- Atra-ḫasīs builds the vessel and preserves himself, his family, and animals through the flood
-- After the flood, the gods regret the destruction and establish new arrangements with the surviving humans
+メソポタミアの洪水物語はヘブライ語聖書の創世記資料を実質的に先行しており、ジョージ・スミスによる1872年のバビロニア洪水物語の再発見以来、主流の学術が記録してきた直接的な本文的並行を提供する。主要なメソポタミア文書は以下のとおりである。
 
-**The *Epic of Gilgamesh*** preserves the flood narrative in Tablet XI, which records Utnapishtim's account of the flood event to Gilgamesh during the latter's quest for immortality. The Gilgamesh flood narrative is substantially parallel to the *Atra-ḫasīs* account, with Utnapishtim serving as the parallel figure to Atra-ḫasīs and Noah. The specific narrative elements (the divine warning, the construction of the vessel, the duration of the flood, the release of birds to test the conditions) are remarkably parallel to the Genesis narrative.
+**『アトラ・ハシース』叙事詩**{{ cite(id="atra-hasis-lambert-millard", text="[2]", title="Lambert & Millard（1969）、『アトラ・ハシース——バビロニア洪水物語』——批判校訂版と翻訳") }}（保存形では紀元前およそ18世紀、より早い口頭の先行資料の可能性あり）は、より広いメソポタミア神学的枠組みの中で洪水物語を記している。主要な物語的要素は以下のとおりである。
 
-**The Sumerian *Eridu Genesis*** preserves the earliest known version of the flood narrative, with Ziusudra ("life of long days") as the parallel figure. The Sumerian account, fragmentary in its preserved form, records substantially the same narrative elements as the later Akkadian and Hebrew traditions.
+- 神々は農作業の労苦から自らを免れさせるために人間を創造する
+- 人口の増加が神々にとって耐え難い騒ぎと擾乱を生む
+- 神々は人口を減らすために疫病、干ばつ、飢饉を送る
+- これらが不十分であると判明したとき、神々は人類を滅ぼすために洪水を送ることを決定する
+- 神エンキは差し迫る洪水についてアトラ・ハシース（「非常に賢い」人間）に警告し、容器を建造するよう指示する
+- アトラ・ハシースは容器を建造し、自分自身、その家族、動物を洪水を通して保存する
+- 洪水後、神々は破壊を悔やみ、生き残った人間との間に新たな取り決めを結ぶ
 
-The framework reads these Mesopotamian precedents as parallel preservations of the same underlying historical event rather than as independent mythological developments. The Hebrew tradition's specific Noahic narrative is one of several culturally specific preservations of the Gemini-age flood event, with the Mesopotamian preservations being closer to the event geographically and chronologically and therefore preserving substantial operational detail.
+**『ギルガメシュ叙事詩』**{{ cite(id="george-gilgamesh", text="[3]", title="George（1999）『ギルガメシュ叙事詩』——第11書板の洪水物語を含む、入手しやすい英語版") }} は第11書板に洪水物語を保存しており、不死の探求の途上にあったギルガメシュに対するウトナピシュティムの洪水事件の語りを記す。ギルガメシュの洪水物語は実質的に『アトラ・ハシース』の記事と並行しており、ウトナピシュティムがアトラ・ハシースおよびノアと並行する人物として登場する。固有の物語要素（神の警告、容器の建造、洪水の継続期間、状況を試すための鳥の放出）は創世記の物語と驚くほど並行している。
 
-## Chronology and duration
+**シュメール『エリドゥ創世記』** は洪水物語の現存する最古の版を保存し、ジウスドラ（「長き日々の生命」）が並行する人物として登場する。シュメールの記事は保存形では断片的だが、後代のアッカドおよびヘブライの伝統と実質的に同じ物語要素を記している。
 
-The Flood's chronology in the framework's reading is structured by the broader corpus's precessional-age framework. The principal points:
+本枠組みは、これらのメソポタミアの先行資料を、独立した神話的発展ではなく、同じ基底的歴史事件の並行する保存として読む。ヘブライ伝統の固有のノア物語は、双子座の時代の洪水事件の文化に応じた保存の一つであり、メソポタミアの保存は事件に地理的・年代的により近く、それゆえに実質的な作戦上の細部を保存している。
 
-### Date in the framework
+## 年代と継続期間
 
-The framework places the Flood at approximately **6,690 BCE**, at the opening of the Age of Gemini. The dating is derived from the corpus's broader precessional-age chronology, with the Age of Gemini running from c. 6,690 BCE to c. 4,530 BCE in the corpus's framework.
+本枠組みの読みにおける洪水の年代は、より広い本体系の歳差時代の枠組みによって構造づけられる。主要な点は以下のとおりである。
 
-The 6,690 BCE date is substantially older than the conventional biblical chronology (which places the Flood at approximately 2,300 BCE on Ussher's calculations, derived from the Genesis 5 patriarchal genealogy) and substantially younger than the conventional geological dating of any major catastrophic events. The framework's date is internal to the corpus's broader chronological framework rather than directly attested in the source material; the corpus derives the date from the precessional-age scheme rather than from an explicit Raëlian-source dating.
+### 本枠組みにおける年代
 
-The conventional biblical chronology problem warrants registration. The Genesis 5 patriarchal genealogy, taken at face value with the recorded ages summed, places the Flood approximately 1,656 years after the creation of Adam. Combined with various subsequent biblical chronological calculations, this produces dates ranging from approximately 2,300 BCE (the Ussher tradition) to approximately 3,500 BCE (other traditional calculations). The framework's reading addresses this discrepancy by treating the Genesis 5 genealogy's specific recorded ages as substantively meaningful (the patriarchs received longevity treatment from the Lucifer faction's continuing post-Eden support) but the cumulative chronological calculation as unreliable for absolute dating purposes (the genealogies may compress generations or contain other transmission distortions across the long oral-and-written transmission period).
+本枠組みは洪水を双子座の時代の幕開けにあたる**紀元前およそ6,690年**に位置づける。年代は本体系のより広い歳差時代の年代計算から導出され、双子座の時代は本体系の枠組みでは紀元前およそ6,690年から紀元前およそ4,530年まで続く。
 
-### Duration of the event
+紀元前6,690年という年代は、洪水を紀元前およそ2,300年に位置づける従来の聖書年代計算（創世記5章の家長系譜から導出されたアッシャーの計算）よりも実質的に古く、いかなる大規模な壊滅的事件についても従来の地質学的年代計算よりは実質的に若い。本枠組みの年代は原典に直接証言されたものではなく、本体系のより広い年代学的枠組みに内的なものである。本体系は年代を明示的なラエリアン原典の日付ではなく、歳差時代の体系から導出する。
 
-The Flood event itself, on the framework's reading, has several distinct phases with distinct durations:
+従来の聖書年代計算の問題は記録に値する。創世記5章の家長系譜を額面通りに取り、記録された年齢を合計すると、洪水はアダムの創造のおよそ1,656年後に位置づけられる。続く種々の聖書年代計算と組み合わせると、これは紀元前およそ2,300年（アッシャーの伝統）から紀元前およそ3,500年（その他の伝統的計算）に及ぶ年代を生む。本枠組みの読みはこの不一致を、創世記5章の系譜が記録する固有の年齢を実質的に意味があるもの（家長たちは洪水以前のエデン以後の継続的支援を通じてルシファー派から長寿の処置を受けた）として扱う一方で、累積的年代計算は絶対的年代化の目的には信頼できないもの（系譜は世代を圧縮しているか、長い口頭・文書伝承期間にわたるその他の伝承上の歪みを含んでいる可能性がある）として扱うことで対処する。
 
-**The pre-Flood preparation period**: Centuries to perhaps a millennium of ark construction by the Lucifer faction and the Noahic operational team. The Genesis 5 genealogy records Noah's age at 600 years when the Flood begins (Genesis 7:6); the framework reads this as substantively accurate, with the ark's construction occupying the latter portion of Noah's pre-Flood lifespan and involving substantial operational team effort across the construction period.
+### 事件の継続期間
 
-**The catastrophic phase**: The immediate effects of the nuclear weapons impacts — the continental tidal wave, the atmospheric and seismic disruption, the mass extinction of the surface biosphere. The Genesis text records "forty days and forty nights" of rain (Genesis 7:12), which the framework reads as the period of severe atmospheric disturbance following the impacts (precipitation effects from the impact-generated atmospheric disruption, fallout-bearing rain across the affected zones).
+本枠組みの読みでは、洪水事件そのものは異なる継続期間を持ついくつかの異なる段階を持つ。
 
-**The orbital phase**: 150 days (Genesis 7:24) during which the ark remained in orbit while the surface conditions stabilized. The framework reads this as the period during which the radioactive fallout from the nuclear weapons decayed to levels that the surface could again support life, with the alliance personnel monitoring the fallout decay and conducting the necessary atmospheric remediation.
+**洪水以前の準備期間**：ルシファー派とノアの作戦チームによる方舟建造に数百年、おそらくは一千年の期間。創世記5章の系譜は洪水開始時のノアの年齢を600歳と記す（創世記7章6節）。本枠組みはこれを実質的に正確なものとして読み、方舟の建造はノアの洪水以前の生涯の後半部分を占め、建造期間にわたって実質的な作戦チームの努力を伴った。
 
-**The post-Flood landing and reseeding period**: Months to years following the orbital phase, during which the ark landed (Genesis 8:4 places the landing on the seventeenth day of the seventh month, with the waters drying off the earth across subsequent months), the animals were released, the post-Flood agriculture began, and the broader reseeding operations were conducted.
+**壊滅段階**：核兵器衝突の即時の効果——大陸規模の津波、大気・地震面の擾乱、地表生物圏の大量絶滅。創世記の本文は「四十日四十夜」の雨を記す（創世記7章12節）。本枠組みはこれを、衝突に続く大気の激しい擾乱の期間として読む（衝突によって生じた大気擾乱からの降水効果、影響を受けた地域全体での放射性降下物を含む雨）。
 
-**The Noahic covenant founding moment**: The specific event at the post-Flood altar where the formal Alliance between the exiled creators and the human survivors was established. This is treated extensively in the [The Alliance](../the-alliance/) entry.
+**軌道段階**：方舟が地表条件の安定中に軌道にとどまった150日（創世記7章24節）。本枠組みはこれを、核兵器による放射性降下物が地表が再び生命を支え得る水準まで減衰した期間として読み、同盟要員が降下物の減衰を監視し、必要な大気修復を実施した。
 
-The total duration from the catastrophic phase through the establishment of viable post-Flood conditions was, on the framework's reading, on the order of a year — substantially consistent with the Genesis narrative's specific chronological notations.
+**洪水後の着陸と再播種期間**：軌道段階に続く数か月から数年の間、方舟が着陸し（創世記8章4節は着陸を第七の月の十七日に位置づけ、続く数か月にわたって水は地から乾いていく）、動物が放され、洪水後の農業が始まり、より広い再播種作戦が実施された。
 
-## The events themselves
+**ノアの契約の創設の瞬間**：追放された創造者たちと人間の生存者たちの間の正式な同盟が確立された洪水後の祭壇での特定の出来事。これは{% wiki(slug="the-alliance") %}同盟{% end %}の項目で広範に扱われる。
 
-The Flood event's narrative arc, on the framework's reading, can be reconstructed from the source material with substantial detail. The principal phases:
+壊滅段階から実行可能な洪水後の条件の確立に至るまでの総継続期間は、本枠組みの読みでは一年の規模であり——創世記の物語の固有の年代学的記述と実質的に整合する。
 
-### The pre-Flood political situation
+## 出来事そのもの
 
-The pre-Flood political situation at the close of the Age of Cancer involved several interconnected developments:
+洪水事件の物語的弧は、本枠組みの読みでは原典から実質的な詳細をもって再構成し得る。主要な諸段階は以下のとおりである。
 
-**The antediluvian Eden civilization's technological development**. Across the approximately 4,700 years between the Eden disclosure (c. 11,375 BCE) and the Flood (c. 6,690 BCE), the Eden-lineage civilization had developed under the continuing teaching of the exiled Lucifer faction. By the close of the Age of Cancer, the civilization had achieved substantial technological capability — substantially exceeding what the home-world Council's containment policy had originally permitted, and approaching levels that the Council judged threatening.
+### 洪水以前の政治情勢
 
-**The *benei ha-Elohim* and Nephilim development**. Genesis 6:1–4 records the *benei ha-Elohim* episode in which "sons of Elohim" took human women as wives and produced hybrid offspring. The framework reads this as the broader operational reality of Eloha-human reproductive interaction across the antediluvian period, with the resulting Nephilim hybrid population becoming a substantial portion of the antediluvian civilization's leadership and producing an increasing genetic mixing that the home-world Council found alarming.
+蟹座の時代の末における洪水以前の政治情勢は、いくつかの相互に結びついた発展を含んでいた。
 
-**The Council's deliberation**. The home-world Council, watching the antediluvian developments across the long centuries, eventually concluded that the situation had passed the point where the original political settlement could be sustained. The Council's specific deliberations are not preserved in detail in the source material, but the broader framework reading is that the decision involved substantial political conflict between the abolitionist faction (led by Satan, advocating immediate termination) and various more moderate factions, with the eventual decision being a compromise: destruction of the broader human creation while permitting the exiled creators themselves to remain.
+**洪水以前のエデン文明の技術的発展**。エデンの開示（紀元前およそ11,375年）と洪水（紀元前およそ6,690年）の間のおよそ4,700年にわたり、エデン系統の文明は追放されたルシファー派の継続的な指導のもとで発展してきた。蟹座の時代の末までに、文明は実質的な技術的能力を達成しており——母惑星評議会の当初の封じ込め政策が認めていた水準を実質的に超え、評議会が脅威と判断した水準に近づいていた。
 
-**The destruction order**. The home-world Council formally ordered the destruction of all life on Earth, with the destruction to be effected through nuclear weapons impacts. The order was issued without consultation with the exiled creators and without consideration of the human survivors who might be preserved.
+***benei ha-Elohim* とネフィリムの発展**。創世記6章1〜4節は *benei ha-Elohim* のエピソードを記し、「エロヒムの息子たち」が人間の女を妻に取り、混血の子孫を生んだ。本枠組みはこれを、洪水以前の期間全体にわたるエロハ‐人間の生殖的相互作用というより広い作戦的現実として読み、結果として生じたネフィリムの混血集団は洪水以前の文明の指導層の実質的な部分となり、母惑星評議会が憂慮した遺伝的混交の増大を生んでいた。
 
-### The exiled creators' counter-preparation
+**評議会の審議**。母惑星評議会は長い諸世紀にわたって洪水以前の発展を見守った末に、状況が当初の政治的合意では維持し得ない地点を越えたと結論した。評議会の固有の審議は原典に詳細には保存されていないが、より広い枠組みの読みでは、決定は廃止派閥（即時の終結を主張するサタンが率いる）と種々のより穏健な派閥との間の実質的な政治的対立を伴い、最終的な決定は妥協——より広い人類の創造を破壊する一方で、追放された創造者たち自身は残ることを認める——であった。
 
-The exiled Lucifer faction, learning of the Council's destruction order, conducted a substantial counter-preparation across the years preceding the Flood:
+**破壊命令**。母惑星評議会は地上のあらゆる生命の破壊を、核兵器衝突を通じて執行すべく正式に命じた。命令は追放された創造者たちとの協議なしに、また保存されうる人間の生存者たちへの考慮なしに発せられた。
 
-**The strategic decision**. The exiled creators decided not to attempt to prevent the catastrophe (which would have required direct military confrontation with the Council that they could not realistically win) but to preserve the human creation through the catastrophe. This is the strategic decision the framework reads as the founding moment of the broader Alliance — a calculated political act undertaken in hope of eventual reconciliation.
+### 追放された創造者たちの対抗準備
 
-**The Noahic operational team**. The exiled creators identified Noah as the principal human partner for the preservation operation. Noah's specific qualifications — the source material's "righteous" framing — are read by the framework as identifying Noah's competence, leadership capacity, and commitment to the cooperative project rather than as moral-theological evaluation. The broader operational team that supported the construction was substantial: workers, technicians, biologists, support personnel from the antediluvian Eden civilization who participated in the project across its decades of development. Most of this broader team was not preserved through the catastrophe — only Noah's immediate family was on board the ark itself.
+追放されたルシファー派は、評議会の破壊命令を知ると、洪水に先立つ数年にわたって実質的な対抗準備を行った。
 
-**The construction of the ark**. The ark was constructed over an extended period (centuries on the source's reading, though the Genesis text does not specify an exact duration) according to technical specifications provided by the exiled creators. The framework's reading of the ark's specific character:
+**戦略的決定**。追放された創造者たちは、災厄を阻止しようとは試みず（これは現実的に勝てない評議会との直接的軍事対決を必要とする）、人類の創造を災厄を通して保存することを決定した。これは本枠組みがより広い同盟の創設の瞬間として読む戦略的決定——いずれは和解することを望んで遂行された計算された政治的行為——である。
 
-- The ark was a **spacecraft**, not a wooden boat. The Hebrew *tevah* (תֵּבָה) meaning "closed vessel" or "container" is consistent with this reading; the term is used elsewhere in the Hebrew Bible only for the basket in which the infant Moses was placed (Exodus 2:3), suggesting a specific technical-vessel meaning rather than the generic "boat" reading.
-- The dimensions specified in Genesis 6:15 (300 × 50 × 30 cubits) are read as the spacecraft's structural specifications rather than as nautical dimensions. The cubit unit's specific scale in the source material is uncertain; modern translations using the standard 18-inch cubit produce a vessel of approximately 137 × 23 × 14 meters, but the actual scale may have been different.
-- The three stories specified in Genesis 6:16 are read as the spacecraft's three deck levels, with various functional specifications for each level (cargo, crew quarters, operational systems).
-- The specific construction materials (gopher wood, pitch sealant) are read as the human-recordable account of materials whose specific technical character the human observers could not fully describe in their available vocabulary.
+**ノアの作戦チーム**。追放された創造者たちは、保存作戦の主要な人間側パートナーとしてノアを特定した。ノアの固有の資格——原典の「義人」という枠付け——は本枠組みでは、道徳神学的評価ではなく、ノアの能力、指導力、協同事業への献身を特定するものとして読まれる。建造を支えたより広い作戦チームは実質的なものであった。洪水以前のエデン文明から、その作業者、技術者、生物学者、支援要員が数十年にわたる発展期間に参加した。このより広いチームの大部分は災厄を通して保存されることはなかった——方舟そのものに乗船したのはノアの直近の家族だけであった。
 
-**The genetic cargo**. The framework's reading of the cargo follows the source material's explicit clarification: rather than living pairs of every species (which would be impossible in any plausible vessel), the ark's actual cargo was substantially **genetic material** — preserved cellular samples from each species sufficient for post-Flood regeneration. The source's explicit phrasing: *"a single living cell of each species, male and female, is all that is required to recreate a whole being."* The framework reads this as the underlying technical reality, with the Genesis text's "two of every kind" language being the human-recordable account of the operation.
+**方舟の建造**。方舟は追放された創造者たちが提供した技術仕様に従って、長期間にわたって建造された（原典の読みでは数世紀。ただし創世記の本文は正確な期間を特定しない）。方舟の固有の性格に関する本枠組みの読みは以下のとおりである。
 
-The ark's actual passengers included Noah, his wife, his three sons (Shem, Ham, Japheth), and their wives — eight humans total. The source material additionally specifies that representatives of the seven creator-team lineages were preserved through the operation, with these representatives apparently in either living form (small numbers from each lineage) or in genetic form (with subsequent post-Flood regeneration).
+- 方舟は木造の船舶ではなく**宇宙船**であった。「閉じた容器」または「入れ物」を意味するヘブライ語 *tevah*（תֵּבָה）はこの読みと整合する。この語はヘブライ語聖書では他に、幼児モーセが入れられた籠（出エジプト記2章3節）にのみ用いられ、一般的な「ボート」の読みではなく固有の技術的容器の意味を示唆する。
+- 創世記6章15節で指定された寸法（300 × 50 × 30 キュビト）は航海上の寸法ではなく、宇宙船の構造仕様として読まれる。原典におけるキュビトの単位の固有の尺度は不確かである。標準的な18インチのキュビトを用いる現代訳では、およそ137 × 23 × 14メートルの容器が生じるが、実際の尺度は異なっていた可能性がある。
+- 創世記6章16節で指定された三階建ては、宇宙船の三層のデッキレベルとして読まれ、各レベルの種々の機能仕様（貨物、乗員室、運用システム）を伴う。
+- 固有の建造材料（ゴフェル材、ピッチの封止）は、その固有の技術的性格を人間の観察者が利用可能な語彙では十分に記述できなかった材料についての、人間が記録できる範囲での記述として読まれる。
 
-### The catastrophic event
+**遺伝的積荷**。本枠組みの積荷の読みは原典の明示的な明確化に従う。あらゆる種の生体の対（これはいかなる現実的な容器においても不可能であろう）ではなく、方舟の実際の積荷は実質的に**遺伝物質**——洪水後の再生に十分な、各種の保存細胞サンプル——であった。原典の明示的な表現は次のとおりである。*「各種の生きた一つの細胞、雄と雌、それだけで生物全体を再創造するのに必要なものすべてである。」* 本枠組みはこれを基底にある技術的現実として読み、創世記の本文の「あらゆる種類のもの二つずつ」という言葉は作戦の人間が記録できる範囲での記述である。
 
-The Council's destruction order was executed through nuclear weapons impacts directed at the central zones of the antediluvian Pangaean supercontinent. The framework's reading of the specific operational events:
+方舟の実際の乗船者にはノア、その妻、その三人の息子（セム、ハム、ヤフェト）、その妻たち——人間は計八名——が含まれた。原典はさらに、七つの創造者チーム系統の代表者が作戦を通して保存されたことを明示しており、これらの代表者は明らかに生体形態（各系統から少数）または遺伝的形態（その後の洪水後の再生を伴う）のいずれかであった。
 
-**The strike**. The weapons struck at multiple targets across the central regions of the supercontinent, with the impacts producing immediate catastrophic effects. The source material does not specify the exact number or distribution of weapons; the framework reads the strike as substantial in scale, sufficient to produce the immediate destruction of the antediluvian civilization's principal population centers and to initiate the broader continental-fragmentation effects.
+### 壊滅的事件
 
-**The continental tidal wave**. The strike produced massive ocean displacements that propagated outward across the supercontinent's coastlines. The Genesis text's description of "the fountains of the great deep" being "broken up" (Genesis 7:11) is read by the framework as the human witnesses' specific account of the impact-generated tsunami effects.
+評議会の破壊命令は、洪水以前のパンゲア超大陸の中心地帯に向けられた核兵器衝突を通じて執行された。固有の作戦上の出来事に関する本枠組みの読みは以下のとおりである。
 
-**The atmospheric and seismic disruption**. The strike produced substantial atmospheric disturbance (the "windows of heaven" being "opened" in Genesis 7:11, the "forty days and forty nights" of rain in Genesis 7:12), with the precipitation reflecting both the impact-disturbed water cycle and the fallout-bearing precipitation across the affected zones.
+**攻撃**。兵器は超大陸の中心地帯にまたがる複数の標的を打ち、その衝突は即時の壊滅的効果を生んだ。原典は兵器の正確な数や分布を特定しないが、本枠組みは攻撃を規模において実質的なもの、洪水以前の文明の主要な人口中心地の即時の破壊を生じ、より広い大陸分裂の効果を開始させるに十分なものとして読む。
 
-**The continental fragmentation**. The most substantial geological consequence of the strike was the fragmentation of the Pangaean supercontinent into the modern continental configuration. The source material is explicit on this point: *"When the Elohim decided to destroy their bases, their laboratories and all that they had created on Earth, they must have used extremely powerful methods of destruction, which, as well as breaking up this original continent and sending each respective fragment drifting outwards from the centre of the shock, must also have swept the whole land surface."* The framework reads the modern continental drift as the residual momentum from this original displacement, with the ongoing GPS-measured plate motion being the slowing-down phase of the original Gemini-age event.
+**大陸規模の津波**。攻撃は超大陸の海岸線にまたがって外側に伝播する巨大な海洋の変位を生じた。創世記の本文に記される「大いなる淵の源」が「裂け」る描写（創世記7章11節）は、本枠組みでは衝突によって生じた津波効果に関する人間の目撃者たちの固有の記述として読まれる。
 
-**The mass extinction**. The strike effectively destroyed the broader pre-Flood biosphere on the supercontinent's surface — the antediluvian human civilization's broader population, the Nephilim hybrid lineages, the various large terrestrial organisms (including the surviving dinosaur populations the source material treats as having persisted into the late antediluvian period), the broader plant and animal communities. The post-Flood biosphere would be reconstructed substantially from the genetic cargo preserved in the ark.
+**大気・地震面の擾乱**。攻撃は実質的な大気の擾乱を生じた（創世記7章11節の「天の窓」が「開かれ」る、創世記7章12節の「四十日四十夜」の雨）。降水は衝突によって攪乱された水循環と、影響を受けた地域全体での放射性降下物を含む降水の双方を反映する。
 
-### The orbital phase
+**大陸分裂**。攻撃のもっとも実質的な地質学的帰結は、パンゲア超大陸を現代の大陸配置へと分裂させたことであった。原典はこの点について明示的である。*「エロヒムが地上の彼らの基地、研究施設、創造したすべてを破壊することを決めたとき、彼らは極めて強力な破壊手段を用いたに違いない。これは、この原初の大陸を分裂させ、それぞれの断片を衝撃の中心から外側に漂流させただけでなく、陸地表面全体をも一掃したに違いない。」* 本枠組みは現代の大陸移動を、この原初の変位からの残余運動として読み、現在 GPS で測定されているプレート運動は、原初の双子座の時代の事件の減速段階である。
 
-The ark's 150-day orbital period (Genesis 7:24) involved several specific operational features:
+**大量絶滅**。攻撃は超大陸の地表のより広い洪水以前の生物圏を実質的に破壊した——洪水以前の人類文明のより広い集団、ネフィリムの混血系統、種々の大型陸上生物（原典が洪水以前の時代の後期まで存続していたとして扱う生き残っていた恐竜集団を含む）、より広い動植物の群集である。洪水後の生物圏は方舟に保存された遺伝的積荷から実質的に再構成されることになる。
 
-**The lift-off**. The ark lifted off the Earth's surface before or during the initial weapon impacts. The Genesis 7:17 phrasing — *"the ark... was lift up above the earth"* — is read by the framework as specifically indicating the lifting *above* the Earth (into orbit) rather than *on* the water (as a floating boat). The Hebrew *vatārom mēʿal hā-ʾāreṣ* uses the directional preposition *mēʿal* ("from above"), preserving the orbital reading at the level of the Hebrew text itself.
+### 軌道段階
 
-**The orbital sustainment**. The ark remained in orbit for 150 days, sustaining its eight human occupants and the genetic cargo through the period during which the surface conditions stabilized. The specific orbital altitude and operational features are not specified in the source material; the framework reads the orbital sustainment as requiring substantial life-support, atmospheric, food-and-water, and waste-management infrastructure consistent with what the broader pre-Flood civilizational technology would have permitted.
+方舟の150日の軌道周期（創世記7章24節）はいくつかの固有の作戦的特徴を伴った。
 
-**The fallout monitoring**. Throughout the orbital period, the alliance personnel monitored the radioactive fallout decay and conducted necessary atmospheric remediation. The source's specific phrase: *"After monitoring the level of radioactivity and dispersing it scientifically..."* This is read by the framework as the alliance's deliberate post-strike radiological remediation, with the specific technical mechanisms being beyond what the source material specifies.
+**離陸**。方舟は最初の兵器衝突の前または最中に地表から離陸した。創世記7章17節の表現——*「方舟は……地の上に持ち上げられた」*——は、本枠組みでは（浮かぶ船としての）水の *上に* ではなく、地の *上方* に（軌道へ）持ち上げられたことを具体的に示すものとして読まれる。ヘブライ語 *vatārom mēʿal hā-ʾāreṣ* は方向を示す前置詞 *mēʿal*（「上方から」）を用いており、ヘブライ語本文自体のレベルで軌道の読みを保存している。
 
-**The waters' recession**. The Genesis 8:1 reference to "Elohim made a wind to pass over the earth, and the waters asswaged" is read by the framework as the alliance personnel's deliberate atmospheric and oceanic stabilization following the catastrophic phase. The "wind" (*rûaḥ*) is read operationally as the application of substantive technological intervention to restore atmospheric and oceanic stability.
+**軌道の維持**。方舟は150日にわたり軌道にとどまり、地表条件が安定するまでの間、八名の人間の乗員と遺伝的積荷を維持した。固有の軌道高度および運用上の特徴は原典に特定されていない。本枠組みは、軌道の維持は実質的な生命維持、大気、食糧と水、廃棄物管理のインフラを必要とし、より広い洪水以前の文明技術が許したであろうものと整合的なものとして読む。
 
-### The post-Flood landing and reseeding
+**降下物の監視**。軌道期間を通じて、同盟要員は放射性降下物の減衰を監視し、必要な大気修復を実施した。原典の固有の表現は次のとおりである。*「放射能の水準を監視し、科学的にそれを分散させたあと……」* 本枠組みはこれを核兵器攻撃に続く大気・地表の居住可能性を回復するための同盟の意図的な放射線学的修復として読み、固有の技術的メカニズムは原典が特定する範囲を越える。
 
-The ark's eventual landing and the subsequent post-Flood operations involved several phases:
+**水の引き**。創世記8章1節の「エロヒムは地の上に風を吹き渡らせ、水は引いた」への言及は、本枠組みでは壊滅段階に続く同盟要員による意図的な大気・海洋の安定化として読まれる。「風」（*rûaḥ*）は作戦上、大気と海洋の安定を回復するための実質的な技術的介入の適用として読まれる。
 
-**The landing**. The ark came to rest on the mountains of Ararat (Genesis 8:4) on the seventeenth day of the seventh month — approximately five months after the Flood's onset. The landing site is identified with the modern Mount Ararat region in eastern Turkey, though the specific location is contested. The framework reads the landing as the alliance's deliberate selection of a high-altitude site in the post-Flood continental configuration where surface conditions had stabilized sufficiently for safe landing.
+### 洪水後の着陸と再播種
 
-**The bird-release sequence**. Genesis 8:6–12 records Noah's release of the raven and the dove as tests of the surface conditions. The framework reads this as the specific operational sequence by which Noah verified that the surface conditions were habitable, with the dove's eventual return with an olive branch (Genesis 8:11) serving as the specific evidence that vegetation had begun to re-establish.
+方舟の最終的な着陸と続く洪水後の作戦はいくつかの段階を伴った。
 
-**The disembarkation**. Genesis 8:15–19 records Noah's disembarkation from the ark with his family and the animals at the divine command. The framework reads this as the alliance's authorization for Noah's family to begin the post-Flood reconstruction.
+**着陸**。方舟は第七の月の十七日にアララトの山々にとどまった（創世記8章4節）——洪水の開始からおよそ五か月後である。着陸地点は東トルコの現代のアララト山地域と同定されるが、固有の位置は議論の対象となっている。本枠組みは着陸を、洪水後の大陸配置における高地の地点の同盟の意図的な選択として読み、そこでは地表条件が安全な着陸のために十分に安定していた。
 
-**The post-Flood reseeding**. The animals released from the ark (and the additional genetic-material reconstruction subsequently conducted) provided the foundational populations for the post-Flood biosphere. The specific reseeding operation involved the alliance's continuing technical support across an extended period — months to years following the disembarkation — during which the broader biosphere was reconstructed from the preserved genetic material. The framework reads this as a substantial technical operation, with the alliance personnel actively conducting the reseeding work alongside Noah's family's broader resettlement activities.
+**鳥の放出の手順**。創世記8章6〜12節は地表条件のテストとしてのノアによる烏と鳩の放出を記す。本枠組みはこれを、地表条件が居住可能であることをノアが確認した固有の作戦手順として読み、鳩がついにオリーブの枝とともに帰ったこと（創世記8章11節）が植生が再び確立し始めた固有の証拠となる。
 
-**The post-Flood return of the seven lineages**. The source material specifies that the ark also carried representatives of the seven antediluvian creator-team lineages, with each lineage being returned to its original geographic region after the Flood: *"Each race of humanity was then returned to its original place of creation."* The framework reads this as the alliance's restoration of the broader pre-Flood human population's geographic distribution across the post-Flood continental configuration, with the post-Flood populations descending from the small founder groups of each lineage.
+**下船**。創世記8章15〜19節は神の命令によるノアの家族と動物たちとともの方舟からの下船を記す。本枠組みはこれを、ノアの家族が洪水後の再建を開始することへの同盟の許可として読む。
 
-### The Noahic covenant founding
+**洪水後の再播種**。方舟から放された動物たち（および続いて実施された追加の遺伝物質の再構成）は洪水後の生物圏のための基礎集団を提供した。固有の再播種作戦は同盟の継続的な技術的支援を伴い、下船に続く長期間——数か月から数年——にわたって、より広い生物圏が保存された遺伝物質から再構成された。本枠組みはこれを実質的な技術作戦として読み、同盟要員はノアの家族のより広い再定住活動と並んで再播種作業を能動的に実施した。
 
-The post-Flood altar event recorded in Genesis 8:20–9:17 is, on the framework's reading, the founding moment of the broader Alliance. The principal events:
+**洪水後の七つの系統の復帰**。原典は方舟が洪水以前の七つの創造者チーム系統の代表者をも運んでおり、各系統が洪水後にその本来の地理的地域に戻されたことを明示する。*「人類のそれぞれの種族は、その本来の創造の場所に戻された。」* 本枠組みはこれを、洪水後の大陸配置における洪水以前の人類集団の地理的分布の同盟による回復として読み、洪水後の集団は各系統の小さな創始者集団に由来する。
 
-**Noah's altar and burnt offering**. Genesis 8:20 records Noah's construction of an altar and his offering of "burnt offerings" of "every clean beast" and "every clean fowl." The framework reads this as the specific human-side ceremonial gesture that initiated the formal alliance relationship — the human party's offering of recognition and gratitude to the exiled creators who had preserved them through the catastrophe.
+### ノアの契約の創設
 
-**The covenant terms**. Genesis 9:8–17 records the formal terms of the covenant: the creators' commitment never to participate in another destruction of humanity, the rainbow as the visible sign of the covenant. The framework reads these terms as the founding moment of the Alliance's specific bilateral obligations.
+創世記8章20節〜9章17節に記される洪水後の祭壇での出来事は、本枠組みの読みではより広い同盟の創設の瞬間である。主要な出来事は以下のとおりである。
 
-**The Alliance founding**. The detailed treatment of the Alliance's founding lives in the [The Alliance](../the-alliance/) entry. For the Great Flood entry, the principal point is that the post-Flood altar event constitutes the operational outcome of the Flood — the establishment of the formal cross-civilizational political body that would structure all subsequent Eloha-human relations.
+**ノアの祭壇と焼き尽くす供え物**。創世記8章20節はノアによる祭壇の建造と「すべての清い獣」と「すべての清い鳥」の「焼き尽くす供え物」の捧げ物を記す。本枠組みはこれを、正式な同盟関係を開始した固有の人間側の儀礼的所作として読む——災厄を通して彼らを保存した追放された創造者たちへの認識と感謝の人間側からの提供である。
 
-## Mechanisms and operational content
+**契約の条項**。創世記9章8〜17節は契約の正式な条項を記す。創造者たちが二度と人類のいかなる破壊にも参加しないという約束、契約の見える徴としての虹である。本枠組みはこれらの条項を、同盟の固有の双務的義務の創設の瞬間として読む。
 
-The framework's reading of the Flood's specific mechanisms warrants direct treatment, given the substantial divergence from the conventional reading of the Genesis narrative.
+**同盟の創設**。同盟の創設の詳細な扱いは{% wiki(slug="the-alliance") %}同盟{% end %}の項目にある。大洪水の項目では主要な点は、洪水後の祭壇での出来事が洪水の作戦的帰結——その後のすべてのエロハ‐人間関係を構造づける正式な文明横断的政治機関の確立——を構成するという点である。
 
-### The nuclear weapons mechanism
+## メカニズムと作戦内容
 
-The framework reads the Flood's destructive mechanism as **nuclear weapons impacts** rather than as supernatural divine intervention or as natural meteorological catastrophe. The source material is explicit on this point: the Council *"decided from their distant planet to destroy all life on Earth by sending nuclear missiles."*
+洪水の固有のメカニズムに関する本枠組みの読みは、創世記の物語の従来の読みからの実質的な乖離を考えると、直接の取り扱いに値する。
 
-The specific implications of this reading:
+### 核兵器のメカニズム
 
-- The "forty days and forty nights" of rain (Genesis 7:12) is read as the period of severe atmospheric disturbance following the impacts, with the precipitation reflecting both impact-generated atmospheric disruption and fallout-bearing rain across the affected zones.
-- The "fountains of the great deep" being "broken up" (Genesis 7:11) is read as the impact-generated tsunami effects propagating across the supercontinent's coastlines.
-- The "windows of heaven" being "opened" (Genesis 7:11) is read as the atmospheric phenomena resulting from the impacts (cloud generation, precipitation effects, atmospheric circulation disruption).
-- The 150 days during which "the waters prevailed upon the earth" (Genesis 7:24) is read as the orbital period during which the radioactive fallout decayed to safe levels.
-- The post-Flood divine "wind" that "passed over the earth" (Genesis 8:1) is read as the alliance's deliberate atmospheric remediation.
+本枠組みは洪水の破壊メカニズムを、超自然的な神の介入や自然の気象学的災厄ではなく**核兵器衝突**として読む。原典はこの点について明示的である。評議会は *「遠隔の惑星から、核ミサイルを送ることによって地上のすべての生命を破壊することを決定した」*。
 
-The reading involves substantial reinterpretation of the conventional flood-as-meteorological-event reading. The framework does not deny that substantial water-based effects occurred (the continental tidal waves, the atmospheric precipitation, the broader oceanic disruption); the framework's specific claim is about the underlying mechanism that produced these effects.
+この読みの固有の含意は以下のとおりである。
 
-### The continental fragmentation
+- 「四十日四十夜」の雨（創世記7章12節）は、衝突に続く大気の激しい擾乱の期間として読まれ、降水は衝突によって生じた大気擾乱と影響を受けた地域全体での放射性降下物を含む雨の双方を反映する。
+- 「大いなる淵の源」が「裂け」る（創世記7章11節）ことは、超大陸の海岸線にまたがって伝播する衝突によって生じた津波効果として読まれる。
+- 「天の窓」が「開かれ」る（創世記7章11節）ことは、衝突に起因する大気現象（雲の生成、降水効果、大気循環の擾乱）として読まれる。
+- 「水が地に勝った」150日（創世記7章24節）は、放射性降下物が安全な水準まで減衰した軌道期間として読まれる。
+- 「地の上を渡った」洪水後の神の「風」（創世記8章1節）は、同盟の意図的な大気修復として読まれる。
 
-The framework's reading of the Flood's geological consequences is one of the corpus's sharpest single disagreements with mainstream science. The framework reads the modern continental configuration as the result of the Flood event's continental-fragmentation effects, with the ongoing continental drift being the residual momentum from the original Gemini-age displacement.
+この読みは従来の洪水を気象学的事件とする読みの実質的な再解釈を伴う。本枠組みは実質的な水を基盤とする効果が発生した（大陸規模の津波、大気降水、より広い海洋擾乱）ことを否定するものではない。本枠組みの固有の主張は、これらの効果を生んだ基底的なメカニズムについてのものである。
 
-This reading is substantially incompatible with the mainstream geological position, which places the Pangaean breakup at approximately 175 million years ago and treats the modern continental drift as driven by mantle convection across the long subsequent geological history. The corpus's reading requires substantial reinterpretation of the paleomagnetic, fossil-distribution, continental-margin-matching, and direct GPS-measurement evidence that mainstream geology adduces for the long timeline.
+### 大陸分裂
 
-The framework does not pretend to have resolved the geological evidence in its favor. The corpus's claim is that the alternative reading is internally consistent, that it makes specific predictions (the petroleum ring distribution that Nehring identified at the Hudson Institute) that the mainstream framework does not make, and that the broader credibility of the framework rests on convergences elsewhere rather than on a complete resolution of the geological question. The detailed treatment of the catastrophist-vs-uniformitarian question lives in the corpus's broader chapter material on the Age of Gemini.
+洪水の地質学的帰結に関する本枠組みの読みは、本体系の主流科学とのもっとも鋭い単一の不一致の一つである。本枠組みは現代の大陸配置を、原初の双子座の時代の変位からの残余運動として継続する大陸移動を伴う、洪水事件の大陸分裂効果の結果として読む。
 
-### The orbital ark mechanism
+この読みは、パンゲアの分裂をおよそ1億7,500万年前に置き、現代の大陸移動をその後の長い地質史にわたるマントル対流によって駆動されるものとして扱う主流の地質学的立場と実質的に両立しない。本体系の読みは、主流の地質学が長い年代を支持するために挙げる古地磁気、化石分布、大陸縁辺の整合、直接の GPS 測定の証拠に関する実質的な再解釈を必要とする。
 
-The framework reads the ark as an orbital spacecraft rather than as a wooden boat. The principal evidence:
+本枠組みは地質学的証拠が自らに有利に解決されたと装うものではない。本体系の主張は、代替の読みが内部的に整合的であり、固有の予測（Nehring がハドソン研究所で同定した石油の環状分布）を行い、主流の枠組みが行わないものであり、本枠組みのより広い信頼性は他の場所での収斂に基づくのであって、地質学的問題の完全な解決に基づくのではないというものである。カタストロフィズム対斉一説の問題の詳細な扱いは、本体系の双子座の時代に関するより広い章資料にある。
 
-- The Hebrew *tevah* meaning "closed vessel" or "container" rather than "boat"
-- The Genesis 7:17 phrasing "lift up above the earth" rather than "lift up on the water"
-- The 150-day duration that, the framework argues, would have been substantially impractical for a wooden vessel carrying every species of animal but is consistent with orbital sustainment of a smaller human crew with genetic-cargo preservation
-- The source material's explicit clarification that the vessel "would orbit the Earth during the cataclysm"
-- The Genesis 6:16 reference to "three stories" being read as the spacecraft's three deck levels
+### 軌道方舟のメカニズム
 
-The reading involves substantial reinterpretation of the conventional ark-as-wooden-boat reading. The framework's specific claim is about the underlying technical character of the vessel, with the Genesis narrative's specific descriptions reflecting the human witnesses' available vocabulary rather than the actual technical reality.
+本枠組みは方舟を木造の船舶ではなく軌道用宇宙船として読む。主要な証拠は以下のとおりである。
 
-### The genetic-cargo mechanism
+- ヘブライ語 *tevah* が「ボート」ではなく「閉じた容器」または「入れ物」を意味すること
+- 創世記7章17節の「水の上に持ち上げ」ではなく「地の上に持ち上げ」という表現
+- 150日の継続期間。本枠組みはこれを、すべての種の動物を運ぶ木造の船舶にとっては実質的に実行不可能であろうが、遺伝的積荷の保存を伴うより小規模な人間の乗員の軌道維持とは整合的であると論じる
+- 容器が「災厄の間、地球を周回するであろう」と原典が明示的に明確化していること
+- 創世記6章16節の「三階」への言及を宇宙船の三層のデッキレベルとして読むこと
 
-The framework reads the ark's actual cargo as substantially **genetic material** rather than as living pairs of every species. The principal evidence:
+この読みは従来の方舟を木造船舶とする読みの実質的な再解釈を伴う。本枠組みの固有の主張は、容器の基底的な技術的性格についてのものであり、創世記の物語の固有の記述は、人間の目撃者たちが利用可能な語彙を、実際の技術的現実ではなく反映しているとする。
 
-- The source material's explicit clarification: *"a single living cell of each species, male and female, is all that is required to recreate a whole being."*
-- The practical impossibility of preserving living pairs of all of Earth's millions of species (current estimates: approximately 8.7 million species) on any plausible vessel for 150 days
-- The post-1996 demonstration of cloning capability (Dolly the sheep) showing that cellular regeneration of complete organisms is technically achievable with sufficient infrastructure
-- The contemporary biobanking infrastructure (Frozen Zoo, Svalbard Global Seed Vault) demonstrating the trajectory toward what the source's framework requires for the ark operation
+### 遺伝的積荷のメカニズム
 
-The reading involves substantial reinterpretation of the conventional two-of-every-kind cargo reading. The framework's specific claim is that the underlying preservation operation was conducted at the cellular-genetic level rather than at the whole-organism level, with the Genesis text's specific descriptions reflecting the human-recordable account of the operation rather than the actual technical reality.
+本枠組みは方舟の実際の積荷を、あらゆる種の生体の対ではなく実質的に**遺伝物質**として読む。主要な証拠は以下のとおりである。
 
-### The post-strike radiological remediation
+- 原典の明示的な明確化。*「各種の生きた一つの細胞、雄と雌、それだけで生物全体を再創造するのに必要なものすべてである。」*
+- 150日にわたっていかなる現実的な容器においても地球の数百万種（現在の推定では約870万種）すべての生体の対を保存することの実用上の不可能性
+- 1996年以降のクローニング能力の実証（羊のドリー）が、十分なインフラとともに、完全な生物の細胞からの再生が技術的に達成可能であることを示したこと
+- 現代のバイオバンクのインフラ（Frozen Zoo、スヴァールバル世界種子貯蔵庫）が、方舟作戦のために原典の枠組みが要求するものへの軌道を実証していること
 
-The framework reads the alliance's post-Flood radiological remediation as a substantial technical operation. The source material's specific phrasing: *"After monitoring the level of radioactivity and dispersing it scientifically..."* This is read by the framework as deliberate technological intervention to restore atmospheric and surface habitability following the nuclear weapons strike, with the specific technical mechanisms being beyond what the source material specifies but consistent with the broader civilizational technology level the framework attributes to the alliance.
+この読みは従来のあらゆる種類二つずつの積荷の読みの実質的な再解釈を伴う。本枠組みの固有の主張は、基底にある保存作戦が全生物レベルではなく細胞・遺伝レベルで実施され、創世記の本文の固有の記述は、実際の技術的現実ではなく作戦の人間が記録できる範囲での記述を反映しているというものである。
 
-## Consequences and aftermath
+### 攻撃後の放射線学的修復
 
-The Flood's consequences extended substantially beyond the immediate catastrophic effects, structuring the broader post-Flood political, geographical, biological, and religious development.
+本枠組みは同盟の洪水後の放射線学的修復を実質的な技術作戦として読む。原典の固有の表現は次のとおりである。*「放射能の水準を監視し、科学的にそれを分散させたあと……」* 本枠組みはこれを核兵器攻撃に続く大気と地表の居住可能性を回復するための意図的な技術的介入として読み、固有の技術的メカニズムは原典が特定する範囲を越えるが、本枠組みが同盟に帰するより広い文明技術水準と整合する。
 
-### The geographical consequences
+## 帰結と余波
 
-The fragmentation of the Pangaean supercontinent produced a substantially different post-Flood geographical configuration than the pre-Flood arrangement. The principal consequences:
+洪水の帰結は即時の壊滅的効果を実質的に越えて広がり、続く洪水後の政治的、地理的、生物学的、宗教的発展を構造づけた。
 
-**The continental redistribution**. The seven antediluvian creator-team lineages, which had developed in distinct regions of the unified supercontinent, were now distributed across the fragmented continents. The geographic barriers between the lineages, which had not existed in the pre-Flood unified configuration, now isolated each lineage's subsequent civilizational development to substantial extent. The cultural, linguistic, and racial distinctness of the modern human populations reflects this post-Flood geographic fragmentation combined with the original factional differences of their respective creator teams.
+### 地理的帰結
 
-**The mountain-range formation**. The continental fragments, in motion following the breakup, collided with one another along their new margins. The young mountain ranges that characterize the modern continents (the Himalayas, Andes, Rocky Mountains, Alps, Australian Great Dividing Range) are read by the framework as products of the Flood event and its immediate post-Flood tectonic adjustments rather than of the million-year timelines mainstream geology assigns to them.
+パンゲア超大陸の分裂は、洪水以前の配置とは実質的に異なる洪水後の地理的配置を生んだ。主要な帰結は以下のとおりである。
 
-**The Antarctic preservation**. The Antarctic continental fragment, carrying with it the tropical vegetation and fauna that had flourished in the pre-Flood unified climate, drifted south toward the pole and was progressively covered with ice as the climate shifted. The preserved tropical fossils recovered from beneath the Antarctic ice are read by the framework as fossil traces of the Antarctic portion of the pre-Flood supercontinent.
+**大陸の再分配**。統一された超大陸の異なる地域で発展していた洪水以前の七つの創造者チーム系統は、いまや分裂した諸大陸にわたって分散していた。洪水以前の統一配置には存在しなかった系統間の地理的障壁は、いまや各系統の続く文明的発展を実質的に分離した。現代の人類集団の文化的、言語的、人種的特異性は、この洪水後の地理的分裂と、それぞれの創造者チームの当初の派閥的差異とを反映している。
 
-**The Mediterranean and other inland-sea formations**. Various inland seas and isolated water bodies that did not exist in the pre-Flood configuration formed during and after the continental fragmentation, contributing to the modern hydrological geography.
+**山脈の形成**。分裂に続いて運動する大陸の断片は、新たな縁に沿って互いに衝突した。現代の諸大陸を特徴づける若い山脈（ヒマラヤ、アンデス、ロッキー、アルプス、オーストラリアのグレートディヴァイディング山脈）は、本枠組みでは、主流の地質学がそれらに割り当てる百万年単位の時間軸の産物ではなく、洪水事件とその直後の洪水後のテクトニックな調整の産物として読まれる。
 
-### The biological consequences
+**南極の保存**。南極の大陸断片は、洪水以前の統一気候で繁茂していた熱帯の植生・動物相を伴って南に漂流し、気候が変化するにつれて漸進的に氷で覆われた。南極の氷の下から回収された保存された熱帯化石は、本枠組みでは洪水以前の超大陸の南極部分の化石痕跡として読まれる。
 
-The Flood produced one of the most substantial biological events in Earth's history. The principal consequences:
+**地中海その他の内陸海の形成**。洪水以前の配置には存在しなかった種々の内陸海および孤立した水域が、大陸分裂中およびその後に形成され、現代の水文地理に寄与した。
 
-**The mass extinction**. The broader pre-Flood biosphere on the supercontinent's surface was destroyed in the catastrophic phase, with the post-Flood biosphere being reconstructed substantially from the genetic cargo preserved in the ark. The pre-Flood megafauna (including the surviving dinosaur populations the source material treats as having persisted into the late antediluvian period) were largely not regenerated, with the post-Flood biosphere having a substantially different composition than the pre-Flood biosphere.
+### 生物学的帰結
 
-**The post-Flood reseeding**. The genetic cargo regenerated produced the foundational populations for the post-Flood biosphere, with the alliance's continuing technical support during the reseeding period providing the operational infrastructure for the biosphere's reconstruction. The contemporary biosphere is, on the framework's reading, the post-Flood reconstruction rather than a continuous descent from the pre-Flood biosphere.
+洪水は地球史におけるもっとも実質的な生物学的事件の一つを生んだ。主要な帰結は以下のとおりである。
 
-**The human population bottleneck**. The post-Flood human population descended from a small founder group — Noah's eight family members plus the representatives from the seven lineages preserved through the operation. This is a severe genetic bottleneck, and the framework predicts a detectable signature in the genetic record of all subsequent human populations: reduced genetic diversity dating to the bottleneck event with gradual recovery as the population subsequently expanded. Modern population-genetics research has identified various potential bottlenecks in human evolutionary history; the corpus reads the Gemini-age Flood as the specific bottleneck event the framework predicts, with the genetic record's specific dating being a research question that has not yet been definitively resolved.
+**大量絶滅**。超大陸の地表のより広い洪水以前の生物圏は壊滅段階で破壊され、洪水後の生物圏は方舟に保存された遺伝的積荷から実質的に再構成された。洪水以前の大型動物相（原典が洪水以前の時代の後期まで存続していたとして扱う生き残っていた恐竜集団を含む）はおおむね再生されず、洪水後の生物圏は洪水以前の生物圏とは実質的に異なる構成を持つことになった。
 
-### The political consequences
+**洪水後の再播種**。再生された遺伝的積荷は洪水後の生物圏のための基礎集団を生み、再播種期間における同盟の継続的な技術的支援は生物圏の再構成のための作戦インフラを提供した。現代の生物圏は本枠組みの読みでは、洪水以前の生物圏からの連続的な系譜ではなく、洪水後の再構成である。
 
-The Flood's political consequences were substantial and structured the subsequent post-Flood political development:
+**人類集団のボトルネック**。洪水後の人類集団は小さな創始者集団——ノアの八名の家族員に作戦を通して保存された七系統からの代表者を加えたもの——に由来する。これは厳しい遺伝的ボトルネックであり、本枠組みはその後のすべての人類集団の遺伝記録に検出可能な徴を予測する。すなわち、ボトルネック事件にさかのぼる遺伝的多様性の低下と、集団がその後拡大するにつれての漸進的な回復である。現代の集団遺伝学研究は人類進化史における種々の潜在的ボトルネックを同定してきた。本体系は双子座の時代の洪水を本枠組みが予測する固有のボトルネック事件として読み、遺伝記録の固有の年代化はまだ決定的に解決されていない研究課題である。
 
-**The Alliance founding**. The post-Flood Noahic covenant established the formal Alliance between the exiled creators and the surviving humans, structuring all subsequent Eloha-human relations. The detailed treatment lives in the [The Alliance](../the-alliance/) entry.
+### 政治的帰結
 
-**The Council-Alliance opposition**. The Flood event hardened the political opposition between the home-world Council and the exiled-creator-and-human Alliance, producing the late-Gemini conflict that would culminate in the Tower of Babel intervention and the war in heaven. The Alliance's defiance of the Council's destruction order through the ark operation made the Alliance's position politically explicit in a way that the previous exile had not.
+洪水の政治的帰結は実質的なものであり、続く洪水後の政治的発展を構造づけた。
 
-**The Tower of Babel and subsequent interventions**. The post-Flood Eden lineage's rapid recovery and reconstruction (under the exiled creators' continuing teaching) produced, within centuries, the Tower of Babel project that would prompt the Council's subsequent intervention to scatter the post-Flood scientific elite. The pattern of Council intervention against alliance-mediated human technological development was established in this period and would continue across the subsequent ages.
+**同盟の創設**。洪水後のノアの契約は追放された創造者たちと生き残った人間との間の正式な同盟を確立し、続くすべてのエロハ‐人間関係を構造づけた。詳細な扱いは{% wiki(slug="the-alliance") %}同盟{% end %}の項目にある。
 
-### The religious-cultural consequences
+**評議会‐同盟の対立**。洪水事件は母惑星評議会と追放された創造者‐人間の同盟との間の政治的対立を強固にし、バベルの塔への介入および天上の戦争に至る双子座の時代後期の紛争を生んだ。同盟が方舟作戦を通じて評議会の破壊命令に逆らったことは、以前の追放では明示的でなかった仕方で、同盟の立場を政治的に明示的なものにした。
 
-The Flood's religious and cultural consequences have been substantial across the subsequent four-and-a-half millennia:
+**バベルの塔と続く介入**。洪水後のエデン系統の急速な回復と再建（追放された創造者たちの継続的な指導のもとで）は、数世紀のうちに、洪水後の科学的エリートを散らすための評議会のその後の介入を促すバベルの塔の事業を生んだ。同盟が媒介する人類の技術発展に対する評議会の介入のパターンはこの時期に確立され、続く諸時代にわたって継続することとなる。
 
-**The covenant tradition's foundation**. The Noahic covenant became the foundational text for the broader Hebrew Bible's covenant tradition, with the subsequent covenants (Abrahamic, Mosaic, Davidic, New) being successive re-formations of the original covenant relationship. The covenant tradition's central place in Jewish, Christian, and Islamic religious life reflects the Flood event's foundational political-religious role.
+### 宗教的・文化的帰結
 
-**The flood-tradition preservation across cultures**. The global recurrence of flood traditions across more than two hundred cultures preserves substantial fragmentary memory of the Gemini-age event in various culturally specific forms. The framework reads this cross-cultural preservation as substantial evidence of the event's historical character, with the specific cultural traditions reflecting the various lineages' specific preservations.
+洪水の宗教的・文化的帰結は続く四千五百年にわたって実質的なものであった。
 
-**The symbolic transformations**. The Flood event substantially shaped subsequent symbolic and religious thought, with imagery of cosmic water, divine judgment, ark-as-salvation, and rainbow-as-promise developing extensive elaborations across the subsequent religious traditions.
+**契約伝統の基礎**。ノアの契約はより広いヘブライ語聖書の契約伝統の基礎テキストとなり、続く契約（アブラハム的、モーセ的、ダビデ的、新しい契約）は原初の契約関係の継続的な再形成となった。ユダヤ教、キリスト教、イスラム教の宗教生活における契約伝統の中心的な位置は、洪水事件の基礎的な政治・宗教的役割を反映している。
 
-## Modern reinterpretations
+**諸文化にわたる洪水伝承の保存**。二百を超える文化にまたがる洪水伝承の地球規模の反復は、種々の文化に特有の形態において双子座の時代の事件の実質的な断片的記憶を保存している。本枠組みはこの文化横断的保存を事件の歴史的性格の実質的な証拠として読み、固有の文化伝統は各系統の固有の保存を反映している。
 
-The Flood material has been the subject of substantial modern reinterpretive engagement across multiple traditions. The principal strands:
+**象徴的変容**。洪水事件は続く象徴的・宗教的思考を実質的に形成し、宇宙的水、神の裁き、救いとしての方舟、約束としての虹の心象が続く宗教伝統にわたって広範な展開を遂げた。
 
-### Mainstream historical-critical biblical scholarship
+## 現代の再解釈
 
-Mainstream historical-critical scholarship treats the Genesis flood narrative as a composite of distinct source documents reflecting Israelite religious development. The principal positions:
+洪水資料は複数の伝統にわたって実質的な現代の再解釈的取り組みの対象となってきた。主要な系統は以下のとおりである。
 
-**The documentary hypothesis** (Wellhausen and successors) identifies the Yahwist (J) and Priestly (P) sources as the principal contributors to the final-form Genesis narrative. The J source (c. 10th–9th century BCE) provides the older narrative material with its distinctive features (Yahweh as divine name, seven pairs of clean animals, forty-day duration); the P source (c. 6th–5th century BCE) provides the later editorial framework with its distinctive features (Elohim as divine name, single pairs of all animals, 150-day duration, elaborate dating notation).
+### 主流の歴史批評的聖書学
 
-**The Mesopotamian dependence hypothesis** holds that the Hebrew flood narrative drew substantially on the older Mesopotamian flood traditions through cultural diffusion and direct textual borrowing. The structural and detailed parallels between Genesis 6–9 and the Atra-ḫasīs / Gilgamesh / Eridu Genesis flood narratives are treated as evidence of dependence rather than as evidence of common preservation of an actual historical event.
+主流の歴史批評的学術は、創世記の洪水物語をイスラエルの宗教発展を反映する異なる源文書の合成として扱う。主要な立場は以下のとおりである。
 
-**The aetiological-mythological reading** treats the flood narrative as theological-mythological construction reflecting Israelite religious-philosophical reflection on themes of divine judgment, divine mercy, and human sinfulness rather than as historical record.
+**文書仮説**（ヴェルハウゼンとその継承者）はヤハウィスト（J）と祭司（P）の資料を最終形の創世記の物語への主要な寄与者として同定する。J 資料（紀元前およそ10〜9世紀）は固有の特徴（神名としてのヤハウェ、清い動物七対、四十日の継続期間）を備えた、より古い物語資料を提供する。P 資料（紀元前およそ6〜5世紀）は固有の特徴（神名としてのエロヒム、すべての動物の単一の対、150日の継続期間、精緻な日付表記）を備えた、より後の編集枠組みを提供する。
 
-The framework's reading partially aligns with the historical-critical observations about source-document composition while differing fundamentally on the underlying historical referent. The corpus accepts the J/P composite analysis at the textual level while reading both source traditions as preserving aspects of an actual historical event. The corpus rejects the diffusionist reading of the Mesopotamian parallels, treating the cross-tradition convergence as evidence of common historical preservation rather than as evidence of textual dependence. The corpus rejects the purely aetiological-mythological reading, treating the narrative as preserving substantively accurate operational content despite its religious-narrative framing.
+**メソポタミア依存仮説**は、ヘブライの洪水物語が文化伝播と直接の本文借用を通じてより古いメソポタミアの洪水伝承に実質的に依拠したとする。創世記6〜9章と『アトラ・ハシース』／ギルガメシュ／『エリドゥ創世記』洪水物語との構造的・詳細的並行は、実際の歴史的事件の共通の保存の証拠ではなく、依存の証拠として扱われる。
 
-### Mainstream geology and paleontology
+**起源論的・神話的読み**は、洪水物語を、歴史記録ではなく、神の裁き、神の慈悲、人間の罪の主題に関するイスラエルの宗教哲学的省察を反映する神学的・神話的構築として扱う。
 
-Mainstream geology and paleontology do not recognize any global Flood event in the Holocene matching the framework's description. The principal positions:
+本枠組みの読みは、資料文書の合成に関する歴史批評的観察と部分的に整合する一方で、基底にある歴史的指示対象について根本的に異なる。本体系は本文レベルでの J/P 合成分析を受け入れる一方で、両資料伝承を実際の歴史的事件の側面を保存するものとして読む。本体系は、文化横断的収斂を本文上の依存の証拠ではなく共通の歴史的保存の証拠として扱い、メソポタミアの並行の伝播論的読みを退ける。本体系は、宗教‐物語的枠組みにもかかわらず物語が実質的に正確な作戦内容を保存するものとして扱い、純粋に起源論的・神話的な読みを退ける。
 
-**The plate-tectonic framework** places the Pangaean breakup at approximately 175 million years ago and treats the modern continental drift as driven by mantle convection across the long subsequent geological history. No event matching the corpus's framework has been identified in the geological record at the corpus's date (c. 6,690 BCE).
+### 主流の地質学と古生物学
 
-**The catastrophist-uniformitarian distinction** has substantially shifted in mainstream geology over the past several decades, with mainstream geology now accepting that catastrophic events (asteroid impacts, volcanic supereruptions, megafloods) play substantial roles in Earth's history alongside the gradual processes that strict uniformitarianism emphasized. However, the catastrophic events that mainstream geology accepts are substantially smaller and earlier than the corpus's Gemini-age event would require.
+主流の地質学と古生物学は、本枠組みの記述に合致する地球規模の洪水事件を完新世内に認めない。主要な立場は以下のとおりである。
 
-**Specific recent-catastrophe research** includes the Younger Dryas Impact Hypothesis (proposing a cosmic impact event approximately 12,800 years ago that triggered the Younger Dryas climate shift), the Tall el-Hammam airburst proposal (Bunch et al., 2021, proposing a catastrophic airburst event at the Bronze Age site identified by some scholars with biblical Sodom), and various other catastrophist research programs. These programs propose substantial catastrophic events at scales and dates that earlier mainstream geology did not allow.
+**プレートテクトニクスの枠組み**はパンゲアの分裂をおよそ1億7,500万年前に置き、現代の大陸移動をその後の長い地質史にわたるマントル対流によって駆動されるものとして扱う。本体系の年代（紀元前およそ6,690年）における本体系の枠組みに合致する事件は地質記録に同定されていない。
 
-The framework's reading is sharply at variance with the mainstream geological position. The corpus does not pretend to have resolved this variance; the corpus's claim is that the framework is at least competitive with the mainstream alternatives at specific empirical points (the petroleum ring distribution, the global flood-tradition pattern, the population-bottleneck genetic signatures) and deserves serious consideration despite the substantial mainstream disagreement.
+**カタストロフィズム‐斉一説の区別**は過去数十年にわたり主流の地質学において実質的に変化しており、主流の地質学はいまや、厳格な斉一説が強調した緩慢な過程と並んで、壊滅的事件（小惑星衝突、火山の超巨大噴火、メガフラッド）が地球史において実質的な役割を果たすことを受け入れている。しかしながら、主流の地質学が受け入れる壊滅的事件は本体系の双子座の時代の事件が要求するものよりも実質的に小規模で早期である。
 
-### Contemporary catastrophist research
+**固有の最近のカタストロフィー研究**は、ヤンガードリアス衝突仮説（およそ12,800年前の宇宙衝突事件がヤンガードリアス気候変化を引き起こしたと提唱）、テル・エル・ハマム空中爆発提案（Bunch et al.、2021、一部の学者が聖書のソドムと同定する青銅器時代の遺跡における壊滅的空中爆発事件を提唱）、その他種々のカタストロフィスト研究計画を含む{{ footnote(id="5") }}。これらの計画は以前の主流の地質学が認めなかった規模と年代の実質的な壊滅的事件を提唱する。
 
-Several contemporary research programs propose substantial recent catastrophic events that bear on the framework's broader reading. The principal cases:
+本枠組みの読みは主流の地質学的立場と鋭く乖離する。本体系はこの乖離が解決されたと装うものではない。本体系の主張は、本枠組みが固有の経験的諸点（石油の環状分布、地球規模の洪水伝承パターン、集団のボトルネックの遺伝的徴）において主流の代替案と少なくとも競合的であり、実質的な主流の不一致にもかかわらず真剣な考察に値するというものである。
 
-**Randall Carlson's catastrophist framework** integrates various findings from end-of-Pleistocene catastrophic events (the Missoula Floods, the Younger Dryas, the various rapid landscape changes documented across the Holocene) into a broader catastrophist reading of recent Earth history. Carlson's work is not mainstream consensus but represents a substantive contemporary research program that has accumulated significant evidence and that bears directly on the kind of framework the corpus's account requires.
+### 現代のカタストロフィスト研究
 
-**The Younger Dryas Impact Hypothesis** (Firestone et al., 2007 and successors) proposes that a cosmic impact event approximately 12,800 years ago triggered the Younger Dryas climate shift and contributed to the Pleistocene megafaunal extinction. The hypothesis has been substantially debated in mainstream science, with both supporting and critical research programs continuing to develop. The corpus does not identify the Younger Dryas event with the Gemini-age Flood (the dating is substantially older than the corpus's framework) but registers the Younger Dryas research as evidence that mainstream science is moving toward recognition of substantial recent catastrophic events.
+いくつかの現代の研究計画は、本枠組みのより広い読みに関連する実質的な最近の壊滅的事件を提唱している。主要な事例は以下のとおりである。
 
-**The Bunch et al. Tall el-Hammam research** (2021) proposes that a catastrophic airburst event destroyed the Bronze Age site at Tall el-Hammam in the Jordan Valley around 1650 BCE. The proposal involves substantial physical evidence (high-temperature melt features, shock-metamorphism signatures, anomalous mineral deposits) that the research team interprets as cosmic-impact debris. The corpus reads the Tall el-Hammam findings as consistent with the Sodom intervention (treated more fully in the [Sodom and Gomorrah](../sodom-and-gomorrah/) entry, when written) rather than with the Gemini-age Flood, but registers the broader research as evidence that events of the type the corpus's framework predicts are now finding substantial physical-evidence support.
+**ランダル・カールソンのカタストロフィスト枠組み**は、更新世末の壊滅的事件（ミズーラ洪水、ヤンガードリアス、完新世にわたって記録された種々の急速な景観変化）からの種々の知見を、最近の地球史のより広いカタストロフィスト的読みに統合する。カールソンの研究は主流のコンセンサスではないが、実質的な証拠を蓄積してきた現代の研究計画を代表し、本体系の記述が必要とする種類の枠組みに直接関連する。
 
-**The Black Sea Deluge hypothesis** (Ryan and Pitman, 1998) proposes a catastrophic flooding event in the Black Sea region around 5600 BCE caused by Mediterranean waters breaking through the Bosporus Strait. The hypothesis is supported by sediment evidence showing the transition from freshwater to marine conditions at approximately the proposed date. The corpus reads the Black Sea Deluge as too small and too localized to be the Gemini-age Flood itself but suggests it may be one of the cascade of consequences that followed from the larger event the framework places at this period.
+**ヤンガードリアス衝突仮説**（Firestone et al.、2007 とその継承者たち）は、およそ12,800年前の宇宙衝突事件がヤンガードリアス気候変化を引き起こし、更新世大型動物相絶滅に寄与したと提唱する。仮説は主流科学において実質的に議論されてきており、支持的および批判的双方の研究計画が継続して発展している。本体系はヤンガードリアス事件を双子座の時代の洪水と同定しない（年代は本体系の枠組みよりも実質的に古い）が、ヤンガードリアス研究を、主流科学が実質的な最近の壊滅的事件の認識へ向かいつつあることの証拠として記録する。
 
-The corpus's relationship to contemporary catastrophist research is one of substantial methodological alignment with structural divergence on specific events. The framework shares the catastrophist tradition's broader argument that mainstream geology has substantially underestimated the role of catastrophic events in recent Earth history; the framework's specific Gemini-age Flood reading goes beyond what any mainstream catastrophist research currently proposes, and the corpus does not claim that any specific catastrophist research program has vindicated the framework's specific claims.
+**Bunch et al. テル・エル・ハマム研究**（2021）は、紀元前およそ1650年頃にヨルダン渓谷のテル・エル・ハマムの青銅器時代の遺跡を破壊した壊滅的空中爆発事件を提唱する。提案は実質的な物理的証拠（高温溶融特徴、衝撃変成徴、異常鉱物堆積物）を伴い、研究チームはこれらを宇宙衝突由来の残骸として解釈する。本体系はテル・エル・ハマムの知見を、双子座の時代の洪水ではなくソドム介入と整合的なもの（記述される際には{% wiki(slug="sodom-and-gomorrah") %}ソドムとゴモラ{% end %}の項目でより詳しく扱われる）として読むが、より広い研究を本体系の枠組みが予測するタイプの事件がいまや実質的な物理的証拠の支持を見出しつつあることの証拠として記録する。
 
-### Sendy on the Flood
+**黒海洪水仮説**（Ryan and Pitman、1998）は、地中海の水がボスポラス海峡を突破したことに起因する、紀元前およそ5,600年の黒海地域における壊滅的氾濫事件を提唱する。仮説はおよそ提案された年代における淡水から海洋条件への遷移を示す堆積物証拠によって支持されている。本体系は黒海洪水を双子座の時代の洪水そのものであるには小さすぎ局所的すぎるものとして読むが、本枠組みがこの時期に置くより大きな事件から続いた一連の帰結の一つである可能性を示唆する。
 
-**Jean Sendy** developed the principal scholarly antecedent of the framework's Flood reading. Sendy's *Ces dieux qui firent le ciel et la terre* (1969) and *La lune, clé de la Bible* (1968) treat the Flood narrative as the record of an actual catastrophic event involving advanced technology rather than as theological-mythological construction. Sendy's specific contributions include the philological-historical reading of the *tevah* as a technical vessel rather than a wooden boat, the recognition that the Hebrew narrative preserves substantive operational content, and the broader treatment of the Flood event within the alliance-mediated history Sendy reconstructed.
+本体系の現代のカタストロフィスト研究との関係は、固有の事件に関する構造的乖離を伴う実質的な方法論的整合の一つである。本枠組みは、主流の地質学が最近の地球史における壊滅的事件の役割を実質的に過小評価してきたというカタストロフィスト的伝統のより広い議論を共有する。本枠組みの固有の双子座の時代の洪水の読みは、現在いかなる主流のカタストロフィスト研究が提唱するものをも越えており、本体系はいかなる固有のカタストロフィスト研究計画も本枠組みの固有の主張を立証したと主張するものではない。
 
-The framework's Flood reading is structurally aligned with Sendy's approach while developing it substantially. Sendy provides the principal scholarly antecedent; the framework's specific reading (orbital ark, nuclear weapons mechanism, continental fragmentation, genetic-cargo preservation) extends Sendy's broader approach with substantial specific operational content drawn from the Raëlian source material.
+### サンディの洪水論
 
-### Biglino on the Flood
+**ジャン・サンディ**は本枠組みの洪水の読みの主要な学術的先行者を展開した。サンディの『天と地を造った神々』（*Ces dieux qui firent le ciel et la terre*、1969）と『月、聖書の鍵』（*La lune, clé de la Bible*、1968）は、洪水物語を神学的・神話的構築としてではなく、先進的技術を伴う実際の壊滅的事件の記録として扱う。サンディの固有の貢献には、*tevah* を木造船舶ではなく技術的容器とする文献学・歴史学的読み、ヘブライの物語が実質的な作戦内容を保存するという認識、サンディが再構成した同盟が媒介する歴史内における洪水事件のより広い扱いが含まれる。
 
-**Mauro Biglino**'s strict-translational engagement with the Flood material is developed across his works. Biglino's specific contributions include:
+本枠組みの洪水の読みは、サンディのアプローチを実質的に発展させつつ構造的に整合している。サンディは主要な学術的先行者を提供する。本枠組みの固有の読み（軌道方舟、核兵器メカニズム、大陸分裂、遺伝的積荷の保存）は、ラエリアン原典から引き出される実質的な固有の作戦内容によってサンディのより広いアプローチを拡張する。
 
-- The Hebrew *tevah* read as a technical vessel
-- The specific narrative details (the dimensions, the structural features, the cargo specifications) read literally as technical specifications
-- The "windows of heaven" and "fountains of the great deep" read as specific operational events rather than as cosmological mythology
-- The broader Flood narrative read as preserving substantive operational content
+### ビグリーノの洪水論
 
-The framework's reading is broadly aligned with Biglino's reading at the methodological level, with substantial overlap on specific lexical-philological readings. Biglino does not develop the orbital-spacecraft reading specifically; the framework's specific orbital-mechanics treatment goes beyond Biglino's strict-translational program to include the operational-mechanism reading the Raëlian source material specifies.
+**マウロ・ビグリーノ**による洪水資料との厳密に翻訳的な取り組みは、彼の著作にわたって展開されている。ビグリーノの固有の貢献には以下が含まれる。
 
-### Wallis on the Flood
+- ヘブライ語 *tevah* を技術的容器として読むこと
+- 固有の物語的細部（寸法、構造的特徴、積荷の仕様）を技術仕様として字義通りに読むこと
+- 「天の窓」と「大いなる淵の源」を宇宙論的神話ではなく固有の作戦上の出来事として読むこと
+- より広い洪水物語を実質的な作戦内容を保存するものとして読むこと
 
-**Paul Anthony Wallis**'s engagement with the Flood material across his various works includes substantial treatment of the alliance-mediated reading. Wallis's specific contributions include the structural reading of the Flood event within the broader alliance-Council political conflict, the careful treatment of the ark as advanced technology rather than as wooden boat, and the comparative engagement with parallel ancient flood traditions. Wallis's reading is broadly compatible with the corpus's reading and provides accessible recent treatment of material the framework has been developing through the Sendy-Raëlian tradition.
+本枠組みの読みは方法論的レベルでビグリーノの読みと広く整合し、固有の語彙・文献学的読みについて実質的な重なりを持つ。ビグリーノは軌道宇宙船の読みを具体的には展開しない。本枠組みの固有の軌道力学的扱いは、ラエリアン原典が特定する作戦メカニズムの読みを含めるべく、ビグリーノの厳密に翻訳的な計画を越えて進む。
 
-### The broader ancient-astronaut tradition
+### ウォリスの洪水論
 
-The broader ancient-astronaut interpretive tradition (von Däniken, Sitchin, Tellinger, others) includes various engagements with the Flood material. The principal positions:
+**ポール・アンソニー・ウォリス**による洪水資料との彼の種々の著作にわたる取り組みは、同盟が媒介する読みの実質的な扱いを含んでいる。ウォリスの固有の貢献には、より広い同盟‐評議会の政治的紛争内における洪水事件の構造的読み、方舟を木造船舶ではなく先進技術として注意深く扱うこと、並行する古代の洪水伝統との比較的取り組みが含まれる。ウォリスの読みは本体系の読みと広く両立し、本枠組みがサンディ‐ラエリアン伝統を通じて展開してきた資料への入手しやすい現代的扱いを提供する。
 
-- **Erich von Däniken** in *Chariots of the Gods* (1968) and successor works treats the flood narrative as preserving memory of advanced-technology intervention, with the ark being a technical vessel rather than a wooden boat. Von Däniken's specific reading is less philologically developed than Sendy's or Biglino's but reaches structurally similar conclusions.
-- **Zecharia Sitchin** in *The 12th Planet* (1976) and successor works develops a substantially different reading, treating the Flood as the result of the Anunnaki's deliberate intervention timed to the Nibiru orbital cycle, with the Mesopotamian flood narratives being treated as the principal source material. Sitchin's specific Anunnaki-Nibiru reading is not adopted by the corpus, but Sitchin's broader treatment of the Flood as alliance-mediated event rather than as natural catastrophe is structurally aligned with the framework's reading.
-- **Michael Tellinger** and various other contemporary ancient-astronaut writers develop further engagements with the Flood material, with various specific positions on mechanisms and consequences.
+### より広い古代宇宙飛行士的伝統
 
-The corpus's relationship to the broader ancient-astronaut tradition is one of structural alignment on the basic interpretive direction (Flood as alliance-mediated event with substantive operational content) with substantial divergence on specific points (the framework's reading does not adopt Sitchin's Nibiru cosmology or various other specific ancient-astronaut readings).
+より広い古代宇宙飛行士的解釈伝統（フォン・デニケン、シッチン、テリンガー、その他）は洪水資料との種々の取り組みを含む。主要な立場は以下のとおりである。
 
-### The framework's relationship to the broader landscape
+- **エーリッヒ・フォン・デニケン** は『未来の記憶』（*Chariots of the Gods*、1968）とその継承作品で、洪水物語を先進技術介入の記憶を保存するものとして扱い、方舟を木造船舶ではなく技術的容器とする。フォン・デニケンの固有の読みはサンディやビグリーノよりも文献学的に展開されていないが、構造的に類似した結論に達する。
+- **ゼカリア・シッチン** は『地球編年史』（*The 12th Planet*、1976）とその継承作品で、実質的に異なる読みを展開し、洪水をニビル軌道周期に合わせたアヌンナキの意図的介入の結果として扱い、メソポタミアの洪水物語を主要な原典として扱う。シッチンの固有のアヌンナキ‐ニビルの読みは本体系には採用されないが、洪水を自然災害ではなく同盟が媒介する事件として扱うシッチンのより広い扱いは本枠組みの読みと構造的に整合する。
+- **マイケル・テリンガー** とその他の種々の現代古代宇宙飛行士的著者は、洪水資料とのさらなる取り組みを展開し、メカニズムと帰結に関する種々の固有の立場をとる。
 
-The corpus's Flood reading is positioned within this landscape as follows: aligned with Sendy's, Biglino's, and Wallis's readings as the principal scholarly antecedents; structurally aligned with the broader ancient-astronaut tradition while diverging on specific points; aligned with contemporary catastrophist research in its broader methodological commitments while specifying particular events that go beyond what mainstream catastrophist research currently proposes; structurally distinct from mainstream historical-critical biblical scholarship and mainstream geology at the level of underlying ontology; and developing the specific corpus-internal reading (orbital spacecraft, nuclear weapons mechanism, continental fragmentation, genetic-cargo preservation, Alliance founding) as the framework's distinctive contribution to the broader reinterpretive landscape.
+本体系のより広い古代宇宙飛行士的伝統との関係は、基本的な解釈的方向（洪水を実質的な作戦内容を伴う同盟が媒介する事件として）に関する構造的整合の一つであり、固有の点（本枠組みの読みはシッチンのニビル宇宙論やその他種々の固有の古代宇宙飛行士的読みを採用しない）について実質的な乖離を伴う。
 
-## Comparative observations
+### 本枠組みのより広い情勢との関係
 
-Flood narratives appear across more than two hundred distinct cultures worldwide, with substantial structural and detailed parallels to the Hebrew Bible's Genesis account. The corpus reads this cross-cultural pattern as substantial evidence of the underlying historical reality the framework describes. The principal cross-cultural cases warrant treatment.
+本体系の洪水の読みはこの情勢内で次のように位置づけられる。主要な学術的先行者としてサンディ、ビグリーノ、ウォリスの読みと整合する。固有の点について乖離しつつより広い古代宇宙飛行士的伝統と構造的に整合する。より広い方法論的コミットメントにおいて現代のカタストロフィスト研究と整合する一方で、主流のカタストロフィスト研究が現在提唱するものを越える固有の事件を特定する。基底にある存在論のレベルで主流の歴史批評的聖書学および主流の地質学と構造的に異なる。本体系内部の固有の読み（軌道宇宙船、核兵器メカニズム、大陸分裂、遺伝的積荷の保存、同盟の創設）を、より広い再解釈の情勢への本枠組みの独自の貢献として展開する。
 
-### The Mesopotamian flood traditions
+## 比較的観察
 
-The Mesopotamian flood traditions provide the most substantively developed parallels to the Hebrew Bible's Genesis narrative, with substantial textual evidence preserved in cuneiform tablets dating from the third millennium BCE through the first millennium BCE.
+洪水物語は世界の二百を超える異なる文化にまたがって現れ、ヘブライ語聖書の創世記の記事に対する実質的な構造的・詳細的並行を伴う。本体系はこの文化横断的パターンを本枠組みが記述する基底にある歴史的現実の実質的な証拠として読む。主要な文化横断的事例は取り扱いに値する。
 
-**The *Atra-ḫasīs* epic** (c. 18th century BCE) is the principal Akkadian flood narrative. The epic's three-tablet structure covers the creation of humanity, the divine attempts to reduce the human population (plagues, droughts, famines), and the eventual decision to send the flood. The flood narrative itself includes substantial parallel elements to the Genesis account:
+### メソポタミアの洪水伝統
 
-- A divine warning communicated to a chosen human (Atra-ḫasīs)
-- Detailed instructions for constructing a vessel of specific dimensions
-- The preservation of the chosen human, his family, and animals
-- The duration of the flood (in the Atra-ḫasīs, seven days and seven nights)
-- The release of birds to test the conditions (in the Atra-ḫasīs, a dove, a swallow, and a raven)
-- The post-flood sacrifice and divine response
+メソポタミアの洪水伝統は、ヘブライ語聖書の創世記の物語へのもっとも実質的に展開された並行を提供し、紀元前三千年紀から紀元前一千年紀にわたる楔形文字の書板に実質的な本文証拠が保存されている。
 
-The corpus reads the *Atra-ḫasīs* as preserving substantial fragmentary memory of the same underlying Gemini-age event that the Hebrew tradition preserves, with the specific cultural-religious framing reflecting the Mesopotamian tradition's distinctive theological apparatus.
+**『アトラ・ハシース』叙事詩**（紀元前およそ18世紀）は主要なアッカドの洪水物語である。叙事詩の三書板構成は、人類の創造、人口を減らすための神々の試み（疫病、干ばつ、飢饉）、洪水を送る最終的な決定を扱う。洪水物語そのものは創世記の記事への実質的な並行要素を含む。
 
-**The *Epic of Gilgamesh*** Tablet XI preserves the Utnapishtim flood narrative in substantially the same form as the *Atra-ḫasīs* tradition. The Gilgamesh flood narrative is the source through which the Mesopotamian flood material became most widely known, particularly following George Smith's 1872 rediscovery. The detailed parallels with Genesis 6–9 (the specific bird-release sequence, the duration specifications, the post-flood sacrifice) have substantially shaped subsequent comparative-mythology scholarship.
+- 選ばれた人間（アトラ・ハシース）に伝えられた神の警告
+- 固有の寸法を持つ容器の建造のための詳細な指示
+- 選ばれた人間、その家族、動物の保存
+- 洪水の継続期間（『アトラ・ハシース』では七日七夜）
+- 状況を試すための鳥の放出（『アトラ・ハシース』では鳩、燕、烏）
+- 洪水後の犠牲と神の応答
 
-**The Sumerian *Eridu Genesis*** preserves the earliest known version of the flood narrative, with Ziusudra ("life of long days") as the parallel figure. The Sumerian account, fragmentary in its preserved form, records substantially the same narrative elements as the later Akkadian and Hebrew traditions. The Sumerian King List divides into pre-Flood and post-Flood sections, with the antediluvian kings receiving substantially extended reigns (some recorded reigns exceeding 28,000 years) before the Flood reduces the human lifespans to the more conventional figures of the post-Flood period.
+本体系は『アトラ・ハシース』を、ヘブライ伝統が保存するのと同じ基底にある双子座の時代の事件の実質的な断片的記憶を保存するものとして読み、固有の文化・宗教的枠付けはメソポタミア伝統の特徴的な神学的装置を反映する。
 
-The Mesopotamian flood material is treated more fully in the [Atra-ḫasīs](../atra-hasis/) and [Epic of Gilgamesh](../epic-of-gilgamesh/) entries (when written).
+**『ギルガメシュ叙事詩』** の第11書板は、ウトナピシュティムの洪水物語を実質的に『アトラ・ハシース』の伝統と同じ形態で保存する。ギルガメシュの洪水物語は、特に1872年のジョージ・スミスの再発見以後、メソポタミアの洪水資料がもっとも広く知られることとなった源泉である。創世記6〜9章との詳細な並行（固有の鳥の放出の手順、継続期間の仕様、洪水後の犠牲）は続く比較神話学を実質的に形成してきた。
 
-### The Greek Deucalion narrative
+**シュメール『エリドゥ創世記』** は、ジウスドラ（「長き日々の生命」）を並行する人物として、洪水物語の現存する最古の版を保存する。シュメールの記事は保存形では断片的だが、後代のアッカドおよびヘブライの伝統と実質的に同じ物語要素を記す。シュメール王名表は洪水前と洪水後の区分に分かれており、洪水以前の王たちは実質的に長期の治世（記録された治世の一部は28,000年を超える）を授かり、洪水以後にはより従来的な数字へと人間の寿命が短縮される。
 
-The Greek tradition preserves the **Deucalion and Pyrrha** flood narrative, with the principal sources being Hesiod (8th century BCE), Apollodorus's *Library* (1st–2nd century CE), and Ovid's *Metamorphoses* (1st century CE). The narrative's principal elements:
+メソポタミアの洪水資料は{% wiki(slug="atra-hasis") %}アトラ・ハシース{% end %}および{% wiki(slug="epic-of-gilgamesh") %}ギルガメシュ叙事詩{% end %}の項目でより詳しく扱われる（記述される際には）。
 
-- Zeus, angered by the wickedness of the bronze race of humans, decides to send a flood
-- Prometheus warns Deucalion (his son) of the impending flood
-- Deucalion and his wife Pyrrha build a chest (Greek *larnax* or *kibōtos*) and survive the flood
-- The flood lasts nine days (in the Apollodorus version)
-- The chest comes to rest on Mount Parnassus
-- Deucalion and Pyrrha repopulate the earth by throwing stones over their shoulders, with the stones becoming new humans
+### ギリシャのデウカリオン物語
 
-The Greek tradition's structural parallels to the Hebrew Genesis narrative are substantial: a divine flood judgment, a warned and preserved human couple, a vessel for survival, a post-flood landing on a mountain, and a post-flood repopulation. The specific Greek elaboration (the stones-becoming-humans repopulation mechanism) reflects the Greek tradition's distinctive cultural-mythological framework. The corpus reads the Deucalion tradition as preserving fragmentary memory of the same underlying event in the Greek-tradition cultural form.
+ギリシャの伝統は**デウカリオンとピュラ**の洪水物語を保存しており、主要な典拠はヘシオドス（紀元前8世紀）、アポロドーロスの『ビブリオテーケー』（紀元1〜2世紀）、オウィディウスの『変身物語』（紀元1世紀）である。物語の主要な要素は以下のとおりである。
 
-### Hindu Manu Vaivasvata
+- ゼウスは人間の青銅族の邪悪さに怒り、洪水を送ることを決定する
+- プロメテウスは差し迫る洪水について息子のデウカリオンに警告する
+- デウカリオンとその妻ピュラは櫃（ギリシャ語 *larnax* または *kibōtos*）を建造し、洪水を生き延びる
+- 洪水はアポロドーロス版では九日続く
+- 櫃はパルナッソス山にとどまる
+- デウカリオンとピュラは肩越しに石を投げることによって地を再び満たし、石は新たな人間となる
 
-The Hindu tradition preserves the **Manu Vaivasvata** flood narrative across multiple sources. The principal texts:
+ギリシャの伝統のヘブライ創世記の物語への構造的並行は実質的なものである。神の洪水の裁き、警告され保存された人間の夫婦、生存のための容器、洪水後の山への着陸、洪水後の再播。固有のギリシャ的展開（石が人間になる再播のメカニズム）はギリシャ伝統の独自の文化・神話的枠組みを反映する。本体系はデウカリオン伝統を、ギリシャ伝統の文化形態における同じ基底にある事件の断片的記憶を保存するものとして読む。
 
-**The *Shatapatha Brahmana*** (c. 9th–7th century BCE) records the foundational Manu flood narrative. Manu, while washing his hands in a river, finds a small fish in his palms. The fish (later revealed as Vishnu's avatar) warns Manu of the impending flood and instructs him to build a vessel. Manu builds the vessel, preserves himself and various seeds and creatures through the flood, and is eventually deposited on a mountain peak as the waters recede. After the flood, Manu performs a sacrifice that produces a daughter, with whom he repopulates humanity.
+### ヒンドゥーのマヌ・ヴァイヴァスヴァタ
 
-**The *Mahabharata*** preserves a parallel Manu-Vaivasvata flood narrative with substantial elaboration of the religious-mythological framework.
+ヒンドゥーの伝統は複数の典拠にわたって**マヌ・ヴァイヴァスヴァタ**の洪水物語を保存する。主要なテキストは以下のとおりである。
 
-**The various Puranas** (Bhagavata, Matsya, Vishnu) preserve further elaborations of the Manu flood narrative within their broader cosmological-religious frameworks.
+**『シャタパタ・ブラーフマナ』**（紀元前およそ9〜7世紀）は基礎的なマヌの洪水物語を記す。マヌが川で手を洗っていると、掌に小さな魚を見つける。魚（のちにヴィシュヌの化身として明かされる）は差し迫る洪水についてマヌに警告し、容器を建造するよう指示する。マヌは容器を建造し、洪水を通じて自身と種々の種子と被造物を保存し、水が引くにつれて山頂に降ろされる。洪水後、マヌは犠牲を執り行い、それが娘を生み、彼とともに人類を再び満たす。
 
-The Hindu tradition's structural parallels to the Hebrew Genesis narrative include the divine warning, the preserved human partner, the construction of a vessel, the preservation of seeds and creatures, the post-flood landing on a mountain, and the post-flood repopulation through the surviving human. The corpus reads the Manu tradition as preserving fragmentary memory of the same underlying event in the Indian-subcontinent cultural form, with the specific Vishnu-as-fish-avatar elaboration reflecting the Hindu tradition's distinctive theological apparatus.
+**『マハーバーラタ』** は宗教神話的枠組みの実質的な展開を伴う並行するマヌ・ヴァイヴァスヴァタの洪水物語を保存する。
 
-### Aztec Tata and Nena
+**種々のプラーナ**（バーガヴァタ、マツヤ、ヴィシュヌ）は、より広い宇宙論・宗教的枠組み内でマヌの洪水物語のさらなる展開を保存する。
 
-The Aztec / Mesoamerican tradition preserves the **Tata and Nena** flood narrative within the broader cosmological framework of the five suns. The narrative's principal elements:
+ヒンドゥー伝統のヘブライ創世記の物語への構造的並行は、神の警告、保存された人間のパートナー、容器の建造、種子と被造物の保存、洪水後の山への着陸、生き残った人間を通じての洪水後の再播を含む。本体系はマヌの伝統を、インド亜大陸の文化形態における同じ基底にある事件の断片的記憶を保存するものとして読み、固有のヴィシュヌ‐魚の化身の展開はヒンドゥー伝統の独自の神学的装置を反映する。
 
-- The fourth sun is destroyed by water
-- The god Tezcatlipoca (or in some versions, Titlacauan) warns the human couple Tata and Nena of the impending flood
-- The couple is instructed to hollow out a great tree as their vessel
-- They survive the flood within the tree
-- After the flood, they begin to repopulate humanity
+### アステカのタタとネナ
 
-The Aztec tradition's structural parallels to the Hebrew Genesis narrative are substantial despite the substantially different cultural framework. The specific Mesoamerican elaboration (the cosmological five-suns framework, the hollow-tree vessel) reflects the tradition's distinctive cultural-religious context. The corpus reads the Tata-and-Nena tradition as preserving fragmentary memory of the same underlying event in the Mesoamerican cultural form.
+アステカ／メソアメリカの伝統は、五つの太陽というより広い宇宙論的枠組み内で**タタとネナ**の洪水物語を保存する。物語の主要な要素は以下のとおりである。
 
-### Chinese flood traditions
+- 第四の太陽は水によって破壊される
+- 神テスカトリポカ（あるいは一部の版ではティトラカワン）は差し迫る洪水について人間の夫婦タタとネナに警告する
+- 夫婦は容器として大きな木をくり抜くよう指示される
+- 彼らは木の中で洪水を生き延びる
+- 洪水後、彼らは人類を再び満たし始める
 
-The Chinese tradition preserves multiple flood narratives. The principal cases:
+アステカ伝統のヘブライ創世記の物語への構造的並行は、実質的に異なる文化的枠組みにもかかわらず実質的なものである。固有のメソアメリカの展開（宇宙論的な五つの太陽の枠組み、くり抜かれた木の容器）は伝統の独自の文化・宗教的文脈を反映する。本体系はタタとネナの伝統を、メソアメリカ文化形態における同じ基底にある事件の断片的記憶を保存するものとして読む。
 
-**The Gun-Yu flood control narrative** (recorded in the *Shujing* and various other classical Chinese sources) records the great flood of the time of Emperor Yao, with Gun and his son Yu conducting the engineering work to control the flood. The narrative emphasizes the human technological response to the flood rather than the preservation of survivors through the catastrophe.
+### 中国の洪水伝統
 
-**The Fuxi-Nüwa narrative** preserves a more direct flood-survival narrative. The two figures (in some versions, brother and sister; in others, husband and wife) survive a great flood and repopulate humanity afterward.
+中国の伝統は複数の洪水物語を保存する。主要な事例は以下のとおりである。
 
-The Chinese tradition's flood material is structurally distinctive in its emphasis on flood control (Gun-Yu) and its specific cultural-mythological elaborations (Fuxi-Nüwa). The corpus reads the Chinese flood traditions as preserving fragmentary memory of the same underlying event in the East Asian cultural form, with the specific Chinese cultural framework reflecting the tradition's distinctive context.
+**鯀禹の治水物語**（『書経』とその他種々の古典中国典拠に記される）は堯帝の時代の大洪水を記し、鯀とその子の禹が洪水を制御する工学的作業を遂行する。物語は災厄を通しての生存者の保存ではなく、洪水への人間の技術的応答を強調する。
 
-### Polynesian flood traditions
+**伏羲・女媧の物語** はより直接的な洪水生存の物語を保存する。両者（一部の版では兄妹、他の版では夫婦）は大洪水を生き延び、その後人類を再び満たす。
 
-Various Polynesian cultures preserve flood narratives with substantial structural parallels to the broader pattern. The principal cases:
+中国伝統の洪水資料は、治水（鯀禹）の強調と固有の文化神話的展開（伏羲・女媧）において構造的に特徴的である。本体系は中国の洪水伝統を、東アジア文化形態における同じ基底にある事件の断片的記憶を保存するものとして読み、固有の中国文化の枠組みは伝統の独自の文脈を反映する。
 
-**The Hawaiian Kahinaliʻi narrative** records a great flood in the time of Nuʻu (the Hawaiian Noah), with Nuʻu surviving the flood in a great canoe with his family.
+### ポリネシアの洪水伝統
 
-**The Tahitian flood narrative** records a great flood that destroys the broader population, with a small remnant surviving on Mount Pitohiti.
+種々のポリネシア文化は、より広いパターンへの実質的な構造的並行を伴う洪水物語を保存する。主要な事例は以下のとおりである。
 
-**Various Maori traditions** preserve flood narratives within their broader cosmological frameworks.
+**ハワイのカヒナリイの物語** は、ヌウ（ハワイのノア）の時代の大洪水を記し、ヌウは家族とともに大きなカヌーで洪水を生き延びる。
 
-The Polynesian flood traditions are remarkable for their geographic isolation from the Mesopotamian source region. The framework reads the Polynesian preservations as evidence of the global character of the underlying event, with even the substantially geographically isolated Polynesian populations preserving fragmentary memory of the catastrophic event.
+**タヒチの洪水物語** は、より広い人口を破壊する大洪水を記し、小さな残存者がピトヒティ山で生き延びる。
 
-### Australian Aboriginal traditions
+**種々のマオリの伝統** は、より広い宇宙論的枠組み内に洪水物語を保存する。
 
-Various **Australian Aboriginal traditions** preserve flood narratives within the broader Dreamtime cosmological framework. The principal cases:
+ポリネシアの洪水伝統は、メソポタミアの源泉地域からの地理的孤立において注目に値する。本枠組みはポリネシアの保存を、基底にある事件の地球規模の性格の証拠として読み、実質的に地理的に孤立したポリネシア集団さえもが壊滅的事件の断片的記憶を保存している。
 
-**The Rainbow Serpent traditions** include various flood-related narratives, with the Rainbow Serpent figure serving as both creator and destroyer in different accounts.
+### オーストラリア・アボリジナルの伝統
 
-**Various regional flood narratives** record specific great-flood events within local cultural-mythological frameworks.
+種々の**オーストラリア・アボリジナルの伝統**は、より広いドリーミングの宇宙論的枠組み内に洪水物語を保存する。主要な事例は以下のとおりである。
 
-The Australian Aboriginal flood material is structurally distinctive in its integration with the broader Dreamtime cosmological framework. The corpus reads the Aboriginal traditions as preserving fragmentary memory of the same underlying event in the substantially distinctive Australian cultural form.
+**虹の蛇の伝統** は種々の洪水関連の物語を含み、虹の蛇の人物は異なる記述において創造者と破壊者の双方として機能する。
 
-### Native American flood traditions
+**種々の地域の洪水物語** は局所的な文化神話的枠組み内に固有の大洪水事件を記す。
 
-Various **Native American traditions** across both continents preserve flood narratives with substantial structural parallels to the broader pattern. The principal cases:
+オーストラリア・アボリジナルの洪水資料は、より広いドリーミングの宇宙論的枠組みとの統合において構造的に特徴的である。本体系はアボリジナルの伝統を、実質的に独自のオーストラリア文化形態における同じ基底にある事件の断片的記憶を保存するものとして読む。
 
-**The Hopi tradition** records the destruction of multiple worlds by various catastrophes including water, with the surviving humans entering the new world through a sipapu (emergence point).
+### ネイティブ・アメリカンの洪水伝統
 
-**The Iroquois tradition** preserves flood narratives within the broader Sky Woman cosmological framework.
+両大陸にまたがる種々の**ネイティブ・アメリカンの伝統**は、より広いパターンへの実質的な構造的並行を伴う洪水物語を保存する。主要な事例は以下のとおりである。
 
-**Various Algonquian traditions** preserve flood narratives often involving the trickster figure (Manabozho, Glooscap) and the survival of humans on a raft or other vessel.
+**ホピの伝統** は、水を含む種々の災厄による複数の世界の破壊を記し、生き残った人間はシパプ（出現点）を通じて新たな世界へと入る。
 
-**The Inca / Andean traditions** preserve flood narratives within the broader Pachacuti (cosmic destruction-and-renewal) cosmological framework.
+**イロコイの伝統** は、より広い空の女性の宇宙論的枠組み内に洪水物語を保存する。
 
-The Native American flood traditions are remarkable for their geographic and cultural diversity, with substantial structural parallels persisting across the substantially distinct cultural traditions of the two American continents. The corpus reads these traditions as preserving fragmentary memory of the same underlying event in the various Native American cultural forms.
+**種々のアルゴンキンの伝統** は、しばしばトリックスター像（マナボーゾ、グルースキャップ）と筏あるいは他の容器における人間の生存を伴う洪水物語を保存する。
 
-### The Black Sea Deluge hypothesis
+**インカ／アンデスの伝統** は、より広いパチャクティ（宇宙的破壊・再生）の宇宙論的枠組み内に洪水物語を保存する。
 
-The **Black Sea Deluge hypothesis** (Ryan and Pitman, *Noah's Flood*, 1998) proposes a substantial flooding event in the Black Sea region around 5600 BCE caused by Mediterranean waters breaking through the Bosporus Strait following sea-level rise at the end of the last glacial period. The hypothesis is supported by sediment evidence in the Black Sea showing the transition from freshwater to marine conditions at approximately the proposed date.
+ネイティブ・アメリカンの洪水伝統は、その地理的・文化的多様性において注目に値し、両アメリカ大陸の実質的に異なる文化伝統にまたがって実質的な構造的並行が持続する。本体系はこれらの伝統を、種々のネイティブ・アメリカン文化形態における同じ基底にある事件の断片的記憶を保存するものとして読む。
 
-Ryan and Pitman propose that the Black Sea Deluge was the historical event that gave rise to the various flood traditions of the ancient Near East. The hypothesis has been substantially debated, with some marine geologists arguing for a more gradual transition and others maintaining the catastrophic version. The corpus's framework would note that the Black Sea Deluge, even on the catastrophist reading, is too small and too localized to be the Gemini-age Flood itself, but suggests it may be one of the cascade of consequences that followed from the larger event the framework places at this period.
+### 黒海洪水仮説
 
-### The convergence
+**黒海洪水仮説**（Ryan and Pitman、『ノアの洪水』、1998）は、最終氷期末の海面上昇に続いて地中海の水がボスポラス海峡を突破したことに起因する、紀元前およそ5,600年の黒海地域における実質的な氾濫事件を提唱する。仮説は黒海におけるおよそ提案された年代における淡水から海洋条件への遷移を示す堆積物証拠によって支持されている。
 
-The corpus's working position on the comparative-flood question is that the global recurrence of flood traditions across more than two hundred cultures, distributed across every continent and every major cultural region, is meaningful as evidence of a genuine underlying event. The mainstream scholarly explanation (independent local memories combined with diffusion from Mesopotamian sources) is read by the corpus as substantially insufficient to account for the breadth, the specific structural parallels, and the persistence of the tradition across geographically isolated populations.
+ライアンとピットマンは、黒海洪水を古代近東の種々の洪水伝統を生んだ歴史的事件であるとする。仮説は実質的に議論されてきており、一部の海洋地質学者はより緩やかな遷移を主張し、他の者はカタストロフィスト的版を維持している。本体系の枠組みは、黒海洪水はカタストロフィスト的読みにおいてさえ、双子座の時代の洪水そのものであるには小さすぎ局所的すぎるものとして注記するが、本枠組みがこの時期に置くより大きな事件から続いた一連の帰結の一つである可能性を示唆する。
 
-The framework's specific reading is that the global flood-tradition pattern preserves common memory of the actual Gemini-age event, with each culture preserving the memory in its own terms and with its own specific details reflecting its own perspective and its own subsequent transmission history. The Mesopotamian narrative complex preserves the memory most fully because the immediate post-Flood Mesopotamian civilization was geographically closest to the Eden lineage that built the ark and survived the event with the most intact records. Other cultures preserve the memory in more compressed or transformed forms, reflecting the longer transmission distances and the cultural distinctiveness of their traditions.
+### 収斂
 
-The corpus does not require rejecting all of the mainstream scholarly framework. Cultural diffusion certainly occurred across the post-Flood ages, and the flood narratives across cultures show both common structural features (preserving the original event) and culturally specific elaborations (reflecting the diffusion and the local development). What the corpus's framework adds is the underlying historical event that gave rise to the structural commonalities — an event that the mainstream framework, lacking the corpus's broader cosmological framework, has had no way to identify and has therefore had to attribute to combinations of local memory and diffusion.
+比較洪水問題に関する本体系の作業上の立場は、すべての大陸とすべての主要な文化地域にわたって分布する二百を超える文化にわたる洪水伝承の地球規模の反復は、真の基底事件の証拠として意味があるというものである。主流の学術的説明（メソポタミアの源泉からの伝播と組み合わされた独立した局所的記憶）は、本体系によって、伝統の広さ、固有の構造的並行、地理的に孤立した集団にわたる持続を説明するには実質的に不十分であると読まれる。
 
-## See also
+本枠組みの固有の読みは、地球規模の洪水伝承パターンが実際の双子座の時代の事件の共通の記憶を保存しており、各文化が自らの言葉で、また自らの観点と続く伝承史を反映する自らの固有の細部とともに記憶を保存しているというものである。メソポタミアの物語複合は記憶をもっとも完全に保存している。なぜなら、洪水後直後のメソポタミア文明が、方舟を建造し事件を生き延びてもっとも無傷の記録を残したエデン系統に地理的にもっとも近かったからである。他の文化はより圧縮されたあるいは変形された形態で記憶を保存しており、より長い伝承距離と伝統の文化的独自性を反映する。
 
-- [Noah](../noah/)
-- [Noah's Ark](../noahs-ark/)
-- [Noahic Covenant](../noahic-covenant/)
-- [The Alliance](../the-alliance/)
-- [Lucifer](../lucifer/)
-- [Yahweh](../yahweh/)
-- [Council of the Eternals](../council-of-eternals/)
-- [Antediluvian](../antediluvian/)
-- [Pangaea](../pangaea/)
-- [Sons of Elohim](../sons-of-elohim/)
-- [Nephilim](../nephilim/)
-- [Eden](../eden/)
-- [Genesis](../genesis/)
-- [Hebrew Bible](../hebrew-bible/)
-- [Atra-ḫasīs](../atra-hasis/)
-- [Epic of Gilgamesh](../epic-of-gilgamesh/)
-- [Sumerian King List](../sumerian-king-list/)
-- [Tower of Babel](../babel/)
-- [Sodom and Gomorrah](../sodom-and-gomorrah/)
-- [Age of Cancer](../timeline/age-of-cancer/)
-- [Age of Gemini](../timeline/age-of-gemini/)
-- [Documentary Hypothesis](../documentary-hypothesis/)
-- [Jean Sendy](../jean-sendy/)
-- [Mauro Biglino](../mauro-biglino/)
-- [Paul Anthony Wallis](../paul-anthony-wallis/)
-
-## References
-
-Vorilhon, Claude (Raël). *The Book Which Tells the Truth* (1974), chapter 2; collected in *Message from the Designers*.
-
-Sendy, Jean. *Ces dieux qui firent le ciel et la terre*. Robert Laffont, 1969. English: *Those Gods Who Made Heaven and Earth*. Berkley, 1972.
-
-Sendy, Jean. *La lune, clé de la Bible*. Julliard, 1968.
-
-Biglino, Mauro, and Giorgio Cattaneo. *The Naked Bible: The Truth About the Most Famous Book in History*. Uno, 2022.
-
-Wallis, Paul Anthony. *The Eden Conspiracy*. 6th Books, 2024.
-
-*Biblia Hebraica Stuttgartensia*. Deutsche Bibelgesellschaft, 4th rev. ed., 1997.
-
-Sarna, Nahum. *Genesis: The JPS Torah Commentary*. Jewish Publication Society, 1989.
-
-Westermann, Claus. *Genesis 1–11: A Continental Commentary*. Fortress, 1994.
-
-Skinner, John. *A Critical and Exegetical Commentary on Genesis*. International Critical Commentary, T&T Clark, 1910.
-
-von Rad, Gerhard. *Genesis: A Commentary*. Westminster, 1961.
-
-Lambert, W. G., and A. R. Millard. *Atra-ḫasīs: The Babylonian Story of the Flood*. Oxford University Press, 1969.
-
-George, Andrew, ed. and trans. *The Epic of Gilgamesh: The Babylonian Epic Poem and Other Texts in Akkadian and Sumerian*. Penguin Classics, 1999.
-
-Foster, Benjamin R. *Before the Muses: An Anthology of Akkadian Literature*. CDL Press, 3rd ed., 2005.
-
-Heidel, Alexander. *The Gilgamesh Epic and Old Testament Parallels*. University of Chicago Press, 2nd ed., 1949.
-
-Smith, George. *The Chaldean Account of Genesis*. Sampson Low, 1876.
-
-Ryan, William, and Walter Pitman. *Noah's Flood: The New Scientific Discoveries About the Event That Changed History*. Simon & Schuster, 1998.
-
-Bunch, Ted E., et al. "A Tunguska sized airburst destroyed Tall el-Hammam a Middle Bronze Age city in the Jordan Valley near the Dead Sea." *Scientific Reports* 11, 18632 (2021).
-
-Firestone, Richard B., et al. "Evidence for an extraterrestrial impact 12,900 years ago that contributed to the megafaunal extinctions and the Younger Dryas cooling." *Proceedings of the National Academy of Sciences* 104, 16016–16021 (2007).
-
-Carlson, Randall. Various lectures and publications on the Younger Dryas catastrophic event hypothesis.
-
-Wegener, Alfred. *Die Entstehung der Kontinente und Ozeane* (1912). English: *The Origin of Continents and Oceans*. Trans. John Biram. Dover, 1966.
-
-Doniger, Wendy. *Hindu Myths: A Sourcebook*. Penguin Classics, 1975.
-
-Apollodorus. *The Library*. Loeb Classical Library, Harvard University Press.
-
-Ovid. *Metamorphoses*. Trans. Charles Martin. Norton, 2004.
-
-Hesiod. *Works and Days*. Loeb Classical Library, Harvard University Press.
-
-Bierlein, J. F. *Parallel Myths*. Ballantine, 1994.
-
-Dundes, Alan, ed. *The Flood Myth*. University of California Press, 1988.
-
-von Däniken, Erich. *Chariots of the Gods?* Trans. Michael Heron. Putnam, 1968.
-
-Sitchin, Zecharia. *The 12th Planet*. Stein and Day, 1976.
-
-Brown, Francis, S. R. Driver, and Charles A. Briggs. *A Hebrew and English Lexicon of the Old Testament* (BDB). Oxford, 1907.
-
-*The Hebrew and Aramaic Lexicon of the Old Testament* (HALOT), Koehler-Baumgartner. Brill, 2001.
-
-"Flood myth." *Encyclopaedia Britannica*. <https://www.britannica.com/topic/flood-myth>
-
-"Flood myth." *Wikipedia*. <https://en.wikipedia.org/wiki/Flood_myth>
-
-"Noah." *Encyclopaedia Britannica*. <https://www.britannica.com/topic/Noah-biblical-figure>
-
-"Atrahasis." *Encyclopaedia Britannica*. <https://www.britannica.com/topic/Atrahasis>
-
-"Epic of Gilgamesh." *Encyclopaedia Britannica*. <https://www.britannica.com/topic/Epic-of-Gilgamesh>
-
-"Continental drift." *Encyclopaedia Britannica*. <https://www.britannica.com/science/continental-drift-geology>
+本体系は主流の学術的枠組みのすべてを退けることを要求するものではない。文化的伝播は確かに洪水後の諸時代にわたって発生しており、文化横断的な洪水物語は共通の構造的特徴（原初の事件を保存している）と文化に固有の展開（伝播と局所的発展を反映する）の双方を示す。本体系の枠組みが付け加えるのは、構造的共通性を生んだ基底にある歴史的事件である——本体系のより広い宇宙論的枠組みを欠く主流の枠組みが同定する手段を持たず、それゆえ局所的記憶と伝播の組み合わせに帰さざるを得なかった事件である。

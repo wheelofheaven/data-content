@@ -1,826 +1,804 @@
 +++
 title = "ヘブライ語聖書"
-description = "ヘブライ語聖書(ヘブライ語:תָּנָ״ךְ、タナハ)は、ユダヤ教の根本聖典の正典集成であり、トーラー・預言書・諸書から構成される。Wheel of Heaven にとって、それは四段階を通じて読むべき一次源泉であり、特にその技術的層に重みを置く。"
+slug = "hebrew-bible"
+description = "ヘブライ語聖書（ヘブライ語: תָּנָ״ךְ、*タナハ*）は、天の車輪フレームワークの主要な基礎的原典実体です。およそ十二世紀にわたり、青銅器時代後期からペルシア・ヘレニズム期にかけてエデン系譜の血統によって主に生み出された、二十四の書からなる正典ヘブライ語の本文集成であり、伝統的に三つの主要部分（律法、預言者、諸書）に組織され、マソラ本文の伝統によって実質的に保存されています。フレームワークの特徴的な分析的立場は、ヘブライ語聖書を宗教的・神話的文学ではなく、実質的な歴史的記録として登録します。本文の内容は、洪水後の諸時代を通じての同盟による介入についての正確な文化的記憶を保存しており、人間の著者たちの前科学的語彙は、実質的な理解への根本的障害ではなく、解読可能な層として機能します。フレームワークはヘブライ語聖書をより広い非対称的総合の実質的構造中心に据えています——同盟の地球との通信についての、最も直接的で最も媒介の少ない記録です。キリスト教の伝統的翻訳史は、いくつかの主要な誤訳を通じて実際のヘブライ語の内容を体系的に曖昧化してきました（*エロヒム* → 単数形の神、*タンニニーム* → 「鯨」、*マルアキム* → 「天使」という超自然的な上書き、*ナハシュ* → 単なる「蛇」）。フレームワークの読解は、原典資料への体系的な関与を通じて、実際のヘブライ語の内容の実質的回復を登録します。"
 template = "wiki-page.html"
 toc = true
 
 [extra]
-translation_status = "metadata_only"
 category = "Texts & Sources"
 editorial_pass = "2026-05"
 entry_type = "text"
-alternative_names = ["Tanakh (Hebrew: תָּנָ״ךְ)", "the Hebrew Scriptures", "the Jewish Bible", "Mikra (Hebrew: מִקְרָא, 'reading')", "the Old Testament (Christian-tradition designation)", "the Hebrew Old Testament", "the canonical Hebrew Scriptures"]
+claim_type = "inferred"
+alternative_names = ["タナハ（ヘブライ語: תָּנָ״ךְ）", "ヘブライ語聖典", "ユダヤ教聖書", "ミクラー（ヘブライ語: מִקְרָא、「読まれるもの」）", "旧約聖書（キリスト教伝統の呼称）", "ヘブライ語旧約聖書", "正典ヘブライ語聖典"]
 timeline = ["multi-age"]
 
+see_also = [
+    { title = "聖書", path = "/wiki/bible/", description = "ヘブライ語聖書が位置するより広い本文伝統。" },
+    { title = "創世記", path = "/wiki/genesis/", description = "フレームワーク全体で関与される主要な原初史の書。" },
+    { title = "エロヒム", path = "/wiki/elohim/", description = "同盟文明として読まれるヘブライ語の呼称であり、本集成の解釈的枠組みの中心。" },
+    { title = "ヤハウェ", path = "/wiki/yahweh/", description = "テトラグラマトン、超自然的神ではなく特定のエロアー個人として読まれる。" },
+    { title = "エデン", path = "/wiki/eden/", description = "起源となる同盟の実験室。フレームワークのヘブライ語聖書読解の本文的拠点。" },
+    { title = "大洪水", path = "/wiki/great-flood/", description = "ヘブライ語聖書の原初史の中心にある双子座の時代の出来事。" },
+    { title = "モーセ", path = "/wiki/moses/", description = "その使命が律法の集成を生み出した、洪水後の主要な預言者。" },
+    { title = "アブラハム", path = "/wiki/abraham/", description = "ヘブライ語聖書の物語の中心にある族長期再構成の人物。" },
+    { title = "文書仮説", path = "/wiki/documentary-hypothesis/", description = "モーセ五書の成立に関する主要な主流の歴史批評的枠組み。" },
+    { title = "ヘブライ人", path = "/wiki/hebrews/", description = "本文集成を生み出した伝統を持つエデン系譜の血統的子孫。" },
+    { title = "二重署名", path = "/wiki/doubled-signature/", description = "ヘブライ語聖書が根底にある歴史的現実を登録するための集成原理。" },
+    { title = "ラエリアン正典の参照集成", path = "/wiki/reference-corpus-of-the-raelian-canon/", description = "正典的読解のレンズとして機能する主要なラエリアン原典集成。" },
+    { title = "七十人訳聖書", path = "/wiki/septuagint/", description = "ヘブライ語聖書の主要なギリシア語訳。" },
+    { title = "死海文書", path = "/wiki/dead-sea-scrolls/", description = "ヘブライ語聖書の本文伝達に関する実質的な写本証拠。" },
+    { title = "マソラ本文", path = "/wiki/masoretic-text/", description = "主要な母音符号付きヘブライ語本文伝統。" },
+]
+
+footnotes = [
+    { content = "ヘブライ語名 *タナハ*（תָּנָ״ךְ）は、三つの主要正典部分の頭文字から形成された頭字語です。律法（תּוֹרָה、*トーラー*、「教え」）、預言者（נְבִיאִים、*ネビイーム*、「預言者たち」）、諸書（כְּתוּבִים、*ケトゥビーム*、「諸書」）。この頭字語は中世のユダヤ教伝統による形成であり、それ以前にはより広いヘブライ語聖書の本文実体は他の用語で呼ばれていました——*ミクラー*（מִקְרָא、「読み」または「読まれるもの」）、*キトヴェイ・ハ＝コデシュ*（כִּתְבֵי הַקֹּדֶשׁ、「聖なる書」）、あるいは単に *ハ＝セファリーム*（הַסְּפָרִים、「諸書」）。キリスト教の「旧約聖書」という呼称は、本集成が回避するキリスト教伝統的受容です——「旧」は本集成が支持しない代替神学を前提とするため、ユダヤ教伝統の呼称 *タナハ* ／ ヘブライ語聖書が好まれます。" },
+    { content = "文書仮説（J、E、D、P）——主にユリウス・ヴェルハウゼンによる *Prolegomena zur Geschichte Israels*（1878年）における定式化——は、その後の実質的な精緻化にもかかわらず、モーセ五書の成立に関する主要な主流の歴史批評的枠組みであり続けています。リチャード・フリードマンの *Who Wrote the Bible?*（1987年）と *The Bible with Sources Revealed*（2003年）は、入手しやすい現代的なarticulationを提供します。フレームワークの読解は文書仮説を拒絶しません。それと直交して機能します——フレームワークは、どの資料層が任意の節を保存していようとも、実質的に保存された本文の内容を実際の作戦的出来事の実質的記録として読みます。J/E/D/Pの区別は本文批評にとって有用ですが、フレームワークの解釈的立場を決定するものではありません。" },
+    { content = "本集成の本文的特権に関する特定の立場——ヘブライ語聖書を、地球におけるエロヒム文明の働きに関する現存する古代記録の中で最も正確なものとして扱うこと——は、ヘブライ人をイスラエルチームが合成した最初の人間たちの直接的遺伝的子孫として同定するラエリアン原典資料に基づいています。したがってこの特権的な本文的立場は神学的ではなく系譜的なものです。ヘブライ語聖書の正確さは、固有の教義的権威からではなく、最も密接に同盟と作戦的に接触した血統の継続的な本文伝統から導かれます。並行する古代近東のテキスト群（アトラハシース、ギルガメシュ、シュメールの洪水・創造集成）は、同じ根底にある出来事についての実質的に断片的な記憶を保存していますが、洪水後の伝達がヘブライのそれよりも早く劣化した血統を通じてのものです。" },
+    { content = "ヘブライ語の内容を曖昧化する四つの主要なキリスト教伝統の翻訳上の動き——*エロヒム* → 「神」（単数形）、*タンニニーム* → 「鯨」（「大きな爬虫類／龍」ではなく）、*マルアキム* → 「天使」（「使者」／「使節」ではなく超自然的上書き）、*ナハシュ* → 「蛇」（単なる爬虫類であり、ルシファー派の工作員の作戦的呼称ではない）——は意図的な欺瞞としてではなく、二千年以上にわたるキリスト教伝統の読解における七十人訳後の神学的同化の結果として作動します。ビリーノの厳密翻訳的方法論（*The Naked Bible*、2022年）は、これらの動きを体系的に逆転させ、ヘブライ語本文を一語一語読み、結果として得られる具体的な作戦的内容を神学的抽象に寓意化するのではなく受け入れます。本集成はビリーノの方法論的アプローチを採用しながら、回復されたヘブライ語の内容に対して独自のフレームワーク解釈的上書きを作動させます。" },
+    { content = "本文証言の景観——マソラ本文（ティベリア伝統の母音符号付き本文、主にアレッポ写本 c. 930年とレニングラード写本 1008年）、死海文書（紀元前2世紀から紀元後1世紀のクムランおよび隣接地からの実質的な写本証拠）、七十人訳聖書（紀元前3〜2世紀のギリシア語訳）、サマリア五書（実質的なサマリア伝統の変異）——は、細部（綴り、語順、時折の節レベルの変異）における実質的変異を登録しますが、主要な本文の内容にわたっては実質的な構造的統一性を登録します。トヴの *Textual Criticism of the Hebrew Bible*（第3版 2012年）は、主要な現代的学術的総合を提供します。フレームワークの読解は特定の本文異読に依存しません。実質的に保存された内容は、現存する証言全体にわたって堅牢です。" },
+    { content = "死海文書の発見（1947〜1956年）は、ヘブライ語聖書の本文伝達が千年以上にわたって実質的に安定していたことを確認する、紀元前一千年紀の実質的な写本証拠を提供しました。大イザヤ書写本（1QIsa-a、紀元前125年頃）は、千年以上の伝達を経てマソラ本文のイザヤ書と実質的に密接に一致します。フレームワークの読解にとっての実質的含意は次のとおりです。ヘブライ語聖書の内容は第二神殿時代後期までに実質的に固定され、その後二千年にわたる本文伝達は実質的な忠実性をもってそれを保存しました。ヴァンダーカム＆フリント、*The Meaning of the Dead Sea Scrolls*（2002年）は、その実質的含意に関する主要な入手しやすい学術的論考を提供します。" },
+]
+
+[[extra.references]]
+id = "tanakh"
+note = "ヘブライ語聖書のユダヤ教伝統の正典的枠組み。"
+
+[[extra.references]]
+id = "sefaria"
+note = "ヘブライ語聖書の本文および関連するユダヤ教の原典伝統への主要なデジタルアクセスポイント。"
+
+[[extra.references]]
+id = "genesis"
+note = "天の車輪フレームワーク全体で関与される主要な原初史の本文。"
+
+[[extra.references]]
+id = "the-book-which-tells-the-truth"
+note = "フレームワークによるヘブライ語聖書の創造関連内容の読解の基礎となるラエリアン原典。"
+
+[[extra.references]]
+id = "those-gods-who-made-heaven-and-earth"
+note = "本集成の地球外起源読解に対するジャン・センディの原典的先駆。"
+
+[[extra.references]]
+id = "the-naked-bible"
+note = "マウロ・ビリーノとジョルジョ・カッタネオによる厳密翻訳的代替史読解。"
+
+[[extra.references]]
+id = "escaping-from-eden"
+note = "ポール・アンソニー・ウォリスの創世記中心の比較的読解。"
+
+[[extra.references]]
+id = "intelligent-design-message-from-the-designers"
+note = "三冊のラエリアン原典書の集成正典版。"
+
+[[extra.references]]
+id = "lets-welcome-the-extraterrestrials"
+note = "ボリロン（ラエル、1979年）。ヘブライ語聖書読解全体で関与されるより広い評議会の政治制度的枠組み。"
+
+[[extra.references]]
+id = "sendy-ces-dieux"
+note = "センディ（1969年）。地球外起源としてのヘブライ語聖書記録というフレームワークの基礎的なフランス語表現。"
+
+[[extra.references]]
+id = "sendy-ere-du-verseau"
+note = "センディ（1970年）。ヘブライ語聖書の終末論を扱う水瓶座時代の継承閾値の枠組み。"
+
+[[extra.references]]
+id = "sendy-cahiers-moise"
+note = "センディ（1974年）。実質的なモーセ五書注解を伴うモーセ期の枠組み。"
+
+[[extra.references]]
+id = "biglino-il-libro"
+note = "ビリーノ（2010年）。厳密に文字通りのヘブライ語聖書読解の最初の主要な表現。"
+
+[[extra.references]]
+id = "biglino-bibbia-non-parla"
+note = "ビリーノ（2015年）。主流の翻訳がヘブライ語聖書の元の内容を曖昧化しているという主張の表現。"
+
+[[extra.references]]
+id = "wallis-eden-conspiracy"
+note = "ウォリス（2024年）。実質的な歴史的記録としての創世記原初史への現代的関与。"
+
+[[extra.references]]
+id = "wellhausen-prolegomena"
+note = "ヴェルハウゼン（1878年）。文書仮説（J、E、D、P資料）の基礎的articulation。"
+
+[[extra.references]]
+id = "friedman-who-wrote-bible"
+note = "フリードマン（1987年）。一般読者向けの文書仮説の主要な入手しやすい表現。"
+
+[[extra.references]]
+id = "friedman-bible-sources-revealed"
+note = "フリードマン(2003年)。資料タグ付きモーセ五書本文の提示。"
+
+[[extra.references]]
+id = "alter-art-biblical-narrative"
+note = "アルター（1981年）。聖書物語の文学批評的読解の主要なarticulation。"
+
+[[extra.references]]
+id = "alter-hebrew-bible"
+note = "アルター（2018年）。実質的な学術的注解を伴うヘブライ語聖書の三巻本英訳。"
+
+[[extra.references]]
+id = "westermann-genesis-1-11"
+note = "ヴェスターマン（1994年）。創世記1〜11章に関する大陸的注解。原初史に関する基礎的な批評的注解。"
+
+[[extra.references]]
+id = "sarna-genesis-jps"
+note = "サルナ（1989年）。創世記に関するJPSトーラー注解。"
+
+[[extra.references]]
+id = "cassuto-genesis"
+note = "カッスート（1961年）。文書仮説の断片化に反対するユダヤ学術的注解。"
+
+[[extra.references]]
+id = "kugel-how-to-read-bible"
+note = "クーゲル（2007年）。古代の解釈的読解と現代の批評的読解との対比のarticulation。"
+
+[[extra.references]]
+id = "cross-canaanite-myth"
+note = "クロス（1973年）。カナン・イスラエル宗教的連続性、エル・ヤハウェの歴史的発展の基礎的articulation。"
+
+[[extra.references]]
+id = "smith-early-history-god"
+note = "スミス（1990年）。より広いカナン・レバント文脈におけるイスラエル宗教の初期発展。"
+
+[[extra.references]]
+id = "finkelstein-bible-unearthed"
+note = "フィンケルシュタイン＆シルバーマン（2001年）。ヘブライ語聖書の考古学的読解の主要な現代的articulation。"
+
+[[extra.references]]
+id = "tov-textual-criticism"
+note = "トヴ（第3版 2012年）。ヘブライ語聖書の本文批評に関する主要な現代的参考文献。"
+
+[[extra.references]]
+id = "vermes-dead-sea-scrolls"
+note = "ヴェルメシュ（改訂版 2004年）。死海文書集成の入手しやすい英訳。"
+
+[[extra.references]]
+id = "vanderkam-dss-today"
+note = "ヴァンダーカム（第2版 2010年）。死海文書への入手しやすい入門。"
+
+[[extra.references]]
+id = "pritchard-anet"
+note = "プリチャード（1969年）。ヘブライ語聖書に並行する古代近東テキストに関する主要な英語参考文献。"
+
+[[extra.references]]
+id = "atra-hasis-lambert-millard"
+note = "ランバート＆ミラード（1969年）。創世記に並行するバビロニア洪水物語の批判校訂版。"
+
+[[extra.references]]
+id = "sitchin-12th-planet"
+note = "シッチン（1976年）。メソポタミア・聖書資料の古代宇宙飛行士的読解。"
+
 [extra.infobox]
-type = "Foundational source-textual entity; the principal canonical Hebrew-language textual corpus that operates at the structural center of the broader corpus framework"
-language = "Biblical Hebrew principally; Biblical Aramaic in select passages (Daniel 2:4b-7:28, Ezra 4:8-6:18 and 7:12-26, Jeremiah 10:11, Genesis 31:47)"
-canonical_structure = "Three principal sections in the Jewish canonical organization: Torah (תּוֹרָה, 'Law' or 'Instruction'); Nevi'im (נְבִיאִים, 'Prophets'); Ketuvim (כְּתוּבִים, 'Writings'). The acronym TaNaKh derives from the initial letters of these three sections"
-book_count = "Twenty-four books in the Jewish canonical organization (Torah: 5; Nevi'im: 8; Ketuvim: 11); thirty-nine books in the substantial Christian Old Testament canonical organization (substantively the same content with substantial divisional differences)"
-composition_period = "Approximately twelve centuries from the late Bronze Age through the Persian-Hellenistic period (mainstream scholarly dating: c. 12th-2nd centuries BCE; traditional Jewish dating substantially earlier for various books)"
-authorial_tradition = "Multiple authorial-redactional traditions across multiple centuries; the substantial Documentary Hypothesis registers four principal Pentateuchal sources (J, E, D, P); various subsequent redactional layers across the broader textual tradition"
-genealogical_lineage = "Principally the Eden-lineage genealogical line (the substantial Israel-team creator-population) across the post-flood ages; the substantial textual tradition reflects the substantial Eden-lineage cultural-religious development"
-principal_textual_witnesses = "The Masoretic Text (the substantial Tiberian-tradition vocalized text, principally the Aleppo Codex and Leningrad Codex); the Dead Sea Scrolls (the substantial 2nd-century-BCE-through-1st-century-CE manuscript evidence); the Septuagint (the substantial 3rd-2nd-century-BCE Greek translation); the Samaritan Pentateuch (the substantial Samaritan-tradition variant); various other textual witnesses"
-framework_position = "The substantial structural center of the corpus's asymmetric synthesis: the most direct and least mediated record of the alliance's communication with Earth; the principal source-textual foundation that virtually every other corpus entry engages substantively"
-distinguished_from = "The Christian Old Testament (the substantial Christian-tradition canonical reception of the Hebrew Bible content, with substantial divisional and arrangement differences); the broader Christian Bible (which adds the substantial New Testament content); the Quran (the substantial Islamic-tradition canonical text registering substantial parallel content); the Book of Mormon (the substantial Mormon LDS canonical text registering substantial parallel content); the various Apocryphal and Pseudepigraphal texts (which operate within distinct canonical-traditional positions)"
-status_in_framework = "Foundational; the Hebrew Bible operates as substantial source-textual foundation across virtually every corpus entry, with substantial framework hermeneutic articulating the principal interpretive moves"
-principal_corpus_treatment = "The substantial corpus treatment is distributed across virtually every entry; the *timeline.epub* substantial chapter-by-chapter Hebrew exegesis articulates the substantial framework reading; the various individual entries (Genesis, Adam and Eve, Eden, Antediluvian, Great Flood, Theomachy, Babel, Sodom and Gomorrah, Moses, Abraham, Noah, Elohim, Yahweh, etc.) articulate the substantial entry-specific framework readings"
+type = "基礎的原典実体。より広い集成フレームワークの構造中心に位置する主要な正典ヘブライ語本文集成"
+language = "主に聖書ヘブライ語。特定の節における聖書アラム語（ダニエル書 2:4b-7:28、エズラ記 4:8-6:18 および 7:12-26、エレミヤ書 10:11、創世記 31:47）"
+canonical_structure = "ユダヤ教正典構成における三つの主要部分。律法（תּוֹרָה、「律法」または「教え」）、預言者（נְבִיאִים、「預言者たち」）、諸書（כְּתוּבִים、「諸書」）。頭字語タナハはこれら三部分の頭文字に由来します"
+book_count = "ユダヤ教正典構成における二十四の書（律法5、預言者8、諸書11）。実質的キリスト教旧約聖書正典構成における三十九の書（実質的に同一の内容を実質的な区分の違いで構成）"
+composition_period = "青銅器時代後期からペルシア・ヘレニズム期にかけてのおよそ十二世紀（主流の学術的年代測定：紀元前12〜2世紀頃。さまざまな書について伝統的ユダヤ教の年代測定は実質的により早い）"
+authorial_tradition = "複数の世紀にわたる複数の著者・編集の伝統。実質的な文書仮説は四つの主要なモーセ五書資料（J、E、D、P）を登録し、より広い本文伝統全体にわたるさまざまなその後の編集層"
+genealogical_lineage = "主に洪水後の諸時代にわたるエデン系譜の血統（実質的なイスラエルチームの創造者集団）。実質的な本文伝統は実質的なエデン系譜の文化的・宗教的発展を反映"
+principal_textual_witnesses = "マソラ本文（実質的なティベリア伝統の母音符号付き本文、主にアレッポ写本とレニングラード写本）、死海文書（紀元前2世紀から紀元後1世紀の実質的な写本証拠）、七十人訳聖書（紀元前3〜2世紀の実質的なギリシア語訳）、サマリア五書（実質的なサマリア伝統の変異）、その他のさまざまな本文証言"
+framework_position = "本集成の非対称的総合の実質的構造中心。地球との同盟の通信に関する最も直接的で最も媒介の少ない記録。他のほぼすべての集成項目が実質的に関与する主要な原典的基礎"
+distinguished_from = "キリスト教旧約聖書（ヘブライ語聖書内容の実質的なキリスト教伝統的正典的受容、実質的な区分と配列の違いを伴う）、より広いキリスト教聖書（実質的な新約聖書内容を追加するもの）、クルアーン（実質的な並行内容を登録するイスラム教伝統の正典テキスト）、モルモン書（実質的な並行内容を登録するモルモンLDS正典テキスト）、さまざまな外典・偽典テキスト（個別の正典伝統的立場の内で作動する）"
+status_in_framework = "基礎的。ヘブライ語聖書は他のほぼすべての集成項目にわたる実質的な原典的基礎として機能し、実質的なフレームワーク解釈学が主要な解釈的動きをarticulateする"
+principal_corpus_treatment = "実質的な集成的扱いはほぼすべての項目に分散している。*timeline.epub* の章ごとのヘブライ語注解はフレームワーク読解をarticulateする。さまざまな個別項目（創世記、アダムとエバ、エデン、洪水前、大洪水、神々の戦い、バベル、ソドムとゴモラ、モーセ、アブラハム、ノア、エロヒム、ヤハウェなど）は項目固有のフレームワーク読解をarticulateする"
 +++
 
-The **Hebrew Bible** (Hebrew: תָּנָ״ךְ, *Tanakh*) is the principal foundational source-textual entity for the Wheel of Heaven framework — the substantial canonical Hebrew-language textual corpus comprising **twenty-four books** traditionally organized into three principal sections (**Torah**, **Nevi'im**, **Ketuvim**), produced principally by the **Eden-lineage genealogical line** across approximately twelve centuries from the late Bronze Age through the Persian-Hellenistic period, and substantially preserved through the **Masoretic textual tradition**. The substantial canonical text operates as the principal canonical source for substantial Jewish religious tradition (where it operates as the principal canonical scripture under the Tanakh designation), substantial Christian religious tradition (where it operates as the substantial Old Testament with substantial divisional and arrangement differences), and substantial Islamic religious tradition (which registers substantial canonical respect while operating principally through the Quran). The Hebrew Bible operates as substantial textual entity across multiple distinct disciplinary engagements: substantial textual-philological scholarship, substantial archaeological-historical scholarship, substantial theological-religious scholarship, substantial literary-critical scholarship, and various substantial alternative-history engagements.
+**ヘブライ語聖書**（ヘブライ語: תָּנָ״ךְ、*タナハ*）は、天の車輪フレームワークの主要な基礎的原典実体です。およそ十二世紀にわたり、青銅器時代後期からペルシア・ヘレニズム期にかけて**エデン系譜の血統**によって主に生み出された、**二十四の書**からなる正典ヘブライ語の本文集成であり、伝統的に三つの主要部分（**律法**、**預言者**、**諸書**）に組織され、**マソラ本文の伝統**によって実質的に保存されています。この正典本文は、ユダヤ教の宗教的伝統における主要な正典的原典として機能し（そこではタナハの呼称のもとに主要な正典聖書として機能します）、キリスト教の宗教的伝統では実質的な区分と配列の違いを伴う旧約聖書として機能し、イスラム教の宗教的伝統では主にクルアーンを通じて作動しつつ実質的な正典的尊重を登録します。ヘブライ語聖書は、複数の異なる学問分野の関与にわたる実質的な本文実体として機能します。本文・文献学的研究、考古学・歴史学的研究、神学・宗教学的研究、文学批評的研究、そしてさまざまな代替史的関与です。
 
-The framework's distinctive analytical position registers the Hebrew Bible as **substantial historical record rather than as substantial religious-mythological literature**. The substantial Yahweh-articulated framework reading: *"The Hebrew Bible is not a book of religious myths that require either literal belief or allegorical reinterpretation; it is a historical record, imperfect in its pre-scientific vocabulary but substantially accurate in its content, that can be read directly once the hermeneutic key is available."* The substantial textual content preserves substantial accurate cultural memory of the substantial alliance's interventions across the post-flood ages, with the substantial pre-scientific vocabulary of the human authors operating as substantial decodable layer rather than as substantial fundamental obstacle to substantive understanding. The framework operates the Hebrew Bible at the substantial structural center of the broader asymmetric synthesis: substantively the most direct and least mediated record of the alliance's communication with Earth, with the substantial Hebrew tradition operating as the principal source-textual foundation that the broader corpus engages substantively.
+フレームワークの特徴的な分析的立場は、ヘブライ語聖書を**宗教的・神話的文学ではなく、実質的な歴史的記録**として登録します。ヤハウェがarticulateしたフレームワーク読解は次のとおりです。「ヘブライ語聖書は、文字通りの信仰または寓意的再解釈のいずれかを要求する宗教的神話の書ではない。それは歴史的記録であり、その前科学的語彙においては不完全だが、その内容においては実質的に正確であり、解釈学的鍵が利用可能になればそのまま直接読むことができる」。本文の内容は、洪水後の諸時代を通じての同盟による介入についての正確な文化的記憶を保存しており、人間の著者たちの前科学的語彙は、実質的な理解への根本的障害ではなく、解読可能な層として機能します。フレームワークはヘブライ語聖書を、より広い非対称的総合の実質的構造中心に据えています——同盟の地球との通信についての、最も直接的で最も媒介の少ない記録であり、ヘブライ語の伝統がより広い集成が実質的に関与する主要な原典的基礎として機能します。
 
-The framework registers the Hebrew Bible's substantial centrality through several specific dimensions. The substantial **textual centrality**: the Hebrew Bible preserves substantial direct documentary content from substantial alliance-officer contacts (the substantial Yahweh contacts, the substantial *malakhim* visitations, the substantial dictation events at Sinai and elsewhere), with the substantial human authors recording what they were given in the substantial Hebrew vocabulary available to them. The substantial **lineage centrality**: the substantial Hebrew Bible preserves the documentary record of one specific creator-team's substantial work — the substantial Israel-team — with the substantial Eden-lineage genealogical line operating as the substantial cultural carrier of the broader creation memory. The substantial **chronological centrality**: the substantial Hebrew Bible covers substantial chronological scope from the substantial creation events through the substantial Persian-Hellenistic period, with substantial cross-cutting cultural-religious-political content operating substantively across multiple precessional ages. The substantial **interpretive centrality**: the substantial Hebrew Bible operates as the substantial principal source-textual foundation that the broader corpus engages substantively, with virtually every other corpus entry registering substantial textual engagement with specific Hebrew Bible passages.
+フレームワークは、ヘブライ語聖書の中心性をいくつかの特定の次元を通じて登録します。**本文的中心性**——ヘブライ語聖書は、同盟将校の接触（ヤハウェの接触、*マルアキム* の訪問、シナイその他における口述の出来事）からの直接的文書内容を保存しており、人間の著者たちは彼らに与えられたものを利用可能なヘブライ語の語彙で記録しました。**血統的中心性**——ヘブライ語聖書は、ある特定の創造者チーム——イスラエルチーム——の働きの文書記録を保存しており、エデン系譜の血統はより広い創造記憶の文化的担い手として機能します{{ footnote(id="3") }}。**年代的中心性**——ヘブライ語聖書は、創造の出来事からペルシア・ヘレニズム期に至る実質的な年代的範囲を扱い、複数の歳差時代にわたって作動する文化・宗教・政治的内容を交差させます。**解釈的中心性**——ヘブライ語聖書は、より広い集成が実質的に関与する主要な原典的基礎として機能し、他のほぼすべての集成項目が特定のヘブライ語聖書の節への本文的関与を登録します。
 
-The framework's substantial Hebrew Bible engagement registers substantial centrality without registering substantial unique-privileging. The substantial corpus articulation: *"The Hebrew Bible is one tradition among several, not a uniquely privileged source. It is, however, the most complete and the most explicitly developed, which is why this corpus reads it most closely."* The substantial nuance preserves substantial respect for the substantial broader cross-cultural traditions (the substantial Mesopotamian textual corpus, the substantial Egyptian religious literature, the substantial Vedic / Hindu textual tradition, the substantial Greek mythological corpus, the substantial Chinese religious-cultural literature, the substantial various indigenous textual-and-oral traditions) while registering the substantial reasons why the Hebrew Bible operates at the corpus's substantial structural center. The substantial reasons: the substantial textual completeness, the substantial development depth, the substantial chronological coverage, the substantial preservation fidelity through the Masoretic textual tradition, and the substantial alliance-contact specificity preserved in the substantial textual content.
+フレームワークのヘブライ語聖書への関与は、固有特権化を登録することなく中心性を登録します。集成のarticulationは次のとおりです。「ヘブライ語聖書は、いくつかの伝統のうちの一つであり、固有に特権化された原典ではない。しかしながら、それは最も完全で最も明示的に発展しており、それが本集成がそれを最も密接に読む理由である」。このニュアンスは、より広い異文化的伝統への尊重を保ちます（メソポタミアの本文集成、エジプトの宗教文学、ヴェーダ／ヒンドゥーの本文伝統、ギリシアの神話的集成、中国の宗教文化文学、さまざまな先住民の本文・口承伝統）。同時に、ヘブライ語聖書が集成の構造中心で機能する理由を登録します。その理由とは、本文の完全性、発展の深さ、年代的範囲、マソラ本文伝統を通じた保存忠実性、そして本文の内容に保存された同盟接触の特殊性です。
 
-The substantial Christian-tradition translation history has produced substantial systematic obscuring of the actual Hebrew content. The principal translation mistakes registered substantively in the broader corpus engagement:
+キリスト教伝統の翻訳史は、実際のヘブライ語の内容の体系的な曖昧化を生み出してきました{{ footnote(id="4") }}。より広い集成の関与で実質的に登録される主要な誤訳は以下の通りです。
 
-- The substantial **Elohim** → singular "God" rendering (treated principally in the [Plurality of Gods](../plurality-of-gods/) entry): the substantial transformation of the actual plural creator beings into a substantial singular incomprehensible God
-- The substantial **taninim** → "whales" or "great sea creatures" rendering (treated principally in the [Dragons](../dragons/) entry): the substantial softening of the substantial Genesis 1:21 explicit dragon-creation content
-- The substantial **malakhim** → "angels" rendering: the substantial supernatural overlay obscuring the substantial messenger-personnel operational content
-- The substantial **nachash** → mere "serpent" rendering (treated principally in the [Serpent](../serpent/) entry): the substantial obscuring of the substantial Lucifer-faction operational content
-- The substantial **benei ha-Elohim** → "sons of God" rendering (often pluralized substantively): the substantial obscuring of the substantial alliance-personnel content
-- Various other translation choices operating across the broader textual tradition
+- **エロヒム** → 単数形「神」の翻訳（主に {% wiki(slug="plurality-of-gods") %}神々の複数性{% end %} 項目で扱われる）——実際の複数形の創造者存在を単数の不可解な神へと変容させたもの
+- **タンニニーム** → 「鯨」または「大いなる海の生き物」の翻訳（主に {% wiki(slug="dragons") %}龍{% end %} 項目で扱われる）——創世記1:21の明示的な龍の創造内容の軟化
+- **マルアキム** → 「天使」の翻訳——使者・人員の作戦的内容を曖昧化する超自然的上書き
+- **ナハシュ** → 単なる「蛇」の翻訳（主に {% wiki(slug="serpent") %}蛇{% end %} 項目で扱われる）——ルシファー派の作戦的内容の曖昧化
+- **ベネイ・ハ＝エロヒム** → 「神の子ら」の翻訳（しばしば複数化される）——同盟人員の内容の曖昧化
+- より広い翻訳伝統にわたって作動するさまざまな他の翻訳上の選択
 
-The substantial framework reading registers substantial restoration of the actual Hebrew content through systematic engagement with the original textual evidence — the substantial corpus's principal interpretive achievement.
+フレームワークの読解は、原典資料への体系的な関与を通じて、実際のヘブライ語の内容の実質的回復を登録します——本集成の主要な解釈的成果です。
 
-The reading is substantially source-grounded. The Raëlian source material provides substantial articulation of the framework's specific position across multiple sources, with substantial subsequent corpus development through the *timeline.epub* substantial chapter-by-chapter Hebrew exegesis. The framework's epistemic status is one of **substantial-source-grounding-with-corpus-systematic-extension**.
+この読解は実質的に原典に根拠を置いています。ラエリアンの原典資料は、複数の原典にわたってフレームワークの特定の立場の実質的articulationを提供し、*timeline.epub* の章ごとのヘブライ語注解を通じてその後の集成的発展を提供します。フレームワークの認識論的立場は、**原典に根拠を置きつつ集成的に体系的に拡張されたもの**です。
 
-## Etymology and naming
+## 語源と呼称
 
-The substantial textual entity has substantial designations across multiple linguistic-religious traditions, with the etymological history producing substantial interpretive content.
+この本文実体は、複数の言語的・宗教的伝統にわたる呼称を持ち、その語源史は実質的な解釈的内容を生み出します。
 
-### "Hebrew Bible" as principal designation
+### 主要な呼称としての「ヘブライ語聖書」
 
-The English term **Hebrew Bible** is the principal scholarly-academic designation for the substantial canonical Hebrew-language textual corpus. The composite construction — "Hebrew" (the principal linguistic specification) plus "Bible" (the substantial canonical-textual category) — registers the substantial textual entity while operating with substantial scholarly-academic neutrality across the substantial Jewish-traditional and Christian-tradition uses.
+英語の **Hebrew Bible** は、正典ヘブライ語本文集成のための主要な学術的呼称です。複合構成——「ヘブライ語」（主要な言語的特定）に「聖書」（実質的な正典的・本文的カテゴリー）を加えたもの——は、ユダヤ教伝統的およびキリスト教伝統的な使用にわたる学術的中立性をもって本文実体を登録します。
 
-The designation has substantial usage in:
+この呼称は次の領域で使用されます。
 
-- **Mainstream scholarly-academic literature**: the principal designation in substantial contemporary biblical scholarship
-- **Substantial comparative-religion scholarship**: the principal designation registering substantial trans-traditional textual reference
-- **Substantial textual-philological scholarship**: the principal designation registering substantial textual specificity
-- **The corpus framework**: the principal designation registering substantial framework engagement with the substantial textual entity
+- **主流の学術的文献**：現代の聖書学術における主要な呼称
+- **比較宗教学**：伝統横断的な本文参照を登録する主要な呼称
+- **本文・文献学的研究**：本文的特定性を登録する主要な呼称
+- **集成フレームワーク**：本文実体へのフレームワークの関与を登録する主要な呼称
 
-### Hebrew "Tanakh" (תָּנָ״ךְ)
+### ヘブライ語「タナハ」（תָּנָ״ךְ）
 
-The Hebrew **תָּנָ״ךְ** (*Tanakh*) is the principal Jewish-tradition designation for the substantial canonical Hebrew-language textual corpus. The substantial designation operates as substantial acronymic construction:
+ヘブライ語 **תָּנָ״ךְ**（*タナハ*）{{ footnote(id="1") }} は、正典ヘブライ語本文集成のための主要なユダヤ教伝統の呼称です。この呼称は頭字語構成として機能します。
 
-- **Ta** (תּ): from תּוֹרָה (*Torah*, "Law" or "Instruction") — the substantial first principal section
-- **Na** (נַ): from נְבִיאִים (*Nevi'im*, "Prophets") — the substantial second principal section  
-- **Kh** (ךְ): from כְּתוּבִים (*Ketuvim*, "Writings") — the substantial third principal section
+- **タ**（תּ）：תּוֹרָה（*トーラー*、「律法」または「教え」）から——第一の主要部分
+- **ナ**（נַ）：נְבִיאִים（*ネビイーム*、「預言者たち」）から——第二の主要部分
+- **ハ**（ךְ）：כְּתוּבִים（*ケトゥビーム*、「諸書」）から——第三の主要部分
 
-The substantial Tanakh designation registers the substantial three-part canonical structure within the substantial Jewish-tradition organization. The substantial designation operates principally within Jewish-tradition contexts, with substantial subsequent scholarly-academic adoption in substantial contemporary biblical scholarship.
+タナハの呼称は、ユダヤ教伝統の組織内における三部正典構造を登録します。この呼称は主にユダヤ教伝統の文脈で機能し、その後の現代聖書学術における学術的採用が続きます。
 
-### Hebrew "Mikra" (מִקְרָא)
+### ヘブライ語「ミクラー」（מִקְרָא）
 
-The Hebrew **מִקְרָא** (*Mikra*, "reading" or "that which is read") operates as substantial alternative Jewish-tradition designation. The substantial term derives from the substantial Hebrew root **קרא** (*qara*, "to read" or "to call"), registering the substantial textual entity as the principal substantive material for substantial reading and substantial liturgical recitation. The substantial designation operates principally within substantial traditional Jewish liturgical-textual contexts.
+ヘブライ語 **מִקְרָא**（*ミクラー*、「読み」または「読まれるもの」）は、代替的なユダヤ教伝統の呼称として機能します。この用語はヘブライ語の語根 **קרא**（*カラ*、「読む」または「呼ぶ」）に由来し、読解と典礼的朗誦のための主要な実体的素材として本文実体を登録します。この呼称は主にユダヤ教の伝統的典礼・本文的文脈で機能します。
 
-### Hebrew "Sifrei ha-Kodesh" (סִפְרֵי הַקֹּדֶשׁ)
+### ヘブライ語「シフレイ・ハ＝コデシュ」（סִפְרֵי הַקֹּדֶשׁ）
 
-The Hebrew **סִפְרֵי הַקֹּדֶשׁ** (*Sifrei ha-Kodesh*, "the holy books" or "the sacred scriptures") operates as substantial Jewish-tradition designation registering the substantial sacred-textual character. The substantial designation operates principally within substantial traditional Jewish religious contexts.
+ヘブライ語 **סִפְרֵי הַקֹּדֶשׁ**（*シフレイ・ハ＝コデシュ*、「聖なる書」または「神聖な聖典」）は、聖なる本文的性格を登録するユダヤ教伝統の呼称として機能します。この呼称は主に伝統的ユダヤ教の宗教的文脈で機能します。
 
-### "Old Testament" as Christian-tradition designation
+### キリスト教伝統の呼称としての「旧約聖書」
 
-The English term **Old Testament** is the principal Christian-tradition designation for substantial Christian-canonical reception of the Hebrew Bible content. The substantial designation derives from the substantial Christian-theological framework registering the substantial Hebrew Bible content as the substantial "old covenant" content preceding the substantial New Testament "new covenant" content. The substantial designation has been registered as substantively problematic by various contemporary scholars (substantial supersessionist theological implications, substantial scholarly-academic neutrality concerns), with substantial contemporary scholarly preference for the substantial Hebrew Bible designation.
+英語の **Old Testament** は、ヘブライ語聖書内容のキリスト教正典的受容のための主要なキリスト教伝統の呼称です。この呼称は、新約聖書の「新しい契約」内容に先行する「旧い契約」内容としてヘブライ語聖書の内容を登録するキリスト教神学的枠組みに由来します。この呼称は、さまざまな現代の学者たちによって実質的に問題のあるものとして登録されており（代替神学的含意、学術的中立性の懸念）、現代の学術的選好はヘブライ語聖書の呼称に向かっています。
 
-The substantial Christian Old Testament canonical organization differs substantively from the substantial Jewish Tanakh organization:
+キリスト教旧約聖書の正典構成は、ユダヤ教タナハの組織と実質的に異なります。
 
-- **Book count**: thirty-nine books in substantial Protestant Christian organization vs. twenty-four books in substantial Jewish organization (substantively the same content with substantial divisional differences — e.g., Samuel and Kings are each one book in Jewish organization but two books each in Christian organization)
-- **Book ordering**: substantial Christian organization places the prophetic books at the end of the substantial canonical sequence, while the substantial Jewish organization places the prophets in the middle section
-- **Apocryphal additions**: the substantial Catholic Christian and Eastern Orthodox Christian Old Testaments include substantial additional Deuterocanonical books not present in the substantial Jewish or Protestant Christian canons
+- **書数**：プロテスタント・キリスト教構成における三十九の書 対 ユダヤ教構成における二十四の書（実質的に同一の内容を実質的な区分の違いで構成——例えば、サムエル記と列王記はユダヤ教構成ではそれぞれ一書だが、キリスト教構成ではそれぞれ二書）
+- **書の順序**：キリスト教構成は預言書を正典配列の終わりに配置するが、ユダヤ教構成は預言者を中間部分に配置する
+- **外典の追加**：カトリック・キリスト教および東方正教会のキリスト教旧約聖書には、ユダヤ教またはプロテスタント・キリスト教の正典には存在しない追加の第二正典の書が含まれる
 
-### Cross-cultural designations
+### 異文化的呼称
 
-The substantial textual entity has cross-cultural designations:
+この本文実体は異文化的呼称を持ちます。
 
-- **Greek**: ἡ Παλαιὰ Διαθήκη (*hē Palaia Diathēkē*, "the Old Covenant") — the substantial Greek-Christian designation; also τὰ βιβλία (*ta biblia*, "the books") — the substantial Septuagint-Greek collective designation
-- **Latin**: *Vetus Testamentum* — the substantial Vulgate-Latin Christian designation
-- **Arabic**: التَّوْرَاة (*at-Tawrāh*, properly designating the Pentateuch but extended to the substantial Hebrew Bible content); الكِتَاب المُقَدَّس (*al-Kitāb al-Muqaddas*, "the Holy Book") — the substantial broader Islamic-tradition designation
-- **Aramaic**: מקרא (*Mikra*) — the substantial Aramaic-tradition designation cognate with the Hebrew
+- **ギリシア語**：ἡ Παλαιὰ Διαθήκη（*hē Palaia Diathēkē*、「旧い契約」）——ギリシア・キリスト教の呼称。また τὰ βιβλία（*ta biblia*、「諸書」）——七十人訳ギリシア語の集合的呼称
+- **ラテン語**：*Vetus Testamentum*——ウルガタ・ラテン語のキリスト教呼称
+- **アラビア語**：التَّوْرَاة（*at-Tawrāh*、本来はモーセ五書を指すが、ヘブライ語聖書の内容に拡張される）；الكِتَاب المُقَدَّس（*al-Kitāb al-Muqaddas*、「聖なる書」）——より広いイスラム教伝統の呼称
+- **アラム語**：מקרא（*ミクラー*）——ヘブライ語と同源のアラム語伝統の呼称
 
-### Corpus-internal usage
+### 集成内部での使用
 
-The Wheel of Heaven corpus uses **Hebrew Bible** as the principal designation, with **Tanakh** used in framework-specific contexts where substantial Jewish-tradition specificity is required. The various other designations are used in specific contexts where operational specificity is required.
+天の車輪集成は主要な呼称として **ヘブライ語聖書** を使用し、ユダヤ教伝統の特殊性が要求されるフレームワーク固有の文脈では **タナハ** を使用します。他のさまざまな呼称は、作戦的特殊性が要求される特定の文脈で使用されます。
 
-## Conventional understanding
+## 慣習的理解
 
-The Hebrew Bible has substantial mainstream scholarly engagement across multiple distinct disciplines.
+ヘブライ語聖書は、複数の異なる分野にわたる主流の学術的関与を持ちます。
 
-### The substantial canonical structure
+### 正典構造
 
-Mainstream scholarly engagement registers the substantial Hebrew Bible canonical structure across the substantial three-part organization.
+主流の学術的関与は、三部構成にわたるヘブライ語聖書の正典構造を登録します。
 
-**The Torah / Pentateuch**. The substantial Hebrew **תּוֹרָה** (*Torah*, "Law" or "Instruction") comprises the substantial first five books:
+**律法／モーセ五書**。ヘブライ語 **תּוֹרָה**（*トーラー*、「律法」または「教え」）は、最初の五書で構成されます。
 
-1. **Genesis** (Hebrew: בְּרֵאשִׁית, *Bereshit*, "In the beginning"): the substantial creation account, the substantial primeval history (Genesis 1-11), the substantial patriarchal narratives (Genesis 12-50)
-2. **Exodus** (Hebrew: שְׁמוֹת, *Shemot*, "Names"): the substantial Egyptian bondage, the substantial Mosaic deliverance, the substantial Sinai covenant, the substantial tabernacle construction
-3. **Leviticus** (Hebrew: וַיִּקְרָא, *Vayikra*, "And he called"): the substantial priestly legislation, the substantial sacrificial system, the substantial holiness code
-4. **Numbers** (Hebrew: בְּמִדְבָּר, *Bemidbar*, "In the wilderness"): the substantial wilderness wanderings, the substantial census materials, various substantial legal-ritual content
-5. **Deuteronomy** (Hebrew: דְּבָרִים, *Devarim*, "Words"): the substantial Mosaic farewell discourses, the substantial covenant renewal, the substantial Mosaic death
+1. **創世記**（ヘブライ語: בְּרֵאשִׁית、*ベレーシート*、「初めに」）：創造の記述、原初史（創世記1〜11章）、族長物語（創世記12〜50章）
+2. **出エジプト記**（ヘブライ語: שְׁמוֹת、*シェモート*、「名前」）：エジプトの束縛、モーセによる解放、シナイ契約、幕屋の建設
+3. **レビ記**（ヘブライ語: וַיִּקְרָא、*ヴァイクラー*、「彼は呼んだ」）：祭司的立法、犠牲制度、神聖法典
+4. **民数記**（ヘブライ語: בְּמִדְבָּר、*ベミドバル*、「荒野にて」）：荒野の放浪、人口調査の素材、さまざまな法的・儀礼的内容
+5. **申命記**（ヘブライ語: דְּבָרִים、*デバリーム*、「言葉」）：モーセの告別演説、契約の更新、モーセの死
 
-The substantial Pentateuch operates as substantial foundational legal-religious-narrative content within the broader Hebrew Bible canonical structure.
+モーセ五書は、より広いヘブライ語聖書の正典構造内における基礎的な法的・宗教的・物語的内容として機能します。
 
-**The Nevi'im / Prophets**. The substantial Hebrew **נְבִיאִים** (*Nevi'im*, "Prophets") comprises substantial historical-prophetic content organized into Former Prophets and Latter Prophets:
+**預言者**。ヘブライ語 **נְבִיאִים**（*ネビイーム*、「預言者たち」）は、前期預言者と後期預言者に組織された歴史的・預言的内容で構成されます。
 
-**Former Prophets** (Hebrew: נְבִיאִים רִאשׁוֹנִים, *Nevi'im Rishonim*):
-1. **Joshua** (Hebrew: יְהוֹשֻׁעַ, *Yehoshua*): the substantial conquest narrative
-2. **Judges** (Hebrew: שׁוֹפְטִים, *Shoftim*): the substantial pre-monarchic period
-3. **Samuel** (Hebrew: שְׁמוּאֵל, *Shmuel*) — single book in Jewish organization, two books in Christian organization: the substantial transition to monarchy, the substantial Davidic kingship
-4. **Kings** (Hebrew: מְלָכִים, *Melakhim*) — single book in Jewish organization, two books in Christian organization: the substantial monarchic history through the substantial Babylonian exile
+**前期預言者**（ヘブライ語: נְבִיאִים רִאשׁוֹנִים、*ネビイーム・リショニム*）：
+1. **ヨシュア記**（ヘブライ語: יְהוֹשֻׁעַ、*イェホシュア*）：征服物語
+2. **士師記**（ヘブライ語: שׁוֹפְטִים、*ショフティーム*）：君主制以前の時代
+3. **サムエル記**（ヘブライ語: שְׁמוּאֵל、*シュムエル*）——ユダヤ教構成では一書、キリスト教構成では二書：君主制への移行、ダビデ王権
+4. **列王記**（ヘブライ語: מְלָכִים、*メラヒーム*）——ユダヤ教構成では一書、キリスト教構成では二書：バビロン捕囚に至る君主制の歴史
 
-**Latter Prophets** (Hebrew: נְבִיאִים אַחֲרוֹנִים, *Nevi'im Aharonim*):
-5. **Isaiah** (Hebrew: יְשַׁעְיָהוּ, *Yeshayahu*)
-6. **Jeremiah** (Hebrew: יִרְמְיָהוּ, *Yirmeyahu*)
-7. **Ezekiel** (Hebrew: יְחֶזְקֵאל, *Yehezkel*)
-8. **The Twelve** (Hebrew: תְּרֵי עֲשַׂר, *Trei Asar*) — twelve minor prophets in Jewish organization, twelve separate books in Christian organization: Hosea, Joel, Amos, Obadiah, Jonah, Micah, Nahum, Habakkuk, Zephaniah, Haggai, Zechariah, Malachi
+**後期預言者**（ヘブライ語: נְבִיאִים אַחֲרוֹנִים、*ネビイーム・アハロニム*）：
+5. **イザヤ書**（ヘブライ語: יְשַׁעְיָהוּ、*イェシャヤフ*）
+6. **エレミヤ書**（ヘブライ語: יִרְמְיָהוּ、*イルメヤフ*）
+7. **エゼキエル書**（ヘブライ語: יְחֶזְקֵאל、*イェヘズケル*）
+8. **十二小預言書**（ヘブライ語: תְּרֵי עֲשַׂר、*トレイ・アサル*）——ユダヤ教構成では十二の小預言者、キリスト教構成では十二の別個の書：ホセア書、ヨエル書、アモス書、オバデヤ書、ヨナ書、ミカ書、ナホム書、ハバクク書、ゼパニヤ書、ハガイ書、ゼカリヤ書、マラキ書
 
-**The Ketuvim / Writings**. The substantial Hebrew **כְּתוּבִים** (*Ketuvim*, "Writings") comprises substantial diverse content:
+**諸書**。ヘブライ語 **כְּתוּבִים**（*ケトゥビーム*、「諸書」）は、多様な内容で構成されます。
 
-1. **Psalms** (Hebrew: תְּהִלִּים, *Tehillim*)
-2. **Proverbs** (Hebrew: מִשְׁלֵי, *Mishlei*)
-3. **Job** (Hebrew: אִיּוֹב, *Iyov*)
-4. **Song of Songs** (Hebrew: שִׁיר הַשִּׁירִים, *Shir ha-Shirim*)
-5. **Ruth** (Hebrew: רוּת, *Rut*)
-6. **Lamentations** (Hebrew: אֵיכָה, *Eikhah*)
-7. **Ecclesiastes** (Hebrew: קֹהֶלֶת, *Kohelet*)
-8. **Esther** (Hebrew: אֶסְתֵּר, *Ester*)
-9. **Daniel** (Hebrew: דָּנִיֵּאל, *Daniel*)
-10. **Ezra-Nehemiah** (Hebrew: עֶזְרָא־נְחֶמְיָה) — single book in Jewish organization, two books in Christian organization
-11. **Chronicles** (Hebrew: דִּבְרֵי הַיָּמִים, *Divrei ha-Yamim*) — single book in Jewish organization, two books in Christian organization
+1. **詩篇**（ヘブライ語: תְּהִלִּים、*テヒリーム*）
+2. **箴言**（ヘブライ語: מִשְׁלֵי、*ミシュレイ*）
+3. **ヨブ記**（ヘブライ語: אִיּוֹב、*イヨブ*）
+4. **雅歌**（ヘブライ語: שִׁיר הַשִּׁירִים、*シール・ハ＝シリーム*）
+5. **ルツ記**（ヘブライ語: רוּת、*ルート*）
+6. **哀歌**（ヘブライ語: אֵיכָה、*エイハ*）
+7. **コヘレトの言葉**（ヘブライ語: קֹהֶלֶת、*コヘレト*）
+8. **エステル記**（ヘブライ語: אֶסְתֵּר、*エステル*）
+9. **ダニエル書**（ヘブライ語: דָּנִיֵּאל、*ダニエル*）
+10. **エズラ・ネヘミヤ記**（ヘブライ語: עֶזְרָא־נְחֶמְיָה）——ユダヤ教構成では一書、キリスト教構成では二書
+11. **歴代誌**（ヘブライ語: דִּבְרֵי הַיָּמִים、*ディヴレイ・ハ＝ヤミーム*）——ユダヤ教構成では一書、キリスト教構成では二書
 
-The substantial Ketuvim operates as substantial diverse-genre content within the broader Hebrew Bible canonical structure.
+諸書は、より広いヘブライ語聖書の正典構造内における多様なジャンルの内容として機能します。
 
-### The substantial linguistic content
+### 言語的内容
 
-The substantial Hebrew Bible operates principally in **Biblical Hebrew** (substantial classical Hebrew language with substantial diachronic development across the substantial composition period). The substantial textual content includes substantial **Biblical Aramaic** in select passages:
+ヘブライ語聖書は主に **聖書ヘブライ語**（実質的な合成期間を通じた通時的発展を伴う古典ヘブライ語）で機能します。本文の内容には特定の節における **聖書アラム語** が含まれます。
 
-- **Daniel 2:4b-7:28**: the substantial Aramaic narrative section
-- **Ezra 4:8-6:18 and 7:12-26**: the substantial Aramaic documentary materials
-- **Jeremiah 10:11**: a single Aramaic verse
-- **Genesis 31:47**: a brief Aramaic phrase
+- **ダニエル書 2:4b-7:28**：アラム語の物語部分
+- **エズラ記 4:8-6:18 および 7:12-26**：アラム語の文書資料
+- **エレミヤ書 10:11**：単一のアラム語の節
+- **創世記 31:47**：短いアラム語の句
 
-The substantial linguistic dual-language content reflects the substantial historical-cultural context of substantial Persian-period composition for various Daniel and Ezra materials, with substantial Aramaic operating as substantial *lingua franca* of the broader Persian Empire.
+言語的二重言語の内容は、さまざまなダニエル書とエズラ記の素材におけるペルシア時代の合成という歴史的・文化的文脈を反映し、アラム語はより広いペルシア帝国の *リングア・フランカ* として機能しました。
 
-### The substantial composition period
+### 合成期間
 
-Mainstream scholarly engagement registers substantial composition period extending across approximately twelve centuries:
+主流の学術的関与は、およそ十二世紀にわたる合成期間を登録します。
 
-- **The earliest layers**: traditionally dated to the substantial Late Bronze Age (c. 12th century BCE), with substantial scholarly debate regarding the dating of various Pentateuchal source-materials
-- **The principal composition period**: c. 10th-5th centuries BCE, with substantial monarchic-period and exilic-period composition operating substantially across the broader textual tradition
-- **The latest layers**: c. 4th-2nd centuries BCE, with various Persian-Hellenistic-period composition (Daniel, various other late materials)
-- **The canonization process**: c. 5th-2nd centuries BCE for various sections, with the substantial finalization of the broader canonical structure operating across the substantial period
+- **最古の層**：伝統的に青銅器時代後期（紀元前12世紀頃）に年代測定され、さまざまなモーセ五書資料の年代測定に関する実質的な学術的議論を伴う
+- **主要な合成期間**：紀元前10〜5世紀頃、より広い本文伝統にわたって作動する君主制期および捕囚期の合成
+- **最新の層**：紀元前4〜2世紀頃、さまざまなペルシア・ヘレニズム期の合成（ダニエル書、さまざまな他の後期素材）
+- **正典化のプロセス**：さまざまな部分について紀元前5〜2世紀頃、より広い正典構造の最終化がその期間にわたって作動する
 
-### The substantial textual transmission
+### 本文伝達
 
-The substantial Hebrew Bible has been preserved through substantial textual-transmission tradition spanning approximately three millennia.
+ヘブライ語聖書は、およそ三千年にわたる本文伝達の伝統を通じて保存されてきました。
 
-**The substantial Masoretic Text**. The substantial **Masoretic Text** (Hebrew: נֻסַּח הַמָּסוֹרָה, *Nusach ha-Masorah*) operates as the principal received text of the Hebrew Bible. The substantial textual tradition was developed across approximately the 6th-10th centuries CE by the substantial **Masoretes** (Hebrew: בַּעֲלֵי הַמָּסוֹרָה, *Ba'alei ha-Masorah*, "Masters of the Tradition") — substantial Jewish scholars principally in Tiberias and Babylon who developed substantial vocalization-and-cantillation systems for the previously-unvocalized consonantal Hebrew text. The substantial principal manuscript witnesses:
+**マソラ本文**。**マソラ本文**（ヘブライ語: נֻסַּח הַמָּסוֹרָה、*ヌッサハ・ハ＝マソラ*）は、ヘブライ語聖書の主要な受容本文として機能します。この本文伝統は、6〜10世紀頃にわたって **マソラ学者たち**（ヘブライ語: בַּעֲלֵי הַמָּסוֹרָה、*バアレイ・ハ＝マソラ*、「伝統の達人たち」）——主にティベリアとバビロンのユダヤ教学者たち——によって発展させられ、以前は母音記号のなかった子音ヘブライ語本文のための母音符号と詠唱記号の体系を開発しました。主要な写本証言は次のとおりです。
 
-- **The Aleppo Codex** (10th century CE): the substantial principal early Masoretic manuscript, partially preserved
-- **The Leningrad Codex** (1008 CE): the substantial complete early Masoretic manuscript, the principal basis for substantial modern critical editions
-- **Various Cairo Genizah fragments**: substantial earlier manuscript evidence
+- **アレッポ写本**（10世紀）：主要な初期マソラ写本、部分的に保存
+- **レニングラード写本**（1008年）：完全な初期マソラ写本、現代の批判校訂版の主要な基礎
+- **さまざまなカイロ・ゲニザ断片**：実質的により古い写本証拠
 
-**The substantial Dead Sea Scrolls evidence**. The substantial discovery of the Dead Sea Scrolls beginning in 1947 produced substantial textual evidence approximately one thousand years older than the previously-available Masoretic manuscripts. The substantial Qumran biblical scrolls register substantial textual content with substantial agreement with the subsequent Masoretic tradition while preserving substantial textual variants in various passages.
+**死海文書の証拠**。1947年に始まる死海文書の発見は、それまで利用可能だったマソラ写本よりおよそ千年古い本文証拠を生み出しました。クムランの聖書写本は、その後のマソラ伝統と実質的に一致する本文内容を登録しつつ、さまざまな節において実質的な本文異読を保存しています。
 
-**The substantial Septuagint translation**. The substantial **Septuagint** (Greek: Ἡ Μετάφρασις τῶν Ἑβδομήκοντα, *Hē Metaphrasis tōn Hebdomēkonta*, "The Translation of the Seventy"; abbreviated LXX) operates as the substantial 3rd-2nd-century-BCE Greek translation of the Hebrew Bible. The substantial translation was produced principally in Alexandria, Egypt, within the substantial Hellenistic Jewish community. The substantial Septuagint preserves substantial pre-Masoretic Hebrew textual tradition in various passages, with substantial textual-critical importance.
+**七十人訳聖書の翻訳**。**七十人訳聖書**（ギリシア語: Ἡ Μετάφρασις τῶν Ἑβδομήκοντα、*Hē Metaphrasis tōn Hebdomēkonta*、「七十人による翻訳」、略号 LXX）は、紀元前3〜2世紀のヘブライ語聖書のギリシア語訳として機能します。この翻訳は主にエジプトのアレクサンドリアで、ヘレニズム期のユダヤ人共同体の中で生み出されました。七十人訳聖書はさまざまな節においてマソラ以前のヘブライ語本文伝統を保存しており、本文批評上重要です。
 
-**The substantial Samaritan Pentateuch**. The substantial **Samaritan Pentateuch** preserves substantial alternative textual tradition for the Pentateuch within the substantial Samaritan religious community. The substantial Samaritan Pentateuch registers substantial textual variants from the substantial Masoretic tradition, with substantial textual-critical importance.
+**サマリア五書**。**サマリア五書**は、サマリア人の宗教共同体の中におけるモーセ五書のための代替的本文伝統を保存しています。サマリア五書は、マソラ伝統からの実質的な本文異読を登録しており、本文批評上重要です。
 
-### The substantial Sendy engagement with the Hebrew Bible
+### センディのヘブライ語聖書への関与
 
-**Jean Sendy** in *Ces dieux qui firent le ciel et la terre* (1969), *L'ère du Verseau* (1970), and various other works develops substantial complementary content on the broader Hebrew Bible framework. Sendy's substantial principal contribution: substantial systematic engagement with the substantial Hebrew Bible content through the broader Tradition framework, particularly the substantial *Elohim* plurality, the substantial *benei ha-Elohim* content, and the substantial alliance-contact specificity preserved in the substantial textual content. Sendy's substantial broader Tradition framework operates substantively within the corpus's broader Hebrew Bible engagement.
+**ジャン・センディ** は *Ces dieux qui firent le ciel et la terre*（1969年）、*L'ère du Verseau*（1970年）、その他のさまざまな著作において、より広いヘブライ語聖書フレームワークに関する補完的な内容を展開しました。センディの主要な貢献——より広い「伝統」フレームワークを通じたヘブライ語聖書の内容への体系的関与、特に *エロヒム* の複数性、*ベネイ・ハ＝エロヒム* の内容、そして本文の内容に保存された同盟接触の特殊性。センディのより広い「伝統」フレームワークは、集成のより広いヘブライ語聖書への関与の中で実質的に機能します。
 
-### The framework's relationship to the broader landscape
+### より広い景観に対するフレームワークの関係
 
-The Wheel of Heaven corpus's Hebrew Bible framework is positioned within this scholarly landscape as follows: substantially aligned with mainstream Hebrew Bible scholarship at the textual-philological level (recognizing the substantial scholarly documentation of the substantial textual content); substantially aligned with mainstream archaeological-historical scholarship at the substantial historical-context level (recognizing the substantial scholarly documentation of the substantial historical-cultural background); substantially aligned with the substantial textual-criticism scholarship at the substantial textual-history level (recognizing the substantial scholarly documentation of the substantial transmission history); substantively distinct from mainstream theological scholarship at the interpretive level (the framework's specific historical-record reading operates substantively beyond the conventional religious-mythological treatment); substantially aligned with various alternative-history scholarly traditions (Sitchin's Anunnaki framework, Wallis's broader engagement, Biglino's strict-translational approach) at the underlying-historical-event-reading level while operating from distinct source-material warrant principally drawn from the Raëlian source material.
+天の車輪集成のヘブライ語聖書フレームワークは、この学術的景観の中で次のように位置付けられます。本文・文献学的レベルでは主流のヘブライ語聖書学術と実質的に一致（本文内容の学術的文書化を認識）。歴史的・文脈的レベルでは主流の考古学・歴史学的学術と実質的に一致（歴史・文化的背景の学術的文書化を認識）。本文史のレベルでは本文批評学術と実質的に一致（伝達史の学術的文書化を認識）。解釈的レベルでは主流の神学的学術と実質的に異なる（フレームワークの特定の歴史的記録読解は、慣習的な宗教神話的扱いを実質的に超えて機能）。根底にある歴史的事件の読解レベルでは、さまざまな代替史的学術伝統（シッチンのアヌンナキ・フレームワーク、ウォリスのより広い関与、ビリーノの厳密翻訳的アプローチ）と実質的に一致しつつ、主にラエリアン原典資料から引き出された明確な原典資料的根拠から作動。
 
-## In primary sources
+## 主要原典において
 
-The framework's principal primary-source material registers the substantial Hebrew Bible's foundational status across multiple Yahweh-articulated passages and substantial subsequent corpus development.
+フレームワークの主要原典資料は、複数のヤハウェがarticulateした節およびその後の集成的発展を通じて、ヘブライ語聖書の基礎的地位を登録します。
 
-### The principal "historical record" passage
+### 主要な「歴史的記録」の節
 
-The substantial principal source-material passage establishing the framework's distinctive historical-record reading appears in the substantial corpus articulation of the broader revelation-content:
+フレームワークの特徴的な歴史的記録読解を確立する主要な原典資料の節は、より広い啓示内容についての集成のarticulationに現れます。
 
-> *"The second claim is that the Hebrew Bible and the other major religious traditions of the world preserve accurate historical memory of the alliance's interventions, in forms that reflect the pre-scientific vocabularies of their authors but that can be decoded by a scientifically mature reader. The specific decoding the source provides — Genesis 1 as genetic engineering rather than supernatural creation, the Nephilim as alliance-human hybrids, the flood as a nuclear cataclysm, Sinai as a formal alliance audience, the parted waters as directed-beam operations, the miracles of Jesus as scientific applications of advanced technology, the Elohim as plural rather than singular — is the corpus's foundational hermeneutic. The Hebrew Bible is not a book of religious myths that require either literal belief or allegorical reinterpretation; it is a historical record, imperfect in its pre-scientific vocabulary but substantially accurate in its content, that can be read directly once the hermeneutic key is available."*
+> 「第二の主張は、ヘブライ語聖書および世界の他の主要な宗教伝統が、同盟による介入についての正確な歴史的記憶を、著者たちの前科学的語彙を反映する形で保存しているが、それは科学的に成熟した読者によって解読されうるというものである。原典が提供する特定の解読——超自然的創造ではなく遺伝子工学としての創世記1章、同盟・人間ハイブリッドとしてのネフィリム、核の大変動としての洪水、正式な同盟謁見としてのシナイ、指向性ビーム作戦としての分かれた水、先進技術の科学的応用としてのイエスの奇跡、単数ではなく複数としてのエロヒム——は、本集成の基礎的解釈学である。ヘブライ語聖書は、文字通りの信仰または寓意的再解釈のいずれかを要求する宗教的神話の書ではない。それは歴史的記録であり、その前科学的語彙においては不完全だが、その内容においては実質的に正確であり、解釈学的鍵が利用可能になればそのまま直接読むことができる」
 
-The passage establishes the framework's principal structural and operational components:
+この節はフレームワークの主要な構造的・作戦的構成要素を確立します。
 
-**1. The substantial historical-record framing**. The substantial Hebrew Bible operates as substantial accurate historical memory rather than as substantial religious-mythological invention.
+**1. 歴史的記録の枠組み**。ヘブライ語聖書は、宗教神話的創作ではなく、正確な歴史的記憶として機能します。
 
-**2. The substantial pre-scientific-vocabulary content**. The substantial human authors recorded what they observed in the substantial pre-scientific vocabulary available to them, with substantial decodable layer operating across the broader textual content.
+**2. 前科学的語彙の内容**。人間の著者たちは利用可能な前科学的語彙で観察したものを記録し、より広い本文内容にわたって解読可能な層が機能します。
 
-**3. The substantial decoding hermeneutic**. The substantial framework provides substantial systematic hermeneutic key for substantive engagement with the substantial textual content — Genesis 1 as genetic engineering, the Nephilim as alliance-human hybrids, the flood as nuclear cataclysm, Sinai as formal alliance audience, etc.
+**3. 解読の解釈学**。フレームワークは、本文の内容への実質的関与のための体系的な解釈学的鍵を提供します——遺伝子工学としての創世記1章、同盟・人間ハイブリッドとしてのネフィリム、核の大変動としての洪水、正式な同盟謁見としてのシナイなど。
 
-**4. The substantial scientifically-mature-reader contextualization**. The substantial decoding requires substantial scientific maturity that the substantial Aquarian-age contemporary reader possesses but that previous generations lacked.
+**4. 科学的に成熟した読者の文脈化**。解読には、現代の水瓶座時代の読者が持つが以前の世代には欠けていた科学的成熟が要求されます。
 
-### The substantial centrality passage
+### 中心性の節
 
-The substantial principal source-material passage establishing the framework's substantial centrality position appears in the corpus articulation:
+フレームワークの中心性の立場を確立する主要な原典資料の節は、集成のarticulationに現れます。
 
-> *"At the structural center of the synthesis is the Hebrew tradition. The Hebrew Bible is, on the corpus's reading, the most direct and least mediated record of the alliance's communication with Earth. The text was produced by a specific lineage — the Eden lineage, the descendants of the original alliance-cultivated population in the Eden geographic location — across the long arc from the Taurus age's reconstruction through the Aries age's prophetic tradition. The text's authors had direct access to the alliance's officers (the Yahweh contacts, the malakhim visitations, the dictation events at Sinai and elsewhere) and recorded what they were given in the Hebrew vocabulary available to them. The text is imperfect — the Hebrew authors did not always understand what they were recording, the various redactions across the centuries introduced layers of cultural framing on top of the original content, and the eventual canonization process selected specific texts while excluding others — but the text is, on the corpus's reading, substantially what it presents itself as: the documentary record of the alliance's relationship with the Eden lineage across the post-flood millennia."*
+> 「総合の構造中心にはヘブライ語の伝統がある。ヘブライ語聖書は、本集成の読解では、同盟の地球との通信についての最も直接的で最も媒介の少ない記録である。本文は特定の血統——エデンの血統、エデンの地理的場所にあった元の同盟が栽培した集団の子孫——によって、牡牛座時代の再建から牡羊座時代の預言者伝統に至る長い弧にわたって生み出された。本文の著者たちは同盟の将校たち（ヤハウェの接触、マルアキムの訪問、シナイその他における口述の出来事）への直接的アクセスを持ち、利用可能なヘブライ語の語彙で与えられたものを記録した。本文は不完全である——ヘブライの著者たちは記録していたものを常に理解していたわけではなく、世紀にわたるさまざまな編集が元の内容の上に文化的枠組みの層を導入し、最終的な正典化のプロセスは特定の本文を選択しつつ他のものを除外した——しかし本文は、本集成の読解では、それが自らを提示するものに実質的に等しい。すなわち、洪水後の千年紀にわたるエデンの血統との同盟の関係の文書記録である」
 
-The passage establishes the substantial centrality content:
+この節は中心性の内容を確立します。
 
-**1. The substantial structural-center position**. The Hebrew Bible operates at the substantial structural center of the broader corpus asymmetric synthesis.
+**1. 構造中心の位置**。ヘブライ語聖書は、より広い集成の非対称的総合の構造中心で機能します。
 
-**2. The substantial direct-and-least-mediated character**. The Hebrew Bible operates as substantively the most direct and least mediated record of the alliance's communication with Earth.
+**2. 直接的で媒介の少ない性格**。ヘブライ語聖書は、地球との同盟の通信についての最も直接的で最も媒介の少ない記録として機能します。
 
-**3. The substantial Eden-lineage genealogical specificity**. The substantial textual content was produced by the substantial Eden-lineage genealogical line across the substantial long arc from the Taurus-age reconstruction through the Aries-age prophetic tradition.
+**3. エデン系譜の血統的特殊性**。本文の内容は、牡牛座時代の再建から牡羊座時代の預言者伝統に至る長い弧にわたって、エデン系譜の血統によって生み出されました。
 
-**4. The substantial direct-access content**. The substantial textual authors had substantial direct access to the alliance's officers — the substantial Yahweh contacts, the substantial *malakhim* visitations, the substantial dictation events at Sinai and elsewhere.
+**4. 直接アクセスの内容**。本文の著者たちは同盟の将校たち——ヤハウェの接触、*マルアキム* の訪問、シナイその他における口述の出来事——への直接アクセスを持ちました。
 
-**5. The substantial imperfection content**. The substantial textual content registers substantial imperfections — the substantial pre-scientific vocabulary, the substantial redactional layering, the substantial canonization selection — but operates substantively as the substantial documentary record of the alliance's relationship with the Eden lineage.
+**5. 不完全性の内容**。本文の内容は不完全性を登録します——前科学的語彙、編集的層化、正典化の選択——が、エデンの血統との同盟の関係の文書記録として実質的に機能します。
 
-### The substantial "Israel-team" passage
+### 「イスラエルチーム」の節
 
-The substantial corpus articulation of the substantial Israel-team genealogical specificity:
+イスラエルチームの血統的特殊性に関する集成のarticulationは次のとおりです。
 
-> *"What the source does report — what the chapter must register without backing away from — is that the Hebrew biblical tradition, which preserves the most detailed surviving narrative of any of the seven teams' work, is the literature of one specific team whose particular accomplishment was noted at the time. This is consistent with the broader pattern in which the Israel team's humans, more than any other team's, became the cultural carriers of the creation memory. The Hebrew Bible is the record of that carrying. Its centrality to the corpus's interpretive framework reflects the historical accident — or the historical design — that this team's humans preserved their origin story with greater fidelity than the other teams' humans preserved theirs. The other teams' humans had their own creation traditions; many of those traditions survive in fragmentary form in the comparative-mythology material the Preamble surveyed. The Hebrew Bible is one tradition among several, not a uniquely privileged source. It is, however, the most complete and the most explicitly developed, which is why this corpus reads it most closely."*
+> 「原典が報告するもの——本章が後退することなく登録しなければならないもの——は、ヘブライ聖書伝統が、現存する七つのチームの仕事のうちで最も詳細な物語を保存しており、それは特定のチームの文献であり、その特定の達成は当時注目されたということである。これは、イスラエルチームの人間たちが他のどのチームの人間たちよりも、創造記憶の文化的担い手となったというより広いパターンと一致する。ヘブライ語聖書はその担いの記録である。本集成の解釈的枠組みにとっての中心性は、このチームの人間たちが、他のチームの人間たちが自らの起源物語を保存したよりも大きな忠実性をもって彼らの起源物語を保存したという歴史的偶然——あるいは歴史的設計——を反映する。他のチームの人間たちは独自の創造伝統を持っていた。それらの伝統の多くは、序文が概観した比較神話学の素材の中に断片的な形で生き残っている。ヘブライ語聖書はいくつかの伝統のうちの一つであり、固有に特権化された原典ではない。しかしながら、それは最も完全で最も明示的に発展しており、それが本集成がそれを最も密接に読む理由である」
 
-The passage establishes the substantial nuance: the Hebrew Bible operates as the literature of one specific creator-team's substantial work rather than as substantial unique-privileging content, with the substantial preservation-fidelity operating as the substantial reason for the corpus's substantial centrality positioning.
+この節はニュアンスを確立します。ヘブライ語聖書は、固有特権化の内容ではなく、特定の創造者チームの働きの文献として機能し、保存忠実性が集成の中心性の位置付けの理由として機能します。
 
-### The substantial "first mistake of the Church" passage
+### 「教会の最初の過ち」の節
 
-The substantial principal source-material passage establishing the framework's substantial translation-mistake reading appears in *Message from the Designers*:
+フレームワークの誤訳読解を確立する主要な原典資料の節は、*Message from the Designers* に現れます。
 
-> *"Its mistakes have been great, particularly when it injected too much of the supernatural into the truth, and wrongly translated the scriptures in ordinary Bibles. It replaced the term 'Elohim', which refers to the creators, with a singular term 'God', whereas in fact Elohim in Hebrew is the plural of Eloha. In this way, the Church transformed the creators into a single incomprehensible God."*
+> 「その過ちは大きかった。とりわけ真理にあまりに多くの超自然を注入したとき、そして通常の聖書において聖典を誤って翻訳したときである。それは『エロヒム』という用語を、創造者たちを指すものを、単数形の『神』に置き換えた。ヘブライ語のエロヒムは事実エロアーの複数形である。このようにして、教会は創造者たちを単一の不可解な神へと変容させた」
 
-The passage establishes the framework's substantial translation-mistake reading. The detailed treatment lives in the [Plurality of Gods](../plurality-of-gods/) entry; the Hebrew Bible entry's specific contribution is registering the broader translation-history landscape within which this specific mistake operates.
+この節はフレームワークの誤訳読解を確立します。詳細な扱いは {% wiki(slug="plurality-of-gods") %}神々の複数性{% end %} 項目に存在します。ヘブライ語聖書項目の特定の貢献は、この特定の過ちが機能する、より広い翻訳史の景観を登録することです。
 
-### The substantial "wick" passage
+### 「灯心」の節
 
-The substantial corpus articulation of the broader Christian-tradition assessment registers substantial nuance:
+より広いキリスト教伝統の評価に関する集成のarticulationは、ニュアンスを登録します。
 
-> *"The 'wick' is weakening. It has accomplished its mission, and it is time for it to disappear. It has made mistakes and has enriched itself at the expense of the truth, without trying to interpret it in a clear enough way for people of this era. But do not be too hard on it, for thanks to the Church, the word of the Bible, which is a witness to the truth, has spread throughout the world."*
+> 「『灯心』は弱まりつつある。それはその使命を成し遂げ、消えるべき時である。それは過ちを犯し、真理を犠牲にして自らを富ませ、この時代の人々にとって十分に明確な仕方でそれを解釈しようとしなかった。しかしながらあまり厳しくしないでほしい。教会のおかげで、真理の証人である聖書の言葉が世界中に広まったからである」
 
-The passage registers substantial framework nuance: while the substantial Christian-tradition translation-and-theological mistakes are substantively registered, the substantial broader function of the Church in spreading the substantial Bible content "throughout the world" is also registered substantively. The substantial Hebrew Bible operates as the substantial textual content the Church has substantively distributed across the broader global landscape.
+この節はフレームワークのニュアンスを登録します——キリスト教伝統の翻訳・神学上の過ちは実質的に登録されつつも、より広い世界の景観にわたって聖書の内容を広めるという教会のより広い機能もまた実質的に登録されます。ヘブライ語聖書は、教会がより広い世界の景観にわたって実質的に配布した本文内容として機能します。
 
-### The broader source-material context
+### より広い原典資料の文脈
 
-The Hebrew Bible framework operates within the broader Raëlian source-material context, with substantial supporting material across multiple passages:
+ヘブライ語聖書フレームワークは、より広いラエリアン原典資料の文脈の中で機能し、複数の節にわたる補助資料を伴います。
 
-- The substantial source's chapter-by-chapter engagement with substantial Hebrew Bible passages registers substantial framework engagement
-- The substantial *timeline.epub* substantial chapter-by-chapter Hebrew exegesis articulates substantial framework reading
-- The various individual entries (Genesis, Adam and Eve, Eden, Antediluvian, Great Flood, Theomachy, Babel, Sodom and Gomorrah, Moses, Abraham, Noah, Elohim, Yahweh, etc.) articulate substantial entry-specific framework readings
+- ヘブライ語聖書の節への原典の章ごとの関与は、フレームワークの関与を登録する
+- *timeline.epub* の章ごとのヘブライ語注解は、フレームワーク読解をarticulateする
+- さまざまな個別項目（創世記、アダムとエバ、エデン、洪水前、大洪水、神々の戦い、バベル、ソドムとゴモラ、モーセ、アブラハム、ノア、エロヒム、ヤハウェなど）は、項目固有のフレームワーク読解をarticulateする
 
-## The Hebrew Bible's content
+## ヘブライ語聖書の内容
 
-### The substantial canonical structure within the framework
+### フレームワーク内の正典構造
 
-The framework operates substantively across the substantial Hebrew Bible canonical structure.
+フレームワークは、ヘブライ語聖書の正典構造にわたって実質的に機能します。
 
-**The Torah / Pentateuch within the framework**. The substantial Torah operates as substantial primary content for the broader corpus framework:
+**フレームワーク内の律法／モーセ五書**。律法は、より広い集成フレームワークのための主要な内容として機能します。
 
-- **Genesis 1-11 (the primeval history)**: substantial framework engagement across multiple corpus entries (Genesis, Adam and Eve, Eden, Antediluvian, Great Flood, Babel, the various creator-figure entries)
-- **Genesis 12-50 (the patriarchal narratives)**: substantial framework engagement (Abraham, Sodom and Gomorrah, Joseph, the various Eden-lineage genealogical content)
-- **Exodus**: substantial framework engagement (Moses, the substantial Sinai covenant, the substantial alliance-audience content)
-- **Leviticus**: substantial framework engagement with substantial priestly-legislative content as substantial alliance-instructed protocol
-- **Numbers**: substantial framework engagement with substantial wilderness-period content
-- **Deuteronomy**: substantial framework engagement with substantial covenant-renewal content
+- **創世記1〜11章（原初史）**：複数の集成項目にわたるフレームワークの関与（創世記、アダムとエバ、エデン、洪水前、大洪水、バベル、さまざまな創造者像の項目）
+- **創世記12〜50章（族長物語）**：フレームワークの関与（アブラハム、ソドムとゴモラ、ヨセフ、さまざまなエデン系譜の血統的内容）
+- **出エジプト記**：フレームワークの関与（モーセ、シナイ契約、同盟謁見の内容）
+- **レビ記**：同盟が指示したプロトコルとしての祭司・立法的内容へのフレームワークの関与
+- **民数記**：荒野期の内容へのフレームワークの関与
+- **申命記**：契約更新の内容へのフレームワークの関与
 
-**The Nevi'im / Prophets within the framework**. The substantial Nevi'im operates as substantial subsequent framework content:
+**フレームワーク内の預言者**。預言者は、その後のフレームワーク内容として機能します。
 
-- **Former Prophets** (Joshua, Judges, Samuel, Kings): substantial framework engagement with the substantial monarchic period and the substantial broader alliance-relationship development
-- **Latter Prophets** (Isaiah, Jeremiah, Ezekiel, the Twelve): substantial framework engagement with the substantial prophetic tradition and the substantial alliance-mediated communication
+- **前期預言者**（ヨシュア記、士師記、サムエル記、列王記）：君主制期およびより広い同盟関係の発展へのフレームワークの関与
+- **後期預言者**（イザヤ書、エレミヤ書、エゼキエル書、十二小預言書）：預言者伝統および同盟が媒介した通信へのフレームワークの関与
 
-**The Ketuvim / Writings within the framework**. The substantial Ketuvim operates as substantial diverse-content framework engagement:
+**フレームワーク内の諸書**。諸書は、多様な内容のフレームワーク的関与として機能します。
 
-- **Psalms**: substantial framework engagement with substantial liturgical-poetic content registering substantial alliance-relationship
-- **Job**: substantial framework engagement with the substantial divine-council scenes (Job 1-2) registering substantial Council operational structure
-- **Daniel**: substantial framework engagement with the substantial apocalyptic content registering substantial alliance-prophetic communication
-- **Various other Ketuvim books**: substantial framework engagement with various specific content
+- **詩篇**：同盟関係を登録する典礼・詩的内容へのフレームワークの関与
+- **ヨブ記**：評議会の作戦構造を登録する神的評議会の場面（ヨブ記1〜2章）へのフレームワークの関与
+- **ダニエル書**：同盟の預言的通信を登録する黙示的内容へのフレームワークの関与
+- **その他のさまざまな諸書の書**：さまざまな特定の内容へのフレームワークの関与
 
-### The substantial framework hermeneutic
+### フレームワークの解釈学
 
-The substantial framework articulates substantial systematic hermeneutic for substantive engagement with the substantial Hebrew Bible content.
+フレームワークは、ヘブライ語聖書の内容への実質的関与のための体系的な解釈学をarticulateします。
 
-**The substantial principal hermeneutic moves**. The substantial framework articulates substantial principal interpretive moves across the broader textual tradition:
+**主要な解釈学的動き**。フレームワークは、より広い本文伝統にわたる主要な解釈的動きをarticulateします。
 
-- **Genesis 1 as substantial genetic-engineering account** rather than substantial supernatural-creation account
-- **The substantial *Elohim* as substantial actual plural beings** rather than substantial singular God (treated principally in the [Plurality of Gods](../plurality-of-gods/) entry)
-- **The substantial *malakhim* as substantial alliance personnel** rather than substantial supernatural beings
-- **The substantial *benei ha-Elohim* as substantial alliance-human-contact content** (treated principally in the [Watchers](../watchers/) entry when written and the [Antediluvian](../antediluvian/) entry)
-- **The substantial Nephilim as substantial alliance-human hybrid offspring** rather than substantial supernatural giants
-- **The substantial flood as substantial nuclear cataclysm** (treated principally in the [Great Flood](../great-flood/) entry)
-- **The substantial Sinai event as substantial formal alliance audience** rather than substantial supernatural theophany
-- **The substantial parted waters as substantial directed-beam operations** rather than substantial supernatural intervention
-- **The substantial Sodom destruction as substantial atomic strike** (treated principally in the [Sodom and Gomorrah](../sodom-and-gomorrah/) entry)
-- **The substantial Babel intervention as substantial Council operational dispersion** (treated principally in the [Babel](../babel/) entry)
-- **The substantial Tetragrammaton as substantial Council-president personal designation** (treated principally in the [Yahweh](../yahweh/) and [Tetragrammaton](../tetragrammaton/) entries)
+- **遺伝子工学の記述としての創世記1章**——超自然的創造の記述ではない
+- **実際の複数の存在としての *エロヒム***——単数の神ではない（主に {% wiki(slug="plurality-of-gods") %}神々の複数性{% end %} 項目で扱われる）
+- **同盟人員としての *マルアキム***——超自然的存在ではない
+- **同盟・人間接触の内容としての *ベネイ・ハ＝エロヒム***（執筆時には主に {% wiki(slug="watchers") %}監視者たち{% end %} 項目および {% wiki(slug="antediluvian") %}洪水前{% end %} 項目で扱われる）
+- **同盟・人間ハイブリッドの子孫としてのネフィリム**——超自然的巨人ではない
+- **核の大変動としての洪水**（主に {% wiki(slug="great-flood") %}大洪水{% end %} 項目で扱われる）
+- **正式な同盟謁見としてのシナイの出来事**——超自然的神の顕現ではない
+- **指向性ビーム作戦としての分かれた水**——超自然的介入ではない
+- **原子爆撃としてのソドムの破壊**（主に {% wiki(slug="sodom-and-gomorrah") %}ソドムとゴモラ{% end %} 項目で扱われる）
+- **評議会の作戦的分散としてのバベルの介入**（主に {% wiki(slug="babel") %}バベルの塔{% end %} 項目で扱われる）
+- **評議会議長の個人的呼称としてのテトラグラマトン**（主に {% wiki(slug="yahweh") %}ヤハウェ{% end %} および {% wiki(slug="tetragrammaton") %}テトラグラマトン{% end %} 項目で扱われる）
 
-**The substantial decoding methodology**. The substantial framework operates through substantial systematic textual engagement:
+**解読の方法論**。フレームワークは体系的な本文への関与を通じて機能します。
 
-1. **Substantial original-language priority**: substantial reading of the substantial Hebrew text rather than substantial reliance on translations
-2. **Substantial grammatical attention**: substantial attention to substantial grammatical features (plural forms, verb tenses, syntactic structures)
-3. **Substantial vocabulary-fidelity**: substantial attention to the substantial actual semantic content of substantial Hebrew terms
-4. **Substantial cross-referencing**: substantial systematic cross-referencing across the broader Hebrew Bible content
-5. **Substantial cross-cultural integration**: substantial integration with substantial parallel content from substantial other religious-traditional sources
+1. **原語優先**：翻訳に依存するのではなくヘブライ語本文を読むこと
+2. **文法的注意**：文法的特徴（複数形、動詞の時制、統語構造）への注意
+3. **語彙忠実性**：ヘブライ語の用語の実際の意味的内容への注意
+4. **相互参照**：より広いヘブライ語聖書の内容にわたる体系的な相互参照
+5. **異文化的統合**：他の宗教的・伝統的原典からの並行内容との体系的統合
 
-### The substantial translation-mistake landscape
+### 誤訳の景観
 
-The substantial framework articulates substantial systematic translation-mistake landscape across the broader Christian-tradition translation history.
+フレームワークは、より広いキリスト教伝統の翻訳史にわたる体系的な誤訳の景観をarticulateします。
 
-**The substantial *Elohim* → singular "God" mistake**. The substantial principal translation mistake operating across substantially the entire Christian-tradition translation history. The detailed treatment lives in the [Plurality of Gods](../plurality-of-gods/) entry.
+**エロヒム → 単数形「神」の誤訳**。実質的にキリスト教伝統の翻訳史全体にわたって作動する主要な誤訳。詳細な扱いは {% wiki(slug="plurality-of-gods") %}神々の複数性{% end %} 項目に存在します。
 
-**The substantial *taninim* → "whales" mistake**. The substantial Genesis 1:21 translation choice operating principally through the Septuagint κῆτος (*ketos*, "sea creature") rendering and subsequent translations. The detailed treatment lives in the [Dragons](../dragons/) entry. The substantial original Hebrew *taninim* operates as substantial plural of *tannin* meaning substantial "dragons" or "sea-serpents," with the substantial translation softening operating across the broader translation tradition.
+**タンニニーム → 「鯨」の誤訳**。創世記1:21の翻訳上の選択は、主に七十人訳ギリシア語の κῆτος（*ketos*、「海の生き物」）の翻訳およびその後の翻訳を通じて作動します。詳細な扱いは {% wiki(slug="dragons") %}龍{% end %} 項目に存在します。原ヘブライ語の *タンニニーム* は *タンニン* の複数形で、「龍」または「海蛇」を意味し、翻訳の軟化はより広い翻訳伝統にわたって作動します。
 
-**The substantial *malakhim* → "angels" mistake**. The substantial Hebrew *malakhim* (מַלְאָכִים, plural of *malakh*) operates as substantial standard Hebrew designation for substantial "messengers" rather than substantial supernatural beings. The substantial Christian-tradition rendering as "angels" (with substantial subsequent supernatural-overlay development) operates as substantial obscuring of the substantial messenger-personnel operational content.
+**マルアキム → 「天使」の誤訳**。ヘブライ語の *マルアキム*（מַלְאָכִים、*マルアフ* の複数形）は、超自然的存在ではなく「使者」を指す標準的なヘブライ語呼称として機能します。「天使」としてのキリスト教伝統的翻訳（その後の超自然的上書きの発展を伴う）は、使者・人員の作戦的内容の曖昧化として機能します。
 
-**The substantial *nachash* → mere "serpent" mistake**. The substantial Hebrew *nachash* (נָחָשׁ) operates within substantial broader semantic field with substantial multiple operational meanings. The substantial Christian-tradition rendering as mere "serpent" operating principally through the substantial Genesis 3 narrative substantially obscures the substantial Lucifer-faction operational content. The detailed treatment lives in the [Serpent](../serpent/) entry.
+**ナハシュ → 単なる「蛇」の誤訳**。ヘブライ語の *ナハシュ*（נָחָשׁ）は、複数の作戦的意味を持つより広い意味的領域内で機能します。主に創世記3章の物語を通じて作動する、単なる「蛇」としてのキリスト教伝統的翻訳は、ルシファー派の作戦的内容を実質的に曖昧化します。詳細な扱いは {% wiki(slug="serpent") %}蛇{% end %} 項目に存在します。
 
-**The substantial *benei ha-Elohim* → "sons of God" mistake**. The substantial Hebrew *benei ha-Elohim* (בְּנֵי־הָאֱלֹהִים, "sons of the Elohim") preserves substantial plural reference. The substantial Christian-tradition rendering frequently obscures the substantial plural content through substantial various translation choices.
+**ベネイ・ハ＝エロヒム → 「神の子ら」の誤訳**。ヘブライ語の *ベネイ・ハ＝エロヒム*（בְּנֵי־הָאֱלֹהִים、「エロヒムの子ら」）は、複数の指示を保存します。キリスト教伝統的翻訳は、さまざまな翻訳上の選択を通じて複数の内容をしばしば曖昧化します。
 
-**The substantial *Adam* → "man" naming mistake**. The substantial Hebrew *Adam* (אָדָם) operates substantively beyond the substantial individual-name content as substantial collective designation for substantial humanity (related to the substantial *adamah* "earth" / "ground" content). The substantial Christian-tradition translation has substantively obscured the substantial collective content in various passages.
+**アダム → 「人」の命名の誤訳**。ヘブライ語の *アダム*（אָדָם）は、個人名の内容を超えて、人類のための集合的呼称（*アダマ* 「土」／「地」の内容と関連する）として実質的に機能します。キリスト教伝統的翻訳は、さまざまな節において集合的内容を実質的に曖昧化してきました。
 
-**The substantial *ruach* → "spirit" mistake**. The substantial Hebrew *ruach* (רוּחַ) operates substantively within substantial broader semantic field including "wind," "breath," and "spirit." The substantial Christian-tradition rendering as merely "spirit" with substantial supernatural overlay has substantively obscured the substantial broader semantic content.
+**ルアハ → 「霊」の誤訳**。ヘブライ語の *ルアハ*（רוּחַ）は、「風」、「息」、「霊」を含むより広い意味的領域内で実質的に機能します。超自然的上書きを伴う単に「霊」としてのキリスト教伝統的翻訳は、より広い意味的内容を実質的に曖昧化してきました。
 
-**Various other translation mistakes**. The substantial broader translation-mistake landscape extends substantively beyond these substantial principal instances, with substantial systematic obscuring operating across the broader Christian-tradition translation history.
+**その他のさまざまな誤訳**。より広い誤訳の景観は、これらの主要な事例を実質的に超えて広がり、より広いキリスト教伝統の翻訳史にわたって体系的な曖昧化が作動します。
 
-### The substantial textual-imperfection content
+### 本文的不完全性の内容
 
-The substantial framework registers substantial textual imperfection within the substantial broader centrality positioning.
+フレームワークは、より広い中心性の位置付けの中で本文的不完全性を登録します。
 
-**The substantial pre-scientific-vocabulary imperfection**. The substantial human authors did not always substantively understand what they were recording, with substantial pre-scientific vocabulary operating as substantial limitation on substantial recording-fidelity.
+**前科学的語彙の不完全性**。人間の著者たちは記録していたものを常に実質的に理解していたわけではなく、前科学的語彙が記録の忠実性に対する制限として機能します。
 
-**The substantial redactional-layering imperfection**. The substantial various redactions across the centuries introduced substantial layers of cultural framing on top of the original content, with substantial subsequent monotheistic-theological editing operating substantively across the broader textual tradition.
+**編集的層化の不完全性**。世紀にわたるさまざまな編集は、元の内容の上に文化的枠組みの層を導入し、その後の一神教神学的編集がより広い本文伝統にわたって実質的に機能します。
 
-**The substantial canonization-selection imperfection**. The substantial eventual canonization process selected specific texts while excluding others, with substantial significant content (the substantial Book of Enoch, various other apocryphal-pseudepigraphal materials) being excluded from the substantial Jewish canonical tradition. The substantial Book of Enoch exclusion is treated principally in the substantial [Watchers](../watchers/) entry when written.
+**正典化選択の不完全性**。最終的な正典化のプロセスは特定の本文を選択しつつ他のものを除外し、重要な内容（エノク書、その他のさまざまな外典・偽典資料）はユダヤ教正典伝統から除外されました。エノク書の除外は、執筆時には主に {% wiki(slug="watchers") %}監視者たち{% end %} 項目で扱われます。
 
-**The substantial substantive-preservation despite imperfection**. The substantial framework articulation: despite the substantial imperfections, the substantial textual content operates substantively as the substantial documentary record of the alliance's relationship with the Eden lineage. The substantial imperfections register substantial decodable layers rather than substantial fundamental-obstacles to substantive understanding.
+**不完全性にもかかわらずの実質的保存**。フレームワークのarticulation——不完全性にもかかわらず、本文の内容はエデンの血統との同盟の関係の文書記録として実質的に機能します。不完全性は、実質的な理解への根本的障害ではなく、解読可能な層を登録します。
 
-### The substantial Israel-team genealogical specificity
+### イスラエルチームの血統的特殊性
 
-The substantial framework articulates substantial Israel-team genealogical specificity within the broader cosmological-creator framework.
+フレームワークは、より広い宇宙論的・創造者的枠組みの中でイスラエルチームの血統的特殊性をarticulateします。
 
-**The substantial seven-team creation structure**. The substantial framework registers the substantial Elohim creation project as operating through substantial seven-team structure, with the substantial seven creator-teams operating across the substantial seven creation days / precessional ages. The detailed treatment lives in the [Genesis](../genesis/) entry.
+**七チーム創造構造**。フレームワークは、エロヒム創造プロジェクトを七チーム構造を通じて作動するものとして登録し、七つの創造者チームが七つの創造の日／歳差時代にわたって機能します。詳細な扱いは {% wiki(slug="genesis") %}創世記{% end %} 項目に存在します。
 
-**The substantial Israel-team specific position**. The substantial Hebrew Bible operates as the substantial documentary record of the substantial Israel-team's specific work, with the substantial Eden-lineage genealogical line operating as the substantial cultural carrier of the broader creation memory.
+**イスラエルチームの特定の位置**。ヘブライ語聖書は、イスラエルチームの特定の働きの文書記録として機能し、エデン系譜の血統がより広い創造記憶の文化的担い手として機能します。
 
-**The substantial preservation-fidelity content**. The substantial Israel-team's humans, more than any other team's, became the substantial cultural carriers of the substantial creation memory. The substantial preservation-fidelity reflects the substantial historical-developmental specifics of the substantial Eden-lineage genealogical line — substantial consistent population-continuity across the post-flood millennia, substantial religious-cultural-textual tradition development, substantial alliance-officer direct contact across the broader period.
+**保存忠実性の内容**。イスラエルチームの人間たちは、他のどのチームの人間たちよりも、創造記憶の文化的担い手となりました。保存忠実性は、エデン系譜の血統の歴史的・発展的特殊性を反映します——洪水後の千年紀にわたる一貫した集団連続性、宗教・文化・本文伝統の発展、より広い期間にわたる同盟将校の直接接触。
 
-**The substantial other-teams comparative content**. The substantial other six creator-teams' humans had their own substantial creation traditions, with substantial fragments surviving substantively in the substantial comparative-mythology material across various other religious-cultural traditions. The substantial detailed cross-cultural comparative content lives in the various comparative entries (Genesis, Antediluvian, Great Flood, etc.).
+**他のチームの比較的内容**。他の六つの創造者チームの人間たちは独自の創造伝統を持ち、その断片はさまざまな他の宗教・文化伝統にわたる比較神話学の素材の中に実質的に生き残っています。異文化比較内容の詳細な扱いは、さまざまな比較項目（創世記、洪水前、大洪水など）に存在します。
 
-## Application across the corpus
+## 集成全体での応用
 
-The Hebrew Bible operates as substantial source-textual foundation across virtually every corpus framework entry.
+ヘブライ語聖書は、他のほぼすべての集成フレームワーク項目にわたる原典的基礎として機能します。
 
-### The Genesis entry
+### 創世記項目
 
-The Hebrew Bible Genesis content operates as substantial foundational content for the broader corpus framework. The detailed treatment of Genesis lives in the [Genesis](../genesis/) entry; the Hebrew Bible entry's specific contribution is registering the substantial broader textual-canonical context within which Genesis operates.
+ヘブライ語聖書の創世記の内容は、より広い集成フレームワークのための基礎的内容として機能します。創世記の詳細な扱いは {% wiki(slug="genesis") %}創世記{% end %} 項目に存在します。ヘブライ語聖書項目の特定の貢献は、創世記が機能するより広い本文・正典的文脈を登録することです。
 
-### The various individual narrative-event entries
+### さまざまな個別物語的出来事の項目
 
-The Hebrew Bible operates as substantial source-textual foundation for the various individual narrative-event entries: [Adam and Eve](../adam-and-eve/), [Eden](../eden/), [Antediluvian](../antediluvian/), [Great Flood](../great-flood/), [Theomachy](../theomachy/), [Babel](../babel/), [Sodom and Gomorrah](../sodom-and-gomorrah/), various others.
+ヘブライ語聖書は、さまざまな個別の物語的出来事の項目のための原典的基礎として機能します。{% wiki(slug="adam-and-eve") %}アダムとエバ{% end %}、{% wiki(slug="eden") %}エデン{% end %}、{% wiki(slug="antediluvian") %}洪水前{% end %}、{% wiki(slug="great-flood") %}大洪水{% end %}、{% wiki(slug="theomachy") %}神々の戦い{% end %}、{% wiki(slug="babel") %}バベルの塔{% end %}、{% wiki(slug="sodom-and-gomorrah") %}ソドムとゴモラ{% end %}、その他さまざま。
 
-### The various individual figure entries
+### さまざまな個別人物の項目
 
-The Hebrew Bible operates as substantial source-textual foundation for the various individual figure entries: [Adam and Eve](../adam-and-eve/), [Noah](../noah/) when written, [Abraham](../abraham/) when written, [Moses](../moses/) when written, the various creator-figure entries ([Elohim](../elohim/), [Yahweh](../yahweh/), [Lucifer](../lucifer/), [Satan](../satan/), [Serpent](../serpent/)), various others.
+ヘブライ語聖書は、さまざまな個別人物の項目のための原典的基礎として機能します。{% wiki(slug="adam-and-eve") %}アダムとエバ{% end %}、執筆時には {% wiki(slug="noah") %}ノア{% end %}、執筆時には {% wiki(slug="abraham") %}アブラハム{% end %}、執筆時には {% wiki(slug="moses") %}モーセ{% end %}、さまざまな創造者像の項目（{% wiki(slug="elohim") %}エロヒム{% end %}、{% wiki(slug="yahweh") %}ヤハウェ{% end %}、{% wiki(slug="lucifer") %}ルシファー{% end %}、{% wiki(slug="satan") %}サタン{% end %}、{% wiki(slug="serpent") %}蛇{% end %}）、その他さまざま。
 
-### The various concept entries
+### さまざまな概念項目
 
-The Hebrew Bible operates as substantial source-textual foundation for the various concept entries: [Plurality of Gods](../plurality-of-gods/), [Cosmic Chain](../cosmic-chain/), [Cosmic Competition](../cosmic-competition/), [Doubled Signature](../doubled-signature/), [Tree of Life](../tree-of-life/), various others.
+ヘブライ語聖書は、さまざまな概念項目のための原典的基礎として機能します。{% wiki(slug="plurality-of-gods") %}神々の複数性{% end %}、{% wiki(slug="cosmic-chain") %}宇宙の鎖{% end %}、{% wiki(slug="cosmic-competition") %}宇宙的競争{% end %}、{% wiki(slug="doubled-signature") %}二重署名{% end %}、{% wiki(slug="tree-of-life") %}生命の樹{% end %}、その他さまざま。
 
-### The various text entries
+### さまざまな本文項目
 
-The Hebrew Bible operates as substantial textual-tradition context for various other text entries when written: [Tetragrammaton](../tetragrammaton/), various subsequent Hellenistic-Jewish and Christian-tradition textual entities, various Islamic-tradition textual entities.
+ヘブライ語聖書は、執筆時にはさまざまな他の本文項目のための本文・伝統的文脈として機能します。{% wiki(slug="tetragrammaton") %}テトラグラマトン{% end %}、さまざまなその後のヘレニズム期ユダヤ教およびキリスト教伝統の本文実体、さまざまなイスラム教伝統の本文実体。
 
-### The Apocalypse entry
+### 黙示項目
 
-The Hebrew Bible operates as substantial source-textual foundation for substantial apocalyptic-prophetic content. The detailed treatment lives in the [Apocalypse](../apocalypse/) entry.
+ヘブライ語聖書は、黙示的・預言的内容のための原典的基礎として機能します。詳細な扱いは {% wiki(slug="apocalypse") %}黙示{% end %} 項目に存在します。
 
-### The Prophet entry
+### 預言者項目
 
-The Hebrew Bible operates as substantial source-textual foundation for substantial prophetic-tradition content. The detailed treatment lives in the [Prophet](../prophet/) entry.
+ヘブライ語聖書は、預言者伝統の内容のための原典的基礎として機能します。詳細な扱いは {% wiki(slug="prophet") %}預言者{% end %} 項目に存在します。
 
-## Distinguishing from adjacent concepts
+## 隣接する概念との区別
 
-### Hebrew Bible vs. Christian Old Testament
+### ヘブライ語聖書 対 キリスト教旧約聖書
 
-The Christian Old Testament operates as substantial Christian-tradition canonical reception of the Hebrew Bible content, with substantial divisional and arrangement differences. The relationship is one of **substantively-same-content-with-substantial-canonical-organizational-differences**. The substantial principal differences:
+キリスト教旧約聖書は、実質的な区分と配列の違いを伴う、ヘブライ語聖書の内容のキリスト教伝統的正典的受容として機能します。関係は **実質的に同一の内容を実質的な正典的組織の違いで構成する** ものです。主要な違いは次のとおりです。
 
-- **Book count and divisions**: substantial different counting conventions (24 books in Jewish organization vs. 39 books in Protestant Christian organization vs. larger counts in Catholic and Orthodox organizations including substantial Deuterocanonical additions)
-- **Book ordering**: substantial different organizational sequences (prophets in middle section vs. at end)
-- **Apocryphal additions**: substantial Catholic and Eastern Orthodox additions not present in Jewish or Protestant Christian canons
+- **書数と区分**：異なる計数規約（ユダヤ教構成では24書 対 プロテスタント・キリスト教構成では39書 対 カトリックおよび正教会の構成ではより大きな数を含み、第二正典の追加を含む）
+- **書の順序**：異なる組織配列（中間部分の預言者 対 終わりの預言者）
+- **外典の追加**：ユダヤ教またはプロテスタント・キリスト教の正典には存在しないカトリックおよび東方正教会の追加
 
-The substantial framework engagement operates principally with the substantial Hebrew textual tradition rather than with the substantial Christian-canonical reorganization, while registering substantial respect for the substantial Christian-tradition textual transmission.
+フレームワークの関与は、キリスト教正典の再編成ではなく、主にヘブライ語の本文伝統と機能しつつ、キリスト教伝統の本文伝達への尊重を登録します。
 
-### Hebrew Bible vs. broader Christian Bible
+### ヘブライ語聖書 対 より広いキリスト教聖書
 
-The broader Christian Bible adds substantial New Testament content to the substantial Old Testament content. The relationship is one of **substantial-Hebrew-Bible-content-as-foundation-with-substantial-New-Testament-addition**. The substantial framework engagement with the substantial New Testament content operates substantively (treated principally in the [Jesus](../jesus/) entry, the various Christian-tradition entries, and the broader Pisces-age corpus entries) but substantially separately from the substantial Hebrew Bible engagement.
+より広いキリスト教聖書は、旧約聖書の内容に新約聖書の内容を追加します。関係は **基礎としてのヘブライ語聖書の内容に新約聖書の追加を伴う** ものです。新約聖書の内容へのフレームワークの関与は実質的に機能しますが（主に {% wiki(slug="jesus") %}イエス{% end %} 項目、さまざまなキリスト教伝統項目、より広い魚座時代の集成項目で扱われる）、ヘブライ語聖書への関与とは実質的に別個です。
 
-### Hebrew Bible vs. the Quran
+### ヘブライ語聖書 対 クルアーン
 
-The substantial Quran operates as substantial Islamic-tradition canonical text registering substantial parallel content with the substantial Hebrew Bible while operating from distinct cultural-religious tradition. The relationship is one of **substantial-parallel-content-with-substantial-distinct-traditional-framing**. The substantial framework engagement with the substantial Quran operates substantively (treated principally in the [Muhammad](../muhammad/) entry when written and the broader Pisces-age corpus entries) but substantially separately from the substantial Hebrew Bible engagement.
+クルアーンは、実質的にヘブライ語聖書と並行する内容を登録するイスラム教伝統の正典テキストとして機能しつつ、明確な文化的・宗教的伝統から作動します。関係は **明確な伝統的枠組みを伴う並行内容** です。クルアーンへのフレームワークの関与は実質的に機能しますが（執筆時には主に {% wiki(slug="muhammad") %}ムハンマド{% end %} 項目およびより広い魚座時代の集成項目で扱われる）、ヘブライ語聖書への関与とは実質的に別個です。
 
-### Hebrew Bible vs. the Book of Mormon
+### ヘブライ語聖書 対 モルモン書
 
-The substantial Book of Mormon operates as substantial Mormon LDS canonical text registering substantial parallel content with the substantial Hebrew Bible while operating from distinct cultural-religious tradition. The relationship is one of **substantial-parallel-content-with-substantial-distinct-traditional-framing**. The substantial framework engagement with the substantial Book of Mormon operates substantively (treated principally in the [Joseph Smith](../joseph-smith/) entry when written and the broader Mormon LDS corpus content) but substantially separately from the substantial Hebrew Bible engagement.
+モルモン書は、ヘブライ語聖書と並行する内容を登録するモルモンLDS正典テキストとして機能しつつ、明確な文化的・宗教的伝統から作動します。関係は **明確な伝統的枠組みを伴う並行内容** です。モルモン書へのフレームワークの関与は実質的に機能しますが（執筆時には主に {% wiki(slug="joseph-smith") %}ジョセフ・スミス{% end %} 項目およびより広いモルモンLDS集成内容で扱われる）、ヘブライ語聖書への関与とは実質的に別個です。
 
-### Hebrew Bible vs. Apocryphal and Pseudepigraphal texts
+### ヘブライ語聖書 対 外典・偽典テキスト
 
-The substantial Apocryphal and Pseudepigraphal texts (the substantial Book of Enoch, the substantial Book of Jubilees, the substantial various Maccabees books, the substantial various other texts) operate within distinct canonical-traditional positions while substantively containing substantial parallel content with the broader Hebrew Bible tradition. The relationship is one of **substantial-related-content-with-substantial-distinct-canonical-position**. The substantial framework engagement with the substantial Apocryphal-Pseudepigraphal content operates substantively (treated principally in the [Watchers](../watchers/) entry when written for substantial Book of Enoch content, with various other dedicated entries when written).
+外典・偽典テキスト（エノク書、ヨベル書、さまざまなマカバイ記の書、さまざまな他のテキスト）は、より広いヘブライ語聖書伝統と並行する内容を実質的に含みつつ、明確な正典的・伝統的立場の内で機能します。関係は **明確な正典的立場を伴う関連内容** です。外典・偽典内容へのフレームワークの関与は実質的に機能します（エノク書の内容については執筆時には主に {% wiki(slug="watchers") %}監視者たち{% end %} 項目で扱われ、執筆時にはさまざまな他の専用項目を伴う）。
 
-## Modern reinterpretations
+## 現代的再解釈
 
-### Mainstream Hebrew Bible scholarship
+### 主流のヘブライ語聖書学術
 
-Mainstream Hebrew Bible scholarship has produced substantial systematic engagement across multiple distinct disciplinary contexts.
+主流のヘブライ語聖書学術は、複数の異なる学問分野の文脈にわたる体系的関与を生み出してきました。
 
-### The Documentary Hypothesis
+### 文書仮説
 
-The substantial **Documentary Hypothesis** operates as the principal source-critical framework for Pentateuchal scholarship from the late nineteenth century onward.
+**文書仮説** は、19世紀後半以降のモーセ五書学術の主要な資料批評的枠組みとして機能します。
 
-**Wellhausen's foundational work**. **Julius Wellhausen** (1844-1918) produced the foundational systematic articulation of the substantial Documentary Hypothesis through *Prolegomena zur Geschichte Israels* (1878; English translation as *Prolegomena to the History of Israel*, 1885). The substantial Wellhausen articulation registered the substantial four-source theory: J (Yahwist), E (Elohist), D (Deuteronomist), P (Priestly). The substantial subsequent scholarship has substantively engaged the broader Documentary-Hypothesis framework.
+**ヴェルハウゼンの基礎的著作**。**ユリウス・ヴェルハウゼン**（1844-1918）は、*Prolegomena zur Geschichte Israels*（1878年。英訳は *Prolegomena to the History of Israel*、1885年）を通じて、文書仮説の基礎的な体系的articulationを生み出しました{{ cite(id="wellhausen-prolegomena", text="[1]", title="ヴェルハウゼン（1878年）、*Prolegomena zur Geschichte Israels*——文書仮説の基礎的articulation") }}。ヴェルハウゼンのarticulationは、四資料説を登録しました。J（ヤハウィスト）、E（エロヒスト）、D（申命記史家）、P（祭司資料）{{ footnote(id="2") }}。その後の学術は、より広い文書仮説の枠組みに実質的に関与してきました。
 
-**Friedman's contemporary articulation**. **Richard Elliott Friedman**'s *Who Wrote the Bible?* (Harper & Row, 1987) and *The Bible with Sources Revealed* (HarperOne, 2003) provide substantial contemporary systematic engagement with the substantial Documentary Hypothesis. The substantial Friedman articulation registers substantial source-distinction with substantial historical-cultural specificity.
+**フリードマンの現代的articulation**。**リチャード・エリオット・フリードマン** の *Who Wrote the Bible?*（Harper & Row、1987年）{{ cite(id="friedman-who-wrote-bible", text="[2]", title="フリードマン（1987年）、*Who Wrote the Bible?*——文書仮説の入手しやすいarticulation") }} および *The Bible with Sources Revealed*（HarperOne、2003年）{{ cite(id="friedman-bible-sources-revealed", text="[3]", title="フリードマン（2003年）、*The Bible with Sources Revealed*——資料タグ付きモーセ五書の提示") }} は、文書仮説への現代的な体系的関与を提供します。フリードマンのarticulationは、歴史的・文化的特殊性を伴う資料区別を登録します。
 
-**Van Seters's substantial work**. **John Van Seters**'s *The Pentateuch: A Social-Science Commentary* (Sheffield Academic Press, 1999) and various other works provide substantial subsequent engagement with the broader Documentary-Hypothesis framework, with various specific scholarly engagements articulating various aspects of the broader question.
+**ヴァン・セータースの著作**。**ジョン・ヴァン・セータース** の *The Pentateuch: A Social-Science Commentary*（Sheffield Academic Press、1999年）およびその他のさまざまな著作は、より広い文書仮説の枠組みへのその後の関与を提供し、より広い問題のさまざまな側面をarticulateするさまざまな学術的関与を伴います。
 
-**Baden's recent contribution**. **Joel S. Baden**'s *The Composition of the Pentateuch: Renewing the Documentary Hypothesis* (Yale University Press, 2012) provides substantial recent systematic articulation, with substantial engagement with the broader scholarly debate.
+**ベイデンの近年の貢献**。**ジョエル・S・ベイデン** の *The Composition of the Pentateuch: Renewing the Documentary Hypothesis*（Yale University Press、2012年）は、より広い学術的議論への関与を伴う近年の体系的articulationを提供します。
 
-**The substantial framework relationship**. The substantial framework operates substantially within the broader Documentary-Hypothesis recognition of substantial multiple-source content within the Pentateuchal tradition while operating from substantially distinct interpretive foundation. The substantial framework specifically registers the substantial different divine names (Yahweh, Elohim) as registering substantial different aspects of the broader alliance-creator content (the substantial Yahweh as substantial Council president; the substantial *Elohim* as substantial collective creator-civilization designation) rather than as substantial different source-traditions alone.
+**フレームワークの関係**。フレームワークは、モーセ五書伝統の中の複数資料内容の文書仮説的認識の中で実質的に機能しつつ、実質的に明確な解釈的基礎から作動します。フレームワークは、異なる神名（ヤハウェ、エロヒム）を、単に異なる資料伝統としてではなく、より広い同盟・創造者の内容の異なる側面を登録するものとして特に登録します（評議会議長としてのヤハウェ、集合的創造者文明の呼称としての *エロヒム*）。
 
-### Contemporary critical scholarship
+### 現代の批評学術
 
-Various substantial contemporary critical scholars have produced substantial systematic engagement with the broader Hebrew Bible content.
+さまざまな現代の批評学者たちが、より広いヘブライ語聖書の内容への体系的関与を生み出してきました。
 
-**Gerhard von Rad's substantial work**. **Gerhard von Rad** (1901-1971) produced foundational mid-twentieth-century systematic engagement with the substantial Hebrew Bible content. Principal works: *Old Testament Theology* (2 vols., 1957-1960; English translation 1962-1965), *Genesis: A Commentary* (1949; English translation 1961, revised edition 1972), various other works.
+**ゲルハルト・フォン・ラートの著作**。**ゲルハルト・フォン・ラート**（1901-1971）は、ヘブライ語聖書の内容への20世紀半ばの基礎的な体系的関与を生み出しました。主要著作：*Old Testament Theology*（全2巻、1957-1960年。英訳1962-1965年）、*Genesis: A Commentary*（1949年。英訳1961年、改訂版1972年）、その他のさまざまな著作。
 
-**Claus Westermann's comprehensive Genesis commentary**. **Claus Westermann**'s three-volume *Genesis* commentary (1974-1982; English translation 1984-1986) provides the principal twentieth-century systematic engagement with the substantial Genesis content.
+**クラウス・ヴェスターマンの包括的創世記注解**。**クラウス・ヴェスターマン** の三巻本 *Genesis* 注解（1974-1982年。英訳1984-1986年）は、創世記の内容への20世紀の主要な体系的関与を提供します。
 
-**Walter Brueggemann's substantial work**. **Walter Brueggemann**'s *Theology of the Old Testament: Testimony, Dispute, Advocacy* (Augsburg Fortress, 1997) and various other works provide substantial systematic theological-critical engagement.
+**ヴァルター・ブルッゲマンの著作**。**ヴァルター・ブルッゲマン** の *Theology of the Old Testament: Testimony, Dispute, Advocacy*（Augsburg Fortress、1997年）およびその他のさまざまな著作は、体系的な神学的・批評的関与を提供します。
 
-**Robert Alter's literary engagement**. **Robert Alter**'s substantial work — *The Art of Biblical Narrative* (Basic Books, 1981), *The Five Books of Moses: A Translation with Commentary* (W. W. Norton, 2004), *The Hebrew Bible: A Translation with Commentary* (3 vols., W. W. Norton, 2018) — provides substantial literary-critical engagement with substantial systematic literary attention.
+**ロバート・アルターの文学的関与**。**ロバート・アルター** の著作——*The Art of Biblical Narrative*（Basic Books、1981年）、*The Five Books of Moses: A Translation with Commentary*（W. W. Norton、2004年）、*The Hebrew Bible: A Translation with Commentary*（全3巻、W. W. Norton、2018年）——は、体系的な文学的注意を伴う文学批評的関与を提供します。
 
-**Various substantial subsequent scholarship**. Substantial subsequent scholarship (Ronald Hendel, Bill Arnold, John Goldingay, Brevard Childs, James Kugel, various others) has continued to develop the broader scholarly engagement.
+**その後のさまざまな学術**。その後のさまざまな学術（ロナルド・ヘンデル、ビル・アーノルド、ジョン・ゴールディンゲイ、ブレヴァード・チャイルズ、ジェイムズ・クーゲル、その他さまざま）は、より広い学術的関与を発展させ続けています。
 
-### Archaeological-historical context scholarship
+### 考古学・歴史的文脈の学術
 
-Mainstream archaeological-historical scholarship has produced substantial engagement with the substantial Hebrew Bible historical-cultural context.
+主流の考古学・歴史的学術は、ヘブライ語聖書の歴史・文化的文脈への関与を生み出してきました。
 
-**The Albright tradition**. **William F. Albright** (1891-1971) and the broader Albright school produced foundational archaeological-historical scholarship operating substantively within substantial conservative-historical engagement with the substantial Hebrew Bible content. The substantial broader Albright tradition has produced substantial subsequent scholarship with substantial varying conservative-critical positions.
+**オルブライト学派**。**ウィリアム・F・オルブライト**（1891-1971）と、より広いオルブライト学派は、ヘブライ語聖書の内容への保守的・歴史的関与の中で実質的に機能する基礎的な考古学・歴史的学術を生み出しました。より広いオルブライト学派は、さまざまな保守的・批評的立場を伴うその後の学術を生み出してきました。
 
-**William G. Dever's substantial work**. **William G. Dever**'s *What Did the Biblical Writers Know and When Did They Know It?* (Eerdmans, 2001), *Who Were the Early Israelites and Where Did They Come From?* (Eerdmans, 2003), and various other works provide substantial contemporary archaeological-historical engagement.
+**ウィリアム・G・デヴァーの著作**。**ウィリアム・G・デヴァー** の *What Did the Biblical Writers Know and When Did They Know It?*（Eerdmans、2001年）、*Who Were the Early Israelites and Where Did They Come From?*（Eerdmans、2003年）、その他のさまざまな著作は、現代の考古学・歴史的関与を提供します。
 
-**Israel Finkelstein's substantial work**. **Israel Finkelstein**'s substantial work — including *The Bible Unearthed: Archaeology's New Vision of Ancient Israel and the Origin of Its Sacred Texts* (with Neil Asher Silberman, Free Press, 2001) — provides substantial contemporary critical archaeological-historical engagement with substantial revisionist-historical positions.
+**イスラエル・フィンケルシュタインの著作**。**イスラエル・フィンケルシュタイン** の著作——*The Bible Unearthed: Archaeology's New Vision of Ancient Israel and the Origin of Its Sacred Texts*（ニール・アシャー・シルバーマンと共著、Free Press、2001年）を含む——は、修正主義的・歴史的立場を伴う現代の批評的考古学・歴史的関与を提供します。
 
-**Amihai Mazar's substantial work**. **Amihai Mazar**'s *Archaeology of the Land of the Bible: 10,000-586 B.C.E.* (Doubleday, 1990) and various other works provide substantial systematic archaeological-historical engagement.
+**アミハイ・マザールの著作**。**アミハイ・マザール** の *Archaeology of the Land of the Bible: 10,000-586 B.C.E.*（Doubleday、1990年）およびその他のさまざまな著作は、体系的な考古学・歴史的関与を提供します。
 
-**The substantial framework relationship**. The substantial framework operates substantively within the broader archaeological-historical scholarly landscape, with substantial framework-specific reading registering substantial cross-disciplinary integration.
+**フレームワークの関係**。フレームワークは、より広い考古学・歴史的学術の景観の中で実質的に機能し、フレームワーク固有の読解は学際的な統合を登録します。
 
-### Textual-criticism scholarship
+### 本文批評の学術
 
-Substantial textual-criticism scholarship has produced substantial engagement with the substantial Hebrew Bible textual transmission history.
+本文批評の学術は、ヘブライ語聖書の本文伝達史への関与を生み出してきました。
 
-**Emanuel Tov's substantial work**. **Emanuel Tov**'s *Textual Criticism of the Hebrew Bible* (Augsburg Fortress, 1992; revised editions) provides the principal contemporary systematic engagement with the substantial Hebrew Bible textual-transmission history. The substantial Tov articulation registers substantial systematic engagement with the substantial Masoretic, Septuagint, Dead Sea Scrolls, Samaritan, and various other textual traditions.
+**エマヌエル・トヴの著作**。**エマヌエル・トヴ** の *Textual Criticism of the Hebrew Bible*（Augsburg Fortress、1992年。改訂版）{{ cite(id="tov-textual-criticism", text="[4]", title="トヴ（第3版 2012年）、*Textual Criticism of the Hebrew Bible*——ヘブライ語聖書本文批評に関する主要な現代的参考文献") }}{{ footnote(id="5") }} は、ヘブライ語聖書の本文伝達史への主要な現代的な体系的関与を提供します。トヴのarticulationは、マソラ、七十人訳、死海文書、サマリア、その他のさまざまな本文伝統への体系的関与を登録します。
 
-**Ronald Hendel's substantial work**. **Ronald Hendel**'s *The Text of Genesis 1-11: Textual Studies and Critical Edition* (Oxford University Press, 1998) and the broader Oxford Hebrew Bible critical edition project provide substantial contemporary systematic textual-critical engagement.
+**ロナルド・ヘンデルの著作**。**ロナルド・ヘンデル** の *The Text of Genesis 1-11: Textual Studies and Critical Edition*（Oxford University Press、1998年）とより広いオックスフォード・ヘブライ語聖書批判校訂版プロジェクトは、現代の体系的な本文批評的関与を提供します。
 
-**The broader text-critical apparatus tradition**. The substantial *Biblia Hebraica Stuttgartensia* (Deutsche Bibelgesellschaft, 1968-1977; revised editions), *Biblia Hebraica Quinta* (Deutsche Bibelgesellschaft, 2004 onward), and various other critical editions provide substantial systematic textual-critical apparatus.
+**より広い本文批評的装置の伝統**。*Biblia Hebraica Stuttgartensia*（Deutsche Bibelgesellschaft、1968-1977年。改訂版）、*Biblia Hebraica Quinta*（Deutsche Bibelgesellschaft、2004年以降）、その他のさまざまな批判校訂版は、体系的な本文批評的装置を提供します。
 
-### Dead Sea Scrolls scholarship
+### 死海文書の学術
 
-The substantial Dead Sea Scrolls discovery (beginning 1947) has produced substantial systematic engagement with the substantial Qumran biblical and sectarian textual evidence.
+死海文書の発見（1947年以降）は、クムランの聖書および宗派的本文証拠への体系的関与を生み出してきました。
 
-**James VanderKam's substantial work**. **James C. VanderKam**'s *The Dead Sea Scrolls Today* (Eerdmans, 1994; revised editions) and various other works provide substantial systematic engagement with the broader Dead Sea Scrolls content.
+**ジェイムズ・ヴァンダーカムの著作**。**ジェイムズ・C・ヴァンダーカム** の *The Dead Sea Scrolls Today*（Eerdmans、1994年。改訂版）{{ cite(id="vanderkam-dss-today", text="[5]", title="ヴァンダーカム（第2版 2010年）、*The Dead Sea Scrolls Today*——死海文書学術への入手しやすい入門") }}{{ footnote(id="6") }} およびその他のさまざまな著作は、より広い死海文書の内容への体系的関与を提供します。
 
-**Peter Flint's substantial work**. **Peter W. Flint**'s *The Dead Sea Psalms Scrolls and the Book of Psalms* (Brill, 1997) and various other works provide substantial systematic engagement.
+**ピーター・フリントの著作**。**ピーター・W・フリント** の *The Dead Sea Psalms Scrolls and the Book of Psalms*（Brill、1997年）およびその他のさまざまな著作は、体系的関与を提供します。
 
-**The broader Qumran scholarship**. Substantial contemporary scholarship (Florentino García Martínez, Eugene Ulrich, John Collins, various others) has continued to develop the substantial Dead Sea Scrolls scholarly engagement.
+**より広いクムラン学術**。現代の学術（フロレンティーノ・ガルシア・マルティネス、ユージン・ウルリッヒ、ジョン・コリンズ、その他さまざま）は、死海文書の学術的関与を発展させ続けています。
 
-**The substantial framework relationship**. The substantial corpus framework registers the substantial Dead Sea Scrolls discovery (1946-1947) as substantial component of the broader Aquarian-age opening signs, with the substantial textual recovery operating as substantial part of the broader textual-recovery process. The detailed treatment lives in the [Apocalypse](../apocalypse/) entry.
+**フレームワークの関係**。集成フレームワークは、死海文書の発見（1946-1947年）を、より広い水瓶座時代開幕のしるしの構成要素として登録し、本文の回復はより広い本文回復プロセスの一部として機能します。詳細な扱いは {% wiki(slug="apocalypse") %}黙示{% end %} 項目に存在します。
 
-### Septuagint scholarship
+### 七十人訳聖書の学術
 
-Substantial Septuagint scholarship has produced substantial engagement with the substantial 3rd-2nd-century-BCE Greek translation tradition.
+七十人訳聖書の学術は、紀元前3〜2世紀のギリシア語翻訳伝統への関与を生み出してきました。
 
-**Emanuel Tov's substantial Septuagint work**. **Emanuel Tov**'s *The Text-Critical Use of the Septuagint in Biblical Research* (Eisenbrauns, 2nd ed. 1997) and various other works provide substantial systematic engagement.
+**エマヌエル・トヴの七十人訳聖書の著作**。**エマヌエル・トヴ** の *The Text-Critical Use of the Septuagint in Biblical Research*（Eisenbrauns、第2版 1997年）およびその他のさまざまな著作は、体系的関与を提供します。
 
-**Various substantial subsequent scholarship**. Substantial subsequent scholarship (Natalio Fernández Marcos, Karen Jobes, Moisés Silva, various others) has continued to develop the broader Septuagint scholarly engagement.
+**その後のさまざまな学術**。その後のさまざまな学術（ナタリオ・フェルナンデス・マルコス、カレン・ジョーブズ、モイセス・シルバ、その他さまざま）は、より広い七十人訳聖書の学術的関与を発展させ続けています。
 
-### Canonical-formation scholarship
+### 正典形成の学術
 
-Substantial canonical-formation scholarship has produced substantial engagement with the substantial historical-developmental emergence of the substantial Hebrew Bible canonical structure.
+正典形成の学術は、ヘブライ語聖書の正典構造の歴史的・発展的出現への関与を生み出してきました。
 
-**Lee Martin McDonald's substantial work**. **Lee Martin McDonald**'s *The Biblical Canon: Its Origin, Transmission, and Authority* (Hendrickson, 3rd ed. 2007) provides substantial systematic engagement with the broader canonical-formation question.
+**リー・マーティン・マクドナルドの著作**。**リー・マーティン・マクドナルド** の *The Biblical Canon: Its Origin, Transmission, and Authority*（Hendrickson、第3版 2007年）は、より広い正典形成の問題への体系的関与を提供します。
 
-**Albert Sundberg's foundational work**. **Albert C. Sundberg**'s *The Old Testament of the Early Church* (Harvard University Press, 1964) provides foundational scholarship on the substantial canonical-formation question.
+**アルバート・サンドバーグの基礎的著作**。**アルバート・C・サンドバーグ** の *The Old Testament of the Early Church*（Harvard University Press、1964年）は、正典形成の問題に関する基礎的学術を提供します。
 
-**Various substantial subsequent scholarship**. Substantial subsequent scholarship (John Barton, James Sanders, Eugene Ulrich, various others) has continued to develop the broader canonical-formation scholarly engagement.
+**その後のさまざまな学術**。その後のさまざまな学術（ジョン・バートン、ジェイムズ・サンダース、ユージン・ウルリッヒ、その他さまざま）は、より広い正典形成の学術的関与を発展させ続けています。
 
-### Sitchin's Anunnaki framework
+### シッチンのアヌンナキ・フレームワーク
 
-**Zecharia Sitchin** in *The 12th Planet* (Stein and Day, 1976) and various other works produced substantial alternative-history engagement with substantial Hebrew Bible content within the broader Anunnaki framework. Sitchin's specific framework registers substantial structural alignment with the corpus framework at the substantial multiple-creator-civilization dimension while operating from substantively distinct specific source-material warrant.
+**ゼカリア・シッチン** は、*The 12th Planet*（Stein and Day、1976年）およびその他のさまざまな著作において、より広いアヌンナキ・フレームワークの中でヘブライ語聖書の内容への代替史的関与を生み出しました。シッチンの特定の枠組みは、複数創造者文明の次元で集成フレームワークと実質的に構造的に一致しつつ、実質的に明確な原典資料的根拠から作動します。
 
-### Wallis's broader engagement
+### ウォリスのより広い関与
 
-**Paul Anthony Wallis**'s *Escaping from Eden* (6th Books, 2020), *The Eden Conspiracy* (6th Books, 2024), and various other works engage substantial Hebrew Bible content. Wallis's specific framework registers substantial structural alignment with the framework's reading at multiple specific dimensions while operating from distinct source-material warrant principally drawn from the broader strict-translational approach.
+**ポール・アンソニー・ウォリス** の *Escaping from Eden*（6th Books、2020年）、*The Eden Conspiracy*（6th Books、2024年）、その他のさまざまな著作は、ヘブライ語聖書の内容に関与します。ウォリスの特定の枠組みは、複数の特定の次元でフレームワークの読解と実質的に構造的に一致しつつ、主により広い厳密翻訳的アプローチから引き出された明確な原典資料的根拠から作動します。
 
-### Biglino's strict-translational approach
+### ビリーノの厳密翻訳的アプローチ
 
-**Mauro Biglino**'s broader engagement with the Hebrew Bible (*The Naked Bible: The Truth About the Most Famous Book in History*, with Giorgio Cattaneo, Uno, 2022; various other works) has produced substantial alternative-history engagement. Biglino's specific position: strict literal translation of the Hebrew text reveals substantial content that mainstream translation traditions have systematically obscured. The substantial framework's specific positions register substantial structural alignment with Biglino's broader translational approach.
+**マウロ・ビリーノ** のヘブライ語聖書へのより広い関与（*The Naked Bible: The Truth About the Most Famous Book in History*、ジョルジョ・カッタネオと共著、Uno、2022年。その他のさまざまな著作）は、代替史的関与を生み出してきました。ビリーノの特定の立場——ヘブライ語本文の厳密な逐語訳は、主流の翻訳伝統が体系的に曖昧化してきた内容を明らかにします。フレームワークの特定の立場は、ビリーノのより広い翻訳的アプローチと実質的に構造的に一致します。
 
-### The framework's relationship to the broader landscape
+### より広い景観に対するフレームワークの関係
 
-The Wheel of Heaven corpus's Hebrew Bible framework is positioned within this scholarly landscape as follows: substantially aligned with mainstream Hebrew Bible scholarship at the textual-philological level (recognizing the substantial scholarly documentation of the substantial textual content); substantially aligned with the Documentary Hypothesis at the substantial multiple-source recognition level while operating from substantively distinct interpretive foundation; substantially aligned with mainstream archaeological-historical scholarship at the substantial historical-context level; substantially aligned with substantial textual-criticism scholarship at the substantial textual-history level; substantially aligned with substantial Dead Sea Scrolls scholarship at the substantial textual-recovery level; substantially aligned with substantial Septuagint scholarship at the substantial textual-history level; substantially aligned with substantial canonical-formation scholarship at the substantial historical-developmental level; substantively distinct from mainstream theological scholarship at the interpretive level (the framework's specific historical-record reading operates substantively beyond the conventional religious-mythological treatment); substantially aligned with various alternative-history scholarly traditions (Sitchin's Anunnaki framework, Wallis's broader engagement, Biglino's strict-translational approach) at the underlying-historical-event-reading level while operating from distinct source-material warrant principally drawn from the Raëlian source material.
+天の車輪集成のヘブライ語聖書フレームワークは、この学術的景観の中で次のように位置付けられます。本文・文献学的レベルでは主流のヘブライ語聖書学術と実質的に一致（本文内容の学術的文書化を認識）。複数資料認識のレベルでは文書仮説と実質的に一致しつつ、実質的に明確な解釈的基礎から作動。歴史的・文脈的レベルでは主流の考古学・歴史的学術と実質的に一致。本文史のレベルでは本文批評学術と実質的に一致。本文回復のレベルでは死海文書学術と実質的に一致。本文史のレベルでは七十人訳聖書学術と実質的に一致。歴史的・発展的レベルでは正典形成学術と実質的に一致。解釈的レベルでは主流の神学的学術と実質的に異なる（フレームワークの特定の歴史的記録読解は、慣習的な宗教神話的扱いを実質的に超えて機能）。根底にある歴史的事件の読解レベルでは、さまざまな代替史的学術伝統（シッチンのアヌンナキ・フレームワーク、ウォリスのより広い関与、ビリーノの厳密翻訳的アプローチ）と実質的に一致しつつ、主にラエリアン原典資料から引き出された明確な原典資料的根拠から作動。
 
-## Comparative observations
+## 比較観察
 
-The Hebrew Bible has substantial cross-cultural textual parallels in various religious-cultural traditions worldwide, with the substantial cross-cultural distribution registering substantial parallel content for the broader framework reading.
+ヘブライ語聖書は、世界中のさまざまな宗教・文化的伝統における異文化的な本文上の並行を持ち、異文化的分布はより広いフレームワーク読解のための並行内容を登録します。
 
-### Mesopotamian textual parallels
+### メソポタミアの本文上の並行
 
-The Mesopotamian textual tradition preserves the principal cross-cultural textual parallels.
+メソポタミアの本文伝統は、主要な異文化的な本文上の並行を保存しています。
 
-**The substantial *Atrahasis* epic**. The substantial Akkadian *Atrahasis* epic (preserved principally in 17th-century-BCE Old Babylonian manuscripts, with substantial earlier Sumerian antecedents) registers substantial parallel content with the substantial Hebrew Bible primeval history (Genesis 1-11). The substantial principal parallel content:
+**アトラハシース叙事詩**。アッカド語の *アトラハシース* 叙事詩（主に紀元前17世紀の古バビロニア写本に保存され、より古いシュメールの先駆を伴う）は、ヘブライ語聖書の原初史（創世記1〜11章）と並行する内容を登録します。主要な並行内容は次のとおりです。
 
-- Substantial creation narrative with substantial divine-council deliberation about substantial human-creation
-- Substantial human-multiplication narrative
-- Substantial divine-council decision regarding substantial flood-destruction
-- Substantial flood narrative with substantial preservation of single righteous individual (Atrahasis / Utnapishtim)
-- Substantial post-flood covenant narrative
+- 人間の創造についての神々の評議会の審議を伴う創造物語
+- 人間の増加の物語
+- 洪水による破壊に関する神々の評議会の決定
+- ただ一人の義しい個人（アトラハシース／ウトナピシュティム）の保存を伴う洪水物語
+- 洪水後の契約物語
 
-The substantial Hebrew Bible primeval history operates as substantial parallel content within distinct cultural-religious framing.
+ヘブライ語聖書の原初史は、明確な文化的・宗教的枠組みの中で並行する内容として機能します。
 
-**The substantial *Enuma Elish***. The substantial Babylonian *Enuma Elish* (preserved principally in 7th-century-BCE Neo-Assyrian manuscripts, with substantial earlier antecedents) registers substantial parallel content with substantial Hebrew Bible creation content (particularly Genesis 1) and substantial divine-council material. The substantial *Enuma Elish* preserves substantial divine-council deliberation, substantial cosmic-conflict content (the substantial Marduk-Tiamat conflict registering substantial parallel to broader Theomachy framework), and substantial creation-from-divine-being content.
+**エヌマ・エリシュ**。バビロニアの *エヌマ・エリシュ*（主に紀元前7世紀の新アッシリア写本に保存され、より古い先駆を伴う）は、ヘブライ語聖書の創造内容（特に創世記1章）および神々の評議会の素材と並行する内容を登録します。*エヌマ・エリシュ* は、神々の評議会の審議、宇宙的紛争の内容（より広い神々の戦いの枠組みと並行するマルドゥク・ティアマト紛争）、神的存在からの創造の内容を保存しています。
 
-**The substantial *Epic of Gilgamesh***. The substantial *Epic of Gilgamesh* (preserved principally in 7th-century-BCE Neo-Assyrian manuscripts, with substantial earlier Sumerian antecedents) registers substantial parallel content particularly with substantial Hebrew Bible flood narrative (the substantial Utnapishtim flood narrative in Tablet XI registering substantial parallel content with the substantial Noah flood narrative in Genesis 6-9). The detailed treatment of the substantial Gilgamesh parallels lives principally in the [Great Flood](../great-flood/) entry.
+**ギルガメシュ叙事詩**。*ギルガメシュ叙事詩*（主に紀元前7世紀の新アッシリア写本に保存され、より古いシュメールの先駆を伴う）は、特にヘブライ語聖書の洪水物語と並行する内容を登録します（第11書板におけるウトナピシュティムの洪水物語は、創世記6〜9章のノアの洪水物語と並行する内容を登録します）。ギルガメシュとの並行の詳細な扱いは、主に {% wiki(slug="great-flood") %}大洪水{% end %} 項目に存在します。
 
-**The substantial Sumerian King List**. The substantial Sumerian King List preserves substantial pre-flood and post-flood king-list content registering substantial parallel content with substantial Hebrew Bible genealogical material. The detailed treatment lives in the [Antediluvian](../antediluvian/) entry.
+**シュメール王名表**。シュメール王名表は、洪水以前および洪水以後の王名表の内容を保存しており、ヘブライ語聖書の系譜素材と並行する内容を登録します。詳細な扱いは {% wiki(slug="antediluvian") %}洪水前{% end %} 項目に存在します。
 
-**The substantial broader Mesopotamian textual corpus**. The substantial broader Mesopotamian textual corpus (substantial Sumerian and Akkadian religious-mythological-historical texts) preserves substantial parallel content across multiple specific dimensions, with substantial scholarly engagement registering substantial cumulative parallel material.
+**より広いメソポタミアの本文集成**。より広いメソポタミアの本文集成（シュメールおよびアッカドの宗教・神話・歴史的テキスト）は、複数の特定の次元にわたる並行内容を保存しており、学術的関与は累積的な並行素材を登録します。
 
-**The framework's reading**. The framework reads the substantial Mesopotamian textual parallels as preserving substantial cultural memory of substantial actual events that the substantial Hebrew Bible also preserves, with the substantial Mesopotamian tradition operating as substantial cultural-religious preservation within the distinctive Mesopotamian framing. The substantial cross-cultural parallel content registers substantial framework support for the broader historical-event reading.
+**フレームワークの読解**。フレームワークは、メソポタミアの本文上の並行を、ヘブライ語聖書もまた保存する実際の出来事の文化的記憶を保存しているものとして読み、メソポタミアの伝統は明確なメソポタミアの枠組みの中での文化的・宗教的保存として機能します。異文化的な並行内容は、より広い歴史的事件の読解に対するフレームワーク的支持を登録します。
 
-### Egyptian textual parallels
+### エジプトの本文上の並行
 
-The Egyptian textual tradition preserves substantial parallel content across substantial diverse religious-mythological corpus.
+エジプトの本文伝統は、多様な宗教・神話的集成にわたる並行内容を保存しています。
 
-**The substantial Pyramid Texts**. The substantial Egyptian Pyramid Texts (preserved principally in Old Kingdom royal tomb-inscriptions, c. 24th-22nd centuries BCE) operate as the oldest substantial body of religious literature in human history. The substantial Pyramid Texts preserve substantial divine-council content, substantial creation-narrative content, substantial deification-content, and various other parallel content.
+**ピラミッド・テキスト**。エジプトのピラミッド・テキスト（主に古王国時代の王の墓の碑文に保存される、紀元前24〜22世紀頃）は、人類の歴史において最古の宗教文学の本体として機能します。ピラミッド・テキストは、神々の評議会の内容、創造物語の内容、神格化の内容、その他さまざまな並行内容を保存しています。
 
-**The substantial Coffin Texts**. The substantial Egyptian Coffin Texts (preserved principally in Middle Kingdom non-royal coffin-inscriptions, c. 22nd-17th centuries BCE) extend the substantial Pyramid Texts tradition with substantial additional content.
+**コフィン・テキスト**。エジプトのコフィン・テキスト（主に中王国時代の非王族の棺の碑文に保存される、紀元前22〜17世紀頃）は、追加の内容を伴ってピラミッド・テキストの伝統を拡張します。
 
-**The substantial Book of the Dead**. The substantial Egyptian Book of the Dead (preserved principally in New Kingdom funerary papyri, c. 16th-11th centuries BCE) operates as substantial systematic afterlife-religious content with substantial parallel content registering substantial cross-cultural parallels.
+**死者の書**。エジプトの死者の書（主に新王国時代の葬祭用パピルスに保存される、紀元前16〜11世紀頃）は、異文化的並行を登録する並行内容を伴う体系的な来世宗教的内容として機能します。
 
-**The substantial broader Egyptian religious literature**. The substantial broader Egyptian religious literature (substantial various hymns, prayers, theological-philosophical texts, mythological narratives) preserves substantial parallel content across multiple specific dimensions.
+**より広いエジプトの宗教文学**。より広いエジプトの宗教文学（さまざまな賛歌、祈り、神学・哲学的テキスト、神話的物語）は、複数の特定の次元にわたる並行内容を保存しています。
 
-### Ugaritic textual parallels
+### ウガリト語の本文上の並行
 
-The substantial Ugaritic textual corpus (discovered principally at Ras Shamra beginning 1928, dating principally to the 14th-13th centuries BCE) preserves substantial parallel content with substantial Hebrew Bible content within the broader Northwest Semitic cultural-religious tradition.
+ウガリト語の本文集成（主にラス・シャムラで1928年以降に発見され、主に紀元前14〜13世紀のもの）は、より広い北西セム族の文化・宗教的伝統の中で、ヘブライ語聖書の内容と並行する内容を保存しています。
 
-**The substantial Baal cycle**. The substantial Ugaritic Baal cycle preserves substantial divine-council content, substantial cosmic-conflict content, substantial divine-faction-political content registering substantial parallel content with broader Theomachy framework.
+**バアル・サイクル**。ウガリト語のバアル・サイクルは、神々の評議会の内容、宇宙的紛争の内容、神々の派閥政治的内容を保存し、より広い神々の戦いの枠組みと並行する内容を登録します。
 
-**The substantial broader Canaanite mythological tradition**. The substantial broader Ugaritic textual corpus preserves substantial Canaanite mythological-religious content registering substantial parallel content with substantial early Hebrew Bible content.
+**より広いカナンの神話的伝統**。より広いウガリト語の本文集成は、初期ヘブライ語聖書の内容と並行する内容を登録するカナンの神話・宗教的内容を保存しています。
 
-**The substantial framework reading**. The substantial Ugaritic parallels register substantial parallel content within the broader Northwest Semitic cultural-religious tradition that operated as the substantial broader cultural-religious context within which the substantial early Hebrew tradition developed.
+**フレームワークの読解**。ウガリト語の並行は、初期ヘブライ語の伝統が発展したより広い文化・宗教的文脈として機能した、より広い北西セム族の文化・宗教的伝統の中で並行する内容を登録します。
 
-### Vedic / Hindu textual parallels
+### ヴェーダ／ヒンドゥーの本文上の並行
 
-The substantial Vedic / Hindu textual tradition preserves substantial parallel content with substantial Hebrew Bible content.
+ヴェーダ／ヒンドゥーの本文伝統は、ヘブライ語聖書の内容と並行する内容を保存しています。
 
-**The substantial Rigveda**. The substantial Rigveda (composed principally c. 1500-1200 BCE) preserves substantial divine-multiplicity content, substantial creation-narrative content, substantial various parallel content within distinctive Vedic framing.
+**リグ・ヴェーダ**。リグ・ヴェーダ（主に紀元前1500〜1200年に作曲される）は、神々の複数性の内容、創造物語の内容、特徴的なヴェーダの枠組みの中でさまざまな並行内容を保存しています。
 
-**The substantial Upanishads**. The substantial Upanishads (composed principally c. 800-200 BCE) preserve substantial cosmological-philosophical content registering substantial parallel content with broader framework.
+**ウパニシャッド**。ウパニシャッド（主に紀元前800〜200年に作曲される）は、より広い枠組みと並行する内容を登録する宇宙論・哲学的内容を保存しています。
 
-**The substantial Mahabharata**. The substantial Mahabharata (composed principally c. 400 BCE-400 CE, with substantial earlier oral-tradition antecedents) preserves substantial cosmic-warfare content registering substantial parallel content with broader Theomachy framework. The detailed treatment of the substantial *Brahmastra* parallels lives in the [Sodom and Gomorrah](../sodom-and-gomorrah/) entry.
+**マハーバーラタ**。マハーバーラタ（主に紀元前400年〜紀元後400年に作曲され、より古い口承伝統の先駆を伴う）は、より広い神々の戦いの枠組みと並行する内容を登録する宇宙的戦争の内容を保存しています。*ブラフマーストラ* の並行の詳細な扱いは {% wiki(slug="sodom-and-gomorrah") %}ソドムとゴモラ{% end %} 項目に存在します。
 
-**The substantial Puranas**. The substantial Puranas preserve substantial cosmological-mythological-historical content registering substantial parallel content within distinctive Hindu framing.
+**プラーナ**。プラーナは、特徴的なヒンドゥーの枠組みの中で並行内容を登録する宇宙論・神話・歴史的内容を保存しています。
 
-### Greek mythological corpus
+### ギリシアの神話的集成
 
-The substantial Greek mythological corpus preserves substantial parallel content with substantial Hebrew Bible content.
+ギリシアの神話的集成は、ヘブライ語聖書の内容と並行する内容を保存しています。
 
-**Hesiod's substantial works**. **Hesiod**'s *Theogony* and *Works and Days* (composed principally c. 8th-7th centuries BCE) preserve substantial cosmic-genealogical content, substantial divine-council content, substantial cosmic-conflict content registering substantial parallel content with broader framework.
+**ヘシオドスの著作**。**ヘシオドス** の *神統記* と *仕事と日々*（主に紀元前8〜7世紀に作曲される）は、より広い枠組みと並行する内容を登録する宇宙系譜的内容、神々の評議会の内容、宇宙的紛争の内容を保存しています。
 
-**Homer's substantial works**. **Homer**'s *Iliad* and *Odyssey* (composed principally c. 8th century BCE) preserve substantial divine-council content, substantial divine-human-interaction content registering substantial parallel content.
+**ホメロスの著作**。**ホメロス** の *イーリアス* と *オデュッセイア*（主に紀元前8世紀に作曲される）は、並行する内容を登録する神々の評議会の内容、神々と人間の交流の内容を保存しています。
 
-**The broader Greek mythological tradition**. The substantial broader Greek mythological tradition preserves substantial parallel content across multiple distinct dimensions.
+**より広いギリシアの神話的伝統**。より広いギリシアの神話的伝統は、複数の異なる次元にわたる並行内容を保存しています。
 
-### The "sacred-text" cross-cultural pattern
+### 「聖典」の異文化的パターン
 
-The substantial cross-cultural pattern of substantial sacred-textual entities operating as substantial canonical-religious content across virtually every major religious-cultural tradition globally registers one of the principal cross-cultural patterns in religious-traditional thought.
+世界中のほぼすべての主要な宗教・文化的伝統にわたる正典・宗教的内容として機能する聖なる本文実体の異文化的パターンは、宗教・伝統的思考における主要な異文化的パターンの一つを登録します。
 
-**The substantial various sacred-text traditions**. The substantial cross-cultural sacred-text tradition operates substantively across:
+**さまざまな聖典伝統**。異文化的な聖典の伝統は、以下にわたって実質的に機能します。
 
-- The substantial Hebrew Bible / Tanakh (Jewish-tradition canonical text)
-- The substantial Christian Bible (Christian-tradition canonical text)
-- The substantial Quran (Islamic-tradition canonical text)
-- The substantial Vedic textual corpus (Hindu-tradition canonical texts)
-- The substantial Buddhist Tripitaka and various subsequent canonical texts
-- The substantial Daoist textual corpus
-- The substantial Confucian classical texts
-- The substantial Avestan corpus (Zoroastrian-tradition canonical texts)
-- The substantial Book of Mormon (Mormon LDS canonical text)
-- Various substantial other sacred-textual traditions
+- ヘブライ語聖書／タナハ（ユダヤ教伝統の正典テキスト）
+- キリスト教聖書（キリスト教伝統の正典テキスト）
+- クルアーン（イスラム教伝統の正典テキスト）
+- ヴェーダの本文集成（ヒンドゥー教伝統の正典テキスト）
+- 仏教の三蔵およびさまざまなその後の正典テキスト
+- 道教の本文集成
+- 儒教の古典テキスト
+- アヴェスター集成（ゾロアスター教伝統の正典テキスト）
+- モルモン書（モルモンLDS正典テキスト）
+- その他さまざまな聖典伝統
 
-**The substantial cross-cultural function**. The substantial sacred-textual entities operate across cultures with substantial parallel functions: substantial canonical-religious authority, substantial liturgical-ritual content, substantial cosmic-narrative content, substantial ethical-religious-legal content, substantial historical-cultural memory preservation.
+**異文化的機能**。聖なる本文実体は、文化を超えて並行する機能を持って機能します。正典・宗教的権威、典礼・儀礼的内容、宇宙・物語的内容、倫理・宗教・法的内容、歴史・文化的記憶の保存。
 
-### The "preservation-of-historical-event-content-in-religious-textual-form" cross-cultural pattern
+### 「宗教的本文形式における歴史的事件内容の保存」の異文化的パターン
 
-The substantial cross-cultural pattern of preservation of substantial historical-event content within substantial religious-textual forms operates across virtually every major sacred-textual tradition.
+宗教的本文形式の中での歴史的事件内容の保存という異文化的パターンは、ほぼすべての主要な聖典伝統にわたって機能します。
 
-**The substantial pattern features**:
+**パターンの特徴**：
 
-- Substantial actual historical events preserved within substantial religious-narrative forms
-- Substantial pre-scientific vocabulary operating as substantial decodable layer
-- Substantial subsequent religious-traditional reception operating substantively beyond original historical-event content
-- Substantial cross-cultural parallel content across distinct cultural-religious traditions
+- 宗教・物語的形式の中に保存された実際の歴史的事件
+- 解読可能な層として機能する前科学的語彙
+- 元の歴史的事件内容を実質的に超えて機能するその後の宗教・伝統的受容
+- 明確な文化・宗教的伝統にわたる異文化的並行内容
 
-**The substantial framework reading**. The substantial framework reads the substantial cross-cultural pattern as registering substantial preservation of substantial actual historical events through substantial sacred-textual forms, with each cultural tradition preserving substantial specific content within its distinctive cultural-religious framing.
+**フレームワークの読解**。フレームワークは、異文化的パターンを、聖なる本文形式を通じた実際の歴史的事件の保存を登録するものとして読み、各文化的伝統はその特徴的な文化・宗教的枠組みの中で特定の内容を保存します。
 
-### The convergence
+### 収斂
 
-The corpus's working position on the comparative-Hebrew-Bible question is that the substantial cross-cultural distribution of substantial sacred-textual traditions across virtually every major religious-cultural tradition globally is meaningful as evidence of the broader pattern.
+比較的ヘブライ語聖書の問題に関する集成の作業中の立場は次のとおりです。世界中のほぼすべての主要な宗教・文化的伝統にわたる聖典伝統の異文化的分布は、より広いパターンの証拠として意味があります。
 
-The mainstream scholarly explanation generally treats the cross-cultural pattern through some combination of independent religious-cultural development, shared cognitive-archetypal substrate, and limited cultural diffusion. The framework's reading: the cross-cultural pattern preserves common memory of substantial actual events that the framework articulates, with each cultural tradition preserving substantial specific content within its distinctive cultural-religious framing.
+主流の学術的説明は一般に、異文化的パターンを、独立した宗教・文化的発展、共有された認知・元型的基盤、限定的な文化拡散の何らかの組み合わせを通じて扱います。フレームワークの読解——異文化的パターンは、フレームワークがarticulateする実際の出来事の共通の記憶を保存し、各文化的伝統はその特徴的な文化・宗教的枠組みの中で特定の内容を保存します。
 
-The framework's specific reading is that the substantial Hebrew Bible operates as substantial principal-but-not-uniquely-privileged carrier of the substantial actual historical-event content. The substantial Mesopotamian textual parallels preserve substantial parallel content within the distinctive Mesopotamian framing; the substantial Egyptian textual parallels preserve substantial parallel content within the distinctive Egyptian framing; the substantial Ugaritic textual parallels preserve substantial parallel content within the distinctive Northwest Semitic framing; the substantial Vedic / Hindu textual parallels preserve substantial parallel content within the distinctive Hindu framing; the substantial Greek mythological corpus preserves substantial parallel content within the distinctive Greek framing.
+フレームワークの特定の読解は、ヘブライ語聖書が実際の歴史的事件の内容の主要だが固有に特権化されていない担い手として機能するというものです。メソポタミアの本文上の並行は、特徴的なメソポタミアの枠組みの中で並行内容を保存します。エジプトの本文上の並行は、特徴的なエジプトの枠組みの中で並行内容を保存します。ウガリト語の本文上の並行は、特徴的な北西セム族の枠組みの中で並行内容を保存します。ヴェーダ／ヒンドゥーの本文上の並行は、特徴的なヒンドゥーの枠組みの中で並行内容を保存します。ギリシアの神話的集成は、特徴的なギリシアの枠組みの中で並行内容を保存します。
 
-The corpus does not require rejecting all of the mainstream explanatory framework. Independent religious-cultural development certainly contributes to specific cultural-religious articulations; the cosmic-archetypal substrate certainly contributes to the broader cross-cultural pattern; cultural diffusion certainly occurred across the historical period. What the framework adds is the underlying historical reality that gave rise to the structural commonalities — the substantial actual alliance-civilization interventions across the post-flood ages that the framework articulates, with the substantial cross-cultural traditions preserving cultural memory of these events in their distinctive cultural-religious framings.
+集成は、主流の説明的枠組みのすべてを拒絶することを要求しません。独立した宗教・文化的発展は、特定の文化・宗教的articulationに確かに寄与します。宇宙・元型的基盤は、より広い異文化的パターンに確かに寄与します。文化拡散は、歴史的期間にわたって確かに起こりました。フレームワークが付け加えるのは、構造的共通性を生じさせた根底にある歴史的現実です——フレームワークがarticulateする洪水後の諸時代を通じての実際の同盟文明による介入であり、異文化的伝統はそれらの出来事の文化的記憶をそれぞれの特徴的な文化・宗教的枠組みの中で保存しています。
 
-The framework's distinctive contribution within this broader comparative landscape is the substantial historical-actuality reading (the substantial sacred-textual content preserves cultural memory of substantial actual extraterrestrial-civilization events rather than substantial mythological-archetypal-substrate alone), the substantial Hebrew Bible centrality positioning (the substantial Hebrew tradition operates as the substantial structural center of the broader asymmetric synthesis while not registering substantial unique-privileging), and the substantial systematic decoding hermeneutic (the substantial framework provides substantial systematic interpretive key for substantive engagement with the substantial textual content across all the broader sacred-textual traditions).
-
-## See also
-
-- [Genesis](../genesis/)
-- [Adam and Eve](../adam-and-eve/)
-- [Eden](../eden/)
-- [Antediluvian](../antediluvian/)
-- [Great Flood](../great-flood/)
-- [Theomachy](../theomachy/)
-- [Babel](../babel/)
-- [Sodom and Gomorrah](../sodom-and-gomorrah/)
-- [Noah](../noah/)
-- [Abraham](../abraham/)
-- [Moses](../moses/)
-- [Jesus](../jesus/)
-- [Mary](../mary/)
-- [Elohim](../elohim/)
-- [Yahweh](../yahweh/)
-- [Lucifer](../lucifer/)
-- [Satan](../satan/)
-- [Serpent](../serpent/)
-- [Plurality of Gods](../plurality-of-gods/)
-- [Tetragrammaton](../tetragrammaton/)
-- [Cosmic Chain](../cosmic-chain/)
-- [Cosmic Competition](../cosmic-competition/)
-- [Doubled Signature](../doubled-signature/)
-- [Tree of Life](../tree-of-life/)
-- [Dragons](../dragons/)
-- [Watchers](../watchers/)
-- [The Alliance](../the-alliance/)
-- [Council of the Eternals](../council-of-eternals/)
-- [Apocalypse](../apocalypse/)
-- [Prophet](../prophet/)
-- [Hebrew](../hebrew/)
-- [Hebrews](../hebrews/)
-- [Jean Sendy](../jean-sendy/)
-- [Mauro Biglino](../mauro-biglino/)
-- [Paul Anthony Wallis](../paul-anthony-wallis/)
-
-## References
-
-Vorilhon, Claude (Raël). *The Book Which Tells the Truth* (1974); collected in *Message from the Designers*. Substantial foundational source for the framework's specific content.
-
-Vorilhon, Claude (Raël). *Extra-Terrestrials Took Me to Their Planet* (1975); collected in *Message from the Designers*.
-
-Vorilhon, Claude (Raël). *Let's Welcome the Extra-Terrestrials* (1979); collected in *Message from the Designers*.
-
-Vorilhon, Claude (Raël). *Message from the Designers*. Tagman Press, 2005.
-
-Sendy, Jean. *Ces dieux qui firent le ciel et la terre*. Robert Laffont, 1969.
-
-Sendy, Jean. *L'ère du Verseau*. Robert Laffont, 1970.
-
-Sendy, Jean. *Les cahiers de cours de Moïse*. Julliard, 1963.
-
-Biglino, Mauro, and Giorgio Cattaneo. *The Naked Bible: The Truth About the Most Famous Book in History*. Uno, 2022.
-
-Wallis, Paul Anthony. *Escaping from Eden: Does Genesis Teach That the Human Race Was Created by God or Engineered by ETs?*. 6th Books, 2020.
-
-Wallis, Paul Anthony. *The Eden Conspiracy*. 6th Books, 2024.
-
-Wellhausen, Julius. *Prolegomena to the History of Israel*. Trans. J. Sutherland Black and Allan Menzies. Adam & Charles Black, 1885 [originally 1878].
-
-Friedman, Richard Elliott. *Who Wrote the Bible?* Harper & Row, 1987.
-
-Friedman, Richard Elliott. *The Bible with Sources Revealed*. HarperOne, 2003.
-
-Van Seters, John. *The Pentateuch: A Social-Science Commentary*. Sheffield Academic Press, 1999.
-
-Baden, Joel S. *The Composition of the Pentateuch: Renewing the Documentary Hypothesis*. Yale University Press, 2012.
-
-von Rad, Gerhard. *Old Testament Theology*. 2 vols. Trans. D. M. G. Stalker. Harper & Row, 1962-1965 [originally 1957-1960].
-
-von Rad, Gerhard. *Genesis: A Commentary*. Trans. John H. Marks. Westminster, revised ed., 1972 [originally 1949].
-
-Westermann, Claus. *Genesis 1-11: A Commentary*. Trans. John J. Scullion. Augsburg / Fortress, 1984.
-
-Westermann, Claus. *Genesis 12-36: A Commentary*. Trans. John J. Scullion. Augsburg / Fortress, 1985.
-
-Westermann, Claus. *Genesis 37-50: A Commentary*. Trans. John J. Scullion. Augsburg / Fortress, 1986.
-
-Brueggemann, Walter. *Theology of the Old Testament: Testimony, Dispute, Advocacy*. Augsburg Fortress, 1997.
-
-Alter, Robert. *The Art of Biblical Narrative*. Basic Books, 1981.
-
-Alter, Robert. *The Five Books of Moses: A Translation with Commentary*. W. W. Norton, 2004.
-
-Alter, Robert. *The Hebrew Bible: A Translation with Commentary*. 3 vols. W. W. Norton, 2018.
-
-Hendel, Ronald S. *The Text of Genesis 1-11: Textual Studies and Critical Edition*. Oxford University Press, 1998.
-
-Arnold, Bill T. *Genesis*. New Cambridge Bible Commentary. Cambridge University Press, 2009.
-
-Childs, Brevard S. *Introduction to the Old Testament as Scripture*. Fortress Press, 1979.
-
-Kugel, James L. *How to Read the Bible: A Guide to Scripture, Then and Now*. Free Press, 2007.
-
-Albright, William F. *From the Stone Age to Christianity*. Johns Hopkins University Press, 2nd ed., 1957.
-
-Cross, Frank Moore. *Canaanite Myth and Hebrew Epic: Essays in the History of the Religion of Israel*. Harvard University Press, 1973.
-
-Dever, William G. *What Did the Biblical Writers Know and When Did They Know It?*. Eerdmans, 2001.
-
-Dever, William G. *Who Were the Early Israelites and Where Did They Come From?*. Eerdmans, 2003.
-
-Finkelstein, Israel, and Neil Asher Silberman. *The Bible Unearthed: Archaeology's New Vision of Ancient Israel and the Origin of Its Sacred Texts*. Free Press, 2001.
-
-Mazar, Amihai. *Archaeology of the Land of the Bible: 10,000-586 B.C.E.* Doubleday, 1990.
-
-Tov, Emanuel. *Textual Criticism of the Hebrew Bible*. Augsburg Fortress, 3rd ed., 2012 [originally 1992].
-
-Tov, Emanuel. *The Text-Critical Use of the Septuagint in Biblical Research*. Eisenbrauns, 2nd ed., 1997.
-
-VanderKam, James C. *The Dead Sea Scrolls Today*. Eerdmans, revised ed., 2010 [originally 1994].
-
-VanderKam, James C., and Peter W. Flint. *The Meaning of the Dead Sea Scrolls: Their Significance for Understanding the Bible, Judaism, Jesus, and Christianity*. HarperSanFrancisco, 2002.
-
-Flint, Peter W. *The Dead Sea Psalms Scrolls and the Book of Psalms*. Brill, 1997.
-
-García Martínez, Florentino, and Eibert J. C. Tigchelaar, eds. *The Dead Sea Scrolls Study Edition*. 2 vols. Brill, 1997-1998.
-
-Ulrich, Eugene. *The Dead Sea Scrolls and the Origins of the Bible*. Eerdmans, 1999.
-
-Collins, John J. *The Dead Sea Scrolls: A Biography*. Princeton University Press, 2013.
-
-Fernández Marcos, Natalio. *The Septuagint in Context: Introduction to the Greek Version of the Bible*. Trans. Wilfred G. E. Watson. Brill, 2000.
-
-Jobes, Karen H., and Moisés Silva. *Invitation to the Septuagint*. Baker Academic, 2nd ed., 2015.
-
-McDonald, Lee Martin. *The Biblical Canon: Its Origin, Transmission, and Authority*. Hendrickson, 3rd ed., 2007.
-
-Sundberg, Albert C. *The Old Testament of the Early Church*. Harvard University Press, 1964.
-
-Barton, John. *Holy Writings, Sacred Text: The Canon in Early Christianity*. Westminster John Knox, 1997.
-
-Sanders, James A. *Canon and Community: A Guide to Canonical Criticism*. Fortress Press, 1984.
-
-Smith, Mark S. *The Early History of God: Yahweh and the Other Deities in Ancient Israel*. Harper & Row, 1990; revised ed. Eerdmans, 2002.
-
-Sitchin, Zecharia. *The 12th Planet*. Stein and Day, 1976.
-
-Pritchard, James B., ed. *Ancient Near Eastern Texts Relating to the Old Testament*. Princeton University Press, 3rd ed., 1969.
-
-Lambert, W. G., and A. R. Millard. *Atra-ḫasīs: The Babylonian Story of the Flood*. Oxford University Press, 1969.
-
-Lambert, W. G. *Babylonian Creation Myths*. Eisenbrauns, 2013.
-
-George, Andrew. *The Babylonian Gilgamesh Epic: Introduction, Critical Edition and Cuneiform Texts*. 2 vols. Oxford University Press, 2003.
-
-Hallo, William W., and K. Lawson Younger Jr., eds. *The Context of Scripture*. 3 vols. Brill, 1997-2002.
-
-Faulkner, R. O., trans. *The Ancient Egyptian Pyramid Texts*. Aris & Phillips, 1969.
-
-Faulkner, R. O., trans. *The Ancient Egyptian Coffin Texts*. 3 vols. Aris & Phillips, 1973-1978.
-
-Allen, T. G., trans. *The Book of the Dead, or, Going Forth by Day*. University of Chicago Press, 1974.
-
-Smith, Mark S., trans. *The Ugaritic Baal Cycle: Volume I*. Brill, 1994.
-
-Pardee, Dennis. *Ritual and Cult at Ugarit*. Society of Biblical Literature, 2002.
-
-Doniger, Wendy, trans. *The Rig Veda: An Anthology*. Penguin Classics, 1981.
-
-Olivelle, Patrick, trans. *The Early Upaniṣads: Annotated Text and Translation*. Oxford University Press, 1998.
-
-van Buitenen, J. A. B., trans. *The Mahābhārata*. 3 vols. University of Chicago Press, 1973-1978.
-
-Hesiod. *Theogony / Works and Days*. Trans. M. L. West. Oxford University Press, 1988.
-
-Homer. *The Iliad*. Trans. Robert Fagles. Penguin Classics, 1990.
-
-Homer. *The Odyssey*. Trans. Robert Fagles. Penguin Classics, 1996.
-
-"Hebrew Bible." *Encyclopaedia Britannica*. <https://www.britannica.com/topic/Hebrew-Bible>
-
-"Tanakh." *Wikipedia*. <https://en.wikipedia.org/wiki/Hebrew_Bible>
-
-"Masoretic Text." *Wikipedia*. <https://en.wikipedia.org/wiki/Masoretic_Text>
-
-"Septuagint." *Wikipedia*. <https://en.wikipedia.org/wiki/Septuagint>
-
-"Dead Sea Scrolls." *Wikipedia*. <https://en.wikipedia.org/wiki/Dead_Sea_Scrolls>
+このより広い比較的景観の中でのフレームワークの特徴的な貢献は、歴史的現実性の読解（聖なる本文の内容は、神話・元型的基盤のみではなく、実際の地球外文明の出来事の文化的記憶を保存している）、ヘブライ語聖書の中心性の位置付け（ヘブライ語の伝統は固有特権化を登録することなく、より広い非対称的総合の構造中心として機能する）、そして体系的な解読の解釈学（フレームワークは、より広いすべての聖典伝統にわたる本文の内容への実質的関与のための体系的な解釈的鍵を提供する）です。
