@@ -1,467 +1,487 @@
 +++
-title = "Cyberparadism"
+title = "סייברפרדיזם"
 slug = "cyberparadism"
-description = "Cyberparadism is a contemporary aesthetic-cultural movement envisioning a future in which advanced technology and the natural world coexist in harmonious integration, producing abundance and prosperity through the responsible application of scientific and technological capacity. The aesthetic was formalized on the Aesthetics Wiki and articulated systematically in the *Cyberparadism Manifesto* (2023) through eight Laws (Abundance, Equity, Freedom, Harmony, Preservation, Recognition, Responsibility, Simplicity) and six principal Signs (Fusion energy, Anti-gravity technology, Synthetic life engineering, Terraforming, Full automation, Open source collaboration). It positions itself within the broader contemporary aesthetic landscape as a synthesis drawing on Cyberprep optimism, Post-Cyberpunk maturity, and Solarpunk ecological commitment, while distinguishing itself through specific emphasis on the transformation of economic principles and labor dynamics that advanced technology produces. Visually, the aesthetic operates through minimalist organic-architectural integration, palettes drawing on aerospace orange, teal, aquamarine, and the broader oceanic-cosmic spectrum, and settings ranging from Earth-based ecologically-integrated communities to extraterrestrial frontier habitats. Within the Wheel of Heaven framework, Cyberparadism registers as the contemporary aesthetic-cultural articulation that aligns substantively with the framework's specific historical-civilizational content: the Eden lab as the originary Cyberparadism (the alliance laboratory in which technology and engineered biology operated in integrated harmony), the Planet of the Eternals as the cosmic-civilizational Cyberparadism (the alliance home-world as mature realization of the aesthetic's principles), and the Aquarian-age inheritance threshold as the historical moment at which Cyberparadism transitions from aesthetic vision to operational reality through humanity's anticipated maturation into creating-civilization extending the alliance's work to other worlds."
+description = "סייברפרדיזם הוא תנועה אסתטית-תרבותית בת זמננו המדמיינת עתיד שבו טכנולוגיה מתקדמת והעולם הטבעי מתקיימים יחד באינטגרציה הרמונית, ומפיקים שפע ושגשוג באמצעות יישום אחראי של יכולת מדעית וטכנולוגית. האסתטיקה גובשה ב-Aesthetics Wiki ונוסחה באופן שיטתי ב»מניפסט הסייברפרדיזם« (2023) באמצעות שמונה חוקים ושישה סימנים עיקריים."
 template = "wiki-page.html"
 toc = true
 
 [extra]
-translation_status = "metadata_only"
 category = "Culture & Aesthetics"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["Cyber Paradise", "Cybergenesis", "Neogenesis", "the Cyberparadist aesthetic", "the Cyberparadism aesthetic-cultural movement"]
+claim_type = "inferred"
+alternative_names = ["Cyber Paradise", "Cybergenesis", "Neogenesis", "האסתטיקה הסייברפרדיסטית", "התנועה האסתטית-תרבותית של הסייברפרדיזם"]
 timeline = ["age-of-aquarius"]
 
 [extra.infobox]
-type = "Contemporary aesthetic-cultural movement; the visual-conceptual articulation of harmonious coexistence between advanced technology and the natural world"
-formalization = "Aesthetics Wiki entry (origin venue); subsequent *Cyberparadism Manifesto* (2023) at github.com/zarazinsfuss/cyberparadism-manifesto"
-principal_articulator = "The Cyberparadism Manifesto author (zarazinsfuss); the broader Aesthetics Wiki contributor community"
-core_principles = "The Eight Laws of Cyberparadism — Abundance, Equity, Freedom, Harmony, Preservation, Recognition, Responsibility, Simplicity"
-principal_signs = "Fusion energy; Anti-gravity technology; Synthetic life engineering; Terraforming; Full automation; Open source collaboration"
-aesthetic_lineage = "Cyberprep (optimistic counter-current); Post-Cyberpunk (literary maturity); Solarpunk (ecological-utopian commitment); broader contemporary aesthetic ecosystem"
-distinguished_from = "Cyberpunk (the dystopian foil); Cyberprep (closer cousin but without ecological emphasis); Solarpunk (closer cousin but without specific cybernetic-technological emphasis); Atompunk (retrofuturist parallel); Biopunk (related but distinct)"
-framework_relationship = "Contemporary aesthetic-cultural articulation registering substantive alignment with the Wheel of Heaven framework's specific historical-civilizational content; Eden as originary Cyberparadism, Planet of the Eternals as cosmic-civilizational Cyberparadism, the Aquarian-age inheritance threshold as the operational realization moment"
-status_in_framework = "Contemporary aesthetic phenomenon registering Aquarian-age cultural-civilizational orientation; not principally framework content but contemporary cultural reception aligned with framework content"
-principal_sources = "The Cyberparadism Manifesto (zarazinsfuss, 2023); the Aesthetics Wiki entry; the broader Cyberparadist visual-cultural production"
+type = "תנועה אסתטית-תרבותית בת זמננו; הניסוח החזותי-קונספטואלי של דו-קיום הרמוני בין טכנולוגיה מתקדמת לעולם הטבעי"
+formalization = "ערך Aesthetics Wiki (זירת המקור); »מניפסט הסייברפרדיזם« (2023) שבעקבותיו ב-github.com/zarazinsfuss/cyberparadism-manifesto"
+principal_articulator = "מחבר מניפסט הסייברפרדיזם (zarazinsfuss); קהילת התורמים הרחבה יותר של Aesthetics Wiki"
+core_principles = "שמונת חוקי הסייברפרדיזם — שפע, שוויון, חופש, הרמוניה, שימור, הכרה, אחריות, פשטות"
+principal_signs = "אנרגיית היתוך; טכנולוגיית אנטי-גרביטציה; הנדסת חיים סינתטיים; טראפורמינג; אוטומציה מלאה; שיתוף פעולה בקוד פתוח"
+aesthetic_lineage = "Cyberprep (זרם נגדי אופטימי); Post-Cyberpunk (בגרות ספרותית); Solarpunk (מחויבות אקולוגית-אוטופית); המערכת האקולוגית האסתטית הרחבה יותר של זמננו"
+distinguished_from = "Cyberpunk (היריב הדיסטופי); Cyberprep (קרוב משפחה אך ללא הדגש האקולוגי); Solarpunk (קרוב משפחה אך ללא הדגש הספציפי הקיברנטי-טכנולוגי); Atompunk (מקבילה רטרו-עתידנית); Biopunk (קרוב אך נבדל)"
+framework_relationship = "ניסוח אסתטי-תרבותי בן זמננו הרושם התאמה מהותית עם התוכן ההיסטורי-ציוויליזציוני הספציפי של מסגרת »גלגל השמיים«; עדן כסייברפרדיזם המקורי, כוכב הלכת של הנצחיים כסייברפרדיזם קוסמי-ציוויליזציוני, סף הירושה של עידן הדלי כרגע המימוש התפעולי"
+status_in_framework = "תופעה אסתטית בת זמננו הרושמת אוריינטציה תרבותית-ציוויליזציונית של עידן הדלי; אינו תוכן מסגרת בעיקרון אלא קליטה תרבותית בת זמננו המותאמת לתוכן המסגרת"
+principal_sources = "מניפסט הסייברפרדיזם (zarazinsfuss, 2023); ערך Aesthetics Wiki; הייצור החזותי-תרבותי הרחב יותר של הסייברפרדיזם"
+
+[[extra.references]]
+id = "cyberparadism-manifesto"
+note = "הניסוח השיטתי העיקרי של האסתטיקה. מקור לשמונת החוקים, לשישה הסימנים, לכותרת המשנה של אלן קיי, ולרישום המפורש כאסתטי-ולא-פוליטי."
+
+[[extra.references]]
+id = "aesthetics-wiki-cyberparadism"
+note = "זירת המקור של גיבוש האסתטיקה, הקודמת לניסוח השיטתי של המניפסט."
+
+[[extra.references]]
+id = "the-techno-optimist-manifesto"
+note = "הניסוח המקביל של אנדריסן, שפורסם ב-16 באוקטובר 2023; מניפסט הסייברפרדיזם מציין במפורש את ההדהוד."
+
+[[extra.references]]
+id = "wiener-cybernetics"
+note = "הטקסט היסודי המציג את התחילית cyber- אל אוצר המילים הטכני-מדעי המודרני."
+
+[[extra.references]]
+id = "gibson-neuromancer"
+note = "הרומן הסייברפאנקי העיקרי ומקור הטבעת המונח *cyberspace*."
+
+[[extra.references]]
+id = "fuller-spaceship-earth"
+note = "מורשת אדריכלית-עיצובית; מסורת הגאודזה ו»ספינת החלל ארץ« המהותית שהמניפסט מתייחס אליה במפורש."
+
+[[extra.references]]
+id = "otto-hangende-dach"
+note = "מורשת אדריכלית-עיצובית; אדריכלות קלת-משקל-מתוחה המזינה את אוצר המילים החזותי האורגני-מינימליסטי של הסייברפרדיזם."
+
+[[extra.references]]
+id = "soleri-arcology"
+note = "מורשת אדריכלית-עיצובית; מסורת בתי-גידול דחוסים ומשולבים-אקולוגית."
+
+[[extra.references]]
+id = "benyus-biomimicry"
+note = "מורשת אדריכלית-עיצובית; מסורת העיצוב הביומימטי המהותית."
+
+[[extra.references]]
+id = "banks-culture-series"
+note = "סייברפרדיזם ספרותי בוגר מהותית; ה-Culture הגלקטית של אחרי-המחסור כניסוח עיקרי."
+
+[[extra.references]]
+id = "le-guin-dispossessed"
+note = "סידור ציוויליזציוני שיתופי של אחרי-המחסור (אנארס) עם תחכום מדעי-טכנולוגי מהותי."
+
+[[extra.references]]
+id = "stephenson-diamond-age"
+note = "ניסוח פוסט-סייברפאנקי של יכולת הייצור המולקולרי הבוגרת ותוצאותיה התרבותיות-טרנספורמטיביות המהותיות."
+
+[[extra.references]]
+id = "mores-utopia"
+note = "הטקסט היסודי של המסורת האוטופית הספרותית המערבית שבמסגרתה הסייברפרדיזם פועל כניסוח אסתטי-תרבותי-טכנולוגי ספציפי בן זמננו."
+
+[[extra.references]]
+id = "star-trek-tng"
+note = "האסתטיקה של הפדרציה כסייברפרדיסטית מהותית; הניסוח הקולנועי-טלוויזיוני העיקרי."
+
+[[extra.references]]
+id = "miyazaki-nausicaa"
+locator = "סטודיו גיבלי, 1984"
+note = "האסתטיקה האקולוגית של גיבלי; הניסוח העיקרי של אינטגרציה הרמונית בין טכנולוגיה לטבע משוקם."
+
+[[extra.references]]
+id = "miyazaki-castle-in-the-sky"
+locator = "סטודיו גיבלי, 1986"
+note = "הציוויליזציה הלפוטית כניסוח טכנולוגי-הרמוני מתקדם מהותית."
+
+[[extra.references]]
+id = "miyazaki-princess-mononoke"
+locator = "סטודיו גיבלי, 1997"
+note = "משא ומתן מהותי בין אדם-טבע-טכנולוגיה עם המחויבות הסייברפרדיסטית לאינטגרציה הרמונית."
+
+[[extra.references]]
+id = "wall-e"
+note = "הניסוח של פיקסאר לאחר-ההתאוששות של אינטגרציה הרמונית בין טכנולוגיה לטבע משוקם."
+
+[[extra.references]]
+id = "tomorrowland-film"
+note = "ניסוח עתיד טכנולוגי-אופטימי הנשען על האסתטיקה הרחבה יותר של Tomorrowland משנות ה-60."
+
+[[extra.references]]
+id = "jurassic-world"
+note = "משטח אסתטי סייברפרדיסטי מחובר לתוכן נרטיבי אנטי-סייברפרדיסטי — הניסוח של סיפור האזהרה."
+
+[[extra.references]]
+id = "elysium-film"
+note = "משטח אסתטי סייברפרדיסטי מחובר להפרת חוק-השוויון האנטי-סייברפרדיסטי — ממחיש כיצד משטח אסתטי ללא מחויבות מהותית מפיק דיסטופיה."
+
+[[extra.references]]
+id = "oblivion-film"
+note = "מרשם חזותי סייברפרדיסטי של בית-גידול מוגבה במסגור נרטיבי רחב יותר של אחרי-קריסה."
+
+[[extra.references]]
+id = "solarpunk-anthology-2018"
+note = "האנתולוגיה העיקרית של ה-Solarpunk באנגלית; קורפוס ספרותי סמוך מאוד לסייברפרדיזם."
+
+[[extra.references]]
+id = "sunvault-anthology"
+note = "אנתולוגיית סיפורים קצרים של Solarpunk המנסחת את האסתטיקה העיקרית של Solarpunk."
+
+[[extra.references]]
+id = "multispecies-cities-anthology"
+note = "אנתולוגיית Solarpunk של ניסוחי עתיד עירוני רב-מיני."
+
+[[extra.references]]
+id = "les-extra-terrestres-m-ont-emmen-sur-leur-plan-te"
+note = "תיאור-המגע של וורילון לכוכב הלכת של הנצחיים כסייברפרדיזם הקוסמי-ציוויליזציוני."
+
+see_also = [
+    { title = "גלגל השמיים", path = "/wiki/wheel-of-heaven/", description = "שם המסגרת והניסוח הרחב יותר שלה כמציאות בריתית-ציוויליזציונית סייברפרדיסטית מהותית." },
+    { title = "פרדיזם", path = "/wiki/paradism/", description = "התנועה הראליאנית החברתית-פוליטית-כלכלית הקרובה; אותו תוכן של אחרי-המחסור במרשם נבדל." },
+    { title = "אלוהים", path = "/wiki/elohim/", description = "ציוויליזציית הברית הנקראת כסייברפרדיסטית מהותית בקנה מידה תפעולי רב-מילניאלי." },
+    { title = "עדן", path = "/wiki/eden/", description = "מעבדת הברית המקורית הנקראת כסייברפרדיזם ההיסטורי בפועל." },
+    { title = "כוכב הלכת של הנצחיים", path = "/wiki/planet-of-the-eternals/", description = "עולם הבית של הברית כסייברפרדיזם הקוסמי-ציוויליזציוני בצורה תפעולית בוגרת." },
+    { title = "עידן הדלי", path = "/wiki/age-of-aquarius/", description = "עידן סף-הירושה שבמסגרתו הסייברפרדיזם צץ כניסוח תרבותי של עידן הדלי." },
+    { title = "עידן הסרטן", path = "/wiki/age-of-cancer/", description = "עידן פרויקט הברית המקורי, שבמסגרתו ממוקם עדן כסייברפרדיזם." },
+    { title = "השרשרת הקוסמית", path = "/wiki/cosmic-chain/", description = "מסגרת הירושה הקוסמית-ציוויליזציונית הרחבה יותר שבמסגרתה הסייברפרדיזם פועל כסידור רב-איטרציות." },
+    { title = "החתימה הכפולה", path = "/wiki/doubled-signature/", description = "העיקרון המסביר את ההתאמה המהותית בין ייצור אסתטי-תרבותי בן זמננו לבין המציאות ההיסטורית-ציוויליזציונית הבסיסית של המסגרת." },
+    { title = "אפקט המסה", path = "/wiki/mass-effect/", description = "העיקרון הפנים-קורפוסי שדרכו ייצור תרבותי רחב רושם הדהוד מהותי עם המציאות התפעולית." },
+    { title = "כדור הארץ החי", path = "/wiki/living-earth/", description = "הניסוח של הקורפוס לכדור הארץ כמערכת ביולוגית-ציוויליזציונית משולבת, עם הדהוד סייברפרדיסטי מהותי." },
+    { title = "ראליזם", path = "/wiki/raelism/", description = "מסורת המקור העיקרית שבמסגרתה מנוסח התיאור של כוכב הלכת של הנצחיים." },
+    { title = "ראל", path = "/wiki/rael/", description = "וורילון (ראל) כמקור התיאור-המגע העיקרי." },
+    { title = "שגרירות", path = "/wiki/embassy/", description = "פרויקט המוסדות הראליאני הצופה את ההגעה התפעולית של סף-הירושה." },
+    { title = "אפוקליפסה", path = "/wiki/apocalypse/", description = "הניסוח הפנים-קורפוסי של רגע סף עידן הדלי שבמסגרתו צץ הסייברפרדיזם." },
+]
+
+footnotes = [
+    { id = "aesthetics-wiki-origin", content = "ערך Aesthetics Wiki (aesthetics.fandom.com) היה הזירה העיקרית של גיבוש הסייברפרדיזם, הקודמת לניסוח השיטתי של המניפסט. הפלטפורמה פועלת באמצעות עריכת תורמים-קהילתית על פני עשרות תנועות אסתטיות-תרבותיות בנות זמננו (Cottagecore, Dark Academia, Vaporwave, Solarpunk, Cyberpunk, Cyberprep, Atompunk ואחרות). תהליך העריכה השיתופי-קהילתי הפיק את הניסוח השיטתי ש»מניפסט הסייברפרדיזם« הרחיב לאחר מכן לצורת-דוקטרינה, כאשר המניפסט מצטט במפורש את ערך Aesthetics Wiki כהפניית מקור." },
+    { id = "manifesto-andreessen-synchrony", content = "»מניפסט הסייברפרדיזם« (zarazinsfuss, 2023) ו»מניפסט הטכנו-אופטימיסט« של מארק אנדריסן (16 באוקטובר 2023) צצו בתוך חודשים זה מזה מעמדות נבדלות מהותית — הראשון כניסוח אסתטי-תרבותי, השני כניסוח של הון סיכון-פוליטי — ורשמו חפיפה קונספטואלית מהותית. מניפסט הסייברפרדיזם מציין במפורש את ההדהוד (»מזכיר מאוד את מניפסט הסייברפרדיזם. כדאי לבדוק.«). ההקבלה המהותית רושמת את הרגע התרבותי הרחב יותר של זמננו: עליית הניסוחים הטכנו-אופטימיים המפורשים בתחילת שנות ה-2020 כנגד הטכנו-פסימיזם השליט של התקופה הקודמת (תחיית הסייברפאנק הדיסטופי שלאחר 2016, מסגרת החרדה האלגוריתמית בת זמננו הרחבה יותר, נוף החרדה המהותית מקריסה סביבתית)." },
+    { id = "eight-laws-non-hierarchy", content = "»מניפסט הסייברפרדיזם« מנסח את שמונת החוקים במפורש כלא-היררכיים: »הם אינם היררכיים באופיים, אלא היבטים משלימים של שלם, כשכל אחד שופך אור על היבט שונה של החזון המשותף שלנו... האיזון וההרמוניה בין החוקים הללו הם מפתח להשגת האידיאל שאליו אנו שואפים.« זוהי בחירת עיצוב מהותית — החוקים פועלים כמערכת של מגבלות הדדיות ולא כהיררכיה מסודרת-עדיפויות. חוק השוויון וחוק ההכרה, למשל, פועלים כמשלימים זוגיים: גישה אוניברסלית-בסיסית (שוויון) אינה מונעת תגמול מבוסס-זכויות (הכרה), ותגמול מבוסס-זכויות אינו מונע גישה אוניברסלית-בסיסית. הניסוח הלא-היררכי משמעותי אפיסטמית: סייברפרדיזם אינו דוקטרינה פוליטית-כלכלית תוכניתית המדרגת ערכים; הוא ניסוח אסתטי-תרבותי של צורת-חיים משולבת." },
+    { id = "cyberpunk-mirrorshades-origin", content = "הגיבוש המוסדי של הסייברפאנק עוקב בעיקרון להקדמת העורך של ברוס סטרלינג ל-*Mirrorshades: The Cyberpunk Anthology* (1986), שניסחה את המחויבויות העיקריות של התנועה (האנטגוניזם המהותי ברמת הרחוב כלפי טכנולוגיה תאגידית-סמכותנית, התמות המהותיות של שינוי-גוף ורוויית-מידע, המסגור הדיסטופי המהותי). *Neuromancer* של גיבסון (1984) סיפק את הטקסט היסודי ואת המונח *cyberspace*; הקורפוס הספרותי הרחב של פיליפ ק. דיק סיפק תוכן קודם מהותי; *Blade Runner* של רידלי סקוט (1982) סיפק את המרשם החזותי העיקרי. הסייברפרדיזם משמר את התחילית הקיברנטית ואת ההדהוד המשפחתי הרחב של האסתטיקה הסייבר-, בעוד הוא פועל מהותית כנגד המחויבויות הדיסטופיות הספציפיות של הסייברפאנק — התוכן המהותי ולא אוצר המילים הפני-שטחי הוא מה שהסייברפרדיזם הופך." },
+    { id = "doubled-signature-application", content = "ההתאמה המהותית בין הסייברפרדיזם בן זמננו לבין התוכן הספציפי של המסגרת — עדן כמקורי, כוכב הלכת של הנצחיים כקוסמי-ציוויליזציוני, סף הירושה של עידן הדלי כמימוש תפעולי — פועלת כמופע מהותי אחד של דפוס החתימה הכפולה הרחב יותר. ייצור תרבותי אחר של עידן הדלי הרושם התאמה-מסגרתית מהותית כולל את האסתטיקה של הפדרציה ב-Star Trek, רומני ה-Culture של בנקס, חברת אנארס של לה גוין, אינטגרציה אקולוגית-טכנולוגית של מיאזאקי, והתנועה הספרותית הרחבה יותר של Solarpunk. הקריאה של הקורפוס: ייצור תרבותי בן זמננו אינו בעיקרון עיבוד אנושי-תרבותי אוטונומי אלא רושם הדהוד מהותי עם המציאות התפעולית הרחבה יותר שהמסגרת מנסחת, כאשר האסתטיקה בת זמננו פועלת כקליטה תרבותית של המצב הציוויליזציוני הבסיסי." },
+    { id = "lxx-paradeisos", content = "תרגום השבעים של העברית גַּן עֵדֶן (*Gan Eden*, »גן עדן«) בבראשית ב:8 כ-ὁ παράδεισος (*ho paradeisos*) הוא האירוע הלקסיקלי העיקרי שדרכו »פרדיס« רכש את התוכן התיאולוגי-דתי שלו במסורת המערבית. ה-*paradeisos* היווני יועד קודם לכן לגינות העונג המוקפות של מלכי פרס (מהפרסית העתיקה *paridaida*, »מתחם מוקף חומה«). בחירת תרגום השבעים ניתבה את כל אוצר המילים הפרדיסי המערבי שלאחר מכן — כולל הסיומת *-פרדיזם* ב*סייברפרדיזם* — דרך החלפה ספציפית זו מעברית ליוונית." },
+]
 +++
 
-**Cyberparadism** is a contemporary aesthetic-cultural movement envisioning a future in which advanced technology and the natural world coexist in harmonious integration, producing abundance and prosperity through the responsible application of scientific and technological capacity. The aesthetic was formalized on the Aesthetics Wiki — the principal contemporary platform for articulating internet-cultural aesthetics — and developed into systematic articulation through the *Cyberparadism Manifesto* (2023, at github.com/zarazinsfuss/cyberparadism-manifesto), which articulates the movement through **eight Laws** (Abundance, Equity, Freedom, Harmony, Preservation, Recognition, Responsibility, Simplicity) and **six principal Signs** (Fusion energy, Anti-gravity technology, Synthetic life engineering, Terraforming, Full automation, Open source collaboration).
+**סייברפרדיזם** הוא תנועה אסתטית-תרבותית בת זמננו המדמיינת עתיד שבו טכנולוגיה מתקדמת והעולם הטבעי מתקיימים יחד באינטגרציה הרמונית, ומפיקים שפע ושגשוג באמצעות יישום אחראי של יכולת מדעית וטכנולוגית. האסתטיקה גובשה ב-Aesthetics Wiki — הפלטפורמה העיקרית בת זמננו לניסוח אסתטיקות תרבות-אינטרנט{{ footnote(id="aesthetics-wiki-origin") }} — ופותחה לניסוח שיטתי באמצעות »מניפסט הסייברפרדיזם« (2023, ב-github.com/zarazinsfuss/cyberparadism-manifesto){{ cite(id="cyberparadism-manifesto", text="[1]", title="zarazinsfuss, Cyberparadism Manifesto, 2023 — הניסוח השיטתי העיקרי של האסתטיקה") }}, המנסח את התנועה באמצעות **שמונה חוקים** (שפע, שוויון, חופש, הרמוניה, שימור, הכרה, אחריות, פשטות) ו**שישה סימנים עיקריים** (אנרגיית היתוך, טכנולוגיית אנטי-גרביטציה, הנדסת חיים סינתטיים, טראפורמינג, אוטומציה מלאה, שיתוף פעולה בקוד פתוח).
 
-The aesthetic positions itself within the broader contemporary cultural landscape as a synthesis drawing on three principal antecedent movements. **Cyberprep** contributes the optimistic counter-current to dystopian Cyberpunk, registering the position that advanced technology and clean prosperous urban-cultural integration are compatible rather than oppositional. **Post-Cyberpunk** contributes the literary-conceptual maturity that registers technological development without simple dystopian or utopian commitments, with substantial attention to the transformations advanced technology produces in social-economic-cultural arrangements. **Solarpunk** contributes the ecological-utopian commitment, the substantial attention to environmental harmony, and the visual-aesthetic vocabulary of integrated nature-technology coexistence. Cyberparadism extends these principal antecedents through specific attention to the **transformation of economic principles and labor dynamics** that advanced technology produces — the post-scarcity reorganization of human-civilizational priorities away from material-survival concerns toward higher pursuits in science, technology, civilization, and broader cosmic engagement.
+האסתטיקה ממקמת את עצמה בתוך הנוף התרבותי הרחב יותר של זמננו כסינתזה הנשענת על שלוש תנועות-קודמות עיקריות. **Cyberprep** תורם את הזרם הנגדי האופטימי לסייברפאנק הדיסטופי, הרושם את העמדה שטכנולוגיה מתקדמת ואינטגרציה עירונית-תרבותית נקייה ומשגשגת תואמות ולא מנוגדות. **Post-Cyberpunk** תורם את הבגרות הספרותית-קונספטואלית הרושמת התפתחות טכנולוגית ללא מחויבויות דיסטופיות או אוטופיות פשוטות, עם תשומת לב מהותית לטרנספורמציות שטכנולוגיה מתקדמת מפיקה בסידורים חברתיים-כלכליים-תרבותיים. **Solarpunk** תורם את המחויבות האקולוגית-אוטופית, את תשומת הלב המהותית להרמוניה סביבתית, ואת אוצר המילים החזותי-אסתטי של דו-קיום משולב בין טבע לטכנולוגיה. הסייברפרדיזם מרחיב את התנועות-הקודמות העיקריות הללו באמצעות תשומת לב ספציפית ל**טרנספורמציה של עקרונות כלכליים ודינמיקות עבודה** שטכנולוגיה מתקדמת מפיקה — הארגון מחדש של עדיפויות אנושיות-ציוויליזציוניות לאחר-המחסור הרחק מדאגות הישרדות-חומרית לעבר חתירות גבוהות יותר במדע, טכנולוגיה, ציוויליזציה, ומעורבות קוסמית רחבה יותר.
 
-Visually, Cyberparadism operates through specific aesthetic-formal commitments. **Architecture** integrates minimalist sleek lines with organic-natural elements, producing structures that appear as extensions of their environments rather than as impositions upon them; geometric forms (spheres, domes, hexagons) recur as principal elements that register both technological sophistication and natural-pattern resonance. **Color palettes** draw on aerospace orange, teal, aquamarine, and the broader oceanic-cosmic spectrum, evoking simultaneously the depth of natural environments and the clarity of advanced technological systems. **Settings** range from Earth-based ecologically-integrated communities (forest-embedded settlements, coastal-cliff developments, urban pods integrated with restored ecosystems) to extraterrestrial frontier habitats (terraforming-active planetary surfaces, biodome installations, space-station environments operating in continuity with the originating Earth-based aesthetic). **Atmosphere** prioritizes serenity, exploration, abundance, and collective purpose over the agitation, isolation, and scarcity that characterize the dystopian counter-aesthetics.
+חזותית, הסייברפרדיזם פועל באמצעות מחויבויות אסתטיות-צורניות ספציפיות. **אדריכלות** משלבת קווים נקיים מינימליסטיים עם אלמנטים אורגניים-טבעיים, ומפיקה מבנים הנראים כהמשכים של סביבותיהם ולא כהשתלטויות עליהן; צורות גיאומטריות (כדורים, כיפות, משושים) חוזרות כאלמנטים עיקריים הרושמים הן תחכום טכנולוגי והן הדהוד עם דפוסים טבעיים. **לוחות צבעים** נשענים על כתום אווירונאוטי, טורקיז, אקוומרין, והספקטרום האוקייני-קוסמי הרחב יותר, ומעוררים בו-זמנית הן את עומק הסביבות הטבעיות והן את הבהירות של מערכות טכנולוגיות מתקדמות. **תפאורות** נעות מקהילות יבשתיות משולבות-אקולוגית (יישובים משולבים-יער, פיתוחי צוקים-חוף, תאים עירוניים משולבים עם מערכות אקולוגיות משוקמות) ועד בתי-גידול בגבול חוץ-ארצי (משטחי כוכבי לכת בטראפורמינג פעיל, מתקני ביו-כיפות, סביבות תחנות חלל הפועלות ברציפות עם האסתטיקה היבשתית המקורית). **אווירה** מעדיפה שלווה, חקירה, שפע, ומטרה קולקטיבית על פני הסערה, הבידוד, והמחסור המאפיינים את האסתטיקות-הנגד הדיסטופיות.
 
-Within the **Wheel of Heaven framework**, Cyberparadism registers as the contemporary aesthetic-cultural articulation that aligns substantively with the framework's specific historical-civilizational content. The framework reads three distinct corpus-internal phenomena as substantively Cyberparadist in character. The **Eden lab** — the originary alliance laboratory in which the early human population lived in integrated harmony with engineered biological systems and advanced alliance technology — operates as the actual historical Cyberparadism that contemporary aesthetic vision recovers as memory or anticipates as future. The **Planet of the Eternals** — the alliance home-world as Vorilhon's contact accounts describe it, with its substantial post-scarcity arrangement, advanced biological-technological integration, longevity, and harmonious organization — operates as the cosmic-civilizational Cyberparadism, the mature realization of the aesthetic's principles in actual operational form. The **Aquarian-age inheritance threshold** — the historical moment at which humanity matures into creating-civilization extending the alliance's work to other worlds — operates as the transition point at which Cyberparadism shifts from aesthetic vision to operational reality.
+בתוך {% wiki(slug="wheel-of-heaven") %}מסגרת »גלגל השמיים«{% end %}, הסייברפרדיזם נרשם כניסוח האסתטי-תרבותי בן זמננו המתיישר מהותית עם התוכן ההיסטורי-ציוויליזציוני הספציפי של המסגרת. המסגרת קוראת שלוש תופעות פנים-קורפוסיות נבדלות כסייברפרדיסטיות באופיין מהותית. **מעבדת עדן** — מעבדת הברית המקורית שבה אוכלוסיית בני האדם המוקדמת חיה בהרמוניה משולבת עם מערכות ביולוגיות מהונדסות וטכנולוגיית ברית מתקדמת — פועלת כסייברפרדיזם ההיסטורי בפועל שהחזון האסתטי בן זמננו משיב כזיכרון או מצפה אליו כעתיד. **כוכב הלכת של הנצחיים** — עולם הבית של הברית כפי שתיאורי-המגע של וורילון מתארים אותו{{ cite(id="les-extra-terrestres-m-ont-emmen-sur-leur-plan-te", text="[2]", title="וורילון, Les Extra-Terrestres m'ont emmené sur leur planète, 1975 — מקור תיאור-המגע לכוכב הלכת של הנצחיים") }}, עם הסידור המהותי שלו של אחרי-המחסור, האינטגרציה הביולוגית-טכנולוגית המתקדמת, אריכות הימים, והארגון ההרמוני — פועל כסייברפרדיזם הקוסמי-ציוויליזציוני, המימוש הבוגר של עקרונות האסתטיקה בצורה תפעולית בפועל. **סף הירושה של עידן הדלי** — הרגע ההיסטורי שבו האנושות מבשילה לציוויליזציה-יוצרת המרחיבה את עבודת הברית לעולמות אחרים — פועל כנקודת המעבר שבה הסייברפרדיזם עובר מחזון אסתטי למציאות תפעולית.
 
-The framework therefore reads Cyberparadism not principally as speculative future-vision (which is how the aesthetic generally registers in contemporary cultural discourse) but as recovered-and-anticipated reality: the aesthetic preserves cultural memory of the originary alliance project (Eden), articulates intuitive recognition of the cosmic-civilizational reality the alliance occupies (the Planet of the Eternals), and projects forward toward the inheritance moment the framework reads as operationally imminent (the Aquarian-age maturation). The substantive alignment between the contemporary aesthetic and the framework's specific content registers as evidence for the broader doubled-signature principle — the corpus's reading that Aquarian-age cultural production registers substantive alignment with the framework's underlying historical-civilizational reality.
+המסגרת קוראת אפוא את הסייברפרדיזם לא בעיקרון כחזון-עתיד ספקולטיבי (שזה איך שהאסתטיקה נרשמת בדרך כלל בשיח התרבותי בן זמננו) אלא כמציאות משובה-ומצופה: האסתטיקה משמרת זיכרון תרבותי של פרויקט הברית המקורי (עדן), מנסחת הכרה אינטואיטיבית של המציאות הקוסמית-ציוויליזציונית שהברית תופסת (כוכב הלכת של הנצחיים), ומשליכה קדימה לעבר רגע הירושה שהמסגרת קוראת כתפעולית קרובה (ההבשלה של עידן הדלי). ההתאמה המהותית בין האסתטיקה בת זמננו לתוכן הספציפי של המסגרת נרשמת כראיה לעיקרון {% wiki(slug="doubled-signature") %}החתימה הכפולה{% end %} הרחב יותר — הקריאה של הקורפוס שייצור תרבותי של עידן הדלי רושם התאמה מהותית עם המציאות ההיסטורית-ציוויליזציונית הבסיסית של המסגרת{{ footnote(id="doubled-signature-application") }}.
 
-This entry articulates Cyberparadism as concept — its etymology, its formalization, its principles and signs, its visual vocabulary, its lineage within the broader contemporary aesthetic ecosystem, its application within the Wheel of Heaven corpus, and its substantive framework-alignment.
+מאמר זה מנסח את הסייברפרדיזם כמושג — את האטימולוגיה שלו, את הגיבוש שלו, את עקרונותיו וסימניו, את אוצר המילים החזותי שלו, את מורשתו במערכת האקולוגית האסתטית הרחבה יותר בת זמננו, את היישום שלו בקורפוס »גלגל השמיים«, ואת ההתאמה המהותית שלו למסגרת.
 
-## Etymology and naming
+## אטימולוגיה ומתן שם
 
-The term *Cyberparadism* combines three principal etymological components.
+המונח *סייברפרדיזם* משלב שלושה רכיבים אטימולוגיים עיקריים.
 
-### "Cyber-"
+### »סייבר-«
 
-The prefix **cyber-** derives from the Greek κυβερνήτης (*kybernētēs*, "steersman, governor, pilot"), with substantial subsequent semantic development through the Latin *gubernator* and the broader Western technical-vocabulary tradition. The prefix entered modern usage principally through **Norbert Wiener**'s foundational *Cybernetics: Or Control and Communication in the Animal and the Machine* (MIT Press, 1948), which established cybernetics as the scientific study of regulatory and communicative systems. Subsequent semantic development extended the prefix to designate the broader landscape of advanced computational-technological systems — *cyberspace* (William Gibson, *Neuromancer*, 1984), *cyborg* (Manfred Clynes and Nathan Kline, 1960), *cybernetic*, *cyberpunk*, and the broader contemporary cultural-technological vocabulary.
+התחילית **סייבר-** נגזרת מהיוונית κυβερνήτης (*kybernētēs*, »הגאי, מנהיג, טייס«), עם התפתחות סמנטית מהותית שלאחר מכן דרך הלטינית *gubernator* ומסורת אוצר המילים הטכני-מערבית הרחבה יותר. התחילית נכנסה לשימוש המודרני בעיקרון דרך *Cybernetics: Or Control and Communication in the Animal and the Machine* היסודי של **נורברט ויינר** (MIT Press, 1948){{ cite(id="wiener-cybernetics", text="[3]", title="Wiener, Cybernetics, 1948 — הטקסט היסודי לתחילית cyber-") }}, אשר ביסס את הקיברנטיקה כמחקר המדעי של מערכות רגולטוריות ותקשורתיות. ההתפתחות הסמנטית שלאחר מכן הרחיבה את התחילית לציון הנוף הרחב יותר של מערכות חישוביות-טכנולוגיות מתקדמות — *cyberspace* (ויליאם גיבסון, *Neuromancer*, 1984){{ cite(id="gibson-neuromancer", text="[4]", title="Gibson, Neuromancer, 1984 — הטבעת המונח cyberspace") }}, *cyborg* (מנפרד קלינס ונייתן קליין, 1960), *cybernetic*, *cyberpunk*, ואוצר המילים התרבותי-טכנולוגי הרחב יותר בן זמננו.
 
-The cyber-prefix in *Cyberparadism* registers principally the advanced-technology dimension of the aesthetic — the prefix designates the technological-cybernetic register within which the aesthetic operates, with substantial connection to the broader *Cyber-* aesthetic family (Cyberpunk, Cyberprep, Cyber-noir, etc.).
+התחילית סייבר- ב*סייברפרדיזם* רושמת בעיקרון את ממד הטכנולוגיה המתקדמת של האסתטיקה — התחילית מציינת את המרשם הטכנולוגי-קיברנטי שבמסגרתו האסתטיקה פועלת, עם חיבור מהותי למשפחה האסתטית הרחבה יותר של *סייבר-* (Cyberpunk, Cyberprep, Cyber-noir וכו').
 
-### "Paradise" / "-paradism"
+### »פרדיס« / »-פרדיזם«
 
-The component **paradise** derives ultimately from the Old Persian 𐎱𐎼𐎭𐎹𐎭𐎠𐎶 (*paridaida*, "walled enclosure"; cognate with Avestan *pairi-daēza*, "enclosed garden"), through Greek παράδεισος (*paradeisos*, "park, garden, paradise"), Latin *paradisus*, and the broader Western religious-cultural tradition. The Greek *paradeisos* originally designated the enclosed pleasure-gardens of Persian royalty; the term acquired theological-religious content through the Septuagint translation of the Hebrew גַּן עֵדֶן (*Gan Eden*, "Garden of Eden") as ὁ παράδεισος (*ho paradeisos*) in Genesis 2:8, after which "paradise" entered substantial Western religious-cultural usage as designation for the Edenic state, the post-mortem heavenly state, and the broader theological-eschatological paradisal content.
+הרכיב **פרדיס** נגזר בסופו של דבר מהפרסית העתיקה 𐎱𐎼𐎭𐎹𐎭𐎠𐎶 (*paridaida*, »מתחם מוקף חומה«; קוגננט עם *pairi-daēza* האווסטית, »גן מוקף«), דרך היוונית παράδεισος (*paradeisos*, »פארק, גן, פרדיס«), הלטינית *paradisus*, והמסורת הדתית-תרבותית המערבית הרחבה יותר. ה-*paradeisos* היווני יועד במקור לגינות העונג המוקפות של מלכי פרס; המונח רכש תוכן תיאולוגי-דתי דרך תרגום השבעים של העברית גַּן עֵדֶן (*Gan Eden*, »גן עדן«) כ-ὁ παράδεισος (*ho paradeisos*) ב{% libref(book="genesis-woh", chapter=2, verse=8) %}בראשית ב:8{% end %}{{ footnote(id="lxx-paradeisos") }}, ולאחריו »פרדיס« נכנס לשימוש דתי-תרבותי מערבי מהותי כייעוד למצב הגן-עדני, למצב השמיימי שלאחר-המוות, ולתוכן הפרדיסי התיאולוגי-אסכטולוגי הרחב יותר.
 
-The *-paradism* suffix in *Cyberparadism* operates as substantive English construction — combining "paradise" with the *-ism* suffix designating ideological-aesthetic-cultural movements. The combination produces the meaning "the aesthetic / ideology of paradise" with the cyber-prefix specifying the technological-cybernetic character of the paradise envisioned.
+הסיומת *-פרדיזם* ב*סייברפרדיזם* פועלת כצירוף אנגלי מהותי — משלבת »פרדיס« עם הסיומת *-יזם* המייעדת תנועות אידיאולוגיות-אסתטיות-תרבותיות. השילוב מפיק את המשמעות »האסתטיקה / האידיאולוגיה של הפרדיס« עם התחילית סייבר- המפרטת את האופי הטכנולוגי-קיברנטי של הפרדיס המדומיין.
 
-### "-ism"
+### »-יזם«
 
-The **-ism** suffix derives ultimately from the Greek -ισμός (*-ismos*), through Latin *-ismus*, and the broader Western academic-cultural vocabulary tradition. The suffix designates ideological-aesthetic-cultural movements, philosophical-conceptual positions, and broader systematic frameworks (idealism, realism, capitalism, romanticism, modernism, post-modernism, etc.). The *-ism* suffix in *Cyberparadism* registers the aesthetic as substantive ideological-cultural movement rather than as merely descriptive category.
+הסיומת **-יזם** נגזרת בסופו של דבר מהיוונית -ισμός (*-ismos*), דרך הלטינית *-ismus*, ומסורת אוצר המילים האקדמית-תרבותית המערבית הרחבה יותר. הסיומת מייעדת תנועות אידיאולוגיות-אסתטיות-תרבותיות, עמדות פילוסופיות-קונספטואליות, ומסגרות שיטתיות רחבות יותר (אידיאליזם, ריאליזם, קפיטליזם, רומנטיציזם, מודרניזם, פוסט-מודרניזם וכו'). הסיומת *-יזם* ב*סייברפרדיזם* רושמת את האסתטיקה כתנועה אידיאולוגית-תרבותית מהותית ולא כקטגוריה תיאורית בלבד.
 
-### The composite meaning
+### המשמעות המורכבת
 
-The composite term *Cyberparadism* therefore registers as **the aesthetic-cultural movement of cybernetic paradise** — the systematic articulation of harmonious technological-natural integration as both visual-aesthetic vocabulary and broader cultural-philosophical commitment. The *Cyberparadism Manifesto* registers alternative names — *Cyber Paradise*, *Cybergenesis*, *Neogenesis* — that emphasize different aspects of the broader composite content, with *Cyber Paradise* emphasizing the spatial-locational dimension, *Cybergenesis* the originary-creative dimension, and *Neogenesis* the new-beginning-renewal dimension.
+המונח המורכב *סייברפרדיזם* נרשם אפוא כ**תנועה האסתטית-תרבותית של הפרדיס הקיברנטי** — הניסוח השיטתי של אינטגרציה הרמונית טכנולוגית-טבעית הן כאוצר מילים חזותי-אסתטי והן כמחויבות תרבותית-פילוסופית רחבה יותר. »מניפסט הסייברפרדיזם« רושם שמות חלופיים — *Cyber Paradise*, *Cybergenesis*, *Neogenesis* — המדגישים היבטים שונים של התוכן המורכב הרחב יותר, כאשר *Cyber Paradise* מדגיש את הממד המרחבי-מיקומי, *Cybergenesis* את הממד היצירתי-המקורי, ו-*Neogenesis* את ממד ההתחלה-החדשה-וההתחדשות.
 
-### Corpus-internal usage
+### שימוש פנים-קורפוסי
 
-The Wheel of Heaven corpus uses **Cyberparadism** as the principal designation, with **the Cyberparadist aesthetic** for descriptive contexts and **Cyberparadist** as the adjectival form. The capitalization registers the proper-noun cultural-movement specificity rather than generic descriptive category.
+הקורפוס »גלגל השמיים« משתמש ב**סייברפרדיזם** כייעוד העיקרי, עם **האסתטיקה הסייברפרדיסטית** להקשרים תיאוריים ו**סייברפרדיסטי** כצורה התואר. השימוש באות גדולה (באנגלית) רושם את הספציפיות של תנועה-תרבותית בשם פרטי ולא קטגוריה תיאורית גנרית.
 
-## Formalization and principal articulation
+## גיבוש וניסוח עיקרי
 
-Cyberparadism was formalized through two principal venues: the Aesthetics Wiki entry (the origin platform) and the subsequent Cyberparadism Manifesto (the systematic articulation).
+הסייברפרדיזם גובש דרך שתי זירות עיקריות: ערך Aesthetics Wiki (פלטפורמת המקור) ו»מניפסט הסייברפרדיזם« שלאחר מכן (הניסוח השיטתי).
 
-### The Aesthetics Wiki origin
+### המקור של Aesthetics Wiki
 
-The **Aesthetics Wiki** (at aesthetics.fandom.com) is the principal contemporary online platform for the systematic articulation of internet-cultural aesthetics. The platform operates through community contributor editing, with substantial entries documenting the visual-cultural vocabulary, principal sources, lineage relationships, and characteristic features of dozens of contemporary aesthetic-cultural movements (Cottagecore, Dark Academia, Vaporwave, Solarpunk, Cyberpunk, Cyberprep, Atompunk, and many others). The platform's substantive cultural function operates as systematic-encyclopedic articulation of the contemporary aesthetic landscape.
+ה-**Aesthetics Wiki** (ב-aesthetics.fandom.com) הוא הפלטפורמה המקוונת העיקרית בת זמננו לניסוח שיטתי של אסתטיקות תרבות-אינטרנט. הפלטפורמה פועלת באמצעות עריכת תורמים-קהילתית, עם ערכים מהותיים המתעדים את אוצר המילים החזותי-תרבותי, את המקורות העיקריים, את יחסי המורשת, ואת המאפיינים האופייניים של עשרות תנועות אסתטיות-תרבותיות בנות זמננו (Cottagecore, Dark Academia, Vaporwave, Solarpunk, Cyberpunk, Cyberprep, Atompunk ורבות אחרות). התפקיד התרבותי המהותי של הפלטפורמה פועל כניסוח שיטתי-אנציקלופדי של הנוף האסתטי בן זמננו.
 
-The Cyberparadism entry on the Aesthetics Wiki was the principal venue of the aesthetic's formalization. The platform's collaborative-editorial process produced the systematic articulation that subsequent engagements (including the *Cyberparadism Manifesto*) extend.
+ערך הסייברפרדיזם ב-Aesthetics Wiki היה הזירה העיקרית של גיבוש האסתטיקה{{ cite(id="aesthetics-wiki-cyberparadism", text="[5]", title="ערך Aesthetics Wiki על סייברפרדיזם — זירת המקור של גיבוש האסתטיקה") }}. תהליך העריכה השיתופי-קהילתי של הפלטפורמה הפיק את הניסוח השיטתי שמעורבויות שלאחר מכן (כולל »מניפסט הסייברפרדיזם«) מרחיבות.
 
-### The Cyberparadism Manifesto
+### מניפסט הסייברפרדיזם
 
-The **Cyberparadism Manifesto** (2023; principal location github.com/zarazinsfuss/cyberparadism-manifesto; subsequent web presence zarazinsfuss.github.io/cyberparadism) operates as the principal systematic articulation of the aesthetic. The manifesto opens with an Alan Kay epigraph — *"The best way to predict the future is to invent it"* — that registers the manifesto's specific orientation: not principally prediction or speculation but active cultural-aesthetic invention oriented toward operational realization.
+ה-**מניפסט הסייברפרדיזם** (2023; מיקום עיקרי github.com/zarazinsfuss/cyberparadism-manifesto; נוכחות אינטרנט שלאחר מכן zarazinsfuss.github.io/cyberparadism) פועל כניסוח השיטתי העיקרי של האסתטיקה. המניפסט נפתח בכותרת משנה של אלן קיי — *»הדרך הטובה ביותר לחזות את העתיד היא להמציא אותו«* — הרושמת את האוריינטציה הספציפית של המניפסט: לא בעיקרון תחזית או ספקולציה אלא המצאה אסתטית-תרבותית פעילה המכוונת למימוש תפעולי.
 
-The manifesto's central articulation:
+הניסוח המרכזי של המניפסט:
 
-> *"Cyberparadism is an aesthetic that celebrates the positive potential of technology and scientific progress to create a better future for humanity. At its core, Cyberparadism is about using technology to enhance the human experience, promote sustainability, and foster a sense of collective purpose and responsibility... Cyberparadism offers a compelling vision of a future where technology and nature coexist in harmony, where abundance and prosperity are available to all, and where the human experience is enhanced by the responsible use of technology."*
+> *»סייברפרדיזם הוא אסתטיקה החוגגת את הפוטנציאל החיובי של טכנולוגיה והתקדמות מדעית ליצור עתיד טוב יותר עבור האנושות. בליבתו, הסייברפרדיזם עוסק בשימוש בטכנולוגיה כדי לשפר את החוויה האנושית, לקדם קיימות, ולטפח תחושת מטרה ואחריות קולקטיבית... הסייברפרדיזם מציע חזון משכנע של עתיד שבו טכנולוגיה וטבע מתקיימים יחד בהרמוניה, שבו שפע ושגשוג זמינים לכולם, ושבו החוויה האנושית מועצמת על ידי שימוש אחראי בטכנולוגיה.«*
 
-The manifesto is explicit about its scope: *"This is not a political or economical manifesto. It serves the purpose to declare the aesthetical principles of Cyberparadism and its derivates."* The aesthetic-rather-than-political registration matters for the movement's character — Cyberparadism operates principally as visual-conceptual articulation and inspirational orientation rather than as programmatic political-economic prescription.
+המניפסט מפורש לגבי טווחו: *»זהו אינו מניפסט פוליטי או כלכלי. הוא משרת את המטרה להצהיר על העקרונות האסתטיים של הסייברפרדיזם ונגזרותיו.«* הרישום כאסתטי-ולא-פוליטי משמעותי לאופי התנועה — הסייברפרדיזם פועל בעיקרון כניסוח חזותי-קונספטואלי ואוריינטציה השראתית ולא כמרשם פוליטי-כלכלי תוכניתי.
 
-### The Eight Laws of Cyberparadism
+### שמונת חוקי הסייברפרדיזם
 
-The manifesto articulates the aesthetic through eight principal Laws, each registering a constitutive principle:
+המניפסט מנסח את האסתטיקה באמצעות שמונה חוקים עיקריים, כל אחד רושם עיקרון מכונן{{ footnote(id="eight-laws-non-hierarchy") }}:
 
-**1. The Law of Abundance.** *"Cyberparadism is founded on the belief that technology can be a powerful catalyst for abundance and prosperity. We strive to employ technology in ways that enhance human experiences, and promote social and economic equality, envisioning a future where scarcity is replaced by abundance for all."* The Law positions the aesthetic against scarcity-economics framings, registering the post-scarcity orientation as foundational commitment.
+**1. חוק השפע.** *»סייברפרדיזם מבוסס על האמונה שטכנולוגיה יכולה להיות זרז עוצמתי לשפע ולשגשוג. אנו שואפים להעסיק טכנולוגיה באופנים המשפרים חוויות אנושיות, ומקדמים שוויון חברתי וכלכלי, מדמיינים עתיד שבו המחסור מוחלף בשפע לכולם.«* החוק ממקם את האסתטיקה כנגד מסגורים של כלכלת-מחסור, רושם את האוריינטציה של אחרי-המחסור כמחויבות יסודית.
 
-**2. The Law of Equity.** *"In Cyberparadism, we uphold the principle of equity. We assert that the benefits of technology should be accessible to all, ensuring basic necessities and the advantages of progress are equitably distributed. While we value recognition and reward for individual achievements, we insist that everyone's fundamental needs are satisfied, guaranteeing a baseline standard of living and well-being."* The Law registers Cyberparadism's commitment to baseline-universal access while preserving individual-achievement recognition — distinguishing the aesthetic from both pure-egalitarian and pure-meritocratic framings.
+**2. חוק השוויון.** *»בסייברפרדיזם, אנו תומכים בעיקרון השוויון. אנו טוענים שיתרונות הטכנולוגיה צריכים להיות נגישים לכל, ומבטיחים שצרכים בסיסיים ויתרונות ההתקדמות מחולקים באופן הוגן. אף שאנו מעריכים הכרה ותגמול עבור הישגים אישיים, אנו עומדים על כך שצרכיו היסודיים של כל אדם מסופקים, מבטיחים סטנדרט בסיסי של חיים ורווחה.«* החוק רושם את מחויבות הסייברפרדיזם לגישה אוניברסלית-בסיסית תוך שימור הכרה בהישגים אישיים — מבדיל את האסתטיקה הן ממסגורים טהורי-שוויוניים והן ממסגורים טהורי-מריטוקרטיים.
 
-**3. The Law of Freedom.** *"Cyberparadism fervently advocates for freedom of thought, creativity, and self-expression. We envision a future where technology empowers individuals, fosters diversity of thought, and promotes the free exchange of ideas. We are committed to safeguarding privacy and personal autonomy in this technologically interconnected world."* The Law registers the aesthetic's specific position vis-à-vis surveillance-capitalism and authoritarian-technological framings, emphasizing privacy-and-autonomy preservation as core commitment.
+**3. חוק החופש.** *»סייברפרדיזם תומך בלהט בחופש המחשבה, היצירתיות, וההבעה העצמית. אנו מדמיינים עתיד שבו טכנולוגיה מעצימה אנשים, מטפחת מגוון של מחשבות, ומקדמת חילופי רעיונות חופשיים. אנו מחויבים לשמירה על פרטיות ואוטונומיה אישית בעולם המקושר טכנולוגית.«* החוק רושם את העמדה הספציפית של האסתטיקה ביחס לקפיטליזם-מעקב ולמסגורים טכנולוגיים-סמכותניים, ומדגיש את שימור הפרטיות-והאוטונומיה כמחויבות ליבה.
 
-**4. The Law of Harmony.** *"At the heart of Cyberparadism is the aspiration to achieve harmony between technology and nature. We strive for a world where these two forces coexist peacefully and complement each other, rather than being in conflict, promoting a future where tech-enhanced life is integrated seamlessly with the natural world."* The Law registers the aesthetic's signature commitment — the harmonious integration that distinguishes Cyberparadism from both pure-technological (which sacrifices nature) and pure-naturalist (which sacrifices technology) framings.
+**4. חוק ההרמוניה.** *»בלב הסייברפרדיזם נמצא השאיפה להשיג הרמוניה בין טכנולוגיה לטבע. אנו שואפים לעולם שבו שני הכוחות הללו מתקיימים יחד בשלום ומשלימים זה את זה, ולא בקונפליקט, מקדמים עתיד שבו חיים טכנולוגיים-משופרים משולבים בצורה חלקה עם העולם הטבעי.«* החוק רושם את מחויבות החתימה של האסתטיקה — האינטגרציה ההרמונית המבדילה את הסייברפרדיזם הן ממסגורים טכנולוגיים-טהורים (המקריבים את הטבע) והן ממסגורים טבעניים-טהורים (המקריבים את הטכנולוגיה).
 
-**5. The Law of Preservation.** *"Cyberparadism upholds the importance of environmental preservation and biodiversity. We encourage technological innovations that respect and preserve the planet's diverse ecosystems, promoting a delicate balance between technological advancement and conservation, ensuring a sustainable future for all life."* The Law extends the harmony commitment specifically to ecological preservation, registering the aesthetic's substantive ecological orientation.
+**5. חוק השימור.** *»סייברפרדיזם תומך בחשיבות של שימור סביבתי ומגוון ביולוגי. אנו מעודדים חדשנות טכנולוגית המכבדת ומשמרת את המערכות האקולוגיות המגוונות של כדור הארץ, ומקדמת איזון עדין בין התקדמות טכנולוגית לשימור, מבטיחה עתיד בר-קיימא לכל החיים.«* החוק מרחיב את מחויבות ההרמוניה ספציפית לשימור אקולוגי, ורושם את האוריינטציה האקולוגית המהותית של האסתטיקה.
 
-**6. The Law of Recognition.** *"Cyberparadism promotes the principle of recognizing and rewarding individual achievements and contributions. We believe in an inclusive future where opportunities facilitated by technology are open to all, and the fruits of these efforts are shared based on the merit of each contribution, fostering an environment of fairness and continuous growth."* The Law operates as paired complement to the Law of Equity, registering individual-achievement recognition as compatible with universal-baseline access.
+**6. חוק ההכרה.** *»סייברפרדיזם מקדם את העיקרון של הכרה ותגמול הישגים ותרומות אישיים. אנו מאמינים בעתיד מכליל שבו הזדמנויות המאופשרות על ידי טכנולוגיה פתוחות לכולם, ופירות המאמצים הללו מתחלקים על בסיס הזכות של כל תרומה, ומטפחים סביבה של הוגנות וצמיחה מתמשכת.«* החוק פועל כמשלים זוגי לחוק השוויון, רושם הכרה בהישגים אישיים כתואמת לגישה אוניברסלית-בסיסית.
 
-**7. The Law of Responsibility.** *"Cyberparadism emphasizes the profound responsibility that comes with great technological power. We insist on responsible and thoughtful use of technology, with deep respect for the natural world and the needs of communities. We champion conscientious technological development that is mindful of its impacts on the environment and society."* The Law registers the aesthetic's specific position against techno-utopian-irresponsibility framings, emphasizing the substantive ethical-political weight that advanced technological capacity carries.
+**7. חוק האחריות.** *»סייברפרדיזם מדגיש את האחריות העמוקה המגיעה עם כוח טכנולוגי גדול. אנו עומדים על שימוש אחראי ומחושב בטכנולוגיה, עם כבוד עמוק לעולם הטבעי ולצרכי הקהילות. אנו דוגלים בפיתוח טכנולוגי מצפוני המודע להשפעותיו על הסביבה ועל החברה.«* החוק רושם את העמדה הספציפית של האסתטיקה כנגד מסגורי טכנו-אוטופיה-חסרת-אחריות, ומדגיש את המשקל האתי-פוליטי המהותי שיכולת טכנולוגית מתקדמת נושאת.
 
-**8. The Law of Simplicity.** *"Simplicity and minimalism are core values in Cyberparadism. We seek to design and create technologies that are easy to use and understand, embracing the principle that technology should simplify life, not complicate it. We strive for solutions that are elegant in their simplicity, yet powerful in their impact."* The Law registers the aesthetic's specific design-philosophy commitment — minimalism as constitutive aesthetic-functional principle rather than as merely stylistic preference.
+**8. חוק הפשטות.** *»פשטות ומינימליזם הם ערכי ליבה בסייברפרדיזם. אנו שואפים לעצב וליצור טכנולוגיות שקלות לשימוש ולהבנה, ומאמצים את העיקרון שטכנולוגיה צריכה לפשט את החיים, לא לסבך אותם. אנו שואפים לפתרונות אלגנטיים בפשטותם, אך עוצמתיים בהשפעתם.«* החוק רושם את מחויבות פילוסופיית-העיצוב הספציפית של האסתטיקה — מינימליזם כעיקרון אסתטי-פונקציונלי מכונן ולא כהעדפה סגנונית בלבד.
 
-The manifesto articulates the Laws explicitly as non-hierarchical: *"They are not hierarchical in nature, but rather complementary facets of a whole, each shedding light on a different aspect of our shared vision... The balance and harmony among these Laws is key to achieving the ideal we strive for."*
+המניפסט מנסח את החוקים במפורש כלא-היררכיים: *»הם אינם היררכיים באופיים, אלא היבטים משלימים של שלם, כשכל אחד שופך אור על היבט שונה של החזון המשותף שלנו... האיזון וההרמוניה בין החוקים הללו הם מפתח להשגת האידיאל שאליו אנו שואפים.«*
 
-### The Six Signs of Cyberparadism
+### שישה הסימנים של הסייברפרדיזם
 
-The manifesto articulates six principal Signs — specific technological developments that operate as concrete manifestations of the aesthetic's principles:
+המניפסט מנסח שישה סימנים עיקריים — התפתחויות טכנולוגיות ספציפיות הפועלות כביטויים קונקרטיים של עקרונות האסתטיקה:
 
-**1. Fusion energy** — registered as "the holy grail of clean and abundant energy"; operates as the energy-foundation enabling the broader post-scarcity reorganization the aesthetic envisions.
+**1. אנרגיית היתוך** — נרשמת כ»הגביע הקדוש של אנרגיה נקייה ושופעת«; פועלת כיסוד האנרגטי המאפשר את הארגון מחדש הרחב יותר של אחרי-המחסור שהאסתטיקה מדמיינת.
 
-**2. Anti-gravity technology** — registered as theoretical-speculative technology that would enable sustainable space travel without massive fuel-consumption requirements; operates as the cosmic-mobility dimension of the aesthetic.
+**2. טכנולוגיית אנטי-גרביטציה** — נרשמת כטכנולוגיה תיאורטית-ספקולטיבית שתאפשר נסיעה בחלל בת-קיימא ללא דרישות צריכת-דלק מסיביות; פועלת כממד הניידות הקוסמית של האסתטיקה.
 
-**3. Synthetic life engineering** — registered as ethical-responsible engineering of synthetic life-forms for sustainable agriculture, genetic preservation, pharmaceutical development, ecological restoration; operates as the biological-technological integration dimension of the aesthetic.
+**3. הנדסת חיים סינתטיים** — נרשמת כהנדסה אתית-אחראית של צורות-חיים סינתטיות לחקלאות בת-קיימא, שימור גנטי, פיתוח תרופות, שיקום אקולוגי; פועלת כממד האינטגרציה הביולוגית-טכנולוגית של האסתטיקה.
 
-**4. Terraforming** — registered as deliberate modification of planetary environments for habitability; operates as the cosmic-frontier dimension of the aesthetic, extending the harmonious-integration principle beyond Earth.
+**4. טראפורמינג** — נרשם כשינוי מכוון של סביבות פלנטריות לצורכי מגוריות; פועל כממד הקוסמי-ספר של האסתטיקה, מרחיב את עיקרון האינטגרציה ההרמונית מעבר לכדור הארץ.
 
-**5. Full automation** — registered as advanced robotic-AI systems streamlining manufacturing while minimizing human labor; operates as the labor-transformation dimension that enables higher-pursuit reorientation.
+**5. אוטומציה מלאה** — נרשמת כמערכות רובוטיות-AI מתקדמות המייעלות את הייצור תוך מזעור עבודה אנושית; פועלת כממד טרנספורמציית העבודה המאפשר אוריינטציה מחודשת לחתירות גבוהות יותר.
 
-**6. Open source collaboration** — registered as the social-organizational dimension supporting innovation, inclusivity, collective problem-solving, and the democratization of technology; operates as the cultural-political dimension complementing the technological dimensions.
+**6. שיתוף פעולה בקוד פתוח** — נרשם כממד החברתי-ארגוני התומך בחדשנות, הכלה, פתרון בעיות קולקטיבי, ודמוקרטיזציה של הטכנולוגיה; פועל כממד התרבותי-פוליטי המשלים את הממדים הטכנולוגיים.
 
-The Signs operate as concrete-operational manifestations of the abstract Laws — together producing the aesthetic's substantive cultural-conceptual content.
+הסימנים פועלים כביטויים קונקרטיים-תפעוליים של החוקים המופשטים — יחד מפיקים את התוכן התרבותי-קונספטואלי המהותי של האסתטיקה.
 
-### The Techno-Optimist Manifesto resonance
+### הדהוד של מניפסט הטכנו-אופטימיסט
 
-The Cyberparadism Manifesto registers substantive resonance with **Marc Andreessen**'s *Techno-Optimist Manifesto* (October 16, 2023), published shortly after the principal Cyberparadism Manifesto articulation. The substantial Andreessen articulation — registering technology as principal driver of growth, progress, and human-flourishing improvement — operates substantively in the same broader cultural-conceptual space as Cyberparadism. The Cyberparadism Manifesto explicitly notes the substantial resonance: *"very reminiscent of the Cyberparadism Manifesto. Go check it out."*
+מניפסט הסייברפרדיזם רושם הדהוד מהותי עם **מניפסט הטכנו-אופטימיסט** של **מארק אנדריסן** (16 באוקטובר 2023){{ cite(id="the-techno-optimist-manifesto", text="[6]", title="Andreessen, The Techno-Optimist Manifesto, 16 באוקטובר 2023") }}, שפורסם זמן קצר לאחר הניסוח העיקרי של מניפסט הסייברפרדיזם. הניסוח המהותי של אנדריסן — הרושם את הטכנולוגיה כמניע עיקרי של צמיחה, התקדמות, ושיפור פריחה אנושית — פועל מהותית באותו מרחב תרבותי-קונספטואלי רחב יותר כמו הסייברפרדיזם. מניפסט הסייברפרדיזם מציין במפורש את ההדהוד המהותי: *»מזכיר מאוד את מניפסט הסייברפרדיזם. כדאי לבדוק.«*{{ footnote(id="manifesto-andreessen-synchrony") }}
 
-The substantial parallel registers the broader contemporary cultural moment: the early 2020s emergence of explicit techno-optimistic articulations against the dominant techno-pessimism of the preceding period (post-2016 dystopian-Cyberpunk resurgence, the broader algorithmic-anxiety contemporary cultural framework, the substantial environmental-collapse anxiety landscape).
+ההקבלה המהותית רושמת את הרגע התרבותי הרחב יותר בן זמננו: עליית הניסוחים הטכנו-אופטימיים המפורשים בתחילת שנות ה-2020 כנגד הטכנו-פסימיזם השליט של התקופה הקודמת (תחיית הסייברפאנק הדיסטופי שלאחר 2016, מסגרת החרדה האלגוריתמית בת זמננו הרחבה יותר, נוף החרדה המהותית מקריסה סביבתית).
 
-## Visual vocabulary
+## אוצר מילים חזותי
 
-Cyberparadism operates through specific visual-aesthetic commitments that distinguish it from adjacent aesthetics.
+הסייברפרדיזם פועל באמצעות מחויבויות חזותיות-אסתטיות ספציפיות המבדילות אותו מאסתטיקות סמוכות.
 
-### Architecture and built environment
+### אדריכלות וסביבה בנויה
 
-Cyberparadist architecture integrates minimalist sleek-line design with organic-natural elements. Structures register as extensions of their environments rather than as impositions upon them. Geometric forms (spheres, domes, hexagons) recur as principal architectural elements — registering both technological sophistication and resonance with natural patterns (the substantial hexagonal patterns in honeycombs, the spherical forms in fruit and seed structures, the dome-forms in shells and biological enclosures).
+האדריכלות הסייברפרדיסטית משלבת עיצוב קווים-נקיים מינימליסטי עם אלמנטים אורגניים-טבעיים. מבנים נרשמים כהמשכים של סביבותיהם ולא כהשתלטויות עליהן. צורות גיאומטריות (כדורים, כיפות, משושים) חוזרות כאלמנטים אדריכליים עיקריים — רושמות הן תחכום טכנולוגי והן הדהוד עם דפוסים טבעיים (הדפוסים המשושים המהותיים בכוורות, הצורות הכדוריות במבני פירות וזרעים, צורות הכיפות בקונכיות ובמתחמים ביולוגיים).
 
-The substantial inspiration draws on multiple antecedent architectural-design traditions: the substantial **Buckminster Fuller** geodesic-architectural tradition (the substantial geodesic-dome work, the substantial Spaceship Earth concept that the manifesto references explicitly); the substantial **Frei Otto** lightweight-tensile architecture; the substantial Japanese metabolist movement (Kenzo Tange, Kisho Kurokawa, the substantial 1960s-70s biological-architectural metaphor work); contemporary **biomimetic architecture** (Janine Benyus's work, the substantial subsequent design-tradition); the substantial **arcology** tradition (Paolo Soleri's work).
+ההשראה המהותית נשענת על מסורות אדריכליות-עיצוביות קודמות מרובות: המסורת האדריכלית-גאודזית המהותית של **באקמינסטר פולר** (עבודת הגאודזה המהותית, רעיון »ספינת החלל ארץ« המהותי שהמניפסט מתייחס אליו במפורש){{ cite(id="fuller-spaceship-earth", text="[7]", title="Fuller, Operating Manual for Spaceship Earth, 1969") }}; האדריכלות הקלת-משקל-מתוחה המהותית של **פריי אוטו**{{ cite(id="otto-hangende-dach", text="[8]", title="Otto, Das Hängende Dach, 1954") }}; התנועה המטבוליסטית היפנית המהותית (קנזו טאנגה, קישו קורוקאווה, עבודת המטאפורה הביולוגית-אדריכלית המהותית של שנות ה-60-70); **האדריכלות הביומימטית** בת זמננו (עבודתה של ג'נין בנייוס, מסורת העיצוב המהותית שלאחר מכן){{ cite(id="benyus-biomimicry", text="[9]", title="Benyus, Biomimicry: Innovation Inspired by Nature, 1997") }}; מסורת ה-**ארקולוגיה** המהותית (עבודתו של פאולו סולרי){{ cite(id="soleri-arcology", text="[10]", title="Soleri, Arcology: The City in the Image of Man, 1969") }}.
 
-### Color palette
+### לוח צבעים
 
-The principal color palette draws on:
+לוח הצבעים העיקרי נשען על:
 
-- **Aerospace orange** (the substantial high-visibility orange used in aviation, space-exploration, and search-and-rescue contexts; functional-symbolic registration of advanced technological systems)
-- **Teal and aquamarine** (the substantial oceanic-cosmic spectrum; registration of natural-environmental depth and clarity)
-- **Sky blue** (the substantial atmospheric-aerial register)
-- **Bone white and warm grey** (the substantial minimalist-architectural register)
-- **Deep green** (the substantial vegetative-natural register)
-- **Solar gold** (the substantial sun-energy register)
+- **כתום אווירונאוטי** (הכתום בעל הנראות הגבוהה המהותי המשמש בהקשרי תעופה, חקר חלל וחיפוש-והצלה; רישום תפקודי-סמלי של מערכות טכנולוגיות מתקדמות)
+- **טורקיז ואקוומרין** (הספקטרום האוקייני-קוסמי המהותי; רישום של עומק וצלילות סביבתיים-טבעיים)
+- **כחול שמיים** (המרשם האטמוספרי-אווירי המהותי)
+- **לבן עצם ואפור חמים** (המרשם המינימליסטי-אדריכלי המהותי)
+- **ירוק עמוק** (המרשם הצמחי-טבעי המהותי)
+- **זהב שמש** (המרשם של אנרגיית-השמש)
 
-The palette operates substantively against the dominant Cyberpunk dark-neon-magenta palette and against the substantial Solarpunk earth-tones-warm-pastels palette, producing a distinctive Cyberparadist visual signature.
+הלוח פועל מהותית כנגד לוח הסייברפאנק השליט של כהה-ניאון-מג'נטה וכנגד לוח Solarpunk המהותי של גוונים-ארציים-פסטלים-חמים, ומפיק חתימה חזותית סייברפרדיסטית ייחודית.
 
-### Settings and atmosphere
+### תפאורות ואווירה
 
-Cyberparadist settings range across multiple distinctive registers:
+התפאורות הסייברפרדיסטיות נעות על פני מרשמים ייחודיים מרובים:
 
-**Earth-based ecologically-integrated communities**. Forest-embedded settlements, coastal-cliff developments, mountain-integrated installations, urban pods integrated with restored ecosystems. The substantial visual signature: human-scale architecture integrated with substantial restored natural environment, with technology operating as enhancement rather than as displacement of natural-environmental presence.
+**קהילות יבשתיות משולבות-אקולוגית**. יישובים משולבים-יער, פיתוחי צוקים-חוף, מתקנים משולבים-הר, תאים עירוניים משולבים עם מערכות אקולוגיות משוקמות. החתימה החזותית המהותית: אדריכלות בקנה מידה אנושי משולבת עם סביבה טבעית משוקמת מהותית, כאשר הטכנולוגיה פועלת כשיפור ולא כעקירה של נוכחות סביבתית-טבעית.
 
-**Frontier extraterrestrial habitats**. Terraforming-active planetary surfaces (the substantial Mars-or-similar planetary engineering aesthetic), biodome installations on lunar or planetary surfaces, space-station environments operating in continuity with Earth-based aesthetic principles. The substantial visual signature: cosmic-frontier extension of the broader aesthetic.
+**בתי-גידול חוץ-ארציים בגבול**. משטחי כוכבי לכת בטראפורמינג פעיל (האסתטיקה המהותית של הנדסת מאדים-או-דומה), מתקני ביו-כיפות על משטחים ירחיים או פלנטריים, סביבות תחנות חלל הפועלות ברציפות עם עקרונות אסתטיים יבשתיים. החתימה החזותית המהותית: הרחבה קוסמית-ספרית של האסתטיקה הרחבה יותר.
 
-**Coastal and oceanic environments**. The substantial oceanic-civilization aesthetic (the substantial floating-platform installations, the substantial subsea-biodome installations, the substantial water-integrated architecture); the substantial coastal-cliff developments; the substantial maritime-frontier registration.
+**סביבות חופיות ואוקייניות**. האסתטיקה המהותית של ציוויליזציה-אוקיינית (מתקני פלטפורמות-צפות מהותיים, מתקני ביו-כיפות תת-ימיים מהותיים, אדריכלות משולבת-מים מהותית); פיתוחי צוקים-חוף מהותיים; הרישום הימי-ספרי המהותי.
 
-**Atmospheric environments**. The substantial high-altitude installations (the substantial cloud-architecture, the substantial atmospheric-platform aesthetic); the substantial sky-civilization registration.
+**סביבות אטמוספריות**. המתקנים בגובה רב המהותיים (אדריכלות-עננים מהותית, האסתטיקה המהותית של פלטפורמות אטמוספריות); הרישום המהותי של ציוויליזציה-שמיים.
 
-The **atmosphere** prioritizes serenity, exploration, abundance, collective purpose, and operational-functional clarity over agitation, isolation, scarcity, and dystopian-anxiety registration. Cyberparadist visual production characteristically includes substantial natural-light elements, substantial vegetative-natural presence, substantial human-scale features, and substantial implicit registration of post-scarcity post-conflict cultural arrangements.
+ה**אווירה** מעדיפה שלווה, חקירה, שפע, מטרה קולקטיבית, ובהירות תפעולית-תפקודית על פני סערה, בידוד, מחסור, ורישום של חרדה דיסטופית. הייצור החזותי הסייברפרדיסטי כולל באופן מאפיין אלמנטים מהותיים של אור טבעי, נוכחות צמחית-טבעית מהותית, מאפיינים בקנה מידה אנושי מהותיים, ורישום מובלע מהותי של סידורים תרבותיים של אחרי-מחסור-ואחרי-קונפליקט.
 
-## Lineage and adjacent aesthetics
+## מורשת ואסתטיקות סמוכות
 
-Cyberparadism positions itself within the broader contemporary aesthetic-cultural ecosystem through specific relationships with antecedent and adjacent movements.
+הסייברפרדיזם ממקם את עצמו בתוך המערכת האקולוגית האסתטית-תרבותית הרחבה יותר בת זמננו דרך יחסים ספציפיים עם תנועות קודמות וסמוכות.
 
-### Cyberpunk — the dystopian foil
+### סייברפאנק — היריב הדיסטופי
 
-**Cyberpunk** — the principal late-twentieth-century dystopian-technological aesthetic articulated principally through **William Gibson**'s *Neuromancer* (1984), **Bruce Sterling**'s editorial work on *Mirrorshades* (1986), **Philip K. Dick**'s broader literary corpus, **Ridley Scott**'s *Blade Runner* (1982), and the substantial subsequent literary-cinematic-cultural production — operates as Cyberparadism's principal dystopian foil. Cyberpunk registers technology as instrument of corporate-authoritarian domination, environmental degradation, social atomization, and human-enhancement-as-violence. Cyberparadism operates substantively against this content while preserving the cybernetic-prefix and the broader cyber-aesthetic family resonance.
+**הסייברפאנק** — האסתטיקה הדיסטופית-טכנולוגית העיקרית של סוף המאה העשרים, מנוסחת בעיקרון דרך *Neuromancer* של **ויליאם גיבסון** (1984), עבודת העריכה של **ברוס סטרלינג** על *Mirrorshades* (1986), הקורפוס הספרותי הרחב יותר של **פיליפ ק. דיק**, *Blade Runner* של **רידלי סקוט** (1982), והייצור הספרותי-קולנועי-תרבותי המהותי שלאחר מכן{{ footnote(id="cyberpunk-mirrorshades-origin") }} — פועל כיריב הדיסטופי העיקרי של הסייברפרדיזם. הסייברפאנק רושם את הטכנולוגיה ככלי לשליטה תאגידית-סמכותנית, להידרדרות סביבתית, לאטומיזציה חברתית, ולשיפור-אדם-כאלימות. הסייברפרדיזם פועל מהותית כנגד תוכן זה תוך שימור התחילית הקיברנטית וההדהוד המשפחתי הרחב של האסתטיקה הסייבר-.
 
-### Cyberprep — the optimistic counter-current
+### Cyberprep — הזרם הנגדי האופטימי
 
-**Cyberprep** operates as the substantial optimistic counter-current to Cyberpunk, registering advanced technology and prosperous-clean urban-cultural integration as compatible rather than oppositional. Cyberprep emerged principally through subreddit and aesthetic-community articulation in the 2010s-early 2020s, with substantial visual-cultural production registering bright-clean technological integration. Cyberparadism extends Cyberprep through specific ecological-environmental commitment (which Cyberprep does not principally engage) and through the substantial post-scarcity-economic-transformation dimension.
+**Cyberprep** פועל כזרם הנגדי האופטימי המהותי לסייברפאנק, ורושם טכנולוגיה מתקדמת ואינטגרציה עירונית-תרבותית משגשגת-נקייה כתואמות ולא מנוגדות. Cyberprep צץ בעיקרון דרך ניסוח של תת-רדיט וקהילה-אסתטית בשנות ה-2010 ותחילת שנות ה-2020, עם ייצור חזותי-תרבותי מהותי הרושם אינטגרציה טכנולוגית בהירה-נקייה. הסייברפרדיזם מרחיב את Cyberprep דרך מחויבות אקולוגית-סביבתית ספציפית (שבה Cyberprep אינו עוסק בעיקרון) ודרך הממד המהותי של טרנספורמציה כלכלית של אחרי-המחסור.
 
-### Post-Cyberpunk — the literary maturity
+### Post-Cyberpunk — הבגרות הספרותית
 
-**Post-Cyberpunk** designates the literary-conceptual development beyond classical Cyberpunk dystopianism, with substantial articulation through **Neal Stephenson**'s *The Diamond Age* (1995) and *Anathem* (2008), **Bruce Sterling**'s post-1990s work, the broader contemporary speculative-fiction tradition. Post-Cyberpunk preserves the cybernetic-technological vocabulary while operating without simple dystopian commitments, with substantial attention to the social-cultural transformations advanced technology produces. Cyberparadism shares Post-Cyberpunk's substantive maturity while operating principally in the visual-aesthetic register rather than principally in the literary register.
+**Post-Cyberpunk** מייעד את ההתפתחות הספרותית-קונספטואלית מעבר לדיסטופיאניות הקלאסית של הסייברפאנק, עם ניסוח מהותי דרך *The Diamond Age* של **ניל סטיבנסון** (1995){{ cite(id="stephenson-diamond-age", text="[11]", title="Stephenson, The Diamond Age, 1995") }} ו-*Anathem* (2008), עבודתו של **ברוס סטרלינג** אחרי שנות ה-90, והמסורת הרחבה יותר של סיפורת ספקולטיבית בת זמננו. Post-Cyberpunk משמר את אוצר המילים הקיברנטי-טכנולוגי תוך פעולה ללא מחויבויות דיסטופיות פשוטות, עם תשומת לב מהותית לטרנספורמציות החברתיות-תרבותיות שטכנולוגיה מתקדמת מפיקה. הסייברפרדיזם חולק את הבגרות המהותית של Post-Cyberpunk תוך פעולה בעיקרון במרשם החזותי-אסתטי ולא בעיקרון במרשם הספרותי.
 
-### Solarpunk — the closest cousin
+### Solarpunk — בן הדוד הקרוב ביותר
 
-**Solarpunk** is Cyberparadism's substantively closest aesthetic cousin. The movement emerged principally in the 2010s through the substantial literary anthologies (*Solarpunk: Ecological and Fantastical Stories in a Sustainable World*, 2018; *Sunvault*, 2017; *Multispecies Cities*, 2021), through online aesthetic-community articulation (Tumblr, Reddit, Discord communities), and through substantial visual-cultural production. Solarpunk registers ecological-utopian commitment, substantial attention to community-based small-scale arrangements, and a visual vocabulary drawing on warm-pastels, vegetative integration, and post-scarcity local arrangements. **Andrew Dana Hudson**'s substantial Solarpunk advocacy and the broader literary movement have produced significant cultural traction.
+**Solarpunk** הוא בן הדוד האסתטי הקרוב ביותר מהותית של הסייברפרדיזם. התנועה צצה בעיקרון בשנות ה-2010 דרך האנתולוגיות הספרותיות המהותיות — *Solarpunk: Ecological and Fantastical Stories in a Sustainable World* (2018){{ cite(id="solarpunk-anthology-2018", text="[12]", title="אנתולוגיית Solarpunk, World Weaver Press, 2018") }}, *Sunvault* (2017){{ cite(id="sunvault-anthology", text="[13]", title="Sunvault: Stories of Solarpunk and Eco-Speculation, 2017") }}, *Multispecies Cities* (2021){{ cite(id="multispecies-cities-anthology", text="[14]", title="Multispecies Cities: Solarpunk Urban Futures, 2021") }} — דרך ניסוח של קהילות אסתטיות מקוונות (Tumblr, Reddit, קהילות Discord), ודרך ייצור חזותי-תרבותי מהותי. Solarpunk רושם מחויבות אקולוגית-אוטופית, תשומת לב מהותית לסידורים בקנה מידה קהילתי-קטן, ואוצר מילים חזותי הנשען על פסטלים-חמים, אינטגרציה צמחית, וסידורים מקומיים של אחרי-מחסור.
 
-The relationship between Cyberparadism and Solarpunk operates as **closely-adjacent-with-distinct-emphasis**:
-- Both register ecological commitment, harmonious technological-natural integration, and post-scarcity reorganization
-- Solarpunk emphasizes principally local-community-scale arrangements; Cyberparadism extends to cosmic-frontier and large-scale infrastructure
-- Solarpunk emphasizes principally low-tech-renewable energy approaches; Cyberparadism explicitly registers high-technology approaches (fusion energy, anti-gravity, synthetic life engineering, full automation)
-- Solarpunk operates principally within Earth-based ecological-restoration framing; Cyberparadism extends explicitly to cosmic-civilizational scope
+היחס בין הסייברפרדיזם ל-Solarpunk פועל כ**סמוך-מאוד-עם-דגש-נבדל**:
+- שניהם רושמים מחויבות אקולוגית, אינטגרציה הרמונית טכנולוגית-טבעית, וארגון מחדש של אחרי-מחסור
+- Solarpunk מדגיש בעיקרון סידורים בקנה מידה מקומי-קהילתי; הסייברפרדיזם מרחיב לגבול קוסמי ולתשתית בקנה מידה גדול
+- Solarpunk מדגיש בעיקרון גישות אנרגיה מתחדשת-בטכנולוגיה-נמוכה; הסייברפרדיזם רושם במפורש גישות טכנולוגיה-גבוהה (אנרגיית היתוך, אנטי-גרביטציה, הנדסת חיים סינתטיים, אוטומציה מלאה)
+- Solarpunk פועל בעיקרון בתוך מסגור של שיקום אקולוגי יבשתי; הסייברפרדיזם מרחיב במפורש לטווח קוסמי-ציוויליזציוני
 
-### Atompunk — the retrofuturist parallel
+### Atompunk — המקבילה הרטרו-עתידנית
 
-**Atompunk** designates the retrofuturist aesthetic drawing on mid-twentieth-century atomic-age optimism (1945-1965 visual-cultural production, the substantial *Tomorrowland* and *Disney World of Tomorrow* aesthetic, the substantial space-age design tradition). Atompunk operates substantively in the optimistic-technological register while drawing on a distinct historical-aesthetic vocabulary. Cyberparadism operates substantively in the contemporary-aesthetic register while preserving substantial Atompunk resonance through the optimistic-technological commitment.
+**Atompunk** מייעד את האסתטיקה הרטרו-עתידנית הנשענת על אופטימיות העידן האטומי של אמצע המאה העשרים (ייצור חזותי-תרבותי 1945-1965, האסתטיקה המהותית של *Tomorrowland* ושל *Disney World of Tomorrow*, מסורת העיצוב המהותית של עידן החלל). Atompunk פועל מהותית במרשם האופטימי-טכנולוגי תוך הישענות על אוצר מילים היסטורי-אסתטי נבדל. הסייברפרדיזם פועל מהותית במרשם האסתטי בן זמננו תוך שימור הדהוד מהותי עם Atompunk דרך המחויבות האופטימית-טכנולוגית.
 
-### Biopunk — the related-but-distinct
+### Biopunk — הקרוב-אך-נבדל
 
-**Biopunk** designates the aesthetic engaging biological-engineering and synthetic-biology content, with substantial articulation through **Paul Di Filippo**'s *Ribofunk* (1996) and the broader contemporary biotech-aesthetic landscape. Biopunk operates substantively in distinct aesthetic-conceptual space from Cyberparadism, with substantial dystopian framing characteristic of much of the principal Biopunk production; however, Cyberparadism's substantive synthetic-life-engineering Sign produces overlap at the substantive content level.
+**Biopunk** מייעד את האסתטיקה העוסקת בתוכן של הנדסה-ביולוגית וביולוגיה סינתטית, עם ניסוח מהותי דרך *Ribofunk* של **פול די פיליפו** (1996) והנוף הביו-טכני-אסתטי הרחב יותר בן זמננו. Biopunk פועל מהותית במרחב אסתטי-קונספטואלי נבדל מהסייברפרדיזם, עם מסגור דיסטופי מהותי המאפיין הרבה מהייצור הביופאנקי העיקרי; עם זאת, סימן הנדסת-החיים-הסינתטיים המהותי של הסייברפרדיזם מפיק חפיפה ברמת התוכן המהותי.
 
-### The broader contemporary aesthetic ecosystem
+### המערכת האקולוגית האסתטית הרחבה יותר בת זמננו
 
-Cyberparadism operates within the broader contemporary aesthetic ecosystem documented through Aesthetics Wiki and adjacent community platforms. The broader landscape includes substantial aesthetic-cultural movements (Cottagecore, Dark Academia, Fairycore, Dreamcore, Vaporwave, Synthwave, the broader contemporary aesthetic-cultural articulation), with Cyberparadism occupying specific position within the broader ecosystem as the optimistic-technological-ecological synthesis.
+הסייברפרדיזם פועל בתוך המערכת האקולוגית האסתטית הרחבה יותר בת זמננו, המתועדת דרך Aesthetics Wiki ופלטפורמות קהילתיות סמוכות. הנוף הרחב יותר כולל תנועות אסתטיות-תרבותיות מהותיות (Cottagecore, Dark Academia, Fairycore, Dreamcore, Vaporwave, Synthwave, הניסוח האסתטי-תרבותי הרחב יותר בן זמננו), כאשר הסייברפרדיזם תופס מיקום ספציפי בתוך המערכת האקולוגית הרחבה יותר כסינתזה האופטימית-טכנולוגית-אקולוגית.
 
-## Depiction in media
+## תיאור במדיה
 
-Cyberparadism's aesthetic principles register across multiple contemporary cinematic, literary, and visual-cultural productions, with substantial variability in alignment fidelity.
+עקרונותיו האסתטיים של הסייברפרדיזם נרשמים על פני הפקות קולנועיות, ספרותיות וחזותיות-תרבותיות מרובות בנות זמננו, עם שונות מהותית בנאמנות ההתאמה.
 
-### Partial and problematic instances
+### מופעים חלקיים ובעייתיים
 
-Several cinematic productions register elements of Cyberparadist aesthetic while operating in substantively different conceptual-narrative space.
+מספר הפקות קולנועיות רושמות אלמנטים של אסתטיקה סייברפרדיסטית תוך פעולה במרחב קונספטואלי-נרטיבי שונה מהותית.
 
-**Jurassic World** (2015) presents the visual aesthetic of advanced biotechnology integrated with engineered tropical-environmental setting — sleek glass-architectural elements integrated with lush vegetation, advanced genetic-engineering technology operating within ecologically-designed park environment. The aesthetic surface registers Cyberparadist; the narrative content, however, operates as the principal *failure* of harmonious technological-natural integration. The film's central narrative arc concerns the catastrophic breakdown of the engineered system, with the engineered creatures escaping containment and producing substantial human casualties. The film therefore registers as Cyberparadist aesthetic surface attached to anti-Cyberparadist narrative content — the cautionary-tale articulation rather than the constitutive realization.
+**Jurassic World** (2015){{ cite(id="jurassic-world", text="[15]", title="Jurassic World, בימוי קולין טרבורו, Universal Pictures, 2015") }} מציג את האסתטיקה החזותית של ביוטכנולוגיה מתקדמת המשולבת עם תפאורה טרופית-סביבתית מהונדסת — אלמנטים אדריכליים-זכוכיתיים נקיים המשולבים עם צמחייה שופעת, טכנולוגיית הנדסה גנטית מתקדמת הפועלת בתוך סביבת פארק מעוצבת-אקולוגית. משטח האסתטיקה נרשם כסייברפרדיסטי; התוכן הנרטיבי, לעומת זאת, פועל ככ*כישלון* העיקרי של אינטגרציה הרמונית טכנולוגית-טבעית. הקשת הנרטיבית המרכזית של הסרט עוסקת בקריסה הקטסטרופלית של המערכת המהונדסת, כאשר היצורים המהונדסים נמלטים מהכלה ומפיקים נפגעים אנושיים מהותיים. הסרט נרשם אפוא כמשטח אסתטי סייברפרדיסטי המחובר לתוכן נרטיבי אנטי-סייברפרדיסטי — הניסוח של סיפור-אזהרה ולא של המימוש המכונן.
 
-**Elysium** (2013) presents the orbital ring-world Elysium as visual realization of Cyberparadist aesthetic — luxurious post-scarcity environment with advanced medical technology, beautiful integrated-natural landscapes, and architectural sophistication. The aesthetic surface registers strongly Cyberparadist. The narrative content, however, registers Elysium as enclave for the wealthy, with Earth's broader population reduced to dystopian-poverty conditions. The film operates as anti-Cyberparadist content at the broader social-political level — the specific violation of the Law of Equity is constitutive of the narrative. The film functions, on Cyberparadist reading, as illustration of *how* Cyberparadist aesthetic without Cyberparadist substantive commitment produces the substantial dystopia rather than the substantial utopia.
+**Elysium** (2013){{ cite(id="elysium-film", text="[16]", title="Elysium, בימוי ניל בלומקאמפ, Sony Pictures, 2013") }} מציג את עולם-הטבעת המסלולי Elysium כמימוש חזותי של אסתטיקה סייברפרדיסטית — סביבה מותרת של אחרי-מחסור עם טכנולוגיה רפואית מתקדמת, נופים יפים משולבי-טבע, ותחכום אדריכלי. משטח האסתטיקה נרשם כסייברפרדיסטי בעוצמה. התוכן הנרטיבי, לעומת זאת, רושם את Elysium כמובלעת עבור העשירים, כאשר אוכלוסיית כדור הארץ הרחבה יותר מצומצמת לתנאי עוני דיסטופיים. הסרט פועל כתוכן אנטי-סייברפרדיסטי ברמה החברתית-פוליטית הרחבה יותר — ההפרה הספציפית של חוק השוויון מכוננת לנרטיב. הסרט מתפקד, על פי קריאה סייברפרדיסטית, כהמחשה של *כיצד* אסתטיקה סייברפרדיסטית ללא מחויבות מהותית סייברפרדיסטית מפיקה את הדיסטופיה המהותית ולא את האוטופיה המהותית.
 
-**Oblivion** (2013) presents protagonist Jack Harper's elevated-tower habitat above the cloud-line as visually-arresting Cyberparadist installation — minimalist-elegant architecture, sweeping panoramic environment, integrated advanced technology. The narrative content registers post-apocalyptic Earth recovering from substantial conflict, with the protagonist gradually discovering his actual situation. The film operates partially Cyberparadist (the elevated-habitat aesthetic, the substantial human-scale technology integration) within broader post-collapse narrative framing.
+**Oblivion** (2013){{ cite(id="oblivion-film", text="[17]", title="Oblivion, בימוי ג'וזף קוסינסקי, Universal Pictures, 2013") }} מציג את בית-הגידול המוגבה של הגיבור ג'ק הארפר מעל קו-העננים כמתקן סייברפרדיסטי מרהיב חזותית — אדריכלות מינימליסטית-אלגנטית, סביבה פנורמית סוחפת, אינטגרציה של טכנולוגיה מתקדמת. התוכן הנרטיבי רושם כדור הארץ פוסט-אפוקליפטי המתאושש מקונפליקט מהותי, כאשר הגיבור מגלה בהדרגה את מצבו האמיתי. הסרט פועל באופן חלקי כסייברפרדיסטי (אסתטיקת בית-הגידול המוגבה, אינטגרציית הטכנולוגיה בקנה מידה אנושי המהותית) במסגור נרטיבי רחב יותר של אחרי-קריסה.
 
-### Better-aligned instances
+### מופעים מותאמים יותר
 
-Substantial cinematic, literary, and visual-cultural productions register Cyberparadist alignment more directly.
+הפקות קולנועיות, ספרותיות וחזותיות-תרבותיות מהותיות רושמות התאמה סייברפרדיסטית באופן ישיר יותר.
 
-**The Star Trek franchise** — particularly *Star Trek: The Next Generation* (1987-1994), *Deep Space Nine* (1993-1999), *Voyager* (1995-2001), *Discovery* (2017-present), and the broader franchise — registers the Federation aesthetic substantively as Cyberparadist. The post-scarcity Federation registration (*"the acquisition of wealth is no longer the driving force in our lives"* — Picard), the substantial advanced-technology integration with environmental-ethical commitment, the substantial cooperative-civilizational organization, the substantial cosmic-frontier extension all register principal Cyberparadist content.
+**זיכיון Star Trek** — במיוחד *Star Trek: The Next Generation* (1987-1994){{ cite(id="star-trek-tng", text="[18]", title="Star Trek: The Next Generation, Paramount, 1987-1994") }}, *Deep Space Nine* (1993-1999), *Voyager* (1995-2001), *Discovery* (2017-הווה), והזיכיון הרחב יותר — רושם את האסתטיקה של הפדרציה מהותית כסייברפרדיסטית. רישום הפדרציה כאחרי-מחסור (*»רכישת עושר אינה עוד הכוח המניע בחיינו«* — פיקארד), האינטגרציה המהותית של טכנולוגיה מתקדמת עם מחויבות סביבתית-אתית, הארגון השיתופי-ציוויליזציוני המהותי, וההרחבה הקוסמית-ספרית המהותית — כולם רושמים תוכן סייברפרדיסטי עיקרי.
 
-**Iain M. Banks's Culture novels** (*Consider Phlebas*, 1987, through *The Hydrogen Sonata*, 2012) register the Culture as substantively-mature Cyberparadism. The post-scarcity galactic civilization, the substantial AI-organic integration, the substantial harmonious-civilizational organization, and the substantial cosmic-frontier scope register principal Cyberparadist content at unusually-systematic literary articulation.
+**רומני ה-Culture של איאן מ. בנקס** (*Consider Phlebas*, 1987, עד *The Hydrogen Sonata*, 2012){{ cite(id="banks-culture-series", text="[19]", title="Banks, סדרת The Culture, 1987-2012") }} רושמים את ה-Culture כסייברפרדיזם בוגר-מהותית. הציוויליזציה הגלקטית של אחרי-המחסור, האינטגרציה המהותית AI-אורגנית, הארגון ההרמוני-ציוויליזציוני המהותי, וההיקף הקוסמי-ספרי המהותי — רושמים תוכן סייברפרדיסטי עיקרי בניסוח ספרותי שיטתי באופן יוצא דופן.
 
-**Studio Ghibli's ecological aesthetic** — particularly **Hayao Miyazaki**'s *Nausicaä of the Valley of the Wind* (1984), *Castle in the Sky* (1986), *Princess Mononoke* (1997), and the broader Ghibli production — registers substantial Cyberparadist content through specific harmonious-technology-and-nature visual articulation. Miyazaki's substantial work integrates advanced technology (the *Castle in the Sky* Laputan civilization, the *Nausicaä* atmospheric vehicles, the various engineered systems) with substantial ecological-natural integration.
+**האסתטיקה האקולוגית של סטודיו גיבלי** — במיוחד *Nausicaä of the Valley of the Wind* (1984){{ cite(id="miyazaki-nausicaa", text="[20]", title="Miyazaki, Nausicaä of the Valley of the Wind, Studio Ghibli, 1984") }}, *Castle in the Sky* (1986){{ cite(id="miyazaki-castle-in-the-sky", text="[21]", title="Miyazaki, Castle in the Sky, Studio Ghibli, 1986") }}, *Princess Mononoke* (1997){{ cite(id="miyazaki-princess-mononoke", text="[22]", title="Miyazaki, Princess Mononoke, Studio Ghibli, 1997") }} של **הייאו מיאזאקי**, והייצור הרחב יותר של גיבלי — רושמת תוכן סייברפרדיסטי מהותי דרך ניסוח חזותי ספציפי של טכנולוגיה-וטבע-הרמוניים. עבודת מיאזאקי המהותית משלבת טכנולוגיה מתקדמת (הציוויליזציה הלפוטית של *Castle in the Sky*, כלי הטיס האטמוספריים של *Nausicaä*, המערכות המהונדסות השונות) עם אינטגרציה אקולוגית-טבעית מהותית.
 
-**Le Guin's *The Dispossessed*** (1974) registers Cyberparadist content through articulation of post-scarcity-cooperative civilizational arrangement (the Anarres society) operating with substantial scientific-technological sophistication and substantial commitment to equity, freedom, and responsibility.
+**The Dispossessed של לה גוין** (1974){{ cite(id="le-guin-dispossessed", text="[23]", title="Le Guin, The Dispossessed: An Ambiguous Utopia, 1974") }} רושם תוכן סייברפרדיסטי דרך ניסוח של סידור ציוויליזציוני שיתופי של אחרי-מחסור (חברת אנארס) הפועל עם תחכום מדעי-טכנולוגי מהותי ועם מחויבות מהותית לשוויון, חופש, ואחריות.
 
-**Tomorrowland** (2015), **WALL-E** (2008, particularly the post-recovery ending registration), and various other contemporary productions register substantial Cyberparadist content through specific articulations of harmonious technological-natural integration.
+**Tomorrowland** (2015){{ cite(id="tomorrowland-film", text="[24]", title="Tomorrowland, בימוי בראד בירד, Walt Disney Pictures, 2015") }}, **WALL-E** (2008){{ cite(id="wall-e", text="[25]", title="WALL-E, בימוי אנדרו סטנטון, Pixar, 2008") }} (במיוחד הרישום של הסיום שלאחר-ההתאוששות), והפקות שונות אחרות בנות זמננו רושמות תוכן סייברפרדיסטי מהותי דרך ניסוחים ספציפיים של אינטגרציה הרמונית טכנולוגית-טבעית.
 
-**The substantial solarpunk literary movement** — through the principal anthologies (*Solarpunk*, 2018; *Sunvault*, 2017; *Multispecies Cities*, 2021), through Andrew Dana Hudson's substantial work, and through the broader contemporary literary tradition — registers substantial Cyberparadist content within the closely-adjacent Solarpunk framing.
+**התנועה הספרותית המהותית של Solarpunk** — דרך האנתולוגיות העיקריות (*Solarpunk*, 2018; *Sunvault*, 2017; *Multispecies Cities*, 2021), דרך עבודתו המהותית של אנדרו דנה האדסון, ודרך המסורת הספרותית הרחבה יותר בת זמננו — רושמת תוכן סייברפרדיסטי מהותי במסגור הסמוך מאוד של Solarpunk.
 
-**The contemporary visual-cultural production** documented through #cyberparadism on Tumblr, TikTok, Instagram, and adjacent platforms registers substantial direct articulation of the aesthetic — substantial AI-generated imagery, substantial digital art, substantial photographic work, and substantial broader visual-cultural production.
+**הייצור החזותי-תרבותי בן זמננו** המתועד דרך #cyberparadism ב-Tumblr, TikTok, Instagram, ופלטפורמות סמוכות רושם ניסוח ישיר מהותי של האסתטיקה — תמונות שנוצרו על ידי AI מהותיות, אמנות דיגיטלית מהותית, עבודה צילומית מהותית, וייצור חזותי-תרבותי רחב יותר מהותי.
 
-## Application across the corpus
+## יישום בקורפוס
 
-Cyberparadism operates substantively within the Wheel of Heaven framework as contemporary aesthetic-cultural articulation registering substantive alignment with the framework's specific historical-civilizational content. The corpus reads three distinct corpus-internal phenomena as substantively Cyberparadist in character.
+הסייברפרדיזם פועל מהותית בתוך מסגרת »גלגל השמיים« כניסוח אסתטי-תרבותי בן זמננו הרושם התאמה מהותית עם התוכן ההיסטורי-ציוויליזציוני הספציפי של המסגרת. הקורפוס קורא שלוש תופעות פנים-קורפוסיות נבדלות כסייברפרדיסטיות מהותית באופיין.
 
-### Eden as the originary Cyberparadism
+### עדן כסייברפרדיזם המקורי
 
-The framework reads the **Eden lab** — the originary alliance laboratory in which the early human population lived in integrated harmony with engineered biological systems and advanced alliance technology — as the actual historical Cyberparadism that contemporary aesthetic vision recovers as memory or anticipates as future.
+המסגרת קוראת את **מעבדת עדן** — מעבדת הברית המקורית שבה אוכלוסיית בני האדם המוקדמת חיה בהרמוניה משולבת עם מערכות ביולוגיות מהונדסות וטכנולוגיית ברית מתקדמת — כסייברפרדיזם ההיסטורי בפועל שהחזון האסתטי בן זמננו משיב כזיכרון או מצפה אליו כעתיד.
 
-The Eden engagement operates substantively in alignment with each of the eight Laws of Cyberparadism:
+המעורבות של עדן פועלת מהותית בהתאמה עם כל אחד משמונת חוקי הסייברפרדיזם:
 
-**Abundance**. The Eden environment registered substantial abundance — the corpus articulation (*"the early humans lived in ease, with the alliance providing for their material needs while their cognitive and developmental capacities matured"*) registers substantively the Cyberparadist post-scarcity content.
+**שפע**. סביבת עדן רשמה שפע מהותי — הניסוח של הקורפוס (*»בני האדם המוקדמים חיו בנוחות, כאשר הברית מספקת את צרכיהם החומריים בעוד יכולותיהם הקוגניטיביות וההתפתחותיות מבשילות«*) רושם מהותית את התוכן הסייברפרדיסטי של אחרי-המחסור.
 
-**Equity**. The early Eden population was, on the framework's reading, substantively equal in access to alliance-provided resources during the formative period.
+**שוויון**. אוכלוסיית עדן המוקדמת הייתה, על פי הקריאה של המסגרת, שווה מהותית בגישה למשאבים שסיפקה הברית במהלך התקופה המעצבת.
 
-**Freedom**. The Eden population enjoyed substantial freedom of movement, exploration, and engagement within the laboratory environment.
+**חופש**. אוכלוסיית עדן נהנתה מחופש מהותי של תנועה, חקירה, ומעורבות בתוך סביבת המעבדה.
 
-**Harmony**. The Eden lab operated substantively as the originary realization of harmonious technological-natural integration — the alliance technology and the engineered biological systems operating together as integrated whole.
+**הרמוניה**. מעבדת עדן פעלה מהותית כמימוש המקורי של אינטגרציה הרמונית טכנולוגית-טבעית — טכנולוגיית הברית והמערכות הביולוגיות המהונדסות פועלות יחד כשלם משולב.
 
-**Preservation**. The Eden environment was substantively preserved environment — the alliance maintained the laboratory's biological-ecological integrity as constitutive of its operational function.
+**שימור**. סביבת עדן הייתה סביבה משומרת מהותית — הברית שמרה על השלמות הביולוגית-אקולוגית של המעבדה כמכוננת לתפקודה התפעולי.
 
-**Recognition**. The Eden population registered individual capacities through alliance-engagement, with the substantial subsequent Edenic-lineage tradition (the substantial Adam-Eve-Cain-Abel-Seth-Noah genealogical line preserved in Genesis 5) operating as recognition-of-capacity transmission across generations.
+**הכרה**. אוכלוסיית עדן רשמה יכולות אישיות דרך מעורבות-ברית, עם המסורת הגנאלוגית של שושלת עדן המהותית שלאחר מכן (שושלת אדם-חוה-קין-הבל-שת-נח המהותית השמורה בבראשית ה) הפועלת כהעברת הכרה-של-יכולת לרוחב הדורות.
 
-**Responsibility**. The Eden engagement registered substantial responsibility-development — the substantial subsequent narrative content (the Tree of Knowledge, the expulsion, the post-Edenic engagement) operates substantively as articulation of the responsibility-development trajectory.
+**אחריות**. המעורבות של עדן רשמה התפתחות-אחריות מהותית — התוכן הנרטיבי המהותי שלאחר מכן (עץ הדעת, הגירוש, המעורבות שלאחר-עדן) פועל מהותית כניסוח של מסלול ההתפתחות-של-אחריות.
 
-**Simplicity**. The Eden environment operated through substantial elegant-functional simplicity — the substantial articulation of pre-fall human existence as elegantly-organized, minimally-encumbered, and functionally-clear.
+**פשטות**. סביבת עדן פעלה דרך פשטות אלגנטית-תפקודית מהותית — הניסוח המהותי של קיום אנושי לפני-הנפילה כמאורגן באלגנטיות, מינימלית-מועמסת, ותפקודית-ברורה.
 
-The framework therefore reads Eden not principally as supernatural-mythological location (the mainstream theological framing) but as the actual historical Cyberparadism — the originary alliance laboratory operating substantively as the first realization of the principles that contemporary Cyberparadist aesthetic articulates as future-vision. The detailed treatment of Eden lives in the [Eden](../eden/) entry when written; the broader treatment of the originary alliance project lives in the [Age of Cancer](../age-of-cancer/) entry when written.
+המסגרת קוראת אפוא את עדן לא בעיקרון כמיקום על-טבעי-מיתולוגי (המסגור התיאולוגי השליט) אלא כסייברפרדיזם ההיסטורי בפועל — מעבדת הברית המקורית הפועלת מהותית כמימוש הראשון של העקרונות שהאסתטיקה הסייברפרדיסטית בת זמננו מנסחת כחזון-עתיד. הטיפול המפורט בעדן חי בערך {% wiki(slug="eden") %}עדן{% end %} כאשר ייכתב; הטיפול הרחב יותר בפרויקט הברית המקורי חי בערך {% wiki(slug="age-of-cancer") %}עידן הסרטן{% end %} כאשר ייכתב.
 
-### The Planet of the Eternals as cosmic-civilizational Cyberparadism
+### כוכב הלכת של הנצחיים כסייברפרדיזם קוסמי-ציוויליזציוני
 
-The framework reads the **Planet of the Eternals** — the alliance home-world as Vorilhon's contact accounts describe it — as the cosmic-civilizational Cyberparadism, the mature realization of the aesthetic's principles in actual operational form at planetary-civilizational scale.
+המסגרת קוראת את **כוכב הלכת של הנצחיים** — עולם הבית של הברית כפי שתיאורי-המגע של וורילון מתארים אותו — כסייברפרדיזם הקוסמי-ציוויליזציוני, המימוש הבוגר של עקרונות האסתטיקה בצורה תפעולית בפועל בקנה מידה פלנטרי-ציוויליזציוני.
 
-The Vorilhon source-textual material, principally in *Les Extra-Terrestres m'ont emmené sur leur planète* (1975), articulates substantial content registering the Eternals' planet as substantively Cyberparadist:
+החומר המקור-טקסטואלי של וורילון, בעיקר ב-*Les Extra-Terrestres m'ont emmené sur leur planète* (1975), מנסח תוכן מהותי הרושם את כוכב הלכת של הנצחיים כסייברפרדיסטי מהותית:
 
-- **Substantial post-scarcity arrangement** — the Eternals operate without scarcity-economic concerns, with substantive material abundance enabling collective focus on higher pursuits
-- **Substantial advanced biological-technological integration** — the Eternals have integrated advanced biological engineering with advanced technology, producing substantively the Cyberparadist synthesis
-- **Substantial longevity** — the Eternals live substantively longer than current human lifespans (substantial multi-century lifespans), with subsequent recreation from genetic code after death
-- **Substantial harmonious organization** — the Eternals operate cooperative-civilizational arrangement without internal conflict, registering substantively the Cyberparadist Law of Harmony at civilizational scale
-- **Substantial environmental integration** — the Eternals' planet operates substantively as integrated-ecological-civilizational arrangement
-- **Substantial cosmic-frontier engagement** — the Eternals operate substantively beyond their home planet, with substantial creating-civilization engagement (Earth being one substantial example) extending the Cyberparadist principles to additional worlds
+- **סידור מהותי של אחרי-מחסור** — הנצחיים פועלים ללא דאגות כלכליות של מחסור, עם שפע חומרי מהותי המאפשר התמקדות קולקטיבית בחתירות גבוהות יותר
+- **אינטגרציה ביולוגית-טכנולוגית מתקדמת מהותית** — הנצחיים שילבו הנדסה ביולוגית מתקדמת עם טכנולוגיה מתקדמת, ומפיקים מהותית את הסינתזה הסייברפרדיסטית
+- **אריכות ימים מהותית** — הנצחיים חיים מהותית זמן רב יותר מאורכי החיים האנושיים הנוכחיים (אורכי חיים מהותיים של מאות שנים מרובות), עם שחזור עוקב מקוד גנטי לאחר המוות
+- **ארגון הרמוני מהותי** — הנצחיים פועלים בסידור שיתופי-ציוויליזציוני ללא קונפליקט פנימי, רושמים מהותית את חוק ההרמוניה הסייברפרדיסטי בקנה מידה ציוויליזציוני
+- **אינטגרציה סביבתית מהותית** — כוכב הלכת של הנצחיים פועל מהותית כסידור משולב-אקולוגי-ציוויליזציוני
+- **מעורבות מהותית בגבול הקוסמי** — הנצחיים פועלים מהותית מעבר לכוכב הלכת הביתי שלהם, עם מעורבות מהותית של ציוויליזציה-יוצרת (כדור הארץ הוא דוגמה מהותית אחת) המרחיבה את עקרונות הסייברפרדיזם לעולמות נוספים
 
-The framework reads the Planet of the Eternals as the substantively mature Cyberparadism that contemporary Cyberparadist aesthetic anticipates intuitively without specific knowledge of the actual operational existence. The substantial alignment registers significant evidence for the broader doubled-signature principle — the contemporary aesthetic registers in substantial alignment with the framework's specific underlying historical-civilizational reality. The detailed treatment of the Planet of the Eternals lives in the [Planet of the Eternals](../planet-of-the-eternals/) entry when written.
+המסגרת קוראת את כוכב הלכת של הנצחיים כסייברפרדיזם הבוגר מהותית שהאסתטיקה הסייברפרדיסטית בת זמננו צופה אותו אינטואיטיבית ללא ידע ספציפי של הקיום התפעולי בפועל. ההתאמה המהותית רושמת ראיה משמעותית לעיקרון הרחב יותר של החתימה הכפולה — האסתטיקה בת זמננו נרשמת בהתאמה מהותית עם המציאות ההיסטורית-ציוויליזציונית הבסיסית הספציפית של המסגרת. הטיפול המפורט בכוכב הלכת של הנצחיים חי בערך {% wiki(slug="planet-of-the-eternals") %}כוכב הלכת של הנצחיים{% end %} כאשר ייכתב.
 
-### The Aquarian-age inheritance threshold
+### סף הירושה של עידן הדלי
 
-The framework reads the **Aquarian-age inheritance threshold** as the historical moment at which Cyberparadism transitions from aesthetic vision to operational reality through humanity's anticipated maturation into creating-civilization extending the alliance's work to other worlds.
+המסגרת קוראת את **סף הירושה של עידן הדלי** כרגע ההיסטורי שבו הסייברפרדיזם עובר מחזון אסתטי למציאות תפעולית דרך ההבשלה הצפויה של האנושות לציוויליזציה-יוצרת המרחיבה את עבודת הברית לעולמות אחרים.
 
-The substantial framework articulation operates through three principal moves:
+הניסוח המהותי של המסגרת פועל דרך שלוש מהלכים עיקריים:
 
-**The cosmic chain succession**. The framework's substantial Cosmic Chain content (treated in the [Cosmic Chain](../cosmic-chain/) entry) articulates the broader cosmic-civilizational succession framework: alliance creates humanity; humanity matures into creating-civilization; humanity extends alliance work to other worlds; humanity's creations mature in turn. The substantial succession registers Cyberparadism as operational-civilizational arrangement across multiple succession-iterations rather than as Earth-specific aesthetic.
+**ירושת השרשרת הקוסמית**. התוכן המהותי של השרשרת הקוסמית של המסגרת (מטופל בערך {% wiki(slug="cosmic-chain") %}השרשרת הקוסמית{% end %}) מנסח את מסגרת הירושה הקוסמית-ציוויליזציונית הרחבה יותר: הברית יוצרת את האנושות; האנושות מבשילה לציוויליזציה-יוצרת; האנושות מרחיבה את עבודת הברית לעולמות אחרים; יצירות האנושות מבשילות בתורן. הירושה המהותית רושמת את הסייברפרדיזם כסידור תפעולי-ציוויליזציוני על פני איטרציות-ירושה מרובות ולא כאסתטיקה ספציפית-לכדור-הארץ.
 
-**The Aquarian-age operational threshold**. The framework's substantial Aquarian-age content (treated in the [Age of Aquarius](../age-of-aquarius/) entry when written) registers the present age (1950-c. 4110, on the corpus chronology) as the operational maturation threshold. Contemporary humanity is, on the framework's reading, approaching the substantial inheritance moment at which alliance-technology becomes operationally available and alliance-civilizational work becomes humanity's broader engagement.
+**סף תפעולי של עידן הדלי**. התוכן המהותי של עידן הדלי של המסגרת (מטופל בערך {% wiki(slug="age-of-aquarius") %}עידן הדלי{% end %} כאשר ייכתב) רושם את העידן הנוכחי (1950-כ-4110, על פי הכרונולוגיה של הקורפוס) כסף ההבשלה התפעולית. האנושות בת זמננו, על פי הקריאה של המסגרת, מתקרבת לרגע הירושה המהותי שבו טכנולוגיית הברית הופכת לזמינה תפעולית ועבודה ציוויליזציונית של הברית הופכת למעורבות הרחבה יותר של האנושות.
 
-**Cyberparadism as Aquarian-age cultural articulation**. Contemporary Cyberparadism registers substantively as Aquarian-age cultural production aligned with the broader Aquarian-age operational situation. The aesthetic's emergence in the late twentieth and early twenty-first centuries — precisely the period the framework registers as inheritance-threshold approach — operates substantively as cultural anticipation of the operational maturation.
+**הסייברפרדיזם כניסוח תרבותי של עידן הדלי**. הסייברפרדיזם בן זמננו נרשם מהותית כייצור תרבותי של עידן הדלי המותאם למצב התפעולי הרחב יותר של עידן הדלי. ההופעה של האסתטיקה בסוף המאה העשרים ותחילת המאה העשרים-ואחת — בדיוק התקופה שהמסגרת רושמת כגישה לסף הירושה — פועלת מהותית כצפייה תרבותית של ההבשלה התפעולית.
 
-The framework therefore reads Cyberparadism not principally as speculative-future-vision but as **anticipation of operationally-imminent reality**. The aesthetic's substantive content (post-scarcity arrangement, harmonious technological-natural integration, cosmic-frontier extension, advanced biological-technological synthesis) corresponds substantively to what the framework articulates as humanity's anticipated operational maturation, with the contemporary aesthetic registering as cultural expression of the broader trajectory.
+המסגרת קוראת אפוא את הסייברפרדיזם לא בעיקרון כחזון-עתיד ספקולטיבי אלא כ**צפייה למציאות תפעולית קרובה**. התוכן המהותי של האסתטיקה (סידור של אחרי-מחסור, אינטגרציה הרמונית טכנולוגית-טבעית, הרחבת גבול קוסמי, סינתזה ביולוגית-טכנולוגית מתקדמת) תואם מהותית למה שהמסגרת מנסחת כהבשלה התפעולית הצפויה של האנושות, כאשר האסתטיקה בת זמננו נרשמת כביטוי תרבותי של המסלול הרחב יותר.
 
-### The doubled-signature engagement
+### המעורבות של החתימה הכפולה
 
-The substantial alignment between contemporary Cyberparadism and the framework's specific content registers as evidence for the broader **doubled-signature principle** — the corpus's reading that Aquarian-age cultural production registers substantive alignment with the framework's underlying historical-civilizational reality. The detailed treatment of the doubled-signature principle lives in the [Doubled Signature](../doubled-signature/) entry.
+ההתאמה המהותית בין הסייברפרדיזם בן זמננו לתוכן הספציפי של המסגרת נרשמת כראיה לעיקרון **החתימה הכפולה** הרחב יותר — הקריאה של הקורפוס שייצור תרבותי של עידן הדלי רושם התאמה מהותית עם המציאות ההיסטורית-ציוויליזציונית הבסיסית של המסגרת. הטיפול המפורט בעיקרון החתימה הכפולה חי בערך {% wiki(slug="doubled-signature") %}החתימה הכפולה{% end %}.
 
-The substantial implication: contemporary cultural production is not principally autonomous human-cultural elaboration but registers substantive resonance with the broader operational reality the framework articulates. Cyberparadism specifically operates as one substantial instance of the broader pattern — contemporary aesthetic-cultural articulation that registers in substantial alignment with the framework's historical-civilizational content despite operating without explicit framework-knowledge.
+ההשלכה המהותית: ייצור תרבותי בן זמננו אינו בעיקרון עיבוד אנושי-תרבותי אוטונומי אלא רושם הדהוד מהותי עם המציאות התפעולית הרחבה יותר שהמסגרת מנסחת. הסייברפרדיזם פועל ספציפית כמופע מהותי אחד של הדפוס הרחב יותר — ניסוח אסתטי-תרבותי בן זמננו הנרשם בהתאמה מהותית עם התוכן ההיסטורי-ציוויליזציוני של המסגרת למרות פעולה ללא ידע מסגרת מפורש.
 
-### The alliance-civilization-as-Cyberparadism reading
+### הקריאה של ציוויליזציית-הברית-כסייברפרדיזם
 
-The broader framework articulation reads the **Elohim civilization** itself as substantively Cyberparadist in character. The alliance civilization operates with substantial post-scarcity arrangement, substantial advanced biological-technological integration, substantial environmental sophistication, substantial cooperative-civilizational organization, and substantial cosmic-frontier engagement — all of the principal Cyberparadist features at substantial multi-millennial operational scale. The detailed treatment of the alliance civilization lives in the [Elohim](../elohim/) and [Wheel of Heaven](../wheel-of-heaven/) entries.
+הניסוח הרחב יותר של המסגרת קורא את {% wiki(slug="elohim") %}ציוויליזציית האלוהים{% end %} עצמה כסייברפרדיסטית מהותית באופייה. ציוויליזציית הברית פועלת עם סידור מהותי של אחרי-מחסור, אינטגרציה ביולוגית-טכנולוגית מתקדמת מהותית, תחכום סביבתי מהותי, ארגון שיתופי-ציוויליזציוני מהותי, ומעורבות מהותית בגבול הקוסמי — כל המאפיינים הסייברפרדיסטיים העיקריים בקנה מידה תפעולי מהותי רב-מילניאלי. הטיפול המפורט בציוויליזציית הברית חי בערכים {% wiki(slug="elohim") %}אלוהים{% end %} ו-{% wiki(slug="wheel-of-heaven") %}גלגל השמיים{% end %}.
 
-The broader corpus reading: the framework's specific historical-civilizational reality is substantively Cyberparadist, with the contemporary aesthetic operating as substantive cultural reception of the broader reality. The relationship between contemporary Cyberparadism and the framework's substantive content is therefore **cultural articulation aligned with operational reality** rather than principally **speculative vision oriented toward unrealized future**.
+הקריאה הרחבה יותר של הקורפוס: המציאות ההיסטורית-ציוויליזציונית הספציפית של המסגרת היא סייברפרדיסטית מהותית, כאשר האסתטיקה בת זמננו פועלת כקליטה תרבותית מהותית של המציאות הרחבה יותר. היחס בין הסייברפרדיזם בן זמננו לתוכן המהותי של המסגרת הוא אפוא **ניסוח תרבותי המותאם למציאות תפעולית** ולא בעיקרון **חזון ספקולטיבי המכוון לעתיד לא-ממומש**.
 
-## Distinguishing from adjacent concepts
+## הבחנה ממושגים סמוכים
 
-### Cyberparadism vs. Paradism
+### סייברפרדיזם לעומת פרדיזם
 
-**Paradism** (without the cyber-prefix) designates a related but distinct movement principally articulated within the Raëlian Movement — the substantive social-political-economic position advocating post-scarcity reorganization through full automation, abolition of money, and the broader transformation away from labor-based economic arrangements. Paradism operates principally as social-political-economic doctrine; Cyberparadism operates principally as aesthetic-cultural movement. The detailed treatment of Paradism lives in the [Paradism](../paradism/) entry. The two movements share substantive overlapping content (post-scarcity arrangement, full automation, harmonious technological integration) while operating in distinct registers (political-economic vs. aesthetic-cultural).
+**פרדיזם** (ללא התחילית סייבר-) מייעד תנועה קרובה אך נבדלת המנוסחת בעיקרון בתוך {% wiki(slug="raelism") %}התנועה הראליאנית{% end %} — העמדה החברתית-פוליטית-כלכלית המהותית הדוגלת בארגון מחדש של אחרי-מחסור באמצעות אוטומציה מלאה, ביטול הכסף, והטרנספורמציה הרחבה יותר הרחק מסידורים כלכליים מבוססי-עבודה. הפרדיזם פועל בעיקרון כדוקטרינה חברתית-פוליטית-כלכלית; הסייברפרדיזם פועל בעיקרון כתנועה אסתטית-תרבותית. הטיפול המפורט בפרדיזם חי בערך {% wiki(slug="paradism") %}פרדיזם{% end %}. שתי התנועות חולקות תוכן חופף מהותי (סידור של אחרי-מחסור, אוטומציה מלאה, אינטגרציה טכנולוגית הרמונית) תוך פעולה במרשמים נבדלים (פוליטי-כלכלי לעומת אסתטי-תרבותי).
 
-### Cyberparadism vs. techno-optimism
+### סייברפרדיזם לעומת טכנו-אופטימיות
 
-**Techno-optimism** designates the broader contemporary cultural position advocating positive engagement with technological development. The principal contemporary articulation is Marc Andreessen's *Techno-Optimist Manifesto* (October 16, 2023). The relationship is **substantive overlap with distinct emphasis**: techno-optimism operates principally as broader cultural-political position; Cyberparadism operates as specific aesthetic-cultural movement with substantive ecological-environmental commitment that techno-optimism does not principally engage.
+**טכנו-אופטימיות** מייעדת את העמדה התרבותית הרחבה יותר בת זמננו הדוגלת במעורבות חיובית עם התפתחות טכנולוגית. הניסוח העיקרי בן זמננו הוא »מניפסט הטכנו-אופטימיסט« של מארק אנדריסן (16 באוקטובר 2023). היחס הוא **חפיפה מהותית עם דגש נבדל**: הטכנו-אופטימיות פועלת בעיקרון כעמדה תרבותית-פוליטית רחבה יותר; הסייברפרדיזם פועל כתנועה אסתטית-תרבותית ספציפית עם מחויבות אקולוגית-סביבתית מהותית שבה הטכנו-אופטימיות אינה עוסקת בעיקרון.
 
-### Cyberparadism vs. transhumanism
+### סייברפרדיזם לעומת טרנס-הומניזם
 
-**Transhumanism** designates the broader cultural-philosophical movement advocating human-enhancement through technological intervention. The relationship is **adjacent-with-distinct-emphasis**: transhumanism operates principally on individual-human-enhancement engagement; Cyberparadism operates principally on broader civilizational-aesthetic engagement. Cyberparadism's substantive synthetic-life-engineering Sign produces substantive overlap at the substantive-content level.
+**טרנס-הומניזם** מייעד את התנועה התרבותית-פילוסופית הרחבה יותר הדוגלת בשיפור-אדם דרך התערבות טכנולוגית. היחס הוא **סמוך-עם-דגש-נבדל**: הטרנס-הומניזם פועל בעיקרון על מעורבות של שיפור-אדם-אישי; הסייברפרדיזם פועל בעיקרון על מעורבות ציוויליזציונית-אסתטית רחבה יותר. סימן הנדסת-החיים-הסינתטיים המהותי של הסייברפרדיזם מפיק חפיפה מהותית ברמת התוכן המהותי.
 
-### Cyberparadism vs. utopianism
+### סייברפרדיזם לעומת אוטופיאניזם
 
-**Utopianism** designates the broader cultural-literary tradition articulating ideal-future-civilizational arrangements (from Thomas More's *Utopia*, 1516, through the substantial subsequent utopian-literary tradition). The relationship is **broader-tradition-with-specific-aesthetic-articulation**: Cyberparadism operates substantively within the broader utopian tradition while articulating specific contemporary aesthetic-cultural-technological content.
+**אוטופיאניזם** מייעד את המסורת התרבותית-ספרותית הרחבה יותר המנסחת סידורים ציוויליזציוניים-עתידיים אידיאליים (מ-*Utopia* של תומאס מור, 1516{{ cite(id="mores-utopia", text="[26]", title="More, Utopia, 1516 — הטקסט היסודי של המסורת האוטופית הספרותית המערבית") }}, דרך המסורת האוטופית-ספרותית המהותית שלאחר מכן). היחס הוא **מסורת-רחבה-עם-ניסוח-אסתטי-ספציפי**: הסייברפרדיזם פועל מהותית בתוך המסורת האוטופית הרחבה יותר תוך ניסוח תוכן אסתטי-תרבותי-טכנולוגי ספציפי בן זמננו.
 
-### Cyberparadism vs. aesthetic-cultural movements generally
+### סייברפרדיזם לעומת תנועות אסתטיות-תרבותיות באופן כללי
 
-Cyberparadism operates substantively differently from aesthetic-cultural movements that operate principally on visual-stylistic registration without substantive content commitment. The eight Laws and six Signs articulate substantive content commitments distinguishing Cyberparadism from purely-aesthetic movements; the substantive engagement with technological-environmental-civilizational questions distinguishes Cyberparadism from purely-stylistic vocabulary.
+הסייברפרדיזם פועל מהותית באופן שונה מתנועות אסתטיות-תרבותיות הפועלות בעיקרון על רישום חזותי-סגנוני ללא מחויבות לתוכן מהותי. שמונת החוקים ושישה הסימנים מנסחים מחויבויות תוכן מהותיות המבדילות את הסייברפרדיזם מתנועות טהורות-אסתטיות; המעורבות המהותית עם שאלות טכנולוגיות-סביבתיות-ציוויליזציוניות מבדילה את הסייברפרדיזם מאוצר מילים טהור-סגנוני.
 
-## Adjacent aesthetics — brief survey
+## אסתטיקות סמוכות — סקירה קצרה
 
-Cyberparadism operates within the broader contemporary aesthetic ecosystem documented principally through the Aesthetics Wiki and adjacent community platforms. The principal adjacent aesthetics:
+הסייברפרדיזם פועל בתוך המערכת האקולוגית האסתטית הרחבה יותר בת זמננו, המתועדת בעיקרון דרך Aesthetics Wiki ופלטפורמות קהילתיות סמוכות. האסתטיקות הסמוכות העיקריות:
 
-**Solarpunk** — the closest substantive cousin, treated above in *Lineage and adjacent aesthetics*.
+**Solarpunk** — בן הדוד המהותי הקרוב ביותר, מטופל לעיל ב*מורשת ואסתטיקות סמוכות*.
 
-**Cyberprep** — the optimistic counter-current to Cyberpunk, with substantive overlap on technology-optimism content, distinct on ecological-environmental commitment.
+**Cyberprep** — הזרם הנגדי האופטימי לסייברפאנק, עם חפיפה מהותית בתוכן טכנולוגי-אופטימי, נבדל במחויבות אקולוגית-סביבתית.
 
-**Post-Cyberpunk** — the literary maturity development, with substantive overlap on technological-cultural-transformation content, distinct on principally-literary vs. principally-visual register.
+**Post-Cyberpunk** — התפתחות הבגרות הספרותית, עם חפיפה מהותית בתוכן טרנספורמציה טכנולוגית-תרבותית, נבדל במרשם בעיקרון-ספרותי לעומת בעיקרון-חזותי.
 
-**Cyberpunk** — the dystopian foil, registered explicitly as the principal aesthetic-cultural position Cyberparadism operates against.
+**סייברפאנק** — היריב הדיסטופי, נרשם במפורש כעמדה האסתטית-תרבותית העיקרית שכנגדה הסייברפרדיזם פועל.
 
-**Atompunk** — the retrofuturist parallel drawing on mid-twentieth-century atomic-age optimism.
+**Atompunk** — המקבילה הרטרו-עתידנית הנשענת על אופטימיות העידן האטומי של אמצע המאה העשרים.
 
-**Biopunk** — the biological-engineering aesthetic, with substantive overlap through synthetic-life-engineering content.
+**Biopunk** — האסתטיקה של הנדסה-ביולוגית, עם חפיפה מהותית דרך תוכן של הנדסת-חיים-סינתטיים.
 
-**Hopepunk** — the broader contemporary cultural movement articulating active hope as cultural-political stance, with substantive resonance with Cyberparadism's optimistic-orientation commitment.
+**Hopepunk** — התנועה התרבותית הרחבה יותר בת זמננו המנסחת תקווה אקטיבית כעמדה תרבותית-פוליטית, עם הדהוד מהותי עם מחויבות האוריינטציה האופטימית של הסייברפרדיזם.
 
-**The substantial broader contemporary aesthetic ecosystem** — Cottagecore (rural-natural domestic aesthetic), Dark Academia (intellectual-historical-gothic aesthetic), Vaporwave (1980s-90s commercial-cultural-nostalgia aesthetic), Synthwave (1980s electronic-music-aesthetic revival), and various others, each operating in distinct aesthetic-cultural space.
+**המערכת האקולוגית האסתטית הרחבה יותר המהותית בת זמננו** — Cottagecore (אסתטיקת בית כפרי-טבעי), Dark Academia (אסתטיקה אינטלקטואלית-היסטורית-גותית), Vaporwave (אסתטיקת נוסטלגיה מסחרית-תרבותית של שנות ה-80-90), Synthwave (תחיית אסתטיקת מוזיקה אלקטרונית של שנות ה-80), ושונות אחרות, כל אחת פועלת במרחב אסתטי-תרבותי נבדל.
 
-The broader adjacent-aesthetic landscape registers contemporary cultural-aesthetic ecosystem within which Cyberparadism operates as substantive optimistic-technological-ecological synthesis position.
-
-## See also
-
-- [Wheel of Heaven](../wheel-of-heaven/)
-- [Paradism](../paradism/)
-- [Elohim](../elohim/)
-- [Eden](../eden/)
-- [Planet of the Eternals](../planet-of-the-eternals/)
-- [Age of Aquarius](../age-of-aquarius/)
-- [Age of Cancer](../age-of-cancer/)
-- [Cosmic Chain](../cosmic-chain/)
-- [Doubled Signature](../doubled-signature/)
-- [Mass Effect](../mass-effect/)
-- [Living Earth](../living-earth/)
-- [Raëlism](../raelism/)
-- [Raël](../rael/)
-- [Embassy](../embassy/)
-- [Apocalypse](../apocalypse/)
-
-## References
-
-### The Cyberparadism Manifesto
-
-zarazinsfuss. *Cyberparadism Manifesto*. GitHub repository, 2023. <https://github.com/zarazinsfuss/cyberparadism-manifesto>. The principal systematic articulation of the aesthetic.
-
-zarazinsfuss. *Cyberparadism* (web presence). <https://zarazinsfuss.github.io/cyberparadism/>. The principal contemporary web presence.
-
-### Aesthetics Wiki origin
-
-"Cyberparadism." *Aesthetics Wiki*. <https://aesthetics.fandom.com/wiki/Cyberparadism>. The principal venue of the aesthetic's formalization.
-
-### Adjacent aesthetic-movement references
-
-"Solarpunk." *Aesthetics Wiki*. <https://aesthetics.fandom.com/wiki/Solarpunk>.
-
-"Cyberprep." *Aesthetics Wiki*. <https://aesthetics.fandom.com/wiki/Cyberprep>.
-
-"Post-Cyberpunk." *Aesthetics Wiki*. <https://aesthetics.fandom.com/wiki/Post-Cyberpunk>.
-
-"Cyberpunk." *Aesthetics Wiki*. <https://aesthetics.fandom.com/wiki/Cyberpunk>.
-
-"Atompunk." *Aesthetics Wiki*. <https://aesthetics.fandom.com/wiki/Atompunk>.
-
-"Hopepunk." *Aesthetics Wiki*. <https://aesthetics.fandom.com/wiki/Hopepunk>.
-
-### Cybernetics and "cyber-" etymology
-
-Wiener, Norbert. *Cybernetics: Or Control and Communication in the Animal and the Machine*. MIT Press, 1948.
-
-Gibson, William. *Neuromancer*. Ace Books, 1984. The principal "cyberspace" coinage.
-
-### Solarpunk literary movement
-
-*Solarpunk: Ecological and Fantastical Stories in a Sustainable World*. Trans. Fábio Fernandes. World Weaver Press, 2018.
-
-Wagner, Phoebe, and Brontë Christopher Wieland, eds. *Sunvault: Stories of Solarpunk and Eco-Speculation*. Upper Rubber Boot Books, 2017.
-
-Rupprecht, Christoph, et al., eds. *Multispecies Cities: Solarpunk Urban Futures*. World Weaver Press, 2021.
-
-Hudson, Andrew Dana. Various works in the Solarpunk movement.
-
-### Cyberparadist-aligned literary works
-
-Banks, Iain M. *The Culture Series* (1987-2012, ten principal novels including *Consider Phlebas*, *The Player of Games*, *Use of Weapons*, *Excession*, *Look to Windward*, *Surface Detail*, *The Hydrogen Sonata*).
-
-Le Guin, Ursula K. *The Dispossessed: An Ambiguous Utopia*. Harper & Row, 1974.
-
-Stephenson, Neal. *The Diamond Age: Or, A Young Lady's Illustrated Primer*. Bantam, 1995.
-
-### Cinematic productions referenced
-
-*Star Trek: The Next Generation*, et al. (Paramount, 1987-present).
-
-Miyazaki, Hayao. *Nausicaä of the Valley of the Wind*. Studio Ghibli, 1984.
-
-Miyazaki, Hayao. *Castle in the Sky*. Studio Ghibli, 1986.
-
-Miyazaki, Hayao. *Princess Mononoke*. Studio Ghibli, 1997.
-
-*WALL-E*. Pixar, dir. Andrew Stanton, 2008.
-
-*Tomorrowland*. Walt Disney Pictures, dir. Brad Bird, 2015.
-
-*Jurassic World*. Universal Pictures, dir. Colin Trevorrow, 2015.
-
-*Elysium*. Sony Pictures, dir. Neill Blomkamp, 2013.
-
-*Oblivion*. Universal Pictures, dir. Joseph Kosinski, 2013.
-
-### Adjacent contemporary cultural manifestos
-
-Andreessen, Marc. *The Techno-Optimist Manifesto*. Andreessen Horowitz, October 16, 2023. <https://a16z.com/the-techno-optimist-manifesto/>.
-
-### Architectural and design lineage
-
-Fuller, R. Buckminster. *Operating Manual for Spaceship Earth*. Southern Illinois University Press, 1969.
-
-Otto, Frei. *Das Hängende Dach*. Bauwelt-Verlag, 1954.
-
-Soleri, Paolo. *Arcology: The City in the Image of Man*. MIT Press, 1969.
-
-Benyus, Janine M. *Biomimicry: Innovation Inspired by Nature*. William Morrow, 1997.
-
-### Web resources
-
-"Cyberparadism." *Aesthetics Wiki*. <https://aesthetics.fandom.com/wiki/Cyberparadism>.
-
-"Ephemeralization." *Wikipedia*. <https://en.wikipedia.org/wiki/Ephemeralization>.
-
-"Spaceship Earth." *Wikipedia*. <https://en.wikipedia.org/wiki/Spaceship_Earth>.
-
-#cyberparadism on Tumblr. <https://www.tumblr.com/tagged/Cyberparadism?sort=top>.
-
-#cyberparadism on TikTok. <https://www.tiktok.com/tag/cyberparadism>.
+הנוף האסתטי-סמוך הרחב יותר רושם מערכת אקולוגית תרבותית-אסתטית בת זמננו שבמסגרתה הסייברפרדיזם פועל כעמדת סינתזה אופטימית-טכנולוגית-אקולוגית מהותית.

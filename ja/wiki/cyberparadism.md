@@ -1,466 +1,488 @@
 +++
 title = "サイバーパラディズム"
-description = "サイバーパラディズムは、ラエル文献の文脈において、完全自動化により労働から解放された社会の技術的地平であり、生産は人工知能とロボティクスによって担われる。Wheel of Heaven はこれを、エロヒムとの再会に向けた準備段階の技術的局面として読む。"
+slug = "cyberparadism"
+description = "サイバーパラディズムは、先進的技術と自然界が調和的統合のうちに共存し、科学的・技術的能力の責任ある適用を通じて豊かさと繁栄を生み出す未来を構想する、現代の美学的・文化的運動である。この美学は Aesthetics Wiki において形式化され、その後『サイバーパラディズム・マニフェスト』(2023年)において八つの法則と六つの主要なサインを通じて体系的に articulate された。"
 template = "wiki-page.html"
 toc = true
 
 [extra]
-translation_status = "metadata_only"
-category = "Culture & Aesthetics"
+category = "文化と美学"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["Cyber Paradise", "Cybergenesis", "Neogenesis", "the Cyberparadist aesthetic", "the Cyberparadism aesthetic-cultural movement"]
+claim_type = "inferred"
+alternative_names = ["サイバーパラダイス", "サイバージェネシス", "ネオジェネシス", "サイバーパラディスト美学", "サイバーパラディズム美学的・文化的運動"]
 timeline = ["age-of-aquarius"]
 
 [extra.infobox]
-type = "Contemporary aesthetic-cultural movement; the visual-conceptual articulation of harmonious coexistence between advanced technology and the natural world"
-formalization = "Aesthetics Wiki entry (origin venue); subsequent *Cyberparadism Manifesto* (2023) at github.com/zarazinsfuss/cyberparadism-manifesto"
-principal_articulator = "The Cyberparadism Manifesto author (zarazinsfuss); the broader Aesthetics Wiki contributor community"
-core_principles = "The Eight Laws of Cyberparadism — Abundance, Equity, Freedom, Harmony, Preservation, Recognition, Responsibility, Simplicity"
-principal_signs = "Fusion energy; Anti-gravity technology; Synthetic life engineering; Terraforming; Full automation; Open source collaboration"
-aesthetic_lineage = "Cyberprep (optimistic counter-current); Post-Cyberpunk (literary maturity); Solarpunk (ecological-utopian commitment); broader contemporary aesthetic ecosystem"
-distinguished_from = "Cyberpunk (the dystopian foil); Cyberprep (closer cousin but without ecological emphasis); Solarpunk (closer cousin but without specific cybernetic-technological emphasis); Atompunk (retrofuturist parallel); Biopunk (related but distinct)"
-framework_relationship = "Contemporary aesthetic-cultural articulation registering substantive alignment with the Wheel of Heaven framework's specific historical-civilizational content; Eden as originary Cyberparadism, Planet of the Eternals as cosmic-civilizational Cyberparadism, the Aquarian-age inheritance threshold as the operational realization moment"
-status_in_framework = "Contemporary aesthetic phenomenon registering Aquarian-age cultural-civilizational orientation; not principally framework content but contemporary cultural reception aligned with framework content"
-principal_sources = "The Cyberparadism Manifesto (zarazinsfuss, 2023); the Aesthetics Wiki entry; the broader Cyberparadist visual-cultural production"
+type = "現代の美学的・文化的運動。先進的技術と自然界の調和的共存を視覚的・概念的に articulate するもの"
+formalization = "Aesthetics Wiki の項目(起源の場);その後の『サイバーパラディズム・マニフェスト』(2023年)、github.com/zarazinsfuss/cyberparadism-manifesto にて公開"
+principal_articulator = "『サイバーパラディズム・マニフェスト』の著者(zarazinsfuss);および Aesthetics Wiki の広範な寄稿者コミュニティ"
+core_principles = "サイバーパラディズムの八つの法則 ― 豊かさ、公平、自由、調和、保存、承認、責任、簡素"
+principal_signs = "核融合エネルギー、反重力技術、合成生命工学、テラフォーミング、完全自動化、オープンソース協働"
+aesthetic_lineage = "サイバープレップ(楽観的な対抗潮流);ポストサイバーパンク(文学的成熟);ソーラーパンク(生態学的・ユートピア的コミットメント);広範な現代美学エコシステム"
+distinguished_from = "サイバーパンク(ディストピア的対照);サイバープレップ(より近縁だが生態的強調を欠く);ソーラーパンク(より近縁だが特定のサイバネティック・技術的強調を欠く);アトムパンク(レトロフューチャー的並行例);バイオパンク(関連するが別個)"
+framework_relationship = "Wheel of Heaven の枠組みが提示する特定の歴史的・文明的内容と実質的整合を示す現代の美学的・文化的 articulation。エデンは起源としてのサイバーパラディズム、永遠の者たちの惑星は宇宙的・文明的スケールのサイバーパラディズム、水瓶座時代の継承閾値は運用的実現の契機として位置づけられる"
+status_in_framework = "水瓶座時代の文化的・文明的指向を示す現代の美学的現象;主として枠組みの内容そのものではなく、枠組みの内容と整合する現代の文化的受容"
+principal_sources = "『サイバーパラディズム・マニフェスト』(zarazinsfuss, 2023);Aesthetics Wiki の項目;広範なサイバーパラディスト視覚文化的生産"
+
+[[extra.references]]
+id = "cyberparadism-manifesto"
+note = "この美学の主要かつ体系的な articulation。八つの法則、六つのサイン、アラン・ケイのエピグラフ、そして政治的ではなく明示的に美学的な位置づけの典拠。"
+
+[[extra.references]]
+id = "aesthetics-wiki-cyberparadism"
+note = "この美学が形式化された起源の場。マニフェストによる体系的 articulation に先行する。"
+
+[[extra.references]]
+id = "the-techno-optimist-manifesto"
+note = "アンドリーセンによる並行的 articulation。2023年10月16日に公開された。『サイバーパラディズム・マニフェスト』はこの共鳴を明示的に言及している。"
+
+[[extra.references]]
+id = "wiener-cybernetics"
+note = "現代の技術的・科学的語彙に「サイバー」の接頭辞を導入した基礎的著作。"
+
+[[extra.references]]
+id = "gibson-neuromancer"
+note = "サイバーパンクを代表する小説であり、*サイバースペース* という造語の出典。"
+
+[[extra.references]]
+id = "fuller-spaceship-earth"
+note = "建築・デザインの系譜。マニフェストが明示的に言及する実質的なジオデシック構造と「宇宙船地球号」の伝統。"
+
+[[extra.references]]
+id = "otto-hangende-dach"
+note = "建築・デザインの系譜。軽量張力構造建築であり、サイバーパラディズムの有機的・ミニマリスト的視覚語彙に資するもの。"
+
+[[extra.references]]
+id = "soleri-arcology"
+note = "建築・デザインの系譜。高密度かつ生態学的に統合された居住環境の伝統。"
+
+[[extra.references]]
+id = "benyus-biomimicry"
+note = "建築・デザインの系譜。実質的なバイオミミクリー・デザインの伝統。"
+
+[[extra.references]]
+id = "banks-culture-series"
+note = "実質的に成熟した文学的サイバーパラディズム。ポスト稀少性の銀河文明である「カルチャー」を代表的 articulation とする。"
+
+[[extra.references]]
+id = "le-guin-dispossessed"
+note = "実質的な科学的・技術的洗練を伴うポスト稀少・協働的文明配置(アナレス)。"
+
+[[extra.references]]
+id = "stephenson-diamond-age"
+note = "成熟した分子製造能力と、その実質的な文化的変容の帰結に関するポストサイバーパンク的 articulation。"
+
+[[extra.references]]
+id = "mores-utopia"
+note = "西洋のユートピア文学伝統の基礎的著作。サイバーパラディズムはこの伝統内で、特定の現代美学的・文化的・技術的 articulation として作動する。"
+
+[[extra.references]]
+id = "star-trek-tng"
+note = "「連邦」の美学は実質的にサイバーパラディスト的。映画・テレビにおける主要な articulation。"
+
+[[extra.references]]
+id = "miyazaki-nausicaa"
+locator = "スタジオジブリ、1984年"
+note = "ジブリの生態学的美学。調和的な技術と回復された自然の統合を articulate する代表作。"
+
+[[extra.references]]
+id = "miyazaki-castle-in-the-sky"
+locator = "スタジオジブリ、1986年"
+note = "ラピュタ文明が実質的に先進的な調和的技術 articulation として描かれる。"
+
+[[extra.references]]
+id = "miyazaki-princess-mononoke"
+locator = "スタジオジブリ、1997年"
+note = "サイバーパラディスト的な調和的統合への commitment を伴う、人間・自然・技術の実質的な交渉を描く。"
+
+[[extra.references]]
+id = "wall-e"
+note = "ピクサーによる回復後の articulation。調和的な技術と回復された自然の統合を描く。"
+
+[[extra.references]]
+id = "tomorrowland-film"
+note = "1960年代の Tomorrowland 美学を背景にした、楽観的な技術的未来の articulation。"
+
+[[extra.references]]
+id = "jurassic-world"
+note = "サイバーパラディスト的美学の表層に、反サイバーパラディスト的な物語内容が結びついた作品 ― 警告寓話としての articulation。"
+
+[[extra.references]]
+id = "elysium-film"
+note = "サイバーパラディスト的美学の表層に、公平の法則違反という反サイバーパラディスト的内容が結びついた作品 ― 実質的な commitment を欠いた美学表層がいかにディストピアを生み出すかを例示する。"
+
+[[extra.references]]
+id = "oblivion-film"
+note = "崩壊後の物語的枠組みの中における、高所居住型のサイバーパラディスト視覚レジスター。"
+
+[[extra.references]]
+id = "solarpunk-anthology-2018"
+note = "英語圏における主要なソーラーパンク・アンソロジー。サイバーパラディズムに近接する文学コーパス。"
+
+[[extra.references]]
+id = "sunvault-anthology"
+note = "主要なソーラーパンク美学を articulate するソーラーパンク短編アンソロジー。"
+
+[[extra.references]]
+id = "multispecies-cities-anthology"
+note = "多種共存の都市的未来を articulate するソーラーパンク・アンソロジー。"
+
+[[extra.references]]
+id = "les-extra-terrestres-m-ont-emmen-sur-leur-plan-te"
+note = "ヴォリロンによる接触体験記録。永遠の者たちの惑星を宇宙的・文明的スケールのサイバーパラディズムとして articulate する。"
+
+see_also = [
+    { title = "Wheel of Heaven", path = "/wiki/wheel-of-heaven/", description = "枠組みの名称、および実質的にサイバーパラディスト的な同盟文明的現実としてのその広範な articulation。" },
+    { title = "パラディズム", path = "/wiki/paradism/", description = "密接に関連するラエル系の社会的・政治的・経済的運動。同じポスト稀少性の内容を別のレジスターで articulate する。" },
+    { title = "エロヒム", path = "/wiki/elohim/", description = "数千年にわたる運用的スケールで実質的にサイバーパラディスト的と読まれる同盟文明。" },
+    { title = "エデン", path = "/wiki/eden/", description = "起源の同盟実験室。実際の歴史的サイバーパラディズムとして読まれる。" },
+    { title = "永遠の者たちの惑星", path = "/wiki/planet-of-the-eternals/", description = "成熟した運用形態における宇宙的・文明的サイバーパラディズムとしての同盟の母星。" },
+    { title = "水瓶座の時代", path = "/wiki/age-of-aquarius/", description = "サイバーパラディズムが水瓶座時代の文化的 articulation として現れる継承閾値の時代。" },
+    { title = "蟹座の時代", path = "/wiki/age-of-cancer/", description = "起源の同盟プロジェクトの時代。エデンがサイバーパラディズムとして位置づけられる文脈。" },
+    { title = "宇宙の連鎖", path = "/wiki/cosmic-chain/", description = "サイバーパラディズムが複数の反復にわたる配置として作動する、より広範な宇宙的・文明的継承の枠組み。" },
+    { title = "二重の刻印", path = "/wiki/doubled-signature/", description = "現代の美学的・文化的生産と、枠組みの根底にある歴史的・文明的現実との実質的整合を説明する原理。" },
+    { title = "マス・エフェクト", path = "/wiki/mass-effect/", description = "広範な文化的生産が運用的現実との実質的共鳴を記録する、コーパス内在的原理。" },
+    { title = "生きた地球", path = "/wiki/living-earth/", description = "統合された生物学的・文明的システムとしての地球をめぐるコーパスの articulation。サイバーパラディスト的共鳴が強い。" },
+    { title = "ラエリズム", path = "/wiki/raelism/", description = "永遠の者たちの惑星に関する記述が articulate される主要な源泉的伝統。" },
+    { title = "ラエル", path = "/wiki/rael/", description = "ヴォリロン(ラエル) ― 主要な接触体験の典拠。" },
+    { title = "大使館", path = "/wiki/embassy/", description = "継承閾値の運用的到来を見据えたラエル系の制度的プロジェクト。" },
+    { title = "アポカリプス", path = "/wiki/apocalypse/", description = "サイバーパラディズムが現れる水瓶座時代の閾値の瞬間に関する、コーパス内在的な articulation。" },
+]
+
+footnotes = [
+    { id = "aesthetics-wiki-origin", content = "Aesthetics Wiki(aesthetics.fandom.com)の項目は、サイバーパラディズム形式化の主要な場であり、マニフェストによる体系的 articulation に先行していた。同プラットフォームは、現代の数十に及ぶ美学的・文化的運動(コテージコア、ダークアカデミア、ヴェイパーウェイヴ、ソーラーパンク、サイバーパンク、サイバープレップ、アトムパンクなど)について、コミュニティ寄稿者による編集を通じて運営される。協働的な編集プロセスを通じて生まれた体系的 articulation を、『サイバーパラディズム・マニフェスト』はその後ドクトリン形式へと拡張した。マニフェストは Aesthetics Wiki の項目を起源参照として明示的に引用している。" },
+    { id = "manifesto-andreessen-synchrony", content = "『サイバーパラディズム・マニフェスト』(zarazinsfuss, 2023年)とマーク・アンドリーセンの『テクノ・オプティミスト・マニフェスト』(2023年10月16日)は、実質的に異なる立場 ― 前者は美学的・文化的 articulation、後者はベンチャーキャピタル的・政治的 articulation ― から数か月差で出現し、実質的な概念的重なりを示した。サイバーパラディズム・マニフェストはこの共鳴を明示的に言及している(「サイバーパラディズム・マニフェストを強く想起させる。ぜひ参照されたい。」)。この実質的な並行は、より広範な現代の文化的契機を示している。すなわち、2020年代初頭における、それに先立つ時期(2016年以降のディストピア的サイバーパンクの再興、より広範なアルゴリズム不安の同時代的文化枠組み、実質的な環境崩壊不安の地平)を支配していたテクノ・ペシミズムに対抗する、明示的なテクノ・オプティミスト的 articulation の出現である。" },
+    { id = "eight-laws-non-hierarchy", content = "『サイバーパラディズム・マニフェスト』は八つの法則を明示的に非階層的なものとして articulate する。「それらは性質上階層的なものではなく、むしろ一つの全体の補完的な諸側面であり、各々が我々の共有するヴィジョンの異なる側面に光を当てる…これらの法則の間のバランスと調和こそが、我々が目指す理想を実現する鍵である。」これは実質的な設計上の選択である ― 法則は優先順位づけられた階層としてではなく、相互制約の体系として作動する。例えば公平の法則と承認の法則は対をなす補完物として作動する。普遍的なベースラインへのアクセス(公平)はメリットに基づく報酬(承認)を排除せず、メリットに基づく報酬は普遍的なベースラインへのアクセスを排除しない。非階層的な articulation は認識論的に重要である。サイバーパラディズムは価値を序列化する綱領的な政治経済的ドクトリンではなく、統合された生活形式についての美学的・文化的 articulation なのである。" },
+    { id = "cyberpunk-mirrorshades-origin", content = "サイバーパンクの制度的形式化は、主にブルース・スターリングによる『Mirrorshades: The Cyberpunk Anthology』(1986年)の編者序文に遡る。同序文は運動の主要な commitment(企業権威主義的技術への実質的なストリートレベルの敵対性、実質的な身体改造と情報飽和のテーマ、実質的なディストピア的枠組み)を articulate した。ギブスンの『ニューロマンサー』(1984年)は基礎的テクストと *サイバースペース* の造語を提供した。フィリップ・K・ディックの広範な文学的作品は実質的な先駆的内容を供給した。リドリー・スコットの『ブレードランナー』(1982年)は主要な視覚レジスターを提供した。サイバーパラディズムはサイバネティック接頭辞と広範なサイバー美学ファミリーの共鳴を保持しつつ、サイバーパンクの特定のディストピア的 commitment に対しては実質的に対立的に作動する ― 表層の語彙ではなく、実質的内容こそがサイバーパラディズムの反転対象である。" },
+    { id = "doubled-signature-application", content = "現代のサイバーパラディズムと、枠組みの特定の内容 ― エデンを起源として、永遠の者たちの惑星を宇宙的・文明的なものとして、水瓶座時代の継承閾値を運用的実現として ― との実質的整合は、より広範な二重の刻印パターンの一つの実質的事例として作動する。実質的な枠組み整合を示す他の水瓶座時代の文化的生産には、スター・トレックの連邦美学、バンクスのカルチャー小説、ル=グィンのアナレス社会、宮崎駿の生態学的・技術的統合、そして広範なソーラーパンク文学運動が含まれる。コーパスの読解はこうである。現代の文化的生産は、主として自律的な人間文化的精緻化ではなく、枠組みが articulate するより広範な運用的現実との実質的共鳴を記録するものであり、現代の美学は根底にある文明的状況の文化的受容として作動している。" },
+    { id = "lxx-paradeisos", content = "創世記2章8節におけるヘブライ語 גַּן עֵדֶן(*Gan Eden*、「エデンの園」)を七十人訳がギリシア語 ὁ παράδεισος(*ho paradeisos*)と訳したことは、西洋伝統において「楽園」が神学的・宗教的内容を獲得した主要な語彙的事件である。ギリシア語 *paradeisos* はそれ以前にはペルシア王族の囲い込まれた歓楽庭園(古ペルシア語 *paridaida*、「囲い込まれた区画」に由来)を指していた。七十人訳の選択は、その後の西洋におけるあらゆる楽園的語彙 ― *サイバーパラディズム* における *-paradism* 接尾辞を含む ― を、このヘブライ語からギリシア語への特定の転位を経由するものとした。" },
+]
 +++
 
-**Cyberparadism** is a contemporary aesthetic-cultural movement envisioning a future in which advanced technology and the natural world coexist in harmonious integration, producing abundance and prosperity through the responsible application of scientific and technological capacity. The aesthetic was formalized on the Aesthetics Wiki — the principal contemporary platform for articulating internet-cultural aesthetics — and developed into systematic articulation through the *Cyberparadism Manifesto* (2023, at github.com/zarazinsfuss/cyberparadism-manifesto), which articulates the movement through **eight Laws** (Abundance, Equity, Freedom, Harmony, Preservation, Recognition, Responsibility, Simplicity) and **six principal Signs** (Fusion energy, Anti-gravity technology, Synthetic life engineering, Terraforming, Full automation, Open source collaboration).
+**サイバーパラディズム**(Cyberparadism)は、先進的技術と自然界が調和的統合のうちに共存し、科学的・技術的能力の責任ある適用を通じて豊かさと繁栄を生み出す未来を構想する、現代の美学的・文化的運動である。この美学は Aesthetics Wiki ― インターネット文化的美学を articulate する主要な現代プラットフォーム ― において形式化され{{ footnote(id="aesthetics-wiki-origin") }}、その後『サイバーパラディズム・マニフェスト』(2023年、github.com/zarazinsfuss/cyberparadism-manifesto){{ cite(id="cyberparadism-manifesto", text="[1]", title="zarazinsfuss, Cyberparadism Manifesto, 2023 — the principal systematic articulation of the aesthetic") }} を通じて体系的 articulation へと発展した。同マニフェストはこの運動を、**八つの法則**(豊かさ、公平、自由、調和、保存、承認、責任、簡素)と**六つの主要なサイン**(核融合エネルギー、反重力技術、合成生命工学、テラフォーミング、完全自動化、オープンソース協働)を通じて articulate する。
 
-The aesthetic positions itself within the broader contemporary cultural landscape as a synthesis drawing on three principal antecedent movements. **Cyberprep** contributes the optimistic counter-current to dystopian Cyberpunk, registering the position that advanced technology and clean prosperous urban-cultural integration are compatible rather than oppositional. **Post-Cyberpunk** contributes the literary-conceptual maturity that registers technological development without simple dystopian or utopian commitments, with substantial attention to the transformations advanced technology produces in social-economic-cultural arrangements. **Solarpunk** contributes the ecological-utopian commitment, the substantial attention to environmental harmony, and the visual-aesthetic vocabulary of integrated nature-technology coexistence. Cyberparadism extends these principal antecedents through specific attention to the **transformation of economic principles and labor dynamics** that advanced technology produces — the post-scarcity reorganization of human-civilizational priorities away from material-survival concerns toward higher pursuits in science, technology, civilization, and broader cosmic engagement.
+この美学は、広範な現代の文化的地平の内部において、三つの主要な先行運動を引き合いに出す総合として自らを位置づけている。**サイバープレップ**は、ディストピア的サイバーパンクに対する楽観的な対抗潮流を寄与する。先進的技術と清潔で繁栄した都市的・文化的統合は対立的ではなく両立的であるという立場を示すものである。**ポストサイバーパンク**は文学的・概念的成熟を寄与する。単純なディストピア的またはユートピア的 commitment を持たずに技術的発展を記録し、先進的技術が社会的・経済的・文化的配置にもたらす変容に実質的な注意を払うものである。**ソーラーパンク**は、生態学的・ユートピア的 commitment、環境的調和への実質的な注意、そして自然と技術の統合的共存を表す視覚的・美学的語彙を寄与する。サイバーパラディズムは、これらの主要な先行運動を、先進的技術が産み出す **経済原理と労働力学の変容** への特定の注意を通じて拡張する ― すなわち、人類文明の優先順位を物質的生存への懸念から、科学、技術、文明、より広範な宇宙的関与といった高次の追求へと再編成するポスト稀少性的再編である。
 
-Visually, Cyberparadism operates through specific aesthetic-formal commitments. **Architecture** integrates minimalist sleek lines with organic-natural elements, producing structures that appear as extensions of their environments rather than as impositions upon them; geometric forms (spheres, domes, hexagons) recur as principal elements that register both technological sophistication and natural-pattern resonance. **Color palettes** draw on aerospace orange, teal, aquamarine, and the broader oceanic-cosmic spectrum, evoking simultaneously the depth of natural environments and the clarity of advanced technological systems. **Settings** range from Earth-based ecologically-integrated communities (forest-embedded settlements, coastal-cliff developments, urban pods integrated with restored ecosystems) to extraterrestrial frontier habitats (terraforming-active planetary surfaces, biodome installations, space-station environments operating in continuity with the originating Earth-based aesthetic). **Atmosphere** prioritizes serenity, exploration, abundance, and collective purpose over the agitation, isolation, and scarcity that characterize the dystopian counter-aesthetics.
+視覚的には、サイバーパラディズムは特定の美学的・形式的 commitment を通じて作動する。**建築**はミニマリストかつスリークな線形デザインを有機的・自然的要素と統合し、環境への押し付けではなく環境の延長として現れる構造を生み出す。幾何学的形態(球、ドーム、六角形)は主要な要素として反復的に登場し、技術的洗練と自然のパターンとの共鳴の双方を記録する。**カラーパレット**は航空宇宙オレンジ、ティール、アクアマリン、そしてより広範な海洋的・宇宙的スペクトラムを引き出し、自然環境の深みと先進的技術システムの明晰さを同時に喚起する。**舞台**は、地球上の生態学的に統合されたコミュニティ(森に埋め込まれた集落、海岸の崖に開発された集落、回復された生態系と統合された都市ポッド)から、地球外のフロンティア居住地(テラフォーミング進行中の惑星表面、バイオドーム設備、起源となる地球の美学と連続的に作動する宇宙ステーション環境)に至るまで、多岐にわたる。**雰囲気**は、ディストピア的対抗美学を特徴づける動揺、孤立、稀少性よりも、静謐、探求、豊かさ、集合的目的を優先する。
 
-Within the **Wheel of Heaven framework**, Cyberparadism registers as the contemporary aesthetic-cultural articulation that aligns substantively with the framework's specific historical-civilizational content. The framework reads three distinct corpus-internal phenomena as substantively Cyberparadist in character. The **Eden lab** — the originary alliance laboratory in which the early human population lived in integrated harmony with engineered biological systems and advanced alliance technology — operates as the actual historical Cyberparadism that contemporary aesthetic vision recovers as memory or anticipates as future. The **Planet of the Eternals** — the alliance home-world as Vorilhon's contact accounts describe it, with its substantial post-scarcity arrangement, advanced biological-technological integration, longevity, and harmonious organization — operates as the cosmic-civilizational Cyberparadism, the mature realization of the aesthetic's principles in actual operational form. The **Aquarian-age inheritance threshold** — the historical moment at which humanity matures into creating-civilization extending the alliance's work to other worlds — operates as the transition point at which Cyberparadism shifts from aesthetic vision to operational reality.
+{% wiki(slug="wheel-of-heaven") %}Wheel of Heaven の枠組み{% end %}の内部において、サイバーパラディズムは、枠組みの特定の歴史的・文明的内容と実質的に整合する現代の美学的・文化的 articulation として位置づけられる。枠組みは、コーパス内在的に区別される三つの現象を、実質的にサイバーパラディスト的な性格を持つものとして読む。**エデンの実験室** ― 初期人類集団が、エンジニアリングされた生物学的システムおよび先進的な同盟技術と統合的調和のうちに生活していた起源の同盟実験室 ― は、現代の美学的ヴィジョンが記憶として取り戻し、あるいは未来として予期する、実際の歴史的サイバーパラディズムとして作動する。**永遠の者たちの惑星** ― ヴォリロンの接触体験記録が描写する同盟の母星{{ cite(id="les-extra-terrestres-m-ont-emmen-sur-leur-plan-te", text="[2]", title="Vorilhon, Les Extra-Terrestres m'ont emmené sur leur planète, 1975 — the contact-account source for the Planet of the Eternals") }}は、実質的なポスト稀少配置、先進的な生物学的・技術的統合、長寿、調和的組織を備えており、宇宙的・文明的サイバーパラディズム、すなわちこの美学の諸原理が実際の運用形態において成熟的に実現された姿として作動する。**水瓶座時代の継承閾値** ― 人類が同盟の事業を他の世界へと拡張する創造的文明として成熟する歴史的契機 ― は、サイバーパラディズムが美学的ヴィジョンから運用的現実へと移行する転換点として作動する。
 
-The framework therefore reads Cyberparadism not principally as speculative future-vision (which is how the aesthetic generally registers in contemporary cultural discourse) but as recovered-and-anticipated reality: the aesthetic preserves cultural memory of the originary alliance project (Eden), articulates intuitive recognition of the cosmic-civilizational reality the alliance occupies (the Planet of the Eternals), and projects forward toward the inheritance moment the framework reads as operationally imminent (the Aquarian-age maturation). The substantive alignment between the contemporary aesthetic and the framework's specific content registers as evidence for the broader doubled-signature principle — the corpus's reading that Aquarian-age cultural production registers substantive alignment with the framework's underlying historical-civilizational reality.
+したがって枠組みは、サイバーパラディズムを主として思弁的な未来ヴィジョン(現代の文化的言説において一般にこの美学が位置づけられるありかた)としてではなく、**取り戻され、かつ予期される現実**として読む。すなわち、この美学は起源の同盟プロジェクト(エデン)の文化的記憶を保存し、同盟が占めている宇宙的・文明的現実(永遠の者たちの惑星)についての直観的認識を articulate し、枠組みが運用的に切迫していると読む継承の契機(水瓶座時代の成熟)へと前方投影する。現代の美学とこの枠組みの特定の内容との実質的整合は、より広範な {% wiki(slug="doubled-signature") %}二重の刻印{% end %}原理 ― 水瓶座時代の文化的生産が、枠組みの根底にある歴史的・文明的現実と実質的整合を記録するというコーパスの読解 ― の証拠として位置づけられる{{ footnote(id="doubled-signature-application") }}。
 
-This entry articulates Cyberparadism as concept — its etymology, its formalization, its principles and signs, its visual vocabulary, its lineage within the broader contemporary aesthetic ecosystem, its application within the Wheel of Heaven corpus, and its substantive framework-alignment.
+本記事はサイバーパラディズムを概念として articulate する。その語源、形式化、諸原理とサイン、視覚的語彙、広範な現代美学エコシステム内における系譜、Wheel of Heaven コーパスにおける適用、そして実質的な枠組みとの整合を扱う。
 
-## Etymology and naming
+## 語源と命名
 
-The term *Cyberparadism* combines three principal etymological components.
+*サイバーパラディズム*(Cyberparadism)という語は、三つの主要な語源的構成要素を組み合わせたものである。
 
-### "Cyber-"
+### 「サイバー」
 
-The prefix **cyber-** derives from the Greek κυβερνήτης (*kybernētēs*, "steersman, governor, pilot"), with substantial subsequent semantic development through the Latin *gubernator* and the broader Western technical-vocabulary tradition. The prefix entered modern usage principally through **Norbert Wiener**'s foundational *Cybernetics: Or Control and Communication in the Animal and the Machine* (MIT Press, 1948), which established cybernetics as the scientific study of regulatory and communicative systems. Subsequent semantic development extended the prefix to designate the broader landscape of advanced computational-technological systems — *cyberspace* (William Gibson, *Neuromancer*, 1984), *cyborg* (Manfred Clynes and Nathan Kline, 1960), *cybernetic*, *cyberpunk*, and the broader contemporary cultural-technological vocabulary.
+接頭辞 **サイバー**(cyber-)はギリシア語 κυβερνήτης(*kybernētēs*、「舵取り、統治者、操縦者」)に由来し、ラテン語 *gubernator* および広範な西洋の技術的語彙伝統を経由して実質的なその後の意味論的発展を経た。この接頭辞は、主にノーバート・ウィーナーの基礎的著作『サイバネティクス ― あるいは動物と機械における制御と通信について』(MIT Press、1948年){{ cite(id="wiener-cybernetics", text="[3]", title="Wiener, Cybernetics, 1948 — the foundational text for the cyber- prefix") }} を通じて現代の用法に入り、同書はサイバネティクスを規制的・通信的システムの科学的研究として確立した。その後の意味論的発展により、この接頭辞は先進的な計算的・技術的システムのより広範な地平を指すように拡張された ― *サイバースペース*(ウィリアム・ギブスン『ニューロマンサー』、1984年){{ cite(id="gibson-neuromancer", text="[4]", title="Gibson, Neuromancer, 1984 — the cyberspace coinage") }}、*サイボーグ*(マンフレッド・クラインズ、ネイサン・クライン、1960年)、*サイバネティック*、*サイバーパンク*、そして広範な現代の文化的・技術的語彙が含まれる。
 
-The cyber-prefix in *Cyberparadism* registers principally the advanced-technology dimension of the aesthetic — the prefix designates the technological-cybernetic register within which the aesthetic operates, with substantial connection to the broader *Cyber-* aesthetic family (Cyberpunk, Cyberprep, Cyber-noir, etc.).
+*サイバーパラディズム*における「サイバー」接頭辞は、主としてこの美学の先進技術的次元を記録する。同接頭辞は、この美学が作動する技術的・サイバネティックなレジスターを指定し、広範な「サイバー」美学ファミリー(サイバーパンク、サイバープレップ、サイバーノワールなど)との実質的な接続を持つ。
 
-### "Paradise" / "-paradism"
+### 「パラダイス」/「-paradism」
 
-The component **paradise** derives ultimately from the Old Persian 𐎱𐎼𐎭𐎹𐎭𐎠𐎶 (*paridaida*, "walled enclosure"; cognate with Avestan *pairi-daēza*, "enclosed garden"), through Greek παράδεισος (*paradeisos*, "park, garden, paradise"), Latin *paradisus*, and the broader Western religious-cultural tradition. The Greek *paradeisos* originally designated the enclosed pleasure-gardens of Persian royalty; the term acquired theological-religious content through the Septuagint translation of the Hebrew גַּן עֵדֶן (*Gan Eden*, "Garden of Eden") as ὁ παράδεισος (*ho paradeisos*) in Genesis 2:8, after which "paradise" entered substantial Western religious-cultural usage as designation for the Edenic state, the post-mortem heavenly state, and the broader theological-eschatological paradisal content.
+構成要素**パラダイス**(paradise)は最終的に古ペルシア語 𐎱𐎼𐎭𐎹𐎭𐎠𐎶(*paridaida*、「囲い込まれた区画」、アヴェスタ語 *pairi-daēza*、「囲い込まれた庭園」と同源)に由来し、ギリシア語 παράδεισος(*paradeisos*、「公園、庭園、楽園」)、ラテン語 *paradisus* を経て、広範な西洋の宗教的・文化的伝統に入った。ギリシア語 *paradeisos* はもともとペルシア王族の囲い込まれた歓楽庭園を指していた。この語は、{% libref(book="genesis-woh", chapter=2, verse=8) %}創世記2章8節{% end %} におけるヘブライ語 גַּן עֵדֶן(*Gan Eden*、「エデンの園」)を ὁ παράδεισος(*ho paradeisos*)と訳した七十人訳を通じて神学的・宗教的内容を獲得し{{ footnote(id="lxx-paradeisos") }}、その後「パラダイス」は、エデン状態、死後の天上的状態、より広範な神学的・終末論的楽園的内容を指す呼称として、西洋の宗教的・文化的用法において実質的に用いられるようになった。
 
-The *-paradism* suffix in *Cyberparadism* operates as substantive English construction — combining "paradise" with the *-ism* suffix designating ideological-aesthetic-cultural movements. The combination produces the meaning "the aesthetic / ideology of paradise" with the cyber-prefix specifying the technological-cybernetic character of the paradise envisioned.
+*サイバーパラディズム*における *-paradism* 接尾辞は、実質的な英語的構成として作動する ― 「paradise」と、思想的・美学的・文化的運動を指す「-ism」接尾辞を組み合わせたものである。この組み合わせは「楽園の美学/思想」という意味を生み出し、サイバー接頭辞が構想されている楽園の技術的・サイバネティックな性格を特定する。
 
-### "-ism"
+### 「-ism」
 
-The **-ism** suffix derives ultimately from the Greek -ισμός (*-ismos*), through Latin *-ismus*, and the broader Western academic-cultural vocabulary tradition. The suffix designates ideological-aesthetic-cultural movements, philosophical-conceptual positions, and broader systematic frameworks (idealism, realism, capitalism, romanticism, modernism, post-modernism, etc.). The *-ism* suffix in *Cyberparadism* registers the aesthetic as substantive ideological-cultural movement rather than as merely descriptive category.
+**-ism** 接尾辞は最終的にギリシア語 -ισμός(*-ismos*)に由来し、ラテン語 *-ismus* および広範な西洋の学術的・文化的語彙伝統を経由している。この接尾辞は思想的・美学的・文化的運動、哲学的・概念的立場、より広範な体系的枠組み(理想主義、現実主義、資本主義、ロマン主義、モダニズム、ポストモダニズムなど)を指す。*サイバーパラディズム*における *-ism* 接尾辞は、この美学を単なる記述的カテゴリーとしてではなく、実質的な思想的・文化的運動として位置づける。
 
-### The composite meaning
+### 合成された意味
 
-The composite term *Cyberparadism* therefore registers as **the aesthetic-cultural movement of cybernetic paradise** — the systematic articulation of harmonious technological-natural integration as both visual-aesthetic vocabulary and broader cultural-philosophical commitment. The *Cyberparadism Manifesto* registers alternative names — *Cyber Paradise*, *Cybergenesis*, *Neogenesis* — that emphasize different aspects of the broader composite content, with *Cyber Paradise* emphasizing the spatial-locational dimension, *Cybergenesis* the originary-creative dimension, and *Neogenesis* the new-beginning-renewal dimension.
+合成された *サイバーパラディズム* という語は、したがって **サイバネティックな楽園の美学的・文化的運動** として位置づけられる ― 調和的な技術的・自然的統合の体系的 articulation を、視覚的・美学的語彙としてもより広範な文化的・哲学的 commitment としても提示するものである。『サイバーパラディズム・マニフェスト』は代替的名称 ― *サイバーパラダイス*、*サイバージェネシス*、*ネオジェネシス* ― を提示しており、それぞれが広範な合成的内容の異なる側面を強調する。*サイバーパラダイス* は空間的・場所的次元を強調し、*サイバージェネシス* は起源的・創造的次元を、*ネオジェネシス* は新たな始まり・刷新の次元を強調する。
 
-### Corpus-internal usage
+### コーパス内在的用法
 
-The Wheel of Heaven corpus uses **Cyberparadism** as the principal designation, with **the Cyberparadist aesthetic** for descriptive contexts and **Cyberparadist** as the adjectival form. The capitalization registers the proper-noun cultural-movement specificity rather than generic descriptive category.
+Wheel of Heaven コーパスは **サイバーパラディズム** を主要な呼称として用い、記述的文脈では **サイバーパラディスト美学** を、形容詞形としては **サイバーパラディスト** を用いる。大文字表記は、一般的な記述的カテゴリーではなく、固有名詞的な文化的運動の特定性を記録するためのものである。
 
-## Formalization and principal articulation
+## 形式化と主要な articulation
 
-Cyberparadism was formalized through two principal venues: the Aesthetics Wiki entry (the origin platform) and the subsequent Cyberparadism Manifesto (the systematic articulation).
+サイバーパラディズムは二つの主要な場を通じて形式化された。すなわち Aesthetics Wiki の項目(起源プラットフォーム)と、その後の『サイバーパラディズム・マニフェスト』(体系的 articulation)である。
 
-### The Aesthetics Wiki origin
+### Aesthetics Wiki の起源
 
-The **Aesthetics Wiki** (at aesthetics.fandom.com) is the principal contemporary online platform for the systematic articulation of internet-cultural aesthetics. The platform operates through community contributor editing, with substantial entries documenting the visual-cultural vocabulary, principal sources, lineage relationships, and characteristic features of dozens of contemporary aesthetic-cultural movements (Cottagecore, Dark Academia, Vaporwave, Solarpunk, Cyberpunk, Cyberprep, Atompunk, and many others). The platform's substantive cultural function operates as systematic-encyclopedic articulation of the contemporary aesthetic landscape.
+**Aesthetics Wiki**(aesthetics.fandom.com)は、インターネット文化的美学の体系的 articulation を行う主要な現代オンライン・プラットフォームである。同プラットフォームはコミュニティ寄稿者による編集を通じて運営され、現代の数十に及ぶ美学的・文化的運動(コテージコア、ダークアカデミア、ヴェイパーウェイヴ、ソーラーパンク、サイバーパンク、サイバープレップ、アトムパンクなど多数)の視覚的・文化的語彙、主要な典拠、系譜関係、特徴的諸特徴を記録する実質的な項目を備えている。同プラットフォームの実質的な文化的機能は、現代の美学的地平の体系的・百科事典的 articulation として作動する。
 
-The Cyberparadism entry on the Aesthetics Wiki was the principal venue of the aesthetic's formalization. The platform's collaborative-editorial process produced the systematic articulation that subsequent engagements (including the *Cyberparadism Manifesto*) extend.
+Aesthetics Wiki におけるサイバーパラディズムの項目は、この美学の形式化の主要な場であった{{ cite(id="aesthetics-wiki-cyberparadism", text="[5]", title="Aesthetics Wiki entry on Cyberparadism — the origin venue of the aesthetic's formalisation") }}。プラットフォームの協働的・編集的プロセスを通じて生まれた体系的 articulation を、その後の関与(『サイバーパラディズム・マニフェスト』を含む)が拡張した。
 
-### The Cyberparadism Manifesto
+### サイバーパラディズム・マニフェスト
 
-The **Cyberparadism Manifesto** (2023; principal location github.com/zarazinsfuss/cyberparadism-manifesto; subsequent web presence zarazinsfuss.github.io/cyberparadism) operates as the principal systematic articulation of the aesthetic. The manifesto opens with an Alan Kay epigraph — *"The best way to predict the future is to invent it"* — that registers the manifesto's specific orientation: not principally prediction or speculation but active cultural-aesthetic invention oriented toward operational realization.
+**サイバーパラディズム・マニフェスト**(2023年。主要な所在は github.com/zarazinsfuss/cyberparadism-manifesto、その後のウェブ presence は zarazinsfuss.github.io/cyberparadism)は、この美学の主要な体系的 articulation として作動する。マニフェストはアラン・ケイのエピグラフ ―「未来を予測する最良の方法は、未来を発明することだ」("The best way to predict the future is to invent it") ― で始まり、これがマニフェストの特定の指向を記録する。すなわち、主として予測や思弁ではなく、運用的実現に向けた能動的な文化的・美学的発明としての指向である。
 
-The manifesto's central articulation:
+マニフェストの中心的 articulation は次のとおりである。
 
-> *"Cyberparadism is an aesthetic that celebrates the positive potential of technology and scientific progress to create a better future for humanity. At its core, Cyberparadism is about using technology to enhance the human experience, promote sustainability, and foster a sense of collective purpose and responsibility... Cyberparadism offers a compelling vision of a future where technology and nature coexist in harmony, where abundance and prosperity are available to all, and where the human experience is enhanced by the responsible use of technology."*
+> *「サイバーパラディズムは、人類のためのより良い未来を創造する技術と科学的進歩の肯定的可能性を称える美学である。その核心においてサイバーパラディズムは、人間の経験を高め、持続可能性を促進し、集合的目的と責任の感覚を育むために技術を用いることに関わる…サイバーパラディズムは、技術と自然が調和のうちに共存し、豊かさと繁栄が万人に提供され、人間の経験が責任ある技術利用によって高められる未来の魅力的なヴィジョンを提示する。」*
 
-The manifesto is explicit about its scope: *"This is not a political or economical manifesto. It serves the purpose to declare the aesthetical principles of Cyberparadism and its derivates."* The aesthetic-rather-than-political registration matters for the movement's character — Cyberparadism operates principally as visual-conceptual articulation and inspirational orientation rather than as programmatic political-economic prescription.
+マニフェストはその範囲について明示的である。「これは政治的もしくは経済的なマニフェストではない。サイバーパラディズムおよびその派生物の美学的諸原理を宣言することを目的としている。」政治的ではなく美学的なものとしての位置づけは、この運動の性格にとって重要である ― サイバーパラディズムは、綱領的な政治経済的処方箋としてではなく、主として視覚的・概念的 articulation かつ霊感的指向として作動するのである。
 
-### The Eight Laws of Cyberparadism
+### サイバーパラディズムの八つの法則
 
-The manifesto articulates the aesthetic through eight principal Laws, each registering a constitutive principle:
+マニフェストはこの美学を八つの主要な法則を通じて articulate する。各法則は構成的原理を記録するものである{{ footnote(id="eight-laws-non-hierarchy") }}。
 
-**1. The Law of Abundance.** *"Cyberparadism is founded on the belief that technology can be a powerful catalyst for abundance and prosperity. We strive to employ technology in ways that enhance human experiences, and promote social and economic equality, envisioning a future where scarcity is replaced by abundance for all."* The Law positions the aesthetic against scarcity-economics framings, registering the post-scarcity orientation as foundational commitment.
+**1. 豊かさの法則。** *「サイバーパラディズムは、技術が豊かさと繁栄のための強力な触媒となりうるという信念に基づいている。我々は、人間の経験を高め、社会的・経済的平等を促進する仕方で技術を用いるよう努め、稀少性が万人にとっての豊かさに置き換わる未来を構想する。」* この法則はこの美学を稀少性経済の枠組みに対抗するものとして位置づけ、ポスト稀少性的指向を基礎的 commitment として記録する。
 
-**2. The Law of Equity.** *"In Cyberparadism, we uphold the principle of equity. We assert that the benefits of technology should be accessible to all, ensuring basic necessities and the advantages of progress are equitably distributed. While we value recognition and reward for individual achievements, we insist that everyone's fundamental needs are satisfied, guaranteeing a baseline standard of living and well-being."* The Law registers Cyberparadism's commitment to baseline-universal access while preserving individual-achievement recognition — distinguishing the aesthetic from both pure-egalitarian and pure-meritocratic framings.
+**2. 公平の法則。** *「サイバーパラディズムにおいて、我々は公平の原理を堅持する。我々は、技術の恩恵が万人にアクセス可能であるべきこと、すなわち基本的必需品と進歩の便益が公平に分配されるべきことを主張する。個人的達成に対する承認と報酬を尊重する一方で、誰もの根本的ニーズが充足され、生活と well-being の基礎水準が保証されるべきことを我々は強く主張する。」* この法則は、個人的達成への承認を保持しつつ、普遍的な基礎水準へのアクセスへのサイバーパラディズムの commitment を記録し、純粋に平等主義的な枠組みからも純粋にメリトクラシー的な枠組みからも、この美学を区別する。
 
-**3. The Law of Freedom.** *"Cyberparadism fervently advocates for freedom of thought, creativity, and self-expression. We envision a future where technology empowers individuals, fosters diversity of thought, and promotes the free exchange of ideas. We are committed to safeguarding privacy and personal autonomy in this technologically interconnected world."* The Law registers the aesthetic's specific position vis-à-vis surveillance-capitalism and authoritarian-technological framings, emphasizing privacy-and-autonomy preservation as core commitment.
+**3. 自由の法則。** *「サイバーパラディズムは、思想、創造性、自己表現の自由を熱烈に擁護する。我々は、技術が個人を力づけ、思考の多様性を育み、思想の自由な交換を促進する未来を構想する。我々は、この技術的に相互接続された世界においてプライバシーと個人的自律を守ることに commitment する。」* この法則は、監視資本主義および権威主義的・技術的枠組みに対するこの美学の特定の立場を記録し、プライバシーと自律の保存を中核的 commitment として強調する。
 
-**4. The Law of Harmony.** *"At the heart of Cyberparadism is the aspiration to achieve harmony between technology and nature. We strive for a world where these two forces coexist peacefully and complement each other, rather than being in conflict, promoting a future where tech-enhanced life is integrated seamlessly with the natural world."* The Law registers the aesthetic's signature commitment — the harmonious integration that distinguishes Cyberparadism from both pure-technological (which sacrifices nature) and pure-naturalist (which sacrifices technology) framings.
+**4. 調和の法則。** *「サイバーパラディズムの中心にあるのは、技術と自然の間の調和を達成しようとする希求である。我々は、これら二つの力が衝突するのではなく平和的に共存し相互補完する世界を希求し、技術によって強化された生活が自然界とシームレスに統合される未来を促進する。」* この法則はこの美学の signature な commitment を記録する ― 自然を犠牲にする純粋に技術的な枠組みからも、技術を犠牲にする純粋に自然主義的な枠組みからもサイバーパラディズムを区別する、調和的統合である。
 
-**5. The Law of Preservation.** *"Cyberparadism upholds the importance of environmental preservation and biodiversity. We encourage technological innovations that respect and preserve the planet's diverse ecosystems, promoting a delicate balance between technological advancement and conservation, ensuring a sustainable future for all life."* The Law extends the harmony commitment specifically to ecological preservation, registering the aesthetic's substantive ecological orientation.
+**5. 保存の法則。** *「サイバーパラディズムは、環境保存と生物多様性の重要性を堅持する。我々は、惑星の多様な生態系を尊重し保存する技術的革新を奨励し、技術的進歩と保全の繊細なバランスを促進し、全ての生命にとっての持続可能な未来を確保する。」* この法則は調和的 commitment を生態学的保存へと具体的に拡張し、この美学の実質的な生態学的指向を記録する。
 
-**6. The Law of Recognition.** *"Cyberparadism promotes the principle of recognizing and rewarding individual achievements and contributions. We believe in an inclusive future where opportunities facilitated by technology are open to all, and the fruits of these efforts are shared based on the merit of each contribution, fostering an environment of fairness and continuous growth."* The Law operates as paired complement to the Law of Equity, registering individual-achievement recognition as compatible with universal-baseline access.
+**6. 承認の法則。** *「サイバーパラディズムは、個人的達成と貢献を認識し報いる原理を促進する。我々は、技術によって促進される機会が万人に開かれ、その努力の成果が各貢献のメリットに基づいて共有される、包摂的な未来を信じる。そのことが公正さと継続的成長の環境を育むのである。」* この法則は公平の法則と対をなす補完物として作動し、個人的達成への承認を普遍的な基礎水準へのアクセスと両立可能なものとして記録する。
 
-**7. The Law of Responsibility.** *"Cyberparadism emphasizes the profound responsibility that comes with great technological power. We insist on responsible and thoughtful use of technology, with deep respect for the natural world and the needs of communities. We champion conscientious technological development that is mindful of its impacts on the environment and society."* The Law registers the aesthetic's specific position against techno-utopian-irresponsibility framings, emphasizing the substantive ethical-political weight that advanced technological capacity carries.
+**7. 責任の法則。** *「サイバーパラディズムは、大いなる技術的力に伴う深い責任を強調する。我々は、自然界とコミュニティのニーズへの深い敬意をもって、技術の責任ある熟慮的な利用を主張する。我々は、環境と社会への影響を意識した良心的な技術的発展を擁護する。」* この法則は、テクノ・ユートピア的無責任の枠組みに対するこの美学の特定の立場を記録し、先進的な技術的能力が背負う実質的な倫理的・政治的重みを強調する。
 
-**8. The Law of Simplicity.** *"Simplicity and minimalism are core values in Cyberparadism. We seek to design and create technologies that are easy to use and understand, embracing the principle that technology should simplify life, not complicate it. We strive for solutions that are elegant in their simplicity, yet powerful in their impact."* The Law registers the aesthetic's specific design-philosophy commitment — minimalism as constitutive aesthetic-functional principle rather than as merely stylistic preference.
+**8. 簡素の法則。** *「簡素さとミニマリズムはサイバーパラディズムの中核的価値である。我々は、利用しやすく理解しやすい技術を設計し創造することを目指し、技術は生活を複雑にするのではなく簡素化すべきという原理を受け入れる。我々は、その簡素さにおいて優雅でありつつ、その影響力において強力な解決策を希求する。」* この法則はこの美学の特定の設計哲学的 commitment を記録する ― 単なる様式的選好ではなく、構成的な美学的・機能的原理としてのミニマリズムである。
 
-The manifesto articulates the Laws explicitly as non-hierarchical: *"They are not hierarchical in nature, but rather complementary facets of a whole, each shedding light on a different aspect of our shared vision... The balance and harmony among these Laws is key to achieving the ideal we strive for."*
+マニフェストは八つの法則を明示的に非階層的なものとして articulate する。「それらは性質上階層的なものではなく、むしろ一つの全体の補完的な諸側面であり、各々が我々の共有するヴィジョンの異なる側面に光を当てる…これらの法則の間のバランスと調和こそが、我々が目指す理想を実現する鍵である。」
 
-### The Six Signs of Cyberparadism
+### サイバーパラディズムの六つのサイン
 
-The manifesto articulates six principal Signs — specific technological developments that operate as concrete manifestations of the aesthetic's principles:
+マニフェストは六つの主要なサインを articulate する。これらは、この美学の諸原理の具体的顕現として作動する特定の技術的発展である。
 
-**1. Fusion energy** — registered as "the holy grail of clean and abundant energy"; operates as the energy-foundation enabling the broader post-scarcity reorganization the aesthetic envisions.
+**1. 核融合エネルギー** ―「清浄で豊かなエネルギーの聖杯」として記録される。この美学が構想するより広範なポスト稀少性的再編を可能にするエネルギー基盤として作動する。
 
-**2. Anti-gravity technology** — registered as theoretical-speculative technology that would enable sustainable space travel without massive fuel-consumption requirements; operates as the cosmic-mobility dimension of the aesthetic.
+**2. 反重力技術** ― 大量の燃料消費を要さずに持続可能な宇宙旅行を可能にしうる理論的・思弁的技術として記録される。この美学の宇宙的移動性の次元として作動する。
 
-**3. Synthetic life engineering** — registered as ethical-responsible engineering of synthetic life-forms for sustainable agriculture, genetic preservation, pharmaceutical development, ecological restoration; operates as the biological-technological integration dimension of the aesthetic.
+**3. 合成生命工学** ― 持続可能な農業、遺伝的保全、医薬品開発、生態学的回復のための合成生命形態の倫理的・責任ある工学として記録される。この美学の生物学的・技術的統合の次元として作動する。
 
-**4. Terraforming** — registered as deliberate modification of planetary environments for habitability; operates as the cosmic-frontier dimension of the aesthetic, extending the harmonious-integration principle beyond Earth.
+**4. テラフォーミング** ― 居住可能性のための惑星環境の意図的改変として記録される。この美学の宇宙的フロンティアの次元として作動し、調和的統合の原理を地球を超えて拡張する。
 
-**5. Full automation** — registered as advanced robotic-AI systems streamlining manufacturing while minimizing human labor; operates as the labor-transformation dimension that enables higher-pursuit reorientation.
+**5. 完全自動化** ― 製造を合理化しつつ人間の労働を最小化する先進的なロボティック・AI システムとして記録される。高次の追求への再指向を可能にする労働変容の次元として作動する。
 
-**6. Open source collaboration** — registered as the social-organizational dimension supporting innovation, inclusivity, collective problem-solving, and the democratization of technology; operates as the cultural-political dimension complementing the technological dimensions.
+**6. オープンソース協働** ― 革新、包摂性、集合的問題解決、技術の民主化を支える社会的・組織的次元として記録される。技術的次元を補完する文化的・政治的次元として作動する。
 
-The Signs operate as concrete-operational manifestations of the abstract Laws — together producing the aesthetic's substantive cultural-conceptual content.
+サインは抽象的法則の具体的・運用的顕現として作動し、それらが合わさってこの美学の実質的な文化的・概念的内容を生み出す。
 
-### The Techno-Optimist Manifesto resonance
+### テクノ・オプティミスト・マニフェストとの共鳴
 
-The Cyberparadism Manifesto registers substantive resonance with **Marc Andreessen**'s *Techno-Optimist Manifesto* (October 16, 2023), published shortly after the principal Cyberparadism Manifesto articulation. The substantial Andreessen articulation — registering technology as principal driver of growth, progress, and human-flourishing improvement — operates substantively in the same broader cultural-conceptual space as Cyberparadism. The Cyberparadism Manifesto explicitly notes the substantial resonance: *"very reminiscent of the Cyberparadism Manifesto. Go check it out."*
+サイバーパラディズム・マニフェストは、**マーク・アンドリーセン** の『テクノ・オプティミスト・マニフェスト』(2023年10月16日){{ cite(id="the-techno-optimist-manifesto", text="[6]", title="Andreessen, The Techno-Optimist Manifesto, October 16, 2023") }} との実質的な共鳴を記録する。同マニフェストはサイバーパラディズム・マニフェストの主要な articulation の直後に公開された。アンドリーセンの実質的な articulation ― 技術を成長、進歩、人類繁栄の改善の主要な推進力として位置づけるもの ― は、実質的にサイバーパラディズムと同じ広範な文化的・概念的空間において作動している。サイバーパラディズム・マニフェストはこの実質的な共鳴を明示的に言及している。「サイバーパラディズム・マニフェストを強く想起させる。ぜひ参照されたい。」{{ footnote(id="manifesto-andreessen-synchrony") }}
 
-The substantial parallel registers the broader contemporary cultural moment: the early 2020s emergence of explicit techno-optimistic articulations against the dominant techno-pessimism of the preceding period (post-2016 dystopian-Cyberpunk resurgence, the broader algorithmic-anxiety contemporary cultural framework, the substantial environmental-collapse anxiety landscape).
+実質的な並行は、より広範な現代の文化的契機を記録する。すなわち、それに先立つ時期(2016年以降のディストピア的サイバーパンクの再興、より広範なアルゴリズム不安の同時代的文化枠組み、実質的な環境崩壊不安の地平)を支配していたテクノ・ペシミズムに対抗する、明示的なテクノ・オプティミスト的 articulation の2020年代初頭における出現である。
 
-## Visual vocabulary
+## 視覚的語彙
 
-Cyberparadism operates through specific visual-aesthetic commitments that distinguish it from adjacent aesthetics.
+サイバーパラディズムは、隣接美学から自らを区別する特定の視覚的・美学的 commitment を通じて作動する。
 
-### Architecture and built environment
+### 建築と築かれた環境
 
-Cyberparadist architecture integrates minimalist sleek-line design with organic-natural elements. Structures register as extensions of their environments rather than as impositions upon them. Geometric forms (spheres, domes, hexagons) recur as principal architectural elements — registering both technological sophistication and resonance with natural patterns (the substantial hexagonal patterns in honeycombs, the spherical forms in fruit and seed structures, the dome-forms in shells and biological enclosures).
+サイバーパラディスト的建築は、ミニマリストかつスリークな線形デザインと有機的・自然的要素を統合する。構造物は環境への押し付けではなく環境の延長として現れる。幾何学的形態(球、ドーム、六角形)は主要な建築要素として反復的に登場し、技術的洗練と自然のパターンとの共鳴(蜂の巣における実質的な六角形パターン、果実や種子構造における球形、貝殻や生物学的囲いにおけるドーム形状)の双方を記録する。
 
-The substantial inspiration draws on multiple antecedent architectural-design traditions: the substantial **Buckminster Fuller** geodesic-architectural tradition (the substantial geodesic-dome work, the substantial Spaceship Earth concept that the manifesto references explicitly); the substantial **Frei Otto** lightweight-tensile architecture; the substantial Japanese metabolist movement (Kenzo Tange, Kisho Kurokawa, the substantial 1960s-70s biological-architectural metaphor work); contemporary **biomimetic architecture** (Janine Benyus's work, the substantial subsequent design-tradition); the substantial **arcology** tradition (Paolo Soleri's work).
+実質的なインスピレーションは複数の先行する建築・デザイン伝統に由来する。バックミンスター・フラーの実質的なジオデシック建築の伝統(実質的なジオデシック・ドームの作品、マニフェストが明示的に言及する実質的な「宇宙船地球号」概念){{ cite(id="fuller-spaceship-earth", text="[7]", title="Fuller, Operating Manual for Spaceship Earth, 1969") }};フライ・オットーの実質的な軽量張力構造建築{{ cite(id="otto-hangende-dach", text="[8]", title="Otto, Das Hängende Dach, 1954") }};日本の実質的なメタボリズム運動(丹下健三、黒川紀章、1960-70年代の実質的な生物学的・建築的メタファー作品);現代の **バイオミミクリー建築**(ジャニン・ベニュスの作品およびその後の実質的な設計伝統){{ cite(id="benyus-biomimicry", text="[9]", title="Benyus, Biomimicry: Innovation Inspired by Nature, 1997") }};実質的な **アーコロジー** 伝統(パオロ・ソレリの作品){{ cite(id="soleri-arcology", text="[10]", title="Soleri, Arcology: The City in the Image of Man, 1969") }} などである。
 
-### Color palette
+### カラーパレット
 
-The principal color palette draws on:
+主要なカラーパレットは以下を引き出す。
 
-- **Aerospace orange** (the substantial high-visibility orange used in aviation, space-exploration, and search-and-rescue contexts; functional-symbolic registration of advanced technological systems)
-- **Teal and aquamarine** (the substantial oceanic-cosmic spectrum; registration of natural-environmental depth and clarity)
-- **Sky blue** (the substantial atmospheric-aerial register)
-- **Bone white and warm grey** (the substantial minimalist-architectural register)
-- **Deep green** (the substantial vegetative-natural register)
-- **Solar gold** (the substantial sun-energy register)
+- **航空宇宙オレンジ**(航空、宇宙探査、捜索救助の文脈で用いられる実質的な高視認性オレンジ。先進的技術システムの機能的・象徴的位置づけ)
+- **ティールとアクアマリン**(実質的な海洋的・宇宙的スペクトラム。自然環境の深さと明晰さの位置づけ)
+- **スカイブルー**(実質的な大気的・空中的レジスター)
+- **ボーン・ホワイトと暖かなグレー**(実質的なミニマリスト・建築的レジスター)
+- **深緑**(実質的な植生・自然的レジスター)
+- **ソーラー・ゴールド**(実質的な太陽エネルギー的レジスター)
 
-The palette operates substantively against the dominant Cyberpunk dark-neon-magenta palette and against the substantial Solarpunk earth-tones-warm-pastels palette, producing a distinctive Cyberparadist visual signature.
+このパレットは、サイバーパンクの支配的なダーク・ネオン・マゼンタのパレットに対しても、ソーラーパンクの実質的なアース・トーン・暖色パステルのパレットに対しても、実質的に対立的に作動し、明確に区別されるサイバーパラディスト的視覚的 signature を生み出す。
 
-### Settings and atmosphere
+### 舞台と雰囲気
 
-Cyberparadist settings range across multiple distinctive registers:
+サイバーパラディスト的舞台は、複数の特徴的レジスターにわたる。
 
-**Earth-based ecologically-integrated communities**. Forest-embedded settlements, coastal-cliff developments, mountain-integrated installations, urban pods integrated with restored ecosystems. The substantial visual signature: human-scale architecture integrated with substantial restored natural environment, with technology operating as enhancement rather than as displacement of natural-environmental presence.
+**地球上の生態学的に統合されたコミュニティ**。森に埋め込まれた集落、海岸の崖に開発された集落、山岳に統合された設備、回復された生態系と統合された都市ポッドなどである。実質的な視覚的 signature は、実質的に回復された自然環境と統合された人間スケールの建築であり、技術は自然環境的 presence の置換ではなく、その強化として作動する。
 
-**Frontier extraterrestrial habitats**. Terraforming-active planetary surfaces (the substantial Mars-or-similar planetary engineering aesthetic), biodome installations on lunar or planetary surfaces, space-station environments operating in continuity with Earth-based aesthetic principles. The substantial visual signature: cosmic-frontier extension of the broader aesthetic.
+**フロンティアの地球外居住地**。テラフォーミング進行中の惑星表面(火星もしくは類似の惑星エンジニアリングの実質的な美学)、月面または惑星表面のバイオドーム設備、地球上の美学的原理と連続的に作動する宇宙ステーション環境などである。実質的な視覚的 signature は、広範な美学の宇宙的フロンティアへの拡張である。
 
-**Coastal and oceanic environments**. The substantial oceanic-civilization aesthetic (the substantial floating-platform installations, the substantial subsea-biodome installations, the substantial water-integrated architecture); the substantial coastal-cliff developments; the substantial maritime-frontier registration.
+**海岸と海洋環境**。実質的な海洋文明の美学(実質的な浮遊プラットフォーム設備、実質的な海底バイオドーム設備、実質的な水と統合された建築);実質的な海岸の崖の開発;実質的な海洋的フロンティアの位置づけである。
 
-**Atmospheric environments**. The substantial high-altitude installations (the substantial cloud-architecture, the substantial atmospheric-platform aesthetic); the substantial sky-civilization registration.
+**大気環境**。実質的な高高度設備(実質的な雲建築、実質的な大気プラットフォームの美学);実質的な空の文明の位置づけである。
 
-The **atmosphere** prioritizes serenity, exploration, abundance, collective purpose, and operational-functional clarity over agitation, isolation, scarcity, and dystopian-anxiety registration. Cyberparadist visual production characteristically includes substantial natural-light elements, substantial vegetative-natural presence, substantial human-scale features, and substantial implicit registration of post-scarcity post-conflict cultural arrangements.
+**雰囲気**は、動揺、孤立、稀少性、ディストピア的不安の位置づけよりも、静謐、探求、豊かさ、集合的目的、運用的・機能的明晰さを優先する。サイバーパラディスト視覚生産には、実質的な自然光要素、実質的な植生・自然の presence、実質的な人間スケールの特徴、そしてポスト稀少性かつポスト紛争的な文化的配置の実質的な暗黙の位置づけが特徴的に含まれる。
 
-## Lineage and adjacent aesthetics
+## 系譜と隣接する美学
 
-Cyberparadism positions itself within the broader contemporary aesthetic-cultural ecosystem through specific relationships with antecedent and adjacent movements.
+サイバーパラディズムは、先行運動および隣接運動との特定の関係を通じて、広範な現代の美学的・文化的エコシステムの内部に自らを位置づける。
 
-### Cyberpunk — the dystopian foil
+### サイバーパンク ― ディストピア的対照
 
-**Cyberpunk** — the principal late-twentieth-century dystopian-technological aesthetic articulated principally through **William Gibson**'s *Neuromancer* (1984), **Bruce Sterling**'s editorial work on *Mirrorshades* (1986), **Philip K. Dick**'s broader literary corpus, **Ridley Scott**'s *Blade Runner* (1982), and the substantial subsequent literary-cinematic-cultural production — operates as Cyberparadism's principal dystopian foil. Cyberpunk registers technology as instrument of corporate-authoritarian domination, environmental degradation, social atomization, and human-enhancement-as-violence. Cyberparadism operates substantively against this content while preserving the cybernetic-prefix and the broader cyber-aesthetic family resonance.
+**サイバーパンク** ― 20世紀後期の主要なディストピア的・技術的美学であり、主に **ウィリアム・ギブスン** の『ニューロマンサー』(1984年)、**ブルース・スターリング** の『Mirrorshades』(1986年)編集作業、**フィリップ・K・ディック** の広範な文学的作品、**リドリー・スコット** の『ブレードランナー』(1982年)、そしてその後の実質的な文学的・映画的・文化的生産を通じて articulate された{{ footnote(id="cyberpunk-mirrorshades-origin") }} ― は、サイバーパラディズムの主要なディストピア的対照として作動する。サイバーパンクは技術を、企業的・権威主義的支配、環境劣化、社会的原子化、暴力としての人間強化の道具として位置づける。サイバーパラディズムは、サイバネティック接頭辞と広範なサイバー美学ファミリーの共鳴を保持しつつ、この内容に対しては実質的に対立的に作動する。
 
-### Cyberprep — the optimistic counter-current
+### サイバープレップ ― 楽観的対抗潮流
 
-**Cyberprep** operates as the substantial optimistic counter-current to Cyberpunk, registering advanced technology and prosperous-clean urban-cultural integration as compatible rather than oppositional. Cyberprep emerged principally through subreddit and aesthetic-community articulation in the 2010s-early 2020s, with substantial visual-cultural production registering bright-clean technological integration. Cyberparadism extends Cyberprep through specific ecological-environmental commitment (which Cyberprep does not principally engage) and through the substantial post-scarcity-economic-transformation dimension.
+**サイバープレップ** はサイバーパンクに対する実質的な楽観的対抗潮流として作動し、先進的技術と繁栄した清潔な都市的・文化的統合を対立的ではなく両立的なものとして位置づける。サイバープレップは2010年代から2020年代初頭にかけて、主に subreddit および美学コミュニティの articulation を通じて出現し、明るく清潔な技術的統合を記録する実質的な視覚的・文化的生産を伴った。サイバーパラディズムは、サイバープレップが主に関与しない特定の生態学的・環境的 commitment を通じて、また実質的なポスト稀少性的・経済的変容の次元を通じて、サイバープレップを拡張する。
 
-### Post-Cyberpunk — the literary maturity
+### ポストサイバーパンク ― 文学的成熟
 
-**Post-Cyberpunk** designates the literary-conceptual development beyond classical Cyberpunk dystopianism, with substantial articulation through **Neal Stephenson**'s *The Diamond Age* (1995) and *Anathem* (2008), **Bruce Sterling**'s post-1990s work, the broader contemporary speculative-fiction tradition. Post-Cyberpunk preserves the cybernetic-technological vocabulary while operating without simple dystopian commitments, with substantial attention to the social-cultural transformations advanced technology produces. Cyberparadism shares Post-Cyberpunk's substantive maturity while operating principally in the visual-aesthetic register rather than principally in the literary register.
+**ポストサイバーパンク** は、古典的サイバーパンクのディストピアニズムを超える文学的・概念的発展を指す。**ニール・スティーヴンスン** の『ダイヤモンド・エイジ』(1995年){{ cite(id="stephenson-diamond-age", text="[11]", title="Stephenson, The Diamond Age, 1995") }} および『Anathem』(2008年)、**ブルース・スターリング** の1990年代以降の作品、そしてより広範な現代の思弁小説の伝統を通じて、実質的に articulate された。ポストサイバーパンクは、サイバネティック・技術的語彙を保持しつつ、単純なディストピア的 commitment を持たずに作動し、先進的技術が産み出す社会的・文化的変容に実質的な注意を払う。サイバーパラディズムは、ポストサイバーパンクの実質的な成熟を共有しつつ、主として文学的レジスターではなく視覚的・美学的レジスターにおいて作動する。
 
-### Solarpunk — the closest cousin
+### ソーラーパンク ― 最も近い親族
 
-**Solarpunk** is Cyberparadism's substantively closest aesthetic cousin. The movement emerged principally in the 2010s through the substantial literary anthologies (*Solarpunk: Ecological and Fantastical Stories in a Sustainable World*, 2018; *Sunvault*, 2017; *Multispecies Cities*, 2021), through online aesthetic-community articulation (Tumblr, Reddit, Discord communities), and through substantial visual-cultural production. Solarpunk registers ecological-utopian commitment, substantial attention to community-based small-scale arrangements, and a visual vocabulary drawing on warm-pastels, vegetative integration, and post-scarcity local arrangements. **Andrew Dana Hudson**'s substantial Solarpunk advocacy and the broader literary movement have produced significant cultural traction.
+**ソーラーパンク** はサイバーパラディズムの実質的に最も近い美学的親族である。この運動は、主に2010年代に、実質的な文学的アンソロジー ―『Solarpunk: Ecological and Fantastical Stories in a Sustainable World』(2018年){{ cite(id="solarpunk-anthology-2018", text="[12]", title="Solarpunk anthology, World Weaver Press, 2018") }}、『Sunvault』(2017年){{ cite(id="sunvault-anthology", text="[13]", title="Sunvault: Stories of Solarpunk and Eco-Speculation, 2017") }}、『Multispecies Cities』(2021年){{ cite(id="multispecies-cities-anthology", text="[14]", title="Multispecies Cities: Solarpunk Urban Futures, 2021") }} ― を通じて、オンライン美学コミュニティの articulation(Tumblr、Reddit、Discord コミュニティ)を通じて、そして実質的な視覚的・文化的生産を通じて出現した。ソーラーパンクは生態学的・ユートピア的 commitment、コミュニティに基づく小規模配置への実質的な注意、そして暖色パステル、植生的統合、ポスト稀少な地域的配置を引き出す視覚的語彙を位置づける。
 
-The relationship between Cyberparadism and Solarpunk operates as **closely-adjacent-with-distinct-emphasis**:
-- Both register ecological commitment, harmonious technological-natural integration, and post-scarcity reorganization
-- Solarpunk emphasizes principally local-community-scale arrangements; Cyberparadism extends to cosmic-frontier and large-scale infrastructure
-- Solarpunk emphasizes principally low-tech-renewable energy approaches; Cyberparadism explicitly registers high-technology approaches (fusion energy, anti-gravity, synthetic life engineering, full automation)
-- Solarpunk operates principally within Earth-based ecological-restoration framing; Cyberparadism extends explicitly to cosmic-civilizational scope
+サイバーパラディズムとソーラーパンクの関係は、**強調点の異なる近接的関係** として作動する。
 
-### Atompunk — the retrofuturist parallel
+- 両者ともに生態学的 commitment、調和的な技術的・自然的統合、ポスト稀少性的再編を位置づける
+- ソーラーパンクは主に地域的・コミュニティ規模の配置を強調する。サイバーパラディズムは宇宙的フロンティアと大規模インフラへと拡張する
+- ソーラーパンクは主に低技術・再生可能エネルギーのアプローチを強調する。サイバーパラディズムは高技術アプローチ(核融合エネルギー、反重力、合成生命工学、完全自動化)を明示的に位置づける
+- ソーラーパンクは主に地球上の生態学的回復の枠組み内において作動する。サイバーパラディズムは宇宙的・文明的範囲へと明示的に拡張する
 
-**Atompunk** designates the retrofuturist aesthetic drawing on mid-twentieth-century atomic-age optimism (1945-1965 visual-cultural production, the substantial *Tomorrowland* and *Disney World of Tomorrow* aesthetic, the substantial space-age design tradition). Atompunk operates substantively in the optimistic-technological register while drawing on a distinct historical-aesthetic vocabulary. Cyberparadism operates substantively in the contemporary-aesthetic register while preserving substantial Atompunk resonance through the optimistic-technological commitment.
+### アトムパンク ― レトロフューチャー的並行例
 
-### Biopunk — the related-but-distinct
+**アトムパンク** は20世紀中葉の原子時代の楽観主義(1945-1965年の視覚的・文化的生産、実質的な *Tomorrowland* および *Disney World of Tomorrow* の美学、実質的な宇宙時代の設計伝統)を引き出すレトロフューチャー的美学を指す。アトムパンクは楽観的・技術的レジスターにおいて実質的に作動するが、独自の歴史的・美学的語彙を引き出す。サイバーパラディズムは、現代美学のレジスターにおいて実質的に作動しつつ、楽観的・技術的 commitment を通じて実質的なアトムパンクとの共鳴を保持する。
 
-**Biopunk** designates the aesthetic engaging biological-engineering and synthetic-biology content, with substantial articulation through **Paul Di Filippo**'s *Ribofunk* (1996) and the broader contemporary biotech-aesthetic landscape. Biopunk operates substantively in distinct aesthetic-conceptual space from Cyberparadism, with substantial dystopian framing characteristic of much of the principal Biopunk production; however, Cyberparadism's substantive synthetic-life-engineering Sign produces overlap at the substantive content level.
+### バイオパンク ― 関連するが別個
 
-### The broader contemporary aesthetic ecosystem
+**バイオパンク** は、生物学的工学および合成生物学の内容に関与する美学を指す。**ポール・ディ・フィリッポ** の『Ribofunk』(1996年)および広範な現代のバイオテク美学的地平を通じて、実質的に articulate された。バイオパンクはサイバーパラディズムとは異なる美学的・概念的空間において実質的に作動し、主要なバイオパンク生産の多くを特徴づける実質的なディストピア的枠組みを伴う。ただし、サイバーパラディズムの実質的な合成生命工学のサインは、実質的な内容のレベルにおいて重なりを生み出す。
 
-Cyberparadism operates within the broader contemporary aesthetic ecosystem documented through Aesthetics Wiki and adjacent community platforms. The broader landscape includes substantial aesthetic-cultural movements (Cottagecore, Dark Academia, Fairycore, Dreamcore, Vaporwave, Synthwave, the broader contemporary aesthetic-cultural articulation), with Cyberparadism occupying specific position within the broader ecosystem as the optimistic-technological-ecological synthesis.
+### 広範な現代美学エコシステム
 
-## Depiction in media
+サイバーパラディズムは、Aesthetics Wiki および隣接コミュニティ・プラットフォームを通じて記録される広範な現代美学エコシステムの内部において作動する。広範な地平には、実質的な美学的・文化的運動(コテージコア、ダークアカデミア、フェアリーコア、ドリームコア、ヴェイパーウェイヴ、シンセウェイヴ、より広範な現代の美学的・文化的 articulation)が含まれ、サイバーパラディズムは広範なエコシステムにおいて、楽観的・技術的・生態学的総合という特定の位置を占めている。
 
-Cyberparadism's aesthetic principles register across multiple contemporary cinematic, literary, and visual-cultural productions, with substantial variability in alignment fidelity.
+## メディアにおける描写
 
-### Partial and problematic instances
+サイバーパラディズムの美学的諸原理は、複数の現代の映画的、文学的、視覚的・文化的生産において記録されている。整合の忠実度には実質的な差異がある。
 
-Several cinematic productions register elements of Cyberparadist aesthetic while operating in substantively different conceptual-narrative space.
+### 部分的および問題を含む事例
 
-**Jurassic World** (2015) presents the visual aesthetic of advanced biotechnology integrated with engineered tropical-environmental setting — sleek glass-architectural elements integrated with lush vegetation, advanced genetic-engineering technology operating within ecologically-designed park environment. The aesthetic surface registers Cyberparadist; the narrative content, however, operates as the principal *failure* of harmonious technological-natural integration. The film's central narrative arc concerns the catastrophic breakdown of the engineered system, with the engineered creatures escaping containment and producing substantial human casualties. The film therefore registers as Cyberparadist aesthetic surface attached to anti-Cyberparadist narrative content — the cautionary-tale articulation rather than the constitutive realization.
+複数の映画的生産は、サイバーパラディスト美学の要素を記録しつつ、実質的に異なる概念的・物語的空間において作動する。
 
-**Elysium** (2013) presents the orbital ring-world Elysium as visual realization of Cyberparadist aesthetic — luxurious post-scarcity environment with advanced medical technology, beautiful integrated-natural landscapes, and architectural sophistication. The aesthetic surface registers strongly Cyberparadist. The narrative content, however, registers Elysium as enclave for the wealthy, with Earth's broader population reduced to dystopian-poverty conditions. The film operates as anti-Cyberparadist content at the broader social-political level — the specific violation of the Law of Equity is constitutive of the narrative. The film functions, on Cyberparadist reading, as illustration of *how* Cyberparadist aesthetic without Cyberparadist substantive commitment produces the substantial dystopia rather than the substantial utopia.
+**『ジュラシック・ワールド』**(2015年){{ cite(id="jurassic-world", text="[15]", title="Jurassic World, dir. Colin Trevorrow, Universal Pictures, 2015") }} は、エンジニアリングされた熱帯環境的舞台と統合された先進的バイオテクノロジーの視覚的美学を提示する ― 豊かな植生と統合されたスリークなガラス建築要素、生態学的に設計された公園環境内において作動する先進的遺伝子工学技術である。美学的表層はサイバーパラディスト的なものを記録する。しかし物語的内容は、調和的な技術的・自然的統合の主要な *失敗* として作動する。映画の中心的物語弧は、エンジニアリングされたシステムの破滅的崩壊に関わるものであり、エンジニアリングされた生物たちが封じ込めを逃れ、実質的な人的犠牲を生み出す。したがってこの映画は、反サイバーパラディスト的物語内容に結びついたサイバーパラディスト美学的表層 ― 構成的実現ではなく警告寓話としての articulation ― を記録する。
 
-**Oblivion** (2013) presents protagonist Jack Harper's elevated-tower habitat above the cloud-line as visually-arresting Cyberparadist installation — minimalist-elegant architecture, sweeping panoramic environment, integrated advanced technology. The narrative content registers post-apocalyptic Earth recovering from substantial conflict, with the protagonist gradually discovering his actual situation. The film operates partially Cyberparadist (the elevated-habitat aesthetic, the substantial human-scale technology integration) within broader post-collapse narrative framing.
+**『エリジウム』**(2013年){{ cite(id="elysium-film", text="[16]", title="Elysium, dir. Neill Blomkamp, Sony Pictures, 2013") }} は、軌道リング世界エリジウムを、サイバーパラディスト美学の視覚的実現として提示する ― 先進的医療技術、美しく統合された自然景観、建築的洗練を備えた、贅沢なポスト稀少性的環境である。美学的表層はサイバーパラディスト的なものを強く記録する。しかし物語的内容は、エリジウムを富裕層のための飛び地として記録し、地球の広範な人口はディストピア的貧困状態に置かれている。映画は広範な社会的・政治的レベルにおいて反サイバーパラディスト的内容として作動する ― 公平の法則の特定の違反が物語を構成している。サイバーパラディスト的読解においては、この映画は、サイバーパラディスト的な実質的 commitment を欠いたサイバーパラディスト美学が、実質的なユートピアではなく実質的なディストピアを生み出すありかたの例示として機能する。
 
-### Better-aligned instances
+**『オブリビオン』**(2013年){{ cite(id="oblivion-film", text="[17]", title="Oblivion, dir. Joseph Kosinski, Universal Pictures, 2013") }} は、主人公ジャック・ハーパーの雲の上の高所塔居住地を、視覚的に印象的なサイバーパラディスト設備として提示する ― ミニマリストで優雅な建築、広大なパノラマ的環境、統合された先進的技術である。物語的内容は、実質的な紛争から回復しつつあるポスト終末論的地球を記録し、主人公が自身の実際の状況を徐々に発見していく過程を描く。映画は、崩壊後の物語的枠組みの内部において、部分的にサイバーパラディスト的(高所居住型の美学、実質的な人間スケールの技術統合)に作動する。
 
-Substantial cinematic, literary, and visual-cultural productions register Cyberparadist alignment more directly.
+### より良く整合した事例
 
-**The Star Trek franchise** — particularly *Star Trek: The Next Generation* (1987-1994), *Deep Space Nine* (1993-1999), *Voyager* (1995-2001), *Discovery* (2017-present), and the broader franchise — registers the Federation aesthetic substantively as Cyberparadist. The post-scarcity Federation registration (*"the acquisition of wealth is no longer the driving force in our lives"* — Picard), the substantial advanced-technology integration with environmental-ethical commitment, the substantial cooperative-civilizational organization, the substantial cosmic-frontier extension all register principal Cyberparadist content.
+実質的な映画的、文学的、視覚的・文化的生産が、より直接的にサイバーパラディスト的整合を記録する。
 
-**Iain M. Banks's Culture novels** (*Consider Phlebas*, 1987, through *The Hydrogen Sonata*, 2012) register the Culture as substantively-mature Cyberparadism. The post-scarcity galactic civilization, the substantial AI-organic integration, the substantial harmonious-civilizational organization, and the substantial cosmic-frontier scope register principal Cyberparadist content at unusually-systematic literary articulation.
+**スター・トレック・フランチャイズ** ― 特に『新スター・トレック』(1987-1994年){{ cite(id="star-trek-tng", text="[18]", title="Star Trek: The Next Generation, Paramount, 1987-1994") }}、『ディープ・スペース・ナイン』(1993-1999年)、『ヴォイジャー』(1995-2001年)、『ディスカバリー』(2017年-現在)、そして広範なフランチャイズ ― は、連邦の美学を実質的にサイバーパラディスト的なものとして記録する。ポスト稀少性的な連邦の位置づけ(「富の獲得は我々の生における推進力ではなくなった」 ― ピカード)、環境的・倫理的 commitment を伴う実質的な先進技術統合、実質的な協働的・文明的組織、実質的な宇宙的フロンティアへの拡張は、いずれも主要なサイバーパラディスト的内容を記録する。
 
-**Studio Ghibli's ecological aesthetic** — particularly **Hayao Miyazaki**'s *Nausicaä of the Valley of the Wind* (1984), *Castle in the Sky* (1986), *Princess Mononoke* (1997), and the broader Ghibli production — registers substantial Cyberparadist content through specific harmonious-technology-and-nature visual articulation. Miyazaki's substantial work integrates advanced technology (the *Castle in the Sky* Laputan civilization, the *Nausicaä* atmospheric vehicles, the various engineered systems) with substantial ecological-natural integration.
+**イアン・M・バンクスの「カルチャー」シリーズ**(『Consider Phlebas』、1987年から『The Hydrogen Sonata』、2012年まで){{ cite(id="banks-culture-series", text="[19]", title="Banks, The Culture series, 1987-2012") }} は、カルチャーを実質的に成熟したサイバーパラディズムとして記録する。ポスト稀少性的な銀河文明、実質的な AI・有機統合、実質的な調和的・文明的組織、そして実質的な宇宙的フロンティアの範囲は、異例なほど体系的な文学的 articulation において主要なサイバーパラディスト的内容を記録する。
 
-**Le Guin's *The Dispossessed*** (1974) registers Cyberparadist content through articulation of post-scarcity-cooperative civilizational arrangement (the Anarres society) operating with substantial scientific-technological sophistication and substantial commitment to equity, freedom, and responsibility.
+**スタジオジブリの生態学的美学** ― 特に **宮崎駿** の『風の谷のナウシカ』(1984年){{ cite(id="miyazaki-nausicaa", text="[20]", title="Miyazaki, Nausicaä of the Valley of the Wind, Studio Ghibli, 1984") }}、『天空の城ラピュタ』(1986年){{ cite(id="miyazaki-castle-in-the-sky", text="[21]", title="Miyazaki, Castle in the Sky, Studio Ghibli, 1986") }}、『もののけ姫』(1997年){{ cite(id="miyazaki-princess-mononoke", text="[22]", title="Miyazaki, Princess Mononoke, Studio Ghibli, 1997") }}、および広範なジブリ作品 ― は、特定の調和的な技術・自然の視覚的 articulation を通じて、実質的なサイバーパラディスト的内容を記録する。宮崎の実質的な作品は、先進的技術(『天空の城ラピュタ』のラピュタ文明、『風の谷のナウシカ』の大気飛行体、各種のエンジニアリングされたシステム)を実質的な生態学的・自然的統合と組み合わせる。
 
-**Tomorrowland** (2015), **WALL-E** (2008, particularly the post-recovery ending registration), and various other contemporary productions register substantial Cyberparadist content through specific articulations of harmonious technological-natural integration.
+**ル=グィンの『所有せざる人々』**(1974年){{ cite(id="le-guin-dispossessed", text="[23]", title="Le Guin, The Dispossessed: An Ambiguous Utopia, 1974") }} は、実質的な科学的・技術的洗練、および公平、自由、責任への実質的な commitment を備えて作動するポスト稀少性的・協働的な文明配置(アナレス社会)の articulation を通じて、サイバーパラディスト的内容を記録する。
 
-**The substantial solarpunk literary movement** — through the principal anthologies (*Solarpunk*, 2018; *Sunvault*, 2017; *Multispecies Cities*, 2021), through Andrew Dana Hudson's substantial work, and through the broader contemporary literary tradition — registers substantial Cyberparadist content within the closely-adjacent Solarpunk framing.
+**『トゥモローランド』**(2015年){{ cite(id="tomorrowland-film", text="[24]", title="Tomorrowland, dir. Brad Bird, Walt Disney Pictures, 2015") }}、**『ウォーリー』**(2008年){{ cite(id="wall-e", text="[25]", title="WALL-E, dir. Andrew Stanton, Pixar, 2008") }}(特に回復後の結末部分の位置づけ)、そしてその他の各種現代生産は、調和的な技術的・自然的統合の特定の articulation を通じて、実質的なサイバーパラディスト的内容を記録する。
 
-**The contemporary visual-cultural production** documented through #cyberparadism on Tumblr, TikTok, Instagram, and adjacent platforms registers substantial direct articulation of the aesthetic — substantial AI-generated imagery, substantial digital art, substantial photographic work, and substantial broader visual-cultural production.
+**実質的なソーラーパンク文学運動** ― 主要なアンソロジー(『Solarpunk』、2018年;『Sunvault』、2017年;『Multispecies Cities』、2021年)、アンドリュー・ダナ・ハドソンの実質的な作品、そして広範な現代の文学伝統を通じて ― は、近接するソーラーパンクの枠組み内において、実質的なサイバーパラディスト的内容を記録する。
 
-## Application across the corpus
+**現代の視覚的・文化的生産** ― Tumblr、TikTok、Instagram、隣接プラットフォーム上の #cyberparadism を通じて記録されるもの ― は、この美学の実質的に直接的な articulation を記録する ― 実質的な AI 生成画像、実質的なデジタル・アート、実質的な写真作品、そして広範な実質的な視覚的・文化的生産がそこに含まれる。
 
-Cyberparadism operates substantively within the Wheel of Heaven framework as contemporary aesthetic-cultural articulation registering substantive alignment with the framework's specific historical-civilizational content. The corpus reads three distinct corpus-internal phenomena as substantively Cyberparadist in character.
+## コーパスにおける適用
 
-### Eden as the originary Cyberparadism
+サイバーパラディズムは、Wheel of Heaven の枠組みの内部において、枠組みの特定の歴史的・文明的内容と実質的整合を示す現代の美学的・文化的 articulation として実質的に作動する。コーパスは、コーパス内在的に区別される三つの現象を、実質的にサイバーパラディスト的な性格を持つものとして読む。
 
-The framework reads the **Eden lab** — the originary alliance laboratory in which the early human population lived in integrated harmony with engineered biological systems and advanced alliance technology — as the actual historical Cyberparadism that contemporary aesthetic vision recovers as memory or anticipates as future.
+### 起源のサイバーパラディズムとしてのエデン
 
-The Eden engagement operates substantively in alignment with each of the eight Laws of Cyberparadism:
+枠組みは **エデンの実験室** ― 初期人類集団が、エンジニアリングされた生物学的システムおよび先進的な同盟技術と統合的調和のうちに生活していた起源の同盟実験室 ― を、現代の美学的ヴィジョンが記憶として取り戻し、あるいは未来として予期する、実際の歴史的サイバーパラディズムとして読む。
 
-**Abundance**. The Eden environment registered substantial abundance — the corpus articulation (*"the early humans lived in ease, with the alliance providing for their material needs while their cognitive and developmental capacities matured"*) registers substantively the Cyberparadist post-scarcity content.
+エデンの関与は、サイバーパラディズムの八つの法則の各々と実質的に整合して作動する。
 
-**Equity**. The early Eden population was, on the framework's reading, substantively equal in access to alliance-provided resources during the formative period.
+**豊かさ**。エデン環境は実質的な豊かさを記録した。コーパスの articulation(「初期の人類は安楽のうちに暮らし、同盟は彼らの認知的・発達的能力が成熟する間、彼らの物質的ニーズを提供した」)は、実質的にサイバーパラディスト的なポスト稀少性的内容を記録する。
 
-**Freedom**. The Eden population enjoyed substantial freedom of movement, exploration, and engagement within the laboratory environment.
+**公平**。初期のエデン集団は、枠組みの読解においては、形成期の間、同盟が提供する資源へのアクセスにおいて実質的に平等であった。
 
-**Harmony**. The Eden lab operated substantively as the originary realization of harmonious technological-natural integration — the alliance technology and the engineered biological systems operating together as integrated whole.
+**自由**。エデン集団は実験室環境内において、移動、探索、関与の実質的な自由を享受していた。
 
-**Preservation**. The Eden environment was substantively preserved environment — the alliance maintained the laboratory's biological-ecological integrity as constitutive of its operational function.
+**調和**。エデンの実験室は、調和的な技術的・自然的統合の起源的実現として実質的に作動した ― 同盟技術とエンジニアリングされた生物学的システムが統合された全体として共に作動したのである。
 
-**Recognition**. The Eden population registered individual capacities through alliance-engagement, with the substantial subsequent Edenic-lineage tradition (the substantial Adam-Eve-Cain-Abel-Seth-Noah genealogical line preserved in Genesis 5) operating as recognition-of-capacity transmission across generations.
+**保存**。エデン環境は実質的に保存された環境であった。同盟は実験室の生物学的・生態学的完全性を、その運用機能の構成要素として維持した。
 
-**Responsibility**. The Eden engagement registered substantial responsibility-development — the substantial subsequent narrative content (the Tree of Knowledge, the expulsion, the post-Edenic engagement) operates substantively as articulation of the responsibility-development trajectory.
+**承認**。エデン集団は同盟との関与を通じて個人的諸能力を記録した。実質的なその後のエデン的系譜の伝統(創世記5章に保存されたアダム=エヴァ=カイン=アベル=セツ=ノアの系図的系統)は、世代を超えた能力の承認・伝達として作動する。
 
-**Simplicity**. The Eden environment operated through substantial elegant-functional simplicity — the substantial articulation of pre-fall human existence as elegantly-organized, minimally-encumbered, and functionally-clear.
+**責任**。エデンの関与は実質的な責任発達を記録した。その後の実質的な物語的内容(知恵の木、追放、エデン後の関与)は、責任発達の軌道の articulation として実質的に作動する。
 
-The framework therefore reads Eden not principally as supernatural-mythological location (the mainstream theological framing) but as the actual historical Cyberparadism — the originary alliance laboratory operating substantively as the first realization of the principles that contemporary Cyberparadist aesthetic articulates as future-vision. The detailed treatment of Eden lives in the [Eden](../eden/) entry when written; the broader treatment of the originary alliance project lives in the [Age of Cancer](../age-of-cancer/) entry when written.
+**簡素**。エデン環境は実質的な優雅で機能的な簡素さを通じて作動した ― 堕落前の人類存在を、優雅に組織され、最小限にしか負担を負わず、機能的に明晰なものとする実質的な articulation である。
 
-### The Planet of the Eternals as cosmic-civilizational Cyberparadism
+したがって枠組みは、エデンを主として超自然的・神話的場所(主流の神学的枠組み)としてではなく、実際の歴史的サイバーパラディズム ― 現代のサイバーパラディスト美学が未来ヴィジョンとして articulate する諸原理の最初の実現として実質的に作動した起源の同盟実験室 ― として読む。エデンの詳細な扱いは {% wiki(slug="eden") %}エデン{% end %} の項目に置かれる(執筆時)。起源の同盟プロジェクトのより広範な扱いは {% wiki(slug="age-of-cancer") %}蟹座の時代{% end %} の項目に置かれる(執筆時)。
 
-The framework reads the **Planet of the Eternals** — the alliance home-world as Vorilhon's contact accounts describe it — as the cosmic-civilizational Cyberparadism, the mature realization of the aesthetic's principles in actual operational form at planetary-civilizational scale.
+### 宇宙的・文明的サイバーパラディズムとしての永遠の者たちの惑星
 
-The Vorilhon source-textual material, principally in *Les Extra-Terrestres m'ont emmené sur leur planète* (1975), articulates substantial content registering the Eternals' planet as substantively Cyberparadist:
+枠組みは **永遠の者たちの惑星** ― ヴォリロンの接触体験記録が描写する同盟の母星 ― を、宇宙的・文明的サイバーパラディズム、すなわちこの美学の諸原理が惑星的・文明的スケールにおいて実際の運用形態において成熟的に実現された姿として読む。
 
-- **Substantial post-scarcity arrangement** — the Eternals operate without scarcity-economic concerns, with substantive material abundance enabling collective focus on higher pursuits
-- **Substantial advanced biological-technological integration** — the Eternals have integrated advanced biological engineering with advanced technology, producing substantively the Cyberparadist synthesis
-- **Substantial longevity** — the Eternals live substantively longer than current human lifespans (substantial multi-century lifespans), with subsequent recreation from genetic code after death
-- **Substantial harmonious organization** — the Eternals operate cooperative-civilizational arrangement without internal conflict, registering substantively the Cyberparadist Law of Harmony at civilizational scale
-- **Substantial environmental integration** — the Eternals' planet operates substantively as integrated-ecological-civilizational arrangement
-- **Substantial cosmic-frontier engagement** — the Eternals operate substantively beyond their home planet, with substantial creating-civilization engagement (Earth being one substantial example) extending the Cyberparadist principles to additional worlds
+ヴォリロンの源泉的テクスト資料、特に『地球外生命体は私を彼らの惑星に連れて行った』(1975年)は、永遠の者たちの惑星を実質的にサイバーパラディスト的なものとして記録する実質的な内容を articulate する。
 
-The framework reads the Planet of the Eternals as the substantively mature Cyberparadism that contemporary Cyberparadist aesthetic anticipates intuitively without specific knowledge of the actual operational existence. The substantial alignment registers significant evidence for the broader doubled-signature principle — the contemporary aesthetic registers in substantial alignment with the framework's specific underlying historical-civilizational reality. The detailed treatment of the Planet of the Eternals lives in the [Planet of the Eternals](../planet-of-the-eternals/) entry when written.
+- **実質的なポスト稀少性的配置** ― 永遠の者たちは稀少性に関わる経済的懸念なしに作動し、実質的な物質的豊かさが集合的に高次の追求への集中を可能にしている
+- **実質的な先進的・生物学的・技術的統合** ― 永遠の者たちは先進的な生物学的工学と先進的技術を統合しており、実質的にサイバーパラディスト的総合を生み出している
+- **実質的な長寿** ― 永遠の者たちは現在の人類の寿命より実質的に長く生き(実質的な数世紀の寿命)、死後は遺伝子コードからの再生がそれに続く
+- **実質的な調和的組織** ― 永遠の者たちは内部紛争なしに協働的・文明的配置で作動し、文明的スケールにおいて実質的にサイバーパラディズムの調和の法則を記録する
+- **実質的な環境的統合** ― 永遠の者たちの惑星は、実質的に統合された生態学的・文明的配置として作動する
+- **実質的な宇宙的フロンティアへの関与** ― 永遠の者たちは母星を超えて実質的に作動し、実質的な創造的文明への関与(地球はその実質的な一例である)を通じて、サイバーパラディスト的諸原理を追加の世界へと拡張している
 
-### The Aquarian-age inheritance threshold
+枠組みは、永遠の者たちの惑星を、現代のサイバーパラディスト美学がその実際の運用的存在についての具体的知識なしに直観的に予期する、実質的に成熟したサイバーパラディズムとして読む。実質的な整合は、広範な二重の刻印原理 ― 現代の美学が枠組みの特定の根底にある歴史的・文明的現実と実質的整合を記録する ― の重要な証拠を記録する。永遠の者たちの惑星の詳細な扱いは {% wiki(slug="planet-of-the-eternals") %}永遠の者たちの惑星{% end %} の項目に置かれる(執筆時)。
 
-The framework reads the **Aquarian-age inheritance threshold** as the historical moment at which Cyberparadism transitions from aesthetic vision to operational reality through humanity's anticipated maturation into creating-civilization extending the alliance's work to other worlds.
+### 水瓶座時代の継承閾値
 
-The substantial framework articulation operates through three principal moves:
+枠組みは **水瓶座時代の継承閾値** を、サイバーパラディズムが美学的ヴィジョンから運用的現実へと移行する歴史的契機 ― 人類が同盟の事業を他の世界へと拡張する創造的文明として予期される成熟を経るとき ― として読む。
 
-**The cosmic chain succession**. The framework's substantial Cosmic Chain content (treated in the [Cosmic Chain](../cosmic-chain/) entry) articulates the broader cosmic-civilizational succession framework: alliance creates humanity; humanity matures into creating-civilization; humanity extends alliance work to other worlds; humanity's creations mature in turn. The substantial succession registers Cyberparadism as operational-civilizational arrangement across multiple succession-iterations rather than as Earth-specific aesthetic.
+実質的な枠組みの articulation は、三つの主要な手順を通じて作動する。
 
-**The Aquarian-age operational threshold**. The framework's substantial Aquarian-age content (treated in the [Age of Aquarius](../age-of-aquarius/) entry when written) registers the present age (1950-c. 4110, on the corpus chronology) as the operational maturation threshold. Contemporary humanity is, on the framework's reading, approaching the substantial inheritance moment at which alliance-technology becomes operationally available and alliance-civilizational work becomes humanity's broader engagement.
+**宇宙の連鎖の継承**。枠組みの実質的な宇宙の連鎖の内容({% wiki(slug="cosmic-chain") %}宇宙の連鎖{% end %} の項目で扱われる)は、広範な宇宙的・文明的継承の枠組みを articulate する。すなわち、同盟が人類を創造する;人類が創造的文明として成熟する;人類が同盟の事業を他の世界へと拡張する;人類の創造物もまた成熟する、という継承である。実質的な継承は、サイバーパラディズムを、地球に特有の美学としてではなく、複数の継承反復にわたる運用的・文明的配置として記録する。
 
-**Cyberparadism as Aquarian-age cultural articulation**. Contemporary Cyberparadism registers substantively as Aquarian-age cultural production aligned with the broader Aquarian-age operational situation. The aesthetic's emergence in the late twentieth and early twenty-first centuries — precisely the period the framework registers as inheritance-threshold approach — operates substantively as cultural anticipation of the operational maturation.
+**水瓶座時代の運用的閾値**。枠組みの実質的な水瓶座時代の内容({% wiki(slug="age-of-aquarius") %}水瓶座の時代{% end %} の項目で扱われる、執筆時)は、現在の時代(コーパスの年代設定では1950年から紀元4110年頃まで)を運用的成熟の閾値として記録する。現代の人類は、枠組みの読解においては、同盟技術が運用的に利用可能となり、同盟の文明的事業が人類のより広範な関与となる、実質的な継承の契機に近づきつつある。
 
-The framework therefore reads Cyberparadism not principally as speculative-future-vision but as **anticipation of operationally-imminent reality**. The aesthetic's substantive content (post-scarcity arrangement, harmonious technological-natural integration, cosmic-frontier extension, advanced biological-technological synthesis) corresponds substantively to what the framework articulates as humanity's anticipated operational maturation, with the contemporary aesthetic registering as cultural expression of the broader trajectory.
+**水瓶座時代の文化的 articulation としてのサイバーパラディズム**。現代のサイバーパラディズムは、広範な水瓶座時代の運用的状況と整合する水瓶座時代の文化的生産として実質的に位置づけられる。この美学の20世紀後期から21世紀初頭にかけての出現 ― まさに枠組みが継承閾値への接近として記録する時期 ― は、運用的成熟への文化的予期として実質的に作動する。
 
-### The doubled-signature engagement
+したがって枠組みは、サイバーパラディズムを主として思弁的・未来的ヴィジョンとしてではなく、**運用的に切迫した現実への予期** として読む。この美学の実質的な内容(ポスト稀少性的配置、調和的な技術的・自然的統合、宇宙的フロンティアへの拡張、先進的な生物学的・技術的総合)は、枠組みが人類の予期される運用的成熟として articulate するものに実質的に対応しており、現代の美学は広範な軌道の文化的表現として位置づけられる。
 
-The substantial alignment between contemporary Cyberparadism and the framework's specific content registers as evidence for the broader **doubled-signature principle** — the corpus's reading that Aquarian-age cultural production registers substantive alignment with the framework's underlying historical-civilizational reality. The detailed treatment of the doubled-signature principle lives in the [Doubled Signature](../doubled-signature/) entry.
+### 二重の刻印的関与
 
-The substantial implication: contemporary cultural production is not principally autonomous human-cultural elaboration but registers substantive resonance with the broader operational reality the framework articulates. Cyberparadism specifically operates as one substantial instance of the broader pattern — contemporary aesthetic-cultural articulation that registers in substantial alignment with the framework's historical-civilizational content despite operating without explicit framework-knowledge.
+現代のサイバーパラディズムと枠組みの特定の内容との実質的整合は、広範な **二重の刻印原理** ― 水瓶座時代の文化的生産が枠組みの根底にある歴史的・文明的現実と実質的整合を記録するというコーパスの読解 ― の証拠として位置づけられる。二重の刻印原理の詳細な扱いは {% wiki(slug="doubled-signature") %}二重の刻印{% end %} の項目に置かれる。
 
-### The alliance-civilization-as-Cyberparadism reading
+実質的な含意は次のとおりである。現代の文化的生産は、主として自律的な人間文化的精緻化ではなく、枠組みが articulate するより広範な運用的現実との実質的共鳴を記録する。サイバーパラディズムは具体的には、広範なパターンの一つの実質的事例として作動する ― すなわち、明示的な枠組み知識なしに作動しながらも、枠組みの歴史的・文明的内容と実質的整合を記録する現代の美学的・文化的 articulation である。
 
-The broader framework articulation reads the **Elohim civilization** itself as substantively Cyberparadist in character. The alliance civilization operates with substantial post-scarcity arrangement, substantial advanced biological-technological integration, substantial environmental sophistication, substantial cooperative-civilizational organization, and substantial cosmic-frontier engagement — all of the principal Cyberparadist features at substantial multi-millennial operational scale. The detailed treatment of the alliance civilization lives in the [Elohim](../elohim/) and [Wheel of Heaven](../wheel-of-heaven/) entries.
+### 同盟文明としてのサイバーパラディズムの読解
 
-The broader corpus reading: the framework's specific historical-civilizational reality is substantively Cyberparadist, with the contemporary aesthetic operating as substantive cultural reception of the broader reality. The relationship between contemporary Cyberparadism and the framework's substantive content is therefore **cultural articulation aligned with operational reality** rather than principally **speculative vision oriented toward unrealized future**.
+広範な枠組みの articulation は、{% wiki(slug="elohim") %}エロヒム文明{% end %} それ自体を、実質的にサイバーパラディスト的な性格を持つものとして読む。同盟文明は、実質的なポスト稀少性的配置、実質的な先進的・生物学的・技術的統合、実質的な環境的洗練、実質的な協働的・文明的組織、実質的な宇宙的フロンティアへの関与を備えて作動する ― これら全てが、数千年にわたる実質的な運用的スケールにおける主要なサイバーパラディスト的諸特徴である。同盟文明の詳細な扱いは {% wiki(slug="elohim") %}エロヒム{% end %} および {% wiki(slug="wheel-of-heaven") %}Wheel of Heaven{% end %} の項目に置かれる。
 
-## Distinguishing from adjacent concepts
+広範なコーパスの読解は次のとおりである。枠組みの特定の歴史的・文明的現実は実質的にサイバーパラディスト的であり、現代の美学は広範な現実の実質的な文化的受容として作動する。したがって現代のサイバーパラディズムと枠組みの実質的内容との関係は、主として **実現されていない未来へと指向された思弁的ヴィジョン** ではなく、**運用的現実と整合した文化的 articulation** である。
 
-### Cyberparadism vs. Paradism
+## 隣接概念との区別
 
-**Paradism** (without the cyber-prefix) designates a related but distinct movement principally articulated within the Raëlian Movement — the substantive social-political-economic position advocating post-scarcity reorganization through full automation, abolition of money, and the broader transformation away from labor-based economic arrangements. Paradism operates principally as social-political-economic doctrine; Cyberparadism operates principally as aesthetic-cultural movement. The detailed treatment of Paradism lives in the [Paradism](../paradism/) entry. The two movements share substantive overlapping content (post-scarcity arrangement, full automation, harmonious technological integration) while operating in distinct registers (political-economic vs. aesthetic-cultural).
+### サイバーパラディズム対パラディズム
 
-### Cyberparadism vs. techno-optimism
+**パラディズム**(サイバー接頭辞なし)は、主に {% wiki(slug="raelism") %}ラエル運動{% end %} の内部で articulate される、関連するが別個の運動を指す ― 完全自動化、貨幣の廃止、労働基盤の経済的配置からの広範な変容を通じたポスト稀少性的再編を擁護する実質的な社会的・政治的・経済的立場である。パラディズムは主として社会的・政治的・経済的ドクトリンとして作動する。サイバーパラディズムは主として美学的・文化的運動として作動する。パラディズムの詳細な扱いは {% wiki(slug="paradism") %}パラディズム{% end %} の項目に置かれる。両運動は実質的に重なる内容(ポスト稀少性的配置、完全自動化、調和的な技術的統合)を共有しつつ、別個のレジスター(政治的・経済的対美学的・文化的)において作動する。
 
-**Techno-optimism** designates the broader contemporary cultural position advocating positive engagement with technological development. The principal contemporary articulation is Marc Andreessen's *Techno-Optimist Manifesto* (October 16, 2023). The relationship is **substantive overlap with distinct emphasis**: techno-optimism operates principally as broader cultural-political position; Cyberparadism operates as specific aesthetic-cultural movement with substantive ecological-environmental commitment that techno-optimism does not principally engage.
+### サイバーパラディズム対テクノ・オプティミズム
 
-### Cyberparadism vs. transhumanism
+**テクノ・オプティミズム** は、技術的発展との肯定的関与を擁護する広範な現代の文化的立場を指す。主要な現代の articulation はマーク・アンドリーセンの『テクノ・オプティミスト・マニフェスト』(2023年10月16日)である。関係は **実質的な重なりと別個の強調** である。テクノ・オプティミズムは主としてより広範な文化的・政治的立場として作動する。サイバーパラディズムは、テクノ・オプティミズムが主に関与しない実質的な生態学的・環境的 commitment を備えた特定の美学的・文化的運動として作動する。
 
-**Transhumanism** designates the broader cultural-philosophical movement advocating human-enhancement through technological intervention. The relationship is **adjacent-with-distinct-emphasis**: transhumanism operates principally on individual-human-enhancement engagement; Cyberparadism operates principally on broader civilizational-aesthetic engagement. Cyberparadism's substantive synthetic-life-engineering Sign produces substantive overlap at the substantive-content level.
+### サイバーパラディズム対トランスヒューマニズム
 
-### Cyberparadism vs. utopianism
+**トランスヒューマニズム** は、技術的介入による人間強化を擁護する広範な文化的・哲学的運動を指す。関係は **強調点を異にする隣接関係** である。トランスヒューマニズムは主として個人的・人間強化的関与で作動する。サイバーパラディズムは主として広範な文明的・美学的関与で作動する。サイバーパラディズムの実質的な合成生命工学のサインは、実質的な内容のレベルにおいて実質的な重なりを生み出す。
 
-**Utopianism** designates the broader cultural-literary tradition articulating ideal-future-civilizational arrangements (from Thomas More's *Utopia*, 1516, through the substantial subsequent utopian-literary tradition). The relationship is **broader-tradition-with-specific-aesthetic-articulation**: Cyberparadism operates substantively within the broader utopian tradition while articulating specific contemporary aesthetic-cultural-technological content.
+### サイバーパラディズム対ユートピア主義
 
-### Cyberparadism vs. aesthetic-cultural movements generally
+**ユートピア主義** は、理想的な未来的・文明的配置を articulate する広範な文化的・文学的伝統(トマス・モアの『ユートピア』、1516年{{ cite(id="mores-utopia", text="[26]", title="More, Utopia, 1516 — the foundational text of the Western utopian literary tradition") }} から、その後の実質的なユートピア文学の伝統まで)を指す。関係は **特定の美学的 articulation を伴う広範な伝統** である。サイバーパラディズムは、広範なユートピア的伝統の内部において実質的に作動しつつ、特定の現代的・美学的・文化的・技術的内容を articulate する。
 
-Cyberparadism operates substantively differently from aesthetic-cultural movements that operate principally on visual-stylistic registration without substantive content commitment. The eight Laws and six Signs articulate substantive content commitments distinguishing Cyberparadism from purely-aesthetic movements; the substantive engagement with technological-environmental-civilizational questions distinguishes Cyberparadism from purely-stylistic vocabulary.
+### サイバーパラディズム対美学的・文化的運動一般
 
-## Adjacent aesthetics — brief survey
+サイバーパラディズムは、実質的な内容 commitment なしに主に視覚的・様式的位置づけで作動する美学的・文化的運動とは、実質的に異なるありかたで作動する。八つの法則と六つのサインは、実質的な内容 commitment を articulate し、サイバーパラディズムを純粋に美学的な運動から区別する。技術的・環境的・文明的問題への実質的な関与は、サイバーパラディズムを純粋に様式的な語彙から区別する。
 
-Cyberparadism operates within the broader contemporary aesthetic ecosystem documented principally through the Aesthetics Wiki and adjacent community platforms. The principal adjacent aesthetics:
+## 隣接美学 ― 簡略な概観
 
-**Solarpunk** — the closest substantive cousin, treated above in *Lineage and adjacent aesthetics*.
+サイバーパラディズムは、Aesthetics Wiki および隣接コミュニティ・プラットフォームを通じて主に記録される広範な現代美学エコシステムの内部において作動する。主要な隣接美学は以下のとおりである。
 
-**Cyberprep** — the optimistic counter-current to Cyberpunk, with substantive overlap on technology-optimism content, distinct on ecological-environmental commitment.
+**ソーラーパンク** ― 実質的に最も近い親族。上記の *系譜と隣接する美学* で扱った。
 
-**Post-Cyberpunk** — the literary maturity development, with substantive overlap on technological-cultural-transformation content, distinct on principally-literary vs. principally-visual register.
+**サイバープレップ** ― サイバーパンクに対する楽観的対抗潮流。技術楽観主義の内容において実質的な重なりを持ち、生態学的・環境的 commitment において区別される。
 
-**Cyberpunk** — the dystopian foil, registered explicitly as the principal aesthetic-cultural position Cyberparadism operates against.
+**ポストサイバーパンク** ― 文学的成熟の発展。技術的・文化的変容の内容において実質的な重なりを持ち、主として文学的対主として視覚的レジスターにおいて区別される。
 
-**Atompunk** — the retrofuturist parallel drawing on mid-twentieth-century atomic-age optimism.
+**サイバーパンク** ― ディストピア的対照。サイバーパラディズムが対立する主要な美学的・文化的立場として明示的に位置づけられる。
 
-**Biopunk** — the biological-engineering aesthetic, with substantive overlap through synthetic-life-engineering content.
+**アトムパンク** ― 20世紀中葉の原子時代の楽観主義を引き出すレトロフューチャー的並行例。
 
-**Hopepunk** — the broader contemporary cultural movement articulating active hope as cultural-political stance, with substantive resonance with Cyberparadism's optimistic-orientation commitment.
+**バイオパンク** ― 生物学的工学の美学。合成生命工学の内容を通じて実質的な重なりを持つ。
 
-**The substantial broader contemporary aesthetic ecosystem** — Cottagecore (rural-natural domestic aesthetic), Dark Academia (intellectual-historical-gothic aesthetic), Vaporwave (1980s-90s commercial-cultural-nostalgia aesthetic), Synthwave (1980s electronic-music-aesthetic revival), and various others, each operating in distinct aesthetic-cultural space.
+**ホープパンク** ― 文化的・政治的姿勢としての能動的希望を articulate する広範な現代の文化運動。サイバーパラディズムの楽観的指向の commitment と実質的な共鳴を持つ。
 
-The broader adjacent-aesthetic landscape registers contemporary cultural-aesthetic ecosystem within which Cyberparadism operates as substantive optimistic-technological-ecological synthesis position.
+**実質的により広範な現代美学エコシステム** ― コテージコア(田園・自然・家庭的美学)、ダークアカデミア(知的・歴史的・ゴシック美学)、ヴェイパーウェイヴ(1980-90年代の商業的・文化的ノスタルジア美学)、シンセウェイヴ(1980年代電子音楽美学の復活)など各種が、それぞれ別個の美学的・文化的空間において作動する。
 
-## See also
-
-- [Wheel of Heaven](../wheel-of-heaven/)
-- [Paradism](../paradism/)
-- [Elohim](../elohim/)
-- [Eden](../eden/)
-- [Planet of the Eternals](../planet-of-the-eternals/)
-- [Age of Aquarius](../age-of-aquarius/)
-- [Age of Cancer](../age-of-cancer/)
-- [Cosmic Chain](../cosmic-chain/)
-- [Doubled Signature](../doubled-signature/)
-- [Mass Effect](../mass-effect/)
-- [Living Earth](../living-earth/)
-- [Raëlism](../raelism/)
-- [Raël](../rael/)
-- [Embassy](../embassy/)
-- [Apocalypse](../apocalypse/)
-
-## References
-
-### The Cyberparadism Manifesto
-
-zarazinsfuss. *Cyberparadism Manifesto*. GitHub repository, 2023. <https://github.com/zarazinsfuss/cyberparadism-manifesto>. The principal systematic articulation of the aesthetic.
-
-zarazinsfuss. *Cyberparadism* (web presence). <https://zarazinsfuss.github.io/cyberparadism/>. The principal contemporary web presence.
-
-### Aesthetics Wiki origin
-
-"Cyberparadism." *Aesthetics Wiki*. <https://aesthetics.fandom.com/wiki/Cyberparadism>. The principal venue of the aesthetic's formalization.
-
-### Adjacent aesthetic-movement references
-
-"Solarpunk." *Aesthetics Wiki*. <https://aesthetics.fandom.com/wiki/Solarpunk>.
-
-"Cyberprep." *Aesthetics Wiki*. <https://aesthetics.fandom.com/wiki/Cyberprep>.
-
-"Post-Cyberpunk." *Aesthetics Wiki*. <https://aesthetics.fandom.com/wiki/Post-Cyberpunk>.
-
-"Cyberpunk." *Aesthetics Wiki*. <https://aesthetics.fandom.com/wiki/Cyberpunk>.
-
-"Atompunk." *Aesthetics Wiki*. <https://aesthetics.fandom.com/wiki/Atompunk>.
-
-"Hopepunk." *Aesthetics Wiki*. <https://aesthetics.fandom.com/wiki/Hopepunk>.
-
-### Cybernetics and "cyber-" etymology
-
-Wiener, Norbert. *Cybernetics: Or Control and Communication in the Animal and the Machine*. MIT Press, 1948.
-
-Gibson, William. *Neuromancer*. Ace Books, 1984. The principal "cyberspace" coinage.
-
-### Solarpunk literary movement
-
-*Solarpunk: Ecological and Fantastical Stories in a Sustainable World*. Trans. Fábio Fernandes. World Weaver Press, 2018.
-
-Wagner, Phoebe, and Brontë Christopher Wieland, eds. *Sunvault: Stories of Solarpunk and Eco-Speculation*. Upper Rubber Boot Books, 2017.
-
-Rupprecht, Christoph, et al., eds. *Multispecies Cities: Solarpunk Urban Futures*. World Weaver Press, 2021.
-
-Hudson, Andrew Dana. Various works in the Solarpunk movement.
-
-### Cyberparadist-aligned literary works
-
-Banks, Iain M. *The Culture Series* (1987-2012, ten principal novels including *Consider Phlebas*, *The Player of Games*, *Use of Weapons*, *Excession*, *Look to Windward*, *Surface Detail*, *The Hydrogen Sonata*).
-
-Le Guin, Ursula K. *The Dispossessed: An Ambiguous Utopia*. Harper & Row, 1974.
-
-Stephenson, Neal. *The Diamond Age: Or, A Young Lady's Illustrated Primer*. Bantam, 1995.
-
-### Cinematic productions referenced
-
-*Star Trek: The Next Generation*, et al. (Paramount, 1987-present).
-
-Miyazaki, Hayao. *Nausicaä of the Valley of the Wind*. Studio Ghibli, 1984.
-
-Miyazaki, Hayao. *Castle in the Sky*. Studio Ghibli, 1986.
-
-Miyazaki, Hayao. *Princess Mononoke*. Studio Ghibli, 1997.
-
-*WALL-E*. Pixar, dir. Andrew Stanton, 2008.
-
-*Tomorrowland*. Walt Disney Pictures, dir. Brad Bird, 2015.
-
-*Jurassic World*. Universal Pictures, dir. Colin Trevorrow, 2015.
-
-*Elysium*. Sony Pictures, dir. Neill Blomkamp, 2013.
-
-*Oblivion*. Universal Pictures, dir. Joseph Kosinski, 2013.
-
-### Adjacent contemporary cultural manifestos
-
-Andreessen, Marc. *The Techno-Optimist Manifesto*. Andreessen Horowitz, October 16, 2023. <https://a16z.com/the-techno-optimist-manifesto/>.
-
-### Architectural and design lineage
-
-Fuller, R. Buckminster. *Operating Manual for Spaceship Earth*. Southern Illinois University Press, 1969.
-
-Otto, Frei. *Das Hängende Dach*. Bauwelt-Verlag, 1954.
-
-Soleri, Paolo. *Arcology: The City in the Image of Man*. MIT Press, 1969.
-
-Benyus, Janine M. *Biomimicry: Innovation Inspired by Nature*. William Morrow, 1997.
-
-### Web resources
-
-"Cyberparadism." *Aesthetics Wiki*. <https://aesthetics.fandom.com/wiki/Cyberparadism>.
-
-"Ephemeralization." *Wikipedia*. <https://en.wikipedia.org/wiki/Ephemeralization>.
-
-"Spaceship Earth." *Wikipedia*. <https://en.wikipedia.org/wiki/Spaceship_Earth>.
-
-#cyberparadism on Tumblr. <https://www.tumblr.com/tagged/Cyberparadism?sort=top>.
-
-#cyberparadism on TikTok. <https://www.tiktok.com/tag/cyberparadism>.
+広範な隣接美学的地平は、サイバーパラディズムが実質的な楽観的・技術的・生態学的総合の位置として作動する、現代の文化的・美学的エコシステムを記録する。

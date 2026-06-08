@@ -1,466 +1,487 @@
 +++
 title = "赛博乐园主义"
-description = "赛博乐园主义在雷尔派文献框架中,是借助全面自动化将社会从劳动中解放的技术地平,其生产由人工智能与机器人技术承担。Wheel of Heaven 文集将其读作通向与厄罗欣重逢的准备阶段的技术阶段。"
+slug = "cyberparadism"
+description = "赛博乐园主义是一种当代的美学—文化运动,设想一个先进技术与自然世界在和谐整合中共存的未来,通过对科学与技术能力的负责任运用,产生丰盛与繁荣。该美学最初在 Aesthetics Wiki 上得到形式化,并在《赛博乐园主义宣言》(2023)中通过八条法则与六大主要标志得到系统性阐发。"
 template = "wiki-page.html"
 toc = true
 
 [extra]
-translation_status = "metadata_only"
-category = "Culture & Aesthetics"
+category = "文化与美学"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["Cyber Paradise", "Cybergenesis", "Neogenesis", "the Cyberparadist aesthetic", "the Cyberparadism aesthetic-cultural movement"]
+claim_type = "inferred"
+alternative_names = ["赛博乐园", "赛博创世", "新创世", "赛博乐园主义美学", "赛博乐园主义美学—文化运动"]
 timeline = ["age-of-aquarius"]
 
 [extra.infobox]
-type = "Contemporary aesthetic-cultural movement; the visual-conceptual articulation of harmonious coexistence between advanced technology and the natural world"
-formalization = "Aesthetics Wiki entry (origin venue); subsequent *Cyberparadism Manifesto* (2023) at github.com/zarazinsfuss/cyberparadism-manifesto"
-principal_articulator = "The Cyberparadism Manifesto author (zarazinsfuss); the broader Aesthetics Wiki contributor community"
-core_principles = "The Eight Laws of Cyberparadism — Abundance, Equity, Freedom, Harmony, Preservation, Recognition, Responsibility, Simplicity"
-principal_signs = "Fusion energy; Anti-gravity technology; Synthetic life engineering; Terraforming; Full automation; Open source collaboration"
-aesthetic_lineage = "Cyberprep (optimistic counter-current); Post-Cyberpunk (literary maturity); Solarpunk (ecological-utopian commitment); broader contemporary aesthetic ecosystem"
-distinguished_from = "Cyberpunk (the dystopian foil); Cyberprep (closer cousin but without ecological emphasis); Solarpunk (closer cousin but without specific cybernetic-technological emphasis); Atompunk (retrofuturist parallel); Biopunk (related but distinct)"
-framework_relationship = "Contemporary aesthetic-cultural articulation registering substantive alignment with the Wheel of Heaven framework's specific historical-civilizational content; Eden as originary Cyberparadism, Planet of the Eternals as cosmic-civilizational Cyberparadism, the Aquarian-age inheritance threshold as the operational realization moment"
-status_in_framework = "Contemporary aesthetic phenomenon registering Aquarian-age cultural-civilizational orientation; not principally framework content but contemporary cultural reception aligned with framework content"
-principal_sources = "The Cyberparadism Manifesto (zarazinsfuss, 2023); the Aesthetics Wiki entry; the broader Cyberparadist visual-cultural production"
+type = "当代美学—文化运动;先进技术与自然世界和谐共存的视觉—概念性阐发"
+formalization = "Aesthetics Wiki 词条(起源平台);随后于 github.com/zarazinsfuss/cyberparadism-manifesto 发布的《赛博乐园主义宣言》(2023)"
+principal_articulator = "《赛博乐园主义宣言》作者(zarazinsfuss);更广泛的 Aesthetics Wiki 贡献者社群"
+core_principles = "赛博乐园主义八大法则——丰盛、公平、自由、和谐、保护、认可、责任、简约"
+principal_signs = "核聚变能源;反重力技术;合成生命工程;星球地球化;全面自动化;开源协作"
+aesthetic_lineage = "赛博学院风(乐观的反向潮流);后赛博朋克(文学成熟期);太阳朋克(生态—乌托邦承诺);更广泛的当代美学生态"
+distinguished_from = "赛博朋克(反乌托邦反衬);赛博学院风(更近的近亲,但缺乏生态强调);太阳朋克(更近的近亲,但缺乏特定的控制论—技术强调);原子朋克(复古未来主义的并行);生物朋克(相关但有别)"
+framework_relationship = "当代美学—文化阐发,与 Wheel of Heaven 框架中的特定历史—文明内容存在实质性契合;伊甸园作为本源的赛博乐园主义,永恒者之星作为宇宙—文明尺度的赛博乐园主义,水瓶座时代的继承门槛作为运行性实现的时刻"
+status_in_framework = "当代美学现象,标记着水瓶座时代的文化—文明取向;并非主要属于框架内容,而是与框架内容相契合的当代文化接收"
+principal_sources = "《赛博乐园主义宣言》(zarazinsfuss, 2023);Aesthetics Wiki 词条;更广泛的赛博乐园主义视觉—文化生产"
+
+[[extra.references]]
+id = "cyberparadism-manifesto"
+note = "该美学的主要系统性阐发。八大法则、六大标志、艾伦·凯题词以及明确的美学(而非政治)定位的来源。"
+
+[[extra.references]]
+id = "aesthetics-wiki-cyberparadism"
+note = "该美学形式化的起源平台,早于《宣言》的系统性阐发。"
+
+[[extra.references]]
+id = "the-techno-optimist-manifesto"
+note = "安德森的平行阐发,发表于 2023 年 10 月 16 日;《赛博乐园主义宣言》明确指出其共鸣。"
+
+[[extra.references]]
+id = "wiener-cybernetics"
+note = "将 cyber- 前缀引入现代技术—科学词汇的奠基性文本。"
+
+[[extra.references]]
+id = "gibson-neuromancer"
+note = "主要的赛博朋克小说,也是 *cyberspace*(赛博空间)一词的来源。"
+
+[[extra.references]]
+id = "fuller-spaceship-earth"
+note = "建筑—设计谱系;《宣言》明确引用的庞大的测地线与地球太空船传统。"
+
+[[extra.references]]
+id = "otto-hangende-dach"
+note = "建筑—设计谱系;为赛博乐园主义的有机—极简视觉词汇提供养分的轻型张拉建筑。"
+
+[[extra.references]]
+id = "soleri-arcology"
+note = "建筑—设计谱系;高密度生态整合栖居地传统。"
+
+[[extra.references]]
+id = "benyus-biomimicry"
+note = "建筑—设计谱系;庞大的仿生设计传统。"
+
+[[extra.references]]
+id = "banks-culture-series"
+note = "实质上成熟的文学赛博乐园主义;后稀缺银河文明 Culture 作为主要阐发。"
+
+[[extra.references]]
+id = "le-guin-dispossessed"
+note = "具有相当科学—技术成熟度的后稀缺—合作文明安排(Anarres)。"
+
+[[extra.references]]
+id = "stephenson-diamond-age"
+note = "后赛博朋克对成熟分子制造能力及其文化—变革性后果的阐发。"
+
+[[extra.references]]
+id = "mores-utopia"
+note = "西方乌托邦文学传统的奠基性文本,赛博乐园主义作为特定的当代美学—文化—技术阐发在此传统内运作。"
+
+[[extra.references]]
+id = "star-trek-tng"
+note = "联邦美学实质上是赛博乐园主义的;主要的影视阐发。"
+
+[[extra.references]]
+id = "miyazaki-nausicaa"
+locator = "吉卜力工作室, 1984"
+note = "吉卜力的生态美学;和谐技术与恢复自然整合的主要阐发。"
+
+[[extra.references]]
+id = "miyazaki-castle-in-the-sky"
+locator = "吉卜力工作室, 1986"
+note = "拉普达文明作为实质上先进的和谐技术阐发。"
+
+[[extra.references]]
+id = "miyazaki-princess-mononoke"
+locator = "吉卜力工作室, 1997"
+note = "具有赛博乐园主义和谐整合承诺的人—自然—技术协商。"
+
+[[extra.references]]
+id = "wall-e"
+note = "皮克斯对和谐技术与恢复自然整合的灾后—复苏式阐发。"
+
+[[extra.references]]
+id = "tomorrowland-film"
+note = "借鉴更广泛的 1960 年代 Tomorrowland 美学的乐观技术未来阐发。"
+
+[[extra.references]]
+id = "jurassic-world"
+note = "赛博乐园主义美学表皮附加在反赛博乐园主义的叙事内容上——警世寓言式阐发。"
+
+[[extra.references]]
+id = "elysium-film"
+note = "赛博乐园主义美学表皮附加在违反公平法则的反赛博乐园主义内容上——说明缺乏实质承诺的美学表皮如何产生反乌托邦。"
+
+[[extra.references]]
+id = "oblivion-film"
+note = "在更广泛的灾后叙事框架中的高空栖居赛博乐园主义视觉登记。"
+
+[[extra.references]]
+id = "solarpunk-anthology-2018"
+note = "主要的英语太阳朋克选集;与赛博乐园主义紧密相邻的文学语料。"
+
+[[extra.references]]
+id = "sunvault-anthology"
+note = "阐发主要太阳朋克美学的太阳朋克短篇小说选集。"
+
+[[extra.references]]
+id = "multispecies-cities-anthology"
+note = "关于多物种城市未来阐发的太阳朋克选集。"
+
+[[extra.references]]
+id = "les-extra-terrestres-m-ont-emmen-sur-leur-plan-te"
+note = "Vorilhon 的接触报告,将永恒者之星阐发为宇宙—文明尺度的赛博乐园主义。"
+
+see_also = [
+    { title = "天之轮", path = "/wiki/wheel-of-heaven/", description = "框架名称及其作为实质上具有赛博乐园主义特征的联盟—文明现实的更广泛阐发。" },
+    { title = "乐园主义", path = "/wiki/paradism/", description = "密切相关的雷尔派社会—政治—经济运动;同样的后稀缺内容,但在不同语域中。" },
+    { title = "耶洛因", path = "/wiki/elohim/", description = "联盟文明,被读作在多千年运行尺度上实质上属于赛博乐园主义的存在。" },
+    { title = "伊甸园", path = "/wiki/eden/", description = "本源的联盟实验室,被读作实际历史中的赛博乐园主义。" },
+    { title = "永恒者之星", path = "/wiki/planet-of-the-eternals/", description = "作为宇宙—文明尺度赛博乐园主义在成熟运行形态中的联盟母星。" },
+    { title = "水瓶座时代", path = "/wiki/age-of-aquarius/", description = "继承门槛时代,赛博乐园主义在此时代作为水瓶座时代的文化阐发出现。" },
+    { title = "巨蟹座时代", path = "/wiki/age-of-cancer/", description = "本源的联盟项目时代,伊甸园作为赛博乐园主义即坐落于此。" },
+    { title = "宇宙链", path = "/wiki/cosmic-chain/", description = "更广泛的宇宙—文明承续框架,赛博乐园主义在此框架内作为多迭代安排运作。" },
+    { title = "双重签名", path = "/wiki/doubled-signature/", description = "用以说明当代美学—文化生产与框架底层历史—文明现实之间实质性契合的原则。" },
+    { title = "群体效应", path = "/wiki/mass-effect/", description = "文集内部用以说明广泛文化生产与运行性现实产生实质共鸣的原则。" },
+    { title = "活的地球", path = "/wiki/living-earth/", description = "文集对地球作为生物—文明整合系统的阐发,与赛博乐园主义有实质共鸣。" },
+    { title = "雷尔运动", path = "/wiki/raelism/", description = "永恒者之星报告所在的主要源传统。" },
+    { title = "雷尔", path = "/wiki/rael/", description = "Vorilhon(雷尔)作为主要的接触报告来源。" },
+    { title = "大使馆", path = "/wiki/embassy/", description = "雷尔派的机构项目,为继承门槛的运行性到来作准备。" },
+    { title = "启示", path = "/wiki/apocalypse/", description = "文集内部对水瓶座时代门槛时刻的阐发,赛博乐园主义在其中浮现。" },
+]
+
+footnotes = [
+    { id = "aesthetics-wiki-origin", content = "Aesthetics Wiki(aesthetics.fandom.com)词条是赛博乐园主义形式化的主要平台,早于《宣言》的系统性阐发。该平台通过社群贡献者编辑运作,覆盖数十种当代美学—文化运动(田园核、暗黑学院风、蒸汽波、太阳朋克、赛博朋克、赛博学院风、原子朋克等)。协作—编辑过程产生了系统性阐发,《赛博乐园主义宣言》随后将其扩展为教义形式,《宣言》明确引用 Aesthetics Wiki 词条作为起源参考。" },
+    { id = "manifesto-andreessen-synchrony", content = "《赛博乐园主义宣言》(zarazinsfuss, 2023)与马克·安德森的《技术乐观主义宣言》(2023 年 10 月 16 日)在数月之内从实质上不同的立场出现——前者作为美学—文化阐发,后者作为风险投资—政治阐发——并在概念上注册了实质性重叠。《赛博乐园主义宣言》明确指出共鸣(\"非常令人想起赛博乐园主义宣言。去看看吧。\")。这一实质性平行登记了更广泛的当代文化时刻:2020 年代初出现明确的技术乐观主义阐发,以对抗前一时期占主导地位的技术悲观主义(2016 年后的反乌托邦赛博朋克回潮、更广泛的算法焦虑当代文化框架、实质性的环境崩溃焦虑景观)。" },
+    { id = "eight-laws-non-hierarchy", content = "《赛博乐园主义宣言》明确将八大法则阐发为非等级化的:\"它们本质上不是等级化的,而是同一整体的互补面向,各自照亮我们共同愿景的不同方面……这些法则之间的平衡与和谐是实现我们所追求理想的关键。\"这是一项实质性的设计选择——法则作为相互约束的系统运作,而非作为优先级排序的等级。例如,公平法则与认可法则作为成对互补运作:普遍基准准入(公平)并不排斥基于功绩的奖励(认可),基于功绩的奖励也不排斥普遍基准准入。这种非等级化阐发在认识论上至关重要:赛博乐园主义并非对各价值进行排序的纲领性政治—经济教义;它是对一种整合生活形式的美学—文化阐发。" },
+    { id = "cyberpunk-mirrorshades-origin", content = "赛博朋克的体制化形式化主要追溯至布鲁斯·斯特林为《镜影:赛博朋克选集》(1986)所写的编者导言,该文阐发了运动的主要承诺(实质性的街头层面对企业—威权技术的对抗、实质性的身体改造与信息饱和主题、实质性的反乌托邦框架)。吉布森的《神经漫游者》(1984)提供了奠基文本与 *cyberspace*(赛博空间)一词;菲利普·K·迪克更广泛的文学语料提供了实质性的先驱内容;雷德利·斯科特的《银翼杀手》(1982)提供了主要的视觉登记。赛博乐园主义保留了控制论前缀与更广泛的 cyber-美学家族共鸣,同时实质上与赛博朋克的特定反乌托邦承诺相对立——赛博乐园主义所颠覆的是实质内容,而非表面词汇。" },
+    { id = "doubled-signature-application", content = "当代赛博乐园主义与框架特定内容——伊甸园作为本源、永恒者之星作为宇宙—文明尺度、水瓶座时代继承门槛作为运行性实现——之间的实质契合,作为更广泛双重签名模式的一个实质性实例运作。其他登记实质性框架契合的水瓶座时代文化生产包括《星际迷航》的联邦美学、班克斯的 Culture 系列小说、勒古恩的 Anarres 社会、宫崎骏的生态—技术整合,以及更广泛的太阳朋克文学运动。文集解读:当代文化生产并非主要是自主的人类文化加工,而是与框架所阐发的更广泛运行性现实产生实质共鸣,当代美学作为底层文明状况的文化接收运作。" },
+    { id = "lxx-paradeisos", content = "七十士译本在《创世记》2:8 处将希伯来语 גַּן עֵדֶן(*Gan Eden*,\"伊甸之园\")译为 ὁ παράδεισος(*ho paradeisos*),这是西方传统中\"乐园\"获得其神学—宗教内容的主要词汇事件。希腊语 *paradeisos* 此前指代波斯王室的封闭游乐花园(源自古波斯语 *paridaida*,\"墙围之地\")。七十士译本的选择使所有后续西方乐园词汇——包括 *赛博乐园主义* 中的 *-paradism* 后缀——都通过这一特定的希伯来—希腊语转译加以路由。" },
+]
 +++
 
-**Cyberparadism** is a contemporary aesthetic-cultural movement envisioning a future in which advanced technology and the natural world coexist in harmonious integration, producing abundance and prosperity through the responsible application of scientific and technological capacity. The aesthetic was formalized on the Aesthetics Wiki — the principal contemporary platform for articulating internet-cultural aesthetics — and developed into systematic articulation through the *Cyberparadism Manifesto* (2023, at github.com/zarazinsfuss/cyberparadism-manifesto), which articulates the movement through **eight Laws** (Abundance, Equity, Freedom, Harmony, Preservation, Recognition, Responsibility, Simplicity) and **six principal Signs** (Fusion energy, Anti-gravity technology, Synthetic life engineering, Terraforming, Full automation, Open source collaboration).
+**赛博乐园主义**是一种当代的美学—文化运动,设想一个先进技术与自然世界在和谐整合中共存的未来,通过对科学与技术能力的负责任运用,产生丰盛与繁荣。该美学最初在 Aesthetics Wiki ——当前主要的互联网文化美学阐发平台{{ footnote(id="aesthetics-wiki-origin") }}——上得到形式化,并通过《赛博乐园主义宣言》(2023,见 github.com/zarazinsfuss/cyberparadism-manifesto){{ cite(id="cyberparadism-manifesto", text="[1]", title="zarazinsfuss, Cyberparadism Manifesto, 2023 — the principal systematic articulation of the aesthetic") }} 发展为系统性阐发,通过**八大法则**(丰盛、公平、自由、和谐、保护、认可、责任、简约)与**六大主要标志**(核聚变能源、反重力技术、合成生命工程、星球地球化、全面自动化、开源协作)阐发该运动。
 
-The aesthetic positions itself within the broader contemporary cultural landscape as a synthesis drawing on three principal antecedent movements. **Cyberprep** contributes the optimistic counter-current to dystopian Cyberpunk, registering the position that advanced technology and clean prosperous urban-cultural integration are compatible rather than oppositional. **Post-Cyberpunk** contributes the literary-conceptual maturity that registers technological development without simple dystopian or utopian commitments, with substantial attention to the transformations advanced technology produces in social-economic-cultural arrangements. **Solarpunk** contributes the ecological-utopian commitment, the substantial attention to environmental harmony, and the visual-aesthetic vocabulary of integrated nature-technology coexistence. Cyberparadism extends these principal antecedents through specific attention to the **transformation of economic principles and labor dynamics** that advanced technology produces — the post-scarcity reorganization of human-civilizational priorities away from material-survival concerns toward higher pursuits in science, technology, civilization, and broader cosmic engagement.
+该美学将自身定位于更广泛的当代文化景观之中,作为一种综合,汲取自三种主要的先驱运动。**赛博学院风**贡献了相对于反乌托邦赛博朋克的乐观反向潮流,登记下先进技术与清洁繁荣的都市—文化整合彼此相容而非对立的立场。**后赛博朋克**贡献了文学—概念上的成熟,登记下不带简单反乌托邦或乌托邦承诺的技术发展,实质性地关注先进技术在社会—经济—文化安排中所产生的变革。**太阳朋克**贡献了生态—乌托邦承诺、对环境和谐的实质性关注,以及自然—技术共存整合的视觉—美学词汇。赛博乐园主义在这些主要先驱的基础上,通过特别关注先进技术所产生的**经济原则与劳动动力学的变革**而加以延伸——即将人类—文明的优先事项从物质生存关切重新组织起来,转向科学、技术、文明以及更广泛的宇宙参与中的更高追求。
 
-Visually, Cyberparadism operates through specific aesthetic-formal commitments. **Architecture** integrates minimalist sleek lines with organic-natural elements, producing structures that appear as extensions of their environments rather than as impositions upon them; geometric forms (spheres, domes, hexagons) recur as principal elements that register both technological sophistication and natural-pattern resonance. **Color palettes** draw on aerospace orange, teal, aquamarine, and the broader oceanic-cosmic spectrum, evoking simultaneously the depth of natural environments and the clarity of advanced technological systems. **Settings** range from Earth-based ecologically-integrated communities (forest-embedded settlements, coastal-cliff developments, urban pods integrated with restored ecosystems) to extraterrestrial frontier habitats (terraforming-active planetary surfaces, biodome installations, space-station environments operating in continuity with the originating Earth-based aesthetic). **Atmosphere** prioritizes serenity, exploration, abundance, and collective purpose over the agitation, isolation, and scarcity that characterize the dystopian counter-aesthetics.
+在视觉上,赛博乐园主义通过特定的美学—形式承诺运作。**建筑**将极简流畅的线条与有机—自然元素相整合,产生出像是其环境的延伸而非强加于其上的结构;几何形态(球体、穹顶、六边形)作为主要元素反复出现,既登记技术上的精致,也登记与自然图样的共鸣。**色彩调色板**汲取航空航天橙、青色、海蓝以及更广泛的海洋—宇宙光谱,同时唤起自然环境的深邃与先进技术系统的清晰。**场景**从地球上生态整合的社群(嵌入森林的聚落、海岸悬崖开发、与恢复后的生态系统相整合的城市舱体)延伸至地外前沿栖息地(地球化进行中的行星表面、生物穹顶装置、与起源地球美学保持连续性的空间站环境)。**氛围**优先选择宁静、探索、丰盛与集体目的,而非反乌托邦反美学所具有的躁动、孤立与稀缺。
 
-Within the **Wheel of Heaven framework**, Cyberparadism registers as the contemporary aesthetic-cultural articulation that aligns substantively with the framework's specific historical-civilizational content. The framework reads three distinct corpus-internal phenomena as substantively Cyberparadist in character. The **Eden lab** — the originary alliance laboratory in which the early human population lived in integrated harmony with engineered biological systems and advanced alliance technology — operates as the actual historical Cyberparadism that contemporary aesthetic vision recovers as memory or anticipates as future. The **Planet of the Eternals** — the alliance home-world as Vorilhon's contact accounts describe it, with its substantial post-scarcity arrangement, advanced biological-technological integration, longevity, and harmonious organization — operates as the cosmic-civilizational Cyberparadism, the mature realization of the aesthetic's principles in actual operational form. The **Aquarian-age inheritance threshold** — the historical moment at which humanity matures into creating-civilization extending the alliance's work to other worlds — operates as the transition point at which Cyberparadism shifts from aesthetic vision to operational reality.
+在 {% wiki(slug="wheel-of-heaven") %}天之轮框架{% end %} 之内,赛博乐园主义被登记为与框架特定历史—文明内容实质契合的当代美学—文化阐发。框架将三种不同的文集内部现象读作实质上属于赛博乐园主义的。**伊甸园实验室**——本源的联盟实验室,在其中早期人类群体与工程化的生物系统及先进联盟技术在整合的和谐中共同生活——作为实际历史中的赛博乐园主义运作,当代美学愿景将其作为记忆复原或作为未来期待。**永恒者之星**——Vorilhon 接触报告所描述的联盟母星{{ cite(id="les-extra-terrestres-m-ont-emmen-sur-leur-plan-te", text="[2]", title="Vorilhon, Les Extra-Terrestres m'ont emmené sur leur planète, 1975 — the contact-account source for the Planet of the Eternals") }},以其实质性的后稀缺安排、先进的生物—技术整合、长寿、和谐的组织——作为宇宙—文明尺度的赛博乐园主义运作,是该美学原则在实际运行形态中的成熟实现。**水瓶座时代继承门槛**——人类成熟为创造性文明、将联盟的工作延伸至其他世界的历史时刻——作为赛博乐园主义从美学愿景转向运行性现实的过渡点运作。
 
-The framework therefore reads Cyberparadism not principally as speculative future-vision (which is how the aesthetic generally registers in contemporary cultural discourse) but as recovered-and-anticipated reality: the aesthetic preserves cultural memory of the originary alliance project (Eden), articulates intuitive recognition of the cosmic-civilizational reality the alliance occupies (the Planet of the Eternals), and projects forward toward the inheritance moment the framework reads as operationally imminent (the Aquarian-age maturation). The substantive alignment between the contemporary aesthetic and the framework's specific content registers as evidence for the broader doubled-signature principle — the corpus's reading that Aquarian-age cultural production registers substantive alignment with the framework's underlying historical-civilizational reality.
+因此,框架并非主要将赛博乐园主义读作思辨性的未来愿景(这是该美学在当代文化话语中通常的登记方式),而是读作被复原并被期待的现实:该美学保存了本源联盟项目(伊甸园)的文化记忆,阐发了对联盟所占据的宇宙—文明现实(永恒者之星)的直觉性认识,并向前投射至框架所读作运行性临近的继承时刻(水瓶座时代的成熟)。当代美学与框架特定内容之间的实质契合作为对更广泛 {% wiki(slug="doubled-signature") %}双重签名{% end %} 原则的证据登记——文集解读认为,水瓶座时代的文化生产与框架底层的历史—文明现实存在实质契合{{ footnote(id="doubled-signature-application") }}。
 
-This entry articulates Cyberparadism as concept — its etymology, its formalization, its principles and signs, its visual vocabulary, its lineage within the broader contemporary aesthetic ecosystem, its application within the Wheel of Heaven corpus, and its substantive framework-alignment.
+本词条将赛博乐园主义阐发为一个概念——其词源、形式化过程、原则与标志、视觉词汇、其在更广泛当代美学生态中的谱系、其在 Wheel of Heaven 文集中的应用,以及其与框架的实质契合。
 
-## Etymology and naming
+## 词源与命名
 
-The term *Cyberparadism* combines three principal etymological components.
+*赛博乐园主义* 一词融合了三个主要的词源成分。
 
 ### "Cyber-"
 
-The prefix **cyber-** derives from the Greek κυβερνήτης (*kybernētēs*, "steersman, governor, pilot"), with substantial subsequent semantic development through the Latin *gubernator* and the broader Western technical-vocabulary tradition. The prefix entered modern usage principally through **Norbert Wiener**'s foundational *Cybernetics: Or Control and Communication in the Animal and the Machine* (MIT Press, 1948), which established cybernetics as the scientific study of regulatory and communicative systems. Subsequent semantic development extended the prefix to designate the broader landscape of advanced computational-technological systems — *cyberspace* (William Gibson, *Neuromancer*, 1984), *cyborg* (Manfred Clynes and Nathan Kline, 1960), *cybernetic*, *cyberpunk*, and the broader contemporary cultural-technological vocabulary.
+前缀 **cyber-** 源自希腊语 κυβερνήτης(*kybernētēs*,\"舵手、统治者、领航者\"),通过拉丁语 *gubernator* 与更广泛的西方技术词汇传统而有实质性的后续语义发展。该前缀主要通过**诺伯特·维纳**的奠基性著作《控制论:或动物与机器中的控制与通讯》(MIT 出版社,1948 年){{ cite(id="wiener-cybernetics", text="[3]", title="Wiener, Cybernetics, 1948 — the foundational text for the cyber- prefix") }} 进入现代用法,该书确立了控制论作为对调节性与通讯性系统的科学研究。后续的语义发展将该前缀扩展至指代更广泛的先进计算—技术系统景观—— *cyberspace*(威廉·吉布森,《神经漫游者》,1984){{ cite(id="gibson-neuromancer", text="[4]", title="Gibson, Neuromancer, 1984 — the cyberspace coinage") }}、*cyborg*(曼弗雷德·克莱因斯与内森·克莱因,1960)、*cybernetic*、*cyberpunk* 以及更广泛的当代文化—技术词汇。
 
-The cyber-prefix in *Cyberparadism* registers principally the advanced-technology dimension of the aesthetic — the prefix designates the technological-cybernetic register within which the aesthetic operates, with substantial connection to the broader *Cyber-* aesthetic family (Cyberpunk, Cyberprep, Cyber-noir, etc.).
+*赛博乐园主义* 中的 cyber-前缀主要登记了该美学的先进技术维度——前缀指代该美学所运作的技术—控制论语域,与更广泛的 *Cyber-* 美学家族(赛博朋克、赛博学院风、赛博黑色等)有实质性的关联。
 
 ### "Paradise" / "-paradism"
 
-The component **paradise** derives ultimately from the Old Persian 𐎱𐎼𐎭𐎹𐎭𐎠𐎶 (*paridaida*, "walled enclosure"; cognate with Avestan *pairi-daēza*, "enclosed garden"), through Greek παράδεισος (*paradeisos*, "park, garden, paradise"), Latin *paradisus*, and the broader Western religious-cultural tradition. The Greek *paradeisos* originally designated the enclosed pleasure-gardens of Persian royalty; the term acquired theological-religious content through the Septuagint translation of the Hebrew גַּן עֵדֶן (*Gan Eden*, "Garden of Eden") as ὁ παράδεισος (*ho paradeisos*) in Genesis 2:8, after which "paradise" entered substantial Western religious-cultural usage as designation for the Edenic state, the post-mortem heavenly state, and the broader theological-eschatological paradisal content.
+成分 **paradise**(乐园)最终源自古波斯语 𐎱𐎼𐎭𐎹𐎭𐎠𐎶(*paridaida*,\"墙围之地\";与阿维斯陀语 *pairi-daēza*,\"封闭花园\"同源),经希腊语 παράδεισος(*paradeisos*,\"公园、花园、乐园\")、拉丁语 *paradisus* 以及更广泛的西方宗教—文化传统传入。希腊语 *paradeisos* 原本指代波斯王室的封闭游乐花园;该词通过七十士译本将希伯来语 גַּן עֵדֶן(*Gan Eden*,\"伊甸之园\")译为 ὁ παράδεισος(*ho paradeisos*)而在 {% libref(book="genesis-woh", chapter=2, verse=8) %}创世记 2:8{% end %}{{ footnote(id="lxx-paradeisos") }} 中获得神学—宗教内容,此后\"乐园\"进入实质性的西方宗教—文化用法,指代伊甸状态、死后的天界状态以及更广泛的神学—末世论的乐园内容。
 
-The *-paradism* suffix in *Cyberparadism* operates as substantive English construction — combining "paradise" with the *-ism* suffix designating ideological-aesthetic-cultural movements. The combination produces the meaning "the aesthetic / ideology of paradise" with the cyber-prefix specifying the technological-cybernetic character of the paradise envisioned.
+*赛博乐园主义* 中的 *-paradism* 后缀作为实质性的英语构词运作——将 \"paradise\" 与指代意识形态—美学—文化运动的 *-ism* 后缀相结合。该组合产生了\"乐园的美学/意识形态\"之意,而 cyber-前缀则具体指明所设想乐园的技术—控制论特征。
 
 ### "-ism"
 
-The **-ism** suffix derives ultimately from the Greek -ισμός (*-ismos*), through Latin *-ismus*, and the broader Western academic-cultural vocabulary tradition. The suffix designates ideological-aesthetic-cultural movements, philosophical-conceptual positions, and broader systematic frameworks (idealism, realism, capitalism, romanticism, modernism, post-modernism, etc.). The *-ism* suffix in *Cyberparadism* registers the aesthetic as substantive ideological-cultural movement rather than as merely descriptive category.
+**-ism** 后缀最终源自希腊语 -ισμός(*-ismos*),经拉丁语 *-ismus* 以及更广泛的西方学术—文化词汇传统传入。该后缀指代意识形态—美学—文化运动、哲学—概念立场以及更广泛的系统性框架(理想主义、现实主义、资本主义、浪漫主义、现代主义、后现代主义等)。*赛博乐园主义* 中的 *-ism* 后缀将该美学登记为实质性的意识形态—文化运动,而非仅仅是描述性范畴。
 
-### The composite meaning
+### 复合意义
 
-The composite term *Cyberparadism* therefore registers as **the aesthetic-cultural movement of cybernetic paradise** — the systematic articulation of harmonious technological-natural integration as both visual-aesthetic vocabulary and broader cultural-philosophical commitment. The *Cyberparadism Manifesto* registers alternative names — *Cyber Paradise*, *Cybergenesis*, *Neogenesis* — that emphasize different aspects of the broader composite content, with *Cyber Paradise* emphasizing the spatial-locational dimension, *Cybergenesis* the originary-creative dimension, and *Neogenesis* the new-beginning-renewal dimension.
+因此,复合词 *赛博乐园主义* 登记为**控制论乐园的美学—文化运动**——对作为视觉—美学词汇与更广泛文化—哲学承诺的和谐技术—自然整合的系统性阐发。《赛博乐园主义宣言》登记了替代名称—— *赛博乐园*、*赛博创世*、*新创世* ——它们各自强调更广泛复合内容的不同方面,*赛博乐园* 强调空间—位置维度,*赛博创世* 强调本源—创造维度,*新创世* 强调新开端—复兴维度。
 
-### Corpus-internal usage
+### 文集内部用法
 
-The Wheel of Heaven corpus uses **Cyberparadism** as the principal designation, with **the Cyberparadist aesthetic** for descriptive contexts and **Cyberparadist** as the adjectival form. The capitalization registers the proper-noun cultural-movement specificity rather than generic descriptive category.
+Wheel of Heaven 文集使用**赛博乐园主义**作为主要指称,在描述性语境中使用**赛博乐园主义美学**,作为形容词形式则使用**赛博乐园主义的**。其首字母大写登记了专有名词的文化运动特定性,而非通用的描述性范畴。
 
-## Formalization and principal articulation
+## 形式化与主要阐发
 
-Cyberparadism was formalized through two principal venues: the Aesthetics Wiki entry (the origin platform) and the subsequent Cyberparadism Manifesto (the systematic articulation).
+赛博乐园主义通过两个主要平台得到形式化:Aesthetics Wiki 词条(起源平台)与随后的《赛博乐园主义宣言》(系统性阐发)。
 
-### The Aesthetics Wiki origin
+### Aesthetics Wiki 起源
 
-The **Aesthetics Wiki** (at aesthetics.fandom.com) is the principal contemporary online platform for the systematic articulation of internet-cultural aesthetics. The platform operates through community contributor editing, with substantial entries documenting the visual-cultural vocabulary, principal sources, lineage relationships, and characteristic features of dozens of contemporary aesthetic-cultural movements (Cottagecore, Dark Academia, Vaporwave, Solarpunk, Cyberpunk, Cyberprep, Atompunk, and many others). The platform's substantive cultural function operates as systematic-encyclopedic articulation of the contemporary aesthetic landscape.
+**Aesthetics Wiki**(位于 aesthetics.fandom.com)是当前主要的在线平台,用于系统性阐发互联网文化美学。该平台通过社群贡献者编辑运作,其实质性词条记录了数十种当代美学—文化运动(田园核、暗黑学院风、蒸汽波、太阳朋克、赛博朋克、赛博学院风、原子朋克以及许多其他运动)的视觉—文化词汇、主要来源、谱系关系与特征。该平台的实质文化功能作为对当代美学景观的系统性—百科全书式阐发运作。
 
-The Cyberparadism entry on the Aesthetics Wiki was the principal venue of the aesthetic's formalization. The platform's collaborative-editorial process produced the systematic articulation that subsequent engagements (including the *Cyberparadism Manifesto*) extend.
+Aesthetics Wiki 上的赛博乐园主义词条是该美学形式化的主要平台{{ cite(id="aesthetics-wiki-cyberparadism", text="[5]", title="Aesthetics Wiki entry on Cyberparadism — the origin venue of the aesthetic's formalisation") }}。该平台的协作—编辑过程产生了系统性阐发,随后的参与活动(包括《赛博乐园主义宣言》)对其加以延伸。
 
-### The Cyberparadism Manifesto
+### 《赛博乐园主义宣言》
 
-The **Cyberparadism Manifesto** (2023; principal location github.com/zarazinsfuss/cyberparadism-manifesto; subsequent web presence zarazinsfuss.github.io/cyberparadism) operates as the principal systematic articulation of the aesthetic. The manifesto opens with an Alan Kay epigraph — *"The best way to predict the future is to invent it"* — that registers the manifesto's specific orientation: not principally prediction or speculation but active cultural-aesthetic invention oriented toward operational realization.
+**《赛博乐园主义宣言》**(2023;主要位于 github.com/zarazinsfuss/cyberparadism-manifesto;后续网络呈现于 zarazinsfuss.github.io/cyberparadism)作为该美学的主要系统性阐发运作。宣言以艾伦·凯的题词开篇—— *\"预测未来的最好方式就是去发明它。\"* ——这登记了宣言的特定取向:并非主要是预测或思辨,而是面向运行性实现的主动文化—美学发明。
 
-The manifesto's central articulation:
+宣言的核心阐发:
 
-> *"Cyberparadism is an aesthetic that celebrates the positive potential of technology and scientific progress to create a better future for humanity. At its core, Cyberparadism is about using technology to enhance the human experience, promote sustainability, and foster a sense of collective purpose and responsibility... Cyberparadism offers a compelling vision of a future where technology and nature coexist in harmony, where abundance and prosperity are available to all, and where the human experience is enhanced by the responsible use of technology."*
+> *\"赛博乐园主义是一种美学,它颂扬技术与科学进步为人类创造更美好未来的积极潜能。其核心在于,运用技术来增强人类体验、促进可持续性,并培育集体目的与责任感……赛博乐园主义提供了一种引人入胜的未来愿景,在这一未来中,技术与自然和谐共存,丰盛与繁荣为所有人所享有,人类体验通过对技术的负责任运用得到增强。\"*
 
-The manifesto is explicit about its scope: *"This is not a political or economical manifesto. It serves the purpose to declare the aesthetical principles of Cyberparadism and its derivates."* The aesthetic-rather-than-political registration matters for the movement's character — Cyberparadism operates principally as visual-conceptual articulation and inspirational orientation rather than as programmatic political-economic prescription.
+宣言对其范围有明确表述:*\"这并非政治或经济宣言。它的目的是宣告赛博乐园主义及其衍生物的美学原则。\"* 美学—而非政治—登记对该运动的特征至关重要——赛博乐园主义主要作为视觉—概念阐发与启发性取向运作,而非作为纲领性的政治—经济处方。
 
-### The Eight Laws of Cyberparadism
+### 赛博乐园主义八大法则
 
-The manifesto articulates the aesthetic through eight principal Laws, each registering a constitutive principle:
+宣言通过八条主要法则阐发该美学,每条登记一项构成性原则{{ footnote(id="eight-laws-non-hierarchy") }}:
 
-**1. The Law of Abundance.** *"Cyberparadism is founded on the belief that technology can be a powerful catalyst for abundance and prosperity. We strive to employ technology in ways that enhance human experiences, and promote social and economic equality, envisioning a future where scarcity is replaced by abundance for all."* The Law positions the aesthetic against scarcity-economics framings, registering the post-scarcity orientation as foundational commitment.
+**1. 丰盛法则。** *\"赛博乐园主义的基础是这样一种信念:技术可以成为丰盛与繁荣的强大催化剂。我们致力于以增进人类体验、促进社会和经济平等的方式运用技术,设想一个稀缺被丰盛所取代、丰盛为所有人所享有的未来。\"* 该法则将该美学定位为反对稀缺—经济学的框架,登记后稀缺取向作为基础承诺。
 
-**2. The Law of Equity.** *"In Cyberparadism, we uphold the principle of equity. We assert that the benefits of technology should be accessible to all, ensuring basic necessities and the advantages of progress are equitably distributed. While we value recognition and reward for individual achievements, we insist that everyone's fundamental needs are satisfied, guaranteeing a baseline standard of living and well-being."* The Law registers Cyberparadism's commitment to baseline-universal access while preserving individual-achievement recognition — distinguishing the aesthetic from both pure-egalitarian and pure-meritocratic framings.
+**2. 公平法则。** *\"在赛博乐园主义中,我们坚持公平原则。我们主张技术的益处应为所有人所享有,确保基本必需品与进步的好处得到公平分配。在重视对个人成就的认可与奖励的同时,我们坚持每个人的基本需求都得到满足,保障基准的生活水准与福祉。\"* 该法则登记赛博乐园主义对基准—普遍准入的承诺,同时保留对个人—成就的认可——将该美学与纯粹平等主义的与纯粹精英主义的框架区分开来。
 
-**3. The Law of Freedom.** *"Cyberparadism fervently advocates for freedom of thought, creativity, and self-expression. We envision a future where technology empowers individuals, fosters diversity of thought, and promotes the free exchange of ideas. We are committed to safeguarding privacy and personal autonomy in this technologically interconnected world."* The Law registers the aesthetic's specific position vis-à-vis surveillance-capitalism and authoritarian-technological framings, emphasizing privacy-and-autonomy preservation as core commitment.
+**3. 自由法则。** *\"赛博乐园主义热烈倡导思想、创造力与自我表达的自由。我们设想这样一个未来:技术赋予个体力量,培育思想的多样性,促进观念的自由交换。我们致力于在这个技术互联的世界中保护隐私与个人自主。\"* 该法则登记该美学相对于监控资本主义与威权技术框架的特定立场,强调隐私与自主的保护作为核心承诺。
 
-**4. The Law of Harmony.** *"At the heart of Cyberparadism is the aspiration to achieve harmony between technology and nature. We strive for a world where these two forces coexist peacefully and complement each other, rather than being in conflict, promoting a future where tech-enhanced life is integrated seamlessly with the natural world."* The Law registers the aesthetic's signature commitment — the harmonious integration that distinguishes Cyberparadism from both pure-technological (which sacrifices nature) and pure-naturalist (which sacrifices technology) framings.
+**4. 和谐法则。** *\"赛博乐园主义的核心是实现技术与自然之间和谐的愿望。我们追求一个这两种力量和平共存、彼此互补而非冲突的世界,促进一个技术增强的生活与自然世界无缝整合的未来。\"* 该法则登记该美学的标志性承诺——和谐整合,这将赛博乐园主义与纯技术的(牺牲自然)与纯自然主义的(牺牲技术)框架区分开来。
 
-**5. The Law of Preservation.** *"Cyberparadism upholds the importance of environmental preservation and biodiversity. We encourage technological innovations that respect and preserve the planet's diverse ecosystems, promoting a delicate balance between technological advancement and conservation, ensuring a sustainable future for all life."* The Law extends the harmony commitment specifically to ecological preservation, registering the aesthetic's substantive ecological orientation.
+**5. 保护法则。** *\"赛博乐园主义坚持环境保护与生物多样性的重要性。我们鼓励尊重并保护地球多样生态系统的技术创新,促进技术进步与保护之间的微妙平衡,确保所有生命的可持续未来。\"* 该法则将和谐承诺特别延伸至生态保护,登记该美学的实质生态取向。
 
-**6. The Law of Recognition.** *"Cyberparadism promotes the principle of recognizing and rewarding individual achievements and contributions. We believe in an inclusive future where opportunities facilitated by technology are open to all, and the fruits of these efforts are shared based on the merit of each contribution, fostering an environment of fairness and continuous growth."* The Law operates as paired complement to the Law of Equity, registering individual-achievement recognition as compatible with universal-baseline access.
+**6. 认可法则。** *\"赛博乐园主义倡导认可并奖励个人成就与贡献的原则。我们相信一个包容的未来,在那里,由技术促成的机会向所有人开放,而这些努力的果实则根据每项贡献的功绩加以分享,培育一种公正与持续成长的环境。\"* 该法则作为公平法则的成对互补运作,登记对个人成就的认可与普遍基准准入相容。
 
-**7. The Law of Responsibility.** *"Cyberparadism emphasizes the profound responsibility that comes with great technological power. We insist on responsible and thoughtful use of technology, with deep respect for the natural world and the needs of communities. We champion conscientious technological development that is mindful of its impacts on the environment and society."* The Law registers the aesthetic's specific position against techno-utopian-irresponsibility framings, emphasizing the substantive ethical-political weight that advanced technological capacity carries.
+**7. 责任法则。** *\"赛博乐园主义强调伴随巨大技术力量而来的深远责任。我们坚持负责任地、有思考地运用技术,深切尊重自然世界与社群的需求。我们倡导有良心的技术发展,留意其对环境与社会的影响。\"* 该法则登记该美学相对于技术乌托邦不负责任框架的特定立场,强调先进技术能力所承载的实质伦理—政治分量。
 
-**8. The Law of Simplicity.** *"Simplicity and minimalism are core values in Cyberparadism. We seek to design and create technologies that are easy to use and understand, embracing the principle that technology should simplify life, not complicate it. We strive for solutions that are elegant in their simplicity, yet powerful in their impact."* The Law registers the aesthetic's specific design-philosophy commitment — minimalism as constitutive aesthetic-functional principle rather than as merely stylistic preference.
+**8. 简约法则。** *\"简约与极简主义是赛博乐园主义的核心价值。我们寻求设计与创造易于使用与理解的技术,秉持技术应简化生活而非使其复杂化的原则。我们追求那些在简约中显出优雅、却在影响上有力的解决方案。\"* 该法则登记该美学特定的设计哲学承诺——极简主义作为构成性的美学—功能原则,而非仅仅是风格偏好。
 
-The manifesto articulates the Laws explicitly as non-hierarchical: *"They are not hierarchical in nature, but rather complementary facets of a whole, each shedding light on a different aspect of our shared vision... The balance and harmony among these Laws is key to achieving the ideal we strive for."*
+宣言明确将各项法则阐发为非等级化的:*\"它们本质上不是等级化的,而是同一整体的互补面向,各自照亮我们共同愿景的不同方面……这些法则之间的平衡与和谐是实现我们所追求理想的关键。\"*
 
-### The Six Signs of Cyberparadism
+### 赛博乐园主义六大标志
 
-The manifesto articulates six principal Signs — specific technological developments that operate as concrete manifestations of the aesthetic's principles:
+宣言阐发了六大主要标志——作为该美学原则之具体显现的特定技术发展:
 
-**1. Fusion energy** — registered as "the holy grail of clean and abundant energy"; operates as the energy-foundation enabling the broader post-scarcity reorganization the aesthetic envisions.
+**1. 核聚变能源**——被登记为\"清洁与丰沛能源的圣杯\";作为能源基础运作,使该美学所设想的更广泛后稀缺重组成为可能。
 
-**2. Anti-gravity technology** — registered as theoretical-speculative technology that would enable sustainable space travel without massive fuel-consumption requirements; operates as the cosmic-mobility dimension of the aesthetic.
+**2. 反重力技术**——被登记为理论—思辨性技术,可在不需要大量燃料消耗的条件下实现可持续的太空旅行;作为该美学的宇宙移动维度运作。
 
-**3. Synthetic life engineering** — registered as ethical-responsible engineering of synthetic life-forms for sustainable agriculture, genetic preservation, pharmaceutical development, ecological restoration; operates as the biological-technological integration dimension of the aesthetic.
+**3. 合成生命工程**——被登记为对合成生命形式的伦理—负责任工程,用于可持续农业、遗传保存、医药开发、生态修复;作为该美学的生物—技术整合维度运作。
 
-**4. Terraforming** — registered as deliberate modification of planetary environments for habitability; operates as the cosmic-frontier dimension of the aesthetic, extending the harmonious-integration principle beyond Earth.
+**4. 星球地球化**——被登记为对行星环境的有意改造以使其适宜居住;作为该美学的宇宙—前沿维度运作,将和谐整合原则延伸至地球之外。
 
-**5. Full automation** — registered as advanced robotic-AI systems streamlining manufacturing while minimizing human labor; operates as the labor-transformation dimension that enables higher-pursuit reorientation.
+**5. 全面自动化**——被登记为先进的机器人—AI 系统,使制造业流程化的同时最大限度减少人类劳动;作为劳动—变革维度运作,使更高追求的重新定向成为可能。
 
-**6. Open source collaboration** — registered as the social-organizational dimension supporting innovation, inclusivity, collective problem-solving, and the democratization of technology; operates as the cultural-political dimension complementing the technological dimensions.
+**6. 开源协作**——被登记为支持创新、包容、集体问题解决以及技术民主化的社会—组织维度;作为补充技术维度的文化—政治维度运作。
 
-The Signs operate as concrete-operational manifestations of the abstract Laws — together producing the aesthetic's substantive cultural-conceptual content.
+各项标志作为抽象法则的具体—运行性显现而运作——共同产生该美学的实质性文化—概念内容。
 
-### The Techno-Optimist Manifesto resonance
+### 与《技术乐观主义宣言》的共鸣
 
-The Cyberparadism Manifesto registers substantive resonance with **Marc Andreessen**'s *Techno-Optimist Manifesto* (October 16, 2023), published shortly after the principal Cyberparadism Manifesto articulation. The substantial Andreessen articulation — registering technology as principal driver of growth, progress, and human-flourishing improvement — operates substantively in the same broader cultural-conceptual space as Cyberparadism. The Cyberparadism Manifesto explicitly notes the substantial resonance: *"very reminiscent of the Cyberparadism Manifesto. Go check it out."*
+《赛博乐园主义宣言》与**马克·安德森**的《技术乐观主义宣言》(2023 年 10 月 16 日){{ cite(id="the-techno-optimist-manifesto", text="[6]", title="Andreessen, The Techno-Optimist Manifesto, October 16, 2023") }} 登记下实质性的共鸣,后者在主要的赛博乐园主义宣言阐发之后不久发表。安德森的实质阐发——登记技术作为增长、进步以及人类繁荣改善的主要推动力——实质上与赛博乐园主义运作于同一更广泛的文化—概念空间。《赛博乐园主义宣言》明确指出实质性共鸣:*\"非常令人想起赛博乐园主义宣言。去看看吧。\"*{{ footnote(id="manifesto-andreessen-synchrony") }}
 
-The substantial parallel registers the broader contemporary cultural moment: the early 2020s emergence of explicit techno-optimistic articulations against the dominant techno-pessimism of the preceding period (post-2016 dystopian-Cyberpunk resurgence, the broader algorithmic-anxiety contemporary cultural framework, the substantial environmental-collapse anxiety landscape).
+这一实质性平行登记了更广泛的当代文化时刻:2020 年代初出现明确的技术乐观主义阐发,以对抗前一时期占主导地位的技术悲观主义(2016 年后的反乌托邦赛博朋克回潮、更广泛的算法焦虑当代文化框架、实质性的环境崩溃焦虑景观)。
 
-## Visual vocabulary
+## 视觉词汇
 
-Cyberparadism operates through specific visual-aesthetic commitments that distinguish it from adjacent aesthetics.
+赛博乐园主义通过特定的视觉—美学承诺运作,这些承诺将其与相邻美学区分开来。
 
-### Architecture and built environment
+### 建筑与建成环境
 
-Cyberparadist architecture integrates minimalist sleek-line design with organic-natural elements. Structures register as extensions of their environments rather than as impositions upon them. Geometric forms (spheres, domes, hexagons) recur as principal architectural elements — registering both technological sophistication and resonance with natural patterns (the substantial hexagonal patterns in honeycombs, the spherical forms in fruit and seed structures, the dome-forms in shells and biological enclosures).
+赛博乐园主义建筑将极简流畅的线条设计与有机—自然元素相整合。结构登记为其环境的延伸而非强加于其上。几何形态(球体、穹顶、六边形)作为主要建筑元素反复出现——既登记技术的精致,也与自然图样产生共鸣(蜂巢中实质性的六边形图样、果实与种子结构中的球形形态、贝壳与生物围合体中的穹顶形态)。
 
-The substantial inspiration draws on multiple antecedent architectural-design traditions: the substantial **Buckminster Fuller** geodesic-architectural tradition (the substantial geodesic-dome work, the substantial Spaceship Earth concept that the manifesto references explicitly); the substantial **Frei Otto** lightweight-tensile architecture; the substantial Japanese metabolist movement (Kenzo Tange, Kisho Kurokawa, the substantial 1960s-70s biological-architectural metaphor work); contemporary **biomimetic architecture** (Janine Benyus's work, the substantial subsequent design-tradition); the substantial **arcology** tradition (Paolo Soleri's work).
+实质性的灵感汲取自多种先驱的建筑—设计传统:实质性的**巴克敏斯特·富勒**测地线—建筑传统(实质性的测地线穹顶作品、宣言明确引用的实质性地球太空船概念){{ cite(id="fuller-spaceship-earth", text="[7]", title="Fuller, Operating Manual for Spaceship Earth, 1969") }};实质性的**弗雷·奥托**轻型张拉建筑{{ cite(id="otto-hangende-dach", text="[8]", title="Otto, Das Hängende Dach, 1954") }};日本新陈代谢派运动(丹下健三、黑川纪章、实质性的 1960—70 年代生物—建筑隐喻作品);当代**仿生建筑**(珍妮·班亚斯的工作及实质性的后续设计传统){{ cite(id="benyus-biomimicry", text="[9]", title="Benyus, Biomimicry: Innovation Inspired by Nature, 1997") }};实质性的**建筑生态学**传统(保罗·索勒里的工作){{ cite(id="soleri-arcology", text="[10]", title="Soleri, Arcology: The City in the Image of Man, 1969") }}。
 
-### Color palette
+### 色彩调色板
 
-The principal color palette draws on:
+主要的色彩调色板汲取自:
 
-- **Aerospace orange** (the substantial high-visibility orange used in aviation, space-exploration, and search-and-rescue contexts; functional-symbolic registration of advanced technological systems)
-- **Teal and aquamarine** (the substantial oceanic-cosmic spectrum; registration of natural-environmental depth and clarity)
-- **Sky blue** (the substantial atmospheric-aerial register)
-- **Bone white and warm grey** (the substantial minimalist-architectural register)
-- **Deep green** (the substantial vegetative-natural register)
-- **Solar gold** (the substantial sun-energy register)
+- **航空航天橙**(航空、太空探索与搜救语境中所用的实质性高可见度橙色;对先进技术系统的功能—象征性登记)
+- **青色与海蓝色**(实质性的海洋—宇宙光谱;对自然—环境深邃与清晰的登记)
+- **天空蓝**(实质性的大气—空中语域)
+- **骨白与暖灰色**(实质性的极简—建筑语域)
+- **深绿色**(实质性的植被—自然语域)
+- **太阳金**(实质性的太阳—能量语域)
 
-The palette operates substantively against the dominant Cyberpunk dark-neon-magenta palette and against the substantial Solarpunk earth-tones-warm-pastels palette, producing a distinctive Cyberparadist visual signature.
+该调色板实质上与主导赛博朋克的深色霓虹—洋红调色板以及实质性的太阳朋克大地色—暖粉调色板相对,产生出独特的赛博乐园主义视觉签名。
 
-### Settings and atmosphere
+### 场景与氛围
 
-Cyberparadist settings range across multiple distinctive registers:
+赛博乐园主义的场景涵盖多个独特语域:
 
-**Earth-based ecologically-integrated communities**. Forest-embedded settlements, coastal-cliff developments, mountain-integrated installations, urban pods integrated with restored ecosystems. The substantial visual signature: human-scale architecture integrated with substantial restored natural environment, with technology operating as enhancement rather than as displacement of natural-environmental presence.
+**地球上生态整合的社群**。嵌入森林的聚落、海岸悬崖开发、与山地整合的装置、与恢复后的生态系统相整合的城市舱体。实质性的视觉签名:与实质性恢复自然环境相整合的人类尺度建筑,其中技术作为增强自然—环境存在而非取代其存在的方式运作。
 
-**Frontier extraterrestrial habitats**. Terraforming-active planetary surfaces (the substantial Mars-or-similar planetary engineering aesthetic), biodome installations on lunar or planetary surfaces, space-station environments operating in continuity with Earth-based aesthetic principles. The substantial visual signature: cosmic-frontier extension of the broader aesthetic.
+**前沿地外栖息地**。地球化进行中的行星表面(实质性的火星或类似行星工程美学)、月球或行星表面上的生物穹顶装置、与地球美学原则保持连续运作的空间站环境。实质性的视觉签名:更广泛美学的宇宙—前沿延伸。
 
-**Coastal and oceanic environments**. The substantial oceanic-civilization aesthetic (the substantial floating-platform installations, the substantial subsea-biodome installations, the substantial water-integrated architecture); the substantial coastal-cliff developments; the substantial maritime-frontier registration.
+**海岸与海洋环境**。实质性的海洋—文明美学(实质性的浮动平台装置、实质性的海底生物穹顶装置、实质性的水—整合建筑);实质性的海岸悬崖开发;实质性的海事—前沿登记。
 
-**Atmospheric environments**. The substantial high-altitude installations (the substantial cloud-architecture, the substantial atmospheric-platform aesthetic); the substantial sky-civilization registration.
+**大气环境**。实质性的高空装置(实质性的云端建筑、实质性的大气平台美学);实质性的天空—文明登记。
 
-The **atmosphere** prioritizes serenity, exploration, abundance, collective purpose, and operational-functional clarity over agitation, isolation, scarcity, and dystopian-anxiety registration. Cyberparadist visual production characteristically includes substantial natural-light elements, substantial vegetative-natural presence, substantial human-scale features, and substantial implicit registration of post-scarcity post-conflict cultural arrangements.
+**氛围**优先选择宁静、探索、丰盛、集体目的以及运行—功能清晰性,而非躁动、孤立、稀缺与反乌托邦焦虑登记。赛博乐园主义的视觉生产典型地包括实质性的自然光元素、实质性的植被—自然存在、实质性的人类尺度特征,以及对后稀缺、后冲突文化安排的实质性隐含登记。
 
-## Lineage and adjacent aesthetics
+## 谱系与相邻美学
 
-Cyberparadism positions itself within the broader contemporary aesthetic-cultural ecosystem through specific relationships with antecedent and adjacent movements.
+赛博乐园主义通过与先驱及相邻运动的特定关系,将自身定位于更广泛的当代美学—文化生态之中。
 
-### Cyberpunk — the dystopian foil
+### 赛博朋克——反乌托邦反衬
 
-**Cyberpunk** — the principal late-twentieth-century dystopian-technological aesthetic articulated principally through **William Gibson**'s *Neuromancer* (1984), **Bruce Sterling**'s editorial work on *Mirrorshades* (1986), **Philip K. Dick**'s broader literary corpus, **Ridley Scott**'s *Blade Runner* (1982), and the substantial subsequent literary-cinematic-cultural production — operates as Cyberparadism's principal dystopian foil. Cyberpunk registers technology as instrument of corporate-authoritarian domination, environmental degradation, social atomization, and human-enhancement-as-violence. Cyberparadism operates substantively against this content while preserving the cybernetic-prefix and the broader cyber-aesthetic family resonance.
+**赛博朋克**——主要通过**威廉·吉布森**的《神经漫游者》(1984)、**布鲁斯·斯特林**对《镜影》(1986)的编者工作、**菲利普·K·迪克**更广泛的文学语料、**雷德利·斯科特**的《银翼杀手》(1982)以及实质性的后续文学—影视—文化生产{{ footnote(id="cyberpunk-mirrorshades-origin") }} 阐发的二十世纪晚期主要的反乌托邦—技术美学——作为赛博乐园主义的主要反乌托邦反衬运作。赛博朋克将技术登记为企业—威权统治、环境退化、社会原子化与作为暴力的人类增强的工具。赛博乐园主义实质上反对这一内容,同时保留控制论前缀与更广泛的 cyber-美学家族共鸣。
 
-### Cyberprep — the optimistic counter-current
+### 赛博学院风——乐观的反向潮流
 
-**Cyberprep** operates as the substantial optimistic counter-current to Cyberpunk, registering advanced technology and prosperous-clean urban-cultural integration as compatible rather than oppositional. Cyberprep emerged principally through subreddit and aesthetic-community articulation in the 2010s-early 2020s, with substantial visual-cultural production registering bright-clean technological integration. Cyberparadism extends Cyberprep through specific ecological-environmental commitment (which Cyberprep does not principally engage) and through the substantial post-scarcity-economic-transformation dimension.
+**赛博学院风**作为相对于赛博朋克的实质乐观反向潮流运作,登记先进技术与繁荣—清洁的都市—文化整合彼此相容而非对立。赛博学院风主要通过 2010 年代至 2020 年代初的 subreddit 与美学社群阐发出现,实质性的视觉—文化生产登记明亮—清洁的技术整合。赛博乐园主义通过特定的生态—环境承诺(赛博学院风并不主要涉及)以及实质性的后稀缺—经济变革维度,将赛博学院风加以延伸。
 
-### Post-Cyberpunk — the literary maturity
+### 后赛博朋克——文学成熟
 
-**Post-Cyberpunk** designates the literary-conceptual development beyond classical Cyberpunk dystopianism, with substantial articulation through **Neal Stephenson**'s *The Diamond Age* (1995) and *Anathem* (2008), **Bruce Sterling**'s post-1990s work, the broader contemporary speculative-fiction tradition. Post-Cyberpunk preserves the cybernetic-technological vocabulary while operating without simple dystopian commitments, with substantial attention to the social-cultural transformations advanced technology produces. Cyberparadism shares Post-Cyberpunk's substantive maturity while operating principally in the visual-aesthetic register rather than principally in the literary register.
+**后赛博朋克**指代超越古典赛博朋克反乌托邦主义的文学—概念发展,主要通过**尼尔·斯蒂芬森**的《钻石时代》(1995){{ cite(id="stephenson-diamond-age", text="[11]", title="Stephenson, The Diamond Age, 1995") }} 与《飞越修道院》(2008)、**布鲁斯·斯特林**1990 年代后的作品以及更广泛的当代思辨小说传统加以阐发。后赛博朋克保留了控制论—技术词汇,同时在没有简单反乌托邦承诺的情况下运作,实质性地关注先进技术所产生的社会—文化变革。赛博乐园主义共享后赛博朋克的实质成熟,同时主要在视觉—美学语域而非主要在文学语域中运作。
 
-### Solarpunk — the closest cousin
+### 太阳朋克——最近的近亲
 
-**Solarpunk** is Cyberparadism's substantively closest aesthetic cousin. The movement emerged principally in the 2010s through the substantial literary anthologies (*Solarpunk: Ecological and Fantastical Stories in a Sustainable World*, 2018; *Sunvault*, 2017; *Multispecies Cities*, 2021), through online aesthetic-community articulation (Tumblr, Reddit, Discord communities), and through substantial visual-cultural production. Solarpunk registers ecological-utopian commitment, substantial attention to community-based small-scale arrangements, and a visual vocabulary drawing on warm-pastels, vegetative integration, and post-scarcity local arrangements. **Andrew Dana Hudson**'s substantial Solarpunk advocacy and the broader literary movement have produced significant cultural traction.
+**太阳朋克**是赛博乐园主义实质上最近的美学近亲。该运动主要在 2010 年代通过实质性的文学选集——《太阳朋克:可持续世界中的生态与奇幻故事》(2018){{ cite(id="solarpunk-anthology-2018", text="[12]", title="Solarpunk anthology, World Weaver Press, 2018") }}、《阳光宝库》(2017){{ cite(id="sunvault-anthology", text="[13]", title="Sunvault: Stories of Solarpunk and Eco-Speculation, 2017") }}、《多物种城市》(2021){{ cite(id="multispecies-cities-anthology", text="[14]", title="Multispecies Cities: Solarpunk Urban Futures, 2021") }} ——通过在线美学—社群阐发(Tumblr、Reddit、Discord 社群)以及实质性的视觉—文化生产而出现。太阳朋克登记生态—乌托邦承诺、对基于社群的小尺度安排的实质关注,以及汲取自暖粉色、植被整合与后稀缺地方安排的视觉词汇。
 
-The relationship between Cyberparadism and Solarpunk operates as **closely-adjacent-with-distinct-emphasis**:
-- Both register ecological commitment, harmonious technological-natural integration, and post-scarcity reorganization
-- Solarpunk emphasizes principally local-community-scale arrangements; Cyberparadism extends to cosmic-frontier and large-scale infrastructure
-- Solarpunk emphasizes principally low-tech-renewable energy approaches; Cyberparadism explicitly registers high-technology approaches (fusion energy, anti-gravity, synthetic life engineering, full automation)
-- Solarpunk operates principally within Earth-based ecological-restoration framing; Cyberparadism extends explicitly to cosmic-civilizational scope
+赛博乐园主义与太阳朋克之间的关系作为**密切相邻—具有不同强调**运作:
+- 两者都登记生态承诺、和谐的技术—自然整合以及后稀缺重组
+- 太阳朋克主要强调地方—社群尺度的安排;赛博乐园主义延伸至宇宙前沿与大尺度基础设施
+- 太阳朋克主要强调低技术—可再生能源进路;赛博乐园主义明确登记高技术进路(核聚变能源、反重力、合成生命工程、全面自动化)
+- 太阳朋克主要在地球生态—修复框架内运作;赛博乐园主义明确延伸至宇宙—文明范围
 
-### Atompunk — the retrofuturist parallel
+### 原子朋克——复古未来主义的并行
 
-**Atompunk** designates the retrofuturist aesthetic drawing on mid-twentieth-century atomic-age optimism (1945-1965 visual-cultural production, the substantial *Tomorrowland* and *Disney World of Tomorrow* aesthetic, the substantial space-age design tradition). Atompunk operates substantively in the optimistic-technological register while drawing on a distinct historical-aesthetic vocabulary. Cyberparadism operates substantively in the contemporary-aesthetic register while preserving substantial Atompunk resonance through the optimistic-technological commitment.
+**原子朋克**指代汲取自二十世纪中叶原子时代乐观主义(1945—1965 年的视觉—文化生产、实质性的《明日世界》(Tomorrowland)与迪斯尼《明日世界》美学、实质性的太空时代设计传统)的复古未来主义美学。原子朋克实质上运作于乐观—技术语域,同时汲取自独特的历史—美学词汇。赛博乐园主义实质上运作于当代美学语域,同时通过乐观—技术承诺保留实质性的原子朋克共鸣。
 
-### Biopunk — the related-but-distinct
+### 生物朋克——相关但有别
 
-**Biopunk** designates the aesthetic engaging biological-engineering and synthetic-biology content, with substantial articulation through **Paul Di Filippo**'s *Ribofunk* (1996) and the broader contemporary biotech-aesthetic landscape. Biopunk operates substantively in distinct aesthetic-conceptual space from Cyberparadism, with substantial dystopian framing characteristic of much of the principal Biopunk production; however, Cyberparadism's substantive synthetic-life-engineering Sign produces overlap at the substantive content level.
+**生物朋克**指代涉及生物工程与合成生物学内容的美学,主要通过**保罗·迪·菲利波**的《核糖芬克》(1996)以及更广泛的当代生物技术—美学景观加以阐发。生物朋克实质上运作于与赛博乐园主义不同的美学—概念空间,主要的生物朋克生产大多具有实质性的反乌托邦框架;然而,赛博乐园主义的实质合成生命工程标志在实质内容层面产生重叠。
 
-### The broader contemporary aesthetic ecosystem
+### 更广泛的当代美学生态
 
-Cyberparadism operates within the broader contemporary aesthetic ecosystem documented through Aesthetics Wiki and adjacent community platforms. The broader landscape includes substantial aesthetic-cultural movements (Cottagecore, Dark Academia, Fairycore, Dreamcore, Vaporwave, Synthwave, the broader contemporary aesthetic-cultural articulation), with Cyberparadism occupying specific position within the broader ecosystem as the optimistic-technological-ecological synthesis.
+赛博乐园主义运作于通过 Aesthetics Wiki 与相邻社群平台所记录的更广泛当代美学生态之内。更广泛的景观包括实质性的美学—文化运动(田园核、暗黑学院风、仙女核、梦核、蒸汽波、合成波、更广泛的当代美学—文化阐发),赛博乐园主义在更广泛生态中占据特定位置,作为乐观—技术—生态综合。
 
-## Depiction in media
+## 媒体中的呈现
 
-Cyberparadism's aesthetic principles register across multiple contemporary cinematic, literary, and visual-cultural productions, with substantial variability in alignment fidelity.
+赛博乐园主义的美学原则在多种当代影视、文学与视觉—文化生产中得到登记,契合保真度有实质性的变化。
 
-### Partial and problematic instances
+### 部分契合与有问题的实例
 
-Several cinematic productions register elements of Cyberparadist aesthetic while operating in substantively different conceptual-narrative space.
+若干影视生产登记了赛博乐园主义美学的元素,但运作于实质性不同的概念—叙事空间。
 
-**Jurassic World** (2015) presents the visual aesthetic of advanced biotechnology integrated with engineered tropical-environmental setting — sleek glass-architectural elements integrated with lush vegetation, advanced genetic-engineering technology operating within ecologically-designed park environment. The aesthetic surface registers Cyberparadist; the narrative content, however, operates as the principal *failure* of harmonious technological-natural integration. The film's central narrative arc concerns the catastrophic breakdown of the engineered system, with the engineered creatures escaping containment and producing substantial human casualties. The film therefore registers as Cyberparadist aesthetic surface attached to anti-Cyberparadist narrative content — the cautionary-tale articulation rather than the constitutive realization.
+**《侏罗纪世界》**(2015){{ cite(id="jurassic-world", text="[15]", title="Jurassic World, dir. Colin Trevorrow, Universal Pictures, 2015") }} 呈现了与工程化热带环境场景相整合的先进生物技术视觉美学——流畅的玻璃建筑元素与茂盛植被相整合、在生态设计公园环境内运作的先进基因工程技术。美学表面登记为赛博乐园主义的;然而其叙事内容作为和谐技术—自然整合的主要*失败*运作。该片的核心叙事弧线涉及工程化系统的灾难性崩溃,工程化生物逃出收容区并造成大量人员伤亡。因此该片登记为附加于反赛博乐园主义叙事内容上的赛博乐园主义美学表面——警世寓言式阐发,而非构成性的实现。
 
-**Elysium** (2013) presents the orbital ring-world Elysium as visual realization of Cyberparadist aesthetic — luxurious post-scarcity environment with advanced medical technology, beautiful integrated-natural landscapes, and architectural sophistication. The aesthetic surface registers strongly Cyberparadist. The narrative content, however, registers Elysium as enclave for the wealthy, with Earth's broader population reduced to dystopian-poverty conditions. The film operates as anti-Cyberparadist content at the broader social-political level — the specific violation of the Law of Equity is constitutive of the narrative. The film functions, on Cyberparadist reading, as illustration of *how* Cyberparadist aesthetic without Cyberparadist substantive commitment produces the substantial dystopia rather than the substantial utopia.
+**《极乐空间》**(2013){{ cite(id="elysium-film", text="[16]", title="Elysium, dir. Neill Blomkamp, Sony Pictures, 2013") }} 将轨道环形世界极乐空间呈现为赛博乐园主义美学的视觉实现——豪华的后稀缺环境,配有先进医疗技术、美丽的整合自然景观与建筑精致性。美学表面强烈登记为赛博乐园主义的。然而其叙事内容将极乐空间登记为富人飞地,地球上的更广泛人口则被压低至反乌托邦贫困状态。该片在更广泛的社会—政治层面作为反赛博乐园主义内容运作——对公平法则的特定违反构成叙事的核心。从赛博乐园主义的解读来看,该片作为对*缺乏赛博乐园主义实质承诺的赛博乐园主义美学如何产生实质反乌托邦而非实质乌托邦*的说明而发挥功能。
 
-**Oblivion** (2013) presents protagonist Jack Harper's elevated-tower habitat above the cloud-line as visually-arresting Cyberparadist installation — minimalist-elegant architecture, sweeping panoramic environment, integrated advanced technology. The narrative content registers post-apocalyptic Earth recovering from substantial conflict, with the protagonist gradually discovering his actual situation. The film operates partially Cyberparadist (the elevated-habitat aesthetic, the substantial human-scale technology integration) within broader post-collapse narrative framing.
+**《遗落战境》**(2013){{ cite(id="oblivion-film", text="[17]", title="Oblivion, dir. Joseph Kosinski, Universal Pictures, 2013") }} 将主人公杰克·哈珀位于云层之上的高耸塔楼栖息地呈现为视觉上引人注目的赛博乐园主义装置——极简优雅的建筑、扫视全景的环境、整合的先进技术。叙事内容登记的是从实质性冲突中复苏的灾后地球,主人公逐渐发现其实际处境。该片在更广泛的灾后叙事框架内部分地以赛博乐园主义方式运作(高空栖息地美学、实质性的人类尺度技术整合)。
 
-### Better-aligned instances
+### 更好契合的实例
 
-Substantial cinematic, literary, and visual-cultural productions register Cyberparadist alignment more directly.
+实质性的影视、文学与视觉—文化生产更直接地登记赛博乐园主义契合。
 
-**The Star Trek franchise** — particularly *Star Trek: The Next Generation* (1987-1994), *Deep Space Nine* (1993-1999), *Voyager* (1995-2001), *Discovery* (2017-present), and the broader franchise — registers the Federation aesthetic substantively as Cyberparadist. The post-scarcity Federation registration (*"the acquisition of wealth is no longer the driving force in our lives"* — Picard), the substantial advanced-technology integration with environmental-ethical commitment, the substantial cooperative-civilizational organization, the substantial cosmic-frontier extension all register principal Cyberparadist content.
+**《星际迷航》系列**——特别是《星际迷航:下一代》(1987—1994){{ cite(id="star-trek-tng", text="[18]", title="Star Trek: The Next Generation, Paramount, 1987-1994") }}、《深空九号》(1993—1999)、《航海家号》(1995—2001)、《发现号》(2017 年至今)以及更广泛的系列作品——实质上将联邦美学登记为赛博乐园主义的。后稀缺的联邦登记(*\"获取财富不再是我们生活的驱动力\"* ——皮卡德)、与环境—伦理承诺相整合的实质性先进技术整合、实质性的合作—文明组织以及实质性的宇宙—前沿延伸,均登记主要的赛博乐园主义内容。
 
-**Iain M. Banks's Culture novels** (*Consider Phlebas*, 1987, through *The Hydrogen Sonata*, 2012) register the Culture as substantively-mature Cyberparadism. The post-scarcity galactic civilization, the substantial AI-organic integration, the substantial harmonious-civilizational organization, and the substantial cosmic-frontier scope register principal Cyberparadist content at unusually-systematic literary articulation.
+**伊恩·M·班克斯的 Culture 系列小说**(《思考弗里巴斯》,1987 至《氢之奏鸣曲》,2012){{ cite(id="banks-culture-series", text="[19]", title="Banks, The Culture series, 1987-2012") }} 将 Culture 登记为实质上成熟的赛博乐园主义。后稀缺的银河文明、实质性的 AI—有机整合、实质性的和谐—文明组织以及实质性的宇宙—前沿范围,均以异乎寻常的系统性文学阐发登记主要的赛博乐园主义内容。
 
-**Studio Ghibli's ecological aesthetic** — particularly **Hayao Miyazaki**'s *Nausicaä of the Valley of the Wind* (1984), *Castle in the Sky* (1986), *Princess Mononoke* (1997), and the broader Ghibli production — registers substantial Cyberparadist content through specific harmonious-technology-and-nature visual articulation. Miyazaki's substantial work integrates advanced technology (the *Castle in the Sky* Laputan civilization, the *Nausicaä* atmospheric vehicles, the various engineered systems) with substantial ecological-natural integration.
+**吉卜力工作室的生态美学**——特别是**宫崎骏**的《风之谷》(1984){{ cite(id="miyazaki-nausicaa", text="[20]", title="Miyazaki, Nausicaä of the Valley of the Wind, Studio Ghibli, 1984") }}、《天空之城》(1986){{ cite(id="miyazaki-castle-in-the-sky", text="[21]", title="Miyazaki, Castle in the Sky, Studio Ghibli, 1986") }}、《幽灵公主》(1997){{ cite(id="miyazaki-princess-mononoke", text="[22]", title="Miyazaki, Princess Mononoke, Studio Ghibli, 1997") }} 以及更广泛的吉卜力作品——通过特定的和谐技术—自然视觉阐发登记实质性的赛博乐园主义内容。宫崎骏的实质作品将先进技术(《天空之城》的拉普达文明、《风之谷》的大气载具、各种工程化系统)与实质性的生态—自然整合相整合。
 
-**Le Guin's *The Dispossessed*** (1974) registers Cyberparadist content through articulation of post-scarcity-cooperative civilizational arrangement (the Anarres society) operating with substantial scientific-technological sophistication and substantial commitment to equity, freedom, and responsibility.
+**勒古恩的《一无所有》**(1974){{ cite(id="le-guin-dispossessed", text="[23]", title="Le Guin, The Dispossessed: An Ambiguous Utopia, 1974") }} 通过阐发后稀缺—合作文明安排(Anarres 社会)登记赛博乐园主义内容,该安排具有实质性的科学—技术成熟度以及对公平、自由与责任的实质性承诺。
 
-**Tomorrowland** (2015), **WALL-E** (2008, particularly the post-recovery ending registration), and various other contemporary productions register substantial Cyberparadist content through specific articulations of harmonious technological-natural integration.
+**《明日世界》**(2015){{ cite(id="tomorrowland-film", text="[24]", title="Tomorrowland, dir. Brad Bird, Walt Disney Pictures, 2015") }}、**《机器人总动员》**(2008){{ cite(id="wall-e", text="[25]", title="WALL-E, dir. Andrew Stanton, Pixar, 2008") }}(特别是灾后—复苏式结尾的登记)以及其他多种当代生产,通过对和谐技术—自然整合的特定阐发登记实质性的赛博乐园主义内容。
 
-**The substantial solarpunk literary movement** — through the principal anthologies (*Solarpunk*, 2018; *Sunvault*, 2017; *Multispecies Cities*, 2021), through Andrew Dana Hudson's substantial work, and through the broader contemporary literary tradition — registers substantial Cyberparadist content within the closely-adjacent Solarpunk framing.
+**实质性的太阳朋克文学运动**——通过主要选集(《太阳朋克》,2018;《阳光宝库》,2017;《多物种城市》,2021)、安德鲁·丹纳·哈德森的实质作品以及更广泛的当代文学传统——在密切相邻的太阳朋克框架内登记实质性的赛博乐园主义内容。
 
-**The contemporary visual-cultural production** documented through #cyberparadism on Tumblr, TikTok, Instagram, and adjacent platforms registers substantial direct articulation of the aesthetic — substantial AI-generated imagery, substantial digital art, substantial photographic work, and substantial broader visual-cultural production.
+**当代视觉—文化生产**——通过 Tumblr、TikTok、Instagram 及相邻平台上的 #cyberparadism 标签所记录——登记对该美学的实质性直接阐发,包括实质性的 AI 生成图像、实质性的数字艺术、实质性的摄影作品以及实质性的更广泛视觉—文化生产。
 
-## Application across the corpus
+## 在文集中的应用
 
-Cyberparadism operates substantively within the Wheel of Heaven framework as contemporary aesthetic-cultural articulation registering substantive alignment with the framework's specific historical-civilizational content. The corpus reads three distinct corpus-internal phenomena as substantively Cyberparadist in character.
+赛博乐园主义在 Wheel of Heaven 框架内实质上作为当代美学—文化阐发运作,登记与框架特定历史—文明内容的实质性契合。文集将三种不同的文集内部现象读作实质上属于赛博乐园主义的。
 
-### Eden as the originary Cyberparadism
+### 伊甸园作为本源的赛博乐园主义
 
-The framework reads the **Eden lab** — the originary alliance laboratory in which the early human population lived in integrated harmony with engineered biological systems and advanced alliance technology — as the actual historical Cyberparadism that contemporary aesthetic vision recovers as memory or anticipates as future.
+框架将**伊甸园实验室**——本源的联盟实验室,在其中早期人类群体与工程化的生物系统及先进联盟技术在整合的和谐中共同生活——读作实际历史中的赛博乐园主义,当代美学愿景将其作为记忆复原或作为未来期待。
 
-The Eden engagement operates substantively in alignment with each of the eight Laws of Cyberparadism:
+伊甸园的运作实质上与赛博乐园主义八大法则的每一条相契合:
 
-**Abundance**. The Eden environment registered substantial abundance — the corpus articulation (*"the early humans lived in ease, with the alliance providing for their material needs while their cognitive and developmental capacities matured"*) registers substantively the Cyberparadist post-scarcity content.
+**丰盛**。伊甸园环境登记实质性的丰盛——文集阐发(*\"早期人类生活在安逸之中,联盟在他们的认知与发展能力成熟期间为其提供物质需求\"*)实质上登记赛博乐园主义的后稀缺内容。
 
-**Equity**. The early Eden population was, on the framework's reading, substantively equal in access to alliance-provided resources during the formative period.
+**公平**。从框架的解读来看,早期伊甸园人口在形成期内对联盟所提供的资源具有实质上平等的准入权。
 
-**Freedom**. The Eden population enjoyed substantial freedom of movement, exploration, and engagement within the laboratory environment.
+**自由**。伊甸园人口享有在实验室环境内移动、探索与参与的实质性自由。
 
-**Harmony**. The Eden lab operated substantively as the originary realization of harmonious technological-natural integration — the alliance technology and the engineered biological systems operating together as integrated whole.
+**和谐**。伊甸园实验室实质上作为和谐技术—自然整合的本源实现运作——联盟技术与工程化生物系统作为整合整体共同运作。
 
-**Preservation**. The Eden environment was substantively preserved environment — the alliance maintained the laboratory's biological-ecological integrity as constitutive of its operational function.
+**保护**。伊甸园环境是实质上被保护的环境——联盟将实验室的生物—生态完整性维护为其运行功能的构成部分。
 
-**Recognition**. The Eden population registered individual capacities through alliance-engagement, with the substantial subsequent Edenic-lineage tradition (the substantial Adam-Eve-Cain-Abel-Seth-Noah genealogical line preserved in Genesis 5) operating as recognition-of-capacity transmission across generations.
+**认可**。伊甸园人口通过联盟参与登记个体能力,实质性的后续伊甸—世系传统(创世记 5 中所保存的实质性的亚当—夏娃—该隐—亚伯—塞特—挪亚世系)作为跨代认可—能力传递运作。
 
-**Responsibility**. The Eden engagement registered substantial responsibility-development — the substantial subsequent narrative content (the Tree of Knowledge, the expulsion, the post-Edenic engagement) operates substantively as articulation of the responsibility-development trajectory.
+**责任**。伊甸园参与登记实质性的责任—发展——实质性的后续叙事内容(智慧树、放逐、伊甸后参与)实质上作为责任—发展轨迹的阐发运作。
 
-**Simplicity**. The Eden environment operated through substantial elegant-functional simplicity — the substantial articulation of pre-fall human existence as elegantly-organized, minimally-encumbered, and functionally-clear.
+**简约**。伊甸园环境通过实质性的优雅—功能简约运作——前坠落人类存在作为优雅组织、最低限度负担、功能清晰的实质性阐发。
 
-The framework therefore reads Eden not principally as supernatural-mythological location (the mainstream theological framing) but as the actual historical Cyberparadism — the originary alliance laboratory operating substantively as the first realization of the principles that contemporary Cyberparadist aesthetic articulates as future-vision. The detailed treatment of Eden lives in the [Eden](../eden/) entry when written; the broader treatment of the originary alliance project lives in the [Age of Cancer](../age-of-cancer/) entry when written.
+因此,框架并非主要将伊甸园读作超自然—神话位置(主流神学的框架),而是读作实际历史中的赛博乐园主义——本源的联盟实验室实质上作为当代赛博乐园主义美学作为未来愿景所阐发原则的第一次实现而运作。关于伊甸园的详细处理见 {% wiki(slug="eden") %}伊甸园{% end %} 词条(撰写后);关于本源联盟项目的更广泛处理见 {% wiki(slug="age-of-cancer") %}巨蟹座时代{% end %} 词条(撰写后)。
 
-### The Planet of the Eternals as cosmic-civilizational Cyberparadism
+### 永恒者之星作为宇宙—文明尺度的赛博乐园主义
 
-The framework reads the **Planet of the Eternals** — the alliance home-world as Vorilhon's contact accounts describe it — as the cosmic-civilizational Cyberparadism, the mature realization of the aesthetic's principles in actual operational form at planetary-civilizational scale.
+框架将**永恒者之星**——Vorilhon 接触报告所描述的联盟母星——读作宇宙—文明尺度的赛博乐园主义,即该美学原则在行星—文明尺度的实际运行形态中的成熟实现。
 
-The Vorilhon source-textual material, principally in *Les Extra-Terrestres m'ont emmené sur leur planète* (1975), articulates substantial content registering the Eternals' planet as substantively Cyberparadist:
+Vorilhon 的源—文本材料,主要见于《外星人将我带到他们的星球》(1975),阐发了将永恒者之星登记为实质上属于赛博乐园主义的实质内容:
 
-- **Substantial post-scarcity arrangement** — the Eternals operate without scarcity-economic concerns, with substantive material abundance enabling collective focus on higher pursuits
-- **Substantial advanced biological-technological integration** — the Eternals have integrated advanced biological engineering with advanced technology, producing substantively the Cyberparadist synthesis
-- **Substantial longevity** — the Eternals live substantively longer than current human lifespans (substantial multi-century lifespans), with subsequent recreation from genetic code after death
-- **Substantial harmonious organization** — the Eternals operate cooperative-civilizational arrangement without internal conflict, registering substantively the Cyberparadist Law of Harmony at civilizational scale
-- **Substantial environmental integration** — the Eternals' planet operates substantively as integrated-ecological-civilizational arrangement
-- **Substantial cosmic-frontier engagement** — the Eternals operate substantively beyond their home planet, with substantial creating-civilization engagement (Earth being one substantial example) extending the Cyberparadist principles to additional worlds
+- **实质性的后稀缺安排**——永恒者无稀缺—经济关切地运作,具有实质性的物质丰盛,使集体能够专注于更高追求
+- **实质性的先进生物—技术整合**——永恒者已将先进生物工程与先进技术相整合,实质上产生赛博乐园主义的综合
+- **实质性的长寿**——永恒者的寿命实质上长于当前人类寿命(实质性的多世纪寿命),并在死亡后通过遗传密码加以再创造
+- **实质性的和谐组织**——永恒者运作无内部冲突的合作—文明安排,实质上在文明尺度上登记赛博乐园主义的和谐法则
+- **实质性的环境整合**——永恒者的星球实质上作为整合的生态—文明安排运作
+- **实质性的宇宙—前沿参与**——永恒者实质上在其母星之外运作,具有实质性的创造性—文明参与(地球是一个实质性的例子),将赛博乐园主义原则延伸至更多世界
 
-The framework reads the Planet of the Eternals as the substantively mature Cyberparadism that contemporary Cyberparadist aesthetic anticipates intuitively without specific knowledge of the actual operational existence. The substantial alignment registers significant evidence for the broader doubled-signature principle — the contemporary aesthetic registers in substantial alignment with the framework's specific underlying historical-civilizational reality. The detailed treatment of the Planet of the Eternals lives in the [Planet of the Eternals](../planet-of-the-eternals/) entry when written.
+框架将永恒者之星读作当代赛博乐园主义美学在不具备对实际运行存在之特定知识的情况下凭直觉所期待的实质成熟赛博乐园主义。这种实质契合登记为对更广泛双重签名原则的显著证据——当代美学与框架特定底层历史—文明现实存在实质契合。关于永恒者之星的详细处理见 {% wiki(slug="planet-of-the-eternals") %}永恒者之星{% end %} 词条(撰写后)。
 
-### The Aquarian-age inheritance threshold
+### 水瓶座时代的继承门槛
 
-The framework reads the **Aquarian-age inheritance threshold** as the historical moment at which Cyberparadism transitions from aesthetic vision to operational reality through humanity's anticipated maturation into creating-civilization extending the alliance's work to other worlds.
+框架将**水瓶座时代继承门槛**读作历史时刻,在此时刻赛博乐园主义通过人类预期的成熟为创造性文明、将联盟工作延伸至其他世界,从美学愿景过渡为运行性现实。
 
-The substantial framework articulation operates through three principal moves:
+实质性的框架阐发通过三个主要的步骤运作:
 
-**The cosmic chain succession**. The framework's substantial Cosmic Chain content (treated in the [Cosmic Chain](../cosmic-chain/) entry) articulates the broader cosmic-civilizational succession framework: alliance creates humanity; humanity matures into creating-civilization; humanity extends alliance work to other worlds; humanity's creations mature in turn. The substantial succession registers Cyberparadism as operational-civilizational arrangement across multiple succession-iterations rather than as Earth-specific aesthetic.
+**宇宙链承续**。框架的实质宇宙链内容(在 {% wiki(slug="cosmic-chain") %}宇宙链{% end %} 词条中处理)阐发了更广泛的宇宙—文明承续框架:联盟创造人类;人类成熟为创造性文明;人类将联盟工作延伸至其他世界;人类的造物依次成熟。这种实质性承续将赛博乐园主义登记为跨多次承续—迭代的运行—文明安排,而非地球—特定的美学。
 
-**The Aquarian-age operational threshold**. The framework's substantial Aquarian-age content (treated in the [Age of Aquarius](../age-of-aquarius/) entry when written) registers the present age (1950-c. 4110, on the corpus chronology) as the operational maturation threshold. Contemporary humanity is, on the framework's reading, approaching the substantial inheritance moment at which alliance-technology becomes operationally available and alliance-civilizational work becomes humanity's broader engagement.
+**水瓶座时代的运行门槛**。框架的实质水瓶座时代内容(在 {% wiki(slug="age-of-aquarius") %}水瓶座时代{% end %} 词条中处理,撰写后)将当前时代(按文集年表为公元 1950 年至约 4110 年)登记为运行—成熟门槛。从框架的解读来看,当代人类正在接近实质性的继承时刻,在此时刻联盟技术变为可运行获取,联盟—文明工作变为人类的更广泛参与。
 
-**Cyberparadism as Aquarian-age cultural articulation**. Contemporary Cyberparadism registers substantively as Aquarian-age cultural production aligned with the broader Aquarian-age operational situation. The aesthetic's emergence in the late twentieth and early twenty-first centuries — precisely the period the framework registers as inheritance-threshold approach — operates substantively as cultural anticipation of the operational maturation.
+**赛博乐园主义作为水瓶座时代的文化阐发**。当代赛博乐园主义实质上作为与更广泛水瓶座时代运行处境相契合的水瓶座时代文化生产登记。该美学在二十世纪晚期与二十一世纪早期的出现——恰恰是框架登记为继承—门槛接近的时期——实质上作为对运行性成熟的文化预期运作。
 
-The framework therefore reads Cyberparadism not principally as speculative-future-vision but as **anticipation of operationally-imminent reality**. The aesthetic's substantive content (post-scarcity arrangement, harmonious technological-natural integration, cosmic-frontier extension, advanced biological-technological synthesis) corresponds substantively to what the framework articulates as humanity's anticipated operational maturation, with the contemporary aesthetic registering as cultural expression of the broader trajectory.
+因此,框架并非主要将赛博乐园主义读作思辨—未来愿景,而是读作**对运行性临近现实的预期**。该美学的实质内容(后稀缺安排、和谐技术—自然整合、宇宙—前沿延伸、先进生物—技术综合)实质上对应于框架所阐发的人类预期运行性成熟,当代美学作为更广泛轨迹的文化表达加以登记。
 
-### The doubled-signature engagement
+### 双重签名参与
 
-The substantial alignment between contemporary Cyberparadism and the framework's specific content registers as evidence for the broader **doubled-signature principle** — the corpus's reading that Aquarian-age cultural production registers substantive alignment with the framework's underlying historical-civilizational reality. The detailed treatment of the doubled-signature principle lives in the [Doubled Signature](../doubled-signature/) entry.
+当代赛博乐园主义与框架特定内容之间的实质契合,作为对更广泛**双重签名原则**的证据登记——文集的解读认为水瓶座时代的文化生产与框架底层的历史—文明现实存在实质契合。关于双重签名原则的详细处理见 {% wiki(slug="doubled-signature") %}双重签名{% end %} 词条。
 
-The substantial implication: contemporary cultural production is not principally autonomous human-cultural elaboration but registers substantive resonance with the broader operational reality the framework articulates. Cyberparadism specifically operates as one substantial instance of the broader pattern — contemporary aesthetic-cultural articulation that registers in substantial alignment with the framework's historical-civilizational content despite operating without explicit framework-knowledge.
+实质性的含义:当代文化生产并非主要是自主的人类—文化加工,而是与框架所阐发的更广泛运行性现实产生实质共鸣。具体而言,赛博乐园主义作为更广泛模式的一个实质性实例运作——尽管在没有明确框架知识的情况下运作,当代美学—文化阐发仍然登记与框架历史—文明内容的实质契合。
 
-### The alliance-civilization-as-Cyberparadism reading
+### 联盟文明作为赛博乐园主义的解读
 
-The broader framework articulation reads the **Elohim civilization** itself as substantively Cyberparadist in character. The alliance civilization operates with substantial post-scarcity arrangement, substantial advanced biological-technological integration, substantial environmental sophistication, substantial cooperative-civilizational organization, and substantial cosmic-frontier engagement — all of the principal Cyberparadist features at substantial multi-millennial operational scale. The detailed treatment of the alliance civilization lives in the [Elohim](../elohim/) and [Wheel of Heaven](../wheel-of-heaven/) entries.
+更广泛的框架阐发将 {% wiki(slug="elohim") %}耶洛因文明{% end %} 本身读作实质上属于赛博乐园主义的。联盟文明以实质性的后稀缺安排、实质性的先进生物—技术整合、实质性的环境精致性、实质性的合作—文明组织以及实质性的宇宙—前沿参与运作——所有主要的赛博乐园主义特征在实质性的多千年运行尺度上运作。关于联盟文明的详细处理见 {% wiki(slug="elohim") %}耶洛因{% end %} 与 {% wiki(slug="wheel-of-heaven") %}天之轮{% end %} 词条。
 
-The broader corpus reading: the framework's specific historical-civilizational reality is substantively Cyberparadist, with the contemporary aesthetic operating as substantive cultural reception of the broader reality. The relationship between contemporary Cyberparadism and the framework's substantive content is therefore **cultural articulation aligned with operational reality** rather than principally **speculative vision oriented toward unrealized future**.
+更广泛的文集解读:框架特定的历史—文明现实实质上属于赛博乐园主义,当代美学作为对更广泛现实的实质文化接收运作。因此,当代赛博乐园主义与框架实质内容之间的关系是**与运行性现实相契合的文化阐发**,而非主要是**指向尚未实现未来的思辨愿景**。
 
-## Distinguishing from adjacent concepts
+## 与相邻概念的区分
 
-### Cyberparadism vs. Paradism
+### 赛博乐园主义与乐园主义
 
-**Paradism** (without the cyber-prefix) designates a related but distinct movement principally articulated within the Raëlian Movement — the substantive social-political-economic position advocating post-scarcity reorganization through full automation, abolition of money, and the broader transformation away from labor-based economic arrangements. Paradism operates principally as social-political-economic doctrine; Cyberparadism operates principally as aesthetic-cultural movement. The detailed treatment of Paradism lives in the [Paradism](../paradism/) entry. The two movements share substantive overlapping content (post-scarcity arrangement, full automation, harmonious technological integration) while operating in distinct registers (political-economic vs. aesthetic-cultural).
+**乐园主义**(无 cyber-前缀)指代主要在 {% wiki(slug="raelism") %}雷尔运动{% end %} 内阐发的相关但有别的运动——通过全面自动化、废除货币以及远离基于劳动经济安排的更广泛变革,倡导后稀缺重组的实质社会—政治—经济立场。乐园主义主要作为社会—政治—经济教义运作;赛博乐园主义主要作为美学—文化运动运作。关于乐园主义的详细处理见 {% wiki(slug="paradism") %}乐园主义{% end %} 词条。两运动共享实质性的重叠内容(后稀缺安排、全面自动化、和谐技术整合),但在不同语域(政治—经济与美学—文化)中运作。
 
-### Cyberparadism vs. techno-optimism
+### 赛博乐园主义与技术乐观主义
 
-**Techno-optimism** designates the broader contemporary cultural position advocating positive engagement with technological development. The principal contemporary articulation is Marc Andreessen's *Techno-Optimist Manifesto* (October 16, 2023). The relationship is **substantive overlap with distinct emphasis**: techno-optimism operates principally as broader cultural-political position; Cyberparadism operates as specific aesthetic-cultural movement with substantive ecological-environmental commitment that techno-optimism does not principally engage.
+**技术乐观主义**指代倡导对技术发展进行积极参与的更广泛当代文化立场。主要的当代阐发是马克·安德森的《技术乐观主义宣言》(2023 年 10 月 16 日)。两者的关系是**实质重叠但强调不同**:技术乐观主义主要作为更广泛的文化—政治立场运作;赛博乐园主义作为具有实质生态—环境承诺(技术乐观主义不主要涉及)的特定美学—文化运动运作。
 
-### Cyberparadism vs. transhumanism
+### 赛博乐园主义与超人类主义
 
-**Transhumanism** designates the broader cultural-philosophical movement advocating human-enhancement through technological intervention. The relationship is **adjacent-with-distinct-emphasis**: transhumanism operates principally on individual-human-enhancement engagement; Cyberparadism operates principally on broader civilizational-aesthetic engagement. Cyberparadism's substantive synthetic-life-engineering Sign produces substantive overlap at the substantive-content level.
+**超人类主义**指代倡导通过技术干预实现人类增强的更广泛文化—哲学运动。两者关系是**相邻但强调不同**:超人类主义主要在个体—人类—增强参与上运作;赛博乐园主义主要在更广泛的文明—美学参与上运作。赛博乐园主义的实质合成生命工程标志在实质内容层面产生实质重叠。
 
-### Cyberparadism vs. utopianism
+### 赛博乐园主义与乌托邦主义
 
-**Utopianism** designates the broader cultural-literary tradition articulating ideal-future-civilizational arrangements (from Thomas More's *Utopia*, 1516, through the substantial subsequent utopian-literary tradition). The relationship is **broader-tradition-with-specific-aesthetic-articulation**: Cyberparadism operates substantively within the broader utopian tradition while articulating specific contemporary aesthetic-cultural-technological content.
+**乌托邦主义**指代阐发理想—未来—文明安排的更广泛文化—文学传统(从托马斯·摩尔的《乌托邦》,1516{{ cite(id="mores-utopia", text="[26]", title="More, Utopia, 1516 — the foundational text of the Western utopian literary tradition") }} 至实质性的后续乌托邦—文学传统)。两者关系是**更广泛传统中的特定美学阐发**:赛博乐园主义实质上在更广泛的乌托邦传统中运作,同时阐发特定的当代美学—文化—技术内容。
 
-### Cyberparadism vs. aesthetic-cultural movements generally
+### 赛博乐园主义与一般美学—文化运动
 
-Cyberparadism operates substantively differently from aesthetic-cultural movements that operate principally on visual-stylistic registration without substantive content commitment. The eight Laws and six Signs articulate substantive content commitments distinguishing Cyberparadism from purely-aesthetic movements; the substantive engagement with technological-environmental-civilizational questions distinguishes Cyberparadism from purely-stylistic vocabulary.
+赛博乐园主义实质上与那些主要在没有实质内容承诺的情况下、在视觉—风格登记上运作的美学—文化运动相不同。八大法则与六大标志阐发实质的内容承诺,将赛博乐园主义与纯粹美学的运动区分开来;对技术—环境—文明问题的实质参与将赛博乐园主义与纯粹风格的词汇区分开来。
 
-## Adjacent aesthetics — brief survey
+## 相邻美学——简要概述
 
-Cyberparadism operates within the broader contemporary aesthetic ecosystem documented principally through the Aesthetics Wiki and adjacent community platforms. The principal adjacent aesthetics:
+赛博乐园主义运作于主要通过 Aesthetics Wiki 与相邻社群平台所记录的更广泛当代美学生态之内。主要的相邻美学:
 
-**Solarpunk** — the closest substantive cousin, treated above in *Lineage and adjacent aesthetics*.
+**太阳朋克**——实质上最近的近亲,在上文 *谱系与相邻美学* 中处理。
 
-**Cyberprep** — the optimistic counter-current to Cyberpunk, with substantive overlap on technology-optimism content, distinct on ecological-environmental commitment.
+**赛博学院风**——相对于赛博朋克的乐观反向潮流,在技术—乐观主义内容上有实质重叠,在生态—环境承诺上有别。
 
-**Post-Cyberpunk** — the literary maturity development, with substantive overlap on technological-cultural-transformation content, distinct on principally-literary vs. principally-visual register.
+**后赛博朋克**——文学成熟发展,在技术—文化—变革内容上有实质重叠,主要在文学语域而非主要在视觉语域上有别。
 
-**Cyberpunk** — the dystopian foil, registered explicitly as the principal aesthetic-cultural position Cyberparadism operates against.
+**赛博朋克**——反乌托邦反衬,明确登记为赛博乐园主义实质上反对的主要美学—文化立场。
 
-**Atompunk** — the retrofuturist parallel drawing on mid-twentieth-century atomic-age optimism.
+**原子朋克**——汲取自二十世纪中叶原子时代乐观主义的复古未来主义并行。
 
-**Biopunk** — the biological-engineering aesthetic, with substantive overlap through synthetic-life-engineering content.
+**生物朋克**——生物工程美学,通过合成生命工程内容有实质重叠。
 
-**Hopepunk** — the broader contemporary cultural movement articulating active hope as cultural-political stance, with substantive resonance with Cyberparadism's optimistic-orientation commitment.
+**希望朋克**——倡导主动希望作为文化—政治立场的更广泛当代文化运动,与赛博乐园主义的乐观—取向承诺有实质共鸣。
 
-**The substantial broader contemporary aesthetic ecosystem** — Cottagecore (rural-natural domestic aesthetic), Dark Academia (intellectual-historical-gothic aesthetic), Vaporwave (1980s-90s commercial-cultural-nostalgia aesthetic), Synthwave (1980s electronic-music-aesthetic revival), and various others, each operating in distinct aesthetic-cultural space.
+**实质性的更广泛当代美学生态**——田园核(乡村—自然家庭美学)、暗黑学院风(知识—历史—哥特美学)、蒸汽波(1980—90 年代商业—文化—怀旧美学)、合成波(1980 年代电子—音乐—美学复兴)以及其他多种美学,各自在不同的美学—文化空间中运作。
 
-The broader adjacent-aesthetic landscape registers contemporary cultural-aesthetic ecosystem within which Cyberparadism operates as substantive optimistic-technological-ecological synthesis position.
-
-## See also
-
-- [Wheel of Heaven](../wheel-of-heaven/)
-- [Paradism](../paradism/)
-- [Elohim](../elohim/)
-- [Eden](../eden/)
-- [Planet of the Eternals](../planet-of-the-eternals/)
-- [Age of Aquarius](../age-of-aquarius/)
-- [Age of Cancer](../age-of-cancer/)
-- [Cosmic Chain](../cosmic-chain/)
-- [Doubled Signature](../doubled-signature/)
-- [Mass Effect](../mass-effect/)
-- [Living Earth](../living-earth/)
-- [Raëlism](../raelism/)
-- [Raël](../rael/)
-- [Embassy](../embassy/)
-- [Apocalypse](../apocalypse/)
-
-## References
-
-### The Cyberparadism Manifesto
-
-zarazinsfuss. *Cyberparadism Manifesto*. GitHub repository, 2023. <https://github.com/zarazinsfuss/cyberparadism-manifesto>. The principal systematic articulation of the aesthetic.
-
-zarazinsfuss. *Cyberparadism* (web presence). <https://zarazinsfuss.github.io/cyberparadism/>. The principal contemporary web presence.
-
-### Aesthetics Wiki origin
-
-"Cyberparadism." *Aesthetics Wiki*. <https://aesthetics.fandom.com/wiki/Cyberparadism>. The principal venue of the aesthetic's formalization.
-
-### Adjacent aesthetic-movement references
-
-"Solarpunk." *Aesthetics Wiki*. <https://aesthetics.fandom.com/wiki/Solarpunk>.
-
-"Cyberprep." *Aesthetics Wiki*. <https://aesthetics.fandom.com/wiki/Cyberprep>.
-
-"Post-Cyberpunk." *Aesthetics Wiki*. <https://aesthetics.fandom.com/wiki/Post-Cyberpunk>.
-
-"Cyberpunk." *Aesthetics Wiki*. <https://aesthetics.fandom.com/wiki/Cyberpunk>.
-
-"Atompunk." *Aesthetics Wiki*. <https://aesthetics.fandom.com/wiki/Atompunk>.
-
-"Hopepunk." *Aesthetics Wiki*. <https://aesthetics.fandom.com/wiki/Hopepunk>.
-
-### Cybernetics and "cyber-" etymology
-
-Wiener, Norbert. *Cybernetics: Or Control and Communication in the Animal and the Machine*. MIT Press, 1948.
-
-Gibson, William. *Neuromancer*. Ace Books, 1984. The principal "cyberspace" coinage.
-
-### Solarpunk literary movement
-
-*Solarpunk: Ecological and Fantastical Stories in a Sustainable World*. Trans. Fábio Fernandes. World Weaver Press, 2018.
-
-Wagner, Phoebe, and Brontë Christopher Wieland, eds. *Sunvault: Stories of Solarpunk and Eco-Speculation*. Upper Rubber Boot Books, 2017.
-
-Rupprecht, Christoph, et al., eds. *Multispecies Cities: Solarpunk Urban Futures*. World Weaver Press, 2021.
-
-Hudson, Andrew Dana. Various works in the Solarpunk movement.
-
-### Cyberparadist-aligned literary works
-
-Banks, Iain M. *The Culture Series* (1987-2012, ten principal novels including *Consider Phlebas*, *The Player of Games*, *Use of Weapons*, *Excession*, *Look to Windward*, *Surface Detail*, *The Hydrogen Sonata*).
-
-Le Guin, Ursula K. *The Dispossessed: An Ambiguous Utopia*. Harper & Row, 1974.
-
-Stephenson, Neal. *The Diamond Age: Or, A Young Lady's Illustrated Primer*. Bantam, 1995.
-
-### Cinematic productions referenced
-
-*Star Trek: The Next Generation*, et al. (Paramount, 1987-present).
-
-Miyazaki, Hayao. *Nausicaä of the Valley of the Wind*. Studio Ghibli, 1984.
-
-Miyazaki, Hayao. *Castle in the Sky*. Studio Ghibli, 1986.
-
-Miyazaki, Hayao. *Princess Mononoke*. Studio Ghibli, 1997.
-
-*WALL-E*. Pixar, dir. Andrew Stanton, 2008.
-
-*Tomorrowland*. Walt Disney Pictures, dir. Brad Bird, 2015.
-
-*Jurassic World*. Universal Pictures, dir. Colin Trevorrow, 2015.
-
-*Elysium*. Sony Pictures, dir. Neill Blomkamp, 2013.
-
-*Oblivion*. Universal Pictures, dir. Joseph Kosinski, 2013.
-
-### Adjacent contemporary cultural manifestos
-
-Andreessen, Marc. *The Techno-Optimist Manifesto*. Andreessen Horowitz, October 16, 2023. <https://a16z.com/the-techno-optimist-manifesto/>.
-
-### Architectural and design lineage
-
-Fuller, R. Buckminster. *Operating Manual for Spaceship Earth*. Southern Illinois University Press, 1969.
-
-Otto, Frei. *Das Hängende Dach*. Bauwelt-Verlag, 1954.
-
-Soleri, Paolo. *Arcology: The City in the Image of Man*. MIT Press, 1969.
-
-Benyus, Janine M. *Biomimicry: Innovation Inspired by Nature*. William Morrow, 1997.
-
-### Web resources
-
-"Cyberparadism." *Aesthetics Wiki*. <https://aesthetics.fandom.com/wiki/Cyberparadism>.
-
-"Ephemeralization." *Wikipedia*. <https://en.wikipedia.org/wiki/Ephemeralization>.
-
-"Spaceship Earth." *Wikipedia*. <https://en.wikipedia.org/wiki/Spaceship_Earth>.
-
-#cyberparadism on Tumblr. <https://www.tumblr.com/tagged/Cyberparadism?sort=top>.
-
-#cyberparadism on TikTok. <https://www.tiktok.com/tag/cyberparadism>.
+更广泛的相邻—美学景观登记了赛博乐园主义作为实质性的乐观—技术—生态综合立场所运作的当代文化—美学生态。
