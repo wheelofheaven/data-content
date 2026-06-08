@@ -1,353 +1,382 @@
 +++
 title = "대년"
-description = "대년은 세차 운동의 완전한 주기 — 약 25,920년 — 로, 그 사이 봄 분점은 황도 십이궁 전체를 한 바퀴 돈다. Wheel of Heaven 코퍼스에서 그것은 문명 단위의 기본 연대 단위를 이룬다."
+slug = "great-year"
+description = "대년은 세차 운동의 한 완전한 주기 — 지구 자전축이 고정된 별들의 배경을 향해 하나의 완전한 원뿔을 그리는 데 필요한 기간, 또는 봄 분점이 황도를 따라 한 바퀴를 도는 데 필요한 기간 — 이다. 현대 천문학적 측정에 따르면 대년은 약 25,772년이며, 점성술 전통의 산정으로는 25,920년(편리한 수치 2⁶ × 3⁴ × 5로, 1도의 세차 이동당 72년 × 360°에서 도출됨)이다. 이 개념은 플라톤의 《티마이오스》(기원전 약 360년)까지 거슬러 올라가는 서양 사상에서의 실질적인 역사를 갖고 있으며, 거기서 *Magnus Annus* 또는 *완전년*은 천체들이 최초의 배치로 복귀하는 주기를 가리킨다. 히파르코스 이후의 전통(기원전 약 129년 세차 발견 이후)은 플라톤의 대년을 세차 주기와 동일시하였으며, 25,920이라는 수치가 중세 및 르네상스 전통을 거치며 지배적이 되었다. Wheel of Heaven 프레임워크는 대년을 코퍼스 전체의 기초적 연대 기반시설로 — 지구상 엘로힘 프로젝트의 대략적 지속 기간(약 25,000년 전의 합성, 그리고 더 폭넓은 준비 및 운영 단계들이 시간선을 어느 정도 더 연장함)이자 코퍼스의 열두 대월(大月) 동정이 조직되는 마스터 주기로 — 읽는다. 대년 규모의 우주 주기들이 문화권을 넘어 보존되어 온 양상(힌두의 *kalpa*와 *mahakalpa*, 스토아의 *ekpyrosis*, 플라톤 전통의 Magnus Annus, 그리고 조르조 데 산티야나와 헤르타 폰 데헨트가 《햄릿의 맷돌》(1969)에서 분석한 더 넓은 신화적·상징적 기록)은 프레임워크에 의해 세차 우주 주기 개념의 히파르코스 이전 전수에 대한 실질적 증거로 다루어진다."
 template = "wiki-page.html"
 toc = true
 
 [extra]
-translation_status = "metadata_only"
-redirect_to = { title = "World Age", path = "/wiki/world-age/" }
+featured_order = 6
+redirect_to = { title = "세계 시대", path = "/ko/wiki/world-age/" }
 category = "Cosmic Chronology"
 editorial_pass = "2026-05"
 entry_type = "concept"
 claim_type = "inferred"
-alternative_names = ["Platonic Year", "Precessional year", "Magnus Annus (Latin)", "Annus Magnus", "Annus Perfectus / Perfect Year (Plato)", "Cosmic Year"]
+alternative_names = ["플라톤년", "세차년", "Magnus Annus (라틴어)", "Annus Magnus", "Annus Perfectus / 완전년 (플라톤)", "우주년"]
+see_also = [
+    { title = "세차", path = "wiki/precession", description = "대년을 추동하는 메커니즘 — 지구 자전축의 느린 흔들림." },
+    { title = "대월", path = "wiki/great-month", description = "대년의 12분의 1 — 단일 세차 시대의 지속 기간." },
+    { title = "세계 시대", path = "wiki/world-age", description = "인류사의 한 장(章)으로 다루어지는 세차 시대." },
+    { title = "황도 십이궁", path = "wiki/zodiac", description = "대년의 각 시대를 명명하는 12분할의 천구 구분." },
+    { title = "대귀환", path = "wiki/great-return", description = "주기의 정점 — 엘로힘의 약속된 귀환 — 에 대한 라엘적 프레이밍." },
+    { title = "우주적 진화", path = "wiki/cosmic-evolution", description = "대년을 심층 시간의 진화 안에 위치시키는 프레임워크." },
+]
+
+footnotes = [
+    { content = "《티마이오스》 39d의 플라톤의 *teleios eniautos*는 태양, 달, 그리고 다섯 가시 행성들이 동시에 최초 배치로 복귀하는 데 필요한 기간으로 정의된다 — 즉 세차 주기가 아니라 행성 합의 주기이다. 플라톤은 《티마이오스》에서 완전년의 지속 기간 수치를 제시하지 않으며, 세차에 근거하여 그렇게 할 수도 없었다. 세차는 그 대화편보다 두 세기 이상 뒤인 기원전 약 129년에야 히파르코스에 의해 동정되었기 때문이다. 따라서 플라톤의 완전년을 세차 주기와 동일시하는 것은 히파르코스 이후의 전개이지, 플라톤 자신의 주장이 아니다." },
+    { content = "전통적 25,920년 수치는 수학적 편의성 때문에 프레임워크의 더 넓은 연대 작업에서 선호된다. 이 수치는 2⁶ × 3⁴ × 5로 깔끔하게 인수분해되며, 360 × 72, 60 × 432, 12 × 2,160 등의 분해가 손쉽게 가능하다. 프톨레마이오스의 《알마게스트》(서기 약 150년)는 실제 ~50초각/년이 아니라 약 100년당 1°라는 히파르코스의 세차 측정에서 도출된, 실질적으로 더 긴 36,000년이라는 수치를 제시한다. 프톨레마이오스의 36,000년 수치는 중세 시기까지 서양 전통을 지배했으며, 더 정확한 1도당 72년의 비율에서 도출된 25,920년 산정이 르네상스 시기에 그것을 대체하였다." },
+    { content = "헤시오도스의 《일과 날》(기원전 약 700년)은 네 시대 또는 다섯 시대의 쇠퇴 계열 — 황금, 은, 청동, 사이에 삽입된 영웅 시대, 그리고 철 — 을 제시하는데, 이것은 명시적으로 세차적이지 않으며 또한 그럴 수도 없었다. 헤시오도스는 히파르코스보다 약 다섯 세기 앞서기 때문이다. 헤시오도스의 네 시대와 대년의 4분할(각 시대가 세 대월, 즉 전통적 산정으로 6,480년에 해당) 사이의 구조적 대응은 가능한 한 가지 독해이지만, 헤시오도스 계열과 세차 주기 사이의 구체적 관계에 대한 코퍼스의 채택된 입장은 열려 있다." },
+    { content = "힌두의 순환적 우주론의 산술은 세차 대년보다 실질적으로 더 큰 규모에서 작동한다. *mahayuga*는 총 4,320,000년(약 167 대년)에 이르며, 완전한 *kalpa* — 브라마의 하루 — 는 총 4,320,000,000년에 이른다. 힌두의 숫자들과 세차 수치들(특히 432 관련 숫자들과 그 인수분해) 사이의 실질적 수치 대응은 인상적이지만, 푸라나 문헌들이 그 수치를 세차 천문학에서 도출하는지, 독립적으로 발전하면서 부차적 세차 대응을 갖게 되는지, 아니면 다른 메커니즘을 통해 관계되는지 여부는 코퍼스에 의해 열린 문제로 다루어진다." },
+    { content = "메소아메리카 장기 계산의 13-박툰 대주기는 약 5,125년(1,872,000일)으로, 세차 대년의 약 5분의 1에 해당한다(25,920 / 5 = 5,184년; 25,772 / 5 = 5,154년 — 둘 다 메소아메리카 수치에 근접). 그 수치 대응은 더 넓은 문화 간 보존 양상과 일관되지만, 메소아메리카 전통이 세차적 내용을 — 독립적인 천문학적 또는 역법적 고려에서 주기를 도출한 것이 아니라 — 명시적으로 부호화했는지에 관한 구체적 질문은 코퍼스에 의해 열린 문제로 다루어진다." },
+]
+
+[[extra.references]]
+id = "hamlets-mill"
+note = "히파르코스 이전의 신화가 세차 대년의 내용을 체계적으로 부호화한다는 명제에 대한 산티야나와 폰 데헨트의 기초적 작업."
+
+[[extra.references]]
+id = "theogony-and-works-and-days"
+note = "헤시오도스의 《일과 날》 — 프레임워크가 세차 대년과 나란히 읽는 네 시대 / 다섯 시대 전통의 주요 그리스어 자료."
+
+[[extra.references]]
+id = "the-book-which-tells-the-truth"
+note = "보릴롱의 첫 번째 라엘 저작(1974) — 엘로힘 프로젝트의 약 25,000년 지속 기간을 약 1 대년으로 읽는 프레임워크 독해의 주요 자료."
 
 [extra.infobox]
-type = "The full precessional cycle; one complete circuit of the vernal equinox around the ecliptic"
-duration_modern = "Approximately 25,772 years (modern astronomical measurement, based on the precessional rate of ~50.29 arcseconds/year)"
-duration_traditional = "Exactly 25,920 years (astrological-tradition reckoning, 360° × 72 years/°)"
-component_units = "1 Great Year = 12 Great Months (each ~2,160 years) = 360 Great Days (each ~72 years) = full 360° circuit of the ecliptic"
-plato_source = "*Timaeus* 39d — the *teleios eniautos* (\"Perfect Year\") concept"
-historical_milestones = "Plato (c. 360 BCE — original *Perfect Year* concept, not yet identified with precession); Hipparchus (c. 129 BCE — discovery of precession); Cicero (c. 45 BCE — Latin *Magnus Annus* tradition); Censorinus (c. 238 CE — preservation of variant ancient calculations); Ptolemy (c. 150 CE — 36,000-year figure); Renaissance tradition (identification with precessional cycle); 19th–20th-century revival in theosophical-esoteric thought; Santillana and von Dechend's *Hamlet's Mill* (1969) — scholarly engagement with cross-cultural preservation"
-cross_cultural_correspondences = "Hindu *Kalpa* / *Mahakalpa* (much longer cycles with substructure that may map to Great Year scale); Stoic *ekpyrosis* (cyclic cosmological destruction-renewal); Hesiodic Ages of Gold/Silver/Bronze/Iron (broader cyclic-cosmology tradition); Mesoamerican Long Count Great Cycle (5,125 years, approximately one-fifth of the Great Year); broader cyclic-cosmology tradition across cultures"
-framework_significance = "Foundational chronological framework for the corpus; approximately the duration of the Elohim project on Earth on the framework's reading; the master cycle within which the twelve Great Month identifications used across the corpus are organized"
+type = "완전한 세차 주기; 봄 분점이 황도 둘레를 도는 한 번의 완전한 순환"
+duration_modern = "약 25,772년 (현대 천문학적 측정, ~50.29 초각/년의 세차 비율에 근거)"
+duration_traditional = "정확히 25,920년 (점성술 전통의 산정, 360° × 72년/°)"
+component_units = "1 대년 = 12 대월 (각 ~2,160년) = 360 대일 (각 ~72년) = 황도의 완전한 360° 순환"
+plato_source = "《티마이오스》 39d — *teleios eniautos* (\"완전년\") 개념"
+historical_milestones = "플라톤(기원전 약 360년 — 원초적 *완전년* 개념, 아직 세차와 동일시되지 않음); 히파르코스(기원전 약 129년 — 세차 발견); 키케로(기원전 약 45년 — 라틴 *Magnus Annus* 전통); 켄소리누스(서기 약 238년 — 변형된 고대 계산의 보존); 프톨레마이오스(서기 약 150년 — 36,000년 수치); 르네상스 전통(세차 주기와의 동일시); 19–20세기의 신지학적·비전적(秘傳的) 사상에서의 부활; 산티야나와 폰 데헨트의 《햄릿의 맷돌》(1969) — 문화 간 보존에 대한 학술적 작업"
+cross_cultural_correspondences = "힌두의 *Kalpa* / *Mahakalpa* (대년 규모에 사상될 수 있는 하위 구조를 가진 훨씬 더 긴 주기들); 스토아의 *ekpyrosis* (순환적 우주론적 파괴-갱신); 헤시오도스의 황금/은/청동/철의 시대 (더 넓은 순환적 우주론 전통); 메소아메리카 장기 계산 대주기 (5,125년, 대년의 약 5분의 1); 문화권 전반에 걸친 더 넓은 순환적 우주론 전통"
+framework_significance = "코퍼스의 기초적 연대 프레임워크; 프레임워크의 독해에서 지구상 엘로힘 프로젝트의 대략적 지속 기간; 코퍼스 전반에 걸쳐 사용되는 열두 대월 동정이 조직되는 마스터 주기"
 key_external_reference = "Santillana, Giorgio de, and Hertha von Dechend. *Hamlet's Mill: An Essay on Myth and the Frame of Time*. Gambit, 1969."
 +++
 
-The **Great Year** is the period of one complete cycle of **axial precession** — the duration required for the Earth's rotational axis to trace out one full cone against the background of fixed stars, equivalent to one complete circuit of the vernal equinox point around the ecliptic. The Great Year is the foundational unit of long-period chronology on which the broader Wheel of Heaven temporal framework depends, and is the master cycle of which the corpus's twelve [Great Month](../great-month/) identifications (Age of Virgo through Age of Aquarius) are the twelfths.
+**대년**은 **자전축 세차** 운동의 한 완전한 주기 — 지구 자전축이 고정된 별들의 배경을 향해 하나의 완전한 원뿔을 그리는 데 필요한 기간, 또는 봄 분점이 황도를 따라 한 바퀴를 도는 데 필요한 기간 — 이다. 대년은 더 넓은 {% wiki(slug="wheel-of-heaven") %}Wheel of Heaven{% end %} 시간 프레임워크가 의존하는 장주기 연대의 기초 단위이며, 코퍼스의 열두 [대월](../great-month/) 동정(처녀자리 시대부터 물병자리 시대까지)이 그 12분의 1이 되는 마스터 주기이다.
 
-On the modern astronomical measurement, the Great Year is approximately **25,772 years** in duration, based on the contemporary precessional rate of approximately 50.29 arcseconds per year. On the **astrological-tradition reckoning**, the Great Year is exactly **25,920 years** — derived from the ancient observation of approximately one degree of westward shift of the equinoxes per 72 years, multiplied by the 360 degrees of the full ecliptic:
-
-$$
-\begin{equation*}
-360° \cdot 72 \tfrac{\text{years}}{°} = 25{,}920 \text{ years}
-\end{equation*}
-$$
-
-The traditional 25,920-year figure has substantial mathematical convenience that accounts for its prominence in pre-modern cosmological tradition: it factors as 2⁶ × 3⁴ × 5 = 64 × 405 = 60 × 432 = 360 × 72, with divisibility properties that allow clean subdivision into Great Months (2,160 years each, 12 per Great Year), Great Days (72 years each, 360 per Great Year), and other meaningful units. The difference between the modern astronomical and traditional reckonings (approximately 148 years across the full cycle) is small enough that the corpus uses both interchangeably depending on context, with the traditional figure favoured for its mathematical convenience and the modern figure used when contemporary astronomical precision is required.
-
-The Great Year is also known as the **Platonic Year** (after Plato's *Timaeus* 39d, which introduces the concept of the *teleios eniautos* or "Perfect Year"), the **Magnus Annus** (the Latin translation that became standard in the medieval and Renaissance tradition), or simply the **Precessional Year** or **Cosmic Year**. The concept has substantive history in Western philosophical and astronomical thought reaching back to Plato's *Timaeus* (c. 360 BCE) — though the explicit identification of Plato's Great Year with the precessional cycle is a post-Hipparchian development (after the discovery of precession around 129 BCE), since Plato himself, predating Hipparchus by approximately 230 years, could not have known the precessional phenomenon.
-
-The Wheel of Heaven framework reads the Great Year as foundational chronological infrastructure for the entire corpus. Approximately one complete Great Year corresponds, on the framework's reading, to the duration of the Elohim project on Earth — from the human synthesis approximately 25,000 years ago through the contemporary recovery and recognition period. The framework's broader interpretive work develops the Great Year as the master temporal framework within which the twelve Great Month identifications, the principal events of the prophetic record, and the broader cross-cultural mythological preservation of cosmic-cycle content are organized. The framework's reading of cross-cultural preservation of Great Year-scale concepts (the Hindu *Kalpa* and *Mahakalpa*, the Stoic *ekpyrosis*, the Platonic *Magnus Annus*, the broader cyclic-cosmology tradition analyzed by Santillana and von Dechend in *Hamlet's Mill*) is treated as substantial evidence for the pre-Hipparchian transmission of the precessional cosmic-cycle concept through the symbolic-mythological vocabulary the corpus engages.
-
-The astronomical phenomenon of precession itself is treated more fully in the dedicated [Precession](../precession/) entry; the twelfth-of-Great-Year unit (the Great Month or Astrological Age) is treated in the dedicated [Great Month](../great-month/) entry; the broader cross-cultural doctrine of cosmic ages is treated in the dedicated [World Age](../world-age/) entry. The present entry focuses specifically on the Great Year as the full precessional cycle, its historical conceptualisation, its cross-cultural preservation, and the framework's specific reading of its operational significance.
-
-## The mathematical and structural framework
-
-The Great Year is defined by reference to the astronomical phenomenon of precession (treated in the dedicated [Precession](../precession/) entry) and admits structured subdivision into smaller chronological units.
-
-### The 72-years-per-degree observation
-
-The foundational empirical observation underlying the traditional 25,920-year Great Year is that the equinoxes shift westward along the ecliptic at approximately **one degree per 72 years**. This rate is close to the modern astronomical value of approximately 71.59 years per degree (derived from the contemporary precessional rate of 50.29 arcseconds per year: 3,600 arcseconds per degree ÷ 50.29 arcseconds per year ≈ 71.59 years per degree). The traditional figure of 72 years per degree gives:
+현대 천문학적 측정에 따르면 대년의 지속 기간은 약 **25,772년**이며, 이는 약 50.29초각/년이라는 현대의 세차 비율에 근거한다. **점성술 전통의 산정**에 따르면 대년은 정확히 **25,920년**으로, 분점이 황도를 따라 72년마다 약 1도씩 서쪽으로 이동한다는 고대 관측에 황도의 360도를 곱한 것에서 도출된다:
 
 $$
 \begin{equation*}
-360° \cdot 72 \tfrac{\text{years}}{°} = 25{,}920 \text{ years}
+360° \cdot 72 \tfrac{\text{년}}{°} = 25{,}920 \text{ 년}
 \end{equation*}
 $$
 
-The 72-year unit corresponds to one degree of precessional motion across the ecliptic. To put this in practical perspective, one degree of arc against the celestial sphere is approximately the width of a human thumb at arm's length — a useful field measurement that connects the cosmic-scale precessional motion to a directly observable human-scale reference. The 72-year period also corresponds approximately to the standard human lifespan (developed at greater length in the [Great Month](../great-month/) entry's treatment of the Great Day), producing the substantive structural correspondence: **one human lifetime ≈ one degree of precession ≈ one Great Day**.
+전통적 25,920년 수치는 전근대 우주론 전통에서의 그 두드러짐을 설명해 주는 실질적 수학적 편의성을 갖는다. 이 수치는 2⁶ × 3⁴ × 5 = 64 × 405 = 60 × 432 = 360 × 72로 인수분해되며, 대월(각 2,160년, 대년당 12개), 대일(각 72년, 대년당 360개), 그리고 다른 의미 있는 단위들로 깔끔하게 세분할 수 있는 가분성을 가진다.{{ footnote(id="2") }} 현대 천문학적 산정과 전통적 산정의 차이(전체 주기에 걸쳐 약 148년)는 충분히 작아서 코퍼스는 맥락에 따라 둘을 교차적으로 사용하며, 수학적 편의성을 위해서는 전통적 수치를, 현대의 천문학적 정밀성이 요구될 때에는 현대 수치를 선호한다.
 
-### The subdivisions of the Great Year
+대년은 또한 **플라톤년**(플라톤의 《티마이오스》 39d 이후로 알려졌으며, 거기서 *teleios eniautos* 또는 "완전년" 개념이 도입된다), **Magnus Annus**(중세 및 르네상스 전통에서 표준이 된 라틴어 번역), 또는 단순히 **세차년**이나 **우주년**으로도 알려져 있다. 이 개념은 플라톤의 《티마이오스》(기원전 약 360년)까지 거슬러 올라가는 서양 철학적·천문학적 사상에서의 실질적 역사를 갖는다 — 다만 플라톤의 대년을 세차 주기와 명시적으로 동일시하는 것은 히파르코스 이후(기원전 약 129년 세차 발견 이후)의 전개이다. 플라톤 자신은 히파르코스보다 약 230년 앞서 있어 세차 현상을 알 수 없었기 때문이다.
 
-The full Great Year of 25,920 years admits structured subdivision into smaller chronological units that mirror the structure of the ordinary year:
+Wheel of Heaven 프레임워크는 대년을 코퍼스 전체의 기초적 연대 기반시설로 읽는다. 한 번의 완전한 대년은 프레임워크의 독해에서 지구상 엘로힘 프로젝트의 지속 기간 — 약 25,000년 전의 인류 합성으로부터 현재의 회복 및 인식 시기에 이르기까지 — 에 대략적으로 상응한다. 프레임워크의 더 넓은 해석 작업은 대년을 마스터 시간 프레임워크로 발전시키며, 그 안에서 열두 대월 동정, 예언적 기록의 주요 사건들, 그리고 우주 주기 내용에 대한 더 넓은 문화 간 신화적 보존이 조직된다. 대년 규모 개념들의 문화 간 보존(힌두의 *Kalpa*와 *Mahakalpa*, 스토아의 *ekpyrosis*, 플라톤적 *Magnus Annus*, 그리고 산티야나와 폰 데헨트가 《햄릿의 맷돌》에서 분석한 더 넓은 순환적 우주론 전통)에 대한 프레임워크의 독해는{{ cite(id="hamlets-mill", text="[1]", title="Santillana & von Dechend, *Hamlet's Mill: An Essay on Myth and the Frame of Time* (1969) — 세차 내용의 문화 간 보존에 대한 기초적 학술 작업") }} 코퍼스가 다루는 상징적·신화적 어휘를 통한 세차 우주 주기 개념의 히파르코스 이전 전수에 대한 실질적 증거로 다루어진다.
 
-- **The Great Month** (one-twelfth of the Great Year, ~2,160 years) — corresponding to one zodiacal sign (30° of ecliptic precession); developed at length in the [Great Month](../great-month/) entry
-- **The Great Day** (one-three-hundred-and-sixtieth of the Great Year, ~72 years) — corresponding to one degree of ecliptic precession; approximately one human lifespan
-- **The Great Hour** (one-eight-thousand-six-hundred-and-fortieth of the Great Year, ~3 years) — corresponding to ~2.5 arcminutes of ecliptic precession; less commonly used but available in the corpus's broader chronological framework
-- **The Great Minute** (~0.05 years or ~18 days) — rarely used; the unit becomes too small for practical chronological reference
+세차의 천문학적 현상 자체는 별도의 [세차](../precession/) 항목에서 더 충분히 다루어지며, 대년의 12분의 1 단위(대월 또는 점성술적 시대)는 별도의 [대월](../great-month/) 항목에서, 우주 시대들에 관한 더 넓은 문화 간 교리는 별도의 [세계 시대](../world-age/) 항목에서 다루어진다. 현재의 항목은 완전한 세차 주기로서의 대년, 그 역사적 개념화, 그 문화 간 보존, 그리고 그것의 작동적 의의에 대한 프레임워크의 구체적 독해에 특별히 초점을 맞춘다.
 
-The structural proportions mirror the ordinary year (12 months of approximately 30 days, with each day of approximately 24 hours). This proportional similarity is not coincidental — the ancient cosmological systems that developed the Great Year framework deliberately structured the long-period cycle to mirror the familiar short-period cycle, producing the mnemonically useful "as above, so below" correspondence between cosmic and terrestrial timescales.
+## 수학적·구조적 프레임워크
 
-### The empirical question
+대년은 세차 운동의 천문학적 현상(별도의 [세차](../precession/) 항목에서 다루어짐)을 참조하여 정의되며, 더 작은 연대 단위들로의 구조화된 세분을 허용한다.
 
-The 72-years-per-degree figure is reasonably close to the actual modern astronomical rate but somewhat fast (the actual rate gives 71.59 years per degree, producing a slightly shorter Great Year of approximately 25,772 years rather than 25,920). The traditional figure is preferred in the framework's broader work because:
+### 1도당 72년 관측
 
-- The convenient mathematical factorisation (2⁶ × 3⁴ × 5) allows clean subdivision into meaningful units
-- The cross-cultural preservation of the 25,920 figure across multiple pre-modern cosmological systems suggests substantive transmission of the specific value
-- The ±150-year difference between the traditional and modern figures is small enough that practical chronological work is largely unaffected by the choice
+전통적 25,920년 대년의 기초가 되는 기본 경험적 관측은 분점이 황도를 따라 **72년마다 약 1도씩** 서쪽으로 이동한다는 것이다. 이 비율은 현대 천문학적 값인 약 1도당 71.59년에 근접한다(현대의 세차 비율 50.29초각/년에서 도출됨: 1도당 3,600초각 ÷ 연 50.29초각 ≈ 1도당 71.59년). 1도당 72년의 전통적 수치는 다음을 산출한다:
 
-The framework treats the choice between the two reckonings as one of the principal open methodological questions, with the corpus's broader work continuing to use both depending on context. The detailed treatment is in the [Precession](../precession/) and [Great Month](../great-month/) entries.
+$$
+\begin{equation*}
+360° \cdot 72 \tfrac{\text{년}}{°} = 25{,}920 \text{ 년}
+\end{equation*}
+$$
 
-## The Platonic Year / Magnus Annus tradition
+72년 단위는 황도를 가로지르는 세차 운동의 1도에 해당한다. 이를 실용적 관점에서 보면, 천구를 가로지르는 1도의 호는 팔을 뻗었을 때 인간 엄지손가락의 폭에 거의 해당한다 — 우주 규모의 세차 운동을 직접 관측 가능한 인간 규모의 기준점에 연결시키는 유용한 야장(野帳) 측정이다. 72년 기간은 또한 표준 인간 수명에 대략적으로 해당하며([대월](../great-month/) 항목의 대일 처리에서 더 상세히 발전됨), 다음과 같은 실질적 구조적 대응을 산출한다: **하나의 인간 일생 ≈ 1도의 세차 ≈ 1 대일**.
 
-The Greek philosophical tradition includes substantial engagement with the concept of a cosmic Great Year predating Hipparchus's discovery of precession by approximately two centuries. The Platonic-tradition Magnus Annus is the principal pre-precessional intellectual antecedent of the framework's Great Year concept.
+### 대년의 세분
 
-### Plato's Perfect Year
+25,920년의 전체 대년은 보통 1년의 구조를 반영하는 더 작은 연대 단위들로의 구조화된 세분을 허용한다:
 
-The foundational source for the Western philosophical Great Year tradition is **Plato**'s *Timaeus* (c. 360 BCE), specifically Timaeus 39d, which introduces the concept of the **Perfect Year** (Greek *teleios eniautos*; Latin *Annus Perfectus* or *Magnus Annus*):
+- **대월**(대년의 12분의 1, ~2,160년) — 하나의 황도 십이궁 별자리(황도의 30° 세차)에 해당; [대월](../great-month/) 항목에서 상세히 발전됨
+- **대일**(대년의 360분의 1, ~72년) — 황도의 1° 세차에 해당; 약 1 인간 수명
+- **대시**(대년의 8,640분의 1, ~3년) — 황도의 ~2.5 분각 세차에 해당; 덜 흔히 사용되지만 코퍼스의 더 넓은 연대 프레임워크에서 사용 가능
+- **대분**(~0.05년 또는 ~18일) — 거의 사용되지 않음; 단위가 실용적 연대 참조로 사용되기에 너무 작아진다
 
-> ...the perfect number of time brings to completion the perfect year at that moment when the relative speeds of all eight periods have been completed together and, measured by the circle of the Same that moves uniformly, have achieved their consummation.
+구조적 비례는 보통 1년(약 30일의 12개월, 각각 약 24시간으로 구성)을 반영한다. 이러한 비례적 유사성은 우연이 아니다 — 대년 프레임워크를 발전시킨 고대 우주론 체계들은 장주기 순환을 친숙한 단주기 순환을 반영하도록 의도적으로 구조화하여, 우주적 시간 척도와 지상의 시간 척도 사이에 기억에 도움이 되는 "위에서와 같이 아래에서도"라는 대응을 산출하였다.
+
+### 경험적 문제
+
+1도당 72년 수치는 실제 현대 천문학적 비율에 합리적으로 근접하지만 다소 빠르다(실제 비율은 1도당 71.59년을 산출하며, 이는 25,920년이 아니라 약 25,772년이라는 약간 짧은 대년을 산출한다). 전통적 수치가 프레임워크의 더 넓은 작업에서 선호되는 이유는 다음과 같다:
+
+- 편리한 수학적 인수분해(2⁶ × 3⁴ × 5)는 의미 있는 단위로의 깔끔한 세분을 허용한다
+- 여러 전근대 우주론 체계에 걸친 25,920 수치의 문화 간 보존은 그 구체적 값의 실질적 전수를 시사한다
+- 전통적 수치와 현대 수치 사이의 ±150년 차이는 충분히 작아서 실용적 연대 작업은 그 선택에 의해 거의 영향받지 않는다
+
+프레임워크는 두 산정 사이의 선택을 주요 미해결 방법론적 문제 중 하나로 다루며, 코퍼스의 더 넓은 작업은 맥락에 따라 둘 다 계속 사용한다. 상세한 처리는 [세차](../precession/) 및 [대월](../great-month/) 항목에 있다.
+
+## 플라톤년 / Magnus Annus 전통
+
+그리스 철학 전통은 히파르코스의 세차 발견보다 약 두 세기 앞서 우주적 대년 개념에 대한 실질적 참여를 포함한다. 플라톤 전통의 Magnus Annus는 프레임워크의 대년 개념의 주요 세차 이전 지적 선례이다.
+
+### 플라톤의 완전년
+
+서양 철학적 대년 전통의 기초 자료는 **플라톤**의 《티마이오스》(기원전 약 360년), 구체적으로 **완전년**(그리스어 *teleios eniautos*; 라틴어 *Annus Perfectus* 또는 *Magnus Annus*) 개념을 도입하는 티마이오스 39d이다:
+
+> ... 시간의 완전한 수는 모든 여덟 주기의 상대적 속도가 함께 완성되고, 균일하게 운동하는 동일자의 원에 의해 측정되어, 그 정점에 도달하는 그 순간에 완전년을 성취한다.
 >
-> — Plato, *Timaeus* 39d (translation Cornford)
+> — 플라톤, 《티마이오스》 39d (콘퍼드 번역)
 
-Plato's Perfect Year is defined as the period required for **all the celestial bodies** (the Sun, Moon, and the five visible planets — Mercury, Venus, Mars, Jupiter, Saturn) to return simultaneously to their initial configurations. This is a planetary-conjunction cycle rather than a precessional cycle; Plato himself did not know of precession (it was not discovered until Hipparchus c. 129 BCE) and did not specify the duration of the Perfect Year in the *Timaeus*. The concept was substantive in Plato's broader cosmology because the *Timaeus* treats time itself as the structured motion of the celestial bodies, with the Perfect Year as the master period that organizes all the shorter cycles.
+플라톤의 완전년은 **모든 천체들**(태양, 달, 그리고 다섯 가시 행성들 — 수성, 금성, 화성, 목성, 토성)이 동시에 최초의 배치로 복귀하는 데 필요한 기간으로 정의된다. 이것은 세차 주기라기보다는 행성 합의 주기이다. 플라톤 자신은 세차에 대해 알지 못했고(그것은 기원전 약 129년 히파르코스에 이르러서야 발견되었다) 《티마이오스》에서 완전년의 지속 기간을 명시하지 않았다.{{ footnote(id="1") }} 이 개념은 플라톤의 더 넓은 우주론에서 실질적이었는데, 《티마이오스》는 시간 자체를 천체들의 구조화된 운동으로 다루며, 모든 더 짧은 주기들을 조직하는 마스터 주기로서의 완전년을 다루기 때문이다.
 
-The framework's reading of Plato's Perfect Year is that the concept preserves substantive content about a long-period cosmic cycle — content that was subsequently identified with the precessional Great Year once that phenomenon was discovered. The post-Hipparchian conflation of Plato's planetary-conjunction Perfect Year with the precessional cycle was, on the framework's reading, substantively *correct* in the sense that the underlying intuition (a long cosmic cycle structuring history into ages) was applied to the actual long-period phenomenon (precession) once that phenomenon was identified.
+플라톤의 완전년에 대한 프레임워크의 독해는 이 개념이 장주기 우주 주기에 관한 실질적 내용을 보존한다는 것 — 그 현상이 발견된 이후에 세차 대년과 동일시된 내용 — 이다. 플라톤의 행성 합 완전년을 세차 주기와 히파르코스 이후에 융합한 것은, 프레임워크의 독해에서 실질적으로 *옳았다*. 그 의미는 기저의 직관(역사를 시대들로 구조화하는 긴 우주 주기)이 실제 장주기 현상(세차)에 적용되었다는 것이다. 그 현상이 동정되자마자 말이다.
 
-### The post-Platonic development
+### 플라톤 이후의 전개
 
-The post-Platonic Greek philosophical tradition developed the Perfect Year concept across multiple schools:
+플라톤 이후의 그리스 철학 전통은 여러 학파에 걸쳐 완전년 개념을 발전시켰다:
 
-- **Heraclitus** (c. 540–480 BCE, actually pre-Plato) was given a Great Year of **10,800 years** by **Censorinus** (3rd century CE, *De Die Natali*). The 10,800-year figure may relate to the Heraclitean cyclic cosmology of the *ekpyrosis* (cosmic conflagration) tradition that the Stoics subsequently developed.
-- **Aristarchus of Samos** (c. 310–230 BCE), the Greek astronomer famous for proposing the heliocentric solar system substantially before Copernicus, was given a Great Year of **2,484 years** by Censorinus.
-- The **Stoic** philosophical tradition (particularly Chrysippus) developed the *ekpyrosis* doctrine: the cosmos undergoes periodic destruction by fire and renewal, with each cycle producing a recurrence of all previous events. The Stoic cosmic cycle was identified with the Great Year, though the specific duration was variously given.
-- **Diogenes of Babylonia** (c. 230–150 BCE, the Stoic philosopher) was given a Great Year of "360 times Heraclitus's Great Year" by Aetios, producing 360 × 18,000 = **6,480,000 years** (with Aetios giving Heraclitus's figure as 18,000 rather than the 10,800 from Censorinus — the variant ancient figures themselves are not consistent across sources).
-- **Cicero** in *De Natura Deorum* (c. 45 BCE) and *Hortensius* (now lost) substantially developed the Latin Magnus Annus tradition, following Plato in defining the Great Year as the cycle of planetary conjunction return.
+- **헤라클레이토스**(기원전 약 540–480년, 실제로는 플라톤 이전)에게는 **켄소리누스**(서기 3세기, 《De Die Natali》)에 의해 **10,800년**의 대년이 부여되었다. 10,800년 수치는 스토아 학파가 후에 발전시킨 *ekpyrosis*(우주적 대화재) 전통의 헤라클레이토스적 순환 우주론과 관련될 수 있다.
+- 코페르니쿠스보다 실질적으로 앞서 태양 중심 태양계를 제안한 것으로 유명한 그리스 천문학자 **사모스의 아리스타르코스**(기원전 약 310–230년)에게는 켄소리누스에 의해 **2,484년**의 대년이 부여되었다.
+- **스토아** 철학 전통(특히 크리시포스)은 *ekpyrosis* 교리를 발전시켰다: 우주는 주기적으로 불에 의해 파괴되고 갱신되며, 각 주기는 모든 이전 사건들의 재발을 산출한다. 스토아의 우주 주기는 대년과 동일시되었지만, 그 구체적 지속 기간은 다양하게 주어졌다.
+- **바빌로니아의 디오게네스**(기원전 약 230–150년, 스토아 철학자)에게는 아에티오스에 의해 "헤라클레이토스의 대년의 360배"라는 대년이 부여되었으며, 이는 360 × 18,000 = **6,480,000년**을 산출한다(아에티오스는 헤라클레이토스의 수치를 켄소리누스의 10,800년이 아닌 18,000년으로 제시한다 — 변형된 고대 수치들 자체가 자료들 전반에서 일관되지 않다).
+- 《De Natura Deorum》(기원전 약 45년)과 《호르텐시우스》(현재 소실됨)에서 **키케로**는 라틴 Magnus Annus 전통을 실질적으로 발전시켰으며, 플라톤을 따라 대년을 행성 합 복귀의 주기로 정의하였다.
 
-### The post-Hipparchian conflation with precession
+### 세차와의 히파르코스 이후 융합
 
-After Hipparchus's discovery of precession around 129 BCE, the Greek and subsequent traditions began to identify the Platonic Perfect Year with the precessional cycle. The principal figures:
+기원전 약 129년 히파르코스의 세차 발견 이후, 그리스 및 후속 전통들은 플라톤의 완전년을 세차 주기와 동일시하기 시작했다. 주요 인물들:
 
-- **Hipparchus** himself measured precession at approximately 1°/century (36 arcseconds/year), which would give a Great Year of approximately 36,000 years (close to but slower than the actual rate)
-- **Claudius Ptolemy** (c. 100–170 CE) in the *Almagest* used Hipparchus's precessional rate of 1°/century, giving a Great Year of **36,000 years**. The Ptolemaic figure became the dominant Western reckoning through the medieval period and into the Renaissance — though it is substantially too long, the actual rate being approximately 50 arcseconds/year giving the modern 25,772-year figure. Ptolemy's overestimate has been the subject of substantial subsequent scholarly debate (some authors arguing that Ptolemy adjusted the value to align with theological-cosmological commitments rather than astronomical observation).
-- The **Renaissance tradition** substantially adopted the post-Hipparchian identification of Plato's Magnus Annus with the precessional cycle, with the figure of 25,920 years (derived from the 72-years-per-degree rate) gradually supplanting Ptolemy's 36,000-year figure as the standard.
-- The **19th-century theosophical and esoteric traditions** (particularly H. P. Blavatsky's *The Secret Doctrine*, 1888) substantially revived and developed the Magnus Annus tradition, often combining it with Hindu *yuga* arithmetic and other cross-cultural cosmic-cycle traditions. The theosophical revival had substantial influence on the 20th-century esoteric and "New Age" engagement with the Age of Aquarius and broader Great Year content.
+- **히파르코스** 자신은 세차를 약 100년당 1°(36초각/년)로 측정했는데, 이는 약 36,000년의 대년을 산출한다(실제 비율에 근접하지만 그보다 느림).
+- 《알마게스트》의 **클라우디우스 프톨레마이오스**(서기 약 100–170년)는 100년당 1°라는 히파르코스의 세차 비율을 사용하여 **36,000년**의 대년을 산출하였다. 프톨레마이오스 수치는 중세 시기를 거쳐 르네상스에 이르기까지 지배적인 서양 산정이 되었다 — 비록 그것이 실질적으로 너무 길지만, 실제 비율은 약 50초각/년으로 현대의 25,772년 수치를 산출한다. 프톨레마이오스의 과대평가는 이후 실질적인 학술적 논쟁의 주제가 되었다(어떤 저자들은 프톨레마이오스가 천문학적 관측이 아니라 신학적·우주론적 약속과 일치시키기 위해 값을 조정했다고 주장한다).
+- **르네상스 전통**은 플라톤의 Magnus Annus를 세차 주기와 동일시하는 히파르코스 이후의 동일시를 실질적으로 채택하였으며, 1도당 72년의 비율에서 도출된 25,920년 수치가 점진적으로 프톨레마이오스의 36,000년 수치를 표준으로 대체하였다.
+- **19세기의 신지학적·비전적(秘傳的) 전통들**(특히 H. P. 블라바츠키의 《비밀 교의》, 1888)은 Magnus Annus 전통을 실질적으로 부활시키고 발전시켰으며, 종종 그것을 힌두의 *yuga* 산술 및 다른 문화 간 우주 주기 전통들과 결합시켰다. 신지학적 부활은 물병자리 시대와 더 넓은 대년 내용에 대한 20세기의 비전적·"뉴에이지" 참여에 실질적 영향을 미쳤다.
 
-The framework's adopted reading: the Platonic-tradition Magnus Annus and the post-Hipparchian precessional Great Year are substantively continuous, despite the original conceptual difference between planetary-conjunction and precessional cycles. The cross-cultural intuition of a long cosmic cycle structuring time was preserved in the Platonic tradition; the post-Hipparchian identification with precession completed the conceptual content that the framework reads as preserving substantive astronomical knowledge.
+프레임워크의 채택된 독해: 플라톤 전통의 Magnus Annus와 히파르코스 이후의 세차 대년은, 행성 합 주기와 세차 주기 사이의 원초적 개념적 차이에도 불구하고, 실질적으로 연속적이다. 시간을 구조화하는 긴 우주 주기에 대한 문화 간 직관은 플라톤 전통에서 보존되었으며, 세차와의 히파르코스 이후의 동일시는 프레임워크가 실질적인 천문학적 지식을 보존하는 것으로 읽는 개념적 내용을 완성하였다.
 
-## Cross-cultural preservation of Great Year-scale cycles
+## 대년 규모 주기의 문화 간 보존
 
-The Great Year concept — a master cosmic cycle of approximately 25,000-26,000 years (or longer cycles with the Great Year as a structural substructure) — appears with substantial frequency across pre-modern cosmological systems. The cross-cultural pattern is one of the principal substantive supports for the framework's broader reading of pre-Hipparchian transmission of precessional content.
+대년 개념 — 약 25,000–26,000년의 마스터 우주 주기(또는 대년이 구조적 하위 구조가 되는 더 긴 주기들) — 은 전근대 우주론 체계들 전반에 걸쳐 실질적인 빈도로 나타난다. 문화 간 양상은 세차 내용의 히파르코스 이전 전수에 대한 프레임워크의 더 넓은 독해를 위한 주요 실질적 지지들 중 하나이다.
 
-### The Hindu *kalpa* and *mahakalpa* tradition
+### 힌두의 *kalpa*와 *mahakalpa* 전통
 
-The Hindu cosmological tradition includes cycles of substantially longer duration than the Great Year, with structural relationships that the framework reads as connecting to the Great Year scale:
+힌두 우주론 전통은 대년보다 실질적으로 더 긴 지속 기간의 주기들을 포함하며, 프레임워크가 대년 규모와 연결되는 것으로 읽는 구조적 관계들을 갖는다:
 
-- The **mahayuga** (composed of the four yugas: Satya, Treta, Dvapara, Kali) totals **4,320,000 years** — approximately **167 Great Years** (4,320,000 / 25,920 ≈ 166.67)
-- The **manvantara** (composed of 71 mahayugas plus transitional periods) totals approximately **306,720,000 years**
-- The **kalpa** (composed of 14 manvantaras plus transitional periods) totals **4,320,000,000 years** — the "day of Brahma," equivalent to approximately **166,667 Great Years**
-- The **mahakalpa** (day plus night of Brahma) totals **8,640,000,000 years**
+- **mahayuga**(네 유가로 구성됨: 사티야, 트레타, 드바파라, 칼리)는 총 **4,320,000년** — 약 **167 대년**에 해당(4,320,000 / 25,920 ≈ 166.67)
+- **manvantara**(71 mahayuga에 전이기를 더해 구성됨)는 총 약 **306,720,000년**
+- **kalpa**(14 manvantara에 전이기를 더해 구성됨)는 총 **4,320,000,000년** — "브라마의 하루"로, 약 **166,667 대년**에 해당
+- **mahakalpa**(브라마의 낮에 밤을 더한 것)는 총 **8,640,000,000년**
 
-The substantial numerical correspondences between the Hindu yuga arithmetic and the precessional Great Year — particularly the 432-related numbers (432,000, 4,320,000, 4,320,000,000) and their relationships to 25,920 — are developed at greater length in the [Great Month](../great-month/) entry. The framework reads the Hindu cosmological tradition as preserving substantive precessional content within its broader cyclic-cosmological framework, even though the Puranic sources themselves do not explicitly identify the connection to precession.
+힌두 유가 산술과 세차 대년 사이의 실질적 수치 대응 — 특히 432 관련 숫자들(432,000; 4,320,000; 4,320,000,000)과 25,920에 대한 그 관계들 — 은 [대월](../great-month/) 항목에서 더 상세히 발전된다. 프레임워크는 푸라나 자료들 자체가 세차와의 연결을 명시적으로 동정하지 않더라도, 힌두 우주론 전통이 더 넓은 순환적 우주론 프레임워크 안에서 실질적인 세차 내용을 보존하는 것으로 읽는다.{{ footnote(id="4") }}
 
-A separate but related tradition associated with **Sri Yukteshwar** (1855–1936) in his *The Holy Science* (1894) proposes a 24,000-year *yuga* cycle (substantially shorter than the standard Puranic figure) explicitly correlated with the precessional cycle. The Yukteshwar tradition treats the standard 4.32-million-year yuga figures as misinterpretations of an underlying 24,000-year cycle. The corpus's adopted position is open on whether the Yukteshwar reading preserves substantive earlier content or is a 19th-century reinterpretation, but the substantive correspondence between 24,000 years and the actual Great Year is striking.
+별도지만 관련된 전통은 **스리 유크테스와르**(1855–1936)와 연관되는 그의 《거룩한 과학》(1894)에 있으며, 그는 표준 푸라나 수치보다 실질적으로 더 짧은 24,000년의 *유가* 주기를 세차 주기와 명시적으로 상관관계 짓는다. 유크테스와르 전통은 표준 4.32-백만-년 유가 수치들을 기저의 24,000년 주기에 대한 오해로 다룬다. 코퍼스의 채택된 입장은 유크테스와르의 독해가 실질적인 더 이른 시기의 내용을 보존하는지 아니면 19세기의 재해석인지에 대해 열려 있지만, 24,000년과 실제 대년 사이의 실질적 대응은 인상적이다.
 
-### The Stoic *ekpyrosis* and eternal recurrence
+### 스토아의 *ekpyrosis*와 영원회귀
 
-The Stoic philosophical tradition's doctrine of the *ekpyrosis* — the periodic cosmic conflagration that destroys and renews the cosmos — corresponds substantively to a Great Year-scale cosmic cycle. The Stoic *ekpyrosis* doctrine includes substantive engagement with the question of **eternal recurrence**: each cycle of the cosmos reproduces all previous events identically, so that human history repeats itself across cosmic cycles. The Stoic doctrine was substantially developed by Chrysippus (c. 280–207 BCE) and subsequently by Roman Stoics including Cicero (in his lost *Hortensius*) and Marcus Aurelius. The doctrine influenced subsequent Western philosophical engagement with cyclic time, most notably **Friedrich Nietzsche**'s 19th-century revival of eternal recurrence (*Die Wiederkunft des Gleichen*, 1881–1888).
+스토아 철학 전통의 *ekpyrosis* 교리 — 우주를 파괴하고 갱신하는 주기적 우주 대화재 — 는 대년 규모의 우주 주기에 실질적으로 상응한다. 스토아의 *ekpyrosis* 교리는 **영원회귀** 문제에 대한 실질적 참여를 포함한다: 우주의 각 주기는 모든 이전 사건들을 동일하게 재생산하여, 인간의 역사가 우주 주기들에 걸쳐 자신을 반복한다. 스토아 교리는 크리시포스(기원전 약 280–207년)에 의해, 그리고 이후 키케로(소실된 《호르텐시우스》에서)와 마르쿠스 아우렐리우스를 포함한 로마 스토아주의자들에 의해 실질적으로 발전되었다. 그 교리는 순환적 시간에 대한 후속의 서양 철학적 참여, 가장 두드러지게는 **프리드리히 니체**의 19세기 영원회귀 부활(《Die Wiederkunft des Gleichen》, 1881–1888)에 영향을 미쳤다.
 
-The framework's reading of the Stoic *ekpyrosis* connects to the broader corpus engagement with cyclic-cosmological time (treated in the [World Age](../world-age/) entry).
+스토아의 *ekpyrosis*에 대한 프레임워크의 독해는 순환적 우주론적 시간에 대한 더 넓은 코퍼스 참여([세계 시대](../world-age/) 항목에서 다루어짐)와 연결된다.
 
-### The Hesiodic Ages tradition
+### 헤시오도스의 시대 전통
 
-The Greek poet **Hesiod** in his *Works and Days* (c. 700 BCE) developed the doctrine of the **Four (or Five) Ages of Man**: the Golden Age, Silver Age, Bronze Age, Heroic Age (sometimes included as a fifth interpolation), and Iron Age (the current age). The Hesiodic tradition treats the Ages as a sequence of declining quality, with the current Iron Age representing the most degraded condition of humanity. The doctrine corresponds substantively to the Hindu yuga tradition (which also features a four-fold sequence of declining ages) and to the broader cross-cultural "ages of decline" pattern.
+그리스 시인 **헤시오도스**는 《일과 날》(기원전 약 700년)에서{{ cite(id="theogony-and-works-and-days", text="[2]", title="Hesiod, *Works and Days* — 그리스 네 시대 / 다섯 시대 전통(황금, 은, 청동, 영웅, 철)") }} **인간의 네 (또는 다섯) 시대** 교리를 발전시켰다: {% wiki(slug="golden-age") %}황금 시대{% end %}, 은 시대, 청동 시대, 영웅 시대(때때로 다섯 번째 삽입으로 포함됨), 그리고 철 시대(현재 시대). 헤시오도스 전통은 시대들을 쇠퇴하는 질의 계열로 다루며, 현재의 철 시대가 인류의 가장 타락한 조건을 나타낸다. 그 교리는 힌두 유가 전통(역시 쇠퇴하는 시대들의 네 가지 계열을 특징으로 하는)과 더 넓은 문화 간 "쇠퇴의 시대" 양상에 실질적으로 상응한다.
 
-The Hesiodic Ages are not explicitly precessional — Hesiod predates Hipparchus by approximately five centuries and could not have known the precessional cycle — but the framework reads the Hesiodic tradition as preserving content related to the broader cosmic-cycle pattern that the precessional Great Year articulates. The structural correspondence between the four Hesiodic Ages and four-fold subdivisions of the Great Year (each Age corresponding to three Great Months, or 6,480 years on the traditional reckoning) is one possible reading; the corpus's adopted position is open on the specific relationship.
+헤시오도스의 시대들은 명시적으로 세차적이지 않다 — 헤시오도스는 히파르코스보다 약 다섯 세기 앞서 있어 세차 주기를 알 수 없었다 — 그러나 프레임워크는 헤시오도스 전통을 세차 대년이 표명하는 더 넓은 우주 주기 양상과 관련된 내용을 보존하는 것으로 읽는다. 헤시오도스의 네 시대와 대년의 4분할(각 시대가 세 대월, 즉 전통적 산정으로 6,480년에 해당) 사이의 구조적 대응은 가능한 한 가지 독해이며, 코퍼스의 채택된 입장은 그 구체적 관계에 대해 열려 있다.{{ footnote(id="3") }}
 
-### The Mesoamerican Long Count
+### 메소아메리카 장기 계산
 
-The Mesoamerican Long Count calendar's **13-B'ak'tun Great Cycle** of approximately **5,125 years** (1,872,000 days) corresponds to approximately **one-fifth of the precessional Great Year** (25,920 / 5 = 5,184 years; 25,772 / 5 = 5,154 years — both close to the Great Cycle figure). The numerical correspondence has been the subject of substantial 20th-21st century interpretive engagement, particularly in connection with the December 21, 2012 completion of the most recent Great Cycle.
+메소아메리카 장기 계산 달력의 **13-박툰 대주기**는 약 **5,125년**(1,872,000일)으로, **세차 대년의 약 5분의 1**에 해당한다(25,920 / 5 = 5,184년; 25,772 / 5 = 5,154년 — 둘 다 대주기 수치에 근접). 그 수치 대응은 특히 가장 최근의 대주기 완료일인 2012년 12월 21일과 관련하여 20–21세기의 실질적인 해석적 참여의 주제가 되었다.
 
-The framework's adopted position on the Mesoamerican Long Count is that the substantive numerical correspondence with the precessional Great Year is consistent with the broader cross-cultural preservation pattern, but that the specific question of whether the Mesoamerican tradition explicitly encoded precessional content is treated as open. The dedicated [Mesoamerican astronomy](../mesoamerican-astronomy/) entry would develop this question further.
+메소아메리카 장기 계산에 대한 프레임워크의 채택된 입장은 세차 대년과의 실질적 수치 대응이 더 넓은 문화 간 보존 양상과 일관되지만, 메소아메리카 전통이 세차 내용을 명시적으로 부호화했는지에 관한 구체적 질문은 열린 문제로 다루어진다는 것이다.{{ footnote(id="5") }} 별도의 [메소아메리카 천문학](../mesoamerican-astronomy/) 항목이 이 질문을 더 발전시킬 것이다.
 
-### The broader cross-cultural pattern
+### 더 넓은 문화 간 양상
 
-The combined evidence from the Hindu, Greek, Mesoamerican, and other traditions supports the framework's reading that the precessional Great Year cycle was preserved across multiple pre-modern cosmological systems. The specific numerical signatures (25,920, 2,160, 432, 72, 360) appear with substantial frequency in cosmological-mythological contexts that predate explicit astronomical identification of precession. The framework reads this pattern as evidence of cross-cultural transmission of precessional astronomical content through symbolic-numerological vocabulary — the broader thesis developed in **Giorgio de Santillana and Hertha von Dechend's *Hamlet's Mill***, treated in the next section.
+힌두, 그리스, 메소아메리카, 그리고 다른 전통들로부터의 결합된 증거는 세차 대년 주기가 여러 전근대 우주론 체계들에 걸쳐 보존되었다는 프레임워크의 독해를 지지한다. 특정 수치 시그니처들(25,920; 2,160; 432; 72; 360)은 세차의 명시적 천문학적 동정에 앞선 우주론적·신화적 맥락들에서 실질적인 빈도로 나타난다. 프레임워크는 이 양상을 상징적·수비학적 어휘를 통한 세차 천문학적 내용의 문화 간 전수의 증거로 읽는다 — 다음 절에서 다루어지는 **조르조 데 산티야나와 헤르타 폰 데헨트의 《햄릿의 맷돌》**에서 발전된 더 넓은 명제이다.
 
-## *Hamlet's Mill* and the precessional mythology thesis
+## 《햄릿의 맷돌》과 세차 신화 명제
 
-The most substantive single scholarly engagement with the cross-cultural preservation of the precessional Great Year is **Giorgio de Santillana and Hertha von Dechend's *Hamlet's Mill: An Essay on Myth and the Frame of Time*** (Gambit, 1969). The book — written by **Santillana** (1902–1974, professor of history of science at MIT) and **von Dechend** (1915–2001, professor of history of science at Goethe University Frankfurt) — argues that pre-Hipparchian global mythology systematically encodes precessional astronomical content in mythological-symbolic form. The book's full subtitle articulates the project: *An Essay Investigating the Origins of Human Knowledge and Its Transmission Through Myth*.
+세차 대년의 문화 간 보존에 대한 가장 실질적인 단일 학술적 참여는 **조르조 데 산티야나와 헤르타 폰 데헨트의 《햄릿의 맷돌: 신화와 시간의 틀에 관한 시론》**(Gambit, 1969)이다. **산티야나**(1902–1974, MIT 과학사 교수)와 **폰 데헨트**(1915–2001, 프랑크푸르트 괴테 대학교 과학사 교수)가 쓴 이 책은 히파르코스 이전의 세계 신화가 신화적·상징적 형태로 세차 천문학적 내용을 체계적으로 부호화한다고 주장한다. 책의 전체 부제는 그 프로젝트를 명료히 한다: 《인간 지식의 기원과 신화를 통한 그 전수에 관한 시론》.
 
-### The central thesis
+### 중심 명제
 
-The central thesis of *Hamlet's Mill* can be articulated in several connected claims:
+《햄릿의 맷돌》의 중심 명제는 여러 연결된 주장들로 표명될 수 있다:
 
-- **Precession was discovered substantially before Hipparchus**, by Neolithic or earlier astronomers, possibly as early as 4,000–6,000 BCE
-- The knowledge of precession was transmitted across cultures and millennia through **mythological-symbolic encoding** rather than direct astronomical-textual transmission
-- The principal mythological motifs of the cross-cultural global tradition systematically preserve precessional astronomical content
-- The transmission of precessional content connects cultures separated by substantial geographical and temporal distance through common mythological vocabulary
+- **세차는 히파르코스보다 실질적으로 앞서**, 신석기 또는 그 이전의 천문학자들에 의해, 어쩌면 기원전 4,000–6,000년경에 일찍 발견되었다
+- 세차에 대한 지식은 직접적인 천문학적·문헌적 전수가 아니라 **신화적·상징적 부호화**를 통해 문화권과 천년 단위를 가로질러 전수되었다
+- 문화 간 세계 전통의 주요 신화적 모티프들은 세차 천문학적 내용을 체계적으로 보존한다
+- 세차 내용의 전수는 공통의 신화적 어휘를 통해 상당한 지리적·시간적 거리로 분리된 문화들을 연결한다
 
-The book is organised across approximately 500 pages of analysis covering Mesopotamian, Egyptian, Vedic, Iranian, Norse, Finnish, Polynesian, Mesoamerican, and other cross-cultural mythological traditions. The breadth of the engagement is one of the book's distinctive features — no single 20th-century scholar commanded all of these fields at the level of depth the project requires, and the collaboration between Santillana's broad humanistic scholarship and von Dechend's technical archaeoastronomy and Babylonian astronomy made the synthesis possible.
+이 책은 메소포타미아, 이집트, 베다, 이란, 노르드, 핀란드, 폴리네시아, 메소아메리카, 그리고 다른 문화 간 신화 전통들을 다루는 약 500쪽의 분석으로 조직되어 있다. 그 참여의 폭은 책의 두드러진 특징 중 하나이다 — 20세기의 어떤 단일 학자도 이 프로젝트가 요구하는 깊이의 수준에서 이 모든 분야들을 통달하지 못했으며, 산티야나의 폭넓은 인문학적 학식과 폰 데헨트의 기술적 고대천문학 및 바빌로니아 천문학 사이의 협력이 그 종합을 가능하게 만들었다.
 
-### The principal mythological motifs
+### 주요 신화적 모티프들
 
-Santillana and von Dechend identify several principal mythological motifs that they read as preserving precessional content:
+산티야나와 폰 데헨트는 그들이 세차 내용을 보존하는 것으로 읽는 여러 주요 신화적 모티프들을 동정한다:
 
-#### The cosmic mill (Hamlet's Mill itself)
+#### 우주의 맷돌 (햄릿의 맷돌 자체)
 
-The book's title comes from the Norse-Finnish mythological complex of the **cosmic mill** — the great mill (the Finnish **Sampo**, the Icelandic **Grotti**, the Hamlet-figure Amlethus's mill) that grinds out the destiny of the world. The mill is broken at a certain cosmic moment, producing a catastrophic disruption of the cosmic order. The framework's reading: the cosmic mill represents the precessional motion itself (the slow circular grinding of the celestial pole around the celestial sphere), and the "breaking" of the mill represents the precessional shift from one Age to the next, with the catastrophic implications attributed to such transitions in the broader cyclic-cosmology tradition.
+책의 제목은 **우주의 맷돌** — 세계의 운명을 갈아내는 큰 맷돌(핀란드의 **삼포**, 아이슬란드의 **그로티**, 햄릿-인물 암레투스의 맷돌) — 의 노르드-핀란드 신화 복합체에서 유래한다. 맷돌은 어떤 우주적 순간에 부서지며, 우주 질서의 파국적 붕괴를 산출한다. 프레임워크의 독해: 우주의 맷돌은 세차 운동 자체(천구의 극이 천구 둘레를 느리게 원형으로 갈아내는 것)를 나타내며, 맷돌의 "부서짐"은 더 넓은 순환적 우주론 전통에서 그러한 전이에 부여된 파국적 함의와 함께 한 시대에서 다음 시대로의 세차 전환을 나타낸다.
 
-#### Hamlet / Amlethus
+#### 햄릿 / 암레투스
 
-The mythological figure of **Hamlet** (Saxo Grammaticus's *Amlethus*, the Old Norse *Amloði*, ultimately related to the broader Indo-European *Aml-* root) is read by Santillana and von Dechend as preserving content about the precessional cycle and the cosmic transitions. The Hamlet-figure is a recurring archetype across multiple cultures (the Finnish Kullervo, the Iranian Kai Khusrau, the various heroic figures who deal with cosmic disruption). The Shakespeare *Hamlet* (c. 1600) is read as a late literary recovery of the broader Indo-European Hamlet-myth complex.
+**햄릿**(삭소 그라마티쿠스의 *Amlethus*, 고대 노르드어 *Amloði*, 궁극적으로는 더 넓은 인도-유럽어족의 *Aml-* 어근과 관련됨)의 신화적 인물은 산티야나와 폰 데헨트에 의해 세차 주기와 우주적 전이에 관한 내용을 보존하는 것으로 읽힌다. 햄릿-인물은 여러 문화권에 걸친 반복되는 원형이다(핀란드의 쿨레르보, 이란의 카이 후스라우, 우주적 붕괴를 다루는 다양한 영웅적 인물들). 셰익스피어의 《햄릿》(서기 약 1600년)은 더 넓은 인도-유럽 햄릿-신화 복합체의 후기 문학적 회복으로 읽힌다.
 
-#### Kullervo and the Sampo
+#### 쿨레르보와 삼포
 
-The **Finnish** mythological complex preserved in the *Kalevala* (compiled by Elias Lönnrot 1835–1849 from earlier Karelian oral tradition) includes substantial material that Santillana and von Dechend read as preserving precessional content. The forging of the **Sampo** (a magical mill or device of cosmic power, forged by the smith Ilmarinen), its theft by the witch Louhi, and its eventual breaking at sea is read as preserving content about cosmic-cycle transitions. The Kullervo cycle within the *Kalevala* is read as a related Indo-European heroic-cycle narrative.
+《칼레발라》(엘리아스 뢴로트가 1835–1849년에 더 이른 카렐리아 구전 전통에서 엮음)에 보존된 **핀란드** 신화 복합체는 산티야나와 폰 데헨트가 세차 내용을 보존하는 것으로 읽는 실질적 자료를 포함한다. **삼포**(대장장이 일마리넨이 벼린, 우주적 힘의 마법의 맷돌 또는 장치)의 단조, 마녀 로우히에 의한 그것의 도난, 그리고 결국 바다에서의 그것의 부서짐은 우주 주기 전이에 관한 내용을 보존하는 것으로 읽힌다. 《칼레발라》 내의 쿨레르보 사이클은 관련된 인도-유럽 영웅 사이클 서사로 읽힌다.
 
-#### Osiris-Set in Egyptian tradition
+#### 이집트 전통의 오시리스-세트
 
-The **Egyptian** mythological complex of **Osiris** — his killing by **Set** and the **72 conspirators**, his dismemberment into 14 pieces, his subsequent resurrection by Isis — is read by Santillana and von Dechend as preserving substantial precessional content. The 72 conspirators connect to the 72-year Great Day (one degree of precession). The 14 pieces of Osiris's body (with the missing piece, Osiris's phallus, never recovered — Isis substituted a wooden replica) may connect to the lunar cycle and the broader astronomical content. Plutarch's *De Iside et Osiride* (c. 100 CE) preserves the most extensive surviving account.
+**오시리스**의 **이집트** 신화 복합체 — 그가 **세트**와 **72 공모자**에 의해 살해되고, 14 조각으로 토막나고, 이어서 이시스에 의해 부활하는 것 — 는 산티야나와 폰 데헨트에 의해 실질적인 세차 내용을 보존하는 것으로 읽힌다. 72 공모자는 72년 대일(세차의 1도)에 연결된다. 오시리스의 신체의 14 조각(잃어버린 조각인 오시리스의 남근은 결코 회수되지 않았으며 — 이시스는 나무 복제품을 대체하였다)은 달의 주기 및 더 넓은 천문학적 내용과 연결될 수 있다. 플루타르코스의 《이시스와 오시리스에 관하여》(서기 약 100년)는 현존하는 가장 광범위한 서술을 보존한다.
 
-#### The cosmic axis / world tree / pillar of heaven
+#### 우주의 축 / 세계수 / 하늘의 기둥
 
-The cross-cultural mythological motif of the **cosmic axis** (the **axis mundi**) — the world tree (Yggdrasil in Norse, the cosmic *skambha* in Vedic, the cosmic pillar in Mesopotamian tradition, the cosmic mountain in Mesoamerican tradition) — is read as preserving content about the celestial pole and the precessional motion of the pole around the celestial sphere. The frequent mythological theme of the **breaking** or **falling** of the cosmic axis represents the precessional shift of the celestial pole position.
+**우주의 축**(**axis mundi**) — 노르드의 위그드라실, 베다의 우주적 *skambha*, 메소포타미아 전통의 우주의 기둥, 메소아메리카 전통의 우주의 산으로서의 세계수 — 의 문화 간 신화적 모티프는 천구의 극과 천구 둘레를 도는 극의 세차 운동에 관한 내용을 보존하는 것으로 읽힌다. 우주의 축의 **부서짐** 또는 **추락**이라는 빈번한 신화적 주제는 천구의 극 위치의 세차적 이동을 나타낸다.
 
-#### The cosmic flood and the four ages
+#### 우주적 홍수와 네 시대
 
-The cross-cultural **flood narratives** (the Mesopotamian *Atrahasis* and *Gilgamesh*, the biblical Noahide flood, the Hindu *Manu* flood, the Greek *Deucalion*, the broader cross-cultural deluge tradition) are read as preserving content about cosmic-cycle transitions, with the floods occurring at precessional Age boundaries. The Hesiodic and Hindu **four-age** doctrines (Gold/Silver/Bronze/Iron in Hesiod; Satya/Treta/Dvapara/Kali in the Hindu yuga) similarly preserve cyclic-time content.
+문화 간 **홍수 서사들**(메소포타미아의 《아트라하시스》와 《길가메시》, 성서의 노아 홍수, 힌두의 《마누》 홍수, 그리스의 《데우칼리온》, 더 넓은 문화 간 대홍수 전통)은 세차적 시대 경계에서 홍수가 발생하는 우주 주기 전이에 관한 내용을 보존하는 것으로 읽힌다. 헤시오도스 및 힌두의 **네 시대** 교리(헤시오도스의 황금/은/청동/철; 힌두 유가의 사티야/트레타/드바파라/칼리)는 유사하게 순환적 시간 내용을 보존한다.
 
-### The scholarly reception
+### 학술적 수용
 
-The reception of *Hamlet's Mill* in mainstream scholarship has been mixed:
+주류 학계에서 《햄릿의 맷돌》의 수용은 엇갈렸다:
 
-- **The book has been substantially influential** in the broader archaeoastronomy field that emerged in the 1970s and 1980s, including the work of **Ed Krupp** (Griffith Observatory), **Anthony Aveni** (Mesoamerican archaeoastronomy), and others. The broader archaeoastronomical engagement with precession in ancient cultures has substantially confirmed some of Santillana and von Dechend's specific claims (particularly the Egyptian temple alignments on Thuban as the Old Kingdom pole star, the broader Mesoamerican astronomical sophistication).
-- **The book has been substantially skeptically received** by mainstream classicists, historians of astronomy, and folklorists, who have argued that the cross-cultural correspondences identified are too loose to support the strong claim of systematic precessional transmission, and that the methodology lacks rigorous criteria for distinguishing precessional content from independently-arising cross-cultural patterns.
-- **The book's specific claims about Neolithic discovery of precession** are particularly contested. The mainstream-academic position is that the empirical evidence for pre-Hipparchian astronomical observation is limited and does not clearly support the strong claim of Neolithic precessional knowledge.
+- **이 책은 1970년대와 1980년대에 출현한 더 넓은 고대천문학 분야**에서 실질적으로 영향력 있었으며, 여기에는 **에드 크럽**(그리피스 천문대), **앤서니 아베니**(메소아메리카 고대천문학), 그리고 다른 사람들의 작업이 포함된다. 고대 문화에서의 세차에 대한 더 넓은 고대천문학적 참여는 산티야나와 폰 데헨트의 특정 주장들 일부(특히 고왕국 극성으로서의 투반에 대한 이집트 신전 정렬, 더 넓은 메소아메리카 천문학적 정교성)를 실질적으로 확증하였다.
+- **이 책은 주류 고전학자들, 천문학 사학자들, 민속학자들에 의해 실질적으로 회의적으로 받아들여졌으며**, 그들은 동정된 문화 간 대응이 체계적 세차 전수의 강한 주장을 지지하기에는 너무 느슨하며, 그 방법론이 세차 내용을 독립적으로 발생한 문화 간 양상과 구별하기 위한 엄격한 기준을 결여한다고 주장하였다.
+- **신석기에 세차가 발견되었다는 책의 구체적 주장**은 특히 논쟁적이다. 주류 학계의 입장은 히파르코스 이전의 천문학적 관측에 대한 경험적 증거가 제한적이며, 신석기 세차 지식의 강한 주장을 명확히 지지하지 않는다는 것이다.
 
-The framework's adopted position is **broadly sympathetic** to the *Hamlet's Mill* thesis. The corpus's broader interpretive work — particularly the reading of source-tradition material as preserving operational content from the Elohim project — is substantially consistent with the *Hamlet's Mill* claim that pre-Hipparchian astronomical content is preserved in mythological form. The framework treats the specific empirical resolution of the thesis as one of the field's principal open questions while engaging the substantive content with serious interest.
+프레임워크의 채택된 입장은 《햄릿의 맷돌》 명제에 대해 **대체로 동조적**이다. 코퍼스의 더 넓은 해석 작업 — 특히 자료-전통 자료를 엘로힘 프로젝트의 작동적 내용을 보존하는 것으로 읽는 독해 — 은 히파르코스 이전의 천문학적 내용이 신화적 형태로 보존된다는 《햄릿의 맷돌》 주장과 실질적으로 일관된다. 프레임워크는 그 명제의 구체적 경험적 해결을 분야의 주요 미해결 문제들 중 하나로 다루는 한편, 실질적 내용에 진지한 관심으로 참여한다.
 
-## In the Wheel of Heaven framework
+## Wheel of Heaven 프레임워크에서
 
-The framework's reading of the Great Year is multilayered. The mainstream astronomical phenomenon is treated as established empirical content; the substantive framework moves concern the historical-mythological and chronological-interpretive significance of the full cycle.
+대년에 대한 프레임워크의 독해는 다층적이다. 주류 천문학적 현상은 확립된 경험적 내용으로 다루어지며, 실질적인 프레임워크의 관심은 완전한 주기의 역사적·신화적 그리고 연대적·해석적 의의로 옮겨간다.
 
-### The Great Year as the duration of the Elohim project
+### 엘로힘 프로젝트의 지속 기간으로서의 대년
 
-The framework's most substantive interpretive position concerning the Great Year is that **approximately one complete Great Year corresponds to the duration of the Elohim project on Earth**. The principal connections:
+대년에 관한 프레임워크의 가장 실질적인 해석적 입장은 **약 한 번의 완전한 대년이 지구상 엘로힘 프로젝트의 지속 기간에 해당한다**는 것이다. 주요 연결들:
 
-- The Vorilhon source material's central claim that the Elohim arrived on Earth and began their operational project approximately **25,000 years ago** corresponds to approximately one Great Year on the modern astronomical reckoning (25,772 years) or 96% of one Great Year on the traditional reckoning (25,920 years)
-- The framework's chronological reading places the principal human-synthesis event in the **Age of Leo** (c. 13,170 – 11,010 BCE), with the Eden phase, the antediluvian Adamite period, and the broader prophetic record continuing through the subsequent Ages
-- The contemporary period (early 21st century CE) is approximately **12,000-15,000 years after** the principal synthesis event, corresponding to approximately **half of the Great Year** — placing humanity at approximately the midpoint of the precessional cycle from the synthesis event
-- The framework's reading of the **Age of Apocalypse** (treated in the dedicated entry) as the recovery and recognition phase places the contemporary period at the substantive transition from the Elohim's covert operational supervision to the broader recognition phase
+- 엘로힘이 지구에 도착하여 약 **25,000년 전**에 그들의 작동적 프로젝트를 시작했다는 보릴롱 자료의 중심 주장은{{ cite(id="the-book-which-tells-the-truth", text="[3]", title="Vorilhon (Raël), *The Book Which Tells the Truth* (1974) — 프레임워크의 ~25,000년 엘로힘-프로젝트 연대에 대한 주요 자료") }} 현대 천문학적 산정으로 약 1 대년(25,772년)에 또는 전통적 산정으로 1 대년의 96%(25,920년)에 해당한다
+- 프레임워크의 연대적 독해는 주요 인류 합성 사건을 **사자자리 시대**(기원전 약 13,170 – 11,010년)에 위치시키며, {% wiki(slug="eden") %}에덴{% end %} 단계, 대홍수 이전의 아담 시기, 그리고 더 넓은 예언적 기록이 후속 시대들을 통해 계속된다
+- 현대 시기(서기 21세기 초)는 주요 합성 사건으로부터 약 **12,000–15,000년 후**이며, **대년의 절반**에 해당한다 — 인류를 합성 사건으로부터 세차 주기의 약 중간점에 위치시킨다
+- **{% wiki(slug="apocalypse") %}묵시{% end %}의 시대**(별도의 항목에서 다루어짐)를 회복 및 인식 단계로 읽는 프레임워크의 독해는 현재 시기를 엘로힘의 은밀한 작동적 감독으로부터 더 넓은 인식 단계로의 실질적 전이에 위치시킨다
 
-The framework reads this temporal correspondence — one Great Year approximating the duration of the Elohim project — as substantively significant. The cycle is sufficiently long that it could not be coincidental: the Elohim's project on Earth has been calibrated to the precessional cycle in a way that suggests deliberate operational use of the cycle as chronological infrastructure for the project.
+프레임워크는 이 시간적 대응 — 엘로힘 프로젝트의 지속 기간에 근접하는 한 대년 — 을 실질적으로 중요한 것으로 읽는다. 그 주기는 충분히 길어서 우연일 수 없다: 지구상 엘로힘의 프로젝트는, 그들이 그 주기를 프로젝트를 위한 연대 기반시설로서 의도적으로 작동적으로 사용했음을 시사하는 방식으로 세차 주기에 보정되어 있다.
 
-### The Great Year as cosmic memory
+### 우주적 기억으로서의 대년
 
-The framework reads the Great Year as the **temporal scope of cosmic memory** within the source-tradition material. The principal observations:
+프레임워크는 대년을 자료-전통 자료 내에서 **우주적 기억의 시간적 범위**로 읽는다. 주요 관측들:
 
-- The cross-cultural mythological-symbolic record substantially preserves content from approximately the past Great Year (the past ~25,000 years), but content from earlier than this is substantially absent or substantially compressed
-- The Vorilhon source material's specific operational content concentrates on events of the past ~25,000 years (the principal synthesis, the broader Adamite history, the prophetic record), with content from earlier cosmic history substantially compressed or absent
-- The temporal scope of the Hebrew Bible's narrative content (the Genesis 1 creation, the antediluvian patriarchs, the post-deluge Table of Nations, the Abrahamic and subsequent prophetic record) substantially aligns with the past Great Year scope
+- 문화 간 신화적·상징적 기록은 약 과거 대년(과거 약 25,000년)으로부터의 내용을 실질적으로 보존하지만, 그보다 이른 시기의 내용은 실질적으로 부재하거나 실질적으로 압축되어 있다
+- 보릴롱 자료의 구체적 작동적 내용은 과거 약 25,000년의 사건들에 집중된다(주요 합성, 더 넓은 아담 역사, 예언적 기록), 더 이른 시기의 우주 역사로부터의 내용은 실질적으로 압축되거나 부재하다
+- {% wiki(slug="hebrew-bible") %}히브리어 성경{% end %}의 서사적 내용의 시간적 범위(창세기 1 창조, 대홍수 이전의 족장들, 대홍수 이후의 민족 표, 아브라함 및 후속의 예언적 기록)는 과거 대년 범위와 실질적으로 일치한다
 
-The framework reads this pattern as substantively significant: the Great Year is approximately the temporal scope across which the source-tradition material preserves operational content, suggesting that the project's documentary record has been calibrated to the cycle of the master cosmic clock.
+프레임워크는 이 양상을 실질적으로 중요한 것으로 읽는다: 대년은 자료-전통 자료가 작동적 내용을 보존하는 시간적 범위에 근접하며, 이는 프로젝트의 문서적 기록이 마스터 우주 시계의 주기에 보정되어 있음을 시사한다.
 
-### The Great Year as the master cycle of the corpus
+### 코퍼스의 마스터 주기로서의 대년
 
-The framework's broader work uses the Great Year as the master temporal framework within which the twelve [Great Month](../great-month/) identifications are organized. The principal Great Month sequence within the current Great Year:
+프레임워크의 더 넓은 작업은 대년을 마스터 시간 프레임워크로 사용하며, 그 안에서 열두 [대월](../great-month/) 동정이 조직된다. 현재 대년 내의 주요 대월 계열:
 
-| Great Month | Approximate dates | Principal framework content |
+| 대월 | 대략적 연대 | 주요 프레임워크 내용 |
 |---|---|---|
-| **Age of Virgo** | c. 15,330 – 13,170 BCE | The *yom* 5 phase; synthesis of broader animal life |
-| **Age of Leo** | c. 13,170 – 11,010 BCE | The *yom* 6 phase; principal human synthesis; Eden phase |
-| **Age of Cancer** | c. 11,010 – 8,850 BCE | Post-deluge reorganisation; Younger Dryas-era catastrophic events |
-| **Age of Gemini** | c. 8,850 – 6,690 BCE | Early Neolithic; Holocene climate stabilisation |
-| **Age of Taurus** | c. 6,690 – 4,530 BCE | Sumerian and Egyptian civilisations; principal megalithic period |
-| **Age of Aries** | c. 4,530 – 2,370 BCE | Principal Hebrew prophetic period (Abraham–Moses–Davidic monarchy) |
-| **Age of Pisces** | c. 1 CE – 2,160 CE | Christian era and broader subsequent religious developments |
-| **Age of Aquarius** | c. 2,160 CE onward | Contemporary recovery period; transition into the Age of Apocalypse |
+| **처녀자리 시대** | 기원전 약 15,330 – 13,170년 | *yom* 5 단계; 더 넓은 동물 생명의 합성 |
+| **사자자리 시대** | 기원전 약 13,170 – 11,010년 | *yom* 6 단계; 주요 인류 합성; 에덴 단계 |
+| **게자리 시대** | 기원전 약 11,010 – 8,850년 | 대홍수 이후의 재조직; 영거 드라이아스 시기의 파국적 사건들 |
+| **쌍둥이자리 시대** | 기원전 약 8,850 – 6,690년 | 초기 신석기; 홀로세 기후 안정화 |
+| **황소자리 시대** | 기원전 약 6,690 – 4,530년 | 수메르 및 이집트 문명; 주요 거석 시기 |
+| **양자리 시대** | 기원전 약 4,530 – 2,370년 | 주요 히브리 예언 시기(아브라함–{% wiki(slug="moses") %}모세{% end %}–다윗 왕정) |
+| **물고기자리 시대** | 서기 약 1 – 2,160년 | 기독교 시대 및 더 넓은 후속 종교적 전개 |
+| **물병자리 시대** | 서기 약 2,160년 이후 | 현대 회복 시기; 묵시의 시대로의 전이 |
 
-The Great Year therefore organises approximately 27,500 years of corpus-relevant content from the Age of Virgo through the contemporary period. The earlier portions of the Great Year (the Ages of Libra, Scorpio, Sagittarius, Capricorn) correspond on the framework's reading to the **preparatory phases** of the Earth project — the *yamim* 1-4 of Genesis 1, the terraforming operations treated in the dedicated [Terraforming](../terraforming/) entry. The framework's complete Great Year sequence therefore covers the full Elohim project from initial terraforming through the contemporary recovery phase.
+따라서 대년은 처녀자리 시대로부터 현재 시기에 이르기까지 약 27,500년의 코퍼스-관련 내용을 조직한다. 대년의 더 이른 부분들(천칭자리, 전갈자리, 궁수자리, 염소자리 시대)은 프레임워크의 독해에서 지구 프로젝트의 **준비 단계들** — 창세기 1의 *yamim* 1-4, 별도의 [지구화](../terraforming/) 항목에서 다루어지는 지구화 작업 — 에 해당한다. 따라서 프레임워크의 완전한 대년 계열은 최초의 지구화로부터 현재의 회복 단계에 이르기까지 전체 엘로힘 프로젝트를 다룬다.
 
-### The "world entering the Age of Aquarius"
+### "물병자리 시대로 진입하는 세계"
 
-The contemporary cultural recognition that "the world is entering the Age of Aquarius" — a phrase that became culturally prominent through the 1967 song "Aquarius / Let the Sunshine In" from the Broadway musical *Hair* and has been substantially developed in subsequent esoteric and "New Age" discourse — is read by the framework as preserving popular awareness of the precessional Age transition. The specific timing of the Pisces-to-Aquarius transition is contested (different reckonings place it variously between approximately 1900 CE and 2700 CE), but the broader cultural recognition that a substantive Age transition is occurring is consistent with the framework's reading that the contemporary period is the substantive recovery and recognition phase of the broader Elohim project.
+"세계가 물병자리 시대로 진입하고 있다"는 현대 문화적 인식 — 브로드웨이 뮤지컬 《헤어》의 1967년 노래 "Aquarius / Let the Sunshine In"을 통해 문화적으로 두드러지게 된 표현으로, 후속의 비전적 및 "뉴에이지" 담론에서 실질적으로 발전된 — 은 프레임워크에 의해 세차적 시대 전이에 대한 대중적 인식을 보존하는 것으로 읽힌다. 물고기자리에서 물병자리로의 전이의 구체적 시기는 논쟁적이지만(다양한 산정이 그것을 약 서기 1900년에서 2700년 사이에 다양하게 위치시킨다), 실질적인 시대 전이가 발생하고 있다는 더 넓은 문화적 인식은 현재 시기가 더 넓은 엘로힘 프로젝트의 실질적인 회복 및 인식 단계라는 프레임워크의 독해와 일관된다.
 
-The framework's specific Pisces-to-Aquarius transition timing is treated as approximate (c. 2,160 CE on the framework's adopted reckoning, but with ±200-year uncertainty as discussed in the [Precession](../precession/) and [Great Month](../great-month/) entries). What is substantively significant on the framework's reading is not the precise date of transition but the broader pattern: the Age of Pisces (the Christian era and the broader subsequent religious developments) is concluding, and the contemporary period is the substantive transition into a new precessional Age within which the broader corpus's interpretive recovery work is operating.
+프레임워크의 구체적인 물고기자리에서 물병자리로의 전이 시기는 근사적인 것으로 다루어진다(프레임워크의 채택된 산정에 따르면 서기 약 2,160년, 그러나 [세차](../precession/) 및 [대월](../great-month/) 항목에서 논의된 ±200년의 불확실성과 함께). 프레임워크의 독해에서 실질적으로 중요한 것은 전이의 정확한 날짜가 아니라 더 넓은 양상이다: 물고기자리 시대(기독교 시대와 더 넓은 후속 종교적 전개)는 끝나가고 있으며, 현재 시기는 더 넓은 코퍼스의 해석적 회복 작업이 작동하는 새로운 세차적 시대로의 실질적 전이이다.
 
-## Connections to the broader framework
+## 더 넓은 프레임워크와의 연결
 
-The Great Year entry connects to several specific corpus entries.
+대년 항목은 여러 구체적 코퍼스 항목들에 연결된다.
 
-**The Precession entry.** The dedicated [Precession](../precession/) entry treats the astronomical phenomenon itself; the Great Year is one complete cycle of the phenomenon.
+**세차 항목.** 별도의 [세차](../precession/) 항목은 천문학적 현상 자체를 다룬다; 대년은 그 현상의 한 완전한 주기이다.
 
-**The Great Month entry.** The dedicated [Great Month](../great-month/) entry treats the twelfth-of-the-Great-Year unit; the Great Year is the master cycle of which the Great Months are subdivisions.
+**대월 항목.** 별도의 [대월](../great-month/) 항목은 대년의 12분의 1 단위를 다룬다; 대년은 대월들이 그 세분이 되는 마스터 주기이다.
 
-**The World Age entry.** The dedicated [World Age](../world-age/) entry treats the broader cross-cultural doctrine of cosmic ages; the Great Year is one specific articulation of this broader doctrine.
+**세계 시대 항목.** 별도의 [세계 시대](../world-age/) 항목은 우주 시대들에 대한 더 넓은 문화 간 교리를 다룬다; 대년은 이 더 넓은 교리의 하나의 구체적 표명이다.
 
-**The individual Age entries.** The dedicated entries on each Great Month develop the specific content of each Age within the Great Year framework.
+**개별 시대 항목들.** 각 대월에 대한 별도의 항목들은 대년 프레임워크 내의 각 시대의 구체적 내용을 발전시킨다.
 
-**The Genesis entry.** The dedicated [Genesis](../genesis/) entry treats the *yamim* sequence; the framework reads the seven *yamim* as the seven precessional Ages constituting one half of a Great Year on the broader reckoning.
+**창세기 항목.** 별도의 [창세기](../genesis/) 항목은 *yamim* 계열을 다룬다; 프레임워크는 일곱 *yamim*을 더 넓은 산정으로 한 대년의 절반을 구성하는 일곱 세차 시대로 읽는다.
 
-**The Hamlet's Mill thesis.** Treated principally in the present entry and in the [Precession](../precession/) entry; the dedicated [List of mythemes and mythological motifs](../list-of-mythemes-and-mythological-motifs/) entry develops the specific mythological motifs that Santillana and von Dechend identify.
+**햄릿의 맷돌 명제.** 주로 현재 항목과 [세차](../precession/) 항목에서 다루어진다; 별도의 [신화소 및 신화적 모티프 목록](../list-of-mythemes-and-mythological-motifs/) 항목은 산티야나와 폰 데헨트가 동정하는 구체적 신화적 모티프들을 발전시킨다.
 
-**The Age of Apocalypse.** The dedicated [Age of Apocalypse](../age-of-apocalypse/) entry treats the framework's reading of the contemporary period as the recovery and recognition phase; the Great Year entry establishes the broader temporal framework within which the contemporary transition is occurring.
+**묵시의 시대.** 별도의 [묵시의 시대](../age-of-apocalypse/) 항목은 현재 시기를 회복 및 인식 단계로 읽는 프레임워크의 독해를 다룬다; 대년 항목은 현재 전이가 발생하고 있는 더 넓은 시간 프레임워크를 확립한다.
 
-**The Forerunners and Elohim.** The dedicated [Forerunners](../forerunners/) and [Elohim](../elohim/) entries treat the broader chain-of-designers in which the Elohim are positioned; the Great Year is approximately the duration of one Elohim project on Earth, with multiple Great Years likely required for the broader chain of life-propagation across the universe.
+**선구자들과 엘로힘.** 별도의 [선구자들](../forerunners/)과 [엘로힘](../elohim/) 항목들은 엘로힘이 위치하는 더 넓은 설계자 사슬을 다룬다; 대년은 지구상 하나의 엘로힘 프로젝트의 대략적 지속 기간이며, 우주 전체에 걸친 생명 전파의 더 넓은 사슬에는 여러 대년이 요구될 가능성이 높다.
 
-## Open questions
+## 미해결 문제
 
-The Great Year entry surfaces several open questions for the framework's broader interpretive work.
+대년 항목은 프레임워크의 더 넓은 해석 작업을 위한 여러 미해결 문제들을 부각시킨다.
 
-- **The empirical resolution of the pre-Hipparchian discovery question.** The mainstream-academic position holds that precession was first identified by Hipparchus c. 129 BCE. The *Hamlet's Mill* thesis and subsequent archaeoastronomy work substantively contest this position. The framework's adopted reading is broadly sympathetic to the earlier-discovery position but treats the specific empirical resolution as open.
-- **The reconciliation of the modern astronomical (25,772 years) and traditional (25,920 years) reckonings.** The corpus uses both depending on context. Whether the corpus should converge on one as the principal reckoning is treated as open.
-- **The specific operational use of the Great Year by the Elohim.** The framework reads the Great Year as approximately the duration of the Elohim project, suggesting deliberate operational calibration to the precessional cycle. The specific operational use (navigation, chronological infrastructure, project-management framework, broader cosmic-pattern alignment) is treated as open.
-- **The relationship to the Hindu *yuga* and *kalpa* cycles.** The substantial numerical correspondences between the Hindu cyclic-cosmology arithmetic and the precessional Great Year are striking, but the specific relationship — whether the Hindu numbers derive from precessional astronomy, develop independently with secondary precessional correspondence, or relate through some other mechanism — is treated as open.
-- **The Mesoamerican Long Count and 2012 phenomenon.** The numerical correspondence between the 5,125-year Mesoamerican Great Cycle and approximately one-fifth of the precessional Great Year is substantively interesting, but the specific question of whether the Mesoamerican tradition explicitly encoded precessional content is treated as open.
-- **The Yukteshwar 24,000-year cycle.** The 19th-century Indian astrological tradition associated with Sri Yukteshwar uses a 24,000-year *yuga* cycle that does not match the standard Puranic figures but substantially matches the actual Great Year. Whether the Yukteshwar reading preserves substantive earlier content or is a 19th-century reinterpretation is treated as open.
+- **세차의 히파르코스 이전 발견 문제의 경험적 해결.** 주류 학계의 입장은 세차가 기원전 약 129년에 히파르코스에 의해 처음 동정되었다는 것이다. 《햄릿의 맷돌》 명제와 후속의 고대천문학 작업은 이 입장을 실질적으로 반박한다. 프레임워크의 채택된 독해는 더 이른 발견 입장에 대해 대체로 동조적이지만, 구체적인 경험적 해결은 열린 문제로 다룬다.
+- **현대 천문학적(25,772년) 산정과 전통적(25,920년) 산정의 조화.** 코퍼스는 맥락에 따라 둘 다 사용한다. 코퍼스가 주요 산정으로 어느 하나에 수렴해야 하는지는 열린 문제로 다루어진다.
+- **엘로힘에 의한 대년의 구체적 작동적 사용.** 프레임워크는 대년을 엘로힘 프로젝트의 대략적 지속 기간으로 읽으며, 이는 세차 주기에 대한 의도적인 작동적 보정을 시사한다. 구체적 작동적 사용(항행, 연대 기반시설, 프로젝트 관리 프레임워크, 더 넓은 우주 양상 정렬)은 열린 문제로 다루어진다.
+- **힌두의 *yuga*와 *kalpa* 주기와의 관계.** 힌두 순환적 우주론 산술과 세차 대년 사이의 실질적 수치 대응은 인상적이지만, 구체적 관계 — 힌두 숫자들이 세차 천문학에서 도출되는지, 독립적으로 발전하면서 부차적 세차 대응을 갖게 되는지, 아니면 다른 메커니즘을 통해 관계되는지 — 는 열린 문제로 다루어진다.
+- **메소아메리카 장기 계산과 2012년 현상.** 5,125년 메소아메리카 대주기와 세차 대년의 약 5분의 1 사이의 수치 대응은 실질적으로 흥미롭지만, 메소아메리카 전통이 세차 내용을 명시적으로 부호화했는지에 관한 구체적 질문은 열린 문제로 다루어진다.
+- **유크테스와르의 24,000년 주기.** 스리 유크테스와르와 연관된 19세기 인도 점성술 전통은 표준 푸라나 수치와 일치하지 않지만 실제 대년과는 실질적으로 일치하는 24,000년 *유가* 주기를 사용한다. 유크테스와르의 독해가 실질적인 더 이른 시기의 내용을 보존하는지 아니면 19세기의 재해석인지는 열린 문제로 다루어진다.
 
-## See also
+## 참고
 
-- [Precession](../precession/)
-- [Great Month](../great-month/)
-- [World Age](../world-age/)
-- [Age of Virgo](../timeline/age-of-virgo/)
-- [Age of Leo](../timeline/age-of-leo/)
-- [Age of Cancer](../timeline/age-of-cancer/)
-- [Age of Gemini](../timeline/age-of-gemini/)
-- [Age of Taurus](../timeline/age-of-taurus/)
-- [Age of Aries](../timeline/age-of-aries/)
-- [Age of Pisces](../timeline/age-of-pisces/)
-- [Age of Aquarius](../timeline/age-of-aquarius/)
-- [Age of Apocalypse](../age-of-apocalypse/)
-- [Genesis](../genesis/)
-- [Terraforming](../terraforming/)
-- [List of mythemes and mythological motifs](../list-of-mythemes-and-mythological-motifs/)
-- [List of exegetic readings](../list-of-exegetic-readings/)
-- [List of megalithic sites](../list-of-megalithic-sites/)
+- [세차](../precession/)
+- [대월](../great-month/)
+- [세계 시대](../world-age/)
+- [처녀자리 시대](../timeline/age-of-virgo/)
+- [사자자리 시대](../timeline/age-of-leo/)
+- [게자리 시대](../timeline/age-of-cancer/)
+- [쌍둥이자리 시대](../timeline/age-of-gemini/)
+- [황소자리 시대](../timeline/age-of-taurus/)
+- [양자리 시대](../timeline/age-of-aries/)
+- [물고기자리 시대](../timeline/age-of-pisces/)
+- [물병자리 시대](../timeline/age-of-aquarius/)
+- [묵시의 시대](../age-of-apocalypse/)
+- [창세기](../genesis/)
+- [지구화](../terraforming/)
+- [신화소 및 신화적 모티프 목록](../list-of-mythemes-and-mythological-motifs/)
+- [주해적 독해 목록](../list-of-exegetic-readings/)
+- [거석 유적 목록](../list-of-megalithic-sites/)
 
-## External links
+## 외부 링크
 
 - [Great Year | Wikipedia](https://en.wikipedia.org/wiki/Great_Year)
 - [Astrological age | Wikipedia](https://en.wikipedia.org/wiki/Astrological_age)
 - [Plato, Timaeus | Perseus Digital Library](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0179)
 - [Hamlet's Mill | Wikipedia](https://en.wikipedia.org/wiki/Hamlet%27s_Mill)
 
-## References
+## 참고문헌
 
-Vorilhon, Claude (Raël). *Le Livre qui dit la vérité* (1974) and *Les extra-terrestres m'ont emmené sur leur planète* (1976), collected as *Message from the Designers* (Raëlian Foundation, current English edition). [Primary source for the framework's reading of the Elohim project's ~25,000-year duration corresponding to approximately one Great Year.]
+Vorilhon, Claude (Raël). *Le Livre qui dit la vérité* (1974) and *Les extra-terrestres m'ont emmené sur leur planète* (1976), collected as *Message from the Designers* (Raëlian Foundation, current English edition). [엘로힘 프로젝트의 약 25,000년 지속 기간이 약 1 대년에 해당한다는 프레임워크 독해의 주요 자료.]
 
-Santillana, Giorgio de, and Hertha von Dechend. *Hamlet's Mill: An Essay on Myth and the Frame of Time*. Boston: Gambit, 1969. [The foundational scholarly engagement with the thesis that pre-Hipparchian global mythology systematically encodes precessional Great Year content.]
+Santillana, Giorgio de, and Hertha von Dechend. *Hamlet's Mill: An Essay on Myth and the Frame of Time*. Boston: Gambit, 1969. [히파르코스 이전의 세계 신화가 세차 대년의 내용을 체계적으로 부호화한다는 명제에 대한 기초적 학술 작업.]
 
-Plato. *Timaeus*. c. 360 BCE. Standard English translation: *Plato: Complete Works*, edited by John M. Cooper. Hackett, 1997. [The foundational philosophical source for the Magnus Annus / Great Year concept, with the *teleios eniautos* passage at *Timaeus* 39d.]
+Plato. *Timaeus*. c. 360 BCE. Standard English translation: *Plato: Complete Works*, edited by John M. Cooper. Hackett, 1997. [Magnus Annus / 대년 개념에 대한 기초적 철학적 자료로, 《티마이오스》 39d의 *teleios eniautos* 구절을 포함한다.]
 
-Cicero. *De Natura Deorum*. c. 45 BCE. [The principal Latin source for the post-Platonic Magnus Annus tradition.]
+Cicero. *De Natura Deorum*. c. 45 BCE. [플라톤 이후의 Magnus Annus 전통에 대한 주요 라틴어 자료.]
 
-Censorinus. *De Die Natali*. c. 238 CE. [Preserves the various ancient calculations of the Great Year (Heraclitus, Aristarchus, Diogenes of Babylonia).]
+Censorinus. *De Die Natali*. c. 238 CE. [대년에 대한 다양한 고대 계산(헤라클레이토스, 아리스타르코스, 바빌로니아의 디오게네스)을 보존한다.]
 
-Ptolemy, Claudius. *Almagest*. c. 150 CE. Standard English translation: *Ptolemy's Almagest*, translated by G. J. Toomer. Princeton University Press, 1998. [The principal source for the 36,000-year Great Year figure that dominated the medieval Western tradition.]
+Ptolemy, Claudius. *Almagest*. c. 150 CE. Standard English translation: *Ptolemy's Almagest*, translated by G. J. Toomer. Princeton University Press, 1998. [중세 서양 전통을 지배한 36,000년 대년 수치에 대한 주요 자료.]
 
-Plutarch. *De Iside et Osiride*. c. 100 CE. [Preserves the Egyptian Osiris-Set tradition with the 72 conspirators, a principal cross-cultural mythological motif identified by Santillana and von Dechend as preserving precessional content.]
+Plutarch. *De Iside et Osiride*. c. 100 CE. [산티야나와 폰 데헨트가 세차 내용을 보존하는 것으로 동정한 주요 문화 간 신화적 모티프인 72 공모자와 함께 이집트 오시리스-세트 전통을 보존한다.]
 
-Lönnrot, Elias, compiler. *Kalevala*. 1835 (first edition), 1849 (expanded second edition). [The compiled Finnish national epic, principal source for the Sampo and Kullervo mythological cycles that Santillana and von Dechend identify as preserving precessional content.]
+Lönnrot, Elias, compiler. *Kalevala*. 1835 (first edition), 1849 (expanded second edition). [편찬된 핀란드 민족 서사시로, 산티야나와 폰 데헨트가 세차 내용을 보존하는 것으로 동정한 삼포와 쿨레르보 신화 사이클의 주요 자료.]
 
-Saxo Grammaticus. *Gesta Danorum*. c. 1200. [Source for the Amlethus tradition that gives *Hamlet's Mill* its title.]
+Saxo Grammaticus. *Gesta Danorum*. c. 1200. [《햄릿의 맷돌》에 그 제목을 부여하는 암레투스 전통의 자료.]
 
-Hesiod. *Works and Days*. c. 700 BCE. [Source for the Greek Four Ages tradition.]
+Hesiod. *Works and Days*. c. 700 BCE. [그리스 네 시대 전통의 자료.]
 
-Yukteshwar Giri, Swami Sri. *The Holy Science (Kaivalya Darsanam)*. Yogoda Satsanga Society of India, 1894. [The principal Indian tradition treating the *yuga* cycle as a 24,000-year precessional cycle.]
+Yukteshwar Giri, Swami Sri. *The Holy Science (Kaivalya Darsanam)*. Yogoda Satsanga Society of India, 1894. [*유가* 주기를 24,000년 세차 주기로 다루는 주요 인도 전통.]
 
-Blavatsky, Helena Petrovna. *The Secret Doctrine*. Theosophical Publishing Company, 1888. [The 19th-century theosophical revival of the Magnus Annus and broader cross-cultural cosmic-cycle traditions.]
+Blavatsky, Helena Petrovna. *The Secret Doctrine*. Theosophical Publishing Company, 1888. [Magnus Annus와 더 넓은 문화 간 우주 주기 전통의 19세기 신지학적 부활.]
 
-Biglino, Mauro. *Il libro che cambierà per sempre le nostre idee sulla Bibbia*. Mondadori, 2011. [Source for the framework-relevant reading of precession as potential Elohim/Anunnaki navigation infrastructure.]
+Biglino, Mauro. *Il libro che cambierà per sempre le nostre idee sulla Bibbia*. Mondadori, 2011. [세차를 잠재적 엘로힘/아눈나키 항행 기반시설로 읽는 프레임워크-관련 독해의 자료.]
 
-Cruttenden, Walter. *Lost Star of Myth and Time*. St. Lynn's Press, 2006. [Contemporary popular treatment of the cross-cultural Great Year tradition.]
+Cruttenden, Walter. *Lost Star of Myth and Time*. St. Lynn's Press, 2006. [문화 간 대년 전통에 대한 현대 대중 처리.]
 
-Ulansey, David. *The Origins of the Mithraic Mysteries: Cosmology and Salvation in the Ancient World*. Oxford University Press, 1989. [The principal contemporary scholarly engagement with precession in the context of Mithraic mysteries, with substantive application of the *Hamlet's Mill* methodology to a specific religious tradition.]
+Ulansey, David. *The Origins of the Mithraic Mysteries: Cosmology and Salvation in the Ancient World*. Oxford University Press, 1989. [미트라교 신비 의식의 맥락에서 세차에 대한 주요 현대 학술적 참여로, 구체적 종교 전통에 대한 《햄릿의 맷돌》 방법론의 실질적 적용을 포함한다.]
 
-Sellers, Jane B. *The Death of Gods in Ancient Egypt: An Essay on Egyptian Religion and the Frame of Time*. Lulu, 2007 (expanded edition). [Application of the *Hamlet's Mill* methodology to Egyptian astronomical tradition.]
+Sellers, Jane B. *The Death of Gods in Ancient Egypt: An Essay on Egyptian {% wiki(slug="religion") %}종교{% end %} and the Frame of Time*. Lulu, 2007 (expanded edition). [이집트 천문학 전통에 《햄릿의 맷돌》 방법론을 적용.]
 
 Krupp, E. C. *In Search of Ancient Astronomies*. Doubleday, 1978.
 
@@ -361,7 +390,7 @@ Bauval, Robert, and Adrian Gilbert. *The Orion Mystery: Unlocking the Secrets of
 
 Schoch, Robert M. *Forgotten Civilization: The Role of Solar Outbursts in Our Past and Future*. Inner Traditions, 2012.
 
-Sendy, Jean. *La Lune, clé de la Bible*. Julliard, 1968.
+Sendy, Jean. *La Lune, clé de la {% wiki(slug="bible") %}Bible{% end %}*. Julliard, 1968.
 
 Sendy, Jean. *Ces dieux qui firent le ciel et la terre*. Robert Laffont, 1969.
 
@@ -369,7 +398,7 @@ Evans, James. *The History and Practice of Ancient Astronomy*. Oxford University
 
 Neugebauer, Otto. *A History of Ancient Mathematical Astronomy*. 3 vols. Springer-Verlag, 1975.
 
-Campion, Nicholas. *The Book of World Horoscopes*. Aquarian Press, 1988 (revised editions subsequently). [Standard reference for the various proposed Age transition dates.]
+Campion, Nicholas. *The Book of World Horoscopes*. Aquarian Press, 1988 (revised editions subsequently). [다양한 제안된 시대 전이 날짜에 대한 표준 참고문헌.]
 
 "Great Year." *Wikipedia*. <https://en.wikipedia.org/wiki/Great_Year>
 

@@ -1,597 +1,653 @@
 +++
-title = "라엘 운동"
-description = "라엘 운동은 1973–1975년의 전달에 기초하여 라엘이 창시한 운동으로, 성경에 대한 엘로힘적 독해·윤리 강령·대사관의 정치 기획을 결합한다. Wheel of Heaven 코퍼스에서 그것은 모든 다른 전통을 재독해하는 원천 정전이다."
+title = "라엘리즘"
+slug = "raelism"
+description = "라엘리즘은 라엘(클로드 보릴롱)이 1973년 12월 13일 클레르몽-페랑 인근 퓌-드-라솔라 분화구에서 엘로힘 동맹의 한 장교와 접촉했다고 보고한 사건에 이어, 1974–1976년에 창시한 종교-철학 운동입니다. 이 운동은 보다 넓은 종교 운동의 지형 안에서 구조적으로 독특한데, 명시적으로 무신론적이라는 점에서 그러합니다 — 초자연적 신성을 거부하고 유전공학을 통해 인류를 창조한 진보된 생물학적 문명으로서의 엘로힘을 그 자리에 두면서, 누적적 예언 전통, 물병자리 시대 프로그램, 대사관 프로젝트, 그리고 관능 명상과 세포 계획 전수의 라엘식 세례 등 다양한 라엘 고유의 실천을 통해 실질적인 종교적 차원을 보존합니다. 그 제도적 매개체는 1976년에 창립된 국제 라엘리안 운동(IRM)이며, 약 90개국에 국가별 지부가 설립되어 있고, 1976년 이후 전 기간을 통틀어 회원 수는 약 65,000–100,000명 (출처에 따라 수치가 다름)에 이릅니다."
 template = "wiki-page.html"
 toc = true
 
 [extra]
-translation_status = "metadata_only"
+featured_order = 3
 category = "Cosmology & Framework"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["the Raëlian Movement", "the International Raëlian Movement", "the Raëlian religion", "Raëlianism", "the IRM"]
+alternative_names = ["라엘리안 운동", "국제 라엘리안 운동", "라엘리안 종교", "라엘리아니즘", "IRM"]
+see_also = [
+    { title = "라엘", path = "wiki/rael", description = "1973년 접촉을 보고한 창시자, 본명 클로드 보릴롱." },
+    { title = "진실을 말하는 책", path = "wiki/the-truth", description = "엘로힘의 메시지를 담은 1974년의 첫 저서." },
+    { title = "새로운 계명", path = "wiki/new-commandments", description = "라엘을 통해 전수된 갱신된 윤리 강령." },
+    { title = "엘로힘", path = "wiki/elohim", description = "라엘식 독해에서 다른 곳에서 온 인간 문명으로 식별되는 창조자들." },
+    { title = "대사관", path = "wiki/embassy", description = "엘로힘의 공식 귀환을 위해 운동이 건설하고자 하는 외교 시설." },
+    { title = "지니오크라시", path = "wiki/geniocracy", description = "라엘이 제안하는 정치 체제 — 입증 가능한 지성에 의한 통치." },
+    { title = "파라디즘", path = "wiki/paradism", description = "라엘이 완전 자동화 사회를 위해 제안하는 탈희소성 경제 비전." },
+]
 timeline = ["aquarius"]
 
+footnotes = [
+    { content = "퓌-드-라솔라는 마시프 상트랄의 셴 데 퓌(Chaîne des Puys)에 속한 화산 원추구 중 하나로, 약 80개의 플라이스토세-홀로세 분석구와 용암 돔으로 이루어진 작은 산맥이며 2018년 유네스코 세계 유산에 등재되었습니다. 보릴롱이 그 분화구를 접촉 장소로 특정한 것은, 우호적인 학자들(파머, 인트로비녜)에 의해 자료가 보이는 지리적으로 구체적인 주장이라는 일반적 패턴의 일부로 읽혀 왔습니다 — 그 증거적 지위가 어떠하든, 이러한 주장들은 물리적 지형에 비추어 독립적으로 점검 가능합니다." },
+    { content = "65,000–100,000이라는 범위는 국제 라엘리안 운동의 제도적 발표에서 자기 보고된 수치와, 독립적 관찰자 및 전(前) 회원들이 산출한 더 낮은 추정치를 함께 모은 것입니다. 파머의 *Aliens Adored* (2004)는 운동 자체의 수치를 상한으로 다루며, 활성 회원과 명목적 회원의 구분이 어떠한 단일한 집계도 상당히 복잡하게 만든다고 지적합니다. 범위의 하단은 통상 활성화된 세례 회원에 대한 추정치를 반영하고, 상단은 운동의 역사 전체에 걸친 세포 계획 전수의 누적 수치를 반영합니다." },
+    { content = "지니오크라시의 문턱값 — 공직 수행 자격은 평균 지능의 50% 이상, 투표 자격은 평균의 10% 이상 — 은 이 교리를 플라톤의 *국가*, 유교의 황실 과거 제도, 그리고 20세기의 테크노크라시 운동(하워드 스콧, M. 킹 허버트)을 포함하는 보다 넓은 능력주의-기술관료주의 전통 안에 위치시킵니다. 주류 정치이론의 관여(에스트룬드 등 에피스토크라시 논의)는 대체로 이러한 제안이 가정된 지능 척도의 측정, 안정성, 정치적 정당성을 둘러싼 심각한 실천적 난점에 직면한다고 다루어 왔습니다." },
+    { content = "라엘리안 위계 구조에서 명시적으로 기독교의 교회적 직함 — *사제*, *주교*, *사제들의 사제* — 을 명시적으로 무신론적인 틀 안에서 사용하는 것 자체가 학술적 관심의 지점입니다. 파머는 차용된 어휘를 운동이 물려받은 종교적 형식을 비초자연적 용어로 재부호화하는 보다 넓은 전략의 일부로 읽습니다. 로트슈타인의 성인전(聖人傳) 작업은 그 직함을, 라엘리즘을 동일한 제도적 계보의 후계자로 자리매김하는 — 그 계보로부터의 단절이 아니라 — 의도적인 누적적-예언 전통 프레이밍의 일부로 다룹니다." },
+    { content = "2002년 12월 27일 클로네이드의 발표는 그 뒤에 과학 저널리스트 마이클 길렌이 중개한 협약 — 독립 팀이 알려진 영아의 DNA 검사를 통해 복제 주장을 검증한다는 — 으로 이어졌습니다. 검증 절차는 2003년 1월 초에 중단되었는데, 클로네이드가 부모의 법적 양육권상의 거부를 이유로 아이를 제공하기를 거절했다고 부아셀리에가 밝힌 데 따른 것이었습니다. 그 후 독립적인 검증은 산출되지 않았습니다. 주류 과학계의 입장(미국 과학진흥협회, *Nature*, *Science*)은 그 발표가 입증된 과학적 사건이라기보다 뒷받침되지 않은 주장에 해당한다는 것이었습니다." },
+    { content = "헤븐스 게이트와의 대조는 단지 시간적인 것이 아니라 구조적으로 구체적입니다. 두 운동 모두 1974–75년에 등장했고, 두 운동 모두 외계 접촉의 틀을 정식화한 카리스마적 창시자를 중심으로 했으며, 두 운동 모두 상당한 교리 자료와 헌신적인 회원을 발전시켰습니다. 분기점은 각 틀이 명시한 출구 조건에 있습니다 — 헤븐스 게이트의 틀은 헤일-밥 동반 우주선과의 만남을 통한 떠남의 작동 메커니즘으로서 신체적 죽음을 다루었던 반면, 라엘리즘의 틀은 대사관과 동맹의 공개적 귀환을 지구 측면에서 이루어지며 지속적인 제도적 발전을 조건으로 하는 것으로 다룹니다. 첼러의 *Heaven's Gate* (2014)는 이 비교를 직접적으로 다룹니다." },
+]
+
+[[extra.references]]
+id = "the-book-which-tells-the-truth"
+note = "1974년 12월 13일 클레르몽-페랑에서의 첫 접촉과 야훼로부터 받은 주요 가르침을 기록한 1974년의 토대적 라엘 텍스트."
+
+[[extra.references]]
+id = "extraterrestrials-took-me-to-their-planet"
+note = "보릴롱의 1976년 두 번째 저서로, 1975년 10월 7일의 두 번째 접촉과 영원자들의 행성 방문을 기록함."
+
+[[extra.references]]
+id = "lets-welcome-the-extraterrestrials"
+note = "보릴롱의 1979년 세 번째 저서로, 대사관 프로젝트, 그 이전에 보류되었던 생물학적 친자 관계의 공개, 그리고 물병자리 시대 전환을 다룸."
+
+[[extra.references]]
+id = "intelligent-design-message-from-the-designers"
+note = "세 권의 토대적 저서를 *설계자들로부터의 메시지*로 묶은 2005년 통합 영어판 — 라엘 원천 자료에 대한 동시대의 주요 접근 경로."
+
+[[extra.references]]
+id = "rael-dot-org"
+note = "국제 라엘리안 운동의 주요 공식 웹사이트; 제도적 자기 표현과 동시대의 공식 발표."
+
+[[extra.references]]
+id = "genesis"
+locator = "창세기 1"
+note = "히브리어 성경의 첫 창조 기사로, 라엘리안 틀 안에서는 엘로힘 문명의 유전공학적 창조 작업에 대한 실질적으로 정확한 기억을 보존하는 것으로 읽힘."
+
+[[extra.references]]
+id = "those-gods-who-made-heaven-and-earth"
+note = "장 상디의 1969년 저서로, 히브리어 성경의 엘로힘을 신체를 가진 외계 존재로 보는 문헌학적·역사기술학적 독해 — 라엘식 독해의 독립적인 학술적 선행."
+
+[[extra.references]]
+id = "the-bible-is-not-a-sacred-book"
+note = "마우로 빌리노의 히브리어 성경에 대한 엄격한 직역 시리즈(2010년 이후) — 엘로힘을 물리적 존재들의 복수성으로 보는 독해에 대한 독립적인 문헌학적 수렴."
+
+[[extra.references]]
+id = "escaping-from-eden"
+note = "폴 앤서니 월리스의 2020년 저서로, 히브리어 성경의 엘로힘을 수메르의 하늘 사람들로 보는 비교 쐐기문자적 독해 — 라엘리안 틀과의 세 번째 독립적인 학술적 수렴."
+
 [extra.infobox]
-type = "Religious-philosophical movement; explicitly atheist religion based on extraterrestrial-creator framework; institutional vehicle for the embassy project and broader Aquarian-age preparation"
-founded = "1974 (MADECH); 1976 (International Raëlian Movement)"
-founder = "Raël (Claude Vorilhon, b. 1946)"
-basic_doctrine = "The Elohim, an advanced extraterrestrial civilization, created all life on Earth through genetic engineering approximately 25,000 years ago; humanity is to recognize this origin and prepare for the alliance's open return; the embassy must be built; the seven new commandments structure the Aquarian-age social-political program"
-character = "Atheist religion; rejects supernatural deity while preserving religious dimensions of awe, purpose, ethical commitment; structurally distinctive within both UFO-religion category and broader new-religious-movement landscape"
-principal_practices = "Cellular plan transmission (Raëlian baptism); sensual meditation; telepathic contact (Sundays at 11 AM); annual mountain gathering; commemoration of contact anniversaries (April 6, August 6, October 7, December 13)"
-institutional_structure = "Seven-level hierarchy of Guides; Guide of Guides (Raël) at the top; subsidiary organizations including Clonaid, Order of Angels, Alliance for Extraterrestrial Diplomatic Contact, various educational and outreach bodies"
-membership = "Approximately 65,000-100,000 (figures vary by source); national branches in approximately 90 countries; strongest in France, Canada, Japan, South Korea, Africa"
-distinguished_from = "The broader UFO-religion category (Heaven's Gate, Aetherius Society, Unarius, others); other new-religious-movements with prophet-founders (Mormonism, Scientology, Bahá'í); broader atheist/scientific religions (Comtean Religion of Humanity, Secular Humanism, Ethical Culture); the figure of Raël specifically (treated under separate entry)"
-status_in_source_material = "Substantially documented; doctrinal content principally drawn from Raëlian source material (1974-2005); institutional development principally drawn from Raëlian movement's institutional records; controversies principally drawn from contemporary journalistic and academic engagement"
-principal_text = "*The Book Which Tells the Truth* (1974); *Extra-Terrestrials Took Me to Their Planet* (1975/76); *Let's Welcome the Extra-terrestrials* (1979); *Sensual Meditation* (1980); *Geniocracy* (1978); *Yes to Human Cloning* (2000); *The Maitreya* (anthology); *Message from the Designers* (2005 consolidated edition)"
+type = "종교-철학 운동; 외계 창조자 틀에 기초한 명시적 무신론 종교; 대사관 프로젝트와 보다 넓은 물병자리 시대 준비를 위한 제도적 매개체"
+founded = "1974년 (MADECH); 1976년 (국제 라엘리안 운동)"
+founder = "라엘 (클로드 보릴롱, 1946년 출생)"
+basic_doctrine = "진보한 외계 문명인 엘로힘은 약 25,000년 전에 유전공학을 통해 지구상의 모든 생명을 창조했다; 인류는 이 기원을 인지하고 동맹의 공개적 귀환을 준비해야 한다; 대사관이 건설되어야 한다; 일곱 가지 새 계명이 물병자리 시대의 사회-정치 프로그램을 구조화한다"
+character = "무신론 종교; 초자연적 신성을 거부하면서도 경외감, 목적, 윤리적 헌신이라는 종교적 차원을 보존; UFO-종교 범주와 더 넓은 신종교 운동 지형 양쪽 안에서 구조적으로 독특함"
+principal_practices = "세포 계획 전수 (라엘리안 세례); 관능 명상; 텔레파시 접촉 (일요일 오전 11시); 연례 산상 집회; 접촉 기념일 기념 (4월 6일, 8월 6일, 10월 7일, 12월 13일)"
+institutional_structure = "일곱 단계의 가이드 위계; 정점에 가이드 중의 가이드(라엘); 클로네이드, 천사단, 외계 외교 접촉을 위한 동맹, 다양한 교육 및 외부 활동 기관 등 부속 조직"
+membership = "약 65,000–100,000명 (출처에 따라 수치가 다름); 약 90개국에 국가별 지부; 프랑스, 캐나다, 일본, 대한민국, 아프리카에서 가장 강함"
+distinguished_from = "보다 넓은 UFO-종교 범주(헤븐스 게이트, 에테리우스 협회, 우나리우스 등); 예언자-창시자를 가진 다른 신종교 운동(모르몬교, 사이언톨로지, 바하이); 보다 넓은 무신론적/과학적 종교(콩트의 인류교, 세속적 휴머니즘, 윤리문화); 라엘이라는 인물 자체(별도 항목에서 다룸)"
+status_in_source_material = "상당히 잘 문서화됨; 교리적 내용은 주로 라엘 원천 자료(1974–2005)에서 도출됨; 제도적 발전은 주로 라엘리안 운동의 제도적 기록에서 도출됨; 논란은 주로 동시대 저널리즘과 학술적 관여에서 도출됨"
+principal_text = "*진실을 말하는 책* (1974); *외계인들이 나를 그들의 행성으로 데려갔다* (1975/76); *외계인들을 환영하자* (1979); *관능 명상* (1980); *지니오크라시* (1978); *인간 복제에 찬성한다* (2000); *마이트레야* (선집); *설계자들로부터의 메시지* (2005년 통합판)"
 +++
 
-**Raëlism** is the religious-philosophical movement founded by **Raël** (Claude Vorilhon) following his reported December 13, 1973 contact with an officer of the Elohim alliance at the Puy-de-Lassolas volcanic crater near Clermont-Ferrand, France. The movement's institutional vehicle is the **International Raëlian Movement (IRM)**, founded in 1976 as the successor to the predecessor organization **MADECH** (*Mouvement pour l'Accueil des Élohim Créateurs de l'Humanité*, founded 1974). Raëlism is structurally distinctive within the broader religious-movement landscape in being **explicitly atheist** — rejecting supernatural deity in favor of the Elohim as advanced biological civilization that created humanity through genetic engineering approximately 25,000 years ago — while preserving substantial religious dimensions through the cumulative prophetic tradition, the Aquarian-age program, the embassy project, and various distinctive Raëlian practices. The movement has been characterized within mainstream new-religious-movement (NRM) scholarship as one of the most institutionally substantial UFO-religions, with national branches established in approximately ninety countries and reported membership figures ranging from approximately 65,000 to approximately 100,000 across the post-1976 period (figures vary by source and methodology).
+**라엘리즘**은 **라엘**(클로드 보릴롱)이 1973년 12월 13일 프랑스 클레르몽-페랑 인근 퓌-드-라솔라 화산 분화구에서 엘로힘 동맹의 한 장교와 접촉했다고 보고한 사건에 이어 창시한 종교-철학 운동입니다.{{ footnote(id="1") }} 이 운동의 제도적 매개체는 1976년에 선행 조직 **MADECH**(*Mouvement pour l'Accueil des Élohim Créateurs de l'Humanité*, 1974년 설립)의 후계로 창립된 **국제 라엘리안 운동(IRM)**입니다. 라엘리즘은 보다 넓은 종교 운동의 지형 안에서 구조적으로 독특한데, **명시적으로 무신론적**이라는 점에서 그러합니다 — 초자연적 신성을 거부하고 약 25,000년 전 유전공학을 통해 인류를 창조한 진보된 생물학적 문명으로서의 엘로힘을 그 자리에 두면서, 누적적 예언 전통, 물병자리 시대 프로그램, 대사관 프로젝트, 그리고 다양한 라엘 고유의 실천을 통해 실질적인 종교적 차원을 보존합니다. 이 운동은 주류 신종교 운동(NRM) 학계 안에서 가장 제도적으로 실질적인 UFO-종교 중 하나로 특징지어져 왔으며, 약 90개국에 국가별 지부가 설립되어 있고 1976년 이후 전 기간에 걸쳐 보고된 회원 수는 약 65,000명에서 약 100,000명에 이릅니다 (출처와 방법론에 따라 수치가 다름).{{ footnote(id="2") }}
 
-The doctrinal content of Raëlism centers on the broader framework that the source-material teaching has established: the Elohim civilization's specific creation work on Earth across the past 25,000 years, the cumulative prophetic tradition culminating in Raël's Aquarian-age mission, the seven new commandments specifying the political-social program for the Aquarian age (geniocracy, humanitarianism, world government, demilitarization, science as religion, telepathic cultivation, and the metaphysical clarifications), the embassy project as the operational center for the alliance's projected open return, and the broader Aquarian-age program of human transformation toward the projected Golden Age. The doctrinal framework is explicitly **atheist** in the specific sense that Raël has elaborated: there is no supernatural deity, no immortal soul, no metaphysical-theological apparatus of the sort the conventional religious traditions have developed; the religious dimensions of awe, purpose, and ethical commitment are preserved, but they are oriented toward the infinite cosmos itself, the Elohim creators (treated as advanced beings of human kind rather than as divinities), and the broader cosmic-creative cycle that humanity is projected to participate in.
+라엘리즘의 교리적 내용은 원천 자료의 가르침이 확립한 보다 넓은 틀을 중심으로 합니다. 즉, 지난 25,000년에 걸친 엘로힘 문명의 지구상 구체적 창조 작업, 라엘의 물병자리 시대 사명에서 정점에 이르는 누적적 예언 전통, 물병자리 시대를 위한 정치-사회 프로그램을 명시한 일곱 가지 새 계명(지니오크라시, 인도주의, 세계 정부, 비무장화, 종교로서의 과학, 텔레파시 함양, 형이상학적 명료화), 동맹의 예정된 공개적 귀환을 위한 작전적 중심으로서의 대사관 프로젝트, 그리고 예정된 {% wiki(slug="golden-age") %}황금시대{% end %}를 향한 인류 변혁의 보다 넓은 물병자리 시대 프로그램이 그것입니다. 이 교리적 틀은 라엘이 정교화한 구체적 의미에서 명시적으로 **무신론적**입니다. 초자연적 신성은 없으며, 불멸의 영혼도 없고, 전통 종교들이 발전시킨 종류의 형이상학적-신학적 장치도 없습니다. 경외감, 목적, 윤리적 헌신이라는 종교적 차원은 보존되지만, 그것들은 무한한 우주 자체, 엘로힘 창조자(신성이 아니라 인간 종족에 속하는 진보한 존재로 다루어짐), 그리고 인류가 참여할 것으로 예정된 보다 넓은 우주적-창조적 순환을 향해 정향됩니다.
 
-The institutional structure of Raëlism comprises the **seven-level hierarchy of Guides** (with Raël as **Guide of Guides** at the top), the various subsidiary organizations (Clonaid, the Order of Angels, the Alliance for Extraterrestrial Diplomatic Contact, and various educational and outreach bodies), and the broader operational infrastructure that has developed across the past five decades. The principal practices include the **cellular plan transmission** (the Raëlian baptismal ceremony, conducted at four annual dates corresponding to significant moments in the prophetic tradition — April 6, August 6, October 7, December 13), **sensual meditation** (the meditation practices designed by the Elohim for awakening the senses and achieving inner harmony), **telepathic contact** (the practice of mind-to-mind communication with the Elohim, particularly conducted on Sunday mornings at 11 AM), and various commemorations of contact anniversaries and broader institutional gatherings.
+라엘리즘의 제도적 구조는 **일곱 단계의 가이드 위계**(정점에 **가이드 중의 가이드** 라엘), 다양한 부속 조직(클로네이드, 천사단, 외계 외교 접촉을 위한 동맹, 다양한 교육 및 외부 활동 기관), 그리고 지난 반세기 동안 발전해 온 보다 넓은 작전적 기반으로 이루어집니다. 주요 실천에는 **세포 계획 전수**(라엘리안 세례 의식으로, 예언 전통의 의미 있는 순간에 해당하는 연 4회의 날짜에 거행됨 — 4월 6일, 8월 6일, 10월 7일, 12월 13일), **관능 명상**(감각을 깨우고 내적 조화에 이르도록 엘로힘이 설계한 명상 실천), **텔레파시 접촉**(특히 일요일 오전 11시에 거행되는 엘로힘과의 마음 대 마음의 소통 실천), 그리고 다양한 접촉 기념일 및 보다 넓은 제도적 집회 기념이 포함됩니다.
 
-The movement has produced substantial controversy across its half-century history. The **2002 Clonaid claim** — Brigitte Boisselier's December 27, 2002 announcement of the alleged birth of the first cloned human baby ("Eve"), never independently verified across the subsequent two decades — produced substantial international media attention and substantial subsequent scientific and journalistic skepticism. The **original Raëlian Symbol of Infinity** (a Star of David with central swastika) was modified in 1990 in Western branches to replace the central swastika with a galaxy-shaped swirl, in response to the symbol's complicated reception in post-Holocaust European-North American contexts. The **Order of Angels** (established 1998) has been the subject of substantial controversy regarding its specific practices and female-only membership structure. The **sensual meditation** practices have produced substantial mainstream criticism for their explicitly sexual content. The **French anti-cult organizational engagement** through MIVILUDES (*Mission interministérielle de vigilance et de lutte contre les dérives sectaires*) and UNADFI (*Union nationale des associations de défense des familles et de l'individu*) has produced substantial legal-political tension across the past several decades, with the Raëlian movement being classified as a problematic religious group in various official French-government documents.
+이 운동은 반세기에 걸친 역사에서 상당한 논란을 일으켜 왔습니다. **2002년 클로네이드 주장** — 2002년 12월 27일 브리지트 부아셀리에가 발표한 최초의 복제 인간 아기("이브")의 출생 주장으로, 이후 20년에 걸쳐 독립적으로 검증된 적이 없는 — 은 상당한 국제적 언론 주목과 이후의 상당한 과학적·저널리즘적 회의를 산출했습니다. **원래의 {% wiki(slug="raelian-symbol-of-infinity") %}라엘리안 무한대 상징{% end %}**({% wiki(slug="star-of-david") %}다윗의 별{% end %} 중앙에 만자무늬가 있는 형태)은 1990년 서구 지부에서, 홀로코스트 이후 유럽-북미 맥락에서 이 상징이 받은 복잡한 수용에 대응하여, 중앙의 만자무늬를 은하 모양의 소용돌이로 교체하도록 수정되었습니다. **천사단**(1998년 설립)은 그 구체적 실천과 여성 전용 회원 구조에 관한 상당한 논란의 대상이 되어 왔습니다. **관능 명상** 실천은 그 명시적으로 성적인 내용으로 인해 주류로부터 상당한 비판을 받아 왔습니다. **프랑스의 반(反)컬트 조직적 관여** — MIVILUDES(*Mission interministérielle de vigilance et de lutte contre les dérives sectaires*)와 UNADFI(*Union nationale des associations de défense des familles et de l'individu*)를 통한 — 는 지난 수십 년에 걸쳐 상당한 법적-정치적 긴장을 산출해 왔으며, 라엘리안 운동은 다양한 프랑스 정부 공식 문서에서 문제적인 종교 집단으로 분류되어 왔습니다.
 
-The reading is interpretive. Within mainstream NRM scholarship, Raëlism is treated as a substantial contemporary religious movement with substantial documented institutional development, substantial doctrinal articulation, and substantial sociological-anthropological interest. The principal scholars (Susan Palmer, Massimo Introvigne, James R. Lewis, George Chryssides, Mikael Rothstein, Christopher Partridge, and others) have produced substantial scholarly engagement that treats Raëlism seriously as religious phenomenon while not endorsing its specific historical claims about the December 13, 1973 contact event. Within mainstream theological tradition, Raëlism is broadly not engaged with as a continuation of any established theological tradition; the various religious traditions have either ignored Raëlism or treated it as a problematic movement outside legitimate religious tradition. Within the corpus's framework, Raëlism occupies the specific position of the **principal contemporary institutional vehicle** for the source-material teaching that the framework engages — neither identical with the broader Wheel of Heaven framework (which is the corpus's distinctive interpretive contribution) nor fully separable from it (since the source-material teaching that the framework engages is itself the foundational basis for both).
+이 독해는 해석적입니다. 주류 NRM 학계 안에서 라엘리즘은 상당히 잘 문서화된 제도적 발전, 상당한 교리적 정교화, 상당한 사회학적-인류학적 관심을 지닌 실질적인 동시대 종교 운동으로 다루어집니다. 주요 학자들(수전 파머, 마시모 인트로비녜, 제임스 R. 루이스, 조지 크리시디스, 미카엘 로트슈타인, 크리스토퍼 파트리지 등)은 1973년 12월 13일 접촉 사건에 관한 그 구체적인 역사적 주장을 지지하지 않으면서도 라엘리즘을 종교 현상으로서 진지하게 다루는 상당한 학술적 관여를 산출해 왔습니다. 주류 신학 전통 안에서 라엘리즘은 대체로 확립된 어떤 신학 전통의 연속으로도 관여되지 않으며, 다양한 종교 전통은 라엘리즘을 무시하거나 정당한 종교 전통 바깥의 문제적 운동으로 다루어 왔습니다. 코퍼스의 틀 안에서 라엘리즘은 이 틀이 관여하는 원천 자료 가르침의 **주요 동시대 제도적 매개체**라는 구체적 위치를 점합니다 — 보다 넓은 {% wiki(slug="wheel-of-heaven") %}Wheel of Heaven{% end %} 틀(코퍼스의 고유한 해석적 기여)과 동일하지도 않고, 그것으로부터 완전히 분리될 수도 없는 — 왜냐하면 이 틀이 관여하는 원천 자료의 가르침 자체가 양자 모두의 토대적 기반이기 때문입니다.
 
-## Etymology and naming
+## 어원과 명명
 
-The movement has several distinct designations operating across the source material and broader scholarly engagement.
+이 운동은 원천 자료와 보다 넓은 학술적 관여에서 작동하는 몇 가지 별개의 명칭을 가집니다.
 
-### "Raëlism" as the principal designation
+### 주요 명칭으로서의 "라엘리즘"
 
-The English term **"Raëlism"** is the principal designation in mainstream English-language scholarship and popular discourse. The construction follows the standard English pattern for religious-movement designations (Catholicism, Buddhism, Mormonism, Scientology, etc.), forming the abstract-noun designation from the founder's name. The diacritical mark (the umlaut on the *ë*) is preserved in scholarly usage and in the Raëlian movement's official communications, though it is sometimes dropped in popular usage (as **"Raelism"** without diacritical mark).
+영어 용어 **"Raëlism"(라엘리즘)**은 주류 영어권 학계와 대중 담론에서의 주요 명칭입니다. 이 구성은 종교 운동 명칭의 표준 영어 패턴(가톨릭교, 불교, 모르몬교, 사이언톨로지 등)을 따르며, 창시자의 이름으로부터 추상 명사 명칭을 형성합니다. 발음 부호(*ë* 위의 움라우트)는 학술적 용법과 라엘리안 운동의 공식 발표에서 보존되지만, 대중적 용법에서는 때때로 생략됩니다(발음 부호가 없는 **"Raelism"**으로).
 
-The movement's own institutional preference is generally to use **"the Raëlian Movement"** or **"the International Raëlian Movement"** rather than **"Raëlism"** as a doctrinal-philosophical designation. The movement's self-presentation generally treats "Raëlism" as an external scholarly designation while preserving the institutional self-designation as the principal internal terminology.
+운동 자체의 제도적 선호는 일반적으로 교리-철학적 명칭으로서 **"Raëlism"**보다는 **"라엘리안 운동"** 또는 **"국제 라엘리안 운동"**을 사용하는 것입니다. 운동의 자기 표현은 일반적으로 "Raëlism"을 외부의 학술적 명칭으로 다루면서 제도적 자기 명칭을 주요 내부 용어로 보존합니다.
 
-### "Raëlianism" as alternative designation
+### 대안 명칭으로서의 "Raëlianism"
 
-The term **"Raëlianism"** is sometimes used as an alternative scholarly designation, particularly in older scholarly literature. The construction follows a slightly different English pattern (with the *-ian* suffix rather than the simple *-ism* suffix), producing the alternative form. Contemporary scholarship has substantially settled on **"Raëlism"** as the principal designation, though both forms continue to appear in scholarly literature.
+용어 **"Raëlianism"**은 특히 더 오래된 학술 문헌에서 대안적인 학술적 명칭으로 때때로 사용됩니다. 이 구성은 약간 다른 영어 패턴을 따라(단순한 *-ism* 접미사 대신 *-ian* 접미사를 사용하여) 대안적 형태를 산출합니다. 동시대 학계는 주요 명칭으로 **"Raëlism"**으로 상당히 정착했지만, 두 형태 모두 학술 문헌에 계속 등장합니다.
 
-### Source-material variations
+### 원천 자료에서의 변이형
 
-The source material uses several distinct phrasings:
+원천 자료는 몇 가지 별개의 표현을 사용합니다.
 
-- **"The Raelian Movement"** — the source's principal designation in the 2005 *Message from the Designers* English edition
-- **"The Raelian religion"** — the source's specific phrasing in some contexts, particularly when registering the movement's distinctive religious-rather-than-purely-philosophical character
-- **"An atheist religion"** — Raël's specific characterization of the movement's doctrinal-philosophical content
+- **"The Raelian Movement"** — 2005년 *설계자들로부터의 메시지* 영어판에서 원천이 사용한 주요 명칭
+- **"The Raelian religion"** — 특히 운동이 순전히 철학적인 것이 아니라 종교적인 성격을 명시할 때 원천이 사용하는 구체적 표현
+- **"무신론 종교"** — 운동의 교리-철학적 내용에 대한 라엘의 구체적 특징짓기
 
-### Related institutional terminology
+### 관련 제도적 용어
 
-Several related institutional terms operate within the Raëlian framework:
+라엘리안 틀 안에서 작동하는 몇 가지 관련 제도적 용어가 있습니다.
 
-- **MADECH** — *Mouvement pour l'Accueil des Élohim Créateurs de l'Humanité* ("Movement for Welcoming the Elohim, Creators of Humanity"), the predecessor organization founded 1974
-- **IRM** — International Raëlian Movement, the successor and broader-scope organization founded 1976
-- **The Movement** — generic internal designation
-- **The Raëlian community** — referring to the broader membership rather than the institutional structure specifically
+- **MADECH** — *Mouvement pour l'Accueil des Élohim Créateurs de l'Humanité* ("인류의 창조자 엘로힘을 환영하기 위한 운동"), 1974년에 설립된 선행 조직
+- **IRM** — 국제 라엘리안 운동, 1976년에 설립된 후계이자 보다 넓은 범위의 조직
+- **"운동"(The Movement)** — 일반적인 내부 명칭
+- **"라엘리안 공동체"** — 제도적 구조보다는 보다 넓은 회원층을 지칭
 
-### Corpus-internal usage
+### 코퍼스 내부 사용
 
-The Wheel of Heaven corpus uses **Raëlism** as the principal designation for the religious-philosophical movement and **the International Raëlian Movement (IRM)** for the specific institutional entity. The corpus uses **the Raëlian source material** for the principal published texts (Raël's books and the Yahweh-delivered teaching they preserve) and **the Raëlian framework** for the doctrinal-philosophical content as distinct from the broader Wheel of Heaven framework that the corpus has developed.
+Wheel of Heaven 코퍼스는 종교-철학 운동에 대한 주요 명칭으로 **라엘리즘**을, 구체적인 제도적 실체에 대해서는 **국제 라엘리안 운동(IRM)**을 사용합니다. 코퍼스는 주요 출판된 텍스트(라엘의 저서와 그것들이 보존한 야훼 전달의 가르침)에 대해서는 **라엘 원천 자료**를, 코퍼스가 발전시킨 보다 넓은 Wheel of Heaven 틀과 구별되는 교리-철학적 내용에 대해서는 **라엘리안 틀**을 사용합니다.
 
-## Conventional understanding
+## 통상적 이해
 
-Mainstream conventional understanding of Raëlism has been substantially shaped by new-religious-movement (NRM) scholarship, with various other approaches contributing to the broader scholarly picture.
+라엘리즘에 대한 주류의 통상적 이해는 신종교 운동(NRM) 학계에 의해 상당히 형성되어 왔으며, 다양한 다른 접근들이 보다 넓은 학술적 그림에 기여해 왔습니다.
 
-### The new-religious-movement scholarly framework
+### 신종교 운동의 학술적 틀
 
-The principal mainstream scholarly framework for understanding Raëlism is the broader new-religious-movement (NRM) scholarly tradition that emerged across the 1970s-1990s as the principal academic framework for engaging with contemporary religious innovations.
+라엘리즘을 이해하기 위한 주요 주류 학술적 틀은 1970–1990년대에 걸쳐 동시대 종교 혁신과의 관여를 위한 주요 학술적 틀로 부상한 보다 넓은 신종교 운동(NRM) 학술 전통입니다.
 
-**The basic NRM framework** treats Raëlism as one specific instance of the broader category of new religious movements that emerged across the post-1960 period, with various common features (charismatic founder, distinctive doctrinal content, institutional development, controversial reception by mainstream religious and secular institutions) and various specific features (the extraterrestrial-creator framework, the explicit atheism, the institutional development pattern).
+**기본 NRM 틀**은 라엘리즘을 1960년 이후의 시기에 부상한 신종교 운동이라는 보다 넓은 범주의 한 구체적 사례로 다루며, 다양한 공통 특징(카리스마적 창시자, 독특한 교리적 내용, 제도적 발전, 주류 종교 및 세속 기관에 의한 논란의 수용)과 다양한 구체적 특징(외계 창조자 틀, 명시적 무신론, 제도적 발전 패턴)을 가집니다.
 
-**The principal NRM categorizations** of Raëlism include:
+라엘리즘에 대한 **주요 NRM 분류**에는 다음이 포함됩니다.
 
-- **UFO religion** — the broader category of religious movements drawing on UFO-contact material (Heaven's Gate, Aetherius Society, Unarius, various others)
-- **Atheist religion** — the broader category of religious movements operating without supernatural-deity content (various Buddhist traditions, Comtean Religion of Humanity, Secular Humanism, Ethical Culture, various others)
-- **New religious movement with prophet-founder** — the broader category of religious movements founded through specific charismatic-prophetic figures (Mormonism, Scientology, Bahá'í, various others)
-- **Postmodern religion** — the category emphasizing Raëlism's specific cultural-temporal positioning within the late-twentieth-century post-traditional religious landscape
+- **UFO 종교** — UFO 접촉 자료를 끌어들이는 종교 운동의 보다 넓은 범주(헤븐스 게이트, 에테리우스 협회, 우나리우스 등)
+- **무신론 종교** — 초자연적 신성 내용 없이 작동하는 종교 운동의 보다 넓은 범주(다양한 불교 전통, 콩트의 인류 {% wiki(slug="religion") %}종교{% end %}, 세속적 휴머니즘, 윤리문화 등)
+- **예언자-창시자를 가진 신종교 운동** — 구체적인 카리스마적-예언적 인물을 통해 창시된 종교 운동의 보다 넓은 범주(모르몬교, 사이언톨로지, 바하이 등)
+- **포스트모던 종교** — 20세기 후반의 전통 이후 종교 지형 안에서 라엘리즘의 구체적인 문화적-시간적 위치를 강조하는 범주
 
-The various categorizations are not mutually exclusive — Raëlism can be appropriately treated within multiple NRM categorizations simultaneously, with the specific categorizations producing different analytical framings of the movement's distinctive features.
+이 다양한 분류는 상호 배타적이지 않습니다 — 라엘리즘은 여러 NRM 분류 안에서 동시에 적절히 다루어질 수 있으며, 구체적 분류는 운동의 독특한 특징에 대한 서로 다른 분석적 프레이밍을 산출합니다.
 
-### The principal scholarly engagements
+### 주요 학술적 관여
 
-**Susan J. Palmer**'s *Aliens Adored: Raël's UFO Religion* (Rutgers University Press, 2004) is the principal book-length scholarly treatment, drawing on extensive ethnographic fieldwork. Palmer's broader subsequent work has continued to engage Raëlism across the post-2004 period, with various journal articles and book chapters producing the principal English-language scholarly engagement.
+**수전 J. 파머**의 *Aliens Adored: Raël's UFO Religion* (러트거스 대학교 출판부, 2004)은 광범위한 민족지적 현장 작업에 기반한 주요 단행본 학술 연구입니다. 파머의 이후 작업은 2004년 이후 시기 전반에 걸쳐 라엘리즘에 대한 관여를 지속해 왔으며, 다양한 학술지 논문과 단행본 챕터가 주요 영어권 학술적 관여를 산출합니다.
 
-**Massimo Introvigne** and the **Center for Studies on New Religions (CESNUR)** have produced substantial scholarly engagement with Raëlism through various conference papers, journal articles, and broader CESNUR institutional output. The CESNUR engagement is generally sympathetic-scholarly, treating the movement seriously while maintaining scholarly objectivity.
+**마시모 인트로비녜**와 **신종교연구센터(CESNUR)**는 다양한 컨퍼런스 논문, 학술지 논문, 보다 넓은 CESNUR 제도적 산출을 통해 라엘리즘에 대한 상당한 학술적 관여를 산출해 왔습니다. CESNUR의 관여는 대체로 우호적-학술적이며, 학술적 객관성을 유지하면서 운동을 진지하게 다룹니다.
 
-**George D. Chryssides** has produced scholarly engagement with Raëlism within his broader work on new-religious-movements, with various comparative analyses placing Raëlism within the broader NRM landscape.
+**조지 D. 크리시디스**는 신종교 운동에 관한 그의 보다 넓은 작업 안에서 라엘리즘에 대한 학술적 관여를 산출해 왔으며, 다양한 비교 분석이 라엘리즘을 보다 넓은 NRM 지형 안에 위치시킵니다.
 
-**Mikael Rothstein** has produced substantial scholarly engagement with Raëlism, particularly regarding the movement's specific hagiographical and textual practices.
+**미카엘 로트슈타인**은 특히 운동의 구체적인 성인전(聖人傳)적 텍스트적 실천에 관한 상당한 학술적 관여를 산출해 왔습니다.
 
-**Christopher Partridge**'s edited volume *UFO Religions* (Routledge, 2003) and his broader work on contemporary spirituality have produced substantial Raëlism engagement.
+**크리스토퍼 파트리지**의 편집서 *UFO Religions* (라우틀리지, 2003)와 동시대 영성에 관한 그의 보다 넓은 작업은 상당한 라엘리즘 관여를 산출해 왔습니다.
 
-**James R. Lewis** has edited several substantial collections engaging Raëlism, including *The Gods Have Landed: New Religions from Other Worlds* (SUNY Press, 1995) and the *Encyclopedic Sourcebook of UFO Religions* (Prometheus, 2003).
+**제임스 R. 루이스**는 *The Gods Have Landed: New Religions from Other Worlds* (SUNY 출판부, 1995)와 *Encyclopedic Sourcebook of UFO Religions* (프로메테우스, 2003)를 포함하여, 라엘리즘에 관여하는 몇몇 실질적인 모음집을 편집해 왔습니다.
 
-### The mainstream scholarly assessment
+### 주류 학술적 평가
 
-The mainstream scholarly assessment of Raëlism is generally one of **serious-engagement-with-skeptical-distance**:
+라엘리즘에 대한 주류 학술적 평가는 일반적으로 **회의적 거리를 둔 진지한 관여**입니다.
 
-- **Serious engagement** — treating the movement as a substantial religious phenomenon worthy of academic study, recognizing its institutional development, doctrinal articulation, and continuing operational pattern
-- **Skeptical distance** — not endorsing the framework's specific historical claims about the December 13, 1973 contact event, treating the historical-empirical claims as remaining unverified
-- **Sympathetic-scholarly orientation** — generally treating Raël as a sincere religious figure rather than as a deliberate fraud, recognizing the consistent five-decade pattern of behavior
+- **진지한 관여** — 운동을 학문적 연구의 가치가 있는 실질적 종교 현상으로 다루며, 그 제도적 발전, 교리적 정교화, 지속적인 작전 패턴을 인정함
+- **회의적 거리** — 1973년 12월 13일 접촉 사건에 관한 틀의 구체적 역사적 주장을 지지하지 않으며, 역사적-경험적 주장을 검증되지 않은 채로 다룸
+- **우호적-학술적 정향** — 일반적으로 라엘을 의도적 사기꾼이 아니라 진실된 종교적 인물로 다루며, 50년에 걸친 일관된 행동 패턴을 인정함
 
-The mainstream scholarly assessment is substantially distinct from the broader popular-journalistic treatment (which has generally been more skeptical-critical) and from the anti-cult-organizational treatment (which has generally been more hostile).
+주류 학술적 평가는 보다 넓은 대중-저널리즘적 다룸(일반적으로 더 회의적-비판적이었던)과 반(反)컬트 조직적 다룸(일반적으로 더 적대적이었던)으로부터 상당히 구별됩니다.
 
-### Legal-political treatment
+### 법적-정치적 다룸
 
-The legal-political treatment of Raëlism has varied substantially across different national contexts.
+라엘리즘에 대한 법적-정치적 다룸은 서로 다른 국가적 맥락에 걸쳐 상당히 다양하게 변해 왔습니다.
 
-**French legal-political context**. The French government has produced substantial engagement with Raëlism through the **Mission interministérielle de vigilance et de lutte contre les dérives sectaires (MIVILUDES)** and the **Union nationale des associations de défense des familles et de l'individu (UNADFI)** anti-cult organizations. The Raëlian movement has been classified in various French-government documents as a *secte* (the French legal-cultural category of problematic religious group), with various legal-political tensions across the past several decades. The 2001 *About-Picard Law* on anti-cult measures provided substantial subsequent legal-regulatory framework.
+**프랑스 법적-정치적 맥락**. 프랑스 정부는 **MIVILUDES**(*Mission interministérielle de vigilance et de lutte contre les dérives sectaires*)와 **UNADFI**(*Union nationale des associations de défense des familles et de l'individu*) 반컬트 조직을 통해 라엘리즘에 대한 상당한 관여를 산출해 왔습니다. 라엘리안 운동은 다양한 프랑스 정부 문서에서 *secte*(문제적 종교 집단에 대한 프랑스의 법적-문화적 범주)로 분류되어 왔으며, 지난 수십 년에 걸쳐 다양한 법적-정치적 긴장이 있어 왔습니다. 2001년의 *어바웃-피카르 법*(반컬트 조치에 관한)은 그 이후의 상당한 법적-규제적 틀을 제공했습니다.
 
-**North American legal-political context**. The Raëlian movement has operated with substantially less legal-political tension in North America, with the United States First Amendment and Canadian religious-freedom protections providing broader institutional protection. The 2002 Clonaid announcement produced substantial subsequent FDA and Health Canada engagement, with various regulatory questions regarding human-cloning research.
+**북미 법적-정치적 맥락**. 라엘리안 운동은 미국 수정헌법 제1조와 캐나다의 종교 자유 보호가 보다 넓은 제도적 보호를 제공하면서, 북미에서 실질적으로 더 적은 법적-정치적 긴장 속에서 운영되어 왔습니다. 2002년 클로네이드 발표는 FDA와 캐나다 보건부의 상당한 이후 관여를 산출했으며, 인간 복제 연구에 관한 다양한 규제적 질문이 제기되었습니다.
 
-**European legal-political context**. Various European countries have produced varied legal-political engagement with Raëlism, with the principal continental-European anti-cult organizational frameworks (Belgium's anti-cult parliamentary commission, German Sekten-Beauftragte, various others) producing substantial scholarly and political attention.
+**유럽 법적-정치적 맥락**. 다양한 유럽 국가가 라엘리즘에 대한 다양한 법적-정치적 관여를 산출해 왔으며, 주요 대륙 유럽 반컬트 조직 틀(벨기에의 반컬트 의회 위원회, 독일의 종파 담당관 등)이 상당한 학술적·정치적 주목을 산출해 왔습니다.
 
-**Asian legal-political context**. The Raëlian movement has substantial presence in Japan and South Korea, with the broader Asian religious-pluralism context producing different legal-political engagement than the European-anti-cult framework.
+**아시아 법적-정치적 맥락**. 라엘리안 운동은 일본과 대한민국에서 상당한 존재감을 가지며, 보다 넓은 아시아 종교적 다원주의 맥락이 유럽의 반컬트 틀과는 다른 법적-정치적 관여를 산출하고 있습니다.
 
-### The relationship to the corpus's framework
+### 코퍼스의 틀과의 관계
 
-The corpus's framework treats the substantial mainstream scholarly engagement with Raëlism as the specific contemporary academic context within which the movement operates, while engaging the source-material content directly rather than mediating it principally through the various scholarly approaches. The corpus's specific position is that mainstream scholarship has produced substantial engagement with the movement's *institutional development* and *sociological features*, but has produced limited engagement with the *content* of the source-material teaching at the operational level — the framework's specific treatment of Genesis 1, the cosmic-political reconstruction, the precessional-age framework, the broader cosmological content. The corpus's distinctive contribution is engagement with this content rather than with the movement's institutional development.
+코퍼스의 틀은 라엘리즘에 대한 주류의 상당한 학술적 관여를 운동이 작동하는 구체적인 동시대 학술적 맥락으로 다루면서, 다양한 학술적 접근을 주로 매개하기보다는 원천 자료의 내용에 직접 관여합니다. 코퍼스의 구체적 입장은 다음과 같습니다. 주류 학계는 운동의 *제도적 발전*과 *사회학적 특징*에 대한 상당한 관여를 산출해 왔지만, 작전적 수준에서 원천 자료 가르침의 *내용*과의 관여는 제한적으로 산출해 왔습니다 — 창세기 1장에 대한 틀의 구체적 다룸, 우주적-정치적 재구성, 세차 시대 틀, 보다 넓은 우주론적 내용이 그것입니다. 코퍼스의 독특한 기여는 운동의 제도적 발전이 아니라 이 내용과의 관여입니다.
 
-## In primary sources
+## 일차 자료에서
 
-The primary-source material on Raëlism is substantial and contemporary, comprising the Raëlian source-material teaching, Raël's autobiographical and explanatory writings, the Raëlian movement's institutional records, and various subsequent published materials.
+라엘리즘에 관한 일차 자료는 실질적이고 동시대적이며, 라엘 원천 자료의 가르침, 라엘의 자전적·해설적 저술, 라엘리안 운동의 제도적 기록, 그리고 다양한 후속 출판 자료로 구성됩니다.
 
-### The principal source-material books
+### 주요 원천 자료 저서
 
-The principal source material for Raëlism's doctrinal content is the body of Raël's published works:
+라엘리즘의 교리적 내용에 대한 주요 원천 자료는 라엘의 출판된 저작 전체입니다.
 
-- ***The Book Which Tells the Truth*** (1974) — recording the December 13, 1973 contact and the principal teaching
-- ***Extra-Terrestrials Took Me to Their Planet*** (1975/76) — recording the October 7, 1975 second contact and the visit to the Planet of the Eternals
-- ***Let's Welcome the Extra-terrestrials*** (1979) — including the previously-withheld biological-parentage disclosure and substantial subsequent material
-- ***Geniocracy*** (1978) — substantial elaboration of the first new commandment
-- ***Sensual Meditation*** (1980) — meditation practices designed by the Elohim
-- ***Yes to Human Cloning*** (2000) — engagement with the cloning question
-- ***The Maitreya*** (anthology) — collection of Raël's teachings across the post-1973 decades
-- ***Message from the Designers*** (2005 consolidated English edition) — principal contemporary access point to the principal source material
+- ***진실을 말하는 책*** (1974) — 1973년 12월 13일 접촉과 주요 가르침을 기록함{{ cite(id="the-book-which-tells-the-truth", text="[1]", title="Vorilhon (Raël), *The Book Which Tells the Truth* (1974) — 클레르몽-페랑에서의 첫 접촉") }}
+- ***외계인들이 나를 그들의 행성으로 데려갔다*** (1975/76) — 1975년 10월 7일의 두 번째 접촉과 영원자들의 행성 방문을 기록함{{ cite(id="extraterrestrials-took-me-to-their-planet", text="[2]", title="Vorilhon (Raël), *Extraterrestrials Took Me to Their Planet* (1976) — 페리고르 방문") }}
+- ***외계인들을 환영하자*** (1979) — 그 이전에 보류되었던 생물학적 친자 관계의 공개와 상당한 후속 자료를 포함함{{ cite(id="lets-welcome-the-extraterrestrials", text="[3]", title="Vorilhon (Raël), *Let's Welcome the Extraterrestrials* (1979) — 대사관 프로젝트와 물병자리 시대 전환") }}
+- ***{% wiki(slug="geniocracy") %}지니오크라시{% end %}*** (1978) — 첫 번째 새 계명의 상당한 정교화
+- ***관능 명상*** (1980) — 엘로힘이 설계한 명상 실천
+- ***인간 복제에 찬성한다*** (2000) — 복제 문제와의 관여
+- ***마이트레야*** (선집) — 1973년 이후 수십 년에 걸친 라엘의 가르침 모음
+- ***설계자들로부터의 메시지*** (2005년 통합 영어판) — 주요 원천 자료에 대한 동시대의 주요 접근 경로{{ cite(id="intelligent-design-message-from-the-designers", text="[4]", title="Vorilhon (Raël), *Intelligent Design: Message from the Designers* (2005 통합 영어판)") }}
 
-The combined source-material corpus has been translated into approximately thirty languages, with over two million copies sold worldwide as of the 2005 publication of the consolidated English edition.
+결합된 원천 자료 코퍼스는 약 30개 언어로 번역되었으며, 2005년 통합 영어판 출판 시점까지 전 세계에서 200만 부 이상이 판매되었습니다.
 
-### The institutional records
+### 제도적 기록
 
-The Raëlian movement's institutional records provide substantial documentary basis for the movement's institutional history:
+라엘리안 운동의 제도적 기록은 운동의 제도적 역사에 대한 상당한 문서적 기반을 제공합니다.
 
-- **Movement publications**: *Apocalypse* (international glossy magazine, semi-annual); *Contact* (weekly e-newsletter through raelianews.org)
-- **Institutional websites**: rael.org (principal Raëlian movement website), elohimembassy.org (embassy project), various subsidiary organization websites
-- **Annual seminars and gatherings**: Documented seminars across multiple continents, with substantial photographic and video records preserved
-- **Internal communications**: Various levels of internal Raëlian-movement communications across the institutional hierarchy
+- **운동 출판물**: *아포칼립스*(국제 광택 매거진, 반기별); *콘택트*(raelianews.org를 통한 주간 e-뉴스레터)
+- **제도적 웹사이트**: rael.org (주요 라엘리안 운동 웹사이트),{{ cite(id="rael-dot-org", text="[5]", title="rael.org — 국제 라엘리안 운동 공식 웹사이트") }} elohimembassy.org (대사관 프로젝트), 다양한 부속 조직 웹사이트
+- **연례 세미나 및 집회**: 여러 대륙에 걸친 문서화된 세미나로, 상당한 사진과 영상 기록이 보존되어 있음
+- **내부 통신**: 제도적 위계에 걸친 다양한 수준의 라엘리안 운동 내부 통신
 
-### The 1990 symbol modification correspondence
+### 1990년 상징 수정 서신
 
-The 1990 modification of the Raëlian Symbol of Infinity in Western branches is documented through specific correspondence between Raël and the Elohim, recorded in the source material. The correspondence registers:
+1990년 서구 지부에서 라엘리안 {% wiki(slug="infinity") %}무한대{% end %} 상징을 수정한 것은 원천 자료에 기록된, 라엘과 엘로힘 사이의 구체적인 서신을 통해 문서화되어 있습니다. 이 서신에는 다음이 기록되어 있습니다.
 
-- The original symbol's specific meaning (Star of David representing infinity in space, central swastika representing infinity in time, with the broader symbolic content of cosmic infinity)
-- The Holocaust-related complications of the swastika's reception in post-1945 Western contexts
-- The 1990 modification in Western branches to replace the central swastika with a galaxy-shaped swirl
-- The continuing original symbol use in Asia where the swastika appears in Buddhist temples without the Western political-historical associations
+- 원래 상징의 구체적 의미 (공간상의 무한대를 나타내는 다윗의 별, 시간상의 무한대를 나타내는 중앙의 만자무늬, 그리고 우주적 무한대라는 보다 넓은 상징적 내용)
+- 1945년 이후 서구 맥락에서 만자무늬가 받은 수용과 관련된 홀로코스트와 연관된 복잡성
+- 중앙의 만자무늬를 은하 모양의 소용돌이로 교체한 1990년 서구 지부의 수정
+- 만자무늬가 서구의 정치적-역사적 연관 없이 불교 사찰에 등장하는 아시아에서는 원래 상징의 사용이 지속됨
 
-### The 1997 December 13 message
+### 1997년 12월 13일 메시지
 
-The December 13, 1997 telepathic message from Yahweh provides specific institutional-doctrinal content regarding the Raëlian movement's relationship to the broader Aquarian-age program. The message's principal content (treated more fully under the [Embassy](../embassy/) entry):
+1997년 12월 13일 야훼로부터의 텔레파시 메시지는 라엘리안 운동과 보다 넓은 물병자리 시대 프로그램의 관계에 관한 구체적인 제도-교리적 내용을 제공합니다. 메시지의 주요 내용은 [대사관](../embassy/) 항목에서 더 충분히 다루어집니다.
 
-- The Raëlians as "the new Chosen People" with a "new Promised Land" projected
-- The embassy project's authorization to seek extraterritorial status from "all nations on Earth"
-- The "Great Return" framing of the alliance's projected open return
+- 라엘리안들이 예정된 "새 약속의 땅"을 가진 "새로운 선민"이라는 점
+- "지구상의 모든 국가"로부터 치외법권 지위를 추구하기 위한 대사관 프로젝트의 권한 부여
+- 동맹의 예정된 공개적 귀환을 "{% wiki(slug="great-return") %}대(大)귀환{% end %}"이라는 틀로 명명한 것
 
-### Various subsequent communications
+### 다양한 후속 통신
 
-Various subsequent Raëlian-movement communications across the post-1997 period provide continuing documentary record of the movement's institutional development and doctrinal articulation. The principal subsequent communications include:
+1997년 이후 시기에 걸친 다양한 라엘리안 운동 통신은 운동의 제도적 발전과 교리적 정교화에 대한 지속적인 문서적 기록을 제공합니다. 주요 후속 통신에는 다음이 포함됩니다.
 
-- The 2005 *Message from the Designers* publication providing the contemporary consolidated English edition
-- Various Raël public lectures and seminars across the post-1973 period
-- Various institutional announcements regarding the embassy project, Clonaid, the Order of Angels, and other organizational developments
-- The 2024 Memorandum of Collaboration announcement regarding the embassy project's host-country negotiations
+- 동시대의 통합 영어판을 제공하는 2005년 *설계자들로부터의 메시지* 출판
+- 1973년 이후 시기에 걸친 라엘의 다양한 공개 강연과 세미나
+- 대사관 프로젝트, 클로네이드, 천사단, 그리고 다른 조직적 발전에 관한 다양한 제도적 발표
+- 대사관 프로젝트의 주최국 협상에 관한 2024년 협력 양해각서 발표
 
-## The concept's content
+## 개념의 내용
 
-### The doctrinal framework
+### 교리적 틀
 
-The doctrinal framework of Raëlism comprises several interrelated components:
+라엘리즘의 교리적 틀은 몇 가지 상호 연관된 구성 요소로 이루어집니다.
 
-**The Elohim creation framework**. The Elohim civilization, an advanced biological civilization 25,000 years in advance of contemporary human science, created all life on Earth through deliberate genetic engineering across the past 25,000 years. The Hebrew Bible's Genesis 1 creation narrative preserves substantively accurate memory of this creation work in pre-scientific vocabulary; the elohim of the Hebrew text refer to multiple individuals (the Elohim civilization) rather than to a single deity. The Elohim are not gods in any supernatural sense; they are advanced beings of human kind, themselves created by a prior civilization in the broader Cosmic Chain.
+**엘로힘 창조 틀**. 동시대 인간 과학보다 25,000년 앞선 진보한 생물학적 문명인 엘로힘 문명은 지난 25,000년에 걸쳐 의도적인 유전공학을 통해 지구상의 모든 생명을 창조했습니다. 히브리어 {% wiki(slug="bible") %}성경{% end %}의 창세기 1장 창조 서사는 이 창조 작업을 전(前)과학적 어휘로 실질적으로 정확하게 보존하고 있으며, 히브리어 본문의 엘로힘은 단일한 신성이 아니라 여러 개체(엘로힘 문명)를 가리킵니다.{{ cite(id="genesis", text="[6]", title="창세기 1 — 엘로힘 문명의 작업으로 읽힌 복수 주어 창조 기사") }} 엘로힘은 어떤 초자연적 의미에서도 신이 아닙니다. 그들은 인간 종족에 속하는 진보한 존재들이며, 그들 자체도 보다 넓은 우주적 사슬 안의 선행 문명에 의해 창조되었습니다.
 
-**The cumulative prophetic tradition**. The alliance has sent approximately forty prophets across human history, with each prophet appropriate to the specific cultural-temporal moment at which they appeared and each contributing to the cumulative preparation of humanity for the Aquarian-age revelation. Moses, Jesus, Muhammad, Buddha, Zarathustra, and various other principal prophetic figures across world religions are read as alliance-appointed teachers who delivered substantively accurate content within the cultural-religious vocabularies available to them. Raël is the last of this cumulative prophetic tradition, the specific Aquarian-age figure whose mission delivers the accurate account of human origins to a scientifically mature humanity.
+**누적적 예언 전통**. 동맹은 인류 역사 전반에 걸쳐 약 40명의 예언자를 보냈으며, 각 예언자는 자신이 등장한 구체적인 문화적-시간적 순간에 적합하고, 각자는 물병자리 시대 계시를 위한 인류의 누적적 준비에 기여했습니다. 모세, 예수, 무함마드, 부처, 조로아스터, 그리고 세계 종교에 걸친 다양한 주요 예언자들은 그들에게 가용한 문화-종교적 어휘 안에서 실질적으로 정확한 내용을 전달한 동맹 임명 교사로 읽힙니다. 라엘은 이 누적적 예언 전통의 마지막이며, 과학적으로 성숙한 인류에게 인간 기원의 정확한 설명을 전달하는 사명을 가진 구체적인 물병자리 시대 인물입니다.
 
-**The seven new commandments**. The alliance has proposed for the Aquarian age a specific political-religious program comprising seven specific commandments (treated in detail below). The commandments structure the broader Aquarian-age program of human transformation toward the projected Golden Age.
+**일곱 가지 새 계명**. 동맹은 물병자리 시대를 위해 일곱 가지 구체적 계명으로 이루어진 구체적 정치-종교 프로그램을 제안해 왔습니다(아래에서 상세히 다룸). 계명들은 예정된 황금시대를 향한 인류 변혁의 보다 넓은 물병자리 시대 프로그램을 구조화합니다.
 
-**The embassy project**. The alliance requires a designated physical structure with extraterritorial status as the operational location for the projected open return. The embassy specifications and the broader embassy project are treated more fully under the [Embassy](../embassy/) entry.
+**대사관 프로젝트**. 동맹은 예정된 공개적 귀환의 작전적 위치로서 치외법권 지위를 가진 지정된 물리적 구조물을 요구합니다. 대사관의 사양과 보다 넓은 대사관 프로젝트는 [대사관](../embassy/) 항목에서 더 충분히 다루어집니다.
 
-**The Aquarian-age framework**. The current cosmic moment is the Aquarian-age opening (1946 onward), the specific precessional age during which humanity will receive the alliance's open return and transition from created to creator civilization. The broader Aquarian-age program operates across the centuries of the age's full development.
+**물병자리 시대 틀**. 현재의 우주적 순간은 물병자리 시대의 개막기(1946년 이후)이며, 인류가 동맹의 공개적 귀환을 받고 피조 문명에서 창조 문명으로 이행하게 될 구체적인 세차 시대입니다. 보다 넓은 물병자리 시대 프로그램은 그 시대의 완전한 발전이 이루어지는 수세기에 걸쳐 작동합니다.
 
-**The cosmic-chain context**. The broader cosmological context within which all of the above operates is the Cosmic Chain — the indefinitely extended sequence of created-and-creating civilizations across cosmic time. The detailed treatment lives in the [Cosmic Chain](../cosmic-chain/) entry.
+**우주적 사슬 맥락**. 위의 모든 것이 작동하는 보다 넓은 우주론적 맥락은 우주적 사슬입니다 — 우주적 시간에 걸친, 창조되고 또 창조하는 문명들의 무기한 연장되는 연쇄입니다. 상세한 다룸은 [우주적 사슬](../cosmic-chain/) 항목에 있습니다.
 
-### The atheist-religion framing
+### 무신론 종교라는 프레이밍
 
-Raëlism's distinctive **atheist religion** framing operates through several specific features:
+라엘리즘의 독특한 **무신론 종교** 프레이밍은 몇 가지 구체적 특징을 통해 작동합니다.
 
-**Rejection of supernatural deity**. There is no God in any traditional theological sense. The Hebrew Bible's various references to "God" (and the parallel references in other religious traditions) preserve substantively accurate memory of contact with the Elohim alliance, but the Elohim are not divine in any supernatural sense; they are advanced biological beings of human kind.
+**초자연적 신성의 거부**. 어떤 전통적인 신학적 의미에서도 신은 없습니다. 히브리어 성경의 "하나님"에 대한 다양한 언급(그리고 다른 종교 전통에서의 평행 언급)은 엘로힘 동맹과의 접촉에 대한 실질적으로 정확한 기억을 보존하지만, 엘로힘은 어떤 초자연적 의미에서도 신적이지 않습니다. 그들은 인간 종족에 속하는 진보한 생물학적 존재들입니다.
 
-**Rejection of immortal soul**. There is no immortal soul that survives the death of the body. The principle of life is the genetic code, which is itself a physical structure preserved in the biological matter of each organism. The Elohim's biotechnology can preserve and reconstruct individual identity through cellular-plan transmission and subsequent re-creation, but this preservation is a technical operation within the ordinary material world rather than a metaphysical-supernatural process.
+**불멸의 영혼의 거부**. 신체의 죽음 후에도 생존하는 불멸의 영혼은 없습니다. 생명의 원리는 유전 부호이며, 그것은 그 자체로 각 유기체의 생물학적 물질에 보존된 물리적 구조입니다. 엘로힘의 생명공학은 세포 계획 전수와 이후의 재창조를 통해 개체의 정체성을 보존하고 재구성할 수 있지만, 이 보존은 형이상학적-초자연적 과정이 아니라 평범한 물질 세계 내부의 기술적 작전입니다.
 
-**Rejection of original sin and metaphysical taint**. There is no original sin, no inherited guilt, no metaphysical taint requiring ritual purification. The moral and psychological structures the traditional religions developed to address these supposed conditions are unnecessary on the Raëlian framework.
+**원죄와 형이상학적 오염의 거부**. 원죄도, 상속된 죄책도, 의식적 정화를 요구하는 형이상학적 오염도 없습니다. 전통 종교들이 이러한 가정된 조건을 다루기 위해 발전시킨 도덕적·심리적 구조는 라엘리안 틀에서는 불필요합니다.
 
-**Preservation of religious dimensions**. Despite the rejection of supernatural-deity content, Raëlism preserves substantial religious dimensions:
+**종교적 차원의 보존**. 초자연적 신성 내용을 거부함에도 불구하고, 라엘리즘은 실질적인 종교적 차원을 보존합니다.
 
-- **Awe**: The infinite cosmos itself is the proper object of religious awe, with substantial implications for the broader Raëlian spiritual orientation
-- **Purpose**: The cosmic-creative cycle and humanity's projected role within it provide substantial purposive content
-- **Ethical commitment**: The seven new commandments and the broader Aquarian-age program provide substantial ethical content
-- **Ritual practice**: The various Raëlian practices (cellular-plan transmission, sensual meditation, telepathic contact, annual gatherings, contact-anniversary commemorations) provide substantial ritual structure
-- **Community**: The Raëlian community provides substantial religious-community dimensions
+- **경외**: 무한한 우주 자체가 종교적 경외의 적절한 대상이며, 이는 보다 넓은 라엘리안 영적 정향에 대한 실질적 함의를 가집니다
+- **목적**: 우주적-창조적 순환과 그 안에서 인류가 차지하는 예정된 역할은 실질적인 목적론적 내용을 제공합니다
+- **윤리적 헌신**: 일곱 가지 새 계명과 보다 넓은 물병자리 시대 프로그램은 실질적인 윤리적 내용을 제공합니다
+- **의례적 실천**: 다양한 라엘리안 실천(세포 계획 전수, 관능 명상, 텔레파시 접촉, 연례 집회, 접촉 기념일 기념)은 실질적인 의례적 구조를 제공합니다
+- **공동체**: 라엘리안 공동체는 실질적인 종교 공동체의 차원을 제공합니다
 
-The atheist-religion framing is structurally distinctive within the broader religious-movement landscape — placing Raëlism within a specific subset of religious movements that operate without supernatural-deity content while preserving substantial religious dimensions. The detailed comparative treatment lives in the *Comparative observations* section below.
+무신론 종교라는 프레이밍은 보다 넓은 종교 운동의 지형 안에서 구조적으로 독특합니다 — 라엘리즘을, 초자연적 신성 내용 없이 작동하면서도 실질적 종교적 차원을 보존하는 종교 운동의 특정 부분 집합 안에 위치시키는 것입니다. 상세한 비교적 다룸은 아래의 *비교적 관찰* 절에 있습니다.
 
-### The seven new commandments
+### 일곱 가지 새 계명
 
-The seven new commandments structure the broader Aquarian-age political-religious program. The detailed treatment of each commandment lives in the [Age of Aquarius](../timeline/age-of-aquarius/) entry; the Raëlism entry's specific contribution is registering the commandments within the broader doctrinal framework:
+일곱 가지 새 계명은 보다 넓은 물병자리 시대 정치-종교 프로그램을 구조화합니다. 각 계명에 대한 상세한 다룸은 [물병자리 시대](../timeline/age-of-aquarius/) 항목에 있습니다. 라엘리즘 항목의 구체적 기여는 계명을 보다 넓은 교리적 틀 안에 등록하는 것입니다.
 
-**1. Geniocracy** — selective democracy with intelligence-based eligibility for office (50% above mean) and voting (10% above mean); positioned as long-term developmental target rather than immediate institutional change
+**1. 지니오크라시** — 공직 자격에 대한 지능 기반 기준(평균 이상 50%)과 투표 자격(평균 이상 10%)을 가진 선택적 민주주의. 즉각적인 제도적 변화라기보다 장기적 발전 목표로 자리매김됨{{ footnote(id="3") }}
 
-**2. Humanitarianism** — replacement of property ownership with renting for finite terms (49 years, drawn from Leviticus 25 jubilee pattern); elimination of inheritable wealth while preserving individual incentive structure
+**2. {% wiki(slug="humanitarianism") %}인도주의{% end %}** — 유한한 기간(49년, {% libref(book="leviticus", chapter=25) %}레위기 25장{% end %} 희년 패턴에서 도출됨)의 임차로 재산 소유를 대체. 개인 인센티브 구조를 보존하면서 상속 가능한 부를 제거함
 
-**3. World government** — unified planetary authority with single global currency, single common second language alongside local mother tongues, single coordinating framework for planetary-level issues
+**3. 세계 정부** — 단일 세계 통화, 지역 모국어와 함께 사용되는 단일 공통 제2언어, 행성 규모 문제에 대한 단일 조정 틀을 가진 통일된 행성 권위
 
-**4. Demilitarization** — abolition of military conscription, professional armies put at the service of the public, suppression of inter-state war
+**4. 비무장화** — 군 징집의 폐지, 직업 군인을 공중의 봉사에 둘 것, 국가 간 전쟁의 억제
 
-**5. Science as religion** — orientation of religious dimensions toward scientific understanding rather than supernatural-theological content
+**5. 종교로서의 과학** — 종교적 차원을 초자연적-신학적 내용보다는 과학적 이해를 향해 정향함
 
-**6. Telepathic cultivation** — systematic development of latent telepathic capacity in children through meditation practices and educational programs
+**6. 텔레파시 함양** — 명상 실천과 교육 프로그램을 통해 어린이들의 잠재적 텔레파시 능력을 체계적으로 발전시킴
 
-**7. Metaphysical clarifications** — rejection of immortal soul, original sin, metaphysical taint requiring ritual purification
+**7. 형이상학적 명료화** — 의식적 정화를 요구하는 불멸의 영혼, 원죄, 형이상학적 오염의 거부
 
-The commandments are presented as the broader directional orientation the Aquarian age is to develop in across the centuries of the age's full implementation, rather than as immediate institutional mandates.
+계명은 즉각적인 제도적 명령으로서가 아니라, 물병자리 시대가 그 시대의 완전한 실행이 이루어지는 수세기에 걸쳐 발전시켜 갈 보다 넓은 방향성으로 제시됩니다.
 
-### The principal practices
+### 주요 실천
 
-Raëlism's principal practices comprise several distinctive elements:
+라엘리즘의 주요 실천은 몇 가지 독특한 요소로 구성됩니다.
 
-**Cellular plan transmission (Raëlian baptism)**. The principal Raëlian initiatic ritual, conducted at four annual dates corresponding to significant moments in the prophetic tradition: April 6 (the source's specified date for various commemorations), August 6 (the Hiroshima atomic bombing — the source's specific identification of the Aquarian-age opening's acoustic signature), October 7 (the anniversary of the 1975 second contact at Roc Plat), December 13 (the anniversary of the 1973 first contact at Puy-de-Lassolas).
+**세포 계획 전수 (라엘리안 세례)**. 예언 전통의 의미 있는 순간에 해당하는 연 4회의 날짜에 거행되는 주요 라엘리안 입문 의식입니다. 4월 6일(원천이 다양한 기념을 위해 지정한 날짜), 8월 6일(히로시마 원자 폭격 — 원천이 물병자리 시대 개막의 청각적 신호로 구체적으로 식별한 것), 10월 7일(1975년 록 플랫에서의 두 번째 접촉 기념일), 12월 13일(1973년 퓌-드-라솔라에서의 첫 접촉 기념일).
 
-The ceremony's specific content: a Guide places his or her hand on the new Raëlian's forehead, with water serving as the electrical-conductive medium between the Guide's hand and the new Raëlian's forehead. The source's specific framing: every individual has a cellular chromosomic plan specific to him or her, vibrating with its own electromagnetic spectral emission; a Guide whose own frequency has been noted by the Elohim during his or her initiation can act as a relay between the new Raëlian and the Elohim's satellite which records every human's thought; the ceremony indicates to the Elohim that the new Raëlian has both understood the messages and lives by them.
+이 의식의 구체적 내용: 가이드는 자신의 손을 새 라엘리안의 이마에 얹고, 물이 가이드의 손과 새 라엘리안의 이마 사이의 전기 전도 매체 역할을 합니다. 원천의 구체적 프레이밍은 다음과 같습니다. 모든 개인은 그 또는 그녀에게 고유한 세포 염색체 계획을 가지며, 자체의 전자기적 스펙트럼 방출과 함께 진동합니다. 자신의 입문 동안 엘로힘에 의해 자신의 주파수가 기록된 가이드는 새 라엘리안과, 모든 인간의 생각을 기록하는 엘로힘의 위성 사이의 중계자 역할을 할 수 있습니다. 이 의식은 새 라엘리안이 메시지를 이해했고 그에 따라 살아가고 있음을 엘로힘에게 알립니다.
 
-The ceremony's broader operational significance is the formal registration of the individual's genetic identity in the alliance's records, providing the basis for potential subsequent re-creation on the Planet of the Eternals.
+이 의식의 보다 넓은 작전적 의의는, 영원자들의 행성에서 잠재적인 이후 재창조의 기반을 제공하는, 동맹의 기록에 개인의 유전적 정체성을 공식적으로 등록하는 것입니다.
 
-**Forehead-bone preservation**. Following death, the Raëlian's forehead bone is requested to be sent to the Guide of Guides for preservation. The source's specific framing: the cellular-plan transmission is a recognition of the Elohim as creators while alive; the forehead-bone preservation is a recognition after death; together they constitute "recognition in life as in death."
+**이마 뼈 보존**. 사망 후, 라엘리안의 이마 뼈를 가이드 중의 가이드에게 보내 보존하도록 요청됩니다. 원천의 구체적 프레이밍은 다음과 같습니다. 세포 계획 전수는 살아 있는 동안 엘로힘을 창조자로 인정하는 것이고, 이마 뼈 보존은 사후의 인정입니다. 두 가지가 함께 "삶에서와 같이 죽음에서의 인정"을 이룹니다.
 
-The forehead-bone preservation has produced substantial logistical and legal complications, with various Raëlian wills and testaments specifying the request, with various legal jurisdictions producing different outcomes regarding the request's enforceability.
+이마 뼈 보존은 상당한 물류적·법적 복잡성을 산출해 왔으며, 다양한 라엘리안의 유언과 유서가 이 요청을 명시하고 있고, 다양한 법적 관할권이 이 요청의 집행 가능성에 관해 서로 다른 결과를 산출해 왔습니다.
 
-**Sensual meditation**. The meditation practices designed by the Elohim for awakening the senses and achieving inner harmony. The detailed practice content is preserved in *Sensual Meditation* (1980), with substantial subsequent elaboration through Raëlian seminars and publications. The practices include various specific meditation techniques, body-awareness exercises, and broader sensory-cultivation content.
+**관능 명상**. 감각을 깨우고 내적 조화에 이르도록 엘로힘이 설계한 명상 실천. 상세한 실천 내용은 *관능 명상* (1980)에 보존되어 있으며, 라엘리안 세미나와 출판물을 통한 상당한 후속 정교화가 있습니다. 이 실천은 다양한 구체적 명상 기법, 신체 인식 운동, 그리고 보다 넓은 감각 함양 내용을 포함합니다.
 
-The sensual meditation practices have produced substantial mainstream criticism for their explicitly sexual content, with various journalistic and broader public engagement focusing on this dimension. The detailed treatment of the various controversies lives below.
+관능 명상 실천은 그 명시적으로 성적인 내용으로 인해 주류로부터 상당한 비판을 받아 왔으며, 다양한 저널리즘적·대중적 관여가 이 차원에 초점을 맞춰 왔습니다. 다양한 논란에 대한 상세한 다룸은 아래에 있습니다.
 
-**Telepathic contact**. The practice of mind-to-mind communication with the Elohim, particularly conducted on Sunday mornings at 11 AM (the specific time identified by the source for the regular telepathic-contact practice). The practice involves specific meditative-cognitive techniques designed to facilitate the telepathic connection.
+**텔레파시 접촉**. 엘로힘과의 마음 대 마음의 소통 실천으로, 특히 일요일 오전 11시(원천이 정기적인 텔레파시 접촉 실천을 위해 식별한 구체적 시간)에 거행됩니다. 이 실천은 텔레파시 연결을 촉진하도록 설계된 구체적인 명상-인지적 기법을 포함합니다.
 
-**Annual mountain gathering**. The source's specification for the annual gathering on a mountain near the residence (the embassy site once constructed) at which Raëlians from around the world assemble to think intensely about the alliance and hope for its coming. The annual gatherings have been conducted at various locations across the post-1973 period, with the embassy's projected completion enabling the future operationalization of the source's specific specification.
+**연례 산상 집회**. 거주지(일단 건설되면 대사관 부지)에 인접한 산에서 거행되는 연례 집회에 대한 원천의 사양으로, 전 세계의 라엘리안들이 동맹에 관해 강도 있게 생각하고 그것의 도래를 희망하기 위해 모입니다. 연례 집회는 1973년 이후 시기에 걸쳐 다양한 장소에서 거행되어 왔으며, 대사관의 예정된 완공으로 원천의 구체적 사양의 미래 작전화가 가능해질 것입니다.
 
-**Contact-anniversary commemorations**. The four annual commemoration dates (April 6, August 6, October 7, December 13) provide the principal Raëlian liturgical-calendrical structure, with substantial commemorative gatherings at these dates across the global Raëlian movement.
+**접촉 기념일 기념**. 네 개의 연례 기념일(4월 6일, 8월 6일, 10월 7일, 12월 13일)은 주요 라엘리안 전례적-역법적 구조를 제공하며, 이 날짜에 전 세계 라엘리안 운동에 걸친 상당한 기념 집회가 있습니다.
 
-### The institutional structure
+### 제도적 구조
 
-The Raëlian institutional structure comprises several interrelated components:
+라엘리안 제도적 구조는 몇 가지 상호 연관된 구성 요소로 이루어집니다.
 
-**The seven-level hierarchy of Guides**. The Raëlian movement's principal institutional hierarchy comprises seven levels:
+**일곱 단계의 가이드 위계**. 라엘리안 운동의 주요 제도적 위계는 일곱 단계로 이루어집니다.
 
-- **Level 0**: Trainee (probationary)
-- **Level 1**: Assistant Guide
-- **Level 2**: Probationary Guide
-- **Level 3**: Priest
-- **Level 4**: Bishop
-- **Level 5**: Priest of Priests / Priest-Guide
-- **Level 6**: Guide of Guides (Raël)
+- **레벨 0**: 수습 (수련생)
+- **레벨 1**: 보조 가이드
+- **레벨 2**: 수련 가이드
+- **레벨 3**: 사제
+- **레벨 4**: 주교
+- **레벨 5**: 사제들의 사제 / 사제-가이드
+- **레벨 6**: 가이드 중의 가이드 (라엘){{ footnote(id="4") }}
 
-The hierarchy's specific advancement criteria involve various combinations of doctrinal study, sensual meditation practice, institutional service, and broader spiritual-developmental progression. The advancement is determined by Raël personally for the higher levels and by senior Guides for the lower levels.
+위계의 구체적 승진 기준은 교리 학습, 관능 명상 실천, 제도적 봉사, 그리고 보다 넓은 영적-발달적 진보의 다양한 조합을 포함합니다. 승진은 더 높은 단계에 대해서는 라엘이 직접 결정하고, 더 낮은 단계에 대해서는 상급 가이드가 결정합니다.
 
-**The national branches**. National Raëlian movement branches have been established in approximately ninety countries, with substantial variation in size and organizational development across countries. The principal national branches include France, Canada, Japan, South Korea, and various African countries (where the movement has been particularly strong across the post-1990s period).
+**국가별 지부**. 국가별 라엘리안 운동 지부는 약 90개국에 설립되어 있으며, 국가별로 규모와 조직적 발전에 상당한 차이가 있습니다. 주요 국가별 지부에는 프랑스, 캐나다, 일본, 대한민국, 그리고 다양한 아프리카 국가(1990년대 이후 시기 전반에 걸쳐 운동이 특히 강했던)가 포함됩니다.
 
-**The subsidiary organizations**. Several substantial subsidiary organizations operate within the broader Raëlian institutional framework:
+**부속 조직**. 보다 넓은 라엘리안 제도적 틀 안에서 몇 가지 실질적인 부속 조직이 운영됩니다.
 
-- **Clonaid** — established 1997 by Raël, subsequently transferred to Brigitte Boisselier's independent scientific leadership; the principal cloning-related operational vehicle, with the controversial 2002 announcement of the alleged cloned baby "Eve"
-- **The Order of Angels** — established 1998, women dedicated specifically to welcoming the Elohim; substantial controversy regarding the order's specific practices and female-only membership structure
-- **The Alliance for Extraterrestrial Diplomatic Contact (AEDC)** — established 2021, international non-profit organization of politicians, diplomats, and government officials supporting the embassy project
-- **The Raelian Foundation** — broader institutional umbrella for various educational and outreach activities
-- **Various educational and outreach organizations** — including Apostasynow.org (the online apostasy resource), Subversions.com (Raël's broader cultural-political commentary), various other specific organizations
+- **클로네이드** — 1997년 라엘에 의해 설립되었고 이후 브리지트 부아셀리에의 독립적 과학 지도부로 이전됨. 주요 복제 관련 작전 매개체로, 2002년에 알려진 복제 아기 "이브"의 논란의 발표가 있었음
+- **천사단** — 1998년에 설립됨. 엘로힘을 환영하는 데 특별히 헌신하는 여성들로, 이 단의 구체적 실천과 여성 전용 회원 구조에 관한 상당한 논란이 있음
+- **외계 외교 접촉을 위한 동맹 (AEDC)** — 2021년에 설립됨. 대사관 프로젝트를 지원하는 정치인, 외교관, 정부 관계자들의 국제 비영리 조직
+- **라엘리안 재단** — 다양한 교육 및 외부 활동을 위한 보다 넓은 제도적 우산
+- **다양한 교육 및 외부 활동 조직** — Apostasynow.org(온라인 배교 자료), Subversions.com(라엘의 보다 넓은 문화-정치 논평) 등 다양한 구체적 조직 포함
 
-**The financial-organizational structure**. The Raëlian movement operates through a membership-and-contribution structure, with members making voluntary financial contributions toward specific projects (particularly the embassy project, which has substantial ongoing financial requirements). The source's specific instruction is to maintain records of contributors, however modest their contribution, with the broader financial structure providing the institutional infrastructure.
+**재정-조직 구조**. 라엘리안 운동은 회원과 기여 구조를 통해 운영되며, 회원들은 특정 프로젝트(특히 상당한 지속적 재정 요구가 있는 대사관 프로젝트)에 자발적인 재정적 기여를 합니다. 원천의 구체적 지침은 기여자들의 기록을 — 기여가 얼마나 적은지에 관계없이 — 유지하는 것이며, 보다 넓은 재정 구조가 제도적 기반을 제공합니다.
 
-The financial transparency of the Raëlian movement has been the subject of various journalistic and academic inquiries across the post-1976 period, with various levels of disclosure across different national branches.
+라엘리안 운동의 재정적 투명성은 1976년 이후 시기에 걸쳐 다양한 저널리즘적·학술적 조사의 대상이 되어 왔으며, 서로 다른 국가별 지부에 걸쳐 다양한 수준의 공개가 있어 왔습니다.
 
-### The institutional development across the post-1976 period
+### 1976년 이후 시기에 걸친 제도적 발전
 
-The institutional development of Raëlism across the post-1976 period can be summarized in several phases:
+1976년 이후 시기에 걸친 라엘리즘의 제도적 발전은 몇 가지 단계로 요약될 수 있습니다.
 
-**The 1976-1990 founding period**. The institutional founding and initial expansion period, with the IRM established in 1976, national branches established progressively across the 1976-1990 period, and the principal source-material publication completed across the 1976-1980 period. The period concluded with the 1990 symbol modification and the broader institutional consolidation.
+**1976–1990년 창립기**. 제도적 창립과 초기 확장 기간으로, 1976년에 IRM이 설립되고, 1976–1990년 기간에 걸쳐 국가별 지부가 점진적으로 설립되었으며, 1976–1980년 기간에 걸쳐 주요 원천 자료의 출판이 완료되었습니다. 이 기간은 1990년의 상징 수정과 보다 넓은 제도적 통합으로 마무리되었습니다.
 
-**The 1991-2005 embassy-engagement period**. The principal embassy-engagement period, with the Israeli requests across 1991-1997, the 1997 Yahweh message authorizing relocation, the 1998 establishment of the Order of Angels, the 1997-2002 Clonaid activity culminating in the 2002 announcement, and the 2005 publication of the consolidated *Message from the Designers* English edition.
+**1991–2005년 대사관 관여기**. 주요 대사관 관여 기간으로, 1991–1997년에 걸친 이스라엘 요청, 이전을 승인한 1997년의 야훼 메시지, 1998년의 천사단 설립, 2002년 발표에서 정점에 이른 1997–2002년 클로네이드 활동, 그리고 2005년 통합 *설계자들로부터의 메시지* 영어판 출판이 있었습니다.
 
-**The 2006-2020 consolidation period**. The continuing institutional consolidation period, with continuing seminars and educational events, continuing embassy-project diplomatic engagement, the 2015 UN Optional Protocol Concerning Embassies for Extraterrestrials submission, and various other institutional developments.
+**2006–2020년 통합기**. 지속적인 제도적 통합 기간으로, 지속적인 세미나와 교육 행사, 지속적인 대사관 프로젝트 외교 관여, 2015년 외계인을 위한 대사관에 관한 UN 선택의정서 제출, 그리고 다양한 다른 제도적 발전이 있었습니다.
 
-**The 2021-2026 acceleration period**. The current period of substantial acceleration in the embassy project, with the 2021 establishment of the AEDC, the 2022 mayoral presentations to fifty selected cities, the 2024 Memorandum of Collaboration with an undisclosed national government, and the broader contemporary trajectory toward the embassy's projected 2027-2030 construction window.
+**2021–2026년 가속기**. 대사관 프로젝트의 상당한 가속이 있는 현재의 기간으로, 2021년 AEDC 설립, 2022년에 선별된 50개 도시에 대한 시장 발표, 2024년 비공개 국가 정부와의 협력 양해각서, 그리고 대사관의 예정된 2027–2030년 건설 기간을 향한 보다 넓은 동시대 궤적이 있습니다.
 
-### The principal controversies
+### 주요 논란
 
-Several principal controversies warrant treatment:
+다룰 만한 몇 가지 주요 논란이 있습니다.
 
-**The 2002 Clonaid claim**. On December 27, 2002, Brigitte Boisselier (Clonaid president, Raëlian Bishop) announced at a press conference in Hollywood, Florida, that Clonaid had assisted the birth of the first cloned human baby, nicknamed "Eve." The claim has not been independently scientifically verified across the subsequent two decades, despite various Clonaid statements promising forthcoming verification. The mainstream scientific community has substantially treated the announcement as unverified, with substantial subsequent skepticism. The announcement produced substantial international media attention and substantially elevated the Raëlian movement's broader public profile, though with substantially mixed outcomes for the movement's broader institutional reception.
+**2002년 클로네이드 주장**. 2002년 12월 27일, 브리지트 부아셀리에(클로네이드 회장, 라엘리안 주교)는 플로리다 할리우드에서의 기자회견에서 클로네이드가 최초의 복제 인간 아기("이브")의 출생을 도왔다고 발표했습니다. 이 주장은 검증이 임박했음을 약속하는 다양한 클로네이드 성명에도 불구하고 이후 20년에 걸쳐 독립적으로 과학적으로 검증되지 않았습니다.{{ footnote(id="5") }} 주류 과학계는 이 발표를 대체로 검증되지 않은 것으로 다루어 왔으며, 이후 상당한 회의가 있었습니다. 이 발표는 상당한 국제적 언론 주목을 산출했고 라엘리안 운동의 보다 넓은 대중적 지위를 실질적으로 끌어올렸지만, 운동의 보다 넓은 제도적 수용에 대해서는 실질적으로 엇갈린 결과를 낳았습니다.
 
-**The original Raëlian Symbol of Infinity**. The original symbol (Star of David with central swastika representing infinity in space and time respectively) produced substantial complications in post-Holocaust European-North American reception. The 1990 modification to replace the central swastika with a galaxy-shaped swirl in Western branches was made in response to these complications, with the original symbol preserved in Asia where the swastika appears in Buddhist temples without the Western political-historical associations.
+**원래의 라엘리안 무한대 상징**. 원래 상징(각각 공간과 시간상의 무한대를 나타내는 다윗의 별과 중앙의 만자무늬)은 홀로코스트 이후 유럽-북미 수용에서 상당한 복잡성을 산출했습니다. 1990년에 서구 지부에서 중앙의 만자무늬를 은하 모양의 소용돌이로 교체한 수정은 이러한 복잡성에 대응하여 이루어졌으며, 만자무늬가 서구의 정치적-역사적 연관 없이 불교 사찰에 등장하는 아시아에서는 원래의 상징이 보존되었습니다.
 
-**The Order of Angels**. The 1998 establishment of the Order of Angels — women dedicated specifically to welcoming the Elohim — produced substantial controversy regarding the order's specific practices, the female-only membership structure, and various reported practices including specific dress codes, specific commitments, and various other features. The Order of Angels has been the subject of substantial mainstream-journalistic and academic engagement, with various levels of criticism across the post-1998 period.
+**천사단**. 1998년의 천사단 설립 — 엘로힘을 환영하는 데 특별히 헌신하는 여성들 — 은 이 단의 구체적 실천, 여성 전용 회원 구조, 그리고 구체적 복장 규정, 구체적 헌신, 그리고 다양한 다른 특징을 포함한 다양한 보고된 실천에 관한 상당한 논란을 산출했습니다. 천사단은 1998년 이후 시기에 걸쳐 상당한 주류-저널리즘적·학술적 관여의 대상이 되어 왔으며, 다양한 수준의 비판이 있었습니다.
 
-**Sensual meditation controversies**. The explicitly sexual content of various sensual meditation practices has produced substantial mainstream criticism, with various journalistic engagements focusing on the practices' specific content. The Raëlian movement's response has generally been to defend the practices as integral to the broader spiritual-developmental framework, with the sexual content being treated as continuous with the broader sensual-cultivation orientation rather than as separable from the spiritual content.
+**관능 명상 논란**. 다양한 관능 명상 실천의 명시적으로 성적인 내용은 상당한 주류 비판을 산출했으며, 다양한 저널리즘적 관여가 그 실천의 구체적 내용에 초점을 맞춰 왔습니다. 라엘리안 운동의 응답은 일반적으로 그 실천을 보다 넓은 영적-발달 틀에 필수적인 것으로 옹호하는 것이었으며, 성적 내용은 영적 내용과 분리 가능한 것이 아니라 보다 넓은 감각 함양의 정향과 연속적인 것으로 다루어집니다.
 
-**French anti-cult engagement**. The French anti-cult organizational engagement through MIVILUDES and UNADFI has produced substantial legal-political tension across the post-1990s period, with the Raëlian movement being classified as a problematic religious group in various official French-government documents. The 2001 *About-Picard Law* on anti-cult measures provided substantial subsequent regulatory framework, with various legal-political implications for the Raëlian movement's French operations.
+**프랑스 반컬트 관여**. MIVILUDES와 UNADFI를 통한 프랑스 반컬트 조직적 관여는 1990년대 이후 시기에 걸쳐 상당한 법적-정치적 긴장을 산출해 왔으며, 라엘리안 운동은 다양한 프랑스 정부 공식 문서에서 문제적인 종교 집단으로 분류되어 왔습니다. 2001년의 *어바웃-피카르 법*은 그 이후의 상당한 규제적 틀을 제공했으며, 라엘리안 운동의 프랑스 운영에 대한 다양한 법적-정치적 함의가 있었습니다.
 
-**Various national legal-political tensions**. The Raëlian movement has produced legal-political tensions in various other national contexts, with various levels of accommodation across different countries. The principal tensions have been in continental Europe (France, Belgium, Germany), with relatively less tension in North America, Asia, and Africa.
+**다양한 국가적 법적-정치적 긴장**. 라엘리안 운동은 다양한 다른 국가적 맥락에서 법적-정치적 긴장을 산출해 왔으며, 국가별로 다양한 수준의 수용이 있었습니다. 주요 긴장은 대륙 유럽(프랑스, 벨기에, 독일)에서 있었고, 북미, 아시아, 아프리카에서는 상대적으로 더 적은 긴장이 있었습니다.
 
-**Various ex-Raëlian critical accounts**. Various former Raëlians have produced critical accounts of their experiences within the movement, with various levels of credibility and various specific complaints. The mainstream NRM scholarship has generally engaged these accounts as one source of evidence among many, without treating them as either definitively authoritative or definitively dismissible.
+**다양한 전(前) 라엘리안의 비판적 증언**. 다양한 전(前) 라엘리안들이 운동 내부에서의 경험에 대한 비판적 증언을 산출해 왔으며, 다양한 수준의 신뢰성과 다양한 구체적 불만이 있습니다. 주류 NRM 학계는 일반적으로 이러한 증언을, 결정적으로 권위적이지도 결정적으로 일축할 수도 없는, 여러 증거 원천 중 하나로 관여해 왔습니다.
 
-## Application across the corpus
+## 코퍼스 전반에 걸친 적용
 
-Raëlism operates as a load-bearing institutional and doctrinal entity across multiple corpus entries.
+라엘리즘은 여러 코퍼스 항목에 걸쳐 적재(積載)되는 제도적·교리적 실체로 작동합니다.
 
-### The Raël entry
+### 라엘 항목
 
-The figure of Raël is the founder and continuing senior figure of Raëlism. The detailed treatment of the figure lives in the [Raël](../rael/) entry; the Raëlism entry's specific contribution is establishing the doctrinal-institutional content of the movement that Raël founded.
+라엘이라는 인물은 라엘리즘의 창시자이자 지속적인 상급 인물입니다. 이 인물에 대한 상세한 다룸은 [라엘](../rael/) 항목에 있으며, 라엘리즘 항목의 구체적 기여는 라엘이 창시한 운동의 교리-제도적 내용을 확립하는 것입니다.
 
-### The Embassy entry
+### 대사관 항목
 
-The embassy project is the principal operational project of the Raëlian movement. The detailed treatment lives in the [Embassy](../embassy/) entry; the Raëlism entry's specific contribution is establishing the institutional context within which the embassy project operates.
+대사관 프로젝트는 라엘리안 운동의 주요 작전적 프로젝트입니다. 상세한 다룸은 [대사관](../embassy/) 항목에 있으며, 라엘리즘 항목의 구체적 기여는 대사관 프로젝트가 작동하는 제도적 맥락을 확립하는 것입니다.
 
-### The Apocalypse entry
+### 아포칼립스 항목
 
-Raëlism is the principal contemporary institutional vehicle for the broader Apocalypse (the unveiling phase) framework. The detailed treatment lives in the [Apocalypse](../apocalypse/) entry; the Raëlism entry's specific contribution is establishing the institutional infrastructure within which the apocalyptic content operates.
+라엘리즘은 보다 넓은 아포칼립스(베일을 벗기는 단계) 틀의 주요 동시대 제도적 매개체입니다. 상세한 다룸은 [아포칼립스](../apocalypse/) 항목에 있으며, 라엘리즘 항목의 구체적 기여는 아포칼립스 내용이 작동하는 제도적 기반을 확립하는 것입니다.
 
-### The Cosmic Competition, Doubled Signature, Cosmic Chain entries
+### 우주적 경쟁, 이중 서명, 우주적 사슬 항목
 
-Raëlism is the principal contemporary institutional vehicle for the source-material teaching that the corpus's broader framework engages. The detailed treatment of each framework lives in the respective entry; the Raëlism entry's specific contribution is establishing the institutional context.
+라엘리즘은 코퍼스의 보다 넓은 틀이 관여하는 원천 자료의 가르침에 대한 주요 동시대 제도적 매개체입니다. 각 틀에 대한 상세한 다룸은 해당 항목에 있으며, 라엘리즘 항목의 구체적 기여는 제도적 맥락을 확립하는 것입니다.
 
-### The Age of Aquarius entry
+### 물병자리 시대 항목
 
-Raëlism is the principal Aquarian-age religious-philosophical movement. The detailed treatment of the Age of Aquarius lives in the [Age of Aquarius](../timeline/age-of-aquarius/) entry; the Raëlism entry's specific contribution is establishing the movement's specific role within the age's broader operational developments.
+라엘리즘은 주요 물병자리 시대 종교-철학 운동입니다. 물병자리 시대에 대한 상세한 다룸은 [물병자리 시대](../timeline/age-of-aquarius/) 항목에 있으며, 라엘리즘 항목의 구체적 기여는 시대의 보다 넓은 작전적 발전 안에서 운동의 구체적 역할을 확립하는 것입니다.
 
-### The corpus's broader framework
+### 코퍼스의 보다 넓은 틀
 
-The Wheel of Heaven corpus is operationally distinct from Raëlism. The corpus engages with the Raëlian source material as principal foundational text for its broader interpretive framework, but the corpus's distinctive analytical contributions (the precessional-age framework's twelve-age elaboration, the doubled-signature principle's systematic application, the cosmic-competition framework's specific articulation, the cosmic-chain framework's broader development, the various Hebrew-textual analyses, the cross-cultural comparative material) extend substantially beyond what the Raëlian source material directly provides. The corpus's relationship to Raëlism is one of **shared-foundational-source-material-with-distinctive-interpretive-extension**.
+Wheel of Heaven 코퍼스는 라엘리즘과 작전적으로 구별됩니다. 코퍼스는 라엘 원천 자료를 보다 넓은 해석적 틀을 위한 주요 토대 텍스트로서 관여하지만, 코퍼스의 독특한 분석적 기여(세차 시대 틀의 12시대 정교화, 이중 서명 원리의 체계적 적용, 우주적 경쟁 틀의 구체적 정식화, 우주적 사슬 틀의 보다 넓은 발전, 다양한 히브리어 본문 분석, 교차 문화적 비교 자료)는 라엘 원천 자료가 직접 제공하는 것을 실질적으로 넘어 확장됩니다. 코퍼스의 라엘리즘과의 관계는 **공유된 토대적 원천 자료와 함께 독특한 해석적 확장**의 관계입니다.
 
-## Distinguishing from adjacent concepts
+## 인접 개념과의 구별
 
-### Raëlism vs. the broader Wheel of Heaven framework
+### 라엘리즘 대 보다 넓은 Wheel of Heaven 틀
 
-The Wheel of Heaven framework (the corpus's distinctive interpretive contribution) is distinct from Raëlism (the religious-philosophical movement) in several specific respects:
+Wheel of Heaven 틀(코퍼스의 독특한 해석적 기여)은 라엘리즘(종교-철학 운동)과 몇 가지 구체적 측면에서 구별됩니다.
 
-- The corpus's framework draws substantially on Jean Sendy's broader work, the Hamlet's Mill astronomical-mythological framework, Mauro Biglino's strict-translational engagement with the Hebrew Bible, Paul Anthony Wallis's broader alliance-mediated history, and various other scholarly sources beyond the Raëlian source material itself
-- The corpus's framework develops substantially the precessional-age framework's twelve-age elaboration, which the Raëlian source material gestures at but does not systematically develop
-- The corpus's framework develops the doubled-signature principle systematically across the twelve ages, which is not present in the Raëlian source material
-- The corpus's framework engages substantially with cross-cultural comparative material that the Raëlian source material does not directly engage
-- The corpus's framework is operationally independent of the Raëlian movement's institutional structure
+- 코퍼스의 틀은 장 상디의 보다 넓은 작업,{{ cite(id="those-gods-who-made-heaven-and-earth", text="[7]", title="Sendy, *Ces dieux qui firent le ciel et la terre* / *Those Gods Who Made Heaven and Earth* (1969/1972)") }} 햄릿의 맷돌 천문학-신화학 틀, 마우로 빌리노의 히브리어 성경에 대한 엄격한 직역적 관여,{{ cite(id="the-bible-is-not-a-sacred-book", text="[8]", title="Biglino, 히브리어 성경에 대한 엄격한 직역 시리즈(2010년 이후)") }} 폴 앤서니 월리스의 보다 넓은 동맹 매개 역사,{{ cite(id="escaping-from-eden", text="[9]", title="Wallis, *Escaping from Eden* (2020)과 이후의 비교 쐐기문자 저작") }} 그리고 라엘 원천 자료 자체를 넘어선 다양한 다른 학술적 원천을 상당히 끌어옵니다
+- 코퍼스의 틀은 세차 시대 틀의 12시대 정교화를 상당히 발전시키며, 이는 라엘 원천 자료가 가리키지만 체계적으로 발전시키지는 않는 것입니다
+- 코퍼스의 틀은 12시대에 걸쳐 이중 서명 원리를 체계적으로 발전시키며, 이는 라엘 원천 자료에 존재하지 않습니다
+- 코퍼스의 틀은 라엘 원천 자료가 직접 관여하지 않는 교차 문화적 비교 자료에 상당히 관여합니다
+- 코퍼스의 틀은 라엘리안 운동의 제도적 구조로부터 작전적으로 독립적입니다
 
-The relationship is one of **shared-foundational-source-material-with-distinctive-interpretive-extension**. The corpus's framework can be engaged with by readers who are not Raëlians and need not require institutional Raëlian-movement engagement; the Raëlian movement can be engaged with by practitioners who do not adopt the broader corpus framework.
+이 관계는 **공유된 토대적 원천 자료와 함께 독특한 해석적 확장**의 관계입니다. 코퍼스의 틀은 라엘리안이 아닌 독자들도 관여할 수 있으며 라엘리안 운동의 제도적 관여를 요구할 필요가 없습니다. 라엘리안 운동은 보다 넓은 코퍼스 틀을 채택하지 않는 실천가들도 관여할 수 있습니다.
 
-### Raëlism vs. the figure of Raël specifically
+### 라엘리즘 대 라엘이라는 인물 자체
 
-Raël as figure and Raëlism as movement are operationally distinct. Raël is the founder and continuing senior figure; Raëlism is the institutional-doctrinal movement that Raël founded and continues to lead but that has developed substantial operational infrastructure beyond Raël's personal involvement. The detailed treatment of the figure lives in the [Raël](../rael/) entry.
+인물로서의 라엘과 운동으로서의 라엘리즘은 작전적으로 구별됩니다. 라엘은 창시자이자 지속적인 상급 인물이며, 라엘리즘은 라엘이 창시했고 계속해서 이끌고 있지만 라엘의 개인적 관여를 넘어 실질적인 작전적 기반을 발전시킨 제도-교리적 운동입니다. 이 인물에 대한 상세한 다룸은 [라엘](../rael/) 항목에 있습니다.
 
-### Raëlism vs. the broader UFO-religion category
+### 라엘리즘 대 보다 넓은 UFO-종교 범주
 
-The broader UFO-religion category (Heaven's Gate, Aetherius Society, Unarius, Cosmic People, various others) provides the immediate scholarly category within which Raëlism operates. Raëlism is structurally distinctive within this broader category through several specific features:
+보다 넓은 UFO-종교 범주(헤븐스 게이트, 에테리우스 협회, 우나리우스, 코스믹 피플 등)는 라엘리즘이 작동하는 즉각적인 학술적 범주를 제공합니다. 라엘리즘은 이 보다 넓은 범주 안에서 몇 가지 구체적 특징을 통해 구조적으로 독특합니다.
 
-- **The institutional substance**: Raëlism has substantially greater institutional development than most other UFO religions, with the IRM being among the most institutionally substantial UFO religions globally
-- **The doctrinal articulation**: Raëlism has substantially greater doctrinal articulation than most other UFO religions, with the systematic source-material corpus
-- **The atheist-religion framing**: Raëlism's explicit atheist-religion framing distinguishes it from many other UFO religions that preserve substantial supernatural-theological content
-- **The cumulative-prophetic-tradition integration**: Raëlism's integration with the broader cumulative prophetic tradition (Moses, Jesus, Muhammad, Buddha, others) distinguishes it from UFO religions that operate without such integration
-- **The continuing operational pattern**: Raëlism's continuing five-decade operational pattern distinguishes it from various UFO religions that have collapsed or substantially declined
+- **제도적 실체성**: 라엘리즘은 다른 대부분의 UFO 종교보다 실질적으로 더 큰 제도적 발전을 가지고 있으며, IRM은 전 세계적으로 가장 제도적으로 실질적인 UFO 종교 중 하나입니다
+- **교리적 정교화**: 라엘리즘은 체계적인 원천 자료 코퍼스와 함께 다른 대부분의 UFO 종교보다 실질적으로 더 큰 교리적 정교화를 가집니다
+- **무신론 종교 프레이밍**: 라엘리즘의 명시적인 무신론 종교 프레이밍은 실질적인 초자연적-신학적 내용을 보존하는 많은 다른 UFO 종교와 구별됩니다
+- **누적적 예언 전통 통합**: 라엘리즘이 보다 넓은 누적적 예언 전통(모세, 예수, 무함마드, 부처 등)과 통합되는 것은, 그러한 통합 없이 작동하는 UFO 종교와 구별됩니다
+- **지속적인 작전 패턴**: 라엘리즘의 50년에 걸친 지속적인 작전 패턴은 붕괴했거나 실질적으로 쇠퇴한 다양한 UFO 종교와 구별됩니다
 
-The detailed comparative treatment lives in the *Comparative observations* section below.
+상세한 비교적 다룸은 아래의 *비교적 관찰* 절에 있습니다.
 
-### Raëlism vs. the broader new-religious-movement category
+### 라엘리즘 대 보다 넓은 신종교 운동 범주
 
-The broader new-religious-movement category (Mormonism, Scientology, Bahá'í, various others) provides the broader scholarly category within which Raëlism operates. Raëlism is structurally distinctive within this broader category through the specific extraterrestrial-creator framework and the explicit atheist-religion framing.
+보다 넓은 신종교 운동 범주(모르몬교, 사이언톨로지, 바하이 등)는 라엘리즘이 작동하는 보다 넓은 학술적 범주를 제공합니다. 라엘리즘은 구체적인 외계 창조자 틀과 명시적인 무신론 종교 프레이밍을 통해 이 보다 넓은 범주 안에서 구조적으로 독특합니다.
 
-### Raëlism vs. the broader atheist/scientific religion category
+### 라엘리즘 대 보다 넓은 무신론/과학적 종교 범주
 
-The broader atheist/scientific religion category (Comtean Religion of Humanity, Secular Humanism, Ethical Culture, various Buddhist traditions, various others) provides one specific scholarly category within which Raëlism operates. Raëlism is structurally distinctive within this broader category through the specific extraterrestrial-creator framework that provides the substantive doctrinal content.
+보다 넓은 무신론/과학적 종교 범주(콩트의 인류교, 세속적 휴머니즘, 윤리문화, 다양한 불교 전통 등)는 라엘리즘이 작동하는 하나의 구체적 학술적 범주를 제공합니다. 라엘리즘은 실질적 교리적 내용을 제공하는 구체적인 외계 창조자 틀을 통해 이 보다 넓은 범주 안에서 구조적으로 독특합니다.
 
-## Modern reinterpretations
+## 현대의 재해석
 
-### Mainstream new-religious-movement scholarship on Raëlism specifically
+### 라엘리즘에 대한 주류 신종교 운동 학계
 
-The principal sustained scholarly engagement with Raëlism has been within new-religious-movement (NRM) studies.
+라엘리즘에 대한 주요 지속적인 학술적 관여는 신종교 운동(NRM) 연구 안에서 이루어져 왔습니다.
 
-**Susan J. Palmer**'s *Aliens Adored: Raël's UFO Religion* (Rutgers University Press, 2004) is the principal book-length scholarly treatment. Palmer's approach is sympathetic-ethnographic, drawing on extensive direct fieldwork including substantial interview material with Raël, senior Raëlian movement figures, and rank-and-file members. The book provides substantial analysis of the movement's institutional structure, doctrinal content, principal practices, principal controversies, and broader sociological features. Palmer's broader subsequent work has continued to engage Raëlism across the post-2004 period, with various journal articles producing substantial continuing engagement.
+**수전 J. 파머**의 *Aliens Adored: Raël's UFO Religion* (러트거스 대학교 출판부, 2004)은 주요 단행본 학술 연구입니다. 파머의 접근법은 우호적-민족지적이며, 라엘, 라엘리안 운동의 상급 인사, 그리고 일반 회원과의 실질적인 인터뷰 자료를 포함한 광범위한 직접 현장 작업에 기반합니다. 이 책은 운동의 제도적 구조, 교리적 내용, 주요 실천, 주요 논란, 그리고 보다 넓은 사회학적 특징에 대한 실질적인 분석을 제공합니다. 파머의 이후 작업은 2004년 이후 시기 전반에 걸쳐 라엘리즘에 대한 관여를 지속해 왔으며, 다양한 학술지 논문이 실질적인 지속적 관여를 산출하고 있습니다.
 
-**Massimo Introvigne** and the **Center for Studies on New Religions (CESNUR)** have produced substantial scholarly engagement with Raëlism through various conference papers, journal articles in *Nova Religio* and other venues, and broader CESNUR institutional output. Introvigne's general approach is sympathetic-scholarly, treating Raëlism seriously as a religious movement while maintaining scholarly objectivity regarding the framework's specific historical claims.
+**마시모 인트로비녜**와 **신종교연구센터(CESNUR)**는 다양한 컨퍼런스 논문, *Nova Religio* 및 다른 매체의 학술지 논문, 그리고 보다 넓은 CESNUR 제도적 산출을 통해 라엘리즘에 대한 상당한 학술적 관여를 산출해 왔습니다. 인트로비녜의 일반적 접근법은 우호적-학술적이며, 틀의 구체적 역사적 주장에 관한 학술적 객관성을 유지하면서 라엘리즘을 종교 운동으로 진지하게 다룹니다.
 
-**George D. Chryssides** has produced scholarly engagement with Raëlism within his broader work on new-religious-movements, with various comparative analyses placing Raëlism within the broader NRM landscape. Chryssides's specific contribution includes engagement with the question of charismatic leadership and institutional development across multiple NRM cases.
+**조지 D. 크리시디스**는 신종교 운동에 관한 그의 보다 넓은 작업 안에서 라엘리즘에 대한 학술적 관여를 산출해 왔으며, 다양한 비교 분석이 라엘리즘을 보다 넓은 NRM 지형 안에 위치시킵니다. 크리시디스의 구체적 기여는 여러 NRM 사례에 걸쳐 카리스마적 지도력과 제도적 발전의 문제에 대한 관여를 포함합니다.
 
-**Mikael Rothstein** has produced substantial scholarly engagement with Raëlism, particularly regarding the movement's specific hagiographical and textual practices. Rothstein's "Hagiography and Text in the Raëlian Movement" (in Partridge's *UFO Religions*, 2003) is one principal engagement.
+**미카엘 로트슈타인**은 특히 운동의 구체적인 성인전적·텍스트적 실천에 관한 상당한 학술적 관여를 산출해 왔습니다. 로트슈타인의 "Hagiography and Text in the Raëlian Movement" (파트리지의 *UFO Religions*, 2003)는 주요 관여 중 하나입니다.
 
-**Christopher Partridge**'s edited volume *UFO Religions* (Routledge, 2003) and his broader work on contemporary spirituality have produced substantial Raëlism engagement.
+**크리스토퍼 파트리지**의 편집서 *UFO Religions* (라우틀리지, 2003)와 동시대 영성에 관한 그의 보다 넓은 작업은 상당한 라엘리즘 관여를 산출해 왔습니다.
 
-**James R. Lewis** has edited several substantial collections engaging Raëlism, including *The Gods Have Landed: New Religions from Other Worlds* (SUNY Press, 1995) and the *Encyclopedic Sourcebook of UFO Religions* (Prometheus, 2003).
+**제임스 R. 루이스**는 *The Gods Have Landed: New Religions from Other Worlds* (SUNY 출판부, 1995)와 *Encyclopedic Sourcebook of UFO Religions* (프로메테우스, 2003)를 포함하여, 라엘리즘에 관여하는 몇몇 실질적인 모음집을 편집해 왔습니다.
 
-**Erik A. W. Östling** has produced substantial scholarly engagement with Raëlism within Scandinavian religious-studies scholarship.
+**에리크 A. W. 외스틀링**은 스칸디나비아 종교학 학계 안에서 라엘리즘에 대한 상당한 학술적 관여를 산출해 왔습니다.
 
-The mainstream NRM scholarship's general assessment is one of **serious-engagement-with-skeptical-distance** — treating Raëlism as a substantial religious phenomenon worthy of academic study while not endorsing the framework's specific historical claims about the December 13, 1973 contact event.
+주류 NRM 학계의 일반적 평가는 **회의적 거리를 둔 진지한 관여**입니다 — 라엘리즘을 학문적 연구의 가치가 있는 실질적 종교 현상으로 다루면서, 1973년 12월 13일 접촉 사건에 관한 틀의 구체적 역사적 주장은 지지하지 않습니다.
 
-### Academic categorization debates
+### 학술적 분류 논쟁
 
-The academic categorization of Raëlism has been the subject of substantial scholarly debate.
+라엘리즘의 학술적 분류는 상당한 학술적 논쟁의 대상이 되어 왔습니다.
 
-**The UFO-religion categorization** treats Raëlism as one specific instance of the broader UFO-religion category, alongside Heaven's Gate, Aetherius Society, Unarius, and various others. The categorization captures substantial features of Raëlism's distinctive content but is treated by some scholars as overly narrow given Raëlism's substantial broader doctrinal articulation and institutional development.
+**UFO-종교 분류**는 라엘리즘을 헤븐스 게이트, 에테리우스 협회, 우나리우스 등과 함께 보다 넓은 UFO-종교 범주의 한 구체적 사례로 다룹니다. 이 분류는 라엘리즘의 독특한 내용의 실질적 특징을 포착하지만, 일부 학자들에 의해 라엘리즘의 실질적으로 더 넓은 교리적 정교화와 제도적 발전을 고려할 때 지나치게 좁은 것으로 다루어집니다.
 
-**The new-religious-movement (NRM) categorization** treats Raëlism as one specific instance of the broader NRM category, alongside Mormonism, Scientology, Bahá'í, and various others. The categorization captures the broader institutional and sociological features of Raëlism while not specifically registering the extraterrestrial-creator framework.
+**신종교 운동(NRM) 분류**는 라엘리즘을 모르몬교, 사이언톨로지, 바하이 등과 함께 보다 넓은 NRM 범주의 한 구체적 사례로 다룹니다. 이 분류는 라엘리즘의 보다 넓은 제도적·사회학적 특징을 포착하지만, 외계 창조자 틀을 구체적으로 기록하지는 않습니다.
 
-**The atheist-religion categorization** treats Raëlism as one specific instance of the broader atheist/scientific religion category, alongside Comtean Religion of Humanity, Secular Humanism, Ethical Culture, various Buddhist traditions, and various others. The categorization captures Raëlism's distinctive atheist-religion framing but is treated by some scholars as understating the substantively religious dimensions of Raëlism's specific content.
+**무신론 종교 분류**는 라엘리즘을 콩트의 인류교, 세속적 휴머니즘, 윤리문화, 다양한 불교 전통 등과 함께 보다 넓은 무신론/과학적 종교 범주의 한 구체적 사례로 다룹니다. 이 분류는 라엘리즘의 독특한 무신론 종교 프레이밍을 포착하지만, 일부 학자들에 의해 라엘리즘의 구체적 내용의 실질적으로 종교적인 차원을 과소평가하는 것으로 다루어집니다.
 
-**The postmodern-religion categorization** treats Raëlism as one specific instance of the broader postmodern-religion category, with the specific cultural-temporal positioning within the late-twentieth-century post-traditional religious landscape.
+**포스트모던 종교 분류**는 라엘리즘을 보다 넓은 포스트모던 종교 범주의 한 구체적 사례로, 20세기 후반의 전통 이후 종교 지형 안에서의 구체적인 문화적-시간적 위치와 함께 다룹니다.
 
-**Eclectic-categorization approaches** treat Raëlism as appropriately engaged through multiple categorizations simultaneously, with the specific categorizations producing different analytical framings of the movement's distinctive features. The broader scholarly convergence has been toward eclectic-categorization approaches rather than toward any single definitive categorization.
+**절충적 분류 접근법**은 라엘리즘을 여러 분류를 동시에 통한 적절한 관여의 대상으로 다루며, 구체적 분류는 운동의 독특한 특징에 대한 서로 다른 분석적 프레이밍을 산출합니다. 보다 넓은 학술적 수렴은 어떤 단일한 결정적 분류보다는 절충적 분류 접근법을 향해 왔습니다.
 
-### Scholarly treatment of specific Raëlian doctrines
+### 구체적 라엘리안 교리에 대한 학술적 다룸
 
-The various specific Raëlian doctrines have produced substantial scholarly engagement.
+다양한 구체적 라엘리안 교리는 상당한 학술적 관여를 산출해 왔습니다.
 
-**The genetic-engineering creation framework**. The Raëlian framework's specific reading of Genesis 1 as preserving substantively accurate memory of genetic-engineering creation has produced substantial scholarly engagement. The mainstream biblical-scholarly response has generally been skeptical, treating the reading as one specific contemporary interpretive framework rather than as continuation of mainstream historical-critical biblical scholarship. The broader mainstream scientific response has been substantially more skeptical, treating the framework's specific historical claims as unsupported by mainstream evolutionary biology and broader scientific consensus.
+**유전공학 창조 틀**. 창세기 1장을 유전공학 창조에 대한 실질적으로 정확한 기억을 보존하는 것으로 보는 라엘리안 틀의 구체적 독해는 상당한 학술적 관여를 산출해 왔습니다. 주류 성경 학계의 응답은 대체로 회의적이었으며, 이 독해를 주류 역사-비평적 성경 학계의 연속이 아니라 하나의 구체적인 동시대 해석적 틀로 다루어 왔습니다. 보다 넓은 주류 과학계의 응답은 실질적으로 더 회의적이었으며, 틀의 구체적 역사적 주장을 주류 진화 생물학과 보다 넓은 과학적 합의에 의해 뒷받침되지 않는 것으로 다룹니다.
 
-**The sensual meditation practices**. The sensual meditation practices have produced substantial scholarly engagement, with various academic treatments of the practices' specific content, broader spiritual-developmental framework, and reception within mainstream cultural contexts. The mainstream scholarly engagement has generally been more nuanced than the journalistic-popular engagement, with various academic treatments producing detailed analysis of the practices' integration with the broader Raëlian framework.
+**관능 명상 실천**. 관능 명상 실천은 그 실천의 구체적 내용, 보다 넓은 영적-발달 틀, 그리고 주류 문화 맥락 안에서의 수용에 대한 다양한 학술적 다룸과 함께 상당한 학술적 관여를 산출해 왔습니다. 주류 학술적 관여는 일반적으로 저널리즘적-대중적 관여보다 더 미묘했으며, 다양한 학술적 다룸이 그 실천과 보다 넓은 라엘리안 틀의 통합에 대한 상세한 분석을 산출하고 있습니다.
 
-**The geniocracy doctrine**. The geniocracy political doctrine has produced substantial scholarly engagement within political theory and broader social science. The doctrine has been engaged with as one specific contemporary articulation of broader meritocratic and technocratic political traditions, with various scholarly treatments producing detailed analysis of the doctrine's specific content and broader implications.
+**지니오크라시 교리**. 지니오크라시 정치 교리는 정치이론과 보다 넓은 사회과학 안에서 상당한 학술적 관여를 산출해 왔습니다. 이 교리는 보다 넓은 능력주의적·기술관료주의적 정치 전통의 하나의 구체적인 동시대 정식화로 관여되어 왔으며, 다양한 학술적 다룸이 이 교리의 구체적 내용과 보다 넓은 함의에 대한 상세한 분석을 산출하고 있습니다.
 
-**The cellular-plan transmission**. The cellular-plan transmission baptismal practice has produced substantial scholarly engagement within ritual studies and broader religious-studies scholarship, with various academic treatments of the practice's specific content and broader theological-doctrinal implications.
+**세포 계획 전수**. 세포 계획 전수 세례 실천은 의례학과 보다 넓은 종교학 학계 안에서 상당한 학술적 관여를 산출해 왔으며, 다양한 학술적 다룸이 이 실천의 구체적 내용과 보다 넓은 신학-교리적 함의에 관여하고 있습니다.
 
-### Legal-political treatment of Raëlism
+### 라엘리즘에 대한 법적-정치적 다룸
 
-The legal-political treatment of Raëlism has varied substantially across different national contexts.
+라엘리즘에 대한 법적-정치적 다룸은 서로 다른 국가적 맥락에 걸쳐 상당히 다양하게 변해 왔습니다.
 
-**French legal-political context**. The French government has produced substantial engagement with Raëlism through MIVILUDES and UNADFI. The Raëlian movement has been classified in various French-government documents as a *secte* (the French legal-cultural category of problematic religious group), with various legal-political tensions across the past several decades. The 2001 *About-Picard Law* on anti-cult measures has provided substantial subsequent regulatory framework. Various Raëlian-movement legal challenges to French-government classifications have produced varying outcomes across the post-2001 period.
+**프랑스 법적-정치적 맥락**. 프랑스 정부는 MIVILUDES와 UNADFI를 통해 라엘리즘에 대한 상당한 관여를 산출해 왔습니다. 라엘리안 운동은 다양한 프랑스 정부 문서에서 *secte*(문제적 종교 집단에 대한 프랑스의 법적-문화적 범주)로 분류되어 왔으며, 지난 수십 년에 걸쳐 다양한 법적-정치적 긴장이 있어 왔습니다. 2001년의 *어바웃-피카르 법*은 그 이후의 상당한 규제적 틀을 제공해 왔습니다. 프랑스 정부의 분류에 대한 다양한 라엘리안 운동의 법적 이의 제기는 2001년 이후 시기에 걸쳐 다양한 결과를 산출해 왔습니다.
 
-**North American legal-political context**. The Raëlian movement has operated with substantially less legal-political tension in North America, with the United States First Amendment and Canadian religious-freedom protections providing broader institutional protection. The 2002 Clonaid announcement produced substantial subsequent FDA and Health Canada engagement, with various regulatory questions regarding human-cloning research. Various US and Canadian legal cases have generally upheld the Raëlian movement's religious-freedom rights.
+**북미 법적-정치적 맥락**. 라엘리안 운동은 미국 수정헌법 제1조와 캐나다의 종교 자유 보호가 보다 넓은 제도적 보호를 제공하면서, 북미에서 실질적으로 더 적은 법적-정치적 긴장 속에서 운영되어 왔습니다. 2002년 클로네이드 발표는 FDA와 캐나다 보건부의 상당한 이후 관여를 산출했으며, 인간 복제 연구에 관한 다양한 규제적 질문이 제기되었습니다. 다양한 미국과 캐나다의 법적 사례는 일반적으로 라엘리안 운동의 종교 자유 권리를 인정해 왔습니다.
 
-**European legal-political context**. Various European countries have produced varied legal-political engagement. Belgium's 1997 anti-cult parliamentary commission classified the Raëlian movement among problematic religious groups; the German Sekten-Beauftragte has engaged various Raëlian movement matters; various other European national frameworks have produced specific engagements.
+**유럽 법적-정치적 맥락**. 다양한 유럽 국가가 다양한 법적-정치적 관여를 산출해 왔습니다. 벨기에의 1997년 반컬트 의회 위원회는 라엘리안 운동을 문제적 종교 집단으로 분류했고, 독일의 종파 담당관은 다양한 라엘리안 운동 사안에 관여해 왔으며, 다양한 다른 유럽 국가별 틀이 구체적 관여를 산출해 왔습니다.
 
-**Asian legal-political context**. The Raëlian movement has substantial presence in Japan and South Korea, with the broader Asian religious-pluralism context producing different legal-political engagement than the European-anti-cult framework. South Korea's specific religious-pluralism context has been particularly accommodating to the Raëlian movement.
+**아시아 법적-정치적 맥락**. 라엘리안 운동은 일본과 대한민국에서 상당한 존재감을 가지며, 보다 넓은 아시아 종교적 다원주의 맥락이 유럽의 반컬트 틀과는 다른 법적-정치적 관여를 산출하고 있습니다. 대한민국의 구체적 종교적 다원주의 맥락은 라엘리안 운동에 특히 수용적이었습니다.
 
-**African legal-political context**. The Raëlian movement has had substantial presence in various African countries across the post-1990s period, with varying specific national contexts. The broader African religious-pluralism context has produced varied legal-political engagement.
+**아프리카 법적-정치적 맥락**. 라엘리안 운동은 1990년대 이후 시기에 걸쳐 다양한 아프리카 국가에서 상당한 존재감을 가져 왔으며, 다양한 구체적 국가적 맥락이 있습니다. 보다 넓은 아프리카 종교적 다원주의 맥락은 다양한 법적-정치적 관여를 산출해 왔습니다.
 
-### Various ex-Raëlian and anti-cult organizational accounts
+### 다양한 전(前) 라엘리안 및 반컬트 조직적 증언
 
-Various former Raëlians have produced critical accounts of their experiences within the movement, with various levels of credibility and various specific complaints. The mainstream NRM scholarship has generally engaged these accounts as one source of evidence among many, without treating them as either definitively authoritative or definitively dismissible.
+다양한 전(前) 라엘리안들이 운동 내부에서의 경험에 대한 비판적 증언을 산출해 왔으며, 다양한 수준의 신뢰성과 다양한 구체적 불만이 있습니다. 주류 NRM 학계는 일반적으로 이러한 증언을, 결정적으로 권위적이지도 결정적으로 일축할 수도 없는, 여러 증거 원천 중 하나로 관여해 왔습니다.
 
-The broader anti-cult organizational engagement (UNADFI, MIVILUDES, FECRIS, various international organizations) has produced substantial critical-hostile material across the past several decades. The mainstream NRM scholarship has generally engaged this material critically, with various scholars treating the anti-cult material as one specific perspective rather than as definitive scholarly treatment.
+보다 넓은 반컬트 조직적 관여(UNADFI, MIVILUDES, FECRIS, 다양한 국제 조직)는 지난 수십 년에 걸쳐 상당한 비판적-적대적 자료를 산출해 왔습니다. 주류 NRM 학계는 일반적으로 이 자료에 비판적으로 관여해 왔으며, 다양한 학자들은 반컬트 자료를 결정적인 학술적 다룸이 아니라 하나의 구체적 관점으로 다룹니다.
 
-### The framework's relationship to the broader landscape
+### 보다 넓은 지형과 틀의 관계
 
-The corpus's framework is positioned within this scholarly-political landscape as follows: substantially aligned with mainstream NRM scholarship at the institutional-sociological level (recognizing the substantial scholarship produced by Palmer, Introvigne, Lewis, and others); engaged with the academic categorization debates while not committing to any single definitive categorization; engaged with the specific doctrinal scholarship while extending substantially beyond what the mainstream scholarship has produced through the broader Wheel of Heaven framework's distinctive interpretive contributions; cautiously engaged with the legal-political treatment while not accepting the anti-cult organizational hostile framing; engaged with ex-Raëlian and anti-cult accounts as one source of evidence among many.
+코퍼스의 틀은 이 학술적-정치적 지형 안에서 다음과 같이 자리매김됩니다. 제도적-사회학적 수준에서 주류 NRM 학계와 상당히 정렬되어 있고(파머, 인트로비녜, 루이스 등이 산출한 상당한 학술 연구를 인정함), 어떤 단일한 결정적 분류에도 헌신하지 않으면서 학술적 분류 논쟁에 관여하며, 보다 넓은 Wheel of Heaven 틀의 독특한 해석적 기여를 통해 주류 학계가 산출한 것을 실질적으로 넘어 확장하면서 구체적인 교리적 학계에 관여하고, 반컬트 조직의 적대적 프레이밍을 받아들이지 않으면서 법적-정치적 다룸에 신중하게 관여하며, 전(前) 라엘리안 및 반컬트 증언을 여러 증거 원천 중 하나로 관여합니다.
 
-## Comparative observations
+## 비교적 관찰
 
-Raëlism's distinctive features warrant comparative engagement with multiple religious-movement categories.
+라엘리즘의 독특한 특징은 여러 종교 운동 범주와의 비교적 관여를 정당화합니다.
 
-### Other UFO religions
+### 다른 UFO 종교
 
-The broader UFO-religion category provides the immediate scholarly category within which Raëlism operates.
+보다 넓은 UFO-종교 범주는 라엘리즘이 작동하는 즉각적인 학술적 범주를 제공합니다.
 
-**Heaven's Gate** (founded 1974 by Marshall Applewhite and Bonnie Nettles) was a UFO-religion that ended catastrophically in March 1997 with the mass suicide of 39 members in Rancho Santa Fe, California, in connection with the Hale-Bopp comet's appearance. The movement's specific framework involved alleged contact with extraterrestrial beings whose return was anticipated through specific cosmic events. The movement's catastrophic end provides substantial contrast with Raëlism's continuing five-decade operational pattern. The framework reads Heaven's Gate as one specific UFO-religion case whose catastrophic outcome reflects substantially different operational features from Raëlism's continuing pattern.
+**헤븐스 게이트**(1974년에 마샬 애플화이트와 보니 네틀스에 의해 창시됨)는 1997년 3월 헤일-밥 혜성의 출현과 관련하여 캘리포니아 랜초 산타페에서 39명의 회원이 집단 자살함으로써 파국적으로 종료된 UFO-종교였습니다. 운동의 구체적 틀은 그 귀환이 구체적인 우주적 사건을 통해 예견되었던 외계 존재들과의 알려진 접촉을 포함했습니다. 운동의 파국적 종료는 라엘리즘의 지속적인 50년 작전 패턴과 실질적인 대조를 제공합니다. 이 틀은 헤븐스 게이트를, 그 파국적 결과가 라엘리즘의 지속적 패턴과 실질적으로 다른 작전적 특징을 반영하는 하나의 구체적 UFO-종교 사례로 읽습니다.{{ footnote(id="6") }}
 
-**Aetherius Society** (founded 1955 by George King) is one of the longest-continuing UFO religions, with substantial doctrinal articulation drawing on theosophical and broader esoteric traditions. The society's specific framework involves alleged contact with "Cosmic Masters" associated with various solar system bodies. The society has continued substantial operations across the post-1955 period, with various national branches and substantial institutional development. The framework reads the Aetherius Society as one specific UFO-religion case with substantial structural parallels to Raëlism's continuing operational pattern, though with substantively different doctrinal content.
+**에테리우스 협회**(1955년에 조지 킹에 의해 창시됨)는 가장 오래 지속되는 UFO 종교 중 하나이며, 신지학적·보다 넓은 비교적(秘敎的) 전통을 끌어들이는 실질적인 교리적 정교화를 가집니다. 협회의 구체적 틀은 다양한 태양계 천체와 연관된 "우주의 마스터들"과의 알려진 접촉을 포함합니다. 협회는 1955년 이후 시기에 걸쳐 다양한 국가별 지부와 실질적인 제도적 발전과 함께 실질적인 운영을 지속해 왔습니다. 이 틀은 에테리우스 협회를, 실질적으로 다른 교리적 내용과 함께이긴 하지만, 라엘리즘의 지속적인 작전 패턴에 대한 실질적인 구조적 평행을 가진 하나의 구체적 UFO-종교 사례로 읽습니다.
 
-**Unarius Academy of Science** (founded 1954 by Ernest L. Norman and Ruth E. Norman) is a UFO-religion with substantial channeling-based doctrinal content drawing on various theosophical and broader esoteric traditions. The academy's specific framework involves alleged contact with various extraterrestrial civilizations through channeling practices. The framework reads Unarius as one specific UFO-religion case with various structural parallels to Raëlism while operating through substantially different doctrinal-institutional features.
+**우나리우스 과학 아카데미**(1954년에 어니스트 L. 노먼과 루스 E. 노먼에 의해 창시됨)는 다양한 신지학적·보다 넓은 비교적 전통을 끌어들이는 실질적인 채널링 기반 교리 내용을 가진 UFO-종교입니다. 아카데미의 구체적 틀은 채널링 실천을 통해 다양한 외계 문명과의 알려진 접촉을 포함합니다. 이 틀은 우나리우스를, 실질적으로 다른 교리-제도적 특징을 통해 작동하면서 라엘리즘에 대한 다양한 구조적 평행을 가진 하나의 구체적 UFO-종교 사례로 읽습니다.
 
-**Cosmic People (Vesmírní lidé)** (founded c. 1997 by Ivo A. Benda) is a Czech UFO-religion with substantial channeling-based doctrinal content. The movement's specific framework involves alleged contact with Pleiadian and broader extraterrestrial civilizations through channeling practices.
+**코스믹 피플 (Vesmírní lidé)**(약 1997년에 이보 A. 벤다에 의해 창시됨)은 실질적인 채널링 기반 교리 내용을 가진 체코의 UFO-종교입니다. 운동의 구체적 틀은 채널링 실천을 통해 플레이아데스 및 보다 넓은 외계 문명과의 알려진 접촉을 포함합니다.
 
-**Various other UFO religions** — including the Ashtar Galactic Command, the Galactic Federation of Light, Universe People, and various others — provide the broader landscape within which Raëlism operates. The framework reads Raëlism as structurally distinctive within this broader landscape through the specific institutional substance, doctrinal articulation, atheist-religion framing, and continuing operational pattern.
+**다양한 다른 UFO 종교** — 아쉬타 갤럭틱 커맨드, 빛의 은하 연합, 우주 사람들 등을 포함하여 — 는 라엘리즘이 작동하는 보다 넓은 지형을 제공합니다. 이 틀은 라엘리즘을, 구체적 제도적 실체성, 교리적 정교화, 무신론 종교 프레이밍, 지속적 작전 패턴을 통해 이 보다 넓은 지형 안에서 구조적으로 독특한 것으로 읽습니다.
 
-### New religious movements with prophet-founders
+### 예언자-창시자를 가진 신종교 운동
 
-The broader new-religious-movement (NRM) category with prophet-founders provides another scholarly category within which Raëlism operates.
+예언자-창시자를 가진 보다 넓은 신종교 운동(NRM) 범주는 라엘리즘이 작동하는 또 다른 학술적 범주를 제공합니다.
 
-**Mormonism** (Church of Jesus Christ of Latter-day Saints, founded 1830 by Joseph Smith) is structurally comparable in several specific respects: prophet-founder figure, substantial textual corpus produced by founder (Book of Mormon, Doctrine and Covenants, Pearl of Great Price), substantial institutional development, multiple-worlds creation doctrine, anticipated-return content. The detailed comparative treatment of Mormon doctrine lives in the [Cosmic Competition](../cosmic-competition/) entry's *Comparative observations*.
+**모르몬교**(예수 그리스도 후기 성도 교회, 1830년에 조지프 스미스에 의해 창시됨)는 몇 가지 구체적 측면에서 구조적으로 비교 가능합니다. 예언자-창시자 인물, 창시자에 의해 산출된 실질적인 텍스트 코퍼스(몰몬경, 교리와 성약, 값진 진주), 실질적인 제도적 발전, 다중 세계 창조 교리, 예견된 귀환 내용. 모르몬교 교리에 대한 상세한 비교적 다룸은 [우주적 경쟁](../cosmic-competition/) 항목의 *비교적 관찰* 절에 있습니다.
 
-**Scientology** (founded 1953 by L. Ron Hubbard) is structurally comparable in several specific respects: prophet-founder figure, substantial textual corpus produced by founder, substantial institutional development, distinctive doctrinal content, controversial reception. The framework reads Scientology as one specific NRM case with substantial structural parallels to Raëlism, though with substantively different doctrinal-institutional features (Scientology's specific "Thetan" doctrine, the auditing practice, the Sea Organization structure).
+**사이언톨로지**(1953년에 L. 론 허버드에 의해 창시됨)는 몇 가지 구체적 측면에서 구조적으로 비교 가능합니다. 예언자-창시자 인물, 창시자에 의해 산출된 실질적인 텍스트 코퍼스, 실질적인 제도적 발전, 독특한 교리적 내용, 논란의 수용. 이 틀은 사이언톨로지를, 실질적으로 다른 교리-제도적 특징(사이언톨로지의 구체적인 "테탄" 교리, 오디팅 실천, 시 오거니제이션 구조)을 가지면서 라엘리즘에 대한 실질적인 구조적 평행을 가진 하나의 구체적 NRM 사례로 읽습니다.
 
-**Bahá'í Faith** (founded 1844-1863 by the Báb and Bahá'u'lláh) is structurally comparable in several specific respects: prophet-founder figures, substantial textual corpus, substantial institutional development, universal-religious-tradition framing, anticipated-return content within broader religious-tradition framework. The framework reads Bahá'í as one specific NRM case with substantial structural parallels to Raëlism, though with substantively different doctrinal-institutional features.
+**바하이 신앙**(1844–1863년에 바브와 바하올라에 의해 창시됨)은 몇 가지 구체적 측면에서 구조적으로 비교 가능합니다. 예언자-창시자 인물들, 실질적인 텍스트 코퍼스, 실질적인 제도적 발전, 보편적-종교 전통 프레이밍, 보다 넓은 종교 전통 틀 안에서의 예견된 귀환 내용. 이 틀은 바하이를, 실질적으로 다른 교리-제도적 특징을 가지면서 라엘리즘에 대한 실질적인 구조적 평행을 가진 하나의 구체적 NRM 사례로 읽습니다.
 
-**Various other NRMs with prophet-founders** — including Soka Gakkai (founded 1930), the Unification Church (founded 1954 by Sun Myung Moon), various others — provide the broader landscape within which Raëlism operates.
+**예언자-창시자를 가진 다양한 다른 NRM** — 소카 갓카이(1930년 창시), 통일교(1954년 문선명 창시) 등을 포함하여 — 는 라엘리즘이 작동하는 보다 넓은 지형을 제공합니다.
 
-The framework reads Raëlism as structurally distinctive within this broader NRM landscape through the specific extraterrestrial-creator framework, the explicit atheist-religion framing, and the integration with the broader cumulative prophetic tradition (which most other NRMs do not directly integrate).
+이 틀은 라엘리즘을, 구체적인 외계 창조자 틀, 명시적인 무신론 종교 프레이밍, 그리고 (대부분의 다른 NRM이 직접 통합하지 않는) 보다 넓은 누적적 예언 전통과의 통합을 통해 이 보다 넓은 NRM 지형 안에서 구조적으로 독특한 것으로 읽습니다.
 
-### Atheist/scientific religions
+### 무신론/과학적 종교
 
-The broader atheist/scientific religion category provides one specific scholarly category within which Raëlism's distinctive atheist-religion framing operates.
+보다 넓은 무신론/과학적 종교 범주는 라엘리즘의 독특한 무신론 종교 프레이밍이 작동하는 하나의 구체적 학술적 범주를 제공합니다.
 
-**Comtean Religion of Humanity** (founded c. 1851 by Auguste Comte) was the principal nineteenth-century articulation of the atheist-religion framework, with substantial elaboration through Comte's *Système de politique positive* and various other works. The Religion of Humanity proposed a positivist religion oriented toward humanity itself rather than toward supernatural deity, with substantial ritual structure, calendar, and broader religious-institutional framework. The framework reads the Religion of Humanity as one specific historical antecedent of Raëlism's atheist-religion framing, though with substantively different doctrinal content (the Religion of Humanity oriented toward humanity itself; Raëlism oriented toward the Elohim and the broader cosmic-creative cycle).
+**콩트의 인류교**(약 1851년에 오귀스트 콩트에 의해 창시됨)는 무신론 종교 틀의 주요 19세기 정식화였으며, 콩트의 *Système de politique positive*와 다양한 다른 저작을 통해 실질적인 정교화가 있었습니다. 인류교는 상당한 의례적 구조, 역법, 그리고 보다 넓은 종교-제도적 틀과 함께 초자연적 신성보다는 인류 자체를 향해 정향된 실증주의 종교를 제안했습니다. 이 틀은 인류교를, 실질적으로 다른 교리적 내용(인류교는 인류 자체를 향해 정향되었고, 라엘리즘은 엘로힘과 보다 넓은 우주적-창조적 순환을 향해 정향됨)과 함께이긴 하지만, 라엘리즘의 무신론 종교 프레이밍의 하나의 구체적 역사적 선행으로 읽습니다.
 
-**Secular Humanism** is the broader contemporary movement articulating a non-religious humanist framework, with various specific institutional articulations (American Humanist Association, International Humanist and Ethical Union, various others). The movement is generally not classified as religious in the strict sense, though various specific articulations have approached religious-institutional structure. The framework reads Secular Humanism as one specific contemporary articulation of broader non-religious humanist content, with substantial structural overlap with Raëlism's specific atheist orientation but substantially different content (Secular Humanism without specific extraterrestrial-creator framework).
+**세속적 휴머니즘**은 다양한 구체적 제도적 정식화(미국 휴머니스트 협회, 국제 휴머니스트·윤리 연합 등)와 함께 비종교적 휴머니스트 틀을 정식화하는 보다 넓은 동시대 운동입니다. 이 운동은 일반적으로 엄밀한 의미에서 종교적인 것으로 분류되지 않지만, 다양한 구체적 정식화는 종교-제도적 구조에 접근해 왔습니다. 이 틀은 세속적 휴머니즘을, 라엘리즘의 구체적 무신론 정향과의 실질적인 구조적 중첩과 함께이긴 하지만 실질적으로 다른 내용(구체적인 외계 창조자 틀이 없는 세속적 휴머니즘)과 함께, 보다 넓은 비종교적 휴머니스트 내용의 하나의 구체적 동시대 정식화로 읽습니다.
 
-**Ethical Culture** (founded 1876 by Felix Adler) is one specific institutional articulation of the broader ethical-religious framework, with various specific institutional features (Ethical Culture Society, various national branches). The movement provides one specific historical antecedent of Raëlism's atheist-religion framing within an institutional-religious context.
+**윤리문화**(1876년에 펠릭스 애들러에 의해 창시됨)는 다양한 구체적 제도적 특징(윤리문화 협회, 다양한 국가별 지부)과 함께 보다 넓은 윤리-종교 틀의 하나의 구체적 제도적 정식화입니다. 이 운동은 제도-종교 맥락 안에서 라엘리즘의 무신론 종교 프레이밍의 하나의 구체적 역사적 선행을 제공합니다.
 
-**Various Buddhist traditions** preserve substantially atheist-religious frameworks within the broader Buddhist religious-philosophical traditions. The principal Buddhist atheist features include the rejection of creator-deity content, the rejection of immortal-soul content, and the orientation toward awakening rather than toward divine relationship. The framework reads various Buddhist traditions as substantial parallels to Raëlism's atheist-religion framing, with the Theravada tradition being particularly close to the strictly-atheist framing while various Mahayana traditions preserve more substantial deity-content.
+**다양한 불교 전통**은 보다 넓은 불교 종교-철학 전통 안에서 실질적으로 무신론적인 종교적 틀을 보존합니다. 주요 불교의 무신론적 특징에는 창조자 신성 내용의 거부, 불멸의 영혼 내용의 거부, 그리고 신적 관계보다는 깨달음을 향한 정향이 포함됩니다. 이 틀은 다양한 불교 전통을 라엘리즘의 무신론 종교 프레이밍에 대한 실질적인 평행으로 읽으며, 상좌부 전통이 엄격한 무신론 프레이밍에 특히 가깝고 다양한 대승 전통은 더 실질적인 신성 내용을 보존합니다.
 
-**The Sunday Assembly** and various other contemporary atheist-religion articulations provide further parallels to Raëlism's specific atheist-religion framing within the broader contemporary religious landscape.
+**선데이 어셈블리**와 다양한 다른 동시대의 무신론 종교 정식화는 보다 넓은 동시대 종교 지형 안에서 라엘리즘의 구체적인 무신론 종교 프레이밍에 대한 추가 평행을 제공합니다.
 
-### Buddhist-philosophical religions
+### 불교-철학 종교
 
-The broader category of Buddhist-philosophical religions provides one specific comparative category for Raëlism's distinctive atheist-philosophical framing.
+불교-철학 종교라는 보다 넓은 범주는 라엘리즘의 독특한 무신론적-철학적 프레이밍에 대한 하나의 구체적 비교적 범주를 제공합니다.
 
-**Theravada Buddhism** preserves substantially atheist content within the broader Buddhist religious-philosophical tradition, with the rejection of creator-deity content, the rejection of immortal-soul content, and the orientation toward awakening through the Eightfold Path. The framework reads Theravada Buddhism as one specific parallel to Raëlism's atheist-religion framing, with substantially different doctrinal content (Theravada's specific Four Noble Truths framework; Raëlism's specific extraterrestrial-creator framework).
+**상좌부 불교**는 창조자 신성 내용의 거부, 불멸의 영혼 내용의 거부, 그리고 팔정도를 통한 깨달음을 향한 정향과 함께 보다 넓은 불교 종교-철학 전통 안에서 실질적으로 무신론적 내용을 보존합니다. 이 틀은 상좌부 불교를, 실질적으로 다른 교리적 내용(상좌부의 구체적인 사성제 틀, 라엘리즘의 구체적인 외계 창조자 틀)과 함께, 라엘리즘의 무신론 종교 프레이밍에 대한 하나의 구체적 평행으로 읽습니다.
 
-**Various Buddhist modernist traditions** (Buddhist modernism, secular Buddhism, various others) have produced substantial articulations of explicitly atheist Buddhist content across the post-19th-century period, with various specific institutional features. The framework reads these traditions as substantial parallels to Raëlism's atheist-religion framing, with substantively different specific content.
+**다양한 불교 모더니스트 전통**(불교 모더니즘, 세속적 불교 등)은 다양한 구체적 제도적 특징과 함께 19세기 이후 시기에 걸쳐 명시적으로 무신론적인 불교 내용에 대한 실질적 정식화를 산출해 왔습니다. 이 틀은 이러한 전통을, 실질적으로 다른 구체적 내용과 함께 라엘리즘의 무신론 종교 프레이밍에 대한 실질적 평행으로 읽습니다.
 
-### Indigenous-creator religions
+### 토착-창조자 종교
 
-The broader category of indigenous-creator religions provides one specific comparative category for Raëlism's distinctive creator-civilization framing within indigenous-religious traditions.
+토착-창조자 종교라는 보다 넓은 범주는 토착-종교 전통 안에서 라엘리즘의 독특한 창조자-문명 프레이밍에 대한 하나의 구체적 비교적 범주를 제공합니다.
 
-**Various Mesoamerican traditions** preserve substantial creator-civilization content with distinctive cultural-religious framings (the detailed treatment lives in the [Antediluvian](../antediluvian/) entry's *Comparative observations* and broader entries). The framework reads these traditions as preserving substantial parallel content to Raëlism's specific extraterrestrial-creator framework within distinctive cultural-religious framings.
+**다양한 메소아메리카 전통**은 독특한 문화-종교적 프레이밍과 함께 실질적인 창조자-문명 내용을 보존합니다(상세한 다룸은 [대홍수 이전](../antediluvian/) 항목의 *비교적 관찰*과 보다 넓은 항목들에 있음). 이 틀은 이러한 전통을, 독특한 문화-종교적 프레이밍 안에서 라엘리즘의 구체적인 외계 창조자 틀에 대한 실질적인 평행 내용을 보존하는 것으로 읽습니다.
 
-**Various African creation traditions** preserve substantial creator-civilization content with distinctive cultural-religious framings. The framework reads these traditions as preserving substantial parallel content within distinctive cultural-religious framings.
+**다양한 아프리카 창조 전통**은 독특한 문화-종교적 프레이밍과 함께 실질적인 창조자-문명 내용을 보존합니다. 이 틀은 이러한 전통을, 독특한 문화-종교적 프레이밍 안에서 실질적인 평행 내용을 보존하는 것으로 읽습니다.
 
-**Various Polynesian, North American, South American, and Australian Aboriginal traditions** preserve substantial creator-civilization content within their distinctive cultural-religious framings.
+**다양한 폴리네시아, 북미, 남미, 오스트레일리아 원주민 전통**은 그들의 독특한 문화-종교적 프레이밍 안에서 실질적인 창조자-문명 내용을 보존합니다.
 
-### The convergence
+### 수렴
 
-The corpus's working position on the comparative-religious-movement question is that Raëlism occupies a distinctive position within the broader religious-movement landscape — substantially within the UFO-religion category through its specific extraterrestrial-creator framework, substantially within the new-religious-movement category through its institutional development pattern, substantially within the atheist-religion category through its explicit atheist framing, while being distinctive within each of these categories through specific features that warrant separate analytical treatment.
+비교 종교 운동 문제에 관한 코퍼스의 작업적 입장은 다음과 같습니다. 라엘리즘은 보다 넓은 종교 운동 지형 안에서 독특한 위치를 점합니다 — 구체적인 외계 창조자 틀을 통해 UFO-종교 범주 안에 실질적으로 속하고, 제도적 발전 패턴을 통해 신종교 운동 범주 안에 실질적으로 속하며, 명시적인 무신론 프레이밍을 통해 무신론 종교 범주 안에 실질적으로 속하면서도, 이러한 각 범주 안에서 별개의 분석적 다룸을 정당화하는 구체적 특징을 통해 독특합니다.
 
-The mainstream scholarly explanation — which generally treats Raëlism through eclectic-categorization approaches drawing on multiple scholarly categories simultaneously — captures substantial features of Raëlism's distinctive position. The framework's specific reading is that Raëlism's structural distinctiveness is a substantive feature reflecting the movement's specific role as the principal contemporary institutional vehicle for the source-material teaching that the broader Wheel of Heaven framework engages — a vehicle whose specific institutional, doctrinal, and operational features reflect the specific Aquarian-age requirements rather than being incidental.
+주류 학술적 설명 — 일반적으로 여러 학술적 범주를 동시에 끌어들이는 절충적 분류 접근법을 통해 라엘리즘을 다룸 — 은 라엘리즘의 독특한 위치의 실질적 특징을 포착합니다. 이 틀의 구체적 독해는 라엘리즘의 구조적 독특성이, 보다 넓은 Wheel of Heaven 틀이 관여하는 원천 자료 가르침의 주요 동시대 제도적 매개체로서의 운동의 구체적 역할을 반영하는 실질적 특징이라는 것입니다 — 그 구체적인 제도적, 교리적, 작전적 특징이 부수적인 것이 아니라 구체적인 물병자리 시대 요구사항을 반영하는 매개체.
 
-## See also
+## 함께 보기
 
-- [Raël](../rael/)
-- [Yahweh](../yahweh/)
-- [Elohim](../elohim/)
-- [The Alliance](../the-alliance/)
-- [Council of the Eternals](../council-of-eternals/)
-- [Embassy](../embassy/)
-- [Apocalypse](../apocalypse/)
-- [Cosmic Competition](../cosmic-competition/)
-- [Cosmic Chain](../cosmic-chain/)
-- [Doubled Signature](../doubled-signature/)
-- [Prophet](../prophet/)
-- [Jesus](../jesus/)
-- [Moses](../moses/)
-- [Muhammad](../muhammad/)
-- [Buddha](../buddha/)
-- [Genesis](../genesis/)
-- [Hebrew Bible](../hebrew-bible/)
-- [Age of Aquarius](../timeline/age-of-aquarius/)
-- [Age of Pisces](../timeline/age-of-pisces/)
-- [Atomic Threshold](../atomic-threshold/)
-- [Tree of Life](../tree-of-life/)
-- [Jean Sendy](../jean-sendy/)
-- [Mauro Biglino](../mauro-biglino/)
-- [Paul Anthony Wallis](../paul-anthony-wallis/)
+- [라엘](../rael/)
+- [야훼](../yahweh/)
+- [엘로힘](../elohim/)
+- [동맹](../the-alliance/)
+- [영원자들의 의회](../council-of-eternals/)
+- [대사관](../embassy/)
+- [아포칼립스](../apocalypse/)
+- [우주적 경쟁](../cosmic-competition/)
+- [우주적 사슬](../cosmic-chain/)
+- [이중 서명](../doubled-signature/)
+- [예언자](../prophet/)
+- [예수](../jesus/)
+- [모세](../moses/)
+- [무함마드](../muhammad/)
+- [부처](../buddha/)
+- [창세기](../genesis/)
+- [히브리어 성경](../hebrew-bible/)
+- [물병자리 시대](../timeline/age-of-aquarius/)
+- [물고기자리 시대](../timeline/age-of-pisces/)
+- [원자적 문턱](../atomic-threshold/)
+- [생명나무](../tree-of-life/)
+- [장 상디](../jean-sendy/)
+- [마우로 빌리노](../mauro-biglino/)
+- [폴 앤서니 월리스](../paul-anthony-wallis/)
 
-## References
+## 참고문헌
 
-Vorilhon, Claude (Raël). *Le Livre qui dit la vérité*. Éditions du Message, 1974. English: *The Book Which Tells the Truth*.
+Vorilhon, Claude (Raël). *Le Livre qui dit la vérité*. Éditions du Message, 1974. 영어판: *The Book Which Tells the Truth*.
 
-Vorilhon, Claude (Raël). *Les Extra-Terrestres m'ont emmené sur leur planète*. Éditions du Message, 1975/76. English: *Extra-Terrestrials Took Me to Their Planet*.
+Vorilhon, Claude (Raël). *Les Extra-Terrestres m'ont emmené sur leur planète*. Éditions du Message, 1975/76. 영어판: *Extra-Terrestrials Took Me to Their Planet*.
 
-Vorilhon, Claude (Raël). *Accueillir les Extra-terrestres*. Éditions du Message, 1979. English: *Let's Welcome the Extra-terrestrials*.
+Vorilhon, Claude (Raël). *Accueillir les Extra-terrestres*. Éditions du Message, 1979. 영어판: *Let's Welcome the Extra-terrestrials*.
 
-Vorilhon, Claude (Raël). *La Géniocratie*. Éditions du Message, 1978. English: *Geniocracy*.
+Vorilhon, Claude (Raël). *La Géniocratie*. Éditions du Message, 1978. 영어판: *Geniocracy*.
 
-Vorilhon, Claude (Raël). *La Méditation Sensuelle*. Éditions du Message, 1980. English: *Sensual Meditation*.
+Vorilhon, Claude (Raël). *La Méditation Sensuelle*. Éditions du Message, 1980. 영어판: *Sensual Meditation*.
 
-Vorilhon, Claude (Raël). *Oui au clonage humain*. Éditions du Message, 2000. English: *Yes to Human Cloning*.
+Vorilhon, Claude (Raël). *Oui au clonage humain*. Éditions du Message, 2000. 영어판: *Yes to Human Cloning*.
 
-Vorilhon, Claude (Raël). *Le Maitreya*. Éditions du Message. English: *The Maitreya*.
+Vorilhon, Claude (Raël). *Le Maitreya*. Éditions du Message. 영어판: *The Maitreya*.
 
 Vorilhon, Claude (Raël). *Message from the Designers*. Tagman Press, 2005.
 
-International Raëlian Movement. *Apocalypse* magazine (semi-annual, 1976-present).
+International Raëlian Movement. *Apocalypse* 매거진 (반기별, 1976년–현재).
 
-International Raëlian Movement. *Contact* e-newsletter (weekly, current period).
+International Raëlian Movement. *Contact* e-뉴스레터 (주간, 현재 시기).
 
-International Raëlian Movement. Various official communications across the 1976-present period.
+International Raëlian Movement. 1976년–현재 시기에 걸친 다양한 공식 통신.
 
 Palmer, Susan J. *Aliens Adored: Raël's UFO Religion*. Rutgers University Press, 2004.
 
-Palmer, Susan J. "Field Notes: Apocalypse, Eros, and the Raelian Religion." *Religious Studies and Theology* 19, no. 2 (2000): 65-75.
+Palmer, Susan J. "Field Notes: Apocalypse, Eros, and the Raelian Religion." *Religious Studies and Theology* 19, no. 2 (2000): 65–75.
 
-Palmer, Susan J. "Women in the Raelian Movement: New Religious Experiments in Gender and Authority." In *The Gods Have Landed: New Religions from Other Worlds*, ed. James R. Lewis. SUNY Press, 1995.
+Palmer, Susan J. "Women in the Raelian Movement: New Religious Experiments in Gender and Authority." *The Gods Have Landed: New Religions from Other Worlds* 중에서, ed. James R. Lewis. SUNY Press, 1995.
 
-Introvigne, Massimo. Various scholarly engagements with the Raëlian movement through CESNUR, 1990s-present.
+Introvigne, Massimo. CESNUR를 통한 라엘리안 운동에 대한 다양한 학술적 관여, 1990년대–현재.
 
 Lewis, James R., ed. *The Gods Have Landed: New Religions from Other Worlds*. SUNY Press, 1995.
 
@@ -599,7 +655,7 @@ Lewis, James R., ed. *Encyclopedic Sourcebook of UFO Religions*. Prometheus Book
 
 Partridge, Christopher, ed. *UFO Religions*. Routledge, 2003.
 
-Partridge, Christopher. *The Re-Enchantment of the West*. 2 vols. T&T Clark, 2004-2005.
+Partridge, Christopher. *The Re-Enchantment of the West*. 2 vols. T&T Clark, 2004–2005.
 
 Tumminia, Diana G. *Alien Worlds: Social and Religious Dimensions of Extraterrestrial Contact*. Syracuse University Press, 2007.
 
@@ -607,17 +663,17 @@ Chryssides, George D. "Unrecognized Charisma? A Study and Comparison of Four Cha
 
 Chryssides, George D., and Margaret Z. Wilkins, eds. *A Reader in New Religious Movements*. Continuum, 2006.
 
-Rothstein, Mikael. "Hagiography and Text in the Raëlian Movement." In *UFO Religions*, ed. Christopher Partridge. Routledge, 2003.
+Rothstein, Mikael. "Hagiography and Text in the Raëlian Movement." *UFO Religions* 중에서, ed. Christopher Partridge. Routledge, 2003.
 
-Rothstein, Mikael. "UFO Religions and Religious Studies: A Comparative Perspective." In *UFO Religions*, ed. Christopher Partridge. Routledge, 2003.
+Rothstein, Mikael. "UFO Religions and Religious Studies: A Comparative Perspective." *UFO Religions* 중에서, ed. Christopher Partridge. Routledge, 2003.
 
-Östling, Erik A. W. "Raëlism." In *Handbook of UFO Religions*, ed. Benjamin E. Zeller. Brill, forthcoming.
+Östling, Erik A. W. "Raëlism." *Handbook of UFO Religions* 중에서, ed. Benjamin E. Zeller. Brill, forthcoming.
 
 Zeller, Benjamin E. *Heaven's Gate: America's UFO Religion*. NYU Press, 2014.
 
 Zeller, Benjamin E., ed. *Handbook of UFO Religions*. Brill, 2021.
 
-Saliba, John A. "The Study of UFO Religions." *Nova Religio* 10, no. 2 (2006): 103-123.
+Saliba, John A. "The Study of UFO Religions." *Nova Religio* 10, no. 2 (2006): 103–123.
 
 Wessinger, Catherine, ed. *The Oxford Handbook of Millennialism*. Oxford University Press, 2011.
 
@@ -627,7 +683,7 @@ Mack, John E. *Abduction: Human Encounters with Aliens*. Charles Scribner's Sons
 
 Mack, John E. *Passport to the Cosmos: Human Transformation and Alien Encounters*. Crown, 1999.
 
-Comte, Auguste. *Système de politique positive*. 4 vols. Carilian-Goeury, 1851-1854. English: *System of Positive Polity*. Trans. various. Longmans, Green, 1875-1877.
+Comte, Auguste. *Système de politique positive*. 4 vols. Carilian-Goeury, 1851–1854. 영어판: *System of Positive Polity*. Trans. various. Longmans, Green, 1875–1877.
 
 Adler, Felix. *An Ethical Philosophy of Life*. D. Appleton, 1918.
 
@@ -643,9 +699,9 @@ Sendy, Jean. *Ces dieux qui firent le ciel et la terre*. Robert Laffont, 1969.
 
 Sendy, Jean. *L'ère du Verseau*. Robert Laffont, 1970.
 
-Biglino, Mauro, and Giorgio Cattaneo. *The Naked Bible: The Truth About the Most Famous Book in History*. Uno, 2022.
+Biglino, Mauro, and Giorgio Cattaneo. *The Naked Bible: {% wiki(slug="the-truth") %}진실{% end %} About the Most Famous Book in History*. Uno, 2022.
 
-Wallis, Paul Anthony. *The Eden Conspiracy*. 6th Books, 2024.
+Wallis, Paul Anthony. *The {% wiki(slug="eden") %}에덴{% end %} Conspiracy*. 6th Books, 2024.
 
 International Raëlian Movement. <https://www.rael.org>
 

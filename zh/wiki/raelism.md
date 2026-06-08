@@ -1,597 +1,653 @@
 +++
-title = "雷尔运动"
-description = "雷尔运动是雷尔基于1973–1975年所接收的传递创立的运动,将圣经的厄罗欣式阅读、伦理纲领以及大使馆的政治计划结合在一起。对 Wheel of Heaven 文集而言,它是其重新阅读其他一切传统所依据的源典。"
+title = "雷尔派"
+slug = "raelism"
+description = "雷尔派是由雷尔(克劳德·佛里翁)于 1974–1976 年创立的宗教—哲学运动,源于他所报告的 1973 年 12 月 13 日在克莱蒙费朗附近的拉索拉斯火山口与耶洛因联盟一位官员的接触。该运动在更广泛的宗教运动版图中具有结构上的独特性,因其是明确无神论的 — 否认超自然神祇,将耶洛因视为通过基因工程创造人类的先进生物文明 — 同时通过累积性的先知传统、水瓶座时代纲领、使馆计划以及各种独特的雷尔派实践(包括感官冥想与受洗式的细胞计划传输)保留了实质性的宗教维度。其制度载体是 1976 年创立的国际雷尔运动(IRM),在约九十个国家设有分支,1976 年以来累计成员人数约为 65,000–100,000(各方数字不一)。"
 template = "wiki-page.html"
 toc = true
 
 [extra]
-translation_status = "metadata_only"
-category = "Cosmology & Framework"
+featured_order = 3
+category = "宇宙学与框架"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["the Raëlian Movement", "the International Raëlian Movement", "the Raëlian religion", "Raëlianism", "the IRM"]
+alternative_names = ["雷尔运动", "国际雷尔运动", "雷尔派宗教", "Raëlianism", "IRM"]
+see_also = [
+    { title = "雷尔", path = "wiki/rael", description = "创立者,原名克劳德·佛里翁,报告了 1973 年的接触事件。" },
+    { title = "真理之书", path = "wiki/the-truth", description = "1974 年的首部著作,收录来自耶洛因的讯息。" },
+    { title = "新诫命", path = "wiki/new-commandments", description = "经由雷尔传达的更新版伦理法典。" },
+    { title = "耶洛因", path = "wiki/elohim", description = "在雷尔派的解读中被认定为来自他处的人类文明的造物主。" },
+    { title = "使馆", path = "wiki/embassy", description = "该运动寻求建造、用于耶洛因正式回归的外交建筑群。" },
+    { title = "天才统治", path = "wiki/geniocracy", description = "雷尔提出的政治体制 — 由可证之具有高智力者治理。" },
+    { title = "天堂主义", path = "wiki/paradism", description = "雷尔为全面自动化社会提出的后稀缺经济愿景。" },
+]
 timeline = ["aquarius"]
 
+footnotes = [
+    { content = "拉索拉斯火山口是中央高原多姆山链中的一座火山锥;多姆山链是由约八十座更新世至全新世的火山渣锥与熔岩穹丘构成的小型山系,2018 年被列入联合国教科文组织世界遗产名录。佛里翁将该火山口指定为接触地点,在同情立场的学者看来(帕尔默、英特罗维涅),属于源材料总体上具有地理上具体可查特征这一模式的一部分 — 这些主张无论证据地位如何,均可独立对照实际地形加以验证。" },
+    { content = "65,000–100,000 这一区间汇集了国际雷尔运动制度性传播所自报的数字与独立观察者及前成员所得出的较低估计。帕尔默的《被崇拜的外星人》(2004)将该运动自身的数字视作上限,并指出活跃成员与名义成员的区分在很大程度上使任何单一计数变得复杂;区间下端通常反映对受洗活跃成员的估算,上端则反映该运动历史上细胞计划传输的累计次数。" },
+    { content = "天才统治的智力门槛 — 担任公职须高于平均智力 50%,投票须高于平均 10% — 使该教义置于一个更宽广的精英—技术官僚传统之中,其中包括柏拉图的《理想国》、儒家科举制度,以及二十世纪的技术官僚运动(霍华德·斯科特、M·金·哈伯特)。主流政治理论的回应(埃斯特伦德及其他学者关于知识统治的论述)一般认为,此类提案在所谓智力指标的测量、稳定性以及政治合法性方面面临严重的实践困难。" },
+    { content = "雷尔派教阶在明确无神论框架内使用明确的基督教教会职衔 — *Priest*(司铎)、*Bishop*(主教)、*Priest of Priests*(司铎中之司铎)— 这本身就是学术上感兴趣的一点。帕尔默将这一借用的词汇视为该运动以非超自然术语重新编码继承下来的宗教形式之更广泛策略的一部分;罗特斯坦关于圣徒传体裁的工作,则将这些职衔视为一种有意为之的累积性先知传统框架的一部分,将雷尔派定位为同一制度谱系的承继者,而非与其干净分立。" },
+    { content = "2002 年 12 月 27 日的克隆援助公司公告随后达成了一项协议,由科学记者迈克尔·吉伦居间斡旋,由独立团队通过对所称婴儿的 DNA 测试核实克隆主张。该核实进程在 2003 年 1 月初被搁置,因克隆援助公司拒绝交出该儿童,布瓦瑟列耶以法律监护权为由援引家长的拒绝。此后未曾出现任何独立的核实结果。主流科学界的立场(美国科学促进会、《自然》、《科学》)一直是,该公告构成的是一项未获支持的主张,而非一项有据可查的科学事件。" },
+    { content = "与天堂之门的对比在结构上是具体的,而不仅仅是时间上的。两个运动均出现于 1974–75 年;均围绕一位明确表达外星接触框架的魅力型创立者;均发展出实质性的教义文集与忠实的成员群体。两者的分歧在于各自的框架所规定的退出条件 — 天堂之门的框架将肉体死亡作为离去的运作机制,以海尔—波普伴星飞船相伴随,而雷尔派的框架则将使馆与联盟的公开回归视为发生在地球一侧、并以制度持续发展为条件。泽勒的《天堂之门》(2014)对该比较作了直接处理。" },
+]
+
+[[extra.references]]
+id = "the-book-which-tells-the-truth"
+note = "1974 年的奠基性雷尔派文本,记录 1973 年 12 月 13 日在克莱蒙费朗的初次接触,以及来自耶和华的主要教导。"
+
+[[extra.references]]
+id = "extraterrestrials-took-me-to-their-planet"
+note = "佛里翁 1976 年的第二部著作,记录 1975 年 10 月 7 日的第二次接触,以及对永恒者母星的访问。"
+
+[[extra.references]]
+id = "lets-welcome-the-extraterrestrials"
+note = "佛里翁 1979 年的第三部著作,讨论使馆计划、此前被保留的生物父系身份披露,以及水瓶座过渡。"
+
+[[extra.references]]
+id = "intelligent-design-message-from-the-designers"
+note = "2005 年合订英文版《来自设计者的讯息》,将三部奠基性著作汇为一集 — 当代雷尔派源材料的主要入口。"
+
+[[extra.references]]
+id = "rael-dot-org"
+note = "国际雷尔运动的主要官方网站;制度性自我呈现与当代传播。"
+
+[[extra.references]]
+id = "genesis"
+locator = "创世记 1"
+note = "希伯来圣经的第一个创造叙事,在雷尔派框架中被解读为对耶洛因文明基因工程创造工作的实质性准确记忆。"
+
+[[extra.references]]
+id = "those-gods-who-made-heaven-and-earth"
+note = "让·桑迪 1969 年对希伯来圣经中耶洛因的语文学—历史编纂学解读,将其视为实体性的外星存在 — 是雷尔派解读的独立学术先行者。"
+
+[[extra.references]]
+id = "the-bible-is-not-a-sacred-book"
+note = "毛罗·比利诺的严格字面希伯来圣经系列(2010 年起)— 在“耶洛因即实体存在之复数”这一解读上独立的语文学性趋同。"
+
+[[extra.references]]
+id = "escaping-from-eden"
+note = "保罗·安东尼·沃利斯 2020 年对希伯来圣经耶洛因的比较楔形文字解读,将其视为苏美尔的天空之民 — 与雷尔派框架的第三种独立学术趋同。"
+
 [extra.infobox]
-type = "Religious-philosophical movement; explicitly atheist religion based on extraterrestrial-creator framework; institutional vehicle for the embassy project and broader Aquarian-age preparation"
-founded = "1974 (MADECH); 1976 (International Raëlian Movement)"
-founder = "Raël (Claude Vorilhon, b. 1946)"
-basic_doctrine = "The Elohim, an advanced extraterrestrial civilization, created all life on Earth through genetic engineering approximately 25,000 years ago; humanity is to recognize this origin and prepare for the alliance's open return; the embassy must be built; the seven new commandments structure the Aquarian-age social-political program"
-character = "Atheist religion; rejects supernatural deity while preserving religious dimensions of awe, purpose, ethical commitment; structurally distinctive within both UFO-religion category and broader new-religious-movement landscape"
-principal_practices = "Cellular plan transmission (Raëlian baptism); sensual meditation; telepathic contact (Sundays at 11 AM); annual mountain gathering; commemoration of contact anniversaries (April 6, August 6, October 7, December 13)"
-institutional_structure = "Seven-level hierarchy of Guides; Guide of Guides (Raël) at the top; subsidiary organizations including Clonaid, Order of Angels, Alliance for Extraterrestrial Diplomatic Contact, various educational and outreach bodies"
-membership = "Approximately 65,000-100,000 (figures vary by source); national branches in approximately 90 countries; strongest in France, Canada, Japan, South Korea, Africa"
-distinguished_from = "The broader UFO-religion category (Heaven's Gate, Aetherius Society, Unarius, others); other new-religious-movements with prophet-founders (Mormonism, Scientology, Bahá'í); broader atheist/scientific religions (Comtean Religion of Humanity, Secular Humanism, Ethical Culture); the figure of Raël specifically (treated under separate entry)"
-status_in_source_material = "Substantially documented; doctrinal content principally drawn from Raëlian source material (1974-2005); institutional development principally drawn from Raëlian movement's institutional records; controversies principally drawn from contemporary journalistic and academic engagement"
-principal_text = "*The Book Which Tells the Truth* (1974); *Extra-Terrestrials Took Me to Their Planet* (1975/76); *Let's Welcome the Extra-terrestrials* (1979); *Sensual Meditation* (1980); *Geniocracy* (1978); *Yes to Human Cloning* (2000); *The Maitreya* (anthology); *Message from the Designers* (2005 consolidated edition)"
+type = "宗教—哲学运动;基于外星造物主框架的明确无神论宗教;使馆计划与更广泛水瓶座时代准备工作的制度载体"
+founded = "1974 年(MADECH);1976 年(国际雷尔运动)"
+founder = "雷尔(克劳德·佛里翁,1946 年生)"
+basic_doctrine = "约 25,000 年前,先进的外星文明耶洛因通过基因工程创造了地球上所有的生命;人类应当承认这一起源,并为联盟的公开回归作准备;使馆必须建造;七条新诫命为水瓶座时代的社会—政治纲领提供结构"
+character = "无神论宗教;在拒绝超自然神祇的同时保留敬畏、目的与伦理承诺等宗教维度;在 UFO 宗教类别与更广泛的新兴宗教运动版图中均具有结构上的独特性"
+principal_practices = "细胞计划传输(雷尔派受洗);感官冥想;心灵感应接触(周日上午 11 时);年度山顶聚会;接触周年纪念日(4 月 6 日、8 月 6 日、10 月 7 日、12 月 13 日)"
+institutional_structure = "七级向导教阶;雷尔为向导中之向导,居于顶端;附属组织包括克隆援助公司、天使会、外星外交接触联盟,以及多个教育与外联机构"
+membership = "约 65,000–100,000(各方数字不一);约 90 个国家设有分支;在法国、加拿大、日本、韩国与非洲尤为兴盛"
+distinguished_from = "更宽泛的 UFO 宗教类别(天堂之门、以太协会、Unarius 及其他);其他有先知—创立者的新兴宗教运动(摩门教、山达基、巴哈伊);更宽泛的无神论 / 科学宗教(孔德的人道教、世俗人本主义、伦理文化);雷尔本人(见专门条目)"
+status_in_source_material = "有充分文献依据;教义内容主要取自雷尔派源材料(1974–2005);制度发展主要取自雷尔运动的制度记录;争议则主要取自当代新闻业与学界的相关论述"
+principal_text = "《真理之书》(1974);《外星人带我去他们的行星》(1975/76);《让我们欢迎外星人》(1979);《感官冥想》(1980);《天才统治》(1978);《赞成人类克隆》(2000);《弥勒》(选集);《来自设计者的讯息》(2005 合订版)"
 +++
 
-**Raëlism** is the religious-philosophical movement founded by **Raël** (Claude Vorilhon) following his reported December 13, 1973 contact with an officer of the Elohim alliance at the Puy-de-Lassolas volcanic crater near Clermont-Ferrand, France. The movement's institutional vehicle is the **International Raëlian Movement (IRM)**, founded in 1976 as the successor to the predecessor organization **MADECH** (*Mouvement pour l'Accueil des Élohim Créateurs de l'Humanité*, founded 1974). Raëlism is structurally distinctive within the broader religious-movement landscape in being **explicitly atheist** — rejecting supernatural deity in favor of the Elohim as advanced biological civilization that created humanity through genetic engineering approximately 25,000 years ago — while preserving substantial religious dimensions through the cumulative prophetic tradition, the Aquarian-age program, the embassy project, and various distinctive Raëlian practices. The movement has been characterized within mainstream new-religious-movement (NRM) scholarship as one of the most institutionally substantial UFO-religions, with national branches established in approximately ninety countries and reported membership figures ranging from approximately 65,000 to approximately 100,000 across the post-1976 period (figures vary by source and methodology).
+**雷尔派**是由**雷尔**(克劳德·佛里翁)所创立的宗教—哲学运动,起源于他所报告的 1973 年 12 月 13 日在法国克莱蒙费朗附近的拉索拉斯火山口与耶洛因联盟一位官员的接触。{{ footnote(id="1") }}该运动的制度载体是**国际雷尔运动(IRM)**,创立于 1976 年,作为前身组织 **MADECH**(*Mouvement pour l'Accueil des Élohim Créateurs de l'Humanité*,“迎接造人耶洛因运动”,1974 年成立)的继任组织。雷尔派在更广泛的宗教运动版图中具有结构上的独特性,因其是**明确无神论的** — 否认超自然神祇,将耶洛因视为约 25,000 年前通过基因工程创造人类的先进生物文明 — 同时通过累积性先知传统、水瓶座时代纲领、使馆计划以及多种独特的雷尔派实践,保留了实质性的宗教维度。在主流的新兴宗教运动(NRM)学术研究中,该运动被刻画为最具制度实质的 UFO 宗教之一,在约九十个国家建立有分支,1976 年以来报告的成员数字从约 65,000 至约 100,000 不等(数字因来源与方法而异)。{{ footnote(id="2") }}
 
-The doctrinal content of Raëlism centers on the broader framework that the source-material teaching has established: the Elohim civilization's specific creation work on Earth across the past 25,000 years, the cumulative prophetic tradition culminating in Raël's Aquarian-age mission, the seven new commandments specifying the political-social program for the Aquarian age (geniocracy, humanitarianism, world government, demilitarization, science as religion, telepathic cultivation, and the metaphysical clarifications), the embassy project as the operational center for the alliance's projected open return, and the broader Aquarian-age program of human transformation toward the projected Golden Age. The doctrinal framework is explicitly **atheist** in the specific sense that Raël has elaborated: there is no supernatural deity, no immortal soul, no metaphysical-theological apparatus of the sort the conventional religious traditions have developed; the religious dimensions of awe, purpose, and ethical commitment are preserved, but they are oriented toward the infinite cosmos itself, the Elohim creators (treated as advanced beings of human kind rather than as divinities), and the broader cosmic-creative cycle that humanity is projected to participate in.
+雷尔派的教义内容围绕源材料所确立的更广泛框架展开:耶洛因文明在过去 25,000 年间于地球上的具体创造工作;以雷尔的水瓶座时代使命为顶点的累积性先知传统;为水瓶座时代规定政治—社会纲领的七条新诫命(天才统治、人道主义、世界政府、去军事化、以科学为宗教、心灵感应的培育以及形而上学澄清);作为联盟所计划之公开回归运作中心的使馆计划;以及朝向所投射之{% wiki(slug="golden-age") %}黄金时代{% end %}的更广泛人类转化纲领。其教义框架在雷尔所阐述的具体意义上是**无神论的**:不存在超自然神祇,不存在不朽灵魂,也不存在传统宗教所发展出来的那种形而上学—神学装置;敬畏、目的与伦理承诺等宗教维度被保留,但它们指向的是无限宇宙本身、耶洛因造物主(被视为人类一类的先进存在,而非神祇),以及人类被投射参与其中的更广泛宇宙—创造循环。
 
-The institutional structure of Raëlism comprises the **seven-level hierarchy of Guides** (with Raël as **Guide of Guides** at the top), the various subsidiary organizations (Clonaid, the Order of Angels, the Alliance for Extraterrestrial Diplomatic Contact, and various educational and outreach bodies), and the broader operational infrastructure that has developed across the past five decades. The principal practices include the **cellular plan transmission** (the Raëlian baptismal ceremony, conducted at four annual dates corresponding to significant moments in the prophetic tradition — April 6, August 6, October 7, December 13), **sensual meditation** (the meditation practices designed by the Elohim for awakening the senses and achieving inner harmony), **telepathic contact** (the practice of mind-to-mind communication with the Elohim, particularly conducted on Sunday mornings at 11 AM), and various commemorations of contact anniversaries and broader institutional gatherings.
+雷尔派的制度结构由**七级向导教阶**(雷尔作为**向导中之向导**居于顶端)、各附属组织(克隆援助公司、天使会、外星外交接触联盟,以及多个教育与外联机构),以及过去五十年间所发展起来的更广泛运作基础设施构成。其主要实践包括:**细胞计划传输**(雷尔派受洗仪式,在四个对应于先知传统重要时刻的年度日期举行 — 4 月 6 日、8 月 6 日、10 月 7 日、12 月 13 日)、**感官冥想**(由耶洛因为唤醒感官、达至内在和谐所设计的冥想实践)、**心灵感应接触**(与耶洛因的心对心交流实践,尤其于周日上午 11 时进行),以及对接触周年纪念日的各种纪念活动与更广泛的制度聚会。
 
-The movement has produced substantial controversy across its half-century history. The **2002 Clonaid claim** — Brigitte Boisselier's December 27, 2002 announcement of the alleged birth of the first cloned human baby ("Eve"), never independently verified across the subsequent two decades — produced substantial international media attention and substantial subsequent scientific and journalistic skepticism. The **original Raëlian Symbol of Infinity** (a Star of David with central swastika) was modified in 1990 in Western branches to replace the central swastika with a galaxy-shaped swirl, in response to the symbol's complicated reception in post-Holocaust European-North American contexts. The **Order of Angels** (established 1998) has been the subject of substantial controversy regarding its specific practices and female-only membership structure. The **sensual meditation** practices have produced substantial mainstream criticism for their explicitly sexual content. The **French anti-cult organizational engagement** through MIVILUDES (*Mission interministérielle de vigilance et de lutte contre les dérives sectaires*) and UNADFI (*Union nationale des associations de défense des familles et de l'individu*) has produced substantial legal-political tension across the past several decades, with the Raëlian movement being classified as a problematic religious group in various official French-government documents.
+该运动在其半世纪历史中产生了大量争议。**2002 年克隆援助公司主张** — 即布丽吉特·布瓦瑟列耶于 2002 年 12 月 27 日宣布所谓首例人类克隆婴儿(“夏娃”)的诞生,但在此后二十年中从未获得独立核实 — 引发了大量国际媒体关注,以及随后大量来自科学界与新闻界的怀疑。**原版{% wiki(slug="raelian-symbol-of-infinity") %}雷尔派无限符号{% end %}**(中央带有卐字符的{% wiki(slug="star-of-david") %}大卫星{% end %})于 1990 年在西方分支中被修改,将中央卐字符替换为漩涡状星系图案,以回应该符号在后大屠杀的欧洲—北美语境中复杂的接受状况。**天使会**(1998 年设立)在其特定实践及仅限女性的成员结构方面引发了大量争议。**感官冥想**实践因其明确的性内容引发了大量主流批评。**法国反邪教组织参与** — 通过 MIVILUDES(*Mission interministérielle de vigilance et de lutte contre les dérives sectaires*,“关于教派偏轨警惕与对抗的部际任务”)与 UNADFI(*Union nationale des associations de défense des familles et de l'individu*,“家庭与个人保护协会全国联合会”)— 在过去数十年间产生了大量法律—政治张力,雷尔派运动在多份法国政府官方文件中被划归为有问题的宗教团体。
 
-The reading is interpretive. Within mainstream NRM scholarship, Raëlism is treated as a substantial contemporary religious movement with substantial documented institutional development, substantial doctrinal articulation, and substantial sociological-anthropological interest. The principal scholars (Susan Palmer, Massimo Introvigne, James R. Lewis, George Chryssides, Mikael Rothstein, Christopher Partridge, and others) have produced substantial scholarly engagement that treats Raëlism seriously as religious phenomenon while not endorsing its specific historical claims about the December 13, 1973 contact event. Within mainstream theological tradition, Raëlism is broadly not engaged with as a continuation of any established theological tradition; the various religious traditions have either ignored Raëlism or treated it as a problematic movement outside legitimate religious tradition. Within the corpus's framework, Raëlism occupies the specific position of the **principal contemporary institutional vehicle** for the source-material teaching that the framework engages — neither identical with the broader Wheel of Heaven framework (which is the corpus's distinctive interpretive contribution) nor fully separable from it (since the source-material teaching that the framework engages is itself the foundational basis for both).
+此一阅读属于诠释性的。在主流 NRM 学术研究中,雷尔派被视为一项实质性的当代宗教运动,具有大量文献证明的制度发展、大量教义阐述,以及实质的社会学—人类学研究价值。主要学者(苏珊·帕尔默、马西莫·英特罗维涅、詹姆斯·R·刘易斯、乔治·克里希迪斯、米卡埃尔·罗特斯坦、克里斯托弗·帕特里奇及其他)对雷尔派进行了实质性的学术研究,认真对待其作为宗教现象,而不背书其关于 1973 年 12 月 13 日接触事件的具体历史主张。在主流神学传统中,雷尔派基本上不被视为任何既定神学传统的延续;各宗教传统要么忽视雷尔派,要么将其视为合法宗教传统之外的有问题运动。在本文集的框架内,雷尔派占据着**框架所涉及之源材料教导的主要当代制度载体**这一具体位置 — 它既不与更广泛的{% wiki(slug="wheel-of-heaven") %}Wheel of Heaven{% end %}框架(本文集独有的诠释贡献)等同,亦无法与之完全分离(因为框架所涉及的源材料教导本身正是两者共同的根本基础)。
 
-## Etymology and naming
+## 词源与命名
 
-The movement has several distinct designations operating across the source material and broader scholarly engagement.
+该运动在源材料与更广泛的学术研究中有几个不同的称谓。
 
-### "Raëlism" as the principal designation
+### “雷尔派”作为主要称谓
 
-The English term **"Raëlism"** is the principal designation in mainstream English-language scholarship and popular discourse. The construction follows the standard English pattern for religious-movement designations (Catholicism, Buddhism, Mormonism, Scientology, etc.), forming the abstract-noun designation from the founder's name. The diacritical mark (the umlaut on the *ë*) is preserved in scholarly usage and in the Raëlian movement's official communications, though it is sometimes dropped in popular usage (as **"Raelism"** without diacritical mark).
+英语术语 **“Raëlism”**(雷尔派)是主流英语学术研究与大众话语中的主要称谓。该构词遵循英语对宗教运动称谓的标准模式(Catholicism、Buddhism、Mormonism、Scientology 等),由创立者之名构成抽象名词称谓。变音符号(*ë* 上的分音符)在学术用法与雷尔运动的官方传播中均得以保留,尽管在大众用法中有时会被略去(写作不带变音符号的 **“Raelism”**)。
 
-The movement's own institutional preference is generally to use **"the Raëlian Movement"** or **"the International Raëlian Movement"** rather than **"Raëlism"** as a doctrinal-philosophical designation. The movement's self-presentation generally treats "Raëlism" as an external scholarly designation while preserving the institutional self-designation as the principal internal terminology.
+该运动自身的制度偏好通常是使用 **“雷尔运动”** 或 **“国际雷尔运动”**,而非将 **“雷尔派”** 用作教义—哲学的称谓。该运动的自我呈现一般将“雷尔派”视为外部学术称谓,而以制度自指作为主要的内部用语。
 
-### "Raëlianism" as alternative designation
+### “Raëlianism”作为替代称谓
 
-The term **"Raëlianism"** is sometimes used as an alternative scholarly designation, particularly in older scholarly literature. The construction follows a slightly different English pattern (with the *-ian* suffix rather than the simple *-ism* suffix), producing the alternative form. Contemporary scholarship has substantially settled on **"Raëlism"** as the principal designation, though both forms continue to appear in scholarly literature.
+术语 **“Raëlianism”** 有时被用作替代的学术称谓,尤其见于较早的学术文献。该构词遵循略为不同的英语模式(以 *-ian* 后缀加 *-ism* 而非简单的 *-ism*),产生替代形式。当代学术研究已实质性地收敛于 **“Raëlism”** 作为主要称谓,但两种形式在学术文献中仍并行出现。
 
-### Source-material variations
+### 源材料中的变体
 
-The source material uses several distinct phrasings:
+源材料使用了几种不同的措辞:
 
-- **"The Raelian Movement"** — the source's principal designation in the 2005 *Message from the Designers* English edition
-- **"The Raelian religion"** — the source's specific phrasing in some contexts, particularly when registering the movement's distinctive religious-rather-than-purely-philosophical character
-- **"An atheist religion"** — Raël's specific characterization of the movement's doctrinal-philosophical content
+- **“The Raelian Movement”**(雷尔运动)— 2005 年《来自设计者的讯息》英文版中源材料的主要称谓
+- **“The Raelian religion”**(雷尔派宗教)— 源材料在某些语境中的具体措辞,尤其在记录该运动具有宗教性而非纯粹哲学性的独特性格之时
+- **“An atheist religion”**(一种无神论宗教)— 雷尔对该运动教义—哲学内容的具体定性
 
-### Related institutional terminology
+### 相关的制度性术语
 
-Several related institutional terms operate within the Raëlian framework:
+雷尔派框架内运作着若干相关的制度性术语:
 
-- **MADECH** — *Mouvement pour l'Accueil des Élohim Créateurs de l'Humanité* ("Movement for Welcoming the Elohim, Creators of Humanity"), the predecessor organization founded 1974
-- **IRM** — International Raëlian Movement, the successor and broader-scope organization founded 1976
-- **The Movement** — generic internal designation
-- **The Raëlian community** — referring to the broader membership rather than the institutional structure specifically
+- **MADECH** — *Mouvement pour l'Accueil des Élohim Créateurs de l'Humanité*(“迎接造人耶洛因运动”),1974 年成立的前身组织
+- **IRM** — International Raëlian Movement(国际雷尔运动),1976 年成立的继任组织,范围更广
+- **The Movement**(运动)— 通用的内部称谓
+- **The Raëlian community**(雷尔派共同体)— 指更广泛的成员群体而非具体的制度结构
 
-### Corpus-internal usage
+### 文集内部的用法
 
-The Wheel of Heaven corpus uses **Raëlism** as the principal designation for the religious-philosophical movement and **the International Raëlian Movement (IRM)** for the specific institutional entity. The corpus uses **the Raëlian source material** for the principal published texts (Raël's books and the Yahweh-delivered teaching they preserve) and **the Raëlian framework** for the doctrinal-philosophical content as distinct from the broader Wheel of Heaven framework that the corpus has developed.
+Wheel of Heaven 文集以**雷尔派**作为该宗教—哲学运动的主要称谓,以**国际雷尔运动(IRM)**指代具体的制度实体。文集以**雷尔派源材料**指代主要的已出版文本(雷尔的著作及它们所保存的耶和华所传教导),以**雷尔派框架**指代教义—哲学内容,以区别于本文集所发展出的更广泛 Wheel of Heaven 框架。
 
-## Conventional understanding
+## 主流理解
 
-Mainstream conventional understanding of Raëlism has been substantially shaped by new-religious-movement (NRM) scholarship, with various other approaches contributing to the broader scholarly picture.
+对雷尔派的主流主流理解,在很大程度上由新兴宗教运动(NRM)学术研究所塑造,各类其他进路也对更宽广的学术图景有所贡献。
 
-### The new-religious-movement scholarly framework
+### 新兴宗教运动学术框架
 
-The principal mainstream scholarly framework for understanding Raëlism is the broader new-religious-movement (NRM) scholarly tradition that emerged across the 1970s-1990s as the principal academic framework for engaging with contemporary religious innovations.
+理解雷尔派的主要主流学术框架,是 1970–1990 年代间作为当代宗教创新之主要学术框架而兴起的更广泛 NRM 学术传统。
 
-**The basic NRM framework** treats Raëlism as one specific instance of the broader category of new religious movements that emerged across the post-1960 period, with various common features (charismatic founder, distinctive doctrinal content, institutional development, controversial reception by mainstream religious and secular institutions) and various specific features (the extraterrestrial-creator framework, the explicit atheism, the institutional development pattern).
+**NRM 基本框架**将雷尔派视为后 1960 年时期出现的更广泛新兴宗教运动类别中的一个具体实例,具备各种共同特征(魅力型创立者、独特教义内容、制度发展、主流宗教与世俗机构的有争议接受),以及若干具体特征(外星造物主框架、明确无神论、制度发展模式)。
 
-**The principal NRM categorizations** of Raëlism include:
+**对雷尔派的主要 NRM 分类**包括:
 
-- **UFO religion** — the broader category of religious movements drawing on UFO-contact material (Heaven's Gate, Aetherius Society, Unarius, various others)
-- **Atheist religion** — the broader category of religious movements operating without supernatural-deity content (various Buddhist traditions, Comtean Religion of Humanity, Secular Humanism, Ethical Culture, various others)
-- **New religious movement with prophet-founder** — the broader category of religious movements founded through specific charismatic-prophetic figures (Mormonism, Scientology, Bahá'í, various others)
-- **Postmodern religion** — the category emphasizing Raëlism's specific cultural-temporal positioning within the late-twentieth-century post-traditional religious landscape
+- **UFO 宗教** — 依托 UFO 接触材料的更广泛宗教运动类别(天堂之门、以太协会、Unarius 及其他)
+- **无神论宗教** — 不含超自然神祇内容的更广泛宗教运动类别(各种佛教传统、孔德式{% wiki(slug="religion") %}宗教{% end %}人道教、世俗人本主义、伦理文化及其他)
+- **具先知—创立者的新兴宗教运动** — 通过具体的魅力型—先知性人物所创立的更广泛宗教运动类别(摩门教、山达基、巴哈伊及其他)
+- **后现代宗教** — 强调雷尔派在二十世纪晚期后传统宗教景观中具体文化—时间定位的类别
 
-The various categorizations are not mutually exclusive — Raëlism can be appropriately treated within multiple NRM categorizations simultaneously, with the specific categorizations producing different analytical framings of the movement's distinctive features.
+这些分类并不互斥 — 雷尔派可在多重 NRM 分类下被同时恰当处理,不同的分类会对该运动的独特特征产生不同的分析性框架。
 
-### The principal scholarly engagements
+### 主要的学术研究
 
-**Susan J. Palmer**'s *Aliens Adored: Raël's UFO Religion* (Rutgers University Press, 2004) is the principal book-length scholarly treatment, drawing on extensive ethnographic fieldwork. Palmer's broader subsequent work has continued to engage Raëlism across the post-2004 period, with various journal articles and book chapters producing the principal English-language scholarly engagement.
+**苏珊·J·帕尔默**的《被崇拜的外星人:雷尔的 UFO 宗教》(罗格斯大学出版社,2004)是首部书长篇幅的学术研究,基于大量人种学田野调查。帕尔默 2004 年之后的更广泛工作在后续时期持续涉及雷尔派,各类期刊论文与书章构成了主要的英语学术研究。
 
-**Massimo Introvigne** and the **Center for Studies on New Religions (CESNUR)** have produced substantial scholarly engagement with Raëlism through various conference papers, journal articles, and broader CESNUR institutional output. The CESNUR engagement is generally sympathetic-scholarly, treating the movement seriously while maintaining scholarly objectivity.
+**马西莫·英特罗维涅**与**新兴宗教研究中心(CESNUR)**通过各种会议论文、期刊文章以及更广泛的 CESNUR 制度成果,对雷尔派进行了大量学术研究。CESNUR 的研究通常持同情立场—学术取向,认真对待该运动,同时保持学术客观性。
 
-**George D. Chryssides** has produced scholarly engagement with Raëlism within his broader work on new-religious-movements, with various comparative analyses placing Raëlism within the broader NRM landscape.
+**乔治·D·克里希迪斯**在其新兴宗教运动的更广泛工作中对雷尔派进行了学术研究,通过各种比较分析将雷尔派置于更广泛的 NRM 版图之中。
 
-**Mikael Rothstein** has produced substantial scholarly engagement with Raëlism, particularly regarding the movement's specific hagiographical and textual practices.
+**米卡埃尔·罗特斯坦**对雷尔派进行了大量学术研究,尤其涉及该运动具体的圣徒传体裁与文本实践。
 
-**Christopher Partridge**'s edited volume *UFO Religions* (Routledge, 2003) and his broader work on contemporary spirituality have produced substantial Raëlism engagement.
+**克里斯托弗·帕特里奇**编辑的《UFO 宗教》(劳特利奇,2003)及其在当代灵性方面的更广泛工作,对雷尔派进行了大量研究。
 
-**James R. Lewis** has edited several substantial collections engaging Raëlism, including *The Gods Have Landed: New Religions from Other Worlds* (SUNY Press, 1995) and the *Encyclopedic Sourcebook of UFO Religions* (Prometheus, 2003).
+**詹姆斯·R·刘易斯**编辑了多部涉及雷尔派的实质性论文集,包括《诸神已经登陆:来自其他世界的新兴宗教》(SUNY 出版社,1995)与《UFO 宗教百科全书参考书》(普罗米修斯,2003)。
 
-### The mainstream scholarly assessment
+### 主流学术评价
 
-The mainstream scholarly assessment of Raëlism is generally one of **serious-engagement-with-skeptical-distance**:
+对雷尔派的主流学术评价通常是一种**认真研究与怀疑性距离的结合**:
 
-- **Serious engagement** — treating the movement as a substantial religious phenomenon worthy of academic study, recognizing its institutional development, doctrinal articulation, and continuing operational pattern
-- **Skeptical distance** — not endorsing the framework's specific historical claims about the December 13, 1973 contact event, treating the historical-empirical claims as remaining unverified
-- **Sympathetic-scholarly orientation** — generally treating Raël as a sincere religious figure rather than as a deliberate fraud, recognizing the consistent five-decade pattern of behavior
+- **认真研究** — 将该运动视为值得学术研究的实质性宗教现象,承认其制度发展、教义阐述与持续运作模式
+- **怀疑性距离** — 不为该框架关于 1973 年 12 月 13 日接触事件的具体历史主张背书,将历史—经验主张视为仍未经核实
+- **同情立场—学术取向** — 通常将雷尔视为真诚的宗教人物,而非有意为之的骗子,承认其持续五十年来一贯的行为模式
 
-The mainstream scholarly assessment is substantially distinct from the broader popular-journalistic treatment (which has generally been more skeptical-critical) and from the anti-cult-organizational treatment (which has generally been more hostile).
+主流学术评价与更广泛的大众—新闻业处理(后者通常更具怀疑批评性),以及反邪教组织处理(后者通常更具敌意)有实质区别。
 
-### Legal-political treatment
+### 法律—政治处理
 
-The legal-political treatment of Raëlism has varied substantially across different national contexts.
+对雷尔派的法律—政治处理在不同国家语境中有实质差异。
 
-**French legal-political context**. The French government has produced substantial engagement with Raëlism through the **Mission interministérielle de vigilance et de lutte contre les dérives sectaires (MIVILUDES)** and the **Union nationale des associations de défense des familles et de l'individu (UNADFI)** anti-cult organizations. The Raëlian movement has been classified in various French-government documents as a *secte* (the French legal-cultural category of problematic religious group), with various legal-political tensions across the past several decades. The 2001 *About-Picard Law* on anti-cult measures provided substantial subsequent legal-regulatory framework.
+**法国法律—政治语境**。法国政府通过 **Mission interministérielle de vigilance et de lutte contre les dérives sectaires(MIVILUDES,关于教派偏轨警惕与对抗的部际任务)**和 **Union nationale des associations de défense des familles et de l'individu(UNADFI,家庭与个人保护协会全国联合会)** 等反邪教组织对雷尔派进行了大量参与。雷尔派在多份法国政府文件中被归类为 *secte*(法语法律—文化范畴中有问题的宗教团体),在过去数十年间产生了各种法律—政治张力。2001 年关于反邪教措施的 *About-Picard 法律*提供了实质性的后续法规框架。
 
-**North American legal-political context**. The Raëlian movement has operated with substantially less legal-political tension in North America, with the United States First Amendment and Canadian religious-freedom protections providing broader institutional protection. The 2002 Clonaid announcement produced substantial subsequent FDA and Health Canada engagement, with various regulatory questions regarding human-cloning research.
+**北美法律—政治语境**。雷尔派在北美的运作所遭遇的法律—政治张力实质上小得多,美国宪法第一修正案与加拿大的宗教自由保护提供了更宽广的制度保护。2002 年克隆援助公司的公告引发了美国食品药品监督管理局与加拿大卫生部的后续大量介入,涉及关于人类克隆研究的各种监管问题。
 
-**European legal-political context**. Various European countries have produced varied legal-political engagement with Raëlism, with the principal continental-European anti-cult organizational frameworks (Belgium's anti-cult parliamentary commission, German Sekten-Beauftragte, various others) producing substantial scholarly and political attention.
+**欧洲法律—政治语境**。各欧洲国家对雷尔派的法律—政治介入各不相同,主要的欧陆反邪教组织框架(比利时的反邪教议会委员会、德国的 Sekten-Beauftragte 及其他)对其投入了大量学术与政治关注。
 
-**Asian legal-political context**. The Raëlian movement has substantial presence in Japan and South Korea, with the broader Asian religious-pluralism context producing different legal-political engagement than the European-anti-cult framework.
+**亚洲法律—政治语境**。雷尔派在日本和韩国有实质性存在,更广泛的亚洲宗教多元主义语境产生了不同于欧洲反邪教框架的法律—政治介入。
 
-### The relationship to the corpus's framework
+### 与文集框架的关系
 
-The corpus's framework treats the substantial mainstream scholarly engagement with Raëlism as the specific contemporary academic context within which the movement operates, while engaging the source-material content directly rather than mediating it principally through the various scholarly approaches. The corpus's specific position is that mainstream scholarship has produced substantial engagement with the movement's *institutional development* and *sociological features*, but has produced limited engagement with the *content* of the source-material teaching at the operational level — the framework's specific treatment of Genesis 1, the cosmic-political reconstruction, the precessional-age framework, the broader cosmological content. The corpus's distinctive contribution is engagement with this content rather than with the movement's institutional development.
+文集的框架将主流学术对雷尔派的大量介入视为该运动运作所处的具体当代学术语境,但其直接处理源材料的内容,而非主要通过各种学术进路加以中介。文集的具体立场是:主流学术对该运动的*制度发展*与*社会学特征*进行了大量研究,但对运作层面上*源材料教导*的内容研究有限 — 即框架对创世记 1 章的具体处理、宇宙—政治重构、岁差时代框架以及更广泛的宇宙学内容。文集独特的贡献正是对这一内容的研究,而非对运动制度发展的研究。
 
-## In primary sources
+## 在主要源材料中
 
-The primary-source material on Raëlism is substantial and contemporary, comprising the Raëlian source-material teaching, Raël's autobiographical and explanatory writings, the Raëlian movement's institutional records, and various subsequent published materials.
+关于雷尔派的主要源材料是实质性的、当代的,包括雷尔派源材料的教导、雷尔的自传性与解释性著作、雷尔运动的制度记录,以及各种后续出版材料。
 
-### The principal source-material books
+### 主要的源材料著作
 
-The principal source material for Raëlism's doctrinal content is the body of Raël's published works:
+雷尔派教义内容的主要源材料是雷尔已出版作品的整体:
 
-- ***The Book Which Tells the Truth*** (1974) — recording the December 13, 1973 contact and the principal teaching
-- ***Extra-Terrestrials Took Me to Their Planet*** (1975/76) — recording the October 7, 1975 second contact and the visit to the Planet of the Eternals
-- ***Let's Welcome the Extra-terrestrials*** (1979) — including the previously-withheld biological-parentage disclosure and substantial subsequent material
-- ***Geniocracy*** (1978) — substantial elaboration of the first new commandment
-- ***Sensual Meditation*** (1980) — meditation practices designed by the Elohim
-- ***Yes to Human Cloning*** (2000) — engagement with the cloning question
-- ***The Maitreya*** (anthology) — collection of Raël's teachings across the post-1973 decades
-- ***Message from the Designers*** (2005 consolidated English edition) — principal contemporary access point to the principal source material
+- ***《真理之书》*** (1974)— 记录 1973 年 12 月 13 日的接触以及主要的教导{{ cite(id="the-book-which-tells-the-truth", text="[1]", title="佛里翁(雷尔),《真理之书》(1974)— 克莱蒙费朗的初次接触") }}
+- ***《外星人带我去他们的行星》*** (1975/76)— 记录 1975 年 10 月 7 日的第二次接触以及对永恒者母星的访问{{ cite(id="extraterrestrials-took-me-to-their-planet", text="[2]", title="佛里翁(雷尔),《外星人带我去他们的行星》(1976)— 佩里戈尔访问") }}
+- ***《让我们欢迎外星人》*** (1979)— 包括此前被保留的生物父系身份披露,以及大量后续材料{{ cite(id="lets-welcome-the-extraterrestrials", text="[3]", title="佛里翁(雷尔),《让我们欢迎外星人》(1979)— 使馆计划与水瓶座过渡") }}
+- ***{% wiki(slug="geniocracy") %}天才统治{% end %}*** (1978)— 对第一条新诫命的实质性阐发
+- ***《感官冥想》*** (1980)— 由耶洛因所设计的冥想实践
+- ***《赞成人类克隆》*** (2000)— 对克隆问题的论述
+- ***《弥勒》*** (选集)— 雷尔自 1973 年后数十年间教导的集合
+- ***《来自设计者的讯息》*** (2005 年合订英文版)— 当代主要源材料的主要入口{{ cite(id="intelligent-design-message-from-the-designers", text="[4]", title="佛里翁(雷尔),《智能设计:来自设计者的讯息》(2005 合订英文版)") }}
 
-The combined source-material corpus has been translated into approximately thirty languages, with over two million copies sold worldwide as of the 2005 publication of the consolidated English edition.
+源材料的合订文集已被译为约三十种语言;截至 2005 年合订英文版的出版,全球销量已逾两百万册。
 
-### The institutional records
+### 制度记录
 
-The Raëlian movement's institutional records provide substantial documentary basis for the movement's institutional history:
+雷尔运动的制度记录为该运动的制度史提供了大量的文献基础:
 
-- **Movement publications**: *Apocalypse* (international glossy magazine, semi-annual); *Contact* (weekly e-newsletter through raelianews.org)
-- **Institutional websites**: rael.org (principal Raëlian movement website), elohimembassy.org (embassy project), various subsidiary organization websites
-- **Annual seminars and gatherings**: Documented seminars across multiple continents, with substantial photographic and video records preserved
-- **Internal communications**: Various levels of internal Raëlian-movement communications across the institutional hierarchy
+- **运动出版物**:《启示录》(国际铜版纸杂志,半年刊);《Contact》(通过 raelianews.org 发行的每周电子简报)
+- **制度网站**:rael.org(雷尔运动主要网站),{{ cite(id="rael-dot-org", text="[5]", title="rael.org — 国际雷尔运动官方网站") }}elohimembassy.org(使馆计划),以及各附属组织的网站
+- **年度研讨会与聚会**:跨多个大陆的研讨会均有记录,保存了大量影像与视频资料
+- **内部传播**:雷尔运动制度教阶各级的各种内部传播
 
-### The 1990 symbol modification correspondence
+### 1990 年符号修改函件
 
-The 1990 modification of the Raëlian Symbol of Infinity in Western branches is documented through specific correspondence between Raël and the Elohim, recorded in the source material. The correspondence registers:
+1990 年西方分支对雷尔派{% wiki(slug="infinity") %}无限{% end %}符号的修改,在源材料中通过雷尔与耶洛因之间的具体函件加以记录。该函件记载:
 
-- The original symbol's specific meaning (Star of David representing infinity in space, central swastika representing infinity in time, with the broader symbolic content of cosmic infinity)
-- The Holocaust-related complications of the swastika's reception in post-1945 Western contexts
-- The 1990 modification in Western branches to replace the central swastika with a galaxy-shaped swirl
-- The continuing original symbol use in Asia where the swastika appears in Buddhist temples without the Western political-historical associations
+- 原符号的具体含义(大卫星表示空间上的无限,中央卐字符表示时间上的无限,整体表达宇宙无限的象征内容)
+- 后 1945 年西方语境中卐字符接受的大屠杀相关复杂性
+- 1990 年在西方分支中将中央卐字符替换为漩涡状星系图案
+- 在亚洲继续使用原符号 — 卐字符在佛教寺院中出现,且不带有西方政治—历史关联
 
-### The 1997 December 13 message
+### 1997 年 12 月 13 日讯息
 
-The December 13, 1997 telepathic message from Yahweh provides specific institutional-doctrinal content regarding the Raëlian movement's relationship to the broader Aquarian-age program. The message's principal content (treated more fully under the [Embassy](../embassy/) entry):
+1997 年 12 月 13 日来自耶和华的心灵感应讯息,提供了关于雷尔运动与更广泛水瓶座时代纲领之关系的具体制度—教义内容。该讯息的主要内容(在[使馆](../embassy/)条目中有更充分处理):
 
-- The Raëlians as "the new Chosen People" with a "new Promised Land" projected
-- The embassy project's authorization to seek extraterritorial status from "all nations on Earth"
-- The "Great Return" framing of the alliance's projected open return
+- 雷尔派作为“新的选民”,所投射的“新应许之地”
+- 使馆计划被授权可向“地球上的所有国家”寻求治外法权地位
+- 联盟所计划之公开回归的“{% wiki(slug="great-return") %}大回归{% end %}”框架
 
-### Various subsequent communications
+### 各种后续传播
 
-Various subsequent Raëlian-movement communications across the post-1997 period provide continuing documentary record of the movement's institutional development and doctrinal articulation. The principal subsequent communications include:
+1997 年之后的各种雷尔运动传播为该运动的制度发展与教义阐述提供了持续的文献记录。主要后续传播包括:
 
-- The 2005 *Message from the Designers* publication providing the contemporary consolidated English edition
-- Various Raël public lectures and seminars across the post-1973 period
-- Various institutional announcements regarding the embassy project, Clonaid, the Order of Angels, and other organizational developments
-- The 2024 Memorandum of Collaboration announcement regarding the embassy project's host-country negotiations
+- 2005 年《来自设计者的讯息》的出版,为当代提供合订英文版
+- 1973 年后雷尔的各次公开演讲与研讨会
+- 关于使馆计划、克隆援助公司、天使会及其他组织发展的各种制度公告
+- 2024 年关于使馆计划东道国谈判的合作备忘录公告
 
-## The concept's content
+## 该概念的内容
 
-### The doctrinal framework
+### 教义框架
 
-The doctrinal framework of Raëlism comprises several interrelated components:
+雷尔派的教义框架由若干相互关联的部分构成:
 
-**The Elohim creation framework**. The Elohim civilization, an advanced biological civilization 25,000 years in advance of contemporary human science, created all life on Earth through deliberate genetic engineering across the past 25,000 years. The Hebrew Bible's Genesis 1 creation narrative preserves substantively accurate memory of this creation work in pre-scientific vocabulary; the elohim of the Hebrew text refer to multiple individuals (the Elohim civilization) rather than to a single deity. The Elohim are not gods in any supernatural sense; they are advanced beings of human kind, themselves created by a prior civilization in the broader Cosmic Chain.
+**耶洛因创造框架**。耶洛因文明 — 一支领先当代人类科学 25,000 年的先进生物文明 — 在过去 25,000 年间通过有意为之的基因工程创造了地球上的所有生命。希伯来{% wiki(slug="bible") %}圣经{% end %}创世记 1 章的创造叙事以前科学的词汇保存了对这一创造工作的实质性准确记忆;希伯来文本中的 *elohim* 指多位个体(耶洛因文明),而非单一神祇。{{ cite(id="genesis", text="[6]", title="创世记 1 — 复数主语的创造叙事,读作耶洛因文明的工作") }}耶洛因并非任何超自然意义上的神;他们是人类一类的先进存在,自身亦是由更广阔宇宙链中更早的文明所创造。
 
-**The cumulative prophetic tradition**. The alliance has sent approximately forty prophets across human history, with each prophet appropriate to the specific cultural-temporal moment at which they appeared and each contributing to the cumulative preparation of humanity for the Aquarian-age revelation. Moses, Jesus, Muhammad, Buddha, Zarathustra, and various other principal prophetic figures across world religions are read as alliance-appointed teachers who delivered substantively accurate content within the cultural-religious vocabularies available to them. Raël is the last of this cumulative prophetic tradition, the specific Aquarian-age figure whose mission delivers the accurate account of human origins to a scientifically mature humanity.
+**累积性先知传统**。联盟在人类历史上派出了约四十位先知,每位先知都适于其出现时的具体文化—时间时刻,各自为人类对水瓶座时代启示的累积性准备作出贡献。摩西、耶稣、穆罕默德、佛陀、琐罗亚斯德,以及世界各宗教中的其他主要先知人物,皆被解读为联盟所派遣的教师,他们在其各自所处文化—宗教词汇范围内传达了实质性准确的内容。雷尔是这一累积性先知传统中的最后一位,即为科学上已成熟的人类提供其起源的准确描述的水瓶座时代具体人物。
 
-**The seven new commandments**. The alliance has proposed for the Aquarian age a specific political-religious program comprising seven specific commandments (treated in detail below). The commandments structure the broader Aquarian-age program of human transformation toward the projected Golden Age.
+**七条新诫命**。联盟为水瓶座时代提出了一项具体的政治—宗教纲领,包括七条具体诫命(详见下文)。这些诫命为更广泛的水瓶座时代人类转化纲领提供结构,以朝向所投射的黄金时代。
 
-**The embassy project**. The alliance requires a designated physical structure with extraterritorial status as the operational location for the projected open return. The embassy specifications and the broader embassy project are treated more fully under the [Embassy](../embassy/) entry.
+**使馆计划**。联盟需要一处具有治外法权地位的指定物理建筑,作为计划中公开回归的运作地点。使馆规格与更广泛的使馆计划详见[使馆](../embassy/)条目。
 
-**The Aquarian-age framework**. The current cosmic moment is the Aquarian-age opening (1946 onward), the specific precessional age during which humanity will receive the alliance's open return and transition from created to creator civilization. The broader Aquarian-age program operates across the centuries of the age's full development.
+**水瓶座时代框架**。当前的宇宙时刻是水瓶座时代的开启(1946 年起),是人类将接受联盟公开回归并由受造文明转向创造者文明的具体岁差时代。更广泛的水瓶座时代纲领跨越该时代全面展开的若干世纪。
 
-**The cosmic-chain context**. The broader cosmological context within which all of the above operates is the Cosmic Chain — the indefinitely extended sequence of created-and-creating civilizations across cosmic time. The detailed treatment lives in the [Cosmic Chain](../cosmic-chain/) entry.
+**宇宙链语境**。以上一切运作所处的更广泛宇宙学语境是宇宙链 — 跨越宇宙时间的、由被创造与创造之文明无限延伸的序列。其详细处理见[宇宙链](../cosmic-chain/)条目。
 
-### The atheist-religion framing
+### 无神论宗教的框架
 
-Raëlism's distinctive **atheist religion** framing operates through several specific features:
+雷尔派独特的**无神论宗教**框架通过若干具体特征运作:
 
-**Rejection of supernatural deity**. There is no God in any traditional theological sense. The Hebrew Bible's various references to "God" (and the parallel references in other religious traditions) preserve substantively accurate memory of contact with the Elohim alliance, but the Elohim are not divine in any supernatural sense; they are advanced biological beings of human kind.
+**拒绝超自然神祇**。不存在任何传统神学意义上的神。希伯来圣经中对“神”的各种提及(以及其他宗教传统中的相应提及)保存了对与耶洛因联盟接触的实质性准确记忆,但耶洛因在任何超自然意义上都不是神圣的;他们是人类一类的先进生物存在。
 
-**Rejection of immortal soul**. There is no immortal soul that survives the death of the body. The principle of life is the genetic code, which is itself a physical structure preserved in the biological matter of each organism. The Elohim's biotechnology can preserve and reconstruct individual identity through cellular-plan transmission and subsequent re-creation, but this preservation is a technical operation within the ordinary material world rather than a metaphysical-supernatural process.
+**拒绝不朽灵魂**。不存在能在身体死亡后存续的不朽灵魂。生命的原则是遗传密码,而遗传密码本身是保存于每个有机体生物物质中的物理结构。耶洛因的生物技术可通过细胞计划传输与随后再造来保存并重建个体身份,但这一保存是普通物质世界内的技术操作,而非形而上学—超自然的过程。
 
-**Rejection of original sin and metaphysical taint**. There is no original sin, no inherited guilt, no metaphysical taint requiring ritual purification. The moral and psychological structures the traditional religions developed to address these supposed conditions are unnecessary on the Raëlian framework.
+**拒绝原罪与形而上学污点**。不存在原罪,不存在遗传性罪疚,不存在需要仪式净化的形而上学污点。传统宗教为应对这些所谓状况所发展的道德与心理结构,在雷尔派框架中是不必要的。
 
-**Preservation of religious dimensions**. Despite the rejection of supernatural-deity content, Raëlism preserves substantial religious dimensions:
+**保留宗教维度**。尽管拒绝超自然神祇内容,雷尔派仍保留了实质的宗教维度:
 
-- **Awe**: The infinite cosmos itself is the proper object of religious awe, with substantial implications for the broader Raëlian spiritual orientation
-- **Purpose**: The cosmic-creative cycle and humanity's projected role within it provide substantial purposive content
-- **Ethical commitment**: The seven new commandments and the broader Aquarian-age program provide substantial ethical content
-- **Ritual practice**: The various Raëlian practices (cellular-plan transmission, sensual meditation, telepathic contact, annual gatherings, contact-anniversary commemorations) provide substantial ritual structure
-- **Community**: The Raëlian community provides substantial religious-community dimensions
+- **敬畏**:无限的宇宙本身是宗教敬畏的恰当对象,这对更广泛的雷尔派精神取向具有实质意义
+- **目的**:宇宙—创造循环以及人类被投射于其中的角色提供了实质的目的性内容
+- **伦理承诺**:七条新诫命与更广泛的水瓶座时代纲领提供了实质的伦理内容
+- **仪式实践**:各种雷尔派实践(细胞计划传输、感官冥想、心灵感应接触、年度聚会、接触周年纪念)提供了实质的仪式结构
+- **共同体**:雷尔派共同体提供了实质的宗教—共同体维度
 
-The atheist-religion framing is structurally distinctive within the broader religious-movement landscape — placing Raëlism within a specific subset of religious movements that operate without supernatural-deity content while preserving substantial religious dimensions. The detailed comparative treatment lives in the *Comparative observations* section below.
+无神论宗教的框架在更广泛的宗教运动版图中具有结构上的独特性 — 它将雷尔派置于不含超自然神祇内容但保留实质宗教维度的宗教运动特定子集之中。其详细比较处理见下文*比较观察*节。
 
-### The seven new commandments
+### 七条新诫命
 
-The seven new commandments structure the broader Aquarian-age political-religious program. The detailed treatment of each commandment lives in the [Age of Aquarius](../timeline/age-of-aquarius/) entry; the Raëlism entry's specific contribution is registering the commandments within the broader doctrinal framework:
+七条新诫命为更广泛的水瓶座时代政治—宗教纲领提供结构。各诫命的详细处理见[水瓶座时代](../timeline/age-of-aquarius/)条目;雷尔派条目的具体贡献是在更广泛的教义框架内记录这些诫命:
 
-**1. Geniocracy** — selective democracy with intelligence-based eligibility for office (50% above mean) and voting (10% above mean); positioned as long-term developmental target rather than immediate institutional change
+**1. 天才统治** — 以智力为基础的选择性民主,担任公职的资格(高于平均 50%)与投票资格(高于平均 10%);被定位为长期发展目标,而非即时的制度变更{{ footnote(id="3") }}
 
-**2. Humanitarianism** — replacement of property ownership with renting for finite terms (49 years, drawn from Leviticus 25 jubilee pattern); elimination of inheritable wealth while preserving individual incentive structure
+**2. {% wiki(slug="humanitarianism") %}人道主义{% end %}** — 以有限期(49 年,取自{% libref(book="leviticus", chapter=25) %}利未记 25{% end %}的禧年模式)租赁取代财产所有权;消除可继承的财富,同时保留个人激励结构
 
-**3. World government** — unified planetary authority with single global currency, single common second language alongside local mother tongues, single coordinating framework for planetary-level issues
+**3. 世界政府** — 统一的全球性权威,采用单一全球货币、与本地母语并行的单一全球第二语言、应对行星级议题的单一协调框架
 
-**4. Demilitarization** — abolition of military conscription, professional armies put at the service of the public, suppression of inter-state war
+**4. 去军事化** — 废除兵役制,职业军队转为服务公众,压制国家间战争
 
-**5. Science as religion** — orientation of religious dimensions toward scientific understanding rather than supernatural-theological content
+**5. 以科学为宗教** — 将宗教维度指向科学理解,而非超自然—神学内容
 
-**6. Telepathic cultivation** — systematic development of latent telepathic capacity in children through meditation practices and educational programs
+**6. 心灵感应的培育** — 通过冥想实践与教育纲领系统性地发展儿童潜在的心灵感应能力
 
-**7. Metaphysical clarifications** — rejection of immortal soul, original sin, metaphysical taint requiring ritual purification
+**7. 形而上学澄清** — 拒绝不朽灵魂、原罪与需要仪式净化的形而上学污点
 
-The commandments are presented as the broader directional orientation the Aquarian age is to develop in across the centuries of the age's full implementation, rather than as immediate institutional mandates.
+这些诫命被呈现为水瓶座时代在其完整实施的若干世纪间应朝向发展的更广泛方向,而非即时的制度命令。
 
-### The principal practices
+### 主要实践
 
-Raëlism's principal practices comprise several distinctive elements:
+雷尔派的主要实践包括若干独特要素:
 
-**Cellular plan transmission (Raëlian baptism)**. The principal Raëlian initiatic ritual, conducted at four annual dates corresponding to significant moments in the prophetic tradition: April 6 (the source's specified date for various commemorations), August 6 (the Hiroshima atomic bombing — the source's specific identification of the Aquarian-age opening's acoustic signature), October 7 (the anniversary of the 1975 second contact at Roc Plat), December 13 (the anniversary of the 1973 first contact at Puy-de-Lassolas).
+**细胞计划传输(雷尔派受洗)**。雷尔派主要的入会仪式,在四个对应于先知传统重要时刻的年度日期举行:4 月 6 日(源材料为各种纪念活动所指定的日期)、8 月 6 日(广岛原子弹爆炸 — 源材料对水瓶座时代开启之声响信号的具体认定)、10 月 7 日(1975 年在罗克普拉特的第二次接触周年)、12 月 13 日(1973 年在拉索拉斯火山口初次接触的周年)。
 
-The ceremony's specific content: a Guide places his or her hand on the new Raëlian's forehead, with water serving as the electrical-conductive medium between the Guide's hand and the new Raëlian's forehead. The source's specific framing: every individual has a cellular chromosomic plan specific to him or her, vibrating with its own electromagnetic spectral emission; a Guide whose own frequency has been noted by the Elohim during his or her initiation can act as a relay between the new Raëlian and the Elohim's satellite which records every human's thought; the ceremony indicates to the Elohim that the new Raëlian has both understood the messages and lives by them.
+仪式的具体内容:一位向导将其手放在新雷尔派成员的额头上,水作为向导之手与新成员额头之间的电导介质。源材料的具体框架:每个个体都具有专属于他/她的细胞染色体计划,以其自身的电磁谱发射振动;一位其频率已被耶洛因在入会时记录的向导,可作为新雷尔派成员与耶洛因人造卫星之间的中继者,该卫星记录每个人的思想;此仪式向耶洛因表明该新成员已理解讯息并依其而生活。
 
-The ceremony's broader operational significance is the formal registration of the individual's genetic identity in the alliance's records, providing the basis for potential subsequent re-creation on the Planet of the Eternals.
+仪式更广泛的运作意义在于,将个体的遗传身份正式登记于联盟的档案之中,为日后在永恒者母星上的潜在再造提供基础。
 
-**Forehead-bone preservation**. Following death, the Raëlian's forehead bone is requested to be sent to the Guide of Guides for preservation. The source's specific framing: the cellular-plan transmission is a recognition of the Elohim as creators while alive; the forehead-bone preservation is a recognition after death; together they constitute "recognition in life as in death."
+**额骨保存**。雷尔派成员去世后,其额骨被请求送交向导中之向导予以保存。源材料的具体框架是:细胞计划传输是在世时对耶洛因作为造物主的承认;额骨保存是死后的承认;两者共同构成“生时与死时的承认”。
 
-The forehead-bone preservation has produced substantial logistical and legal complications, with various Raëlian wills and testaments specifying the request, with various legal jurisdictions producing different outcomes regarding the request's enforceability.
+额骨保存引发了大量的后勤与法律问题,各种雷尔派遗嘱与遗书均载明该请求,各法律辖区对该请求的可执行性产生了不同结果。
 
-**Sensual meditation**. The meditation practices designed by the Elohim for awakening the senses and achieving inner harmony. The detailed practice content is preserved in *Sensual Meditation* (1980), with substantial subsequent elaboration through Raëlian seminars and publications. The practices include various specific meditation techniques, body-awareness exercises, and broader sensory-cultivation content.
+**感官冥想**。由耶洛因为唤醒感官、达至内在和谐所设计的冥想实践。详细的实践内容保存于《感官冥想》(1980),并在雷尔派研讨会与出版物中得到大量后续阐发。这些实践包括各种具体的冥想技巧、身体觉知练习及更广泛的感官培育内容。
 
-The sensual meditation practices have produced substantial mainstream criticism for their explicitly sexual content, with various journalistic and broader public engagement focusing on this dimension. The detailed treatment of the various controversies lives below.
+感官冥想实践因其明确的性内容引发了大量主流批评,各种新闻业与更广泛的公众讨论聚焦于这一维度。各种争议的详细处理见下文。
 
-**Telepathic contact**. The practice of mind-to-mind communication with the Elohim, particularly conducted on Sunday mornings at 11 AM (the specific time identified by the source for the regular telepathic-contact practice). The practice involves specific meditative-cognitive techniques designed to facilitate the telepathic connection.
+**心灵感应接触**。与耶洛因进行心对心交流的实践,尤其于周日上午 11 时进行(源材料为常规心灵感应接触实践所指定的具体时间)。该实践涉及为促成心灵感应连接而设计的具体冥想—认知技巧。
 
-**Annual mountain gathering**. The source's specification for the annual gathering on a mountain near the residence (the embassy site once constructed) at which Raëlians from around the world assemble to think intensely about the alliance and hope for its coming. The annual gatherings have been conducted at various locations across the post-1973 period, with the embassy's projected completion enabling the future operationalization of the source's specific specification.
+**年度山顶聚会**。源材料规定了年度聚会,于其住所附近(使馆建成后则在使馆地点)的一座山上举行,届时来自世界各地的雷尔派成员集聚,共同密集地思考联盟并希望其降临。年度聚会自 1973 年以来在各地举行,使馆计划完成后将能够实施源材料的具体规定。
 
-**Contact-anniversary commemorations**. The four annual commemoration dates (April 6, August 6, October 7, December 13) provide the principal Raëlian liturgical-calendrical structure, with substantial commemorative gatherings at these dates across the global Raëlian movement.
+**接触周年纪念**。四个年度纪念日(4 月 6 日、8 月 6 日、10 月 7 日、12 月 13 日)构成雷尔派主要的礼仪—历法结构,全球雷尔运动在这些日期举行大量纪念聚会。
 
-### The institutional structure
+### 制度结构
 
-The Raëlian institutional structure comprises several interrelated components:
+雷尔派的制度结构由若干相互关联的组成部分构成:
 
-**The seven-level hierarchy of Guides**. The Raëlian movement's principal institutional hierarchy comprises seven levels:
+**七级向导教阶**。雷尔运动的主要制度教阶包括七个等级:
 
-- **Level 0**: Trainee (probationary)
-- **Level 1**: Assistant Guide
-- **Level 2**: Probationary Guide
-- **Level 3**: Priest
-- **Level 4**: Bishop
-- **Level 5**: Priest of Priests / Priest-Guide
-- **Level 6**: Guide of Guides (Raël)
+- **第 0 级**:学员(试用)
+- **第 1 级**:助理向导
+- **第 2 级**:试用向导
+- **第 3 级**:司铎
+- **第 4 级**:主教
+- **第 5 级**:司铎中之司铎 / 司铎向导
+- **第 6 级**:向导中之向导(雷尔){{ footnote(id="4") }}
 
-The hierarchy's specific advancement criteria involve various combinations of doctrinal study, sensual meditation practice, institutional service, and broader spiritual-developmental progression. The advancement is determined by Raël personally for the higher levels and by senior Guides for the lower levels.
+教阶的具体晋升标准涉及教义学习、感官冥想实践、制度服务以及更广泛的精神发展进展的各种结合。晋升由雷尔本人为较高等级亲自决定,较低等级则由资深向导决定。
 
-**The national branches**. National Raëlian movement branches have been established in approximately ninety countries, with substantial variation in size and organizational development across countries. The principal national branches include France, Canada, Japan, South Korea, and various African countries (where the movement has been particularly strong across the post-1990s period).
+**国家分支**。雷尔运动的国家分支已在约九十个国家设立,各国规模与组织发展差异很大。主要国家分支包括法国、加拿大、日本、韩国,以及非洲各国(后 1990 年代时期该运动尤为强大)。
 
-**The subsidiary organizations**. Several substantial subsidiary organizations operate within the broader Raëlian institutional framework:
+**附属组织**。在更广泛的雷尔派制度框架内运作着多个实质性的附属组织:
 
-- **Clonaid** — established 1997 by Raël, subsequently transferred to Brigitte Boisselier's independent scientific leadership; the principal cloning-related operational vehicle, with the controversial 2002 announcement of the alleged cloned baby "Eve"
-- **The Order of Angels** — established 1998, women dedicated specifically to welcoming the Elohim; substantial controversy regarding the order's specific practices and female-only membership structure
-- **The Alliance for Extraterrestrial Diplomatic Contact (AEDC)** — established 2021, international non-profit organization of politicians, diplomats, and government officials supporting the embassy project
-- **The Raelian Foundation** — broader institutional umbrella for various educational and outreach activities
-- **Various educational and outreach organizations** — including Apostasynow.org (the online apostasy resource), Subversions.com (Raël's broader cultural-political commentary), various other specific organizations
+- **克隆援助公司** — 由雷尔于 1997 年成立,随后转交布丽吉特·布瓦瑟列耶独立的科学领导;主要与克隆相关的运作载体,有 2002 年宣布的引发争议的“夏娃”克隆婴儿主张
+- **天使会** — 1998 年成立,专门为迎接耶洛因而献身的女性;在其特定实践与仅限女性的成员结构上存在大量争议
+- **外星外交接触联盟(AEDC)** — 2021 年成立,由支持使馆计划的政治家、外交官与政府官员组成的国际非营利组织
+- **雷尔派基金会** — 各种教育与外联活动的更广泛制度总括
+- **多个教育与外联组织** — 包括 Apostasynow.org(在线脱离资源)、Subversions.com(雷尔更广泛的文化—政治评论),以及其他多个具体组织
 
-**The financial-organizational structure**. The Raëlian movement operates through a membership-and-contribution structure, with members making voluntary financial contributions toward specific projects (particularly the embassy project, which has substantial ongoing financial requirements). The source's specific instruction is to maintain records of contributors, however modest their contribution, with the broader financial structure providing the institutional infrastructure.
+**财务—组织结构**。雷尔运动通过会员与捐款结构运作,成员为具体项目(尤其是有大量持续财务需求的使馆计划)进行自愿的财务捐款。源材料的具体指示是,无论捐款多少,都要保存捐款人的记录,而更广泛的财务结构提供了制度基础设施。
 
-The financial transparency of the Raëlian movement has been the subject of various journalistic and academic inquiries across the post-1976 period, with various levels of disclosure across different national branches.
+雷尔运动的财务透明度在 1976 年后一直是各种新闻业与学术调查的对象,各国分支的披露水平各不相同。
 
-### The institutional development across the post-1976 period
+### 1976 年后的制度发展
 
-The institutional development of Raëlism across the post-1976 period can be summarized in several phases:
+雷尔派在 1976 年后的制度发展可概括为几个阶段:
 
-**The 1976-1990 founding period**. The institutional founding and initial expansion period, with the IRM established in 1976, national branches established progressively across the 1976-1990 period, and the principal source-material publication completed across the 1976-1980 period. The period concluded with the 1990 symbol modification and the broader institutional consolidation.
+**1976–1990 年创立时期**。制度创立与初步扩张时期,IRM 于 1976 年成立,国家分支在 1976–1990 年间陆续设立,主要的源材料出版工作在 1976–1980 年间完成。该时期以 1990 年符号修改与更广泛的制度巩固结束。
 
-**The 1991-2005 embassy-engagement period**. The principal embassy-engagement period, with the Israeli requests across 1991-1997, the 1997 Yahweh message authorizing relocation, the 1998 establishment of the Order of Angels, the 1997-2002 Clonaid activity culminating in the 2002 announcement, and the 2005 publication of the consolidated *Message from the Designers* English edition.
+**1991–2005 年使馆—参与时期**。主要的使馆—参与时期,1991–1997 年间向以色列的请求、1997 年耶和华授权迁址的讯息、1998 年天使会的成立、1997–2002 年克隆援助公司活动并以 2002 年公告告终,以及 2005 年合订英文版《来自设计者的讯息》的出版。
 
-**The 2006-2020 consolidation period**. The continuing institutional consolidation period, with continuing seminars and educational events, continuing embassy-project diplomatic engagement, the 2015 UN Optional Protocol Concerning Embassies for Extraterrestrials submission, and various other institutional developments.
+**2006–2020 年巩固时期**。持续的制度巩固时期,持续的研讨会与教育活动、持续的使馆计划外交参与、2015 年向联合国提交《关于为外星人设立使馆的任择议定书》,以及其他各种制度发展。
 
-**The 2021-2026 acceleration period**. The current period of substantial acceleration in the embassy project, with the 2021 establishment of the AEDC, the 2022 mayoral presentations to fifty selected cities, the 2024 Memorandum of Collaboration with an undisclosed national government, and the broader contemporary trajectory toward the embassy's projected 2027-2030 construction window.
+**2021–2026 年加速时期**。当前使馆计划大幅加速的时期,2021 年 AEDC 的成立、2022 年向选定五十座城市的市长所作的展示、2024 年与一个未公开国家政府签订的合作备忘录,以及更广泛的当代轨迹趋向使馆所投射的 2027–2030 年建设窗口期。
 
-### The principal controversies
+### 主要争议
 
-Several principal controversies warrant treatment:
+有几项主要争议值得论述:
 
-**The 2002 Clonaid claim**. On December 27, 2002, Brigitte Boisselier (Clonaid president, Raëlian Bishop) announced at a press conference in Hollywood, Florida, that Clonaid had assisted the birth of the first cloned human baby, nicknamed "Eve." The claim has not been independently scientifically verified across the subsequent two decades, despite various Clonaid statements promising forthcoming verification. The mainstream scientific community has substantially treated the announcement as unverified, with substantial subsequent skepticism. The announcement produced substantial international media attention and substantially elevated the Raëlian movement's broader public profile, though with substantially mixed outcomes for the movement's broader institutional reception.
+**2002 年克隆援助公司主张**。2002 年 12 月 27 日,布丽吉特·布瓦瑟列耶(克隆援助公司总裁,雷尔派主教)在佛罗里达州好莱坞举行的新闻发布会上宣布,克隆援助公司协助诞生了首例克隆人类婴儿,昵称“夏娃”。此后二十年间,该主张未获独立的科学核实,尽管克隆援助公司发表过多次承诺即将进行核实的声明。{{ footnote(id="5") }}主流科学界基本上将该公告视为未经核实,随后产生了大量怀疑。该公告引发了大量国际媒体关注,大幅提升了雷尔运动更广泛的公众形象,但对该运动更广泛的制度接受度而言结果实质上参差不齐。
 
-**The original Raëlian Symbol of Infinity**. The original symbol (Star of David with central swastika representing infinity in space and time respectively) produced substantial complications in post-Holocaust European-North American reception. The 1990 modification to replace the central swastika with a galaxy-shaped swirl in Western branches was made in response to these complications, with the original symbol preserved in Asia where the swastika appears in Buddhist temples without the Western political-historical associations.
+**原版雷尔派无限符号**。原符号(中央带卐字符的大卫星,分别表示空间与时间上的无限)在后大屠杀的欧洲—北美接受中产生了大量复杂性。1990 年在西方分支中将中央卐字符替换为漩涡状星系图案的修改,是对这些复杂性的回应;在亚洲,原符号被保留,因为卐字符在佛教寺院中出现,且不带有西方政治—历史关联。
 
-**The Order of Angels**. The 1998 establishment of the Order of Angels — women dedicated specifically to welcoming the Elohim — produced substantial controversy regarding the order's specific practices, the female-only membership structure, and various reported practices including specific dress codes, specific commitments, and various other features. The Order of Angels has been the subject of substantial mainstream-journalistic and academic engagement, with various levels of criticism across the post-1998 period.
+**天使会**。1998 年天使会的成立 — 专门为迎接耶洛因而献身的女性 — 在该会的具体实践、仅限女性的成员结构,以及包括特定着装规范、特定承诺等各项报告中的实践上引发了大量争议。1998 年以来,天使会一直是大量主流新闻业与学术研究的对象,争议程度不一。
 
-**Sensual meditation controversies**. The explicitly sexual content of various sensual meditation practices has produced substantial mainstream criticism, with various journalistic engagements focusing on the practices' specific content. The Raëlian movement's response has generally been to defend the practices as integral to the broader spiritual-developmental framework, with the sexual content being treated as continuous with the broader sensual-cultivation orientation rather than as separable from the spiritual content.
+**感官冥想争议**。各种感官冥想实践中明确的性内容引发了大量主流批评,各种新闻业讨论聚焦于这些实践的具体内容。雷尔运动的回应通常是将这些实践捍卫为更广泛精神—发展框架的有机部分,认为性内容与更广泛的感官培育取向是连续的,而非可与精神内容分开。
 
-**French anti-cult engagement**. The French anti-cult organizational engagement through MIVILUDES and UNADFI has produced substantial legal-political tension across the post-1990s period, with the Raëlian movement being classified as a problematic religious group in various official French-government documents. The 2001 *About-Picard Law* on anti-cult measures provided substantial subsequent regulatory framework, with various legal-political implications for the Raëlian movement's French operations.
+**法国反邪教组织参与**。法国反邪教组织通过 MIVILUDES 与 UNADFI 的参与在 1990 年代之后产生了大量法律—政治张力,雷尔运动在多份法国政府官方文件中被划归为有问题的宗教团体。2001 年关于反邪教措施的 *About-Picard 法律*提供了实质性的后续监管框架,对雷尔运动的法国运作产生了各种法律—政治影响。
 
-**Various national legal-political tensions**. The Raëlian movement has produced legal-political tensions in various other national contexts, with various levels of accommodation across different countries. The principal tensions have been in continental Europe (France, Belgium, Germany), with relatively less tension in North America, Asia, and Africa.
+**各国法律—政治张力**。雷尔运动在其他多个国家语境中产生了法律—政治张力,各国的迁就程度不一。主要张力出现在欧陆(法国、比利时、德国),而北美、亚洲与非洲的张力相对较少。
 
-**Various ex-Raëlian critical accounts**. Various former Raëlians have produced critical accounts of their experiences within the movement, with various levels of credibility and various specific complaints. The mainstream NRM scholarship has generally engaged these accounts as one source of evidence among many, without treating them as either definitively authoritative or definitively dismissible.
+**各种前雷尔派人士的批评叙述**。多位前雷尔派成员对其在运动中的经历提出了批评叙述,可信度与具体抱怨各不相同。主流 NRM 学术研究通常将这些叙述作为众多证据来源之一加以处理,既不将其视为决定性权威,亦不将其视为可决定性地不予理会。
 
-## Application across the corpus
+## 在文集中的应用
 
-Raëlism operates as a load-bearing institutional and doctrinal entity across multiple corpus entries.
+雷尔派作为承重的制度与教义实体在多个文集条目中运作。
 
-### The Raël entry
+### 雷尔条目
 
-The figure of Raël is the founder and continuing senior figure of Raëlism. The detailed treatment of the figure lives in the [Raël](../rael/) entry; the Raëlism entry's specific contribution is establishing the doctrinal-institutional content of the movement that Raël founded.
+雷尔本人是雷尔派的创立者与持续的资深人物。该人物的详细处理见[雷尔](../rael/)条目;雷尔派条目的具体贡献在于确立雷尔所创立运动的教义—制度内容。
 
-### The Embassy entry
+### 使馆条目
 
-The embassy project is the principal operational project of the Raëlian movement. The detailed treatment lives in the [Embassy](../embassy/) entry; the Raëlism entry's specific contribution is establishing the institutional context within which the embassy project operates.
+使馆计划是雷尔运动的主要运作项目。详细处理见[使馆](../embassy/)条目;雷尔派条目的具体贡献在于确立使馆计划运作所处的制度语境。
 
-### The Apocalypse entry
+### 启示条目
 
-Raëlism is the principal contemporary institutional vehicle for the broader Apocalypse (the unveiling phase) framework. The detailed treatment lives in the [Apocalypse](../apocalypse/) entry; the Raëlism entry's specific contribution is establishing the institutional infrastructure within which the apocalyptic content operates.
+雷尔派是更广泛启示(揭示阶段)框架的主要当代制度载体。详细处理见[启示](../apocalypse/)条目;雷尔派条目的具体贡献在于确立启示内容运作所处的制度基础设施。
 
-### The Cosmic Competition, Doubled Signature, Cosmic Chain entries
+### 宇宙竞赛、双重签名、宇宙链等条目
 
-Raëlism is the principal contemporary institutional vehicle for the source-material teaching that the corpus's broader framework engages. The detailed treatment of each framework lives in the respective entry; the Raëlism entry's specific contribution is establishing the institutional context.
+雷尔派是文集更广泛框架所涉及之源材料教导的主要当代制度载体。各框架的详细处理见各自条目;雷尔派条目的具体贡献在于确立其制度语境。
 
-### The Age of Aquarius entry
+### 水瓶座时代条目
 
-Raëlism is the principal Aquarian-age religious-philosophical movement. The detailed treatment of the Age of Aquarius lives in the [Age of Aquarius](../timeline/age-of-aquarius/) entry; the Raëlism entry's specific contribution is establishing the movement's specific role within the age's broader operational developments.
+雷尔派是主要的水瓶座时代宗教—哲学运动。水瓶座时代的详细处理见[水瓶座时代](../timeline/age-of-aquarius/)条目;雷尔派条目的具体贡献在于确立该运动在时代更广泛运作发展中的具体角色。
 
-### The corpus's broader framework
+### 文集的更广泛框架
 
-The Wheel of Heaven corpus is operationally distinct from Raëlism. The corpus engages with the Raëlian source material as principal foundational text for its broader interpretive framework, but the corpus's distinctive analytical contributions (the precessional-age framework's twelve-age elaboration, the doubled-signature principle's systematic application, the cosmic-competition framework's specific articulation, the cosmic-chain framework's broader development, the various Hebrew-textual analyses, the cross-cultural comparative material) extend substantially beyond what the Raëlian source material directly provides. The corpus's relationship to Raëlism is one of **shared-foundational-source-material-with-distinctive-interpretive-extension**.
+Wheel of Heaven 文集与雷尔派在运作上是不同的。文集将雷尔派源材料作为其更广泛诠释框架的主要奠基文本加以处理,但文集独特的分析贡献(岁差时代框架的十二时代展开、双重签名原则的系统性应用、宇宙竞赛框架的具体阐述、宇宙链框架的更广泛发展、各种希伯来文本分析、跨文化比较材料)实质上超出了雷尔派源材料直接提供的范围。文集与雷尔派的关系是一种**共享奠基源材料并具独特诠释延伸**的关系。
 
-## Distinguishing from adjacent concepts
+## 与相邻概念的区分
 
-### Raëlism vs. the broader Wheel of Heaven framework
+### 雷尔派与更广泛的 Wheel of Heaven 框架
 
-The Wheel of Heaven framework (the corpus's distinctive interpretive contribution) is distinct from Raëlism (the religious-philosophical movement) in several specific respects:
+Wheel of Heaven 框架(文集独有的诠释贡献)在若干具体方面与雷尔派(宗教—哲学运动)有所区别:
 
-- The corpus's framework draws substantially on Jean Sendy's broader work, the Hamlet's Mill astronomical-mythological framework, Mauro Biglino's strict-translational engagement with the Hebrew Bible, Paul Anthony Wallis's broader alliance-mediated history, and various other scholarly sources beyond the Raëlian source material itself
-- The corpus's framework develops substantially the precessional-age framework's twelve-age elaboration, which the Raëlian source material gestures at but does not systematically develop
-- The corpus's framework develops the doubled-signature principle systematically across the twelve ages, which is not present in the Raëlian source material
-- The corpus's framework engages substantially with cross-cultural comparative material that the Raëlian source material does not directly engage
-- The corpus's framework is operationally independent of the Raëlian movement's institutional structure
+- 文集的框架实质上吸取了让·桑迪的更广泛工作、{{ cite(id="those-gods-who-made-heaven-and-earth", text="[7]", title="桑迪,《Ces dieux qui firent le ciel et la terre》/《那些造天与地的神》(1969/1972)") }}哈姆雷特磨坊的天文—神话学框架、毛罗·比利诺对希伯来圣经的严格翻译工作、{{ cite(id="the-bible-is-not-a-sacred-book", text="[8]", title="比利诺,严格字面希伯来圣经系列(2010 起)") }}保罗·安东尼·沃利斯关于联盟—中介历史的更广泛工作,{{ cite(id="escaping-from-eden", text="[9]", title="沃利斯,《逃离伊甸》(2020)及后续比较楔形文字著作") }}以及超出雷尔派源材料本身的其他各种学术来源
+- 文集的框架实质性地发展了岁差时代框架的十二时代展开,而雷尔派源材料对此有所暗示但未作系统发展
+- 文集的框架在十二个时代中系统性地发展了双重签名原则,这在雷尔派源材料中并不存在
+- 文集的框架实质性地涉及了跨文化比较材料,而雷尔派源材料并未直接涉及
+- 文集的框架在运作上独立于雷尔运动的制度结构
 
-The relationship is one of **shared-foundational-source-material-with-distinctive-interpretive-extension**. The corpus's framework can be engaged with by readers who are not Raëlians and need not require institutional Raëlian-movement engagement; the Raëlian movement can be engaged with by practitioners who do not adopt the broader corpus framework.
+这种关系是一种**共享奠基源材料并具独特诠释延伸**。文集的框架可被非雷尔派的读者所参与,无需制度性雷尔运动的参与;雷尔运动也可被并未采纳更广泛文集框架的实践者所参与。
 
-### Raëlism vs. the figure of Raël specifically
+### 雷尔派与雷尔本人
 
-Raël as figure and Raëlism as movement are operationally distinct. Raël is the founder and continuing senior figure; Raëlism is the institutional-doctrinal movement that Raël founded and continues to lead but that has developed substantial operational infrastructure beyond Raël's personal involvement. The detailed treatment of the figure lives in the [Raël](../rael/) entry.
+作为人物的雷尔与作为运动的雷尔派在运作上是不同的。雷尔是创立者与持续的资深人物;雷尔派则是雷尔所创立、并继续领导但在其个人参与之外发展出实质运作基础设施的制度—教义运动。该人物的详细处理见[雷尔](../rael/)条目。
 
-### Raëlism vs. the broader UFO-religion category
+### 雷尔派与更广泛的 UFO 宗教类别
 
-The broader UFO-religion category (Heaven's Gate, Aetherius Society, Unarius, Cosmic People, various others) provides the immediate scholarly category within which Raëlism operates. Raëlism is structurally distinctive within this broader category through several specific features:
+更广泛的 UFO 宗教类别(天堂之门、以太协会、Unarius、宇宙人民及其他)为雷尔派运作所处的直接学术类别。雷尔派在这一更广泛类别中通过若干具体特征显示出结构上的独特性:
 
-- **The institutional substance**: Raëlism has substantially greater institutional development than most other UFO religions, with the IRM being among the most institutionally substantial UFO religions globally
-- **The doctrinal articulation**: Raëlism has substantially greater doctrinal articulation than most other UFO religions, with the systematic source-material corpus
-- **The atheist-religion framing**: Raëlism's explicit atheist-religion framing distinguishes it from many other UFO religions that preserve substantial supernatural-theological content
-- **The cumulative-prophetic-tradition integration**: Raëlism's integration with the broader cumulative prophetic tradition (Moses, Jesus, Muhammad, Buddha, others) distinguishes it from UFO religions that operate without such integration
-- **The continuing operational pattern**: Raëlism's continuing five-decade operational pattern distinguishes it from various UFO religions that have collapsed or substantially declined
+- **制度实质**:雷尔派的制度发展实质上超过大多数其他 UFO 宗教,IRM 是全球制度最为实质的 UFO 宗教之一
+- **教义阐述**:雷尔派的教义阐述实质上超过大多数其他 UFO 宗教,具有系统的源材料文集
+- **无神论宗教的框架**:雷尔派明确的无神论宗教框架使其有别于许多保留实质性超自然—神学内容的其他 UFO 宗教
+- **与累积性先知传统的整合**:雷尔派与更广泛累积性先知传统(摩西、耶稣、穆罕默德、佛陀及其他)的整合,使其有别于不进行此种整合而运作的 UFO 宗教
+- **持续的运作模式**:雷尔派持续五十年的运作模式使其有别于已崩溃或大幅衰落的多个 UFO 宗教
 
-The detailed comparative treatment lives in the *Comparative observations* section below.
+详细比较处理见下文*比较观察*节。
 
-### Raëlism vs. the broader new-religious-movement category
+### 雷尔派与更广泛的新兴宗教运动类别
 
-The broader new-religious-movement category (Mormonism, Scientology, Bahá'í, various others) provides the broader scholarly category within which Raëlism operates. Raëlism is structurally distinctive within this broader category through the specific extraterrestrial-creator framework and the explicit atheist-religion framing.
+更广泛的新兴宗教运动类别(摩门教、山达基、巴哈伊及其他)为雷尔派运作所处的更广泛学术类别。雷尔派在这一更广泛类别中通过具体的外星造物主框架与明确的无神论宗教框架显示出结构上的独特性。
 
-### Raëlism vs. the broader atheist/scientific religion category
+### 雷尔派与更广泛的无神论 / 科学宗教类别
 
-The broader atheist/scientific religion category (Comtean Religion of Humanity, Secular Humanism, Ethical Culture, various Buddhist traditions, various others) provides one specific scholarly category within which Raëlism operates. Raëlism is structurally distinctive within this broader category through the specific extraterrestrial-creator framework that provides the substantive doctrinal content.
+更广泛的无神论 / 科学宗教类别(孔德的人道教、世俗人本主义、伦理文化、各种佛教传统及其他)为雷尔派运作所处的一个具体学术类别。雷尔派在这一更广泛类别中通过提供实质性教义内容的具体外星造物主框架显示出结构上的独特性。
 
-## Modern reinterpretations
+## 现代再解释
 
-### Mainstream new-religious-movement scholarship on Raëlism specifically
+### 主流新兴宗教运动学术对雷尔派的具体研究
 
-The principal sustained scholarly engagement with Raëlism has been within new-religious-movement (NRM) studies.
+对雷尔派的主要持续学术研究存在于新兴宗教运动(NRM)研究之中。
 
-**Susan J. Palmer**'s *Aliens Adored: Raël's UFO Religion* (Rutgers University Press, 2004) is the principal book-length scholarly treatment. Palmer's approach is sympathetic-ethnographic, drawing on extensive direct fieldwork including substantial interview material with Raël, senior Raëlian movement figures, and rank-and-file members. The book provides substantial analysis of the movement's institutional structure, doctrinal content, principal practices, principal controversies, and broader sociological features. Palmer's broader subsequent work has continued to engage Raëlism across the post-2004 period, with various journal articles producing substantial continuing engagement.
+**苏珊·J·帕尔默**的《被崇拜的外星人:雷尔的 UFO 宗教》(罗格斯大学出版社,2004)是首部书长篇幅的学术研究。帕尔默的进路是同情立场—人种学的,基于大量直接田野调查,包括与雷尔、雷尔运动资深人物及普通成员的实质性访谈材料。该书对该运动的制度结构、教义内容、主要实践、主要争议以及更广泛的社会学特征作了大量分析。帕尔默 2004 年之后的更广泛工作在后续时期持续涉及雷尔派,各类期刊文章构成大量持续的研究。
 
-**Massimo Introvigne** and the **Center for Studies on New Religions (CESNUR)** have produced substantial scholarly engagement with Raëlism through various conference papers, journal articles in *Nova Religio* and other venues, and broader CESNUR institutional output. Introvigne's general approach is sympathetic-scholarly, treating Raëlism seriously as a religious movement while maintaining scholarly objectivity regarding the framework's specific historical claims.
+**马西莫·英特罗维涅**与**新兴宗教研究中心(CESNUR)**通过各种会议论文、《Nova Religio》及其他刊物上的期刊文章,以及更广泛的 CESNUR 制度成果,对雷尔派进行了大量学术研究。英特罗维涅的总体进路是同情立场—学术的,认真对待雷尔派作为宗教运动,同时对该框架的具体历史主张保持学术客观性。
 
-**George D. Chryssides** has produced scholarly engagement with Raëlism within his broader work on new-religious-movements, with various comparative analyses placing Raëlism within the broader NRM landscape. Chryssides's specific contribution includes engagement with the question of charismatic leadership and institutional development across multiple NRM cases.
+**乔治·D·克里希迪斯**在其新兴宗教运动的更广泛工作中对雷尔派进行了学术研究,通过各种比较分析将雷尔派置于更广泛的 NRM 版图之中。克里希迪斯的具体贡献包括涉及多个 NRM 案例中魅力型领导与制度发展问题的研究。
 
-**Mikael Rothstein** has produced substantial scholarly engagement with Raëlism, particularly regarding the movement's specific hagiographical and textual practices. Rothstein's "Hagiography and Text in the Raëlian Movement" (in Partridge's *UFO Religions*, 2003) is one principal engagement.
+**米卡埃尔·罗特斯坦**对雷尔派进行了大量学术研究,尤其涉及该运动具体的圣徒传与文本实践。罗特斯坦的《雷尔运动中的圣徒传与文本》(收于帕特里奇的《UFO 宗教》,2003)是主要研究之一。
 
-**Christopher Partridge**'s edited volume *UFO Religions* (Routledge, 2003) and his broader work on contemporary spirituality have produced substantial Raëlism engagement.
+**克里斯托弗·帕特里奇**编辑的《UFO 宗教》(劳特利奇,2003)及其在当代灵性方面的更广泛工作,对雷尔派进行了大量研究。
 
-**James R. Lewis** has edited several substantial collections engaging Raëlism, including *The Gods Have Landed: New Religions from Other Worlds* (SUNY Press, 1995) and the *Encyclopedic Sourcebook of UFO Religions* (Prometheus, 2003).
+**詹姆斯·R·刘易斯**编辑了多部涉及雷尔派的实质性论文集,包括《诸神已经登陆:来自其他世界的新兴宗教》(SUNY 出版社,1995)与《UFO 宗教百科全书参考书》(普罗米修斯,2003)。
 
-**Erik A. W. Östling** has produced substantial scholarly engagement with Raëlism within Scandinavian religious-studies scholarship.
+**埃里克·A·W·厄斯特林**在斯堪的纳维亚宗教学研究中对雷尔派进行了大量学术研究。
 
-The mainstream NRM scholarship's general assessment is one of **serious-engagement-with-skeptical-distance** — treating Raëlism as a substantial religious phenomenon worthy of academic study while not endorsing the framework's specific historical claims about the December 13, 1973 contact event.
+主流 NRM 学术的总体评价是一种**认真研究与怀疑性距离的结合** — 将雷尔派视为值得学术研究的实质性宗教现象,同时不为该框架关于 1973 年 12 月 13 日接触事件的具体历史主张背书。
 
-### Academic categorization debates
+### 学术分类争论
 
-The academic categorization of Raëlism has been the subject of substantial scholarly debate.
+对雷尔派的学术分类一直是大量学术争论的对象。
 
-**The UFO-religion categorization** treats Raëlism as one specific instance of the broader UFO-religion category, alongside Heaven's Gate, Aetherius Society, Unarius, and various others. The categorization captures substantial features of Raëlism's distinctive content but is treated by some scholars as overly narrow given Raëlism's substantial broader doctrinal articulation and institutional development.
+**UFO 宗教分类**将雷尔派视为更广泛 UFO 宗教类别中的一个具体实例,与天堂之门、以太协会、Unarius 及其他并列。该分类捕捉了雷尔派独特内容的大量特征,但部分学者认为这一分类过于狭窄,因雷尔派具有实质的更广泛教义阐述与制度发展。
 
-**The new-religious-movement (NRM) categorization** treats Raëlism as one specific instance of the broader NRM category, alongside Mormonism, Scientology, Bahá'í, and various others. The categorization captures the broader institutional and sociological features of Raëlism while not specifically registering the extraterrestrial-creator framework.
+**新兴宗教运动(NRM)分类**将雷尔派视为更广泛 NRM 类别中的一个具体实例,与摩门教、山达基、巴哈伊及其他并列。该分类捕捉了雷尔派更广泛的制度与社会学特征,但并未具体记录外星造物主框架。
 
-**The atheist-religion categorization** treats Raëlism as one specific instance of the broader atheist/scientific religion category, alongside Comtean Religion of Humanity, Secular Humanism, Ethical Culture, various Buddhist traditions, and various others. The categorization captures Raëlism's distinctive atheist-religion framing but is treated by some scholars as understating the substantively religious dimensions of Raëlism's specific content.
+**无神论宗教分类**将雷尔派视为更广泛无神论 / 科学宗教类别中的一个具体实例,与孔德的人道教、世俗人本主义、伦理文化、各种佛教传统及其他并列。该分类捕捉了雷尔派独特的无神论宗教框架,但部分学者认为这一分类低估了雷尔派具体内容中实质的宗教维度。
 
-**The postmodern-religion categorization** treats Raëlism as one specific instance of the broader postmodern-religion category, with the specific cultural-temporal positioning within the late-twentieth-century post-traditional religious landscape.
+**后现代宗教分类**将雷尔派视为更广泛后现代宗教类别中的一个具体实例,着眼于其在二十世纪晚期后传统宗教景观中的具体文化—时间定位。
 
-**Eclectic-categorization approaches** treat Raëlism as appropriately engaged through multiple categorizations simultaneously, with the specific categorizations producing different analytical framings of the movement's distinctive features. The broader scholarly convergence has been toward eclectic-categorization approaches rather than toward any single definitive categorization.
+**折衷分类进路**将雷尔派视为通过多个分类同时加以恰当处理,不同分类对该运动的独特特征产生不同的分析性框架。更广泛的学术收敛朝向折衷分类进路,而非任何单一的决定性分类。
 
-### Scholarly treatment of specific Raëlian doctrines
+### 对雷尔派具体教义的学术处理
 
-The various specific Raëlian doctrines have produced substantial scholarly engagement.
+雷尔派的各项具体教义引发了大量学术研究。
 
-**The genetic-engineering creation framework**. The Raëlian framework's specific reading of Genesis 1 as preserving substantively accurate memory of genetic-engineering creation has produced substantial scholarly engagement. The mainstream biblical-scholarly response has generally been skeptical, treating the reading as one specific contemporary interpretive framework rather than as continuation of mainstream historical-critical biblical scholarship. The broader mainstream scientific response has been substantially more skeptical, treating the framework's specific historical claims as unsupported by mainstream evolutionary biology and broader scientific consensus.
+**基因工程创造框架**。雷尔派框架对创世记 1 章作为对基因工程创造之实质性准确记忆的具体阅读,引发了大量学术研究。主流圣经学术的回应通常持怀疑态度,将该阅读视为一种具体的当代诠释框架,而非主流历史—批判圣经研究的延续。更广泛的主流科学回应则更具怀疑性,认为该框架的具体历史主张未获主流进化生物学与更广泛科学共识的支持。
 
-**The sensual meditation practices**. The sensual meditation practices have produced substantial scholarly engagement, with various academic treatments of the practices' specific content, broader spiritual-developmental framework, and reception within mainstream cultural contexts. The mainstream scholarly engagement has generally been more nuanced than the journalistic-popular engagement, with various academic treatments producing detailed analysis of the practices' integration with the broader Raëlian framework.
+**感官冥想实践**。感官冥想实践引发了大量学术研究,包括对其具体内容、更广泛精神—发展框架及在主流文化语境中接受度的各种学术处理。主流学术研究通常比新闻业—大众处理更为细致,各种学术处理对这些实践与更广泛雷尔派框架的整合作了详细分析。
 
-**The geniocracy doctrine**. The geniocracy political doctrine has produced substantial scholarly engagement within political theory and broader social science. The doctrine has been engaged with as one specific contemporary articulation of broader meritocratic and technocratic political traditions, with various scholarly treatments producing detailed analysis of the doctrine's specific content and broader implications.
+**天才统治教义**。天才统治政治教义在政治理论与更广泛社会科学中引发了大量学术研究。该教义被作为更广泛精英主义与技术官僚政治传统的一项具体当代阐述加以研究,各种学术处理对该教义的具体内容与更广泛意涵作了详细分析。
 
-**The cellular-plan transmission**. The cellular-plan transmission baptismal practice has produced substantial scholarly engagement within ritual studies and broader religious-studies scholarship, with various academic treatments of the practice's specific content and broader theological-doctrinal implications.
+**细胞计划传输**。细胞计划传输的受洗实践在仪式研究与更广泛宗教学研究中引发了大量学术研究,各种学术处理对该实践的具体内容与更广泛的神学—教义意涵进行了研究。
 
-### Legal-political treatment of Raëlism
+### 对雷尔派的法律—政治处理
 
-The legal-political treatment of Raëlism has varied substantially across different national contexts.
+对雷尔派的法律—政治处理在不同国家语境中有实质差异。
 
-**French legal-political context**. The French government has produced substantial engagement with Raëlism through MIVILUDES and UNADFI. The Raëlian movement has been classified in various French-government documents as a *secte* (the French legal-cultural category of problematic religious group), with various legal-political tensions across the past several decades. The 2001 *About-Picard Law* on anti-cult measures has provided substantial subsequent regulatory framework. Various Raëlian-movement legal challenges to French-government classifications have produced varying outcomes across the post-2001 period.
+**法国法律—政治语境**。法国政府通过 MIVILUDES 与 UNADFI 对雷尔派进行了大量参与。雷尔运动在多份法国政府文件中被划归为 *secte*(法语法律—文化范畴中有问题的宗教团体),在过去数十年间产生了各种法律—政治张力。2001 年关于反邪教措施的 *About-Picard 法律*提供了实质性的后续监管框架。雷尔运动对法国政府分类提出的各项法律挑战在 2001 年之后产生了不一的结果。
 
-**North American legal-political context**. The Raëlian movement has operated with substantially less legal-political tension in North America, with the United States First Amendment and Canadian religious-freedom protections providing broader institutional protection. The 2002 Clonaid announcement produced substantial subsequent FDA and Health Canada engagement, with various regulatory questions regarding human-cloning research. Various US and Canadian legal cases have generally upheld the Raëlian movement's religious-freedom rights.
+**北美法律—政治语境**。雷尔运动在北美的运作所遭遇的法律—政治张力实质上小得多,美国宪法第一修正案与加拿大的宗教自由保护提供了更宽广的制度保护。2002 年克隆援助公司的公告引发了美国食品药品监督管理局与加拿大卫生部的后续大量介入,涉及关于人类克隆研究的各种监管问题。各种美国与加拿大的法律案件总体上维护了雷尔运动的宗教自由权利。
 
-**European legal-political context**. Various European countries have produced varied legal-political engagement. Belgium's 1997 anti-cult parliamentary commission classified the Raëlian movement among problematic religious groups; the German Sekten-Beauftragte has engaged various Raëlian movement matters; various other European national frameworks have produced specific engagements.
+**欧洲法律—政治语境**。各欧洲国家产生了不一的法律—政治介入。比利时 1997 年的反邪教议会委员会将雷尔运动归入有问题宗教团体之列;德国 Sekten-Beauftragte 参与了雷尔运动的各种事务;其他各欧洲国家框架也有具体介入。
 
-**Asian legal-political context**. The Raëlian movement has substantial presence in Japan and South Korea, with the broader Asian religious-pluralism context producing different legal-political engagement than the European-anti-cult framework. South Korea's specific religious-pluralism context has been particularly accommodating to the Raëlian movement.
+**亚洲法律—政治语境**。雷尔运动在日本和韩国有实质性存在,更广泛的亚洲宗教多元主义语境产生了不同于欧洲反邪教框架的法律—政治介入。韩国具体的宗教多元主义语境对雷尔运动尤为包容。
 
-**African legal-political context**. The Raëlian movement has had substantial presence in various African countries across the post-1990s period, with varying specific national contexts. The broader African religious-pluralism context has produced varied legal-political engagement.
+**非洲法律—政治语境**。雷尔运动在 1990 年代之后在多个非洲国家有实质性存在,各国具体语境各不相同。更广泛的非洲宗教多元主义语境产生了不一的法律—政治介入。
 
-### Various ex-Raëlian and anti-cult organizational accounts
+### 各种前雷尔派人士与反邪教组织的叙述
 
-Various former Raëlians have produced critical accounts of their experiences within the movement, with various levels of credibility and various specific complaints. The mainstream NRM scholarship has generally engaged these accounts as one source of evidence among many, without treating them as either definitively authoritative or definitively dismissible.
+多位前雷尔派成员对其在运动中的经历提出了批评叙述,可信度与具体抱怨各不相同。主流 NRM 学术研究通常将这些叙述作为众多证据来源之一加以处理,既不将其视为决定性权威,亦不将其视为可决定性地不予理会。
 
-The broader anti-cult organizational engagement (UNADFI, MIVILUDES, FECRIS, various international organizations) has produced substantial critical-hostile material across the past several decades. The mainstream NRM scholarship has generally engaged this material critically, with various scholars treating the anti-cult material as one specific perspective rather than as definitive scholarly treatment.
+更广泛的反邪教组织参与(UNADFI、MIVILUDES、FECRIS 及各国际组织)在过去数十年间产生了大量批评—敌意材料。主流 NRM 学术研究通常对此类材料持批判态度,各学者通常将反邪教材料视为一种具体视角,而非决定性的学术处理。
 
-### The framework's relationship to the broader landscape
+### 框架与更广泛景观的关系
 
-The corpus's framework is positioned within this scholarly-political landscape as follows: substantially aligned with mainstream NRM scholarship at the institutional-sociological level (recognizing the substantial scholarship produced by Palmer, Introvigne, Lewis, and others); engaged with the academic categorization debates while not committing to any single definitive categorization; engaged with the specific doctrinal scholarship while extending substantially beyond what the mainstream scholarship has produced through the broader Wheel of Heaven framework's distinctive interpretive contributions; cautiously engaged with the legal-political treatment while not accepting the anti-cult organizational hostile framing; engaged with ex-Raëlian and anti-cult accounts as one source of evidence among many.
+文集的框架在这一学术—政治景观中的定位如下:在制度—社会学层面与主流 NRM 学术实质性地一致(承认帕尔默、英特罗维涅、刘易斯及其他人所产生的大量学术研究);参与学术分类争论但不致力于任何单一的决定性分类;参与具体的教义学术研究,同时通过更广泛 Wheel of Heaven 框架独特的诠释贡献实质性地超出主流学术所产生的范围;谨慎地参与法律—政治处理而不接受反邪教组织的敌意框架;将前雷尔派人士与反邪教叙述视为众多证据来源之一加以处理。
 
-## Comparative observations
+## 比较观察
 
-Raëlism's distinctive features warrant comparative engagement with multiple religious-movement categories.
+雷尔派的独特特征值得在多个宗教运动类别中进行比较研究。
 
-### Other UFO religions
+### 其他 UFO 宗教
 
-The broader UFO-religion category provides the immediate scholarly category within which Raëlism operates.
+更广泛的 UFO 宗教类别为雷尔派运作所处的直接学术类别。
 
-**Heaven's Gate** (founded 1974 by Marshall Applewhite and Bonnie Nettles) was a UFO-religion that ended catastrophically in March 1997 with the mass suicide of 39 members in Rancho Santa Fe, California, in connection with the Hale-Bopp comet's appearance. The movement's specific framework involved alleged contact with extraterrestrial beings whose return was anticipated through specific cosmic events. The movement's catastrophic end provides substantial contrast with Raëlism's continuing five-decade operational pattern. The framework reads Heaven's Gate as one specific UFO-religion case whose catastrophic outcome reflects substantially different operational features from Raëlism's continuing pattern.
+**天堂之门**(由马歇尔·阿普尔怀特与邦妮·内特尔斯于 1974 年创立)是一个 UFO 宗教,1997 年 3 月在加利福尼亚州兰乔圣塔菲与海尔—波普彗星出现相关联的 39 名成员集体自杀中灾难性结束。该运动具体的框架涉及所谓与外星存在的接触,并预期其通过具体的宇宙事件回归。该运动的灾难性结束与雷尔派持续五十年的运作模式形成实质对比。框架将天堂之门视为一个具体的 UFO 宗教案例,其灾难性结局反映了与雷尔派持续模式实质性不同的运作特征。{{ footnote(id="6") }}
 
-**Aetherius Society** (founded 1955 by George King) is one of the longest-continuing UFO religions, with substantial doctrinal articulation drawing on theosophical and broader esoteric traditions. The society's specific framework involves alleged contact with "Cosmic Masters" associated with various solar system bodies. The society has continued substantial operations across the post-1955 period, with various national branches and substantial institutional development. The framework reads the Aetherius Society as one specific UFO-religion case with substantial structural parallels to Raëlism's continuing operational pattern, though with substantively different doctrinal content.
+**以太协会**(由乔治·金于 1955 年创立)是持续时间最长的 UFO 宗教之一,具有实质的教义阐述,吸取自神智学与更广泛的密义传统。该协会具体的框架涉及所谓与“宇宙大师”的接触,与太阳系中各天体相关联。该协会自 1955 年以来持续进行实质性运作,有各国分支与实质的制度发展。框架将以太协会视为一个具体的 UFO 宗教案例,在结构上与雷尔派持续的运作模式有实质平行,但教义内容实质上不同。
 
-**Unarius Academy of Science** (founded 1954 by Ernest L. Norman and Ruth E. Norman) is a UFO-religion with substantial channeling-based doctrinal content drawing on various theosophical and broader esoteric traditions. The academy's specific framework involves alleged contact with various extraterrestrial civilizations through channeling practices. The framework reads Unarius as one specific UFO-religion case with various structural parallels to Raëlism while operating through substantially different doctrinal-institutional features.
+**Unarius 科学院**(由欧内斯特·L·诺曼与露丝·E·诺曼于 1954 年创立)是一个 UFO 宗教,具有实质的基于通灵传话的教义内容,吸取自各种神智学与更广泛的密义传统。该学院具体的框架涉及通过通灵传话实践所谓与各外星文明的接触。框架将 Unarius 视为一个具体的 UFO 宗教案例,在结构上与雷尔派有各种平行,但通过实质上不同的教义—制度特征运作。
 
-**Cosmic People (Vesmírní lidé)** (founded c. 1997 by Ivo A. Benda) is a Czech UFO-religion with substantial channeling-based doctrinal content. The movement's specific framework involves alleged contact with Pleiadian and broader extraterrestrial civilizations through channeling practices.
+**宇宙人民(Vesmírní lidé)**(由伊沃·A·本达约于 1997 年创立)是一个捷克的 UFO 宗教,具有实质的基于通灵传话的教义内容。该运动具体的框架涉及通过通灵传话实践所谓与昴宿星人与更广泛外星文明的接触。
 
-**Various other UFO religions** — including the Ashtar Galactic Command, the Galactic Federation of Light, Universe People, and various others — provide the broader landscape within which Raëlism operates. The framework reads Raëlism as structurally distinctive within this broader landscape through the specific institutional substance, doctrinal articulation, atheist-religion framing, and continuing operational pattern.
+**其他各种 UFO 宗教** — 包括阿什塔尔银河司令部、光之银河联邦、宇宙人民及其他 — 提供了雷尔派运作所处的更广泛景观。框架将雷尔派视为在这一更广泛景观中通过具体的制度实质、教义阐述、无神论宗教框架与持续运作模式具有结构上的独特性。
 
-### New religious movements with prophet-founders
+### 具先知—创立者的新兴宗教运动
 
-The broader new-religious-movement (NRM) category with prophet-founders provides another scholarly category within which Raëlism operates.
+具先知—创立者的更广泛新兴宗教运动(NRM)类别为雷尔派运作所处的另一学术类别。
 
-**Mormonism** (Church of Jesus Christ of Latter-day Saints, founded 1830 by Joseph Smith) is structurally comparable in several specific respects: prophet-founder figure, substantial textual corpus produced by founder (Book of Mormon, Doctrine and Covenants, Pearl of Great Price), substantial institutional development, multiple-worlds creation doctrine, anticipated-return content. The detailed comparative treatment of Mormon doctrine lives in the [Cosmic Competition](../cosmic-competition/) entry's *Comparative observations*.
+**摩门教**(耶稣基督后期圣徒教会,由约瑟夫·斯密于 1830 年创立)在几个具体方面在结构上具有可比性:有先知—创立者人物;由创立者所产生的实质性文本文集(《摩门经》、《教义与圣约》、《无价珍珠》);实质的制度发展;多世界创造教义;预期回归内容。摩门教教义的详细比较处理见[宇宙竞赛](../cosmic-competition/)条目的*比较观察*节。
 
-**Scientology** (founded 1953 by L. Ron Hubbard) is structurally comparable in several specific respects: prophet-founder figure, substantial textual corpus produced by founder, substantial institutional development, distinctive doctrinal content, controversial reception. The framework reads Scientology as one specific NRM case with substantial structural parallels to Raëlism, though with substantively different doctrinal-institutional features (Scientology's specific "Thetan" doctrine, the auditing practice, the Sea Organization structure).
+**山达基**(由 L·罗恩·哈伯德于 1953 年创立)在几个具体方面在结构上具有可比性:有先知—创立者人物;由创立者所产生的实质性文本文集;实质的制度发展;独特的教义内容;有争议的接受。框架将山达基视为一个具体的 NRM 案例,在结构上与雷尔派有实质平行,但教义—制度特征实质上不同(山达基具体的“塞坦”教义、听析实践、海洋组织结构)。
 
-**Bahá'í Faith** (founded 1844-1863 by the Báb and Bahá'u'lláh) is structurally comparable in several specific respects: prophet-founder figures, substantial textual corpus, substantial institutional development, universal-religious-tradition framing, anticipated-return content within broader religious-tradition framework. The framework reads Bahá'í as one specific NRM case with substantial structural parallels to Raëlism, though with substantively different doctrinal-institutional features.
+**巴哈伊信仰**(由巴孛与巴哈欧拉于 1844–1863 年创立)在几个具体方面在结构上具有可比性:有先知—创立者人物;实质性文本文集;实质的制度发展;普世宗教传统框架;在更广泛宗教传统框架内的预期回归内容。框架将巴哈伊视为一个具体的 NRM 案例,在结构上与雷尔派有实质平行,但教义—制度特征实质上不同。
 
-**Various other NRMs with prophet-founders** — including Soka Gakkai (founded 1930), the Unification Church (founded 1954 by Sun Myung Moon), various others — provide the broader landscape within which Raëlism operates.
+**其他各种具先知—创立者的 NRM** — 包括创价学会(1930 年成立)、统一教(由文鲜明于 1954 年创立)及其他 — 提供了雷尔派运作所处的更广泛景观。
 
-The framework reads Raëlism as structurally distinctive within this broader NRM landscape through the specific extraterrestrial-creator framework, the explicit atheist-religion framing, and the integration with the broader cumulative prophetic tradition (which most other NRMs do not directly integrate).
+框架将雷尔派视为在这一更广泛 NRM 景观中通过具体的外星造物主框架、明确的无神论宗教框架以及与更广泛累积性先知传统的整合(其他大多数 NRM 不直接进行这种整合)具有结构上的独特性。
 
-### Atheist/scientific religions
+### 无神论 / 科学宗教
 
-The broader atheist/scientific religion category provides one specific scholarly category within which Raëlism's distinctive atheist-religion framing operates.
+更广泛的无神论 / 科学宗教类别为雷尔派独特的无神论宗教框架运作所处的一个具体学术类别。
 
-**Comtean Religion of Humanity** (founded c. 1851 by Auguste Comte) was the principal nineteenth-century articulation of the atheist-religion framework, with substantial elaboration through Comte's *Système de politique positive* and various other works. The Religion of Humanity proposed a positivist religion oriented toward humanity itself rather than toward supernatural deity, with substantial ritual structure, calendar, and broader religious-institutional framework. The framework reads the Religion of Humanity as one specific historical antecedent of Raëlism's atheist-religion framing, though with substantively different doctrinal content (the Religion of Humanity oriented toward humanity itself; Raëlism oriented toward the Elohim and the broader cosmic-creative cycle).
+**孔德的人道教**(由奥古斯特·孔德于约 1851 年创立)是十九世纪对无神论宗教框架的主要阐述,通过孔德的《实证政治体系》及其他著作进行了大量阐发。人道教提出一种实证主义宗教,指向人类自身而非指向超自然神祇,具有实质的仪式结构、历法与更广泛的宗教—制度框架。框架将人道教视为雷尔派无神论宗教框架的一个具体历史先行者,但教义内容实质上不同(人道教指向人类自身;雷尔派指向耶洛因与更广泛的宇宙—创造循环)。
 
-**Secular Humanism** is the broader contemporary movement articulating a non-religious humanist framework, with various specific institutional articulations (American Humanist Association, International Humanist and Ethical Union, various others). The movement is generally not classified as religious in the strict sense, though various specific articulations have approached religious-institutional structure. The framework reads Secular Humanism as one specific contemporary articulation of broader non-religious humanist content, with substantial structural overlap with Raëlism's specific atheist orientation but substantially different content (Secular Humanism without specific extraterrestrial-creator framework).
+**世俗人本主义**是当代阐述非宗教人本主义框架的更广泛运动,有各种具体的制度阐述(美国人本主义协会、国际人本主义和伦理联盟等)。该运动通常不被严格分类为宗教,尽管各种具体阐述已接近宗教—制度结构。框架将世俗人本主义视为更广泛非宗教人本主义内容的一个具体当代阐述,与雷尔派具体的无神论取向有实质的结构重叠,但内容实质不同(世俗人本主义不含具体的外星造物主框架)。
 
-**Ethical Culture** (founded 1876 by Felix Adler) is one specific institutional articulation of the broader ethical-religious framework, with various specific institutional features (Ethical Culture Society, various national branches). The movement provides one specific historical antecedent of Raëlism's atheist-religion framing within an institutional-religious context.
+**伦理文化**(由菲利克斯·阿德勒于 1876 年创立)是更广泛伦理—宗教框架的一个具体制度阐述,具有各种具体的制度特征(伦理文化学会及其各国分支)。该运动为雷尔派无神论宗教框架在制度—宗教语境中的阐述提供了一个具体历史先行者。
 
-**Various Buddhist traditions** preserve substantially atheist-religious frameworks within the broader Buddhist religious-philosophical traditions. The principal Buddhist atheist features include the rejection of creator-deity content, the rejection of immortal-soul content, and the orientation toward awakening rather than toward divine relationship. The framework reads various Buddhist traditions as substantial parallels to Raëlism's atheist-religion framing, with the Theravada tradition being particularly close to the strictly-atheist framing while various Mahayana traditions preserve more substantial deity-content.
+**各种佛教传统**在更广泛的佛教宗教—哲学传统中保留了实质性的无神论宗教框架。佛教主要的无神论特征包括拒绝造物主神祇内容、拒绝不朽灵魂内容,以及指向觉悟而非指向神性关系的取向。框架将各种佛教传统视为雷尔派无神论宗教框架的实质平行,上座部传统尤其接近严格无神论的框架,而大乘各传统则保留更多神祇内容。
 
-**The Sunday Assembly** and various other contemporary atheist-religion articulations provide further parallels to Raëlism's specific atheist-religion framing within the broader contemporary religious landscape.
+**周日聚会**及其他当代无神论宗教阐述为更广泛当代宗教景观中雷尔派具体无神论宗教框架提供了进一步的平行。
 
-### Buddhist-philosophical religions
+### 佛教—哲学宗教
 
-The broader category of Buddhist-philosophical religions provides one specific comparative category for Raëlism's distinctive atheist-philosophical framing.
+更广泛的佛教—哲学宗教类别为雷尔派独特的无神论—哲学框架提供了一个具体比较类别。
 
-**Theravada Buddhism** preserves substantially atheist content within the broader Buddhist religious-philosophical tradition, with the rejection of creator-deity content, the rejection of immortal-soul content, and the orientation toward awakening through the Eightfold Path. The framework reads Theravada Buddhism as one specific parallel to Raëlism's atheist-religion framing, with substantially different doctrinal content (Theravada's specific Four Noble Truths framework; Raëlism's specific extraterrestrial-creator framework).
+**上座部佛教**在更广泛的佛教宗教—哲学传统中保留了实质性的无神论内容,拒绝造物主神祇内容、拒绝不朽灵魂内容,并通过八正道指向觉悟。框架将上座部佛教视为雷尔派无神论宗教框架的一个具体平行,教义内容实质不同(上座部具体的四圣谛框架;雷尔派具体的外星造物主框架)。
 
-**Various Buddhist modernist traditions** (Buddhist modernism, secular Buddhism, various others) have produced substantial articulations of explicitly atheist Buddhist content across the post-19th-century period, with various specific institutional features. The framework reads these traditions as substantial parallels to Raëlism's atheist-religion framing, with substantively different specific content.
+**各佛教现代主义传统**(佛教现代主义、世俗佛教等)在 19 世纪后产生了大量明确无神论佛教内容的阐述,具有各种具体的制度特征。框架将这些传统视为雷尔派无神论宗教框架的实质平行,具体内容实质不同。
 
-### Indigenous-creator religions
+### 本土创造者宗教
 
-The broader category of indigenous-creator religions provides one specific comparative category for Raëlism's distinctive creator-civilization framing within indigenous-religious traditions.
+更广泛的本土创造者宗教类别为雷尔派在本土宗教传统中独特的创造者—文明框架提供了一个具体比较类别。
 
-**Various Mesoamerican traditions** preserve substantial creator-civilization content with distinctive cultural-religious framings (the detailed treatment lives in the [Antediluvian](../antediluvian/) entry's *Comparative observations* and broader entries). The framework reads these traditions as preserving substantial parallel content to Raëlism's specific extraterrestrial-creator framework within distinctive cultural-religious framings.
+**各种中美洲传统**在独特的文化—宗教框架内保留了实质的创造者—文明内容(详细处理见[大洪水前](../antediluvian/)条目的*比较观察*节及更广泛条目)。框架将这些传统视为在独特的文化—宗教框架内保留与雷尔派具体的外星造物主框架平行的实质内容。
 
-**Various African creation traditions** preserve substantial creator-civilization content with distinctive cultural-religious framings. The framework reads these traditions as preserving substantial parallel content within distinctive cultural-religious framings.
+**各种非洲创造传统**在独特的文化—宗教框架内保留了实质的创造者—文明内容。框架将这些传统视为在独特的文化—宗教框架内保留实质性平行内容。
 
-**Various Polynesian, North American, South American, and Australian Aboriginal traditions** preserve substantial creator-civilization content within their distinctive cultural-religious framings.
+**各种波利尼西亚、北美、南美与澳大利亚原住民传统**在其独特的文化—宗教框架内保留了实质的创造者—文明内容。
 
-### The convergence
+### 趋同
 
-The corpus's working position on the comparative-religious-movement question is that Raëlism occupies a distinctive position within the broader religious-movement landscape — substantially within the UFO-religion category through its specific extraterrestrial-creator framework, substantially within the new-religious-movement category through its institutional development pattern, substantially within the atheist-religion category through its explicit atheist framing, while being distinctive within each of these categories through specific features that warrant separate analytical treatment.
+文集对比较宗教运动问题的工作立场是:雷尔派在更广泛的宗教运动景观中占据独特位置 — 通过其具体的外星造物主框架实质性地处于 UFO 宗教类别之中,通过其制度发展模式实质性地处于新兴宗教运动类别之中,通过其明确的无神论框架实质性地处于无神论宗教类别之中,同时通过具体特征在每一类别中均显现出独特性,这些特征值得作分别的分析处理。
 
-The mainstream scholarly explanation — which generally treats Raëlism through eclectic-categorization approaches drawing on multiple scholarly categories simultaneously — captures substantial features of Raëlism's distinctive position. The framework's specific reading is that Raëlism's structural distinctiveness is a substantive feature reflecting the movement's specific role as the principal contemporary institutional vehicle for the source-material teaching that the broader Wheel of Heaven framework engages — a vehicle whose specific institutional, doctrinal, and operational features reflect the specific Aquarian-age requirements rather than being incidental.
+主流学术解释 — 通常通过同时吸取多个学术类别的折衷分类进路处理雷尔派 — 捕捉了雷尔派独特位置的大量特征。框架的具体阅读是:雷尔派结构上的独特性是一项实质性特征,反映了该运动作为更广泛 Wheel of Heaven 框架所涉及之源材料教导主要当代制度载体的具体角色 — 一种其具体的制度、教义与运作特征反映了水瓶座时代具体要求、而非偶然附带的载体。
 
-## See also
+## 参见
 
-- [Raël](../rael/)
-- [Yahweh](../yahweh/)
-- [Elohim](../elohim/)
-- [The Alliance](../the-alliance/)
-- [Council of the Eternals](../council-of-eternals/)
-- [Embassy](../embassy/)
-- [Apocalypse](../apocalypse/)
-- [Cosmic Competition](../cosmic-competition/)
-- [Cosmic Chain](../cosmic-chain/)
-- [Doubled Signature](../doubled-signature/)
-- [Prophet](../prophet/)
-- [Jesus](../jesus/)
-- [Moses](../moses/)
-- [Muhammad](../muhammad/)
-- [Buddha](../buddha/)
-- [Genesis](../genesis/)
-- [Hebrew Bible](../hebrew-bible/)
-- [Age of Aquarius](../timeline/age-of-aquarius/)
-- [Age of Pisces](../timeline/age-of-pisces/)
-- [Atomic Threshold](../atomic-threshold/)
-- [Tree of Life](../tree-of-life/)
-- [Jean Sendy](../jean-sendy/)
-- [Mauro Biglino](../mauro-biglino/)
-- [Paul Anthony Wallis](../paul-anthony-wallis/)
+- [雷尔](../rael/)
+- [耶和华](../yahweh/)
+- [耶洛因](../elohim/)
+- [联盟](../the-alliance/)
+- [永恒者议会](../council-of-eternals/)
+- [使馆](../embassy/)
+- [启示](../apocalypse/)
+- [宇宙竞赛](../cosmic-competition/)
+- [宇宙链](../cosmic-chain/)
+- [双重签名](../doubled-signature/)
+- [先知](../prophet/)
+- [耶稣](../jesus/)
+- [摩西](../moses/)
+- [穆罕默德](../muhammad/)
+- [佛陀](../buddha/)
+- [创世记](../genesis/)
+- [希伯来圣经](../hebrew-bible/)
+- [水瓶座时代](../timeline/age-of-aquarius/)
+- [双鱼座时代](../timeline/age-of-pisces/)
+- [原子门槛](../atomic-threshold/)
+- [生命之树](../tree-of-life/)
+- [让·桑迪](../jean-sendy/)
+- [毛罗·比利诺](../mauro-biglino/)
+- [保罗·安东尼·沃利斯](../paul-anthony-wallis/)
 
-## References
+## 参考文献
 
-Vorilhon, Claude (Raël). *Le Livre qui dit la vérité*. Éditions du Message, 1974. English: *The Book Which Tells the Truth*.
+Vorilhon, Claude (Raël). *Le Livre qui dit la vérité*. Éditions du Message, 1974. 英文版:*The Book Which Tells the Truth*.
 
-Vorilhon, Claude (Raël). *Les Extra-Terrestres m'ont emmené sur leur planète*. Éditions du Message, 1975/76. English: *Extra-Terrestrials Took Me to Their Planet*.
+Vorilhon, Claude (Raël). *Les Extra-Terrestres m'ont emmené sur leur planète*. Éditions du Message, 1975/76. 英文版:*Extra-Terrestrials Took Me to Their Planet*.
 
-Vorilhon, Claude (Raël). *Accueillir les Extra-terrestres*. Éditions du Message, 1979. English: *Let's Welcome the Extra-terrestrials*.
+Vorilhon, Claude (Raël). *Accueillir les Extra-terrestres*. Éditions du Message, 1979. 英文版:*Let's Welcome the Extra-terrestrials*.
 
-Vorilhon, Claude (Raël). *La Géniocratie*. Éditions du Message, 1978. English: *Geniocracy*.
+Vorilhon, Claude (Raël). *La Géniocratie*. Éditions du Message, 1978. 英文版:*Geniocracy*.
 
-Vorilhon, Claude (Raël). *La Méditation Sensuelle*. Éditions du Message, 1980. English: *Sensual Meditation*.
+Vorilhon, Claude (Raël). *La Méditation Sensuelle*. Éditions du Message, 1980. 英文版:*Sensual Meditation*.
 
-Vorilhon, Claude (Raël). *Oui au clonage humain*. Éditions du Message, 2000. English: *Yes to Human Cloning*.
+Vorilhon, Claude (Raël). *Oui au clonage humain*. Éditions du Message, 2000. 英文版:*Yes to Human Cloning*.
 
-Vorilhon, Claude (Raël). *Le Maitreya*. Éditions du Message. English: *The Maitreya*.
+Vorilhon, Claude (Raël). *Le Maitreya*. Éditions du Message. 英文版:*The Maitreya*.
 
 Vorilhon, Claude (Raël). *Message from the Designers*. Tagman Press, 2005.
 
-International Raëlian Movement. *Apocalypse* magazine (semi-annual, 1976-present).
+International Raëlian Movement. *Apocalypse* magazine (半年刊,1976 年至今).
 
-International Raëlian Movement. *Contact* e-newsletter (weekly, current period).
+International Raëlian Movement. *Contact* e-newsletter(周刊,当前时期).
 
-International Raëlian Movement. Various official communications across the 1976-present period.
+International Raëlian Movement. 1976 年至今的各种官方传播。
 
 Palmer, Susan J. *Aliens Adored: Raël's UFO Religion*. Rutgers University Press, 2004.
 
-Palmer, Susan J. "Field Notes: Apocalypse, Eros, and the Raelian Religion." *Religious Studies and Theology* 19, no. 2 (2000): 65-75.
+Palmer, Susan J. "Field Notes: Apocalypse, Eros, and the Raelian Religion." *Religious Studies and Theology* 19, no. 2 (2000): 65–75.
 
 Palmer, Susan J. "Women in the Raelian Movement: New Religious Experiments in Gender and Authority." In *The Gods Have Landed: New Religions from Other Worlds*, ed. James R. Lewis. SUNY Press, 1995.
 
-Introvigne, Massimo. Various scholarly engagements with the Raëlian movement through CESNUR, 1990s-present.
+Introvigne, Massimo. 1990 年代至今通过 CESNUR 对雷尔运动的各项学术研究。
 
 Lewis, James R., ed. *The Gods Have Landed: New Religions from Other Worlds*. SUNY Press, 1995.
 
@@ -599,7 +655,7 @@ Lewis, James R., ed. *Encyclopedic Sourcebook of UFO Religions*. Prometheus Book
 
 Partridge, Christopher, ed. *UFO Religions*. Routledge, 2003.
 
-Partridge, Christopher. *The Re-Enchantment of the West*. 2 vols. T&T Clark, 2004-2005.
+Partridge, Christopher. *The Re-Enchantment of the West*. 2 vols. T&T Clark, 2004–2005.
 
 Tumminia, Diana G. *Alien Worlds: Social and Religious Dimensions of Extraterrestrial Contact*. Syracuse University Press, 2007.
 
@@ -617,7 +673,7 @@ Zeller, Benjamin E. *Heaven's Gate: America's UFO Religion*. NYU Press, 2014.
 
 Zeller, Benjamin E., ed. *Handbook of UFO Religions*. Brill, 2021.
 
-Saliba, John A. "The Study of UFO Religions." *Nova Religio* 10, no. 2 (2006): 103-123.
+Saliba, John A. "The Study of UFO Religions." *Nova Religio* 10, no. 2 (2006): 103–123.
 
 Wessinger, Catherine, ed. *The Oxford Handbook of Millennialism*. Oxford University Press, 2011.
 
@@ -627,7 +683,7 @@ Mack, John E. *Abduction: Human Encounters with Aliens*. Charles Scribner's Sons
 
 Mack, John E. *Passport to the Cosmos: Human Transformation and Alien Encounters*. Crown, 1999.
 
-Comte, Auguste. *Système de politique positive*. 4 vols. Carilian-Goeury, 1851-1854. English: *System of Positive Polity*. Trans. various. Longmans, Green, 1875-1877.
+Comte, Auguste. *Système de politique positive*. 4 vols. Carilian-Goeury, 1851–1854. 英文版:*System of Positive Polity*. Trans. various. Longmans, Green, 1875–1877.
 
 Adler, Felix. *An Ethical Philosophy of Life*. D. Appleton, 1918.
 
@@ -643,9 +699,9 @@ Sendy, Jean. *Ces dieux qui firent le ciel et la terre*. Robert Laffont, 1969.
 
 Sendy, Jean. *L'ère du Verseau*. Robert Laffont, 1970.
 
-Biglino, Mauro, and Giorgio Cattaneo. *The Naked Bible: The Truth About the Most Famous Book in History*. Uno, 2022.
+Biglino, Mauro, and Giorgio Cattaneo. *The Naked Bible: {% wiki(slug="the-truth") %}The Truth{% end %} About the Most Famous Book in History*. Uno, 2022.
 
-Wallis, Paul Anthony. *The Eden Conspiracy*. 6th Books, 2024.
+Wallis, Paul Anthony. *The {% wiki(slug="eden") %}Eden{% end %} Conspiracy*. 6th Books, 2024.
 
 International Raëlian Movement. <https://www.rael.org>
 

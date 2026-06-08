@@ -1,612 +1,689 @@
 +++
-title = "Wheel of Heaven"
-description = "Wheel of Heaven 是一項文獻專案,通過其四層級閱讀,將雷爾派資料的厄羅欣假說、世界時代的歲差框架,以及這一歷史在地球諸傳統中所留下的匯聚性蹤跡結合在一起。"
+title = "天輪"
+slug = "wheel-of-heaven"
+description = "天輪是一項受編纂的比較性知識專案 —— 既是一套詮釋性框架的名稱,也是闡明該框架的文集 —— 聚焦於啟示、宇宙年代學、遠古記憶、神聖歷史與現代再詮釋。本專案的工作假設為:地球上的生命乃出自一支特定的進步文明 —— 在希伯來聖經中稱為「耶洛因」(*Elohim*)—— 之審慎科學工作的成果。他們約於兩萬兩千年前抵達地球,並在隨後各個歲差時代中推行一項涵蓋行星預備、生命合成、以至最終按其形像造人之計畫。此框架主要取材於雷爾派源典(Claude Vorilhon 1973–1975 年的接觸記錄)、讓·桑迪(Jean Sendy)雷爾派之前的著作(更廣義的「傳統」框架)、Giorgio de Santillana 與 Hertha von Dechend《哈姆雷特之磨》(1969)中所闡述的歲差—神話重建,以及大量跨文化的宗教—神話—圖像—考古—文本證據,而這些證據被讀為對該計畫所保存之文化記憶。「天輪」之名兼具雙重意涵:其首要含義為歲差循環(約 25,920 年),即春分點相對於黃道背景之旋轉,用以組織文集十二時代的敘事架構;其次要含義則為《以西結書》之異象中所保存的「輪中之輪」意象(אוֹפַן בְּתוֹךְ הָאוֹפָן,*ofan betokh ha-ofan*),為希伯來聖經中數段以前科學語彙記錄耶洛因飛行器觀察的段落之一。本文集並非最終的綜論,而是一項持續中的集體整合計畫中的一個階段;更廣闊的工作預期將在未來數十年間,透過文集自身的發展以及其他作者與傳統的並行工作而持續推進。"
 template = "wiki-page.html"
 toc = true
 
 [extra]
-translation_status = "metadata_only"
+featured_order = 4
 category = "Meta"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["the Wheel of Heaven framework", "the Wheel of Heaven corpus", "the Wheel of Heaven project", "the Wheel of Heaven thesis", "the framework (corpus-internal short form)", "the corpus (when referring to the written body of project content)"]
+alternative_names = ["天輪框架", "天輪文集", "天輪專案", "天輪論題", "框架(文集內部簡稱)", "文集(指本專案所書寫的內容主體時)"]
+see_also = [
+    { title = "傳統", path = "wiki/the-tradition", description = "本專案所處之更廣比較性閱讀脈絡。" },
+    { title = "比格利諾方法", path = "wiki/biglino-method", description = "本專案所取資之希伯來文字面閱讀進路。" },
+    { title = "比較神話學", path = "wiki/comparative-mythology", description = "本專案應用於文集內部閱讀的學術學科。" },
+    { title = "神話素", path = "wiki/mytheme", description = "本專案用以追溯各傳統間母題的比較分析單位。" },
+    { title = "桑迪的一致性條件", path = "wiki/sendys-conditions-of-coherence", description = "本專案在閱讀神聖文本時所試圖滿足的詮釋限制。" },
+]
 timeline = ["multi-age"]
 
+footnotes = [
+    { content = "「大年」約 25,920 年之數值,為框架內部之取整:十二個歲差時代各恰為 2,160 年。當代天文上,依據 IAU 2006 歲差—章動模型所計算得之地軸歲差週期約為 25,772 年 —— 此值本身亦為緩慢變動之量,而非嚴格不變的常數,因歲差速率受地球軌道幾何之長期變化以及日月引力扭矩的影響。文集偏好 25,920 之數,反映的是框架在組織上的便利(十二個等長時代),而非主張該循環在字面上即為 25,920 年;其差距約為 0.6%。" },
+    { content = "《以西結書》1:15–16 中的「輪中之輪」意象,在猶太教與基督宗教中有悠久的詮釋史,並不要求飛行器式的閱讀。猶太傳統的主流閱讀,將 *ofanim* 視為《默卡瓦》(車輿—寶座)傳統中天界存有的眾秩序之一,《希卡洛特》文獻及其後邁蒙尼德與卡巴拉的進一步發展,將此意象開展為對神聖實在結構的視見。主流聖經學界 —— Greenberg 的《錨定本聖經註釋》、Block 的 NICOT 卷冊 —— 將該段讀為先知—異象式的修辭而非字面描述。文集所採之閱讀,則將描述中所具之機械性具體特徵(諸輪相互嵌合的運動、輪緣滿是眼睛、不需轉向的行進)視為觀察而非修辭的證據,且不主張標準詮釋傳統就異象體裁的判斷有誤。" },
+    { content = "「約四十位先知」這一概數,屬源典內部的陳述,取自沃里勒翁的記錄,並非由各宗教傳統外部清點而得。各傳統對先知的計算方式不同 —— 伊斯蘭傳統論及《古蘭經》中具名的二十五位先知,並有橫貫人類歷史所差遣之 124,000 位先知的更廣概念;希伯來聖經在正典諸書中明確指認的 *navi* 共有十八位;巴哈伊傳統則以九位「彰顯者」為核心。文集將該數值視為源典所宣稱之耶和華對受聯盟所差使之中介者的自陳計數,而非可由任何單一傳統之先知名單換算或推導得出的數字。" },
+    { content = "阿肯那頓(Akhenaten)所立之阿頓崇拜究竟構成真正的一神論、單一主神論,抑或出於政治動機的單一神崇拜,在埃及學界仍有爭議。Cyril Aldred(1988)將阿頓改革成熟期讀為真正的一神論。Donald Redford(1984)則強調其政治—經濟面向 —— 即對卡爾納克阿蒙祭司集團的打擊 —— 而非神學面向。Erik Hornung(1999)將該改革視為一種「單一主神論」(henotheism),其中其他神祇並未被否定,而是在普世日輪之下功能性地歸於沉寂。文集在阿頓一神論的問題上不採任一立場;所提之「天輪—載具」連結被登記為某一傳統如此閱讀,而主流埃及學文獻則被承認並未直接以文本方式佐證該具體術語。" },
+    { content = "文集之框架與底本批判中的具體源典重建(J / E / D / P,以及經 Van Seters、Rendtorff、Schmid 等後續修正,及更廣的後 Wellhausen 傳統所進一步精煉者)在運作上相互正交。《摩西五經》究竟是由四份個別的底本拼合而成、抑或圍繞著耶和華典或祭司典的核心經補充層疊加而成、或經由片段—編修過程而成形,屬於底本批判方法論內部的問題;框架所採之閱讀關注的是現存文本對其指涉物所保存的內容,而非產生該現存文本之撰述史。兩個問題彼此獨立:一份文本可以在底本批判傳統所提之任一複雜方式上具有結構複雜性,並仍然保存框架所讀出的歷史—指涉性內容。" },
+]
+
+[[extra.references]]
+id = "the-book-which-tells-the-truth"
+note = "沃里勒翁 1974 年的雷爾派奠基文本 —— 框架具體內容的主要源典;首次接觸於 1973 年 12 月 13 日在克萊蒙費朗發生。"
+
+[[extra.references]]
+id = "extraterrestrials-took-me-to-their-planet"
+note = "沃里勒翁 1976 年的第二部雷爾派作品 —— 記載 1975 年 10 月佩里戈爾之造訪以及耶和華對母星的講述。"
+
+[[extra.references]]
+id = "lets-welcome-the-extraterrestrials"
+note = "沃里勒翁 1979 年的第三部雷爾派作品 —— 處理大使館計畫以及人類在水瓶時代過渡中的角色。"
+
+[[extra.references]]
+id = "intelligent-design-message-from-the-designers"
+note = "彙編的雷爾派源典集;引為組織文集工作假設之聯盟—造物主主張的主要表述。"
+
+[[extra.references]]
+id = "those-gods-who-made-heaven-and-earth"
+note = "桑迪 1969 年雷爾派之前對耶洛因作為具形文明的語文學閱讀 —— 對「傳統」框架的實質先導性闡述。"
+
+[[extra.references]]
+id = "the-coming-of-the-gods"
+note = "桑迪《水瓶時代》(*L'Ère du Verseau*,1970)—— 於「傳統」框架內部之水瓶時代取向,為文集對希伯來聖經之歲差—黃道閱讀的奠基性著作。"
+
+[[extra.references]]
+id = "hamlets-mill"
+note = "Santillana 與 von Dechend 1969 年之奠基性學術錨點,為文集之歲差—神話閱讀提供主要依據。"
+
+[[extra.references]]
+id = "ezekiel"
+note = "希伯來聖經書卷,提供「輪中之輪」意象(以西結書 1:15-16),作為本專案名稱次要語意維度的錨點。"
+
+[[extra.references]]
+id = "genesis"
+note = "希伯來聖經書卷,其創世敘事被文集讀為聯盟基因工程計畫所留下之壓縮文化記憶。"
+
+[[extra.references]]
+id = "the-12th-planet"
+note = "Sitchin 1976 年於阿努納奇 / 尼比魯框架中之奠基性作品 —— 作為一條與本框架方向相通、但源典依據相異之鄰近另類歷史閱讀而被援引。"
+
+[[extra.references]]
+id = "escaping-from-eden"
+note = "Wallis 2020 年對希伯來聖經中耶洛因之嚴格翻譯式比較閱讀 —— 作為一條登記了相通方向之鄰近框架而被援引。"
+
+[[extra.references]]
+id = "the-naked-bible"
+note = "比格利諾與卡塔內奧 2022 年的嚴格字面翻譯工作 —— 作為 Wallis 更廣嚴格翻譯式取徑的方法論背景。"
+
+[[extra.references]]
+id = "prolegomena-zur-geschichte-israels"
+note = "Wellhausen 1878 年對底本批判之奠基性闡述 —— 作為文集與主流希伯來聖經底本批判學界對話之錨點。"
+
+[[extra.references]]
+id = "who-wrote-the-bible"
+note = "Friedman 1987 年對底本批判之普及性重述 —— 為當代批判學界文集之參照點。"
+
+[[extra.references]]
+id = "the-zohar-pritzker"
+note = "Matt 的《光輝之書》普里茨克版譯本(2003–2017)—— 為文集卡巴拉相關工作的標準學術切入點。"
+
 [extra.infobox]
-type = "Curated comparative knowledge project; interpretive framework for the integrated reading of revelation, cosmic chronology, ancient memory, sacred history, and modern reinterpretation"
+type = "受編纂之比較性知識專案;為啟示、宇宙年代學、遠古記憶、神聖歷史與現代再詮釋之整合閱讀提供詮釋性框架"
 project_url = "https://www.wheelofheaven.world"
-project_status = "Active; ongoing development across multiple workstreams (wiki, library, blog, narrated introduction)"
-working_hypothesis = "Terrestrial life was produced by the deliberate scientific work of a specific advanced civilization, called in the Hebrew Bible the Elohim, who arrived on Earth approximately 22,000 years ago and conducted across twelve precessional ages a project of planetary preparation, life synthesis, and the eventual creation of humanity in their own image"
-principal_source_families = "Raëlian canonical texts (Claude Vorilhon, 1974 onward); Jean Sendy's pre-Raëlian Tradition framework (1963 onward); the precessional-mythological reconstruction of *Hamlet's Mill* (Santillana and von Dechend, 1969); the Hebrew Bible read with framework-specific hermeneutic; cross-cultural religious-mythological-archaeological evidence"
-principal_temporal_framework = "The precessional cycle (~25,920-year Great Year) divided into twelve precessional ages of approximately 2,160 years each; the corpus operational period extends from the Capricorn-age opening at -21,810 to the present Aquarian age (1950 corpus boundary, 1946 source-anchored boundary)"
-name_meaning_principal = "The precessional cycle as the 'wheel of heaven' that turns through the twelve zodiacal constellations across the Great Year; the principal organizing temporal-cosmological framework of the corpus"
-name_meaning_secondary = "The wheel-within-a-wheel imagery of Ezekiel's vision (Ezekiel 1:16, אוֹפַן בְּתוֹךְ הָאוֹפָן, *ofan betokh ha-ofan*) and broader Hebrew Bible spacecraft-imagery preserved in pre-scientific vocabulary"
-distinguished_from = "The Raëlian Movement (the corpus draws on Raëlian source material but is not affiliated with the institutional Raëlian Movement and does not require Raëlian commitments of its readers); Sendy's pre-Raëlian Tradition framework (the corpus extends Sendy's work substantially while retaining its principal interpretive moves); the broader 'ancient aliens' popular-television tradition (the corpus operates with substantially distinct epistemic standards and source-material discipline); mainstream comparative-religion scholarship (the corpus engages mainstream scholarship substantively but operates from distinctive interpretive commitments)"
-governance_documents = "Project Charter; Editorial Style Guide; Chronology Rules; Nomenclature; Source Methodology; Chapter Index; Master Timeline"
-status_in_framework = "Foundational meta-concept; the entry that articulates what the broader project IS, what it draws on, what it claims, and how it operates"
+project_status = "活躍中;跨多個工作線(維基、文獻館、博客、敘述式導論)持續開展"
+working_hypothesis = "地球上的生命乃出自一支特定的進步文明 —— 即希伯來聖經中所稱的耶洛因 —— 之審慎科學工作的成果;他們約於兩萬兩千年前抵達地球,並在十二個歲差時代中推行一項涵蓋行星預備、生命合成、以及最終按其形像造人之計畫"
+principal_source_families = "雷爾派正典文本(Claude Vorilhon,1974 年以降);桑迪雷爾派之前的「傳統」框架(1963 年以降);《哈姆雷特之磨》(Santillana 與 von Dechend,1969)所提之歲差—神話重建;以框架特定之釋經學讀解的希伯來聖經;跨文化之宗教—神話—考古證據"
+principal_temporal_framework = "歲差循環(約 25,920 年之「大年」),劃分為各約 2,160 年的十二個歲差時代;文集之運作期由摩羯時代開端 -21,810 起,延伸至當下的水瓶時代(1950 年為文集所取邊界,1946 年為源典錨定之邊界)"
+name_meaning_principal = "歲差循環作為跨越「大年」、貫穿十二黃道星座運行之「天輪」;為文集之主要組織性的時間—宇宙論框架"
+name_meaning_secondary = "《以西結書》之異象中所保存的「輪中之輪」意象(以西結書 1:16,אוֹפַן בְּתוֹךְ הָאוֹפָן,*ofan betokh ha-ofan*),以及更廣義的希伯來聖經中以前科學語彙所保存的飛行器意象"
+distinguished_from = "雷爾運動(文集取材自雷爾派源典,但不隸屬於體制性的雷爾運動,亦不要求讀者作出雷爾派的承諾);桑迪雷爾派之前的「傳統」框架(文集大幅延伸桑迪的工作,同時保留其主要的詮釋性取徑);更廣義的「遠古外星人」普及電視傳統(文集在認識標準與源典紀律上實質相異);主流比較宗教學(文集與主流學界進行實質對話,但運作於相異的詮釋承諾之上)"
+governance_documents = "專案章程;編輯體例指引;年代學規範;命名規範;源典方法論;章節索引;主時間軸"
+status_in_framework = "奠基性元概念;闡明本專案「是什麼」、所取資為何、所主張為何、以及如何運作的條目"
 +++
 
-**Wheel of Heaven** is a curated comparative knowledge project — both the name of an interpretive framework and the corpus that articulates it. The project is centered on revelation, cosmic chronology, ancient memory, sacred history, and modern reinterpretation, with the corpus assembling and integrating a wide body of religious-mythological-textual-archaeological evidence within a single coherent interpretive framework. The project exists as a public-facing web platform at **www.wheelofheaven.world**, supported by an extensive wiki, a library of curated source materials, a narrated introduction, and an ongoing blog tracking developments.
+**天輪**是一項受編纂的比較性知識專案 —— 既是一套詮釋性框架的名稱,也是闡明該框架的文集。本專案聚焦於啟示、宇宙年代學、遠古記憶、神聖歷史與現代再詮釋,文集匯整並整合廣泛的宗教—神話—文本—考古證據於一套單一、一致的詮釋性框架之中。本專案以面向公眾的網路平台 **www.wheelofheaven.world** 存在,並由一座規模可觀的維基、一座經編纂的源典文獻館、一套敘述式導論,以及一個持續追蹤發展的博客所支援。
 
-The project's **working hypothesis**: terrestrial life was produced by the deliberate scientific work of a specific advanced civilization, called in the Hebrew Bible the **Elohim** (אֱלֹהִים, plural of *Eloha*), who arrived on Earth approximately 22,000 years ago and conducted across the subsequent precessional ages a project of planetary preparation, life synthesis, and the eventual creation of humanity in their own image. The hypothesis is provisional in the technical sense — *a working hypothesis*, advanced as a basis for further research — and the corpus is structured to support its ongoing investigation rather than to assert it as settled. The corpus distinguishes throughout between direct source claims, comparative observations, framework-specific interpretive synthesis, and open questions.
+本專案的**工作假設**:地球上的生命乃出自一支特定進步文明之審慎科學工作的成果 —— 該文明在希伯來{% wiki(slug="bible") %}聖經{% end %}中稱為**耶洛因**(אֱלֹהִים,*Eloha* 之複數),他們約於兩萬兩千年前抵達地球,並在隨後各個歲差時代中推行一項涵蓋行星預備、生命合成、以至最終按其形像造人之計畫。該假設在技術意義上屬於暫定 —— *作為一個工作假設*,為進一步研究的基礎而被提出 —— 文集的結構即為支持其持續研究而非主張其為定論而設計。文集自始至終分辨直接源典主張、比較性觀察、框架特定之詮釋性綜論,以及尚待釐清之問題。
 
-The framework draws on four principal source families. **Raëlian canonical texts** — principally *The Book Which Tells the Truth* (1974), *Extra-Terrestrials Took Me to Their Planet* (1975), and *Let's Welcome the Extra-Terrestrials* (1979), collected as *Message from the Designers* — provide the most direct articulation of the framework's specific content, derived from Claude Vorilhon's December 1973 and October 1975 contact accounts. **Jean Sendy's pre-Raëlian work** — principally *Les cahiers de cours de Moïse* (1963), *La Lune, clé de la Bible* (1968), *Ces dieux qui firent le ciel et la terre* (1969), and *L'ère du Verseau* (1970) — provides substantive prior articulation of the broader Tradition framework, with particular attention to Hebrew Bible exegesis through the precessional-zodiacal lens. ***Hamlet's Mill*** by Giorgio de Santillana and Hertha von Dechend (1969) provides the principal scholarly anchor for the framework's precessional-mythological reading. **Cross-cultural religious-mythological-archaeological evidence** — drawn from Hebrew Bible, broader Mesopotamian, Egyptian, Greek, Vedic, Mesoamerican, Chinese, and various other traditions — supplies the comparative material the framework reads as preserved cultural memory of the project's various phases.
+本框架取資自四大源典家族。**雷爾派正典文本** —— 主要包括《述真之書》(1974),{{ cite(id="the-book-which-tells-the-truth", text="[1]", title="沃里勒翁(雷爾),《述真之書》(1974)—— 雷爾派奠基文本,記錄 1973 年 12 月克萊蒙費朗之接觸") }}《外星人接我前往他們的星球》(1975),{{ cite(id="extraterrestrials-took-me-to-their-planet", text="[2]", title="沃里勒翁(雷爾),《外星人接我前往他們的星球》(1976)—— 記載 1975 年 10 月佩里戈爾之造訪以及對母星的講述") }} 以及《讓我們歡迎外星人》(1979),{{ cite(id="lets-welcome-the-extraterrestrials", text="[3]", title="沃里勒翁(雷爾),《讓我們歡迎外星人》(1979)—— 大使館計畫與水瓶時代之過渡") }} 彙編為《來自設計者的訊息》{{ cite(id="intelligent-design-message-from-the-designers", text="[4]", title="沃里勒翁(雷爾),《智慧設計:來自設計者的訊息》—— 彙編之雷爾派源典集") }} —— 對本框架之具體內容提供最直接的闡述,源於沃里勒翁 1973 年 12 月與 1975 年 10 月的接觸記錄。**桑迪雷爾派之前的著作** —— 主要包括《摩西課程筆記》(1963)、《月亮,聖經之鑰》(1968)、《那些造天造地的諸神》(1969),{{ cite(id="those-gods-who-made-heaven-and-earth", text="[5]", title="桑迪,《那些造天造地的諸神》(1969) / *Ces dieux qui firent le ciel et la terre* —— 雷爾派之前對耶洛因作為具形文明的語文學閱讀") }} 以及《水瓶時代》(1970){{ cite(id="the-coming-of-the-gods", text="[6]", title="桑迪,《水瓶時代》(*L'Ère du Verseau* / *The Coming of the Gods*,1970)—— 「傳統」框架內部的水瓶時代取向") }} —— 對更廣意義之「傳統」框架提供實質的先導性闡述,並特別關注透過歲差—黃道視角所進行的希伯來聖經釋經。**《哈姆雷特之磨》**,由 Giorgio de Santillana 與 Hertha von Dechend 合著(1969),{{ cite(id="hamlets-mill", text="[7]", title="de Santillana 與 von Dechend,《哈姆雷特之磨》(1969)—— 歲差—神話閱讀之奠基性學術錨點") }} 為本框架之歲差—神話閱讀提供主要的學術錨點。**跨文化之宗教—神話—考古證據** —— 取自希伯來聖經、更廣的美索不達米亞、埃及、希臘、吠陀、中美洲、中華以及其他多種傳統 —— 提供了被框架讀為對該計畫各階段之文化記憶留存的比較性材料。
 
-The name **Wheel of Heaven** carries a dual meaning. Principally, the wheel of heaven is the **precessional cycle** — the slow rotation of the vernal-equinox point through the twelve zodiacal constellations across the ~25,920-year Great Year, organizing the corpus's twelve-age narrative architecture. The corpus articulation: *"The image at the heart of this work is the wheel of heaven. The wheel is the precessional cycle, the slow rotation of the sky's apparent orientation across the twenty-five thousand nine hundred and twenty years of the Great Year."* Secondarily, the wheel of heaven echoes the **wheel-within-a-wheel imagery** preserved in Ezekiel's vision (Ezekiel 1:16, אוֹפַן בְּתוֹךְ הָאוֹפָן, *ofan betokh ha-ofan*) as one of several Hebrew Bible passages registering Elohim spacecraft observation in pre-scientific vocabulary. Both meanings register substantively within the broader framework — the primary as foundational temporal-cosmological architecture, the secondary as one of the principal source-textual anchors for the framework's spacecraft-imagery reading.
+「天輪」這一名稱兼具雙重意涵。其首要意義為**歲差循環** —— 春分點越過十二黃道星座、橫貫約 25,920 年之{% wiki(slug="great-year") %}大年{% end %}的緩慢旋轉,此即組織文集十二時代敘事架構的時間框架。文集之表述為:*「本作之核心意象即為天輪。此輪即為歲差循環,即天空表象方向越過大年兩萬五千九百二十年的緩慢旋轉。」*其次要意義則與《以西結書》異象({% libref(book="ezekiel-woh", chapter=1, verse=16) %}以西結書 1:16{% end %},אוֹפַן בְּתוֹךְ הָאוֹפָן,*ofan betokh ha-ofan*)中所保存的**輪中之輪**意象相呼應,該段為希伯來聖經中數段以前科學語彙記錄耶洛因飛行器觀察的段落之一。兩種意涵皆在更廣意義的框架中具實質作用 —— 主要意涵為奠基性的時間—宇宙論架構,次要意涵則為框架飛行器意象閱讀的主要源典—文本錨點之一。
 
-The corpus is not a final synthesis but one stage in an ongoing collective project of integration. The corpus's own articulation: *"The present corpus is not the final synthesis. It is one stage in an ongoing project that will continue across the coming years and decades, both through the corpus's own continued development and through the parallel work of other authors and traditions engaging the same materials."* The project operates with explicit recognition that subsequent work will supplement, extend, and in some respects supersede the present articulation as the broader Aquarian-age recovery and integration of the alliance's communication continues.
+文集並非最終的綜論,而是一項持續中的集體整合計畫中的一個階段。文集自身的表述為:*「目前的文集並非最終的綜論。它只是一項持續中的計畫中的一個階段,該計畫將在未來數年數十年間,既透過文集自身的持續發展、亦透過其他作者與傳統處理同一材料的並行工作而持續推進。」*本專案在明確認識下運作:隨著更廣意義之水瓶時代對聯盟通訊的恢復與整合持續推進,其後續工作將補充、延伸,並在某些方面取代當前的表述。
 
-This entry articulates what the Wheel of Heaven project IS — its purpose, its working hypothesis, its source-material foundations, its corpus structure, its editorial principles, and how it positions itself within the broader landscape of related projects.
+本條目闡明天輪專案「是什麼」 —— 其宗旨、工作假設、源典基礎、文集結構、編輯原則,以及它在更廣的相關專案圖景中如何自我定位。
 
-## Etymology and naming
+## 詞源與命名
 
-The project name carries a dual semantic content that the corpus engages substantively in both registers.
+本專案名稱蘊含雙重語意內容,文集在兩個意涵上皆作實質性處理。
 
-### "Wheel" — the precessional cycle
+### 「輪」 —— 歲差循環
 
-The principal meaning of "Wheel of Heaven" is the **precessional cycle**. The cycle is produced by the slow conical wobble of Earth's rotational axis under gravitational torque from the sun and moon — a real astronomical phenomenon completing one full rotation every approximately 25,920 years. As the axis traces its conical motion, the celestial pole moves slowly across the sky and the vernal-equinox point (the place where the sun rises on the first day of spring) drifts backward through the zodiacal constellations at approximately 2,160 years per constellation. The detailed treatment of the precessional cycle and its mechanics lives in the [World Age](../world-age/) entry; the detailed treatment of the zodiacal framework lives in the [Zodiac](../zodiac/) entry.
+「天輪」之主要意涵為**歲差循環**。此循環由地球自轉軸在日月引力扭矩下緩慢的錐形擺動所產生 —— 此為一項真實的天文現象,每約 25,920 年完成一次完整旋轉。當地軸在錐形運動中緩慢移動,天極即在天空中緩慢挪動,春分點(即一年第一日春分太陽升起之處)則以每星座約 2,160 年的速度逆向漂移過黃道諸星座。歲差循環及其機制的詳述見於[世界時代](../world-age/)條目;黃道框架的詳述見於[黃道帶](../zodiac/)條目。
 
-The framework reads the precessional cycle as the principal organizing temporal-cosmological structure of the entire corpus narrative. Each of twelve precessional ages — Capricorn, Sagittarius, Scorpio, Libra, Virgo, Leo, Cancer, Gemini, Taurus, Aries, Pisces, Aquarius — operates as an engineering-operational phase of the alliance's twenty-two-thousand-year project on Earth, with specific tasks, characteristic interventions, and a doubled astronomical signature encoded in the religious-iconographic tradition of the cultures the alliance cultivated during that age.
+本框架將歲差循環讀為整部文集敘事的主要組織性時間—宇宙論結構。十二個歲差時代 —— 摩羯、射手、天蠍、天秤、處女、獅子、巨蟹、雙子、金牛、白羊、雙魚、水瓶 —— 各自運作為聯盟在地球兩萬兩千年計畫中的一個工程—操作階段,具有其特定任務、典型干預,以及於該時代為聯盟所培育之文化的宗教—圖像傳統中所編碼的雙重天文簽名。
 
-The "wheel" metaphor is precise rather than poetic. The precessional cycle is literally a rotation — the celestial pole traces a circle on the celestial sphere; the equinoctial point traces a complete circuit through the zodiac. The image is genuinely a turning wheel. The corpus's articulation: *"The wheel keeps turning. The Aquarian age that opened in 1946 and that contains our present moment will, across the coming centuries, complete its 2,160-year arc and yield to the Capricorn age that follows. The Capricorn age will yield to Sagittarius, Sagittarius to Scorpio, and the cycle will continue across the coming twenty-two thousand years until a new Great Year completes itself and a further one begins."*
+「輪」之喻為精確而非詩意。歲差循環在字面上即為一項旋轉 —— 天極在天球上劃出一個圓圈;春分點則完整一周地穿越黃道。此意象確為一個轉動的輪。{{ footnote(id="1") }} 文集之表述為:*「輪持續轉動。1946 年開啟、並含括我們當下這一刻的水瓶時代,將在未來數百年中走完其 2,160 年的弧線,並讓位於其後的摩羯時代。摩羯時代將讓位於射手,射手讓位於天蠍,循環將在未來兩萬兩千年中持續推進,直至一個新的大年完成,並開啟更新的下一個。」*
 
-### "Heaven" — the celestial sphere
+### 「天」 —— 天球
 
-The "heaven" of "Wheel of Heaven" is the celestial sphere — the apparent dome of sky against which celestial motion is observed. The English word *heaven* descends from Old English *heofon*, with cognates across the Germanic languages (German *Himmel*, Dutch *hemel*) and broader Indo-European parallels. The term has dual semantic content in religious-cosmological usage: the *physical sky* (the observed celestial dome) and the *cosmological-spiritual realm* (the abode of divine beings).
+「天輪」中的「天」即為天球 —— 天文觀察所對之的天空表觀穹頂。英文 *heaven* 一詞源於古英文 *heofon*,在日耳曼諸語(德語 *Himmel*、荷蘭語 *hemel*)及更廣的印歐語系中皆有同源詞。該詞在宗教—宇宙論用法中蘊含雙重語意:*物理之天*(觀察所及的天穹)與*宇宙論—精神領域*(神聖存有的居所)。
 
-The framework operates the term principally in its physical-celestial sense — the sky against which the precessional rotation is observed. The cosmological-spiritual sense remains present as secondary content, registering the framework's reading of the Elohim alliance as occupying a substantive cosmic-political position relative to humanity (the "heaven" from which they came is the broader cosmic civilizational order, of which humanity is a recently-created participant). The detailed treatment of the broader cosmic civilizational order lives in the [Cosmic Chain](../cosmic-chain/) entry.
+本框架主要在其物理—天文意義上使用此詞 —— 即觀察歲差旋轉所對之的天空。宇宙論—精神意涵仍作為次要內容存在,登記了框架對耶洛因聯盟相對於人類所處之實質宇宙—政治位置的閱讀(他們所自來的「天」即為更廣的宇宙文明秩序,而人類則為其中新近受造的參與者)。更廣意義之宇宙文明秩序的詳述見於[宇宙鏈](../cosmic-chain/)條目。
 
-The Hebrew cognate שָׁמַיִם (*shamayim*, "heavens") operates similarly across the Hebrew Bible — both physical sky and cosmological domain. The Greek οὐρανός (*ouranos*) preserves the same dual content. The framework reads the broader cross-cultural "heaven" vocabulary as preserving substantive cultural memory of the actual cosmic-civilizational reality that the framework articulates.
+希伯來語同源詞 שָׁמַיִם(*shamayim*,「諸天」)在整部希伯來聖經中以相似方式運作 —— 兼指物理之天與宇宙論範疇。希臘語 οὐρανός(*ouranos*)亦保有相同的雙重內容。框架將跨文化中更廣的「天」之語彙讀為對框架所闡明之實際宇宙—文明實在所保存的實質文化記憶。
 
-### The secondary meaning — Ezekiel's wheel-within-a-wheel
+### 次要意涵 —— 以西結之輪中之輪
 
-A secondary semantic dimension of "Wheel of Heaven" engages the **wheel-within-a-wheel imagery** of Ezekiel's vision. The principal passage appears at Ezekiel 1:15-16:
+「天輪」次要的語意維度,涉及《以西結書》異象中的**輪中之輪**意象。其主要段落見於{% libref(book="ezekiel-woh", chapter=1, verse=15) %}以西結書 1:15-16{% end %}:
 
 > וָאֵרֶא הַחַיּוֹת וְהִנֵּה אוֹפַן אֶחָד בָּאָרֶץ אֵצֶל הַחַיּוֹת לְאַרְבַּעַת פָּנָיו
 > מַרְאֵה הָאוֹפַנִּים וּמַעֲשֵׂיהֶם כְּעֵין תַּרְשִׁישׁ וּדְמוּת אֶחָד לְאַרְבַּעְתָּן וּמַרְאֵיהֶם וּמַעֲשֵׂיהֶם כַּאֲשֶׁר יִהְיֶה הָאוֹפַן בְּתוֹךְ הָאוֹפָן
 > *Va'ere ha-chayot ve-hineh ofan echad ba-aretz etzel ha-chayot le-arba'at panav*
 > *Mareh ha-ofanim u-ma'asehem ke-ein tarshish u-demut echad le-arba'atan u-mar'eihem u-ma'aseihem ka-asher yihyeh ha-ofan be-tokh ha-ofan*
-> "Now as I beheld the living creatures, behold one wheel upon the earth by the living creatures, with his four faces. The appearance of the wheels and their work was like unto the colour of a beryl: and they four had one likeness: and their appearance and their work was as it were a wheel in the middle of a wheel."
+> 「我正觀看那些活物的時候,見活物的四面各有一輪在地上。輪的形狀和顏色,好像水蒼玉。四輪都是一個樣式,形狀和工作好像輪中套輪。」
 
-The Hebrew אוֹפַן (*ofan*, "wheel") in this passage is a technical noun for a circular rotating object. The phrase אוֹפַן בְּתוֹךְ הָאוֹפָן (*ofan betokh ha-ofan*, "wheel within the wheel") has produced substantial interpretive history across Jewish, Christian, and modern engagement traditions. The framework reads the passage as preserved description of an Elohim aerial vehicle observed by Ezekiel in approximately 593 BCE — the prophet recording what he saw in the pre-scientific vocabulary available to him. The corpus articulation: *"As for the 'flying saucers' or 'wheels', their appearance and their operation were not at all badly described considering it is a primitive person who is speaking. 'as it were a wheel within a wheel...they didn't turn when they went.' In the center of the flying saucer, very similar to the one in which we are now sitting, was the habitable section - the rim."*
+該段中的希伯來語 אוֹפַן(*ofan*,「輪」)是指圓形旋轉物體的技術性名詞。短語 אוֹפַן בְּתוֹךְ הָאוֹפָן(*ofan betokh ha-ofan*,「輪中之輪」)在猶太、基督宗教與現代閱讀傳統中皆已產生大量詮釋史。{{ footnote(id="2") }} 框架將該段讀為對一具耶洛因空中載具之保存記述 —— 約於公元前 593 年,先知以西結以其當時所能掌握的前科學語彙,如實記錄了他所見之物。文集之表述為:*「至於那些『飛碟』或『輪』,考慮到說話者是一位原始人,其外貌與運作的描述並未失準。『輪中之輪……行走時不轉向。』飛碟中心 —— 與我們此刻所坐者極為相似 —— 即為可居之區段,亦即輪緣。」*
 
-The connection between the project name "Wheel of Heaven" and the Ezekiel imagery operates as a secondary semantic dimension rather than as the primary referent. The principal meaning remains the precessional cycle; the Ezekiel echo registers the framework's broader reading of the Hebrew Bible's spacecraft-imagery content.
+本專案名稱「天輪」與《以西結書》意象之連結作為次要語意維度運作,而非作為主要指涉物。其主要意涵仍為歲差循環;以西結之回響登記的是框架對希伯來聖經飛行器意象內容之更廣閱讀。
 
-### Other proposed name-anchors — epistemic note
+### 其他擬議之名稱錨點 —— 認識論註記
 
-Various interpretations have proposed additional anchors for the "Wheel of Heaven" designation, including a putative connection to **Akhenaten** (the 14th-century-BCE Egyptian pharaoh who established the Aten cult and founded the city of Akhetaten / modern Tell el-Amarna). One tradition holds that Akhenaten observed a disk-shaped aerial vehicle that the Egyptian record designated as a "wheel of heaven" — a connection registering substantive parallel content with the Ezekiel anchor.
+對「天輪」此一稱號,曾有各種詮釋提出進一步的錨點,包括對**阿肯那頓**(公元前十四世紀的埃及法老,建立阿頓崇拜並創建阿肯塔頓城/今日之泰勒阿瑪那)之擬議連結。一條傳統認為,阿肯那頓曾觀察到一具盤狀空中載具,並由埃及記載指認為「天輪」 —— 此連結登記了與《以西結書》錨點具實質平行的內容。
 
-The corpus does not treat this Akhenaten connection as established. The principal Egyptological evidence for Akhenaten's religious-iconographic engagement runs through the **Aten** (אתן in transliterated form; the Egyptian solar disk depicted with rays ending in stylized hands offering the *ankh* sign of life), and the textual record from Amarna (the *Great Hymn to the Aten*, the various Boundary Stelae, the broader official inscriptions) does not contain a direct attestation of the specific "wheel of heaven" terminology applied to a flying object. The connection appears principally in popular-alternative-history sources without scholarly source-textual anchor. The corpus registers the proposed Akhenaten connection as one tradition holds it while flagging that the specific source-textual evidence remains unverified. Readers interested in the question are encouraged to consult primary Egyptological sources (Cyril Aldred's *Akhenaten: King of Egypt*, 1988; Donald B. Redford's *Akhenaten: The Heretic King*, 1984; the broader Amarna scholarly literature) and to draw their own conclusions.
+文集不視此阿肯那頓連結為已確立。阿肯那頓宗教—圖像參與的主要埃及學證據,源自其對**阿頓**(在轉寫形式中作 אתן;即埃及之太陽圓盤,描繪為以光線末端執持「安卡」生命符號之手)的崇拜;而來自阿瑪那的文本記錄(《阿頓大讚詩》、各邊界石碑,以及更廣的官方銘文)中,並未直接證實有將「天輪」這一具體術語應用於飛行物的記載。該連結主要出現於普及性—另類歷史的資料中,並無學術上的源典—文本錨點。文集登記擬議之阿肯那頓連結為「某一傳統如此持守」,並標示其具體源典—文本證據仍未經查驗。對此問題有興趣的讀者,鼓勵其參考第一手埃及學資料(Cyril Aldred《阿肯那頓:埃及之王》,1988;Donald B. Redford《阿肯那頓:異端之王》,1984;以及更廣的阿瑪那學術文獻),自行判斷。{{ footnote(id="3") }}
 
-The detailed treatment of Akhenaten's religious-historical role within the broader framework lives in the [Akhenaten](../akhenaten/) entry when written.
+阿肯那頓在更廣意義之框架中之宗教—歷史角色的詳述,留待[阿肯那頓](../akhenaten/)條目撰寫時處理。
 
-### Cross-cultural designations of the corpus
+### 文集之跨文化稱呼
 
-The corpus operates principally in English under the **Wheel of Heaven** designation. No alternative-language designations have been formalized; the corpus would be designated by direct translation in other languages (French *Roue du Ciel*, German *Himmelsrad*, Hebrew גַּלְגַּל הַשָּׁמַיִם *galgal ha-shamayim*, etc.) where relevant.
+文集主要以英文 **Wheel of Heaven** 之名稱運作。並無另立其他語言中的正式稱呼;於其他語言中,文集將以直譯指稱(法文 *Roue du Ciel*、德文 *Himmelsrad*、希伯來文 גַּלְגַּל הַשָּׁמַיִם *galgal ha-shamayim*,等等)。
 
-### Corpus-internal usage
+### 文集內部用法
 
-The corpus uses several related but distinct designations:
-- **Wheel of Heaven** — the project name and the overarching interpretive framework
-- **the framework** (corpus-internal short form) — for the interpretive framework specifically
-- **the corpus** — the written body of project content
-- **the project** — the broader collaborative undertaking that produces the corpus
-- **the Wheel of Heaven thesis** — the working hypothesis articulated above
-- **the Wheel of Heaven worldview** — the broader interpretive position the corpus articulates
+文集使用若干相關但有別的稱呼:
+- **天輪** —— 專案名稱與涵蓋性的詮釋框架
+- **框架**(文集內部簡稱)—— 專指該詮釋框架
+- **文集** —— 本專案所書寫的內容主體
+- **專案** —— 產出文集之更廣的協作事業
+- **天輪論題** —— 上文所述之工作假設
+- **天輪世界觀** —— 文集所闡述之更廣的詮釋立場
 
-The detailed nomenclature governance lives in the project's `03-nomenclature.md` governance document.
+詳細的命名治理見於本專案之 `03-nomenclature.md` 治理文件。
 
-## The working hypothesis
+## 工作假設
 
-The Wheel of Heaven project advances a specific working hypothesis as the framework that organizes the corpus's interpretive work. The hypothesis is *provisional* in the technical sense — accepted as a basis for further investigation rather than asserted as settled fact — but the corpus operates substantively within the hypothesis's commitments to allow systematic engagement with the material.
+本天輪專案推進一項具體的工作假設,作為組織文集詮釋工作的框架。該假設在技術意義上為*暫定* —— 作為進一步研究的基礎而被接受,而非主張為已定之事實 —— 然文集仍實質地在該假設的承諾下運作,以容許對材料進行系統性處理。
 
-### The principal claim
+### 主要主張
 
-The principal claim: terrestrial life was produced by the deliberate scientific work of a specific advanced civilization. The civilization in question — called in the Hebrew Bible the **Elohim** (אֱלֹהִים) — is a plural group of biological beings physiologically similar to humans but technologically far advanced. The Elohim are not gods in any supernatural sense; they are a civilization of biological beings who, approximately 22,000 years before the present, began the specific scientific project of creating life on Earth through genetic design and laboratory synthesis.
+主要主張:地球上的生命乃出自一支特定進步文明之審慎科學工作的成果。該文明 —— 在希伯來聖經中稱為**耶洛因**(אֱלֹהִים)—— 是一群在生理上與人類相似、但在科技上遠為先進的生物性存有所組成之複數群體。耶洛因在任何超自然意義上皆非神祇;他們是一群生物性存有所組成的文明,約於兩萬兩千年前,展開了透過基因設計與實驗室合成在地球上創造生命的具體科學計畫。
 
-The principal articulation of this claim derives from the Raëlian source material: *"life on Earth was produced by the scientific work of a specific advanced civilization. The civilization in question, the Elohim, is a plural group of individuals of a species physiologically similar to humans but technologically far advanced. The Elohim are not gods in any supernatural sense. They are a civilization of biological beings who, approximately twenty-two thousand years before the present, began the specific scientific project of creating life on Earth through genetic design and laboratory synthesis."*
+該主張之主要表述源自雷爾派源典:{{ cite(id="intelligent-design-message-from-the-designers", text="[8]", title="沃里勒翁(雷爾),《智慧設計:來自設計者的訊息》—— 聯盟—造物主主張的主要雷爾派源典") }} *「地球上的生命乃由一支特定進步文明之科學工作所產生。所提之文明,耶洛因,是一群在生理上與人類相似、但在科技上遠為先進之物種個體所組成之複數群體。耶洛因在任何超自然意義上皆非神祇。他們是一群生物性存有所組成的文明,約於兩萬兩千年前,展開了透過基因設計與實驗室合成在地球上創造生命的具體科學計畫。」*
 
-The detailed treatment of the Elohim civilization lives in the [Elohim](../elohim/) entry.
+耶洛因文明之詳述見於[耶洛因](../elohim/)條目。
 
-### The supporting claims
+### 支撐性主張
 
-Five additional claims operate as substantive components of the broader working hypothesis:
+另有五項主張作為更廣工作假設的實質組成部分而運作:
 
-**1. The cultural-memory preservation claim.** The Hebrew Bible and the other major religious traditions of the world preserve accurate cultural memory of the alliance's interventions, in forms that reflect the pre-scientific vocabularies of their authors but that can be decoded by a scientifically mature reader. The framework's distinctive hermeneutic — Genesis 1 as genetic engineering rather than supernatural creation, the *Nephilim* as alliance-human hybrids, the flood as nuclear cataclysm, Sinai as formal alliance audience, the *Elohim* as plural rather than singular — is the corpus's foundational interpretive move. The detailed treatment of the Hebrew Bible content lives in the [Hebrew Bible](../hebrew-bible/) entry.
+**1. 文化記憶留存之主張。** 希伯來聖經以及世界其他主要宗教傳統,以反映其作者之前科學語彙、但可由科學成熟之讀者解碼的形式,保存了對聯盟干預的準確文化記憶。框架獨特的釋經學 —— 將{% wiki(slug="genesis") %}創世記{% end %}第一章{{ cite(id="genesis", text="[9]", title="創世記 —— 為文集將創造讀為聯盟主導之基因工程的主要希伯來聖經源典") }}讀為基因工程而非超自然創造、將*拿非利人*讀為聯盟—人類混血、將洪水讀為核子大難、將西奈讀為正式聯盟覲見、將*耶洛因*讀為複數而非單數 —— 為文集之奠基性詮釋取徑。希伯來聖經內容的詳述見於[希伯來聖經](../hebrew-bible/)條目。
 
-**2. The prophetic-tradition claim.** The alliance has sent approximately forty prophets across human history, each appropriate to the specific cultural moment at which they appeared, and each contributing to the cumulative preparation of humanity for the present Aquarian-age revelation. The list includes Adam, Noah, Abraham, Moses, Elijah, Isaiah, Ezekiel, Daniel, Buddha, Zoroaster, Jesus, Muhammad, Joseph Smith, Bahá'u'lláh, and various others. The detailed treatment lives in the [Prophet](../prophet/) entry.
+**2. 先知傳統之主張。** 聯盟在人類歷史中差遣了約四十位先知,各皆對應於其出現之特定文化時刻,且各自累積貢獻於人類對當下水瓶時代啟示之預備。{{ footnote(id="4") }} 該名單包括亞當、諾亞、亞伯拉罕、摩西、{% wiki(slug="elijah") %}以利亞{% end %}、以賽亞、以西結、但以理、佛陀、瑣羅亞斯德、耶穌、穆罕默德、約瑟·斯密、巴哈歐拉,以及其他多位。詳述見於[先知](../prophet/)條目。
 
-**3. The scientific-maturity claim.** Humanity has now reached, or is rapidly approaching, the scientific maturity that will permit it to understand and evaluate the alliance's teaching on its own terms. The Piscean-age arrangement — under which the alliance had stepped back from direct intervention to allow humanity to develop scientifically — has reached its conclusion. Humanity's own capacities in biology, physics, computing, and aerospace have advanced to the point where the alliance's interventions no longer look miraculous but look like what they actually are: applications of technology that humanity is itself beginning to develop.
+**3. 科學成熟之主張。** 人類如今已抵達、或正快速接近,使其能以聯盟自身之術語去理解並評價聯盟教導的科學成熟度。雙魚時代之安排 —— 在此安排中聯盟自直接干預退後一步,以讓人類在科學上自行發展 —— 已抵達其終結。人類自身在生物學、物理學、計算與航太上之能力,已進步至聯盟之干預不再看似奇蹟,而看似其原本之所是:對人類自身正開始發展的科技之應用。
 
-**4. The imminent-return claim.** The alliance intends to return to Earth openly and officially within the coming decades, at a specific site that humanity is to prepare — the **embassy** — located in a country that has granted the alliance extraterritorial status over approximately four square kilometers. The detailed treatment lives in the [Embassy](../embassy/) entry.
+**4. 即將歸返之主張。** 聯盟意欲在未來數十年內,於人類所應預備之特定地點 —— **大使館** —— 公開正式地歸返地球。該大使館位於一個已對聯盟授予約四平方公里治外地位之國家。詳述見於[大使館](../embassy/)條目。
 
-**5. The cosmic-inheritance claim.** Humanity, having matured, will itself become a creating civilization — extending the alliance's work to other worlds across the galactic neighborhood, establishing the next iteration of the broader cosmic civilizational pattern. The detailed treatment lives in the [Cosmic Chain](../cosmic-chain/) entry.
+**5. 宇宙繼承之主張。** 人類在成熟之後,自身將成為一個創造性的文明 —— 將聯盟的工作擴及銀河鄰域之其他世界,確立更廣意義之宇宙文明模式的下一次迭代。詳述見於[宇宙鏈](../cosmic-chain/)條目。
 
-### The epistemic status
+### 認識論地位
 
-The corpus is explicit about the epistemic status of its working hypothesis. The hypothesis is not claimed as proven; it is offered as a coherent interpretive framework that the corpus's reader is invited to evaluate against alternatives. The corpus's articulation of its own epistemic posture: *"What can be said is the closure of the first cycle... The corpus is not a closed system. It is an open invitation to evaluation."*
+文集對其工作假設之認識論地位,持明確立場。該假設並未被宣稱為已證實;而是被提出為一個一致的詮釋性框架,並邀請文集之讀者對之與替代方案進行評估。文集對自身認識論姿態之表述:*「可以說的是首個循環的完成⋯⋯文集並非一個封閉系統,而是一份開放的評估邀請。」*
 
-The framework's distinctive contribution is the integration. Many of the individual claims have been advanced separately by various traditions and scholars: the Raëlian movement advances the alliance-creator claim; *Hamlet's Mill* advances the precessional-mythological reading; alternative-history scholars (Hancock, Bauval, Sitchin) advance various lost-civilization and ancient-contact readings; mainstream archaeoastronomy advances the cross-cultural-celestial-encoding reading; mainstream Hebrew Bible scholarship advances various textual-historical readings. What the Wheel of Heaven project adds is the systematic integration of these various source-material families within a single coherent framework, with explicit attention to the chronological-temporal architecture, the cross-cultural comparative content, and the epistemic distinctions between source claims, comparative observations, and framework-specific interpretive synthesis.
+本框架獨特的貢獻即在於整合。其中許多個別主張早已分別由各種傳統與學者所提出:雷爾運動推進聯盟—造物主之主張;《哈姆雷特之磨》推進歲差—神話閱讀;另類歷史學者(Hancock、Bauval、Sitchin)推進各種失落文明與遠古接觸的閱讀;主流考古天文學推進跨文化—天文編碼之閱讀;主流希伯來聖經學界推進各種文本—歷史閱讀。天輪專案所添加者,即為將這些不同源典家族系統性整合於單一一致框架之中,並明確關注其年代學—時間架構、跨文化比較性內容,以及源典主張、比較性觀察、與框架特定詮釋性綜論之間的認識論區分。
 
-The detailed treatment of the broader source-methodology lives in the project's `04-source-methodology.md` governance document.
+更廣意義之源典方法論的詳述見於本專案之 `04-source-methodology.md` 治理文件。
 
-## The corpus structure
+## 文集結構
 
-The Wheel of Heaven corpus is organized as a multi-component knowledge architecture supporting various reader engagements.
+天輪文集組織為一套多元件之知識架構,以支援讀者各種不同的接觸方式。
 
-### The wiki
+### 維基
 
-The principal corpus component is the **wiki** — a curated comparative knowledge base assembled across several hundred entries covering figures, places, events, periods, concepts, texts, and precessional ages. The wiki operates as the corpus's principal reference architecture, with entries cross-referenced through a substantial internal-link structure.
+文集之主要元件為**維基** —— 一座經編纂的比較性知識庫,跨越數百個涵蓋人物、地點、事件、時期、概念、文本與歲差時代之條目而匯整。維基作為文集之主要參考架構運作,各條目透過大規模的內部連結結構進行交叉參照。
 
-The wiki's typological architecture distinguishes seven principal entry types:
+維基之類型架構區分七種主要條目類型:
 
-1. **Figure entries** — individual persons (historical, religious-traditional, framework-specific): Adam, Eve, Noah, Abraham, Moses, Mary, Jesus, Muhammad, Buddha, Joseph Smith, Vorilhon, the various creator-figures (Yahweh, Lucifer, Satan, the Serpent), various others
-2. **Civilization / polity entries** — collective entities: the Hebrews, the Elohim, the Israelites, various others
-3. **Place entries** — specific locations: Eden, Babel, Sodom and Gomorrah, the Embassy site, various others
-4. **Event / period entries** — specific historical-cultural events or periods: the Theomachy, the Great Flood, the Babel intervention, the Sodom strike, various others
-5. **Concept entries** — interpretive concepts: World Age, Zodiac, Doubled Signature, Cosmic Chain, Cosmic Competition, Mass Effect, Fractal Cosmology, Plurality of Gods, various others
-6. **Text entries** — source-textual entities: Hebrew Bible, Kabbalah, *Hamlet's Mill*, *Message from the Designers*, various others
-7. **Precessional age entries** — the twelve individual age treatments: Age of Capricorn, Age of Sagittarius, Age of Scorpio, Age of Libra, Age of Virgo, Age of Leo, Age of Cancer, Age of Gemini, Age of Taurus, Age of Aries, Age of Pisces, Age of Aquarius
+1. **人物條目** —— 個別人物(歷史性、宗教—傳統性、框架特定者):亞當、夏娃、諾亞、亞伯拉罕、摩西、馬利亞、耶穌、穆罕默德、佛陀、約瑟·斯密、沃里勒翁、各種造物主形象(耶和華、路西法、撒但、蛇),以及其他多位
+2. **文明 / 政體條目** —— 集體性實體:希伯來人、耶洛因、以色列人,以及其他多者
+3. **地點條目** —— 具體位置:{% wiki(slug="eden") %}伊甸{% end %}、{% wiki(slug="babel") %}巴別{% end %}、{% wiki(slug="sodom-and-gomorrah") %}所多瑪與蛾摩拉{% end %}、大使館地址,以及其他多者
+4. **事件 / 時期條目** —— 特定歷史—文化事件或時期:{% wiki(slug="theomachy") %}神戰{% end %}、{% wiki(slug="great-flood") %}大洪水{% end %}、巴別之干預、所多瑪之打擊,以及其他多者
+5. **概念條目** —— 詮釋性概念:世界時代、黃道帶、雙重簽名、宇宙鏈、宇宙競爭、群體效應、分形宇宙論、諸神之複數性,以及其他多者
+6. **文本條目** —— 源典—文本性實體:希伯來聖經、卡巴拉、《哈姆雷特之磨》、《來自設計者的訊息》,以及其他多者
+7. **歲差時代條目** —— 十二個個別時代之處理:摩羯座時代、射手座時代、天蠍座時代、天秤座時代、處女座時代、獅子座時代、巨蟹座時代、雙子座時代、金牛座時代、白羊座時代、雙魚座時代、水瓶座時代
 
-Each entry follows a typology-specific structural template articulated in the project's editorial style guide, with sections appropriate to the entry's typological position. The detailed treatment of the editorial typology lives in the project's `01-editorial-style.md` governance document.
+各條目皆依本專案編輯體例指引所闡明之類型特定結構模板,並依其類型位置而設置相應的章節。編輯類型之詳述見於本專案之 `01-editorial-style.md` 治理文件。
 
-### The library
+### 文獻館
 
-The corpus's **library** component curates source materials supporting the broader framework engagement. The library includes:
+文集之**文獻館**元件編纂支援更廣框架閱讀的源典材料。文獻館包括:
 
-- **Primary Raëlian texts**: *Message from the Designers* (the collected Vorilhon source material) and various other Raëlian publications
-- **Sendy's principal works**: *Les cahiers de cours de Moïse* (1963), *La Lune, clé de la Bible* (1968), *Ces dieux qui firent le ciel et la terre* (1969), *L'ère du Verseau* (1970), various others
-- **The *Hamlet's Mill* tradition**: Santillana and von Dechend's foundational work plus subsequent extensions (Cruttenden, Sellers, Aveni, Krupp)
-- **Mainstream comparative-religion scholarship**: Hebrew Bible scholarship (Wellhausen, Friedman, von Rad, Westermann, Brueggemann, Alter), Kabbalah scholarship (Scholem, Idel, Wolfson, Liebes, Matt), various others
-- **Alternative-history scholarship**: Sitchin, Hancock, Bauval, West, Wallis, Biglino, various others
-- **Cross-cultural source materials**: Mesopotamian (Atrahasis, Enuma Elish, Gilgamesh, the Sumerian King List), Egyptian (Pyramid Texts, Coffin Texts, Book of the Dead), Greek (Hesiod, Homer, Plato), Indian (Rigveda, Upanishads, Mahabharata, Puranas), Mesoamerican (Popol Vuh, the Long Count materials), Chinese, various others
+- **主要雷爾派文本**:《來自設計者的訊息》(沃里勒翁源典之彙編)以及其他多種雷爾派出版品
+- **桑迪之主要著作**:《摩西課程筆記》(1963)、《月亮,聖經之鑰》(1968)、《那些造天造地的諸神》(1969)、《水瓶時代》(1970),以及其他多種
+- **《哈姆雷特之磨》傳統**:Santillana 與 von Dechend 之奠基性著作,加上後續延伸(Cruttenden、Sellers、Aveni、Krupp)
+- **主流比較宗教學**:希伯來聖經學(Wellhausen、Friedman、von Rad、Westermann、Brueggemann、Alter)、卡巴拉學(Scholem、Idel、Wolfson、Liebes、Matt),以及其他多者
+- **另類歷史學**:Sitchin、Hancock、Bauval、West、Wallis、Biglino,以及其他多者
+- **跨文化源典材料**:美索不達米亞(《阿特拉哈西斯》、《埃努瑪·埃利什》、《吉爾伽美什》、蘇美王表)、埃及(《金字塔文》、《棺槨文》、《死者之書》)、希臘(赫西俄德、荷馬、柏拉圖)、印度(《梨俱吠陀》、《奧義書》、《摩訶婆羅多》、《往世書》)、中美洲(《波波爾·烏》、長紀曆材料)、中華,以及其他多者
 
-Each library entry is curated with attention to source-material integrity, scholarly context, and relevance to the broader framework engagement.
+各文獻館條目皆以關注源典之完整性、學術脈絡、以及與更廣框架之相關性而受編纂。
 
-### The narrated introduction
+### 敘述式導論
 
-The corpus's **narrated introduction** provides a structured first-encounter with the framework for new readers. The introduction operates through several principal sections (At a Glance, the broader framework articulation, the principal source-material families, the corpus structure) supporting various entry-points into the broader content.
+文集之**敘述式導論**為新讀者提供一個與框架之結構化首次相遇。導論透過數個主要章節(「概覽」、更廣框架之表述、主要源典家族、文集結構)運作,並支援進入更廣內容之各種切入點。
 
-### The blog
+### 博客
 
-The corpus's **blog** tracks ongoing developments — current scientific and cultural events that engage the broader framework, new scholarly publications relevant to the corpus's reading, contemporary developments in the broader UFO/UAP disclosure landscape, the project's own development across multiple workstreams. The blog operates as the principal corpus component for time-sensitive engagement, with the wiki and library providing the broader stable reference architecture.
+文集之**博客**追蹤持續中的發展 —— 接觸更廣框架之當前科學與文化事件、與文集閱讀相關之新學術出版、當代更廣不明飛行物 / UAP 揭露圖景中之發展,以及本專案自身跨多個工作線之發展。博客作為文集對時效性內容之主要接觸元件運作,而維基與文獻館則提供更廣意義之穩定參考架構。
 
-### The governance documents
+### 治理文件
 
-The project operates through several substantial governance documents:
+本專案透過數份規模可觀的治理文件運作:
 
-- ***Project Charter*** — the foundational document articulating the project's purpose, mission, governing principle, and inclusion criteria
-- ***Editorial Style Guide*** — the principal editorial-stylistic governance document
-- ***Chronology Rules*** — the chronological governance document articulating dating conventions and chronological integrity rules
-- ***Nomenclature*** — the principal terminological governance document
-- ***Source Methodology*** — the source-handling governance document
-- ***Chapter Index*** — the architectural governance document tracking the broader corpus development
-- ***Master Timeline*** — the principal chronological reference document spanning the twelve precessional ages
+- ***專案章程*** —— 闡明本專案宗旨、使命、治理原則與納入準則之奠基性文件
+- ***編輯體例指引*** —— 主要的編輯—體例治理文件
+- ***{% wiki(slug="chronology") %}年代學{% end %}規範*** —— 闡明紀年慣例與年代完整性規則之年代治理文件
+- ***命名規範*** —— 主要的術語治理文件
+- ***源典方法論*** —— 源典處理之治理文件
+- ***章節索引*** —— 追蹤更廣文集發展的架構治理文件
+- ***主時間軸*** —— 跨越十二歲差時代之主要年代參考文件
 
-The governance documents operate as living references, updated as the project develops.
+治理文件作為活的參考運作,隨本專案之發展而持續更新。
 
-## Editorial principles
+## 編輯原則
 
-The corpus operates through several substantive editorial principles articulated across the governance documents.
+文集透過跨治理文件所闡明之數項實質性編輯原則運作。
 
-### The four-tier epistemic distinction
+### 四層認識論區分
 
-The corpus consistently distinguishes between four tiers of content:
+文集自始至終區分四層內容:
 
-1. **Direct source claims** — what a specific source directly asserts (with attribution to the source)
-2. **Comparative observations** — comparisons across traditions without claiming identity or causal connection
-3. **Wheel of Heaven interpretation** — corpus-level interpretive synthesis (clearly marked as interpretive)
-4. **Open questions** — unresolved issues, tensions, and uncertainties (explicitly registered)
+1. **直接源典主張** —— 特定源典直接所斷言者(並標注其出處)
+2. **比較性觀察** —— 跨傳統之比較,但不主張其同一性或因果連結
+3. **天輪詮釋** —— 文集層級的詮釋性綜論(明確標示為詮釋性)
+4. **尚待釐清之問題** —— 未解問題、張力與不確定性(明確登記)
 
-The four-tier distinction operates throughout the corpus, with prose markers, structural conventions, and explicit framing maintaining the distinction across all entries.
+四層區分貫穿整部文集運作,以文體標記、結構慣例與明確構框維持跨所有條目之區分。
 
-### The chronology integrity principle
+### 年代完整性原則
 
-The corpus maintains explicit chronological integrity across all entries. When chronology is discussed, the corpus is explicit about:
+文集於所有條目中維持明確之年代完整性。當涉及年代時,文集對以下各點皆作明確說明:
 
-- The specific date or date range
-- Whether the date is *traditional* (from religious-traditional sources), *scholarly* (mainstream academic consensus), *inferred* (from indirect evidence), *symbolic* (from religious-symbolic content), or *contested* (with active scholarly disagreement)
-- Which source or source-family supports the date
+- 具體日期或日期範圍
+- 該日期是*傳統性*(來自宗教—傳統來源)、*學術性*(主流學界共識)、*推論性*(由間接證據而得)、*象徵性*(來自宗教—象徵內容),抑或*有爭議*(學界存有積極異議)
+- 支撐該日期之源典或源典家族
 
-The detailed chronological-integrity governance lives in the project's `02-chronology-rules.md` governance document.
+詳細的年代完整性治理見於本專案之 `02-chronology-rules.md` 治理文件。
 
-### The terminological discipline principle
+### 術語紀律原則
 
-The corpus maintains terminological discipline across all entries. Specific commitments:
+文集於所有條目中維持術語紀律。具體承諾:
 
-- Use of canonical project terms consistently (Wheel of Heaven, the framework, the corpus, the alliance, the Elohim, etc.)
-- Variant spellings handled explicitly (when multiple spellings exist, choose one preferred form and note important variants)
-- Cross-tradition equivalences flagged rather than collapsed (the broader Plurality of Gods cross-cultural pattern is articulated through explicit comparison rather than through forced identity)
-- Translation choices treated as substantive interpretive moves rather than as neutral
+- 一致使用正典專案術語(天輪、框架、文集、聯盟、耶洛因等等)
+- 明確處理拼寫變體(當存在多種拼法時,選定一個偏好形式並標注重要變體)
+- 跨傳統之對應關係予以標示,而非予以摺合(更廣意義之諸神複數性跨文化模式,以明確比較而非以強行同一闡述)
+- 翻譯選擇視為實質之詮釋性取徑,而非中性決定
 
-The detailed terminological governance lives in the project's `03-nomenclature.md` governance document.
+詳細的術語治理見於本專案之 `03-nomenclature.md` 治理文件。
 
-### The source-discipline principle
+### 源典紀律原則
 
-The corpus maintains source-discipline across all entries:
+文集於所有條目中維持源典紀律:
 
-- Quotation under 25 words; paraphrase as default
-- Source attribution for all claims drawing on specific sources
-- Substantial recognition of the difference between source and interpretation
-- Engagement with mainstream scholarship at appropriate technical level
-- Cross-tradition material handled with attention to both convergences and substantive differences
+- 引文不超過 25 字;以釋義為原則
+- 凡所有取資自特定源典之主張皆標注出處
+- 對源典與詮釋之差異有實質的承認
+- 以適當之技術層級與主流學界進行對話
+- 處理跨傳統材料時,既關注其趨同處,亦關注其實質差異
 
-The detailed source-methodology governance lives in the project's `04-source-methodology.md` governance document.
+詳細的源典方法論治理見於本專案之 `04-source-methodology.md` 治理文件。
 
-### The wiki-style register
+### 維基式文體
 
-The corpus operates in a wiki-style register similar to mainstream comparative-religion encyclopaedic engagement (the *Catholic Encyclopedia*, the *Encyclopaedia Britannica*'s religion entries, the *Encyclopedia of Religion*). The register prioritizes:
+文集以類似主流比較宗教百科性質的維基式文體運作(如《天主教百科全書》、《大英百科全書》之宗教條目、《{% wiki(slug="religion") %}宗教{% end %}百科全書》)。該文體優先考量:
 
-- Clarity over rhetorical elaboration
-- Structure over narrative flow
-- Source-conscious prose over informal exposition
-- Conceptual precision over inclusive vagueness
-- Distinct traditions clearly distinguished rather than syncretically blurred
+- 清晰勝於修辭鋪陳
+- 結構勝於敘事流動
+- 源典意識之文體勝於非正式之敘述
+- 概念精確勝於包容性的含糊
+- 各傳統清楚區分,而非綜攝性的模糊化
 
-The detailed editorial governance lives in the project's `01-editorial-style.md` governance document.
+詳細的編輯治理見於本專案之 `01-editorial-style.md` 治理文件。
 
-## Application across the corpus
+## 跨文集之應用
 
-The Wheel of Heaven framework operates across the broader corpus through several principal architectural relationships.
+天輪框架透過數項主要架構關係跨更廣文集運作。
 
-### The principal temporal architecture
+### 主要時間架構
 
-The corpus's principal temporal architecture is the precessional-age framework, with each of the twelve precessional ages receiving substantive treatment in a dedicated entry. The detailed treatment of the precessional architecture lives in the [World Age](../world-age/) entry; the constellational-symbolic complement lives in the [Zodiac](../zodiac/) entry.
+文集之主要時間架構為歲差時代框架,十二個歲差時代各自於專屬條目中受實質處理。歲差架構之詳述見於[世界時代](../world-age/)條目;星座—象徵之補充見於[黃道帶](../zodiac/)條目。
 
-The twelve age entries:
-- [Age of Capricorn](../age-of-capricorn/) (-21,810 to -19,650): project opening; planetary surveys
-- [Age of Sagittarius](../age-of-sagittarius/) (-19,650 to -17,490): atmospheric engineering
-- [Age of Scorpio](../age-of-scorpio/) (-17,490 to -15,330): first life synthesis
-- [Age of Libra](../age-of-libra/) (-15,330 to -13,170): astronomical-calendrical work, zodiac formalization
-- [Age of Virgo](../age-of-virgo/) (-13,170 to -11,010): complex life forms, biodiversity
-- [Age of Leo](../age-of-leo/) (-11,010 to -8,850): human creation
-- [Age of Cancer](../age-of-cancer/) (-8,850 to -6,690): Eden, Adam and Eve
-- [Age of Gemini](../age-of-gemini/) (-6,690 to -4,530): flood, Noah
-- [Age of Taurus](../age-of-taurus/) (-4,530 to -2,370): post-flood reconstruction, Babel, Sodom and Gomorrah, patriarchs
-- [Age of Aries](../age-of-aries/) (-2,370 to -210): Hebrew prophetic tradition, Mosaic law, Axial Age
-- [Age of Pisces](../age-of-pisces/) (-210 to 1,950): Christianity, Islam, universal distribution
-- [Age of Aquarius](../age-of-aquarius/) (1,950 to ~4,110): current age; revelation; Cosmic Chain inheritance
+十二個時代條目:
+- [摩羯座時代](../age-of-capricorn/)(-21,810 至 -19,650):計畫開端;行星測勘
+- [射手座時代](../age-of-sagittarius/)(-19,650 至 -17,490):大氣工程
+- [天蠍座時代](../age-of-scorpio/)(-17,490 至 -15,330):首次生命合成
+- [天秤座時代](../age-of-libra/)(-15,330 至 -13,170):天文—曆法工作、黃道形式化
+- [處女座時代](../age-of-virgo/)(-13,170 至 -11,010):複雜生命形式、生物多樣性
+- [獅子座時代](../age-of-leo/)(-11,010 至 -8,850):人類之創造
+- [巨蟹座時代](../age-of-cancer/)(-8,850 至 -6,690):伊甸、亞當與夏娃
+- [雙子座時代](../age-of-gemini/)(-6,690 至 -4,530):洪水、諾亞
+- [金牛座時代](../age-of-taurus/)(-4,530 至 -2,370):洪水後重建、巴別、所多瑪與蛾摩拉、列祖
+- [白羊座時代](../age-of-aries/)(-2,370 至 -210):希伯來先知傳統、摩西律法、軸心時代
+- [雙魚座時代](../age-of-pisces/)(-210 至 1,950):基督宗教、伊斯蘭、普世傳布
+- [水瓶座時代](../age-of-aquarius/)(1,950 至約 4,110):當下時代;啟示;宇宙鏈之繼承
 
-### The principal interpretive architecture
+### 主要詮釋架構
 
-The framework operates through a cluster of foundational interpretive concepts:
+本框架透過一組奠基性的詮釋概念運作:
 
-- [Cosmic Chain](../cosmic-chain/) — the broader cosmic-civilizational succession framework
-- [Cosmic Competition](../cosmic-competition/) — the engagement among multiple alliance-civilization participants
-- [Doubled Signature](../doubled-signature/) — the precessional-encoding principle
-- [Mass Effect](../mass-effect/) — the broader collective-consciousness phenomenon
-- [Fractal Cosmology](../fractal-cosmology/) — the infinite-scale structural framework
-- [Infinity](../infinity/) — the cosmological-philosophical framework
-- [Living Earth](../living-earth/) — the planetary-organism reading
-- [Four Levels](../four-levels/) — the broader cosmological-hierarchical framework
-- [Plurality of Gods](../plurality-of-gods/) — the structured-plurality framework
+- [宇宙鏈](../cosmic-chain/) —— 更廣意義之宇宙—文明承繼框架
+- [宇宙競爭](../cosmic-competition/) —— 多個聯盟—文明參與者之間的接觸
+- [雙重簽名](../doubled-signature/) —— 歲差編碼原則
+- [群體效應](../mass-effect/) —— 更廣意義之集體意識現象
+- [分形宇宙論](../fractal-cosmology/) —— 無限尺度之結構框架
+- [無限](../infinity/) —— 宇宙論—哲學框架
+- [活地球](../living-earth/) —— 行星—有機體閱讀
+- [四層級](../four-levels/) —— 更廣意義之宇宙論—層級框架
+- [諸神之複數性](../plurality-of-gods/) —— 結構化複數性框架
 
-### The principal source-textual architecture
+### 主要源典—文本架構
 
-The framework engages substantively with several principal source-textual entities:
+本框架實質地與數個主要源典—文本實體對話:
 
-- [Hebrew Bible](../hebrew-bible/) — the principal foundational source-textual entity
-- [Kabbalah](../kabbalah/) — the principal Jewish mystical-esoteric tradition; "the closest book to the truth" in the framework's reading
-- [Hamlet's Mill](../hamlets-mill/) — the foundational scholarly anchor for the precessional-mythological reading (when written)
-- [Message from the Designers](../message-from-the-designers/) — the principal Raëlian source compilation (when written)
-- Various other source-textual entries
+- [希伯來聖經](../hebrew-bible/) —— 主要的奠基性源典—文本實體
+- [卡巴拉](../kabbalah/) —— 主要的猶太神祕—密傳傳統;在框架之閱讀中為「最接近真相之書」
+- [哈姆雷特之磨](../hamlets-mill/) —— 歲差—神話閱讀之奠基性學術錨點(待撰寫)
+- [來自設計者的訊息](../message-from-the-designers/) —— 主要的雷爾派源典彙編(待撰寫)
+- 其他多種源典—文本條目
 
-### The principal-figure architecture
+### 主要人物架構
 
-The framework engages substantively with several principal figures:
+本框架實質地與數位主要人物對話:
 
-- [Raël](../rael/) (Claude Vorilhon) — the inaugural figure of the Aquarian-age revelation
-- [Jean Sendy](../jean-sendy/) — the principal pre-Raëlian framework articulator (when written)
-- The various creator-figures: [Yahweh](../yahweh/), [Lucifer](../lucifer/), [Satan](../satan/), [Serpent](../serpent/)
-- The various human prophets: [Adam](../adam-and-eve/), [Noah](../noah/), [Abraham](../abraham/), [Moses](../moses/), [Mary](../mary/), [Jesus](../jesus/), [Muhammad](../muhammad/), [Buddha](../buddha/) (various entries when written)
+- [雷爾](../rael/)(Claude Vorilhon)—— 水瓶時代啟示之開創性人物
+- [讓·桑迪](../jean-sendy/) —— 主要的雷爾派之前框架闡述者(待撰寫)
+- 各種造物主形象:[耶和華](../yahweh/)、[路西法](../lucifer/)、[撒但](../satan/)、[蛇](../serpent/)
+- 各種人類先知:[亞當](../adam-and-eve/)、[諾亞](../noah/)、[亞伯拉罕](../abraham/)、[摩西](../moses/)、[馬利亞](../mary/)、[耶穌](../jesus/)、[穆罕默德](../muhammad/)、[佛陀](../buddha/)(多篇待撰寫條目)
 
-### The cross-reference density
+### 交叉參照密度
 
-The corpus operates with substantial cross-reference density. Each entry establishes substantive cross-references with related entries, producing a tightly integrated reference architecture. The cross-reference density is one of the corpus's principal architectural features — the framework operates not as a collection of isolated entries but as an interconnected network in which any single entry can be entered from many directions.
+文集以高交叉參照密度運作。每個條目都與相關條目建立實質的交叉參照,產生一個緊密整合的參考架構。交叉參照密度是文集主要的架構特徵之一 —— 框架並非以孤立條目之集合運作,而是作為一個相互連結的網絡而運作,任一條目皆可從多個方向進入。
 
-## Distinguishing from adjacent projects
+## 與鄰近專案之區分
 
-The Wheel of Heaven project operates within a broader landscape of related but distinct projects. Several principal distinctions deserve articulation.
+天輪專案運作於一個由相關但有別之專案所構成的更廣圖景中。數項主要區分值得闡述。
 
-### Wheel of Heaven vs. the Raëlian Movement
+### 天輪 vs. 雷爾運動
 
-The corpus draws substantively on Raëlian source material — particularly *Message from the Designers* and various subsequent Raëlian publications. The Raëlian Movement (formally the **International Raëlian Movement**, founded by Claude Vorilhon as MADECH in 1973 and reorganized as the Raëlian Movement in 1976) operates as an institutional religious-cultural body principally concerned with disseminating the Raëlian message, supporting the construction of the planned Embassy, and developing the broader Raëlian cultural-philosophical-political program (Geniocracy, Humanitarianism, Sensual Meditation, the Raëlian Symbol, etc.).
+文集實質地取資於雷爾派源典 —— 特別是《來自設計者的訊息》以及其後各種雷爾派出版品。雷爾運動(正式稱為**國際雷爾運動**,由 Claude Vorilhon 於 1973 年以 MADECH 之名創立,並於 1976 年改組為雷爾運動)作為一個體制性的宗教—文化團體運作,主要致力於傳播雷爾派訊息、支援所規劃之大使館的建造,以及發展更廣意義之雷爾派文化—哲學—政治綱領(天才政治、{% wiki(slug="humanitarianism") %}人本主義{% end %}、感官式靜思、雷爾派符號等等)。
 
-The relationship is **substantive-source-engagement-without-institutional-affiliation**:
+二者之關係為**實質性源典接觸而不具體制性隸屬**:
 
-- The Wheel of Heaven project draws substantively on Raëlian source material for the framework's specific content
-- The project is not affiliated with the institutional Raëlian Movement
-- The project does not require Raëlian commitments of its readers (membership, doctrinal acceptance, participation in Raëlian institutional structures)
-- The project engages mainstream scholarly material that the Raëlian Movement does not principally engage (Hebrew Bible scholarship, Kabbalah scholarship, *Hamlet's Mill* tradition, broader comparative-religion scholarship)
-- The project operates with substantive interpretive distance on certain Raëlian-specific commitments where corpus-level integration suggests modifications
+- 天輪專案實質地取資於雷爾派源典以獲取框架之具體內容
+- 本專案不隸屬於體制性的雷爾運動
+- 本專案不要求讀者作出雷爾派的承諾(會員身份、教義接納、雷爾派體制結構之參與)
+- 本專案接觸主流學術材料,而雷爾運動主要並不接觸這些材料(希伯來聖經學、卡巴拉學、《哈姆雷特之磨》傳統、更廣意義之比較宗教學)
+- 本專案在某些雷爾派特定承諾上,於文集層級之整合提示應作修正之處,以實質之詮釋距離運作
 
-The detailed treatment of the institutional Raëlian Movement lives in the [Raëlism](../raelism/) entry.
+體制性雷爾運動之詳述見於[雷爾運動](../raelism/)條目。
 
-### Wheel of Heaven vs. Sendy's Tradition framework
+### 天輪 vs. 桑迪之「傳統」框架
 
-Jean Sendy's pre-Raëlian work (1963-1972) articulates substantive prior engagement with what Sendy calls "the **Tradition**" — the broader framework of preserved cultural memory of alliance contact across multiple religious-cultural traditions. Sendy's work substantively prefigures the Raëlian framework on several key points:
+讓·桑迪雷爾派之前的著作(1963–1972)實質先導性地處理桑迪所稱之「**傳統**」 —— 即跨多種宗教—文化傳統所保存之聯盟接觸文化記憶的更廣框架。桑迪之著作在數個關鍵點上實質地預示了雷爾派框架:
 
-- The plural Elohim reading (Sendy articulates this in *La Lune, clé de la Bible*, 1968)
-- The precessional-zodiacal reading of the Hebrew Bible (extensively in *L'ère du Verseau*, 1970)
-- The "Tradition" as preserved cultural memory across multiple traditions
-- The Aquarian-age opening as substantive cosmological-civilizational transition
+- 複數耶洛因之閱讀(桑迪於 1968 年《月亮,聖經之鑰》中即闡述此點)
+- 對希伯來聖經之歲差—黃道閱讀(廣泛地見於 1970 年《水瓶時代》)
+- 將「傳統」視為跨多個傳統所保存之文化記憶
+- 將水瓶時代之開啟視為實質的宇宙論—文明過渡
 
-The relationship is **substantive-extension-with-substantial-continuity**:
+二者之關係為**實質性延伸並具實質連續性**:
 
-- The corpus draws substantively on Sendy's framework for its precessional-zodiacal reading
-- The corpus extends Sendy's work substantially with Raëlian source material that postdated Sendy's principal works (Vorilhon's first contact occurred December 1973, after most of Sendy's principal works were published)
-- The corpus integrates Sendy's framework with the *Hamlet's Mill* tradition (Santillana and von Dechend's work appeared in 1969, contemporaneously with Sendy's principal works) and with mainstream comparative-religion scholarship
-- The corpus operates with substantive editorial discipline that Sendy's more polemical engagement did not principally maintain
+- 文集實質地取資於桑迪之框架以建立其歲差—黃道閱讀
+- 文集以桑迪主要著作之後的雷爾派源典(沃里勒翁首次接觸發生於 1973 年 12 月,而桑迪多數主要著作早於此時出版),對其工作作出實質性延伸
+- 文集將桑迪之框架與《哈姆雷特之磨》傳統(Santillana 與 von Dechend 之著作於 1969 年出版,與桑迪主要著作同時代),以及主流比較宗教學予以整合
+- 文集以實質之編輯紀律運作,而桑迪較具論戰性的處理主要並未維持此紀律
 
-The detailed treatment of Sendy's framework lives in the [Jean Sendy](../jean-sendy/) entry when written.
+桑迪框架之詳述見於[讓·桑迪](../jean-sendy/)條目(待撰寫)。
 
-### Wheel of Heaven vs. ancient-aliens popular media
+### 天輪 vs. 遠古外星人之普及媒體
 
-The broader popular-media engagement with "ancient aliens" content (the *Ancient Aliens* television series on the History channel, broader popular-publication work, various YouTube and podcast engagements) operates substantively differently from the Wheel of Heaven project on several principal dimensions:
+更廣意義之「遠古外星人」普及媒體內容(歷史頻道之《遠古外星人》系列、廣泛之普及出版工作、各類 YouTube 與播客接觸)在數個主要面向上與天輪專案實質地有別:
 
-- **Source-material discipline**: the corpus operates with substantive source-material discipline, distinguishing carefully between primary sources, mainstream scholarship, and interpretive synthesis; popular-media engagement frequently operates without these distinctions
-- **Editorial register**: the corpus operates in a wiki-style scholarly register; popular-media engagement frequently operates in a sensationalist register
-- **Integration depth**: the corpus operates as a substantively integrated framework with explicit chronological-temporal architecture and cross-reference density; popular-media engagement frequently operates as a collection of loosely-related anecdotes
-- **Epistemic care**: the corpus distinguishes carefully between source claims, comparative observations, framework-specific interpretation, and open questions; popular-media engagement frequently presents speculation as established fact
-- **Scholarly engagement**: the corpus engages substantively with mainstream scholarship; popular-media engagement frequently operates as if mainstream scholarship were not relevant
+- **源典紀律**:文集以實質源典紀律運作,審慎區分第一手源典、主流學界與詮釋性綜論;普及媒體之接觸經常並無此等區分
+- **編輯文體**:文集以維基式學術文體運作;普及媒體之接觸經常以聳動文體運作
+- **整合深度**:文集作為一個具明確年代學—時間架構與交叉參照密度之實質整合框架運作;普及媒體之接觸經常作為一系列鬆散相關的軼事而運作
+- **認識論審慎**:文集審慎區分源典主張、比較性觀察、框架特定之詮釋,以及尚待釐清之問題;普及媒體之接觸經常將推測呈現為已確立之事實
+- **學術對話**:文集實質地與主流學界對話;普及媒體之接觸經常運作得彷彿主流學界並不相關
 
-The relationship is **shared-broader-subject-area-with-substantively-distinct-operational-standards**.
+二者之關係為**共享更廣主題領域,而運作標準實質有別**。
 
-### Wheel of Heaven vs. mainstream comparative-religion scholarship
+### 天輪 vs. 主流比較宗教學
 
-Mainstream comparative-religion scholarship operates principally through academic-disciplinary institutions (university religious-studies departments, scholarly societies, peer-reviewed journals, university presses) with substantive methodological-disciplinary commitments. The Wheel of Heaven project relates to mainstream comparative-religion scholarship as follows:
+主流比較宗教學主要透過學術—學科性體制(大學宗教研究系所、學會、同儕審查期刊、大學出版社)運作,並承擔實質之方法論—學科性承諾。天輪專案與主流比較宗教學之關係如下:
 
-- **Substantive engagement**: the corpus engages substantively with mainstream scholarship across multiple disciplinary contexts (Hebrew Bible studies, Kabbalah studies, Mesopotamian studies, Egyptian studies, Indian religious studies, Mesoamerican studies, archaeoastronomy, history of religion)
-- **Distinctive interpretive commitments**: the corpus operates from interpretive commitments that mainstream scholarship does not principally share (the alliance-creator framework, the precessional-engineering reading, the cross-cultural-preserved-memory reading)
-- **Methodological alignment at descriptive level, divergence at interpretive level**: the corpus generally accepts mainstream scholarly findings at the descriptive level (textual-philological, historical-archaeological, ethnographic-anthropological) while operating substantively differently at the interpretive level
-- **Open invitation to evaluation**: the corpus presents its interpretive position as a coherent framework that the reader is invited to evaluate against alternatives, rather than as established fact
+- **實質性對話**:文集跨多個學科脈絡(希伯來聖經學、卡巴拉學、美索不達米亞學、埃及學、印度宗教學、中美洲學、考古天文學、宗教史)實質地與主流學界對話
+- **獨特之詮釋承諾**:文集運作於主流學界主要並不共享之詮釋承諾上(聯盟—造物主框架、歲差—工程閱讀、跨文化—保存記憶閱讀)
+- **描述層面方法論一致,詮釋層面有所分歧**:文集在描述層面(文本—語文、歷史—考古、民族誌—人類學)上一般接受主流學界之發現,而在詮釋層面則實質地相異運作
+- **對評估之開放邀請**:文集將其詮釋立場呈現為一個一致的框架,邀請讀者對之與替代方案進行評估,而非作為已確立之事實
 
-The relationship is **substantive-engagement-with-distinctive-interpretive-commitments**.
+二者之關係為**具獨特詮釋承諾之實質對話**。
 
-### Wheel of Heaven vs. Sitchin's Anunnaki framework
+### 天輪 vs. Sitchin 之阿努納奇框架
 
-**Zecharia Sitchin** (1920-2010) articulated, principally in *The 12th Planet* (1976) and the broader *Earth Chronicles* series, an alternative-history framework engaging Mesopotamian source material with the proposal that the **Anunnaki** of Sumerian mythology were extraterrestrial beings from the planet Nibiru who created humanity through genetic engineering. The relationship is **shared-broader-framework-direction-with-substantive-source-material-and-interpretive-distinctions**:
+**Zecharia Sitchin**(1920–2010)主要在《第十二顆行星》(1976){{ cite(id="the-12th-planet", text="[10]", title="Sitchin,《第十二顆行星》(1976)—— 阿努納奇 / 尼比魯框架之奠基性作品") }} 以及更廣意義之《地球編年史》系列中闡述了一個另類歷史框架,以美索不達米亞源典為依據,提出蘇美神話中的**阿努納奇**為來自尼比魯星之外星存有,他們透過基因工程創造了人類。二者之關係為**共享更廣框架方向,而源典材料與詮釋實質有別**:
 
-- Both frameworks register an extraterrestrial-creator reading of human origins
-- Both frameworks register the broader cross-cultural distribution of preserved memory content
-- The Wheel of Heaven framework operates principally through Hebrew Bible primary sources (with Mesopotamian comparative material); Sitchin operates principally through Mesopotamian primary sources (with Hebrew Bible comparative material)
-- The frameworks differ substantively on specific identifications (the Wheel of Heaven framework's Elohim civilization vs. Sitchin's specific Anunnaki / Nibiru content)
-- The Wheel of Heaven framework operates with substantively different chronological commitments than Sitchin's framework
+- 兩個框架皆登記了對人類起源之外星—造物主閱讀
+- 兩個框架皆登記了所保存之記憶內容於更廣意義上的跨文化分布
+- 天輪框架主要透過希伯來聖經之第一手源典運作(輔以美索不達米亞比較材料);Sitchin 主要透過美索不達米亞之第一手源典運作(輔以希伯來聖經比較材料)
+- 兩框架在具體之指認上實質有別(天輪框架之耶洛因文明 vs. Sitchin 具體之阿努納奇 / 尼比魯內容)
+- 天輪框架在年代承諾上與 Sitchin 之框架實質有別
 
-### Wheel of Heaven vs. Wallis's broader engagement
+### 天輪 vs. Wallis 之更廣接觸
 
-**Paul Anthony Wallis**'s *Escaping from Eden* (2020), *The Eden Conspiracy* (2024), and various other works engage substantial Hebrew Bible content through a strict-translational approach drawing on the broader engagement of Mauro Biglino, Ellen White, and various others. The relationship is **shared-broader-direction-with-substantively-distinct-source-material-warrant**:
+**Paul Anthony Wallis** 之《逃離伊甸》(2020),{{ cite(id="escaping-from-eden", text="[11]", title="Wallis,《逃離伊甸》(2020)—— 對希伯來聖經中*耶洛因*之嚴格翻譯式比較閱讀") }}《伊甸陰謀》(2024),以及其他多部著作,透過取資自 Mauro Biglino、{{ cite(id="the-naked-bible", text="[12]", title="比格利諾與卡塔內奧,《赤裸的聖經》(2022)—— Wallis 更廣接觸所本之嚴格字面希伯來翻譯法") }} Ellen White 等多人之更廣處理,以嚴格翻譯進路接觸大量希伯來聖經內容。二者之關係為**共享更廣方向,而源典依據實質有別**:
 
-- Both frameworks register the Hebrew Bible's content as containing preserved memory of extraterrestrial-civilization contact
-- The Wheel of Heaven framework draws principally on Raëlian source material; Wallis draws principally on the strict-translational engagement
-- The frameworks register substantive structural alignment at multiple specific points
+- 兩個框架皆登記希伯來聖經之內容含有對外星—文明接觸之保存記憶
+- 天輪框架主要取資自雷爾派源典;Wallis 主要取資自嚴格翻譯式接觸
+- 兩個框架在多個具體點上登記了實質之結構性一致
 
-### Wheel of Heaven vs. UFO disclosure community
+### 天輪 vs. UFO 揭露社群
 
-The broader UFO/UAP disclosure community (the post-2017 *New York Times* AATIP coverage, the AARO investigations, the 2023 Congressional hearings, the broader contemporary disclosure tradition) operates substantively within a contemporary policy-and-evidence framework engaging unidentified aerial phenomena principally as a national-security and scientific-investigation concern. The relationship is **substantive-relevance-without-direct-overlap**:
+更廣意義之 UFO/UAP 揭露社群(2017 年後《紐約時報》對 AATIP 的報導、AARO 之調查、2023 年國會聽證會、更廣意義之當代揭露傳統)主要運作於當代政策—證據框架之中,將不明空中現象主要視為國家安全與科學調查之問題。二者之關係為**具實質相關性而無直接重疊**:
 
-- The Wheel of Heaven framework registers the contemporary UFO/UAP disclosure tradition as substantive contextual content for the broader Aquarian-age opening (treated principally in the [Age of Aquarius](../age-of-aquarius/) entry when written)
-- The corpus does not principally operate within the disclosure-community framework
-- The corpus's specific framework engages the broader extraterrestrial-civilization question through specific historical-cultural-source-material commitments rather than through contemporary-evidence engagement principally
+- 天輪框架將當代 UFO/UAP 揭露傳統登記為更廣意義之水瓶時代開啟之實質脈絡內容(主要於[水瓶座時代](../age-of-aquarius/)條目中處理,待撰寫)
+- 文集主要並不運作於揭露社群之框架內
+- 文集之具體框架主要透過特定之歷史—文化—源典承諾接觸更廣意義之外星—文明問題,而非主要透過當代證據式接觸
 
-## The corpus's scholarly engagement
+## 文集之學術對話
 
-The Wheel of Heaven project engages substantively with mainstream scholarship across multiple disciplinary contexts. The principal engagements:
+天輪專案實質地與主流學界跨多個學科脈絡對話。主要對話包括:
 
-### Hebrew Bible scholarship
+### 希伯來聖經學
 
-The corpus engages substantively with mainstream Hebrew Bible scholarship: the Documentary Hypothesis (Wellhausen, Friedman, Van Seters, Baden); contemporary critical scholarship (von Rad, Westermann, Brueggemann, Alter); archaeological-historical context (Dever, Finkelstein, Mazar, the broader Albright tradition); textual criticism (Tov, Hendel); Dead Sea Scrolls scholarship (VanderKam, Flint); Septuagint scholarship; canonical-formation scholarship (McDonald, Sundberg). The detailed treatment lives in the [Hebrew Bible](../hebrew-bible/) entry.
+文集實質地與主流希伯來聖經學對話:底本批判(Wellhausen,{{ cite(id="prolegomena-zur-geschichte-israels", text="[13]", title="Wellhausen,《以色列歷史導論》(1878)—— 底本批判之奠基性闡述") }} Friedman,{{ cite(id="who-wrote-the-bible", text="[14]", title="Friedman,《誰寫了聖經?》(1987)—— 底本批判之普及性現代重述") }} Van Seters、Baden);當代批判學(von Rad、Westermann、Brueggemann、Alter);考古—歷史脈絡(Dever、Finkelstein、Mazar,以及更廣的 Albright 傳統);文本批判(Tov、Hendel);死海古卷研究(VanderKam、Flint);《七十士譯本》研究;正典形成研究(McDonald、Sundberg)。{{ footnote(id="5") }} 詳述見於[希伯來聖經](../hebrew-bible/)條目。
 
-### Kabbalah scholarship
+### 卡巴拉學
 
-The corpus engages substantively with mainstream Kabbalah scholarship: Scholem (foundational), Idel (revisionist), Wolfson (philosophical), Liebes (mythological), Matt (the Pritzker Edition Zohar), the broader scholarly tradition. The detailed treatment lives in the [Kabbalah](../kabbalah/) entry.
+文集實質地與主流卡巴拉學對話:Scholem(奠基性)、Idel(修正主義)、Wolfson(哲學進路)、Liebes(神話進路)、Matt(普里茨克版《光輝之書》),{{ cite(id="the-zohar-pritzker", text="[15]", title="Matt(譯),《光輝之書:普里茨克版》(2003–2017)—— 《光輝之書》之標準學術譯本") }} 以及更廣意義之學術傳統。詳述見於[卡巴拉](../kabbalah/)條目。
 
-### Archaeoastronomy
+### 考古天文學
 
-The corpus engages substantively with mainstream archaeoastronomy and the *Hamlet's Mill* tradition: Santillana and von Dechend (foundational), Cruttenden, Sellers, Hawkins, Aveni, Krupp, the broader scholarly tradition. The detailed treatment lives in the [Hamlet's Mill](../hamlets-mill/) entry when written.
+文集實質地與主流考古天文學以及《哈姆雷特之磨》傳統對話:Santillana 與 von Dechend(奠基性)、Cruttenden、Sellers、Hawkins、Aveni、Krupp,以及更廣意義之學術傳統。詳述見於[哈姆雷特之磨](../hamlets-mill/)條目(待撰寫)。
 
-### Comparative-religion scholarship
+### 比較宗教學
 
-The corpus engages substantively with mainstream comparative-religion scholarship across multiple cultural traditions: Mesopotamian (Lambert, Foster, Dalley); Egyptian (Allen, Hornung, Assmann); Greek (West, Burkert); Vedic / Hindu (Doniger, Olivelle); Mesoamerican (Schele, Aveni, Coe); Chinese (Pankenier, Sun); various others.
+文集實質地跨多種文化傳統與主流比較宗教學對話:美索不達米亞(Lambert、Foster、Dalley);埃及(Allen、Hornung、Assmann);希臘(West、Burkert);吠陀 / 印度教(Doniger、Olivelle);中美洲(Schele、Aveni、Coe);中華(Pankenier、Sun);以及其他多者。
 
-### Alternative-history scholarship
+### 另類歷史學
 
-The corpus engages with various alternative-history scholarly traditions: Sitchin's Anunnaki framework; Hancock's broader engagement; Bauval's Orion-correlation theory; West's Egyptian-wisdom tradition; Wallis's strict-translational approach; Biglino's Hebrew-translational engagement; various others. The corpus engages these substantively while operating from distinct source-material warrant.
+文集與多個另類歷史學術傳統對話:Sitchin 之阿努納奇框架;Hancock 之更廣接觸;Bauval 之獵戶座對應理論;West 之埃及—智慧傳統;Wallis 之嚴格翻譯進路;Biglino 之希伯來翻譯式接觸;以及其他多者。文集對之實質地對話,並運作於相異之源典依據上。
 
-### Contemporary scientific developments
+### 當代科學發展
 
-The corpus engages substantively with contemporary scientific developments relevant to the broader framework: planetary science and astrobiology (relevant to the Capricorn-age engineering question); synthetic biology (relevant to the Scorpio-age life-synthesis question); precessional measurement and IAU astronomical standards; the broader UFO/UAP disclosure tradition; contemporary developments in AI, biotechnology, and space capability (relevant to the Aquarian-age inheritance threshold).
+文集實質地與更廣框架相關之當代科學發展對話:行星科學與天體生物學(與摩羯時代之工程問題相關);合成生物學(與天蠍時代之生命合成問題相關);歲差測量與 IAU 天文標準;更廣意義之 UFO/UAP 揭露傳統;當代 AI、生物科技、太空能力之發展(與水瓶時代繼承門檻相關)。
 
-## The continuing project
+## 持續中的計畫
 
-The Wheel of Heaven project is not a final synthesis but one stage in an ongoing collective project. The project's articulation of its own continuing development:
+天輪專案並非最終的綜論,而是一項持續中之集體計畫中的一個階段。本專案對其持續發展之表述:
 
-> *"The present corpus is not the final synthesis. It is one stage in an ongoing project that will continue across the coming years and decades, both through the corpus's own continued development and through the parallel work of other authors and traditions engaging the same materials."*
+> *「目前的文集並非最終的綜論。它只是一項持續中的計畫中的一個階段,該計畫將在未來數年數十年間,既透過文集自身的持續發展、亦透過其他作者與傳統處理同一材料的並行工作而持續推進。」*
 
-Several principal extensions remain on the project's working horizon:
+數項主要延伸仍在本專案之工作視野上:
 
-- A dedicated treatment of the **Book of Revelation** and the broader apocalyptic literature, including the canonical Apocalypse, the Enochic tradition, and various other apocalyptic-textual material
-- A dedicated treatment of the **Great Pyramid of Giza** and the broader Egyptian alliance presence
-- A dedicated systematic treatment of the **Jewish mystical tradition** beyond the Kabbalah entry
-- A dedicated treatment of the **fractal-cosmos / shape-of-the-universe** material
-- A dedicated systematic treatment of **contemporary scientific developments** as operational expressions of the Aquarian-age inheritance threshold
-- The completion of the **twelve precessional age entries** with full chronological-narrative integration
-- Additional **figure entries** completing the principal-figure architecture
+- 對**《啟示錄》**及更廣意義之啟示文學的專門處理,包括正典之{% wiki(slug="apocalypse") %}默示錄{% end %}、以諾傳統,以及其他多種啟示性文本材料
+- 對**吉薩大金字塔**及更廣意義之埃及聯盟臨在的專門處理
+- 對**猶太神祕傳統**(超出卡巴拉條目範圍)之系統性專門處理
+- 對**分形宇宙 / 宇宙之形狀**材料的專門處理
+- 對**當代科學發展**作為水瓶時代繼承門檻之操作性表達的專門系統性處理
+- **十二個歲差時代條目**之完整年代—敘事整合
+- 完備主要人物架構之額外**人物條目**
 
-These extensions are not commitments but forward-pointers — work that the broader project may undertake across the coming years. The project operates with explicit recognition that subsequent work by other authors and traditions will supplement and extend the corpus's present articulation as the broader Aquarian-age recovery and integration continues.
+這些延伸並非承諾,而是前指 —— 更廣意義之本專案於未來數年可能從事之工作。本專案以明確認識運作:隨著更廣意義之水瓶時代對聯盟通訊的恢復與整合持續推進,其他作者與傳統之後續工作將補充並延伸文集當前之表述。
 
-### The collaborative dimension
+### 協作面向
 
-The Wheel of Heaven project operates as a collaborative undertaking. The technical infrastructure runs on open-source web technologies, with content management hosted as Git projects generating static web pages on a content-delivery network. The project welcomes substantive contributions:
+天輪專案作為一項協作事業運作。技術基礎建設運行於開源網路科技,內容管理以 Git 專案託管並在內容傳遞網絡上生成靜態網頁。本專案歡迎實質性貢獻:
 
-- **Content contributions**: corrections, additions, new entries, expanded treatments
-- **Source-material contributions**: identification of additional source materials, scholarly references, primary-source engagements
-- **Cross-cultural contributions**: substantive engagement with traditions and source materials currently underrepresented in the corpus
-- **Editorial contributions**: refinement of existing entries, structural improvements, error corrections
-- **Technical contributions**: improvements to the underlying web infrastructure, accessibility, search functionality
+- **內容貢獻**:更正、增補、新條目、擴展處理
+- **源典材料貢獻**:對額外源典材料、學術參考、第一手源典接觸之指認
+- **跨文化貢獻**:對文集中目前代表性不足之傳統與源典材料的實質性接觸
+- **編輯貢獻**:對現有條目之精修、結構改進、錯誤更正
+- **技術貢獻**:對底層網路基礎建設、無障礙性、搜尋功能之改進
 
-The detailed contribution guidelines are available through the project's GitHub repositories.
+詳細的貢獻指引可透過本專案之 GitHub 儲存庫取得。
 
-### The reader's invitation
+### 對讀者的邀請
 
-The corpus extends an explicit invitation to its readers. The corpus's articulation:
+文集對其讀者發出明確邀請。文集之表述:
 
-> *"The corpus is not a closed system. It is an open invitation to evaluation."*
+> *「文集並非一個封閉系統。它是一份開放的評估邀請。」*
 
-The reader is invited to:
+讀者受邀請:
 
-- Engage the framework substantively rather than dismissively or uncritically
-- Distinguish between the corpus's source-claim content, comparative-observation content, and framework-specific interpretive content
-- Compare the framework against alternative interpretations of the same source material
-- Evaluate the framework against the reader's own engagement with the broader source-material landscape
-- Contribute substantively to the project's ongoing development
+- 實質地接觸本框架,而非以打發或不加批判之方式
+- 區分文集之源典主張內容、比較性觀察內容,以及框架特定之詮釋性內容
+- 將本框架與對同一源典材料之替代詮釋進行比較
+- 以讀者自身對更廣源典材料圖景之接觸,評估本框架
+- 實質地貢獻於本專案之持續發展
 
-The corpus does not require acceptance. It asks for serious engagement. Whether the reader ultimately accepts, rejects, modifies, or holds open judgment regarding the broader framework is a question for the reader to determine through substantive engagement with the material rather than through prior commitment in either direction.
+文集並不要求接受。它請求認真接觸。讀者最終究竟接受、拒絕、修改,或對更廣框架保留判斷,是讀者應透過對材料之實質接觸而自行決定的問題,而非透過任一方向之先驗承諾。
 
-## See also
+## 參見
 
-- [World Age](../world-age/)
-- [Zodiac](../zodiac/)
-- [Doubled Signature](../doubled-signature/)
-- [Cosmic Chain](../cosmic-chain/)
-- [Cosmic Competition](../cosmic-competition/)
-- [Mass Effect](../mass-effect/)
-- [Fractal Cosmology](../fractal-cosmology/)
-- [Infinity](../infinity/)
-- [Living Earth](../living-earth/)
-- [Four Levels](../four-levels/)
-- [Plurality of Gods](../plurality-of-gods/)
-- [Hebrew Bible](../hebrew-bible/)
-- [Kabbalah](../kabbalah/)
-- [Elohim](../elohim/)
-- [Yahweh](../yahweh/)
-- [Lucifer](../lucifer/)
-- [Satan](../satan/)
-- [Serpent](../serpent/)
-- [Raël](../rael/)
-- [Raëlism](../raelism/)
-- [Embassy](../embassy/)
-- [Hamlet's Mill](../hamlets-mill/)
-- [Jean Sendy](../jean-sendy/)
-- [Mauro Biglino](../mauro-biglino/)
-- [Paul Anthony Wallis](../paul-anthony-wallis/)
-- [Akhenaten](../akhenaten/)
-- [Neo-Euhemerism](../neo-euhemerism/)
+- [世界時代](../world-age/)
+- [黃道帶](../zodiac/)
+- [雙重簽名](../doubled-signature/)
+- [宇宙鏈](../cosmic-chain/)
+- [宇宙競爭](../cosmic-competition/)
+- [群體效應](../mass-effect/)
+- [分形宇宙論](../fractal-cosmology/)
+- [無限](../infinity/)
+- [活地球](../living-earth/)
+- [四層級](../four-levels/)
+- [諸神之複數性](../plurality-of-gods/)
+- [希伯來聖經](../hebrew-bible/)
+- [卡巴拉](../kabbalah/)
+- [耶洛因](../elohim/)
+- [耶和華](../yahweh/)
+- [路西法](../lucifer/)
+- [撒但](../satan/)
+- [蛇](../serpent/)
+- [雷爾](../rael/)
+- [雷爾運動](../raelism/)
+- [大使館](../embassy/)
+- [哈姆雷特之磨](../hamlets-mill/)
+- [讓·桑迪](../jean-sendy/)
+- [毛羅·比格利諾](../mauro-biglino/)
+- [保羅·安東尼·華利斯](../paul-anthony-wallis/)
+- [阿肯那頓](../akhenaten/)
+- [新優希邁羅斯主義](../neo-euhemerism/)
 
-## References
+## 參考文獻
 
-### Project governance documents
+### 專案治理文件
 
-Wheel of Heaven Project. *Project Charter*. Internal governance document.
+天輪專案。《專案章程》。內部治理文件。
 
-Wheel of Heaven Project. *Editorial Style Guide*. Internal governance document.
+天輪專案。《編輯體例指引》。內部治理文件。
 
-Wheel of Heaven Project. *Chronology Rules*. Internal governance document.
+天輪專案。《年代學規範》。內部治理文件。
 
-Wheel of Heaven Project. *Nomenclature*. Internal governance document.
+天輪專案。《命名規範》。內部治理文件。
 
-Wheel of Heaven Project. *Source Methodology*. Internal governance document.
+天輪專案。《源典方法論》。內部治理文件。
 
-Wheel of Heaven Project. *Chapter Index*. Internal governance document.
+天輪專案。《章節索引》。內部治理文件。
 
-Wheel of Heaven Project. *Master Timeline*. Internal governance document.
+天輪專案。《主時間軸》。內部治理文件。
 
-### Principal Raëlian sources
+### 主要雷爾派源典
 
-Vorilhon, Claude (Raël). *The Book Which Tells the Truth* (1974); collected in *Message from the Designers*. The principal source for the framework's specific content.
+Vorilhon, Claude(雷爾)。《述真之書》(1974);收於《來自設計者的訊息》。框架具體內容之主要源典。
 
-Vorilhon, Claude (Raël). *Extra-Terrestrials Took Me to Their Planet* (1975); collected in *Message from the Designers*.
+Vorilhon, Claude(雷爾)。《外星人接我前往他們的星球》(1975);收於《來自設計者的訊息》。
 
-Vorilhon, Claude (Raël). *Let's Welcome the Extra-Terrestrials* (1979); collected in *Message from the Designers*.
+Vorilhon, Claude(雷爾)。《讓我們歡迎外星人》(1979);收於《來自設計者的訊息》。
 
-Vorilhon, Claude (Raël). *Message from the Designers*. Tagman Press, 2005. The collected source compilation.
+Vorilhon, Claude(雷爾)。《來自設計者的訊息》。Tagman Press,2005。源典之彙編集。
 
-Vorilhon, Claude (Raël). *Geniocracy*. Various editions.
+Vorilhon, Claude(雷爾)。《{% wiki(slug="geniocracy") %}天才政治{% end %}》。多種版本。
 
-Vorilhon, Claude (Raël). *Sensual Meditation*. Various editions.
+Vorilhon, Claude(雷爾)。《感官式靜思》。多種版本。
 
-### Sendy's principal works
+### 桑迪之主要著作
 
-Sendy, Jean. *Les cahiers de cours de Moïse*. Julliard, 1963.
+Sendy, Jean。*Les cahiers de cours de Moïse*。Julliard,1963。
 
-Sendy, Jean. *La Lune, clé de la Bible*. Julliard, 1968.
+Sendy, Jean。*La Lune, clé de la Bible*。Julliard,1968。
 
-Sendy, Jean. *Ces dieux qui firent le ciel et la terre*. Robert Laffont, 1969.
+Sendy, Jean。*Ces dieux qui firent le ciel et la terre*。Robert Laffont,1969。
 
-Sendy, Jean. *L'ère du Verseau*. Robert Laffont, 1970.
+Sendy, Jean。*L'ère du Verseau*。Robert Laffont,1970。
 
-Sendy, Jean. *Les dieux nous sont nés*. Grasset, 1966.
+Sendy, Jean。*Les dieux nous sont nés*。Grasset,1966。
 
-### Hamlet's Mill tradition
+### 《哈姆雷特之磨》傳統
 
-de Santillana, Giorgio, and Hertha von Dechend. *Hamlet's Mill: An Essay on Myth and the Frame of Time*. Gambit, 1969.
+de Santillana, Giorgio, and Hertha von Dechend。*Hamlet's Mill: An Essay on Myth and the Frame of Time*。Gambit,1969。
 
-Cruttenden, Walter. *Lost Star of Myth and Time*. St. Lynn's Press, 2005.
+Cruttenden, Walter。*Lost Star of Myth and Time*。St. Lynn's Press,2005。
 
-Sellers, Jane B. *The Death of Gods in Ancient Egypt*. Penguin, 1992.
+Sellers, Jane B.。*The Death of Gods in Ancient Egypt*。Penguin,1992。
 
-Aveni, Anthony F. *Skywatchers of Ancient Mexico*. University of Texas Press, 1980.
+Aveni, Anthony F.。*Skywatchers of Ancient Mexico*。University of Texas Press,1980。
 
-Krupp, Edwin C. *Echoes of the Ancient Skies*. Harper & Row, 1983.
+Krupp, Edwin C.。*Echoes of the Ancient Skies*。Harper & Row,1983。
 
-### Hebrew Bible scholarship
+### 希伯來聖經學
 
-Wellhausen, Julius. *Prolegomena to the History of Israel*. Trans. J. Sutherland Black and Allan Menzies. Adam & Charles Black, 1885 [originally 1878].
+Wellhausen, Julius。*Prolegomena to the History of Israel*。譯者 J. Sutherland Black 與 Allan Menzies。Adam & Charles Black,1885〔原作 1878〕。
 
-Friedman, Richard Elliott. *Who Wrote the Bible?* Harper & Row, 1987.
+Friedman, Richard Elliott。*Who Wrote the Bible?* Harper & Row,1987。
 
-Friedman, Richard Elliott. *The Bible with Sources Revealed*. HarperOne, 2003.
+Friedman, Richard Elliott。*The Bible with Sources Revealed*。HarperOne,2003。
 
-von Rad, Gerhard. *Genesis: A Commentary*. Westminster, revised ed., 1972 [originally 1949].
+von Rad, Gerhard。*Genesis: A Commentary*。Westminster,修訂版,1972〔原作 1949〕。
 
-Westermann, Claus. *Genesis 1-11: A Commentary*. Augsburg / Fortress, 1984.
+Westermann, Claus。*Genesis 1-11: A Commentary*。Augsburg / Fortress,1984。
 
-Brueggemann, Walter. *Theology of the Old Testament*. Augsburg Fortress, 1997.
+Brueggemann, Walter。*Theology of the Old Testament*。Augsburg Fortress,1997。
 
-Alter, Robert. *The Hebrew Bible: A Translation with Commentary*. 3 vols. W. W. Norton, 2018.
+Alter, Robert。*The Hebrew Bible: A Translation with Commentary*。三卷。W. W. Norton,2018。
 
-Dever, William G. *What Did the Biblical Writers Know and When Did They Know It?* Eerdmans, 2001.
+Dever, William G.。*What Did the Biblical Writers Know and When Did They Know It?* Eerdmans,2001。
 
-Finkelstein, Israel, and Neil Asher Silberman. *The Bible Unearthed*. Free Press, 2001.
+Finkelstein, Israel, and Neil Asher Silberman。*The Bible Unearthed*。Free Press,2001。
 
-Tov, Emanuel. *Textual Criticism of the Hebrew Bible*. Augsburg Fortress, 3rd ed., 2012 [originally 1992].
+Tov, Emanuel。*Textual Criticism of the Hebrew Bible*。Augsburg Fortress,第 3 版,2012〔原作 1992〕。
 
-### Kabbalah scholarship
+### 卡巴拉學
 
-Scholem, Gershom. *Major Trends in Jewish Mysticism*. Schocken, 1941.
+Scholem, Gershom。*Major Trends in Jewish Mysticism*。Schocken,1941。
 
-Idel, Moshe. *Kabbalah: New Perspectives*. Yale University Press, 1988.
+Idel, Moshe。*Kabbalah: New Perspectives*。Yale University Press,1988。
 
-Wolfson, Elliot R. *Through a Speculum That Shines*. Princeton University Press, 1994.
+Wolfson, Elliot R.。*Through a Speculum That Shines*。Princeton University Press,1994。
 
-Matt, Daniel C., trans. *The Zohar: Pritzker Edition*. 12 vols. Stanford University Press, 2003-2017.
+Matt, Daniel C.(譯)。*The Zohar: Pritzker Edition*。十二卷。Stanford University Press,2003–2017。
 
-### Alternative-history scholarship
+### 另類歷史學
 
-Sitchin, Zecharia. *The 12th Planet*. Stein and Day, 1976.
+Sitchin, Zecharia。*The 12th Planet*。Stein and Day,1976。
 
-Hancock, Graham. *Magicians of the Gods*. St. Martin's Press, 2015.
+Hancock, Graham。*Magicians of the Gods*。St. Martin's Press,2015。
 
-Bauval, Robert, and Adrian Gilbert. *The Orion Mystery*. Crown, 1994.
+Bauval, Robert, and Adrian Gilbert。*The Orion Mystery*。Crown,1994。
 
-West, John Anthony. *Serpent in the Sky*. Julian Press, 1979.
+West, John Anthony。*Serpent in the Sky*。Julian Press,1979。
 
-Wallis, Paul Anthony. *Escaping from Eden*. 6th Books, 2020.
+Wallis, Paul Anthony。*Escaping from Eden*。6th Books,2020。
 
-Wallis, Paul Anthony. *The Eden Conspiracy*. 6th Books, 2024.
+Wallis, Paul Anthony。*The Eden Conspiracy*。6th Books,2024。
 
-Biglino, Mauro, and Giorgio Cattaneo. *The Naked Bible*. Uno, 2022.
+Biglino, Mauro, and Giorgio Cattaneo。*The Naked Bible*。Uno,2022。
 
-### Egyptological sources (Akhenaten question)
+### 埃及學資料(阿肯那頓問題)
 
-Aldred, Cyril. *Akhenaten: King of Egypt*. Thames & Hudson, 1988.
+Aldred, Cyril。*Akhenaten: King of Egypt*。Thames & Hudson,1988。
 
-Redford, Donald B. *Akhenaten: The Heretic King*. Princeton University Press, 1984.
+Redford, Donald B.。*Akhenaten: The Heretic King*。Princeton University Press,1984。
 
-Hornung, Erik. *Akhenaten and the Religion of Light*. Cornell University Press, 1999.
+Hornung, Erik。*Akhenaten and the Religion of Light*。Cornell University Press,1999。
 
-### Web resources
+### 網路資源
 
-Wheel of Heaven Project. <https://www.wheelofheaven.world>. The principal project web platform.
+天輪專案。<https://www.wheelofheaven.world>。本專案主要的網路平台。
 
-Wheel of Heaven GitHub. <https://github.com/wheelofheaven/>. The principal technical infrastructure repository.
+天輪 GitHub。<https://github.com/wheelofheaven/>。本專案主要的技術基礎建設儲存庫。
+

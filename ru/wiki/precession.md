@@ -1,368 +1,413 @@
 +++
 title = "Прецессия"
-description = "Прецессия равноденствий — медленное вращательное движение земной оси, наблюдаемое со времён Гиппарха, период которого составляет около 25 920 лет. В корпусе Wheel of Heaven она представляет космические часы, структурирующие хронологию эпох мира."
+slug = "precession"
+description = "Прецессия — устойчивое циклическое изменение ориентации оси вращения Земли, прослеживаемое как медленное круговое движение небесных полюсов на фоне неподвижных звёзд. Будучи третьим из трёх главных движений Земли (после суточного вращения и годового обращения), прецессия завершает один полный цикл приблизительно за 25 772 года по современным астрономическим измерениям или за 25 920 лет по астрологической традиционной системе счёта, которая даёт чистое деление на двенадцать прецессионных эпох по 2 160 лет каждая. Явление было впервые эмпирически выявлено греческим астрономом Гиппархом Родосским приблизительно в 129–127 годах до н. э., который сопоставил свои собственные позиционные измерения звёзд с измерениями Тимохариса, выполненными около 283 года до н. э., и распознал, что небесные долготы систематически сместились относительно точек равноденствия. Ньютоновское механическое объяснение прецессии как гравитационного крутящего момента, оказываемого Солнцем и Луной на экваториальное вздутие Земли, было разработано самим Ньютоном в «Началах» (1687). Фреймворк Wheel of Heaven читает прецессию не просто как астрономическое явление, но как основополагающую хронологическую инфраструктуру для более широкой интерпретационной работы корпуса: прецессионные эпохи задают временно́й каркас, в пределах которого корпус датирует главные события проекта Элохим (Эпоха Льва — синтез человека, Эпоха Тельца — шумерская и египетская цивилизации, Эпоха Овна — еврейский пророческий период, Эпоха Рыб — христианская эра, Эпоха Водолея — современное восстановление), а кросс-культурное мифологическое сохранение прецессионного содержания (развёрнутое в работе Сантильяны и фон Дехенд «Мельница Гамлета», 1969) трактуется как свидетельство догиппарховой передачи этого астрономического знания через более широкий источниковедческий материал, с которым работает корпус."
 template = "wiki-page.html"
 toc = true
 
 [extra]
-translation_status = "metadata_only"
-redirect_to = { title = "World Age", path = "/wiki/world-age/" }
-category = "Cosmic Chronology"
+featured_order = 5
+redirect_to = { title = "Эпоха мира", path = "/wiki/world-age/" }
+category = "Космическая хронология"
 editorial_pass = "2026-05"
 entry_type = "concept"
 claim_type = "inferred"
-alternative_names = ["Precession of the equinoxes", "Axial precession", "Lunisolar precession (the principal component)", "Greek προήγησις (proēgēsis, \"a leading forth\")"]
+alternative_names = ["Прецессия равноденствий", "Осевая прецессия", "Лунно-солнечная прецессия (главная составляющая)", "Греческое προήγησις (proēgēsis, «движение вперёд»)"]
+see_also = [
+    { title = "Великий год", path = "wiki/great-year", description = "Полный цикл прецессии длительностью ~26 000 лет." },
+    { title = "Великий месяц", path = "wiki/great-month", description = "Одна двенадцатая Великого года — продолжительность одной эпохи." },
+    { title = "Эпоха мира", path = "wiki/world-age", description = "Прецессионная эпоха, рассматриваемая как глава человеческой истории." },
+    { title = "Зодиак", path = "wiki/zodiac", description = "Пояс созвездий, относительно которого измеряется прецессия." },
+    { title = "Археоастрономия", path = "wiki/archaeoastronomy", description = "Дисциплина, прочитывающая древние монументы по прецессионным часам." },
+]
+
+footnotes = [
+    { content = "Современное значение приблизительно 50,29 угловых секунд в год — это *общая прецессия по долготе* в стандартной эпохе J2000.0, как она задана в модели прецессии IAU 2006 и табулирована в «Astronomical Algorithms» Меуса. Соответствующий полный период приблизительно в 25 772 года выводится из этой скорости. Цифра астрологической традиции 25 920 лет (с чистым делением на 2 160 лет на двенадцать эпох) — это удобство округления, упрощающее арифметику ценой небольшого расхождения с измеренной скоростью; две цифры отличаются примерно на 0,6 %, что вполне укладывается в диапазон вариаций, порождаемых другими методологическими решениями о границах эпох." },
+    { content = "Лунно-солнечная составляющая (Солнце и Луна, действующие на экваториальное вздутие) и планетарная составляющая (главным образом Юпитер и Венера) вместе производят *общую прецессию*. Конвенциональное разложение даёт Луне примерно две трети лунно-солнечного эффекта, а Солнцу — примерно одну треть, что отражает близость Луны несмотря на её существенно меньшую массу. Планетарный вклад действует преимущественно на плоскость орбиты, а не на ось вращения, поэтому его включение в суммарную прецессию отражает совокупное воздействие на положение точки равноденствия, а не непосредственный крутящий момент на экваториальное вздутие." },
+    { content = "Значение Гиппарха в приблизительно 36 угловых секунд в год (один градус за столетие) — это нижняя граница, как он сам отмечал; современное значение 50,29 угловых секунд в год примерно на 40 % больше. Измерение Спики, на которое опирался Гиппарх — Тимохарис в 8° к западу от осеннего равноденствия около 283 года до н. э., Гиппарх в 6° около 129 года до н. э., — даёт скорость непосредственно из сдвига в 2° за 154 года. Птолемей сохранил более низкую цифру Гиппарха, и возникший календарный дрейф стал одной из унаследованных ошибок, которые средневековые исламские астрономы (особенно ал-Баттани) впоследствии исправили." },
+    { content = "Выравнивание пирамид Древнего царства Египта на Тубан — хорошо установленный результат в магистральной археоастрономии: так называемые *звёздные шахты* Великой пирамиды в Гизе, согласно стандартной реконструкции, указывают на положения, которые Тубан (тогда находившийся в пределах ~0,1° от небесного полюса) и несколько других звёзд занимали в период строительства. Выравнивание согласуется с конвенциональной датировкой IV династии и само по себе не требует догиппархова теоретического знания прецессии — наблюдательного нацеливания на современную полярную звезду достаточно. Тезис «Мельницы Гамлета» идёт существенно дальше этого наблюдательного утверждения." },
+    { content = "Длина эпохи в 2 160 лет — это конвенция астрологической традиции (25 920 / 12), а не измеренный астрономический интервал. По современной скорости одна двенадцатая цикла составляет приблизительно 2 148 лет; границы созвездий по определению IAU 1930 года дают эпохи неравной длины, причём Дева охватывает приблизительно 45° эклиптики, а Рак — приблизительно 20°. Принятая корпусом система счёта трактует эпохи как равные периоды в 2 160 лет ради хронологического удобства и трактует пограничные даты как приблизительные с точностью примерно ±200 лет." },
+    { content = "Нынешнее выравнивание Полярной звезды необычайно близкое по сравнению с остальной частью прецессионного цикла: Полярная находится в пределах приблизительно 0,7° от небесного полюса сейчас, с ближайшим прохождением около 2102 года н. э. на расстоянии приблизительно 0,45°. На бо́льшей части цикла никакая сравнимо яркая звезда не находится в пределах градуса от полюса. Предыдущее ближайшее прохождение Тубана (~2 800 г. до н. э.) достигало приблизительно 0,1°, ближе, чем когда-либо подойдёт Полярная, но Тубан существенно тусклее. Ближайшее прохождение Веги (~13 727 г. н. э.) ярче любой нынешней конфигурации полярной звезды, но приблизительно в 5° от полюса — гораздо большее угловое расстояние, чем то, что сейчас занимает Полярная." },
+]
+
+[[extra.references]]
+id = "astronomical-algorithms"
+note = "Меус, *Astronomical Algorithms* — стандартный справочник для современной скорости прецессии (~50,29 угловых секунд/год) и периода ~25 772 года."
+
+[[extra.references]]
+id = "hamlets-mill"
+note = "Сантильяна и фон Дехенд, *Hamlet's Mill: An Essay on Myth and the Frame of Time* (Gambit, 1969) — основополагающее научное обращение к тезису о том, что догиппархова глобальная мифология систематически кодирует прецессионное астрономическое содержание."
+
+[[extra.references]]
+id = "the-bible-is-not-a-sacred-book"
+note = "Бильино, *Il libro che cambierà per sempre le nostre idee sulla Bibbia* (2011) — источник прочтения Бильино о прецессии как возможной навигационной инфраструктуре для Элохим/Ануннаков."
+
+[[extra.references]]
+id = "the-gospels-in-the-stars"
+note = "Сейсс, *The Gospel in the Stars* — трактовка XIX века зодиакально-христианского символического соответствия (Рыбы / ихтис)."
+
+[[extra.references]]
+id = "mazzaroth-rolleston"
+note = "Роллстон, *Mazzaroth; or, The Constellations* — главный викторианский источник еврейско-зодиакальной интерпретационной традиции."
+
+[[extra.references]]
+id = "mazzaroth-dot-com"
+note = "Онлайн-компендиум *Mazzaroth* — современная агрегация зодиакально-библейской интерпретационной традиции."
+
+[[extra.references]]
+id = "the-book-which-tells-the-truth"
+note = "Ворильон (Раэль), *Книга, говорящая правду* (1974) — первичный раэлианский источник для хронологического каркаса корпуса, закрепляемого прецессионными эпохами."
 
 [extra.infobox]
-type = "Cyclical change in the orientation of Earth's rotational axis; the third principal Earth motion"
-period = "Approximately 25,772 years for one complete cycle (modern astronomical measurement); 25,920 years in the astrological-tradition reckoning (12 × 2,160-year Ages)"
-rate = "Approximately 50.29 arcseconds per year (modern); 1° every approximately 71.6 years; 30° (one zodiacal sign) every approximately 2,150 years"
-cause = "Gravitational torque exerted by the Sun and Moon on Earth's equatorial bulge (the lunisolar component, ~96% of the effect); smaller contributions from the gravitational influence of the planets (planetary precession)"
-historical_discovery = "Hipparchus of Rhodes (c. 190 – c. 120 BCE), approximately 129–127 BCE; based on comparison of his star catalogue against the earlier measurements of Timocharis of Alexandria (c. 320 – c. 260 BCE)"
-modern_mechanical_explanation = "Isaac Newton, *Philosophiæ Naturalis Principia Mathematica* (1687), Book III, Propositions XXXIX-XLI"
-related_phenomena = "Axial obliquity variation (~41,000-year cycle, the second principal Milankovitch cycle); orbital eccentricity variation (~100,000-year cycle, the third principal Milankovitch cycle); the broader Milankovitch theory of long-term climate forcing"
-current_north_pole_star = "Polaris (α Ursae Minoris), currently within ~0.7° of the celestial north pole; closest approach in approximately 2102 CE; subsequently moving away"
-next_principal_north_pole_star = "Vega (α Lyrae), closest approach approximately 13,727 CE; Thuban (α Draconis) was the principal pole star approximately 2,800 BCE; the sequence is cyclical across the 25,772-year period"
-zodiacal_division = "Twelve equal Ages of 30° each (approximately 2,150-2,160 years per Age) constitute one full precessional cycle"
-framework_significance = "Foundational chronological infrastructure for the Wheel of Heaven corpus; the precessional Ages provide the temporal framework within which the corpus dates the principal events of the Elohim project and the broader prophetic record"
-key_external_references = "Santillana, Giorgio de, and Hertha von Dechend. *Hamlet's Mill: An Essay on Myth and the Frame of Time*. Gambit, 1969. — The foundational scholarly engagement with the thesis that pre-Hipparchian global mythology systematically encodes precessional astronomical content."
+type = "Циклическое изменение ориентации оси вращения Земли; третье из главных движений Земли"
+period = "Приблизительно 25 772 года для одного полного цикла (современное астрономическое измерение); 25 920 лет в системе счёта астрологической традиции (12 × эпохи по 2 160 лет)"
+rate = "Приблизительно 50,29 угловых секунд в год (современное); 1° каждые приблизительно 71,6 года; 30° (один зодиакальный знак) каждые приблизительно 2 150 лет"
+cause = "Гравитационный крутящий момент, оказываемый Солнцем и Луной на экваториальное вздутие Земли (лунно-солнечная составляющая, ~96 % эффекта); меньшие вклады от гравитационного воздействия планет (планетарная прецессия)"
+historical_discovery = "Гиппарх Родосский (ок. 190 — ок. 120 гг. до н. э.), приблизительно 129–127 гг. до н. э.; на основании сопоставления его звёздного каталога с более ранними измерениями Тимохариса Александрийского (ок. 320 — ок. 260 гг. до н. э.)"
+modern_mechanical_explanation = "Исаак Ньютон, *Philosophiæ Naturalis Principia Mathematica* (1687), книга III, предложения XXXIX–XLI"
+related_phenomena = "Вариация осевой наклонности (~41 000-летний цикл, второй главный цикл Миланковича); вариация эксцентриситета орбиты (~100 000-летний цикл, третий главный цикл Миланковича); более широкая теория Миланковича о долговременном климатическом форсинге"
+current_north_pole_star = "Полярная (α Малой Медведицы), сейчас в пределах ~0,7° от северного небесного полюса; ближайшее прохождение приблизительно в 2102 году н. э.; затем удаление"
+next_principal_north_pole_star = "Вега (α Лиры), ближайшее прохождение приблизительно в 13 727 году н. э.; Тубан (α Дракона) был главной полярной звездой приблизительно в 2 800 г. до н. э.; последовательность цикличная в пределах периода 25 772 года"
+zodiacal_division = "Двенадцать равных эпох по 30° каждая (приблизительно 2 150–2 160 лет на эпоху) составляют один полный прецессионный цикл"
+framework_significance = "Основополагающая хронологическая инфраструктура корпуса Wheel of Heaven; прецессионные эпохи задают временно́й каркас, в пределах которого корпус датирует главные события проекта Элохим и более широкую пророческую запись"
+key_external_references = "Santillana, Giorgio de, and Hertha von Dechend. *Hamlet's Mill: An Essay on Myth and the Frame of Time*. Gambit, 1969. — Основополагающее научное обращение к тезису о том, что догиппархова глобальная мифология систематически кодирует прецессионное астрономическое содержание."
 +++
 
-**Precession** — formally **axial precession** or **precession of the equinoxes** — is the steady cyclical change in the orientation of Earth's rotational axis, traced as a slow circular motion of the celestial poles against the background of fixed stars and as a corresponding shift in the position of the equinoxes along the ecliptic. It is the **third of the three principal Earth motions**, alongside the daily rotation around the planetary axis (producing the day-night cycle) and the annual revolution around the Sun (producing the year cycle). The precessional cycle completes one full revolution in approximately **25,772 years** on modern astronomical measurement, or **25,920 years** on the astrological-tradition reckoning that produces the clean division into twelve precessional **Ages** of 2,160 years each. The rate is approximately **50.29 arcseconds per year**, equivalent to one degree of arc every approximately 71.6 years or one full zodiacal sign (30°) every approximately 2,150 years.
+**Прецессия** — формально **осевая прецессия** или **прецессия равноденствий** — это устойчивое циклическое изменение ориентации оси вращения Земли, прослеживаемое как медленное круговое движение небесных полюсов на фоне неподвижных звёзд и как соответствующий сдвиг положения равноденствий вдоль эклиптики. Это **третье из трёх главных движений Земли**, наряду с суточным вращением вокруг планетарной оси (порождающим цикл день—ночь) и годовым обращением вокруг Солнца (порождающим цикл года). Прецессионный цикл завершает один полный оборот приблизительно за **25 772 года** по современным астрономическим измерениям или за **25 920 лет** по астрологической традиционной системе счёта, которая даёт чистое деление на двенадцать прецессионных **эпох** по 2 160 лет каждая. Скорость составляет приблизительно **50,29 угловых секунд в год**, что эквивалентно одному градусу дуги каждые приблизительно 71,6 года или одному полному зодиакальному знаку (30°) каждые приблизительно 2 150 лет.{{ cite(id="astronomical-algorithms", text="[1]", title="Меус, *Astronomical Algorithms* — стандартный справочник для современной скорости прецессии и периода") }}{{ footnote(id="1") }}
 
-The phenomenon was first identified empirically by the Greek astronomer **Hipparchus of Rhodes** (c. 190 – c. 120 BCE) in approximately 129–127 BCE, who compared his own positional measurements of the bright stars against the earlier measurements of **Timocharis of Alexandria** from approximately 283 BCE and noticed that the longitudes of the stars had shifted by approximately 2° relative to the equinox points across the intervening 150 years. Hipparchus's discovery established precession as a recognised astronomical phenomenon and provided the foundation for all subsequent astronomical work on the topic. The **Newtonian mechanical explanation** of precession as the gravitational torque exerted by the Sun and Moon on Earth's equatorial bulge was developed by Isaac Newton himself in the *Philosophiæ Naturalis Principia Mathematica* (1687), Book III, completing the transition from observational identification to causal physical explanation.
+Явление было впервые эмпирически выявлено греческим астрономом **Гиппархом Родосским** (ок. 190 — ок. 120 гг. до н. э.) приблизительно в 129–127 годах до н. э., который сопоставил свои собственные позиционные измерения ярких звёзд с более ранними измерениями **Тимохариса Александрийского** примерно от 283 года до н. э. и заметил, что долготы звёзд сместились приблизительно на 2° относительно точек равноденствия за прошедшие 150 лет. Открытие Гиппархом прецессии утвердило её как признанное астрономическое явление и заложило основу для всей последующей астрономической работы по этой теме. **Ньютоновское механическое объяснение** прецессии как гравитационного крутящего момента, оказываемого Солнцем и Луной на экваториальное вздутие Земли, было разработано самим Исааком Ньютоном в *Philosophiæ Naturalis Principia Mathematica* (1687), книга III, что завершило переход от наблюдательного выявления к причинно-физическому объяснению.
 
-The Wheel of Heaven framework reads precession not merely as an astronomical phenomenon but as **foundational chronological infrastructure** for the corpus's broader interpretive work. The precessional **Ages** provide the temporal framework within which the corpus dates the principal events of the Elohim project: the **Age of Virgo** (c. 15,330 – 13,170 BCE) for the *yom* 5 phase of Genesis 1; the **Age of Leo** (c. 13,170 – 11,010 BCE) for the *yom* 6 human-synthesis phase; the **Age of Cancer** (c. 11,010 – 8,850 BCE) for the post-deluge reorganisation; the **Age of Gemini** (c. 8,850 – 6,690 BCE) for the early Neolithic population developments; the **Age of Taurus** (c. 6,690 – 4,530 BCE) for the Sumerian, Egyptian, and broader bronze-age civilisations; the **Age of Aries** (c. 4,530 – 2,370 BCE, with the principal Hebrew prophetic events concentrated in the middle-to-late portion); the **Age of Pisces** (c. 1 CE – 2,160 CE) for the Christian era; the **Age of Aquarius** (c. 2,160 CE forward) for the contemporary recovery period. The cross-cultural mythological preservation of precessional content — developed substantively in **Giorgio de Santillana and Hertha von Dechend's *Hamlet's Mill: An Essay on Myth and the Frame of Time*** (Gambit, 1969) — is treated by the framework as evidence for the pre-Hipparchian transmission of precessional astronomical knowledge through the broader source-tradition material that the corpus engages.
+Фреймворк {% wiki(slug="wheel-of-heaven") %}Wheel of Heaven{% end %} читает прецессию не просто как астрономическое явление, но как **основополагающую хронологическую инфраструктуру** для более широкой интерпретационной работы корпуса. Прецессионные **эпохи** задают временно́й каркас, в пределах которого корпус датирует главные события проекта {% wiki(slug="elohim") %}Элохим{% end %}: **Эпоха Девы** (ок. 15 330 — 13 170 гг. до н. э.) для фазы *йом* 5 из Бытия 1; **Эпоха Льва** (ок. 13 170 — 11 010 гг. до н. э.) для фазы синтеза человека *йом* 6; **Эпоха Рака** (ок. 11 010 — 8 850 гг. до н. э.) для послепотопной реорганизации; **Эпоха Близнецов** (ок. 8 850 — 6 690 гг. до н. э.) для ранненеолитических демографических процессов; **Эпоха Тельца** (ок. 6 690 — 4 530 гг. до н. э.) для шумерской, египетской и более широкой бронзовой цивилизации; **Эпоха Овна** (ок. 4 530 — 2 370 гг. до н. э., с главными еврейскими пророческими событиями, сосредоточенными в средней и поздней части); **Эпоха Рыб** (ок. 1 г. н. э. — 2 160 г. н. э.) для христианской эры; **Эпоха Водолея** (ок. 2 160 г. н. э. и далее) для современного периода восстановления. Кросс-культурное мифологическое сохранение прецессионного содержания — содержательно развёрнутое в **«Мельнице Гамлета: Эссе о мифе и о каркасе времени» Джорджо де Сантильяны и Херты фон Дехенд** (Gambit, 1969){{ cite(id="hamlets-mill", text="[2]", title="Сантильяна и фон Дехенд, *Hamlet's Mill* (1969) — основополагающий тезис о догиппарховом мифологическом кодировании прецессии") }} — трактуется фреймворком как свидетельство догиппарховой передачи прецессионного астрономического знания через более широкий источниковедческий материал, с которым работает корпус.
 
-## The astronomical phenomenon
+## Астрономическое явление
 
-The mainstream astronomical understanding of precession is well-established and provides the empirical foundation on which the framework's interpretive work depends. The corpus's broader reading does not contest the mainstream astronomical content; the substantive framework moves concern the historical-mythological and chronological-interpretive significance of the phenomenon rather than the astronomy itself.
+Магистральное астрономическое понимание прецессии хорошо установлено и обеспечивает эмпирическую основу, на которой держится интерпретационная работа фреймворка. Более широкое прочтение корпуса не оспаривает магистральное астрономическое содержание; содержательные ходы фреймворка касаются историко-мифологического и хронологически-интерпретационного значения явления, а не самой астрономии.
 
-### Cause: the lunisolar gravitational torque
+### Причина: лунно-солнечный гравитационный крутящий момент
 
-The principal physical cause of axial precession is the **gravitational torque** exerted by the Sun and Moon on the Earth's **equatorial bulge**. The Earth is not a perfect sphere but an **oblate spheroid**: the equatorial diameter (approximately 12,756 km) exceeds the polar diameter (approximately 12,714 km) by about 43 km, with the excess concentrated as an equatorial bulge resulting from the centrifugal force of the planetary rotation. The Earth's rotational axis is tilted approximately 23.4° relative to the orbital plane (the **ecliptic**), so the gravitational pull of the Sun and Moon on the equatorial bulge acts at an angle to the rotational axis, producing a **torque** that attempts to align the axis with the perpendicular to the ecliptic.
+Главная физическая причина осевой прецессии — **гравитационный крутящий момент**, оказываемый Солнцем и Луной на **экваториальное вздутие** Земли. Земля — не идеальная сфера, а **сплюснутый сфероид**: экваториальный диаметр (приблизительно 12 756 км) превышает полярный диаметр (приблизительно 12 714 км) примерно на 43 км, причём избыток сосредоточен как экваториальное вздутие, возникающее из центробежной силы планетарного вращения. Ось вращения Земли наклонена приблизительно на 23,4° относительно плоскости орбиты (**эклиптики**), так что гравитационное притяжение Солнца и Луны к экваториальному вздутию действует под углом к оси вращения, производя **крутящий момент**, который стремится выровнять ось с перпендикуляром к эклиптике.
 
-The Earth's rotational angular momentum, however, resists the direct realignment that the torque would produce in a non-rotating body. The combination of the rotational angular momentum and the gravitational torque produces the characteristic **precessional motion** — the axis tracing out a cone over the precessional period of approximately 25,772 years, similar to the wobble of a spinning top whose axis is not perfectly vertical. The motion is approximately analogous to gyroscopic precession in mechanical systems.
+Однако вращательный момент импульса Земли сопротивляется прямому выравниванию, которое произвёл бы крутящий момент во вращающемся теле. Сочетание вращательного момента импульса и гравитационного крутящего момента производит характерное **прецессионное движение** — ось описывает конус за прецессионный период приблизительно в 25 772 года, подобно колебанию волчка, ось которого не идеально вертикальна. Движение приблизительно аналогично гироскопической прецессии в механических системах.
 
-The **lunisolar component** — the combined gravitational torque of the Moon and Sun — accounts for approximately 96% of the precessional motion. The **planetary component** — the smaller gravitational influence of the other planets, principally Jupiter and Venus — produces an additional approximately 4% of the precessional motion. The total annual rate of precession (the **general precession**) is approximately 50.29 arcseconds per year as measured in the contemporary epoch.
+**Лунно-солнечная составляющая** — совокупный гравитационный крутящий момент Луны и Солнца — отвечает приблизительно за 96 % прецессионного движения. **Планетарная составляющая** — меньшее гравитационное воздействие других планет, главным образом Юпитера и Венеры, — производит дополнительные приблизительно 4 % прецессионного движения. Полная годовая скорость прецессии (**общая прецессия**) составляет приблизительно 50,29 угловых секунд в год по измерениям в нынешнюю эпоху.{{ footnote(id="2") }}
 
-### Distinction from related phenomena
+### Отличие от смежных явлений
 
-Precession should be carefully distinguished from several related but distinct cyclical phenomena affecting Earth:
+Прецессию следует тщательно отличать от нескольких смежных, но различных циклических явлений, влияющих на Землю:
 
-- **Axial obliquity variation** (sometimes confused with precession in popular treatments): the variation in the *magnitude* of the Earth's axial tilt across approximately 22.1° to 24.5°, with a cycle period of approximately **41,000 years**. The current axial tilt is approximately 23.44° and is slowly decreasing. The obliquity variation is one of the three principal **Milankovitch cycles** that drive long-term climate variation.
-- **Orbital eccentricity variation**: the variation in the *shape* of the Earth's orbit, from nearly circular (eccentricity approximately 0.005) to more elliptical (eccentricity approximately 0.058), with cycle periods of approximately **100,000 and 405,000 years**. The current eccentricity is approximately 0.0167. This is the second of the three principal Milankovitch cycles.
-- **Apsidal precession** (or precession of the orbit): the slow rotation of the orbital ellipse itself, distinct from the axial precession. The combination of axial precession and apsidal precession produces the **climatic precession** cycle of approximately **23,000 years** that is the third principal Milankovitch cycle.
-- **Nutation**: a smaller-amplitude wobble superimposed on the main precessional motion, with a principal period of approximately **18.6 years** corresponding to the regression of the Moon's orbital nodes. Nutation produces oscillations of approximately ±9 arcseconds in the celestial coordinates.
+- **Вариация осевой наклонности** (иногда смешиваемая с прецессией в популярных изложениях): изменение *величины* осевого наклона Земли в диапазоне приблизительно от 22,1° до 24,5° с периодом цикла приблизительно **41 000 лет**. Нынешний осевой наклон составляет приблизительно 23,44° и медленно уменьшается. Вариация наклонности — один из трёх главных **циклов Миланковича**, движущих долговременной климатической вариацией.
+- **Вариация эксцентриситета орбиты**: изменение *формы* земной орбиты от почти круговой (эксцентриситет приблизительно 0,005) до более эллиптической (эксцентриситет приблизительно 0,058) с периодами цикла приблизительно **100 000 и 405 000 лет**. Нынешний эксцентриситет составляет приблизительно 0,0167. Это второй из трёх главных циклов Миланковича.
+- **Апсидальная прецессия** (или прецессия орбиты): медленное вращение самого орбитального эллипса, отличное от осевой прецессии. Сочетание осевой и апсидальной прецессии производит цикл **климатической прецессии** приблизительно в **23 000 лет**, который является третьим главным циклом Миланковича.
+- **Нутация**: колебание меньшей амплитуды, накладывающееся на основное прецессионное движение, с главным периодом приблизительно **18,6 года**, соответствующим регрессии узлов орбиты Луны. Нутация производит колебания приблизительно в ±9 угловых секунд в небесных координатах.
 
-The principal practical consequence of these distinct cycles is that the Earth's orientation in space changes on multiple coupled timescales. The dominant cycle for cultural-historical purposes is the ~25,772-year axial precession; the slower obliquity and eccentricity cycles produce the major glacial-interglacial climate variations of the Pleistocene.
+Главное практическое следствие этих различных циклов состоит в том, что ориентация Земли в пространстве меняется на нескольких связанных временны́х масштабах. Доминирующий цикл для культурно-исторических целей — это осевая прецессия в ~25 772 года; более медленные циклы наклонности и эксцентриситета производят крупные ледниково-межледниковые климатические вариации плейстоцена.
 
-### Empirical signatures of precession
+### Эмпирические признаки прецессии
 
-The principal empirical signatures of axial precession are:
+Главные эмпирические признаки осевой прецессии:
 
-- **The shift of the equinoxes** along the ecliptic. The vernal equinox point — the position of the Sun against the fixed-star background on the spring equinox — moves westward along the ecliptic at the precessional rate, traversing the entire 360° of the ecliptic across one precessional cycle.
-- **The change in the celestial pole position**. The celestial north and south poles — the points where the rotational axis extended meets the celestial sphere — trace out small circles (approximately 23.4° in radius) against the fixed-star background across the precessional period. The current North Pole star is **Polaris** (α Ursae Minoris, ~0.7° from the celestial north pole); the South Pole has no comparably bright star within reasonable proximity.
-- **The shift in the rising and setting positions** of stars and constellations on the horizon at specific seasonal markers. The cumulative shift is sufficient to substantially alter the appearance of the seasonal night sky across periods of 1,000-2,000 years.
-- **The difference between the tropical and sidereal years**. The **tropical year** (the time for the Sun to return to the same equinox or solstice) is approximately 365.2422 days; the **sidereal year** (the time for the Sun to return to the same position relative to the fixed stars) is approximately 365.2564 days; the difference of approximately 20 minutes per year is the cumulative effect of precession.
+- **Сдвиг равноденствий** вдоль эклиптики. Точка весеннего равноденствия — положение Солнца на фоне неподвижных звёзд в день весеннего равноденствия — движется на запад по эклиптике со скоростью прецессии, проходя все 360° эклиптики за один прецессионный цикл.
+- **Изменение положения небесного полюса**. Северный и южный небесные полюсы — точки, где продолженная ось вращения встречается с небесной сферой, — описывают малые круги (приблизительно 23,4° в радиусе) на фоне неподвижных звёзд за прецессионный период. Нынешняя Северная Полярная звезда — **Полярная** (α Малой Медведицы, ~0,7° от северного небесного полюса); Южный полюс не имеет сравнимо яркой звезды в разумной близости.{{ footnote(id="6") }}
+- **Сдвиг положений восхода и захода** звёзд и созвездий на горизонте на конкретных сезонных метках. Накопленный сдвиг достаточен, чтобы существенно изменить вид сезонного ночного неба за периоды 1 000–2 000 лет.
+- **Различие между тропическим и сидерическим годами**. **Тропический год** (время, за которое Солнце возвращается к тому же равноденствию или солнцестоянию) составляет приблизительно 365,2422 дня; **сидерический год** (время, за которое Солнце возвращается к тому же положению относительно неподвижных звёзд) составляет приблизительно 365,2564 дня; разница приблизительно в 20 минут в год — это накопленный эффект прецессии.
 
-### The North Pole star sequence
+### Последовательность Северных Полярных звёзд
 
-The slow motion of the celestial north pole produces a sequence of stars that successively serve as approximate North Pole stars across the precessional cycle. The principal sequence:
+Медленное движение северного небесного полюса производит последовательность звёзд, которые поочерёдно служат приблизительными Северными Полярными звёздами на протяжении прецессионного цикла. Главная последовательность:
 
-- **Thuban** (α Draconis) — the principal North Pole star approximately **2,800 BCE**, within ~0.1° of the celestial pole at its closest approach. The Egyptian pyramid-builders of the Fourth Dynasty (c. 2,600–2,500 BCE) aligned their pyramid shafts on Thuban as the pole star of that period.
-- **Polaris** (α Ursae Minoris) — the current North Pole star, with closest approach approximately **2102 CE** at approximately 0.45° from the celestial pole.
-- **Errai** (γ Cephei) — will be the closest reasonably bright star to the celestial north pole approximately **4,000 CE**.
-- **Vega** (α Lyrae) — will be the closest principal bright star to the celestial north pole approximately **13,727 CE**, at approximately 5° from the pole. Vega is one of the brightest stars in the sky (apparent magnitude 0.03), and its closest approach will produce the most prominent pole-star configuration of the precessional cycle.
-- **Thuban** (α Draconis) — returns as the pole star approximately **22,800 CE**, completing one precessional cycle from its previous closest approach.
+- **Тубан** (α Дракона) — главная Северная Полярная звезда приблизительно **2 800 г. до н. э.**, в пределах ~0,1° от небесного полюса в момент ближайшего прохождения. Строители египетских пирамид IV династии (ок. 2 600–2 500 гг. до н. э.) выравнивали шахты своих пирамид на Тубан как полярную звезду того периода.{{ footnote(id="4") }}
+- **Полярная** (α Малой Медведицы) — нынешняя Северная Полярная звезда, с ближайшим прохождением приблизительно в **2102 году н. э.** на расстоянии приблизительно 0,45° от небесного полюса.
+- **Эррай** (γ Цефея) — будет ближайшей разумно яркой звездой к северному небесному полюсу приблизительно в **4 000 году н. э.**
+- **Вега** (α Лиры) — будет ближайшей главной яркой звездой к северному небесному полюсу приблизительно в **13 727 году н. э.**, на расстоянии приблизительно 5° от полюса. Вега — одна из самых ярких звёзд неба (видимая звёздная величина 0,03), и её ближайшее прохождение произведёт самую заметную конфигурацию полярной звезды в прецессионном цикле.
+- **Тубан** (α Дракона) — возвращается как полярная звезда приблизительно в **22 800 году н. э.**, завершая один прецессионный цикл от своего предыдущего ближайшего прохождения.
 
-The sequence is cyclical: the precessional motion returns the celestial pole to each of these stars in turn across the ~25,772-year period.
+Последовательность цикличная: прецессионное движение возвращает небесный полюс к каждой из этих звёзд по очереди в пределах периода ~25 772 года.
 
-## History of the concept
+## История концепции
 
-The astronomical history of precession is one of the most substantively significant single chapters in the history of pre-modern science, with the discovery itself among the most important empirical observations of antiquity. The framework's broader reading of precession depends on the historical record both for the mainstream-scientific identification and for the broader question of pre-Hipparchian transmission.
+Астрономическая история прецессии — одна из наиболее содержательно значимых отдельных глав в истории домодерной науки, причём само открытие — среди важнейших эмпирических наблюдений древности. Более широкое прочтение прецессии в фреймворке зависит от исторической записи как для магистрально-научного выявления, так и для более широкого вопроса о догиппарховой передаче.
 
-### Pre-Hipparchian period
+### Догиппархов период
 
-The mainstream scholarly consensus is that **Babylonian astronomy** — the most sophisticated pre-Greek astronomical tradition, with continuous records of celestial observations extending from approximately the 8th century BCE onward — did not explicitly identify precession as a distinct astronomical phenomenon. The Babylonian record includes substantial positional measurements of the bright stars (the **MUL.APIN** astronomical compendium, c. 1000-700 BCE, includes lists of stars and their seasonal risings and settings) that, in retrospect, contain evidence of precessional effects, but the Babylonian astronomers themselves do not appear to have recognised the systematic shift as a distinct phenomenon.
+Магистральный научный консенсус состоит в том, что **вавилонская астрономия** — самая изощрённая догреческая астрономическая традиция, с непрерывными записями небесных наблюдений, простирающимися приблизительно с VIII века до н. э. и далее, — не выявляла прецессии как отдельного астрономического явления эксплицитно. Вавилонская запись включает существенные позиционные измерения ярких звёзд (астрономический компендиум **MUL.APIN**, ок. 1000–700 гг. до н. э., включает списки звёзд и их сезонные восходы и заходы), которые ретроспективно содержат свидетельства прецессионных эффектов, но сами вавилонские астрономы, по-видимому, не распознавали систематический сдвиг как отдельное явление.
 
-Earlier Egyptian astronomical tradition — particularly the temple alignments of the Old and Middle Kingdoms — does show evidence of awareness of stellar shifts across long periods, but again without explicit identification of precession as a distinct phenomenon in the surviving textual sources.
+Более ранняя египетская астрономическая традиция — особенно храмовые выравнивания Древнего и Среднего царств — действительно показывает свидетельства осознания звёздных сдвигов за длительные периоды, но опять же без эксплицитного выявления прецессии как отдельного явления в дошедших до нас текстовых источниках.
 
-The **Vedic astronomical tradition** of the Indian subcontinent — particularly the *Jyotisha* texts of approximately the 1st millennium BCE — contains substantial astronomical content including the *yuga* cycle (the cosmological cycles of approximately 4.32 million years), but the relationship of the *yuga* doctrine to precessional astronomy is genuinely contested: some interpreters read the shorter *yuga* periods (the *manvantaras* and shorter divisions) as corresponding to precessional cycles, others read them as purely cosmological-mythological numbers. The contemporary academic position is that the explicit identification of precession in the Indian astronomical tradition postdates the Greek discovery; the framework's broader reading is open on whether earlier Indian transmission of precessional content occurred.
+**Ведическая астрономическая традиция** Индийского субконтинента — особенно тексты *Джьотиша* приблизительно I тысячелетия до н. э. — содержит существенное астрономическое содержание, включая цикл *юги* (космологические циклы приблизительно по 4,32 миллиона лет), но отношение учения о *юге* к прецессионной астрономии действительно оспариваемо: одни интерпретаторы читают более короткие периоды *юги* (*манвантары* и более короткие подразделения) как соответствующие прецессионным циклам, другие читают их как чисто космологически-мифологические числа. Современная академическая позиция состоит в том, что эксплицитное выявление прецессии в индийской астрономической традиции датируется временем после греческого открытия; более широкое прочтение фреймворка открыто относительно того, произошла ли более ранняя индийская передача прецессионного содержания.
 
-The **Hamlet's Mill thesis** (Santillana and von Dechend 1969) substantively contests this mainstream-academic position, arguing that pre-Hipparchian global mythology systematically encodes precessional astronomical content in mythological-symbolic form. The thesis is treated more fully in the framework section below.
+**Тезис «Мельницы Гамлета»** (Сантильяна и фон Дехенд, 1969){{ cite(id="hamlets-mill", text="[2]", title="Сантильяна и фон Дехенд, *Hamlet's Mill* (1969) — догиппархово мифологическое кодирование прецессии") }} содержательно оспаривает эту магистрально-академическую позицию, утверждая, что догиппархова глобальная мифология систематически кодирует прецессионное астрономическое содержание в мифолого-символической форме. Тезис более полно рассматривается в разделе о фреймворке ниже.
 
-### Hipparchus and the discovery
+### Гиппарх и открытие
 
-The discovery of precession is conventionally attributed to **Hipparchus of Rhodes** (c. 190 – c. 120 BCE), the Greek astronomer who is widely regarded as the greatest astronomical observer of antiquity. Hipparchus worked principally on Rhodes and possibly in Alexandria, with his work surviving primarily through the citations and use made by **Claudius Ptolemy** in the *Almagest* (c. 150 CE).
+Открытие прецессии конвенционально приписывается **Гиппарху Родосскому** (ок. 190 — ок. 120 гг. до н. э.), греческому астроному, которого широко признают величайшим астрономическим наблюдателем древности. Гиппарх работал главным образом на Родосе и, возможно, в Александрии, причём его работа сохранилась преимущественно через цитирования и использование, сделанные **Клавдием Птолемеем** в «Альмагесте» (ок. 150 г. н. э.).
 
-Hipparchus's discovery of precession is generally dated to approximately **129–127 BCE**, in the context of his compilation of a comprehensive star catalogue (completed approximately 129 BCE, containing positions and magnitudes for approximately 850 stars). The principal methodology:
+Открытие Гиппархом прецессии обычно датируется приблизительно **129–127 годами до н. э.**, в контексте его составления исчерпывающего звёздного каталога (завершённого приблизительно в 129 году до н. э., содержащего положения и звёздные величины приблизительно 850 звёзд). Главная методология:
 
-1. Hipparchus measured the celestial longitudes of the bright stars with substantial precision, using the equinox points as reference
-2. He compared his measurements with the earlier measurements of **Timocharis of Alexandria** (c. 320 – c. 260 BCE) and **Aristyllos** (active early 3rd century BCE), made approximately 150 years before Hipparchus's own work
-3. He found that the celestial longitudes of all the stars he checked had shifted by approximately the same amount — **approximately 2°** — relative to the equinox points
-4. Hipparchus correctly inferred that this was not a motion of the stars themselves but a motion of the equinox points relative to the fixed stars
+1. Гиппарх измерил небесные долготы ярких звёзд с существенной точностью, используя точки равноденствия как референс
+2. Он сопоставил свои измерения с более ранними измерениями **Тимохариса Александрийского** (ок. 320 — ок. 260 гг. до н. э.) и **Аристилла** (активен в начале III века до н. э.), сделанными приблизительно за 150 лет до его собственной работы
+3. Он обнаружил, что небесные долготы всех проверенных им звёзд сместились приблизительно на одну и ту же величину — **приблизительно 2°** — относительно точек равноденствия
+4. Гиппарх корректно вывел, что это было движение не самих звёзд, а движение точек равноденствия относительно неподвижных звёзд
 
-The first principal case Hipparchus identified was the bright star **Spica** (α Virginis): Timocharis in approximately 283 BCE had measured Spica at 8° west of the autumnal equinox; Hipparchus measured it at 6° west of the autumnal equinox. The 2° difference across approximately 150 years gave Hipparchus a precessional rate of approximately **1°/century or 36 arcseconds/year** — substantially close to the modern value of approximately 50.29 arcseconds/year. Hipparchus's value was a lower bound; he reasonably concluded that the actual rate might be somewhat higher.
+Первым главным случаем, выявленным Гиппархом, была яркая звезда **Спика** (α Девы): Тимохарис приблизительно в 283 году до н. э. измерил Спику в 8° к западу от осеннего равноденствия; Гиппарх измерил её в 6° к западу от осеннего равноденствия. Разница в 2° за приблизительно 150 лет дала Гиппарху скорость прецессии приблизительно **1°/столетие или 36 угловых секунд/год** — существенно близкую к современному значению приблизительно 50,29 угловых секунд/год. Значение Гиппарха было нижней границей; он обоснованно заключил, что реальная скорость может быть несколько выше.{{ footnote(id="3") }}
 
-Hipparchus wrote two books on precession: **On the Displacement of the Solstitial and Equinoctial Points** and **On the Length of the Year**. Both are lost but are extensively cited in Ptolemy's *Almagest*, which preserves the substantive content of Hipparchus's discovery.
+Гиппарх написал две книги о прецессии: **«О смещении солнцестоятельных и равноденственных точек»** и **«О длине года»**. Обе утрачены, но широко цитируются в «Альмагесте» Птолемея, который сохраняет содержательную часть открытия Гиппарха.
 
-### Ptolemy and the medieval Islamic tradition
+### Птолемей и средневековая исламская традиция
 
-**Claudius Ptolemy** (c. 100 – c. 170 CE), the Alexandrian astronomer whose *Almagest* (Greek *Μαθηματικὴ Σύνταξις*, "Mathematical Synthesis"; the Arabic title *al-Majisṭī* gives the standard English title) became the foundational astronomical text for the subsequent fourteen centuries, substantially adopted Hipparchus's precessional theory but used a precessional rate of **1°/century** (36 arcseconds/year), which was lower than the actual rate and contributed to subsequent astronomical errors in calendars and ephemerides.
+**Клавдий Птолемей** (ок. 100 — ок. 170 гг. н. э.), александрийский астроном, чей «Альмагест» (греч. *Μαθηματικὴ Σύνταξις*, «Математический синтаксис»; арабское название *al-Majisṭī* даёт стандартное русское название) стал основополагающим астрономическим текстом для последующих четырнадцати столетий, существенно перенял прецессионную теорию Гиппарха, но использовал прецессионную скорость **1°/столетие** (36 угловых секунд/год), что было ниже реальной скорости и способствовало последующим астрономическим ошибкам в календарях и эфемеридах.
 
-The medieval **Islamic astronomical tradition** — including such figures as al-Battani (c. 858–929 CE), al-Sufi (903–986 CE), al-Biruni (973–1048 CE), and al-Tusi (1201–1274 CE) — substantially developed precessional astronomy. Al-Battani in particular refined the precessional rate to approximately **54.5 arcseconds/year**, closer to the modern value than Ptolemy's. The medieval Islamic astronomers also developed the concept of **trepidation** (an oscillatory component superimposed on the secular precession), which was ultimately rejected by later astronomy but represented a substantive engagement with the precessional phenomenon.
+Средневековая **исламская астрономическая традиция** — включая таких фигур, как ал-Баттани (ок. 858–929 гг. н. э.), ас-Суфи (903–986 гг. н. э.), ал-Бируни (973–1048 гг. н. э.) и ат-Туси (1201–1274 гг. н. э.), — существенно развила прецессионную астрономию. Ал-Баттани, в частности, уточнил скорость прецессии приблизительно до **54,5 угловых секунд/год**, ближе к современному значению, чем у Птолемея. Средневековые исламские астрономы также разработали концепцию **трепидации** (колебательной составляющей, накладывающейся на вековую прецессию), которая в конечном итоге была отвергнута последующей астрономией, но представляла собой содержательное взаимодействие с прецессионным явлением.
 
-### Newton and the mechanical explanation
+### Ньютон и механическое объяснение
 
-The mechanical explanation of precession as the gravitational torque exerted by the Sun and Moon on the Earth's equatorial bulge was developed by **Isaac Newton** (1643–1727) in the *Philosophiæ Naturalis Principia Mathematica* (1687), Book III, Propositions XXXIX-XLI. Newton's derivation was the first physical explanation of the phenomenon; previous astronomers had observed and characterised precession without offering a causal mechanism. Newton's account established that:
+Механическое объяснение прецессии как гравитационного крутящего момента, оказываемого Солнцем и Луной на экваториальное вздутие Земли, было разработано **Исааком Ньютоном** (1643–1727) в *Philosophiæ Naturalis Principia Mathematica* (1687), книга III, предложения XXXIX–XLI. Вывод Ньютона стал первым физическим объяснением явления; предшествующие астрономы наблюдали и характеризовали прецессию, не предлагая причинного механизма. Изложение Ньютона установило, что:
 
-- The precession is caused by the gravitational torque on the Earth's equatorial bulge
-- The torque is produced by the gravitational attraction of the Sun and Moon acting at an angle to the Earth's rotational axis
-- The precessional period can be calculated from the Earth's moment of inertia and the gravitational parameters
+- Прецессия вызвана гравитационным крутящим моментом на экваториальном вздутии Земли
+- Крутящий момент производится гравитационным притяжением Солнца и Луны, действующим под углом к оси вращения Земли
+- Прецессионный период можно вычислить из момента инерции Земли и гравитационных параметров
 
-Newton's calculation gave a precessional period consistent with the observed value, providing strong empirical confirmation of the broader gravitational theory.
+Расчёт Ньютона дал прецессионный период, согласующийся с наблюдаемым значением, обеспечивая сильное эмпирическое подтверждение более широкой гравитационной теории.
 
-### Subsequent astronomy
+### Последующая астрономия
 
-The subsequent astronomical work on precession through the 18th, 19th, and 20th centuries has principally refined the measurement of the precessional rate, characterised the smaller perturbations (planetary precession, nutation), and integrated the phenomenon into the broader Milankovitch theory of long-term climate variation. The contemporary precessional theory is well-developed and provides the foundation for all astronomical coordinate systems (the **epoch** specification of star catalogues — e.g., J2000.0 — depends on precession).
+Последующая астрономическая работа над прецессией в XVIII, XIX и XX веках главным образом уточняла измерение прецессионной скорости, характеризовала меньшие возмущения (планетарную прецессию, нутацию) и интегрировала явление в более широкую теорию Миланковича о долговременной климатической вариации. Современная прецессионная теория хорошо разработана и обеспечивает основу для всех астрономических систем координат (спецификация **эпохи** в звёздных каталогах — например, J2000.0 — зависит от прецессии).
 
-## The zodiac and the precessional Ages
+## Зодиак и прецессионные эпохи
 
-The zodiac is a band of the sky extending approximately 8° north and south of the ecliptic, conventionally divided into twelve **signs** of 30° each. The signs are named for the constellations that the Sun appears to pass through across the year, though due to precession the contemporary alignment between the signs and the constellations is no longer accurate.
+Зодиак — это полоса неба, простирающаяся приблизительно на 8° к северу и югу от эклиптики, конвенционально разделённая на двенадцать **знаков** по 30° каждый. Знаки названы по созвездиям, через которые Солнце, как кажется, проходит за год, хотя из-за прецессии современное выравнивание между знаками и созвездиями более не точно.
 
-### The Babylonian origin and the Greek systematization
+### Вавилонское происхождение и греческая систематизация
 
-The twelve-fold zodiacal division has substantive antecedents in Babylonian astronomy, with the **MUL.APIN** compendium (c. 1000-700 BCE) including a list of the principal ecliptic constellations. The systematic twelve-sign zodiacal division was established in Babylonia during approximately the 5th century BCE, with substantial astronomical work continuing through the Persian and Hellenistic periods. The Greek adoption and systematization came principally through Hipparchus and subsequently Ptolemy, with the *Tetrabiblos* (Ptolemy's astrological work, distinct from the astronomical *Almagest*) establishing the systematic basis for subsequent Western astrology.
+Двенадцатеричное зодиакальное деление имеет содержательные предтечи в вавилонской астрономии, причём компендиум **MUL.APIN** (ок. 1000–700 гг. до н. э.) включает список главных эклиптических созвездий. Систематическое двенадцатизнаковое зодиакальное деление установилось в Вавилонии приблизительно в V веке до н. э., с существенной астрономической работой, продолжавшейся через персидский и эллинистический периоды. Греческое усвоение и систематизация пришли главным образом через Гиппарха и впоследствии Птолемея, причём «Тетрабиблос» (астрологическая работа Птолемея, отличная от астрономического «Альмагеста») установил систематическую основу для последующей западной астрологии.
 
-The standard zodiacal signs are:
+Стандартные зодиакальные знаки:
 
-- **Aries** (the Ram) — corresponding to the vernal equinox in the tropical zodiac
-- **Taurus** (the Bull)
-- **Gemini** (the Twins)
-- **Cancer** (the Crab)
-- **Leo** (the Lion)
-- **Virgo** (the Virgin)
-- **Libra** (the Scales)
-- **Scorpio** (the Scorpion)
-- **Sagittarius** (the Archer)
-- **Capricorn** (the Goat)
-- **Aquarius** (the Water-bearer)
-- **Pisces** (the Fish)
+- **Овен** (Баран) — соответствует точке весеннего равноденствия в тропическом зодиаке
+- **Телец** (Бык)
+- **Близнецы**
+- **Рак**
+- **Лев**
+- **Дева**
+- **Весы**
+- **Скорпион**
+- **Стрелец** (Лучник)
+- **Козерог** (Козёл)
+- **Водолей** (Водонос)
+- **Рыбы**
 
-### The tropical-sidereal distinction
+### Различие тропического и сидерического зодиаков
 
-A substantively important distinction concerns the relationship between the zodiacal signs and the actual constellations:
+Содержательно важное различие касается отношения между зодиакальными знаками и фактическими созвездиями:
 
-- The **tropical zodiac** (used in standard Western astrology) defines the signs by reference to the vernal equinox point: **0° Aries** is the position of the Sun on the spring equinox, regardless of the actual constellation behind the Sun. The tropical signs are 30° divisions of the ecliptic moving westward at the precessional rate. The system is internally consistent and reflects the seasonal-solar relationship rather than the stellar background.
-- The **sidereal zodiac** (used in Vedic / Indian astrology) defines the signs by reference to the fixed-star constellations: **0° Aries** is the position of the actual constellation Aries, with the signs as fixed segments of the ecliptic relative to the stars. The sidereal signs do not move with precession.
+- **Тропический зодиак** (используемый в стандартной западной астрологии) определяет знаки по точке весеннего равноденствия: **0° Овна** — это положение Солнца в день весеннего равноденствия, независимо от фактического созвездия за Солнцем. Тропические знаки — это деления эклиптики по 30°, движущиеся на запад со скоростью прецессии. Система внутренне непротиворечива и отражает сезонно-солнечное отношение, а не звёздный фон.
+- **Сидерический зодиак** (используемый в ведической / индийской астрологии) определяет знаки по неподвижно-звёздным созвездиям: **0° Овна** — это положение фактического созвездия Овна, причём знаки — это фиксированные сегменты эклиптики относительно звёзд. Сидерические знаки не движутся вместе с прецессией.
 
-The difference between the tropical and sidereal zodiacs is the **ayanamsa** (Sanskrit "precessional movement"), currently approximately **24°**. The two systems were in close approximate alignment approximately 2,000 years ago (around the beginning of the Common Era — the period when the standard Western zodiacal system was being codified by Ptolemy and others), and have diverged at the precessional rate since.
+Разница между тропическим и сидерическим зодиаками — это **аянамса** (санскр. «прецессионное движение»), составляющая в настоящее время приблизительно **24°**. Две системы были в близком приблизительном выравнивании около 2 000 лет назад (около начала нашей эры — период, когда стандартная западная зодиакальная система кодифицировалась Птолемеем и другими), и расходятся со скоростью прецессии с тех пор.
 
-### The precessional Ages
+### Прецессионные эпохи
 
-The shift of the vernal equinox point along the ecliptic at the precessional rate produces the sequence of **precessional Ages** — periods of approximately 2,150-2,160 years during which the vernal equinox is positioned in a particular zodiacal sign. The standard sequence (moving backward through the precessional motion, which produces the westward shift of the equinox along the ecliptic):
+Сдвиг точки весеннего равноденствия вдоль эклиптики со скоростью прецессии производит последовательность **прецессионных эпох** — периодов приблизительно по 2 150–2 160 лет, в течение которых точка весеннего равноденствия находится в конкретном зодиакальном знаке. Стандартная последовательность (движение назад по прецессионному движению, которое производит западный сдвиг равноденствия вдоль эклиптики):
 
-| Age | Approximate dates (corpus reckoning) | Approximate dates (alternative reckonings) |
+| Эпоха | Приблизительные даты (система счёта корпуса) | Приблизительные даты (альтернативные системы счёта) |
 |---|---|---|
-| **Age of Leo** | c. 13,170 – 11,010 BCE | c. 10,500 – 8,000 BCE (varies) |
-| **Age of Cancer** | c. 11,010 – 8,850 BCE | c. 8,000 – 6,000 BCE |
-| **Age of Gemini** | c. 8,850 – 6,690 BCE | c. 6,000 – 4,000 BCE |
-| **Age of Taurus** | c. 6,690 – 4,530 BCE | c. 4,000 – 2,000 BCE |
-| **Age of Aries** | c. 4,530 – 2,370 BCE (or c. 2,065 BCE on alternative) | c. 2,000 – 0 BCE |
-| **Age of Pisces** | c. 1 CE – 2,160 CE | c. 0 – 2,000 CE |
-| **Age of Aquarius** | c. 2,160 CE onward | c. 2,000 CE onward |
+| **Эпоха Льва** | ок. 13 170 — 11 010 гг. до н. э. | ок. 10 500 — 8 000 гг. до н. э. (варьируется) |
+| **Эпоха Рака** | ок. 11 010 — 8 850 гг. до н. э. | ок. 8 000 — 6 000 гг. до н. э. |
+| **Эпоха Близнецов** | ок. 8 850 — 6 690 гг. до н. э. | ок. 6 000 — 4 000 гг. до н. э. |
+| **Эпоха Тельца** | ок. 6 690 — 4 530 гг. до н. э. | ок. 4 000 — 2 000 гг. до н. э. |
+| **Эпоха Овна** | ок. 4 530 — 2 370 гг. до н. э. (или ок. 2 065 г. до н. э. по альтернативной) | ок. 2 000 — 0 гг. до н. э. |
+| **Эпоха Рыб** | ок. 1 г. н. э. — 2 160 г. н. э. | ок. 0 — 2 000 гг. н. э. |
+| **Эпоха Водолея** | ок. 2 160 г. н. э. и далее | ок. 2 000 г. н. э. и далее |
 
-The specific dating of the Age transitions varies substantially across different astrological-astronomical traditions, depending on the precise definition of constellation boundaries (which are not standardised in classical astrology), the choice of starting reference point, and the choice between modern astronomical and astrological-tradition rates. The framework's adopted reckoning (used consistently across the corpus's entries) places the Age boundaries at approximately the points indicated in the table above, with the understanding that the transitions are not sharply defined and that alternative reckonings produce ±200-year variations in the boundary dates.
+Конкретная датировка переходов эпох существенно варьируется в различных астрологически-астрономических традициях, в зависимости от точного определения границ созвездий (которые не стандартизованы в классической астрологии), выбора начальной точки референса и выбора между современной астрономической скоростью и скоростью астрологической традиции. Принятая фреймворком система счёта (используемая последовательно во всех статьях корпуса) помещает границы эпох приблизительно в точки, указанные в таблице выше, при понимании, что переходы не определены резко и что альтернативные системы счёта производят вариации в ±200 лет в пограничных датах.{{ footnote(id="5") }}
 
-The framework's specific identification of the precessional Ages with the events of the Elohim project and the broader prophetic record is treated in the framework section below.
+Конкретное отождествление фреймворком прецессионных эпох с событиями проекта Элохим и более широкой пророческой записью рассматривается в разделе о фреймворке ниже.
 
-## In the Wheel of Heaven framework
+## Во фреймворке Wheel of Heaven
 
-The framework's reading of precession is multilayered. The mainstream astronomical phenomenon is treated as established empirical content; the framework's substantive interpretive moves concern the historical-mythological-chronological significance of the phenomenon.
+Прочтение прецессии фреймворком многоуровневое. Магистральное астрономическое явление трактуется как установленное эмпирическое содержание; содержательные интерпретационные ходы фреймворка касаются историко-мифолого-хронологического значения явления.
 
-### Precession as chronological infrastructure
+### Прецессия как хронологическая инфраструктура
 
-The framework's most basic use of precession is as the **chronological infrastructure** for the corpus's broader interpretive work. The precessional Ages provide a structured temporal framework that:
+Наиболее базовое использование прецессии фреймворком — это её роль **хронологической инфраструктуры** для более широкой интерпретационной работы корпуса. Прецессионные эпохи задают структурированный временно́й каркас, который:
 
-- Spans approximately 26,000 years per full cycle, sufficient to encompass the principal events of the Elohim project (synthesis approximately 25,000 years ago) and the subsequent terrestrial history
-- Divides this period into twelve substantively distinct Ages, each of approximately 2,150-2,160 years
-- Connects the chronological framework to a substantive astronomical phenomenon that is independently verifiable and culturally significant
-- Aligns with the symbolic-cultural significance of the zodiacal signs in multiple religious and cultural traditions
+- Охватывает приблизительно 26 000 лет на полный цикл, достаточно, чтобы вместить главные события проекта Элохим (синтез приблизительно 25 000 лет назад) и последующую земную историю
+- Делит этот период на двенадцать содержательно различных эпох, каждая приблизительно по 2 150–2 160 лет
+- Связывает хронологический каркас с содержательным астрономическим явлением, которое независимо верифицируемо и культурно значимо
+- Согласуется с символико-культурной значимостью зодиакальных знаков во многих религиозных и культурных традициях
 
-The corpus's broader work uses the precessional Ages to date the principal events:
+Более широкая работа корпуса использует прецессионные эпохи для датирования главных событий:
 
-- The **Age of Virgo** (c. 15,330 – 13,170 BCE) for the *yom* 5 phase of Genesis 1 — the synthesis of the broader animal life on which humans subsequently depend
-- The **Age of Leo** (c. 13,170 – 11,010 BCE) for the *yom* 6 human-synthesis phase — the principal Adamite synthesis and the Eden phase
-- The **Age of Cancer** (c. 11,010 – 8,850 BCE) for the post-deluge reorganisation following the Younger Dryas-era catastrophic events
-- The **Age of Gemini** (c. 8,850 – 6,690 BCE) for the early Neolithic population developments and the broader Holocene climate stabilisation
-- The **Age of Taurus** (c. 6,690 – 4,530 BCE) for the Sumerian, Egyptian, and broader Bronze Age civilisations; the principal megalithic construction period
-- The **Age of Aries** (c. 4,530 – 2,370 BCE on the broader reckoning, or c. 2,065 BCE on the corpus's more specific Hebrew prophetic dating) for the principal Hebrew prophetic period — Abraham through Moses, the Exodus, the Sinai theophany, the Davidic monarchy, the prophetic tradition
-- The **Age of Pisces** (c. 1 CE – 2,160 CE) for the Christian era and the broader subsequent religious developments
-- The **Age of Aquarius** (c. 2,160 CE onward; the framework's reading places the contemporary period in the transition between Pisces and Aquarius, with the broader recovery treated as the **Age of Apocalypse**)
+- **Эпоха Девы** (ок. 15 330 — 13 170 гг. до н. э.) для фазы *йом* 5 из Бытия 1 — синтез более широкой животной жизни, от которой впоследствии зависит человек
+- **Эпоха Льва** (ок. 13 170 — 11 010 гг. до н. э.) для фазы синтеза человека *йом* 6 — главный адамитский синтез и эдемская фаза
+- **Эпоха Рака** (ок. 11 010 — 8 850 гг. до н. э.) для послепотопной реорганизации после катастрофических событий эпохи позднего дриаса
+- **Эпоха Близнецов** (ок. 8 850 — 6 690 гг. до н. э.) для ранненеолитических демографических процессов и более широкой климатической стабилизации голоцена
+- **Эпоха Тельца** (ок. 6 690 — 4 530 гг. до н. э.) для шумерской, египетской и более широкой бронзовой цивилизации; главный период мегалитического строительства
+- **Эпоха Овна** (ок. 4 530 — 2 370 гг. до н. э. по более широкой системе счёта или ок. 2 065 г. до н. э. по более конкретной датировке еврейских пророчеств корпуса) для главного еврейского пророческого периода — {% wiki(slug="abraham") %}Авраам{% end %} через Моисея, Исход, Синайскую теофанию, Давидову монархию, пророческую традицию
+- **Эпоха Рыб** (ок. 1 г. н. э. — 2 160 г. н. э.) для христианской эры и более широких последующих религиозных процессов
+- **Эпоха Водолея** (ок. 2 160 г. н. э. и далее; прочтение фреймворка помещает современный период в переход между Рыбами и Водолеем, причём более широкое восстановление трактуется как **Эпоха {% wiki(slug="apocalypse") %}Апокалипсиса{% end %}**)
 
-The dedicated [Age of Virgo](../timeline/age-of-virgo/), [Age of Leo](../timeline/age-of-leo/), [Age of Cancer](../timeline/age-of-cancer/), [Age of Gemini](../timeline/age-of-gemini/), [Age of Taurus](../timeline/age-of-taurus/), [Age of Aries](../timeline/age-of-aries/), [Age of Pisces](../timeline/age-of-pisces/), and [Age of Aquarius](../timeline/age-of-aquarius/) entries develop the specific content of each Age; the present entry establishes the broader precessional framework on which the individual Age entries depend.
+Посвящённые статьи [Эпоха Девы](../timeline/age-of-virgo/), [Эпоха Льва](../timeline/age-of-leo/), [Эпоха Рака](../timeline/age-of-cancer/), [Эпоха Близнецов](../timeline/age-of-gemini/), [Эпоха Тельца](../timeline/age-of-taurus/), [Эпоха Овна](../timeline/age-of-aries/), [Эпоха Рыб](../timeline/age-of-pisces/) и [Эпоха Водолея](../timeline/age-of-aquarius/) развивают конкретное содержание каждой эпохи; настоящая статья устанавливает более широкий прецессионный каркас, на котором держатся статьи об отдельных эпохах.
 
-### The Hamlet's Mill thesis
+### Тезис «Мельницы Гамлета»
 
-The most substantive scholarly engagement with the relationship between precession and pre-Hipparchian mythology is **Giorgio de Santillana and Hertha von Dechend's *Hamlet's Mill: An Essay on Myth and the Frame of Time*** (Gambit, 1969). The book — written by **Santillana** (1902–1974, professor of history of science at MIT) and **von Dechend** (1915–2001, professor of history of science at Goethe University Frankfurt) — argues that:
+Самое содержательное научное взаимодействие с отношением между прецессией и догиппарховой мифологией — это **«Мельница Гамлета: Эссе о мифе и о каркасе времени» Джорджо де Сантильяны и Херты фон Дехенд** (Gambit, 1969).{{ cite(id="hamlets-mill", text="[2]", title="Сантильяна и фон Дехенд, *Hamlet's Mill* (1969) — полное изложение тезиса о прецессии в мифе") }} Книга, написанная **Сантильяной** (1902–1974, профессором истории науки в MIT) и **фон Дехенд** (1915–2001, профессором истории науки в Университете Гёте во Франкфурте), утверждает, что:
 
-- Precession was discovered substantially before Hipparchus, by Neolithic or earlier astronomers, possibly as early as 4,000–6,000 BCE
-- The knowledge of precession was transmitted across cultures and millennia through **mythological-symbolic encoding** rather than direct astronomical-textual transmission
-- The principal mythological motifs of the cross-cultural global tradition — the cosmic mill, the cosmic axis, the breaking of the mill, the heroic figures of the various Ages, the doctrine of the Four Ages or World Ages, the cyclic destruction-and-renewal patterns — systematically preserve precessional astronomical content
-- The transmission of precessional content connects cultures separated by substantial geographical and temporal distance (Mesopotamian, Egyptian, Vedic, Iranian, Norse, Finnish, Polynesian, Mesoamerican) through common mythological vocabulary
+- Прецессия была открыта существенно раньше Гиппарха, неолитическими или более ранними астрономами, возможно уже в 4 000–6 000 годах до н. э.
+- Знание о прецессии передавалось через культуры и тысячелетия посредством **мифолого-символического кодирования**, а не прямой астрономико-текстовой передачи
+- Главные мифологические мотивы кросс-культурной глобальной традиции — космическая мельница, космическая ось, разрушение мельницы, героические фигуры различных эпох, учение о четырёх веках или эпохах мира, циклические паттерны разрушения и обновления — систематически сохраняют прецессионное астрономическое содержание
+- Передача прецессионного содержания связывает культуры, разделённые существенным географическим и временны́м расстоянием (месопотамскую, египетскую, ведическую, иранскую, скандинавскую, финскую, полинезийскую, мезоамериканскую), через общий мифологический словарь
 
-The *Hamlet's Mill* thesis has had mixed reception in mainstream scholarship: substantially influential in the broader **archaeoastronomy** field that emerged in the 1970s and 1980s, but generally treated with skepticism by mainstream classicists and historians of astronomy. The principal scholarly objections concern the methodological question of how to identify precessional content in mythology without circular reasoning, the chronological question of whether the proposed Neolithic discovery is empirically supportable, and the broader question of whether the cross-cultural patterns identified by Santillana and von Dechend are sufficiently distinctive to require the precessional explanation.
+Тезис «Мельницы Гамлета» имел смешанный приём в магистральной науке: существенно влиятелен в более широкой области **археоастрономии**, возникшей в 1970-х и 1980-х годах, но обычно трактовался со скепсисом магистральными классицистами и историками астрономии. Главные научные возражения касаются методологического вопроса о том, как выявлять прецессионное содержание в мифологии без кругового рассуждения, хронологического вопроса о том, эмпирически ли подтверждаемо предложенное неолитическое открытие, и более широкого вопроса о том, достаточно ли отличительны кросс-культурные паттерны, выявленные Сантильяной и фон Дехенд, чтобы требовать прецессионного объяснения.
 
-The framework's adopted position is broadly sympathetic to the *Hamlet's Mill* thesis. The corpus's broader interpretive work — particularly the reading of the source-tradition material (the Hebrew Bible, the Sumerian and Egyptian creation traditions, the Vedic *yuga* doctrine, the broader cross-cultural mythological record) as preserving operational content from the Elohim project — is substantially consistent with the *Hamlet's Mill* claim that pre-Hipparchian astronomical content is preserved in mythological form. The framework reads the precessional content specifically as evidence of the Elohim's own use of the precessional cycle as a chronological reference — consistent with the Biglino reading developed below — and of the subsequent human transmission of this content through the symbolic-mythological vocabulary the corpus engages.
+Принятая фреймворком позиция в целом сочувственна к тезису «Мельницы Гамлета». Более широкая интерпретационная работа корпуса — особенно прочтение источниковедческого материала ({% wiki(slug="hebrew-bible") %}Еврейской Библии{% end %}, шумерской и египетской традиций творения, ведического учения о *юге*, более широкой кросс-культурной мифологической записи) как сохраняющего операционное содержание из проекта Элохим — существенно согласуется с утверждением «Мельницы Гамлета» о том, что догиппархово астрономическое содержание сохранено в мифологической форме. Фреймворк читает прецессионное содержание конкретно как свидетельство собственного использования Элохим прецессионного цикла в качестве хронологического референса — согласующееся с прочтением Бильино, развёрнутым ниже, — и последующей человеческой передачи этого содержания через символико-мифологический словарь, с которым работает корпус.
 
-### The Biglino reading: precession as navigation infrastructure
+### Прочтение Бильино: прецессия как навигационная инфраструктура
 
-The Italian biblical philologist **Mauro Biglino**, in his work on the Hebrew Bible and the broader Anunnaki / Elohim tradition, has developed a specific reading of precession that the framework's broader position substantially incorporates. The relevant passage, from Biglino's *Il libro che cambierà per sempre le nostre idee sulla Bibbia* (2011, translated as *The Book That Will Forever Change Our Idea About The Bible*):
+Итальянский библейский филолог **Мауро Бильино** в своей работе над Еврейской {% wiki(slug="bible") %}Библией{% end %} и более широкой традицией Ануннаков / Элохим разработал конкретное прочтение прецессии, которое более широкая позиция фреймворка существенно перенимает. Соответствующий фрагмент из *Il libro che cambierà per sempre le nostre idee sulla Bibbia* Бильино (2011, в переводе как *The Book That Will Forever Change Our Idea About The Bible*){{ cite(id="the-bible-is-not-a-sacred-book", text="[3]", title="Бильино, строго-буквальная серия по Еврейской Библии (с 2010 года) — прецессия как навигационная инфраструктура Элохим/Ануннаков") }}:
 
-> This expression indicates the celestial phenomenon caused by the oscillation or wobble of the Earth axis making a circular motion similar to that of a slowly-spinning top. This oscillation results in an apparent demotion of the constellations in the celestial sphere. It happens because the imaginary line joining the ecliptic of spring and autumn equinoxes moves one degree approximately every 71 years. Each of the twelve signs of the zodiac that form the entire 360° sky arc, covered a period of 2,160 years, corresponding to what astrology labeled as "Ages": Age of Aries, Age of Taurus, and so on. The complete cycle of 360° thus requires a little less than 26,000 years (2160 × 12). Hence, it would have been impossible to observe and calculate. Regardless, this long period, called the "Great Year", was known by many civilizations in various parts of the world such as the Indus Valley, Egypt, Central America; and still today scholars wonder how a nomadic people of herders and farmers were able to calculate its duration! Might it have been of any use to ANUNNAKI "gods" to calculate the orbital timing of their home planet, and to plan their space travels that were inevitably very long? Perhaps, the answer to many mysteries resides in accepting this possibility...
+> Это выражение указывает на небесное явление, вызванное колебанием или раскачиванием земной оси, совершающей круговое движение, подобное движению медленно вращающегося волчка. Это колебание приводит к видимому смещению созвездий на небесной сфере. Это происходит потому, что воображаемая линия, соединяющая эклиптику весеннего и осеннего равноденствий, смещается примерно на один градус каждые 71 год. Каждый из двенадцати знаков зодиака, образующих всю дугу неба в 360°, охватывал период в 2 160 лет, соответствующий тому, что астрология называла «эпохами»: Эпоха Овна, Эпоха Тельца и так далее. Полный цикл в 360° таким образом требует чуть менее 26 000 лет (2160 × 12). Следовательно, его было бы невозможно наблюдать и вычислить. Тем не менее этот длинный период, называемый «Великим годом», был известен многим цивилизациям в различных частях мира, таких как долина Инда, Египет, Центральная Америка; и до сих пор учёные удивляются, как кочующий народ пастухов и земледельцев мог вычислить его продолжительность! Не было ли его полезно «богам» АНУННАКАМ для вычисления орбитальных таймингов их родной планеты и для планирования своих космических путешествий, которые неизбежно были очень длинными? Возможно, ответ на многие тайны заключается в принятии этой возможности…
 >
-> — Mauro Biglino, *Il libro che cambierà per sempre le nostre idee sulla Bibbia* (2011)
+> — Мауро Бильино, *Il libro che cambierà per sempre le nostre idee sulla Bibbia* (2011)
 
-Biglino's reading frames precession as potentially serving the Elohim (Anunnaki on Biglino's preferred terminology) as a **navigation and chronological-calibration aid** — a long-period astronomical phenomenon useful for the long-duration interstellar travel and the long-term operational supervision that the framework's broader reading attributes to the Elohim. The principal framework claims:
+Прочтение Бильино оформляет прецессию как потенциально служащую Элохим (Ануннакам в предпочитаемой Бильино терминологии) **навигационным и хронологически-калибровочным средством** — долгопериодическим астрономическим явлением, полезным для долговременного межзвёздного путешествия и долговременного операционного надзора, которые более широкое прочтение фреймворка приписывает Элохим. Главные утверждения фреймворка:
 
-- The 26,000-year precessional period is sufficiently long that it would have been impossible for early human cultures to identify through direct observation across a single human lifetime
-- The cross-cultural pre-Hipparchian preservation of precessional content (Indus Valley, Egypt, Central America, etc.) is genuinely difficult to account for through the standard scientific-historical account
-- The transmission of the precessional content from a more advanced source — the Elohim, on the framework's reading — provides a substantive explanation for the pre-Hipparchian global preservation
-- The Elohim's specific use of precession is open on the framework's adopted reading; possibilities include navigation, chronological calibration, the broader chronological structure of the Elohim project on Earth, and other operational uses
+- 26 000-летний прецессионный период достаточно длинен, чтобы было невозможно для ранних человеческих культур выявить его прямым наблюдением в течение одной человеческой жизни
+- Кросс-культурное догиппархово сохранение прецессионного содержания (долина Инда, Египет, Центральная Америка и т. д.) действительно трудно объяснить через стандартный научно-исторический отчёт
+- Передача прецессионного содержания из более продвинутого источника — Элохим, согласно прочтению фреймворка, — обеспечивает содержательное объяснение догиппархова глобального сохранения
+- Конкретное использование Элохим прецессии открыто на принятом фреймворком прочтении; возможности включают навигацию, хронологическую калибровку, более широкую хронологическую структуру проекта Элохим на Земле и другие операционные применения
 
-The framework's reading does not commit to a specific operational use of precession by the Elohim. What the framework reads as substantively significant is the broader pattern: precession is one of the few astronomical phenomena that operates on timescales substantially longer than human cultural memory, and the cross-cultural preservation of precessional content in the pre-Hipparchian period suggests a transmission mechanism that the framework's broader account can substantively explain.
+Прочтение фреймворка не фиксирует конкретное операционное использование прецессии Элохим. Что фреймворк читает как содержательно значимое — это более широкий паттерн: прецессия — одно из немногих астрономических явлений, действующих на временны́х масштабах, существенно более длинных, чем человеческая культурная память, и кросс-культурное сохранение прецессионного содержания в догиппархов период наводит на мысль о механизме передачи, который более широкий отчёт фреймворка может содержательно объяснить.
 
-### Precession in the source-tradition material
+### Прецессия в источниковедческом материале
 
-The framework reads several specific source-tradition passages as preserving precessional content:
+Фреймворк читает несколько конкретных источниковедческих фрагментов как сохраняющих прецессионное содержание:
 
-- **The Genesis 1 *yamim* sequence.** The framework's reading of the seven *yamim* (treated in the [Genesis](../genesis/) and [Terraforming](../terraforming/) entries) places the principal phases of the Earth project in specific precessional Ages: *yom* 1 in Capricorn, *yom* 2 in Sagittarius, *yom* 3 in Scorpio, *yom* 4 in Libra, *yom* 5 in Virgo, *yom* 6 in Leo, and *yom* 7 (the rest phase) in Cancer. The Genesis 1 narrative on this reading preserves a specifically precessional chronological structure.
-- **The Mosaic period (Age of Aries).** The framework reads the prominence of the **ram** as a symbolic figure in the Mosaic and broader Aries-period source-tradition material — the ram caught in the thicket at the Aqedah (Genesis 22:13), the Passover lamb (Exodus 12), the ram horns of the Sinai trumpet (the *shofar*), the broader sacrificial system of the Tabernacle — as preserving the precessional identification of the period as the Age of Aries.
-- **The Christian period (Age of Pisces).** The Christian tradition's use of the **fish** (Greek *ichthys*, Greek acronym for "Jesus Christ, Son of God, Saviour") as a central symbol from the earliest period, the multiple fish-related episodes in the Gospel narratives (the multiplication of loaves and fishes, the call of the fishermen-apostles, the post-resurrection beach breakfast in John 21), and the broader piscine symbolic vocabulary is read by the framework as preserving the precessional identification of the period as the Age of Pisces.
-- **The contemporary transition (Pisces to Aquarius).** The framework reads the contemporary cultural recognition of the "Age of Aquarius" — popularised in the 1960s but with substantive astrological-tradition antecedents — as preserving the precessional identification of the contemporary transition period.
+- **Последовательность *йамим* Бытия 1.** Прочтение фреймворком семи *йамим* (рассмотренное в статьях [Бытие](../genesis/) и [Терраформирование](../terraforming/)) помещает главные фазы земного проекта в конкретные прецессионные эпохи: *йом* 1 в Козероге, *йом* 2 в Стрельце, *йом* 3 в Скорпионе, *йом* 4 в Весах, *йом* 5 в Деве, *йом* 6 во Льве, *йом* 7 (фаза покоя) в Раке. Повествование Бытия 1 на этом прочтении сохраняет специфически прецессионную хронологическую структуру.
+- **Моисеев период (Эпоха Овна).** Фреймворк читает выдвинутость **барана** как символической фигуры в моисеевом и более широком источниковедческом материале периода Овна — баран, запутавшийся в зарослях при *Акеде* (Бытие 22:13), пасхальный агнец (Исход 12), бараньи рога синайской трубы (*шофар*), более широкая жертвенная система Скинии — как сохраняющую прецессионное отождествление периода с Эпохой Овна.
+- **Христианский период (Эпоха Рыб).** Использование христианской традицией **рыбы** (греч. *ihtys*, греческая аббревиатура «Иисус Христос, Сын Божий, Спаситель») как центрального символа с раннейшего периода, многочисленные эпизоды, связанные с рыбой, в евангельских повествованиях (умножение хлебов и рыб, призвание апостолов-рыбаков, послевоскресный завтрак на берегу в Иоанна 21) и более широкий рыбий символический словарь читаются фреймворком как сохраняющие прецессионное отождествление периода с Эпохой Рыб.{{ cite(id="the-gospels-in-the-stars", text="[4]", title="Сейсс, *The Gospel in the Stars* — трактовка XIX века зодиакально-христианского символического соответствия") }}{{ cite(id="mazzaroth-rolleston", text="[5]", title="Роллстон, *Mazzaroth* — главный викторианский источник еврейско-зодиакальной интерпретационной традиции") }}{{ cite(id="mazzaroth-dot-com", text="[6]", title="Онлайн-компендиум *Mazzaroth* — современная агрегация зодиакально-библейской интерпретационной традиции") }}
+- **Современный переход (Рыбы — Водолей).** Фреймворк читает современное культурное признание «Эпохи Водолея» — популяризованное в 1960-х годах, но с содержательными астрологически-традиционными предтечами — как сохраняющее прецессионное отождествление современного переходного периода.
 
-The dedicated [List of mythemes and mythological motifs](../list-of-mythemes-and-mythological-motifs/) entry develops the broader cross-cultural mythological preservation of precessional content; the present entry registers the specific source-tradition passages that the framework reads as precessionally significant.
+Посвящённая статья [Список мифем и мифологических мотивов](../list-of-mythemes-and-mythological-motifs/) развивает более широкое кросс-культурное мифологическое сохранение прецессионного содержания; настоящая статья регистрирует конкретные источниковедческие фрагменты, которые фреймворк читает как прецессионно значимые.
 
-### The chronological precision question
+### Вопрос хронологической точности
 
-The framework's chronological reckoning faces a substantive precision question: the precessional Ages have variable dating across different traditions and methodologies, with the principal sources of variation being:
+Хронологическая система счёта фреймворка сталкивается с содержательным вопросом точности: прецессионные эпохи имеют вариативную датировку в различных традициях и методологиях, причём главные источники вариации:
 
-- The **starting reference point** — different traditions use different reference stars or constellation-boundary definitions
-- The **rate of precession** — the difference between the modern astronomical rate (50.29 arcseconds/year) and the astrological-tradition rate (giving 2,160 years per Age) produces approximately 5-10% variation in Age durations
-- The **constellation boundaries** — the IAU-standardised constellation boundaries (defined 1930) differ from the classical astrological boundaries by substantial amounts in some cases
+- **Начальная точка референса** — разные традиции используют разные референсные звёзды или определения границ созвездий
+- **Скорость прецессии** — разница между современной астрономической скоростью (50,29 угловых секунд/год) и скоростью астрологической традиции (дающей 2 160 лет на эпоху) производит приблизительно 5–10 % вариации в продолжительности эпох
+- **Границы созвездий** — границы созвездий, стандартизованные IAU (определены в 1930 году), в некоторых случаях существенно отличаются от классических астрологических границ
 
-The framework's adopted reckoning (used consistently across the corpus's entries) uses the astrological-tradition figure of 2,160 years per Age and places the principal Age boundaries at the approximate dates given in the table above. The framework treats the boundary dates as approximate (±200 years), with the substantive interpretive content concerning the Age-specific events and not the precise transition dates.
+Принятая фреймворком система счёта (используемая последовательно во всех статьях корпуса) использует цифру астрологической традиции 2 160 лет на эпоху и помещает главные границы эпох в приблизительные даты, указанные в таблице выше.{{ cite(id="the-book-which-tells-the-truth", text="[7]", title="Ворильон (Раэль), *Книга, говорящая правду* — первичный раэлианский источник для хронологического каркаса корпуса") }} Фреймворк трактует пограничные даты как приблизительные (±200 лет), причём содержательное интерпретационное содержание касается специфичных для эпохи событий, а не точных дат переходов.
 
-## Connections to the broader framework
+## Связи с более широким фреймворком
 
-The Precession entry connects to a substantial number of other corpus entries.
+Статья о прецессии связана с существенным числом других статей корпуса.
 
-**The precessional Ages.** The dedicated [Age of Virgo](../timeline/age-of-virgo/), [Age of Leo](../timeline/age-of-leo/), [Age of Cancer](../timeline/age-of-cancer/), [Age of Gemini](../timeline/age-of-gemini/), [Age of Taurus](../timeline/age-of-taurus/), [Age of Aries](../timeline/age-of-aries/), [Age of Pisces](../timeline/age-of-pisces/), [Age of Aquarius](../timeline/age-of-aquarius/), and [Age of Apocalypse](../age-of-apocalypse/) entries develop the specific content of each Age within the precessional framework that the present entry establishes.
+**Прецессионные эпохи.** Посвящённые статьи [Эпоха Девы](../timeline/age-of-virgo/), [Эпоха Льва](../timeline/age-of-leo/), [Эпоха Рака](../timeline/age-of-cancer/), [Эпоха Близнецов](../timeline/age-of-gemini/), [Эпоха Тельца](../timeline/age-of-taurus/), [Эпоха Овна](../timeline/age-of-aries/), [Эпоха Рыб](../timeline/age-of-pisces/), [Эпоха Водолея](../timeline/age-of-aquarius/) и [Эпоха Апокалипсиса](../age-of-apocalypse/) развивают конкретное содержание каждой эпохи в рамках прецессионного каркаса, устанавливаемого настоящей статьёй.
 
-**Genesis.** The dedicated [Genesis](../genesis/) entry treats the source-tradition reading of the Earth project, with the *yamim* sequence as the precessional structure that the present entry establishes.
+**Бытие.** Посвящённая статья [Бытие](../genesis/) трактует источниковедческое прочтение земного проекта с последовательностью *йамим* как прецессионной структурой, которую устанавливает настоящая статья.
 
-**World Age.** The dedicated [World Age](../world-age/) entry treats the broader doctrine of cosmic ages in the cross-cultural religious tradition (the Hindu *yuga* cycle, the Hesiodic ages of gold/silver/bronze/iron, the broader cyclical-cosmological tradition). The precession entry establishes the astronomical phenomenon that the framework reads as underlying the World Age doctrine.
+**Эпоха мира.** Посвящённая статья [Эпоха мира](../world-age/) трактует более широкое учение о космических эпохах в кросс-культурной религиозной традиции (индуистский цикл *юги*, гесиодовские века золота/серебра/бронзы/железа, более широкая циклически-космологическая традиция). Статья о прецессии устанавливает астрономическое явление, которое фреймворк читает как лежащее в основе учения об Эпохах мира.
 
-**The Great Year.** The dedicated [Great Year](../great-year/) entry treats the broader concept of the precessional Great Year as it has been transmitted across the cross-cultural mythological tradition.
+**Великий год.** Посвящённая статья [Великий год](../great-year/) трактует более широкую концепцию прецессионного Великого года в том виде, в каком она передавалась через кросс-культурную мифологическую традицию.
 
-**List of megalithic sites.** The dedicated [List of megalithic sites](../list-of-megalithic-sites/) entry treats the substantial archaeoastronomical evidence for ancient awareness of precessional and broader astronomical phenomena. The precession entry establishes the astronomical content that the megalithic alignments preserve.
+**Список мегалитических памятников.** Посвящённая статья [Список мегалитических памятников](../list-of-megalithic-sites/) трактует существенные археоастрономические свидетельства древнего осознания прецессионных и более широких астрономических явлений. Статья о прецессии устанавливает астрономическое содержание, которое сохраняют мегалитические выравнивания.
 
-**List of mythemes and mythological motifs.** The dedicated [List of mythemes and mythological motifs](../list-of-mythemes-and-mythological-motifs/) entry treats the broader cross-cultural mythological preservation of astronomical content, including the precessional motifs identified by Santillana and von Dechend.
+**Список мифем и мифологических мотивов.** Посвящённая статья [Список мифем и мифологических мотивов](../list-of-mythemes-and-mythological-motifs/) трактует более широкое кросс-культурное мифологическое сохранение астрономического содержания, включая прецессионные мотивы, выявленные Сантильяной и фон Дехенд.
 
-**The forty-prophets lineage and the broader prophetic record.** The dedicated entries on the principal prophetic figures ([Moses](../moses/), [Elijah](../elijah/), [Jesus](../jesus/), [Muhammad](../muhammad/), etc.) use the precessional Ages to date the principal events of each prophet's life and mission.
+**Линия сорока пророков и более широкая пророческая запись.** Посвящённые статьи о главных пророческих фигурах ([Моисей](../moses/), [Илия](../elijah/), [Иисус](../jesus/), [Мухаммед](../muhammad/) и т. д.) используют прецессионные эпохи для датирования главных событий жизни и миссии каждого пророка.
 
-**The Adamites and the Eden phase.** The dedicated [Adamites](../adamites/) and [Eden](../eden/) entries place the human synthesis and the Eden phase in the Age of Leo on the precessional reckoning.
+**Адамиты и эдемская фаза.** Посвящённые статьи [Адамиты](../adamites/) и [Эдем](../eden/) помещают синтез человека и эдемскую фазу в Эпоху Льва по прецессионной системе счёта.
 
-**Cosmic pluralism.** The dedicated [Cosmic pluralism](../cosmic-pluralism/) entry treats the broader cosmological framework within which the precessional reckoning operates.
+**Космический плюрализм.** Посвящённая статья [Космический плюрализм](../cosmic-pluralism/) трактует более широкий космологический каркас, в рамках которого действует прецессионная система счёта.
 
-## Open questions
+## Открытые вопросы
 
-The Precession entry surfaces several open questions for the framework's broader interpretive work.
+Статья о прецессии поднимает несколько открытых вопросов для более широкой интерпретационной работы фреймворка.
 
-- **The empirical resolution of the pre-Hipparchian discovery question.** The mainstream-academic position holds that precession was first identified by Hipparchus in approximately 129 BCE. The *Hamlet's Mill* thesis (Santillana and von Dechend 1969) and subsequent archaeoastronomy work substantively contest this position. The framework's adopted reading is broadly sympathetic to the earlier-discovery position but treats the specific empirical resolution as one of the field's principal open questions. Future archaeoastronomical work on specific pre-Hipparchian astronomical content (megalithic alignments, ancient star catalogues, mythological-symbolic transmission) may permit more developed readings.
-- **The specific Elohim use of precession.** The framework's reading of precession as potentially serving the Elohim as a navigation or chronological-calibration aid (per Biglino) is substantively open. The corpus's broader account does not commit to a specific operational use; future corpus work on the operational reading of the Elohim project may permit more developed positions.
-- **The precise dating of the Age transitions.** The framework's adopted reckoning produces approximate boundary dates with ±200-year uncertainty due to the methodological choices involved. Future corpus work on the alignment between the framework's reckoning and the specific source-tradition chronological content may permit more precise dating.
-- **The relationship to the Vedic *yuga* cycles.** The Vedic *yuga* cycles (the *manvantaras*, the *Kali Yuga* / *Dwapara Yuga* / *Treta Yuga* / *Satya Yuga* sequence, the broader *Mahayuga* of 4.32 million years) are substantially longer than the precessional cycle. Whether the shorter Vedic subdivisions preserve precessional content, and what the relationship is between the precessional and *yuga* cosmological frameworks, is treated as open.
-- **The contemporary transition into the Age of Aquarius.** The framework's adopted reckoning places the contemporary period in transition between Pisces and Aquarius, with the precise transition date treated as open. Different astrological-astronomical traditions place this transition variously between approximately 1900 CE and 2700 CE; the framework's adopted reading uses c. 2,160 CE but treats this as approximate.
+- **Эмпирическое разрешение вопроса о догиппарховом открытии.** Магистрально-академическая позиция утверждает, что прецессия была впервые выявлена Гиппархом приблизительно в 129 году до н. э. Тезис «Мельницы Гамлета» (Сантильяна и фон Дехенд, 1969) и последующая работа в области археоастрономии содержательно оспаривают эту позицию. Принятое фреймворком прочтение в целом сочувственно к позиции более раннего открытия, но трактует конкретное эмпирическое разрешение как один из главных открытых вопросов области. Будущая археоастрономическая работа над конкретным догиппарховым астрономическим содержанием (мегалитические выравнивания, древние звёздные каталоги, мифолого-символическая передача) может позволить более развитые прочтения.
+- **Конкретное использование Элохим прецессии.** Прочтение фреймворком прецессии как потенциально служащей Элохим навигационным или хронологически-калибровочным средством (по Бильино) содержательно открыто. Более широкий отчёт корпуса не фиксирует конкретного операционного использования; будущая работа корпуса над операционным прочтением проекта Элохим может позволить более развитые позиции.
+- **Точная датировка переходов эпох.** Принятая фреймворком система счёта производит приблизительные пограничные даты с неопределённостью ±200 лет из-за задействованных методологических решений. Будущая работа корпуса над выравниванием между системой счёта фреймворка и конкретным хронологическим содержанием источниковедческого материала может позволить более точную датировку.
+- **Отношение к ведическим циклам *юги*.** Ведические циклы *юги* (*манвантары*, последовательность *Кали-юга* / *Двапара-юга* / *Трета-юга* / *Сатья-юга*, более широкая *Махаюга* в 4,32 миллиона лет) существенно длиннее прецессионного цикла. Сохраняют ли более короткие ведические подразделения прецессионное содержание и каково отношение между прецессионным и *йуговым* космологическими каркасами, трактуется как открытый вопрос.
+- **Современный переход в Эпоху Водолея.** Принятая фреймворком система счёта помещает современный период в переход между Рыбами и Водолеем, причём точная дата перехода трактуется как открытая. Разные астрологически-астрономические традиции помещают этот переход по-разному между приблизительно 1900 г. н. э. и 2700 г. н. э.; принятое фреймворком прочтение использует ок. 2 160 г. н. э., но трактует это как приблизительное.
 
-## See also
+## См. также
 
-- [World Age](../world-age/)
-- [Great Year](../great-year/)
-- [Genesis](../genesis/)
-- [Age of Virgo](../timeline/age-of-virgo/)
-- [Age of Leo](../timeline/age-of-leo/)
-- [Age of Cancer](../timeline/age-of-cancer/)
-- [Age of Gemini](../timeline/age-of-gemini/)
-- [Age of Taurus](../timeline/age-of-taurus/)
-- [Age of Aries](../timeline/age-of-aries/)
-- [Age of Pisces](../timeline/age-of-pisces/)
-- [Age of Aquarius](../timeline/age-of-aquarius/)
-- [Age of Apocalypse](../age-of-apocalypse/)
-- [List of megalithic sites](../list-of-megalithic-sites/)
-- [List of mythemes and mythological motifs](../list-of-mythemes-and-mythological-motifs/)
-- [List of exegetic readings](../list-of-exegetic-readings/)
-- [Adamites](../adamites/)
-- [Eden](../eden/)
-- [Cosmic pluralism](../cosmic-pluralism/)
-- [Terraforming](../terraforming/)
+- [Эпоха мира](../world-age/)
+- [Великий год](../great-year/)
+- [Бытие](../genesis/)
+- [Эпоха Девы](../timeline/age-of-virgo/)
+- [Эпоха Льва](../timeline/age-of-leo/)
+- [Эпоха Рака](../timeline/age-of-cancer/)
+- [Эпоха Близнецов](../timeline/age-of-gemini/)
+- [Эпоха Тельца](../timeline/age-of-taurus/)
+- [Эпоха Овна](../timeline/age-of-aries/)
+- [Эпоха Рыб](../timeline/age-of-pisces/)
+- [Эпоха Водолея](../timeline/age-of-aquarius/)
+- [Эпоха Апокалипсиса](../age-of-apocalypse/)
+- [Список мегалитических памятников](../list-of-megalithic-sites/)
+- [Список мифем и мифологических мотивов](../list-of-mythemes-and-mythological-motifs/)
+- [Список экзегетических прочтений](../list-of-exegetic-readings/)
+- [Адамиты](../adamites/)
+- [Эдем](../eden/)
+- [Космический плюрализм](../cosmic-pluralism/)
+- [Терраформирование](../terraforming/)
 
-## External links
+## Внешние ссылки
 
-- [Axial precession | Wikipedia](https://en.wikipedia.org/wiki/Axial_precession)
+- [Прецессия земной оси | Википедия](https://ru.wikipedia.org/wiki/Прецессия_земной_оси)
 - [Precession of the equinoxes | Britannica](https://www.britannica.com/science/precession-of-the-equinoxes)
 - [Hipparchus | Britannica](https://www.britannica.com/biography/Hipparchus-Greek-astronomer)
 - [Hamlet's Mill | Wikipedia](https://en.wikipedia.org/wiki/Hamlet%27s_Mill)
-- [Astrological age | Wikipedia](https://en.wikipedia.org/wiki/Astrological_age)
-- [Milankovitch cycles | Wikipedia](https://en.wikipedia.org/wiki/Milankovitch_cycles)
+- [Астрологический век | Википедия](https://ru.wikipedia.org/wiki/Астрологический_век)
+- [Циклы Миланковича | Википедия](https://ru.wikipedia.org/wiki/Циклы_Миланковича)
 
-## References
+## Литература
 
-Vorilhon, Claude (Raël). *Le Livre qui dit la vérité* (1974) and *Les extra-terrestres m'ont emmené sur leur planète* (1976), collected as *Message from the Designers* (Raëlian Foundation, current English edition). [Primary source for the framework's broader reading; precession itself is not explicitly developed in the Vorilhon source material, but the chronological framework the corpus adopts is consistent with the broader source-material content.]
+Vorilhon, Claude (Raël). *Le Livre qui dit la vérité* (1974) и *Les extra-terrestres m'ont emmené sur leur planète* (1976), собранные как *Послание от Создателей* (Раэлианский фонд, текущее английское издание). [Первичный источник для более широкого прочтения фреймворка; сама прецессия эксплицитно не развёрнута в материале Ворильона, но хронологический каркас, перенимаемый корпусом, согласуется с более широким источниковым содержанием.]
 
-Santillana, Giorgio de, and Hertha von Dechend. *Hamlet's Mill: An Essay on Myth and the Frame of Time*. Boston: Gambit, 1969. [The foundational scholarly engagement with the thesis that pre-Hipparchian global mythology systematically encodes precessional astronomical content. The principal external reference for the framework's broader reading of precession's mythological significance.]
+Santillana, Giorgio de, and Hertha von Dechend. *Hamlet's Mill: An Essay on Myth and the Frame of Time*. Boston: Gambit, 1969. [Основополагающее научное обращение к тезису о том, что догиппархова глобальная мифология систематически кодирует прецессионное астрономическое содержание. Главный внешний референс для более широкого прочтения фреймворком мифологического значения прецессии.]
 
-Biglino, Mauro. *Il libro che cambierà per sempre le nostre idee sulla Bibbia*. Mondadori, 2011. [Source of the framework-relevant Biglino reading of precession as potentially serving as Elohim/Anunnaki navigation infrastructure.]
+Biglino, Mauro. *Il libro che cambierà per sempre le nostre idee sulla Bibbia*. Mondadori, 2011. [Источник релевантного для фреймворка прочтения Бильино о прецессии как потенциально служащей навигационной инфраструктурой Элохим/Ануннаков.]
 
 Biglino, Mauro. *La Bibbia non è un libro sacro: Il falso letterario che ha fondato due religioni*. Mondadori, 2012.
 
-Ptolemy, Claudius. *Almagest* (*Mathematical Syntaxis*). c. 150 CE. Standard English translation: *Ptolemy's Almagest*, translated by G. J. Toomer. Princeton University Press, 1998. [The principal ancient source for Hipparchus's discovery of precession, preserved through Ptolemy's extensive citations.]
+Ptolemy, Claudius. *Almagest* (*Mathematical Syntaxis*). ок. 150 г. н. э. Стандартный английский перевод: *Ptolemy's Almagest*, перевод G. J. Toomer. Princeton University Press, 1998. [Главный древний источник для открытия Гиппархом прецессии, сохранённого через обширные цитирования Птолемея.]
 
-Newton, Isaac. *Philosophiæ Naturalis Principia Mathematica*. London, 1687. Book III, Propositions XXXIX-XLI. [The foundational mechanical explanation of precession.]
+Newton, Isaac. *Philosophiæ Naturalis Principia Mathematica*. London, 1687. Книга III, предложения XXXIX–XLI. [Основополагающее механическое объяснение прецессии.]
 
-Evans, James. *The History and Practice of Ancient Astronomy*. Oxford University Press, 1998. [The standard contemporary academic history of ancient astronomy, with substantial treatment of Hipparchus and precession.]
+Evans, James. *The History and Practice of Ancient Astronomy*. Oxford University Press, 1998. [Стандартная современная академическая история древней астрономии, с существенной трактовкой Гиппарха и прецессии.]
 
-Neugebauer, Otto. *A History of Ancient Mathematical Astronomy*. 3 vols. Springer-Verlag, 1975. [The foundational scholarly history of pre-modern astronomy.]
+Neugebauer, Otto. *A History of Ancient Mathematical Astronomy*. 3 тт. Springer-Verlag, 1975. [Основополагающая научная история домодерной астрономии.]
 
-Toomer, G. J. "Hipparchus." In *Dictionary of Scientific Biography*, edited by Charles Coulston Gillispie, vol. 15 (supplement I), pp. 207–224. New York: Scribner, 1978.
+Toomer, G. J. «Hipparchus». В *Dictionary of Scientific Biography*, под ред. Charles Coulston Gillispie, т. 15 (приложение I), сс. 207–224. New York: Scribner, 1978.
 
-Ulansey, David. *The Origins of the Mithraic Mysteries: Cosmology and Salvation in the Ancient World*. Oxford University Press, 1989. [The substantive scholarly treatment of precession in the context of Mithraic mysteries; one of the principal contemporary scholarly engagements with the broader thesis that ancient religious tradition preserves precessional content.]
+Ulansey, David. *The Origins of the Mithraic Mysteries: Cosmology and Salvation in the Ancient World*. Oxford University Press, 1989. [Содержательная научная трактовка прецессии в контексте митраистских мистерий; одно из главных современных научных обращений к более широкому тезису о том, что древняя религиозная традиция сохраняет прецессионное содержание.]
 
 Krupp, E. C. *In Search of Ancient Astronomies*. Doubleday, 1978.
 
 Krupp, E. C. *Echoes of the Ancient Skies: The Astronomy of Lost Civilizations*. Harper & Row, 1983.
 
-Schaefer, Bradley E. "The Latitude and Epoch for the Origin of the Astronomical Lore of Eudoxus." *Journal for the History of Astronomy* 35, no. 2 (2004): 161–223. [Substantive archaeoastronomical work bearing on the question of pre-Hipparchian astronomical observation.]
+Schaefer, Bradley E. «The Latitude and Epoch for the Origin of the Astronomical Lore of Eudoxus». *Journal for the History of Astronomy* 35, no. 2 (2004): 161–223. [Содержательная археоастрономическая работа, относящаяся к вопросу догиппархова астрономического наблюдения.]
 
-Sendy, Jean. *La Lune, clé de la Bible*. Julliard, 1968. [The principal neo-euhemerist engagement with the precessional structure of the Hebrew Bible's chronological content.]
+Sendy, Jean. *La Lune, clé de la Bible*. Julliard, 1968. [Главное неоевгемеристическое обращение к прецессионной структуре хронологического содержания Еврейской Библии.]
 
 Sendy, Jean. *Ces dieux qui firent le ciel et la terre*. Robert Laffont, 1969.
 
-Hancock, Graham. *Fingerprints of the Gods: The Evidence of Earth's Lost Civilization*. Crown, 1995. [The principal popular treatment of the broader archaeoastronomical thesis that pre-Hipparchian civilisations possessed substantial astronomical knowledge.]
+Hancock, Graham. *Fingerprints of the Gods: The Evidence of Earth's Lost Civilization*. Crown, 1995. [Главная популярная трактовка более широкого археоастрономического тезиса о том, что догиппарховы цивилизации обладали существенным астрономическим знанием.]
 
-Bauval, Robert, and Adrian Gilbert. *The Orion Mystery: Unlocking the Secrets of the Pyramids*. Crown, 1994. [The principal popular treatment of the Egyptian-pyramid archaeoastronomical thesis.]
+Bauval, Robert, and Adrian Gilbert. *The Orion Mystery: Unlocking the Secrets of the Pyramids*. Crown, 1994. [Главная популярная трактовка археоастрономического тезиса о египетских пирамидах.]
 
 Schoch, Robert M. *Forgotten Civilization: The Role of Solar Outbursts in Our Past and Future*. Inner Traditions, 2012.
 
-"Axial precession." *Wikipedia*. <https://en.wikipedia.org/wiki/Axial_precession>
+«Axial precession». *Wikipedia*. <https://en.wikipedia.org/wiki/Axial_precession>
 
-"Precession of the equinoxes." *Britannica*. <https://www.britannica.com/science/precession-of-the-equinoxes>
+«Precession of the equinoxes». *Britannica*. <https://www.britannica.com/science/precession-of-the-equinoxes>
 
-"Hipparchus." *Wikipedia*. <https://en.wikipedia.org/wiki/Hipparchus>
+«Hipparchus». *Wikipedia*. <https://en.wikipedia.org/wiki/Hipparchus>
 
-"Hamlet's Mill." *Wikipedia*. <https://en.wikipedia.org/wiki/Hamlet%27s_Mill>
+«Hamlet's Mill». *Wikipedia*. <https://en.wikipedia.org/wiki/Hamlet%27s_Mill>
 
-"Astrological age." *Wikipedia*. <https://en.wikipedia.org/wiki/Astrological_age>
+«Astrological age». *Wikipedia*. <https://en.wikipedia.org/wiki/Astrological_age>
 
-"Milankovitch cycles." *Wikipedia*. <https://en.wikipedia.org/wiki/Milankovitch_cycles>
+«Milankovitch cycles». *Wikipedia*. <https://en.wikipedia.org/wiki/Milankovitch_cycles>

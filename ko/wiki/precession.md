@@ -1,368 +1,413 @@
 +++
 title = "세차 운동"
-description = "분점 세차 운동은 히파르코스 이래 관측되어 온 지축의 느린 회전 운동으로, 그 주기는 약 25,920년이다. Wheel of Heaven 코퍼스에서 그것은 세계의 시대의 연대기를 구조화하는 우주적 시계를 이룬다."
+slug = "precession"
+description = "세차 운동은 지구 자전축의 방향이 천천히 주기적으로 변하는 현상으로, 황도 12궁의 항성들을 배경으로 천구의 극이 느린 원운동을 그리는 모습으로 관측된다. 일주 자전과 연주 공전에 이은 지구의 세 번째 주요 운동인 세차 운동은 현대 천문 관측 기준으로 약 25,772년에 한 사이클을 완성하며, 점성술 전통의 산정으로는 25,920년이 되어 각각 2,160년에 해당하는 12개의 세차 시대로 깔끔하게 나뉜다. 이 현상은 그리스 천문학자 로도스의 히파르코스가 기원전 약 129–127년에 자신의 항성 위치 측정값을 기원전 약 283년의 티모카리스의 측정값과 비교하여, 항성의 황경이 분점에 대해 체계적으로 이동했음을 인지함으로써 처음 경험적으로 식별하였다. 세차 운동을 태양과 달이 지구의 적도 융기에 가하는 중력 토크로서 뉴턴 역학으로 설명한 것은 뉴턴 자신이 *프린키피아*(1687년)에서 전개하였다. Wheel of Heaven의 틀은 세차 운동을 단순한 천문 현상이 아니라 코퍼스의 보다 넓은 해석 작업을 위한 기초적 연대기 인프라로 읽는다. 세차 시대는 코퍼스가 엘로힘 프로젝트의 주요 사건들을 연대 짓는 시간적 틀을 제공하며(사자자리 시대의 인류 합성, 황소자리 시대의 수메르–이집트 문명, 양자리 시대의 히브리 예언 시대, 물고기자리 시대의 기독교 시대, 물병자리 시대의 현대적 회복), 세차 운동 내용의 범문화적 신화적 보존(데 산틸라나와 폰 데헨트의 *햄릿의 맷돌*[1969]에서 전개됨)은 코퍼스가 다루는 보다 넓은 자료 전통 자료를 통한 세차 운동 천문 지식의 히파르코스 이전 전수에 대한 증거로 다루어집니다."
 template = "wiki-page.html"
 toc = true
 
 [extra]
-translation_status = "metadata_only"
-redirect_to = { title = "World Age", path = "/wiki/world-age/" }
-category = "Cosmic Chronology"
+featured_order = 5
+redirect_to = { title = "세계의 시대", path = "/ko/wiki/world-age/" }
+category = "우주적 연대기"
 editorial_pass = "2026-05"
 entry_type = "concept"
 claim_type = "inferred"
-alternative_names = ["Precession of the equinoxes", "Axial precession", "Lunisolar precession (the principal component)", "Greek προήγησις (proēgēsis, \"a leading forth\")"]
+alternative_names = ["분점 세차 운동", "지축 세차 운동", "달–태양 세차 운동(주성분)", "그리스어 προήγησις (proēgēsis, '앞으로 이끎')"]
+see_also = [
+    { title = "대년(大年)", path = "wiki/great-year", description = "약 26,000년에 걸친 세차 운동의 전 주기." },
+    { title = "대월(大月)", path = "wiki/great-month", description = "대년의 12분의 1 — 하나의 시대의 길이." },
+    { title = "세계의 시대", path = "wiki/world-age", description = "인류사의 한 장으로 다루어지는 세차 시대." },
+    { title = "황도 12궁", path = "wiki/zodiac", description = "세차 운동이 측정되는 배경이 되는 별자리 띠." },
+    { title = "고고천문학", path = "wiki/archaeoastronomy", description = "세차 운동의 시계에 비추어 고대 기념물을 읽는 학문 분야." },
+]
+
+footnotes = [
+    { content = "연간 약 50.29각초라는 현대 수치는 표준 기준점 J2000.0에서의 *황경에서의 일반 세차*이며, IAU 2006 세차 모델에 주어져 있고 미우스의 *천문 알고리즘*에 표로 정리되어 있습니다. 이 비율로부터 도출되는 대응되는 전 주기 기간은 약 25,772년입니다. 점성술 전통의 수치인 25,920년(12개 시대로 깔끔하게 2,160년씩 나뉘는)은 산술을 단순화하는 반올림 편의이며, 측정된 비율과는 약간의 불일치를 댓가로 하지만 — 두 수치는 약 0.6%의 차이를 보이며, 이는 시대 경계에 관한 다른 방법론적 선택들이 만들어내는 변동 범위 안에 충분히 들어갑니다." },
+    { content = "달–태양 성분(적도 융기에 작용하는 태양과 달)과 행성 성분(주로 목성과 금성)이 함께 *일반 세차*를 만들어 냅니다. 통상의 분해에서는 달이 달–태양 효과의 약 3분의 2를, 태양이 약 3분의 1을 차지하며, 이는 달의 질량이 훨씬 작음에도 불구하고 달이 더 가까이 있다는 사실을 반영합니다. 행성 성분은 자전축이라기보다는 궤도면에 주로 작용하므로, 세차 총량에 그것을 포함시키는 것은 적도 융기에 대한 직접적 토크라기보다는 분점 위치에 대한 합산된 효과를 반영합니다." },
+    { content = "히파르코스의 값인 연간 약 36각초(세기당 1도)는 그 자신이 지적했듯이 하한입니다. 현대 값인 연간 50.29각초는 약 40% 더 큽니다. 히파르코스가 의존한 처녀자리 알파성 측정 — 기원전 약 283년에 티모카리스가 추분점 서쪽 8°에서, 기원전 약 129년에 히파르코스가 6°에서 — 은 154년에 걸친 2°의 이동으로부터 직접 비율을 줍니다. 프톨레마이오스는 히파르코스의 더 낮은 수치를 유지하였고, 그 결과 발생한 달력 오차는 중세 이슬람 천문학자들(특히 알바타니)이 이후 교정한 계승된 오류들 중 하나였습니다." },
+    { content = "구왕국 이집트 피라미드의 투반 정렬은 주류 고고천문학에서 잘 확립된 결과입니다. 기자 대피라미드의 이른바 *별 갱도*는 표준적 재구성에서 건조 시기에 투반(당시 천구극에서 ~0.1° 이내)과 그 밖의 여러 별이 차지하고 있었을 위치를 가리킵니다. 이 정렬은 통상의 제4왕조 연대와 일관되며, 그 자체로서 세차 운동에 대한 히파르코스 이전의 이론적 지식을 요구하지는 않습니다 — 동시대 극성에 대한 관측적 표적 설정으로도 충분합니다. *햄릿의 맷돌* 명제는 이 관측적 주장을 훨씬 넘어섭니다." },
+    { content = "2,160년이라는 시대 길이는 점성술 전통의 관행(25,920 / 12)이지, 측정된 천문학적 간격이 아닙니다. 현대 비율을 사용하면 한 주기의 12분의 1은 약 2,148년입니다. IAU 1930년 정의에 따른 별자리 경계는 처녀자리가 황도의 약 45°를, 게자리가 약 20°를 차지하는 등 길이가 균등하지 않은 시대들을 만들어 냅니다. 코퍼스가 채택한 산정은 연대기적 편의를 위해 시대를 균등한 2,160년 기간으로 다루며, 경계 연도는 약 ±200년 이내에서 근사적인 것으로 다룹니다." },
+    { content = "현재의 폴라리스 정렬은 세차 순환의 나머지 시기에 비해 이례적으로 가깝습니다. 폴라리스는 현재 천구극에서 약 0.7° 이내에 있으며, 가장 가까운 접근은 약 2102년 CE에 약 0.45°에서 일어납니다. 순환의 대부분에서는 비슷할 만큼 밝은 별이 극에서 1° 이내에 위치하지 않습니다. 투반의 이전의 가장 가까운 접근(기원전 약 2,800년)은 약 0.1°에 이르렀으며, 이는 폴라리스가 도달할 그 어떤 거리보다도 가깝지만, 투반은 상당히 어둡습니다. 베가의 가장 가까운 접근(약 13,727년 CE)은 어떤 현재의 극성 배치보다도 밝지만 극에서 약 5° 떨어져 있으며 — 이는 폴라리스가 현재 차지하고 있는 각거리보다 훨씬 큰 분리각입니다." },
+]
+
+[[extra.references]]
+id = "astronomical-algorithms"
+note = "미우스, *천문 알고리즘* — 현대 세차율(연 ~50.29각초)과 ~25,772년 주기에 대한 표준 참고서."
+
+[[extra.references]]
+id = "hamlets-mill"
+note = "데 산틸라나와 폰 데헨트, *햄릿의 맷돌: 신화와 시간의 틀에 관한 에세이*(Gambit, 1969) — 히파르코스 이전의 전 지구적 신화가 체계적으로 세차 운동 천문 내용을 부호화한다는 명제에 대한 기초적 학술적 작업."
+
+[[extra.references]]
+id = "the-bible-is-not-a-sacred-book"
+note = "빌리노, *Il libro che cambierà per sempre le nostre idee sulla Bibbia*(2011) — 세차 운동을 엘로힘/아눈나키의 항법 인프라로 잠재적으로 봉사할 수 있다는 빌리노 독해의 출처."
+
+[[extra.references]]
+id = "the-gospels-in-the-stars"
+note = "자이스, *별들 속의 복음* — 황도–기독교 상징 대응(물고기자리 / 익튀스)에 대한 19세기 작업."
+
+[[extra.references]]
+id = "mazzaroth-rolleston"
+note = "롤스턴, *마짜로트, 또는 별자리들* — 히브리/황도 해석 전통의 주된 빅토리아 시대 자료."
+
+[[extra.references]]
+id = "mazzaroth-dot-com"
+note = "*마짜로트* 온라인 모음집 — 황도–성경 해석 전통의 현대적 집성."
+
+[[extra.references]]
+id = "the-book-which-tells-the-truth"
+note = "보릴롱(라엘), *진실을 말하는 책*(1974) — 세차 시대가 정박시키는 코퍼스의 연대기적 틀에 대한 라엘의 일차 자료."
 
 [extra.infobox]
-type = "Cyclical change in the orientation of Earth's rotational axis; the third principal Earth motion"
-period = "Approximately 25,772 years for one complete cycle (modern astronomical measurement); 25,920 years in the astrological-tradition reckoning (12 × 2,160-year Ages)"
-rate = "Approximately 50.29 arcseconds per year (modern); 1° every approximately 71.6 years; 30° (one zodiacal sign) every approximately 2,150 years"
-cause = "Gravitational torque exerted by the Sun and Moon on Earth's equatorial bulge (the lunisolar component, ~96% of the effect); smaller contributions from the gravitational influence of the planets (planetary precession)"
-historical_discovery = "Hipparchus of Rhodes (c. 190 – c. 120 BCE), approximately 129–127 BCE; based on comparison of his star catalogue against the earlier measurements of Timocharis of Alexandria (c. 320 – c. 260 BCE)"
-modern_mechanical_explanation = "Isaac Newton, *Philosophiæ Naturalis Principia Mathematica* (1687), Book III, Propositions XXXIX-XLI"
-related_phenomena = "Axial obliquity variation (~41,000-year cycle, the second principal Milankovitch cycle); orbital eccentricity variation (~100,000-year cycle, the third principal Milankovitch cycle); the broader Milankovitch theory of long-term climate forcing"
-current_north_pole_star = "Polaris (α Ursae Minoris), currently within ~0.7° of the celestial north pole; closest approach in approximately 2102 CE; subsequently moving away"
-next_principal_north_pole_star = "Vega (α Lyrae), closest approach approximately 13,727 CE; Thuban (α Draconis) was the principal pole star approximately 2,800 BCE; the sequence is cyclical across the 25,772-year period"
-zodiacal_division = "Twelve equal Ages of 30° each (approximately 2,150-2,160 years per Age) constitute one full precessional cycle"
-framework_significance = "Foundational chronological infrastructure for the Wheel of Heaven corpus; the precessional Ages provide the temporal framework within which the corpus dates the principal events of the Elohim project and the broader prophetic record"
-key_external_references = "Santillana, Giorgio de, and Hertha von Dechend. *Hamlet's Mill: An Essay on Myth and the Frame of Time*. Gambit, 1969. — The foundational scholarly engagement with the thesis that pre-Hipparchian global mythology systematically encodes precessional astronomical content."
+type = "지구 자전축 방향의 주기적 변화 — 지구의 세 번째 주요 운동"
+period = "한 사이클당 약 25,772년(현대 천문 측정); 점성술 전통의 산정으로는 25,920년(12 × 2,160년 시대)"
+rate = "연간 약 50.29각초(현대); 약 71.6년마다 1°; 약 2,150년마다 30°(황도 12궁의 한 별자리)"
+cause = "태양과 달이 지구의 적도 융기에 가하는 중력 토크(달–태양 성분, 효과의 ~96%); 행성들의 중력 영향에서 비롯되는 더 작은 기여(행성 세차)"
+historical_discovery = "로도스의 히파르코스(기원전 약 190 – 약 120년), 기원전 약 129–127년; 알렉산드리아의 티모카리스(기원전 약 320 – 약 260년)의 이전 측정값과의 자신의 항성 목록 비교에 기반함"
+modern_mechanical_explanation = "아이작 뉴턴, *자연철학의 수학적 원리*(1687), 제3권, 명제 XXXIX–XLI"
+related_phenomena = "황도 경사각 변동(~41,000년 주기, 제2의 주요 밀란코비치 주기); 궤도 이심률 변동(~100,000년 주기, 제3의 주요 밀란코비치 주기); 장기 기후 강제에 관한 보다 넓은 밀란코비치 이론"
+current_north_pole_star = "폴라리스(작은곰자리 α), 현재 천구 북극에서 ~0.7° 이내; 가장 가까운 접근은 약 2102년 CE; 이후 멀어짐"
+next_principal_north_pole_star = "베가(거문고자리 α), 가장 가까운 접근은 약 13,727년 CE; 투반(용자리 α)이 기원전 약 2,800년에 주요 극성이었음; 25,772년 주기에 걸쳐 순환적임"
+zodiacal_division = "각각 30°의 균등한 12개의 시대(시대당 약 2,150–2,160년)가 하나의 완전한 세차 순환을 구성함"
+framework_significance = "Wheel of Heaven 코퍼스의 기초적 연대기 인프라; 세차 시대는 코퍼스가 엘로힘 프로젝트와 보다 넓은 예언적 기록의 주요 사건들을 연대 짓는 시간적 틀을 제공함"
+key_external_references = "데 산틸라나, 조르조, 그리고 헤르타 폰 데헨트. *햄릿의 맷돌: 신화와 시간의 틀에 관한 에세이*. Gambit, 1969. — 히파르코스 이전의 전 지구적 신화가 체계적으로 세차 운동 천문 내용을 부호화한다는 명제에 대한 기초적 학술 작업."
 +++
 
-**Precession** — formally **axial precession** or **precession of the equinoxes** — is the steady cyclical change in the orientation of Earth's rotational axis, traced as a slow circular motion of the celestial poles against the background of fixed stars and as a corresponding shift in the position of the equinoxes along the ecliptic. It is the **third of the three principal Earth motions**, alongside the daily rotation around the planetary axis (producing the day-night cycle) and the annual revolution around the Sun (producing the year cycle). The precessional cycle completes one full revolution in approximately **25,772 years** on modern astronomical measurement, or **25,920 years** on the astrological-tradition reckoning that produces the clean division into twelve precessional **Ages** of 2,160 years each. The rate is approximately **50.29 arcseconds per year**, equivalent to one degree of arc every approximately 71.6 years or one full zodiacal sign (30°) every approximately 2,150 years.
+**세차 운동** — 형식적으로는 **지축 세차 운동** 또는 **분점 세차 운동** — 은 지구 자전축의 방향이 천천히 주기적으로 변하는 현상으로, 황도 12궁의 항성들을 배경으로 천구의 극이 느린 원운동을 그리는 모습으로, 그리고 황도를 따라 분점의 위치가 그에 상응하여 이동하는 모습으로 관측됩니다. 이는 행성 축을 중심으로 한 일주 자전(낮과 밤의 순환을 만들어 냄)과 태양 주위를 도는 연주 공전(한 해의 순환을 만들어 냄)에 이은 **지구의 세 번째 주요 운동**입니다. 세차 운동의 순환은 현대 천문 관측 기준으로 약 **25,772년**에 한 사이클을 완성하며, 점성술 전통의 산정으로는 **25,920년**이 되어 각각 2,160년에 해당하는 12개의 세차 **시대**로 깔끔하게 나뉩니다. 비율은 연간 약 **50.29각초**로, 약 71.6년마다 호의 1도, 또는 약 2,150년마다 황도 12궁의 한 완전한 별자리(30°)에 해당합니다.{{ cite(id="astronomical-algorithms", text="[1]", title="미우스, *천문 알고리즘* — 현대 세차율과 주기에 대한 표준 참고서") }}{{ footnote(id="1") }}
 
-The phenomenon was first identified empirically by the Greek astronomer **Hipparchus of Rhodes** (c. 190 – c. 120 BCE) in approximately 129–127 BCE, who compared his own positional measurements of the bright stars against the earlier measurements of **Timocharis of Alexandria** from approximately 283 BCE and noticed that the longitudes of the stars had shifted by approximately 2° relative to the equinox points across the intervening 150 years. Hipparchus's discovery established precession as a recognised astronomical phenomenon and provided the foundation for all subsequent astronomical work on the topic. The **Newtonian mechanical explanation** of precession as the gravitational torque exerted by the Sun and Moon on Earth's equatorial bulge was developed by Isaac Newton himself in the *Philosophiæ Naturalis Principia Mathematica* (1687), Book III, completing the transition from observational identification to causal physical explanation.
+이 현상은 그리스 천문학자 **로도스의 히파르코스**(기원전 약 190 – 약 120년)가 기원전 약 129–127년에, 자신의 밝은 항성 위치 측정값을 기원전 약 283년의 **알렉산드리아의 티모카리스**의 이전 측정값과 비교하여, 그 사이의 150년에 걸쳐 항성의 황경이 분점에 대해 약 2° 이동했음을 알아챔으로써 처음 경험적으로 식별하였습니다. 히파르코스의 발견은 세차 운동을 인지된 천문 현상으로 확립하였고, 그 주제에 대한 모든 후속 천문학적 작업의 기초를 제공하였습니다. 세차 운동을 태양과 달이 지구의 적도 융기에 가하는 중력 토크로서 설명한 **뉴턴 역학적 설명**은 아이작 뉴턴 자신이 *자연철학의 수학적 원리*(1687년) 제3권에서 전개하였으며, 이는 관측적 식별로부터 인과적 물리 설명으로의 이행을 완성하였습니다.
 
-The Wheel of Heaven framework reads precession not merely as an astronomical phenomenon but as **foundational chronological infrastructure** for the corpus's broader interpretive work. The precessional **Ages** provide the temporal framework within which the corpus dates the principal events of the Elohim project: the **Age of Virgo** (c. 15,330 – 13,170 BCE) for the *yom* 5 phase of Genesis 1; the **Age of Leo** (c. 13,170 – 11,010 BCE) for the *yom* 6 human-synthesis phase; the **Age of Cancer** (c. 11,010 – 8,850 BCE) for the post-deluge reorganisation; the **Age of Gemini** (c. 8,850 – 6,690 BCE) for the early Neolithic population developments; the **Age of Taurus** (c. 6,690 – 4,530 BCE) for the Sumerian, Egyptian, and broader bronze-age civilisations; the **Age of Aries** (c. 4,530 – 2,370 BCE, with the principal Hebrew prophetic events concentrated in the middle-to-late portion); the **Age of Pisces** (c. 1 CE – 2,160 CE) for the Christian era; the **Age of Aquarius** (c. 2,160 CE forward) for the contemporary recovery period. The cross-cultural mythological preservation of precessional content — developed substantively in **Giorgio de Santillana and Hertha von Dechend's *Hamlet's Mill: An Essay on Myth and the Frame of Time*** (Gambit, 1969) — is treated by the framework as evidence for the pre-Hipparchian transmission of precessional astronomical knowledge through the broader source-tradition material that the corpus engages.
+{% wiki(slug="wheel-of-heaven") %}Wheel of Heaven{% end %}의 틀은 세차 운동을 단순한 천문 현상이 아니라 코퍼스의 보다 넓은 해석 작업을 위한 **기초적 연대기 인프라**로 읽습니다. 세차 **시대**는 코퍼스가 {% wiki(slug="elohim") %}엘로힘{% end %} 프로젝트의 주요 사건들을 연대 짓는 시간적 틀을 제공합니다. **처녀자리 시대**(기원전 약 15,330 – 13,170년)는 창세기 1장의 *욤* 5 단계에 해당하며; **사자자리 시대**(기원전 약 13,170 – 11,010년)는 *욤* 6 인류 합성 단계에; **게자리 시대**(기원전 약 11,010 – 8,850년)는 대홍수 이후의 재편성에; **쌍둥이자리 시대**(기원전 약 8,850 – 6,690년)는 초기 신석기 인구 발전에; **황소자리 시대**(기원전 약 6,690 – 4,530년)는 수메르, 이집트 및 보다 넓은 청동기 시대 문명에; **양자리 시대**(기원전 약 4,530 – 2,370년, 주요 히브리 예언 사건들은 중후반부에 집중됨)는; **물고기자리 시대**(서기 약 1 – 2,160년)는 기독교 시대에; **물병자리 시대**(서기 약 2,160년 이후)는 현대적 회복 시기에 해당합니다. 세차 운동 내용의 범문화적 신화적 보존 — **조르조 데 산틸라나와 헤르타 폰 데헨트의 *햄릿의 맷돌: 신화와 시간의 틀에 관한 에세이***(Gambit, 1969){{ cite(id="hamlets-mill", text="[2]", title="데 산틸라나와 폰 데헨트, *햄릿의 맷돌*(1969) — 히파르코스 이전의 신화적 세차 운동 부호화에 대한 기초적 명제") }}에서 본격적으로 전개된 — 은 코퍼스가 다루는 보다 넓은 자료 전통 자료를 통한 세차 운동 천문 지식의 히파르코스 이전 전수에 대한 증거로 이 틀에 의해 다루어집니다.
 
-## The astronomical phenomenon
+## 천문학적 현상
 
-The mainstream astronomical understanding of precession is well-established and provides the empirical foundation on which the framework's interpretive work depends. The corpus's broader reading does not contest the mainstream astronomical content; the substantive framework moves concern the historical-mythological and chronological-interpretive significance of the phenomenon rather than the astronomy itself.
+세차 운동에 대한 주류 천문학적 이해는 잘 확립되어 있으며, 그 틀의 해석 작업이 의존하는 경험적 기초를 제공합니다. 코퍼스의 보다 넓은 독해는 주류 천문학적 내용에 이의를 제기하지 않으며; 본격적인 틀의 움직임은 천문학 자체보다는 그 현상의 역사적–신화적, 그리고 연대기적–해석적 의의에 관한 것입니다.
 
-### Cause: the lunisolar gravitational torque
+### 원인: 달–태양 중력 토크
 
-The principal physical cause of axial precession is the **gravitational torque** exerted by the Sun and Moon on the Earth's **equatorial bulge**. The Earth is not a perfect sphere but an **oblate spheroid**: the equatorial diameter (approximately 12,756 km) exceeds the polar diameter (approximately 12,714 km) by about 43 km, with the excess concentrated as an equatorial bulge resulting from the centrifugal force of the planetary rotation. The Earth's rotational axis is tilted approximately 23.4° relative to the orbital plane (the **ecliptic**), so the gravitational pull of the Sun and Moon on the equatorial bulge acts at an angle to the rotational axis, producing a **torque** that attempts to align the axis with the perpendicular to the ecliptic.
+지축 세차 운동의 주요 물리적 원인은 태양과 달이 지구의 **적도 융기**에 가하는 **중력 토크**입니다. 지구는 완전한 구가 아니라 **편구상체(扁球狀體)**입니다. 적도 지름(약 12,756 km)이 극 지름(약 12,714 km)을 약 43 km 초과하며, 그 초과분은 행성 자전의 원심력에서 기인하는 적도 융기로 집중되어 있습니다. 지구의 자전축은 궤도면(**황도**)에 대해 약 23.4° 기울어져 있으므로, 태양과 달이 적도 융기에 가하는 중력은 자전축에 대해 각을 이루며 작용하며, 자전축을 황도에 수직인 방향으로 정렬시키려는 **토크**를 만들어 냅니다.
 
-The Earth's rotational angular momentum, however, resists the direct realignment that the torque would produce in a non-rotating body. The combination of the rotational angular momentum and the gravitational torque produces the characteristic **precessional motion** — the axis tracing out a cone over the precessional period of approximately 25,772 years, similar to the wobble of a spinning top whose axis is not perfectly vertical. The motion is approximately analogous to gyroscopic precession in mechanical systems.
+그러나 지구의 자전 각운동량은 비회전체에서 그 토크가 만들어 낼 직접적인 재정렬에 저항합니다. 자전 각운동량과 중력 토크의 조합은 특징적인 **세차 운동** — 약 25,772년의 세차 주기에 걸쳐 축이 원뿔을 그리는 운동, 축이 완전히 수직이 아닌 회전하는 팽이의 흔들림과 유사한 — 을 만들어 냅니다. 이 운동은 기계 시스템에서의 자이로스코프적 세차 운동과 대체로 유사합니다.
 
-The **lunisolar component** — the combined gravitational torque of the Moon and Sun — accounts for approximately 96% of the precessional motion. The **planetary component** — the smaller gravitational influence of the other planets, principally Jupiter and Venus — produces an additional approximately 4% of the precessional motion. The total annual rate of precession (the **general precession**) is approximately 50.29 arcseconds per year as measured in the contemporary epoch.
+**달–태양 성분** — 달과 태양의 결합된 중력 토크 — 은 세차 운동의 약 96%를 차지합니다. **행성 성분** — 다른 행성들, 주로 목성과 금성의 더 작은 중력 영향 — 은 추가로 세차 운동의 약 4%를 만들어 냅니다. 세차 운동의 연간 총 비율(**일반 세차**)은 현재 시대에 측정된 바로 연간 약 50.29각초입니다.{{ footnote(id="2") }}
 
-### Distinction from related phenomena
+### 관련 현상과의 구별
 
-Precession should be carefully distinguished from several related but distinct cyclical phenomena affecting Earth:
+세차 운동은 지구에 영향을 미치는 여러 관련되지만 별개인 주기적 현상들과 주의 깊게 구별되어야 합니다.
 
-- **Axial obliquity variation** (sometimes confused with precession in popular treatments): the variation in the *magnitude* of the Earth's axial tilt across approximately 22.1° to 24.5°, with a cycle period of approximately **41,000 years**. The current axial tilt is approximately 23.44° and is slowly decreasing. The obliquity variation is one of the three principal **Milankovitch cycles** that drive long-term climate variation.
-- **Orbital eccentricity variation**: the variation in the *shape* of the Earth's orbit, from nearly circular (eccentricity approximately 0.005) to more elliptical (eccentricity approximately 0.058), with cycle periods of approximately **100,000 and 405,000 years**. The current eccentricity is approximately 0.0167. This is the second of the three principal Milankovitch cycles.
-- **Apsidal precession** (or precession of the orbit): the slow rotation of the orbital ellipse itself, distinct from the axial precession. The combination of axial precession and apsidal precession produces the **climatic precession** cycle of approximately **23,000 years** that is the third principal Milankovitch cycle.
-- **Nutation**: a smaller-amplitude wobble superimposed on the main precessional motion, with a principal period of approximately **18.6 years** corresponding to the regression of the Moon's orbital nodes. Nutation produces oscillations of approximately ±9 arcseconds in the celestial coordinates.
+- **황도 경사각 변동**(대중적 설명에서는 종종 세차 운동과 혼동됨): 지구 자전축 기울기의 *크기*가 약 22.1°에서 24.5° 사이에서 변동하는 것으로, 주기는 약 **41,000년**입니다. 현재의 자전축 기울기는 약 23.44°이며 천천히 감소하고 있습니다. 경사각 변동은 장기 기후 변동을 추동하는 세 가지 주요 **밀란코비치 주기** 중 하나입니다.
+- **궤도 이심률 변동**: 지구 궤도의 *모양*이 거의 원형(이심률 약 0.005)에서 더 타원형(이심률 약 0.058)에 이르기까지 변동하는 것으로, 주기는 약 **100,000년과 405,000년**입니다. 현재의 이심률은 약 0.0167입니다. 이는 세 가지 주요 밀란코비치 주기 중 두 번째입니다.
+- **근일점 세차**(또는 궤도의 세차): 궤도 타원 자체의 느린 회전으로, 지축 세차와는 별개입니다. 지축 세차와 근일점 세차의 조합은 약 **23,000년**의 **기후 세차** 주기를 만들어 내며, 이는 세 번째 주요 밀란코비치 주기입니다.
+- **장동(章動)**: 주요 세차 운동에 중첩되는 더 작은 진폭의 흔들림으로, 주된 주기는 약 **18.6년**이며 달 궤도 교점의 후퇴에 대응합니다. 장동은 천체 좌표에서 약 ±9각초의 진동을 만들어 냅니다.
 
-The principal practical consequence of these distinct cycles is that the Earth's orientation in space changes on multiple coupled timescales. The dominant cycle for cultural-historical purposes is the ~25,772-year axial precession; the slower obliquity and eccentricity cycles produce the major glacial-interglacial climate variations of the Pleistocene.
+이 별개의 주기들의 주요 실질적 결과는 지구의 공간 내 방향이 여러 결합된 시간 척도에서 변한다는 것입니다. 문화–역사적 목적에서 지배적인 주기는 ~25,772년의 지축 세차 운동입니다. 더 느린 경사각 및 이심률 주기는 플라이스토세의 주요 빙기–간빙기 기후 변동을 만들어 냅니다.
 
-### Empirical signatures of precession
+### 세차 운동의 경험적 표지
 
-The principal empirical signatures of axial precession are:
+지축 세차 운동의 주요 경험적 표지는 다음과 같습니다.
 
-- **The shift of the equinoxes** along the ecliptic. The vernal equinox point — the position of the Sun against the fixed-star background on the spring equinox — moves westward along the ecliptic at the precessional rate, traversing the entire 360° of the ecliptic across one precessional cycle.
-- **The change in the celestial pole position**. The celestial north and south poles — the points where the rotational axis extended meets the celestial sphere — trace out small circles (approximately 23.4° in radius) against the fixed-star background across the precessional period. The current North Pole star is **Polaris** (α Ursae Minoris, ~0.7° from the celestial north pole); the South Pole has no comparably bright star within reasonable proximity.
-- **The shift in the rising and setting positions** of stars and constellations on the horizon at specific seasonal markers. The cumulative shift is sufficient to substantially alter the appearance of the seasonal night sky across periods of 1,000-2,000 years.
-- **The difference between the tropical and sidereal years**. The **tropical year** (the time for the Sun to return to the same equinox or solstice) is approximately 365.2422 days; the **sidereal year** (the time for the Sun to return to the same position relative to the fixed stars) is approximately 365.2564 days; the difference of approximately 20 minutes per year is the cumulative effect of precession.
+- **분점의 황도 상 이동**. 춘분점 — 춘분에 항성 배경에 대한 태양의 위치 — 은 세차 비율로 황도를 따라 서쪽으로 이동하며, 한 세차 주기 동안 황도의 전 360°를 가로지릅니다.
+- **천극 위치의 변화**. 천구 북극과 남극 — 자전축을 연장하여 천구와 만나는 지점 — 은 세차 주기에 걸쳐 항성 배경에 대해 작은 원(반경 약 23.4°)을 그립니다. 현재의 북극성은 **폴라리스**(작은곰자리 α, 천구 북극에서 ~0.7°)이며; 남극에는 합리적인 근접 거리 내에 비슷할 만큼 밝은 별이 없습니다.{{ footnote(id="6") }}
+- **별과 별자리의 뜨고 짐의 위치 이동**이 특정 계절적 표지에서의 지평선 위에서 일어남. 누적되는 이동은 1,000–2,000년의 기간에 걸쳐 계절적 밤하늘의 외관을 실질적으로 변경시키기에 충분합니다.
+- **회귀년과 항성년의 차이**. **회귀년**(태양이 같은 분점이나 지점으로 돌아오는 시간)은 약 365.2422일이며; **항성년**(태양이 항성에 대해 같은 위치로 돌아오는 시간)은 약 365.2564일입니다. 연간 약 20분의 차이는 세차 운동의 누적 효과입니다.
 
-### The North Pole star sequence
+### 북극성 계열
 
-The slow motion of the celestial north pole produces a sequence of stars that successively serve as approximate North Pole stars across the precessional cycle. The principal sequence:
+천구 북극의 느린 운동은 세차 주기에 걸쳐 차례로 근사적인 북극성으로 봉사하는 별들의 계열을 만들어 냅니다. 주요 계열은 다음과 같습니다.
 
-- **Thuban** (α Draconis) — the principal North Pole star approximately **2,800 BCE**, within ~0.1° of the celestial pole at its closest approach. The Egyptian pyramid-builders of the Fourth Dynasty (c. 2,600–2,500 BCE) aligned their pyramid shafts on Thuban as the pole star of that period.
-- **Polaris** (α Ursae Minoris) — the current North Pole star, with closest approach approximately **2102 CE** at approximately 0.45° from the celestial pole.
-- **Errai** (γ Cephei) — will be the closest reasonably bright star to the celestial north pole approximately **4,000 CE**.
-- **Vega** (α Lyrae) — will be the closest principal bright star to the celestial north pole approximately **13,727 CE**, at approximately 5° from the pole. Vega is one of the brightest stars in the sky (apparent magnitude 0.03), and its closest approach will produce the most prominent pole-star configuration of the precessional cycle.
-- **Thuban** (α Draconis) — returns as the pole star approximately **22,800 CE**, completing one precessional cycle from its previous closest approach.
+- **투반**(용자리 α) — 기원전 약 **2,800년**의 주요 북극성으로, 가장 가까운 접근 시 천극에서 ~0.1° 이내. 제4왕조의 이집트 피라미드 건설자들(기원전 약 2,600–2,500년)은 그 시기의 극성으로서 투반에 자신들의 피라미드 갱도를 정렬시켰습니다.{{ footnote(id="4") }}
+- **폴라리스**(작은곰자리 α) — 현재의 북극성으로, 가장 가까운 접근은 약 **2102년 CE**에 천극에서 약 0.45°.
+- **에라이**(케페우스자리 γ) — 약 **4,000년 CE**에 천구 북극에 가장 가까운 합리적으로 밝은 별이 될 것입니다.
+- **베가**(거문고자리 α) — 약 **13,727년 CE**에 천구 북극에 가장 가까운 주요 밝은 별이 될 것이며, 극에서 약 5° 떨어져 있게 됩니다. 베가는 하늘에서 가장 밝은 별 중 하나이며(겉보기 등급 0.03), 가장 가까운 접근은 세차 주기에서 가장 두드러진 극성 배치를 만들어 낼 것입니다.
+- **투반**(용자리 α) — 약 **22,800년 CE**에 극성으로 돌아오며, 이전의 가장 가까운 접근으로부터 한 세차 주기를 완성합니다.
 
-The sequence is cyclical: the precessional motion returns the celestial pole to each of these stars in turn across the ~25,772-year period.
+이 계열은 순환적입니다. 세차 운동은 ~25,772년 주기에 걸쳐 천극을 이 별들 각각에 차례로 되돌립니다.
 
-## History of the concept
+## 개념의 역사
 
-The astronomical history of precession is one of the most substantively significant single chapters in the history of pre-modern science, with the discovery itself among the most important empirical observations of antiquity. The framework's broader reading of precession depends on the historical record both for the mainstream-scientific identification and for the broader question of pre-Hipparchian transmission.
+세차 운동의 천문학적 역사는 전근대 과학사에서 가장 본격적으로 의미 있는 단일 장 중 하나이며, 발견 자체가 고대의 가장 중요한 경험적 관측 중 하나입니다. 세차 운동에 대한 틀의 보다 넓은 독해는 주류 과학적 식별에 관해서도, 그리고 히파르코스 이전 전수의 보다 넓은 문제에 관해서도, 역사적 기록에 의존합니다.
 
-### Pre-Hipparchian period
+### 히파르코스 이전 시기
 
-The mainstream scholarly consensus is that **Babylonian astronomy** — the most sophisticated pre-Greek astronomical tradition, with continuous records of celestial observations extending from approximately the 8th century BCE onward — did not explicitly identify precession as a distinct astronomical phenomenon. The Babylonian record includes substantial positional measurements of the bright stars (the **MUL.APIN** astronomical compendium, c. 1000-700 BCE, includes lists of stars and their seasonal risings and settings) that, in retrospect, contain evidence of precessional effects, but the Babylonian astronomers themselves do not appear to have recognised the systematic shift as a distinct phenomenon.
+주류 학계의 합의는, 가장 정교한 그리스 이전 천문 전통이며 기원전 약 8세기부터 천체 관측의 연속적 기록을 갖춘 **바빌로니아 천문학**이, 세차 운동을 별개의 천문 현상으로서 명시적으로 식별하지 않았다는 것입니다. 바빌로니아 기록에는 밝은 항성에 대한 본격적인 위치 측정이 포함되어 있으며(**MUL.APIN** 천문 편람[기원전 약 1000–700년]은 항성 목록과 계절적인 뜨고 짐의 위치를 포함합니다), 사후적으로 보면 그것들에는 세차 운동의 효과에 대한 증거가 담겨 있지만, 바빌로니아 천문학자들 자신은 그 체계적인 이동을 별개의 현상으로 인지하지 못한 것으로 보입니다.
 
-Earlier Egyptian astronomical tradition — particularly the temple alignments of the Old and Middle Kingdoms — does show evidence of awareness of stellar shifts across long periods, but again without explicit identification of precession as a distinct phenomenon in the surviving textual sources.
+이전의 이집트 천문 전통 — 특히 구왕국과 중왕국의 신전 정렬 — 은 오랜 기간에 걸친 항성 이동에 대한 인식의 증거를 보여 주지만, 다시금 현존하는 텍스트 자료에서는 세차 운동을 별개의 현상으로서 명시적으로 식별하고 있지 않습니다.
 
-The **Vedic astronomical tradition** of the Indian subcontinent — particularly the *Jyotisha* texts of approximately the 1st millennium BCE — contains substantial astronomical content including the *yuga* cycle (the cosmological cycles of approximately 4.32 million years), but the relationship of the *yuga* doctrine to precessional astronomy is genuinely contested: some interpreters read the shorter *yuga* periods (the *manvantaras* and shorter divisions) as corresponding to precessional cycles, others read them as purely cosmological-mythological numbers. The contemporary academic position is that the explicit identification of precession in the Indian astronomical tradition postdates the Greek discovery; the framework's broader reading is open on whether earlier Indian transmission of precessional content occurred.
+인도 아대륙의 **베다 천문 전통** — 특히 기원전 약 1천년기의 *조티샤* 텍스트들 — 에는 *유가* 순환(약 432만 년의 우주론적 순환)을 포함한 본격적인 천문학적 내용이 담겨 있지만, *유가* 교리와 세차 운동 천문학의 관계는 진정으로 논쟁의 여지가 있습니다. 어떤 해석자들은 더 짧은 *유가* 기간(*만반타라* 및 더 짧은 분할들)을 세차 순환에 대응하는 것으로 읽고, 다른 이들은 그것들을 순전히 우주론적–신화적 수치들로 읽습니다. 동시대의 학계 입장은 인도 천문 전통에서 세차 운동의 명시적 식별이 그리스의 발견 이후로 위치한다는 것입니다. 틀의 보다 넓은 독해는 더 이른 인도의 세차 운동 내용 전수가 일어났는지에 대해 열려 있습니다.
 
-The **Hamlet's Mill thesis** (Santillana and von Dechend 1969) substantively contests this mainstream-academic position, arguing that pre-Hipparchian global mythology systematically encodes precessional astronomical content in mythological-symbolic form. The thesis is treated more fully in the framework section below.
+**햄릿의 맷돌 명제**(데 산틸라나와 폰 데헨트 1969){{ cite(id="hamlets-mill", text="[2]", title="데 산틸라나와 폰 데헨트, *햄릿의 맷돌*[1969] — 세차 운동의 히파르코스 이전 신화적 부호화") }}는 이 주류 학계 입장에 본격적으로 이의를 제기하며, 히파르코스 이전의 전 지구적 신화가 신화적–상징적 형식으로 세차 운동 천문 내용을 체계적으로 부호화한다고 주장합니다. 이 명제는 아래의 틀 절에서 더 충분히 다루어집니다.
 
-### Hipparchus and the discovery
+### 히파르코스와 발견
 
-The discovery of precession is conventionally attributed to **Hipparchus of Rhodes** (c. 190 – c. 120 BCE), the Greek astronomer who is widely regarded as the greatest astronomical observer of antiquity. Hipparchus worked principally on Rhodes and possibly in Alexandria, with his work surviving primarily through the citations and use made by **Claudius Ptolemy** in the *Almagest* (c. 150 CE).
+세차 운동의 발견은 통상적으로 **로도스의 히파르코스**(기원전 약 190 – 약 120년) — 고대의 가장 위대한 천문 관측자로 널리 인정받는 그리스 천문학자 — 에게 귀속됩니다. 히파르코스는 주로 로도스에서, 그리고 아마도 알렉산드리아에서 작업하였으며, 그의 작업은 주로 **클라우디우스 프톨레마이오스**가 *알마게스트*(서기 약 150년)에서 인용하고 사용한 것을 통해 살아남았습니다.
 
-Hipparchus's discovery of precession is generally dated to approximately **129–127 BCE**, in the context of his compilation of a comprehensive star catalogue (completed approximately 129 BCE, containing positions and magnitudes for approximately 850 stars). The principal methodology:
+히파르코스의 세차 운동 발견은 일반적으로 기원전 약 **129–127년**으로 연대 추정되며, 그의 종합적인 항성 목록(기원전 약 129년에 완성되었으며 약 850개 항성에 대한 위치와 등급을 담고 있음) 편찬의 맥락에서 이루어졌습니다. 주요 방법론은 다음과 같습니다.
 
-1. Hipparchus measured the celestial longitudes of the bright stars with substantial precision, using the equinox points as reference
-2. He compared his measurements with the earlier measurements of **Timocharis of Alexandria** (c. 320 – c. 260 BCE) and **Aristyllos** (active early 3rd century BCE), made approximately 150 years before Hipparchus's own work
-3. He found that the celestial longitudes of all the stars he checked had shifted by approximately the same amount — **approximately 2°** — relative to the equinox points
-4. Hipparchus correctly inferred that this was not a motion of the stars themselves but a motion of the equinox points relative to the fixed stars
+1. 히파르코스는 분점을 기준으로 사용하여 본격적인 정밀도로 밝은 항성의 황경을 측정했습니다.
+2. 그는 자신의 측정값을 자신의 작업 약 150년 전에 이루어진 **알렉산드리아의 티모카리스**(기원전 약 320 – 약 260년) 및 **아리스틸루스**(기원전 3세기 초 활동)의 이전 측정값과 비교했습니다.
+3. 그는 자신이 확인한 모든 항성의 황경이 분점에 대해 대체로 같은 양 — **약 2°** — 만큼 이동했음을 발견했습니다.
+4. 히파르코스는 이것이 항성 자체의 운동이 아니라 항성에 대한 분점의 운동임을 올바르게 추론했습니다.
 
-The first principal case Hipparchus identified was the bright star **Spica** (α Virginis): Timocharis in approximately 283 BCE had measured Spica at 8° west of the autumnal equinox; Hipparchus measured it at 6° west of the autumnal equinox. The 2° difference across approximately 150 years gave Hipparchus a precessional rate of approximately **1°/century or 36 arcseconds/year** — substantially close to the modern value of approximately 50.29 arcseconds/year. Hipparchus's value was a lower bound; he reasonably concluded that the actual rate might be somewhat higher.
+히파르코스가 식별한 첫 번째 주요 사례는 밝은 별 **스피카**(처녀자리 α)였습니다. 기원전 약 283년에 티모카리스는 스피카를 추분점 서쪽 8°에서 측정하였고; 히파르코스는 그것을 추분점 서쪽 6°에서 측정했습니다. 약 150년에 걸친 2°의 차이는 히파르코스에게 약 **세기당 1°, 즉 연간 36각초**의 세차율을 주었으며 — 이는 현대 값인 연간 약 50.29각초에 본격적으로 가깝습니다. 히파르코스의 값은 하한이었으며; 그는 실제 비율이 다소 더 높을 수 있다고 합당하게 결론지었습니다.{{ footnote(id="3") }}
 
-Hipparchus wrote two books on precession: **On the Displacement of the Solstitial and Equinoctial Points** and **On the Length of the Year**. Both are lost but are extensively cited in Ptolemy's *Almagest*, which preserves the substantive content of Hipparchus's discovery.
+히파르코스는 세차 운동에 관해 두 책을 썼습니다. **지점과 분점의 변위에 관하여**와 **한 해의 길이에 관하여**. 둘 다 소실되었지만 프톨레마이오스의 *알마게스트*에 광범위하게 인용되어 있으며, *알마게스트*는 히파르코스 발견의 본격적인 내용을 보존하고 있습니다.
 
-### Ptolemy and the medieval Islamic tradition
+### 프톨레마이오스와 중세 이슬람 전통
 
-**Claudius Ptolemy** (c. 100 – c. 170 CE), the Alexandrian astronomer whose *Almagest* (Greek *Μαθηματικὴ Σύνταξις*, "Mathematical Synthesis"; the Arabic title *al-Majisṭī* gives the standard English title) became the foundational astronomical text for the subsequent fourteen centuries, substantially adopted Hipparchus's precessional theory but used a precessional rate of **1°/century** (36 arcseconds/year), which was lower than the actual rate and contributed to subsequent astronomical errors in calendars and ephemerides.
+알렉산드리아 천문학자 **클라우디우스 프톨레마이오스**(서기 약 100 – 약 170년) — 그의 *알마게스트*(그리스어 *Μαθηματικὴ Σύνταξις*, '수학적 종합'; 아랍어 제목 *al-Majisṭī*가 표준 영어 제목을 줍니다)는 이후 14세기 동안 기초적 천문학 텍스트가 되었습니다 — 는 히파르코스의 세차 이론을 본격적으로 채택하였지만 실제 비율보다 낮은 **세기당 1°**(연간 36각초)의 세차율을 사용하였고, 이는 달력과 천체력에서의 후속 천문학적 오류에 기여하였습니다.
 
-The medieval **Islamic astronomical tradition** — including such figures as al-Battani (c. 858–929 CE), al-Sufi (903–986 CE), al-Biruni (973–1048 CE), and al-Tusi (1201–1274 CE) — substantially developed precessional astronomy. Al-Battani in particular refined the precessional rate to approximately **54.5 arcseconds/year**, closer to the modern value than Ptolemy's. The medieval Islamic astronomers also developed the concept of **trepidation** (an oscillatory component superimposed on the secular precession), which was ultimately rejected by later astronomy but represented a substantive engagement with the precessional phenomenon.
+알바타니(서기 약 858–929년), 알수피(903–986년), 알비루니(973–1048년), 알투시(1201–1274년)와 같은 인물들을 포함하는 중세 **이슬람 천문 전통**은 세차 천문학을 본격적으로 발전시켰습니다. 특히 알바타니는 세차율을 연간 약 **54.5각초**로 정밀화하였으며, 이는 프톨레마이오스의 것보다 현대 값에 가깝습니다. 중세 이슬람 천문학자들은 또한 **트레피데이션**(세속적 세차에 중첩된 진동 성분) 개념을 발전시켰는데, 이것은 후의 천문학에 의해 궁극적으로 거부되었지만 세차 현상에 대한 본격적인 관여를 나타내었습니다.
 
-### Newton and the mechanical explanation
+### 뉴턴과 역학적 설명
 
-The mechanical explanation of precession as the gravitational torque exerted by the Sun and Moon on the Earth's equatorial bulge was developed by **Isaac Newton** (1643–1727) in the *Philosophiæ Naturalis Principia Mathematica* (1687), Book III, Propositions XXXIX-XLI. Newton's derivation was the first physical explanation of the phenomenon; previous astronomers had observed and characterised precession without offering a causal mechanism. Newton's account established that:
+세차 운동을 태양과 달이 지구의 적도 융기에 가하는 중력 토크로서 설명한 역학적 설명은 **아이작 뉴턴**(1643–1727)이 *자연철학의 수학적 원리*(1687), 제3권 명제 XXXIX–XLI에서 전개하였습니다. 뉴턴의 유도는 이 현상에 대한 최초의 물리적 설명이었으며; 이전 천문학자들은 인과적 메커니즘을 제시하지 않은 채 세차 운동을 관측하고 특성화해 왔습니다. 뉴턴의 설명은 다음을 확립했습니다.
 
-- The precession is caused by the gravitational torque on the Earth's equatorial bulge
-- The torque is produced by the gravitational attraction of the Sun and Moon acting at an angle to the Earth's rotational axis
-- The precessional period can be calculated from the Earth's moment of inertia and the gravitational parameters
+- 세차 운동은 지구의 적도 융기에 가해지는 중력 토크에서 기인한다
+- 그 토크는 지구의 자전축에 대해 각을 이루며 작용하는 태양과 달의 중력적 인력에 의해 만들어진다
+- 세차 주기는 지구의 관성 모멘트와 중력 매개변수로부터 계산할 수 있다
 
-Newton's calculation gave a precessional period consistent with the observed value, providing strong empirical confirmation of the broader gravitational theory.
+뉴턴의 계산은 관측된 값과 일관된 세차 주기를 주었으며, 이는 보다 넓은 중력 이론에 대한 강력한 경험적 확증을 제공했습니다.
 
-### Subsequent astronomy
+### 후속 천문학
 
-The subsequent astronomical work on precession through the 18th, 19th, and 20th centuries has principally refined the measurement of the precessional rate, characterised the smaller perturbations (planetary precession, nutation), and integrated the phenomenon into the broader Milankovitch theory of long-term climate variation. The contemporary precessional theory is well-developed and provides the foundation for all astronomical coordinate systems (the **epoch** specification of star catalogues — e.g., J2000.0 — depends on precession).
+18세기, 19세기, 20세기에 걸친 세차 운동에 대한 후속 천문학적 작업은 주로 세차율의 측정을 정밀화하고, 더 작은 섭동(행성 세차, 장동)을 특성화하며, 그 현상을 장기 기후 변동에 관한 보다 넓은 밀란코비치 이론에 통합시켰습니다. 동시대의 세차 이론은 잘 발전되어 있으며 모든 천문학적 좌표계의 기초를 제공합니다(항성 목록의 **기준점** 명세 — 예컨대 J2000.0 — 는 세차 운동에 의존합니다).
 
-## The zodiac and the precessional Ages
+## 황도 12궁과 세차 시대
 
-The zodiac is a band of the sky extending approximately 8° north and south of the ecliptic, conventionally divided into twelve **signs** of 30° each. The signs are named for the constellations that the Sun appears to pass through across the year, though due to precession the contemporary alignment between the signs and the constellations is no longer accurate.
+황도 12궁은 황도의 남북으로 약 8° 뻗어 있는 하늘의 띠로, 통상적으로 각각 30°의 12개 **별자리**로 나뉩니다. 별자리들은 한 해에 걸쳐 태양이 통과하는 것으로 보이는 별자리들의 이름을 따 명명되었지만, 세차 운동으로 인해 별자리와 별자리들 사이의 동시대 정렬은 더 이상 정확하지 않습니다.
 
-### The Babylonian origin and the Greek systematization
+### 바빌로니아 기원과 그리스의 체계화
 
-The twelve-fold zodiacal division has substantive antecedents in Babylonian astronomy, with the **MUL.APIN** compendium (c. 1000-700 BCE) including a list of the principal ecliptic constellations. The systematic twelve-sign zodiacal division was established in Babylonia during approximately the 5th century BCE, with substantial astronomical work continuing through the Persian and Hellenistic periods. The Greek adoption and systematization came principally through Hipparchus and subsequently Ptolemy, with the *Tetrabiblos* (Ptolemy's astrological work, distinct from the astronomical *Almagest*) establishing the systematic basis for subsequent Western astrology.
+12분할의 황도 분할은 바빌로니아 천문학에 본격적인 선례를 갖고 있으며, **MUL.APIN** 편람(기원전 약 1000–700년)에는 주요 황도 별자리 목록이 포함되어 있습니다. 체계적인 12별자리 황도 분할은 바빌로니아에서 기원전 약 5세기 동안 확립되었으며, 본격적인 천문학 작업은 페르시아와 헬레니즘 시기에 걸쳐 계속되었습니다. 그리스의 채택과 체계화는 주로 히파르코스를 통해, 그리고 이후 프톨레마이오스를 통해 이루어졌으며, *테트라비블로스*(천문학적 *알마게스트*와는 구분되는 프톨레마이오스의 점성술 저작)는 후속 서구 점성술의 체계적 기초를 확립했습니다.
 
-The standard zodiacal signs are:
+표준 황도 12궁의 별자리는 다음과 같습니다.
 
-- **Aries** (the Ram) — corresponding to the vernal equinox in the tropical zodiac
-- **Taurus** (the Bull)
-- **Gemini** (the Twins)
-- **Cancer** (the Crab)
-- **Leo** (the Lion)
-- **Virgo** (the Virgin)
-- **Libra** (the Scales)
-- **Scorpio** (the Scorpion)
-- **Sagittarius** (the Archer)
-- **Capricorn** (the Goat)
-- **Aquarius** (the Water-bearer)
-- **Pisces** (the Fish)
+- **양자리**(숫양) — 회귀 황도에서 춘분점에 대응함
+- **황소자리**(황소)
+- **쌍둥이자리**(쌍둥이)
+- **게자리**(게)
+- **사자자리**(사자)
+- **처녀자리**(처녀)
+- **천칭자리**(저울)
+- **전갈자리**(전갈)
+- **궁수자리**(궁수)
+- **염소자리**(염소)
+- **물병자리**(물병)
+- **물고기자리**(물고기)
 
-### The tropical-sidereal distinction
+### 회귀–항성 구별
 
-A substantively important distinction concerns the relationship between the zodiacal signs and the actual constellations:
+본격적으로 중요한 구별은 황도 별자리와 실제 별자리 사이의 관계에 관한 것입니다.
 
-- The **tropical zodiac** (used in standard Western astrology) defines the signs by reference to the vernal equinox point: **0° Aries** is the position of the Sun on the spring equinox, regardless of the actual constellation behind the Sun. The tropical signs are 30° divisions of the ecliptic moving westward at the precessional rate. The system is internally consistent and reflects the seasonal-solar relationship rather than the stellar background.
-- The **sidereal zodiac** (used in Vedic / Indian astrology) defines the signs by reference to the fixed-star constellations: **0° Aries** is the position of the actual constellation Aries, with the signs as fixed segments of the ecliptic relative to the stars. The sidereal signs do not move with precession.
+- **회귀 황도**(표준 서구 점성술에서 사용됨)는 별자리를 춘분점을 기준으로 정의합니다. **양자리 0°**는 춘분에서의 태양의 위치이며, 태양 뒤의 실제 별자리와는 무관합니다. 회귀 별자리는 세차 비율로 서쪽으로 움직이는 황도의 30° 분할입니다. 이 체계는 내적으로 일관되며 항성 배경보다는 계절–태양 관계를 반영합니다.
+- **항성 황도**(베다 / 인도 점성술에서 사용됨)는 별자리를 항성 별자리를 기준으로 정의합니다. **양자리 0°**는 실제 양자리 별자리의 위치이며, 별자리는 항성에 대한 황도의 고정된 부분으로 정의됩니다. 항성 별자리는 세차 운동과 함께 움직이지 않습니다.
 
-The difference between the tropical and sidereal zodiacs is the **ayanamsa** (Sanskrit "precessional movement"), currently approximately **24°**. The two systems were in close approximate alignment approximately 2,000 years ago (around the beginning of the Common Era — the period when the standard Western zodiacal system was being codified by Ptolemy and others), and have diverged at the precessional rate since.
+회귀 황도와 항성 황도의 차이는 **아야남사**(산스크리트어 '세차 운동')로, 현재 약 **24°**입니다. 두 체계는 약 2,000년 전(공통 시대의 시작 무렵 — 표준 서구 황도 체계가 프톨레마이오스와 다른 이들에 의해 성문화되고 있던 시기)에 근접한 정렬에 있었으며, 그 이후로 세차 비율로 갈라져 왔습니다.
 
-### The precessional Ages
+### 세차 시대
 
-The shift of the vernal equinox point along the ecliptic at the precessional rate produces the sequence of **precessional Ages** — periods of approximately 2,150-2,160 years during which the vernal equinox is positioned in a particular zodiacal sign. The standard sequence (moving backward through the precessional motion, which produces the westward shift of the equinox along the ecliptic):
+춘분점이 세차 비율로 황도를 따라 이동하는 것은 **세차 시대**의 계열 — 춘분점이 특정 황도 별자리에 위치하는 약 2,150–2,160년의 기간 — 을 만들어 냅니다. 표준 계열은 다음과 같습니다(세차 운동을 거슬러 움직이며, 이는 황도를 따른 분점의 서쪽 이동을 만들어 냅니다).
 
-| Age | Approximate dates (corpus reckoning) | Approximate dates (alternative reckonings) |
+| 시대 | 대략적 연도(코퍼스 산정) | 대략적 연도(대안적 산정) |
 |---|---|---|
-| **Age of Leo** | c. 13,170 – 11,010 BCE | c. 10,500 – 8,000 BCE (varies) |
-| **Age of Cancer** | c. 11,010 – 8,850 BCE | c. 8,000 – 6,000 BCE |
-| **Age of Gemini** | c. 8,850 – 6,690 BCE | c. 6,000 – 4,000 BCE |
-| **Age of Taurus** | c. 6,690 – 4,530 BCE | c. 4,000 – 2,000 BCE |
-| **Age of Aries** | c. 4,530 – 2,370 BCE (or c. 2,065 BCE on alternative) | c. 2,000 – 0 BCE |
-| **Age of Pisces** | c. 1 CE – 2,160 CE | c. 0 – 2,000 CE |
-| **Age of Aquarius** | c. 2,160 CE onward | c. 2,000 CE onward |
+| **사자자리 시대** | 기원전 약 13,170 – 11,010년 | 기원전 약 10,500 – 8,000년(다양함) |
+| **게자리 시대** | 기원전 약 11,010 – 8,850년 | 기원전 약 8,000 – 6,000년 |
+| **쌍둥이자리 시대** | 기원전 약 8,850 – 6,690년 | 기원전 약 6,000 – 4,000년 |
+| **황소자리 시대** | 기원전 약 6,690 – 4,530년 | 기원전 약 4,000 – 2,000년 |
+| **양자리 시대** | 기원전 약 4,530 – 2,370년(대안적으로는 약 2,065년 BCE) | 기원전 약 2,000 – 0년 |
+| **물고기자리 시대** | 서기 약 1 – 2,160년 | 서기 약 0 – 2,000년 |
+| **물병자리 시대** | 서기 약 2,160년 이후 | 서기 약 2,000년 이후 |
 
-The specific dating of the Age transitions varies substantially across different astrological-astronomical traditions, depending on the precise definition of constellation boundaries (which are not standardised in classical astrology), the choice of starting reference point, and the choice between modern astronomical and astrological-tradition rates. The framework's adopted reckoning (used consistently across the corpus's entries) places the Age boundaries at approximately the points indicated in the table above, with the understanding that the transitions are not sharply defined and that alternative reckonings produce ±200-year variations in the boundary dates.
+시대 전환의 구체적 연대는 다양한 점성술–천문학 전통에 걸쳐 본격적으로 다양하며, 별자리 경계의 정확한 정의(고전 점성술에서 표준화되지 않음), 시작 기준점의 선택, 현대 천문학적 비율과 점성술 전통 비율 사이의 선택에 따라 달라집니다. 코퍼스가 채택한 산정(코퍼스의 항목들에 걸쳐 일관되게 사용됨)은 위 표에 표시된 지점에 시대 경계를 대략 두며, 전환이 날카롭게 정의되지 않으며 대안적 산정이 경계 연도에서 ±200년의 변동을 만들어 낸다는 이해를 동반합니다.{{ footnote(id="5") }}
 
-The framework's specific identification of the precessional Ages with the events of the Elohim project and the broader prophetic record is treated in the framework section below.
+세차 시대를 엘로힘 프로젝트와 보다 넓은 예언적 기록의 사건들과 동일시하는 틀의 구체적 식별은 아래의 틀 절에서 다루어집니다.
 
-## In the Wheel of Heaven framework
+## Wheel of Heaven 틀에서
 
-The framework's reading of precession is multilayered. The mainstream astronomical phenomenon is treated as established empirical content; the framework's substantive interpretive moves concern the historical-mythological-chronological significance of the phenomenon.
+세차 운동에 대한 틀의 독해는 다층적입니다. 주류 천문 현상은 확립된 경험적 내용으로 다루어지며; 틀의 본격적인 해석적 움직임은 그 현상의 역사적–신화적–연대기적 의의에 관한 것입니다.
 
-### Precession as chronological infrastructure
+### 연대기 인프라로서의 세차 운동
 
-The framework's most basic use of precession is as the **chronological infrastructure** for the corpus's broader interpretive work. The precessional Ages provide a structured temporal framework that:
+틀의 가장 기본적인 세차 운동 사용은 코퍼스의 보다 넓은 해석 작업을 위한 **연대기 인프라**로서입니다. 세차 시대는 다음과 같은 구조화된 시간적 틀을 제공합니다.
 
-- Spans approximately 26,000 years per full cycle, sufficient to encompass the principal events of the Elohim project (synthesis approximately 25,000 years ago) and the subsequent terrestrial history
-- Divides this period into twelve substantively distinct Ages, each of approximately 2,150-2,160 years
-- Connects the chronological framework to a substantive astronomical phenomenon that is independently verifiable and culturally significant
-- Aligns with the symbolic-cultural significance of the zodiacal signs in multiple religious and cultural traditions
+- 전 주기당 약 26,000년에 걸쳐 있어, 엘로힘 프로젝트의 주요 사건들(약 25,000년 전의 합성)과 후속하는 지구 역사의 주요 사건들을 포괄하기에 충분함
+- 이 기간을 본격적으로 구분되는 12개 시대로 나누며, 각각 약 2,150–2,160년의 길이
+- 연대기적 틀을 독립적으로 검증 가능하고 문화적으로 의미 있는 본격적인 천문 현상에 연결시킴
+- 여러 종교적·문화적 전통에서 황도 별자리의 상징적–문화적 의의와 정렬됨
 
-The corpus's broader work uses the precessional Ages to date the principal events:
+코퍼스의 보다 넓은 작업은 세차 시대를 사용하여 주요 사건들의 연대를 지정합니다.
 
-- The **Age of Virgo** (c. 15,330 – 13,170 BCE) for the *yom* 5 phase of Genesis 1 — the synthesis of the broader animal life on which humans subsequently depend
-- The **Age of Leo** (c. 13,170 – 11,010 BCE) for the *yom* 6 human-synthesis phase — the principal Adamite synthesis and the Eden phase
-- The **Age of Cancer** (c. 11,010 – 8,850 BCE) for the post-deluge reorganisation following the Younger Dryas-era catastrophic events
-- The **Age of Gemini** (c. 8,850 – 6,690 BCE) for the early Neolithic population developments and the broader Holocene climate stabilisation
-- The **Age of Taurus** (c. 6,690 – 4,530 BCE) for the Sumerian, Egyptian, and broader Bronze Age civilisations; the principal megalithic construction period
-- The **Age of Aries** (c. 4,530 – 2,370 BCE on the broader reckoning, or c. 2,065 BCE on the corpus's more specific Hebrew prophetic dating) for the principal Hebrew prophetic period — Abraham through Moses, the Exodus, the Sinai theophany, the Davidic monarchy, the prophetic tradition
-- The **Age of Pisces** (c. 1 CE – 2,160 CE) for the Christian era and the broader subsequent religious developments
-- The **Age of Aquarius** (c. 2,160 CE onward; the framework's reading places the contemporary period in the transition between Pisces and Aquarius, with the broader recovery treated as the **Age of Apocalypse**)
+- **처녀자리 시대**(기원전 약 15,330 – 13,170년)는 창세기 1장의 *욤* 5 단계에 — 이후 인류가 의존하게 되는 보다 넓은 동물적 생명의 합성
+- **사자자리 시대**(기원전 약 13,170 – 11,010년)는 *욤* 6 인류 합성 단계에 — 주된 아담인 합성과 에덴 단계
+- **게자리 시대**(기원전 약 11,010 – 8,850년)는 영거 드라이아스 시대의 재앙적 사건들에 이은 대홍수 이후의 재편성에
+- **쌍둥이자리 시대**(기원전 약 8,850 – 6,690년)는 초기 신석기 인구 발전과 보다 넓은 홀로세 기후 안정화에
+- **황소자리 시대**(기원전 약 6,690 – 4,530년)는 수메르, 이집트, 그리고 보다 넓은 청동기 시대 문명에; 주요 거석 건설 시기에
+- **양자리 시대**(기원전 약 4,530 – 2,370년의 보다 넓은 산정, 또는 기원전 약 2,065년의 코퍼스의 보다 구체적인 히브리 예언 연대)는 주요 히브리 예언 시대에 — {% wiki(slug="abraham") %}아브라함{% end %}에서 모세에 이르기까지, 출애굽, 시나이 신현, 다윗 왕조, 예언자 전통
+- **물고기자리 시대**(서기 약 1 – 2,160년)는 기독교 시대와 보다 넓은 후속 종교적 발전에
+- **물병자리 시대**(서기 약 2,160년 이후; 틀의 독해는 동시대 시기를 물고기자리와 물병자리 사이의 전환에 위치시키며, 보다 넓은 회복은 **{% wiki(slug="apocalypse") %}아포칼립스{% end %}의 시대**로 다루어집니다)
 
-The dedicated [Age of Virgo](../timeline/age-of-virgo/), [Age of Leo](../timeline/age-of-leo/), [Age of Cancer](../timeline/age-of-cancer/), [Age of Gemini](../timeline/age-of-gemini/), [Age of Taurus](../timeline/age-of-taurus/), [Age of Aries](../timeline/age-of-aries/), [Age of Pisces](../timeline/age-of-pisces/), and [Age of Aquarius](../timeline/age-of-aquarius/) entries develop the specific content of each Age; the present entry establishes the broader precessional framework on which the individual Age entries depend.
+전용 [처녀자리 시대](../timeline/age-of-virgo/), [사자자리 시대](../timeline/age-of-leo/), [게자리 시대](../timeline/age-of-cancer/), [쌍둥이자리 시대](../timeline/age-of-gemini/), [황소자리 시대](../timeline/age-of-taurus/), [양자리 시대](../timeline/age-of-aries/), [물고기자리 시대](../timeline/age-of-pisces/), 그리고 [물병자리 시대](../timeline/age-of-aquarius/) 항목들은 각 시대의 구체적인 내용을 전개합니다. 현재의 항목은 개별 시대 항목들이 의존하는 보다 넓은 세차 틀을 확립합니다.
 
-### The Hamlet's Mill thesis
+### 햄릿의 맷돌 명제
 
-The most substantive scholarly engagement with the relationship between precession and pre-Hipparchian mythology is **Giorgio de Santillana and Hertha von Dechend's *Hamlet's Mill: An Essay on Myth and the Frame of Time*** (Gambit, 1969). The book — written by **Santillana** (1902–1974, professor of history of science at MIT) and **von Dechend** (1915–2001, professor of history of science at Goethe University Frankfurt) — argues that:
+세차 운동과 히파르코스 이전 신화 사이의 관계에 대한 가장 본격적인 학술적 관여는 **조르조 데 산틸라나와 헤르타 폰 데헨트의 *햄릿의 맷돌: 신화와 시간의 틀에 관한 에세이***(Gambit, 1969)입니다.{{ cite(id="hamlets-mill", text="[2]", title="데 산틸라나와 폰 데헨트, *햄릿의 맷돌*[1969] — 신화 속 세차 명제의 전체적 다룸") }} 이 책은 **산틸라나**(1902–1974, MIT 과학사 교수)와 **폰 데헨트**(1915–2001, 프랑크푸르트 괴테 대학교 과학사 교수)에 의해 저술되었으며, 다음을 주장합니다.
 
-- Precession was discovered substantially before Hipparchus, by Neolithic or earlier astronomers, possibly as early as 4,000–6,000 BCE
-- The knowledge of precession was transmitted across cultures and millennia through **mythological-symbolic encoding** rather than direct astronomical-textual transmission
-- The principal mythological motifs of the cross-cultural global tradition — the cosmic mill, the cosmic axis, the breaking of the mill, the heroic figures of the various Ages, the doctrine of the Four Ages or World Ages, the cyclic destruction-and-renewal patterns — systematically preserve precessional astronomical content
-- The transmission of precessional content connects cultures separated by substantial geographical and temporal distance (Mesopotamian, Egyptian, Vedic, Iranian, Norse, Finnish, Polynesian, Mesoamerican) through common mythological vocabulary
+- 세차 운동은 히파르코스 이전에 본격적으로, 신석기 시대 또는 더 이른 천문학자들에 의해, 어쩌면 기원전 4,000–6,000년만큼 이른 시기에 발견되었다
+- 세차 운동에 대한 지식은 직접적인 천문–텍스트적 전수가 아니라 **신화적–상징적 부호화**를 통해 문화와 천년에 걸쳐 전수되었다
+- 범문화적인 전 지구적 전통의 주요 신화적 모티프들 — 우주의 맷돌, 우주 축, 맷돌의 부서짐, 다양한 시대의 영웅적 인물들, 네 시대 또는 세계 시대의 교리, 순환적 파괴와 갱신의 패턴 — 은 체계적으로 세차 운동 천문 내용을 보존한다
+- 세차 운동 내용의 전수는 본격적인 지리적·시간적 거리에 의해 분리된 문화들(메소포타미아, 이집트, 베다, 이란, 노르드, 핀란드, 폴리네시아, 메소아메리카)을 공통의 신화적 어휘를 통해 연결한다
 
-The *Hamlet's Mill* thesis has had mixed reception in mainstream scholarship: substantially influential in the broader **archaeoastronomy** field that emerged in the 1970s and 1980s, but generally treated with skepticism by mainstream classicists and historians of astronomy. The principal scholarly objections concern the methodological question of how to identify precessional content in mythology without circular reasoning, the chronological question of whether the proposed Neolithic discovery is empirically supportable, and the broader question of whether the cross-cultural patterns identified by Santillana and von Dechend are sufficiently distinctive to require the precessional explanation.
+*햄릿의 맷돌* 명제는 주류 학계에서 엇갈린 수용을 받았습니다. 1970년대와 1980년대에 출현한 보다 넓은 **고고천문학** 분야에서 본격적으로 영향력이 있었지만, 주류 고전학자와 천문학사가들에 의해서는 일반적으로 회의적으로 다루어졌습니다. 주요 학술적 반론은 순환 추론 없이 신화에서 세차 운동 내용을 어떻게 식별할 것인가의 방법론적 문제, 제안된 신석기 시대 발견이 경험적으로 지지될 수 있는가의 연대 문제, 그리고 산틸라나와 폰 데헨트가 식별한 범문화적 패턴들이 세차 운동 설명을 요구하기에 충분히 구별적인가에 관한 보다 넓은 문제에 관한 것입니다.
 
-The framework's adopted position is broadly sympathetic to the *Hamlet's Mill* thesis. The corpus's broader interpretive work — particularly the reading of the source-tradition material (the Hebrew Bible, the Sumerian and Egyptian creation traditions, the Vedic *yuga* doctrine, the broader cross-cultural mythological record) as preserving operational content from the Elohim project — is substantially consistent with the *Hamlet's Mill* claim that pre-Hipparchian astronomical content is preserved in mythological form. The framework reads the precessional content specifically as evidence of the Elohim's own use of the precessional cycle as a chronological reference — consistent with the Biglino reading developed below — and of the subsequent human transmission of this content through the symbolic-mythological vocabulary the corpus engages.
+틀이 채택한 입장은 *햄릿의 맷돌* 명제에 대해 대체로 우호적입니다. 코퍼스의 보다 넓은 해석 작업 — 특히 자료 전통 자료({% wiki(slug="hebrew-bible") %}히브리어 성경{% end %}, 수메르와 이집트의 창조 전통, 베다의 *유가* 교리, 보다 넓은 범문화적 신화 기록)를 엘로힘 프로젝트로부터의 운용적 내용을 보존하는 것으로 읽는 것 — 은 히파르코스 이전 천문 내용이 신화적 형식으로 보존되어 있다는 *햄릿의 맷돌* 주장과 본격적으로 일관됩니다. 틀은 세차 운동 내용을 구체적으로 엘로힘 자신이 연대기적 기준으로 세차 순환을 사용했다는 증거로 — 아래에서 전개되는 빌리노 독해와 일관되게 — 그리고 코퍼스가 다루는 상징적–신화적 어휘를 통한 이 내용의 후속적인 인류적 전수에 대한 증거로 읽습니다.
 
-### The Biglino reading: precession as navigation infrastructure
+### 빌리노 독해: 항법 인프라로서의 세차 운동
 
-The Italian biblical philologist **Mauro Biglino**, in his work on the Hebrew Bible and the broader Anunnaki / Elohim tradition, has developed a specific reading of precession that the framework's broader position substantially incorporates. The relevant passage, from Biglino's *Il libro che cambierà per sempre le nostre idee sulla Bibbia* (2011, translated as *The Book That Will Forever Change Our Idea About The Bible*):
+이탈리아의 성경 문헌학자 **마우로 빌리노**는 히브리어 {% wiki(slug="bible") %}성경{% end %} 및 보다 넓은 아눈나키 / 엘로힘 전통에 관한 자신의 작업에서, 틀의 보다 넓은 입장이 본격적으로 통합하는 세차 운동에 대한 구체적인 독해를 발전시켰습니다. 빌리노의 *Il libro che cambierà per sempre le nostre idee sulla Bibbia*(2011년, *The Book That Will Forever Change Our Idea About The Bible*로 번역됨)의 관련된 구절{{ cite(id="the-bible-is-not-a-sacred-book", text="[3]", title="빌리노, 엄격한 직역 히브리어 성경 시리즈(2010년 이후) — 엘로힘/아눈나키 항법 인프라로서의 세차 운동") }}.
 
-> This expression indicates the celestial phenomenon caused by the oscillation or wobble of the Earth axis making a circular motion similar to that of a slowly-spinning top. This oscillation results in an apparent demotion of the constellations in the celestial sphere. It happens because the imaginary line joining the ecliptic of spring and autumn equinoxes moves one degree approximately every 71 years. Each of the twelve signs of the zodiac that form the entire 360° sky arc, covered a period of 2,160 years, corresponding to what astrology labeled as "Ages": Age of Aries, Age of Taurus, and so on. The complete cycle of 360° thus requires a little less than 26,000 years (2160 × 12). Hence, it would have been impossible to observe and calculate. Regardless, this long period, called the "Great Year", was known by many civilizations in various parts of the world such as the Indus Valley, Egypt, Central America; and still today scholars wonder how a nomadic people of herders and farmers were able to calculate its duration! Might it have been of any use to ANUNNAKI "gods" to calculate the orbital timing of their home planet, and to plan their space travels that were inevitably very long? Perhaps, the answer to many mysteries resides in accepting this possibility...
+> 이 표현은 천천히 회전하는 팽이와 유사한 원운동을 만드는 지축의 진동 또는 흔들림에 의해 야기되는 천체 현상을 가리킵니다. 이 진동은 천구에서 별자리의 외견상의 강등을 가져옵니다. 이는 봄과 가을 분점의 황도를 잇는 가상의 선이 약 71년마다 1° 움직이기 때문에 일어납니다. 전 360° 하늘 호를 이루는 황도의 12궁 별자리 각각은 2,160년의 기간을 차지하며, 점성술이 '시대'로 명명한 것에 대응합니다. 양자리 시대, 황소자리 시대 등등. 따라서 360°의 완전한 순환은 26,000년에 약간 못 미치는(2160 × 12) 기간을 요구합니다. 그러므로 그것을 관측하고 계산하기는 불가능했을 것입니다. 그럼에도 불구하고, '대년(大年)'이라 불리는 이 긴 기간은 인더스 계곡, 이집트, 중앙 아메리카 같은 세계의 다양한 지역의 많은 문명들에게 알려져 있었습니다. 그리고 오늘날에도 학자들은 어떻게 유목민 양치기와 농부들이 그 지속 시간을 계산할 수 있었는지 의아해 합니다! 그것이 아눈나키 '신들'에게 그들 모행성의 궤도 시간 측정과 어쩔 수 없이 매우 길었던 그들의 우주 여행 계획에 어떤 쓸모가 있었을지도 모릅니다. 어쩌면, 많은 신비에 대한 답은 이 가능성을 받아들이는 데 있을지도 모릅니다…
 >
-> — Mauro Biglino, *Il libro che cambierà per sempre le nostre idee sulla Bibbia* (2011)
+> — 마우로 빌리노, *Il libro che cambierà per sempre le nostre idee sulla Bibbia*(2011)
 
-Biglino's reading frames precession as potentially serving the Elohim (Anunnaki on Biglino's preferred terminology) as a **navigation and chronological-calibration aid** — a long-period astronomical phenomenon useful for the long-duration interstellar travel and the long-term operational supervision that the framework's broader reading attributes to the Elohim. The principal framework claims:
+빌리노의 독해는 세차 운동을 엘로힘(빌리노의 선호 용어로는 아눈나키)에게 잠재적으로 **항법 및 연대기적 보정 보조** — 틀의 보다 넓은 독해가 엘로힘에게 귀속시키는 장기간의 항성 간 여행과 장기 운용적 감독에 유용한 장주기 천문 현상 — 로서 봉사할 수 있는 것으로 틀짓습니다. 주요 틀 주장은 다음과 같습니다.
 
-- The 26,000-year precessional period is sufficiently long that it would have been impossible for early human cultures to identify through direct observation across a single human lifetime
-- The cross-cultural pre-Hipparchian preservation of precessional content (Indus Valley, Egypt, Central America, etc.) is genuinely difficult to account for through the standard scientific-historical account
-- The transmission of the precessional content from a more advanced source — the Elohim, on the framework's reading — provides a substantive explanation for the pre-Hipparchian global preservation
-- The Elohim's specific use of precession is open on the framework's adopted reading; possibilities include navigation, chronological calibration, the broader chronological structure of the Elohim project on Earth, and other operational uses
+- 26,000년의 세차 주기는 초기 인간 문화가 단일한 인간 수명에 걸친 직접적 관측을 통해 식별하기에는 불가능할 만큼 충분히 깁니다
+- 세차 운동 내용의 범문화적인 히파르코스 이전 보존(인더스 계곡, 이집트, 중앙 아메리카 등)은 표준 과학–역사적 설명을 통해 진정으로 설명하기 어렵습니다
+- 보다 진보된 출처 — 틀의 독해에서는 엘로힘 — 로부터의 세차 운동 내용의 전수는 히파르코스 이전의 전 지구적 보존에 대한 본격적인 설명을 제공합니다
+- 엘로힘이 세차 운동을 구체적으로 어떻게 사용했는지는 틀이 채택한 독해에서 열려 있습니다. 가능성으로는 항법, 연대기적 보정, 지구상의 엘로힘 프로젝트의 보다 넓은 연대기적 구조, 그리고 다른 운용적 용도가 있습니다
 
-The framework's reading does not commit to a specific operational use of precession by the Elohim. What the framework reads as substantively significant is the broader pattern: precession is one of the few astronomical phenomena that operates on timescales substantially longer than human cultural memory, and the cross-cultural preservation of precessional content in the pre-Hipparchian period suggests a transmission mechanism that the framework's broader account can substantively explain.
+틀의 독해는 엘로힘의 구체적인 세차 운동 운용 사용을 확정하지 않습니다. 틀이 본격적으로 의미 있다고 읽는 것은 보다 넓은 패턴입니다. 세차 운동은 인간 문화적 기억보다 본격적으로 더 긴 시간 척도에서 작동하는 몇 안 되는 천문 현상 중 하나이며, 히파르코스 이전 시기 세차 운동 내용의 범문화적 보존은 틀의 보다 넓은 설명이 본격적으로 설명할 수 있는 전수 메커니즘을 시사합니다.
 
-### Precession in the source-tradition material
+### 자료 전통 자료에서의 세차 운동
 
-The framework reads several specific source-tradition passages as preserving precessional content:
+틀은 여러 구체적인 자료 전통 구절을 세차 운동 내용을 보존하는 것으로 읽습니다.
 
-- **The Genesis 1 *yamim* sequence.** The framework's reading of the seven *yamim* (treated in the [Genesis](../genesis/) and [Terraforming](../terraforming/) entries) places the principal phases of the Earth project in specific precessional Ages: *yom* 1 in Capricorn, *yom* 2 in Sagittarius, *yom* 3 in Scorpio, *yom* 4 in Libra, *yom* 5 in Virgo, *yom* 6 in Leo, and *yom* 7 (the rest phase) in Cancer. The Genesis 1 narrative on this reading preserves a specifically precessional chronological structure.
-- **The Mosaic period (Age of Aries).** The framework reads the prominence of the **ram** as a symbolic figure in the Mosaic and broader Aries-period source-tradition material — the ram caught in the thicket at the Aqedah (Genesis 22:13), the Passover lamb (Exodus 12), the ram horns of the Sinai trumpet (the *shofar*), the broader sacrificial system of the Tabernacle — as preserving the precessional identification of the period as the Age of Aries.
-- **The Christian period (Age of Pisces).** The Christian tradition's use of the **fish** (Greek *ichthys*, Greek acronym for "Jesus Christ, Son of God, Saviour") as a central symbol from the earliest period, the multiple fish-related episodes in the Gospel narratives (the multiplication of loaves and fishes, the call of the fishermen-apostles, the post-resurrection beach breakfast in John 21), and the broader piscine symbolic vocabulary is read by the framework as preserving the precessional identification of the period as the Age of Pisces.
-- **The contemporary transition (Pisces to Aquarius).** The framework reads the contemporary cultural recognition of the "Age of Aquarius" — popularised in the 1960s but with substantive astrological-tradition antecedents — as preserving the precessional identification of the contemporary transition period.
+- **창세기 1장의 *야밈* 계열.** 일곱 *야밈*에 대한 틀의 독해([창세기](../genesis/) 및 [지구의 지구화](../terraforming/) 항목에서 다루어짐)는 지구 프로젝트의 주요 단계들을 특정 세차 시대에 위치시킵니다. *욤* 1은 염소자리에, *욤* 2는 궁수자리에, *욤* 3은 전갈자리에, *욤* 4는 천칭자리에, *욤* 5는 처녀자리에, *욤* 6은 사자자리에, 그리고 *욤* 7(휴식 단계)은 게자리에 위치합니다. 이 독해에 따른 창세기 1장 서사는 특수하게 세차적 연대기 구조를 보존합니다.
+- **모세 시대(양자리 시대).** 틀은 모세 및 보다 넓은 양자리 시대 자료 전통 자료에서 상징적 인물로서의 **숫양**의 두드러짐 — 아케다에서 덤불에 걸린 숫양(창세기 22:13), 유월절 어린 양(출애굽기 12장), 시나이 트럼펫의 숫양 뿔(*쇼파르*), 장막의 보다 넓은 희생 체계 — 을 그 시기를 양자리 시대로 식별하는 세차적 식별을 보존하는 것으로 읽습니다.
+- **기독교 시기(물고기자리 시대).** 기독교 전통이 가장 이른 시기부터 중심 상징으로서 **물고기**(그리스어 *익튀스*, '예수 그리스도, 하나님의 아들, 구주'의 그리스어 두문자어)를 사용한 것, 복음서 서사에서의 여러 물고기 관련 일화들(빵과 물고기의 증식, 어부 사도들의 부름, 요한복음 21장의 부활 이후 해변 식사), 그리고 보다 넓은 물고기 상징 어휘는 틀에 의해 그 시기를 물고기자리 시대로 식별하는 세차적 식별을 보존하는 것으로 읽힙니다.{{ cite(id="the-gospels-in-the-stars", text="[4]", title="자이스, *별들 속의 복음* — 황도–기독교 상징 대응에 대한 19세기 작업") }}{{ cite(id="mazzaroth-rolleston", text="[5]", title="롤스턴, *마짜로트* — 히브리/황도 해석 전통의 주된 빅토리아 시대 자료") }}{{ cite(id="mazzaroth-dot-com", text="[6]", title="*마짜로트* 온라인 모음집 — 황도–성경 해석 전통의 동시대적 집성") }}
+- **동시대의 전환(물고기자리에서 물병자리로).** 틀은 동시대 문화에서 '물병자리 시대'의 인식 — 1960년대에 대중화되었지만 본격적인 점성술 전통의 선례를 가진 — 을 동시대 전환 시기에 대한 세차적 식별을 보존하는 것으로 읽습니다.
 
-The dedicated [List of mythemes and mythological motifs](../list-of-mythemes-and-mythological-motifs/) entry develops the broader cross-cultural mythological preservation of precessional content; the present entry registers the specific source-tradition passages that the framework reads as precessionally significant.
+전용 [신화소와 신화적 모티프 목록](../list-of-mythemes-and-mythological-motifs/) 항목은 세차 운동 내용의 보다 넓은 범문화적 신화적 보존을 전개합니다. 현재의 항목은 틀이 세차적으로 의미 있는 것으로 읽는 구체적인 자료 전통 구절들을 등록합니다.
 
-### The chronological precision question
+### 연대기적 정밀도 문제
 
-The framework's chronological reckoning faces a substantive precision question: the precessional Ages have variable dating across different traditions and methodologies, with the principal sources of variation being:
+틀의 연대기적 산정은 본격적인 정밀도 문제에 직면합니다. 세차 시대는 다양한 전통과 방법론에 걸쳐 가변적인 연대를 가지며, 주요 변동 원인은 다음과 같습니다.
 
-- The **starting reference point** — different traditions use different reference stars or constellation-boundary definitions
-- The **rate of precession** — the difference between the modern astronomical rate (50.29 arcseconds/year) and the astrological-tradition rate (giving 2,160 years per Age) produces approximately 5-10% variation in Age durations
-- The **constellation boundaries** — the IAU-standardised constellation boundaries (defined 1930) differ from the classical astrological boundaries by substantial amounts in some cases
+- **시작 기준점** — 다양한 전통은 다른 기준 항성이나 별자리 경계 정의를 사용합니다
+- **세차율** — 현대 천문학적 비율(연간 50.29각초)과 점성술 전통 비율(시대당 2,160년을 줌) 사이의 차이는 시대 지속에서 약 5–10%의 변동을 만들어 냅니다
+- **별자리 경계** — IAU 표준화 별자리 경계(1930년 정의)는 일부 경우 고전 점성술 경계와 본격적인 차이를 보입니다
 
-The framework's adopted reckoning (used consistently across the corpus's entries) uses the astrological-tradition figure of 2,160 years per Age and places the principal Age boundaries at the approximate dates given in the table above. The framework treats the boundary dates as approximate (±200 years), with the substantive interpretive content concerning the Age-specific events and not the precise transition dates.
+틀이 채택한 산정(코퍼스의 항목들에 걸쳐 일관되게 사용됨)은 시대당 2,160년의 점성술 전통 수치를 사용하며 주요 시대 경계를 위 표에 주어진 대략적 연도에 위치시킵니다.{{ cite(id="the-book-which-tells-the-truth", text="[7]", title="보릴롱(라엘), *진실을 말하는 책* — 코퍼스의 연대기적 틀에 대한 라엘의 일차 자료") }} 틀은 경계 연도를 근사적(±200년)인 것으로 다루며, 본격적인 해석적 내용은 정확한 전환 연도가 아니라 시대 별 사건들에 관한 것입니다.
 
-## Connections to the broader framework
+## 보다 넓은 틀과의 연결
 
-The Precession entry connects to a substantial number of other corpus entries.
+세차 운동 항목은 본격적인 수의 다른 코퍼스 항목들과 연결됩니다.
 
-**The precessional Ages.** The dedicated [Age of Virgo](../timeline/age-of-virgo/), [Age of Leo](../timeline/age-of-leo/), [Age of Cancer](../timeline/age-of-cancer/), [Age of Gemini](../timeline/age-of-gemini/), [Age of Taurus](../timeline/age-of-taurus/), [Age of Aries](../timeline/age-of-aries/), [Age of Pisces](../timeline/age-of-pisces/), [Age of Aquarius](../timeline/age-of-aquarius/), and [Age of Apocalypse](../age-of-apocalypse/) entries develop the specific content of each Age within the precessional framework that the present entry establishes.
+**세차 시대.** 전용 [처녀자리 시대](../timeline/age-of-virgo/), [사자자리 시대](../timeline/age-of-leo/), [게자리 시대](../timeline/age-of-cancer/), [쌍둥이자리 시대](../timeline/age-of-gemini/), [황소자리 시대](../timeline/age-of-taurus/), [양자리 시대](../timeline/age-of-aries/), [물고기자리 시대](../timeline/age-of-pisces/), [물병자리 시대](../timeline/age-of-aquarius/), 그리고 [아포칼립스의 시대](../age-of-apocalypse/) 항목들은 현재의 항목이 확립하는 세차 틀 안에서 각 시대의 구체적인 내용을 전개합니다.
 
-**Genesis.** The dedicated [Genesis](../genesis/) entry treats the source-tradition reading of the Earth project, with the *yamim* sequence as the precessional structure that the present entry establishes.
+**창세기.** 전용 [창세기](../genesis/) 항목은 지구 프로젝트의 자료 전통적 독해를 다루며, *야밈* 계열은 현재의 항목이 확립하는 세차적 구조에 해당합니다.
 
-**World Age.** The dedicated [World Age](../world-age/) entry treats the broader doctrine of cosmic ages in the cross-cultural religious tradition (the Hindu *yuga* cycle, the Hesiodic ages of gold/silver/bronze/iron, the broader cyclical-cosmological tradition). The precession entry establishes the astronomical phenomenon that the framework reads as underlying the World Age doctrine.
+**세계의 시대.** 전용 [세계의 시대](../world-age/) 항목은 범문화적 종교 전통에서 우주적 시대 교리(힌두 *유가* 순환, 헤시오도스의 황금/은/청동/철의 시대들, 보다 넓은 순환적–우주론적 전통)를 다룹니다. 세차 운동 항목은 틀이 세계의 시대 교리의 기저에 있다고 읽는 천문 현상을 확립합니다.
 
-**The Great Year.** The dedicated [Great Year](../great-year/) entry treats the broader concept of the precessional Great Year as it has been transmitted across the cross-cultural mythological tradition.
+**대년.** 전용 [대년](../great-year/) 항목은 범문화적 신화 전통에 걸쳐 전수되어 온 세차 운동의 대년 개념을 다룹니다.
 
-**List of megalithic sites.** The dedicated [List of megalithic sites](../list-of-megalithic-sites/) entry treats the substantial archaeoastronomical evidence for ancient awareness of precessional and broader astronomical phenomena. The precession entry establishes the astronomical content that the megalithic alignments preserve.
+**거석 유적지 목록.** 전용 [거석 유적지 목록](../list-of-megalithic-sites/) 항목은 세차 운동 및 보다 넓은 천문 현상에 대한 고대의 인식에 관한 본격적인 고고천문학적 증거를 다룹니다. 세차 운동 항목은 거석 정렬이 보존하는 천문학적 내용을 확립합니다.
 
-**List of mythemes and mythological motifs.** The dedicated [List of mythemes and mythological motifs](../list-of-mythemes-and-mythological-motifs/) entry treats the broader cross-cultural mythological preservation of astronomical content, including the precessional motifs identified by Santillana and von Dechend.
+**신화소와 신화적 모티프 목록.** 전용 [신화소와 신화적 모티프 목록](../list-of-mythemes-and-mythological-motifs/) 항목은 산틸라나와 폰 데헨트가 식별한 세차 모티프를 포함하여 천문 내용의 보다 넓은 범문화적 신화적 보존을 다룹니다.
 
-**The forty-prophets lineage and the broader prophetic record.** The dedicated entries on the principal prophetic figures ([Moses](../moses/), [Elijah](../elijah/), [Jesus](../jesus/), [Muhammad](../muhammad/), etc.) use the precessional Ages to date the principal events of each prophet's life and mission.
+**40명의 예언자 계보와 보다 넓은 예언적 기록.** 주요 예언자 인물들([모세](../moses/), [엘리야](../elijah/), [예수](../jesus/), [무함마드](../muhammad/) 등)에 관한 전용 항목들은 세차 시대를 사용하여 각 예언자의 생애와 사명의 주요 사건들의 연대를 지정합니다.
 
-**The Adamites and the Eden phase.** The dedicated [Adamites](../adamites/) and [Eden](../eden/) entries place the human synthesis and the Eden phase in the Age of Leo on the precessional reckoning.
+**아담인과 에덴 단계.** 전용 [아담인](../adamites/)과 [에덴](../eden/) 항목은 인류 합성과 에덴 단계를 세차 산정에서의 사자자리 시대에 위치시킵니다.
 
-**Cosmic pluralism.** The dedicated [Cosmic pluralism](../cosmic-pluralism/) entry treats the broader cosmological framework within which the precessional reckoning operates.
+**우주적 복수성.** 전용 [우주적 복수성](../cosmic-pluralism/) 항목은 세차 산정이 작동하는 보다 넓은 우주론적 틀을 다룹니다.
 
-## Open questions
+## 열린 질문들
 
-The Precession entry surfaces several open questions for the framework's broader interpretive work.
+세차 운동 항목은 틀의 보다 넓은 해석 작업을 위한 여러 열린 질문들을 표면화합니다.
 
-- **The empirical resolution of the pre-Hipparchian discovery question.** The mainstream-academic position holds that precession was first identified by Hipparchus in approximately 129 BCE. The *Hamlet's Mill* thesis (Santillana and von Dechend 1969) and subsequent archaeoastronomy work substantively contest this position. The framework's adopted reading is broadly sympathetic to the earlier-discovery position but treats the specific empirical resolution as one of the field's principal open questions. Future archaeoastronomical work on specific pre-Hipparchian astronomical content (megalithic alignments, ancient star catalogues, mythological-symbolic transmission) may permit more developed readings.
-- **The specific Elohim use of precession.** The framework's reading of precession as potentially serving the Elohim as a navigation or chronological-calibration aid (per Biglino) is substantively open. The corpus's broader account does not commit to a specific operational use; future corpus work on the operational reading of the Elohim project may permit more developed positions.
-- **The precise dating of the Age transitions.** The framework's adopted reckoning produces approximate boundary dates with ±200-year uncertainty due to the methodological choices involved. Future corpus work on the alignment between the framework's reckoning and the specific source-tradition chronological content may permit more precise dating.
-- **The relationship to the Vedic *yuga* cycles.** The Vedic *yuga* cycles (the *manvantaras*, the *Kali Yuga* / *Dwapara Yuga* / *Treta Yuga* / *Satya Yuga* sequence, the broader *Mahayuga* of 4.32 million years) are substantially longer than the precessional cycle. Whether the shorter Vedic subdivisions preserve precessional content, and what the relationship is between the precessional and *yuga* cosmological frameworks, is treated as open.
-- **The contemporary transition into the Age of Aquarius.** The framework's adopted reckoning places the contemporary period in transition between Pisces and Aquarius, with the precise transition date treated as open. Different astrological-astronomical traditions place this transition variously between approximately 1900 CE and 2700 CE; the framework's adopted reading uses c. 2,160 CE but treats this as approximate.
+- **히파르코스 이전 발견 문제의 경험적 해결.** 주류 학계 입장은 세차 운동이 기원전 약 129년에 히파르코스에 의해 처음 식별되었다고 봅니다. *햄릿의 맷돌* 명제(데 산틸라나와 폰 데헨트 1969)와 후속 고고천문학 작업은 본격적으로 이 입장에 이의를 제기합니다. 틀이 채택한 독해는 더 이른 발견 입장에 대체로 우호적이지만, 구체적인 경험적 해결을 이 분야의 주요 열린 질문 중 하나로 다룹니다. 구체적인 히파르코스 이전 천문 내용(거석 정렬, 고대 항성 목록, 신화적–상징적 전수)에 관한 미래의 고고천문학 작업은 더 발전된 독해를 허용할 수 있습니다.
+- **엘로힘의 구체적인 세차 운동 사용.** 세차 운동을 엘로힘에게 항법 또는 연대기적 보정 보조로 잠재적으로 봉사하는 것(빌리노에 따라)으로 읽는 틀의 독해는 본격적으로 열려 있습니다. 코퍼스의 보다 넓은 설명은 구체적인 운용 사용을 확정하지 않습니다. 엘로힘 프로젝트의 운용적 독해에 관한 미래의 코퍼스 작업은 더 발전된 입장을 허용할 수 있습니다.
+- **시대 전환의 정확한 연대.** 틀이 채택한 산정은 관련된 방법론적 선택으로 인해 ±200년의 불확실성을 가진 근사적 경계 연도를 만들어 냅니다. 틀의 산정과 구체적인 자료 전통 연대기적 내용 사이의 정렬에 관한 미래의 코퍼스 작업은 보다 정확한 연대를 허용할 수 있습니다.
+- **베다의 *유가* 순환과의 관계.** 베다 *유가* 순환(*만반타라*, *칼리 유가* / *드와파라 유가* / *트레타 유가* / *사티야 유가* 계열, 432만 년의 보다 넓은 *마하유가*)은 세차 주기보다 본격적으로 더 깁니다. 더 짧은 베다 하위 분할들이 세차 운동 내용을 보존하는지, 그리고 세차 운동과 *유가* 우주론적 틀 사이의 관계가 무엇인지는 열린 것으로 다루어집니다.
+- **물병자리 시대로의 동시대적 전환.** 틀이 채택한 산정은 동시대 시기를 물고기자리와 물병자리 사이의 전환에 위치시키며, 정확한 전환 연도는 열린 것으로 다루어집니다. 다양한 점성술–천문학 전통은 이 전환을 약 1900년 CE와 2700년 CE 사이의 다양한 시점에 위치시킵니다. 틀이 채택한 독해는 서기 약 2,160년을 사용하지만 이것을 근사적으로 다룹니다.
 
-## See also
+## 같이 보기
 
-- [World Age](../world-age/)
-- [Great Year](../great-year/)
-- [Genesis](../genesis/)
-- [Age of Virgo](../timeline/age-of-virgo/)
-- [Age of Leo](../timeline/age-of-leo/)
-- [Age of Cancer](../timeline/age-of-cancer/)
-- [Age of Gemini](../timeline/age-of-gemini/)
-- [Age of Taurus](../timeline/age-of-taurus/)
-- [Age of Aries](../timeline/age-of-aries/)
-- [Age of Pisces](../timeline/age-of-pisces/)
-- [Age of Aquarius](../timeline/age-of-aquarius/)
-- [Age of Apocalypse](../age-of-apocalypse/)
-- [List of megalithic sites](../list-of-megalithic-sites/)
-- [List of mythemes and mythological motifs](../list-of-mythemes-and-mythological-motifs/)
-- [List of exegetic readings](../list-of-exegetic-readings/)
-- [Adamites](../adamites/)
-- [Eden](../eden/)
-- [Cosmic pluralism](../cosmic-pluralism/)
-- [Terraforming](../terraforming/)
+- [세계의 시대](../world-age/)
+- [대년](../great-year/)
+- [창세기](../genesis/)
+- [처녀자리 시대](../timeline/age-of-virgo/)
+- [사자자리 시대](../timeline/age-of-leo/)
+- [게자리 시대](../timeline/age-of-cancer/)
+- [쌍둥이자리 시대](../timeline/age-of-gemini/)
+- [황소자리 시대](../timeline/age-of-taurus/)
+- [양자리 시대](../timeline/age-of-aries/)
+- [물고기자리 시대](../timeline/age-of-pisces/)
+- [물병자리 시대](../timeline/age-of-aquarius/)
+- [아포칼립스의 시대](../age-of-apocalypse/)
+- [거석 유적지 목록](../list-of-megalithic-sites/)
+- [신화소와 신화적 모티프 목록](../list-of-mythemes-and-mythological-motifs/)
+- [주석적 독해 목록](../list-of-exegetic-readings/)
+- [아담인](../adamites/)
+- [에덴](../eden/)
+- [우주적 복수성](../cosmic-pluralism/)
+- [지구의 지구화](../terraforming/)
 
-## External links
+## 외부 링크
 
-- [Axial precession | Wikipedia](https://en.wikipedia.org/wiki/Axial_precession)
-- [Precession of the equinoxes | Britannica](https://www.britannica.com/science/precession-of-the-equinoxes)
-- [Hipparchus | Britannica](https://www.britannica.com/biography/Hipparchus-Greek-astronomer)
-- [Hamlet's Mill | Wikipedia](https://en.wikipedia.org/wiki/Hamlet%27s_Mill)
-- [Astrological age | Wikipedia](https://en.wikipedia.org/wiki/Astrological_age)
-- [Milankovitch cycles | Wikipedia](https://en.wikipedia.org/wiki/Milankovitch_cycles)
+- [지축 세차 운동 | Wikipedia](https://en.wikipedia.org/wiki/Axial_precession)
+- [분점의 세차 | Britannica](https://www.britannica.com/science/precession-of-the-equinoxes)
+- [히파르코스 | Britannica](https://www.britannica.com/biography/Hipparchus-Greek-astronomer)
+- [햄릿의 맷돌 | Wikipedia](https://en.wikipedia.org/wiki/Hamlet%27s_Mill)
+- [점성술적 시대 | Wikipedia](https://en.wikipedia.org/wiki/Astrological_age)
+- [밀란코비치 주기 | Wikipedia](https://en.wikipedia.org/wiki/Milankovitch_cycles)
 
-## References
+## 참고문헌
 
-Vorilhon, Claude (Raël). *Le Livre qui dit la vérité* (1974) and *Les extra-terrestres m'ont emmené sur leur planète* (1976), collected as *Message from the Designers* (Raëlian Foundation, current English edition). [Primary source for the framework's broader reading; precession itself is not explicitly developed in the Vorilhon source material, but the chronological framework the corpus adopts is consistent with the broader source-material content.]
+보릴롱, 클로드(라엘). *Le Livre qui dit la vérité*(1974) 및 *Les extra-terrestres m'ont emmené sur leur planète*(1976), *Message from the Designers*로 모음(라엘 재단, 현행 영문판). [틀의 보다 넓은 독해를 위한 일차 자료. 세차 운동 자체는 보릴롱의 자료에서 명시적으로 전개되지 않지만, 코퍼스가 채택한 연대기적 틀은 보다 넓은 자료 내용과 일관됩니다.]
 
-Santillana, Giorgio de, and Hertha von Dechend. *Hamlet's Mill: An Essay on Myth and the Frame of Time*. Boston: Gambit, 1969. [The foundational scholarly engagement with the thesis that pre-Hipparchian global mythology systematically encodes precessional astronomical content. The principal external reference for the framework's broader reading of precession's mythological significance.]
+데 산틸라나, 조르조, 그리고 헤르타 폰 데헨트. *햄릿의 맷돌: 신화와 시간의 틀에 관한 에세이*. Boston: Gambit, 1969. [히파르코스 이전 전 지구적 신화가 체계적으로 세차 운동 천문 내용을 부호화한다는 명제에 대한 기초적 학술 작업. 세차 운동의 신화적 의의에 대한 틀의 보다 넓은 독해를 위한 주요 외부 참고서.]
 
-Biglino, Mauro. *Il libro che cambierà per sempre le nostre idee sulla Bibbia*. Mondadori, 2011. [Source of the framework-relevant Biglino reading of precession as potentially serving as Elohim/Anunnaki navigation infrastructure.]
+빌리노, 마우로. *Il libro che cambierà per sempre le nostre idee sulla Bibbia*. Mondadori, 2011. [세차 운동이 엘로힘/아눈나키 항법 인프라로 봉사할 잠재적 가능성에 대한 틀-관련 빌리노 독해의 출처.]
 
-Biglino, Mauro. *La Bibbia non è un libro sacro: Il falso letterario che ha fondato due religioni*. Mondadori, 2012.
+빌리노, 마우로. *La Bibbia non è un libro sacro: Il falso letterario che ha fondato due religioni*. Mondadori, 2012.
 
-Ptolemy, Claudius. *Almagest* (*Mathematical Syntaxis*). c. 150 CE. Standard English translation: *Ptolemy's Almagest*, translated by G. J. Toomer. Princeton University Press, 1998. [The principal ancient source for Hipparchus's discovery of precession, preserved through Ptolemy's extensive citations.]
+프톨레마이오스, 클라우디우스. *알마게스트*(*수학적 종합*). 서기 약 150년. 표준 영역본: *Ptolemy's Almagest*, G. J. 투머 옮김. Princeton University Press, 1998. [프톨레마이오스의 광범위한 인용을 통해 보존된, 히파르코스의 세차 운동 발견에 관한 주요 고대 자료.]
 
-Newton, Isaac. *Philosophiæ Naturalis Principia Mathematica*. London, 1687. Book III, Propositions XXXIX-XLI. [The foundational mechanical explanation of precession.]
+뉴턴, 아이작. *자연철학의 수학적 원리*. London, 1687. 제3권, 명제 XXXIX–XLI. [세차 운동에 대한 기초적인 역학적 설명.]
 
-Evans, James. *The History and Practice of Ancient Astronomy*. Oxford University Press, 1998. [The standard contemporary academic history of ancient astronomy, with substantial treatment of Hipparchus and precession.]
+에반스, 제임스. *고대 천문학의 역사와 실천*. Oxford University Press, 1998. [히파르코스와 세차 운동에 대한 본격적인 다룸이 있는, 고대 천문학에 관한 표준적 동시대 학술사.]
 
-Neugebauer, Otto. *A History of Ancient Mathematical Astronomy*. 3 vols. Springer-Verlag, 1975. [The foundational scholarly history of pre-modern astronomy.]
+노이게바우어, 오토. *고대 수학 천문학의 역사*. 3권. Springer-Verlag, 1975. [전근대 천문학에 관한 기초적 학술사.]
 
-Toomer, G. J. "Hipparchus." In *Dictionary of Scientific Biography*, edited by Charles Coulston Gillispie, vol. 15 (supplement I), pp. 207–224. New York: Scribner, 1978.
+투머, G. J. '히파르코스.' *Dictionary of Scientific Biography*, Charles Coulston Gillispie 편, 15권(보충 I), pp. 207–224. New York: Scribner, 1978.
 
-Ulansey, David. *The Origins of the Mithraic Mysteries: Cosmology and Salvation in the Ancient World*. Oxford University Press, 1989. [The substantive scholarly treatment of precession in the context of Mithraic mysteries; one of the principal contemporary scholarly engagements with the broader thesis that ancient religious tradition preserves precessional content.]
+울란시, 데이비드. *미트라교 신비의 기원: 고대 세계의 우주론과 구원*. Oxford University Press, 1989. [미트라교 신비의 맥락에서의 세차 운동에 대한 본격적인 학술적 다룸. 고대 종교 전통이 세차 운동 내용을 보존한다는 보다 넓은 명제에 대한 동시대의 주요 학술적 관여 중 하나.]
 
-Krupp, E. C. *In Search of Ancient Astronomies*. Doubleday, 1978.
+크룹, E. C. *고대 천문학의 추적*. Doubleday, 1978.
 
-Krupp, E. C. *Echoes of the Ancient Skies: The Astronomy of Lost Civilizations*. Harper & Row, 1983.
+크룹, E. C. *고대 하늘의 메아리: 사라진 문명들의 천문학*. Harper & Row, 1983.
 
-Schaefer, Bradley E. "The Latitude and Epoch for the Origin of the Astronomical Lore of Eudoxus." *Journal for the History of Astronomy* 35, no. 2 (2004): 161–223. [Substantive archaeoastronomical work bearing on the question of pre-Hipparchian astronomical observation.]
+셰퍼, 브래들리 E. '에우독소스의 천문학적 전승의 기원의 위도와 시대.' *Journal for the History of Astronomy* 35, 2호(2004): 161–223. [히파르코스 이전 천문 관측 문제에 관한 본격적인 고고천문학적 작업.]
 
-Sendy, Jean. *La Lune, clé de la Bible*. Julliard, 1968. [The principal neo-euhemerist engagement with the precessional structure of the Hebrew Bible's chronological content.]
+상디, 장. *La Lune, clé de la Bible*. Julliard, 1968. [히브리어 성경의 연대기적 내용의 세차적 구조에 대한 주된 신유헤메로스주의적 관여.]
 
-Sendy, Jean. *Ces dieux qui firent le ciel et la terre*. Robert Laffont, 1969.
+상디, 장. *Ces dieux qui firent le ciel et la terre*. Robert Laffont, 1969.
 
-Hancock, Graham. *Fingerprints of the Gods: The Evidence of Earth's Lost Civilization*. Crown, 1995. [The principal popular treatment of the broader archaeoastronomical thesis that pre-Hipparchian civilisations possessed substantial astronomical knowledge.]
+핸콕, 그레이엄. *신들의 지문: 지구의 잃어버린 문명의 증거*. Crown, 1995. [히파르코스 이전 문명이 본격적인 천문학적 지식을 보유했다는 보다 넓은 고고천문학적 명제에 대한 주된 대중적 다룸.]
 
-Bauval, Robert, and Adrian Gilbert. *The Orion Mystery: Unlocking the Secrets of the Pyramids*. Crown, 1994. [The principal popular treatment of the Egyptian-pyramid archaeoastronomical thesis.]
+보발, 로버트, 그리고 에이드리언 길버트. *오리온 미스터리: 피라미드의 비밀을 풀다*. Crown, 1994. [이집트 피라미드 고고천문학적 명제에 대한 주된 대중적 다룸.]
 
-Schoch, Robert M. *Forgotten Civilization: The Role of Solar Outbursts in Our Past and Future*. Inner Traditions, 2012.
+쇼크, 로버트 M. *잊혀진 문명: 우리의 과거와 미래에서 태양 폭발의 역할*. Inner Traditions, 2012.
 
-"Axial precession." *Wikipedia*. <https://en.wikipedia.org/wiki/Axial_precession>
+'지축 세차 운동.' *Wikipedia*. <https://en.wikipedia.org/wiki/Axial_precession>
 
-"Precession of the equinoxes." *Britannica*. <https://www.britannica.com/science/precession-of-the-equinoxes>
+'분점의 세차.' *Britannica*. <https://www.britannica.com/science/precession-of-the-equinoxes>
 
-"Hipparchus." *Wikipedia*. <https://en.wikipedia.org/wiki/Hipparchus>
+'히파르코스.' *Wikipedia*. <https://en.wikipedia.org/wiki/Hipparchus>
 
-"Hamlet's Mill." *Wikipedia*. <https://en.wikipedia.org/wiki/Hamlet%27s_Mill>
+'햄릿의 맷돌.' *Wikipedia*. <https://en.wikipedia.org/wiki/Hamlet%27s_Mill>
 
-"Astrological age." *Wikipedia*. <https://en.wikipedia.org/wiki/Astrological_age>
+'점성술적 시대.' *Wikipedia*. <https://en.wikipedia.org/wiki/Astrological_age>
 
-"Milankovitch cycles." *Wikipedia*. <https://en.wikipedia.org/wiki/Milankovitch_cycles>
+'밀란코비치 주기.' *Wikipedia*. <https://en.wikipedia.org/wiki/Milankovitch_cycles>

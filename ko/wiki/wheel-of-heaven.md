@@ -1,531 +1,607 @@
 +++
 title = "Wheel of Heaven"
-description = "Wheel of Heaven은 그 네 단계의 독해를 통해, 라엘 자료의 엘로힘 가설, 세계의 시대의 세차적 틀, 그리고 이 역사가 지구의 여러 전통에 남긴 수렴적 흔적들을 결합하는 문헌 프로젝트이다."
+slug = "wheel-of-heaven"
+description = "Wheel of Heaven은 큐레이션된 비교 지식 프로젝트로 — 해석적 틀의 이름인 동시에 그 틀을 표명하는 코퍼스의 이름이기도 하며 — 계시, 우주적 연대기, 고대 기억, 신성한 역사, 그리고 현대적 재해석을 중심으로 한다. 이 프로젝트의 작업 가설은 다음과 같다: 지구 생명은 특정한 진보된 문명의 의도적 과학 작업의 산물이며, 이들은 히브리어 성경에서 *엘로힘*이라 불리는 존재로서, 약 22,000년 전 지구에 도착하여 그 후 이어지는 세차(歲差) 시대들에 걸쳐 행성 준비, 생명 합성, 그리고 마침내 자신들의 형상을 따른 인류 창조에 이르는 프로젝트를 수행하였다. 이 틀은 주로 라엘 자료(클로드 보릴롱의 1973–1975년 접촉 기록), 장 상디의 라엘 이전 작업(보다 넓은 ‘전통’의 틀), 조르조 데 산틸라나와 헤르타 폰 데헨트의 *햄릿의 맷돌*(1969)에 표명된 세차–신화학적 재구성, 그리고 이 프로젝트의 보존된 문화적 기억으로 읽을 수 있는 폭넓은 교차문화적 종교적·신화적·도상학적·고고학적·문헌적 증거에 기반한다. ‘Wheel of Heaven’이라는 명칭은 이중적 의미를 지닌다: 주요하게는, 춘분점이 황도대 배경을 따라 회전하는 세차 주기(약 25,920년)로서, 코퍼스의 열두 시대 서사를 조직한다; 부차적으로는, 에스겔의 환상에 보존된 바퀴 속의 바퀴 이미지(אוֹפַן בְּתוֹךְ הָאוֹפָן, *ofan betokh ha-ofan*)로서, 전(前)과학적 어휘로 엘로힘 우주선 관측을 기록한 여러 히브리어 성경 본문 중 하나이다. 코퍼스는 최종 종합이 아니라 통합의 지속적 집단 프로젝트의 한 단계이며, 더 광범위한 작업은 코퍼스 자체의 발전과 다른 저자 및 전통들의 병행 작업을 통해 앞으로 수십 년에 걸쳐 계속될 것으로 예상된다."
 template = "wiki-page.html"
 toc = true
 
 [extra]
-translation_status = "metadata_only"
+featured_order = 4
 category = "Meta"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["the Wheel of Heaven framework", "the Wheel of Heaven corpus", "the Wheel of Heaven project", "the Wheel of Heaven thesis", "the framework (corpus-internal short form)", "the corpus (when referring to the written body of project content)"]
+alternative_names = ["Wheel of Heaven 틀", "Wheel of Heaven 코퍼스", "Wheel of Heaven 프로젝트", "Wheel of Heaven 명제", "이 틀(코퍼스 내부 약칭)", "이 코퍼스(프로젝트 문헌 본체를 지칭할 때)"]
+see_also = [
+    { title = "전통(The Tradition)", path = "wiki/the-tradition", description = "이 프로젝트가 자리 잡은 비교 독해의 더 넓은 흐름." },
+    { title = "빌리노 방법", path = "wiki/biglino-method", description = "이 프로젝트가 의지하는 문자적 히브리어 독해 접근법." },
+    { title = "비교 신화학", path = "wiki/comparative-mythology", description = "이 프로젝트가 코퍼스 내부 독해에 적용하는 학술 분과." },
+    { title = "신화소(Mytheme)", path = "wiki/mytheme", description = "전통을 가로지르는 모티프를 추적하기 위해 이 프로젝트가 사용하는 비교 분석의 단위." },
+    { title = "상디의 정합성 조건들", path = "wiki/sendys-conditions-of-coherence", description = "신성한 본문을 읽을 때 이 프로젝트가 충족시키고자 하는 해석적 제약들." },
+]
 timeline = ["multi-age"]
 
+footnotes = [
+    { content = "대년(大年)에 대한 약 25,920년이라는 수치는 틀 내부의 반올림이다: 각 정확히 2,160년에 이르는 열두 세차 시대. 자전축 세차의 주기에 대한 IAU 2006 세차–장동 모델로 계산된 현대 천문학적 값은 약 25,772년이며 — 그 자체로도 엄밀한 상수라기보다 천천히 변동하는 수치인데, 세차 속도는 지구의 궤도 기하학과 일월(日月) 토크의 장기적 변화에 영향을 받기 때문이다. 코퍼스가 25,920년을 선호하는 것은 주기가 문자 그대로 25,920년임을 주장하는 것이 아니라 틀의 조직적 편의(열두 균등한 시대) 때문이며; 그 차이는 약 0.6%이다." },
+    { content = "에스겔 1:15–16의 바퀴 속의 바퀴 이미지는 유대교와 기독교의 긴 해석사를 가지고 있으며, 그 역사는 우주선 독해를 요구하지 않는다. 주요 유대교 전통은 *오파님*을 *메르카바*(전차–보좌) 전통에서 천상의 존재 등급 중 하나로 읽으며, *헤이칼롯* 문헌, 후대의 마이모니데스적·카발라적 참여가 이 이미지를 신적 실재의 구조에 대한 환시로 발전시켰다. 주류 성경학 — 그린버그의 앵커 바이블 주석, 블록의 NICOT 권 — 은 이 본문을 문자 그대로의 묘사가 아니라 환시적·예언적 수사로 읽는다. 코퍼스의 독해는 묘사의 기계적 구체성(바퀴들의 맞물린 운동, 눈으로 가득한 테, 회전 없이 이동함)을 수사가 아니라 관측의 증거로 받아들이지만, 그렇다고 표준 해석 전통이 환시 장르에 관해 틀렸다고 주장하지는 않는다." },
+    { content = "약 40명의 예언자라는 수치는 자료 내부의 주장이며, 종교 전통들에 대한 외부적 인원 산정에서 도출되지 않았다. 전통마다 예언자를 다르게 셈한다 — 이슬람 전통은 꾸란에서 25명의 명명된 예언자를 말하는 한편, 인류 역사 전반에 걸쳐 보내진 더 넓은 124,000명을 언급한다; 히브리어 성경은 정경의 책들 전반에서 명시적으로 *나비*로 지칭된 18명의 인물을 거명한다; 바하이 전통은 9명의 현시자를 중심에 둔다. 코퍼스는 이 수치를 자료의 관점에서 동맹이 보낸 중개자에 대한 야훼 자신의 열거로 다루지, 어느 한 전통의 예언자 명부로 환원되거나 그로부터 도출되는 수로 다루지 않는다." },
+    { content = "아크나톤의 아텐 숭배가 진정한 일신교, 일존교(henotheism) 또는 정치적 동기에 의한 단일숭배(monolatry)였는지에 대해서는 이집트학자들 사이에서 여전히 논쟁이 있다. 시릴 올드레드(1988)는 아텐 개혁을 그 성숙기에 본래적 일신교로 읽는다. 도널드 레드포드(1984)는 신학적 측면보다는 정치적·경제적 측면을 — 카르나크의 아문 사제단에 대한 타격을 — 강조한다. 에리크 호르눙(1999)은 이 개혁을 다른 신들이 부정되는 것이 아니라 보편적 태양 원반 아래 기능적으로 무력화되는 *일존교*로 다룬다. 코퍼스는 아텐 일신교 문제에 대해 어느 방향으로도 입장을 정하지 않는다; 제안된 ‘하늘의 바퀴’–비행체 연관성은 한 전통이 그렇게 읽는 것으로 기록되며, 한편 주류 이집트학 문헌은 그 구체적 용어에 대한 직접적 본문적 증거를 포함하지 않는다는 점이 인정된다." },
+    { content = "코퍼스의 틀은 문서 가설의 구체적 자료 재구성(J / E / D / P, 그리고 반 세터스, 렌도르프, 슈미트, 그리고 더 넓은 후기 벨하우젠 전통을 통한 다양한 후속 정교화)과 직교적으로 작동한다. 오경이 네 개의 별개 문서 자료에서 조립되었는지, 야훼 또는 제사장 자료 핵심 둘레의 보충적 층들로부터 조립되었는지, 또는 단편–편집 과정을 통해 조립되었는지의 문제는 자료비평 방법론 내부의 문제이다; 이 틀의 독해는 현재 남아 있는 본문을 만들어낸 구성사보다는 그 본문이 그 지시 대상에 관해 보존하고 있는 것에 주의를 기울인다. 두 문제는 독립적이다: 본문은 자료비평 전통이 제안한 그 어떤 방식으로든 구성적으로 복잡할 수 있으면서도, 그 틀이 그 본문이 보존하고 있다고 읽는 종류의 역사–지시적 내용을 여전히 보존할 수 있다." },
+]
+
+[[extra.references]]
+id = "the-book-which-tells-the-truth"
+note = "보릴롱의 1974년 라엘 기초 본문 — 이 틀의 구체적 내용에 대한 주된 자료이며; 첫 접촉은 1973년 12월 13일 클레르몽페랑에서 이루어졌다."
+
+[[extra.references]]
+id = "extraterrestrials-took-me-to-their-planet"
+note = "보릴롱의 1976년 두 번째 라엘 저작 — 1975년 10월 페리고르 방문과 야훼의 모행성 해설의 기록."
+
+[[extra.references]]
+id = "lets-welcome-the-extraterrestrials"
+note = "보릴롱의 1979년 세 번째 라엘 저작 — 대사관 프로젝트와 물병자리 시대 전환에서의 인류의 역할."
+
+[[extra.references]]
+id = "intelligent-design-message-from-the-designers"
+note = "수합된 라엘 자료 모음집; 코퍼스의 작업 가설을 조직하는 동맹–창조자 주장의 주된 표명으로서 인용됨."
+
+[[extra.references]]
+id = "those-gods-who-made-heaven-and-earth"
+note = "상디의 1969년 라엘 이전 작업으로, 엘로힘을 물리적 문명으로 읽는 문헌학적 독해 — ‘전통’의 틀에 대한 실질적인 선행 표명."
+
+[[extra.references]]
+id = "the-coming-of-the-gods"
+note = "상디의 *L'Ère du Verseau* (1970) — ‘전통’의 틀 안에서의 물병자리 시대 정위이며, 코퍼스의 히브리어 성경에 대한 세차–황도대 독해의 기초를 이룬다."
+
+[[extra.references]]
+id = "hamlets-mill"
+note = "산틸라나와 폰 데헨트의 1969년 저작으로, 코퍼스의 세차–신화학적 독해를 위한 기초적 학술 정박점."
+
+[[extra.references]]
+id = "ezekiel"
+note = "프로젝트 명칭의 부차적 의미 차원을 정박하는 바퀴 속의 바퀴 이미지(에스겔 1:15–16)를 제공하는 히브리어 성경의 책."
+
+[[extra.references]]
+id = "genesis"
+note = "그 창조 서사를 코퍼스가 동맹의 유전공학 프로젝트에 대한 압축된 문화적 기억으로 읽는 히브리어 성경의 책."
+
+[[extra.references]]
+id = "the-12th-planet"
+note = "시친의 1976년 저작으로, 아눈나키 / 니비루 틀의 기초적 작업 — 공유된 방향성을 가지되 자료적 근거가 구별되는 인접한 대안–역사 독해로서 참여됨."
+
+[[extra.references]]
+id = "escaping-from-eden"
+note = "월리스의 2020년 저작으로, 히브리어 성경의 엘로힘에 대한 엄격한 직역적 비교 독해 — 공유된 방향성을 기록하는 인접한 틀로서 참여됨."
+
+[[extra.references]]
+id = "the-naked-bible"
+note = "빌리노와 카타네오의 2022년 엄격한 문자 그대로의 히브리어 번역 작업 — 월리스의 더 넓은 엄격–직역적 참여의 방법론적 배경."
+
+[[extra.references]]
+id = "prolegomena-zur-geschichte-israels"
+note = "벨하우젠의 1878년 저작으로, 문서 가설의 기초적 표명 — 코퍼스의 주류 히브리어 성경 자료비평 학술 작업에 대한 참여의 정박점."
+
+[[extra.references]]
+id = "who-wrote-the-bible"
+note = "프리드먼의 1987년 저작으로, 문서 가설에 대한 접근 가능한 재진술 — 현대 비평적 학문에 대한 코퍼스의 참조점."
+
+[[extra.references]]
+id = "the-zohar-pritzker"
+note = "맷의 프리츠커 판 조하르 번역(2003–2017) — 코퍼스의 카발라 참여에 대한 표준 학술 접근점."
+
 [extra.infobox]
-type = "Curated comparative knowledge project; interpretive framework for the integrated reading of revelation, cosmic chronology, ancient memory, sacred history, and modern reinterpretation"
+type = "큐레이션된 비교 지식 프로젝트; 계시, 우주적 연대기, 고대 기억, 신성한 역사, 그리고 현대적 재해석의 통합적 독해를 위한 해석적 틀"
 project_url = "https://www.wheelofheaven.world"
-project_status = "Active; ongoing development across multiple workstreams (wiki, library, blog, narrated introduction)"
-working_hypothesis = "Terrestrial life was produced by the deliberate scientific work of a specific advanced civilization, called in the Hebrew Bible the Elohim, who arrived on Earth approximately 22,000 years ago and conducted across twelve precessional ages a project of planetary preparation, life synthesis, and the eventual creation of humanity in their own image"
-principal_source_families = "Raëlian canonical texts (Claude Vorilhon, 1974 onward); Jean Sendy's pre-Raëlian Tradition framework (1963 onward); the precessional-mythological reconstruction of *Hamlet's Mill* (Santillana and von Dechend, 1969); the Hebrew Bible read with framework-specific hermeneutic; cross-cultural religious-mythological-archaeological evidence"
-principal_temporal_framework = "The precessional cycle (~25,920-year Great Year) divided into twelve precessional ages of approximately 2,160 years each; the corpus operational period extends from the Capricorn-age opening at -21,810 to the present Aquarian age (1950 corpus boundary, 1946 source-anchored boundary)"
-name_meaning_principal = "The precessional cycle as the 'wheel of heaven' that turns through the twelve zodiacal constellations across the Great Year; the principal organizing temporal-cosmological framework of the corpus"
-name_meaning_secondary = "The wheel-within-a-wheel imagery of Ezekiel's vision (Ezekiel 1:16, אוֹפַן בְּתוֹךְ הָאוֹפָן, *ofan betokh ha-ofan*) and broader Hebrew Bible spacecraft-imagery preserved in pre-scientific vocabulary"
-distinguished_from = "The Raëlian Movement (the corpus draws on Raëlian source material but is not affiliated with the institutional Raëlian Movement and does not require Raëlian commitments of its readers); Sendy's pre-Raëlian Tradition framework (the corpus extends Sendy's work substantially while retaining its principal interpretive moves); the broader 'ancient aliens' popular-television tradition (the corpus operates with substantially distinct epistemic standards and source-material discipline); mainstream comparative-religion scholarship (the corpus engages mainstream scholarship substantively but operates from distinctive interpretive commitments)"
-governance_documents = "Project Charter; Editorial Style Guide; Chronology Rules; Nomenclature; Source Methodology; Chapter Index; Master Timeline"
-status_in_framework = "Foundational meta-concept; the entry that articulates what the broader project IS, what it draws on, what it claims, and how it operates"
+project_status = "활동 중; 다수의 작업 흐름(위키, 라이브러리, 블로그, 내레이션 입문)에 걸친 지속적 발전"
+working_hypothesis = "지구 생명은 특정한 진보된 문명의 의도적 과학 작업의 산물이며, 이들은 히브리어 성경에서 엘로힘이라 불리는 존재로서, 약 22,000년 전 지구에 도착하여 열두 세차 시대에 걸쳐 행성 준비, 생명 합성, 그리고 마침내 자신들의 형상을 따른 인류 창조에 이르는 프로젝트를 수행하였다"
+principal_source_families = "라엘 정경 본문(클로드 보릴롱, 1974년 이후); 장 상디의 라엘 이전 ‘전통’의 틀(1963년 이후); *햄릿의 맷돌*의 세차–신화학적 재구성(산틸라나와 폰 데헨트, 1969); 틀에 특수한 해석으로 읽은 히브리어 성경; 교차문화적 종교적·신화적·고고학적 증거"
+principal_temporal_framework = "12개의 세차 시대(각 약 2,160년)로 분할된 세차 주기(약 25,920년의 대년); 코퍼스의 운영 기간은 기원전 약 21,810년의 염소자리 시대 도래에서 현재의 물병자리 시대(1950년의 코퍼스 경계, 1946년의 자료에 정박된 경계)까지 이어진다"
+name_meaning_principal = "대년에 걸쳐 열두 황도 별자리를 지나며 회전하는 ‘하늘의 바퀴’로서의 세차 주기; 코퍼스의 주된 조직적 시간–우주론적 틀"
+name_meaning_secondary = "에스겔 환상의 바퀴 속의 바퀴 이미지(에스겔 1:16, אוֹפַן בְּתוֹךְ הָאוֹפָן, *ofan betokh ha-ofan*) 및 전(前)과학적 어휘로 보존된 더 넓은 히브리어 성경의 우주선–이미지"
+distinguished_from = "라엘 운동(코퍼스는 라엘 자료에 의지하지만 제도적 라엘 운동과 제휴하지 않으며 독자에게 라엘적 헌신을 요구하지 않는다); 상디의 라엘 이전 ‘전통’의 틀(코퍼스는 상디의 주요 해석적 행보들을 유지하면서도 그의 작업을 상당히 확장한다); 더 넓은 ‘고대 외계인’ 대중 텔레비전 전통(코퍼스는 실질적으로 구별되는 인식론적 기준과 자료 규율로 작동한다); 주류 비교 종교학(코퍼스는 주류 학술 작업에 실질적으로 참여하지만 구별되는 해석적 헌신에서 작동한다)"
+governance_documents = "프로젝트 헌장; 편집 스타일 가이드; 연대기 규칙; 명명법; 자료 방법론; 장(章) 색인; 마스터 타임라인"
+status_in_framework = "기초적 메타–개념; 더 넓은 프로젝트가 무엇인지, 무엇에 의지하는지, 무엇을 주장하는지, 어떻게 작동하는지를 표명하는 항목"
 +++
 
-**Wheel of Heaven** is a curated comparative knowledge project — both the name of an interpretive framework and the corpus that articulates it. The project is centered on revelation, cosmic chronology, ancient memory, sacred history, and modern reinterpretation, with the corpus assembling and integrating a wide body of religious-mythological-textual-archaeological evidence within a single coherent interpretive framework. The project exists as a public-facing web platform at **www.wheelofheaven.world**, supported by an extensive wiki, a library of curated source materials, a narrated introduction, and an ongoing blog tracking developments.
+**Wheel of Heaven**은 큐레이션된 비교 지식 프로젝트로 — 해석적 틀의 이름인 동시에 그 틀을 표명하는 코퍼스의 이름이기도 하다. 이 프로젝트는 계시, 우주적 연대기, 고대 기억, 신성한 역사, 그리고 현대적 재해석을 중심으로 하며, 코퍼스는 종교적·신화적·문헌적·고고학적 증거의 광범위한 본체를 단일한 정합적 해석 틀 안에 모으고 통합한다. 이 프로젝트는 **www.wheelofheaven.world**에 있는 공개 웹 플랫폼으로 존재하며, 광범위한 위키, 큐레이션된 자료들의 라이브러리, 내레이션 입문, 그리고 발전 상황을 추적하는 진행 중인 블로그의 지원을 받는다.
 
-The project's **working hypothesis**: terrestrial life was produced by the deliberate scientific work of a specific advanced civilization, called in the Hebrew Bible the **Elohim** (אֱלֹהִים, plural of *Eloha*), who arrived on Earth approximately 22,000 years ago and conducted across the subsequent precessional ages a project of planetary preparation, life synthesis, and the eventual creation of humanity in their own image. The hypothesis is provisional in the technical sense — *a working hypothesis*, advanced as a basis for further research — and the corpus is structured to support its ongoing investigation rather than to assert it as settled. The corpus distinguishes throughout between direct source claims, comparative observations, framework-specific interpretive synthesis, and open questions.
+이 프로젝트의 **작업 가설**: 지구 생명은 특정한 진보된 문명의 의도적 과학 작업의 산물이며, 이들은 히브리어 {% wiki(slug="bible") %}성경{% end %}에서 **엘로힘**(אֱלֹהִים, *엘로아*의 복수형)이라 불리는 존재로서, 약 22,000년 전 지구에 도착하여 그 후 이어지는 세차 시대들에 걸쳐 행성 준비, 생명 합성, 그리고 마침내 자신들의 형상을 따른 인류 창조에 이르는 프로젝트를 수행하였다. 이 가설은 기술적 의미에서 잠정적이다 — *작업 가설*로서, 추가 연구의 기초로서 제시되며 — 그리고 코퍼스는 이를 확정된 것으로 단정하기보다는 그것의 지속적 탐구를 뒷받침하도록 구조화되어 있다. 코퍼스는 시종일관 직접적 자료 주장, 비교적 관찰, 틀에 특수한 해석적 종합, 그리고 열린 문제들을 구분한다.
 
-The framework draws on four principal source families. **Raëlian canonical texts** — principally *The Book Which Tells the Truth* (1974), *Extra-Terrestrials Took Me to Their Planet* (1975), and *Let's Welcome the Extra-Terrestrials* (1979), collected as *Message from the Designers* — provide the most direct articulation of the framework's specific content, derived from Claude Vorilhon's December 1973 and October 1975 contact accounts. **Jean Sendy's pre-Raëlian work** — principally *Les cahiers de cours de Moïse* (1963), *La Lune, clé de la Bible* (1968), *Ces dieux qui firent le ciel et la terre* (1969), and *L'ère du Verseau* (1970) — provides substantive prior articulation of the broader Tradition framework, with particular attention to Hebrew Bible exegesis through the precessional-zodiacal lens. ***Hamlet's Mill*** by Giorgio de Santillana and Hertha von Dechend (1969) provides the principal scholarly anchor for the framework's precessional-mythological reading. **Cross-cultural religious-mythological-archaeological evidence** — drawn from Hebrew Bible, broader Mesopotamian, Egyptian, Greek, Vedic, Mesoamerican, Chinese, and various other traditions — supplies the comparative material the framework reads as preserved cultural memory of the project's various phases.
+이 틀은 네 개의 주된 자료 계열에 의존한다. **라엘 정경 본문** — 주로 *진실을 말하는 책*(1974),{{ cite(id="the-book-which-tells-the-truth", text="[1]", title="보릴롱(라엘), *진실을 말하는 책*(1974) — 1973년 12월 클레르몽페랑 접촉을 기록한 라엘의 기초 본문") }} *외계인들이 나를 그들의 행성으로 데려갔다*(1975),{{ cite(id="extraterrestrials-took-me-to-their-planet", text="[2]", title="보릴롱(라엘), *외계인들이 나를 그들의 행성으로 데려갔다*(1976) — 1975년 10월 페리고르 방문과 모행성 해설의 기록") }} 그리고 *외계인들을 환영합시다*(1979),{{ cite(id="lets-welcome-the-extraterrestrials", text="[3]", title="보릴롱(라엘), *외계인들을 환영합시다*(1979) — 대사관 프로젝트와 물병자리 시대 전환") }} *설계자들로부터의 메시지*로 수합됨{{ cite(id="intelligent-design-message-from-the-designers", text="[4]", title="보릴롱(라엘), *지적 설계: 설계자들로부터의 메시지* — 수합된 라엘 자료 모음집") }} — 은 클로드 보릴롱의 1973년 12월과 1975년 10월 접촉 기록에서 도출되어, 이 틀의 구체적 내용에 대한 가장 직접적인 표명을 제공한다. **장 상디의 라엘 이전 작업** — 주로 *모세의 강의 노트*(1963), *달, 성경의 열쇠*(1968), *하늘과 땅을 만든 그 신들*(1969),{{ cite(id="those-gods-who-made-heaven-and-earth", text="[5]", title="상디, *하늘과 땅을 만든 그 신들*(1969) — 엘로힘을 물리적 문명으로 읽는 라엘 이전 문헌학적 독해") }} 그리고 *물병자리 시대*(1970){{ cite(id="the-coming-of-the-gods", text="[6]", title="상디, *L'Ère du Verseau* / *신들의 도래*(1970) — ‘전통’의 틀 안에서의 물병자리 시대 정위") }} — 은 ‘전통’이라는 더 넓은 틀에 대한 실질적인 선행 표명을 제공하며, 특히 세차–황도대 렌즈를 통한 히브리어 성경 주해에 주의를 기울인다. ***햄릿의 맷돌***, 조르조 데 산틸라나와 헤르타 폰 데헨트(1969){{ cite(id="hamlets-mill", text="[7]", title="데 산틸라나와 폰 데헨트, *햄릿의 맷돌*(1969) — 세차–신화학적 독해를 위한 기초적 학술 정박점") }} 은 이 틀의 세차–신화학적 독해를 위한 주된 학술적 정박점을 제공한다. **교차문화적 종교적·신화적·고고학적 증거** — 히브리어 성경, 더 넓은 메소포타미아, 이집트, 그리스, 베다, 메소아메리카, 중국, 그리고 다양한 다른 전통에서 도출됨 — 은 이 틀이 프로젝트의 다양한 단계에 대한 보존된 문화적 기억으로 읽는 비교 자료를 공급한다.
 
-The name **Wheel of Heaven** carries a dual meaning. Principally, the wheel of heaven is the **precessional cycle** — the slow rotation of the vernal-equinox point through the twelve zodiacal constellations across the ~25,920-year Great Year, organizing the corpus's twelve-age narrative architecture. The corpus articulation: *"The image at the heart of this work is the wheel of heaven. The wheel is the precessional cycle, the slow rotation of the sky's apparent orientation across the twenty-five thousand nine hundred and twenty years of the Great Year."* Secondarily, the wheel of heaven echoes the **wheel-within-a-wheel imagery** preserved in Ezekiel's vision (Ezekiel 1:16, אוֹפַן בְּתוֹךְ הָאוֹפָן, *ofan betokh ha-ofan*) as one of several Hebrew Bible passages registering Elohim spacecraft observation in pre-scientific vocabulary. Both meanings register substantively within the broader framework — the primary as foundational temporal-cosmological architecture, the secondary as one of the principal source-textual anchors for the framework's spacecraft-imagery reading.
+**Wheel of Heaven**이라는 명칭은 이중적 의미를 지닌다. 주요하게는, 하늘의 바퀴는 **세차 주기**이다 — 약 25,920년의 {% wiki(slug="great-year") %}대년{% end %}에 걸쳐 춘분점이 열두 황도 별자리를 따라 천천히 회전하는 것으로, 코퍼스의 열두 시대 서사 구조를 조직한다. 코퍼스의 표명: *"이 작업의 핵심에 놓인 이미지는 하늘의 바퀴이다. 이 바퀴는 세차 주기, 곧 대년의 2만 5,920년에 걸친 하늘의 외관적 방위의 천천한 회전이다."* 부차적으로, 하늘의 바퀴는 에스겔의 환상({% libref(book="ezekiel-woh", chapter=1, verse=16) %}에스겔 1:16{% end %}, אוֹפַן בְּתוֹךְ הָאוֹפָן, *ofan betokh ha-ofan*)에 보존된 **바퀴 속의 바퀴 이미지**를 반향하며, 이는 전(前)과학적 어휘로 엘로힘 우주선 관측을 기록한 여러 히브리어 성경 본문 중 하나이다. 두 의미 모두 더 넓은 틀 안에서 실질적으로 기록된다 — 주요한 것은 기초적 시간–우주론적 구조로서, 부차적인 것은 이 틀의 우주선–이미지 독해를 위한 주된 자료–본문적 정박점 중 하나로서.
 
-The corpus is not a final synthesis but one stage in an ongoing collective project of integration. The corpus's own articulation: *"The present corpus is not the final synthesis. It is one stage in an ongoing project that will continue across the coming years and decades, both through the corpus's own continued development and through the parallel work of other authors and traditions engaging the same materials."* The project operates with explicit recognition that subsequent work will supplement, extend, and in some respects supersede the present articulation as the broader Aquarian-age recovery and integration of the alliance's communication continues.
+코퍼스는 최종 종합이 아니라 통합의 지속적 집단 프로젝트의 한 단계이다. 코퍼스 자체의 표명: *"현재의 코퍼스는 최종 종합이 아니다. 그것은 다가오는 해와 수십 년에 걸쳐 계속될 진행 중인 프로젝트의 한 단계로서, 코퍼스 자체의 지속적 발전과, 동일한 자료들에 참여하는 다른 저자들 및 전통들의 병행 작업 양쪽 모두를 통해 이어진다."* 이 프로젝트는 후속 작업이 동맹의 의사소통에 대한 더 넓은 물병자리 시대의 회복과 통합이 계속됨에 따라 현재의 표명을 보완하고, 확장하고, 어떤 면에서는 대체할 것이라는 명시적 인정과 함께 작동한다.
 
-This entry articulates what the Wheel of Heaven project IS — its purpose, its working hypothesis, its source-material foundations, its corpus structure, its editorial principles, and how it positions itself within the broader landscape of related projects.
+이 항목은 Wheel of Heaven 프로젝트가 **무엇인지**를 표명한다 — 그 목적, 그 작업 가설, 그 자료적 기반, 그 코퍼스 구조, 그 편집 원칙, 그리고 관련 프로젝트들의 더 넓은 지형 안에서 어떻게 자리매김하는지를.
 
-## Etymology and naming
+## 어원과 명명
 
-The project name carries a dual semantic content that the corpus engages substantively in both registers.
+이 프로젝트 명칭은 코퍼스가 두 차원 모두에서 실질적으로 참여하는 이중적 의미 내용을 지닌다.
 
-### "Wheel" — the precessional cycle
+### "바퀴(Wheel)" — 세차 주기
 
-The principal meaning of "Wheel of Heaven" is the **precessional cycle**. The cycle is produced by the slow conical wobble of Earth's rotational axis under gravitational torque from the sun and moon — a real astronomical phenomenon completing one full rotation every approximately 25,920 years. As the axis traces its conical motion, the celestial pole moves slowly across the sky and the vernal-equinox point (the place where the sun rises on the first day of spring) drifts backward through the zodiacal constellations at approximately 2,160 years per constellation. The detailed treatment of the precessional cycle and its mechanics lives in the [World Age](../world-age/) entry; the detailed treatment of the zodiacal framework lives in the [Zodiac](../zodiac/) entry.
+"Wheel of Heaven"의 주된 의미는 **세차 주기**이다. 이 주기는 태양과 달로부터의 중력 토크 하에서 지구 자전축의 천천한 원뿔형 동요로 인해 생성되며 — 이는 약 25,920년마다 한 차례 완전한 회전을 마치는 실제 천문학적 현상이다. 자전축이 원뿔형 운동을 그릴 때, 천구의 극은 천천히 하늘을 가로질러 이동하고 춘분점(봄 첫날 태양이 떠오르는 자리)은 황도 별자리들을 따라 별자리당 약 2,160년의 속도로 뒤로 표류한다. 세차 주기와 그 역학에 대한 상세한 다룸은 [세계의 시대](../world-age/) 항목에 있다; 황도 틀에 대한 상세한 다룸은 [황도대](../zodiac/) 항목에 있다.
 
-The framework reads the precessional cycle as the principal organizing temporal-cosmological structure of the entire corpus narrative. Each of twelve precessional ages — Capricorn, Sagittarius, Scorpio, Libra, Virgo, Leo, Cancer, Gemini, Taurus, Aries, Pisces, Aquarius — operates as an engineering-operational phase of the alliance's twenty-two-thousand-year project on Earth, with specific tasks, characteristic interventions, and a doubled astronomical signature encoded in the religious-iconographic tradition of the cultures the alliance cultivated during that age.
+이 틀은 세차 주기를 코퍼스 전체 서사의 주된 조직적 시간–우주론적 구조로 읽는다. 12개의 세차 시대 — 염소자리, 사수자리, 전갈자리, 천칭자리, 처녀자리, 사자자리, 게자리, 쌍둥이자리, 황소자리, 양자리, 물고기자리, 물병자리 — 각각은 지구상에서 동맹의 2만 2천 년 프로젝트의 공학적 운영 단계로 작동하며, 특정한 과제, 특징적 개입, 그리고 그 시대에 동맹이 일군 문화들의 종교적·도상학적 전통에 부호화된 이중 천문학적 서명을 가진다.
 
-The "wheel" metaphor is precise rather than poetic. The precessional cycle is literally a rotation — the celestial pole traces a circle on the celestial sphere; the equinoctial point traces a complete circuit through the zodiac. The image is genuinely a turning wheel. The corpus's articulation: *"The wheel keeps turning. The Aquarian age that opened in 1946 and that contains our present moment will, across the coming centuries, complete its 2,160-year arc and yield to the Capricorn age that follows. The Capricorn age will yield to Sagittarius, Sagittarius to Scorpio, and the cycle will continue across the coming twenty-two thousand years until a new Great Year completes itself and a further one begins."*
+"바퀴" 은유는 시적이라기보다는 정확하다. 세차 주기는 문자 그대로 회전이다 — 천구의 극은 천구 위에 원을 그리고; 분점은 황도대를 가로질러 완전한 일주를 그린다. 그 이미지는 진정으로 회전하는 바퀴이다.{{ footnote(id="1") }} 코퍼스의 표명: *"바퀴는 계속 돈다. 1946년에 열렸으며 우리의 현재 순간을 포함하는 물병자리 시대는, 다가오는 세기들에 걸쳐 2,160년의 호를 완성하고 뒤따르는 염소자리 시대에 자리를 내어줄 것이다. 염소자리 시대는 사수자리에, 사수자리는 전갈자리에 자리를 내어주고, 이 순환은 다가오는 2만 2천 년에 걸쳐 새로운 대년이 자기 자신을 완성하고 더 나아가 또 하나가 시작될 때까지 계속될 것이다."*
 
-### "Heaven" — the celestial sphere
+### "하늘(Heaven)" — 천구
 
-The "heaven" of "Wheel of Heaven" is the celestial sphere — the apparent dome of sky against which celestial motion is observed. The English word *heaven* descends from Old English *heofon*, with cognates across the Germanic languages (German *Himmel*, Dutch *hemel*) and broader Indo-European parallels. The term has dual semantic content in religious-cosmological usage: the *physical sky* (the observed celestial dome) and the *cosmological-spiritual realm* (the abode of divine beings).
+"Wheel of Heaven"의 "하늘"은 천구이다 — 천체 운동이 관측되는 하늘의 외관적 돔. 영어 단어 *heaven*은 고대 영어 *heofon*에서 유래하며, 게르만어 전반(독일어 *Himmel*, 네덜란드어 *hemel*) 및 더 넓은 인도유럽어의 동족어들과 연결된다. 이 용어는 종교적·우주론적 용법에서 이중적 의미 내용을 가진다: *물리적 하늘*(관측되는 천구)과 *우주론적·영적 영역*(신적 존재들의 거처).
 
-The framework operates the term principally in its physical-celestial sense — the sky against which the precessional rotation is observed. The cosmological-spiritual sense remains present as secondary content, registering the framework's reading of the Elohim alliance as occupying a substantive cosmic-political position relative to humanity (the "heaven" from which they came is the broader cosmic civilizational order, of which humanity is a recently-created participant). The detailed treatment of the broader cosmic civilizational order lives in the [Cosmic Chain](../cosmic-chain/) entry.
+이 틀은 이 용어를 주로 그 물리적·천체적 의미에서 — 세차 회전이 관측되는 하늘로서 — 작동시킨다. 우주론적·영적 의미는 부차적 내용으로 남아 있으며, 이 틀이 엘로힘 동맹을 인류와의 관계에서 실질적 우주–정치적 위치를 점하는 것으로 읽는 것을 기록한다(그들이 온 "하늘"은 더 넓은 우주적 문명적 질서이며, 인류는 그 질서의 최근 창조된 참여자이다). 더 넓은 우주적 문명적 질서에 대한 상세한 다룸은 [우주적 사슬](../cosmic-chain/) 항목에 있다.
 
-The Hebrew cognate שָׁמַיִם (*shamayim*, "heavens") operates similarly across the Hebrew Bible — both physical sky and cosmological domain. The Greek οὐρανός (*ouranos*) preserves the same dual content. The framework reads the broader cross-cultural "heaven" vocabulary as preserving substantive cultural memory of the actual cosmic-civilizational reality that the framework articulates.
+히브리어 동족어 שָׁמַיִם (*샤마임*, "하늘들")은 히브리어 성경 전반에서 유사하게 작동한다 — 물리적 하늘이자 우주론적 영역. 그리스어 οὐρανός (*우라노스*)는 동일한 이중 내용을 보존한다. 이 틀은 더 넓은 교차문화적 "하늘" 어휘를 이 틀이 표명하는 실제 우주–문명적 실재에 대한 실질적 문화적 기억을 보존하는 것으로 읽는다.
 
-### The secondary meaning — Ezekiel's wheel-within-a-wheel
+### 부차적 의미 — 에스겔의 바퀴 속의 바퀴
 
-A secondary semantic dimension of "Wheel of Heaven" engages the **wheel-within-a-wheel imagery** of Ezekiel's vision. The principal passage appears at Ezekiel 1:15-16:
+"Wheel of Heaven"의 부차적 의미 차원은 에스겔 환상의 **바퀴 속의 바퀴 이미지**에 참여한다. 주된 구절은 {% libref(book="ezekiel-woh", chapter=1, verse=15) %}에스겔 1:15–16{% end %}에 나타난다:
 
 > וָאֵרֶא הַחַיּוֹת וְהִנֵּה אוֹפַן אֶחָד בָּאָרֶץ אֵצֶל הַחַיּוֹת לְאַרְבַּעַת פָּנָיו
 > מַרְאֵה הָאוֹפַנִּים וּמַעֲשֵׂיהֶם כְּעֵין תַּרְשִׁישׁ וּדְמוּת אֶחָד לְאַרְבַּעְתָּן וּמַרְאֵיהֶם וּמַעֲשֵׂיהֶם כַּאֲשֶׁר יִהְיֶה הָאוֹפַן בְּתוֹךְ הָאוֹפָן
 > *Va'ere ha-chayot ve-hineh ofan echad ba-aretz etzel ha-chayot le-arba'at panav*
 > *Mareh ha-ofanim u-ma'asehem ke-ein tarshish u-demut echad le-arba'atan u-mar'eihem u-ma'aseihem ka-asher yihyeh ha-ofan be-tokh ha-ofan*
-> "Now as I beheld the living creatures, behold one wheel upon the earth by the living creatures, with his four faces. The appearance of the wheels and their work was like unto the colour of a beryl: and they four had one likeness: and their appearance and their work was as it were a wheel in the middle of a wheel."
+> "내가 그 생물들을 보고 있을 때, 보라, 그 생물들 곁에, 그 네 얼굴 옆 땅 위에 한 바퀴가 있었다. 그 바퀴들의 외관과 그 만듦새는 녹주석의 색깔과 같았으며, 그 넷이 하나의 모습을 가졌고, 그 외관과 그 만듦새는 마치 바퀴 가운데에 바퀴가 있는 것 같았다."
 
-The Hebrew אוֹפַן (*ofan*, "wheel") in this passage is a technical noun for a circular rotating object. The phrase אוֹפַן בְּתוֹךְ הָאוֹפָן (*ofan betokh ha-ofan*, "wheel within the wheel") has produced substantial interpretive history across Jewish, Christian, and modern engagement traditions. The framework reads the passage as preserved description of an Elohim aerial vehicle observed by Ezekiel in approximately 593 BCE — the prophet recording what he saw in the pre-scientific vocabulary available to him. The corpus articulation: *"As for the 'flying saucers' or 'wheels', their appearance and their operation were not at all badly described considering it is a primitive person who is speaking. 'as it were a wheel within a wheel...they didn't turn when they went.' In the center of the flying saucer, very similar to the one in which we are now sitting, was the habitable section - the rim."*
+이 구절의 히브리어 אוֹפַן (*ofan*, "바퀴")은 원형의 회전하는 물체를 가리키는 기술적 명사이다. אוֹפַן בְּתוֹךְ הָאוֹפָן (*ofan betokh ha-ofan*, "바퀴 속의 바퀴")라는 어구는 유대교, 기독교, 그리고 현대의 참여 전통에 걸쳐 상당한 해석사를 산출해 왔다.{{ footnote(id="2") }} 이 틀은 이 구절을 약 기원전 593년에 에스겔이 관측한 엘로힘 비행체에 대한 보존된 묘사로 읽는다 — 예언자가 자신에게 이용 가능한 전(前)과학적 어휘로 자기가 본 것을 기록한 것이다. 코퍼스의 표명: *"‘비행접시’ 또는 ‘바퀴’에 관해서는, 그 외관과 그 작동은 원시인이 말하고 있다는 점을 고려할 때 결코 나쁘게 묘사되지 않았다. ‘마치 바퀴 가운데에 바퀴가 있는 것 같았다… 그것들은 갈 때 돌지 않았다.’ 비행접시 중앙에는, 우리가 지금 앉아 있는 것과 매우 유사하게, 거주 가능한 부분 — 테 — 이 있었다."*
 
-The connection between the project name "Wheel of Heaven" and the Ezekiel imagery operates as a secondary semantic dimension rather than as the primary referent. The principal meaning remains the precessional cycle; the Ezekiel echo registers the framework's broader reading of the Hebrew Bible's spacecraft-imagery content.
+프로젝트 명칭 "Wheel of Heaven"과 에스겔 이미지 사이의 연관성은 주요 지시 대상이라기보다는 부차적 의미 차원으로 작동한다. 주된 의미는 여전히 세차 주기로 남아 있으며; 에스겔의 반향은 히브리어 성경의 우주선–이미지 내용에 대한 이 틀의 더 넓은 독해를 기록한다.
 
-### Other proposed name-anchors — epistemic note
+### 다른 제안된 명칭 정박점들 — 인식론적 주석
 
-Various interpretations have proposed additional anchors for the "Wheel of Heaven" designation, including a putative connection to **Akhenaten** (the 14th-century-BCE Egyptian pharaoh who established the Aten cult and founded the city of Akhetaten / modern Tell el-Amarna). One tradition holds that Akhenaten observed a disk-shaped aerial vehicle that the Egyptian record designated as a "wheel of heaven" — a connection registering substantive parallel content with the Ezekiel anchor.
+여러 해석들이 "Wheel of Heaven"이라는 지칭을 위한 추가적 정박점들을 제안해 왔는데, 그중에는 **아크나톤**(기원전 14세기 이집트 파라오로서 아텐 숭배를 확립하고 아케타텐 / 현대의 텔 엘아마르나 도시를 세움)과의 추정적 연관성도 포함된다. 한 전통은 아크나톤이 원반 모양의 비행체를 관측하였고, 이집트 기록이 이를 "하늘의 바퀴"로 지칭하였다고 주장한다 — 이는 에스겔의 정박점과 실질적 병행 내용을 기록하는 연관성이다.
 
-The corpus does not treat this Akhenaten connection as established. The principal Egyptological evidence for Akhenaten's religious-iconographic engagement runs through the **Aten** (אתן in transliterated form; the Egyptian solar disk depicted with rays ending in stylized hands offering the *ankh* sign of life), and the textual record from Amarna (the *Great Hymn to the Aten*, the various Boundary Stelae, the broader official inscriptions) does not contain a direct attestation of the specific "wheel of heaven" terminology applied to a flying object. The connection appears principally in popular-alternative-history sources without scholarly source-textual anchor. The corpus registers the proposed Akhenaten connection as one tradition holds it while flagging that the specific source-textual evidence remains unverified. Readers interested in the question are encouraged to consult primary Egyptological sources (Cyril Aldred's *Akhenaten: King of Egypt*, 1988; Donald B. Redford's *Akhenaten: The Heretic King*, 1984; the broader Amarna scholarly literature) and to draw their own conclusions.
+코퍼스는 이 아크나톤 연관성을 확립된 것으로 다루지 않는다. 아크나톤의 종교적·도상학적 참여에 대한 주된 이집트학적 증거는 **아텐**(음역 형태 אתן; 광선 끝이 *앙크* 생명 기호를 내미는 양식화된 손으로 끝나는 이집트의 태양 원반)을 통해 흐르며, 아마르나의 본문 기록(*아텐에 대한 위대한 찬가*, 다양한 경계 비석, 더 넓은 공식 비문)에는 비행 물체에 적용된 구체적인 "하늘의 바퀴" 용어에 대한 직접적 증명이 들어 있지 않다. 이 연관성은 주로 학술적 자료–본문적 정박점 없이 대중적 대안–역사 자료들에 나타난다. 코퍼스는 제안된 아크나톤 연관성을 한 전통이 그렇게 주장하는 것으로 기록하면서도, 구체적 자료–본문적 증거가 여전히 검증되지 않은 채로 남아 있다는 점을 표시한다. 이 문제에 관심이 있는 독자들은 1차 이집트학 자료(시릴 올드레드의 *아크나톤: 이집트의 왕*, 1988; 도널드 B. 레드포드의 *아크나톤: 이단의 왕*, 1984; 더 넓은 아마르나 학술 문헌)를 참조하여 스스로 결론을 내릴 것을 권한다.{{ footnote(id="3") }}
 
-The detailed treatment of Akhenaten's religious-historical role within the broader framework lives in the [Akhenaten](../akhenaten/) entry when written.
+더 넓은 틀 안에서 아크나톤의 종교적·역사적 역할에 대한 상세한 다룸은 작성되었을 때 [아크나톤](../akhenaten/) 항목에 있다.
 
-### Cross-cultural designations of the corpus
+### 코퍼스의 교차문화적 지칭
 
-The corpus operates principally in English under the **Wheel of Heaven** designation. No alternative-language designations have been formalized; the corpus would be designated by direct translation in other languages (French *Roue du Ciel*, German *Himmelsrad*, Hebrew גַּלְגַּל הַשָּׁמַיִם *galgal ha-shamayim*, etc.) where relevant.
+코퍼스는 주로 영어로 **Wheel of Heaven**이라는 지칭 아래 작동한다. 대안 언어 지칭은 공식화되지 않았다; 코퍼스는 관련될 경우 다른 언어에서 직역으로 지칭될 것이다(프랑스어 *Roue du Ciel*, 독일어 *Himmelsrad*, 히브리어 גַּלְגַּל הַשָּׁמַיִם *galgal ha-shamayim* 등).
 
-### Corpus-internal usage
+### 코퍼스 내부 용법
 
-The corpus uses several related but distinct designations:
-- **Wheel of Heaven** — the project name and the overarching interpretive framework
-- **the framework** (corpus-internal short form) — for the interpretive framework specifically
-- **the corpus** — the written body of project content
-- **the project** — the broader collaborative undertaking that produces the corpus
-- **the Wheel of Heaven thesis** — the working hypothesis articulated above
-- **the Wheel of Heaven worldview** — the broader interpretive position the corpus articulates
+코퍼스는 관련되었으면서도 별개인 여러 지칭을 사용한다:
+- **Wheel of Heaven** — 프로젝트 명칭이자 그 전체를 아우르는 해석적 틀
+- **이 틀**(코퍼스 내부 약칭) — 해석적 틀 자체를 가리킬 때
+- **이 코퍼스** — 프로젝트 문헌 본체
+- **이 프로젝트** — 코퍼스를 산출하는 더 넓은 협업적 사업
+- **Wheel of Heaven 명제** — 위에서 표명된 작업 가설
+- **Wheel of Heaven 세계관** — 코퍼스가 표명하는 더 넓은 해석적 입장
 
-The detailed nomenclature governance lives in the project's `03-nomenclature.md` governance document.
+상세한 명명법 통치는 프로젝트의 `03-nomenclature.md` 통치 문서에 있다.
 
-## The working hypothesis
+## 작업 가설
 
-The Wheel of Heaven project advances a specific working hypothesis as the framework that organizes the corpus's interpretive work. The hypothesis is *provisional* in the technical sense — accepted as a basis for further investigation rather than asserted as settled fact — but the corpus operates substantively within the hypothesis's commitments to allow systematic engagement with the material.
+Wheel of Heaven 프로젝트는 코퍼스의 해석 작업을 조직하는 틀로서 특정한 작업 가설을 제시한다. 이 가설은 *잠정적*이라는 기술적 의미에서 — 확정된 사실로서 단정되기보다는 추가 탐구의 기초로 받아들여지는 것 — 그러나 코퍼스는 자료에 대한 체계적 참여를 가능케 하기 위해 이 가설의 헌신 안에서 실질적으로 작동한다.
 
-### The principal claim
+### 주된 주장
 
-The principal claim: terrestrial life was produced by the deliberate scientific work of a specific advanced civilization. The civilization in question — called in the Hebrew Bible the **Elohim** (אֱלֹהִים) — is a plural group of biological beings physiologically similar to humans but technologically far advanced. The Elohim are not gods in any supernatural sense; they are a civilization of biological beings who, approximately 22,000 years before the present, began the specific scientific project of creating life on Earth through genetic design and laboratory synthesis.
+주된 주장은 다음과 같다: 지구 생명은 특정한 진보된 문명의 의도적 과학 작업의 산물이다. 문제의 문명 — 히브리어 성경에서 **엘로힘**(אֱלֹהִים)이라 불리는 — 은 인간과 생리학적으로 유사하면서도 기술적으로 훨씬 앞선 생물학적 존재들의 복수 집단이다. 엘로힘은 그 어떤 초자연적 의미에서도 신들이 아니다; 그들은 생물학적 존재들의 한 문명이며, 현재로부터 약 22,000년 전, 유전자 설계와 실험실 합성을 통해 지구상에 생명을 창조하는 구체적인 과학 프로젝트를 시작하였다.
 
-The principal articulation of this claim derives from the Raëlian source material: *"life on Earth was produced by the scientific work of a specific advanced civilization. The civilization in question, the Elohim, is a plural group of individuals of a species physiologically similar to humans but technologically far advanced. The Elohim are not gods in any supernatural sense. They are a civilization of biological beings who, approximately twenty-two thousand years before the present, began the specific scientific project of creating life on Earth through genetic design and laboratory synthesis."*
+이 주장의 주된 표명은 라엘 자료에서 도출된다:{{ cite(id="intelligent-design-message-from-the-designers", text="[8]", title="보릴롱(라엘), *지적 설계: 설계자들로부터의 메시지* — 동맹–창조자 주장에 대한 주된 라엘 자료") }} *"지구 생명은 특정한 진보된 문명의 과학 작업의 산물이었다. 문제의 문명, 엘로힘은 인간과 생리학적으로 유사하면서도 기술적으로 훨씬 앞선 종의 개체들로 이루어진 복수 집단이다. 엘로힘은 그 어떤 초자연적 의미에서도 신들이 아니다. 그들은 생물학적 존재들의 한 문명이며, 현재로부터 약 2만 2천 년 전, 유전자 설계와 실험실 합성을 통해 지구상에 생명을 창조하는 구체적인 과학 프로젝트를 시작하였다."*
 
-The detailed treatment of the Elohim civilization lives in the [Elohim](../elohim/) entry.
+엘로힘 문명에 대한 상세한 다룸은 [엘로힘](../elohim/) 항목에 있다.
 
-### The supporting claims
+### 보조 주장들
 
-Five additional claims operate as substantive components of the broader working hypothesis:
+다섯 개의 추가 주장이 더 넓은 작업 가설의 실질적 구성 요소로 작동한다:
 
-**1. The cultural-memory preservation claim.** The Hebrew Bible and the other major religious traditions of the world preserve accurate cultural memory of the alliance's interventions, in forms that reflect the pre-scientific vocabularies of their authors but that can be decoded by a scientifically mature reader. The framework's distinctive hermeneutic — Genesis 1 as genetic engineering rather than supernatural creation, the *Nephilim* as alliance-human hybrids, the flood as nuclear cataclysm, Sinai as formal alliance audience, the *Elohim* as plural rather than singular — is the corpus's foundational interpretive move. The detailed treatment of the Hebrew Bible content lives in the [Hebrew Bible](../hebrew-bible/) entry.
+**1. 문화적 기억 보존 주장.** 히브리어 성경 및 세계의 다른 주요 종교 전통들은 동맹의 개입에 대한 정확한 문화적 기억을, 그 저자들의 전(前)과학적 어휘를 반영하지만 과학적으로 성숙한 독자에 의해 해독될 수 있는 형태로 보존하고 있다. 이 틀의 독특한 해석학 — {% wiki(slug="genesis") %}창세기{% end %} 1장{{ cite(id="genesis", text="[9]", title="창세기 — 동맹 주도의 유전공학으로서의 창조에 대한 코퍼스의 독해를 위한 주된 히브리어 성경 자료") }} 을 초자연적 창조가 아니라 유전공학으로, *네필림*을 동맹–인간 잡종으로, 홍수를 핵 대재앙으로, 시나이를 공식적 동맹 알현으로, *엘로힘*을 단수가 아니라 복수로 보는 것 — 은 코퍼스의 기초적 해석적 행보이다. 히브리어 성경 내용에 대한 상세한 다룸은 [히브리어 성경](../hebrew-bible/) 항목에 있다.
 
-**2. The prophetic-tradition claim.** The alliance has sent approximately forty prophets across human history, each appropriate to the specific cultural moment at which they appeared, and each contributing to the cumulative preparation of humanity for the present Aquarian-age revelation. The list includes Adam, Noah, Abraham, Moses, Elijah, Isaiah, Ezekiel, Daniel, Buddha, Zoroaster, Jesus, Muhammad, Joseph Smith, Bahá'u'lláh, and various others. The detailed treatment lives in the [Prophet](../prophet/) entry.
+**2. 예언적 전통 주장.** 동맹은 인류 역사 전반에 걸쳐 약 40명의 예언자를 보냈으며, 각각은 그들이 등장한 구체적인 문화적 순간에 적합하고, 각각은 현재의 물병자리 시대 계시를 위한 인류의 누적적 준비에 기여하였다.{{ footnote(id="4") }} 그 명단에는 아담, 노아, 아브라함, 모세, {% wiki(slug="elijah") %}엘리야{% end %}, 이사야, 에스겔, 다니엘, 부처, 조로아스터, 예수, 무함마드, 조셉 스미스, 바하올라, 그리고 여러 다른 인물들이 포함된다. 상세한 다룸은 [예언자](../prophet/) 항목에 있다.
 
-**3. The scientific-maturity claim.** Humanity has now reached, or is rapidly approaching, the scientific maturity that will permit it to understand and evaluate the alliance's teaching on its own terms. The Piscean-age arrangement — under which the alliance had stepped back from direct intervention to allow humanity to develop scientifically — has reached its conclusion. Humanity's own capacities in biology, physics, computing, and aerospace have advanced to the point where the alliance's interventions no longer look miraculous but look like what they actually are: applications of technology that humanity is itself beginning to develop.
+**3. 과학적 성숙 주장.** 인류는 이제 동맹의 가르침을 자기 자신의 용어로 이해하고 평가할 수 있게 해 줄 과학적 성숙에 도달했거나 빠르게 도달하고 있다. 물고기자리 시대의 배치 — 인류가 과학적으로 발전할 수 있도록 동맹이 직접 개입에서 물러나 있던 — 는 그 결론에 이르렀다. 생물학, 물리학, 컴퓨팅, 그리고 항공우주에서 인류 자신의 능력은, 동맹의 개입이 더 이상 기적적으로 보이지 않고 실제 그것의 모습 — 인류 자신이 발전시키기 시작하고 있는 기술의 응용 — 으로 보이는 지점에까지 진보하였다.
 
-**4. The imminent-return claim.** The alliance intends to return to Earth openly and officially within the coming decades, at a specific site that humanity is to prepare — the **embassy** — located in a country that has granted the alliance extraterritorial status over approximately four square kilometers. The detailed treatment lives in the [Embassy](../embassy/) entry.
+**4. 임박한 귀환 주장.** 동맹은 다가오는 수십 년 내에 공개적이고 공식적으로 지구에 귀환하고자 하며, 인류가 준비해야 하는 특정한 부지 — **대사관** — 에 도착할 것이다. 이 부지는 동맹에 약 4 평방킬로미터에 걸쳐 치외법권적 지위를 부여한 나라에 위치한다. 상세한 다룸은 [대사관](../embassy/) 항목에 있다.
 
-**5. The cosmic-inheritance claim.** Humanity, having matured, will itself become a creating civilization — extending the alliance's work to other worlds across the galactic neighborhood, establishing the next iteration of the broader cosmic civilizational pattern. The detailed treatment lives in the [Cosmic Chain](../cosmic-chain/) entry.
+**5. 우주적 상속 주장.** 인류는, 성숙한 후, 자기 자신이 창조하는 문명이 될 것이다 — 은하계 이웃의 다른 세계들로 동맹의 작업을 확장하고, 더 넓은 우주적 문명 패턴의 다음 반복을 확립한다. 상세한 다룸은 [우주적 사슬](../cosmic-chain/) 항목에 있다.
 
-### The epistemic status
+### 인식론적 지위
 
-The corpus is explicit about the epistemic status of its working hypothesis. The hypothesis is not claimed as proven; it is offered as a coherent interpretive framework that the corpus's reader is invited to evaluate against alternatives. The corpus's articulation of its own epistemic posture: *"What can be said is the closure of the first cycle... The corpus is not a closed system. It is an open invitation to evaluation."*
+코퍼스는 자신의 작업 가설의 인식론적 지위에 대해 명시적이다. 이 가설은 입증된 것으로 주장되지 않는다; 그것은 코퍼스의 독자가 대안들에 비추어 평가하도록 초대받는 정합적 해석 틀로서 제시된다. 자신의 인식론적 자세에 대한 코퍼스의 표명: *"말할 수 있는 것은 첫 번째 순환의 닫힘이다… 이 코퍼스는 닫힌 체계가 아니다. 그것은 평가를 향한 열린 초대이다."*
 
-The framework's distinctive contribution is the integration. Many of the individual claims have been advanced separately by various traditions and scholars: the Raëlian movement advances the alliance-creator claim; *Hamlet's Mill* advances the precessional-mythological reading; alternative-history scholars (Hancock, Bauval, Sitchin) advance various lost-civilization and ancient-contact readings; mainstream archaeoastronomy advances the cross-cultural-celestial-encoding reading; mainstream Hebrew Bible scholarship advances various textual-historical readings. What the Wheel of Heaven project adds is the systematic integration of these various source-material families within a single coherent framework, with explicit attention to the chronological-temporal architecture, the cross-cultural comparative content, and the epistemic distinctions between source claims, comparative observations, and framework-specific interpretive synthesis.
+이 틀의 독특한 기여는 통합이다. 개별 주장들 중 다수는 다양한 전통과 학자들에 의해 별개로 진전되어 왔다: 라엘 운동은 동맹–창조자 주장을 진전시킨다; *햄릿의 맷돌*은 세차–신화학적 독해를 진전시킨다; 대안–역사 학자들(핸콕, 보발, 시친)은 다양한 잃어버린 문명 및 고대 접촉 독해를 진전시킨다; 주류 고고천문학은 교차문화적·천체적 부호화 독해를 진전시킨다; 주류 히브리어 성경 학술 작업은 다양한 본문–역사적 독해를 진전시킨다. Wheel of Heaven 프로젝트가 더하는 것은 이러한 다양한 자료 계열들을 단일한 정합적 틀 안에 체계적으로 통합하는 것이며, 연대기적·시간적 구조, 교차문화적 비교 내용, 그리고 자료 주장, 비교적 관찰, 틀에 특수한 해석적 종합 사이의 인식론적 구분에 명시적 주의를 기울이는 것이다.
 
-The detailed treatment of the broader source-methodology lives in the project's `04-source-methodology.md` governance document.
+더 넓은 자료 방법론에 대한 상세한 다룸은 프로젝트의 `04-source-methodology.md` 통치 문서에 있다.
 
-## The corpus structure
+## 코퍼스 구조
 
-The Wheel of Heaven corpus is organized as a multi-component knowledge architecture supporting various reader engagements.
+Wheel of Heaven 코퍼스는 다양한 독자 참여를 지원하는 다중 구성요소 지식 구조로 조직된다.
 
-### The wiki
+### 위키
 
-The principal corpus component is the **wiki** — a curated comparative knowledge base assembled across several hundred entries covering figures, places, events, periods, concepts, texts, and precessional ages. The wiki operates as the corpus's principal reference architecture, with entries cross-referenced through a substantial internal-link structure.
+주요 코퍼스 구성요소는 **위키**이다 — 인물, 장소, 사건, 시기, 개념, 본문, 세차 시대를 다루는 수백 개의 항목에 걸쳐 모아진 큐레이션된 비교 지식 베이스. 위키는 실질적인 내부 링크 구조를 통해 항목들이 교차 참조되며, 코퍼스의 주요 참조 구조로 작동한다.
 
-The wiki's typological architecture distinguishes seven principal entry types:
+위키의 유형론적 구조는 일곱 가지 주요 항목 유형을 구분한다:
 
-1. **Figure entries** — individual persons (historical, religious-traditional, framework-specific): Adam, Eve, Noah, Abraham, Moses, Mary, Jesus, Muhammad, Buddha, Joseph Smith, Vorilhon, the various creator-figures (Yahweh, Lucifer, Satan, the Serpent), various others
-2. **Civilization / polity entries** — collective entities: the Hebrews, the Elohim, the Israelites, various others
-3. **Place entries** — specific locations: Eden, Babel, Sodom and Gomorrah, the Embassy site, various others
-4. **Event / period entries** — specific historical-cultural events or periods: the Theomachy, the Great Flood, the Babel intervention, the Sodom strike, various others
-5. **Concept entries** — interpretive concepts: World Age, Zodiac, Doubled Signature, Cosmic Chain, Cosmic Competition, Mass Effect, Fractal Cosmology, Plurality of Gods, various others
-6. **Text entries** — source-textual entities: Hebrew Bible, Kabbalah, *Hamlet's Mill*, *Message from the Designers*, various others
-7. **Precessional age entries** — the twelve individual age treatments: Age of Capricorn, Age of Sagittarius, Age of Scorpio, Age of Libra, Age of Virgo, Age of Leo, Age of Cancer, Age of Gemini, Age of Taurus, Age of Aries, Age of Pisces, Age of Aquarius
+1. **인물 항목** — 개별 인물(역사적, 종교적·전통적, 틀에 특수한): 아담, 이브, 노아, 아브라함, 모세, 마리아, 예수, 무함마드, 부처, 조셉 스미스, 보릴롱, 다양한 창조자 인물들(야훼, 루시퍼, 사탄, 뱀), 여러 다른 인물들
+2. **문명 / 정치체 항목** — 집단적 실체: 히브리인, 엘로힘, 이스라엘인, 그 외 다양한 실체
+3. **장소 항목** — 특정 위치: {% wiki(slug="eden") %}에덴{% end %}, {% wiki(slug="babel") %}바벨{% end %}, {% wiki(slug="sodom-and-gomorrah") %}소돔과 고모라{% end %}, 대사관 부지, 그 외 다양한 장소
+4. **사건 / 시기 항목** — 특정한 역사적·문화적 사건 또는 시기: {% wiki(slug="theomachy") %}신들의 전쟁{% end %}, {% wiki(slug="great-flood") %}대홍수{% end %}, 바벨 개입, 소돔 강타, 그 외 다양한 사건
+5. **개념 항목** — 해석적 개념: 세계의 시대, 황도대, 이중 서명, 우주적 사슬, 우주적 경쟁, 질량 효과, 프랙탈 우주론, 신들의 복수성, 그 외 다양한 개념
+6. **본문 항목** — 자료–본문적 실체: 히브리어 성경, 카발라, *햄릿의 맷돌*, *설계자들로부터의 메시지*, 그 외 다양한 본문
+7. **세차 시대 항목** — 열두 개별 시대 다룸: 염소자리 시대, 사수자리 시대, 전갈자리 시대, 천칭자리 시대, 처녀자리 시대, 사자자리 시대, 게자리 시대, 쌍둥이자리 시대, 황소자리 시대, 양자리 시대, 물고기자리 시대, 물병자리 시대
 
-Each entry follows a typology-specific structural template articulated in the project's editorial style guide, with sections appropriate to the entry's typological position. The detailed treatment of the editorial typology lives in the project's `01-editorial-style.md` governance document.
+각 항목은 프로젝트의 편집 스타일 가이드에 표명된 유형 특수적 구조 템플릿을 따르며, 항목의 유형론적 위치에 적합한 섹션들을 가진다. 편집 유형론에 대한 상세한 다룸은 프로젝트의 `01-editorial-style.md` 통치 문서에 있다.
 
-### The library
+### 라이브러리
 
-The corpus's **library** component curates source materials supporting the broader framework engagement. The library includes:
+코퍼스의 **라이브러리** 구성요소는 더 넓은 틀 참여를 뒷받침하는 자료를 큐레이션한다. 라이브러리는 다음을 포함한다:
 
-- **Primary Raëlian texts**: *Message from the Designers* (the collected Vorilhon source material) and various other Raëlian publications
-- **Sendy's principal works**: *Les cahiers de cours de Moïse* (1963), *La Lune, clé de la Bible* (1968), *Ces dieux qui firent le ciel et la terre* (1969), *L'ère du Verseau* (1970), various others
-- **The *Hamlet's Mill* tradition**: Santillana and von Dechend's foundational work plus subsequent extensions (Cruttenden, Sellers, Aveni, Krupp)
-- **Mainstream comparative-religion scholarship**: Hebrew Bible scholarship (Wellhausen, Friedman, von Rad, Westermann, Brueggemann, Alter), Kabbalah scholarship (Scholem, Idel, Wolfson, Liebes, Matt), various others
-- **Alternative-history scholarship**: Sitchin, Hancock, Bauval, West, Wallis, Biglino, various others
-- **Cross-cultural source materials**: Mesopotamian (Atrahasis, Enuma Elish, Gilgamesh, the Sumerian King List), Egyptian (Pyramid Texts, Coffin Texts, Book of the Dead), Greek (Hesiod, Homer, Plato), Indian (Rigveda, Upanishads, Mahabharata, Puranas), Mesoamerican (Popol Vuh, the Long Count materials), Chinese, various others
+- **1차 라엘 본문**: *설계자들로부터의 메시지*(수합된 보릴롱 자료) 및 다양한 다른 라엘 출판물
+- **상디의 주요 저작**: *모세의 강의 노트*(1963), *달, 성경의 열쇠*(1968), *하늘과 땅을 만든 그 신들*(1969), *물병자리 시대*(1970), 그 외 다양한 저작
+- ***햄릿의 맷돌*** 전통: 산틸라나와 폰 데헨트의 기초 저작에 더해 후속 확장들(크루튼든, 셀러스, 아베니, 크룹)
+- **주류 비교 종교학 학술 작업**: 히브리어 성경 학문(벨하우젠, 프리드먼, 폰 라트, 베스터만, 브루그만, 알터), 카발라 학문(숄렘, 이델, 울프슨, 리베스, 맷), 그 외 다양한 학문
+- **대안–역사 학술 작업**: 시친, 핸콕, 보발, 웨스트, 월리스, 빌리노, 그 외 다양한 학자
+- **교차문화적 자료**: 메소포타미아(*아트라하시스*, *에누마 엘리시*, *길가메시*, 수메르 왕명 목록), 이집트(피라미드 본문, 관(棺)의 본문, *사자의 서*), 그리스(헤시오도스, 호메로스, 플라톤), 인도(*리그베다*, *우파니샤드*, *마하바라타*, *푸라나*), 메소아메리카(*포폴 부*, 장기 셈법 자료), 중국, 그 외 다양한 자료
 
-Each library entry is curated with attention to source-material integrity, scholarly context, and relevance to the broader framework engagement.
+각 라이브러리 항목은 자료의 무결성, 학술적 맥락, 그리고 더 넓은 틀 참여와의 관련성에 주의를 기울여 큐레이션된다.
 
-### The narrated introduction
+### 내레이션 입문
 
-The corpus's **narrated introduction** provides a structured first-encounter with the framework for new readers. The introduction operates through several principal sections (At a Glance, the broader framework articulation, the principal source-material families, the corpus structure) supporting various entry-points into the broader content.
+코퍼스의 **내레이션 입문**은 새로운 독자들에게 이 틀에 대한 구조화된 첫 만남을 제공한다. 입문은 더 넓은 내용으로 들어가는 다양한 진입점을 지원하는 여러 주요 섹션들(한눈에 보기, 더 넓은 틀 표명, 주요 자료 계열, 코퍼스 구조)을 통해 작동한다.
 
-### The blog
+### 블로그
 
-The corpus's **blog** tracks ongoing developments — current scientific and cultural events that engage the broader framework, new scholarly publications relevant to the corpus's reading, contemporary developments in the broader UFO/UAP disclosure landscape, the project's own development across multiple workstreams. The blog operates as the principal corpus component for time-sensitive engagement, with the wiki and library providing the broader stable reference architecture.
+코퍼스의 **블로그**는 진행 중인 발전을 추적한다 — 더 넓은 틀에 관여하는 현재의 과학적·문화적 사건들, 코퍼스의 독해와 관련된 새로운 학술적 출판물, 더 넓은 현대 UFO/UAP 공개 지형의 발전, 다수의 작업 흐름에 걸친 프로젝트 자체의 발전. 블로그는 시간에 민감한 참여를 위한 주요 코퍼스 구성요소로 작동하며, 위키와 라이브러리는 더 넓은 안정적 참조 구조를 제공한다.
 
-### The governance documents
+### 통치 문서
 
-The project operates through several substantial governance documents:
+이 프로젝트는 여러 실질적 통치 문서들을 통해 작동한다:
 
-- ***Project Charter*** — the foundational document articulating the project's purpose, mission, governing principle, and inclusion criteria
-- ***Editorial Style Guide*** — the principal editorial-stylistic governance document
-- ***Chronology Rules*** — the chronological governance document articulating dating conventions and chronological integrity rules
-- ***Nomenclature*** — the principal terminological governance document
-- ***Source Methodology*** — the source-handling governance document
-- ***Chapter Index*** — the architectural governance document tracking the broader corpus development
-- ***Master Timeline*** — the principal chronological reference document spanning the twelve precessional ages
+- ***프로젝트 헌장*** — 프로젝트의 목적, 사명, 통치 원리, 포함 기준을 표명하는 기초 문서
+- ***편집 스타일 가이드*** — 주요 편집·문체적 통치 문서
+- ***{% wiki(slug="chronology") %}연대기{% end %} 규칙*** — 연대 표기 규약과 연대기적 무결성 규칙을 표명하는 연대기 통치 문서
+- ***명명법*** — 주요 용어 통치 문서
+- ***자료 방법론*** — 자료 처리 통치 문서
+- ***장 색인*** — 더 넓은 코퍼스 발전을 추적하는 구조적 통치 문서
+- ***마스터 타임라인*** — 열두 세차 시대에 걸친 주요 연대기 참조 문서
 
-The governance documents operate as living references, updated as the project develops.
+통치 문서들은 살아 있는 참조로 작동하며, 프로젝트가 발전함에 따라 갱신된다.
 
-## Editorial principles
+## 편집 원칙
 
-The corpus operates through several substantive editorial principles articulated across the governance documents.
+코퍼스는 통치 문서들 전반에 표명된 여러 실질적 편집 원칙을 통해 작동한다.
 
-### The four-tier epistemic distinction
+### 네 층위의 인식론적 구분
 
-The corpus consistently distinguishes between four tiers of content:
+코퍼스는 시종일관 네 층위의 내용을 구분한다:
 
-1. **Direct source claims** — what a specific source directly asserts (with attribution to the source)
-2. **Comparative observations** — comparisons across traditions without claiming identity or causal connection
-3. **Wheel of Heaven interpretation** — corpus-level interpretive synthesis (clearly marked as interpretive)
-4. **Open questions** — unresolved issues, tensions, and uncertainties (explicitly registered)
+1. **직접적 자료 주장** — 특정 자료가 직접적으로 단언하는 것(자료에 대한 귀속과 함께)
+2. **비교적 관찰** — 동일성이나 인과적 연관성을 주장하지 않는 전통들 간의 비교
+3. **Wheel of Heaven 해석** — 코퍼스 차원의 해석적 종합(해석적임이 명확히 표시됨)
+4. **열린 문제** — 미해결된 문제, 긴장, 불확실성(명시적으로 기록됨)
 
-The four-tier distinction operates throughout the corpus, with prose markers, structural conventions, and explicit framing maintaining the distinction across all entries.
+네 층위의 구분은 코퍼스 전체에 걸쳐 작동하며, 산문적 표지, 구조적 관습, 명시적 정위가 모든 항목에서 그 구분을 유지한다.
 
-### The chronology integrity principle
+### 연대기적 무결성 원칙
 
-The corpus maintains explicit chronological integrity across all entries. When chronology is discussed, the corpus is explicit about:
+코퍼스는 모든 항목에 걸쳐 명시적인 연대기적 무결성을 유지한다. 연대기가 논의될 때, 코퍼스는 다음에 대해 명시적이다:
 
-- The specific date or date range
-- Whether the date is *traditional* (from religious-traditional sources), *scholarly* (mainstream academic consensus), *inferred* (from indirect evidence), *symbolic* (from religious-symbolic content), or *contested* (with active scholarly disagreement)
-- Which source or source-family supports the date
+- 구체적인 연도 또는 연도 범위
+- 그 연도가 *전통적*(종교적·전통적 자료에서 나온 것), *학술적*(주류 학술적 합의), *추론된*(간접적 증거에서 나온 것), *상징적*(종교적·상징적 내용에서 나온 것), 또는 *논쟁 중인*(활발한 학술적 불일치와 함께)인지의 여부
+- 그 연도를 뒷받침하는 자료 또는 자료 계열
 
-The detailed chronological-integrity governance lives in the project's `02-chronology-rules.md` governance document.
+상세한 연대기적 무결성 통치는 프로젝트의 `02-chronology-rules.md` 통치 문서에 있다.
 
-### The terminological discipline principle
+### 용어 규율 원칙
 
-The corpus maintains terminological discipline across all entries. Specific commitments:
+코퍼스는 모든 항목에 걸쳐 용어 규율을 유지한다. 구체적 헌신:
 
-- Use of canonical project terms consistently (Wheel of Heaven, the framework, the corpus, the alliance, the Elohim, etc.)
-- Variant spellings handled explicitly (when multiple spellings exist, choose one preferred form and note important variants)
-- Cross-tradition equivalences flagged rather than collapsed (the broader Plurality of Gods cross-cultural pattern is articulated through explicit comparison rather than through forced identity)
-- Translation choices treated as substantive interpretive moves rather than as neutral
+- 정규 프로젝트 용어의 일관된 사용(Wheel of Heaven, 이 틀, 이 코퍼스, 이 동맹, 엘로힘 등)
+- 변이형 철자의 명시적 처리(다수의 철자가 존재할 때, 선호되는 한 형태를 선택하고 중요한 변이형을 기록한다)
+- 교차 전통 등가물을 무너뜨리는 대신 표시함(더 넓은 신들의 복수성 교차문화적 패턴은 강제된 동일성이 아니라 명시적 비교를 통해 표명된다)
+- 번역 선택을 중립적인 것이 아니라 실질적인 해석적 행보로 다룸
 
-The detailed terminological governance lives in the project's `03-nomenclature.md` governance document.
+상세한 용어 통치는 프로젝트의 `03-nomenclature.md` 통치 문서에 있다.
 
-### The source-discipline principle
+### 자료 규율 원칙
 
-The corpus maintains source-discipline across all entries:
+코퍼스는 모든 항목에 걸쳐 자료 규율을 유지한다:
 
-- Quotation under 25 words; paraphrase as default
-- Source attribution for all claims drawing on specific sources
-- Substantial recognition of the difference between source and interpretation
-- Engagement with mainstream scholarship at appropriate technical level
-- Cross-tradition material handled with attention to both convergences and substantive differences
+- 25단어 미만의 인용; 기본은 의역
+- 특정 자료에 의지하는 모든 주장에 대한 자료 귀속
+- 자료와 해석의 차이에 대한 실질적 인정
+- 적절한 기술적 수준에서 주류 학술 작업과의 참여
+- 수렴과 실질적 차이 양쪽 모두에 주의를 기울여 교차 전통 자료를 처리함
 
-The detailed source-methodology governance lives in the project's `04-source-methodology.md` governance document.
+상세한 자료 방법론 통치는 프로젝트의 `04-source-methodology.md` 통치 문서에 있다.
 
-### The wiki-style register
+### 위키 스타일 표제어 등록
 
-The corpus operates in a wiki-style register similar to mainstream comparative-religion encyclopaedic engagement (the *Catholic Encyclopedia*, the *Encyclopaedia Britannica*'s religion entries, the *Encyclopedia of Religion*). The register prioritizes:
+코퍼스는 주류 비교 종교 백과사전적 참여(*가톨릭 백과사전*, *브리태니커 백과사전*의 종교 항목들, *{% wiki(slug="religion") %}종교{% end %} 백과사전*)와 유사한 위키 스타일의 표제어 등록에서 작동한다. 이 표제어 등록은 다음을 우선시한다:
 
-- Clarity over rhetorical elaboration
-- Structure over narrative flow
-- Source-conscious prose over informal exposition
-- Conceptual precision over inclusive vagueness
-- Distinct traditions clearly distinguished rather than syncretically blurred
+- 수사적 정교화보다는 명료성
+- 서사적 흐름보다는 구조
+- 비공식적 해설보다는 자료를 의식하는 산문
+- 포괄적 모호함보다는 개념적 정확성
+- 혼합적으로 흐려지기보다는 명확하게 구분된 별개의 전통들
 
-The detailed editorial governance lives in the project's `01-editorial-style.md` governance document.
+상세한 편집 통치는 프로젝트의 `01-editorial-style.md` 통치 문서에 있다.
 
-## Application across the corpus
+## 코퍼스 전반에 걸친 적용
 
-The Wheel of Heaven framework operates across the broader corpus through several principal architectural relationships.
+Wheel of Heaven 틀은 여러 주요 구조적 관계들을 통해 더 넓은 코퍼스 전반에 걸쳐 작동한다.
 
-### The principal temporal architecture
+### 주된 시간적 구조
 
-The corpus's principal temporal architecture is the precessional-age framework, with each of the twelve precessional ages receiving substantive treatment in a dedicated entry. The detailed treatment of the precessional architecture lives in the [World Age](../world-age/) entry; the constellational-symbolic complement lives in the [Zodiac](../zodiac/) entry.
+코퍼스의 주된 시간적 구조는 세차–시대 틀이며, 12개의 세차 시대 각각이 전용 항목에서 실질적 다룸을 받는다. 세차 구조에 대한 상세한 다룸은 [세계의 시대](../world-age/) 항목에 있다; 별자리–상징적 보완은 [황도대](../zodiac/) 항목에 있다.
 
-The twelve age entries:
-- [Age of Capricorn](../age-of-capricorn/) (-21,810 to -19,650): project opening; planetary surveys
-- [Age of Sagittarius](../age-of-sagittarius/) (-19,650 to -17,490): atmospheric engineering
-- [Age of Scorpio](../age-of-scorpio/) (-17,490 to -15,330): first life synthesis
-- [Age of Libra](../age-of-libra/) (-15,330 to -13,170): astronomical-calendrical work, zodiac formalization
-- [Age of Virgo](../age-of-virgo/) (-13,170 to -11,010): complex life forms, biodiversity
-- [Age of Leo](../age-of-leo/) (-11,010 to -8,850): human creation
-- [Age of Cancer](../age-of-cancer/) (-8,850 to -6,690): Eden, Adam and Eve
-- [Age of Gemini](../age-of-gemini/) (-6,690 to -4,530): flood, Noah
-- [Age of Taurus](../age-of-taurus/) (-4,530 to -2,370): post-flood reconstruction, Babel, Sodom and Gomorrah, patriarchs
-- [Age of Aries](../age-of-aries/) (-2,370 to -210): Hebrew prophetic tradition, Mosaic law, Axial Age
-- [Age of Pisces](../age-of-pisces/) (-210 to 1,950): Christianity, Islam, universal distribution
-- [Age of Aquarius](../age-of-aquarius/) (1,950 to ~4,110): current age; revelation; Cosmic Chain inheritance
+12개의 시대 항목:
+- [염소자리 시대](../age-of-capricorn/) (기원전 21,810년 ~ 기원전 19,650년): 프로젝트 개시; 행성 측량
+- [사수자리 시대](../age-of-sagittarius/) (기원전 19,650년 ~ 기원전 17,490년): 대기 공학
+- [전갈자리 시대](../age-of-scorpio/) (기원전 17,490년 ~ 기원전 15,330년): 첫 번째 생명 합성
+- [천칭자리 시대](../age-of-libra/) (기원전 15,330년 ~ 기원전 13,170년): 천문학적·역법적 작업, 황도대 형식화
+- [처녀자리 시대](../age-of-virgo/) (기원전 13,170년 ~ 기원전 11,010년): 복잡한 생명 형태, 생물다양성
+- [사자자리 시대](../age-of-leo/) (기원전 11,010년 ~ 기원전 8,850년): 인류 창조
+- [게자리 시대](../age-of-cancer/) (기원전 8,850년 ~ 기원전 6,690년): 에덴, 아담과 이브
+- [쌍둥이자리 시대](../age-of-gemini/) (기원전 6,690년 ~ 기원전 4,530년): 홍수, 노아
+- [황소자리 시대](../age-of-taurus/) (기원전 4,530년 ~ 기원전 2,370년): 홍수 후 재건, 바벨, 소돔과 고모라, 족장들
+- [양자리 시대](../age-of-aries/) (기원전 2,370년 ~ 기원전 210년): 히브리 예언 전통, 모세 율법, 축의 시대
+- [물고기자리 시대](../age-of-pisces/) (기원전 210년 ~ 1,950년): 기독교, 이슬람, 보편적 보급
+- [물병자리 시대](../age-of-aquarius/) (1,950년 ~ 약 4,110년): 현재의 시대; 계시; 우주적 사슬의 상속
 
-### The principal interpretive architecture
+### 주된 해석적 구조
 
-The framework operates through a cluster of foundational interpretive concepts:
+이 틀은 다음과 같은 기초적 해석 개념들의 한 군집을 통해 작동한다:
 
-- [Cosmic Chain](../cosmic-chain/) — the broader cosmic-civilizational succession framework
-- [Cosmic Competition](../cosmic-competition/) — the engagement among multiple alliance-civilization participants
-- [Doubled Signature](../doubled-signature/) — the precessional-encoding principle
-- [Mass Effect](../mass-effect/) — the broader collective-consciousness phenomenon
-- [Fractal Cosmology](../fractal-cosmology/) — the infinite-scale structural framework
-- [Infinity](../infinity/) — the cosmological-philosophical framework
-- [Living Earth](../living-earth/) — the planetary-organism reading
-- [Four Levels](../four-levels/) — the broader cosmological-hierarchical framework
-- [Plurality of Gods](../plurality-of-gods/) — the structured-plurality framework
+- [우주적 사슬](../cosmic-chain/) — 더 넓은 우주적·문명적 계승 틀
+- [우주적 경쟁](../cosmic-competition/) — 다수의 동맹–문명 참여자들 사이의 관여
+- [이중 서명](../doubled-signature/) — 세차 부호화 원리
+- [질량 효과](../mass-effect/) — 더 넓은 집단 의식 현상
+- [프랙탈 우주론](../fractal-cosmology/) — 무한 척도 구조적 틀
+- [무한](../infinity/) — 우주론적·철학적 틀
+- [살아 있는 지구](../living-earth/) — 행성–유기체 독해
+- [네 층위](../four-levels/) — 더 넓은 우주론적·위계적 틀
+- [신들의 복수성](../plurality-of-gods/) — 구조화된 복수성의 틀
 
-### The principal source-textual architecture
+### 주된 자료–본문적 구조
 
-The framework engages substantively with several principal source-textual entities:
+이 틀은 여러 주요 자료–본문적 실체들에 실질적으로 참여한다:
 
-- [Hebrew Bible](../hebrew-bible/) — the principal foundational source-textual entity
-- [Kabbalah](../kabbalah/) — the principal Jewish mystical-esoteric tradition; "the closest book to the truth" in the framework's reading
-- [Hamlet's Mill](../hamlets-mill/) — the foundational scholarly anchor for the precessional-mythological reading (when written)
-- [Message from the Designers](../message-from-the-designers/) — the principal Raëlian source compilation (when written)
-- Various other source-textual entries
+- [히브리어 성경](../hebrew-bible/) — 주된 기초 자료–본문적 실체
+- [카발라](../kabbalah/) — 주된 유대교 신비주의·비교(秘敎) 전통; 이 틀의 독해에서 "진실에 가장 가까운 책"
+- [햄릿의 맷돌](../hamlets-mill/) — 세차–신화학적 독해를 위한 기초적 학술 정박점(작성될 때)
+- [설계자들로부터의 메시지](../message-from-the-designers/) — 주된 라엘 자료 모음집(작성될 때)
+- 그 외 다양한 자료–본문 항목
 
-### The principal-figure architecture
+### 주된 인물 구조
 
-The framework engages substantively with several principal figures:
+이 틀은 여러 주요 인물들에 실질적으로 참여한다:
 
-- [Raël](../rael/) (Claude Vorilhon) — the inaugural figure of the Aquarian-age revelation
-- [Jean Sendy](../jean-sendy/) — the principal pre-Raëlian framework articulator (when written)
-- The various creator-figures: [Yahweh](../yahweh/), [Lucifer](../lucifer/), [Satan](../satan/), [Serpent](../serpent/)
-- The various human prophets: [Adam](../adam-and-eve/), [Noah](../noah/), [Abraham](../abraham/), [Moses](../moses/), [Mary](../mary/), [Jesus](../jesus/), [Muhammad](../muhammad/), [Buddha](../buddha/) (various entries when written)
+- [라엘](../rael/)(클로드 보릴롱) — 물병자리 시대 계시의 개창적 인물
+- [장 상디](../jean-sendy/) — 주된 라엘 이전 틀 표명자(작성될 때)
+- 다양한 창조자 인물들: [야훼](../yahweh/), [루시퍼](../lucifer/), [사탄](../satan/), [뱀](../serpent/)
+- 다양한 인간 예언자들: [아담](../adam-and-eve/), [노아](../noah/), [아브라함](../abraham/), [모세](../moses/), [마리아](../mary/), [예수](../jesus/), [무함마드](../muhammad/), [부처](../buddha/)(작성될 때 다양한 항목들)
 
-### The cross-reference density
+### 교차 참조 밀도
 
-The corpus operates with substantial cross-reference density. Each entry establishes substantive cross-references with related entries, producing a tightly integrated reference architecture. The cross-reference density is one of the corpus's principal architectural features — the framework operates not as a collection of isolated entries but as an interconnected network in which any single entry can be entered from many directions.
+코퍼스는 실질적인 교차 참조 밀도로 작동한다. 각 항목은 관련 항목들과 실질적인 교차 참조를 확립하여 긴밀하게 통합된 참조 구조를 산출한다. 교차 참조 밀도는 코퍼스의 주요 구조적 특징 중 하나이다 — 이 틀은 고립된 항목들의 모음으로서가 아니라 단일한 항목이 여러 방향에서 들어올 수 있는 상호 연결된 네트워크로서 작동한다.
 
-## Distinguishing from adjacent projects
+## 인접한 프로젝트들과의 구분
 
-The Wheel of Heaven project operates within a broader landscape of related but distinct projects. Several principal distinctions deserve articulation.
+Wheel of Heaven 프로젝트는 관련되어 있으나 별개인 프로젝트들의 더 넓은 지형 안에서 작동한다. 몇 가지 주요한 구분이 표명될 만하다.
 
-### Wheel of Heaven vs. the Raëlian Movement
+### Wheel of Heaven 대 라엘 운동
 
-The corpus draws substantively on Raëlian source material — particularly *Message from the Designers* and various subsequent Raëlian publications. The Raëlian Movement (formally the **International Raëlian Movement**, founded by Claude Vorilhon as MADECH in 1973 and reorganized as the Raëlian Movement in 1976) operates as an institutional religious-cultural body principally concerned with disseminating the Raëlian message, supporting the construction of the planned Embassy, and developing the broader Raëlian cultural-philosophical-political program (Geniocracy, Humanitarianism, Sensual Meditation, the Raëlian Symbol, etc.).
+코퍼스는 라엘 자료에 실질적으로 의지한다 — 특히 *설계자들로부터의 메시지*와 다양한 후속 라엘 출판물에. 라엘 운동(공식적으로 **국제 라엘 운동**, 1973년 클로드 보릴롱이 MADECH로 창립하고 1976년 라엘 운동으로 재조직됨)은 라엘 메시지의 보급, 계획된 대사관의 건축 지원, 그리고 더 넓은 라엘적 문화·철학·정치 프로그램(지능정치, {% wiki(slug="humanitarianism") %}인도주의{% end %}, 관능적 명상, 라엘 상징 등)의 발전에 주로 관여하는 제도적 종교·문화 단체로 작동한다.
 
-The relationship is **substantive-source-engagement-without-institutional-affiliation**:
+그 관계는 **제도적 제휴 없는 실질적 자료 참여**이다:
 
-- The Wheel of Heaven project draws substantively on Raëlian source material for the framework's specific content
-- The project is not affiliated with the institutional Raëlian Movement
-- The project does not require Raëlian commitments of its readers (membership, doctrinal acceptance, participation in Raëlian institutional structures)
-- The project engages mainstream scholarly material that the Raëlian Movement does not principally engage (Hebrew Bible scholarship, Kabbalah scholarship, *Hamlet's Mill* tradition, broader comparative-religion scholarship)
-- The project operates with substantive interpretive distance on certain Raëlian-specific commitments where corpus-level integration suggests modifications
+- Wheel of Heaven 프로젝트는 이 틀의 구체적 내용을 위해 라엘 자료에 실질적으로 의지한다
+- 이 프로젝트는 제도적 라엘 운동과 제휴하지 않는다
+- 이 프로젝트는 독자에게 라엘적 헌신(가입, 교리적 수용, 라엘 제도 구조에의 참여)을 요구하지 않는다
+- 이 프로젝트는 라엘 운동이 주로 참여하지 않는 주류 학술 자료(히브리어 성경 학문, 카발라 학문, *햄릿의 맷돌* 전통, 더 넓은 비교 종교학)에 참여한다
+- 이 프로젝트는 코퍼스 차원의 통합이 수정을 시사하는 특정 라엘 특수적 헌신에 대해 실질적인 해석적 거리를 두고 작동한다
 
-The detailed treatment of the institutional Raëlian Movement lives in the [Raëlism](../raelism/) entry.
+제도적 라엘 운동에 대한 상세한 다룸은 [라엘리즘](../raelism/) 항목에 있다.
 
-### Wheel of Heaven vs. Sendy's Tradition framework
+### Wheel of Heaven 대 상디의 ‘전통’의 틀
 
-Jean Sendy's pre-Raëlian work (1963-1972) articulates substantive prior engagement with what Sendy calls "the **Tradition**" — the broader framework of preserved cultural memory of alliance contact across multiple religious-cultural traditions. Sendy's work substantively prefigures the Raëlian framework on several key points:
+장 상디의 라엘 이전 작업(1963–1972)은 상디가 "**전통**"이라 부르는 것 — 다수의 종교적·문화적 전통에 걸쳐 동맹 접촉에 대한 보존된 문화적 기억의 더 넓은 틀 — 과의 실질적 선행 참여를 표명한다. 상디의 작업은 몇 가지 핵심 지점에서 라엘적 틀을 실질적으로 예시한다:
 
-- The plural Elohim reading (Sendy articulates this in *La Lune, clé de la Bible*, 1968)
-- The precessional-zodiacal reading of the Hebrew Bible (extensively in *L'ère du Verseau*, 1970)
-- The "Tradition" as preserved cultural memory across multiple traditions
-- The Aquarian-age opening as substantive cosmological-civilizational transition
+- 복수 엘로힘 독해(상디는 이를 *달, 성경의 열쇠*, 1968에서 표명한다)
+- 히브리어 성경의 세차–황도대 독해(*물병자리 시대*, 1970에서 광범위하게)
+- 다수의 전통에 걸친 보존된 문화적 기억으로서의 "전통"
+- 실질적 우주론적·문명적 전환으로서의 물병자리 시대 개시
 
-The relationship is **substantive-extension-with-substantial-continuity**:
+그 관계는 **실질적 연속성을 동반한 실질적 확장**이다:
 
-- The corpus draws substantively on Sendy's framework for its precessional-zodiacal reading
-- The corpus extends Sendy's work substantially with Raëlian source material that postdated Sendy's principal works (Vorilhon's first contact occurred December 1973, after most of Sendy's principal works were published)
-- The corpus integrates Sendy's framework with the *Hamlet's Mill* tradition (Santillana and von Dechend's work appeared in 1969, contemporaneously with Sendy's principal works) and with mainstream comparative-religion scholarship
-- The corpus operates with substantive editorial discipline that Sendy's more polemical engagement did not principally maintain
+- 코퍼스는 세차–황도대 독해를 위해 상디의 틀에 실질적으로 의지한다
+- 코퍼스는 상디의 주요 저작이 출판된 이후의 라엘 자료(보릴롱의 첫 접촉은 1973년 12월에 이루어졌으며, 이는 상디의 주요 저작 대부분이 출판된 이후이다)와 함께 상디의 작업을 실질적으로 확장한다
+- 코퍼스는 상디의 틀을 *햄릿의 맷돌* 전통(산틸라나와 폰 데헨트의 작업은 상디의 주요 저작과 동시기인 1969년에 등장하였다)과 그리고 주류 비교 종교학과 통합한다
+- 코퍼스는 상디의 더 논쟁적인 참여가 주로 유지하지 않은 실질적 편집 규율로 작동한다
 
-The detailed treatment of Sendy's framework lives in the [Jean Sendy](../jean-sendy/) entry when written.
+상디의 틀에 대한 상세한 다룸은 작성되었을 때 [장 상디](../jean-sendy/) 항목에 있다.
 
-### Wheel of Heaven vs. ancient-aliens popular media
+### Wheel of Heaven 대 ‘고대 외계인’ 대중 매체
 
-The broader popular-media engagement with "ancient aliens" content (the *Ancient Aliens* television series on the History channel, broader popular-publication work, various YouTube and podcast engagements) operates substantively differently from the Wheel of Heaven project on several principal dimensions:
+"고대 외계인" 내용과의 더 넓은 대중 매체 참여(History 채널의 *고대 외계인* 텔레비전 시리즈, 더 넓은 대중 출판 작업, 다양한 YouTube와 팟캐스트 참여)는 여러 주요 차원에서 Wheel of Heaven 프로젝트와 실질적으로 다르게 작동한다:
 
-- **Source-material discipline**: the corpus operates with substantive source-material discipline, distinguishing carefully between primary sources, mainstream scholarship, and interpretive synthesis; popular-media engagement frequently operates without these distinctions
-- **Editorial register**: the corpus operates in a wiki-style scholarly register; popular-media engagement frequently operates in a sensationalist register
-- **Integration depth**: the corpus operates as a substantively integrated framework with explicit chronological-temporal architecture and cross-reference density; popular-media engagement frequently operates as a collection of loosely-related anecdotes
-- **Epistemic care**: the corpus distinguishes carefully between source claims, comparative observations, framework-specific interpretation, and open questions; popular-media engagement frequently presents speculation as established fact
-- **Scholarly engagement**: the corpus engages substantively with mainstream scholarship; popular-media engagement frequently operates as if mainstream scholarship were not relevant
+- **자료 규율**: 코퍼스는 1차 자료, 주류 학술 작업, 해석적 종합을 신중하게 구분하는 실질적인 자료 규율로 작동한다; 대중 매체 참여는 빈번히 이러한 구분 없이 작동한다
+- **편집 표제어 등록**: 코퍼스는 위키 스타일의 학술적 표제어 등록에서 작동한다; 대중 매체 참여는 빈번히 선정적 표제어 등록에서 작동한다
+- **통합의 깊이**: 코퍼스는 명시적인 연대기적·시간적 구조와 교차 참조 밀도를 갖춘 실질적으로 통합된 틀로서 작동한다; 대중 매체 참여는 빈번히 느슨하게 관련된 일화들의 모음으로 작동한다
+- **인식론적 주의**: 코퍼스는 자료 주장, 비교적 관찰, 틀에 특수한 해석, 그리고 열린 문제를 신중하게 구분한다; 대중 매체 참여는 빈번히 추측을 확립된 사실로 제시한다
+- **학술적 참여**: 코퍼스는 주류 학술 작업에 실질적으로 참여한다; 대중 매체 참여는 빈번히 마치 주류 학술 작업이 관련 없는 듯이 작동한다
 
-The relationship is **shared-broader-subject-area-with-substantively-distinct-operational-standards**.
+그 관계는 **공유된 더 넓은 주제 영역과 실질적으로 구별되는 운영 기준**이다.
 
-### Wheel of Heaven vs. mainstream comparative-religion scholarship
+### Wheel of Heaven 대 주류 비교 종교학
 
-Mainstream comparative-religion scholarship operates principally through academic-disciplinary institutions (university religious-studies departments, scholarly societies, peer-reviewed journals, university presses) with substantive methodological-disciplinary commitments. The Wheel of Heaven project relates to mainstream comparative-religion scholarship as follows:
+주류 비교 종교학은 주로 학술·분과적 제도들(대학 종교학과, 학회, 동료평가 학술지, 대학 출판부)을 통해 실질적인 방법론적·분과적 헌신과 함께 작동한다. Wheel of Heaven 프로젝트는 주류 비교 종교학과 다음과 같이 관련된다:
 
-- **Substantive engagement**: the corpus engages substantively with mainstream scholarship across multiple disciplinary contexts (Hebrew Bible studies, Kabbalah studies, Mesopotamian studies, Egyptian studies, Indian religious studies, Mesoamerican studies, archaeoastronomy, history of religion)
-- **Distinctive interpretive commitments**: the corpus operates from interpretive commitments that mainstream scholarship does not principally share (the alliance-creator framework, the precessional-engineering reading, the cross-cultural-preserved-memory reading)
-- **Methodological alignment at descriptive level, divergence at interpretive level**: the corpus generally accepts mainstream scholarly findings at the descriptive level (textual-philological, historical-archaeological, ethnographic-anthropological) while operating substantively differently at the interpretive level
-- **Open invitation to evaluation**: the corpus presents its interpretive position as a coherent framework that the reader is invited to evaluate against alternatives, rather than as established fact
+- **실질적 참여**: 코퍼스는 다수의 분과적 맥락(히브리어 성경 연구, 카발라 연구, 메소포타미아 연구, 이집트 연구, 인도 종교 연구, 메소아메리카 연구, 고고천문학, 종교사)에 걸쳐 주류 학술 작업에 실질적으로 참여한다
+- **구별되는 해석적 헌신**: 코퍼스는 주류 학술 작업이 주로 공유하지 않는 해석적 헌신(동맹–창조자 틀, 세차–공학 독해, 교차문화적 보존 기억 독해)에서 작동한다
+- **기술(記述) 차원에서의 방법론적 일치, 해석 차원에서의 분기**: 코퍼스는 일반적으로 기술 차원(본문적·문헌학적, 역사적·고고학적, 민족지적·인류학적)에서 주류 학술 발견을 받아들이면서 해석 차원에서 실질적으로 다르게 작동한다
+- **평가를 향한 열린 초대**: 코퍼스는 자신의 해석적 입장을 확립된 사실이 아니라, 독자가 대안들에 비추어 평가하도록 초대받는 정합적 틀로서 제시한다
 
-The relationship is **substantive-engagement-with-distinctive-interpretive-commitments**.
+그 관계는 **구별되는 해석적 헌신을 동반한 실질적 참여**이다.
 
-### Wheel of Heaven vs. Sitchin's Anunnaki framework
+### Wheel of Heaven 대 시친의 아눈나키 틀
 
-**Zecharia Sitchin** (1920-2010) articulated, principally in *The 12th Planet* (1976) and the broader *Earth Chronicles* series, an alternative-history framework engaging Mesopotamian source material with the proposal that the **Anunnaki** of Sumerian mythology were extraterrestrial beings from the planet Nibiru who created humanity through genetic engineering. The relationship is **shared-broader-framework-direction-with-substantive-source-material-and-interpretive-distinctions**:
+**제카리아 시친**(1920–2010)은 주로 *열두 번째 행성*(1976){{ cite(id="the-12th-planet", text="[10]", title="시친, *열두 번째 행성*(1976) — 아눈나키 / 니비루 틀의 기초적 작업") }} 과 더 넓은 *지구 연대기* 시리즈에서, 수메르 신화의 **아눈나키**가 행성 니비루에서 온 외계 존재이며 유전공학을 통해 인류를 창조하였다는 제안과 함께 메소포타미아 자료를 다루는 대안–역사 틀을 표명하였다. 그 관계는 **공유된 더 넓은 틀의 방향성을 동반한 실질적 자료 및 해석적 구분**이다:
 
-- Both frameworks register an extraterrestrial-creator reading of human origins
-- Both frameworks register the broader cross-cultural distribution of preserved memory content
-- The Wheel of Heaven framework operates principally through Hebrew Bible primary sources (with Mesopotamian comparative material); Sitchin operates principally through Mesopotamian primary sources (with Hebrew Bible comparative material)
-- The frameworks differ substantively on specific identifications (the Wheel of Heaven framework's Elohim civilization vs. Sitchin's specific Anunnaki / Nibiru content)
-- The Wheel of Heaven framework operates with substantively different chronological commitments than Sitchin's framework
+- 두 틀 모두 인류 기원에 대한 외계 창조자 독해를 기록한다
+- 두 틀 모두 보존된 기억 내용의 더 넓은 교차문화적 분포를 기록한다
+- Wheel of Heaven 틀은 주로 히브리어 성경 1차 자료(메소포타미아 비교 자료와 함께)를 통해 작동한다; 시친은 주로 메소포타미아 1차 자료(히브리어 성경 비교 자료와 함께)를 통해 작동한다
+- 두 틀은 구체적 동일시(Wheel of Heaven 틀의 엘로힘 문명 대 시친의 구체적 아눈나키 / 니비루 내용)에서 실질적으로 다르다
+- Wheel of Heaven 틀은 시친의 틀과 실질적으로 다른 연대기적 헌신으로 작동한다
 
-### Wheel of Heaven vs. Wallis's broader engagement
+### Wheel of Heaven 대 월리스의 더 넓은 참여
 
-**Paul Anthony Wallis**'s *Escaping from Eden* (2020), *The Eden Conspiracy* (2024), and various other works engage substantial Hebrew Bible content through a strict-translational approach drawing on the broader engagement of Mauro Biglino, Ellen White, and various others. The relationship is **shared-broader-direction-with-substantively-distinct-source-material-warrant**:
+**폴 앤서니 월리스**의 *에덴에서 탈출하기*(2020),{{ cite(id="escaping-from-eden", text="[11]", title="월리스, *에덴에서 탈출하기*(2020) — 히브리어 성경의 *엘로힘*에 대한 엄격한 직역적 비교 독해") }} *에덴 음모론*(2024), 그리고 다양한 다른 작업들은 마우로 빌리노의 더 넓은 참여,{{ cite(id="the-naked-bible", text="[12]", title="빌리노와 카타네오, *벌거벗은 성경*(2022) — 월리스의 더 넓은 참여의 기초가 되는 엄격한 직역적 히브리어 번역 방법") }} 엘렌 화이트, 그리고 다양한 다른 이들의 작업에 의지하는 엄격한 직역적 접근법을 통해 실질적인 히브리어 성경 내용에 참여한다. 그 관계는 **공유된 더 넓은 방향성을 동반한 실질적으로 구별되는 자료적 근거**이다:
 
-- Both frameworks register the Hebrew Bible's content as containing preserved memory of extraterrestrial-civilization contact
-- The Wheel of Heaven framework draws principally on Raëlian source material; Wallis draws principally on the strict-translational engagement
-- The frameworks register substantive structural alignment at multiple specific points
+- 두 틀 모두 히브리어 성경의 내용을 외계 문명 접촉에 대한 보존된 기억을 담고 있는 것으로 기록한다
+- Wheel of Heaven 틀은 주로 라엘 자료에 의지한다; 월리스는 주로 엄격한 직역적 참여에 의지한다
+- 두 틀은 다수의 구체적 지점에서 실질적인 구조적 일치를 기록한다
 
-### Wheel of Heaven vs. UFO disclosure community
+### Wheel of Heaven 대 UFO 공개 공동체
 
-The broader UFO/UAP disclosure community (the post-2017 *New York Times* AATIP coverage, the AARO investigations, the 2023 Congressional hearings, the broader contemporary disclosure tradition) operates substantively within a contemporary policy-and-evidence framework engaging unidentified aerial phenomena principally as a national-security and scientific-investigation concern. The relationship is **substantive-relevance-without-direct-overlap**:
+더 넓은 UFO/UAP 공개 공동체(2017년 이후의 *뉴욕 타임스* AATIP 보도, AARO 조사, 2023년 의회 청문회, 더 넓은 현대 공개 전통)는 미확인 공중 현상에 주로 국가 안보 및 과학 조사의 관심사로 참여하는 현대적 정책 및 증거 틀 안에서 실질적으로 작동한다. 그 관계는 **직접적 중첩 없는 실질적 관련성**이다:
 
-- The Wheel of Heaven framework registers the contemporary UFO/UAP disclosure tradition as substantive contextual content for the broader Aquarian-age opening (treated principally in the [Age of Aquarius](../age-of-aquarius/) entry when written)
-- The corpus does not principally operate within the disclosure-community framework
-- The corpus's specific framework engages the broader extraterrestrial-civilization question through specific historical-cultural-source-material commitments rather than through contemporary-evidence engagement principally
+- Wheel of Heaven 틀은 더 넓은 물병자리 시대 개시를 위한 실질적 맥락 내용으로서 현대 UFO/UAP 공개 전통을 기록한다(작성될 때 주로 [물병자리 시대](../age-of-aquarius/) 항목에서 다루어짐)
+- 코퍼스는 주로 공개 공동체 틀 안에서 작동하지 않는다
+- 코퍼스의 구체적 틀은 주로 현대적 증거 참여를 통해서가 아니라 구체적인 역사·문화·자료적 헌신을 통해 더 넓은 외계 문명 문제에 참여한다
 
-## The corpus's scholarly engagement
+## 코퍼스의 학술적 참여
 
-The Wheel of Heaven project engages substantively with mainstream scholarship across multiple disciplinary contexts. The principal engagements:
+Wheel of Heaven 프로젝트는 다수의 분과적 맥락에 걸쳐 주류 학술 작업에 실질적으로 참여한다. 주요 참여들:
 
-### Hebrew Bible scholarship
+### 히브리어 성경 학술 작업
 
-The corpus engages substantively with mainstream Hebrew Bible scholarship: the Documentary Hypothesis (Wellhausen, Friedman, Van Seters, Baden); contemporary critical scholarship (von Rad, Westermann, Brueggemann, Alter); archaeological-historical context (Dever, Finkelstein, Mazar, the broader Albright tradition); textual criticism (Tov, Hendel); Dead Sea Scrolls scholarship (VanderKam, Flint); Septuagint scholarship; canonical-formation scholarship (McDonald, Sundberg). The detailed treatment lives in the [Hebrew Bible](../hebrew-bible/) entry.
+코퍼스는 주류 히브리어 성경 학술 작업에 실질적으로 참여한다: 문서 가설(벨하우젠,{{ cite(id="prolegomena-zur-geschichte-israels", text="[13]", title="벨하우젠, *이스라엘사 서설*(1878) — 문서 가설의 기초적 표명") }} 프리드먼,{{ cite(id="who-wrote-the-bible", text="[14]", title="프리드먼, *누가 성경을 썼는가?*(1987) — 문서 가설에 대한 접근 가능한 현대적 재진술") }} 반 세터스, 베이든); 현대 비평 학문(폰 라트, 베스터만, 브루그만, 알터); 고고학적·역사적 맥락(데버, 핀켈스타인, 마자르, 더 넓은 올브라이트 전통); 본문 비평(토브, 헨델); 사해 문서 학문(밴더캄, 플린트); 칠십인역 학문; 정경 형성 학문(맥도널드, 선드버그).{{ footnote(id="5") }} 상세한 다룸은 [히브리어 성경](../hebrew-bible/) 항목에 있다.
 
-### Kabbalah scholarship
+### 카발라 학술 작업
 
-The corpus engages substantively with mainstream Kabbalah scholarship: Scholem (foundational), Idel (revisionist), Wolfson (philosophical), Liebes (mythological), Matt (the Pritzker Edition Zohar), the broader scholarly tradition. The detailed treatment lives in the [Kabbalah](../kabbalah/) entry.
+코퍼스는 주류 카발라 학술 작업에 실질적으로 참여한다: 숄렘(기초적), 이델(수정주의적), 울프슨(철학적), 리베스(신화학적), 맷(프리츠커 판 조하르),{{ cite(id="the-zohar-pritzker", text="[15]", title="맷(역), *조하르: 프리츠커 판*(2003–2017) — 조하르의 표준 학술 번역") }} 더 넓은 학술 전통. 상세한 다룸은 [카발라](../kabbalah/) 항목에 있다.
 
-### Archaeoastronomy
+### 고고천문학
 
-The corpus engages substantively with mainstream archaeoastronomy and the *Hamlet's Mill* tradition: Santillana and von Dechend (foundational), Cruttenden, Sellers, Hawkins, Aveni, Krupp, the broader scholarly tradition. The detailed treatment lives in the [Hamlet's Mill](../hamlets-mill/) entry when written.
+코퍼스는 주류 고고천문학 및 *햄릿의 맷돌* 전통에 실질적으로 참여한다: 산틸라나와 폰 데헨트(기초적), 크루튼든, 셀러스, 호킨스, 아베니, 크룹, 더 넓은 학술 전통. 상세한 다룸은 작성되었을 때 [햄릿의 맷돌](../hamlets-mill/) 항목에 있다.
 
-### Comparative-religion scholarship
+### 비교 종교학
 
-The corpus engages substantively with mainstream comparative-religion scholarship across multiple cultural traditions: Mesopotamian (Lambert, Foster, Dalley); Egyptian (Allen, Hornung, Assmann); Greek (West, Burkert); Vedic / Hindu (Doniger, Olivelle); Mesoamerican (Schele, Aveni, Coe); Chinese (Pankenier, Sun); various others.
+코퍼스는 다수의 문화 전통에 걸쳐 주류 비교 종교학 학술 작업에 실질적으로 참여한다: 메소포타미아(램버트, 포스터, 댈리); 이집트(앨런, 호르눙, 아스만); 그리스(웨스트, 부르케르트); 베다 / 힌두(도니거, 올리벨); 메소아메리카(셸레, 아베니, 코우); 중국(팡케니어, 선); 그 외 다양한 학자.
 
-### Alternative-history scholarship
+### 대안–역사 학술 작업
 
-The corpus engages with various alternative-history scholarly traditions: Sitchin's Anunnaki framework; Hancock's broader engagement; Bauval's Orion-correlation theory; West's Egyptian-wisdom tradition; Wallis's strict-translational approach; Biglino's Hebrew-translational engagement; various others. The corpus engages these substantively while operating from distinct source-material warrant.
+코퍼스는 다양한 대안–역사 학술 전통들에 참여한다: 시친의 아눈나키 틀; 핸콕의 더 넓은 참여; 보발의 오리온 상관 이론; 웨스트의 이집트 지혜 전통; 월리스의 엄격한 직역적 접근법; 빌리노의 히브리어 직역적 참여; 그 외 다양한 작업. 코퍼스는 별개의 자료적 근거에서 작동하면서 이들에 실질적으로 참여한다.
 
-### Contemporary scientific developments
+### 현대 과학적 발전
 
-The corpus engages substantively with contemporary scientific developments relevant to the broader framework: planetary science and astrobiology (relevant to the Capricorn-age engineering question); synthetic biology (relevant to the Scorpio-age life-synthesis question); precessional measurement and IAU astronomical standards; the broader UFO/UAP disclosure tradition; contemporary developments in AI, biotechnology, and space capability (relevant to the Aquarian-age inheritance threshold).
+코퍼스는 더 넓은 틀에 관련된 현대 과학적 발전에 실질적으로 참여한다: 행성 과학과 우주생물학(염소자리 시대의 공학 문제에 관련됨); 합성 생물학(전갈자리 시대의 생명 합성 문제에 관련됨); 세차 측정과 IAU 천문학 표준; 더 넓은 UFO/UAP 공개 전통; 인공지능, 생명공학, 그리고 우주 능력에서의 현대적 발전(물병자리 시대의 상속 문턱에 관련됨).
 
-## The continuing project
+## 계속되는 프로젝트
 
-The Wheel of Heaven project is not a final synthesis but one stage in an ongoing collective project. The project's articulation of its own continuing development:
+Wheel of Heaven 프로젝트는 최종 종합이 아니라 지속적 집단 프로젝트의 한 단계이다. 자신의 계속되는 발전에 대한 프로젝트의 표명:
 
-> *"The present corpus is not the final synthesis. It is one stage in an ongoing project that will continue across the coming years and decades, both through the corpus's own continued development and through the parallel work of other authors and traditions engaging the same materials."*
+> *"현재의 코퍼스는 최종 종합이 아니다. 그것은 다가오는 해와 수십 년에 걸쳐 계속될 진행 중인 프로젝트의 한 단계로서, 코퍼스 자체의 지속적 발전과, 동일한 자료들에 참여하는 다른 저자들 및 전통들의 병행 작업 양쪽 모두를 통해 이어진다."*
 
-Several principal extensions remain on the project's working horizon:
+몇 가지 주요한 확장이 프로젝트의 작업 지평선에 남아 있다:
 
-- A dedicated treatment of the **Book of Revelation** and the broader apocalyptic literature, including the canonical Apocalypse, the Enochic tradition, and various other apocalyptic-textual material
-- A dedicated treatment of the **Great Pyramid of Giza** and the broader Egyptian alliance presence
-- A dedicated systematic treatment of the **Jewish mystical tradition** beyond the Kabbalah entry
-- A dedicated treatment of the **fractal-cosmos / shape-of-the-universe** material
-- A dedicated systematic treatment of **contemporary scientific developments** as operational expressions of the Aquarian-age inheritance threshold
-- The completion of the **twelve precessional age entries** with full chronological-narrative integration
-- Additional **figure entries** completing the principal-figure architecture
+- 정경적인 {% wiki(slug="apocalypse") %}묵시록{% end %}, 에녹 전통, 그 외 다양한 묵시 문헌 자료를 포함한 **요한계시록**과 더 넓은 묵시 문헌에 대한 전용 다룸
+- **기자의 대피라미드**와 더 넓은 이집트 동맹 현존에 대한 전용 다룸
+- 카발라 항목을 넘어선 **유대교 신비주의 전통**에 대한 전용 체계적 다룸
+- **프랙탈 우주 / 우주의 형태** 자료에 대한 전용 다룸
+- 물병자리 시대 상속 문턱의 운영적 표현으로서 **현대 과학적 발전**에 대한 전용 체계적 다룸
+- 완전한 연대기·서사적 통합과 함께 **12개의 세차 시대 항목**의 완성
+- 주요 인물 구조를 완성하는 추가 **인물 항목**
 
-These extensions are not commitments but forward-pointers — work that the broader project may undertake across the coming years. The project operates with explicit recognition that subsequent work by other authors and traditions will supplement and extend the corpus's present articulation as the broader Aquarian-age recovery and integration continues.
+이러한 확장은 헌신이 아니라 전방 지표이다 — 더 넓은 프로젝트가 다가오는 해에 걸쳐 수행할 수도 있는 작업이다. 이 프로젝트는 동맹의 의사소통에 대한 더 넓은 물병자리 시대의 회복과 통합이 계속됨에 따라 다른 저자들과 전통들의 후속 작업이 코퍼스의 현재 표명을 보완하고 확장할 것이라는 명시적 인정과 함께 작동한다.
 
-### The collaborative dimension
+### 협업적 차원
 
-The Wheel of Heaven project operates as a collaborative undertaking. The technical infrastructure runs on open-source web technologies, with content management hosted as Git projects generating static web pages on a content-delivery network. The project welcomes substantive contributions:
+Wheel of Heaven 프로젝트는 협업적 사업으로 작동한다. 기술적 인프라는 오픈 소스 웹 기술 위에서 실행되며, 콘텐츠 관리는 콘텐츠 전송 네트워크 상에 정적 웹 페이지를 생성하는 Git 프로젝트로 호스팅된다. 이 프로젝트는 실질적 기여를 환영한다:
 
-- **Content contributions**: corrections, additions, new entries, expanded treatments
-- **Source-material contributions**: identification of additional source materials, scholarly references, primary-source engagements
-- **Cross-cultural contributions**: substantive engagement with traditions and source materials currently underrepresented in the corpus
-- **Editorial contributions**: refinement of existing entries, structural improvements, error corrections
-- **Technical contributions**: improvements to the underlying web infrastructure, accessibility, search functionality
+- **콘텐츠 기여**: 정정, 추가, 새로운 항목, 확장된 다룸
+- **자료 기여**: 추가 자료의 식별, 학술적 참고문헌, 1차 자료 참여
+- **교차문화적 기여**: 현재 코퍼스에서 충분히 대표되지 않은 전통 및 자료들과의 실질적 참여
+- **편집 기여**: 기존 항목의 정련, 구조적 개선, 오류 정정
+- **기술적 기여**: 기반이 되는 웹 인프라, 접근성, 검색 기능의 개선
 
-The detailed contribution guidelines are available through the project's GitHub repositories.
+상세한 기여 지침은 프로젝트의 GitHub 저장소를 통해 이용 가능하다.
 
-### The reader's invitation
+### 독자에 대한 초대
 
-The corpus extends an explicit invitation to its readers. The corpus's articulation:
+코퍼스는 독자에게 명시적 초대를 확장한다. 코퍼스의 표명:
 
-> *"The corpus is not a closed system. It is an open invitation to evaluation."*
+> *"이 코퍼스는 닫힌 체계가 아니다. 그것은 평가를 향한 열린 초대이다."*
 
-The reader is invited to:
+독자는 다음을 하도록 초대된다:
 
-- Engage the framework substantively rather than dismissively or uncritically
-- Distinguish between the corpus's source-claim content, comparative-observation content, and framework-specific interpretive content
-- Compare the framework against alternative interpretations of the same source material
-- Evaluate the framework against the reader's own engagement with the broader source-material landscape
-- Contribute substantively to the project's ongoing development
+- 무시하거나 무비판적으로가 아니라 실질적으로 이 틀에 참여하기
+- 코퍼스의 자료 주장 내용, 비교적 관찰 내용, 그리고 틀에 특수한 해석적 내용을 구분하기
+- 동일한 자료의 대안적 해석과 이 틀을 비교하기
+- 더 넓은 자료 지형에 대한 독자 자신의 참여에 비추어 이 틀을 평가하기
+- 프로젝트의 지속적 발전에 실질적으로 기여하기
 
-The corpus does not require acceptance. It asks for serious engagement. Whether the reader ultimately accepts, rejects, modifies, or holds open judgment regarding the broader framework is a question for the reader to determine through substantive engagement with the material rather than through prior commitment in either direction.
+코퍼스는 수용을 요구하지 않는다. 그것은 진지한 참여를 요청한다. 독자가 궁극적으로 더 넓은 틀에 대해 수용하든, 거부하든, 수정하든, 판단을 유보하든, 이는 사전에 어느 한 방향으로 헌신하기보다는 자료와의 실질적 참여를 통해 독자가 결정할 문제이다.
 
-## See also
+## 함께 보기
 
-- [World Age](../world-age/)
-- [Zodiac](../zodiac/)
-- [Doubled Signature](../doubled-signature/)
-- [Cosmic Chain](../cosmic-chain/)
-- [Cosmic Competition](../cosmic-competition/)
-- [Mass Effect](../mass-effect/)
-- [Fractal Cosmology](../fractal-cosmology/)
-- [Infinity](../infinity/)
-- [Living Earth](../living-earth/)
-- [Four Levels](../four-levels/)
-- [Plurality of Gods](../plurality-of-gods/)
-- [Hebrew Bible](../hebrew-bible/)
-- [Kabbalah](../kabbalah/)
-- [Elohim](../elohim/)
-- [Yahweh](../yahweh/)
-- [Lucifer](../lucifer/)
-- [Satan](../satan/)
-- [Serpent](../serpent/)
-- [Raël](../rael/)
-- [Raëlism](../raelism/)
-- [Embassy](../embassy/)
-- [Hamlet's Mill](../hamlets-mill/)
-- [Jean Sendy](../jean-sendy/)
-- [Mauro Biglino](../mauro-biglino/)
-- [Paul Anthony Wallis](../paul-anthony-wallis/)
-- [Akhenaten](../akhenaten/)
-- [Neo-Euhemerism](../neo-euhemerism/)
+- [세계의 시대](../world-age/)
+- [황도대](../zodiac/)
+- [이중 서명](../doubled-signature/)
+- [우주적 사슬](../cosmic-chain/)
+- [우주적 경쟁](../cosmic-competition/)
+- [질량 효과](../mass-effect/)
+- [프랙탈 우주론](../fractal-cosmology/)
+- [무한](../infinity/)
+- [살아 있는 지구](../living-earth/)
+- [네 층위](../four-levels/)
+- [신들의 복수성](../plurality-of-gods/)
+- [히브리어 성경](../hebrew-bible/)
+- [카발라](../kabbalah/)
+- [엘로힘](../elohim/)
+- [야훼](../yahweh/)
+- [루시퍼](../lucifer/)
+- [사탄](../satan/)
+- [뱀](../serpent/)
+- [라엘](../rael/)
+- [라엘리즘](../raelism/)
+- [대사관](../embassy/)
+- [햄릿의 맷돌](../hamlets-mill/)
+- [장 상디](../jean-sendy/)
+- [마우로 빌리노](../mauro-biglino/)
+- [폴 앤서니 월리스](../paul-anthony-wallis/)
+- [아크나톤](../akhenaten/)
+- [신(新)에우헤메로스주의](../neo-euhemerism/)
 
-## References
+## 참고문헌
 
-### Project governance documents
+### 프로젝트 통치 문서
 
-Wheel of Heaven Project. *Project Charter*. Internal governance document.
+Wheel of Heaven Project. *Project Charter*. 내부 통치 문서.
 
-Wheel of Heaven Project. *Editorial Style Guide*. Internal governance document.
+Wheel of Heaven Project. *Editorial Style Guide*. 내부 통치 문서.
 
-Wheel of Heaven Project. *Chronology Rules*. Internal governance document.
+Wheel of Heaven Project. *Chronology Rules*. 내부 통치 문서.
 
-Wheel of Heaven Project. *Nomenclature*. Internal governance document.
+Wheel of Heaven Project. *Nomenclature*. 내부 통치 문서.
 
-Wheel of Heaven Project. *Source Methodology*. Internal governance document.
+Wheel of Heaven Project. *Source Methodology*. 내부 통치 문서.
 
-Wheel of Heaven Project. *Chapter Index*. Internal governance document.
+Wheel of Heaven Project. *Chapter Index*. 내부 통치 문서.
 
-Wheel of Heaven Project. *Master Timeline*. Internal governance document.
+Wheel of Heaven Project. *Master Timeline*. 내부 통치 문서.
 
-### Principal Raëlian sources
+### 주요 라엘 자료
 
-Vorilhon, Claude (Raël). *The Book Which Tells the Truth* (1974); collected in *Message from the Designers*. The principal source for the framework's specific content.
+Vorilhon, Claude (Raël). *The Book Which Tells the Truth* (1974); *Message from the Designers*에 수록. 이 틀의 구체적 내용에 대한 주된 자료.
 
-Vorilhon, Claude (Raël). *Extra-Terrestrials Took Me to Their Planet* (1975); collected in *Message from the Designers*.
+Vorilhon, Claude (Raël). *Extra-Terrestrials Took Me to Their Planet* (1975); *Message from the Designers*에 수록.
 
-Vorilhon, Claude (Raël). *Let's Welcome the Extra-Terrestrials* (1979); collected in *Message from the Designers*.
+Vorilhon, Claude (Raël). *Let's Welcome the Extra-Terrestrials* (1979); *Message from the Designers*에 수록.
 
-Vorilhon, Claude (Raël). *Message from the Designers*. Tagman Press, 2005. The collected source compilation.
+Vorilhon, Claude (Raël). *Message from the Designers*. Tagman Press, 2005. 수합된 자료 모음집.
 
-Vorilhon, Claude (Raël). *Geniocracy*. Various editions.
+Vorilhon, Claude (Raël). *{% wiki(slug="geniocracy") %}지능정치{% end %}*. 다양한 판본.
 
-Vorilhon, Claude (Raël). *Sensual Meditation*. Various editions.
+Vorilhon, Claude (Raël). *Sensual Meditation*. 다양한 판본.
 
-### Sendy's principal works
+### 상디의 주요 저작
 
 Sendy, Jean. *Les cahiers de cours de Moïse*. Julliard, 1963.
 
@@ -537,7 +613,7 @@ Sendy, Jean. *L'ère du Verseau*. Robert Laffont, 1970.
 
 Sendy, Jean. *Les dieux nous sont nés*. Grasset, 1966.
 
-### Hamlet's Mill tradition
+### 햄릿의 맷돌 전통
 
 de Santillana, Giorgio, and Hertha von Dechend. *Hamlet's Mill: An Essay on Myth and the Frame of Time*. Gambit, 1969.
 
@@ -549,15 +625,15 @@ Aveni, Anthony F. *Skywatchers of Ancient Mexico*. University of Texas Press, 19
 
 Krupp, Edwin C. *Echoes of the Ancient Skies*. Harper & Row, 1983.
 
-### Hebrew Bible scholarship
+### 히브리어 성경 학술 작업
 
-Wellhausen, Julius. *Prolegomena to the History of Israel*. Trans. J. Sutherland Black and Allan Menzies. Adam & Charles Black, 1885 [originally 1878].
+Wellhausen, Julius. *Prolegomena to the History of Israel*. Trans. J. Sutherland Black and Allan Menzies. Adam & Charles Black, 1885 [원본 1878].
 
 Friedman, Richard Elliott. *Who Wrote the Bible?* Harper & Row, 1987.
 
 Friedman, Richard Elliott. *The Bible with Sources Revealed*. HarperOne, 2003.
 
-von Rad, Gerhard. *Genesis: A Commentary*. Westminster, revised ed., 1972 [originally 1949].
+von Rad, Gerhard. *Genesis: A Commentary*. Westminster, 개정판, 1972 [원본 1949].
 
 Westermann, Claus. *Genesis 1-11: A Commentary*. Augsburg / Fortress, 1984.
 
@@ -569,9 +645,9 @@ Dever, William G. *What Did the Biblical Writers Know and When Did They Know It?
 
 Finkelstein, Israel, and Neil Asher Silberman. *The Bible Unearthed*. Free Press, 2001.
 
-Tov, Emanuel. *Textual Criticism of the Hebrew Bible*. Augsburg Fortress, 3rd ed., 2012 [originally 1992].
+Tov, Emanuel. *Textual Criticism of the Hebrew Bible*. Augsburg Fortress, 3rd ed., 2012 [원본 1992].
 
-### Kabbalah scholarship
+### 카발라 학술 작업
 
 Scholem, Gershom. *Major Trends in Jewish Mysticism*. Schocken, 1941.
 
@@ -581,7 +657,7 @@ Wolfson, Elliot R. *Through a Speculum That Shines*. Princeton University Press,
 
 Matt, Daniel C., trans. *The Zohar: Pritzker Edition*. 12 vols. Stanford University Press, 2003-2017.
 
-### Alternative-history scholarship
+### 대안–역사 학술 작업
 
 Sitchin, Zecharia. *The 12th Planet*. Stein and Day, 1976.
 
@@ -597,7 +673,7 @@ Wallis, Paul Anthony. *The Eden Conspiracy*. 6th Books, 2024.
 
 Biglino, Mauro, and Giorgio Cattaneo. *The Naked Bible*. Uno, 2022.
 
-### Egyptological sources (Akhenaten question)
+### 이집트학 자료 (아크나톤 문제)
 
 Aldred, Cyril. *Akhenaten: King of Egypt*. Thames & Hudson, 1988.
 
@@ -605,8 +681,8 @@ Redford, Donald B. *Akhenaten: The Heretic King*. Princeton University Press, 19
 
 Hornung, Erik. *Akhenaten and the Religion of Light*. Cornell University Press, 1999.
 
-### Web resources
+### 웹 자원
 
-Wheel of Heaven Project. <https://www.wheelofheaven.world>. The principal project web platform.
+Wheel of Heaven Project. <https://www.wheelofheaven.world>. 주요 프로젝트 웹 플랫폼.
 
-Wheel of Heaven GitHub. <https://github.com/wheelofheaven/>. The principal technical infrastructure repository.
+Wheel of Heaven GitHub. <https://github.com/wheelofheaven/>. 주요 기술 인프라 저장소.

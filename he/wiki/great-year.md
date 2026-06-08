@@ -1,363 +1,382 @@
 +++
-title = "Great Year"
+title = "השנה הגדולה"
 slug = "great-year"
-description = "The Great Year is the period of one complete cycle of axial precession — the duration required for the Earth's rotational axis to trace out one full cone against the background of fixed stars, equivalent to one complete circuit of the vernal equinox point around the ecliptic. On the modern astronomical measurement, the Great Year is approximately 25,772 years; on the astrological-tradition reckoning, it is 25,920 years (the convenient figure 2⁶ × 3⁴ × 5, derived from 360° × 72 years per degree of precessional shift). The concept has substantive history in Western thought reaching back to Plato's *Timaeus* (c. 360 BCE), where the *Magnus Annus* or *Perfect Year* designates the cycle of celestial-body return to initial configuration. The post-Hipparchian tradition (after the discovery of precession c. 129 BCE) identified Plato's Great Year with the precessional cycle, with the figure 25,920 becoming dominant through the medieval and Renaissance tradition. The Wheel of Heaven framework reads the Great Year as foundational chronological infrastructure for the entire corpus — approximately the duration of the Elohim project on Earth (synthesis approximately 25,000 years ago, with the broader preparatory and operational phases extending the timeline somewhat further) and the master cycle within which the corpus's twelve Great Month identifications are organized. The cross-cultural preservation of Great Year-scale cosmic cycles (the Hindu *Kalpa* and *Mahakalpa*, the Stoic *ekpyrosis*, the Platonic-tradition Magnus Annus, the broader mythological-symbolic record analyzed by Giorgio de Santillana and Hertha von Dechend in *Hamlet's Mill* (1969)) is treated by the framework as substantial evidence of pre-Hipparchian transmission of the precessional cosmic-cycle concept."
+description = "השנה הגדולה היא תקופת מחזור שלם אחד של נקיפת ציר כדור הארץ — משך הזמן הנדרש לציר הסיבוב של כדור הארץ לתאר חרוט מלא אחד על רקע כוכבי השבת, השווה למחזור מלא אחד של נקודת השוויון האביבי סביב מילת המזלות. על פי המדידה האסטרונומית המודרנית, השנה הגדולה היא כ-25,772 שנה; על פי החשבון של המסורת האסטרולוגית היא 25,920 שנה (המספר הנוח 2⁶ × 3⁴ × 5, הנגזר מ-360° × 72 שנים לדרגת נקיפה). למושג יש היסטוריה משמעותית במחשבה המערבית המגיעה אחורה ל*טימאיוס* של אפלטון (בערך 360 לפנה»ס), שם *Magnus Annus* או *השנה המושלמת* מציינים את מחזור החזרה של גרמי השמיים לתצורתם ההתחלתית. המסורת הפוסט-היפרכית (לאחר גילוי הנקיפה בסביבות 129 לפנה»ס) זיהתה את השנה הגדולה של אפלטון עם מחזור הנקיפה, כאשר הנתון 25,920 הפך לדומיננטי במסורת ימי הביניים והרנסאנס. מסגרת »גלגל השמיים« קוראת את השנה הגדולה כתשתית כרונולוגית יסודית לכלל הקורפוס — בערך משך פרויקט האלוהים על פני כדור הארץ (סינתזה לפני כ-25,000 שנה, כאשר השלבים ההכנתיים והמבצעיים הרחבים יותר מאריכים את ציר הזמן במידת מה) והמחזור הראשי שבמסגרתו מאורגנים שנים-עשר הזיהויים של החודש הגדול של הקורפוס. השימור הבין-תרבותי של מחזורים קוסמיים בקנה מידה של שנה גדולה (ה*קַלפַּה* וה*מַהָקַלפַּה* ההינדואיים, ה*אֵקפִּירוֹסיס* הסטואי, ה-Magnus Annus של מסורת אפלטון, התיעוד המיתולוגי-סמלי הרחב יותר שניתחו ג'ורג'ו דה סנטיליאנה והרתה פון דכנד ב*טחנת המלט* (1969)) נחשב במסגרת לראיה משמעותית להעברה פרה-היפרכית של מושג המחזור הקוסמי הנקיפתי."
 template = "wiki-page.html"
 toc = true
 
 [extra]
-translation_status = "metadata_only"
 featured_order = 6
-redirect_to = { title = "World Age", path = "/wiki/world-age/" }
-category = "Cosmic Chronology"
+redirect_to = { title = "עידן עולם", path = "/he/wiki/world-age/" }
+category = "כרונולוגיה קוסמית"
 editorial_pass = "2026-05"
 entry_type = "concept"
 claim_type = "inferred"
-alternative_names = ["Platonic Year", "Precessional year", "Magnus Annus (Latin)", "Annus Magnus", "Annus Perfectus / Perfect Year (Plato)", "Cosmic Year"]
+alternative_names = ["השנה האפלטונית", "השנה הנקיפתית", "Magnus Annus (לטינית)", "Annus Magnus", "Annus Perfectus / השנה המושלמת (אפלטון)", "השנה הקוסמית"]
 see_also = [
-    { title = "Precession", path = "wiki/precession", description = "The mechanism that drives the Great Year — the slow wobble of Earth's axis." },
-    { title = "Great Month", path = "wiki/great-month", description = "One twelfth of the Great Year — the duration of a single precessional age." },
-    { title = "World Age", path = "wiki/world-age", description = "A precessional age treated as a chapter of human history." },
-    { title = "Zodiac", path = "wiki/zodiac", description = "The 12-fold celestial division that names each age of the Great Year." },
-    { title = "Great Return", path = "wiki/great-return", description = "The Raëlian framing of the cycle's culmination — the Elohim's promised return." },
-    { title = "Cosmic Evolution", path = "wiki/cosmic-evolution", description = "The framework that situates the Great Year within deep-time evolution." },
+    { title = "נקיפה", path = "wiki/precession", description = "המנגנון המניע את השנה הגדולה — התנודה האיטית של ציר כדור הארץ." },
+    { title = "החודש הגדול", path = "wiki/great-month", description = "אחד-עשר משנים-עשר של השנה הגדולה — משך עידן נקיפה יחיד." },
+    { title = "עידן עולם", path = "wiki/world-age", description = "עידן נקיפה הנידון כפרק בהיסטוריה האנושית." },
+    { title = "גלגל המזלות", path = "wiki/zodiac", description = "החלוקה השמיימית בת שנים-עשר המעניקה שם לכל עידן של השנה הגדולה." },
+    { title = "השיבה הגדולה", path = "wiki/great-return", description = "המסגור הראליאני לשיא המחזור — שיבת האלוהים המובטחת." },
+    { title = "אבולוציה קוסמית", path = "wiki/cosmic-evolution", description = "המסגרת הממקמת את השנה הגדולה בתוך אבולוציה של זמן עמוק." },
 ]
 
+footnotes = [
+    { content = "ה-*teleios eniautos* של אפלטון ב*טימאיוס* 39d מוגדרת כתקופה הנדרשת לשמש, לירח, ולחמשת כוכבי הלכת הנראים לחזור בו-זמנית לתצורותיהם ההתחלתיות — מחזור הצמדות פלנטריות, לא נקיפתי. אפלטון אינו נותן נתון משך לשנה המושלמת ב*טימאיוס*, ולא היה יכול לעשות זאת על בסיס נקיפתי, שכן הנקיפה זוהתה רק על ידי היפרכוס בסביבות 129 לפנה»ס, יותר משתי מאות שנה לאחר הדיאלוג. הזיהוי של השנה המושלמת של אפלטון עם מחזור הנקיפה הוא, אם כן, התפתחות פוסט-היפרכית ולא טענה אפלטונית." },
+    { content = "הנתון המסורתי של 25,920 שנה מועדף בעבודה הכרונולוגית הרחבה יותר של המסגרת מטעמי נוחות מתמטית: הוא מתפרק נקי כ-2⁶ × 3⁴ × 5, עם 360 × 72, 60 × 432, ו-12 × 2,160 בין הפירוקים הזמינים שלו. ה*אַלמַגֶסט* של תלמי (בערך 150 לספירה) נותן נתון ארוך משמעותית של 36,000 שנה, הנגזר ממדידת הנקיפה של היפרכוס בכ-1° למאה במקום קצב ~50 שניות קשת בשנה. הנתון התלמי של 36,000 שנה שלט במסורת המערבית בתקופת ימי הביניים לפני שהחשבון של 25,920 שנה, הנגזר מהקצב המדויק יותר של 72 שנה לדרגה, החליף אותו במהלך הרנסאנס." },
+    { content = "*מעשים וימים* של הסיודוס (בערך 700 לפנה»ס) נותן רצף בן ארבעה או חמישה עידנים יורדים — הזהב, הכסף, הברונזה, עידן הגיבורים המשובץ, והברזל — שאינו נקיפתי במפורש ולא יכול היה להיות, שכן הסיודוס מקדים את היפרכוס בכחמש מאות שנה. ההתאמה המבנית בין ארבעת עידני הסיודוס ובין חלוקה פי ארבעה של השנה הגדולה (כל עידן מתאים לשלושה חודשים גדולים, או 6,480 שנה על פי החשבון המסורתי) היא קריאה אפשרית אחת, אך עמדת הקורפוס שאומצה ביחס למערכת היחסים הספציפית בין רצף הסיודוס למחזור הנקיפה היא פתוחה." },
+    { content = "החשבון של הקוסמולוגיה ההינדואית המחזורית פועל בקנה מידה גדול משמעותית מן השנה הגדולה הנקיפתית: ה*מַהַיוּגַה* מגיע ל-4,320,000 שנה (בערך 167 שנים גדולות), וה*קַלפַּה* המלאה — יום של ברהמא — מגיעה ל-4,320,000,000 שנה. ההתאמות המספריות המהותיות בין המספרים ההינדואיים ובין הנתונים הנקיפתיים (במיוחד המספרים הקשורים ל-432 ופירוקיהם) בולטות, אך השאלה האם המקורות הפוראניים גוזרים את הנתונים שלהם מאסטרונומיית נקיפה, מתפתחים באופן עצמאי עם התאמה נקיפתית משנית, או קשורים באמצעות מנגנון אחר נחשבת על ידי הקורפוס כפתוחה." },
+    { content = "המחזור הגדול של 13-בָּאקטוּן בספירה הארוכה המסואמריקאית של בערך 5,125 שנה (1,872,000 ימים) מתאים לבערך חמישית מהשנה הגדולה הנקיפתית (25,920 / 5 = 5,184 שנה; 25,772 / 5 = 5,154 שנה — שניהם קרובים לנתון המסואמריקאי). ההתאמה המספרית עולה בקנה אחד עם דפוס השימור הבין-תרבותי הרחב, אך השאלה הספציפית האם המסורת המסואמריקאית קודדה במפורש תוכן נקיפתי — בניגוד לגזירת המחזור משיקולים אסטרונומיים או לוחיים עצמאיים — נחשבת על ידי הקורפוס כפתוחה." },
+]
+
+[[extra.references]]
+id = "hamlets-mill"
+note = "המעורבות היסודית של סנטיליאנה ופון דכנד עם התזה שהמיתולוגיה הפרה-היפרכית מקודדת באופן שיטתי את תוכן השנה הגדולה הנקיפתית."
+
+[[extra.references]]
+id = "theogony-and-works-and-days"
+note = "*מעשים וימים* של הסיודוס — המקור היווני העיקרי למסורת ארבעת/חמשת העידנים שהמסגרת קוראת לצד השנה הגדולה הנקיפתית."
+
+[[extra.references]]
+id = "the-book-which-tells-the-truth"
+note = "החיבור הראליאני הראשון של וורילון (1974) — מקור עיקרי לקריאת המסגרת את משך פרויקט האלוהים של כ-25,000 שנה בקירוב לשנה גדולה אחת."
+
 [extra.infobox]
-type = "The full precessional cycle; one complete circuit of the vernal equinox around the ecliptic"
-duration_modern = "Approximately 25,772 years (modern astronomical measurement, based on the precessional rate of ~50.29 arcseconds/year)"
-duration_traditional = "Exactly 25,920 years (astrological-tradition reckoning, 360° × 72 years/°)"
-component_units = "1 Great Year = 12 Great Months (each ~2,160 years) = 360 Great Days (each ~72 years) = full 360° circuit of the ecliptic"
-plato_source = "*Timaeus* 39d — the *teleios eniautos* (\"Perfect Year\") concept"
-historical_milestones = "Plato (c. 360 BCE — original *Perfect Year* concept, not yet identified with precession); Hipparchus (c. 129 BCE — discovery of precession); Cicero (c. 45 BCE — Latin *Magnus Annus* tradition); Censorinus (c. 238 CE — preservation of variant ancient calculations); Ptolemy (c. 150 CE — 36,000-year figure); Renaissance tradition (identification with precessional cycle); 19th–20th-century revival in theosophical-esoteric thought; Santillana and von Dechend's *Hamlet's Mill* (1969) — scholarly engagement with cross-cultural preservation"
-cross_cultural_correspondences = "Hindu *Kalpa* / *Mahakalpa* (much longer cycles with substructure that may map to Great Year scale); Stoic *ekpyrosis* (cyclic cosmological destruction-renewal); Hesiodic Ages of Gold/Silver/Bronze/Iron (broader cyclic-cosmology tradition); Mesoamerican Long Count Great Cycle (5,125 years, approximately one-fifth of the Great Year); broader cyclic-cosmology tradition across cultures"
-framework_significance = "Foundational chronological framework for the corpus; approximately the duration of the Elohim project on Earth on the framework's reading; the master cycle within which the twelve Great Month identifications used across the corpus are organized"
+type = "מחזור הנקיפה המלא; מחזור מלא אחד של נקודת השוויון האביבי סביב מילת המזלות"
+duration_modern = "כ-25,772 שנה (מדידה אסטרונומית מודרנית, מבוססת על קצב הנקיפה של ~50.29 שניות קשת בשנה)"
+duration_traditional = "בדיוק 25,920 שנה (חשבון של המסורת האסטרולוגית, 360° × 72 שנה/°)"
+component_units = "שנה גדולה אחת = 12 חודשים גדולים (כל אחד ~2,160 שנה) = 360 ימים גדולים (כל אחד ~72 שנה) = מחזור מלא של 360° של מילת המזלות"
+plato_source = "*טימאיוס* 39d — מושג ה-*teleios eniautos* (»השנה המושלמת«)"
+historical_milestones = "אפלטון (בערך 360 לפנה»ס — מושג ה*שנה המושלמת* המקורי, טרם זוהה עם נקיפה); היפרכוס (בערך 129 לפנה»ס — גילוי הנקיפה); קיקרו (בערך 45 לפנה»ס — מסורת ה-Magnus Annus הלטינית); קנסורינוס (בערך 238 לספירה — שימור חישובים עתיקים שונים); תלמי (בערך 150 לספירה — הנתון של 36,000 שנה); מסורת הרנסאנס (זיהוי עם מחזור הנקיפה); תחיה במאה ה-19–20 במחשבה התיאוסופית-אזוטרית; *טחנת המלט* של סנטיליאנה ופון דכנד (1969) — מעורבות אקדמית עם השימור הבין-תרבותי"
+cross_cultural_correspondences = "ה*קַלפַּה* / *מַהָקַלפַּה* ההינדואיים (מחזורים ארוכים בהרבה עם תת-מבנה שעשוי להתאים לקנה מידה של שנה גדולה); ה*אֵקפִּירוֹסיס* הסטואי (השמדה-חידוש קוסמולוגי מחזורי); עידני הזהב/כסף/ברונזה/ברזל של הסיודוס (מסורת קוסמולוגיית מחזורים רחבה יותר); המחזור הגדול של הספירה הארוכה המסואמריקאית (5,125 שנה, בערך חמישית מהשנה הגדולה); מסורת קוסמולוגיית מחזורים רחבה יותר בין תרבויות"
+framework_significance = "מסגרת כרונולוגית יסודית לקורפוס; בערך משך פרויקט האלוהים על פני כדור הארץ על פי קריאת המסגרת; המחזור הראשי שבתוכו מאורגנים שנים-עשר זיהויי החודש הגדול המשמשים לאורך הקורפוס"
 key_external_reference = "Santillana, Giorgio de, and Hertha von Dechend. *Hamlet's Mill: An Essay on Myth and the Frame of Time*. Gambit, 1969."
 +++
 
-The **Great Year** is the period of one complete cycle of **axial precession** — the duration required for the Earth's rotational axis to trace out one full cone against the background of fixed stars, equivalent to one complete circuit of the vernal equinox point around the ecliptic. The Great Year is the foundational unit of long-period chronology on which the broader {% wiki(slug="wheel-of-heaven") %}Wheel of Heaven{% end %} temporal framework depends, and is the master cycle of which the corpus's twelve [Great Month](../great-month/) identifications (Age of Virgo through Age of Aquarius) are the twelfths.
+**השנה הגדולה** היא תקופת מחזור שלם אחד של **נקיפת ציר** — משך הזמן הנדרש לציר הסיבוב של כדור הארץ לתאר חרוט מלא אחד על רקע כוכבי השבת, השווה למחזור מלא אחד של נקודת השוויון האביבי סביב מילת המזלות. השנה הגדולה היא יחידת היסוד של כרונולוגיה ארוכת-טווח שעליה נשענת מסגרת הזמן הרחבה יותר של {% wiki(slug="wheel-of-heaven") %}גלגל השמיים{% end %}, והיא המחזור הראשי שזיהויי שנים-עשר [החודש הגדול](../great-month/) של הקורפוס (מעידן בתולה ועד עידן דלי) הם השניים-עשריות שלו.
 
-On the modern astronomical measurement, the Great Year is approximately **25,772 years** in duration, based on the contemporary precessional rate of approximately 50.29 arcseconds per year. On the **astrological-tradition reckoning**, the Great Year is exactly **25,920 years** — derived from the ancient observation of approximately one degree of westward shift of the equinoxes per 72 years, multiplied by the 360 degrees of the full ecliptic:
-
-$$
-\begin{equation*}
-360° \cdot 72 \tfrac{\text{years}}{°} = 25{,}920 \text{ years}
-\end{equation*}
-$$
-
-The traditional 25,920-year figure has substantial mathematical convenience that accounts for its prominence in pre-modern cosmological tradition: it factors as 2⁶ × 3⁴ × 5 = 64 × 405 = 60 × 432 = 360 × 72, with divisibility properties that allow clean subdivision into Great Months (2,160 years each, 12 per Great Year), Great Days (72 years each, 360 per Great Year), and other meaningful units. The difference between the modern astronomical and traditional reckonings (approximately 148 years across the full cycle) is small enough that the corpus uses both interchangeably depending on context, with the traditional figure favoured for its mathematical convenience and the modern figure used when contemporary astronomical precision is required.
-
-The Great Year is also known as the **Platonic Year** (after Plato's *Timaeus* 39d, which introduces the concept of the *teleios eniautos* or "Perfect Year"), the **Magnus Annus** (the Latin translation that became standard in the medieval and Renaissance tradition), or simply the **Precessional Year** or **Cosmic Year**. The concept has substantive history in Western philosophical and astronomical thought reaching back to Plato's *Timaeus* (c. 360 BCE) — though the explicit identification of Plato's Great Year with the precessional cycle is a post-Hipparchian development (after the discovery of precession around 129 BCE), since Plato himself, predating Hipparchus by approximately 230 years, could not have known the precessional phenomenon.
-
-The Wheel of Heaven framework reads the Great Year as foundational chronological infrastructure for the entire corpus. Approximately one complete Great Year corresponds, on the framework's reading, to the duration of the Elohim project on Earth — from the human synthesis approximately 25,000 years ago through the contemporary recovery and recognition period. The framework's broader interpretive work develops the Great Year as the master temporal framework within which the twelve Great Month identifications, the principal events of the prophetic record, and the broader cross-cultural mythological preservation of cosmic-cycle content are organized. The framework's reading of cross-cultural preservation of Great Year-scale concepts (the Hindu *Kalpa* and *Mahakalpa*, the Stoic *ekpyrosis*, the Platonic *Magnus Annus*, the broader cyclic-cosmology tradition analyzed by Santillana and von Dechend in *Hamlet's Mill*) is treated as substantial evidence for the pre-Hipparchian transmission of the precessional cosmic-cycle concept through the symbolic-mythological vocabulary the corpus engages.
-
-The astronomical phenomenon of precession itself is treated more fully in the dedicated [Precession](../precession/) entry; the twelfth-of-Great-Year unit (the Great Month or Astrological Age) is treated in the dedicated [Great Month](../great-month/) entry; the broader cross-cultural doctrine of cosmic ages is treated in the dedicated [World Age](../world-age/) entry. The present entry focuses specifically on the Great Year as the full precessional cycle, its historical conceptualisation, its cross-cultural preservation, and the framework's specific reading of its operational significance.
-
-## The mathematical and structural framework
-
-The Great Year is defined by reference to the astronomical phenomenon of precession (treated in the dedicated [Precession](../precession/) entry) and admits structured subdivision into smaller chronological units.
-
-### The 72-years-per-degree observation
-
-The foundational empirical observation underlying the traditional 25,920-year Great Year is that the equinoxes shift westward along the ecliptic at approximately **one degree per 72 years**. This rate is close to the modern astronomical value of approximately 71.59 years per degree (derived from the contemporary precessional rate of 50.29 arcseconds per year: 3,600 arcseconds per degree ÷ 50.29 arcseconds per year ≈ 71.59 years per degree). The traditional figure of 72 years per degree gives:
+על פי המדידה האסטרונומית המודרנית, השנה הגדולה אורכה כ-**25,772 שנה**, על בסיס קצב הנקיפה העכשווי של כ-50.29 שניות קשת בשנה. על פי **החשבון של המסורת האסטרולוגית**, השנה הגדולה היא בדיוק **25,920 שנה** — נגזר מן התצפית העתיקה של בערך דרגה אחת של היסט מערבה של נקודות השוויון מדי 72 שנה, מוכפלת ב-360 הדרגות של מילת המזלות המלאה:
 
 $$
 \begin{equation*}
-360° \cdot 72 \tfrac{\text{years}}{°} = 25{,}920 \text{ years}
+360° \cdot 72 \tfrac{\text{שנים}}{°} = 25{,}920 \text{ שנה}
 \end{equation*}
 $$
 
-The 72-year unit corresponds to one degree of precessional motion across the ecliptic. To put this in practical perspective, one degree of arc against the celestial sphere is approximately the width of a human thumb at arm's length — a useful field measurement that connects the cosmic-scale precessional motion to a directly observable human-scale reference. The 72-year period also corresponds approximately to the standard human lifespan (developed at greater length in the [Great Month](../great-month/) entry's treatment of the Great Day), producing the substantive structural correspondence: **one human lifetime ≈ one degree of precession ≈ one Great Day**.
+לנתון המסורתי של 25,920 שנה יש נוחות מתמטית מהותית המסבירה את בולטותו במסורת הקוסמולוגית הפרה-מודרנית: הוא מתפרק כ-2⁶ × 3⁴ × 5 = 64 × 405 = 60 × 432 = 360 × 72, עם תכונות מתחלקות המאפשרות חלוקה נקייה לחודשים גדולים (2,160 שנה כל אחד, 12 בשנה גדולה), ימים גדולים (72 שנה כל אחד, 360 בשנה גדולה), ויחידות משמעותיות אחרות.{{ footnote(id="2") }} ההפרש בין החשבונות האסטרונומי המודרני והמסורתי (בערך 148 שנה לאורך המחזור המלא) קטן דיו כך שהקורפוס משתמש בשניהם לסירוגין בהתאם להקשר, כאשר הנתון המסורתי מועדף בשל נוחותו המתמטית והנתון המודרני בשימוש כאשר נדרשת דיוק אסטרונומי עכשווי.
 
-### The subdivisions of the Great Year
+השנה הגדולה ידועה גם כ**שנה האפלטונית** (על שם *טימאיוס* 39d של אפלטון, המציג את מושג ה-*teleios eniautos* או »השנה המושלמת«), ה-**Magnus Annus** (התרגום הלטיני שהפך לסטנדרטי במסורת ימי הביניים והרנסאנס), או פשוט **השנה הנקיפתית** או **השנה הקוסמית**. למושג יש היסטוריה משמעותית במחשבה הפילוסופית והאסטרונומית המערבית המגיעה אחורה ל*טימאיוס* של אפלטון (בערך 360 לפנה»ס) — אם כי הזיהוי המפורש של השנה הגדולה של אפלטון עם מחזור הנקיפה הוא התפתחות פוסט-היפרכית (לאחר גילוי הנקיפה בסביבות 129 לפנה»ס), שכן אפלטון עצמו, הקודם להיפרכוס בכ-230 שנה, לא יכול היה להכיר את תופעת הנקיפה.
 
-The full Great Year of 25,920 years admits structured subdivision into smaller chronological units that mirror the structure of the ordinary year:
+מסגרת גלגל השמיים קוראת את השנה הגדולה כתשתית כרונולוגית יסודית לכלל הקורפוס. בערך שנה גדולה שלמה אחת מתאימה, על פי קריאת המסגרת, למשך פרויקט האלוהים על פני כדור הארץ — מהסינתזה האנושית לפני כ-25,000 שנה ועד תקופת ההחלמה וההכרה העכשווית. העבודה הפרשנית הרחבה יותר של המסגרת מפתחת את השנה הגדולה כמסגרת הזמן הראשית שבתוכה מאורגנים שנים-עשר זיהויי החודש הגדול, האירועים העיקריים של התיעוד הנבואי, והשימור המיתולוגי הבין-תרבותי הרחב יותר של תוכן המחזור הקוסמי. קריאת המסגרת לשימור הבין-תרבותי של מושגים בקנה מידה של שנה גדולה (ה*קַלפַּה* וה*מַהָקַלפַּה* ההינדואיים, ה*אֵקפִּירוֹסיס* הסטואי, ה-*Magnus Annus* האפלטוני, מסורת קוסמולוגיית המחזורים הרחבה יותר שניתחה סנטיליאנה ופון דכנד ב*טחנת המלט*){{ cite(id="hamlets-mill", text="[1]", title="Santillana & von Dechend, *Hamlet's Mill: An Essay on Myth and the Frame of Time* (1969) — המעורבות האקדמית היסודית עם השימור הבין-תרבותי של תוכן נקיפתי") }} נחשבת כראיה מהותית להעברה הפרה-היפרכית של מושג המחזור הקוסמי הנקיפתי באמצעות אוצר המילים הסמלי-מיתולוגי שהקורפוס מתעסק בו.
 
-- **The Great Month** (one-twelfth of the Great Year, ~2,160 years) — corresponding to one zodiacal sign (30° of ecliptic precession); developed at length in the [Great Month](../great-month/) entry
-- **The Great Day** (one-three-hundred-and-sixtieth of the Great Year, ~72 years) — corresponding to one degree of ecliptic precession; approximately one human lifespan
-- **The Great Hour** (one-eight-thousand-six-hundred-and-fortieth of the Great Year, ~3 years) — corresponding to ~2.5 arcminutes of ecliptic precession; less commonly used but available in the corpus's broader chronological framework
-- **The Great Minute** (~0.05 years or ~18 days) — rarely used; the unit becomes too small for practical chronological reference
+התופעה האסטרונומית של הנקיפה עצמה מטופלת באופן מלא יותר בערך [נקיפה](../precession/) הייעודי; יחידת השניים-עשרית-של-שנה-גדולה (החודש הגדול או העידן האסטרולוגי) מטופלת בערך [החודש הגדול](../great-month/) הייעודי; הדוקטרינה הבין-תרבותית הרחבה יותר של עידני העולם מטופלת בערך [עידן עולם](../world-age/) הייעודי. הערך הנוכחי מתמקד באופן ספציפי בשנה הגדולה כמחזור הנקיפה המלא, ההמשגה ההיסטורית שלה, השימור הבין-תרבותי שלה, וקריאת המסגרת הספציפית למשמעותה המבצעית.
 
-The structural proportions mirror the ordinary year (12 months of approximately 30 days, with each day of approximately 24 hours). This proportional similarity is not coincidental — the ancient cosmological systems that developed the Great Year framework deliberately structured the long-period cycle to mirror the familiar short-period cycle, producing the mnemonically useful "as above, so below" correspondence between cosmic and terrestrial timescales.
+## המסגרת המתמטית והמבנית
 
-### The empirical question
+השנה הגדולה מוגדרת בהתייחס לתופעה האסטרונומית של הנקיפה (המטופלת בערך [נקיפה](../precession/) הייעודי) ומאפשרת חלוקה מובנית ליחידות כרונולוגיות קטנות יותר.
 
-The 72-years-per-degree figure is reasonably close to the actual modern astronomical rate but somewhat fast (the actual rate gives 71.59 years per degree, producing a slightly shorter Great Year of approximately 25,772 years rather than 25,920). The traditional figure is preferred in the framework's broader work because:
+### תצפית 72-השנים-לדרגה
 
-- The convenient mathematical factorisation (2⁶ × 3⁴ × 5) allows clean subdivision into meaningful units
-- The cross-cultural preservation of the 25,920 figure across multiple pre-modern cosmological systems suggests substantive transmission of the specific value
-- The ±150-year difference between the traditional and modern figures is small enough that practical chronological work is largely unaffected by the choice
+התצפית האמפירית היסודית העומדת בבסיס השנה הגדולה המסורתית בת 25,920 השנים היא כי נקודות השוויון נסוגות מערבה לאורך מילת המזלות בקצב של בערך **דרגה אחת ל-72 שנה**. קצב זה קרוב לערך האסטרונומי המודרני של בערך 71.59 שנה לדרגה (הנגזר מקצב הנקיפה העכשווי של 50.29 שניות קשת בשנה: 3,600 שניות קשת לדרגה ÷ 50.29 שניות קשת בשנה ≈ 71.59 שנה לדרגה). הנתון המסורתי של 72 שנה לדרגה נותן:
 
-The framework treats the choice between the two reckonings as one of the principal open methodological questions, with the corpus's broader work continuing to use both depending on context. The detailed treatment is in the [Precession](../precession/) and [Great Month](../great-month/) entries.
+$$
+\begin{equation*}
+360° \cdot 72 \tfrac{\text{שנים}}{°} = 25{,}920 \text{ שנה}
+\end{equation*}
+$$
 
-## The Platonic Year / Magnus Annus tradition
+יחידת 72 השנים מתאימה לדרגה אחת של תנועה נקיפתית לאורך מילת המזלות. כדי להמחיש זאת בפרספקטיבה מעשית, דרגת קשת אחת על פני הספרה השמיימית היא בערך רוחב אגודלו של אדם במרחק זרוע — מדידת שדה שימושית המקשרת את התנועה הנקיפתית בקנה מידה קוסמי להפניה ישירה הנצפית בקנה מידה אנושי. תקופת 72 השנים גם מתאימה בקירוב לאורך החיים האנושי הסטנדרטי (המפותח באופן מורחב בערך [החודש הגדול](../great-month/) בטיפול ביום הגדול), ומפיקה את ההתאמה המבנית המהותית: **אורך חיים אנושי אחד ≈ דרגה אחת של נקיפה ≈ יום גדול אחד**.
 
-The Greek philosophical tradition includes substantial engagement with the concept of a cosmic Great Year predating Hipparchus's discovery of precession by approximately two centuries. The Platonic-tradition Magnus Annus is the principal pre-precessional intellectual antecedent of the framework's Great Year concept.
+### חלוקות המשנה של השנה הגדולה
 
-### Plato's Perfect Year
+השנה הגדולה המלאה של 25,920 שנה מאפשרת חלוקה מובנית ליחידות כרונולוגיות קטנות יותר המשקפות את מבנה השנה הרגילה:
 
-The foundational source for the Western philosophical Great Year tradition is **Plato**'s *Timaeus* (c. 360 BCE), specifically Timaeus 39d, which introduces the concept of the **Perfect Year** (Greek *teleios eniautos*; Latin *Annus Perfectus* or *Magnus Annus*):
+- **החודש הגדול** (אחד-עשרה משנים-עשרה של השנה הגדולה, ~2,160 שנה) — המתאים לסימן מזל אחד (30° של נקיפת מילת המזלות); מפותח באופן מורחב בערך [החודש הגדול](../great-month/)
+- **היום הגדול** (אחת-משלוש-מאות-ושישים של השנה הגדולה, ~72 שנה) — המתאים לדרגה אחת של נקיפת מילת המזלות; בערך אורך חיים אנושי אחד
+- **השעה הגדולה** (אחת-משמונת-אלפים-שש-מאות-וארבעים של השנה הגדולה, ~3 שנים) — המתאימה ל~2.5 דקות קשת של נקיפת מילת המזלות; פחות בשימוש שגרתי אך זמינה במסגרת הכרונולוגית הרחבה יותר של הקורפוס
+- **הדקה הגדולה** (~0.05 שנה או ~18 ימים) — נדירה בשימוש; היחידה הופכת קטנה מדי להתייחסות כרונולוגית מעשית
 
-> ...the perfect number of time brings to completion the perfect year at that moment when the relative speeds of all eight periods have been completed together and, measured by the circle of the Same that moves uniformly, have achieved their consummation.
+הפרופורציות המבניות משקפות את השנה הרגילה (12 חודשים של בערך 30 ימים, כאשר כל יום הוא בערך 24 שעות). דמיון פרופורציוני זה אינו מקרי — המערכות הקוסמולוגיות העתיקות שפיתחו את מסגרת השנה הגדולה בנו במכוון את המחזור ארוך-הטווח לשקף את המחזור קצר-הטווח המוכר, מה שמפיק את ההתאמה המנמונית השימושית »כמו למעלה, כך למטה« בין סולמות הזמן הקוסמי והארצי.
+
+### השאלה האמפירית
+
+הנתון של 72 שנה לדרגה קרוב סבירות לקצב האסטרונומי המודרני בפועל אך מהיר במידת מה (הקצב בפועל נותן 71.59 שנה לדרגה, ומפיק שנה גדולה מעט קצרה יותר של בערך 25,772 שנה במקום 25,920). הנתון המסורתי מועדף בעבודה הרחבה יותר של המסגרת מפני ש:
+
+- הפירוק המתמטי הנוח (2⁶ × 3⁴ × 5) מאפשר חלוקה נקייה ליחידות משמעותיות
+- השימור הבין-תרבותי של הנתון 25,920 על פני מספר מערכות קוסמולוגיות פרה-מודרניות מציע העברה מהותית של הערך הספציפי
+- ההפרש של ±150 שנה בין הנתונים המסורתי והמודרני קטן דיו כך שעבודה כרונולוגית מעשית אינה מושפעת באופן ניכר מן הבחירה
+
+המסגרת מתייחסת לבחירה בין שני החשבונות כאחת השאלות המתודולוגיות הפתוחות העיקריות, כאשר העבודה הרחבה יותר של הקורפוס ממשיכה להשתמש בשניהם בהתאם להקשר. הטיפול המפורט נמצא בערכי [נקיפה](../precession/) ו[החודש הגדול](../great-month/).
+
+## מסורת השנה האפלטונית / Magnus Annus
+
+המסורת הפילוסופית היוונית כוללת מעורבות מהותית עם המושג של שנה גדולה קוסמית הקודם לגילוי הנקיפה של היפרכוס בכ-200 שנה. ה-Magnus Annus של מסורת אפלטון הוא הקדם האינטלקטואלי העיקרי הפרה-נקיפתי של מושג השנה הגדולה של המסגרת.
+
+### השנה המושלמת של אפלטון
+
+המקור היסודי למסורת השנה הגדולה הפילוסופית המערבית הוא ה-*טימאיוס* של **אפלטון** (בערך 360 לפנה»ס), ובמיוחד טימאיוס 39d, המציג את מושג ה-**שנה המושלמת** (יוונית *teleios eniautos*; לטינית *Annus Perfectus* או *Magnus Annus*):
+
+> ...המספר המושלם של זמן מביא להשלמה את השנה המושלמת ברגע שבו המהירויות היחסיות של כל שמונת המחזורים הושלמו יחד, ובהימדדן על ידי מעגל הזהה הנע באופן אחיד, השיגו את הגשמתם.
 >
-> — Plato, *Timaeus* 39d (translation Cornford)
+> — אפלטון, *טימאיוס* 39d (תרגום קורנפורד)
 
-Plato's Perfect Year is defined as the period required for **all the celestial bodies** (the Sun, Moon, and the five visible planets — Mercury, Venus, Mars, Jupiter, Saturn) to return simultaneously to their initial configurations. This is a planetary-conjunction cycle rather than a precessional cycle; Plato himself did not know of precession (it was not discovered until Hipparchus c. 129 BCE) and did not specify the duration of the Perfect Year in the *Timaeus*. The concept was substantive in Plato's broader cosmology because the *Timaeus* treats time itself as the structured motion of the celestial bodies, with the Perfect Year as the master period that organizes all the shorter cycles.
+השנה המושלמת של אפלטון מוגדרת כתקופה הנדרשת **לכל גרמי השמיים** (השמש, הירח, וחמשת כוכבי הלכת הנראים — מרקורי, ונוס, מאדים, יופיטר, סטורן) לחזור בו-זמנית לתצורותיהם ההתחלתיות. זהו מחזור הצמדות פלנטריות ולא מחזור נקיפתי; אפלטון עצמו לא ידע על הנקיפה (היא לא התגלתה עד היפרכוס בסביבות 129 לפנה»ס) ולא ציין את משך השנה המושלמת ב-*טימאיוס*.{{ footnote(id="1") }} המושג היה מהותי בקוסמולוגיה הרחבה יותר של אפלטון מפני שה-*טימאיוס* מתייחס לזמן עצמו כתנועה המובנית של גרמי השמיים, כאשר השנה המושלמת היא התקופה הראשית המארגנת את כל המחזורים הקצרים יותר.
 
-The framework's reading of Plato's Perfect Year is that the concept preserves substantive content about a long-period cosmic cycle — content that was subsequently identified with the precessional Great Year once that phenomenon was discovered. The post-Hipparchian conflation of Plato's planetary-conjunction Perfect Year with the precessional cycle was, on the framework's reading, substantively *correct* in the sense that the underlying intuition (a long cosmic cycle structuring history into ages) was applied to the actual long-period phenomenon (precession) once that phenomenon was identified.
+קריאת המסגרת לשנה המושלמת של אפלטון היא שהמושג משמר תוכן מהותי על מחזור קוסמי ארוך-טווח — תוכן שזוהה לאחר מכן עם השנה הגדולה הנקיפתית לאחר שהתופעה התגלתה. הערבוב הפוסט-היפרכי של השנה המושלמת של אפלטון, שהיא מחזור הצמדות פלנטריות, עם מחזור הנקיפה היה, על פי קריאת המסגרת, מהותית *נכון* במובן שהאינטואיציה הבסיסית (מחזור קוסמי ארוך המבנה את ההיסטוריה לעידנים) הוחלה על התופעה ארוכת-הטווח בפועל (נקיפה) ברגע שהתופעה הזו זוהתה.
 
-### The post-Platonic development
+### ההתפתחות הפוסט-אפלטונית
 
-The post-Platonic Greek philosophical tradition developed the Perfect Year concept across multiple schools:
+המסורת הפילוסופית היוונית הפוסט-אפלטונית פיתחה את מושג השנה המושלמת על פני מספר אסכולות:
 
-- **Heraclitus** (c. 540–480 BCE, actually pre-Plato) was given a Great Year of **10,800 years** by **Censorinus** (3rd century CE, *De Die Natali*). The 10,800-year figure may relate to the Heraclitean cyclic cosmology of the *ekpyrosis* (cosmic conflagration) tradition that the Stoics subsequently developed.
-- **Aristarchus of Samos** (c. 310–230 BCE), the Greek astronomer famous for proposing the heliocentric solar system substantially before Copernicus, was given a Great Year of **2,484 years** by Censorinus.
-- The **Stoic** philosophical tradition (particularly Chrysippus) developed the *ekpyrosis* doctrine: the cosmos undergoes periodic destruction by fire and renewal, with each cycle producing a recurrence of all previous events. The Stoic cosmic cycle was identified with the Great Year, though the specific duration was variously given.
-- **Diogenes of Babylonia** (c. 230–150 BCE, the Stoic philosopher) was given a Great Year of "360 times Heraclitus's Great Year" by Aetios, producing 360 × 18,000 = **6,480,000 years** (with Aetios giving Heraclitus's figure as 18,000 rather than the 10,800 from Censorinus — the variant ancient figures themselves are not consistent across sources).
-- **Cicero** in *De Natura Deorum* (c. 45 BCE) and *Hortensius* (now lost) substantially developed the Latin Magnus Annus tradition, following Plato in defining the Great Year as the cycle of planetary conjunction return.
+- **הרקליטוס** (בערך 540–480 לפנה»ס, למעשה קודם לאפלטון) קיבל שנה גדולה של **10,800 שנה** על ידי **קנסורינוס** (המאה ה-3 לספירה, *De Die Natali*). הנתון של 10,800 שנה עשוי לקשר לקוסמולוגיה ההרקליטית המחזורית של מסורת ה-*אֵקפִּירוֹסיס* (השריפה הקוסמית) שהסטואים פיתחו לאחר מכן.
+- **אריסטרכוס מסאמוס** (בערך 310–230 לפנה»ס), האסטרונום היווני המפורסם בהצעת המערכת ההליוצנטרית של מערכת השמש מהותית לפני קופרניקוס, קיבל שנה גדולה של **2,484 שנה** על ידי קנסורינוס.
+- המסורת הפילוסופית **הסטואית** (במיוחד חרסיפוס) פיתחה את דוקטרינת ה-*אֵקפִּירוֹסיס*: הקוסמוס עובר השמדה מחזורית באש וחידוש, כאשר כל מחזור מפיק חזרה של כל האירועים הקודמים. המחזור הקוסמי הסטואי זוהה עם השנה הגדולה, אם כי המשך הספציפי ניתן באופן שונה.
+- **דיוגנס מבבל** (בערך 230–150 לפנה»ס, הפילוסוף הסטואי) קיבל שנה גדולה של »360 פעמים השנה הגדולה של הרקליטוס« על ידי אטיוס, ומפיק 360 × 18,000 = **6,480,000 שנה** (כאשר אטיוס נותן את הנתון של הרקליטוס כ-18,000 במקום 10,800 מקנסורינוס — הנתונים העתיקים השונים עצמם אינם עקביים בין המקורות).
+- **קיקרו** ב-*De Natura Deorum* (בערך 45 לפנה»ס) וב-*Hortensius* (כעת אבוד) פיתח באופן מהותי את מסורת ה-Magnus Annus הלטינית, בעקבות אפלטון בהגדירו את השנה הגדולה כמחזור של חזרת ההצמדות הפלנטריות.
 
-### The post-Hipparchian conflation with precession
+### הערבוב הפוסט-היפרכי עם הנקיפה
 
-After Hipparchus's discovery of precession around 129 BCE, the Greek and subsequent traditions began to identify the Platonic Perfect Year with the precessional cycle. The principal figures:
+לאחר גילוי הנקיפה של היפרכוס בסביבות 129 לפנה»ס, המסורות היוונית והבאות אחריה החלו לזהות את השנה המושלמת האפלטונית עם מחזור הנקיפה. הדמויות העיקריות:
 
-- **Hipparchus** himself measured precession at approximately 1°/century (36 arcseconds/year), which would give a Great Year of approximately 36,000 years (close to but slower than the actual rate)
-- **Claudius Ptolemy** (c. 100–170 CE) in the *Almagest* used Hipparchus's precessional rate of 1°/century, giving a Great Year of **36,000 years**. The Ptolemaic figure became the dominant Western reckoning through the medieval period and into the Renaissance — though it is substantially too long, the actual rate being approximately 50 arcseconds/year giving the modern 25,772-year figure. Ptolemy's overestimate has been the subject of substantial subsequent scholarly debate (some authors arguing that Ptolemy adjusted the value to align with theological-cosmological commitments rather than astronomical observation).
-- The **Renaissance tradition** substantially adopted the post-Hipparchian identification of Plato's Magnus Annus with the precessional cycle, with the figure of 25,920 years (derived from the 72-years-per-degree rate) gradually supplanting Ptolemy's 36,000-year figure as the standard.
-- The **19th-century theosophical and esoteric traditions** (particularly H. P. Blavatsky's *The Secret Doctrine*, 1888) substantially revived and developed the Magnus Annus tradition, often combining it with Hindu *yuga* arithmetic and other cross-cultural cosmic-cycle traditions. The theosophical revival had substantial influence on the 20th-century esoteric and "New Age" engagement with the Age of Aquarius and broader Great Year content.
+- **היפרכוס** עצמו מדד את הנקיפה בכ-1°/מאה (36 שניות קשת/שנה), מה שייתן שנה גדולה של בערך 36,000 שנה (קרובה לקצב בפועל אך איטית ממנו)
+- **קלאודיוס תלמי** (בערך 100–170 לספירה) ב-*אַלמַגֶסט* השתמש בקצב הנקיפה של היפרכוס של 1°/מאה, ומפיק שנה גדולה של **36,000 שנה**. הנתון התלמי הפך לחשבון המערבי הדומיננטי במהלך תקופת ימי הביניים ועד הרנסאנס — אם כי הוא ארוך באופן מהותי, כאשר הקצב בפועל הוא בערך 50 שניות קשת/שנה ונותן את הנתון המודרני של 25,772 שנה. ההערכה היתר של תלמי הייתה נושא לדיון אקדמי משמעותי שלאחר מכן (כאשר חלק מהמחברים טוענים כי תלמי התאים את הערך כדי להתיישר עם מחויבויות תאולוגיות-קוסמולוגיות במקום עם תצפית אסטרונומית).
+- **מסורת הרנסאנס** אימצה באופן מהותי את הזיהוי הפוסט-היפרכי של ה-Magnus Annus של אפלטון עם מחזור הנקיפה, כאשר הנתון של 25,920 שנה (הנגזר מקצב 72 השנה לדרגה) החליף בהדרגה את הנתון של תלמי של 36,000 שנה כסטנדרט.
+- **המסורות התיאוסופיות והאזוטריות של המאה ה-19** (במיוחד *הדוקטרינה הסודית* של ה. פ. בלבצקי, 1888) החיו ופיתחו באופן מהותי את מסורת ה-Magnus Annus, לעיתים קרובות בשילוב עם חשבון ה-*יוגה* ההינדואי ומסורות מחזוריות-קוסמיות בין-תרבותיות אחרות. לתחיה התיאוסופית הייתה השפעה מהותית על המעורבות האזוטרית של המאה ה-20 ושל ה»עידן החדש« עם עידן הדלי ותוכן השנה הגדולה הרחב יותר.
 
-The framework's adopted reading: the Platonic-tradition Magnus Annus and the post-Hipparchian precessional Great Year are substantively continuous, despite the original conceptual difference between planetary-conjunction and precessional cycles. The cross-cultural intuition of a long cosmic cycle structuring time was preserved in the Platonic tradition; the post-Hipparchian identification with precession completed the conceptual content that the framework reads as preserving substantive astronomical knowledge.
+קריאת המסגרת שאומצה: ה-Magnus Annus של מסורת אפלטון והשנה הגדולה הנקיפתית הפוסט-היפרכית הם רציפים מהותית, למרות ההבדל המושגי המקורי בין מחזורי הצמדות פלנטריות ומחזורי נקיפה. האינטואיציה הבין-תרבותית של מחזור קוסמי ארוך המבנה את הזמן נשמרה במסורת האפלטונית; הזיהוי הפוסט-היפרכי עם הנקיפה השלים את התוכן המושגי שהמסגרת קוראת כמשמר ידע אסטרונומי מהותי.
 
-## Cross-cultural preservation of Great Year-scale cycles
+## שימור בין-תרבותי של מחזורים בקנה מידה של שנה גדולה
 
-The Great Year concept — a master cosmic cycle of approximately 25,000-26,000 years (or longer cycles with the Great Year as a structural substructure) — appears with substantial frequency across pre-modern cosmological systems. The cross-cultural pattern is one of the principal substantive supports for the framework's broader reading of pre-Hipparchian transmission of precessional content.
+מושג השנה הגדולה — מחזור קוסמי ראשי של בערך 25,000-26,000 שנה (או מחזורים ארוכים יותר עם השנה הגדולה כתת-מבנה מבני) — מופיע בתדירות מהותית על פני מערכות קוסמולוגיות פרה-מודרניות. הדפוס הבין-תרבותי הוא אחת התמיכות המהותיות העיקריות לקריאת המסגרת הרחבה יותר של העברה פרה-היפרכית של תוכן נקיפתי.
 
-### The Hindu *kalpa* and *mahakalpa* tradition
+### מסורת ה-*קַלפַּה* וה-*מַהָקַלפַּה* ההינדואית
 
-The Hindu cosmological tradition includes cycles of substantially longer duration than the Great Year, with structural relationships that the framework reads as connecting to the Great Year scale:
+המסורת הקוסמולוגית ההינדואית כוללת מחזורים בעלי משך ארוך מהותית מהשנה הגדולה, עם יחסים מבניים שהמסגרת קוראת כמתחברים לקנה המידה של השנה הגדולה:
 
-- The **mahayuga** (composed of the four yugas: Satya, Treta, Dvapara, Kali) totals **4,320,000 years** — approximately **167 Great Years** (4,320,000 / 25,920 ≈ 166.67)
-- The **manvantara** (composed of 71 mahayugas plus transitional periods) totals approximately **306,720,000 years**
-- The **kalpa** (composed of 14 manvantaras plus transitional periods) totals **4,320,000,000 years** — the "day of Brahma," equivalent to approximately **166,667 Great Years**
-- The **mahakalpa** (day plus night of Brahma) totals **8,640,000,000 years**
+- ה-**מַהַיוּגַה** (המורכבת מארבע היוגות: סטיה, טרטה, דְוַאפַּרַה, קלי) מגיע ל-**4,320,000 שנה** — בערך **167 שנים גדולות** (4,320,000 / 25,920 ≈ 166.67)
+- ה-**מַנְוַנְטַרָה** (המורכב מ-71 מַהַיוּגוֹת בתוספת תקופות מעבר) מגיע לבערך **306,720,000 שנה**
+- ה-**קַלפַּה** (המורכבת מ-14 מַנְוַנְטַרוֹת בתוספת תקופות מעבר) מגיעה ל-**4,320,000,000 שנה** — »יום של ברהמא«, שווה ערך לבערך **166,667 שנים גדולות**
+- ה-**מַהָקַלפַּה** (יום בתוספת לילה של ברהמא) מגיע ל-**8,640,000,000 שנה**
 
-The substantial numerical correspondences between the Hindu yuga arithmetic and the precessional Great Year — particularly the 432-related numbers (432,000, 4,320,000, 4,320,000,000) and their relationships to 25,920 — are developed at greater length in the [Great Month](../great-month/) entry. The framework reads the Hindu cosmological tradition as preserving substantive precessional content within its broader cyclic-cosmological framework, even though the Puranic sources themselves do not explicitly identify the connection to precession.
+ההתאמות המספריות המהותיות בין חשבון היוגה ההינדואי ובין השנה הגדולה הנקיפתית — במיוחד המספרים הקשורים ל-432 (432,000, 4,320,000, 4,320,000,000) ויחסיהם ל-25,920 — מפותחות באופן מורחב בערך [החודש הגדול](../great-month/). המסגרת קוראת את המסורת הקוסמולוגית ההינדואית כמשמרת תוכן נקיפתי מהותי במסגרת קוסמולוגיית המחזורים הרחבה יותר שלה, אף שהמקורות הפוראניים עצמם אינם מזהים במפורש את הקישור לנקיפה.{{ footnote(id="4") }}
 
-A separate but related tradition associated with **Sri Yukteshwar** (1855–1936) in his *The Holy Science* (1894) proposes a 24,000-year *yuga* cycle (substantially shorter than the standard Puranic figure) explicitly correlated with the precessional cycle. The Yukteshwar tradition treats the standard 4.32-million-year yuga figures as misinterpretations of an underlying 24,000-year cycle. The corpus's adopted position is open on whether the Yukteshwar reading preserves substantive earlier content or is a 19th-century reinterpretation, but the substantive correspondence between 24,000 years and the actual Great Year is striking.
+מסורת נפרדת אך קשורה המיוחסת ל**סרי יוקטשוואר** (1855–1936) ב-*המדע הקדוש* (1894) מציעה מחזור *יוגה* בן 24,000 שנה (קצר מהותית מהנתון הפוראני הסטנדרטי) המתואם במפורש עם מחזור הנקיפה. מסורת יוקטשוואר מתייחסת לנתוני היוגה הסטנדרטיים של 4.32 מיליון שנה כפרשנויות שגויות של מחזור בסיסי של 24,000 שנה. עמדת הקורפוס שאומצה היא פתוחה לגבי השאלה האם קריאת יוקטשוואר משמרת תוכן מוקדם מהותי או שהיא פרשנות מחדש של המאה ה-19, אך ההתאמה המהותית בין 24,000 שנה לבין השנה הגדולה בפועל בולטת.
 
-### The Stoic *ekpyrosis* and eternal recurrence
+### ה-*אֵקפִּירוֹסיס* הסטואי והחזרה הנצחית
 
-The Stoic philosophical tradition's doctrine of the *ekpyrosis* — the periodic cosmic conflagration that destroys and renews the cosmos — corresponds substantively to a Great Year-scale cosmic cycle. The Stoic *ekpyrosis* doctrine includes substantive engagement with the question of **eternal recurrence**: each cycle of the cosmos reproduces all previous events identically, so that human history repeats itself across cosmic cycles. The Stoic doctrine was substantially developed by Chrysippus (c. 280–207 BCE) and subsequently by Roman Stoics including Cicero (in his lost *Hortensius*) and Marcus Aurelius. The doctrine influenced subsequent Western philosophical engagement with cyclic time, most notably **Friedrich Nietzsche**'s 19th-century revival of eternal recurrence (*Die Wiederkunft des Gleichen*, 1881–1888).
+דוקטרינת ה-*אֵקפִּירוֹסיס* של המסורת הפילוסופית הסטואית — השריפה הקוסמית המחזורית המשמידה ומחדשת את הקוסמוס — מתאימה מהותית למחזור קוסמי בקנה מידה של שנה גדולה. דוקטרינת ה-*אֵקפִּירוֹסיס* הסטואית כוללת מעורבות מהותית עם שאלת **החזרה הנצחית**: כל מחזור של הקוסמוס משכפל את כל האירועים הקודמים באופן זהה, כך שההיסטוריה האנושית חוזרת על עצמה על פני מחזורים קוסמיים. הדוקטרינה פותחה באופן מהותי על ידי חרסיפוס (בערך 280–207 לפנה»ס) ולאחר מכן על ידי סטואיים רומאיים כולל קיקרו (ב-*Hortensius* האבוד שלו) ומרקוס אורליוס. הדוקטרינה השפיעה על מעורבות פילוסופית מערבית מאוחרת יותר עם זמן מחזורי, באופן בולט ביותר על תחיית **פרידריך ניטשה** של החזרה הנצחית במאה ה-19 (*Die Wiederkunft des Gleichen*, 1881–1888).
 
-The framework's reading of the Stoic *ekpyrosis* connects to the broader corpus engagement with cyclic-cosmological time (treated in the [World Age](../world-age/) entry).
+קריאת המסגרת ל-*אֵקפִּירוֹסיס* הסטואי מתחברת למעורבות הקורפוס הרחבה יותר עם זמן קוסמולוגי-מחזורי (המטופלת בערך [עידן עולם](../world-age/)).
 
-### The Hesiodic Ages tradition
+### מסורת עידני הסיודוס
 
-The Greek poet **Hesiod** in his *Works and Days* (c. 700 BCE) developed the doctrine of the **Four (or Five) Ages of Man**: the {% wiki(slug="golden-age") %}Golden Age{% end %}, Silver Age, Bronze Age, Heroic Age (sometimes included as a fifth interpolation), and Iron Age (the current age). The Hesiodic tradition treats the Ages as a sequence of declining quality, with the current Iron Age representing the most degraded condition of humanity. The doctrine corresponds substantively to the Hindu yuga tradition (which also features a four-fold sequence of declining ages) and to the broader cross-cultural "ages of decline" pattern.
+המשורר היווני **הסיודוס** ב-*מעשים וימים* (בערך 700 לפנה»ס){{ cite(id="theogony-and-works-and-days", text="[2]", title="הסיודוס, *מעשים וימים* — מסורת ארבעת/חמשת העידנים היוונית (זהב, כסף, ברונזה, גיבורים, ברזל)") }} פיתח את דוקטרינת **ארבעת (או חמשת) עידני האדם**: {% wiki(slug="golden-age") %}עידן הזהב{% end %}, עידן הכסף, עידן הברונזה, עידן הגיבורים (לעיתים נכלל כשיבוץ חמישי), ועידן הברזל (העידן הנוכחי). מסורת הסיודוס מתייחסת לעידנים כרצף של ירידה באיכות, כאשר עידן הברזל הנוכחי מייצג את המצב המנוון ביותר של האנושות. הדוקטרינה מתאימה מהותית למסורת היוגה ההינדואית (שגם היא מציגה רצף בן ארבעה עידנים יורדים) ולדפוס »עידני הירידה« הבין-תרבותי הרחב יותר.
 
-The Hesiodic Ages are not explicitly precessional — Hesiod predates Hipparchus by approximately five centuries and could not have known the precessional cycle — but the framework reads the Hesiodic tradition as preserving content related to the broader cosmic-cycle pattern that the precessional Great Year articulates. The structural correspondence between the four Hesiodic Ages and four-fold subdivisions of the Great Year (each Age corresponding to three Great Months, or 6,480 years on the traditional reckoning) is one possible reading; the corpus's adopted position is open on the specific relationship.
+עידני הסיודוס אינם נקיפתיים במפורש — הסיודוס מקדים את היפרכוס בכחמש מאות שנה ולא היה יכול להכיר את מחזור הנקיפה — אך המסגרת קוראת את מסורת הסיודוס כמשמרת תוכן הקשור לדפוס המחזור הקוסמי הרחב יותר שהשנה הגדולה הנקיפתית מבטאת. ההתאמה המבנית בין ארבעת עידני הסיודוס לבין חלוקות פי ארבעה של השנה הגדולה (כל עידן מתאים לשלושה חודשים גדולים, או 6,480 שנה על פי החשבון המסורתי) היא קריאה אפשרית אחת; עמדת הקורפוס שאומצה היא פתוחה ביחס למערכת היחסים הספציפית.{{ footnote(id="3") }}
 
-### The Mesoamerican Long Count
+### הספירה הארוכה המסואמריקאית
 
-The Mesoamerican Long Count calendar's **13-B'ak'tun Great Cycle** of approximately **5,125 years** (1,872,000 days) corresponds to approximately **one-fifth of the precessional Great Year** (25,920 / 5 = 5,184 years; 25,772 / 5 = 5,154 years — both close to the Great Cycle figure). The numerical correspondence has been the subject of substantial 20th-21st century interpretive engagement, particularly in connection with the December 21, 2012 completion of the most recent Great Cycle.
+ה-**מחזור הגדול של 13-בָּאקטוּן** של לוח השנה של הספירה הארוכה המסואמריקאית, בן בערך **5,125 שנה** (1,872,000 ימים), מתאים לבערך **חמישית מהשנה הגדולה הנקיפתית** (25,920 / 5 = 5,184 שנה; 25,772 / 5 = 5,154 שנה — שניהם קרובים לנתון המחזור הגדול). להתאמה המספרית הייתה מעורבות פרשנית משמעותית בסוף המאות ה-20 וה-21, במיוחד בקשר להשלמת המחזור הגדול האחרון ב-21 בדצמבר 2012.
 
-The framework's adopted position on the Mesoamerican Long Count is that the substantive numerical correspondence with the precessional Great Year is consistent with the broader cross-cultural preservation pattern, but that the specific question of whether the Mesoamerican tradition explicitly encoded precessional content is treated as open. The dedicated [Mesoamerican astronomy](../mesoamerican-astronomy/) entry would develop this question further.
+עמדת המסגרת שאומצה ביחס לספירה הארוכה המסואמריקאית היא שההתאמה המספרית המהותית עם השנה הגדולה הנקיפתית עולה בקנה אחד עם דפוס השימור הבין-תרבותי הרחב, אך שהשאלה הספציפית האם המסורת המסואמריקאית קודדה במפורש תוכן נקיפתי נחשבת כפתוחה.{{ footnote(id="5") }} הערך הייעודי [אסטרונומיה מסואמריקאית](../mesoamerican-astronomy/) יפתח את השאלה הזו עוד.
 
-### The broader cross-cultural pattern
+### הדפוס הבין-תרבותי הרחב יותר
 
-The combined evidence from the Hindu, Greek, Mesoamerican, and other traditions supports the framework's reading that the precessional Great Year cycle was preserved across multiple pre-modern cosmological systems. The specific numerical signatures (25,920, 2,160, 432, 72, 360) appear with substantial frequency in cosmological-mythological contexts that predate explicit astronomical identification of precession. The framework reads this pattern as evidence of cross-cultural transmission of precessional astronomical content through symbolic-numerological vocabulary — the broader thesis developed in **Giorgio de Santillana and Hertha von Dechend's *Hamlet's Mill***, treated in the next section.
+הראיה המשולבת מהמסורות ההינדואית, היוונית, המסואמריקאית, ואחרות תומכת בקריאת המסגרת שמחזור השנה הגדולה הנקיפתית נשמר על פני מערכות קוסמולוגיות פרה-מודרניות מרובות. החתימות המספריות הספציפיות (25,920, 2,160, 432, 72, 360) מופיעות בתדירות מהותית בהקשרים קוסמולוגיים-מיתולוגיים הקודמים לזיהוי האסטרונומי המפורש של הנקיפה. המסגרת קוראת את הדפוס הזה כראיה להעברה בין-תרבותית של תוכן אסטרונומי נקיפתי באמצעות אוצר מילים סמלי-מספרי — התזה הרחבה יותר שפותחה ב*טחנת המלט* של **ג'ורג'ו דה סנטיליאנה והרתה פון דכנד**, המטופלת בסעיף הבא.
 
-## *Hamlet's Mill* and the precessional mythology thesis
+## *טחנת המלט* ותזת המיתולוגיה הנקיפתית
 
-The most substantive single scholarly engagement with the cross-cultural preservation of the precessional Great Year is **Giorgio de Santillana and Hertha von Dechend's *Hamlet's Mill: An Essay on Myth and the Frame of Time*** (Gambit, 1969). The book — written by **Santillana** (1902–1974, professor of history of science at MIT) and **von Dechend** (1915–2001, professor of history of science at Goethe University Frankfurt) — argues that pre-Hipparchian global mythology systematically encodes precessional astronomical content in mythological-symbolic form. The book's full subtitle articulates the project: *An Essay Investigating the Origins of Human Knowledge and Its Transmission Through Myth*.
+המעורבות האקדמית הבודדת המהותית ביותר עם השימור הבין-תרבותי של השנה הגדולה הנקיפתית היא *טחנת המלט: מסה על המיתוס ומסגרת הזמן* של **ג'ורג'ו דה סנטיליאנה והרתה פון דכנד** (Gambit, 1969). הספר — שנכתב על ידי **סנטיליאנה** (1902–1974, פרופסור להיסטוריה של המדע ב-MIT) ו**פון דכנד** (1915–2001, פרופסור להיסטוריה של המדע באוניברסיטת גתה בפרנקפורט) — טוען שהמיתולוגיה הגלובלית הפרה-היפרכית מקודדת באופן שיטתי תוכן אסטרונומי נקיפתי בצורה מיתולוגית-סמלית. כותרת המשנה המלאה של הספר מבטאת את הפרויקט: *מסה החוקרת את מקורות הידע האנושי והעברתו דרך המיתוס*.
 
-### The central thesis
+### התזה המרכזית
 
-The central thesis of *Hamlet's Mill* can be articulated in several connected claims:
+ניתן לבטא את התזה המרכזית של *טחנת המלט* בכמה טענות מקושרות:
 
-- **Precession was discovered substantially before Hipparchus**, by Neolithic or earlier astronomers, possibly as early as 4,000–6,000 BCE
-- The knowledge of precession was transmitted across cultures and millennia through **mythological-symbolic encoding** rather than direct astronomical-textual transmission
-- The principal mythological motifs of the cross-cultural global tradition systematically preserve precessional astronomical content
-- The transmission of precessional content connects cultures separated by substantial geographical and temporal distance through common mythological vocabulary
+- **הנקיפה התגלתה מהותית לפני היפרכוס**, על ידי אסטרונומים נאוליתיים או מוקדמים יותר, ייתכן כבר ב-4,000–6,000 לפנה»ס
+- הידע על הנקיפה הועבר על פני תרבויות ואלפי שנים באמצעות **קידוד מיתולוגי-סמלי** במקום העברה אסטרונומית-טקסטואלית ישירה
+- המוטיבים המיתולוגיים העיקריים של המסורת הגלובלית הבין-תרבותית משמרים באופן שיטתי תוכן אסטרונומי נקיפתי
+- העברת התוכן הנקיפתי מקשרת תרבויות המופרדות במרחק גיאוגרפי וזמני מהותי באמצעות אוצר מילים מיתולוגי משותף
 
-The book is organised across approximately 500 pages of analysis covering Mesopotamian, Egyptian, Vedic, Iranian, Norse, Finnish, Polynesian, Mesoamerican, and other cross-cultural mythological traditions. The breadth of the engagement is one of the book's distinctive features — no single 20th-century scholar commanded all of these fields at the level of depth the project requires, and the collaboration between Santillana's broad humanistic scholarship and von Dechend's technical archaeoastronomy and Babylonian astronomy made the synthesis possible.
+הספר מאורגן על פני בערך 500 עמודים של ניתוח המכסים מסורות מיתולוגיות בין-תרבותיות מסופוטמיות, מצריות, וודיות, איראניות, נורדיות, פיניות, פולינזיות, מסואמריקאיות, ואחרות. רוחב המעורבות הוא אחת התכונות הייחודיות של הספר — אף חוקר יחיד של המאה ה-20 לא שלט בכל התחומים הללו ברמת העומק שהפרויקט דורש, ושיתוף הפעולה בין הלימוד ההומניסטי הרחב של סנטיליאנה לבין הארכאואסטרונומיה הטכנית והאסטרונומיה הבבלית של פון דכנד אפשר את הסינתזה.
 
-### The principal mythological motifs
+### המוטיבים המיתולוגיים העיקריים
 
-Santillana and von Dechend identify several principal mythological motifs that they read as preserving precessional content:
+סנטיליאנה ופון דכנד מזהים כמה מוטיבים מיתולוגיים עיקריים שהם קוראים כמשמרים תוכן נקיפתי:
 
-#### The cosmic mill (Hamlet's Mill itself)
+#### הטחנה הקוסמית (טחנת המלט עצמה)
 
-The book's title comes from the Norse-Finnish mythological complex of the **cosmic mill** — the great mill (the Finnish **Sampo**, the Icelandic **Grotti**, the Hamlet-figure Amlethus's mill) that grinds out the destiny of the world. The mill is broken at a certain cosmic moment, producing a catastrophic disruption of the cosmic order. The framework's reading: the cosmic mill represents the precessional motion itself (the slow circular grinding of the celestial pole around the celestial sphere), and the "breaking" of the mill represents the precessional shift from one Age to the next, with the catastrophic implications attributed to such transitions in the broader cyclic-cosmology tradition.
+כותרת הספר באה מהמתחם המיתולוגי הנורדי-פיני של **הטחנה הקוסמית** — הטחנה הגדולה (ה**סַמפּוֹ** הפיני, ה**גרוטי** האיסלנדי, טחנת דמות המלט אַמלֵתוּס) הטוחנת את גורל העולם. הטחנה נשברת ברגע קוסמי מסוים, ומפיקה שיבוש קטסטרופלי של הסדר הקוסמי. קריאת המסגרת: הטחנה הקוסמית מייצגת את תנועת הנקיפה עצמה (הטחינה המעגלית האיטית של הקוטב השמיימי סביב הספרה השמיימית), ו»שבירת« הטחנה מייצגת את היסט הנקיפה מעידן אחד למשנהו, עם ההשלכות הקטסטרופליות המיוחסות למעברים כאלה במסורת קוסמולוגיית המחזורים הרחבה יותר.
 
-#### Hamlet / Amlethus
+#### המלט / אַמלֵתוּס
 
-The mythological figure of **Hamlet** (Saxo Grammaticus's *Amlethus*, the Old Norse *Amloði*, ultimately related to the broader Indo-European *Aml-* root) is read by Santillana and von Dechend as preserving content about the precessional cycle and the cosmic transitions. The Hamlet-figure is a recurring archetype across multiple cultures (the Finnish Kullervo, the Iranian Kai Khusrau, the various heroic figures who deal with cosmic disruption). The Shakespeare *Hamlet* (c. 1600) is read as a late literary recovery of the broader Indo-European Hamlet-myth complex.
+הדמות המיתולוגית של **המלט** (אַמלֵתוּס של סקסו גרמטיקוס, אַמלוֹדִי בנורדית עתיקה, הקשור בסופו של דבר לשורש ההודו-אירופי הרחב יותר אַמל-) נקראת על ידי סנטיליאנה ופון דכנד כמשמרת תוכן על מחזור הנקיפה והמעברים הקוסמיים. דמות המלט היא ארכיטיפ חוזר ונשנה על פני תרבויות מרובות (קוּלֶרבוֹ הפיני, קַי חוּסראו האיראני, הדמויות הגיבורות השונות המתמודדות עם שיבוש קוסמי). ה-*המלט* של שייקספיר (בערך 1600) נקרא כשחזור ספרותי מאוחר של מתחם מיתוס המלט ההודו-אירופי הרחב יותר.
 
-#### Kullervo and the Sampo
+#### קוּלֶרבוֹ והסַמפּוֹ
 
-The **Finnish** mythological complex preserved in the *Kalevala* (compiled by Elias Lönnrot 1835–1849 from earlier Karelian oral tradition) includes substantial material that Santillana and von Dechend read as preserving precessional content. The forging of the **Sampo** (a magical mill or device of cosmic power, forged by the smith Ilmarinen), its theft by the witch Louhi, and its eventual breaking at sea is read as preserving content about cosmic-cycle transitions. The Kullervo cycle within the *Kalevala* is read as a related Indo-European heroic-cycle narrative.
+המתחם המיתולוגי **הפיני** שנשמר ב-*קַלֶוַלָה* (שערך אֵליאס לֶנרוֹט בין 1835–1849 ממסורת קַרֶליאנית בעל-פה מוקדמת יותר) כולל חומר מהותי שסנטיליאנה ופון דכנד קוראים כמשמר תוכן נקיפתי. הצְריפת ה**סַמפּוֹ** (טחנה קסומה או מכשיר בעל עוצמה קוסמית, שנצרף על ידי הנפח אִילמרינן), גניבתו על ידי המכשפה לוּהי, ושבירתו בסופו של דבר בים נקראים כמשמרים תוכן על מעברי מחזור קוסמי. מחזור קוּלֶרבוֹ בתוך ה-*קַלֶוַלָה* נקרא כסיפור מחזור-גיבורים הודו-אירופי קשור.
 
-#### Osiris-Set in Egyptian tradition
+#### אוסיריס-סת במסורת המצרית
 
-The **Egyptian** mythological complex of **Osiris** — his killing by **Set** and the **72 conspirators**, his dismemberment into 14 pieces, his subsequent resurrection by Isis — is read by Santillana and von Dechend as preserving substantial precessional content. The 72 conspirators connect to the 72-year Great Day (one degree of precession). The 14 pieces of Osiris's body (with the missing piece, Osiris's phallus, never recovered — Isis substituted a wooden replica) may connect to the lunar cycle and the broader astronomical content. Plutarch's *De Iside et Osiride* (c. 100 CE) preserves the most extensive surviving account.
+המתחם המיתולוגי **המצרי** של **אוסיריס** — הריגתו על ידי **סת** וה-**72 הקושרים**, ביתורו ל-14 חתיכות, תחייתו לאחר מכן על ידי איזיס — נקרא על ידי סנטיליאנה ופון דכנד כמשמר תוכן נקיפתי מהותי. 72 הקושרים מתחברים ליום הגדול בן 72 השנה (דרגה אחת של נקיפה). 14 חלקי גופו של אוסיריס (כאשר החלק החסר, אבר אוסיריס, אף פעם לא נמצא — איזיס החליפה אותו ברפליקת עץ) עשויים להתחבר למחזור הירח ולתוכן האסטרונומי הרחב יותר. *על איזיס ואוסיריס* של פלוטרכוס (בערך 100 לספירה) משמר את הדיווח השורד הנרחב ביותר.
 
-#### The cosmic axis / world tree / pillar of heaven
+#### הציר הקוסמי / עץ העולם / עמוד השמיים
 
-The cross-cultural mythological motif of the **cosmic axis** (the **axis mundi**) — the world tree (Yggdrasil in Norse, the cosmic *skambha* in Vedic, the cosmic pillar in Mesopotamian tradition, the cosmic mountain in Mesoamerican tradition) — is read as preserving content about the celestial pole and the precessional motion of the pole around the celestial sphere. The frequent mythological theme of the **breaking** or **falling** of the cosmic axis represents the precessional shift of the celestial pole position.
+המוטיב המיתולוגי הבין-תרבותי של **הציר הקוסמי** (ה-**axis mundi**) — עץ העולם (יגדרסיל בנורדית, ה-*סקַמְבְּהָה* הקוסמי בוודית, עמוד השמיים במסורת המסופוטמית, ההר הקוסמי במסורת המסואמריקאית) — נקרא כמשמר תוכן על הקוטב השמיימי ועל תנועת הנקיפה של הקוטב סביב הספרה השמיימית. נושא המיתולוגי השכיח של **שבירת** או **נפילת** הציר הקוסמי מייצג את היסט הנקיפה של עמדת הקוטב השמיימי.
 
-#### The cosmic flood and the four ages
+#### המבול הקוסמי וארבעת העידנים
 
-The cross-cultural **flood narratives** (the Mesopotamian *Atrahasis* and *Gilgamesh*, the biblical Noahide flood, the Hindu *Manu* flood, the Greek *Deucalion*, the broader cross-cultural deluge tradition) are read as preserving content about cosmic-cycle transitions, with the floods occurring at precessional Age boundaries. The Hesiodic and Hindu **four-age** doctrines (Gold/Silver/Bronze/Iron in Hesiod; Satya/Treta/Dvapara/Kali in the Hindu yuga) similarly preserve cyclic-time content.
+**סיפורי המבול** הבין-תרבותיים (ה-*אַטרַחַסיס* וה-*גילגמש* המסופוטמיים, מבול נח המקראי, מבול *מַנוּ* ההינדואי, *דֵוּקַליוֹן* היווני, מסורת המבול הבין-תרבותית הרחבה יותר) נקראים כמשמרים תוכן על מעברי מחזור קוסמי, כאשר המבולים מתרחשים בגבולות עידן נקיפתיים. דוקטרינות **ארבעת העידנים** של הסיודוס וההינדואית (זהב/כסף/ברונזה/ברזל בהסיודוס; סטיה/טרטה/דְוַאפַּרַה/קלי ביוגה ההינדואית) משמרות באופן דומה תוכן זמן-מחזורי.
 
-### The scholarly reception
+### הקבלה האקדמית
 
-The reception of *Hamlet's Mill* in mainstream scholarship has been mixed:
+הקבלה של *טחנת המלט* בלימוד המיינסטרים הייתה מעורבת:
 
-- **The book has been substantially influential** in the broader archaeoastronomy field that emerged in the 1970s and 1980s, including the work of **Ed Krupp** (Griffith Observatory), **Anthony Aveni** (Mesoamerican archaeoastronomy), and others. The broader archaeoastronomical engagement with precession in ancient cultures has substantially confirmed some of Santillana and von Dechend's specific claims (particularly the Egyptian temple alignments on Thuban as the Old Kingdom pole star, the broader Mesoamerican astronomical sophistication).
-- **The book has been substantially skeptically received** by mainstream classicists, historians of astronomy, and folklorists, who have argued that the cross-cultural correspondences identified are too loose to support the strong claim of systematic precessional transmission, and that the methodology lacks rigorous criteria for distinguishing precessional content from independently-arising cross-cultural patterns.
-- **The book's specific claims about Neolithic discovery of precession** are particularly contested. The mainstream-academic position is that the empirical evidence for pre-Hipparchian astronomical observation is limited and does not clearly support the strong claim of Neolithic precessional knowledge.
+- **הספר היה משפיע באופן מהותי** בשדה הארכאואסטרונומיה הרחב יותר שצמח בשנות ה-70 וה-80, כולל עבודתם של **אד קראפ** (מצפה גריפית'), **אנתוני אבני** (ארכאואסטרונומיה מסואמריקאית), ואחרים. המעורבות הארכאואסטרונומית הרחבה יותר עם הנקיפה בתרבויות עתיקות אישרה באופן מהותי חלק מהטענות הספציפיות של סנטיליאנה ופון דכנד (במיוחד יישורי המקדשים המצריים על תוּבַּן ככוכב הקוטב של הממלכה העתיקה, התחכום האסטרונומי המסואמריקאי הרחב יותר).
+- **הספר נתקבל באופן ספקני מהותי** על ידי קלאסיציסטים, היסטוריונים של האסטרונומיה, ופולקלוריסטים של המיינסטרים, שטענו שההתאמות הבין-תרבותיות שזוהו רופפות מדי לתמיכה בטענה החזקה של העברה נקיפתית שיטתית, ושהמתודולוגיה חסרת קריטריונים קפדניים להבחנה בין תוכן נקיפתי לבין דפוסים בין-תרבותיים העולים באופן עצמאי.
+- **הטענות הספציפיות של הספר על גילוי נאוליתי של הנקיפה** מוכחשות במיוחד. עמדת המיינסטרים-אקדמי היא שהראיה האמפירית לתצפית אסטרונומית פרה-היפרכית מוגבלת ואינה תומכת בבירור בטענה החזקה של ידע נקיפתי נאוליתי.
 
-The framework's adopted position is **broadly sympathetic** to the *Hamlet's Mill* thesis. The corpus's broader interpretive work — particularly the reading of source-tradition material as preserving operational content from the Elohim project — is substantially consistent with the *Hamlet's Mill* claim that pre-Hipparchian astronomical content is preserved in mythological form. The framework treats the specific empirical resolution of the thesis as one of the field's principal open questions while engaging the substantive content with serious interest.
+עמדת המסגרת שאומצה היא **אוהדת באופן רחב** לתזת *טחנת המלט*. העבודה הפרשנית הרחבה יותר של הקורפוס — במיוחד הקריאה של חומר מסורת המקור כמשמר תוכן מבצעי מפרויקט האלוהים — עולה בקנה אחד באופן מהותי עם הטענה של *טחנת המלט* שתוכן אסטרונומי פרה-היפרכי נשמר בצורה מיתולוגית. המסגרת מתייחסת לפתרון האמפירי הספציפי של התזה כאחת השאלות הפתוחות העיקריות של השדה תוך מעורבות עם התוכן המהותי בעניין רציני.
 
-## In the Wheel of Heaven framework
+## במסגרת »גלגל השמיים«
 
-The framework's reading of the Great Year is multilayered. The mainstream astronomical phenomenon is treated as established empirical content; the substantive framework moves concern the historical-mythological and chronological-interpretive significance of the full cycle.
+קריאת המסגרת לשנה הגדולה היא רב-שכבתית. התופעה האסטרונומית של המיינסטרים מטופלת כתוכן אמפירי מבוסס; המהלכים המסגרתיים המהותיים נוגעים למשמעות הכרונולוגית-פרשנית וההיסטורית-מיתולוגית של המחזור המלא.
 
-### The Great Year as the duration of the Elohim project
+### השנה הגדולה כמשך פרויקט האלוהים
 
-The framework's most substantive interpretive position concerning the Great Year is that **approximately one complete Great Year corresponds to the duration of the Elohim project on Earth**. The principal connections:
+עמדת הפרשנות המסגרתית המהותית ביותר ביחס לשנה הגדולה היא ש**בערך שנה גדולה שלמה אחת מתאימה למשך פרויקט האלוהים על פני כדור הארץ**. הקישורים העיקריים:
 
-- The Vorilhon source material's central claim that the Elohim arrived on Earth and began their operational project approximately **25,000 years ago** corresponds to approximately one Great Year on the modern astronomical reckoning (25,772 years) or 96% of one Great Year on the traditional reckoning (25,920 years)
-- The framework's chronological reading places the principal human-synthesis event in the **Age of Leo** (c. 13,170 – 11,010 BCE), with the {% wiki(slug="eden") %}Eden{% end %} phase, the antediluvian Adamite period, and the broader prophetic record continuing through the subsequent Ages
-- The contemporary period (early 21st century CE) is approximately **12,000-15,000 years after** the principal synthesis event, corresponding to approximately **half of the Great Year** — placing humanity at approximately the midpoint of the precessional cycle from the synthesis event
-- The framework's reading of the **Age of {% wiki(slug="apocalypse") %}Apocalypse{% end %}** (treated in the dedicated entry) as the recovery and recognition phase places the contemporary period at the substantive transition from the Elohim's covert operational supervision to the broader recognition phase
+- הטענה המרכזית של חומר המקור של וורילון שהאלוהים הגיעו לכדור הארץ והחלו את הפרויקט המבצעי שלהם לפני בערך **25,000 שנה**{{ cite(id="the-book-which-tells-the-truth", text="[3]", title="וורילון (ראל), *הספר שאומר את האמת* (1974) — מקור עיקרי לכרונולוגיה של פרויקט האלוהים בן ~25,000 השנה של המסגרת") }} מתאימה לבערך שנה גדולה אחת על פי החשבון האסטרונומי המודרני (25,772 שנה) או 96% משנה גדולה אחת על פי החשבון המסורתי (25,920 שנה)
+- הקריאה הכרונולוגית של המסגרת ממקמת את אירוע הסינתזה האנושית העיקרי ב**עידן אריה** (בערך 13,170 – 11,010 לפנה»ס), כאשר שלב {% wiki(slug="eden") %}עדן{% end %}, התקופה האדאמית הטרום-מבולית, והתיעוד הנבואי הרחב יותר ממשיכים לאורך העידנים הבאים
+- התקופה העכשווית (תחילת המאה ה-21 לספירה) היא בערך **12,000-15,000 שנה לאחר** אירוע הסינתזה העיקרי, המתאים לבערך **חצי שנה גדולה** — ממקמת את האנושות בערך באמצע מחזור הנקיפה מאירוע הסינתזה
+- קריאת המסגרת ל**עידן {% wiki(slug="apocalypse") %}האפוקליפסה{% end %}** (המטופל בערך הייעודי) כשלב ההחלמה וההכרה ממקמת את התקופה העכשווית במעבר המהותי מהפיקוח המבצעי החשאי של האלוהים לשלב ההכרה הרחב יותר
 
-The framework reads this temporal correspondence — one Great Year approximating the duration of the Elohim project — as substantively significant. The cycle is sufficiently long that it could not be coincidental: the Elohim's project on Earth has been calibrated to the precessional cycle in a way that suggests deliberate operational use of the cycle as chronological infrastructure for the project.
+המסגרת קוראת את ההתאמה הזמנית הזו — שנה גדולה אחת מקרבת את משך פרויקט האלוהים — כמשמעותית באופן מהותי. המחזור ארוך דיו כך שלא יכול היה להיות מקרי: פרויקט האלוהים על פני כדור הארץ כוּיל למחזור הנקיפה באופן המציע שימוש מבצעי מכוון במחזור כתשתית כרונולוגית לפרויקט.
 
-### The Great Year as cosmic memory
+### השנה הגדולה כזיכרון קוסמי
 
-The framework reads the Great Year as the **temporal scope of cosmic memory** within the source-tradition material. The principal observations:
+המסגרת קוראת את השנה הגדולה כ**היקף הזמן של הזיכרון הקוסמי** בתוך חומר מסורת המקור. התצפיות העיקריות:
 
-- The cross-cultural mythological-symbolic record substantially preserves content from approximately the past Great Year (the past ~25,000 years), but content from earlier than this is substantially absent or substantially compressed
-- The Vorilhon source material's specific operational content concentrates on events of the past ~25,000 years (the principal synthesis, the broader Adamite history, the prophetic record), with content from earlier cosmic history substantially compressed or absent
-- The temporal scope of the {% wiki(slug="hebrew-bible") %}Hebrew Bible{% end %}'s narrative content (the Genesis 1 creation, the antediluvian patriarchs, the post-deluge Table of Nations, the Abrahamic and subsequent prophetic record) substantially aligns with the past Great Year scope
+- התיעוד המיתולוגי-סמלי הבין-תרבותי משמר באופן מהותי תוכן מבערך השנה הגדולה האחרונה (כ-25,000 השנים האחרונות), אך תוכן מתקופה מוקדמת יותר חסר באופן מהותי או דחוס באופן מהותי
+- התוכן המבצעי הספציפי של חומר המקור של וורילון מתרכז באירועי כ-25,000 השנים האחרונות (הסינתזה העיקרית, ההיסטוריה האדאמית הרחבה יותר, התיעוד הנבואי), כאשר תוכן מההיסטוריה הקוסמית המוקדמת יותר דחוס באופן מהותי או חסר
+- היקף הזמן של תוכן הסיפור של {% wiki(slug="hebrew-bible") %}המקרא העברי{% end %} (בריאת בראשית א, האבות הטרום-מבוליים, לוח העמים הפוסט-מבולי, התיעוד האברהמי והנבואי שלאחר מכן) מתיישר באופן מהותי עם היקף השנה הגדולה האחרונה
 
-The framework reads this pattern as substantively significant: the Great Year is approximately the temporal scope across which the source-tradition material preserves operational content, suggesting that the project's documentary record has been calibrated to the cycle of the master cosmic clock.
+המסגרת קוראת את הדפוס הזה כמשמעותי באופן מהותי: השנה הגדולה היא בערך היקף הזמן שבו חומר מסורת המקור משמר תוכן מבצעי, מה שמציע שהתיעוד התיעודי של הפרויקט כוייל למחזור של השעון הקוסמי הראשי.
 
-### The Great Year as the master cycle of the corpus
+### השנה הגדולה כמחזור הראשי של הקורפוס
 
-The framework's broader work uses the Great Year as the master temporal framework within which the twelve [Great Month](../great-month/) identifications are organized. The principal Great Month sequence within the current Great Year:
+העבודה הרחבה יותר של המסגרת משתמשת בשנה הגדולה כמסגרת הזמן הראשית שבתוכה מאורגנים שנים-עשר זיהויי [החודש הגדול](../great-month/). רצף החודש הגדול העיקרי בתוך השנה הגדולה הנוכחית:
 
-| Great Month | Approximate dates | Principal framework content |
+| חודש גדול | תאריכים בקירוב | תוכן מסגרתי עיקרי |
 |---|---|---|
-| **Age of Virgo** | c. 15,330 – 13,170 BCE | The *yom* 5 phase; synthesis of broader animal life |
-| **Age of Leo** | c. 13,170 – 11,010 BCE | The *yom* 6 phase; principal human synthesis; Eden phase |
-| **Age of Cancer** | c. 11,010 – 8,850 BCE | Post-deluge reorganisation; Younger Dryas-era catastrophic events |
-| **Age of Gemini** | c. 8,850 – 6,690 BCE | Early Neolithic; Holocene climate stabilisation |
-| **Age of Taurus** | c. 6,690 – 4,530 BCE | Sumerian and Egyptian civilisations; principal megalithic period |
-| **Age of Aries** | c. 4,530 – 2,370 BCE | Principal Hebrew prophetic period (Abraham–{% wiki(slug="moses") %}Moses{% end %}–Davidic monarchy) |
-| **Age of Pisces** | c. 1 CE – 2,160 CE | Christian era and broader subsequent religious developments |
-| **Age of Aquarius** | c. 2,160 CE onward | Contemporary recovery period; transition into the Age of Apocalypse |
+| **עידן בתולה** | בערך 15,330 – 13,170 לפנה»ס | שלב ה*יום* 5; סינתזה של חיי בעלי חיים רחבים |
+| **עידן אריה** | בערך 13,170 – 11,010 לפנה»ס | שלב ה*יום* 6; סינתזה אנושית עיקרית; שלב עדן |
+| **עידן סרטן** | בערך 11,010 – 8,850 לפנה»ס | ארגון מחדש פוסט-מבולי; אירועים קטסטרופליים מתקופת הדריאס הצעיר |
+| **עידן תאומים** | בערך 8,850 – 6,690 לפנה»ס | נאוליתי מוקדם; ייצוב אקלים הולוקני |
+| **עידן שור** | בערך 6,690 – 4,530 לפנה»ס | ציוויליזציות שומריות ומצריות; תקופה מגאליתית עיקרית |
+| **עידן טלה** | בערך 4,530 – 2,370 לפנה»ס | תקופה נבואית עברית עיקרית (אברהם–{% wiki(slug="moses") %}משה{% end %}–המלוכה הדוידית) |
+| **עידן דגים** | בערך 1 לספירה – 2,160 לספירה | העידן הנוצרי וההתפתחויות הדתיות הרחבות יותר שלאחר מכן |
+| **עידן דלי** | בערך 2,160 לספירה ואילך | תקופת ההחלמה העכשווית; מעבר לתוך עידן האפוקליפסה |
 
-The Great Year therefore organises approximately 27,500 years of corpus-relevant content from the Age of Virgo through the contemporary period. The earlier portions of the Great Year (the Ages of Libra, Scorpio, Sagittarius, Capricorn) correspond on the framework's reading to the **preparatory phases** of the Earth project — the *yamim* 1-4 of Genesis 1, the terraforming operations treated in the dedicated [Terraforming](../terraforming/) entry. The framework's complete Great Year sequence therefore covers the full Elohim project from initial terraforming through the contemporary recovery phase.
+השנה הגדולה מארגנת אם כן בערך 27,500 שנה של תוכן רלוונטי לקורפוס מעידן בתולה ועד התקופה העכשווית. החלקים המוקדמים יותר של השנה הגדולה (עידני מאזניים, עקרב, קשת, גדי) מתאימים על פי קריאת המסגרת ל**שלבי ההכנה** של פרויקט כדור הארץ — ה-*ימים* 1-4 של בראשית א, פעולות הטרהפורמינג המטופלות בערך הייעודי [טרהפורמינג](../terraforming/). רצף השנה הגדולה השלם של המסגרת מכסה אם כן את פרויקט האלוהים המלא מהטרהפורמינג ההתחלתי ועד שלב ההחלמה העכשווי.
 
-### The "world entering the Age of Aquarius"
+### »העולם נכנס לעידן הדלי«
 
-The contemporary cultural recognition that "the world is entering the Age of Aquarius" — a phrase that became culturally prominent through the 1967 song "Aquarius / Let the Sunshine In" from the Broadway musical *Hair* and has been substantially developed in subsequent esoteric and "New Age" discourse — is read by the framework as preserving popular awareness of the precessional Age transition. The specific timing of the Pisces-to-Aquarius transition is contested (different reckonings place it variously between approximately 1900 CE and 2700 CE), but the broader cultural recognition that a substantive Age transition is occurring is consistent with the framework's reading that the contemporary period is the substantive recovery and recognition phase of the broader Elohim project.
+ההכרה התרבותית העכשווית ש»העולם נכנס לעידן הדלי« — ביטוי שהפך לבולט תרבותית באמצעות השיר משנת 1967 »דלי / תן לשמש לזרוח« מהמחזמר ברודוויי *Hair* ופותח באופן מהותי בשיח האזוטרי וה»עידן החדש« שלאחר מכן — נקראת על ידי המסגרת כמשמרת מודעות עממית למעבר עידן הנקיפה. תזמון המעבר הספציפי מדגים לדלי מוכחש (חשבונות שונים ממקמים אותו באופן שונה בין בערך 1900 לספירה ל-2700 לספירה), אך ההכרה התרבותית הרחבה יותר שמעבר עידן מהותי מתרחש עולה בקנה אחד עם קריאת המסגרת שהתקופה העכשווית היא שלב ההחלמה וההכרה המהותי של פרויקט האלוהים הרחב יותר.
 
-The framework's specific Pisces-to-Aquarius transition timing is treated as approximate (c. 2,160 CE on the framework's adopted reckoning, but with ±200-year uncertainty as discussed in the [Precession](../precession/) and [Great Month](../great-month/) entries). What is substantively significant on the framework's reading is not the precise date of transition but the broader pattern: the Age of Pisces (the Christian era and the broader subsequent religious developments) is concluding, and the contemporary period is the substantive transition into a new precessional Age within which the broader corpus's interpretive recovery work is operating.
+תזמון המעבר הספציפי של דגים-לדלי של המסגרת מטופל כקירוב (בערך 2,160 לספירה על פי החשבון המאומץ של המסגרת, אך עם אי-ודאות של ±200 שנה כפי שנידון בערכי [נקיפה](../precession/) ו[החודש הגדול](../great-month/)). מה שמשמעותי באופן מהותי על פי קריאת המסגרת אינו התאריך המדויק של המעבר אלא הדפוס הרחב יותר: עידן הדגים (העידן הנוצרי וההתפתחויות הדתיות הרחבות יותר שלאחר מכן) מסתיים, והתקופה העכשווית היא המעבר המהותי לעידן נקיפה חדש שבו עבודת ההחלמה הפרשנית הרחבה יותר של הקורפוס פועלת.
 
-## Connections to the broader framework
+## חיבורים למסגרת הרחבה יותר
 
-The Great Year entry connects to several specific corpus entries.
+ערך השנה הגדולה מתחבר לכמה ערכי קורפוס ספציפיים.
 
-**The Precession entry.** The dedicated [Precession](../precession/) entry treats the astronomical phenomenon itself; the Great Year is one complete cycle of the phenomenon.
+**ערך הנקיפה.** ערך [נקיפה](../precession/) הייעודי מטפל בתופעה האסטרונומית עצמה; השנה הגדולה היא מחזור שלם אחד של התופעה.
 
-**The Great Month entry.** The dedicated [Great Month](../great-month/) entry treats the twelfth-of-the-Great-Year unit; the Great Year is the master cycle of which the Great Months are subdivisions.
+**ערך החודש הגדול.** ערך [החודש הגדול](../great-month/) הייעודי מטפל ביחידת השניים-עשרית-של-שנה-גדולה; השנה הגדולה היא המחזור הראשי שהחודשים הגדולים הם חלוקות המשנה שלו.
 
-**The World Age entry.** The dedicated [World Age](../world-age/) entry treats the broader cross-cultural doctrine of cosmic ages; the Great Year is one specific articulation of this broader doctrine.
+**ערך עידן עולם.** ערך [עידן עולם](../world-age/) הייעודי מטפל בדוקטרינה הבין-תרבותית הרחבה יותר של עידני העולם; השנה הגדולה היא ביטוי ספציפי אחד של הדוקטרינה הרחבה הזו.
 
-**The individual Age entries.** The dedicated entries on each Great Month develop the specific content of each Age within the Great Year framework.
+**ערכי העידנים האינדיבידואליים.** הערכים הייעודיים על כל חודש גדול מפתחים את התוכן הספציפי של כל עידן במסגרת השנה הגדולה.
 
-**The Genesis entry.** The dedicated [Genesis](../genesis/) entry treats the *yamim* sequence; the framework reads the seven *yamim* as the seven precessional Ages constituting one half of a Great Year on the broader reckoning.
+**ערך בראשית.** ערך [בראשית](../genesis/) הייעודי מטפל ברצף ה-*ימים*; המסגרת קוראת את שבעת ה-*ימים* כשבעת עידני הנקיפה המהווים מחצית אחת של שנה גדולה על פי החשבון הרחב יותר.
 
-**The Hamlet's Mill thesis.** Treated principally in the present entry and in the [Precession](../precession/) entry; the dedicated [List of mythemes and mythological motifs](../list-of-mythemes-and-mythological-motifs/) entry develops the specific mythological motifs that Santillana and von Dechend identify.
+**תזת טחנת המלט.** מטופלת בעיקרה בערך הנוכחי ובערך [נקיפה](../precession/); ערך [רשימת המיתמות והמוטיבים המיתולוגיים](../list-of-mythemes-and-mythological-motifs/) הייעודי מפתח את המוטיבים המיתולוגיים הספציפיים שסנטיליאנה ופון דכנד מזהים.
 
-**The Age of Apocalypse.** The dedicated [Age of Apocalypse](../age-of-apocalypse/) entry treats the framework's reading of the contemporary period as the recovery and recognition phase; the Great Year entry establishes the broader temporal framework within which the contemporary transition is occurring.
+**עידן האפוקליפסה.** ערך [עידן האפוקליפסה](../age-of-apocalypse/) הייעודי מטפל בקריאת המסגרת של התקופה העכשווית כשלב ההחלמה וההכרה; ערך השנה הגדולה מבסס את מסגרת הזמן הרחבה יותר שבתוכה מתרחש המעבר העכשווי.
 
-**The Forerunners and Elohim.** The dedicated [Forerunners](../forerunners/) and [Elohim](../elohim/) entries treat the broader chain-of-designers in which the Elohim are positioned; the Great Year is approximately the duration of one Elohim project on Earth, with multiple Great Years likely required for the broader chain of life-propagation across the universe.
+**הקודמים והאלוהים.** הערכים הייעודיים [הקודמים](../forerunners/) ו[אלוהים](../elohim/) מטפלים בשרשרת המתכננים הרחבה יותר שבה האלוהים ממוקמים; השנה הגדולה היא בערך משך פרויקט אלוהים אחד על פני כדור הארץ, כאשר שנים גדולות מרובות נדרשות סבירות לשרשרת הרחבה יותר של הפצת חיים ברחבי היקום.
 
-## Open questions
+## שאלות פתוחות
 
-The Great Year entry surfaces several open questions for the framework's broader interpretive work.
+ערך השנה הגדולה מעלה כמה שאלות פתוחות לעבודה הפרשנית הרחבה יותר של המסגרת.
 
-- **The empirical resolution of the pre-Hipparchian discovery question.** The mainstream-academic position holds that precession was first identified by Hipparchus c. 129 BCE. The *Hamlet's Mill* thesis and subsequent archaeoastronomy work substantively contest this position. The framework's adopted reading is broadly sympathetic to the earlier-discovery position but treats the specific empirical resolution as open.
-- **The reconciliation of the modern astronomical (25,772 years) and traditional (25,920 years) reckonings.** The corpus uses both depending on context. Whether the corpus should converge on one as the principal reckoning is treated as open.
-- **The specific operational use of the Great Year by the Elohim.** The framework reads the Great Year as approximately the duration of the Elohim project, suggesting deliberate operational calibration to the precessional cycle. The specific operational use (navigation, chronological infrastructure, project-management framework, broader cosmic-pattern alignment) is treated as open.
-- **The relationship to the Hindu *yuga* and *kalpa* cycles.** The substantial numerical correspondences between the Hindu cyclic-cosmology arithmetic and the precessional Great Year are striking, but the specific relationship — whether the Hindu numbers derive from precessional astronomy, develop independently with secondary precessional correspondence, or relate through some other mechanism — is treated as open.
-- **The Mesoamerican Long Count and 2012 phenomenon.** The numerical correspondence between the 5,125-year Mesoamerican Great Cycle and approximately one-fifth of the precessional Great Year is substantively interesting, but the specific question of whether the Mesoamerican tradition explicitly encoded precessional content is treated as open.
-- **The Yukteshwar 24,000-year cycle.** The 19th-century Indian astrological tradition associated with Sri Yukteshwar uses a 24,000-year *yuga* cycle that does not match the standard Puranic figures but substantially matches the actual Great Year. Whether the Yukteshwar reading preserves substantive earlier content or is a 19th-century reinterpretation is treated as open.
+- **הפתרון האמפירי של שאלת הגילוי הפרה-היפרכי.** עמדת המיינסטרים-אקדמי גורסת שהנקיפה זוהתה לראשונה על ידי היפרכוס בערך 129 לפנה»ס. תזת *טחנת המלט* ועבודת הארכאואסטרונומיה שלאחר מכן חולקות באופן מהותי על עמדה זו. קריאת המסגרת שאומצה אוהדת באופן רחב לעמדת הגילוי המוקדם יותר אך מתייחסת לפתרון האמפירי הספציפי כפתוח.
+- **התאמת החשבונות האסטרונומי המודרני (25,772 שנה) והמסורתי (25,920 שנה).** הקורפוס משתמש בשניהם בהתאם להקשר. האם הקורפוס צריך להתכנס על אחד כחשבון העיקרי נחשב כפתוח.
+- **השימוש המבצעי הספציפי של השנה הגדולה על ידי האלוהים.** המסגרת קוראת את השנה הגדולה כבערך משך פרויקט האלוהים, מציעה כיוונון מבצעי מכוון למחזור הנקיפה. השימוש המבצעי הספציפי (ניווט, תשתית כרונולוגית, מסגרת לניהול פרויקטים, יישור דפוסים קוסמיים רחב יותר) נחשב כפתוח.
+- **הקשר למחזורי ה-*יוגה* וה-*קלפה* ההינדואיים.** ההתאמות המספריות המהותיות בין חשבון הקוסמולוגיה ההינדואית המחזורית לבין השנה הגדולה הנקיפתית בולטות, אך מערכת היחסים הספציפית — האם המספרים ההינדואיים נגזרים מאסטרונומיית הנקיפה, מתפתחים באופן עצמאי עם התאמה נקיפתית משנית, או קשורים באמצעות מנגנון אחר — נחשבת כפתוחה.
+- **הספירה הארוכה המסואמריקאית ותופעת 2012.** ההתאמה המספרית בין המחזור הגדול המסואמריקאי בן 5,125 שנה לבין בערך חמישית מהשנה הגדולה הנקיפתית מעניינת באופן מהותי, אך השאלה הספציפית האם המסורת המסואמריקאית קודדה במפורש תוכן נקיפתי נחשבת כפתוחה.
+- **מחזור 24,000 השנה של יוקטשוואר.** המסורת האסטרולוגית ההודית של המאה ה-19 המיוחסת לסרי יוקטשוואר משתמשת במחזור *יוגה* בן 24,000 שנה שאינו תואם את הנתונים הפוראניים הסטנדרטיים אך תואם באופן מהותי את השנה הגדולה בפועל. האם קריאת יוקטשוואר משמרת תוכן מוקדם מהותי או היא פרשנות מחדש של המאה ה-19 נחשב כפתוח.
 
-## See also
+## ראו גם
 
-- [Precession](../precession/)
-- [Great Month](../great-month/)
-- [World Age](../world-age/)
-- [Age of Virgo](../timeline/age-of-virgo/)
-- [Age of Leo](../timeline/age-of-leo/)
-- [Age of Cancer](../timeline/age-of-cancer/)
-- [Age of Gemini](../timeline/age-of-gemini/)
-- [Age of Taurus](../timeline/age-of-taurus/)
-- [Age of Aries](../timeline/age-of-aries/)
-- [Age of Pisces](../timeline/age-of-pisces/)
-- [Age of Aquarius](../timeline/age-of-aquarius/)
-- [Age of Apocalypse](../age-of-apocalypse/)
-- [Genesis](../genesis/)
-- [Terraforming](../terraforming/)
-- [List of mythemes and mythological motifs](../list-of-mythemes-and-mythological-motifs/)
-- [List of exegetic readings](../list-of-exegetic-readings/)
-- [List of megalithic sites](../list-of-megalithic-sites/)
+- [נקיפה](../precession/)
+- [החודש הגדול](../great-month/)
+- [עידן עולם](../world-age/)
+- [עידן בתולה](../timeline/age-of-virgo/)
+- [עידן אריה](../timeline/age-of-leo/)
+- [עידן סרטן](../timeline/age-of-cancer/)
+- [עידן תאומים](../timeline/age-of-gemini/)
+- [עידן שור](../timeline/age-of-taurus/)
+- [עידן טלה](../timeline/age-of-aries/)
+- [עידן דגים](../timeline/age-of-pisces/)
+- [עידן דלי](../timeline/age-of-aquarius/)
+- [עידן האפוקליפסה](../age-of-apocalypse/)
+- [בראשית](../genesis/)
+- [טרהפורמינג](../terraforming/)
+- [רשימת מיתמות ומוטיבים מיתולוגיים](../list-of-mythemes-and-mythological-motifs/)
+- [רשימת קריאות אקסגטיות](../list-of-exegetic-readings/)
+- [רשימת אתרים מגאליתיים](../list-of-megalithic-sites/)
 
-## External links
+## קישורים חיצוניים
 
 - [Great Year | Wikipedia](https://en.wikipedia.org/wiki/Great_Year)
 - [Astrological age | Wikipedia](https://en.wikipedia.org/wiki/Astrological_age)
 - [Plato, Timaeus | Perseus Digital Library](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0179)
 - [Hamlet's Mill | Wikipedia](https://en.wikipedia.org/wiki/Hamlet%27s_Mill)
 
-## References
+## הפניות
 
-Vorilhon, Claude (Raël). *Le Livre qui dit la vérité* (1974) and *Les extra-terrestres m'ont emmené sur leur planète* (1976), collected as *Message from the Designers* (Raëlian Foundation, current English edition). [Primary source for the framework's reading of the Elohim project's ~25,000-year duration corresponding to approximately one Great Year.]
+Vorilhon, Claude (Raël). *Le Livre qui dit la vérité* (1974) and *Les extra-terrestres m'ont emmené sur leur planète* (1976), collected as *Message from the Designers* (Raëlian Foundation, current English edition). [מקור עיקרי לקריאת המסגרת של משך פרויקט האלוהים בן ~25,000 השנה המתאים בערך לשנה גדולה אחת.]
 
-Santillana, Giorgio de, and Hertha von Dechend. *Hamlet's Mill: An Essay on Myth and the Frame of Time*. Boston: Gambit, 1969. [The foundational scholarly engagement with the thesis that pre-Hipparchian global mythology systematically encodes precessional Great Year content.]
+Santillana, Giorgio de, and Hertha von Dechend. *Hamlet's Mill: An Essay on Myth and the Frame of Time*. Boston: Gambit, 1969. [המעורבות האקדמית היסודית עם התזה שהמיתולוגיה הגלובלית הפרה-היפרכית מקודדת באופן שיטתי את תוכן השנה הגדולה הנקיפתית.]
 
-Plato. *Timaeus*. c. 360 BCE. Standard English translation: *Plato: Complete Works*, edited by John M. Cooper. Hackett, 1997. [The foundational philosophical source for the Magnus Annus / Great Year concept, with the *teleios eniautos* passage at *Timaeus* 39d.]
+Plato. *Timaeus*. c. 360 BCE. Standard English translation: *Plato: Complete Works*, edited by John M. Cooper. Hackett, 1997. [המקור הפילוסופי היסודי למושג Magnus Annus / השנה הגדולה, עם קטע ה-*teleios eniautos* ב-*טימאיוס* 39d.]
 
-Cicero. *De Natura Deorum*. c. 45 BCE. [The principal Latin source for the post-Platonic Magnus Annus tradition.]
+Cicero. *De Natura Deorum*. c. 45 BCE. [המקור הלטיני העיקרי למסורת ה-Magnus Annus הפוסט-אפלטונית.]
 
-Censorinus. *De Die Natali*. c. 238 CE. [Preserves the various ancient calculations of the Great Year (Heraclitus, Aristarchus, Diogenes of Babylonia).]
+Censorinus. *De Die Natali*. c. 238 CE. [משמר את החישובים העתיקים השונים של השנה הגדולה (הרקליטוס, אריסטרכוס, דיוגנס מבבל).]
 
-Ptolemy, Claudius. *Almagest*. c. 150 CE. Standard English translation: *Ptolemy's Almagest*, translated by G. J. Toomer. Princeton University Press, 1998. [The principal source for the 36,000-year Great Year figure that dominated the medieval Western tradition.]
+Ptolemy, Claudius. *Almagest*. c. 150 CE. Standard English translation: *Ptolemy's Almagest*, translated by G. J. Toomer. Princeton University Press, 1998. [המקור העיקרי לנתון השנה הגדולה של 36,000 שנה שדומיננטי במסורת המערבית של ימי הביניים.]
 
-Plutarch. *De Iside et Osiride*. c. 100 CE. [Preserves the Egyptian Osiris-Set tradition with the 72 conspirators, a principal cross-cultural mythological motif identified by Santillana and von Dechend as preserving precessional content.]
+Plutarch. *De Iside et Osiride*. c. 100 CE. [משמר את מסורת אוסיריס-סת המצרית עם 72 הקושרים, מוטיב מיתולוגי בין-תרבותי עיקרי שזיהו סנטיליאנה ופון דכנד כמשמר תוכן נקיפתי.]
 
-Lönnrot, Elias, compiler. *Kalevala*. 1835 (first edition), 1849 (expanded second edition). [The compiled Finnish national epic, principal source for the Sampo and Kullervo mythological cycles that Santillana and von Dechend identify as preserving precessional content.]
+Lönnrot, Elias, compiler. *Kalevala*. 1835 (first edition), 1849 (expanded second edition). [האפוס הלאומי הפיני המורכב, מקור עיקרי למחזורים המיתולוגיים של סמפו וקולרבו שסנטיליאנה ופון דכנד מזהים כמשמרים תוכן נקיפתי.]
 
-Saxo Grammaticus. *Gesta Danorum*. c. 1200. [Source for the Amlethus tradition that gives *Hamlet's Mill* its title.]
+Saxo Grammaticus. *Gesta Danorum*. c. 1200. [מקור למסורת אַמלֵתוּס שמעניקה ל-*טחנת המלט* את כותרתו.]
 
-Hesiod. *Works and Days*. c. 700 BCE. [Source for the Greek Four Ages tradition.]
+Hesiod. *Works and Days*. c. 700 BCE. [מקור למסורת ארבעת העידנים היוונית.]
 
-Yukteshwar Giri, Swami Sri. *The Holy Science (Kaivalya Darsanam)*. Yogoda Satsanga Society of India, 1894. [The principal Indian tradition treating the *yuga* cycle as a 24,000-year precessional cycle.]
+Yukteshwar Giri, Swami Sri. *The Holy Science (Kaivalya Darsanam)*. Yogoda Satsanga Society of India, 1894. [המסורת ההודית העיקרית המתייחסת למחזור ה-*יוגה* כמחזור נקיפה בן 24,000 שנה.]
 
-Blavatsky, Helena Petrovna. *The Secret Doctrine*. Theosophical Publishing Company, 1888. [The 19th-century theosophical revival of the Magnus Annus and broader cross-cultural cosmic-cycle traditions.]
+Blavatsky, Helena Petrovna. *The Secret Doctrine*. Theosophical Publishing Company, 1888. [התחיה התיאוסופית של המאה ה-19 של ה-Magnus Annus והמסורות הקוסמיות-מחזוריות הבין-תרבותיות הרחבות יותר.]
 
-Biglino, Mauro. *Il libro che cambierà per sempre le nostre idee sulla Bibbia*. Mondadori, 2011. [Source for the framework-relevant reading of precession as potential Elohim/Anunnaki navigation infrastructure.]
+Biglino, Mauro. *Il libro che cambierà per sempre le nostre idee sulla Bibbia*. Mondadori, 2011. [מקור לקריאה רלוונטית-למסגרת של הנקיפה כתשתית ניווט פוטנציאלית של האלוהים/האנונאקי.]
 
-Cruttenden, Walter. *Lost Star of Myth and Time*. St. Lynn's Press, 2006. [Contemporary popular treatment of the cross-cultural Great Year tradition.]
+Cruttenden, Walter. *Lost Star of Myth and Time*. St. Lynn's Press, 2006. [טיפול פופולרי עכשווי של מסורת השנה הגדולה הבין-תרבותית.]
 
-Ulansey, David. *The Origins of the Mithraic Mysteries: Cosmology and Salvation in the Ancient World*. Oxford University Press, 1989. [The principal contemporary scholarly engagement with precession in the context of Mithraic mysteries, with substantive application of the *Hamlet's Mill* methodology to a specific religious tradition.]
+Ulansey, David. *The Origins of the Mithraic Mysteries: Cosmology and Salvation in the Ancient World*. Oxford University Press, 1989. [המעורבות האקדמית העכשווית העיקרית עם הנקיפה בהקשר של מסתורי מיתרה, עם יישום מהותי של מתודולוגיית *טחנת המלט* למסורת דתית ספציפית.]
 
-Sellers, Jane B. *The Death of Gods in Ancient Egypt: An Essay on Egyptian {% wiki(slug="religion") %}Religion{% end %} and the Frame of Time*. Lulu, 2007 (expanded edition). [Application of the *Hamlet's Mill* methodology to Egyptian astronomical tradition.]
+Sellers, Jane B. *The Death of Gods in Ancient Egypt: An Essay on Egyptian {% wiki(slug="religion") %}Religion{% end %} and the Frame of Time*. Lulu, 2007 (expanded edition). [יישום מתודולוגיית *טחנת המלט* למסורת האסטרונומית המצרית.]
 
 Krupp, E. C. *In Search of Ancient Astronomies*. Doubleday, 1978.
 
@@ -379,7 +398,7 @@ Evans, James. *The History and Practice of Ancient Astronomy*. Oxford University
 
 Neugebauer, Otto. *A History of Ancient Mathematical Astronomy*. 3 vols. Springer-Verlag, 1975.
 
-Campion, Nicholas. *The Book of World Horoscopes*. Aquarian Press, 1988 (revised editions subsequently). [Standard reference for the various proposed Age transition dates.]
+Campion, Nicholas. *The Book of World Horoscopes*. Aquarian Press, 1988 (revised editions subsequently). [הפניה סטנדרטית לתאריכי מעבר העידנים השונים שהוצעו.]
 
 "Great Year." *Wikipedia*. <https://en.wikipedia.org/wiki/Great_Year>
 

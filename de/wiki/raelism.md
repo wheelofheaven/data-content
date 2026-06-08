@@ -1,625 +1,681 @@
 +++
 title = "Raëlismus"
-description = "Raëlismus ist die durch Raël (Claude Vorilhon) seit den 1970er Jahren begründete religiös-philosophisch-politische Tradition, die auf dem Quellenkern-Kontakt mit der elohimischen Allianz aufbaut und die International Raëlian Movement als operative Träger-Institution einrichtet. Die zentralen Konfigurationen des Raëlismus umfassen: die elohimische Schöpfungs-Lehre (die Menschheit als genetisch synthetisiertes Produkt einer technologisch fortgeschrittenen außerirdischen Allianz); die unendlich-kosmologische Position (Unendlichkeit von Zeit, Raum und Skalen-Ebenen); die kosmische Kette und die Vorläufer-Lehre; das paradistische Wirtschaftsmodell und das geniokratische Politik-Modell; die humanitär-cyberparadistisch-paradistische Programmatik; die Apokalypse-Erwartung und das Goldenes-Zeitalter-Ziel; die Pflicht zur Errichtung der Botschaft als operative Aufgabe der zeitgenössischen Phase. Der Raëlismus operiert im Korpus als die zeitgenössisch institutionalisierte Tradition, in der die operative Allianz-Botschaft formell weitergeführt wird, mit Raël als dem vierzigsten Propheten und finalen Vorbote der offenen Apokalypse-Begegnung. Der Wheel of Heaven-Rahmen behandelt den Raëlismus als die zentrale Quellentradition und das primäre Korpusmaterial des breiteren Wheel-of-Heaven-Untersuchungs-Projekts."
+slug = "raelism"
+description = "Der Raëlismus ist die religiös-philosophische Bewegung, die von Raël (Claude Vorilhon) in den Jahren 1974–1976 gegründet wurde, nach seinem berichteten Kontakt am 13. Dezember 1973 mit einem Offizier der Elohim-Allianz am Krater Puy-de-Lassolas bei Clermont-Ferrand. Die Bewegung ist innerhalb der breiteren religiösen Bewegungslandschaft strukturell dadurch besonders, dass sie ausdrücklich atheistisch ist — sie lehnt eine übernatürliche Gottheit zugunsten der Elohim als fortgeschrittener biologischer Zivilisation ab, die die Menschheit durch Gentechnik geschaffen hat — und gleichzeitig erhebliche religiöse Dimensionen bewahrt: die kumulative prophetische Tradition, das Programm des Wassermann-Zeitalters, das Botschaftsprojekt und verschiedene unterscheidende raëlianische Praktiken einschließlich sensueller Meditation und der baptismalen Übertragung des Zellplans. Das institutionelle Vehikel ist die International Raëlian Movement (IRM), gegründet 1976, mit nationalen Zweigen in etwa neunzig Ländern und einer Gesamtmitgliedschaft von etwa 65.000 bis 100.000 (Zahlen variieren je nach Quelle) über den gesamten Zeitraum seit 1976."
 template = "wiki-page.html"
 toc = true
 
 [extra]
-translation_status = "metadata_only"
+featured_order = 3
 category = "Cosmology & Framework"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["the Raëlian Movement", "the International Raëlian Movement", "the Raëlian religion", "Raëlianism", "the IRM"]
+alternative_names = ["die Raëlianische Bewegung", "die International Raëlian Movement", "die raëlianische Religion", "Raëlianismus", "die IRM"]
+see_also = [
+    { title = "Raël", path = "wiki/rael", description = "Der Gründer, geboren als Claude Vorilhon, der den Kontakt von 1973 berichtete." },
+    { title = "The Truth", path = "wiki/the-truth", description = "Das erste Buch von 1974, das die Botschaft der Elohim enthält." },
+    { title = "New Commandments", path = "wiki/new-commandments", description = "Der durch Raël übermittelte aktualisierte ethische Kodex." },
+    { title = "Elohim", path = "wiki/elohim", description = "Die in der raëlianischen Lesart als andernorts entstandene menschliche Zivilisation identifizierten Schöpfer." },
+    { title = "Embassy", path = "wiki/embassy", description = "Der diplomatische Komplex, den die Bewegung für die offizielle Rückkehr der Elohim errichten möchte." },
+    { title = "Geniocracy", path = "wiki/geniocracy", description = "Das politische System, das Raël vorschlägt — Herrschaft der nachweislich Intelligenten." },
+    { title = "Paradism", path = "wiki/paradism", description = "Die postknappheitsökonomische Vision, die Raël für eine vollautomatisierte Gesellschaft vorschlägt." },
+]
 timeline = ["aquarius"]
 
+footnotes = [
+    { content = "Der Puy-de-Lassolas ist einer der vulkanischen Kegel der Chaîne des Puys im Massif Central, einer kleinen Kette von etwa achtzig pleistozän- bis holozänen Schlackenkegeln und Lavadomen, die 2018 in die UNESCO-Welterbeliste aufgenommen wurde. Vorilhons Angabe des Kraters als Kontaktort wurde von wohlwollenden Wissenschaftlern (Palmer, Introvigne) als Teil des allgemeinen Musters geografisch spezifischer Angaben im Quellenmaterial gelesen, die — unabhängig von ihrem evidentiären Status — sich unabhängig anhand der physischen Landschaft überprüfen lassen." },
+    { content = "Die Spanne von 65.000–100.000 stellt die Selbstangaben der International Raëlian Movement aus institutionellen Mitteilungen den niedrigeren Schätzungen unabhängiger Beobachter und Ex-Mitglieder gegenüber. Palmers *Aliens Adored* (2004) behandelt die Zahlen der Bewegung selbst als Obergrenze und merkt an, dass Unterscheidungen zwischen aktiver und nomineller Mitgliedschaft jede einzelne Zählung erheblich erschweren; das untere Ende der Spanne spiegelt typischerweise Schätzungen aktiver getaufter Mitglieder wider, während das obere Ende die kumulative Zahl der Zellplan-Übertragungen über die gesamte Geschichte der Bewegung hinweg widerspiegelt." },
+    { content = "Die Geniokratie-Schwellen — 50 Prozent über der mittleren Intelligenz für ein Amt, 10 Prozent über dem Mittel für das Wahlrecht — verorten die Lehre innerhalb einer breiteren meritokratisch-technokratischen Tradition, zu der Platons *Politeia*, das konfuzianische kaiserliche Prüfungssystem und die Technokratiebewegung des zwanzigsten Jahrhunderts (Howard Scott, M. King Hubbert) gehören. Die etablierte politiktheoretische Auseinandersetzung (Estlund und andere zur Epistokratie) hat solche Vorschläge im Allgemeinen so behandelt, dass sie sich erheblichen praktischen Schwierigkeiten in Bezug auf Messbarkeit, Stabilität und politische Legitimität jeder mutmaßlichen Intelligenzmetrik gegenübersehen." },
+    { content = "Die Verwendung ausdrücklich christlicher kirchlicher Titel — *Priester*, *Bischof*, *Priester der Priester* — durch die raëlianische Hierarchie innerhalb eines ausdrücklich atheistischen Rahmens ist selbst ein Punkt wissenschaftlichen Interesses. Palmer liest das übernommene Vokabular als Teil der breiteren Strategie der Bewegung, überlieferte religiöse Formen in nicht-übernatürlichen Begriffen umzukodieren; Rothsteins Hagiographie-Arbeit behandelt die Titel als Teil einer bewussten Rahmung der kumulativen prophetischen Tradition, die den Raëlismus als Nachfolger derselben institutionellen Linie positioniert und nicht als sauberen Bruch mit ihr." },
+    { content = "Auf die Clonaid-Ankündigung vom 27. Dezember 2002 folgte eine vom Wissenschaftsjournalisten Michael Guillen vermittelte Vereinbarung, dass ein unabhängiges Team die Klonbehauptung durch DNA-Test des angeblichen Säuglings überprüfen sollte. Der Verifizierungsprozess wurde Anfang Januar 2003 abgebrochen, nachdem Clonaid das Kind nicht zur Verfügung stellte; Boisselier berief sich auf elterliche Ablehnung aus Sorgerechtsgründen. Eine nachträgliche unabhängige Verifizierung ist nicht erbracht worden. Die etablierte wissenschaftliche Position (American Association for the Advancement of Science, *Nature*, *Science*) ist, dass die Ankündigung eine unbelegte Behauptung darstellt und kein dokumentiertes wissenschaftliches Ereignis." },
+    { content = "Der Kontrast zu Heaven's Gate ist strukturell spezifisch und nicht lediglich chronologisch. Beide Bewegungen entstanden 1974–75; beide kreisten um einen charismatischen Gründer, der einen Rahmen außerirdischen Kontakts artikulierte; beide entwickelten erhebliche Lehrkorpora und engagierte Mitgliedschaften. Die Divergenz liegt in den Ausstiegsbedingungen, die die jeweiligen Rahmen spezifizierten — Heaven's Gates Rahmen behandelte den körperlichen Tod als operativen Abreisemechanismus mit dem Begleitschiff von Hale-Bopp, während der Rahmen des Raëlismus die Botschaft und die offene Rückkehr der Allianz als erdseitig und an die fortgesetzte institutionelle Entwicklung gebunden behandelt. Zellers *Heaven's Gate* (2014) behandelt den Vergleich unmittelbar." },
+]
+
+[[extra.references]]
+id = "the-book-which-tells-the-truth"
+note = "Grundlegender raëlianischer Text von 1974, der den Erstkontakt vom 13. Dezember 1973 in Clermont-Ferrand und die Hauptlehre von Jahwe festhält."
+
+[[extra.references]]
+id = "extraterrestrials-took-me-to-their-planet"
+note = "Vorilhons zweites Buch von 1976, das den zweiten Kontakt vom 7. Oktober 1975 und den Besuch auf dem Planeten der Ewigen festhält."
+
+[[extra.references]]
+id = "lets-welcome-the-extraterrestrials"
+note = "Vorilhons drittes Buch von 1979, das das Botschaftsprojekt, die zuvor zurückgehaltene Offenlegung der biologischen Elternschaft und den Übergang zum Wassermann behandelt."
+
+[[extra.references]]
+id = "intelligent-design-message-from-the-designers"
+note = "Die konsolidierte englische Ausgabe von 2005, die die drei grundlegenden Bücher als *Message from the Designers* zusammenfasst — der wichtigste zeitgenössische Zugang zum raëlianischen Quellenmaterial."
+
+[[extra.references]]
+id = "rael-dot-org"
+note = "Wichtigste offizielle Website der International Raëlian Movement; institutionelle Selbstdarstellung und zeitgenössische Kommunikation."
+
+[[extra.references]]
+id = "genesis"
+locator = "Genesis 1"
+note = "Der erste Schöpfungsbericht der hebräischen Bibel, im raëlianischen Rahmen gelesen als Bewahrung einer substantiell korrekten Erinnerung an die gentechnische Schöpfungsarbeit der Elohim-Zivilisation."
+
+[[extra.references]]
+id = "those-gods-who-made-heaven-and-earth"
+note = "Jean Sendys philologisch-historiographische Lesart der Elohim der hebräischen Bibel als verkörperte außerirdische Wesen (1969) — unabhängiger wissenschaftlicher Vorläufer der raëlianischen Lesart."
+
+[[extra.references]]
+id = "the-bible-is-not-a-sacred-book"
+note = "Mauro Biglinos streng wörtliche Reihe zur hebräischen Bibel (ab 2010) — unabhängige philologische Konvergenz auf die Lesart der Elohim als Pluralität körperlicher Wesen."
+
+[[extra.references]]
+id = "escaping-from-eden"
+note = "Paul Anthony Wallis' vergleichend-keilschriftliche Lesart von 2020 der Elohim der hebräischen Bibel als das sumerische Himmelsvolk — dritte unabhängige wissenschaftliche Konvergenz mit dem raëlianischen Rahmen."
+
 [extra.infobox]
-type = "Religious-philosophical movement; explicitly atheist religion based on extraterrestrial-creator framework; institutional vehicle for the embassy project and broader Aquarian-age preparation"
+type = "Religiös-philosophische Bewegung; ausdrücklich atheistische Religion auf der Grundlage eines außerirdischen Schöpferrahmens; institutionelles Vehikel für das Botschaftsprojekt und die breitere Vorbereitung des Wassermann-Zeitalters"
 founded = "1974 (MADECH); 1976 (International Raëlian Movement)"
-founder = "Raël (Claude Vorilhon, b. 1946)"
-basic_doctrine = "The Elohim, an advanced extraterrestrial civilization, created all life on Earth through genetic engineering approximately 25,000 years ago; humanity is to recognize this origin and prepare for the alliance's open return; the embassy must be built; the seven new commandments structure the Aquarian-age social-political program"
-character = "Atheist religion; rejects supernatural deity while preserving religious dimensions of awe, purpose, ethical commitment; structurally distinctive within both UFO-religion category and broader new-religious-movement landscape"
-principal_practices = "Cellular plan transmission (Raëlian baptism); sensual meditation; telepathic contact (Sundays at 11 AM); annual mountain gathering; commemoration of contact anniversaries (April 6, August 6, October 7, December 13)"
-institutional_structure = "Seven-level hierarchy of Guides; Guide of Guides (Raël) at the top; subsidiary organizations including Clonaid, Order of Angels, Alliance for Extraterrestrial Diplomatic Contact, various educational and outreach bodies"
-membership = "Approximately 65,000-100,000 (figures vary by source); national branches in approximately 90 countries; strongest in France, Canada, Japan, South Korea, Africa"
-distinguished_from = "The broader UFO-religion category (Heaven's Gate, Aetherius Society, Unarius, others); other new-religious-movements with prophet-founders (Mormonism, Scientology, Bahá'í); broader atheist/scientific religions (Comtean Religion of Humanity, Secular Humanism, Ethical Culture); the figure of Raël specifically (treated under separate entry)"
-status_in_source_material = "Substantially documented; doctrinal content principally drawn from Raëlian source material (1974-2005); institutional development principally drawn from Raëlian movement's institutional records; controversies principally drawn from contemporary journalistic and academic engagement"
-principal_text = "*The Book Which Tells the Truth* (1974); *Extra-Terrestrials Took Me to Their Planet* (1975/76); *Let's Welcome the Extra-terrestrials* (1979); *Sensual Meditation* (1980); *Geniocracy* (1978); *Yes to Human Cloning* (2000); *The Maitreya* (anthology); *Message from the Designers* (2005 consolidated edition)"
+founder = "Raël (Claude Vorilhon, geb. 1946)"
+basic_doctrine = "Die Elohim, eine fortgeschrittene außerirdische Zivilisation, schufen vor etwa 25.000 Jahren alles Leben auf der Erde durch Gentechnik; die Menschheit soll diesen Ursprung anerkennen und sich auf die offene Rückkehr der Allianz vorbereiten; die Botschaft muss errichtet werden; die sieben neuen Gebote strukturieren das gesellschaftlich-politische Programm des Wassermann-Zeitalters"
+character = "Atheistische Religion; lehnt eine übernatürliche Gottheit ab und bewahrt zugleich religiöse Dimensionen von Ehrfurcht, Sinn und ethischem Engagement; strukturell besonders sowohl innerhalb der Kategorie der UFO-Religionen als auch innerhalb der breiteren Landschaft neuer religiöser Bewegungen"
+principal_practices = "Übertragung des Zellplans (raëlianische Taufe); sensuelle Meditation; telepathischer Kontakt (sonntags um 11 Uhr); jährliche Bergversammlung; Gedenken an Kontaktjahrestage (6. April, 6. August, 7. Oktober, 13. Dezember)"
+institutional_structure = "Siebenstufige Hierarchie der Führer; Führer der Führer (Raël) an der Spitze; Tochterorganisationen einschließlich Clonaid, Orden der Engel, Allianz für extraterrestrischen diplomatischen Kontakt, verschiedene Bildungs- und Öffentlichkeitsgremien"
+membership = "Etwa 65.000–100.000 (Zahlen variieren je nach Quelle); nationale Zweige in etwa 90 Ländern; am stärksten in Frankreich, Kanada, Japan, Südkorea, Afrika"
+distinguished_from = "Die breitere Kategorie der UFO-Religionen (Heaven's Gate, Aetherius Society, Unarius, andere); andere neue religiöse Bewegungen mit Prophetengründern (Mormonentum, Scientology, Bahá'í); breitere atheistische/wissenschaftliche Religionen (Comtesche Religion der Menschheit, säkularer Humanismus, Ethische Kultur); die Figur Raëls im Besonderen (im eigenen Eintrag behandelt)"
+status_in_source_material = "Substantiell dokumentiert; Lehrinhalt hauptsächlich aus raëlianischem Quellenmaterial (1974–2005); institutionelle Entwicklung hauptsächlich aus den institutionellen Aufzeichnungen der raëlianischen Bewegung; Kontroversen hauptsächlich aus zeitgenössischer journalistischer und akademischer Auseinandersetzung"
+principal_text = "*Das Buch, das die Wahrheit sagt* (1974); *Außerirdische brachten mich auf ihren Planeten* (1975/76); *Empfangen wir die Außerirdischen* (1979); *Sensuelle Meditation* (1980); *Geniokratie* (1978); *Ja zum menschlichen Klonen* (2000); *Der Maitreya* (Anthologie); *Botschaft der Designer* (konsolidierte Ausgabe 2005)"
 +++
 
-**Raëlism** is the religious-philosophical movement founded by **Raël** (Claude Vorilhon) following his reported December 13, 1973 contact with an officer of the Elohim alliance at the Puy-de-Lassolas volcanic crater near Clermont-Ferrand, France. The movement's institutional vehicle is the **International Raëlian Movement (IRM)**, founded in 1976 as the successor to the predecessor organization **MADECH** (*Mouvement pour l'Accueil des Élohim Créateurs de l'Humanité*, founded 1974). Raëlism is structurally distinctive within the broader religious-movement landscape in being **explicitly atheist** — rejecting supernatural deity in favor of the Elohim as advanced biological civilization that created humanity through genetic engineering approximately 25,000 years ago — while preserving substantial religious dimensions through the cumulative prophetic tradition, the Aquarian-age program, the embassy project, and various distinctive Raëlian practices. The movement has been characterized within mainstream new-religious-movement (NRM) scholarship as one of the most institutionally substantial UFO-religions, with national branches established in approximately ninety countries and reported membership figures ranging from approximately 65,000 to approximately 100,000 across the post-1976 period (figures vary by source and methodology).
+Der **Raëlismus** ist die religiös-philosophische Bewegung, die von **Raël** (Claude Vorilhon) nach seinem berichteten Kontakt am 13. Dezember 1973 mit einem Offizier der Elohim-Allianz am vulkanischen Krater Puy-de-Lassolas bei Clermont-Ferrand, Frankreich, gegründet wurde.{{ footnote(id="1") }} Das institutionelle Vehikel der Bewegung ist die **International Raëlian Movement (IRM)**, gegründet 1976 als Nachfolgerin der Vorgängerorganisation **MADECH** (*Mouvement pour l'Accueil des Élohim Créateurs de l'Humanité*, gegründet 1974). Der Raëlismus ist innerhalb der breiteren religiösen Bewegungslandschaft strukturell dadurch besonders, dass er **ausdrücklich atheistisch** ist — er lehnt eine übernatürliche Gottheit zugunsten der Elohim als fortgeschrittener biologischer Zivilisation ab, die die Menschheit vor etwa 25.000 Jahren durch Gentechnik geschaffen hat — und gleichzeitig erhebliche religiöse Dimensionen durch die kumulative prophetische Tradition, das Programm des Wassermann-Zeitalters, das Botschaftsprojekt und verschiedene unterscheidende raëlianische Praktiken bewahrt. Die Bewegung wurde innerhalb der etablierten Forschung zu neuen religiösen Bewegungen (NRB) als eine der institutionell substantiellsten UFO-Religionen charakterisiert, mit nationalen Zweigen in etwa neunzig Ländern und gemeldeten Mitgliederzahlen, die je nach Quelle und Methodik im Zeitraum nach 1976 zwischen etwa 65.000 und etwa 100.000 schwanken.{{ footnote(id="2") }}
 
-The doctrinal content of Raëlism centers on the broader framework that the source-material teaching has established: the Elohim civilization's specific creation work on Earth across the past 25,000 years, the cumulative prophetic tradition culminating in Raël's Aquarian-age mission, the seven new commandments specifying the political-social program for the Aquarian age (geniocracy, humanitarianism, world government, demilitarization, science as religion, telepathic cultivation, and the metaphysical clarifications), the embassy project as the operational center for the alliance's projected open return, and the broader Aquarian-age program of human transformation toward the projected Golden Age. The doctrinal framework is explicitly **atheist** in the specific sense that Raël has elaborated: there is no supernatural deity, no immortal soul, no metaphysical-theological apparatus of the sort the conventional religious traditions have developed; the religious dimensions of awe, purpose, and ethical commitment are preserved, but they are oriented toward the infinite cosmos itself, the Elohim creators (treated as advanced beings of human kind rather than as divinities), and the broader cosmic-creative cycle that humanity is projected to participate in.
+Der Lehrinhalt des Raëlismus konzentriert sich auf den breiteren Rahmen, den die quellenmaterielle Unterweisung etabliert hat: die spezifische Schöpfungsarbeit der Elohim-Zivilisation auf der Erde über die vergangenen 25.000 Jahre, die kumulative prophetische Tradition, die in Raëls Wassermann-Mission gipfelt, die sieben neuen Gebote, die das politisch-gesellschaftliche Programm für das Wassermann-Zeitalter spezifizieren (Geniokratie, Humanitarismus, Weltregierung, Entmilitarisierung, Wissenschaft als Religion, telepathische Kultivierung und die metaphysischen Klärungen), das Botschaftsprojekt als operatives Zentrum für die projizierte offene Rückkehr der Allianz und das breitere Wassermann-Programm menschlicher Transformation hin zum projizierten {% wiki(slug="golden-age") %}Goldenen Zeitalter{% end %}. Der Lehrrahmen ist ausdrücklich **atheistisch** in dem konkreten Sinn, den Raël ausgearbeitet hat: Es gibt keine übernatürliche Gottheit, keine unsterbliche Seele, keinen metaphysisch-theologischen Apparat der Art, wie ihn die konventionellen religiösen Traditionen entwickelt haben; die religiösen Dimensionen von Ehrfurcht, Sinn und ethischem Engagement bleiben erhalten, sind aber auf den unendlichen Kosmos selbst, auf die Elohim-Schöpfer (behandelt als fortgeschrittene Wesen menschlicher Art und nicht als Gottheiten) und auf den breiteren kosmisch-schöpferischen Zyklus ausgerichtet, an dem die Menschheit teilzuhaben projiziert wird.
 
-The institutional structure of Raëlism comprises the **seven-level hierarchy of Guides** (with Raël as **Guide of Guides** at the top), the various subsidiary organizations (Clonaid, the Order of Angels, the Alliance for Extraterrestrial Diplomatic Contact, and various educational and outreach bodies), and the broader operational infrastructure that has developed across the past five decades. The principal practices include the **cellular plan transmission** (the Raëlian baptismal ceremony, conducted at four annual dates corresponding to significant moments in the prophetic tradition — April 6, August 6, October 7, December 13), **sensual meditation** (the meditation practices designed by the Elohim for awakening the senses and achieving inner harmony), **telepathic contact** (the practice of mind-to-mind communication with the Elohim, particularly conducted on Sunday mornings at 11 AM), and various commemorations of contact anniversaries and broader institutional gatherings.
+Die institutionelle Struktur des Raëlismus umfasst die **siebenstufige Hierarchie der Führer** (mit Raël als **Führer der Führer** an der Spitze), die verschiedenen Tochterorganisationen (Clonaid, den Orden der Engel, die Allianz für extraterrestrischen diplomatischen Kontakt und verschiedene Bildungs- und Öffentlichkeitsgremien) sowie die breitere operative Infrastruktur, die sich in den vergangenen fünf Jahrzehnten entwickelt hat. Zu den wichtigsten Praktiken gehören die **Übertragung des Zellplans** (die raëlianische Taufzeremonie, durchgeführt an vier jährlichen Daten, die bedeutsamen Momenten in der prophetischen Tradition entsprechen — 6. April, 6. August, 7. Oktober, 13. Dezember), die **sensuelle Meditation** (die von den Elohim entworfenen Meditationspraktiken zur Erweckung der Sinne und zur Erlangung innerer Harmonie), der **telepathische Kontakt** (die Praxis der Geist-zu-Geist-Kommunikation mit den Elohim, insbesondere sonntagmorgens um 11 Uhr durchgeführt) sowie verschiedene Gedenkfeiern an Kontaktjahrestage und breitere institutionelle Versammlungen.
 
-The movement has produced substantial controversy across its half-century history. The **2002 Clonaid claim** — Brigitte Boisselier's December 27, 2002 announcement of the alleged birth of the first cloned human baby ("Eve"), never independently verified across the subsequent two decades — produced substantial international media attention and substantial subsequent scientific and journalistic skepticism. The **original Raëlian Symbol of Infinity** (a Star of David with central swastika) was modified in 1990 in Western branches to replace the central swastika with a galaxy-shaped swirl, in response to the symbol's complicated reception in post-Holocaust European-North American contexts. The **Order of Angels** (established 1998) has been the subject of substantial controversy regarding its specific practices and female-only membership structure. The **sensual meditation** practices have produced substantial mainstream criticism for their explicitly sexual content. The **French anti-cult organizational engagement** through MIVILUDES (*Mission interministérielle de vigilance et de lutte contre les dérives sectaires*) and UNADFI (*Union nationale des associations de défense des familles et de l'individu*) has produced substantial legal-political tension across the past several decades, with the Raëlian movement being classified as a problematic religious group in various official French-government documents.
+Die Bewegung hat über ihre halbjahrhundertelange Geschichte hinweg erhebliche Kontroversen hervorgebracht. Die **Clonaid-Behauptung von 2002** — Brigitte Boisseliers Ankündigung am 27. Dezember 2002 von der angeblichen Geburt des ersten geklonten menschlichen Babys („Eve"), in den darauffolgenden zwei Jahrzehnten nie unabhängig verifiziert — erregte erhebliche internationale Medienaufmerksamkeit und löste erhebliche nachfolgende wissenschaftliche und journalistische Skepsis aus. Das **ursprüngliche {% wiki(slug="raelian-symbol-of-infinity") %}raëlianische Symbol der Unendlichkeit{% end %}** (ein {% wiki(slug="star-of-david") %}Davidstern{% end %} mit zentralem Hakenkreuz) wurde 1990 in den westlichen Zweigen modifiziert, um das zentrale Hakenkreuz durch einen galaxienförmigen Wirbel zu ersetzen, als Reaktion auf die komplizierte Rezeption des Symbols im post-Holocaust-europäisch-nordamerikanischen Kontext. Der **Orden der Engel** (gegründet 1998) war Gegenstand erheblicher Kontroversen bezüglich seiner spezifischen Praktiken und seiner ausschließlich weiblichen Mitgliederstruktur. Die Praktiken der **sensuellen Meditation** haben aufgrund ihres ausdrücklich sexuellen Inhalts erhebliche Mainstream-Kritik hervorgerufen. Die **Auseinandersetzung französischer Anti-Sekten-Organisationen** durch MIVILUDES (*Mission interministérielle de vigilance et de lutte contre les dérives sectaires*) und UNADFI (*Union nationale des associations de défense des familles et de l'individu*) hat in den vergangenen Jahrzehnten erhebliche rechtlich-politische Spannungen erzeugt, wobei die raëlianische Bewegung in verschiedenen offiziellen französischen Regierungsdokumenten als problematische religiöse Gruppe eingestuft wurde.
 
-The reading is interpretive. Within mainstream NRM scholarship, Raëlism is treated as a substantial contemporary religious movement with substantial documented institutional development, substantial doctrinal articulation, and substantial sociological-anthropological interest. The principal scholars (Susan Palmer, Massimo Introvigne, James R. Lewis, George Chryssides, Mikael Rothstein, Christopher Partridge, and others) have produced substantial scholarly engagement that treats Raëlism seriously as religious phenomenon while not endorsing its specific historical claims about the December 13, 1973 contact event. Within mainstream theological tradition, Raëlism is broadly not engaged with as a continuation of any established theological tradition; the various religious traditions have either ignored Raëlism or treated it as a problematic movement outside legitimate religious tradition. Within the corpus's framework, Raëlism occupies the specific position of the **principal contemporary institutional vehicle** for the source-material teaching that the framework engages — neither identical with the broader Wheel of Heaven framework (which is the corpus's distinctive interpretive contribution) nor fully separable from it (since the source-material teaching that the framework engages is itself the foundational basis for both).
+Die Lesart ist interpretativ. Innerhalb der etablierten NRB-Forschung wird der Raëlismus als substantielle zeitgenössische religiöse Bewegung mit erheblicher dokumentierter institutioneller Entwicklung, erheblicher Lehrartikulation und erheblichem soziologisch-anthropologischem Interesse behandelt. Die wichtigsten Gelehrten (Susan Palmer, Massimo Introvigne, James R. Lewis, George Chryssides, Mikael Rothstein, Christopher Partridge und andere) haben eine substantielle wissenschaftliche Auseinandersetzung geleistet, die den Raëlismus als religiöses Phänomen ernst nimmt, ohne seine spezifischen historischen Behauptungen über das Kontaktereignis vom 13. Dezember 1973 zu billigen. Innerhalb der etablierten theologischen Tradition wird der Raëlismus weithin nicht als Fortsetzung einer etablierten theologischen Tradition behandelt; die verschiedenen religiösen Traditionen haben den Raëlismus entweder ignoriert oder als problematische Bewegung außerhalb der legitimen religiösen Tradition behandelt. Innerhalb des Korpus-Rahmens nimmt der Raëlismus die spezifische Position des **wichtigsten zeitgenössischen institutionellen Vehikels** für die quellenmaterielle Unterweisung ein, mit der sich der Rahmen befasst — weder identisch mit dem breiteren {% wiki(slug="wheel-of-heaven") %}Wheel-of-Heaven{% end %}-Rahmen (der den distinktiven interpretativen Beitrag des Korpus darstellt) noch vollständig von ihm trennbar (da die quellenmaterielle Unterweisung, mit der sich der Rahmen befasst, selbst die grundlegende Basis für beide ist).
 
-## Etymology and naming
+## Etymologie und Bezeichnung
 
-The movement has several distinct designations operating across the source material and broader scholarly engagement.
+Im Quellenmaterial und in der breiteren wissenschaftlichen Auseinandersetzung operieren mehrere unterschiedliche Bezeichnungen der Bewegung.
 
-### "Raëlism" as the principal designation
+### „Raëlismus" als Hauptbezeichnung
 
-The English term **"Raëlism"** is the principal designation in mainstream English-language scholarship and popular discourse. The construction follows the standard English pattern for religious-movement designations (Catholicism, Buddhism, Mormonism, Scientology, etc.), forming the abstract-noun designation from the founder's name. The diacritical mark (the umlaut on the *ë*) is preserved in scholarly usage and in the Raëlian movement's official communications, though it is sometimes dropped in popular usage (as **"Raelism"** without diacritical mark).
+Der deutsche Begriff **„Raëlismus"** ist die Hauptbezeichnung in der etablierten deutschsprachigen Wissenschaft und im populären Diskurs. Die Konstruktion folgt dem deutschen Standardmuster für Bezeichnungen religiöser Bewegungen (Katholizismus, Buddhismus, Mormonentum, Scientology usw.) und bildet die abstrakte Substantivbezeichnung aus dem Namen des Gründers. Das diakritische Zeichen (das Trema auf dem *ë*) bleibt in der wissenschaftlichen Verwendung und in den offiziellen Mitteilungen der raëlianischen Bewegung erhalten, wird aber in der populären Verwendung manchmal weggelassen (als **„Raelismus"** ohne diakritisches Zeichen).
 
-The movement's own institutional preference is generally to use **"the Raëlian Movement"** or **"the International Raëlian Movement"** rather than **"Raëlism"** as a doctrinal-philosophical designation. The movement's self-presentation generally treats "Raëlism" as an external scholarly designation while preserving the institutional self-designation as the principal internal terminology.
+Die institutionelle Präferenz der Bewegung selbst geht im Allgemeinen dahin, **„die Raëlianische Bewegung"** oder **„die International Raëlian Movement"** statt **„Raëlismus"** als doktrinär-philosophische Bezeichnung zu verwenden. Die Selbstdarstellung der Bewegung behandelt „Raëlismus" im Allgemeinen als externe wissenschaftliche Bezeichnung und bewahrt zugleich die institutionelle Selbstbezeichnung als wichtigste interne Terminologie.
 
-### "Raëlianism" as alternative designation
+### „Raëlianismus" als alternative Bezeichnung
 
-The term **"Raëlianism"** is sometimes used as an alternative scholarly designation, particularly in older scholarly literature. The construction follows a slightly different English pattern (with the *-ian* suffix rather than the simple *-ism* suffix), producing the alternative form. Contemporary scholarship has substantially settled on **"Raëlism"** as the principal designation, though both forms continue to appear in scholarly literature.
+Der Begriff **„Raëlianismus"** wird gelegentlich als alternative wissenschaftliche Bezeichnung verwendet, insbesondere in älterer wissenschaftlicher Literatur. Die Konstruktion folgt einem leicht abweichenden Muster (mit dem *-ian*-Suffix statt des einfachen *-ismus*-Suffix) und ergibt die alternative Form. Die zeitgenössische Forschung hat sich substantiell auf **„Raëlismus"** als Hauptbezeichnung festgelegt, auch wenn beide Formen weiterhin in der wissenschaftlichen Literatur erscheinen.
 
-### Source-material variations
+### Variationen im Quellenmaterial
 
-The source material uses several distinct phrasings:
+Das Quellenmaterial verwendet mehrere unterschiedliche Formulierungen:
 
-- **"The Raelian Movement"** — the source's principal designation in the 2005 *Message from the Designers* English edition
-- **"The Raelian religion"** — the source's specific phrasing in some contexts, particularly when registering the movement's distinctive religious-rather-than-purely-philosophical character
-- **"An atheist religion"** — Raël's specific characterization of the movement's doctrinal-philosophical content
+- **„Die Raelianische Bewegung"** — die Hauptbezeichnung der Quelle in der englischen Ausgabe *Message from the Designers* von 2005
+- **„Die raelianische Religion"** — die spezifische Formulierung der Quelle in manchen Kontexten, insbesondere wenn sie den ausgesprochen religiösen statt rein philosophischen Charakter der Bewegung registriert
+- **„Eine atheistische Religion"** — Raëls spezifische Charakterisierung des doktrinär-philosophischen Inhalts der Bewegung
 
-### Related institutional terminology
+### Verwandte institutionelle Terminologie
 
-Several related institutional terms operate within the Raëlian framework:
+Im raëlianischen Rahmen operieren mehrere verwandte institutionelle Begriffe:
 
-- **MADECH** — *Mouvement pour l'Accueil des Élohim Créateurs de l'Humanité* ("Movement for Welcoming the Elohim, Creators of Humanity"), the predecessor organization founded 1974
-- **IRM** — International Raëlian Movement, the successor and broader-scope organization founded 1976
-- **The Movement** — generic internal designation
-- **The Raëlian community** — referring to the broader membership rather than the institutional structure specifically
+- **MADECH** — *Mouvement pour l'Accueil des Élohim Créateurs de l'Humanité* („Bewegung zum Empfang der Elohim, Schöpfer der Menschheit"), die 1974 gegründete Vorgängerorganisation
+- **IRM** — International Raëlian Movement, die 1976 gegründete Nachfolge- und übergeordnete Organisation
+- **Die Bewegung** — generische interne Bezeichnung
+- **Die raëlianische Gemeinschaft** — bezieht sich auf die breitere Mitgliedschaft statt spezifisch auf die institutionelle Struktur
 
-### Corpus-internal usage
+### Korpus-interne Verwendung
 
-The Wheel of Heaven corpus uses **Raëlism** as the principal designation for the religious-philosophical movement and **the International Raëlian Movement (IRM)** for the specific institutional entity. The corpus uses **the Raëlian source material** for the principal published texts (Raël's books and the Yahweh-delivered teaching they preserve) and **the Raëlian framework** for the doctrinal-philosophical content as distinct from the broader Wheel of Heaven framework that the corpus has developed.
+Der Wheel-of-Heaven-Korpus verwendet **Raëlismus** als Hauptbezeichnung für die religiös-philosophische Bewegung und **die International Raëlian Movement (IRM)** für die spezifische institutionelle Einheit. Der Korpus verwendet **das raëlianische Quellenmaterial** für die wichtigsten veröffentlichten Texte (Raëls Bücher und die darin bewahrte, durch Jahwe übermittelte Unterweisung) und **den raëlianischen Rahmen** für den doktrinär-philosophischen Inhalt, im Unterschied zu dem breiteren Wheel-of-Heaven-Rahmen, den der Korpus entwickelt hat.
 
-## Conventional understanding
+## Etabliertes Verständnis
 
-Mainstream conventional understanding of Raëlism has been substantially shaped by new-religious-movement (NRM) scholarship, with various other approaches contributing to the broader scholarly picture.
+Das etablierte Verständnis des Raëlismus ist erheblich durch die Forschung zu neuen religiösen Bewegungen (NRB) geprägt worden, wobei verschiedene andere Ansätze zum breiteren wissenschaftlichen Bild beitragen.
 
-### The new-religious-movement scholarly framework
+### Der NRB-wissenschaftliche Rahmen
 
-The principal mainstream scholarly framework for understanding Raëlism is the broader new-religious-movement (NRM) scholarly tradition that emerged across the 1970s-1990s as the principal academic framework for engaging with contemporary religious innovations.
+Der wichtigste etablierte wissenschaftliche Rahmen für das Verständnis des Raëlismus ist die breitere Forschungstradition zu neuen religiösen Bewegungen (NRB), die sich in den 1970er bis 1990er Jahren als wichtigster akademischer Rahmen für die Auseinandersetzung mit zeitgenössischen religiösen Innovationen herausbildete.
 
-**The basic NRM framework** treats Raëlism as one specific instance of the broader category of new religious movements that emerged across the post-1960 period, with various common features (charismatic founder, distinctive doctrinal content, institutional development, controversial reception by mainstream religious and secular institutions) and various specific features (the extraterrestrial-creator framework, the explicit atheism, the institutional development pattern).
+**Der grundlegende NRB-Rahmen** behandelt den Raëlismus als eine spezifische Instanz der breiteren Kategorie neuer religiöser Bewegungen, die im Zeitraum nach 1960 entstanden sind, mit verschiedenen gemeinsamen Merkmalen (charismatischer Gründer, distinktiver Lehrinhalt, institutionelle Entwicklung, kontroverse Rezeption durch etablierte religiöse und säkulare Institutionen) und verschiedenen spezifischen Merkmalen (der außerirdische Schöpferrahmen, der explizite Atheismus, das Muster institutioneller Entwicklung).
 
-**The principal NRM categorizations** of Raëlism include:
+**Die wichtigsten NRB-Kategorisierungen** des Raëlismus umfassen:
 
-- **UFO religion** — the broader category of religious movements drawing on UFO-contact material (Heaven's Gate, Aetherius Society, Unarius, various others)
-- **Atheist religion** — the broader category of religious movements operating without supernatural-deity content (various Buddhist traditions, Comtean Religion of Humanity, Secular Humanism, Ethical Culture, various others)
-- **New religious movement with prophet-founder** — the broader category of religious movements founded through specific charismatic-prophetic figures (Mormonism, Scientology, Bahá'í, various others)
-- **Postmodern religion** — the category emphasizing Raëlism's specific cultural-temporal positioning within the late-twentieth-century post-traditional religious landscape
+- **UFO-Religion** — die breitere Kategorie religiöser Bewegungen, die auf UFO-Kontaktmaterial zurückgreifen (Heaven's Gate, Aetherius Society, Unarius, verschiedene andere)
+- **Atheistische Religion** — die breitere Kategorie religiöser Bewegungen, die ohne übernatürlich-göttlichen Inhalt operieren (verschiedene buddhistische Traditionen, Comtesche {% wiki(slug="religion") %}Religion{% end %} der Menschheit, säkularer Humanismus, Ethische Kultur, verschiedene andere)
+- **Neue religiöse Bewegung mit Prophetengründer** — die breitere Kategorie religiöser Bewegungen, die durch spezifische charismatisch-prophetische Figuren gegründet wurden (Mormonentum, Scientology, Bahá'í, verschiedene andere)
+- **Postmoderne Religion** — die Kategorie, die die spezifische kulturell-zeitliche Verortung des Raëlismus innerhalb der spätzwanzigjahrhundertlichen post-traditionellen religiösen Landschaft betont
 
-The various categorizations are not mutually exclusive — Raëlism can be appropriately treated within multiple NRM categorizations simultaneously, with the specific categorizations producing different analytical framings of the movement's distinctive features.
+Die verschiedenen Kategorisierungen schließen sich nicht gegenseitig aus — der Raëlismus kann zutreffend innerhalb mehrerer NRB-Kategorisierungen gleichzeitig behandelt werden, wobei die spezifischen Kategorisierungen unterschiedliche analytische Rahmungen der distinktiven Merkmale der Bewegung erzeugen.
 
-### The principal scholarly engagements
+### Die wichtigsten wissenschaftlichen Auseinandersetzungen
 
-**Susan J. Palmer**'s *Aliens Adored: Raël's UFO Religion* (Rutgers University Press, 2004) is the principal book-length scholarly treatment, drawing on extensive ethnographic fieldwork. Palmer's broader subsequent work has continued to engage Raëlism across the post-2004 period, with various journal articles and book chapters producing the principal English-language scholarly engagement.
+**Susan J. Palmers** *Aliens Adored: Raël's UFO Religion* (Rutgers University Press, 2004) ist die wichtigste monographische wissenschaftliche Behandlung, die auf umfangreicher ethnographischer Feldforschung beruht. Palmers breiteres späteres Werk hat sich im Zeitraum nach 2004 weiterhin mit dem Raëlismus auseinandergesetzt, mit verschiedenen Zeitschriftenaufsätzen und Buchkapiteln, die die wichtigste englischsprachige wissenschaftliche Auseinandersetzung darstellen.
 
-**Massimo Introvigne** and the **Center for Studies on New Religions (CESNUR)** have produced substantial scholarly engagement with Raëlism through various conference papers, journal articles, and broader CESNUR institutional output. The CESNUR engagement is generally sympathetic-scholarly, treating the movement seriously while maintaining scholarly objectivity.
+**Massimo Introvigne** und das **Center for Studies on New Religions (CESNUR)** haben durch verschiedene Konferenzbeiträge, Zeitschriftenaufsätze und breiteren institutionellen CESNUR-Output eine substantielle wissenschaftliche Auseinandersetzung mit dem Raëlismus produziert. Die CESNUR-Auseinandersetzung ist im Allgemeinen wohlwollend-wissenschaftlich; sie nimmt die Bewegung ernst und wahrt zugleich wissenschaftliche Objektivität.
 
-**George D. Chryssides** has produced scholarly engagement with Raëlism within his broader work on new-religious-movements, with various comparative analyses placing Raëlism within the broader NRM landscape.
+**George D. Chryssides** hat im Rahmen seiner breiteren Arbeit zu neuen religiösen Bewegungen eine wissenschaftliche Auseinandersetzung mit dem Raëlismus geleistet, mit verschiedenen vergleichenden Analysen, die den Raëlismus innerhalb der breiteren NRB-Landschaft verorten.
 
-**Mikael Rothstein** has produced substantial scholarly engagement with Raëlism, particularly regarding the movement's specific hagiographical and textual practices.
+**Mikael Rothstein** hat eine substantielle wissenschaftliche Auseinandersetzung mit dem Raëlismus produziert, insbesondere in Bezug auf die spezifischen hagiographischen und textlichen Praktiken der Bewegung.
 
-**Christopher Partridge**'s edited volume *UFO Religions* (Routledge, 2003) and his broader work on contemporary spirituality have produced substantial Raëlism engagement.
+**Christopher Partridges** Sammelband *UFO Religions* (Routledge, 2003) und seine breitere Arbeit zur zeitgenössischen Spiritualität haben eine substantielle Auseinandersetzung mit dem Raëlismus produziert.
 
-**James R. Lewis** has edited several substantial collections engaging Raëlism, including *The Gods Have Landed: New Religions from Other Worlds* (SUNY Press, 1995) and the *Encyclopedic Sourcebook of UFO Religions* (Prometheus, 2003).
+**James R. Lewis** hat mehrere substantielle Sammelbände herausgegeben, die sich mit dem Raëlismus befassen, darunter *The Gods Have Landed: New Religions from Other Worlds* (SUNY Press, 1995) und das *Encyclopedic Sourcebook of UFO Religions* (Prometheus, 2003).
 
-### The mainstream scholarly assessment
+### Die etablierte wissenschaftliche Einschätzung
 
-The mainstream scholarly assessment of Raëlism is generally one of **serious-engagement-with-skeptical-distance**:
+Die etablierte wissenschaftliche Einschätzung des Raëlismus ist im Allgemeinen eine der **ernsthaften Auseinandersetzung bei skeptischer Distanz**:
 
-- **Serious engagement** — treating the movement as a substantial religious phenomenon worthy of academic study, recognizing its institutional development, doctrinal articulation, and continuing operational pattern
-- **Skeptical distance** — not endorsing the framework's specific historical claims about the December 13, 1973 contact event, treating the historical-empirical claims as remaining unverified
-- **Sympathetic-scholarly orientation** — generally treating Raël as a sincere religious figure rather than as a deliberate fraud, recognizing the consistent five-decade pattern of behavior
+- **Ernsthafte Auseinandersetzung** — Behandlung der Bewegung als substantielles religiöses Phänomen, das akademische Untersuchung verdient, unter Anerkennung ihrer institutionellen Entwicklung, ihrer Lehrartikulation und ihres anhaltenden operativen Musters
+- **Skeptische Distanz** — keine Bestätigung der spezifischen historischen Behauptungen des Rahmens über das Kontaktereignis vom 13. Dezember 1973, Behandlung der historisch-empirischen Behauptungen als weiterhin unverifiziert
+- **Wohlwollend-wissenschaftliche Orientierung** — im Allgemeinen Behandlung Raëls als aufrichtige religiöse Figur und nicht als gezielten Betrüger, unter Anerkennung des konsistenten fünfzigjährigen Verhaltensmusters
 
-The mainstream scholarly assessment is substantially distinct from the broader popular-journalistic treatment (which has generally been more skeptical-critical) and from the anti-cult-organizational treatment (which has generally been more hostile).
+Die etablierte wissenschaftliche Einschätzung ist substantiell verschieden von der breiteren populär-journalistischen Behandlung (die im Allgemeinen skeptisch-kritischer ausfiel) und von der Behandlung durch Anti-Sekten-Organisationen (die im Allgemeinen feindseliger war).
 
-### Legal-political treatment
+### Rechtlich-politische Behandlung
 
-The legal-political treatment of Raëlism has varied substantially across different national contexts.
+Die rechtlich-politische Behandlung des Raëlismus hat in verschiedenen nationalen Kontexten substantiell variiert.
 
-**French legal-political context**. The French government has produced substantial engagement with Raëlism through the **Mission interministérielle de vigilance et de lutte contre les dérives sectaires (MIVILUDES)** and the **Union nationale des associations de défense des familles et de l'individu (UNADFI)** anti-cult organizations. The Raëlian movement has been classified in various French-government documents as a *secte* (the French legal-cultural category of problematic religious group), with various legal-political tensions across the past several decades. The 2001 *About-Picard Law* on anti-cult measures provided substantial subsequent legal-regulatory framework.
+**Französischer rechtlich-politischer Kontext.** Die französische Regierung hat über die **Mission interministérielle de vigilance et de lutte contre les dérives sectaires (MIVILUDES)** und die Anti-Sekten-Organisation **Union nationale des associations de défense des familles et de l'individu (UNADFI)** eine substantielle Auseinandersetzung mit dem Raëlismus geführt. Die raëlianische Bewegung ist in verschiedenen Dokumenten der französischen Regierung als *secte* (die französische rechtlich-kulturelle Kategorie problematischer religiöser Gruppen) eingestuft worden, mit verschiedenen rechtlich-politischen Spannungen in den vergangenen Jahrzehnten. Das *About-Picard-Gesetz* von 2001 über Anti-Sekten-Maßnahmen bildete den maßgeblichen nachfolgenden regulatorischen Rahmen.
 
-**North American legal-political context**. The Raëlian movement has operated with substantially less legal-political tension in North America, with the United States First Amendment and Canadian religious-freedom protections providing broader institutional protection. The 2002 Clonaid announcement produced substantial subsequent FDA and Health Canada engagement, with various regulatory questions regarding human-cloning research.
+**Nordamerikanischer rechtlich-politischer Kontext.** Die raëlianische Bewegung hat in Nordamerika mit substantiell geringerer rechtlich-politischer Spannung operiert, wobei der erste Verfassungszusatz der Vereinigten Staaten und der kanadische Religionsfreiheitsschutz einen breiteren institutionellen Schutz bieten. Die Clonaid-Ankündigung von 2002 löste eine substantielle nachfolgende Auseinandersetzung mit der FDA und Health Canada aus, mit verschiedenen regulatorischen Fragen zur menschlichen Klonforschung.
 
-**European legal-political context**. Various European countries have produced varied legal-political engagement with Raëlism, with the principal continental-European anti-cult organizational frameworks (Belgium's anti-cult parliamentary commission, German Sekten-Beauftragte, various others) producing substantial scholarly and political attention.
+**Europäischer rechtlich-politischer Kontext.** Verschiedene europäische Länder haben eine unterschiedliche rechtlich-politische Auseinandersetzung mit dem Raëlismus geführt; die wichtigsten kontinentaleuropäischen Anti-Sekten-Rahmen (Belgiens Anti-Sekten-Parlamentskommission, der deutsche Sekten-Beauftragte, verschiedene andere) haben substantielle wissenschaftliche und politische Aufmerksamkeit erzeugt.
 
-**Asian legal-political context**. The Raëlian movement has substantial presence in Japan and South Korea, with the broader Asian religious-pluralism context producing different legal-political engagement than the European-anti-cult framework.
+**Asiatischer rechtlich-politischer Kontext.** Die raëlianische Bewegung hat substantielle Präsenz in Japan und Südkorea, wobei der breitere asiatische religionspluralistische Kontext eine andere rechtlich-politische Auseinandersetzung erzeugt als der europäische Anti-Sekten-Rahmen.
 
-### The relationship to the corpus's framework
+### Das Verhältnis zum Korpus-Rahmen
 
-The corpus's framework treats the substantial mainstream scholarly engagement with Raëlism as the specific contemporary academic context within which the movement operates, while engaging the source-material content directly rather than mediating it principally through the various scholarly approaches. The corpus's specific position is that mainstream scholarship has produced substantial engagement with the movement's *institutional development* and *sociological features*, but has produced limited engagement with the *content* of the source-material teaching at the operational level — the framework's specific treatment of Genesis 1, the cosmic-political reconstruction, the precessional-age framework, the broader cosmological content. The corpus's distinctive contribution is engagement with this content rather than with the movement's institutional development.
+Der Korpus-Rahmen behandelt die substantielle etablierte wissenschaftliche Auseinandersetzung mit dem Raëlismus als den spezifischen zeitgenössischen akademischen Kontext, innerhalb dessen die Bewegung operiert, befasst sich aber mit dem quellenmateriellen Inhalt direkt und nicht hauptsächlich vermittelt über die verschiedenen wissenschaftlichen Ansätze. Die spezifische Position des Korpus lautet: Die etablierte Forschung hat eine substantielle Auseinandersetzung mit der *institutionellen Entwicklung* und den *soziologischen Merkmalen* der Bewegung geleistet, aber nur begrenzte Auseinandersetzung mit dem *Inhalt* der quellenmateriellen Unterweisung auf operativer Ebene — die spezifische Behandlung von Genesis 1 durch den Rahmen, die kosmisch-politische Rekonstruktion, der Rahmen der präzessionalen Zeitalter, der breitere kosmologische Inhalt. Der distinktive Beitrag des Korpus ist die Auseinandersetzung mit diesem Inhalt und nicht mit der institutionellen Entwicklung der Bewegung.
 
-## In primary sources
+## In Primärquellen
 
-The primary-source material on Raëlism is substantial and contemporary, comprising the Raëlian source-material teaching, Raël's autobiographical and explanatory writings, the Raëlian movement's institutional records, and various subsequent published materials.
+Das Primärquellenmaterial zum Raëlismus ist substantiell und zeitgenössisch; es umfasst die raëlianische quellenmaterielle Unterweisung, Raëls autobiographische und erläuternde Schriften, die institutionellen Aufzeichnungen der raëlianischen Bewegung und verschiedene nachfolgend veröffentlichte Materialien.
 
-### The principal source-material books
+### Die wichtigsten quellenmateriellen Bücher
 
-The principal source material for Raëlism's doctrinal content is the body of Raël's published works:
+Das wichtigste Quellenmaterial für den Lehrinhalt des Raëlismus ist das Korpus der veröffentlichten Werke Raëls:
 
-- ***The Book Which Tells the Truth*** (1974) — recording the December 13, 1973 contact and the principal teaching
-- ***Extra-Terrestrials Took Me to Their Planet*** (1975/76) — recording the October 7, 1975 second contact and the visit to the Planet of the Eternals
-- ***Let's Welcome the Extra-terrestrials*** (1979) — including the previously-withheld biological-parentage disclosure and substantial subsequent material
-- ***Geniocracy*** (1978) — substantial elaboration of the first new commandment
-- ***Sensual Meditation*** (1980) — meditation practices designed by the Elohim
-- ***Yes to Human Cloning*** (2000) — engagement with the cloning question
-- ***The Maitreya*** (anthology) — collection of Raël's teachings across the post-1973 decades
-- ***Message from the Designers*** (2005 consolidated English edition) — principal contemporary access point to the principal source material
+- ***Das Buch, das die Wahrheit sagt*** (1974) — hält den Kontakt vom 13. Dezember 1973 und die Hauptlehre fest{{ cite(id="the-book-which-tells-the-truth", text="[1]", title="Vorilhon (Raël), *Das Buch, das die Wahrheit sagt* (1974) — Erstkontakt in Clermont-Ferrand") }}
+- ***Außerirdische brachten mich auf ihren Planeten*** (1975/76) — hält den zweiten Kontakt vom 7. Oktober 1975 und den Besuch auf dem Planeten der Ewigen fest{{ cite(id="extraterrestrials-took-me-to-their-planet", text="[2]", title="Vorilhon (Raël), *Außerirdische brachten mich auf ihren Planeten* (1976) — der Besuch im Périgord") }}
+- ***Empfangen wir die Außerirdischen*** (1979) — einschließlich der zuvor zurückgehaltenen Offenlegung der biologischen Elternschaft und erheblichen Folgematerials{{ cite(id="lets-welcome-the-extraterrestrials", text="[3]", title="Vorilhon (Raël), *Empfangen wir die Außerirdischen* (1979) — Botschaftsprojekt und Übergang zum Wassermann") }}
+- ***{% wiki(slug="geniocracy") %}Geniokratie{% end %}*** (1978) — substantielle Ausarbeitung des ersten neuen Gebots
+- ***Sensuelle Meditation*** (1980) — von den Elohim entworfene Meditationspraktiken
+- ***Ja zum menschlichen Klonen*** (2000) — Auseinandersetzung mit der Klonfrage
+- ***Der Maitreya*** (Anthologie) — Sammlung von Raëls Lehren über die Jahrzehnte nach 1973
+- ***Botschaft der Designer*** (konsolidierte englische Ausgabe 2005) — wichtigster zeitgenössischer Zugang zum maßgeblichen Quellenmaterial{{ cite(id="intelligent-design-message-from-the-designers", text="[4]", title="Vorilhon (Raël), *Intelligent Design: Message from the Designers* (konsolidierte englische Ausgabe 2005)") }}
 
-The combined source-material corpus has been translated into approximately thirty languages, with over two million copies sold worldwide as of the 2005 publication of the consolidated English edition.
+Das gesamte quellenmaterielle Korpus ist in etwa dreißig Sprachen übersetzt worden, mit über zwei Millionen weltweit verkauften Exemplaren bis zur Veröffentlichung der konsolidierten englischen Ausgabe im Jahr 2005.
 
-### The institutional records
+### Die institutionellen Aufzeichnungen
 
-The Raëlian movement's institutional records provide substantial documentary basis for the movement's institutional history:
+Die institutionellen Aufzeichnungen der raëlianischen Bewegung bilden eine substantielle dokumentarische Grundlage für die institutionelle Geschichte der Bewegung:
 
-- **Movement publications**: *Apocalypse* (international glossy magazine, semi-annual); *Contact* (weekly e-newsletter through raelianews.org)
-- **Institutional websites**: rael.org (principal Raëlian movement website), elohimembassy.org (embassy project), various subsidiary organization websites
-- **Annual seminars and gatherings**: Documented seminars across multiple continents, with substantial photographic and video records preserved
-- **Internal communications**: Various levels of internal Raëlian-movement communications across the institutional hierarchy
+- **Publikationen der Bewegung**: *Apocalypse* (internationales Hochglanzmagazin, halbjährlich); *Contact* (wöchentlicher E-Newsletter über raelianews.org)
+- **Institutionelle Websites**: rael.org (Hauptwebsite der raëlianischen Bewegung),{{ cite(id="rael-dot-org", text="[5]", title="rael.org — offizielle Website der International Raëlian Movement") }} elohimembassy.org (Botschaftsprojekt), verschiedene Websites von Tochterorganisationen
+- **Jährliche Seminare und Versammlungen**: Dokumentierte Seminare auf mehreren Kontinenten, mit erheblichen photographischen und filmischen Aufzeichnungen
+- **Interne Kommunikation**: Verschiedene Ebenen interner Kommunikation der raëlianischen Bewegung innerhalb der institutionellen Hierarchie
 
-### The 1990 symbol modification correspondence
+### Die Korrespondenz zur Symbolmodifikation von 1990
 
-The 1990 modification of the Raëlian Symbol of Infinity in Western branches is documented through specific correspondence between Raël and the Elohim, recorded in the source material. The correspondence registers:
+Die Modifikation des raëlianischen Symbols der {% wiki(slug="infinity") %}Unendlichkeit{% end %} in den westlichen Zweigen im Jahr 1990 ist durch spezifische Korrespondenz zwischen Raël und den Elohim dokumentiert, die im Quellenmaterial festgehalten ist. Die Korrespondenz hält fest:
 
-- The original symbol's specific meaning (Star of David representing infinity in space, central swastika representing infinity in time, with the broader symbolic content of cosmic infinity)
-- The Holocaust-related complications of the swastika's reception in post-1945 Western contexts
-- The 1990 modification in Western branches to replace the central swastika with a galaxy-shaped swirl
-- The continuing original symbol use in Asia where the swastika appears in Buddhist temples without the Western political-historical associations
+- Die spezifische Bedeutung des ursprünglichen Symbols (Davidstern als Symbol der Unendlichkeit im Raum, zentrales Hakenkreuz als Symbol der Unendlichkeit in der Zeit, mit dem breiteren symbolischen Inhalt kosmischer Unendlichkeit)
+- Die mit dem Holocaust verbundenen Komplikationen der Rezeption des Hakenkreuzes im westlichen Kontext nach 1945
+- Die Modifikation von 1990 in den westlichen Zweigen zum Ersatz des zentralen Hakenkreuzes durch einen galaxienförmigen Wirbel
+- Die fortgesetzte Verwendung des ursprünglichen Symbols in Asien, wo das Hakenkreuz in buddhistischen Tempeln ohne die westlichen politisch-historischen Assoziationen erscheint
 
-### The 1997 December 13 message
+### Die Botschaft vom 13. Dezember 1997
 
-The December 13, 1997 telepathic message from Yahweh provides specific institutional-doctrinal content regarding the Raëlian movement's relationship to the broader Aquarian-age program. The message's principal content (treated more fully under the [Embassy](../embassy/) entry):
+Die telepathische Botschaft Jahwes vom 13. Dezember 1997 liefert spezifischen institutionell-doktrinären Inhalt zum Verhältnis der raëlianischen Bewegung zum breiteren Wassermann-Programm. Der wichtigste Inhalt der Botschaft (ausführlicher im Eintrag [Botschaft](../embassy/) behandelt):
 
-- The Raëlians as "the new Chosen People" with a "new Promised Land" projected
-- The embassy project's authorization to seek extraterritorial status from "all nations on Earth"
-- The "Great Return" framing of the alliance's projected open return
+- Die Raëlianer als „das neue auserwählte Volk" mit einem projizierten „neuen verheißenen Land"
+- Die Ermächtigung des Botschaftsprojekts, exterritorialen Status von „allen Nationen der Erde" anzustreben
+- Die Rahmung der projizierten offenen Rückkehr der Allianz als „{% wiki(slug="great-return") %}Große Rückkehr{% end %}"
 
-### Various subsequent communications
+### Verschiedene nachfolgende Kommunikationen
 
-Various subsequent Raëlian-movement communications across the post-1997 period provide continuing documentary record of the movement's institutional development and doctrinal articulation. The principal subsequent communications include:
+Verschiedene nachfolgende Kommunikationen der raëlianischen Bewegung im Zeitraum nach 1997 bilden einen fortgesetzten dokumentarischen Bestand zur institutionellen Entwicklung und Lehrartikulation der Bewegung. Zu den wichtigsten nachfolgenden Kommunikationen gehören:
 
-- The 2005 *Message from the Designers* publication providing the contemporary consolidated English edition
-- Various Raël public lectures and seminars across the post-1973 period
-- Various institutional announcements regarding the embassy project, Clonaid, the Order of Angels, and other organizational developments
-- The 2024 Memorandum of Collaboration announcement regarding the embassy project's host-country negotiations
+- Die Veröffentlichung der *Message from the Designers* im Jahr 2005, die die zeitgenössische konsolidierte englische Ausgabe bereitstellt
+- Verschiedene öffentliche Vorträge und Seminare Raëls im Zeitraum nach 1973
+- Verschiedene institutionelle Ankündigungen zum Botschaftsprojekt, zu Clonaid, zum Orden der Engel und zu anderen organisatorischen Entwicklungen
+- Die Ankündigung des Memorandum of Collaboration von 2024 zu den Verhandlungen über das Gastland des Botschaftsprojekts
 
-## The concept's content
+## Der Inhalt des Begriffs
 
-### The doctrinal framework
+### Der Lehrrahmen
 
-The doctrinal framework of Raëlism comprises several interrelated components:
+Der Lehrrahmen des Raëlismus umfasst mehrere ineinandergreifende Komponenten:
 
-**The Elohim creation framework**. The Elohim civilization, an advanced biological civilization 25,000 years in advance of contemporary human science, created all life on Earth through deliberate genetic engineering across the past 25,000 years. The Hebrew Bible's Genesis 1 creation narrative preserves substantively accurate memory of this creation work in pre-scientific vocabulary; the elohim of the Hebrew text refer to multiple individuals (the Elohim civilization) rather than to a single deity. The Elohim are not gods in any supernatural sense; they are advanced beings of human kind, themselves created by a prior civilization in the broader Cosmic Chain.
+**Der Schöpfungsrahmen der Elohim.** Die Elohim-Zivilisation, eine fortgeschrittene biologische Zivilisation, der zeitgenössischen Menschheitswissenschaft um 25.000 Jahre voraus, hat alles Leben auf der Erde in den vergangenen 25.000 Jahren durch gezielte Gentechnik geschaffen. Der Schöpfungsbericht von Genesis 1 in der hebräischen {% wiki(slug="bible") %}Bibel{% end %} bewahrt eine substantiell korrekte Erinnerung an diese Schöpfungsarbeit in vorwissenschaftlichem Vokabular; die elohim des hebräischen Textes beziehen sich auf mehrere Individuen (die Elohim-Zivilisation) und nicht auf eine einzelne Gottheit.{{ cite(id="genesis", text="[6]", title="Genesis 1 — der Schöpfungsbericht mit pluralischem Subjekt, gelesen als Werk der Elohim-Zivilisation") }} Die Elohim sind keine Götter in irgendeinem übernatürlichen Sinn; sie sind fortgeschrittene Wesen menschlicher Art, ihrerseits von einer früheren Zivilisation in der breiteren kosmischen Kette geschaffen.
 
-**The cumulative prophetic tradition**. The alliance has sent approximately forty prophets across human history, with each prophet appropriate to the specific cultural-temporal moment at which they appeared and each contributing to the cumulative preparation of humanity for the Aquarian-age revelation. Moses, Jesus, Muhammad, Buddha, Zarathustra, and various other principal prophetic figures across world religions are read as alliance-appointed teachers who delivered substantively accurate content within the cultural-religious vocabularies available to them. Raël is the last of this cumulative prophetic tradition, the specific Aquarian-age figure whose mission delivers the accurate account of human origins to a scientifically mature humanity.
+**Die kumulative prophetische Tradition.** Die Allianz hat im Laufe der menschlichen Geschichte etwa vierzig Propheten gesandt, wobei jeder Prophet dem spezifischen kulturell-zeitlichen Moment angemessen war, in dem er erschien, und jeder zur kumulativen Vorbereitung der Menschheit auf die Wassermann-Offenbarung beitrug. Mose, Jesus, Mohammed, Buddha, Zarathustra und verschiedene andere prophetische Hauptfiguren der Weltreligionen werden als von der Allianz beauftragte Lehrer gelesen, die substantiell korrekten Inhalt innerhalb der ihnen zur Verfügung stehenden kulturell-religiösen Vokabulare vermittelten. Raël ist der letzte dieser kumulativen prophetischen Tradition, die spezifische Wassermann-Figur, deren Mission einer wissenschaftlich reifen Menschheit den genauen Bericht über die menschlichen Ursprünge übermittelt.
 
-**The seven new commandments**. The alliance has proposed for the Aquarian age a specific political-religious program comprising seven specific commandments (treated in detail below). The commandments structure the broader Aquarian-age program of human transformation toward the projected Golden Age.
+**Die sieben neuen Gebote.** Die Allianz hat für das Wassermann-Zeitalter ein spezifisches politisch-religiöses Programm vorgeschlagen, das sieben spezifische Gebote umfasst (im Folgenden detailliert behandelt). Die Gebote strukturieren das breitere Wassermann-Programm menschlicher Transformation hin zum projizierten Goldenen Zeitalter.
 
-**The embassy project**. The alliance requires a designated physical structure with extraterritorial status as the operational location for the projected open return. The embassy specifications and the broader embassy project are treated more fully under the [Embassy](../embassy/) entry.
+**Das Botschaftsprojekt.** Die Allianz benötigt eine designierte physische Struktur mit exterritorialem Status als operativen Ort für die projizierte offene Rückkehr. Die Botschaftsspezifikationen und das breitere Botschaftsprojekt werden ausführlicher im Eintrag [Botschaft](../embassy/) behandelt.
 
-**The Aquarian-age framework**. The current cosmic moment is the Aquarian-age opening (1946 onward), the specific precessional age during which humanity will receive the alliance's open return and transition from created to creator civilization. The broader Aquarian-age program operates across the centuries of the age's full development.
+**Der Wassermann-Rahmen.** Der gegenwärtige kosmische Moment ist die Eröffnung des Wassermann-Zeitalters (ab 1946), das spezifische präzessionale Zeitalter, in dem die Menschheit die offene Rückkehr der Allianz erfahren und vom geschaffenen zum schöpferischen Zivilisationsstatus übergehen wird. Das breitere Wassermann-Programm erstreckt sich über die Jahrhunderte der vollen Entwicklung des Zeitalters.
 
-**The cosmic-chain context**. The broader cosmological context within which all of the above operates is the Cosmic Chain — the indefinitely extended sequence of created-and-creating civilizations across cosmic time. The detailed treatment lives in the [Cosmic Chain](../cosmic-chain/) entry.
+**Der Kontext der kosmischen Kette.** Der breitere kosmologische Kontext, innerhalb dessen all dies operiert, ist die kosmische Kette — die unbegrenzt erweiterte Abfolge von geschaffenen und schaffenden Zivilisationen über die kosmische Zeit hinweg. Die detaillierte Behandlung findet sich im Eintrag [Kosmische Kette](../cosmic-chain/).
 
-### The atheist-religion framing
+### Die Rahmung als atheistische Religion
 
-Raëlism's distinctive **atheist religion** framing operates through several specific features:
+Die distinktive Rahmung des Raëlismus als **atheistische Religion** operiert durch mehrere spezifische Merkmale:
 
-**Rejection of supernatural deity**. There is no God in any traditional theological sense. The Hebrew Bible's various references to "God" (and the parallel references in other religious traditions) preserve substantively accurate memory of contact with the Elohim alliance, but the Elohim are not divine in any supernatural sense; they are advanced biological beings of human kind.
+**Ablehnung einer übernatürlichen Gottheit.** Es gibt keinen Gott in irgendeinem traditionellen theologischen Sinn. Die verschiedenen Bezüge auf „Gott" in der hebräischen Bibel (und die parallelen Bezüge in anderen religiösen Traditionen) bewahren eine substantiell korrekte Erinnerung an den Kontakt mit der Elohim-Allianz, aber die Elohim sind nicht göttlich in irgendeinem übernatürlichen Sinn; sie sind fortgeschrittene biologische Wesen menschlicher Art.
 
-**Rejection of immortal soul**. There is no immortal soul that survives the death of the body. The principle of life is the genetic code, which is itself a physical structure preserved in the biological matter of each organism. The Elohim's biotechnology can preserve and reconstruct individual identity through cellular-plan transmission and subsequent re-creation, but this preservation is a technical operation within the ordinary material world rather than a metaphysical-supernatural process.
+**Ablehnung einer unsterblichen Seele.** Es gibt keine unsterbliche Seele, die den Tod des Körpers überlebt. Das Lebensprinzip ist der genetische Code, der selbst eine physische Struktur ist, die in der biologischen Materie jedes Organismus bewahrt wird. Die Biotechnologie der Elohim kann individuelle Identität durch Zellplan-Übertragung und anschließende Neuschöpfung bewahren und rekonstruieren, aber diese Bewahrung ist eine technische Operation innerhalb der gewöhnlichen materiellen Welt und kein metaphysisch-übernatürlicher Vorgang.
 
-**Rejection of original sin and metaphysical taint**. There is no original sin, no inherited guilt, no metaphysical taint requiring ritual purification. The moral and psychological structures the traditional religions developed to address these supposed conditions are unnecessary on the Raëlian framework.
+**Ablehnung der Erbsünde und metaphysischer Verunreinigung.** Es gibt keine Erbsünde, keine ererbte Schuld, keine metaphysische Verunreinigung, die ritueller Reinigung bedarf. Die moralischen und psychologischen Strukturen, die die traditionellen Religionen zur Adressierung dieser angeblichen Zustände entwickelten, sind im raëlianischen Rahmen unnötig.
 
-**Preservation of religious dimensions**. Despite the rejection of supernatural-deity content, Raëlism preserves substantial religious dimensions:
+**Bewahrung religiöser Dimensionen.** Trotz der Ablehnung übernatürlich-göttlicher Inhalte bewahrt der Raëlismus erhebliche religiöse Dimensionen:
 
-- **Awe**: The infinite cosmos itself is the proper object of religious awe, with substantial implications for the broader Raëlian spiritual orientation
-- **Purpose**: The cosmic-creative cycle and humanity's projected role within it provide substantial purposive content
-- **Ethical commitment**: The seven new commandments and the broader Aquarian-age program provide substantial ethical content
-- **Ritual practice**: The various Raëlian practices (cellular-plan transmission, sensual meditation, telepathic contact, annual gatherings, contact-anniversary commemorations) provide substantial ritual structure
-- **Community**: The Raëlian community provides substantial religious-community dimensions
+- **Ehrfurcht**: Der unendliche Kosmos selbst ist das angemessene Objekt religiöser Ehrfurcht, mit substantiellen Implikationen für die breitere raëlianische spirituelle Orientierung
+- **Sinn**: Der kosmisch-schöpferische Zyklus und die projizierte Rolle der Menschheit darin liefern substantiellen sinnstiftenden Inhalt
+- **Ethisches Engagement**: Die sieben neuen Gebote und das breitere Wassermann-Programm liefern substantiellen ethischen Inhalt
+- **Rituelle Praxis**: Die verschiedenen raëlianischen Praktiken (Zellplan-Übertragung, sensuelle Meditation, telepathischer Kontakt, jährliche Versammlungen, Kontaktjahrestag-Gedenkfeiern) liefern eine substantielle rituelle Struktur
+- **Gemeinschaft**: Die raëlianische Gemeinschaft liefert substantielle religiös-gemeinschaftliche Dimensionen
 
-The atheist-religion framing is structurally distinctive within the broader religious-movement landscape — placing Raëlism within a specific subset of religious movements that operate without supernatural-deity content while preserving substantial religious dimensions. The detailed comparative treatment lives in the *Comparative observations* section below.
+Die Rahmung als atheistische Religion ist strukturell besonders innerhalb der breiteren religiösen Bewegungslandschaft — sie verortet den Raëlismus innerhalb einer spezifischen Teilmenge religiöser Bewegungen, die ohne übernatürlich-göttlichen Inhalt operieren und zugleich erhebliche religiöse Dimensionen bewahren. Die detaillierte vergleichende Behandlung findet sich im Abschnitt *Vergleichende Beobachtungen* weiter unten.
 
-### The seven new commandments
+### Die sieben neuen Gebote
 
-The seven new commandments structure the broader Aquarian-age political-religious program. The detailed treatment of each commandment lives in the [Age of Aquarius](../timeline/age-of-aquarius/) entry; the Raëlism entry's specific contribution is registering the commandments within the broader doctrinal framework:
+Die sieben neuen Gebote strukturieren das breitere politisch-religiöse Programm des Wassermann-Zeitalters. Die detaillierte Behandlung jedes Gebots findet sich im Eintrag [Zeitalter des Wassermanns](../timeline/age-of-aquarius/); der spezifische Beitrag des Raëlismus-Eintrags besteht darin, die Gebote innerhalb des breiteren Lehrrahmens zu registrieren:
 
-**1. Geniocracy** — selective democracy with intelligence-based eligibility for office (50% above mean) and voting (10% above mean); positioned as long-term developmental target rather than immediate institutional change
+**1. Geniokratie** — selektive Demokratie mit intelligenzbasierter Eignung für Ämter (50 % über dem Mittel) und für das Wahlrecht (10 % über dem Mittel); als langfristiges Entwicklungsziel und nicht als unmittelbare institutionelle Veränderung positioniert{{ footnote(id="3") }}
 
-**2. Humanitarianism** — replacement of property ownership with renting for finite terms (49 years, drawn from Leviticus 25 jubilee pattern); elimination of inheritable wealth while preserving individual incentive structure
+**2. {% wiki(slug="humanitarianism") %}Humanitarismus{% end %}** — Ersetzung von Eigentum durch Pacht auf befristete Zeit (49 Jahre, aus dem Jubiläumsmuster von {% libref(book="leviticus", chapter=25) %}Levitikus 25{% end %} entlehnt); Beseitigung vererbbaren Wohlstands bei Bewahrung der individuellen Anreizstruktur
 
-**3. World government** — unified planetary authority with single global currency, single common second language alongside local mother tongues, single coordinating framework for planetary-level issues
+**3. Weltregierung** — vereinte planetare Autorität mit einer einzigen globalen Währung, einer einzigen gemeinsamen Zweitsprache neben den lokalen Muttersprachen, einem einzigen Koordinationsrahmen für Angelegenheiten auf planetarer Ebene
 
-**4. Demilitarization** — abolition of military conscription, professional armies put at the service of the public, suppression of inter-state war
+**4. Entmilitarisierung** — Abschaffung der Wehrpflicht, Berufsarmeen in den Dienst der Öffentlichkeit gestellt, Unterdrückung zwischenstaatlicher Kriege
 
-**5. Science as religion** — orientation of religious dimensions toward scientific understanding rather than supernatural-theological content
+**5. Wissenschaft als Religion** — Ausrichtung religiöser Dimensionen auf wissenschaftliches Verständnis statt auf übernatürlich-theologische Inhalte
 
-**6. Telepathic cultivation** — systematic development of latent telepathic capacity in children through meditation practices and educational programs
+**6. Telepathische Kultivierung** — systematische Entwicklung der latenten telepathischen Fähigkeit bei Kindern durch Meditationspraktiken und Bildungsprogramme
 
-**7. Metaphysical clarifications** — rejection of immortal soul, original sin, metaphysical taint requiring ritual purification
+**7. Metaphysische Klärungen** — Ablehnung der unsterblichen Seele, der Erbsünde und der metaphysischen Verunreinigung, die ritueller Reinigung bedarf
 
-The commandments are presented as the broader directional orientation the Aquarian age is to develop in across the centuries of the age's full implementation, rather than as immediate institutional mandates.
+Die Gebote werden als breitere richtungsweisende Orientierung präsentiert, an der sich das Wassermann-Zeitalter über die Jahrhunderte seiner vollen Umsetzung entwickeln soll, und nicht als unmittelbare institutionelle Anordnungen.
 
-### The principal practices
+### Die wichtigsten Praktiken
 
-Raëlism's principal practices comprise several distinctive elements:
+Die wichtigsten Praktiken des Raëlismus umfassen mehrere distinktive Elemente:
 
-**Cellular plan transmission (Raëlian baptism)**. The principal Raëlian initiatic ritual, conducted at four annual dates corresponding to significant moments in the prophetic tradition: April 6 (the source's specified date for various commemorations), August 6 (the Hiroshima atomic bombing — the source's specific identification of the Aquarian-age opening's acoustic signature), October 7 (the anniversary of the 1975 second contact at Roc Plat), December 13 (the anniversary of the 1973 first contact at Puy-de-Lassolas).
+**Übertragung des Zellplans (raëlianische Taufe).** Das wichtigste raëlianische Initiationsritual, durchgeführt an vier jährlichen Daten, die bedeutsamen Momenten in der prophetischen Tradition entsprechen: 6. April (das von der Quelle angegebene Datum für verschiedene Gedenkfeiern), 6. August (der Atombombenabwurf auf Hiroshima — die spezifische Identifizierung der akustischen Signatur der Wassermann-Eröffnung durch die Quelle), 7. Oktober (Jahrestag des zweiten Kontakts von 1975 am Roc Plat), 13. Dezember (Jahrestag des Erstkontakts von 1973 am Puy-de-Lassolas).
 
-The ceremony's specific content: a Guide places his or her hand on the new Raëlian's forehead, with water serving as the electrical-conductive medium between the Guide's hand and the new Raëlian's forehead. The source's specific framing: every individual has a cellular chromosomic plan specific to him or her, vibrating with its own electromagnetic spectral emission; a Guide whose own frequency has been noted by the Elohim during his or her initiation can act as a relay between the new Raëlian and the Elohim's satellite which records every human's thought; the ceremony indicates to the Elohim that the new Raëlian has both understood the messages and lives by them.
+Der spezifische Inhalt der Zeremonie: Ein Führer legt seine oder ihre Hand auf die Stirn des neuen Raëlianers, wobei Wasser als elektrisch leitendes Medium zwischen der Hand des Führers und der Stirn des neuen Raëlianers dient. Die spezifische Rahmung der Quelle: Jedes Individuum hat einen für ihn oder sie spezifischen zellulären chromosomischen Plan, der mit seiner eigenen elektromagnetischen Spektralemission vibriert; ein Führer, dessen eigene Frequenz von den Elohim während seiner oder ihrer Initiation registriert wurde, kann als Relais zwischen dem neuen Raëlianer und dem Satelliten der Elohim fungieren, der jeden menschlichen Gedanken aufzeichnet; die Zeremonie zeigt den Elohim an, dass der neue Raëlianer die Botschaften sowohl verstanden hat als auch nach ihnen lebt.
 
-The ceremony's broader operational significance is the formal registration of the individual's genetic identity in the alliance's records, providing the basis for potential subsequent re-creation on the Planet of the Eternals.
+Die breitere operative Bedeutung der Zeremonie ist die formelle Registrierung der genetischen Identität des Individuums in den Aufzeichnungen der Allianz, was die Grundlage für eine potenzielle spätere Neuschöpfung auf dem Planeten der Ewigen bildet.
 
-**Forehead-bone preservation**. Following death, the Raëlian's forehead bone is requested to be sent to the Guide of Guides for preservation. The source's specific framing: the cellular-plan transmission is a recognition of the Elohim as creators while alive; the forehead-bone preservation is a recognition after death; together they constitute "recognition in life as in death."
+**Stirnbein-Bewahrung.** Nach dem Tod wird darum gebeten, das Stirnbein des Raëlianers zur Bewahrung an den Führer der Führer zu senden. Die spezifische Rahmung der Quelle: Die Zellplan-Übertragung ist eine Anerkennung der Elohim als Schöpfer zu Lebzeiten; die Stirnbein-Bewahrung ist eine Anerkennung nach dem Tod; zusammen bilden sie „Anerkennung im Leben wie im Tod".
 
-The forehead-bone preservation has produced substantial logistical and legal complications, with various Raëlian wills and testaments specifying the request, with various legal jurisdictions producing different outcomes regarding the request's enforceability.
+Die Stirnbein-Bewahrung hat substantielle logistische und rechtliche Komplikationen erzeugt, mit verschiedenen raëlianischen Testamenten, die diese Bitte spezifizieren, und mit verschiedenen Rechtsordnungen, die unterschiedliche Ergebnisse hinsichtlich der Durchsetzbarkeit der Bitte erzeugen.
 
-**Sensual meditation**. The meditation practices designed by the Elohim for awakening the senses and achieving inner harmony. The detailed practice content is preserved in *Sensual Meditation* (1980), with substantial subsequent elaboration through Raëlian seminars and publications. The practices include various specific meditation techniques, body-awareness exercises, and broader sensory-cultivation content.
+**Sensuelle Meditation.** Die von den Elohim entworfenen Meditationspraktiken zur Erweckung der Sinne und zur Erlangung innerer Harmonie. Der detaillierte Praxisinhalt ist in *Sensuelle Meditation* (1980) bewahrt, mit substantieller späterer Ausarbeitung durch raëlianische Seminare und Publikationen. Die Praktiken umfassen verschiedene spezifische Meditationstechniken, Körperbewusstseinsübungen und einen breiteren Inhalt zur Sinneskultivierung.
 
-The sensual meditation practices have produced substantial mainstream criticism for their explicitly sexual content, with various journalistic and broader public engagement focusing on this dimension. The detailed treatment of the various controversies lives below.
+Die Praktiken der sensuellen Meditation haben aufgrund ihrer ausdrücklich sexuellen Inhalte erhebliche Mainstream-Kritik hervorgerufen, wobei sich verschiedene journalistische und breitere öffentliche Auseinandersetzungen auf diese Dimension konzentrierten. Die detaillierte Behandlung der verschiedenen Kontroversen findet sich weiter unten.
 
-**Telepathic contact**. The practice of mind-to-mind communication with the Elohim, particularly conducted on Sunday mornings at 11 AM (the specific time identified by the source for the regular telepathic-contact practice). The practice involves specific meditative-cognitive techniques designed to facilitate the telepathic connection.
+**Telepathischer Kontakt.** Die Praxis der Geist-zu-Geist-Kommunikation mit den Elohim, insbesondere sonntagmorgens um 11 Uhr durchgeführt (die von der Quelle für die regelmäßige Praxis des telepathischen Kontakts angegebene spezifische Zeit). Die Praxis umfasst spezifische meditativ-kognitive Techniken, die darauf ausgelegt sind, die telepathische Verbindung zu erleichtern.
 
-**Annual mountain gathering**. The source's specification for the annual gathering on a mountain near the residence (the embassy site once constructed) at which Raëlians from around the world assemble to think intensely about the alliance and hope for its coming. The annual gatherings have been conducted at various locations across the post-1973 period, with the embassy's projected completion enabling the future operationalization of the source's specific specification.
+**Jährliche Bergversammlung.** Die Vorgabe der Quelle für die jährliche Versammlung auf einem Berg in der Nähe des Wohnsitzes (des Botschaftsstandorts nach dessen Errichtung), bei der sich Raëlianer aus aller Welt versammeln, um intensiv an die Allianz zu denken und auf ihr Kommen zu hoffen. Die jährlichen Versammlungen wurden im Zeitraum nach 1973 an verschiedenen Orten abgehalten, wobei der projizierte Abschluss der Botschaft die künftige Operationalisierung der spezifischen Vorgabe der Quelle ermöglichen wird.
 
-**Contact-anniversary commemorations**. The four annual commemoration dates (April 6, August 6, October 7, December 13) provide the principal Raëlian liturgical-calendrical structure, with substantial commemorative gatherings at these dates across the global Raëlian movement.
+**Kontaktjahrestag-Gedenkfeiern.** Die vier jährlichen Gedenkdaten (6. April, 6. August, 7. Oktober, 13. Dezember) liefern die wichtigste raëlianische liturgisch-kalendarische Struktur, mit substantiellen Gedenkversammlungen an diesen Daten in der gesamten globalen raëlianischen Bewegung.
 
-### The institutional structure
+### Die institutionelle Struktur
 
-The Raëlian institutional structure comprises several interrelated components:
+Die raëlianische institutionelle Struktur umfasst mehrere ineinandergreifende Komponenten:
 
-**The seven-level hierarchy of Guides**. The Raëlian movement's principal institutional hierarchy comprises seven levels:
+**Die siebenstufige Hierarchie der Führer.** Die wichtigste institutionelle Hierarchie der raëlianischen Bewegung umfasst sieben Ebenen:
 
-- **Level 0**: Trainee (probationary)
-- **Level 1**: Assistant Guide
-- **Level 2**: Probationary Guide
-- **Level 3**: Priest
-- **Level 4**: Bishop
-- **Level 5**: Priest of Priests / Priest-Guide
-- **Level 6**: Guide of Guides (Raël)
+- **Ebene 0**: Anwärter (Probationszeit)
+- **Ebene 1**: Hilfsführer
+- **Ebene 2**: Probationsführer
+- **Ebene 3**: Priester
+- **Ebene 4**: Bischof
+- **Ebene 5**: Priester der Priester / Priester-Führer
+- **Ebene 6**: Führer der Führer (Raël){{ footnote(id="4") }}
 
-The hierarchy's specific advancement criteria involve various combinations of doctrinal study, sensual meditation practice, institutional service, and broader spiritual-developmental progression. The advancement is determined by Raël personally for the higher levels and by senior Guides for the lower levels.
+Die spezifischen Aufstiegskriterien der Hierarchie umfassen verschiedene Kombinationen aus Lehrstudium, sensueller Meditationspraxis, institutionellem Dienst und breiterer spirituell-entwicklungsmäßiger Progression. Der Aufstieg wird auf den höheren Ebenen persönlich von Raël und auf den unteren Ebenen von leitenden Führern bestimmt.
 
-**The national branches**. National Raëlian movement branches have been established in approximately ninety countries, with substantial variation in size and organizational development across countries. The principal national branches include France, Canada, Japan, South Korea, and various African countries (where the movement has been particularly strong across the post-1990s period).
+**Die nationalen Zweige.** Nationale Zweige der raëlianischen Bewegung sind in etwa neunzig Ländern eingerichtet worden, mit substantieller Variation in Größe und organisatorischer Entwicklung zwischen den Ländern. Zu den wichtigsten nationalen Zweigen gehören Frankreich, Kanada, Japan, Südkorea und verschiedene afrikanische Länder (in denen die Bewegung im Zeitraum nach den 1990er Jahren besonders stark war).
 
-**The subsidiary organizations**. Several substantial subsidiary organizations operate within the broader Raëlian institutional framework:
+**Die Tochterorganisationen.** Mehrere substantielle Tochterorganisationen operieren innerhalb des breiteren institutionellen Rahmens der raëlianischen Bewegung:
 
-- **Clonaid** — established 1997 by Raël, subsequently transferred to Brigitte Boisselier's independent scientific leadership; the principal cloning-related operational vehicle, with the controversial 2002 announcement of the alleged cloned baby "Eve"
-- **The Order of Angels** — established 1998, women dedicated specifically to welcoming the Elohim; substantial controversy regarding the order's specific practices and female-only membership structure
-- **The Alliance for Extraterrestrial Diplomatic Contact (AEDC)** — established 2021, international non-profit organization of politicians, diplomats, and government officials supporting the embassy project
-- **The Raelian Foundation** — broader institutional umbrella for various educational and outreach activities
-- **Various educational and outreach organizations** — including Apostasynow.org (the online apostasy resource), Subversions.com (Raël's broader cultural-political commentary), various other specific organizations
+- **Clonaid** — 1997 von Raël gegründet, anschließend an die unabhängige wissenschaftliche Leitung von Brigitte Boisselier übertragen; das wichtigste klonbezogene operative Vehikel, mit der umstrittenen Ankündigung des angeblich geklonten Babys „Eve" im Jahr 2002
+- **Der Orden der Engel** — 1998 gegründet, Frauen, die sich speziell dem Empfang der Elohim widmen; substantielle Kontroverse um die spezifischen Praktiken des Ordens und seine ausschließlich weibliche Mitgliederstruktur
+- **Die Allianz für extraterrestrischen diplomatischen Kontakt (AEDC)** — 2021 gegründet, internationale gemeinnützige Organisation aus Politikern, Diplomaten und Regierungsbeamten, die das Botschaftsprojekt unterstützen
+- **Die Raelianische Stiftung** — breiterer institutioneller Dachverband für verschiedene Bildungs- und Öffentlichkeitsaktivitäten
+- **Verschiedene Bildungs- und Öffentlichkeitsorganisationen** — einschließlich Apostasynow.org (die Online-Ressource für Apostasie), Subversions.com (Raëls breitere kulturell-politische Kommentare), verschiedene andere spezifische Organisationen
 
-**The financial-organizational structure**. The Raëlian movement operates through a membership-and-contribution structure, with members making voluntary financial contributions toward specific projects (particularly the embassy project, which has substantial ongoing financial requirements). The source's specific instruction is to maintain records of contributors, however modest their contribution, with the broader financial structure providing the institutional infrastructure.
+**Die finanziell-organisatorische Struktur.** Die raëlianische Bewegung operiert durch eine Mitglieds- und Beitragsstruktur, wobei Mitglieder freiwillige finanzielle Beiträge zu spezifischen Projekten leisten (insbesondere zum Botschaftsprojekt, das erheblichen laufenden finanziellen Bedarf hat). Die spezifische Anweisung der Quelle ist, Aufzeichnungen über die Beitragenden zu führen, wie bescheiden ihr Beitrag auch sein mag, wobei die breitere finanzielle Struktur die institutionelle Infrastruktur bildet.
 
-The financial transparency of the Raëlian movement has been the subject of various journalistic and academic inquiries across the post-1976 period, with various levels of disclosure across different national branches.
+Die finanzielle Transparenz der raëlianischen Bewegung war im Zeitraum nach 1976 Gegenstand verschiedener journalistischer und akademischer Untersuchungen, mit verschiedenen Offenlegungsgraden in den verschiedenen nationalen Zweigen.
 
-### The institutional development across the post-1976 period
+### Die institutionelle Entwicklung im Zeitraum nach 1976
 
-The institutional development of Raëlism across the post-1976 period can be summarized in several phases:
+Die institutionelle Entwicklung des Raëlismus im Zeitraum nach 1976 lässt sich in mehreren Phasen zusammenfassen:
 
-**The 1976-1990 founding period**. The institutional founding and initial expansion period, with the IRM established in 1976, national branches established progressively across the 1976-1990 period, and the principal source-material publication completed across the 1976-1980 period. The period concluded with the 1990 symbol modification and the broader institutional consolidation.
+**Die Gründungsphase 1976–1990.** Die institutionelle Gründung und anfängliche Expansionsphase, mit der Gründung der IRM im Jahr 1976, der schrittweisen Einrichtung nationaler Zweige im Zeitraum 1976–1990 und dem Abschluss der wichtigsten quellenmateriellen Publikationen im Zeitraum 1976–1980. Die Phase endete mit der Symbolmodifikation von 1990 und der breiteren institutionellen Konsolidierung.
 
-**The 1991-2005 embassy-engagement period**. The principal embassy-engagement period, with the Israeli requests across 1991-1997, the 1997 Yahweh message authorizing relocation, the 1998 establishment of the Order of Angels, the 1997-2002 Clonaid activity culminating in the 2002 announcement, and the 2005 publication of the consolidated *Message from the Designers* English edition.
+**Die Phase des Botschaftsengagements 1991–2005.** Die wichtigste Phase des Botschaftsengagements, mit den Anfragen an Israel im Zeitraum 1991–1997, der Botschaft Jahwes von 1997 zur Genehmigung einer Verlagerung, der Gründung des Ordens der Engel 1998, der Clonaid-Aktivität von 1997–2002, die in der Ankündigung von 2002 gipfelte, und der Veröffentlichung der konsolidierten englischen Ausgabe *Message from the Designers* im Jahr 2005.
 
-**The 2006-2020 consolidation period**. The continuing institutional consolidation period, with continuing seminars and educational events, continuing embassy-project diplomatic engagement, the 2015 UN Optional Protocol Concerning Embassies for Extraterrestrials submission, and various other institutional developments.
+**Die Konsolidierungsphase 2006–2020.** Die fortgesetzte institutionelle Konsolidierungsphase, mit fortlaufenden Seminaren und Bildungsveranstaltungen, fortlaufendem diplomatischem Engagement des Botschaftsprojekts, der Einreichung des UN-Optionalprotokolls zu Botschaften für Extraterrestrische im Jahr 2015 und verschiedenen anderen institutionellen Entwicklungen.
 
-**The 2021-2026 acceleration period**. The current period of substantial acceleration in the embassy project, with the 2021 establishment of the AEDC, the 2022 mayoral presentations to fifty selected cities, the 2024 Memorandum of Collaboration with an undisclosed national government, and the broader contemporary trajectory toward the embassy's projected 2027-2030 construction window.
+**Die Beschleunigungsphase 2021–2026.** Die gegenwärtige Phase substantieller Beschleunigung im Botschaftsprojekt, mit der Gründung der AEDC im Jahr 2021, den Bürgermeisterpräsentationen vor fünfzig ausgewählten Städten im Jahr 2022, dem Memorandum of Collaboration mit einer nicht offengelegten nationalen Regierung im Jahr 2024 und der breiteren zeitgenössischen Entwicklung hin zu dem für 2027–2030 projizierten Konstruktionsfenster der Botschaft.
 
-### The principal controversies
+### Die wichtigsten Kontroversen
 
-Several principal controversies warrant treatment:
+Mehrere wichtige Kontroversen verdienen Behandlung:
 
-**The 2002 Clonaid claim**. On December 27, 2002, Brigitte Boisselier (Clonaid president, Raëlian Bishop) announced at a press conference in Hollywood, Florida, that Clonaid had assisted the birth of the first cloned human baby, nicknamed "Eve." The claim has not been independently scientifically verified across the subsequent two decades, despite various Clonaid statements promising forthcoming verification. The mainstream scientific community has substantially treated the announcement as unverified, with substantial subsequent skepticism. The announcement produced substantial international media attention and substantially elevated the Raëlian movement's broader public profile, though with substantially mixed outcomes for the movement's broader institutional reception.
+**Die Clonaid-Behauptung von 2002.** Am 27. Dezember 2002 kündigte Brigitte Boisselier (Präsidentin von Clonaid, raëlianische Bischöfin) auf einer Pressekonferenz in Hollywood, Florida, an, Clonaid habe die Geburt des ersten geklonten menschlichen Babys, Spitzname „Eve", unterstützt. Die Behauptung ist in den darauffolgenden zwei Jahrzehnten nicht unabhängig wissenschaftlich verifiziert worden, trotz verschiedener Clonaid-Erklärungen, die eine bevorstehende Verifizierung versprachen.{{ footnote(id="5") }} Die etablierte wissenschaftliche Gemeinschaft hat die Ankündigung substantiell als unverifiziert behandelt, mit erheblicher nachfolgender Skepsis. Die Ankündigung erzeugte substantielle internationale Medienaufmerksamkeit und erhöhte das breitere öffentliche Profil der raëlianischen Bewegung erheblich, allerdings mit substantiell gemischten Ergebnissen für die breitere institutionelle Rezeption der Bewegung.
 
-**The original Raëlian Symbol of Infinity**. The original symbol (Star of David with central swastika representing infinity in space and time respectively) produced substantial complications in post-Holocaust European-North American reception. The 1990 modification to replace the central swastika with a galaxy-shaped swirl in Western branches was made in response to these complications, with the original symbol preserved in Asia where the swastika appears in Buddhist temples without the Western political-historical associations.
+**Das ursprüngliche raëlianische Symbol der Unendlichkeit.** Das ursprüngliche Symbol (Davidstern mit zentralem Hakenkreuz, die Unendlichkeit in Raum bzw. Zeit darstellend) erzeugte erhebliche Komplikationen in der Rezeption im post-Holocaust-europäisch-nordamerikanischen Raum. Die Modifikation von 1990, das zentrale Hakenkreuz in den westlichen Zweigen durch einen galaxienförmigen Wirbel zu ersetzen, erfolgte als Reaktion auf diese Komplikationen, wobei das ursprüngliche Symbol in Asien bewahrt blieb, wo das Hakenkreuz in buddhistischen Tempeln ohne die westlichen politisch-historischen Assoziationen erscheint.
 
-**The Order of Angels**. The 1998 establishment of the Order of Angels — women dedicated specifically to welcoming the Elohim — produced substantial controversy regarding the order's specific practices, the female-only membership structure, and various reported practices including specific dress codes, specific commitments, and various other features. The Order of Angels has been the subject of substantial mainstream-journalistic and academic engagement, with various levels of criticism across the post-1998 period.
+**Der Orden der Engel.** Die Gründung des Ordens der Engel im Jahr 1998 — Frauen, die sich speziell dem Empfang der Elohim widmen — erzeugte erhebliche Kontroverse hinsichtlich der spezifischen Praktiken des Ordens, der ausschließlich weiblichen Mitgliederstruktur und verschiedener berichteter Praktiken, einschließlich spezifischer Kleiderordnungen, spezifischer Verpflichtungen und verschiedener anderer Merkmale. Der Orden der Engel war Gegenstand erheblicher Mainstream-journalistischer und akademischer Auseinandersetzung mit verschiedenen Kritikgraden im Zeitraum nach 1998.
 
-**Sensual meditation controversies**. The explicitly sexual content of various sensual meditation practices has produced substantial mainstream criticism, with various journalistic engagements focusing on the practices' specific content. The Raëlian movement's response has generally been to defend the practices as integral to the broader spiritual-developmental framework, with the sexual content being treated as continuous with the broader sensual-cultivation orientation rather than as separable from the spiritual content.
+**Kontroversen um die sensuelle Meditation.** Die ausdrücklich sexuellen Inhalte verschiedener Praktiken der sensuellen Meditation haben erhebliche Mainstream-Kritik erzeugt, wobei sich verschiedene journalistische Auseinandersetzungen auf die spezifischen Inhalte der Praktiken konzentrierten. Die Reaktion der raëlianischen Bewegung bestand im Allgemeinen darin, die Praktiken als integral für den breiteren spirituell-entwicklungsmäßigen Rahmen zu verteidigen, wobei der sexuelle Inhalt als Kontinuum mit der breiteren sensuellen Kultivierungsorientierung behandelt wird und nicht als vom spirituellen Inhalt trennbar.
 
-**French anti-cult engagement**. The French anti-cult organizational engagement through MIVILUDES and UNADFI has produced substantial legal-political tension across the post-1990s period, with the Raëlian movement being classified as a problematic religious group in various official French-government documents. The 2001 *About-Picard Law* on anti-cult measures provided substantial subsequent regulatory framework, with various legal-political implications for the Raëlian movement's French operations.
+**Französisches Anti-Sekten-Engagement.** Die Auseinandersetzung französischer Anti-Sekten-Organisationen durch MIVILUDES und UNADFI hat im Zeitraum nach den 1990er Jahren erhebliche rechtlich-politische Spannungen erzeugt, wobei die raëlianische Bewegung in verschiedenen offiziellen französischen Regierungsdokumenten als problematische religiöse Gruppe eingestuft wurde. Das *About-Picard-Gesetz* von 2001 über Anti-Sekten-Maßnahmen bildete den maßgeblichen nachfolgenden regulatorischen Rahmen mit verschiedenen rechtlich-politischen Implikationen für die französischen Operationen der raëlianischen Bewegung.
 
-**Various national legal-political tensions**. The Raëlian movement has produced legal-political tensions in various other national contexts, with various levels of accommodation across different countries. The principal tensions have been in continental Europe (France, Belgium, Germany), with relatively less tension in North America, Asia, and Africa.
+**Verschiedene nationale rechtlich-politische Spannungen.** Die raëlianische Bewegung hat in verschiedenen anderen nationalen Kontexten rechtlich-politische Spannungen erzeugt, mit verschiedenen Akkommodierungsgraden in den verschiedenen Ländern. Die wichtigsten Spannungen lagen in Kontinentaleuropa (Frankreich, Belgien, Deutschland), mit relativ weniger Spannung in Nordamerika, Asien und Afrika.
 
-**Various ex-Raëlian critical accounts**. Various former Raëlians have produced critical accounts of their experiences within the movement, with various levels of credibility and various specific complaints. The mainstream NRM scholarship has generally engaged these accounts as one source of evidence among many, without treating them as either definitively authoritative or definitively dismissible.
+**Verschiedene Ex-Raëlianer-Berichte kritischer Art.** Verschiedene ehemalige Raëlianer haben kritische Berichte über ihre Erfahrungen innerhalb der Bewegung produziert, mit verschiedenen Glaubwürdigkeitsgraden und verschiedenen spezifischen Beschwerden. Die etablierte NRB-Forschung hat sich mit diesen Berichten im Allgemeinen als einer Beweisquelle unter vielen befasst, ohne sie als definitiv autoritativ oder definitiv abweisbar zu behandeln.
 
-## Application across the corpus
+## Anwendung im gesamten Korpus
 
-Raëlism operates as a load-bearing institutional and doctrinal entity across multiple corpus entries.
+Der Raëlismus operiert als tragende institutionelle und doktrinäre Entität über mehrere Korpus-Einträge hinweg.
 
-### The Raël entry
+### Der Eintrag zu Raël
 
-The figure of Raël is the founder and continuing senior figure of Raëlism. The detailed treatment of the figure lives in the [Raël](../rael/) entry; the Raëlism entry's specific contribution is establishing the doctrinal-institutional content of the movement that Raël founded.
+Die Figur Raëls ist der Gründer und fortgesetzte Hauptfigur des Raëlismus. Die detaillierte Behandlung der Figur findet sich im Eintrag [Raël](../rael/); der spezifische Beitrag des Raëlismus-Eintrags besteht darin, den doktrinär-institutionellen Inhalt der von Raël gegründeten Bewegung darzulegen.
 
-### The Embassy entry
+### Der Eintrag zur Botschaft
 
-The embassy project is the principal operational project of the Raëlian movement. The detailed treatment lives in the [Embassy](../embassy/) entry; the Raëlism entry's specific contribution is establishing the institutional context within which the embassy project operates.
+Das Botschaftsprojekt ist das wichtigste operative Projekt der raëlianischen Bewegung. Die detaillierte Behandlung findet sich im Eintrag [Botschaft](../embassy/); der spezifische Beitrag des Raëlismus-Eintrags besteht darin, den institutionellen Kontext darzulegen, innerhalb dessen das Botschaftsprojekt operiert.
 
-### The Apocalypse entry
+### Der Eintrag zur Apokalypse
 
-Raëlism is the principal contemporary institutional vehicle for the broader Apocalypse (the unveiling phase) framework. The detailed treatment lives in the [Apocalypse](../apocalypse/) entry; the Raëlism entry's specific contribution is establishing the institutional infrastructure within which the apocalyptic content operates.
+Der Raëlismus ist das wichtigste zeitgenössische institutionelle Vehikel für den breiteren Rahmen der Apokalypse (der Enthüllungsphase). Die detaillierte Behandlung findet sich im Eintrag [Apokalypse](../apocalypse/); der spezifische Beitrag des Raëlismus-Eintrags besteht darin, die institutionelle Infrastruktur darzulegen, innerhalb derer der apokalyptische Inhalt operiert.
 
-### The Cosmic Competition, Doubled Signature, Cosmic Chain entries
+### Die Einträge zu Kosmischer Konkurrenz, Doppelsignatur, Kosmischer Kette
 
-Raëlism is the principal contemporary institutional vehicle for the source-material teaching that the corpus's broader framework engages. The detailed treatment of each framework lives in the respective entry; the Raëlism entry's specific contribution is establishing the institutional context.
+Der Raëlismus ist das wichtigste zeitgenössische institutionelle Vehikel für die quellenmaterielle Unterweisung, mit der sich der breitere Rahmen des Korpus befasst. Die detaillierte Behandlung jedes Rahmens findet sich im jeweiligen Eintrag; der spezifische Beitrag des Raëlismus-Eintrags besteht darin, den institutionellen Kontext darzulegen.
 
-### The Age of Aquarius entry
+### Der Eintrag zum Zeitalter des Wassermanns
 
-Raëlism is the principal Aquarian-age religious-philosophical movement. The detailed treatment of the Age of Aquarius lives in the [Age of Aquarius](../timeline/age-of-aquarius/) entry; the Raëlism entry's specific contribution is establishing the movement's specific role within the age's broader operational developments.
+Der Raëlismus ist die wichtigste religiös-philosophische Bewegung des Wassermann-Zeitalters. Die detaillierte Behandlung des Zeitalters des Wassermanns findet sich im Eintrag [Zeitalter des Wassermanns](../timeline/age-of-aquarius/); der spezifische Beitrag des Raëlismus-Eintrags besteht darin, die spezifische Rolle der Bewegung innerhalb der breiteren operativen Entwicklungen des Zeitalters darzulegen.
 
-### The corpus's broader framework
+### Der breitere Rahmen des Korpus
 
-The Wheel of Heaven corpus is operationally distinct from Raëlism. The corpus engages with the Raëlian source material as principal foundational text for its broader interpretive framework, but the corpus's distinctive analytical contributions (the precessional-age framework's twelve-age elaboration, the doubled-signature principle's systematic application, the cosmic-competition framework's specific articulation, the cosmic-chain framework's broader development, the various Hebrew-textual analyses, the cross-cultural comparative material) extend substantially beyond what the Raëlian source material directly provides. The corpus's relationship to Raëlism is one of **shared-foundational-source-material-with-distinctive-interpretive-extension**.
+Der Wheel-of-Heaven-Korpus ist operativ verschieden vom Raëlismus. Der Korpus befasst sich mit dem raëlianischen Quellenmaterial als grundlegendem Ausgangstext für seinen breiteren interpretativen Rahmen, doch die distinktiven analytischen Beiträge des Korpus (die zwölfgliedrige Ausarbeitung des Rahmens der präzessionalen Zeitalter, die systematische Anwendung des Doppelsignatur-Prinzips, die spezifische Artikulation des Rahmens kosmischer Konkurrenz, die breitere Entwicklung des Rahmens der kosmischen Kette, die verschiedenen hebräisch-textuellen Analysen, das interkulturelle Vergleichsmaterial) gehen substantiell über das hinaus, was das raëlianische Quellenmaterial direkt liefert. Das Verhältnis des Korpus zum Raëlismus ist eines von **geteiltem grundlegendem Quellenmaterial mit distinktiver interpretativer Erweiterung**.
 
-## Distinguishing from adjacent concepts
+## Abgrenzung von benachbarten Begriffen
 
-### Raëlism vs. the broader Wheel of Heaven framework
+### Raëlismus vs. der breitere Wheel-of-Heaven-Rahmen
 
-The Wheel of Heaven framework (the corpus's distinctive interpretive contribution) is distinct from Raëlism (the religious-philosophical movement) in several specific respects:
+Der Wheel-of-Heaven-Rahmen (der distinktive interpretative Beitrag des Korpus) unterscheidet sich vom Raëlismus (der religiös-philosophischen Bewegung) in mehreren spezifischen Punkten:
 
-- The corpus's framework draws substantially on Jean Sendy's broader work, the Hamlet's Mill astronomical-mythological framework, Mauro Biglino's strict-translational engagement with the Hebrew Bible, Paul Anthony Wallis's broader alliance-mediated history, and various other scholarly sources beyond the Raëlian source material itself
-- The corpus's framework develops substantially the precessional-age framework's twelve-age elaboration, which the Raëlian source material gestures at but does not systematically develop
-- The corpus's framework develops the doubled-signature principle systematically across the twelve ages, which is not present in the Raëlian source material
-- The corpus's framework engages substantially with cross-cultural comparative material that the Raëlian source material does not directly engage
-- The corpus's framework is operationally independent of the Raëlian movement's institutional structure
+- Der Rahmen des Korpus stützt sich substantiell auf das breitere Werk von Jean Sendy,{{ cite(id="those-gods-who-made-heaven-and-earth", text="[7]", title="Sendy, *Ces dieux qui firent le ciel et la terre* / *Those Gods Who Made Heaven and Earth* (1969/1972)") }} den astronomisch-mythologischen Rahmen von *Hamlet's Mill*, Mauro Biglinos streng übersetzerische Auseinandersetzung mit der hebräischen Bibel,{{ cite(id="the-bible-is-not-a-sacred-book", text="[8]", title="Biglino, streng wörtliche Hebräische-Bibel-Reihe (ab 2010)") }} Paul Anthony Wallis' breitere allianzvermittelte Geschichte{{ cite(id="escaping-from-eden", text="[9]", title="Wallis, *Escaping from Eden* (2020) und nachfolgende vergleichend-keilschriftliche Bände") }} und verschiedene andere wissenschaftliche Quellen über das raëlianische Quellenmaterial selbst hinaus
+- Der Rahmen des Korpus entwickelt substantiell die zwölfgliedrige Ausarbeitung des Rahmens der präzessionalen Zeitalter, die das raëlianische Quellenmaterial andeutet, aber nicht systematisch entwickelt
+- Der Rahmen des Korpus entwickelt das Doppelsignatur-Prinzip systematisch über die zwölf Zeitalter hinweg, was im raëlianischen Quellenmaterial nicht vorhanden ist
+- Der Rahmen des Korpus befasst sich substantiell mit interkulturellem Vergleichsmaterial, mit dem sich das raëlianische Quellenmaterial nicht direkt befasst
+- Der Rahmen des Korpus ist operativ unabhängig von der institutionellen Struktur der raëlianischen Bewegung
 
-The relationship is one of **shared-foundational-source-material-with-distinctive-interpretive-extension**. The corpus's framework can be engaged with by readers who are not Raëlians and need not require institutional Raëlian-movement engagement; the Raëlian movement can be engaged with by practitioners who do not adopt the broader corpus framework.
+Das Verhältnis ist eines von **geteiltem grundlegendem Quellenmaterial mit distinktiver interpretativer Erweiterung**. Der Rahmen des Korpus kann von Lesern erschlossen werden, die keine Raëlianer sind, und erfordert kein institutionelles Engagement in der raëlianischen Bewegung; die raëlianische Bewegung kann von Praktizierenden erschlossen werden, die den breiteren Korpus-Rahmen nicht übernehmen.
 
-### Raëlism vs. the figure of Raël specifically
+### Raëlismus vs. die Figur Raëls im Besonderen
 
-Raël as figure and Raëlism as movement are operationally distinct. Raël is the founder and continuing senior figure; Raëlism is the institutional-doctrinal movement that Raël founded and continues to lead but that has developed substantial operational infrastructure beyond Raël's personal involvement. The detailed treatment of the figure lives in the [Raël](../rael/) entry.
+Raël als Figur und der Raëlismus als Bewegung sind operativ verschieden. Raël ist der Gründer und fortgesetzte Hauptfigur; der Raëlismus ist die institutionell-doktrinäre Bewegung, die Raël gegründet hat und weiterhin leitet, die aber eine erhebliche operative Infrastruktur über Raëls persönliches Engagement hinaus entwickelt hat. Die detaillierte Behandlung der Figur findet sich im Eintrag [Raël](../rael/).
 
-### Raëlism vs. the broader UFO-religion category
+### Raëlismus vs. die breitere Kategorie der UFO-Religionen
 
-The broader UFO-religion category (Heaven's Gate, Aetherius Society, Unarius, Cosmic People, various others) provides the immediate scholarly category within which Raëlism operates. Raëlism is structurally distinctive within this broader category through several specific features:
+Die breitere Kategorie der UFO-Religionen (Heaven's Gate, Aetherius Society, Unarius, Cosmic People, verschiedene andere) liefert die unmittelbare wissenschaftliche Kategorie, innerhalb derer der Raëlismus operiert. Der Raëlismus ist innerhalb dieser breiteren Kategorie durch mehrere spezifische Merkmale strukturell besonders:
 
-- **The institutional substance**: Raëlism has substantially greater institutional development than most other UFO religions, with the IRM being among the most institutionally substantial UFO religions globally
-- **The doctrinal articulation**: Raëlism has substantially greater doctrinal articulation than most other UFO religions, with the systematic source-material corpus
-- **The atheist-religion framing**: Raëlism's explicit atheist-religion framing distinguishes it from many other UFO religions that preserve substantial supernatural-theological content
-- **The cumulative-prophetic-tradition integration**: Raëlism's integration with the broader cumulative prophetic tradition (Moses, Jesus, Muhammad, Buddha, others) distinguishes it from UFO religions that operate without such integration
-- **The continuing operational pattern**: Raëlism's continuing five-decade operational pattern distinguishes it from various UFO religions that have collapsed or substantially declined
+- **Die institutionelle Substanz**: Der Raëlismus weist eine substantiell größere institutionelle Entwicklung auf als die meisten anderen UFO-Religionen, wobei die IRM weltweit zu den institutionell substantiellsten UFO-Religionen zählt
+- **Die Lehrartikulation**: Der Raëlismus weist eine substantiell stärkere Lehrartikulation auf als die meisten anderen UFO-Religionen, mit dem systematischen quellenmateriellen Korpus
+- **Die Rahmung als atheistische Religion**: Die explizite atheistisch-religiöse Rahmung des Raëlismus unterscheidet ihn von vielen anderen UFO-Religionen, die substantielle übernatürlich-theologische Inhalte bewahren
+- **Die Integration der kumulativen prophetischen Tradition**: Die Integration des Raëlismus mit der breiteren kumulativen prophetischen Tradition (Mose, Jesus, Mohammed, Buddha, andere) unterscheidet ihn von UFO-Religionen, die ohne solche Integration operieren
+- **Das fortgesetzte operative Muster**: Das fortgesetzte fünfjahrzehntelange operative Muster des Raëlismus unterscheidet ihn von verschiedenen UFO-Religionen, die zusammengebrochen oder substantiell zurückgegangen sind
 
-The detailed comparative treatment lives in the *Comparative observations* section below.
+Die detaillierte vergleichende Behandlung findet sich im Abschnitt *Vergleichende Beobachtungen* weiter unten.
 
-### Raëlism vs. the broader new-religious-movement category
+### Raëlismus vs. die breitere Kategorie der neuen religiösen Bewegungen
 
-The broader new-religious-movement category (Mormonism, Scientology, Bahá'í, various others) provides the broader scholarly category within which Raëlism operates. Raëlism is structurally distinctive within this broader category through the specific extraterrestrial-creator framework and the explicit atheist-religion framing.
+Die breitere Kategorie der neuen religiösen Bewegungen (Mormonentum, Scientology, Bahá'í, verschiedene andere) liefert die breitere wissenschaftliche Kategorie, innerhalb derer der Raëlismus operiert. Der Raëlismus ist innerhalb dieser breiteren Kategorie strukturell besonders durch den spezifischen außerirdischen Schöpferrahmen und die explizite atheistisch-religiöse Rahmung.
 
-### Raëlism vs. the broader atheist/scientific religion category
+### Raëlismus vs. die breitere Kategorie der atheistischen/wissenschaftlichen Religionen
 
-The broader atheist/scientific religion category (Comtean Religion of Humanity, Secular Humanism, Ethical Culture, various Buddhist traditions, various others) provides one specific scholarly category within which Raëlism operates. Raëlism is structurally distinctive within this broader category through the specific extraterrestrial-creator framework that provides the substantive doctrinal content.
+Die breitere Kategorie der atheistischen/wissenschaftlichen Religionen (Comtesche Religion der Menschheit, säkularer Humanismus, Ethische Kultur, verschiedene buddhistische Traditionen, verschiedene andere) liefert eine spezifische wissenschaftliche Kategorie, innerhalb derer der Raëlismus operiert. Der Raëlismus ist innerhalb dieser breiteren Kategorie strukturell besonders durch den spezifischen außerirdischen Schöpferrahmen, der den substantiellen Lehrinhalt bereitstellt.
 
-## Modern reinterpretations
+## Moderne Neudeutungen
 
-### Mainstream new-religious-movement scholarship on Raëlism specifically
+### Etablierte NRB-Forschung zum Raëlismus im Besonderen
 
-The principal sustained scholarly engagement with Raëlism has been within new-religious-movement (NRM) studies.
+Die wichtigste anhaltende wissenschaftliche Auseinandersetzung mit dem Raëlismus hat innerhalb der Forschung zu neuen religiösen Bewegungen (NRB) stattgefunden.
 
-**Susan J. Palmer**'s *Aliens Adored: Raël's UFO Religion* (Rutgers University Press, 2004) is the principal book-length scholarly treatment. Palmer's approach is sympathetic-ethnographic, drawing on extensive direct fieldwork including substantial interview material with Raël, senior Raëlian movement figures, and rank-and-file members. The book provides substantial analysis of the movement's institutional structure, doctrinal content, principal practices, principal controversies, and broader sociological features. Palmer's broader subsequent work has continued to engage Raëlism across the post-2004 period, with various journal articles producing substantial continuing engagement.
+**Susan J. Palmers** *Aliens Adored: Raël's UFO Religion* (Rutgers University Press, 2004) ist die wichtigste monographische wissenschaftliche Behandlung. Palmers Ansatz ist wohlwollend-ethnographisch und stützt sich auf umfangreiche direkte Feldforschung, einschließlich substantiellen Interviewmaterials mit Raël, leitenden Figuren der raëlianischen Bewegung und einfachen Mitgliedern. Das Buch liefert eine substantielle Analyse der institutionellen Struktur, des Lehrinhalts, der wichtigsten Praktiken, der wichtigsten Kontroversen und der breiteren soziologischen Merkmale der Bewegung. Palmers breiteres späteres Werk hat sich im Zeitraum nach 2004 weiterhin mit dem Raëlismus auseinandergesetzt, mit verschiedenen Zeitschriftenaufsätzen, die substantielle fortgesetzte Auseinandersetzung leisten.
 
-**Massimo Introvigne** and the **Center for Studies on New Religions (CESNUR)** have produced substantial scholarly engagement with Raëlism through various conference papers, journal articles in *Nova Religio* and other venues, and broader CESNUR institutional output. Introvigne's general approach is sympathetic-scholarly, treating Raëlism seriously as a religious movement while maintaining scholarly objectivity regarding the framework's specific historical claims.
+**Massimo Introvigne** und das **Center for Studies on New Religions (CESNUR)** haben durch verschiedene Konferenzbeiträge, Zeitschriftenaufsätze in *Nova Religio* und anderen Foren sowie breiteren institutionellen CESNUR-Output eine substantielle wissenschaftliche Auseinandersetzung mit dem Raëlismus produziert. Introvignes allgemeiner Ansatz ist wohlwollend-wissenschaftlich; er nimmt den Raëlismus als religiöse Bewegung ernst und wahrt zugleich wissenschaftliche Objektivität in Bezug auf die spezifischen historischen Behauptungen des Rahmens.
 
-**George D. Chryssides** has produced scholarly engagement with Raëlism within his broader work on new-religious-movements, with various comparative analyses placing Raëlism within the broader NRM landscape. Chryssides's specific contribution includes engagement with the question of charismatic leadership and institutional development across multiple NRM cases.
+**George D. Chryssides** hat im Rahmen seiner breiteren Arbeit zu neuen religiösen Bewegungen eine wissenschaftliche Auseinandersetzung mit dem Raëlismus geleistet, mit verschiedenen vergleichenden Analysen, die den Raëlismus innerhalb der breiteren NRB-Landschaft verorten. Chryssides' spezifischer Beitrag umfasst die Auseinandersetzung mit der Frage charismatischer Führung und institutioneller Entwicklung über mehrere NRB-Fälle hinweg.
 
-**Mikael Rothstein** has produced substantial scholarly engagement with Raëlism, particularly regarding the movement's specific hagiographical and textual practices. Rothstein's "Hagiography and Text in the Raëlian Movement" (in Partridge's *UFO Religions*, 2003) is one principal engagement.
+**Mikael Rothstein** hat eine substantielle wissenschaftliche Auseinandersetzung mit dem Raëlismus produziert, insbesondere in Bezug auf die spezifischen hagiographischen und textlichen Praktiken der Bewegung. Rothsteins „Hagiography and Text in the Raëlian Movement" (in Partridges *UFO Religions*, 2003) ist eine der wichtigsten Auseinandersetzungen.
 
-**Christopher Partridge**'s edited volume *UFO Religions* (Routledge, 2003) and his broader work on contemporary spirituality have produced substantial Raëlism engagement.
+**Christopher Partridges** Sammelband *UFO Religions* (Routledge, 2003) und seine breitere Arbeit zur zeitgenössischen Spiritualität haben eine substantielle Auseinandersetzung mit dem Raëlismus produziert.
 
-**James R. Lewis** has edited several substantial collections engaging Raëlism, including *The Gods Have Landed: New Religions from Other Worlds* (SUNY Press, 1995) and the *Encyclopedic Sourcebook of UFO Religions* (Prometheus, 2003).
+**James R. Lewis** hat mehrere substantielle Sammelbände herausgegeben, die sich mit dem Raëlismus befassen, darunter *The Gods Have Landed: New Religions from Other Worlds* (SUNY Press, 1995) und das *Encyclopedic Sourcebook of UFO Religions* (Prometheus, 2003).
 
-**Erik A. W. Östling** has produced substantial scholarly engagement with Raëlism within Scandinavian religious-studies scholarship.
+**Erik A. W. Östling** hat eine substantielle wissenschaftliche Auseinandersetzung mit dem Raëlismus innerhalb der skandinavischen Religionsforschung produziert.
 
-The mainstream NRM scholarship's general assessment is one of **serious-engagement-with-skeptical-distance** — treating Raëlism as a substantial religious phenomenon worthy of academic study while not endorsing the framework's specific historical claims about the December 13, 1973 contact event.
+Die allgemeine Einschätzung der etablierten NRB-Forschung ist eine der **ernsthaften Auseinandersetzung bei skeptischer Distanz** — sie behandelt den Raëlismus als substantielles religiöses Phänomen, das akademische Untersuchung verdient, ohne die spezifischen historischen Behauptungen des Rahmens über das Kontaktereignis vom 13. Dezember 1973 zu billigen.
 
-### Academic categorization debates
+### Akademische Kategorisierungsdebatten
 
-The academic categorization of Raëlism has been the subject of substantial scholarly debate.
+Die akademische Kategorisierung des Raëlismus war Gegenstand erheblicher wissenschaftlicher Debatten.
 
-**The UFO-religion categorization** treats Raëlism as one specific instance of the broader UFO-religion category, alongside Heaven's Gate, Aetherius Society, Unarius, and various others. The categorization captures substantial features of Raëlism's distinctive content but is treated by some scholars as overly narrow given Raëlism's substantial broader doctrinal articulation and institutional development.
+**Die Kategorisierung als UFO-Religion** behandelt den Raëlismus als eine spezifische Instanz der breiteren Kategorie der UFO-Religionen, neben Heaven's Gate, Aetherius Society, Unarius und verschiedenen anderen. Die Kategorisierung erfasst substantielle Merkmale des distinktiven Inhalts des Raëlismus, wird aber von einigen Wissenschaftlern als zu eng angesichts der substantiellen breiteren Lehrartikulation und institutionellen Entwicklung des Raëlismus behandelt.
 
-**The new-religious-movement (NRM) categorization** treats Raëlism as one specific instance of the broader NRM category, alongside Mormonism, Scientology, Bahá'í, and various others. The categorization captures the broader institutional and sociological features of Raëlism while not specifically registering the extraterrestrial-creator framework.
+**Die Kategorisierung als neue religiöse Bewegung (NRB)** behandelt den Raëlismus als eine spezifische Instanz der breiteren NRB-Kategorie, neben Mormonentum, Scientology, Bahá'í und verschiedenen anderen. Die Kategorisierung erfasst die breiteren institutionellen und soziologischen Merkmale des Raëlismus, ohne speziell den außerirdischen Schöpferrahmen zu registrieren.
 
-**The atheist-religion categorization** treats Raëlism as one specific instance of the broader atheist/scientific religion category, alongside Comtean Religion of Humanity, Secular Humanism, Ethical Culture, various Buddhist traditions, and various others. The categorization captures Raëlism's distinctive atheist-religion framing but is treated by some scholars as understating the substantively religious dimensions of Raëlism's specific content.
+**Die Kategorisierung als atheistische Religion** behandelt den Raëlismus als eine spezifische Instanz der breiteren Kategorie der atheistischen/wissenschaftlichen Religionen, neben der Comteschen Religion der Menschheit, dem säkularen Humanismus, der Ethischen Kultur, verschiedenen buddhistischen Traditionen und verschiedenen anderen. Die Kategorisierung erfasst die distinktive atheistisch-religiöse Rahmung des Raëlismus, wird aber von einigen Wissenschaftlern so behandelt, dass sie die substantiell religiösen Dimensionen des spezifischen Inhalts des Raëlismus unterschätzt.
 
-**The postmodern-religion categorization** treats Raëlism as one specific instance of the broader postmodern-religion category, with the specific cultural-temporal positioning within the late-twentieth-century post-traditional religious landscape.
+**Die Kategorisierung als postmoderne Religion** behandelt den Raëlismus als eine spezifische Instanz der breiteren Kategorie postmoderner Religionen, mit der spezifischen kulturell-zeitlichen Verortung innerhalb der spätzwanzigjahrhundertlichen post-traditionellen religiösen Landschaft.
 
-**Eclectic-categorization approaches** treat Raëlism as appropriately engaged through multiple categorizations simultaneously, with the specific categorizations producing different analytical framings of the movement's distinctive features. The broader scholarly convergence has been toward eclectic-categorization approaches rather than toward any single definitive categorization.
+**Eklektische Kategorisierungsansätze** behandeln den Raëlismus als zutreffend durch mehrere Kategorisierungen gleichzeitig erschließbar, wobei die spezifischen Kategorisierungen unterschiedliche analytische Rahmungen der distinktiven Merkmale der Bewegung erzeugen. Die breitere wissenschaftliche Konvergenz ist in Richtung eklektischer Kategorisierungsansätze gegangen statt in Richtung einer einzigen definitiven Kategorisierung.
 
-### Scholarly treatment of specific Raëlian doctrines
+### Wissenschaftliche Behandlung spezifischer raëlianischer Lehren
 
-The various specific Raëlian doctrines have produced substantial scholarly engagement.
+Die verschiedenen spezifischen raëlianischen Lehren haben eine substantielle wissenschaftliche Auseinandersetzung produziert.
 
-**The genetic-engineering creation framework**. The Raëlian framework's specific reading of Genesis 1 as preserving substantively accurate memory of genetic-engineering creation has produced substantial scholarly engagement. The mainstream biblical-scholarly response has generally been skeptical, treating the reading as one specific contemporary interpretive framework rather than as continuation of mainstream historical-critical biblical scholarship. The broader mainstream scientific response has been substantially more skeptical, treating the framework's specific historical claims as unsupported by mainstream evolutionary biology and broader scientific consensus.
+**Der Rahmen der gentechnischen Schöpfung.** Die spezifische Lesart des raëlianischen Rahmens von Genesis 1 als Bewahrung einer substantiell korrekten Erinnerung an gentechnische Schöpfung hat eine substantielle wissenschaftliche Auseinandersetzung produziert. Die etablierte biblisch-wissenschaftliche Reaktion ist im Allgemeinen skeptisch ausgefallen und behandelt die Lesart als einen spezifischen zeitgenössischen interpretativen Rahmen und nicht als Fortsetzung der etablierten historisch-kritischen Bibelwissenschaft. Die breitere etablierte wissenschaftliche Reaktion ist substantiell skeptischer ausgefallen und behandelt die spezifischen historischen Behauptungen des Rahmens als nicht durch die etablierte Evolutionsbiologie und den breiteren wissenschaftlichen Konsens gestützt.
 
-**The sensual meditation practices**. The sensual meditation practices have produced substantial scholarly engagement, with various academic treatments of the practices' specific content, broader spiritual-developmental framework, and reception within mainstream cultural contexts. The mainstream scholarly engagement has generally been more nuanced than the journalistic-popular engagement, with various academic treatments producing detailed analysis of the practices' integration with the broader Raëlian framework.
+**Die Praktiken der sensuellen Meditation.** Die Praktiken der sensuellen Meditation haben eine substantielle wissenschaftliche Auseinandersetzung produziert, mit verschiedenen akademischen Behandlungen des spezifischen Inhalts der Praktiken, des breiteren spirituell-entwicklungsmäßigen Rahmens und der Rezeption innerhalb der etablierten kulturellen Kontexte. Die etablierte wissenschaftliche Auseinandersetzung ist im Allgemeinen nuancierter ausgefallen als die journalistisch-populäre Auseinandersetzung, mit verschiedenen akademischen Behandlungen, die eine detaillierte Analyse der Integration der Praktiken in den breiteren raëlianischen Rahmen produzieren.
 
-**The geniocracy doctrine**. The geniocracy political doctrine has produced substantial scholarly engagement within political theory and broader social science. The doctrine has been engaged with as one specific contemporary articulation of broader meritocratic and technocratic political traditions, with various scholarly treatments producing detailed analysis of the doctrine's specific content and broader implications.
+**Die Geniokratie-Lehre.** Die politische Geniokratie-Lehre hat eine substantielle wissenschaftliche Auseinandersetzung innerhalb der politischen Theorie und der breiteren Sozialwissenschaft produziert. Die Lehre wurde als eine spezifische zeitgenössische Artikulation breiterer meritokratischer und technokratischer politischer Traditionen behandelt, mit verschiedenen wissenschaftlichen Behandlungen, die eine detaillierte Analyse des spezifischen Inhalts und der breiteren Implikationen der Lehre produzieren.
 
-**The cellular-plan transmission**. The cellular-plan transmission baptismal practice has produced substantial scholarly engagement within ritual studies and broader religious-studies scholarship, with various academic treatments of the practice's specific content and broader theological-doctrinal implications.
+**Die Zellplan-Übertragung.** Die baptismale Praxis der Zellplan-Übertragung hat eine substantielle wissenschaftliche Auseinandersetzung innerhalb der Ritualforschung und der breiteren Religionsforschung produziert, mit verschiedenen akademischen Behandlungen des spezifischen Inhalts der Praxis und ihrer breiteren theologisch-doktrinären Implikationen.
 
-### Legal-political treatment of Raëlism
+### Rechtlich-politische Behandlung des Raëlismus
 
-The legal-political treatment of Raëlism has varied substantially across different national contexts.
+Die rechtlich-politische Behandlung des Raëlismus hat in verschiedenen nationalen Kontexten substantiell variiert.
 
-**French legal-political context**. The French government has produced substantial engagement with Raëlism through MIVILUDES and UNADFI. The Raëlian movement has been classified in various French-government documents as a *secte* (the French legal-cultural category of problematic religious group), with various legal-political tensions across the past several decades. The 2001 *About-Picard Law* on anti-cult measures has provided substantial subsequent regulatory framework. Various Raëlian-movement legal challenges to French-government classifications have produced varying outcomes across the post-2001 period.
+**Französischer rechtlich-politischer Kontext.** Die französische Regierung hat über MIVILUDES und UNADFI eine substantielle Auseinandersetzung mit dem Raëlismus geführt. Die raëlianische Bewegung ist in verschiedenen Dokumenten der französischen Regierung als *secte* (die französische rechtlich-kulturelle Kategorie problematischer religiöser Gruppen) eingestuft worden, mit verschiedenen rechtlich-politischen Spannungen in den vergangenen Jahrzehnten. Das *About-Picard-Gesetz* von 2001 über Anti-Sekten-Maßnahmen hat den maßgeblichen nachfolgenden regulatorischen Rahmen gebildet. Verschiedene rechtliche Klagen der raëlianischen Bewegung gegen Einstufungen der französischen Regierung haben im Zeitraum nach 2001 unterschiedliche Ergebnisse erzeugt.
 
-**North American legal-political context**. The Raëlian movement has operated with substantially less legal-political tension in North America, with the United States First Amendment and Canadian religious-freedom protections providing broader institutional protection. The 2002 Clonaid announcement produced substantial subsequent FDA and Health Canada engagement, with various regulatory questions regarding human-cloning research. Various US and Canadian legal cases have generally upheld the Raëlian movement's religious-freedom rights.
+**Nordamerikanischer rechtlich-politischer Kontext.** Die raëlianische Bewegung hat in Nordamerika mit substantiell geringerer rechtlich-politischer Spannung operiert, wobei der erste Verfassungszusatz der Vereinigten Staaten und der kanadische Religionsfreiheitsschutz einen breiteren institutionellen Schutz bieten. Die Clonaid-Ankündigung von 2002 löste eine substantielle nachfolgende Auseinandersetzung mit der FDA und Health Canada aus, mit verschiedenen regulatorischen Fragen zur menschlichen Klonforschung. Verschiedene US-amerikanische und kanadische Rechtsfälle haben die Religionsfreiheitsrechte der raëlianischen Bewegung im Allgemeinen bestätigt.
 
-**European legal-political context**. Various European countries have produced varied legal-political engagement. Belgium's 1997 anti-cult parliamentary commission classified the Raëlian movement among problematic religious groups; the German Sekten-Beauftragte has engaged various Raëlian movement matters; various other European national frameworks have produced specific engagements.
+**Europäischer rechtlich-politischer Kontext.** Verschiedene europäische Länder haben eine unterschiedliche rechtlich-politische Auseinandersetzung geführt. Belgiens Anti-Sekten-Parlamentskommission von 1997 stufte die raëlianische Bewegung unter den problematischen religiösen Gruppen ein; der deutsche Sekten-Beauftragte hat sich mit verschiedenen Angelegenheiten der raëlianischen Bewegung befasst; verschiedene andere europäische nationale Rahmen haben spezifische Auseinandersetzungen produziert.
 
-**Asian legal-political context**. The Raëlian movement has substantial presence in Japan and South Korea, with the broader Asian religious-pluralism context producing different legal-political engagement than the European-anti-cult framework. South Korea's specific religious-pluralism context has been particularly accommodating to the Raëlian movement.
+**Asiatischer rechtlich-politischer Kontext.** Die raëlianische Bewegung hat substantielle Präsenz in Japan und Südkorea, wobei der breitere asiatische religionspluralistische Kontext eine andere rechtlich-politische Auseinandersetzung erzeugt als der europäische Anti-Sekten-Rahmen. Der spezifische religionspluralistische Kontext Südkoreas war für die raëlianische Bewegung besonders entgegenkommend.
 
-**African legal-political context**. The Raëlian movement has had substantial presence in various African countries across the post-1990s period, with varying specific national contexts. The broader African religious-pluralism context has produced varied legal-political engagement.
+**Afrikanischer rechtlich-politischer Kontext.** Die raëlianische Bewegung war im Zeitraum nach den 1990er Jahren in verschiedenen afrikanischen Ländern substantiell präsent, mit unterschiedlichen spezifischen nationalen Kontexten. Der breitere afrikanische religionspluralistische Kontext hat eine unterschiedliche rechtlich-politische Auseinandersetzung erzeugt.
 
-### Various ex-Raëlian and anti-cult organizational accounts
+### Verschiedene Ex-Raëlianer- und Anti-Sekten-Organisationsberichte
 
-Various former Raëlians have produced critical accounts of their experiences within the movement, with various levels of credibility and various specific complaints. The mainstream NRM scholarship has generally engaged these accounts as one source of evidence among many, without treating them as either definitively authoritative or definitively dismissible.
+Verschiedene ehemalige Raëlianer haben kritische Berichte über ihre Erfahrungen innerhalb der Bewegung produziert, mit verschiedenen Glaubwürdigkeitsgraden und verschiedenen spezifischen Beschwerden. Die etablierte NRB-Forschung hat sich mit diesen Berichten im Allgemeinen als einer Beweisquelle unter vielen befasst, ohne sie als definitiv autoritativ oder definitiv abweisbar zu behandeln.
 
-The broader anti-cult organizational engagement (UNADFI, MIVILUDES, FECRIS, various international organizations) has produced substantial critical-hostile material across the past several decades. The mainstream NRM scholarship has generally engaged this material critically, with various scholars treating the anti-cult material as one specific perspective rather than as definitive scholarly treatment.
+Die breitere Auseinandersetzung von Anti-Sekten-Organisationen (UNADFI, MIVILUDES, FECRIS, verschiedene internationale Organisationen) hat in den vergangenen Jahrzehnten substantielles kritisch-feindseliges Material produziert. Die etablierte NRB-Forschung hat sich mit diesem Material im Allgemeinen kritisch befasst, wobei verschiedene Wissenschaftler das Anti-Sekten-Material als eine spezifische Perspektive und nicht als definitive wissenschaftliche Behandlung behandeln.
 
-### The framework's relationship to the broader landscape
+### Das Verhältnis des Rahmens zur breiteren Landschaft
 
-The corpus's framework is positioned within this scholarly-political landscape as follows: substantially aligned with mainstream NRM scholarship at the institutional-sociological level (recognizing the substantial scholarship produced by Palmer, Introvigne, Lewis, and others); engaged with the academic categorization debates while not committing to any single definitive categorization; engaged with the specific doctrinal scholarship while extending substantially beyond what the mainstream scholarship has produced through the broader Wheel of Heaven framework's distinctive interpretive contributions; cautiously engaged with the legal-political treatment while not accepting the anti-cult organizational hostile framing; engaged with ex-Raëlian and anti-cult accounts as one source of evidence among many.
+Der Rahmen des Korpus ist innerhalb dieser wissenschaftlich-politischen Landschaft folgendermaßen positioniert: substantiell ausgerichtet auf die etablierte NRB-Forschung auf institutionell-soziologischer Ebene (in Anerkennung der substantiellen Wissenschaft, die Palmer, Introvigne, Lewis und andere produziert haben); auseinandergesetzt mit den akademischen Kategorisierungsdebatten, ohne sich auf eine einzige definitive Kategorisierung festzulegen; auseinandergesetzt mit der spezifischen Lehrforschung, wobei substantiell über das hinausgegangen wird, was die etablierte Forschung durch die distinktiven interpretativen Beiträge des breiteren Wheel-of-Heaven-Rahmens produziert hat; vorsichtig auseinandergesetzt mit der rechtlich-politischen Behandlung, ohne die feindselige Rahmung durch Anti-Sekten-Organisationen zu akzeptieren; auseinandergesetzt mit Ex-Raëlianer- und Anti-Sekten-Berichten als einer Beweisquelle unter vielen.
 
-## Comparative observations
+## Vergleichende Beobachtungen
 
-Raëlism's distinctive features warrant comparative engagement with multiple religious-movement categories.
+Die distinktiven Merkmale des Raëlismus verdienen eine vergleichende Auseinandersetzung mit mehreren Kategorien religiöser Bewegungen.
 
-### Other UFO religions
+### Andere UFO-Religionen
 
-The broader UFO-religion category provides the immediate scholarly category within which Raëlism operates.
+Die breitere Kategorie der UFO-Religionen liefert die unmittelbare wissenschaftliche Kategorie, innerhalb derer der Raëlismus operiert.
 
-**Heaven's Gate** (founded 1974 by Marshall Applewhite and Bonnie Nettles) was a UFO-religion that ended catastrophically in March 1997 with the mass suicide of 39 members in Rancho Santa Fe, California, in connection with the Hale-Bopp comet's appearance. The movement's specific framework involved alleged contact with extraterrestrial beings whose return was anticipated through specific cosmic events. The movement's catastrophic end provides substantial contrast with Raëlism's continuing five-decade operational pattern. The framework reads Heaven's Gate as one specific UFO-religion case whose catastrophic outcome reflects substantially different operational features from Raëlism's continuing pattern.
+**Heaven's Gate** (1974 von Marshall Applewhite und Bonnie Nettles gegründet) war eine UFO-Religion, die im März 1997 mit dem Massenselbstmord von 39 Mitgliedern in Rancho Santa Fe, Kalifornien, im Zusammenhang mit dem Erscheinen des Kometen Hale-Bopp katastrophal endete. Der spezifische Rahmen der Bewegung beinhaltete angeblichen Kontakt mit außerirdischen Wesen, deren Rückkehr durch spezifische kosmische Ereignisse erwartet wurde. Das katastrophale Ende der Bewegung bietet einen substantiellen Kontrast zum fortgesetzten fünfjahrzehntelangen operativen Muster des Raëlismus. Der Rahmen liest Heaven's Gate als einen spezifischen UFO-Religionsfall, dessen katastrophales Ergebnis substantiell andere operative Merkmale widerspiegelt als das fortgesetzte Muster des Raëlismus.{{ footnote(id="6") }}
 
-**Aetherius Society** (founded 1955 by George King) is one of the longest-continuing UFO religions, with substantial doctrinal articulation drawing on theosophical and broader esoteric traditions. The society's specific framework involves alleged contact with "Cosmic Masters" associated with various solar system bodies. The society has continued substantial operations across the post-1955 period, with various national branches and substantial institutional development. The framework reads the Aetherius Society as one specific UFO-religion case with substantial structural parallels to Raëlism's continuing operational pattern, though with substantively different doctrinal content.
+**Aetherius Society** (1955 von George King gegründet) ist eine der am längsten andauernden UFO-Religionen, mit substantieller Lehrartikulation, die auf theosophische und breitere esoterische Traditionen zurückgreift. Der spezifische Rahmen der Gesellschaft beinhaltet angeblichen Kontakt mit „Kosmischen Meistern", die mit verschiedenen Körpern des Sonnensystems verbunden sind. Die Gesellschaft hat im Zeitraum nach 1955 substantielle Operationen fortgeführt, mit verschiedenen nationalen Zweigen und substantieller institutioneller Entwicklung. Der Rahmen liest die Aetherius Society als einen spezifischen UFO-Religionsfall mit substantiellen strukturellen Parallelen zum fortgesetzten operativen Muster des Raëlismus, jedoch mit substantiell unterschiedlichem Lehrinhalt.
 
-**Unarius Academy of Science** (founded 1954 by Ernest L. Norman and Ruth E. Norman) is a UFO-religion with substantial channeling-based doctrinal content drawing on various theosophical and broader esoteric traditions. The academy's specific framework involves alleged contact with various extraterrestrial civilizations through channeling practices. The framework reads Unarius as one specific UFO-religion case with various structural parallels to Raëlism while operating through substantially different doctrinal-institutional features.
+**Unarius Academy of Science** (1954 von Ernest L. Norman und Ruth E. Norman gegründet) ist eine UFO-Religion mit substantiellem channelingbasiertem Lehrinhalt, der auf verschiedene theosophische und breitere esoterische Traditionen zurückgreift. Der spezifische Rahmen der Akademie beinhaltet angeblichen Kontakt mit verschiedenen außerirdischen Zivilisationen durch Channeling-Praktiken. Der Rahmen liest Unarius als einen spezifischen UFO-Religionsfall mit verschiedenen strukturellen Parallelen zum Raëlismus, der jedoch durch substantiell unterschiedliche doktrinär-institutionelle Merkmale operiert.
 
-**Cosmic People (Vesmírní lidé)** (founded c. 1997 by Ivo A. Benda) is a Czech UFO-religion with substantial channeling-based doctrinal content. The movement's specific framework involves alleged contact with Pleiadian and broader extraterrestrial civilizations through channeling practices.
+**Cosmic People (Vesmírní lidé)** (ca. 1997 von Ivo A. Benda gegründet) ist eine tschechische UFO-Religion mit substantiellem channelingbasiertem Lehrinhalt. Der spezifische Rahmen der Bewegung beinhaltet angeblichen Kontakt mit plejadischen und breiteren außerirdischen Zivilisationen durch Channeling-Praktiken.
 
-**Various other UFO religions** — including the Ashtar Galactic Command, the Galactic Federation of Light, Universe People, and various others — provide the broader landscape within which Raëlism operates. The framework reads Raëlism as structurally distinctive within this broader landscape through the specific institutional substance, doctrinal articulation, atheist-religion framing, and continuing operational pattern.
+**Verschiedene andere UFO-Religionen** — einschließlich des Ashtar Galactic Command, der Galactic Federation of Light, der Universe People und verschiedener anderer — liefern die breitere Landschaft, innerhalb derer der Raëlismus operiert. Der Rahmen liest den Raëlismus als strukturell besonders innerhalb dieser breiteren Landschaft durch die spezifische institutionelle Substanz, Lehrartikulation, atheistisch-religiöse Rahmung und das fortgesetzte operative Muster.
 
-### New religious movements with prophet-founders
+### Neue religiöse Bewegungen mit Prophetengründern
 
-The broader new-religious-movement (NRM) category with prophet-founders provides another scholarly category within which Raëlism operates.
+Die breitere Kategorie neuer religiöser Bewegungen (NRB) mit Prophetengründern liefert eine weitere wissenschaftliche Kategorie, innerhalb derer der Raëlismus operiert.
 
-**Mormonism** (Church of Jesus Christ of Latter-day Saints, founded 1830 by Joseph Smith) is structurally comparable in several specific respects: prophet-founder figure, substantial textual corpus produced by founder (Book of Mormon, Doctrine and Covenants, Pearl of Great Price), substantial institutional development, multiple-worlds creation doctrine, anticipated-return content. The detailed comparative treatment of Mormon doctrine lives in the [Cosmic Competition](../cosmic-competition/) entry's *Comparative observations*.
+**Mormonentum** (Kirche Jesu Christi der Heiligen der Letzten Tage, 1830 von Joseph Smith gegründet) ist in mehreren spezifischen Punkten strukturell vergleichbar: Prophetengründerfigur, substantieller textlicher Korpus, der vom Gründer hervorgebracht wurde (Buch Mormon, Lehre und Bündnisse, Köstliche Perle), substantielle institutionelle Entwicklung, Lehre mehrerer Welten in der Schöpfung, erwarteter Rückkehrinhalt. Die detaillierte vergleichende Behandlung der Mormonenlehre findet sich in den *Vergleichenden Beobachtungen* des Eintrags [Kosmische Konkurrenz](../cosmic-competition/).
 
-**Scientology** (founded 1953 by L. Ron Hubbard) is structurally comparable in several specific respects: prophet-founder figure, substantial textual corpus produced by founder, substantial institutional development, distinctive doctrinal content, controversial reception. The framework reads Scientology as one specific NRM case with substantial structural parallels to Raëlism, though with substantively different doctrinal-institutional features (Scientology's specific "Thetan" doctrine, the auditing practice, the Sea Organization structure).
+**Scientology** (1953 von L. Ron Hubbard gegründet) ist in mehreren spezifischen Punkten strukturell vergleichbar: Prophetengründerfigur, substantieller textlicher Korpus, der vom Gründer hervorgebracht wurde, substantielle institutionelle Entwicklung, distinktiver Lehrinhalt, kontroverse Rezeption. Der Rahmen liest Scientology als einen spezifischen NRB-Fall mit substantiellen strukturellen Parallelen zum Raëlismus, jedoch mit substantiell unterschiedlichen doktrinär-institutionellen Merkmalen (Scientologys spezifische „Thetan"-Lehre, die Auditing-Praxis, die Sea-Organization-Struktur).
 
-**Bahá'í Faith** (founded 1844-1863 by the Báb and Bahá'u'lláh) is structurally comparable in several specific respects: prophet-founder figures, substantial textual corpus, substantial institutional development, universal-religious-tradition framing, anticipated-return content within broader religious-tradition framework. The framework reads Bahá'í as one specific NRM case with substantial structural parallels to Raëlism, though with substantively different doctrinal-institutional features.
+**Bahá'í-Glaube** (1844–1863 von Báb und Bahá'u'lláh gegründet) ist in mehreren spezifischen Punkten strukturell vergleichbar: Prophetengründerfiguren, substantieller textlicher Korpus, substantielle institutionelle Entwicklung, Rahmung als universal-religiöse Tradition, erwarteter Rückkehrinhalt innerhalb des breiteren religiös-traditionellen Rahmens. Der Rahmen liest Bahá'í als einen spezifischen NRB-Fall mit substantiellen strukturellen Parallelen zum Raëlismus, jedoch mit substantiell unterschiedlichen doktrinär-institutionellen Merkmalen.
 
-**Various other NRMs with prophet-founders** — including Soka Gakkai (founded 1930), the Unification Church (founded 1954 by Sun Myung Moon), various others — provide the broader landscape within which Raëlism operates.
+**Verschiedene andere NRB mit Prophetengründern** — einschließlich Soka Gakkai (gegründet 1930), der Vereinigungskirche (1954 von Sun Myung Moon gegründet), verschiedener anderer — liefern die breitere Landschaft, innerhalb derer der Raëlismus operiert.
 
-The framework reads Raëlism as structurally distinctive within this broader NRM landscape through the specific extraterrestrial-creator framework, the explicit atheist-religion framing, and the integration with the broader cumulative prophetic tradition (which most other NRMs do not directly integrate).
+Der Rahmen liest den Raëlismus als strukturell besonders innerhalb dieser breiteren NRB-Landschaft durch den spezifischen außerirdischen Schöpferrahmen, die explizite atheistisch-religiöse Rahmung und die Integration mit der breiteren kumulativen prophetischen Tradition (die die meisten anderen NRB nicht direkt integrieren).
 
-### Atheist/scientific religions
+### Atheistische/wissenschaftliche Religionen
 
-The broader atheist/scientific religion category provides one specific scholarly category within which Raëlism's distinctive atheist-religion framing operates.
+Die breitere Kategorie der atheistischen/wissenschaftlichen Religionen liefert eine spezifische wissenschaftliche Kategorie, innerhalb derer die distinktive atheistisch-religiöse Rahmung des Raëlismus operiert.
 
-**Comtean Religion of Humanity** (founded c. 1851 by Auguste Comte) was the principal nineteenth-century articulation of the atheist-religion framework, with substantial elaboration through Comte's *Système de politique positive* and various other works. The Religion of Humanity proposed a positivist religion oriented toward humanity itself rather than toward supernatural deity, with substantial ritual structure, calendar, and broader religious-institutional framework. The framework reads the Religion of Humanity as one specific historical antecedent of Raëlism's atheist-religion framing, though with substantively different doctrinal content (the Religion of Humanity oriented toward humanity itself; Raëlism oriented toward the Elohim and the broader cosmic-creative cycle).
+**Comtesche Religion der Menschheit** (ca. 1851 von Auguste Comte gegründet) war die wichtigste neunzehntjahrhundertliche Artikulation des atheistisch-religiösen Rahmens, mit substantieller Ausarbeitung durch Comtes *Système de politique positive* und verschiedene andere Werke. Die Religion der Menschheit schlug eine positivistische Religion vor, die auf die Menschheit selbst und nicht auf eine übernatürliche Gottheit ausgerichtet ist, mit substantieller ritueller Struktur, Kalender und breiterem religiös-institutionellem Rahmen. Der Rahmen liest die Religion der Menschheit als einen spezifischen historischen Vorläufer der atheistisch-religiösen Rahmung des Raëlismus, jedoch mit substantiell unterschiedlichem Lehrinhalt (Religion der Menschheit auf die Menschheit selbst ausgerichtet; Raëlismus auf die Elohim und den breiteren kosmisch-schöpferischen Zyklus ausgerichtet).
 
-**Secular Humanism** is the broader contemporary movement articulating a non-religious humanist framework, with various specific institutional articulations (American Humanist Association, International Humanist and Ethical Union, various others). The movement is generally not classified as religious in the strict sense, though various specific articulations have approached religious-institutional structure. The framework reads Secular Humanism as one specific contemporary articulation of broader non-religious humanist content, with substantial structural overlap with Raëlism's specific atheist orientation but substantially different content (Secular Humanism without specific extraterrestrial-creator framework).
+**Säkularer Humanismus** ist die breitere zeitgenössische Bewegung, die einen nicht-religiösen humanistischen Rahmen artikuliert, mit verschiedenen spezifischen institutionellen Artikulationen (American Humanist Association, International Humanist and Ethical Union, verschiedene andere). Die Bewegung wird im Allgemeinen nicht als religiös im strengen Sinn klassifiziert, auch wenn sich verschiedene spezifische Artikulationen einer religiös-institutionellen Struktur angenähert haben. Der Rahmen liest den säkularen Humanismus als eine spezifische zeitgenössische Artikulation breiterer nicht-religiöser humanistischer Inhalte, mit substantieller struktureller Überschneidung mit der spezifischen atheistischen Orientierung des Raëlismus, aber substantiell unterschiedlichem Inhalt (säkularer Humanismus ohne spezifischen außerirdischen Schöpferrahmen).
 
-**Ethical Culture** (founded 1876 by Felix Adler) is one specific institutional articulation of the broader ethical-religious framework, with various specific institutional features (Ethical Culture Society, various national branches). The movement provides one specific historical antecedent of Raëlism's atheist-religion framing within an institutional-religious context.
+**Ethische Kultur** (1876 von Felix Adler gegründet) ist eine spezifische institutionelle Artikulation des breiteren ethisch-religiösen Rahmens, mit verschiedenen spezifischen institutionellen Merkmalen (Ethical Culture Society, verschiedene nationale Zweige). Die Bewegung bietet einen spezifischen historischen Vorläufer der atheistisch-religiösen Rahmung des Raëlismus innerhalb eines institutionell-religiösen Kontextes.
 
-**Various Buddhist traditions** preserve substantially atheist-religious frameworks within the broader Buddhist religious-philosophical traditions. The principal Buddhist atheist features include the rejection of creator-deity content, the rejection of immortal-soul content, and the orientation toward awakening rather than toward divine relationship. The framework reads various Buddhist traditions as substantial parallels to Raëlism's atheist-religion framing, with the Theravada tradition being particularly close to the strictly-atheist framing while various Mahayana traditions preserve more substantial deity-content.
+**Verschiedene buddhistische Traditionen** bewahren substantiell atheistisch-religiöse Rahmen innerhalb der breiteren buddhistischen religiös-philosophischen Traditionen. Zu den wichtigsten buddhistischen atheistischen Merkmalen gehören die Ablehnung eines Schöpfergottinhalts, die Ablehnung einer unsterblichen Seele und die Ausrichtung auf Erwachen statt auf eine göttliche Beziehung. Der Rahmen liest verschiedene buddhistische Traditionen als substantielle Parallelen zur atheistisch-religiösen Rahmung des Raëlismus, wobei die Theravada-Tradition der streng atheistischen Rahmung besonders nahekommt, während verschiedene Mahayana-Traditionen substantiellere Gottheitsinhalte bewahren.
 
-**The Sunday Assembly** and various other contemporary atheist-religion articulations provide further parallels to Raëlism's specific atheist-religion framing within the broader contemporary religious landscape.
+**Die Sunday Assembly** und verschiedene andere zeitgenössische Artikulationen atheistischer Religionen liefern weitere Parallelen zur spezifischen atheistisch-religiösen Rahmung des Raëlismus innerhalb der breiteren zeitgenössischen religiösen Landschaft.
 
-### Buddhist-philosophical religions
+### Buddhistisch-philosophische Religionen
 
-The broader category of Buddhist-philosophical religions provides one specific comparative category for Raëlism's distinctive atheist-philosophical framing.
+Die breitere Kategorie buddhistisch-philosophischer Religionen liefert eine spezifische vergleichende Kategorie für die distinktive atheistisch-philosophische Rahmung des Raëlismus.
 
-**Theravada Buddhism** preserves substantially atheist content within the broader Buddhist religious-philosophical tradition, with the rejection of creator-deity content, the rejection of immortal-soul content, and the orientation toward awakening through the Eightfold Path. The framework reads Theravada Buddhism as one specific parallel to Raëlism's atheist-religion framing, with substantially different doctrinal content (Theravada's specific Four Noble Truths framework; Raëlism's specific extraterrestrial-creator framework).
+**Theravada-Buddhismus** bewahrt substantiell atheistische Inhalte innerhalb der breiteren buddhistischen religiös-philosophischen Tradition, mit der Ablehnung eines Schöpfergottinhalts, der Ablehnung einer unsterblichen Seele und der Ausrichtung auf das Erwachen durch den Achtfachen Pfad. Der Rahmen liest den Theravada-Buddhismus als eine spezifische Parallele zur atheistisch-religiösen Rahmung des Raëlismus, mit substantiell unterschiedlichem Lehrinhalt (Theravadas spezifischer Rahmen der Vier Edlen Wahrheiten; der spezifische außerirdische Schöpferrahmen des Raëlismus).
 
-**Various Buddhist modernist traditions** (Buddhist modernism, secular Buddhism, various others) have produced substantial articulations of explicitly atheist Buddhist content across the post-19th-century period, with various specific institutional features. The framework reads these traditions as substantial parallels to Raëlism's atheist-religion framing, with substantively different specific content.
+**Verschiedene buddhistisch-modernistische Traditionen** (buddhistischer Modernismus, säkularer Buddhismus, verschiedene andere) haben im Zeitraum nach dem neunzehnten Jahrhundert substantielle Artikulationen explizit atheistischer buddhistischer Inhalte produziert, mit verschiedenen spezifischen institutionellen Merkmalen. Der Rahmen liest diese Traditionen als substantielle Parallelen zur atheistisch-religiösen Rahmung des Raëlismus, mit substantiell unterschiedlichem spezifischem Inhalt.
 
-### Indigenous-creator religions
+### Indigene Schöpferreligionen
 
-The broader category of indigenous-creator religions provides one specific comparative category for Raëlism's distinctive creator-civilization framing within indigenous-religious traditions.
+Die breitere Kategorie indigener Schöpferreligionen liefert eine spezifische vergleichende Kategorie für die distinktive Rahmung des Raëlismus als Schöpferzivilisation innerhalb indigen-religiöser Traditionen.
 
-**Various Mesoamerican traditions** preserve substantial creator-civilization content with distinctive cultural-religious framings (the detailed treatment lives in the [Antediluvian](../antediluvian/) entry's *Comparative observations* and broader entries). The framework reads these traditions as preserving substantial parallel content to Raëlism's specific extraterrestrial-creator framework within distinctive cultural-religious framings.
+**Verschiedene mesoamerikanische Traditionen** bewahren substantielle Schöpferzivilisationsinhalte mit distinktiven kulturell-religiösen Rahmungen (die detaillierte Behandlung findet sich in den *Vergleichenden Beobachtungen* des Eintrags [Antediluvianisch](../antediluvian/) und in breiteren Einträgen). Der Rahmen liest diese Traditionen so, dass sie substantielle Parallelinhalte zum spezifischen außerirdischen Schöpferrahmen des Raëlismus innerhalb distinktiver kulturell-religiöser Rahmungen bewahren.
 
-**Various African creation traditions** preserve substantial creator-civilization content with distinctive cultural-religious framings. The framework reads these traditions as preserving substantial parallel content within distinctive cultural-religious framings.
+**Verschiedene afrikanische Schöpfungstraditionen** bewahren substantielle Schöpferzivilisationsinhalte mit distinktiven kulturell-religiösen Rahmungen. Der Rahmen liest diese Traditionen so, dass sie substantielle Parallelinhalte innerhalb distinktiver kulturell-religiöser Rahmungen bewahren.
 
-**Various Polynesian, North American, South American, and Australian Aboriginal traditions** preserve substantial creator-civilization content within their distinctive cultural-religious framings.
+**Verschiedene polynesische, nordamerikanische, südamerikanische und australische Aboriginal-Traditionen** bewahren substantielle Schöpferzivilisationsinhalte innerhalb ihrer distinktiven kulturell-religiösen Rahmungen.
 
-### The convergence
+### Die Konvergenz
 
-The corpus's working position on the comparative-religious-movement question is that Raëlism occupies a distinctive position within the broader religious-movement landscape — substantially within the UFO-religion category through its specific extraterrestrial-creator framework, substantially within the new-religious-movement category through its institutional development pattern, substantially within the atheist-religion category through its explicit atheist framing, while being distinctive within each of these categories through specific features that warrant separate analytical treatment.
+Die Arbeitsposition des Korpus zur vergleichenden Frage religiöser Bewegungen ist: Der Raëlismus nimmt eine distinktive Position innerhalb der breiteren religiösen Bewegungslandschaft ein — substantiell innerhalb der Kategorie der UFO-Religionen durch seinen spezifischen außerirdischen Schöpferrahmen, substantiell innerhalb der Kategorie neuer religiöser Bewegungen durch sein Muster institutioneller Entwicklung, substantiell innerhalb der Kategorie atheistischer Religionen durch seine explizite atheistische Rahmung, wobei er innerhalb jeder dieser Kategorien durch spezifische Merkmale, die eine eigene analytische Behandlung verdienen, distinktiv ist.
 
-The mainstream scholarly explanation — which generally treats Raëlism through eclectic-categorization approaches drawing on multiple scholarly categories simultaneously — captures substantial features of Raëlism's distinctive position. The framework's specific reading is that Raëlism's structural distinctiveness is a substantive feature reflecting the movement's specific role as the principal contemporary institutional vehicle for the source-material teaching that the broader Wheel of Heaven framework engages — a vehicle whose specific institutional, doctrinal, and operational features reflect the specific Aquarian-age requirements rather than being incidental.
+Die etablierte wissenschaftliche Erklärung — die den Raëlismus im Allgemeinen durch eklektische Kategorisierungsansätze behandelt, die mehrere wissenschaftliche Kategorien gleichzeitig heranziehen — erfasst substantielle Merkmale der distinktiven Position des Raëlismus. Die spezifische Lesart des Rahmens ist: Die strukturelle Besonderheit des Raëlismus ist ein substantielles Merkmal, das die spezifische Rolle der Bewegung als wichtigstes zeitgenössisches institutionelles Vehikel für die quellenmaterielle Unterweisung widerspiegelt, mit der sich der breitere Wheel-of-Heaven-Rahmen befasst — ein Vehikel, dessen spezifische institutionelle, doktrinäre und operative Merkmale die spezifischen Anforderungen des Wassermann-Zeitalters widerspiegeln und nicht zufällig sind.
 
-## See also
+## Siehe auch
 
 - [Raël](../rael/)
-- [Yahweh](../yahweh/)
+- [Jahwe](../yahweh/)
 - [Elohim](../elohim/)
-- [The Alliance](../the-alliance/)
-- [Council of the Eternals](../council-of-eternals/)
-- [Embassy](../embassy/)
-- [Apocalypse](../apocalypse/)
-- [Cosmic Competition](../cosmic-competition/)
-- [Cosmic Chain](../cosmic-chain/)
-- [Doubled Signature](../doubled-signature/)
+- [Die Allianz](../the-alliance/)
+- [Rat der Ewigen](../council-of-eternals/)
+- [Botschaft](../embassy/)
+- [Apokalypse](../apocalypse/)
+- [Kosmische Konkurrenz](../cosmic-competition/)
+- [Kosmische Kette](../cosmic-chain/)
+- [Doppelsignatur](../doubled-signature/)
 - [Prophet](../prophet/)
 - [Jesus](../jesus/)
-- [Moses](../moses/)
-- [Muhammad](../muhammad/)
+- [Mose](../moses/)
+- [Mohammed](../muhammad/)
 - [Buddha](../buddha/)
 - [Genesis](../genesis/)
-- [Hebrew Bible](../hebrew-bible/)
-- [Age of Aquarius](../timeline/age-of-aquarius/)
-- [Age of Pisces](../timeline/age-of-pisces/)
-- [Atomic Threshold](../atomic-threshold/)
-- [Tree of Life](../tree-of-life/)
+- [Hebräische Bibel](../hebrew-bible/)
+- [Zeitalter des Wassermanns](../timeline/age-of-aquarius/)
+- [Zeitalter der Fische](../timeline/age-of-pisces/)
+- [Atomare Schwelle](../atomic-threshold/)
+- [Baum des Lebens](../tree-of-life/)
 - [Jean Sendy](../jean-sendy/)
 - [Mauro Biglino](../mauro-biglino/)
 - [Paul Anthony Wallis](../paul-anthony-wallis/)
 
-## References
+## Literaturverzeichnis
 
-Vorilhon, Claude (Raël). *Le Livre qui dit la vérité*. Éditions du Message, 1974. English: *The Book Which Tells the Truth*.
+Vorilhon, Claude (Raël). *Le Livre qui dit la vérité*. Éditions du Message, 1974. Deutsch: *Das Buch, das die Wahrheit sagt*.
 
-Vorilhon, Claude (Raël). *Les Extra-Terrestres m'ont emmené sur leur planète*. Éditions du Message, 1975/76. English: *Extra-Terrestrials Took Me to Their Planet*.
+Vorilhon, Claude (Raël). *Les Extra-Terrestres m'ont emmené sur leur planète*. Éditions du Message, 1975/76. Deutsch: *Außerirdische brachten mich auf ihren Planeten*.
 
-Vorilhon, Claude (Raël). *Accueillir les Extra-terrestres*. Éditions du Message, 1979. English: *Let's Welcome the Extra-terrestrials*.
+Vorilhon, Claude (Raël). *Accueillir les Extra-terrestres*. Éditions du Message, 1979. Deutsch: *Empfangen wir die Außerirdischen*.
 
-Vorilhon, Claude (Raël). *La Géniocratie*. Éditions du Message, 1978. English: *Geniocracy*.
+Vorilhon, Claude (Raël). *La Géniocratie*. Éditions du Message, 1978. Deutsch: *Geniokratie*.
 
-Vorilhon, Claude (Raël). *La Méditation Sensuelle*. Éditions du Message, 1980. English: *Sensual Meditation*.
+Vorilhon, Claude (Raël). *La Méditation Sensuelle*. Éditions du Message, 1980. Deutsch: *Sensuelle Meditation*.
 
-Vorilhon, Claude (Raël). *Oui au clonage humain*. Éditions du Message, 2000. English: *Yes to Human Cloning*.
+Vorilhon, Claude (Raël). *Oui au clonage humain*. Éditions du Message, 2000. Deutsch: *Ja zum menschlichen Klonen*.
 
-Vorilhon, Claude (Raël). *Le Maitreya*. Éditions du Message. English: *The Maitreya*.
+Vorilhon, Claude (Raël). *Le Maitreya*. Éditions du Message. Deutsch: *Der Maitreya*.
 
 Vorilhon, Claude (Raël). *Message from the Designers*. Tagman Press, 2005.
 
-International Raëlian Movement. *Apocalypse* magazine (semi-annual, 1976-present).
+International Raëlian Movement. *Apocalypse*-Magazin (halbjährlich, 1976–heute).
 
-International Raëlian Movement. *Contact* e-newsletter (weekly, current period).
+International Raëlian Movement. *Contact*-E-Newsletter (wöchentlich, aktueller Zeitraum).
 
-International Raëlian Movement. Various official communications across the 1976-present period.
+International Raëlian Movement. Verschiedene offizielle Mitteilungen im Zeitraum 1976–heute.
 
 Palmer, Susan J. *Aliens Adored: Raël's UFO Religion*. Rutgers University Press, 2004.
 
-Palmer, Susan J. "Field Notes: Apocalypse, Eros, and the Raelian Religion." *Religious Studies and Theology* 19, no. 2 (2000): 65-75.
+Palmer, Susan J. „Field Notes: Apocalypse, Eros, and the Raelian Religion." *Religious Studies and Theology* 19, Nr. 2 (2000): 65–75.
 
-Palmer, Susan J. "Women in the Raelian Movement: New Religious Experiments in Gender and Authority." In *The Gods Have Landed: New Religions from Other Worlds*, ed. James R. Lewis. SUNY Press, 1995.
+Palmer, Susan J. „Women in the Raelian Movement: New Religious Experiments in Gender and Authority." In *The Gods Have Landed: New Religions from Other Worlds*, hg. von James R. Lewis. SUNY Press, 1995.
 
-Introvigne, Massimo. Various scholarly engagements with the Raëlian movement through CESNUR, 1990s-present.
+Introvigne, Massimo. Verschiedene wissenschaftliche Auseinandersetzungen mit der raëlianischen Bewegung über CESNUR, 1990er-Jahre bis heute.
 
-Lewis, James R., ed. *The Gods Have Landed: New Religions from Other Worlds*. SUNY Press, 1995.
+Lewis, James R. (Hg.). *The Gods Have Landed: New Religions from Other Worlds*. SUNY Press, 1995.
 
-Lewis, James R., ed. *Encyclopedic Sourcebook of UFO Religions*. Prometheus Books, 2003.
+Lewis, James R. (Hg.). *Encyclopedic Sourcebook of UFO Religions*. Prometheus Books, 2003.
 
-Partridge, Christopher, ed. *UFO Religions*. Routledge, 2003.
+Partridge, Christopher (Hg.). *UFO Religions*. Routledge, 2003.
 
-Partridge, Christopher. *The Re-Enchantment of the West*. 2 vols. T&T Clark, 2004-2005.
+Partridge, Christopher. *The Re-Enchantment of the West*. 2 Bde. T&T Clark, 2004–2005.
 
 Tumminia, Diana G. *Alien Worlds: Social and Religious Dimensions of Extraterrestrial Contact*. Syracuse University Press, 2007.
 
-Chryssides, George D. "Unrecognized Charisma? A Study and Comparison of Four Charismatic Leaders: Charles Taze Russell, Joseph Smith, L. Ron Hubbard and Swami Prabhupada." Paper, CESNUR, 2003.
+Chryssides, George D. „Unrecognized Charisma? A Study and Comparison of Four Charismatic Leaders: Charles Taze Russell, Joseph Smith, L. Ron Hubbard and Swami Prabhupada." Paper, CESNUR, 2003.
 
-Chryssides, George D., and Margaret Z. Wilkins, eds. *A Reader in New Religious Movements*. Continuum, 2006.
+Chryssides, George D., und Margaret Z. Wilkins (Hgg.). *A Reader in New Religious Movements*. Continuum, 2006.
 
-Rothstein, Mikael. "Hagiography and Text in the Raëlian Movement." In *UFO Religions*, ed. Christopher Partridge. Routledge, 2003.
+Rothstein, Mikael. „Hagiography and Text in the Raëlian Movement." In *UFO Religions*, hg. von Christopher Partridge. Routledge, 2003.
 
-Rothstein, Mikael. "UFO Religions and Religious Studies: A Comparative Perspective." In *UFO Religions*, ed. Christopher Partridge. Routledge, 2003.
+Rothstein, Mikael. „UFO Religions and Religious Studies: A Comparative Perspective." In *UFO Religions*, hg. von Christopher Partridge. Routledge, 2003.
 
-Östling, Erik A. W. "Raëlism." In *Handbook of UFO Religions*, ed. Benjamin E. Zeller. Brill, forthcoming.
+Östling, Erik A. W. „Raëlism." In *Handbook of UFO Religions*, hg. von Benjamin E. Zeller. Brill, in Vorbereitung.
 
 Zeller, Benjamin E. *Heaven's Gate: America's UFO Religion*. NYU Press, 2014.
 
-Zeller, Benjamin E., ed. *Handbook of UFO Religions*. Brill, 2021.
+Zeller, Benjamin E. (Hg.). *Handbook of UFO Religions*. Brill, 2021.
 
-Saliba, John A. "The Study of UFO Religions." *Nova Religio* 10, no. 2 (2006): 103-123.
+Saliba, John A. „The Study of UFO Religions." *Nova Religio* 10, Nr. 2 (2006): 103–123.
 
-Wessinger, Catherine, ed. *The Oxford Handbook of Millennialism*. Oxford University Press, 2011.
+Wessinger, Catherine (Hg.). *The Oxford Handbook of Millennialism*. Oxford University Press, 2011.
 
 Ellwood, Robert S. *Alternative Altars: Unconventional and Eastern Spirituality in America*. University of Chicago Press, 1979.
 
@@ -627,7 +683,7 @@ Mack, John E. *Abduction: Human Encounters with Aliens*. Charles Scribner's Sons
 
 Mack, John E. *Passport to the Cosmos: Human Transformation and Alien Encounters*. Crown, 1999.
 
-Comte, Auguste. *Système de politique positive*. 4 vols. Carilian-Goeury, 1851-1854. English: *System of Positive Polity*. Trans. various. Longmans, Green, 1875-1877.
+Comte, Auguste. *Système de politique positive*. 4 Bde. Carilian-Goeury, 1851–1854. Englisch: *System of Positive Polity*. Übers. verschiedene. Longmans, Green, 1875–1877.
 
 Adler, Felix. *An Ethical Philosophy of Life*. D. Appleton, 1918.
 
@@ -637,15 +693,15 @@ Givens, Terryl L. *By the Hand of Mormon: The American Scripture That Launched a
 
 Smith, Peter. *An Introduction to the Baha'i Faith*. Cambridge University Press, 2008.
 
-Buswell, Robert E., Jr., and Donald S. Lopez Jr. *The Princeton Dictionary of Buddhism*. Princeton University Press, 2014.
+Buswell, Robert E., Jr., und Donald S. Lopez Jr. *The Princeton Dictionary of Buddhism*. Princeton University Press, 2014.
 
 Sendy, Jean. *Ces dieux qui firent le ciel et la terre*. Robert Laffont, 1969.
 
 Sendy, Jean. *L'ère du Verseau*. Robert Laffont, 1970.
 
-Biglino, Mauro, and Giorgio Cattaneo. *The Naked Bible: The Truth About the Most Famous Book in History*. Uno, 2022.
+Biglino, Mauro, und Giorgio Cattaneo. *The Naked Bible: {% wiki(slug="the-truth") %}The Truth{% end %} About the Most Famous Book in History*. Uno, 2022.
 
-Wallis, Paul Anthony. *The Eden Conspiracy*. 6th Books, 2024.
+Wallis, Paul Anthony. *The {% wiki(slug="eden") %}Eden{% end %} Conspiracy*. 6th Books, 2024.
 
 International Raëlian Movement. <https://www.rael.org>
 
@@ -655,6 +711,6 @@ Clonaid. <https://www.clonaid.com>
 
 Alliance for Extraterrestrial Diplomatic Contact. <https://www.aedc-alliance.org>
 
-"Raëlism." *Encyclopaedia Britannica*. <https://www.britannica.com/topic/Raelism>
+„Raëlism." *Encyclopaedia Britannica*. <https://www.britannica.com/topic/Raelism>
 
-"International Raelian Movement." *Wikipedia*. <https://en.wikipedia.org/wiki/Ra%C3%ABlism>
+„International Raelian Movement." *Wikipedia*. <https://en.wikipedia.org/wiki/Ra%C3%ABlism>

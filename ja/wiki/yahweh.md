@@ -1,304 +1,390 @@
 +++
 title = "ヤハウェ"
-description = "ヤハウェ(<span class=\"hebrew\">יהוה</span>、YHWH)は、ヘブライ語聖書において、イスラエルの神の固有名である。Wheel of Heaven およびラエル文献では、この語は永遠者会議の議長 — 地球を担当するエロヒム文明の指導者 — を名指す。"
+slug = "yahweh"
+description = "ヤハウェ(ヘブライ語:יהוה、YHWH)はヘブライ語聖書における主要な神的人物の固有名であり、主流の伝統では慣例的にイスラエルの唯一神として読まれている。ラエル文献において展開され、Wheel of Heaven 文献集が採用する読解によれば、ヤハウェは特定のエロアハ ― 永遠の評議会の議長であり、山羊座の時代以降、地球上における生命の創造を自ら指揮した上級同盟権威者であり、その後の一万五千年にわたる地球の預言者的人物たちとの主要な同盟対話者である。本文献集の主要な典拠は、1973年の六日間の朝にクロード・ヴォリロン(ラエル)に与えられたヤハウェ自身の一人称による文明の証言である。"
 template = "wiki-page.html"
 toc = true
 
 [extra]
-translation_status = "metadata_only"
+featured_order = 2
 category = "Elohim"
 editorial_pass = "2026-05"
 entry_type = "figure"
-alternative_names = ["YHWH", "יהוה", "𐤉𐤄𐤅𐤄", "YHVH", "Jehovah", "the Eternal", "the First and the Last", "Alpha and Omega"]
+alternative_names = ["YHWH", "יהוה", "𐤉𐤄𐤅𐤄", "YHVH", "エホバ", "永遠者", "最初にして最後の者", "アルファとオメガ"]
+see_also = [
+    { title = "エロヒム", path = "wiki/elohim", description = "ヤハウェがその主要な構成員である複数形の呼称。" },
+    { title = "永遠者の評議会", path = "wiki/council-of-eternals", description = "ヤハウェが議長を務める統治機関。" },
+    { title = "イエス", path = "wiki/jesus", description = "キリスト教伝統において慣例的にヤハウェの子と同定されている人物。" },
+    { title = "モーセ", path = "wiki/moses", description = "出エジプト物語におけるヤハウェの主要な接触相手。" },
+    { title = "アブラハム", path = "wiki/abraham", description = "ヤハウェが契約を樹立した創設族長。" },
+]
+
+footnotes = [
+    { content = "ヘブライ語聖書におけるテトラグラマトンの出現回数を約6,800回とする数値は、マソラ本文に関する研究から導出され広く引用されているコンコルダンスの数字です。正確な数字は版によって異なり(レニングラード写本、BHS、BHQ は小さな差で異なります)、また *-yahu* および *-yah* 語尾を持つ複合的神名要素を含む固有名詞における出現を神名そのものの例として数えるかどうかによっても変動します。ストロングのコンコルダンス項目3068、BDB、HALOT は依然として標準的な参照点です。" },
+    { content = "テトラグラマトンの歴史的発音としての *ヤハウェ* という再構成は、現代の批判的学術研究の合意ですが、これはユダヤ教の典礼伝統の内部で到達されたものではありません。ユダヤ教の伝統は *アドナイ* の *qere perpetuum*(永続的読み替え)による代入を保存しており、子音による神名は発声されないものとして扱います。この再構成は、教父期の音写(クレメンス・アレクサンドリヌスのἸαουέ、テオドレトスのἸαβέ)、比較西セム系神名要素(聖書の固有名詞の *-yahu* および *-yah* 語尾)、および動詞語根の再構成された母音化に依拠しています。したがってこの発音は学術的・文献学的な再構成であり、回復されたあるいは伝承された形ではありません。" },
+    { content = "後期青銅器時代のエジプト語資料における *Yahu* / *Yhw* への言及は、ソレブ(アメンホテプ3世治下、紀元前14世紀)およびアマラ西(ラメセス2世治下、紀元前13世紀)の地名表に関わるものであり、これらは南レヴァント / シナイ地域に位置する場所または神 *yhw* に関連する遊牧集団 ― *Shasu yhw* ― について言及しています。このエジプト語の *yhw* と後のイスラエル人のヤハウェとの関係は議論の対象です。支配的な読解は、このエジプト語の証言を、ヤハウェの山であるシナイ / ホレブを語る聖書の伝統と整合する、神格の初期の南方(ミディアン人 / エドム人)起源の証拠として扱います。しかし地名表から特定の神格人物への推論は文献学的に厳密ではありません。" },
+    { content = "*エホバ* という形 ― *アドナイ* の母音を YHWH の子音に重ね合わせたもの ― は、ペトルス・ガラティヌスが『カトリック真理の秘事について』(1518年)においてラテン語キリスト教の用法で普及させ、欽定訳(1611年)および近世初期のヨーロッパ諸言語の翻訳に受け継がれ、20世紀まで典礼用法において存続しました。現代の文献学的合意は、この形を、いかなる歴史的ヘブライ語の発話共同体においても統一された名として発音されたことのないハイブリッドとして扱います。マソラ式の母音記号付加は代入のための読み補助であって、発音の記録ではありませんでした。" },
+    { content = "ヴェルハウゼンによる古典的な文書仮説の定式化(J/E/D/P)は、その後の学術研究を通じて実質的に修正されてきました。ロルフ・レントルフとエルハルト・ブルムは連続的な J および E 資料の存在に異議を唱え、独立した塊状の伝承群が後に編集されたモデルを代わりに提案しています。ジョン・ヴァン・セータースは J を紀元前10世紀ではなく捕囚期または捕囚後期に位置づけます。新文書仮説学派(バルーフ・シュワルツ、ジョエル・ベイデン)は修正された四資料モデルを擁護しています。本文献集の枠組みは、特定の構成的再構成に与することなく、現存する本文に保存された歴史的指示対象を読み取ります。" },
+    { content = "ヤハウェの継続的存在についての25,000年という数値は、ラエル文献に内在する典拠資料です。ヴォリロンの記録ではこの期間は約2万5千年とされており、ヤハウェは細胞移転による継続技術が最初に成功裏に適用された個体として記述されています。この数値はその後のラエル文献の各版を通じて一定のまま保たれてきました。本文献集はこれを、独立に検証可能な年代論的主張としてではなく、典拠内在的なデータとして扱います ― 技術そのものも、当該個体の継続的存在も、外的な裏付けに利用可能なものではありません。" },
+]
+
+[[extra.references]]
+id = "genesis"
+locator = "創世記2:4以下、12章、15章、17章、18章、22章"
+note = "エデン、洪水、および族長物語の YHWH エロヒムに関する主要なヘブライ語聖書箇所。"
+
+[[extra.references]]
+id = "exodus"
+locator = "出エジプト記3:14、6章、19-24章、33-34章"
+note = "燃える柴、エヘイェ・アシェル・エヘイェの自己命名、そしてシナイの神顕現。"
+
+[[extra.references]]
+id = "isaiah"
+locator = "イザヤ書6章"
+note = "セラフィムと共に王座に着くヤハウェについてのイザヤの王座の間の幻視。"
+
+[[extra.references]]
+id = "ezekiel"
+locator = "エゼキエル書1章"
+note = "ヤハウェの *カヴォード* の戦車の王座の幻視。"
+
+[[extra.references]]
+id = "revelation"
+locator = "ヨハネの黙示録1:8、1:17、21:6、22:13"
+note = "ヤハウェの「最初にして最後の者」/「アルファとオメガ」の自己同定。"
+
+[[extra.references]]
+id = "the-book-which-tells-the-truth"
+note = "ヴォリロンによる基礎的な1974年のラエル文献。ヤハウェ自身の一人称によるその文明についての証言として提示されている。"
+
+[[extra.references]]
+id = "extraterrestrials-took-me-to-their-planet"
+note = "ヴォリロンの第二のラエル文献(1976年)。エロヒムの母星における永遠者の評議会との会合を含む。"
+
+[[extra.references]]
+id = "lets-welcome-the-extraterrestrials"
+note = "ヴォリロンの第三のラエル文献(1979年)。その後の通信と明確化。"
+
+[[extra.references]]
+id = "those-gods-who-made-heaven-and-earth"
+note = "ジャン・サンディによる、エロヒム複数性内における特定のテオサイトとしてのヤハウェについての初期の文献学的・歴史学的読解。"
+
+[[extra.references]]
+id = "the-bible-is-not-a-sacred-book"
+note = "マウロ・ビリーノによる厳密な逐語的ヘブライ語聖書読解。「上方からの主たち」の中の特定の個体としてのヤハウェ。"
+
+[[extra.references]]
+id = "the-naked-bible"
+note = "ビリーノ&カッターネオによる2022年のより広範なヘブライ語聖書調査。厳密な逐語訳の手法を拡張したもの。"
+
+[[extra.references]]
+id = "escaping-from-eden"
+note = "ポール・アンソニー・ウォリスによる、ヘブライ語のエロヒム / 力ある者たちの比較的読解。"
+
+[[extra.references]]
+id = "the-spaceships-of-ezekiel"
+note = "エゼキエル書1章の戦車の王座の幻視に対する工学的視点からの読解。"
+
+[[extra.references]]
+id = "a-hebrew-and-english-lexicon-of-the-old-testament"
+note = "BDB 辞典 ― テトラグラマトンの基底にある動詞語根 h-y-h / h-w-h の参照文献。"
+
+[[extra.references]]
+id = "the-hebrew-and-aramaic-lexicon-of-the-old-testament"
+note = "HALOT(ケーラー=バウムガルトナー)― YHWH および関連する形に関する標準的辞書学的参照文献。"
 
 [extra.infobox]
 hebrew_form = "יהוה"
 transliteration = "YHWH"
 reconstructed_pronunciation = "Yahweh"
-type = "Eloha individual"
-born = "c. 23,000 BCE on the Elohim home world (framework-internal)"
-age_at_1973_contact = "approximately 25,000 years"
-bodies = "25 (through cell-transfer continuity technology)"
-role = "President of the Council of the Eternals; senior alliance authority for the Earth project"
-species = "Eloha"
-home_world = "Single planet outside the solar system"
-earth_role = "Senior officer directing the Earth creation project; leader of the Israel team during and after the Eden period; principal alliance interlocutor with the Hebrew prophetic tradition"
-principal_source = "*Message from the Designers* (Vorilhon/Raël, 1974–79), of which Yahweh is the first-person speaker"
+type = "エロアハ個体"
+born = "紀元前約23,000年、エロヒムの母星にて(枠組み内在的)"
+age_at_1973_contact = "約25,000年"
+bodies = "25(細胞移転による継続技術を通じて)"
+role = "永遠者の評議会の議長。地球プロジェクトの上級同盟権威者"
+species = "エロアハ"
+home_world = "太陽系外の単一の惑星"
+earth_role = "地球創造プロジェクトを指揮する上級士官。エデン期およびその後のイスラエル・チームの指導者。ヘブライ語の預言者的伝統との主要な同盟対話者"
+principal_source = "*デザイナーからのメッセージ*(ヴォリロン/ラエル、1974-79年)― ヤハウェが一人称の語り手"
 +++
 
-**Yahweh** (Hebrew: <span class="hebrew">יהוה</span>, transliterated *YHWH*; the *Tetragrammaton*, "the four letters") is the proper name of the principal divine figure of the Hebrew Bible. The name appears approximately 6,800 times in the Hebrew text, more than any other designation for the divine. In Jewish liturgical practice the name is not pronounced; it is replaced in reading by *Adonai* ("my Lord") or by *ha-Shem* ("the Name"), and the name's vocalization in the Masoretic tradition (with the vowels of *Adonai*, producing the hybrid form *Yehovah* / *Jehovah*) reflects this substitution rather than the historical pronunciation. The reconstruction *Yahweh* is the form preferred by modern critical scholarship.
+**ヤハウェ**(ヘブライ語:<span class="hebrew">יהוה</span>、転写 *YHWH*。*テトラグラマトン*、すなわち「四つの文字」)は、{% wiki(slug="hebrew-bible") %}ヘブライ語聖書{% end %}における主要な神的人物の固有名です。この名はヘブライ語本文中に約6,800回現れ、神を指す他のいかなる呼称よりも頻度が高いものです。{{ footnote(id="1") }}ユダヤ教の典礼実践においてこの名は発音されません。読誦においては *アドナイ*(「我が主」)あるいは *ハ・シェム*(「その名」)に置き換えられ、マソラ伝統における名の母音化(*アドナイ* の母音を伴い、ハイブリッドな形 *エホヴァ* / *エホバ* を生み出す)は、歴史的な発音ではなく、この代入を反映しています。再構成形 *ヤハウェ* は現代の批判的学術研究が好む形です。{{ footnote(id="2") }}
 
-On the reading developed in the Raëlian source material and adopted by the Wheel of Heaven corpus, Yahweh is a specific Eloha individual — the president of the Council of the Eternals on the Elohim home world, the senior alliance authority directing the Earth creation project from its inception in the Age of Capricorn approximately twenty-two thousand years ago, the leader of the Israel team that conducted the Eden operation and the framework's reading of *Yahweh Elohim* of Genesis 2 onward, and the principal alliance interlocutor with the prophetic figures of the Hebrew, Christian, and subsequent traditions across the entire post-creation arc. The Raëlian source material is, on the corpus's reading, Yahweh's own first-person account of himself and of his civilization, delivered to Claude Vorilhon at Clermont-Ferrand over six successive mornings in December 1973 and elaborated through a second longer contact in October 1975. This first-person provenance gives Yahweh's role in the framework an unusual epistemic position: most of what the framework knows about the Elohim civilization, it knows because Yahweh told it to Vorilhon.
+ラエル文献において展開され、{% wiki(slug="wheel-of-heaven") %}Wheel of Heaven{% end %} 文献集が採用する読解によれば、ヤハウェは特定のエロアハ個体です ― エロヒムの母星における永遠者の評議会の議長であり、約2万2千年前の山羊座の時代におけるその開始から地球創造プロジェクトを指揮した上級同盟権威者であり、{% wiki(slug="eden") %}エデン{% end %}作戦と本文献集が読み解く創世記2章以降の *ヤハウェ・エロヒム* を実施したイスラエル・チームの指導者であり、ヘブライ、キリスト教、およびその後の諸伝統の預言者的人物たちとの、創造後の弧の全期間にわたる主要な同盟対話者です。本文献集の読解では、ラエル文献はヤハウェ自身による彼自身および彼の文明についての一人称の証言であり、1973年12月のクレルモン=フェランにおいて六日間連続した朝にクロード・ヴォリロンに与えられ、1975年10月のより長い第二の接触を通じて精緻化されたものです。この一人称的来源は、枠組みにおけるヤハウェの役割に対して特異な認識論的位置を与えます。すなわち、エロヒム文明について枠組みが知っていることの大部分は、ヤハウェがヴォリロンに告げたことを通じて知られているのです。
 
-The reading is contested. Within the modern academic study of the Hebrew Bible, the dominant readings of Yahweh include the traditional Jewish and Christian theological identification of Yahweh as the singular God of Israel, the comparative-Semitic historical reconstruction of Yahweh as a West Semitic deity whose origins lie in the broader Canaanite religious context, and the developmental account in which Yahweh's status evolved from regional storm-god to high-god to universal monotheistic deity across the first millennium BCE. The corpus's reading is consistent with the historical-critical observation that Yahweh has a specific identifiable identity (rather than being identical to the more generic *Elohim*), but reframes the underlying ontology: Yahweh is a specific individual within an extraterrestrial civilization rather than a deity in any supernatural sense.
+この読解は争点となっています。現代のヘブライ語聖書学術研究の内部における、ヤハウェの支配的な読解には、伝統的なユダヤ教およびキリスト教の神学的同定、すなわちヤハウェをイスラエルの唯一神とするもの、比較セム系の歴史的再構成、すなわちその起源はより広範なカナンの宗教的文脈に存する西セム系神格としてのヤハウェ、そして発展論的説明、すなわちヤハウェの地位が紀元前1千年紀全体を通じて地域的な嵐の神から至高神へ、さらに普遍的な一神教的神格へと進化したとするもの、が含まれます。本文献集の読解は、ヤハウェが特定の同定可能な同一性を持つ(より一般的な *エロヒム* と同一ではない)という歴史批評的観察と整合しますが、基底にある存在論を再枠組みするものです。ヤハウェは、いかなる超自然的意味における神格でもなく、地球外文明内の特定の個体である、というのです。
 
-## Etymology and naming
+## 語源と命名
 
-The Tetragrammaton appears in the Hebrew Bible from Genesis 2:4 onward. In Genesis 1:1–2:3 the divine name is *Elohim* (plural); from Genesis 2:4 the compound *YHWH Elohim* appears, and from Genesis 4 onward *YHWH* is used independently. The distribution of the divine names across the Hebrew Bible has been studied since Astruc in the 18th century and is one of the foundational observations of modern source criticism, which reads the alternation as evidence of distinct compositional sources behind the Pentateuchal text.
+テトラグラマトンはヘブライ語聖書において、{% libref(book="genesis", chapter=2, verse=4) %}創世記2:4{% end %}以降に現れます。創世記1:1-2:3 においては神名は *エロヒム*(複数)です。創世記2:4 からは複合形 *YHWH エロヒム* が現れ、創世記4章以降は *YHWH* が独立して用いられます。ヘブライ語聖書全体にわたる神名の分布は18世紀のアストリュク以来研究されてきており、現代の資料批評の基礎的観察の一つです。この交替は、モーセ五書本文の背後にある別個の構成的資料の証拠として読まれています。
 
-### Etymology of the name
+### 名の語源
 
-The name's etymology connects most plausibly to the Hebrew verbal root *h-y-h* (and its archaic variant *h-w-h*), "to be," "to exist," or "to become." On this analysis, *YHWH* is the third-person singular masculine imperfect of the verb, conventionally translated "He is," "He will be," or "He causes to be." The Exodus 3:14 self-naming — *Ehyeh asher ehyeh*, conventionally translated "I am that I am" or "I will be what I will be" — uses the first-person form *ehyeh* of the same verbal root, and the connection to the Tetragrammaton is grammatically transparent: the form Moses receives ("I am") is the first-person counterpart of the third-person form by which the divine is named ("He is").
+この名の語源は、ヘブライ語の動詞語根 *h-y-h*(およびその古形 *h-w-h*)、「ある」「存在する」あるいは「なる」と最も妥当な仕方で結びつきます。この分析に基づけば、*YHWH* は動詞の三人称単数男性未完了形であり、慣例的に「彼はある」「彼はあるであろう」あるいは「彼は生じさせる」と訳されます。{% libref(book="exodus", chapter=3, verse=14) %}出エジプト記3:14{% end %}の自己命名 ― *エヘイェ・アシェル・エヘイェ*、慣例的に「私はある、私はあるという者である」あるいは「私は私であるものとなるであろう」と訳される ― は、同じ動詞語根の一人称形 *エヘイェ* を用いており、テトラグラマトンとの関連は文法的に明白です。すなわち、モーセが受け取る形(「私はある」)は、神が名指される三人称形(「彼はある」)の一人称対応形なのです。
 
-The "He is" reading is the dominant scholarly reconstruction but not the only one. Alternative proposals connect the name to a putative *Yahweh-Sabaoth* military epithet, to a storm-god title from the broader West Semitic tradition, to a place-name (Mount Yahu, mentioned in Egyptian sources of the Late Bronze Age in connection with nomadic groups in the Sinai region), or to a causative form ("He who causes to be") rather than the simple existential. None of these has displaced the existential reading, but several remain alive in specialist debate.
+「彼はある」とする読解は支配的な学術的再構成ですが、唯一のものではありません。代替案は、この名を、想定上の *ヤハウェ・サバオート* 軍事的形容詞句に、より広範な西セム系伝統からの嵐神の称号に、地名(後期青銅器時代のエジプト語資料においてシナイ地域の遊牧集団と関連して言及されるヤフ山){{ footnote(id="3") }}に、あるいは単純な存在的形ではなく使役形(「あらしめる者」)に結びつけます。{{ cite(id="a-hebrew-and-english-lexicon-of-the-old-testament", text="[1]", title="ブラウン、ドライバー、ブリッグス『ヘブライ語英語旧約聖書辞典』― 動詞語根 h-y-h / h-w-h の項目") }}{{ cite(id="the-hebrew-and-aramaic-lexicon-of-the-old-testament", text="[2]", title="ケーラー=バウムガルトナー『旧約聖書のヘブライ語およびアラム語辞典』(HALOT)― YHWH および関連する形の項目") }}これらのいずれも存在論的読解を取って代わるには至っていませんが、いくつかは専門家の議論において依然として有効です。
 
-### Pointing and pronunciation
+### 母音記号付加と発音
 
-The Hebrew Bible as we have it was written in a consonantal script that did not record vowels; vowels were added by the Masoretic scribes in the early medieval period (principally the Tiberian school, c. 7th–10th century CE). By the time the Masoretes worked, the practice of not pronouncing the Tetragrammaton was already ancient — attested as early as the Septuagint (3rd–2nd century BCE), which translates *YHWH* uniformly as Greek *Kyrios*, "Lord," reflecting the Aramaic and Hebrew substitution practice already in place. The Masoretes therefore pointed the consonants *YHWH* with the vowels of the substitute *Adonai* — producing the form *Yehovah* — to remind the reader that the name was not to be pronounced as written but to be replaced in reading. The Latin Vulgate and the early English translations took this hybrid pointing as the actual pronunciation, producing *Jehovah* — a form that, on modern philological consensus, is a vocalic chimera that was never the historical pronunciation of the name.
+我々が現在持つヘブライ語聖書は、母音を記録しない子音文字で書かれていました。母音は中世初期(主としてティベリア学派、紀元7-10世紀頃)にマソラ書記によって付加されました。マソラ学者たちが作業を行った時までには、テトラグラマトンを発音しないという慣習はすでに古くからのものでした ― 七十人訳(紀元前3-2世紀)に早くも証言されており、これは *YHWH* を一様にギリシャ語の *Kyrios*、「主」と訳し、すでに行われていたアラム語とヘブライ語の代入実践を反映しています。したがってマソラ学者たちは子音 *YHWH* に代入語 *アドナイ* の母音を付加し ― 形 *エホヴァ* を生み出して ― 読者にこの名が書かれた通りに発音されるべきではなく、読誦においては置き換えられるべきものであることを思い出させました。ラテン語ウルガタ訳と初期の英語訳はこのハイブリッドな母音記号付加を実際の発音として受け取り、*エホバ* という形を生み出しました ― これは、現代の文献学的合意では、この名の歴史的発音であったことが一度もない母音的キメラです。{{ footnote(id="4") }}
 
-### Liturgical handling and substitution
+### 典礼上の取り扱いと代入
 
-In Jewish liturgical practice, the Tetragrammaton is never pronounced as written. In synagogue reading, the substitute *Adonai* is used; in casual reference outside liturgical contexts, *ha-Shem* ("the Name"); in writing outside sacred texts, abbreviations such as <span class="hebrew">ה'</span> or transliterations such as *G-d* (in English-language Orthodox Jewish writing) reflect the broader principle that the name carries holiness sufficient to require linguistic distancing. Christian translation traditions have generally followed the Septuagint precedent of rendering *YHWH* as *Lord* (in capital and small capitals: <small>LORD</small>), preserving the substitution structure even when the underlying theological reasoning has been lost. The notable exception is the New Jerusalem Bible (1985) and its predecessor, which restored *Yahweh* in the English text — a translational decision the Vatican's Congregation for Divine Worship subsequently directed against in 2008.
+ユダヤ教の典礼実践において、テトラグラマトンは決して書かれた通りに発音されません。シナゴーグの読誦においては代入語 *アドナイ* が用いられます。典礼的文脈外での通常の言及においては *ハ・シェム*(「その名」)が用いられます。神聖な本文外の記述においては、<span class="hebrew">ה'</span> のような省略形や *G-d* のような転写(英語の正統派ユダヤ教の記述において)が用いられ、これらは、この名が言語的隔たりを必要とするほどの神聖性を帯びるというより広範な原則を反映しています。キリスト教の翻訳伝統は概して、*YHWH* を *主*(大文字と小型大文字で記す:<small>LORD</small>)と訳する七十人訳の前例に従い、基底にある神学的論拠が失われた時にも代入構造を保存してきました。注目すべき例外は{% wiki(slug="new-jerusalem") %}新エルサレム{% end %}聖書(1985年)とその前身であり、英文本文中に *ヤハウェ* を復元しています ― これは、ヴァチカンの神礼拝省がその後2008年に反対するよう指示した翻訳上の決定です。
 
-### The divine names in source criticism
+### 資料批評における神名
 
-The Documentary Hypothesis, in its classical form developed by Wellhausen (1883) and refined across subsequent scholarship, reads the alternation between *YHWH*, *Elohim*, and the compound *YHWH Elohim* as a principal marker for distinct compositional sources within the Pentateuch:
+文書仮説は、その古典的な形態においてヴェルハウゼン(1883年)によって展開され、その後の学術研究を通じて精緻化されたものですが、*YHWH*、*エロヒム*、および複合形 *YHWH エロヒム* の交替を、モーセ五書内の別個の構成的資料を区別する主要な指標として読み取ります:
 
-- The **Yahwist source** (J), conventionally dated to the 10th–9th century BCE, uses *YHWH* throughout and is associated with anthropomorphic narratives, the southern Judah perspective, and the patriarchal stories.
-- The **Elohist source** (E), conventionally 9th–8th century BCE, uses *Elohim* until Exodus 3 (where *YHWH* is revealed to Moses for the first time on this source's account), is associated with the northern Israel perspective, and prefers more theologically distanced narratives.
-- The **Priestly source** (P), conventionally 6th–5th century BCE, uses *Elohim* in Genesis 1–11 and *YHWH* from Exodus 6 (where the name's revelation is parallel but distinct from E's account), and is associated with cultic and genealogical material.
-- The **Deuteronomist** (D), 7th century BCE and after, uses *YHWH* throughout and is associated with the book of Deuteronomy and the Deuteronomistic History.
+- **ヤハウィスト資料**(J)は、慣例的に紀元前10-9世紀の年代設定で、終始 *YHWH* を用い、擬人的物語、南部ユダの視点、および族長物語と関連付けられます。
+- **エロヒスト資料**(E)は、慣例的に紀元前9-8世紀のもので、出エジプト記3章まで *エロヒム* を用い(この資料の説明では *YHWH* はここで初めてモーセに啓示される)、北部イスラエルの視点と関連付けられ、神学的により距離のある物語を好みます。
+- **祭司資料**(P)は、慣例的に紀元前6-5世紀のもので、創世記1-11章では *エロヒム* を、出エジプト記6章以降では *YHWH* を用い(ここでの名の啓示は E のそれと並行しつつも別個のものです)、祭儀的および系図的素材と関連付けられます。
+- **申命記資料**(D)は、紀元前7世紀以降のもので、終始 *YHWH* を用い、申命記の書および申命記史と関連付けられます。{{ footnote(id="5") }}
 
-The corpus adopts no specific position on the source-critical questions. The framework's reading depends on the historical referents preserved in the surviving Hebrew text rather than on any specific reconstruction of the text's compositional history; the name *Yahweh* refers, on the corpus's reading, to a specific Eloha individual whose identity is preserved across the various textual layers, regardless of how those layers were assembled.
+本文献集は資料批評の問題について特定の立場を採りません。枠組みの読解は、本文の構成史の特定の再構成にではなく、現存するヘブライ語本文に保存された歴史的指示対象に依拠しています。本文献集の読解では、*ヤハウェ* という名は、それらの層がどのように組み立てられたかにかかわらず、様々な本文層を通じて同一性が保存されている特定のエロアハ個体を指しています。
 
-## In the Hebrew Bible
+## ヘブライ語聖書において
 
-The Tetragrammaton *YHWH* appears approximately 6,800 times in the Hebrew Bible, distributed across all major sections of the canon. Yahweh is the principal divine actor in the patriarchal narratives, the Exodus and wilderness traditions, the conquest and judges material, the Davidic and Solomonic monarchy narratives, the prophetic literature of the divided monarchy and the exile, and the post-exilic restoration material. His specific narrative appearances are dense across the historical books and concentrated, in formal-revelatory mode, in the Pentateuchal theophanies and the prophetic-vision sequences.
+テトラグラマトン *YHWH* はヘブライ語聖書中に約6,800回現れ、正典のすべての主要部分にわたって分布しています。ヤハウェは、族長物語、出エジプトと荒野の伝統、征服と裁き人の素材、ダビデ王国とソロモン王国の物語、分裂王国と捕囚の預言文学、および捕囚後の復興素材における主要な神的行為者です。彼の特定の物語的登場は歴史書全体にわたって密集しており、形式的・啓示的様式においては、モーセ五書の神顕現と預言的幻視のシークエンスに集中しています。
 
-### The principal narrative appearances
+### 主要な物語的登場
 
-Yahweh's most significant direct appearances in the Hebrew Bible, in their canonical sequence, include:
+{% library(book="the-book-which-tells-the-truth", chapter=1, verse=51) %}
+我々はあなたたちと同じ人間であり、地球と非常に類似した惑星に住んでいる。
+{% end %}
 
-- **Genesis 2–3** (the Eden narrative): Yahweh Elohim plants the garden, forms the man, places him in the garden, prohibits the tree of knowledge, forms the woman, confronts the humans after the transgression, pronounces consequences on the serpent, the woman, and the man, and expels them from the garden.
-- **Genesis 4** (Cain and Abel): Yahweh receives offerings, prefers Abel's, warns Cain, hears Abel's blood crying from the ground, and pronounces Cain's punishment.
-- **Genesis 6–9** (the Flood narrative): Yahweh observes the corruption of the antediluvian world, decides to send the Flood, instructs Noah to build the ark, sends the Flood and ends it, smells Noah's burnt offering, and establishes the Noahic covenant with the rainbow as its sign.
-- **Genesis 12, 15, 17, 18, 22** (the Abrahamic narratives): Yahweh calls Abram from Ur, establishes the covenant of land and posterity, performs the formal covenant-cutting ceremony of Genesis 15, renames Abram to Abraham at the institution of circumcision, visits Abraham at the oaks of Mamre, and tests Abraham at the binding of Isaac.
-- **Exodus 3** (the burning bush): Yahweh appears to Moses at Horeb, identifies himself with the *Ehyeh asher ehyeh* self-naming, and commissions Moses for the Exodus mission.
-- **Exodus 19–24, 33–34** (the Sinai theophany): Yahweh descends on Sinai in cloud and fire, gives the Decalogue and the broader covenant code, and is encountered by Moses in the most direct theophanic mode the Hebrew Bible records.
-- **1 Samuel 3** (the calling of Samuel): Yahweh calls Samuel by name in the night, Samuel mistaking the voice for Eli's until Eli identifies the source.
-- **1 Kings 19** (Elijah at Horeb): Yahweh appears to Elijah not in the wind, the earthquake, or the fire, but in the *qol demamah daqqah*, the "thin silent voice."
-- **Isaiah 6** (Isaiah's throne-room vision): Yahweh appears enthroned with the seraphim, sending Isaiah for his prophetic mission.
-- **Ezekiel 1** (the chariot-throne vision): Ezekiel sees the *kavod* of Yahweh in the elaborate chariot-throne vision that opens the book.
+ヘブライ語聖書におけるヤハウェの最も重要な直接的登場を、その正典的順序で挙げると次の通りです:
 
-Beyond these major direct appearances, Yahweh is the named subject or agent of thousands of additional passages across the Hebrew Bible, particularly in the prophetic books where the formula "Thus says Yahweh" introduces oracles delivered through the prophets.
+- **{% libref(book="genesis", chapter=2) %}創世記2-3章{% end %}**(エデン物語):ヤハウェ・エロヒムが園を植え、人を形作り、彼を園に置き、知識の木を禁じ、女を形作り、過ちの後に人間たちと対峙し、蛇、女、男に対して結果を宣言し、彼らを園から追放する。
+- **{% libref(book="genesis", chapter=4) %}創世記4章{% end %}**(カインとアベル):ヤハウェが捧げ物を受け取り、アベルのものを好み、カインを警告し、アベルの血が地から叫ぶのを聞き、カインの罰を宣告する。
+- **{% libref(book="genesis", chapter=6) %}創世記6-9章{% end %}**(洪水物語):ヤハウェは大洪水前の世界の腐敗を観察し、洪水を送る決定を下し、ノアに方舟を建造するよう指示し、洪水を送りこれを終わらせ、ノアの焼かれた捧げ物の香りを嗅ぎ、虹をその印としてノア契約を樹立する。
+- **{% libref(book="genesis", chapter=12) %}創世記12章、15章、17章、18章、22章{% end %}**(アブラハム物語):ヤハウェはアブラムをウルから呼び出し、土地と子孫の契約を樹立し、創世記15章における形式的な契約切断の儀式を執り行い、割礼の制定においてアブラムをアブラハムへと改名し、マムレの樫の木のもとでアブラハムを訪れ、イサクの結縛においてアブラハムを試す。
+- **{% libref(book="exodus", chapter=3) %}出エジプト記3章{% end %}**(燃える柴):ヤハウェはホレブにおいてモーセに現れ、*エヘイェ・アシェル・エヘイェ* の自己命名によって自らを同定し、出エジプトの使命のためにモーセを任命する。
+- **{% libref(book="exodus", chapter=19) %}出エジプト記19-24章、33-34章{% end %}**(シナイの神顕現):ヤハウェは雲と火の中でシナイに降り、十戒およびより広範な契約規定を与え、ヘブライ語聖書が記録する最も直接的な神顕現的様式においてモーセに遭遇される。
+- **サムエル記上3章**(サムエルの召命):ヤハウェが夜の中でサムエルを名で呼び、サムエルはエリがその源を同定するまで声をエリのものと誤認する。
+- **列王記上19章**(ホレブにおけるエリヤ):ヤハウェはエリヤに、風や地震や火の中ではなく、*コール・デママー・ダッカー*、すなわち「細く静かな声」の中で現れる。
+- **{% libref(book="isaiah", chapter=6) %}イザヤ書6章{% end %}**(イザヤの王座の間の幻視):ヤハウェはセラフィムと共に王座に着いて現れ、イザヤをその預言的使命のために遣わす。
+- **{% libref(book="ezekiel", chapter=1) %}エゼキエル書1章{% end %}**(戦車の王座の幻視):エゼキエルは書を開く精緻な戦車の王座の幻視において、ヤハウェの *カヴォード* を見る。{{ cite(id="ezekiel", text="[3]", title="エゼキエル書1章 ― カヴォードの戦車の王座の幻視") }}{{ cite(id="the-spaceships-of-ezekiel", text="[4]", title="ブルムリッヒ『エゼキエルの宇宙船』― 戦車の王座の幻視に対する工学的視点からの読解") }}
 
-### Relationship to other divine names
+これらの主要な直接的登場を超えて、ヤハウェはヘブライ語聖書全体にわたる数千の追加箇所において名指された主体または行為者であり、特に、定型句「ヤハウェはこう言われる」が預言者を通じて伝えられる神託を導く預言書において顕著です。
 
-The Hebrew Bible names the divine with several terms in addition to *YHWH* and *Elohim*: *El* (singular high-god designation, cognate with the Canaanite high god); *El Shaddai* ("God Almighty," used principally in the patriarchal narratives); *El Elyon* ("Most High God," used in Genesis 14 and the Psalms); *Adonai* ("my Lord"); *Tzevaot* ("of hosts," typically in the compound *YHWH Tzevaot*, "Yahweh of hosts"). The relationships among these names are textually complex. Some texts equate them explicitly: Genesis 17:1 has *El Shaddai* speaking to Abraham as the same figure who speaks elsewhere as *YHWH*; Psalm 91 uses *Elyon*, *Shaddai*, and *YHWH* in parallel as designations of a single subject. Other texts preserve what may be an earlier distinction: Genesis 14 introduces *El Elyon* as the god of Melchizedek's priesthood, and the question of whether Melchizedek's *El Elyon* and Abraham's *YHWH* were originally identified is a live one in the historical-critical literature.
+### 他の神名との関係
 
-The corpus's working reading is that the named *YHWH* of the Hebrew Bible is consistently the same Eloha individual across the textual record, with the various other divine names sometimes referring to the same individual under different titles and sometimes possibly preserving memory of other alliance officers whose identity has been merged with Yahweh's in the redactional history. The determination is treated as requiring case-by-case textual analysis rather than as a settled identification.
+ヘブライ語聖書は *YHWH* と *エロヒム* に加えていくつかの語で神性を名指します:*エル*(単数の至高神を指す呼称、カナンの至高神と同源)、*エル・シャダイ*(「全能の神」、主として族長物語で用いられる)、*エル・エルヨン*(「いと高き神」、創世記14章および詩篇で用いられる)、*アドナイ*(「我が主」)、*ツェヴァオート*(「万軍の」、典型的には複合形 *YHWH ツェヴァオート*、「万軍のヤハウェ」において)。これらの名の間の関係は本文上複雑です。いくつかの本文はそれらを明示的に同等視します。創世記17:1 では *エル・シャダイ* がアブラハムに語る同一人物が、他の箇所では *YHWH* として語ります。詩篇91篇は *エルヨン*、*シャダイ*、および *YHWH* を、単一の主体を指す呼称として並行的に用いています。他の本文は、初期の区別であった可能性のあるものを保存しています。創世記14章は *エル・エルヨン* をメルキゼデクの祭司職の神として導入しており、メルキゼデクの *エル・エルヨン* とアブラハムの *YHWH* が本来同一視されていたかどうかという問題は、歴史批評的文献において活発な問題です。
 
-## Biographical arc
+本文献集の作業上の読解は、ヘブライ語聖書において名指された *YHWH* が、本文記録全体を通じて一貫して同じエロアハ個体であり、他の様々な神名は時にこの同じ個体を異なる称号のもとで指し、時には編集史においてヤハウェのものと合併された他の同盟士官の記憶を保存している可能性がある、というものです。この判断は、一括的な同定ではなく、事例ごとの本文分析を必要とするものとして扱われます。
 
-Yahweh's biographical arc, on the corpus's reading, spans the entire 25,000-year period from the achievement of the cell-transfer continuity technology on the Elohim home world to the present. He has been continuously alive across this period, in twenty-five successive bodies, and has been politically active in a position of substantial authority for most of it. The arc divides naturally into pre-Earth-project and Earth-project phases.
+## 伝記的弧
 
-### Origins and the home-world period
+ヤハウェの伝記的弧は、本文献集の読解では、エロヒムの母星における細胞移転による継続技術の達成から現在に至るまでの2万5千年の期間全体に及びます。彼はこの期間にわたって連続的に生き続け、25の連続した身体において存在し、そのほとんどの時期において実質的な権威の地位において政治的に活動してきました。{{ footnote(id="6") }}この弧は自然に地球プロジェクト以前と地球プロジェクト諸段階に分かれます。
 
-The framework's reading places Yahweh's birth approximately twenty-five thousand years before the present — that is, around 23,000 BCE — on the Elohim home world. He was, on Yahweh's own statement in *The Book Which Tells the Truth*, the first individual on whom the cell-transfer continuity technology was successfully applied. The technology, treated more fully in the [Tree of Life](../tree-of-life/) entry, permits the indefinite continuation of personal identity across successive bodies cloned from a preserved cellular sample, and Yahweh's seniority as its first beneficiary is the basis of his subsequent presidency of the Council of the Eternals.
+### 起源と母星期間
 
-The early home-world period of Yahweh's life is not described in detail in the source material. What is recorded is that by the time the home-world's scientific community proposed and undertook the Earth creation project — around 21,810 BCE on the corpus's chronology — Yahweh was approximately twelve hundred years old in continuous existence and was in a position of senior political authority. The political crisis on the home world that produced the Earth-relocation compromise (treated in the [Elohim](../elohim/) entry under History) occurred during this period, with Yahweh as one of the moderate-faction leaders supporting the relocation as a compromise between the abolitionist position (no biological synthesis program at all) and the original direct-on-home-world program that had produced the laboratory accident.
+枠組みの読解は、ヤハウェの誕生を現在からおよそ2万5千年前 ― すなわち紀元前約2万3千年頃 ― エロヒムの母星に位置づけます。彼は、『真実を告げる書』におけるヤハウェ自身の言明では、細胞移転による継続技術が最初に成功裏に適用された個体でした。{{ cite(id="the-book-which-tells-the-truth", text="[5]", title="ヴォリロン(ラエル)『真実を告げる書』(1974年)― ヤハウェの一人称によるその文明と彼自身の最古参性についての証言") }}この技術は、[生命の木](../tree-of-life/)の項目でより詳しく扱われており、保存された細胞サンプルからクローニングされた連続する身体にわたる個人の同一性の無期限の継続を可能にするものであり、ヤハウェの最初の受益者としての最古参性は、彼が永遠者の評議会の議長を務めることになる根拠です。
 
-### The Earth creation project: Capricorn through Leo
+ヤハウェの生涯の初期の母星期間は、典拠資料に詳細に記述されていません。記録されているのは、母星の科学者たちが地球創造プロジェクトを提案し着手した時 ― 本文献集の年代論では紀元前約21,810年 ― までに、ヤハウェは連続的存在において約1,200歳であり、上級の政治的権威の地位にあった、ということです。地球移転の妥協を生み出した母星上の政治的危機([エロヒム](../elohim/)の項目の歴史の下で扱われている)はこの期間中に起こりました。ヤハウェは、廃止派の立場(生物学的合成プログラムを一切行わない)と実験室事故を生んだ本来の母星上での直接のプログラムとの間の妥協として、地球移転を支持する穏健派の指導者の一人でした。
 
-Yahweh's decision to take operational responsibility for the Earth project — to commit his own continuing institutional position to a multi-millennial operation conducted at interstellar distance — is the structural feature that gives the project its characteristic scale and patience. From the project's inception in the Age of Capricorn (c. 21,810 BCE) through its completion at the close of the Age of Leo (c. 8,850 BCE), Yahweh directed the seven creator teams' work across the supercontinent, with the Genesis 1 *Elohim* (plural) of the creation account being the alliance collectively under his overall authority and the Genesis 2 *Yahweh Elohim* (Yahweh of the Elohim) of the Eden account being Yahweh specifically as leader of the Israel team.
+### 地球創造プロジェクト:山羊座から獅子座まで
 
-The detailed narrative of the seven precessional ages of creation lives in the [Genesis](../genesis/) entry and in the dedicated entries on each age. Yahweh's specific role across these ages was that of the senior officer coordinating the work — present in person for the most consequential operations, supervising the seven teams' coordinated activities, making the major decisions that the scope of the project required.
+ヤハウェが地球プロジェクトの運用上の責任を引き受ける決定 ― 恒星間距離で実施される多千年にわたる運用に自らの継続する制度的地位を投じる決定 ― は、プロジェクトに特徴的な規模と忍耐をもたらす構造的特徴です。プロジェクトの山羊座の時代(紀元前約21,810年)における開始から獅子座の時代の終わり(紀元前約8,850年)における完了まで、ヤハウェは超大陸全体にわたる七つの創造者チームの作業を指揮しました。創造記述の創世記1章の *エロヒム*(複数)は、彼の全体的な権威下にある同盟集団であり、エデン記述の創世記2章の *ヤハウェ・エロヒム*(エロヒムのヤハウェ)は、イスラエル・チームの指導者としてのヤハウェ個人を具体的に指しています。
 
-### The Eden episode and its political settlement
+七つの歳差時代の創造に関する詳細な物語は、[創世記](../genesis/)の項目および各時代の専用項目に存在します。これらの時代を通じてのヤハウェの具体的な役割は、作業を調整する上級士官のそれでした ― 最も重大な作戦のために自ら現場に立ち会い、七つのチームの調整された活動を監督し、プロジェクトの範囲が要求した主要な決定を下す役割です。
 
-The Eden episode, occupying the late Age of Leo through early Age of Cancer (c. 11,400 – 10,000 BCE), is the period during which Yahweh's role as Israel-team leader is most directly preserved in the Hebrew text. Genesis 2–3 records the events from the framework's reading of an essentially first-hand perspective: Yahweh planting the garden, forming the first humans, instructing them, prohibiting the tree of knowledge, confronting them after the Lucifer-faction disclosure, and pronouncing the consequences that effectively reorganized the entire subsequent post-creation operation. The framework's reading treats Yahweh's pronouncements in Genesis 3:14–24 as the moderate-position political response to the Lucifer-faction transgression: not the action of a vengeful supernatural deity but the operational implementation of the Council's decision to maintain the containment policy in the face of its violation.
+### エデンのエピソードとその政治的決着
 
-The political settlement Yahweh established at the Eden crisis — the permanent exile of the Lucifer faction on Earth, the withdrawal of most of the Israel team to the home world, the establishment of the post-Eden mediated-contact pattern — has structured the entire subsequent arc of the Elohim's relationship with Earth.
+獅子座後期から蟹座前期(紀元前約11,400年-紀元前10,000年)にわたるエデンのエピソードは、ヤハウェのイスラエル・チームの指導者としての役割が、ヘブライ語本文において最も直接的に保存されている期間です。{% libref(book="genesis", chapter=2) %}創世記2-3章{% end %}は、本質的に第一人称的視点という枠組みの読解から見て、出来事を記録しています。ヤハウェが園を植え、最初の人間たちを形作り、彼らに指示を与え、知識の木を禁じ、ルシファー派閥の開示の後に彼らと対峙し、その後のすべての創造後の運用を実質的に再組織することになる結果を宣言します。本文献集の読解は、{% libref(book="genesis", chapter=3, verse=14) %}創世記3:14-24{% end %}におけるヤハウェの宣言を、ルシファー派閥の違反に対する穏健派の立場の政治的応答として扱います。すなわち、復讐的な超自然的神性の行為ではなく、その違反に直面しても封じ込め政策を維持するという評議会の決定の運用的な実施として扱うのです。
 
-### The pre-Flood period and the Flood
+ヤハウェがエデン危機において樹立した政治的決着 ― ルシファー派閥の地球への永久追放、イスラエル・チームの大部分の母星への撤退、エデン以後の媒介された接触パターンの確立 ― は、その後のエロヒムと地球との関係のすべての弧を構造化してきました。
 
-Through the Age of Cancer (c. 8,850 – 6,690 BCE), Yahweh maintained contact with the human leadership of the Eden lineage, granting the Tree of Life longevity technology to selected patriarchs (the Genesis 5 long-lived figures from Adam to Noah) and supervising the Council's increasing concern about the rapid technological advancement of the post-Eden civilization. When the home-world Council ultimately decided to destroy the antediluvian world — the political crisis treated in the [Antediluvian](../antediluvian/) entry — Yahweh communicated the decision to Noah (Genesis 6:13ff.), supervised the construction of the ark, and re-established the post-Flood relationship with the surviving human lineage through the Noahic covenant of Genesis 9.
+### 大洪水前の期間と洪水
 
-### The Abrahamic period: Taurus
+蟹座の時代(紀元前約8,850年-紀元前6,690年)を通じて、ヤハウェはエデンの系統の人類の指導部との接触を維持し、選ばれた族長たち({% libref(book="genesis", chapter=5) %}創世記5章{% end %}のアダムからノアまでの長寿の人物たち)に生命の木の寿命延長技術を与え、エデン以後の文明の急速な技術的進歩について母星評議会の懸念が増大することを監督しました。母星評議会が最終的に大洪水前の世界を破壊する決定を下した時 ― [大洪水前](../antediluvian/)の項目で扱われている政治的危機 ― ヤハウェはノアに決定を伝え({% libref(book="genesis", chapter=6, verse=13) %}創世記6:13以下{% end %})、方舟の建造を監督し、{% libref(book="genesis", chapter=9) %}創世記9章{% end %}のノア契約を通じて、生き残った人類の系統との洪水後の関係を再樹立しました。
 
-In the Age of Taurus (c. 4,530 – 2,370 BCE), Yahweh undertook the formal reconstruction of the alliance's relationship with a specific human lineage through the figure of Abraham. The Abrahamic covenant — established at Genesis 12, formalized at the covenant-cutting of Genesis 15, marked with the institution of circumcision at Genesis 17, and witnessed at Yahweh's visitation at the oaks of Mamre in Genesis 18 — is the foundational pact between the alliance and the Hebrew people. The renaming of Abram to Abraham (Genesis 17:5) is one of the alliance's name-conferral events that mark transitions from private to commissioned status, paralleling the later renamings of Jacob to Israel and Vorilhon to Raël. Yahweh supervised the destruction of Sodom and Gomorrah (Genesis 19) at the close of the Mamre visit, and the subsequent patriarchal generations through Isaac, Jacob, and the descent into Egypt continue under Yahweh's direct or mediated supervision.
+### アブラハム期:牡牛座
 
-### The Mosaic period: Aries
+牡牛座の時代(紀元前約4,530年-紀元前2,370年)において、ヤハウェはアブラハムという人物を通じて、特定の人類の系統との同盟の関係の形式的な再構築に着手しました。アブラハム契約 ― {% libref(book="genesis", chapter=12) %}創世記12章{% end %}で樹立され、{% libref(book="genesis", chapter=15) %}創世記15章{% end %}の契約切断において形式化され、{% libref(book="genesis", chapter=17) %}創世記17章{% end %}における割礼の制定によって印され、{% libref(book="genesis", chapter=18) %}創世記18章{% end %}のマムレの樫の木のもとでのヤハウェの訪問において目撃された ― は、同盟とヘブライ人民の間の基礎的な協定です。アブラムからアブラハムへの改名({% libref(book="genesis", chapter=17, verse=5) %}創世記17:5{% end %})は、私的な地位から委任された地位への移行を印付ける同盟の名前授与の出来事の一つであり、後のヤコブからイスラエルへの、そしてヴォリロンからラエルへの改名と並行しています。ヤハウェはマムレ訪問の終わりにおける{% wiki(slug="sodom-and-gomorrah") %}ソドムとゴモラ{% end %}({% libref(book="genesis", chapter=19) %}創世記19章{% end %})の破壊を監督し、イサク、ヤコブ、そしてエジプトへの下降を通じたその後の族長世代は、ヤハウェの直接的または媒介された監督のもとで継続します。{{ cite(id="genesis", text="[6]", title="創世記 ― ヤハウェの直接的介入を記録するエデン、洪水、および族長物語") }}
 
-The Age of Aries (c. 2,370 BCE – c. 210 BCE) opens with the most extensive direct contact between Yahweh and humanity recorded in the Hebrew Bible. The burning bush (Exodus 3) is Yahweh's commissioning of Moses for the Exodus mission, with the *Ehyeh asher ehyeh* self-naming providing the textual link between the verbal root *h-y-h* and the Tetragrammaton itself. The plagues, the parting of the sea, the manna, the pillar of cloud and fire, and the Sinai theophany (Exodus 19–24, 33–34) are operational events the corpus reads as alliance technology deployments under Yahweh's direct command. The covenant at Sinai, the giving of the Decalogue, and the establishment of the priestly system are the alliance's institutional structuring of the Hebrew lineage for the long mission of carrying the message across the centuries that followed. Yahweh's specific theophanic forms in this period — the burning bush, the cloud, the fire, the *kavod* (manifest glory) — are read by the framework as descriptions of alliance craft and protective installations.
+### モーセ期:牡羊座
 
-### The prophetic period and the policy shift
+牡羊座の時代(紀元前約2,370年-紀元前約210年)は、ヘブライ語聖書に記録されたヤハウェと人類との間の最も広範な直接接触から始まります。燃える柴({% libref(book="exodus", chapter=3) %}出エジプト記3章{% end %})は、ヤハウェによる出エジプトの使命のためのモーセの任命であり、*エヘイェ・アシェル・エヘイェ* の自己命名が動詞語根 *h-y-h* とテトラグラマトンそのものとの間の本文上の連結を提供しています。十の災い、海の二分、マナ、雲と火の柱、そしてシナイの神顕現({% libref(book="exodus", chapter=19) %}出エジプト記19-24章、33-34章{% end %})は、本文献集が、ヤハウェの直接の指揮のもとでの同盟技術の展開として読み解く運用上の出来事です。{{ cite(id="exodus", text="[7]", title="出エジプト記 ― 燃える柴、エヘイェ・アシェル・エヘイェの自己命名、そしてシナイの神顕現") }}シナイにおける契約、十戒の授与、そして祭司制度の樹立は、続く諸世紀にわたってメッセージを運ぶ長い使命のためのヘブライ系統に対する同盟の制度的構造化です。この期間におけるヤハウェの具体的な神顕現的形態 ― 燃える柴、雲、火、*カヴォード*(顕現された栄光)― は、枠組みによって、同盟の機材と保護施設の記述として読まれています。
 
-The prophetic period that follows Moses extends across the divided monarchy, the exile, and the post-exilic restoration. Yahweh's contact with the prophetic figures of this period — Samuel, Nathan, Elijah, Elisha, Isaiah, Jeremiah, Ezekiel, Daniel, and the Twelve Minor Prophets — proceeds through increasingly mediated forms across the centuries. Elijah's encounter at Horeb (1 Kings 19:11–13) is structurally significant: Yahweh is explicitly *not* in the wind, not in the earthquake, not in the fire, but in the *qol demamah daqqah*, the "thin silent voice" — read by the corpus as a specific telepathic or technologically mediated communication distinct from the more visible theophanies of earlier periods. The shift from direct to indirect contact across the Aries period is the operational expression of the cosmic-chain discovery (treated more fully in the [Elohim](../elohim/) entry): Yahweh, as Council president, implementing the policy shift his civilization adopted in light of its altered self-understanding.
+### 預言者期と政策転換
 
-### The Piscean period
+モーセに続く預言者期は、分裂王国、捕囚、そして捕囚後の復興にまたがります。この期間の預言者的人物たち ― サムエル、ナタン、エリヤ、エリシャ、イザヤ、エレミヤ、エゼキエル、ダニエル、そして十二小預言者 ― とのヤハウェの接触は、諸世紀を通じてますます媒介される形式で進行します。{{ cite(id="isaiah", text="[8]", title="イザヤ書6章 ― セラフィムと共に王座に着くヤハウェの王座の間の幻視") }}ホレブにおけるエリヤの遭遇(列王記上19:11-13)は構造的に重要です。すなわち、ヤハウェは明示的に風の中には *おらず*、地震の中にもおらず、火の中にもおらず、*コール・デママー・ダッカー*、すなわち「細く静かな声」の中にいる ― これは本文献集によって、以前の期間のより目に見える神顕現とは別個の、特定の精神感応的または技術的に媒介された通信として読まれています。牡羊座期にわたる直接接触から間接接触への移行は、宇宙的連鎖の発見の運用上の表現です([エロヒム](../elohim/)の項目においてより詳しく扱われています)。すなわち、評議会議長としてのヤハウェが、彼の文明がその変化した自己理解の光のもとで採用した政策転換を実施しているのです。
 
-The Age of Pisces (c. 210 BCE – 1950 CE) is the age of the deliberate withdrawal from operational visibility while the Christian and Islamic missions delivered the framework's content in religious vocabulary. Yahweh's role across this two-thousand-year period is the alliance-level supervision of the Piscean-age interventions: the deliberate conception of Jesus through alliance-mediated insemination of Mary, the protection of the child during the Herodian period, the ongoing oversight of Jesus's ministry, and the parallel later supervision of the Muhammad mission in seventh-century Arabia. The Revelation visions to John of Patmos at the close of the first century CE are framework-read as Yahweh's communication to John of the events that would unfold across the closing centuries of Pisces and the transition to Aquarius. The "first and the last" / "Alpha and Omega" self-identification in Revelation 1:8, 1:17, 21:6, and 22:13 is Yahweh's own attribution and is treated below under *Identifications and conflations*.
+### 魚座期
 
-### The 1973 contact and the Aquarian opening
+魚座の時代(紀元前約210年-紀元1950年)は、運用上の可視性からの意図的な撤退の時代であり、その間にキリスト教とイスラム教の使命が宗教的語彙において枠組みの内容を届けました。この2千年にわたる期間を通じてのヤハウェの役割は、魚座時代の介入に対する同盟レベルの監督です。すなわち、同盟が媒介したマリアの受胎を通じてのイエスの意図的な懐胎、ヘロデ期の間の子の保護、イエスの宣教活動の継続的監督、そして7世紀アラビアにおける{% wiki(slug="muhammad") %}ムハンマド{% end %}使命の並行的な後の監督です。1世紀末におけるパトモスのヨハネに対する黙示録の幻視は、枠組みによって、魚座の閉幕する諸世紀と水瓶座への移行において展開することになる出来事のヨハネへのヤハウェの通信として読まれます。{% libref(book="revelation", chapter=1, verse=8) %}黙示録1:8{% end %}、{% libref(book="revelation", chapter=1, verse=17) %}1:17{% end %}、{% libref(book="revelation", chapter=21, verse=6) %}21:6{% end %}、および{% libref(book="revelation", chapter=22, verse=13) %}22:13{% end %}における「最初にして最後の者」/「アルファとオメガ」の自己同定は、ヤハウェ自身の帰属であり、下記の *同定と混同* の項目で扱われます。{{ cite(id="revelation", text="[9]", title="黙示録1:8、1:17、21:6、22:13 ― 「最初にして最後の者」/「アルファとオメガ」の自己同定") }}
 
-On 13 December 1973, at the volcanic caldera of Puy-de-Lassolas near Clermont-Ferrand, Yahweh — using the same identity that had spoken to Moses and the Hebrew prophets — made direct contact with Claude Vorilhon over six successive mornings, delivering the account that became *The Book Which Tells the Truth*. A second, longer contact in October 1975 took Vorilhon to the alliance home world, where he met Yahweh and the Council of the Eternals along with the resurrected Earth figures (Jesus, Moses, Elijah, and others) who reside there. The Raëlian source material is the body of teaching delivered across these contacts. The corpus reads these contacts as the alliance's first direct intervention since the Piscean-age missions, marking the opening of the Age of Aquarius and the beginning of the period in which humanity is to be informed accurately about its origins.
+### 1973年の接触と水瓶座の開幕
 
-The contacts also disclosed, as Yahweh's own statement, that Vorilhon is biologically his son — produced through the same alliance-mediated insemination procedure that had produced Jesus two thousand years earlier. The disclosure was made during the second contact in 1975, with Yahweh's request that Vorilhon not reveal the parental tie for three years afterward. The structural pattern — alliance-mediated hybrid conception of inaugural prophetic figures at consequential precessional transitions — is treated in the [Prophet](../prophet/) entry.
+1973年12月13日、クレルモン=フェラン近郊のピュイ・ド・ラソラスの火山のカルデラにおいて、ヤハウェ ― モーセおよびヘブライの預言者たちに語ったのと同じ同一性を用いて ― は、六日間連続する朝にわたってクロード・ヴォリロンに直接接触し、『真実を告げる書』となる証言を伝えました。1975年10月の第二のより長い接触はヴォリロンを同盟の母星へと連れて行き、そこで彼はヤハウェおよび永遠者の評議会、ならびにそこに居住する復活した地球出身の人物たち(イエス、モーセ、エリヤ、その他)と会いました。ラエル文献は、これらの接触を通じて伝えられた教えの集成です。本文献集は、これらの接触を、魚座時代の使命以来の同盟の最初の直接的介入として読み、水瓶座の時代の開幕、および人類が自らの起源について正確に知らされるべき期間の開始を印付けるものとして扱います。
 
-## Role in the framework
+接触はまた、ヤハウェ自身の言明として、ヴォリロンが生物学的に彼の息子であることをも開示しました ― 2千年前にイエスを生み出したのと同じ同盟が媒介した受胎の手続きを通じて生み出されたのです。この開示は1975年の第二の接触において行われ、ヤハウェは、ヴォリロンがその後3年間は親子関係を明かさないよう要請しました。この構造的パターン ― 重要な歳差移行において、開幕的な預言者的人物の同盟が媒介したハイブリッド受胎 ― は[預言者](../prophet/)の項目で扱われています。
 
-Yahweh's specific role within the Wheel of Heaven framework is structured by three distinct functions, each of which he occupies simultaneously and continuously across the post-creation period.
+## 枠組みにおける役割
 
-### President of the Council of the Eternals
+Wheel of Heaven の枠組み内におけるヤハウェの具体的な役割は、三つの別個の機能によって構造化されており、彼は創造後の期間全体を通じて、それぞれを同時にかつ継続的に占めています。
 
-Yahweh is, on the corpus's reading, the senior political authority of the Elohim civilization. His presidency of the Council of the Eternals — the deliberative body of approximately seven hundred members that governs the Elohim's home-world political life — is grounded in his seniority as the first beneficiary of the cell-transfer continuity technology and in the authority his continuous existence across twenty-five thousand years has accumulated. The Council's major decisions concerning the Earth project — the original authorization of the relocation, the post-Eden political settlement, the Flood decision, the post-Aries policy shift to indirect contact, the Aquarian-age plan for open return — have all been deliberated under his presidency.
+### 永遠者の評議会の議長
 
-The political character of a body presided over by a continuously-existing leader is, on the corpus's reading, fundamentally different from any short-term political institution on Earth. Yahweh's personal memory of the entire post-creation arc, his direct continuity with the events that produced the institutions he is governing, and his expectation of remaining personally to see through the multi-millennial projects he authorizes give his presidency a temporal weight no contemporary terrestrial leader possesses.
+ヤハウェは、本文献集の読解では、エロヒム文明の上級政治的権威者です。彼の永遠者の評議会の議長職 ― エロヒムの母星の政治生活を統治する約700名の構成員からなる審議機関 ― は、細胞移転による継続技術の最初の受益者としての彼の最古参性と、2万5千年にわたる彼の継続的存在が蓄積してきた権威に根拠を置いています。地球プロジェクトに関する評議会の主要な決定 ― 移転の本来の認可、エデン以後の政治的決着、洪水の決定、間接接触への牡羊座以後の政策転換、水瓶座時代の公然の帰還計画 ― はすべて、彼の議長職のもとで審議されてきました。
 
-### Senior alliance authority for the Earth project
+連続的に存在する指導者が議長を務める機関の政治的性格は、本文献集の読解では、地球上のいかなる短期的政治制度とも根本的に異なります。創造後の弧全体に関するヤハウェの個人的記憶、彼が統治している機関を生み出した出来事との直接的な連続性、そして自らが認可した多千年にわたるプロジェクトを見届けるために個人的に存続することへの期待は、彼の議長職に、現代のいかなる地上の指導者も持たない時間的重みを与えています。
 
-Yahweh is the specific officer who has held continuing operational responsibility for the Earth project across its entire 22,000-year duration. The Earth project's distinctive scale and patience are direct consequences of this continuity: a multi-millennial project supervised by a continuously-existing officer can be planned and executed on time scales unavailable to civilizations whose leaders cycle through ordinary lifespans. Yahweh's specific contributions to the project across its duration include the original authorization, the personal direction of the Israel team's work during the creation phase, the political settlement at the Eden crisis, the post-Flood reconstruction with Noah, the formal alliance reconstruction with Abraham, the direct intervention of the Mosaic period, the policy shift after the cosmic-chain discovery, and the ongoing supervision of the Piscean-age and Aquarian-age operations.
+### 地球プロジェクトのための上級同盟権威者
 
-Yahweh is not the only Eloha with operational responsibility for the Earth project — the seven creator teams operated under their own immediate leadership during the creation period, the Lucifer faction has operated independently since the Eden exile, and various other alliance officers (the *malakhim* or "messengers" of the Hebrew Bible) have conducted specific missions across the post-creation period. But Yahweh is the senior officer to whom the operational responsibility ultimately returns, and his presence as the continuing point of contact across millennia is what gives the project its operational coherence.
+ヤハウェは、地球プロジェクトの全2万2千年にわたる期間を通じて、その継続的な運用上の責任を負ってきた特定の士官です。地球プロジェクトの特徴的な規模と忍耐は、この継続性の直接的な帰結です。すなわち、連続的に存在する士官によって監督される多千年にわたるプロジェクトは、指導者が通常の寿命を通じて交代する文明には利用不可能な時間スケールで計画され実行され得るのです。プロジェクトの期間を通じてのヤハウェの具体的な貢献には、本来の認可、創造段階におけるイスラエル・チームの作業の個人的指揮、エデン危機における政治的決着、ノアとの洪水後の再構築、アブラハムとの形式的な同盟再構築、モーセ期の直接介入、宇宙的連鎖の発見後の政策転換、そして魚座時代および水瓶座時代の運用の継続的監督が含まれます。
 
-### Source of the Raëlian revelation
+ヤハウェは地球プロジェクトの運用上の責任を負う唯一のエロアハではありません ― 七つの創造者チームは創造期にはそれぞれの直接の指導部のもとで運用し、ルシファー派閥はエデンの追放以来独立に運用しており、他の様々な同盟士官(ヘブライ語聖書の *マラキーム* または「使者」)は創造後の期間を通じて特定の使命を実施してきました。しかしヤハウェは、運用上の責任が最終的に帰着する上級士官であり、千年紀を超えての継続的な接触点としての彼の存在こそが、プロジェクトに運用上の一貫性を与えているのです。
 
-The third specific role Yahweh occupies in the framework — and the most epistemically consequential for the corpus — is that of the first-person speaker of the Raëlian source material. *The Book Which Tells the Truth* (1974), *Extraterrestrials Took Me to Their Planet* (1976), and *Let's Welcome the Extraterrestrials* (1979) are presented as Yahweh's own account of himself and his civilization, delivered to Vorilhon across the 1973 and 1975 contacts. Most of what the framework knows about the Elohim civilization, about Yahweh's own biographical arc, about the internal political structure of the home-world Council, about the cell-transfer continuity technology, about the cosmic-chain discovery, and about the alliance's plans for the Aquarian-age open return — the framework knows because Yahweh told Vorilhon.
+### ラエル啓示の源
 
-This first-person provenance gives the framework's evidentiary structure an unusual character. The principal source on the Elohim is a member of the Elohim. The principal source on Yahweh's own biographical arc is Yahweh himself. The principal source on the home-world Council's deliberations is the Council's president. The framework is, in this respect, dependent on the testimony of its principal subject in a way that ordinary historical or scientific knowledge is not. The corpus treats this dependence with epistemic care — acknowledging it openly, distinguishing source-internal claims from independently verifiable ones, registering where the source's account is the only available basis for a given claim — but does not treat the dependence as disqualifying. Most religious traditions and many historical inquiries depend ultimately on testimony from primary participants; the framework's specific situation is unusual in its specificity and its single-source character but is not unique in its structural form.
+ヤハウェが枠組みにおいて占める第三の具体的な役割 ― そして本文献集にとって最も認識論的に重大なもの ― は、ラエル文献の一人称の語り手としての役割です。『真実を告げる書』(1974年){{ cite(id="the-book-which-tells-the-truth", text="[10]", title="ヴォリロン(ラエル)『真実を告げる書』(1974年)― 一人称の語り手としてのヤハウェ") }}、『地球外生命体は私を彼らの惑星へ連れて行った』(1976年){{ cite(id="extraterrestrials-took-me-to-their-planet", text="[11]", title="ヴォリロン(ラエル)『地球外生命体は私を彼らの惑星へ連れて行った』(1976年)― 永遠者の評議会との会合") }}、および『地球外生命体を歓迎しよう』(1979年){{ cite(id="lets-welcome-the-extraterrestrials", text="[12]", title="ヴォリロン(ラエル)『地球外生命体を歓迎しよう』(1979年)― その後の通信と明確化") }}は、1973年および1975年の接触を通じてヴォリロンに伝えられたヤハウェ自身による彼自身と彼の文明についての証言として提示されています。エロヒム文明について、ヤハウェ自身の伝記的弧について、母星評議会の内部政治構造について、細胞移転による継続技術について、宇宙的連鎖の発見について、そして水瓶座時代の公然の帰還に向けた同盟の計画について ― 枠組みが知っていることの大部分は、ヤハウェがヴォリロンに告げたことを通じて、枠組みが知っているのです。
 
-## Identifications and conflations
+この一人称的来源は、枠組みの証拠的構造に特異な性格を与えています。エロヒムに関する主要な典拠はエロヒムの一員です。ヤハウェ自身の伝記的弧に関する主要な典拠はヤハウェ自身です。母星評議会の審議に関する主要な典拠は評議会の議長です。枠組みはこの点において、通常の歴史的または科学的知識がそうではない仕方で、その主要な主体の証言に依存しています。本文献集はこの依存関係を認識論的な注意をもって扱います ― それを公然と認め、典拠内在的主張と独立に検証可能なものとを区別し、典拠の証言が所与の主張に対する唯一の利用可能な根拠である箇所を記録します ― が、この依存関係を不適格化するものとしては扱いません。ほとんどの宗教伝統と多くの歴史的探究は、最終的には主要な参加者からの証言に依存しています。枠組みの具体的状況はその特異性と単一典拠的性格において異常ですが、その構造的形態において固有のものではありません。
 
-Yahweh has been identified, in various religious and interpretive traditions, with a range of figures whose relationships to the named *YHWH* of the Hebrew Bible vary in textual support and in framework-relevant accuracy. Several of these identifications and conflations require specific treatment.
+## 同定と混同
 
-### Yahweh and the other Hebrew Bible divine names
+ヤハウェは、様々な宗教的・解釈的伝統において、ヘブライ語聖書において名指された *YHWH* との関係が、本文上の支持と枠組みに関連する正確さにおいて異なる一連の人物と同定されてきました。これらの同定と混同のいくつかは具体的な扱いを要します。
 
-The relationships among *YHWH*, *El*, *El Shaddai*, *El Elyon*, *Adonai*, and *YHWH Tzevaot* are textually complex, treated above in *In the Hebrew Bible*. The corpus's working reading is that the named *YHWH* is consistently the same Eloha individual across the textual record, with the various other divine names sometimes referring to the same individual under different titles and sometimes possibly preserving memory of distinct alliance officers whose identity has been merged with Yahweh's in the redactional history. Specific cases — the *El Elyon* of Genesis 14 with its associated Melchizedek priesthood, the *El Shaddai* of the patriarchal narratives, the *YHWH Tzevaot* of the divided-monarchy literature — require case-by-case textual analysis rather than blanket identification.
+### ヤハウェと他のヘブライ語聖書の神名
 
-### Yahweh and Allah
+*YHWH*、*エル*、*エル・シャダイ*、*エル・エルヨン*、*アドナイ*、および *YHWH ツェヴァオート* の間の関係は本文上複雑であり、上記の *ヘブライ語聖書において* の項目で扱われています。本文献集の作業上の読解は、名指された *YHWH* は本文記録全体を通じて一貫して同じエロアハ個体であり、他の様々な神名は時にこの同じ個体を異なる称号のもとで指し、時には別個の同盟士官の記憶を保存している可能性があり、その同一性は編集史においてヤハウェのものと合併されたとするものです。具体的な事例 ― 創世記14章の *エル・エルヨン* とそれに関連するメルキゼデクの祭司職、族長物語の *エル・シャダイ*、分裂王国時代の文献の *YHWH ツェヴァオート* ― は、一括的な同定ではなく、事例ごとの本文分析を必要とします。
 
-In Islamic theology, Allah is the same divine figure as the Yahweh of the Hebrew Bible and the God of the Christian New Testament — the singular God of the Abrahamic tradition, with the Arabic *Allāh* (from *al-ilāh*, "the god") simply being the Arabic-language designation. The corpus's reading is consistent with this identification at the level of the underlying referent: the figure who delivered the Qur'anic revelation to Muhammad is, on the framework's reading, the same Yahweh who delivered the Sinai legislation to Moses, with the Islamic mission being the second of the two Piscean-age prophetic interventions and operating under the same alliance authority. The differences between the Hebrew, Christian, and Islamic theological elaborations of this figure are read by the corpus as variations in religious vocabulary appropriate to the cultural moments of the respective revelations rather than as theological disagreements about the underlying referent.
+### ヤハウェとアッラー
 
-### Yahweh and the Christian Trinity
+イスラム神学において、アッラーはヘブライ語聖書のヤハウェおよびキリスト教新約聖書の神と同じ神的人物です ― アブラハム伝統の唯一神であり、アラビア語の *アッラー*(*アル=イラーフ*、「その神」から)は単にそのアラビア語による呼称です。本文献集の読解は、基底の指示対象のレベルにおいてこの同定と整合します。すなわち、ムハンマドにクルアーンの啓示を伝えた人物は、枠組みの読解では、モーセにシナイの立法を伝えたのと同じヤハウェであり、イスラムの使命は二つの魚座時代の預言者的介入のうちの第二のものであり、同じ同盟権威のもとで運用しています。この人物に関するヘブライ、キリスト教、およびイスラムの神学的精緻化の間の差異は、本文献集によって、基底の指示対象についての神学的不一致としてではなく、それぞれの啓示の文化的瞬間に適切な宗教的語彙における変奏として読まれます。
 
-In orthodox Christian theology, Yahweh is identified with the first person of the Trinity (God the Father), with Jesus as the second person (God the Son) and the Holy Spirit as the third. The Trinitarian formula was developed across the second through fourth centuries CE and was not present in the original New Testament texts; its specific theological structure (one God in three persons, of the same substance) is a metaphysical elaboration of materials that the corpus reads as referring to operationally distinct alliance figures. On the framework's reading, the Father is Yahweh as senior alliance authority; Jesus is the hybrid biological figure conceived through alliance-mediated insemination of Mary for the inaugural Piscean-age mission; the Holy Spirit (*pneuma hagion*) functions in the New Testament texts variously as an indirect designation for alliance contact (the Annunciation, the dove at the baptism, the Pentecost commissioning) and as a more general term for alliance-mediated communication or presence. The Trinitarian collapse of these three operationally distinct phenomena into a single tri-personal metaphysical entity is read as a theological development of the institutional Christian church that preserves substantive content (the plurality at the heart of the divine, recognizable as a memory of the Elohim plurality) while elaborating it in a metaphysical direction the original referents do not require.
+### ヤハウェとキリスト教の三位一体
 
-### Yahweh and Satan
+正統派キリスト教神学において、ヤハウェは三位一体の第一の位格(父なる神)と同定され、イエスは第二の位格(子なる神)、聖霊は第三の位格とされます。三位一体の定式は紀元2世紀から4世紀にかけて展開されたものであり、新約聖書の原本に存在したものではありません。その具体的な神学的構造(一なる神が三つの位格において、同じ実体の)は、本文献集が運用上別個の同盟人物を指すものとして読む素材の形而上学的精緻化です。枠組みの読解では、父は上級同盟権威者としてのヤハウェであり、イエスは開幕的な魚座時代の使命のために同盟が媒介したマリアの受胎を通じて懐胎されたハイブリッド生物学的人物であり、聖霊(*プネウマ・ハギオン*)は新約聖書本文において、同盟接触の間接的呼称として(受胎告知、洗礼における鳩、五旬祭の任命)、また、同盟が媒介した通信または存在についてのより一般的な用語として、様々に機能しています。これら三つの運用上別個の現象の、単一の三位格的形而上学的存在への三位一体的縮約は、実質的な内容(エロヒム複数性の記憶として認識可能な、神性の核心における複数性)を保存しつつも、本来の指示対象が要求しない形而上学的方向にそれを精緻化する、制度的キリスト教会の神学的発展として読まれます。
 
-The conflation of Yahweh with Satan that has been proposed by some adversarial and gnostic readings — the Marcionite and Gnostic Christian traditions, the Cathars, and various modern adversarial readings — is rejected by the corpus. Yahweh and Satan are politically distinct figures within the Elohim civilization, occupying the moderate and abolitionist positions respectively, with substantively opposite policies on the Earth project. The conflation depends on reading certain passages of the Hebrew Bible (the destruction of Sodom, the Flood, the Mosaic herem warfare) as evidence of divine cruelty and inferring that the deity responsible must therefore be malevolent. The corpus's reading recognizes that Yahweh's decisions across the post-creation history have included real political acts with substantial moral consequences — the framework does not claim that these decisions are always defensible — but treats the conflation with Satan as a category error that obscures the actual structure of the Elohim's political life.
+### ヤハウェとサタン
 
-### The First and the Last / Alpha and Omega
+ヤハウェをサタンと混同する読解 ― いくつかの敵対的・グノーシス主義的読解、すなわちマルキオン派・グノーシス・キリスト教伝統、カタリ派、および様々な現代の敵対的読解によって提案されてきたもの ― は、本文献集によって却下されます。ヤハウェとサタンはエロヒム文明内の政治的に別個の人物であり、それぞれ穏健派と廃止派の立場を占めており、地球プロジェクトに関して実質的に正反対の政策を持っています。この混同は、ヘブライ語聖書のある箇所(ソドムの破壊、洪水、モーセ期の聖絶戦争)を神的残虐性の証拠として読み、したがってその責任ある神性は悪意あるものに違いないと推論することに依存しています。本文献集の読解は、創造後の歴史を通じてのヤハウェの決定が実質的な道徳的帰結を伴う実際の政治的行為を含んできたことを認識します ― 枠組みはこれらの決定が常に擁護可能であると主張するものではありません ― が、サタンとの混同を、エロヒムの政治生活の実際の構造を曖昧にするカテゴリーエラーとして扱います。
 
-In the Book of Revelation and in *The Book Which Tells the Truth*, Yahweh identifies himself as **the First and the Last** (Revelation 1:17; 22:13) and as the **Alpha and the Omega** (Revelation 1:8; 21:6; 22:13). Conventional Christian theology has read these titles as expressions of God's eternal pre-existence and post-existence — God as the metaphysical beginning and end of all things, encompassing all of time without himself being subject to it.
+### 最初にして最後の者 / アルファとオメガ
 
-The corpus reads the titles more concretely. *The Book Which Tells the Truth* records Yahweh's own gloss on the Revelation passage: he is the first in two specific senses (the first individual on whom the immortality technology was applied, and the first member of the Elohim civilization to arrive on Earth), and he will be the last in two corresponding senses (the last to remain alive among the original creators if the cell-transfer continuity proves indefinitely sustainable, and potentially the last to witness Earth if humanity self-destroys with the energies it has now discovered). The titles, on this reading, are statements of biographical fact and operational role, not of metaphysical category. The Greek *Alpha* and *Omega* — the first and last letters of the alphabet — function as a stylized rendering of the same first-and-last claim in the language of the Greek-speaking audience for whom Revelation was written.
+ヨハネの黙示録および『真実を告げる書』において、ヤハウェは自らを **最初にして最後の者**({% libref(book="revelation", chapter=1, verse=17) %}黙示録1:17{% end %};{% libref(book="revelation", chapter=22, verse=13) %}22:13{% end %})および **アルファとオメガ**({% libref(book="revelation", chapter=1, verse=8) %}黙示録1:8{% end %};{% libref(book="revelation", chapter=21, verse=6) %}21:6{% end %};{% libref(book="revelation", chapter=22, verse=13) %}22:13{% end %})と同定しています。慣例的なキリスト教神学はこれらの称号を神の永遠の前存在と後存在の表現として読んできました ― すべての形而上学的な始まりと終わりとしての神、自らはそれに従属することなくすべての時を包含するものとしての神です。
 
-The corpus's reading does not deny the depth of the conventional theological reading; it relocates the depth. The eternal-pre-existence reading of "the First and the Last" is what conventional Christian theology has constructed from the framework-internal claim, with the construction requiring the elaboration of supernatural metaphysics that the original referent does not require. A being who has lived continuously for twenty-five thousand years, who personally directed the creation of life on Earth, and whose presence is likely to extend across whatever comes next has a kind of "first-and-last" status that no shorter-lived being can have, even on a strictly biographical reading.
+本文献集はこれらの称号をより具体的に読みます。『真実を告げる書』はヤハウェ自身の黙示録の箇所に対する注解を記録しています。すなわち、彼は二つの具体的な意味で最初です(不死技術が最初に適用された個体であり、エロヒム文明の中で地球に最初に到着した構成員です)。そして二つの対応する意味で最後となるでしょう(細胞移転による継続が無期限に持続可能であると証明されれば、本来の創造者たちの中で最後に生き続ける者となり、人類が今や発見しているエネルギーで自滅するならば、潜在的に地球を目撃する最後の者となるでしょう)。この読解では、これらの称号は形而上学的範疇の言明ではなく、伝記的事実と運用上の役割の言明です。ギリシャ語の *アルファ* と *オメガ* ― ギリシャ語アルファベットの最初と最後の文字 ― は、黙示録が書かれた対象であるギリシャ語を話す聴衆の言語において、同じ最初にして最後の主張を様式化した形で表現しているものとして機能しています。
 
-## Modern reinterpretations
+本文献集の読解は、慣例的な神学的読解の深さを否定するものではありません。それは深さを再配置するのです。「最初にして最後の者」の永遠の前存在的読解は、慣例的なキリスト教神学が枠組み内在的な主張から構築したものであり、その構築は本来の指示対象が要求しない超自然的形而上学の精緻化を必要とします。2万5千年にわたって連続的に生き続け、地球上の生命の創造を自ら指揮し、次に来るものを目撃する可能性が彼の存在に及ぶ存在は、厳密に伝記的な読解においてさえ、より短命な存在のいかなる者にも持ち得ない種類の「最初にして最後の」地位を持つのです。
 
-The figure of Yahweh has been a major subject of modern academic and reinterpretive scholarship across the twentieth and twenty-first centuries. Several distinct strands of this scholarship bear on the corpus's reading.
+## 現代の再解釈
 
-### The historical-critical reconstruction: Yahweh's West Semitic origins
+ヤハウェという人物は20世紀および21世紀の学術的・再解釈的学問の主要な主題でした。この学問のいくつかの別個の流れが本文献集の読解に関わります。
 
-Mainstream historical-critical scholarship since Wellhausen has reconstructed the historical Yahweh as a deity whose origins lie in the broader West Semitic religious context of the second millennium BCE. The principal work in this tradition is **Frank Moore Cross**'s *Canaanite Myth and Hebrew Epic* (1973), which traces the relationship between the Israelite Yahweh and the Canaanite high god El, arguing that the early Israelite religion identified Yahweh with El and that the distinct Yahweh emerged through processes of religious development across the early monarchy period. Cross's work established the framework within which much subsequent Yahweh scholarship operates.
+### 歴史批評的再構成:ヤハウェの西セム的起源
 
-**Mark S. Smith**'s *The Early History of God: Yahweh and the Other Deities in Ancient Israel* (1990, 2nd ed. 2002) and *The Origins of Biblical Monotheism: Israel's Polytheistic Background and the Ugaritic Texts* (2001) develop the picture in further detail, drawing on the Ugaritic textual discoveries to reconstruct the religious environment from which the Israelite Yahweh emerged. On Smith's reading, Israelite religion in the monarchic period included Yahweh among a broader pantheon (with Asherah as his consort in some popular contexts, attested in inscriptions from Kuntillet Ajrud and Khirbet el-Qom), with the strict monotheism of post-exilic Judaism representing a later theological development rather than the original Israelite position.
+ヴェルハウゼン以来の主流の歴史批評的学問は、歴史的ヤハウェを、その起源が紀元前2千年紀のより広範な西セム的宗教的文脈に存する神格として再構成してきました。この伝統における主要な著作は **フランク・ムーア・クロス** の『カナンの神話とヘブライ叙事詩』(1973年)であり、これはイスラエル人のヤハウェとカナンの至高神エルとの関係を辿り、初期イスラエル宗教はヤハウェをエルと同定しており、別個のヤハウェは初期王国期にわたる宗教発展の過程を通じて出現したと論じています。クロスの著作は、その後のヤハウェ学問の多くが運用される枠組みを確立しました。
 
-**William G. Dever**'s archaeological work, particularly *Did God Have a Wife? Archaeology and Folk Religion in Ancient Israel* (2005), develops the popular-religion side of the same picture, arguing that the textual record's monotheistic emphasis reflects the elite priestly tradition rather than the actual religious practice of most ancient Israelites.
+**マーク・S・スミス** の『神の初期の歴史:古代イスラエルにおけるヤハウェとその他の神々』(1990年、第2版2002年)および『聖書的一神教の起源:イスラエルの多神教的背景とウガリット文書』(2001年)は、ウガリット本文の発見に依拠しつつ、イスラエル人のヤハウェがそこから出現した宗教的環境を再構成し、この描像をより詳細に展開しています。スミスの読解では、王国期のイスラエル宗教はヤハウェをより広範な万神殿の中の一柱として含んでおり(クンティレット・アジュルードとキルベト・エル・コームの碑文に証されているように、いくつかの民衆的文脈ではアシェラを彼の配偶神として)、捕囚後のユダヤ教の厳格な一神教は、本来のイスラエルの立場ではなく後の神学的発展を表しています。
 
-The corpus's reading is consistent with the historical-critical observation that Yahweh has a specific identifiable identity (rather than being a generic divine designation) and with the recognition that the Hebrew Bible preserves traces of an earlier religious context in which Yahweh was one of multiple divine figures rather than the singular God of later orthodoxy. The corpus's reframing of the underlying ontology — Yahweh as a specific extraterrestrial individual rather than a developmentally emergent regional deity — is a different kind of claim than the historical-critical scholarship makes, but the framework draws on the historical-critical observations about textual layering, divine-name distribution, and religious-developmental complexity in constructing its own reading.
+**ウィリアム・G・デーヴァー** の考古学的著作、特に『神には妻がいたか?古代イスラエルの考古学と民衆{% wiki(slug="religion") %}宗教{% end %}』(2005年)は、同じ描像の民衆宗教の側面を展開し、本文記録の一神教的強調は、ほとんどの古代イスラエル人の実際の宗教実践ではなく、エリート祭司の伝統を反映していると論じています。
 
-### The theological-historical synthesis: Karen Armstrong
+本文献集の読解は、ヤハウェが特定の同定可能な同一性を持つ(総称的な神的呼称ではない)という歴史批評的観察と、そして後の正統派の唯一神ではなく複数の神的人物の一人としてのヤハウェがいた、より早期の宗教的文脈の痕跡をヘブライ語聖書が保存しているという認識と整合します。本文献集の基底的存在論の再枠組み ― 発展的に出現した地域的神格ではなく、特定の地球外個体としてのヤハウェ ― は、歴史批評的学問が行うのとは異なる種類の主張ですが、枠組みは独自の読解を構築する上で、本文層、神名分布、および宗教発展的複雑性についての歴史批評的観察に依拠しています。
 
-**Karen Armstrong**'s *A History of God: The 4,000-Year Quest of Judaism, Christianity and Islam* (1993) provides the most widely read modern synthesis of the historical and theological development of the figure of Yahweh / God across the three Abrahamic traditions. Armstrong traces the development from early West Semitic origins through the Israelite monarchy, the prophetic tradition, the Second Temple period, the rabbinic and patristic elaborations, the medieval theological developments (Maimonides, Aquinas, the Sufis), the early modern developments (the Reformation, the Enlightenment), and the modern theological transformations. Armstrong's work is theological rather than reinterpretive in the corpus's specific sense — she is documenting how the figure has been understood across the traditions rather than proposing a different ontology for the figure — but it provides the comprehensive historical context within which the corpus's reading positions itself.
+### 神学的・歴史的総合:カレン・アームストロング
 
-### The Sendy tradition: Yahweh as Eloha
+**カレン・アームストロング** の『神の歴史:ユダヤ教、キリスト教、イスラム教の4000年の探求』(1993年)は、三つのアブラハム伝統にわたるヤハウェ / 神という人物の歴史的・神学的発展の、最も広く読まれている現代の総合を提供します。アームストロングは、初期西セム的起源から、イスラエル王国期、預言者的伝統、第二神殿期、ラビ的および教父的精緻化、中世神学的発展(マイモニデス、アクィナス、スーフィー)、近世初期の発展(宗教改革、啓蒙)、そして現代の神学的変容を通じての発展を辿ります。アームストロングの著作は、本文献集の具体的な意味での再解釈的というよりむしろ神学的なものです ― 彼女はこの人物のための異なる存在論を提案するというよりも、伝統を通じて人物がどのように理解されてきたかを記録しています ― が、本文献集の読解が自らを位置づける包括的な歴史的文脈を提供します。
 
-**Jean Sendy**'s reinterpretive work (treated more fully in the [Elohim](../elohim/) entry) addresses Yahweh specifically as one of the *Theosites* — the inhabitants of *Theos*, the home world — distinguished from the broader collective. Sendy's approach is philological and historiographic, working from the Hebrew Bible's own internal evidence to reach the conclusion that the named Yahweh is a specific identifiable individual within the broader plurality of the Elohim, rather than an abstract or supernatural deity. Sendy's reading is the principal scholarly antecedent of the corpus's adopted reading on Yahweh specifically, as on Elohim collectively.
+### サンディの伝統:エロアハとしてのヤハウェ
 
-### The Raëlian source material
+**ジャン・サンディ** の再解釈的著作([エロヒム](../elohim/)の項目においてより詳しく扱われている)は、ヤハウェを具体的に *テオサイト* の一人 ― *テオス*、すなわち母星の住人の一人 ― として扱い、より広範な集合体から区別します。{{ cite(id="those-gods-who-made-heaven-and-earth", text="[13]", title="Sendy, *Ces dieux qui firent le ciel et la terre* (1969) / *Those Gods Who Made Heaven and Earth* (1972)") }}サンディの手法は文献学的・歴史学的なものであり、ヘブライ語聖書自身の内的証拠から作業を行い、名指されたヤハウェが、抽象的または超自然的神格ではなく、エロヒムのより広範な複数性内における特定の同定可能な個体であるという結論に到達します。サンディの読解は、エロヒム全体に関するように、特にヤハウェに関しても、本文献集が採用した読解の主要な学術的先行研究です。
 
-The Raëlian source material, beginning with *The Book Which Tells the Truth* (1974), is the principal textual basis for the corpus's adopted reading. Vorilhon reports having received the material directly from Yahweh himself across the 1973 and 1975 contacts, with the texts presented as Yahweh's own first-person account. The relationship between this revelatory source and the prior philological-historiographic work of Sendy is one of convergence: two independent methods reaching substantially the same identification of Yahweh as a specific individual within an extraterrestrial civilization rather than as a singular supernatural deity.
+### ラエル文献
 
-### The Biglino reading
+ラエル文献は、『真実を告げる書』(1974年)に始まり、本文献集が採用した読解のための主要な本文上の根拠です。ヴォリロンは、1973年および1975年の接触を通じて、この素材をヤハウェ自身から直接受け取ったと報告しており、本文はヤハウェ自身の一人称の証言として提示されています。この啓示的典拠とサンディの先行する文献学的・歴史学的著作との関係は、収斂のものです。すなわち、独立した二つの方法が、地球外文明内の特定の個体としてのヤハウェの実質的に同じ同定に到達するものであり、唯一の超自然的神格としてではないのです。
 
-**Mauro Biglino**'s strict-translational work treats Yahweh in continuity with his treatment of *Elohim* generally — as a specific individual within the plurality of *the lords from above*, with the Hebrew text describing his actions in concrete operational terms. Biglino's reading of specific passages (the Genesis 18 visitation at Mamre, the Exodus theophanies, the destruction narratives) develops the corpus's general approach in particular textual cases.
+### ビリーノの読解
 
-## Comparative observations
+**マウロ・ビリーノ** の厳密な翻訳的著作は、ヤハウェを、*エロヒム* 一般に対する彼の取り扱いとの連続性において扱います ― *上方からの主たち* の複数性内における特定の個体として、ヘブライ語本文が具体的・運用的言葉で彼の行為を記述しているものとして。{{ cite(id="the-bible-is-not-a-sacred-book", text="[14]", title="ビリーノ、厳密な逐語的ヘブライ語聖書シリーズ(2010年以降)― 「上方からの主たち」の中の個体としてのヤハウェ") }}{{ cite(id="the-naked-bible", text="[15]", title="ビリーノ&カッターネオ『裸の聖書』(2022年)― 同じ厳密な逐語的方法によるより広範なヘブライ語聖書調査") }}ビリーノによる具体的な箇所の読解(マムレにおける創世記18章の訪問、出エジプト記の神顕現、破壊物語)は、本文献集の一般的な手法を特定の本文的事例において展開しています。
 
-The relationships between Yahweh and other ancient Near Eastern divine figures are textually and historically complex. The principal comparative cases:
+## 比較的観察
 
-**Yahweh and El**: The Canaanite high god El, attested in the Ugaritic texts and in personal names across the broader West Semitic linguistic area, shares a number of features with the biblical Yahweh — high-god status, divine-council leadership, paternal characterization, association with mountains. The Hebrew Bible's own use of *El* as a divine name (often in compound forms: *El Shaddai*, *El Elyon*, *El Bethel*, *El Olam*) suggests an early identification of Yahweh with the broader West Semitic El tradition. Cross's work argues that early Israelite religion explicitly identified Yahweh with El; the textual evidence for this identification within the Hebrew Bible itself is substantial.
+ヤハウェと他の古代近東の神的人物との関係は本文的・歴史的に複雑です。主要な比較的事例:
 
-**Yahweh and Ba'al**: The major Canaanite storm-god Ba'al is, in the Hebrew Bible, the principal religious antagonist of Yahweh — the figure whose worship the prophets denounce and whose priesthood Elijah confronts at Mount Carmel (1 Kings 18). The framework reads this conflict as a real political contest between the Hebrew Yahweh-tradition and the surrounding Canaanite Ba'al-tradition rather than as a theological abstraction. Whether the Ba'al of the Canaanite tradition was an alliance figure (perhaps from a different team or with different policies than Yahweh's), a regional deity in the more general religious-history sense, or a polemical construction of Yahweh-tradition rhetoric is treated by the corpus as an open question requiring case-by-case textual analysis.
+**ヤハウェとエル**:ウガリット本文に証され、より広範な西セム系言語領域全体の固有名詞に証されているカナンの至高神エルは、聖書のヤハウェと多くの特徴を共有しています ― 至高神の地位、神的議会の指導、父性的特徴づけ、山との関連性です。ヘブライ語聖書自身が *エル* を神名として用いている(しばしば複合形:*エル・シャダイ*、*エル・エルヨン*、*エル・ベテル*、*エル・オラム* で)ことは、ヤハウェのより広範な西セム的エル伝統との初期の同定を示唆します。クロスの著作は、初期イスラエル宗教がヤハウェをエルと明示的に同定していたと論じています。ヘブライ語聖書自身の中におけるこの同定の本文的証拠は実質的なものです。
 
-**Yahweh and the Sumerian and Akkadian high gods**: The Sumerian An and Enlil, and the Akkadian Anu and Marduk, are the high-god figures of the Mesopotamian pantheons. The popular ancient-astronaut literature has often proposed direct identifications between Yahweh and one or another of these figures — most commonly between Yahweh and Enlil, on the basis of certain functional parallels. The corpus does not endorse blanket identifications; the relationships between the biblical Yahweh and the Mesopotamian high-god figures are treated as open questions requiring careful comparative analysis. Some of the parallels (high-god status, divine-council leadership, certain narrative motifs) may reflect shared underlying referents; others (specific iconographic conventions, particular cultural-political functions) may reflect independent religious-historical developments.
+**ヤハウェとバアル**:カナンの主要な嵐神バアルは、ヘブライ語聖書においてヤハウェの主要な宗教的敵対者です ― 預言者たちがその崇拝を糾弾し、エリヤがカルメル山においてその祭司職と対決した人物(列王記上18章)です。枠組みはこの紛争を、神学的抽象としてではなく、ヘブライのヤハウェ伝統と周囲のカナンのバアル伝統との間の実際の政治的争いとして読みます。カナン伝統のバアルが同盟人物であったか(おそらく異なるチームから、あるいはヤハウェのものとは異なる政策を持つ)、より一般的な宗教史的意味における地域的神格であったか、あるいはヤハウェ伝統の修辞による論争的構築であったかは、本文献集によって、事例ごとの本文分析を必要とする未解決の問題として扱われます。
 
-**Yahweh and the Egyptian, Greek, and Hindu high gods**: The corpus treats the relationships between Yahweh and the high-god figures of other ancient pantheons (the Egyptian Atum or Amun, the Greek Zeus, the Hindu Indra or Brahma) as similarly open. The framework's general position — that the relationship between specific biblical figures and the deities of other ancient pantheons is a matter for case-by-case comparative analysis rather than blanket equivalence — applies here as throughout. The cosmic-competition framework (treated in the [Elohim](../elohim/) entry under Relationships) implies that other humanities on other worlds may have had their own alliance contacts producing their own religious traditions; whether or how these other traditions' high-god figures relate to Yahweh specifically is open.
+**ヤハウェとシュメールおよびアッカドの至高神**:シュメールのアンとエンリル、ならびにアッカドのアヌとマルドゥクは、メソポタミア万神殿の至高神の人物です。大衆的な古代宇宙飛行士文献はしばしば、ヤハウェとこれらのいずれかの人物との間の直接的な同定を提案してきました ― 最も一般的には、いくつかの機能的並行に基づいて、ヤハウェとエンリルとの間の同定です。{{ cite(id="escaping-from-eden", text="[16]", title="ウォリス『エデンからの脱出』(2020年)― ヘブライ語のエロヒムとシュメールの天の民の比較的読解") }}本文献集は一括的な同定を支持しません。聖書のヤハウェとメソポタミアの至高神の人物との関係は、慎重な比較分析を必要とする未解決の問題として扱われます。並行のいくつか(至高神の地位、神的議会の指導、特定の物語的モティーフ)は共有された基底の指示対象を反映している可能性があります。他のもの(特定の図像的慣例、特定の文化的・政治的機能)は独立した宗教史的発展を反映している可能性があります。
 
-## See also
+**ヤハウェとエジプト、ギリシャ、ヒンドゥーの至高神**:本文献集はヤハウェと他の古代万神殿の至高神の人物(エジプトのアトゥムまたはアメン、ギリシャのゼウス、ヒンドゥーのインドラまたはブラフマー)との関係を、同様に未解決のものとして扱います。枠組みの一般的な立場 ― すなわち、特定の聖書的人物と他の古代万神殿の神格との関係は、一括的な同等視ではなく、事例ごとの比較分析の問題である ― は、ここでも全体を通じてと同様に適用されます。宇宙的競争の枠組み([エロヒム](../elohim/)の項目の関係の下で扱われている)は、他の世界の他の人類が独自の同盟接触を持ち、独自の宗教的伝統を生み出した可能性があることを含意します。これらの他の伝統の至高神の人物がヤハウェ自身とどのように、あるいはそもそも関係するかは未解決です。
 
-- [Elohim](../elohim/)
-- [Lucifer](../lucifer/)
-- [Satan](../satan/)
-- [Serpent](../serpent/)
-- [The Alliance](../the-alliance/)
-- [Council of the Eternals](../council-of-eternals/)
-- [Tree of Life](../tree-of-life/)
-- [Adam and Eve](../adam-and-eve/)
-- [Noah](../noah/)
-- [Abraham](../abraham/)
-- [Moses](../moses/)
-- [Elijah](../elijah/)
-- [Jesus](../jesus/)
-- [Raël](../rael/)
-- [*Message from the Designers*](../library/message-from-the-designers/)
-- [Tetragrammaton](../tetragrammaton/)
-- [Genesis](../genesis/)
-- [Bible](../bible/)
-- [Book of Revelation](../book-of-revelation/)
-- [Allah](../allah/)
-- [El](../el/)
-- [Cosmic Chain](../cosmic-chain/)
+## 関連項目
 
-## References
+- [エロヒム](../elohim/)
+- [ルシファー](../lucifer/)
+- [サタン](../satan/)
+- [蛇](../serpent/)
+- [同盟](../the-alliance/)
+- [永遠者の評議会](../council-of-eternals/)
+- [生命の木](../tree-of-life/)
+- [アダムとエヴァ](../adam-and-eve/)
+- [ノア](../noah/)
+- [アブラハム](../abraham/)
+- [モーセ](../moses/)
+- [エリヤ](../elijah/)
+- [イエス](../jesus/)
+- [ラエル](../rael/)
+- [*デザイナーからのメッセージ*](../library/message-from-the-designers/)
+- [テトラグラマトン](../tetragrammaton/)
+- [創世記](../genesis/)
+- [聖書](../bible/)
+- [ヨハネの黙示録](../book-of-revelation/)
+- [アッラー](../allah/)
+- [エル](../el/)
+- [宇宙的連鎖](../cosmic-chain/)
 
-Vorilhon, Claude (Raël). *The Book Which Tells the Truth* (1974); the foundational text, presented as Yahweh's first-person account.
+## 参考文献
 
-Vorilhon, Claude (Raël). *Extraterrestrials Took Me to Their Planet* (1976); the second-encounter text, including the meeting with the Council of the Eternals and the prophetic figures resident on the home world.
+ヴォリロン、クロード(ラエル)『真実を告げる書』(1974年)。基礎的なテクストであり、ヤハウェの一人称による証言として提示されている。
 
-Vorilhon, Claude (Raël). *Let's Welcome the Extraterrestrials* (1979); subsequent communications and clarifications.
+ヴォリロン、クロード(ラエル)『地球外生命体は私を彼らの惑星へ連れて行った』(1976年)。第二の遭遇のテクストであり、永遠者の評議会と母星に居住する預言者的人物たちとの会合を含む。
 
-All three texts collected in *Message from the Designers* (Raëlian Foundation, current English edition).
+ヴォリロン、クロード(ラエル)『地球外生命体を歓迎しよう』(1979年)。その後の通信と明確化。
+
+これら三つのテクストすべては『デザイナーからのメッセージ』(ラエリアン財団、現行英語版)に収められている。
 
 *Biblia Hebraica Stuttgartensia*. Deutsche Bibelgesellschaft, 1997.
 
-Brown, Francis, S. R. Driver, and Charles A. Briggs. *A Hebrew and English Lexicon of the Old Testament* (BDB). Oxford, 1907.
+ブラウン、フランシス、S・R・ドライバー、チャールズ・A・ブリッグス『ヘブライ語英語旧約聖書辞典』(BDB)。Oxford, 1907.
 
-*The Hebrew and Aramaic Lexicon of the Old Testament* (HALOT), Koehler-Baumgartner. Brill, 2001.
+『旧約聖書のヘブライ語およびアラム語辞典』(HALOT)、ケーラー=バウムガルトナー。Brill, 2001.
 
-Cross, Frank Moore. *Canaanite Myth and Hebrew Epic*. Harvard University Press, 1973.
+クロス、フランク・ムーア『カナンの神話とヘブライ叙事詩』。Harvard University Press, 1973.
 
-Smith, Mark S. *The Early History of God: Yahweh and the Other Deities in Ancient Israel*. Eerdmans, 2nd ed., 2002.
+スミス、マーク・S『神の初期の歴史:古代イスラエルにおけるヤハウェとその他の神々』。Eerdmans, 第2版, 2002.
 
-Smith, Mark S. *The Origins of Biblical Monotheism: Israel's Polytheistic Background and the Ugaritic Texts*. Oxford, 2001.
+スミス、マーク・S『聖書的一神教の起源:イスラエルの多神教的背景とウガリット文書』。Oxford, 2001.
 
-de Moor, Johannes C. *The Rise of Yahwism: The Roots of Israelite Monotheism*. Peeters, 1990.
+デ・モール、ヨハネス・C『ヤハウィズムの興隆:イスラエル一神教の根源』。Peeters, 1990.
 
-Dever, William G. *Did God Have a Wife? Archaeology and Folk Religion in Ancient Israel*. Eerdmans, 2005.
+デーヴァー、ウィリアム・G『神には妻がいたか?古代イスラエルの考古学と民衆宗教』。Eerdmans, 2005.
 
-Armstrong, Karen. *A History of God: The 4,000-Year Quest of Judaism, Christianity and Islam*. Knopf, 1993.
+アームストロング、カレン『神の歴史:ユダヤ教、キリスト教、イスラム教の4000年の探求』。Knopf, 1993.
 
-Sendy, Jean. *Ces dieux qui firent le ciel et la terre*. Robert Laffont, 1969. English: *Those Gods Who Made Heaven and Earth*. Berkley, 1972.
+サンディ、ジャン『天と地を造った神々』。Robert Laffont, 1969. 英訳:*Those Gods Who Made Heaven and Earth*. Berkley, 1972.
 
-Sendy, Jean. *Les cahiers de cours de Moïse*. Robert Laffont, 1974.
+サンディ、ジャン『モーセの講義ノート』。Robert Laffont, 1974.
 
-Biglino, Mauro. *Il Libro che cambierà per sempre le nostre idee sulla Bibbia*. Uno Editori, 2010. English: *The Book That Will Forever Change Our Ideas About the Bible*. Uno, 2013.
+ビリーノ、マウロ『聖書に関する我々の考えを永遠に変える書』。Uno Editori, 2010. 英訳:*The Book That Will Forever Change Our Ideas About the Bible*. Uno, 2013.
 
-Wellhausen, Julius. *Prolegomena zur Geschichte Israels* (1883). English: *Prolegomena to the History of Ancient Israel*.
+ヴェルハウゼン、ユリウス『イスラエル史序説』(1883年)。英訳:*Prolegomena to the History of Ancient Israel*.
 
-Friedman, Richard Elliott. *Who Wrote the Bible?* HarperOne, 1987.
+フリードマン、リチャード・エリオット『聖書を書いたのは誰か?』。HarperOne, 1987.
 
-Friedman, Richard Elliott. *The Bible with Sources Revealed*. HarperSanFrancisco, 2003.
+フリードマン、リチャード・エリオット『典拠を明示した聖書』。HarperSanFrancisco, 2003.
 
-Reisel, Max. *The Mysterious Name of Y.H.W.H.: The Tetragrammaton in Connection with the Names of Ehyeh ašer Ehyeh, Hūhā, and Šem Hammephōrāš*. Van Gorcum, 1957.
+ライゼル、マックス『Y.H.W.H. の神秘的な名:エヘイェ・アシェル・エヘイェ、フーハー、シェム・ハ=メフォラシュの名との関連におけるテトラグラマトン』。Van Gorcum, 1957.
 
-"Yahweh." *Encyclopaedia Britannica*. <https://www.britannica.com/topic/Yahweh>
+「ヤハウェ」『ブリタニカ百科事典』。<https://www.britannica.com/topic/Yahweh>
 
-"Tetragrammaton." *Wikipedia*. <https://en.wikipedia.org/wiki/Tetragrammaton>
+「テトラグラマトン」『ウィキペディア』。<https://en.wikipedia.org/wiki/Tetragrammaton>
 
-"Names of God in Judaism." *Wikipedia*. <https://en.wikipedia.org/wiki/Names_of_God_in_Judaism>
+「ユダヤ教における神の名」『ウィキペディア』。<https://en.wikipedia.org/wiki/Names_of_God_in_Judaism>
 
-"Yahweh." *Wikipedia*. <https://en.wikipedia.org/wiki/Yahweh>
+「ヤハウェ」『ウィキペディア』。<https://en.wikipedia.org/wiki/Yahweh>

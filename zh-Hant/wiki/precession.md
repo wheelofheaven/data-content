@@ -1,368 +1,413 @@
 +++
 title = "歲差"
-description = "分點歲差是地軸的緩慢迴轉運動,自希帕克斯以來即被觀察到,其週期約為25,920年。在 Wheel of Heaven 文集中,它構成了用於結構化世界時代年代論的宇宙時鐘。"
+slug = "precession"
+description = "歲差是地球自轉軸取向的穩定週期性變化,在恆星背景的襯托下表現為天極相對於固定恆星所作的緩慢圓周運動。作為三項主要地球運動中的第三項(在每日自轉與每年公轉之後),歲差以現代天文學測量,完成一個完整週期約需 25,772 年;若依占星傳統的計算,則為 25,920 年 —— 此計法可乾淨地劃分為十二個各為 2,160 年的歲差時代。此現象首先由希臘天文學家羅得島的希帕克斯於約公元前 129–127 年透過經驗識別。他將自己對恆星位置的測量結果,與約公元前 283 年蒂莫卡里斯的測量相比較,認識到天經度相對於分點點位已系統性地發生位移。將歲差以機械方式解釋為太陽與月球對地球赤道隆起所施加的引力扭矩,則由牛頓本人在《自然哲學的數學原理》(1687)中發展出來。《天輪》框架將歲差讀作的,不僅是一項天文現象,更是文集更廣詮釋工作的基礎年代學基礎設施:歲差時代提供了文集用以為耶洛因計畫主要事件斷代的時間框架(獅子座時代對應人類合成、金牛座時代對應蘇美爾—埃及文明、白羊座時代對應希伯來先知時期、雙魚座時代對應基督教時代、水瓶座時代對應當代復原),而對歲差內容的跨文化神話保存(由桑提拉納與馮·德欽德在《哈姆雷特磨坊》[1969] 中發展)則被視為證據,表明此一天文知識在希帕克斯之前已透過文集所涉之更廣泛源傳統材料而得以傳遞。"
 template = "wiki-page.html"
 toc = true
 
 [extra]
-translation_status = "metadata_only"
-redirect_to = { title = "World Age", path = "/wiki/world-age/" }
-category = "Cosmic Chronology"
+featured_order = 5
+redirect_to = { title = "世界時代", path = "/wiki/world-age/" }
+category = "宇宙年代學"
 editorial_pass = "2026-05"
 entry_type = "concept"
 claim_type = "inferred"
-alternative_names = ["Precession of the equinoxes", "Axial precession", "Lunisolar precession (the principal component)", "Greek προήγησις (proēgēsis, \"a leading forth\")"]
+alternative_names = ["分點歲差", "地軸歲差", "日月歲差(主要分量)", "希臘語 προήγησις(*proēgēsis*,「向前引領」)"]
+see_also = [
+    { title = "大年", path = "wiki/great-year", description = "完整的約 26,000 年歲差循環。" },
+    { title = "大月", path = "wiki/great-month", description = "大年的十二分之一 —— 單一時代的持續時間。" },
+    { title = "世界時代", path = "wiki/world-age", description = "被視為人類歷史一章的歲差時代。" },
+    { title = "黃道帶", path = "wiki/zodiac", description = "歲差所據以測量的星座帶。" },
+    { title = "考古天文學", path = "wiki/archaeoastronomy", description = "依歲差時鐘解讀古代遺址的學科。" },
+]
+
+footnotes = [
+    { content = "現代每年約 50.29 角秒的數值,是 J2000.0 標準曆元下的*經度上的一般歲差*,如國際天文聯合會 2006 歲差模型所給出、並列表於米斯的《天文算法》中。所對應的完整週期約 25,772 年即由此速率推得。占星傳統的 25,920 年數值(可乾淨地劃分為十二個 2,160 年的時代),是一種捨入便利,以犧牲與實測速率之間的微小差距為代價來簡化算術;兩數相差約 0.6%,完全處於關於時代邊界其他方法論選擇所產生的變動範圍之內。" },
+    { content = "日月分量(太陽與月球作用於赤道隆起)與行星分量(主要為木星與金星)共同產生*一般歲差*。傳統上的分解將月球歸為日月效應約三分之二、太陽約三分之一,反映出月球儘管質量小得多,但距離卻近得多。行星貢獻主要作用於軌道平面而非自轉軸,因此將其納入歲差總量,所反映的乃是對分點位置的綜合效應,而非對赤道隆起的直接扭矩。" },
+    { content = "希帕克斯每年約 36 角秒(每世紀一度)的數值是一個下界 —— 他本人也是這樣指出的;現代每年 50.29 角秒的數值要大上約 40%。希帕克斯所依據的角宿一觀測 —— 蒂莫卡里斯約於公元前 283 年將其測於秋分點以西 8°、希帕克斯約於公元前 129 年將其測於以西 6° —— 由 154 年間 2° 的位移直接給出速率。托勒密沿用了希帕克斯的較低數值,而由此產生的曆法漂移,是中世紀伊斯蘭天文學家(尤其是巴塔尼)後續加以校正的若干承繼誤差之一。" },
+    { content = "古王國時期埃及金字塔對右樞星的對齊,是主流考古天文學中一項確立的成果:依據標準重建,吉薩大金字塔所謂的*星孔*指向右樞星(當時距天極約 0.1°)以及其他數顆恆星在建造期所佔據的位置。該對齊與傳統的第四王朝定年一致,本身並不要求對歲差具有希帕克斯之前的理論性知識 —— 觀測上瞄準當時的極星已足夠。《哈姆雷特磨坊》的論點則大大超出了此項觀測性主張。" },
+    { content = "2,160 年的時代長度為占星傳統的慣例(25,920 / 12),並非實測的天文間隔。若以現代速率計算,循環的十二分之一約為 2,148 年;而依國際天文聯合會 1930 年定義的星座邊界,則會產生長度不等的時代,其中處女座約跨黃道 45°、巨蟹座約跨 20°。文集所採用的計法將時代視為各 2,160 年的等長期間,並將邊界日期視為精度大約在 ±200 年之內的近似值。" },
+    { content = "目前北極星與天極的對齊,與歲差循環的其餘部分相較異常地接近:北極星目前位於距天極約 0.7°,於約公元 2102 年達最近,屆時約為 0.45°。在循環的大部分時段中,並無亮度可比擬的恆星位於距天極一度以內。右樞星上一次最近接(約公元前 2,800 年)達到約 0.1°,比北極星將會達到的還要更近,但右樞星卻黯淡得多。織女星的最近接(約公元 13,727 年)較目前任何極星配置都更明亮,但距天極約 5° —— 角距遠大於北極星目前所佔位置。" },
+]
+
+[[extra.references]]
+id = "astronomical-algorithms"
+note = "米斯,《天文算法》—— 現代歲差速率(每年約 50.29 角秒)與約 25,772 年週期的標準參考。"
+
+[[extra.references]]
+id = "hamlets-mill"
+note = "桑提拉納與馮·德欽德,《哈姆雷特磨坊:神話與時間框架之論》(Gambit,1969)—— 對「希帕克斯之前的全球神話系統性編碼了歲差天文內容」此一論點的奠基性學術介入。"
+
+[[extra.references]]
+id = "the-bible-is-not-a-sacred-book"
+note = "比格利諾,《將永遠改變我們對聖經之看法的書》(2011)—— 比格利諾將歲差讀作可能為耶洛因/阿努納奇充當導航基礎設施的來源。"
+
+[[extra.references]]
+id = "the-gospels-in-the-stars"
+note = "塞斯,《星辰中的福音》—— 十九世紀對黃道—基督教象徵對應(雙魚 / *ichthys*)的論述。"
+
+[[extra.references]]
+id = "mazzaroth-rolleston"
+note = "羅爾斯頓,《瑪扎洛特;或諸星座》—— 希伯來/黃道詮釋傳統的主要維多利亞時代來源。"
+
+[[extra.references]]
+id = "mazzaroth-dot-com"
+note = "《瑪扎洛特》網路彙編 —— 黃道—聖經詮釋傳統的當代彙整。"
+
+[[extra.references]]
+id = "the-book-which-tells-the-truth"
+note = "沃里勒翁(雷爾),《道出真相之書》(1974)—— 文集所採年代學框架(歲差時代為其錨點)的主要雷爾派源典。"
 
 [extra.infobox]
-type = "Cyclical change in the orientation of Earth's rotational axis; the third principal Earth motion"
-period = "Approximately 25,772 years for one complete cycle (modern astronomical measurement); 25,920 years in the astrological-tradition reckoning (12 × 2,160-year Ages)"
-rate = "Approximately 50.29 arcseconds per year (modern); 1° every approximately 71.6 years; 30° (one zodiacal sign) every approximately 2,150 years"
-cause = "Gravitational torque exerted by the Sun and Moon on Earth's equatorial bulge (the lunisolar component, ~96% of the effect); smaller contributions from the gravitational influence of the planets (planetary precession)"
-historical_discovery = "Hipparchus of Rhodes (c. 190 – c. 120 BCE), approximately 129–127 BCE; based on comparison of his star catalogue against the earlier measurements of Timocharis of Alexandria (c. 320 – c. 260 BCE)"
-modern_mechanical_explanation = "Isaac Newton, *Philosophiæ Naturalis Principia Mathematica* (1687), Book III, Propositions XXXIX-XLI"
-related_phenomena = "Axial obliquity variation (~41,000-year cycle, the second principal Milankovitch cycle); orbital eccentricity variation (~100,000-year cycle, the third principal Milankovitch cycle); the broader Milankovitch theory of long-term climate forcing"
-current_north_pole_star = "Polaris (α Ursae Minoris), currently within ~0.7° of the celestial north pole; closest approach in approximately 2102 CE; subsequently moving away"
-next_principal_north_pole_star = "Vega (α Lyrae), closest approach approximately 13,727 CE; Thuban (α Draconis) was the principal pole star approximately 2,800 BCE; the sequence is cyclical across the 25,772-year period"
-zodiacal_division = "Twelve equal Ages of 30° each (approximately 2,150-2,160 years per Age) constitute one full precessional cycle"
-framework_significance = "Foundational chronological infrastructure for the Wheel of Heaven corpus; the precessional Ages provide the temporal framework within which the corpus dates the principal events of the Elohim project and the broader prophetic record"
-key_external_references = "Santillana, Giorgio de, and Hertha von Dechend. *Hamlet's Mill: An Essay on Myth and the Frame of Time*. Gambit, 1969. — The foundational scholarly engagement with the thesis that pre-Hipparchian global mythology systematically encodes precessional astronomical content."
+type = "地球自轉軸取向的週期性變化;第三項主要地球運動"
+period = "完整一週期約 25,772 年(現代天文學測量);占星傳統計法為 25,920 年(12 × 2,160 年時代)"
+rate = "每年約 50.29 角秒(現代);每約 71.6 年一度;每約 2,150 年三十度(即一個黃道宮)"
+cause = "太陽與月球對地球赤道隆起施加的引力扭矩(日月分量,約佔效應之 96%);行星引力影響的較小貢獻(行星歲差)"
+historical_discovery = "羅得島的希帕克斯(約公元前 190 – 約公元前 120 年),約公元前 129–127 年;依據其星表與更早亞歷山卓的蒂莫卡里斯(約公元前 320 – 約公元前 260 年)測量的比較"
+modern_mechanical_explanation = "牛頓,《自然哲學的數學原理》(1687),第三編,命題 XXXIX–XLI"
+related_phenomena = "地軸傾角變化(約 41,000 年週期,米蘭科維奇第二主要循環);軌道偏心率變化(約 100,000 年週期,米蘭科維奇第三主要循環);更廣的米蘭科維奇長期氣候強迫理論"
+current_north_pole_star = "北極星(α Ursae Minoris),目前距天北極約 0.7°;於約公元 2102 年最近接;其後遠離"
+next_principal_north_pole_star = "織女星(α Lyrae),最近接約公元 13,727 年;右樞星(α Draconis)曾為約公元前 2,800 年的主要極星;此序列在 25,772 年週期中循環"
+zodiacal_division = "十二個各 30°(每時代約 2,150–2,160 年)的等長時代構成一個完整歲差循環"
+framework_significance = "《天輪》文集的基礎年代學基礎設施;歲差時代提供了文集為耶洛因計畫主要事件及更廣先知記錄斷代所依的時間框架"
+key_external_references = "桑提拉納,吉奧爾喬·德與赫莎·馮·德欽德。《哈姆雷特磨坊:神話與時間框架之論》。Gambit,1969。—— 對「希帕克斯之前的全球神話系統性編碼了歲差天文內容」此一論點的奠基性學術介入。"
 +++
 
-**Precession** — formally **axial precession** or **precession of the equinoxes** — is the steady cyclical change in the orientation of Earth's rotational axis, traced as a slow circular motion of the celestial poles against the background of fixed stars and as a corresponding shift in the position of the equinoxes along the ecliptic. It is the **third of the three principal Earth motions**, alongside the daily rotation around the planetary axis (producing the day-night cycle) and the annual revolution around the Sun (producing the year cycle). The precessional cycle completes one full revolution in approximately **25,772 years** on modern astronomical measurement, or **25,920 years** on the astrological-tradition reckoning that produces the clean division into twelve precessional **Ages** of 2,160 years each. The rate is approximately **50.29 arcseconds per year**, equivalent to one degree of arc every approximately 71.6 years or one full zodiacal sign (30°) every approximately 2,150 years.
+**歲差** —— 正式名稱為**地軸歲差**或**分點歲差** —— 是地球自轉軸取向的穩定週期性變化,在恆星背景的襯托下,表現為天極相對於固定恆星的緩慢圓周運動,以及相應地分點沿黃道位置的位移。它是**三項主要地球運動中的第三項**,與行星繞自身軸的每日自轉(產生晝夜循環)以及繞太陽的每年公轉(產生年度循環)並列。歲差循環一個完整週期,以現代天文學測量約需 **25,772 年**,而依占星傳統計法,則為 **25,920 年** —— 此計法可乾淨地劃分為十二個各為 2,160 年的歲差**時代**。速率約為**每年 50.29 角秒**,相當於每約 71.6 年一度,或每約 2,150 年一個完整黃道宮(30°)。{{ cite(id="astronomical-algorithms", text="[1]", title="米斯,《天文算法》—— 現代歲差速率與週期的標準參考") }}{{ footnote(id="1") }}
 
-The phenomenon was first identified empirically by the Greek astronomer **Hipparchus of Rhodes** (c. 190 – c. 120 BCE) in approximately 129–127 BCE, who compared his own positional measurements of the bright stars against the earlier measurements of **Timocharis of Alexandria** from approximately 283 BCE and noticed that the longitudes of the stars had shifted by approximately 2° relative to the equinox points across the intervening 150 years. Hipparchus's discovery established precession as a recognised astronomical phenomenon and provided the foundation for all subsequent astronomical work on the topic. The **Newtonian mechanical explanation** of precession as the gravitational torque exerted by the Sun and Moon on Earth's equatorial bulge was developed by Isaac Newton himself in the *Philosophiæ Naturalis Principia Mathematica* (1687), Book III, completing the transition from observational identification to causal physical explanation.
+此現象首先由希臘天文學家**羅得島的希帕克斯**(約公元前 190 – 約公元前 120 年)於約公元前 129–127 年透過經驗識別。他將自己對亮星位置的測量結果,與約公元前 283 年**亞歷山卓的蒂莫卡里斯**更早的測量相比較,注意到在其間 150 年中,各恆星的經度相對於分點點位已位移了約 2°。希帕克斯的發現,將歲差確立為一項受到認可的天文現象,並為後續所有關於該主題的天文工作奠定了基礎。將歲差以機械方式解釋為太陽與月球對地球赤道隆起所施加之引力扭矩的**牛頓力學解釋**,則由牛頓本人在《自然哲學的數學原理》(1687)第三編中發展出來,完成了從觀測性識別到因果物理解釋的過渡。
 
-The Wheel of Heaven framework reads precession not merely as an astronomical phenomenon but as **foundational chronological infrastructure** for the corpus's broader interpretive work. The precessional **Ages** provide the temporal framework within which the corpus dates the principal events of the Elohim project: the **Age of Virgo** (c. 15,330 – 13,170 BCE) for the *yom* 5 phase of Genesis 1; the **Age of Leo** (c. 13,170 – 11,010 BCE) for the *yom* 6 human-synthesis phase; the **Age of Cancer** (c. 11,010 – 8,850 BCE) for the post-deluge reorganisation; the **Age of Gemini** (c. 8,850 – 6,690 BCE) for the early Neolithic population developments; the **Age of Taurus** (c. 6,690 – 4,530 BCE) for the Sumerian, Egyptian, and broader bronze-age civilisations; the **Age of Aries** (c. 4,530 – 2,370 BCE, with the principal Hebrew prophetic events concentrated in the middle-to-late portion); the **Age of Pisces** (c. 1 CE – 2,160 CE) for the Christian era; the **Age of Aquarius** (c. 2,160 CE forward) for the contemporary recovery period. The cross-cultural mythological preservation of precessional content — developed substantively in **Giorgio de Santillana and Hertha von Dechend's *Hamlet's Mill: An Essay on Myth and the Frame of Time*** (Gambit, 1969) — is treated by the framework as evidence for the pre-Hipparchian transmission of precessional astronomical knowledge through the broader source-tradition material that the corpus engages.
+{% wiki(slug="wheel-of-heaven") %}天輪{% end %}框架將歲差讀作的,不僅是一項天文現象,更是文集更廣詮釋工作的**基礎年代學基礎設施**。歲差**時代**提供了文集為{% wiki(slug="elohim") %}耶洛因{% end %}計畫主要事件斷代所依的時間框架:**處女座時代**(約公元前 15,330 – 13,170 年)對應《創世記》第一章 *yom* 5 階段;**獅子座時代**(約公元前 13,170 – 11,010 年)對應 *yom* 6 的人類合成階段;**巨蟹座時代**(約公元前 11,010 – 8,850 年)對應大洪水後的重組;**雙子座時代**(約公元前 8,850 – 6,690 年)對應早期新石器時代的人口發展;**金牛座時代**(約公元前 6,690 – 4,530 年)對應蘇美爾、埃及與更廣青銅時代的諸文明;**白羊座時代**(約公元前 4,530 – 2,370 年,主要的希伯來先知事件集中於中後段);**雙魚座時代**(約公元 1 – 2,160 年)對應基督教時代;**水瓶座時代**(約公元 2,160 年起)對應當代復原期。對歲差內容的跨文化神話保存 —— 由**吉奧爾喬·德·桑提拉納與赫莎·馮·德欽德在《哈姆雷特磨坊:神話與時間框架之論》**(Gambit,1969)中加以實質性發展{{ cite(id="hamlets-mill", text="[2]", title="桑提拉納與馮·德欽德,《哈姆雷特磨坊》(1969) —— 關於希帕克斯之前神話對歲差編碼的奠基性論點") }} —— 則被該框架視為證據,表明歲差天文知識在希帕克斯之前已透過文集所涉之更廣泛源傳統材料而得以傳遞。
 
-## The astronomical phenomenon
+## 天文現象
 
-The mainstream astronomical understanding of precession is well-established and provides the empirical foundation on which the framework's interpretive work depends. The corpus's broader reading does not contest the mainstream astronomical content; the substantive framework moves concern the historical-mythological and chronological-interpretive significance of the phenomenon rather than the astronomy itself.
+主流天文學對歲差的理解已牢固確立,並為框架的詮釋工作所賴的經驗基礎。文集的更廣解讀並不爭議主流天文內容;實質性的框架移動,關切的是此一現象的歷史—神話以及年代學—詮釋意義,而非天文本身。
 
-### Cause: the lunisolar gravitational torque
+### 起因:日月引力扭矩
 
-The principal physical cause of axial precession is the **gravitational torque** exerted by the Sun and Moon on the Earth's **equatorial bulge**. The Earth is not a perfect sphere but an **oblate spheroid**: the equatorial diameter (approximately 12,756 km) exceeds the polar diameter (approximately 12,714 km) by about 43 km, with the excess concentrated as an equatorial bulge resulting from the centrifugal force of the planetary rotation. The Earth's rotational axis is tilted approximately 23.4° relative to the orbital plane (the **ecliptic**), so the gravitational pull of the Sun and Moon on the equatorial bulge acts at an angle to the rotational axis, producing a **torque** that attempts to align the axis with the perpendicular to the ecliptic.
+地軸歲差的主要物理起因為太陽與月球對地球**赤道隆起**所施加的**引力扭矩**。地球並非完美球體,而是一個**扁球體**:赤道直徑(約 12,756 公里)較極直徑(約 12,714 公里)多出約 43 公里,此一多出部分集中於赤道隆起,源自行星自轉的離心力。地球自轉軸相對於軌道平面(**黃道**)傾斜約 23.4°,故太陽與月球對赤道隆起的引力作用方向,與自轉軸成一角度,從而產生**扭矩**,試圖將該軸與黃道的垂直方向對齊。
 
-The Earth's rotational angular momentum, however, resists the direct realignment that the torque would produce in a non-rotating body. The combination of the rotational angular momentum and the gravitational torque produces the characteristic **precessional motion** — the axis tracing out a cone over the precessional period of approximately 25,772 years, similar to the wobble of a spinning top whose axis is not perfectly vertical. The motion is approximately analogous to gyroscopic precession in mechanical systems.
+然而,地球的自轉角動量,抵抗了此扭矩在非自轉物體上會直接造成的重新對齊。自轉角動量與引力扭矩的結合,產生了其特有的**歲差運動** —— 軸於約 25,772 年的歲差週期內描繪出一個圓錐,類似於軸非完全鉛直之陀螺的搖擺。此運動與機械系統中的陀螺歲差大致類比。
 
-The **lunisolar component** — the combined gravitational torque of the Moon and Sun — accounts for approximately 96% of the precessional motion. The **planetary component** — the smaller gravitational influence of the other planets, principally Jupiter and Venus — produces an additional approximately 4% of the precessional motion. The total annual rate of precession (the **general precession**) is approximately 50.29 arcseconds per year as measured in the contemporary epoch.
+**日月分量** —— 月球與太陽合成的引力扭矩 —— 約佔歲差運動的 96%。**行星分量** —— 其他行星(主要為木星與金星)較小的引力影響 —— 則額外提供約 4%。歲差的總年率(**一般歲差**),在當代曆元測得為每年約 50.29 角秒。{{ footnote(id="2") }}
 
-### Distinction from related phenomena
+### 與相關現象的區分
 
-Precession should be carefully distinguished from several related but distinct cyclical phenomena affecting Earth:
+歲差應與若干相關但不同的、影響地球的週期性現象謹慎地加以區分:
 
-- **Axial obliquity variation** (sometimes confused with precession in popular treatments): the variation in the *magnitude* of the Earth's axial tilt across approximately 22.1° to 24.5°, with a cycle period of approximately **41,000 years**. The current axial tilt is approximately 23.44° and is slowly decreasing. The obliquity variation is one of the three principal **Milankovitch cycles** that drive long-term climate variation.
-- **Orbital eccentricity variation**: the variation in the *shape* of the Earth's orbit, from nearly circular (eccentricity approximately 0.005) to more elliptical (eccentricity approximately 0.058), with cycle periods of approximately **100,000 and 405,000 years**. The current eccentricity is approximately 0.0167. This is the second of the three principal Milankovitch cycles.
-- **Apsidal precession** (or precession of the orbit): the slow rotation of the orbital ellipse itself, distinct from the axial precession. The combination of axial precession and apsidal precession produces the **climatic precession** cycle of approximately **23,000 years** that is the third principal Milankovitch cycle.
-- **Nutation**: a smaller-amplitude wobble superimposed on the main precessional motion, with a principal period of approximately **18.6 years** corresponding to the regression of the Moon's orbital nodes. Nutation produces oscillations of approximately ±9 arcseconds in the celestial coordinates.
+- **地軸傾角變化**(在通俗論述中有時與歲差混淆):地軸傾角*大小*的變化,範圍約 22.1° 至 24.5°,週期約 **41,000 年**。目前地軸傾角約為 23.44°,並緩慢下降中。傾角變化是驅動長期氣候變化的三項主要**米蘭科維奇循環**之一。
+- **軌道偏心率變化**:地球軌道*形狀*的變化,自近圓(偏心率約 0.005)至更橢圓(偏心率約 0.058),週期約 **100,000 與 405,000 年**。目前偏心率約為 0.0167。此為三項主要米蘭科維奇循環中的第二項。
+- **拱線歲差**(或軌道歲差):軌道橢圓本身的緩慢旋轉,與地軸歲差有別。地軸歲差與拱線歲差的結合,產生約 **23,000 年**的**氣候歲差**循環,即三項主要米蘭科維奇循環中的第三項。
+- **章動**:疊加於主歲差運動之上、振幅較小的搖擺,主週期約 **18.6 年**,對應於月球軌道交點的退行。章動在天球座標上產生約 ±9 角秒的振盪。
 
-The principal practical consequence of these distinct cycles is that the Earth's orientation in space changes on multiple coupled timescales. The dominant cycle for cultural-historical purposes is the ~25,772-year axial precession; the slower obliquity and eccentricity cycles produce the major glacial-interglacial climate variations of the Pleistocene.
+這些不同循環的主要實際後果在於:地球在空間中的取向會在多個耦合的時間尺度上發生變化。就文化—歷史目的而言,主導循環為約 25,772 年的地軸歲差;較慢的傾角與偏心率循環,則產生更新世主要的冰期—間冰期氣候變化。
 
-### Empirical signatures of precession
+### 歲差的經驗特徵
 
-The principal empirical signatures of axial precession are:
+地軸歲差的主要經驗特徵為:
 
-- **The shift of the equinoxes** along the ecliptic. The vernal equinox point — the position of the Sun against the fixed-star background on the spring equinox — moves westward along the ecliptic at the precessional rate, traversing the entire 360° of the ecliptic across one precessional cycle.
-- **The change in the celestial pole position**. The celestial north and south poles — the points where the rotational axis extended meets the celestial sphere — trace out small circles (approximately 23.4° in radius) against the fixed-star background across the precessional period. The current North Pole star is **Polaris** (α Ursae Minoris, ~0.7° from the celestial north pole); the South Pole has no comparably bright star within reasonable proximity.
-- **The shift in the rising and setting positions** of stars and constellations on the horizon at specific seasonal markers. The cumulative shift is sufficient to substantially alter the appearance of the seasonal night sky across periods of 1,000-2,000 years.
-- **The difference between the tropical and sidereal years**. The **tropical year** (the time for the Sun to return to the same equinox or solstice) is approximately 365.2422 days; the **sidereal year** (the time for the Sun to return to the same position relative to the fixed stars) is approximately 365.2564 days; the difference of approximately 20 minutes per year is the cumulative effect of precession.
+- **分點沿黃道的位移**。春分點 —— 即太陽在春分日相對於固定恆星背景的位置 —— 以歲差速率沿黃道西移,在一個歲差循環內遍歷黃道整 360°。
+- **天極位置的變化**。天北極與天南極 —— 即自轉軸延伸線與天球的交點 —— 在歲差週期內相對於固定恆星背景,描繪出小圓(半徑約 23.4°)。目前北極星為**北極星**(α Ursae Minoris,距天北極約 0.7°);南極則並無亮度可比擬的恆星在合理鄰近範圍內。{{ footnote(id="6") }}
+- **恆星與星座在特定季節標記時於地平線上昇落位置的位移**。其累積位移,足以在 1,000–2,000 年的時段內實質改變季節夜空的外觀。
+- **回歸年與恆星年之間的差異**。**回歸年**(太陽回到同一分點或至點的時間)約為 365.2422 日;**恆星年**(太陽回到相對固定恆星之同一位置的時間)約為 365.2564 日;每年約 20 分鐘的差異,即為歲差的累積效應。
 
-### The North Pole star sequence
+### 北極星序列
 
-The slow motion of the celestial north pole produces a sequence of stars that successively serve as approximate North Pole stars across the precessional cycle. The principal sequence:
+天北極的緩慢運動,在歲差循環中產生了一系列依序充任近似北極星的恆星。主要序列為:
 
-- **Thuban** (α Draconis) — the principal North Pole star approximately **2,800 BCE**, within ~0.1° of the celestial pole at its closest approach. The Egyptian pyramid-builders of the Fourth Dynasty (c. 2,600–2,500 BCE) aligned their pyramid shafts on Thuban as the pole star of that period.
-- **Polaris** (α Ursae Minoris) — the current North Pole star, with closest approach approximately **2102 CE** at approximately 0.45° from the celestial pole.
-- **Errai** (γ Cephei) — will be the closest reasonably bright star to the celestial north pole approximately **4,000 CE**.
-- **Vega** (α Lyrae) — will be the closest principal bright star to the celestial north pole approximately **13,727 CE**, at approximately 5° from the pole. Vega is one of the brightest stars in the sky (apparent magnitude 0.03), and its closest approach will produce the most prominent pole-star configuration of the precessional cycle.
-- **Thuban** (α Draconis) — returns as the pole star approximately **22,800 CE**, completing one precessional cycle from its previous closest approach.
+- **右樞星**(α Draconis)—— 約**公元前 2,800 年**的主要北極星,最近接時距天極約 0.1° 以內。第四王朝(約公元前 2,600–2,500 年)的埃及金字塔建造者將其金字塔星孔對齊於右樞星 —— 該時期的極星。{{ footnote(id="4") }}
+- **北極星**(α Ursae Minoris)—— 目前的北極星,最近接於約**公元 2102 年**,距天極約 0.45°。
+- **少衛增八**(γ Cephei)—— 將於約**公元 4,000 年**成為最接近天北極且亮度合理的恆星。
+- **織女星**(α Lyrae)—— 將於約**公元 13,727 年**成為最接近天北極的主要亮星,距天極約 5°。織女星為天空中最亮的恆星之一(視星等 0.03),其最近接將產生歲差循環中最顯著的極星配置。
+- **右樞星**(α Draconis)—— 約於**公元 22,800 年**再度返回為極星,自其上一次最近接完成一個歲差循環。
 
-The sequence is cyclical: the precessional motion returns the celestial pole to each of these stars in turn across the ~25,772-year period.
+此序列為循環性的:歲差運動會在約 25,772 年的週期內,依序將天極帶回至上述每一顆恆星。
 
-## History of the concept
+## 概念史
 
-The astronomical history of precession is one of the most substantively significant single chapters in the history of pre-modern science, with the discovery itself among the most important empirical observations of antiquity. The framework's broader reading of precession depends on the historical record both for the mainstream-scientific identification and for the broader question of pre-Hipparchian transmission.
+歲差的天文學史,是前現代科學史中最具實質意義的單一章節之一,而此發現本身也躋身古代最重要的經驗觀測之列。框架對歲差的更廣解讀,既仰賴於歷史記錄中對主流科學識別的部分,亦仰賴於關於希帕克斯之前是否存在傳遞的更廣議題。
 
-### Pre-Hipparchian period
+### 希帕克斯之前的時期
 
-The mainstream scholarly consensus is that **Babylonian astronomy** — the most sophisticated pre-Greek astronomical tradition, with continuous records of celestial observations extending from approximately the 8th century BCE onward — did not explicitly identify precession as a distinct astronomical phenomenon. The Babylonian record includes substantial positional measurements of the bright stars (the **MUL.APIN** astronomical compendium, c. 1000-700 BCE, includes lists of stars and their seasonal risings and settings) that, in retrospect, contain evidence of precessional effects, but the Babylonian astronomers themselves do not appear to have recognised the systematic shift as a distinct phenomenon.
+主流學術共識認為,**巴比倫天文學** —— 前希臘最精緻的天文傳統,擁有自約公元前 8 世紀起連續的天體觀測記錄 —— 並未明確將歲差識別為一獨特的天文現象。巴比倫記錄包括對亮星的大量位置測量(《MUL.APIN》天文彙編,約公元前 1000–700 年,含有恆星及其季節昇落的清單),回顧之下,確實包含歲差效應的證據,但巴比倫天文學家本身似乎並未將此系統性位移認作一獨特現象。
 
-Earlier Egyptian astronomical tradition — particularly the temple alignments of the Old and Middle Kingdoms — does show evidence of awareness of stellar shifts across long periods, but again without explicit identification of precession as a distinct phenomenon in the surviving textual sources.
+更早的埃及天文傳統 —— 尤其是古王國與中王國的神廟對齊 —— 確實顯示出對長期間恆星位移的察覺,但在現存文字材料中,同樣並未明確將歲差識別為一獨特現象。
 
-The **Vedic astronomical tradition** of the Indian subcontinent — particularly the *Jyotisha* texts of approximately the 1st millennium BCE — contains substantial astronomical content including the *yuga* cycle (the cosmological cycles of approximately 4.32 million years), but the relationship of the *yuga* doctrine to precessional astronomy is genuinely contested: some interpreters read the shorter *yuga* periods (the *manvantaras* and shorter divisions) as corresponding to precessional cycles, others read them as purely cosmological-mythological numbers. The contemporary academic position is that the explicit identification of precession in the Indian astronomical tradition postdates the Greek discovery; the framework's broader reading is open on whether earlier Indian transmission of precessional content occurred.
+印度次大陸的**吠陀天文傳統** —— 尤其約公元前一千年紀的*儒耆夏*(*Jyotisha*)文獻 —— 包含大量天文內容,包括*由迦*(*yuga*)循環(約 432 萬年的宇宙論循環),但*由迦*教義與歲差天文學之關係,確有爭議:部分詮釋者將較短的*由迦*期(*manvantaras* 及更短的劃分)讀作對應於歲差循環,另一些則讀作純宇宙論—神話性的數字。當代學界立場認為,印度天文傳統對歲差的明確識別,晚於希臘的發現;框架的更廣解讀,則對是否曾發生更早的印度歲差內容傳遞持開放態度。
 
-The **Hamlet's Mill thesis** (Santillana and von Dechend 1969) substantively contests this mainstream-academic position, arguing that pre-Hipparchian global mythology systematically encodes precessional astronomical content in mythological-symbolic form. The thesis is treated more fully in the framework section below.
+**《哈姆雷特磨坊》論點**(桑提拉納與馮·德欽德,1969){{ cite(id="hamlets-mill", text="[2]", title="桑提拉納與馮·德欽德,《哈姆雷特磨坊》(1969) —— 希帕克斯之前神話對歲差的編碼") }} 實質性地反對此一主流學術立場,主張希帕克斯之前的全球神話以神話—象徵形式,系統性地編碼了歲差天文內容。此論點將在下文的框架章節中作更完整的處理。
 
-### Hipparchus and the discovery
+### 希帕克斯與此一發現
 
-The discovery of precession is conventionally attributed to **Hipparchus of Rhodes** (c. 190 – c. 120 BCE), the Greek astronomer who is widely regarded as the greatest astronomical observer of antiquity. Hipparchus worked principally on Rhodes and possibly in Alexandria, with his work surviving primarily through the citations and use made by **Claudius Ptolemy** in the *Almagest* (c. 150 CE).
+歲差的發現,慣例上歸功於**羅得島的希帕克斯**(約公元前 190 – 約公元前 120 年)—— 這位希臘天文學家被廣泛視為古代最偉大的天文觀測者。希帕克斯主要在羅得島,可能亦於亞歷山卓工作,其著作主要透過**克勞狄烏斯·托勒密**於《天文學大成》(約公元 150 年)中的引用與運用而得以流傳。
 
-Hipparchus's discovery of precession is generally dated to approximately **129–127 BCE**, in the context of his compilation of a comprehensive star catalogue (completed approximately 129 BCE, containing positions and magnitudes for approximately 850 stars). The principal methodology:
+希帕克斯對歲差的發現,慣例上定於約**公元前 129–127 年**,正值他編纂一部綜合性星表的時期(約於公元前 129 年完成,含約 850 顆恆星的位置與星等)。其主要方法為:
 
-1. Hipparchus measured the celestial longitudes of the bright stars with substantial precision, using the equinox points as reference
-2. He compared his measurements with the earlier measurements of **Timocharis of Alexandria** (c. 320 – c. 260 BCE) and **Aristyllos** (active early 3rd century BCE), made approximately 150 years before Hipparchus's own work
-3. He found that the celestial longitudes of all the stars he checked had shifted by approximately the same amount — **approximately 2°** — relative to the equinox points
-4. Hipparchus correctly inferred that this was not a motion of the stars themselves but a motion of the equinox points relative to the fixed stars
+1. 希帕克斯以分點點位為參照,以相當高的精度測量了亮星的天經度
+2. 他將自己的測量與**亞歷山卓的蒂莫卡里斯**(約公元前 320 – 約公元前 260 年)及**亞利提勒斯**(於公元前 3 世紀初活躍)更早的測量相比較 —— 後者比希帕克斯自身的工作早約 150 年
+3. 他發現自己所核對的所有恆星之天經度,相對於分點點位都已位移了大致相同的數量 —— **約 2°**
+4. 希帕克斯正確地推斷,此並非恆星自身的運動,而是分點點位相對於固定恆星的運動
 
-The first principal case Hipparchus identified was the bright star **Spica** (α Virginis): Timocharis in approximately 283 BCE had measured Spica at 8° west of the autumnal equinox; Hipparchus measured it at 6° west of the autumnal equinox. The 2° difference across approximately 150 years gave Hipparchus a precessional rate of approximately **1°/century or 36 arcseconds/year** — substantially close to the modern value of approximately 50.29 arcseconds/year. Hipparchus's value was a lower bound; he reasonably concluded that the actual rate might be somewhat higher.
+希帕克斯所識別出的第一個主要例證,是亮星**角宿一**(α Virginis):蒂莫卡里斯約於公元前 283 年將角宿一測於秋分點以西 8°;希帕克斯則將其測於秋分點以西 6°。約 150 年中 2° 的差異,給出了希帕克斯每**世紀約 1° 或每年 36 角秒**的歲差速率 —— 與每年約 50.29 角秒的現代數值頗為接近。希帕克斯的數值為一下界;他合理地推斷實際速率可能略高。{{ footnote(id="3") }}
 
-Hipparchus wrote two books on precession: **On the Displacement of the Solstitial and Equinoctial Points** and **On the Length of the Year**. Both are lost but are extensively cited in Ptolemy's *Almagest*, which preserves the substantive content of Hipparchus's discovery.
+希帕克斯撰有兩部關於歲差的著作:**《論至點與分點之位移》**與**《論年之長度》**。兩者皆已散佚,但於托勒密的《天文學大成》中廣為引用,從而保存了希帕克斯發現的實質性內容。
 
-### Ptolemy and the medieval Islamic tradition
+### 托勒密與中世紀伊斯蘭傳統
 
-**Claudius Ptolemy** (c. 100 – c. 170 CE), the Alexandrian astronomer whose *Almagest* (Greek *Μαθηματικὴ Σύνταξις*, "Mathematical Synthesis"; the Arabic title *al-Majisṭī* gives the standard English title) became the foundational astronomical text for the subsequent fourteen centuries, substantially adopted Hipparchus's precessional theory but used a precessional rate of **1°/century** (36 arcseconds/year), which was lower than the actual rate and contributed to subsequent astronomical errors in calendars and ephemerides.
+**克勞狄烏斯·托勒密**(約公元 100 – 約 170 年)—— 這位亞歷山卓天文學家的《天文學大成》(希臘語 *Μαθηματικὴ Σύνταξις*,「數學綜述」;阿拉伯語標題 *al-Majisṭī* 給出了標準英文書名)成為其後十四個世紀的奠基性天文學文本 —— 大致採納了希帕克斯的歲差理論,但使用了**每世紀 1°**(每年 36 角秒)的歲差速率,該數值低於實際速率,並導致曆書與天體曆表的後續天文學誤差。
 
-The medieval **Islamic astronomical tradition** — including such figures as al-Battani (c. 858–929 CE), al-Sufi (903–986 CE), al-Biruni (973–1048 CE), and al-Tusi (1201–1274 CE) — substantially developed precessional astronomy. Al-Battani in particular refined the precessional rate to approximately **54.5 arcseconds/year**, closer to the modern value than Ptolemy's. The medieval Islamic astronomers also developed the concept of **trepidation** (an oscillatory component superimposed on the secular precession), which was ultimately rejected by later astronomy but represented a substantive engagement with the precessional phenomenon.
+中世紀**伊斯蘭天文學傳統** —— 包括巴塔尼(約公元 858–929 年)、蘇菲(903–986 年)、比魯尼(973–1048 年)、圖西(1201–1274 年)等諸位人物 —— 對歲差天文學作了實質性的發展。巴塔尼特別將歲差速率精煉為**每年約 54.5 角秒**,較托勒密更接近現代值。中世紀伊斯蘭天文學家亦發展出**顫動**(superimposed 於長期歲差之上的振盪分量)的概念,雖最終為後世天文學所摒棄,但它代表了對歲差現象的一次實質介入。
 
-### Newton and the mechanical explanation
+### 牛頓與機械解釋
 
-The mechanical explanation of precession as the gravitational torque exerted by the Sun and Moon on the Earth's equatorial bulge was developed by **Isaac Newton** (1643–1727) in the *Philosophiæ Naturalis Principia Mathematica* (1687), Book III, Propositions XXXIX-XLI. Newton's derivation was the first physical explanation of the phenomenon; previous astronomers had observed and characterised precession without offering a causal mechanism. Newton's account established that:
+將歲差以機械方式解釋為太陽與月球對地球赤道隆起所施加之引力扭矩,是由**艾薩克·牛頓**(1643–1727)於《自然哲學的數學原理》(1687)第三編,命題 XXXIX–XLI 中發展出來的。牛頓的推導,是該現象的首個物理解釋;在此之前,天文學家僅觀察並刻劃了歲差,卻未提供因果機制。牛頓的論述確立了:
 
-- The precession is caused by the gravitational torque on the Earth's equatorial bulge
-- The torque is produced by the gravitational attraction of the Sun and Moon acting at an angle to the Earth's rotational axis
-- The precessional period can be calculated from the Earth's moment of inertia and the gravitational parameters
+- 歲差由作用於地球赤道隆起的引力扭矩所致
+- 該扭矩由太陽與月球對地球自轉軸成一角度所作用的引力吸引所產生
+- 歲差週期可由地球的轉動慣量與引力參數計算得出
 
-Newton's calculation gave a precessional period consistent with the observed value, providing strong empirical confirmation of the broader gravitational theory.
+牛頓的計算給出了與觀測值一致的歲差週期,為更廣的引力理論提供了強有力的經驗證實。
 
-### Subsequent astronomy
+### 後續天文學
 
-The subsequent astronomical work on precession through the 18th, 19th, and 20th centuries has principally refined the measurement of the precessional rate, characterised the smaller perturbations (planetary precession, nutation), and integrated the phenomenon into the broader Milankovitch theory of long-term climate variation. The contemporary precessional theory is well-developed and provides the foundation for all astronomical coordinate systems (the **epoch** specification of star catalogues — e.g., J2000.0 — depends on precession).
+18、19、20 世紀後續關於歲差的天文工作,主要精煉了對歲差速率的測量、刻劃了較小的擾動(行星歲差、章動),並將該現象整合入更廣的米蘭科維奇長期氣候變化理論之中。當代歲差理論已甚為發達,並為所有天文座標系統的基礎(星表的**曆元**指定 —— 例如 J2000.0 —— 即仰賴歲差)。
 
-## The zodiac and the precessional Ages
+## 黃道帶與歲差時代
 
-The zodiac is a band of the sky extending approximately 8° north and south of the ecliptic, conventionally divided into twelve **signs** of 30° each. The signs are named for the constellations that the Sun appears to pass through across the year, though due to precession the contemporary alignment between the signs and the constellations is no longer accurate.
+黃道帶是天空中沿黃道南北各延伸約 8° 的一條帶狀區域,慣例上劃分為十二個各 30° 的**宮**。諸宮以太陽在一年中表面上經過的星座命名,儘管由於歲差,當代諸宮與諸星座之間的對齊已不再精確。
 
-### The Babylonian origin and the Greek systematization
+### 巴比倫起源與希臘的系統化
 
-The twelve-fold zodiacal division has substantive antecedents in Babylonian astronomy, with the **MUL.APIN** compendium (c. 1000-700 BCE) including a list of the principal ecliptic constellations. The systematic twelve-sign zodiacal division was established in Babylonia during approximately the 5th century BCE, with substantial astronomical work continuing through the Persian and Hellenistic periods. The Greek adoption and systematization came principally through Hipparchus and subsequently Ptolemy, with the *Tetrabiblos* (Ptolemy's astrological work, distinct from the astronomical *Almagest*) establishing the systematic basis for subsequent Western astrology.
+十二分制的黃道劃分在巴比倫天文學中有實質性的先聲,**《MUL.APIN》**彙編(約公元前 1000–700 年)即含有主要黃道星座的清單。系統化的十二宮黃道劃分,於約公元前 5 世紀的巴比倫確立,實質性的天文工作貫穿波斯與希臘化時期。希臘的採納與系統化主要透過希帕克斯,其後托勒密 —— 《占星四書》(托勒密的占星著作,有別於天文學的《天文學大成》)為後續西方占星學奠定了系統性基礎。
 
-The standard zodiacal signs are:
+標準黃道宮為:
 
-- **Aries** (the Ram) — corresponding to the vernal equinox in the tropical zodiac
-- **Taurus** (the Bull)
-- **Gemini** (the Twins)
-- **Cancer** (the Crab)
-- **Leo** (the Lion)
-- **Virgo** (the Virgin)
-- **Libra** (the Scales)
-- **Scorpio** (the Scorpion)
-- **Sagittarius** (the Archer)
-- **Capricorn** (the Goat)
-- **Aquarius** (the Water-bearer)
-- **Pisces** (the Fish)
+- **白羊座**(公羊)—— 對應於回歸黃道中的春分
+- **金牛座**(公牛)
+- **雙子座**(雙生子)
+- **巨蟹座**(蟹)
+- **獅子座**(獅子)
+- **處女座**(處女)
+- **天秤座**(秤)
+- **天蠍座**(蠍)
+- **射手座**(弓箭手)
+- **摩羯座**(山羊)
+- **水瓶座**(持水者)
+- **雙魚座**(魚)
 
-### The tropical-sidereal distinction
+### 回歸—恆星之區分
 
-A substantively important distinction concerns the relationship between the zodiacal signs and the actual constellations:
+關於黃道宮與實際星座之間的關係,有一項實質性重要的區分:
 
-- The **tropical zodiac** (used in standard Western astrology) defines the signs by reference to the vernal equinox point: **0° Aries** is the position of the Sun on the spring equinox, regardless of the actual constellation behind the Sun. The tropical signs are 30° divisions of the ecliptic moving westward at the precessional rate. The system is internally consistent and reflects the seasonal-solar relationship rather than the stellar background.
-- The **sidereal zodiac** (used in Vedic / Indian astrology) defines the signs by reference to the fixed-star constellations: **0° Aries** is the position of the actual constellation Aries, with the signs as fixed segments of the ecliptic relative to the stars. The sidereal signs do not move with precession.
+- **回歸黃道**(標準西方占星所用)以春分點為參照定義諸宮:**白羊座 0°** 即太陽在春分日的位置,無論其後實際星座為何。回歸宮為以歲差速率西移的黃道 30° 劃分。此系統內部一致,反映的是季節—太陽關係而非恆星背景。
+- **恆星黃道**(吠陀/印度占星所用)以固定恆星星座為參照定義諸宮:**白羊座 0°** 即實際白羊座星座的位置,諸宮為相對於恆星固定的黃道分段。恆星宮不隨歲差移動。
 
-The difference between the tropical and sidereal zodiacs is the **ayanamsa** (Sanskrit "precessional movement"), currently approximately **24°**. The two systems were in close approximate alignment approximately 2,000 years ago (around the beginning of the Common Era — the period when the standard Western zodiacal system was being codified by Ptolemy and others), and have diverged at the precessional rate since.
+回歸與恆星黃道之間的差異即為**歲差校正值**(梵語 *ayanamsa*,「歲差移動」),目前約為 **24°**。兩個系統約於 2,000 年前接近重合(約值公元初年 —— 即標準西方黃道系統正由托勒密等人加以規範化之時期),其後依歲差速率分離至今。
 
-### The precessional Ages
+### 歲差時代
 
-The shift of the vernal equinox point along the ecliptic at the precessional rate produces the sequence of **precessional Ages** — periods of approximately 2,150-2,160 years during which the vernal equinox is positioned in a particular zodiacal sign. The standard sequence (moving backward through the precessional motion, which produces the westward shift of the equinox along the ecliptic):
+春分點以歲差速率沿黃道的位移,產生了**歲差時代**序列 —— 即春分點處於某一特定黃道宮中的、各約 2,150–2,160 年的時期。標準序列(沿歲差運動逆向移動 —— 此運動產生分點沿黃道的西移):
 
-| Age | Approximate dates (corpus reckoning) | Approximate dates (alternative reckonings) |
+| 時代 | 約略年代(文集計法) | 約略年代(其他計法) |
 |---|---|---|
-| **Age of Leo** | c. 13,170 – 11,010 BCE | c. 10,500 – 8,000 BCE (varies) |
-| **Age of Cancer** | c. 11,010 – 8,850 BCE | c. 8,000 – 6,000 BCE |
-| **Age of Gemini** | c. 8,850 – 6,690 BCE | c. 6,000 – 4,000 BCE |
-| **Age of Taurus** | c. 6,690 – 4,530 BCE | c. 4,000 – 2,000 BCE |
-| **Age of Aries** | c. 4,530 – 2,370 BCE (or c. 2,065 BCE on alternative) | c. 2,000 – 0 BCE |
-| **Age of Pisces** | c. 1 CE – 2,160 CE | c. 0 – 2,000 CE |
-| **Age of Aquarius** | c. 2,160 CE onward | c. 2,000 CE onward |
+| **獅子座時代** | 約公元前 13,170 – 11,010 年 | 約公元前 10,500 – 8,000 年(各有不同) |
+| **巨蟹座時代** | 約公元前 11,010 – 8,850 年 | 約公元前 8,000 – 6,000 年 |
+| **雙子座時代** | 約公元前 8,850 – 6,690 年 | 約公元前 6,000 – 4,000 年 |
+| **金牛座時代** | 約公元前 6,690 – 4,530 年 | 約公元前 4,000 – 2,000 年 |
+| **白羊座時代** | 約公元前 4,530 – 2,370 年(另一說為約公元前 2,065 年) | 約公元前 2,000 – 0 年 |
+| **雙魚座時代** | 約公元 1 – 2,160 年 | 約公元 0 – 2,000 年 |
+| **水瓶座時代** | 約公元 2,160 年起 | 約公元 2,000 年起 |
 
-The specific dating of the Age transitions varies substantially across different astrological-astronomical traditions, depending on the precise definition of constellation boundaries (which are not standardised in classical astrology), the choice of starting reference point, and the choice between modern astronomical and astrological-tradition rates. The framework's adopted reckoning (used consistently across the corpus's entries) places the Age boundaries at approximately the points indicated in the table above, with the understanding that the transitions are not sharply defined and that alternative reckonings produce ±200-year variations in the boundary dates.
+時代轉換的具體斷代,於不同占星—天文傳統中差異甚大,取決於星座邊界的精確定義(在古典占星中並無標準化)、起始參考點的選擇,以及在現代天文與占星傳統速率之間的選擇。文集所採用的計法(在整個文集條目中一致使用)將時代邊界置於上表所示的約略點位,並理解為轉換並無嚴格界線,而其他計法在邊界日期上會產生 ±200 年的差異。{{ footnote(id="5") }}
 
-The framework's specific identification of the precessional Ages with the events of the Elohim project and the broader prophetic record is treated in the framework section below.
+文集對歲差時代與耶洛因計畫事件及更廣先知記錄的具體對應,將在下文的框架章節中作處理。
 
-## In the Wheel of Heaven framework
+## 於《天輪》框架中
 
-The framework's reading of precession is multilayered. The mainstream astronomical phenomenon is treated as established empirical content; the framework's substantive interpretive moves concern the historical-mythological-chronological significance of the phenomenon.
+該框架對歲差的解讀為多層次的。主流的天文現象被視為已確立的經驗內容;框架的實質詮釋移動,關切的乃是該現象的歷史—神話—年代學意義。
 
-### Precession as chronological infrastructure
+### 歲差作為年代學基礎設施
 
-The framework's most basic use of precession is as the **chronological infrastructure** for the corpus's broader interpretive work. The precessional Ages provide a structured temporal framework that:
+該框架對歲差最基本的運用,即作為文集更廣詮釋工作的**年代學基礎設施**。歲差時代提供了一個有結構的時間框架,它:
 
-- Spans approximately 26,000 years per full cycle, sufficient to encompass the principal events of the Elohim project (synthesis approximately 25,000 years ago) and the subsequent terrestrial history
-- Divides this period into twelve substantively distinct Ages, each of approximately 2,150-2,160 years
-- Connects the chronological framework to a substantive astronomical phenomenon that is independently verifiable and culturally significant
-- Aligns with the symbolic-cultural significance of the zodiacal signs in multiple religious and cultural traditions
+- 一個完整循環跨越約 26,000 年,足以涵蓋耶洛因計畫的主要事件(約 25,000 年前的合成)及其後的地球歷史
+- 將此時段劃分為十二個實質上有別的時代,每個約 2,150–2,160 年
+- 將年代學框架與一項可獨立查證且文化上具意義的實質天文現象相連繫
+- 與黃道宮在多個宗教與文化傳統中的象徵—文化意義相對齊
 
-The corpus's broader work uses the precessional Ages to date the principal events:
+文集的更廣工作運用歲差時代為主要事件斷代:
 
-- The **Age of Virgo** (c. 15,330 – 13,170 BCE) for the *yom* 5 phase of Genesis 1 — the synthesis of the broader animal life on which humans subsequently depend
-- The **Age of Leo** (c. 13,170 – 11,010 BCE) for the *yom* 6 human-synthesis phase — the principal Adamite synthesis and the Eden phase
-- The **Age of Cancer** (c. 11,010 – 8,850 BCE) for the post-deluge reorganisation following the Younger Dryas-era catastrophic events
-- The **Age of Gemini** (c. 8,850 – 6,690 BCE) for the early Neolithic population developments and the broader Holocene climate stabilisation
-- The **Age of Taurus** (c. 6,690 – 4,530 BCE) for the Sumerian, Egyptian, and broader Bronze Age civilisations; the principal megalithic construction period
-- The **Age of Aries** (c. 4,530 – 2,370 BCE on the broader reckoning, or c. 2,065 BCE on the corpus's more specific Hebrew prophetic dating) for the principal Hebrew prophetic period — Abraham through Moses, the Exodus, the Sinai theophany, the Davidic monarchy, the prophetic tradition
-- The **Age of Pisces** (c. 1 CE – 2,160 CE) for the Christian era and the broader subsequent religious developments
-- The **Age of Aquarius** (c. 2,160 CE onward; the framework's reading places the contemporary period in the transition between Pisces and Aquarius, with the broader recovery treated as the **Age of Apocalypse**)
+- **處女座時代**(約公元前 15,330 – 13,170 年)對應《創世記》第一章 *yom* 5 階段 —— 即人類後來所依賴之更廣動物生命的合成
+- **獅子座時代**(約公元前 13,170 – 11,010 年)對應 *yom* 6 的人類合成階段 —— 主要的亞當人合成與伊甸階段
+- **巨蟹座時代**(約公元前 11,010 – 8,850 年)對應於新仙女木期災難性事件之後的洪後重組
+- **雙子座時代**(約公元前 8,850 – 6,690 年)對應於早期新石器時代的人口發展與更廣的全新世氣候穩定
+- **金牛座時代**(約公元前 6,690 – 4,530 年)對應於蘇美爾、埃及與更廣青銅時代諸文明;主要的巨石建造時期
+- **白羊座時代**(約公元前 4,530 – 2,370 年,以更廣計法;或約公元前 2,065 年,以文集更具體的希伯來先知斷代計法)對應於主要的希伯來先知時期 —— {% wiki(slug="abraham") %}亞伯拉罕{% end %} 至摩西、出埃及、西奈神顯、大衛王朝、先知傳統
+- **雙魚座時代**(約公元 1 – 2,160 年)對應於基督教時代及其後更廣的宗教發展
+- **水瓶座時代**(約公元 2,160 年起;框架的解讀將當代時期置於雙魚與水瓶之間的過渡,而更廣的復原則被視為{% wiki(slug="apocalypse") %}啟示錄{% end %}時代)
 
-The dedicated [Age of Virgo](../timeline/age-of-virgo/), [Age of Leo](../timeline/age-of-leo/), [Age of Cancer](../timeline/age-of-cancer/), [Age of Gemini](../timeline/age-of-gemini/), [Age of Taurus](../timeline/age-of-taurus/), [Age of Aries](../timeline/age-of-aries/), [Age of Pisces](../timeline/age-of-pisces/), and [Age of Aquarius](../timeline/age-of-aquarius/) entries develop the specific content of each Age; the present entry establishes the broader precessional framework on which the individual Age entries depend.
+專屬的[處女座時代](../timeline/age-of-virgo/)、[獅子座時代](../timeline/age-of-leo/)、[巨蟹座時代](../timeline/age-of-cancer/)、[雙子座時代](../timeline/age-of-gemini/)、[金牛座時代](../timeline/age-of-taurus/)、[白羊座時代](../timeline/age-of-aries/)、[雙魚座時代](../timeline/age-of-pisces/)以及[水瓶座時代](../timeline/age-of-aquarius/)條目發展了每一時代的具體內容;本條目所確立的乃是各時代條目所賴的更廣歲差框架。
 
-### The Hamlet's Mill thesis
+### 《哈姆雷特磨坊》論點
 
-The most substantive scholarly engagement with the relationship between precession and pre-Hipparchian mythology is **Giorgio de Santillana and Hertha von Dechend's *Hamlet's Mill: An Essay on Myth and the Frame of Time*** (Gambit, 1969). The book — written by **Santillana** (1902–1974, professor of history of science at MIT) and **von Dechend** (1915–2001, professor of history of science at Goethe University Frankfurt) — argues that:
+關於歲差與希帕克斯之前神話之關係,最具實質意義的學術介入是**吉奧爾喬·德·桑提拉納與赫莎·馮·德欽德的《哈姆雷特磨坊:神話與時間框架之論》**(Gambit,1969)。{{ cite(id="hamlets-mill", text="[2]", title="桑提拉納與馮·德欽德,《哈姆雷特磨坊》(1969) —— 神話中歲差論點的完整處理") }} 該書由**桑提拉納**(1902–1974,麻省理工學院科學史教授)與**馮·德欽德**(1915–2001,法蘭克福歌德大學科學史教授)合著,其主張為:
 
-- Precession was discovered substantially before Hipparchus, by Neolithic or earlier astronomers, possibly as early as 4,000–6,000 BCE
-- The knowledge of precession was transmitted across cultures and millennia through **mythological-symbolic encoding** rather than direct astronomical-textual transmission
-- The principal mythological motifs of the cross-cultural global tradition — the cosmic mill, the cosmic axis, the breaking of the mill, the heroic figures of the various Ages, the doctrine of the Four Ages or World Ages, the cyclic destruction-and-renewal patterns — systematically preserve precessional astronomical content
-- The transmission of precessional content connects cultures separated by substantial geographical and temporal distance (Mesopotamian, Egyptian, Vedic, Iranian, Norse, Finnish, Polynesian, Mesoamerican) through common mythological vocabulary
+- 歲差在希帕克斯之前已被新石器時代或更早的天文學家實質性地發現,可能早至公元前 4,000–6,000 年
+- 歲差知識並未透過直接的天文—文本傳遞,而是透過**神話—象徵性的編碼**橫跨諸文化與千年加以傳遞
+- 跨文化全球傳統的主要神話母題 —— 宇宙磨坊、宇宙之軸、磨坊的損壞、諸時代之英雄形象、四個時代或世界時代的教義、循環性的毀滅—更新模式 —— 系統性地保存了歲差天文內容
+- 歲差內容的傳遞,透過共同的神話詞彙,將地理與時間上相距甚遠的諸文化(美索不達米亞、埃及、吠陀、伊朗、北歐、芬蘭、玻里尼西亞、中美洲)相連繫
 
-The *Hamlet's Mill* thesis has had mixed reception in mainstream scholarship: substantially influential in the broader **archaeoastronomy** field that emerged in the 1970s and 1980s, but generally treated with skepticism by mainstream classicists and historians of astronomy. The principal scholarly objections concern the methodological question of how to identify precessional content in mythology without circular reasoning, the chronological question of whether the proposed Neolithic discovery is empirically supportable, and the broader question of whether the cross-cultural patterns identified by Santillana and von Dechend are sufficiently distinctive to require the precessional explanation.
+《哈姆雷特磨坊》論點在主流學界受到的反響不一:於 1970 年代與 1980 年代興起的更廣**考古天文學**領域中具有實質影響力,但主流古典學者與天文學史家通常以懷疑態度看待。主要的學術反對意見關切:如何在不訴諸循環推理的情況下於神話中識別歲差內容的方法論問題、所提出的新石器時代發現於經驗上是否站得住腳的年代學問題、以及桑提拉納與馮·德欽德所識別的跨文化模式是否足夠獨特而需要訴諸歲差解釋的更廣問題。
 
-The framework's adopted position is broadly sympathetic to the *Hamlet's Mill* thesis. The corpus's broader interpretive work — particularly the reading of the source-tradition material (the Hebrew Bible, the Sumerian and Egyptian creation traditions, the Vedic *yuga* doctrine, the broader cross-cultural mythological record) as preserving operational content from the Elohim project — is substantially consistent with the *Hamlet's Mill* claim that pre-Hipparchian astronomical content is preserved in mythological form. The framework reads the precessional content specifically as evidence of the Elohim's own use of the precessional cycle as a chronological reference — consistent with the Biglino reading developed below — and of the subsequent human transmission of this content through the symbolic-mythological vocabulary the corpus engages.
+該框架所採行的立場,大致與《哈姆雷特磨坊》論點同情。文集的更廣詮釋工作 —— 尤其是將源傳統材料({% wiki(slug="hebrew-bible") %}希伯來聖經{% end %}、蘇美爾與埃及創世傳統、吠陀*由迦*教義、更廣的跨文化神話記錄)讀作保存了耶洛因計畫的運作性內容 —— 與《哈姆雷特磨坊》「希帕克斯之前的天文內容以神話形式保存」的主張實質上一致。該框架將歲差內容特別讀作:耶洛因自身使用歲差循環作為年代參照的證據 —— 與下文比格利諾的解讀一致 —— 並讀作其後人類透過文集所涉之象徵—神話詞彙傳遞此內容的證據。
 
-### The Biglino reading: precession as navigation infrastructure
+### 比格利諾的解讀:歲差作為導航基礎設施
 
-The Italian biblical philologist **Mauro Biglino**, in his work on the Hebrew Bible and the broader Anunnaki / Elohim tradition, has developed a specific reading of precession that the framework's broader position substantially incorporates. The relevant passage, from Biglino's *Il libro che cambierà per sempre le nostre idee sulla Bibbia* (2011, translated as *The Book That Will Forever Change Our Idea About The Bible*):
+義大利聖經語文學家**毛羅·比格利諾**在其關於希伯來{% wiki(slug="bible") %}聖經{% end %}及更廣的阿努納奇/耶洛因傳統的工作中,發展出對歲差的特定解讀,而框架的更廣立場大致對此加以納入。相關段落出自比格利諾的《將永遠改變我們對聖經之看法的書》(2011,英譯為 *The Book That Will Forever Change Our Idea About The Bible*){{ cite(id="the-bible-is-not-a-sacred-book", text="[3]", title="比格利諾,嚴格字面希伯來聖經系列(2010 年起)—— 歲差作為耶洛因/阿努納奇之導航基礎設施") }}:
 
-> This expression indicates the celestial phenomenon caused by the oscillation or wobble of the Earth axis making a circular motion similar to that of a slowly-spinning top. This oscillation results in an apparent demotion of the constellations in the celestial sphere. It happens because the imaginary line joining the ecliptic of spring and autumn equinoxes moves one degree approximately every 71 years. Each of the twelve signs of the zodiac that form the entire 360° sky arc, covered a period of 2,160 years, corresponding to what astrology labeled as "Ages": Age of Aries, Age of Taurus, and so on. The complete cycle of 360° thus requires a little less than 26,000 years (2160 × 12). Hence, it would have been impossible to observe and calculate. Regardless, this long period, called the "Great Year", was known by many civilizations in various parts of the world such as the Indus Valley, Egypt, Central America; and still today scholars wonder how a nomadic people of herders and farmers were able to calculate its duration! Might it have been of any use to ANUNNAKI "gods" to calculate the orbital timing of their home planet, and to plan their space travels that were inevitably very long? Perhaps, the answer to many mysteries resides in accepting this possibility...
+> 此措辭指由地軸搖擺所致的天文現象 —— 地軸以類似緩慢旋轉之陀螺的圓周運動運轉。此搖擺導致諸星座在天球上表面上的後移。其發生是因為連結春分與秋分黃道的虛擬線每約 71 年移動一度。形成整 360° 天弧的黃道十二宮中之每一宮,涵蓋 2,160 年,即占星學所謂的「時代」:白羊座時代、金牛座時代,以此類推。360° 的完整循環因此需略少於 26,000 年(2160 × 12)。因此,觀察與計算本應是不可能的。然而,這個被稱為「大年」的悠長時期,卻為世界各地的諸多文明所知曉,如印度河谷、埃及、中美洲;而即使在今日,學者們仍困惑於遊牧的牧民與農民何以能計算出其期間!對於阿努納奇「諸神」而言,計算其家鄉行星的軌道時序、規劃其無可避免之漫長的太空旅行,難道不會有所助益嗎?也許,諸多奧祕的解答,就在接受此一可能性之中⋯⋯
 >
-> — Mauro Biglino, *Il libro che cambierà per sempre le nostre idee sulla Bibbia* (2011)
+> —— 毛羅·比格利諾,《將永遠改變我們對聖經之看法的書》(2011)
 
-Biglino's reading frames precession as potentially serving the Elohim (Anunnaki on Biglino's preferred terminology) as a **navigation and chronological-calibration aid** — a long-period astronomical phenomenon useful for the long-duration interstellar travel and the long-term operational supervision that the framework's broader reading attributes to the Elohim. The principal framework claims:
+比格利諾的解讀,將歲差描述為可能為耶洛因(以比格利諾偏好的術語為阿努納奇)充當**導航與年代學校準輔助** —— 一項長週期天文現象,對於框架更廣解讀所歸於耶洛因的長期星際旅行與長期運作督導,均屬有用。主要框架主張為:
 
-- The 26,000-year precessional period is sufficiently long that it would have been impossible for early human cultures to identify through direct observation across a single human lifetime
-- The cross-cultural pre-Hipparchian preservation of precessional content (Indus Valley, Egypt, Central America, etc.) is genuinely difficult to account for through the standard scientific-historical account
-- The transmission of the precessional content from a more advanced source — the Elohim, on the framework's reading — provides a substantive explanation for the pre-Hipparchian global preservation
-- The Elohim's specific use of precession is open on the framework's adopted reading; possibilities include navigation, chronological calibration, the broader chronological structure of the Elohim project on Earth, and other operational uses
+- 26,000 年的歲差週期,長到不可能讓早期人類文化在單一人類壽命內透過直接觀察加以識別
+- 跨文化希帕克斯之前對歲差內容的保存(印度河谷、埃及、中美洲等),確實難以透過標準的科學—歷史敘述加以說明
+- 歲差內容自更先進來源 —— 依框架解讀即耶洛因 —— 的傳遞,為希帕克斯之前的全球保存提供了實質性的解釋
+- 耶洛因對歲差的具體用途,於框架所採解讀中持開放態度;可能性包括導航、年代學校準、耶洛因於地球計畫之更廣年代結構,以及其他運作用途
 
-The framework's reading does not commit to a specific operational use of precession by the Elohim. What the framework reads as substantively significant is the broader pattern: precession is one of the few astronomical phenomena that operates on timescales substantially longer than human cultural memory, and the cross-cultural preservation of precessional content in the pre-Hipparchian period suggests a transmission mechanism that the framework's broader account can substantively explain.
+框架的解讀並不承諾耶洛因對歲差的某一具體運作用途。框架將之讀作實質性意義所在的,是更廣的模式:歲差是少數作用於遠較人類文化記憶為長之時間尺度上的天文現象之一,而希帕克斯之前歲差內容的跨文化保存,暗示了一種傳遞機制,而框架的更廣敘述能對此加以實質性說明。
 
-### Precession in the source-tradition material
+### 源傳統材料中的歲差
 
-The framework reads several specific source-tradition passages as preserving precessional content:
+框架將若干特定的源傳統段落讀作保存了歲差內容:
 
-- **The Genesis 1 *yamim* sequence.** The framework's reading of the seven *yamim* (treated in the [Genesis](../genesis/) and [Terraforming](../terraforming/) entries) places the principal phases of the Earth project in specific precessional Ages: *yom* 1 in Capricorn, *yom* 2 in Sagittarius, *yom* 3 in Scorpio, *yom* 4 in Libra, *yom* 5 in Virgo, *yom* 6 in Leo, and *yom* 7 (the rest phase) in Cancer. The Genesis 1 narrative on this reading preserves a specifically precessional chronological structure.
-- **The Mosaic period (Age of Aries).** The framework reads the prominence of the **ram** as a symbolic figure in the Mosaic and broader Aries-period source-tradition material — the ram caught in the thicket at the Aqedah (Genesis 22:13), the Passover lamb (Exodus 12), the ram horns of the Sinai trumpet (the *shofar*), the broader sacrificial system of the Tabernacle — as preserving the precessional identification of the period as the Age of Aries.
-- **The Christian period (Age of Pisces).** The Christian tradition's use of the **fish** (Greek *ichthys*, Greek acronym for "Jesus Christ, Son of God, Saviour") as a central symbol from the earliest period, the multiple fish-related episodes in the Gospel narratives (the multiplication of loaves and fishes, the call of the fishermen-apostles, the post-resurrection beach breakfast in John 21), and the broader piscine symbolic vocabulary is read by the framework as preserving the precessional identification of the period as the Age of Pisces.
-- **The contemporary transition (Pisces to Aquarius).** The framework reads the contemporary cultural recognition of the "Age of Aquarius" — popularised in the 1960s but with substantive astrological-tradition antecedents — as preserving the precessional identification of the contemporary transition period.
+- **《創世記》第一章的 *yamim* 序列**。框架對七 *yamim* 的解讀(於[創世記](../genesis/)與[地球化](../terraforming/)條目中處理)將地球計畫的主要階段置於特定歲差時代:*yom* 1 於摩羯座、*yom* 2 於射手座、*yom* 3 於天蠍座、*yom* 4 於天秤座、*yom* 5 於處女座、*yom* 6 於獅子座、*yom* 7(休息階段)於巨蟹座。依此解讀,《創世記》第一章的敘事保存了一個特屬於歲差的年代結構。
+- **摩西時期(白羊座時代)**。框架將**公羊**作為摩西時期及更廣白羊座時期源傳統材料中象徵形象的顯著地位 —— 受縛於灌木叢中的公羊獻祭(《創世記》22:13)、逾越節羔羊(《出埃及記》12)、西奈號角的公羊角(*shofar*)、會幕的更廣獻祭體系 —— 讀作保存了該時期作為白羊座時代的歲差性識別。
+- **基督教時期(雙魚座時代)**。基督教傳統自最早時期即將**魚**(希臘語 *ichthys*,為「耶穌基督,神之子,救主」的希臘語首字母縮寫)作為核心象徵的使用、福音書敘事中多次與魚相關的事件(五餅二魚的增多、漁夫使徒之蒙召、《約翰福音》21 章中復活後的海灘早餐),以及更廣的魚類象徵詞彙,均為框架讀作保存了該時期作為雙魚座時代的歲差性識別。{{ cite(id="the-gospels-in-the-stars", text="[4]", title="塞斯,《星辰中的福音》—— 十九世紀對黃道—基督教象徵對應的論述") }}{{ cite(id="mazzaroth-rolleston", text="[5]", title="羅爾斯頓,《瑪扎洛特》—— 希伯來/黃道詮釋傳統的主要維多利亞時代來源") }}{{ cite(id="mazzaroth-dot-com", text="[6]", title="《瑪扎洛特》網路彙編 —— 黃道—聖經詮釋傳統的當代彙整") }}
+- **當代過渡(雙魚至水瓶)**。框架將當代文化對「水瓶座時代」的認可 —— 於 1960 年代普及,但具有實質的占星傳統先聲 —— 讀作保存了對當代過渡時期的歲差性識別。
 
-The dedicated [List of mythemes and mythological motifs](../list-of-mythemes-and-mythological-motifs/) entry develops the broader cross-cultural mythological preservation of precessional content; the present entry registers the specific source-tradition passages that the framework reads as precessionally significant.
+專屬的[神話素與神話母題清單](../list-of-mythemes-and-mythological-motifs/)條目發展了對歲差內容的更廣跨文化神話保存;本條目則登錄框架讀作具歲差意義的特定源傳統段落。
 
-### The chronological precision question
+### 年代學精度問題
 
-The framework's chronological reckoning faces a substantive precision question: the precessional Ages have variable dating across different traditions and methodologies, with the principal sources of variation being:
+框架的年代學計法面臨一項實質性的精度問題:歲差時代於不同傳統與方法論中的斷代差異甚大,主要差異來源為:
 
-- The **starting reference point** — different traditions use different reference stars or constellation-boundary definitions
-- The **rate of precession** — the difference between the modern astronomical rate (50.29 arcseconds/year) and the astrological-tradition rate (giving 2,160 years per Age) produces approximately 5-10% variation in Age durations
-- The **constellation boundaries** — the IAU-standardised constellation boundaries (defined 1930) differ from the classical astrological boundaries by substantial amounts in some cases
+- **起始參考點** —— 不同傳統使用不同的參考恆星或星座邊界定義
+- **歲差速率** —— 現代天文速率(每年 50.29 角秒)與占星傳統速率(每時代 2,160 年)之間的差異,於時代長度上產生約 5–10% 的變動
+- **星座邊界** —— 國際天文聯合會標準化的星座邊界(1930 年定義)在若干情況下,與古典占星邊界有實質性差異
 
-The framework's adopted reckoning (used consistently across the corpus's entries) uses the astrological-tradition figure of 2,160 years per Age and places the principal Age boundaries at the approximate dates given in the table above. The framework treats the boundary dates as approximate (±200 years), with the substantive interpretive content concerning the Age-specific events and not the precise transition dates.
+文集所採用的計法(於文集條目中一致使用)使用占星傳統的每時代 2,160 年數值,並將主要時代邊界置於上表所示的約略日期。{{ cite(id="the-book-which-tells-the-truth", text="[7]", title="沃里勒翁(雷爾),《道出真相之書》—— 文集年代學框架的主要雷爾派源典") }} 框架將邊界日期視為近似(±200 年),其實質詮釋內容關切的是時代特定事件,而非精確的轉換日期。
 
-## Connections to the broader framework
+## 與更廣框架之連結
 
-The Precession entry connects to a substantial number of other corpus entries.
+歲差條目與文集中相當數量的其他條目相連結。
 
-**The precessional Ages.** The dedicated [Age of Virgo](../timeline/age-of-virgo/), [Age of Leo](../timeline/age-of-leo/), [Age of Cancer](../timeline/age-of-cancer/), [Age of Gemini](../timeline/age-of-gemini/), [Age of Taurus](../timeline/age-of-taurus/), [Age of Aries](../timeline/age-of-aries/), [Age of Pisces](../timeline/age-of-pisces/), [Age of Aquarius](../timeline/age-of-aquarius/), and [Age of Apocalypse](../age-of-apocalypse/) entries develop the specific content of each Age within the precessional framework that the present entry establishes.
+**諸歲差時代。** 專屬的[處女座時代](../timeline/age-of-virgo/)、[獅子座時代](../timeline/age-of-leo/)、[巨蟹座時代](../timeline/age-of-cancer/)、[雙子座時代](../timeline/age-of-gemini/)、[金牛座時代](../timeline/age-of-taurus/)、[白羊座時代](../timeline/age-of-aries/)、[雙魚座時代](../timeline/age-of-pisces/)、[水瓶座時代](../timeline/age-of-aquarius/)以及[啟示錄時代](../age-of-apocalypse/)條目,於本條目所確立的歲差框架之內,發展了每一時代的具體內容。
 
-**Genesis.** The dedicated [Genesis](../genesis/) entry treats the source-tradition reading of the Earth project, with the *yamim* sequence as the precessional structure that the present entry establishes.
+**創世記。** 專屬的[創世記](../genesis/)條目處理源傳統對地球計畫的解讀,而 *yamim* 序列即為本條目所確立之歲差結構。
 
-**World Age.** The dedicated [World Age](../world-age/) entry treats the broader doctrine of cosmic ages in the cross-cultural religious tradition (the Hindu *yuga* cycle, the Hesiodic ages of gold/silver/bronze/iron, the broader cyclical-cosmological tradition). The precession entry establishes the astronomical phenomenon that the framework reads as underlying the World Age doctrine.
+**世界時代。** 專屬的[世界時代](../world-age/)條目處理跨文化宗教傳統中關於宇宙時代的更廣教義(印度教 *yuga* 循環、赫西俄德的金—銀—銅—鐵時代、更廣的循環—宇宙論傳統)。歲差條目確立了框架讀作世界時代教義所據之天文現象。
 
-**The Great Year.** The dedicated [Great Year](../great-year/) entry treats the broader concept of the precessional Great Year as it has been transmitted across the cross-cultural mythological tradition.
+**大年。** 專屬的[大年](../great-year/)條目處理歲差大年此一更廣概念,以其於跨文化神話傳統中被傳遞的方式為據。
 
-**List of megalithic sites.** The dedicated [List of megalithic sites](../list-of-megalithic-sites/) entry treats the substantial archaeoastronomical evidence for ancient awareness of precessional and broader astronomical phenomena. The precession entry establishes the astronomical content that the megalithic alignments preserve.
+**巨石遺址清單。** 專屬的[巨石遺址清單](../list-of-megalithic-sites/)條目處理對古代察覺歲差及更廣天文現象之實質性考古天文證據。歲差條目則確立了巨石對齊所保存的天文內容。
 
-**List of mythemes and mythological motifs.** The dedicated [List of mythemes and mythological motifs](../list-of-mythemes-and-mythological-motifs/) entry treats the broader cross-cultural mythological preservation of astronomical content, including the precessional motifs identified by Santillana and von Dechend.
+**神話素與神話母題清單。** 專屬的[神話素與神話母題清單](../list-of-mythemes-and-mythological-motifs/)條目處理對天文內容更廣的跨文化神話保存,包括桑提拉納與馮·德欽德所識別出的歲差母題。
 
-**The forty-prophets lineage and the broader prophetic record.** The dedicated entries on the principal prophetic figures ([Moses](../moses/), [Elijah](../elijah/), [Jesus](../jesus/), [Muhammad](../muhammad/), etc.) use the precessional Ages to date the principal events of each prophet's life and mission.
+**四十先知譜系與更廣的先知記錄。** 關於主要先知形象的專屬條目([摩西](../moses/)、[以利亞](../elijah/)、[耶穌](../jesus/)、[穆罕默德](../muhammad/)等)使用歲差時代為各先知生平與使命的主要事件斷代。
 
-**The Adamites and the Eden phase.** The dedicated [Adamites](../adamites/) and [Eden](../eden/) entries place the human synthesis and the Eden phase in the Age of Leo on the precessional reckoning.
+**亞當人與伊甸階段。** 專屬的[亞當人](../adamites/)與[伊甸](../eden/)條目依歲差計法將人類合成與伊甸階段置於獅子座時代。
 
-**Cosmic pluralism.** The dedicated [Cosmic pluralism](../cosmic-pluralism/) entry treats the broader cosmological framework within which the precessional reckoning operates.
+**宇宙多元論。** 專屬的[宇宙多元論](../cosmic-pluralism/)條目處理歲差計法所運作於其中的更廣宇宙論框架。
 
-## Open questions
+## 開放問題
 
-The Precession entry surfaces several open questions for the framework's broader interpretive work.
+歲差條目為框架的更廣詮釋工作浮現出若干開放問題。
 
-- **The empirical resolution of the pre-Hipparchian discovery question.** The mainstream-academic position holds that precession was first identified by Hipparchus in approximately 129 BCE. The *Hamlet's Mill* thesis (Santillana and von Dechend 1969) and subsequent archaeoastronomy work substantively contest this position. The framework's adopted reading is broadly sympathetic to the earlier-discovery position but treats the specific empirical resolution as one of the field's principal open questions. Future archaeoastronomical work on specific pre-Hipparchian astronomical content (megalithic alignments, ancient star catalogues, mythological-symbolic transmission) may permit more developed readings.
-- **The specific Elohim use of precession.** The framework's reading of precession as potentially serving the Elohim as a navigation or chronological-calibration aid (per Biglino) is substantively open. The corpus's broader account does not commit to a specific operational use; future corpus work on the operational reading of the Elohim project may permit more developed positions.
-- **The precise dating of the Age transitions.** The framework's adopted reckoning produces approximate boundary dates with ±200-year uncertainty due to the methodological choices involved. Future corpus work on the alignment between the framework's reckoning and the specific source-tradition chronological content may permit more precise dating.
-- **The relationship to the Vedic *yuga* cycles.** The Vedic *yuga* cycles (the *manvantaras*, the *Kali Yuga* / *Dwapara Yuga* / *Treta Yuga* / *Satya Yuga* sequence, the broader *Mahayuga* of 4.32 million years) are substantially longer than the precessional cycle. Whether the shorter Vedic subdivisions preserve precessional content, and what the relationship is between the precessional and *yuga* cosmological frameworks, is treated as open.
-- **The contemporary transition into the Age of Aquarius.** The framework's adopted reckoning places the contemporary period in transition between Pisces and Aquarius, with the precise transition date treated as open. Different astrological-astronomical traditions place this transition variously between approximately 1900 CE and 2700 CE; the framework's adopted reading uses c. 2,160 CE but treats this as approximate.
+- **希帕克斯之前發現問題的經驗解決。** 主流學界立場主張歲差首先由希帕克斯於約公元前 129 年識別。《哈姆雷特磨坊》論點(桑提拉納與馮·德欽德,1969)及其後的考古天文工作實質性地反對此一立場。框架所採用的解讀大致與更早發現的立場同情,但將具體的經驗解決視為該領域的主要開放問題之一。對特定希帕克斯之前天文內容(巨石對齊、古代星表、神話—象徵性傳遞)的未來考古天文工作,或可允許更發達的解讀。
+- **耶洛因對歲差的具體運用。** 框架將歲差讀作可能為耶洛因充當導航或年代學校準輔助(依比格利諾)的解讀,於實質上仍屬開放。文集的更廣敘述並不承諾某一具體運作用途;對耶洛因計畫之運作性解讀的未來文集工作,或可允許更發達的立場。
+- **時代轉換的精確斷代。** 框架所採用的計法,因所涉的方法論選擇,產生具 ±200 年不確定性的近似邊界日期。對於框架計法與特定源傳統年代內容之間對齊的未來文集工作,或可允許更精確的斷代。
+- **與吠陀 *yuga* 循環的關係。** 吠陀 *yuga* 循環(諸 *manvantaras*、*Kali Yuga* / *Dwapara Yuga* / *Treta Yuga* / *Satya Yuga* 序列、更廣的 432 萬年 *Mahayuga*)實質上長於歲差循環。較短的吠陀劃分是否保存了歲差內容,以及歲差與 *yuga* 宇宙論框架之間的關係如何,均視為開放問題。
+- **向水瓶座時代的當代過渡。** 框架所採用的計法將當代時期置於雙魚與水瓶之間的過渡,而精確的轉換日期則視為開放。不同的占星—天文傳統將此一轉換各置於約公元 1900 至 2700 年之間;框架所採用的解讀以約公元 2,160 年為值,但視為近似。
 
-## See also
+## 參見
 
-- [World Age](../world-age/)
-- [Great Year](../great-year/)
-- [Genesis](../genesis/)
-- [Age of Virgo](../timeline/age-of-virgo/)
-- [Age of Leo](../timeline/age-of-leo/)
-- [Age of Cancer](../timeline/age-of-cancer/)
-- [Age of Gemini](../timeline/age-of-gemini/)
-- [Age of Taurus](../timeline/age-of-taurus/)
-- [Age of Aries](../timeline/age-of-aries/)
-- [Age of Pisces](../timeline/age-of-pisces/)
-- [Age of Aquarius](../timeline/age-of-aquarius/)
-- [Age of Apocalypse](../age-of-apocalypse/)
-- [List of megalithic sites](../list-of-megalithic-sites/)
-- [List of mythemes and mythological motifs](../list-of-mythemes-and-mythological-motifs/)
-- [List of exegetic readings](../list-of-exegetic-readings/)
-- [Adamites](../adamites/)
-- [Eden](../eden/)
-- [Cosmic pluralism](../cosmic-pluralism/)
-- [Terraforming](../terraforming/)
+- [世界時代](../world-age/)
+- [大年](../great-year/)
+- [創世記](../genesis/)
+- [處女座時代](../timeline/age-of-virgo/)
+- [獅子座時代](../timeline/age-of-leo/)
+- [巨蟹座時代](../timeline/age-of-cancer/)
+- [雙子座時代](../timeline/age-of-gemini/)
+- [金牛座時代](../timeline/age-of-taurus/)
+- [白羊座時代](../timeline/age-of-aries/)
+- [雙魚座時代](../timeline/age-of-pisces/)
+- [水瓶座時代](../timeline/age-of-aquarius/)
+- [啟示錄時代](../age-of-apocalypse/)
+- [巨石遺址清單](../list-of-megalithic-sites/)
+- [神話素與神話母題清單](../list-of-mythemes-and-mythological-motifs/)
+- [釋經解讀清單](../list-of-exegetic-readings/)
+- [亞當人](../adamites/)
+- [伊甸](../eden/)
+- [宇宙多元論](../cosmic-pluralism/)
+- [地球化](../terraforming/)
 
-## External links
+## 外部連結
 
-- [Axial precession | Wikipedia](https://en.wikipedia.org/wiki/Axial_precession)
-- [Precession of the equinoxes | Britannica](https://www.britannica.com/science/precession-of-the-equinoxes)
-- [Hipparchus | Britannica](https://www.britannica.com/biography/Hipparchus-Greek-astronomer)
-- [Hamlet's Mill | Wikipedia](https://en.wikipedia.org/wiki/Hamlet%27s_Mill)
-- [Astrological age | Wikipedia](https://en.wikipedia.org/wiki/Astrological_age)
-- [Milankovitch cycles | Wikipedia](https://en.wikipedia.org/wiki/Milankovitch_cycles)
+- [地軸歲差 | 維基百科](https://en.wikipedia.org/wiki/Axial_precession)
+- [分點歲差 | 大英百科全書](https://www.britannica.com/science/precession-of-the-equinoxes)
+- [希帕克斯 | 大英百科全書](https://www.britannica.com/biography/Hipparchus-Greek-astronomer)
+- [哈姆雷特磨坊 | 維基百科](https://en.wikipedia.org/wiki/Hamlet%27s_Mill)
+- [占星時代 | 維基百科](https://en.wikipedia.org/wiki/Astrological_age)
+- [米蘭科維奇循環 | 維基百科](https://en.wikipedia.org/wiki/Milankovitch_cycles)
 
-## References
+## 參考文獻
 
-Vorilhon, Claude (Raël). *Le Livre qui dit la vérité* (1974) and *Les extra-terrestres m'ont emmené sur leur planète* (1976), collected as *Message from the Designers* (Raëlian Foundation, current English edition). [Primary source for the framework's broader reading; precession itself is not explicitly developed in the Vorilhon source material, but the chronological framework the corpus adopts is consistent with the broader source-material content.]
+沃里勒翁,克勞德(雷爾)。《道出真相之書》(*Le Livre qui dit la vérité*,1974)與《外星人帶我去他們的星球》(*Les extra-terrestres m'ont emmené sur leur planète*,1976),合輯為《設計者的訊息》(雷爾派基金會,現行英文版本)。[框架更廣解讀的主要源典;沃里勒翁的源材料本身並未明確發展歲差,但文集所採用的年代學框架與更廣源材料內容一致。]
 
-Santillana, Giorgio de, and Hertha von Dechend. *Hamlet's Mill: An Essay on Myth and the Frame of Time*. Boston: Gambit, 1969. [The foundational scholarly engagement with the thesis that pre-Hipparchian global mythology systematically encodes precessional astronomical content. The principal external reference for the framework's broader reading of precession's mythological significance.]
+桑提拉納,吉奧爾喬·德與赫莎·馮·德欽德。《哈姆雷特磨坊:神話與時間框架之論》。波士頓:Gambit,1969。[對「希帕克斯之前的全球神話系統性編碼了歲差天文內容」此一論點的奠基性學術介入。框架對歲差神話意義之更廣解讀的主要外部參照。]
 
-Biglino, Mauro. *Il libro che cambierà per sempre le nostre idee sulla Bibbia*. Mondadori, 2011. [Source of the framework-relevant Biglino reading of precession as potentially serving as Elohim/Anunnaki navigation infrastructure.]
+比格利諾,毛羅。《將永遠改變我們對聖經之看法的書》(*Il libro che cambierà per sempre le nostre idee sulla Bibbia*)。Mondadori,2011。[與框架相關之比格利諾解讀的來源 —— 即歲差可能為耶洛因/阿努納奇充當導航基礎設施。]
 
-Biglino, Mauro. *La Bibbia non è un libro sacro: Il falso letterario che ha fondato due religioni*. Mondadori, 2012.
+比格利諾,毛羅。《聖經不是聖書:奠基兩種宗教的文學偽作》(*La Bibbia non è un libro sacro: Il falso letterario che ha fondato due religioni*)。Mondadori,2012。
 
-Ptolemy, Claudius. *Almagest* (*Mathematical Syntaxis*). c. 150 CE. Standard English translation: *Ptolemy's Almagest*, translated by G. J. Toomer. Princeton University Press, 1998. [The principal ancient source for Hipparchus's discovery of precession, preserved through Ptolemy's extensive citations.]
+托勒密,克勞狄烏斯。《天文學大成》(*Mathematical Syntaxis*)。約公元 150 年。標準英譯:《托勒密的天文學大成》,G. J. 圖默譯。普林斯頓大學出版社,1998。[希帕克斯歲差發現的主要古代來源,透過托勒密廣泛的引用得以保存。]
 
-Newton, Isaac. *Philosophiæ Naturalis Principia Mathematica*. London, 1687. Book III, Propositions XXXIX-XLI. [The foundational mechanical explanation of precession.]
+牛頓,艾薩克。《自然哲學的數學原理》。倫敦,1687。第三編,命題 XXXIX–XLI。[歲差的奠基性機械解釋。]
 
-Evans, James. *The History and Practice of Ancient Astronomy*. Oxford University Press, 1998. [The standard contemporary academic history of ancient astronomy, with substantial treatment of Hipparchus and precession.]
+埃文斯,詹姆斯。《古代天文學的歷史與實踐》。牛津大學出版社,1998。[古代天文學的標準當代學術史,對希帕克斯與歲差有實質處理。]
 
-Neugebauer, Otto. *A History of Ancient Mathematical Astronomy*. 3 vols. Springer-Verlag, 1975. [The foundational scholarly history of pre-modern astronomy.]
+紐格鮑爾,奧托。《古代數理天文學史》。三卷本。Springer-Verlag,1975。[前現代天文學的奠基性學術史。]
 
-Toomer, G. J. "Hipparchus." In *Dictionary of Scientific Biography*, edited by Charles Coulston Gillispie, vol. 15 (supplement I), pp. 207–224. New York: Scribner, 1978.
+圖默,G. J.〈希帕克斯〉,收入《科學傳記辭典》,查爾斯·考爾斯頓·吉利斯皮編,第 15 卷(補編 I),頁 207–224。紐約:Scribner,1978。
 
-Ulansey, David. *The Origins of the Mithraic Mysteries: Cosmology and Salvation in the Ancient World*. Oxford University Press, 1989. [The substantive scholarly treatment of precession in the context of Mithraic mysteries; one of the principal contemporary scholarly engagements with the broader thesis that ancient religious tradition preserves precessional content.]
+烏蘭西,大衛。《密特拉密儀的起源:古代世界的宇宙論與救贖》。牛津大學出版社,1989。[在密特拉密儀脈絡中對歲差的實質學術論述;為古代宗教傳統保存歲差內容此一更廣論點之主要當代學術介入之一。]
 
-Krupp, E. C. *In Search of Ancient Astronomies*. Doubleday, 1978.
+克魯普,E. C.《尋找古代天文學》。Doubleday,1978。
 
-Krupp, E. C. *Echoes of the Ancient Skies: The Astronomy of Lost Civilizations*. Harper & Row, 1983.
+克魯普,E. C.《古代天空的回聲:已逝文明的天文學》。Harper & Row,1983。
 
-Schaefer, Bradley E. "The Latitude and Epoch for the Origin of the Astronomical Lore of Eudoxus." *Journal for the History of Astronomy* 35, no. 2 (2004): 161–223. [Substantive archaeoastronomical work bearing on the question of pre-Hipparchian astronomical observation.]
+舍弗,布拉德利·E.〈歐多克索斯天文學知識起源的緯度與曆元〉。《天文學史雜誌》35 卷 2 期(2004):161–223。[與希帕克斯之前天文觀測問題相關的實質性考古天文工作。]
 
-Sendy, Jean. *La Lune, clé de la Bible*. Julliard, 1968. [The principal neo-euhemerist engagement with the precessional structure of the Hebrew Bible's chronological content.]
+桑迪,讓。《月亮,聖經之鑰》(*La Lune, clé de la Bible*)。Julliard,1968。[新唯人論對希伯來聖經年代內容之歲差結構的主要介入。]
 
-Sendy, Jean. *Ces dieux qui firent le ciel et la terre*. Robert Laffont, 1969.
+桑迪,讓。《創造天地的諸神》(*Ces dieux qui firent le ciel et la terre*)。Robert Laffont,1969。
 
-Hancock, Graham. *Fingerprints of the Gods: The Evidence of Earth's Lost Civilization*. Crown, 1995. [The principal popular treatment of the broader archaeoastronomical thesis that pre-Hipparchian civilisations possessed substantial astronomical knowledge.]
+漢考克,葛瑞姆。《諸神的指紋:地球失落文明的證據》(*Fingerprints of the Gods: The Evidence of Earth's Lost Civilization*)。Crown,1995。[對「希帕克斯之前的文明擁有實質性天文知識」此一更廣考古天文論點的主要通俗論述。]
 
-Bauval, Robert, and Adrian Gilbert. *The Orion Mystery: Unlocking the Secrets of the Pyramids*. Crown, 1994. [The principal popular treatment of the Egyptian-pyramid archaeoastronomical thesis.]
+包瓦爾,羅伯特與阿德里安·吉爾伯特。《獵戶座之謎:破解金字塔的祕密》。Crown,1994。[對埃及金字塔考古天文論點的主要通俗論述。]
 
-Schoch, Robert M. *Forgotten Civilization: The Role of Solar Outbursts in Our Past and Future*. Inner Traditions, 2012.
+肖赫,羅伯特·M.《被遺忘的文明:太陽爆發於我們的過去與未來中的角色》。Inner Traditions,2012。
 
-"Axial precession." *Wikipedia*. <https://en.wikipedia.org/wiki/Axial_precession>
+〈地軸歲差〉。《維基百科》。<https://en.wikipedia.org/wiki/Axial_precession>
 
-"Precession of the equinoxes." *Britannica*. <https://www.britannica.com/science/precession-of-the-equinoxes>
+〈分點歲差〉。《大英百科全書》。<https://www.britannica.com/science/precession-of-the-equinoxes>
 
-"Hipparchus." *Wikipedia*. <https://en.wikipedia.org/wiki/Hipparchus>
+〈希帕克斯〉。《維基百科》。<https://en.wikipedia.org/wiki/Hipparchus>
 
-"Hamlet's Mill." *Wikipedia*. <https://en.wikipedia.org/wiki/Hamlet%27s_Mill>
+〈哈姆雷特磨坊〉。《維基百科》。<https://en.wikipedia.org/wiki/Hamlet%27s_Mill>
 
-"Astrological age." *Wikipedia*. <https://en.wikipedia.org/wiki/Astrological_age>
+〈占星時代〉。《維基百科》。<https://en.wikipedia.org/wiki/Astrological_age>
 
-"Milankovitch cycles." *Wikipedia*. <https://en.wikipedia.org/wiki/Milankovitch_cycles>
+〈米蘭科維奇循環〉。《維基百科》。<https://en.wikipedia.org/wiki/Milankovitch_cycles>

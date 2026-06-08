@@ -1,531 +1,607 @@
 +++
 title = "Wheel of Heaven"
-description = "Wheel of Heaven (en español literalmente \"Rueda del Cielo\", pero utilizado en el corpus como nombre propio sin traducir) es tanto el nombre del presente proyecto de investigación y de la base de conocimiento asociada como una configuración conceptual central de la tradición del corpus — la imagen de la configuración cósmica del tiempo, cíclica y organizada geométricamente de manera simétrica, generada por la precesión del eje de rotación de la Tierra a lo largo del Gran Año y de las doce eras precesionales. El concepto enlaza con la tradición mitológica transcultural de la Rueda del Mundo (el védico *kalachakra*; el tibetano-budista *Kālacakra*; el jainista *kalachakra*; la medieval-europea *rota fortunae*; el modelo hesiódico de las cuatro edades) y representa en el corpus la geometría organizadora del tiempo en cuyo marco se localizan la historia operativa del proyecto Tierra y el encuentro venidero del Apocalipsis. El propio proyecto se llama Wheel of Heaven porque su configuración interpretativa central se estructura mediante la misma geometría temporal cíclico-precesional."
+slug = "wheel-of-heaven"
+description = "Wheel of Heaven es un proyecto curado de conocimiento comparativo — al mismo tiempo el nombre de un marco interpretativo y el del corpus que lo articula — centrado en la revelación, la cronología cósmica, la memoria antigua, la historia sagrada y la reinterpretación moderna. La hipótesis de trabajo del proyecto: la vida terrestre fue producida por la labor científica deliberada de una civilización avanzada específica, llamada en la Biblia hebrea los *Elohim*, que llegó a la Tierra hace aproximadamente 22.000 años y llevó a cabo, a lo largo de las eras precesionales subsiguientes, un proyecto de preparación planetaria, síntesis de vida y, finalmente, creación de la humanidad a su propia imagen. El marco se nutre principalmente del material fuente raeliano (los relatos de contacto de Claude Vorilhon de 1973-1975), de la obra pre-raeliana de Jean Sendy (el marco más amplio de la «Tradición»), de la reconstrucción mitológico-precesional articulada en «El molino de Hamlet» (1969) de Giorgio de Santillana y Hertha von Dechend, y de un amplio conjunto transcultural de evidencias religioso-mitológico-iconográfico-arqueológico-textuales leídas como memoria cultural preservada del proyecto. El nombre «Wheel of Heaven» encierra un doble significado: en su sentido principal, el ciclo precesional (~25.920 años) a lo largo del cual el equinoccio vernal gira contra el fondo zodiacal, que organiza el relato del corpus en doce eras; secundariamente, la imagen de la rueda dentro de la rueda preservada en la visión de Ezequiel (אוֹפַן בְּתוֹךְ הָאוֹפָן, *ofan betokh ha-ofan*) como uno de varios pasajes de la Biblia hebrea que registran la observación de naves Elohim en un vocabulario pre-científico. El corpus no es una síntesis definitiva sino una etapa más en un proyecto colectivo de integración en curso, esperándose que la obra más amplia continúe a lo largo de las próximas décadas mediante el desarrollo del corpus mismo y mediante el trabajo paralelo de otros autores y tradiciones."
 template = "wiki-page.html"
 toc = true
 
 [extra]
-translation_status = "metadata_only"
+featured_order = 4
 category = "Meta"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["the Wheel of Heaven framework", "the Wheel of Heaven corpus", "the Wheel of Heaven project", "the Wheel of Heaven thesis", "the framework (corpus-internal short form)", "the corpus (when referring to the written body of project content)"]
+alternative_names = ["el marco Wheel of Heaven", "el corpus Wheel of Heaven", "el proyecto Wheel of Heaven", "la tesis Wheel of Heaven", "el marco (forma breve interna al corpus)", "el corpus (al referirse al cuerpo escrito de los contenidos del proyecto)"]
+see_also = [
+    { title = "La Tradición", path = "wiki/the-tradition", description = "La corriente más amplia de lecturas comparativas en la que se inscribe el proyecto." },
+    { title = "Método Biglino", path = "wiki/biglino-method", description = "Una aproximación literalista a la lectura del hebreo de la que se nutre el proyecto." },
+    { title = "Mitología Comparada", path = "wiki/comparative-mythology", description = "La disciplina académica que el proyecto aplica a la lectura interna al canon." },
+    { title = "Mitema", path = "wiki/mytheme", description = "La unidad de análisis comparativo que el proyecto utiliza para rastrear motivos a través de las tradiciones." },
+    { title = "Condiciones de coherencia de Sendy", path = "wiki/sendys-conditions-of-coherence", description = "Las restricciones interpretativas que el proyecto trata de satisfacer al leer los textos sagrados." },
+]
 timeline = ["multi-age"]
 
+footnotes = [
+    { content = "La cifra de ~25.920 años para el Gran Año es un redondeo interno al marco: doce eras precesionales de exactamente 2.160 años cada una. El valor astronómico contemporáneo del período de la precesión axial, calculado a partir de los modelos de precesión-nutación de la IAU 2006, es de aproximadamente 25.772 años — y se trata, en sí mismo, de una cifra que varía lentamente más que de una constante estricta, dado que la tasa de precesión se ve afectada por cambios a largo plazo en la geometría orbital de la Tierra y en el par lunisolar. La preferencia del corpus por 25.920 refleja la conveniencia organizadora del marco (doce eras iguales) más que una afirmación de que el ciclo sea literalmente de 25.920 años; la diferencia es de aproximadamente un 0,6 %." },
+    { content = "La imagen de la rueda dentro de la rueda de Ezequiel 1:15-16 cuenta con una larga historia interpretativa judía y cristiana que no exige la lectura como nave espacial. La principal tradición judía lee los *ofanim* como uno de los órdenes de seres celestes en la tradición de la *merkavah* (carro-trono), con la literatura *Hekhalot* y la posterior elaboración maimonidiana y cabalística desarrollando la imagen como una visión de la estructura de la realidad divina. La erudición bíblica dominante — el comentario de Greenberg en la Anchor Bible, el volumen de Block en NICOT — lee el pasaje como retórica visionario-profética más que como descripción literal. La lectura del corpus toma la especificidad mecánica de la descripción (el movimiento entrelazado de las ruedas, los aros llenos de ojos, el desplazamiento sin rotación) como evidencia de observación más que de retórica, sin afirmar que las tradiciones interpretativas estándar se equivoquen respecto al género visionario." },
+    { content = "La cifra aproximada de cuarenta profetas es una afirmación interna a la fuente, extraída de las transcripciones de Vorilhon, y no se deriva de recuentos externos de las tradiciones religiosas. Las distintas tradiciones cuentan a los profetas de manera diferente — la tradición islámica habla de veinticinco profetas nombrados en el Corán frente a un corpus más amplio de 124.000 enviados a lo largo de la historia humana; la Biblia hebrea nombra explícitamente a dieciocho figuras designadas como *navi* a lo largo de los libros canónicos; la tradición bahá'í cuenta con nueve Manifestaciones centrales. El corpus trata la cifra como la enumeración hecha por el propio Yahvé de los intermediarios enviados por la alianza, según el relato de la fuente, y no como un número convertible o derivable a partir del registro profético de una sola tradición." },
+    { content = "Si el culto a Atón de Akhenatón constituyó un monoteísmo genuino, un henoteísmo o una monolatría políticamente motivada sigue siendo objeto de discusión entre los egiptólogos. Cyril Aldred (1988) lee la reforma atenista como auténticamente monoteísta en su fase madura. Donald Redford (1984) subraya las dimensiones político-económicas — el golpe contra el sacerdocio de Amón en Karnak — por encima de las teológicas. Erik Hornung (1999) trata la reforma como un *henoteísmo* en el que los otros dioses no eran negados, sino que quedaban funcionalmente inertes bajo el disco solar universal. El corpus no se compromete con la cuestión del monoteísmo atenista en ninguna dirección; la conexión propuesta entre la rueda celeste y un vehículo se registra como una tradición la lee, mientras se reconoce que la literatura egiptológica principal no contiene atestación textual directa de la terminología específica." },
+    { content = "El marco del corpus opera de manera ortogonal a las reconstrucciones específicas de fuentes de la Hipótesis Documental (J / E / D / P, así como los diversos refinamientos posteriores hasta Van Seters, Rendtorff, Schmid y la tradición post-Wellhausen más amplia). Si el Pentateuco se ensambló a partir de cuatro documentos fuente discretos, a partir de capas suplementarias en torno a un núcleo yahvista o sacerdotal, o mediante procesos fragmentario-redaccionales, es una cuestión interna a la metodología crítico-textual; la lectura del marco atiende a aquello que el texto superviviente preserva sobre sus referentes más que a la historia compositiva que produjo ese texto. Las dos cuestiones son independientes: un texto podría ser compositivamente complejo en cualquiera de los modos que la tradición crítico-textual ha propuesto y aun así preservar el tipo de contenido histórico-referencial que el marco le atribuye." },
+]
+
+[[extra.references]]
+id = "the-book-which-tells-the-truth"
+note = "Texto raeliano fundacional de Vorilhon, de 1974 — la fuente principal del contenido específico del marco; primer contacto en Clermont-Ferrand el 13 de diciembre de 1973."
+
+[[extra.references]]
+id = "extraterrestrials-took-me-to-their-planet"
+note = "Segunda obra raeliana de Vorilhon, de 1976 — registro de la visita del Périgord de octubre de 1975 y de la exposición de Yahvé sobre el mundo de origen."
+
+[[extra.references]]
+id = "lets-welcome-the-extraterrestrials"
+note = "Tercera obra raeliana de Vorilhon, de 1979 — el proyecto de la embajada y el papel humano en la transición acuariana."
+
+[[extra.references]]
+id = "intelligent-design-message-from-the-designers"
+note = "La compilación recopilatoria de las fuentes raelianas; citada como la principal articulación de la afirmación alianza-creadora que organiza la hipótesis de trabajo del corpus."
+
+[[extra.references]]
+id = "those-gods-who-made-heaven-and-earth"
+note = "Lectura filológica pre-raeliana de Sendy, de 1969, de los Elohim como una civilización física — articulación previa sustancial del marco de la Tradición."
+
+[[extra.references]]
+id = "the-coming-of-the-gods"
+note = "*L'Ère du Verseau* de Sendy (1970) — el encuadre de la era acuariana dentro del marco de la Tradición, fundacional para la lectura precesional-zodiacal de la Biblia hebrea del corpus."
+
+[[extra.references]]
+id = "hamlets-mill"
+note = "Obra fundacional de Santillana y von Dechend, de 1969, anclaje académico principal para la lectura mitológico-precesional del corpus."
+
+[[extra.references]]
+id = "ezekiel"
+note = "Libro de la Biblia hebrea que proporciona la imagen de la rueda dentro de la rueda (Ezequiel 1:15-16) que ancla la dimensión semántica secundaria del nombre del proyecto."
+
+[[extra.references]]
+id = "genesis"
+note = "Libro de la Biblia hebrea cuya narrativa de la creación el corpus lee como memoria cultural comprimida del proyecto de ingeniería genética de la alianza."
+
+[[extra.references]]
+id = "the-12th-planet"
+note = "Obra fundacional de Sitchin, de 1976, en el marco Anunnaki / Nibiru — abordada como una lectura adyacente de historia alternativa, con dirección compartida pero con un soporte de material fuente distinto."
+
+[[extra.references]]
+id = "escaping-from-eden"
+note = "Lectura comparativa de traducción estricta de los Elohim de la Biblia hebrea, hecha por Wallis en 2020 — abordada como un marco adyacente que registra una dirección compartida."
+
+[[extra.references]]
+id = "the-naked-bible"
+note = "Trabajo de traducción estrictamente literal del hebreo de Biglino y Cattaneo (2022) — trasfondo metodológico para el compromiso más amplio de traducción estricta de Wallis."
+
+[[extra.references]]
+id = "prolegomena-zur-geschichte-israels"
+note = "Articulación fundacional de Wellhausen, de 1878, de la Hipótesis Documental — anclaje para el compromiso del corpus con la erudición crítico-textual dominante de la Biblia hebrea."
+
+[[extra.references]]
+id = "who-wrote-the-bible"
+note = "Replanteamiento accesible de la Hipótesis Documental hecho por Friedman en 1987 — punto de referencia del corpus para la erudición crítica contemporánea."
+
+[[extra.references]]
+id = "the-zohar-pritzker"
+note = "Traducción de Matt en la Pritzker Edition del Zohar (2003-2017) — punto de acceso académico estándar para el compromiso del corpus con la Cábala."
+
 [extra.infobox]
-type = "Curated comparative knowledge project; interpretive framework for the integrated reading of revelation, cosmic chronology, ancient memory, sacred history, and modern reinterpretation"
+type = "Proyecto curado de conocimiento comparativo; marco interpretativo para la lectura integrada de la revelación, la cronología cósmica, la memoria antigua, la historia sagrada y la reinterpretación moderna"
 project_url = "https://www.wheelofheaven.world"
-project_status = "Active; ongoing development across multiple workstreams (wiki, library, blog, narrated introduction)"
-working_hypothesis = "Terrestrial life was produced by the deliberate scientific work of a specific advanced civilization, called in the Hebrew Bible the Elohim, who arrived on Earth approximately 22,000 years ago and conducted across twelve precessional ages a project of planetary preparation, life synthesis, and the eventual creation of humanity in their own image"
-principal_source_families = "Raëlian canonical texts (Claude Vorilhon, 1974 onward); Jean Sendy's pre-Raëlian Tradition framework (1963 onward); the precessional-mythological reconstruction of *Hamlet's Mill* (Santillana and von Dechend, 1969); the Hebrew Bible read with framework-specific hermeneutic; cross-cultural religious-mythological-archaeological evidence"
-principal_temporal_framework = "The precessional cycle (~25,920-year Great Year) divided into twelve precessional ages of approximately 2,160 years each; the corpus operational period extends from the Capricorn-age opening at -21,810 to the present Aquarian age (1950 corpus boundary, 1946 source-anchored boundary)"
-name_meaning_principal = "The precessional cycle as the 'wheel of heaven' that turns through the twelve zodiacal constellations across the Great Year; the principal organizing temporal-cosmological framework of the corpus"
-name_meaning_secondary = "The wheel-within-a-wheel imagery of Ezekiel's vision (Ezekiel 1:16, אוֹפַן בְּתוֹךְ הָאוֹפָן, *ofan betokh ha-ofan*) and broader Hebrew Bible spacecraft-imagery preserved in pre-scientific vocabulary"
-distinguished_from = "The Raëlian Movement (the corpus draws on Raëlian source material but is not affiliated with the institutional Raëlian Movement and does not require Raëlian commitments of its readers); Sendy's pre-Raëlian Tradition framework (the corpus extends Sendy's work substantially while retaining its principal interpretive moves); the broader 'ancient aliens' popular-television tradition (the corpus operates with substantially distinct epistemic standards and source-material discipline); mainstream comparative-religion scholarship (the corpus engages mainstream scholarship substantively but operates from distinctive interpretive commitments)"
-governance_documents = "Project Charter; Editorial Style Guide; Chronology Rules; Nomenclature; Source Methodology; Chapter Index; Master Timeline"
-status_in_framework = "Foundational meta-concept; the entry that articulates what the broader project IS, what it draws on, what it claims, and how it operates"
+project_status = "Activo; desarrollo en curso a través de múltiples flujos de trabajo (wiki, biblioteca, blog, introducción narrada)"
+working_hypothesis = "La vida terrestre fue producida por la labor científica deliberada de una civilización avanzada específica, llamada en la Biblia hebrea los Elohim, que llegó a la Tierra hace aproximadamente 22.000 años y llevó a cabo, a lo largo de doce eras precesionales, un proyecto de preparación planetaria, síntesis de vida y, finalmente, creación de la humanidad a su propia imagen"
+principal_source_families = "Textos canónicos raelianos (Claude Vorilhon, desde 1974); marco pre-raeliano de la Tradición de Jean Sendy (desde 1963); la reconstrucción mitológico-precesional de *El molino de Hamlet* (Santillana y von Dechend, 1969); la Biblia hebrea leída con la hermenéutica específica del marco; evidencias religioso-mitológico-arqueológicas transculturales"
+principal_temporal_framework = "El ciclo precesional (Gran Año de ~25.920 años) dividido en doce eras precesionales de aproximadamente 2.160 años cada una; el período operativo del corpus se extiende desde la apertura de la Era de Capricornio en el -21.810 hasta la actual Era de Acuario (frontera del corpus en 1950, frontera anclada en la fuente en 1946)"
+name_meaning_principal = "El ciclo precesional como la «rueda del cielo» que gira a través de las doce constelaciones zodiacales a lo largo del Gran Año; el marco temporal-cosmológico organizador principal del corpus"
+name_meaning_secondary = "La imagen de la rueda dentro de la rueda de la visión de Ezequiel (Ezequiel 1:16, אוֹפַן בְּתוֹךְ הָאוֹפָן, *ofan betokh ha-ofan*) y la imaginería más amplia de naves espaciales en la Biblia hebrea preservada en un vocabulario pre-científico"
+distinguished_from = "El Movimiento Raeliano (el corpus se nutre del material fuente raeliano pero no está afiliado al Movimiento Raeliano institucional y no exige a sus lectores compromisos raelianos); el marco pre-raeliano de la Tradición de Sendy (el corpus extiende sustancialmente la obra de Sendy conservando sus principales movimientos interpretativos); la tradición popular-televisiva más amplia de los «antiguos extraterrestres» (el corpus opera con estándares epistémicos y de disciplina sobre el material fuente sustancialmente distintos); la erudición de mitología comparada dominante (el corpus se compromete sustancialmente con la erudición dominante pero opera desde compromisos interpretativos distintivos)"
+governance_documents = "Carta del Proyecto; Guía de Estilo Editorial; Reglas de Cronología; Nomenclatura; Metodología de Fuentes; Índice de Capítulos; Línea de Tiempo Maestra"
+status_in_framework = "Meta-concepto fundacional; la entrada que articula qué ES el proyecto en su conjunto, en qué se apoya, qué afirma y cómo opera"
 +++
 
-**Wheel of Heaven** is a curated comparative knowledge project — both the name of an interpretive framework and the corpus that articulates it. The project is centered on revelation, cosmic chronology, ancient memory, sacred history, and modern reinterpretation, with the corpus assembling and integrating a wide body of religious-mythological-textual-archaeological evidence within a single coherent interpretive framework. The project exists as a public-facing web platform at **www.wheelofheaven.world**, supported by an extensive wiki, a library of curated source materials, a narrated introduction, and an ongoing blog tracking developments.
+**Wheel of Heaven** es un proyecto curado de conocimiento comparativo — al mismo tiempo el nombre de un marco interpretativo y el del corpus que lo articula. El proyecto se centra en la revelación, la cronología cósmica, la memoria antigua, la historia sagrada y la reinterpretación moderna, y el corpus reúne e integra un amplio cuerpo de evidencias religioso-mitológico-textual-arqueológicas dentro de un único marco interpretativo coherente. El proyecto existe como plataforma web pública en **www.wheelofheaven.world**, sostenida por una extensa wiki, una biblioteca de materiales fuente curados, una introducción narrada y un blog en curso que sigue los acontecimientos.
 
-The project's **working hypothesis**: terrestrial life was produced by the deliberate scientific work of a specific advanced civilization, called in the Hebrew Bible the **Elohim** (אֱלֹהִים, plural of *Eloha*), who arrived on Earth approximately 22,000 years ago and conducted across the subsequent precessional ages a project of planetary preparation, life synthesis, and the eventual creation of humanity in their own image. The hypothesis is provisional in the technical sense — *a working hypothesis*, advanced as a basis for further research — and the corpus is structured to support its ongoing investigation rather than to assert it as settled. The corpus distinguishes throughout between direct source claims, comparative observations, framework-specific interpretive synthesis, and open questions.
+La **hipótesis de trabajo** del proyecto: la vida terrestre fue producida por la labor científica deliberada de una civilización avanzada específica, llamada en la {% wiki(slug="bible") %}Biblia{% end %} hebrea los **Elohim** (אֱלֹהִים, plural de *Eloha*), que llegó a la Tierra hace aproximadamente 22.000 años y llevó a cabo, a lo largo de las eras precesionales subsiguientes, un proyecto de preparación planetaria, síntesis de vida y, finalmente, creación de la humanidad a su propia imagen. La hipótesis es provisional en el sentido técnico — *una hipótesis de trabajo*, propuesta como base para investigaciones ulteriores — y el corpus está estructurado para sostener su investigación continuada más que para afirmarla como cerrada. El corpus distingue en todo momento entre afirmaciones directas de las fuentes, observaciones comparativas, síntesis interpretativa específica del marco y cuestiones abiertas.
 
-The framework draws on four principal source families. **Raëlian canonical texts** — principally *The Book Which Tells the Truth* (1974), *Extra-Terrestrials Took Me to Their Planet* (1975), and *Let's Welcome the Extra-Terrestrials* (1979), collected as *Message from the Designers* — provide the most direct articulation of the framework's specific content, derived from Claude Vorilhon's December 1973 and October 1975 contact accounts. **Jean Sendy's pre-Raëlian work** — principally *Les cahiers de cours de Moïse* (1963), *La Lune, clé de la Bible* (1968), *Ces dieux qui firent le ciel et la terre* (1969), and *L'ère du Verseau* (1970) — provides substantive prior articulation of the broader Tradition framework, with particular attention to Hebrew Bible exegesis through the precessional-zodiacal lens. ***Hamlet's Mill*** by Giorgio de Santillana and Hertha von Dechend (1969) provides the principal scholarly anchor for the framework's precessional-mythological reading. **Cross-cultural religious-mythological-archaeological evidence** — drawn from Hebrew Bible, broader Mesopotamian, Egyptian, Greek, Vedic, Mesoamerican, Chinese, and various other traditions — supplies the comparative material the framework reads as preserved cultural memory of the project's various phases.
+El marco se nutre de cuatro familias principales de fuentes. **Los textos canónicos raelianos** — principalmente *El libro que dice la verdad* (1974),{{ cite(id="the-book-which-tells-the-truth", text="[1]", title="Vorilhon (Raël), *El libro que dice la verdad* (1974) — texto raeliano fundacional que registra el contacto de diciembre de 1973 en Clermont-Ferrand") }} *Los extraterrestres me llevaron a su planeta* (1975){{ cite(id="extraterrestrials-took-me-to-their-planet", text="[2]", title="Vorilhon (Raël), *Los extraterrestres me llevaron a su planeta* (1976) — registro de la visita del Périgord de octubre de 1975 y la exposición del mundo de origen") }} y *Acojamos a los extraterrestres* (1979),{{ cite(id="lets-welcome-the-extraterrestrials", text="[3]", title="Vorilhon (Raël), *Acojamos a los extraterrestres* (1979) — proyecto de la embajada y transición a la era acuariana") }} reunidos en *Mensaje de los Diseñadores*{{ cite(id="intelligent-design-message-from-the-designers", text="[4]", title="Vorilhon (Raël), *Diseño Inteligente: Mensaje de los Diseñadores* — la compilación recopilatoria de las fuentes raelianas") }} — proporcionan la articulación más directa del contenido específico del marco, derivado de los relatos de contacto de Claude Vorilhon de diciembre de 1973 y octubre de 1975. **La obra pre-raeliana de Jean Sendy** — principalmente *Les cahiers de cours de Moïse* (1963), *La Lune, clé de la Bible* (1968), *Ces dieux qui firent le ciel et la terre* (1969){{ cite(id="those-gods-who-made-heaven-and-earth", text="[5]", title="Sendy, *Ces dieux qui firent le ciel et la terre* (1969) / *Esos dioses que hicieron el cielo y la tierra* — lectura filológica pre-raeliana de los Elohim como civilización física") }} y *L'ère du Verseau* (1970){{ cite(id="the-coming-of-the-gods", text="[6]", title="Sendy, *L'Ère du Verseau* / *La venida de los dioses* (1970) — el encuadre de la era acuariana dentro del marco de la Tradición") }} — proporciona una articulación previa sustancial del marco más amplio de la Tradición, con especial atención a la exégesis de la Biblia hebrea a través de la lente precesional-zodiacal. ***El molino de Hamlet***, de Giorgio de Santillana y Hertha von Dechend (1969),{{ cite(id="hamlets-mill", text="[7]", title="de Santillana y von Dechend, *El molino de Hamlet* (1969) — anclaje académico fundacional para la lectura mitológico-precesional") }} proporciona el principal anclaje académico para la lectura mitológico-precesional del marco. Las **evidencias religioso-mitológico-arqueológicas transculturales** — extraídas de la Biblia hebrea y de las tradiciones mesopotámica, egipcia, griega, védica, mesoamericana, china y otras — suministran el material comparativo que el marco lee como memoria cultural preservada de las distintas fases del proyecto.
 
-The name **Wheel of Heaven** carries a dual meaning. Principally, the wheel of heaven is the **precessional cycle** — the slow rotation of the vernal-equinox point through the twelve zodiacal constellations across the ~25,920-year Great Year, organizing the corpus's twelve-age narrative architecture. The corpus articulation: *"The image at the heart of this work is the wheel of heaven. The wheel is the precessional cycle, the slow rotation of the sky's apparent orientation across the twenty-five thousand nine hundred and twenty years of the Great Year."* Secondarily, the wheel of heaven echoes the **wheel-within-a-wheel imagery** preserved in Ezekiel's vision (Ezekiel 1:16, אוֹפַן בְּתוֹךְ הָאוֹפָן, *ofan betokh ha-ofan*) as one of several Hebrew Bible passages registering Elohim spacecraft observation in pre-scientific vocabulary. Both meanings register substantively within the broader framework — the primary as foundational temporal-cosmological architecture, the secondary as one of the principal source-textual anchors for the framework's spacecraft-imagery reading.
+El nombre **Wheel of Heaven** encierra un doble significado. Principalmente, la rueda del cielo es el **ciclo precesional** — la lenta rotación del punto equinoccial vernal a través de las doce constelaciones zodiacales a lo largo del {% wiki(slug="great-year") %}Gran Año{% end %} de ~25.920 años, que organiza la arquitectura narrativa del corpus en doce eras. La articulación del corpus: *«La imagen en el corazón de esta obra es la rueda del cielo. La rueda es el ciclo precesional, la lenta rotación de la orientación aparente del firmamento a lo largo de los veinticinco mil novecientos veinte años del Gran Año.»* Secundariamente, la rueda del cielo evoca la **imagen de la rueda dentro de la rueda** preservada en la visión de Ezequiel ({% libref(book="ezekiel-woh", chapter=1, verse=16) %}Ezequiel 1:16{% end %}, אוֹפַן בְּתוֹךְ הָאוֹפָן, *ofan betokh ha-ofan*) como uno de varios pasajes de la Biblia hebrea que registran la observación de naves Elohim en un vocabulario pre-científico. Ambos significados se registran sustancialmente dentro del marco más amplio — el principal como arquitectura temporal-cosmológica fundacional, el secundario como uno de los principales anclajes textuales para la lectura del marco de la imaginería de naves espaciales.
 
-The corpus is not a final synthesis but one stage in an ongoing collective project of integration. The corpus's own articulation: *"The present corpus is not the final synthesis. It is one stage in an ongoing project that will continue across the coming years and decades, both through the corpus's own continued development and through the parallel work of other authors and traditions engaging the same materials."* The project operates with explicit recognition that subsequent work will supplement, extend, and in some respects supersede the present articulation as the broader Aquarian-age recovery and integration of the alliance's communication continues.
+El corpus no es una síntesis definitiva sino una etapa más en un proyecto colectivo de integración en curso. La propia articulación del corpus: *«El presente corpus no es la síntesis definitiva. Es una etapa de un proyecto en curso que continuará a lo largo de los próximos años y décadas, tanto mediante el desarrollo continuado del propio corpus como mediante el trabajo paralelo de otros autores y tradiciones que se comprometen con los mismos materiales.»* El proyecto opera con el reconocimiento explícito de que el trabajo subsiguiente complementará, ampliará y, en algunos aspectos, superará la articulación actual a medida que la recuperación e integración acuarianas más amplias de la comunicación de la alianza prosigan.
 
-This entry articulates what the Wheel of Heaven project IS — its purpose, its working hypothesis, its source-material foundations, its corpus structure, its editorial principles, and how it positions itself within the broader landscape of related projects.
+Esta entrada articula qué ES el proyecto Wheel of Heaven — su propósito, su hipótesis de trabajo, sus fundamentos en el material fuente, la estructura de su corpus, sus principios editoriales y cómo se sitúa dentro del paisaje más amplio de proyectos afines.
 
-## Etymology and naming
+## Etimología y nomenclatura
 
-The project name carries a dual semantic content that the corpus engages substantively in both registers.
+El nombre del proyecto encierra un doble contenido semántico al que el corpus se compromete sustancialmente en ambos registros.
 
-### "Wheel" — the precessional cycle
+### «Rueda» — el ciclo precesional
 
-The principal meaning of "Wheel of Heaven" is the **precessional cycle**. The cycle is produced by the slow conical wobble of Earth's rotational axis under gravitational torque from the sun and moon — a real astronomical phenomenon completing one full rotation every approximately 25,920 years. As the axis traces its conical motion, the celestial pole moves slowly across the sky and the vernal-equinox point (the place where the sun rises on the first day of spring) drifts backward through the zodiacal constellations at approximately 2,160 years per constellation. The detailed treatment of the precessional cycle and its mechanics lives in the [World Age](../world-age/) entry; the detailed treatment of the zodiacal framework lives in the [Zodiac](../zodiac/) entry.
+El significado principal de «Wheel of Heaven» es el **ciclo precesional**. El ciclo lo produce el lento bamboleo cónico del eje de rotación de la Tierra bajo el par gravitacional del Sol y la Luna — un fenómeno astronómico real que completa una rotación completa cada aproximadamente 25.920 años. A medida que el eje traza su movimiento cónico, el polo celeste se desplaza lentamente por el cielo y el punto equinoccial vernal (el lugar donde sale el Sol en el primer día de la primavera) deriva hacia atrás a través de las constelaciones zodiacales a un ritmo aproximado de 2.160 años por constelación. El tratamiento detallado del ciclo precesional y de su mecánica vive en la entrada [Era del Mundo](../world-age/); el tratamiento detallado del marco zodiacal vive en la entrada [Zodíaco](../zodiac/).
 
-The framework reads the precessional cycle as the principal organizing temporal-cosmological structure of the entire corpus narrative. Each of twelve precessional ages — Capricorn, Sagittarius, Scorpio, Libra, Virgo, Leo, Cancer, Gemini, Taurus, Aries, Pisces, Aquarius — operates as an engineering-operational phase of the alliance's twenty-two-thousand-year project on Earth, with specific tasks, characteristic interventions, and a doubled astronomical signature encoded in the religious-iconographic tradition of the cultures the alliance cultivated during that age.
+El marco lee el ciclo precesional como la estructura temporal-cosmológica organizadora principal de toda la narrativa del corpus. Cada una de las doce eras precesionales — Capricornio, Sagitario, Escorpio, Libra, Virgo, Leo, Cáncer, Géminis, Tauro, Aries, Piscis, Acuario — opera como una fase ingenieril-operativa del proyecto de veintidós mil años de la alianza en la Tierra, con tareas específicas, intervenciones características y una firma astronómica duplicada codificada en la tradición religioso-iconográfica de las culturas que la alianza cultivó durante esa era.
 
-The "wheel" metaphor is precise rather than poetic. The precessional cycle is literally a rotation — the celestial pole traces a circle on the celestial sphere; the equinoctial point traces a complete circuit through the zodiac. The image is genuinely a turning wheel. The corpus's articulation: *"The wheel keeps turning. The Aquarian age that opened in 1946 and that contains our present moment will, across the coming centuries, complete its 2,160-year arc and yield to the Capricorn age that follows. The Capricorn age will yield to Sagittarius, Sagittarius to Scorpio, and the cycle will continue across the coming twenty-two thousand years until a new Great Year completes itself and a further one begins."*
+La metáfora de la «rueda» es precisa más que poética. El ciclo precesional es literalmente una rotación — el polo celeste traza un círculo sobre la esfera celeste; el punto equinoccial traza un circuito completo a través del zodíaco. La imagen es genuinamente una rueda que gira.{{ footnote(id="1") }} La articulación del corpus: *«La rueda sigue girando. La era acuariana que se abrió en 1946 y que contiene nuestro momento presente, a lo largo de los próximos siglos, completará su arco de 2.160 años y cederá el paso a la era de Capricornio que le sigue. La era de Capricornio cederá el paso a Sagitario, Sagitario a Escorpio, y el ciclo continuará a lo largo de los próximos veintidós mil años hasta que un nuevo Gran Año se complete y comience uno nuevo.»*
 
-### "Heaven" — the celestial sphere
+### «Cielo» — la esfera celeste
 
-The "heaven" of "Wheel of Heaven" is the celestial sphere — the apparent dome of sky against which celestial motion is observed. The English word *heaven* descends from Old English *heofon*, with cognates across the Germanic languages (German *Himmel*, Dutch *hemel*) and broader Indo-European parallels. The term has dual semantic content in religious-cosmological usage: the *physical sky* (the observed celestial dome) and the *cosmological-spiritual realm* (the abode of divine beings).
+El «cielo» de «Wheel of Heaven» es la esfera celeste — la cúpula aparente del firmamento contra la que se observa el movimiento celeste. La palabra inglesa *heaven* desciende del inglés antiguo *heofon*, con cognados en las lenguas germánicas (alemán *Himmel*, neerlandés *hemel*) y paralelos indoeuropeos más amplios. El término encierra un contenido semántico doble en el uso religioso-cosmológico: el *cielo físico* (la cúpula celeste observada) y el *ámbito cosmológico-espiritual* (la morada de los seres divinos).
 
-The framework operates the term principally in its physical-celestial sense — the sky against which the precessional rotation is observed. The cosmological-spiritual sense remains present as secondary content, registering the framework's reading of the Elohim alliance as occupying a substantive cosmic-political position relative to humanity (the "heaven" from which they came is the broader cosmic civilizational order, of which humanity is a recently-created participant). The detailed treatment of the broader cosmic civilizational order lives in the [Cosmic Chain](../cosmic-chain/) entry.
+El marco opera el término principalmente en su sentido físico-celeste — el cielo contra el cual se observa la rotación precesional. El sentido cosmológico-espiritual permanece presente como contenido secundario, registrando la lectura del marco de la alianza Elohim como ocupante de una posición cósmico-política sustantiva respecto de la humanidad (el «cielo» del que proceden es el orden civilizacional cósmico más amplio, del que la humanidad es un participante recién creado). El tratamiento detallado del orden civilizacional cósmico más amplio vive en la entrada [Cadena Cósmica](../cosmic-chain/).
 
-The Hebrew cognate שָׁמַיִם (*shamayim*, "heavens") operates similarly across the Hebrew Bible — both physical sky and cosmological domain. The Greek οὐρανός (*ouranos*) preserves the same dual content. The framework reads the broader cross-cultural "heaven" vocabulary as preserving substantive cultural memory of the actual cosmic-civilizational reality that the framework articulates.
+El cognado hebreo שָׁמַיִם (*shamayim*, «cielos») opera de forma similar a lo largo de la Biblia hebrea — al mismo tiempo cielo físico y dominio cosmológico. El griego οὐρανός (*ouranós*) preserva el mismo doble contenido. El marco lee el vocabulario transcultural más amplio del «cielo» como conservador de una memoria cultural sustantiva de la realidad cósmico-civilizacional efectiva que el marco articula.
 
-### The secondary meaning — Ezekiel's wheel-within-a-wheel
+### El significado secundario — la rueda dentro de la rueda de Ezequiel
 
-A secondary semantic dimension of "Wheel of Heaven" engages the **wheel-within-a-wheel imagery** of Ezekiel's vision. The principal passage appears at Ezekiel 1:15-16:
+Una dimensión semántica secundaria de «Wheel of Heaven» se compromete con la **imagen de la rueda dentro de la rueda** de la visión de Ezequiel. El pasaje principal aparece en {% libref(book="ezekiel-woh", chapter=1, verse=15) %}Ezequiel 1:15-16{% end %}:
 
 > וָאֵרֶא הַחַיּוֹת וְהִנֵּה אוֹפַן אֶחָד בָּאָרֶץ אֵצֶל הַחַיּוֹת לְאַרְבַּעַת פָּנָיו
 > מַרְאֵה הָאוֹפַנִּים וּמַעֲשֵׂיהֶם כְּעֵין תַּרְשִׁישׁ וּדְמוּת אֶחָד לְאַרְבַּעְתָּן וּמַרְאֵיהֶם וּמַעֲשֵׂיהֶם כַּאֲשֶׁר יִהְיֶה הָאוֹפַן בְּתוֹךְ הָאוֹפָן
 > *Va'ere ha-chayot ve-hineh ofan echad ba-aretz etzel ha-chayot le-arba'at panav*
 > *Mareh ha-ofanim u-ma'asehem ke-ein tarshish u-demut echad le-arba'atan u-mar'eihem u-ma'aseihem ka-asher yihyeh ha-ofan be-tokh ha-ofan*
-> "Now as I beheld the living creatures, behold one wheel upon the earth by the living creatures, with his four faces. The appearance of the wheels and their work was like unto the colour of a beryl: and they four had one likeness: and their appearance and their work was as it were a wheel in the middle of a wheel."
+> «Y mientras contemplaba a los seres vivientes, he aquí una rueda sobre la tierra junto a los seres vivientes, con sus cuatro caras. La apariencia de las ruedas y su obra era como el color del berilo, y las cuatro tenían una misma semejanza; y su apariencia y su obra eran como si fuera una rueda en medio de una rueda.»
 
-The Hebrew אוֹפַן (*ofan*, "wheel") in this passage is a technical noun for a circular rotating object. The phrase אוֹפַן בְּתוֹךְ הָאוֹפָן (*ofan betokh ha-ofan*, "wheel within the wheel") has produced substantial interpretive history across Jewish, Christian, and modern engagement traditions. The framework reads the passage as preserved description of an Elohim aerial vehicle observed by Ezekiel in approximately 593 BCE — the prophet recording what he saw in the pre-scientific vocabulary available to him. The corpus articulation: *"As for the 'flying saucers' or 'wheels', their appearance and their operation were not at all badly described considering it is a primitive person who is speaking. 'as it were a wheel within a wheel...they didn't turn when they went.' In the center of the flying saucer, very similar to the one in which we are now sitting, was the habitable section - the rim."*
+El hebreo אוֹפַן (*ofan*, «rueda») de este pasaje es un sustantivo técnico para un objeto circular rotatorio. La expresión אוֹפַן בְּתוֹךְ הָאוֹפָן (*ofan betokh ha-ofan*, «rueda dentro de la rueda») ha producido una historia interpretativa sustancial a través de las tradiciones judía, cristiana y de compromiso moderno.{{ footnote(id="2") }} El marco lee el pasaje como descripción preservada de un vehículo aéreo Elohim observado por Ezequiel hacia el año 593 a. C. — el profeta registrando lo que vio en el vocabulario pre-científico que tenía a su disposición. La articulación del corpus: *«En cuanto a los "platillos volantes" o "ruedas", su apariencia y su funcionamiento no estaban en absoluto mal descritos considerando que es una persona primitiva la que habla. "como si fuera una rueda dentro de una rueda... no giraban cuando se desplazaban." En el centro del platillo volante, muy similar a aquel en el que ahora estamos sentados, se hallaba la sección habitable - el aro."»*
 
-The connection between the project name "Wheel of Heaven" and the Ezekiel imagery operates as a secondary semantic dimension rather than as the primary referent. The principal meaning remains the precessional cycle; the Ezekiel echo registers the framework's broader reading of the Hebrew Bible's spacecraft-imagery content.
+La conexión entre el nombre del proyecto «Wheel of Heaven» y la imaginería de Ezequiel opera como una dimensión semántica secundaria más que como el referente principal. El significado principal sigue siendo el ciclo precesional; el eco de Ezequiel registra la lectura más amplia del marco del contenido de imaginería de naves espaciales de la Biblia hebrea.
 
-### Other proposed name-anchors — epistemic note
+### Otros anclajes propuestos del nombre — nota epistémica
 
-Various interpretations have proposed additional anchors for the "Wheel of Heaven" designation, including a putative connection to **Akhenaten** (the 14th-century-BCE Egyptian pharaoh who established the Aten cult and founded the city of Akhetaten / modern Tell el-Amarna). One tradition holds that Akhenaten observed a disk-shaped aerial vehicle that the Egyptian record designated as a "wheel of heaven" — a connection registering substantive parallel content with the Ezekiel anchor.
+Diversas interpretaciones han propuesto anclajes adicionales para la designación «Wheel of Heaven», entre ellos una supuesta conexión con **Akhenatón** (el faraón egipcio del siglo XIV a. C. que estableció el culto a Atón y fundó la ciudad de Akhetatón / la moderna Tell el-Amarna). Una tradición sostiene que Akhenatón observó un vehículo aéreo en forma de disco que el registro egipcio designó como «rueda del cielo» — una conexión que registra un contenido paralelo sustancial con el anclaje de Ezequiel.
 
-The corpus does not treat this Akhenaten connection as established. The principal Egyptological evidence for Akhenaten's religious-iconographic engagement runs through the **Aten** (אתן in transliterated form; the Egyptian solar disk depicted with rays ending in stylized hands offering the *ankh* sign of life), and the textual record from Amarna (the *Great Hymn to the Aten*, the various Boundary Stelae, the broader official inscriptions) does not contain a direct attestation of the specific "wheel of heaven" terminology applied to a flying object. The connection appears principally in popular-alternative-history sources without scholarly source-textual anchor. The corpus registers the proposed Akhenaten connection as one tradition holds it while flagging that the specific source-textual evidence remains unverified. Readers interested in the question are encouraged to consult primary Egyptological sources (Cyril Aldred's *Akhenaten: King of Egypt*, 1988; Donald B. Redford's *Akhenaten: The Heretic King*, 1984; the broader Amarna scholarly literature) and to draw their own conclusions.
+El corpus no trata esta conexión con Akhenatón como establecida. La principal evidencia egiptológica para el compromiso religioso-iconográfico de Akhenatón discurre a través del **Atón** (אתן en forma transliterada; el disco solar egipcio representado con rayos que terminan en manos estilizadas que ofrecen el signo *anj* de la vida), y el registro textual de Amarna (el *Gran himno a Atón*, las diversas Estelas Fronterizas, el resto de inscripciones oficiales) no contiene una atestación directa de la terminología específica «rueda del cielo» aplicada a un objeto volante. La conexión aparece principalmente en fuentes populares de historia alternativa sin anclaje textual académico. El corpus registra la conexión propuesta con Akhenatón en los términos en que una tradición la sostiene, al tiempo que señala que la evidencia textual específica permanece sin verificar. Se anima a los lectores interesados en la cuestión a consultar fuentes egiptológicas primarias (*Akhenaten: King of Egypt* de Cyril Aldred, 1988; *Akhenaten: The Heretic King* de Donald B. Redford, 1984; la literatura académica más amplia sobre Amarna) y a extraer sus propias conclusiones.{{ footnote(id="3") }}
 
-The detailed treatment of Akhenaten's religious-historical role within the broader framework lives in the [Akhenaten](../akhenaten/) entry when written.
+El tratamiento detallado del papel religioso-histórico de Akhenatón dentro del marco más amplio vive en la entrada [Akhenatón](../akhenaten/) cuando se redacte.
 
-### Cross-cultural designations of the corpus
+### Designaciones transculturales del corpus
 
-The corpus operates principally in English under the **Wheel of Heaven** designation. No alternative-language designations have been formalized; the corpus would be designated by direct translation in other languages (French *Roue du Ciel*, German *Himmelsrad*, Hebrew גַּלְגַּל הַשָּׁמַיִם *galgal ha-shamayim*, etc.) where relevant.
+El corpus opera principalmente en inglés bajo la designación **Wheel of Heaven**. No se han formalizado designaciones en otras lenguas; el corpus se designaría mediante traducción directa en otras lenguas (francés *Roue du Ciel*, alemán *Himmelsrad*, español *Rueda del Cielo*, hebreo גַּלְגַּל הַשָּׁמַיִם *galgal ha-shamayim*, etc.) cuando corresponda.
 
-### Corpus-internal usage
+### Uso interno al corpus
 
-The corpus uses several related but distinct designations:
-- **Wheel of Heaven** — the project name and the overarching interpretive framework
-- **the framework** (corpus-internal short form) — for the interpretive framework specifically
-- **the corpus** — the written body of project content
-- **the project** — the broader collaborative undertaking that produces the corpus
-- **the Wheel of Heaven thesis** — the working hypothesis articulated above
-- **the Wheel of Heaven worldview** — the broader interpretive position the corpus articulates
+El corpus utiliza varias designaciones relacionadas pero distintas:
+- **Wheel of Heaven** — el nombre del proyecto y el marco interpretativo global
+- **el marco** (forma breve interna al corpus) — para el marco interpretativo específicamente
+- **el corpus** — el cuerpo escrito de los contenidos del proyecto
+- **el proyecto** — la empresa colaborativa más amplia que produce el corpus
+- **la tesis Wheel of Heaven** — la hipótesis de trabajo articulada arriba
+- **la cosmovisión Wheel of Heaven** — la posición interpretativa más amplia que el corpus articula
 
-The detailed nomenclature governance lives in the project's `03-nomenclature.md` governance document.
+La gobernanza detallada de la nomenclatura vive en el documento de gobernanza `03-nomenclature.md` del proyecto.
 
-## The working hypothesis
+## La hipótesis de trabajo
 
-The Wheel of Heaven project advances a specific working hypothesis as the framework that organizes the corpus's interpretive work. The hypothesis is *provisional* in the technical sense — accepted as a basis for further investigation rather than asserted as settled fact — but the corpus operates substantively within the hypothesis's commitments to allow systematic engagement with the material.
+El proyecto Wheel of Heaven plantea una hipótesis de trabajo específica como marco que organiza la labor interpretativa del corpus. La hipótesis es *provisional* en el sentido técnico — aceptada como base para investigaciones ulteriores más que afirmada como hecho cerrado — pero el corpus opera sustancialmente dentro de los compromisos de la hipótesis para permitir un compromiso sistemático con el material.
 
-### The principal claim
+### La afirmación principal
 
-The principal claim: terrestrial life was produced by the deliberate scientific work of a specific advanced civilization. The civilization in question — called in the Hebrew Bible the **Elohim** (אֱלֹהִים) — is a plural group of biological beings physiologically similar to humans but technologically far advanced. The Elohim are not gods in any supernatural sense; they are a civilization of biological beings who, approximately 22,000 years before the present, began the specific scientific project of creating life on Earth through genetic design and laboratory synthesis.
+La afirmación principal: la vida terrestre fue producida por la labor científica deliberada de una civilización avanzada específica. La civilización en cuestión — llamada en la Biblia hebrea los **Elohim** (אֱלֹהִים) — es un grupo plural de seres biológicos fisiológicamente similares a los humanos pero tecnológicamente muy avanzados. Los Elohim no son dioses en ningún sentido sobrenatural; son una civilización de seres biológicos que, hace aproximadamente 22.000 años, comenzaron el proyecto científico específico de crear vida en la Tierra mediante diseño genético y síntesis de laboratorio.
 
-The principal articulation of this claim derives from the Raëlian source material: *"life on Earth was produced by the scientific work of a specific advanced civilization. The civilization in question, the Elohim, is a plural group of individuals of a species physiologically similar to humans but technologically far advanced. The Elohim are not gods in any supernatural sense. They are a civilization of biological beings who, approximately twenty-two thousand years before the present, began the specific scientific project of creating life on Earth through genetic design and laboratory synthesis."*
+La articulación principal de esta afirmación procede del material fuente raeliano:{{ cite(id="intelligent-design-message-from-the-designers", text="[8]", title="Vorilhon (Raël), *Diseño Inteligente: Mensaje de los Diseñadores* — fuente raeliana principal para la afirmación de alianza-creadora") }} *«la vida en la Tierra fue producida por la labor científica de una civilización avanzada específica. La civilización en cuestión, los Elohim, es un grupo plural de individuos de una especie fisiológicamente similar a los humanos pero tecnológicamente muy avanzada. Los Elohim no son dioses en ningún sentido sobrenatural. Son una civilización de seres biológicos que, hace aproximadamente veintidós mil años, comenzaron el proyecto científico específico de crear vida en la Tierra mediante diseño genético y síntesis de laboratorio.»*
 
-The detailed treatment of the Elohim civilization lives in the [Elohim](../elohim/) entry.
+El tratamiento detallado de la civilización Elohim vive en la entrada [Elohim](../elohim/).
 
-### The supporting claims
+### Las afirmaciones complementarias
 
-Five additional claims operate as substantive components of the broader working hypothesis:
+Cinco afirmaciones adicionales operan como componentes sustantivos de la hipótesis de trabajo más amplia:
 
-**1. The cultural-memory preservation claim.** The Hebrew Bible and the other major religious traditions of the world preserve accurate cultural memory of the alliance's interventions, in forms that reflect the pre-scientific vocabularies of their authors but that can be decoded by a scientifically mature reader. The framework's distinctive hermeneutic — Genesis 1 as genetic engineering rather than supernatural creation, the *Nephilim* as alliance-human hybrids, the flood as nuclear cataclysm, Sinai as formal alliance audience, the *Elohim* as plural rather than singular — is the corpus's foundational interpretive move. The detailed treatment of the Hebrew Bible content lives in the [Hebrew Bible](../hebrew-bible/) entry.
+**1. La afirmación de preservación de la memoria cultural.** La Biblia hebrea y las demás grandes tradiciones religiosas del mundo preservan una memoria cultural fiel de las intervenciones de la alianza, en formas que reflejan los vocabularios pre-científicos de sus autores pero que pueden ser decodificadas por un lector científicamente maduro. La hermenéutica distintiva del marco — {% wiki(slug="genesis") %}Génesis{% end %} 1{{ cite(id="genesis", text="[9]", title="Génesis — principal fuente de la Biblia hebrea para la lectura del corpus de la creación como ingeniería genética dirigida por la alianza") }} como ingeniería genética más que como creación sobrenatural, los *Nefilim* como híbridos alianza-humanos, el diluvio como cataclismo nuclear, el Sinaí como audiencia formal con la alianza, los *Elohim* como plurales más que como singular — es el movimiento interpretativo fundacional del corpus. El tratamiento detallado del contenido de la Biblia hebrea vive en la entrada [Biblia Hebrea](../hebrew-bible/).
 
-**2. The prophetic-tradition claim.** The alliance has sent approximately forty prophets across human history, each appropriate to the specific cultural moment at which they appeared, and each contributing to the cumulative preparation of humanity for the present Aquarian-age revelation. The list includes Adam, Noah, Abraham, Moses, Elijah, Isaiah, Ezekiel, Daniel, Buddha, Zoroaster, Jesus, Muhammad, Joseph Smith, Bahá'u'lláh, and various others. The detailed treatment lives in the [Prophet](../prophet/) entry.
+**2. La afirmación de la tradición profética.** La alianza ha enviado aproximadamente cuarenta profetas a lo largo de la historia humana, cada uno apropiado al momento cultural específico en el que apareció y cada uno contribuyendo a la preparación acumulativa de la humanidad para la presente revelación de la era acuariana.{{ footnote(id="4") }} La lista incluye a Adán, Noé, Abraham, Moisés, {% wiki(slug="elijah") %}Elías{% end %}, Isaías, Ezequiel, Daniel, Buda, Zoroastro, Jesús, Mahoma, Joseph Smith, Bahá'u'lláh y otros más. El tratamiento detallado vive en la entrada [Profeta](../prophet/).
 
-**3. The scientific-maturity claim.** Humanity has now reached, or is rapidly approaching, the scientific maturity that will permit it to understand and evaluate the alliance's teaching on its own terms. The Piscean-age arrangement — under which the alliance had stepped back from direct intervention to allow humanity to develop scientifically — has reached its conclusion. Humanity's own capacities in biology, physics, computing, and aerospace have advanced to the point where the alliance's interventions no longer look miraculous but look like what they actually are: applications of technology that humanity is itself beginning to develop.
+**3. La afirmación de madurez científica.** La humanidad ha alcanzado ya, o se está aproximando rápidamente, a la madurez científica que le permitirá entender y evaluar la enseñanza de la alianza en sus propios términos. La disposición pisciana — bajo la cual la alianza había dado un paso atrás respecto al contacto directo para permitir que la humanidad se desarrollara científicamente — ha llegado a su conclusión. Las propias capacidades de la humanidad en biología, física, computación y aeroespacial han avanzado hasta el punto en que las intervenciones de la alianza ya no parecen milagrosas, sino que se ven como lo que en realidad son: aplicaciones de tecnología que la propia humanidad empieza a desarrollar.
 
-**4. The imminent-return claim.** The alliance intends to return to Earth openly and officially within the coming decades, at a specific site that humanity is to prepare — the **embassy** — located in a country that has granted the alliance extraterritorial status over approximately four square kilometers. The detailed treatment lives in the [Embassy](../embassy/) entry.
+**4. La afirmación del retorno inminente.** La alianza pretende regresar a la Tierra de manera abierta y oficial en las próximas décadas, en un emplazamiento específico que la humanidad debe preparar — la **embajada** —, situado en un país que haya otorgado a la alianza estatus extraterritorial sobre aproximadamente cuatro kilómetros cuadrados. El tratamiento detallado vive en la entrada [Embajada](../embassy/).
 
-**5. The cosmic-inheritance claim.** Humanity, having matured, will itself become a creating civilization — extending the alliance's work to other worlds across the galactic neighborhood, establishing the next iteration of the broader cosmic civilizational pattern. The detailed treatment lives in the [Cosmic Chain](../cosmic-chain/) entry.
+**5. La afirmación de la herencia cósmica.** La humanidad, una vez madura, se convertirá ella misma en una civilización creadora — extendiendo la labor de la alianza a otros mundos del vecindario galáctico, estableciendo la siguiente iteración del patrón civilizacional cósmico más amplio. El tratamiento detallado vive en la entrada [Cadena Cósmica](../cosmic-chain/).
 
-### The epistemic status
+### El estatus epistémico
 
-The corpus is explicit about the epistemic status of its working hypothesis. The hypothesis is not claimed as proven; it is offered as a coherent interpretive framework that the corpus's reader is invited to evaluate against alternatives. The corpus's articulation of its own epistemic posture: *"What can be said is the closure of the first cycle... The corpus is not a closed system. It is an open invitation to evaluation."*
+El corpus es explícito sobre el estatus epistémico de su hipótesis de trabajo. La hipótesis no se presenta como probada; se ofrece como un marco interpretativo coherente que el lector del corpus está invitado a evaluar frente a alternativas. La articulación del corpus sobre su propia postura epistémica: *«Lo que puede decirse es el cierre del primer ciclo... El corpus no es un sistema cerrado. Es una invitación abierta a la evaluación.»*
 
-The framework's distinctive contribution is the integration. Many of the individual claims have been advanced separately by various traditions and scholars: the Raëlian movement advances the alliance-creator claim; *Hamlet's Mill* advances the precessional-mythological reading; alternative-history scholars (Hancock, Bauval, Sitchin) advance various lost-civilization and ancient-contact readings; mainstream archaeoastronomy advances the cross-cultural-celestial-encoding reading; mainstream Hebrew Bible scholarship advances various textual-historical readings. What the Wheel of Heaven project adds is the systematic integration of these various source-material families within a single coherent framework, with explicit attention to the chronological-temporal architecture, the cross-cultural comparative content, and the epistemic distinctions between source claims, comparative observations, and framework-specific interpretive synthesis.
+La contribución distintiva del marco es la integración. Muchas de las afirmaciones individuales han sido planteadas por separado por diversas tradiciones y estudiosos: el movimiento raeliano plantea la afirmación de alianza-creadora; *El molino de Hamlet* plantea la lectura mitológico-precesional; los estudiosos de historia alternativa (Hancock, Bauval, Sitchin) plantean diversas lecturas de civilización perdida y contacto antiguo; la arqueoastronomía dominante plantea la lectura de codificación celeste transcultural; la erudición dominante de la Biblia hebrea plantea diversas lecturas histórico-textuales. Lo que el proyecto Wheel of Heaven añade es la integración sistemática de estas diversas familias de material fuente dentro de un único marco coherente, con atención explícita a la arquitectura cronológico-temporal, al contenido comparativo transcultural y a las distinciones epistémicas entre afirmaciones de fuentes, observaciones comparativas y síntesis interpretativa específica del marco.
 
-The detailed treatment of the broader source-methodology lives in the project's `04-source-methodology.md` governance document.
+El tratamiento detallado de la metodología de fuentes más amplia vive en el documento de gobernanza `04-source-methodology.md` del proyecto.
 
-## The corpus structure
+## La estructura del corpus
 
-The Wheel of Heaven corpus is organized as a multi-component knowledge architecture supporting various reader engagements.
+El corpus Wheel of Heaven está organizado como una arquitectura de conocimiento multicomponente que sostiene diversos modos de compromiso por parte del lector.
 
-### The wiki
+### La wiki
 
-The principal corpus component is the **wiki** — a curated comparative knowledge base assembled across several hundred entries covering figures, places, events, periods, concepts, texts, and precessional ages. The wiki operates as the corpus's principal reference architecture, with entries cross-referenced through a substantial internal-link structure.
+El componente principal del corpus es la **wiki** — una base curada de conocimiento comparativo articulada en varios cientos de entradas que cubren figuras, lugares, acontecimientos, períodos, conceptos, textos y eras precesionales. La wiki opera como la arquitectura principal de referencia del corpus, con entradas referenciadas de manera cruzada a través de una estructura sustancial de enlaces internos.
 
-The wiki's typological architecture distinguishes seven principal entry types:
+La arquitectura tipológica de la wiki distingue siete tipos principales de entrada:
 
-1. **Figure entries** — individual persons (historical, religious-traditional, framework-specific): Adam, Eve, Noah, Abraham, Moses, Mary, Jesus, Muhammad, Buddha, Joseph Smith, Vorilhon, the various creator-figures (Yahweh, Lucifer, Satan, the Serpent), various others
-2. **Civilization / polity entries** — collective entities: the Hebrews, the Elohim, the Israelites, various others
-3. **Place entries** — specific locations: Eden, Babel, Sodom and Gomorrah, the Embassy site, various others
-4. **Event / period entries** — specific historical-cultural events or periods: the Theomachy, the Great Flood, the Babel intervention, the Sodom strike, various others
-5. **Concept entries** — interpretive concepts: World Age, Zodiac, Doubled Signature, Cosmic Chain, Cosmic Competition, Mass Effect, Fractal Cosmology, Plurality of Gods, various others
-6. **Text entries** — source-textual entities: Hebrew Bible, Kabbalah, *Hamlet's Mill*, *Message from the Designers*, various others
-7. **Precessional age entries** — the twelve individual age treatments: Age of Capricorn, Age of Sagittarius, Age of Scorpio, Age of Libra, Age of Virgo, Age of Leo, Age of Cancer, Age of Gemini, Age of Taurus, Age of Aries, Age of Pisces, Age of Aquarius
+1. **Entradas de figura** — personas individuales (históricas, religioso-tradicionales, específicas del marco): Adán, Eva, Noé, Abraham, Moisés, María, Jesús, Mahoma, Buda, Joseph Smith, Vorilhon, las diversas figuras creadoras (Yahvé, Lucifer, Satán, la Serpiente) y otras
+2. **Entradas de civilización / polis** — entidades colectivas: los hebreos, los Elohim, los israelitas y otras
+3. **Entradas de lugar** — emplazamientos específicos: {% wiki(slug="eden") %}Edén{% end %}, {% wiki(slug="babel") %}Babel{% end %}, {% wiki(slug="sodom-and-gomorrah") %}Sodoma y Gomorra{% end %}, el emplazamiento de la Embajada y otros
+4. **Entradas de acontecimiento / período** — acontecimientos o períodos histórico-culturales específicos: la {% wiki(slug="theomachy") %}Teomaquia{% end %}, el {% wiki(slug="great-flood") %}Gran Diluvio{% end %}, la intervención de Babel, el ataque a Sodoma y otros
+5. **Entradas de concepto** — conceptos interpretativos: Era del Mundo, Zodíaco, Firma Duplicada, Cadena Cósmica, Competencia Cósmica, Efecto Masa, Cosmología Fractal, Pluralidad de los Dioses y otros
+6. **Entradas de texto** — entidades textuales fuente: Biblia Hebrea, Cábala, *El molino de Hamlet*, *Mensaje de los Diseñadores* y otras
+7. **Entradas de era precesional** — los doce tratamientos individuales de las eras: Era de Capricornio, Era de Sagitario, Era de Escorpio, Era de Libra, Era de Virgo, Era de Leo, Era de Cáncer, Era de Géminis, Era de Tauro, Era de Aries, Era de Piscis, Era de Acuario
 
-Each entry follows a typology-specific structural template articulated in the project's editorial style guide, with sections appropriate to the entry's typological position. The detailed treatment of the editorial typology lives in the project's `01-editorial-style.md` governance document.
+Cada entrada sigue una plantilla estructural específica según su tipología, articulada en la guía de estilo editorial del proyecto, con secciones apropiadas a la posición tipológica de la entrada. El tratamiento detallado de la tipología editorial vive en el documento de gobernanza `01-editorial-style.md` del proyecto.
 
-### The library
+### La biblioteca
 
-The corpus's **library** component curates source materials supporting the broader framework engagement. The library includes:
+El componente **biblioteca** del corpus reúne materiales fuente que sostienen el compromiso más amplio con el marco. La biblioteca incluye:
 
-- **Primary Raëlian texts**: *Message from the Designers* (the collected Vorilhon source material) and various other Raëlian publications
-- **Sendy's principal works**: *Les cahiers de cours de Moïse* (1963), *La Lune, clé de la Bible* (1968), *Ces dieux qui firent le ciel et la terre* (1969), *L'ère du Verseau* (1970), various others
-- **The *Hamlet's Mill* tradition**: Santillana and von Dechend's foundational work plus subsequent extensions (Cruttenden, Sellers, Aveni, Krupp)
-- **Mainstream comparative-religion scholarship**: Hebrew Bible scholarship (Wellhausen, Friedman, von Rad, Westermann, Brueggemann, Alter), Kabbalah scholarship (Scholem, Idel, Wolfson, Liebes, Matt), various others
-- **Alternative-history scholarship**: Sitchin, Hancock, Bauval, West, Wallis, Biglino, various others
-- **Cross-cultural source materials**: Mesopotamian (Atrahasis, Enuma Elish, Gilgamesh, the Sumerian King List), Egyptian (Pyramid Texts, Coffin Texts, Book of the Dead), Greek (Hesiod, Homer, Plato), Indian (Rigveda, Upanishads, Mahabharata, Puranas), Mesoamerican (Popol Vuh, the Long Count materials), Chinese, various others
+- **Textos raelianos primarios**: *Mensaje de los Diseñadores* (el material fuente recopilatorio de Vorilhon) y otras publicaciones raelianas
+- **Las obras principales de Sendy**: *Les cahiers de cours de Moïse* (1963), *La Lune, clé de la Bible* (1968), *Ces dieux qui firent le ciel et la terre* (1969), *L'ère du Verseau* (1970) y otras
+- **La tradición de *El molino de Hamlet***: la obra fundacional de Santillana y von Dechend más las extensiones posteriores (Cruttenden, Sellers, Aveni, Krupp)
+- **Erudición dominante de mitología comparada**: erudición de la Biblia hebrea (Wellhausen, Friedman, von Rad, Westermann, Brueggemann, Alter), erudición cabalística (Scholem, Idel, Wolfson, Liebes, Matt) y otras
+- **Erudición de historia alternativa**: Sitchin, Hancock, Bauval, West, Wallis, Biglino y otros
+- **Materiales fuente transculturales**: mesopotámicos (Atrahasis, Enuma Elish, Gilgamesh, la Lista Real Sumeria), egipcios (Textos de las Pirámides, Textos de los Sarcófagos, Libro de los Muertos), griegos (Hesíodo, Homero, Platón), indios (Rigveda, Upanisad, Mahabharata, Puranas), mesoamericanos (Popol Vuh, los materiales de la Cuenta Larga), chinos y otros
 
-Each library entry is curated with attention to source-material integrity, scholarly context, and relevance to the broader framework engagement.
+Cada entrada de biblioteca se cura con atención a la integridad del material fuente, al contexto académico y a la relevancia para el compromiso más amplio con el marco.
 
-### The narrated introduction
+### La introducción narrada
 
-The corpus's **narrated introduction** provides a structured first-encounter with the framework for new readers. The introduction operates through several principal sections (At a Glance, the broader framework articulation, the principal source-material families, the corpus structure) supporting various entry-points into the broader content.
+La **introducción narrada** del corpus proporciona un primer encuentro estructurado con el marco para los lectores nuevos. La introducción opera a través de varias secciones principales (Una mirada general, la articulación del marco más amplio, las principales familias de material fuente, la estructura del corpus) que sostienen diversos puntos de entrada al contenido más amplio.
 
-### The blog
+### El blog
 
-The corpus's **blog** tracks ongoing developments — current scientific and cultural events that engage the broader framework, new scholarly publications relevant to the corpus's reading, contemporary developments in the broader UFO/UAP disclosure landscape, the project's own development across multiple workstreams. The blog operates as the principal corpus component for time-sensitive engagement, with the wiki and library providing the broader stable reference architecture.
+El **blog** del corpus sigue los acontecimientos en curso — los acontecimientos científicos y culturales actuales que se cruzan con el marco más amplio, las nuevas publicaciones académicas relevantes para la lectura del corpus, los desarrollos contemporáneos en el paisaje más amplio de la divulgación OVNI/UAP, el propio desarrollo del proyecto a través de múltiples flujos de trabajo. El blog opera como el componente principal del corpus para el compromiso de actualidad, mientras que la wiki y la biblioteca proporcionan la arquitectura de referencia estable más amplia.
 
-### The governance documents
+### Los documentos de gobernanza
 
-The project operates through several substantial governance documents:
+El proyecto opera a través de varios documentos de gobernanza sustanciales:
 
-- ***Project Charter*** — the foundational document articulating the project's purpose, mission, governing principle, and inclusion criteria
-- ***Editorial Style Guide*** — the principal editorial-stylistic governance document
-- ***Chronology Rules*** — the chronological governance document articulating dating conventions and chronological integrity rules
-- ***Nomenclature*** — the principal terminological governance document
-- ***Source Methodology*** — the source-handling governance document
-- ***Chapter Index*** — the architectural governance document tracking the broader corpus development
-- ***Master Timeline*** — the principal chronological reference document spanning the twelve precessional ages
+- ***Carta del Proyecto*** — el documento fundacional que articula el propósito del proyecto, su misión, su principio rector y los criterios de inclusión
+- ***Guía de Estilo Editorial*** — el principal documento de gobernanza editorial-estilística
+- ***Reglas de {% wiki(slug="chronology") %}Cronología{% end %}*** — el documento de gobernanza cronológica que articula las convenciones de datación y las reglas de integridad cronológica
+- ***Nomenclatura*** — el principal documento de gobernanza terminológica
+- ***Metodología de Fuentes*** — el documento de gobernanza del manejo de las fuentes
+- ***Índice de Capítulos*** — el documento de gobernanza arquitectónica que sigue el desarrollo más amplio del corpus
+- ***Línea de Tiempo Maestra*** — el principal documento de referencia cronológica que abarca las doce eras precesionales
 
-The governance documents operate as living references, updated as the project develops.
+Los documentos de gobernanza operan como referencias vivas, actualizadas a medida que el proyecto se desarrolla.
 
-## Editorial principles
+## Principios editoriales
 
-The corpus operates through several substantive editorial principles articulated across the governance documents.
+El corpus opera a través de varios principios editoriales sustantivos articulados en los documentos de gobernanza.
 
-### The four-tier epistemic distinction
+### La distinción epistémica en cuatro niveles
 
-The corpus consistently distinguishes between four tiers of content:
+El corpus distingue de manera consistente entre cuatro niveles de contenido:
 
-1. **Direct source claims** — what a specific source directly asserts (with attribution to the source)
-2. **Comparative observations** — comparisons across traditions without claiming identity or causal connection
-3. **Wheel of Heaven interpretation** — corpus-level interpretive synthesis (clearly marked as interpretive)
-4. **Open questions** — unresolved issues, tensions, and uncertainties (explicitly registered)
+1. **Afirmaciones directas de las fuentes** — lo que una fuente específica afirma directamente (con atribución a la fuente)
+2. **Observaciones comparativas** — comparaciones entre tradiciones sin afirmar identidad o conexión causal
+3. **Interpretación Wheel of Heaven** — síntesis interpretativa de nivel del corpus (claramente marcada como interpretativa)
+4. **Cuestiones abiertas** — asuntos no resueltos, tensiones e incertidumbres (explícitamente registrados)
 
-The four-tier distinction operates throughout the corpus, with prose markers, structural conventions, and explicit framing maintaining the distinction across all entries.
+La distinción en cuatro niveles opera a lo largo de todo el corpus, con marcadores en la prosa, convenciones estructurales y encuadres explícitos que mantienen la distinción a lo largo de todas las entradas.
 
-### The chronology integrity principle
+### El principio de integridad cronológica
 
-The corpus maintains explicit chronological integrity across all entries. When chronology is discussed, the corpus is explicit about:
+El corpus mantiene una integridad cronológica explícita a lo largo de todas las entradas. Cuando se trata la cronología, el corpus es explícito sobre:
 
-- The specific date or date range
-- Whether the date is *traditional* (from religious-traditional sources), *scholarly* (mainstream academic consensus), *inferred* (from indirect evidence), *symbolic* (from religious-symbolic content), or *contested* (with active scholarly disagreement)
-- Which source or source-family supports the date
+- La fecha específica o el rango de fechas
+- Si la fecha es *tradicional* (procedente de fuentes religioso-tradicionales), *académica* (consenso académico dominante), *inferida* (a partir de evidencia indirecta), *simbólica* (a partir de contenido religioso-simbólico) o *contestada* (con desacuerdo académico activo)
+- Qué fuente o familia de fuentes sostiene la fecha
 
-The detailed chronological-integrity governance lives in the project's `02-chronology-rules.md` governance document.
+La gobernanza detallada de integridad cronológica vive en el documento de gobernanza `02-chronology-rules.md` del proyecto.
 
-### The terminological discipline principle
+### El principio de disciplina terminológica
 
-The corpus maintains terminological discipline across all entries. Specific commitments:
+El corpus mantiene una disciplina terminológica a lo largo de todas las entradas. Compromisos específicos:
 
-- Use of canonical project terms consistently (Wheel of Heaven, the framework, the corpus, the alliance, the Elohim, etc.)
-- Variant spellings handled explicitly (when multiple spellings exist, choose one preferred form and note important variants)
-- Cross-tradition equivalences flagged rather than collapsed (the broader Plurality of Gods cross-cultural pattern is articulated through explicit comparison rather than through forced identity)
-- Translation choices treated as substantive interpretive moves rather than as neutral
+- Uso consistente de los términos canónicos del proyecto (Wheel of Heaven, el marco, el corpus, la alianza, los Elohim, etc.)
+- Variantes ortográficas tratadas explícitamente (cuando existen múltiples grafías, se elige una forma preferida y se anotan las variantes importantes)
+- Equivalencias transtradiciones señaladas más que colapsadas (el patrón transcultural más amplio de Pluralidad de los Dioses se articula mediante comparación explícita más que mediante identidad forzada)
+- Las opciones de traducción se tratan como movimientos interpretativos sustantivos más que como neutrales
 
-The detailed terminological governance lives in the project's `03-nomenclature.md` governance document.
+La gobernanza terminológica detallada vive en el documento de gobernanza `03-nomenclature.md` del proyecto.
 
-### The source-discipline principle
+### El principio de disciplina sobre las fuentes
 
-The corpus maintains source-discipline across all entries:
+El corpus mantiene disciplina sobre las fuentes a lo largo de todas las entradas:
 
-- Quotation under 25 words; paraphrase as default
-- Source attribution for all claims drawing on specific sources
-- Substantial recognition of the difference between source and interpretation
-- Engagement with mainstream scholarship at appropriate technical level
-- Cross-tradition material handled with attention to both convergences and substantive differences
+- Citas de menos de 25 palabras; paráfrasis por defecto
+- Atribución de fuente para todas las afirmaciones que se apoyen en fuentes específicas
+- Reconocimiento sustancial de la diferencia entre fuente e interpretación
+- Compromiso con la erudición dominante al nivel técnico apropiado
+- Material transtradiciones tratado con atención tanto a las convergencias como a las diferencias sustantivas
 
-The detailed source-methodology governance lives in the project's `04-source-methodology.md` governance document.
+La gobernanza detallada de la metodología de fuentes vive en el documento de gobernanza `04-source-methodology.md` del proyecto.
 
-### The wiki-style register
+### El registro estilo-wiki
 
-The corpus operates in a wiki-style register similar to mainstream comparative-religion encyclopaedic engagement (the *Catholic Encyclopedia*, the *Encyclopaedia Britannica*'s religion entries, the *Encyclopedia of Religion*). The register prioritizes:
+El corpus opera en un registro estilo-wiki similar al del compromiso enciclopédico-comparativo dominante en mitología comparada (la *Catholic Encyclopedia*, las entradas de religión de la *Encyclopaedia Britannica*, la *Encyclopedia of {% wiki(slug="religion") %}Religion{% end %}*). El registro prioriza:
 
-- Clarity over rhetorical elaboration
-- Structure over narrative flow
-- Source-conscious prose over informal exposition
-- Conceptual precision over inclusive vagueness
-- Distinct traditions clearly distinguished rather than syncretically blurred
+- Claridad por encima de elaboración retórica
+- Estructura por encima de flujo narrativo
+- Prosa consciente de las fuentes por encima de exposición informal
+- Precisión conceptual por encima de vaguedad inclusiva
+- Tradiciones distintas claramente distinguidas más que sincréticamente difuminadas
 
-The detailed editorial governance lives in the project's `01-editorial-style.md` governance document.
+La gobernanza editorial detallada vive en el documento de gobernanza `01-editorial-style.md` del proyecto.
 
-## Application across the corpus
+## Aplicación a lo largo del corpus
 
-The Wheel of Heaven framework operates across the broader corpus through several principal architectural relationships.
+El marco Wheel of Heaven opera a lo largo del corpus más amplio mediante varias relaciones arquitectónicas principales.
 
-### The principal temporal architecture
+### La arquitectura temporal principal
 
-The corpus's principal temporal architecture is the precessional-age framework, with each of the twelve precessional ages receiving substantive treatment in a dedicated entry. The detailed treatment of the precessional architecture lives in the [World Age](../world-age/) entry; the constellational-symbolic complement lives in the [Zodiac](../zodiac/) entry.
+La arquitectura temporal principal del corpus es el marco de las eras precesionales, con cada una de las doce eras precesionales recibiendo un tratamiento sustantivo en una entrada dedicada. El tratamiento detallado de la arquitectura precesional vive en la entrada [Era del Mundo](../world-age/); el complemento simbólico-constelacional vive en la entrada [Zodíaco](../zodiac/).
 
-The twelve age entries:
-- [Age of Capricorn](../age-of-capricorn/) (-21,810 to -19,650): project opening; planetary surveys
-- [Age of Sagittarius](../age-of-sagittarius/) (-19,650 to -17,490): atmospheric engineering
-- [Age of Scorpio](../age-of-scorpio/) (-17,490 to -15,330): first life synthesis
-- [Age of Libra](../age-of-libra/) (-15,330 to -13,170): astronomical-calendrical work, zodiac formalization
-- [Age of Virgo](../age-of-virgo/) (-13,170 to -11,010): complex life forms, biodiversity
-- [Age of Leo](../age-of-leo/) (-11,010 to -8,850): human creation
-- [Age of Cancer](../age-of-cancer/) (-8,850 to -6,690): Eden, Adam and Eve
-- [Age of Gemini](../age-of-gemini/) (-6,690 to -4,530): flood, Noah
-- [Age of Taurus](../age-of-taurus/) (-4,530 to -2,370): post-flood reconstruction, Babel, Sodom and Gomorrah, patriarchs
-- [Age of Aries](../age-of-aries/) (-2,370 to -210): Hebrew prophetic tradition, Mosaic law, Axial Age
-- [Age of Pisces](../age-of-pisces/) (-210 to 1,950): Christianity, Islam, universal distribution
-- [Age of Aquarius](../age-of-aquarius/) (1,950 to ~4,110): current age; revelation; Cosmic Chain inheritance
+Las doce entradas de era:
+- [Era de Capricornio](../age-of-capricorn/) (-21.810 a -19.650): apertura del proyecto; reconocimientos planetarios
+- [Era de Sagitario](../age-of-sagittarius/) (-19.650 a -17.490): ingeniería atmosférica
+- [Era de Escorpio](../age-of-scorpio/) (-17.490 a -15.330): primera síntesis de vida
+- [Era de Libra](../age-of-libra/) (-15.330 a -13.170): trabajo astronómico-calendárico, formalización del zodíaco
+- [Era de Virgo](../age-of-virgo/) (-13.170 a -11.010): formas de vida complejas, biodiversidad
+- [Era de Leo](../age-of-leo/) (-11.010 a -8.850): creación humana
+- [Era de Cáncer](../age-of-cancer/) (-8.850 a -6.690): Edén, Adán y Eva
+- [Era de Géminis](../age-of-gemini/) (-6.690 a -4.530): diluvio, Noé
+- [Era de Tauro](../age-of-taurus/) (-4.530 a -2.370): reconstrucción posdiluviana, Babel, Sodoma y Gomorra, patriarcas
+- [Era de Aries](../age-of-aries/) (-2.370 a -210): tradición profética hebrea, ley mosaica, Era Axial
+- [Era de Piscis](../age-of-pisces/) (-210 a 1.950): cristianismo, islam, distribución universal
+- [Era de Acuario](../age-of-aquarius/) (1.950 a ~4.110): era actual; revelación; herencia de la Cadena Cósmica
 
-### The principal interpretive architecture
+### La arquitectura interpretativa principal
 
-The framework operates through a cluster of foundational interpretive concepts:
+El marco opera a través de un núcleo de conceptos interpretativos fundacionales:
 
-- [Cosmic Chain](../cosmic-chain/) — the broader cosmic-civilizational succession framework
-- [Cosmic Competition](../cosmic-competition/) — the engagement among multiple alliance-civilization participants
-- [Doubled Signature](../doubled-signature/) — the precessional-encoding principle
-- [Mass Effect](../mass-effect/) — the broader collective-consciousness phenomenon
-- [Fractal Cosmology](../fractal-cosmology/) — the infinite-scale structural framework
-- [Infinity](../infinity/) — the cosmological-philosophical framework
-- [Living Earth](../living-earth/) — the planetary-organism reading
-- [Four Levels](../four-levels/) — the broader cosmological-hierarchical framework
-- [Plurality of Gods](../plurality-of-gods/) — the structured-plurality framework
+- [Cadena Cósmica](../cosmic-chain/) — el marco de sucesión cósmico-civilizacional más amplio
+- [Competencia Cósmica](../cosmic-competition/) — el enfrentamiento entre múltiples participantes alianza-civilización
+- [Firma Duplicada](../doubled-signature/) — el principio de codificación precesional
+- [Efecto Masa](../mass-effect/) — el fenómeno más amplio de conciencia colectiva
+- [Cosmología Fractal](../fractal-cosmology/) — el marco estructural a escala infinita
+- [Infinito](../infinity/) — el marco cosmológico-filosófico
+- [Tierra Viviente](../living-earth/) — la lectura del planeta-organismo
+- [Cuatro Niveles](../four-levels/) — el marco cosmológico-jerárquico más amplio
+- [Pluralidad de los Dioses](../plurality-of-gods/) — el marco de pluralidad estructurada
 
-### The principal source-textual architecture
+### La arquitectura textual-fuente principal
 
-The framework engages substantively with several principal source-textual entities:
+El marco se compromete sustancialmente con varias entidades textuales fuente principales:
 
-- [Hebrew Bible](../hebrew-bible/) — the principal foundational source-textual entity
-- [Kabbalah](../kabbalah/) — the principal Jewish mystical-esoteric tradition; "the closest book to the truth" in the framework's reading
-- [Hamlet's Mill](../hamlets-mill/) — the foundational scholarly anchor for the precessional-mythological reading (when written)
-- [Message from the Designers](../message-from-the-designers/) — the principal Raëlian source compilation (when written)
-- Various other source-textual entries
+- [Biblia Hebrea](../hebrew-bible/) — la principal entidad textual fuente fundacional
+- [Cábala](../kabbalah/) — la principal tradición místico-esotérica judía; «el libro más cercano a la verdad» en la lectura del marco
+- [El molino de Hamlet](../hamlets-mill/) — el anclaje académico fundacional para la lectura mitológico-precesional (cuando se redacte)
+- [Mensaje de los Diseñadores](../message-from-the-designers/) — la principal compilación de fuentes raelianas (cuando se redacte)
+- Otras entradas de texto fuente
 
-### The principal-figure architecture
+### La arquitectura de figura principal
 
-The framework engages substantively with several principal figures:
+El marco se compromete sustancialmente con varias figuras principales:
 
-- [Raël](../rael/) (Claude Vorilhon) — the inaugural figure of the Aquarian-age revelation
-- [Jean Sendy](../jean-sendy/) — the principal pre-Raëlian framework articulator (when written)
-- The various creator-figures: [Yahweh](../yahweh/), [Lucifer](../lucifer/), [Satan](../satan/), [Serpent](../serpent/)
-- The various human prophets: [Adam](../adam-and-eve/), [Noah](../noah/), [Abraham](../abraham/), [Moses](../moses/), [Mary](../mary/), [Jesus](../jesus/), [Muhammad](../muhammad/), [Buddha](../buddha/) (various entries when written)
+- [Raël](../rael/) (Claude Vorilhon) — la figura inaugural de la revelación de la era acuariana
+- [Jean Sendy](../jean-sendy/) — el principal articulador pre-raeliano del marco (cuando se redacte)
+- Las diversas figuras creadoras: [Yahvé](../yahweh/), [Lucifer](../lucifer/), [Satán](../satan/), [Serpiente](../serpent/)
+- Los diversos profetas humanos: [Adán](../adam-and-eve/), [Noé](../noah/), [Abraham](../abraham/), [Moisés](../moses/), [María](../mary/), [Jesús](../jesus/), [Mahoma](../muhammad/), [Buda](../buddha/) (entradas diversas cuando se redacten)
 
-### The cross-reference density
+### La densidad de referencias cruzadas
 
-The corpus operates with substantial cross-reference density. Each entry establishes substantive cross-references with related entries, producing a tightly integrated reference architecture. The cross-reference density is one of the corpus's principal architectural features — the framework operates not as a collection of isolated entries but as an interconnected network in which any single entry can be entered from many directions.
+El corpus opera con una densidad sustancial de referencias cruzadas. Cada entrada establece referencias cruzadas sustantivas con entradas afines, produciendo una arquitectura de referencia estrechamente integrada. La densidad de referencias cruzadas es uno de los principales rasgos arquitectónicos del corpus — el marco opera no como una colección de entradas aisladas sino como una red interconectada en la que cualquier entrada puede abordarse desde muchas direcciones.
 
-## Distinguishing from adjacent projects
+## Distinción respecto a proyectos adyacentes
 
-The Wheel of Heaven project operates within a broader landscape of related but distinct projects. Several principal distinctions deserve articulation.
+El proyecto Wheel of Heaven opera dentro de un paisaje más amplio de proyectos afines pero distintos. Varias distinciones principales merecen ser articuladas.
 
-### Wheel of Heaven vs. the Raëlian Movement
+### Wheel of Heaven vs. el Movimiento Raeliano
 
-The corpus draws substantively on Raëlian source material — particularly *Message from the Designers* and various subsequent Raëlian publications. The Raëlian Movement (formally the **International Raëlian Movement**, founded by Claude Vorilhon as MADECH in 1973 and reorganized as the Raëlian Movement in 1976) operates as an institutional religious-cultural body principally concerned with disseminating the Raëlian message, supporting the construction of the planned Embassy, and developing the broader Raëlian cultural-philosophical-political program (Geniocracy, Humanitarianism, Sensual Meditation, the Raëlian Symbol, etc.).
+El corpus se nutre sustancialmente del material fuente raeliano — particularmente de *Mensaje de los Diseñadores* y otras publicaciones raelianas subsiguientes. El Movimiento Raeliano (formalmente el **Movimiento Raeliano Internacional**, fundado por Claude Vorilhon como MADECH en 1973 y reorganizado como Movimiento Raeliano en 1976) opera como cuerpo institucional religioso-cultural principalmente preocupado por difundir el mensaje raeliano, sostener la construcción de la planeada Embajada y desarrollar el programa cultural-filosófico-político raeliano más amplio (Geniocracia, {% wiki(slug="humanitarianism") %}Humanitarismo{% end %}, Meditación Sensual, el Símbolo Raeliano, etc.).
 
-The relationship is **substantive-source-engagement-without-institutional-affiliation**:
+La relación es **compromiso-sustancial-con-las-fuentes-sin-afiliación-institucional**:
 
-- The Wheel of Heaven project draws substantively on Raëlian source material for the framework's specific content
-- The project is not affiliated with the institutional Raëlian Movement
-- The project does not require Raëlian commitments of its readers (membership, doctrinal acceptance, participation in Raëlian institutional structures)
-- The project engages mainstream scholarly material that the Raëlian Movement does not principally engage (Hebrew Bible scholarship, Kabbalah scholarship, *Hamlet's Mill* tradition, broader comparative-religion scholarship)
-- The project operates with substantive interpretive distance on certain Raëlian-specific commitments where corpus-level integration suggests modifications
+- El proyecto Wheel of Heaven se nutre sustancialmente del material fuente raeliano para el contenido específico del marco
+- El proyecto no está afiliado al Movimiento Raeliano institucional
+- El proyecto no exige a sus lectores compromisos raelianos (afiliación, aceptación doctrinal, participación en las estructuras institucionales raelianas)
+- El proyecto se compromete con material académico dominante con el que el Movimiento Raeliano no se compromete principalmente (erudición de la Biblia hebrea, erudición cabalística, tradición de *El molino de Hamlet*, erudición de mitología comparada más amplia)
+- El proyecto opera con distancia interpretativa sustancial respecto a ciertos compromisos específicamente raelianos cuando la integración a nivel de corpus sugiere modificaciones
 
-The detailed treatment of the institutional Raëlian Movement lives in the [Raëlism](../raelism/) entry.
+El tratamiento detallado del Movimiento Raeliano institucional vive en la entrada [Raelismo](../raelism/).
 
-### Wheel of Heaven vs. Sendy's Tradition framework
+### Wheel of Heaven vs. el marco de la Tradición de Sendy
 
-Jean Sendy's pre-Raëlian work (1963-1972) articulates substantive prior engagement with what Sendy calls "the **Tradition**" — the broader framework of preserved cultural memory of alliance contact across multiple religious-cultural traditions. Sendy's work substantively prefigures the Raëlian framework on several key points:
+La obra pre-raeliana de Jean Sendy (1963-1972) articula un compromiso previo sustancial con lo que Sendy llama «la **Tradición**» — el marco más amplio de memoria cultural preservada del contacto con la alianza a través de múltiples tradiciones religioso-culturales. La obra de Sendy prefigura sustancialmente el marco raeliano en varios puntos clave:
 
-- The plural Elohim reading (Sendy articulates this in *La Lune, clé de la Bible*, 1968)
-- The precessional-zodiacal reading of the Hebrew Bible (extensively in *L'ère du Verseau*, 1970)
-- The "Tradition" as preserved cultural memory across multiple traditions
-- The Aquarian-age opening as substantive cosmological-civilizational transition
+- La lectura plural de los Elohim (Sendy la articula en *La Lune, clé de la Bible*, 1968)
+- La lectura precesional-zodiacal de la Biblia hebrea (de manera extensa en *L'ère du Verseau*, 1970)
+- La «Tradición» como memoria cultural preservada a través de múltiples tradiciones
+- La apertura de la era acuariana como transición cosmológico-civilizacional sustancial
 
-The relationship is **substantive-extension-with-substantial-continuity**:
+La relación es **extensión-sustancial-con-continuidad-sustantiva**:
 
-- The corpus draws substantively on Sendy's framework for its precessional-zodiacal reading
-- The corpus extends Sendy's work substantially with Raëlian source material that postdated Sendy's principal works (Vorilhon's first contact occurred December 1973, after most of Sendy's principal works were published)
-- The corpus integrates Sendy's framework with the *Hamlet's Mill* tradition (Santillana and von Dechend's work appeared in 1969, contemporaneously with Sendy's principal works) and with mainstream comparative-religion scholarship
-- The corpus operates with substantive editorial discipline that Sendy's more polemical engagement did not principally maintain
+- El corpus se nutre sustancialmente del marco de Sendy para su lectura precesional-zodiacal
+- El corpus extiende sustancialmente la obra de Sendy con material fuente raeliano que es posterior a las obras principales de Sendy (el primer contacto de Vorilhon tuvo lugar en diciembre de 1973, después de la publicación de la mayoría de las obras principales de Sendy)
+- El corpus integra el marco de Sendy con la tradición de *El molino de Hamlet* (la obra de Santillana y von Dechend apareció en 1969, contemporáneamente a las obras principales de Sendy) y con la erudición dominante de mitología comparada
+- El corpus opera con una disciplina editorial sustancial que el compromiso más polémico de Sendy no mantenía principalmente
 
-The detailed treatment of Sendy's framework lives in the [Jean Sendy](../jean-sendy/) entry when written.
+El tratamiento detallado del marco de Sendy vive en la entrada [Jean Sendy](../jean-sendy/) cuando se redacte.
 
-### Wheel of Heaven vs. ancient-aliens popular media
+### Wheel of Heaven vs. los medios populares de «antiguos extraterrestres»
 
-The broader popular-media engagement with "ancient aliens" content (the *Ancient Aliens* television series on the History channel, broader popular-publication work, various YouTube and podcast engagements) operates substantively differently from the Wheel of Heaven project on several principal dimensions:
+El compromiso de los medios populares más amplios con el contenido «antiguos extraterrestres» (la serie de televisión *Ancient Aliens* en el canal History, la obra de publicación popular más amplia, los diversos compromisos en YouTube y pódcasts) opera de manera sustancialmente distinta al proyecto Wheel of Heaven en varias dimensiones principales:
 
-- **Source-material discipline**: the corpus operates with substantive source-material discipline, distinguishing carefully between primary sources, mainstream scholarship, and interpretive synthesis; popular-media engagement frequently operates without these distinctions
-- **Editorial register**: the corpus operates in a wiki-style scholarly register; popular-media engagement frequently operates in a sensationalist register
-- **Integration depth**: the corpus operates as a substantively integrated framework with explicit chronological-temporal architecture and cross-reference density; popular-media engagement frequently operates as a collection of loosely-related anecdotes
-- **Epistemic care**: the corpus distinguishes carefully between source claims, comparative observations, framework-specific interpretation, and open questions; popular-media engagement frequently presents speculation as established fact
-- **Scholarly engagement**: the corpus engages substantively with mainstream scholarship; popular-media engagement frequently operates as if mainstream scholarship were not relevant
+- **Disciplina sobre el material fuente**: el corpus opera con una disciplina sustantiva sobre el material fuente, distinguiendo cuidadosamente entre fuentes primarias, erudición dominante y síntesis interpretativa; el compromiso de los medios populares frecuentemente opera sin estas distinciones
+- **Registro editorial**: el corpus opera en un registro estilo-wiki académico; el compromiso de los medios populares frecuentemente opera en un registro sensacionalista
+- **Profundidad de integración**: el corpus opera como un marco sustancialmente integrado con arquitectura cronológico-temporal explícita y densidad de referencias cruzadas; el compromiso de los medios populares frecuentemente opera como una colección de anécdotas vagamente relacionadas
+- **Cuidado epistémico**: el corpus distingue cuidadosamente entre afirmaciones de fuentes, observaciones comparativas, interpretación específica del marco y cuestiones abiertas; el compromiso de los medios populares frecuentemente presenta la especulación como hecho establecido
+- **Compromiso académico**: el corpus se compromete sustancialmente con la erudición dominante; el compromiso de los medios populares frecuentemente opera como si la erudición dominante no fuera relevante
 
-The relationship is **shared-broader-subject-area-with-substantively-distinct-operational-standards**.
+La relación es **área-temática-más-amplia-compartida-con-estándares-operativos-sustancialmente-distintos**.
 
-### Wheel of Heaven vs. mainstream comparative-religion scholarship
+### Wheel of Heaven vs. la erudición dominante de mitología comparada
 
-Mainstream comparative-religion scholarship operates principally through academic-disciplinary institutions (university religious-studies departments, scholarly societies, peer-reviewed journals, university presses) with substantive methodological-disciplinary commitments. The Wheel of Heaven project relates to mainstream comparative-religion scholarship as follows:
+La erudición dominante de mitología comparada opera principalmente a través de instituciones académico-disciplinares (departamentos universitarios de estudios religiosos, sociedades académicas, revistas con revisión por pares, editoriales universitarias) con compromisos metodológico-disciplinares sustantivos. El proyecto Wheel of Heaven se relaciona con la erudición dominante de mitología comparada del siguiente modo:
 
-- **Substantive engagement**: the corpus engages substantively with mainstream scholarship across multiple disciplinary contexts (Hebrew Bible studies, Kabbalah studies, Mesopotamian studies, Egyptian studies, Indian religious studies, Mesoamerican studies, archaeoastronomy, history of religion)
-- **Distinctive interpretive commitments**: the corpus operates from interpretive commitments that mainstream scholarship does not principally share (the alliance-creator framework, the precessional-engineering reading, the cross-cultural-preserved-memory reading)
-- **Methodological alignment at descriptive level, divergence at interpretive level**: the corpus generally accepts mainstream scholarly findings at the descriptive level (textual-philological, historical-archaeological, ethnographic-anthropological) while operating substantively differently at the interpretive level
-- **Open invitation to evaluation**: the corpus presents its interpretive position as a coherent framework that the reader is invited to evaluate against alternatives, rather than as established fact
+- **Compromiso sustantivo**: el corpus se compromete sustancialmente con la erudición dominante a través de múltiples contextos disciplinares (estudios de la Biblia hebrea, estudios cabalísticos, estudios mesopotámicos, estudios egipcios, estudios religiosos indios, estudios mesoamericanos, arqueoastronomía, historia de la religión)
+- **Compromisos interpretativos distintivos**: el corpus opera desde compromisos interpretativos que la erudición dominante no comparte principalmente (el marco alianza-creadora, la lectura ingenieril-precesional, la lectura de memoria preservada transcultural)
+- **Alineación metodológica al nivel descriptivo, divergencia al nivel interpretativo**: el corpus acepta en general los hallazgos académicos dominantes al nivel descriptivo (textual-filológico, histórico-arqueológico, etnográfico-antropológico) operando sustantivamente distinto al nivel interpretativo
+- **Invitación abierta a la evaluación**: el corpus presenta su posición interpretativa como un marco coherente que el lector está invitado a evaluar frente a alternativas, más que como hecho establecido
 
-The relationship is **substantive-engagement-with-distinctive-interpretive-commitments**.
+La relación es **compromiso-sustantivo-con-compromisos-interpretativos-distintivos**.
 
-### Wheel of Heaven vs. Sitchin's Anunnaki framework
+### Wheel of Heaven vs. el marco Anunnaki de Sitchin
 
-**Zecharia Sitchin** (1920-2010) articulated, principally in *The 12th Planet* (1976) and the broader *Earth Chronicles* series, an alternative-history framework engaging Mesopotamian source material with the proposal that the **Anunnaki** of Sumerian mythology were extraterrestrial beings from the planet Nibiru who created humanity through genetic engineering. The relationship is **shared-broader-framework-direction-with-substantive-source-material-and-interpretive-distinctions**:
+**Zecharia Sitchin** (1920-2010) articuló, principalmente en *El duodécimo planeta* (1976){{ cite(id="the-12th-planet", text="[10]", title="Sitchin, *El duodécimo planeta* (1976) — obra fundacional del marco Anunnaki / Nibiru") }} y en la serie más amplia *Crónicas de la Tierra*, un marco de historia alternativa que se compromete con material fuente mesopotámico con la propuesta de que los **Anunnaki** de la mitología sumeria eran seres extraterrestres procedentes del planeta Nibiru que crearon a la humanidad mediante ingeniería genética. La relación es **dirección-más-amplia-de-marco-compartida-con-distinciones-sustantivas-de-material-fuente-y-de-interpretación**:
 
-- Both frameworks register an extraterrestrial-creator reading of human origins
-- Both frameworks register the broader cross-cultural distribution of preserved memory content
-- The Wheel of Heaven framework operates principally through Hebrew Bible primary sources (with Mesopotamian comparative material); Sitchin operates principally through Mesopotamian primary sources (with Hebrew Bible comparative material)
-- The frameworks differ substantively on specific identifications (the Wheel of Heaven framework's Elohim civilization vs. Sitchin's specific Anunnaki / Nibiru content)
-- The Wheel of Heaven framework operates with substantively different chronological commitments than Sitchin's framework
+- Ambos marcos registran una lectura extraterrestre-creadora de los orígenes humanos
+- Ambos marcos registran la distribución transcultural más amplia de contenido de memoria preservada
+- El marco Wheel of Heaven opera principalmente a través de fuentes primarias de la Biblia hebrea (con material comparativo mesopotámico); Sitchin opera principalmente a través de fuentes primarias mesopotámicas (con material comparativo de la Biblia hebrea)
+- Los marcos difieren sustancialmente en identificaciones específicas (la civilización Elohim del marco Wheel of Heaven vs. el contenido específico Anunnaki / Nibiru de Sitchin)
+- El marco Wheel of Heaven opera con compromisos cronológicos sustancialmente distintos a los del marco de Sitchin
 
-### Wheel of Heaven vs. Wallis's broader engagement
+### Wheel of Heaven vs. el compromiso más amplio de Wallis
 
-**Paul Anthony Wallis**'s *Escaping from Eden* (2020), *The Eden Conspiracy* (2024), and various other works engage substantial Hebrew Bible content through a strict-translational approach drawing on the broader engagement of Mauro Biglino, Ellen White, and various others. The relationship is **shared-broader-direction-with-substantively-distinct-source-material-warrant**:
+*Escapando del Edén* (2020) de **Paul Anthony Wallis**,{{ cite(id="escaping-from-eden", text="[11]", title="Wallis, *Escapando del Edén* (2020) — lectura comparativa de traducción estricta de los *Elohim* de la Biblia hebrea") }} *La conspiración del Edén* (2024) y otras obras se comprometen con material sustancial de la Biblia hebrea mediante un enfoque de traducción estricta que se nutre del compromiso más amplio de Mauro Biglino,{{ cite(id="the-naked-bible", text="[12]", title="Biglino y Cattaneo, *La Biblia desnuda* (2022) — método de traducción estrictamente literal del hebreo en el que se apoya el compromiso más amplio de Wallis") }} Ellen White y otros. La relación es **dirección-más-amplia-compartida-con-soporte-de-material-fuente-sustancialmente-distinto**:
 
-- Both frameworks register the Hebrew Bible's content as containing preserved memory of extraterrestrial-civilization contact
-- The Wheel of Heaven framework draws principally on Raëlian source material; Wallis draws principally on the strict-translational engagement
-- The frameworks register substantive structural alignment at multiple specific points
+- Ambos marcos registran el contenido de la Biblia hebrea como contenedor de memoria preservada de contacto con una civilización extraterrestre
+- El marco Wheel of Heaven se nutre principalmente del material fuente raeliano; Wallis se nutre principalmente del compromiso de traducción estricta
+- Los marcos registran una alineación estructural sustancial en múltiples puntos específicos
 
-### Wheel of Heaven vs. UFO disclosure community
+### Wheel of Heaven vs. la comunidad de divulgación OVNI
 
-The broader UFO/UAP disclosure community (the post-2017 *New York Times* AATIP coverage, the AARO investigations, the 2023 Congressional hearings, the broader contemporary disclosure tradition) operates substantively within a contemporary policy-and-evidence framework engaging unidentified aerial phenomena principally as a national-security and scientific-investigation concern. The relationship is **substantive-relevance-without-direct-overlap**:
+La comunidad más amplia de divulgación OVNI/UAP (la cobertura de AATIP por *The New York Times* a partir de 2017, las investigaciones de la AARO, las audiencias del Congreso de 2023, la tradición contemporánea más amplia de divulgación) opera sustancialmente dentro de un marco contemporáneo de política y evidencia que se compromete con los fenómenos aéreos no identificados principalmente como una preocupación de seguridad nacional e investigación científica. La relación es **relevancia-sustantiva-sin-solapamiento-directo**:
 
-- The Wheel of Heaven framework registers the contemporary UFO/UAP disclosure tradition as substantive contextual content for the broader Aquarian-age opening (treated principally in the [Age of Aquarius](../age-of-aquarius/) entry when written)
-- The corpus does not principally operate within the disclosure-community framework
-- The corpus's specific framework engages the broader extraterrestrial-civilization question through specific historical-cultural-source-material commitments rather than through contemporary-evidence engagement principally
+- El marco Wheel of Heaven registra la tradición contemporánea de divulgación OVNI/UAP como contenido contextual sustancial para la apertura de la era acuariana más amplia (tratada principalmente en la entrada [Era de Acuario](../age-of-aquarius/) cuando se redacte)
+- El corpus no opera principalmente dentro del marco de la comunidad de divulgación
+- El marco específico del corpus se compromete con la cuestión más amplia de la civilización extraterrestre mediante compromisos histórico-culturales-fuente específicos más que principalmente mediante compromiso con evidencia contemporánea
 
-## The corpus's scholarly engagement
+## El compromiso académico del corpus
 
-The Wheel of Heaven project engages substantively with mainstream scholarship across multiple disciplinary contexts. The principal engagements:
+El proyecto Wheel of Heaven se compromete sustancialmente con la erudición dominante a través de múltiples contextos disciplinares. Los compromisos principales:
 
-### Hebrew Bible scholarship
+### Erudición de la Biblia hebrea
 
-The corpus engages substantively with mainstream Hebrew Bible scholarship: the Documentary Hypothesis (Wellhausen, Friedman, Van Seters, Baden); contemporary critical scholarship (von Rad, Westermann, Brueggemann, Alter); archaeological-historical context (Dever, Finkelstein, Mazar, the broader Albright tradition); textual criticism (Tov, Hendel); Dead Sea Scrolls scholarship (VanderKam, Flint); Septuagint scholarship; canonical-formation scholarship (McDonald, Sundberg). The detailed treatment lives in the [Hebrew Bible](../hebrew-bible/) entry.
+El corpus se compromete sustancialmente con la erudición dominante de la Biblia hebrea: la Hipótesis Documental (Wellhausen,{{ cite(id="prolegomena-zur-geschichte-israels", text="[13]", title="Wellhausen, *Prolegomena zur Geschichte Israels* (1878) — articulación fundacional de la Hipótesis Documental") }} Friedman,{{ cite(id="who-wrote-the-bible", text="[14]", title="Friedman, *¿Quién escribió la Biblia?* (1987) — replanteamiento moderno accesible de la Hipótesis Documental") }} Van Seters, Baden); erudición crítica contemporánea (von Rad, Westermann, Brueggemann, Alter); contexto arqueológico-histórico (Dever, Finkelstein, Mazar, la tradición de Albright más amplia); crítica textual (Tov, Hendel); erudición de los Manuscritos del Mar Muerto (VanderKam, Flint); erudición de la Septuaginta; erudición de la formación canónica (McDonald, Sundberg).{{ footnote(id="5") }} El tratamiento detallado vive en la entrada [Biblia Hebrea](../hebrew-bible/).
 
-### Kabbalah scholarship
+### Erudición cabalística
 
-The corpus engages substantively with mainstream Kabbalah scholarship: Scholem (foundational), Idel (revisionist), Wolfson (philosophical), Liebes (mythological), Matt (the Pritzker Edition Zohar), the broader scholarly tradition. The detailed treatment lives in the [Kabbalah](../kabbalah/) entry.
+El corpus se compromete sustancialmente con la erudición cabalística dominante: Scholem (fundacional), Idel (revisionista), Wolfson (filosófica), Liebes (mitológica), Matt (la Pritzker Edition del Zohar),{{ cite(id="the-zohar-pritzker", text="[15]", title="Matt (trad.), *El Zohar: Pritzker Edition* (2003-2017) — traducción académica estándar del Zohar") }} la tradición académica más amplia. El tratamiento detallado vive en la entrada [Cábala](../kabbalah/).
 
-### Archaeoastronomy
+### Arqueoastronomía
 
-The corpus engages substantively with mainstream archaeoastronomy and the *Hamlet's Mill* tradition: Santillana and von Dechend (foundational), Cruttenden, Sellers, Hawkins, Aveni, Krupp, the broader scholarly tradition. The detailed treatment lives in the [Hamlet's Mill](../hamlets-mill/) entry when written.
+El corpus se compromete sustancialmente con la arqueoastronomía dominante y con la tradición de *El molino de Hamlet*: Santillana y von Dechend (fundacionales), Cruttenden, Sellers, Hawkins, Aveni, Krupp, la tradición académica más amplia. El tratamiento detallado vive en la entrada [El molino de Hamlet](../hamlets-mill/) cuando se redacte.
 
-### Comparative-religion scholarship
+### Erudición de mitología comparada
 
-The corpus engages substantively with mainstream comparative-religion scholarship across multiple cultural traditions: Mesopotamian (Lambert, Foster, Dalley); Egyptian (Allen, Hornung, Assmann); Greek (West, Burkert); Vedic / Hindu (Doniger, Olivelle); Mesoamerican (Schele, Aveni, Coe); Chinese (Pankenier, Sun); various others.
+El corpus se compromete sustancialmente con la erudición dominante de mitología comparada a través de múltiples tradiciones culturales: mesopotámica (Lambert, Foster, Dalley); egipcia (Allen, Hornung, Assmann); griega (West, Burkert); védica / hindú (Doniger, Olivelle); mesoamericana (Schele, Aveni, Coe); china (Pankenier, Sun); y otras.
 
-### Alternative-history scholarship
+### Erudición de historia alternativa
 
-The corpus engages with various alternative-history scholarly traditions: Sitchin's Anunnaki framework; Hancock's broader engagement; Bauval's Orion-correlation theory; West's Egyptian-wisdom tradition; Wallis's strict-translational approach; Biglino's Hebrew-translational engagement; various others. The corpus engages these substantively while operating from distinct source-material warrant.
+El corpus se compromete con diversas tradiciones académicas de historia alternativa: el marco Anunnaki de Sitchin; el compromiso más amplio de Hancock; la teoría de correlación con Orión de Bauval; la tradición de sabiduría egipcia de West; el enfoque de traducción estricta de Wallis; el compromiso de traducción hebrea de Biglino; y otras. El corpus se compromete con ellas sustancialmente, operando desde un soporte distinto del material fuente.
 
-### Contemporary scientific developments
+### Desarrollos científicos contemporáneos
 
-The corpus engages substantively with contemporary scientific developments relevant to the broader framework: planetary science and astrobiology (relevant to the Capricorn-age engineering question); synthetic biology (relevant to the Scorpio-age life-synthesis question); precessional measurement and IAU astronomical standards; the broader UFO/UAP disclosure tradition; contemporary developments in AI, biotechnology, and space capability (relevant to the Aquarian-age inheritance threshold).
+El corpus se compromete sustancialmente con desarrollos científicos contemporáneos relevantes para el marco más amplio: la ciencia planetaria y la astrobiología (relevantes para la cuestión de la ingeniería de la era de Capricornio); la biología sintética (relevante para la cuestión de la síntesis de vida de la era de Escorpio); la medición de la precesión y los estándares astronómicos de la IAU; la tradición más amplia de divulgación OVNI/UAP; los desarrollos contemporáneos en IA, biotecnología y capacidad espacial (relevantes para el umbral de herencia de la era acuariana).
 
-## The continuing project
+## El proyecto continuado
 
-The Wheel of Heaven project is not a final synthesis but one stage in an ongoing collective project. The project's articulation of its own continuing development:
+El proyecto Wheel of Heaven no es una síntesis definitiva sino una etapa más en un proyecto colectivo en curso. La articulación que el proyecto hace de su propio desarrollo continuado:
 
-> *"The present corpus is not the final synthesis. It is one stage in an ongoing project that will continue across the coming years and decades, both through the corpus's own continued development and through the parallel work of other authors and traditions engaging the same materials."*
+> *«El presente corpus no es la síntesis definitiva. Es una etapa de un proyecto en curso que continuará a lo largo de los próximos años y décadas, tanto mediante el desarrollo continuado del propio corpus como mediante el trabajo paralelo de otros autores y tradiciones que se comprometen con los mismos materiales.»*
 
-Several principal extensions remain on the project's working horizon:
+Varias extensiones principales permanecen en el horizonte de trabajo del proyecto:
 
-- A dedicated treatment of the **Book of Revelation** and the broader apocalyptic literature, including the canonical Apocalypse, the Enochic tradition, and various other apocalyptic-textual material
-- A dedicated treatment of the **Great Pyramid of Giza** and the broader Egyptian alliance presence
-- A dedicated systematic treatment of the **Jewish mystical tradition** beyond the Kabbalah entry
-- A dedicated treatment of the **fractal-cosmos / shape-of-the-universe** material
-- A dedicated systematic treatment of **contemporary scientific developments** as operational expressions of the Aquarian-age inheritance threshold
-- The completion of the **twelve precessional age entries** with full chronological-narrative integration
-- Additional **figure entries** completing the principal-figure architecture
+- Un tratamiento dedicado del **Libro del Apocalipsis** y de la literatura apocalíptica más amplia, incluyendo el {% wiki(slug="apocalypse") %}Apocalipsis{% end %} canónico, la tradición enóquica y otros materiales textuales apocalípticos
+- Un tratamiento dedicado de la **Gran Pirámide de Guiza** y de la presencia más amplia de la alianza en Egipto
+- Un tratamiento sistemático dedicado de la **tradición mística judía** más allá de la entrada sobre la Cábala
+- Un tratamiento dedicado del material sobre **cosmos fractal / forma del universo**
+- Un tratamiento sistemático dedicado de los **desarrollos científicos contemporáneos** como expresiones operativas del umbral de herencia de la era acuariana
+- La finalización de las **doce entradas de era precesional** con integración cronológico-narrativa completa
+- **Entradas de figura** adicionales que completen la arquitectura de figura principal
 
-These extensions are not commitments but forward-pointers — work that the broader project may undertake across the coming years. The project operates with explicit recognition that subsequent work by other authors and traditions will supplement and extend the corpus's present articulation as the broader Aquarian-age recovery and integration continues.
+Estas extensiones no son compromisos sino indicaciones de futuro — trabajo que el proyecto más amplio puede emprender a lo largo de los próximos años. El proyecto opera con el reconocimiento explícito de que el trabajo subsiguiente de otros autores y tradiciones complementará y ampliará la articulación actual del corpus a medida que la recuperación e integración acuarianas más amplias prosigan.
 
-### The collaborative dimension
+### La dimensión colaborativa
 
-The Wheel of Heaven project operates as a collaborative undertaking. The technical infrastructure runs on open-source web technologies, with content management hosted as Git projects generating static web pages on a content-delivery network. The project welcomes substantive contributions:
+El proyecto Wheel of Heaven opera como una empresa colaborativa. La infraestructura técnica funciona con tecnologías web de código abierto, con la gestión de contenido alojada como proyectos Git que generan páginas web estáticas en una red de distribución de contenido. El proyecto da la bienvenida a contribuciones sustanciales:
 
-- **Content contributions**: corrections, additions, new entries, expanded treatments
-- **Source-material contributions**: identification of additional source materials, scholarly references, primary-source engagements
-- **Cross-cultural contributions**: substantive engagement with traditions and source materials currently underrepresented in the corpus
-- **Editorial contributions**: refinement of existing entries, structural improvements, error corrections
-- **Technical contributions**: improvements to the underlying web infrastructure, accessibility, search functionality
+- **Contribuciones de contenido**: correcciones, adiciones, nuevas entradas, tratamientos ampliados
+- **Contribuciones de material fuente**: identificación de materiales fuente adicionales, referencias académicas, compromisos con fuentes primarias
+- **Contribuciones transculturales**: compromiso sustantivo con tradiciones y materiales fuente actualmente subrepresentados en el corpus
+- **Contribuciones editoriales**: refinamiento de las entradas existentes, mejoras estructurales, correcciones de errores
+- **Contribuciones técnicas**: mejoras a la infraestructura web subyacente, a la accesibilidad y a la funcionalidad de búsqueda
 
-The detailed contribution guidelines are available through the project's GitHub repositories.
+Las directrices detalladas de contribución están disponibles a través de los repositorios GitHub del proyecto.
 
-### The reader's invitation
+### La invitación al lector
 
-The corpus extends an explicit invitation to its readers. The corpus's articulation:
+El corpus extiende una invitación explícita a sus lectores. La articulación del corpus:
 
-> *"The corpus is not a closed system. It is an open invitation to evaluation."*
+> *«El corpus no es un sistema cerrado. Es una invitación abierta a la evaluación.»*
 
-The reader is invited to:
+Se invita al lector a:
 
-- Engage the framework substantively rather than dismissively or uncritically
-- Distinguish between the corpus's source-claim content, comparative-observation content, and framework-specific interpretive content
-- Compare the framework against alternative interpretations of the same source material
-- Evaluate the framework against the reader's own engagement with the broader source-material landscape
-- Contribute substantively to the project's ongoing development
+- Comprometerse con el marco sustancialmente más que de manera desdeñosa o acrítica
+- Distinguir entre el contenido de afirmación de fuente del corpus, el contenido de observación comparativa y el contenido interpretativo específico del marco
+- Comparar el marco frente a interpretaciones alternativas del mismo material fuente
+- Evaluar el marco frente al propio compromiso del lector con el paisaje más amplio de material fuente
+- Contribuir sustancialmente al desarrollo continuado del proyecto
 
-The corpus does not require acceptance. It asks for serious engagement. Whether the reader ultimately accepts, rejects, modifies, or holds open judgment regarding the broader framework is a question for the reader to determine through substantive engagement with the material rather than through prior commitment in either direction.
+El corpus no exige aceptación. Pide compromiso serio. Que el lector finalmente acepte, rechace, modifique o suspenda el juicio respecto al marco más amplio es una cuestión que el lector debe determinar mediante compromiso sustantivo con el material más que mediante compromiso previo en cualquier dirección.
 
-## See also
+## Véase también
 
-- [World Age](../world-age/)
-- [Zodiac](../zodiac/)
-- [Doubled Signature](../doubled-signature/)
-- [Cosmic Chain](../cosmic-chain/)
-- [Cosmic Competition](../cosmic-competition/)
-- [Mass Effect](../mass-effect/)
-- [Fractal Cosmology](../fractal-cosmology/)
-- [Infinity](../infinity/)
-- [Living Earth](../living-earth/)
-- [Four Levels](../four-levels/)
-- [Plurality of Gods](../plurality-of-gods/)
-- [Hebrew Bible](../hebrew-bible/)
-- [Kabbalah](../kabbalah/)
+- [Era del Mundo](../world-age/)
+- [Zodíaco](../zodiac/)
+- [Firma Duplicada](../doubled-signature/)
+- [Cadena Cósmica](../cosmic-chain/)
+- [Competencia Cósmica](../cosmic-competition/)
+- [Efecto Masa](../mass-effect/)
+- [Cosmología Fractal](../fractal-cosmology/)
+- [Infinito](../infinity/)
+- [Tierra Viviente](../living-earth/)
+- [Cuatro Niveles](../four-levels/)
+- [Pluralidad de los Dioses](../plurality-of-gods/)
+- [Biblia Hebrea](../hebrew-bible/)
+- [Cábala](../kabbalah/)
 - [Elohim](../elohim/)
-- [Yahweh](../yahweh/)
+- [Yahvé](../yahweh/)
 - [Lucifer](../lucifer/)
-- [Satan](../satan/)
-- [Serpent](../serpent/)
+- [Satán](../satan/)
+- [Serpiente](../serpent/)
 - [Raël](../rael/)
-- [Raëlism](../raelism/)
-- [Embassy](../embassy/)
-- [Hamlet's Mill](../hamlets-mill/)
+- [Raelismo](../raelism/)
+- [Embajada](../embassy/)
+- [El molino de Hamlet](../hamlets-mill/)
 - [Jean Sendy](../jean-sendy/)
 - [Mauro Biglino](../mauro-biglino/)
 - [Paul Anthony Wallis](../paul-anthony-wallis/)
-- [Akhenaten](../akhenaten/)
-- [Neo-Euhemerism](../neo-euhemerism/)
+- [Akhenatón](../akhenaten/)
+- [Neoevemerismo](../neo-euhemerism/)
 
-## References
+## Referencias
 
-### Project governance documents
+### Documentos de gobernanza del proyecto
 
-Wheel of Heaven Project. *Project Charter*. Internal governance document.
+Wheel of Heaven Project. *Project Charter*. Documento de gobernanza interna.
 
-Wheel of Heaven Project. *Editorial Style Guide*. Internal governance document.
+Wheel of Heaven Project. *Editorial Style Guide*. Documento de gobernanza interna.
 
-Wheel of Heaven Project. *Chronology Rules*. Internal governance document.
+Wheel of Heaven Project. *Chronology Rules*. Documento de gobernanza interna.
 
-Wheel of Heaven Project. *Nomenclature*. Internal governance document.
+Wheel of Heaven Project. *Nomenclature*. Documento de gobernanza interna.
 
-Wheel of Heaven Project. *Source Methodology*. Internal governance document.
+Wheel of Heaven Project. *Source Methodology*. Documento de gobernanza interna.
 
-Wheel of Heaven Project. *Chapter Index*. Internal governance document.
+Wheel of Heaven Project. *Chapter Index*. Documento de gobernanza interna.
 
-Wheel of Heaven Project. *Master Timeline*. Internal governance document.
+Wheel of Heaven Project. *Master Timeline*. Documento de gobernanza interna.
 
-### Principal Raëlian sources
+### Fuentes raelianas principales
 
-Vorilhon, Claude (Raël). *The Book Which Tells the Truth* (1974); collected in *Message from the Designers*. The principal source for the framework's specific content.
+Vorilhon, Claude (Raël). *El libro que dice la verdad* (1974); recopilado en *Mensaje de los Diseñadores*. Fuente principal del contenido específico del marco.
 
-Vorilhon, Claude (Raël). *Extra-Terrestrials Took Me to Their Planet* (1975); collected in *Message from the Designers*.
+Vorilhon, Claude (Raël). *Los extraterrestres me llevaron a su planeta* (1975); recopilado en *Mensaje de los Diseñadores*.
 
-Vorilhon, Claude (Raël). *Let's Welcome the Extra-Terrestrials* (1979); collected in *Message from the Designers*.
+Vorilhon, Claude (Raël). *Acojamos a los extraterrestres* (1979); recopilado en *Mensaje de los Diseñadores*.
 
-Vorilhon, Claude (Raël). *Message from the Designers*. Tagman Press, 2005. The collected source compilation.
+Vorilhon, Claude (Raël). *Mensaje de los Diseñadores*. Tagman Press, 2005. La compilación recopilatoria de las fuentes.
 
-Vorilhon, Claude (Raël). *Geniocracy*. Various editions.
+Vorilhon, Claude (Raël). *{% wiki(slug="geniocracy") %}Geniocracia{% end %}*. Diversas ediciones.
 
-Vorilhon, Claude (Raël). *Sensual Meditation*. Various editions.
+Vorilhon, Claude (Raël). *Meditación Sensual*. Diversas ediciones.
 
-### Sendy's principal works
+### Obras principales de Sendy
 
 Sendy, Jean. *Les cahiers de cours de Moïse*. Julliard, 1963.
 
@@ -537,9 +613,9 @@ Sendy, Jean. *L'ère du Verseau*. Robert Laffont, 1970.
 
 Sendy, Jean. *Les dieux nous sont nés*. Grasset, 1966.
 
-### Hamlet's Mill tradition
+### Tradición de *El molino de Hamlet*
 
-de Santillana, Giorgio, and Hertha von Dechend. *Hamlet's Mill: An Essay on Myth and the Frame of Time*. Gambit, 1969.
+de Santillana, Giorgio, y Hertha von Dechend. *Hamlet's Mill: An Essay on Myth and the Frame of Time*. Gambit, 1969.
 
 Cruttenden, Walter. *Lost Star of Myth and Time*. St. Lynn's Press, 2005.
 
@@ -549,15 +625,15 @@ Aveni, Anthony F. *Skywatchers of Ancient Mexico*. University of Texas Press, 19
 
 Krupp, Edwin C. *Echoes of the Ancient Skies*. Harper & Row, 1983.
 
-### Hebrew Bible scholarship
+### Erudición de la Biblia hebrea
 
-Wellhausen, Julius. *Prolegomena to the History of Israel*. Trans. J. Sutherland Black and Allan Menzies. Adam & Charles Black, 1885 [originally 1878].
+Wellhausen, Julius. *Prolegomena to the History of Israel*. Trad. J. Sutherland Black y Allan Menzies. Adam & Charles Black, 1885 [originalmente 1878].
 
 Friedman, Richard Elliott. *Who Wrote the Bible?* Harper & Row, 1987.
 
 Friedman, Richard Elliott. *The Bible with Sources Revealed*. HarperOne, 2003.
 
-von Rad, Gerhard. *Genesis: A Commentary*. Westminster, revised ed., 1972 [originally 1949].
+von Rad, Gerhard. *Genesis: A Commentary*. Westminster, ed. revisada, 1972 [originalmente 1949].
 
 Westermann, Claus. *Genesis 1-11: A Commentary*. Augsburg / Fortress, 1984.
 
@@ -567,11 +643,11 @@ Alter, Robert. *The Hebrew Bible: A Translation with Commentary*. 3 vols. W. W. 
 
 Dever, William G. *What Did the Biblical Writers Know and When Did They Know It?* Eerdmans, 2001.
 
-Finkelstein, Israel, and Neil Asher Silberman. *The Bible Unearthed*. Free Press, 2001.
+Finkelstein, Israel, y Neil Asher Silberman. *The Bible Unearthed*. Free Press, 2001.
 
-Tov, Emanuel. *Textual Criticism of the Hebrew Bible*. Augsburg Fortress, 3rd ed., 2012 [originally 1992].
+Tov, Emanuel. *Textual Criticism of the Hebrew Bible*. Augsburg Fortress, 3.ª ed., 2012 [originalmente 1992].
 
-### Kabbalah scholarship
+### Erudición cabalística
 
 Scholem, Gershom. *Major Trends in Jewish Mysticism*. Schocken, 1941.
 
@@ -579,15 +655,15 @@ Idel, Moshe. *Kabbalah: New Perspectives*. Yale University Press, 1988.
 
 Wolfson, Elliot R. *Through a Speculum That Shines*. Princeton University Press, 1994.
 
-Matt, Daniel C., trans. *The Zohar: Pritzker Edition*. 12 vols. Stanford University Press, 2003-2017.
+Matt, Daniel C., trad. *The Zohar: Pritzker Edition*. 12 vols. Stanford University Press, 2003-2017.
 
-### Alternative-history scholarship
+### Erudición de historia alternativa
 
 Sitchin, Zecharia. *The 12th Planet*. Stein and Day, 1976.
 
 Hancock, Graham. *Magicians of the Gods*. St. Martin's Press, 2015.
 
-Bauval, Robert, and Adrian Gilbert. *The Orion Mystery*. Crown, 1994.
+Bauval, Robert, y Adrian Gilbert. *The Orion Mystery*. Crown, 1994.
 
 West, John Anthony. *Serpent in the Sky*. Julian Press, 1979.
 
@@ -595,9 +671,9 @@ Wallis, Paul Anthony. *Escaping from Eden*. 6th Books, 2020.
 
 Wallis, Paul Anthony. *The Eden Conspiracy*. 6th Books, 2024.
 
-Biglino, Mauro, and Giorgio Cattaneo. *The Naked Bible*. Uno, 2022.
+Biglino, Mauro, y Giorgio Cattaneo. *The Naked Bible*. Uno, 2022.
 
-### Egyptological sources (Akhenaten question)
+### Fuentes egiptológicas (cuestión de Akhenatón)
 
 Aldred, Cyril. *Akhenaten: King of Egypt*. Thames & Hudson, 1988.
 
@@ -605,8 +681,8 @@ Redford, Donald B. *Akhenaten: The Heretic King*. Princeton University Press, 19
 
 Hornung, Erik. *Akhenaten and the Religion of Light*. Cornell University Press, 1999.
 
-### Web resources
+### Recursos web
 
-Wheel of Heaven Project. <https://www.wheelofheaven.world>. The principal project web platform.
+Wheel of Heaven Project. <https://www.wheelofheaven.world>. La plataforma web principal del proyecto.
 
-Wheel of Heaven GitHub. <https://github.com/wheelofheaven/>. The principal technical infrastructure repository.
+Wheel of Heaven GitHub. <https://github.com/wheelofheaven/>. El repositorio principal de infraestructura técnica.

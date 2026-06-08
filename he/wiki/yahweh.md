@@ -1,280 +1,353 @@
 +++
-title = "Yahweh"
+title = "יהוה"
 slug = "yahweh"
-description = "Yahweh (Hebrew: יהוה, YHWH) is the proper name of the principal divine figure of the Hebrew Bible, conventionally read by mainstream tradition as the singular God of Israel. On the reading developed in the Raëlian source material and adopted by the Wheel of Heaven corpus, Yahweh is a specific Eloha — the president of the Council of the Eternals, the senior alliance authority who personally directed the creation of life on Earth from the Age of Capricorn onward, and the principal alliance interlocutor with Earth's prophetic figures across the subsequent fifteen millennia. The corpus's primary source material is Yahweh's first-person account of his civilization, given to Claude Vorilhon (Raël) over six mornings in 1973."
+description = "יהוה (עברית: יהוה, YHWH) הוא שמו הפרטי של הדמות האלוהית המרכזית של המקרא העברי, הנקראת באופן מקובל במסורת המיינסטרים כאלוהי ישראל היחיד. על פי הקריאה שפותחה בחומר המקור הראליאני ואומצה על ידי קורפוס »גלגל השמיים«, יהוה הוא אלוהה ספציפי — נשיא מועצת הנצחיים, הסמכות הבכירה של הברית שכיוונה אישית את בריאת החיים על כדור הארץ מעידן הגדי ואילך, והמתווך העיקרי של הברית עם דמויות הנבואה של כדור הארץ לאורך חמישה-עשר המילניאלים הבאים. חומר המקור העיקרי של הקורפוס הוא דיווח גוף ראשון של יהוה על הציוויליזציה שלו, שניתן לקלוד וורילון (ראל) לאורך שישה בקרים ב-1973."
 template = "wiki-page.html"
 toc = true
 
 [extra]
-translation_status = "metadata_only"
 featured_order = 2
 category = "Elohim"
 editorial_pass = "2026-05"
 entry_type = "figure"
-alternative_names = ["YHWH", "יהוה", "𐤉𐤄𐤅𐤄", "YHVH", "Jehovah", "the Eternal", "the First and the Last", "Alpha and Omega"]
+alternative_names = ["YHWH", "יהוה", "𐤉𐤄𐤅𐤄", "YHVH", "Jehovah", "הנצחי", "הראשון והאחרון", "אלפא ואומגה"]
 see_also = [
-    { title = "Elohim", path = "wiki/elohim", description = "The plural designation of which Yahweh is the principal member." },
-    { title = "Council of Eternals", path = "wiki/council-of-eternals", description = "The governing body Yahweh presides over." },
-    { title = "Jesus", path = "wiki/jesus", description = "The figure conventionally identified as Yahweh's son in Christian tradition." },
-    { title = "Moses", path = "wiki/moses", description = "Yahweh's primary contact during the Exodus narrative." },
-    { title = "Abraham", path = "wiki/abraham", description = "The founding patriarch through whom Yahweh established the covenant." },
+    { title = "אלוהים", path = "wiki/elohim", description = "כינוי הרבים שיהוה הוא חבר עיקרי בו." },
+    { title = "מועצת הנצחיים", path = "wiki/council-of-eternals", description = "הגוף השלטוני שיהוה עומד בראשו." },
+    { title = "ישו", path = "wiki/jesus", description = "הדמות המזוהה באופן מקובל כבנו של יהוה במסורת הנוצרית." },
+    { title = "משה", path = "wiki/moses", description = "מגעו העיקרי של יהוה לאורך נרטיב יציאת מצרים." },
+    { title = "אברהם", path = "wiki/abraham", description = "אבי האומה היסודי שדרכו ביסס יהוה את הברית." },
 ]
+
+footnotes = [
+    { content = "נתון של כ-6,800 מופעי השם המפורש במקרא העברי הוא נתון קונקורדנציה מצוטט בהרחבה, הנגזר מעבודה על נוסח המסורה. הספירות המדויקות משתנות לפי המהדורה (כתב יד לנינגרד, BHS, ו-BHQ נבדלים בשוליים קטנים) ולפי האם מופעים בשמות פרטיים תיאופוריים מורכבים (סיומות *-יהו* ו*-יה*) נספרים כמופעים של השם האלוהי עצמו. ערך 3068 בקונקורדנציית סטרונג, בראון–דרייבר–בריגס, ו-HALOT נותרים נקודות הייחוס הסטנדרטיות." },
+    { content = "השחזור *יהוה* כהגייה ההיסטורית של השם המפורש הוא הקונצנזוס של המחקר הביקורתי המודרני אך לא הגיע אליו פנימית במסורת הליטורגית היהודית, השומרת על תחליף ה*קרי תמיד* של *אדוני* ומתייחסת לשם הקונסוננטלי כבלתי-מבוטא. השחזור מסתמך על תעתיקים פטריסטיים (Ἰαουέ של קלמנס מאלכסנדריה, Ἰαβέ של תאודורט), רכיבי שמות תיאופוריים מערב-שמיים השוואתיים (סיומות *-יהו* ו*-יה* של שמות פרטיים מקראיים), ושחזור ניקוד של השורש הפועלי. ההגייה היא לפיכך שחזור פילולוגי מחקרי, ולא צורה משוחזרת או נמסרת." },
+    { content = "ההפניה ל*יהו* / *Yhw* במקורות מצריים של תקופת הברונזה המאוחרת נוגעת לרשימות הטופוגרפיות של סוֹלֵבּ (תחת אמנחותפ השלישי, המאה הארבע-עשרה לפנה»ס) ושל עמארה ווסט (תחת רעמסס השני, המאה השלוש-עשרה לפנה»ס), המזכירות *שסו yhw* — קבוצות נוודיות המקושרות למקום או לאל *yhw* הממוקם באזור הלבנט הדרומי / סיני. היחס בין ה*yhw* המצרי הזה לבין יהוה הישראלי המאוחר שנוי במחלוקת: הקריאה הרווחת מתייחסת לעדות המצרית כראיה למקור דרומי מוקדם (מדייני / אדומי) לאל, התואם את המסורת המקראית של סיני / חורב כהר של יהוה, אך ההסקה מרשימה טופוגרפית לדמות-אל ספציפית אינה הדוקה פילולוגית." },
+    { content = "הצורה *Jehovah* — תנועות של *אדוני* המונחות על הקונסוננטות YHWH — הופצה בשימוש לטיני נוצרי על ידי פטרוס גלטינוס ב*De arcanis catholicae veritatis* (1518), עברה לתרגום המלך ג'יימס (1611) ולתרגומים האירופיים המוקדמים של העת החדשה, ושרדה בשימוש ליטורגי עד המאה העשרים. הקונצנזוס הפילולוגי המודרני מתייחס לצורה כלכלאיים שמעולם לא הוגה כשם אחיד בשום קהילת דיבור עברית היסטורית; הניקוד המסורתי היה אמצעי-קריאה לתחליף, ולא תיעוד של הגייה." },
+    { content = "הניסוח הקלאסי של וולהאוזן להשערת המסמכים (J/E/D/P) שונה באופן משמעותי לאורך המחקר הבא. רולף רנדטורף ואיירהרד בלום חולקים על קיומם של מקורות J ו-E רציפים, מציעים במקום זאת מודל של מסורות-בלוק עצמאיות שנערכו יחדיו מאוחר יותר. ג'ון ון סטרס מתארך את J לתקופה הגלותית או הפוסט-גלותית ולא למאה העשירית לפנה»ס. האסכולה הניאו-תיעודית (ברוך שוורץ, ג'ואל באדן) הגנה על מודל ארבעת המקורות בצורה משופצת. מסגרת הקורפוס קוראת את ההפניות ההיסטוריות השמורות בטקסט הקיים ולא מתחייבת לשום שחזור חיבורי ספציפי." },
+    { content = "נתון 25,000 השנים של קיומו המתמשך של יהוה הוא פנים-מקורי לחומר הראליאני: תמלולי וורילון נותנים את התקופה כבערך עשרים וחמש אלף שנים, כאשר יהוה מתואר כפרט הראשון שעליו הופעלה בהצלחה טכנולוגיית הרציפות של העברת תאים. הנתון נותר קבוע במהדורות הבאות של החומר הראליאני. הקורפוס מתייחס אליו כנתון פנים-מקורי ולא כטענה כרונולוגית הניתנת לאימות עצמאי — לא הטכנולוגיה ולא הקיום המתמשך של הפרט זמינים לאישוש חיצוני." },
+]
+
+[[extra.references]]
+id = "genesis"
+locator = "בראשית ב:4 ואילך; יב; טו; יז; יח; כב"
+note = "קטעי מקרא עברי עיקריים ליהוה אלוהים של נרטיבי עדן, המבול, והאבות."
+
+[[extra.references]]
+id = "exodus"
+locator = "שמות ג:14; ו; יט–כד; לג–לד"
+note = "הסנה הבוער, ההצהרה העצמית »אהיה אשר אהיה«, ותיאופניית סיני."
+
+[[extra.references]]
+id = "isaiah"
+locator = "ישעיהו ו"
+note = "חזון חדר-הכיסא של ישעיהו על יהוה היושב על כיסא עם השרפים."
+
+[[extra.references]]
+id = "ezekiel"
+locator = "יחזקאל א"
+note = "חזון מרכבת-הכיסא של כבוד יהוה."
+
+[[extra.references]]
+id = "revelation"
+locator = "התגלות א:8; א:17; כא:6; כב:13"
+note = "ההצהרה העצמית של יהוה »הראשון והאחרון« / »אלפא ואומגה«."
+
+[[extra.references]]
+id = "the-book-which-tells-the-truth"
+note = "הטקסט הראליאני היסודי של וורילון מ-1974, המוצג כדיווח גוף ראשון של יהוה על עצמו ועל הציוויליזציה שלו."
+
+[[extra.references]]
+id = "extraterrestrials-took-me-to-their-planet"
+note = "היצירה הראליאנית השנייה של וורילון (1976), הכוללת את המפגש עם מועצת הנצחיים על העולם הביתי של האלוהים."
+
+[[extra.references]]
+id = "lets-welcome-the-extraterrestrials"
+note = "היצירה הראליאנית השלישית של וורילון (1979), תקשורות והבהרות נוספות."
+
+[[extra.references]]
+id = "those-gods-who-made-heaven-and-earth"
+note = "הקריאה הפילולוגית-היסטוריוגרפית המוקדמת של ז'אן סנדי על יהוה כתאוסיט ספציפי בתוך ריבוי האלוהים."
+
+[[extra.references]]
+id = "the-bible-is-not-a-sacred-book"
+note = "הקריאה המקראית העברית המילולית-מחמירה של מאורו ביגלינו: יהוה כפרט ספציפי בתוך »האדונים מלמעלה«."
+
+[[extra.references]]
+id = "the-naked-bible"
+note = "סקירת המקרא העברי הרחבה יותר של ביגלינו וקטאנאו מ-2022, המרחיבה את שיטת התרגום המילולי-מחמיר."
+
+[[extra.references]]
+id = "escaping-from-eden"
+note = "הקריאה ההשוואתית של פול אנתוני וואליס על האלוהים העבריים / החזקים."
+
+[[extra.references]]
+id = "the-spaceships-of-ezekiel"
+note = "קריאה מוכוונת-הנדסה של חזון מרכבת-הכיסא של יחזקאל א."
+
+[[extra.references]]
+id = "a-hebrew-and-english-lexicon-of-the-old-testament"
+note = "מילון BDB — נקודת ייחוס לשורש הפועלי ה-י-ה / ה-ו-ה העומד בבסיס השם המפורש."
+
+[[extra.references]]
+id = "the-hebrew-and-aramaic-lexicon-of-the-old-testament"
+note = "HALOT (קוהלר-באומגרטנר) — מילון לקסיקוגרפי סטנדרטי ליהוה ולצורות קרובות."
 
 [extra.infobox]
 hebrew_form = "יהוה"
 transliteration = "YHWH"
-reconstructed_pronunciation = "Yahweh"
-type = "Eloha individual"
-born = "c. 23,000 BCE on the Elohim home world (framework-internal)"
-age_at_1973_contact = "approximately 25,000 years"
-bodies = "25 (through cell-transfer continuity technology)"
-role = "President of the Council of the Eternals; senior alliance authority for the Earth project"
-species = "Eloha"
-home_world = "Single planet outside the solar system"
-earth_role = "Senior officer directing the Earth creation project; leader of the Israel team during and after the Eden period; principal alliance interlocutor with the Hebrew prophetic tradition"
-principal_source = "*Message from the Designers* (Vorilhon/Raël, 1974–79), of which Yahweh is the first-person speaker"
+reconstructed_pronunciation = "יהוה"
+type = "פרט אלוהה"
+born = "בערך 23,000 לפנה»ס על העולם הביתי של האלוהים (פנים-מסגרתי)"
+age_at_1973_contact = "בערך 25,000 שנים"
+bodies = "25 (באמצעות טכנולוגיית רציפות של העברת תאים)"
+role = "נשיא מועצת הנצחיים; הסמכות הבכירה של הברית לפרויקט כדור הארץ"
+species = "אלוהה"
+home_world = "כוכב לכת יחיד מחוץ למערכת השמש"
+earth_role = "קצין בכיר המכוון את פרויקט בריאת כדור הארץ; מנהיג צוות ישראל בתקופת עדן ואחריה; המתווך העיקרי של הברית עם המסורת הנבואית העברית"
+principal_source = "*מסר מהמתכננים* (וורילון/ראל, 1974–79), שיהוה הוא הדובר בו בגוף ראשון"
 +++
 
-**Yahweh** (Hebrew: <span class="hebrew">יהוה</span>, transliterated *YHWH*; the *Tetragrammaton*, "the four letters") is the proper name of the principal divine figure of the {% wiki(slug="hebrew-bible") %}Hebrew Bible{% end %}. The name appears approximately 6,800 times in the Hebrew text, more than any other designation for the divine. In Jewish liturgical practice the name is not pronounced; it is replaced in reading by *Adonai* ("my Lord") or by *ha-Shem* ("the Name"), and the name's vocalization in the Masoretic tradition (with the vowels of *Adonai*, producing the hybrid form *Yehovah* / *Jehovah*) reflects this substitution rather than the historical pronunciation. The reconstruction *Yahweh* is the form preferred by modern critical scholarship.
+**יהוה** (עברית: <span class="hebrew">יהוה</span>, מתועתק *YHWH*; *השם המפורש*, »ארבע האותיות«) הוא שמה הפרטי של הדמות האלוהית המרכזית של {% wiki(slug="hebrew-bible") %}המקרא העברי{% end %}. השם מופיע כ-6,800 פעמים בטקסט העברי, יותר מכל כינוי אחר לאלוהי.{{ footnote(id="1") }} בפרקטיקה הליטורגית היהודית השם אינו מבוטא; הוא מוחלף בקריאה ב*אדוני* (»אדוני שלי«) או ב*השם*, וניקוד השם במסורת המסורה (עם תנועות *אדוני*, המפיק את הצורה הכלאיים *יהוה* / *Jehovah*) משקף תחליף זה ולא את ההגייה ההיסטורית. השחזור *יהוה* הוא הצורה המועדפת על ידי המחקר הביקורתי המודרני.{{ footnote(id="2") }}
 
-On the reading developed in the Raëlian source material and adopted by the {% wiki(slug="wheel-of-heaven") %}Wheel of Heaven{% end %} corpus, Yahweh is a specific Eloha individual — the president of the Council of the Eternals on the Elohim home world, the senior alliance authority directing the Earth creation project from its inception in the Age of Capricorn approximately twenty-two thousand years ago, the leader of the Israel team that conducted the {% wiki(slug="eden") %}Eden{% end %} operation and the framework's reading of *Yahweh Elohim* of Genesis 2 onward, and the principal alliance interlocutor with the prophetic figures of the Hebrew, Christian, and subsequent traditions across the entire post-creation arc. The Raëlian source material is, on the corpus's reading, Yahweh's own first-person account of himself and of his civilization, delivered to Claude Vorilhon at Clermont-Ferrand over six successive mornings in December 1973 and elaborated through a second longer contact in October 1975. This first-person provenance gives Yahweh's role in the framework an unusual epistemic position: most of what the framework knows about the Elohim civilization, it knows because Yahweh told it to Vorilhon.
+על פי הקריאה שפותחה בחומר המקור הראליאני ואומצה על ידי קורפוס {% wiki(slug="wheel-of-heaven") %}גלגל השמיים{% end %}, יהוה הוא פרט אלוהה ספציפי — נשיא מועצת הנצחיים על העולם הביתי של האלוהים, הסמכות הבכירה של הברית המכוונת את פרויקט בריאת כדור הארץ מראשיתו בעידן הגדי לפני כעשרים ושתיים אלף שנה, מנהיג צוות ישראל שביצע את מבצע {% wiki(slug="eden") %}עדן{% end %} ואת מה שהמסגרת קוראת *יהוה אלוהים* של בראשית ב ואילך, והמתווך העיקרי של הברית עם דמויות הנבואה של המסורת העברית, הנוצרית, והמסורות הבאות לאורך כל הקשת שלאחר הבריאה. חומר המקור הראליאני הוא, על פי קריאת הקורפוס, דיווח גוף ראשון של יהוה עצמו על עצמו ועל הציוויליזציה שלו, שנמסר לקלוד וורילון בקלרמון-פראן לאורך שישה בקרים עוקבים בדצמבר 1973 ופותח באמצעות מגע שני ארוך יותר באוקטובר 1975. מקור גוף-ראשון זה מעניק לתפקידו של יהוה במסגרת מצב אפיסטמי יוצא דופן: רוב מה שהמסגרת יודעת על ציוויליזציית האלוהים, היא יודעת משום שיהוה אמר זאת לוורילון.
 
-The reading is contested. Within the modern academic study of the Hebrew Bible, the dominant readings of Yahweh include the traditional Jewish and Christian theological identification of Yahweh as the singular God of Israel, the comparative-Semitic historical reconstruction of Yahweh as a West Semitic deity whose origins lie in the broader Canaanite religious context, and the developmental account in which Yahweh's status evolved from regional storm-god to high-god to universal monotheistic deity across the first millennium BCE. The corpus's reading is consistent with the historical-critical observation that Yahweh has a specific identifiable identity (rather than being identical to the more generic *Elohim*), but reframes the underlying ontology: Yahweh is a specific individual within an extraterrestrial civilization rather than a deity in any supernatural sense.
+הקריאה שנויה במחלוקת. במחקר האקדמי המודרני של המקרא העברי, הקריאות הדומיננטיות של יהוה כוללות את הזיהוי התיאולוגי היהודי והנוצרי המסורתי של יהוה כאלוהי ישראל היחיד, את השחזור ההיסטורי-השוואתי-שמי של יהוה כאל מערב-שמי שמקורו טמון בהקשר הדתי הכנעני הרחב יותר, ואת הדיווח ההתפתחותי שבו מעמדו של יהוה התפתח מאל-סער אזורי לאל עליון לאלוהות מונותאיסטית אוניברסלית לאורך המילניום הראשון לפנה»ס. קריאת הקורפוס תואמת את התצפית ההיסטורית-ביקורתית שליהוה יש זהות ניתנת לזיהוי ספציפית (ולא שהוא זהה ל*אלוהים* הכללי יותר), אך ממסגרת מחדש את האונטולוגיה הבסיסית: יהוה הוא פרט ספציפי בתוך ציוויליזציה חוץ-ארצית ולא אלוהות בשום מובן על-טבעי.
 
-## Etymology and naming
+## אטימולוגיה ושיום
 
-The Tetragrammaton appears in the Hebrew Bible from Genesis 2:4 onward. In Genesis 1:1–2:3 the divine name is *Elohim* (plural); from Genesis 2:4 the compound *YHWH Elohim* appears, and from Genesis 4 onward *YHWH* is used independently. The distribution of the divine names across the Hebrew Bible has been studied since Astruc in the 18th century and is one of the foundational observations of modern source criticism, which reads the alternation as evidence of distinct compositional sources behind the Pentateuchal text.
+השם המפורש מופיע במקרא העברי מ{% libref(book="genesis", chapter=2, verse=4) %}בראשית ב:4{% end %} ואילך. בבראשית א:1–ב:3 השם האלוהי הוא *אלוהים* (רבים); מבראשית ב:4 מופיעה ההרכבה *יהוה אלוהים*, ומבראשית ד ואילך *יהוה* משמש באופן עצמאי. הפצת השמות האלוהיים לאורך המקרא העברי נחקרה מאז אסטרוק במאה ה-18 והיא אחת התצפיות היסודיות של ביקורת המקורות המודרנית, הקוראת את ההתחלפות כראיה למקורות חיבוריים מובחנים מאחורי הטקסט החומשי.
 
-### Etymology of the name
+### אטימולוגיה של השם
 
-The name's etymology connects most plausibly to the Hebrew verbal root *h-y-h* (and its archaic variant *h-w-h*), "to be," "to exist," or "to become." On this analysis, *YHWH* is the third-person singular masculine imperfect of the verb, conventionally translated "He is," "He will be," or "He causes to be." The Exodus 3:14 self-naming — *Ehyeh asher ehyeh*, conventionally translated "I am that I am" or "I will be what I will be" — uses the first-person form *ehyeh* of the same verbal root, and the connection to the Tetragrammaton is grammatically transparent: the form Moses receives ("I am") is the first-person counterpart of the third-person form by which the divine is named ("He is").
+האטימולוגיה של השם מתקשרת באופן הסביר ביותר לשורש הפועלי העברי *ה-י-ה* (וגרסתו הארכאית *ה-ו-ה*), »להיות«, »לקיים«, או »להפוך«. על פי ניתוח זה, *YHWH* הוא צורת הזכר היחיד גוף שלישי של העתיד של הפועל, מתורגם באופן מקובל »הוא הווה«, »הוא יהיה«, או »הוא מהווה«. ההצהרה העצמית של {% libref(book="exodus", chapter=3, verse=14) %}שמות ג:14{% end %} — *אהיה אשר אהיה*, מתורגם באופן מקובל »אהיה אשר אהיה« או »אהיה מה שאהיה« — משתמשת בצורת גוף ראשון *אהיה* של אותו שורש פועלי, וההתחברות לשם המפורש שקופה דקדוקית: הצורה שמשה מקבל (»אהיה«) היא ההקבלה בגוף ראשון של צורת גוף שלישי שבה האלוהי מכונה (»הוא הווה«).
 
-The "He is" reading is the dominant scholarly reconstruction but not the only one. Alternative proposals connect the name to a putative *Yahweh-Sabaoth* military epithet, to a storm-god title from the broader West Semitic tradition, to a place-name (Mount Yahu, mentioned in Egyptian sources of the Late Bronze Age in connection with nomadic groups in the Sinai region), or to a causative form ("He who causes to be") rather than the simple existential. None of these has displaced the existential reading, but several remain alive in specialist debate.
+הקריאה »הוא הווה« היא השחזור המחקרי הדומיננטי אך לא היחיד. הצעות אלטרנטיביות מקשרות את השם לכינוי-מצביא היפותטי *יהוה צבאות*, לתואר אל-סער מהמסורת המערב-שמית הרחבה יותר, לשם-מקום (הר יהו, המוזכר במקורות מצריים של תקופת הברונזה המאוחרת בקשר עם קבוצות נוודיות באזור סיני),{{ footnote(id="3") }} או לצורת גרימה (»הוא המהווה«) ולא לאקזיסטנציאל הפשוט.{{ cite(id="a-hebrew-and-english-lexicon-of-the-old-testament", text="[1]", title="בראון, דרייבר, בריגס, *A Hebrew and English Lexicon of the Old Testament* — ערך על השורש הפועלי ה-י-ה / ה-ו-ה") }}{{ cite(id="the-hebrew-and-aramaic-lexicon-of-the-old-testament", text="[2]", title="קוהלר-באומגרטנר, *The Hebrew and Aramaic Lexicon of the Old Testament* (HALOT) — ערכים על YHWH וצורות קרובות") }} אף אחת מאלה לא הדיחה את הקריאה האקזיסטנציאלית, אך כמה נותרו חיות בוויכוח התמחותי.
 
-### Pointing and pronunciation
+### ניקוד והגייה
 
-The Hebrew Bible as we have it was written in a consonantal script that did not record vowels; vowels were added by the Masoretic scribes in the early medieval period (principally the Tiberian school, c. 7th–10th century CE). By the time the Masoretes worked, the practice of not pronouncing the Tetragrammaton was already ancient — attested as early as the Septuagint (3rd–2nd century BCE), which translates *YHWH* uniformly as Greek *Kyrios*, "Lord," reflecting the Aramaic and Hebrew substitution practice already in place. The Masoretes therefore pointed the consonants *YHWH* with the vowels of the substitute *Adonai* — producing the form *Yehovah* — to remind the reader that the name was not to be pronounced as written but to be replaced in reading. The Latin Vulgate and the early English translations took this hybrid pointing as the actual pronunciation, producing *Jehovah* — a form that, on modern philological consensus, is a vocalic chimera that was never the historical pronunciation of the name.
+המקרא העברי כפי שיש בידינו נכתב בכתב קונסוננטלי שלא רשם תנועות; תנועות נוספו על ידי סופרי המסורה בתקופה הימי-ביניימית המוקדמת (בעיקר האסכולה הטברנית, בערך המאות ה-7–10 לספירה). עד שהמסורתנים פעלו, הפרקטיקה של אי-ביטוי השם המפורש הייתה כבר עתיקה — מתועדת כבר בתרגום השבעים (המאות ה-3–2 לפנה»ס), המתרגם *YHWH* באופן אחיד כיוונית *Kyrios*, »אדון«, משקף את פרקטיקת התחליף הארמית והעברית שכבר הייתה במקום. המסורתנים, אם כן, ניקדו את הקונסוננטות *YHWH* בתנועות התחליף *אדוני* — המפיק את הצורה *יהוה* — להזכיר לקורא שאת השם אסור לבטא כפי שכתוב אלא להחליף בקריאה. הוולגטה הלטינית והתרגומים האנגליים המוקדמים לקחו את הניקוד הכלאיים הזה כהגייה ממשית, המפיק *Jehovah* — צורה אשר, על פי הקונצנזוס הפילולוגי המודרני, היא צ'ימרה תנועתית שמעולם לא הייתה ההגייה ההיסטורית של השם.{{ footnote(id="4") }}
 
-### Liturgical handling and substitution
+### טיפול ליטורגי ותחליף
 
-In Jewish liturgical practice, the Tetragrammaton is never pronounced as written. In synagogue reading, the substitute *Adonai* is used; in casual reference outside liturgical contexts, *ha-Shem* ("the Name"); in writing outside sacred texts, abbreviations such as <span class="hebrew">ה'</span> or transliterations such as *G-d* (in English-language Orthodox Jewish writing) reflect the broader principle that the name carries holiness sufficient to require linguistic distancing. Christian translation traditions have generally followed the Septuagint precedent of rendering *YHWH* as *Lord* (in capital and small capitals: <small>LORD</small>), preserving the substitution structure even when the underlying theological reasoning has been lost. The notable exception is the {% wiki(slug="new-jerusalem") %}New Jerusalem{% end %} Bible (1985) and its predecessor, which restored *Yahweh* in the English text — a translational decision the Vatican's Congregation for Divine Worship subsequently directed against in 2008.
+בפרקטיקה הליטורגית היהודית, השם המפורש לעולם אינו מבוטא כפי שכתוב. בקריאה בבית הכנסת משמש התחליף *אדוני*; בהפניה לא-פורמלית מחוץ להקשרים ליטורגיים, *השם*; בכתיבה מחוץ לטקסטים מקודשים, קיצורים כגון <span class="hebrew">ה'</span> או תעתיקים כגון *G-d* (בכתיבה יהודית אורתודוקסית בשפה האנגלית) משקפים את העיקרון הרחב יותר שלשם יש קדושה מספיקה כדי לדרוש ריחוק לשוני. מסורות התרגום הנוצריות בדרך כלל הלכו אחר תקדים תרגום השבעים של תרגום *YHWH* כ*אדון* (באותיות גדולות וקפיטליות קטנות: <small>LORD</small>), משמרות את מבנה התחליף גם כאשר ההיגיון התיאולוגי הבסיסי אבד. החריג הבולט הוא תנ»ך {% wiki(slug="new-jerusalem") %}ירושלים החדשה{% end %} (1985) וקודמו, שהשיבו את *יהוה* בטקסט האנגלי — החלטת תרגום שהקונגרגציה הוותיקנית לפולחן אלוהי הורתה לאחר מכן נגדה ב-2008.
 
-### The divine names in source criticism
+### השמות האלוהיים בביקורת המקורות
 
-The Documentary Hypothesis, in its classical form developed by Wellhausen (1883) and refined across subsequent scholarship, reads the alternation between *YHWH*, *Elohim*, and the compound *YHWH Elohim* as a principal marker for distinct compositional sources within the Pentateuch:
+השערת המסמכים, בצורתה הקלאסית שפותחה על ידי וולהאוזן (1883) ושוכללה לאורך המחקר הבא, קוראת את ההתחלפות בין *YHWH*, *אלוהים*, וההרכבה *YHWH אלוהים* כסמן עיקרי למקורות חיבוריים מובחנים בתוך החומש:
 
-- The **Yahwist source** (J), conventionally dated to the 10th–9th century BCE, uses *YHWH* throughout and is associated with anthropomorphic narratives, the southern Judah perspective, and the patriarchal stories.
-- The **Elohist source** (E), conventionally 9th–8th century BCE, uses *Elohim* until Exodus 3 (where *YHWH* is revealed to Moses for the first time on this source's account), is associated with the northern Israel perspective, and prefers more theologically distanced narratives.
-- The **Priestly source** (P), conventionally 6th–5th century BCE, uses *Elohim* in Genesis 1–11 and *YHWH* from Exodus 6 (where the name's revelation is parallel but distinct from E's account), and is associated with cultic and genealogical material.
-- The **Deuteronomist** (D), 7th century BCE and after, uses *YHWH* throughout and is associated with the book of Deuteronomy and the Deuteronomistic History.
+- **המקור היהוויסטי** (J), המתוארך באופן מקובל למאות ה-10–9 לפנה»ס, משתמש ב*YHWH* לאורך הטקסט ומקושר לנרטיבים אנתרופומורפיים, לפרספקטיבת יהודה הדרומית, ולסיפורי האבות.
+- **המקור האלוהיסטי** (E), באופן מקובל המאות ה-9–8 לפנה»ס, משתמש ב*אלוהים* עד שמות ג (היכן ש*YHWH* מתגלה למשה בפעם הראשונה על פי מקור זה), מקושר לפרספקטיבת ישראל הצפונית, ומעדיף נרטיבים מרוחקים תיאולוגית יותר.
+- **המקור הכוהני** (P), באופן מקובל המאות ה-6–5 לפנה»ס, משתמש ב*אלוהים* בבראשית א–יא וב*YHWH* החל משמות ו (היכן שהתגלות השם מקבילה אך מובחנת מדיווח E), ומקושר לחומר פולחני וגנאלוגי.
+- **הדויטרונומיסט** (D), המאה ה-7 לפנה»ס ואילך, משתמש ב*YHWH* לאורך הטקסט ומקושר לספר דברים ולהיסטוריה הדויטרונומיסטית.{{ footnote(id="5") }}
 
-The corpus adopts no specific position on the source-critical questions. The framework's reading depends on the historical referents preserved in the surviving Hebrew text rather than on any specific reconstruction of the text's compositional history; the name *Yahweh* refers, on the corpus's reading, to a specific Eloha individual whose identity is preserved across the various textual layers, regardless of how those layers were assembled.
+הקורפוס אינו מאמץ עמדה ספציפית בשאלות ביקורת המקורות. קריאת המסגרת תלויה בהפניות ההיסטוריות השמורות בטקסט העברי הקיים ולא בשום שחזור ספציפי של ההיסטוריה החיבורית של הטקסט; השם *יהוה* מתייחס, על פי קריאת הקורפוס, לפרט אלוהה ספציפי שזהותו נשמרת לאורך השכבות הטקסטואליות השונות, ללא קשר לאופן שבו הורכבו שכבות אלו.
 
-## In the Hebrew Bible
+## במקרא העברי
 
-The Tetragrammaton *YHWH* appears approximately 6,800 times in the Hebrew Bible, distributed across all major sections of the canon. Yahweh is the principal divine actor in the patriarchal narratives, the Exodus and wilderness traditions, the conquest and judges material, the Davidic and Solomonic monarchy narratives, the prophetic literature of the divided monarchy and the exile, and the post-exilic restoration material. His specific narrative appearances are dense across the historical books and concentrated, in formal-revelatory mode, in the Pentateuchal theophanies and the prophetic-vision sequences.
+השם המפורש *YHWH* מופיע כ-6,800 פעמים במקרא העברי, מחולק לאורך כל הקטעים העיקריים של הקאנון. יהוה הוא השחקן האלוהי העיקרי בנרטיבי האבות, במסורות יציאת מצרים והמדבר, בחומר הכיבוש והשופטים, בנרטיבי המלוכה הדוידית והשלמה, בספרות הנבואה של הממלכה המפולגת והגלות, ובחומר השיקום שלאחר הגלות. הופעותיו הנרטיביות הספציפיות צפופות לאורך הספרים ההיסטוריים ומרוכזות, במצב פורמלי-התגלותי, בתיאופניות החומשיות וברצפי החזון הנבואי.
 
-### The principal narrative appearances
+### ההופעות הנרטיביות העיקריות
 
 {% library(book="the-book-which-tells-the-truth", chapter=1, verse=51) %}
-We are men like you, and we live on a planet quite similar to Earth.
+אנחנו בני אדם כמוכם, ואנו חיים על כוכב לכת הדומה למדי לכדור הארץ.
 {% end %}
 
-Yahweh's most significant direct appearances in the Hebrew Bible, in their canonical sequence, include:
+הופעותיו הישירות המשמעותיות ביותר של יהוה במקרא העברי, ברצפן הקאנוני, כוללות:
 
-- **Genesis 2–3** (the Eden narrative): Yahweh Elohim plants the garden, forms the man, places him in the garden, prohibits the tree of knowledge, forms the woman, confronts the humans after the transgression, pronounces consequences on the serpent, the woman, and the man, and expels them from the garden.
-- **Genesis 4** (Cain and Abel): Yahweh receives offerings, prefers Abel's, warns Cain, hears Abel's blood crying from the ground, and pronounces Cain's punishment.
-- **Genesis 6–9** (the Flood narrative): Yahweh observes the corruption of the antediluvian world, decides to send the Flood, instructs Noah to build the ark, sends the Flood and ends it, smells Noah's burnt offering, and establishes the Noahic covenant with the rainbow as its sign.
-- **Genesis 12, 15, 17, 18, 22** (the Abrahamic narratives): Yahweh calls Abram from Ur, establishes the covenant of land and posterity, performs the formal covenant-cutting ceremony of Genesis 15, renames Abram to Abraham at the institution of circumcision, visits Abraham at the oaks of Mamre, and tests Abraham at the binding of Isaac.
-- **Exodus 3** (the burning bush): Yahweh appears to Moses at Horeb, identifies himself with the *Ehyeh asher ehyeh* self-naming, and commissions Moses for the Exodus mission.
-- **Exodus 19–24, 33–34** (the Sinai theophany): Yahweh descends on Sinai in cloud and fire, gives the Decalogue and the broader covenant code, and is encountered by Moses in the most direct theophanic mode the Hebrew Bible records.
-- **1 Samuel 3** (the calling of Samuel): Yahweh calls Samuel by name in the night, Samuel mistaking the voice for Eli's until Eli identifies the source.
-- **1 Kings 19** (Elijah at Horeb): Yahweh appears to Elijah not in the wind, the earthquake, or the fire, but in the *qol demamah daqqah*, the "thin silent voice."
-- **Isaiah 6** (Isaiah's throne-room vision): Yahweh appears enthroned with the seraphim, sending Isaiah for his prophetic mission.
-- **Ezekiel 1** (the chariot-throne vision): Ezekiel sees the *kavod* of Yahweh in the elaborate chariot-throne vision that opens the book.
+- **{% libref(book="genesis", chapter=2) %}בראשית ב–ג{% end %}** (נרטיב עדן): יהוה אלוהים נוטע את הגן, יוצר את האדם, מציב אותו בגן, אוסר על עץ הדעת, יוצר את האישה, מעמת את בני האדם לאחר ההפרה, מכריז על השלכות על הנחש, האישה, והאדם, ומגרש אותם מהגן.
+- **{% libref(book="genesis", chapter=4) %}בראשית ד{% end %}** (קין והבל): יהוה מקבל קורבנות, מעדיף את של הבל, מזהיר את קין, שומע את דם הבל זועק מן האדמה, ומכריז על עונשו של קין.
+- **{% libref(book="genesis", chapter=6) %}בראשית ו–ט{% end %}** (נרטיב המבול): יהוה צופה בשחיתות העולם הטרום-מבולי, מחליט לשלוח את המבול, מצווה את נח לבנות את התיבה, שולח את המבול ומסיים אותו, מריח את עולת נח, ומבסס את ברית נח עם הקשת בענן כסימנה.
+- **{% libref(book="genesis", chapter=12) %}בראשית יב, טו, יז, יח, כב{% end %}** (נרטיבי אברהם): יהוה קורא לאברם מאוּר, מבסס את ברית הארץ והזרע, מבצע את טקס כריתת הברית הפורמלי של בראשית טו, משנה את שמו של אברם לאברהם בכינון המילה, מבקר את אברהם באלוני ממרא, ובוחן את אברהם בעקדת יצחק.
+- **{% libref(book="exodus", chapter=3) %}שמות ג{% end %}** (הסנה הבוער): יהוה מתגלה למשה בחורב, מזהה את עצמו בהצהרה העצמית *אהיה אשר אהיה*, ומסמיך את משה לשליחות יציאת מצרים.
+- **{% libref(book="exodus", chapter=19) %}שמות יט–כד, לג–לד{% end %}** (תיאופניית סיני): יהוה יורד על סיני בענן ובאש, נותן את עשרת הדיברות ואת קוד הברית הרחב יותר, ונפגש עם משה במצב התיאופני הישיר ביותר שהמקרא העברי רושם.
+- **שמואל א ג** (קריאת שמואל): יהוה קורא לשמואל בשמו בלילה, שמואל טועה ומחשיב את הקול כשל עלי עד שעלי מזהה את המקור.
+- **מלכים א יט** (אליהו בחורב): יהוה מתגלה לאליהו לא ברוח, לא ברעש, ולא באש, אלא ב*קול דממה דקה*.
+- **{% libref(book="isaiah", chapter=6) %}ישעיהו ו{% end %}** (חזון חדר-הכיסא של ישעיהו): יהוה מתגלה יושב על כיסא עם השרפים, שולח את ישעיהו לשליחותו הנבואית.
+- **{% libref(book="ezekiel", chapter=1) %}יחזקאל א{% end %}** (חזון מרכבת-הכיסא): יחזקאל רואה את *כבוד* יהוה בחזון מרכבת-הכיסא המורכב הפותח את הספר.{{ cite(id="ezekiel", text="[3]", title="יחזקאל א — חזון מרכבת-הכיסא של הכבוד") }}{{ cite(id="the-spaceships-of-ezekiel", text="[4]", title="בלומריך, *The Spaceships of Ezekiel* — קריאה מוכוונת-הנדסה של חזון מרכבת-הכיסא") }}
 
-Beyond these major direct appearances, Yahweh is the named subject or agent of thousands of additional passages across the Hebrew Bible, particularly in the prophetic books where the formula "Thus says Yahweh" introduces oracles delivered through the prophets.
+מעבר להופעות הישירות העיקריות הללו, יהוה הוא נושא או סוכן ששמו נקוב באלפי קטעים נוספים לאורך המקרא העברי, במיוחד בספרי הנבואה שבהם הנוסחה »כה אמר יהוה« מציגה דברי נבואה הנמסרים באמצעות הנביאים.
 
-### Relationship to other divine names
+### יחס לשמות אלוהיים אחרים
 
-The Hebrew Bible names the divine with several terms in addition to *YHWH* and *Elohim*: *El* (singular high-god designation, cognate with the Canaanite high god); *El Shaddai* ("God Almighty," used principally in the patriarchal narratives); *El Elyon* ("Most High God," used in Genesis 14 and the Psalms); *Adonai* ("my Lord"); *Tzevaot* ("of hosts," typically in the compound *YHWH Tzevaot*, "Yahweh of hosts"). The relationships among these names are textually complex. Some texts equate them explicitly: Genesis 17:1 has *El Shaddai* speaking to Abraham as the same figure who speaks elsewhere as *YHWH*; Psalm 91 uses *Elyon*, *Shaddai*, and *YHWH* in parallel as designations of a single subject. Other texts preserve what may be an earlier distinction: Genesis 14 introduces *El Elyon* as the god of Melchizedek's priesthood, and the question of whether Melchizedek's *El Elyon* and Abraham's *YHWH* were originally identified is a live one in the historical-critical literature.
+המקרא העברי מכנה את האלוהי במספר מונחים בנוסף ל*YHWH* ול*אלוהים*: *אל* (כינוי אל-עליון יחיד, קוגנטי לאל העליון הכנעני); *אל שדי* (»אל הכל-יכול«, משמש בעיקר בנרטיבי האבות); *אל עליון* (משמש בבראשית יד ובתהילים); *אדוני* (»אדוני שלי«); *צבאות* (בדרך כלל בהרכבה *יהוה צבאות*). היחסים בין שמות אלה מורכבים טקסטואלית. טקסטים מסוימים משווים אותם במפורש: בראשית יז:1 רואה *אל שדי* מדבר אל אברהם כאותה הדמות המדברת במקומות אחרים כ*YHWH*; תהילים צא משתמש ב*עליון*, *שדי*, ו-*YHWH* במקביל ככינויים של נושא יחיד. טקסטים אחרים שומרים על מה שעשוי להיות הבחנה קדומה יותר: בראשית יד מציגה את *אל עליון* כאלוהי כהונת מלכי-צדק, והשאלה האם *אל עליון* של מלכי-צדק ו*YHWH* של אברהם זוהו במקור היא חיה בספרות ההיסטורית-ביקורתית.
 
-The corpus's working reading is that the named *YHWH* of the Hebrew Bible is consistently the same Eloha individual across the textual record, with the various other divine names sometimes referring to the same individual under different titles and sometimes possibly preserving memory of other alliance officers whose identity has been merged with Yahweh's in the redactional history. The determination is treated as requiring case-by-case textual analysis rather than as a settled identification.
+קריאת העבודה של הקורפוס היא שה*YHWH* הנקוב של המקרא העברי הוא באופן עקבי אותו פרט אלוהה לאורך התיעוד הטקסטואלי, כאשר השמות האלוהיים השונים האחרים מתייחסים לעיתים לאותו פרט תחת תארים שונים ולעיתים אולי שומרים על זיכרון של קציני ברית אחרים שזהותם מוזגה עם זו של יהוה בהיסטוריה העריכתית. הקביעה מטופלת כדורשת ניתוח טקסטואלי מקרה-מקרה ולא כזיהוי מסודר.
 
-## Biographical arc
+## קשת ביוגרפית
 
-Yahweh's biographical arc, on the corpus's reading, spans the entire 25,000-year period from the achievement of the cell-transfer continuity technology on the Elohim home world to the present. He has been continuously alive across this period, in twenty-five successive bodies, and has been politically active in a position of substantial authority for most of it. The arc divides naturally into pre-Earth-project and Earth-project phases.
+קשת חייו הביוגרפית של יהוה, על פי קריאת הקורפוס, משתרעת על פני כל התקופה בת 25,000 השנים מהשגת טכנולוגיית הרציפות של העברת תאים על העולם הביתי של האלוהים ועד היום. הוא חי ברציפות לאורך תקופה זו, בעשרים וחמישה גופים עוקבים, והיה פעיל פוליטית בעמדה של סמכות משמעותית לרוב התקופה.{{ footnote(id="6") }} הקשת מתחלקת באופן טבעי לשלבים שלפני פרויקט כדור הארץ ובפרויקט כדור הארץ.
 
-### Origins and the home-world period
+### מקורות ותקופת העולם הביתי
 
-The framework's reading places Yahweh's birth approximately twenty-five thousand years before the present — that is, around 23,000 BCE — on the Elohim home world. He was, on Yahweh's own statement in *The Book Which Tells the Truth*, the first individual on whom the cell-transfer continuity technology was successfully applied. The technology, treated more fully in the [Tree of Life](../tree-of-life/) entry, permits the indefinite continuation of personal identity across successive bodies cloned from a preserved cellular sample, and Yahweh's seniority as its first beneficiary is the basis of his subsequent presidency of the Council of the Eternals.
+קריאת המסגרת ממקמת את הולדתו של יהוה כעשרים וחמישה אלף שנים לפני זמננו — כלומר, בערך 23,000 לפנה»ס — על העולם הביתי של האלוהים. הוא היה, על פי הצהרת יהוה עצמו ב*ספר שאומר את האמת*, הפרט הראשון שעליו הופעלה בהצלחה טכנולוגיית הרציפות של העברת תאים.{{ cite(id="the-book-which-tells-the-truth", text="[5]", title="וורילון (ראל), *The Book Which Tells the Truth* (1974) — דיווח גוף ראשון של יהוה על הציוויליזציה שלו ועל בכירותו שלו") }} הטכנולוגיה, המטופלת באופן מלא יותר בערך [עץ החיים](../tree-of-life/), מאפשרת המשך בלתי-מוגבל של זהות אישית לאורך גופים עוקבים המשובטים מדגימה תאית שמורה, ובכירותו של יהוה כמוטב הראשון שלה היא הבסיס לנשיאותו הבאה של מועצת הנצחיים.
 
-The early home-world period of Yahweh's life is not described in detail in the source material. What is recorded is that by the time the home-world's scientific community proposed and undertook the Earth creation project — around 21,810 BCE on the corpus's chronology — Yahweh was approximately twelve hundred years old in continuous existence and was in a position of senior political authority. The political crisis on the home world that produced the Earth-relocation compromise (treated in the [Elohim](../elohim/) entry under History) occurred during this period, with Yahweh as one of the moderate-faction leaders supporting the relocation as a compromise between the abolitionist position (no biological synthesis program at all) and the original direct-on-home-world program that had produced the laboratory accident.
+תקופת חייו המוקדמת של יהוה בעולם הביתי אינה מתוארת בפירוט בחומר המקור. מה שנרשם הוא שעד הזמן שבו הקהילה המדעית של העולם הביתי הציעה וביצעה את פרויקט בריאת כדור הארץ — בערך 21,810 לפנה»ס על פי כרונולוגיית הקורפוס — יהוה היה בערך בן אלף ומאתיים שנים בקיום מתמשך והיה בעמדה של סמכות פוליטית בכירה. המשבר הפוליטי בעולם הביתי שהפיק את פשרת ההעברה לכדור הארץ (מטופל בערך [אלוהים](../elohim/) תחת היסטוריה) התרחש בתקופה זו, כאשר יהוה היה אחד ממנהיגי הסיעה המתונה התומכים בהעברה כפשרה בין העמדה הביטולית (ללא תוכנית סינתזה ביולוגית כלל) לבין התוכנית המקורית הישירה-על-העולם-הביתי שהפיקה את תאונת המעבדה.
 
-### The Earth creation project: Capricorn through Leo
+### פרויקט בריאת כדור הארץ: גדי עד אריה
 
-Yahweh's decision to take operational responsibility for the Earth project — to commit his own continuing institutional position to a multi-millennial operation conducted at interstellar distance — is the structural feature that gives the project its characteristic scale and patience. From the project's inception in the Age of Capricorn (c. 21,810 BCE) through its completion at the close of the Age of Leo (c. 8,850 BCE), Yahweh directed the seven creator teams' work across the supercontinent, with the Genesis 1 *Elohim* (plural) of the creation account being the alliance collectively under his overall authority and the Genesis 2 *Yahweh Elohim* (Yahweh of the Elohim) of the Eden account being Yahweh specifically as leader of the Israel team.
+החלטתו של יהוה לקחת אחריות תפעולית על פרויקט כדור הארץ — להתחייב לעמדתו המוסדית המתמשכת לפעולה רב-מילניאלית המנוהלת במרחק בין-כוכבי — היא התכונה המבנית המעניקה לפרויקט את קנה המידה ואת הסבלנות האופייניים לו. מתחילת הפרויקט בעידן הגדי (בערך 21,810 לפנה»ס) ועד השלמתו בסיום עידן אריה (בערך 8,850 לפנה»ס), כיוון יהוה את עבודת שבעת צוותי הבריאה לאורך היבשת-העל, כאשר ה*אלוהים* (רבים) של נרטיב הבריאה בבראשית א הם הברית הקולקטיבית תחת סמכותו הכוללת, ו*יהוה אלוהים* (יהוה של האלוהים) של בראשית ב של נרטיב עדן הוא יהוה ספציפית כמנהיג צוות ישראל.
 
-The detailed narrative of the seven precessional ages of creation lives in the [Genesis](../genesis/) entry and in the dedicated entries on each age. Yahweh's specific role across these ages was that of the senior officer coordinating the work — present in person for the most consequential operations, supervising the seven teams' coordinated activities, making the major decisions that the scope of the project required.
+הנרטיב המפורט של שבעת עידני הנקיפה של הבריאה חי בערך [בראשית](../genesis/) ובערכים המוקדשים לכל עידן. תפקידו הספציפי של יהוה לאורך עידנים אלה היה זה של הקצין הבכיר המתאם את העבודה — נוכח בעצמו לפעולות החשובות ביותר, מפקח על פעילויות שבעת הצוותים המתואמות, מקבל את ההחלטות הגדולות שהיקף הפרויקט דרש.
 
-### The Eden episode and its political settlement
+### פרק עדן וההסדר הפוליטי שלו
 
-The Eden episode, occupying the late Age of Leo through early Age of Cancer (c. 11,400 – 10,000 BCE), is the period during which Yahweh's role as Israel-team leader is most directly preserved in the Hebrew text. Genesis 2–3 records the events from the framework's reading of an essentially first-hand perspective: Yahweh planting the garden, forming the first humans, instructing them, prohibiting the tree of knowledge, confronting them after the Lucifer-faction disclosure, and pronouncing the consequences that effectively reorganized the entire subsequent post-creation operation. The framework's reading treats Yahweh's pronouncements in Genesis 3:14–24 as the moderate-position political response to the Lucifer-faction transgression: not the action of a vengeful supernatural deity but the operational implementation of the Council's decision to maintain the containment policy in the face of its violation.
+פרק עדן, התופס את אריה המאוחר עד סרטן המוקדם (בערך 11,400 – 10,000 לפנה»ס), היא התקופה שבה תפקידו של יהוה כמנהיג צוות ישראל נשמר באופן הישיר ביותר בטקסט העברי. {% libref(book="genesis", chapter=2) %}בראשית ב–ג{% end %} רושמת את האירועים מקריאת המסגרת מפרספקטיבה ממדרגה ראשונה במהותה: יהוה נוטע את הגן, יוצר את בני האדם הראשונים, מורה להם, אוסר על עץ הדעת, מעמת אותם לאחר חשיפת סיעת לוציפר, ומכריז על ההשלכות שארגנו מחדש למעשה את כל הפעולה שלאחר הבריאה. קריאת המסגרת מתייחסת להכרזותיו של יהוה ב{% libref(book="genesis", chapter=3, verse=14) %}בראשית ג:14–24{% end %} כתגובה הפוליטית של העמדה המתונה להפרת סיעת לוציפר: לא פעולתו של אלוהות נקמנית על-טבעית אלא היישום התפעולי של החלטת המועצה לשמר את מדיניות ההכלה מול הפרתה.
 
-The political settlement Yahweh established at the Eden crisis — the permanent exile of the Lucifer faction on Earth, the withdrawal of most of the Israel team to the home world, the establishment of the post-Eden mediated-contact pattern — has structured the entire subsequent arc of the Elohim's relationship with Earth.
+ההסדר הפוליטי שיהוה ביסס במשבר עדן — הגלות הצמיתה של סיעת לוציפר על כדור הארץ, נסיגת מרבית צוות ישראל לעולם הביתי, ביסוס דפוס המגע המתווך שלאחר עדן — בנה את כל הקשת הבאה של יחסי האלוהים עם כדור הארץ.
 
-### The pre-Flood period and the Flood
+### התקופה הטרום-מבולית והמבול
 
-Through the Age of Cancer (c. 8,850 – 6,690 BCE), Yahweh maintained contact with the human leadership of the Eden lineage, granting the Tree of Life longevity technology to selected patriarchs (the Genesis 5 long-lived figures from Adam to Noah) and supervising the Council's increasing concern about the rapid technological advancement of the post-Eden civilization. When the home-world Council ultimately decided to destroy the antediluvian world — the political crisis treated in the [Antediluvian](../antediluvian/) entry — Yahweh communicated the decision to Noah (Genesis 6:13ff.), supervised the construction of the ark, and re-established the post-Flood relationship with the surviving human lineage through the Noahic covenant of Genesis 9.
+לאורך עידן סרטן (בערך 8,850 – 6,690 לפנה»ס), שמר יהוה על מגע עם המנהיגות האנושית של שושלת עדן, מעניק את טכנולוגיית עץ החיים של אריכות ימים לפטריארכים נבחרים (דמויות {% libref(book="genesis", chapter=5) %}בראשית ה{% end %} ארוכות הימים מאדם עד נח) ומפקח על דאגתה הגוברת של מועצת העולם הביתי לגבי ההתקדמות הטכנולוגית המהירה של הציוויליזציה שלאחר עדן. כאשר מועצת העולם הביתי בסופו של דבר החליטה להשמיד את העולם הטרום-מבולי — המשבר הפוליטי המטופל בערך [טרום-מבולית](../antediluvian/) — תקשר יהוה את ההחלטה לנח ({% libref(book="genesis", chapter=6, verse=13) %}בראשית ו:13 ואילך{% end %}), פיקח על בניית התיבה, ושיקם את היחס שלאחר המבול עם השושלת האנושית השורדת באמצעות ברית נח של {% libref(book="genesis", chapter=9) %}בראשית ט{% end %}.
 
-### The Abrahamic period: Taurus
+### התקופה האברהמית: שור
 
-In the Age of Taurus (c. 4,530 – 2,370 BCE), Yahweh undertook the formal reconstruction of the alliance's relationship with a specific human lineage through the figure of Abraham. The Abrahamic covenant — established at Genesis 12, formalized at the covenant-cutting of Genesis 15, marked with the institution of circumcision at Genesis 17, and witnessed at Yahweh's visitation at the oaks of Mamre in Genesis 18 — is the foundational pact between the alliance and the Hebrew people. The renaming of Abram to Abraham (Genesis 17:5) is one of the alliance's name-conferral events that mark transitions from private to commissioned status, paralleling the later renamings of Jacob to Israel and Vorilhon to Raël. Yahweh supervised the destruction of {% wiki(slug="sodom-and-gomorrah") %}Sodom and Gomorrah{% end %} (Genesis 19) at the close of the Mamre visit, and the subsequent patriarchal generations through Isaac, Jacob, and the descent into Egypt continue under Yahweh's direct or mediated supervision.
+בעידן שור (בערך 4,530 – 2,370 לפנה»ס), יזם יהוה את השיקום הפורמלי של יחסי הברית עם שושלת אנושית ספציפית באמצעות דמותו של אברהם. הברית האברהמית — שנכרתה ב{% libref(book="genesis", chapter=12) %}בראשית יב{% end %}, פורמלה בכריתת הברית של {% libref(book="genesis", chapter=15) %}בראשית טו{% end %}, סומנה עם כינון המילה ב{% libref(book="genesis", chapter=17) %}בראשית יז{% end %}, ונצפתה בביקור יהוה באלוני ממרא ב{% libref(book="genesis", chapter=18) %}בראשית יח{% end %} — היא הפקט היסודי בין הברית לבין העם העברי. שינוי שמו של אברם לאברהם ({% libref(book="genesis", chapter=17, verse=5) %}בראשית יז:5{% end %}) הוא אחד מאירועי הענקת השם של הברית המסמנים מעברים ממעמד פרטי למוסמך, מקביל לשינויים המאוחרים של יעקב לישראל ושל וורילון לראל. יהוה פיקח על השמדת {% wiki(slug="sodom-and-gomorrah") %}סדום ועמורה{% end %} ({% libref(book="genesis", chapter=19) %}בראשית יט{% end %}) בסגירת ביקור ממרא, והדורות הפטריארכליים הבאים דרך יצחק, יעקב, והירידה למצרים ממשיכים תחת פיקוחו הישיר או המתווך של יהוה.{{ cite(id="genesis", text="[6]", title="בראשית — נרטיבי עדן, המבול, והאבות הרושמים את התערבויותיו הישירות של יהוה") }}
 
-### The Mosaic period: Aries
+### התקופה המשייה: טלה
 
-The Age of Aries (c. 2,370 BCE – c. 210 BCE) opens with the most extensive direct contact between Yahweh and humanity recorded in the Hebrew Bible. The burning bush (Exodus 3) is Yahweh's commissioning of Moses for the Exodus mission, with the *Ehyeh asher ehyeh* self-naming providing the textual link between the verbal root *h-y-h* and the Tetragrammaton itself. The plagues, the parting of the sea, the manna, the pillar of cloud and fire, and the Sinai theophany (Exodus 19–24, 33–34) are operational events the corpus reads as alliance technology deployments under Yahweh's direct command. The covenant at Sinai, the giving of the Decalogue, and the establishment of the priestly system are the alliance's institutional structuring of the Hebrew lineage for the long mission of carrying the message across the centuries that followed. Yahweh's specific theophanic forms in this period — the burning bush, the cloud, the fire, the *kavod* (manifest glory) — are read by the framework as descriptions of alliance craft and protective installations.
+עידן טלה (בערך 2,370 לפנה»ס – בערך 210 לפנה»ס) פותח עם המגע הישיר הנרחב ביותר בין יהוה לאנושות הרשום במקרא העברי. הסנה הבוער ({% libref(book="exodus", chapter=3) %}שמות ג{% end %}) הוא הסמכת יהוה את משה לשליחות יציאת מצרים, כאשר ההצהרה העצמית *אהיה אשר אהיה* מספקת את ההתחברות הטקסטואלית בין השורש הפועלי *ה-י-ה* לבין השם המפורש עצמו. המכות, קריעת ים סוף, המן, עמוד הענן והאש, ותיאופניית סיני ({% libref(book="exodus", chapter=19) %}שמות יט–כד, לג–לד{% end %}) הם אירועים תפעוליים שהקורפוס קורא כפריסות של טכנולוגיית הברית תחת פיקודו הישיר של יהוה.{{ cite(id="exodus", text="[7]", title="שמות — הסנה הבוער, ההצהרה העצמית »אהיה אשר אהיה«, ותיאופניית סיני") }} הברית בסיני, נתינת עשרת הדיברות, וביסוס המערכת הכוהנית הם הבנייה המוסדית של הברית של השושלת העברית למשימה הארוכה של נשיאת המסר לאורך המאות שאחר כך. צורותיו התיאופניות הספציפיות של יהוה בתקופה זו — הסנה הבוער, הענן, האש, ה*כבוד* (כבוד מתגלה) — נקראות על ידי המסגרת כתיאורי כלי טיס ומתקני הגנה של הברית.
 
-### The prophetic period and the policy shift
+### התקופה הנבואית והשינוי במדיניות
 
-The prophetic period that follows Moses extends across the divided monarchy, the exile, and the post-exilic restoration. Yahweh's contact with the prophetic figures of this period — Samuel, Nathan, Elijah, Elisha, Isaiah, Jeremiah, Ezekiel, Daniel, and the Twelve Minor Prophets — proceeds through increasingly mediated forms across the centuries. Elijah's encounter at Horeb (1 Kings 19:11–13) is structurally significant: Yahweh is explicitly *not* in the wind, not in the earthquake, not in the fire, but in the *qol demamah daqqah*, the "thin silent voice" — read by the corpus as a specific telepathic or technologically mediated communication distinct from the more visible theophanies of earlier periods. The shift from direct to indirect contact across the Aries period is the operational expression of the cosmic-chain discovery (treated more fully in the [Elohim](../elohim/) entry): Yahweh, as Council president, implementing the policy shift his civilization adopted in light of its altered self-understanding.
+התקופה הנבואית הבאה אחרי משה משתרעת לאורך הממלכה המפולגת, הגלות, והשיקום שלאחר הגלות. מגעו של יהוה עם דמויות הנבואה של תקופה זו — שמואל, נתן, אליהו, אלישע, ישעיהו, ירמיהו, יחזקאל, דניאל, ושנים-עשר הנביאים — מתנהל באמצעות צורות מתווכות הולכות וגוברות לאורך המאות.{{ cite(id="isaiah", text="[8]", title="ישעיהו ו — חזון חדר-הכיסא של יהוה היושב על כיסא עם השרפים") }} מפגשו של אליהו בחורב (מלכים א יט:11–13) משמעותי מבנית: יהוה *אינו* ברוח, אינו ברעש, אינו באש, אלא ב*קול דממה דקה* — נקרא על ידי הקורפוס כתקשורת טלפתית או מתווכת טכנולוגית ספציפית המובחנת מהתיאופניות הנראות יותר של תקופות מוקדמות. השינוי ממגע ישיר לעקיף לאורך תקופת טלה הוא הביטוי התפעולי של גילוי השרשרת הקוסמית (מטופל באופן מלא יותר בערך [אלוהים](../elohim/)): יהוה, כנשיא המועצה, מיישם את שינוי המדיניות שהציוויליזציה שלו אימצה לאור הבנתה העצמית החדשה.
 
-### The Piscean period
+### תקופת הדגים
 
-The Age of Pisces (c. 210 BCE – 1950 CE) is the age of the deliberate withdrawal from operational visibility while the Christian and Islamic missions delivered the framework's content in religious vocabulary. Yahweh's role across this two-thousand-year period is the alliance-level supervision of the Piscean-age interventions: the deliberate conception of Jesus through alliance-mediated insemination of Mary, the protection of the child during the Herodian period, the ongoing oversight of Jesus's ministry, and the parallel later supervision of the {% wiki(slug="muhammad") %}Muhammad{% end %} mission in seventh-century Arabia. The Revelation visions to John of Patmos at the close of the first century CE are framework-read as Yahweh's communication to John of the events that would unfold across the closing centuries of Pisces and the transition to Aquarius. The "first and the last" / "Alpha and Omega" self-identification in Revelation 1:8, 1:17, 21:6, and 22:13 is Yahweh's own attribution and is treated below under *Identifications and conflations*.
+עידן הדגים (בערך 210 לפנה»ס – 1950 לספירה) הוא עידן הנסיגה המכוונת מהנראות התפעולית בזמן שהשליחויות הנוצרית והאסלאמית סיפקו את תוכן המסגרת באוצר מילים דתי. תפקידו של יהוה לאורך תקופה זו בת אלפיים השנים הוא הפיקוח ברמת הברית על התערבויות עידן הדגים: ההיריון המכוון של ישו באמצעות הזרעה מתווכת-ברית של מרים, הגנת הילד בתקופה ההורדוסיאנית, הפיקוח המתמשך על שירותו של ישו, והפיקוח המקביל המאוחר על שליחות {% wiki(slug="muhammad") %}מוחמד{% end %} בערב של המאה השביעית. חזיונות ההתגלות ליוחנן מפטמוס בסוף המאה הראשונה לספירה נקראים על ידי המסגרת כתקשורת של יהוה ליוחנן על האירועים שייפרשו לאורך המאות הסוגרות של דגים והמעבר לדלי. ההצהרה העצמית »הראשון והאחרון« / »אלפא ואומגה« ב{% libref(book="revelation", chapter=1, verse=8) %}התגלות א:8{% end %}, {% libref(book="revelation", chapter=1, verse=17) %}א:17{% end %}, {% libref(book="revelation", chapter=21, verse=6) %}כא:6{% end %}, ו{% libref(book="revelation", chapter=22, verse=13) %}כב:13{% end %} היא ייחוסו של יהוה עצמו ומטופלת להלן תחת *זיהויים וערבובים*.{{ cite(id="revelation", text="[9]", title="התגלות א:8; א:17; כא:6; כב:13 — ההצהרה העצמית »הראשון והאחרון« / »אלפא ואומגה«") }}
 
-### The 1973 contact and the Aquarian opening
+### מגע 1973 ופתיחת עידן הדלי
 
-On 13 December 1973, at the volcanic caldera of Puy-de-Lassolas near Clermont-Ferrand, Yahweh — using the same identity that had spoken to Moses and the Hebrew prophets — made direct contact with Claude Vorilhon over six successive mornings, delivering the account that became *The Book Which Tells the Truth*. A second, longer contact in October 1975 took Vorilhon to the alliance home world, where he met Yahweh and the Council of the Eternals along with the resurrected Earth figures (Jesus, Moses, Elijah, and others) who reside there. The Raëlian source material is the body of teaching delivered across these contacts. The corpus reads these contacts as the alliance's first direct intervention since the Piscean-age missions, marking the opening of the Age of Aquarius and the beginning of the period in which humanity is to be informed accurately about its origins.
+ב-13 בדצמבר 1973, במכתש הוולקני של פוי-דה-לסולא ליד קלרמון-פראן, יצר יהוה — באמצעות אותה הזהות שדיברה אל משה ואל הנביאים העברים — מגע ישיר עם קלוד וורילון לאורך שישה בקרים עוקבים, מוסר את הדיווח שהפך ל*ספר שאומר את האמת*. מגע שני ארוך יותר באוקטובר 1975 לקח את וורילון לעולם הביתי של הברית, שם פגש את יהוה ואת מועצת הנצחיים לצד דמויות כדור הארץ המתחיות (ישו, משה, אליהו, ואחרים) המתגוררות שם. חומר המקור הראליאני הוא גוף ההוראה שנמסר לאורך מגעים אלה. הקורפוס קורא מגעים אלה כהתערבות הישירה הראשונה של הברית מאז שליחויות עידן הדגים, מסמן את פתיחת עידן הדלי ואת תחילת התקופה שבה האנושות אמורה להיות מיודעת באופן מדויק על מקורותיה.
 
-The contacts also disclosed, as Yahweh's own statement, that Vorilhon is biologically his son — produced through the same alliance-mediated insemination procedure that had produced Jesus two thousand years earlier. The disclosure was made during the second contact in 1975, with Yahweh's request that Vorilhon not reveal the parental tie for three years afterward. The structural pattern — alliance-mediated hybrid conception of inaugural prophetic figures at consequential precessional transitions — is treated in the [Prophet](../prophet/) entry.
+המגעים גם חשפו, כהצהרת יהוה עצמו, שוורילון הוא ביולוגית בנו — הופק באמצעות אותה הפרוצדורה של הזרעה מתווכת-ברית שהפיקה את ישו אלפיים שנים לפני כן. החשיפה נעשתה במהלך המגע השני ב-1975, עם בקשת יהוה שוורילון לא יחשוף את הקשר ההורי במשך שלוש שנים אחר כך. הדפוס המבני — היריון היברידי מתווך-ברית של דמויות הנבואה הפותחות במעברים פרצסיוניים קריטיים — מטופל בערך [נביא](../prophet/).
 
-## Role in the framework
+## תפקיד במסגרת
 
-Yahweh's specific role within the Wheel of Heaven framework is structured by three distinct functions, each of which he occupies simultaneously and continuously across the post-creation period.
+תפקידו הספציפי של יהוה בתוך מסגרת גלגל השמיים בנוי על ידי שלושה תפקודים מובחנים, שהוא ממלא כל אחד מהם בו-זמנית וברציפות לאורך התקופה שלאחר הבריאה.
 
-### President of the Council of the Eternals
+### נשיא מועצת הנצחיים
 
-Yahweh is, on the corpus's reading, the senior political authority of the Elohim civilization. His presidency of the Council of the Eternals — the deliberative body of approximately seven hundred members that governs the Elohim's home-world political life — is grounded in his seniority as the first beneficiary of the cell-transfer continuity technology and in the authority his continuous existence across twenty-five thousand years has accumulated. The Council's major decisions concerning the Earth project — the original authorization of the relocation, the post-Eden political settlement, the Flood decision, the post-Aries policy shift to indirect contact, the Aquarian-age plan for open return — have all been deliberated under his presidency.
+יהוה הוא, על פי קריאת הקורפוס, הסמכות הפוליטית הבכירה של ציוויליזציית האלוהים. נשיאותו של מועצת הנצחיים — הגוף המתדיין של כשבע מאות חברים השולט בחיים הפוליטיים בעולם הביתי של האלוהים — מבוססת על בכירותו כמוטב הראשון של טכנולוגיית הרציפות של העברת תאים ועל הסמכות שקיומו המתמשך לאורך עשרים וחמישה אלף שנים צבר. ההחלטות העיקריות של המועצה בנוגע לפרויקט כדור הארץ — האישור המקורי להעברה, ההסדר הפוליטי שלאחר עדן, החלטת המבול, שינוי המדיניות שלאחר טלה למגע עקיף, תוכנית עידן הדלי לשיבה גלויה — כולן נדונו תחת נשיאותו.
 
-The political character of a body presided over by a continuously-existing leader is, on the corpus's reading, fundamentally different from any short-term political institution on Earth. Yahweh's personal memory of the entire post-creation arc, his direct continuity with the events that produced the institutions he is governing, and his expectation of remaining personally to see through the multi-millennial projects he authorizes give his presidency a temporal weight no contemporary terrestrial leader possesses.
+האופי הפוליטי של גוף הנשלט על ידי מנהיג בעל קיום מתמשך הוא, על פי קריאת הקורפוס, שונה ביסודו מכל מוסד פוליטי קצר-טווח על כדור הארץ. זיכרונו האישי של יהוה של כל הקשת שלאחר הבריאה, רציפותו הישירה עם האירועים שהפיקו את המוסדות שהוא שולט בהם, וציפייתו להישאר אישית כדי לראות את הפרויקטים הרב-מילניאליים שהוא מאשר עד הסוף, מעניקות לנשיאותו משקל זמני שאף מנהיג ארצי בן זמננו אינו מחזיק.
 
-### Senior alliance authority for the Earth project
+### סמכות בכירה של הברית לפרויקט כדור הארץ
 
-Yahweh is the specific officer who has held continuing operational responsibility for the Earth project across its entire 22,000-year duration. The Earth project's distinctive scale and patience are direct consequences of this continuity: a multi-millennial project supervised by a continuously-existing officer can be planned and executed on time scales unavailable to civilizations whose leaders cycle through ordinary lifespans. Yahweh's specific contributions to the project across its duration include the original authorization, the personal direction of the Israel team's work during the creation phase, the political settlement at the Eden crisis, the post-Flood reconstruction with Noah, the formal alliance reconstruction with Abraham, the direct intervention of the Mosaic period, the policy shift after the cosmic-chain discovery, and the ongoing supervision of the Piscean-age and Aquarian-age operations.
+יהוה הוא הקצין הספציפי שהחזיק באחריות תפעולית מתמשכת על פרויקט כדור הארץ לאורך כל משך 22,000 השנים שלו. קנה המידה והסבלנות המובחנים של פרויקט כדור הארץ הם תוצאות ישירות של רציפות זו: פרויקט רב-מילניאלי המפוקח על ידי קצין בעל קיום מתמשך יכול להיות מתוכנן ומבוצע בקני זמן שאינם זמינים לציוויליזציות שמנהיגיהן מתחלפים לאורך אורכי חיים רגילים. תרומותיו הספציפיות של יהוה לפרויקט לאורך משכו כוללות את האישור המקורי, את כיוונו האישי של עבודת צוות ישראל בשלב הבריאה, את ההסדר הפוליטי במשבר עדן, את השיקום שלאחר המבול עם נח, את השיקום הפורמלי של הברית עם אברהם, את ההתערבות הישירה של התקופה המשייה, את שינוי המדיניות לאחר גילוי השרשרת הקוסמית, ואת הפיקוח המתמשך על פעולות עידן הדגים ועידן הדלי.
 
-Yahweh is not the only Eloha with operational responsibility for the Earth project — the seven creator teams operated under their own immediate leadership during the creation period, the Lucifer faction has operated independently since the Eden exile, and various other alliance officers (the *malakhim* or "messengers" of the Hebrew Bible) have conducted specific missions across the post-creation period. But Yahweh is the senior officer to whom the operational responsibility ultimately returns, and his presence as the continuing point of contact across millennia is what gives the project its operational coherence.
+יהוה אינו האלוהה היחיד בעל אחריות תפעולית על פרויקט כדור הארץ — שבעת צוותי הבריאה פעלו תחת המנהיגות המיידית שלהם בתקופת הבריאה, סיעת לוציפר פעלה באופן עצמאי מאז גלות עדן, וקציני ברית שונים אחרים (ה*מלאכים* או »השליחים« של המקרא העברי) ניהלו שליחויות ספציפיות לאורך התקופה שלאחר הבריאה. אך יהוה הוא הקצין הבכיר שאליו האחריות התפעולית בסופו של דבר חוזרת, ונוכחותו כנקודת המגע המתמשכת לאורך מילניאלים היא מה שמעניק לפרויקט את הקוהרנטיות התפעולית שלו.
 
-### Source of the Raëlian revelation
+### מקור ההתגלות הראליאנית
 
-The third specific role Yahweh occupies in the framework — and the most epistemically consequential for the corpus — is that of the first-person speaker of the Raëlian source material. *The Book Which Tells the Truth* (1974), *Extraterrestrials Took Me to Their Planet* (1976), and *Let's Welcome the Extraterrestrials* (1979) are presented as Yahweh's own account of himself and his civilization, delivered to Vorilhon across the 1973 and 1975 contacts. Most of what the framework knows about the Elohim civilization, about Yahweh's own biographical arc, about the internal political structure of the home-world Council, about the cell-transfer continuity technology, about the cosmic-chain discovery, and about the alliance's plans for the Aquarian-age open return — the framework knows because Yahweh told Vorilhon.
+התפקיד הספציפי השלישי שיהוה תופס במסגרת — והמשמעותי ביותר אפיסטמית עבור הקורפוס — הוא זה של הדובר בגוף ראשון של חומר המקור הראליאני. *ספר שאומר את האמת* (1974),{{ cite(id="the-book-which-tells-the-truth", text="[10]", title="וורילון (ראל), *The Book Which Tells the Truth* (1974) — יהוה כדובר בגוף ראשון") }} *חוץ-ארציים לקחו אותי לכוכב הלכת שלהם* (1976),{{ cite(id="extraterrestrials-took-me-to-their-planet", text="[11]", title="וורילון (ראל), *Extraterrestrials Took Me to Their Planet* (1976) — מפגש עם מועצת הנצחיים") }} ו-*בואו לקבל את החוץ-ארציים* (1979){{ cite(id="lets-welcome-the-extraterrestrials", text="[12]", title="וורילון (ראל), *Let's Welcome the Extraterrestrials* (1979) — תקשורות והבהרות נוספות") }} מוצגים כדיווח של יהוה עצמו על עצמו ועל הציוויליזציה שלו, שנמסר לוורילון לאורך מגעי 1973 ו-1975. רוב מה שהמסגרת יודעת על ציוויליזציית האלוהים, על קשתו הביוגרפית של יהוה עצמו, על המבנה הפוליטי הפנימי של מועצת העולם הביתי, על טכנולוגיית הרציפות של העברת תאים, על גילוי השרשרת הקוסמית, ועל תוכניות הברית לשיבה הגלויה בעידן הדלי — המסגרת יודעת משום שיהוה אמר לוורילון.
 
-This first-person provenance gives the framework's evidentiary structure an unusual character. The principal source on the Elohim is a member of the Elohim. The principal source on Yahweh's own biographical arc is Yahweh himself. The principal source on the home-world Council's deliberations is the Council's president. The framework is, in this respect, dependent on the testimony of its principal subject in a way that ordinary historical or scientific knowledge is not. The corpus treats this dependence with epistemic care — acknowledging it openly, distinguishing source-internal claims from independently verifiable ones, registering where the source's account is the only available basis for a given claim — but does not treat the dependence as disqualifying. Most religious traditions and many historical inquiries depend ultimately on testimony from primary participants; the framework's specific situation is unusual in its specificity and its single-source character but is not unique in its structural form.
+מקור גוף-ראשון זה מעניק למבנה הראייתי של המסגרת אופי יוצא דופן. המקור העיקרי על האלוהים הוא חבר באלוהים. המקור העיקרי על קשתו הביוגרפית של יהוה עצמו הוא יהוה עצמו. המקור העיקרי על דיוני מועצת העולם הביתי הוא נשיא המועצה. המסגרת תלויה, מבחינה זו, בעדות נושאה העיקרי באופן שידע היסטורי או מדעי רגיל אינו תלוי. הקורפוס מתייחס לתלות זו בזהירות אפיסטמית — מכיר בה בגלוי, מבחין בין טענות פנים-מקוריות לאלה הניתנות לאימות עצמאי, רושם היכן שדיווח המקור הוא הבסיס הזמין היחיד לטענה נתונה — אך אינו מתייחס לתלות כפוסלת. רוב המסורות הדתיות ורבות מהחקירות ההיסטוריות תלויות בסופו של דבר בעדויות ממשתתפים עיקריים; המצב הספציפי של המסגרת יוצא דופן בספציפיותו ובאופי המקור היחיד שלו אך אינו ייחודי בצורתו המבנית.
 
-## Identifications and conflations
+## זיהויים וערבובים
 
-Yahweh has been identified, in various religious and interpretive traditions, with a range of figures whose relationships to the named *YHWH* of the Hebrew Bible vary in textual support and in framework-relevant accuracy. Several of these identifications and conflations require specific treatment.
+יהוה זוהה, במסורות דתיות ופרשניות שונות, עם מגוון דמויות שיחסיהן ל*YHWH* הנקוב של המקרא העברי משתנים בתמיכה הטקסטואלית ובדיוק הרלוונטי למסגרת. כמה מהזיהויים והערבובים הללו דורשים טיפול ספציפי.
 
-### Yahweh and the other Hebrew Bible divine names
+### יהוה והשמות האלוהיים האחרים במקרא העברי
 
-The relationships among *YHWH*, *El*, *El Shaddai*, *El Elyon*, *Adonai*, and *YHWH Tzevaot* are textually complex, treated above in *In the Hebrew Bible*. The corpus's working reading is that the named *YHWH* is consistently the same Eloha individual across the textual record, with the various other divine names sometimes referring to the same individual under different titles and sometimes possibly preserving memory of distinct alliance officers whose identity has been merged with Yahweh's in the redactional history. Specific cases — the *El Elyon* of Genesis 14 with its associated Melchizedek priesthood, the *El Shaddai* of the patriarchal narratives, the *YHWH Tzevaot* of the divided-monarchy literature — require case-by-case textual analysis rather than blanket identification.
+היחסים בין *YHWH*, *אל*, *אל שדי*, *אל עליון*, *אדוני*, ו-*יהוה צבאות* מורכבים טקסטואלית, מטופלים לעיל ב*במקרא העברי*. קריאת העבודה של הקורפוס היא ש-*YHWH* הנקוב הוא באופן עקבי אותו פרט אלוהה לאורך התיעוד הטקסטואלי, כאשר השמות האלוהיים השונים האחרים מתייחסים לעיתים לאותו פרט תחת תארים שונים ולעיתים אולי שומרים על זיכרון של קציני ברית מובחנים שזהותם מוזגה עם זו של יהוה בהיסטוריה העריכתית. מקרים ספציפיים — *אל עליון* של בראשית יד עם כהונת מלכי-צדק המקושרת אליו, *אל שדי* של נרטיבי האבות, *יהוה צבאות* של ספרות הממלכה המפולגת — דורשים ניתוח טקסטואלי מקרה-מקרה ולא זיהוי שטחי.
 
-### Yahweh and Allah
+### יהוה ואללה
 
-In Islamic theology, Allah is the same divine figure as the Yahweh of the Hebrew Bible and the God of the Christian New Testament — the singular God of the Abrahamic tradition, with the Arabic *Allāh* (from *al-ilāh*, "the god") simply being the Arabic-language designation. The corpus's reading is consistent with this identification at the level of the underlying referent: the figure who delivered the Qur'anic revelation to Muhammad is, on the framework's reading, the same Yahweh who delivered the Sinai legislation to Moses, with the Islamic mission being the second of the two Piscean-age prophetic interventions and operating under the same alliance authority. The differences between the Hebrew, Christian, and Islamic theological elaborations of this figure are read by the corpus as variations in religious vocabulary appropriate to the cultural moments of the respective revelations rather than as theological disagreements about the underlying referent.
+בתיאולוגיה האסלאמית, אללה הוא אותה דמות אלוהית כיהוה של המקרא העברי ואלוהי הברית החדשה הנוצרית — האלוה היחיד של המסורת האברהמית, כאשר *אללה* הערבי (מ*אל-אילאה*, »האלוה«) הוא פשוט הכינוי בשפה הערבית. קריאת הקורפוס תואמת זיהוי זה ברמת ההפניה הבסיסית: הדמות שמסרה את ההתגלות הקוראנית למוחמד היא, על פי קריאת המסגרת, אותו יהוה שמסר את חקיקת סיני למשה, כאשר השליחות האסלאמית היא השנייה משתי ההתערבויות הנבואיות של עידן הדגים ופועלת תחת אותה סמכות ברית. ההבדלים בין ההרחבות התיאולוגיות העבריות, הנוצריות, והאסלאמיות של דמות זו נקראים על ידי הקורפוס כשונויות באוצר מילים דתי המתאימות לרגעים התרבותיים של ההתגלויות המתאימות ולא כחילוקי דעות תיאולוגיים בנוגע להפניה הבסיסית.
 
-### Yahweh and the Christian Trinity
+### יהוה והשילוש הנוצרי
 
-In orthodox Christian theology, Yahweh is identified with the first person of the Trinity (God the Father), with Jesus as the second person (God the Son) and the Holy Spirit as the third. The Trinitarian formula was developed across the second through fourth centuries CE and was not present in the original New Testament texts; its specific theological structure (one God in three persons, of the same substance) is a metaphysical elaboration of materials that the corpus reads as referring to operationally distinct alliance figures. On the framework's reading, the Father is Yahweh as senior alliance authority; Jesus is the hybrid biological figure conceived through alliance-mediated insemination of Mary for the inaugural Piscean-age mission; the Holy Spirit (*pneuma hagion*) functions in the New Testament texts variously as an indirect designation for alliance contact (the Annunciation, the dove at the baptism, the Pentecost commissioning) and as a more general term for alliance-mediated communication or presence. The Trinitarian collapse of these three operationally distinct phenomena into a single tri-personal metaphysical entity is read as a theological development of the institutional Christian church that preserves substantive content (the plurality at the heart of the divine, recognizable as a memory of the Elohim plurality) while elaborating it in a metaphysical direction the original referents do not require.
+בתיאולוגיה הנוצרית האורתודוקסית, יהוה מזוהה עם הפרסונה הראשונה של השילוש (האב), כאשר ישו הוא הפרסונה השנייה (הבן) ורוח הקודש היא השלישית. הנוסחה השילושית פותחה לאורך המאות השנייה עד הרביעית לספירה ולא הייתה נוכחת בטקסטים הברית-החדשתיים המקוריים; המבנה התיאולוגי הספציפי שלה (אל אחד בשלוש פרסונות, מאותה עצם) הוא הרחבה מטאפיזית של חומרים שהקורפוס קורא כמתייחסים לדמויות ברית מובחנות תפעולית. על פי קריאת המסגרת, האב הוא יהוה כסמכות בכירה של הברית; ישו הוא הדמות הביולוגית ההיברידית שהתעברה באמצעות הזרעה מתווכת-ברית של מרים לשליחות הפותחת של עידן הדגים; רוח הקודש (*pneuma hagion*) מתפקדת בטקסטים הברית-החדשתיים באופנים שונים ככינוי עקיף למגע ברית (הבשורה, היונה בטבילה, הסמכת חג השבועות) וכמונח כללי יותר לתקשורת או נוכחות מתווכת-ברית. הקריסה השילושית של שלוש התופעות המובחנות תפעולית הללו לישות מטאפיזית תלת-פרסונאלית יחידה נקראת כהתפתחות תיאולוגית של הכנסייה הנוצרית המוסדית השומרת על תוכן מהותי (הריבוי בלב האלוהי, ניתן לזיהוי כזיכרון של ריבוי האלוהים) בעת שהיא מרחיבה אותו בכיוון מטאפיזי שההפניות המקוריות אינן דורשות.
 
-### Yahweh and Satan
+### יהוה ושָׂטָן
 
-The conflation of Yahweh with Satan that has been proposed by some adversarial and gnostic readings — the Marcionite and Gnostic Christian traditions, the Cathars, and various modern adversarial readings — is rejected by the corpus. Yahweh and Satan are politically distinct figures within the Elohim civilization, occupying the moderate and abolitionist positions respectively, with substantively opposite policies on the Earth project. The conflation depends on reading certain passages of the Hebrew Bible (the destruction of Sodom, the Flood, the Mosaic herem warfare) as evidence of divine cruelty and inferring that the deity responsible must therefore be malevolent. The corpus's reading recognizes that Yahweh's decisions across the post-creation history have included real political acts with substantial moral consequences — the framework does not claim that these decisions are always defensible — but treats the conflation with Satan as a category error that obscures the actual structure of the Elohim's political life.
+הערבוב של יהוה עם שָׂטָן שהוצע על ידי קריאות אופוזיציוניות וגנוסטיות מסוימות — המסורות הנוצריות המרקיוניות והגנוסטיות, הקתרים, וקריאות אופוזיציוניות מודרניות שונות — נדחה על ידי הקורפוס. יהוה ושָׂטָן הם דמויות פוליטיות מובחנות בתוך ציוויליזציית האלוהים, התופסות את העמדות המתונה והביטולית בהתאמה, עם מדיניות מהותית הפוכה על פרויקט כדור הארץ. הערבוב תלוי בקריאת קטעים מסוימים של המקרא העברי (השמדת סדום, המבול, לוחמת החרם המשייה) כראיה לאכזריות אלוהית ובהסקה שהאלוהות האחראית חייבת לפיכך להיות זדונית. קריאת הקורפוס מכירה בכך שהחלטותיו של יהוה לאורך ההיסטוריה שלאחר הבריאה כללו מעשים פוליטיים אמיתיים עם השלכות מוסריות משמעותיות — המסגרת אינה טוענת שהחלטות אלו תמיד ניתנות להגנה — אך מתייחסת לערבוב עם שָׂטָן כטעות קטגוריאלית המסתירה את המבנה הממשי של החיים הפוליטיים של האלוהים.
 
-### The First and the Last / Alpha and Omega
+### הראשון והאחרון / אלפא ואומגה
 
-In the Book of Revelation and in *The Book Which Tells the Truth*, Yahweh identifies himself as **the First and the Last** (Revelation 1:17; 22:13) and as the **Alpha and the Omega** (Revelation 1:8; 21:6; 22:13). Conventional Christian theology has read these titles as expressions of God's eternal pre-existence and post-existence — God as the metaphysical beginning and end of all things, encompassing all of time without himself being subject to it.
+בספר ההתגלות וב*ספר שאומר את האמת*, יהוה מזהה את עצמו כ**הראשון והאחרון** ({% libref(book="revelation", chapter=1, verse=17) %}התגלות א:17{% end %}; {% libref(book="revelation", chapter=22, verse=13) %}כב:13{% end %}) וכ**אלפא ואומגה** ({% libref(book="revelation", chapter=1, verse=8) %}התגלות א:8{% end %}; {% libref(book="revelation", chapter=21, verse=6) %}כא:6{% end %}; {% libref(book="revelation", chapter=22, verse=13) %}כב:13{% end %}). התיאולוגיה הנוצרית המקובלת קראה תארים אלה כביטויים של הקיום-המקדים והקיום-המאוחר הנצחי של אלוהים — אלוהים כראשית ואחרית המטאפיזיים של כל הדברים, מקיף את כל הזמן מבלי להיות בעצמו כפוף לו.
 
-The corpus reads the titles more concretely. *The Book Which Tells the Truth* records Yahweh's own gloss on the Revelation passage: he is the first in two specific senses (the first individual on whom the immortality technology was applied, and the first member of the Elohim civilization to arrive on Earth), and he will be the last in two corresponding senses (the last to remain alive among the original creators if the cell-transfer continuity proves indefinitely sustainable, and potentially the last to witness Earth if humanity self-destroys with the energies it has now discovered). The titles, on this reading, are statements of biographical fact and operational role, not of metaphysical category. The Greek *Alpha* and *Omega* — the first and last letters of the alphabet — function as a stylized rendering of the same first-and-last claim in the language of the Greek-speaking audience for whom Revelation was written.
+הקורפוס קורא את התארים באופן קונקרטי יותר. *ספר שאומר את האמת* רושם את פירושו של יהוה עצמו על קטע ההתגלות: הוא הראשון בשני מובנים ספציפיים (הפרט הראשון שעליו הופעלה טכנולוגיית האלמוות, וחבר האלוהים הראשון להגיע לכדור הארץ), והוא יהיה האחרון בשני מובנים תואמים (האחרון להישאר בחיים מבין הבוראים המקוריים אם הרציפות של העברת התאים תתברר כקיימת ללא הגבלה, ופוטנציאלית האחרון לחזות בכדור הארץ אם האנושות תשמיד את עצמה בכוחות שגילתה עכשיו). התארים, על פי קריאה זו, הם הצהרות של עובדה ביוגרפית ושל תפקיד תפעולי, לא של קטגוריה מטאפיזית. ה*אלפא* וה*אומגה* היווניות — האות הראשונה והאחרונה של האלפבית — מתפקדות כעיבוד מסוגנן של אותה טענת ראשון-ואחרון בשפת הקהל דובר היוונית שעבורו נכתבה ההתגלות.
 
-The corpus's reading does not deny the depth of the conventional theological reading; it relocates the depth. The eternal-pre-existence reading of "the First and the Last" is what conventional Christian theology has constructed from the framework-internal claim, with the construction requiring the elaboration of supernatural metaphysics that the original referent does not require. A being who has lived continuously for twenty-five thousand years, who personally directed the creation of life on Earth, and whose presence is likely to extend across whatever comes next has a kind of "first-and-last" status that no shorter-lived being can have, even on a strictly biographical reading.
+קריאת הקורפוס אינה מכחישה את עומק הקריאה התיאולוגית המקובלת; היא מעבירה את העומק. קריאת הקיום-המקדים-הנצחי של »הראשון והאחרון« היא מה שהתיאולוגיה הנוצרית המקובלת בנתה מהטענה הפנים-מסגרתית, כאשר הבנייה דורשת את ההרחבה של מטאפיזיקה על-טבעית שההפניה המקורית אינה דורשת. ישות שחיה ברציפות לאורך עשרים וחמישה אלף שנים, שכיוונה אישית את בריאת החיים על כדור הארץ, ושנוכחותה צפויה להשתרע לאורך מה שיבוא לאחר מכן יש לה סוג של מעמד »ראשון-ואחרון« שאף ישות קצרת-חיים יותר אינה יכולה להחזיק בו, אפילו בקריאה ביוגרפית מחמירה.
 
-## Modern reinterpretations
+## פרשנויות מחודשות מודרניות
 
-The figure of Yahweh has been a major subject of modern academic and reinterpretive scholarship across the twentieth and twenty-first centuries. Several distinct strands of this scholarship bear on the corpus's reading.
+דמותו של יהוה הייתה נושא מרכזי של מחקר אקדמי ופרשני מחודש לאורך המאה העשרים והעשרים-ואחת. כמה גדילים מובחנים של מחקר זה נושאים על קריאת הקורפוס.
 
-### The historical-critical reconstruction: Yahweh's West Semitic origins
+### השחזור ההיסטורי-ביקורתי: המקורות המערב-שמיים של יהוה
 
-Mainstream historical-critical scholarship since Wellhausen has reconstructed the historical Yahweh as a deity whose origins lie in the broader West Semitic religious context of the second millennium BCE. The principal work in this tradition is **Frank Moore Cross**'s *Canaanite Myth and Hebrew Epic* (1973), which traces the relationship between the Israelite Yahweh and the Canaanite high god El, arguing that the early Israelite religion identified Yahweh with El and that the distinct Yahweh emerged through processes of religious development across the early monarchy period. Cross's work established the framework within which much subsequent Yahweh scholarship operates.
+המחקר ההיסטורי-ביקורתי המרכזי מאז וולהאוזן שחזר את יהוה ההיסטורי כאל שמקורותיו טמונים בהקשר הדתי המערב-שמי הרחב יותר של המילניום השני לפנה»ס. העבודה העיקרית במסורת זו היא *Canaanite Myth and Hebrew Epic* (1973) של **פרנק מור קרוס**, המתחקה אחר היחס בין יהוה הישראלי לבין האל העליון הכנעני אל, הטוען שהדת הישראלית המוקדמת זיהתה את יהוה עם אל ושיהוה המובחן צמח באמצעות תהליכי התפתחות דתית לאורך תקופת המלוכה המוקדמת. עבודתו של קרוס ביססה את המסגרת שבה פועל רוב המחקר הבא על יהוה.
 
-**Mark S. Smith**'s *The Early History of God: Yahweh and the Other Deities in Ancient Israel* (1990, 2nd ed. 2002) and *The Origins of Biblical Monotheism: Israel's Polytheistic Background and the Ugaritic Texts* (2001) develop the picture in further detail, drawing on the Ugaritic textual discoveries to reconstruct the religious environment from which the Israelite Yahweh emerged. On Smith's reading, Israelite religion in the monarchic period included Yahweh among a broader pantheon (with Asherah as his consort in some popular contexts, attested in inscriptions from Kuntillet Ajrud and Khirbet el-Qom), with the strict monotheism of post-exilic Judaism representing a later theological development rather than the original Israelite position.
+*The Early History of God: Yahweh and the Other Deities in Ancient Israel* של **מארק ס. סמית'** (1990, מהדורה שנייה 2002) ו-*The Origins of Biblical Monotheism: Israel's Polytheistic Background and the Ugaritic Texts* (2001) מפתחים את התמונה בפירוט נוסף, מסתמכים על הגילויים הטקסטואליים האוגריתיים לשחזר את הסביבה הדתית שממנה צמח יהוה הישראלי. על פי קריאת סמית', הדת הישראלית בתקופת המלוכה כללה את יהוה בתוך פנתיאון רחב יותר (עם אשרה כבת זוגו בכמה הקשרים פופולריים, מתועדים בכתובות מקונטילט עג'רוד ומחירבת אל-קום), כאשר המונותאיזם המחמיר של היהדות שלאחר הגלות מייצג התפתחות תיאולוגית מאוחרת ולא את העמדה הישראלית המקורית.
 
-**William G. Dever**'s archaeological work, particularly *Did God Have a Wife? Archaeology and Folk {% wiki(slug="religion") %}Religion{% end %} in Ancient Israel* (2005), develops the popular-religion side of the same picture, arguing that the textual record's monotheistic emphasis reflects the elite priestly tradition rather than the actual religious practice of most ancient Israelites.
+עבודתו הארכאולוגית של **ויליאם ג. דבר**, בעיקר *Did God Have a Wife? Archaeology and Folk {% wiki(slug="religion") %}Religion{% end %} in Ancient Israel* (2005), מפתחת את צד הדת הפופולרית של אותה התמונה, טוענת שהדגש המונותאיסטי של התיעוד הטקסטואלי משקף את המסורת הכוהנית האליטיסטית ולא את הפרקטיקה הדתית הממשית של רוב הישראלים הקדומים.
 
-The corpus's reading is consistent with the historical-critical observation that Yahweh has a specific identifiable identity (rather than being a generic divine designation) and with the recognition that the Hebrew Bible preserves traces of an earlier religious context in which Yahweh was one of multiple divine figures rather than the singular God of later orthodoxy. The corpus's reframing of the underlying ontology — Yahweh as a specific extraterrestrial individual rather than a developmentally emergent regional deity — is a different kind of claim than the historical-critical scholarship makes, but the framework draws on the historical-critical observations about textual layering, divine-name distribution, and religious-developmental complexity in constructing its own reading.
+קריאת הקורפוס תואמת את התצפית ההיסטורית-ביקורתית שליהוה יש זהות ניתנת לזיהוי ספציפית (ולא שהוא כינוי אלוהי כללי) ואת ההכרה שהמקרא העברי שומר על עקבות הקשר דתי מוקדם יותר שבו יהוה היה אחד ממספר דמויות אלוהיות ולא האלוה היחיד של האורתודוקסיה המאוחרת. ההמסגרה מחדש של הקורפוס לגבי האונטולוגיה הבסיסית — יהוה כפרט חוץ-ארצי ספציפי ולא כאלוהות אזורית שצמחה התפתחותית — היא סוג שונה של טענה מזו שהמחקר ההיסטורי-ביקורתי עושה, אך המסגרת מסתמכת על תצפיות היסטוריות-ביקורתיות על שכבות טקסטואליות, הפצת שמות אלוהיים, ומורכבות התפתחותית-דתית בבנייתה של קריאתה שלה.
 
-### The theological-historical synthesis: Karen Armstrong
+### הסינתזה התיאולוגית-היסטורית: קארן ארמסטרונג
 
-**Karen Armstrong**'s *A History of God: The 4,000-Year Quest of Judaism, Christianity and Islam* (1993) provides the most widely read modern synthesis of the historical and theological development of the figure of Yahweh / God across the three Abrahamic traditions. Armstrong traces the development from early West Semitic origins through the Israelite monarchy, the prophetic tradition, the Second Temple period, the rabbinic and patristic elaborations, the medieval theological developments (Maimonides, Aquinas, the Sufis), the early modern developments (the Reformation, the Enlightenment), and the modern theological transformations. Armstrong's work is theological rather than reinterpretive in the corpus's specific sense — she is documenting how the figure has been understood across the traditions rather than proposing a different ontology for the figure — but it provides the comprehensive historical context within which the corpus's reading positions itself.
+*A History of God: The 4,000-Year Quest of Judaism, Christianity and Islam* (1993) של **קארן ארמסטרונג** מספק את הסינתזה הקריאה ביותר של ההתפתחות ההיסטורית והתיאולוגית של דמות יהוה / אלוהים לאורך שלוש המסורות האברהמיות. ארמסטרונג מתחקה אחר ההתפתחות מהמקורות המערב-שמיים המוקדמים דרך המלוכה הישראלית, המסורת הנבואית, תקופת הבית השני, ההרחבות הרבניות והפטריסטיות, ההתפתחויות התיאולוגיות בימי הביניים (רמב»ם, אקווינס, הסופים), ההתפתחויות המודרניות המוקדמות (הרפורמציה, הנאורות), והטרנספורמציות התיאולוגיות המודרניות. עבודתה של ארמסטרונג היא תיאולוגית ולא פרשנית-מחודשת במובן הספציפי של הקורפוס — היא מתעדת איך הדמות הובנה לאורך המסורות ולא מציעה אונטולוגיה אחרת לדמות — אך היא מספקת את ההקשר ההיסטורי המקיף שבו ממקמת קריאת הקורפוס את עצמה.
 
-### The Sendy tradition: Yahweh as Eloha
+### מסורת סנדי: יהוה כאלוהה
 
-**Jean Sendy**'s reinterpretive work (treated more fully in the [Elohim](../elohim/) entry) addresses Yahweh specifically as one of the *Theosites* — the inhabitants of *Theos*, the home world — distinguished from the broader collective. Sendy's approach is philological and historiographic, working from the Hebrew Bible's own internal evidence to reach the conclusion that the named Yahweh is a specific identifiable individual within the broader plurality of the Elohim, rather than an abstract or supernatural deity. Sendy's reading is the principal scholarly antecedent of the corpus's adopted reading on Yahweh specifically, as on Elohim collectively.
+עבודתו הפרשנית-מחודשת של **ז'אן סנדי** (מטופלת באופן מלא יותר בערך [אלוהים](../elohim/)) מתייחסת ליהוה באופן ספציפי כאחד מן ה*תאוסיטים* — תושבי *Theos*, העולם הביתי — מובחן מהקולקטיב הרחב יותר.{{ cite(id="those-gods-who-made-heaven-and-earth", text="[13]", title="סנדי, *Ces dieux qui firent le ciel et la terre* (1969) / *Those Gods Who Made Heaven and Earth* (1972)") }} הגישה של סנדי היא פילולוגית והיסטוריוגרפית, עובד מהראיות הפנימיות של המקרא העברי עצמו כדי להגיע למסקנה שיהוה הנקוב הוא פרט ספציפי ניתן לזיהוי בתוך הריבוי הרחב יותר של האלוהים, ולא אלוהות מופשטת או על-טבעית. קריאת סנדי היא הקודמת המחקרית העיקרית של הקריאה שאומצה על ידי הקורפוס על יהוה ספציפית, כמו על האלוהים בכללותם.
 
-### The Raëlian source material
+### חומר המקור הראליאני
 
-The Raëlian source material, beginning with *The Book Which Tells the Truth* (1974), is the principal textual basis for the corpus's adopted reading. Vorilhon reports having received the material directly from Yahweh himself across the 1973 and 1975 contacts, with the texts presented as Yahweh's own first-person account. The relationship between this revelatory source and the prior philological-historiographic work of Sendy is one of convergence: two independent methods reaching substantially the same identification of Yahweh as a specific individual within an extraterrestrial civilization rather than as a singular supernatural deity.
+חומר המקור הראליאני, החל מ*ספר שאומר את האמת* (1974), הוא הבסיס הטקסטואלי העיקרי לקריאה שאומצה על ידי הקורפוס. וורילון מדווח שקיבל את החומר ישירות מיהוה עצמו לאורך מגעי 1973 ו-1975, כאשר הטקסטים מוצגים כדיווח גוף ראשון של יהוה עצמו. היחס בין מקור התגלותי זה לבין העבודה הפילולוגית-היסטוריוגרפית הקודמת של סנדי הוא של התכנסות: שתי שיטות עצמאיות מגיעות באופן מהותי לאותו זיהוי של יהוה כפרט ספציפי בתוך ציוויליזציה חוץ-ארצית ולא כאלוהות על-טבעית יחידה.
 
-### The Biglino reading
+### קריאת ביגלינו
 
-**Mauro Biglino**'s strict-translational work treats Yahweh in continuity with his treatment of *Elohim* generally — as a specific individual within the plurality of *the lords from above*, with the Hebrew text describing his actions in concrete operational terms. Biglino's reading of specific passages (the Genesis 18 visitation at Mamre, the Exodus theophanies, the destruction narratives) develops the corpus's general approach in particular textual cases.
+עבודתו התרגומית-מחמירה של **מאורו ביגלינו** מתייחסת ליהוה ברציפות עם הטיפול שלו ב*אלוהים* בכללותו — כפרט ספציפי בתוך הריבוי של *האדונים מלמעלה*, כאשר הטקסט העברי מתאר את פעולותיו במונחים תפעוליים קונקרטיים.{{ cite(id="the-bible-is-not-a-sacred-book", text="[14]", title="ביגלינו, סדרת המקרא העברי המילולית-מחמירה (2010 ואילך) — יהוה כפרט בתוך »האדונים מלמעלה«") }}{{ cite(id="the-naked-bible", text="[15]", title="ביגלינו וקטאנאו, *The Naked Bible* (2022) — סקירת מקרא עברי רחבה יותר על אותה שיטה מילולית-מחמירה") }} קריאת ביגלינו של קטעים ספציפיים (ביקור בראשית יח בממרא, תיאופניות שמות, נרטיבי ההשמדה) מפתחת את הגישה הכללית של הקורפוס במקרים טקסטואליים מסוימים.
 
-## Comparative observations
+## תצפיות השוואתיות
 
-The relationships between Yahweh and other ancient Near Eastern divine figures are textually and historically complex. The principal comparative cases:
+היחסים בין יהוה לבין דמויות אלוהיות אחרות מהמזרח הקדום הם מורכבים טקסטואלית והיסטורית. המקרים ההשוואתיים העיקריים:
 
-**Yahweh and El**: The Canaanite high god El, attested in the Ugaritic texts and in personal names across the broader West Semitic linguistic area, shares a number of features with the biblical Yahweh — high-god status, divine-council leadership, paternal characterization, association with mountains. The Hebrew Bible's own use of *El* as a divine name (often in compound forms: *El Shaddai*, *El Elyon*, *El Bethel*, *El Olam*) suggests an early identification of Yahweh with the broader West Semitic El tradition. Cross's work argues that early Israelite religion explicitly identified Yahweh with El; the textual evidence for this identification within the Hebrew Bible itself is substantial.
+**יהוה ואל**: האל העליון הכנעני אל, המתועד בטקסטים האוגריתיים ובשמות פרטיים לאורך האזור הלשוני המערב-שמי הרחב יותר, חולק מספר תכונות עם יהוה המקראי — מעמד אל-עליון, מנהיגות מועצה אלוהית, אפיון אבהי, קשר להרים. השימוש של המקרא העברי עצמו ב*אל* כשם אלוהי (לעיתים קרובות בצורות מורכבות: *אל שדי*, *אל עליון*, *אל בית-אל*, *אל עולם*) מרמז על זיהוי מוקדם של יהוה עם המסורת המערב-שמית הרחבה יותר של אל. עבודתו של קרוס טוענת שהדת הישראלית המוקדמת זיהתה במפורש את יהוה עם אל; הראיות הטקסטואליות לזיהוי זה בתוך המקרא העברי עצמו משמעותיות.
 
-**Yahweh and Ba'al**: The major Canaanite storm-god Ba'al is, in the Hebrew Bible, the principal religious antagonist of Yahweh — the figure whose worship the prophets denounce and whose priesthood Elijah confronts at Mount Carmel (1 Kings 18). The framework reads this conflict as a real political contest between the Hebrew Yahweh-tradition and the surrounding Canaanite Ba'al-tradition rather than as a theological abstraction. Whether the Ba'al of the Canaanite tradition was an alliance figure (perhaps from a different team or with different policies than Yahweh's), a regional deity in the more general religious-history sense, or a polemical construction of Yahweh-tradition rhetoric is treated by the corpus as an open question requiring case-by-case textual analysis.
+**יהוה ובעל**: אל הסערה הכנעני הראשי בעל הוא, במקרא העברי, האנטגוניסט הדתי העיקרי של יהוה — הדמות שעבודתה הנביאים מגנים ושכוהניה אליהו מעמת בהר הכרמל (מלכים א יח). המסגרת קוראת קונפליקט זה כתחרות פוליטית אמיתית בין מסורת-יהוה העברית למסורת-בעל הכנענית הסובבת ולא כאבסטרקציה תיאולוגית. האם בעל של המסורת הכנענית היה דמות ברית (אולי מצוות שונה או עם מדיניות שונה מזו של יהוה), אלוהות אזורית במובן ההיסטורי-דתי הכללי יותר, או בנייה פולמית של רטוריקת מסורת-יהוה, מטופל על ידי הקורפוס כשאלה פתוחה הדורשת ניתוח טקסטואלי מקרה-מקרה.
 
-**Yahweh and the Sumerian and Akkadian high gods**: The Sumerian An and Enlil, and the Akkadian Anu and Marduk, are the high-god figures of the Mesopotamian pantheons. The popular ancient-astronaut literature has often proposed direct identifications between Yahweh and one or another of these figures — most commonly between Yahweh and Enlil, on the basis of certain functional parallels. The corpus does not endorse blanket identifications; the relationships between the biblical Yahweh and the Mesopotamian high-god figures are treated as open questions requiring careful comparative analysis. Some of the parallels (high-god status, divine-council leadership, certain narrative motifs) may reflect shared underlying referents; others (specific iconographic conventions, particular cultural-political functions) may reflect independent religious-historical developments.
+**יהוה והאלים העליונים השומריים והאכדיים**: אן ואנליל השומריים, ואנו ומרדוך האכדיים, הם דמויות האל-העליון של הפנתיאונים המסופוטמיים. ספרות האסטרונאוטים הקדומים הפופולרית הציעה לעיתים קרובות זיהויים ישירים בין יהוה לבין דמות זו או אחרת, בעיקר בין יהוה לאנליל, על בסיס הקבלות פונקציונליות מסוימות.{{ cite(id="escaping-from-eden", text="[16]", title="וואליס, *Escaping from Eden* (2020) — קריאה השוואתית של האלוהים העבריים ואנשי השמיים השומריים") }} הקורפוס אינו תומך בזיהויים שטחיים; היחסים בין יהוה המקראי לבין דמויות האל-העליון המסופוטמיות מטופלים כשאלות פתוחות הדורשות ניתוח השוואתי זהיר. כמה מההקבלות (מעמד אל-עליון, מנהיגות מועצה אלוהית, מוטיבים נרטיביים מסוימים) עשויות לשקף הפניות בסיסיות משותפות; אחרות (קונבנציות איקונוגרפיות ספציפיות, פונקציות תרבותיות-פוליטיות מסוימות) עשויות לשקף התפתחויות היסטוריות-דתיות עצמאיות.
 
-**Yahweh and the Egyptian, Greek, and Hindu high gods**: The corpus treats the relationships between Yahweh and the high-god figures of other ancient pantheons (the Egyptian Atum or Amun, the Greek Zeus, the Hindu Indra or Brahma) as similarly open. The framework's general position — that the relationship between specific biblical figures and the deities of other ancient pantheons is a matter for case-by-case comparative analysis rather than blanket equivalence — applies here as throughout. The cosmic-competition framework (treated in the [Elohim](../elohim/) entry under Relationships) implies that other humanities on other worlds may have had their own alliance contacts producing their own religious traditions; whether or how these other traditions' high-god figures relate to Yahweh specifically is open.
+**יהוה והאלים העליונים המצריים, היווניים, וההינדים**: הקורפוס מתייחס ליחסים בין יהוה לבין דמויות האל-העליון של פנתיאונים עתיקים אחרים (אטום או אמון המצריים, זאוס היווני, אינדרה או ברהמא ההינדים) כפתוחים באופן דומה. עמדת המסגרת הכללית — שהיחס בין דמויות מקראיות ספציפיות לאלוהויות פנתיאונים עתיקים אחרים הוא עניין לניתוח השוואתי מקרה-מקרה ולא שקילות גורפת — חלה כאן כמו לאורך כל הדרך. מסגרת התחרות הקוסמית (מטופלת בערך [אלוהים](../elohim/) תחת יחסים) מרמזת שאנושויות אחרות על עולמות אחרים אולי היו להן מגעי ברית משלהן המייצרים מסורות דתיות משלהן; האם או איך דמויות האל-העליון של מסורות אחרות אלה מתייחסות ליהוה ספציפית פתוח.
 
-## See also
+## ראו גם
 
-- [Elohim](../elohim/)
-- [Lucifer](../lucifer/)
-- [Satan](../satan/)
-- [Serpent](../serpent/)
-- [The Alliance](../the-alliance/)
-- [Council of the Eternals](../council-of-eternals/)
-- [Tree of Life](../tree-of-life/)
-- [Adam and Eve](../adam-and-eve/)
-- [Noah](../noah/)
-- [Abraham](../abraham/)
-- [Moses](../moses/)
-- [Elijah](../elijah/)
-- [Jesus](../jesus/)
-- [Raël](../rael/)
-- [*Message from the Designers*](../library/message-from-the-designers/)
-- [Tetragrammaton](../tetragrammaton/)
-- [Genesis](../genesis/)
-- [Bible](../bible/)
-- [Book of Revelation](../book-of-revelation/)
-- [Allah](../allah/)
-- [El](../el/)
-- [Cosmic Chain](../cosmic-chain/)
+- [אלוהים](../elohim/)
+- [לוציפר](../lucifer/)
+- [שָׂטָן](../satan/)
+- [נחש](../serpent/)
+- [הברית](../the-alliance/)
+- [מועצת הנצחיים](../council-of-eternals/)
+- [עץ החיים](../tree-of-life/)
+- [אדם וחווה](../adam-and-eve/)
+- [נח](../noah/)
+- [אברהם](../abraham/)
+- [משה](../moses/)
+- [אליהו](../elijah/)
+- [ישו](../jesus/)
+- [ראל](../rael/)
+- [*מסר מהמתכננים*](../library/message-from-the-designers/)
+- [שם המפורש](../tetragrammaton/)
+- [בראשית](../genesis/)
+- [מקרא](../bible/)
+- [ספר ההתגלות](../book-of-revelation/)
+- [אללה](../allah/)
+- [אל](../el/)
+- [שרשרת קוסמית](../cosmic-chain/)
 
-## References
+## רשימת מקורות
 
-Vorilhon, Claude (Raël). *The Book Which Tells the Truth* (1974); the foundational text, presented as Yahweh's first-person account.
+וורילון, קלוד (ראל). *The Book Which Tells the Truth* (1974); הטקסט היסודי, מוצג כדיווח גוף ראשון של יהוה.
 
-Vorilhon, Claude (Raël). *Extraterrestrials Took Me to Their Planet* (1976); the second-encounter text, including the meeting with the Council of the Eternals and the prophetic figures resident on the home world.
+וורילון, קלוד (ראל). *Extraterrestrials Took Me to Their Planet* (1976); טקסט המפגש השני, הכולל את המפגש עם מועצת הנצחיים ועם דמויות הנבואה המתגוררות על העולם הביתי.
 
-Vorilhon, Claude (Raël). *Let's Welcome the Extraterrestrials* (1979); subsequent communications and clarifications.
+וורילון, קלוד (ראל). *Let's Welcome the Extraterrestrials* (1979); תקשורות והבהרות נוספות.
 
-All three texts collected in *Message from the Designers* (Raëlian Foundation, current English edition).
+כל שלושת הטקסטים נאספו ב*Message from the Designers* (Raëlian Foundation, המהדורה האנגלית הנוכחית).
 
 *Biblia Hebraica Stuttgartensia*. Deutsche Bibelgesellschaft, 1997.
 
@@ -294,13 +367,13 @@ Dever, William G. *Did God Have a Wife? Archaeology and Folk Religion in Ancient
 
 Armstrong, Karen. *A History of God: The 4,000-Year Quest of Judaism, Christianity and Islam*. Knopf, 1993.
 
-Sendy, Jean. *Ces dieux qui firent le ciel et la terre*. Robert Laffont, 1969. English: *Those Gods Who Made Heaven and Earth*. Berkley, 1972.
+Sendy, Jean. *Ces dieux qui firent le ciel et la terre*. Robert Laffont, 1969. אנגלית: *Those Gods Who Made Heaven and Earth*. Berkley, 1972.
 
 Sendy, Jean. *Les cahiers de cours de Moïse*. Robert Laffont, 1974.
 
-Biglino, Mauro. *Il Libro che cambierà per sempre le nostre idee sulla Bibbia*. Uno Editori, 2010. English: *The Book That Will Forever Change Our Ideas About the Bible*. Uno, 2013.
+Biglino, Mauro. *Il Libro che cambierà per sempre le nostre idee sulla Bibbia*. Uno Editori, 2010. אנגלית: *The Book That Will Forever Change Our Ideas About the Bible*. Uno, 2013.
 
-Wellhausen, Julius. *Prolegomena zur Geschichte Israels* (1883). English: *Prolegomena to the History of Ancient Israel*.
+Wellhausen, Julius. *Prolegomena zur Geschichte Israels* (1883). אנגלית: *Prolegomena to the History of Ancient Israel*.
 
 Friedman, Richard Elliott. *Who Wrote the Bible?* HarperOne, 1987.
 

@@ -1,314 +1,359 @@
 +++
 title = "歳差"
-description = "歳差運動は、ヒッパルコス以来観察されてきた地軸のゆっくりとした回転運動であり、その周期は約25,920年である。Wheel of Heaven の文脈では、それは世界年代の年代論を構造化する宇宙的時計を構成する。"
+slug = "precession"
+description = "歳差は、地球の自転軸の向きが緩やかに周期的に変化する現象であり、天の極が恒星を背景としてゆっくりと円運動を描く軌跡として観測されます。地球の三つの主要運動のうち第三のもの(日周自転、年周公転に次ぐもの)として、歳差は現代天文学の測定によれば約25,772年で一周期を完了し、占星術伝統の換算では25,920年となり、これにより2,160年ずつの十二の歳差大時代という整った分割が生まれます。この現象は、紀元前およそ129–127年にロドスのギリシア人天文学者ヒッパルコスによって初めて経験的に同定されました。彼は自らの恒星の位置測定を紀元前約283年のティモカリスの測定と比較し、天文経度が分点に対して系統的にずれていることを認識したのです。歳差を太陽と月が地球の赤道の膨らみに及ぼす重力トルクとして説明するニュートン力学的解明は、ニュートン自身が『プリンキピア』(1687年)において展開しました。Wheel of Heaven の枠組みは、歳差を単なる天文現象としてではなく、本文献集のより広い解釈作業を支える基礎的な年代論的インフラストラクチャーとして読み解きます。歳差大時代は、本文献集がエロヒム計画の主要な出来事を年代づける時間的枠組みを提供します(人類の合成については獅子座時代、シュメール・エジプト文明については牡牛座時代、ヘブライ予言者時代については牡羊座時代、キリスト教時代については魚座時代、現代の回復については水瓶座時代)。また、歳差内容の通文化的な神話的保存(サンティリャーナとフォン・デヒェントの『ハムレットの石臼』1969年において展開)は、本文献集が取り組むより広い典拠伝統の素材を通じた、ヒッパルコス以前の天文学的知識の伝達の証拠として扱われます。"
 template = "wiki-page.html"
 toc = true
 
 [extra]
-translation_status = "metadata_only"
-redirect_to = { title = "World Age", path = "/wiki/world-age/" }
-category = "Cosmic Chronology"
+featured_order = 5
+redirect_to = { title = "世界時代", path = "/ja/wiki/world-age/" }
+category = "宇宙的年代論"
 editorial_pass = "2026-05"
 entry_type = "concept"
 claim_type = "inferred"
-alternative_names = ["Precession of the equinoxes", "Axial precession", "Lunisolar precession (the principal component)", "Greek προήγησις (proēgēsis, \"a leading forth\")"]
+alternative_names = ["分点歳差", "地軸歳差", "月太陽歳差(主要成分)", "ギリシア語 προήγησις(proēgēsis、「前進」)"]
+see_also = [
+    { title = "大年", path = "wiki/great-year", description = "完全な約26,000年の歳差周期。" },
+    { title = "大月", path = "wiki/great-month", description = "大年の十二分の一 ― 単一の時代の持続期間。" },
+    { title = "世界時代", path = "wiki/world-age", description = "人類史の一章として扱われる歳差大時代。" },
+    { title = "黄道十二宮", path = "wiki/zodiac", description = "歳差が測定される背景となる星座帯。" },
+    { title = "考古天文学", path = "wiki/archaeoastronomy", description = "古代の建造物を歳差時計に照らして読み解く学問分野。" },
+]
+
+footnotes = [
+    { content = "年間約50.29秒角という現代の数値は、IAU 2006歳差モデルに与えられ、ムーアの『天文アルゴリズム』に表として掲載されている、標準元期 J2000.0 における *経度における一般歳差* の値です。約25,772年という対応する完全周期は、この速度から導出される値です。25,920年という占星術伝統の数値(2,160年ずつの十二時代への整った分割を伴う)は、計測された速度との小さな相違を犠牲にして算術を簡略化する四捨五入の便宜です。この二つの数値はおよそ0.6%の違いがあり、時代境界に関する他の方法論的選択が生み出す変動の範囲内に十分収まっています。" },
+    { content = "月太陽成分(赤道の膨らみに作用する太陽と月)と惑星成分(主に木星と金星)が合わさって *一般歳差* を生み出します。慣例的な分解では、月が月太陽効果のおよそ三分の二、太陽がおよそ三分の一を占めており、月の質量がはるかに小さいにもかかわらず月の近さを反映しています。惑星の寄与は自転軸ではなく主として軌道面に作用するため、その歳差総量への算入は、赤道の膨らみへの直接的なトルクではなく、分点位置への複合効果を反映しています。" },
+    { content = "ヒッパルコスの年間約36秒角(世紀あたり1度)という値は、彼自身が指摘したとおり下限値です。現代の年間50.29秒角という値はおよそ40%大きいものです。ヒッパルコスが依拠したスピカの測定 ― 紀元前約283年のティモカリスが秋分点の西8°、紀元前約129年のヒッパルコスが6° ― は、154年間にわたる2°のずれから直接速度を与えています。プトレマイオスはヒッパルコスの低い数値を保持し、結果として生じた暦の漂流は、中世イスラム天文学者(特にアル=バッターニ)がその後修正した継承された誤差の一つでした。" },
+    { content = "古王国期エジプトのピラミッドのトゥバン整列は、主流の考古天文学において確立された結果です。ギザの大ピラミッドのいわゆる *星孔* は、標準的な復元によれば、トゥバン(当時、天の極の約0.1°以内にあった)と、建造期にいくつかの他の恒星が占めていた位置を指しています。この整列は慣例的な第四王朝の年代と一致しており、それ自体は歳差についてのヒッパルコス以前の理論的知識を必要としません ― 当時の極星を観測的に標的とすることで十分です。『ハムレットの石臼』の主張は、この観測的主張をはるかに超えています。" },
+    { content = "2,160年の時代長は占星術伝統の慣例(25,920 / 12)であり、計測された天文学的間隔ではありません。現代の速度を用いると、周期の十二分の一はおよそ2,148年です。IAU 1930の定義による星座境界では、不均等な長さの時代が生じ、おとめ座は黄道のおよそ45°、かに座はおよそ20°にわたります。本文献集の採用する換算は、年代論的便宜のため時代を均等な2,160年の期間として扱い、境界年は約±200年以内の近似として扱います。" },
+    { content = "現在の北極星の整列は、歳差周期の残りの部分と比較して異常なほど近いものです。北極星は現在、天の極から約0.7°以内にあり、最接近は西暦2102年頃のおよそ0.45°です。周期の大部分にわたって、極の1度以内に同程度に明るい恒星は存在しません。トゥバンの過去の最接近(紀元前約2,800年)はおよそ0.1°に達し、北極星が今後到達するよりも近かったのですが、トゥバンは大幅に暗いものです。ベガの最接近(西暦約13,727年)は現在のいかなる極星配置よりも明るいものとなりますが、極からおよそ5° ― 北極星が現在占めているよりもはるかに大きな角距離にあります。" },
+]
+
+[[extra.references]]
+id = "astronomical-algorithms"
+note = "ムーア『天文アルゴリズム』 ― 現代の歳差速度(年間約50.29秒角)と約25,772年の周期に関する標準参考書。"
+
+[[extra.references]]
+id = "hamlets-mill"
+note = "サンティリャーナ&フォン・デヒェント『ハムレットの石臼:神話と時間の枠組みに関する試論』(Gambit、1969年) ― ヒッパルコス以前の世界神話が歳差天文学的内容を体系的にコード化しているとする命題への基礎的な学術的取り組み。"
+
+[[extra.references]]
+id = "the-bible-is-not-a-sacred-book"
+note = "ビリーノ『聖書についての我々の観念を永遠に変える書』(2011年) ― エロヒム/アヌンナキの航法インフラとして潜在的に機能するという歳差のビリーノ的読解の源泉。"
+
+[[extra.references]]
+id = "the-gospels-in-the-stars"
+note = "サイス『星々の中の福音』 ― 黄道十二宮とキリスト教の象徴的対応(魚座/イクテュス)に関する19世紀の論考。"
+
+[[extra.references]]
+id = "mazzaroth-rolleston"
+note = "ロールストン『マッザロート、すなわち諸星座』 ― ヘブライ語/黄道十二宮の解釈伝統に関する主要なヴィクトリア朝期の典拠。"
+
+[[extra.references]]
+id = "mazzaroth-dot-com"
+note = "『マッザロート』オンライン総覧 ― 黄道十二宮と聖書の解釈伝統に関する現代的な集成。"
+
+[[extra.references]]
+id = "the-book-which-tells-the-truth"
+note = "ヴォリロン(ラエル)『真実を告げる書』(1974年) ― 歳差大時代が支える本文献集の年代論的枠組みに関するラエル文献の主要典拠。"
 
 [extra.infobox]
-type = "Cyclical change in the orientation of Earth's rotational axis; the third principal Earth motion"
-period = "Approximately 25,772 years for one complete cycle (modern astronomical measurement); 25,920 years in the astrological-tradition reckoning (12 × 2,160-year Ages)"
-rate = "Approximately 50.29 arcseconds per year (modern); 1° every approximately 71.6 years; 30° (one zodiacal sign) every approximately 2,150 years"
-cause = "Gravitational torque exerted by the Sun and Moon on Earth's equatorial bulge (the lunisolar component, ~96% of the effect); smaller contributions from the gravitational influence of the planets (planetary precession)"
-historical_discovery = "Hipparchus of Rhodes (c. 190 – c. 120 BCE), approximately 129–127 BCE; based on comparison of his star catalogue against the earlier measurements of Timocharis of Alexandria (c. 320 – c. 260 BCE)"
-modern_mechanical_explanation = "Isaac Newton, *Philosophiæ Naturalis Principia Mathematica* (1687), Book III, Propositions XXXIX-XLI"
-related_phenomena = "Axial obliquity variation (~41,000-year cycle, the second principal Milankovitch cycle); orbital eccentricity variation (~100,000-year cycle, the third principal Milankovitch cycle); the broader Milankovitch theory of long-term climate forcing"
-current_north_pole_star = "Polaris (α Ursae Minoris), currently within ~0.7° of the celestial north pole; closest approach in approximately 2102 CE; subsequently moving away"
-next_principal_north_pole_star = "Vega (α Lyrae), closest approach approximately 13,727 CE; Thuban (α Draconis) was the principal pole star approximately 2,800 BCE; the sequence is cyclical across the 25,772-year period"
-zodiacal_division = "Twelve equal Ages of 30° each (approximately 2,150-2,160 years per Age) constitute one full precessional cycle"
-framework_significance = "Foundational chronological infrastructure for the Wheel of Heaven corpus; the precessional Ages provide the temporal framework within which the corpus dates the principal events of the Elohim project and the broader prophetic record"
-key_external_references = "Santillana, Giorgio de, and Hertha von Dechend. *Hamlet's Mill: An Essay on Myth and the Frame of Time*. Gambit, 1969. — The foundational scholarly engagement with the thesis that pre-Hipparchian global mythology systematically encodes precessional astronomical content."
+type = "地球の自転軸の向きの周期的変化、地球の第三の主要運動"
+period = "完全な一周期は約25,772年(現代天文学の測定)、占星術伝統の換算では25,920年(2,160年×12時代)"
+rate = "年間約50.29秒角(現代)、約71.6年ごとに1°、約2,150年ごとに30°(黄道十二宮一つ分)"
+cause = "太陽と月が地球の赤道の膨らみに及ぼす重力トルク(月太陽成分、効果の約96%);惑星の重力影響からのより小さな寄与(惑星歳差)"
+historical_discovery = "ロドスのヒッパルコス(紀元前約190 – 約120年)、紀元前約129–127年;アレクサンドリアのティモカリス(紀元前約320 – 約260年)の以前の測定との星表比較に基づく"
+modern_mechanical_explanation = "アイザック・ニュートン『自然哲学の数学的諸原理』(1687年)、第三巻、命題XXXIX–XLI"
+related_phenomena = "地軸傾斜変動(約41,000年周期、第二の主要ミランコビッチ・サイクル);軌道離心率変動(約100,000年周期、第三の主要ミランコビッチ・サイクル);長期気候強制力に関するより広いミランコビッチ理論"
+current_north_pole_star = "北極星(α Ursae Minoris)、現在天の北極から約0.7°以内;西暦約2102年に最接近;その後遠ざかる"
+next_principal_north_pole_star = "ベガ(α Lyrae)、最接近は西暦約13,727年;トゥバン(α Draconis)は紀元前約2,800年に主要な極星であった;この連続は25,772年周期にわたって循環的"
+zodiacal_division = "30°ずつ十二の均等な時代(時代あたり約2,150–2,160年)が完全な一歳差周期を構成する"
+framework_significance = "Wheel of Heaven 本文献集の基礎的な年代論的インフラ;歳差大時代は、本文献集がエロヒム計画の主要な出来事とより広い予言的記録を年代づける時間的枠組みを提供する"
+key_external_references = "サンティリャーナ、ジョルジョ・デ、およびヘルタ・フォン・デヒェント『ハムレットの石臼:神話と時間の枠組みに関する試論』Gambit、1969年。― ヒッパルコス以前の世界神話が歳差天文学的内容を体系的にコード化しているとする命題への基礎的な学術的取り組み。"
 +++
 
-**Precession** — formally **axial precession** or **precession of the equinoxes** — is the steady cyclical change in the orientation of Earth's rotational axis, traced as a slow circular motion of the celestial poles against the background of fixed stars and as a corresponding shift in the position of the equinoxes along the ecliptic. It is the **third of the three principal Earth motions**, alongside the daily rotation around the planetary axis (producing the day-night cycle) and the annual revolution around the Sun (producing the year cycle). The precessional cycle completes one full revolution in approximately **25,772 years** on modern astronomical measurement, or **25,920 years** on the astrological-tradition reckoning that produces the clean division into twelve precessional **Ages** of 2,160 years each. The rate is approximately **50.29 arcseconds per year**, equivalent to one degree of arc every approximately 71.6 years or one full zodiacal sign (30°) every approximately 2,150 years.
+**歳差** ― 正式には **地軸歳差** または **分点歳差** ― は、地球の自転軸の向きが緩やかに周期的に変化する現象であり、天の極が恒星を背景としてゆっくりと円運動を描く軌跡として、また分点の位置が黄道に沿って対応して移動する現象として観測されます。これは **地球の三つの主要運動のうち第三のもの** であり、惑星の自転軸を中心とする日周自転(昼夜サイクルを生じさせる)および太陽を中心とする年周公転(年サイクルを生じさせる)と並ぶものです。歳差周期は、現代天文学の測定では約 **25,772年**、占星術伝統の換算では2,160年ずつの十二の歳差 **大時代** という整った分割を生み出す **25,920年** で一回転を完了します。速度は年間約 **50.29秒角** であり、これは約71.6年ごとに1度の弧、または約2,150年ごとに黄道十二宮一つ分(30°)に相当します。{{ cite(id="astronomical-algorithms", text="[1]", title="ムーア『天文アルゴリズム』 ― 現代の歳差速度と周期に関する標準参考書") }}{{ footnote(id="1") }}
 
-The phenomenon was first identified empirically by the Greek astronomer **Hipparchus of Rhodes** (c. 190 – c. 120 BCE) in approximately 129–127 BCE, who compared his own positional measurements of the bright stars against the earlier measurements of **Timocharis of Alexandria** from approximately 283 BCE and noticed that the longitudes of the stars had shifted by approximately 2° relative to the equinox points across the intervening 150 years. Hipparchus's discovery established precession as a recognised astronomical phenomenon and provided the foundation for all subsequent astronomical work on the topic. The **Newtonian mechanical explanation** of precession as the gravitational torque exerted by the Sun and Moon on Earth's equatorial bulge was developed by Isaac Newton himself in the *Philosophiæ Naturalis Principia Mathematica* (1687), Book III, completing the transition from observational identification to causal physical explanation.
+この現象は、紀元前およそ129–127年にギリシア人天文学者 **ロドスのヒッパルコス**(紀元前約190 – 約120年)によって初めて経験的に同定されました。彼は自らの輝星の位置測定を、紀元前約283年の **アレクサンドリアのティモカリス** の以前の測定と比較し、間にある150年の間に星々の経度が分点に対して約2°ずれていることに気付いたのです。ヒッパルコスの発見は歳差を認知された天文現象として確立し、その後のこの主題に関するすべての天文学的研究の基礎を提供しました。歳差を太陽と月が地球の赤道の膨らみに及ぼす重力トルクとして説明する **ニュートン力学的解明** は、アイザック・ニュートン自身が『自然哲学の数学的諸原理』(1687年)第三巻において展開し、観測的同定から因果的物理的説明への移行を完成させました。
 
-The Wheel of Heaven framework reads precession not merely as an astronomical phenomenon but as **foundational chronological infrastructure** for the corpus's broader interpretive work. The precessional **Ages** provide the temporal framework within which the corpus dates the principal events of the Elohim project: the **Age of Virgo** (c. 15,330 – 13,170 BCE) for the *yom* 5 phase of Genesis 1; the **Age of Leo** (c. 13,170 – 11,010 BCE) for the *yom* 6 human-synthesis phase; the **Age of Cancer** (c. 11,010 – 8,850 BCE) for the post-deluge reorganisation; the **Age of Gemini** (c. 8,850 – 6,690 BCE) for the early Neolithic population developments; the **Age of Taurus** (c. 6,690 – 4,530 BCE) for the Sumerian, Egyptian, and broader bronze-age civilisations; the **Age of Aries** (c. 4,530 – 2,370 BCE, with the principal Hebrew prophetic events concentrated in the middle-to-late portion); the **Age of Pisces** (c. 1 CE – 2,160 CE) for the Christian era; the **Age of Aquarius** (c. 2,160 CE forward) for the contemporary recovery period. The cross-cultural mythological preservation of precessional content — developed substantively in **Giorgio de Santillana and Hertha von Dechend's *Hamlet's Mill: An Essay on Myth and the Frame of Time*** (Gambit, 1969) — is treated by the framework as evidence for the pre-Hipparchian transmission of precessional astronomical knowledge through the broader source-tradition material that the corpus engages.
+{% wiki(slug="wheel-of-heaven") %}Wheel of Heaven{% end %} の枠組みは、歳差を単なる天文現象としてではなく、本文献集のより広い解釈作業を支える **基礎的な年代論的インフラストラクチャー** として読み解きます。歳差 **大時代** は、本文献集が {% wiki(slug="elohim") %}エロヒム{% end %} 計画の主要な出来事を年代づける時間的枠組みを提供します:創世記1章の *ヨーム* 5段階については **乙女座時代**(紀元前約15,330 – 13,170年);*ヨーム* 6の人類合成段階については **獅子座時代**(紀元前約13,170 – 11,010年);洪水後の再編成については **蟹座時代**(紀元前約11,010 – 8,850年);新石器時代初期の人口発展については **双子座時代**(紀元前約8,850 – 6,690年);シュメール、エジプト、およびより広い青銅器時代文明については **牡牛座時代**(紀元前約6,690 – 4,530年);主要なヘブライ予言的出来事が中後期に集中する **牡羊座時代**(紀元前約4,530 – 2,370年);キリスト教時代については **魚座時代**(西暦約1 – 2,160年);現代の回復期については **水瓶座時代**(西暦約2,160年以降)。歳差内容の通文化的な神話的保存 ― **ジョルジョ・デ・サンティリャーナとヘルタ・フォン・デヒェントの『ハムレットの石臼:神話と時間の枠組みに関する試論』**(Gambit、1969年){{ cite(id="hamlets-mill", text="[2]", title="サンティリャーナ&フォン・デヒェント『ハムレットの石臼』(1969年) ― ヒッパルコス以前の歳差の神話的コード化に関する基礎的命題") }} において実質的に展開されたもの ― は、本文献集が取り組むより広い典拠伝統の素材を通じた、ヒッパルコス以前の歳差天文学的知識の伝達の証拠として枠組みによって扱われます。
 
-## The astronomical phenomenon
+## 天文現象としての歳差
 
-The mainstream astronomical understanding of precession is well-established and provides the empirical foundation on which the framework's interpretive work depends. The corpus's broader reading does not contest the mainstream astronomical content; the substantive framework moves concern the historical-mythological and chronological-interpretive significance of the phenomenon rather than the astronomy itself.
+歳差の主流の天文学的理解は十分に確立されており、枠組みの解釈作業が依拠する経験的基盤を提供します。本文献集のより広い読解は主流の天文学的内容を争うものではありません。実質的な枠組みの動きは、天文学そのものではなく、この現象の歴史的・神話的・年代論的・解釈的意義に関わるものです。
 
-### Cause: the lunisolar gravitational torque
+### 原因:月太陽重力トルク
 
-The principal physical cause of axial precession is the **gravitational torque** exerted by the Sun and Moon on the Earth's **equatorial bulge**. The Earth is not a perfect sphere but an **oblate spheroid**: the equatorial diameter (approximately 12,756 km) exceeds the polar diameter (approximately 12,714 km) by about 43 km, with the excess concentrated as an equatorial bulge resulting from the centrifugal force of the planetary rotation. The Earth's rotational axis is tilted approximately 23.4° relative to the orbital plane (the **ecliptic**), so the gravitational pull of the Sun and Moon on the equatorial bulge acts at an angle to the rotational axis, producing a **torque** that attempts to align the axis with the perpendicular to the ecliptic.
+地軸歳差の主要な物理的原因は、太陽と月が地球の **赤道の膨らみ** に及ぼす **重力トルク** です。地球は完全な球体ではなく **扁球** であり、赤道直径(約12,756 km)は極直径(約12,714 km)を約43 km上回り、この超過分は惑星の自転による遠心力の結果として赤道の膨らみとして集中しています。地球の自転軸は軌道面(**黄道**)に対して約23.4°傾いているため、太陽と月の重力が赤道の膨らみに自転軸に対して角度をもって作用し、軸を黄道に垂直な方向に整列させようとする **トルク** を生み出します。
 
-The Earth's rotational angular momentum, however, resists the direct realignment that the torque would produce in a non-rotating body. The combination of the rotational angular momentum and the gravitational torque produces the characteristic **precessional motion** — the axis tracing out a cone over the precessional period of approximately 25,772 years, similar to the wobble of a spinning top whose axis is not perfectly vertical. The motion is approximately analogous to gyroscopic precession in mechanical systems.
+しかし、地球の自転角運動量は、非回転体であれば トルクが生じさせるであろう直接的な再整列に抵抗します。自転角運動量と重力トルクの組み合わせが、特徴的な **歳差運動** を生み出します ― 軸が約25,772年の歳差周期にわたって円錐を描く動きであり、軸が完全に垂直ではないコマの揺れに似ています。この運動は、機械系におけるジャイロスコープ歳差に近似的に類似しています。
 
-The **lunisolar component** — the combined gravitational torque of the Moon and Sun — accounts for approximately 96% of the precessional motion. The **planetary component** — the smaller gravitational influence of the other planets, principally Jupiter and Venus — produces an additional approximately 4% of the precessional motion. The total annual rate of precession (the **general precession**) is approximately 50.29 arcseconds per year as measured in the contemporary epoch.
+**月太陽成分** ― 月と太陽の重力トルクの合成 ― は歳差運動のおよそ96%を占めます。**惑星成分** ― 他の惑星、主に木星と金星のより小さな重力影響 ― はさらに約4%の歳差運動を生み出します。歳差の年間総速度(**一般歳差**)は、現代の元期で測定すると年間約50.29秒角です。{{ footnote(id="2") }}
 
-### Distinction from related phenomena
+### 関連現象との区別
 
-Precession should be carefully distinguished from several related but distinct cyclical phenomena affecting Earth:
+歳差は、地球に影響を与える関連するが別個のいくつかの周期現象から慎重に区別されるべきです:
 
-- **Axial obliquity variation** (sometimes confused with precession in popular treatments): the variation in the *magnitude* of the Earth's axial tilt across approximately 22.1° to 24.5°, with a cycle period of approximately **41,000 years**. The current axial tilt is approximately 23.44° and is slowly decreasing. The obliquity variation is one of the three principal **Milankovitch cycles** that drive long-term climate variation.
-- **Orbital eccentricity variation**: the variation in the *shape* of the Earth's orbit, from nearly circular (eccentricity approximately 0.005) to more elliptical (eccentricity approximately 0.058), with cycle periods of approximately **100,000 and 405,000 years**. The current eccentricity is approximately 0.0167. This is the second of the three principal Milankovitch cycles.
-- **Apsidal precession** (or precession of the orbit): the slow rotation of the orbital ellipse itself, distinct from the axial precession. The combination of axial precession and apsidal precession produces the **climatic precession** cycle of approximately **23,000 years** that is the third principal Milankovitch cycle.
-- **Nutation**: a smaller-amplitude wobble superimposed on the main precessional motion, with a principal period of approximately **18.6 years** corresponding to the regression of the Moon's orbital nodes. Nutation produces oscillations of approximately ±9 arcseconds in the celestial coordinates.
+- **地軸傾斜変動**(通俗的な扱いでは歳差と混同されることがある):地軸傾斜の *大きさ* の約22.1°から24.5°にわたる変動で、約 **41,000年** の周期です。現在の地軸傾斜は約23.44°で、緩やかに減少しています。傾斜変動は、長期的な気候変動を駆動する三つの主要な **ミランコビッチ・サイクル** の一つです。
+- **軌道離心率変動**:地球の軌道の *形状* の、ほぼ円形(離心率約0.005)からより楕円的なもの(離心率約0.058)までの変動で、約 **100,000年と405,000年** の周期です。現在の離心率は約0.0167です。これは三つの主要なミランコビッチ・サイクルのうちの二番目です。
+- **近日点歳差**(または軌道の歳差):軌道楕円そのもののゆっくりとした回転で、地軸歳差とは別個のものです。地軸歳差と近日点歳差の組み合わせが、三番目の主要なミランコビッチ・サイクルである約 **23,000年** の **気候歳差** サイクルを生み出します。
+- **章動**:主な歳差運動に重畳されるより小さな振幅の揺れで、月の軌道交点の後退に対応する約 **18.6年** の主周期を持ちます。章動は、天文座標において約±9秒角の振動を生み出します。
 
-The principal practical consequence of these distinct cycles is that the Earth's orientation in space changes on multiple coupled timescales. The dominant cycle for cultural-historical purposes is the ~25,772-year axial precession; the slower obliquity and eccentricity cycles produce the major glacial-interglacial climate variations of the Pleistocene.
+これらの別個のサイクルの主要な実際的帰結は、地球の空間における向きが複数の結合した時間尺度で変化することです。文化史的目的に関して支配的なサイクルは約25,772年の地軸歳差です;より遅い傾斜と離心率のサイクルは、更新世の主要な氷河期-間氷期の気候変動を生み出します。
 
-### Empirical signatures of precession
+### 歳差の経験的兆候
 
-The principal empirical signatures of axial precession are:
+地軸歳差の主な経験的兆候は以下のとおりです:
 
-- **The shift of the equinoxes** along the ecliptic. The vernal equinox point — the position of the Sun against the fixed-star background on the spring equinox — moves westward along the ecliptic at the precessional rate, traversing the entire 360° of the ecliptic across one precessional cycle.
-- **The change in the celestial pole position**. The celestial north and south poles — the points where the rotational axis extended meets the celestial sphere — trace out small circles (approximately 23.4° in radius) against the fixed-star background across the precessional period. The current North Pole star is **Polaris** (α Ursae Minoris, ~0.7° from the celestial north pole); the South Pole has no comparably bright star within reasonable proximity.
-- **The shift in the rising and setting positions** of stars and constellations on the horizon at specific seasonal markers. The cumulative shift is sufficient to substantially alter the appearance of the seasonal night sky across periods of 1,000-2,000 years.
-- **The difference between the tropical and sidereal years**. The **tropical year** (the time for the Sun to return to the same equinox or solstice) is approximately 365.2422 days; the **sidereal year** (the time for the Sun to return to the same position relative to the fixed stars) is approximately 365.2564 days; the difference of approximately 20 minutes per year is the cumulative effect of precession.
+- **分点の黄道に沿った移動**。春分点 ― 春分の日における恒星背景に対する太陽の位置 ― は歳差速度で黄道に沿って西に移動し、一つの歳差周期にわたって黄道の360°全体を横断します。
+- **天の極の位置の変化**。天の北極および南極 ― 自転軸を延長したものが天球と交わる点 ― は、歳差周期にわたって恒星背景に対して小さな円(半径約23.4°)を描きます。現在の北極星は **北極星**(α Ursae Minoris、天の北極から約0.7°)です;南極には、合理的な近さの範囲内に同程度に明るい星はありません。{{ footnote(id="6") }}
+- **恒星および星座の地平線上での昇没位置の特定の季節標識におけるずれ**。累積的なずれは、1,000–2,000年の期間にわたって季節的夜空の外観を実質的に変化させるのに十分なものです。
+- **回帰年と恒星年の差**。**回帰年**(太陽が同じ分点または至点に戻る時間)は約365.2422日;**恒星年**(太陽が恒星に対して同じ位置に戻る時間)は約365.2564日;年間約20分の差は歳差の累積効果です。
 
-### The North Pole star sequence
+### 北極星の系列
 
-The slow motion of the celestial north pole produces a sequence of stars that successively serve as approximate North Pole stars across the precessional cycle. The principal sequence:
+天の北極のゆっくりとした動きは、歳差周期にわたって近似的な北極星として継続的に役立つ恒星の系列を生み出します。主要な系列:
 
-- **Thuban** (α Draconis) — the principal North Pole star approximately **2,800 BCE**, within ~0.1° of the celestial pole at its closest approach. The Egyptian pyramid-builders of the Fourth Dynasty (c. 2,600–2,500 BCE) aligned their pyramid shafts on Thuban as the pole star of that period.
-- **Polaris** (α Ursae Minoris) — the current North Pole star, with closest approach approximately **2102 CE** at approximately 0.45° from the celestial pole.
-- **Errai** (γ Cephei) — will be the closest reasonably bright star to the celestial north pole approximately **4,000 CE**.
-- **Vega** (α Lyrae) — will be the closest principal bright star to the celestial north pole approximately **13,727 CE**, at approximately 5° from the pole. Vega is one of the brightest stars in the sky (apparent magnitude 0.03), and its closest approach will produce the most prominent pole-star configuration of the precessional cycle.
-- **Thuban** (α Draconis) — returns as the pole star approximately **22,800 CE**, completing one precessional cycle from its previous closest approach.
+- **トゥバン**(α Draconis) ― 紀元前約 **2,800年** における主要な北極星で、最接近時に天の極から約0.1°以内にありました。第四王朝のエジプトのピラミッド建造者たち(紀元前約2,600–2,500年)は、ピラミッドのシャフトをその時代の極星であるトゥバンに整列させました。{{ footnote(id="4") }}
+- **北極星**(α Ursae Minoris) ― 現在の北極星で、最接近は西暦約 **2102年** に天の極から約0.45°です。
+- **エライ**(γ Cephei) ― 西暦約 **4,000年** に、合理的な明るさを持つ恒星のうち天の北極に最も近くなります。
+- **ベガ**(α Lyrae) ― 西暦約 **13,727年** に、極から約5°のところで主要な輝星のうち天の北極に最も近くなります。ベガは空で最も明るい恒星の一つ(視等級0.03)であり、その最接近は歳差周期で最も顕著な極星配置を生み出します。
+- **トゥバン**(α Draconis) ― 西暦約 **22,800年** に再び極星として戻り、以前の最接近から一つの歳差周期を完了します。
 
-The sequence is cyclical: the precessional motion returns the celestial pole to each of these stars in turn across the ~25,772-year period.
+この系列は循環的です:歳差運動は約25,772年の周期にわたって天の極をこれらの恒星のそれぞれに順番に戻します。
 
-## History of the concept
+## 概念の歴史
 
-The astronomical history of precession is one of the most substantively significant single chapters in the history of pre-modern science, with the discovery itself among the most important empirical observations of antiquity. The framework's broader reading of precession depends on the historical record both for the mainstream-scientific identification and for the broader question of pre-Hipparchian transmission.
+歳差の天文学史は、近代以前の科学史において最も実質的に意義のある一章の一つであり、その発見そのものは古代の最も重要な経験的観察の一つです。枠組みのより広い歳差の読解は、主流科学の同定と、より広いヒッパルコス以前の伝達の問題の両方について、歴史的記録に依拠しています。
 
-### Pre-Hipparchian period
+### ヒッパルコス以前の時期
 
-The mainstream scholarly consensus is that **Babylonian astronomy** — the most sophisticated pre-Greek astronomical tradition, with continuous records of celestial observations extending from approximately the 8th century BCE onward — did not explicitly identify precession as a distinct astronomical phenomenon. The Babylonian record includes substantial positional measurements of the bright stars (the **MUL.APIN** astronomical compendium, c. 1000-700 BCE, includes lists of stars and their seasonal risings and settings) that, in retrospect, contain evidence of precessional effects, but the Babylonian astronomers themselves do not appear to have recognised the systematic shift as a distinct phenomenon.
+主流の学術的合意では、**バビロニア天文学** ― 最も洗練された前ギリシア期の天文学伝統で、紀元前およそ8世紀以降の天体観測の連続記録を持つもの ― は、歳差を別個の天文現象として明示的に同定してはいませんでした。バビロニアの記録には、輝星の実質的な位置測定(**ムル・アピン** 天文集成、紀元前約1000–700年で、恒星のリストとその季節的な昇没を含む)が含まれており、振り返ってみれば歳差効果の証拠を含んでいますが、バビロニアの天文学者自身は、この系統的なずれを別個の現象として認識してはいなかったように見えます。
 
-Earlier Egyptian astronomical tradition — particularly the temple alignments of the Old and Middle Kingdoms — does show evidence of awareness of stellar shifts across long periods, but again without explicit identification of precession as a distinct phenomenon in the surviving textual sources.
+より初期のエジプト天文学伝統 ― 特に古王国期および中王国期の神殿整列 ― は、長期にわたる恒星のずれに対する認識の証拠を示してはいますが、ここでも現存する文献的典拠における歳差の別個の現象としての明示的な同定はありません。
 
-The **Vedic astronomical tradition** of the Indian subcontinent — particularly the *Jyotisha* texts of approximately the 1st millennium BCE — contains substantial astronomical content including the *yuga* cycle (the cosmological cycles of approximately 4.32 million years), but the relationship of the *yuga* doctrine to precessional astronomy is genuinely contested: some interpreters read the shorter *yuga* periods (the *manvantaras* and shorter divisions) as corresponding to precessional cycles, others read them as purely cosmological-mythological numbers. The contemporary academic position is that the explicit identification of precession in the Indian astronomical tradition postdates the Greek discovery; the framework's broader reading is open on whether earlier Indian transmission of precessional content occurred.
+インド亜大陸の **ヴェーダ天文学伝統** ― 特に紀元前1千年紀頃の *ジョーティシャ* 文献 ― は、*ユガ* サイクル(約432万年の宇宙論的サイクル)を含む実質的な天文学的内容を含んでいますが、*ユガ* 教義と歳差天文学との関係は真に争われています:より短い *ユガ* 期間(*マンヴァンタラ* およびより短い区分)を歳差周期に対応するものとして読む解釈者もいれば、純粋に宇宙論的・神話的な数字として読む解釈者もいます。現代の学術的立場は、インド天文学伝統における歳差の明示的な同定はギリシアの発見より後であるというものです;枠組みのより広い読解は、より初期のインドでの歳差内容の伝達が生じたかどうかについては開かれています。
 
-The **Hamlet's Mill thesis** (Santillana and von Dechend 1969) substantively contests this mainstream-academic position, arguing that pre-Hipparchian global mythology systematically encodes precessional astronomical content in mythological-symbolic form. The thesis is treated more fully in the framework section below.
+**『ハムレットの石臼』命題**(サンティリャーナとフォン・デヒェント、1969年){{ cite(id="hamlets-mill", text="[2]", title="サンティリャーナ&フォン・デヒェント『ハムレットの石臼』(1969年) ― ヒッパルコス以前の歳差の神話的コード化") }} は、この主流の学術的立場を実質的に争い、ヒッパルコス以前の世界神話が歳差天文学的内容を神話的・象徴的形式で体系的にコード化していると論じます。この命題は、以下の枠組みのセクションでより十分に扱われます。
 
-### Hipparchus and the discovery
+### ヒッパルコスと発見
 
-The discovery of precession is conventionally attributed to **Hipparchus of Rhodes** (c. 190 – c. 120 BCE), the Greek astronomer who is widely regarded as the greatest astronomical observer of antiquity. Hipparchus worked principally on Rhodes and possibly in Alexandria, with his work surviving primarily through the citations and use made by **Claudius Ptolemy** in the *Almagest* (c. 150 CE).
+歳差の発見は、慣例的に古代最大の天文観測者として広く見なされているギリシア人天文学者 **ロドスのヒッパルコス**(紀元前約190 – 約120年)に帰せられます。ヒッパルコスは主にロドスで、おそらくアレクサンドリアでも研究を行い、その業績は主に **クラウディオス・プトレマイオス** が『アルマゲスト』(西暦約150年)で行った引用と利用を通じて伝わっています。
 
-Hipparchus's discovery of precession is generally dated to approximately **129–127 BCE**, in the context of his compilation of a comprehensive star catalogue (completed approximately 129 BCE, containing positions and magnitudes for approximately 850 stars). The principal methodology:
+ヒッパルコスによる歳差の発見は、紀元前およそ129年に完成された包括的な星表(約850の恒星の位置と等級を含む)の編纂の文脈で、紀元前約 **129–127年** とされるのが一般的です。主要な方法論:
 
-1. Hipparchus measured the celestial longitudes of the bright stars with substantial precision, using the equinox points as reference
-2. He compared his measurements with the earlier measurements of **Timocharis of Alexandria** (c. 320 – c. 260 BCE) and **Aristyllos** (active early 3rd century BCE), made approximately 150 years before Hipparchus's own work
-3. He found that the celestial longitudes of all the stars he checked had shifted by approximately the same amount — **approximately 2°** — relative to the equinox points
-4. Hipparchus correctly inferred that this was not a motion of the stars themselves but a motion of the equinox points relative to the fixed stars
+1. ヒッパルコスは、分点を基準として用い、相当な精度で輝星の天文経度を測定した
+2. 彼は自らの測定を、自身の研究のおよそ150年前に行われた **アレクサンドリアのティモカリス**(紀元前約320 – 約260年)および **アリスティロス**(紀元前3世紀初頭に活動)の以前の測定と比較した
+3. 彼は調べたすべての恒星の天文経度が、分点に対しておよそ同じ量 ― **約2°** ― ずれていることを発見した
+4. ヒッパルコスはこれが恒星自体の運動ではなく、固定された恒星に対する分点の運動であると正しく推論した
 
-The first principal case Hipparchus identified was the bright star **Spica** (α Virginis): Timocharis in approximately 283 BCE had measured Spica at 8° west of the autumnal equinox; Hipparchus measured it at 6° west of the autumnal equinox. The 2° difference across approximately 150 years gave Hipparchus a precessional rate of approximately **1°/century or 36 arcseconds/year** — substantially close to the modern value of approximately 50.29 arcseconds/year. Hipparchus's value was a lower bound; he reasonably concluded that the actual rate might be somewhat higher.
+ヒッパルコスが同定した最初の主要な事例は輝星 **スピカ**(α Virginis)でした:紀元前約283年にティモカリスはスピカを秋分点の西8°で測定し、ヒッパルコスは秋分点の西6°で測定しました。約150年にわたる2°の差は、ヒッパルコスにおよそ **世紀あたり1°、年間36秒角** の歳差速度を与えました ― これは現代値の年間約50.29秒角にかなり近いものです。ヒッパルコスの値は下限値であり、彼は合理的に、実際の速度はやや高い可能性があると結論付けました。{{ footnote(id="3") }}
 
-Hipparchus wrote two books on precession: **On the Displacement of the Solstitial and Equinoctial Points** and **On the Length of the Year**. Both are lost but are extensively cited in Ptolemy's *Almagest*, which preserves the substantive content of Hipparchus's discovery.
+ヒッパルコスは歳差に関して二冊の書物を書きました:**『至点と分点の変位について』** および **『年の長さについて』** です。両者とも失われていますが、プトレマイオスの『アルマゲスト』に広範に引用されており、それがヒッパルコスの発見の実質的な内容を保存しています。
 
-### Ptolemy and the medieval Islamic tradition
+### プトレマイオスと中世イスラム伝統
 
-**Claudius Ptolemy** (c. 100 – c. 170 CE), the Alexandrian astronomer whose *Almagest* (Greek *Μαθηματικὴ Σύνταξις*, "Mathematical Synthesis"; the Arabic title *al-Majisṭī* gives the standard English title) became the foundational astronomical text for the subsequent fourteen centuries, substantially adopted Hipparchus's precessional theory but used a precessional rate of **1°/century** (36 arcseconds/year), which was lower than the actual rate and contributed to subsequent astronomical errors in calendars and ephemerides.
+**クラウディオス・プトレマイオス**(西暦約100 – 約170年)は、その『アルマゲスト』(ギリシア語 *Μαθηματικὴ Σύνταξις*、「数学的綜合」;アラビア語の題 *al-Majisṭī* が標準的な英語題を与える)がその後14世紀にわたって基礎的な天文学テキストとなったアレクサンドリアの天文学者でしたが、ヒッパルコスの歳差理論を実質的に採用しつつ、実際の速度より低い **世紀あたり1°**(年間36秒角)の歳差速度を用いました。これは、その後の暦と天体暦における天文学的誤差に寄与しました。
 
-The medieval **Islamic astronomical tradition** — including such figures as al-Battani (c. 858–929 CE), al-Sufi (903–986 CE), al-Biruni (973–1048 CE), and al-Tusi (1201–1274 CE) — substantially developed precessional astronomy. Al-Battani in particular refined the precessional rate to approximately **54.5 arcseconds/year**, closer to the modern value than Ptolemy's. The medieval Islamic astronomers also developed the concept of **trepidation** (an oscillatory component superimposed on the secular precession), which was ultimately rejected by later astronomy but represented a substantive engagement with the precessional phenomenon.
+中世の **イスラム天文学伝統** ― アル=バッターニ(西暦約858–929年)、アル=スーフィー(903–986年)、アル=ビールーニー(973–1048年)、アル=トゥースィー(1201–1274年)といった人物を含む ― は、歳差天文学を実質的に発展させました。特にアル=バッターニは歳差速度を年間約 **54.5秒角** に精緻化し、プトレマイオスの値よりも現代値に近づけました。中世のイスラム天文学者たちはまた、永年歳差に重畳される振動成分である **トレピデーション** の概念を発展させ、それは最終的には後の天文学によって却下されましたが、歳差現象への実質的な取り組みを表していました。
 
-### Newton and the mechanical explanation
+### ニュートンと力学的説明
 
-The mechanical explanation of precession as the gravitational torque exerted by the Sun and Moon on the Earth's equatorial bulge was developed by **Isaac Newton** (1643–1727) in the *Philosophiæ Naturalis Principia Mathematica* (1687), Book III, Propositions XXXIX-XLI. Newton's derivation was the first physical explanation of the phenomenon; previous astronomers had observed and characterised precession without offering a causal mechanism. Newton's account established that:
+歳差を太陽と月が地球の赤道の膨らみに及ぼす重力トルクとして説明する力学的解明は、**アイザック・ニュートン**(1643–1727年)が『自然哲学の数学的諸原理』(1687年)第三巻、命題XXXIX–XLIにおいて展開しました。ニュートンの導出は、この現象の初の物理的説明でした;それ以前の天文学者たちは因果的機構を提示することなく歳差を観測し特徴づけていました。ニュートンの説明は以下を確立しました:
 
-- The precession is caused by the gravitational torque on the Earth's equatorial bulge
-- The torque is produced by the gravitational attraction of the Sun and Moon acting at an angle to the Earth's rotational axis
-- The precessional period can be calculated from the Earth's moment of inertia and the gravitational parameters
+- 歳差は地球の赤道の膨らみに対する重力トルクによって引き起こされる
+- このトルクは、太陽と月の重力的引力が地球の自転軸に角度をもって作用することによって生じる
+- 歳差周期は、地球の慣性モーメントと重力パラメータから計算できる
 
-Newton's calculation gave a precessional period consistent with the observed value, providing strong empirical confirmation of the broader gravitational theory.
+ニュートンの計算は、観測値と一致する歳差周期を与え、より広い重力理論の強力な経験的確証を提供しました。
 
-### Subsequent astronomy
+### その後の天文学
 
-The subsequent astronomical work on precession through the 18th, 19th, and 20th centuries has principally refined the measurement of the precessional rate, characterised the smaller perturbations (planetary precession, nutation), and integrated the phenomenon into the broader Milankovitch theory of long-term climate variation. The contemporary precessional theory is well-developed and provides the foundation for all astronomical coordinate systems (the **epoch** specification of star catalogues — e.g., J2000.0 — depends on precession).
+18世紀、19世紀、20世紀を通じての歳差に関するその後の天文学的研究は、主として歳差速度の測定を精緻化し、より小さな摂動(惑星歳差、章動)を特徴づけ、長期的な気候変動に関するより広いミランコビッチ理論にこの現象を統合してきました。現代の歳差理論は十分に発展しており、すべての天文座標系の基礎を提供しています(星表の **元期** 指定 ― 例えば J2000.0 ― は歳差に依存します)。
 
-## The zodiac and the precessional Ages
+## 黄道十二宮と歳差大時代
 
-The zodiac is a band of the sky extending approximately 8° north and south of the ecliptic, conventionally divided into twelve **signs** of 30° each. The signs are named for the constellations that the Sun appears to pass through across the year, though due to precession the contemporary alignment between the signs and the constellations is no longer accurate.
+黄道十二宮は、黄道の北および南におよそ8°広がる空の帯であり、慣例的に30°ずつ十二の **宮** に分割されます。これらの宮は、太陽が一年を通じて通過するように見える星座にちなんで名付けられていますが、歳差のため、現代における宮と星座の整列はもはや正確ではありません。
 
-### The Babylonian origin and the Greek systematization
+### バビロニア起源とギリシアの体系化
 
-The twelve-fold zodiacal division has substantive antecedents in Babylonian astronomy, with the **MUL.APIN** compendium (c. 1000-700 BCE) including a list of the principal ecliptic constellations. The systematic twelve-sign zodiacal division was established in Babylonia during approximately the 5th century BCE, with substantial astronomical work continuing through the Persian and Hellenistic periods. The Greek adoption and systematization came principally through Hipparchus and subsequently Ptolemy, with the *Tetrabiblos* (Ptolemy's astrological work, distinct from the astronomical *Almagest*) establishing the systematic basis for subsequent Western astrology.
+十二分の黄道十二宮の分割は、バビロニア天文学において実質的な先行例を持ち、**ムル・アピン** 集成(紀元前約1000–700年)は主要な黄道星座のリストを含んでいます。体系的な十二宮の黄道十二宮分割は、バビロニアにおいて紀元前およそ5世紀に確立され、ペルシアおよびヘレニズム期を通じて実質的な天文学的研究が続きました。ギリシアの採用と体系化は主にヒッパルコスとその後のプトレマイオスを通じて行われ、『テトラビブロス』(プトレマイオスの占星術的著作で、天文学的『アルマゲスト』とは別個のもの)が、その後の西洋占星術の体系的基盤を確立しました。
 
-The standard zodiacal signs are:
+標準的な黄道十二宮の宮は以下のとおりです:
 
-- **Aries** (the Ram) — corresponding to the vernal equinox in the tropical zodiac
-- **Taurus** (the Bull)
-- **Gemini** (the Twins)
-- **Cancer** (the Crab)
-- **Leo** (the Lion)
-- **Virgo** (the Virgin)
-- **Libra** (the Scales)
-- **Scorpio** (the Scorpion)
-- **Sagittarius** (the Archer)
-- **Capricorn** (the Goat)
-- **Aquarius** (the Water-bearer)
-- **Pisces** (the Fish)
+- **牡羊座**(雄羊) ― 回帰黄道帯における春分点に対応する
+- **牡牛座**(雄牛)
+- **双子座**(双子)
+- **蟹座**(蟹)
+- **獅子座**(獅子)
+- **乙女座**(乙女)
+- **天秤座**(天秤)
+- **蠍座**(蠍)
+- **射手座**(射手)
+- **山羊座**(山羊)
+- **水瓶座**(水汲み)
+- **魚座**(魚)
 
-### The tropical-sidereal distinction
+### 回帰-恒星の区別
 
-A substantively important distinction concerns the relationship between the zodiacal signs and the actual constellations:
+実質的に重要な区別が、黄道十二宮の宮と実際の星座との関係に関わります:
 
-- The **tropical zodiac** (used in standard Western astrology) defines the signs by reference to the vernal equinox point: **0° Aries** is the position of the Sun on the spring equinox, regardless of the actual constellation behind the Sun. The tropical signs are 30° divisions of the ecliptic moving westward at the precessional rate. The system is internally consistent and reflects the seasonal-solar relationship rather than the stellar background.
-- The **sidereal zodiac** (used in Vedic / Indian astrology) defines the signs by reference to the fixed-star constellations: **0° Aries** is the position of the actual constellation Aries, with the signs as fixed segments of the ecliptic relative to the stars. The sidereal signs do not move with precession.
+- **回帰黄道帯**(標準的な西洋占星術で用いられる)は、宮を春分点を基準として定義します:**牡羊座0°** は、実際に太陽の背後にある星座にかかわらず、春分の日における太陽の位置です。回帰宮は、歳差速度で西に動く黄道の30°分割です。この体系は内部的に整合的であり、恒星背景ではなく季節-太陽の関係を反映しています。
+- **恒星黄道帯**(ヴェーダ/インド占星術で用いられる)は、宮を固定星座を基準として定義します:**牡羊座0°** は実際の牡羊座の位置であり、宮は恒星に対する黄道の固定された区分です。恒星宮は歳差とともに動きません。
 
-The difference between the tropical and sidereal zodiacs is the **ayanamsa** (Sanskrit "precessional movement"), currently approximately **24°**. The two systems were in close approximate alignment approximately 2,000 years ago (around the beginning of the Common Era — the period when the standard Western zodiacal system was being codified by Ptolemy and others), and have diverged at the precessional rate since.
+回帰黄道帯と恒星黄道帯の差は **アヤナーンシャ**(サンスクリット語「歳差運動」)であり、現在およそ **24°** です。この二つの体系は、およそ2,000年前(共通紀元の始まりの頃 ― 標準的な西洋黄道十二宮体系がプトレマイオスらによって体系化されていた時期)に近似的に整列しており、それ以来歳差速度で乖離してきました。
 
-### The precessional Ages
+### 歳差大時代
 
-The shift of the vernal equinox point along the ecliptic at the precessional rate produces the sequence of **precessional Ages** — periods of approximately 2,150-2,160 years during which the vernal equinox is positioned in a particular zodiacal sign. The standard sequence (moving backward through the precessional motion, which produces the westward shift of the equinox along the ecliptic):
+春分点の歳差速度での黄道に沿った移動は、春分点が特定の黄道十二宮の宮に位置する約2,150–2,160年の期間 ― **歳差大時代** の連続を生み出します。標準的な連続(歳差運動を後ろ向きに進むもので、これが分点の黄道に沿った西向きのずれを生み出す):
 
-| Age | Approximate dates (corpus reckoning) | Approximate dates (alternative reckonings) |
+| 時代 | 概算年代(本文献集の換算) | 概算年代(代替的換算) |
 |---|---|---|
-| **Age of Leo** | c. 13,170 – 11,010 BCE | c. 10,500 – 8,000 BCE (varies) |
-| **Age of Cancer** | c. 11,010 – 8,850 BCE | c. 8,000 – 6,000 BCE |
-| **Age of Gemini** | c. 8,850 – 6,690 BCE | c. 6,000 – 4,000 BCE |
-| **Age of Taurus** | c. 6,690 – 4,530 BCE | c. 4,000 – 2,000 BCE |
-| **Age of Aries** | c. 4,530 – 2,370 BCE (or c. 2,065 BCE on alternative) | c. 2,000 – 0 BCE |
-| **Age of Pisces** | c. 1 CE – 2,160 CE | c. 0 – 2,000 CE |
-| **Age of Aquarius** | c. 2,160 CE onward | c. 2,000 CE onward |
+| **獅子座時代** | 紀元前約13,170 – 11,010年 | 紀元前約10,500 – 8,000年(変動あり) |
+| **蟹座時代** | 紀元前約11,010 – 8,850年 | 紀元前約8,000 – 6,000年 |
+| **双子座時代** | 紀元前約8,850 – 6,690年 | 紀元前約6,000 – 4,000年 |
+| **牡牛座時代** | 紀元前約6,690 – 4,530年 | 紀元前約4,000 – 2,000年 |
+| **牡羊座時代** | 紀元前約4,530 – 2,370年(または代替的に紀元前約2,065年まで) | 紀元前約2,000 – 0年 |
+| **魚座時代** | 西暦約1 – 2,160年 | 西暦約0 – 2,000年 |
+| **水瓶座時代** | 西暦約2,160年以降 | 西暦約2,000年以降 |
 
-The specific dating of the Age transitions varies substantially across different astrological-astronomical traditions, depending on the precise definition of constellation boundaries (which are not standardised in classical astrology), the choice of starting reference point, and the choice between modern astronomical and astrological-tradition rates. The framework's adopted reckoning (used consistently across the corpus's entries) places the Age boundaries at approximately the points indicated in the table above, with the understanding that the transitions are not sharply defined and that alternative reckonings produce ±200-year variations in the boundary dates.
+時代移行の具体的な年代は、星座境界の正確な定義(古典占星術では標準化されていない)、開始基準点の選択、現代天文学的速度と占星術伝統速度のいずれを選ぶかに依存して、様々な占星術-天文学伝統で実質的に異なります。本文献集の採用する換算(本文献集の項目全体で一貫して用いられる)は、時代境界を上の表に示されたおよその時点に置き、移行が鋭く定義されておらず、代替的換算が境界年に±200年の変動を生み出すことを理解しています。{{ footnote(id="5") }}
 
-The framework's specific identification of the precessional Ages with the events of the Elohim project and the broader prophetic record is treated in the framework section below.
+歳差大時代をエロヒム計画の出来事およびより広い予言的記録と同定する枠組み固有の同定は、以下の枠組みのセクションで扱われます。
 
-## In the Wheel of Heaven framework
+## Wheel of Heaven の枠組みにおいて
 
-The framework's reading of precession is multilayered. The mainstream astronomical phenomenon is treated as established empirical content; the framework's substantive interpretive moves concern the historical-mythological-chronological significance of the phenomenon.
+枠組みによる歳差の読解は多層的です。主流の天文現象は確立された経験的内容として扱われます;枠組みの実質的な解釈的動きは、この現象の歴史的-神話的-年代論的意義に関わります。
 
-### Precession as chronological infrastructure
+### 年代論的インフラストラクチャーとしての歳差
 
-The framework's most basic use of precession is as the **chronological infrastructure** for the corpus's broader interpretive work. The precessional Ages provide a structured temporal framework that:
+枠組みによる歳差の最も基本的な用途は、本文献集のより広い解釈作業のための **年代論的インフラストラクチャー** としてのものです。歳差大時代は以下のような構造化された時間的枠組みを提供します:
 
-- Spans approximately 26,000 years per full cycle, sufficient to encompass the principal events of the Elohim project (synthesis approximately 25,000 years ago) and the subsequent terrestrial history
-- Divides this period into twelve substantively distinct Ages, each of approximately 2,150-2,160 years
-- Connects the chronological framework to a substantive astronomical phenomenon that is independently verifiable and culturally significant
-- Aligns with the symbolic-cultural significance of the zodiacal signs in multiple religious and cultural traditions
+- 完全な周期あたり約26,000年にわたり、エロヒム計画(およそ25,000年前の合成)とその後の地球史の主要な出来事を包含するのに十分なもの
+- この期間を実質的に別個の十二の時代に分割し、各時代は約2,150–2,160年
+- 年代論的枠組みを、独立に検証可能で文化的に意義のある実質的な天文現象に結びつける
+- 複数の宗教的・文化的伝統における黄道十二宮の宮の象徴的-文化的意義と整列する
 
-The corpus's broader work uses the precessional Ages to date the principal events:
+本文献集のより広い研究は、歳差大時代を用いて主要な出来事を年代づけます:
 
-- The **Age of Virgo** (c. 15,330 – 13,170 BCE) for the *yom* 5 phase of Genesis 1 — the synthesis of the broader animal life on which humans subsequently depend
-- The **Age of Leo** (c. 13,170 – 11,010 BCE) for the *yom* 6 human-synthesis phase — the principal Adamite synthesis and the Eden phase
-- The **Age of Cancer** (c. 11,010 – 8,850 BCE) for the post-deluge reorganisation following the Younger Dryas-era catastrophic events
-- The **Age of Gemini** (c. 8,850 – 6,690 BCE) for the early Neolithic population developments and the broader Holocene climate stabilisation
-- The **Age of Taurus** (c. 6,690 – 4,530 BCE) for the Sumerian, Egyptian, and broader Bronze Age civilisations; the principal megalithic construction period
-- The **Age of Aries** (c. 4,530 – 2,370 BCE on the broader reckoning, or c. 2,065 BCE on the corpus's more specific Hebrew prophetic dating) for the principal Hebrew prophetic period — Abraham through Moses, the Exodus, the Sinai theophany, the Davidic monarchy, the prophetic tradition
-- The **Age of Pisces** (c. 1 CE – 2,160 CE) for the Christian era and the broader subsequent religious developments
-- The **Age of Aquarius** (c. 2,160 CE onward; the framework's reading places the contemporary period in the transition between Pisces and Aquarius, with the broader recovery treated as the **Age of Apocalypse**)
+- **乙女座時代**(紀元前約15,330 – 13,170年):創世記1章の *ヨーム* 5段階 ― その後人類が依存することになるより広い動物生命の合成
+- **獅子座時代**(紀元前約13,170 – 11,010年):*ヨーム* 6の人類合成段階 ― 主要なアダム的合成およびエデン段階
+- **蟹座時代**(紀元前約11,010 – 8,850年):ヤンガードリアス期の壊滅的な出来事の後の洪水後の再編成
+- **双子座時代**(紀元前約8,850 – 6,690年):新石器時代初期の人口発展とより広い完新世の気候安定化
+- **牡牛座時代**(紀元前約6,690 – 4,530年):シュメール、エジプト、およびより広い青銅器時代文明;主要な巨石建造期
+- **牡羊座時代**(紀元前約4,530 – 2,370年、より広い換算で、または本文献集のより具体的なヘブライ予言的年代設定では紀元前約2,065年まで):主要なヘブライ予言期 ― {% wiki(slug="abraham") %}アブラハム{% end %} からモーセ、出エジプト、シナイ神顕現、ダビデ王朝、預言者伝統
+- **魚座時代**(西暦約1 – 2,160年):キリスト教時代とより広い後続の宗教的発展
+- **水瓶座時代**(西暦約2,160年以降;枠組みの読解は現代の時期を魚座と水瓶座の間の移行に置き、より広い回復を **{% wiki(slug="apocalypse") %}黙示録{% end %}の時代** として扱う)
 
-The dedicated [Age of Virgo](../timeline/age-of-virgo/), [Age of Leo](../timeline/age-of-leo/), [Age of Cancer](../timeline/age-of-cancer/), [Age of Gemini](../timeline/age-of-gemini/), [Age of Taurus](../timeline/age-of-taurus/), [Age of Aries](../timeline/age-of-aries/), [Age of Pisces](../timeline/age-of-pisces/), and [Age of Aquarius](../timeline/age-of-aquarius/) entries develop the specific content of each Age; the present entry establishes the broader precessional framework on which the individual Age entries depend.
+専用の[乙女座時代](../timeline/age-of-virgo/)、[獅子座時代](../timeline/age-of-leo/)、[蟹座時代](../timeline/age-of-cancer/)、[双子座時代](../timeline/age-of-gemini/)、[牡牛座時代](../timeline/age-of-taurus/)、[牡羊座時代](../timeline/age-of-aries/)、[魚座時代](../timeline/age-of-pisces/)、および[水瓶座時代](../timeline/age-of-aquarius/)の項目は、各時代の具体的な内容を展開します;本項目は、個々の時代項目が依拠するより広い歳差の枠組みを確立します。
 
-### The Hamlet's Mill thesis
+### 『ハムレットの石臼』命題
 
-The most substantive scholarly engagement with the relationship between precession and pre-Hipparchian mythology is **Giorgio de Santillana and Hertha von Dechend's *Hamlet's Mill: An Essay on Myth and the Frame of Time*** (Gambit, 1969). The book — written by **Santillana** (1902–1974, professor of history of science at MIT) and **von Dechend** (1915–2001, professor of history of science at Goethe University Frankfurt) — argues that:
+歳差とヒッパルコス以前の神話との関係に対する最も実質的な学術的取り組みは、**ジョルジョ・デ・サンティリャーナとヘルタ・フォン・デヒェントの『ハムレットの石臼:神話と時間の枠組みに関する試論』**(Gambit、1969年)です。{{ cite(id="hamlets-mill", text="[2]", title="サンティリャーナ&フォン・デヒェント『ハムレットの石臼』(1969年) ― 神話における歳差命題の全面的な扱い") }} **サンティリャーナ**(1902–1974年、MITの科学史教授)と **フォン・デヒェント**(1915–2001年、フランクフルトのゲーテ大学の科学史教授)によって書かれたこの書物は、以下を論じています:
 
-- Precession was discovered substantially before Hipparchus, by Neolithic or earlier astronomers, possibly as early as 4,000–6,000 BCE
-- The knowledge of precession was transmitted across cultures and millennia through **mythological-symbolic encoding** rather than direct astronomical-textual transmission
-- The principal mythological motifs of the cross-cultural global tradition — the cosmic mill, the cosmic axis, the breaking of the mill, the heroic figures of the various Ages, the doctrine of the Four Ages or World Ages, the cyclic destruction-and-renewal patterns — systematically preserve precessional astronomical content
-- The transmission of precessional content connects cultures separated by substantial geographical and temporal distance (Mesopotamian, Egyptian, Vedic, Iranian, Norse, Finnish, Polynesian, Mesoamerican) through common mythological vocabulary
+- 歳差はヒッパルコスより実質的に前に、新石器時代またはそれより前の天文学者たちによって、おそらく紀元前4,000–6,000年もの早い時期に発見された
+- 歳差に関する知識は、直接的な天文学的-文献的伝達ではなく、**神話的-象徴的コード化** を通じて文化と千年紀を越えて伝達された
+- 通文化的な世界伝統の主要な神話的モチーフ ― 宇宙の石臼、宇宙の軸、石臼の破壊、様々な時代の英雄的人物、四つの時代または世界時代の教義、循環的な破壊-再生のパターン ― は、歳差天文学的内容を体系的に保存している
+- 歳差内容の伝達は、共通の神話的語彙を通じて実質的な地理的・時間的距離によって隔てられた文化(メソポタミア、エジプト、ヴェーダ、イラン、北欧、フィンランド、ポリネシア、メソアメリカ)を結びつけている
 
-The *Hamlet's Mill* thesis has had mixed reception in mainstream scholarship: substantially influential in the broader **archaeoastronomy** field that emerged in the 1970s and 1980s, but generally treated with skepticism by mainstream classicists and historians of astronomy. The principal scholarly objections concern the methodological question of how to identify precessional content in mythology without circular reasoning, the chronological question of whether the proposed Neolithic discovery is empirically supportable, and the broader question of whether the cross-cultural patterns identified by Santillana and von Dechend are sufficiently distinctive to require the precessional explanation.
+『ハムレットの石臼』命題は、主流の学術界において混合した受容を得てきました:1970年代と1980年代に出現したより広い **考古天文学** 分野において実質的に影響力がありましたが、主流の古典学者や天文学史家からは一般的に懐疑的に扱われてきました。主要な学術的反論は、神話における歳差内容を循環論法なしにどのように同定するかという方法論的問題、提案されている新石器時代の発見が経験的に支持可能かどうかという年代論的問題、そしてサンティリャーナとフォン・デヒェントによって同定された通文化的パターンが歳差による説明を必要とするほど十分に独特なものであるかというより広い問題に関わります。
 
-The framework's adopted position is broadly sympathetic to the *Hamlet's Mill* thesis. The corpus's broader interpretive work — particularly the reading of the source-tradition material (the Hebrew Bible, the Sumerian and Egyptian creation traditions, the Vedic *yuga* doctrine, the broader cross-cultural mythological record) as preserving operational content from the Elohim project — is substantially consistent with the *Hamlet's Mill* claim that pre-Hipparchian astronomical content is preserved in mythological form. The framework reads the precessional content specifically as evidence of the Elohim's own use of the precessional cycle as a chronological reference — consistent with the Biglino reading developed below — and of the subsequent human transmission of this content through the symbolic-mythological vocabulary the corpus engages.
+枠組みの採用する立場は、『ハムレットの石臼』命題に広く共感的です。本文献集のより広い解釈作業 ― 特に典拠伝統素材({% wiki(slug="hebrew-bible") %}ヘブライ語聖書{% end %}、シュメールとエジプトの創造伝統、ヴェーダの *ユガ* 教義、より広い通文化的神話的記録)を、エロヒム計画からの作業的内容を保存するものとして読解すること ― は、ヒッパルコス以前の天文学的内容が神話的形式で保存されているという『ハムレットの石臼』の主張と実質的に整合します。枠組みは歳差内容を特に、エロヒム自身による歳差周期の年代論的基準としての利用の証拠として読解します ― 以下に展開されるビリーノの読解と整合的に ― そして、本文献集が取り組む象徴的-神話的語彙を通じたこの内容のその後の人類による伝達の証拠として読解します。
 
-### The Biglino reading: precession as navigation infrastructure
+### ビリーノの読解:航法インフラとしての歳差
 
-The Italian biblical philologist **Mauro Biglino**, in his work on the Hebrew Bible and the broader Anunnaki / Elohim tradition, has developed a specific reading of precession that the framework's broader position substantially incorporates. The relevant passage, from Biglino's *Il libro che cambierà per sempre le nostre idee sulla Bibbia* (2011, translated as *The Book That Will Forever Change Our Idea About The Bible*):
+イタリアの聖書文献学者 **マウロ・ビリーノ** は、ヘブライ {% wiki(slug="bible") %}聖書{% end %} およびより広いアヌンナキ/エロヒム伝統に関する研究において、枠組みのより広い立場が実質的に取り入れている歳差に関する特定の読解を展開してきました。関連する一節は、ビリーノの『聖書についての我々の観念を永遠に変える書』(2011年、英訳 *The Book That Will Forever Change Our Idea About The Bible*)から引用します:{{ cite(id="the-bible-is-not-a-sacred-book", text="[3]", title="ビリーノ、厳密に文字通りのヘブライ語聖書シリーズ(2010年以降) ― エロヒム/アヌンナキの航法インフラとしての歳差") }}
 
-> This expression indicates the celestial phenomenon caused by the oscillation or wobble of the Earth axis making a circular motion similar to that of a slowly-spinning top. This oscillation results in an apparent demotion of the constellations in the celestial sphere. It happens because the imaginary line joining the ecliptic of spring and autumn equinoxes moves one degree approximately every 71 years. Each of the twelve signs of the zodiac that form the entire 360° sky arc, covered a period of 2,160 years, corresponding to what astrology labeled as "Ages": Age of Aries, Age of Taurus, and so on. The complete cycle of 360° thus requires a little less than 26,000 years (2160 × 12). Hence, it would have been impossible to observe and calculate. Regardless, this long period, called the "Great Year", was known by many civilizations in various parts of the world such as the Indus Valley, Egypt, Central America; and still today scholars wonder how a nomadic people of herders and farmers were able to calculate its duration! Might it have been of any use to ANUNNAKI "gods" to calculate the orbital timing of their home planet, and to plan their space travels that were inevitably very long? Perhaps, the answer to many mysteries resides in accepting this possibility...
+> この表現は、ゆっくりと回るコマに似た円運動を描く地球の軸の振動またはぐらつきによって引き起こされる天体現象を示している。この振動の結果、星座は天球上で見かけ上後退する。これが起こるのは、春分点と秋分点の黄道を結ぶ想像上の線が、約71年ごとに1度ずつ動くためである。360°の天空全体を形作る黄道十二宮の十二の宮の各々は、占星術が「時代」と名付けたもの ― 牡羊座時代、牡牛座時代など ― に対応する2,160年の期間にわたる。360°の完全な周期はしたがって26,000年弱(2160 × 12)を必要とする。したがって、それを観測し計算することは不可能であったはずである。それにもかかわらず、「大年」と呼ばれるこの長い期間は、インダス渓谷、エジプト、中央アメリカなど世界の様々な地域の多くの文明によって知られていた;そして今日でも学者たちは、牧畜民と農民からなる遊牧の民がどのようにしてその持続期間を計算できたのか疑問に思っている!それはアヌンナキの「神々」にとって、自らの故郷の惑星の軌道のタイミングを計算し、必ず非常に長くなる宇宙旅行を計画する上で役立ったのかもしれない?おそらく、多くの謎の答えは、この可能性を受け入れることにあるだろう...
 >
-> — Mauro Biglino, *Il libro che cambierà per sempre le nostre idee sulla Bibbia* (2011)
+> ― マウロ・ビリーノ、『聖書についての我々の観念を永遠に変える書』(2011年)
 
-Biglino's reading frames precession as potentially serving the Elohim (Anunnaki on Biglino's preferred terminology) as a **navigation and chronological-calibration aid** — a long-period astronomical phenomenon useful for the long-duration interstellar travel and the long-term operational supervision that the framework's broader reading attributes to the Elohim. The principal framework claims:
+ビリーノの読解は、歳差をエロヒム(ビリーノの好む用語ではアヌンナキ)にとって潜在的に **航法および年代論的較正の補助** として役立つものとして枠付けます ― 枠組みのより広い読解がエロヒムに帰している長期間の星間航行と長期的な作業的監督に有用な、長周期の天文現象として。主要な枠組みの主張は以下のとおりです:
 
-- The 26,000-year precessional period is sufficiently long that it would have been impossible for early human cultures to identify through direct observation across a single human lifetime
-- The cross-cultural pre-Hipparchian preservation of precessional content (Indus Valley, Egypt, Central America, etc.) is genuinely difficult to account for through the standard scientific-historical account
-- The transmission of the precessional content from a more advanced source — the Elohim, on the framework's reading — provides a substantive explanation for the pre-Hipparchian global preservation
-- The Elohim's specific use of precession is open on the framework's adopted reading; possibilities include navigation, chronological calibration, the broader chronological structure of the Elohim project on Earth, and other operational uses
+- 26,000年の歳差周期は十分に長く、初期の人類文化が単一の人間の寿命にわたる直接的な観測を通じて同定することは不可能であったであろう
+- 歳差内容の通文化的なヒッパルコス以前の保存(インダス渓谷、エジプト、中央アメリカなど)は、標準的な科学的-歴史的説明では真に説明が困難である
+- より進歩した源泉 ― 枠組みの読解ではエロヒム ― からの歳差内容の伝達は、ヒッパルコス以前の世界的な保存に対する実質的な説明を提供する
+- エロヒムによる歳差の具体的な利用は、枠組みの採用する読解では開かれている;可能性には、航法、年代論的較正、地球上のエロヒム計画のより広い年代論的構造、その他の作業的利用が含まれる
 
-The framework's reading does not commit to a specific operational use of precession by the Elohim. What the framework reads as substantively significant is the broader pattern: precession is one of the few astronomical phenomena that operates on timescales substantially longer than human cultural memory, and the cross-cultural preservation of precessional content in the pre-Hipparchian period suggests a transmission mechanism that the framework's broader account can substantively explain.
+枠組みの読解は、エロヒムによる歳差の特定の作業的利用にコミットしてはいません。枠組みが実質的に意義あるものとして読むのは、より広いパターンです:歳差は、人類の文化的記憶よりも実質的に長い時間尺度で作用する数少ない天文現象の一つであり、ヒッパルコス以前の時期における歳差内容の通文化的保存は、枠組みのより広い説明が実質的に説明できる伝達機構を示唆しています。
 
-### Precession in the source-tradition material
+### 典拠伝統素材における歳差
 
-The framework reads several specific source-tradition passages as preserving precessional content:
+枠組みは、いくつかの具体的な典拠伝統の節を、歳差内容を保存するものとして読解します:
 
-- **The Genesis 1 *yamim* sequence.** The framework's reading of the seven *yamim* (treated in the [Genesis](../genesis/) and [Terraforming](../terraforming/) entries) places the principal phases of the Earth project in specific precessional Ages: *yom* 1 in Capricorn, *yom* 2 in Sagittarius, *yom* 3 in Scorpio, *yom* 4 in Libra, *yom* 5 in Virgo, *yom* 6 in Leo, and *yom* 7 (the rest phase) in Cancer. The Genesis 1 narrative on this reading preserves a specifically precessional chronological structure.
-- **The Mosaic period (Age of Aries).** The framework reads the prominence of the **ram** as a symbolic figure in the Mosaic and broader Aries-period source-tradition material — the ram caught in the thicket at the Aqedah (Genesis 22:13), the Passover lamb (Exodus 12), the ram horns of the Sinai trumpet (the *shofar*), the broader sacrificial system of the Tabernacle — as preserving the precessional identification of the period as the Age of Aries.
-- **The Christian period (Age of Pisces).** The Christian tradition's use of the **fish** (Greek *ichthys*, Greek acronym for "Jesus Christ, Son of God, Saviour") as a central symbol from the earliest period, the multiple fish-related episodes in the Gospel narratives (the multiplication of loaves and fishes, the call of the fishermen-apostles, the post-resurrection beach breakfast in John 21), and the broader piscine symbolic vocabulary is read by the framework as preserving the precessional identification of the period as the Age of Pisces.
-- **The contemporary transition (Pisces to Aquarius).** The framework reads the contemporary cultural recognition of the "Age of Aquarius" — popularised in the 1960s but with substantive astrological-tradition antecedents — as preserving the precessional identification of the contemporary transition period.
+- **創世記1章の *ヤミーム* 連続**。枠組みによる七つの *ヤミーム*([創世記](../genesis/)および[テラフォーミング](../terraforming/)の項目で扱われる)の読解は、地球計画の主要な段階を特定の歳差大時代に置きます:*ヨーム* 1は山羊座、*ヨーム* 2は射手座、*ヨーム* 3は蠍座、*ヨーム* 4は天秤座、*ヨーム* 5は乙女座、*ヨーム* 6は獅子座、そして *ヨーム* 7(休息段階)は蟹座です。この読解での創世記1章の物語は、特に歳差的な年代論的構造を保存しています。
+- **モーセ期(牡羊座時代)**。枠組みは、モーセおよびより広い牡羊座時代の典拠伝統素材における象徴的人物としての **雄羊** の卓越性 ― アケダーで茂みに引っかかった雄羊(創世記22章13節)、過越の子羊(出エジプト記12章)、シナイのラッパ(*ショファル*)の雄羊の角、幕屋のより広い犠牲体系 ― を、この時代を牡羊座時代として歳差的に同定するものを保存していると読解します。
+- **キリスト教期(魚座時代)**。最初期からのキリスト教伝統による中心的な象徴としての **魚**(ギリシア語 *ichthys*、「神の子救い主イエス・キリスト」を表すギリシア語の頭字語)の使用、福音書の物語における複数の魚関連のエピソード(パンと魚の増殖、漁師-使徒の召命、ヨハネによる福音書21章の復活後の浜辺での朝食)、およびより広い魚類関連の象徴的語彙は、枠組みによってこの時期を魚座時代として歳差的に同定するものを保存しているものとして読解されます。{{ cite(id="the-gospels-in-the-stars", text="[4]", title="サイス『星々の中の福音』 ― 黄道十二宮とキリスト教の象徴的対応に関する19世紀の論考") }}{{ cite(id="mazzaroth-rolleston", text="[5]", title="ロールストン『マッザロート』 ― ヘブライ語/黄道十二宮の解釈伝統に関する主要なヴィクトリア朝期の典拠") }}{{ cite(id="mazzaroth-dot-com", text="[6]", title="『マッザロート』オンライン総覧 ― 黄道十二宮と聖書の解釈伝統に関する現代的な集成") }}
+- **現代の移行(魚座から水瓶座へ)**。枠組みは、「水瓶座時代」に関する現代の文化的認識 ― 1960年代に普及したが、実質的な占星術伝統の先行例を持つ ― を、現代の移行期を歳差的に同定するものを保存しているものとして読解します。
 
-The dedicated [List of mythemes and mythological motifs](../list-of-mythemes-and-mythological-motifs/) entry develops the broader cross-cultural mythological preservation of precessional content; the present entry registers the specific source-tradition passages that the framework reads as precessionally significant.
+専用の[神話素と神話的モチーフのリスト](../list-of-mythemes-and-mythological-motifs/)項目は、歳差内容のより広い通文化的神話的保存を展開します;本項目は、枠組みが歳差的に意義あるものとして読解する具体的な典拠伝統の節を登録します。
 
-### The chronological precision question
+### 年代論的精度の問題
 
-The framework's chronological reckoning faces a substantive precision question: the precessional Ages have variable dating across different traditions and methodologies, with the principal sources of variation being:
+枠組みの年代論的換算は実質的な精度の問題に直面しています:歳差大時代は、異なる伝統と方法論の間で年代設定が変動し、変動の主な源は以下のとおりです:
 
-- The **starting reference point** — different traditions use different reference stars or constellation-boundary definitions
-- The **rate of precession** — the difference between the modern astronomical rate (50.29 arcseconds/year) and the astrological-tradition rate (giving 2,160 years per Age) produces approximately 5-10% variation in Age durations
-- The **constellation boundaries** — the IAU-standardised constellation boundaries (defined 1930) differ from the classical astrological boundaries by substantial amounts in some cases
+- **開始基準点** ― 異なる伝統が異なる基準星または星座境界の定義を用いる
+- **歳差速度** ― 現代の天文学的速度(年間50.29秒角)と占星術伝統速度(時代あたり2,160年を与える)の差は、時代の持続期間に約5–10%の変動を生み出す
+- **星座境界** ― IAU標準化星座境界(1930年に定義)は、いくつかの場合に古典的占星術境界と実質的な量で異なる
 
-The framework's adopted reckoning (used consistently across the corpus's entries) uses the astrological-tradition figure of 2,160 years per Age and places the principal Age boundaries at the approximate dates given in the table above. The framework treats the boundary dates as approximate (±200 years), with the substantive interpretive content concerning the Age-specific events and not the precise transition dates.
+枠組みの採用する換算(本文献集の項目全体で一貫して用いられる)は、時代あたり2,160年という占星術伝統の数値を用い、主要な時代境界を上の表に示されたおよその年代に置きます。{{ cite(id="the-book-which-tells-the-truth", text="[7]", title="ヴォリロン(ラエル)『真実を告げる書』 ― 本文献集の年代論的枠組みに関するラエル文献の主要典拠") }} 枠組みは境界年を近似的(±200年)として扱い、実質的な解釈的内容は、時代固有の出来事に関するものであって、正確な移行年に関するものではありません。
 
-## Connections to the broader framework
+## より広い枠組みへの結びつき
 
-The Precession entry connects to a substantial number of other corpus entries.
+歳差項目は実質的な数の他の本文献集の項目と結びついています。
 
-**The precessional Ages.** The dedicated [Age of Virgo](../timeline/age-of-virgo/), [Age of Leo](../timeline/age-of-leo/), [Age of Cancer](../timeline/age-of-cancer/), [Age of Gemini](../timeline/age-of-gemini/), [Age of Taurus](../timeline/age-of-taurus/), [Age of Aries](../timeline/age-of-aries/), [Age of Pisces](../timeline/age-of-pisces/), [Age of Aquarius](../timeline/age-of-aquarius/), and [Age of Apocalypse](../age-of-apocalypse/) entries develop the specific content of each Age within the precessional framework that the present entry establishes.
+**歳差大時代**。専用の[乙女座時代](../timeline/age-of-virgo/)、[獅子座時代](../timeline/age-of-leo/)、[蟹座時代](../timeline/age-of-cancer/)、[双子座時代](../timeline/age-of-gemini/)、[牡牛座時代](../timeline/age-of-taurus/)、[牡羊座時代](../timeline/age-of-aries/)、[魚座時代](../timeline/age-of-pisces/)、[水瓶座時代](../timeline/age-of-aquarius/)、および[黙示録の時代](../age-of-apocalypse/)の項目は、本項目が確立する歳差の枠組み内における各時代の具体的な内容を展開します。
 
-**Genesis.** The dedicated [Genesis](../genesis/) entry treats the source-tradition reading of the Earth project, with the *yamim* sequence as the precessional structure that the present entry establishes.
+**創世記**。専用の[創世記](../genesis/)項目は、本項目が確立する歳差的構造としての *ヤミーム* 連続を伴う地球計画の典拠伝統的読解を扱います。
 
-**World Age.** The dedicated [World Age](../world-age/) entry treats the broader doctrine of cosmic ages in the cross-cultural religious tradition (the Hindu *yuga* cycle, the Hesiodic ages of gold/silver/bronze/iron, the broader cyclical-cosmological tradition). The precession entry establishes the astronomical phenomenon that the framework reads as underlying the World Age doctrine.
+**世界時代**。専用の[世界時代](../world-age/)項目は、通文化的宗教伝統における宇宙的時代に関するより広い教義(ヒンドゥーの *ユガ* サイクル、ヘシオドスの金・銀・銅・鉄の時代、より広い循環的-宇宙論的伝統)を扱います。歳差項目は、枠組みが世界時代教義の基礎にあるものとして読解する天文現象を確立します。
 
-**The Great Year.** The dedicated [Great Year](../great-year/) entry treats the broader concept of the precessional Great Year as it has been transmitted across the cross-cultural mythological tradition.
+**大年**。専用の[大年](../great-year/)項目は、通文化的神話伝統を通じて伝達されてきた歳差大年のより広い概念を扱います。
 
-**List of megalithic sites.** The dedicated [List of megalithic sites](../list-of-megalithic-sites/) entry treats the substantial archaeoastronomical evidence for ancient awareness of precessional and broader astronomical phenomena. The precession entry establishes the astronomical content that the megalithic alignments preserve.
+**巨石遺跡のリスト**。専用の[巨石遺跡のリスト](../list-of-megalithic-sites/)項目は、歳差およびより広い天文現象に関する古代の認識についての実質的な考古天文学的証拠を扱います。歳差項目は、巨石の整列が保存する天文学的内容を確立します。
 
-**List of mythemes and mythological motifs.** The dedicated [List of mythemes and mythological motifs](../list-of-mythemes-and-mythological-motifs/) entry treats the broader cross-cultural mythological preservation of astronomical content, including the precessional motifs identified by Santillana and von Dechend.
+**神話素と神話的モチーフのリスト**。専用の[神話素と神話的モチーフのリスト](../list-of-mythemes-and-mythological-motifs/)項目は、サンティリャーナとフォン・デヒェントによって同定された歳差モチーフを含む、天文学的内容のより広い通文化的神話的保存を扱います。
 
-**The forty-prophets lineage and the broader prophetic record.** The dedicated entries on the principal prophetic figures ([Moses](../moses/), [Elijah](../elijah/), [Jesus](../jesus/), [Muhammad](../muhammad/), etc.) use the precessional Ages to date the principal events of each prophet's life and mission.
+**四十人の預言者の系譜とより広い予言的記録**。主要な預言者人物に関する専用項目([モーセ](../moses/)、[エリヤ](../elijah/)、[イエス](../jesus/)、[ムハンマド](../muhammad/)など)は、各預言者の生涯と使命の主要な出来事を年代づけるために歳差大時代を用います。
 
-**The Adamites and the Eden phase.** The dedicated [Adamites](../adamites/) and [Eden](../eden/) entries place the human synthesis and the Eden phase in the Age of Leo on the precessional reckoning.
+**アダム的存在とエデン段階**。専用の[アダム的存在](../adamites/)および[エデン](../eden/)項目は、歳差的換算で人類合成とエデン段階を獅子座時代に置きます。
 
-**Cosmic pluralism.** The dedicated [Cosmic pluralism](../cosmic-pluralism/) entry treats the broader cosmological framework within which the precessional reckoning operates.
+**宇宙的多元主義**。専用の[宇宙的多元主義](../cosmic-pluralism/)項目は、歳差的換算が作用するより広い宇宙論的枠組みを扱います。
 
-## Open questions
+## 未解決の問題
 
-The Precession entry surfaces several open questions for the framework's broader interpretive work.
+歳差項目は、枠組みのより広い解釈作業に対するいくつかの未解決の問題を浮上させます。
 
-- **The empirical resolution of the pre-Hipparchian discovery question.** The mainstream-academic position holds that precession was first identified by Hipparchus in approximately 129 BCE. The *Hamlet's Mill* thesis (Santillana and von Dechend 1969) and subsequent archaeoastronomy work substantively contest this position. The framework's adopted reading is broadly sympathetic to the earlier-discovery position but treats the specific empirical resolution as one of the field's principal open questions. Future archaeoastronomical work on specific pre-Hipparchian astronomical content (megalithic alignments, ancient star catalogues, mythological-symbolic transmission) may permit more developed readings.
-- **The specific Elohim use of precession.** The framework's reading of precession as potentially serving the Elohim as a navigation or chronological-calibration aid (per Biglino) is substantively open. The corpus's broader account does not commit to a specific operational use; future corpus work on the operational reading of the Elohim project may permit more developed positions.
-- **The precise dating of the Age transitions.** The framework's adopted reckoning produces approximate boundary dates with ±200-year uncertainty due to the methodological choices involved. Future corpus work on the alignment between the framework's reckoning and the specific source-tradition chronological content may permit more precise dating.
-- **The relationship to the Vedic *yuga* cycles.** The Vedic *yuga* cycles (the *manvantaras*, the *Kali Yuga* / *Dwapara Yuga* / *Treta Yuga* / *Satya Yuga* sequence, the broader *Mahayuga* of 4.32 million years) are substantially longer than the precessional cycle. Whether the shorter Vedic subdivisions preserve precessional content, and what the relationship is between the precessional and *yuga* cosmological frameworks, is treated as open.
-- **The contemporary transition into the Age of Aquarius.** The framework's adopted reckoning places the contemporary period in transition between Pisces and Aquarius, with the precise transition date treated as open. Different astrological-astronomical traditions place this transition variously between approximately 1900 CE and 2700 CE; the framework's adopted reading uses c. 2,160 CE but treats this as approximate.
+- **ヒッパルコス以前の発見問題の経験的解決**。主流の学術的立場は、歳差は紀元前約129年にヒッパルコスによって初めて同定されたとするものです。『ハムレットの石臼』命題(サンティリャーナとフォン・デヒェント、1969年)とその後の考古天文学研究は、この立場に実質的に異議を唱えています。枠組みの採用する読解は、より早期の発見の立場に広く共感的ですが、具体的な経験的解決は分野の主要な未解決の問題の一つとして扱います。具体的なヒッパルコス以前の天文学的内容(巨石の整列、古代の星表、神話的-象徴的伝達)に関する将来の考古天文学的研究は、より発展した読解を可能にするかもしれません。
+- **エロヒムによる歳差の具体的な利用**。歳差を、エロヒムにとって航法または年代論的較正の補助として潜在的に役立つものとする(ビリーノに基づく)枠組みの読解は、実質的に開かれています。本文献集のより広い説明は、具体的な作業的利用にはコミットしていません;エロヒム計画の作業的読解に関する将来の本文献集の研究は、より発展した立場を可能にするかもしれません。
+- **時代移行の正確な年代設定**。枠組みの採用する換算は、関係する方法論的選択のために±200年の不確実性を伴う近似的な境界年を生み出します。枠組みの換算と特定の典拠伝統の年代論的内容との整合性に関する将来の本文献集の研究は、より正確な年代設定を可能にするかもしれません。
+- **ヴェーダの *ユガ* サイクルとの関係**。ヴェーダの *ユガ* サイクル(*マンヴァンタラ*、*カリ・ユガ*/*ドヴァパラ・ユガ*/*トレーター・ユガ*/*サティヤ・ユガ* の連続、432万年のより広い *マハーユガ*)は、歳差周期よりも実質的に長いものです。より短いヴェーダの下位区分が歳差内容を保存しているかどうか、および歳差と *ユガ* 宇宙論的枠組みの関係は何かは、開かれた問題として扱われます。
+- **水瓶座時代への現代的移行**。枠組みの採用する換算は、現代の時期を魚座と水瓶座の間の移行に置き、正確な移行年は開かれたものとして扱います。異なる占星術-天文学伝統は、この移行をおよそ西暦1900年から2700年の間に様々に置きます;枠組みの採用する読解は西暦約2,160年を用いますが、これを近似として扱います。
 
-## See also
+## 関連項目
 
-- [World Age](../world-age/)
-- [Great Year](../great-year/)
-- [Genesis](../genesis/)
-- [Age of Virgo](../timeline/age-of-virgo/)
-- [Age of Leo](../timeline/age-of-leo/)
-- [Age of Cancer](../timeline/age-of-cancer/)
-- [Age of Gemini](../timeline/age-of-gemini/)
-- [Age of Taurus](../timeline/age-of-taurus/)
-- [Age of Aries](../timeline/age-of-aries/)
-- [Age of Pisces](../timeline/age-of-pisces/)
-- [Age of Aquarius](../timeline/age-of-aquarius/)
-- [Age of Apocalypse](../age-of-apocalypse/)
-- [List of megalithic sites](../list-of-megalithic-sites/)
-- [List of mythemes and mythological motifs](../list-of-mythemes-and-mythological-motifs/)
-- [List of exegetic readings](../list-of-exegetic-readings/)
-- [Adamites](../adamites/)
-- [Eden](../eden/)
-- [Cosmic pluralism](../cosmic-pluralism/)
-- [Terraforming](../terraforming/)
+- [世界時代](../world-age/)
+- [大年](../great-year/)
+- [創世記](../genesis/)
+- [乙女座時代](../timeline/age-of-virgo/)
+- [獅子座時代](../timeline/age-of-leo/)
+- [蟹座時代](../timeline/age-of-cancer/)
+- [双子座時代](../timeline/age-of-gemini/)
+- [牡牛座時代](../timeline/age-of-taurus/)
+- [牡羊座時代](../timeline/age-of-aries/)
+- [魚座時代](../timeline/age-of-pisces/)
+- [水瓶座時代](../timeline/age-of-aquarius/)
+- [黙示録の時代](../age-of-apocalypse/)
+- [巨石遺跡のリスト](../list-of-megalithic-sites/)
+- [神話素と神話的モチーフのリスト](../list-of-mythemes-and-mythological-motifs/)
+- [釈義的読解のリスト](../list-of-exegetic-readings/)
+- [アダム的存在](../adamites/)
+- [エデン](../eden/)
+- [宇宙的多元主義](../cosmic-pluralism/)
+- [テラフォーミング](../terraforming/)
 
-## External links
+## 外部リンク
 
 - [Axial precession | Wikipedia](https://en.wikipedia.org/wiki/Axial_precession)
 - [Precession of the equinoxes | Britannica](https://www.britannica.com/science/precession-of-the-equinoxes)
@@ -317,52 +362,56 @@ The Precession entry surfaces several open questions for the framework's broader
 - [Astrological age | Wikipedia](https://en.wikipedia.org/wiki/Astrological_age)
 - [Milankovitch cycles | Wikipedia](https://en.wikipedia.org/wiki/Milankovitch_cycles)
 
-## References
+## 参考文献
 
-Vorilhon, Claude (Raël). *Le Livre qui dit la vérité* (1974) and *Les extra-terrestres m'ont emmené sur leur planète* (1976), collected as *Message from the Designers* (Raëlian Foundation, current English edition). [Primary source for the framework's broader reading; precession itself is not explicitly developed in the Vorilhon source material, but the chronological framework the corpus adopts is consistent with the broader source-material content.]
+ヴォリロン、クロード(ラエル)『真実を告げる書』(*Le Livre qui dit la vérité*、1974年)および『地球外生命体は私を彼らの惑星に連れて行った』(*Les extra-terrestres m'ont emmené sur leur planète*、1976年)、『デザイナーからのメッセージ』(*Message from the Designers*、ラエリアン財団、現行英語版)として収録。[枠組みのより広い読解の主要典拠;歳差そのものはヴォリロンの典拠素材において明示的に展開されてはいないが、本文献集が採用する年代論的枠組みはより広い典拠素材の内容と整合的である。]
 
-Santillana, Giorgio de, and Hertha von Dechend. *Hamlet's Mill: An Essay on Myth and the Frame of Time*. Boston: Gambit, 1969. [The foundational scholarly engagement with the thesis that pre-Hipparchian global mythology systematically encodes precessional astronomical content. The principal external reference for the framework's broader reading of precession's mythological significance.]
+サンティリャーナ、ジョルジョ・デ、およびヘルタ・フォン・デヒェント『ハムレットの石臼:神話と時間の枠組みに関する試論』ボストン:Gambit、1969年。[ヒッパルコス以前の世界神話が歳差天文学的内容を体系的にコード化しているとする命題への基礎的な学術的取り組み。歳差の神話的意義に関する枠組みのより広い読解のための主要な外部参考書。]
 
-Biglino, Mauro. *Il libro che cambierà per sempre le nostre idee sulla Bibbia*. Mondadori, 2011. [Source of the framework-relevant Biglino reading of precession as potentially serving as Elohim/Anunnaki navigation infrastructure.]
+ビリーノ、マウロ『聖書についての我々の観念を永遠に変える書』Mondadori、2011年。[エロヒム/アヌンナキの航法インフラとして潜在的に役立つという、歳差に関する枠組み関連のビリーノ的読解の源泉。]
 
-Biglino, Mauro. *La Bibbia non è un libro sacro: Il falso letterario che ha fondato due religioni*. Mondadori, 2012.
+ビリーノ、マウロ『聖書は聖なる書ではない:二つの宗教を創設した文学的虚偽』Mondadori、2012年。
 
-Ptolemy, Claudius. *Almagest* (*Mathematical Syntaxis*). c. 150 CE. Standard English translation: *Ptolemy's Almagest*, translated by G. J. Toomer. Princeton University Press, 1998. [The principal ancient source for Hipparchus's discovery of precession, preserved through Ptolemy's extensive citations.]
+プトレマイオス、クラウディオス『アルマゲスト』(『数学的綜合』)。西暦約150年。標準英訳:『プトレマイオスのアルマゲスト』G. J. トゥーマー訳。プリンストン大学出版局、1998年。[プトレマイオスの広範な引用を通じて保存された、ヒッパルコスによる歳差の発見に関する主要な古代典拠。]
 
-Newton, Isaac. *Philosophiæ Naturalis Principia Mathematica*. London, 1687. Book III, Propositions XXXIX-XLI. [The foundational mechanical explanation of precession.]
+ニュートン、アイザック『自然哲学の数学的諸原理』ロンドン、1687年。第三巻、命題XXXIX–XLI。[歳差の基礎的な力学的説明。]
 
-Evans, James. *The History and Practice of Ancient Astronomy*. Oxford University Press, 1998. [The standard contemporary academic history of ancient astronomy, with substantial treatment of Hipparchus and precession.]
+エヴァンス、ジェームズ『古代天文学の歴史と実践』オックスフォード大学出版局、1998年。[ヒッパルコスと歳差を実質的に扱う、古代天文学に関する標準的な現代学術史。]
 
-Neugebauer, Otto. *A History of Ancient Mathematical Astronomy*. 3 vols. Springer-Verlag, 1975. [The foundational scholarly history of pre-modern astronomy.]
+ノイゲバウアー、オットー『古代数学的天文学の歴史』全3巻。Springer-Verlag、1975年。[近代以前の天文学に関する基礎的な学術史。]
 
-Toomer, G. J. "Hipparchus." In *Dictionary of Scientific Biography*, edited by Charles Coulston Gillispie, vol. 15 (supplement I), pp. 207–224. New York: Scribner, 1978.
+トゥーマー、G. J.「ヒッパルコス」『科学者伝記辞典』チャールズ・クーストン・ジリスピー編、第15巻(補遺I)、207–224頁。ニューヨーク:Scribner、1978年。
 
-Ulansey, David. *The Origins of the Mithraic Mysteries: Cosmology and Salvation in the Ancient World*. Oxford University Press, 1989. [The substantive scholarly treatment of precession in the context of Mithraic mysteries; one of the principal contemporary scholarly engagements with the broader thesis that ancient religious tradition preserves precessional content.]
+ウランジー、デイヴィッド『ミトラ密儀の起源:古代世界における宇宙論と救済』オックスフォード大学出版局、1989年。[ミトラ密儀の文脈における歳差に関する実質的な学術的扱い;古代宗教伝統が歳差内容を保存しているというより広い命題への主要な現代の学術的取り組みの一つ。]
 
-Krupp, E. C. *In Search of Ancient Astronomies*. Doubleday, 1978.
+クラップ、E. C.『古代天文学を求めて』Doubleday、1978年。
 
-Krupp, E. C. *Echoes of the Ancient Skies: The Astronomy of Lost Civilizations*. Harper & Row, 1983.
+クラップ、E. C.『古代の空のこだま:失われた文明の天文学』Harper & Row、1983年。
 
-Schaefer, Bradley E. "The Latitude and Epoch for the Origin of the Astronomical Lore of Eudoxus." *Journal for the History of Astronomy* 35, no. 2 (2004): 161–223. [Substantive archaeoastronomical work bearing on the question of pre-Hipparchian astronomical observation.]
+シェイファー、ブラッドリー E.「エウドクソスの天文学伝承の起源の緯度と元期」『天文学史ジャーナル』35巻2号(2004年):161–223頁。[ヒッパルコス以前の天文観測の問題に関わる実質的な考古天文学的研究。]
 
-Sendy, Jean. *La Lune, clé de la Bible*. Julliard, 1968. [The principal neo-euhemerist engagement with the precessional structure of the Hebrew Bible's chronological content.]
+センディ、ジャン『月、聖書の鍵』Julliard、1968年。[ヘブライ語聖書の年代論的内容の歳差的構造に関する主要なネオエウヘメロス主義的取り組み。]
 
-Sendy, Jean. *Ces dieux qui firent le ciel et la terre*. Robert Laffont, 1969.
+センディ、ジャン『天と地を造った神々』Robert Laffont、1969年。
 
-Hancock, Graham. *Fingerprints of the Gods: The Evidence of Earth's Lost Civilization*. Crown, 1995. [The principal popular treatment of the broader archaeoastronomical thesis that pre-Hipparchian civilisations possessed substantial astronomical knowledge.]
+ハンコック、グラハム『神々の指紋:地球の失われた文明の証拠』Crown、1995年。[ヒッパルコス以前の文明が実質的な天文学的知識を持っていたというより広い考古天文学的命題の主要な通俗的扱い。]
 
-Bauval, Robert, and Adrian Gilbert. *The Orion Mystery: Unlocking the Secrets of the Pyramids*. Crown, 1994. [The principal popular treatment of the Egyptian-pyramid archaeoastronomical thesis.]
+ボーヴァル、ロバート、およびエイドリアン・ギルバート『オリオン・ミステリー:ピラミッドの秘密を解く』Crown、1994年。[エジプト・ピラミッドの考古天文学的命題の主要な通俗的扱い。]
 
-Schoch, Robert M. *Forgotten Civilization: The Role of Solar Outbursts in Our Past and Future*. Inner Traditions, 2012.
+ショック、ロバート M.『忘れられた文明:我々の過去と未来における太陽の爆発の役割』Inner Traditions、2012年。
 
-"Axial precession." *Wikipedia*. <https://en.wikipedia.org/wiki/Axial_precession>
+「Axial precession」『Wikipedia』<https://en.wikipedia.org/wiki/Axial_precession>
 
-"Precession of the equinoxes." *Britannica*. <https://www.britannica.com/science/precession-of-the-equinoxes>
+「Precession of the equinoxes」『Britannica』<https://www.britannica.com/science/precession-of-the-equinoxes>
 
-"Hipparchus." *Wikipedia*. <https://en.wikipedia.org/wiki/Hipparchus>
+「Hipparchus」『Wikipedia』<https://en.wikipedia.org/wiki/Hipparchus>
 
-"Hamlet's Mill." *Wikipedia*. <https://en.wikipedia.org/wiki/Hamlet%27s_Mill>
+「Hamlet's Mill」『Wikipedia』<https://en.wikipedia.org/wiki/Hamlet%27s_Mill>
 
-"Astrological age." *Wikipedia*. <https://en.wikipedia.org/wiki/Astrological_age>
+「Astrological age」『Wikipedia』<https://en.wikipedia.org/wiki/Astrological_age>
 
-"Milankovitch cycles." *Wikipedia*. <https://en.wikipedia.org/wiki/Milankovitch_cycles>
+「Milankovitch cycles」『Wikipedia』<https://en.wikipedia.org/wiki/Milankovitch_cycles>
+
+
+
+

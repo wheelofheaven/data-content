@@ -1,304 +1,390 @@
 +++
 title = "Яхве"
-description = "Яхве (<span class=\"hebrew\">יהוה</span>, YHWH) — в Еврейской Библии собственное имя бога Израиля. В корпусе Wheel of Heaven и в раэлианских источниках оно именует президента Совета вечных — руководителя цивилизации Элохимов, ответственного за Землю."
+slug = "yahweh"
+description = "Яхве (иврит: יהוה, YHWH) — собственное имя главного божественного персонажа Еврейской Библии, традиционно прочитываемое мейнстримной традицией как единый Бог Израиля. В прочтении, разработанном в раэлианском первоисточнике и принятом корпусом «Колесо Небес», Яхве — конкретный Элоха, президент Совета Вечных, старший представитель альянса, лично руководивший созданием жизни на Земле начиная с Эпохи Козерога и являющийся главным собеседником альянса с пророческими фигурами Земли на протяжении последующих пятнадцати тысячелетий. Основной источник корпуса — рассказ Яхве о своей цивилизации от первого лица, переданный Клоду Ворилону (Раэлю) в течение шести утренних встреч в 1973 году."
 template = "wiki-page.html"
 toc = true
 
 [extra]
-translation_status = "metadata_only"
-category = "Elohim"
+featured_order = 2
+category = "Элохим"
 editorial_pass = "2026-05"
 entry_type = "figure"
-alternative_names = ["YHWH", "יהוה", "𐤉𐤄𐤅𐤄", "YHVH", "Jehovah", "the Eternal", "the First and the Last", "Alpha and Omega"]
+alternative_names = ["YHWH", "יהוה", "𐤉𐤄𐤅𐤄", "YHVH", "Иегова", "Вечный", "Первый и Последний", "Альфа и Омега"]
+see_also = [
+    { title = "Элохим", path = "wiki/elohim", description = "Множественное обозначение, главным членом которого является Яхве." },
+    { title = "Совет Вечных", path = "wiki/council-of-eternals", description = "Руководящий орган, который возглавляет Яхве." },
+    { title = "Иисус", path = "wiki/jesus", description = "Фигура, традиционно отождествляемая с сыном Яхве в христианской традиции." },
+    { title = "Моисей", path = "wiki/moses", description = "Основной контакт Яхве в повествовании об Исходе." },
+    { title = "Авраам", path = "wiki/abraham", description = "Патриарх-основатель, через которого Яхве установил завет." },
+]
+
+footnotes = [
+    { content = "Цифра примерно в 6 800 случаев употребления Тетраграмматона в Еврейской Библии — широко цитируемое конкорданс-число, выведенное из работы над масоретским текстом. Точные подсчёты варьируются в зависимости от издания (Ленинградский кодекс, BHS и BHQ различаются на небольшие величины) и от того, учитываются ли случаи внутри сложных теофорных имён собственных (окончания *-yahu* и *-yah*) как употребления самого божественного имени. Конкорданс Стронга, запись 3068, BDB и HALOT остаются стандартными точками отсчёта." },
+    { content = "Реконструкция *Яхве* как исторического произношения Тетраграмматона — это консенсус современной критической учёности, но она не была выработана внутри иудейской литургической традиции, которая сохраняет подстановку *qere perpetuum* *Адонай* и трактует консонантное имя как непроизносимое. Реконструкция опирается на патристические транскрипции (Ἰαουέ Климента Александрийского, Ἰαβέ Феодорита), сравнительные западносемитские теофорные именные элементы (окончания *-yahu* и *-yah* библейских имён собственных) и реконструированную вокализацию глагольного корня. Произношение, таким образом, является научной филологической реконструкцией, а не восстановленной или переданной формой." },
+    { content = "Упоминание *Yahu* / *Yhw* в позднебронзовых египетских источниках касается топографических списков Солеба (при Аменхотепе III, XIV век до н. э.) и Амары-Запад (при Рамсесе II, XIII век до н. э.), которые упоминают *Шасу yhw* — кочевые группы, связанные с местом или божеством *yhw*, расположенным в южном Леванте / Синае. Связь между этим египетским *yhw* и более поздним израильским Яхве является предметом споров: преобладающее прочтение трактует египетское свидетельство как указание на раннее южное (мидианитско-эдомское) происхождение божества, что согласуется с библейской традицией Синая / Хорива как горы Яхве, но вывод от топографического списка к конкретной божественной фигуре филологически нестрог." },
+    { content = "Форма *Иегова* — гласные *Адонай*, наложенные на согласные YHWH — была популяризирована в латинско-христианском обиходе Петрусом Галатинусом в *De arcanis catholicae veritatis* (1518), перешла в Библию короля Якова (1611) и в ранние новоевропейские переводы и сохранялась в литургическом употреблении вплоть до XX века. Современный филологический консенсус трактует эту форму как гибрид, который никогда не произносился как единое имя ни в одной исторической древнееврейской речевой общине; масоретская огласовка была подсказкой для чтения с подстановкой, а не записью произношения." },
+    { content = "Классическая формулировка документарной гипотезы Велльгаузена (J/E/D/P) была существенно пересмотрена в последующей науке. Рольф Рендторф и Эрхард Блум оспаривают существование непрерывных источников J и E, предлагая вместо этого модель независимых блок-традиций, позднее объединённых редакторами. Джон Ван Сетерс датирует J скорее периодом плена или после него, чем X веком до н. э. Неодокументарная школа (Барух Шварц, Джоэль Бэйден) защищает модифицированную четырёх­источниковую модель. Корпус прочитывает исторические референты, сохранившиеся в дошедшем тексте, не привязываясь ни к какой конкретной композиционной реконструкции." },
+    { content = "Цифра в 25 000 лет непрерывного существования Яхве является внутренней для источника раэлианского материала: транскрипты Ворилона дают этот период как приблизительно двадцать пять тысяч лет, причём Яхве описывается как первый индивидуум, к которому была успешно применена технология непрерывности через перенос клеток. Цифра оставалась неизменной во всех последующих изданиях раэлианского материала. Корпус трактует её как внутренний для источника факт, а не как независимо проверяемое хронологическое утверждение — ни технология, ни непрерывное существование индивидуума недоступны для внешнего подтверждения." },
+]
+
+[[extra.references]]
+id = "genesis"
+locator = "Бытие 2:4 и далее; 12; 15; 17; 18; 22"
+note = "Основные отрывки Еврейской Библии, касающиеся YHWH Элохим в повествованиях об Эдеме, Потопе и патриархах."
+
+[[extra.references]]
+id = "exodus"
+locator = "Исход 3:14; 6; 19–24; 33–34"
+note = "Неопалимая купина, самоименование Ehyeh asher ehyeh и Синайская теофания."
+
+[[extra.references]]
+id = "isaiah"
+locator = "Исаия 6"
+note = "Видение Исаии: Яхве, восседающий на престоле в окружении серафимов."
+
+[[extra.references]]
+id = "ezekiel"
+locator = "Иезекииль 1"
+note = "Видение престола-колесницы и kavod Яхве."
+
+[[extra.references]]
+id = "revelation"
+locator = "Откровение 1:8; 1:17; 21:6; 22:13"
+note = "Самоидентификация Яхве как «Первого и Последнего» / «Альфы и Омеги»."
+
+[[extra.references]]
+id = "the-book-which-tells-the-truth"
+note = "Основополагающий раэлианский текст Ворилона 1974 года, представленный как рассказ Яхве о самом себе и своей цивилизации от первого лица."
+
+[[extra.references]]
+id = "extraterrestrials-took-me-to-their-planet"
+note = "Вторая раэлианская работа Ворилона (1976), включая встречу с Советом Вечных на родной планете Элохим."
+
+[[extra.references]]
+id = "lets-welcome-the-extraterrestrials"
+note = "Третья раэлианская работа Ворилона (1979); последующие сообщения и уточнения."
+
+[[extra.references]]
+id = "those-gods-who-made-heaven-and-earth"
+note = "Раннее филолого-историографическое прочтение Жаном Сенди Яхве как конкретного теосита внутри множественности Элохим."
+
+[[extra.references]]
+id = "the-bible-is-not-a-sacred-book"
+note = "Строго-буквальное прочтение Еврейской Библии Мауро Бильино: Яхве как конкретный индивидуум среди «господ свыше»."
+
+[[extra.references]]
+id = "the-naked-bible"
+note = "Бильино и Каттанео, обзор Еврейской Библии 2022 года, продолжающий метод строго-буквального перевода."
+
+[[extra.references]]
+id = "escaping-from-eden"
+note = "Сравнительное прочтение древнееврейских Элохим / Сильных Пол Энтони Уоллисом."
+
+[[extra.references]]
+id = "the-spaceships-of-ezekiel"
+note = "Инженерно-ориентированное прочтение видения престола-колесницы из Иезекииля 1."
+
+[[extra.references]]
+id = "a-hebrew-and-english-lexicon-of-the-old-testament"
+note = "Лексикон BDB — справочник по глагольному корню h-y-h / h-w-h, лежащему в основе Тетраграмматона."
+
+[[extra.references]]
+id = "the-hebrew-and-aramaic-lexicon-of-the-old-testament"
+note = "HALOT (Кёлер-Баумгартнер) — стандартный лексикографический справочник по YHWH и связанным формам."
 
 [extra.infobox]
 hebrew_form = "יהוה"
 transliteration = "YHWH"
-reconstructed_pronunciation = "Yahweh"
-type = "Eloha individual"
-born = "c. 23,000 BCE on the Elohim home world (framework-internal)"
-age_at_1973_contact = "approximately 25,000 years"
-bodies = "25 (through cell-transfer continuity technology)"
-role = "President of the Council of the Eternals; senior alliance authority for the Earth project"
-species = "Eloha"
-home_world = "Single planet outside the solar system"
-earth_role = "Senior officer directing the Earth creation project; leader of the Israel team during and after the Eden period; principal alliance interlocutor with the Hebrew prophetic tradition"
-principal_source = "*Message from the Designers* (Vorilhon/Raël, 1974–79), of which Yahweh is the first-person speaker"
+reconstructed_pronunciation = "Яхве"
+type = "Элоха-индивидуум"
+born = "ок. 23 000 до н. э. на родной планете Элохим (внутри рамки)"
+age_at_1973_contact = "приблизительно 25 000 лет"
+bodies = "25 (через технологию непрерывности с переносом клеток)"
+role = "Президент Совета Вечных; старший представитель альянса по проекту «Земля»"
+species = "Элоха"
+home_world = "Одиночная планета вне Солнечной системы"
+earth_role = "Старший офицер, руководящий проектом по созданию жизни на Земле; лидер израильской команды в период Эдема и после него; главный собеседник альянса с еврейской пророческой традицией"
+principal_source = "*Послание от Создателей* (Ворилон/Раэль, 1974–79), в котором Яхве выступает говорящим от первого лица"
 +++
 
-**Yahweh** (Hebrew: <span class="hebrew">יהוה</span>, transliterated *YHWH*; the *Tetragrammaton*, "the four letters") is the proper name of the principal divine figure of the Hebrew Bible. The name appears approximately 6,800 times in the Hebrew text, more than any other designation for the divine. In Jewish liturgical practice the name is not pronounced; it is replaced in reading by *Adonai* ("my Lord") or by *ha-Shem* ("the Name"), and the name's vocalization in the Masoretic tradition (with the vowels of *Adonai*, producing the hybrid form *Yehovah* / *Jehovah*) reflects this substitution rather than the historical pronunciation. The reconstruction *Yahweh* is the form preferred by modern critical scholarship.
+**Яхве** (иврит: <span class="hebrew">יהוה</span>, в транслитерации *YHWH*; *Тетраграмматон*, «четыре буквы») — собственное имя главного божественного персонажа {% wiki(slug="hebrew-bible") %}Еврейской Библии{% end %}. Имя встречается приблизительно 6 800 раз в еврейском тексте — чаще любого другого обозначения божественного.{{ footnote(id="1") }} В иудейской литургической практике имя не произносится; при чтении оно заменяется на *Адонай* («мой Господь») или *ха-Шем* («Имя»), а вокализация имени в масоретской традиции (с гласными *Адонай*, дающая гибридную форму *Иегова*) отражает эту подстановку, а не историческое произношение. Реконструкция *Яхве* — это форма, предпочитаемая современной критической учёностью.{{ footnote(id="2") }}
 
-On the reading developed in the Raëlian source material and adopted by the Wheel of Heaven corpus, Yahweh is a specific Eloha individual — the president of the Council of the Eternals on the Elohim home world, the senior alliance authority directing the Earth creation project from its inception in the Age of Capricorn approximately twenty-two thousand years ago, the leader of the Israel team that conducted the Eden operation and the framework's reading of *Yahweh Elohim* of Genesis 2 onward, and the principal alliance interlocutor with the prophetic figures of the Hebrew, Christian, and subsequent traditions across the entire post-creation arc. The Raëlian source material is, on the corpus's reading, Yahweh's own first-person account of himself and of his civilization, delivered to Claude Vorilhon at Clermont-Ferrand over six successive mornings in December 1973 and elaborated through a second longer contact in October 1975. This first-person provenance gives Yahweh's role in the framework an unusual epistemic position: most of what the framework knows about the Elohim civilization, it knows because Yahweh told it to Vorilhon.
+В прочтении, разработанном в раэлианском первоисточнике и принятом корпусом {% wiki(slug="wheel-of-heaven") %}«Колесо Небес»{% end %}, Яхве — конкретный Элоха-индивидуум: президент Совета Вечных на родной планете Элохим, старший представитель альянса, руководивший проектом по созданию жизни на Земле с его начала в Эпохе Козерога около двадцати двух тысяч лет назад, лидер израильской команды, которая проводила {% wiki(slug="eden") %}эдемскую{% end %} операцию и стоит за рамочным прочтением *Яхве Элохим* в Бытии 2 и далее, и главный собеседник альянса с пророческими фигурами еврейской, христианской и последующих традиций на протяжении всей дуги после создания. Раэлианский первоисточник, в прочтении корпуса, представляет собой собственный рассказ Яхве о самом себе и о своей цивилизации от первого лица, переданный Клоду Ворилону в Клермон-Ферране в течение шести последовательных утренних встреч в декабре 1973 года и развёрнутый в ходе второго, более длительного контакта в октябре 1975 года. Эта перволичная атрибуция придаёт роли Яхве в рамке необычное эпистемическое положение: бо́льшая часть того, что рамка знает о цивилизации Элохим, известно ей потому, что Яхве сообщил это Ворилону.
 
-The reading is contested. Within the modern academic study of the Hebrew Bible, the dominant readings of Yahweh include the traditional Jewish and Christian theological identification of Yahweh as the singular God of Israel, the comparative-Semitic historical reconstruction of Yahweh as a West Semitic deity whose origins lie in the broader Canaanite religious context, and the developmental account in which Yahweh's status evolved from regional storm-god to high-god to universal monotheistic deity across the first millennium BCE. The corpus's reading is consistent with the historical-critical observation that Yahweh has a specific identifiable identity (rather than being identical to the more generic *Elohim*), but reframes the underlying ontology: Yahweh is a specific individual within an extraterrestrial civilization rather than a deity in any supernatural sense.
+Это прочтение оспаривается. В рамках современной академической библеистики доминирующие прочтения Яхве включают традиционное иудейское и христианское богословское отождествление Яхве как единого Бога Израиля, сравнительно-семитскую историческую реконструкцию Яхве как западносемитского божества, чьи истоки лежат в более широком ханаанском религиозном контексте, и развитийный подход, согласно которому статус Яхве эволюционировал от регионального бога-громовержца к высшему богу, а затем к универсальному монотеистическому божеству на протяжении первого тысячелетия до н. э. Прочтение корпуса согласуется с историко-критическим наблюдением, что Яхве обладает конкретной опознаваемой идентичностью (а не тождественен более общему *Элохим*), но переосмысляет лежащую в основе онтологию: Яхве — это конкретный индивидуум внутри внеземной цивилизации, а не божество в каком-либо сверхъестественном смысле.
 
-## Etymology and naming
+## Этимология и наименование
 
-The Tetragrammaton appears in the Hebrew Bible from Genesis 2:4 onward. In Genesis 1:1–2:3 the divine name is *Elohim* (plural); from Genesis 2:4 the compound *YHWH Elohim* appears, and from Genesis 4 onward *YHWH* is used independently. The distribution of the divine names across the Hebrew Bible has been studied since Astruc in the 18th century and is one of the foundational observations of modern source criticism, which reads the alternation as evidence of distinct compositional sources behind the Pentateuchal text.
+Тетраграмматон появляется в Еврейской Библии начиная с {% libref(book="genesis", chapter=2, verse=4) %}Бытия 2:4{% end %}. В Бытии 1:1–2:3 божественное имя — *Элохим* (множественное число); с Бытия 2:4 появляется составная форма *YHWH Элохим*, а с Бытия 4 *YHWH* используется самостоятельно. Распределение божественных имён по Еврейской Библии изучается со времён Астрюка в XVIII веке и является одним из основополагающих наблюдений современной критики источников, которая трактует чередование как свидетельство наличия различных композиционных источников за пятикнижным текстом.
 
-### Etymology of the name
+### Этимология имени
 
-The name's etymology connects most plausibly to the Hebrew verbal root *h-y-h* (and its archaic variant *h-w-h*), "to be," "to exist," or "to become." On this analysis, *YHWH* is the third-person singular masculine imperfect of the verb, conventionally translated "He is," "He will be," or "He causes to be." The Exodus 3:14 self-naming — *Ehyeh asher ehyeh*, conventionally translated "I am that I am" or "I will be what I will be" — uses the first-person form *ehyeh* of the same verbal root, and the connection to the Tetragrammaton is grammatically transparent: the form Moses receives ("I am") is the first-person counterpart of the third-person form by which the divine is named ("He is").
+Этимология имени наиболее правдоподобно связана с древнееврейским глагольным корнем *h-y-h* (и его архаическим вариантом *h-w-h*) — «быть», «существовать» или «становиться». При таком анализе *YHWH* представляет собой третье лицо единственного числа мужского рода имперфекта глагола, традиционно переводимое как «Он есть», «Он будет» или «Он причиняет быть». Самоименование в {% libref(book="exodus", chapter=3, verse=14) %}Исходе 3:14{% end %} — *Ehyeh asher ehyeh*, традиционно переводимое как «Я есмь Сущий» или «Я буду тем, кем буду», — использует форму первого лица *ehyeh* того же глагольного корня, и связь с Тетраграмматоном грамматически прозрачна: форма, которую получает Моисей («Я есмь»), является перволичным соответствием третьеличной формы, по которой именуется божественное («Он есть»).
 
-The "He is" reading is the dominant scholarly reconstruction but not the only one. Alternative proposals connect the name to a putative *Yahweh-Sabaoth* military epithet, to a storm-god title from the broader West Semitic tradition, to a place-name (Mount Yahu, mentioned in Egyptian sources of the Late Bronze Age in connection with nomadic groups in the Sinai region), or to a causative form ("He who causes to be") rather than the simple existential. None of these has displaced the existential reading, but several remain alive in specialist debate.
+Прочтение «Он есть» является доминирующей научной реконструкцией, но не единственной. Альтернативные предложения связывают имя с предполагаемым военным эпитетом *Яхве-Саваоф*, с титулом бога-громовержца из более широкой западносемитской традиции, с названием места (гора Яху, упоминаемая в египетских источниках позднего бронзового века в связи с кочевыми группами в Синайском регионе),{{ footnote(id="3") }} или с каузативной формой («Тот, кто причиняет быть»), а не с простой экзистенциальной.{{ cite(id="a-hebrew-and-english-lexicon-of-the-old-testament", text="[1]", title="Браун, Драйвер, Бриггс, *A Hebrew and English Lexicon of the Old Testament* — статья о глагольном корне h-y-h / h-w-h") }}{{ cite(id="the-hebrew-and-aramaic-lexicon-of-the-old-testament", text="[2]", title="Кёлер-Баумгартнер, *The Hebrew and Aramaic Lexicon of the Old Testament* (HALOT) — статьи о YHWH и связанных формах") }} Ни одно из них не вытеснило экзистенциального прочтения, но некоторые остаются живыми в специализированных дискуссиях.
 
-### Pointing and pronunciation
+### Огласовка и произношение
 
-The Hebrew Bible as we have it was written in a consonantal script that did not record vowels; vowels were added by the Masoretic scribes in the early medieval period (principally the Tiberian school, c. 7th–10th century CE). By the time the Masoretes worked, the practice of not pronouncing the Tetragrammaton was already ancient — attested as early as the Septuagint (3rd–2nd century BCE), which translates *YHWH* uniformly as Greek *Kyrios*, "Lord," reflecting the Aramaic and Hebrew substitution practice already in place. The Masoretes therefore pointed the consonants *YHWH* with the vowels of the substitute *Adonai* — producing the form *Yehovah* — to remind the reader that the name was not to be pronounced as written but to be replaced in reading. The Latin Vulgate and the early English translations took this hybrid pointing as the actual pronunciation, producing *Jehovah* — a form that, on modern philological consensus, is a vocalic chimera that was never the historical pronunciation of the name.
+Еврейская Библия в дошедшем до нас виде записана консонантным письмом, не передающим гласных; гласные были добавлены масоретскими писцами в раннее Средневековье (преимущественно тиверианской школой, ок. VII–X вв. н. э.). К моменту работы масоретов практика непроизнесения Тетраграмматона была уже древней — засвидетельствованной как минимум в Септуагинте (III–II вв. до н. э.), которая переводит *YHWH* единообразно греческим *Kyrios*, «Господь», отражая уже существовавшую арамейскую и еврейскую практику подстановки. Поэтому масореты огласовали согласные *YHWH* гласными подстановки *Адонай* — производя форму *Йеховах* — чтобы напомнить читателю, что имя не должно произноситься так, как написано, а должно быть заменено при чтении. Латинская Вульгата и ранние английские переводы приняли эту гибридную огласовку как фактическое произношение, произведя *Иегову* — форму, которая, согласно современному филологическому консенсусу, представляет собой вокалическую химеру, никогда не бывшую историческим произношением имени.{{ footnote(id="4") }}
 
-### Liturgical handling and substitution
+### Литургическое обращение и подстановка
 
-In Jewish liturgical practice, the Tetragrammaton is never pronounced as written. In synagogue reading, the substitute *Adonai* is used; in casual reference outside liturgical contexts, *ha-Shem* ("the Name"); in writing outside sacred texts, abbreviations such as <span class="hebrew">ה'</span> or transliterations such as *G-d* (in English-language Orthodox Jewish writing) reflect the broader principle that the name carries holiness sufficient to require linguistic distancing. Christian translation traditions have generally followed the Septuagint precedent of rendering *YHWH* as *Lord* (in capital and small capitals: <small>LORD</small>), preserving the substitution structure even when the underlying theological reasoning has been lost. The notable exception is the New Jerusalem Bible (1985) and its predecessor, which restored *Yahweh* in the English text — a translational decision the Vatican's Congregation for Divine Worship subsequently directed against in 2008.
+В иудейской литургической практике Тетраграмматон никогда не произносится так, как написан. При синагогальном чтении используется подстановка *Адонай*; при бытовом упоминании вне литургического контекста — *ха-Шем* («Имя»); в письме вне священных текстов сокращения вроде <span class="hebrew">ה'</span> или транслитерации вроде *G-d* (в англоязычной ортодоксальной иудейской литературе) отражают более общий принцип: имя несёт святость, достаточную для того, чтобы требовать языковой дистанции. Христианские переводческие традиции в целом следовали септуагинтальному прецеденту передачи *YHWH* как *Господь* (заглавными и капительными буквами: <small>ГОСПОДЬ</small>), сохраняя структуру подстановки даже там, где лежащая в её основе богословская мотивация была утрачена. Заметным исключением является {% wiki(slug="new-jerusalem") %}Новоиерусалимская{% end %} Библия (1985) и её предшественница, в которых в английском тексте было восстановлено *Яхве* — переводческое решение, против которого впоследствии выступила в 2008 году Конгрегация богослужения Ватикана.
 
-### The divine names in source criticism
+### Божественные имена в критике источников
 
-The Documentary Hypothesis, in its classical form developed by Wellhausen (1883) and refined across subsequent scholarship, reads the alternation between *YHWH*, *Elohim*, and the compound *YHWH Elohim* as a principal marker for distinct compositional sources within the Pentateuch:
+Документарная гипотеза в её классической форме, разработанной Велльгаузеном (1883) и уточнённой в последующей учёности, трактует чередование *YHWH*, *Элохим* и составной *YHWH Элохим* как главный маркер различных композиционных источников внутри Пятикнижия:
 
-- The **Yahwist source** (J), conventionally dated to the 10th–9th century BCE, uses *YHWH* throughout and is associated with anthropomorphic narratives, the southern Judah perspective, and the patriarchal stories.
-- The **Elohist source** (E), conventionally 9th–8th century BCE, uses *Elohim* until Exodus 3 (where *YHWH* is revealed to Moses for the first time on this source's account), is associated with the northern Israel perspective, and prefers more theologically distanced narratives.
-- The **Priestly source** (P), conventionally 6th–5th century BCE, uses *Elohim* in Genesis 1–11 and *YHWH* from Exodus 6 (where the name's revelation is parallel but distinct from E's account), and is associated with cultic and genealogical material.
-- The **Deuteronomist** (D), 7th century BCE and after, uses *YHWH* throughout and is associated with the book of Deuteronomy and the Deuteronomistic History.
+- **Яхвист** (J), традиционно датируемый X–IX вв. до н. э., использует *YHWH* на всём протяжении и связан с антропоморфными повествованиями, южной иудейской перспективой и патриаршими историями.
+- **Элохист** (E), традиционно IX–VIII вв. до н. э., использует *Элохим* до Исхода 3 (где, согласно этому источнику, Моисею впервые открывается *YHWH*), связан с северной израильской перспективой и предпочитает богословски более дистанцированные повествования.
+- **Жреческий источник** (P), традиционно VI–V вв. до н. э., использует *Элохим* в Бытии 1–11 и *YHWH* с Исхода 6 (где откровение имени параллельно, но отлично от рассказа E) и связан с культовым и генеалогическим материалом.
+- **Девтерономист** (D), VII в. до н. э. и далее, использует *YHWH* на всём протяжении и связан с книгой Второзакония и Девтерономической историей.{{ footnote(id="5") }}
 
-The corpus adopts no specific position on the source-critical questions. The framework's reading depends on the historical referents preserved in the surviving Hebrew text rather than on any specific reconstruction of the text's compositional history; the name *Yahweh* refers, on the corpus's reading, to a specific Eloha individual whose identity is preserved across the various textual layers, regardless of how those layers were assembled.
+Корпус не занимает специфической позиции по источниковедческим вопросам. Прочтение рамки опирается на исторические референты, сохранённые в дошедшем еврейском тексте, а не на какую-либо конкретную реконструкцию композиционной истории текста; имя *Яхве* отсылает, в прочтении корпуса, к конкретному Элоха-индивидууму, чья идентичность сохраняется через различные текстовые слои независимо от того, как эти слои были собраны.
 
-## In the Hebrew Bible
+## В Еврейской Библии
 
-The Tetragrammaton *YHWH* appears approximately 6,800 times in the Hebrew Bible, distributed across all major sections of the canon. Yahweh is the principal divine actor in the patriarchal narratives, the Exodus and wilderness traditions, the conquest and judges material, the Davidic and Solomonic monarchy narratives, the prophetic literature of the divided monarchy and the exile, and the post-exilic restoration material. His specific narrative appearances are dense across the historical books and concentrated, in formal-revelatory mode, in the Pentateuchal theophanies and the prophetic-vision sequences.
+Тетраграмматон *YHWH* появляется в Еврейской Библии приблизительно 6 800 раз, распределяясь по всем основным разделам канона. Яхве — главный божественный актор в патриарших повествованиях, в традициях Исхода и странствий, в материалах о завоевании и судьях, в нарративах Давидовой и Соломоновой монархии, в пророческой литературе разделённого царства и плена и в послепленных восстановительных материалах. Его конкретные нарративные явления плотно представлены в исторических книгах и сосредоточены, в формально-откровительном режиме, в пятикнижных теофаниях и в пророческо-вид́е́нческих последовательностях.
 
-### The principal narrative appearances
+### Главные нарративные явления
 
-Yahweh's most significant direct appearances in the Hebrew Bible, in their canonical sequence, include:
+{% library(book="the-book-which-tells-the-truth", chapter=1, verse=51) %}
+Мы — люди, подобные вам, и мы живём на планете, весьма похожей на Землю.
+{% end %}
 
-- **Genesis 2–3** (the Eden narrative): Yahweh Elohim plants the garden, forms the man, places him in the garden, prohibits the tree of knowledge, forms the woman, confronts the humans after the transgression, pronounces consequences on the serpent, the woman, and the man, and expels them from the garden.
-- **Genesis 4** (Cain and Abel): Yahweh receives offerings, prefers Abel's, warns Cain, hears Abel's blood crying from the ground, and pronounces Cain's punishment.
-- **Genesis 6–9** (the Flood narrative): Yahweh observes the corruption of the antediluvian world, decides to send the Flood, instructs Noah to build the ark, sends the Flood and ends it, smells Noah's burnt offering, and establishes the Noahic covenant with the rainbow as its sign.
-- **Genesis 12, 15, 17, 18, 22** (the Abrahamic narratives): Yahweh calls Abram from Ur, establishes the covenant of land and posterity, performs the formal covenant-cutting ceremony of Genesis 15, renames Abram to Abraham at the institution of circumcision, visits Abraham at the oaks of Mamre, and tests Abraham at the binding of Isaac.
-- **Exodus 3** (the burning bush): Yahweh appears to Moses at Horeb, identifies himself with the *Ehyeh asher ehyeh* self-naming, and commissions Moses for the Exodus mission.
-- **Exodus 19–24, 33–34** (the Sinai theophany): Yahweh descends on Sinai in cloud and fire, gives the Decalogue and the broader covenant code, and is encountered by Moses in the most direct theophanic mode the Hebrew Bible records.
-- **1 Samuel 3** (the calling of Samuel): Yahweh calls Samuel by name in the night, Samuel mistaking the voice for Eli's until Eli identifies the source.
-- **1 Kings 19** (Elijah at Horeb): Yahweh appears to Elijah not in the wind, the earthquake, or the fire, but in the *qol demamah daqqah*, the "thin silent voice."
-- **Isaiah 6** (Isaiah's throne-room vision): Yahweh appears enthroned with the seraphim, sending Isaiah for his prophetic mission.
-- **Ezekiel 1** (the chariot-throne vision): Ezekiel sees the *kavod* of Yahweh in the elaborate chariot-throne vision that opens the book.
+Наиболее значительные прямые явления Яхве в Еврейской Библии в их каноническом порядке включают:
 
-Beyond these major direct appearances, Yahweh is the named subject or agent of thousands of additional passages across the Hebrew Bible, particularly in the prophetic books where the formula "Thus says Yahweh" introduces oracles delivered through the prophets.
+- **{% libref(book="genesis", chapter=2) %}Бытие 2–3{% end %}** (повествование об Эдеме): Яхве Элохим насаждает сад, формирует человека, помещает его в сад, запрещает древо познания, формирует женщину, противостоит людям после нарушения, объявляет последствия для змея, женщины и человека и изгоняет их из сада.
+- **{% libref(book="genesis", chapter=4) %}Бытие 4{% end %}** (Каин и Авель): Яхве принимает приношения, предпочитает дар Авеля, предупреждает Каина, слышит кровь Авеля, вопиющую от земли, и провозглашает наказание Каину.
+- **{% libref(book="genesis", chapter=6) %}Бытие 6–9{% end %}** (повествование о Потопе): Яхве наблюдает порчу допотопного мира, решает послать Потоп, повелевает Ною построить ковчег, посылает Потоп и завершает его, обоняет всесожжение Ноя и устанавливает Ноев завет с радугой в качестве знамения.
+- **{% libref(book="genesis", chapter=12) %}Бытие 12, 15, 17, 18, 22{% end %}** (повествования об Аврааме): Яхве призывает Аврама из Ура, устанавливает завет о земле и потомстве, совершает формальную церемонию заключения завета в Бытии 15, переименовывает Аврама в Авраама при установлении обрезания, посещает Авраама у дубравы Мамре и испытывает Авраама при связывании Исаака.
+- **{% libref(book="exodus", chapter=3) %}Исход 3{% end %}** (неопалимая купина): Яхве является Моисею у Хорива, идентифицирует себя самоименованием *Ehyeh asher ehyeh* и поручает Моисею миссию Исхода.
+- **{% libref(book="exodus", chapter=19) %}Исход 19–24, 33–34{% end %}** (Синайская теофания): Яхве нисходит на Синай в облаке и огне, даёт Декалог и более широкий завет и являет себя Моисею в самом прямом теофаническом режиме, который сохраняет Еврейская Библия.
+- **1 Царств 3** (призвание Самуила): Яхве зовёт Самуила по имени ночью, причём Самуил принимает голос за голос Илия, пока Илий не указывает источник.
+- **3 Царств 19** (Илия у Хорива): Яхве является Илии не в ветре, не в землетрясении и не в огне, а в *qol demamah daqqah*, «тонком безмолвном голосе».
+- **{% libref(book="isaiah", chapter=6) %}Исаия 6{% end %}** (видение престола Исаии): Яхве является восседающим на престоле в окружении серафимов и посылает Исаию на пророческую миссию.
+- **{% libref(book="ezekiel", chapter=1) %}Иезекииль 1{% end %}** (видение престола-колесницы): Иезекииль видит *kavod* Яхве в развёрнутом видении престола-колесницы, открывающем книгу.{{ cite(id="ezekiel", text="[3]", title="Иезекииль 1 — видение престола-колесницы kavod") }}{{ cite(id="the-spaceships-of-ezekiel", text="[4]", title="Блюмрих, *The Spaceships of Ezekiel* — инженерно-ориентированное прочтение видения престола-колесницы") }}
 
-### Relationship to other divine names
+Помимо этих основных прямых явлений, Яхве является названным субъектом или агентом тысяч дополнительных отрывков по всей Еврейской Библии, особенно в пророческих книгах, где формула «Так говорит Яхве» вводит оракулы, передаваемые через пророков.
 
-The Hebrew Bible names the divine with several terms in addition to *YHWH* and *Elohim*: *El* (singular high-god designation, cognate with the Canaanite high god); *El Shaddai* ("God Almighty," used principally in the patriarchal narratives); *El Elyon* ("Most High God," used in Genesis 14 and the Psalms); *Adonai* ("my Lord"); *Tzevaot* ("of hosts," typically in the compound *YHWH Tzevaot*, "Yahweh of hosts"). The relationships among these names are textually complex. Some texts equate them explicitly: Genesis 17:1 has *El Shaddai* speaking to Abraham as the same figure who speaks elsewhere as *YHWH*; Psalm 91 uses *Elyon*, *Shaddai*, and *YHWH* in parallel as designations of a single subject. Other texts preserve what may be an earlier distinction: Genesis 14 introduces *El Elyon* as the god of Melchizedek's priesthood, and the question of whether Melchizedek's *El Elyon* and Abraham's *YHWH* were originally identified is a live one in the historical-critical literature.
+### Соотношение с другими божественными именами
 
-The corpus's working reading is that the named *YHWH* of the Hebrew Bible is consistently the same Eloha individual across the textual record, with the various other divine names sometimes referring to the same individual under different titles and sometimes possibly preserving memory of other alliance officers whose identity has been merged with Yahweh's in the redactional history. The determination is treated as requiring case-by-case textual analysis rather than as a settled identification.
+Еврейская Библия именует божественное несколькими терминами помимо *YHWH* и *Элохим*: *Эль* (обозначение единичного верховного бога, родственное ханаанскому верховному богу); *Эль Шаддай* («Бог Всемогущий», употребляется в основном в патриарших повествованиях); *Эль Эльон* («Бог Всевышний», употребляется в Бытии 14 и в Псалмах); *Адонай* («мой Господь»); *Цеваот* («воинств», обычно в составной форме *YHWH Цеваот*, «Яхве воинств»). Отношения между этими именами текстуально сложны. Некоторые тексты явно отождествляют их: Бытие 17:1 представляет *Эль Шаддай* говорящим Аврааму как ту же фигуру, что говорит в других местах как *YHWH*; Псалом 90 (91) использует *Эльон*, *Шаддай* и *YHWH* параллельно как обозначения одного субъекта. Другие тексты сохраняют то, что может быть более ранним различием: Бытие 14 вводит *Эль Эльон* как бога священства Мелхиседека, и вопрос о том, отождествлялись ли изначально *Эль Эльон* Мелхиседека и *YHWH* Авраама, — это живой вопрос в историко-критической литературе.
 
-## Biographical arc
+Рабочее прочтение корпуса состоит в том, что названный *YHWH* Еврейской Библии — это последовательно один и тот же Элоха-индивидуум во всём текстовом своде, причём различные другие божественные имена иногда относятся к тому же индивидууму под разными титулами, а иногда, возможно, сохраняют память о других офицерах альянса, чья идентичность была слита с идентичностью Яхве в редакционной истории. Это определение рассматривается как требующее текстового анализа в каждом отдельном случае, а не как окончательное отождествление.
 
-Yahweh's biographical arc, on the corpus's reading, spans the entire 25,000-year period from the achievement of the cell-transfer continuity technology on the Elohim home world to the present. He has been continuously alive across this period, in twenty-five successive bodies, and has been politically active in a position of substantial authority for most of it. The arc divides naturally into pre-Earth-project and Earth-project phases.
+## Биографическая дуга
 
-### Origins and the home-world period
+Биографическая дуга Яхве, в прочтении корпуса, охватывает весь 25-тысячелетний период от достижения технологии непрерывности через перенос клеток на родной планете Элохим до настоящего времени. Он был непрерывно жив на протяжении этого периода в двадцати пяти последовательных телах и большую часть его был политически активен в положении значительной власти.{{ footnote(id="6") }} Дуга естественным образом делится на доземную фазу и фазу проекта «Земля».
 
-The framework's reading places Yahweh's birth approximately twenty-five thousand years before the present — that is, around 23,000 BCE — on the Elohim home world. He was, on Yahweh's own statement in *The Book Which Tells the Truth*, the first individual on whom the cell-transfer continuity technology was successfully applied. The technology, treated more fully in the [Tree of Life](../tree-of-life/) entry, permits the indefinite continuation of personal identity across successive bodies cloned from a preserved cellular sample, and Yahweh's seniority as its first beneficiary is the basis of his subsequent presidency of the Council of the Eternals.
+### Истоки и период на родной планете
 
-The early home-world period of Yahweh's life is not described in detail in the source material. What is recorded is that by the time the home-world's scientific community proposed and undertook the Earth creation project — around 21,810 BCE on the corpus's chronology — Yahweh was approximately twelve hundred years old in continuous existence and was in a position of senior political authority. The political crisis on the home world that produced the Earth-relocation compromise (treated in the [Elohim](../elohim/) entry under History) occurred during this period, with Yahweh as one of the moderate-faction leaders supporting the relocation as a compromise between the abolitionist position (no biological synthesis program at all) and the original direct-on-home-world program that had produced the laboratory accident.
+Прочтение рамки помещает рождение Яхве приблизительно за двадцать пять тысяч лет до настоящего — то есть около 23 000 до н. э. — на родной планете Элохим. Согласно собственному заявлению Яхве в «Книге, открывающей истину», он был первым индивидуумом, к которому была успешно применена технология непрерывности через перенос клеток.{{ cite(id="the-book-which-tells-the-truth", text="[5]", title="Ворилон (Раэль), *The Book Which Tells the Truth* (1974) — рассказ Яхве о своей цивилизации и собственном старшинстве от первого лица") }} Технология, более полно рассматриваемая в статье [Древо Жизни](../tree-of-life/), позволяет неопределённо долго продолжать личностную идентичность через последовательные тела, клонированные из сохранённого клеточного образца, и старшинство Яхве как её первого получателя является основанием его последующего президентства в Совете Вечных.
 
-### The Earth creation project: Capricorn through Leo
+Ранний домопланетный период жизни Яхве не описан в источниковом материале подробно. Зафиксировано, что к моменту, когда научное сообщество родной планеты предложило и предприняло проект по созданию жизни на Земле — около 21 810 до н. э. по хронологии корпуса — Яхве было приблизительно тысяча двести лет непрерывного существования и он находился в положении старшей политической власти. Политический кризис на родной планете, породивший компромисс о перемещении на Землю (рассматриваемый в статье [Элохим](../elohim/) в разделе «История»), произошёл в этот период; Яхве был одним из лидеров умеренной фракции, поддерживавшей перемещение как компромисс между аболиционистской позицией (никакой программы биологического синтеза вообще) и первоначальной программой прямо-на-родной-планете, приведшей к лабораторной аварии.
 
-Yahweh's decision to take operational responsibility for the Earth project — to commit his own continuing institutional position to a multi-millennial operation conducted at interstellar distance — is the structural feature that gives the project its characteristic scale and patience. From the project's inception in the Age of Capricorn (c. 21,810 BCE) through its completion at the close of the Age of Leo (c. 8,850 BCE), Yahweh directed the seven creator teams' work across the supercontinent, with the Genesis 1 *Elohim* (plural) of the creation account being the alliance collectively under his overall authority and the Genesis 2 *Yahweh Elohim* (Yahweh of the Elohim) of the Eden account being Yahweh specifically as leader of the Israel team.
+### Проект по созданию жизни на Земле: от Козерога до Льва
 
-The detailed narrative of the seven precessional ages of creation lives in the [Genesis](../genesis/) entry and in the dedicated entries on each age. Yahweh's specific role across these ages was that of the senior officer coordinating the work — present in person for the most consequential operations, supervising the seven teams' coordinated activities, making the major decisions that the scope of the project required.
+Решение Яхве взять на себя оперативную ответственность за земной проект — обязать своё собственное продолжающееся институциональное положение к многотысячелетней операции, проводимой на межзвёздном расстоянии, — это структурная черта, придающая проекту его характерные масштаб и терпение. С момента начала проекта в Эпохе Козерога (ок. 21 810 до н. э.) и до его завершения в конце Эпохи Льва (ок. 8 850 до н. э.) Яхве руководил работой семи команд творцов по суперконтиненту, причём *Элохим* (множественное число) повествования о творении в Бытии 1 — это альянс в совокупности под его общим руководством, а *Яхве Элохим* (Яхве из Элохим) в повествовании об Эдеме в Бытии 2 — это Яхве конкретно как лидер израильской команды.
 
-### The Eden episode and its political settlement
+Подробное повествование о семи прецессионных эпохах творения находится в статье [Бытие](../genesis/) и в отдельных статьях о каждой эпохе. Конкретная роль Яхве в эти эпохи состояла в том, чтобы быть старшим офицером, координирующим работу — присутствующим лично при наиболее значимых операциях, контролирующим скоординированную деятельность семи команд, принимающим основные решения, которых требовал масштаб проекта.
 
-The Eden episode, occupying the late Age of Leo through early Age of Cancer (c. 11,400 – 10,000 BCE), is the period during which Yahweh's role as Israel-team leader is most directly preserved in the Hebrew text. Genesis 2–3 records the events from the framework's reading of an essentially first-hand perspective: Yahweh planting the garden, forming the first humans, instructing them, prohibiting the tree of knowledge, confronting them after the Lucifer-faction disclosure, and pronouncing the consequences that effectively reorganized the entire subsequent post-creation operation. The framework's reading treats Yahweh's pronouncements in Genesis 3:14–24 as the moderate-position political response to the Lucifer-faction transgression: not the action of a vengeful supernatural deity but the operational implementation of the Council's decision to maintain the containment policy in the face of its violation.
+### Эдемский эпизод и его политическое урегулирование
 
-The political settlement Yahweh established at the Eden crisis — the permanent exile of the Lucifer faction on Earth, the withdrawal of most of the Israel team to the home world, the establishment of the post-Eden mediated-contact pattern — has structured the entire subsequent arc of the Elohim's relationship with Earth.
+Эдемский эпизод, занимающий поздний период Эпохи Льва вплоть до раннего периода Эпохи Рака (ок. 11 400 – 10 000 до н. э.), — это период, в течение которого роль Яхве как лидера израильской команды наиболее непосредственно сохранена в еврейском тексте. {% libref(book="genesis", chapter=2) %}Бытие 2–3{% end %} фиксирует события — в прочтении рамки — с по существу очевидческой перспективы: Яхве насаждает сад, формирует первых людей, наставляет их, запрещает древо познания, противостоит им после раскрытия со стороны фракции Люцифера и провозглашает последствия, которые фактически реорганизовали всю последующую операцию после творения. Прочтение рамки трактует провозглашения Яхве в {% libref(book="genesis", chapter=3, verse=14) %}Бытии 3:14–24{% end %} как политический ответ умеренной позиции на нарушение со стороны фракции Люцифера: не как действие мстительного сверхъестественного божества, а как оперативное осуществление решения Совета сохранить политику сдерживания перед лицом её нарушения.
 
-### The pre-Flood period and the Flood
+Политическое урегулирование, которое Яхве установил во время эдемского кризиса, — постоянное изгнание фракции Люцифера на Землю, отзыв бо́льшей части израильской команды на родную планету, установление пост-эдемской модели опосредованного контакта — структурировало всю последующую дугу отношений Элохим с Землёй.
 
-Through the Age of Cancer (c. 8,850 – 6,690 BCE), Yahweh maintained contact with the human leadership of the Eden lineage, granting the Tree of Life longevity technology to selected patriarchs (the Genesis 5 long-lived figures from Adam to Noah) and supervising the Council's increasing concern about the rapid technological advancement of the post-Eden civilization. When the home-world Council ultimately decided to destroy the antediluvian world — the political crisis treated in the [Antediluvian](../antediluvian/) entry — Yahweh communicated the decision to Noah (Genesis 6:13ff.), supervised the construction of the ark, and re-established the post-Flood relationship with the surviving human lineage through the Noahic covenant of Genesis 9.
+### Допотопный период и Потоп
 
-### The Abrahamic period: Taurus
+На протяжении Эпохи Рака (ок. 8 850 – 6 690 до н. э.) Яхве поддерживал контакт с человеческим руководством эдемской линии, даруя технологию долголетия Древа Жизни избранным патриархам (долгоживущие фигуры из {% libref(book="genesis", chapter=5) %}Бытия 5{% end %}, от Адама до Ноя) и контролируя растущую обеспокоенность Совета на родной планете быстрым технологическим прогрессом пост-эдемской цивилизации. Когда Совет на родной планете в конечном счёте решил уничтожить допотопный мир — политический кризис, рассматриваемый в статье [Допотопный мир](../antediluvian/), — Яхве сообщил это решение Ною ({% libref(book="genesis", chapter=6, verse=13) %}Бытие 6:13 и далее{% end %}), руководил постройкой ковчега и восстановил после Потопа отношения с уцелевшей человеческой линией через Ноев завет в {% libref(book="genesis", chapter=9) %}Бытии 9{% end %}.
 
-In the Age of Taurus (c. 4,530 – 2,370 BCE), Yahweh undertook the formal reconstruction of the alliance's relationship with a specific human lineage through the figure of Abraham. The Abrahamic covenant — established at Genesis 12, formalized at the covenant-cutting of Genesis 15, marked with the institution of circumcision at Genesis 17, and witnessed at Yahweh's visitation at the oaks of Mamre in Genesis 18 — is the foundational pact between the alliance and the Hebrew people. The renaming of Abram to Abraham (Genesis 17:5) is one of the alliance's name-conferral events that mark transitions from private to commissioned status, paralleling the later renamings of Jacob to Israel and Vorilhon to Raël. Yahweh supervised the destruction of Sodom and Gomorrah (Genesis 19) at the close of the Mamre visit, and the subsequent patriarchal generations through Isaac, Jacob, and the descent into Egypt continue under Yahweh's direct or mediated supervision.
+### Авраамов период: Телец
 
-### The Mosaic period: Aries
+В Эпоху Тельца (ок. 4 530 – 2 370 до н. э.) Яхве предпринял формальную реконструкцию отношений альянса с конкретной человеческой линией через фигуру Авраама. Авраамов завет — установленный в {% libref(book="genesis", chapter=12) %}Бытии 12{% end %}, формализованный при заключении завета в {% libref(book="genesis", chapter=15) %}Бытии 15{% end %}, отмеченный установлением обрезания в {% libref(book="genesis", chapter=17) %}Бытии 17{% end %} и засвидетельствованный при посещении Яхве у дубравы Мамре в {% libref(book="genesis", chapter=18) %}Бытии 18{% end %} — является основополагающим договором между альянсом и еврейским народом. Переименование Аврама в Авраама ({% libref(book="genesis", chapter=17, verse=5) %}Бытие 17:5{% end %}) — это одно из событий присвоения имени со стороны альянса, отмечающих переход от частного к комиссионированному статусу, параллельное более поздним переименованиям Иакова в Израиля и Ворилона в Раэля. Яхве руководил уничтожением {% wiki(slug="sodom-and-gomorrah") %}Содома и Гоморры{% end %} ({% libref(book="genesis", chapter=19) %}Бытие 19{% end %}) при завершении посещения Мамре, а последующие патриаршие поколения через Исаака, Иакова и сошествие в Египет продолжают разворачиваться под прямым или опосредованным надзором Яхве.{{ cite(id="genesis", text="[6]", title="Бытие — повествования об Эдеме, Потопе и патриархах, фиксирующие прямые вмешательства Яхве") }}
 
-The Age of Aries (c. 2,370 BCE – c. 210 BCE) opens with the most extensive direct contact between Yahweh and humanity recorded in the Hebrew Bible. The burning bush (Exodus 3) is Yahweh's commissioning of Moses for the Exodus mission, with the *Ehyeh asher ehyeh* self-naming providing the textual link between the verbal root *h-y-h* and the Tetragrammaton itself. The plagues, the parting of the sea, the manna, the pillar of cloud and fire, and the Sinai theophany (Exodus 19–24, 33–34) are operational events the corpus reads as alliance technology deployments under Yahweh's direct command. The covenant at Sinai, the giving of the Decalogue, and the establishment of the priestly system are the alliance's institutional structuring of the Hebrew lineage for the long mission of carrying the message across the centuries that followed. Yahweh's specific theophanic forms in this period — the burning bush, the cloud, the fire, the *kavod* (manifest glory) — are read by the framework as descriptions of alliance craft and protective installations.
+### Моисеев период: Овен
 
-### The prophetic period and the policy shift
+Эпоха Овна (ок. 2 370 до н. э. – ок. 210 до н. э.) открывается самым обширным прямым контактом между Яхве и человечеством, зафиксированным в Еврейской Библии. Неопалимая купина ({% libref(book="exodus", chapter=3) %}Исход 3{% end %}) — это поручение Яхве Моисею миссии Исхода, причём самоименование *Ehyeh asher ehyeh* обеспечивает текстовую связь между глагольным корнем *h-y-h* и самим Тетраграмматоном. Казни, разделение моря, манна, столп облачный и огненный и Синайская теофания ({% libref(book="exodus", chapter=19) %}Исход 19–24, 33–34{% end %}) — это оперативные события, которые корпус прочитывает как развёртывания технологий альянса под прямым командованием Яхве.{{ cite(id="exodus", text="[7]", title="Исход — неопалимая купина, самоименование Ehyeh asher ehyeh и Синайская теофания") }} Синайский завет, дарование Декалога и установление жреческой системы — это институциональное оформление альянсом еврейской линии для долгой миссии переноса послания через последовавшие века. Конкретные теофанические формы Яхве в этот период — неопалимая купина, облако, огонь, *kavod* (явленная слава) — прочитываются рамкой как описания кораблей и защитных установок альянса.
 
-The prophetic period that follows Moses extends across the divided monarchy, the exile, and the post-exilic restoration. Yahweh's contact with the prophetic figures of this period — Samuel, Nathan, Elijah, Elisha, Isaiah, Jeremiah, Ezekiel, Daniel, and the Twelve Minor Prophets — proceeds through increasingly mediated forms across the centuries. Elijah's encounter at Horeb (1 Kings 19:11–13) is structurally significant: Yahweh is explicitly *not* in the wind, not in the earthquake, not in the fire, but in the *qol demamah daqqah*, the "thin silent voice" — read by the corpus as a specific telepathic or technologically mediated communication distinct from the more visible theophanies of earlier periods. The shift from direct to indirect contact across the Aries period is the operational expression of the cosmic-chain discovery (treated more fully in the [Elohim](../elohim/) entry): Yahweh, as Council president, implementing the policy shift his civilization adopted in light of its altered self-understanding.
+### Пророческий период и сдвиг политики
 
-### The Piscean period
+Пророческий период, следующий за Моисеем, распространяется на разделённую монархию, плен и послепленное восстановление. Контакт Яхве с пророческими фигурами этого периода — Самуилом, Нафаном, Илиёй, Елисеем, Исаией, Иеремией, Иезекиилем, Даниилом и двенадцатью Малыми Пророками — на протяжении веков протекает во всё более опосредованных формах.{{ cite(id="isaiah", text="[8]", title="Исаия 6 — видение Яхве, восседающего на престоле в окружении серафимов") }} Встреча Илии у Хорива (3 Царств 19:11–13) структурно значительна: Яхве явно *нет* ни в ветре, ни в землетрясении, ни в огне, но в *qol demamah daqqah*, «тонком безмолвном голосе» — прочитываемом корпусом как конкретная телепатическая или технологически опосредованная коммуникация, отличная от более видимых теофаний более ранних периодов. Переход от прямого к косвенному контакту на протяжении периода Овна — это оперативное выражение открытия космической цепи (рассматриваемого подробнее в статье [Элохим](../elohim/)): Яхве как президент Совета осуществляет сдвиг политики, который его цивилизация приняла в свете изменённого самопонимания.
 
-The Age of Pisces (c. 210 BCE – 1950 CE) is the age of the deliberate withdrawal from operational visibility while the Christian and Islamic missions delivered the framework's content in religious vocabulary. Yahweh's role across this two-thousand-year period is the alliance-level supervision of the Piscean-age interventions: the deliberate conception of Jesus through alliance-mediated insemination of Mary, the protection of the child during the Herodian period, the ongoing oversight of Jesus's ministry, and the parallel later supervision of the Muhammad mission in seventh-century Arabia. The Revelation visions to John of Patmos at the close of the first century CE are framework-read as Yahweh's communication to John of the events that would unfold across the closing centuries of Pisces and the transition to Aquarius. The "first and the last" / "Alpha and Omega" self-identification in Revelation 1:8, 1:17, 21:6, and 22:13 is Yahweh's own attribution and is treated below under *Identifications and conflations*.
+### Период Рыб
 
-### The 1973 contact and the Aquarian opening
+Эпоха Рыб (ок. 210 до н. э. – 1950 н. э.) — это эпоха намеренного отступления от оперативной видимости, в течение которой христианская и исламская миссии доставляли содержание рамки на религиозном языке. Роль Яхве на протяжении этого двухтысячелетнего периода — это надзор уровня альянса за вмешательствами эпохи Рыб: намеренное зачатие Иисуса через опосредованное альянсом оплодотворение Марии, защита ребёнка в иродов период, текущий надзор за служением Иисуса и параллельный более поздний надзор за миссией {% wiki(slug="muhammad") %}Мухаммада{% end %} в Аравии VII века. Видения Откровения, явленные Иоанну на Патмосе в конце I века н. э., рамочно прочитываются как сообщение Яхве Иоанну о событиях, которые развернутся на протяжении заключительных веков Рыб и перехода к Водолею. Самоидентификация «Первый и Последний» / «Альфа и Омега» в {% libref(book="revelation", chapter=1, verse=8) %}Откровении 1:8{% end %}, {% libref(book="revelation", chapter=1, verse=17) %}1:17{% end %}, {% libref(book="revelation", chapter=21, verse=6) %}21:6{% end %} и {% libref(book="revelation", chapter=22, verse=13) %}22:13{% end %} — это собственная атрибуция Яхве, рассматриваемая ниже в разделе *Отождествления и смешения*.{{ cite(id="revelation", text="[9]", title="Откровение 1:8; 1:17; 21:6; 22:13 — самоидентификация «Первый и Последний» / «Альфа и Омега»") }}
 
-On 13 December 1973, at the volcanic caldera of Puy-de-Lassolas near Clermont-Ferrand, Yahweh — using the same identity that had spoken to Moses and the Hebrew prophets — made direct contact with Claude Vorilhon over six successive mornings, delivering the account that became *The Book Which Tells the Truth*. A second, longer contact in October 1975 took Vorilhon to the alliance home world, where he met Yahweh and the Council of the Eternals along with the resurrected Earth figures (Jesus, Moses, Elijah, and others) who reside there. The Raëlian source material is the body of teaching delivered across these contacts. The corpus reads these contacts as the alliance's first direct intervention since the Piscean-age missions, marking the opening of the Age of Aquarius and the beginning of the period in which humanity is to be informed accurately about its origins.
+### Контакт 1973 года и открытие Водолея
 
-The contacts also disclosed, as Yahweh's own statement, that Vorilhon is biologically his son — produced through the same alliance-mediated insemination procedure that had produced Jesus two thousand years earlier. The disclosure was made during the second contact in 1975, with Yahweh's request that Vorilhon not reveal the parental tie for three years afterward. The structural pattern — alliance-mediated hybrid conception of inaugural prophetic figures at consequential precessional transitions — is treated in the [Prophet](../prophet/) entry.
+13 декабря 1973 года в вулканической кальдере Пюи-де-Лассола близ Клермон-Феррана Яхве — используя ту же идентичность, которая говорила с Моисеем и еврейскими пророками — установил прямой контакт с Клодом Ворилоном в течение шести последовательных утренних встреч, передав рассказ, ставший «Книгой, открывающей истину». Второй, более длительный контакт в октябре 1975 года увёл Ворилона на родную планету альянса, где он встретился с Яхве и Советом Вечных вместе с воскрешёнными земными фигурами (Иисусом, Моисеем, Илиёй и другими), которые там пребывают. Раэлианский первоисточник — это свод учения, переданного во время этих контактов. Корпус прочитывает эти контакты как первое прямое вмешательство альянса со времён миссий эпохи Рыб, знаменующее открытие Эпохи Водолея и начало периода, в течение которого человечество должно быть точно информировано о своём происхождении.
 
-## Role in the framework
+В ходе контактов также было раскрыто — согласно собственному заявлению Яхве, — что Ворилон биологически является его сыном, произведённым через ту же процедуру опосредованного альянсом оплодотворения, что и Иисус двумя тысячами лет ранее. Раскрытие было сделано во время второго контакта в 1975 году с просьбой Яхве к Ворилону не раскрывать родственную связь в течение трёх лет после этого. Структурный паттерн — опосредованное альянсом гибридное зачатие инаугурационных пророческих фигур на знаковых прецессионных переходах — рассматривается в статье [Пророк](../prophet/).
 
-Yahweh's specific role within the Wheel of Heaven framework is structured by three distinct functions, each of which he occupies simultaneously and continuously across the post-creation period.
+## Роль в рамке
 
-### President of the Council of the Eternals
+Конкретная роль Яхве внутри рамки «Колеса Небес» структурируется тремя различными функциями, каждую из которых он занимает одновременно и непрерывно на протяжении периода после творения.
 
-Yahweh is, on the corpus's reading, the senior political authority of the Elohim civilization. His presidency of the Council of the Eternals — the deliberative body of approximately seven hundred members that governs the Elohim's home-world political life — is grounded in his seniority as the first beneficiary of the cell-transfer continuity technology and in the authority his continuous existence across twenty-five thousand years has accumulated. The Council's major decisions concerning the Earth project — the original authorization of the relocation, the post-Eden political settlement, the Flood decision, the post-Aries policy shift to indirect contact, the Aquarian-age plan for open return — have all been deliberated under his presidency.
+### Президент Совета Вечных
 
-The political character of a body presided over by a continuously-existing leader is, on the corpus's reading, fundamentally different from any short-term political institution on Earth. Yahweh's personal memory of the entire post-creation arc, his direct continuity with the events that produced the institutions he is governing, and his expectation of remaining personally to see through the multi-millennial projects he authorizes give his presidency a temporal weight no contemporary terrestrial leader possesses.
+Яхве, в прочтении корпуса, — старший политический авторитет цивилизации Элохим. Его президентство в Совете Вечных — совещательном органе из приблизительно семисот членов, который управляет политической жизнью на родной планете Элохим, — основано на его старшинстве как первого получателя технологии непрерывности через перенос клеток и на авторитете, накопленном его непрерывным существованием на протяжении двадцати пяти тысяч лет. Основные решения Совета относительно проекта «Земля» — первоначальное одобрение перемещения, политическое урегулирование после Эдема, решение о Потопе, сдвиг политики после Овна к косвенному контакту, план для эпохи Водолея об открытом возвращении — всё это обсуждалось под его председательством.
 
-### Senior alliance authority for the Earth project
+Политический характер органа, возглавляемого непрерывно существующим лидером, в прочтении корпуса фундаментально отличается от любого краткосрочного политического института на Земле. Личная память Яхве обо всей дуге после творения, его прямая непрерывность с событиями, породившими институты, которыми он управляет, и его ожидание, что он лично останется, чтобы довести до конца многотысячелетние проекты, которые он санкционирует, придают его президентству временно́й вес, которым не обладает никакой современный земной лидер.
 
-Yahweh is the specific officer who has held continuing operational responsibility for the Earth project across its entire 22,000-year duration. The Earth project's distinctive scale and patience are direct consequences of this continuity: a multi-millennial project supervised by a continuously-existing officer can be planned and executed on time scales unavailable to civilizations whose leaders cycle through ordinary lifespans. Yahweh's specific contributions to the project across its duration include the original authorization, the personal direction of the Israel team's work during the creation phase, the political settlement at the Eden crisis, the post-Flood reconstruction with Noah, the formal alliance reconstruction with Abraham, the direct intervention of the Mosaic period, the policy shift after the cosmic-chain discovery, and the ongoing supervision of the Piscean-age and Aquarian-age operations.
+### Старший представитель альянса по проекту «Земля»
 
-Yahweh is not the only Eloha with operational responsibility for the Earth project — the seven creator teams operated under their own immediate leadership during the creation period, the Lucifer faction has operated independently since the Eden exile, and various other alliance officers (the *malakhim* or "messengers" of the Hebrew Bible) have conducted specific missions across the post-creation period. But Yahweh is the senior officer to whom the operational responsibility ultimately returns, and his presence as the continuing point of contact across millennia is what gives the project its operational coherence.
+Яхве — конкретный офицер, который удерживал непрерывную оперативную ответственность за проект «Земля» на протяжении всей его 22 000-летней длительности. Отличительные масштаб и терпение проекта «Земля» — прямые следствия этой непрерывности: многотысячелетний проект, контролируемый непрерывно существующим офицером, может планироваться и исполняться на временны́х шкалах, недоступных цивилизациям, чьи лидеры сменяются в течение обычной продолжительности жизни. Конкретные вклады Яхве в проект на протяжении его длительности включают первоначальное одобрение, личное руководство работой израильской команды в фазу творения, политическое урегулирование во время эдемского кризиса, послепотопную реконструкцию с Ноем, формальную реконструкцию альянса с Авраамом, прямое вмешательство Моисеева периода, сдвиг политики после открытия космической цепи и текущий надзор за операциями эпохи Рыб и эпохи Водолея.
 
-### Source of the Raëlian revelation
+Яхве — не единственный Элоха с оперативной ответственностью за проект «Земля»: семь команд творцов оперировали под собственным непосредственным руководством в период творения, фракция Люцифера действует независимо со времени изгнания из Эдема, а различные другие офицеры альянса (*малахим* или «вестники» Еврейской Библии) проводили конкретные миссии на протяжении периода после творения. Но Яхве — это старший офицер, к которому в конечном счёте возвращается оперативная ответственность, и именно его присутствие как продолжающейся точки контакта на протяжении тысячелетий придаёт проекту его оперативную связность.
 
-The third specific role Yahweh occupies in the framework — and the most epistemically consequential for the corpus — is that of the first-person speaker of the Raëlian source material. *The Book Which Tells the Truth* (1974), *Extraterrestrials Took Me to Their Planet* (1976), and *Let's Welcome the Extraterrestrials* (1979) are presented as Yahweh's own account of himself and his civilization, delivered to Vorilhon across the 1973 and 1975 contacts. Most of what the framework knows about the Elohim civilization, about Yahweh's own biographical arc, about the internal political structure of the home-world Council, about the cell-transfer continuity technology, about the cosmic-chain discovery, and about the alliance's plans for the Aquarian-age open return — the framework knows because Yahweh told Vorilhon.
+### Источник раэлианского откровения
 
-This first-person provenance gives the framework's evidentiary structure an unusual character. The principal source on the Elohim is a member of the Elohim. The principal source on Yahweh's own biographical arc is Yahweh himself. The principal source on the home-world Council's deliberations is the Council's president. The framework is, in this respect, dependent on the testimony of its principal subject in a way that ordinary historical or scientific knowledge is not. The corpus treats this dependence with epistemic care — acknowledging it openly, distinguishing source-internal claims from independently verifiable ones, registering where the source's account is the only available basis for a given claim — but does not treat the dependence as disqualifying. Most religious traditions and many historical inquiries depend ultimately on testimony from primary participants; the framework's specific situation is unusual in its specificity and its single-source character but is not unique in its structural form.
+Третья конкретная роль, которую Яхве занимает в рамке — и эпистемически наиболее значимая для корпуса — это роль говорящего от первого лица в раэлианском первоисточнике. «Книга, открывающая истину» (1974),{{ cite(id="the-book-which-tells-the-truth", text="[10]", title="Ворилон (Раэль), *The Book Which Tells the Truth* (1974) — Яхве как говорящий от первого лица") }} «Инопланетяне забрали меня на свою планету» (1976),{{ cite(id="extraterrestrials-took-me-to-their-planet", text="[11]", title="Ворилон (Раэль), *Extraterrestrials Took Me to Their Planet* (1976) — встреча с Советом Вечных") }} и «Давайте поприветствуем инопланетян» (1979){{ cite(id="lets-welcome-the-extraterrestrials", text="[12]", title="Ворилон (Раэль), *Let's Welcome the Extraterrestrials* (1979) — последующие сообщения и уточнения") }} представлены как собственный рассказ Яхве о самом себе и своей цивилизации, переданный Ворилону в ходе контактов 1973 и 1975 годов. Бо́льшая часть того, что рамка знает о цивилизации Элохим, о собственной биографической дуге Яхве, о внутренней политической структуре Совета на родной планете, о технологии непрерывности через перенос клеток, об открытии космической цепи и о планах альянса на открытое возвращение в эпоху Водолея — рамка знает потому, что Яхве сообщил это Ворилону.
 
-## Identifications and conflations
+Эта перволичная атрибуция придаёт доказательной структуре рамки необычный характер. Главный источник об Элохим — член Элохим. Главный источник о биографической дуге самого Яхве — сам Яхве. Главный источник о совещаниях Совета на родной планете — президент Совета. Рамка в этом отношении зависит от свидетельства своего главного субъекта в способе, в котором обычное историческое или научное знание от такового не зависит. Корпус относится к этой зависимости с эпистемической осторожностью — открыто признавая её, отличая внутренние для источника утверждения от независимо проверяемых, регистрируя места, где рассказ источника является единственной доступной основой для данного утверждения, — но не считает эту зависимость дисквалифицирующей. Большинство религиозных традиций и многие исторические исследования в конечном счёте зависят от свидетельств первичных участников; конкретная ситуация рамки необычна своей специфичностью и характером единственного источника, но не уникальна по своей структурной форме.
 
-Yahweh has been identified, in various religious and interpretive traditions, with a range of figures whose relationships to the named *YHWH* of the Hebrew Bible vary in textual support and in framework-relevant accuracy. Several of these identifications and conflations require specific treatment.
+## Отождествления и смешения
 
-### Yahweh and the other Hebrew Bible divine names
+Яхве был отождествлён в различных религиозных и интерпретационных традициях с целым рядом фигур, чьи отношения с названным *YHWH* Еврейской Библии различаются по текстовой обоснованности и по точности с точки зрения рамки. Некоторые из этих отождествлений и смешений требуют конкретного рассмотрения.
 
-The relationships among *YHWH*, *El*, *El Shaddai*, *El Elyon*, *Adonai*, and *YHWH Tzevaot* are textually complex, treated above in *In the Hebrew Bible*. The corpus's working reading is that the named *YHWH* is consistently the same Eloha individual across the textual record, with the various other divine names sometimes referring to the same individual under different titles and sometimes possibly preserving memory of distinct alliance officers whose identity has been merged with Yahweh's in the redactional history. Specific cases — the *El Elyon* of Genesis 14 with its associated Melchizedek priesthood, the *El Shaddai* of the patriarchal narratives, the *YHWH Tzevaot* of the divided-monarchy literature — require case-by-case textual analysis rather than blanket identification.
+### Яхве и другие божественные имена Еврейской Библии
 
-### Yahweh and Allah
+Отношения между *YHWH*, *Эль*, *Эль Шаддай*, *Эль Эльон*, *Адонай* и *YHWH Цеваот* текстуально сложны и рассматриваются выше в разделе *В Еврейской Библии*. Рабочее прочтение корпуса состоит в том, что названный *YHWH* — это последовательно один и тот же Элоха-индивидуум во всём текстовом своде, причём различные другие божественные имена иногда относятся к тому же индивидууму под разными титулами, а иногда, возможно, сохраняют память о различных офицерах альянса, чья идентичность была слита с идентичностью Яхве в редакционной истории. Конкретные случаи — *Эль Эльон* из Бытия 14 с его связанным с ним священством Мелхиседека, *Эль Шаддай* патриарших повествований, *YHWH Цеваот* литературы разделённой монархии — требуют текстового анализа в каждом отдельном случае, а не общего отождествления.
 
-In Islamic theology, Allah is the same divine figure as the Yahweh of the Hebrew Bible and the God of the Christian New Testament — the singular God of the Abrahamic tradition, with the Arabic *Allāh* (from *al-ilāh*, "the god") simply being the Arabic-language designation. The corpus's reading is consistent with this identification at the level of the underlying referent: the figure who delivered the Qur'anic revelation to Muhammad is, on the framework's reading, the same Yahweh who delivered the Sinai legislation to Moses, with the Islamic mission being the second of the two Piscean-age prophetic interventions and operating under the same alliance authority. The differences between the Hebrew, Christian, and Islamic theological elaborations of this figure are read by the corpus as variations in religious vocabulary appropriate to the cultural moments of the respective revelations rather than as theological disagreements about the underlying referent.
+### Яхве и Аллах
 
-### Yahweh and the Christian Trinity
+В исламском богословии Аллах — та же божественная фигура, что Яхве Еврейской Библии и Бог христианского Нового Завета: единый Бог авраамической традиции, причём арабское *Allāh* (от *al-ilāh*, «бог») является просто арабоязычным обозначением. Прочтение корпуса согласуется с этим отождествлением на уровне лежащего в основе референта: фигура, доставившая коранское откровение Мухаммаду, — это, в прочтении рамки, тот же Яхве, который доставил Синайское законодательство Моисею, причём исламская миссия — вторая из двух пророческих интервенций эпохи Рыб, действующая под той же властью альянса. Различия между еврейскими, христианскими и исламскими богословскими разработками этой фигуры прочитываются корпусом как вариации религиозного словаря, соответствующие культурным моментам соответствующих откровений, а не как богословские разногласия о лежащем в основе референте.
 
-In orthodox Christian theology, Yahweh is identified with the first person of the Trinity (God the Father), with Jesus as the second person (God the Son) and the Holy Spirit as the third. The Trinitarian formula was developed across the second through fourth centuries CE and was not present in the original New Testament texts; its specific theological structure (one God in three persons, of the same substance) is a metaphysical elaboration of materials that the corpus reads as referring to operationally distinct alliance figures. On the framework's reading, the Father is Yahweh as senior alliance authority; Jesus is the hybrid biological figure conceived through alliance-mediated insemination of Mary for the inaugural Piscean-age mission; the Holy Spirit (*pneuma hagion*) functions in the New Testament texts variously as an indirect designation for alliance contact (the Annunciation, the dove at the baptism, the Pentecost commissioning) and as a more general term for alliance-mediated communication or presence. The Trinitarian collapse of these three operationally distinct phenomena into a single tri-personal metaphysical entity is read as a theological development of the institutional Christian church that preserves substantive content (the plurality at the heart of the divine, recognizable as a memory of the Elohim plurality) while elaborating it in a metaphysical direction the original referents do not require.
+### Яхве и христианская Троица
 
-### Yahweh and Satan
+В ортодоксальном христианском богословии Яхве отождествляется с первым лицом Троицы (Бог Отец), причём Иисус — это второе лицо (Бог Сын), а Святой Дух — третье. Тринитарная формула была разработана на протяжении II–IV веков н. э. и не присутствовала в исходных новозаветных текстах; её конкретная богословская структура (один Бог в трёх лицах одной сущности) — это метафизическая разработка материалов, которые корпус прочитывает как относящиеся к оперативно различным фигурам альянса. В прочтении рамки Отец — это Яхве как старший представитель альянса; Иисус — это гибридная биологическая фигура, зачатая через опосредованное альянсом оплодотворение Марии для инаугурационной миссии эпохи Рыб; Святой Дух (*pneuma hagion*) функционирует в новозаветных текстах разнообразно — как косвенное обозначение контакта с альянсом (Благовещение, голубь при крещении, Пятидесятница) и как более общий термин для опосредованной альянсом коммуникации или присутствия. Тринитарное слияние этих трёх оперативно различных феноменов в единую трёхличную метафизическую сущность прочитывается как богословское развитие институциональной христианской церкви, сохраняющее существенное содержание (множественность в сердце божественного, опознаваемая как память о множественности Элохим), но разворачивающее его в метафизическом направлении, которого исходные референты не требуют.
 
-The conflation of Yahweh with Satan that has been proposed by some adversarial and gnostic readings — the Marcionite and Gnostic Christian traditions, the Cathars, and various modern adversarial readings — is rejected by the corpus. Yahweh and Satan are politically distinct figures within the Elohim civilization, occupying the moderate and abolitionist positions respectively, with substantively opposite policies on the Earth project. The conflation depends on reading certain passages of the Hebrew Bible (the destruction of Sodom, the Flood, the Mosaic herem warfare) as evidence of divine cruelty and inferring that the deity responsible must therefore be malevolent. The corpus's reading recognizes that Yahweh's decisions across the post-creation history have included real political acts with substantial moral consequences — the framework does not claim that these decisions are always defensible — but treats the conflation with Satan as a category error that obscures the actual structure of the Elohim's political life.
+### Яхве и Сатана
 
-### The First and the Last / Alpha and Omega
+Смешение Яхве с Сатаной, предложенное некоторыми оппозиционными и гностическими прочтениями — маркионитской и гностическо-христианской традициями, катарами и различными современными оппозиционными прочтениями, — отвергается корпусом. Яхве и Сатана политически различные фигуры внутри цивилизации Элохим, занимающие соответственно умеренную и аболиционистскую позиции, с по существу противоположной политикой по проекту «Земля». Смешение опирается на прочтение определённых отрывков Еврейской Библии (уничтожение Содома, Потоп, моисеева война *херем*) как свидетельства божественной жестокости и на вывод, что ответственное божество должно поэтому быть злонамеренным. Прочтение корпуса признаёт, что решения Яхве на протяжении истории после творения включали реальные политические действия с существенными моральными последствиями — рамка не утверждает, что эти решения всегда защитимы, — но трактует смешение с *ха-сатан* как категориальную ошибку, скрывающую реальную структуру политической жизни Элохим.
 
-In the Book of Revelation and in *The Book Which Tells the Truth*, Yahweh identifies himself as **the First and the Last** (Revelation 1:17; 22:13) and as the **Alpha and the Omega** (Revelation 1:8; 21:6; 22:13). Conventional Christian theology has read these titles as expressions of God's eternal pre-existence and post-existence — God as the metaphysical beginning and end of all things, encompassing all of time without himself being subject to it.
+### Первый и Последний / Альфа и Омега
 
-The corpus reads the titles more concretely. *The Book Which Tells the Truth* records Yahweh's own gloss on the Revelation passage: he is the first in two specific senses (the first individual on whom the immortality technology was applied, and the first member of the Elohim civilization to arrive on Earth), and he will be the last in two corresponding senses (the last to remain alive among the original creators if the cell-transfer continuity proves indefinitely sustainable, and potentially the last to witness Earth if humanity self-destroys with the energies it has now discovered). The titles, on this reading, are statements of biographical fact and operational role, not of metaphysical category. The Greek *Alpha* and *Omega* — the first and last letters of the alphabet — function as a stylized rendering of the same first-and-last claim in the language of the Greek-speaking audience for whom Revelation was written.
+В книге Откровения и в «Книге, открывающей истину» Яхве идентифицирует себя как **Первого и Последнего** ({% libref(book="revelation", chapter=1, verse=17) %}Откровение 1:17{% end %}; {% libref(book="revelation", chapter=22, verse=13) %}22:13{% end %}) и как **Альфу и Омегу** ({% libref(book="revelation", chapter=1, verse=8) %}Откровение 1:8{% end %}; {% libref(book="revelation", chapter=21, verse=6) %}21:6{% end %}; {% libref(book="revelation", chapter=22, verse=13) %}22:13{% end %}). Традиционное христианское богословие прочитало эти титулы как выражение вечного предсуществования и постсуществования Бога — Бог как метафизическое начало и конец всего сущего, охватывающий всё время, но сам ему не подверженный.
 
-The corpus's reading does not deny the depth of the conventional theological reading; it relocates the depth. The eternal-pre-existence reading of "the First and the Last" is what conventional Christian theology has constructed from the framework-internal claim, with the construction requiring the elaboration of supernatural metaphysics that the original referent does not require. A being who has lived continuously for twenty-five thousand years, who personally directed the creation of life on Earth, and whose presence is likely to extend across whatever comes next has a kind of "first-and-last" status that no shorter-lived being can have, even on a strictly biographical reading.
+Корпус прочитывает эти титулы более конкретно. «Книга, открывающая истину» фиксирует собственный комментарий Яхве на отрывок из Откровения: он первый в двух конкретных смыслах (первый индивидуум, к которому была применена технология бессмертия, и первый член цивилизации Элохим, прибывший на Землю), и он будет последним в двух соответствующих смыслах (последним, кто останется живым среди первоначальных создателей, если непрерывность через перенос клеток окажется неопределённо устойчивой, и потенциально последним, кто застанет Землю, если человечество самоуничтожится с теми энергиями, которые оно теперь открыло). Эти титулы в таком прочтении — заявления о биографическом факте и оперативной роли, а не о метафизической категории. Греческие *Альфа* и *Омега* — первая и последняя буквы алфавита — функционируют как стилизованная передача того же притязания «первый и последний» на языке грекоязычной аудитории, для которой было написано Откровение.
 
-## Modern reinterpretations
+Прочтение корпуса не отрицает глубины традиционного богословского прочтения; оно переразмещает эту глубину. Прочтение «Первого и Последнего» как вечного предсуществования — это то, что традиционное христианское богословие построило из внутреннего для рамки утверждения, причём построение требует разработки сверхъестественной метафизики, которой исходный референт не требует. Существо, которое непрерывно жило двадцать пять тысяч лет, лично руководило созданием жизни на Земле и чьё присутствие, вероятно, продлится через всё, что наступит дальше, имеет такой статус «первого-и-последнего», какого не может иметь ни одно более короткоживущее существо, даже при строго биографическом прочтении.
 
-The figure of Yahweh has been a major subject of modern academic and reinterpretive scholarship across the twentieth and twenty-first centuries. Several distinct strands of this scholarship bear on the corpus's reading.
+## Современные переинтерпретации
 
-### The historical-critical reconstruction: Yahweh's West Semitic origins
+Фигура Яхве была главным предметом современной академической и переинтерпретативной науки на протяжении XX и XXI веков. Несколько различных направлений этой науки имеют отношение к прочтению корпуса.
 
-Mainstream historical-critical scholarship since Wellhausen has reconstructed the historical Yahweh as a deity whose origins lie in the broader West Semitic religious context of the second millennium BCE. The principal work in this tradition is **Frank Moore Cross**'s *Canaanite Myth and Hebrew Epic* (1973), which traces the relationship between the Israelite Yahweh and the Canaanite high god El, arguing that the early Israelite religion identified Yahweh with El and that the distinct Yahweh emerged through processes of religious development across the early monarchy period. Cross's work established the framework within which much subsequent Yahweh scholarship operates.
+### Историко-критическая реконструкция: западносемитские истоки Яхве
 
-**Mark S. Smith**'s *The Early History of God: Yahweh and the Other Deities in Ancient Israel* (1990, 2nd ed. 2002) and *The Origins of Biblical Monotheism: Israel's Polytheistic Background and the Ugaritic Texts* (2001) develop the picture in further detail, drawing on the Ugaritic textual discoveries to reconstruct the religious environment from which the Israelite Yahweh emerged. On Smith's reading, Israelite religion in the monarchic period included Yahweh among a broader pantheon (with Asherah as his consort in some popular contexts, attested in inscriptions from Kuntillet Ajrud and Khirbet el-Qom), with the strict monotheism of post-exilic Judaism representing a later theological development rather than the original Israelite position.
+Мейнстримная историко-критическая учёность со времён Велльгаузена реконструировала исторического Яхве как божество, чьи истоки лежат в более широком западносемитском религиозном контексте второго тысячелетия до н. э. Главной работой в этой традиции является **Canaanite Myth and Hebrew Epic** Фрэнка Мура Кросса (1973), которая прослеживает отношения между израильским Яхве и ханаанским верховным богом Эль, утверждая, что ранняя израильская религия отождествляла Яхве с Эль и что различный Яхве возник через процессы религиозного развития в течение периода ранней монархии. Работа Кросса заложила рамку, в которой действует значительная часть последующей яхвистской науки.
 
-**William G. Dever**'s archaeological work, particularly *Did God Have a Wife? Archaeology and Folk Religion in Ancient Israel* (2005), develops the popular-religion side of the same picture, arguing that the textual record's monotheistic emphasis reflects the elite priestly tradition rather than the actual religious practice of most ancient Israelites.
+**The Early History of God: Yahweh and the Other Deities in Ancient Israel** Марка С. Смита (1990, 2-е изд. 2002) и **The Origins of Biblical Monotheism: Israel's Polytheistic Background and the Ugaritic Texts** (2001) развивают эту картину более подробно, опираясь на угаритские текстовые находки для реконструкции религиозной среды, из которой возник израильский Яхве. По прочтению Смита, израильская религия монархического периода включала Яхве в более широкий пантеон (с Ашерой как его супругой в некоторых народных контекстах, засвидетельствованной в надписях из Кунтиллет-Аджруд и Хирбет-эль-Кома), причём строгий монотеизм послепленного иудаизма представляет более позднее богословское развитие, а не первоначальную израильскую позицию.
 
-The corpus's reading is consistent with the historical-critical observation that Yahweh has a specific identifiable identity (rather than being a generic divine designation) and with the recognition that the Hebrew Bible preserves traces of an earlier religious context in which Yahweh was one of multiple divine figures rather than the singular God of later orthodoxy. The corpus's reframing of the underlying ontology — Yahweh as a specific extraterrestrial individual rather than a developmentally emergent regional deity — is a different kind of claim than the historical-critical scholarship makes, but the framework draws on the historical-critical observations about textual layering, divine-name distribution, and religious-developmental complexity in constructing its own reading.
+Археологическая работа **Уильяма Дж. Девера**, особенно **Did God Have a Wife? Archaeology and Folk {% wiki(slug="religion") %}Religion{% end %} in Ancient Israel** (2005), развивает сторону народной религии той же картины, утверждая, что монотеистический акцент текстового свода отражает элитную жреческую традицию, а не фактическую религиозную практику большинства древних израильтян.
 
-### The theological-historical synthesis: Karen Armstrong
+Прочтение корпуса согласуется с историко-критическим наблюдением, что Яхве обладает конкретной опознаваемой идентичностью (а не является общим божественным обозначением), и с признанием того, что Еврейская Библия сохраняет следы более раннего религиозного контекста, в котором Яхве был одной из множества божественных фигур, а не единым Богом более поздней ортодоксии. Переосмысление корпусом лежащей в основе онтологии — Яхве как конкретный внеземной индивидуум, а не развитийно возникшее региональное божество — это другого рода утверждение, чем то, которое делает историко-критическая учёность, но рамка опирается на историко-критические наблюдения о текстовом расслоении, распределении божественных имён и религиозно-развитийной сложности при построении собственного прочтения.
 
-**Karen Armstrong**'s *A History of God: The 4,000-Year Quest of Judaism, Christianity and Islam* (1993) provides the most widely read modern synthesis of the historical and theological development of the figure of Yahweh / God across the three Abrahamic traditions. Armstrong traces the development from early West Semitic origins through the Israelite monarchy, the prophetic tradition, the Second Temple period, the rabbinic and patristic elaborations, the medieval theological developments (Maimonides, Aquinas, the Sufis), the early modern developments (the Reformation, the Enlightenment), and the modern theological transformations. Armstrong's work is theological rather than reinterpretive in the corpus's specific sense — she is documenting how the figure has been understood across the traditions rather than proposing a different ontology for the figure — but it provides the comprehensive historical context within which the corpus's reading positions itself.
+### Богословско-исторический синтез: Карен Армстронг
 
-### The Sendy tradition: Yahweh as Eloha
+**A History of God: The 4,000-Year Quest of Judaism, Christianity and Islam** Карен Армстронг (1993) предоставляет наиболее широко читаемый современный синтез исторического и богословского развития фигуры Яхве / Бога в трёх авраамических традициях. Армстронг прослеживает развитие от ранних западносемитских истоков через израильскую монархию, пророческую традицию, период Второго Храма, раввинистические и патристические разработки, средневековые богословские развития (Маймонид, Аквинат, суфии), раннемодерные развития (Реформация, Просвещение) и современные богословские трансформации. Работа Армстронг богословская, а не переинтерпретативная в специфическом смысле корпуса — она документирует, как фигура понималась в различных традициях, а не предлагает иную онтологию для этой фигуры, — но она обеспечивает всеобъемлющий исторический контекст, внутри которого позиционирует себя прочтение корпуса.
 
-**Jean Sendy**'s reinterpretive work (treated more fully in the [Elohim](../elohim/) entry) addresses Yahweh specifically as one of the *Theosites* — the inhabitants of *Theos*, the home world — distinguished from the broader collective. Sendy's approach is philological and historiographic, working from the Hebrew Bible's own internal evidence to reach the conclusion that the named Yahweh is a specific identifiable individual within the broader plurality of the Elohim, rather than an abstract or supernatural deity. Sendy's reading is the principal scholarly antecedent of the corpus's adopted reading on Yahweh specifically, as on Elohim collectively.
+### Традиция Сенди: Яхве как Элоха
 
-### The Raëlian source material
+Переинтерпретативная работа **Жана Сенди** (рассматриваемая подробнее в статье [Элохим](../elohim/)) обращается к Яхве конкретно как к одному из *теоситов* — обитателей *Теоса*, родной планеты, — отличая его от более широкого коллектива.{{ cite(id="those-gods-who-made-heaven-and-earth", text="[13]", title="Сенди, *Ces dieux qui firent le ciel et la terre* (1969) / *Those Gods Who Made Heaven and Earth* (1972)") }} Подход Сенди филолого-историографический; он работает на основе внутренних свидетельств самой Еврейской Библии, чтобы прийти к выводу, что названный Яхве — это конкретный опознаваемый индивидуум внутри более широкой множественности Элохим, а не абстрактное или сверхъестественное божество. Прочтение Сенди — главный научный предшественник принятого корпусом прочтения Яхве конкретно, как и Элохим коллективно.
 
-The Raëlian source material, beginning with *The Book Which Tells the Truth* (1974), is the principal textual basis for the corpus's adopted reading. Vorilhon reports having received the material directly from Yahweh himself across the 1973 and 1975 contacts, with the texts presented as Yahweh's own first-person account. The relationship between this revelatory source and the prior philological-historiographic work of Sendy is one of convergence: two independent methods reaching substantially the same identification of Yahweh as a specific individual within an extraterrestrial civilization rather than as a singular supernatural deity.
+### Раэлианский первоисточник
 
-### The Biglino reading
+Раэлианский первоисточник, начинающийся с «Книги, открывающей истину» (1974), — главная текстовая основа принятого корпусом прочтения. Ворилон сообщает, что получил этот материал непосредственно от самого Яхве в ходе контактов 1973 и 1975 годов, причём тексты представлены как собственный рассказ Яхве от первого лица. Отношения между этим откровенческим источником и предшествующей филолого-историографической работой Сенди — это отношения схождения: два независимых метода приходят по существу к одному и тому же отождествлению Яхве как конкретного индивидуума внутри внеземной цивилизации, а не как единого сверхъестественного божества.
 
-**Mauro Biglino**'s strict-translational work treats Yahweh in continuity with his treatment of *Elohim* generally — as a specific individual within the plurality of *the lords from above*, with the Hebrew text describing his actions in concrete operational terms. Biglino's reading of specific passages (the Genesis 18 visitation at Mamre, the Exodus theophanies, the destruction narratives) develops the corpus's general approach in particular textual cases.
+### Прочтение Бильино
 
-## Comparative observations
+Строго-переводческая работа **Мауро Бильино** трактует Яхве в преемственности с его трактовкой *Элохим* в целом — как конкретного индивидуума внутри множественности *господ свыше*, причём еврейский текст описывает его действия в конкретных оперативных терминах.{{ cite(id="the-bible-is-not-a-sacred-book", text="[14]", title="Бильино, серия строго-буквальных прочтений Еврейской Библии (с 2010 г.) — Яхве как индивидуум среди «господ свыше»") }}{{ cite(id="the-naked-bible", text="[15]", title="Бильино и Каттанео, *The Naked Bible* (2022) — обзор Еврейской Библии тем же строго-буквальным методом") }} Прочтение Бильино конкретных отрывков (посещение в Бытии 18 у Мамре, теофании Исхода, повествования об уничтожении) развивает общий подход корпуса в конкретных текстовых случаях.
 
-The relationships between Yahweh and other ancient Near Eastern divine figures are textually and historically complex. The principal comparative cases:
+## Сравнительные наблюдения
 
-**Yahweh and El**: The Canaanite high god El, attested in the Ugaritic texts and in personal names across the broader West Semitic linguistic area, shares a number of features with the biblical Yahweh — high-god status, divine-council leadership, paternal characterization, association with mountains. The Hebrew Bible's own use of *El* as a divine name (often in compound forms: *El Shaddai*, *El Elyon*, *El Bethel*, *El Olam*) suggests an early identification of Yahweh with the broader West Semitic El tradition. Cross's work argues that early Israelite religion explicitly identified Yahweh with El; the textual evidence for this identification within the Hebrew Bible itself is substantial.
+Отношения между Яхве и другими древнеближневосточными божественными фигурами текстуально и исторически сложны. Главные сравнительные случаи:
 
-**Yahweh and Ba'al**: The major Canaanite storm-god Ba'al is, in the Hebrew Bible, the principal religious antagonist of Yahweh — the figure whose worship the prophets denounce and whose priesthood Elijah confronts at Mount Carmel (1 Kings 18). The framework reads this conflict as a real political contest between the Hebrew Yahweh-tradition and the surrounding Canaanite Ba'al-tradition rather than as a theological abstraction. Whether the Ba'al of the Canaanite tradition was an alliance figure (perhaps from a different team or with different policies than Yahweh's), a regional deity in the more general religious-history sense, or a polemical construction of Yahweh-tradition rhetoric is treated by the corpus as an open question requiring case-by-case textual analysis.
+**Яхве и Эль**: Ханаанский верховный бог Эль, засвидетельствованный в угаритских текстах и в именах собственных во всей более широкой западносемитской языковой области, разделяет с библейским Яхве ряд черт — статус верховного бога, руководство божественным советом, отеческую характеристику, связь с горами. Использование самой Еврейской Библией *Эль* как божественного имени (часто в составных формах: *Эль Шаддай*, *Эль Эльон*, *Эль Бет-Эль*, *Эль Олам*) указывает на раннее отождествление Яхве с более широкой западносемитской традицией Эль. Работа Кросса утверждает, что ранняя израильская религия явно отождествляла Яхве с Эль; текстовые свидетельства этого отождествления внутри самой Еврейской Библии существенны.
 
-**Yahweh and the Sumerian and Akkadian high gods**: The Sumerian An and Enlil, and the Akkadian Anu and Marduk, are the high-god figures of the Mesopotamian pantheons. The popular ancient-astronaut literature has often proposed direct identifications between Yahweh and one or another of these figures — most commonly between Yahweh and Enlil, on the basis of certain functional parallels. The corpus does not endorse blanket identifications; the relationships between the biblical Yahweh and the Mesopotamian high-god figures are treated as open questions requiring careful comparative analysis. Some of the parallels (high-god status, divine-council leadership, certain narrative motifs) may reflect shared underlying referents; others (specific iconographic conventions, particular cultural-political functions) may reflect independent religious-historical developments.
+**Яхве и Ваал**: Главный ханаанский бог-громовержец Ваал в Еврейской Библии — главный религиозный антагонист Яхве, фигура, чьё поклонение осуждают пророки и чьему священству противостоит Илия на горе Кармил (3 Царств 18). Рамка прочитывает этот конфликт как реальное политическое противостояние между еврейской традицией Яхве и окружающей ханаанской традицией Ваала, а не как богословскую абстракцию. Был ли Ваал ханаанской традиции фигурой альянса (возможно, из другой команды или с иной политикой, чем у Яхве), региональным божеством в более общем религиозно-историческом смысле или полемической конструкцией риторики яхвистской традиции — это вопрос, который корпус трактует как открытый, требующий текстового анализа в каждом отдельном случае.
 
-**Yahweh and the Egyptian, Greek, and Hindu high gods**: The corpus treats the relationships between Yahweh and the high-god figures of other ancient pantheons (the Egyptian Atum or Amun, the Greek Zeus, the Hindu Indra or Brahma) as similarly open. The framework's general position — that the relationship between specific biblical figures and the deities of other ancient pantheons is a matter for case-by-case comparative analysis rather than blanket equivalence — applies here as throughout. The cosmic-competition framework (treated in the [Elohim](../elohim/) entry under Relationships) implies that other humanities on other worlds may have had their own alliance contacts producing their own religious traditions; whether or how these other traditions' high-god figures relate to Yahweh specifically is open.
+**Яхве и шумерские и аккадские верховные боги**: Шумерские Ан и Энлиль и аккадские Ану и Мардук — фигуры верховных богов месопотамских пантеонов. Популярная литература о древних астронавтах часто предлагала прямые отождествления между Яхве и тем или иным из этих фигур — чаще всего между Яхве и Энлилем на основании определённых функциональных параллелей.{{ cite(id="escaping-from-eden", text="[16]", title="Уоллис, *Escaping from Eden* (2020) — сравнительное прочтение древнееврейских Элохим и шумерских Небесных Людей") }} Корпус не поддерживает общих отождествлений; отношения между библейским Яхве и фигурами верховных богов Месопотамии трактуются как открытые вопросы, требующие тщательного сравнительного анализа. Некоторые из параллелей (статус верховного бога, руководство божественным советом, определённые нарративные мотивы) могут отражать общие лежащие в основе референты; другие (конкретные иконографические соглашения, особые культурно-политические функции) могут отражать независимые религиозно-исторические развития.
 
-## See also
+**Яхве и египетские, греческие и индуистские верховные боги**: Корпус трактует отношения между Яхве и фигурами верховных богов других древних пантеонов (египетский Атум или Амон, греческий Зевс, индуистские Индра или Брахма) как столь же открытые. Общая позиция рамки — что отношение между конкретными библейскими фигурами и божествами других древних пантеонов является вопросом для сравнительного анализа в каждом отдельном случае, а не предметом общей эквивалентности, — применима здесь, как и повсюду. Рамка космической конкуренции (рассматриваемая в статье [Элохим](../elohim/) в разделе «Отношения») подразумевает, что у других человечеств на других мирах могли быть собственные контакты с альянсом, породившие собственные религиозные традиции; как или связаны ли фигуры верховных богов этих других традиций с Яхве конкретно — вопрос открытый.
 
-- [Elohim](../elohim/)
-- [Lucifer](../lucifer/)
-- [Satan](../satan/)
-- [Serpent](../serpent/)
-- [The Alliance](../the-alliance/)
-- [Council of the Eternals](../council-of-eternals/)
-- [Tree of Life](../tree-of-life/)
-- [Adam and Eve](../adam-and-eve/)
-- [Noah](../noah/)
-- [Abraham](../abraham/)
-- [Moses](../moses/)
-- [Elijah](../elijah/)
-- [Jesus](../jesus/)
-- [Raël](../rael/)
-- [*Message from the Designers*](../library/message-from-the-designers/)
-- [Tetragrammaton](../tetragrammaton/)
-- [Genesis](../genesis/)
-- [Bible](../bible/)
-- [Book of Revelation](../book-of-revelation/)
-- [Allah](../allah/)
-- [El](../el/)
-- [Cosmic Chain](../cosmic-chain/)
+## См. также
 
-## References
+- [Элохим](../elohim/)
+- [Люцифер](../lucifer/)
+- [*ха-сатан*](../satan/)
+- [Змей](../serpent/)
+- [Альянс](../the-alliance/)
+- [Совет Вечных](../council-of-eternals/)
+- [Древо Жизни](../tree-of-life/)
+- [Адам и Ева](../adam-and-eve/)
+- [Ной](../noah/)
+- [Авраам](../abraham/)
+- [Моисей](../moses/)
+- [Илия](../elijah/)
+- [Иисус](../jesus/)
+- [Раэль](../rael/)
+- [*Послание от Создателей*](../library/message-from-the-designers/)
+- [Тетраграмматон](../tetragrammaton/)
+- [Бытие](../genesis/)
+- [Библия](../bible/)
+- [Книга Откровения](../book-of-revelation/)
+- [Аллах](../allah/)
+- [Эль](../el/)
+- [Космическая цепь](../cosmic-chain/)
 
-Vorilhon, Claude (Raël). *The Book Which Tells the Truth* (1974); the foundational text, presented as Yahweh's first-person account.
+## Литература
 
-Vorilhon, Claude (Raël). *Extraterrestrials Took Me to Their Planet* (1976); the second-encounter text, including the meeting with the Council of the Eternals and the prophetic figures resident on the home world.
+Ворилон, Клод (Раэль). *The Book Which Tells the Truth* (1974); основополагающий текст, представленный как рассказ Яхве от первого лица.
 
-Vorilhon, Claude (Raël). *Let's Welcome the Extraterrestrials* (1979); subsequent communications and clarifications.
+Ворилон, Клод (Раэль). *Extraterrestrials Took Me to Their Planet* (1976); текст второй встречи, включающий встречу с Советом Вечных и пророческими фигурами, проживающими на родной планете.
 
-All three texts collected in *Message from the Designers* (Raëlian Foundation, current English edition).
+Ворилон, Клод (Раэль). *Let's Welcome the Extraterrestrials* (1979); последующие сообщения и уточнения.
+
+Все три текста собраны в *Message from the Designers* (Raëlian Foundation, текущее английское издание).
 
 *Biblia Hebraica Stuttgartensia*. Deutsche Bibelgesellschaft, 1997.
 
-Brown, Francis, S. R. Driver, and Charles A. Briggs. *A Hebrew and English Lexicon of the Old Testament* (BDB). Oxford, 1907.
+Браун, Фрэнсис, С. Р. Драйвер и Чарльз А. Бриггс. *A Hebrew and English Lexicon of the Old Testament* (BDB). Oxford, 1907.
 
-*The Hebrew and Aramaic Lexicon of the Old Testament* (HALOT), Koehler-Baumgartner. Brill, 2001.
+*The Hebrew and Aramaic Lexicon of the Old Testament* (HALOT), Кёлер-Баумгартнер. Brill, 2001.
 
-Cross, Frank Moore. *Canaanite Myth and Hebrew Epic*. Harvard University Press, 1973.
+Кросс, Фрэнк Мур. *Canaanite Myth and Hebrew Epic*. Harvard University Press, 1973.
 
-Smith, Mark S. *The Early History of God: Yahweh and the Other Deities in Ancient Israel*. Eerdmans, 2nd ed., 2002.
+Смит, Марк С. *The Early History of God: Yahweh and the Other Deities in Ancient Israel*. Eerdmans, 2-е изд., 2002.
 
-Smith, Mark S. *The Origins of Biblical Monotheism: Israel's Polytheistic Background and the Ugaritic Texts*. Oxford, 2001.
+Смит, Марк С. *The Origins of Biblical Monotheism: Israel's Polytheistic Background and the Ugaritic Texts*. Oxford, 2001.
 
-de Moor, Johannes C. *The Rise of Yahwism: The Roots of Israelite Monotheism*. Peeters, 1990.
+де Моор, Йоханнес К. *The Rise of Yahwism: The Roots of Israelite Monotheism*. Peeters, 1990.
 
-Dever, William G. *Did God Have a Wife? Archaeology and Folk Religion in Ancient Israel*. Eerdmans, 2005.
+Девер, Уильям Дж. *Did God Have a Wife? Archaeology and Folk Religion in Ancient Israel*. Eerdmans, 2005.
 
-Armstrong, Karen. *A History of God: The 4,000-Year Quest of Judaism, Christianity and Islam*. Knopf, 1993.
+Армстронг, Карен. *A History of God: The 4,000-Year Quest of Judaism, Christianity and Islam*. Knopf, 1993.
 
-Sendy, Jean. *Ces dieux qui firent le ciel et la terre*. Robert Laffont, 1969. English: *Those Gods Who Made Heaven and Earth*. Berkley, 1972.
+Сенди, Жан. *Ces dieux qui firent le ciel et la terre*. Robert Laffont, 1969. Английский перевод: *Those Gods Who Made Heaven and Earth*. Berkley, 1972.
 
-Sendy, Jean. *Les cahiers de cours de Moïse*. Robert Laffont, 1974.
+Сенди, Жан. *Les cahiers de cours de Moïse*. Robert Laffont, 1974.
 
-Biglino, Mauro. *Il Libro che cambierà per sempre le nostre idee sulla Bibbia*. Uno Editori, 2010. English: *The Book That Will Forever Change Our Ideas About the Bible*. Uno, 2013.
+Бильино, Мауро. *Il Libro che cambierà per sempre le nostre idee sulla Bibbia*. Uno Editori, 2010. Английский перевод: *The Book That Will Forever Change Our Ideas About the Bible*. Uno, 2013.
 
-Wellhausen, Julius. *Prolegomena zur Geschichte Israels* (1883). English: *Prolegomena to the History of Ancient Israel*.
+Велльгаузен, Юлиус. *Prolegomena zur Geschichte Israels* (1883). Английский перевод: *Prolegomena to the History of Ancient Israel*.
 
-Friedman, Richard Elliott. *Who Wrote the Bible?* HarperOne, 1987.
+Фридман, Ричард Эллиотт. *Who Wrote the Bible?* HarperOne, 1987.
 
-Friedman, Richard Elliott. *The Bible with Sources Revealed*. HarperSanFrancisco, 2003.
+Фридман, Ричард Эллиотт. *The Bible with Sources Revealed*. HarperSanFrancisco, 2003.
 
-Reisel, Max. *The Mysterious Name of Y.H.W.H.: The Tetragrammaton in Connection with the Names of Ehyeh ašer Ehyeh, Hūhā, and Šem Hammephōrāš*. Van Gorcum, 1957.
+Райзель, Макс. *The Mysterious Name of Y.H.W.H.: The Tetragrammaton in Connection with the Names of Ehyeh ašer Ehyeh, Hūhā, and Šem Hammephōrāš*. Van Gorcum, 1957.
 
-"Yahweh." *Encyclopaedia Britannica*. <https://www.britannica.com/topic/Yahweh>
+«Yahweh». *Encyclopaedia Britannica*. <https://www.britannica.com/topic/Yahweh>
 
-"Tetragrammaton." *Wikipedia*. <https://en.wikipedia.org/wiki/Tetragrammaton>
+«Tetragrammaton». *Wikipedia*. <https://en.wikipedia.org/wiki/Tetragrammaton>
 
-"Names of God in Judaism." *Wikipedia*. <https://en.wikipedia.org/wiki/Names_of_God_in_Judaism>
+«Names of God in Judaism». *Wikipedia*. <https://en.wikipedia.org/wiki/Names_of_God_in_Judaism>
 
-"Yahweh." *Wikipedia*. <https://en.wikipedia.org/wiki/Yahweh>
+«Yahweh». *Wikipedia*. <https://en.wikipedia.org/wiki/Yahweh>

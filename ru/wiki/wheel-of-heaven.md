@@ -1,612 +1,688 @@
 +++
 title = "Wheel of Heaven"
-description = "Wheel of Heaven — документальный проект, сочленяющий через свои четыре уровня прочтения элохимическую гипотезу раэлианских источников, прецессионную рамку эпох мира и сходящиеся следы этой истории, оставленные в традициях планеты."
+slug = "wheel-of-heaven"
+description = "Wheel of Heaven — кураторский сравнительно-знаниевый проект, одновременно название интерпретационной рамки и корпуса, который её излагает, — сосредоточенный на откровении, космической хронологии, древней памяти, священной истории и современном переосмыслении. Рабочая гипотеза проекта: земная жизнь была произведена сознательной научной работой конкретной развитой цивилизации, называемой в Еврейской Библии *Элохим*, которая прибыла на Землю приблизительно 22 000 лет назад и на протяжении последующих прецессионных эпох вела проект планетной подготовки, синтеза жизни и в конечном счёте создания человечества по своему образу. Рамка опирается главным образом на раэлианский исходный материал (записи контактов Клода Ворильона 1973–1975 годов), доэлианскую работу Жана Сенди (более широкую рамку «Традиции»), прецессионно-мифологическую реконструкцию, изложенную в «Мельнице Гамлета» Джорджо де Сантильяны и Герты фон Дехенд (1969), и на широкое межкультурное собрание религиозно-мифологически-иконографически-археолого-текстуальных свидетельств, прочитываемых как сохранённая культурная память о проекте. Имя «Wheel of Heaven» несёт двойное значение: главным образом — прецессионный цикл (~25 920 лет), в ходе которого точка весеннего равноденствия смещается на фоне зодиакальных созвездий, организуя двенадцатиэпохальное повествование корпуса; вторично — образ колеса-в-колесе, сохранённый в видении Иезекииля (אוֹפַן בְּתוֹךְ הָאוֹפָן, *ofan betokh ha-ofan*) как один из фрагментов Еврейской Библии, фиксирующих наблюдение летательных аппаратов Элохим донаучным словарём. Корпус не является окончательным синтезом, но одной стадией продолжающегося коллективного проекта интеграции, и более широкая работа, как предполагается, продолжится в ближайшие десятилетия как через развитие самого корпуса, так и через параллельную работу других авторов и традиций."
 template = "wiki-page.html"
 toc = true
 
 [extra]
-translation_status = "metadata_only"
+featured_order = 4
 category = "Meta"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["the Wheel of Heaven framework", "the Wheel of Heaven corpus", "the Wheel of Heaven project", "the Wheel of Heaven thesis", "the framework (corpus-internal short form)", "the corpus (when referring to the written body of project content)"]
+alternative_names = ["рамка Wheel of Heaven", "корпус Wheel of Heaven", "проект Wheel of Heaven", "тезис Wheel of Heaven", "рамка (внутрикорпусная сокращённая форма)", "корпус (когда речь идёт о письменном своде содержимого проекта)"]
+see_also = [
+    { title = "Традиция", path = "wiki/the-tradition", description = "Более широкое русло сравнительных прочтений, в котором располагается проект." },
+    { title = "Метод Бильино", path = "wiki/biglino-method", description = "Литералистский подход к чтению еврейского текста, на который опирается проект." },
+    { title = "Сравнительная мифология", path = "wiki/comparative-mythology", description = "Научная дисциплина, которую проект применяет к внутрикорпусному прочтению." },
+    { title = "Мифема", path = "wiki/mytheme", description = "Единица сравнительного анализа, используемая проектом для отслеживания мотивов в разных традициях." },
+    { title = "Условия согласованности Сенди", path = "wiki/sendys-conditions-of-coherence", description = "Интерпретационные ограничения, которым проект стремится соответствовать при чтении священных текстов." },
+]
 timeline = ["multi-age"]
 
+footnotes = [
+    { content = "Цифра ~25 920 лет для Великого Года является внутрифреймворковым округлением: двенадцать прецессионных эпох ровно по 2 160 лет каждая. Современное астрономическое значение периода осевой прецессии, вычисленное по моделям прецессии-нутации МАС 2006, составляет приблизительно 25 772 года — само по себе медленно меняющаяся величина, а не строгая константа, поскольку скорость прецессии зависит от долговременных изменений орбитальной геометрии Земли и от лунно-солнечного момента сил. Предпочтение корпуса 25 920 отражает удобство организации рамки (двенадцать равных эпох), а не утверждение, что цикл буквально составляет 25 920 лет; разница — приблизительно 0,6 %." },
+    { content = "Образ колеса-в-колесе в Иезекииль 1:15–16 имеет долгую еврейскую и христианскую интерпретационную историю, не требующую прочтения через летательный аппарат. Главная еврейская традиция читает *офаним* как один из чинов небесных существ в традиции *меркавы* (трон-колесницы), причём литература *Хейхалот* и позднейшее маймонидово и каббалистическое осмысление развивают этот образ как видение структуры божественной реальности. Магистральная библейская наука — комментарий Гринберга в Anchor Bible, том Блока в NICOT — читает этот фрагмент как визионерско-пророческую риторику, а не буквальное описание. Прочтение корпуса берёт механическую конкретику описания (сцеплённое движение колёс, ободья, полные глаз, движение без поворота) как свидетельство наблюдения, а не риторики, не утверждая при этом, что стандартные интерпретационные традиции ошибаются относительно визионерского жанра." },
+    { content = "Цифра «приблизительно сорок пророков» является внутрикорпусным утверждением, взятым из записей Ворильона, и не выводится из внешних подсчётов по религиозным традициям. Разные традиции считают пророков по-разному: исламская традиция говорит о двадцати пяти именованных пророках в Коране при более широком корпусе в 124 000, посланных на протяжении человеческой истории; Еврейская Библия эксплицитно обозначает восемнадцать фигур *нави* по каноническим книгам; в традиции Бахаи в качестве центральных насчитываются девять Богоявлений. Корпус трактует эту цифру как собственное перечисление Яхве посланных альянсом посредников в изложении источника, а не как число, переводимое или выводимое из пророческого реестра какой-либо одной традиции." },
+    { content = "Является ли культ Атона при Эхнатоне подлинным монотеизмом, генотеизмом или политически мотивированной монолатрией, остаётся спорным среди египтологов. Сирил Олдред (1988) читает атонистскую реформу как подлинно монотеистическую в её зрелой фазе. Дональд Редфорд (1984) подчёркивает политико-экономические измерения — удар по жречеству Амона в Карнаке — а не теологические. Эрик Хорнунг (1999) трактует реформу как *генотеизм*, в котором другие боги не отрицались, но функционально упразднялись под универсальным солнечным диском. Корпус не занимает в вопросе атонистского монотеизма ни одной из позиций; предложенная связь «колесо небесное — летательный аппарат» регистрируется как одно из прочтений традиции, при этом признаётся, что главная египтологическая литература не содержит прямой текстуальной фиксации данной конкретной терминологии." },
+    { content = "Рамка корпуса работает ортогонально конкретным реконструкциям источников документальной гипотезы (J / E / D / P и различным последующим уточнениям через Ван Сетерса, Рендторфа, Шмида и более широкую поствельхаузеновскую традицию). Был ли Пятикнижие собран из четырёх дискретных документальных источников, из дополнительных слоёв вокруг яхвистского или жреческого ядра, или через фрагментно-редакционные процессы — это вопрос, внутренний для источниковедческой методологии; прочтение рамки внимательно к тому, что сохранившийся текст хранит о своих референтах, а не к композиционной истории, его произведшей. Два вопроса независимы: текст может быть композиционно сложным любым из способов, предложенных источниковедческой традицией, и при этом сохранять тот тип историко-референциального содержания, который рамка в нём прочитывает." },
+]
+
+[[extra.references]]
+id = "the-book-which-tells-the-truth"
+note = "Основополагающий раэлианский текст Ворильона 1974 года — главный источник конкретного содержания рамки; первый контакт в Клермон-Ферране 13 декабря 1973 года."
+
+[[extra.references]]
+id = "extraterrestrials-took-me-to-their-planet"
+note = "Вторая раэлианская работа Ворильона 1976 года — запись визита в Перигор в октябре 1975 года и изложения Яхве о родной планете."
+
+[[extra.references]]
+id = "lets-welcome-the-extraterrestrials"
+note = "Третья раэлианская работа Ворильона 1979 года — проект посольства и роль человечества в переходе к эре Водолея."
+
+[[extra.references]]
+id = "intelligent-design-message-from-the-designers"
+note = "Собранная раэлианская компиляция источников; цитируется как главное изложение утверждения о создателях-альянсе, организующего рабочую гипотезу корпуса."
+
+[[extra.references]]
+id = "those-gods-who-made-heaven-and-earth"
+note = "Доэлианское филологическое прочтение Элохим как физической цивилизации (Сенди, 1969) — существенная предшествующая артикуляция рамки Традиции."
+
+[[extra.references]]
+id = "the-coming-of-the-gods"
+note = "«L'Ère du Verseau» Сенди (1970) — оформление эры Водолея в рамках Традиции, основополагающее для прецессионно-зодиакального прочтения Еврейской Библии в корпусе."
+
+[[extra.references]]
+id = "hamlets-mill"
+note = "Основополагающий научный якорь Сантильяны и фон Дехенд (1969) для прецессионно-мифологического прочтения корпуса."
+
+[[extra.references]]
+id = "ezekiel"
+note = "Книга Еврейской Библии, содержащая образ колеса-в-колесе (Иезекииль 1:15–16), который закрепляет вторичное семантическое измерение названия проекта."
+
+[[extra.references]]
+id = "genesis"
+note = "Книга Еврейской Библии, чьё повествование о творении корпус читает как сжатую культурную память о проекте генной инженерии альянса."
+
+[[extra.references]]
+id = "the-12th-planet"
+note = "Основополагающая работа Ситчина 1976 года в рамке Ануннаков / Нибиру — рассматривается как смежное альтернативно-историческое прочтение с общим направлением, но иным основанием на исходном материале."
+
+[[extra.references]]
+id = "escaping-from-eden"
+note = "Строго-переводческое сравнительное прочтение Уоллиса (2020) Элохим Еврейской Библии — рассматривается как смежная рамка, фиксирующая общее направление."
+
+[[extra.references]]
+id = "the-naked-bible"
+note = "Строго-буквальный труд по переводу еврейского текста Бильино и Каттанео (2022) — методологический фон более широкого строго-переводческого направления Уоллиса."
+
+[[extra.references]]
+id = "prolegomena-zur-geschichte-israels"
+note = "Основополагающая артикуляция документальной гипотезы Вельгаузена 1878 года — якорь для взаимодействия корпуса с магистральной источниковедческой наукой о Еврейской Библии."
+
+[[extra.references]]
+id = "who-wrote-the-bible"
+note = "Доступное переизложение документальной гипотезы Фридмана (1987) — опорная точка корпуса в современной критической науке."
+
+[[extra.references]]
+id = "the-zohar-pritzker"
+note = "Перевод Зоар в издании Pritzker, выполненный Мэттом (2003–2017), — стандартная научная точка доступа к работе корпуса с Каббалой."
+
 [extra.infobox]
-type = "Curated comparative knowledge project; interpretive framework for the integrated reading of revelation, cosmic chronology, ancient memory, sacred history, and modern reinterpretation"
+type = "Кураторский сравнительно-знаниевый проект; интерпретационная рамка для интегрированного прочтения откровения, космической хронологии, древней памяти, священной истории и современного переосмысления"
 project_url = "https://www.wheelofheaven.world"
-project_status = "Active; ongoing development across multiple workstreams (wiki, library, blog, narrated introduction)"
-working_hypothesis = "Terrestrial life was produced by the deliberate scientific work of a specific advanced civilization, called in the Hebrew Bible the Elohim, who arrived on Earth approximately 22,000 years ago and conducted across twelve precessional ages a project of planetary preparation, life synthesis, and the eventual creation of humanity in their own image"
-principal_source_families = "Raëlian canonical texts (Claude Vorilhon, 1974 onward); Jean Sendy's pre-Raëlian Tradition framework (1963 onward); the precessional-mythological reconstruction of *Hamlet's Mill* (Santillana and von Dechend, 1969); the Hebrew Bible read with framework-specific hermeneutic; cross-cultural religious-mythological-archaeological evidence"
-principal_temporal_framework = "The precessional cycle (~25,920-year Great Year) divided into twelve precessional ages of approximately 2,160 years each; the corpus operational period extends from the Capricorn-age opening at -21,810 to the present Aquarian age (1950 corpus boundary, 1946 source-anchored boundary)"
-name_meaning_principal = "The precessional cycle as the 'wheel of heaven' that turns through the twelve zodiacal constellations across the Great Year; the principal organizing temporal-cosmological framework of the corpus"
-name_meaning_secondary = "The wheel-within-a-wheel imagery of Ezekiel's vision (Ezekiel 1:16, אוֹפַן בְּתוֹךְ הָאוֹפָן, *ofan betokh ha-ofan*) and broader Hebrew Bible spacecraft-imagery preserved in pre-scientific vocabulary"
-distinguished_from = "The Raëlian Movement (the corpus draws on Raëlian source material but is not affiliated with the institutional Raëlian Movement and does not require Raëlian commitments of its readers); Sendy's pre-Raëlian Tradition framework (the corpus extends Sendy's work substantially while retaining its principal interpretive moves); the broader 'ancient aliens' popular-television tradition (the corpus operates with substantially distinct epistemic standards and source-material discipline); mainstream comparative-religion scholarship (the corpus engages mainstream scholarship substantively but operates from distinctive interpretive commitments)"
+project_status = "Активный; продолжается развитие по нескольким направлениям (вики, библиотека, блог, озвученное введение)"
+working_hypothesis = "Земная жизнь была произведена сознательной научной работой конкретной развитой цивилизации, называемой в Еврейской Библии Элохим, которая прибыла на Землю приблизительно 22 000 лет назад и на протяжении двенадцати прецессионных эпох вела проект планетной подготовки, синтеза жизни и в конечном счёте создания человечества по своему образу"
+principal_source_families = "Раэлианские канонические тексты (Клод Ворильон, начиная с 1974 года); доэлианская рамка Традиции Жана Сенди (с 1963 года); прецессионно-мифологическая реконструкция «Мельницы Гамлета» (Сантильяна и фон Дехенд, 1969); Еврейская Библия, читаемая со специфической для рамки герменевтикой; межкультурные религиозно-мифологически-археологические свидетельства"
+principal_temporal_framework = "Прецессионный цикл (~25 920-летний Великий Год), делённый на двенадцать прецессионных эпох примерно по 2 160 лет каждая; рабочий период корпуса простирается от открытия эпохи Козерога в −21 810 году до настоящей эпохи Водолея (граница корпуса — 1950 год, привязанная к источнику граница — 1946 год)"
+name_meaning_principal = "Прецессионный цикл как «колесо небесное», поворачивающееся через двенадцать зодиакальных созвездий на протяжении Великого Года; главная организующая темпорально-космологическая рамка корпуса"
+name_meaning_secondary = "Образ колеса-в-колесе из видения Иезекииля (Иезекииль 1:16, אוֹפַן בְּתוֹךְ הָאוֹפָן, *ofan betokh ha-ofan*) и более широкая образность летательных аппаратов в Еврейской Библии, сохранённая в донаучном словаре"
+distinguished_from = "Раэлианское движение (корпус опирается на раэлианский исходный материал, но не аффилирован с институциональным Раэлианским движением и не требует от читателей раэлианских обязательств); доэлианская рамка Традиции Сенди (корпус существенно расширяет работу Сенди, сохраняя её главные интерпретационные шаги); более широкая популярно-телевизионная традиция «древних пришельцев» (корпус работает с существенно иными эпистемическими стандартами и дисциплиной обращения с исходным материалом); магистральная сравнительно-религиоведческая наука (корпус существенно взаимодействует с магистральной наукой, но исходит из отличительных интерпретационных обязательств)"
 governance_documents = "Project Charter; Editorial Style Guide; Chronology Rules; Nomenclature; Source Methodology; Chapter Index; Master Timeline"
-status_in_framework = "Foundational meta-concept; the entry that articulates what the broader project IS, what it draws on, what it claims, and how it operates"
+status_in_framework = "Основополагающий мета-концепт; запись, которая излагает, чем ЯВЛЯЕТСЯ более широкий проект, на что он опирается, что утверждает и как работает"
 +++
 
-**Wheel of Heaven** is a curated comparative knowledge project — both the name of an interpretive framework and the corpus that articulates it. The project is centered on revelation, cosmic chronology, ancient memory, sacred history, and modern reinterpretation, with the corpus assembling and integrating a wide body of religious-mythological-textual-archaeological evidence within a single coherent interpretive framework. The project exists as a public-facing web platform at **www.wheelofheaven.world**, supported by an extensive wiki, a library of curated source materials, a narrated introduction, and an ongoing blog tracking developments.
+**Wheel of Heaven** — кураторский сравнительно-знаниевый проект, одновременно название интерпретационной рамки и корпуса, который её излагает. Проект сосредоточен на откровении, космической хронологии, древней памяти, священной истории и современном переосмыслении, причём корпус собирает и интегрирует широкий свод религиозно-мифологически-текстуально-археологических свидетельств в рамках единой связной интерпретационной рамки. Проект существует как публичная веб-платформа по адресу **www.wheelofheaven.world**, поддерживаемая обширной вики, библиотекой кураторских исходных материалов, озвученным введением и постоянным блогом, отслеживающим развитие.
 
-The project's **working hypothesis**: terrestrial life was produced by the deliberate scientific work of a specific advanced civilization, called in the Hebrew Bible the **Elohim** (אֱלֹהִים, plural of *Eloha*), who arrived on Earth approximately 22,000 years ago and conducted across the subsequent precessional ages a project of planetary preparation, life synthesis, and the eventual creation of humanity in their own image. The hypothesis is provisional in the technical sense — *a working hypothesis*, advanced as a basis for further research — and the corpus is structured to support its ongoing investigation rather than to assert it as settled. The corpus distinguishes throughout between direct source claims, comparative observations, framework-specific interpretive synthesis, and open questions.
+**Рабочая гипотеза** проекта: земная жизнь была произведена сознательной научной работой конкретной развитой цивилизации, называемой в еврейской {% wiki(slug="bible") %}Библии{% end %} **Элохим** (אֱלֹהִים, множественное число от *Eloha*), которая прибыла на Землю приблизительно 22 000 лет назад и на протяжении последующих прецессионных эпох вела проект планетной подготовки, синтеза жизни и в конечном счёте создания человечества по своему образу. Гипотеза является провизорной в техническом смысле — *рабочей гипотезой*, выдвинутой в качестве основы для дальнейших исследований, — и корпус структурирован так, чтобы поддерживать её продолжающееся изучение, а не утверждать её как окончательно установленную. Корпус последовательно разграничивает прямые утверждения источников, сравнительные наблюдения, специфический для рамки интерпретационный синтез и открытые вопросы.
 
-The framework draws on four principal source families. **Raëlian canonical texts** — principally *The Book Which Tells the Truth* (1974), *Extra-Terrestrials Took Me to Their Planet* (1975), and *Let's Welcome the Extra-Terrestrials* (1979), collected as *Message from the Designers* — provide the most direct articulation of the framework's specific content, derived from Claude Vorilhon's December 1973 and October 1975 contact accounts. **Jean Sendy's pre-Raëlian work** — principally *Les cahiers de cours de Moïse* (1963), *La Lune, clé de la Bible* (1968), *Ces dieux qui firent le ciel et la terre* (1969), and *L'ère du Verseau* (1970) — provides substantive prior articulation of the broader Tradition framework, with particular attention to Hebrew Bible exegesis through the precessional-zodiacal lens. ***Hamlet's Mill*** by Giorgio de Santillana and Hertha von Dechend (1969) provides the principal scholarly anchor for the framework's precessional-mythological reading. **Cross-cultural religious-mythological-archaeological evidence** — drawn from Hebrew Bible, broader Mesopotamian, Egyptian, Greek, Vedic, Mesoamerican, Chinese, and various other traditions — supplies the comparative material the framework reads as preserved cultural memory of the project's various phases.
+Рамка опирается на четыре главные семьи источников. **Раэлианские канонические тексты** — главным образом «Книга, говорящая правду» (1974),{{ cite(id="the-book-which-tells-the-truth", text="[1]", title="Ворильон (Раэль), «Книга, говорящая правду» (1974) — основополагающий раэлианский текст, фиксирующий контакт в Клермон-Ферране в декабре 1973 года") }} «Инопланетяне увезли меня на свою планету» (1975){{ cite(id="extraterrestrials-took-me-to-their-planet", text="[2]", title="Ворильон (Раэль), «Инопланетяне увезли меня на свою планету» (1976) — запись визита в Перигор в октябре 1975 года и изложение о родной планете") }} и «Встретим инопланетян» (1979),{{ cite(id="lets-welcome-the-extraterrestrials", text="[3]", title="Ворильон (Раэль), «Встретим инопланетян» (1979) — проект посольства и переход к эре Водолея") }} собранные как «Послание от создателей»{{ cite(id="intelligent-design-message-from-the-designers", text="[4]", title="Ворильон (Раэль), «Разумный замысел: Послание от создателей» — собранная раэлианская компиляция источников") }} — дают наиболее прямую артикуляцию конкретного содержания рамки, выведенную из записей контактов Клода Ворильона декабря 1973 года и октября 1975 года. **Доэлианская работа Жана Сенди** — главным образом «Les cahiers de cours de Moïse» (1963), «La Lune, clé de la Bible» (1968), «Ces dieux qui firent le ciel et la terre» (1969){{ cite(id="those-gods-who-made-heaven-and-earth", text="[5]", title="Сенди, «Ces dieux qui firent le ciel et la terre» (1969) / «Эти боги, сотворившие небо и землю» — доэлианское филологическое прочтение Элохим как физической цивилизации") }} и «L'ère du Verseau» (1970){{ cite(id="the-coming-of-the-gods", text="[6]", title="Сенди, «L'Ère du Verseau» / «Пришествие богов» (1970) — оформление эры Водолея в рамках Традиции") }} — даёт существенную предшествующую артикуляцию более широкой рамки Традиции с особым вниманием к экзегезе Еврейской Библии через прецессионно-зодиакальную оптику. ***«Мельница Гамлета»*** Джорджо де Сантильяны и Герты фон Дехенд (1969){{ cite(id="hamlets-mill", text="[7]", title="де Сантильяна и фон Дехенд, «Мельница Гамлета» (1969) — основополагающий научный якорь для прецессионно-мифологического прочтения") }} даёт главный научный якорь прецессионно-мифологическому прочтению рамки. **Межкультурные религиозно-мифологически-археологические свидетельства** — взятые из Еврейской Библии, более широкого месопотамского, египетского, греческого, ведийского, мезоамериканского, китайского и различных других источников — поставляют сравнительный материал, который рамка прочитывает как сохранённую культурную память о различных фазах проекта.
 
-The name **Wheel of Heaven** carries a dual meaning. Principally, the wheel of heaven is the **precessional cycle** — the slow rotation of the vernal-equinox point through the twelve zodiacal constellations across the ~25,920-year Great Year, organizing the corpus's twelve-age narrative architecture. The corpus articulation: *"The image at the heart of this work is the wheel of heaven. The wheel is the precessional cycle, the slow rotation of the sky's apparent orientation across the twenty-five thousand nine hundred and twenty years of the Great Year."* Secondarily, the wheel of heaven echoes the **wheel-within-a-wheel imagery** preserved in Ezekiel's vision (Ezekiel 1:16, אוֹפַן בְּתוֹךְ הָאוֹפָן, *ofan betokh ha-ofan*) as one of several Hebrew Bible passages registering Elohim spacecraft observation in pre-scientific vocabulary. Both meanings register substantively within the broader framework — the primary as foundational temporal-cosmological architecture, the secondary as one of the principal source-textual anchors for the framework's spacecraft-imagery reading.
+Имя **Wheel of Heaven** несёт двойное значение. Главным образом колесо небесное — это **прецессионный цикл**, медленное вращение точки весеннего равноденствия через двенадцать зодиакальных созвездий на протяжении ~25 920-летнего {% wiki(slug="great-year") %}Великого Года{% end %}, которое организует двенадцатиэпохальную нарративную архитектуру корпуса. Формулировка корпуса: *«Образ, лежащий в сердцевине этой работы, — колесо небесное. Колесо — это прецессионный цикл, медленное вращение видимой ориентации неба на протяжении двадцати пяти тысяч девятисот двадцати лет Великого Года»*. Вторично колесо небесное перекликается с **образом колеса-в-колесе**, сохранённым в видении Иезекииля ({% libref(book="ezekiel-woh", chapter=1, verse=16) %}Иезекииль 1:16{% end %}, אוֹפַן בְּתוֹךְ הָאוֹפָן, *ofan betokh ha-ofan*) как одним из фрагментов Еврейской Библии, фиксирующих наблюдение летательных аппаратов Элохим донаучным словарём. Оба значения существенно регистрируются в более широкой рамке: первичное — как основополагающая темпорально-космологическая архитектура, вторичное — как один из главных источниково-текстуальных якорей для прочтения рамкой образности летательных аппаратов.
 
-The corpus is not a final synthesis but one stage in an ongoing collective project of integration. The corpus's own articulation: *"The present corpus is not the final synthesis. It is one stage in an ongoing project that will continue across the coming years and decades, both through the corpus's own continued development and through the parallel work of other authors and traditions engaging the same materials."* The project operates with explicit recognition that subsequent work will supplement, extend, and in some respects supersede the present articulation as the broader Aquarian-age recovery and integration of the alliance's communication continues.
+Корпус не является окончательным синтезом, но одной стадией продолжающегося коллективного проекта интеграции. Собственная формулировка корпуса: *«Настоящий корпус не является окончательным синтезом. Это одна стадия продолжающегося проекта, который будет развиваться в ближайшие годы и десятилетия — как через продолжающееся развитие самого корпуса, так и через параллельную работу других авторов и традиций, работающих с тем же материалом»*. Проект работает с эксплицитным признанием того, что последующая работа дополнит, расширит и в некоторых отношениях превзойдёт настоящую артикуляцию по мере того, как более широкое восстановление и интеграция коммуникации альянса в эру Водолея будет продолжаться.
 
-This entry articulates what the Wheel of Heaven project IS — its purpose, its working hypothesis, its source-material foundations, its corpus structure, its editorial principles, and how it positions itself within the broader landscape of related projects.
+Эта запись излагает, чем ЯВЛЯЕТСЯ проект Wheel of Heaven: его цель, его рабочую гипотезу, его источниково-материальные основания, его корпусную структуру, его редакционные принципы и то, как он позиционирует себя в более широком ландшафте смежных проектов.
 
-## Etymology and naming
+## Этимология и наименование
 
-The project name carries a dual semantic content that the corpus engages substantively in both registers.
+Название проекта несёт двойное семантическое содержание, которое корпус существенно задействует в обоих регистрах.
 
-### "Wheel" — the precessional cycle
+### «Колесо» — прецессионный цикл
 
-The principal meaning of "Wheel of Heaven" is the **precessional cycle**. The cycle is produced by the slow conical wobble of Earth's rotational axis under gravitational torque from the sun and moon — a real astronomical phenomenon completing one full rotation every approximately 25,920 years. As the axis traces its conical motion, the celestial pole moves slowly across the sky and the vernal-equinox point (the place where the sun rises on the first day of spring) drifts backward through the zodiacal constellations at approximately 2,160 years per constellation. The detailed treatment of the precessional cycle and its mechanics lives in the [World Age](../world-age/) entry; the detailed treatment of the zodiacal framework lives in the [Zodiac](../zodiac/) entry.
+Главное значение «Wheel of Heaven» — это **прецессионный цикл**. Цикл производится медленным коническим колебанием оси вращения Земли под гравитационным моментом сил Солнца и Луны — реальное астрономическое явление, совершающее полный оборот примерно каждые 25 920 лет. По мере того как ось описывает своё коническое движение, небесный полюс медленно перемещается по небу, а точка весеннего равноденствия (место, где Солнце восходит в первый день весны) дрейфует назад через зодиакальные созвездия со скоростью приблизительно 2 160 лет на созвездие. Подробная разработка прецессионного цикла и его механики живёт в записи [Эпоха мира](../world-age/); подробная разработка зодиакальной рамки — в записи [Зодиак](../zodiac/).
 
-The framework reads the precessional cycle as the principal organizing temporal-cosmological structure of the entire corpus narrative. Each of twelve precessional ages — Capricorn, Sagittarius, Scorpio, Libra, Virgo, Leo, Cancer, Gemini, Taurus, Aries, Pisces, Aquarius — operates as an engineering-operational phase of the alliance's twenty-two-thousand-year project on Earth, with specific tasks, characteristic interventions, and a doubled astronomical signature encoded in the religious-iconographic tradition of the cultures the alliance cultivated during that age.
+Рамка прочитывает прецессионный цикл как главную организующую темпорально-космологическую структуру всего нарратива корпуса. Каждая из двенадцати прецессионных эпох — Козерога, Стрельца, Скорпиона, Весов, Девы, Льва, Рака, Близнецов, Тельца, Овна, Рыб, Водолея — работает как инженерно-операционная фаза двадцатидвухтысячелетнего проекта альянса на Земле, с конкретными задачами, характерными вмешательствами и удвоенной астрономической сигнатурой, закодированной в религиозно-иконографической традиции культур, которые альянс культивировал в течение данной эпохи.
 
-The "wheel" metaphor is precise rather than poetic. The precessional cycle is literally a rotation — the celestial pole traces a circle on the celestial sphere; the equinoctial point traces a complete circuit through the zodiac. The image is genuinely a turning wheel. The corpus's articulation: *"The wheel keeps turning. The Aquarian age that opened in 1946 and that contains our present moment will, across the coming centuries, complete its 2,160-year arc and yield to the Capricorn age that follows. The Capricorn age will yield to Sagittarius, Sagittarius to Scorpio, and the cycle will continue across the coming twenty-two thousand years until a new Great Year completes itself and a further one begins."*
+Метафора «колеса» точна, а не поэтична. Прецессионный цикл буквально является вращением: небесный полюс описывает круг на небесной сфере; точка равноденствия описывает полный обход через зодиак. Образ — действительно поворачивающееся колесо.{{ footnote(id="1") }} Формулировка корпуса: *«Колесо продолжает поворачиваться. Эпоха Водолея, открывшаяся в 1946 году и заключающая наш настоящий момент, в ближайшие столетия завершит свою 2 160-летнюю дугу и уступит место следующей за ней эпохе Козерога. Эпоха Козерога уступит место Стрельцу, Стрелец — Скорпиону, и цикл будет продолжаться на протяжении следующих двадцати двух тысяч лет, пока не завершится новый Великий Год, после чего начнётся ещё один»*.
 
-### "Heaven" — the celestial sphere
+### «Небо» — небесная сфера
 
-The "heaven" of "Wheel of Heaven" is the celestial sphere — the apparent dome of sky against which celestial motion is observed. The English word *heaven* descends from Old English *heofon*, with cognates across the Germanic languages (German *Himmel*, Dutch *hemel*) and broader Indo-European parallels. The term has dual semantic content in religious-cosmological usage: the *physical sky* (the observed celestial dome) and the *cosmological-spiritual realm* (the abode of divine beings).
+«Небо» из «Wheel of Heaven» — это небесная сфера, видимый купол неба, на фоне которого наблюдается небесное движение. Английское слово *heaven* восходит к древнеанглийскому *heofon*, имеет когнаты в германских языках (немецкое *Himmel*, нидерландское *hemel*) и более широкие индоевропейские параллели. Термин имеет двойное семантическое содержание в религиозно-космологическом употреблении: *физическое небо* (наблюдаемый небесный купол) и *космологически-духовная сфера* (обитель божественных существ).
 
-The framework operates the term principally in its physical-celestial sense — the sky against which the precessional rotation is observed. The cosmological-spiritual sense remains present as secondary content, registering the framework's reading of the Elohim alliance as occupying a substantive cosmic-political position relative to humanity (the "heaven" from which they came is the broader cosmic civilizational order, of which humanity is a recently-created participant). The detailed treatment of the broader cosmic civilizational order lives in the [Cosmic Chain](../cosmic-chain/) entry.
+Рамка задействует термин главным образом в его физико-небесном смысле — небо, на фоне которого наблюдается прецессионное вращение. Космологически-духовный смысл сохраняется как вторичное содержание, регистрирующее прочтение рамкой альянса Элохим как занимающего существенное космополитическое положение по отношению к человечеству («небо», с которого они пришли, есть более широкий космический цивилизационный порядок, недавним участником которого стало человечество). Подробная разработка более широкого космического цивилизационного порядка живёт в записи [Космическая цепь](../cosmic-chain/).
 
-The Hebrew cognate שָׁמַיִם (*shamayim*, "heavens") operates similarly across the Hebrew Bible — both physical sky and cosmological domain. The Greek οὐρανός (*ouranos*) preserves the same dual content. The framework reads the broader cross-cultural "heaven" vocabulary as preserving substantive cultural memory of the actual cosmic-civilizational reality that the framework articulates.
+Еврейское когнатное שָׁמַיִם (*shamayim*, «небеса») работает аналогично в Еврейской Библии — это и физическое небо, и космологическая область. Греческое οὐρανός (*ouranos*) сохраняет то же двойное содержание. Рамка читает более широкий межкультурный словарь «неба» как сохраняющий существенную культурную память о реальной космическо-цивилизационной действительности, которую излагает рамка.
 
-### The secondary meaning — Ezekiel's wheel-within-a-wheel
+### Вторичное значение — колесо-в-колесе Иезекииля
 
-A secondary semantic dimension of "Wheel of Heaven" engages the **wheel-within-a-wheel imagery** of Ezekiel's vision. The principal passage appears at Ezekiel 1:15-16:
+Вторичное семантическое измерение «Wheel of Heaven» задействует **образ колеса-в-колесе** из видения Иезекииля. Главный фрагмент появляется в {% libref(book="ezekiel-woh", chapter=1, verse=15) %}Иезекииль 1:15–16{% end %}:
 
 > וָאֵרֶא הַחַיּוֹת וְהִנֵּה אוֹפַן אֶחָד בָּאָרֶץ אֵצֶל הַחַיּוֹת לְאַרְבַּעַת פָּנָיו
 > מַרְאֵה הָאוֹפַנִּים וּמַעֲשֵׂיהֶם כְּעֵין תַּרְשִׁישׁ וּדְמוּת אֶחָד לְאַרְבַּעְתָּן וּמַרְאֵיהֶם וּמַעֲשֵׂיהֶם כַּאֲשֶׁר יִהְיֶה הָאוֹפַן בְּתוֹךְ הָאוֹפָן
 > *Va'ere ha-chayot ve-hineh ofan echad ba-aretz etzel ha-chayot le-arba'at panav*
 > *Mareh ha-ofanim u-ma'asehem ke-ein tarshish u-demut echad le-arba'atan u-mar'eihem u-ma'aseihem ka-asher yihyeh ha-ofan be-tokh ha-ofan*
-> "Now as I beheld the living creatures, behold one wheel upon the earth by the living creatures, with his four faces. The appearance of the wheels and their work was like unto the colour of a beryl: and they four had one likeness: and their appearance and their work was as it were a wheel in the middle of a wheel."
+> «И смотрел я на животных, и вот, на земле подле этих животных по одному колесу перед четырьмя их лицами. Вид колёс и устроение их — как вид топаза, и подобие у всех четырёх одно; и по виду их и по устроению их казалось, будто колесо находилось в колесе».
 
-The Hebrew אוֹפַן (*ofan*, "wheel") in this passage is a technical noun for a circular rotating object. The phrase אוֹפַן בְּתוֹךְ הָאוֹפָן (*ofan betokh ha-ofan*, "wheel within the wheel") has produced substantial interpretive history across Jewish, Christian, and modern engagement traditions. The framework reads the passage as preserved description of an Elohim aerial vehicle observed by Ezekiel in approximately 593 BCE — the prophet recording what he saw in the pre-scientific vocabulary available to him. The corpus articulation: *"As for the 'flying saucers' or 'wheels', their appearance and their operation were not at all badly described considering it is a primitive person who is speaking. 'as it were a wheel within a wheel...they didn't turn when they went.' In the center of the flying saucer, very similar to the one in which we are now sitting, was the habitable section - the rim."*
+Еврейское אוֹפַן (*ofan*, «колесо») в этом фрагменте — технический термин для круглого вращающегося объекта. Выражение אוֹפַן בְּתוֹךְ הָאוֹפָן (*ofan betokh ha-ofan*, «колесо внутри колеса») породило значительную историю интерпретаций в еврейской, христианской и современной традициях работы с ним.{{ footnote(id="2") }} Рамка читает фрагмент как сохранённое описание воздушного аппарата Элохим, наблюдавшегося Иезекиилем приблизительно в 593 году до н. э. — пророк записал то, что видел, в донаучном словаре, доступном ему. Формулировка корпуса: *«Что до „летающих тарелок" или „колёс", их вид и работа описаны не так уж плохо, учитывая, что говорит примитивный человек: „как будто колесо было в колесе… они не поворачивались, когда шли". В центре летающей тарелки, очень похожей на ту, в которой мы сейчас сидим, находился обитаемый отсек — обод»*.
 
-The connection between the project name "Wheel of Heaven" and the Ezekiel imagery operates as a secondary semantic dimension rather than as the primary referent. The principal meaning remains the precessional cycle; the Ezekiel echo registers the framework's broader reading of the Hebrew Bible's spacecraft-imagery content.
+Связь между названием проекта «Wheel of Heaven» и образом из Иезекииля работает как вторичное семантическое измерение, а не как первичный референт. Главным значением остаётся прецессионный цикл; перекличка с Иезекиилем регистрирует более широкое прочтение рамкой содержания Еврейской Библии, связанного с образностью летательных аппаратов.
 
-### Other proposed name-anchors — epistemic note
+### Иные предложенные имяобразующие якоря — эпистемическое замечание
 
-Various interpretations have proposed additional anchors for the "Wheel of Heaven" designation, including a putative connection to **Akhenaten** (the 14th-century-BCE Egyptian pharaoh who established the Aten cult and founded the city of Akhetaten / modern Tell el-Amarna). One tradition holds that Akhenaten observed a disk-shaped aerial vehicle that the Egyptian record designated as a "wheel of heaven" — a connection registering substantive parallel content with the Ezekiel anchor.
+Различные интерпретации предлагают дополнительные якоря для обозначения «Wheel of Heaven», включая предполагаемую связь с **Эхнатоном** (египетским фараоном XIV века до н. э., который установил культ Атона и основал город Ахетатон / современный Телль-эль-Амарну). Одна традиция считает, что Эхнатон наблюдал дискообразный воздушный аппарат, который египетская запись обозначила как «колесо небесное», — связь, регистрирующая существенное параллельное содержание с якорем из Иезекииля.
 
-The corpus does not treat this Akhenaten connection as established. The principal Egyptological evidence for Akhenaten's religious-iconographic engagement runs through the **Aten** (אתן in transliterated form; the Egyptian solar disk depicted with rays ending in stylized hands offering the *ankh* sign of life), and the textual record from Amarna (the *Great Hymn to the Aten*, the various Boundary Stelae, the broader official inscriptions) does not contain a direct attestation of the specific "wheel of heaven" terminology applied to a flying object. The connection appears principally in popular-alternative-history sources without scholarly source-textual anchor. The corpus registers the proposed Akhenaten connection as one tradition holds it while flagging that the specific source-textual evidence remains unverified. Readers interested in the question are encouraged to consult primary Egyptological sources (Cyril Aldred's *Akhenaten: King of Egypt*, 1988; Donald B. Redford's *Akhenaten: The Heretic King*, 1984; the broader Amarna scholarly literature) and to draw their own conclusions.
+Корпус не считает эту связь с Эхнатоном установленной. Главные египтологические данные о религиозно-иконографических установках Эхнатона проходят через **Атон** (אתן в транслитерации; египетский солнечный диск, изображаемый с лучами, заканчивающимися стилизованными руками, протягивающими знак жизни *анх*), и текстовые свидетельства из Амарны («Великий гимн Атону», различные пограничные стелы, более широкие официальные надписи) не содержат прямой фиксации конкретной терминологии «колесо небесное», применённой к летающему объекту. Эта связь появляется главным образом в популярно-альтернативно-исторических источниках без научного источниково-текстуального якоря. Корпус регистрирует предложенную связь с Эхнатоном как версию одной из традиций, отмечая, что конкретные источниково-текстуальные данные остаются неподтверждёнными. Читателям, заинтересованным в этом вопросе, рекомендуется обращаться к первичным египтологическим источникам («Эхнатон: царь Египта» Сирила Олдреда, 1988; «Эхнатон: царь-еретик» Дональда Б. Редфорда, 1984; более широкая научная литература по Амарне) и делать собственные выводы.{{ footnote(id="3") }}
 
-The detailed treatment of Akhenaten's religious-historical role within the broader framework lives in the [Akhenaten](../akhenaten/) entry when written.
+Подробная разработка религиозно-исторической роли Эхнатона в более широкой рамке живёт в записи [Эхнатон](../akhenaten/), когда она будет написана.
 
-### Cross-cultural designations of the corpus
+### Межкультурные обозначения корпуса
 
-The corpus operates principally in English under the **Wheel of Heaven** designation. No alternative-language designations have been formalized; the corpus would be designated by direct translation in other languages (French *Roue du Ciel*, German *Himmelsrad*, Hebrew גַּלְגַּל הַשָּׁמַיִם *galgal ha-shamayim*, etc.) where relevant.
+Корпус работает главным образом на английском языке под обозначением **Wheel of Heaven**. Альтернативно-языковые обозначения не были формализованы; корпус обозначался бы прямым переводом в других языках (французское *Roue du Ciel*, немецкое *Himmelsrad*, еврейское גַּלְגַּל הַשָּׁמַיִם *galgal ha-shamayim* и т. д.), где это уместно.
 
-### Corpus-internal usage
+### Внутрикорпусное употребление
 
-The corpus uses several related but distinct designations:
-- **Wheel of Heaven** — the project name and the overarching interpretive framework
-- **the framework** (corpus-internal short form) — for the interpretive framework specifically
-- **the corpus** — the written body of project content
-- **the project** — the broader collaborative undertaking that produces the corpus
-- **the Wheel of Heaven thesis** — the working hypothesis articulated above
-- **the Wheel of Heaven worldview** — the broader interpretive position the corpus articulates
+Корпус использует несколько связанных, но различных обозначений:
+- **Wheel of Heaven** — название проекта и общая интерпретационная рамка
+- **рамка** (внутрикорпусная сокращённая форма) — для интерпретационной рамки конкретно
+- **корпус** — письменный свод содержимого проекта
+- **проект** — более широкое коллективное начинание, производящее корпус
+- **тезис Wheel of Heaven** — рабочая гипотеза, изложенная выше
+- **мировоззрение Wheel of Heaven** — более широкая интерпретационная позиция, излагаемая корпусом
 
-The detailed nomenclature governance lives in the project's `03-nomenclature.md` governance document.
+Подробное управление номенклатурой живёт в управленческом документе проекта `03-nomenclature.md`.
 
-## The working hypothesis
+## Рабочая гипотеза
 
-The Wheel of Heaven project advances a specific working hypothesis as the framework that organizes the corpus's interpretive work. The hypothesis is *provisional* in the technical sense — accepted as a basis for further investigation rather than asserted as settled fact — but the corpus operates substantively within the hypothesis's commitments to allow systematic engagement with the material.
+Проект Wheel of Heaven выдвигает конкретную рабочую гипотезу как рамку, организующую интерпретационную работу корпуса. Гипотеза *провизорна* в техническом смысле — принимается как основа для дальнейшего исследования, а не утверждается как окончательный факт, — но корпус существенно работает внутри обязательств гипотезы, чтобы позволить систематическое взаимодействие с материалом.
 
-### The principal claim
+### Главное утверждение
 
-The principal claim: terrestrial life was produced by the deliberate scientific work of a specific advanced civilization. The civilization in question — called in the Hebrew Bible the **Elohim** (אֱלֹהִים) — is a plural group of biological beings physiologically similar to humans but technologically far advanced. The Elohim are not gods in any supernatural sense; they are a civilization of biological beings who, approximately 22,000 years before the present, began the specific scientific project of creating life on Earth through genetic design and laboratory synthesis.
+Главное утверждение: земная жизнь была произведена сознательной научной работой конкретной развитой цивилизации. Эта цивилизация — называемая в Еврейской Библии **Элохим** (אֱלֹהִים) — это множественная группа биологических существ, физиологически подобных людям, но технологически значительно более продвинутых. Элохим — это не боги в каком-либо сверхъестественном смысле; это цивилизация биологических существ, которые приблизительно 22 000 лет до настоящего момента начали конкретный научный проект создания жизни на Земле через генетическое проектирование и лабораторный синтез.
 
-The principal articulation of this claim derives from the Raëlian source material: *"life on Earth was produced by the scientific work of a specific advanced civilization. The civilization in question, the Elohim, is a plural group of individuals of a species physiologically similar to humans but technologically far advanced. The Elohim are not gods in any supernatural sense. They are a civilization of biological beings who, approximately twenty-two thousand years before the present, began the specific scientific project of creating life on Earth through genetic design and laboratory synthesis."*
+Главная артикуляция этого утверждения берётся из раэлианского исходного материала:{{ cite(id="intelligent-design-message-from-the-designers", text="[8]", title="Ворильон (Раэль), «Разумный замысел: Послание от создателей» — главный раэлианский источник утверждения о создателях-альянсе") }} *«Жизнь на Земле была произведена научной работой конкретной развитой цивилизации. Данная цивилизация, Элохим, — это множественная группа индивидов вида, физиологически подобного людям, но технологически значительно более продвинутого. Элохим — это не боги в каком-либо сверхъестественном смысле. Это цивилизация биологических существ, которые приблизительно двадцать две тысячи лет до настоящего момента начали конкретный научный проект создания жизни на Земле через генетическое проектирование и лабораторный синтез»*.
 
-The detailed treatment of the Elohim civilization lives in the [Elohim](../elohim/) entry.
+Подробная разработка цивилизации Элохим живёт в записи [Элохим](../elohim/).
 
-### The supporting claims
+### Сопутствующие утверждения
 
-Five additional claims operate as substantive components of the broader working hypothesis:
+Пять дополнительных утверждений работают как существенные компоненты более широкой рабочей гипотезы:
 
-**1. The cultural-memory preservation claim.** The Hebrew Bible and the other major religious traditions of the world preserve accurate cultural memory of the alliance's interventions, in forms that reflect the pre-scientific vocabularies of their authors but that can be decoded by a scientifically mature reader. The framework's distinctive hermeneutic — Genesis 1 as genetic engineering rather than supernatural creation, the *Nephilim* as alliance-human hybrids, the flood as nuclear cataclysm, Sinai as formal alliance audience, the *Elohim* as plural rather than singular — is the corpus's foundational interpretive move. The detailed treatment of the Hebrew Bible content lives in the [Hebrew Bible](../hebrew-bible/) entry.
+**1. Утверждение о сохранении культурной памяти.** Еврейская Библия и другие крупные религиозные традиции мира сохраняют достоверную культурную память о вмешательствах альянса в формах, отражающих донаучные словари их авторов, но поддающихся декодированию научно зрелым читателем. Отличительная герменевтика рамки — {% wiki(slug="genesis") %}Бытие{% end %} 1{{ cite(id="genesis", text="[9]", title="Бытие — главный источник Еврейской Библии для прочтения корпусом творения как генной инженерии под руководством альянса") }} как генная инженерия, а не сверхъестественное творение, *Нефилим* как гибриды альянс — человек, потоп как ядерный катаклизм, Синай как формальная аудиенция альянса, *Элохим* как множественное, а не единственное число — есть основополагающий интерпретационный шаг корпуса. Подробная разработка содержания Еврейской Библии живёт в записи [Еврейская Библия](../hebrew-bible/).
 
-**2. The prophetic-tradition claim.** The alliance has sent approximately forty prophets across human history, each appropriate to the specific cultural moment at which they appeared, and each contributing to the cumulative preparation of humanity for the present Aquarian-age revelation. The list includes Adam, Noah, Abraham, Moses, Elijah, Isaiah, Ezekiel, Daniel, Buddha, Zoroaster, Jesus, Muhammad, Joseph Smith, Bahá'u'lláh, and various others. The detailed treatment lives in the [Prophet](../prophet/) entry.
+**2. Утверждение о пророческой традиции.** Альянс посылал приблизительно сорок пророков на протяжении человеческой истории, каждый из которых соответствовал конкретному культурному моменту своего появления и вносил вклад в кумулятивную подготовку человечества к настоящему откровению эры Водолея.{{ footnote(id="4") }} Список включает Адама, Ноя, Авраама, Моисея, {% wiki(slug="elijah") %}Илию{% end %}, Исаию, Иезекииля, Даниила, Будду, Зороастра, Иисуса, Мухаммеда, Джозефа Смита, Бахауллу и различных других. Подробная разработка живёт в записи [Пророк](../prophet/).
 
-**3. The scientific-maturity claim.** Humanity has now reached, or is rapidly approaching, the scientific maturity that will permit it to understand and evaluate the alliance's teaching on its own terms. The Piscean-age arrangement — under which the alliance had stepped back from direct intervention to allow humanity to develop scientifically — has reached its conclusion. Humanity's own capacities in biology, physics, computing, and aerospace have advanced to the point where the alliance's interventions no longer look miraculous but look like what they actually are: applications of technology that humanity is itself beginning to develop.
+**3. Утверждение о научной зрелости.** Человечество ныне достигло — или быстро приближается к — научной зрелости, которая позволит ему понять и оценить учение альянса на его собственных условиях. Договорённость эры Рыб — при которой альянс отступил от прямого вмешательства, чтобы позволить человечеству научно развиваться, — достигла своего завершения. Собственные способности человечества в биологии, физике, вычислениях и аэрокосмосе продвинулись до точки, где вмешательства альянса больше не выглядят чудесными, а выглядят тем, чем они на самом деле являются: применениями технологий, которые человечество само начинает разрабатывать.
 
-**4. The imminent-return claim.** The alliance intends to return to Earth openly and officially within the coming decades, at a specific site that humanity is to prepare — the **embassy** — located in a country that has granted the alliance extraterritorial status over approximately four square kilometers. The detailed treatment lives in the [Embassy](../embassy/) entry.
+**4. Утверждение о неминуемом возвращении.** Альянс намеревается открыто и официально вернуться на Землю в ближайшие десятилетия, на конкретный участок, который должно подготовить человечество, — **посольство**, расположенное в стране, которая предоставит альянсу экстерриториальный статус над примерно четырьмя квадратными километрами. Подробная разработка живёт в записи [Посольство](../embassy/).
 
-**5. The cosmic-inheritance claim.** Humanity, having matured, will itself become a creating civilization — extending the alliance's work to other worlds across the galactic neighborhood, establishing the next iteration of the broader cosmic civilizational pattern. The detailed treatment lives in the [Cosmic Chain](../cosmic-chain/) entry.
+**5. Утверждение о космическом наследовании.** Человечество, повзрослев, само станет творящей цивилизацией — расширяющей работу альянса на другие миры по галактической окрестности, устанавливающей следующую итерацию более широкого космического цивилизационного образца. Подробная разработка живёт в записи [Космическая цепь](../cosmic-chain/).
 
-### The epistemic status
+### Эпистемический статус
 
-The corpus is explicit about the epistemic status of its working hypothesis. The hypothesis is not claimed as proven; it is offered as a coherent interpretive framework that the corpus's reader is invited to evaluate against alternatives. The corpus's articulation of its own epistemic posture: *"What can be said is the closure of the first cycle... The corpus is not a closed system. It is an open invitation to evaluation."*
+Корпус эксплицитен относительно эпистемического статуса своей рабочей гипотезы. Гипотеза не заявляется как доказанная; она предлагается как связная интерпретационная рамка, которую читателю корпуса предлагается оценить относительно альтернатив. Артикуляция корпусом собственной эпистемической позиции: *«Что можно сказать — это закрытие первого цикла… Корпус не является закрытой системой. Это открытое приглашение к оценке»*.
 
-The framework's distinctive contribution is the integration. Many of the individual claims have been advanced separately by various traditions and scholars: the Raëlian movement advances the alliance-creator claim; *Hamlet's Mill* advances the precessional-mythological reading; alternative-history scholars (Hancock, Bauval, Sitchin) advance various lost-civilization and ancient-contact readings; mainstream archaeoastronomy advances the cross-cultural-celestial-encoding reading; mainstream Hebrew Bible scholarship advances various textual-historical readings. What the Wheel of Heaven project adds is the systematic integration of these various source-material families within a single coherent framework, with explicit attention to the chronological-temporal architecture, the cross-cultural comparative content, and the epistemic distinctions between source claims, comparative observations, and framework-specific interpretive synthesis.
+Отличительный вклад рамки — это интеграция. Многие из отдельных утверждений отдельно выдвигались различными традициями и учёными: раэлианское движение выдвигает утверждение о создателях-альянсе; «Мельница Гамлета» выдвигает прецессионно-мифологическое прочтение; альтернативно-исторические исследователи (Хэнкок, Бовал, Ситчин) выдвигают различные прочтения, связанные с утраченной цивилизацией и древним контактом; магистральная археоастрономия выдвигает прочтение межкультурного-небесного-кодирования; магистральная наука о Еврейской Библии выдвигает различные текстуально-исторические прочтения. Что добавляет проект Wheel of Heaven — это систематическая интеграция этих различных семей исходных материалов в рамках единой связной рамки, с эксплицитным вниманием к хронологически-темпоральной архитектуре, межкультурному сравнительному содержанию и эпистемическим различиям между утверждениями источников, сравнительными наблюдениями и специфическим для рамки интерпретационным синтезом.
 
-The detailed treatment of the broader source-methodology lives in the project's `04-source-methodology.md` governance document.
+Подробная разработка более широкой источниковой методологии живёт в управленческом документе проекта `04-source-methodology.md`.
 
-## The corpus structure
+## Структура корпуса
 
-The Wheel of Heaven corpus is organized as a multi-component knowledge architecture supporting various reader engagements.
+Корпус Wheel of Heaven организован как многокомпонентная архитектура знаний, поддерживающая различные виды читательского взаимодействия.
 
-### The wiki
+### Вики
 
-The principal corpus component is the **wiki** — a curated comparative knowledge base assembled across several hundred entries covering figures, places, events, periods, concepts, texts, and precessional ages. The wiki operates as the corpus's principal reference architecture, with entries cross-referenced through a substantial internal-link structure.
+Главным компонентом корпуса является **вики** — кураторская сравнительная база знаний, собранная по нескольким сотням записей, охватывающих фигуры, места, события, периоды, понятия, тексты и прецессионные эпохи. Вики работает как главная справочная архитектура корпуса, причём записи связаны между собой через существенную внутреннюю гиперссылочную структуру.
 
-The wiki's typological architecture distinguishes seven principal entry types:
+Типологическая архитектура вики различает семь главных типов записей:
 
-1. **Figure entries** — individual persons (historical, religious-traditional, framework-specific): Adam, Eve, Noah, Abraham, Moses, Mary, Jesus, Muhammad, Buddha, Joseph Smith, Vorilhon, the various creator-figures (Yahweh, Lucifer, Satan, the Serpent), various others
-2. **Civilization / polity entries** — collective entities: the Hebrews, the Elohim, the Israelites, various others
-3. **Place entries** — specific locations: Eden, Babel, Sodom and Gomorrah, the Embassy site, various others
-4. **Event / period entries** — specific historical-cultural events or periods: the Theomachy, the Great Flood, the Babel intervention, the Sodom strike, various others
-5. **Concept entries** — interpretive concepts: World Age, Zodiac, Doubled Signature, Cosmic Chain, Cosmic Competition, Mass Effect, Fractal Cosmology, Plurality of Gods, various others
-6. **Text entries** — source-textual entities: Hebrew Bible, Kabbalah, *Hamlet's Mill*, *Message from the Designers*, various others
-7. **Precessional age entries** — the twelve individual age treatments: Age of Capricorn, Age of Sagittarius, Age of Scorpio, Age of Libra, Age of Virgo, Age of Leo, Age of Cancer, Age of Gemini, Age of Taurus, Age of Aries, Age of Pisces, Age of Aquarius
+1. **Записи о фигурах** — отдельные лица (исторические, религиозно-традиционные, специфические для рамки): Адам, Ева, Ной, Авраам, Моисей, Мария, Иисус, Мухаммед, Будда, Джозеф Смит, Ворильон, различные фигуры-творцы (Яхве, Люцифер, Сатана, Змей), и другие
+2. **Записи о цивилизациях / политических образованиях** — коллективные сущности: евреи, Элохим, израильтяне и другие
+3. **Записи о местах** — конкретные локации: {% wiki(slug="eden") %}Эдем{% end %}, {% wiki(slug="babel") %}Вавилон{% end %}, {% wiki(slug="sodom-and-gomorrah") %}Содом и Гоморра{% end %}, участок посольства и другие
+4. **Записи о событиях / периодах** — конкретные историко-культурные события или периоды: {% wiki(slug="theomachy") %}Теомахия{% end %}, {% wiki(slug="great-flood") %}Великий потоп{% end %}, вавилонское вмешательство, удар по Содому и другие
+5. **Записи о понятиях** — интерпретационные понятия: Эпоха мира, Зодиак, Удвоенная сигнатура, Космическая цепь, Космическая конкуренция, Эффект массы, Фрактальная космология, Множественность богов и другие
+6. **Записи о текстах** — источниково-текстуальные сущности: Еврейская Библия, Каббала, «Мельница Гамлета», «Послание от создателей» и другие
+7. **Записи о прецессионных эпохах** — двенадцать отдельных трактовок эпох: Эпоха Козерога, Эпоха Стрельца, Эпоха Скорпиона, Эпоха Весов, Эпоха Девы, Эпоха Льва, Эпоха Рака, Эпоха Близнецов, Эпоха Тельца, Эпоха Овна, Эпоха Рыб, Эпоха Водолея
 
-Each entry follows a typology-specific structural template articulated in the project's editorial style guide, with sections appropriate to the entry's typological position. The detailed treatment of the editorial typology lives in the project's `01-editorial-style.md` governance document.
+Каждая запись следует типологически специфическому структурному шаблону, изложенному в редакционном стилистическом руководстве проекта, с разделами, соответствующими типологическому положению записи. Подробная разработка редакционной типологии живёт в управленческом документе проекта `01-editorial-style.md`.
 
-### The library
+### Библиотека
 
-The corpus's **library** component curates source materials supporting the broader framework engagement. The library includes:
+Компонент корпуса **библиотека** кураторски собирает исходные материалы, поддерживающие более широкое взаимодействие с рамкой. Библиотека включает:
 
-- **Primary Raëlian texts**: *Message from the Designers* (the collected Vorilhon source material) and various other Raëlian publications
-- **Sendy's principal works**: *Les cahiers de cours de Moïse* (1963), *La Lune, clé de la Bible* (1968), *Ces dieux qui firent le ciel et la terre* (1969), *L'ère du Verseau* (1970), various others
-- **The *Hamlet's Mill* tradition**: Santillana and von Dechend's foundational work plus subsequent extensions (Cruttenden, Sellers, Aveni, Krupp)
-- **Mainstream comparative-religion scholarship**: Hebrew Bible scholarship (Wellhausen, Friedman, von Rad, Westermann, Brueggemann, Alter), Kabbalah scholarship (Scholem, Idel, Wolfson, Liebes, Matt), various others
-- **Alternative-history scholarship**: Sitchin, Hancock, Bauval, West, Wallis, Biglino, various others
-- **Cross-cultural source materials**: Mesopotamian (Atrahasis, Enuma Elish, Gilgamesh, the Sumerian King List), Egyptian (Pyramid Texts, Coffin Texts, Book of the Dead), Greek (Hesiod, Homer, Plato), Indian (Rigveda, Upanishads, Mahabharata, Puranas), Mesoamerican (Popol Vuh, the Long Count materials), Chinese, various others
+- **Первичные раэлианские тексты**: «Послание от создателей» (собранный материал источника Ворильона) и различные другие раэлианские публикации
+- **Главные работы Сенди**: «Les cahiers de cours de Moïse» (1963), «La Lune, clé de la Bible» (1968), «Ces dieux qui firent le ciel et la terre» (1969), «L'ère du Verseau» (1970) и другие
+- **Традиция *«Мельницы Гамлета»***: основополагающая работа Сантильяны и фон Дехенд плюс последующие расширения (Краттенден, Селлерс, Авени, Крапп)
+- **Магистральная сравнительно-религиоведческая наука**: наука о Еврейской Библии (Вельгаузен, Фридман, фон Рад, Вестерманн, Брюггеманн, Альтер), каббалистическая наука (Шолем, Идель, Вольфсон, Либес, Мэтт) и другие
+- **Альтернативно-историческая наука**: Ситчин, Хэнкок, Бовал, Уэст, Уоллис, Бильино и другие
+- **Межкультурные исходные материалы**: месопотамские (Атрахасис, «Энума элиш», Гильгамеш, Шумерский царский список), египетские (Тексты пирамид, Тексты саркофагов, Книга мёртвых), греческие (Гесиод, Гомер, Платон), индийские (Ригведа, Упанишады, Махабхарата, Пураны), мезоамериканские (Пополь-Вух, материалы Долгого счёта), китайские и другие
 
-Each library entry is curated with attention to source-material integrity, scholarly context, and relevance to the broader framework engagement.
+Каждая запись библиотеки курируется с вниманием к целостности исходного материала, научному контексту и релевантности более широкому взаимодействию с рамкой.
 
-### The narrated introduction
+### Озвученное введение
 
-The corpus's **narrated introduction** provides a structured first-encounter with the framework for new readers. The introduction operates through several principal sections (At a Glance, the broader framework articulation, the principal source-material families, the corpus structure) supporting various entry-points into the broader content.
+**Озвученное введение** корпуса предоставляет структурированное первое знакомство с рамкой для новых читателей. Введение работает через несколько главных разделов («Сразу о главном», артикуляция более широкой рамки, главные семьи исходных материалов, структура корпуса), поддерживая различные точки входа в более широкое содержание.
 
-### The blog
+### Блог
 
-The corpus's **blog** tracks ongoing developments — current scientific and cultural events that engage the broader framework, new scholarly publications relevant to the corpus's reading, contemporary developments in the broader UFO/UAP disclosure landscape, the project's own development across multiple workstreams. The blog operates as the principal corpus component for time-sensitive engagement, with the wiki and library providing the broader stable reference architecture.
+**Блог** корпуса отслеживает текущие события — современные научные и культурные события, задействующие более широкую рамку, новые научные публикации, релевантные прочтению корпуса, современные события в более широком ландшафте раскрытия НЛО / НАЯ, развитие самого проекта по нескольким направлениям. Блог работает как главный компонент корпуса для чувствительного ко времени взаимодействия, тогда как вики и библиотека предоставляют более широкую стабильную справочную архитектуру.
 
-### The governance documents
+### Управленческие документы
 
-The project operates through several substantial governance documents:
+Проект работает через несколько существенных управленческих документов:
 
-- ***Project Charter*** — the foundational document articulating the project's purpose, mission, governing principle, and inclusion criteria
-- ***Editorial Style Guide*** — the principal editorial-stylistic governance document
-- ***Chronology Rules*** — the chronological governance document articulating dating conventions and chronological integrity rules
-- ***Nomenclature*** — the principal terminological governance document
-- ***Source Methodology*** — the source-handling governance document
-- ***Chapter Index*** — the architectural governance document tracking the broader corpus development
-- ***Master Timeline*** — the principal chronological reference document spanning the twelve precessional ages
+- ***Project Charter*** — основополагающий документ, излагающий цель проекта, его миссию, руководящий принцип и критерии включения
+- ***Editorial Style Guide*** — главный редакционно-стилистический управленческий документ
+- ***{% wiki(slug="chronology") %}Хронология{% end %} Rules*** — хронологический управленческий документ, излагающий конвенции датирования и правила хронологической целостности
+- ***Nomenclature*** — главный терминологический управленческий документ
+- ***Source Methodology*** — источниково-методологический управленческий документ
+- ***Chapter Index*** — архитектурный управленческий документ, отслеживающий развитие более широкого корпуса
+- ***Master Timeline*** — главный хронологический справочный документ, охватывающий двенадцать прецессионных эпох
 
-The governance documents operate as living references, updated as the project develops.
+Управленческие документы работают как живые справки, обновляемые по мере развития проекта.
 
-## Editorial principles
+## Редакционные принципы
 
-The corpus operates through several substantive editorial principles articulated across the governance documents.
+Корпус работает через несколько существенных редакционных принципов, изложенных в управленческих документах.
 
-### The four-tier epistemic distinction
+### Четырёхуровневое эпистемическое различение
 
-The corpus consistently distinguishes between four tiers of content:
+Корпус последовательно разграничивает четыре уровня содержания:
 
-1. **Direct source claims** — what a specific source directly asserts (with attribution to the source)
-2. **Comparative observations** — comparisons across traditions without claiming identity or causal connection
-3. **Wheel of Heaven interpretation** — corpus-level interpretive synthesis (clearly marked as interpretive)
-4. **Open questions** — unresolved issues, tensions, and uncertainties (explicitly registered)
+1. **Прямые утверждения источников** — то, что конкретный источник прямо утверждает (с атрибуцией источнику)
+2. **Сравнительные наблюдения** — сравнения между традициями без утверждения тождества или причинной связи
+3. **Интерпретация Wheel of Heaven** — корпусный интерпретационный синтез (чётко помечаемый как интерпретационный)
+4. **Открытые вопросы** — неразрешённые проблемы, противоречия и неопределённости (эксплицитно регистрируемые)
 
-The four-tier distinction operates throughout the corpus, with prose markers, structural conventions, and explicit framing maintaining the distinction across all entries.
+Четырёхуровневое различение работает по всему корпусу, причём прозовые маркеры, структурные конвенции и эксплицитное оформление поддерживают это различение во всех записях.
 
-### The chronology integrity principle
+### Принцип хронологической целостности
 
-The corpus maintains explicit chronological integrity across all entries. When chronology is discussed, the corpus is explicit about:
+Корпус поддерживает эксплицитную хронологическую целостность во всех записях. Когда обсуждается хронология, корпус эксплицитен относительно:
 
-- The specific date or date range
-- Whether the date is *traditional* (from religious-traditional sources), *scholarly* (mainstream academic consensus), *inferred* (from indirect evidence), *symbolic* (from religious-symbolic content), or *contested* (with active scholarly disagreement)
-- Which source or source-family supports the date
+- конкретной даты или диапазона дат
+- является ли дата *традиционной* (из религиозно-традиционных источников), *научной* (магистральный академический консенсус), *выводимой* (из косвенных свидетельств), *символической* (из религиозно-символического содержания) или *спорной* (с активным научным разногласием)
+- какой источник или семья источников поддерживает дату
 
-The detailed chronological-integrity governance lives in the project's `02-chronology-rules.md` governance document.
+Подробное управление хронологической целостностью живёт в управленческом документе проекта `02-chronology-rules.md`.
 
-### The terminological discipline principle
+### Принцип терминологической дисциплины
 
-The corpus maintains terminological discipline across all entries. Specific commitments:
+Корпус поддерживает терминологическую дисциплину во всех записях. Конкретные обязательства:
 
-- Use of canonical project terms consistently (Wheel of Heaven, the framework, the corpus, the alliance, the Elohim, etc.)
-- Variant spellings handled explicitly (when multiple spellings exist, choose one preferred form and note important variants)
-- Cross-tradition equivalences flagged rather than collapsed (the broader Plurality of Gods cross-cultural pattern is articulated through explicit comparison rather than through forced identity)
-- Translation choices treated as substantive interpretive moves rather than as neutral
+- последовательное использование канонических терминов проекта (Wheel of Heaven, рамка, корпус, альянс, Элохим и т. д.)
+- эксплицитная работа с вариантными написаниями (когда существует несколько написаний, выбирается одна предпочтительная форма и отмечаются важные варианты)
+- межтрадиционные эквивалентности обозначаются, а не схлопываются (более широкий межкультурный паттерн множественности богов артикулируется через эксплицитное сравнение, а не через насильственное отождествление)
+- переводческие решения трактуются как существенные интерпретационные шаги, а не как нейтральные
 
-The detailed terminological governance lives in the project's `03-nomenclature.md` governance document.
+Подробное терминологическое управление живёт в управленческом документе проекта `03-nomenclature.md`.
 
-### The source-discipline principle
+### Принцип источниковой дисциплины
 
-The corpus maintains source-discipline across all entries:
+Корпус поддерживает источниковую дисциплину во всех записях:
 
-- Quotation under 25 words; paraphrase as default
-- Source attribution for all claims drawing on specific sources
-- Substantial recognition of the difference between source and interpretation
-- Engagement with mainstream scholarship at appropriate technical level
-- Cross-tradition material handled with attention to both convergences and substantive differences
+- цитата менее 25 слов; парафраз как стандарт
+- атрибуция источника для всех утверждений, опирающихся на конкретные источники
+- существенное признание различия между источником и интерпретацией
+- взаимодействие с магистральной наукой на соответствующем техническом уровне
+- межтрадиционный материал обрабатывается с вниманием как к схождениям, так и к существенным различиям
 
-The detailed source-methodology governance lives in the project's `04-source-methodology.md` governance document.
+Подробное управление источниковой методологией живёт в управленческом документе проекта `04-source-methodology.md`.
 
-### The wiki-style register
+### Вики-стилистический регистр
 
-The corpus operates in a wiki-style register similar to mainstream comparative-religion encyclopaedic engagement (the *Catholic Encyclopedia*, the *Encyclopaedia Britannica*'s religion entries, the *Encyclopedia of Religion*). The register prioritizes:
+Корпус работает в вики-стилистическом регистре, подобном магистральному сравнительно-религиоведческому энциклопедическому взаимодействию (*Католическая энциклопедия*, статьи о религии в *Энциклопедии Британника*, *Энциклопедия {% wiki(slug="religion") %}религии{% end %}*). Регистр приоритизирует:
 
-- Clarity over rhetorical elaboration
-- Structure over narrative flow
-- Source-conscious prose over informal exposition
-- Conceptual precision over inclusive vagueness
-- Distinct traditions clearly distinguished rather than syncretically blurred
+- ясность над риторической пышностью
+- структуру над нарративным потоком
+- источниково-сознательную прозу над неформальным изложением
+- понятийную точность над инклюзивной размытостью
+- чётко различимые отдельные традиции, а не синкретически размытые
 
-The detailed editorial governance lives in the project's `01-editorial-style.md` governance document.
+Подробное редакционное управление живёт в управленческом документе проекта `01-editorial-style.md`.
 
-## Application across the corpus
+## Применение в корпусе
 
-The Wheel of Heaven framework operates across the broader corpus through several principal architectural relationships.
+Рамка Wheel of Heaven работает в более широком корпусе через несколько главных архитектурных отношений.
 
-### The principal temporal architecture
+### Главная темпоральная архитектура
 
-The corpus's principal temporal architecture is the precessional-age framework, with each of the twelve precessional ages receiving substantive treatment in a dedicated entry. The detailed treatment of the precessional architecture lives in the [World Age](../world-age/) entry; the constellational-symbolic complement lives in the [Zodiac](../zodiac/) entry.
+Главная темпоральная архитектура корпуса — это прецессионно-эпохальная рамка, причём каждая из двенадцати прецессионных эпох получает существенную трактовку в выделенной записи. Подробная разработка прецессионной архитектуры живёт в записи [Эпоха мира](../world-age/); констелляционно-символическое дополнение — в записи [Зодиак](../zodiac/).
 
-The twelve age entries:
-- [Age of Capricorn](../age-of-capricorn/) (-21,810 to -19,650): project opening; planetary surveys
-- [Age of Sagittarius](../age-of-sagittarius/) (-19,650 to -17,490): atmospheric engineering
-- [Age of Scorpio](../age-of-scorpio/) (-17,490 to -15,330): first life synthesis
-- [Age of Libra](../age-of-libra/) (-15,330 to -13,170): astronomical-calendrical work, zodiac formalization
-- [Age of Virgo](../age-of-virgo/) (-13,170 to -11,010): complex life forms, biodiversity
-- [Age of Leo](../age-of-leo/) (-11,010 to -8,850): human creation
-- [Age of Cancer](../age-of-cancer/) (-8,850 to -6,690): Eden, Adam and Eve
-- [Age of Gemini](../age-of-gemini/) (-6,690 to -4,530): flood, Noah
-- [Age of Taurus](../age-of-taurus/) (-4,530 to -2,370): post-flood reconstruction, Babel, Sodom and Gomorrah, patriarchs
-- [Age of Aries](../age-of-aries/) (-2,370 to -210): Hebrew prophetic tradition, Mosaic law, Axial Age
-- [Age of Pisces](../age-of-pisces/) (-210 to 1,950): Christianity, Islam, universal distribution
-- [Age of Aquarius](../age-of-aquarius/) (1,950 to ~4,110): current age; revelation; Cosmic Chain inheritance
+Двенадцать записей об эпохах:
+- [Эпоха Козерога](../age-of-capricorn/) (−21 810 – −19 650): открытие проекта; планетные обзоры
+- [Эпоха Стрельца](../age-of-sagittarius/) (−19 650 – −17 490): атмосферная инженерия
+- [Эпоха Скорпиона](../age-of-scorpio/) (−17 490 – −15 330): первый синтез жизни
+- [Эпоха Весов](../age-of-libra/) (−15 330 – −13 170): астрономо-календарная работа, формализация зодиака
+- [Эпоха Девы](../age-of-virgo/) (−13 170 – −11 010): сложные формы жизни, биоразнообразие
+- [Эпоха Льва](../age-of-leo/) (−11 010 – −8 850): создание человечества
+- [Эпоха Рака](../age-of-cancer/) (−8 850 – −6 690): Эдем, Адам и Ева
+- [Эпоха Близнецов](../age-of-gemini/) (−6 690 – −4 530): потоп, Ной
+- [Эпоха Тельца](../age-of-taurus/) (−4 530 – −2 370): постпотопная реконструкция, Вавилон, Содом и Гоморра, патриархи
+- [Эпоха Овна](../age-of-aries/) (−2 370 – −210): еврейская пророческая традиция, моисеев закон, Осевое время
+- [Эпоха Рыб](../age-of-pisces/) (−210 – 1 950): христианство, ислам, универсальное распространение
+- [Эпоха Водолея](../age-of-aquarius/) (1 950 – ~4 110): текущая эпоха; откровение; наследование Космической цепи
 
-### The principal interpretive architecture
+### Главная интерпретационная архитектура
 
-The framework operates through a cluster of foundational interpretive concepts:
+Рамка работает через кластер основополагающих интерпретационных понятий:
 
-- [Cosmic Chain](../cosmic-chain/) — the broader cosmic-civilizational succession framework
-- [Cosmic Competition](../cosmic-competition/) — the engagement among multiple alliance-civilization participants
-- [Doubled Signature](../doubled-signature/) — the precessional-encoding principle
-- [Mass Effect](../mass-effect/) — the broader collective-consciousness phenomenon
-- [Fractal Cosmology](../fractal-cosmology/) — the infinite-scale structural framework
-- [Infinity](../infinity/) — the cosmological-philosophical framework
-- [Living Earth](../living-earth/) — the planetary-organism reading
-- [Four Levels](../four-levels/) — the broader cosmological-hierarchical framework
-- [Plurality of Gods](../plurality-of-gods/) — the structured-plurality framework
+- [Космическая цепь](../cosmic-chain/) — более широкая рамка космически-цивилизационной преемственности
+- [Космическая конкуренция](../cosmic-competition/) — взаимодействие между множественными участниками альянса-цивилизации
+- [Удвоенная сигнатура](../doubled-signature/) — принцип прецессионного кодирования
+- [Эффект массы](../mass-effect/) — более широкое явление коллективного сознания
+- [Фрактальная космология](../fractal-cosmology/) — структурная рамка бесконечного масштаба
+- [Бесконечность](../infinity/) — космологически-философская рамка
+- [Живая Земля](../living-earth/) — прочтение планеты как организма
+- [Четыре уровня](../four-levels/) — более широкая космологически-иерархическая рамка
+- [Множественность богов](../plurality-of-gods/) — рамка структурированной множественности
 
-### The principal source-textual architecture
+### Главная источниково-текстуальная архитектура
 
-The framework engages substantively with several principal source-textual entities:
+Рамка существенно взаимодействует с несколькими главными источниково-текстуальными сущностями:
 
-- [Hebrew Bible](../hebrew-bible/) — the principal foundational source-textual entity
-- [Kabbalah](../kabbalah/) — the principal Jewish mystical-esoteric tradition; "the closest book to the truth" in the framework's reading
-- [Hamlet's Mill](../hamlets-mill/) — the foundational scholarly anchor for the precessional-mythological reading (when written)
-- [Message from the Designers](../message-from-the-designers/) — the principal Raëlian source compilation (when written)
-- Various other source-textual entries
+- [Еврейская Библия](../hebrew-bible/) — главная основополагающая источниково-текстуальная сущность
+- [Каббала](../kabbalah/) — главная еврейская мистико-эзотерическая традиция; «ближайшая к истине книга» в прочтении рамки
+- [Мельница Гамлета](../hamlets-mill/) — основополагающий научный якорь прецессионно-мифологического прочтения (когда будет написано)
+- [Послание от создателей](../message-from-the-designers/) — главная раэлианская компиляция источников (когда будет написано)
+- Различные другие записи об источниковых текстах
 
-### The principal-figure architecture
+### Архитектура главных фигур
 
-The framework engages substantively with several principal figures:
+Рамка существенно взаимодействует с несколькими главными фигурами:
 
-- [Raël](../rael/) (Claude Vorilhon) — the inaugural figure of the Aquarian-age revelation
-- [Jean Sendy](../jean-sendy/) — the principal pre-Raëlian framework articulator (when written)
-- The various creator-figures: [Yahweh](../yahweh/), [Lucifer](../lucifer/), [Satan](../satan/), [Serpent](../serpent/)
-- The various human prophets: [Adam](../adam-and-eve/), [Noah](../noah/), [Abraham](../abraham/), [Moses](../moses/), [Mary](../mary/), [Jesus](../jesus/), [Muhammad](../muhammad/), [Buddha](../buddha/) (various entries when written)
+- [Раэль](../rael/) (Клод Ворильон) — инаугурационная фигура откровения эры Водолея
+- [Жан Сенди](../jean-sendy/) — главный доэлианский артикулятор рамки (когда будет написано)
+- Различные фигуры-творцы: [Яхве](../yahweh/), [Люцифер](../lucifer/), [Сатана](../satan/), [Змей](../serpent/)
+- Различные человеческие пророки: [Адам](../adam-and-eve/), [Ной](../noah/), [Авраам](../abraham/), [Моисей](../moses/), [Мария](../mary/), [Иисус](../jesus/), [Мухаммед](../muhammad/), [Будда](../buddha/) (различные записи, когда будут написаны)
 
-### The cross-reference density
+### Плотность перекрёстных ссылок
 
-The corpus operates with substantial cross-reference density. Each entry establishes substantive cross-references with related entries, producing a tightly integrated reference architecture. The cross-reference density is one of the corpus's principal architectural features — the framework operates not as a collection of isolated entries but as an interconnected network in which any single entry can be entered from many directions.
+Корпус работает с существенной плотностью перекрёстных ссылок. Каждая запись устанавливает существенные перекрёстные ссылки со связанными записями, производя плотно интегрированную справочную архитектуру. Плотность перекрёстных ссылок — одна из главных архитектурных черт корпуса: рамка работает не как собрание изолированных записей, а как взаимосвязанная сеть, в которой в любую отдельную запись можно войти со многих направлений.
 
-## Distinguishing from adjacent projects
+## Отграничение от смежных проектов
 
-The Wheel of Heaven project operates within a broader landscape of related but distinct projects. Several principal distinctions deserve articulation.
+Проект Wheel of Heaven работает в более широком ландшафте связанных, но отличных проектов. Несколько главных разграничений заслуживают артикуляции.
 
-### Wheel of Heaven vs. the Raëlian Movement
+### Wheel of Heaven и Раэлианское движение
 
-The corpus draws substantively on Raëlian source material — particularly *Message from the Designers* and various subsequent Raëlian publications. The Raëlian Movement (formally the **International Raëlian Movement**, founded by Claude Vorilhon as MADECH in 1973 and reorganized as the Raëlian Movement in 1976) operates as an institutional religious-cultural body principally concerned with disseminating the Raëlian message, supporting the construction of the planned Embassy, and developing the broader Raëlian cultural-philosophical-political program (Geniocracy, Humanitarianism, Sensual Meditation, the Raëlian Symbol, etc.).
+Корпус существенно опирается на раэлианский исходный материал — в особенности на «Послание от создателей» и различные последующие раэлианские публикации. Раэлианское движение (формально **Международное Раэлианское Движение**, основанное Клодом Ворильоном как MADECH в 1973 году и реорганизованное как Раэлианское движение в 1976 году) работает как институциональный религиозно-культурный орган, в первую очередь занимающийся распространением раэлианского послания, поддержкой строительства запланированного посольства и развитием более широкой раэлианской культурно-философско-политической программы (Гениократия, {% wiki(slug="humanitarianism") %}Гуманитаризм{% end %}, Чувственная медитация, Раэлианский символ и т. д.).
 
-The relationship is **substantive-source-engagement-without-institutional-affiliation**:
+Отношение есть **существенное-источниковое-взаимодействие-без-институциональной-аффилиации**:
 
-- The Wheel of Heaven project draws substantively on Raëlian source material for the framework's specific content
-- The project is not affiliated with the institutional Raëlian Movement
-- The project does not require Raëlian commitments of its readers (membership, doctrinal acceptance, participation in Raëlian institutional structures)
-- The project engages mainstream scholarly material that the Raëlian Movement does not principally engage (Hebrew Bible scholarship, Kabbalah scholarship, *Hamlet's Mill* tradition, broader comparative-religion scholarship)
-- The project operates with substantive interpretive distance on certain Raëlian-specific commitments where corpus-level integration suggests modifications
+- проект Wheel of Heaven существенно опирается на раэлианский исходный материал для конкретного содержания рамки
+- проект не аффилирован с институциональным Раэлианским движением
+- проект не требует от своих читателей раэлианских обязательств (членство, доктринальное принятие, участие в раэлианских институциональных структурах)
+- проект взаимодействует с магистральным научным материалом, которым Раэлианское движение в основном не занимается (наука о Еврейской Библии, каббалистическая наука, традиция «Мельницы Гамлета», более широкая сравнительно-религиоведческая наука)
+- проект работает с существенной интерпретационной дистанцией относительно определённых специфических для раэлианства обязательств, где корпусная интеграция предполагает модификации
 
-The detailed treatment of the institutional Raëlian Movement lives in the [Raëlism](../raelism/) entry.
+Подробная разработка институционального Раэлианского движения живёт в записи [Раэлизм](../raelism/).
 
-### Wheel of Heaven vs. Sendy's Tradition framework
+### Wheel of Heaven и рамка Традиции Сенди
 
-Jean Sendy's pre-Raëlian work (1963-1972) articulates substantive prior engagement with what Sendy calls "the **Tradition**" — the broader framework of preserved cultural memory of alliance contact across multiple religious-cultural traditions. Sendy's work substantively prefigures the Raëlian framework on several key points:
+Доэлианская работа Жана Сенди (1963–1972) артикулирует существенное предшествующее взаимодействие с тем, что Сенди называет «**Традицией**», — более широкой рамкой сохранённой культурной памяти о контакте с альянсом через множественные религиозно-культурные традиции. Работа Сенди существенно предвосхищает раэлианскую рамку по нескольким ключевым пунктам:
 
-- The plural Elohim reading (Sendy articulates this in *La Lune, clé de la Bible*, 1968)
-- The precessional-zodiacal reading of the Hebrew Bible (extensively in *L'ère du Verseau*, 1970)
-- The "Tradition" as preserved cultural memory across multiple traditions
-- The Aquarian-age opening as substantive cosmological-civilizational transition
+- прочтение множественных Элохим (Сенди артикулирует это в «La Lune, clé de la Bible», 1968)
+- прецессионно-зодиакальное прочтение Еврейской Библии (подробно в «L'ère du Verseau», 1970)
+- «Традиция» как сохранённая культурная память во множественных традициях
+- открытие эры Водолея как существенный космологически-цивилизационный переход
 
-The relationship is **substantive-extension-with-substantial-continuity**:
+Отношение есть **существенное-расширение-со-значительной-преемственностью**:
 
-- The corpus draws substantively on Sendy's framework for its precessional-zodiacal reading
-- The corpus extends Sendy's work substantially with Raëlian source material that postdated Sendy's principal works (Vorilhon's first contact occurred December 1973, after most of Sendy's principal works were published)
-- The corpus integrates Sendy's framework with the *Hamlet's Mill* tradition (Santillana and von Dechend's work appeared in 1969, contemporaneously with Sendy's principal works) and with mainstream comparative-religion scholarship
-- The corpus operates with substantive editorial discipline that Sendy's more polemical engagement did not principally maintain
+- корпус существенно опирается на рамку Сенди в своём прецессионно-зодиакальном прочтении
+- корпус существенно расширяет работу Сенди раэлианским исходным материалом, появившимся после главных работ Сенди (первый контакт Ворильона произошёл в декабре 1973 года, после публикации большинства главных работ Сенди)
+- корпус интегрирует рамку Сенди с традицией «Мельницы Гамлета» (работа Сантильяны и фон Дехенд появилась в 1969 году, одновременно с главными работами Сенди) и с магистральной сравнительно-религиоведческой наукой
+- корпус работает с существенной редакционной дисциплиной, которой не следовало в основном более полемическое взаимодействие Сенди
 
-The detailed treatment of Sendy's framework lives in the [Jean Sendy](../jean-sendy/) entry when written.
+Подробная разработка рамки Сенди живёт в записи [Жан Сенди](../jean-sendy/), когда она будет написана.
 
-### Wheel of Heaven vs. ancient-aliens popular media
+### Wheel of Heaven и популярные медиа о «древних пришельцах»
 
-The broader popular-media engagement with "ancient aliens" content (the *Ancient Aliens* television series on the History channel, broader popular-publication work, various YouTube and podcast engagements) operates substantively differently from the Wheel of Heaven project on several principal dimensions:
+Более широкое популярно-медийное взаимодействие с содержанием «древних пришельцев» (телесериал *Ancient Aliens* на канале History, более широкая популярно-публикационная работа, различные взаимодействия на YouTube и в подкастах) работает существенно иначе, чем проект Wheel of Heaven, по нескольким главным измерениям:
 
-- **Source-material discipline**: the corpus operates with substantive source-material discipline, distinguishing carefully between primary sources, mainstream scholarship, and interpretive synthesis; popular-media engagement frequently operates without these distinctions
-- **Editorial register**: the corpus operates in a wiki-style scholarly register; popular-media engagement frequently operates in a sensationalist register
-- **Integration depth**: the corpus operates as a substantively integrated framework with explicit chronological-temporal architecture and cross-reference density; popular-media engagement frequently operates as a collection of loosely-related anecdotes
-- **Epistemic care**: the corpus distinguishes carefully between source claims, comparative observations, framework-specific interpretation, and open questions; popular-media engagement frequently presents speculation as established fact
-- **Scholarly engagement**: the corpus engages substantively with mainstream scholarship; popular-media engagement frequently operates as if mainstream scholarship were not relevant
+- **дисциплина обращения с исходным материалом**: корпус работает с существенной дисциплиной обращения с исходным материалом, тщательно разграничивая первичные источники, магистральную науку и интерпретационный синтез; популярно-медийное взаимодействие часто работает без этих разграничений
+- **редакционный регистр**: корпус работает в вики-стилистическом научном регистре; популярно-медийное взаимодействие часто работает в сенсационалистском регистре
+- **глубина интеграции**: корпус работает как существенно интегрированная рамка с эксплицитной хронологически-темпоральной архитектурой и плотностью перекрёстных ссылок; популярно-медийное взаимодействие часто работает как собрание свободно связанных эпизодов
+- **эпистемическая аккуратность**: корпус тщательно разграничивает утверждения источников, сравнительные наблюдения, специфическую для рамки интерпретацию и открытые вопросы; популярно-медийное взаимодействие часто представляет спекуляцию как установленный факт
+- **научное взаимодействие**: корпус существенно взаимодействует с магистральной наукой; популярно-медийное взаимодействие часто работает так, как если бы магистральная наука была нерелевантна
 
-The relationship is **shared-broader-subject-area-with-substantively-distinct-operational-standards**.
+Отношение есть **общая-более-широкая-тематическая-область-с-существенно-отличными-операционными-стандартами**.
 
-### Wheel of Heaven vs. mainstream comparative-religion scholarship
+### Wheel of Heaven и магистральная сравнительно-религиоведческая наука
 
-Mainstream comparative-religion scholarship operates principally through academic-disciplinary institutions (university religious-studies departments, scholarly societies, peer-reviewed journals, university presses) with substantive methodological-disciplinary commitments. The Wheel of Heaven project relates to mainstream comparative-religion scholarship as follows:
+Магистральная сравнительно-религиоведческая наука работает главным образом через академически-дисциплинарные институции (университетские кафедры религиоведения, научные общества, рецензируемые журналы, университетские издательства) с существенными методолого-дисциплинарными обязательствами. Проект Wheel of Heaven относится к магистральной сравнительно-религиоведческой науке следующим образом:
 
-- **Substantive engagement**: the corpus engages substantively with mainstream scholarship across multiple disciplinary contexts (Hebrew Bible studies, Kabbalah studies, Mesopotamian studies, Egyptian studies, Indian religious studies, Mesoamerican studies, archaeoastronomy, history of religion)
-- **Distinctive interpretive commitments**: the corpus operates from interpretive commitments that mainstream scholarship does not principally share (the alliance-creator framework, the precessional-engineering reading, the cross-cultural-preserved-memory reading)
-- **Methodological alignment at descriptive level, divergence at interpretive level**: the corpus generally accepts mainstream scholarly findings at the descriptive level (textual-philological, historical-archaeological, ethnographic-anthropological) while operating substantively differently at the interpretive level
-- **Open invitation to evaluation**: the corpus presents its interpretive position as a coherent framework that the reader is invited to evaluate against alternatives, rather than as established fact
+- **существенное взаимодействие**: корпус существенно взаимодействует с магистральной наукой в нескольких дисциплинарных контекстах (исследования Еврейской Библии, каббалистические исследования, месопотамские исследования, египтологические исследования, исследования индийских религий, мезоамериканские исследования, археоастрономия, история религии)
+- **отличительные интерпретационные обязательства**: корпус исходит из интерпретационных обязательств, которые магистральная наука в основном не разделяет (рамка «альянс-создатели», прецессионно-инженерное прочтение, прочтение межкультурно-сохранённой памяти)
+- **методологическое согласие на описательном уровне, расхождение на интерпретационном уровне**: корпус в целом принимает магистральные научные результаты на описательном уровне (текстуально-филологические, историко-археологические, этнографо-антропологические), существенно работая иначе на интерпретационном уровне
+- **открытое приглашение к оценке**: корпус представляет свою интерпретационную позицию как связную рамку, которую читателю предлагается оценить относительно альтернатив, а не как установленный факт
 
-The relationship is **substantive-engagement-with-distinctive-interpretive-commitments**.
+Отношение есть **существенное-взаимодействие-с-отличительными-интерпретационными-обязательствами**.
 
-### Wheel of Heaven vs. Sitchin's Anunnaki framework
+### Wheel of Heaven и рамка Ануннаков Ситчина
 
-**Zecharia Sitchin** (1920-2010) articulated, principally in *The 12th Planet* (1976) and the broader *Earth Chronicles* series, an alternative-history framework engaging Mesopotamian source material with the proposal that the **Anunnaki** of Sumerian mythology were extraterrestrial beings from the planet Nibiru who created humanity through genetic engineering. The relationship is **shared-broader-framework-direction-with-substantive-source-material-and-interpretive-distinctions**:
+**Захария Ситчин** (1920–2010) артикулировал, главным образом в «Двенадцатой планете» (1976){{ cite(id="the-12th-planet", text="[10]", title="Ситчин, «Двенадцатая планета» (1976) — основополагающая работа в рамке Ануннаков / Нибиру") }} и более широкой серии «Хроники Земли», альтернативно-историческую рамку, задействующую месопотамский исходный материал с предложением, что **Ануннаки** шумерской мифологии были внеземными существами с планеты Нибиру, создавшими человечество через генную инженерию. Отношение есть **общее-направление-более-широкой-рамки-с-существенными-источниково-материальными-и-интерпретационными-различиями**:
 
-- Both frameworks register an extraterrestrial-creator reading of human origins
-- Both frameworks register the broader cross-cultural distribution of preserved memory content
-- The Wheel of Heaven framework operates principally through Hebrew Bible primary sources (with Mesopotamian comparative material); Sitchin operates principally through Mesopotamian primary sources (with Hebrew Bible comparative material)
-- The frameworks differ substantively on specific identifications (the Wheel of Heaven framework's Elohim civilization vs. Sitchin's specific Anunnaki / Nibiru content)
-- The Wheel of Heaven framework operates with substantively different chronological commitments than Sitchin's framework
+- обе рамки регистрируют внеземно-создательское прочтение происхождения человека
+- обе рамки регистрируют более широкое межкультурное распространение содержания сохранённой памяти
+- рамка Wheel of Heaven работает главным образом через первичные источники Еврейской Библии (с месопотамским сравнительным материалом); Ситчин работает главным образом через месопотамские первичные источники (со сравнительным материалом из Еврейской Библии)
+- рамки существенно различаются в конкретных идентификациях (цивилизация Элохим рамки Wheel of Heaven против конкретного содержания Ануннаков / Нибиру у Ситчина)
+- рамка Wheel of Heaven работает с существенно иными хронологическими обязательствами, чем рамка Ситчина
 
-### Wheel of Heaven vs. Wallis's broader engagement
+### Wheel of Heaven и более широкое взаимодействие Уоллиса
 
-**Paul Anthony Wallis**'s *Escaping from Eden* (2020), *The Eden Conspiracy* (2024), and various other works engage substantial Hebrew Bible content through a strict-translational approach drawing on the broader engagement of Mauro Biglino, Ellen White, and various others. The relationship is **shared-broader-direction-with-substantively-distinct-source-material-warrant**:
+«Бегство из Эдема» (2020){{ cite(id="escaping-from-eden", text="[11]", title="Уоллис, «Бегство из Эдема» (2020) — строго-переводческое сравнительное прочтение Элохим Еврейской Библии") }} **Пола Энтони Уоллиса**, «Эденский заговор» (2024) и различные другие работы взаимодействуют с существенным содержанием Еврейской Библии через строго-переводческий подход, опирающийся на более широкую работу Мауро Бильино,{{ cite(id="the-naked-bible", text="[12]", title="Бильино и Каттанео, «Обнажённая Библия» (2022) — строго-буквальный метод перевода еврейского текста, лежащий в основе более широкой работы Уоллиса") }} Эллен Уайт и различных других. Отношение есть **общее-более-широкое-направление-с-существенно-отличным-основанием-на-исходном-материале**:
 
-- Both frameworks register the Hebrew Bible's content as containing preserved memory of extraterrestrial-civilization contact
-- The Wheel of Heaven framework draws principally on Raëlian source material; Wallis draws principally on the strict-translational engagement
-- The frameworks register substantive structural alignment at multiple specific points
+- обе рамки регистрируют содержание Еврейской Библии как содержащее сохранённую память о контакте с внеземной цивилизацией
+- рамка Wheel of Heaven опирается главным образом на раэлианский исходный материал; Уоллис опирается главным образом на строго-переводческое взаимодействие
+- рамки регистрируют существенное структурное согласие в нескольких конкретных пунктах
 
-### Wheel of Heaven vs. UFO disclosure community
+### Wheel of Heaven и сообщество раскрытия НЛО
 
-The broader UFO/UAP disclosure community (the post-2017 *New York Times* AATIP coverage, the AARO investigations, the 2023 Congressional hearings, the broader contemporary disclosure tradition) operates substantively within a contemporary policy-and-evidence framework engaging unidentified aerial phenomena principally as a national-security and scientific-investigation concern. The relationship is **substantive-relevance-without-direct-overlap**:
+Более широкое сообщество раскрытия НЛО / НАЯ (освещение AATIP в *New York Times* после 2017 года, расследования AARO, слушания в Конгрессе 2023 года, более широкая современная традиция раскрытия) работает существенно в современной политически-доказательной рамке, задействующей неопознанные воздушные явления главным образом как национально-безопасностный и научно-исследовательский вопрос. Отношение есть **существенная-релевантность-без-прямого-пересечения**:
 
-- The Wheel of Heaven framework registers the contemporary UFO/UAP disclosure tradition as substantive contextual content for the broader Aquarian-age opening (treated principally in the [Age of Aquarius](../age-of-aquarius/) entry when written)
-- The corpus does not principally operate within the disclosure-community framework
-- The corpus's specific framework engages the broader extraterrestrial-civilization question through specific historical-cultural-source-material commitments rather than through contemporary-evidence engagement principally
+- рамка Wheel of Heaven регистрирует современную традицию раскрытия НЛО / НАЯ как существенное контекстуальное содержание для более широкого открытия эры Водолея (рассматривается главным образом в записи [Эпоха Водолея](../age-of-aquarius/), когда она будет написана)
+- корпус в основном не работает внутри рамки сообщества раскрытия
+- конкретная рамка корпуса задействует более широкий вопрос внеземной цивилизации через конкретные историко-культурно-источниково-материальные обязательства, а не главным образом через современно-доказательное взаимодействие
 
-## The corpus's scholarly engagement
+## Научное взаимодействие корпуса
 
-The Wheel of Heaven project engages substantively with mainstream scholarship across multiple disciplinary contexts. The principal engagements:
+Проект Wheel of Heaven существенно взаимодействует с магистральной наукой в нескольких дисциплинарных контекстах. Главные взаимодействия:
 
-### Hebrew Bible scholarship
+### Наука о Еврейской Библии
 
-The corpus engages substantively with mainstream Hebrew Bible scholarship: the Documentary Hypothesis (Wellhausen, Friedman, Van Seters, Baden); contemporary critical scholarship (von Rad, Westermann, Brueggemann, Alter); archaeological-historical context (Dever, Finkelstein, Mazar, the broader Albright tradition); textual criticism (Tov, Hendel); Dead Sea Scrolls scholarship (VanderKam, Flint); Septuagint scholarship; canonical-formation scholarship (McDonald, Sundberg). The detailed treatment lives in the [Hebrew Bible](../hebrew-bible/) entry.
+Корпус существенно взаимодействует с магистральной наукой о Еврейской Библии: документальной гипотезой (Вельгаузен,{{ cite(id="prolegomena-zur-geschichte-israels", text="[13]", title="Вельгаузен, «Prolegomena zur Geschichte Israels» (1878) — основополагающая артикуляция документальной гипотезы") }} Фридман,{{ cite(id="who-wrote-the-bible", text="[14]", title="Фридман, «Кто написал Библию?» (1987) — доступное современное переизложение документальной гипотезы") }} Ван Сетерс, Бейден); современной критической наукой (фон Рад, Вестерманн, Брюггеманн, Альтер); археолого-историческим контекстом (Девер, Финкельштейн, Мазар, более широкая олбрайтовская традиция); текстуальной критикой (Тов, Хендель); наукой о свитках Мёртвого моря (ВандерКам, Флинт); наукой о Септуагинте; наукой о формировании канона (МакДоналд, Сандберг).{{ footnote(id="5") }} Подробная разработка живёт в записи [Еврейская Библия](../hebrew-bible/).
 
-### Kabbalah scholarship
+### Каббалистическая наука
 
-The corpus engages substantively with mainstream Kabbalah scholarship: Scholem (foundational), Idel (revisionist), Wolfson (philosophical), Liebes (mythological), Matt (the Pritzker Edition Zohar), the broader scholarly tradition. The detailed treatment lives in the [Kabbalah](../kabbalah/) entry.
+Корпус существенно взаимодействует с магистральной каббалистической наукой: Шолем (основополагающий), Идель (ревизионистский), Вольфсон (философский), Либес (мифологический), Мэтт (Зоар в издании Pritzker),{{ cite(id="the-zohar-pritzker", text="[15]", title="Мэтт (пер.), «Зоар: издание Pritzker» (2003–2017) — стандартный научный перевод Зоар") }} более широкая научная традиция. Подробная разработка живёт в записи [Каббала](../kabbalah/).
 
-### Archaeoastronomy
+### Археоастрономия
 
-The corpus engages substantively with mainstream archaeoastronomy and the *Hamlet's Mill* tradition: Santillana and von Dechend (foundational), Cruttenden, Sellers, Hawkins, Aveni, Krupp, the broader scholarly tradition. The detailed treatment lives in the [Hamlet's Mill](../hamlets-mill/) entry when written.
+Корпус существенно взаимодействует с магистральной археоастрономией и традицией «Мельницы Гамлета»: Сантильяна и фон Дехенд (основополагающие), Краттенден, Селлерс, Хокинс, Авени, Крапп, более широкая научная традиция. Подробная разработка живёт в записи [Мельница Гамлета](../hamlets-mill/), когда она будет написана.
 
-### Comparative-religion scholarship
+### Сравнительно-религиоведческая наука
 
-The corpus engages substantively with mainstream comparative-religion scholarship across multiple cultural traditions: Mesopotamian (Lambert, Foster, Dalley); Egyptian (Allen, Hornung, Assmann); Greek (West, Burkert); Vedic / Hindu (Doniger, Olivelle); Mesoamerican (Schele, Aveni, Coe); Chinese (Pankenier, Sun); various others.
+Корпус существенно взаимодействует с магистральной сравнительно-религиоведческой наукой по нескольким культурным традициям: месопотамской (Ламберт, Фостер, Долли); египетской (Аллен, Хорнунг, Ассманн); греческой (Уэст, Буркерт); ведийской / индуистской (Донигер, Оливелл); мезоамериканской (Шеле, Авени, Коу); китайской (Панкенье, Сунь); другими.
 
-### Alternative-history scholarship
+### Альтернативно-историческая наука
 
-The corpus engages with various alternative-history scholarly traditions: Sitchin's Anunnaki framework; Hancock's broader engagement; Bauval's Orion-correlation theory; West's Egyptian-wisdom tradition; Wallis's strict-translational approach; Biglino's Hebrew-translational engagement; various others. The corpus engages these substantively while operating from distinct source-material warrant.
+Корпус взаимодействует с различными альтернативно-историческими научными традициями: рамкой Ануннаков Ситчина; более широкой работой Хэнкока; теорией корреляции с Орионом Бовала; традицией египетской мудрости Уэста; строго-переводческим подходом Уоллиса; еврейско-переводческой работой Бильино; различными другими. Корпус существенно взаимодействует с ними, исходя при этом из иного основания на исходном материале.
 
-### Contemporary scientific developments
+### Современные научные разработки
 
-The corpus engages substantively with contemporary scientific developments relevant to the broader framework: planetary science and astrobiology (relevant to the Capricorn-age engineering question); synthetic biology (relevant to the Scorpio-age life-synthesis question); precessional measurement and IAU astronomical standards; the broader UFO/UAP disclosure tradition; contemporary developments in AI, biotechnology, and space capability (relevant to the Aquarian-age inheritance threshold).
+Корпус существенно взаимодействует с современными научными разработками, релевантными более широкой рамке: планетарная наука и астробиология (релевантные вопросу инженерии эпохи Козерога); синтетическая биология (релевантная вопросу синтеза жизни эпохи Скорпиона); прецессионные измерения и астрономические стандарты МАС; более широкая традиция раскрытия НЛО / НАЯ; современные разработки в ИИ, биотехнологии и космических возможностях (релевантные порогу наследования эры Водолея).
 
-## The continuing project
+## Продолжающийся проект
 
-The Wheel of Heaven project is not a final synthesis but one stage in an ongoing collective project. The project's articulation of its own continuing development:
+Проект Wheel of Heaven не является окончательным синтезом, но одной стадией продолжающегося коллективного проекта. Артикуляция проектом собственного продолжающегося развития:
 
-> *"The present corpus is not the final synthesis. It is one stage in an ongoing project that will continue across the coming years and decades, both through the corpus's own continued development and through the parallel work of other authors and traditions engaging the same materials."*
+> *«Настоящий корпус не является окончательным синтезом. Это одна стадия продолжающегося проекта, который будет развиваться в ближайшие годы и десятилетия — как через продолжающееся развитие самого корпуса, так и через параллельную работу других авторов и традиций, работающих с тем же материалом»*.
 
-Several principal extensions remain on the project's working horizon:
+Несколько главных расширений остаются на рабочем горизонте проекта:
 
-- A dedicated treatment of the **Book of Revelation** and the broader apocalyptic literature, including the canonical Apocalypse, the Enochic tradition, and various other apocalyptic-textual material
-- A dedicated treatment of the **Great Pyramid of Giza** and the broader Egyptian alliance presence
-- A dedicated systematic treatment of the **Jewish mystical tradition** beyond the Kabbalah entry
-- A dedicated treatment of the **fractal-cosmos / shape-of-the-universe** material
-- A dedicated systematic treatment of **contemporary scientific developments** as operational expressions of the Aquarian-age inheritance threshold
-- The completion of the **twelve precessional age entries** with full chronological-narrative integration
-- Additional **figure entries** completing the principal-figure architecture
+- выделенная разработка **Книги Откровения** и более широкой апокалиптической литературы, включая каноническое {% wiki(slug="apocalypse") %}Откровение{% end %}, еноховскую традицию и различные другие апокалиптико-текстуальные материалы
+- выделенная разработка **Великой пирамиды в Гизе** и более широкого египетского присутствия альянса
+- выделенная систематическая разработка **еврейской мистической традиции** за пределами записи о Каббале
+- выделенная разработка материала **фрактальной космологии / формы вселенной**
+- выделенная систематическая разработка **современных научных разработок** как операциональных выражений порога наследования эры Водолея
+- завершение **двенадцати записей о прецессионных эпохах** с полной хронолого-нарративной интеграцией
+- дополнительные **записи о фигурах**, завершающие архитектуру главных фигур
 
-These extensions are not commitments but forward-pointers — work that the broader project may undertake across the coming years. The project operates with explicit recognition that subsequent work by other authors and traditions will supplement and extend the corpus's present articulation as the broader Aquarian-age recovery and integration continues.
+Эти расширения не являются обязательствами, но указателями вперёд — работой, которую более широкий проект может предпринять в ближайшие годы. Проект работает с эксплицитным признанием того, что последующая работа других авторов и традиций дополнит и расширит настоящую артикуляцию корпуса по мере того, как более широкое восстановление и интеграция эры Водолея будет продолжаться.
 
-### The collaborative dimension
+### Коллаборативное измерение
 
-The Wheel of Heaven project operates as a collaborative undertaking. The technical infrastructure runs on open-source web technologies, with content management hosted as Git projects generating static web pages on a content-delivery network. The project welcomes substantive contributions:
+Проект Wheel of Heaven работает как коллаборативное начинание. Техническая инфраструктура работает на открытых веб-технологиях, причём управление контентом размещается как Git-проекты, генерирующие статические веб-страницы в сети доставки контента. Проект приветствует существенный вклад:
 
-- **Content contributions**: corrections, additions, new entries, expanded treatments
-- **Source-material contributions**: identification of additional source materials, scholarly references, primary-source engagements
-- **Cross-cultural contributions**: substantive engagement with traditions and source materials currently underrepresented in the corpus
-- **Editorial contributions**: refinement of existing entries, structural improvements, error corrections
-- **Technical contributions**: improvements to the underlying web infrastructure, accessibility, search functionality
+- **вклад в содержание**: исправления, дополнения, новые записи, расширенные разработки
+- **вклад в исходный материал**: идентификация дополнительных исходных материалов, научных ссылок, работа с первичными источниками
+- **межкультурный вклад**: существенное взаимодействие с традициями и исходными материалами, в настоящее время недостаточно представленными в корпусе
+- **редакционный вклад**: уточнение существующих записей, структурные улучшения, исправление ошибок
+- **технический вклад**: улучшения базовой веб-инфраструктуры, доступности, функциональности поиска
 
-The detailed contribution guidelines are available through the project's GitHub repositories.
+Подробные рекомендации по внесению вклада доступны через репозитории проекта на GitHub.
 
-### The reader's invitation
+### Приглашение читателю
 
-The corpus extends an explicit invitation to its readers. The corpus's articulation:
+Корпус расширяет эксплицитное приглашение своим читателям. Формулировка корпуса:
 
-> *"The corpus is not a closed system. It is an open invitation to evaluation."*
+> *«Корпус не является закрытой системой. Это открытое приглашение к оценке»*.
 
-The reader is invited to:
+Читателю предлагается:
 
-- Engage the framework substantively rather than dismissively or uncritically
-- Distinguish between the corpus's source-claim content, comparative-observation content, and framework-specific interpretive content
-- Compare the framework against alternative interpretations of the same source material
-- Evaluate the framework against the reader's own engagement with the broader source-material landscape
-- Contribute substantively to the project's ongoing development
+- задействовать рамку существенно, а не пренебрежительно и не некритически
+- разграничивать содержание утверждений источников, содержание сравнительных наблюдений и содержание специфической для рамки интерпретации в корпусе
+- сравнивать рамку с альтернативными интерпретациями того же исходного материала
+- оценивать рамку относительно собственного взаимодействия читателя с более широким ландшафтом исходного материала
+- существенно вносить вклад в продолжающееся развитие проекта
 
-The corpus does not require acceptance. It asks for serious engagement. Whether the reader ultimately accepts, rejects, modifies, or holds open judgment regarding the broader framework is a question for the reader to determine through substantive engagement with the material rather than through prior commitment in either direction.
+Корпус не требует принятия. Он просит серьёзного взаимодействия. Принимает ли в конечном счёте читатель, отвергает, модифицирует или удерживает суждение в отношении более широкой рамки — вопрос, который читатель должен решать через существенное взаимодействие с материалом, а не через предварительные обязательства в ту или иную сторону.
 
-## See also
+## См. также
 
-- [World Age](../world-age/)
-- [Zodiac](../zodiac/)
-- [Doubled Signature](../doubled-signature/)
-- [Cosmic Chain](../cosmic-chain/)
-- [Cosmic Competition](../cosmic-competition/)
-- [Mass Effect](../mass-effect/)
-- [Fractal Cosmology](../fractal-cosmology/)
-- [Infinity](../infinity/)
-- [Living Earth](../living-earth/)
-- [Four Levels](../four-levels/)
-- [Plurality of Gods](../plurality-of-gods/)
-- [Hebrew Bible](../hebrew-bible/)
-- [Kabbalah](../kabbalah/)
-- [Elohim](../elohim/)
-- [Yahweh](../yahweh/)
-- [Lucifer](../lucifer/)
-- [Satan](../satan/)
-- [Serpent](../serpent/)
-- [Raël](../rael/)
-- [Raëlism](../raelism/)
-- [Embassy](../embassy/)
-- [Hamlet's Mill](../hamlets-mill/)
-- [Jean Sendy](../jean-sendy/)
-- [Mauro Biglino](../mauro-biglino/)
-- [Paul Anthony Wallis](../paul-anthony-wallis/)
-- [Akhenaten](../akhenaten/)
-- [Neo-Euhemerism](../neo-euhemerism/)
+- [Эпоха мира](../world-age/)
+- [Зодиак](../zodiac/)
+- [Удвоенная сигнатура](../doubled-signature/)
+- [Космическая цепь](../cosmic-chain/)
+- [Космическая конкуренция](../cosmic-competition/)
+- [Эффект массы](../mass-effect/)
+- [Фрактальная космология](../fractal-cosmology/)
+- [Бесконечность](../infinity/)
+- [Живая Земля](../living-earth/)
+- [Четыре уровня](../four-levels/)
+- [Множественность богов](../plurality-of-gods/)
+- [Еврейская Библия](../hebrew-bible/)
+- [Каббала](../kabbalah/)
+- [Элохим](../elohim/)
+- [Яхве](../yahweh/)
+- [Люцифер](../lucifer/)
+- [Сатана](../satan/)
+- [Змей](../serpent/)
+- [Раэль](../rael/)
+- [Раэлизм](../raelism/)
+- [Посольство](../embassy/)
+- [Мельница Гамлета](../hamlets-mill/)
+- [Жан Сенди](../jean-sendy/)
+- [Мауро Бильино](../mauro-biglino/)
+- [Пол Энтони Уоллис](../paul-anthony-wallis/)
+- [Эхнатон](../akhenaten/)
+- [Неоэвгемеризм](../neo-euhemerism/)
 
-## References
+## Источники
 
-### Project governance documents
+### Управленческие документы проекта
 
-Wheel of Heaven Project. *Project Charter*. Internal governance document.
+Wheel of Heaven Project. *Project Charter*. Внутренний управленческий документ.
 
-Wheel of Heaven Project. *Editorial Style Guide*. Internal governance document.
+Wheel of Heaven Project. *Editorial Style Guide*. Внутренний управленческий документ.
 
-Wheel of Heaven Project. *Chronology Rules*. Internal governance document.
+Wheel of Heaven Project. *Chronology Rules*. Внутренний управленческий документ.
 
-Wheel of Heaven Project. *Nomenclature*. Internal governance document.
+Wheel of Heaven Project. *Nomenclature*. Внутренний управленческий документ.
 
-Wheel of Heaven Project. *Source Methodology*. Internal governance document.
+Wheel of Heaven Project. *Source Methodology*. Внутренний управленческий документ.
 
-Wheel of Heaven Project. *Chapter Index*. Internal governance document.
+Wheel of Heaven Project. *Chapter Index*. Внутренний управленческий документ.
 
-Wheel of Heaven Project. *Master Timeline*. Internal governance document.
+Wheel of Heaven Project. *Master Timeline*. Внутренний управленческий документ.
 
-### Principal Raëlian sources
+### Главные раэлианские источники
 
-Vorilhon, Claude (Raël). *The Book Which Tells the Truth* (1974); collected in *Message from the Designers*. The principal source for the framework's specific content.
+Ворильон, Клод (Раэль). *The Book Which Tells the Truth* (1974); собрано в *Message from the Designers*. Главный источник конкретного содержания рамки.
 
-Vorilhon, Claude (Raël). *Extra-Terrestrials Took Me to Their Planet* (1975); collected in *Message from the Designers*.
+Ворильон, Клод (Раэль). *Extra-Terrestrials Took Me to Their Planet* (1975); собрано в *Message from the Designers*.
 
-Vorilhon, Claude (Raël). *Let's Welcome the Extra-Terrestrials* (1979); collected in *Message from the Designers*.
+Ворильон, Клод (Раэль). *Let's Welcome the Extra-Terrestrials* (1979); собрано в *Message from the Designers*.
 
-Vorilhon, Claude (Raël). *Message from the Designers*. Tagman Press, 2005. The collected source compilation.
+Ворильон, Клод (Раэль). *Message from the Designers*. Tagman Press, 2005. Собранная компиляция источников.
 
-Vorilhon, Claude (Raël). *Geniocracy*. Various editions.
+Ворильон, Клод (Раэль). *{% wiki(slug="geniocracy") %}Geniocracy{% end %}*. Различные издания.
 
-Vorilhon, Claude (Raël). *Sensual Meditation*. Various editions.
+Ворильон, Клод (Раэль). *Sensual Meditation*. Различные издания.
 
-### Sendy's principal works
+### Главные работы Сенди
 
-Sendy, Jean. *Les cahiers de cours de Moïse*. Julliard, 1963.
+Сенди, Жан. *Les cahiers de cours de Moïse*. Julliard, 1963.
 
-Sendy, Jean. *La Lune, clé de la Bible*. Julliard, 1968.
+Сенди, Жан. *La Lune, clé de la Bible*. Julliard, 1968.
 
-Sendy, Jean. *Ces dieux qui firent le ciel et la terre*. Robert Laffont, 1969.
+Сенди, Жан. *Ces dieux qui firent le ciel et la terre*. Robert Laffont, 1969.
 
-Sendy, Jean. *L'ère du Verseau*. Robert Laffont, 1970.
+Сенди, Жан. *L'ère du Verseau*. Robert Laffont, 1970.
 
-Sendy, Jean. *Les dieux nous sont nés*. Grasset, 1966.
+Сенди, Жан. *Les dieux nous sont nés*. Grasset, 1966.
 
-### Hamlet's Mill tradition
+### Традиция «Мельницы Гамлета»
 
-de Santillana, Giorgio, and Hertha von Dechend. *Hamlet's Mill: An Essay on Myth and the Frame of Time*. Gambit, 1969.
+де Сантильяна, Джорджо, и Герта фон Дехенд. *Hamlet's Mill: An Essay on Myth and the Frame of Time*. Gambit, 1969.
 
-Cruttenden, Walter. *Lost Star of Myth and Time*. St. Lynn's Press, 2005.
+Краттенден, Уолтер. *Lost Star of Myth and Time*. St. Lynn's Press, 2005.
 
-Sellers, Jane B. *The Death of Gods in Ancient Egypt*. Penguin, 1992.
+Селлерс, Джейн Б. *The Death of Gods in Ancient Egypt*. Penguin, 1992.
 
-Aveni, Anthony F. *Skywatchers of Ancient Mexico*. University of Texas Press, 1980.
+Авени, Энтони Ф. *Skywatchers of Ancient Mexico*. University of Texas Press, 1980.
 
-Krupp, Edwin C. *Echoes of the Ancient Skies*. Harper & Row, 1983.
+Крапп, Эдвин К. *Echoes of the Ancient Skies*. Harper & Row, 1983.
 
-### Hebrew Bible scholarship
+### Наука о Еврейской Библии
 
-Wellhausen, Julius. *Prolegomena to the History of Israel*. Trans. J. Sutherland Black and Allan Menzies. Adam & Charles Black, 1885 [originally 1878].
+Вельгаузен, Юлиус. *Prolegomena to the History of Israel*. Пер. J. Sutherland Black и Allan Menzies. Adam & Charles Black, 1885 [оригинал 1878].
 
-Friedman, Richard Elliott. *Who Wrote the Bible?* Harper & Row, 1987.
+Фридман, Ричард Эллиот. *Who Wrote the Bible?* Harper & Row, 1987.
 
-Friedman, Richard Elliott. *The Bible with Sources Revealed*. HarperOne, 2003.
+Фридман, Ричард Эллиот. *The Bible with Sources Revealed*. HarperOne, 2003.
 
-von Rad, Gerhard. *Genesis: A Commentary*. Westminster, revised ed., 1972 [originally 1949].
+фон Рад, Герхард. *Genesis: A Commentary*. Westminster, испр. изд., 1972 [оригинал 1949].
 
-Westermann, Claus. *Genesis 1-11: A Commentary*. Augsburg / Fortress, 1984.
+Вестерманн, Клаус. *Genesis 1-11: A Commentary*. Augsburg / Fortress, 1984.
 
-Brueggemann, Walter. *Theology of the Old Testament*. Augsburg Fortress, 1997.
+Брюггеманн, Уолтер. *Theology of the Old Testament*. Augsburg Fortress, 1997.
 
-Alter, Robert. *The Hebrew Bible: A Translation with Commentary*. 3 vols. W. W. Norton, 2018.
+Альтер, Роберт. *The Hebrew Bible: A Translation with Commentary*. 3 тома. W. W. Norton, 2018.
 
-Dever, William G. *What Did the Biblical Writers Know and When Did They Know It?* Eerdmans, 2001.
+Девер, Уильям Дж. *What Did the Biblical Writers Know and When Did They Know It?* Eerdmans, 2001.
 
-Finkelstein, Israel, and Neil Asher Silberman. *The Bible Unearthed*. Free Press, 2001.
+Финкельштейн, Израэль, и Нил Ашер Зильберман. *The Bible Unearthed*. Free Press, 2001.
 
-Tov, Emanuel. *Textual Criticism of the Hebrew Bible*. Augsburg Fortress, 3rd ed., 2012 [originally 1992].
+Тов, Эмануэль. *Textual Criticism of the Hebrew Bible*. Augsburg Fortress, 3-е изд., 2012 [оригинал 1992].
 
-### Kabbalah scholarship
+### Каббалистическая наука
 
-Scholem, Gershom. *Major Trends in Jewish Mysticism*. Schocken, 1941.
+Шолем, Гершом. *Major Trends in Jewish Mysticism*. Schocken, 1941.
 
-Idel, Moshe. *Kabbalah: New Perspectives*. Yale University Press, 1988.
+Идель, Моше. *Kabbalah: New Perspectives*. Yale University Press, 1988.
 
-Wolfson, Elliot R. *Through a Speculum That Shines*. Princeton University Press, 1994.
+Вольфсон, Эллиот Р. *Through a Speculum That Shines*. Princeton University Press, 1994.
 
-Matt, Daniel C., trans. *The Zohar: Pritzker Edition*. 12 vols. Stanford University Press, 2003-2017.
+Мэтт, Дэниел К., пер. *The Zohar: Pritzker Edition*. 12 томов. Stanford University Press, 2003–2017.
 
-### Alternative-history scholarship
+### Альтернативно-историческая наука
 
-Sitchin, Zecharia. *The 12th Planet*. Stein and Day, 1976.
+Ситчин, Захария. *The 12th Planet*. Stein and Day, 1976.
 
-Hancock, Graham. *Magicians of the Gods*. St. Martin's Press, 2015.
+Хэнкок, Грэм. *Magicians of the Gods*. St. Martin's Press, 2015.
 
-Bauval, Robert, and Adrian Gilbert. *The Orion Mystery*. Crown, 1994.
+Бовал, Роберт, и Адриан Гилберт. *The Orion Mystery*. Crown, 1994.
 
-West, John Anthony. *Serpent in the Sky*. Julian Press, 1979.
+Уэст, Джон Энтони. *Serpent in the Sky*. Julian Press, 1979.
 
-Wallis, Paul Anthony. *Escaping from Eden*. 6th Books, 2020.
+Уоллис, Пол Энтони. *Escaping from Eden*. 6th Books, 2020.
 
-Wallis, Paul Anthony. *The Eden Conspiracy*. 6th Books, 2024.
+Уоллис, Пол Энтони. *The Eden Conspiracy*. 6th Books, 2024.
 
-Biglino, Mauro, and Giorgio Cattaneo. *The Naked Bible*. Uno, 2022.
+Бильино, Мауро, и Джорджо Каттанео. *The Naked Bible*. Uno, 2022.
 
-### Egyptological sources (Akhenaten question)
+### Египтологические источники (вопрос Эхнатона)
 
-Aldred, Cyril. *Akhenaten: King of Egypt*. Thames & Hudson, 1988.
+Олдред, Сирил. *Akhenaten: King of Egypt*. Thames & Hudson, 1988.
 
-Redford, Donald B. *Akhenaten: The Heretic King*. Princeton University Press, 1984.
+Редфорд, Дональд Б. *Akhenaten: The Heretic King*. Princeton University Press, 1984.
 
-Hornung, Erik. *Akhenaten and the Religion of Light*. Cornell University Press, 1999.
+Хорнунг, Эрик. *Akhenaten and the Religion of Light*. Cornell University Press, 1999.
 
-### Web resources
+### Веб-ресурсы
 
-Wheel of Heaven Project. <https://www.wheelofheaven.world>. The principal project web platform.
+Wheel of Heaven Project. <https://www.wheelofheaven.world>. Главная веб-платформа проекта.
 
-Wheel of Heaven GitHub. <https://github.com/wheelofheaven/>. The principal technical infrastructure repository.
+Wheel of Heaven GitHub. <https://github.com/wheelofheaven/>. Главный репозиторий технической инфраструктуры.

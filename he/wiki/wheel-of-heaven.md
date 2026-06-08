@@ -1,540 +1,607 @@
 +++
-title = "Wheel of Heaven"
+title = "גלגל השמיים"
 slug = "wheel-of-heaven"
-description = "Wheel of Heaven is a curated comparative knowledge project — both the name of an interpretive framework and the corpus that articulates it — centered on revelation, cosmic chronology, ancient memory, sacred history, and modern reinterpretation. The project's working hypothesis: terrestrial life was produced by the deliberate scientific work of a specific advanced civilization, called in the Hebrew Bible the *Elohim*, who arrived on Earth approximately 22,000 years ago and conducted across the subsequent precessional ages a project of planetary preparation, life synthesis, and the eventual creation of humanity in their own image. The framework draws principally on Raëlian source material (Claude Vorilhon's 1973-1975 contact accounts), Jean Sendy's pre-Raëlian work (the broader 'Tradition' framework), the precessional-mythological reconstruction articulated in Giorgio de Santillana and Hertha von Dechend's *Hamlet's Mill* (1969), and a wide cross-cultural body of religious-mythological-iconographic-archaeological-textual evidence read as preserved cultural memory of the project. The name 'Wheel of Heaven' carries a dual meaning: principally, the precessional cycle (~25,920 years) through which the vernal equinox rotates against the zodiacal background, organizing the corpus's twelve-age narrative; secondarily, the wheel-within-a-wheel imagery preserved in Ezekiel's vision (אוֹפַן בְּתוֹךְ הָאוֹפָן, *ofan betokh ha-ofan*) as one of several Hebrew Bible passages registering Elohim spacecraft observation in pre-scientific vocabulary. The corpus is not a final synthesis but one stage in an ongoing collective project of integration, with the broader work expected to continue across the coming decades through the corpus's own development and through parallel work by other authors and traditions."
+description = "גלגל השמיים הוא פרויקט ידע השוואתי מאוצר — הן שמה של מסגרת פרשנית והן הקורפוס המנסח אותה — המתמקד בהתגלות, בכרונולוגיה קוסמית, בזיכרון קדום, בהיסטוריה מקודשת ובפרשנות מחודשת בעת המודרנית. השערת העבודה של הפרויקט: החיים על פני כדור הארץ נוצרו על ידי עבודתה המדעית המכוונת של ציוויליזציה מתקדמת מסוימת, הקרויה בתנ״ך *אלוהים*, אשר הגיעה לכדור הארץ לפני כ-22,000 שנה והובילה לאורך עידני המַזָּלוֹת שבאו לאחר מכן פרויקט של הכנת כוכב הלכת, סינתזה של חיים, ולבסוף יצירת האדם בצלמה. המסגרת נשענת בעיקר על חומר המקורות הראליאני (תיעודי המגע של קלוד וורילון בשנים 1973–1975), על עבודתו הקדם-ראליאנית של ז׳אן סנדי (מסגרת ה׳מסורת׳ הרחבה), על השחזור המיתולוגי-המַזָּלִי המנוסח אצל ג׳ורג׳ו דה סנטיליאנה והרתה פון דכנד ב-*טחנת המלט* (1969), ועל גוף רחב של עדויות דתיות-מיתולוגיות-איקונוגרפיות-ארכאולוגיות-טקסטואליות בין-תרבותיות הנקראות כזיכרון תרבותי שמור של הפרויקט. השם ׳גלגל השמיים׳ נושא משמעות כפולה: בעיקר, מחזור המַזָּלוֹת (~25,920 שנה) שדרכו נקודת השוויון האביבי נעה כנגד רקע גלגל המַזָּלוֹת, המארגן את נראטיב שנים-עשר העידנים שבקורפוס; ובמשנה, דימוי האוֹפַן-בְּתוֹךְ-הָאוֹפָן השמור בחזון יחזקאל (אוֹפַן בְּתוֹךְ הָאוֹפָן, *ofan betokh ha-ofan*) כאחד מכמה קטעים בתנ״ך המתעדים תצפית כלי טיס של האלוהים באוצר מילים קדם-מדעי. הקורפוס אינו סינתזה סופית אלא שלב אחד בפרויקט אינטגרציה קולקטיבי מתמשך, כאשר העבודה הרחבה צפויה להמשיך לאורך העשורים הבאים הן באמצעות פיתוחו של הקורפוס עצמו והן באמצעות עבודה מקבילה של מחברים ומסורות נוספים."
 template = "wiki-page.html"
 toc = true
 
 [extra]
-translation_status = "metadata_only"
 featured_order = 4
 category = "Meta"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["the Wheel of Heaven framework", "the Wheel of Heaven corpus", "the Wheel of Heaven project", "the Wheel of Heaven thesis", "the framework (corpus-internal short form)", "the corpus (when referring to the written body of project content)"]
+alternative_names = ["מסגרת גלגל השמיים", "הקורפוס של גלגל השמיים", "פרויקט גלגל השמיים", "תזת גלגל השמיים", "המסגרת (צורת קיצור פנים-קורפוסית)", "הקורפוס (כשמתייחסים לגוף הכתוב של תוכן הפרויקט)"]
 see_also = [
-    { title = "The Tradition", path = "wiki/the-tradition", description = "The wider stream of comparative readings the project sits within." },
-    { title = "Biglino Method", path = "wiki/biglino-method", description = "A literalist Hebrew-reading approach the project draws on." },
-    { title = "Comparative Mythology", path = "wiki/comparative-mythology", description = "The scholarly discipline the project applies to canon-internal reading." },
-    { title = "Mytheme", path = "wiki/mytheme", description = "The unit of comparative analysis the project uses to track motifs across traditions." },
-    { title = "Sendy's Conditions of Coherence", path = "wiki/sendys-conditions-of-coherence", description = "The interpretive constraints the project tries to satisfy when reading sacred texts." },
+    { title = "המסורת", path = "wiki/the-tradition", description = "הזרם הרחב יותר של קריאות השוואתיות שבתוכו ממוקם הפרויקט." },
+    { title = "שיטת ביגלינו", path = "wiki/biglino-method", description = "גישת קריאה מילולית של העברית שעליה נשען הפרויקט." },
+    { title = "מיתולוגיה השוואתית", path = "wiki/comparative-mythology", description = "התחום המחקרי שהפרויקט מיישם בקריאה הפנים-קורפוסית." },
+    { title = "מִיתֵמָה", path = "wiki/mytheme", description = "יחידת הניתוח ההשוואתי שבה משתמש הפרויקט למעקב אחר מוטיבים בין מסורות." },
+    { title = "תנאי הקוהרנטיות של סנדי", path = "wiki/sendys-conditions-of-coherence", description = "מגבלות הפרשנות שהפרויקט מנסה לקיים בקריאת טקסטים מקודשים." },
 ]
 timeline = ["multi-age"]
 
+footnotes = [
+    { content = "הנתון של ~25,920 שנה עבור השנה הגדולה הוא עיגול פנים-מסגרתי: שנים-עשר עידני מַזָּלוֹת של 2,160 שנה בדיוק כל אחד. הערך האסטרונומי העכשווי לתקופת התקדמות הצירית, המחושב מתוך מודלי IAU 2006 לתקדימה-נוטציה, הוא כ-25,772 שנה — נתון משתנה לאט בעצמו ולא קבוע מוחלט, שכן קצב התקדמות מושפע משינויים ארוכי-טווח בגיאומטריית מסלול כדור הארץ ובמומנט הירחי-שמשי. העדפת הקורפוס לערך 25,920 משקפת את הנוחות הארגונית של המסגרת (שנים-עשר עידנים שווים) ולא טענה שהמחזור הוא ממש 25,920 שנה; ההפרש הוא כ-0.6%." },
+    { content = "דימוי האוֹפַן-בְּתוֹךְ-הָאוֹפָן של יחזקאל א׳:15–16 בעל היסטוריה פרשנית יהודית ונוצרית ארוכה שאינה מחייבת את הקריאה ככלי טיס. המסורת היהודית העיקרית קוראת את ה*אופנים* כאחד ממסדרי היצורים השמימיים במסורת ה*מרכבה*, כשספרות ה*היכלות* ולאחר מכן הרמב״ם וההגות הקבלית מפתחים את הדימוי כחזון של מבנה המציאות האלוהית. מחקר המקרא המרכזי — פירוש Anchor Bible של גרינברג, כרך NICOT של בלוק — קורא את הקטע כרטוריקה חזיונית-נבואית ולא כתיאור מילולי. קריאת הקורפוס לוקחת את הספציפיות המכאנית של התיאור (תנועתם המקושרת של האוֹפַנִּים, החישוקים מלאי העיניים, התנועה ללא סיבוב) כעדות לתצפית ולא לרטוריקה, מבלי לטעון שמסורות הפרשנות הסטנדרטיות שגויות לגבי ז׳אנר החזון." },
+    { content = "נתון כ-40 הנביאים הוא טענה פנים-מקורית שנשאבה מתמלילי וורילון ואינה נגזרת מספירות חיצוניות של המסורות הדתיות. מסורות שונות סופרות נביאים אחרת — המסורת האסלאמית מדברת על 25 נביאים נקובים בקוראן מתוך קורפוס רחב יותר של 124,000 שנשלחו לאורך תולדות האנושות; התנ״ך מציין 18 דמויות שנקראות במפורש *נביא* בספרים הקנוניים; המסורת הבהאית סופרת תשעה מבטאים כמרכזיים. הקורפוס מתייחס לנתון כאל מניין יהוה עצמו של מתווכי הברית הנשלחים, על פי המקור, ולא כאל מספר הניתן להמרה או לגזירה ממניין נבואי של מסורת בודדת כלשהי." },
+    { content = "השאלה האם פולחן האתון של אחנאתון היה מונותאיזם אמיתי, הנותאיזם, או מונולטריה בעלת מניע פוליטי, נותרה שנויה במחלוקת בקרב חוקרי מצרים העתיקה. סיריל אלדרד (1988) קורא את הרפורמה של אחנאתון כמונותאיסטית אותנטית בשלבה הבשל. דונלד רדפורד (1984) מדגיש את הממדים הפוליטיים-כלכליים — המכה בכהונת אמון בכרנכ — מעל לאלה התיאולוגיים. אריק הורנונג (1999) מתייחס לרפורמה כ*הנותאיזם* שבו האלים האחרים אינם מוכחשים אך מועברים לתפקוד נטול-משמעות תחת דיסקה השמש האוניברסלית. הקורפוס אינו מתחייב לשאלת המונותאיזם של אחנאתון לכאן או לכאן; הקישור המוצע בין גלגל-השמיים-לכלי-טיס נרשם כפי שאחת המסורות קוראת אותו, בעוד שהספרות המצרולוגית המרכזית מוכרת כחסרת תיעוד טקסטואלי ישיר של הטרמינולוגיה הספציפית." },
+    { content = "מסגרת הקורפוס פועלת בניצב לשחזורי המקור הספציפיים של ההיפותזה התיעודית (J / E / D / P, ושלל הזיקוקים שבאו אחריהם דרך ון סטרס, רנדטורף, שמיד, והמסורת הפוסט-ולהאוזנית הרחבה). האם החומש חובר ממסמכים תיעודיים נפרדים, משכבות משלימות סביב גרעין יהוויסטי או כוהני, או בתהליכים של מקטעים-עורכים — זו שאלה פנימית למתודולוגיה ביקורתית-מקורות; קריאת המסגרת מתייחסת למה שהטקסט השרידי משמר אודות המסומנים שלו ולא להיסטוריה ההרכבית שיצרה את הטקסט השרידי. שתי השאלות בלתי תלויות: טקסט יכול להיות מורכב הרכבית באחת הדרכים שהציעה המסורת המקורית-ביקורתית ועדיין לשמר את התוכן ההיסטורי-המתייחס שהמסגרת קוראת אותו כמשמר." },
+]
+
+[[extra.references]]
+id = "the-book-which-tells-the-truth"
+note = "טקסט הראליאני הבסיסי של וורילון משנת 1974 — המקור העיקרי לתוכן הספציפי של המסגרת; המגע הראשון בקלרמון-פראן ב-13 בדצמבר 1973."
+
+[[extra.references]]
+id = "extraterrestrials-took-me-to-their-planet"
+note = "יצירתו השנייה הראליאנית של וורילון משנת 1976 — תיעוד הביקור בפריגור באוקטובר 1975 וההסבר של יהוה על כוכב הבית."
+
+[[extra.references]]
+id = "lets-welcome-the-extraterrestrials"
+note = "יצירתו השלישית הראליאנית של וורילון משנת 1979 — פרויקט השגרירות ותפקיד האדם במעבר לעידן הדלי."
+
+[[extra.references]]
+id = "intelligent-design-message-from-the-designers"
+note = "אסופת המקורות הראליאנית המלוקטת; מצוטטת כניסוח העיקרי של טענת ברית-הבוראים המארגנת את השערת העבודה של הקורפוס."
+
+[[extra.references]]
+id = "those-gods-who-made-heaven-and-earth"
+note = "קריאתו הפילולוגית הקדם-ראליאנית של סנדי משנת 1969, של אלוהים כציוויליזציה פיזית — ניסוח קודם משמעותי של מסגרת המסורת."
+
+[[extra.references]]
+id = "the-coming-of-the-gods"
+note = "*L'Ere du Verseau* של סנדי (1970) — מסגור עידן הדלי בתוך מסגרת המסורת, יסוד לקריאה המַזָּלִית-המקדימה של התנ״ך בקורפוס."
+
+[[extra.references]]
+id = "hamlets-mill"
+note = "העוגן המחקרי הבסיסי של סנטיליאנה ופון דכנד משנת 1969 לקריאה המיתולוגית-המקדימה של הקורפוס."
+
+[[extra.references]]
+id = "ezekiel"
+note = "ספר התנ״ך המספק את דימוי האוֹפַן-בְּתוֹךְ-הָאוֹפָן (יחזקאל א׳:15-16) שמעגן את הממד הסמנטי המשני של שם הפרויקט."
+
+[[extra.references]]
+id = "genesis"
+note = "ספר התנ״ך שאת נראטיב הבריאה שלו קורא הקורפוס כזיכרון תרבותי דחוס של פרויקט ההנדסה הגנטית של הברית."
+
+[[extra.references]]
+id = "the-12th-planet"
+note = "יצירתו הבסיסית של סיטשין משנת 1976 במסגרת האנונאקי / נִיבּירוּ — נדונה כקריאה אלטרנטיבית-היסטורית סמוכה בעלת כיוון משותף אך תוקף-מקורי שונה."
+
+[[extra.references]]
+id = "escaping-from-eden"
+note = "קריאתו ההשוואתית המילולית-מחמירה של וואליס משנת 2020 לאלוהים של התנ״ך — נדונה כמסגרת סמוכה הרושמת כיוון משותף."
+
+[[extra.references]]
+id = "the-naked-bible"
+note = "עבודת התרגום המילולית-מחמירה של ביגלינו וקטנאו משנת 2022 — רקע מתודולוגי לעיסוקו הרחב יותר של וואליס בתרגום המחמיר."
+
+[[extra.references]]
+id = "prolegomena-zur-geschichte-israels"
+note = "ניסוחו הבסיסי של ולהאוזן משנת 1878 של ההיפותזה התיעודית — עוגן להתעסקות הקורפוס עם מחקר ביקורתי-מקורות מרכזי של התנ״ך."
+
+[[extra.references]]
+id = "who-wrote-the-bible"
+note = "ניסוחו הנגיש של פרידמן משנת 1987 של ההיפותזה התיעודית — נקודת ייחוס בקורפוס למחקר ביקורתי עכשווי."
+
+[[extra.references]]
+id = "the-zohar-pritzker"
+note = "תרגום מהדורת פריצקר של הזוהר ע״י מאט (2003-2017) — נקודת גישה מחקרית סטנדרטית לעיסוק הקבלי של הקורפוס."
+
 [extra.infobox]
-type = "Curated comparative knowledge project; interpretive framework for the integrated reading of revelation, cosmic chronology, ancient memory, sacred history, and modern reinterpretation"
+type = "פרויקט ידע השוואתי מאוצר; מסגרת פרשנית לקריאה משולבת של התגלות, כרונולוגיה קוסמית, זיכרון קדום, היסטוריה מקודשת ופרשנות מחודשת מודרנית"
 project_url = "https://www.wheelofheaven.world"
-project_status = "Active; ongoing development across multiple workstreams (wiki, library, blog, narrated introduction)"
-working_hypothesis = "Terrestrial life was produced by the deliberate scientific work of a specific advanced civilization, called in the Hebrew Bible the Elohim, who arrived on Earth approximately 22,000 years ago and conducted across twelve precessional ages a project of planetary preparation, life synthesis, and the eventual creation of humanity in their own image"
-principal_source_families = "Raëlian canonical texts (Claude Vorilhon, 1974 onward); Jean Sendy's pre-Raëlian Tradition framework (1963 onward); the precessional-mythological reconstruction of *Hamlet's Mill* (Santillana and von Dechend, 1969); the Hebrew Bible read with framework-specific hermeneutic; cross-cultural religious-mythological-archaeological evidence"
-principal_temporal_framework = "The precessional cycle (~25,920-year Great Year) divided into twelve precessional ages of approximately 2,160 years each; the corpus operational period extends from the Capricorn-age opening at -21,810 to the present Aquarian age (1950 corpus boundary, 1946 source-anchored boundary)"
-name_meaning_principal = "The precessional cycle as the 'wheel of heaven' that turns through the twelve zodiacal constellations across the Great Year; the principal organizing temporal-cosmological framework of the corpus"
-name_meaning_secondary = "The wheel-within-a-wheel imagery of Ezekiel's vision (Ezekiel 1:16, אוֹפַן בְּתוֹךְ הָאוֹפָן, *ofan betokh ha-ofan*) and broader Hebrew Bible spacecraft-imagery preserved in pre-scientific vocabulary"
-distinguished_from = "The Raëlian Movement (the corpus draws on Raëlian source material but is not affiliated with the institutional Raëlian Movement and does not require Raëlian commitments of its readers); Sendy's pre-Raëlian Tradition framework (the corpus extends Sendy's work substantially while retaining its principal interpretive moves); the broader 'ancient aliens' popular-television tradition (the corpus operates with substantially distinct epistemic standards and source-material discipline); mainstream comparative-religion scholarship (the corpus engages mainstream scholarship substantively but operates from distinctive interpretive commitments)"
-governance_documents = "Project Charter; Editorial Style Guide; Chronology Rules; Nomenclature; Source Methodology; Chapter Index; Master Timeline"
-status_in_framework = "Foundational meta-concept; the entry that articulates what the broader project IS, what it draws on, what it claims, and how it operates"
+project_status = "פעיל; פיתוח מתמשך לרוחב מספר קווי עבודה (ויקי, ספרייה, בלוג, מבוא מסופר)"
+working_hypothesis = "החיים על פני כדור הארץ נוצרו על ידי עבודתה המדעית המכוונת של ציוויליזציה מתקדמת מסוימת, הקרויה בתנ״ך אלוהים, שהגיעה לכדור הארץ לפני כ-22,000 שנה והובילה לאורך שנים-עשר עידני מַזָּלוֹת פרויקט של הכנת כוכב הלכת, סינתזה של חיים, ולבסוף יצירת האדם בצלמה"
+principal_source_families = "טקסטים ראליאניים קנוניים (קלוד וורילון, 1974 ואילך); מסגרת המסורת הקדם-ראליאנית של ז׳אן סנדי (1963 ואילך); השחזור המיתולוגי-המקדימה של *טחנת המלט* (סנטיליאנה ופון דכנד, 1969); התנ״ך הנקרא בהרמנויטיקה ייחודית למסגרת; עדויות דתיות-מיתולוגיות-ארכאולוגיות בין-תרבותיות"
+principal_temporal_framework = "מחזור התקדמות (~25,920 שנה של השנה הגדולה) מחולק לשנים-עשר עידני מַזָּלוֹת של כ-2,160 שנה כל אחד; תקופת הפעולה של הקורפוס מתפרשת מפתיחת עידן הגדי בשנת -21,810 ועד עידן הדלי הנוכחי (גבול קורפוס 1950, גבול מקור מעוגן 1946)"
+name_meaning_principal = "מחזור התקדימה כ׳גלגל השמיים׳ המסתובב בין שנים-עשר מַזָּלוֹת המַזָּלוֹת לאורך השנה הגדולה; המסגרת הטמפורלית-קוסמולוגית הארגונית העיקרית של הקורפוס"
+name_meaning_secondary = "דימוי האוֹפַן-בְּתוֹךְ-הָאוֹפָן של חזון יחזקאל (יחזקאל א׳:16, אוֹפַן בְּתוֹךְ הָאוֹפָן, *ofan betokh ha-ofan*) ודימויי כלי הטיס הרחבים יותר בתנ״ך השמורים באוצר מילים קדם-מדעי"
+distinguished_from = "התנועה הראליאנית (הקורפוס נשען על חומר מקורות ראליאני אך אינו משויך לתנועה הראליאנית המוסדית ואינו דורש מקוראיו התחייבויות ראליאניות); מסגרת המסורת הקדם-ראליאנית של סנדי (הקורפוס מרחיב את עבודתו של סנדי משמעותית תוך שמירה על המהלכים הפרשניים העיקריים שלה); מסורת ה׳חייזרים הקדומים׳ הפופולרית-טלוויזיונית הרחבה (הקורפוס פועל לפי סטנדרטים אפיסטמיים ומשמעת חומר-מקור שונים מהותית); מחקר השוואת-דתות מרכזי (הקורפוס מתעמת עם המחקר המרכזי באופן מהותי אך פועל מתוך מחויבויות פרשניות ייחודיות)"
+governance_documents = "אמנת פרויקט; מדריך סגנון עריכה; כללי כרונולוגיה; נומנקלטורה; מתודולוגיית מקורות; אינדקס פרקים; ציר זמן ראשי"
+status_in_framework = "מטא-מושג בסיסי; הערך המנסח מהו הפרויקט הרחב, על מה הוא נשען, מה הוא טוען וכיצד הוא פועל"
 +++
 
-**Wheel of Heaven** is a curated comparative knowledge project — both the name of an interpretive framework and the corpus that articulates it. The project is centered on revelation, cosmic chronology, ancient memory, sacred history, and modern reinterpretation, with the corpus assembling and integrating a wide body of religious-mythological-textual-archaeological evidence within a single coherent interpretive framework. The project exists as a public-facing web platform at **www.wheelofheaven.world**, supported by an extensive wiki, a library of curated source materials, a narrated introduction, and an ongoing blog tracking developments.
+**גלגל השמיים** הוא פרויקט ידע השוואתי מאוצר — הן שמה של מסגרת פרשנית והן הקורפוס המנסח אותה. הפרויקט מתמקד בהתגלות, בכרונולוגיה קוסמית, בזיכרון קדום, בהיסטוריה מקודשת ובפרשנות מחודשת מודרנית, כאשר הקורפוס מאסף ומשלב גוף רחב של עדויות דתיות-מיתולוגיות-טקסטואליות-ארכאולוגיות בתוך מסגרת פרשנית קוהרנטית אחת. הפרויקט קיים כפלטפורמת אינטרנט פתוחה לציבור בכתובת **www.wheelofheaven.world**, הנתמכת על ידי ויקי מקיף, ספריית חומרי מקור מאוצרים, מבוא מסופר ובלוג שוטף המתעד התפתחויות.
 
-The project's **working hypothesis**: terrestrial life was produced by the deliberate scientific work of a specific advanced civilization, called in the Hebrew {% wiki(slug="bible") %}Bible{% end %} the **Elohim** (אֱלֹהִים, plural of *Eloha*), who arrived on Earth approximately 22,000 years ago and conducted across the subsequent precessional ages a project of planetary preparation, life synthesis, and the eventual creation of humanity in their own image. The hypothesis is provisional in the technical sense — *a working hypothesis*, advanced as a basis for further research — and the corpus is structured to support its ongoing investigation rather than to assert it as settled. The corpus distinguishes throughout between direct source claims, comparative observations, framework-specific interpretive synthesis, and open questions.
+**השערת העבודה** של הפרויקט: החיים על פני כדור הארץ נוצרו על ידי עבודתה המדעית המכוונת של ציוויליזציה מתקדמת מסוימת, הקרויה ב{% wiki(slug="bible") %}מקרא{% end %} העברי **אלוהים** (אֱלֹהִים, ריבוי של *אֱלוֹהַּ*), שהגיעה לכדור הארץ לפני כ-22,000 שנה והובילה לאורך עידני המַזָּלוֹת שבאו לאחר מכן פרויקט של הכנת כוכב הלכת, סינתזה של חיים, ולבסוף יצירת האדם בצלמה. ההשערה היא זמנית במובן הטכני — *השערת עבודה*, מועלית כבסיס למחקר נוסף — והקורפוס בנוי לתמוך בחקירתה המתמשכת ולא להציגה כמוכרעת. הקורפוס מבחין לכל אורכו בין טענות מקור ישירות, תצפיות השוואתיות, סינתזה פרשנית ייחודית למסגרת ושאלות פתוחות.
 
-The framework draws on four principal source families. **Raëlian canonical texts** — principally *The Book Which Tells the Truth* (1974), *Extra-Terrestrials Took Me to Their Planet* (1975), and *Let's Welcome the Extra-Terrestrials* (1979), collected as *Message from the Designers* — provide the most direct articulation of the framework's specific content, derived from Claude Vorilhon's December 1973 and October 1975 contact accounts. **Jean Sendy's pre-Raëlian work** — principally *Les cahiers de cours de Moïse* (1963), *La Lune, clé de la Bible* (1968), *Ces dieux qui firent le ciel et la terre* (1969), and *L'ère du Verseau* (1970) — provides substantive prior articulation of the broader Tradition framework, with particular attention to Hebrew Bible exegesis through the precessional-zodiacal lens. ***Hamlet's Mill*** by Giorgio de Santillana and Hertha von Dechend (1969) provides the principal scholarly anchor for the framework's precessional-mythological reading. **Cross-cultural religious-mythological-archaeological evidence** — drawn from Hebrew Bible, broader Mesopotamian, Egyptian, Greek, Vedic, Mesoamerican, Chinese, and various other traditions — supplies the comparative material the framework reads as preserved cultural memory of the project's various phases.
+המסגרת נשענת על ארבע משפחות מקור עיקריות. **טקסטים ראליאניים קנוניים** — בעיקר *הספר אשר מספר את האמת* (1974),{{ cite(id="the-book-which-tells-the-truth", text="[1]", title="וורילון (ראל), *הספר אשר מספר את האמת* (1974) — טקסט ראליאני בסיסי המתעד את המגע בקלרמון-פראן בדצמבר 1973") }} *חוצנים לקחו אותי לכוכבם* (1975),{{ cite(id="extraterrestrials-took-me-to-their-planet", text="[2]", title="וורילון (ראל), *חוצנים לקחו אותי לכוכבם* (1976) — תיעוד הביקור בפריגור באוקטובר 1975 וההסבר על כוכב הבית") }} ו-*נקבל את פני החוצנים* (1979),{{ cite(id="lets-welcome-the-extraterrestrials", text="[3]", title="וורילון (ראל), *נקבל את פני החוצנים* (1979) — פרויקט השגרירות והמעבר לעידן הדלי") }} המקובצים כ-*מסר מהמתכננים*{{ cite(id="intelligent-design-message-from-the-designers", text="[4]", title="וורילון (ראל), *תכנון תבוני: מסר מהמתכננים* — אסופת המקורות הראליאנית המלוקטת") }} — מספקים את הניסוח הישיר ביותר של התוכן הספציפי של המסגרת, הנגזר מתיעודי המגע של קלוד וורילון מדצמבר 1973 ומאוקטובר 1975. **עבודתו הקדם-ראליאנית של ז׳אן סנדי** — בעיקר *Les cahiers de cours de Moïse* (1963), *La Lune, clé de la Bible* (1968), *Ces dieux qui firent le ciel et la terre* (1969),{{ cite(id="those-gods-who-made-heaven-and-earth", text="[5]", title="סנדי, *Ces dieux qui firent le ciel et la terre* (1969) / *אותם אלים שעשו את השמיים והארץ* — קריאה פילולוגית קדם-ראליאנית של אלוהים כציוויליזציה פיזית") }} ו-*L'ère du Verseau* (1970){{ cite(id="the-coming-of-the-gods", text="[6]", title="סנדי, *L'Ère du Verseau* / *בוא האלים* (1970) — מסגור עידן הדלי בתוך מסגרת המסורת") }} — מספקת ניסוח קודם מהותי של מסגרת המסורת הרחבה, עם תשומת לב מיוחדת לאקסגזה תנ״כית דרך עדשת המַזָּלוֹת-המַזָּלוֹת. ***טחנת המלט*** של ג׳ורג׳ו דה סנטיליאנה והרתה פון דכנד (1969){{ cite(id="hamlets-mill", text="[7]", title="דה סנטיליאנה ופון דכנד, *טחנת המלט* (1969) — העוגן המחקרי הבסיסי לקריאה המיתולוגית-המקדימה") }} מספקת את העוגן המחקרי העיקרי לקריאה המיתולוגית-המקדימה של המסגרת. **עדויות דתיות-מיתולוגיות-ארכאולוגיות בין-תרבותיות** — שאובות מהתנ״ך, מהמסורת המסופוטמית הרחבה, המצרית, היוונית, הוודית, המסואמריקנית, הסינית ומסורות שונות נוספות — מספקות את החומר ההשוואתי שהמסגרת קוראת כזיכרון תרבותי שמור של שלביו השונים של הפרויקט.
 
-The name **Wheel of Heaven** carries a dual meaning. Principally, the wheel of heaven is the **precessional cycle** — the slow rotation of the vernal-equinox point through the twelve zodiacal constellations across the ~25,920-year {% wiki(slug="great-year") %}Great Year{% end %}, organizing the corpus's twelve-age narrative architecture. The corpus articulation: *"The image at the heart of this work is the wheel of heaven. The wheel is the precessional cycle, the slow rotation of the sky's apparent orientation across the twenty-five thousand nine hundred and twenty years of the Great Year."* Secondarily, the wheel of heaven echoes the **wheel-within-a-wheel imagery** preserved in Ezekiel's vision (Ezekiel 1:16, אוֹפַן בְּתוֹךְ הָאוֹפָן, *ofan betokh ha-ofan*) as one of several Hebrew Bible passages registering Elohim spacecraft observation in pre-scientific vocabulary. Both meanings register substantively within the broader framework — the primary as foundational temporal-cosmological architecture, the secondary as one of the principal source-textual anchors for the framework's spacecraft-imagery reading.
+השם **גלגל השמיים** נושא משמעות כפולה. בעיקר, גלגל השמיים הוא **מחזור התקדמות** — הסיבוב האיטי של נקודת השוויון האביבי בין שנים-עשר מַזָּלוֹת המַזָּלוֹת לאורך ~25,920 שנה של {% wiki(slug="great-year") %}השנה הגדולה{% end %}, המארגן את ארכיטקטורת הנראטיב של שנים-עשר העידנים בקורפוס. ניסוח הקורפוס: *״הדימוי שבלב יצירה זו הוא גלגל השמיים. הגלגל הוא מחזור התקדימה, הסיבוב האיטי של ההתמצאות הנראית של השמיים לאורך עשרים וחמש אלף תשע מאות ועשרים שנה של השנה הגדולה.״* במשנה, גלגל השמיים מהדהד את **דימוי האוֹפַן-בְּתוֹךְ-הָאוֹפָן** השמור בחזון יחזקאל ({% libref(book="ezekiel-woh", chapter=1, verse=16) %}יחזקאל א׳:16{% end %}, אוֹפַן בְּתוֹךְ הָאוֹפָן, *ofan betokh ha-ofan*) כאחד מכמה קטעים בתנ״ך המתעדים תצפית כלי טיס של אלוהים באוצר מילים קדם-מדעי. שתי המשמעויות נרשמות מהותית בתוך המסגרת הרחבה — הראשית כארכיטקטורה טמפורלית-קוסמולוגית בסיסית, והמשנית כאחת מעוגני המקור הטקסטואלי העיקריים לקריאת דימויי כלי-הטיס של המסגרת.
 
-The corpus is not a final synthesis but one stage in an ongoing collective project of integration. The corpus's own articulation: *"The present corpus is not the final synthesis. It is one stage in an ongoing project that will continue across the coming years and decades, both through the corpus's own continued development and through the parallel work of other authors and traditions engaging the same materials."* The project operates with explicit recognition that subsequent work will supplement, extend, and in some respects supersede the present articulation as the broader Aquarian-age recovery and integration of the alliance's communication continues.
+הקורפוס אינו סינתזה סופית אלא שלב אחד בפרויקט אינטגרציה קולקטיבי מתמשך. ניסוח הקורפוס עצמו: *״הקורפוס הנוכחי אינו הסינתזה הסופית. הוא שלב אחד בפרויקט מתמשך שיימשך לאורך השנים והעשורים הקרובים, הן באמצעות פיתוחו המתמשך של הקורפוס עצמו והן באמצעות העבודה המקבילה של מחברים ומסורות אחרים העוסקים באותם החומרים.״* הפרויקט פועל מתוך הכרה מפורשת שעבודה שלאחר מכן תשלים, תרחיב, ובמובנים מסוימים תחליף את הניסוח הנוכחי ככל שהשחזור והאינטגרציה הרחבים של תקשורת הברית בעידן הדלי ימשיכו.
 
-This entry articulates what the Wheel of Heaven project IS — its purpose, its working hypothesis, its source-material foundations, its corpus structure, its editorial principles, and how it positions itself within the broader landscape of related projects.
+ערך זה מנסח מהו פרויקט גלגל השמיים — מטרתו, השערת העבודה שלו, יסודות חומרי המקור שלו, מבנה הקורפוס שלו, עקרונותיו העריכתיים, וכיצד הוא ממקם את עצמו בתוך הנוף הרחב של פרויקטים קרובים.
 
-## Etymology and naming
+## אטימולוגיה ושיום
 
-The project name carries a dual semantic content that the corpus engages substantively in both registers.
+שם הפרויקט נושא תוכן סמנטי כפול שהקורפוס מתעמת עמו מהותית בשני הרגיסטרים.
 
-### "Wheel" — the precessional cycle
+### ״גלגל״ — מחזור התקדמות
 
-The principal meaning of "Wheel of Heaven" is the **precessional cycle**. The cycle is produced by the slow conical wobble of Earth's rotational axis under gravitational torque from the sun and moon — a real astronomical phenomenon completing one full rotation every approximately 25,920 years. As the axis traces its conical motion, the celestial pole moves slowly across the sky and the vernal-equinox point (the place where the sun rises on the first day of spring) drifts backward through the zodiacal constellations at approximately 2,160 years per constellation. The detailed treatment of the precessional cycle and its mechanics lives in the [World Age](../world-age/) entry; the detailed treatment of the zodiacal framework lives in the [Zodiac](../zodiac/) entry.
+המשמעות העיקרית של ״גלגל השמיים״ היא **מחזור התקדמות**. המחזור נוצר על ידי הנדנוד הקוני האיטי של ציר הסיבוב של כדור הארץ תחת מומנט הכוח הגרביטציוני מן השמש והירח — תופעה אסטרונומית ממשית המשלימה סיבוב מלא אחד מדי כ-25,920 שנה. ככל שהציר משרטט את תנועתו הקונית, הקוטב השמימי נע באיטיות על פני השמיים ונקודת השוויון האביבי (המקום שבו השמש זורחת ביום הראשון של האביב) זוחלת אחורה דרך מַזָּלוֹת המַזָּלוֹת בקצב של כ-2,160 שנה למַזָּל. הטיפול המפורט במחזור התקדימה ובמכניקה שלו שוכן בערך [עידן עולמי](../world-age/); הטיפול המפורט במסגרת המַזָּלוֹת שוכן בערך [גלגל המַזָּלוֹת](../zodiac/).
 
-The framework reads the precessional cycle as the principal organizing temporal-cosmological structure of the entire corpus narrative. Each of twelve precessional ages — Capricorn, Sagittarius, Scorpio, Libra, Virgo, Leo, Cancer, Gemini, Taurus, Aries, Pisces, Aquarius — operates as an engineering-operational phase of the alliance's twenty-two-thousand-year project on Earth, with specific tasks, characteristic interventions, and a doubled astronomical signature encoded in the religious-iconographic tradition of the cultures the alliance cultivated during that age.
+המסגרת קוראת את מחזור התקדמות כמבנה הטמפורלי-קוסמולוגי הארגוני העיקרי של כל נראטיב הקורפוס. כל אחד משנים-עשר עידני המַזָּלוֹת — גדי, קשת, עקרב, מאזניים, בתולה, אריה, סרטן, תאומים, שור, טלה, דגים, דלי — פועל כשלב הנדסי-מבצעי של פרויקט הברית בן עשרים ושניים אלף השנים על כדור הארץ, עם משימות ספציפיות, התערבויות אופייניות, וחתימה אסטרונומית כפולה המקודדת במסורת הדתית-איקונוגרפית של התרבויות שהברית טיפחה במהלך אותו עידן.
 
-The "wheel" metaphor is precise rather than poetic. The precessional cycle is literally a rotation — the celestial pole traces a circle on the celestial sphere; the equinoctial point traces a complete circuit through the zodiac. The image is genuinely a turning wheel. The corpus's articulation: *"The wheel keeps turning. The Aquarian age that opened in 1946 and that contains our present moment will, across the coming centuries, complete its 2,160-year arc and yield to the Capricorn age that follows. The Capricorn age will yield to Sagittarius, Sagittarius to Scorpio, and the cycle will continue across the coming twenty-two thousand years until a new Great Year completes itself and a further one begins."*
+מטפורת ״הגלגל״ מדויקת ולא פיוטית. מחזור התקדמות הוא ממש סיבוב — הקוטב השמימי משרטט מעגל על הספירה השמימית; נקודת השוויון משרטטת מעגל שלם לאורך גלגל המַזָּלוֹת. הדימוי הוא של גלגל מסתובב במלוא מובן המילה.{{ footnote(id="1") }} ניסוח הקורפוס: *״הגלגל ממשיך להסתובב. עידן הדלי שנפתח ב-1946 והמכיל את הרגע הנוכחי שלנו, לאורך המאות הקרובות ישלים את קשתו בת 2,160 השנים ויפנה את מקומו לעידן הגדי שיבוא אחריו. עידן הגדי יפנה את מקומו לקשת, קשת לעקרב, והמחזור יימשך לאורך עשרים ושניים אלף השנים הקרובות עד שתושלם שנה גדולה חדשה והבאה אחריה תחל.״*
 
-### "Heaven" — the celestial sphere
+### ״שמיים״ — הספירה השמימית
 
-The "heaven" of "Wheel of Heaven" is the celestial sphere — the apparent dome of sky against which celestial motion is observed. The English word *heaven* descends from Old English *heofon*, with cognates across the Germanic languages (German *Himmel*, Dutch *hemel*) and broader Indo-European parallels. The term has dual semantic content in religious-cosmological usage: the *physical sky* (the observed celestial dome) and the *cosmological-spiritual realm* (the abode of divine beings).
+ה״שמיים״ של ״גלגל השמיים״ הם הספירה השמימית — כיפת השמיים הנראית שכנגדה נצפית התנועה השמימית. המילה האנגלית *heaven* מקורה באנגלית עתיקה *heofon*, עם מקבילות בשפות הגרמאניות (גרמנית *Himmel*, הולנדית *hemel*) ובמקבילות הודו-אירופיות רחבות יותר. למונח תוכן סמנטי כפול בשימוש דתי-קוסמולוגי: *השמיים הפיזיים* (כיפת השמיים הנצפית) ו-*התחום הקוסמולוגי-הרוחני* (משכנם של יצורים אלוהיים).
 
-The framework operates the term principally in its physical-celestial sense — the sky against which the precessional rotation is observed. The cosmological-spiritual sense remains present as secondary content, registering the framework's reading of the Elohim alliance as occupying a substantive cosmic-political position relative to humanity (the "heaven" from which they came is the broader cosmic civilizational order, of which humanity is a recently-created participant). The detailed treatment of the broader cosmic civilizational order lives in the [Cosmic Chain](../cosmic-chain/) entry.
+המסגרת מפעילה את המונח בעיקר במובנו הפיזי-השמימי — השמיים שכנגדם נצפה הסיבוב המקדים. המובן הקוסמולוגי-הרוחני נשאר נוכח כתוכן משני, הרושם את קריאת המסגרת לברית האלוהים כתופסת עמדה קוסמית-פוליטית מהותית ביחס לאנושות (״השמיים״ שמהם הם באו הם הסדר הציוויליזציוני הקוסמי הרחב יותר, שהאנושות היא משתתפת בו שנוצרה לאחרונה). הטיפול המפורט בסדר הציוויליזציוני הקוסמי הרחב יותר שוכן בערך [שרשרת קוסמית](../cosmic-chain/).
 
-The Hebrew cognate שָׁמַיִם (*shamayim*, "heavens") operates similarly across the Hebrew Bible — both physical sky and cosmological domain. The Greek οὐρανός (*ouranos*) preserves the same dual content. The framework reads the broader cross-cultural "heaven" vocabulary as preserving substantive cultural memory of the actual cosmic-civilizational reality that the framework articulates.
+המקבילה העברית שָׁמַיִם פועלת באופן דומה לרוחב התנ״ך — הן שמיים פיזיים והן תחום קוסמולוגי. היוונית οὐρανός (*ouranos*) משמרת את אותו תוכן כפול. המסגרת קוראת את אוצר המילים הבין-תרבותי של ״שמיים״ כמשמר זיכרון תרבותי מהותי של המציאות הקוסמית-הציוויליזציונית הממשית שהמסגרת מנסחת.
 
-### The secondary meaning — Ezekiel's wheel-within-a-wheel
+### המשמעות המשנית — האוֹפַן-בְּתוֹךְ-הָאוֹפָן של יחזקאל
 
-A secondary semantic dimension of "Wheel of Heaven" engages the **wheel-within-a-wheel imagery** of Ezekiel's vision. The principal passage appears at Ezekiel 1:15-16:
+ממד סמנטי משני של ״גלגל השמיים״ עוסק ב**דימוי האוֹפַן-בְּתוֹךְ-הָאוֹפָן** של חזון יחזקאל. הקטע העיקרי מופיע ב{% libref(book="ezekiel-woh", chapter=1, verse=15) %}יחזקאל א׳:15-16{% end %}:
 
 > וָאֵרֶא הַחַיּוֹת וְהִנֵּה אוֹפַן אֶחָד בָּאָרֶץ אֵצֶל הַחַיּוֹת לְאַרְבַּעַת פָּנָיו
 > מַרְאֵה הָאוֹפַנִּים וּמַעֲשֵׂיהֶם כְּעֵין תַּרְשִׁישׁ וּדְמוּת אֶחָד לְאַרְבַּעְתָּן וּמַרְאֵיהֶם וּמַעֲשֵׂיהֶם כַּאֲשֶׁר יִהְיֶה הָאוֹפַן בְּתוֹךְ הָאוֹפָן
 > *Va'ere ha-chayot ve-hineh ofan echad ba-aretz etzel ha-chayot le-arba'at panav*
 > *Mareh ha-ofanim u-ma'asehem ke-ein tarshish u-demut echad le-arba'atan u-mar'eihem u-ma'aseihem ka-asher yihyeh ha-ofan be-tokh ha-ofan*
-> "Now as I beheld the living creatures, behold one wheel upon the earth by the living creatures, with his four faces. The appearance of the wheels and their work was like unto the colour of a beryl: and they four had one likeness: and their appearance and their work was as it were a wheel in the middle of a wheel."
+> ״וָאֵרֶא הַחַיּוֹת וְהִנֵּה אוֹפַן אֶחָד בָּאָרֶץ אֵצֶל הַחַיּוֹת לְאַרְבַּעַת פָּנָיו. מַרְאֵה הָאוֹפַנִּים וּמַעֲשֵׂיהֶם כְּעֵין תַּרְשִׁישׁ וּדְמוּת אֶחָד לְאַרְבַּעְתָּן וּמַרְאֵיהֶם וּמַעֲשֵׂיהֶם כַּאֲשֶׁר יִהְיֶה הָאוֹפַן בְּתוֹךְ הָאוֹפָן.״
 
-The Hebrew אוֹפַן (*ofan*, "wheel") in this passage is a technical noun for a circular rotating object. The phrase אוֹפַן בְּתוֹךְ הָאוֹפָן (*ofan betokh ha-ofan*, "wheel within the wheel") has produced substantial interpretive history across Jewish, Christian, and modern engagement traditions. The framework reads the passage as preserved description of an Elohim aerial vehicle observed by Ezekiel in approximately 593 BCE — the prophet recording what he saw in the pre-scientific vocabulary available to him. The corpus articulation: *"As for the 'flying saucers' or 'wheels', their appearance and their operation were not at all badly described considering it is a primitive person who is speaking. 'as it were a wheel within a wheel...they didn't turn when they went.' In the center of the flying saucer, very similar to the one in which we are now sitting, was the habitable section - the rim."*
+המילה העברית אוֹפַן בקטע זה היא שם עצם טכני לאובייקט עגול מסתובב. הביטוי אוֹפַן בְּתוֹךְ הָאוֹפָן (*ofan betokh ha-ofan*, ״גלגל בתוך הגלגל״) ייצר היסטוריה פרשנית משמעותית לרוחב המסורות היהודית, הנוצרית והמודרנית.{{ footnote(id="2") }} המסגרת קוראת את הקטע כתיאור שמור של כלי טיס של אלוהים שנצפה על ידי יחזקאל בערך בשנת 593 לפנה״ס — הנביא תיעד את מה שראה באוצר המילים הקדם-מדעי שעמד לרשותו. ניסוח הקורפוס: *״לגבי ׳צלחות המעופפות׳ או ׳גלגלים׳, מראיהן ופעולתן לא תוארו רע בהתחשב בכך שמדובר באדם פרימיטיבי הדובר. ׳כְּאַשֶר יִהְיֶה הָאוֹפַן בְּתוֹךְ הָאוֹפָן…הם לא הסתובבו כאשר נעו.׳ במרכז הצלחת המעופפת, דומה מאוד לזו שבה אנו יושבים כעת, היה חלק המגורים — החישוק.״*
 
-The connection between the project name "Wheel of Heaven" and the Ezekiel imagery operates as a secondary semantic dimension rather than as the primary referent. The principal meaning remains the precessional cycle; the Ezekiel echo registers the framework's broader reading of the Hebrew Bible's spacecraft-imagery content.
+הקישור בין שם הפרויקט ״גלגל השמיים״ לבין דימוי יחזקאל פועל כממד סמנטי משני ולא כמסומן העיקרי. המשמעות העיקרית נותרת מחזור התקדמות; ההד היחזקאלי רושם את קריאת המסגרת הרחבה לתוכן דימויי-כלי-הטיס של התנ״ך.
 
-### Other proposed name-anchors — epistemic note
+### עוגני-שם מוצעים אחרים — הערה אפיסטמית
 
-Various interpretations have proposed additional anchors for the "Wheel of Heaven" designation, including a putative connection to **Akhenaten** (the 14th-century-BCE Egyptian pharaoh who established the Aten cult and founded the city of Akhetaten / modern Tell el-Amarna). One tradition holds that Akhenaten observed a disk-shaped aerial vehicle that the Egyptian record designated as a "wheel of heaven" — a connection registering substantive parallel content with the Ezekiel anchor.
+פרשנויות שונות הציעו עוגנים נוספים לכינוי ״גלגל השמיים״, כולל קישור משוער ל**אחנאתון** (פרעה מצרים מן המאה ה-14 לפנה״ס שייסד את פולחן האתון והקים את העיר אחת-אתון / תל אל-עמרנה המודרנית). מסורת אחת גורסת שאחנאתון צפה בכלי טיס דמוי-דיסקה שהתיעוד המצרי כינה ״גלגל השמיים״ — קישור הרושם תוכן מקביל מהותי לעוגן היחזקאלי.
 
-The corpus does not treat this Akhenaten connection as established. The principal Egyptological evidence for Akhenaten's religious-iconographic engagement runs through the **Aten** (אתן in transliterated form; the Egyptian solar disk depicted with rays ending in stylized hands offering the *ankh* sign of life), and the textual record from Amarna (the *Great Hymn to the Aten*, the various Boundary Stelae, the broader official inscriptions) does not contain a direct attestation of the specific "wheel of heaven" terminology applied to a flying object. The connection appears principally in popular-alternative-history sources without scholarly source-textual anchor. The corpus registers the proposed Akhenaten connection as one tradition holds it while flagging that the specific source-textual evidence remains unverified. Readers interested in the question are encouraged to consult primary Egyptological sources (Cyril Aldred's *Akhenaten: King of Egypt*, 1988; Donald B. Redford's *Akhenaten: The Heretic King*, 1984; the broader Amarna scholarly literature) and to draw their own conclusions.
+הקורפוס אינו מטפל בקישור האחנאתוני הזה כמבוסס. העדויות המצרולוגיות העיקריות לעיסוקו הדתי-איקונוגרפי של אחנאתון עוברות דרך **אתון** (אתן בתעתיק; דיסקת השמש המצרית המתוארת עם קרניים המסתיימות בידיים מסוגננות המגישות את סמל ה*ענק׳* של חיים), והתיעוד הטקסטואלי מעמרנה (*המנון הגדול לאתון*, מצבות הגבול השונות, הכתובות הרשמיות הרחבות) אינו מכיל תיעוד ישיר של הטרמינולוגיה הספציפית של ״גלגל השמיים״ המיוחסת לאובייקט מעופף. הקישור מופיע בעיקר במקורות אלטרנטיביים-פופולריים-היסטוריים ללא עוגן טקסטואלי-מקורי מחקרי. הקורפוס רושם את הקישור האחנאתוני המוצע כפי שמסורת אחת גורסת אותו, תוך הסתייגות שהעדות הטקסטואלית הספציפית נותרת לא-מאומתת. קוראים המתעניינים בשאלה מוזמנים לעיין במקורות מצרולוגיים ראשוניים (*אחנאתון: מלך מצרים* של סיריל אלדרד, 1988; *אחנאתון: המלך הכופר* של דונלד ב. רדפורד, 1984; הספרות המחקרית הרחבה של עמרנה) ולהסיק את מסקנותיהם.{{ footnote(id="3") }}
 
-The detailed treatment of Akhenaten's religious-historical role within the broader framework lives in the [Akhenaten](../akhenaten/) entry when written.
+הטיפול המפורט בתפקידו הדתי-היסטורי של אחנאתון במסגרת הרחבה שוכן בערך [אחנאתון](../akhenaten/) כשייכתב.
 
-### Cross-cultural designations of the corpus
+### כינויים בין-תרבותיים של הקורפוס
 
-The corpus operates principally in English under the **Wheel of Heaven** designation. No alternative-language designations have been formalized; the corpus would be designated by direct translation in other languages (French *Roue du Ciel*, German *Himmelsrad*, Hebrew גַּלְגַּל הַשָּׁמַיִם *galgal ha-shamayim*, etc.) where relevant.
+הקורפוס פועל בעיקר באנגלית תחת הכינוי **Wheel of Heaven**. לא נוסחו כינויים אלטרנטיביים בשפות אחרות; הקורפוס יכונה בתרגום ישיר בשפות אחרות (צרפתית *Roue du Ciel*, גרמנית *Himmelsrad*, עברית גַּלְגַּל הַשָּׁמַיִם, וכו׳) היכן שרלוונטי.
 
-### Corpus-internal usage
+### שימוש פנים-קורפוסי
 
-The corpus uses several related but distinct designations:
-- **Wheel of Heaven** — the project name and the overarching interpretive framework
-- **the framework** (corpus-internal short form) — for the interpretive framework specifically
-- **the corpus** — the written body of project content
-- **the project** — the broader collaborative undertaking that produces the corpus
-- **the Wheel of Heaven thesis** — the working hypothesis articulated above
-- **the Wheel of Heaven worldview** — the broader interpretive position the corpus articulates
+הקורפוס משתמש בכמה כינויים קרובים אך מובחנים:
+- **גלגל השמיים** — שם הפרויקט והמסגרת הפרשנית הכוללת
+- **המסגרת** (צורת קיצור פנים-קורפוסית) — עבור המסגרת הפרשנית ספציפית
+- **הקורפוס** — גוף הכתוב של תוכן הפרויקט
+- **הפרויקט** — המיזם השיתופי הרחב המייצר את הקורפוס
+- **תזת גלגל השמיים** — השערת העבודה שנוסחה לעיל
+- **השקפת העולם של גלגל השמיים** — העמדה הפרשנית הרחבה שהקורפוס מנסח
 
-The detailed nomenclature governance lives in the project's `03-nomenclature.md` governance document.
+ניהול הנומנקלטורה המפורט שוכן במסמך הניהול `03-nomenclature.md` של הפרויקט.
 
-## The working hypothesis
+## השערת העבודה
 
-The Wheel of Heaven project advances a specific working hypothesis as the framework that organizes the corpus's interpretive work. The hypothesis is *provisional* in the technical sense — accepted as a basis for further investigation rather than asserted as settled fact — but the corpus operates substantively within the hypothesis's commitments to allow systematic engagement with the material.
+פרויקט גלגל השמיים מקדם השערת עבודה ספציפית כמסגרת המארגנת את עבודתו הפרשנית של הקורפוס. ההשערה היא *זמנית* במובן הטכני — מתקבלת כבסיס לחקירה נוספת ולא נטענת כעובדה מוכרעת — אך הקורפוס פועל מהותית בתוך מחויבויות ההשערה כדי לאפשר התעמתות שיטתית עם החומר.
 
-### The principal claim
+### הטענה העיקרית
 
-The principal claim: terrestrial life was produced by the deliberate scientific work of a specific advanced civilization. The civilization in question — called in the Hebrew Bible the **Elohim** (אֱלֹהִים) — is a plural group of biological beings physiologically similar to humans but technologically far advanced. The Elohim are not gods in any supernatural sense; they are a civilization of biological beings who, approximately 22,000 years before the present, began the specific scientific project of creating life on Earth through genetic design and laboratory synthesis.
+הטענה העיקרית: החיים על פני כדור הארץ נוצרו על ידי עבודתה המדעית המכוונת של ציוויליזציה מתקדמת מסוימת. הציוויליזציה המדוברת — הקרויה בתנ״ך **אלוהים** (אֱלֹהִים) — היא קבוצה ברבים של יצורים ביולוגיים הדומים פיזיולוגית לבני אדם אך מתקדמים טכנולוגית בהרבה. האלוהים אינם אלים במובן על-טבעי כלשהו; הם ציוויליזציה של יצורים ביולוגיים אשר, לפני כ-22,000 שנה, החלו את הפרויקט המדעי הספציפי של יצירת חיים על כדור הארץ באמצעות תכנון גנטי וסינתזה מעבדתית.
 
-The principal articulation of this claim derives from the Raëlian source material: *"life on Earth was produced by the scientific work of a specific advanced civilization. The civilization in question, the Elohim, is a plural group of individuals of a species physiologically similar to humans but technologically far advanced. The Elohim are not gods in any supernatural sense. They are a civilization of biological beings who, approximately twenty-two thousand years before the present, began the specific scientific project of creating life on Earth through genetic design and laboratory synthesis."*
+הניסוח העיקרי של טענה זו נגזר מחומר המקור הראליאני:{{ cite(id="intelligent-design-message-from-the-designers", text="[8]", title="וורילון (ראל), *תכנון תבוני: מסר מהמתכננים* — מקור ראליאני עיקרי לטענת ברית-הבוראים") }} *״החיים על כדור הארץ נוצרו על ידי עבודתה המדעית של ציוויליזציה מתקדמת מסוימת. הציוויליזציה המדוברת, האלוהים, היא קבוצה ברבים של פרטים ממין הדומה פיזיולוגית לבני אדם אך מתקדם טכנולוגית בהרבה. האלוהים אינם אלים במובן על-טבעי כלשהו. הם ציוויליזציה של יצורים ביולוגיים אשר, לפני כעשרים ושניים אלף שנה, החלו את הפרויקט המדעי הספציפי של יצירת חיים על כדור הארץ באמצעות תכנון גנטי וסינתזה מעבדתית.״*
 
-The detailed treatment of the Elohim civilization lives in the [Elohim](../elohim/) entry.
+הטיפול המפורט בציוויליזציית האלוהים שוכן בערך [אלוהים](../elohim/).
 
-### The supporting claims
+### הטענות התומכות
 
-Five additional claims operate as substantive components of the broader working hypothesis:
+חמש טענות נוספות פועלות כרכיבים מהותיים של השערת העבודה הרחבה:
 
-**1. The cultural-memory preservation claim.** The Hebrew Bible and the other major religious traditions of the world preserve accurate cultural memory of the alliance's interventions, in forms that reflect the pre-scientific vocabularies of their authors but that can be decoded by a scientifically mature reader. The framework's distinctive hermeneutic — {% wiki(slug="genesis") %}Genesis{% end %} 1 as genetic engineering rather than supernatural creation, the *Nephilim* as alliance-human hybrids, the flood as nuclear cataclysm, Sinai as formal alliance audience, the *Elohim* as plural rather than singular — is the corpus's foundational interpretive move. The detailed treatment of the Hebrew Bible content lives in the [Hebrew Bible](../hebrew-bible/) entry.
+**1. טענת שימור הזיכרון התרבותי.** התנ״ך והמסורות הדתיות העיקריות האחרות של העולם משמרים זיכרון תרבותי מדויק של התערבויות הברית, בצורות המשקפות את אוצרות המילים הקדם-מדעיים של מחבריהם אך הניתנות לפענוח על ידי קורא בעל בגרות מדעית. ההרמנויטיקה הייחודית של המסגרת — {% wiki(slug="genesis") %}בראשית{% end %} פרק א׳{{ cite(id="genesis", text="[9]", title="בראשית — המקור התנ״כי העיקרי לקריאת הבריאה בקורפוס כהנדסה גנטית בהובלת הברית") }} כהנדסה גנטית ולא בריאה על-טבעית, *הנפילים* כהיברידים של ברית-אדם, המבול ככליה גרעינית, סיני כקהל ברית רשמי, *אלוהים* כריבוי ולא כיחיד — היא המהלך הפרשני הבסיסי של הקורפוס. הטיפול המפורט בתוכן התנ״כי שוכן בערך [תנ״ך](../hebrew-bible/).
 
-**2. The prophetic-tradition claim.** The alliance has sent approximately forty prophets across human history, each appropriate to the specific cultural moment at which they appeared, and each contributing to the cumulative preparation of humanity for the present Aquarian-age revelation. The list includes Adam, Noah, Abraham, Moses, {% wiki(slug="elijah") %}Elijah{% end %}, Isaiah, Ezekiel, Daniel, Buddha, Zoroaster, Jesus, Muhammad, Joseph Smith, Bahá'u'lláh, and various others. The detailed treatment lives in the [Prophet](../prophet/) entry.
+**2. טענת המסורת הנבואית.** הברית שלחה כ-40 נביאים לאורך תולדות האנושות, כל אחד מהם מותאם לרגע התרבותי הספציפי שבו הופיע, וכל אחד תורם להכנה המצטברת של האנושות להתגלות עידן הדלי הנוכחית.{{ footnote(id="4") }} הרשימה כוללת את אדם, נח, אברהם, משה, {% wiki(slug="elijah") %}אליהו{% end %}, ישעיהו, יחזקאל, דניאל, בודהה, זרתוסטרא, ישוע, מוחמד, ג׳וזף סמית, בהאא אללה ודמויות נוספות. הטיפול המפורט שוכן בערך [נביא](../prophet/).
 
-**3. The scientific-maturity claim.** Humanity has now reached, or is rapidly approaching, the scientific maturity that will permit it to understand and evaluate the alliance's teaching on its own terms. The Piscean-age arrangement — under which the alliance had stepped back from direct intervention to allow humanity to develop scientifically — has reached its conclusion. Humanity's own capacities in biology, physics, computing, and aerospace have advanced to the point where the alliance's interventions no longer look miraculous but look like what they actually are: applications of technology that humanity is itself beginning to develop.
+**3. טענת הבגרות המדעית.** האנושות הגיעה כעת, או מתקרבת במהירות, לבגרות המדעית שתאפשר לה להבין ולהעריך את תורת הברית על פי תנאיה. הסידור של עידן הדגים — שתחתיו הברית נסוגה מהתערבות ישירה כדי לאפשר לאנושות להתפתח מדעית — הגיע למסקנתו. יכולותיה של האנושות עצמה בביולוגיה, פיזיקה, מחשוב וחלל התקדמו לנקודה שבה התערבויות הברית כבר אינן נראות כמופלאות אלא נראות כפי שהן באמת: יישומי טכנולוגיה שהאנושות עצמה מתחילה לפתח.
 
-**4. The imminent-return claim.** The alliance intends to return to Earth openly and officially within the coming decades, at a specific site that humanity is to prepare — the **embassy** — located in a country that has granted the alliance extraterritorial status over approximately four square kilometers. The detailed treatment lives in the [Embassy](../embassy/) entry.
+**4. טענת השיבה הקרובה.** הברית מתכוונת לשוב לכדור הארץ באופן גלוי ורשמי בעשורים הקרובים, באתר ספציפי שעל האנושות להכין — **השגרירות** — הממוקמת במדינה שהעניקה לברית מעמד אקסטרא-טריטוריאלי על פני כארבעה קילומטרים רבועים. הטיפול המפורט שוכן בערך [שגרירות](../embassy/).
 
-**5. The cosmic-inheritance claim.** Humanity, having matured, will itself become a creating civilization — extending the alliance's work to other worlds across the galactic neighborhood, establishing the next iteration of the broader cosmic civilizational pattern. The detailed treatment lives in the [Cosmic Chain](../cosmic-chain/) entry.
+**5. טענת הירושה הקוסמית.** האנושות, לאחר שתבשיל, תהפוך בעצמה לציוויליזציה יוצרת — שתרחיב את עבודתה של הברית לעולמות אחרים לרוחב הסביבה הגלקטית, ותקים את האיטרציה הבאה של הדפוס הציוויליזציוני הקוסמי הרחב. הטיפול המפורט שוכן בערך [שרשרת קוסמית](../cosmic-chain/).
 
-### The epistemic status
+### המעמד האפיסטמי
 
-The corpus is explicit about the epistemic status of its working hypothesis. The hypothesis is not claimed as proven; it is offered as a coherent interpretive framework that the corpus's reader is invited to evaluate against alternatives. The corpus's articulation of its own epistemic posture: *"What can be said is the closure of the first cycle... The corpus is not a closed system. It is an open invitation to evaluation."*
+הקורפוס מפורש לגבי המעמד האפיסטמי של השערת העבודה שלו. ההשערה אינה נטענת כמוכחת; היא מוצעת כמסגרת פרשנית קוהרנטית שהקורא של הקורפוס מוזמן להעריך מול חלופות. ניסוח הקורפוס לעמדתו האפיסטמית: *״ניתן לומר את סגירת המחזור הראשון… הקורפוס אינו מערכת סגורה. הוא הזמנה פתוחה להערכה.״*
 
-The framework's distinctive contribution is the integration. Many of the individual claims have been advanced separately by various traditions and scholars: the Raëlian movement advances the alliance-creator claim; *Hamlet's Mill* advances the precessional-mythological reading; alternative-history scholars (Hancock, Bauval, Sitchin) advance various lost-civilization and ancient-contact readings; mainstream archaeoastronomy advances the cross-cultural-celestial-encoding reading; mainstream Hebrew Bible scholarship advances various textual-historical readings. What the Wheel of Heaven project adds is the systematic integration of these various source-material families within a single coherent framework, with explicit attention to the chronological-temporal architecture, the cross-cultural comparative content, and the epistemic distinctions between source claims, comparative observations, and framework-specific interpretive synthesis.
+תרומתה הייחודית של המסגרת היא האינטגרציה. רבות מהטענות הבודדות הועלו בנפרד על ידי מסורות וחוקרים שונים: התנועה הראליאנית מקדמת את טענת ברית-הבוראים; *טחנת המלט* מקדמת את הקריאה המיתולוגית-המקדימה; חוקרים אלטרנטיביים-היסטוריים (הנקוק, באוואל, סיטשין) מקדמים קריאות שונות של ציוויליזציה אבודה ומגע קדום; ארכאואסטרונומיה מרכזית מקדמת את קריאת הקידוד השמימי הבין-תרבותי; מחקר תנ״ך מרכזי מקדם קריאות טקסטואליות-היסטוריות שונות. מה שפרויקט גלגל השמיים מוסיף הוא האינטגרציה השיטתית של משפחות חומרי המקור הללו בתוך מסגרת קוהרנטית אחת, עם תשומת לב מפורשת לארכיטקטורה הכרונולוגית-הטמפורלית, לתוכן ההשוואתי הבין-תרבותי, ולהבחנות האפיסטמיות בין טענות מקור, תצפיות השוואתיות וסינתזה פרשנית ייחודית למסגרת.
 
-The detailed treatment of the broader source-methodology lives in the project's `04-source-methodology.md` governance document.
+הטיפול המפורט במתודולוגיית המקורות הרחבה שוכן במסמך הניהול `04-source-methodology.md` של הפרויקט.
 
-## The corpus structure
+## מבנה הקורפוס
 
-The Wheel of Heaven corpus is organized as a multi-component knowledge architecture supporting various reader engagements.
+הקורפוס של גלגל השמיים מאורגן כארכיטקטורת ידע רב-רכיבית התומכת בהתעמתויות שונות של הקורא.
 
-### The wiki
+### הוויקי
 
-The principal corpus component is the **wiki** — a curated comparative knowledge base assembled across several hundred entries covering figures, places, events, periods, concepts, texts, and precessional ages. The wiki operates as the corpus's principal reference architecture, with entries cross-referenced through a substantial internal-link structure.
+הרכיב העיקרי של הקורפוס הוא ה**ויקי** — בסיס ידע השוואתי מאוצר המורכב ממאות ערכים המכסים דמויות, מקומות, אירועים, תקופות, מושגים, טקסטים ועידני מַזָּלוֹת. הוויקי פועל כארכיטקטורת הייחוס העיקרית של הקורפוס, כאשר הערכים מקושרים זה לזה באמצעות מבנה קישורים פנימי משמעותי.
 
-The wiki's typological architecture distinguishes seven principal entry types:
+הארכיטקטורה הטיפולוגית של הוויקי מבחינה בין שבעה סוגי ערכים עיקריים:
 
-1. **Figure entries** — individual persons (historical, religious-traditional, framework-specific): Adam, Eve, Noah, Abraham, Moses, Mary, Jesus, Muhammad, Buddha, Joseph Smith, Vorilhon, the various creator-figures (Yahweh, Lucifer, Satan, the Serpent), various others
-2. **Civilization / polity entries** — collective entities: the Hebrews, the Elohim, the Israelites, various others
-3. **Place entries** — specific locations: {% wiki(slug="eden") %}Eden{% end %}, {% wiki(slug="babel") %}Babel{% end %}, {% wiki(slug="sodom-and-gomorrah") %}Sodom and Gomorrah{% end %}, the Embassy site, various others
-4. **Event / period entries** — specific historical-cultural events or periods: the {% wiki(slug="theomachy") %}Theomachy{% end %}, the {% wiki(slug="great-flood") %}Great Flood{% end %}, the Babel intervention, the Sodom strike, various others
-5. **Concept entries** — interpretive concepts: World Age, Zodiac, Doubled Signature, Cosmic Chain, Cosmic Competition, Mass Effect, Fractal Cosmology, Plurality of Gods, various others
-6. **Text entries** — source-textual entities: Hebrew Bible, Kabbalah, *Hamlet's Mill*, *Message from the Designers*, various others
-7. **Precessional age entries** — the twelve individual age treatments: Age of Capricorn, Age of Sagittarius, Age of Scorpio, Age of Libra, Age of Virgo, Age of Leo, Age of Cancer, Age of Gemini, Age of Taurus, Age of Aries, Age of Pisces, Age of Aquarius
+1. **ערכי דמויות** — אנשים בודדים (היסטוריים, דתיים-מסורתיים, ייחודיים-למסגרת): אדם, חוה, נח, אברהם, משה, מרים, ישוע, מוחמד, בודהה, ג׳וזף סמית, וורילון, דמויות הבורא השונות (יהוה, לוציפר, שטן, הנחש), נוספים שונים
+2. **ערכי ציוויליזציה / פוליטיה** — ישויות קולקטיביות: העברים, האלוהים, בני ישראל, נוספים שונים
+3. **ערכי מקומות** — מיקומים ספציפיים: {% wiki(slug="eden") %}עדן{% end %}, {% wiki(slug="babel") %}בבל{% end %}, {% wiki(slug="sodom-and-gomorrah") %}סדום ועמורה{% end %}, אתר השגרירות, נוספים שונים
+4. **ערכי אירוע / תקופה** — אירועים או תקופות היסטוריות-תרבותיות ספציפיים: ה{% wiki(slug="theomachy") %}תאומכיה{% end %}, ה{% wiki(slug="great-flood") %}מבול הגדול{% end %}, התערבות בבל, מכת סדום, נוספים שונים
+5. **ערכי מושג** — מושגים פרשניים: עידן עולמי, גלגל המַזָּלוֹת, חתימה כפולה, שרשרת קוסמית, תחרות קוסמית, אפקט המסה, קוסמולוגיה פרקטלית, ריבוי האלים, נוספים שונים
+6. **ערכי טקסט** — ישויות טקסטואליות-מקוריות: תנ״ך, קבלה, *טחנת המלט*, *מסר מהמתכננים*, נוספים שונים
+7. **ערכי עידן המַזָּלוֹת** — שנים-עשר הטיפולים הבודדים בעידנים: עידן הגדי, עידן הקשת, עידן העקרב, עידן המאזניים, עידן הבתולה, עידן האריה, עידן הסרטן, עידן התאומים, עידן השור, עידן הטלה, עידן הדגים, עידן הדלי
 
-Each entry follows a typology-specific structural template articulated in the project's editorial style guide, with sections appropriate to the entry's typological position. The detailed treatment of the editorial typology lives in the project's `01-editorial-style.md` governance document.
+כל ערך עוקב אחר תבנית מבנית ספציפית-לטיפולוגיה המנוסחת במדריך סגנון העריכה של הפרויקט, עם סעיפים מתאימים למיקום הטיפולוגי של הערך. הטיפול המפורט בטיפולוגיה העריכתית שוכן במסמך הניהול `01-editorial-style.md` של הפרויקט.
 
-### The library
+### הספרייה
 
-The corpus's **library** component curates source materials supporting the broader framework engagement. The library includes:
+רכיב ה**ספרייה** של הקורפוס מאצר חומרי מקור התומכים בהתעמתות הרחבה עם המסגרת. הספרייה כוללת:
 
-- **Primary Raëlian texts**: *Message from the Designers* (the collected Vorilhon source material) and various other Raëlian publications
-- **Sendy's principal works**: *Les cahiers de cours de Moïse* (1963), *La Lune, clé de la Bible* (1968), *Ces dieux qui firent le ciel et la terre* (1969), *L'ère du Verseau* (1970), various others
-- **The *Hamlet's Mill* tradition**: Santillana and von Dechend's foundational work plus subsequent extensions (Cruttenden, Sellers, Aveni, Krupp)
-- **Mainstream comparative-religion scholarship**: Hebrew Bible scholarship (Wellhausen, Friedman, von Rad, Westermann, Brueggemann, Alter), Kabbalah scholarship (Scholem, Idel, Wolfson, Liebes, Matt), various others
-- **Alternative-history scholarship**: Sitchin, Hancock, Bauval, West, Wallis, Biglino, various others
-- **Cross-cultural source materials**: Mesopotamian (Atrahasis, Enuma Elish, Gilgamesh, the Sumerian King List), Egyptian (Pyramid Texts, Coffin Texts, Book of the Dead), Greek (Hesiod, Homer, Plato), Indian (Rigveda, Upanishads, Mahabharata, Puranas), Mesoamerican (Popol Vuh, the Long Count materials), Chinese, various others
+- **טקסטים ראליאניים ראשוניים**: *מסר מהמתכננים* (חומר המקור המלוקט של וורילון) ופרסומים ראליאניים אחרים שונים
+- **עבודותיו העיקריות של סנדי**: *Les cahiers de cours de Moïse* (1963), *La Lune, clé de la Bible* (1968), *Ces dieux qui firent le ciel et la terre* (1969), *L'ère du Verseau* (1970), נוספים שונים
+- **מסורת *טחנת המלט***: עבודתם הבסיסית של סנטיליאנה ופון דכנד בתוספת הרחבות לאחר מכן (קראטנדן, סלרס, אווני, קרופ)
+- **מחקר השוואת-דתות מרכזי**: מחקר תנ״ך (ולהאוזן, פרידמן, פון ראד, וסטרמן, ברוגמן, אלטר), מחקר קבלה (שלום, אידל, וולפסון, ליבס, מאט), נוספים שונים
+- **מחקר אלטרנטיבי-היסטורי**: סיטשין, הנקוק, באוואל, ווסט, וואליס, ביגלינו, נוספים שונים
+- **חומרי מקור בין-תרבותיים**: מסופוטמיים (אטרא-ח׳סיס, אנומה אליש, גילגמש, רשימת המלכים השומרית), מצריים (טקסטי הפירמידות, טקסטי הארונות, ספר המתים), יווניים (הסיודוס, הומרוס, אפלטון), הודיים (ריג-וודה, אופנישדות, מהאבהארטה, פוראנות), מסואמריקניים (פופול ווה, חומרי הספירה הארוכה), סיניים, נוספים שונים
 
-Each library entry is curated with attention to source-material integrity, scholarly context, and relevance to the broader framework engagement.
+כל ערך בספרייה מאוצר עם תשומת לב לשלמות חומר המקור, להקשר המחקרי ולרלוונטיות להתעמתות הרחבה עם המסגרת.
 
-### The narrated introduction
+### המבוא המסופר
 
-The corpus's **narrated introduction** provides a structured first-encounter with the framework for new readers. The introduction operates through several principal sections (At a Glance, the broader framework articulation, the principal source-material families, the corpus structure) supporting various entry-points into the broader content.
+ה**מבוא המסופר** של הקורפוס מספק היכרות ראשונה מובנית עם המסגרת עבור קוראים חדשים. המבוא פועל באמצעות מספר סעיפים עיקריים (מבט מהיר, ניסוח המסגרת הרחבה, משפחות חומרי המקור העיקריות, מבנה הקורפוס) התומכים בנקודות כניסה שונות לתוכן הרחב.
 
-### The blog
+### הבלוג
 
-The corpus's **blog** tracks ongoing developments — current scientific and cultural events that engage the broader framework, new scholarly publications relevant to the corpus's reading, contemporary developments in the broader UFO/UAP disclosure landscape, the project's own development across multiple workstreams. The blog operates as the principal corpus component for time-sensitive engagement, with the wiki and library providing the broader stable reference architecture.
+ה**בלוג** של הקורפוס עוקב אחר התפתחויות שוטפות — אירועים מדעיים ותרבותיים עכשוויים העוסקים במסגרת הרחבה, פרסומים מחקריים חדשים הרלוונטיים לקריאת הקורפוס, התפתחויות עכשוויות בנוף הרחב של חשיפת UFO/UAP, התפתחות הפרויקט עצמו לרוחב מספר קווי עבודה. הבלוג פועל כרכיב הקורפוס העיקרי להתעמתות רגישת-זמן, כאשר הוויקי והספרייה מספקים את ארכיטקטורת הייחוס היציבה הרחבה יותר.
 
-### The governance documents
+### מסמכי הניהול
 
-The project operates through several substantial governance documents:
+הפרויקט פועל באמצעות מספר מסמכי ניהול משמעותיים:
 
-- ***Project Charter*** — the foundational document articulating the project's purpose, mission, governing principle, and inclusion criteria
-- ***Editorial Style Guide*** — the principal editorial-stylistic governance document
-- ***{% wiki(slug="chronology") %}Chronology{% end %} Rules*** — the chronological governance document articulating dating conventions and chronological integrity rules
-- ***Nomenclature*** — the principal terminological governance document
-- ***Source Methodology*** — the source-handling governance document
-- ***Chapter Index*** — the architectural governance document tracking the broader corpus development
-- ***Master Timeline*** — the principal chronological reference document spanning the twelve precessional ages
+- ***אמנת פרויקט*** — המסמך הבסיסי המנסח את מטרת הפרויקט, ייעודו, עקרון הניהול שלו וקריטריוני ההכללה
+- ***מדריך סגנון עריכה*** — מסמך הניהול העריכתי-הסגנוני העיקרי
+- ***כללי {% wiki(slug="chronology") %}כרונולוגיה{% end %}*** — מסמך הניהול הכרונולוגי המנסח מוסכמות תיארוך וכללי שלמות כרונולוגית
+- ***נומנקלטורה*** — מסמך הניהול הטרמינולוגי העיקרי
+- ***מתודולוגיית מקורות*** — מסמך הניהול לטיפול במקורות
+- ***אינדקס פרקים*** — מסמך הניהול הארכיטקטוני העוקב אחר הפיתוח הרחב של הקורפוס
+- ***ציר זמן ראשי*** — מסמך הייחוס הכרונולוגי העיקרי המשתרע על שנים-עשר עידני המַזָּלוֹת
 
-The governance documents operate as living references, updated as the project develops.
+מסמכי הניהול פועלים כייחוסים חיים, מתעדכנים ככל שהפרויקט מתפתח.
 
-## Editorial principles
+## עקרונות עריכתיים
 
-The corpus operates through several substantive editorial principles articulated across the governance documents.
+הקורפוס פועל על פי מספר עקרונות עריכתיים מהותיים המנוסחים לרוחב מסמכי הניהול.
 
-### The four-tier epistemic distinction
+### ההבחנה האפיסטמית בארבע שכבות
 
-The corpus consistently distinguishes between four tiers of content:
+הקורפוס מבחין באופן עקבי בין ארבע שכבות תוכן:
 
-1. **Direct source claims** — what a specific source directly asserts (with attribution to the source)
-2. **Comparative observations** — comparisons across traditions without claiming identity or causal connection
-3. **Wheel of Heaven interpretation** — corpus-level interpretive synthesis (clearly marked as interpretive)
-4. **Open questions** — unresolved issues, tensions, and uncertainties (explicitly registered)
+1. **טענות מקור ישירות** — מה שמקור ספציפי טוען ישירות (עם ייחוס למקור)
+2. **תצפיות השוואתיות** — השוואות בין מסורות מבלי לטעון לזהות או לקשר סיבתי
+3. **פרשנות גלגל השמיים** — סינתזה פרשנית ברמת הקורפוס (מסומנת בבירור כפרשנית)
+4. **שאלות פתוחות** — סוגיות, מתחים ואי-ודאויות שלא הוכרעו (נרשמות במפורש)
 
-The four-tier distinction operates throughout the corpus, with prose markers, structural conventions, and explicit framing maintaining the distinction across all entries.
+ההבחנה בארבע השכבות פועלת לכל אורך הקורפוס, עם סימני פרוזה, מוסכמות מבניות ומסגור מפורש השומרים על ההבחנה לרוחב כל הערכים.
 
-### The chronology integrity principle
+### עקרון שלמות הכרונולוגיה
 
-The corpus maintains explicit chronological integrity across all entries. When chronology is discussed, the corpus is explicit about:
+הקורפוס שומר על שלמות כרונולוגית מפורשת לרוחב כל הערכים. כאשר נדונה כרונולוגיה, הקורפוס מפורש לגבי:
 
-- The specific date or date range
-- Whether the date is *traditional* (from religious-traditional sources), *scholarly* (mainstream academic consensus), *inferred* (from indirect evidence), *symbolic* (from religious-symbolic content), or *contested* (with active scholarly disagreement)
-- Which source or source-family supports the date
+- התאריך הספציפי או טווח התאריכים
+- האם התאריך הוא *מסורתי* (ממקורות דתיים-מסורתיים), *מחקרי* (קונצנזוס אקדמי מרכזי), *מוסק* (מעדויות עקיפות), *סמלי* (מתוכן דתי-סמלי), או *שנוי-במחלוקת* (עם אי-הסכמה מחקרית פעילה)
+- איזה מקור או משפחת מקור תומכים בתאריך
 
-The detailed chronological-integrity governance lives in the project's `02-chronology-rules.md` governance document.
+ניהול שלמות הכרונולוגיה המפורט שוכן במסמך הניהול `02-chronology-rules.md` של הפרויקט.
 
-### The terminological discipline principle
+### עקרון המשמעת הטרמינולוגית
 
-The corpus maintains terminological discipline across all entries. Specific commitments:
+הקורפוס שומר על משמעת טרמינולוגית לרוחב כל הערכים. מחויבויות ספציפיות:
 
-- Use of canonical project terms consistently (Wheel of Heaven, the framework, the corpus, the alliance, the Elohim, etc.)
-- Variant spellings handled explicitly (when multiple spellings exist, choose one preferred form and note important variants)
-- Cross-tradition equivalences flagged rather than collapsed (the broader Plurality of Gods cross-cultural pattern is articulated through explicit comparison rather than through forced identity)
-- Translation choices treated as substantive interpretive moves rather than as neutral
+- שימוש בעקביות במונחי הפרויקט הקנוניים (גלגל השמיים, המסגרת, הקורפוס, הברית, האלוהים וכו׳)
+- וריאנטים של איות מטופלים במפורש (כאשר קיימים מספר איותים, יש לבחור צורה מועדפת אחת ולציין וריאנטים חשובים)
+- שקילויות בין-מסורתיות מסומנות במקום להתמזג (הדפוס הבין-תרבותי הרחב של ריבוי האלים מנוסח באמצעות השוואה מפורשת ולא באמצעות זהות כפויה)
+- בחירות תרגום מטופלות כמהלכים פרשניים מהותיים ולא כניטרליים
 
-The detailed terminological governance lives in the project's `03-nomenclature.md` governance document.
+ניהול הטרמינולוגיה המפורט שוכן במסמך הניהול `03-nomenclature.md` של הפרויקט.
 
-### The source-discipline principle
+### עקרון משמעת המקורות
 
-The corpus maintains source-discipline across all entries:
+הקורפוס שומר על משמעת מקורות לרוחב כל הערכים:
 
-- Quotation under 25 words; paraphrase as default
-- Source attribution for all claims drawing on specific sources
-- Substantial recognition of the difference between source and interpretation
-- Engagement with mainstream scholarship at appropriate technical level
-- Cross-tradition material handled with attention to both convergences and substantive differences
+- ציטוט מתחת ל-25 מילים; פרפראזה כברירת מחדל
+- ייחוס מקור לכל טענה הנשענת על מקורות ספציפיים
+- הכרה מהותית בהבדל בין מקור לפרשנות
+- התעמתות עם מחקר מרכזי ברמה טכנית מתאימה
+- חומר בין-מסורתי מטופל בתשומת לב הן להתכנסויות והן להבדלים מהותיים
 
-The detailed source-methodology governance lives in the project's `04-source-methodology.md` governance document.
+ניהול מתודולוגיית המקורות המפורט שוכן במסמך הניהול `04-source-methodology.md` של הפרויקט.
 
-### The wiki-style register
+### הרגיסטר בסגנון ויקי
 
-The corpus operates in a wiki-style register similar to mainstream comparative-religion encyclopaedic engagement (the *Catholic Encyclopedia*, the *Encyclopaedia Britannica*'s religion entries, the *Encyclopedia of {% wiki(slug="religion") %}Religion{% end %}*). The register prioritizes:
+הקורפוס פועל ברגיסטר בסגנון ויקי דומה להתעמתות אנציקלופדית של מחקר השוואת-דתות מרכזי (*האנציקלופדיה הקתולית*, ערכי הדת של *אנציקלופדיה בריטניקה*, *אנציקלופדיית ה{% wiki(slug="religion") %}דת{% end %}*). הרגיסטר נותן עדיפות ל:
 
-- Clarity over rhetorical elaboration
-- Structure over narrative flow
-- Source-conscious prose over informal exposition
-- Conceptual precision over inclusive vagueness
-- Distinct traditions clearly distinguished rather than syncretically blurred
+- בהירות על פני עיבוד רטורי
+- מבנה על פני זרימת נראטיב
+- פרוזה מודעת-מקורות על פני הסבר לא-פורמלי
+- דיוק מושגי על פני עמימות מכלילה
+- מסורות נפרדות הנבדלות בבירור במקום להיטשטש סינקרטית
 
-The detailed editorial governance lives in the project's `01-editorial-style.md` governance document.
+ניהול העריכה המפורט שוכן במסמך הניהול `01-editorial-style.md` של הפרויקט.
 
-## Application across the corpus
+## יישום לרוחב הקורפוס
 
-The Wheel of Heaven framework operates across the broader corpus through several principal architectural relationships.
+מסגרת גלגל השמיים פועלת לרוחב הקורפוס הרחב באמצעות מספר יחסים ארכיטקטוניים עיקריים.
 
-### The principal temporal architecture
+### הארכיטקטורה הטמפורלית העיקרית
 
-The corpus's principal temporal architecture is the precessional-age framework, with each of the twelve precessional ages receiving substantive treatment in a dedicated entry. The detailed treatment of the precessional architecture lives in the [World Age](../world-age/) entry; the constellational-symbolic complement lives in the [Zodiac](../zodiac/) entry.
+הארכיטקטורה הטמפורלית העיקרית של הקורפוס היא מסגרת עידני-המַזָּלוֹת, כאשר כל אחד משנים-עשר עידני המַזָּלוֹת מקבל טיפול מהותי בערך ייעודי. הטיפול המפורט בארכיטקטורה של עידני המַזָּלוֹת שוכן בערך [עידן עולמי](../world-age/); המשלים המַזָּלִי-הסמלי שוכן בערך [גלגל המַזָּלוֹת](../zodiac/).
 
-The twelve age entries:
-- [Age of Capricorn](../age-of-capricorn/) (-21,810 to -19,650): project opening; planetary surveys
-- [Age of Sagittarius](../age-of-sagittarius/) (-19,650 to -17,490): atmospheric engineering
-- [Age of Scorpio](../age-of-scorpio/) (-17,490 to -15,330): first life synthesis
-- [Age of Libra](../age-of-libra/) (-15,330 to -13,170): astronomical-calendrical work, zodiac formalization
-- [Age of Virgo](../age-of-virgo/) (-13,170 to -11,010): complex life forms, biodiversity
-- [Age of Leo](../age-of-leo/) (-11,010 to -8,850): human creation
-- [Age of Cancer](../age-of-cancer/) (-8,850 to -6,690): Eden, Adam and Eve
-- [Age of Gemini](../age-of-gemini/) (-6,690 to -4,530): flood, Noah
-- [Age of Taurus](../age-of-taurus/) (-4,530 to -2,370): post-flood reconstruction, Babel, Sodom and Gomorrah, patriarchs
-- [Age of Aries](../age-of-aries/) (-2,370 to -210): Hebrew prophetic tradition, Mosaic law, Axial Age
-- [Age of Pisces](../age-of-pisces/) (-210 to 1,950): Christianity, Islam, universal distribution
-- [Age of Aquarius](../age-of-aquarius/) (1,950 to ~4,110): current age; revelation; Cosmic Chain inheritance
+שנים-עשר ערכי העידנים:
+- [עידן הגדי](../age-of-capricorn/) (-21,810 עד -19,650): פתיחת הפרויקט; סקרים פלנטריים
+- [עידן הקשת](../age-of-sagittarius/) (-19,650 עד -17,490): הנדסת אטמוספרה
+- [עידן העקרב](../age-of-scorpio/) (-17,490 עד -15,330): סינתזת חיים ראשונה
+- [עידן המאזניים](../age-of-libra/) (-15,330 עד -13,170): עבודה אסטרונומית-לוחית, פורמליזציה של גלגל המַזָּלוֹת
+- [עידן הבתולה](../age-of-virgo/) (-13,170 עד -11,010): צורות חיים מורכבות, מגוון ביולוגי
+- [עידן האריה](../age-of-leo/) (-11,010 עד -8,850): יצירת האדם
+- [עידן הסרטן](../age-of-cancer/) (-8,850 עד -6,690): עדן, אדם וחוה
+- [עידן התאומים](../age-of-gemini/) (-6,690 עד -4,530): מבול, נח
+- [עידן השור](../age-of-taurus/) (-4,530 עד -2,370): שיקום שלאחר המבול, בבל, סדום ועמורה, האבות
+- [עידן הטלה](../age-of-aries/) (-2,370 עד -210): המסורת הנבואית העברית, חוק משה, התקופה הצירית
+- [עידן הדגים](../age-of-pisces/) (-210 עד 1,950): הנצרות, האסלאם, הפצה אוניברסלית
+- [עידן הדלי](../age-of-aquarius/) (1,950 עד ~4,110): העידן הנוכחי; התגלות; ירושת השרשרת הקוסמית
 
-### The principal interpretive architecture
+### הארכיטקטורה הפרשנית העיקרית
 
-The framework operates through a cluster of foundational interpretive concepts:
+המסגרת פועלת באמצעות אשכול של מושגים פרשניים בסיסיים:
 
-- [Cosmic Chain](../cosmic-chain/) — the broader cosmic-civilizational succession framework
-- [Cosmic Competition](../cosmic-competition/) — the engagement among multiple alliance-civilization participants
-- [Doubled Signature](../doubled-signature/) — the precessional-encoding principle
-- [Mass Effect](../mass-effect/) — the broader collective-consciousness phenomenon
-- [Fractal Cosmology](../fractal-cosmology/) — the infinite-scale structural framework
-- [Infinity](../infinity/) — the cosmological-philosophical framework
-- [Living Earth](../living-earth/) — the planetary-organism reading
-- [Four Levels](../four-levels/) — the broader cosmological-hierarchical framework
-- [Plurality of Gods](../plurality-of-gods/) — the structured-plurality framework
+- [שרשרת קוסמית](../cosmic-chain/) — מסגרת ההמשכיות הקוסמית-הציוויליזציונית הרחבה
+- [תחרות קוסמית](../cosmic-competition/) — ההתעמתות בין מספר משתתפים-ציוויליזציות בברית
+- [חתימה כפולה](../doubled-signature/) — עקרון הקידוד המַזָּלִי
+- [אפקט המסה](../mass-effect/) — תופעת התודעה הקולקטיבית הרחבה
+- [קוסמולוגיה פרקטלית](../fractal-cosmology/) — מסגרת המבנה הרב-קני האינסופי
+- [אינסוף](../infinity/) — המסגרת הקוסמולוגית-פילוסופית
+- [כדור הארץ החי](../living-earth/) — קריאת האורגניזם-הפלנטרי
+- [ארבע רמות](../four-levels/) — המסגרת הקוסמולוגית-ההיררכית הרחבה
+- [ריבוי האלים](../plurality-of-gods/) — מסגרת הריבוי-המובנה
 
-### The principal source-textual architecture
+### הארכיטקטורה הטקסטואלית-מקורית העיקרית
 
-The framework engages substantively with several principal source-textual entities:
+המסגרת מתעמתת מהותית עם מספר ישויות טקסטואליות-מקוריות עיקריות:
 
-- [Hebrew Bible](../hebrew-bible/) — the principal foundational source-textual entity
-- [Kabbalah](../kabbalah/) — the principal Jewish mystical-esoteric tradition; "the closest book to the truth" in the framework's reading
-- [Hamlet's Mill](../hamlets-mill/) — the foundational scholarly anchor for the precessional-mythological reading (when written)
-- [Message from the Designers](../message-from-the-designers/) — the principal Raëlian source compilation (when written)
-- Various other source-textual entries
+- [תנ״ך](../hebrew-bible/) — הישות הטקסטואלית-המקורית הבסיסית העיקרית
+- [קבלה](../kabbalah/) — מסורת המיסטיקה-האזוטריקה היהודית העיקרית; ״הספר הקרוב ביותר לאמת״ בקריאת המסגרת
+- [טחנת המלט](../hamlets-mill/) — העוגן המחקרי הבסיסי לקריאה המיתולוגית-המקדימה (כשייכתב)
+- [מסר מהמתכננים](../message-from-the-designers/) — אסופת המקורות הראליאנית העיקרית (כשייכתב)
+- ערכי טקסט נוספים שונים
 
-### The principal-figure architecture
+### ארכיטקטורת הדמויות העיקריות
 
-The framework engages substantively with several principal figures:
+המסגרת מתעמתת מהותית עם מספר דמויות עיקריות:
 
-- [Raël](../rael/) (Claude Vorilhon) — the inaugural figure of the Aquarian-age revelation
-- [Jean Sendy](../jean-sendy/) — the principal pre-Raëlian framework articulator (when written)
-- The various creator-figures: [Yahweh](../yahweh/), [Lucifer](../lucifer/), [Satan](../satan/), [Serpent](../serpent/)
-- The various human prophets: [Adam](../adam-and-eve/), [Noah](../noah/), [Abraham](../abraham/), [Moses](../moses/), [Mary](../mary/), [Jesus](../jesus/), [Muhammad](../muhammad/), [Buddha](../buddha/) (various entries when written)
+- [ראל](../rael/) (קלוד וורילון) — דמות הפתיחה של התגלות עידן הדלי
+- [ז׳אן סנדי](../jean-sendy/) — מנסח המסגרת הקדם-ראליאני העיקרי (כשייכתב)
+- דמויות הבורא השונות: [יהוה](../yahweh/), [לוציפר](../lucifer/), [שטן](../satan/), [נחש](../serpent/)
+- הנביאים האנושיים השונים: [אדם](../adam-and-eve/), [נח](../noah/), [אברהם](../abraham/), [משה](../moses/), [מרים](../mary/), [ישוע](../jesus/), [מוחמד](../muhammad/), [בודהה](../buddha/) (ערכים שונים כשייכתבו)
 
-### The cross-reference density
+### צפיפות ההפניות הצולבות
 
-The corpus operates with substantial cross-reference density. Each entry establishes substantive cross-references with related entries, producing a tightly integrated reference architecture. The cross-reference density is one of the corpus's principal architectural features — the framework operates not as a collection of isolated entries but as an interconnected network in which any single entry can be entered from many directions.
+הקורפוס פועל בצפיפות הפניות צולבות משמעותית. כל ערך מקים הפניות צולבות מהותיות עם ערכים קרובים, ומפיק ארכיטקטורת ייחוס משולבת היטב. צפיפות ההפניות הצולבות היא אחת התכונות הארכיטקטוניות העיקריות של הקורפוס — המסגרת פועלת לא כאוסף של ערכים מבודדים אלא כרשת מקושרת שבה ניתן להיכנס לכל ערך בודד מכיוונים רבים.
 
-## Distinguishing from adjacent projects
+## הבחנה מפרויקטים סמוכים
 
-The Wheel of Heaven project operates within a broader landscape of related but distinct projects. Several principal distinctions deserve articulation.
+פרויקט גלגל השמיים פועל בתוך נוף רחב של פרויקטים קרובים אך מובחנים. כמה הבחנות עיקריות ראויות לניסוח.
 
-### Wheel of Heaven vs. the Raëlian Movement
+### גלגל השמיים מול התנועה הראליאנית
 
-The corpus draws substantively on Raëlian source material — particularly *Message from the Designers* and various subsequent Raëlian publications. The Raëlian Movement (formally the **International Raëlian Movement**, founded by Claude Vorilhon as MADECH in 1973 and reorganized as the Raëlian Movement in 1976) operates as an institutional religious-cultural body principally concerned with disseminating the Raëlian message, supporting the construction of the planned Embassy, and developing the broader Raëlian cultural-philosophical-political program (Geniocracy, {% wiki(slug="humanitarianism") %}Humanitarianism{% end %}, Sensual Meditation, the Raëlian Symbol, etc.).
+הקורפוס נשען מהותית על חומר מקור ראליאני — בעיקר *מסר מהמתכננים* ופרסומים ראליאניים שונים שבאו לאחר מכן. התנועה הראליאנית (רשמית **התנועה הראליאנית הבינלאומית**, שנוסדה על ידי קלוד וורילון כ-MADECH ב-1973 וארגנה מחדש כתנועה הראליאנית ב-1976) פועלת כגוף דתי-תרבותי מוסדי העוסק בעיקר בהפצת המסר הראליאני, בתמיכה בבניית השגרירות המתוכננת ובפיתוח התוכנית הראליאנית התרבותית-פילוסופית-פוליטית הרחבה (ג׳ניוקרטיה, {% wiki(slug="humanitarianism") %}הומניטריות{% end %}, מדיטציה חושית, הסמל הראליאני וכו׳).
 
-The relationship is **substantive-source-engagement-without-institutional-affiliation**:
+היחס הוא **התעמתות-מקורית-מהותית-ללא-שיוך-מוסדי**:
 
-- The Wheel of Heaven project draws substantively on Raëlian source material for the framework's specific content
-- The project is not affiliated with the institutional Raëlian Movement
-- The project does not require Raëlian commitments of its readers (membership, doctrinal acceptance, participation in Raëlian institutional structures)
-- The project engages mainstream scholarly material that the Raëlian Movement does not principally engage (Hebrew Bible scholarship, Kabbalah scholarship, *Hamlet's Mill* tradition, broader comparative-religion scholarship)
-- The project operates with substantive interpretive distance on certain Raëlian-specific commitments where corpus-level integration suggests modifications
+- פרויקט גלגל השמיים נשען מהותית על חומר מקור ראליאני עבור התוכן הספציפי של המסגרת
+- הפרויקט אינו משויך לתנועה הראליאנית המוסדית
+- הפרויקט אינו דורש מקוראיו התחייבויות ראליאניות (חברות, קבלה דוקטרינלית, השתתפות במבנים מוסדיים ראליאניים)
+- הפרויקט מתעמת עם חומר מחקרי מרכזי שהתנועה הראליאנית אינה עוסקת בו בעיקרה (מחקר תנ״ך, מחקר קבלה, מסורת *טחנת המלט*, מחקר השוואת-דתות רחב יותר)
+- הפרויקט פועל במרחק פרשני מהותי על חלק מהמחויבויות הראליאניות-הספציפיות שבהן אינטגרציה ברמת הקורפוס מצביעה על שינויים
 
-The detailed treatment of the institutional Raëlian Movement lives in the [Raëlism](../raelism/) entry.
+הטיפול המפורט בתנועה הראליאנית המוסדית שוכן בערך [ראליזם](../raelism/).
 
-### Wheel of Heaven vs. Sendy's Tradition framework
+### גלגל השמיים מול מסגרת המסורת של סנדי
 
-Jean Sendy's pre-Raëlian work (1963-1972) articulates substantive prior engagement with what Sendy calls "the **Tradition**" — the broader framework of preserved cultural memory of alliance contact across multiple religious-cultural traditions. Sendy's work substantively prefigures the Raëlian framework on several key points:
+עבודתו הקדם-ראליאנית של ז׳אן סנדי (1963-1972) מנסחת התעמתות קודמת מהותית עם מה שסנדי מכנה ״ה**מסורת**״ — המסגרת הרחבה של זיכרון תרבותי שמור של מגע הברית לרוחב מסורות דתיות-תרבותיות מרובות. עבודתו של סנדי מקדימה מהותית את המסגרת הראליאנית בכמה נקודות מפתח:
 
-- The plural Elohim reading (Sendy articulates this in *La Lune, clé de la Bible*, 1968)
-- The precessional-zodiacal reading of the Hebrew Bible (extensively in *L'ère du Verseau*, 1970)
-- The "Tradition" as preserved cultural memory across multiple traditions
-- The Aquarian-age opening as substantive cosmological-civilizational transition
+- הקריאה של אלוהים כריבוי (סנדי מנסח זאת ב-*La Lune, clé de la Bible*, 1968)
+- הקריאה של התנ״ך דרך עדשת המַזָּלוֹת-המַזָּלוֹת (בהרחבה ב-*L'ère du Verseau*, 1970)
+- ״המסורת״ כזיכרון תרבותי שמור לרוחב מסורות מרובות
+- פתיחת עידן הדלי כמעבר קוסמולוגי-ציוויליזציוני מהותי
 
-The relationship is **substantive-extension-with-substantial-continuity**:
+היחס הוא **הרחבה-מהותית-עם-המשכיות-משמעותית**:
 
-- The corpus draws substantively on Sendy's framework for its precessional-zodiacal reading
-- The corpus extends Sendy's work substantially with Raëlian source material that postdated Sendy's principal works (Vorilhon's first contact occurred December 1973, after most of Sendy's principal works were published)
-- The corpus integrates Sendy's framework with the *Hamlet's Mill* tradition (Santillana and von Dechend's work appeared in 1969, contemporaneously with Sendy's principal works) and with mainstream comparative-religion scholarship
-- The corpus operates with substantive editorial discipline that Sendy's more polemical engagement did not principally maintain
+- הקורפוס נשען מהותית על מסגרתו של סנדי לקריאתו המַזָּלִית-המקדימה
+- הקורפוס מרחיב את עבודתו של סנדי משמעותית עם חומר מקור ראליאני שהופיע לאחר עבודותיו העיקריות של סנדי (המגע הראשון של וורילון התרחש בדצמבר 1973, לאחר שרוב עבודותיו העיקריות של סנדי כבר פורסמו)
+- הקורפוס משלב את מסגרת סנדי עם מסורת *טחנת המלט* (עבודת סנטיליאנה ופון דכנד הופיעה ב-1969, במקביל לעבודותיו העיקריות של סנדי) ועם מחקר השוואת-דתות מרכזי
+- הקורפוס פועל במשמעת עריכתית מהותית שהעיסוק הפולמוסי יותר של סנדי לא קיים בעיקרה
 
-The detailed treatment of Sendy's framework lives in the [Jean Sendy](../jean-sendy/) entry when written.
+הטיפול המפורט במסגרתו של סנדי שוכן בערך [ז׳אן סנדי](../jean-sendy/) כשייכתב.
 
-### Wheel of Heaven vs. ancient-aliens popular media
+### גלגל השמיים מול תקשורת פופולרית של ״חייזרים קדומים״
 
-The broader popular-media engagement with "ancient aliens" content (the *Ancient Aliens* television series on the History channel, broader popular-publication work, various YouTube and podcast engagements) operates substantively differently from the Wheel of Heaven project on several principal dimensions:
+ההתעמתות הפופולרית-תקשורתית הרחבה עם תוכן ״חייזרים קדומים״ (סדרת הטלוויזיה *Ancient Aliens* בערוץ ההיסטוריה, עבודת פרסום פופולרית רחבה, התעמתויות שונות ביוטיוב ובפודקאסטים) פועלת באופן מהותית שונה מפרויקט גלגל השמיים בכמה ממדים עיקריים:
 
-- **Source-material discipline**: the corpus operates with substantive source-material discipline, distinguishing carefully between primary sources, mainstream scholarship, and interpretive synthesis; popular-media engagement frequently operates without these distinctions
-- **Editorial register**: the corpus operates in a wiki-style scholarly register; popular-media engagement frequently operates in a sensationalist register
-- **Integration depth**: the corpus operates as a substantively integrated framework with explicit chronological-temporal architecture and cross-reference density; popular-media engagement frequently operates as a collection of loosely-related anecdotes
-- **Epistemic care**: the corpus distinguishes carefully between source claims, comparative observations, framework-specific interpretation, and open questions; popular-media engagement frequently presents speculation as established fact
-- **Scholarly engagement**: the corpus engages substantively with mainstream scholarship; popular-media engagement frequently operates as if mainstream scholarship were not relevant
+- **משמעת חומר מקור**: הקורפוס פועל במשמעת חומר-מקור מהותית, ומבחין בקפידה בין מקורות ראשוניים, מחקר מרכזי וסינתזה פרשנית; ההתעמתות התקשורתית-הפופולרית פועלת לעיתים קרובות ללא הבחנות אלה
+- **רגיסטר עריכתי**: הקורפוס פועל ברגיסטר מחקרי בסגנון ויקי; ההתעמתות התקשורתית-הפופולרית פועלת לעיתים קרובות ברגיסטר סנסציוני
+- **עומק אינטגרציה**: הקורפוס פועל כמסגרת משולבת מהותית עם ארכיטקטורה כרונולוגית-טמפורלית מפורשת וצפיפות הפניות צולבות; ההתעמתות התקשורתית-הפופולרית פועלת לעיתים קרובות כאוסף של אנקדוטות מקושרות באופן רופף
+- **זהירות אפיסטמית**: הקורפוס מבחין בקפידה בין טענות מקור, תצפיות השוואתיות, פרשנות ייחודית-למסגרת ושאלות פתוחות; ההתעמתות התקשורתית-הפופולרית מציגה לעיתים קרובות ספקולציה כעובדה מבוססת
+- **התעמתות מחקרית**: הקורפוס מתעמת מהותית עם מחקר מרכזי; ההתעמתות התקשורתית-הפופולרית פועלת לעיתים קרובות כאילו מחקר מרכזי אינו רלוונטי
 
-The relationship is **shared-broader-subject-area-with-substantively-distinct-operational-standards**.
+היחס הוא **נושא-רחב-משותף-עם-סטנדרטים-תפעוליים-מובחנים-מהותית**.
 
-### Wheel of Heaven vs. mainstream comparative-religion scholarship
+### גלגל השמיים מול מחקר השוואת-דתות מרכזי
 
-Mainstream comparative-religion scholarship operates principally through academic-disciplinary institutions (university religious-studies departments, scholarly societies, peer-reviewed journals, university presses) with substantive methodological-disciplinary commitments. The Wheel of Heaven project relates to mainstream comparative-religion scholarship as follows:
+מחקר השוואת-דתות מרכזי פועל בעיקר באמצעות מוסדות אקדמיים-תחומיים (מחלקות לימודי-דת באוניברסיטאות, אגודות מחקר, כתבי עת שיפוטיים, הוצאות אוניברסיטה) עם מחויבויות מתודולוגיות-תחומיות מהותיות. פרויקט גלגל השמיים מתייחס למחקר השוואת-דתות המרכזי כדלקמן:
 
-- **Substantive engagement**: the corpus engages substantively with mainstream scholarship across multiple disciplinary contexts (Hebrew Bible studies, Kabbalah studies, Mesopotamian studies, Egyptian studies, Indian religious studies, Mesoamerican studies, archaeoastronomy, history of religion)
-- **Distinctive interpretive commitments**: the corpus operates from interpretive commitments that mainstream scholarship does not principally share (the alliance-creator framework, the precessional-engineering reading, the cross-cultural-preserved-memory reading)
-- **Methodological alignment at descriptive level, divergence at interpretive level**: the corpus generally accepts mainstream scholarly findings at the descriptive level (textual-philological, historical-archaeological, ethnographic-anthropological) while operating substantively differently at the interpretive level
-- **Open invitation to evaluation**: the corpus presents its interpretive position as a coherent framework that the reader is invited to evaluate against alternatives, rather than as established fact
+- **התעמתות מהותית**: הקורפוס מתעמת מהותית עם מחקר מרכזי לרוחב הקשרים תחומיים מרובים (לימודי תנ״ך, לימודי קבלה, לימודי מסופוטמיה, לימודי מצרים, לימודי דתות הודיות, לימודי מסואמריקה, ארכאואסטרונומיה, היסטוריה של הדת)
+- **מחויבויות פרשניות ייחודיות**: הקורפוס פועל ממחויבויות פרשניות שהמחקר המרכזי אינו חולק בעיקרן (מסגרת ברית-הבוראים, הקריאה המקדימה-ההנדסית, קריאת הזיכרון-השמור-הבין-תרבותי)
+- **הלימה מתודולוגית ברמה התיאורית, סטיה ברמה הפרשנית**: הקורפוס מקבל בדרך כלל ממצאים מחקריים מרכזיים ברמה התיאורית (טקסטואלית-פילולוגית, היסטורית-ארכאולוגית, אתנוגרפית-אנתרופולוגית) תוך פעולה מהותית שונה ברמה הפרשנית
+- **הזמנה פתוחה להערכה**: הקורפוס מציג את עמדתו הפרשנית כמסגרת קוהרנטית שהקורא מוזמן להעריך מול חלופות, ולא כעובדה מבוססת
 
-The relationship is **substantive-engagement-with-distinctive-interpretive-commitments**.
+היחס הוא **התעמתות-מהותית-עם-מחויבויות-פרשניות-ייחודיות**.
 
-### Wheel of Heaven vs. Sitchin's Anunnaki framework
+### גלגל השמיים מול מסגרת האנונאקי של סיטשין
 
-**Zecharia Sitchin** (1920-2010) articulated, principally in *The 12th Planet* (1976) and the broader *Earth Chronicles* series, an alternative-history framework engaging Mesopotamian source material with the proposal that the **Anunnaki** of Sumerian mythology were extraterrestrial beings from the planet Nibiru who created humanity through genetic engineering. The relationship is **shared-broader-framework-direction-with-substantive-source-material-and-interpretive-distinctions**:
+**זכריה סיטשין** (1920-2010) ניסח, בעיקר ב-*הכוכב ה-12* (1976){{ cite(id="the-12th-planet", text="[10]", title="סיטשין, *הכוכב ה-12* (1976) — עבודה בסיסית במסגרת האנונאקי / נִיבּירוּ") }} ובסדרת *כרוניקות כדור הארץ* הרחבה, מסגרת אלטרנטיבית-היסטורית העוסקת בחומר מקור מסופוטמי עם ההצעה ש**האנונאקי** של המיתולוגיה השומרית היו יצורים חוצניים מכוכב הלכת נִיבּירוּ שיצרו את האנושות באמצעות הנדסה גנטית. היחס הוא **כיוון-מסגרת-רחב-משותף-עם-הבחנות-מהותיות-בחומר-המקור-ובפרשנות**:
 
-- Both frameworks register an extraterrestrial-creator reading of human origins
-- Both frameworks register the broader cross-cultural distribution of preserved memory content
-- The Wheel of Heaven framework operates principally through Hebrew Bible primary sources (with Mesopotamian comparative material); Sitchin operates principally through Mesopotamian primary sources (with Hebrew Bible comparative material)
-- The frameworks differ substantively on specific identifications (the Wheel of Heaven framework's Elohim civilization vs. Sitchin's specific Anunnaki / Nibiru content)
-- The Wheel of Heaven framework operates with substantively different chronological commitments than Sitchin's framework
+- שתי המסגרות רושמות קריאה של בורא חוצני לראשית האדם
+- שתי המסגרות רושמות את ההפצה הבין-תרבותית הרחבה של תוכן זיכרון שמור
+- מסגרת גלגל השמיים פועלת בעיקרה דרך מקורות ראשוניים תנ״כיים (עם חומר מסופוטמי השוואתי); סיטשין פועל בעיקרו דרך מקורות ראשוניים מסופוטמיים (עם חומר תנ״כי השוואתי)
+- המסגרות שונות מהותית בזיהויים ספציפיים (ציוויליזציית האלוהים של גלגל השמיים מול תוכן האנונאקי / נִיבּירוּ הספציפי של סיטשין)
+- מסגרת גלגל השמיים פועלת במחויבויות כרונולוגיות שונות מהותית ממסגרתו של סיטשין
 
-### Wheel of Heaven vs. Wallis's broader engagement
+### גלגל השמיים מול עיסוקו הרחב של וואליס
 
-**Paul Anthony Wallis**'s *Escaping from Eden* (2020), *The Eden Conspiracy* (2024), and various other works engage substantial Hebrew Bible content through a strict-translational approach drawing on the broader engagement of Mauro Biglino, Ellen White, and various others. The relationship is **shared-broader-direction-with-substantively-distinct-source-material-warrant**:
+*הימלטות מעדן* של **פול אנתוני וואליס** (2020),{{ cite(id="escaping-from-eden", text="[11]", title="וואליס, *הימלטות מעדן* (2020) — קריאה השוואתית מילולית-מחמירה של אלוהים בתנ״ך") }} *קשר העדן* (2024), ועבודות שונות אחרות עוסקים בתוכן תנ״כי מהותי באמצעות גישה מילולית-מחמירה הנשענת על העיסוק הרחב של מאורו ביגלינו,{{ cite(id="the-naked-bible", text="[12]", title="ביגלינו וקטנאו, *התנ״ך החשוף* (2022) — שיטת תרגום עברית מילולית-מחמירה שמתחת לעיסוקו הרחב של וואליס") }} אלן וייט ונוספים שונים. היחס הוא **כיוון-רחב-משותף-עם-תוקף-חומר-מקור-מובחן-מהותית**:
 
-- Both frameworks register the Hebrew Bible's content as containing preserved memory of extraterrestrial-civilization contact
-- The Wheel of Heaven framework draws principally on Raëlian source material; Wallis draws principally on the strict-translational engagement
-- The frameworks register substantive structural alignment at multiple specific points
+- שתי המסגרות רושמות את תוכן התנ״ך כמכיל זיכרון שמור של מגע עם ציוויליזציה חוצנית
+- מסגרת גלגל השמיים נשענת בעיקרה על חומר מקור ראליאני; וואליס נשען בעיקרו על העיסוק המילולי-המחמיר
+- המסגרות רושמות הלימה מבנית מהותית בנקודות ספציפיות מרובות
 
-### Wheel of Heaven vs. UFO disclosure community
+### גלגל השמיים מול קהילת חשיפת ה-UFO
 
-The broader UFO/UAP disclosure community (the post-2017 *New York Times* AATIP coverage, the AARO investigations, the 2023 Congressional hearings, the broader contemporary disclosure tradition) operates substantively within a contemporary policy-and-evidence framework engaging unidentified aerial phenomena principally as a national-security and scientific-investigation concern. The relationship is **substantive-relevance-without-direct-overlap**:
+קהילת חשיפת ה-UFO/UAP הרחבה (סיקור *הניו יורק טיימס* AATIP שלאחר 2017, חקירות AARO, שימועי הקונגרס של 2023, מסורת החשיפה העכשווית הרחבה) פועלת מהותית בתוך מסגרת מדיניות-וראיות עכשווית העוסקת בתופעות אוויריות בלתי מזוהות בעיקר כדאגה ביטחונית-לאומית ומדעית-חקירתית. היחס הוא **רלוונטיות-מהותית-ללא-חפיפה-ישירה**:
 
-- The Wheel of Heaven framework registers the contemporary UFO/UAP disclosure tradition as substantive contextual content for the broader Aquarian-age opening (treated principally in the [Age of Aquarius](../age-of-aquarius/) entry when written)
-- The corpus does not principally operate within the disclosure-community framework
-- The corpus's specific framework engages the broader extraterrestrial-civilization question through specific historical-cultural-source-material commitments rather than through contemporary-evidence engagement principally
+- מסגרת גלגל השמיים רושמת את מסורת חשיפת ה-UFO/UAP העכשווית כתוכן הקשרי מהותי לפתיחת עידן הדלי הרחבה (מטופלת בעיקר בערך [עידן הדלי](../age-of-aquarius/) כשייכתב)
+- הקורפוס אינו פועל בעיקרו בתוך מסגרת קהילת החשיפה
+- המסגרת הספציפית של הקורפוס עוסקת בשאלת הציוויליזציה החוצנית הרחבה דרך מחויבויות ספציפיות היסטוריות-תרבותיות-חומר-מקוריות ולא דרך התעמתות עם ראיות עכשוויות בעיקר
 
-## The corpus's scholarly engagement
+## ההתעמתות המחקרית של הקורפוס
 
-The Wheel of Heaven project engages substantively with mainstream scholarship across multiple disciplinary contexts. The principal engagements:
+פרויקט גלגל השמיים מתעמת מהותית עם מחקר מרכזי לרוחב הקשרים תחומיים מרובים. ההתעמתויות העיקריות:
 
-### Hebrew Bible scholarship
+### מחקר תנ״ך
 
-The corpus engages substantively with mainstream Hebrew Bible scholarship: the Documentary Hypothesis (Wellhausen, Friedman, Van Seters, Baden); contemporary critical scholarship (von Rad, Westermann, Brueggemann, Alter); archaeological-historical context (Dever, Finkelstein, Mazar, the broader Albright tradition); textual criticism (Tov, Hendel); Dead Sea Scrolls scholarship (VanderKam, Flint); Septuagint scholarship; canonical-formation scholarship (McDonald, Sundberg). The detailed treatment lives in the [Hebrew Bible](../hebrew-bible/) entry.
+הקורפוס מתעמת מהותית עם מחקר התנ״ך המרכזי: ההיפותזה התיעודית (ולהאוזן,{{ cite(id="prolegomena-zur-geschichte-israels", text="[13]", title="ולהאוזן, *Prolegomena zur Geschichte Israels* (1878) — ניסוח בסיסי של ההיפותזה התיעודית") }} פרידמן,{{ cite(id="who-wrote-the-bible", text="[14]", title="פרידמן, *מי כתב את התנ״ך?* (1987) — ניסוח מודרני נגיש של ההיפותזה התיעודית") }} ון סטרס, באדן); מחקר ביקורתי עכשווי (פון ראד, וסטרמן, ברוגמן, אלטר); הקשר היסטורי-ארכאולוגי (דבר, פינקלשטיין, מזר, מסורת אולברייט הרחבה); ביקורת טקסטואלית (טוב, הנדל); מחקר מגילות ים המלח (וונדרקאם, פלינט); מחקר תרגום השבעים; מחקר היווצרות הקאנון (מקדונלד, סנדברג).{{ footnote(id="5") }} הטיפול המפורט שוכן בערך [תנ״ך](../hebrew-bible/).
 
-### Kabbalah scholarship
+### מחקר קבלה
 
-The corpus engages substantively with mainstream Kabbalah scholarship: Scholem (foundational), Idel (revisionist), Wolfson (philosophical), Liebes (mythological), Matt (the Pritzker Edition Zohar), the broader scholarly tradition. The detailed treatment lives in the [Kabbalah](../kabbalah/) entry.
+הקורפוס מתעמת מהותית עם מחקר קבלה מרכזי: שלום (בסיסי), אידל (רוויזיוניסטי), וולפסון (פילוסופי), ליבס (מיתולוגי), מאט (מהדורת פריצקר של הזוהר),{{ cite(id="the-zohar-pritzker", text="[15]", title="מאט (מתרגם), *הזוהר: מהדורת פריצקר* (2003–2017) — תרגום מחקרי סטנדרטי של הזוהר") }} המסורת המחקרית הרחבה. הטיפול המפורט שוכן בערך [קבלה](../kabbalah/).
 
-### Archaeoastronomy
+### ארכאואסטרונומיה
 
-The corpus engages substantively with mainstream archaeoastronomy and the *Hamlet's Mill* tradition: Santillana and von Dechend (foundational), Cruttenden, Sellers, Hawkins, Aveni, Krupp, the broader scholarly tradition. The detailed treatment lives in the [Hamlet's Mill](../hamlets-mill/) entry when written.
+הקורפוס מתעמת מהותית עם ארכאואסטרונומיה מרכזית ומסורת *טחנת המלט*: סנטיליאנה ופון דכנד (בסיסיים), קראטנדן, סלרס, הוקינס, אווני, קרופ, המסורת המחקרית הרחבה. הטיפול המפורט שוכן בערך [טחנת המלט](../hamlets-mill/) כשייכתב.
 
-### Comparative-religion scholarship
+### מחקר השוואת-דתות
 
-The corpus engages substantively with mainstream comparative-religion scholarship across multiple cultural traditions: Mesopotamian (Lambert, Foster, Dalley); Egyptian (Allen, Hornung, Assmann); Greek (West, Burkert); Vedic / Hindu (Doniger, Olivelle); Mesoamerican (Schele, Aveni, Coe); Chinese (Pankenier, Sun); various others.
+הקורפוס מתעמת מהותית עם מחקר השוואת-דתות מרכזי לרוחב מסורות תרבותיות מרובות: מסופוטמי (למברט, פוסטר, דאלי); מצרי (אלן, הורנונג, אסמן); יווני (ווסט, בורקרט); וודי / הינדי (דוניגר, אוליבל); מסואמריקני (שלה, אווני, קו); סיני (פנקנייר, סאן); נוספים שונים.
 
-### Alternative-history scholarship
+### מחקר אלטרנטיבי-היסטורי
 
-The corpus engages with various alternative-history scholarly traditions: Sitchin's Anunnaki framework; Hancock's broader engagement; Bauval's Orion-correlation theory; West's Egyptian-wisdom tradition; Wallis's strict-translational approach; Biglino's Hebrew-translational engagement; various others. The corpus engages these substantively while operating from distinct source-material warrant.
+הקורפוס מתעמת עם מסורות מחקריות אלטרנטיביות-היסטוריות שונות: מסגרת האנונאקי של סיטשין; עיסוקו הרחב של הנקוק; תאוריית מתאם אוריון של באוואל; מסורת חכמת-מצרים של ווסט; הגישה המילולית-המחמירה של וואליס; העיסוק המילולי-העברי של ביגלינו; נוספים שונים. הקורפוס מתעמת איתם מהותית תוך פעולה מתוקף חומר-מקור מובחן.
 
-### Contemporary scientific developments
+### התפתחויות מדעיות עכשוויות
 
-The corpus engages substantively with contemporary scientific developments relevant to the broader framework: planetary science and astrobiology (relevant to the Capricorn-age engineering question); synthetic biology (relevant to the Scorpio-age life-synthesis question); precessional measurement and IAU astronomical standards; the broader UFO/UAP disclosure tradition; contemporary developments in AI, biotechnology, and space capability (relevant to the Aquarian-age inheritance threshold).
+הקורפוס מתעמת מהותית עם התפתחויות מדעיות עכשוויות הרלוונטיות למסגרת הרחבה: מדע פלנטרי ואסטרוביולוגיה (רלוונטי לשאלת ההנדסה של עידן הגדי); ביולוגיה סינתטית (רלוונטי לשאלת סינתזת החיים של עידן העקרב); מדידת תקדימה וסטנדרטים אסטרונומיים של IAU; מסורת חשיפת ה-UFO/UAP הרחבה; התפתחויות עכשוויות בבינה מלאכותית, ביוטכנולוגיה ויכולות חלל (רלוונטי לסף ירושת עידן הדלי).
 
-## The continuing project
+## הפרויקט המתמשך
 
-The Wheel of Heaven project is not a final synthesis but one stage in an ongoing collective project. The project's articulation of its own continuing development:
+פרויקט גלגל השמיים אינו סינתזה סופית אלא שלב אחד בפרויקט קולקטיבי מתמשך. ניסוח הפרויקט להתפתחותו המתמשכת:
 
-> *"The present corpus is not the final synthesis. It is one stage in an ongoing project that will continue across the coming years and decades, both through the corpus's own continued development and through the parallel work of other authors and traditions engaging the same materials."*
+> *״הקורפוס הנוכחי אינו הסינתזה הסופית. הוא שלב אחד בפרויקט מתמשך שיימשך לאורך השנים והעשורים הקרובים, הן באמצעות פיתוחו המתמשך של הקורפוס עצמו והן באמצעות העבודה המקבילה של מחברים ומסורות אחרים העוסקים באותם החומרים.״*
 
-Several principal extensions remain on the project's working horizon:
+מספר הרחבות עיקריות נותרות באופק העבודה של הפרויקט:
 
-- A dedicated treatment of the **Book of Revelation** and the broader apocalyptic literature, including the canonical {% wiki(slug="apocalypse") %}Apocalypse{% end %}, the Enochic tradition, and various other apocalyptic-textual material
-- A dedicated treatment of the **Great Pyramid of Giza** and the broader Egyptian alliance presence
-- A dedicated systematic treatment of the **Jewish mystical tradition** beyond the Kabbalah entry
-- A dedicated treatment of the **fractal-cosmos / shape-of-the-universe** material
-- A dedicated systematic treatment of **contemporary scientific developments** as operational expressions of the Aquarian-age inheritance threshold
-- The completion of the **twelve precessional age entries** with full chronological-narrative integration
-- Additional **figure entries** completing the principal-figure architecture
+- טיפול ייעודי ב**ספר ההתגלות** ובספרות האפוקליפטית הרחבה, כולל ה{% wiki(slug="apocalypse") %}אפוקליפסה{% end %} הקנונית, המסורת החנוכית ומגוון חומר טקסטואלי אפוקליפטי אחר
+- טיפול ייעודי ב**פירמידה הגדולה בגיזה** ובנוכחות הברית המצרית הרחבה
+- טיפול ייעודי שיטתי במסורת ה**מיסטיקה היהודית** מעבר לערך הקבלה
+- טיפול ייעודי בחומר ה**יקום הפרקטלי / צורת היקום**
+- טיפול ייעודי שיטתי ב**התפתחויות מדעיות עכשוויות** כביטויים תפעוליים של סף ירושת עידן הדלי
+- השלמת **שנים-עשר ערכי עידני המַזָּלוֹת** עם אינטגרציה כרונולוגית-נראטיבית מלאה
+- **ערכי דמויות** נוספים המשלימים את ארכיטקטורת הדמויות העיקריות
 
-These extensions are not commitments but forward-pointers — work that the broader project may undertake across the coming years. The project operates with explicit recognition that subsequent work by other authors and traditions will supplement and extend the corpus's present articulation as the broader Aquarian-age recovery and integration continues.
+הרחבות אלו אינן מחויבויות אלא מורי דרך — עבודה שהפרויקט הרחב עשוי לבצע לאורך השנים הקרובות. הפרויקט פועל מתוך הכרה מפורשת בכך שעבודה שלאחר מכן של מחברים ומסורות אחרים תשלים ותרחיב את הניסוח הנוכחי של הקורפוס ככל שהשחזור והאינטגרציה הרחבים של עידן הדלי יימשכו.
 
-### The collaborative dimension
+### הממד השיתופי
 
-The Wheel of Heaven project operates as a collaborative undertaking. The technical infrastructure runs on open-source web technologies, with content management hosted as Git projects generating static web pages on a content-delivery network. The project welcomes substantive contributions:
+פרויקט גלגל השמיים פועל כמיזם שיתופי. תשתית הטכנולוגיה רצה על טכנולוגיות אינטרנט בקוד פתוח, כאשר ניהול התוכן מתארח כפרויקטי Git המייצרים דפי אינטרנט סטטיים ברשת אספקת תוכן. הפרויקט מקבל בברכה תרומות מהותיות:
 
-- **Content contributions**: corrections, additions, new entries, expanded treatments
-- **Source-material contributions**: identification of additional source materials, scholarly references, primary-source engagements
-- **Cross-cultural contributions**: substantive engagement with traditions and source materials currently underrepresented in the corpus
-- **Editorial contributions**: refinement of existing entries, structural improvements, error corrections
-- **Technical contributions**: improvements to the underlying web infrastructure, accessibility, search functionality
+- **תרומות תוכן**: תיקונים, תוספות, ערכים חדשים, טיפולים מורחבים
+- **תרומות חומר מקור**: זיהוי חומרי מקור נוספים, מקורות מחקריים, התעמתויות עם מקורות ראשוניים
+- **תרומות בין-תרבותיות**: התעמתות מהותית עם מסורות וחומרי מקור שכרגע אינם מיוצגים מספיק בקורפוס
+- **תרומות עריכתיות**: זיקוק ערכים קיימים, שיפורים מבניים, תיקוני שגיאות
+- **תרומות טכניות**: שיפורים לתשתית האינטרנט הבסיסית, נגישות, פונקציונליות חיפוש
 
-The detailed contribution guidelines are available through the project's GitHub repositories.
+הנחיות התרומה המפורטות זמינות באמצעות מאגרי GitHub של הפרויקט.
 
-### The reader's invitation
+### הזמנת הקורא
 
-The corpus extends an explicit invitation to its readers. The corpus's articulation:
+הקורפוס מרחיב הזמנה מפורשת לקוראיו. ניסוח הקורפוס:
 
-> *"The corpus is not a closed system. It is an open invitation to evaluation."*
+> *״הקורפוס אינו מערכת סגורה. הוא הזמנה פתוחה להערכה.״*
 
-The reader is invited to:
+הקורא מוזמן:
 
-- Engage the framework substantively rather than dismissively or uncritically
-- Distinguish between the corpus's source-claim content, comparative-observation content, and framework-specific interpretive content
-- Compare the framework against alternative interpretations of the same source material
-- Evaluate the framework against the reader's own engagement with the broader source-material landscape
-- Contribute substantively to the project's ongoing development
+- להתעמת עם המסגרת מהותית ולא לבטל אותה או לקבלה ללא ביקורת
+- להבחין בין תוכן טענות-המקור של הקורפוס, תוכן התצפיות-ההשוואתיות ותוכן הפרשנות הייחודית-למסגרת
+- להשוות את המסגרת מול פרשנויות חלופיות של אותו חומר מקור
+- להעריך את המסגרת מול ההתעמתות העצמית של הקורא עם נוף חומר-המקור הרחב
+- לתרום מהותית להתפתחות המתמשכת של הפרויקט
 
-The corpus does not require acceptance. It asks for serious engagement. Whether the reader ultimately accepts, rejects, modifies, or holds open judgment regarding the broader framework is a question for the reader to determine through substantive engagement with the material rather than through prior commitment in either direction.
+הקורפוס אינו דורש קבלה. הוא מבקש התעמתות רצינית. האם הקורא בסופו של דבר יקבל, ידחה, ישנה, או יעכב שיפוט לגבי המסגרת הרחבה — זו שאלה שעל הקורא להכריע באמצעות התעמתות מהותית עם החומר ולא באמצעות מחויבות מוקדמת בכיוון כלשהו.
 
-## See also
+## ראו גם
 
-- [World Age](../world-age/)
-- [Zodiac](../zodiac/)
-- [Doubled Signature](../doubled-signature/)
-- [Cosmic Chain](../cosmic-chain/)
-- [Cosmic Competition](../cosmic-competition/)
-- [Mass Effect](../mass-effect/)
-- [Fractal Cosmology](../fractal-cosmology/)
-- [Infinity](../infinity/)
-- [Living Earth](../living-earth/)
-- [Four Levels](../four-levels/)
-- [Plurality of Gods](../plurality-of-gods/)
-- [Hebrew Bible](../hebrew-bible/)
-- [Kabbalah](../kabbalah/)
-- [Elohim](../elohim/)
-- [Yahweh](../yahweh/)
-- [Lucifer](../lucifer/)
-- [Satan](../satan/)
-- [Serpent](../serpent/)
-- [Raël](../rael/)
-- [Raëlism](../raelism/)
-- [Embassy](../embassy/)
-- [Hamlet's Mill](../hamlets-mill/)
-- [Jean Sendy](../jean-sendy/)
-- [Mauro Biglino](../mauro-biglino/)
-- [Paul Anthony Wallis](../paul-anthony-wallis/)
-- [Akhenaten](../akhenaten/)
-- [Neo-Euhemerism](../neo-euhemerism/)
+- [עידן עולמי](../world-age/)
+- [גלגל המַזָּלוֹת](../zodiac/)
+- [חתימה כפולה](../doubled-signature/)
+- [שרשרת קוסמית](../cosmic-chain/)
+- [תחרות קוסמית](../cosmic-competition/)
+- [אפקט המסה](../mass-effect/)
+- [קוסמולוגיה פרקטלית](../fractal-cosmology/)
+- [אינסוף](../infinity/)
+- [כדור הארץ החי](../living-earth/)
+- [ארבע רמות](../four-levels/)
+- [ריבוי האלים](../plurality-of-gods/)
+- [תנ״ך](../hebrew-bible/)
+- [קבלה](../kabbalah/)
+- [אלוהים](../elohim/)
+- [יהוה](../yahweh/)
+- [לוציפר](../lucifer/)
+- [שטן](../satan/)
+- [נחש](../serpent/)
+- [ראל](../rael/)
+- [ראליזם](../raelism/)
+- [שגרירות](../embassy/)
+- [טחנת המלט](../hamlets-mill/)
+- [ז׳אן סנדי](../jean-sendy/)
+- [מאורו ביגלינו](../mauro-biglino/)
+- [פול אנתוני וואליס](../paul-anthony-wallis/)
+- [אחנאתון](../akhenaten/)
+- [ניאו-אווהמריזם](../neo-euhemerism/)
 
-## References
+## הפניות
 
-### Project governance documents
+### מסמכי ניהול הפרויקט
 
-Wheel of Heaven Project. *Project Charter*. Internal governance document.
+פרויקט גלגל השמיים. *אמנת פרויקט*. מסמך ניהול פנימי.
 
-Wheel of Heaven Project. *Editorial Style Guide*. Internal governance document.
+פרויקט גלגל השמיים. *מדריך סגנון עריכה*. מסמך ניהול פנימי.
 
-Wheel of Heaven Project. *Chronology Rules*. Internal governance document.
+פרויקט גלגל השמיים. *כללי כרונולוגיה*. מסמך ניהול פנימי.
 
-Wheel of Heaven Project. *Nomenclature*. Internal governance document.
+פרויקט גלגל השמיים. *נומנקלטורה*. מסמך ניהול פנימי.
 
-Wheel of Heaven Project. *Source Methodology*. Internal governance document.
+פרויקט גלגל השמיים. *מתודולוגיית מקורות*. מסמך ניהול פנימי.
 
-Wheel of Heaven Project. *Chapter Index*. Internal governance document.
+פרויקט גלגל השמיים. *אינדקס פרקים*. מסמך ניהול פנימי.
 
-Wheel of Heaven Project. *Master Timeline*. Internal governance document.
+פרויקט גלגל השמיים. *ציר זמן ראשי*. מסמך ניהול פנימי.
 
-### Principal Raëlian sources
+### מקורות ראליאניים עיקריים
 
-Vorilhon, Claude (Raël). *The Book Which Tells the Truth* (1974); collected in *Message from the Designers*. The principal source for the framework's specific content.
+וורילון, קלוד (ראל). *הספר אשר מספר את האמת* (1974); מקובץ ב-*מסר מהמתכננים*. המקור העיקרי לתוכן הספציפי של המסגרת.
 
-Vorilhon, Claude (Raël). *Extra-Terrestrials Took Me to Their Planet* (1975); collected in *Message from the Designers*.
+וורילון, קלוד (ראל). *חוצנים לקחו אותי לכוכבם* (1975); מקובץ ב-*מסר מהמתכננים*.
 
-Vorilhon, Claude (Raël). *Let's Welcome the Extra-Terrestrials* (1979); collected in *Message from the Designers*.
+וורילון, קלוד (ראל). *נקבל את פני החוצנים* (1979); מקובץ ב-*מסר מהמתכננים*.
 
-Vorilhon, Claude (Raël). *Message from the Designers*. Tagman Press, 2005. The collected source compilation.
+וורילון, קלוד (ראל). *מסר מהמתכננים*. Tagman Press, 2005. אסופת המקורות המלוקטת.
 
-Vorilhon, Claude (Raël). *{% wiki(slug="geniocracy") %}Geniocracy{% end %}*. Various editions.
+וורילון, קלוד (ראל). *{% wiki(slug="geniocracy") %}ג׳ניוקרטיה{% end %}*. מהדורות שונות.
 
-Vorilhon, Claude (Raël). *Sensual Meditation*. Various editions.
+וורילון, קלוד (ראל). *מדיטציה חושית*. מהדורות שונות.
 
-### Sendy's principal works
+### עבודותיו העיקריות של סנדי
 
 Sendy, Jean. *Les cahiers de cours de Moïse*. Julliard, 1963.
 
@@ -546,7 +613,7 @@ Sendy, Jean. *L'ère du Verseau*. Robert Laffont, 1970.
 
 Sendy, Jean. *Les dieux nous sont nés*. Grasset, 1966.
 
-### Hamlet's Mill tradition
+### מסורת טחנת המלט
 
 de Santillana, Giorgio, and Hertha von Dechend. *Hamlet's Mill: An Essay on Myth and the Frame of Time*. Gambit, 1969.
 
@@ -558,7 +625,7 @@ Aveni, Anthony F. *Skywatchers of Ancient Mexico*. University of Texas Press, 19
 
 Krupp, Edwin C. *Echoes of the Ancient Skies*. Harper & Row, 1983.
 
-### Hebrew Bible scholarship
+### מחקר התנ״ך
 
 Wellhausen, Julius. *Prolegomena to the History of Israel*. Trans. J. Sutherland Black and Allan Menzies. Adam & Charles Black, 1885 [originally 1878].
 
@@ -580,7 +647,7 @@ Finkelstein, Israel, and Neil Asher Silberman. *The Bible Unearthed*. Free Press
 
 Tov, Emanuel. *Textual Criticism of the Hebrew Bible*. Augsburg Fortress, 3rd ed., 2012 [originally 1992].
 
-### Kabbalah scholarship
+### מחקר קבלה
 
 Scholem, Gershom. *Major Trends in Jewish Mysticism*. Schocken, 1941.
 
@@ -590,7 +657,7 @@ Wolfson, Elliot R. *Through a Speculum That Shines*. Princeton University Press,
 
 Matt, Daniel C., trans. *The Zohar: Pritzker Edition*. 12 vols. Stanford University Press, 2003-2017.
 
-### Alternative-history scholarship
+### מחקר אלטרנטיבי-היסטורי
 
 Sitchin, Zecharia. *The 12th Planet*. Stein and Day, 1976.
 
@@ -606,7 +673,7 @@ Wallis, Paul Anthony. *The Eden Conspiracy*. 6th Books, 2024.
 
 Biglino, Mauro, and Giorgio Cattaneo. *The Naked Bible*. Uno, 2022.
 
-### Egyptological sources (Akhenaten question)
+### מקורות מצרולוגיים (שאלת אחנאתון)
 
 Aldred, Cyril. *Akhenaten: King of Egypt*. Thames & Hudson, 1988.
 
@@ -614,8 +681,8 @@ Redford, Donald B. *Akhenaten: The Heretic King*. Princeton University Press, 19
 
 Hornung, Erik. *Akhenaten and the Religion of Light*. Cornell University Press, 1999.
 
-### Web resources
+### משאבי אינטרנט
 
-Wheel of Heaven Project. <https://www.wheelofheaven.world>. The principal project web platform.
+פרויקט גלגל השמיים. <https://www.wheelofheaven.world>. פלטפורמת האינטרנט העיקרית של הפרויקט.
 
-Wheel of Heaven GitHub. <https://github.com/wheelofheaven/>. The principal technical infrastructure repository.
+GitHub של גלגל השמיים. <https://github.com/wheelofheaven/>. מאגר התשתית הטכנית העיקרי.

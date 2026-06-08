@@ -1,353 +1,382 @@
 +++
 title = "大年"
-description = "大年是岁差运动的完整周期 — 约25,920年 — 在此期间春分点环绕黄道十二宫一周。在 Wheel of Heaven 文集中,它构成文明尺度上的基本年代单位。"
+slug = "great-year"
+description = "大年是地轴岁差一个完整循环所经历的时段 — 即地球自转轴在背景恒星之中描绘出一个完整圆锥所需的时长,亦即春分点环绕黄道一整周所需的时长。按现代天文测量,大年约为 25,772 年;按占星学传统的算法,则为 25,920 年(这一便利的数字 2⁶ × 3⁴ × 5,系由 360° × 每度岁差位移 72 年推得)。该概念在西方思想史中具有实质性渊源,可追溯至柏拉图《蒂迈欧篇》(约公元前 360 年),其中 *Magnus Annus*(伟大之年)或 *完美之年* 指诸天体回归初始位置之循环。后喜帕恰斯时代的传统(即在约公元前 129 年发现岁差之后)将柏拉图的大年与岁差周期等同起来,25,920 年这一数字在中世纪与文艺复兴传统中逐渐占据主导。Wheel of Heaven 框架将大年视为整部文集的基础性年代基础设施 — 大致即耶洛因在地球项目的持续时间(合成约发生于 25,000 年前,而更广泛的前期准备阶段与运作阶段将时间线略向前后延伸),并是文集中十二个大月份认定所组织于其中的主循环。大年尺度的宇宙循环在跨文化中得以保存(印度教的 *劫波* 与 *大劫波*、斯多葛派的 *ekpyrosis*、柏拉图传统的 Magnus Annus,以及乔治·德·桑蒂利亚纳与赫塔·冯·德申在《哈姆雷特之磨》(1969)中所分析的更广泛神话—象征记录),被本框架视为前喜帕恰斯时代岁差宇宙循环概念曾被传递的实质性证据。"
 template = "wiki-page.html"
 toc = true
 
 [extra]
-translation_status = "metadata_only"
-redirect_to = { title = "World Age", path = "/wiki/world-age/" }
-category = "Cosmic Chronology"
+featured_order = 6
+redirect_to = { title = "世界时代", path = "/wiki/world-age/" }
+category = "宇宙年代学"
 editorial_pass = "2026-05"
 entry_type = "concept"
 claim_type = "inferred"
-alternative_names = ["Platonic Year", "Precessional year", "Magnus Annus (Latin)", "Annus Magnus", "Annus Perfectus / Perfect Year (Plato)", "Cosmic Year"]
+alternative_names = ["柏拉图年", "岁差年", "Magnus Annus(拉丁文)", "Annus Magnus", "Annus Perfectus / 完美之年(柏拉图)", "宇宙年"]
+see_also = [
+    { title = "岁差", path = "wiki/precession", description = "驱动大年的机制 — 地轴的缓慢摆动。" },
+    { title = "大月份", path = "wiki/great-month", description = "大年的十二分之一 — 单一岁差时代的持续时长。" },
+    { title = "世界时代", path = "wiki/world-age", description = "被视为人类历史一章的岁差时代。" },
+    { title = "黄道", path = "wiki/zodiac", description = "为大年中每个时代命名的十二分天界划分。" },
+    { title = "大回归", path = "wiki/great-return", description = "雷尔派对循环高潮的诠释 — 耶洛因所应许的回归。" },
+    { title = "宇宙演化", path = "wiki/cosmic-evolution", description = "将大年置于深时间演化中的框架。" },
+]
+
+footnotes = [
+    { content = "柏拉图在《蒂迈欧篇》39d 处所言之 *teleios eniautos*,被定义为太阳、月亮与五颗肉眼可见的行星同时回归初始位置所需的时段 — 即一个行星合相循环,而非岁差循环。柏拉图在《蒂迈欧篇》中并未给出完美之年的具体时长数字,且基于岁差他也无法给出,因为岁差直至约公元前 129 年才被喜帕恰斯所认定,距该对话录写成已逾两个世纪。因此,将柏拉图的完美之年与岁差循环等同起来,是后喜帕恰斯时代的发展,并非柏拉图本人的主张。" },
+    { content = "传统的 25,920 年数字在本框架更广泛的年代学工作中因其数学上的便利性而受到偏爱:它可被简洁分解为 2⁶ × 3⁴ × 5,其便于使用的分解形式包括 360 × 72、60 × 432 与 12 × 2,160 等。托勒密的《天文学大成》(约公元 150 年)给出的数字则实质性地更长,为 36,000 年,系从喜帕恰斯关于岁差的测量推得 — 即每世纪约 1°,而非实际约每年 50 弧秒。托勒密的 36,000 年数字在中世纪西方传统中占据主导,直至文艺复兴时期才被由更精确的每度 72 年率推得的 25,920 年算法所取代。" },
+    { content = "赫西俄德的《工作与时日》(约公元前 700 年)给出了一个四重或五重的衰退时代序列 — 黄金、白银、青铜、被插入的英雄时代以及黑铁 — 它并未明确属于岁差性质,亦不可能如此,因为赫西俄德比喜帕恰斯早约五个世纪。赫西俄德的四个时代与大年四重分割之间的结构性对应(每个时代相当于三个大月份,按传统算法即 6,480 年)是一种可能的解读;但本文集对赫西俄德序列与岁差循环之间具体关系所采取的立场仍是开放的。" },
+    { content = "印度教循环宇宙学的算术在比岁差大年实质性更大的尺度上运作:*摩诃由伽* 共计 4,320,000 年(约 167 个大年),而完整的 *劫波* — 即梵天的一日 — 共计 4,320,000,000 年。印度教数字与岁差数字之间实质性的数值对应(特别是与 432 相关的数字及其因数分解)颇为引人注目,但《往世书》文献是否从岁差天文学推得其数字、抑或独立发展并次生地与岁差对应、抑或通过其他机制相关联,本文集对此采取开放态度。" },
+    { content = "中美洲长计历约 5,125 年(1,872,000 日)的 13 伯克盾大循环,大致相当于岁差大年的五分之一(25,920 / 5 = 5,184 年;25,772 / 5 = 5,154 年 — 两者皆接近中美洲数字)。这一数值对应与更广泛的跨文化保存模式相一致,但中美洲传统是否明确编码了岁差内容 — 而非从独立的天文或历法考量推得该循环 — 这一具体问题被本文集视为开放问题。" },
+]
+
+[[extra.references]]
+id = "hamlets-mill"
+note = "桑蒂利亚纳与冯·德申对前喜帕恰斯时代神话系统性编码岁差大年内容这一论题的奠基性研究。"
+
+[[extra.references]]
+id = "theogony-and-works-and-days"
+note = "赫西俄德《工作与时日》— 本框架与岁差大年并读的四/五时代希腊传统的主要原始文献。"
+
+[[extra.references]]
+id = "the-book-which-tells-the-truth"
+note = "佛里翁第一部雷尔派著作(1974)— 本框架将耶洛因项目约 25,000 年的持续时长读作大致一个大年的主要源材料。"
 
 [extra.infobox]
-type = "The full precessional cycle; one complete circuit of the vernal equinox around the ecliptic"
-duration_modern = "Approximately 25,772 years (modern astronomical measurement, based on the precessional rate of ~50.29 arcseconds/year)"
-duration_traditional = "Exactly 25,920 years (astrological-tradition reckoning, 360° × 72 years/°)"
-component_units = "1 Great Year = 12 Great Months (each ~2,160 years) = 360 Great Days (each ~72 years) = full 360° circuit of the ecliptic"
-plato_source = "*Timaeus* 39d — the *teleios eniautos* (\"Perfect Year\") concept"
-historical_milestones = "Plato (c. 360 BCE — original *Perfect Year* concept, not yet identified with precession); Hipparchus (c. 129 BCE — discovery of precession); Cicero (c. 45 BCE — Latin *Magnus Annus* tradition); Censorinus (c. 238 CE — preservation of variant ancient calculations); Ptolemy (c. 150 CE — 36,000-year figure); Renaissance tradition (identification with precessional cycle); 19th–20th-century revival in theosophical-esoteric thought; Santillana and von Dechend's *Hamlet's Mill* (1969) — scholarly engagement with cross-cultural preservation"
-cross_cultural_correspondences = "Hindu *Kalpa* / *Mahakalpa* (much longer cycles with substructure that may map to Great Year scale); Stoic *ekpyrosis* (cyclic cosmological destruction-renewal); Hesiodic Ages of Gold/Silver/Bronze/Iron (broader cyclic-cosmology tradition); Mesoamerican Long Count Great Cycle (5,125 years, approximately one-fifth of the Great Year); broader cyclic-cosmology tradition across cultures"
-framework_significance = "Foundational chronological framework for the corpus; approximately the duration of the Elohim project on Earth on the framework's reading; the master cycle within which the twelve Great Month identifications used across the corpus are organized"
+type = "完整的岁差循环;春分点环绕黄道一整周"
+duration_modern = "约 25,772 年(基于约每年 50.29 弧秒岁差率的现代天文测量)"
+duration_traditional = "恰为 25,920 年(占星学传统算法,360° × 每度 72 年)"
+component_units = "1 大年 = 12 大月份(每个约 2,160 年)= 360 大日(每个约 72 年)= 黄道的完整 360° 循环"
+plato_source = "《蒂迈欧篇》39d — *teleios eniautos*(“完美之年”)概念"
+historical_milestones = "柏拉图(约公元前 360 年 — 原始 *完美之年* 概念,尚未与岁差等同);喜帕恰斯(约公元前 129 年 — 岁差的发现);西塞罗(约公元前 45 年 — 拉丁文 *Magnus Annus* 传统);桑索里努斯(约公元 238 年 — 各种古代计算的保存);托勒密(约公元 150 年 — 36,000 年数字);文艺复兴传统(与岁差循环的等同);19–20 世纪在神智学—秘教思想中的复兴;桑蒂利亚纳与冯·德申《哈姆雷特之磨》(1969)— 跨文化保存的学术研究"
+cross_cultural_correspondences = "印度教 *劫波* / *大劫波*(长得多的循环,其子结构可能映射至大年尺度);斯多葛派 *ekpyrosis*(循环性的宇宙毁灭—更新);赫西俄德的黄金/白银/青铜/黑铁时代(更广泛的循环宇宙学传统);中美洲长计历大循环(5,125 年,约为大年的五分之一);跨文化中更广泛的循环宇宙学传统"
+framework_significance = "本文集的基础性年代框架;按框架解读,大致即耶洛因在地球项目的持续时长;是组织本文集中所用十二个大月份认定的主循环"
 key_external_reference = "Santillana, Giorgio de, and Hertha von Dechend. *Hamlet's Mill: An Essay on Myth and the Frame of Time*. Gambit, 1969."
 +++
 
-The **Great Year** is the period of one complete cycle of **axial precession** — the duration required for the Earth's rotational axis to trace out one full cone against the background of fixed stars, equivalent to one complete circuit of the vernal equinox point around the ecliptic. The Great Year is the foundational unit of long-period chronology on which the broader Wheel of Heaven temporal framework depends, and is the master cycle of which the corpus's twelve [Great Month](../great-month/) identifications (Age of Virgo through Age of Aquarius) are the twelfths.
+**大年** 是地轴 **岁差** 一个完整循环所经历的时段 — 即地球自转轴在背景恒星之中描绘出一个完整圆锥所需的时长,亦即春分点环绕黄道一整周所需的时长。大年是长周期年代学的基础单位,更广泛的 {% wiki(slug="wheel-of-heaven") %}Wheel of Heaven{% end %} 时序框架皆依赖之;它也是主循环,文集中十二个 [大月份](../great-month/) 认定(处女座时代至水瓶座时代)即其十二分之一。
 
-On the modern astronomical measurement, the Great Year is approximately **25,772 years** in duration, based on the contemporary precessional rate of approximately 50.29 arcseconds per year. On the **astrological-tradition reckoning**, the Great Year is exactly **25,920 years** — derived from the ancient observation of approximately one degree of westward shift of the equinoxes per 72 years, multiplied by the 360 degrees of the full ecliptic:
-
-$$
-\begin{equation*}
-360° \cdot 72 \tfrac{\text{years}}{°} = 25{,}920 \text{ years}
-\end{equation*}
-$$
-
-The traditional 25,920-year figure has substantial mathematical convenience that accounts for its prominence in pre-modern cosmological tradition: it factors as 2⁶ × 3⁴ × 5 = 64 × 405 = 60 × 432 = 360 × 72, with divisibility properties that allow clean subdivision into Great Months (2,160 years each, 12 per Great Year), Great Days (72 years each, 360 per Great Year), and other meaningful units. The difference between the modern astronomical and traditional reckonings (approximately 148 years across the full cycle) is small enough that the corpus uses both interchangeably depending on context, with the traditional figure favoured for its mathematical convenience and the modern figure used when contemporary astronomical precision is required.
-
-The Great Year is also known as the **Platonic Year** (after Plato's *Timaeus* 39d, which introduces the concept of the *teleios eniautos* or "Perfect Year"), the **Magnus Annus** (the Latin translation that became standard in the medieval and Renaissance tradition), or simply the **Precessional Year** or **Cosmic Year**. The concept has substantive history in Western philosophical and astronomical thought reaching back to Plato's *Timaeus* (c. 360 BCE) — though the explicit identification of Plato's Great Year with the precessional cycle is a post-Hipparchian development (after the discovery of precession around 129 BCE), since Plato himself, predating Hipparchus by approximately 230 years, could not have known the precessional phenomenon.
-
-The Wheel of Heaven framework reads the Great Year as foundational chronological infrastructure for the entire corpus. Approximately one complete Great Year corresponds, on the framework's reading, to the duration of the Elohim project on Earth — from the human synthesis approximately 25,000 years ago through the contemporary recovery and recognition period. The framework's broader interpretive work develops the Great Year as the master temporal framework within which the twelve Great Month identifications, the principal events of the prophetic record, and the broader cross-cultural mythological preservation of cosmic-cycle content are organized. The framework's reading of cross-cultural preservation of Great Year-scale concepts (the Hindu *Kalpa* and *Mahakalpa*, the Stoic *ekpyrosis*, the Platonic *Magnus Annus*, the broader cyclic-cosmology tradition analyzed by Santillana and von Dechend in *Hamlet's Mill*) is treated as substantial evidence for the pre-Hipparchian transmission of the precessional cosmic-cycle concept through the symbolic-mythological vocabulary the corpus engages.
-
-The astronomical phenomenon of precession itself is treated more fully in the dedicated [Precession](../precession/) entry; the twelfth-of-Great-Year unit (the Great Month or Astrological Age) is treated in the dedicated [Great Month](../great-month/) entry; the broader cross-cultural doctrine of cosmic ages is treated in the dedicated [World Age](../world-age/) entry. The present entry focuses specifically on the Great Year as the full precessional cycle, its historical conceptualisation, its cross-cultural preservation, and the framework's specific reading of its operational significance.
-
-## The mathematical and structural framework
-
-The Great Year is defined by reference to the astronomical phenomenon of precession (treated in the dedicated [Precession](../precession/) entry) and admits structured subdivision into smaller chronological units.
-
-### The 72-years-per-degree observation
-
-The foundational empirical observation underlying the traditional 25,920-year Great Year is that the equinoxes shift westward along the ecliptic at approximately **one degree per 72 years**. This rate is close to the modern astronomical value of approximately 71.59 years per degree (derived from the contemporary precessional rate of 50.29 arcseconds per year: 3,600 arcseconds per degree ÷ 50.29 arcseconds per year ≈ 71.59 years per degree). The traditional figure of 72 years per degree gives:
+按现代天文测量,大年约为 **25,772 年**,该数字基于当代约每年 50.29 弧秒的岁差率。按 **占星学传统的算法**,大年恰为 **25,920 年** — 由古人观测到春分点每 72 年沿黄道西移约一度,再乘以黄道完整的 360 度而推得:
 
 $$
 \begin{equation*}
-360° \cdot 72 \tfrac{\text{years}}{°} = 25{,}920 \text{ years}
+360° \cdot 72 \tfrac{\text{年}}{°} = 25{,}920 \text{ 年}
 \end{equation*}
 $$
 
-The 72-year unit corresponds to one degree of precessional motion across the ecliptic. To put this in practical perspective, one degree of arc against the celestial sphere is approximately the width of a human thumb at arm's length — a useful field measurement that connects the cosmic-scale precessional motion to a directly observable human-scale reference. The 72-year period also corresponds approximately to the standard human lifespan (developed at greater length in the [Great Month](../great-month/) entry's treatment of the Great Day), producing the substantive structural correspondence: **one human lifetime ≈ one degree of precession ≈ one Great Day**.
+传统的 25,920 年数字具有实质性的数学便利性,这使其在前现代宇宙学传统中颇为突出:它可分解为 2⁶ × 3⁴ × 5 = 64 × 405 = 60 × 432 = 360 × 72,其可整除性使之能被简洁地划分为大月份(每个 2,160 年,每大年 12 个)、大日(每个 72 年,每大年 360 个),以及其他有意义的单位。{{ footnote(id="2") }} 现代天文测量与传统算法之间的差异(完整循环约 148 年)足够小,以致本文集根据语境互换使用两者,数学便利性偏好传统数字,而当需要当代天文精度时则采用现代数字。
 
-### The subdivisions of the Great Year
+大年也被称作 **柏拉图年**(以柏拉图《蒂迈欧篇》39d 命名,该处引入 *teleios eniautos* 即“完美之年”概念)、**Magnus Annus**(此拉丁译名在中世纪与文艺复兴传统中成为标准),或径称 **岁差年** 或 **宇宙年**。该概念在西方哲学与天文学思想中具有实质性渊源,可追溯至柏拉图《蒂迈欧篇》(约公元前 360 年)— 不过将柏拉图的大年明确与岁差循环等同,是后喜帕恰斯时代的发展(即在约公元前 129 年发现岁差之后),因为柏拉图本人比喜帕恰斯早约 230 年,无从知晓岁差现象。
 
-The full Great Year of 25,920 years admits structured subdivision into smaller chronological units that mirror the structure of the ordinary year:
+Wheel of Heaven 框架将大年视为整部文集的基础性年代基础设施。按框架解读,大致一个完整大年相当于耶洛因在地球项目的持续时长 — 自约 25,000 年前的人类合成,延续至当代的恢复与认知阶段。本框架更广泛的诠释工作将大年发展为主时序框架,十二个大月份认定、预言记录的主要事件,以及更广泛跨文化对宇宙循环内容的神话保存,皆在其中组织。本框架对大年尺度概念跨文化保存的解读(印度教的 *劫波* 与 *大劫波*、斯多葛派的 *ekpyrosis*、柏拉图传统的 *Magnus Annus*,以及桑蒂利亚纳与冯·德申在《哈姆雷特之磨》中所分析的更广泛循环宇宙学传统){{ cite(id="hamlets-mill", text="[1]", title="Santillana & von Dechend, *Hamlet's Mill: An Essay on Myth and the Frame of Time* (1969) — 跨文化保存岁差内容的奠基性学术研究") }} 被视为前喜帕恰斯时代岁差宇宙循环概念曾通过本文集所涉之象征—神话词汇传递的实质性证据。
 
-- **The Great Month** (one-twelfth of the Great Year, ~2,160 years) — corresponding to one zodiacal sign (30° of ecliptic precession); developed at length in the [Great Month](../great-month/) entry
-- **The Great Day** (one-three-hundred-and-sixtieth of the Great Year, ~72 years) — corresponding to one degree of ecliptic precession; approximately one human lifespan
-- **The Great Hour** (one-eight-thousand-six-hundred-and-fortieth of the Great Year, ~3 years) — corresponding to ~2.5 arcminutes of ecliptic precession; less commonly used but available in the corpus's broader chronological framework
-- **The Great Minute** (~0.05 years or ~18 days) — rarely used; the unit becomes too small for practical chronological reference
+岁差现象本身在专门的 [岁差](../precession/) 词条中得到更完整的处理;大年十二分之一的单位(大月份或占星时代)在专门的 [大月份](../great-month/) 词条中处理;更广泛的宇宙时代跨文化教义在专门的 [世界时代](../world-age/) 词条中处理。本词条专门聚焦于作为完整岁差循环的大年、其历史概念化、其跨文化保存,以及本框架对其运作意义的具体解读。
 
-The structural proportions mirror the ordinary year (12 months of approximately 30 days, with each day of approximately 24 hours). This proportional similarity is not coincidental — the ancient cosmological systems that developed the Great Year framework deliberately structured the long-period cycle to mirror the familiar short-period cycle, producing the mnemonically useful "as above, so below" correspondence between cosmic and terrestrial timescales.
+## 数学与结构框架
 
-### The empirical question
+大年由参照岁差天文现象(在专门的 [岁差](../precession/) 词条中处理)而界定,并允许结构化地划分为更小的年代单位。
 
-The 72-years-per-degree figure is reasonably close to the actual modern astronomical rate but somewhat fast (the actual rate gives 71.59 years per degree, producing a slightly shorter Great Year of approximately 25,772 years rather than 25,920). The traditional figure is preferred in the framework's broader work because:
+### 每度 72 年的观测
 
-- The convenient mathematical factorisation (2⁶ × 3⁴ × 5) allows clean subdivision into meaningful units
-- The cross-cultural preservation of the 25,920 figure across multiple pre-modern cosmological systems suggests substantive transmission of the specific value
-- The ±150-year difference between the traditional and modern figures is small enough that practical chronological work is largely unaffected by the choice
+支撑传统 25,920 年大年的基础经验观测是:春分点沿黄道以约 **每 72 年一度** 的速度向西移动。该速率接近现代天文值,即约每度 71.59 年(由当代每年 50.29 弧秒的岁差率推得:每度 3,600 弧秒 ÷ 每年 50.29 弧秒 ≈ 每度 71.59 年)。传统每度 72 年的数字给出:
 
-The framework treats the choice between the two reckonings as one of the principal open methodological questions, with the corpus's broader work continuing to use both depending on context. The detailed treatment is in the [Precession](../precession/) and [Great Month](../great-month/) entries.
+$$
+\begin{equation*}
+360° \cdot 72 \tfrac{\text{年}}{°} = 25{,}920 \text{ 年}
+\end{equation*}
+$$
 
-## The Platonic Year / Magnus Annus tradition
+72 年单位相当于岁差沿黄道一度的移动。从实用角度看,天球上一度弧大致相当于伸臂时人拇指的宽度 — 这一便利的野外测量将宇宙尺度的岁差运动与可直接观测的人体尺度参照联系起来。72 年时段也大致相当于标准人类寿命(在 [大月份](../great-month/) 词条对大日的处理中有更详尽的阐述),由此产生实质性的结构对应:**一个人类寿命 ≈ 一度岁差 ≈ 一个大日**。
 
-The Greek philosophical tradition includes substantial engagement with the concept of a cosmic Great Year predating Hipparchus's discovery of precession by approximately two centuries. The Platonic-tradition Magnus Annus is the principal pre-precessional intellectual antecedent of the framework's Great Year concept.
+### 大年的子单位
 
-### Plato's Perfect Year
+完整的 25,920 年大年允许结构化地划分为更小的年代单位,这些单位映照普通年份的结构:
 
-The foundational source for the Western philosophical Great Year tradition is **Plato**'s *Timaeus* (c. 360 BCE), specifically Timaeus 39d, which introduces the concept of the **Perfect Year** (Greek *teleios eniautos*; Latin *Annus Perfectus* or *Magnus Annus*):
+- **大月份**(大年的十二分之一,约 2,160 年)— 相当于一个黄道宫(30° 黄道岁差);在 [大月份](../great-month/) 词条中详尽展开
+- **大日**(大年的三百六十分之一,约 72 年)— 相当于一度黄道岁差;约合一个人类寿命
+- **大时辰**(大年的八千六百四十分之一,约 3 年)— 相当于约 2.5 角分的黄道岁差;较少使用,但在文集更广泛的年代框架中可用
+- **大分**(约 0.05 年或约 18 天)— 极少使用;该单位过小以致缺乏实用的年代参照价值
 
-> ...the perfect number of time brings to completion the perfect year at that moment when the relative speeds of all eight periods have been completed together and, measured by the circle of the Same that moves uniformly, have achieved their consummation.
+结构比例映照普通年份(12 个约 30 天的月份,每天约 24 小时)。这种比例上的相似并非巧合 — 发展出大年框架的古代宇宙学体系刻意将长周期循环构造为镜映熟悉的短周期循环,从而产生在记忆上有用的、宇宙时间尺度与地上时间尺度之间“如其在上,亦如其在下”的对应。
+
+### 经验问题
+
+每度 72 年的数字与实际现代天文率相当接近,但稍快(实际速率为每度 71.59 年,给出略短的大年约 25,772 年,而非 25,920 年)。传统数字在本框架更广泛工作中被偏爱的原因如下:
+
+- 便利的数学因数分解(2⁶ × 3⁴ × 5)允许简洁地划分为有意义的单位
+- 25,920 这一数字在多个前现代宇宙学体系中的跨文化保存,提示该具体数值曾被实质性传递
+- 传统与现代数字之间 ±150 年的差异足够小,以致实用年代学工作大体不受选择影响
+
+本框架将两种算法之间的选择视为方法论上的主要开放问题之一,文集更广泛的工作根据语境继续两者并用。详尽处理见 [岁差](../precession/) 与 [大月份](../great-month/) 词条。
+
+## 柏拉图年 / Magnus Annus 传统
+
+希腊哲学传统对宇宙大年概念有实质性的探讨,其时间比喜帕恰斯发现岁差早约两个世纪。柏拉图传统的 Magnus Annus 是本框架大年概念在前岁差时代的主要思想前身。
+
+### 柏拉图的完美之年
+
+西方哲学大年传统的奠基性来源是 **柏拉图** 的《蒂迈欧篇》(约公元前 360 年),具体在《蒂迈欧篇》39d,其中引入了 **完美之年** 概念(希腊语 *teleios eniautos*;拉丁语 *Annus Perfectus* 或 *Magnus Annus*):
+
+> ……当所有八个周期的相对速度一同完成,并以那匀速运动的“同”之圈来度量、达成其圆满之时,时间的完美之数便使完美之年得以完成。
 >
-> — Plato, *Timaeus* 39d (translation Cornford)
+> — 柏拉图,《蒂迈欧篇》39d(康福德译本)
 
-Plato's Perfect Year is defined as the period required for **all the celestial bodies** (the Sun, Moon, and the five visible planets — Mercury, Venus, Mars, Jupiter, Saturn) to return simultaneously to their initial configurations. This is a planetary-conjunction cycle rather than a precessional cycle; Plato himself did not know of precession (it was not discovered until Hipparchus c. 129 BCE) and did not specify the duration of the Perfect Year in the *Timaeus*. The concept was substantive in Plato's broader cosmology because the *Timaeus* treats time itself as the structured motion of the celestial bodies, with the Perfect Year as the master period that organizes all the shorter cycles.
+柏拉图的完美之年被定义为 **所有天体**(太阳、月亮,以及五颗肉眼可见的行星 — 水星、金星、火星、木星、土星)同时回归其初始位置所需的时段。这是一个行星合相循环而非岁差循环;柏拉图本人并不知岁差的存在(它直至约公元前 129 年才被喜帕恰斯发现),亦未在《蒂迈欧篇》中规定完美之年的时长。{{ footnote(id="1") }} 这一概念在柏拉图更广泛的宇宙学中具有实质性意义,因为《蒂迈欧篇》将时间本身视为天体的结构化运动,而完美之年则是组织所有较短循环的主时段。
 
-The framework's reading of Plato's Perfect Year is that the concept preserves substantive content about a long-period cosmic cycle — content that was subsequently identified with the precessional Great Year once that phenomenon was discovered. The post-Hipparchian conflation of Plato's planetary-conjunction Perfect Year with the precessional cycle was, on the framework's reading, substantively *correct* in the sense that the underlying intuition (a long cosmic cycle structuring history into ages) was applied to the actual long-period phenomenon (precession) once that phenomenon was identified.
+本框架对柏拉图完美之年的解读是:该概念保存了关于长周期宇宙循环的实质性内容 — 一旦岁差现象被发现,这一内容便随之与岁差大年等同。按本框架解读,后喜帕恰斯时代将柏拉图行星合相的完美之年与岁差循环的合并,在实质上是 *正确的*,这意味着:其底层直觉(一个将历史结构化为诸时代的漫长宇宙循环)在该现象被认定之后,被应用于真实的长周期现象(岁差)。
 
-### The post-Platonic development
+### 后柏拉图时代的发展
 
-The post-Platonic Greek philosophical tradition developed the Perfect Year concept across multiple schools:
+后柏拉图时期的希腊哲学传统在多个学派中发展了完美之年概念:
 
-- **Heraclitus** (c. 540–480 BCE, actually pre-Plato) was given a Great Year of **10,800 years** by **Censorinus** (3rd century CE, *De Die Natali*). The 10,800-year figure may relate to the Heraclitean cyclic cosmology of the *ekpyrosis* (cosmic conflagration) tradition that the Stoics subsequently developed.
-- **Aristarchus of Samos** (c. 310–230 BCE), the Greek astronomer famous for proposing the heliocentric solar system substantially before Copernicus, was given a Great Year of **2,484 years** by Censorinus.
-- The **Stoic** philosophical tradition (particularly Chrysippus) developed the *ekpyrosis* doctrine: the cosmos undergoes periodic destruction by fire and renewal, with each cycle producing a recurrence of all previous events. The Stoic cosmic cycle was identified with the Great Year, though the specific duration was variously given.
-- **Diogenes of Babylonia** (c. 230–150 BCE, the Stoic philosopher) was given a Great Year of "360 times Heraclitus's Great Year" by Aetios, producing 360 × 18,000 = **6,480,000 years** (with Aetios giving Heraclitus's figure as 18,000 rather than the 10,800 from Censorinus — the variant ancient figures themselves are not consistent across sources).
-- **Cicero** in *De Natura Deorum* (c. 45 BCE) and *Hortensius* (now lost) substantially developed the Latin Magnus Annus tradition, following Plato in defining the Great Year as the cycle of planetary conjunction return.
+- **赫拉克利特**(约公元前 540–480 年,实际早于柏拉图)被 **桑索里努斯**(公元 3 世纪,《诞辰论》)给出 **10,800 年** 的大年。10,800 年这一数字可能与赫拉克利特派 *ekpyrosis*(宇宙大火)传统的循环宇宙学有关,该传统后被斯多葛派进一步发展。
+- **萨摩斯的阿利斯塔克斯**(约公元前 310–230 年),这位希腊天文学家以远在哥白尼之前提出日心太阳系而闻名,被桑索里努斯给出 **2,484 年** 的大年。
+- **斯多葛派** 哲学传统(尤其是克吕西普)发展了 *ekpyrosis* 教义:宇宙周期性地经火毁灭与更新,每一循环都会重现一切先前事件。斯多葛派的宇宙循环被与大年等同,尽管所给具体时长不一。
+- **巴比伦的第欧根尼**(约公元前 230–150 年,斯多葛派哲学家)被埃提奥斯给出“赫拉克利特大年的 360 倍”作为其大年,得出 360 × 18,000 = **6,480,000 年**(埃提奥斯将赫拉克利特的数字给作 18,000 而非桑索里努斯所给的 10,800 — 古代各种数字在各源之间本身即不一致)。
+- **西塞罗** 在《论神性》(约公元前 45 年)与《霍尔腾西乌斯》(今已佚失)中实质性地发展了拉丁文 Magnus Annus 传统,沿袭柏拉图将大年定义为行星合相回归的循环。
 
-### The post-Hipparchian conflation with precession
+### 后喜帕恰斯时代与岁差的合并
 
-After Hipparchus's discovery of precession around 129 BCE, the Greek and subsequent traditions began to identify the Platonic Perfect Year with the precessional cycle. The principal figures:
+在约公元前 129 年喜帕恰斯发现岁差之后,希腊及随后的传统开始将柏拉图的完美之年与岁差循环等同起来。主要人物如下:
 
-- **Hipparchus** himself measured precession at approximately 1°/century (36 arcseconds/year), which would give a Great Year of approximately 36,000 years (close to but slower than the actual rate)
-- **Claudius Ptolemy** (c. 100–170 CE) in the *Almagest* used Hipparchus's precessional rate of 1°/century, giving a Great Year of **36,000 years**. The Ptolemaic figure became the dominant Western reckoning through the medieval period and into the Renaissance — though it is substantially too long, the actual rate being approximately 50 arcseconds/year giving the modern 25,772-year figure. Ptolemy's overestimate has been the subject of substantial subsequent scholarly debate (some authors arguing that Ptolemy adjusted the value to align with theological-cosmological commitments rather than astronomical observation).
-- The **Renaissance tradition** substantially adopted the post-Hipparchian identification of Plato's Magnus Annus with the precessional cycle, with the figure of 25,920 years (derived from the 72-years-per-degree rate) gradually supplanting Ptolemy's 36,000-year figure as the standard.
-- The **19th-century theosophical and esoteric traditions** (particularly H. P. Blavatsky's *The Secret Doctrine*, 1888) substantially revived and developed the Magnus Annus tradition, often combining it with Hindu *yuga* arithmetic and other cross-cultural cosmic-cycle traditions. The theosophical revival had substantial influence on the 20th-century esoteric and "New Age" engagement with the Age of Aquarius and broader Great Year content.
+- **喜帕恰斯** 本人将岁差测得约每世纪 1°(每年 36 弧秒),由此得出大年约 36,000 年(接近但慢于实际速率)
+- **克劳狄·托勒密**(约公元 100–170 年)在《天文学大成》中采用了喜帕恰斯每世纪 1° 的岁差率,得出 **36,000 年** 的大年。托勒密的数字在中世纪直至文艺复兴期间成为西方主导算法 — 不过它实质上过长,实际速率约为每年 50 弧秒,给出现代 25,772 年的数字。托勒密的高估其后引发了实质性的学术争论(部分作者主张托勒密为使该值与神学—宇宙学承诺相符而调整了数值,而非依据天文观测)。
+- **文艺复兴传统** 实质性地采纳了后喜帕恰斯时代将柏拉图 Magnus Annus 与岁差循环等同的看法,由每度 72 年率推得的 25,920 年数字逐渐取代了托勒密的 36,000 年数字,成为标准。
+- **19 世纪的神智学与秘教传统**(尤其是 H. P. 布拉瓦茨基的《秘密教义》,1888 年)实质性地复兴并发展了 Magnus Annus 传统,常将其与印度教 *尤迦* 算术及其他跨文化的宇宙循环传统结合。神智学的复兴对 20 世纪秘教与“新时代”对水瓶座时代及更广泛大年内容的探讨产生了实质性影响。
 
-The framework's adopted reading: the Platonic-tradition Magnus Annus and the post-Hipparchian precessional Great Year are substantively continuous, despite the original conceptual difference between planetary-conjunction and precessional cycles. The cross-cultural intuition of a long cosmic cycle structuring time was preserved in the Platonic tradition; the post-Hipparchian identification with precession completed the conceptual content that the framework reads as preserving substantive astronomical knowledge.
+本框架所采取的解读是:柏拉图传统的 Magnus Annus 与后喜帕恰斯时代的岁差大年在实质上是连续的,尽管行星合相循环与岁差循环之间原本存在概念差别。漫长宇宙循环以结构化时间的跨文化直觉在柏拉图传统中得以保存;后喜帕恰斯时代将其与岁差等同,使本框架视为保存了实质性天文知识的概念内容得以完整。
 
-## Cross-cultural preservation of Great Year-scale cycles
+## 大年尺度循环的跨文化保存
 
-The Great Year concept — a master cosmic cycle of approximately 25,000-26,000 years (or longer cycles with the Great Year as a structural substructure) — appears with substantial frequency across pre-modern cosmological systems. The cross-cultural pattern is one of the principal substantive supports for the framework's broader reading of pre-Hipparchian transmission of precessional content.
+大年概念 — 一个约 25,000–26,000 年的宇宙主循环(或以大年为结构性子结构的更长循环)— 在前现代宇宙学体系中以实质频次出现。这一跨文化模式是本框架对前喜帕恰斯时代岁差内容传递这一更广泛解读的主要实质性支持之一。
 
-### The Hindu *kalpa* and *mahakalpa* tradition
+### 印度教的 *劫波* 与 *大劫波* 传统
 
-The Hindu cosmological tradition includes cycles of substantially longer duration than the Great Year, with structural relationships that the framework reads as connecting to the Great Year scale:
+印度教宇宙学传统所包含的循环,其时长实质上长于大年,但其结构关系按本框架解读,与大年尺度相联系:
 
-- The **mahayuga** (composed of the four yugas: Satya, Treta, Dvapara, Kali) totals **4,320,000 years** — approximately **167 Great Years** (4,320,000 / 25,920 ≈ 166.67)
-- The **manvantara** (composed of 71 mahayugas plus transitional periods) totals approximately **306,720,000 years**
-- The **kalpa** (composed of 14 manvantaras plus transitional periods) totals **4,320,000,000 years** — the "day of Brahma," equivalent to approximately **166,667 Great Years**
-- The **mahakalpa** (day plus night of Brahma) totals **8,640,000,000 years**
+- **摩诃由伽**(由四个由伽组成:萨提亚、特雷塔、德瓦帕拉、卡利)共计 **4,320,000 年** — 约 **167 个大年**(4,320,000 / 25,920 ≈ 166.67)
+- **摩奴期**(由 71 个摩诃由伽加过渡期组成)共计约 **306,720,000 年**
+- **劫波**(由 14 个摩奴期加过渡期组成)共计 **4,320,000,000 年** — 即“梵天之日”,相当于约 **166,667 个大年**
+- **大劫波**(梵天的昼加夜)共计 **8,640,000,000 年**
 
-The substantial numerical correspondences between the Hindu yuga arithmetic and the precessional Great Year — particularly the 432-related numbers (432,000, 4,320,000, 4,320,000,000) and their relationships to 25,920 — are developed at greater length in the [Great Month](../great-month/) entry. The framework reads the Hindu cosmological tradition as preserving substantive precessional content within its broader cyclic-cosmological framework, even though the Puranic sources themselves do not explicitly identify the connection to precession.
+印度教尤迦算术与岁差大年之间实质性的数值对应 — 尤其是与 432 相关的数字(432,000、4,320,000、4,320,000,000)及其与 25,920 的关系 — 在 [大月份](../great-month/) 词条中有更详尽的展开。本框架将印度教宇宙学传统读作在其更广泛的循环宇宙学框架中保存了实质性的岁差内容,即便《往世书》文献本身并未明确指出与岁差的关联。{{ footnote(id="4") }}
 
-A separate but related tradition associated with **Sri Yukteshwar** (1855–1936) in his *The Holy Science* (1894) proposes a 24,000-year *yuga* cycle (substantially shorter than the standard Puranic figure) explicitly correlated with the precessional cycle. The Yukteshwar tradition treats the standard 4.32-million-year yuga figures as misinterpretations of an underlying 24,000-year cycle. The corpus's adopted position is open on whether the Yukteshwar reading preserves substantive earlier content or is a 19th-century reinterpretation, but the substantive correspondence between 24,000 years and the actual Great Year is striking.
+另一个与之相关但独立的传统,即与 **斯里·尤克特斯瓦尔**(1855–1936)及其《圣科学》(1894)相关联的传统,提出一个 24,000 年的 *尤迦* 循环(实质上短于标准《往世书》数字),并明确将其与岁差循环对应。尤克特斯瓦尔传统将标准 432 万年的尤迦数字视为对底层 24,000 年循环的误读。本文集采取的立场是:尤克特斯瓦尔的解读是否保存了实质性的更早内容,抑或为 19 世纪的重新诠释,仍属开放问题;但 24,000 年与实际大年之间实质性的对应颇为引人注目。
 
-### The Stoic *ekpyrosis* and eternal recurrence
+### 斯多葛派的 *ekpyrosis* 与永恒回归
 
-The Stoic philosophical tradition's doctrine of the *ekpyrosis* — the periodic cosmic conflagration that destroys and renews the cosmos — corresponds substantively to a Great Year-scale cosmic cycle. The Stoic *ekpyrosis* doctrine includes substantive engagement with the question of **eternal recurrence**: each cycle of the cosmos reproduces all previous events identically, so that human history repeats itself across cosmic cycles. The Stoic doctrine was substantially developed by Chrysippus (c. 280–207 BCE) and subsequently by Roman Stoics including Cicero (in his lost *Hortensius*) and Marcus Aurelius. The doctrine influenced subsequent Western philosophical engagement with cyclic time, most notably **Friedrich Nietzsche**'s 19th-century revival of eternal recurrence (*Die Wiederkunft des Gleichen*, 1881–1888).
+斯多葛派哲学传统中 *ekpyrosis* 的教义 — 即周期性的宇宙大火,毁灭并更新宇宙 — 在实质上对应一个大年尺度的宇宙循环。斯多葛派的 *ekpyrosis* 教义包含对 **永恒回归** 问题的实质性探讨:宇宙的每一循环皆同一地重现先前的一切事件,人类历史因而在宇宙循环之间重复自身。斯多葛派教义由克吕西普(约公元前 280–207 年)实质性地发展,其后由罗马斯多葛派延续,包括西塞罗(在他失传的《霍尔腾西乌斯》中)与马可·奥勒留。该教义影响了后世西方哲学对循环时间的探讨,最显著者为 **弗里德里希·尼采** 在 19 世纪对永恒回归的复兴(*Die Wiederkunft des Gleichen*,1881–1888)。
 
-The framework's reading of the Stoic *ekpyrosis* connects to the broader corpus engagement with cyclic-cosmological time (treated in the [World Age](../world-age/) entry).
+本框架对斯多葛派 *ekpyrosis* 的解读,与文集对循环宇宙学时间的更广泛探讨相联系(在 [世界时代](../world-age/) 词条中处理)。
 
-### The Hesiodic Ages tradition
+### 赫西俄德时代传统
 
-The Greek poet **Hesiod** in his *Works and Days* (c. 700 BCE) developed the doctrine of the **Four (or Five) Ages of Man**: the Golden Age, Silver Age, Bronze Age, Heroic Age (sometimes included as a fifth interpolation), and Iron Age (the current age). The Hesiodic tradition treats the Ages as a sequence of declining quality, with the current Iron Age representing the most degraded condition of humanity. The doctrine corresponds substantively to the Hindu yuga tradition (which also features a four-fold sequence of declining ages) and to the broader cross-cultural "ages of decline" pattern.
+希腊诗人 **赫西俄德** 在其《工作与时日》(约公元前 700 年){{ cite(id="theogony-and-works-and-days", text="[2]", title="赫西俄德,《工作与时日》— 希腊四/五时代传统(黄金、白银、青铜、英雄、黑铁)") }} 中发展了 **人的四(或五)时代** 教义:{% wiki(slug="golden-age") %}黄金时代{% end %}、白银时代、青铜时代、英雄时代(有时作为第五个插入项),以及黑铁时代(当前时代)。赫西俄德传统将诸时代视为一个品质递降的序列,当前的黑铁时代代表人类最退化的状况。该教义在实质上对应印度教尤迦传统(后者亦以四重衰退时代序列为特征),并对应更广泛的跨文化“衰退时代”模式。
 
-The Hesiodic Ages are not explicitly precessional — Hesiod predates Hipparchus by approximately five centuries and could not have known the precessional cycle — but the framework reads the Hesiodic tradition as preserving content related to the broader cosmic-cycle pattern that the precessional Great Year articulates. The structural correspondence between the four Hesiodic Ages and four-fold subdivisions of the Great Year (each Age corresponding to three Great Months, or 6,480 years on the traditional reckoning) is one possible reading; the corpus's adopted position is open on the specific relationship.
+赫西俄德诸时代并未明确属于岁差性质 — 赫西俄德比喜帕恰斯早约五个世纪,无从知晓岁差循环 — 但本框架将赫西俄德传统读作保存了与岁差大年所表达的更广泛宇宙循环模式相关的内容。赫西俄德的四个时代与大年四重分割之间的结构性对应(每个时代相当于三个大月份,按传统算法即 6,480 年)是一种可能的解读;本文集对具体关系所采取的立场仍是开放的。{{ footnote(id="3") }}
 
-### The Mesoamerican Long Count
+### 中美洲长计历
 
-The Mesoamerican Long Count calendar's **13-B'ak'tun Great Cycle** of approximately **5,125 years** (1,872,000 days) corresponds to approximately **one-fifth of the precessional Great Year** (25,920 / 5 = 5,184 years; 25,772 / 5 = 5,154 years — both close to the Great Cycle figure). The numerical correspondence has been the subject of substantial 20th-21st century interpretive engagement, particularly in connection with the December 21, 2012 completion of the most recent Great Cycle.
+中美洲长计历的 **13 伯克盾大循环** 约 **5,125 年**(1,872,000 日),大致相当于 **岁差大年的五分之一**(25,920 / 5 = 5,184 年;25,772 / 5 = 5,154 年 — 两者皆接近大循环数字)。这一数值对应在 20–21 世纪引发了实质性的诠释探讨,尤其与 2012 年 12 月 21 日近期一次大循环的完结相关联。
 
-The framework's adopted position on the Mesoamerican Long Count is that the substantive numerical correspondence with the precessional Great Year is consistent with the broader cross-cultural preservation pattern, but that the specific question of whether the Mesoamerican tradition explicitly encoded precessional content is treated as open. The dedicated [Mesoamerican astronomy](../mesoamerican-astronomy/) entry would develop this question further.
+本框架对中美洲长计历采取的立场是:与岁差大年实质性的数值对应,与更广泛的跨文化保存模式相一致;但中美洲传统是否明确编码了岁差内容,这一具体问题仍属开放。{{ footnote(id="5") }} 专门的 [中美洲天文学](../mesoamerican-astronomy/) 词条将对此问题作进一步展开。
 
-### The broader cross-cultural pattern
+### 更广泛的跨文化模式
 
-The combined evidence from the Hindu, Greek, Mesoamerican, and other traditions supports the framework's reading that the precessional Great Year cycle was preserved across multiple pre-modern cosmological systems. The specific numerical signatures (25,920, 2,160, 432, 72, 360) appear with substantial frequency in cosmological-mythological contexts that predate explicit astronomical identification of precession. The framework reads this pattern as evidence of cross-cultural transmission of precessional astronomical content through symbolic-numerological vocabulary — the broader thesis developed in **Giorgio de Santillana and Hertha von Dechend's *Hamlet's Mill***, treated in the next section.
+来自印度、希腊、中美洲及其他传统的综合证据,支持本框架的解读:即岁差大年循环在多个前现代宇宙学体系中得以保存。具体的数字签名(25,920、2,160、432、72、360)在前于岁差被明确天文认定的宇宙学—神话语境中以实质性的频次出现。本框架将这一模式读作岁差天文内容通过象征—数字命理词汇进行跨文化传递的证据 — 这一更广泛的论题在 **乔治·德·桑蒂利亚纳与赫塔·冯·德申的《哈姆雷特之磨》** 中得到发展,本文将在下一节予以处理。
 
-## *Hamlet's Mill* and the precessional mythology thesis
+## 《哈姆雷特之磨》与岁差神话论题
 
-The most substantive single scholarly engagement with the cross-cultural preservation of the precessional Great Year is **Giorgio de Santillana and Hertha von Dechend's *Hamlet's Mill: An Essay on Myth and the Frame of Time*** (Gambit, 1969). The book — written by **Santillana** (1902–1974, professor of history of science at MIT) and **von Dechend** (1915–2001, professor of history of science at Goethe University Frankfurt) — argues that pre-Hipparchian global mythology systematically encodes precessional astronomical content in mythological-symbolic form. The book's full subtitle articulates the project: *An Essay Investigating the Origins of Human Knowledge and Its Transmission Through Myth*.
+对岁差大年跨文化保存最具实质性的单一学术研究,是 **乔治·德·桑蒂利亚纳与赫塔·冯·德申的《哈姆雷特之磨:神话与时间框架论》**(Gambit 出版社,1969 年)。该书由 **桑蒂利亚纳**(1902–1974,麻省理工学院科学史教授)与 **冯·德申**(1915–2001,法兰克福歌德大学科学史教授)合著,论述前喜帕恰斯时代的全球神话以神话—象征形式系统性地编码了岁差天文内容。该书完整的副标题清楚地表达了其研究项目:*探究人类知识的起源及其通过神话的传递*。
 
-### The central thesis
+### 核心论题
 
-The central thesis of *Hamlet's Mill* can be articulated in several connected claims:
+《哈姆雷特之磨》的核心论题可分述为若干相互关联的主张:
 
-- **Precession was discovered substantially before Hipparchus**, by Neolithic or earlier astronomers, possibly as early as 4,000–6,000 BCE
-- The knowledge of precession was transmitted across cultures and millennia through **mythological-symbolic encoding** rather than direct astronomical-textual transmission
-- The principal mythological motifs of the cross-cultural global tradition systematically preserve precessional astronomical content
-- The transmission of precessional content connects cultures separated by substantial geographical and temporal distance through common mythological vocabulary
+- **岁差在实质上早于喜帕恰斯被发现**,由新石器时代或更早的天文学家所识别,可能早至公元前 4,000–6,000 年
+- 岁差知识通过 **神话—象征性编码** 而非直接的天文—文本传递,在跨文化与千年之间得以传承
+- 跨文化全球传统的主要神话母题系统性地保存了岁差天文内容
+- 岁差内容的传递,通过共同的神话词汇,将相隔实质性地理与时间距离的诸文化联系起来
 
-The book is organised across approximately 500 pages of analysis covering Mesopotamian, Egyptian, Vedic, Iranian, Norse, Finnish, Polynesian, Mesoamerican, and other cross-cultural mythological traditions. The breadth of the engagement is one of the book's distinctive features — no single 20th-century scholar commanded all of these fields at the level of depth the project requires, and the collaboration between Santillana's broad humanistic scholarship and von Dechend's technical archaeoastronomy and Babylonian astronomy made the synthesis possible.
+该书展开于约 500 页的分析,涵盖美索不达米亚、埃及、吠陀、伊朗、北欧、芬兰、波利尼西亚、中美洲及其他跨文化神话传统。该探讨的广度是该书的显著特色之一 — 20 世纪没有任何单一学者能够以该项目所需的深度同时驾驭所有这些领域,而桑蒂利亚纳广博的人文学术与冯·德申技术性的考古天文学和巴比伦天文学的合作,使此综合成为可能。
 
-### The principal mythological motifs
+### 主要神话母题
 
-Santillana and von Dechend identify several principal mythological motifs that they read as preserving precessional content:
+桑蒂利亚纳与冯·德申辨识出若干主要神话母题,他们将其读作保存了岁差内容:
 
-#### The cosmic mill (Hamlet's Mill itself)
+#### 宇宙之磨(哈姆雷特之磨本身)
 
-The book's title comes from the Norse-Finnish mythological complex of the **cosmic mill** — the great mill (the Finnish **Sampo**, the Icelandic **Grotti**, the Hamlet-figure Amlethus's mill) that grinds out the destiny of the world. The mill is broken at a certain cosmic moment, producing a catastrophic disruption of the cosmic order. The framework's reading: the cosmic mill represents the precessional motion itself (the slow circular grinding of the celestial pole around the celestial sphere), and the "breaking" of the mill represents the precessional shift from one Age to the next, with the catastrophic implications attributed to such transitions in the broader cyclic-cosmology tradition.
+该书的标题源自北欧—芬兰神话复合体中的 **宇宙之磨** — 那台伟大的磨(芬兰的 **三宝**、冰岛的 **格罗蒂**,以及哈姆雷特原型阿姆雷图斯之磨),它研磨出世界的命运。此磨在某个宇宙时刻断裂,造成宇宙秩序的灾难性紊乱。本框架的解读:宇宙之磨代表岁差运动本身(天极环绕天球的缓慢圆形研磨),而磨的“断裂”代表岁差从一个时代向下一个时代的转移,其灾难性意涵在更广泛的循环宇宙学传统中被归于此类过渡。
 
-#### Hamlet / Amlethus
+#### 哈姆雷特 / 阿姆雷图斯
 
-The mythological figure of **Hamlet** (Saxo Grammaticus's *Amlethus*, the Old Norse *Amloði*, ultimately related to the broader Indo-European *Aml-* root) is read by Santillana and von Dechend as preserving content about the precessional cycle and the cosmic transitions. The Hamlet-figure is a recurring archetype across multiple cultures (the Finnish Kullervo, the Iranian Kai Khusrau, the various heroic figures who deal with cosmic disruption). The Shakespeare *Hamlet* (c. 1600) is read as a late literary recovery of the broader Indo-European Hamlet-myth complex.
+神话人物 **哈姆雷特**(萨克索·格拉玛蒂库斯的 *阿姆雷图斯*、古诺尔斯语 *Amloði*,最终与更广泛的印欧 *Aml-* 词根相关)被桑蒂利亚纳与冯·德申读作保存了关于岁差循环与宇宙过渡的内容。哈姆雷特原型是跨文化反复出现的原型(芬兰的库勒沃、伊朗的凯·胡斯劳,以及各种处理宇宙紊乱的英雄人物)。莎士比亚的《哈姆雷特》(约 1600 年)被读作对更广泛的印欧哈姆雷特神话复合体的晚期文学复原。
 
-#### Kullervo and the Sampo
+#### 库勒沃与三宝
 
-The **Finnish** mythological complex preserved in the *Kalevala* (compiled by Elias Lönnrot 1835–1849 from earlier Karelian oral tradition) includes substantial material that Santillana and von Dechend read as preserving precessional content. The forging of the **Sampo** (a magical mill or device of cosmic power, forged by the smith Ilmarinen), its theft by the witch Louhi, and its eventual breaking at sea is read as preserving content about cosmic-cycle transitions. The Kullervo cycle within the *Kalevala* is read as a related Indo-European heroic-cycle narrative.
+保存于《卡勒瓦拉》(由埃利亚斯·伦罗特于 1835–1849 年间从更早的卡累利阿口头传统中编纂)中的 **芬兰** 神话复合体,包含桑蒂利亚纳与冯·德申读作保存了岁差内容的实质性材料。**三宝**(由铁匠伊尔玛里宁锻造的具有宇宙力量的魔法之磨或装置)的锻造、女巫洛维亚塔尔对它的窃取以及其最终在海上的断裂,被读作保存了关于宇宙循环过渡的内容。《卡勒瓦拉》中的库勒沃循环被读作一个相关联的印欧英雄循环叙事。
 
-#### Osiris-Set in Egyptian tradition
+#### 埃及传统中的奥西里斯—赛特
 
-The **Egyptian** mythological complex of **Osiris** — his killing by **Set** and the **72 conspirators**, his dismemberment into 14 pieces, his subsequent resurrection by Isis — is read by Santillana and von Dechend as preserving substantial precessional content. The 72 conspirators connect to the 72-year Great Day (one degree of precession). The 14 pieces of Osiris's body (with the missing piece, Osiris's phallus, never recovered — Isis substituted a wooden replica) may connect to the lunar cycle and the broader astronomical content. Plutarch's *De Iside et Osiride* (c. 100 CE) preserves the most extensive surviving account.
+埃及神话复合体中的 **奥西里斯** — 被 **赛特** 与 **72 名同谋** 所杀、被肢解为 14 块、其后由伊西斯使之复活 — 被桑蒂利亚纳与冯·德申读作保存了实质性的岁差内容。72 名同谋与 72 年大日(一度岁差)相关联。奥西里斯身体的 14 块(其中缺失的一块,即奥西里斯的阳具,始终未被寻回 — 伊西斯以木制复制品代替)可能与月亮周期及更广泛的天文内容相关。普鲁塔克的《论伊西斯与奥西里斯》(约公元 100 年)保存了现存最详尽的记述。
 
-#### The cosmic axis / world tree / pillar of heaven
+#### 宇宙之轴 / 世界之树 / 天柱
 
-The cross-cultural mythological motif of the **cosmic axis** (the **axis mundi**) — the world tree (Yggdrasil in Norse, the cosmic *skambha* in Vedic, the cosmic pillar in Mesopotamian tradition, the cosmic mountain in Mesoamerican tradition) — is read as preserving content about the celestial pole and the precessional motion of the pole around the celestial sphere. The frequent mythological theme of the **breaking** or **falling** of the cosmic axis represents the precessional shift of the celestial pole position.
+跨文化神话母题中的 **宇宙之轴**(*axis mundi*)— 世界之树(北欧的尤克特拉希尔、吠陀的宇宙 *斯坎巴*、美索不达米亚传统中的宇宙之柱、中美洲传统中的宇宙之山)— 被读作保存了关于天极及天极环绕天球的岁差运动的内容。神话中频繁出现的宇宙之轴 **断裂** 或 **倾覆** 主题,即代表天极位置的岁差移动。
 
-#### The cosmic flood and the four ages
+#### 宇宙洪水与四时代
 
-The cross-cultural **flood narratives** (the Mesopotamian *Atrahasis* and *Gilgamesh*, the biblical Noahide flood, the Hindu *Manu* flood, the Greek *Deucalion*, the broader cross-cultural deluge tradition) are read as preserving content about cosmic-cycle transitions, with the floods occurring at precessional Age boundaries. The Hesiodic and Hindu **four-age** doctrines (Gold/Silver/Bronze/Iron in Hesiod; Satya/Treta/Dvapara/Kali in the Hindu yuga) similarly preserve cyclic-time content.
+跨文化的 **洪水叙事**(美索不达米亚的 *阿特拉哈西斯》与《吉尔伽美什》、圣经中的挪亚洪水、印度教的 *摩奴* 洪水、希腊的 *丢卡利翁》,以及更广泛的跨文化洪水传统)被读作保存了关于宇宙循环过渡的内容,洪水发生于岁差时代的边界处。赫西俄德与印度教的 **四时代** 教义(赫西俄德的黄金/白银/青铜/黑铁;印度教尤迦中的萨提亚/特雷塔/德瓦帕拉/卡利)同样保存了循环时间的内容。
 
-### The scholarly reception
+### 学术界的接受
 
-The reception of *Hamlet's Mill* in mainstream scholarship has been mixed:
+《哈姆雷特之磨》在主流学术界的接受是参差不一的:
 
-- **The book has been substantially influential** in the broader archaeoastronomy field that emerged in the 1970s and 1980s, including the work of **Ed Krupp** (Griffith Observatory), **Anthony Aveni** (Mesoamerican archaeoastronomy), and others. The broader archaeoastronomical engagement with precession in ancient cultures has substantially confirmed some of Santillana and von Dechend's specific claims (particularly the Egyptian temple alignments on Thuban as the Old Kingdom pole star, the broader Mesoamerican astronomical sophistication).
-- **The book has been substantially skeptically received** by mainstream classicists, historians of astronomy, and folklorists, who have argued that the cross-cultural correspondences identified are too loose to support the strong claim of systematic precessional transmission, and that the methodology lacks rigorous criteria for distinguishing precessional content from independently-arising cross-cultural patterns.
-- **The book's specific claims about Neolithic discovery of precession** are particularly contested. The mainstream-academic position is that the empirical evidence for pre-Hipparchian astronomical observation is limited and does not clearly support the strong claim of Neolithic precessional knowledge.
+- **该书在实质上影响了** 1970 年代与 1980 年代兴起的更广泛考古天文学领域,包括 **埃德·克鲁普**(格里菲斯天文台)、**安东尼·阿韦尼**(中美洲考古天文学)及其他人的工作。考古天文学对古代文化中岁差的更广泛探讨,实质性地证实了桑蒂利亚纳与冯·德申的若干具体主张(尤其是埃及神庙以图班作为古王国时期北极星的对齐方式,以及更广泛的中美洲天文学造诣)。
+- **该书在实质上受到主流古典学家、天文学史家与民俗学家的怀疑性接受**,他们论述书中所辨识的跨文化对应过于松散,不足以支持系统性岁差传递的强主张,且方法论缺乏区分岁差内容与独立产生的跨文化模式的严格标准。
+- **该书关于新石器时代发现岁差的具体主张** 尤具争议。主流学术立场认为,前喜帕恰斯时代天文观测的经验证据有限,并不清晰地支持新石器时代岁差知识的强主张。
 
-The framework's adopted position is **broadly sympathetic** to the *Hamlet's Mill* thesis. The corpus's broader interpretive work — particularly the reading of source-tradition material as preserving operational content from the Elohim project — is substantially consistent with the *Hamlet's Mill* claim that pre-Hipparchian astronomical content is preserved in mythological form. The framework treats the specific empirical resolution of the thesis as one of the field's principal open questions while engaging the substantive content with serious interest.
+本框架所采取的立场是对《哈姆雷特之磨》论题 **大体上抱有同情**。本文集更广泛的诠释工作 — 尤其是将源传统材料读作保存了耶洛因项目运作内容 — 在实质上与《哈姆雷特之磨》关于前喜帕恰斯时代天文内容以神话形式得以保存的主张相一致。本框架将该论题的具体经验解决视为该领域主要的开放问题之一,同时以严肃的兴趣探讨其实质性内容。
 
-## In the Wheel of Heaven framework
+## 在 Wheel of Heaven 框架中
 
-The framework's reading of the Great Year is multilayered. The mainstream astronomical phenomenon is treated as established empirical content; the substantive framework moves concern the historical-mythological and chronological-interpretive significance of the full cycle.
+本框架对大年的解读是多层次的。主流的天文现象被视为既定的经验内容;实质性的框架移动涉及完整循环的历史—神话与年代—诠释意义。
 
-### The Great Year as the duration of the Elohim project
+### 大年作为耶洛因项目的持续时长
 
-The framework's most substantive interpretive position concerning the Great Year is that **approximately one complete Great Year corresponds to the duration of the Elohim project on Earth**. The principal connections:
+本框架关于大年最具实质性的诠释立场是:**大致一个完整的大年相当于耶洛因在地球项目的持续时长**。主要的关联如下:
 
-- The Vorilhon source material's central claim that the Elohim arrived on Earth and began their operational project approximately **25,000 years ago** corresponds to approximately one Great Year on the modern astronomical reckoning (25,772 years) or 96% of one Great Year on the traditional reckoning (25,920 years)
-- The framework's chronological reading places the principal human-synthesis event in the **Age of Leo** (c. 13,170 – 11,010 BCE), with the Eden phase, the antediluvian Adamite period, and the broader prophetic record continuing through the subsequent Ages
-- The contemporary period (early 21st century CE) is approximately **12,000-15,000 years after** the principal synthesis event, corresponding to approximately **half of the Great Year** — placing humanity at approximately the midpoint of the precessional cycle from the synthesis event
-- The framework's reading of the **Age of Apocalypse** (treated in the dedicated entry) as the recovery and recognition phase places the contemporary period at the substantive transition from the Elohim's covert operational supervision to the broader recognition phase
+- 佛里翁源材料中的核心主张,即耶洛因在地球上抵达并开始其运作项目约发生于 **25,000 年前**{{ cite(id="the-book-which-tells-the-truth", text="[3]", title="佛里翁(雷尔),《揭示真相之书》(1974)— 本框架约 25,000 年耶洛因项目年代学的主要源材料") }},按现代天文算法(25,772 年)大致相当于一个大年,或按传统算法(25,920 年)为一个大年的 96%
+- 本框架的年代学解读将主要的人类合成事件置于 **狮子座时代**(约公元前 13,170 – 11,010 年),其后的 {% wiki(slug="eden") %}伊甸{% end %} 阶段、洪水前亚当时期,以及更广泛的预言记录,延续于其后各时代
+- 当代(21 世纪初)距主要合成事件约 **12,000–15,000 年**,大致相当于 **大年的一半** — 使人类处于自合成事件起岁差循环的大致中点
+- 本框架将 **{% wiki(slug="apocalypse") %}启示录{% end %}时代**(在专门词条中处理)读作恢复与认知阶段,这一解读将当代置于耶洛因从隐蔽运作监管向更广泛认知阶段实质性过渡的位置
 
-The framework reads this temporal correspondence — one Great Year approximating the duration of the Elohim project — as substantively significant. The cycle is sufficiently long that it could not be coincidental: the Elohim's project on Earth has been calibrated to the precessional cycle in a way that suggests deliberate operational use of the cycle as chronological infrastructure for the project.
+本框架将这一时间对应 — 一个大年大致等同于耶洛因项目的持续时长 — 视为实质上具有意义。该循环足够长,不可能是巧合:耶洛因在地球的项目已与岁差循环相校准,其方式提示对该循环作为项目年代基础设施的有意运作使用。
 
-### The Great Year as cosmic memory
+### 大年作为宇宙记忆
 
-The framework reads the Great Year as the **temporal scope of cosmic memory** within the source-tradition material. The principal observations:
+本框架将大年读作源传统材料内部 **宇宙记忆的时间范围**。主要观察如下:
 
-- The cross-cultural mythological-symbolic record substantially preserves content from approximately the past Great Year (the past ~25,000 years), but content from earlier than this is substantially absent or substantially compressed
-- The Vorilhon source material's specific operational content concentrates on events of the past ~25,000 years (the principal synthesis, the broader Adamite history, the prophetic record), with content from earlier cosmic history substantially compressed or absent
-- The temporal scope of the Hebrew Bible's narrative content (the Genesis 1 creation, the antediluvian patriarchs, the post-deluge Table of Nations, the Abrahamic and subsequent prophetic record) substantially aligns with the past Great Year scope
+- 跨文化的神话—象征记录在实质上保存了大致过去一个大年(过去约 25,000 年)的内容,而早于此的内容则实质性地缺失或被实质性压缩
+- 佛里翁源材料中具体的运作内容集中于过去约 25,000 年的事件(主要合成、更广泛的亚当历史、预言记录),而更早宇宙历史的内容则被实质性压缩或缺失
+- {% wiki(slug="hebrew-bible") %}希伯来圣经{% end %} 叙事内容的时间范围(创世记 1 的创造、洪水前列祖、洪水后的万民表、亚伯拉罕系及其后的预言记录),在实质上与过去一个大年的范围相对齐
 
-The framework reads this pattern as substantively significant: the Great Year is approximately the temporal scope across which the source-tradition material preserves operational content, suggesting that the project's documentary record has been calibrated to the cycle of the master cosmic clock.
+本框架将这一模式读作实质上具有意义:大年大致即源传统材料保存运作内容的时间范围,提示该项目的文献记录已与主宇宙时钟的循环相校准。
 
-### The Great Year as the master cycle of the corpus
+### 大年作为文集的主循环
 
-The framework's broader work uses the Great Year as the master temporal framework within which the twelve [Great Month](../great-month/) identifications are organized. The principal Great Month sequence within the current Great Year:
+本框架更广泛的工作以大年作为主时序框架,将十二个 [大月份](../great-month/) 认定组织于其中。当前大年内的主要大月份序列如下:
 
-| Great Month | Approximate dates | Principal framework content |
+| 大月份 | 大致年代 | 主要框架内容 |
 |---|---|---|
-| **Age of Virgo** | c. 15,330 – 13,170 BCE | The *yom* 5 phase; synthesis of broader animal life |
-| **Age of Leo** | c. 13,170 – 11,010 BCE | The *yom* 6 phase; principal human synthesis; Eden phase |
-| **Age of Cancer** | c. 11,010 – 8,850 BCE | Post-deluge reorganisation; Younger Dryas-era catastrophic events |
-| **Age of Gemini** | c. 8,850 – 6,690 BCE | Early Neolithic; Holocene climate stabilisation |
-| **Age of Taurus** | c. 6,690 – 4,530 BCE | Sumerian and Egyptian civilisations; principal megalithic period |
-| **Age of Aries** | c. 4,530 – 2,370 BCE | Principal Hebrew prophetic period (Abraham–Moses–Davidic monarchy) |
-| **Age of Pisces** | c. 1 CE – 2,160 CE | Christian era and broader subsequent religious developments |
-| **Age of Aquarius** | c. 2,160 CE onward | Contemporary recovery period; transition into the Age of Apocalypse |
+| **处女座时代** | 约公元前 15,330 – 13,170 年 | *yom* 5 阶段;更广泛动物生命的合成 |
+| **狮子座时代** | 约公元前 13,170 – 11,010 年 | *yom* 6 阶段;主要人类合成;伊甸阶段 |
+| **巨蟹座时代** | 约公元前 11,010 – 8,850 年 | 洪水后的重组;新仙女木期灾难性事件 |
+| **双子座时代** | 约公元前 8,850 – 6,690 年 | 早期新石器时代;全新世气候稳定 |
+| **金牛座时代** | 约公元前 6,690 – 4,530 年 | 苏美尔与埃及文明;主要巨石时期 |
+| **白羊座时代** | 约公元前 4,530 – 2,370 年 | 主要希伯来预言时期(亚伯拉罕–{% wiki(slug="moses") %}摩西{% end %}–大卫王朝) |
+| **双鱼座时代** | 约公元 1 – 2,160 年 | 基督教时代及更广泛的后续宗教发展 |
+| **水瓶座时代** | 约公元 2,160 年起 | 当代恢复时期;向启示录时代的过渡 |
 
-The Great Year therefore organises approximately 27,500 years of corpus-relevant content from the Age of Virgo through the contemporary period. The earlier portions of the Great Year (the Ages of Libra, Scorpio, Sagittarius, Capricorn) correspond on the framework's reading to the **preparatory phases** of the Earth project — the *yamim* 1-4 of Genesis 1, the terraforming operations treated in the dedicated [Terraforming](../terraforming/) entry. The framework's complete Great Year sequence therefore covers the full Elohim project from initial terraforming through the contemporary recovery phase.
+因此大年组织了约 27,500 年的文集相关内容,自处女座时代延续至当代。大年的更早部分(天秤座、天蝎座、射手座、摩羯座时代)按本框架解读相当于地球项目的 **前期准备阶段** — 即创世记 1 的 *yamim* 1–4,亦即专门的 [地球化](../terraforming/) 词条中处理的改造行动。本框架完整的大年序列因而涵盖自初始地球化至当代恢复阶段的完整耶洛因项目。
 
-### The "world entering the Age of Aquarius"
+### “世界进入水瓶座时代”
 
-The contemporary cultural recognition that "the world is entering the Age of Aquarius" — a phrase that became culturally prominent through the 1967 song "Aquarius / Let the Sunshine In" from the Broadway musical *Hair* and has been substantially developed in subsequent esoteric and "New Age" discourse — is read by the framework as preserving popular awareness of the precessional Age transition. The specific timing of the Pisces-to-Aquarius transition is contested (different reckonings place it variously between approximately 1900 CE and 2700 CE), but the broader cultural recognition that a substantive Age transition is occurring is consistent with the framework's reading that the contemporary period is the substantive recovery and recognition phase of the broader Elohim project.
+当代文化中对“世界正进入水瓶座时代”的认知 — 这一短语通过 1967 年百老汇音乐剧《长发》中的歌曲《水瓶座 / 让阳光照进来》而在文化上显著流传,并在其后的秘教与“新时代”话语中实质性地发展 — 被本框架读作流行层面对岁差时代过渡的觉知保存。双鱼座向水瓶座过渡的具体时机存在争议(不同算法将其置于约公元 1900 年至 2700 年之间不等),但更广泛的文化认知 — 即一次实质性的时代过渡正在发生 — 与本框架的解读相一致:当代是更广泛耶洛因项目实质性的恢复与认知阶段。
 
-The framework's specific Pisces-to-Aquarius transition timing is treated as approximate (c. 2,160 CE on the framework's adopted reckoning, but with ±200-year uncertainty as discussed in the [Precession](../precession/) and [Great Month](../great-month/) entries). What is substantively significant on the framework's reading is not the precise date of transition but the broader pattern: the Age of Pisces (the Christian era and the broader subsequent religious developments) is concluding, and the contemporary period is the substantive transition into a new precessional Age within which the broader corpus's interpretive recovery work is operating.
+本框架对双鱼座向水瓶座过渡的具体时机所采取的视为大致(按本框架所采算法约为公元 2,160 年,但具有 ±200 年的不确定性,详见 [岁差](../precession/) 与 [大月份](../great-month/) 词条)。按本框架解读,在实质上具有意义的不是过渡的精确日期,而是更广泛的模式:双鱼座时代(基督教时代及更广泛的后续宗教发展)正在结束,而当代是向新岁差时代的实质性过渡,文集更广泛的诠释性恢复工作即在其中运作。
 
-## Connections to the broader framework
+## 与更广泛框架的关联
 
-The Great Year entry connects to several specific corpus entries.
+大年词条与若干具体的文集词条相关联。
 
-**The Precession entry.** The dedicated [Precession](../precession/) entry treats the astronomical phenomenon itself; the Great Year is one complete cycle of the phenomenon.
+**岁差词条。** 专门的 [岁差](../precession/) 词条处理天文现象本身;大年是该现象的一个完整循环。
 
-**The Great Month entry.** The dedicated [Great Month](../great-month/) entry treats the twelfth-of-the-Great-Year unit; the Great Year is the master cycle of which the Great Months are subdivisions.
+**大月份词条。** 专门的 [大月份](../great-month/) 词条处理大年的十二分之一单位;大年是大月份作为其子单位的主循环。
 
-**The World Age entry.** The dedicated [World Age](../world-age/) entry treats the broader cross-cultural doctrine of cosmic ages; the Great Year is one specific articulation of this broader doctrine.
+**世界时代词条。** 专门的 [世界时代](../world-age/) 词条处理更广泛的宇宙时代跨文化教义;大年是该更广泛教义的一种具体表达。
 
-**The individual Age entries.** The dedicated entries on each Great Month develop the specific content of each Age within the Great Year framework.
+**各时代单独词条。** 关于每一大月份的专门词条,在大年框架内展开各时代的具体内容。
 
-**The Genesis entry.** The dedicated [Genesis](../genesis/) entry treats the *yamim* sequence; the framework reads the seven *yamim* as the seven precessional Ages constituting one half of a Great Year on the broader reckoning.
+**创世记词条。** 专门的 [创世记](../genesis/) 词条处理 *yamim* 序列;本框架将七个 *yamim* 读作构成大年一半的七个岁差时代(按更广泛的算法)。
 
-**The Hamlet's Mill thesis.** Treated principally in the present entry and in the [Precession](../precession/) entry; the dedicated [List of mythemes and mythological motifs](../list-of-mythemes-and-mythological-motifs/) entry develops the specific mythological motifs that Santillana and von Dechend identify.
+**《哈姆雷特之磨》论题。** 主要在本词条与 [岁差](../precession/) 词条中处理;专门的 [神话素与神话母题列表](../list-of-mythemes-and-mythological-motifs/) 词条展开桑蒂利亚纳与冯·德申所辨识的具体神话母题。
 
-**The Age of Apocalypse.** The dedicated [Age of Apocalypse](../age-of-apocalypse/) entry treats the framework's reading of the contemporary period as the recovery and recognition phase; the Great Year entry establishes the broader temporal framework within which the contemporary transition is occurring.
+**启示录时代。** 专门的 [启示录时代](../age-of-apocalypse/) 词条处理本框架将当代读作恢复与认知阶段的解读;大年词条建立当代过渡所处之更广泛的时间框架。
 
-**The Forerunners and Elohim.** The dedicated [Forerunners](../forerunners/) and [Elohim](../elohim/) entries treat the broader chain-of-designers in which the Elohim are positioned; the Great Year is approximately the duration of one Elohim project on Earth, with multiple Great Years likely required for the broader chain of life-propagation across the universe.
+**先驱者与耶洛因。** 专门的 [先驱者](../forerunners/) 与 [耶洛因](../elohim/) 词条处理耶洛因在更广泛设计者链中所处位置;大年大致是地球上一个耶洛因项目的持续时长,而宇宙中更广泛的生命传播链可能需要多个大年。
 
-## Open questions
+## 开放问题
 
-The Great Year entry surfaces several open questions for the framework's broader interpretive work.
+大年词条为本框架更广泛的诠释工作浮现出若干开放问题。
 
-- **The empirical resolution of the pre-Hipparchian discovery question.** The mainstream-academic position holds that precession was first identified by Hipparchus c. 129 BCE. The *Hamlet's Mill* thesis and subsequent archaeoastronomy work substantively contest this position. The framework's adopted reading is broadly sympathetic to the earlier-discovery position but treats the specific empirical resolution as open.
-- **The reconciliation of the modern astronomical (25,772 years) and traditional (25,920 years) reckonings.** The corpus uses both depending on context. Whether the corpus should converge on one as the principal reckoning is treated as open.
-- **The specific operational use of the Great Year by the Elohim.** The framework reads the Great Year as approximately the duration of the Elohim project, suggesting deliberate operational calibration to the precessional cycle. The specific operational use (navigation, chronological infrastructure, project-management framework, broader cosmic-pattern alignment) is treated as open.
-- **The relationship to the Hindu *yuga* and *kalpa* cycles.** The substantial numerical correspondences between the Hindu cyclic-cosmology arithmetic and the precessional Great Year are striking, but the specific relationship — whether the Hindu numbers derive from precessional astronomy, develop independently with secondary precessional correspondence, or relate through some other mechanism — is treated as open.
-- **The Mesoamerican Long Count and 2012 phenomenon.** The numerical correspondence between the 5,125-year Mesoamerican Great Cycle and approximately one-fifth of the precessional Great Year is substantively interesting, but the specific question of whether the Mesoamerican tradition explicitly encoded precessional content is treated as open.
-- **The Yukteshwar 24,000-year cycle.** The 19th-century Indian astrological tradition associated with Sri Yukteshwar uses a 24,000-year *yuga* cycle that does not match the standard Puranic figures but substantially matches the actual Great Year. Whether the Yukteshwar reading preserves substantive earlier content or is a 19th-century reinterpretation is treated as open.
+- **前喜帕恰斯时代发现问题的经验解决。** 主流学术立场认为岁差最早由喜帕恰斯于约公元前 129 年所识别。《哈姆雷特之磨》论题及其后的考古天文学工作在实质上对此立场提出异议。本框架所采取的解读大体上同情更早发现的立场,但将具体的经验解决视为开放问题。
+- **现代天文算法(25,772 年)与传统算法(25,920 年)的协调。** 文集根据语境两者并用。文集是否应收敛于一者作为主要算法,被视为开放问题。
+- **耶洛因对大年的具体运作使用。** 本框架将大年读作大致即耶洛因项目的持续时长,提示对岁差循环的有意运作校准。具体的运作使用(导航、年代基础设施、项目管理框架、更广泛的宇宙模式对齐)被视为开放问题。
+- **与印度教 *尤迦* 与 *劫波* 循环的关系。** 印度教循环宇宙学算术与岁差大年之间实质性的数值对应颇为引人注目,但具体关系 — 印度教数字是从岁差天文学推得、独立发展并次生地与岁差对应,抑或通过其他机制相关联 — 被视为开放问题。
+- **中美洲长计历与 2012 现象。** 5,125 年中美洲大循环与大致岁差大年五分之一之间的数值对应,在实质上颇为有趣;但中美洲传统是否明确编码了岁差内容,这一具体问题仍属开放。
+- **尤克特斯瓦尔的 24,000 年循环。** 与斯里·尤克特斯瓦尔相关联的 19 世纪印度占星传统,采用一个与标准《往世书》数字不符但实质性地匹配实际大年的 24,000 年 *尤迦* 循环。尤克特斯瓦尔的解读是否保存了实质性的更早内容,抑或为 19 世纪的重新诠释,被视为开放问题。
 
-## See also
+## 参见
 
-- [Precession](../precession/)
-- [Great Month](../great-month/)
-- [World Age](../world-age/)
-- [Age of Virgo](../timeline/age-of-virgo/)
-- [Age of Leo](../timeline/age-of-leo/)
-- [Age of Cancer](../timeline/age-of-cancer/)
-- [Age of Gemini](../timeline/age-of-gemini/)
-- [Age of Taurus](../timeline/age-of-taurus/)
-- [Age of Aries](../timeline/age-of-aries/)
-- [Age of Pisces](../timeline/age-of-pisces/)
-- [Age of Aquarius](../timeline/age-of-aquarius/)
-- [Age of Apocalypse](../age-of-apocalypse/)
-- [Genesis](../genesis/)
-- [Terraforming](../terraforming/)
-- [List of mythemes and mythological motifs](../list-of-mythemes-and-mythological-motifs/)
-- [List of exegetic readings](../list-of-exegetic-readings/)
-- [List of megalithic sites](../list-of-megalithic-sites/)
+- [岁差](../precession/)
+- [大月份](../great-month/)
+- [世界时代](../world-age/)
+- [处女座时代](../timeline/age-of-virgo/)
+- [狮子座时代](../timeline/age-of-leo/)
+- [巨蟹座时代](../timeline/age-of-cancer/)
+- [双子座时代](../timeline/age-of-gemini/)
+- [金牛座时代](../timeline/age-of-taurus/)
+- [白羊座时代](../timeline/age-of-aries/)
+- [双鱼座时代](../timeline/age-of-pisces/)
+- [水瓶座时代](../timeline/age-of-aquarius/)
+- [启示录时代](../age-of-apocalypse/)
+- [创世记](../genesis/)
+- [地球化](../terraforming/)
+- [神话素与神话母题列表](../list-of-mythemes-and-mythological-motifs/)
+- [释经性解读列表](../list-of-exegetic-readings/)
+- [巨石遗址列表](../list-of-megalithic-sites/)
 
-## External links
+## 外部链接
 
 - [Great Year | Wikipedia](https://en.wikipedia.org/wiki/Great_Year)
 - [Astrological age | Wikipedia](https://en.wikipedia.org/wiki/Astrological_age)
 - [Plato, Timaeus | Perseus Digital Library](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0179)
 - [Hamlet's Mill | Wikipedia](https://en.wikipedia.org/wiki/Hamlet%27s_Mill)
 
-## References
+## 文献
 
-Vorilhon, Claude (Raël). *Le Livre qui dit la vérité* (1974) and *Les extra-terrestres m'ont emmené sur leur planète* (1976), collected as *Message from the Designers* (Raëlian Foundation, current English edition). [Primary source for the framework's reading of the Elohim project's ~25,000-year duration corresponding to approximately one Great Year.]
+Vorilhon, Claude (Raël). *Le Livre qui dit la vérité* (1974) and *Les extra-terrestres m'ont emmené sur leur planète* (1976), collected as *Message from the Designers* (Raëlian Foundation, current English edition). [本框架将耶洛因项目约 25,000 年持续时长读作大致一个大年的主要源材料。]
 
-Santillana, Giorgio de, and Hertha von Dechend. *Hamlet's Mill: An Essay on Myth and the Frame of Time*. Boston: Gambit, 1969. [The foundational scholarly engagement with the thesis that pre-Hipparchian global mythology systematically encodes precessional Great Year content.]
+Santillana, Giorgio de, and Hertha von Dechend. *Hamlet's Mill: An Essay on Myth and the Frame of Time*. Boston: Gambit, 1969. [对前喜帕恰斯时代全球神话系统性编码岁差大年内容这一论题的奠基性学术研究。]
 
-Plato. *Timaeus*. c. 360 BCE. Standard English translation: *Plato: Complete Works*, edited by John M. Cooper. Hackett, 1997. [The foundational philosophical source for the Magnus Annus / Great Year concept, with the *teleios eniautos* passage at *Timaeus* 39d.]
+Plato. *Timaeus*. c. 360 BCE. Standard English translation: *Plato: Complete Works*, edited by John M. Cooper. Hackett, 1997. [Magnus Annus / 大年概念的奠基性哲学来源,*teleios eniautos* 一段见《蒂迈欧篇》39d。]
 
-Cicero. *De Natura Deorum*. c. 45 BCE. [The principal Latin source for the post-Platonic Magnus Annus tradition.]
+Cicero. *De Natura Deorum*. c. 45 BCE. [后柏拉图时代 Magnus Annus 传统的主要拉丁文来源。]
 
-Censorinus. *De Die Natali*. c. 238 CE. [Preserves the various ancient calculations of the Great Year (Heraclitus, Aristarchus, Diogenes of Babylonia).]
+Censorinus. *De Die Natali*. c. 238 CE. [保存了大年的各种古代计算(赫拉克利特、阿利斯塔克斯、巴比伦的第欧根尼)。]
 
-Ptolemy, Claudius. *Almagest*. c. 150 CE. Standard English translation: *Ptolemy's Almagest*, translated by G. J. Toomer. Princeton University Press, 1998. [The principal source for the 36,000-year Great Year figure that dominated the medieval Western tradition.]
+Ptolemy, Claudius. *Almagest*. c. 150 CE. Standard English translation: *Ptolemy's Almagest*, translated by G. J. Toomer. Princeton University Press, 1998. [主导中世纪西方传统的 36,000 年大年数字的主要来源。]
 
-Plutarch. *De Iside et Osiride*. c. 100 CE. [Preserves the Egyptian Osiris-Set tradition with the 72 conspirators, a principal cross-cultural mythological motif identified by Santillana and von Dechend as preserving precessional content.]
+Plutarch. *De Iside et Osiride*. c. 100 CE. [保存了埃及奥西里斯—赛特传统以及 72 名同谋这一被桑蒂利亚纳与冯·德申辨识为保存岁差内容的主要跨文化神话母题。]
 
-Lönnrot, Elias, compiler. *Kalevala*. 1835 (first edition), 1849 (expanded second edition). [The compiled Finnish national epic, principal source for the Sampo and Kullervo mythological cycles that Santillana and von Dechend identify as preserving precessional content.]
+Lönnrot, Elias, compiler. *Kalevala*. 1835 (first edition), 1849 (expanded second edition). [汇编而成的芬兰民族史诗,桑蒂利亚纳与冯·德申辨识为保存岁差内容的三宝与库勒沃神话循环之主要来源。]
 
-Saxo Grammaticus. *Gesta Danorum*. c. 1200. [Source for the Amlethus tradition that gives *Hamlet's Mill* its title.]
+Saxo Grammaticus. *Gesta Danorum*. c. 1200. [为《哈姆雷特之磨》提供书名的阿姆雷图斯传统之来源。]
 
-Hesiod. *Works and Days*. c. 700 BCE. [Source for the Greek Four Ages tradition.]
+Hesiod. *Works and Days*. c. 700 BCE. [希腊四时代传统之来源。]
 
-Yukteshwar Giri, Swami Sri. *The Holy Science (Kaivalya Darsanam)*. Yogoda Satsanga Society of India, 1894. [The principal Indian tradition treating the *yuga* cycle as a 24,000-year precessional cycle.]
+Yukteshwar Giri, Swami Sri. *The Holy Science (Kaivalya Darsanam)*. Yogoda Satsanga Society of India, 1894. [将 *尤迦* 循环视为 24,000 年岁差循环的主要印度传统。]
 
-Blavatsky, Helena Petrovna. *The Secret Doctrine*. Theosophical Publishing Company, 1888. [The 19th-century theosophical revival of the Magnus Annus and broader cross-cultural cosmic-cycle traditions.]
+Blavatsky, Helena Petrovna. *The Secret Doctrine*. Theosophical Publishing Company, 1888. [Magnus Annus 与更广泛跨文化宇宙循环传统的 19 世纪神智学复兴。]
 
-Biglino, Mauro. *Il libro che cambierà per sempre le nostre idee sulla Bibbia*. Mondadori, 2011. [Source for the framework-relevant reading of precession as potential Elohim/Anunnaki navigation infrastructure.]
+Biglino, Mauro. *Il libro che cambierà per sempre le nostre idee sulla Bibbia*. Mondadori, 2011. [将岁差读作可能的耶洛因/阿努纳奇导航基础设施这一框架相关解读的来源。]
 
-Cruttenden, Walter. *Lost Star of Myth and Time*. St. Lynn's Press, 2006. [Contemporary popular treatment of the cross-cultural Great Year tradition.]
+Cruttenden, Walter. *Lost Star of Myth and Time*. St. Lynn's Press, 2006. [对跨文化大年传统的当代通俗处理。]
 
-Ulansey, David. *The Origins of the Mithraic Mysteries: Cosmology and Salvation in the Ancient World*. Oxford University Press, 1989. [The principal contemporary scholarly engagement with precession in the context of Mithraic mysteries, with substantive application of the *Hamlet's Mill* methodology to a specific religious tradition.]
+Ulansey, David. *The Origins of the Mithraic Mysteries: Cosmology and Salvation in the Ancient World*. Oxford University Press, 1989. [在密特拉密仪语境中处理岁差的主要当代学术研究,将《哈姆雷特之磨》方法论实质性地应用于具体的宗教传统。]
 
-Sellers, Jane B. *The Death of Gods in Ancient Egypt: An Essay on Egyptian Religion and the Frame of Time*. Lulu, 2007 (expanded edition). [Application of the *Hamlet's Mill* methodology to Egyptian astronomical tradition.]
+Sellers, Jane B. *The Death of Gods in Ancient Egypt: An Essay on Egyptian {% wiki(slug="religion") %}Religion{% end %} and the Frame of Time*. Lulu, 2007 (expanded edition). [将《哈姆雷特之磨》方法论应用于埃及天文传统。]
 
 Krupp, E. C. *In Search of Ancient Astronomies*. Doubleday, 1978.
 
@@ -361,7 +390,7 @@ Bauval, Robert, and Adrian Gilbert. *The Orion Mystery: Unlocking the Secrets of
 
 Schoch, Robert M. *Forgotten Civilization: The Role of Solar Outbursts in Our Past and Future*. Inner Traditions, 2012.
 
-Sendy, Jean. *La Lune, clé de la Bible*. Julliard, 1968.
+Sendy, Jean. *La Lune, clé de la {% wiki(slug="bible") %}Bible{% end %}*. Julliard, 1968.
 
 Sendy, Jean. *Ces dieux qui firent le ciel et la terre*. Robert Laffont, 1969.
 
@@ -369,7 +398,7 @@ Evans, James. *The History and Practice of Ancient Astronomy*. Oxford University
 
 Neugebauer, Otto. *A History of Ancient Mathematical Astronomy*. 3 vols. Springer-Verlag, 1975.
 
-Campion, Nicholas. *The Book of World Horoscopes*. Aquarian Press, 1988 (revised editions subsequently). [Standard reference for the various proposed Age transition dates.]
+Campion, Nicholas. *The Book of World Horoscopes*. Aquarian Press, 1988 (revised editions subsequently). [关于各种已提出之时代过渡日期的标准参考文献。]
 
 "Great Year." *Wikipedia*. <https://en.wikipedia.org/wiki/Great_Year>
 

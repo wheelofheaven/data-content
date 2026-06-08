@@ -1,367 +1,396 @@
 +++
 title = "Gran Año"
-description = "El Gran Año es el ciclo precesional completo de la Tierra — unos 25.920 años según la tradición astrológica o 25.772 años según la medición astronómica contemporánea — en el que el Sol del equinoccio primaveral completa un recorrido completo por los doce signos del zodíaco. La denominación de \"Año\" proviene de la expansión analógica del año solar normal a la escala cósmica. El concepto fue articulado sustancialmente en la cosmología platónica (en el *Timeo* Platón habla del \"año perfecto\" en el que todos los cuerpos celestes regresan a sus posiciones iniciales) y transmitido en la tradición astronómica cristiana y árabe medieval como concepto cosmológico central. El marco Wheel of Heaven lee el Gran Año como la unidad cronológica fundamental en cuyo marco temporal se extiende la fase operativa del proyecto Elohim de la Tierra — desde la llegada Elohim al final de la era de Capricornio (c. 21.810 a. e. c.), pasando por las doce eras precesionales de un único Gran Año, hasta culminar con la fase contemporánea de Apocalipsis en Acuario y la expectativa de la fase de la Edad de Oro siguiente, que entra en un segundo Gran Año, en el cual la propia humanidad se convierte en civilización creadora para mundos biológicos sucesivos."
+slug = "great-year"
+description = "El Gran Año es el período de un ciclo completo de precesión axial — la duración requerida para que el eje de rotación de la Tierra trace un cono completo contra el fondo de las estrellas fijas, equivalente a un recorrido completo del punto equinoccial vernal por la eclíptica. Según la medición astronómica moderna, el Gran Año es de aproximadamente 25.772 años; según el cómputo de la tradición astrológica, es de 25.920 años (la cifra cómoda 2⁶ × 3⁴ × 5, derivada de 360° × 72 años por grado de desplazamiento precesional). El concepto tiene una historia sustantiva en el pensamiento occidental que se remonta al *Timeo* de Platón (c. 360 a. e. c.), donde el *Magnus Annus* o *Año Perfecto* designa el ciclo de retorno de los cuerpos celestes a su configuración inicial. La tradición post-hiparquiana (tras el descubrimiento de la precesión c. 129 a. e. c.) identificó el Gran Año platónico con el ciclo precesional, y la cifra 25.920 se hizo dominante a través de la tradición medieval y renacentista. El marco Wheel of Heaven lee el Gran Año como infraestructura cronológica fundacional de todo el corpus — aproximadamente la duración del proyecto Elohim en la Tierra (síntesis hace unos 25.000 años, con las fases preparatorias y operativas más amplias extendiendo la línea temporal algo más allá) y el ciclo maestro dentro del cual se organizan las doce identificaciones de Gran Mes del corpus. La preservación intercultural de ciclos cósmicos a escala del Gran Año (el *Kalpa* y el *Mahakalpa* hindúes, la *ekpyrosis* estoica, el Magnus Annus de la tradición platónica, el registro mitológico-simbólico más amplio analizado por Giorgio de Santillana y Hertha von Dechend en *El molino de Hamlet* (1969)) es tratada por el marco como evidencia sustancial de la transmisión pre-hiparquiana del concepto de ciclo cósmico precesional."
 template = "wiki-page.html"
 toc = true
 
 [extra]
-translation_status = "metadata_only"
-redirect_to = { title = "World Age", path = "/wiki/world-age/" }
-category = "Cosmic Chronology"
+featured_order = 6
+redirect_to = { title = "Edad del Mundo", path = "/wiki/world-age/" }
+category = "Cronología cósmica"
 editorial_pass = "2026-05"
 entry_type = "concept"
 claim_type = "inferred"
-alternative_names = ["Platonic Year", "Precessional year", "Magnus Annus (Latin)", "Annus Magnus", "Annus Perfectus / Perfect Year (Plato)", "Cosmic Year"]
+alternative_names = ["Año Platónico", "Año precesional", "Magnus Annus (latín)", "Annus Magnus", "Annus Perfectus / Año Perfecto (Platón)", "Año Cósmico"]
+see_also = [
+    { title = "Precesión", path = "wiki/precession", description = "El mecanismo que impulsa el Gran Año — el lento bamboleo del eje terrestre." },
+    { title = "Gran Mes", path = "wiki/great-month", description = "Una doceava parte del Gran Año — la duración de una sola era precesional." },
+    { title = "Edad del Mundo", path = "wiki/world-age", description = "Una era precesional tratada como capítulo de la historia humana." },
+    { title = "Zodíaco", path = "wiki/zodiac", description = "La división celeste duodecimal que nombra cada era del Gran Año." },
+    { title = "Gran Retorno", path = "wiki/great-return", description = "La formulación raeliana de la culminación del ciclo — el retorno prometido de los Elohim." },
+    { title = "Evolución cósmica", path = "wiki/cosmic-evolution", description = "El marco que sitúa el Gran Año dentro de la evolución del tiempo profundo." },
+]
+
+footnotes = [
+    { content = "El *teleios eniautos* de Platón en *Timeo* 39d se define como el período requerido para que el Sol, la Luna y los cinco planetas visibles vuelvan simultáneamente a sus configuraciones iniciales — un ciclo de conjunción planetaria, no precesional. Platón no da ninguna cifra de duración para el Año Perfecto en el *Timeo*, y no podría haberlo hecho sobre bases precesionales, ya que la precesión no fue identificada hasta Hiparco c. 129 a. e. c., más de dos siglos después del diálogo. La identificación del Año Perfecto platónico con el ciclo precesional es, por tanto, un desarrollo post-hiparquiano, no una afirmación platónica." },
+    { content = "La cifra tradicional de 25.920 años es preferida en el trabajo cronológico más amplio del marco por su comodidad matemática: se factoriza limpiamente como 2⁶ × 3⁴ × 5, con 360 × 72, 60 × 432 y 12 × 2.160 entre sus descomposiciones disponibles. El *Almagesto* de Ptolomeo (c. 150 e. c.) da una cifra sustancialmente mayor de 36.000 años, derivada de la medición de Hiparco de la precesión a aproximadamente 1° por siglo en lugar de los ~50 segundos de arco por año reales. La cifra ptolemaica de 36.000 años dominó la tradición occidental durante el período medieval antes de que el cómputo de 25.920 años, derivado de la tasa más exacta de 72 años por grado, la suplantara durante el Renacimiento." },
+    { content = "*Los trabajos y los días* de Hesíodo (c. 700 a. e. c.) ofrece una secuencia cuádruple o quíntuple de Edades en declive — Oro, Plata, Bronce, la Edad Heroica interpolada e Hierro — que no es explícitamente precesional y no podría haberlo sido, ya que Hesíodo precede a Hiparco por aproximadamente cinco siglos. La correspondencia estructural entre las cuatro Edades hesiódicas y una subdivisión cuádruple del Gran Año (cada Edad correspondiendo a tres Grandes Meses, o 6.480 años según el cómputo tradicional) es una lectura posible, pero la posición adoptada por el corpus sobre la relación específica entre la secuencia hesiódica y el ciclo precesional permanece abierta." },
+    { content = "La aritmética cosmológica cíclica hindú opera a escalas sustancialmente mayores que el Gran Año precesional: el *mahayuga* totaliza 4.320.000 años (aproximadamente 167 Grandes Años), y el *kalpa* completo — el día de Brahma — totaliza 4.320.000.000 años. Las sustanciales correspondencias numéricas entre los números hindúes y las cifras precesionales (en particular los números relacionados con 432 y sus factorizaciones) son llamativas, pero si las fuentes puránicas derivan sus cifras de la astronomía precesional, se desarrollan independientemente con correspondencia precesional secundaria, o se relacionan a través de algún otro mecanismo es tratado por el corpus como una cuestión abierta." },
+    { content = "El Gran Ciclo de 13 B'ak'tunes de la Cuenta Larga mesoamericana, de aproximadamente 5.125 años (1.872.000 días), corresponde aproximadamente a una quinta parte del Gran Año precesional (25.920 / 5 = 5.184 años; 25.772 / 5 = 5.154 años — ambos cercanos a la cifra mesoamericana). La correspondencia numérica es consistente con el patrón más amplio de preservación intercultural, pero la cuestión específica de si la tradición mesoamericana codificó explícitamente contenido precesional — frente a derivar el ciclo de consideraciones astronómicas o calendáricas independientes — es tratada por el corpus como abierta." },
+]
+
+[[extra.references]]
+id = "hamlets-mill"
+note = "Compromiso fundacional de Santillana y von Dechend con la tesis de que la mitología pre-hiparquiana codifica sistemáticamente contenido precesional del Gran Año."
+
+[[extra.references]]
+id = "theogony-and-works-and-days"
+note = "*Los trabajos y los días* de Hesíodo — fuente griega principal para la tradición de las Cuatro/Cinco Edades que el marco lee junto al Gran Año precesional."
+
+[[extra.references]]
+id = "the-book-which-tells-the-truth"
+note = "Primera obra raeliana de Vorilhon (1974) — fuente primaria para la lectura por el marco de la duración del proyecto Elohim de ~25.000 años como aproximadamente un Gran Año."
 
 [extra.infobox]
-type = "The full precessional cycle; one complete circuit of the vernal equinox around the ecliptic"
-duration_modern = "Approximately 25,772 years (modern astronomical measurement, based on the precessional rate of ~50.29 arcseconds/year)"
-duration_traditional = "Exactly 25,920 years (astrological-tradition reckoning, 360° × 72 years/°)"
-component_units = "1 Great Year = 12 Great Months (each ~2,160 years) = 360 Great Days (each ~72 years) = full 360° circuit of the ecliptic"
-plato_source = "*Timaeus* 39d — the *teleios eniautos* (\"Perfect Year\") concept"
-historical_milestones = "Plato (c. 360 BCE — original *Perfect Year* concept, not yet identified with precession); Hipparchus (c. 129 BCE — discovery of precession); Cicero (c. 45 BCE — Latin *Magnus Annus* tradition); Censorinus (c. 238 CE — preservation of variant ancient calculations); Ptolemy (c. 150 CE — 36,000-year figure); Renaissance tradition (identification with precessional cycle); 19th–20th-century revival in theosophical-esoteric thought; Santillana and von Dechend's *Hamlet's Mill* (1969) — scholarly engagement with cross-cultural preservation"
-cross_cultural_correspondences = "Hindu *Kalpa* / *Mahakalpa* (much longer cycles with substructure that may map to Great Year scale); Stoic *ekpyrosis* (cyclic cosmological destruction-renewal); Hesiodic Ages of Gold/Silver/Bronze/Iron (broader cyclic-cosmology tradition); Mesoamerican Long Count Great Cycle (5,125 years, approximately one-fifth of the Great Year); broader cyclic-cosmology tradition across cultures"
-framework_significance = "Foundational chronological framework for the corpus; approximately the duration of the Elohim project on Earth on the framework's reading; the master cycle within which the twelve Great Month identifications used across the corpus are organized"
-key_external_reference = "Santillana, Giorgio de, and Hertha von Dechend. *Hamlet's Mill: An Essay on Myth and the Frame of Time*. Gambit, 1969."
+type = "El ciclo precesional completo; un recorrido completo del equinoccio vernal por la eclíptica"
+duration_modern = "Aproximadamente 25.772 años (medición astronómica moderna, basada en la tasa precesional de ~50,29 segundos de arco/año)"
+duration_traditional = "Exactamente 25.920 años (cómputo de la tradición astrológica, 360° × 72 años/°)"
+component_units = "1 Gran Año = 12 Grandes Meses (cada uno ~2.160 años) = 360 Grandes Días (cada uno ~72 años) = recorrido completo de 360° de la eclíptica"
+plato_source = "*Timeo* 39d — el concepto de *teleios eniautos* («Año Perfecto»)"
+historical_milestones = "Platón (c. 360 a. e. c. — concepto original de *Año Perfecto*, aún no identificado con la precesión); Hiparco (c. 129 a. e. c. — descubrimiento de la precesión); Cicerón (c. 45 a. e. c. — tradición latina del *Magnus Annus*); Censorino (c. 238 e. c. — preservación de cálculos antiguos variantes); Ptolomeo (c. 150 e. c. — cifra de 36.000 años); tradición renacentista (identificación con el ciclo precesional); revival de los siglos XIX-XX en el pensamiento teosófico-esotérico; *El molino de Hamlet* de Santillana y von Dechend (1969) — compromiso académico con la preservación intercultural"
+cross_cultural_correspondences = "*Kalpa* / *Mahakalpa* hindúes (ciclos mucho más largos con subestructura que puede corresponder a la escala del Gran Año); *ekpyrosis* estoica (destrucción-renovación cosmológica cíclica); Edades hesiódicas de Oro/Plata/Bronce/Hierro (tradición más amplia de cosmología cíclica); Gran Ciclo de la Cuenta Larga mesoamericana (5.125 años, aproximadamente una quinta parte del Gran Año); tradición más amplia de cosmología cíclica a través de las culturas"
+framework_significance = "Marco cronológico fundacional para el corpus; aproximadamente la duración del proyecto Elohim en la Tierra según la lectura del marco; el ciclo maestro dentro del cual se organizan las doce identificaciones de Gran Mes utilizadas a lo largo del corpus"
+key_external_reference = "Santillana, Giorgio de, y Hertha von Dechend. *El molino de Hamlet: Ensayo sobre el mito y la estructura del tiempo*. Gambit, 1969."
 +++
 
-The **Great Year** is the period of one complete cycle of **axial precession** — the duration required for the Earth's rotational axis to trace out one full cone against the background of fixed stars, equivalent to one complete circuit of the vernal equinox point around the ecliptic. The Great Year is the foundational unit of long-period chronology on which the broader Wheel of Heaven temporal framework depends, and is the master cycle of which the corpus's twelve [Great Month](../great-month/) identifications (Age of Virgo through Age of Aquarius) are the twelfths.
+El **Gran Año** es el período de un ciclo completo de **precesión axial** — la duración requerida para que el eje de rotación de la Tierra trace un cono completo contra el fondo de las estrellas fijas, equivalente a un recorrido completo del punto equinoccial vernal por la eclíptica. El Gran Año es la unidad fundacional de la cronología de largo período sobre la que descansa el marco temporal más amplio de {% wiki(slug="wheel-of-heaven") %}Wheel of Heaven{% end %}, y es el ciclo maestro del cual las doce identificaciones de [Gran Mes](../great-month/) del corpus (Era de Virgo hasta Era de Acuario) son las doceavas partes.
 
-On the modern astronomical measurement, the Great Year is approximately **25,772 years** in duration, based on the contemporary precessional rate of approximately 50.29 arcseconds per year. On the **astrological-tradition reckoning**, the Great Year is exactly **25,920 years** — derived from the ancient observation of approximately one degree of westward shift of the equinoxes per 72 years, multiplied by the 360 degrees of the full ecliptic:
-
-$$
-\begin{equation*}
-360° \cdot 72 \tfrac{\text{years}}{°} = 25{,}920 \text{ years}
-\end{equation*}
-$$
-
-The traditional 25,920-year figure has substantial mathematical convenience that accounts for its prominence in pre-modern cosmological tradition: it factors as 2⁶ × 3⁴ × 5 = 64 × 405 = 60 × 432 = 360 × 72, with divisibility properties that allow clean subdivision into Great Months (2,160 years each, 12 per Great Year), Great Days (72 years each, 360 per Great Year), and other meaningful units. The difference between the modern astronomical and traditional reckonings (approximately 148 years across the full cycle) is small enough that the corpus uses both interchangeably depending on context, with the traditional figure favoured for its mathematical convenience and the modern figure used when contemporary astronomical precision is required.
-
-The Great Year is also known as the **Platonic Year** (after Plato's *Timaeus* 39d, which introduces the concept of the *teleios eniautos* or "Perfect Year"), the **Magnus Annus** (the Latin translation that became standard in the medieval and Renaissance tradition), or simply the **Precessional Year** or **Cosmic Year**. The concept has substantive history in Western philosophical and astronomical thought reaching back to Plato's *Timaeus* (c. 360 BCE) — though the explicit identification of Plato's Great Year with the precessional cycle is a post-Hipparchian development (after the discovery of precession around 129 BCE), since Plato himself, predating Hipparchus by approximately 230 years, could not have known the precessional phenomenon.
-
-The Wheel of Heaven framework reads the Great Year as foundational chronological infrastructure for the entire corpus. Approximately one complete Great Year corresponds, on the framework's reading, to the duration of the Elohim project on Earth — from the human synthesis approximately 25,000 years ago through the contemporary recovery and recognition period. The framework's broader interpretive work develops the Great Year as the master temporal framework within which the twelve Great Month identifications, the principal events of the prophetic record, and the broader cross-cultural mythological preservation of cosmic-cycle content are organized. The framework's reading of cross-cultural preservation of Great Year-scale concepts (the Hindu *Kalpa* and *Mahakalpa*, the Stoic *ekpyrosis*, the Platonic *Magnus Annus*, the broader cyclic-cosmology tradition analyzed by Santillana and von Dechend in *Hamlet's Mill*) is treated as substantial evidence for the pre-Hipparchian transmission of the precessional cosmic-cycle concept through the symbolic-mythological vocabulary the corpus engages.
-
-The astronomical phenomenon of precession itself is treated more fully in the dedicated [Precession](../precession/) entry; the twelfth-of-Great-Year unit (the Great Month or Astrological Age) is treated in the dedicated [Great Month](../great-month/) entry; the broader cross-cultural doctrine of cosmic ages is treated in the dedicated [World Age](../world-age/) entry. The present entry focuses specifically on the Great Year as the full precessional cycle, its historical conceptualisation, its cross-cultural preservation, and the framework's specific reading of its operational significance.
-
-## The mathematical and structural framework
-
-The Great Year is defined by reference to the astronomical phenomenon of precession (treated in the dedicated [Precession](../precession/) entry) and admits structured subdivision into smaller chronological units.
-
-### The 72-years-per-degree observation
-
-The foundational empirical observation underlying the traditional 25,920-year Great Year is that the equinoxes shift westward along the ecliptic at approximately **one degree per 72 years**. This rate is close to the modern astronomical value of approximately 71.59 years per degree (derived from the contemporary precessional rate of 50.29 arcseconds per year: 3,600 arcseconds per degree ÷ 50.29 arcseconds per year ≈ 71.59 years per degree). The traditional figure of 72 years per degree gives:
+Según la medición astronómica moderna, el Gran Año tiene una duración de aproximadamente **25.772 años**, basada en la tasa precesional contemporánea de aproximadamente 50,29 segundos de arco por año. Según el **cómputo de la tradición astrológica**, el Gran Año es exactamente de **25.920 años** — derivado de la antigua observación de aproximadamente un grado de desplazamiento hacia el oeste de los equinoccios cada 72 años, multiplicado por los 360 grados de la eclíptica completa:
 
 $$
 \begin{equation*}
-360° \cdot 72 \tfrac{\text{years}}{°} = 25{,}920 \text{ years}
+360° \cdot 72 \tfrac{\text{años}}{°} = 25{,}920 \text{ años}
 \end{equation*}
 $$
 
-The 72-year unit corresponds to one degree of precessional motion across the ecliptic. To put this in practical perspective, one degree of arc against the celestial sphere is approximately the width of a human thumb at arm's length — a useful field measurement that connects the cosmic-scale precessional motion to a directly observable human-scale reference. The 72-year period also corresponds approximately to the standard human lifespan (developed at greater length in the [Great Month](../great-month/) entry's treatment of the Great Day), producing the substantive structural correspondence: **one human lifetime ≈ one degree of precession ≈ one Great Day**.
+La cifra tradicional de 25.920 años tiene una sustancial comodidad matemática que da cuenta de su prominencia en la tradición cosmológica premoderna: se factoriza como 2⁶ × 3⁴ × 5 = 64 × 405 = 60 × 432 = 360 × 72, con propiedades de divisibilidad que permiten una subdivisión limpia en Grandes Meses (2.160 años cada uno, 12 por Gran Año), Grandes Días (72 años cada uno, 360 por Gran Año) y otras unidades significativas.{{ footnote(id="2") }} La diferencia entre el cómputo astronómico moderno y el tradicional (aproximadamente 148 años a lo largo del ciclo completo) es lo suficientemente pequeña como para que el corpus use ambos indistintamente según el contexto, con la cifra tradicional favorecida por su comodidad matemática y la cifra moderna empleada cuando se requiere precisión astronómica contemporánea.
 
-### The subdivisions of the Great Year
+El Gran Año también se conoce como **Año Platónico** (a partir de *Timeo* 39d de Platón, que introduce el concepto de *teleios eniautos* o «Año Perfecto»), **Magnus Annus** (la traducción latina que se convirtió en estándar en la tradición medieval y renacentista), o simplemente **Año Precesional** o **Año Cósmico**. El concepto tiene una historia sustantiva en el pensamiento filosófico y astronómico occidental que se remonta al *Timeo* de Platón (c. 360 a. e. c.) — aunque la identificación explícita del Gran Año platónico con el ciclo precesional es un desarrollo post-hiparquiano (tras el descubrimiento de la precesión hacia 129 a. e. c.), ya que el propio Platón, anterior a Hiparco por aproximadamente 230 años, no podía haber conocido el fenómeno precesional.
 
-The full Great Year of 25,920 years admits structured subdivision into smaller chronological units that mirror the structure of the ordinary year:
+El marco Wheel of Heaven lee el Gran Año como infraestructura cronológica fundacional de todo el corpus. Un Gran Año completo corresponde aproximadamente, según la lectura del marco, a la duración del proyecto Elohim en la Tierra — desde la síntesis humana hace unos 25.000 años hasta el período contemporáneo de recuperación y reconocimiento. El trabajo interpretativo más amplio del marco desarrolla el Gran Año como el marco temporal maestro dentro del cual se organizan las doce identificaciones de Gran Mes, los principales acontecimientos del registro profético y la preservación mitológica intercultural más amplia del contenido del ciclo cósmico. La lectura por el marco de la preservación intercultural de conceptos a escala del Gran Año (el *Kalpa* y el *Mahakalpa* hindúes, la *ekpyrosis* estoica, el *Magnus Annus* platónico, la tradición más amplia de cosmología cíclica analizada por Santillana y von Dechend en *El molino de Hamlet*){{ cite(id="hamlets-mill", text="[1]", title="Santillana & von Dechend, *El molino de Hamlet: Ensayo sobre el mito y la estructura del tiempo* (1969) — el compromiso académico fundacional con la preservación intercultural de contenido precesional") }} es tratada como evidencia sustancial de la transmisión pre-hiparquiana del concepto de ciclo cósmico precesional a través del vocabulario simbólico-mitológico con el que el corpus interactúa.
 
-- **The Great Month** (one-twelfth of the Great Year, ~2,160 years) — corresponding to one zodiacal sign (30° of ecliptic precession); developed at length in the [Great Month](../great-month/) entry
-- **The Great Day** (one-three-hundred-and-sixtieth of the Great Year, ~72 years) — corresponding to one degree of ecliptic precession; approximately one human lifespan
-- **The Great Hour** (one-eight-thousand-six-hundred-and-fortieth of the Great Year, ~3 years) — corresponding to ~2.5 arcminutes of ecliptic precession; less commonly used but available in the corpus's broader chronological framework
-- **The Great Minute** (~0.05 years or ~18 days) — rarely used; the unit becomes too small for practical chronological reference
+El fenómeno astronómico de la precesión en sí se trata más plenamente en la entrada dedicada a [Precesión](../precession/); la unidad de un doceavo del Gran Año (el Gran Mes o Era Astrológica) se trata en la entrada dedicada a [Gran Mes](../great-month/); la doctrina intercultural más amplia de las edades cósmicas se trata en la entrada dedicada a [Edad del Mundo](../world-age/). La presente entrada se centra específicamente en el Gran Año como ciclo precesional completo, su conceptualización histórica, su preservación intercultural y la lectura específica que hace el marco de su significación operativa.
 
-The structural proportions mirror the ordinary year (12 months of approximately 30 days, with each day of approximately 24 hours). This proportional similarity is not coincidental — the ancient cosmological systems that developed the Great Year framework deliberately structured the long-period cycle to mirror the familiar short-period cycle, producing the mnemonically useful "as above, so below" correspondence between cosmic and terrestrial timescales.
+## El marco matemático y estructural
 
-### The empirical question
+El Gran Año se define por referencia al fenómeno astronómico de la precesión (tratado en la entrada dedicada a [Precesión](../precession/)) y admite una subdivisión estructurada en unidades cronológicas más pequeñas.
 
-The 72-years-per-degree figure is reasonably close to the actual modern astronomical rate but somewhat fast (the actual rate gives 71.59 years per degree, producing a slightly shorter Great Year of approximately 25,772 years rather than 25,920). The traditional figure is preferred in the framework's broader work because:
+### La observación de los 72 años por grado
 
-- The convenient mathematical factorisation (2⁶ × 3⁴ × 5) allows clean subdivision into meaningful units
-- The cross-cultural preservation of the 25,920 figure across multiple pre-modern cosmological systems suggests substantive transmission of the specific value
-- The ±150-year difference between the traditional and modern figures is small enough that practical chronological work is largely unaffected by the choice
+La observación empírica fundacional que subyace al Gran Año tradicional de 25.920 años es que los equinoccios se desplazan hacia el oeste a lo largo de la eclíptica a aproximadamente **un grado cada 72 años**. Esta tasa se aproxima al valor astronómico moderno de aproximadamente 71,59 años por grado (derivado de la tasa precesional contemporánea de 50,29 segundos de arco por año: 3.600 segundos de arco por grado ÷ 50,29 segundos de arco por año ≈ 71,59 años por grado). La cifra tradicional de 72 años por grado da:
 
-The framework treats the choice between the two reckonings as one of the principal open methodological questions, with the corpus's broader work continuing to use both depending on context. The detailed treatment is in the [Precession](../precession/) and [Great Month](../great-month/) entries.
+$$
+\begin{equation*}
+360° \cdot 72 \tfrac{\text{años}}{°} = 25{,}920 \text{ años}
+\end{equation*}
+$$
 
-## The Platonic Year / Magnus Annus tradition
+La unidad de 72 años corresponde a un grado de movimiento precesional a través de la eclíptica. Para situar esto en perspectiva práctica, un grado de arco contra la esfera celeste es aproximadamente el ancho de un pulgar humano a la distancia del brazo extendido — una útil medida de campo que conecta el movimiento precesional a escala cósmica con una referencia humana directamente observable. El período de 72 años también corresponde aproximadamente a la vida humana estándar (desarrollado con mayor extensión en el tratamiento del Gran Día en la entrada de [Gran Mes](../great-month/)), produciendo la correspondencia estructural sustantiva: **una vida humana ≈ un grado de precesión ≈ un Gran Día**.
 
-The Greek philosophical tradition includes substantial engagement with the concept of a cosmic Great Year predating Hipparchus's discovery of precession by approximately two centuries. The Platonic-tradition Magnus Annus is the principal pre-precessional intellectual antecedent of the framework's Great Year concept.
+### Las subdivisiones del Gran Año
 
-### Plato's Perfect Year
+El Gran Año completo de 25.920 años admite una subdivisión estructurada en unidades cronológicas más pequeñas que reflejan la estructura del año ordinario:
 
-The foundational source for the Western philosophical Great Year tradition is **Plato**'s *Timaeus* (c. 360 BCE), specifically Timaeus 39d, which introduces the concept of the **Perfect Year** (Greek *teleios eniautos*; Latin *Annus Perfectus* or *Magnus Annus*):
+- **El Gran Mes** (una doceava parte del Gran Año, ~2.160 años) — correspondiente a un signo zodiacal (30° de precesión eclíptica); desarrollado extensamente en la entrada de [Gran Mes](../great-month/)
+- **El Gran Día** (una trescientas sesentava parte del Gran Año, ~72 años) — correspondiente a un grado de precesión eclíptica; aproximadamente una vida humana
+- **La Gran Hora** (una ocho mil seiscientas cuarentava parte del Gran Año, ~3 años) — correspondiente a ~2,5 minutos de arco de precesión eclíptica; menos comúnmente utilizada pero disponible en el marco cronológico más amplio del corpus
+- **El Gran Minuto** (~0,05 años o ~18 días) — raramente utilizado; la unidad se vuelve demasiado pequeña para una referencia cronológica práctica
 
-> ...the perfect number of time brings to completion the perfect year at that moment when the relative speeds of all eight periods have been completed together and, measured by the circle of the Same that moves uniformly, have achieved their consummation.
+Las proporciones estructurales reflejan el año ordinario (12 meses de aproximadamente 30 días, con cada día de aproximadamente 24 horas). Esta similitud proporcional no es casual — los sistemas cosmológicos antiguos que desarrollaron el marco del Gran Año estructuraron deliberadamente el ciclo de largo período para reflejar el ciclo familiar de corto período, produciendo la correspondencia mnemotécnicamente útil «como arriba, así abajo» entre escalas temporales cósmicas y terrestres.
+
+### La cuestión empírica
+
+La cifra de 72 años por grado es razonablemente cercana a la tasa astronómica moderna real, pero algo rápida (la tasa real da 71,59 años por grado, produciendo un Gran Año ligeramente más corto de aproximadamente 25.772 años en lugar de 25.920). La cifra tradicional es preferida en el trabajo más amplio del marco porque:
+
+- La cómoda factorización matemática (2⁶ × 3⁴ × 5) permite una subdivisión limpia en unidades significativas
+- La preservación intercultural de la cifra 25.920 a través de múltiples sistemas cosmológicos premodernos sugiere la transmisión sustantiva del valor específico
+- La diferencia de ±150 años entre las cifras tradicional y moderna es lo suficientemente pequeña como para que el trabajo cronológico práctico no se vea sustancialmente afectado por la elección
+
+El marco trata la elección entre los dos cómputos como una de las principales cuestiones metodológicas abiertas, con el trabajo más amplio del corpus continuando empleando ambos según el contexto. El tratamiento detallado se encuentra en las entradas de [Precesión](../precession/) y [Gran Mes](../great-month/).
+
+## La tradición del Año Platónico / Magnus Annus
+
+La tradición filosófica griega incluye un compromiso sustancial con el concepto de un Gran Año cósmico que precede al descubrimiento de la precesión por Hiparco en aproximadamente dos siglos. El Magnus Annus de la tradición platónica es el principal antecedente intelectual pre-precesional del concepto de Gran Año del marco.
+
+### El Año Perfecto de Platón
+
+La fuente fundacional para la tradición del Gran Año filosófico occidental es el *Timeo* (c. 360 a. e. c.) de **Platón**, específicamente *Timeo* 39d, que introduce el concepto del **Año Perfecto** (griego *teleios eniautos*; latín *Annus Perfectus* o *Magnus Annus*):
+
+> ...el número perfecto del tiempo cumple el año perfecto en aquel momento en que las velocidades relativas de los ocho períodos se han completado conjuntamente y, medidas por el círculo de lo Mismo que se mueve uniformemente, han alcanzado su consumación.
 >
-> — Plato, *Timaeus* 39d (translation Cornford)
+> — Platón, *Timeo* 39d (traducción Cornford)
 
-Plato's Perfect Year is defined as the period required for **all the celestial bodies** (the Sun, Moon, and the five visible planets — Mercury, Venus, Mars, Jupiter, Saturn) to return simultaneously to their initial configurations. This is a planetary-conjunction cycle rather than a precessional cycle; Plato himself did not know of precession (it was not discovered until Hipparchus c. 129 BCE) and did not specify the duration of the Perfect Year in the *Timaeus*. The concept was substantive in Plato's broader cosmology because the *Timaeus* treats time itself as the structured motion of the celestial bodies, with the Perfect Year as the master period that organizes all the shorter cycles.
+El Año Perfecto de Platón se define como el período requerido para que **todos los cuerpos celestes** (el Sol, la Luna y los cinco planetas visibles — Mercurio, Venus, Marte, Júpiter, Saturno) regresen simultáneamente a sus configuraciones iniciales. Este es un ciclo de conjunción planetaria en lugar de un ciclo precesional; el propio Platón no conocía la precesión (no fue descubierta hasta Hiparco c. 129 a. e. c.) y no especificó la duración del Año Perfecto en el *Timeo*.{{ footnote(id="1") }} El concepto era sustantivo en la cosmología más amplia de Platón porque el *Timeo* trata el tiempo mismo como el movimiento estructurado de los cuerpos celestes, con el Año Perfecto como el período maestro que organiza todos los ciclos más cortos.
 
-The framework's reading of Plato's Perfect Year is that the concept preserves substantive content about a long-period cosmic cycle — content that was subsequently identified with the precessional Great Year once that phenomenon was discovered. The post-Hipparchian conflation of Plato's planetary-conjunction Perfect Year with the precessional cycle was, on the framework's reading, substantively *correct* in the sense that the underlying intuition (a long cosmic cycle structuring history into ages) was applied to the actual long-period phenomenon (precession) once that phenomenon was identified.
+La lectura por el marco del Año Perfecto de Platón es que el concepto preserva contenido sustantivo sobre un ciclo cósmico de largo período — contenido que fue posteriormente identificado con el Gran Año precesional una vez descubierto ese fenómeno. La conflación post-hiparquiana del Año Perfecto de conjunción planetaria de Platón con el ciclo precesional fue, según la lectura del marco, sustantivamente *correcta* en el sentido de que la intuición subyacente (un ciclo cósmico largo que estructura la historia en eras) se aplicó al fenómeno real de largo período (la precesión) una vez que ese fenómeno fue identificado.
 
-### The post-Platonic development
+### El desarrollo post-platónico
 
-The post-Platonic Greek philosophical tradition developed the Perfect Year concept across multiple schools:
+La tradición filosófica griega post-platónica desarrolló el concepto del Año Perfecto a través de múltiples escuelas:
 
-- **Heraclitus** (c. 540–480 BCE, actually pre-Plato) was given a Great Year of **10,800 years** by **Censorinus** (3rd century CE, *De Die Natali*). The 10,800-year figure may relate to the Heraclitean cyclic cosmology of the *ekpyrosis* (cosmic conflagration) tradition that the Stoics subsequently developed.
-- **Aristarchus of Samos** (c. 310–230 BCE), the Greek astronomer famous for proposing the heliocentric solar system substantially before Copernicus, was given a Great Year of **2,484 years** by Censorinus.
-- The **Stoic** philosophical tradition (particularly Chrysippus) developed the *ekpyrosis* doctrine: the cosmos undergoes periodic destruction by fire and renewal, with each cycle producing a recurrence of all previous events. The Stoic cosmic cycle was identified with the Great Year, though the specific duration was variously given.
-- **Diogenes of Babylonia** (c. 230–150 BCE, the Stoic philosopher) was given a Great Year of "360 times Heraclitus's Great Year" by Aetios, producing 360 × 18,000 = **6,480,000 years** (with Aetios giving Heraclitus's figure as 18,000 rather than the 10,800 from Censorinus — the variant ancient figures themselves are not consistent across sources).
-- **Cicero** in *De Natura Deorum* (c. 45 BCE) and *Hortensius* (now lost) substantially developed the Latin Magnus Annus tradition, following Plato in defining the Great Year as the cycle of planetary conjunction return.
+- **Heráclito** (c. 540–480 a. e. c., en realidad anterior a Platón) recibió un Gran Año de **10.800 años** por parte de **Censorino** (siglo III e. c., *De Die Natali*). La cifra de 10.800 años puede relacionarse con la cosmología cíclica heraclítea de la tradición *ekpyrosis* (conflagración cósmica) que los estoicos desarrollaron posteriormente.
+- **Aristarco de Samos** (c. 310–230 a. e. c.), el astrónomo griego famoso por proponer el sistema solar heliocéntrico sustancialmente antes que Copérnico, recibió un Gran Año de **2.484 años** por Censorino.
+- La tradición filosófica **estoica** (en particular Crisipo) desarrolló la doctrina de la *ekpyrosis*: el cosmos sufre una destrucción y renovación periódica por el fuego, produciendo cada ciclo una recurrencia de todos los acontecimientos anteriores. El ciclo cósmico estoico se identificó con el Gran Año, aunque la duración específica se dio de manera variable.
+- **Diógenes de Babilonia** (c. 230–150 a. e. c., el filósofo estoico) recibió un Gran Año de «360 veces el Gran Año de Heráclito» por Aecio, produciendo 360 × 18.000 = **6.480.000 años** (con Aecio dando la cifra de Heráclito como 18.000 en lugar de los 10.800 de Censorino — las cifras antiguas variantes mismas no son consistentes entre las fuentes).
+- **Cicerón** en *De Natura Deorum* (c. 45 a. e. c.) y *Hortensio* (ahora perdido) desarrolló sustancialmente la tradición latina del Magnus Annus, siguiendo a Platón al definir el Gran Año como el ciclo del retorno de la conjunción planetaria.
 
-### The post-Hipparchian conflation with precession
+### La conflación post-hiparquiana con la precesión
 
-After Hipparchus's discovery of precession around 129 BCE, the Greek and subsequent traditions began to identify the Platonic Perfect Year with the precessional cycle. The principal figures:
+Tras el descubrimiento de la precesión por Hiparco hacia 129 a. e. c., las tradiciones griega y subsiguientes comenzaron a identificar el Año Perfecto platónico con el ciclo precesional. Las figuras principales:
 
-- **Hipparchus** himself measured precession at approximately 1°/century (36 arcseconds/year), which would give a Great Year of approximately 36,000 years (close to but slower than the actual rate)
-- **Claudius Ptolemy** (c. 100–170 CE) in the *Almagest* used Hipparchus's precessional rate of 1°/century, giving a Great Year of **36,000 years**. The Ptolemaic figure became the dominant Western reckoning through the medieval period and into the Renaissance — though it is substantially too long, the actual rate being approximately 50 arcseconds/year giving the modern 25,772-year figure. Ptolemy's overestimate has been the subject of substantial subsequent scholarly debate (some authors arguing that Ptolemy adjusted the value to align with theological-cosmological commitments rather than astronomical observation).
-- The **Renaissance tradition** substantially adopted the post-Hipparchian identification of Plato's Magnus Annus with the precessional cycle, with the figure of 25,920 years (derived from the 72-years-per-degree rate) gradually supplanting Ptolemy's 36,000-year figure as the standard.
-- The **19th-century theosophical and esoteric traditions** (particularly H. P. Blavatsky's *The Secret Doctrine*, 1888) substantially revived and developed the Magnus Annus tradition, often combining it with Hindu *yuga* arithmetic and other cross-cultural cosmic-cycle traditions. The theosophical revival had substantial influence on the 20th-century esoteric and "New Age" engagement with the Age of Aquarius and broader Great Year content.
+- El propio **Hiparco** midió la precesión en aproximadamente 1°/siglo (36 segundos de arco/año), lo que daría un Gran Año de aproximadamente 36.000 años (cercano pero más lento que la tasa real)
+- **Claudio Ptolomeo** (c. 100–170 e. c.) en el *Almagesto* utilizó la tasa precesional de Hiparco de 1°/siglo, dando un Gran Año de **36.000 años**. La cifra ptolemaica se convirtió en el cómputo occidental dominante a través del período medieval y hasta el Renacimiento — aunque es sustancialmente demasiado larga, siendo la tasa real de aproximadamente 50 segundos de arco/año, lo que da la cifra moderna de 25.772 años. La sobreestimación de Ptolomeo ha sido objeto de un sustancial debate académico posterior (algunos autores argumentan que Ptolomeo ajustó el valor para alinearlo con compromisos teológico-cosmológicos en lugar de con la observación astronómica).
+- La **tradición renacentista** adoptó sustancialmente la identificación post-hiparquiana del Magnus Annus de Platón con el ciclo precesional, con la cifra de 25.920 años (derivada de la tasa de 72 años por grado) suplantando gradualmente la cifra de 36.000 años de Ptolomeo como el estándar.
+- Las **tradiciones teosóficas y esotéricas del siglo XIX** (en particular *La Doctrina Secreta* de H. P. Blavatsky, 1888) revivieron y desarrollaron sustancialmente la tradición del Magnus Annus, combinándola a menudo con la aritmética hindú del *yuga* y otras tradiciones interculturales del ciclo cósmico. El renacimiento teosófico tuvo una influencia sustancial en el compromiso esotérico y «Nueva Era» del siglo XX con la Era de Acuario y el contenido más amplio del Gran Año.
 
-The framework's adopted reading: the Platonic-tradition Magnus Annus and the post-Hipparchian precessional Great Year are substantively continuous, despite the original conceptual difference between planetary-conjunction and precessional cycles. The cross-cultural intuition of a long cosmic cycle structuring time was preserved in the Platonic tradition; the post-Hipparchian identification with precession completed the conceptual content that the framework reads as preserving substantive astronomical knowledge.
+La lectura adoptada por el marco: el Magnus Annus de la tradición platónica y el Gran Año precesional post-hiparquiano son sustantivamente continuos, a pesar de la diferencia conceptual original entre los ciclos de conjunción planetaria y los ciclos precesionales. La intuición intercultural de un ciclo cósmico largo que estructura el tiempo se preservó en la tradición platónica; la identificación post-hiparquiana con la precesión completó el contenido conceptual que el marco lee como preservando un conocimiento astronómico sustantivo.
 
-## Cross-cultural preservation of Great Year-scale cycles
+## Preservación intercultural de ciclos a escala del Gran Año
 
-The Great Year concept — a master cosmic cycle of approximately 25,000-26,000 years (or longer cycles with the Great Year as a structural substructure) — appears with substantial frequency across pre-modern cosmological systems. The cross-cultural pattern is one of the principal substantive supports for the framework's broader reading of pre-Hipparchian transmission of precessional content.
+El concepto del Gran Año — un ciclo cósmico maestro de aproximadamente 25.000–26.000 años (o ciclos más largos con el Gran Año como subestructura) — aparece con sustancial frecuencia a lo largo de los sistemas cosmológicos premodernos. El patrón intercultural es uno de los principales soportes sustantivos para la lectura más amplia del marco sobre la transmisión pre-hiparquiana de contenido precesional.
 
-### The Hindu *kalpa* and *mahakalpa* tradition
+### La tradición hindú del *kalpa* y el *mahakalpa*
 
-The Hindu cosmological tradition includes cycles of substantially longer duration than the Great Year, with structural relationships that the framework reads as connecting to the Great Year scale:
+La tradición cosmológica hindú incluye ciclos de duración sustancialmente más larga que el Gran Año, con relaciones estructurales que el marco lee como conectadas a la escala del Gran Año:
 
-- The **mahayuga** (composed of the four yugas: Satya, Treta, Dvapara, Kali) totals **4,320,000 years** — approximately **167 Great Years** (4,320,000 / 25,920 ≈ 166.67)
-- The **manvantara** (composed of 71 mahayugas plus transitional periods) totals approximately **306,720,000 years**
-- The **kalpa** (composed of 14 manvantaras plus transitional periods) totals **4,320,000,000 years** — the "day of Brahma," equivalent to approximately **166,667 Great Years**
-- The **mahakalpa** (day plus night of Brahma) totals **8,640,000,000 years**
+- El **mahayuga** (compuesto por los cuatro yugas: Satya, Treta, Dvapara, Kali) totaliza **4.320.000 años** — aproximadamente **167 Grandes Años** (4.320.000 / 25.920 ≈ 166,67)
+- El **manvantara** (compuesto por 71 mahayugas más períodos de transición) totaliza aproximadamente **306.720.000 años**
+- El **kalpa** (compuesto por 14 manvantaras más períodos de transición) totaliza **4.320.000.000 años** — el «día de Brahma», equivalente a aproximadamente **166.667 Grandes Años**
+- El **mahakalpa** (día más noche de Brahma) totaliza **8.640.000.000 años**
 
-The substantial numerical correspondences between the Hindu yuga arithmetic and the precessional Great Year — particularly the 432-related numbers (432,000, 4,320,000, 4,320,000,000) and their relationships to 25,920 — are developed at greater length in the [Great Month](../great-month/) entry. The framework reads the Hindu cosmological tradition as preserving substantive precessional content within its broader cyclic-cosmological framework, even though the Puranic sources themselves do not explicitly identify the connection to precession.
+Las sustanciales correspondencias numéricas entre la aritmética hindú del yuga y el Gran Año precesional — en particular los números relacionados con 432 (432.000, 4.320.000, 4.320.000.000) y sus relaciones con 25.920 — se desarrollan con mayor extensión en la entrada de [Gran Mes](../great-month/). El marco lee la tradición cosmológica hindú como preservando contenido precesional sustantivo dentro de su marco cosmológico cíclico más amplio, aunque las propias fuentes puránicas no identifiquen explícitamente la conexión con la precesión.{{ footnote(id="4") }}
 
-A separate but related tradition associated with **Sri Yukteshwar** (1855–1936) in his *The Holy Science* (1894) proposes a 24,000-year *yuga* cycle (substantially shorter than the standard Puranic figure) explicitly correlated with the precessional cycle. The Yukteshwar tradition treats the standard 4.32-million-year yuga figures as misinterpretations of an underlying 24,000-year cycle. The corpus's adopted position is open on whether the Yukteshwar reading preserves substantive earlier content or is a 19th-century reinterpretation, but the substantive correspondence between 24,000 years and the actual Great Year is striking.
+Una tradición separada pero relacionada asociada con **Sri Yukteshwar** (1855–1936) en su *La Ciencia Sagrada* (1894) propone un ciclo *yuga* de 24.000 años (sustancialmente más corto que la cifra puránica estándar) explícitamente correlacionado con el ciclo precesional. La tradición de Yukteshwar trata las cifras estándar del yuga de 4,32 millones de años como malinterpretaciones de un ciclo subyacente de 24.000 años. La posición adoptada por el corpus está abierta sobre si la lectura de Yukteshwar preserva contenido sustantivo anterior o es una reinterpretación del siglo XIX, pero la correspondencia sustantiva entre 24.000 años y el Gran Año real es llamativa.
 
-### The Stoic *ekpyrosis* and eternal recurrence
+### La *ekpyrosis* estoica y el eterno retorno
 
-The Stoic philosophical tradition's doctrine of the *ekpyrosis* — the periodic cosmic conflagration that destroys and renews the cosmos — corresponds substantively to a Great Year-scale cosmic cycle. The Stoic *ekpyrosis* doctrine includes substantive engagement with the question of **eternal recurrence**: each cycle of the cosmos reproduces all previous events identically, so that human history repeats itself across cosmic cycles. The Stoic doctrine was substantially developed by Chrysippus (c. 280–207 BCE) and subsequently by Roman Stoics including Cicero (in his lost *Hortensius*) and Marcus Aurelius. The doctrine influenced subsequent Western philosophical engagement with cyclic time, most notably **Friedrich Nietzsche**'s 19th-century revival of eternal recurrence (*Die Wiederkunft des Gleichen*, 1881–1888).
+La doctrina de la *ekpyrosis* de la tradición filosófica estoica — la conflagración cósmica periódica que destruye y renueva el cosmos — corresponde sustantivamente a un ciclo cósmico a escala del Gran Año. La doctrina estoica de la *ekpyrosis* incluye un compromiso sustancial con la cuestión del **eterno retorno**: cada ciclo del cosmos reproduce todos los acontecimientos anteriores de manera idéntica, de modo que la historia humana se repite a través de los ciclos cósmicos. La doctrina estoica fue desarrollada sustancialmente por Crisipo (c. 280–207 a. e. c.) y posteriormente por estoicos romanos incluyendo a Cicerón (en su *Hortensio* perdido) y Marco Aurelio. La doctrina influyó en el compromiso filosófico occidental posterior con el tiempo cíclico, sobre todo en el renacimiento del eterno retorno por parte de **Friedrich Nietzsche** en el siglo XIX (*Die Wiederkunft des Gleichen*, 1881–1888).
 
-The framework's reading of the Stoic *ekpyrosis* connects to the broader corpus engagement with cyclic-cosmological time (treated in the [World Age](../world-age/) entry).
+La lectura por el marco de la *ekpyrosis* estoica conecta con el compromiso más amplio del corpus con el tiempo cosmológico cíclico (tratado en la entrada de [Edad del Mundo](../world-age/)).
 
-### The Hesiodic Ages tradition
+### La tradición de las Edades hesiódicas
 
-The Greek poet **Hesiod** in his *Works and Days* (c. 700 BCE) developed the doctrine of the **Four (or Five) Ages of Man**: the Golden Age, Silver Age, Bronze Age, Heroic Age (sometimes included as a fifth interpolation), and Iron Age (the current age). The Hesiodic tradition treats the Ages as a sequence of declining quality, with the current Iron Age representing the most degraded condition of humanity. The doctrine corresponds substantively to the Hindu yuga tradition (which also features a four-fold sequence of declining ages) and to the broader cross-cultural "ages of decline" pattern.
+El poeta griego **Hesíodo** en su *Los trabajos y los días* (c. 700 a. e. c.){{ cite(id="theogony-and-works-and-days", text="[2]", title="Hesíodo, *Los trabajos y los días* — la tradición griega de las Cuatro/Cinco Edades (Oro, Plata, Bronce, Heroica, Hierro)") }} desarrolló la doctrina de las **Cuatro (o Cinco) Edades del Hombre**: la {% wiki(slug="golden-age") %}Edad de Oro{% end %}, la Edad de Plata, la Edad de Bronce, la Edad Heroica (a veces incluida como quinta interpolación) y la Edad de Hierro (la era actual). La tradición hesiódica trata las Edades como una secuencia de calidad decreciente, con la actual Edad de Hierro representando la condición más degradada de la humanidad. La doctrina corresponde sustantivamente a la tradición hindú del yuga (que también presenta una secuencia cuádruple de edades en declive) y al patrón intercultural más amplio de «edades de declive».
 
-The Hesiodic Ages are not explicitly precessional — Hesiod predates Hipparchus by approximately five centuries and could not have known the precessional cycle — but the framework reads the Hesiodic tradition as preserving content related to the broader cosmic-cycle pattern that the precessional Great Year articulates. The structural correspondence between the four Hesiodic Ages and four-fold subdivisions of the Great Year (each Age corresponding to three Great Months, or 6,480 years on the traditional reckoning) is one possible reading; the corpus's adopted position is open on the specific relationship.
+Las Edades hesiódicas no son explícitamente precesionales — Hesíodo precede a Hiparco por aproximadamente cinco siglos y no podía haber conocido el ciclo precesional — pero el marco lee la tradición hesiódica como preservando contenido relacionado con el patrón de ciclo cósmico más amplio que articula el Gran Año precesional. La correspondencia estructural entre las cuatro Edades hesiódicas y las subdivisiones cuádruples del Gran Año (cada Edad correspondiendo a tres Grandes Meses, o 6.480 años según el cómputo tradicional) es una lectura posible; la posición adoptada por el corpus está abierta sobre la relación específica.{{ footnote(id="3") }}
 
-### The Mesoamerican Long Count
+### La Cuenta Larga mesoamericana
 
-The Mesoamerican Long Count calendar's **13-B'ak'tun Great Cycle** of approximately **5,125 years** (1,872,000 days) corresponds to approximately **one-fifth of the precessional Great Year** (25,920 / 5 = 5,184 years; 25,772 / 5 = 5,154 years — both close to the Great Cycle figure). The numerical correspondence has been the subject of substantial 20th-21st century interpretive engagement, particularly in connection with the December 21, 2012 completion of the most recent Great Cycle.
+El **Gran Ciclo de 13 B'ak'tunes** del calendario mesoamericano de Cuenta Larga, de aproximadamente **5.125 años** (1.872.000 días), corresponde aproximadamente a **una quinta parte del Gran Año precesional** (25.920 / 5 = 5.184 años; 25.772 / 5 = 5.154 años — ambos cercanos a la cifra del Gran Ciclo). La correspondencia numérica ha sido objeto de un sustancial compromiso interpretativo de los siglos XX-XXI, en particular en relación con la finalización el 21 de diciembre de 2012 del Gran Ciclo más reciente.
 
-The framework's adopted position on the Mesoamerican Long Count is that the substantive numerical correspondence with the precessional Great Year is consistent with the broader cross-cultural preservation pattern, but that the specific question of whether the Mesoamerican tradition explicitly encoded precessional content is treated as open. The dedicated [Mesoamerican astronomy](../mesoamerican-astronomy/) entry would develop this question further.
+La posición adoptada por el marco sobre la Cuenta Larga mesoamericana es que la correspondencia numérica sustantiva con el Gran Año precesional es consistente con el patrón más amplio de preservación intercultural, pero que la cuestión específica de si la tradición mesoamericana codificó explícitamente contenido precesional se trata como abierta.{{ footnote(id="5") }} La entrada dedicada a [Astronomía mesoamericana](../mesoamerican-astronomy/) desarrollaría esta cuestión más a fondo.
 
-### The broader cross-cultural pattern
+### El patrón intercultural más amplio
 
-The combined evidence from the Hindu, Greek, Mesoamerican, and other traditions supports the framework's reading that the precessional Great Year cycle was preserved across multiple pre-modern cosmological systems. The specific numerical signatures (25,920, 2,160, 432, 72, 360) appear with substantial frequency in cosmological-mythological contexts that predate explicit astronomical identification of precession. The framework reads this pattern as evidence of cross-cultural transmission of precessional astronomical content through symbolic-numerological vocabulary — the broader thesis developed in **Giorgio de Santillana and Hertha von Dechend's *Hamlet's Mill***, treated in the next section.
+La evidencia combinada de las tradiciones hindú, griega, mesoamericana y otras apoya la lectura del marco de que el ciclo del Gran Año precesional se preservó a través de múltiples sistemas cosmológicos premodernos. Las firmas numéricas específicas (25.920, 2.160, 432, 72, 360) aparecen con sustancial frecuencia en contextos cosmológico-mitológicos que preceden a la identificación astronómica explícita de la precesión. El marco lee este patrón como evidencia de la transmisión intercultural de contenido astronómico precesional a través del vocabulario simbólico-numerológico — la tesis más amplia desarrollada en ***El molino de Hamlet* de Giorgio de Santillana y Hertha von Dechend**, tratada en la sección siguiente.
 
-## *Hamlet's Mill* and the precessional mythology thesis
+## *El molino de Hamlet* y la tesis de la mitología precesional
 
-The most substantive single scholarly engagement with the cross-cultural preservation of the precessional Great Year is **Giorgio de Santillana and Hertha von Dechend's *Hamlet's Mill: An Essay on Myth and the Frame of Time*** (Gambit, 1969). The book — written by **Santillana** (1902–1974, professor of history of science at MIT) and **von Dechend** (1915–2001, professor of history of science at Goethe University Frankfurt) — argues that pre-Hipparchian global mythology systematically encodes precessional astronomical content in mythological-symbolic form. The book's full subtitle articulates the project: *An Essay Investigating the Origins of Human Knowledge and Its Transmission Through Myth*.
+El compromiso académico individual más sustancial con la preservación intercultural del Gran Año precesional es ***El molino de Hamlet: Ensayo sobre el mito y la estructura del tiempo*** de **Giorgio de Santillana y Hertha von Dechend** (Gambit, 1969). El libro — escrito por **Santillana** (1902–1974, profesor de historia de la ciencia en el MIT) y **von Dechend** (1915–2001, profesora de historia de la ciencia en la Universidad Goethe de Fráncfort) — argumenta que la mitología global pre-hiparquiana codifica sistemáticamente contenido astronómico precesional en forma mitológico-simbólica. El subtítulo completo del libro articula el proyecto: *Ensayo sobre los orígenes del conocimiento humano y su transmisión a través del mito*.
 
-### The central thesis
+### La tesis central
 
-The central thesis of *Hamlet's Mill* can be articulated in several connected claims:
+La tesis central de *El molino de Hamlet* puede articularse en varias afirmaciones conectadas:
 
-- **Precession was discovered substantially before Hipparchus**, by Neolithic or earlier astronomers, possibly as early as 4,000–6,000 BCE
-- The knowledge of precession was transmitted across cultures and millennia through **mythological-symbolic encoding** rather than direct astronomical-textual transmission
-- The principal mythological motifs of the cross-cultural global tradition systematically preserve precessional astronomical content
-- The transmission of precessional content connects cultures separated by substantial geographical and temporal distance through common mythological vocabulary
+- **La precesión fue descubierta sustancialmente antes que por Hiparco**, por astrónomos del Neolítico o anteriores, posiblemente ya en el 4.000–6.000 a. e. c.
+- El conocimiento de la precesión se transmitió a través de las culturas y los milenios mediante **codificación mitológico-simbólica** en lugar de transmisión astronómico-textual directa
+- Los principales motivos mitológicos de la tradición global intercultural preservan sistemáticamente contenido astronómico precesional
+- La transmisión del contenido precesional conecta culturas separadas por una sustancial distancia geográfica y temporal a través de un vocabulario mitológico común
 
-The book is organised across approximately 500 pages of analysis covering Mesopotamian, Egyptian, Vedic, Iranian, Norse, Finnish, Polynesian, Mesoamerican, and other cross-cultural mythological traditions. The breadth of the engagement is one of the book's distinctive features — no single 20th-century scholar commanded all of these fields at the level of depth the project requires, and the collaboration between Santillana's broad humanistic scholarship and von Dechend's technical archaeoastronomy and Babylonian astronomy made the synthesis possible.
+El libro está organizado a lo largo de aproximadamente 500 páginas de análisis que abarcan las tradiciones mitológicas mesopotámica, egipcia, védica, irania, nórdica, finlandesa, polinesia, mesoamericana y otras tradiciones interculturales. La amplitud del compromiso es una de las características distintivas del libro — ningún académico individual del siglo XX dominaba todos estos campos al nivel de profundidad que el proyecto requiere, y la colaboración entre la amplia erudición humanística de Santillana y la arqueoastronomía técnica y la astronomía babilónica de von Dechend hizo posible la síntesis.
 
-### The principal mythological motifs
+### Los principales motivos mitológicos
 
-Santillana and von Dechend identify several principal mythological motifs that they read as preserving precessional content:
+Santillana y von Dechend identifican varios motivos mitológicos principales que ellos leen como preservando contenido precesional:
 
-#### The cosmic mill (Hamlet's Mill itself)
+#### El molino cósmico (el propio Molino de Hamlet)
 
-The book's title comes from the Norse-Finnish mythological complex of the **cosmic mill** — the great mill (the Finnish **Sampo**, the Icelandic **Grotti**, the Hamlet-figure Amlethus's mill) that grinds out the destiny of the world. The mill is broken at a certain cosmic moment, producing a catastrophic disruption of the cosmic order. The framework's reading: the cosmic mill represents the precessional motion itself (the slow circular grinding of the celestial pole around the celestial sphere), and the "breaking" of the mill represents the precessional shift from one Age to the next, with the catastrophic implications attributed to such transitions in the broader cyclic-cosmology tradition.
+El título del libro proviene del complejo mitológico nórdico-finlandés del **molino cósmico** — el gran molino (el **Sampo** finlandés, el **Grotti** islandés, el molino de la figura de Hamlet Amlethus) que muele el destino del mundo. El molino se rompe en cierto momento cósmico, produciendo una catastrófica disrupción del orden cósmico. La lectura del marco: el molino cósmico representa el propio movimiento precesional (la lenta molienda circular del polo celeste alrededor de la esfera celeste), y la «ruptura» del molino representa el cambio precesional de una Era a la siguiente, con las implicaciones catastróficas atribuidas a tales transiciones en la tradición de cosmología cíclica más amplia.
 
 #### Hamlet / Amlethus
 
-The mythological figure of **Hamlet** (Saxo Grammaticus's *Amlethus*, the Old Norse *Amloði*, ultimately related to the broader Indo-European *Aml-* root) is read by Santillana and von Dechend as preserving content about the precessional cycle and the cosmic transitions. The Hamlet-figure is a recurring archetype across multiple cultures (the Finnish Kullervo, the Iranian Kai Khusrau, the various heroic figures who deal with cosmic disruption). The Shakespeare *Hamlet* (c. 1600) is read as a late literary recovery of the broader Indo-European Hamlet-myth complex.
+La figura mitológica de **Hamlet** (el *Amlethus* de Saxo Grammaticus, el nórdico antiguo *Amloði*, en último término relacionado con la raíz indoeuropea *Aml-* más amplia) es leída por Santillana y von Dechend como preservando contenido sobre el ciclo precesional y las transiciones cósmicas. La figura de Hamlet es un arquetipo recurrente a lo largo de múltiples culturas (el Kullervo finlandés, el Kai Khusrau iraní, las diversas figuras heroicas que se enfrentan a la disrupción cósmica). El *Hamlet* de Shakespeare (c. 1600) es leído como una tardía recuperación literaria del complejo mítico indoeuropeo de Hamlet más amplio.
 
-#### Kullervo and the Sampo
+#### Kullervo y el Sampo
 
-The **Finnish** mythological complex preserved in the *Kalevala* (compiled by Elias Lönnrot 1835–1849 from earlier Karelian oral tradition) includes substantial material that Santillana and von Dechend read as preserving precessional content. The forging of the **Sampo** (a magical mill or device of cosmic power, forged by the smith Ilmarinen), its theft by the witch Louhi, and its eventual breaking at sea is read as preserving content about cosmic-cycle transitions. The Kullervo cycle within the *Kalevala* is read as a related Indo-European heroic-cycle narrative.
+El complejo mitológico **finlandés** preservado en el *Kalevala* (compilado por Elias Lönnrot 1835–1849 a partir de tradición oral careliana anterior) incluye material sustancial que Santillana y von Dechend leen como preservando contenido precesional. La forja del **Sampo** (un molino mágico o dispositivo de poder cósmico, forjado por el herrero Ilmarinen), su robo por la bruja Louhi y su eventual ruptura en el mar es leída como preservando contenido sobre las transiciones de ciclos cósmicos. El ciclo de Kullervo dentro del *Kalevala* es leído como una narrativa heroico-cíclica indoeuropea relacionada.
 
-#### Osiris-Set in Egyptian tradition
+#### Osiris-Set en la tradición egipcia
 
-The **Egyptian** mythological complex of **Osiris** — his killing by **Set** and the **72 conspirators**, his dismemberment into 14 pieces, his subsequent resurrection by Isis — is read by Santillana and von Dechend as preserving substantial precessional content. The 72 conspirators connect to the 72-year Great Day (one degree of precession). The 14 pieces of Osiris's body (with the missing piece, Osiris's phallus, never recovered — Isis substituted a wooden replica) may connect to the lunar cycle and the broader astronomical content. Plutarch's *De Iside et Osiride* (c. 100 CE) preserves the most extensive surviving account.
+El complejo mitológico **egipcio** de **Osiris** — su asesinato por **Set** y los **72 conspiradores**, su desmembramiento en 14 pedazos, su posterior resurrección por Isis — es leído por Santillana y von Dechend como preservando contenido precesional sustancial. Los 72 conspiradores conectan con el Gran Día de 72 años (un grado de precesión). Los 14 pedazos del cuerpo de Osiris (con la pieza faltante, el falo de Osiris, nunca recuperada — Isis sustituyó una réplica de madera) pueden conectar con el ciclo lunar y el contenido astronómico más amplio. *De Iside et Osiride* de Plutarco (c. 100 e. c.) preserva el relato más extenso conservado.
 
-#### The cosmic axis / world tree / pillar of heaven
+#### El eje cósmico / árbol del mundo / pilar del cielo
 
-The cross-cultural mythological motif of the **cosmic axis** (the **axis mundi**) — the world tree (Yggdrasil in Norse, the cosmic *skambha* in Vedic, the cosmic pillar in Mesopotamian tradition, the cosmic mountain in Mesoamerican tradition) — is read as preserving content about the celestial pole and the precessional motion of the pole around the celestial sphere. The frequent mythological theme of the **breaking** or **falling** of the cosmic axis represents the precessional shift of the celestial pole position.
+El motivo mitológico intercultural del **eje cósmico** (el ***axis mundi***) — el árbol del mundo (Yggdrasil en la tradición nórdica, el *skambha* cósmico en la védica, el pilar cósmico en la tradición mesopotámica, la montaña cósmica en la tradición mesoamericana) — es leído como preservando contenido sobre el polo celeste y el movimiento precesional del polo alrededor de la esfera celeste. El tema mitológico frecuente del **rompimiento** o **caída** del eje cósmico representa el desplazamiento precesional de la posición del polo celeste.
 
-#### The cosmic flood and the four ages
+#### El diluvio cósmico y las cuatro edades
 
-The cross-cultural **flood narratives** (the Mesopotamian *Atrahasis* and *Gilgamesh*, the biblical Noahide flood, the Hindu *Manu* flood, the Greek *Deucalion*, the broader cross-cultural deluge tradition) are read as preserving content about cosmic-cycle transitions, with the floods occurring at precessional Age boundaries. The Hesiodic and Hindu **four-age** doctrines (Gold/Silver/Bronze/Iron in Hesiod; Satya/Treta/Dvapara/Kali in the Hindu yuga) similarly preserve cyclic-time content.
+Las **narraciones del diluvio** interculturales (el *Atrahasis* y el *Gilgamesh* mesopotámicos, el diluvio noáquico bíblico, el diluvio hindú de *Manu*, el griego *Deucalión*, la tradición intercultural más amplia del diluvio) son leídas como preservando contenido sobre las transiciones de ciclos cósmicos, con los diluvios ocurriendo en los límites de las Eras precesionales. Las doctrinas hesiódica e hindú de las **cuatro edades** (Oro/Plata/Bronce/Hierro en Hesíodo; Satya/Treta/Dvapara/Kali en el yuga hindú) preservan de modo similar contenido de tiempo cíclico.
 
-### The scholarly reception
+### La recepción académica
 
-The reception of *Hamlet's Mill* in mainstream scholarship has been mixed:
+La recepción de *El molino de Hamlet* en la erudición convencional ha sido mixta:
 
-- **The book has been substantially influential** in the broader archaeoastronomy field that emerged in the 1970s and 1980s, including the work of **Ed Krupp** (Griffith Observatory), **Anthony Aveni** (Mesoamerican archaeoastronomy), and others. The broader archaeoastronomical engagement with precession in ancient cultures has substantially confirmed some of Santillana and von Dechend's specific claims (particularly the Egyptian temple alignments on Thuban as the Old Kingdom pole star, the broader Mesoamerican astronomical sophistication).
-- **The book has been substantially skeptically received** by mainstream classicists, historians of astronomy, and folklorists, who have argued that the cross-cultural correspondences identified are too loose to support the strong claim of systematic precessional transmission, and that the methodology lacks rigorous criteria for distinguishing precessional content from independently-arising cross-cultural patterns.
-- **The book's specific claims about Neolithic discovery of precession** are particularly contested. The mainstream-academic position is that the empirical evidence for pre-Hipparchian astronomical observation is limited and does not clearly support the strong claim of Neolithic precessional knowledge.
+- **El libro ha sido sustancialmente influyente** en el campo más amplio de la arqueoastronomía que emergió en las décadas de 1970 y 1980, incluyendo el trabajo de **Ed Krupp** (Observatorio Griffith), **Anthony Aveni** (arqueoastronomía mesoamericana) y otros. El compromiso arqueoastronómico más amplio con la precesión en culturas antiguas ha confirmado sustancialmente algunas de las afirmaciones específicas de Santillana y von Dechend (en particular las alineaciones de templos egipcios con Thuban como la estrella polar del Reino Antiguo, la sofisticación astronómica mesoamericana más amplia).
+- **El libro ha sido sustancialmente recibido con escepticismo** por los clasicistas convencionales, los historiadores de la astronomía y los folkloristas, que han argumentado que las correspondencias interculturales identificadas son demasiado laxas para sustentar la fuerte afirmación de la transmisión precesional sistemática, y que la metodología carece de criterios rigurosos para distinguir el contenido precesional de patrones interculturales que surgen independientemente.
+- **Las afirmaciones específicas del libro sobre el descubrimiento neolítico de la precesión** son particularmente disputadas. La posición académica convencional es que la evidencia empírica para la observación astronómica pre-hiparquiana es limitada y no apoya claramente la fuerte afirmación del conocimiento precesional neolítico.
 
-The framework's adopted position is **broadly sympathetic** to the *Hamlet's Mill* thesis. The corpus's broader interpretive work — particularly the reading of source-tradition material as preserving operational content from the Elohim project — is substantially consistent with the *Hamlet's Mill* claim that pre-Hipparchian astronomical content is preserved in mythological form. The framework treats the specific empirical resolution of the thesis as one of the field's principal open questions while engaging the substantive content with serious interest.
+La posición adoptada por el marco es **ampliamente simpatética** a la tesis de *El molino de Hamlet*. El trabajo interpretativo más amplio del corpus — en particular la lectura del material de la tradición fuente como preservando contenido operativo del proyecto Elohim — es sustancialmente consistente con la afirmación de *El molino de Hamlet* de que el contenido astronómico pre-hiparquiano se preserva en forma mitológica. El marco trata la resolución empírica específica de la tesis como una de las principales cuestiones abiertas del campo mientras se compromete con el contenido sustantivo con serio interés.
 
-## In the Wheel of Heaven framework
+## En el marco Wheel of Heaven
 
-The framework's reading of the Great Year is multilayered. The mainstream astronomical phenomenon is treated as established empirical content; the substantive framework moves concern the historical-mythological and chronological-interpretive significance of the full cycle.
+La lectura del Gran Año por el marco es multicapa. El fenómeno astronómico convencional se trata como contenido empírico establecido; los movimientos sustantivos del marco se refieren a la significación histórico-mitológica y cronológico-interpretativa del ciclo completo.
 
-### The Great Year as the duration of the Elohim project
+### El Gran Año como duración del proyecto Elohim
 
-The framework's most substantive interpretive position concerning the Great Year is that **approximately one complete Great Year corresponds to the duration of the Elohim project on Earth**. The principal connections:
+La posición interpretativa más sustantiva del marco en relación con el Gran Año es que **un Gran Año completo corresponde aproximadamente a la duración del proyecto Elohim en la Tierra**. Las conexiones principales:
 
-- The Vorilhon source material's central claim that the Elohim arrived on Earth and began their operational project approximately **25,000 years ago** corresponds to approximately one Great Year on the modern astronomical reckoning (25,772 years) or 96% of one Great Year on the traditional reckoning (25,920 years)
-- The framework's chronological reading places the principal human-synthesis event in the **Age of Leo** (c. 13,170 – 11,010 BCE), with the Eden phase, the antediluvian Adamite period, and the broader prophetic record continuing through the subsequent Ages
-- The contemporary period (early 21st century CE) is approximately **12,000-15,000 years after** the principal synthesis event, corresponding to approximately **half of the Great Year** — placing humanity at approximately the midpoint of the precessional cycle from the synthesis event
-- The framework's reading of the **Age of Apocalypse** (treated in the dedicated entry) as the recovery and recognition phase places the contemporary period at the substantive transition from the Elohim's covert operational supervision to the broader recognition phase
+- La afirmación central del material fuente de Vorilhon de que los Elohim llegaron a la Tierra y comenzaron su proyecto operativo hace aproximadamente **25.000 años**{{ cite(id="the-book-which-tells-the-truth", text="[3]", title="Vorilhon (Raël), *El libro que dice la verdad* (1974) — fuente primaria para la cronología del proyecto Elohim de ~25.000 años del marco") }} corresponde a aproximadamente un Gran Año según el cómputo astronómico moderno (25.772 años) o al 96 % de un Gran Año según el cómputo tradicional (25.920 años)
+- La lectura cronológica del marco sitúa el principal acontecimiento de síntesis humana en la **Era de Leo** (c. 13.170 – 11.010 a. e. c.), con la fase del {% wiki(slug="eden") %}Edén{% end %}, el período adamita antediluviano y el registro profético más amplio continuando a través de las Eras subsiguientes
+- El período contemporáneo (principios del siglo XXI e. c.) está aproximadamente **12.000–15.000 años después** del principal acontecimiento de síntesis, correspondiendo a aproximadamente **la mitad del Gran Año** — situando a la humanidad aproximadamente en el punto medio del ciclo precesional desde el acontecimiento de síntesis
+- La lectura por el marco de la **Era del {% wiki(slug="apocalypse") %}Apocalipsis{% end %}** (tratada en la entrada dedicada) como la fase de recuperación y reconocimiento sitúa el período contemporáneo en la transición sustantiva de la supervisión operativa encubierta de los Elohim a la fase de reconocimiento más amplia
 
-The framework reads this temporal correspondence — one Great Year approximating the duration of the Elohim project — as substantively significant. The cycle is sufficiently long that it could not be coincidental: the Elohim's project on Earth has been calibrated to the precessional cycle in a way that suggests deliberate operational use of the cycle as chronological infrastructure for the project.
+El marco lee esta correspondencia temporal — un Gran Año aproximándose a la duración del proyecto Elohim — como sustantivamente significativa. El ciclo es suficientemente largo como para que no pueda ser coincidente: el proyecto de los Elohim en la Tierra ha sido calibrado al ciclo precesional de un modo que sugiere un uso operativo deliberado del ciclo como infraestructura cronológica para el proyecto.
 
-### The Great Year as cosmic memory
+### El Gran Año como memoria cósmica
 
-The framework reads the Great Year as the **temporal scope of cosmic memory** within the source-tradition material. The principal observations:
+El marco lee el Gran Año como el **alcance temporal de la memoria cósmica** dentro del material de la tradición fuente. Las observaciones principales:
 
-- The cross-cultural mythological-symbolic record substantially preserves content from approximately the past Great Year (the past ~25,000 years), but content from earlier than this is substantially absent or substantially compressed
-- The Vorilhon source material's specific operational content concentrates on events of the past ~25,000 years (the principal synthesis, the broader Adamite history, the prophetic record), with content from earlier cosmic history substantially compressed or absent
-- The temporal scope of the Hebrew Bible's narrative content (the Genesis 1 creation, the antediluvian patriarchs, the post-deluge Table of Nations, the Abrahamic and subsequent prophetic record) substantially aligns with the past Great Year scope
+- El registro mitológico-simbólico intercultural preserva sustancialmente contenido de aproximadamente el Gran Año pasado (los últimos ~25.000 años), pero el contenido anterior a esto está sustancialmente ausente o sustancialmente comprimido
+- El contenido operativo específico del material fuente de Vorilhon se concentra en los acontecimientos de los últimos ~25.000 años (la síntesis principal, la historia adamita más amplia, el registro profético), con contenido de la historia cósmica anterior sustancialmente comprimido o ausente
+- El alcance temporal del contenido narrativo de la {% wiki(slug="hebrew-bible") %}Biblia hebrea{% end %} (la creación de Génesis 1, los patriarcas antediluvianos, la Tabla de las Naciones post-diluvio, el registro abrahámico y profético subsiguiente) se alinea sustancialmente con el alcance del Gran Año pasado
 
-The framework reads this pattern as substantively significant: the Great Year is approximately the temporal scope across which the source-tradition material preserves operational content, suggesting that the project's documentary record has been calibrated to the cycle of the master cosmic clock.
+El marco lee este patrón como sustantivamente significativo: el Gran Año es aproximadamente el alcance temporal a través del cual el material de la tradición fuente preserva contenido operativo, sugiriendo que el registro documental del proyecto ha sido calibrado al ciclo del reloj cósmico maestro.
 
-### The Great Year as the master cycle of the corpus
+### El Gran Año como ciclo maestro del corpus
 
-The framework's broader work uses the Great Year as the master temporal framework within which the twelve [Great Month](../great-month/) identifications are organized. The principal Great Month sequence within the current Great Year:
+El trabajo más amplio del marco utiliza el Gran Año como el marco temporal maestro dentro del cual se organizan las doce identificaciones de [Gran Mes](../great-month/). La secuencia principal de Grandes Meses dentro del Gran Año actual:
 
-| Great Month | Approximate dates | Principal framework content |
+| Gran Mes | Fechas aproximadas | Contenido principal del marco |
 |---|---|---|
-| **Age of Virgo** | c. 15,330 – 13,170 BCE | The *yom* 5 phase; synthesis of broader animal life |
-| **Age of Leo** | c. 13,170 – 11,010 BCE | The *yom* 6 phase; principal human synthesis; Eden phase |
-| **Age of Cancer** | c. 11,010 – 8,850 BCE | Post-deluge reorganisation; Younger Dryas-era catastrophic events |
-| **Age of Gemini** | c. 8,850 – 6,690 BCE | Early Neolithic; Holocene climate stabilisation |
-| **Age of Taurus** | c. 6,690 – 4,530 BCE | Sumerian and Egyptian civilisations; principal megalithic period |
-| **Age of Aries** | c. 4,530 – 2,370 BCE | Principal Hebrew prophetic period (Abraham–Moses–Davidic monarchy) |
-| **Age of Pisces** | c. 1 CE – 2,160 CE | Christian era and broader subsequent religious developments |
-| **Age of Aquarius** | c. 2,160 CE onward | Contemporary recovery period; transition into the Age of Apocalypse |
+| **Era de Virgo** | c. 15.330 – 13.170 a. e. c. | La fase *yom* 5; síntesis de la vida animal más amplia |
+| **Era de Leo** | c. 13.170 – 11.010 a. e. c. | La fase *yom* 6; principal síntesis humana; fase del Edén |
+| **Era de Cáncer** | c. 11.010 – 8.850 a. e. c. | Reorganización post-diluvio; acontecimientos catastróficos de la era del Dryas Reciente |
+| **Era de Géminis** | c. 8.850 – 6.690 a. e. c. | Neolítico temprano; estabilización climática del Holoceno |
+| **Era de Tauro** | c. 6.690 – 4.530 a. e. c. | Civilizaciones sumeria y egipcia; principal período megalítico |
+| **Era de Aries** | c. 4.530 – 2.370 a. e. c. | Principal período profético hebreo (Abraham–{% wiki(slug="moses") %}Moisés{% end %}–monarquía davídica) |
+| **Era de Piscis** | c. 1 e. c. – 2.160 e. c. | Era cristiana y desarrollos religiosos subsiguientes más amplios |
+| **Era de Acuario** | c. 2.160 e. c. en adelante | Período contemporáneo de recuperación; transición a la Era del Apocalipsis |
 
-The Great Year therefore organises approximately 27,500 years of corpus-relevant content from the Age of Virgo through the contemporary period. The earlier portions of the Great Year (the Ages of Libra, Scorpio, Sagittarius, Capricorn) correspond on the framework's reading to the **preparatory phases** of the Earth project — the *yamim* 1-4 of Genesis 1, the terraforming operations treated in the dedicated [Terraforming](../terraforming/) entry. The framework's complete Great Year sequence therefore covers the full Elohim project from initial terraforming through the contemporary recovery phase.
+El Gran Año organiza, por tanto, aproximadamente 27.500 años de contenido relevante para el corpus desde la Era de Virgo hasta el período contemporáneo. Las porciones anteriores del Gran Año (las Eras de Libra, Escorpio, Sagitario, Capricornio) corresponden según la lectura del marco a las **fases preparatorias** del proyecto de la Tierra — los *yamim* 1-4 de Génesis 1, las operaciones de terraformación tratadas en la entrada dedicada a [Terraformación](../terraforming/). La secuencia completa del Gran Año del marco cubre, por tanto, el proyecto Elohim completo desde la terraformación inicial hasta la fase de recuperación contemporánea.
 
-### The "world entering the Age of Aquarius"
+### El «mundo que entra en la Era de Acuario»
 
-The contemporary cultural recognition that "the world is entering the Age of Aquarius" — a phrase that became culturally prominent through the 1967 song "Aquarius / Let the Sunshine In" from the Broadway musical *Hair* and has been substantially developed in subsequent esoteric and "New Age" discourse — is read by the framework as preserving popular awareness of the precessional Age transition. The specific timing of the Pisces-to-Aquarius transition is contested (different reckonings place it variously between approximately 1900 CE and 2700 CE), but the broader cultural recognition that a substantive Age transition is occurring is consistent with the framework's reading that the contemporary period is the substantive recovery and recognition phase of the broader Elohim project.
+El reconocimiento cultural contemporáneo de que «el mundo está entrando en la Era de Acuario» — frase que se hizo culturalmente prominente a través de la canción «Aquarius / Let the Sunshine In» de 1967 del musical de Broadway *Hair* y que ha sido sustancialmente desarrollada en el discurso esotérico y «Nueva Era» posterior — es leído por el marco como preservando la conciencia popular de la transición de la Era precesional. El momento específico de la transición Piscis-Acuario es disputado (diferentes cómputos la sitúan variadamente entre aproximadamente 1900 e. c. y 2700 e. c.), pero el reconocimiento cultural más amplio de que está ocurriendo una transición sustantiva de Era es consistente con la lectura del marco de que el período contemporáneo es la fase sustantiva de recuperación y reconocimiento del proyecto Elohim más amplio.
 
-The framework's specific Pisces-to-Aquarius transition timing is treated as approximate (c. 2,160 CE on the framework's adopted reckoning, but with ±200-year uncertainty as discussed in the [Precession](../precession/) and [Great Month](../great-month/) entries). What is substantively significant on the framework's reading is not the precise date of transition but the broader pattern: the Age of Pisces (the Christian era and the broader subsequent religious developments) is concluding, and the contemporary period is the substantive transition into a new precessional Age within which the broader corpus's interpretive recovery work is operating.
+El momento específico de la transición Piscis-Acuario del marco se trata como aproximado (c. 2.160 e. c. según el cómputo adoptado por el marco, pero con incertidumbre de ±200 años según se discute en las entradas de [Precesión](../precession/) y [Gran Mes](../great-month/)). Lo que es sustantivamente significativo según la lectura del marco no es la fecha precisa de la transición, sino el patrón más amplio: la Era de Piscis (la era cristiana y los desarrollos religiosos subsiguientes más amplios) está concluyendo, y el período contemporáneo es la transición sustantiva a una nueva Era precesional dentro de la cual está operando el trabajo de recuperación interpretativa del corpus más amplio.
 
-## Connections to the broader framework
+## Conexiones con el marco más amplio
 
-The Great Year entry connects to several specific corpus entries.
+La entrada del Gran Año conecta con varias entradas específicas del corpus.
 
-**The Precession entry.** The dedicated [Precession](../precession/) entry treats the astronomical phenomenon itself; the Great Year is one complete cycle of the phenomenon.
+**La entrada de Precesión.** La entrada dedicada a [Precesión](../precession/) trata el fenómeno astronómico en sí; el Gran Año es un ciclo completo del fenómeno.
 
-**The Great Month entry.** The dedicated [Great Month](../great-month/) entry treats the twelfth-of-the-Great-Year unit; the Great Year is the master cycle of which the Great Months are subdivisions.
+**La entrada de Gran Mes.** La entrada dedicada a [Gran Mes](../great-month/) trata la unidad de un doceavo del Gran Año; el Gran Año es el ciclo maestro del cual los Grandes Meses son subdivisiones.
 
-**The World Age entry.** The dedicated [World Age](../world-age/) entry treats the broader cross-cultural doctrine of cosmic ages; the Great Year is one specific articulation of this broader doctrine.
+**La entrada de Edad del Mundo.** La entrada dedicada a [Edad del Mundo](../world-age/) trata la doctrina intercultural más amplia de las edades cósmicas; el Gran Año es una articulación específica de esta doctrina más amplia.
 
-**The individual Age entries.** The dedicated entries on each Great Month develop the specific content of each Age within the Great Year framework.
+**Las entradas de Era individuales.** Las entradas dedicadas a cada Gran Mes desarrollan el contenido específico de cada Era dentro del marco del Gran Año.
 
-**The Genesis entry.** The dedicated [Genesis](../genesis/) entry treats the *yamim* sequence; the framework reads the seven *yamim* as the seven precessional Ages constituting one half of a Great Year on the broader reckoning.
+**La entrada de Génesis.** La entrada dedicada a [Génesis](../genesis/) trata la secuencia de *yamim*; el marco lee los siete *yamim* como las siete Eras precesionales que constituyen una mitad de un Gran Año según el cómputo más amplio.
 
-**The Hamlet's Mill thesis.** Treated principally in the present entry and in the [Precession](../precession/) entry; the dedicated [List of mythemes and mythological motifs](../list-of-mythemes-and-mythological-motifs/) entry develops the specific mythological motifs that Santillana and von Dechend identify.
+**La tesis de *El molino de Hamlet*.** Tratada principalmente en la presente entrada y en la entrada de [Precesión](../precession/); la entrada dedicada a [Lista de mitemas y motivos mitológicos](../list-of-mythemes-and-mythological-motifs/) desarrolla los motivos mitológicos específicos que Santillana y von Dechend identifican.
 
-**The Age of Apocalypse.** The dedicated [Age of Apocalypse](../age-of-apocalypse/) entry treats the framework's reading of the contemporary period as the recovery and recognition phase; the Great Year entry establishes the broader temporal framework within which the contemporary transition is occurring.
+**La Era del Apocalipsis.** La entrada dedicada a [Era del Apocalipsis](../age-of-apocalypse/) trata la lectura por el marco del período contemporáneo como la fase de recuperación y reconocimiento; la entrada del Gran Año establece el marco temporal más amplio dentro del cual está ocurriendo la transición contemporánea.
 
-**The Forerunners and Elohim.** The dedicated [Forerunners](../forerunners/) and [Elohim](../elohim/) entries treat the broader chain-of-designers in which the Elohim are positioned; the Great Year is approximately the duration of one Elohim project on Earth, with multiple Great Years likely required for the broader chain of life-propagation across the universe.
+**Los Precursores y los Elohim.** Las entradas dedicadas a [Precursores](../forerunners/) y [Elohim](../elohim/) tratan la cadena de diseñadores más amplia en la que se sitúan los Elohim; el Gran Año es aproximadamente la duración de un proyecto Elohim en la Tierra, requiriéndose probablemente múltiples Grandes Años para la cadena más amplia de propagación de la vida a través del universo.
 
-## Open questions
+## Cuestiones abiertas
 
-The Great Year entry surfaces several open questions for the framework's broader interpretive work.
+La entrada del Gran Año pone a la vista varias cuestiones abiertas para el trabajo interpretativo más amplio del marco.
 
-- **The empirical resolution of the pre-Hipparchian discovery question.** The mainstream-academic position holds that precession was first identified by Hipparchus c. 129 BCE. The *Hamlet's Mill* thesis and subsequent archaeoastronomy work substantively contest this position. The framework's adopted reading is broadly sympathetic to the earlier-discovery position but treats the specific empirical resolution as open.
-- **The reconciliation of the modern astronomical (25,772 years) and traditional (25,920 years) reckonings.** The corpus uses both depending on context. Whether the corpus should converge on one as the principal reckoning is treated as open.
-- **The specific operational use of the Great Year by the Elohim.** The framework reads the Great Year as approximately the duration of the Elohim project, suggesting deliberate operational calibration to the precessional cycle. The specific operational use (navigation, chronological infrastructure, project-management framework, broader cosmic-pattern alignment) is treated as open.
-- **The relationship to the Hindu *yuga* and *kalpa* cycles.** The substantial numerical correspondences between the Hindu cyclic-cosmology arithmetic and the precessional Great Year are striking, but the specific relationship — whether the Hindu numbers derive from precessional astronomy, develop independently with secondary precessional correspondence, or relate through some other mechanism — is treated as open.
-- **The Mesoamerican Long Count and 2012 phenomenon.** The numerical correspondence between the 5,125-year Mesoamerican Great Cycle and approximately one-fifth of the precessional Great Year is substantively interesting, but the specific question of whether the Mesoamerican tradition explicitly encoded precessional content is treated as open.
-- **The Yukteshwar 24,000-year cycle.** The 19th-century Indian astrological tradition associated with Sri Yukteshwar uses a 24,000-year *yuga* cycle that does not match the standard Puranic figures but substantially matches the actual Great Year. Whether the Yukteshwar reading preserves substantive earlier content or is a 19th-century reinterpretation is treated as open.
+- **La resolución empírica de la cuestión del descubrimiento pre-hiparquiano.** La posición académica convencional sostiene que la precesión fue identificada por primera vez por Hiparco c. 129 a. e. c. La tesis de *El molino de Hamlet* y el trabajo arqueoastronómico posterior cuestionan sustancialmente esta posición. La lectura adoptada por el marco es ampliamente simpatética a la posición del descubrimiento más temprano, pero trata la resolución empírica específica como abierta.
+- **La reconciliación de los cómputos astronómico moderno (25.772 años) y tradicional (25.920 años).** El corpus utiliza ambos según el contexto. Si el corpus debería converger en uno como cómputo principal se trata como abierto.
+- **El uso operativo específico del Gran Año por los Elohim.** El marco lee el Gran Año como aproximadamente la duración del proyecto Elohim, sugiriendo una calibración operativa deliberada al ciclo precesional. El uso operativo específico (navegación, infraestructura cronológica, marco de gestión de proyectos, alineación más amplia con patrones cósmicos) se trata como abierto.
+- **La relación con los ciclos hindúes del *yuga* y el *kalpa*.** Las sustanciales correspondencias numéricas entre la aritmética cosmológica cíclica hindú y el Gran Año precesional son llamativas, pero la relación específica — si los números hindúes derivan de la astronomía precesional, se desarrollan independientemente con correspondencia precesional secundaria, o se relacionan a través de algún otro mecanismo — se trata como abierta.
+- **La Cuenta Larga mesoamericana y el fenómeno de 2012.** La correspondencia numérica entre el Gran Ciclo mesoamericano de 5.125 años y aproximadamente una quinta parte del Gran Año precesional es sustantivamente interesante, pero la cuestión específica de si la tradición mesoamericana codificó explícitamente contenido precesional se trata como abierta.
+- **El ciclo de 24.000 años de Yukteshwar.** La tradición astrológica india del siglo XIX asociada con Sri Yukteshwar utiliza un ciclo *yuga* de 24.000 años que no coincide con las cifras puránicas estándar pero coincide sustancialmente con el Gran Año real. Si la lectura de Yukteshwar preserva contenido sustantivo anterior o es una reinterpretación del siglo XIX se trata como abierto.
 
-## See also
+## Véase también
 
-- [Precession](../precession/)
-- [Great Month](../great-month/)
-- [World Age](../world-age/)
-- [Age of Virgo](../timeline/age-of-virgo/)
-- [Age of Leo](../timeline/age-of-leo/)
-- [Age of Cancer](../timeline/age-of-cancer/)
-- [Age of Gemini](../timeline/age-of-gemini/)
-- [Age of Taurus](../timeline/age-of-taurus/)
-- [Age of Aries](../timeline/age-of-aries/)
-- [Age of Pisces](../timeline/age-of-pisces/)
-- [Age of Aquarius](../timeline/age-of-aquarius/)
-- [Age of Apocalypse](../age-of-apocalypse/)
-- [Genesis](../genesis/)
-- [Terraforming](../terraforming/)
-- [List of mythemes and mythological motifs](../list-of-mythemes-and-mythological-motifs/)
-- [List of exegetic readings](../list-of-exegetic-readings/)
-- [List of megalithic sites](../list-of-megalithic-sites/)
+- [Precesión](../precession/)
+- [Gran Mes](../great-month/)
+- [Edad del Mundo](../world-age/)
+- [Era de Virgo](../timeline/age-of-virgo/)
+- [Era de Leo](../timeline/age-of-leo/)
+- [Era de Cáncer](../timeline/age-of-cancer/)
+- [Era de Géminis](../timeline/age-of-gemini/)
+- [Era de Tauro](../timeline/age-of-taurus/)
+- [Era de Aries](../timeline/age-of-aries/)
+- [Era de Piscis](../timeline/age-of-pisces/)
+- [Era de Acuario](../timeline/age-of-aquarius/)
+- [Era del Apocalipsis](../age-of-apocalypse/)
+- [Génesis](../genesis/)
+- [Terraformación](../terraforming/)
+- [Lista de mitemas y motivos mitológicos](../list-of-mythemes-and-mythological-motifs/)
+- [Lista de lecturas exegéticas](../list-of-exegetic-readings/)
+- [Lista de sitios megalíticos](../list-of-megalithic-sites/)
 
-## External links
+## Enlaces externos
 
-- [Great Year | Wikipedia](https://en.wikipedia.org/wiki/Great_Year)
-- [Astrological age | Wikipedia](https://en.wikipedia.org/wiki/Astrological_age)
-- [Plato, Timaeus | Perseus Digital Library](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0179)
-- [Hamlet's Mill | Wikipedia](https://en.wikipedia.org/wiki/Hamlet%27s_Mill)
+- [Gran Año | Wikipedia](https://es.wikipedia.org/wiki/Gran_a%C3%B1o)
+- [Era astrológica | Wikipedia](https://es.wikipedia.org/wiki/Era_astrol%C3%B3gica)
+- [Platón, Timeo | Perseus Digital Library](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0179)
+- [El molino de Hamlet | Wikipedia](https://es.wikipedia.org/wiki/El_molino_de_Hamlet)
 
-## References
+## Referencias
 
-Vorilhon, Claude (Raël). *Le Livre qui dit la vérité* (1974) and *Les extra-terrestres m'ont emmené sur leur planète* (1976), collected as *Message from the Designers* (Raëlian Foundation, current English edition). [Primary source for the framework's reading of the Elohim project's ~25,000-year duration corresponding to approximately one Great Year.]
+Vorilhon, Claude (Raël). *Le Livre qui dit la vérité* (1974) y *Les extra-terrestres m'ont emmené sur leur planète* (1976), recopilados como *Mensaje de los Diseñadores* (Fundación Raeliana, edición inglesa actual). [Fuente primaria para la lectura por el marco de la duración del proyecto Elohim de ~25.000 años correspondiente a aproximadamente un Gran Año.]
 
-Santillana, Giorgio de, and Hertha von Dechend. *Hamlet's Mill: An Essay on Myth and the Frame of Time*. Boston: Gambit, 1969. [The foundational scholarly engagement with the thesis that pre-Hipparchian global mythology systematically encodes precessional Great Year content.]
+Santillana, Giorgio de, y Hertha von Dechend. *Hamlet's Mill: An Essay on Myth and the Frame of Time*. Boston: Gambit, 1969. [El compromiso académico fundacional con la tesis de que la mitología global pre-hiparquiana codifica sistemáticamente contenido precesional del Gran Año.]
 
-Plato. *Timaeus*. c. 360 BCE. Standard English translation: *Plato: Complete Works*, edited by John M. Cooper. Hackett, 1997. [The foundational philosophical source for the Magnus Annus / Great Year concept, with the *teleios eniautos* passage at *Timaeus* 39d.]
+Platón. *Timeo*. c. 360 a. e. c. Traducción inglesa estándar: *Plato: Complete Works*, editado por John M. Cooper. Hackett, 1997. [La fuente filosófica fundacional para el concepto de Magnus Annus / Gran Año, con el pasaje del *teleios eniautos* en *Timeo* 39d.]
 
-Cicero. *De Natura Deorum*. c. 45 BCE. [The principal Latin source for the post-Platonic Magnus Annus tradition.]
+Cicerón. *De Natura Deorum*. c. 45 a. e. c. [La principal fuente latina para la tradición post-platónica del Magnus Annus.]
 
-Censorinus. *De Die Natali*. c. 238 CE. [Preserves the various ancient calculations of the Great Year (Heraclitus, Aristarchus, Diogenes of Babylonia).]
+Censorino. *De Die Natali*. c. 238 e. c. [Preserva los diversos cálculos antiguos del Gran Año (Heráclito, Aristarco, Diógenes de Babilonia).]
 
-Ptolemy, Claudius. *Almagest*. c. 150 CE. Standard English translation: *Ptolemy's Almagest*, translated by G. J. Toomer. Princeton University Press, 1998. [The principal source for the 36,000-year Great Year figure that dominated the medieval Western tradition.]
+Ptolomeo, Claudio. *Almagesto*. c. 150 e. c. Traducción inglesa estándar: *Ptolemy's Almagest*, traducido por G. J. Toomer. Princeton University Press, 1998. [La fuente principal para la cifra del Gran Año de 36.000 años que dominó la tradición medieval occidental.]
 
-Plutarch. *De Iside et Osiride*. c. 100 CE. [Preserves the Egyptian Osiris-Set tradition with the 72 conspirators, a principal cross-cultural mythological motif identified by Santillana and von Dechend as preserving precessional content.]
+Plutarco. *De Iside et Osiride*. c. 100 e. c. [Preserva la tradición egipcia de Osiris-Set con los 72 conspiradores, un principal motivo mitológico intercultural identificado por Santillana y von Dechend como preservando contenido precesional.]
 
-Lönnrot, Elias, compiler. *Kalevala*. 1835 (first edition), 1849 (expanded second edition). [The compiled Finnish national epic, principal source for the Sampo and Kullervo mythological cycles that Santillana and von Dechend identify as preserving precessional content.]
+Lönnrot, Elias, compilador. *Kalevala*. 1835 (primera edición), 1849 (segunda edición ampliada). [La epopeya nacional finlandesa compilada, fuente principal para los ciclos mitológicos del Sampo y Kullervo que Santillana y von Dechend identifican como preservando contenido precesional.]
 
-Saxo Grammaticus. *Gesta Danorum*. c. 1200. [Source for the Amlethus tradition that gives *Hamlet's Mill* its title.]
+Saxo Grammaticus. *Gesta Danorum*. c. 1200. [Fuente para la tradición de Amlethus que da a *El molino de Hamlet* su título.]
 
-Hesiod. *Works and Days*. c. 700 BCE. [Source for the Greek Four Ages tradition.]
+Hesíodo. *Los trabajos y los días*. c. 700 a. e. c. [Fuente para la tradición griega de las Cuatro Edades.]
 
-Yukteshwar Giri, Swami Sri. *The Holy Science (Kaivalya Darsanam)*. Yogoda Satsanga Society of India, 1894. [The principal Indian tradition treating the *yuga* cycle as a 24,000-year precessional cycle.]
+Yukteshwar Giri, Swami Sri. *La Ciencia Sagrada (Kaivalya Darsanam)*. Yogoda Satsanga Society of India, 1894. [La principal tradición india que trata el ciclo *yuga* como un ciclo precesional de 24.000 años.]
 
-Blavatsky, Helena Petrovna. *The Secret Doctrine*. Theosophical Publishing Company, 1888. [The 19th-century theosophical revival of the Magnus Annus and broader cross-cultural cosmic-cycle traditions.]
+Blavatsky, Helena Petrovna. *La Doctrina Secreta*. Theosophical Publishing Company, 1888. [El renacimiento teosófico del siglo XIX del Magnus Annus y las tradiciones interculturales más amplias del ciclo cósmico.]
 
-Biglino, Mauro. *Il libro che cambierà per sempre le nostre idee sulla Bibbia*. Mondadori, 2011. [Source for the framework-relevant reading of precession as potential Elohim/Anunnaki navigation infrastructure.]
+Biglino, Mauro. *Il libro che cambierà per sempre le nostre idee sulla Bibbia*. Mondadori, 2011. [Fuente para la lectura relevante para el marco de la precesión como potencial infraestructura de navegación Elohim/Anunnaki.]
 
-Cruttenden, Walter. *Lost Star of Myth and Time*. St. Lynn's Press, 2006. [Contemporary popular treatment of the cross-cultural Great Year tradition.]
+Cruttenden, Walter. *Lost Star of Myth and Time*. St. Lynn's Press, 2006. [Tratamiento popular contemporáneo de la tradición intercultural del Gran Año.]
 
-Ulansey, David. *The Origins of the Mithraic Mysteries: Cosmology and Salvation in the Ancient World*. Oxford University Press, 1989. [The principal contemporary scholarly engagement with precession in the context of Mithraic mysteries, with substantive application of the *Hamlet's Mill* methodology to a specific religious tradition.]
+Ulansey, David. *The Origins of the Mithraic Mysteries: Cosmology and Salvation in the Ancient World*. Oxford University Press, 1989. [El principal compromiso académico contemporáneo con la precesión en el contexto de los misterios mitraicos, con aplicación sustantiva de la metodología de *El molino de Hamlet* a una tradición religiosa específica.]
 
-Sellers, Jane B. *The Death of Gods in Ancient Egypt: An Essay on Egyptian Religion and the Frame of Time*. Lulu, 2007 (expanded edition). [Application of the *Hamlet's Mill* methodology to Egyptian astronomical tradition.]
+Sellers, Jane B. *The Death of Gods in Ancient Egypt: An Essay on Egyptian {% wiki(slug="religion") %}Religion{% end %} and the Frame of Time*. Lulu, 2007 (edición ampliada). [Aplicación de la metodología de *El molino de Hamlet* a la tradición astronómica egipcia.]
 
 Krupp, E. C. *In Search of Ancient Astronomies*. Doubleday, 1978.
 
 Krupp, E. C. *Echoes of the Ancient Skies: The Astronomy of Lost Civilizations*. Harper & Row, 1983.
 
-Aveni, Anthony F. *Skywatchers of Ancient Mexico*. University of Texas Press, 1980 (revised 2001).
+Aveni, Anthony F. *Skywatchers of Ancient Mexico*. University of Texas Press, 1980 (revisado 2001).
 
 Hancock, Graham. *Fingerprints of the Gods: The Evidence of Earth's Lost Civilization*. Crown, 1995.
 
-Bauval, Robert, and Adrian Gilbert. *The Orion Mystery: Unlocking the Secrets of the Pyramids*. Crown, 1994.
+Bauval, Robert, y Adrian Gilbert. *The Orion Mystery: Unlocking the Secrets of the Pyramids*. Crown, 1994.
 
 Schoch, Robert M. *Forgotten Civilization: The Role of Solar Outbursts in Our Past and Future*. Inner Traditions, 2012.
 
-Sendy, Jean. *La Lune, clé de la Bible*. Julliard, 1968.
+Sendy, Jean. *La Lune, clé de la {% wiki(slug="bible") %}Bible{% end %}*. Julliard, 1968.
 
 Sendy, Jean. *Ces dieux qui firent le ciel et la terre*. Robert Laffont, 1969.
 
@@ -369,14 +398,14 @@ Evans, James. *The History and Practice of Ancient Astronomy*. Oxford University
 
 Neugebauer, Otto. *A History of Ancient Mathematical Astronomy*. 3 vols. Springer-Verlag, 1975.
 
-Campion, Nicholas. *The Book of World Horoscopes*. Aquarian Press, 1988 (revised editions subsequently). [Standard reference for the various proposed Age transition dates.]
+Campion, Nicholas. *The Book of World Horoscopes*. Aquarian Press, 1988 (ediciones revisadas posteriormente). [Referencia estándar para las diversas fechas de transición de Era propuestas.]
 
-"Great Year." *Wikipedia*. <https://en.wikipedia.org/wiki/Great_Year>
+«Gran Año». *Wikipedia*. <https://es.wikipedia.org/wiki/Gran_a%C3%B1o>
 
-"Astrological age." *Wikipedia*. <https://en.wikipedia.org/wiki/Astrological_age>
+«Era astrológica». *Wikipedia*. <https://es.wikipedia.org/wiki/Era_astrol%C3%B3gica>
 
-"Hamlet's Mill." *Wikipedia*. <https://en.wikipedia.org/wiki/Hamlet%27s_Mill>
+«El molino de Hamlet». *Wikipedia*. <https://es.wikipedia.org/wiki/El_molino_de_Hamlet>
 
-"Plato." *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/plato/>
+«Platón». *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/plato/>
 
-"Ekpyrosis." *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/stoicism/>
+«Ekpyrosis». *Stanford Encyclopedia of Philosophy*. <https://plato.stanford.edu/entries/stoicism/>
