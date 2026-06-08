@@ -6,7 +6,7 @@ template = "wiki-page.html"
 toc = true
 
 [extra]
-redirect_to = { title = "Adam and Eve", path = "/wiki/adam-and-eve/" }
+see_also = [{ title = "Adam and Eve", path = "/wiki/adam-and-eve/" }]
 category = "Peoples & Groups"
 editorial_pass = "2026-05"
 entry_type = "people group"
