@@ -7,6 +7,12 @@ date = "2025-08-10T06:03:56Z"
 
 [extra]
 claim_type = "direct"
+# v4.5 — prerecorded audiobook artifact present at
+# assets.wheelofheaven.world/audio/en/the-book-which-tells-the-truth/.
+# Listen button is gated on this flag: pages without it don't render
+# the Listen UI at all (we retired the on-the-fly studio/system fallback
+# for non-audiobook pages to keep the feature meaning what it says).
+audiobook = true
 +++
 This page displays "The Book Which Tells the Truth" with interactive features for viewing the original text alongside translations in multiple languages.
 
