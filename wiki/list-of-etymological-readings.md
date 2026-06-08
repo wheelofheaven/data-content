@@ -9,7 +9,7 @@ toc = true
 category = "Reference Lists"
 editorial_pass = "2026-05"
 entry_type = "reference list"
-claim_type = "framework"
+claim_type = "direct"
 alternative_names = ["Catalogue of etymological readings", "Framework philology index", "Glossary of source-language readings"]
 
 [extra.infobox]

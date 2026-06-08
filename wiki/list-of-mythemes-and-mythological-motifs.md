@@ -9,7 +9,7 @@ toc = true
 category = "Reference Lists"
 editorial_pass = "2026-05"
 entry_type = "reference list"
-claim_type = "framework"
+claim_type = "direct"
 alternative_names = ["Catalogue of mythological motifs", "Mythological-motif index (framework reading)", "Cross-cultural mythemes catalogue"]
 
 [extra.infobox]

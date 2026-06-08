@@ -9,6 +9,7 @@ toc = true
 category = "Cosmology & Framework"
 editorial_pass = "2026-05"
 entry_type = "concept"
+claim_type = "speculative"
 alternative_names = ["the alliance", "the cross-civilizational alliance", "the Eloha-human alliance", "the Noahic alliance", "the covenant partnership"]
 timeline = ["gemini", "taurus", "aries", "pisces", "aquarius"]
 

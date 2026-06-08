@@ -9,6 +9,7 @@ toc = true
 category = "Cosmology & Framework"
 editorial_pass = "2026-05"
 entry_type = "concept"
+claim_type = "framework"
 alternative_names = ["the Four Levels of Consideration", "the Four Levels of Estimation", "the four-level framework", "the four-perspective evaluation framework", "the cosmic-to-individual evaluation framework", "*les quatre plans* (French source-original)"]
 timeline = ["all-ages"]
 

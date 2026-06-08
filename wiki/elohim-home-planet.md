@@ -9,6 +9,7 @@ toc = true
 editorial_pass = "2026-05"
 category = "Elohim"
 entry_type = "place"
+claim_type = "framework"
 alternative_names = ["Elohim Home Planet", "the home planet", "the planet of the Elohim", "the planet of the creators", "the planet of the Eternals (per single-planet reading)", "the other world", "the Mormon Kolob (per Tvedtnes hypothesis)"]
 timeline = ["age-of-capricorn", "age-of-aquarius"]
 

@@ -9,6 +9,7 @@ toc = true
 category = "Cosmology & Framework"
 editorial_pass = "2026-05"
 entry_type = "concept"
+claim_type = "framework"
 alternative_names = ["the cosmic competition", "the cosmic competition framework", "the inheritance evaluation", "the parallel-humanities framework", "the multiple-worlds creation framework"]
 timeline = ["aries", "pisces", "aquarius"]
 

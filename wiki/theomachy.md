@@ -9,6 +9,7 @@ toc = true
 category = "Events & Narratives"
 editorial_pass = "2026-05"
 entry_type = "event/period"
+claim_type = "framework"
 alternative_names = ["Serpentine Rebellion", "the War in Heaven", "the Battle of the Gods", "the First War", "the Cosmic Conflict", "the War of the Serpent", "the Lucifer-Council Conflict"]
 timeline = ["cancer", "gemini", "taurus"]
 

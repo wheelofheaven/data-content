@@ -9,7 +9,7 @@ toc = true
 category = "Reference Lists"
 editorial_pass = "2026-05"
 entry_type = "reference list"
-claim_type = "framework"
+claim_type = "direct"
 alternative_names = ["Catalogue of pre-modern close encounters", "Pre-1500 UFO and contact-event index", "Catalogue of unexplained aerial phenomena (antiquity through 1499 CE)"]
 
 [extra.infobox]

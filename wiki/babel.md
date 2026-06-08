@@ -9,6 +9,7 @@ toc = true
 category = "Events & Narratives"
 editorial_pass = "2026-05"
 entry_type = "event/period"
+claim_type = "framework"
 alternative_names = ["the Tower of Babel", "*Migdal Bavel* (מִגְדַּל בָּבֶל)", "*Bavel* (בָּבֶל)", "*Bab-ilu* (Akkadian: 'gate of the god')", "the Babel project", "the Babel event", "the Tower-of-Babel intervention", "the Confounding of Tongues", "the Confusion of Languages"]
 timeline = ["gemini"]
 

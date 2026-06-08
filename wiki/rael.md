@@ -9,6 +9,7 @@ toc = true
 category = "Raëlism"
 editorial_pass = "2026-05"
 entry_type = "figure"
+claim_type = "framework"
 alternative_names = ["Claude Vorilhon", "Rael", "Raël Maitreya", "the Maitreya from the West", "Guide of Guides", "the last of the prophets"]
 timeline = ["aquarius"]
 

@@ -9,6 +9,7 @@ toc = true
 category = "Cosmology & Framework"
 editorial_pass = "2026-05"
 entry_type = "concept"
+claim_type = "framework"
 alternative_names = ["the Earth-as-organism framework", "the planetary-organism claim", "the cosmic-biology framework", "the universal-aliveness principle", "Living Cosmos", "the biological correlate of Infinity"]
 timeline = ["all-ages"]
 
