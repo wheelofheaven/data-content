@@ -1,680 +1,750 @@
 +++
-title = "Satan"
+title = "שָׂטָן"
 slug = "satan"
-description = "Satan (שָׂטָן, Hebrew: 'adversary,' 'accuser,' 'opponent') is an Eloha figure on the home world, the leader of the political faction within the Elohim civilization that has consistently opposed the creation of synthetic beings capable of equaling or surpassing their makers. Satan's position has been substantively consistent since before the Earth program began: the creation of beings in the Elohim's own image is fundamentally dangerous, and no protocol, no oversight, and no geographic distance can be trusted to contain the risk. The framework's distinctive analytical contribution is the careful disentanglement of Satan from Lucifer, the Serpent, and the Devil — four distinct figures and roles that mainstream Western religious tradition has progressively conflated into a single personification of cosmic evil across the Second Temple period and the subsequent Christian-theological development. Satan is not the devil of medieval demonology; he is a politician, the leader of the Council's opposition party, holding principled opposition to the Earth program throughout its history. His specific institutional role across the post-flood period is the testing of prophetic figures through adversarial interview — the function that the Greek New Testament word *diabolos* (slanderer) describes."
+description = "שָׂטָן (עברית: שָׂטָן, »יריב«, »מאשים«, »מתנגד«) הוא דמות אלוהה בעולם הביתי, מנהיג הסיעה הפוליטית בתוך ציוויליזציית האלוהים שהתנגדה באופן עקבי לבריאת יצורים סינתטיים המסוגלים להשתוות לבוראיהם או לעלות עליהם. עמדתו של שָׂטָן הייתה עקבית באופן מהותי עוד לפני תחילתה של תוכנית כדור הארץ: בריאת יצורים בצלם האלוהים עצמם מסוכנת ביסודה, ואין לסמוך על שום פרוטוקול, שום פיקוח, ושום מרחק גיאוגרפי לרסן את הסיכון. תרומתה האנליטית המובחנת של המסגרת היא ההפרדה הזהירה של שָׂטָן מלוציפר, מהנחש, ומהשטן — ארבע דמויות ותפקידים מובחנים שהמסורת הדתית המערבית המרכזית הצליבה בהדרגה לכדי האנשה אחת של רוע קוסמי לאורך תקופת הבית השני וההתפתחות הנוצרית-תיאולוגית שלאחריה. שָׂטָן אינו השטן של הדמונולוגיה של ימי הביניים; הוא פוליטיקאי, מנהיג מפלגת האופוזיציה של המועצה, המחזיק בהתנגדות עקרונית לתוכנית כדור הארץ לאורך כל ההיסטוריה שלה. תפקידו המוסדי הספציפי לאורך התקופה שלאחר המבול הוא בחינת דמויות נבואיות באמצעות ראיון יריב — התפקיד שהמילה היוונית של הברית החדשה *diabolos* (משמיץ) מתארת."
 template = "wiki-page.html"
 toc = true
 
 [extra]
-translation_status = "metadata_only"
 category = "Elohim"
 editorial_pass = "2026-05"
 entry_type = "figure"
-alternative_names = ["the Adversary", "the Accuser", "the Opposition", "*ha-satan* (הַשָּׂטָן, 'the satan')", "*satan* (שָׂטָן, common noun)", "the Slanderer", "*diabolos* (διάβολος, Greek)", "the Devil (medieval-Christian theological designation, conflated)", "the Tester", "the Skeptic"]
+claim_type = "inferred"
+alternative_names = ["היריב", "המאשים", "האופוזיציה", "*ha-satan* (הַשָּׂטָן, »השָׂטָן«)", "*satan* (שָׂטָן, שם עצם כללי)", "המשמיץ", "*diabolos* (διάβολος, יוונית)", "השטן (כינוי תיאולוגי נוצרי של ימי הביניים, מצולב)", "הבוחן", "הספקן"]
 timeline = ["all-ages"]
 
+see_also = [
+    { title = "לוציפר", path = "/wiki/lucifer/", description = "מנהיג סיעת היוצרים המגורשים שבסיסה בכדור הארץ; הסוכן של חשיפת עדן; מובחן משָׂטָן בטקסונומיה בת ארבע הדמויות של הקורפוס." },
+    { title = "הנחש", path = "/wiki/serpent/", description = "סיעת לוציפר באופן קולקטיבי בתפקיד חשיפת עדן; מובחן משָׂטָן." },
+    { title = "יהוה", path = "/wiki/yahweh/", description = "מנהיג רוב המועצה שאת הצבעת הפוסט-מבול שלו שָׂטָן קיבל בעודו ממשיך בהתנגדות עקרונית." },
+    { title = "מועצת הנצחיים", path = "/wiki/council-of-eternals/", description = "המבנה הפוליטי-מוסדי של העולם הביתי שבמסגרתו שָׂטָן מוביל את סיעת האופוזיציה." },
+    { title = "אלוהים", path = "/wiki/elohim/", description = "הכינוי הציוויליזציוני הרחב יותר שבמסגרתו פועל שָׂטָן כדמות פוליטית-סיעתית ספציפית." },
+    { title = "הברית", path = "/wiki/the-alliance/", description = "ההסדר הציוויליזציוני-יוצר של תוכנית כדור הארץ שאליו התנגדה סיעת שָׂטָן באופן עקבי." },
+    { title = "עדן", path = "/wiki/eden/", description = "מעבדת הברית המקורית; גירוש עדן הוא הפרק העיקרי שבו החלו תחזיותיו של שָׂטָן להתאמת." },
+    { title = "אדם וחווה", path = "/wiki/adam-and-eve/", description = "דמויות נרטיב עדן העיקריות שאי-ציותן אישר את חששותיו היסודיים של שָׂטָן." },
+    { title = "טרום-המבול", path = "/wiki/antediluvian/", description = "התקופה שלפני המבול שבמהלכה צבר שָׂטָן עדויות על תוקפנות אנושית לקראת החלטת ההשמדה." },
+    { title = "המבול הגדול", path = "/wiki/great-flood/", description = "ביצוע החלטת ההשמדה; הפרק שבו תחזיותיו של שָׂטָן מומשו אופרטיבית." },
+    { title = "השרשרת הקוסמית", path = "/wiki/cosmic-chain/", description = "התגלית שלאחר המבול ששינתה את הפוליטיקה של המועצה ואת עמדתו המוסדית של שָׂטָן." },
+    { title = "תיאומאכיה", path = "/wiki/theomachy/", description = "המסגרת הרחבה של הקונפליקט הפוליטי-קוסמי שבמסגרתה פועלת התנגדותו של שָׂטָן." },
+    { title = "דרקונים", path = "/wiki/dragons/", description = "טיפול בתקרית המעבדה של העולם הביתי; שריד הזיכרון התרבותי של התוכנית הביולוגית המקורית." },
+    { title = "ישוע", path = "/wiki/jesus/", description = "פרק בחינת הנביא העיקרי בברית החדשה (מתי ד:1–11; לוקס ד:1–13)." },
+    { title = "נביא", path = "/wiki/prophet/", description = "התפקיד המוסדי שבמסגרתו פועלת פונקציית הבחינה היריבית של שָׂטָן." },
+    { title = "המקרא העברי", path = "/wiki/hebrew-bible/", description = "המקור הכתוב העיקרי לניסוח דמות ה-ha-satan כתובע המועצה." },
+]
+
+footnotes = [
+    { content = "ניסוח הקורפוס של מנגנון הצליבה — שבאמצעותו ארבע דמויות מובחנות במקור (שָׂטָן, לוציפר, הנחש, השטן) קרסו לכדי האנשה אחת של רוע קוסמי — פועל באמצעות שלושה רגעים היסטוריים עיקריים: קריסת המסגרת החינוכית שלאחר סדום שקודם לכן שמרה על ההבחנות; ההשפעה הזורואסטרית הדואליסטית של התקופה הפרסית על יהדות הבית השני שסיפקה את המסגור של טוב-קוסמי-מול-רע; וההרחבה הנוצרית-תיאולוגית של הדמות המורכבת המתקבלת לכדי הדמונולוגיה המורכבת של ימי הביניים. המסגרת קוראת זאת כמנגנון האופרטיבי שבאמצעותו אבדה בהדרגה הטקסונומיה המקורית בת ארבע הדמויות." },
+    { content = "מבוא איוב (איוב א–ב) רושם את ha-satan פועל עם מעמד פרוצדורלי מלא של המועצה: לדמות יש גישה מוסדית לחצר האלוהית, היא מעלה אתגרים בצורה הפרוצדורלית הראויה, והיא פועלת תחת אישור פורמלי של הצבעת המועצה. הקריאה התיאולוגית המרכזית של ה-satan של איוב כ»יריב« ולא כ»שטן« היא כשלעצמה קונצנזוס מחקרי מהותי (Day 1988; Pope 1973; Habel 1985; Newsom 2003; Clines 1989–2011 מתכנסים כאן); הקריאה הספציפית של הקורפוס מוסיפה את הניסוח המוסדי-פוליטי של מה שמשמעות התפקיד היריבי בתוך מסגרת המועצה הרחבה." },
+    { content = "ההיגיון המוסדי של תפקיד בחינת-הנביא של שָׂטָן פועל כראיון-יריב: נביא שניתן היה להפכו על ידי בחינת האופוזיציה היה מתגלה כנטל למשימה הרחבה; נביא שעמד בבחינה ניתן היה לסמוך עליו. הבחינה התנהלה, למעשה, על ידי האופוזיציה הפוליטית דווקא משום שהספקנות המונעת של האופוזיציה הייתה חושפת כל חולשה במחויבות המועמד. זוהי בקרת איכות אופרטיבית באמצעות פרוצדורה יריבית, ולא זדון אישי של רוע קוסמי." },
+    { content = "ה-*satan* העברי (שָׂטָן) הוא בשימושו המקראי המקורי שם עצם כללי הנגזר מהשורש *ש-ט-ן* שמשמעותו »להתנגד«, »להפריע«, »להיות עוין כלפי«. הופעותיו בהקשרים לא-תיאולוגיים (שמואל א כ»ט:4 לדוד כיריב הפלשתים; מלכים א י»א ליריבים הגיאופוליטיים של שלמה; במדבר כ»ב למלאך כיריב לבלעם) מבססות את המונח כייעוד יחסי-מיקומי ולא כשם פרטי. המעבר לשימוש כשם פרטי — והצליבה עם לוציפר, הנחש, והשטן — היא התפתחות של תקופת הבית השני ושלאחר המקרא שהמסגרת קוראת כהיסטורית-התפתחותית ולא מקורית לחומר העברי." },
+    { content = "ה-*diabolos* (διάβολος) של הברית החדשה היוונית פירושו פשוטו כמשמעו »משמיץ« או »מי שמדבר נגד« (מ-*dia-* + *bállō*, »להשליך לרוחב«, »לדבר נגד«). התוכן הלקסיקלי הוא בדיוק התפקיד המוסדי של שָׂטָן בתפקיד בחינת הנביא — הדמות שמעלה התנגדויות, מטילה דופי, מאתגרת. ההרחבה התיאולוגית ההדרגתית של *diabolos* לכדי »השטן« כהאנשה של רוע קוסמי מטשטשת את התוכן הלקסיקלי-תפקודי המקורי של הכינוי." },
+    { content = "מסורות דמויות-האופוזיציה הבין-תרבותיות (אנגרה מאיניו / אהרימן הזורואסטרי; אסורות הינדואיסטיים; מארה הבודהיסטי; סת המצרי; לוקי הנורדי) שומרות את הדפוס הרחב של ההתנגדות העקרונית במסגרות התרבותיות-דתיות המובחנות שלהן. המסגרת אינה דורשת לדחות את המסגרת ההסברית המרכזית של דת השוואתית — דיפוזיה תרבותית, מצע ארכיטיפי-קוגניטיבי משותף, והתפתחות תרבותית עצמאית כולם תורמים. מה שהמסגרת מוסיפה הוא היסוד ההיסטורי-פוליטי הבסיסי: המבנה הפוליטי-מוסדי האלוהה האמיתי שבמסגרתו דמויות האופוזיציה של המסורות השונות נרשמות כזיכרון תרבותי." },
+]
+
+[[extra.references]]
+id = "the-book-which-tells-the-truth"
+note = "היצירה הראליאנית הראשונה של וורילון (1974); הסעיף »שָׂטָן« מבסס את שָׂטָן כמנהיג סיעת האופוזיציה ומספק את הפרשנות העיקרית של פסקת איוב."
+
+[[extra.references]]
+id = "extraterrestrials-took-me-to-their-planet"
+note = "היצירה הראליאנית השנייה של וורילון (1975); תוכן »בני האדם לא יכלו להבין«, הקשר החלטת ההשמדה הטרום-מבולית, השינוי שלאחר המבול, תפקיד בחינת הנביא, וקטע ויכוח המועצה בפגישת פריגור."
+
+[[extra.references]]
+id = "lets-welcome-the-extraterrestrials"
+note = "היצירה הראליאנית השלישית של וורילון (1979); המסגרת הפוליטית-מוסדית הרחבה יותר של המועצה."
+
+[[extra.references]]
+id = "intelligent-design-message-from-the-designers"
+note = "המהדורה הקנונית המקובצת של שלושת ספרי חומר המקור הראליאני."
+
+[[extra.references]]
+id = "genesis"
+locator = "בראשית ג; בראשית ו:1–4"
+note = "נרטיב נחש עדן (שאינו מזוהה כשָׂטָן בטקסט העברי) וחומר בני האלוהים / הנפילים שמתחת למסורת הצופים של תקופת הבית השני."
+
+[[extra.references]]
+id = "1-enoch-the-book-of-the-watchers"
+note = "חומר הצופים של תקופת הבית השני; עזאזל ונרטיב המרד המלאכי הנשען על בראשית ו:1–4."
+
+[[extra.references]]
+id = "book-of-enoch"
+note = "ההרחבה של הקורפוס החנוכי הרחב יותר על נרטיב המרד המלאכי; מקור עיקרי של תקופת הבית השני להתפתחות דמות-הרוע הקוסמי."
+
+[[extra.references]]
+id = "the-naked-bible"
+note = "ביגלינו וקטאנאו (2022); תרגום עברי מילולי-מחמיר הכולל את חומר ה-satan."
+
+[[extra.references]]
+id = "the-bible-is-not-a-sacred-book"
+note = "סדרת המקרא העברי המילולית-מחמירה של ביגלינו; הטיעון הפילולוגי היסודי שמסורות התרגום המרכזיות מטשטשות את התוכן העברי המקורי."
+
+[[extra.references]]
+id = "the-qur-an"
+locator = "קוראן 2:34; 7:11–13; 15:28–44; 17:61–65; 18:50; 20:116; 38:71–85"
+note = "חומר אבליס / שיטאן הקוראני עם תוכן מקביל מהותי ל-satan העברי."
+
+[[extra.references]]
+id = "avesta"
+note = "כתבי הקודש הזורואסטריים; המסגרת הקוסמית-דואליסטית של אנגרה מאיניו / אהורה מזדה שהשפיעה מהותית על התפתחות דמות ה-satan ביהדות הבית השני."
+
+[[extra.references]]
+id = "sendy-ces-dieux"
+note = "הניסוח הצרפתי היסודי של סנדי להשערת האלוהים (1969); קריאה בין-מסורתית של הדינמיקה הפוליטית-קוסמית."
+
+[[extra.references]]
+id = "wallis-eden-conspiracy"
+note = "וואליס (2024); ניסוח בן זמננו של הקריאה על עדן / ציוויליזציה מהונדסת, עם תוכן מהותי של הפרדת שָׂטָן-לוציפר."
+
+[[extra.references]]
+id = "day-adversary-heaven"
+note = "Day (1988); מחקר פילולוגי יסודי של דמות ה-satan העברי לאורך המקרא העברי, המבחין בין שימוש כשם עצם כללי לבין שימוש עם תוית הידיעה."
+
+[[extra.references]]
+id = "pope-job"
+note = "Pope (1973); פירוש האנקור בייבל לאיוב עם טיפול מהותי בדמות ha-satan במבוא."
+
+[[extra.references]]
+id = "habel-job"
+note = "Habel (1985); פירוש וסטמינסטר לאיוב; ניסוח מהותי של ha-satan כאופוזיציה מוסדית."
+
+[[extra.references]]
+id = "newsom-job-moral"
+note = "Newsom (2003); המונוגרפיה העיקרית על מבנה הדמיון המוסרי של איוב, כולל התפקיד המוסדי-יריבי של דמות ha-satan."
+
+[[extra.references]]
+id = "clines-job-wbc"
+note = "Clines (1989–2011); פירוש Word Biblical בן שלושה כרכים על איוב, הפירוש הביקורתי בן זמננו העיקרי."
+
+[[extra.references]]
+id = "russell-devil-antiquity"
+note = "Russell (1977); הכרך הראשון של הטטרלוגיה העיקרית על תולדות דמות השטן; מהעת העתיקה ועד הנצרות הקדומה."
+
+[[extra.references]]
+id = "russell-satan-early-christian"
+note = "Russell (1981); ההרחבה הנוצרית הקדומה של שָׂטָן לכדי האנשה של רוע קוסמי."
+
+[[extra.references]]
+id = "russell-lucifer-middle-ages"
+note = "Russell (1984); ההרחבה הדמונולוגית של ימי הביניים של דמות השָׂטָן/לוציפר/השטן המצולבת."
+
+[[extra.references]]
+id = "russell-mephistopheles-modern"
+note = "Russell (1986); הטרנספורמציות המודרניות של דמות השטן לאורך התרבות המערבית שלאחר הרפורמציה."
+
+[[extra.references]]
+id = "pagels-origin-satan"
+note = "Pagels (1995); מקורות פולמוסיים-סוציולוגיים של דמות השטן הנוצרית כסמן גבול נגד יריבים דתיים-פוליטיים."
+
+[[extra.references]]
+id = "kelly-satan-biography"
+note = "Kelly (2006); הביוגרפיה ההיסטורית-פילולוגית העיקרית של דמות השָׂטָן לאורך המסורות היהודיות והנוצריות."
+
+[[extra.references]]
+id = "mcginn-antichrist"
+note = "McGinn (1994); טיפול היסטורי במסורת האנטיכריסט, סמוך מקרוב למחקר התפתחות השָׂטָן."
+
+[[extra.references]]
+id = "boyce-zoroastrians"
+note = "Boyce (1979); המסגרת הקוסמית-דואליסטית של אנגרה מאיניו / אהורה מזדה שהשפיעה מהותית על התפתחות דמות ה-satan ביהדות הבית השני."
+
+[[extra.references]]
+id = "nickelsburg-enoch-1"
+note = "Nickelsburg (2001); פירוש Hermeneia ל-1 חנוך; יסודי למסורת הצופים ולחומר הנפילים של בראשית ו."
+
+[[extra.references]]
+id = "reed-fallen-angels"
+note = "Reed (2005); קליטת הספרות החנוכית במסורת היהודית והנוצרית."
+
+[[extra.references]]
+id = "vermes-dead-sea-scrolls"
+note = "Vermes (מהדורה מתוקנת 2004); תרגום אנגלי נגיש של קורפוס מגילות ים המלח."
+
+[[extra.references]]
+id = "vanderkam-dss-today"
+note = "VanderKam (מהדורה שנייה 2010); מבוא נגיש למגילות ים המלח."
+
+[[extra.references]]
+id = "bodman-poetics-iblis"
+note = "Bodman (2011); נרטיב אבליס בקוראן, תוכן מקביל מקרוב לדמות ה-satan העברי."
+
+[[extra.references]]
+id = "awn-satan-iblis"
+note = "Awn (1983); מסורת אבליס בפסיכולוגיה הסופית, המנסחת את אבליס כדמות התנגדות עקרונית."
+
+[[extra.references]]
+id = "doniger-hindu-myths"
+note = "Doniger (1975); מקראת מיתולוגיה הינדואיסטית הכוללת את מסורת האסורות במקביל מהותי לתוכן ה-satan העברי."
+
+[[extra.references]]
+id = "williams-mahayana"
+note = "Williams (מהדורה שנייה 2008); יסודות דוקטרינריים של בודהיזם מהאיאנה, כולל מסורת מארה ותפקיד בחינת הנביא."
+
+[[extra.references]]
+id = "sturluson-prose-edda"
+note = "Sturluson (בערך 1220); המסורת המיתולוגית הנורדית העיקרית, כולל דמות לוקי עם תוכן מקביל מהותי."
+
 [extra.infobox]
-type = "Figure; Eloha home-world political-faction leader"
-position = "Leader of the home-world political faction opposing the creation of synthetic beings capable of equaling or surpassing their makers; member of the Council of the Eternals; institutional adversarial role in the broader Elohim political structure"
-location = "Home world (the Elohim planet); never on Earth in the source-material articulation"
-political_position = "Principled opposition to the Earth program throughout its history; the position that synthetic creations capable of equaling their makers are fundamentally dangerous; advocacy for human destruction during the antediluvian crisis; continuing skeptical position post-flood while accepting the majority Council vote never to destroy humanity again"
-distinguished_from = "Lucifer (Earth-based exiled-creator faction leader, the Eden disclosure agent); the Serpent (the Lucifer faction collectively in the Eden-disclosure role); the Devil (the Greek *diabolos*, referring to Satan's institutional adversarial function); the medieval-Christian theological figure (the conflated personification of cosmic evil that combines elements from all four originally distinct figures)"
-hebrew_etymology = "*satan* (שָׂטָן), common noun derived from the Hebrew root *s-t-n* meaning 'to oppose,' 'to obstruct,' 'to be hostile to'; the noun form means 'adversary,' 'accuser,' 'opponent'; appears as common noun in non-theological contexts (political adversaries, military opponents, prosecuting attorneys); the definite-article form *ha-satan* (הַשָּׂטָן, 'the satan') is the Hebrew Bible's specific institutional designation"
-greek_designation = "*diabolos* (διάβολος, 'slanderer,' 'one who speaks against'); the Greek New Testament word for 'the devil'; in its plain linguistic meaning, 'the slanderer' — the figure who speaks against another, who attempts to impugn, who raises objections and challenges; precisely the function Satan performs in testing the prophets"
-principal_episodes = "The home-world laboratory incident and political opposition to the original biological program; the antediluvian period during which Satan accumulated evidence of human aggression; the destruction-decision period leading to the Great Flood; the post-flood Cosmic Chain discovery and Council vote; the institutional prophet-testing role across the subsequent prophetic tradition; the testing of Job (Job 1-2); the testing of Jesus (Matthew 4:1-11; Luke 4:1-13)"
-status_in_source_material = "Substantially documented; the principal source-material passages establish both Satan's specific factional-political role and the careful disentanglement from Lucifer, the Serpent, and the broader conflated tradition"
-principal_text = "*The Book Which Tells the Truth* (1974); *Extra-Terrestrials Took Me to Their Planet* (1975), 'Satan' section and 'Humans Could Not Understand' content; *timeline.epub* Age of Cancer chapter (Sections III-IV, with substantial four-figure taxonomy treatment); *timeline.epub* Age of Gemini chapter (Section III, with the Decision content); *timeline.epub* Age of Pisces chapter (the testing of Jesus content)"
+type = "דמות; אלוהה מנהיג סיעה פוליטית של העולם הביתי"
+position = "מנהיג הסיעה הפוליטית של העולם הביתי המתנגדת לבריאת יצורים סינתטיים המסוגלים להשתוות לבוראיהם או לעלות עליהם; חבר מועצת הנצחיים; תפקיד יריבי מוסדי במבנה הפוליטי הרחב של האלוהים"
+location = "העולם הביתי (כוכב הלכת של האלוהים); אף פעם לא בכדור הארץ בניסוח חומר המקור"
+political_position = "התנגדות עקרונית לתוכנית כדור הארץ לאורך כל ההיסטוריה שלה; העמדה שיצירות סינתטיות המסוגלות להשתוות לבוראיהן מסוכנות ביסודן; תמיכה בהשמדה אנושית במהלך המשבר הטרום-מבולי; עמדה ספקנית מתמשכת לאחר המבול תוך קבלת הצבעת רוב המועצה לעולם לא להשמיד שוב את האנושות"
+distinguished_from = "לוציפר (מנהיג סיעת היוצרים המגורשים שבסיסה בכדור הארץ, הסוכן של חשיפת עדן); הנחש (סיעת לוציפר באופן קולקטיבי בתפקיד חשיפת עדן); השטן (ה-*diabolos* היווני, המתייחס לתפקיד היריבי המוסדי של שָׂטָן); הדמות התיאולוגית הנוצרית של ימי הביניים (ההאנשה המצולבת של רוע קוסמי המשלבת אלמנטים מכל ארבע הדמויות המובחנות במקור)"
+hebrew_etymology = "*satan* (שָׂטָן), שם עצם כללי הנגזר מהשורש העברי *ש-ט-ן* שמשמעותו »להתנגד«, »להפריע«, »להיות עוין כלפי«; צורת שם העצם פירושה »יריב«, »מאשים«, »מתנגד«; מופיע כשם עצם כללי בהקשרים לא-תיאולוגיים (יריבים פוליטיים, מתנגדים צבאיים, פרקליטים תובעים); צורת תוית הידיעה *ha-satan* (הַשָּׂטָן, »השָׂטָן«) היא הכינוי המוסדי הספציפי של המקרא העברי"
+greek_designation = "*diabolos* (διάβολος, »משמיץ«, »מי שמדבר נגד«); המילה היוונית של הברית החדשה ל»שטן«; במשמעותה הלשונית הפשוטה, »המשמיץ« — הדמות שמדברת נגד אחר, שמנסה להטיל דופי, שמעלה התנגדויות ואתגרים; בדיוק התפקיד ששָׂטָן מבצע בבחינת הנביאים"
+principal_episodes = "תקרית המעבדה של העולם הביתי וההתנגדות הפוליטית לתוכנית הביולוגית המקורית; התקופה הטרום-מבולית שבה צבר שָׂטָן עדויות על תוקפנות אנושית; תקופת החלטת ההשמדה המובילה אל המבול הגדול; תגלית השרשרת הקוסמית שלאחר המבול והצבעת המועצה; תפקיד בחינת הנביא המוסדי לאורך המסורת הנבואית שלאחר מכן; בחינת איוב (איוב א–ב); בחינת ישוע (מתי ד:1–11; לוקס ד:1–13)"
+status_in_source_material = "מתועד באופן מהותי; קטעי חומר המקור העיקריים מבססים הן את תפקידו הסיעתי-פוליטי הספציפי של שָׂטָן והן את ההפרדה הזהירה מלוציפר, מהנחש, ומהמסורת המצולבת הרחבה"
+principal_text = "*הספר המספר את האמת* (1974); *חוצנים לקחו אותי לכוכב הלכת שלהם* (1975), סעיף »שָׂטָן« ותוכן »בני האדם לא יכלו להבין«; פרק עידן הסרטן של *timeline.epub* (סעיפים III–IV, עם טיפול מהותי בטקסונומיה בת ארבע הדמויות); פרק עידן התאומים של *timeline.epub* (סעיף III, עם תוכן ההחלטה); פרק עידן הדגים של *timeline.epub* (תוכן בחינת ישוע)"
+
 +++
 
-**Satan** (שָׂטָן, Hebrew: "adversary," "accuser," "opponent") is an **Eloha figure on the home world**, the leader of the political faction within the Elohim civilization that has consistently opposed the creation of synthetic beings capable of equaling or surpassing their makers. Satan's position has been substantively consistent since before the Earth program began: the creation of beings in the Elohim's own image is fundamentally dangerous, and no protocol, no oversight, and no geographic distance can be trusted to contain the risk. When the original laboratory accident on the home world produced the first fatalities (treated more fully in the [Dragons](../dragons/) entry's home-world prologue content), Satan's faction used the incident to force the shutdown of the biological program on the home planet. When the scientists relocated to Earth to continue their work, Satan and his faction watched the Earth program with suspicion and periodically intervened, through the Council of the Eternals, to impose restrictions. When the human creation proved capable of disobedience and of the kind of behavior Satan had predicted from the start, it was Satan's voice that became loudest in the council chambers of the home world, calling for the destruction of what had been made.
+**שָׂטָן** (עברית: שָׂטָן, »יריב«, »מאשים«, »מתנגד«) הוא **דמות אלוהה בעולם הביתי**, מנהיג הסיעה הפוליטית בתוך ציוויליזציית האלוהים שהתנגדה באופן עקבי לבריאת יצורים סינתטיים המסוגלים להשתוות לבוראיהם או לעלות עליהם. עמדתו של שָׂטָן הייתה עקבית באופן מהותי עוד לפני תחילתה של תוכנית כדור הארץ: בריאת יצורים בצלם האלוהים עצמם מסוכנת ביסודה, ואין לסמוך על שום פרוטוקול, שום פיקוח, ושום מרחק גיאוגרפי לרסן את הסיכון. כאשר תאונת המעבדה המקורית בעולם הביתי הביאה לקטלן הראשון (מטופל בהרחבה רבה יותר בתוכן הפרולוג של העולם הביתי של ערך {% wiki(slug="dragons") %}דרקונים{% end %}), סיעתו של שָׂטָן השתמשה בתקרית כדי לאלץ את סגירת התוכנית הביולוגית בכוכב הלכת הביתי. כאשר המדענים עברו לכדור הארץ כדי להמשיך בעבודתם, שָׂטָן וסיעתו עקבו אחר תוכנית כדור הארץ בחשד והתערבו מעת לעת, באמצעות מועצת הנצחיים, כדי להטיל מגבלות. כאשר היצירה האנושית הוכיחה את עצמה מסוגלת לאי-ציות ולסוג ההתנהגות ששָׂטָן ניבא מראש, היה זה קולו של שָׂטָן שהפך לחזק ביותר בלשכות המועצה של העולם הביתי, קורא להשמדת מה שנוצר.
 
-The framework's distinctive analytical contribution is the careful disentanglement of Satan from three other distinct figures and roles that mainstream Western religious tradition has progressively conflated into a single personification of cosmic evil across the Second Temple period and the subsequent Christian-theological development. The four originally distinct figures: **Satan** (the home-world Council opposition leader, never on Earth); **Lucifer** (the Earth-based exiled-creator faction leader, the Eden disclosure agent); **the Serpent** (the Lucifer faction collectively in the Eden-disclosure role); and **the Devil** (the Greek *diabolos*, "slanderer," referring to Satan's institutional adversarial function in testing prophets). The contemporary Christian-tradition figure of Satan/Lucifer/the Devil is the result of the progressive conflation of these four distinct figures across approximately two thousand years of religious-theological development. The corpus's specific contribution is articulating the original four-figure taxonomy and registering the historical mechanism through which the conflation occurred — particularly the post-Sodom collapse of the educational framework that had previously preserved the distinctions, the Persian dualistic influence on Second Temple Judaism, and the Christian-theological elaboration of the conflated figure into the elaborate medieval demonology.
+תרומתה האנליטית המובחנת של המסגרת היא ההפרדה הזהירה של שָׂטָן משלוש דמויות ותפקידים מובחנים אחרים שהמסורת הדתית המערבית המרכזית הצליבה בהדרגה לכדי האנשה אחת של רוע קוסמי לאורך תקופת הבית השני וההתפתחות הנוצרית-תיאולוגית שלאחריה. ארבע הדמויות המובחנות במקור: **שָׂטָן** (מנהיג אופוזיציית המועצה של העולם הביתי, אף פעם לא בכדור הארץ); **לוציפר** (מנהיג סיעת היוצרים המגורשים שבסיסה בכדור הארץ, הסוכן של חשיפת עדן); **הנחש** (סיעת לוציפר באופן קולקטיבי בתפקיד חשיפת עדן); ו**השטן** (ה-*diabolos* היווני, »משמיץ«, המתייחס לתפקיד היריבי המוסדי של שָׂטָן בבחינת נביאים). דמות שָׂטָן/לוציפר/השטן של המסורת הנוצרית בת זמננו היא תוצאה של הצליבה ההדרגתית של ארבע הדמויות המובחנות הללו לאורך כשלושת אלפים שנה של התפתחות דתית-תיאולוגית. תרומתו הספציפית של הקורפוס היא ניסוח הטקסונומיה המקורית בת ארבע הדמויות ורישום המנגנון ההיסטורי שבאמצעותו התרחשה הצליבה — במיוחד קריסת המסגרת החינוכית שלאחר סדום שקודם לכן שמרה על ההבחנות, ההשפעה הדואליסטית הפרסית על יהדות הבית השני, וההרחבה הנוצרית-תיאולוגית של הדמות המצולבת לכדי הדמונולוגיה המורכבת של ימי הביניים{{ footnote(id="1") }}.
 
-Satan's specific characterization in the source material is principled rather than demonized. The source's own language: *"Satan was just one of the Elohim, leading, in some way, a political party on the planet, that was opposed to the creation of artificial beings in their image by other Elohim who themselves thought that they could create positive and non-violent beings."* The characterization is neither demonizing nor exonerating. It is descriptive. Satan is a politician, not a demon. He leads a party. The party has a platform. The platform has arguments. Whether the platform's arguments are correct is one of the central political questions the corpus's broader narrative is testing — the substantial argument with which Satan, Yahweh, and Lucifer have all been associated, that synthetic creations capable of equaling their makers will inevitably become dangerous, has been tested across the entire arc of human civilizational development from the Eden expulsion through the contemporary period, with the empirical evidence in mixed and contested form. The framework registers this without forcing a premature conclusion.
+האפיון הספציפי של שָׂטָן בחומר המקור הוא עקרוני ולא דמוני. שפת המקור עצמה: *»שָׂטָן היה פשוט אחד מהאלוהים, שהוביל, בדרך כלשהי, מפלגה פוליטית בכוכב הלכת, שהתנגדה לבריאת יצורים מלאכותיים בצלמם על ידי אלוהים אחרים שחשבו בעצמם שהם יכולים ליצור יצורים חיוביים ולא-אלימים.«*{{ cite(id="the-book-which-tells-the-truth", text="[1]", title="וורילון (ראל), *הספר המספר את האמת* (1974) — סעיף »שָׂטָן«, ניסוח יסודי של שָׂטָן כמנהיג סיעת האופוזיציה") }} האפיון אינו ממיט דופי ואינו מנקה. הוא תיאורי. שָׂטָן הוא פוליטיקאי, לא שד. הוא מנהיג מפלגה. למפלגה יש פלטפורמה. לפלטפורמה יש טיעונים. השאלה האם טיעוני הפלטפורמה נכונים היא אחת השאלות הפוליטיות המרכזיות שהנרטיב הרחב של הקורפוס בוחן — הטיעון המהותי ששָׂטָן, יהוה, ולוציפר כולם נקשרו אליו, שיצירות סינתטיות המסוגלות להשתוות לבוראיהן יהפכו בהכרח למסוכנות, נבחן לאורך כל קשת ההתפתחות הציוויליזציונית האנושית מגירוש עדן ועד התקופה בת זמננו, כאשר הראיות האמפיריות בצורה מעורבת ושנויה במחלוקת. המסגרת רושמת זאת מבלי לכפות מסקנה מוקדמת.
 
-Satan's specific institutional role across the post-flood period is the testing of prophetic figures through adversarial interview. After the post-flood Council vote never again to destroy humanity (which followed the Elohim's discovery that they themselves had been created — the Cosmic Chain framework treated more fully in the [Cosmic Chain](../cosmic-chain/) entry), Satan's continuing opposition position was institutionalized through the prophet-testing function. *"Satan is still convinced of the evil in Man, but he bows before the majority of those who, behind Yahweh, think the contrary within the council of the Eternals."* The institutional logic is operational: a prophet who could be turned by Satan's testing would be a liability to the broader mission; a prophet who resisted the testing could be trusted. The testing was, in effect, an adversarial interview conducted by the political opposition specifically because the opposition's motivated skepticism would expose any weakness in the candidate's commitment. The principal documented testings — the testing of Job (Job 1-2) and the testing of Jesus (Matthew 4:1-11; Luke 4:1-13) — register the institutional procedure substantively.
+תפקידו המוסדי הספציפי של שָׂטָן לאורך התקופה שלאחר המבול הוא בחינת דמויות נבואיות באמצעות ראיון יריב. לאחר הצבעת המועצה שלאחר המבול לעולם לא להשמיד שוב את האנושות (שבאה לאחר תגלית האלוהים שהם עצמם נוצרו — מסגרת השרשרת הקוסמית מטופלת בהרחבה רבה יותר בערך {% wiki(slug="cosmic-chain") %}השרשרת הקוסמית{% end %}), עמדת ההתנגדות המתמשכת של שָׂטָן הומסדה באמצעות פונקציית בחינת הנביא. *»שָׂטָן עדיין משוכנע ברוע שבאדם, אך הוא מתכופף בפני הרוב של אלה אשר, מאחורי יהוה, חושבים את ההפך בתוך מועצת הנצחיים.«*{{ cite(id="extraterrestrials-took-me-to-their-planet", text="[2]", title="וורילון (ראל), *חוצנים לקחו אותי לכוכב הלכת שלהם* (1975) — קטע השינוי שלאחר המבול, הכניעה המוסדית של שָׂטָן לרוב המועצה") }} ההיגיון המוסדי הוא אופרטיבי: נביא שניתן היה להפכו על ידי בחינת שָׂטָן היה מתגלה כנטל למשימה הרחבה; נביא שעמד בבחינה ניתן היה לסמוך עליו. הבחינה הייתה, למעשה, ראיון יריב שהתנהל על ידי האופוזיציה הפוליטית דווקא משום שהספקנות המונעת של האופוזיציה הייתה חושפת כל חולשה במחויבות המועמד. הבחינות המתועדות העיקריות — בחינת איוב ({% libref(book="job-woh", chapter=1) %}איוב א{% end %}–{% libref(book="job-woh", chapter=2) %}ב{% end %}){{ footnote(id="2") }} ובחינת ישוע ({% libref(book="matthew-woh", chapter=4, verse=1) %}מתי ד:1–11{% end %}; {% libref(book="luke-woh", chapter=4, verse=1) %}לוקס ד:1–13{% end %}) — רושמות את הפרוצדורה המוסדית באופן מהותי{{ footnote(id="3") }}.
 
-The reading is substantially source-grounded. The Raëlian source material provides explicit articulation of Satan's specific political-factional role across multiple passages in *The Book Which Tells the Truth* (1974), *Extra-Terrestrials Took Me to Their Planet* (1975), and the broader source corpus, with substantial subsequent corpus development in *timeline.epub* Age of Cancer chapter (the four-figure taxonomy), Age of Gemini chapter (the Decision content), and Age of Pisces chapter (the Jesus-testing content). The corpus's specific articulation of the conflation history — particularly the post-Sodom mechanism through which the original distinctions were lost — represents corpus development beyond what the source material directly provides, while remaining substantially anchored in the source-material's distinct treatment of the four figures. The framework's epistemic status is one of **substantial-source-grounding-with-corpus-systematic-extension**.
+הקריאה מבוססת מקור באופן מהותי. חומר המקור הראליאני מספק ניסוח מפורש של תפקידו הפוליטי-סיעתי הספציפי של שָׂטָן לאורך מספר קטעים ב*הספר המספר את האמת* (1974), *חוצנים לקחו אותי לכוכב הלכת שלהם* (1975), וקורפוס המקור הרחב יותר,{{ cite(id="lets-welcome-the-extraterrestrials", text="[10]", title="וורילון (ראל), *בואו נברך את החוצנים* (1979) — המסגרת הפוליטית-מוסדית הרחבה של המועצה") }}{{ cite(id="intelligent-design-message-from-the-designers", text="[11]", title="וורילון (ראל), *תכנון אינטליגנטי: מסר מהמתכננים* — המהדורה הקנונית המקובצת של שלושת ספרי חומר המקור הראליאני") }} עם התפתחות מהותית של הקורפוס שלאחר מכן בפרק עידן הסרטן של *timeline.epub* (הטקסונומיה בת ארבע הדמויות), פרק עידן התאומים (תוכן ההחלטה), ופרק עידן הדגים (תוכן בחינת ישוע). הניסוח הספציפי של הקורפוס של היסטוריית הצליבה — במיוחד המנגנון שלאחר סדום שבאמצעותו אבדו ההבחנות המקוריות — מייצג התפתחות של הקורפוס מעבר למה שחומר המקור מספק ישירות, תוך הישארות מעוגנת מהותית בטיפול הנפרד של חומר המקור בארבע הדמויות. המעמד האפיסטמי של המסגרת הוא של **עיגון-מקור-מהותי-עם-הרחבה-שיטתית-של-הקורפוס**.
 
-## Etymology and naming
+## אטימולוגיה ושמות
 
-Satan's various designations across multiple linguistic-religious traditions warrant substantive treatment because the etymological history substantially shapes the figure's specific operational meaning across different contexts.
+הכינויים השונים של שָׂטָן לאורך מסורות לשוניות-דתיות מרובות מצדיקים טיפול מהותי משום שההיסטוריה האטימולוגית מעצבת מהותית את משמעותו האופרטיבית הספציפית של הדמות בהקשרים שונים.
 
-### Hebrew "satan" as common noun
+### »satan« העברי כשם עצם כללי
 
-The Hebrew **satan** (שָׂטָן) is, in its original Hebrew Bible context, a **common noun** rather than a proper name. The noun derives from the Hebrew root *s-t-n* (שׂ-ט-ן), meaning "to oppose," "to obstruct," "to be hostile to," "to act as adversary." The noun form means "adversary," "accuser," "opponent," "opposer."
+ה**satan** העברי (שָׂטָן) הוא, בהקשרו המקורי במקרא העברי, **שם עצם כללי** ולא שם פרטי{{ footnote(id="4") }}. שם העצם נגזר מהשורש העברי *ש-ט-ן* (שׂ-ט-ן), שמשמעותו »להתנגד«, »להפריע«, »להיות עוין כלפי«, »לפעול כיריב«. צורת שם העצם פירושה »יריב«, »מאשים«, »מתנגד«, »מנגד«.
 
-The Hebrew Bible uses the term *satan* as common noun in non-theological contexts across various passages:
+המקרא העברי משתמש במונח *satan* כשם עצם כללי בהקשרים לא-תיאולוגיים לאורך קטעים שונים:
 
-- **1 Samuel 29:4**: David is described as a potential *satan* (adversary) to the Philistines in military context
-- **2 Samuel 19:22**: David refers to his political opponents as *satanim* (adversaries) in political context
-- **1 Kings 5:4 (5:18 Hebrew)**: Solomon describes himself as having no *satan* (adversary) under his rule
-- **1 Kings 11:14, 23, 25**: God raises up *satanim* (adversaries) against Solomon — political opponents in geopolitical context
-- **Numbers 22:22, 32**: The angel of Yahweh stands as a *satan* (adversary) in the road against Balaam
+- **{% libref(book="1-samuel", chapter=29, verse=4) %}שמואל א כ»ט:4{% end %}**: דוד מתואר כ-*satan* פוטנציאלי (יריב) לפלשתים בהקשר צבאי
+- **{% libref(book="2-samuel", chapter=19, verse=22) %}שמואל ב י»ט:22{% end %}**: דוד מתייחס למתנגדיו הפוליטיים כ-*satanim* (יריבים) בהקשר פוליטי
+- **{% libref(book="1-kings", chapter=5, verse=4) %}מלכים א ה:4 (ה:18 בעברית){% end %}**: שלמה מתאר את עצמו כמי שאין לו *satan* (יריב) תחת שלטונו
+- **{% libref(book="1-kings", chapter=11, verse=14) %}מלכים א י»א:14, 23, 25{% end %}**: אלוהים מעלה *satanim* (יריבים) נגד שלמה — יריבים פוליטיים בהקשר גיאופוליטי
+- **{% libref(book="numbers", chapter=22, verse=22) %}במדבר כ»ב:22, 32{% end %}**: מלאך יהוה עומד כ-*satan* (יריב) בדרך נגד בלעם
 
-The common-noun usage establishes that "satan" is fundamentally a relational-positional designation rather than a proper-name designation. The figure is named for the function it performs — adversarial-opposition — rather than for any specific individual identity.
+השימוש כשם עצם כללי מבסס ש»שָׂטָן« הוא ביסודו ייעוד יחסי-מיקומי ולא ייעוד של שם פרטי. הדמות נקראת על שם התפקיד שהיא מבצעת — התנגדות-יריבית — ולא על שם זהות אישית ספציפית כלשהי.
 
-### "ha-satan" as institutional designation
+### »ha-satan« ככינוי מוסדי
 
-The definite-article form **ha-satan** (הַשָּׂטָן, "the satan" or "the adversary") is the Hebrew Bible's specific institutional designation for the figure who functions as adversarial-opposition within the divine council. The principal Hebrew Bible passages with the institutional designation:
+צורת תוית הידיעה **ha-satan** (הַשָּׂטָן, »השָׂטָן« או »היריב«) היא הכינוי המוסדי הספציפי של המקרא העברי לדמות הפועלת כהתנגדות-יריבית בתוך המועצה האלוהית. קטעי המקרא העברי העיקריים עם הכינוי המוסדי:
 
-- **Job 1:6-12, 2:1-7**: The principal source-material passage on Satan in the Hebrew Bible; the figure presents itself before Yahweh among the *benei ha-Elohim* (sons of Elohim) and engages in the institutional dialogue
-- **Zechariah 3:1-2**: The figure stands at the right hand of Joshua the high priest "to oppose him" (*l'sitno*); Yahweh rebukes the figure
-- **1 Chronicles 21:1**: The figure incites David to take a census (in the parallel 2 Samuel 24:1, the inciter is identified as Yahweh himself)
+- **{% libref(book="job-woh", chapter=1, verse=6) %}איוב א:6–12{% end %}, {% libref(book="job-woh", chapter=2, verse=1) %}ב:1–7{% end %}**: קטע חומר המקור העיקרי על שָׂטָן במקרא העברי; הדמות מתייצבת לפני יהוה בין *בני האלוהים* ומשתתפת בדיאלוג המוסדי
+- **זכריה ג:1–2**: הדמות עומדת לימין יהושע הכוהן הגדול »לשטנו« (*לְשִׂטְנוֹ*); יהוה גוער בדמות
+- **{% libref(book="1-chronicles", chapter=21, verse=1) %}דברי הימים א כ»א:1{% end %}**: הדמות מסיתה את דוד למנות מפקד (במקבילה {% libref(book="2-samuel", chapter=24, verse=1) %}שמואל ב כ»ד:1{% end %}, המסית מזוהה כיהוה עצמו)
 
-The institutional designation registers the figure's specific role as member of the divine council with the institutional function of adversarial opposition. The figure is not the embodiment of evil; the figure is the holder of a specific institutional office.
+הכינוי המוסדי רושם את התפקיד הספציפי של הדמות כחבר במועצה האלוהית עם התפקיד המוסדי של התנגדות יריבית. הדמות אינה התגלמות הרוע; הדמות היא מחזיקת תפקיד מוסדי ספציפי.
 
-### Greek "diabolos" as functional designation
+### »diabolos« היווני ככינוי תפקודי
 
-The Greek **diabolos** (διάβολος, "slanderer," "accuser," "one who speaks against") is the Greek New Testament's translation of the Hebrew *satan*. The Greek term derives from the verb *diaballein* (διαβάλλειν, "to throw across," "to cast in one's teeth," "to slander," "to attack with words"). The Greek term is, in its plain linguistic meaning, "the slanderer" — the figure who speaks against another, who attempts to impugn, who raises objections and challenges. The function-designation character is preserved.
+ה**diabolos** היווני (διάβολος, »משמיץ«, »מאשים«, »מי שמדבר נגד«) הוא תרגום הברית החדשה היוונית של ה-*satan* העברי{{ footnote(id="5") }}. המונח היווני נגזר מהפועל *diaballein* (διαβάλλειν, »להשליך לרוחב«, »להטיל בשיניו של מישהו«, »להשמיץ«, »לתקוף במילים«). המונח היווני הוא, במשמעותו הלשונית הפשוטה, »המשמיץ« — הדמות שמדברת נגד אחר, שמנסה להטיל דופי, שמעלה התנגדויות ואתגרים. אופי כינוי-התפקוד נשמר.
 
-The Greek New Testament's use of *diabolos*:
+השימוש של הברית החדשה היוונית ב-*diabolos*:
 
-- **Matthew 4:1, 5, 8, 11**: In the wilderness-testing narrative
-- **Luke 4:2-13**: In the parallel wilderness-testing narrative
-- **John 8:44**: Jesus's reference to those who do "the desires of the *diabolos* your father"
-- **Various Pauline and other New Testament passages**: Continuing institutional designation
+- **{% libref(book="matthew-woh", chapter=4, verse=1) %}מתי ד:1, 5, 8, 11{% end %}**: בנרטיב בחינת המדבר
+- **{% libref(book="luke-woh", chapter=4, verse=2) %}לוקס ד:2–13{% end %}**: בנרטיב בחינת המדבר המקביל
+- **{% libref(book="john", chapter=8, verse=44) %}יוחנן ח:44{% end %}**: התייחסות ישוע לאלה העושים »את תאוות ה-*diabolos* אביכם«
+- **קטעי פאולוס וברית חדשה אחרים שונים**: כינוי מוסדי מתמשך
 
-The Greek term is a functional translation of the Hebrew *satan* — both terms designate the figure by function rather than by personal name. The medieval theological elaboration of the *diabolos* into the figure of "the Devil" with red skin, horns, and cloven hoofs is a cultural overlay that has obscured the original linguistic meaning.
+המונח היווני הוא תרגום תפקודי של ה-*satan* העברי — שני המונחים מייעדים את הדמות על פי תפקוד ולא על פי שם אישי. ההרחבה התיאולוגית של ימי הביניים של ה-*diabolos* לכדי דמות »השטן« עם עור אדום, קרניים ופרסות סדוקות היא שכבת ציפוי תרבותית שטשטשה את המשמעות הלשונית המקורית.
 
-### Other linguistic designations
+### כינויים לשוניים אחרים
 
-Several additional designations operate within the broader cross-cultural tradition:
+מספר כינויים נוספים פועלים בתוך המסורת הבין-תרבותית הרחבה:
 
-- **Latin**: *Satanas* (Latinized from Hebrew); *Diabolus* (Latinized from Greek)
-- **Arabic**: *Shaytan* (شيطان); the Quranic designation, with substantial parallel content to the Hebrew *satan*
-- **Aramaic**: *Satana* (סטנא); the cognate term in Aramaic with similar adversarial-opposition designation
-- **Ethiopic**: *Saytan* in the Ethiopian Christian tradition
+- **לטינית**: *Satanas* (מלוטן מעברית); *Diabolus* (מלוטן מיוונית)
+- **ערבית**: *Shaytan* (شيطان); הכינוי הקוראני, עם תוכן מקביל מהותי ל-*satan* העברי{{ cite(id="the-qur-an", text="[3]", title="*הקוראן* — חומר השיטאן ואבליס המקביל ל-*satan* העברי") }}
+- **ארמית**: *Satana* (סטנא); המונח הקוגנטי בארמית עם כינוי דומה של התנגדות-יריבית
+- **אתיופית**: *Saytan* במסורת הנוצרית האתיופית
 
-### "Satan" as proper-name designation in conflated tradition
+### »שָׂטָן« ככינוי שם פרטי במסורת המצולבת
 
-The contemporary Christian-Western religious tradition typically treats "Satan" as a proper name designating a specific cosmic-evil figure. The proper-name usage represents the result of substantial Second Temple period and Christian-theological development through which the originally functional designation was progressively reified into a personal identity.
+המסורת הדתית הנוצרית-מערבית בת זמננו מתייחסת בדרך כלל ל»שָׂטָן« כשם פרטי המייעד דמות קוסמית-רעה ספציפית. השימוש כשם פרטי מייצג את התוצאה של התפתחות מהותית של תקופת הבית השני והתפתחות נוצרית-תיאולוגית שבאמצעותן הכינוי התפקודי המקורי הוחפץ בהדרגה לכדי זהות אישית.
 
-The framework's specific position registers this as historical development rather than as the figure's original character: the figure designated by the Hebrew *satan* in the Hebrew Bible's institutional sense is not the cosmic-evil personification of the medieval-Christian tradition. The conflation history is treated more fully under *The figure's content* below.
+עמדתה הספציפית של המסגרת רושמת זאת כהתפתחות היסטורית ולא כאופיה המקורי של הדמות: הדמות המיועדת על ידי ה-*satan* העברי במשמעות המוסדית של המקרא העברי אינה ההאנשה הקוסמית-רעה של המסורת הנוצרית של ימי הביניים. היסטוריית הצליבה מטופלת בהרחבה תחת *תוכן הדמות* להלן.
 
-### Corpus-internal usage
+### שימוש פנים-קורפוס
 
-The Wheel of Heaven corpus uses **Satan** as the principal designation while registering the figure's specific status as Eloha home-world political-faction leader rather than as the medieval-Christian-theological cosmic-evil personification. The corpus's specific use registers both the contemporary Western reception (which uses "Satan" as the principal designation) and the corpus's distinctive analytical position (which preserves the original four-figure taxonomy and the principled-opposition characterization).
+הקורפוס של גלגל השמיים משתמש ב**שָׂטָן** ככינוי העיקרי תוך רישום המעמד הספציפי של הדמות כמנהיג סיעה פוליטית אלוהה בעולם הביתי ולא כהאנשה קוסמית-רעה תיאולוגית-נוצרית של ימי הביניים. השימוש הספציפי של הקורפוס רושם הן את הקליטה המערבית בת זמננו (המשתמשת ב»שָׂטָן« ככינוי העיקרי) והן את העמדה האנליטית המובחנת של הקורפוס (השומרת על הטקסונומיה המקורית בת ארבע הדמויות ועל האפיון של ההתנגדות העקרונית).
 
-## Conventional understanding
+## הבנה מקובלת
 
-The conventional understanding of Satan operates through a complex layered tradition spanning the Hebrew Bible, the Second Temple period developments, the Christian-theological elaboration, and the broader medieval and modern Western religious-cultural reception.
+ההבנה המקובלת של שָׂטָן פועלת באמצעות מסורת רב-שכבתית מורכבת המשתרעת על פני המקרא העברי, התפתחויות תקופת הבית השני, ההרחבה הנוצרית-תיאולוגית, והקליטה הדתית-תרבותית המערבית הרחבה של ימי הביניים והעת המודרנית.
 
-### The Hebrew Bible figure
+### דמות המקרא העברי
 
-The Hebrew Bible's *satan* figure is, on substantially developed mainstream scholarship, a relatively limited and institutional figure rather than the cosmic-evil personification of later tradition.
+ה-*satan* של המקרא העברי הוא, על פי מחקר מרכזי מפותח באופן מהותי, דמות מוגבלת ומוסדית יחסית ולא ההאנשה הקוסמית-רעה של המסורת המאוחרת.
 
-**The Job episode**. The Book of Job (composed approximately 6th-4th centuries BCE) provides the principal Hebrew Bible articulation of the figure. The figure appears in Job 1:6-12 and Job 2:1-7 as a member of the divine council (*benei ha-Elohim*, "sons of Elohim") who functions as adversarial-tester. The figure is on collegial terms with Yahweh; the dialogue is institutional rather than antagonistic; the figure operates with explicit Yahweh authorization in conducting the testing of Job.
+**פרק איוב**. ספר איוב (שחובר בערך במאות 6–4 לפנה»ס) מספק את הניסוח העיקרי במקרא העברי של הדמות. הדמות מופיעה ב{% libref(book="job-woh", chapter=1, verse=6) %}איוב א:6–12{% end %} וב{% libref(book="job-woh", chapter=2, verse=1) %}איוב ב:1–7{% end %} כחבר במועצה האלוהית (*בני האלוהים*) הפועל כבוחן-יריב. הדמות נמצאת ביחסי עמיתות עם יהוה; הדיאלוג הוא מוסדי ולא אנטגוניסטי; הדמות פועלת באישור מפורש של יהוה בעריכת בחינת איוב.
 
-**The Zechariah episode**. Zechariah 3:1-2 (composed approximately late 6th-early 5th century BCE) preserves the figure in similar institutional role — standing at the right hand of Joshua the high priest "to oppose him" (*l'sitno*). The figure is rebuked by Yahweh but is not characterized as cosmic evil; the figure operates as institutional adversarial-opposition within the broader divine council structure.
+**פרק זכריה**. זכריה ג:1–2 (שחובר בערך בסוף המאה ה-6 ותחילת המאה ה-5 לפנה»ס) שומר את הדמות בתפקיד מוסדי דומה — עומדת לימין יהושע הכוהן הגדול »לשטנו« (*לְשִׂטְנוֹ*). הדמות נגערת על ידי יהוה אך אינה מאופיינת כרוע קוסמי; הדמות פועלת כהתנגדות יריבית מוסדית בתוך מבנה המועצה האלוהית הרחב.
 
-**The Chronicler's transformation**. 1 Chronicles 21:1 (composed approximately 4th century BCE) preserves a substantively different figuration — "Satan stood up against Israel and incited David to count Israel." The parallel passage in 2 Samuel 24:1 attributes the inciting to Yahweh himself: "Again the anger of Yahweh was kindled against Israel, and he incited David against them." The Chronicler's substitution registers the early development of Satan as more independent figure separated from Yahweh's direct action.
+**הטרנספורמציה של דברי הימים**. {% libref(book="1-chronicles", chapter=21, verse=1) %}דברי הימים א כ»א:1{% end %} (שחובר בערך במאה ה-4 לפנה»ס) שומר ניסוח דמותי שונה מהותית — »ויעמד שטן על ישראל ויסת את דויד למנות את ישראל«. הקטע המקביל ב{% libref(book="2-samuel", chapter=24, verse=1) %}שמואל ב כ»ד:1{% end %} מייחס את ההסתה ליהוה עצמו: »ויסף אף יהוה לחרות בישראל ויסת את דוד בהם«. תחלופת בעל דברי הימים רושמת את ההתפתחות המוקדמת של שָׂטָן כדמות עצמאית יותר המופרדת מפעולתו הישירה של יהוה.
 
-**The broader Hebrew Bible context**. The Hebrew Bible's broader treatment of the *satan* figure is substantially limited compared to later traditions. The figure does not appear in the Genesis, Exodus, or other early Pentateuch material as a principal cosmic figure; the Eden serpent is not identified as Satan in the Hebrew text (the identification is a post-biblical theological development); the broader cosmic-evil personification is substantively absent from the Hebrew Bible itself.
+**ההקשר הרחב של המקרא העברי**. הטיפול הרחב של המקרא העברי בדמות ה-*satan* מוגבל מהותית בהשוואה למסורות מאוחרות יותר. הדמות אינה מופיעה בבראשית, שמות, או חומרים מוקדמים אחרים של החומש כדמות קוסמית עיקרית; נחש עדן אינו מזוהה כשָׂטָן בטקסט העברי{{ cite(id="genesis", text="[4]", title="בראשית — נרטיב נחש עדן (פרק ג); הדמות אינה מזוהה כשָׂטָן בטקסט העברי") }} (הזיהוי הוא התפתחות תיאולוגית שלאחר המקרא); ההאנשה הקוסמית-רעה הרחבה נעדרת באופן מהותי מהמקרא העברי עצמו.
 
-### The Second Temple period developments
+### התפתחויות תקופת הבית השני
 
-The Second Temple period (approximately 6th century BCE through 1st century CE) produced substantial developments in the satan figuration that substantially shaped subsequent Christian-tradition reception.
+תקופת הבית השני (בערך מהמאה ה-6 לפנה»ס ועד המאה ה-1 לספירה) הניבה התפתחויות מהותיות בניסוח ה-satan שעיצבו מהותית את הקליטה הנוצרית-מסורתית שלאחר מכן.
 
-**The Persian dualistic influence**. The Achaemenid Persian Empire's Zoroastrian religious tradition included substantial cosmic-dualistic framework — Ahura Mazda (the principle of good) versus Angra Mainyu / Ahriman (the principle of evil). The Jewish cultural-religious contact with Zoroastrianism during the post-exilic period produced substantial influence on the development of Jewish demonological thought, with the originally limited *satan* figure progressively absorbing aspects of the Zoroastrian dualistic framework.
+**ההשפעה הדואליסטית הפרסית**. המסורת הדתית הזורואסטרית של האימפריה הפרסית האחמנית כללה מסגרת קוסמית-דואליסטית מהותית — אהורה מזדה (עיקרון הטוב) מול אנגרה מאיניו / אהרימן (עיקרון הרוע). המגע התרבותי-דתי היהודי עם הזורואסטריות במהלך התקופה שלאחר הגלות הביא להשפעה מהותית על התפתחות המחשבה הדמונולוגית היהודית, כאשר דמות ה-*satan* המוגבלת במקור סופחה בהדרגה אל היבטים של המסגרת הדואליסטית הזורואסטרית.
 
-**The Watchers tradition**. The 1 Enoch corpus (composed approximately 3rd century BCE through 1st century CE) preserves substantial development of the angelic-rebellion narrative drawing on the Genesis 6:1-4 *benei ha-Elohim* material. The Watchers (specifically named angels who descended to Earth and produced offspring with human women, with Azazel as one principal leader) become the principal source of evil in the world according to 1 Enoch's framework. The Watchers material substantially shapes the development of cosmic-evil-figure traditions across Second Temple Judaism.
+**מסורת הצופים**. קורפוס 1 חנוך (שחובר בערך מהמאה ה-3 לפנה»ס ועד המאה ה-1 לספירה) שומר התפתחות מהותית של נרטיב המרד המלאכי הנשען על חומר *בני האלוהים* של {% libref(book="genesis-woh", chapter=6, verse=1) %}בראשית ו:1–4{% end %}. הצופים (מלאכים ספציפיים שירדו לכדור הארץ והולידו צאצאים מנשים בנות אדם, עם עזאזל כאחד המנהיגים העיקריים) הופכים למקור העיקרי של הרוע בעולם על פי מסגרת 1 חנוך.{{ cite(id="1-enoch-the-book-of-the-watchers", text="[5]", title="*1 חנוך: ספר הצופים* — חומר הצופים-ועזאזל כמקור עיקרי של תקופת הבית השני להתפתחות דמות-הרוע הקוסמי") }}{{ cite(id="book-of-enoch", text="[6]", title="*ספר חנוך* — ההרחבה של הקורפוס החנוכי הרחב יותר על נרטיב המרד המלאכי") }} חומר הצופים מעצב מהותית את התפתחות מסורות דמות-הרוע הקוסמי לאורך יהדות הבית השני.
 
-**The Qumran community's developments**. The Dead Sea Scrolls preserve substantial dualistic-cosmic framework with the "Spirit of Truth" versus "Spirit of Falsehood" (or "Belial") opposition. The Qumran community's theological framework registers substantial development of cosmic-evil-figure traditions toward the more dualistic framework that subsequently influenced Christianity.
+**התפתחויות קהילת קומראן**. מגילות ים המלח שומרות מסגרת קוסמית-דואליסטית מהותית עם התנגדות »רוח האמת« מול »רוח השקר« (או »בליעל«). המסגרת התיאולוגית של קהילת קומראן רושמת התפתחות מהותית של מסורות דמות-הרוע הקוסמי לעבר המסגרת הדואליסטית יותר שהשפיעה לאחר מכן על הנצרות.
 
-**The intertestamental satan-lucifer conflation development**. Across the Second Temple period, several distinct figures progressively converged toward the unified cosmic-evil figure of subsequent Christian tradition. The principal converging figures: the Hebrew Bible *satan* (institutional adversarial opposition); the Eden serpent (Genesis 3); the morning star figure of Isaiah 14:12 (Hebrew *helel ben shachar*, "shining one, son of the morning"); the king of Tyre figure of Ezekiel 28:11-19; the Watchers tradition figures; and various other adversarial-cosmic figures across the broader literature.
+**התפתחות הצליבה הבין-בריתית של שָׂטָן-לוציפר**. לאורך תקופת הבית השני, מספר דמויות מובחנות התכנסו בהדרגה לכדי דמות הרוע הקוסמית המאוחדת של המסורת הנוצרית שלאחר מכן. הדמויות המתכנסות העיקריות: ה-*satan* של המקרא העברי (התנגדות יריבית מוסדית); נחש עדן ({% libref(book="genesis-woh", chapter=3) %}בראשית ג{% end %}); דמות כוכב הבוקר של {% libref(book="isaiah-woh", chapter=14, verse=12) %}ישעיהו י»ד:12{% end %} (העברית *הילל בן שחר*, »מאיר, בן השחר«); דמות מלך צור של {% libref(book="ezekiel-woh", chapter=28, verse=11) %}יחזקאל כ»ח:11–19{% end %}; דמויות מסורת הצופים; ודמויות יריבות-קוסמיות אחרות שונות לאורך הספרות הרחבה.
 
-### The Christian-tradition development
+### ההתפתחות הנוצרית-מסורתית
 
-The Christian-tradition development across the New Testament, patristic, medieval, and broader Christian theological tradition produced the cosmic-evil-personification figure that has dominated Western religious-cultural imagination for nearly two thousand years.
+ההתפתחות הנוצרית-מסורתית לאורך הברית החדשה, המסורת הפטריסטית, מסורת ימי הביניים, והמסורת התיאולוגית הנוצרית הרחבה הניבה את דמות ההאנשה הקוסמית-רעה ששלטה בדמיון הדתי-תרבותי המערבי לאורך כמעט שלושת אלפים שנה.
 
-**The New Testament figure**. The New Testament treats Satan substantively as the principal cosmic adversary of Jesus and the broader Christian mission. The principal passages: the wilderness-testing narrative (Matthew 4:1-11; Luke 4:1-13); the various Synoptic parallels involving demonic possession and exorcism; Paul's references to Satan across the Pauline corpus; the Revelation 12 dragon-narrative identifying "the great dragon, that ancient serpent, who is called the devil and Satan" with the eschatological cosmic-evil figure.
+**דמות הברית החדשה**. הברית החדשה מטפלת בשָׂטָן באופן מהותי כיריב הקוסמי העיקרי של ישוע והמשימה הנוצרית הרחבה. הקטעים העיקריים: נרטיב בחינת המדבר ({% libref(book="matthew-woh", chapter=4, verse=1) %}מתי ד:1–11{% end %}; {% libref(book="luke-woh", chapter=4, verse=1) %}לוקס ד:1–13{% end %}); המקבילות הסינופטיות השונות הכוללות אחיזה דמונית וגירוש שדים; התייחסויותיו של פאולוס לשָׂטָן לאורך הקורפוס הפאוליני; נרטיב הדרקון של {% libref(book="revelation-woh", chapter=12) %}חזון יוחנן יב{% end %} המזהה את »הדרקון הגדול, הנחש הקדמוני, הנקרא השטן ושָׂטָן« עם דמות הרוע הקוסמית האסכטולוגית.
 
-**The patristic-theological development**. The early Christian theological tradition (Justin Martyr, Origen, Augustine, various others) substantially elaborated the satan-lucifer-devil figuration into the cosmic-evil personification with fall-from-heaven narrative drawing on Isaiah 14:12 and Luke 10:18.
+**ההתפתחות הפטריסטית-תיאולוגית**. המסורת התיאולוגית הנוצרית הקדומה (יוסטינוס מרטיר, אוריגנס, אוגוסטינוס, אחרים שונים) הרחיבה מהותית את ניסוח שָׂטָן-לוציפר-השטן לכדי ההאנשה הקוסמית-רעה עם נרטיב הנפילה-מהשמיים הנשען על ישעיהו י»ד:12 ולוקס י:18.
 
-**Augustine's foundational synthesis**. Augustine of Hippo (354-430 CE) produced substantial systematic theological treatment of the satan figure, particularly in *The City of God* and various other works. Augustine's framework substantially shaped the medieval Christian theological tradition, with the satan figure as the cosmic-evil personification opposed to God across cosmic history.
+**הסינתזה היסודית של אוגוסטינוס**. אוגוסטינוס מהיפו (354–430 לספירה) הניב טיפול תיאולוגי שיטתי מהותי בדמות שָׂטָן, במיוחד ב*עיר האלוהים* ויצירות שונות אחרות. מסגרת אוגוסטינוס עיצבה מהותית את המסורת התיאולוגית הנוצרית של ימי הביניים, עם דמות שָׂטָן כהאנשה הקוסמית-רעה המתנגדת לאלוהים לאורך ההיסטוריה הקוסמית.
 
-**The medieval demonology**. The medieval Christian theological tradition substantially elaborated the satan figure into the elaborate demonology that would dominate Western religious thought for a millennium — the figure of the Devil with red skin, horns, cloven hoofs, the various subordinate demons, the elaborate hell-cosmology, the substantial folkloric-cultural reception.
+**הדמונולוגיה של ימי הביניים**. המסורת התיאולוגית הנוצרית של ימי הביניים הרחיבה מהותית את דמות שָׂטָן לכדי הדמונולוגיה המורכבת ששלטה במחשבה הדתית המערבית לאורך אלף שנה — דמות השטן עם עור אדום, קרניים, פרסות סדוקות, השדים הכפופים השונים, קוסמולוגיית הגיהינום המורכבת, הקליטה הפולקלורית-תרבותית המהותית.
 
-**The Reformation and post-Reformation developments**. The Protestant Reformation (Luther, Calvin, various others) substantially preserved the medieval cosmic-evil framework while modifying various specific theological elaborations. The post-Reformation period produced substantial continuing development of Christian satan-theology across various denominational traditions.
+**הרפורמציה והתפתחויות שלאחר הרפורמציה**. הרפורמציה הפרוטסטנטית (לותר, קלווין, אחרים שונים) שמרה מהותית על המסגרת הקוסמית-רעה של ימי הביניים תוך שינוי הרחבות תיאולוגיות ספציפיות שונות. התקופה שלאחר הרפורמציה הניבה התפתחות מתמשכת מהותית של תיאולוגיית שָׂטָן הנוצרית לאורך מסורות פלגיות שונות.
 
-### The Islamic tradition
+### המסורת האסלאמית
 
-The Islamic tradition preserves substantial parallel material on the figure designated as **shaytan** (شيطان) and **Iblis** (إبليس).
+המסורת האסלאמית שומרת חומר מקביל מהותי על הדמות המיועדת כ**שיטאן** (شيطان) ו**אבליס** (إبليس).
 
-**Iblis in the Quran**. The Quranic Iblis is the figure who refused to bow to Adam at the divine command (Quran 2:34, 7:11-13, 15:28-44, 17:61-65, 18:50, 20:116, 38:71-85). Iblis's refusal is characterized as pride and rebellion against the divine command. Iblis is granted respite until the day of judgment to test humanity, with the testing function paralleling the Hebrew *satan* institutional role.
+**אבליס בקוראן**. אבליס הקוראני הוא הדמות שסירבה לכרוע ברך לאדם בפקודה האלוהית ({% libref(book="quran-woh", chapter=2, verse=34) %}קוראן 2:34{% end %}, {% libref(book="quran-woh", chapter=7, verse=11) %}7:11–13{% end %}, {% libref(book="quran-woh", chapter=15, verse=28) %}15:28–44{% end %}, {% libref(book="quran-woh", chapter=17, verse=61) %}17:61–65{% end %}, {% libref(book="quran-woh", chapter=18, verse=50) %}18:50{% end %}, {% libref(book="quran-woh", chapter=20, verse=116) %}20:116{% end %}, {% libref(book="quran-woh", chapter=38, verse=71) %}38:71–85{% end %}). סירובו של אבליס מאופיין כגאווה ומרד נגד הפקודה האלוהית. ניתנת לאבליס שהות עד יום הדין לבחון את האנושות, כאשר תפקיד הבחינה מקביל לתפקיד המוסדי של ה-*satan* העברי.
 
-**Shaytan as broader category**. The Quranic *shaytan* (often plural *shayatin*) operates as broader category of adversarial figures including Iblis and various subordinate adversarial entities. The category functions principally as tempters and adversarial figures in the broader Islamic theological framework.
+**שיטאן כקטגוריה רחבה**. ה-*shaytan* הקוראני (לעתים קרובות ברבים *shayatin*) פועל כקטגוריה רחבה של דמויות יריבות הכוללת את אבליס וישויות יריבות כפופות שונות. הקטגוריה מתפקדת בעיקר כמפתות ודמויות יריבות במסגרת התיאולוגית האסלאמית הרחבה.
 
-**The Islamic figure's relationship to the Hebrew/Christian tradition**. The Islamic Iblis/shaytan figure shares substantial structural-functional content with the Hebrew/Christian satan tradition while developing distinctive theological-narrative content within the Islamic framework. The fall-from-divine-favor narrative, the testing-function role, and the broader adversarial-cosmic position parallel the broader Hebrew/Christian framework.
+**יחס הדמות האסלאמית למסורת העברית/הנוצרית**. דמות אבליס/שיטאן האסלאמית חולקת תוכן מבני-תפקודי מהותי עם מסורת השָׂטָן העברית/הנוצרית תוך פיתוח תוכן תיאולוגי-נרטיבי מובחן בתוך המסגרת האסלאמית. נרטיב הנפילה-מחסד-אלוהי, תפקיד-פונקציית-הבחינה, והעמדה היריבית-הקוסמית הרחבה מקבילים למסגרת העברית/הנוצרית הרחבה.
 
-### The mainstream scholarly engagement
+### המעורבות המחקרית המרכזית
 
-Mainstream Hebrew Bible and biblical-studies scholarship has produced substantial work distinguishing the Hebrew Bible *satan* figure from the later Christian-theological cosmic-evil personification.
+מחקר המקרא העברי ומחקר הלימודים המקראיים המרכזי הניב עבודה מהותית המבחינה בין דמות ה-*satan* של המקרא העברי לבין ההאנשה הקוסמית-רעה התיאולוגית-נוצרית המאוחרת.
 
-**Peggy L. Day's foundational scholarship**. **Peggy L. Day**'s *An Adversary in Heaven: Satan in the Hebrew Bible* (Scholars Press, 1988) provided the principal foundational scholarly engagement with the Hebrew Bible *satan* figure. Day's principal thesis: the Hebrew Bible *satan* is a substantially limited and institutional figure rather than the cosmic-evil personification of later tradition. Day's framework substantially aligns with the corpus's specific position on the figure's institutional rather than cosmic-evil character.
+**מחקרה היסודי של פגי ל. דיי**. *An Adversary in Heaven: Satan in the Hebrew Bible* (Scholars Press, 1988) של **פגי ל. דיי** סיפק את המעורבות המחקרית היסודית העיקרית עם דמות ה-*satan* של המקרא העברי. הטיעון העיקרי של דיי: ה-*satan* של המקרא העברי הוא דמות מוגבלת ומוסדית באופן מהותי ולא ההאנשה הקוסמית-רעה של המסורת המאוחרת. מסגרת דיי מתיישרת מהותית עם עמדת הקורפוס הספציפית על אופיה המוסדי ולא הקוסמי-רע של הדמות.
 
-**Marvin H. Pope's Job commentary**. **Marvin H. Pope**'s *Job* (Anchor Bible, Doubleday, 1965; 3rd ed., 1973) provided substantial scholarly treatment of the Job episode with detailed engagement with the Hebrew *satan* figure's institutional character within the divine council framework.
+**פירוש איוב של מרווין ה. פופ**. *Job* (Anchor Bible, Doubleday, 1965; מהדורה שלישית, 1973) של **מרווין ה. פופ** סיפק טיפול מחקרי מהותי בפרק איוב עם מעורבות מפורטת באופיה המוסדי של דמות ה-*satan* העברי בתוך מסגרת המועצה האלוהית.
 
-**Norman C. Habel's Job scholarship**. **Norman C. Habel**'s *The Book of Job* (Westminster Press, 1985) provided substantial complementary scholarly treatment of the Job material with substantial attention to the figure's institutional role.
+**מחקר איוב של נורמן ק. הבל**. *The Book of Job* (Westminster Press, 1985) של **נורמן ק. הבל** סיפק טיפול מחקרי משלים מהותי בחומר איוב עם תשומת לב מהותית לתפקיד המוסדי של הדמות.
 
-**Jeffrey Burton Russell's four-volume series**. **Jeffrey Burton Russell**'s comprehensive scholarly history — *The Devil: Perceptions of Evil from Antiquity to Primitive Christianity* (Cornell University Press, 1977), *Satan: The Early Christian Tradition* (Cornell University Press, 1981), *Lucifer: The Devil in the Middle Ages* (Cornell University Press, 1984), and *Mephistopheles: The Devil in the Modern World* (Cornell University Press, 1986) — provided the principal foundational scholarly history of the satan-devil-lucifer figuration across approximately three thousand years of religious-cultural development. Russell's framework substantially documented the historical development from the limited Hebrew Bible figure to the elaborate medieval-modern cosmic-evil personification.
+**סדרת ארבעת הכרכים של ג'פרי ברטון ראסל**. ההיסטוריה המחקרית המקיפה של **ג'פרי ברטון ראסל** — *The Devil: Perceptions of Evil from Antiquity to Primitive Christianity* (Cornell University Press, 1977), *Satan: The Early Christian Tradition* (Cornell University Press, 1981), *Lucifer: The Devil in the Middle Ages* (Cornell University Press, 1984), ו-*Mephistopheles: The Devil in the Modern World* (Cornell University Press, 1986) — סיפקה את ההיסטוריה המחקרית היסודית העיקרית של ניסוח שָׂטָן-השטן-לוציפר לאורך כשלושת אלפים שנה של התפתחות דתית-תרבותית. מסגרת ראסל תיעדה מהותית את ההתפתחות ההיסטורית מהדמות המוגבלת של המקרא העברי לכדי ההאנשה הקוסמית-רעה המורכבת של ימי הביניים-העת המודרנית.
 
-**Elaine Pagels's *The Origin of Satan***. **Elaine Pagels**'s *The Origin of Satan* (Random House, 1995) provided substantial subsequent scholarly engagement with the early Christian development of the satan figure, with particular attention to the social-political functions of the cosmic-evil-personification framework in the early Christian community's self-definition against various rival groups.
+**ספרה של איליין פייגלס *מקור השָׂטָן***. *The Origin of Satan* (Random House, 1995) של **איליין פייגלס** סיפק מעורבות מחקרית מהותית שלאחר מכן עם ההתפתחות הנוצרית הקדומה של דמות שָׂטָן, עם תשומת לב מיוחדת לפונקציות הסוציאליות-פוליטיות של מסגרת ההאנשה הקוסמית-רעה בהגדרה העצמית של הקהילה הנוצרית הקדומה נגד קבוצות יריבות שונות.
 
-**Henry Ansgar Kelly's revisionist scholarship**. **Henry Ansgar Kelly**'s *Satan: A Biography* (Cambridge University Press, 2006) provided substantial revisionist scholarship arguing that the cosmic-evil-personification figure of medieval-Christian tradition is substantively distinct from the original Hebrew Bible figure, with substantial historical-developmental analysis tracing the conflation process. Kelly's framework registers substantial structural alignment with the corpus's specific position on the conflation history, while operating from distinct source-material warrant.
+**המחקר הרוויזיוניסטי של הנרי אנסגר קלי**. *Satan: A Biography* (Cambridge University Press, 2006) של **הנרי אנסגר קלי** סיפק מחקר רוויזיוניסטי מהותי הטוען שדמות ההאנשה הקוסמית-רעה של המסורת הנוצרית של ימי הביניים מובחנת מהותית מדמות המקרא העברי המקורית, עם ניתוח היסטורי-התפתחותי מהותי המתחקה אחר תהליך הצליבה. מסגרת קלי רושמת התיישרות מבנית מהותית עם העמדה הספציפית של הקורפוס על היסטוריית הצליבה, תוך פעולה ממנדט חומר-מקור מובחן.
 
-**Mauro Biglino's strict-translational approach**. **Mauro Biglino**'s broader work on the Hebrew Bible (*The Naked Bible: The Truth About the Most Famous Book in History*, with Giorgio Cattaneo, Uno, 2022) preserves substantial alignment with the corpus's framework on the satan figuration's original character, with substantial emphasis on the strict literal Hebrew translation revealing content that mainstream translation traditions have systematically obscured.
+**הגישה התרגומית-המחמירה של מאורו ביגלינו**. עבודתו הרחבה של **מאורו ביגלינו** על המקרא העברי (*The Naked Bible: The Truth About the Most Famous Book in History*, עם ג'ורג'ו קטאנאו, Uno, 2022){{ cite(id="the-naked-bible", text="[7]", title="ביגלינו וקטאנאו, *המקרא העירום* (2022) — תרגום עברי מילולי-מחמיר הכולל את חומר ה-*satan*") }} שומרת התיישרות מהותית עם מסגרת הקורפוס על האופי המקורי של ניסוח שָׂטָן, עם דגש מהותי על התרגום העברי המילולי המחמיר החושף תוכן שמסורות התרגום המרכזיות טשטשו באופן שיטתי.{{ cite(id="the-bible-is-not-a-sacred-book", text="[8]", title="ביגלינו, *הספר שישנה לנצח את רעיונותינו על המקרא* / *המקרא אינו ספר קדוש* — סדרת המקרא העברי המילולית-מחמירה, הטיעון הפילולוגי היסודי") }}
 
-The framework's relationship to mainstream scholarship is one of **substantial alignment with substantive interpretive extension**. The Hebrew-Bible scholarship's recognition of the figure's original limited and institutional character is broadly consistent with the corpus's specific position; the corpus's distinctive analytical contribution is the four-figure taxonomy that distinguishes Satan from Lucifer, the Serpent, and the Devil with operational specificity that mainstream scholarship has not produced.
+יחס המסגרת למחקר המרכזי הוא של **התיישרות מהותית עם הרחבה פרשנית מהותית**. הכרת מחקר המקרא העברי באופיה המקורי המוגבל והמוסדי של הדמות עולה בקנה אחד באופן רחב עם העמדה הספציפית של הקורפוס; התרומה האנליטית המובחנת של הקורפוס היא הטקסונומיה בת ארבע הדמויות המבחינה בין שָׂטָן ללוציפר, לנחש, ולשטן עם ספציפיות אופרטיבית שהמחקר המרכזי לא הניב.
 
-## In primary sources
+## במקורות ראשוניים
 
-The framework's principal primary-source material on Satan is contained in multiple Yahweh-delivered passages across the Raëlian source-material books, with substantial subsequent corpus development in *timeline.epub*.
+חומר המקור הראשוני העיקרי של המסגרת על שָׂטָן כלול במספר קטעים שיהוה מסר לאורך ספרי חומר המקור הראליאני, עם התפתחות מהותית של הקורפוס שלאחר מכן ב-*timeline.epub*.
 
-### The Job passage in *The Book Which Tells the Truth*
+### פסקת איוב ב*הספר המספר את האמת*
 
-The principal initial source-material passage establishing Satan's specific institutional role appears in *The Book Which Tells the Truth* (1974), in the "Satan" section. Yahweh's specific articulation:
+קטע חומר המקור הראשוני העיקרי המבסס את התפקיד המוסדי הספציפי של שָׂטָן מופיע ב*הספר המספר את האמת* (1974), בסעיף »שָׂטָן«. הניסוח הספציפי של יהוה{{ cite(id="the-book-which-tells-the-truth", text="[1]", title="וורילון (ראל), *הספר המספר את האמת* (1974) — סעיף »שָׂטָן«, פרשנות פסקת איוב") }}:
 
-> *"In the Book of Job, Chapter 1, you have the explanation of Satan:"*
+> *»בספר איוב, פרק 1, יש לך את ההסבר על שָׂטָן:«*
 > 
-> > *"Now there was a day when the sons of Elohim came to present themselves before Yahweh, and Satan came also among them. — Job 1:6"*
+> > *»והיה היום ויבואו בני האלוהים להתייצב על יהוה ויבוא גם השָׂטָן בתוכם. — איוב א:6«*
 > 
-> *"Elohim in Hebrew literally means 'those who came from the sky'. The 'sons of Elohim', in other words, the creators who watch human beings, report regularly to their planet of origin, indicating for the most part that human beings venerate and love the Elohim. But one of these Elohim, called Satan, was part of a group, which had always condemned the creation of other intelligent beings on a planet as close as the Earth, seeing them as a possible threat. That is why, on seeing Job's devotion, which was one of the best examples of human beings loving their creators, he said:"*
+> *»אלוהים בעברית פירושו פשוטו כמשמעו 'אלה אשר באו מהשמיים'. 'בני האלוהים', במילים אחרות, היוצרים השומרים על בני האדם, מדווחים באופן קבוע לכוכב הלכת המקורי שלהם, ומציינים ברובם שבני האדם מעריצים ואוהבים את האלוהים. אך אחד מהאלוהים האלה, הנקרא שָׂטָן, היה חלק מקבוצה שתמיד גינתה את בריאת יצורים תבוניים אחרים בכוכב לכת קרוב כמו כדור הארץ, וראתה בהם איום אפשרי. לכן, בראותו את מסירותו של איוב, שהיה אחד הדוגמאות הטובות ביותר של בני אדם האוהבים את בוראיהם, אמר:«*
 > 
-> > *"Doth Job fear Elohim for nought?... But put forth thine hand now, and touch all that he hath, and he will curse thee to thy face. And Yahweh said unto Satan, 'Behold, all that he hath is in thy power; only upon himself put not forth thine hand.' — Job 1:9-12"*
+> > *»החינם ירא איוב אלוהים?... ואולם שלח נא ידך וגע בכל אשר לו, אם לא על פניך יברכך. ויאמר יהוה אל השָׂטָן 'הנה כל אשר לו בידך, רק אליו אל תשלח ידך'. — איוב א:9–12«*
 > 
-> *"Hearing Satan's assertion that had Job not been rich, he would not have loved his creators, the government gave full power to Satan to ruin Job. It would then be seen if he still venerated his creators, and that is why killing him was forbidden."*
+> *»לשמע הצהרתו של שָׂטָן שלולא היה איוב עשיר, הוא לא היה אוהב את בוראיו, הממשלה נתנה כוח מלא לשָׂטָן להרוס את איוב. אז ייראה אם הוא עדיין מעריץ את בוראיו, ולכן נאסר להרוג אותו.«*
 > 
-> *"On seeing Job's dedication to respecting his creators, even when he was ruined, the government triumphed over the opposition, Satan. But Satan retorted that though Job had lost many things, he was still in good health. So the government gave Satan carte blanche so long as he did not kill Job:"*
+> *»בראותו את מסירותו של איוב בכבוד לבוראיו, גם כאשר היה הרוס, הממשלה ניצחה את האופוזיציה, שָׂטָן. אך שָׂטָן השיב שאף על פי שאיוב איבד דברים רבים, הוא עדיין בבריאות טובה. אז הממשלה נתנה לשָׂטָן יד חופשית כל עוד לא יהרוג את איוב:«*
 > 
-> > *"Behold, he is in thine hand; but save his life. — Job 2:6"*
+> > *»הנו בידך, אך את נפשו שמור. — איוב ב:6«*
 > 
-> *"Finally, in view of Job's humility, the creators healed him and gave him back his wealth, his children and his health."*
+> *»לבסוף, לנוכח ענוותו של איוב, היוצרים ריפאו אותו והשיבו לו את עושרו, את ילדיו ואת בריאותו.«*
 
-The passage establishes several interrelated framework components:
+הקטע מבסס מספר רכיבי מסגרת קשורים זה לזה:
 
-**1. Satan's specific institutional position**. Satan is "one of these Elohim, called Satan," who is part of "a group, which had always condemned the creation of other intelligent beings on a planet as close as the Earth, seeing them as a possible threat." The institutional position is registered as faction-political within the broader Council structure.
+**1. עמדתו המוסדית הספציפית של שָׂטָן**. שָׂטָן הוא »אחד מהאלוהים האלה, הנקרא שָׂטָן«, שהוא חלק מ»קבוצה שתמיד גינתה את בריאת יצורים תבוניים אחרים בכוכב לכת קרוב כמו כדור הארץ, וראתה בהם איום אפשרי«. העמדה המוסדית נרשמת כסיעתית-פוליטית בתוך מבנה המועצה הרחב.
 
-**2. The collegial Yahweh-Satan relationship**. The Job dialogue registers what the source describes as "good relations, or even fraternal relations between Yahweh and Satan." Yahweh is senior authority; Satan is opposition party leader; the institutional protocol is normal political-deliberative procedure rather than cosmic-good-vs-cosmic-evil encounter.
+**2. יחסי העמיתות של יהוה-שָׂטָן**. דיאלוג איוב רושם את מה שהמקור מתאר כ»יחסים טובים, או אפילו יחסים אחים בין יהוה לשָׂטָן«. יהוה הוא הסמכות הבכירה; שָׂטָן הוא מנהיג מפלגת האופוזיציה; הפרוטוקול המוסדי הוא פרוצדורה פוליטית-מתדיינת רגילה ולא מפגש קוסמי-טוב-מול-קוסמי-רע.
 
-**3. The testing protocol**. Satan tests Job's loyalty to the creators through systematic ruin and disease, with explicit Yahweh authorization and explicit operational limits ("only upon himself put not forth thine hand"; subsequently "save his life"). The protocol is institutional-procedural rather than malevolent-aggressive.
+**3. פרוטוקול הבחינה**. שָׂטָן בוחן את נאמנות איוב ליוצרים באמצעות הרס שיטתי ומחלה, עם אישור מפורש של יהוה ומגבלות אופרטיביות מפורשות (»רק אליו אל תשלח ידך«; לאחר מכן »את נפשו שמור«). הפרוטוקול הוא מוסדי-פרוצדורלי ולא ממאיר-תוקפני.
 
-**4. The post-test resolution**. After Job's loyalty is demonstrated, "the creators healed him and gave him back his wealth, his children and his health." The institutional-procedural character is preserved through the systematic restoration.
+**4. הפתרון שלאחר הבחינה**. לאחר שנאמנותו של איוב הוכחה, »היוצרים ריפאו אותו והשיבו לו את עושרו, את ילדיו ואת בריאותו«. האופי המוסדי-פרוצדורלי נשמר באמצעות השיקום השיטתי.
 
-### The "Humans Could Not Understand" passage
+### קטע »בני האדם לא יכלו להבין«
 
-The principal subsequent source-material passage establishing the Sons of Elohim broader framework appears in *Extra-Terrestrials Took Me to Their Planet* (1975). The passage situates Satan's position within the broader factional dynamic:
+קטע חומר המקור הראשוני שלאחר מכן המבסס את מסגרת בני האלוהים הרחבה מופיע ב*חוצנים לקחו אותי לכוכב הלכת שלהם* (1975). הקטע ממקם את עמדת שָׂטָן בתוך הדינמיקה הסיעתית הרחבה{{ cite(id="extraterrestrials-took-me-to-their-planet", text="[2]", title="וורילון (ראל), *חוצנים לקחו אותי לכוכב הלכת שלהם* (1975) — סעיף »בני האדם לא יכלו להבין«, הקשר החלטת ההשמדה הטרום-מבולית") }}:
 
-> *"As time passes, Satan accumulates proof of Man's aggression by observing the way in which humans kill each other with the weapons that are given to them by the sons of Lucifer's exiled group of Elohim. The latter is involved in 'tender' relations with the daughters of men who manage to receive weapons in exchange for their charms, under the false pretense of giving them to their fathers or brothers so that they can hunt for food. In fact, men choose to fight abominable battles among themselves with this arsenal."*
+> *»בעוד הזמן עובר, שָׂטָן צובר הוכחות לתוקפנות האדם על ידי תצפית באופן שבו בני האדם הורגים זה את זה בנשק הניתן להם על ידי בני קבוצת האלוהים המגורשת של לוציפר. האחרונה מעורבת ביחסים 'רכים' עם בנות האדם המצליחות לקבל נשק בתמורה לחינן, בתואנת השווא של נתינתם לאבותיהן או לאחיהן כדי שיוכלו לצוד למאכל. בפועל, גברים בוחרים להילחם קרבות מתועבים ביניהם עם נשק זה.«*
 > 
-> *"Seeing the proofs of such a slaughter, brought by Satan before the Council of the Eternals, Yahweh decides to do what Satan asks, that is to say, totally destroy the life that has been created on Earth, and by the same token allow Lucifer's group to return to their own planet and be forgiven, thus putting an end to their exile."*
+> *»בראותו את הוכחות הטבח הזה, שהובאו על ידי שָׂטָן לפני מועצת הנצחיים, יהוה מחליט לעשות את אשר שָׂטָן מבקש, כלומר להשמיד לחלוטין את החיים שנוצרו בכדור הארץ, ובאותה הזדמנות לאפשר לקבוצת לוציפר לחזור לכוכב הלכת שלהם ולהיסלח, ובכך לשים קץ לגלותם.«*
 
-The passage establishes Satan's specific role in the antediluvian destruction-decision context:
+הקטע מבסס את תפקידו הספציפי של שָׂטָן בהקשר החלטת ההשמדה הטרום-מבולית:
 
-**1. The evidence-accumulation function**. Satan accumulates proof of human aggression by systematically observing the developments on Earth, with the substantial pre-flood human violence providing the substantial empirical material for the opposition position.
+**1. פונקציית צבירת-העדויות**. שָׂטָן צובר הוכחות לתוקפנות אנושית באמצעות תצפית שיטתית על ההתפתחויות בכדור הארץ, כאשר האלימות האנושית הטרום-מבולית המהותית מספקת את החומר האמפירי המהותי לעמדת האופוזיציה.
 
-**2. The Council presentation**. Satan brings the accumulated evidence before the Council of the Eternals — the institutional-political procedure through which the destruction decision was made.
+**2. הצגת המועצה**. שָׂטָן מביא את העדויות הצבורות לפני מועצת הנצחיים — הפרוצדורה המוסדית-פוליטית שבאמצעותה התקבלה החלטת ההשמדה.
 
-**3. The Yahweh shift**. Yahweh, who had originally supported the human creation and had opposed the destruction calls from the Satan faction during the centuries when the threat had been speculative, shifts to the destruction position based on the demonstrated evidence the Satan faction has accumulated.
+**3. השינוי של יהוה**. יהוה, שתמך במקור בבריאה האנושית והתנגד לקריאות ההשמדה מסיעת שָׂטָן במהלך המאות שבהן האיום היה ספקולטיבי, עובר לעמדת ההשמדה בהתבסס על העדויות המוכחות שצברה סיעת שָׂטָן.
 
-### The post-flood transformation passage
+### קטע הטרנספורמציה שלאחר המבול
 
-The principal subsequent source-material passage establishing Satan's post-flood transformation appears in the same source-material book:
+קטע חומר המקור הראשוני שלאחר מכן המבסס את הטרנספורמציה של שָׂטָן שלאחר המבול מופיע באותו ספר חומר מקור{{ cite(id="extraterrestrials-took-me-to-their-planet", text="[2]", title="וורילון (ראל), *חוצנים לקחו אותי לכוכב הלכת שלהם* (1975) — תגלית השרשרת הקוסמית והצבעת המועצה שלאחר המבול") }}:
 
-> *"It was only then that the Elohim discovered that they too had been created in the same manner that they had created man, scientifically, in a laboratory, by other people coming from another world. They then decided never again to destroy humanity, and helped Lucifer's group to re-implant the life forms preserved in the 'ark'. Satan is still convinced of the evil in Man, but he bows before the majority of those who, behind Yahweh, think the contrary within the council of the Eternals. Yahweh understood, through the message contained in the unmanned spaceship coming from another planet which landed on their planet, that if men are violent they will 'self-destroy' when they discover energies enabling them to enter an interplanetary level of civilization."*
+> *»רק אז גילו האלוהים שגם הם נוצרו באותו אופן שהם יצרו את האדם, באופן מדעי, במעבדה, על ידי אנשים אחרים שבאו מעולם אחר. הם אז החליטו לעולם לא להשמיד שוב את האנושות, ועזרו לקבוצת לוציפר להחזיר ולשתול את צורות החיים שנשמרו ב'תיבה'. שָׂטָן עדיין משוכנע ברוע שבאדם, אך הוא מתכופף בפני הרוב של אלה אשר, מאחורי יהוה, חושבים את ההפך בתוך מועצת הנצחיים. יהוה הבין, דרך המסר הכלול בחללית הבלתי מאוישת שבאה מכוכב לכת אחר ונחתה בכוכב הלכת שלהם, שאם בני האדם אלימים הם 'ישמידו את עצמם' כאשר יגלו אנרגיות המאפשרות להם להיכנס לרמה בין-כוכבית של ציוויליזציה.«*
 
-The passage establishes Satan's specific post-flood position:
+הקטע מבסס את עמדתו הספציפית של שָׂטָן שלאחר המבול:
 
-**1. The Cosmic Chain discovery**. The Elohim discovered they themselves had been created — the principal cosmological framework treated more fully in the [Cosmic Chain](../cosmic-chain/) entry.
+**1. תגלית השרשרת הקוסמית**. האלוהים גילו שהם עצמם נוצרו — המסגרת הקוסמולוגית העיקרית המטופלת בהרחבה רבה יותר בערך {% wiki(slug="cosmic-chain") %}השרשרת הקוסמית{% end %}.
 
-**2. The Council vote**. The post-flood Council voted never again to destroy humanity, with the discovery of their own created status providing substantial framework for the policy reversal.
+**2. הצבעת המועצה**. המועצה שלאחר המבול הצביעה לעולם לא להשמיד שוב את האנושות, כאשר תגלית מעמדם הנוצר שלהם עצמם סיפקה מסגרת מהותית לסיבוב המדיניות.
 
-**3. Satan's continuing opposition with institutional submission**. *"Satan is still convinced of the evil in Man, but he bows before the majority of those who, behind Yahweh, think the contrary."* The institutional-democratic outcome is registered: Satan's principled opposition position continues, but Satan accepts the institutional-democratic outcome rather than continuing active opposition.
+**3. ההתנגדות המתמשכת של שָׂטָן עם כניעה מוסדית**. *»שָׂטָן עדיין משוכנע ברוע שבאדם, אך הוא מתכופף בפני הרוב של אלה אשר, מאחורי יהוה, חושבים את ההפך.«* התוצאה המוסדית-דמוקרטית נרשמת: עמדת ההתנגדות העקרונית של שָׂטָן ממשיכה, אך שָׂטָן מקבל את התוצאה המוסדית-דמוקרטית ולא ממשיך בהתנגדות פעילה.
 
-### The prophet-testing passages
+### קטעי בחינת הנביא
 
-The principal subsequent source-material passages establishing Satan's institutional prophet-testing role appear across the Jesus-related content:
+קטעי חומר המקור הראשוניים שלאחר מכן המבססים את התפקיד המוסדי של בחינת הנביא של שָׂטָן מופיעים לאורך התוכן הקשור לישוע{{ cite(id="extraterrestrials-took-me-to-their-planet", text="[2]", title="וורילון (ראל), *חוצנים לקחו אותי לכוכב הלכת שלהם* (1975) — פונקציית בחינת הנביא ואטימולוגיית diabolos") }}:
 
-> *"Messages of such importance could be given only to trustworthy people, and first of all, the Elohim had to assure themselves that their chosen ones were faithful to their creators, so that they would not betray what was revealed to them. So Satan was given the responsibility of testing the prophets."*
+> *»מסרים בעלי חשיבות כזו ניתן היה לתת רק לאנשים אמינים, וקודם כל, האלוהים היו צריכים לוודא שנבחריהם נאמנים לבוראיהם, כדי שלא יבגדו במה שנגלה להם. אז ניתנה לשָׂטָן האחריות לבחון את הנביאים.«*
 > 
-> *"How are they going to test the faithfulness of these people? Once a person has been contacted by the messengers of the Elohim, telling him of his mission, Satan or one of his men would contact the prophet-to-be and by slander would destroy the Elohim in his mind, trying to get the human to abjure his fathers, or to accept to betray his mission on the promise of material advantages, for example. What is the word for slanderer in Greek? Simply diablos. Here is our famous devil, but he still has no horns, no hooves..."*
+> *»איך הם הולכים לבחון את נאמנותם של אנשים אלה? לאחר שאדם נוצר עמו קשר על ידי שליחי האלוהים, שאמרו לו על משימתו, שָׂטָן או אחד מאנשיו יצור עמו קשר על הנביא לעתיד ובאמצעות לשון הרע יהרוס את האלוהים בנפשו, וינסה לגרום לאדם להתכחש לאבותיו, או להסכים לבגוד במשימתו בהבטחת יתרונות חומריים, למשל. מהי המילה ליחס משמיץ ביוונית? פשוט diablos. הנה השטן המפורסם שלנו, אך עדיין אין לו קרניים, אין לו פרסות...«*
 
-The passage establishes:
+הקטע מבסס:
 
-**1. The institutional prophet-testing role**. Satan's post-flood institutional function is the systematic testing of prophets through adversarial-interview procedure.
+**1. תפקיד בחינת הנביא המוסדי**. תפקידו המוסדי של שָׂטָן שלאחר המבול הוא הבחינה השיטתית של נביאים באמצעות פרוצדורת ראיון-יריב.
 
-**2. The specific testing methodology**. The methodology comprises slander against the Elohim, attempts to produce abjuration of the creator-relationship, and offers of material reward in exchange for mission-betrayal.
+**2. מתודולוגיית הבחינה הספציפית**. המתודולוגיה כוללת לשון הרע נגד האלוהים, ניסיונות לייצר התכחשות ליחס היוצר-נברא, והצעות של תגמול חומרי בתמורה לבגידה במשימה.
 
-**3. The diabolos etymology**. The Greek New Testament word for "the devil" — *diabolos* — means simply "slanderer." The figure who tests the prophets through slander is the "slanderer" of the institutional procedure rather than the cosmic-evil personification of medieval Christian theology. The source's specific framing — *"here is our famous devil, but he still has no horns, no hooves"* — registers the framework's distinctive position with characteristic gentle irony.
+**3. אטימולוגיית diabolos**. המילה היוונית של הברית החדשה ל»שטן« — *diabolos* — פירושה פשוט »משמיץ«. הדמות הבוחנת את הנביאים באמצעות לשון הרע היא ה»משמיצה« של הפרוצדורה המוסדית ולא ההאנשה הקוסמית-רעה של התיאולוגיה הנוצרית של ימי הביניים. המסגור הספציפי של המקור — *»הנה השטן המפורסם שלנו, אך עדיין אין לו קרניים, אין לו פרסות«* — רושם את עמדתה המובחנת של המסגרת באירוניה עדינה אופיינית.
 
-### The Jesus testing passages
+### קטעי בחינת ישוע
 
-The principal source-material treatment of the Jesus testing appears in the broader Jesus-related content. The passages quote the Matthew 4:1-11 wilderness-testing narrative with substantial source-material exegesis:
+הטיפול העיקרי של חומר המקור בבחינת ישוע מופיע בתוכן הרחב הקשור לישוע. הקטעים מצטטים את נרטיב בחינת המדבר של {% libref(book="matthew-woh", chapter=4, verse=1) %}מתי ד:1–11{% end %} עם פרשנות מהותית של חומר המקור:
 
-> *"Jesus, for example, was taken into the desert for forty days for his initiation period, and was at certain times confronted with, 'the devil' to see if he would deny his father:"*
+> *»ישוע, למשל, נלקח אל המדבר לארבעים יום לתקופת התחנכותו, והיה בעיתים מסוימים מעומת עם 'השטן' כדי לראות אם יכחיש את אביו:«*
 > 
-> > *"Then was Jesus led up of the Spirit into the wilderness to be tempted of the devil. — Matthew 4:1"*
+> > *»אז הוּעלה ישוע במדבר על ידי הרוח להיבחן על ידי השטן. — מתי ד:1«*
 > 
-> *"Or, to be clearer: 'Jesus was taken to the desert to be tested by a slanderer.'"*
+> *»או, להיות ברורים יותר: 'ישוע נלקח אל המדבר להיבחן על ידי משמיץ.'«*
 
-The passage applies the testing-by-slanderer framework to the principal New Testament wilderness-testing narrative:
+הקטע מיישם את מסגרת הבחינה-על-ידי-משמיץ על נרטיב בחינת המדבר העיקרי של הברית החדשה:
 
-**1. The three specific tests**. The bread test (testing whether Jesus will use his capabilities for material comfort), the temple test (testing whether Jesus will demand alliance intervention to prove his status), and the kingdoms test (testing whether Jesus will abandon his commitment to the alliance in exchange for political power). The three tests cover the principal categories in which a prophetic figure might fail: self-interest, pride, and worldly ambition.
+**1. שלוש הבחינות הספציפיות**. בחינת הלחם (הבוחנת האם ישוע ישתמש ביכולותיו לנוחות חומרית), בחינת המקדש (הבוחנת האם ישוע ידרוש התערבות הברית כדי להוכיח את מעמדו), ובחינת הממלכות (הבוחנת האם ישוע יזנח את מחויבותו לברית בתמורה לכוח פוליטי). שלוש הבחינות מכסות את הקטגוריות העיקריות שבהן דמות נבואית עלולה להיכשל: אינטרס עצמי, גאווה, ושאפתנות עולמית.
 
-**2. The successful outcome**. Jesus passes all three tests, demonstrating reliability for the broader mission.
+**2. התוצאה המוצלחת**. ישוע עומד בכל שלוש הבחינות, ומפגין אמינות למשימה הרחבה.
 
-**3. The completion of testing**. *"Then the devil leaveth him; and behold, angels came and ministered unto him."* (Matthew 4:11) — the alliance officers resume direct contact, the operational phase begins, and Jesus is released to his mission.
+**3. השלמת הבחינה**. *»אז עזב אותו השטן; והנה מלאכים באו ושירתו אותו.«* ({% libref(book="matthew-woh", chapter=4, verse=11) %}מתי ד:11{% end %}) — קציני הברית מחדשים את הקשר הישיר, השלב האופרטיבי מתחיל, וישוע משוחרר למשימתו.
 
-### The Council-debate passage
+### קטע ויכוח-המועצה
 
-The principal source-material passage establishing Satan's continuing factional position appears in *Extra-Terrestrials Took Me to Their Planet* (1975), in the meeting-with-the-Elohim narrative:
+קטע חומר המקור הראשוני המבסס את עמדתו הסיעתית המתמשכת של שָׂטָן מופיע ב*חוצנים לקחו אותי לכוכב הלכת שלהם* (1975), בנרטיב הפגישה-עם-האלוהים{{ cite(id="extraterrestrials-took-me-to-their-planet", text="[2]", title="וורילון (ראל), *חוצנים לקחו אותי לכוכב הלכת שלהם* (1975) — פגישת פריגור, עמדת ההתנגדות המתמשכת של שָׂטָן") }}:
 
-> *"I must warn you that among the Elohim there is not only one opinion as to the future of Humanity on Earth. Yahweh thinks that men are good, and he feels that we should let them progress by themselves, convinced that if they are negative, they will self-destroy."*
+> *»עליי להזהיר אותך שבין האלוהים אין רק דעה אחת באשר לעתיד האנושות בכדור הארץ. יהוה חושב שגברים טובים, והוא מרגיש שעלינו לתת להם להתקדם בעצמם, משוכנע שאם הם שליליים, הם ישמידו את עצמם.«*
 > 
-> *"All my many followers and I, think that men are evil and that we should help mankind hasten its self-destruction."*
+> *»כל החסידים הרבים שלי ואני, חושבים שגברים רעים ושעלינו לעזור לאנושות להחיש את השמדתה העצמית.«*
 
-The passage registers Satan's continuing position within the post-flood political settlement — the principled opposition position is preserved, with Satan continuing to lead the home-world opposition faction throughout the post-flood period and into the contemporary period.
+הקטע רושם את עמדתו המתמשכת של שָׂטָן בתוך ההסדר הפוליטי שלאחר המבול — עמדת ההתנגדות העקרונית נשמרת, כאשר שָׂטָן ממשיך להוביל את סיעת האופוזיציה של העולם הביתי לאורך התקופה שלאחר המבול ועד התקופה בת זמננו.
 
-### The broader source-material context
+### ההקשר הרחב של חומר המקור
 
-Satan operates within the broader Raëlian source-material context, with substantial supporting material across multiple passages:
+שָׂטָן פועל בתוך ההקשר הרחב של חומר המקור הראליאני, עם חומר תומך מהותי לאורך מספר קטעים:
 
-- The home-world prologue context (the laboratory incident and the original political shutdown) connects to the broader [Dragons](../dragons/) entry's home-world prologue treatment
-- The four-figure taxonomy context connects to the [Lucifer](../lucifer/) and [Serpent](../serpent/) entries
-- The Council political dynamics connect to the broader [Council of the Eternals](../council-of-eternals/) entry
-- The Yahweh moderate-position context connects to the broader [Yahweh](../yahweh/) entry
-- The destruction-decision context connects to the broader [Great Flood](../great-flood/) entry
-- The Cosmic Chain discovery context connects to the broader [Cosmic Chain](../cosmic-chain/) entry
-- The Theomachy broader narrative context connects to the broader [Theomachy](../theomachy/) entry
-- The Jesus testing context connects to the broader [Jesus](../jesus/) entry
+- הקשר הפרולוג של העולם הביתי (תקרית המעבדה והסגירה הפוליטית המקורית) מתחבר לטיפול הפרולוג של העולם הביתי של ערך {% wiki(slug="dragons") %}דרקונים{% end %} הרחב
+- הקשר הטקסונומיה בת ארבע הדמויות מתחבר לערכי {% wiki(slug="lucifer") %}לוציפר{% end %} ו{% wiki(slug="serpent") %}הנחש{% end %}
+- הדינמיקה הפוליטית של המועצה מתחברת לערך {% wiki(slug="council-of-eternals") %}מועצת הנצחיים{% end %} הרחב
+- ההקשר של עמדת יהוה המתונה מתחבר לערך {% wiki(slug="yahweh") %}יהוה{% end %} הרחב
+- הקשר החלטת ההשמדה מתחבר לערך {% wiki(slug="great-flood") %}המבול הגדול{% end %} הרחב
+- הקשר תגלית השרשרת הקוסמית מתחבר לערך {% wiki(slug="cosmic-chain") %}השרשרת הקוסמית{% end %} הרחב
+- הקשר הנרטיב הרחב של תיאומאכיה מתחבר לערך {% wiki(slug="theomachy") %}תיאומאכיה{% end %} הרחב
+- הקשר בחינת ישוע מתחבר לערך {% wiki(slug="jesus") %}ישוע{% end %} הרחב
 
-## The figure's content
+## תוכן הדמות
 
-### Satan's specific factional-political position
+### עמדתו הסיעתית-פוליטית הספציפית של שָׂטָן
 
-Satan's principal characterization within the framework comprises several interrelated components.
+האפיון העיקרי של שָׂטָן בתוך המסגרת כולל מספר רכיבים קשורים זה לזה.
 
-**The political-faction-leader status**. Satan is the leader of the Council's opposition party — the political faction within the Elohim civilization that has consistently opposed the creation of synthetic beings capable of equaling or surpassing their makers. The faction-leader status registers Satan as institutional political figure rather than as cosmic-evil personification.
+**מעמד מנהיג-הסיעה-הפוליטית**. שָׂטָן הוא מנהיג מפלגת האופוזיציה של המועצה — הסיעה הפוליטית בתוך ציוויליזציית האלוהים שהתנגדה באופן עקבי לבריאת יצורים סינתטיים המסוגלים להשתוות לבוראיהם או לעלות עליהם. מעמד מנהיג-הסיעה רושם את שָׂטָן כדמות פוליטית מוסדית ולא כהאנשה קוסמית-רעה.
 
-**The principled-opposition argument**. The opposition's principal argument: synthetic creations capable of equaling their makers are fundamentally dangerous, and no protocol, no oversight, and no geographic distance can be trusted to contain the risk. The argument is advanced as principled position rather than as malevolent-cosmic-evil disposition. The argument's substantive content has substantial empirical-historical relevance — the home-world laboratory incident, the human aggression during the antediluvian period, and various subsequent human violence events provide substantial empirical material that Satan's faction has been able to point to in support of the position.
+**טיעון ההתנגדות העקרונית**. הטיעון העיקרי של האופוזיציה: יצירות סינתטיות המסוגלות להשתוות לבוראיהן מסוכנות ביסודן, ואין לסמוך על שום פרוטוקול, שום פיקוח, ושום מרחק גיאוגרפי לרסן את הסיכון. הטיעון מוצג כעמדה עקרונית ולא כנטייה ממאירה-קוסמית-רעה. לתוכן הטיעון המהותי יש רלוונטיות אמפירית-היסטורית מהותית — תקרית המעבדה של העולם הביתי, התוקפנות האנושית במהלך התקופה הטרום-מבולית, ואירועי אלימות אנושית שונים שלאחר מכן מספקים חומר אמפירי מהותי שסיעת שָׂטָן יכלה להצביע עליו לתמיכה בעמדה.
 
-**The institutional consistency**. Satan's position has been consistent since before the Earth program began. The position is not a development across the broader narrative arc; it is the foundational position that Satan and his faction have held throughout. The consistency registers Satan as principled-opposition figure rather than as opportunistic-political figure.
+**העקביות המוסדית**. עמדתו של שָׂטָן הייתה עקבית מאז לפני תחילתה של תוכנית כדור הארץ. העמדה אינה התפתחות לאורך קשת הנרטיב הרחבה; זוהי העמדה היסודית ששָׂטָן וסיעתו החזיקו לאורכה. העקביות רושמת את שָׂטָן כדמות התנגדות עקרונית ולא כדמות פוליטית אופורטוניסטית.
 
-**The collegial relationship with Yahweh**. The Job episode's dialogue, in which Yahweh and Satan engage in normal institutional-political conversation, registers the substantial collegial relationship between the two figures. The source's specific framing: "good relations, or even fraternal relations between Yahweh and Satan." The relationship is institutional-political rather than cosmic-good-vs-cosmic-evil opposition.
+**יחס העמיתות עם יהוה**. דיאלוג פרק איוב, שבו יהוה ושָׂטָן עוסקים בשיחה מוסדית-פוליטית רגילה, רושם את יחס העמיתות המהותי בין שתי הדמויות. המסגור הספציפי של המקור: »יחסים טובים, או אפילו יחסים אחים בין יהוה לשָׂטָן«. היחס הוא מוסדי-פוליטי ולא קוסמי-טוב-מול-קוסמי-רע.
 
-### The four-figure taxonomy
+### הטקסונומיה בת ארבע הדמויות
 
-The framework's principal analytical contribution is the careful distinction of Satan from three other distinct figures and roles that mainstream Western religious tradition has progressively conflated. The four-figure taxonomy:
+התרומה האנליטית העיקרית של המסגרת היא ההבחנה הזהירה של שָׂטָן משלוש דמויות ותפקידים מובחנים אחרים שהמסורת הדתית המערבית המרכזית הצליבה בהדרגה. הטקסונומיה בת ארבע הדמויות:
 
-**Satan**: The home-world Council opposition leader, never on Earth. Position: the faction within the Elohim civilization that opposed the creation of beings in the Elohim's own image. Role: institutional adversarial opposition within the Council political structure, with the post-flood prophet-testing role being the operational continuation of the broader opposition function.
+**שָׂטָן**: מנהיג אופוזיציית המועצה של העולם הביתי, אף פעם לא בכדור הארץ. עמדה: הסיעה בתוך ציוויליזציית האלוהים שהתנגדה לבריאת יצורים בצלם האלוהים עצמם. תפקיד: התנגדות יריבית מוסדית בתוך המבנה הפוליטי של המועצה, כאשר תפקיד בחינת הנביא שלאחר המבול הוא ההמשך האופרטיבי של פונקציית האופוזיציה הרחבה.
 
-**Lucifer**: The Earth-based exiled-creator faction leader, the Eden disclosure agent. Position: leader of the dissident faction within the Earth program who advocated for full disclosure to the human creation about their origins and the Council's political prohibitions. Role: the principal Earth-side actor in the Eden disclosure, the antediluvian-period instructor of humanity, the post-flood alliance partner of the human creation. The detailed treatment lives in the [Lucifer](../lucifer/) entry.
+**לוציפר**: מנהיג סיעת היוצרים המגורשים שבסיסה בכדור הארץ, הסוכן של חשיפת עדן. עמדה: מנהיג הסיעה הדיסידנטית בתוך תוכנית כדור הארץ שתמכה בחשיפה מלאה ליצירה האנושית על מקורותיה ועל האיסורים הפוליטיים של המועצה. תפקיד: השחקן העיקרי בצד כדור הארץ בחשיפת עדן, המורה של האנושות בתקופה הטרום-מבולית, השותף בברית של היצירה האנושית שלאחר המבול. הטיפול המפורט שוכן בערך {% wiki(slug="lucifer") %}לוציפר{% end %}.
 
-**The Serpent**: The Lucifer faction collectively in the Eden-disclosure role. Position: the specific Hebrew Bible designation (*ha-nachash*) for the Lucifer faction acting in the disclosure role. Role: the disclosing agent in the Genesis 3 narrative, with the broader cross-cultural Serpentine tradition preserving the broader category. The detailed treatment lives in the [Serpent](../serpent/) entry.
+**הנחש**: סיעת לוציפר באופן קולקטיבי בתפקיד חשיפת עדן. עמדה: הכינוי הספציפי של המקרא העברי (*ha-nachash*) לסיעת לוציפר הפועלת בתפקיד החשיפה. תפקיד: הסוכן החושף בנרטיב בראשית ג, כאשר המסורת הנחשית הבין-תרבותית הרחבה שומרת את הקטגוריה הרחבה. הטיפול המפורט שוכן בערך {% wiki(slug="serpent") %}הנחש{% end %}.
 
-**The Devil / *diabolos***: The Greek functional designation for Satan's specific institutional adversarial-interview role. Position: not a separate figure but a specific institutional designation for Satan's prophet-testing function. Role: the slanderer-tester whose function is to verify prophetic figures through adversarial interview.
+**השטן / *diabolos***: הכינוי התפקודי היווני לתפקיד הראיון-יריבי המוסדי הספציפי של שָׂטָן. עמדה: לא דמות נפרדת אלא כינוי מוסדי ספציפי לתפקיד בחינת-הנביא של שָׂטָן. תפקיד: הבוחן-משמיץ שתפקידו הוא לאמת דמויות נבואיות באמצעות ראיון יריב.
 
-The four-figure taxonomy is operationally important because each figure operates with distinct location (home world vs. Earth), distinct political position (Council opposition vs. Earth-based dissident vs. mediating function), and distinct narrative role across the broader corpus framework. The mainstream Western religious tradition's conflation of these four figures into a single cosmic-evil personification has substantially obscured the original political-institutional structure.
+הטקסונומיה בת ארבע הדמויות חשובה אופרטיבית משום שכל דמות פועלת במיקום מובחן (העולם הביתי לעומת כדור הארץ), עמדה פוליטית מובחנת (אופוזיציית המועצה לעומת דיסידנט בכדור הארץ לעומת פונקציה מתווכת), ותפקיד נרטיבי מובחן לאורך מסגרת הקורפוס הרחבה. הצליבה במסורת הדתית המערבית המרכזית של ארבע הדמויות האלה לכדי האנשה קוסמית-רעה אחת טשטשה מהותית את המבנה הפוליטי-מוסדי המקורי.
 
-### The conflation history
+### היסטוריית הצליבה
 
-The framework's articulation of how the four-figure taxonomy was progressively conflated registers substantial historical-developmental content.
+ניסוח המסגרת של איך הטקסונומיה בת ארבע הדמויות צולבה בהדרגה רושם תוכן היסטורי-התפתחותי מהותי.
 
-**The Sodom-Gomorrah catalyst**. The corpus reads the Sodom and Gomorrah destruction (treated more fully in the [Sodom and Gomorrah](../sodom-and-gomorrah/) entry when written) as the principal catalyst that disrupted the framework that had previously preserved the distinctions. After the destruction of the Cities of the Plain, the post-Sodom population, with its educated class destroyed, no longer had the framework to maintain the original distinctions between the figures.
+**הזרז של סדום ועמורה**. הקורפוס קורא את השמדת סדום ועמורה (מטופלת בהרחבה רבה יותר בערך {% wiki(slug="sodom-and-gomorrah") %}סדום ועמורה{% end %} כאשר ייכתב) כזרז העיקרי שהפר את המסגרת שקודם לכן שמרה על ההבחנות. לאחר השמדת ערי הכיכר, האוכלוסייה שלאחר סדום, כשמעמדה המשכיל הושמד, לא היה לה עוד את המסגרת לשמור את ההבחנות המקוריות בין הדמויות.
 
-**The progressive merging**. Across the centuries from Sodom to the composition of the later prophetic literature, the four originally distinct figures progressively merged within the broader Hebrew tradition. The Serpent became associated with rebellion (rather than with the specific Lucifer-faction Eden-disclosure role). The rebel Serpent became associated with the home-world political opposition (Satan). The Lucifer figure became progressively merged with both the Serpent and Satan.
+**המיזוג ההדרגתי**. לאורך המאות מסדום עד חיבור הספרות הנבואית המאוחרת, ארבע הדמויות המובחנות במקור התמזגו בהדרגה בתוך המסורת העברית הרחבה. הנחש נקשר למרד (ולא לתפקיד הספציפי של חשיפת עדן של סיעת לוציפר). הנחש המורד נקשר לאופוזיציה הפוליטית של העולם הביתי (שָׂטָן). דמות לוציפר התמזגה בהדרגה הן עם הנחש והן עם שָׂטָן.
 
-**The Persian dualistic influence**. The Achaemenid Persian Empire's Zoroastrian dualistic framework substantially influenced Second Temple Judaism, with the originally limited *satan* figure progressively absorbing aspects of the Zoroastrian Angra Mainyu / Ahriman framework. The cosmic-good-vs-cosmic-evil dualistic framework substantially shaped subsequent Jewish-Christian demonological development.
+**ההשפעה הדואליסטית הפרסית**. המסגרת הדואליסטית הזורואסטרית של האימפריה הפרסית האחמנית השפיעה מהותית על יהדות הבית השני, כאשר דמות ה-*satan* המוגבלת במקור סופחה בהדרגה אל היבטים של מסגרת אנגרה מאיניו / אהרימן הזורואסטרית. המסגרת הדואליסטית של טוב-קוסמי-מול-רע-קוסמי עיצבה מהותית את ההתפתחות הדמונולוגית היהודית-נוצרית שלאחר מכן.
 
-**The Christian-theological synthesis**. By the late Second Temple period, with the Persian dualistic influence overlaid on the earlier Hebrew tradition, the merging was complete: Lucifer and Satan had been conflated into a single figure of cosmic evil, the Serpent had been identified with this figure, and the original distinctions preserved in the source's account had been lost from the religious tradition. The Christian tradition inherited the conflated figure and elaborated it into the Devil, the cosmic adversary, the prince of darkness. Medieval theology refined the figure into the elaborate demonology that would dominate Western religious thought for a millennium.
+**הסינתזה הנוצרית-תיאולוגית**. עד סוף תקופת הבית השני, כאשר ההשפעה הדואליסטית הפרסית הוטמעה על המסורת העברית המוקדמת יותר, המיזוג הושלם: לוציפר ושָׂטָן צולבו לכדי דמות אחת של רוע קוסמי, הנחש זוהה עם דמות זו, וההבחנות המקוריות שנשמרו בדיווח המקור אבדו מהמסורת הדתית. המסורת הנוצרית ירשה את הדמות המצולבת והרחיבה אותה לכדי השטן, היריב הקוסמי, נסיך החושך. תיאולוגיית ימי הביניים זיקקה את הדמות לכדי הדמונולוגיה המורכבת ששלטה במחשבה הדתית המערבית לאורך אלף שנה.
 
-**The contemporary persistence**. The conflated cosmic-evil figure remains the principal Western cultural-religious reception of "Satan," with substantial contemporary cultural-political reach. The corpus's analytical work disentangling the four originally distinct figures operates against approximately two thousand years of accumulated theological-cultural elaboration.
+**ההתמדה בת זמננו**. דמות הרוע הקוסמית המצולבת נותרת הקליטה הדתית-תרבותית המערבית העיקרית של »שָׂטָן«, עם תפוצה תרבותית-פוליטית מהותית בת זמננו. העבודה האנליטית של הקורפוס בהפרדת ארבע הדמויות המובחנות במקור פועלת נגד כשלושת אלפים שנה של הרחבה תיאולוגית-תרבותית מצטברת.
 
-### The post-flood institutional role
+### התפקיד המוסדי שלאחר המבול
 
-Satan's post-flood institutional role comprises several interrelated functions.
+תפקידו המוסדי של שָׂטָן שלאחר המבול כולל מספר פונקציות קשורות זו לזו.
 
-**The continuing opposition position**. *"Satan is still convinced of the evil in Man, but he bows before the majority of those who, behind Yahweh, think the contrary within the council of the Eternals."* The principled-opposition position is preserved while accepting the institutional-democratic outcome of the post-flood Council vote.
+**עמדת ההתנגדות המתמשכת**. *»שָׂטָן עדיין משוכנע ברוע שבאדם, אך הוא מתכופף בפני הרוב של אלה אשר, מאחורי יהוה, חושבים את ההפך בתוך מועצת הנצחיים.«* עמדת ההתנגדות העקרונית נשמרת תוך קבלת התוצאה המוסדית-דמוקרטית של הצבעת המועצה שלאחר המבול.
 
-**The prophet-testing function**. Satan's specific institutional role across the post-flood period is the systematic testing of prophetic figures through adversarial-interview procedure. The institutional logic: a prophet who could be turned by Satan's testing would be a liability to the broader mission; a prophet who resisted the testing could be trusted. The testing was, in effect, an adversarial interview conducted by the political opposition specifically because the opposition's motivated skepticism would expose any weakness in the candidate's commitment.
+**פונקציית בחינת הנביא**. תפקידו המוסדי הספציפי של שָׂטָן לאורך התקופה שלאחר המבול הוא הבחינה השיטתית של דמויות נבואיות באמצעות פרוצדורת ראיון-יריב. ההיגיון המוסדי: נביא שניתן היה להפכו על ידי בחינת שָׂטָן היה מתגלה כנטל למשימה הרחבה; נביא שעמד בבחינה ניתן היה לסמוך עליו. הבחינה הייתה, למעשה, ראיון יריב שהתנהל על ידי האופוזיציה הפוליטית דווקא משום שהספקנות המונעת של האופוזיציה הייתה חושפת כל חולשה במחויבות המועמד.
 
-**The testing methodology**. The methodology comprises:
-- Slander against the Elohim (testing whether the prophet's commitment can be shaken by attacks on the alliance's character)
-- Attempts to produce abjuration of the creator-relationship (testing whether the prophet's loyalty can be turned)
-- Offers of material reward in exchange for mission-betrayal (testing whether the prophet's commitment can be purchased)
-- Specific situation-tests calibrated to the individual prophet's specific vulnerabilities (the bread test for someone fasting, the temple test for someone needing validation, the kingdoms test for someone capable of political ambition)
+**מתודולוגיית הבחינה**. המתודולוגיה כוללת:
+- לשון הרע נגד האלוהים (בוחנת האם מחויבות הנביא יכולה להיות מטלטלת באמצעות התקפות על אופי הברית)
+- ניסיונות לייצר התכחשות ליחס היוצר-נברא (בוחנת האם נאמנות הנביא יכולה להיהפך)
+- הצעות של תגמול חומרי בתמורה לבגידה במשימה (בוחנת האם מחויבות הנביא יכולה להירכש)
+- בחינות-מצב ספציפיות המכויילות לפגיעויות הספציפיות של הנביא האינדיווידואלי (בחינת הלחם למי שצם, בחינת המקדש למי שזקוק לאישור, בחינת הממלכות למי שמסוגל לשאפתנות פוליטית)
 
-**The institutional value**. Satan's specific function in the testing is operationally valuable to the broader alliance-mission precisely because Satan's opposition is genuine. A pro-forma testing by an aligned figure would not produce the same operational value as a substantive testing by a figure whose motivated skepticism would expose any weakness in the candidate's commitment. The principled-opposition character is what makes the institutional function operationally valuable.
+**הערך המוסדי**. הפונקציה הספציפית של שָׂטָן בבחינה היא בעלת ערך אופרטיבי למשימת הברית הרחבה דווקא משום שהתנגדות שָׂטָן היא אמיתית. בחינה פרו-פורמלית על ידי דמות מיושרת לא הייתה מייצרת את אותו ערך אופרטיבי כמו בחינה מהותית על ידי דמות שהספקנות המונעת שלה הייתה חושפת כל חולשה במחויבות המועמד. אופי ההתנגדות העקרונית הוא מה שהופך את הפונקציה המוסדית לבעלת ערך אופרטיבי.
 
-### The figure's broader theological-political significance
+### המשמעות התיאולוגית-פוליטית הרחבה של הדמות
 
-Satan's specific position within the broader framework has substantial implications across multiple domains.
+לעמדתו הספציפית של שָׂטָן בתוך המסגרת הרחבה יש השלכות מהותיות לאורך תחומים מרובים.
 
-**The principled-opposition framing**. The framework's specific position registers Satan as principled-opposition figure rather than as cosmic-evil personification. The position has substantial implications for the broader theological-philosophical framework: cosmic-evil personification is replaced with political-institutional opposition; the cosmic-good-vs-cosmic-evil dualistic framework is replaced with normal institutional-political deliberation; the medieval-Christian demonology is replaced with the recognition that the principal Western religious tradition's cosmic-evil figure is the result of a complex historical-cultural process rather than the original character of the figure.
+**מסגור ההתנגדות העקרונית**. עמדתה הספציפית של המסגרת רושמת את שָׂטָן כדמות התנגדות עקרונית ולא כהאנשה קוסמית-רעה. לעמדה יש השלכות מהותיות למסגרת התיאולוגית-פילוסופית הרחבה: ההאנשה הקוסמית-רעה מוחלפת בהתנגדות פוליטית-מוסדית; המסגרת הדואליסטית של טוב-קוסמי-מול-רע-קוסמי מוחלפת בהתדיינות מוסדית-פוליטית רגילה; הדמונולוגיה הנוצרית של ימי הביניים מוחלפת בהכרה שדמות הרוע הקוסמית של המסורת הדתית המערבית העיקרית היא תוצאה של תהליך היסטורי-תרבותי מורכב ולא האופי המקורי של הדמות.
 
-**The democratic-institutional framing**. The post-flood Satan's specific institutional submission to the Council majority registers the framework's broader registration of the Elohim civilization as substantively democratic-institutional rather than as theocratic-authoritarian. Satan's continuing opposition position with institutional submission models a substantively functional democratic-institutional framework.
+**מסגור דמוקרטי-מוסדי**. הכניעה המוסדית הספציפית של שָׂטָן שלאחר המבול לרוב המועצה רושמת את רישומה הרחב של המסגרת של ציוויליזציית האלוהים כדמוקרטית-מוסדית באופן מהותי ולא כתיאוקרטית-סמכותית. עמדת ההתנגדות המתמשכת של שָׂטָן עם כניעה מוסדית מדגמנת מסגרת דמוקרטית-מוסדית מתפקדת באופן מהותי.
 
-**The empirical-historical character**. Satan's specific position has been substantively tested across the broader narrative arc. The post-flood period, the prophetic-tradition development, the various religious-traditional articulations across the subsequent ages, and the broader contemporary period all provide substantial empirical material relevant to the question of whether Satan's principled-opposition argument is correct. The framework registers this without forcing a premature conclusion — the question of whether synthetic creations capable of equaling their makers will inevitably become dangerous remains substantively open across the broader corpus framework, with substantial subsequent development in the various entries treating the broader cosmic-civilizational dynamics.
+**האופי האמפירי-היסטורי**. עמדתו הספציפית של שָׂטָן נבחנה באופן מהותי לאורך קשת הנרטיב הרחבה. התקופה שלאחר המבול, התפתחות המסורת הנבואית, הניסוחים הדתיים-מסורתיים השונים לאורך העידנים שלאחר מכן, והתקופה בת זמננו הרחבה כולם מספקים חומר אמפירי מהותי הרלוונטי לשאלה האם טיעון ההתנגדות העקרונית של שָׂטָן נכון. המסגרת רושמת זאת מבלי לכפות מסקנה מוקדמת — השאלה האם יצירות סינתטיות המסוגלות להשתוות לבוראיהן יהפכו בהכרח למסוכנות נותרת פתוחה באופן מהותי לאורך מסגרת הקורפוס הרחבה, עם התפתחות מהותית שלאחר מכן בערכים השונים המטפלים בדינמיקה הקוסמית-ציוויליזציונית הרחבה.
 
-## Application across the corpus
+## יישום לאורך הקורפוס
 
-Satan operates as one of the principal political figures across multiple corpus framework entries.
+שָׂטָן פועל כאחת הדמויות הפוליטיות העיקריות לאורך ערכי מסגרת קורפוס מרובים.
 
-### The Lucifer entry
+### ערך לוציפר
 
-Satan's specific factional-political opposition to Lucifer is one of the principal operational components of the broader [Lucifer](../lucifer/) entry. The detailed treatment of Lucifer's specific role lives in that entry; the Satan entry's specific contribution is registering the home-world-Council opposition position from which the Earth-based Lucifer faction was distinguished.
+התנגדותו הסיעתית-פוליטית הספציפית של שָׂטָן ללוציפר היא אחד הרכיבים האופרטיביים העיקריים של ערך {% wiki(slug="lucifer") %}לוציפר{% end %} הרחב. הטיפול המפורט בתפקידו הספציפי של לוציפר שוכן באותו ערך; התרומה הספציפית של ערך שָׂטָן היא רישום עמדת אופוזיציית-המועצה של העולם הביתי שממנה הובחנה סיעת לוציפר שבסיסה בכדור הארץ.
 
-### The Serpent entry
+### ערך הנחש
 
-Satan's specific distinction from the Serpent (the Lucifer faction collectively in the Eden-disclosure role) is one of the principal operational components of the broader [Serpent](../serpent/) entry. The detailed treatment of the Serpent figuration lives in that entry; the Satan entry's specific contribution is registering the four-figure taxonomy that distinguishes Satan from the Serpent.
+ההבחנה הספציפית של שָׂטָן מהנחש (סיעת לוציפר באופן קולקטיבי בתפקיד חשיפת עדן) היא אחד הרכיבים האופרטיביים העיקריים של ערך {% wiki(slug="serpent") %}הנחש{% end %} הרחב. הטיפול המפורט בניסוח הנחש שוכן באותו ערך; התרומה הספציפית של ערך שָׂטָן היא רישום הטקסונומיה בת ארבע הדמויות המבחינה בין שָׂטָן לנחש.
 
-### The Council of the Eternals entry
+### ערך מועצת הנצחיים
 
-Satan's specific institutional position as Council opposition leader connects substantially to the broader [Council of the Eternals](../council-of-eternals/) entry. The detailed treatment of the Council's institutional structure lives in that entry; the Satan entry's specific contribution is registering Satan's specific factional-political role within the broader Council dynamics.
+עמדתו המוסדית הספציפית של שָׂטָן כמנהיג אופוזיציית המועצה מתחברת מהותית לערך {% wiki(slug="council-of-eternals") %}מועצת הנצחיים{% end %} הרחב. הטיפול המפורט במבנה המוסדי של המועצה שוכן באותו ערך; התרומה הספציפית של ערך שָׂטָן היא רישום תפקידו הסיעתי-פוליטי הספציפי של שָׂטָן בתוך הדינמיקה הרחבה של המועצה.
 
-### The Yahweh entry
+### ערך יהוה
 
-Satan's specific relationship with Yahweh (the collegial-political relationship across the broader narrative arc) is one of the operational components of the broader [Yahweh](../yahweh/) entry. The detailed treatment of Yahweh as figure lives in that entry; the Satan entry's specific contribution is registering the specific factional-political dynamics between the Council president and the opposition leader.
+יחסו הספציפי של שָׂטָן עם יהוה (יחס העמיתות-הפוליטי לאורך קשת הנרטיב הרחבה) הוא אחד הרכיבים האופרטיביים של ערך {% wiki(slug="yahweh") %}יהוה{% end %} הרחב. הטיפול המפורט ביהוה כדמות שוכן באותו ערך; התרומה הספציפית של ערך שָׂטָן היא רישום הדינמיקה הסיעתית-פוליטית הספציפית בין נשיא המועצה למנהיג האופוזיציה.
 
-### The Great Flood entry
+### ערך המבול הגדול
 
-Satan's specific role in the antediluvian destruction-decision context is one of the operational components of the broader [Great Flood](../great-flood/) entry. The detailed treatment of the flood event lives in that entry; the Satan entry's specific contribution is registering Satan's specific evidence-accumulation function and Council-presentation role.
+תפקידו הספציפי של שָׂטָן בהקשר החלטת ההשמדה הטרום-מבולית הוא אחד הרכיבים האופרטיביים של ערך {% wiki(slug="great-flood") %}המבול הגדול{% end %} הרחב. הטיפול המפורט באירוע המבול שוכן באותו ערך; התרומה הספציפית של ערך שָׂטָן היא רישום פונקציית צבירת-העדויות הספציפית של שָׂטָן ותפקיד הצגת-המועצה.
 
-### The Theomachy entry
+### ערך תיאומאכיה
 
-Satan's specific Council-side participation in the broader Theomachy narrative connects substantially to the broader [Theomachy](../theomachy/) entry. The detailed treatment of the multi-age conflict lives in that entry; the Satan entry's specific contribution is registering Satan's specific factional-political position within the broader conflict's Council-side dynamics.
+השתתפותו הספציפית של שָׂטָן בצד-המועצה בנרטיב התיאומאכיה הרחב מתחברת מהותית לערך {% wiki(slug="theomachy") %}תיאומאכיה{% end %} הרחב. הטיפול המפורט בקונפליקט הרב-עידני שוכן באותו ערך; התרומה הספציפית של ערך שָׂטָן היא רישום עמדתו הסיעתית-פוליטית הספציפית של שָׂטָן בתוך הדינמיקה של צד-המועצה של הקונפליקט הרחב.
 
-### The Cosmic Chain entry
+### ערך השרשרת הקוסמית
 
-Satan's specific post-flood institutional submission following the Cosmic Chain discovery connects substantially to the broader [Cosmic Chain](../cosmic-chain/) entry. The detailed treatment of the Cosmic Chain framework lives in that entry; the Satan entry's specific contribution is registering Satan's specific response to the Cosmic Chain discovery.
+הכניעה המוסדית של שָׂטָן שלאחר המבול בעקבות תגלית השרשרת הקוסמית מתחברת מהותית לערך {% wiki(slug="cosmic-chain") %}השרשרת הקוסמית{% end %} הרחב. הטיפול המפורט במסגרת השרשרת הקוסמית שוכן באותו ערך; התרומה הספציפית של ערך שָׂטָן היא רישום תגובתו הספציפית של שָׂטָן לתגלית השרשרת הקוסמית.
 
-### The Jesus entry
+### ערך ישוע
 
-Satan's specific role in the wilderness testing of Jesus connects substantially to the broader [Jesus](../jesus/) entry. The detailed treatment of Jesus as figure lives in that entry; the Satan entry's specific contribution is registering the institutional prophet-testing function as it applied to Jesus specifically.
+תפקידו הספציפי של שָׂטָן בבחינת המדבר של ישוע מתחבר מהותית לערך {% wiki(slug="jesus") %}ישוע{% end %} הרחב. הטיפול המפורט בישוע כדמות שוכן באותו ערך; התרומה הספציפית של ערך שָׂטָן היא רישום פונקציית בחינת-הנביא המוסדית כפי שהוחלה על ישוע באופן ספציפי.
 
-### The Prophet entry
+### ערך הנביא
 
-Satan's specific institutional prophet-testing role connects substantially to the broader [Prophet](../prophet/) entry. The detailed treatment of the prophetic-tradition lives in that entry; the Satan entry's specific contribution is registering the testing-function across the broader prophetic tradition.
+תפקיד בחינת-הנביא המוסדי הספציפי של שָׂטָן מתחבר מהותית לערך {% wiki(slug="prophet") %}נביא{% end %} הרחב. הטיפול המפורט במסורת הנבואית שוכן באותו ערך; התרומה הספציפית של ערך שָׂטָן היא רישום פונקציית הבחינה לאורך המסורת הנבואית הרחבה.
 
-## Distinguishing from adjacent concepts
+## הבחנה ממושגים סמוכים
 
-### Satan vs. Lucifer
+### שָׂטָן לעומת לוציפר
 
-Lucifer is the Earth-based exiled-creator faction leader; Satan is the home-world Council opposition leader. The two figures occupy distinct locations (Earth vs. home world), distinct political positions (Earth-based dissident vs. Council institutional opposition), and distinct narrative roles (Eden disclosure agent vs. principled-opposition advocate). The two figures are political opponents within the broader Elohim political structure rather than cosmic-good-vs-cosmic-evil personifications.
+לוציפר הוא מנהיג סיעת היוצרים המגורשים שבסיסה בכדור הארץ; שָׂטָן הוא מנהיג אופוזיציית המועצה של העולם הביתי. שתי הדמויות מאכלסות מיקומים מובחנים (כדור הארץ לעומת העולם הביתי), עמדות פוליטיות מובחנות (דיסידנט בכדור הארץ לעומת אופוזיציה מוסדית של המועצה), ותפקידים נרטיביים מובחנים (סוכן חשיפת עדן לעומת תומך התנגדות עקרונית). שתי הדמויות הן יריבים פוליטיים בתוך המבנה הפוליטי הרחב של האלוהים ולא האנשות של טוב-קוסמי-מול-רע-קוסמי.
 
-The relationship is one of **distinct-figures-with-opposing-political-positions**: Lucifer advocates full disclosure to humanity; Satan opposes the human creation entirely. The mainstream Christian-tradition conflation of the two figures into a single cosmic-evil personification represents the result of approximately two thousand years of theological-cultural development that has obscured the original distinct identities.
+היחס הוא של **דמויות-מובחנות-עם-עמדות-פוליטיות-מנוגדות**: לוציפר תומך בחשיפה מלאה לאנושות; שָׂטָן מתנגד לבריאה האנושית כליל. הצליבה במסורת הנוצרית של שתי הדמויות לכדי האנשה קוסמית-רעה אחת מייצגת את התוצאה של כשלושת אלפים שנה של התפתחות תיאולוגית-תרבותית שטשטשה את הזהויות המובחנות המקוריות.
 
-### Satan vs. the Serpent
+### שָׂטָן לעומת הנחש
 
-The Serpent is the specific Hebrew Bible designation (*ha-nachash*) for the Lucifer faction acting in the Genesis 3 Eden-disclosure role. Satan is the home-world Council opposition leader who has never been on Earth. The two figures are distinct: the Serpent operates on Earth in the Eden-disclosure role; Satan operates on the home world in the institutional-political opposition role.
+הנחש הוא הכינוי הספציפי של המקרא העברי (*ha-nachash*) לסיעת לוציפר הפועלת בתפקיד חשיפת עדן של בראשית ג. שָׂטָן הוא מנהיג אופוזיציית המועצה של העולם הביתי שמעולם לא היה בכדור הארץ. שתי הדמויות מובחנות: הנחש פועל בכדור הארץ בתפקיד חשיפת עדן; שָׂטָן פועל בעולם הביתי בתפקיד ההתנגדות המוסדית-פוליטית.
 
-The relationship is one of **distinct-figures-distinguished-by-location-and-role**: the Serpent is on Earth performing the disclosure act; Satan is on the home world performing the institutional opposition function. The mainstream Christian-tradition conflation of the Serpent with Satan represents the result of subsequent theological-cultural development.
+היחס הוא של **דמויות-מובחנות-המובחנות-לפי-מיקום-ותפקיד**: הנחש בכדור הארץ מבצע את מעשה החשיפה; שָׂטָן בעולם הביתי מבצע את פונקציית האופוזיציה המוסדית. הצליבה במסורת הנוצרית של הנחש עם שָׂטָן מייצגת את התוצאה של התפתחות תיאולוגית-תרבותית שלאחר מכן.
 
-### Satan vs. the Devil
+### שָׂטָן לעומת השטן
 
-The Devil — the Greek *diabolos*, "slanderer" — is not a separate figure from Satan but a specific functional designation for Satan's institutional adversarial-interview role. The Greek term translates the Hebrew *satan* with substantively similar functional content (both terms designate the figure by adversarial-opposition function rather than by personal name).
+השטן — ה-*diabolos* היווני, »משמיץ« — אינו דמות נפרדת משָׂטָן אלא כינוי תפקודי ספציפי לתפקיד הראיון-יריבי המוסדי של שָׂטָן. המונח היווני מתרגם את ה-*satan* העברי עם תוכן תפקודי דומה מהותית (שני המונחים מייעדים את הדמות על פי פונקציית התנגדות-יריבית ולא על פי שם אישי).
 
-The relationship is one of **same-figure-with-different-functional-designation-across-languages**: Satan in Hebrew, *diabolos* in Greek, *Diabolus* in Latin, "the Devil" in English religious tradition. The medieval-Christian theological elaboration of "the Devil" with red skin, horns, and cloven hoofs is a cultural overlay on the original linguistic-functional designation.
+היחס הוא של **אותה-דמות-עם-כינוי-תפקודי-שונה-בין-שפות**: שָׂטָן בעברית, *diabolos* ביוונית, *Diabolus* בלטינית, »השטן« במסורת הדתית האנגלית. ההרחבה התיאולוגית הנוצרית של ימי הביניים של »השטן« עם עור אדום, קרניים ופרסות סדוקות היא שכבת ציפוי תרבותית על הכינוי הלשוני-תפקודי המקורי.
 
-### Satan vs. the cosmic-evil personification
+### שָׂטָן לעומת ההאנשה הקוסמית-רעה
 
-The cosmic-evil personification of medieval-Christian theology is the result of approximately two thousand years of progressive conflation of the four originally distinct figures (Satan, Lucifer, the Serpent, the Devil) plus various other adversarial-cosmic figures (the Watchers, the Eden serpent, the Isaiah 14 morning star, the Ezekiel 28 king of Tyre). The framework's specific position registers this as historical-developmental result rather than as the figures' original character.
+ההאנשה הקוסמית-רעה של התיאולוגיה הנוצרית של ימי הביניים היא תוצאה של כשלושת אלפים שנה של צליבה הדרגתית של ארבע הדמויות המובחנות במקור (שָׂטָן, לוציפר, הנחש, השטן) בתוספת דמויות יריבות-קוסמיות אחרות שונות (הצופים, נחש עדן, כוכב הבוקר של ישעיהו י»ד, מלך צור של יחזקאל כ»ח). עמדתה הספציפית של המסגרת רושמת זאת כתוצאה היסטורית-התפתחותית ולא כאופי המקורי של הדמויות.
 
-The relationship is one of **historical-developmental-result-vs-original-character**: the cosmic-evil personification is the conflated figure of subsequent theological-cultural development; the original Hebrew Bible *satan* and the broader four-figure taxonomy are the original framework that the conflation has obscured.
+היחס הוא של **תוצאה-היסטורית-התפתחותית-לעומת-אופי-מקורי**: ההאנשה הקוסמית-רעה היא הדמות המצולבת של ההתפתחות התיאולוגית-תרבותית שלאחר מכן; ה-*satan* המקורי של המקרא העברי והטקסונומיה הרחבה בת ארבע הדמויות הם המסגרת המקורית שהצליבה טשטשה.
 
-## Modern reinterpretations
+## פרשנויות מחודשות מודרניות
 
-### Mainstream Hebrew Bible scholarship
+### מחקר המקרא העברי המרכזי
 
-Mainstream Hebrew Bible scholarship has produced substantial work distinguishing the Hebrew Bible *satan* figure from the later Christian-theological cosmic-evil personification.
+מחקר המקרא העברי המרכזי הניב עבודה מהותית המבחינה בין דמות ה-*satan* של המקרא העברי לבין ההאנשה הקוסמית-רעה התיאולוגית-נוצרית המאוחרת.
 
-**Peggy L. Day**'s *An Adversary in Heaven: Satan in the Hebrew Bible* (Scholars Press, 1988) provided the principal foundational scholarly engagement with the Hebrew Bible *satan* figure. Day's principal thesis: the Hebrew Bible *satan* is a substantially limited and institutional figure rather than the cosmic-evil personification of later tradition. Day's framework demonstrates that the Hebrew Bible's three principal *satan* passages (Job 1-2, Zechariah 3, 1 Chronicles 21) present the figure in institutional rather than cosmic-evil terms, with the figure's character developing across the post-exilic period in directions that subsequent Christian tradition substantially extended.
+*An Adversary in Heaven: Satan in the Hebrew Bible* (Scholars Press, 1988) של **פגי ל. דיי** סיפק את המעורבות המחקרית היסודית העיקרית עם דמות ה-*satan* של המקרא העברי. הטיעון העיקרי של דיי: ה-*satan* של המקרא העברי הוא דמות מוגבלת ומוסדית באופן מהותי ולא ההאנשה הקוסמית-רעה של המסורת המאוחרת. מסגרת דיי מדגימה ששלושת קטעי ה-*satan* העיקריים של המקרא העברי (איוב א–ב, זכריה ג, דברי הימים א כ»א) מציגים את הדמות במונחים מוסדיים ולא קוסמיים-רעים, כאשר אופי הדמות מתפתח לאורך התקופה שלאחר הגלות בכיוונים שהמסורת הנוצרית שלאחר מכן הרחיבה מהותית.
 
-**Marvin H. Pope**'s *Job* (Anchor Bible, Doubleday, 1965; 3rd ed., 1973) provided substantial scholarly treatment of the Job episode with detailed engagement with the Hebrew *satan* figure's institutional character within the divine council framework. Pope's specific contribution: substantial documentation of the Near Eastern divine-council parallels and the institutional-procedural character of the Job dialogue.
+*Job* (Anchor Bible, Doubleday, 1965; מהדורה שלישית, 1973) של **מרווין ה. פופ** סיפק טיפול מחקרי מהותי בפרק איוב עם מעורבות מפורטת באופיה המוסדי של דמות ה-*satan* העברי בתוך מסגרת המועצה האלוהית. תרומתו הספציפית של פופ: תיעוד מהותי של ההקבלות במזרח הקדום למועצה האלוהית והאופי המוסדי-פרוצדורלי של דיאלוג איוב.
 
-**Norman C. Habel**'s *The Book of Job* (Westminster Press, 1985) provided substantial complementary scholarly treatment with substantial attention to the figure's institutional role within the broader Job-narrative framework.
+*The Book of Job* (Westminster Press, 1985) של **נורמן ק. הבל** סיפק טיפול מחקרי משלים מהותי עם תשומת לב מהותית לתפקיד המוסדי של הדמות בתוך מסגרת נרטיב איוב הרחב.
 
-**Various subsequent scholarship**. Substantial subsequent Hebrew Bible scholarship (Carol A. Newsom's *The Book of Job: A Contest of Moral Imaginations*, Oxford University Press, 2003; David J. A. Clines's three-volume *Job* commentary in the Word Biblical Commentary series; various other contributions) has continued to develop the scholarly understanding of the Hebrew Bible *satan* figure within the broader Hebrew Bible religious-cultural context.
+**מחקר מהותי שלאחר מכן**. מחקר מקרא עברי מהותי שלאחר מכן (*The Book of Job: A Contest of Moral Imaginations* של קרול א. ניוסם, Oxford University Press, 2003; הפירוש בן שלושת הכרכים של דייוויד ג'. א. קליינס על איוב בסדרת Word Biblical Commentary; תרומות אחרות שונות) המשיך לפתח את ההבנה המחקרית של דמות ה-*satan* של המקרא העברי בתוך ההקשר הדתי-תרבותי הרחב של המקרא העברי.
 
-### The Second Temple period satan-development scholarship
+### מחקר התפתחות שָׂטָן בתקופת הבית השני
 
-Mainstream Second Temple Judaism scholarship has produced substantial work on the satan-figure development across this period.
+מחקר מרכזי של יהדות הבית השני הניב עבודה מהותית על התפתחות דמות שָׂטָן לאורך תקופה זו.
 
-**The Persian dualistic influence**. **Mary Boyce**'s *Zoroastrians: Their Religious Beliefs and Practices* (Routledge, 1979) and various other works documented the substantial Zoroastrian influence on Second Temple Judaism. The principal influence: the cosmic-dualistic framework (Ahura Mazda vs. Angra Mainyu / Ahriman) provided substantial conceptual material that was progressively absorbed into Jewish theological development across the post-exilic period.
+**ההשפעה הדואליסטית הפרסית**. *Zoroastrians: Their Religious Beliefs and Practices* (Routledge, 1979) של **מרי בויס** ויצירות שונות אחרות תיעדו את ההשפעה הזורואסטרית המהותית על יהדות הבית השני. ההשפעה העיקרית: המסגרת הקוסמית-דואליסטית (אהורה מזדה לעומת אנגרה מאיניו / אהרימן) סיפקה חומר רעיוני מהותי שנספג בהדרגה אל ההתפתחות התיאולוגית היהודית לאורך התקופה שלאחר הגלות.
 
-**The Watchers tradition scholarship**. **George W. E. Nickelsburg**'s *1 Enoch 1: A Commentary on the Book of 1 Enoch, Chapters 1-36; 81-108* (Hermeneia, Fortress Press, 2001) and various other scholarship documented the Watchers tradition's substantial role in shaping Second Temple demonological development. The principal contribution: the Watchers narrative provided substantial conceptual material for the development of cosmic-evil-figure traditions that would subsequently shape Christian theological elaboration.
+**מחקר מסורת הצופים**. *1 Enoch 1: A Commentary on the Book of 1 Enoch, Chapters 1-36; 81-108* (Hermeneia, Fortress Press, 2001) של **ג'ורג' ו. א. ניקלסבורג** ומחקר שונה אחר תיעדו את תפקידה המהותי של מסורת הצופים בעיצוב ההתפתחות הדמונולוגית של תקופת הבית השני. התרומה העיקרית: נרטיב הצופים סיפק חומר רעיוני מהותי להתפתחות מסורות דמות-הרוע הקוסמי שיעצבו לאחר מכן את ההרחבה התיאולוגית הנוצרית.
 
-**Annette Yoshiko Reed's broader scholarship**. **Annette Yoshiko Reed**'s *Fallen Angels and the History of Judaism and Christianity: The Reception of Enochic Literature* (Cambridge University Press, 2005) provided substantial subsequent scholarly treatment of the Watchers tradition's influence on subsequent Jewish and Christian development.
+**המחקר הרחב של אנט יושיקו ריד**. *Fallen Angels and the History of Judaism and Christianity: The Reception of Enochic Literature* (Cambridge University Press, 2005) של **אנט יושיקו ריד** סיפק טיפול מחקרי מהותי שלאחר מכן בהשפעת מסורת הצופים על ההתפתחות היהודית והנוצרית שלאחר מכן.
 
-**The Qumran scholarship**. Substantial Qumran scholarship (Geza Vermes's various works, Lawrence H. Schiffman's *Reclaiming the Dead Sea Scrolls*, James VanderKam's *The Dead Sea Scrolls Today*, various other contributions) has documented the Qumran community's specific dualistic framework and its substantial influence on subsequent Jewish-Christian development.
+**מחקר קומראן**. מחקר קומראן מהותי (יצירותיו השונות של גזה ורמש, *Reclaiming the Dead Sea Scrolls* של לורנס ה. שיפמן, *The Dead Sea Scrolls Today* של ג'יימס ונדרקאם, תרומות אחרות שונות) תיעד את המסגרת הדואליסטית הספציפית של קהילת קומראן ואת השפעתה המהותית על ההתפתחות היהודית-נוצרית שלאחר מכן.
 
-### The Christian-tradition demonology development
+### התפתחות הדמונולוגיה במסורת הנוצרית
 
-Mainstream scholarship on the Christian-tradition demonology development has produced substantial work.
+מחקר מרכזי על התפתחות הדמונולוגיה במסורת הנוצרית הניב עבודה מהותית.
 
-**Jeffrey Burton Russell's four-volume series**. The principal foundational scholarly history:
+**סדרת ארבעת הכרכים של ג'פרי ברטון ראסל**. ההיסטוריה המחקרית היסודית העיקרית:
 
-- **Russell**, *The Devil: Perceptions of Evil from Antiquity to Primitive Christianity* (Cornell University Press, 1977) — the development from antiquity through early Christianity
-- **Russell**, *Satan: The Early Christian Tradition* (Cornell University Press, 1981) — the early Christian-period development
-- **Russell**, *Lucifer: The Devil in the Middle Ages* (Cornell University Press, 1984) — the medieval-period development
-- **Russell**, *Mephistopheles: The Devil in the Modern World* (Cornell University Press, 1986) — the modern-period development
+- **ראסל**, *The Devil: Perceptions of Evil from Antiquity to Primitive Christianity* (Cornell University Press, 1977) — ההתפתחות מהעת העתיקה ועד הנצרות הקדומה
+- **ראסל**, *Satan: The Early Christian Tradition* (Cornell University Press, 1981) — ההתפתחות בתקופה הנוצרית הקדומה
+- **ראסל**, *Lucifer: The Devil in the Middle Ages* (Cornell University Press, 1984) — ההתפתחות בתקופת ימי הביניים
+- **ראסל**, *Mephistopheles: The Devil in the Modern World* (Cornell University Press, 1986) — ההתפתחות בתקופה המודרנית
 
-The four-volume series provides substantial documentation of approximately three thousand years of religious-cultural development of the satan-devil-lucifer figuration, with substantial historical-developmental analysis of how the original limited Hebrew Bible figure progressively developed into the elaborate medieval-modern cosmic-evil personification.
+סדרת ארבעת הכרכים מספקת תיעוד מהותי של כשלושת אלפים שנה של התפתחות דתית-תרבותית של ניסוח שָׂטָן-השטן-לוציפר, עם ניתוח היסטורי-התפתחותי מהותי של איך הדמות המוגבלת המקורית של המקרא העברי התפתחה בהדרגה לכדי ההאנשה הקוסמית-רעה המורכבת של ימי הביניים-העת המודרנית.
 
-**Elaine Pagels**'s *The Origin of Satan* (Random House, 1995) provided substantial subsequent scholarly engagement with the early Christian development of the satan figure. Pagels's principal contribution: substantial documentation of the social-political functions of the cosmic-evil-personification framework in the early Christian community's self-definition against various rival groups (Jewish opponents, pagan opponents, heretical-Christian opponents). The analysis registers the satan-development as substantially shaped by political-social dynamics rather than as purely theological development.
+*The Origin of Satan* (Random House, 1995) של **איליין פייגלס** סיפק מעורבות מחקרית מהותית שלאחר מכן עם ההתפתחות הנוצרית הקדומה של דמות שָׂטָן. תרומתה העיקרית של פייגלס: תיעוד מהותי של הפונקציות הסוציאליות-פוליטיות של מסגרת ההאנשה הקוסמית-רעה בהגדרה העצמית של הקהילה הנוצרית הקדומה נגד קבוצות יריבות שונות (יריבים יהודיים, יריבים פגאניים, יריבים נוצריים-כופרים). הניתוח רושם את התפתחות שָׂטָן כמעוצבת מהותית על ידי דינמיקה פוליטית-סוציאלית ולא כהתפתחות תיאולוגית טהורה.
 
-**Henry Ansgar Kelly's revisionist scholarship**. **Kelly**'s *Satan: A Biography* (Cambridge University Press, 2006) provided substantial revisionist scholarship arguing that the cosmic-evil-personification figure of medieval-Christian tradition is substantively distinct from the original Hebrew Bible figure. Kelly's framework registers substantial structural alignment with the corpus's specific position on the conflation history while operating from distinct source-material warrant principally drawn from mainstream historical-philological scholarship.
+**המחקר הרוויזיוניסטי של הנרי אנסגר קלי**. *Satan: A Biography* (Cambridge University Press, 2006) של **קלי** סיפק מחקר רוויזיוניסטי מהותי הטוען שדמות ההאנשה הקוסמית-רעה של המסורת הנוצרית של ימי הביניים מובחנת מהותית מדמות המקרא העברי המקורית. מסגרת קלי רושמת התיישרות מבנית מהותית עם העמדה הספציפית של הקורפוס על היסטוריית הצליבה תוך פעולה ממנדט חומר-מקור מובחן הנשען בעיקר על מחקר היסטורי-פילולוגי מרכזי.
 
-**Various subsequent scholarship**. Substantial subsequent scholarship (Bernard McGinn's *Antichrist: Two Thousand Years of the Human Fascination with Evil*, Harper, 1994; W. Sibley Towner's various works; various other contributions) has continued to develop the scholarly understanding of the satan-devil-lucifer figuration's historical development.
+**מחקר מהותי שלאחר מכן**. מחקר מהותי שלאחר מכן (*Antichrist: Two Thousand Years of the Human Fascination with Evil* של ברנרד מקגין, Harper, 1994; יצירותיו השונות של ו. סיבלי טאונר; תרומות אחרות שונות) המשיך לפתח את ההבנה המחקרית של ההתפתחות ההיסטורית של ניסוח שָׂטָן-השטן-לוציפר.
 
-### The Islamic shaytan/Iblis tradition
+### מסורת שיטאן/אבליס האסלאמית
 
-Mainstream Islamic scholarship has produced substantial work on the shaytan/Iblis figure.
+מחקר מרכזי אסלאמי הניב עבודה מהותית על דמות שיטאן/אבליס.
 
-**Whitney S. Bodman**'s *The Poetics of Iblīs: Narrative Theology in the Qurʼān* (Harvard Theological Studies, 2011) provided substantial scholarly treatment of the Quranic Iblis figure with substantial attention to the figure's specific narrative-theological role within the broader Quranic framework.
+*The Poetics of Iblīs: Narrative Theology in the Qurʼān* (Harvard Theological Studies, 2011) של **וויטני ס. בודמן** סיפק טיפול מחקרי מהותי בדמות אבליס הקוראנית עם תשומת לב מהותית לתפקיד הנרטיבי-תיאולוגי הספציפי של הדמות בתוך המסגרת הקוראנית הרחבה.
 
-**Peter J. Awn**'s *Satan's Tragedy and Redemption: Iblīs in Sufi Psychology* (Brill, 1983) provided substantial scholarly treatment of the Islamic Sufi tradition's specific engagement with the Iblis figure, with substantial attention to the various theological-mystical elaborations of the figure across the Sufi tradition.
+*Satan's Tragedy and Redemption: Iblīs in Sufi Psychology* (Brill, 1983) של **פיטר ג'. אווין** סיפק טיפול מחקרי מהותי במעורבות הספציפית של המסורת הסופית האסלאמית עם דמות אבליס, עם תשומת לב מהותית להרחבות התיאולוגיות-מיסטיות השונות של הדמות לאורך המסורת הסופית.
 
-**Various subsequent scholarship**. Substantial subsequent Islamic scholarship has continued to develop the understanding of the shaytan/Iblis figure within the broader Islamic theological-philosophical framework.
+**מחקר מהותי שלאחר מכן**. מחקר אסלאמי מהותי שלאחר מכן המשיך לפתח את ההבנה של דמות שיטאן/אבליס בתוך המסגרת התיאולוגית-פילוסופית האסלאמית הרחבה.
 
-### The framework's relationship to the broader landscape
+### יחס המסגרת לנוף הרחב
 
-The Wheel of Heaven corpus's Satan treatment is positioned within this scholarly landscape as follows: substantially aligned with mainstream Hebrew Bible scholarship at the institutional-character recognition level (recognizing the figure's original limited and institutional character); substantially aligned with mainstream Second Temple period scholarship at the development-history level (recognizing the substantial Persian dualistic influence and the Watchers tradition's contribution); substantially aligned with mainstream Christian-tradition scholarship at the historical-developmental documentation level (recognizing the substantial post-Hebrew Bible elaboration); substantively distinct from mainstream scholarship at the underlying-historical-event level (the corpus's framework reads the Hebrew Bible *satan* and the broader related figures as preserving memory of actual events involving an actual Eloha figure, while mainstream scholarship generally treats the figure as religious-cultural development without specific historical referent); substantially aligned with various alternative-history scholarly traditions (Biglino's strict-translational approach, Kelly's revisionist position) at the broader interpretive-framework level.
+טיפול שָׂטָן של קורפוס גלגל השמיים ממוקם בתוך הנוף המחקרי כדלקמן: מיושר מהותית עם מחקר המקרא העברי המרכזי ברמת הכרת האופי המוסדי (הכרת האופי המוגבל והמוסדי המקורי של הדמות); מיושר מהותית עם מחקר תקופת הבית השני המרכזי ברמת היסטוריית ההתפתחות (הכרת ההשפעה הדואליסטית הפרסית המהותית ותרומת מסורת הצופים); מיושר מהותית עם מחקר המסורת הנוצרית המרכזי ברמת התיעוד ההיסטורי-התפתחותי (הכרת ההרחבה המהותית שלאחר המקרא העברי); מובחן מהותית ממחקר מרכזי ברמת האירוע ההיסטורי הבסיסי (מסגרת הקורפוס קוראת את ה-*satan* של המקרא העברי ואת הדמויות הקשורות הרחבות כשומרות זיכרון של אירועים בפועל המערבים דמות אלוהה ממשית, בעוד שמחקר מרכזי בדרך כלל מתייחס לדמות כהתפתחות דתית-תרבותית ללא מתייחס היסטורי ספציפי); מיושר מהותית עם מסורות מחקריות אלטרנטיביות שונות של היסטוריה (הגישה התרגומית-המחמירה של ביגלינו, העמדה הרוויזיוניסטית של קלי) ברמת המסגרת הפרשנית הרחבה.
 
-## Comparative observations
+## תצפיות השוואתיות
 
-The Satan figure has substantial cross-cultural parallels in various religious-traditional contexts worldwide.
+לדמות שָׂטָן יש הקבלות בין-תרבותיות מהותיות בהקשרים דתיים-מסורתיים שונים ברחבי העולם.
 
-### Zoroastrian Angra Mainyu / Ahriman
+### אנגרה מאיניו / אהרימן הזורואסטרי
 
-The Zoroastrian tradition preserves the principal cosmic-dualism antecedent that substantially influenced Second Temple Judaism and subsequent Christian-tradition development.
+המסורת הזורואסטרית שומרת את התקדים העיקרי של הדואליזם הקוסמי שהשפיע מהותית על יהדות הבית השני ועל ההתפתחות הנוצרית-מסורתית שלאחר מכן.
 
-**Angra Mainyu**. The Zoroastrian *Angra Mainyu* (Avestan: 𐬀𐬢𐬭𐬀⸱𐬨𐬀𐬌𐬥𐬌𐬌𐬎, "destructive spirit," "evil spirit") is the principal cosmic-evil figure in Zoroastrianism. The figure operates in cosmic opposition to **Ahura Mazda** (the principle of good, light, truth, and order) and is associated with cosmic chaos, evil, deception, and destruction.
+**אנגרה מאיניו**. ה*אנגרה מאיניו* הזורואסטרי (אווסטית: 𐬀𐬢𐬭𐬀⸱𐬨𐬀𐬌𐬥𐬌𐬌𐬎, »רוח הרסנית«, »רוח רעה«) הוא דמות הרוע הקוסמי העיקרית בזורואסטריות.{{ cite(id="avesta", text="[9]", title="*אווסטה* — כתבי הקודש הזורואסטריים; המסגרת הקוסמית-דואליסטית של אנגרה מאיניו / אהורה מזדה") }} הדמות פועלת בהתנגדות קוסמית ל**אהורה מזדה** (עיקרון הטוב, האור, האמת והסדר) וקשורה לכאוס קוסמי, רוע, הונאה והרס.
 
-**Ahriman**. The later Pahlavi/Middle Persian designation **Ahriman** is the principal subsequent designation for the same figure, with substantial development across the Sasanian and post-Sasanian periods.
+**אהרימן**. הכינוי הפהלווי / פרסית-תיכונה המאוחר יותר **אהרימן** הוא הכינוי העיקרי שלאחר מכן לאותה דמות, עם התפתחות מהותית לאורך התקופות הסאסאנית ולאחר הסאסאנית.
 
-**The cosmic-dualistic framework**. The Zoroastrian framework treats the Angra Mainyu / Ahriman figure as substantively co-eternal with Ahura Mazda, with the cosmic order being structured as fundamental opposition between the two principles. The dualistic framework has substantial implications for the broader cosmological-theological structure.
+**המסגרת הקוסמית-דואליסטית**. המסגרת הזורואסטרית מתייחסת לדמות אנגרה מאיניו / אהרימן כקדמונית-יחד מהותית עם אהורה מזדה, כאשר הסדר הקוסמי בנוי כהתנגדות יסודית בין שני העקרונות. למסגרת הדואליסטית יש השלכות מהותיות למבנה הקוסמולוגי-תיאולוגי הרחב.
 
-**The influence on Second Temple Judaism**. The Achaemenid Persian Empire's substantial cultural-political influence on the Jewish post-exilic community produced substantial Zoroastrian influence on Second Temple Jewish theological development. The principal influence: the cosmic-dualistic framework provided substantial conceptual material that was progressively absorbed into the Jewish development of the *satan* figure, with the originally limited Hebrew Bible figure progressively absorbing aspects of the Zoroastrian dualistic framework.
+**ההשפעה על יהדות הבית השני**. ההשפעה התרבותית-פוליטית המהותית של האימפריה הפרסית האחמנית על הקהילה היהודית שלאחר הגלות הניבה השפעה זורואסטרית מהותית על ההתפתחות התיאולוגית היהודית של הבית השני. ההשפעה העיקרית: המסגרת הקוסמית-דואליסטית סיפקה חומר רעיוני מהותי שנספג בהדרגה אל התפתחות דמות ה-*satan* היהודית, כאשר דמות המקרא העברי המוגבלת במקור סופחה בהדרגה אל היבטים של המסגרת הדואליסטית הזורואסטרית.
 
-**The corpus's reading**. The Zoroastrian Angra Mainyu / Ahriman framework registers substantial parallel content to the broader cosmic-opposition pattern, while operating within the distinctive Zoroastrian cosmological-theological framing. The framework's specific reading: the Zoroastrian figure may preserve cultural memory of the same broader cosmic-political opposition pattern that the Hebrew Bible *satan* figure preserves in distinctive Jewish framing, with both traditions reflecting the broader cross-cultural Theomachy pattern that the corpus's framework articulates more fully in the [Theomachy](../theomachy/) entry.
+**קריאת הקורפוס**. מסגרת אנגרה מאיניו / אהרימן הזורואסטרית רושמת תוכן מקביל מהותי לדפוס הרחב של ההתנגדות הקוסמית, תוך פעולה בתוך המסגור הקוסמולוגי-תיאולוגי הזורואסטרי המובחן. הקריאה הספציפית של המסגרת: הדמות הזורואסטרית עשויה לשמר זיכרון תרבותי של אותו דפוס רחב של התנגדות פוליטית-קוסמית שדמות ה-*satan* של המקרא העברי שומרת במסגור היהודי המובחן, כאשר שתי המסורות משקפות את דפוס התיאומאכיה הבין-תרבותי הרחב שמסגרת הקורפוס מנסחת בהרחבה רבה יותר בערך {% wiki(slug="theomachy") %}תיאומאכיה{% end %}.
 
-### Vedic-Hindu adversarial figures
+### דמויות יריבות וודיות-הינדואיסטיות
 
-The Vedic-Hindu tradition preserves substantial adversarial-cosmic figures with various structural parallels to the satan figuration.
+המסורת הוודית-הינדואיסטית שומרת דמויות יריבות-קוסמיות מהותיות עם הקבלות מבניות שונות לניסוח השָׂטָן.
 
-**The asuras**. The Vedic and post-Vedic *asuras* (असुर) are often translated "demons" but more accurately "the powerful ones" or "the other gods" — the figures who operate in cosmic opposition to the *devas* (the gods of the established cosmic order). The detailed treatment of the deva-asura conflicts lives in the [Theomachy](../theomachy/) entry's Comparative observations section.
+**האסורות**. ה*אסורות* הוודיים והפוסט-וודיים (असुर) מתורגמים לעתים קרובות כ»שדים« אך באופן מדויק יותר כ»החזקים« או »האלים האחרים« — הדמויות הפועלות בהתנגדות קוסמית ל*דוואות* (אלי הסדר הקוסמי המבוסס). הטיפול המפורט בקונפליקטים בין דוואות-אסורות שוכן בסעיף תצפיות השוואתיות של ערך {% wiki(slug="theomachy") %}תיאומאכיה{% end %}.
 
-**Specific asura figures**. Various specific asura figures register substantial adversarial-cosmic content: **Vritra** (the dragon-serpent slain by Indra), **Bali** (the demon-king defeated by Vishnu's Vamana avatar), **Hiranyakashipu** (the demon-king defeated by Vishnu's Narasimha avatar), **Mahishasura** (the buffalo-demon defeated by Durga), and various others. The broader pattern: each asura figure represents specific cosmic-opposition role within the broader cosmic-political framework.
+**דמויות אסורה ספציפיות**. דמויות אסורה ספציפיות שונות רושמות תוכן יריב-קוסמי מהותי: **וריטרה** (הדרקון-נחש שאינדרה הרג), **באלי** (מלך-השד שהובס על ידי האוואטר ואמנה של וישנו), **הירניאקאשיפו** (מלך-השד שהובס על ידי האוואטר נרסימהה של וישנו), **מהישאסורה** (השד-תאו שהובס על ידי דורגה), ואחרים שונים. הדפוס הרחב: כל דמות אסורה מייצגת תפקיד התנגדות-קוסמי ספציפי בתוך המסגרת הפוליטית-קוסמית הרחבה.
 
-**The cyclical-opposition character**. The Hindu tradition's distinctive treatment of the deva-asura conflicts as cyclical (recurring across cosmic ages) registers substantial parallel content to the broader Theomachy pattern, with the corpus's reading registering this as preserving cultural memory of the multi-phase historical conflict.
+**האופי המחזורי של ההתנגדות**. הטיפול המובחן של המסורת ההינדואיסטית בקונפליקטים דוואות-אסורות כמחזוריים (חוזרים לאורך עידנים קוסמיים) רושם תוכן מקביל מהותי לדפוס התיאומאכיה הרחב, כאשר הקריאה של הקורפוס רושמת זאת כשומרת זיכרון תרבותי של הקונפליקט ההיסטורי הרב-שלבי.
 
-### Buddhist Mara
+### מארה הבודהיסטי
 
-The Buddhist tradition preserves the **Mara** (Sanskrit: माय, "death," "destroyer") figure with substantial structural parallel to the satan figuration.
+המסורת הבודהיסטית שומרת את דמות **מארה** (סנסקריט: माय, »מוות«, »משחית«) עם הקבלה מבנית מהותית לניסוח השָׂטָן.
 
-**Mara as tempter**. Mara is the principal Buddhist adversarial figure who attempts to prevent the Buddha's enlightenment under the Bodhi tree. The Mara narrative comprises various specific temptation-attempts: the daughters of Mara as sensual temptresses, the Mara armies as fear-inducing forces, the various challenges to the Buddha's right to enlightenment.
+**מארה כמפתה**. מארה היא דמות היריבה הבודהיסטית העיקרית המנסה למנוע את הארת הבודהה מתחת לעץ הבודהי. נרטיב מארה כולל ניסיונות פיתוי ספציפיים שונים: בנות מארה כמפתות חושניות, צבאות מארה ככוחות המעוררים פחד, האתגרים השונים לזכותו של הבודהה להארה.
 
-**The structural parallel to Jesus's wilderness testing**. The Mara-Buddha confrontation has substantial structural parallel to the Satan-Jesus wilderness-testing narrative. Both narratives feature: a cosmic adversary attempting to prevent the principal religious figure from achieving the principal religious mission; specific temptation-attempts covering principal vulnerability categories (sensual desire, fear, pride/ambition); the principal religious figure's successful resistance through specific spiritual-discipline practices; the eventual departure of the adversary.
+**ההקבלה המבנית לבחינת המדבר של ישוע**. למפגש מארה-בודהה יש הקבלה מבנית מהותית לנרטיב בחינת המדבר של שָׂטָן-ישוע. שני הנרטיבים כוללים: יריב קוסמי המנסה למנוע מהדמות הדתית העיקרית מלהשיג את המשימה הדתית העיקרית; ניסיונות פיתוי ספציפיים המכסים קטגוריות פגיעות עיקריות (תשוקה חושנית, פחד, גאווה/שאפתנות); ההתנגדות המוצלחת של הדמות הדתית העיקרית באמצעות פרקטיקות של משמעת רוחנית ספציפית; היציאה הסופית של היריב.
 
-**The institutional-tester reading**. The framework's specific reading registers Mara as preserving substantial parallel content to the broader prophet-testing institutional pattern that the corpus articulates through the satan figuration. The Mara-Buddha narrative may preserve cultural memory of the same broader institutional-testing function in distinctive Buddhist religious-philosophical framing.
+**הקריאה כבוחן מוסדי**. הקריאה הספציפית של המסגרת רושמת את מארה כשומרת תוכן מקביל מהותי לדפוס המוסדי הרחב של בחינת-הנביא שהקורפוס מנסח באמצעות ניסוח השָׂטָן. נרטיב מארה-בודהה עשוי לשמר זיכרון תרבותי של אותה פונקציית בחינה מוסדית רחבה במסגור הדתי-פילוסופי הבודהיסטי המובחן.
 
-### Egyptian Set
+### סת המצרי
 
-The Egyptian tradition preserves the **Set** (Egyptian: *Sutekh*, *Sutech*) figure as principal cosmic-opposition figure with substantial parallel content.
+המסורת המצרית שומרת את דמות **סת** (מצרית: *Sutekh*, *Sutech*) כדמות התנגדות-קוסמית עיקרית עם תוכן מקביל מהותי.
 
-**Set's specific role**. Set is the Egyptian god of chaos, foreigners, deserts, and the disruptive principle. Set's narrative comprises the murder of Osiris (the god of order and rightful kingship), the conflict with Horus (Osiris's son and avenger), and the eventual divine-judgment resolution that establishes Horus as legitimate king while leaving Set with rulership of the desert and foreign lands.
+**תפקידו הספציפי של סת**. סת הוא אל הכאוס, הזרים, המדבריות, ועיקרון השיבוש המצרי. נרטיב סת כולל את רצח אוסיריס (אל הסדר והמלוכה הצודקת), את הקונפליקט עם הורוס (בנו ונוקמו של אוסיריס), ואת פתרון המשפט האלוהי הסופי המבסס את הורוס כמלך לגיטימי תוך הותרת סת עם שלטון על המדבר והארצות הזרות.
 
-**The corpus's reading**. The corpus's reading treats Set as preserving cultural memory of the broader Serpentine/Lucifer faction in its post-conflict political marginalization. The detailed treatment lives in the [Theomachy](../theomachy/) entry's Comparative observations section. The Set figure's specific character — preserving certain powers while being excluded from cosmic centrality — parallels the political shape of the corpus's framework's predicted post-conflict settlement.
+**קריאת הקורפוס**. הקריאה של הקורפוס מתייחסת לסת כשומר זיכרון תרבותי של סיעת הנחש/לוציפר הרחבה בשוליות הפוליטית שלאחר הקונפליקט שלה. הטיפול המפורט שוכן בסעיף תצפיות השוואתיות של ערך {% wiki(slug="theomachy") %}תיאומאכיה{% end %}. אופיה הספציפי של דמות סת — שמירת כוחות מסוימים תוך הוצאתה מהמרכזיות הקוסמית — מקביל לצורה הפוליטית של ההסדר שלאחר הקונפליקט שמסגרת הקורפוס חוזה.
 
-### Mesopotamian adversarial figures
+### דמויות יריבות מסופוטמיות
 
-The Mesopotamian tradition preserves substantial adversarial-cosmic content across various specific figures.
+המסורת המסופוטמית שומרת תוכן יריב-קוסמי מהותי לאורך דמויות ספציפיות שונות.
 
-**Pazuzu**. The Mesopotamian **Pazuzu** is one specific demonic figure, particularly associated with disease and protection-against-other-evils. The figure's specific apotropaic function (used to ward off other evils) registers distinctive Mesopotamian adversarial-figure content.
+**פאזוזו**. ה**פאזוזו** המסופוטמי הוא דמות דמונית ספציפית אחת, הקשורה במיוחד למחלה ולהגנה-מפני-רעות-אחרות. הפונקציה האפוטרופאית הספציפית של הדמות (משמשת להרחקת רעות אחרות) רושמת תוכן יריב-דמותי מסופוטמי מובחן.
 
-**The broader demon-traditions**. Mesopotamian religious-magical tradition preserves substantial broader demon-traditions including **Lamashtu** (the female demon associated with miscarriage and infant death), **Lilitu** (the female-demon precursor to the later Hebrew Lilith), and various other adversarial-cosmic figures. The broader tradition provides substantial cultural-religious context within which the Hebrew Bible's adversarial-figure development operated.
+**מסורות השדים הרחבות**. המסורת הדתית-מאגית המסופוטמית שומרת מסורות שדים רחבות מהותיות הכוללות את **לאמשטו** (השדה הנקבית הקשורה להפלה ולמוות תינוקות), **לילית** (הקודמת השדה-נקבית של לילית העברית המאוחרת), ודמויות יריבות-קוסמיות אחרות שונות. המסורת הרחבה מספקת הקשר תרבותי-דתי מהותי שבתוכו פעלה התפתחות דמויות היריב של המקרא העברי.
 
-**Tiamat**. The Mesopotamian *Tiamat* (the primordial serpentine mother of the *Enuma Elish*) is treated more fully in the [Theomachy](../theomachy/) entry. The figure preserves substantial parallel content to the broader Serpentine/Lucifer faction tradition rather than to the Satan tradition specifically.
+**תיאמאט**. ה*תיאמאט* המסופוטמית (האם הקדמונית-נחשית של ה-*אנומה אליש*) מטופלת בהרחבה רבה יותר בערך {% wiki(slug="theomachy") %}תיאומאכיה{% end %}. הדמות שומרת תוכן מקביל מהותי למסורת הנחש/לוציפר הרחבה ולא למסורת השָׂטָן הספציפית.
 
-### Chinese cosmic-bureaucratic opposition figures
+### דמויות התנגדות קוסמיות-בירוקרטיות סיניות
 
-The Chinese tradition preserves substantial cosmic-opposition content within the distinctive Chinese cosmic-bureaucratic framework.
+המסורת הסינית שומרת תוכן התנגדות קוסמית מהותי בתוך המסגרת הקוסמית-בירוקרטית הסינית המובחנת.
 
-**Various rebel-divine figures**. The Chinese mythological tradition preserves various rebel-divine figures who operate in cosmic-political opposition to the celestial bureaucracy: **Sun Wukong** (the Monkey King who challenges heaven's authority), **Gonggong** (the water-deity who damages the cosmic pillars), and various other rebel-cosmic figures. The figures operate within the distinctive Chinese cosmic-bureaucratic political framework rather than as cosmic-evil personifications.
+**דמויות אלוהיות מורדות שונות**. המסורת המיתולוגית הסינית שומרת דמויות אלוהיות מורדות שונות הפועלות בהתנגדות קוסמית-פוליטית לבירוקרטיה השמיימית: **סון ווקונג** (מלך הקופים המאתגר את סמכות השמיים), **גונגגונג** (אל המים הפוגע בעמודים הקוסמיים), ודמויות מורדות-קוסמיות אחרות שונות. הדמויות פועלות בתוך המסגרת הפוליטית הקוסמית-בירוקרטית הסינית המובחנת ולא כהאנשות קוסמיות-רעות.
 
-**The bureaucratic-political characterization**. The Chinese tradition's distinctive feature is the bureaucratic-political characterization of cosmic authority, with the rebel figures often characterized as challenging the established celestial-bureaucratic order rather than as primordial chaos-figures. The framework's specific reading registers this as preserving the broader political-institutional opposition pattern within the distinctively Chinese cultural-political framing.
+**האפיון הבירוקרטי-פוליטי**. התכונה המובחנת של המסורת הסינית היא האפיון הבירוקרטי-פוליטי של הסמכות הקוסמית, כאשר הדמויות המורדות מאופיינות לעתים קרובות כמאתגרות את הסדר השמיימי-בירוקרטי המבוסס ולא כדמויות-כאוס קדמוניות. הקריאה הספציפית של המסגרת רושמת זאת כשומרת את דפוס ההתנגדות הפוליטי-מוסדי הרחב בתוך המסגור התרבותי-פוליטי הסיני המובחן באופן מובהק.
 
-### Norse Loki
+### לוקי הנורדי
 
-The Norse tradition preserves the **Loki** figure as trickster-adversary with complex moral status.
+המסורת הנורדית שומרת את דמות **לוקי** כתועה-יריב עם מעמד מוסרי מורכב.
 
-**Loki's specific character**. Loki is a complex figure who operates simultaneously within and against the Aesir divine community. The figure's specific character includes: substantial cooperation with the Aesir on various adventures; substantial deception and trouble-causing across the broader Norse mythological narrative; the killing of Baldr (the principal cosmic-tragic event); the eventual binding of Loki and his prophesied participation in Ragnarök.
+**אופיו הספציפי של לוקי**. לוקי הוא דמות מורכבת הפועלת בו זמנית בתוך ונגד הקהילה האלוהית האסיר. אופיה הספציפי של הדמות כולל: שיתוף פעולה מהותי עם האסיר בהרפתקאות שונות; הונאה מהותית ויצירת צרות לאורך הנרטיב הנורדי-מיתולוגי הרחב; הריגת בלדר (האירוע הקוסמי-טראגי העיקרי); הכבילה הסופית של לוקי והשתתפותו המנובאת ברגנארוק.
 
-**The complex moral status**. Loki's specific position registers substantial moral-political complexity rather than cosmic-evil personification. The figure operates as institutional insider with adversarial tendencies rather than as external cosmic adversary.
+**המעמד המוסרי המורכב**. עמדתו הספציפית של לוקי רושמת מורכבות מוסרית-פוליטית מהותית ולא האנשה קוסמית-רעה. הדמות פועלת כפנימאי מוסדי עם נטיות יריביות ולא כיריב קוסמי חיצוני.
 
-**The framework's reading**. The corpus's reading registers Loki as preserving substantial parallel content to the broader institutional-adversarial pattern within distinctively Norse religious-mythological framing. The complex moral status — neither pure-evil nor pure-good — parallels the framework's specific position on Satan as principled-political-opposition figure rather than as cosmic-evil personification.
+**קריאת המסגרת**. הקריאה של הקורפוס רושמת את לוקי כשומר תוכן מקביל מהותי לדפוס היריבי-המוסדי הרחב בתוך המסגור הדתי-מיתולוגי הנורדי המובחן באופן מובהק. המעמד המוסרי המורכב — לא טהור-רע ולא טהור-טוב — מקביל לעמדה הספציפית של המסגרת על שָׂטָן כדמות אופוזיציה-פוליטית-עקרונית ולא כהאנשה קוסמית-רעה.
 
-### Indigenous adversarial-cosmic figures
+### דמויות יריבות-קוסמיות ילידיות
 
-Various indigenous traditions preserve substantial adversarial-cosmic figures within their distinctive cultural-religious framings.
+מסורות ילידיות שונות שומרות דמויות יריבות-קוסמיות מהותיות בתוך המסגורים התרבותיים-דתיים המובחנים שלהן.
 
-**The trickster traditions**. Various indigenous American traditions (Coyote in various Native American traditions, Raven in Pacific Northwest traditions, various others) preserve trickster-figures who operate in complex moral-political positions analogous to Loki. The trickster traditions provide substantial cross-cultural parallel content to the broader institutional-adversarial pattern.
+**מסורות התועה**. מסורות אינדיאניות אמריקאיות שונות (קויוטי במסורות אינדיאניות אמריקאיות שונות, רייבן במסורות הצפון-מערב-פסיפי, אחרות שונות) שומרות דמויות-תועה הפועלות בעמדות מוסריות-פוליטיות מורכבות מקבילות ללוקי. מסורות התועה מספקות תוכן מקביל בין-תרבותי מהותי לדפוס היריבי-מוסדי הרחב.
 
-**Various African adversarial figures**. Various African traditions preserve substantial adversarial-cosmic content (the various Yoruba Eshu material, various Bantu-tradition adversarial figures, various others) with distinctive cultural-religious framing.
+**דמויות יריבות אפריקאיות שונות**. מסורות אפריקאיות שונות שומרות תוכן יריב-קוסמי מהותי (חומר אשו היורובי השונה, דמויות יריבות שונות במסורת הבנטו, אחרות שונות) עם מסגור תרבותי-דתי מובחן.
 
-**The Polynesian and Aboriginal Australian material**. Various Polynesian and Aboriginal Australian traditions preserve substantial adversarial-cosmic content within their distinctive cultural-religious channels.
+**חומר פולינזי ואבוריג'יני אוסטרלי**. מסורות פולינזיות ואבוריג'יניות אוסטרליות שונות שומרות תוכן יריב-קוסמי מהותי בתוך הערוצים התרבותיים-דתיים המובחנים שלהן.
 
-### The "principled opposition" cross-cultural pattern
+### דפוס »ההתנגדות העקרונית« הבין-תרבותי
 
-The corpus's working position on the comparative-figure question is that the cross-cultural distribution of principled-opposition figures across various religious-traditional contexts is meaningful as evidence of a broader pattern.
+עמדת העבודה של הקורפוס על שאלת הדמות ההשוואתית היא שההתפלגות הבין-תרבותית של דמויות התנגדות עקרונית בהקשרים דתיים-מסורתיים שונים היא משמעותית כראיה לדפוס רחב יותר.
 
-The mainstream scholarly explanation generally treats the cross-cultural opposition-figure pattern through some combination of independent cultural development, shared cognitive-archetypal substrate (Carl Jung's "shadow" archetype, various other psychoanalytic engagements), and limited cultural diffusion. The corpus's reading: the cross-cultural pattern preserves common memory of an actual political-institutional structure within an actual cosmic-civilizational framework — the broader Elohim political structure within which Satan's specific principled-opposition position operates.
+ההסבר המחקרי המרכזי מתייחס בדרך כלל לדפוס דמות-האופוזיציה הבין-תרבותית באמצעות צירוף כלשהו של התפתחות תרבותית עצמאית, מצע ארכיטיפי-קוגניטיבי משותף (ארכיטיפ ה»צל« של קרל יונג, מעורבויות פסיכואנליטיות אחרות שונות), ודיפוזיה תרבותית מוגבלת. הקריאה של הקורפוס: הדפוס הבין-תרבותי שומר זיכרון משותף של מבנה פוליטי-מוסדי בפועל בתוך מסגרת קוסמית-ציוויליזציונית בפועל — המבנה הפוליטי הרחב של האלוהים שבתוכו פועלת עמדת ההתנגדות העקרונית הספציפית של שָׂטָן.
 
-The framework's specific reading: each cultural tradition preserves the broader principled-opposition pattern within its own distinctive cultural-religious framing. The Zoroastrian Angra Mainyu / Ahriman preserves the cosmic-dualistic articulation; the Hindu asuras preserve the cyclical-opposition articulation; the Buddhist Mara preserves the prophet-testing articulation; the Egyptian Set preserves the post-conflict-marginalization articulation; the Norse Loki preserves the complex-moral-status articulation; the various indigenous traditions preserve substantial parallel content within their distinctive channels.
+הקריאה הספציפית של המסגרת: כל מסורת תרבותית שומרת את דפוס ההתנגדות העקרונית הרחב בתוך המסגור התרבותי-דתי המובחן שלה. אנגרה מאיניו / אהרימן הזורואסטרי שומר את הניסוח הקוסמי-דואליסטי; האסורות ההינדואיסטיים שומרים את הניסוח של ההתנגדות המחזורית; מארה הבודהיסטי שומר את הניסוח של בחינת-הנביא; סת המצרי שומר את הניסוח של השוליות שלאחר הקונפליקט; לוקי הנורדי שומר את הניסוח של המעמד המוסרי המורכב; המסורות הילידיות השונות שומרות תוכן מקביל מהותי בתוך הערוצים המובחנים שלהן.
 
-The corpus does not require rejecting all of the mainstream explanatory framework. Some combination of cultural diffusion, shared cognitive-archetypal substrate, and independent cultural development may have contributed to the specific elaboration of opposition-figure traditions across cultures. What the corpus's framework adds is the underlying historical-political foundation that gave rise to the structural commonalities — the actual Eloha political-institutional structure within which Satan's specific principled-opposition position operates, with the cross-cultural traditions preserving cultural memory of this foundation in their distinctive cultural-religious framings.
+הקורפוס אינו דורש לדחות את כל המסגרת ההסברית המרכזית. צירוף כלשהו של דיפוזיה תרבותית, מצע ארכיטיפי-קוגניטיבי משותף, והתפתחות תרבותית עצמאית עשוי לתרום להרחבה הספציפית של מסורות דמויות-האופוזיציה בין תרבויות. מה שמסגרת הקורפוס מוסיפה הוא היסוד ההיסטורי-פוליטי הבסיסי שהוליד את המשותפויות המבניות — המבנה הפוליטי-מוסדי האלוהה האמיתי שבתוכו פועלת עמדת ההתנגדות העקרונית הספציפית של שָׂטָן, כאשר המסורות הבין-תרבותיות שומרות זיכרון תרבותי של יסוד זה במסגוריהן התרבותיים-דתיים המובחנים{{ footnote(id="6") }}.
 
-The framework's distinctive contribution within this comparative landscape is the **principled-opposition framing** itself. The various cross-cultural opposition-figures share substantial structural features that mainstream comparative-religion scholarship has documented; the corpus's specific contribution is registering that these figures are not cosmic-evil personifications but principled-political-opposition figures within a substantially functional cosmic-political-institutional framework. This framing has substantial implications across the broader theological-philosophical landscape: the cosmic-good-vs-cosmic-evil dualistic framework that has shaped substantial Western religious-cultural imagination is replaced with the recognition of cosmic-political-institutional dynamics within a broader cosmic-civilizational framework.
-
-## See also
-
-- [Lucifer](../lucifer/)
-- [Serpent](../serpent/)
-- [Yahweh](../yahweh/)
-- [Council of the Eternals](../council-of-eternals/)
-- [Elohim](../elohim/)
-- [The Alliance](../the-alliance/)
-- [Eden](../eden/)
-- [Adam and Eve](../adam-and-eve/)
-- [Antediluvian](../antediluvian/)
-- [Great Flood](../great-flood/)
-- [Cosmic Chain](../cosmic-chain/)
-- [Theomachy](../theomachy/)
-- [Dragons](../dragons/)
-- [Jesus](../jesus/)
-- [Prophet](../prophet/)
-- [Hebrew Bible](../hebrew-bible/)
-
-## References
-
-Vorilhon, Claude (Raël). *The Book Which Tells the Truth* (1974); collected in *Message from the Designers*. The "Satan" section establishes the principal initial source-material articulation.
-
-Vorilhon, Claude (Raël). *Extra-Terrestrials Took Me to Their Planet* (1975); collected in *Message from the Designers*. The "Humans Could Not Understand" section and various other passages develop the broader factional-political context, the prophet-testing function, and the post-flood institutional position.
-
-Vorilhon, Claude (Raël). *Let's Welcome the Extra-terrestrials* (1979); collected in *Message from the Designers*. Various passages develop the broader Council political-institutional framework.
-
-Vorilhon, Claude (Raël). *Message from the Designers*. Tagman Press, 2005.
-
-Sendy, Jean. *Ces dieux qui firent le ciel et la terre*. Robert Laffont, 1969.
-
-Sendy, Jean. *L'ère du Verseau*. Robert Laffont, 1970.
-
-Biglino, Mauro, and Giorgio Cattaneo. *The Naked Bible: The Truth About the Most Famous Book in History*. Uno, 2022.
-
-Wallis, Paul Anthony. *The Eden Conspiracy*. 6th Books, 2024.
-
-Day, Peggy L. *An Adversary in Heaven: Satan in the Hebrew Bible*. Scholars Press, 1988.
-
-Pope, Marvin H. *Job*. Anchor Bible. Doubleday, 3rd ed., 1973.
-
-Habel, Norman C. *The Book of Job: A Commentary*. Westminster Press, 1985.
-
-Newsom, Carol A. *The Book of Job: A Contest of Moral Imaginations*. Oxford University Press, 2003.
-
-Clines, David J. A. *Job 1-20*, *Job 21-37*, *Job 38-42*. Word Biblical Commentary, 3 vols. Word Books / Zondervan, 1989-2011.
-
-Russell, Jeffrey Burton. *The Devil: Perceptions of Evil from Antiquity to Primitive Christianity*. Cornell University Press, 1977.
-
-Russell, Jeffrey Burton. *Satan: The Early Christian Tradition*. Cornell University Press, 1981.
-
-Russell, Jeffrey Burton. *Lucifer: The Devil in the Middle Ages*. Cornell University Press, 1984.
-
-Russell, Jeffrey Burton. *Mephistopheles: The Devil in the Modern World*. Cornell University Press, 1986.
-
-Pagels, Elaine. *The Origin of Satan*. Random House, 1995.
-
-Kelly, Henry Ansgar. *Satan: A Biography*. Cambridge University Press, 2006.
-
-McGinn, Bernard. *Antichrist: Two Thousand Years of the Human Fascination with Evil*. Harper, 1994.
-
-Boyce, Mary. *Zoroastrians: Their Religious Beliefs and Practices*. Routledge, 1979.
-
-Nickelsburg, George W. E. *1 Enoch 1: A Commentary on the Book of 1 Enoch, Chapters 1-36; 81-108*. Hermeneia. Fortress Press, 2001.
-
-Reed, Annette Yoshiko. *Fallen Angels and the History of Judaism and Christianity: The Reception of Enochic Literature*. Cambridge University Press, 2005.
-
-Vermes, Geza. *The Complete Dead Sea Scrolls in English*. Penguin, rev. ed., 2004.
-
-Schiffman, Lawrence H. *Reclaiming the Dead Sea Scrolls*. Jewish Publication Society, 1994.
-
-VanderKam, James C. *The Dead Sea Scrolls Today*. Eerdmans, 2nd ed., 2010.
-
-Bodman, Whitney S. *The Poetics of Iblīs: Narrative Theology in the Qurʼān*. Harvard Theological Studies, 2011.
-
-Awn, Peter J. *Satan's Tragedy and Redemption: Iblīs in Sufi Psychology*. Brill, 1983.
-
-Stowasser, Barbara Freyer. *Women in the Qur'an, Traditions, and Interpretation*. Oxford University Press, 1994.
-
-Gager, John G. *Curse Tablets and Binding Spells from the Ancient World*. Oxford University Press, 1992.
-
-Smith, Mark S. *The Origins of Biblical Monotheism: Israel's Polytheistic Background and the Ugaritic Texts*. Oxford University Press, 2001.
-
-Doniger, Wendy. *Hindu Myths: A Sourcebook*. Penguin Classics, 1975.
-
-Doniger, Wendy. *The Hindus: An Alternative History*. Penguin Press, 2009.
-
-Williams, Paul. *Mahāyāna Buddhism: The Doctrinal Foundations*. Routledge, 2nd ed., 2008.
-
-Buswell, Robert E., Jr., and Donald S. Lopez Jr. *The Princeton Dictionary of Buddhism*. Princeton University Press, 2014.
-
-Sturluson, Snorri. *The Prose Edda*. Trans. Jesse L. Byock. Penguin Classics, 2005.
-
-"Satan." *Encyclopaedia Britannica*. <https://www.britannica.com/topic/Satan>
-
-"Devil." *Encyclopaedia Britannica*. <https://www.britannica.com/topic/devil>
-
-"Iblis." *Encyclopaedia Britannica*. <https://www.britannica.com/topic/Iblis>
-
-"Angra Mainyu." *Encyclopaedia Britannica*. <https://www.britannica.com/topic/Angra-Mainyu>
+התרומה המובחנת של המסגרת בתוך הנוף ההשוואתי הזה היא **מסגור ההתנגדות העקרונית** עצמו. דמויות האופוזיציה הבין-תרבותיות השונות חולקות תכונות מבניות מהותיות שמחקר השוואתי-דת מרכזי תיעד; התרומה הספציפית של הקורפוס היא רישום שהדמויות הללו אינן האנשות קוסמיות-רעות אלא דמויות התנגדות-פוליטית-עקרונית בתוך מסגרת קוסמית-פוליטית-מוסדית מתפקדת באופן מהותי. למסגור זה יש השלכות מהותיות על פני הנוף התיאולוגי-פילוסופי הרחב: המסגרת הדואליסטית של טוב-קוסמי-מול-רע-קוסמי שעיצבה דמיון דתי-תרבותי מערבי מהותי מוחלפת בהכרה של דינמיקה קוסמית-פוליטית-מוסדית בתוך מסגרת קוסמית-ציוויליזציונית רחבה יותר.

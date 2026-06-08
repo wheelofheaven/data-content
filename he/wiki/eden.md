@@ -1,342 +1,358 @@
 +++
-title = "Eden"
+title = "עדן"
 slug = "eden"
-description = "Eden (Hebrew: עֵדֶן, ʿĒden) is the region named in the Hebrew Bible as the location of the garden in which the first humans were created and lived before their expulsion. On the reading developed in the Raëlian source material and adopted by the Wheel of Heaven corpus, Eden is the operational territory of the Israel team of Elohim creators on the antediluvian supercontinent — the team whose biological synthesis work produced the most accomplished human lineage of the seven regional creator teams — with the Garden of Eden (gan-ʿĒden) being the enclosed laboratory and habitation site within that territory."
+description = "עדן (עברית: עֵדֶן, ʿĒden) הוא האזור הנקרא במקרא העברי כמיקום הגן בו נבראו האנשים הראשונים וחיו לפני גירושם. על פי הקריאה שפותחה בחומר המקור הראליאני ואומצה על ידי קורפוס »גלגל השמיים«, עדן הוא הטריטוריה התפעולית של צוות ישראל של בוראי האלוהים על היבשת-העל הטרום-מבולית — הצוות אשר עבודת הסינתזה הביולוגית שלו הפיקה את השושלת האנושית המוכשרת ביותר מבין שבעת צוותי הבריאה האזוריים — כאשר גן עדן (gan-ʿĒden) הוא אתר המעבדה והמגורים המוקף בתוך אותה טריטוריה."
 template = "wiki-page.html"
 toc = true
 
 [extra]
-translation_status = "metadata_only"
 featured_order = 7
 category = "Places & Locations"
 editorial_pass = "2026-05"
 entry_type = "place"
-alternative_names = ["Garden of Eden", "gan-ʿĒden", "גַּן־עֵדֶן", "Paradise"]
-see_also = [
-    { title = "Adam and Eve", path = "wiki/adam-and-eve", description = "The two first humans placed in the garden." },
-    { title = "Tree of Life", path = "wiki/tree-of-life", description = "One of the two named trees at the centre of the garden." },
-    { title = "Tree of the Knowledge of Good and Evil", path = "wiki/tree-of-the-knowledge-of-good-and-evil", description = "The other named tree — the one with the prohibition." },
-    { title = "Serpent", path = "wiki/serpent", description = "The figure that initiates the rupture of the garden state." },
-    { title = "Genesis", path = "wiki/genesis", description = "The text in which the garden narrative is set." },
-]
+claim_type = "inferred"
+alternative_names = ["גן עדן", "gan-ʿĒden", "גַּן־עֵדֶן", "פרדס"]
 timeline = ["leo", "cancer"]
 
+see_also = [
+    { title = "אדם וחווה", path = "/wiki/adam-and-eve/", description = "שני האנשים הראשונים שהוצבו בגן." },
+    { title = "עץ החיים", path = "/wiki/tree-of-life/", description = "אחד משני העצים הנקובים במרכז הגן." },
+    { title = "עץ הדעת טוב ורע", path = "/wiki/tree-of-the-knowledge-of-good-and-evil/", description = "העץ הנקוב האחר — זה שעליו האיסור." },
+    { title = "הנחש", path = "/wiki/serpent/", description = "הדמות היוזמת את שבירת מצב הגן." },
+    { title = "בראשית", path = "/wiki/genesis/", description = "הטקסט בו ממוקם הנרטיב של הגן." },
+    { title = "אלוהים", path = "/wiki/elohim/", description = "הציון הציוויליזציוני של הברית אשר צוות ישראל שלה פעל באזור עדן." },
+    { title = "יהוה", path = "/wiki/yahweh/", description = "דמות מנהיג המועצה אשר מדיניותה עיצבה את ההתיישבות שלאחר עדן." },
+    { title = "לוציפר", path = "/wiki/lucifer/", description = "מנהיג סיעת המתנגדים אשר הגילוי שלו הפיק את פרק בראשית ג." },
+    { title = "טרום-מבולית", path = "/wiki/antediluvian/", description = "התקופה הטרום-מבולית לאורכה התפתחה ציוויליזציית עדן הרחבה יותר." },
+    { title = "פנגיאה", path = "/wiki/pangaea/", description = "היבשת-העל הטרום-מבולית עליה היה ממוקם עדן." },
+    { title = "המבול הגדול", path = "/wiki/great-flood/", description = "אירוע עידן התאומים שסגר את תקופת התפעול של עדן." },
+    { title = "המקרא העברי", path = "/wiki/hebrew-bible/", description = "המקור הכתבי העיקרי לנרטיב עדן." },
+    { title = "המקרא", path = "/wiki/bible/", description = "המסורת הטקסטואלית הרחבה יותר בתוכה משומר ספר בראשית." },
+    { title = "החתימה הכפולה", path = "/wiki/doubled-signature/", description = "עקרון הקורפוס לפיו מסורות תרבותיות רושמות זיכרון של אירועים היסטוריים תשתיתיים." },
+    { title = "העברים", path = "/wiki/hebrews/", description = "הצאצאים הגנטיים הישירים של האנשים הראשונים שסונתזו על ידי צוות ישראל." },
+]
+
+footnotes = [
+    { content = "המילה העברית *גן*, המתורגמת באופן מקובל 'גינה', נגזרת מהשורש *ג-נ-ן* שמשמעותו 'להקיף, להגן' — אותו שורש שמאחורי *גינה* ('גן, מתחם מוקף') ו*מגינה* ('מגן, הגנה'). המובן החזק של *גן* הוא לפיכך מרחב מוקף, מוגן ומבוקר, שגבולו אינו רק קישוטי אלא פונקציונלי. קריאת הקורפוס של ה*gan-ʿĒden* כמתקן מוקף פונקציונלי פועלת מבסיס אטימולוגי זה. הפרסית העתיקה *pairi-daēza* ('מתחם מוקף חומה'; דרך היוונית *paradeisos*, מקור האנגלית 'paradise') משמרת את אותו תוכן סמנטי לאורך מסורת לשונית עצמאית, ומספקת אישור טיפולוגי: לאורך תרבויות עתיקות מרובות, ה'פרדס' המקורי הוא במיוחד מרחב חסום ומוגן, ולא גינה פתוחה במובן האנגלי המודרני." },
+    { content = "בראשית ב:10–14 שמה ארבעה נהרות הזורמים מעדן, שניים מהם ניתנים לזיהוי חד-משמעי עם נהרות קיימים (חידקל, פרת) ושניים שלא (פישון, גיחון). הצעות קלאסיות ומודרניות זיהו את הפישון והגיחון באופנים שונים עם הנילוס, הגנגס, הסינדהו, האראקס, הקארון, ואדי אל-רומאח, או הארס — לכל אחד יש בעיות טקסטואליות או גיאוגרפיות. קריאת הקורפוס ממסגרת מחדש את החידה: קטע ארבעת הנהרות מתאר את ההידרולוגיה של אזור עדן הטרום-מבולי, שאינה עוד קיימת בצורתה המקורית בעקבות סידור היבשות מחדש באירוע המבול. השמות *חידקל* ו*פרת* נשמרו לאורך הקטסטרופה על ידי שורדים שלאחר המבול שצירפו אותם לנהרות באזור מסופוטמיה שלאחר המבול הקשורים בעיניהם למסומנים המקוריים." },
+    { content = "ה'יבשת-העל' של המסגרת אינה הפנגיאה הקונבנציונלית של הגיאולוגיה המיינסטרימית. פנגיאה הקונבנציונלית התאחדה לפני כ-335 מיליון שנה והתפרקה לפני כ-175 מיליון שנה, כאשר תזוזת היבשות התפרשה לאורך מאות מיליוני שנים באמצעות זרימת המעטפת. הקורפוס, בעקבות חומר המקור הראליאני, קורא את ההתפרקות כאירוע קטסטרופי במהלך המבול של עידן התאומים בסביבות 6,690 לפנה»ס, כאשר תזוזת היבשות הנצפית מאז היא התנע השיורי של אותו אירוע. ההתאמה המבנית — מסה יבשתית מאוחדת יחידה מוקפת על ידי אוקיינוס יחיד — היא זהה; התזמון והמנגנון שונים באופן רדיקלי." },
+    { content = "המסגרת קוראת את האיסור הנוגע לעץ הדעת טוב ורע כתואם הגבלה ספציפית על גישה לארכיוני המדע והטכנולוגיה של צוות ישראל — החומרים אשר שימוש בהם היה נותן לבני האדם יכולות שרשויות עולם הבית לא רצו שירכשו. גילוי סיעת לוציפר המסופר כתקשורת הנחש הוא העברת הידע המוגבל הזה כנגד הנחיות מועצת עולם הבית. העבירה על קריאה זו אינה נפילה מוסרית אלא העברה של ידע טכני מוגבל, כאשר תוצאות הגילוי שלאחר מכן (ההכרה בעירום, הכנת הבגדים, העימות, הגירוש) רושמות את התוצאה הפוליטית-תפעולית ולא את התוצאה המוסרית-תיאולוגית." },
+    { content = "ביגלינו מציע אטימולוגיה לא-סטנדרטית של ה-*E-Din* השומרי-אכדי כ'בית הצדיקים', כשהוא קורא 'צדיקים' כחברי שושלת האלוהים. הפירוש הזה הוא ייחודי לביגלינו ואינו הקריאה האשורולוגית הסטנדרטית; קריאת הקונסנזוס (הולורן 2006; מילון המכון המזרחי האשורי) נותרת 'מישור' או 'ערבה'. הקורפוס מאמץ את הקריאה הסטנדרטית ולא את זו של ביגלינו, שכן המקרה הפרשני של המסגרת אינו תלוי בפירוש הלא-סטנדרטי ועומד על קרקע מוצקה יותר בלעדיו. המתודולוגיה התרגומית הקפדנית הרחבה יותר של ביגלינו — קריאת העברית מילה במילה וקבלת התוכן הטקסטואלי הקונקרטי במקום אלגוריזציה שלו — היא מה שהקורפוס לוקח מעבודתו, ללא קשר להצעת ה-E-Din הספציפית." },
+]
+
+[[extra.references]]
+id = "the-book-which-tells-the-truth"
+note = "וורילון (ראל, 1974), פרק 2 'האמת'; המקור הראליאני העיקרי לקריאת המסגרת של נרטיב עדן."
+
+[[extra.references]]
+id = "lets-welcome-the-extraterrestrials"
+note = "וורילון (ראל, 1979); מפתח את המסגרת הפוליטית-מוסדית הרחבה יותר שבתוכה התרחשו האירועים שלאחר בריאת עדן."
+
+[[extra.references]]
+id = "intelligent-design-message-from-the-designers"
+note = "מהדורה קנונית מאוגדת של שלושת ספרי המקור הראליאניים, לרבות חומר עדן."
+
+[[extra.references]]
+id = "sendy-ces-dieux"
+note = "סנדי (1969); ניסוח צרפתי יסודי; הקודם המדעי העיקרי לקריאת עדן שאומצה על ידי הקורפוס."
+
+[[extra.references]]
+id = "sendy-cahiers-moise"
+note = "סנדי (1974); מפתח את מסגרת התקופה המוסאית עם חומר רקע מהותי על תקופת עדן."
+
+[[extra.references]]
+id = "biglino-il-libro"
+note = "ביגלינו (2010); הניסוח העיקרי הראשון של הקריאה המילולית-מחמירה של העברית, לרבות הטיעון של ה-gan-ʿĒden כמתקן מוקף."
+
+[[extra.references]]
+id = "biglino-bibbia-non-parla"
+note = "ביגלינו (2015); ניסוח הטיעון שתרגום המיינסטרים מסתיר את התוכן המקורי של המקרא העברי על האלוהים והמתקנים העדניים."
+
+[[extra.references]]
+id = "the-naked-bible"
+note = "ביגלינו וקטאנאו (2022); תרגום עברי מילולי-מחמיר של בראשית כולל קטעי עדן."
+
+[[extra.references]]
+id = "escaping-from-eden"
+note = "וואליס (2020); הניסוח הרחב יותר שהאלוהים של בראשית הם יצורים טכנולוגיים נוכחים פיזית."
+
+[[extra.references]]
+id = "the-scars-of-eden"
+note = "וואליס (2021); ניסוח השוואתי של זיכרון חוצה-תרבויות של אירועי תקופת עדן."
+
+[[extra.references]]
+id = "echoes-of-eden"
+note = "וואליס (2021); מפתח את הטיעון ההשוואתי-מיתולוגי לשימור חוצה-תרבויות מהותי."
+
+[[extra.references]]
+id = "wallis-eden-conspiracy"
+note = "וואליס (2024); ההתעסקות הישירה ביותר באורך ספר עם נרטיב בראשית ב-ג כתיעוד משבר פוליטי בין סיעות הברית."
+
+[[extra.references]]
+id = "sarna-genesis-jps"
+note = "סארנה (1989); פרשנות JPS Torah על בראשית; הטיפול היהודי-מדעי בן זמננו העיקרי בקטעי עדן."
+
+[[extra.references]]
+id = "westermann-genesis-1-11"
+note = "וסטרמן (1994); פרשנות יבשתית על בראשית א-יא; פרשנות ביקורתית יסודית של ההיסטוריה הראשונית."
+
+[[extra.references]]
+id = "cassuto-genesis"
+note = "קאסוטו (1961); פרשנות יהודית-מדעית המתנגדת לפיצול נרטיב עדן על פי השערת המסמכים."
+
+[[extra.references]]
+id = "halloran-sumerian-lexicon"
+note = "הולורן (2006); מקור נגיש לרקע האטימולוגי השומרי EDEN / edinu."
+
+[[extra.references]]
+id = "rohl-legend-genesis"
+note = "רוהל (1998); ניסוח השערת אגם אורמיה; אחת ההצעות העיקריות בנות זמננו למיקום עדן."
+
+[[extra.references]]
+id = "oppenheimer-eden-east"
+note = "אופנהיימר (1998); השערת עדן בסונדאלנד; ממקמת את מקור התרבות המקורי בדרום-מזרח אסיה הטבועה."
+
+[[extra.references]]
+id = "kramer-enki-myths"
+note = "קרמר ומאייר (1989); הקורפוס המיתולוגי של אנכי לרבות חומר דילמון ואנכי-נינחורסג המקביל מבנית למסורת העדנית."
+
+[[extra.references]]
+id = "atra-hasis-lambert-millard"
+note = "למברט ומילרד (1969); מהדורה ביקורתית של נרטיב המבול הבבלי; הקשר המזרח-קדום למסורת עדן-והמבול."
+
+[[extra.references]]
+id = "boyce-zoroastrians"
+note = "בויס (מהדורה מתוקנת 2001); ה-Vara של Yima הפרסי-זורואסטרי ומסורת הפרדס-והמבול הרחבה יותר הקרובה מאוד לעדן."
+
+[[extra.references]]
+id = "sitchin-12th-planet"
+note = "סיצ'ין (1976); הקריאה השומרית E.DIN; עוגן פופולרי עיקרי של אסטרונאוטים קדומים למסורת הפרשנית העדנית הרחבה יותר."
+
 [extra.infobox]
-hebrew_name = "עֵדֶן (region); גַּן־עֵדֶן (the garden in Eden)"
+hebrew_name = "עֵדֶן (האזור); גַּן־עֵדֶן (הגן בעדן)"
 transliteration = "ʿĒden; gan-ʿĒden"
-type = "Geographic region with enclosed installation"
-biblical_location = "Genesis 2:8 ('eastward in Eden')"
-geographic_referent = "Eastern Mediterranean / Levantine region of the antediluvian supercontinent"
-operational_period = "Mid–late Age of Leo through Age of Cancer, c. 11,375 – 6,690 BCE"
-date_type = "framework-internal; derived from precessional reading of Genesis and the 666-generation anchor"
-closing_event = "Catastrophic disruption during the Flood of the Age of Gemini, c. 6,690 BCE"
-current_status = "Region's antediluvian configuration no longer extant; post-Flood remnants identified by the framework with the modern Levant"
-principal_text = "Genesis 2:8–3:24"
-principal_framework_source = "*The Book Which Tells the Truth* (Vorilhon/Raël, 1974), chapter 2"
+type = "אזור גיאוגרפי עם מתקן מוקף"
+biblical_location = "בראשית ב:8 ('מקדם בעדן')"
+geographic_referent = "אזור הים-תיכוני המזרחי / הלבנט של היבשת-העל הטרום-מבולית"
+operational_period = "אמצע–סוף עידן האריה ועד עידן הסרטן, בסביבות 11,375 – 6,690 לפנה»ס"
+date_type = "פנים-מסגרתי; נגזר מקריאה נקיפתית של בראשית ועוגן 666-הדורות"
+closing_event = "שיבוש קטסטרופי במהלך המבול של עידן התאומים, בסביבות 6,690 לפנה»ס"
+current_status = "תצורת האזור הטרום-מבולית אינה עוד קיימת; שרידים שלאחר המבול מזוהים על ידי המסגרת עם הלבנט המודרני"
+principal_text = "בראשית ב:8–ג:24"
+principal_framework_source = "*הספר שאומר את האמת* (וורילון/ראל, 1974), פרק 2"
 +++
 
-**Eden** (Hebrew: <span class="hebrew">עֵדֶן</span>, *ʿĒden*) is the region named in the {% wiki(slug="hebrew-bible") %}Hebrew Bible{% end %} as the place in which the first humans were created and lived before their expulsion, narrated principally in Genesis 2:8–3:24. The Hebrew text distinguishes the broader region (*ʿĒden*) from the enclosed garden within it (*gan-ʿĒden*, "the garden of Eden"); Genesis 2:8 specifies that the garden was planted "in Eden, in the east." The garden contains the named species of trees, the four rivers (Pishon, Gihon, Tigris, Euphrates), the Tree of Life, and the {% wiki(slug="tree-of-the-knowledge-of-good-and-evil") %}Tree of the Knowledge of Good and Evil{% end %}. The narrative of human creation, instruction, transgression, and expulsion takes place in and around this enclosed setting.
+**עדן** (עברית: <span class="hebrew">עֵדֶן</span>, *ʿĒden*) הוא האזור הנקוב ב{% wiki(slug="hebrew-bible") %}מקרא העברי{% end %} כמקום בו נבראו האנשים הראשונים וחיו לפני גירושם, מסופר בעיקר בבראשית ב:8–ג:24. הטקסט העברי מבחין בין האזור הרחב יותר (*ʿĒden*) לבין הגן המוקף בתוכו (*gan-ʿĒden*, "גן עדן"); בראשית ב:8 מציין שהגן ניטע "בעדן, מקדם". הגן מכיל את מיני העצים הנקובים, את ארבעת הנהרות (פישון, גיחון, חידקל, פרת), את עץ החיים, ואת {% wiki(slug="tree-of-the-knowledge-of-good-and-evil") %}עץ הדעת טוב ורע{% end %}. נרטיב בריאת האדם, ההוראה, העבירה, והגירוש מתרחש בתוך ומסביב לסביבה המוקפת הזו.
 
-On the reading developed in the Raëlian source material and adopted by the {% wiki(slug="wheel-of-heaven") %}Wheel of Heaven{% end %} corpus, Eden is the operational territory of one of the seven Elohim creator teams — the Israel team — on the antediluvian supercontinent, during the late Age of Leo and continuing into the Age of Cancer. The garden is the enclosed laboratory and habitation site at which this team conducted the synthesis, instruction, and observation of the first human lineage produced under their care. The framework reads the Genesis 2–3 narrative as a compressed but substantively accurate account of operational events at this site, with the named features — the trees, the rivers, the prohibition, the serpent, the expulsion — all referring to specific operational realities rather than to symbolic or moral abstractions.
+על פי הקריאה שפותחה בחומר המקור הראליאני ואומצה על ידי קורפוס {% wiki(slug="wheel-of-heaven") %}גלגל השמיים{% end %}, עדן הוא הטריטוריה התפעולית של אחד משבעת צוותי בוראי האלוהים — צוות ישראל — על היבשת-העל הטרום-מבולית, במהלך סוף עידן האריה והמשכו אל תוך עידן הסרטן. הגן הוא אתר המעבדה והמגורים המוקף בו ניהל צוות זה את הסינתזה, ההוראה, והתצפית של השושלת האנושית הראשונה שיוצרה תחת טיפולו. המסגרת קוראת את נרטיב בראשית ב-ג כתיעוד דחוס אך מהותית מדויק של אירועים תפעוליים באתר זה, כאשר התכונות הנקובות — העצים, הנהרות, האיסור, הנחש, הגירוש — מתייחסות כולן למציאויות תפעוליות ספציפיות ולא להפשטות סמליות או מוסריות.
 
-The reading is contested. Within mainstream biblical scholarship, Eden is generally treated as either a mythological or theological construction, possibly with origins in the broader ancient Near Eastern paradisiacal tradition (Mesopotamian Dilmun, Sumerian paradise traditions), without specific geographic referent. Within the broader landscape of alternative biblical interpretation, several specific Eden-location proposals have been advanced — the Persian Gulf head (Juris Zarins), the Lake Urmia region (David Rohl), eastern Anatolia, the Sundaland shelf — varying in their relationship to the Genesis text and to the surrounding geological evidence. The corpus's reading reframes the geographic question: the antediluvian Eden is located on a continental configuration that no longer exists, with its remnants identifiable in the post-Flood Levantine region but not directly recoverable as an extant geographic entity.
+הקריאה שנויה במחלוקת. בתוך מחקר המקרא המיינסטרימי, עדן מטופל באופן כללי או כבנייה מיתולוגית או תיאולוגית, ייתכן עם מקורות במסורת הפרדסיאקית של המזרח הקדום הרחב יותר (דילמון המסופוטמי, מסורות הפרדס השומריות), ללא מסומן גיאוגרפי ספציפי. בתוך הנוף הרחב יותר של פרשנות מקראית אלטרנטיבית, הוצעו מספר הצעות ספציפיות למיקום עדן — ראש המפרץ הפרסי (יוריס זארינס), אזור אגם אורמיה (דוד רוהל), מזרח אנטוליה, מדף סונדאלנד — המשתנות ביחסן לטקסט בראשית ולעדויות הגיאולוגיות הסובבות. קריאת הקורפוס ממסגרת מחדש את השאלה הגיאוגרפית: עדן הטרום-מבולי ממוקם על תצורת יבשת שאינה עוד קיימת, כאשר שריידיה מזוהים באזור הלבנט שלאחר המבול אך אינם ניתנים לשחזור ישיר כישות גיאוגרפית קיימת.
 
-## Etymology
+## אטימולוגיה
 
-The Hebrew name *ʿĒden* connects through two distinct etymological histories. Within the Hebrew tradition itself, the name is conventionally connected to the root *ʿ-d-n* ("to be soft, pleasant, delight"), giving the gloss "place of delight" or "paradise." This Hebrew etymology is internal to the biblical tradition and is the source of the long Christian and Islamic association of Eden with paradise generally. The cognate Hebrew noun *ʿednāh* (Genesis 18:12) carries the same sense of pleasure or delight; Psalm 36:9 and Jeremiah 51:34 use related forms. The Hebrew etymology gives Eden its theologically loaded connotations across the subsequent religious tradition.
+השם העברי *ʿĒden* מתחבר באמצעות שתי היסטוריות אטימולוגיות מובחנות. בתוך המסורת העברית עצמה, השם מתחבר באופן מקובל לשורש *ע-ד-נ* ("להיות רך, נעים, תענוג"), ונותן את הפירוש "מקום תענוג" או "פרדס". האטימולוגיה העברית הזו פנימית למסורת המקראית והיא מקור הקשר הנוצרי והאסלאמי הארוך של עדן עם פרדס באופן כללי. שם העצם העברי המקביל *עדנה* (בראשית יח:12) נושא את אותו מובן של עונג או תענוג; תהילים לו:9 וירמיהו נא:34 משתמשים בצורות קשורות. האטימולוגיה העברית נותנת לעדן את הקונוטציות הטעונות תיאולוגית לאורך המסורת הדתית הבאה.
 
-A separate and older etymological connection runs to the Sumerian and Akkadian. The Sumerian word **EDEN** (𒂔, also transliterated *edin*) means *plain*, *steppe*, or *open country* — a flat, often arid landscape distinct from settled or cultivated land. The Akkadian *edinu* / *idīnum* is borrowed from the Sumerian and carries the same range of meanings, generally "steppe" or "open country." The connection of Hebrew *ʿĒden* to this Sumerian-Akkadian background is widely accepted in mainstream Assyriology and predates the modern reinterpretive literature; it is treated, for example, in *The Assyrian Dictionary of the Oriental Institute of the University of Chicago* (CAD, volume E) and in the comparative-Semitic lexicographic tradition.
+קשר אטימולוגי נפרד וישן יותר רץ אל השומרית והאכדית. המילה השומרית **EDEN** (𒂔, גם תועתקה *edin*) משמעותה *מישור*, *ערבה*, או *ארץ פתוחה* — נוף שטוח, לעיתים קרובות צחיח, נבדל מאדמה מיושבת או מעובדת. האכדית *edinu* / *idīnum* מושאלת מהשומרית ונושאת את אותו טווח משמעויות, באופן כללי "ערבה" או "ארץ פתוחה". הקשר של העברית *ʿĒden* לרקע השומרי-אכדי הזה מקובל באופן רחב באשורולוגיה המיינסטרימית וקודם לספרות הפרשנית-מחודשת המודרנית; הוא מטופל, למשל, ב*מילון האשורי של המכון המזרחי של אוניברסיטת שיקגו* (CAD, כרך E) ובמסורת הלקסיקוגרפית השמית-השוואתית.
 
-The two etymologies are not necessarily in conflict; they may reflect different stages of the term's history. The older Mesopotamian sense ("plain, steppe") may have been the original referent — a wide open region, presumably containing within it the cultivated and enclosed garden the Genesis text specifically describes. The Hebrew "place of delight" gloss may reflect a later folk etymology or theological development that read the inherited place-name through the lens of the garden's described features. The framework's reading of Eden as a *region* containing the enclosed *garden* is consistent with the older Sumerian-Akkadian sense: the Eden region is the broader steppe-territory of the Israel team's operations, with the garden (*gan*) being a specific enclosed installation within it.
+שתי האטימולוגיות אינן בהכרח בסתירה; הן עשויות לשקף שלבים שונים בהיסטוריה של המונח. המובן המסופוטמי הישן יותר ("מישור, ערבה") עשוי היה להיות המסומן המקורי — אזור פתוח רחב, שהכיל ככל הנראה בתוכו את הגן המעובד והמוקף שטקסט בראשית מתאר במיוחד. הפירוש העברי "מקום תענוג" עשוי לשקף אטימולוגיה עממית מאוחרת יותר או התפתחות תיאולוגית שקראה את שם המקום שירשה דרך עדשת תכונות הגן המתוארות. קריאת המסגרת של עדן כ*אזור* המכיל את ה*גן* המוקף עולה בקנה אחד עם המובן השומרי-אכדי הישן יותר: אזור עדן הוא טריטוריית-הערבה הרחבה יותר של פעולות צוות ישראל, כאשר הגן (*gan*) הוא מתקן מוקף ספציפי בתוכו.
 
-The Hebrew word *gan*, conventionally translated "garden," derives from the root *g-n-n*, "to enclose, to protect, to defend" — the same root behind *ginah* ("garden, enclosure") and *meginah* ("shield, protection"). The strong sense of *gan* is therefore an enclosed, protected, controlled space, with the boundary not merely ornamental but functional. This sense of *gan* will become significant in the Modern reinterpretations section below.
+המילה העברית *גן*, המתורגמת באופן מקובל "גינה", נגזרת מהשורש *ג-נ-ן*, "להקיף, להגן" — אותו שורש שמאחורי *גינה* ("גן, מתחם מוקף") ו*מגינה* ("מגן, הגנה"). המובן החזק של *גן* הוא לפיכך מרחב מוקף, מוגן ומבוקר, שגבולו אינו רק קישוטי אלא פונקציונלי{{ footnote(id="1") }}. מובן זה של *גן* יהפוך משמעותי בסעיף הפרשנויות המחודשות המודרניות להלן.
 
-## In primary sources
+## במקורות ראשוניים
 
-Eden appears principally in Genesis 2–3, with secondary references scattered across the rest of the Hebrew {% wiki(slug="bible") %}Bible{% end %} and in the broader ancient Near Eastern literature.
+עדן מופיע בעיקר בבראשית ב-ג, עם התייחסויות משניות מפוזרות לאורך שאר ה{% wiki(slug="bible") %}מקרא{% end %} העברי ובספרות הרחבה יותר של המזרח הקדום.
 
-### The Genesis narrative
+### נרטיב בראשית
 
 {% library(book="genesis-woh", chapter=2, verse=8) %}
-YHWH-Elohim planted a garden in Eden, eastward — and there he placed the human he had formed.
+ויטע יהוה-אלוהים גן בעדן, מקדם — וישם שם את האדם אשר יצר.
 {% end %}
 
-The Genesis text gives Eden two principal treatments. The first is the brief mention in the second creation account at Genesis 2:8: *Yahweh Elohim* plants a garden "in Eden, in the east" (*miqqedem*, "from the east" or "in the east"), and places the formed human (*ha-ʾadam*) there. The narrative continues with a description of the four rivers that flow out of Eden: the Pishon (which compasses the land of Havilah, where there is gold), the Gihon (which compasses the land of Cush), the Hiddekel or Tigris (which goes east of Asshur), and the Perath or Euphrates (named without further description, presumably because already known to the original audience). The function of the human in the garden is given as "to dress it and to keep it" (Genesis 2:15) — the Hebrew verbs being *ʿabad* ("to work, to serve") and *šamar* ("to guard, to keep watch over").
+טקסט בראשית נותן לעדן שני טיפולים עיקריים. הראשון הוא האזכור הקצר בתיאור הבריאה השני בבראשית ב:8: *יהוה אלוהים* נוטע גן "בעדן, מקדם" (*מקדם*, "מן המזרח" או "במזרח"), ומציב שם את האדם שיצר (*ha-ʾadam*). הנרטיב ממשיך עם תיאור ארבעת הנהרות הזורמים מעדן: הפישון (המקיף את ארץ החווילה, היכן שיש זהב), הגיחון (המקיף את ארץ כוש), החידקל או טיגריס (היוצא מזרחה לאשור), והפרת או יופרטס (נקוב ללא תיאור נוסף, ככל הנראה משום שהיה כבר ידוע לקהל המקורי). תפקיד האדם בגן ניתן כ"לעבדה ולשמרה" (בראשית ב:15) — הפעלים העבריים הם *עבד* ("לעבוד, לשרת") ו*שמר* ("לשמור, לפקח").
 
-The second treatment is the narrative arc of Genesis 2:15–3:24: the prohibition concerning the Tree of the Knowledge of Good and Evil; the formation of the woman from the human's side; the serpent's questioning of the prohibition; the eating of the fruit; the recognition of nakedness; the confrontation with Yahweh Elohim, who is described as walking in the garden in the cool of the day; the pronouncement of consequences on the serpent, the woman, and the man; and the expulsion from the garden, with the placing of cherubim and a flaming sword (*lahaṭ ha-ḥereb ha-mithappekheth*, "the flame of the sword which turns every way") to bar the way back to the Tree of Life.
+הטיפול השני הוא קשת הנרטיב של בראשית ב:15–ג:24: האיסור על עץ הדעת טוב ורע; יצירת האישה מצלעו של האדם; שאלת הנחש על האיסור; אכילת הפרי; ההכרה בעירום; העימות עם יהוה אלוהים, המתואר כמתהלך בגן לרוח היום; הכרזת ההשלכות על הנחש, האישה, והאיש; והגירוש מהגן, עם הצבת הכרובים והחרב הלוהטת (*להט החרב המתהפכת*, "החרב הלוהטת המסתובבת לכל עבר") כדי לחסום את הדרך חזרה אל עץ החיים.
 
-### Other Hebrew Bible references
+### התייחסויות אחרות במקרא העברי
 
-Eden appears outside Genesis 2–3 in several scattered references. **Genesis 4:16** locates Cain's exile "east of Eden," in the land of Nod. **Isaiah 51:3** uses Eden as a paradigmatic image of paradise to which the post-exilic restoration is compared. **Ezekiel 28:13** addresses the king of Tyre as having been "in Eden, the garden of Elohim," in a passage rich with framework-significant imagery (the trees, the precious stones, the cherub). **Ezekiel 31:8–9** describes the cedars of Eden surpassing all other trees, in a passage that addresses Pharaoh through the metaphor of a great tree. **Ezekiel 36:35** uses Eden as a comparison for the restored land. **Joel 2:3** uses Eden as the paradigm of fertility against which the locust plague's devastation is set.
+עדן מופיע מחוץ לבראשית ב-ג במספר התייחסויות מפוזרות. **בראשית ד:16** ממקם את גלות קין "קדמת עדן", בארץ נוד. **ישעיהו נא:3** משתמש בעדן כדימוי פרדיגמטי לפרדס שאליו מושווית השיבה שלאחר הגלות. **יחזקאל כח:13** פונה למלך צור כמי שהיה "בעדן גן אלוהים", בקטע עשיר בדימויים משמעותיים למסגרת (העצים, אבני החן, הכרוב). **יחזקאל לא:8–9** מתאר את ארזי עדן עולים על כל העצים האחרים, בקטע הפונה לפרעה דרך מטאפורת עץ גדול. **יחזקאל לו:35** משתמש בעדן כהשוואה לארץ המשוקמת. **יואל ב:3** משתמש בעדן כפרדיגמת הפוריות שמולה ניצב חורבן מכת הארבה.
 
-The Ezekiel 28 passage deserves particular note. The address to the king of Tyre — "Thou wast in Eden, the garden of Elohim; every precious stone was thy covering" — has been read across the religious traditions variously as historical reference (the Tyrian king as a real figure with mythical or genealogical connection to Eden), as theological allegory (the king's pride compared to the original Edenic state), or as encoded reference to a different figure altogether (Lucifer in much patristic-medieval Christian reading, with the passage providing a textual basis for the Lucifer-as-fallen-cherub tradition). The passage's specific imagery — the precious stones, the cherub, the garden, the fall — has been one of the principal sources for the broader tradition of an Edenic prelapsarian state involving non-human beings.
+קטע יחזקאל כח ראוי לציון מיוחד. הפנייה למלך צור — "בעדן גן אלוהים היית, כל אבן יקרה מסוכתך" — נקראה לאורך המסורות הדתיות באופנים שונים כהתייחסות היסטורית (מלך צור כדמות אמיתית עם קשר מיתי או גנאלוגי לעדן), כאלגוריה תיאולוגית (גאוות המלך מושווית למצב העדני המקורי), או כהתייחסות מקודדת לדמות שונה לחלוטין (לוציפר בקריאה הנוצרית הפטריסטית-של ימי הביניים, כשהקטע מספק בסיס טקסטואלי למסורת לוציפר-ככרוב-נופל). הדימויים הספציפיים של הקטע — אבני החן, הכרוב, הגן, הנפילה — היו אחד המקורות העיקריים למסורת הרחבה יותר של מצב טרום-עוונותי עדני המערב יצורים לא-אנושיים.
 
-### Later Jewish, Christian, and Islamic literature
+### ספרות יהודית, נוצרית ואסלאמית מאוחרת יותר
 
-The Eden tradition is substantially elaborated in post-biblical literature. **The Book of Jubilees** (c. 2nd century BCE) places Eden's location with specific geographic detail and gives the garden a sanctuary-like role in subsequent history. **1 Enoch** (composed across several centuries from the 3rd century BCE onward) preserves elaborate Edenic geography and connects Eden to the Watchers tradition. **The Life of Adam and Eve** (c. 1st century CE) and the **{% wiki(slug="apocalypse") %}Apocalypse{% end %} of {% wiki(slug="moses") %}Moses{% end %}** develop the Adam-and-Eve narrative at length, with extensive material on the post-expulsion period. **Rabbinic midrash** — Genesis Rabbah, the Tanchuma, the *Pirkei de-Rabbi Eliezer* — develops the Edenic narrative across many centuries with substantial elaboration. **Patristic Christian writers** (Theophilus of Antioch, Origen, Augustine) develop the typological and allegorical readings that would become standard in Western theology. **Qur'anic and Islamic sources** preserve a parallel tradition of *Jannat ʿAdn*, "the gardens of Eden," used in the Qur'an as a designation of paradise (e.g., Q 9:72, Q 13:23, Q 19:61); the Qur'anic tradition preserves the Adam-and-Eve narrative with several specific differences from the biblical account.
+מסורת עדן מורחבת באופן מהותי בספרות הפוסט-מקראית. **ספר היובלים** (בסביבות המאה ה-2 לפנה»ס) ממקם את עדן בפרט גיאוגרפי ספציפי ונותן לגן תפקיד דמוי-מקדש בהיסטוריה שלאחר מכן. **חנוך א** (חובר לאורך מספר מאות מהמאה ה-3 לפנה»ס ואילך) משמר גיאוגרפיה עדנית מורכבת ומחבר את עדן למסורת העירים. **חיי אדם וחווה** (בסביבות המאה ה-1 לספירה) ו**{% wiki(slug="apocalypse") %}חזון{% end %} {% wiki(slug="moses") %}משה{% end %}** מפתחים את נרטיב אדם וחווה באריכות, עם חומר מהותי על התקופה שלאחר הגירוש. **מדרשי חז"ל** — בראשית רבה, התנחומא, *פרקי דרבי אליעזר* — מפתחים את הנרטיב העדני לאורך מאות שנים עם הרחבה מהותית. **כותבים נוצריים פטריסטיים** (תאופילוס מאנטיוכיה, אוריגנס, אוגוסטינוס) מפתחים את הקריאות הטיפולוגיות והאלגוריות שיהפכו לסטנדרט בתיאולוגיה המערבית. **מקורות קוראניים ואסלאמיים** משמרים מסורת מקבילה של *ג'נת עדן*, "גני עדן", המשמשת בקוראן כייעוד הפרדס (למשל, ק 9:72, ק 13:23, ק 19:61); המסורת הקוראנית משמרת את נרטיב אדם וחווה עם מספר הבדלים ספציפיים מהחשבון המקראי.
 
-### Mesopotamian parallels
+### מקבילות מסופוטמיות
 
 {% library(book="genesis-woh", chapter=3, verse=24) %}
-He drove out the human, and placed at the east of the garden of Eden the cherubim and the flaming blade that turns itself, to guard the way to the tree of life.
+ויגרש את האדם, וישכן מקדם לגן עדן את הכרובים ואת להט החרב המתהפכת לשמור את דרך עץ החיים.
 {% end %}
 
-The closest Mesopotamian parallel to Eden is the tradition of **Dilmun**, treated more fully in *Comparative observations* below. Dilmun appears in Sumerian texts as a paradisiacal land where the gods dwelled and where there was no sickness, hunger, or death — a description structurally close to certain elements of the Edenic tradition. The myth of *Enki and Ninhursag* describes Dilmun as a place where "the lion does not kill, the wolf does not snatch the lamb," with imagery that has clear resonance with Isaiah's later prophetic visions of restored Eden. The geographical identification of Dilmun is contested in Assyriology, with Bahrain being the traditional identification; the Persian Gulf location of Dilmun is one of the points the various Persian Gulf Eden-location hypotheses build on.
+המקבילה המסופוטמית הקרובה ביותר לעדן היא מסורת **דילמון**, המטופלת באופן מלא יותר ב*תצפיות השוואתיות* להלן. דילמון מופיעה בטקסטים שומריים כארץ פרדסיאקית שבה האלים שכנו והיכן שלא היה מחלה, רעב, או מוות — תיאור הקרוב מבנית לאלמנטים מסוימים של המסורת העדנית. המיתוס של *אנכי ונינחורסג* מתאר את דילמון כמקום שבו "האריה אינו הורג, הזאב אינו חוטף את הכבש", עם דימויים בעלי הדהוד ברור לחזונות הנבואיים המאוחרים של ישעיהו על עדן המשוקמת. הזיהוי הגיאוגרפי של דילמון שנוי במחלוקת באשורולוגיה, כאשר בחריין היא הזיהוי המסורתי; מיקום המפרץ הפרסי של דילמון הוא אחת הנקודות שעליהן בונות השערות מיקום עדן השונות במפרץ הפרסי.
 
-## Geographic identification
+## זיהוי גיאוגרפי
 
-The geographic identification of Eden — where the garden was, where its remnants might be located, and what relationship the antediluvian geography bears to present-day geography — is one of the most extensively debated aspects of the Eden tradition. The corpus's specific identification differs from both the mainstream biblical-scholarly position and the various alternative-interpretation hypotheses.
+הזיהוי הגיאוגרפי של עדן — היכן היה הגן, היכן עשויים להיות ממוקמים שרידיו, ומה היחס שבין הגיאוגרפיה הטרום-מבולית לבין הגיאוגרפיה של ימינו — הוא אחד ההיבטים הנדונים בהרחבה ביותר של מסורת עדן. הזיהוי הספציפי של הקורפוס נבדל הן מהעמדה המקראית-מדעית המיינסטרימית והן מהשערות הפרשנות האלטרנטיביות השונות.
 
-### The four-rivers identification puzzle
+### חידת זיהוי ארבעת הנהרות
 
-Genesis 2:10–14 names the four rivers that flow out of Eden, two of which are unambiguously identifiable with extant rivers (the Tigris and the Euphrates) and two of which are not: the Pishon and the Gihon. The identification of the Pishon and Gihon has been one of the principal problems for Eden-location scholarship across two and a half millennia.
+בראשית ב:10–14 שמה את ארבעת הנהרות הזורמים מעדן, שניים מהם ניתנים לזיהוי חד-משמעי עם נהרות קיימים (החידקל והפרת) ושניים שלא: הפישון והגיחון. זיהוי הפישון והגיחון היה אחת הבעיות העיקריות במחקר מיקום עדן לאורך אלפיים וחצי שנה.
 
-The classical Jewish and patristic Christian traditions identified the Pishon and Gihon variously: with the Nile (a common patristic identification, on the basis of Genesis 2:13's "compassing the land of Cush," which can mean Ethiopia / Nubia), with the Ganges or the Indus (proposed by Josephus, *Antiquities* 1.1.3), with the Araxes in Armenia, or with the Karun or Kerkha rivers in modern Iran. The various proposals each have textual or geographic problems; none has achieved consensus.
+המסורות היהודיות הקלאסיות והפטריסטיות הנוצריות זיהו את הפישון והגיחון באופנים שונים: עם הנילוס (זיהוי פטריסטי נפוץ, על בסיס "מקיף את ארץ כוש" של בראשית ב:13, שיכול להיות אתיופיה / נוביה), עם הגנגס או הסינדהו (הוצע על ידי יוספוס, *קדמוניות* 1.1.3), עם הארקס בארמניה, או עם הקארון או הכרכה במודרנית איראן. להצעות השונות יש בעיות טקסטואליות או גיאוגרפיות; אף אחת לא השיגה קונסנזוס.
 
-Modern proposals have continued the tradition. The Persian Gulf hypothesis associated with **Juris Zarins** (the American archaeologist, in *Smithsonian Magazine* 1987 and subsequent publications) identifies the Pishon with the Wadi al-Rummah, a now-dry riverbed running across the Arabian peninsula that LANDSAT imagery has shown was a major river system during the wetter Pleistocene period; the Gihon with the Karun river in Iran; the Tigris and Euphrates as themselves; and the four-river meeting point as the head of the Persian Gulf, which during the early Holocene was extended further inland than the present coastline. The Zarins hypothesis places Eden at this submerged area, now under Persian Gulf waters.
+הצעות מודרניות המשיכו את המסורת. השערת המפרץ הפרסי הקשורה ב**יוריס זארינס** (הארכיאולוג האמריקאי, ב*Smithsonian Magazine* 1987 ובפרסומים שלאחר מכן) מזהה את הפישון עם ואדי אל-רומאח, אפיק נהר יבש כעת החוצה את חצי האי הערבי שצילומי LANDSAT הראו שהיה מערכת נהרות גדולה במהלך התקופה הפלייסטוקנית הרטובה יותר; את הגיחון עם נהר הקארון באיראן; את החידקל והפרת כעצמם; ואת מפגש ארבעת הנהרות כראש המפרץ הפרסי, אשר במהלך ההולוקן המוקדם הוארך פנימה הרחק מעבר לקו החוף הנוכחי. השערת זארינס ממקמת את עדן באזור הטבוע הזה, כעת תחת מי המפרץ הפרסי.
 
-The **David Rohl** hypothesis (in *Legend: The Genesis of Civilisation*, 1998) places Eden in the Lake Urmia region of northwestern Iran, identifying the Pishon with the Aras / Araxes and the Gihon with the Kezel-Owzan or the Greater Zab.
+השערת **דוד רוהל** (ב*Legend: The Genesis of Civilisation*, 1998) ממקמת את עדן באזור אגם אורמיה בצפון-מערב איראן, ומזהה את הפישון עם הארס / Araxes ואת הגיחון עם הקזל-אוזן או הזב הגדול.
 
-### The framework's reading of the geographic question
+### קריאת המסגרת של השאלה הגיאוגרפית
 
-The corpus's reading of the four-rivers passage is distinct from both the mainstream biblical-scholarly position (which generally treats the rivers as mythological or as preserving general geographic memory rather than as a precise identification puzzle) and the alternative-interpretation hypotheses (which treat the puzzle as solvable by careful work with the present-day geography).
+קריאת הקורפוס של קטע ארבעת הנהרות נבדלת הן מהעמדה המקראית-מדעית המיינסטרימית (המתייחסת לנהרות באופן כללי כמיתולוגיים או כמשמרים זיכרון גיאוגרפי כללי ולא כחידת זיהוי מדויקת) והן מהשערות הפרשנות האלטרנטיביות (המתייחסות לחידה כניתנת לפתרון על ידי עבודה זהירה עם הגיאוגרפיה של ימינו).
 
-On the corpus's reading, the four-rivers passage is a description of the antediluvian Eden region's hydrology, no longer extant in its original form. The supercontinent on which the antediluvian Eden was located broke apart catastrophically during the Flood event of the Age of Gemini (c. 6,690 BCE on the corpus's chronology), with the resulting fragments becoming the modern continents through subsequent drift.[^pangaea] The pre-Flood river system that included the Pishon, Gihon, Tigris, and Euphrates as four streams flowing from a common source no longer exists in that configuration. The names *Tigris* and *Euphrates* were preserved across the catastrophe by the post-Flood survivors, who attached them to rivers in the post-Flood Mesopotamian region that the survivors associated with the original referents, but the post-Flood rivers are not the same as the antediluvian rivers — the geographic substrate has been rearranged.
+על פי קריאת הקורפוס, קטע ארבעת הנהרות הוא תיאור של ההידרולוגיה של אזור עדן הטרום-מבולי, שאינה עוד קיימת בצורתה המקורית{{ footnote(id="2") }}. היבשת-העל עליה היה ממוקם עדן הטרום-מבולי התפרקה באופן קטסטרופי במהלך אירוע המבול של עידן התאומים (בסביבות 6,690 לפנה»ס על פי כרונולוגיית הקורפוס), כאשר הפרגמנטים המתקבלים הפכו ליבשות המודרניות באמצעות תזוזה לאחר מכן.{{ footnote(id="3") }} מערכת הנהרות שלפני המבול שכללה את הפישון, הגיחון, החידקל, והפרת כארבעה זרמים הזורמים ממקור משותף אינה עוד קיימת בתצורה זו. השמות *חידקל* ו*פרת* נשמרו לאורך הקטסטרופה על ידי שורדים שלאחר המבול, אשר צירפו אותם לנהרות באזור מסופוטמיה שלאחר המבול שהשורדים קישרו עם המסומנים המקוריים, אך הנהרות שלאחר המבול אינם זהים לנהרות הטרום-מבוליים — המצע הגיאוגרפי סודר מחדש.
 
-[^pangaea]: The framework's "supercontinent" is not the conventional Pangaea of mainstream geology. Conventional Pangaea assembled approximately 335 million years ago and broke apart approximately 175 million years ago, with continental drift unfolding over hundreds of millions of years through mantle convection. The corpus, following the Raëlian source material, reads the breakup as a catastrophic event during the Flood of the Age of Gemini c. 6,690 BCE, with the observed continental drift since then as the residual momentum of that event. The structural correspondence — a single consolidated landmass, surrounded by a single ocean — is the same; the timing and mechanism are radically different. The conflict with mainstream geological dating is substantial and is treated openly in the [Pangaea](../pangaea/), [Great Flood](../great-flood/), and [Antediluvian](../antediluvian/) entries.
 
-The general identification of the Eden region with the eastern Mediterranean / Levantine portion of the antediluvian supercontinent — the area that, after the breakup, would become the modern Levant including present-day Israel, Lebanon, Syria, southeastern Turkey, and the surrounding coastlands of Greece, Cyprus, and the Mediterranean basin — is solid on the corpus's reading. This identification is grounded in the Raëlian source material's specific identification of the Israel team's territory as the precursor to what would become the modern Israel. The pre-Flood Eden region is, on this reading, the antediluvian configuration of the territory whose post-Flood remnant is the present Levantine area.
+הזיהוי הכללי של אזור עדן עם החלק הים-תיכוני המזרחי / הלבנט של היבשת-העל הטרום-מבולית — האזור אשר, לאחר ההתפרקות, יהפוך ללבנט המודרני כולל ישראל של ימינו, לבנון, סוריה, דרום-מזרח טורקיה, וחופי יוון, קפריסין, ואגן הים התיכון הסובבים — מוצק על פי קריאת הקורפוס. זיהוי זה מבוסס על הזיהוי הספציפי של חומר המקור הראליאני של הטריטוריה של צוות ישראל כקודמת למה שיהפוך לישראל המודרנית. אזור עדן שלפני המבול הוא, על פי קריאה זו, התצורה הטרום-מבולית של הטריטוריה אשר השריד שלה לאחר המבול הוא אזור הלבנט בהווה.
 
-The precise pre-Flood location of the garden of Eden within this broader region is not specified in the available source material. The four-rivers passage suggests a location at or near the headwaters of a major river system; the surrounding geography (the lands of Havilah and Cush, the gold and precious stones) suggests a region with substantial mineral wealth; the climatic features implied by the narrative (a controlled environment supporting diverse flora and fauna without seasonal extremes) suggest a temperate to subtropical setting. The framework treats these textual indications as preserving accurate features of the antediluvian Eden region, while acknowledging that the post-Flood remapping of the territory makes precise pre-Flood coordinates unrecoverable.
+המיקום המדויק לפני המבול של גן עדן בתוך האזור הרחב יותר אינו מצוין בחומר המקור הזמין. קטע ארבעת הנהרות מציע מיקום ב או ליד מקורות מערכת נהרות גדולה; הגיאוגרפיה הסובבת (ארצות החווילה והכוש, הזהב ואבני החן) מציעה אזור עם עושר מינרלי מהותי; התכונות האקלימיות המרומזות בנרטיב (סביבה מבוקרת התומכת בצמחייה ובחיות מגוונים ללא קיצוניות עונתית) מציעות מסגרת ממוזגת עד טרופית-משנית. המסגרת מתייחסת לאינדיקציות הטקסטואליות הללו כשומרות תכונות מדויקות של אזור עדן הטרום-מבולי, תוך הכרה שהמיפוי המחודש של הטריטוריה לאחר המבול הופך קואורדינטות מדויקות שלפני המבול לבלתי ניתנות לשחזור.
 
-### The garden as enclosed installation
+### הגן כמתקן מוקף
 
-The Hebrew *gan*, conventionally translated "garden," is read by the corpus in its strong etymological sense — an enclosed, protected, controlled space, with the boundary not merely ornamental but functional. The garden of Eden, on the framework's reading, is a specific enclosed installation within the broader Israel-team territory: a physical site bounded by some form of perimeter, containing the laboratories in which the biological synthesis was conducted, the educational facilities at which the first humans were instructed, and the controlled flora and fauna whose cultivation the Raëlian source material describes as the work of artists as well as scientists. The cherubim and flaming sword of Genesis 3:24 — placed at the entrance after the expulsion — are read as the access controls that prevented re-entry to the installation, consistent with the *gan*'s functional-boundary character.
+ה*גן* העברי, המתורגם באופן מקובל "גינה", נקרא על ידי הקורפוס במובנו האטימולוגי החזק — מרחב מוקף, מוגן ומבוקר, שגבולו אינו רק קישוטי אלא פונקציונלי. גן עדן, על פי קריאת המסגרת, הוא מתקן מוקף ספציפי בתוך הטריטוריה הרחבה יותר של צוות ישראל: אתר פיזי תחום בצורה כלשהי של היקף, המכיל את המעבדות שבהן הסינתזה הביולוגית בוצעה, את מתקני החינוך שבהם הוראו האנשים הראשונים, ואת הצמחייה והחיות המבוקרים שגידולם מתואר בחומר המקור הראליאני כעבודת אמנים כמו גם מדענים. הכרובים והחרב הלוהטת של בראשית ג:24 — שהוצבו בכניסה לאחר הגירוש — נקראים כבקרות הגישה שמנעו כניסה מחדש למתקן, עולים בקנה אחד עם אופי הגבול-הפונקציונלי של ה*גן*.
 
-The size of the installation is not specified in the source material. The Genesis text suggests something on the order of a substantial estate or compound rather than a small ornamental garden; the four-rivers passage implies that the garden is the source-region of major river systems, suggesting substantial geographic extent. The framework's reading treats the *gan-ʿĒden* as a major operational installation appropriate to a multi-millennial team operation, comparable in scale to the substantial scientific-research and habitation complexes that any such operation would require.
+גודל המתקן אינו מצוין בחומר המקור. טקסט בראשית מציע משהו בסדר גודל של אחוזה מהותית או מתחם ולא גן קישוטי קטן; קטע ארבעת הנהרות מרמז שהגן הוא אזור-המקור של מערכות נהרות גדולות, מציע היקף גיאוגרפי מהותי. קריאת המסגרת מתייחסת ל*gan-ʿĒden* כמתקן תפעולי גדול ההולם פעולת צוות רב-מילניאלית, דומה בקנה מידה למתחמי מחקר מדעי ומגורים מהותיים שכל פעולה כזו תדרוש.
 
-## Historical occupation and use
+## כיבוש היסטורי ושימוש
 
-Eden was occupied, on the corpus's reading, across a specific period that maps to two precessional ages and a specific set of operational phases. The framework's chronology of these phases derives from the Raëlian source material's account of the creation work, with the Hebrew Bible's narrative providing the principal textual evidence for the political and biographical events.
+עדן היה מאוכלס, על פי קריאת הקורפוס, לאורך תקופה ספציפית הממופה לשני עידני נקיפה ולסדרה ספציפית של שלבים תפעוליים. הכרונולוגיה של המסגרת לשלבים אלה נגזרת מחשבון חומר המקור הראליאני של עבודת הבריאה, כאשר נרטיב המקרא העברי מספק את הראיות הטקסטואליות העיקריות לאירועים הפוליטיים והביוגרפיים.
 
-### The Israel-team operational period: late Leo
+### תקופת הפעולה של צוות ישראל: סוף האריה
 
-The Israel team's operations in the Eden region began, on the framework's reading, during the broader Age of Leo (c. 11,010 – 8,850 BCE) — the sixth precessional age of the creation project, in which the seven creator teams synthesized the land animals and ultimately the first humans. The Israel team's specific work in Eden during late Leo culminated in the creation of the first humans (Adam and Eve, on the Genesis names) at approximately 11,375 BCE — the date derived from the 666-generation calculation anchoring the framework's chronology.
+פעולות צוות ישראל באזור עדן החלו, על פי קריאת המסגרת, במהלך עידן האריה הרחב יותר (בסביבות 11,010 – 8,850 לפנה»ס) — עידן הנקיפה השישי של פרויקט הבריאה, שבו שבעת צוותי הבריאה סינתזו את חיות היבשה ולבסוף את האנשים הראשונים. עבודתו הספציפית של צוות ישראל בעדן במהלך סוף האריה הגיעה לשיאה ביצירת האנשים הראשונים (אדם וחווה, בשמות בראשית) בסביבות 11,375 לפנה»ס — התאריך נגזר מחישוב 666-הדורות העוגן של כרונולוגיית המסגרת.
 
-During this initial operational phase, the garden was the site of active biological synthesis. The team's laboratories produced the first humans through the genetic-design and laboratory-synthesis techniques the Elohim civilization possessed; the resulting individuals were placed in the prepared garden environment and instructed in the languages, sciences, and arts that the team judged appropriate for them. The instruction was deliberately bounded: the humans were granted free use of the educational and biological resources of the garden, but the prohibition concerning the Tree of the Knowledge of Good and Evil corresponded to a specific restriction on access to the scientific and technological archives of the team — the materials whose use would have given the humans capacities the team's authorities, on the home world, did not want them to acquire.
+במהלך שלב התפעול הראשוני הזה, הגן היה אתר הסינתזה הביולוגית הפעילה{{ cite(id="the-book-which-tells-the-truth", text="[1]", title="וורילון (ראל), *הספר שאומר את האמת* (1974), פרק 2 'האמת' — המקור הראליאני העיקרי לקריאת המסגרת של עדן") }}. מעבדות הצוות הפיקו את האנשים הראשונים באמצעות טכניקות התכנון הגנטי והסינתזה המעבדתית שציוויליזציית האלוהים החזיקה; הפרטים המתקבלים הוצבו בסביבת הגן המוכנה והוראו בשפות, המדעים, והאמנויות שהצוות שפט כמתאימים להם. ההוראה הייתה מתוחמת בכוונה: לבני האדם הוענק שימוש חופשי במשאבים החינוכיים והביולוגיים של הגן, אך האיסור הנוגע לעץ הדעת טוב ורע תאם הגבלה ספציפית על גישה לארכיוני המדע והטכנולוגיה של הצוות — החומרים אשר שימוש בהם היה נותן לבני האדם יכולות שרשויות הצוות, בעולם הבית, לא רצו שירכשו{{ footnote(id="4") }}.
 
-### The political crisis: late Leo / early Cancer
+### המשבר הפוליטי: סוף האריה / תחילת הסרטן
 
-Across the closing centuries of Leo, on the corpus's reading, an internal political dispute developed within the Israel team. The leader of one faction — identified in the broader framework with **Lucifer** ("light-bringer") — disagreed with the home-world's containment policy and held that the synthesized humans should be told who their creators were, taught what their creators knew, and permitted to develop with full information. The Genesis 3 disclosure — the serpent's communication to the humans concerning the Tree of the Knowledge of Good and Evil — is the operational expression of this position. The corpus reads the serpent as the leader of this dissenting faction, providing the humans with access to the prohibited materials against the directives of the home world.
+לאורך המאות הסוגרות של האריה, על פי קריאת הקורפוס, התפתחה מחלוקת פוליטית פנימית בתוך צוות ישראל. מנהיג סיעה אחת — מזוהה במסגרת הרחבה עם **לוציפר** ("נושא האור") — לא הסכים עם מדיניות ההכלה של עולם הבית וגרס שיש לומר לבני האדם המסונתזים מי היו בוראיהם, ללמד אותם את מה שבוראיהם ידעו, ולהתיר להם להתפתח עם מידע מלא. גילוי בראשית ג — תקשורת הנחש לבני האדם הנוגעת לעץ הדעת טוב ורע — הוא הביטוי התפעולי של עמדה זו. הקורפוס קורא את הנחש כמנהיג סיעת המתנגדים הזו, המספק לבני האדם גישה לחומרים האסורים כנגד הנחיות עולם הבית.
 
-The transgression, on this reading, is not a moral fall but a transmission of restricted knowledge against the home-world's policy. The narrative's subsequent imagery — the recognition of nakedness, the fashioning of clothing, the confrontation with Yahweh Elohim, the pronouncement of consequences — is read as the political-operational consequence of the disclosure: the humans now know what they are, the team's leadership confronts them, and the broader Council on the home world is informed of the violation.
+העבירה, על פי קריאה זו, אינה נפילה מוסרית אלא העברה של ידע מוגבל כנגד מדיניות עולם הבית. הדימויים הבאים של הנרטיב — ההכרה בעירום, הכנת הבגדים, העימות עם יהוה אלוהים, הכרזת התוצאות — נקראים כתוצאה הפוליטית-תפעולית של הגילוי: בני האדם עכשיו יודעים מה הם, מנהיגות הצוות מעמתת אותם, ומועצת עולם הבית הרחבה יותר מודעה על ההפרה.
 
-### The expulsion: early Cancer
+### הגירוש: תחילת הסרטן
 
-The expulsion from the garden, narrated in Genesis 3:23–24, is the framework's reading of the operational consequence of the political crisis. The humans are removed from the controlled garden environment and placed outside its boundary, in the broader Eden region, required to subsist by their own labor on land that has not been specifically prepared for them. The cherubim and flaming sword at the entrance prevent their return.
+הגירוש מהגן, המסופר בבראשית ג:23–24, הוא קריאת המסגרת של התוצאה התפעולית של המשבר הפוליטי. בני האדם מוסרים מסביבת הגן המבוקרת ומוצבים מחוץ לגבולה, באזור עדן הרחב יותר, נדרשים להתפרנס בעמלם על אדמה שלא הוכנה במיוחד עבורם. הכרובים והחרב הלוהטת בכניסה מונעים את שובם.
 
-The political settlement at the home-world Council level, treated more fully in the [Elohim](../elohim/) entry under Internal political structure, divided the post-Eden alliance personnel into two groups. The dissenting Lucifer faction — those who had supported the disclosure — was permanently exiled on Earth, condemned to live among the humans they had chosen to enlighten. The remainder of the Israel team, plus most of the personnel from the other six creator teams, was withdrawn to the home world. The result was that the post-expulsion Eden region contained the human population (now with restricted scientific knowledge) and a small permanent Elohim presence (the exiled Lucifer faction), with the broader alliance maintaining surveillance from a distance.
+ההסדר הפוליטי ברמת מועצת עולם הבית, המטופל באופן מלא יותר בערך {% wiki(slug="elohim") %}אלוהים{% end %} תחת המבנה הפוליטי הפנימי, חילק את כוח האדם של הברית שלאחר עדן לשתי קבוצות. סיעת לוציפר המתנגדת — אלה שתמכו בגילוי — הוגלתה לצמיתות על כדור הארץ, נדונה לחיות בין בני האדם שבחרה להאיר. שאר צוות ישראל, בתוספת רוב כוח האדם משאר שישה צוותי הבריאה, נסוג לעולם הבית. התוצאה הייתה שאזור עדן שלאחר הגירוש הכיל את האוכלוסייה האנושית (כעת עם ידע מדעי מוגבל) ונוכחות אלוהית קטנה ותמידית (סיעת לוציפר הגולה), כאשר הברית הרחבה יותר שומרת על מעקב ממרחק.
 
-### The post-expulsion period: Age of Cancer
+### התקופה שלאחר הגירוש: עידן הסרטן
 
-The Age of Cancer (c. 8,850 – 6,690 BCE) is the period of the antediluvian human civilization that the post-expulsion Eden region, and its broader continental expansion, supported. The Genesis 4–6 narrative covers this period in compressed form: the Cain-and-Abel conflict and Cain's exile to the land of Nod east of Eden; the genealogies of Cain's line (Genesis 4:17–24), naming the founders of pastoral nomadism, music, and metallurgy; the parallel genealogy of Seth's line (Genesis 5), with the long lifespans of the patriarchs from Adam to Noah; the *benei ha-Elohim* episode (Genesis 6:1–4), with the Lucifer-faction Elohim taking human women as wives and producing the *Nephilim*; and the divine assessment leading to the Flood announcement (Genesis 6:5–8).
+עידן הסרטן (בסביבות 8,850 – 6,690 לפנה»ס) הוא תקופת הציוויליזציה האנושית הטרום-מבולית שאזור עדן שלאחר הגירוש, וההתפשטות היבשתית הרחבה יותר שלו, תמכו בה. נרטיב בראשית ד-ו מכסה את התקופה הזו בצורה דחוסה: הסכסוך קין-והבל וגלות קין לארץ נוד קדמת עדן; שושלות שורת קין (בראשית ד:17–24), הקובעות את מייסדי הנוודות הרועית, המוזיקה, והמטלורגיה; השושלת המקבילה של שורת שת (בראשית ה), עם תוחלות החיים הארוכות של האבות מאדם ועד נח; פרק *בני האלוהים* (בראשית ו:1–4), כאשר אלוהי סיעת לוציפר לוקחים נשים אנושיות לנשים ומפיקים את ה*נפילים*; וההערכה האלוהית המובילה להכרזת המבול (בראשית ו:5–8).
 
-Across this period, the Eden region itself remained inhabited by the descendants of the first humans, with the longevity treatment granted to the Sethite patriarchal leadership maintaining institutional continuity across multiple ordinary generations. The exiled Lucifer faction continued to teach the population, refining their technical and scientific capabilities across the centuries. The broader Eden civilization — the lineage of which the Hebrews would be the post-Flood remnant — developed across the supercontinent, with the Eden region as its political and cultural center. The detailed treatment of this period lives in the [Antediluvian](../antediluvian/) entry; what matters for the present entry is that the Eden region was the political and cultural center of the most accomplished of the seven antediluvian civilizations across the entire two-thousand-year span of the Age of Cancer.
+לאורך תקופה זו, אזור עדן עצמו נשאר מאוכלס על ידי צאצאי האנשים הראשונים, כאשר הטיפול בתוחלת חיים הוענק להנהגה האבות-של שת ושמר על המשכיות מוסדית לאורך מספר דורות רגילים. סיעת לוציפר הגולה המשיכה ללמד את האוכלוסייה, מעדנת את היכולות הטכניות והמדעיות שלהם לאורך המאות. הציוויליזציה העדנית הרחבה יותר — השושלת שהעברים יהיו השריד שלה שלאחר המבול — התפתחה לאורך היבשת-העל, כאשר אזור עדן הוא המרכז הפוליטי והתרבותי שלה. הטיפול המפורט בתקופה זו חי בערך ה{% wiki(slug="antediluvian") %}טרום-מבולית{% end %}; מה שחשוב לערך הנוכחי הוא שאזור עדן היה המרכז הפוליטי והתרבותי של המוכשרת ביותר משבע הציוויליזציות הטרום-מבוליות לאורך כל מרווח אלפיים השנים של עידן הסרטן.
 
-### The Flood and the disruption of Eden
+### המבול ושיבוש עדן
 
-The Flood event of the Age of Gemini (c. 6,690 BCE) ended the antediluvian world and disrupted the Eden region in ways the framework treats as catastrophic. The supercontinent broke apart; the geography reorganized; the populations of the seven antediluvian civilizations were largely destroyed, with only the small remnants preserved through the ark surviving into the post-Flood era. The Eden region in its antediluvian configuration ceased to exist. The post-Flood remnants — what would become the Levantine region of the modern world — preserved cultural memory of the original Eden, transmitted through the Sethite-Noahite line whose direct descendants the Hebrews would become, but the physical site of the antediluvian garden was no longer recoverable.
+אירוע המבול של עידן התאומים (בסביבות 6,690 לפנה»ס) סיים את העולם הטרום-מבולי ושיבש את אזור עדן באופנים שהמסגרת מתייחסת אליהם כקטסטרופיים. היבשת-העל התפרקה; הגיאוגרפיה אורגנה מחדש; אוכלוסיות שבע הציוויליזציות הטרום-מבוליות הושמדו ברובן, כאשר רק השרידים הקטנים שנשמרו דרך התיבה שרדו לעידן שלאחר המבול. אזור עדן בתצורתו הטרום-מבולית חדל להתקיים. השרידים שלאחר המבול — מה שיהפוך לאזור הלבנט של העולם המודרני — שמרו זיכרון תרבותי של עדן המקורית, מועבר דרך השושלת השת-נוחית שצאצאיה הישירים יהפכו לעברים, אך האתר הפיזי של הגן הטרום-מבולי לא היה עוד ניתן לשחזור.
 
-The detailed treatment of the Flood event lives in the [Great Flood](../great-flood/) entry. What matters for the Eden entry is that the Flood is the event that closes Eden's operational period: after the Flood, Eden is a memory rather than a place.
+הטיפול המפורט באירוע המבול חי בערך ה{% wiki(slug="great-flood") %}מבול הגדול{% end %}. מה שחשוב לערך עדן הוא שהמבול הוא האירוע הסוגר את תקופת התפעול של עדן: לאחר המבול, עדן הוא זיכרון ולא מקום.
 
-## Significance in the framework
+## חשיבות במסגרת
 
-Eden's significance in the Wheel of Heaven framework is structured by three distinct functions, each of which the entry's earlier sections have developed. They warrant explicit synthesis.
+חשיבותה של עדן במסגרת גלגל השמיים מובנית על ידי שלוש פונקציות מובחנות, שכל אחת מהן פותחה בסעיפים הקודמים של הערך. הן ראויות לסינתזה מפורשת.
 
-### The pivotal political crisis
+### המשבר הפוליטי הצירי
 
-Eden is, on the corpus's reading, the location of the most consequential political crisis the alliance has ever faced. The Lucifer-faction disclosure of restricted knowledge to the synthesized humans produced a political settlement — the permanent exile of the dissenting faction, the withdrawal of the rest of the creator personnel, the establishment of the post-Eden mediated-contact pattern — that has structured the entire subsequent post-creation history. Every operational policy the alliance has pursued across the subsequent fifteen millennia has been a response to or development of the post-Eden settlement. The patriarchal-period reconstruction with {% wiki(slug="abraham") %}Abraham{% end %}, the Mosaic-period direct intervention, the post-Aries indirect-contact policy, the Piscean-age missions of {% wiki(slug="jesus") %}Jesus{% end %} and {% wiki(slug="muhammad") %}Muhammad{% end %}, the Aquarian-age opening with Vorilhon — all are operational extensions of the political situation Eden produced.
+עדן הוא, על פי קריאת הקורפוס, המיקום של המשבר הפוליטי המשמעותי ביותר שהברית התמודדה איתו אי פעם. גילוי סיעת לוציפר של ידע מוגבל לבני האדם המסונתזים הפיק הסדר פוליטי — גלות לצמיתות של סיעת המתנגדים, נסיגת שאר כוח האדם הבורא, ביסוס דפוס המגע המתווך שלאחר עדן — שעיצב את כל ההיסטוריה שלאחר הבריאה הבאה. כל מדיניות תפעולית שהברית רדפה אחריה לאורך חמשת-עשר אלפי השנים הבאים הייתה תגובה או פיתוח של ההסדר שלאחר עדן. השחזור של תקופת האבות עם {% wiki(slug="abraham") %}אברהם{% end %}, ההתערבות הישירה של תקופת משה, מדיניות המגע העקיף שלאחר טלה, שליחויות עידן הדגים של {% wiki(slug="jesus") %}ישו{% end %} ו{% wiki(slug="muhammad") %}מוחמד{% end %}, פתיחת עידן הדלי עם וורילון — כולם הם הרחבות תפעוליות של המצב הפוליטי שעדן הפיק.
 
-### The textual anchor
+### העוגן הטקסטואלי
 
-Eden is the textual anchor of the framework's entire reading of the Hebrew Bible. The Genesis 2–3 narrative, read at face value as the corpus does, establishes the basic ontology that the rest of the framework's reading depends on: Yahweh as a specific Eloha individual rather than a singular supernatural deity, the Elohim as a plurality of physical beings rather than a metaphysical singular, the creation of humans as biological synthesis in a specific operational setting, the political-rather-than-moral character of the post-Eden settlement, and the continuing alliance presence on Earth through the exiled Lucifer faction. Without the framework's reading of Eden, the rest of the framework's reading of the Hebrew Bible would lack its grounding text.
+עדן הוא העוגן הטקסטואלי של כל קריאת המסגרת של המקרא העברי. נרטיב בראשית ב-ג, הנקרא בערכו הנקוב כפי שהקורפוס עושה, מבסס את האונטולוגיה הבסיסית שעליה נשענת שאר קריאת המסגרת: יהוה כפרט אלוה ספציפי ולא כאלוהות על-טבעית יחידה, האלוהים כריבוי של יצורים פיזיים ולא יחיד מטאפיזי, בריאת בני האדם כסינתזה ביולוגית במסגרת תפעולית ספציפית, האופי הפוליטי-במקום-מוסרי של ההסדר שלאחר עדן, והנוכחות המתמשכת של הברית על כדור הארץ דרך סיעת לוציפר הגולה. ללא קריאת המסגרת של עדן, שאר קריאת המסגרת של המקרא העברי הייתה חסרה את הטקסט המבסס שלה.
 
-### The genealogical-textual privilege
+### הזכות הגנאלוגית-טקסטואלית
 
-Eden is also the genealogical anchor of the corpus's specific position on textual privilege. The framework treats the Hebrew Bible as the most accurate of the surviving ancient records of the Elohim civilization's work on Earth, on the grounds that the Hebrews are the line treated in the Raëlian source material as the direct genetic descendants of the Israel-team-synthesized first humans. This privileged textual position is grounded in the Eden episode specifically: the Israel team's operations in the Eden region produced the lineage that became the Hebrews, and that lineage's continuous textual tradition preserved the operational events with greater fidelity than the parallel traditions of the other six lineages whose textual records have decayed across the post-Flood transmission. The corpus's relationship to the Hebrew Bible — taking its narratives as substantively accurate compressed records, rather than as theological mythology or as redactional composition — depends on this Eden-grounded genealogical privilege.
+עדן הוא גם העוגן הגנאלוגי של עמדת הקורפוס הספציפית על זכות טקסטואלית. המסגרת מתייחסת למקרא העברי כמדויק ביותר מבין התיעודים העתיקים השורדים של עבודת ציוויליזציית האלוהים על כדור הארץ, על בסיס שהעברים הם השושלת המטופלת בחומר המקור הראליאני כצאצאים הגנטיים הישירים של האנשים הראשונים שסונתזו על ידי צוות ישראל. עמדה טקסטואלית מועדפת זו מבוססת בפרק עדן באופן ספציפי: פעולות צוות ישראל באזור עדן הפיקו את השושלת שהפכה לעברים, והמסורת הטקסטואלית המתמשכת של אותה שושלת שמרה את האירועים התפעוליים בנאמנות גדולה יותר מאשר המסורות המקבילות של שש השושלות האחרות שתיעודיהן הטקסטואליים נשחקו לאורך ההעברה שלאחר המבול. יחס הקורפוס למקרא העברי — לקיחת נרטיביו כתיעודים דחוסים מהותית מדויקים, ולא כמיתולוגיה תיאולוגית או כהרכבה עריכתית — תלוי בזכות גנאלוגית עדן-מבוססת זו.
 
-## Modern reinterpretations
+## פרשנויות מחודשות מודרניות
 
-Eden has been a subject of substantial modern reinterpretive scholarship across several distinct strands, each engaging the question from a different methodological starting point.
+עדן היה נושא של מחקר פרשני-מחודש מודרני מהותי לאורך מספר גישות מובחנות, כל אחת מתעסקת בשאלה מנקודת מוצא מתודולוגית שונה.
 
-### Jean Sendy on Eden
+### ז'אן סנדי על עדן
 
-**Jean Sendy**'s treatment of Eden is developed across his work but is particularly concentrated in *Ces dieux qui firent le ciel et la terre* (1969) and *Les cahiers de cours de Moïse* (1974). Sendy reads the Eden narrative as a record of operational events at a specific extraterrestrial-creator site, with the strangeness of the narrative (the talking serpent, the trees with theological functions, the cherubim with flaming swords) disappearing when the underlying referents are taken seriously rather than allegorized. Sendy's specific contributions to Eden interpretation include the reading of the four rivers as an antediluvian hydrography, the identification of the cherubim with technological access controls, the reading of the Tree of Life as a biotechnical resource rather than a botanical species, and the political-rather-than-moral reading of the expulsion. Sendy's approach is philological and historiographic rather than revelatory; he reaches the framework's reading from the Hebrew text's plain sense, working from comparative-mythological evidence and internal-textual analysis. His treatment of Eden is the principal scholarly antecedent of the corpus's adopted reading.
+הטיפול של **ז'אן סנדי** בעדן מפותח לאורך עבודתו אך מרוכז במיוחד ב*Ces dieux qui firent le ciel et la terre* (1969){{ cite(id="sendy-ces-dieux", text="[2]", title="סנדי (1969); ניסוח צרפתי יסודי; הקודם המדעי העיקרי לקריאת הקורפוס של עדן") }} וב*Les cahiers de cours de Moïse* (1974){{ cite(id="sendy-cahiers-moise", text="[3]", title="סנדי (1974); מפתח את מסגרת התקופה המוסאית עם רקע מהותי על תקופת עדן") }}. סנדי קורא את נרטיב עדן כתיעוד של אירועים תפעוליים באתר בורא-חוץ-ארצי ספציפי, כשהזרות של הנרטיב (הנחש המדבר, העצים עם פונקציות תיאולוגיות, הכרובים עם חרבות לוהטות) נעלמת כאשר המסומנים התשתיתיים נלקחים ברצינות ולא מאולגרזים. תרומותיו הספציפיות של סנדי לפרשנות עדן כוללות את הקריאה של ארבעת הנהרות כהידרוגרפיה טרום-מבולית, את הזיהוי של הכרובים עם בקרות גישה טכנולוגיות, את הקריאה של עץ החיים כמשאב ביו-טכני ולא כמין בוטני, ואת הקריאה הפוליטית-במקום-מוסרית של הגירוש. גישתו של סנדי היא פילולוגית והיסטוריוגרפית ולא התגלותית; הוא מגיע לקריאת המסגרת מהמובן הפשוט של הטקסט העברי, תוך עבודה מראיות השוואתיות-מיתולוגיות וניתוח פנים-טקסטואלי. הטיפול שלו בעדן הוא הקודם המדעי העיקרי של הקריאה שאומצה על ידי הקורפוס.
 
-### Mauro Biglino on Eden
+### מאורו ביגלינו על עדן
 
-**Mauro Biglino**'s work on Eden is developed across his major books — *Il Libro che cambierà per sempre le nostre idee sulla Bibbia* (2010), *La Bibbia non parla di Dio* (2015), and *The Naked Bible* (2022, with Giorgio Cattaneo) — with three connected claims about the term and its referent. First, that Eden is a specific geographic region between Mesopotamia and the Caucasus rather than a metaphorical paradise. Second, that the term *gan* is properly read as a fenced, protected, enclosed space — a controlled environment rather than an open garden in the modern English sense. Third, that the *gan-ʿĒden* described in Genesis is one of several such enclosed installations operated by the biblical Elohim across the ancient world, with each functioning as an experimental laboratory in which the Elohim conducted biological work, including the synthesis of humanity.
+עבודתו של **מאורו ביגלינו** על עדן מפותחת לאורך ספריו העיקריים — *Il Libro che cambierà per sempre le nostre idee sulla Bibbia* (2010), *La Bibbia non parla di Dio* (2015), ו-*The Naked Bible* (2022, עם ג'ורג'ו קטאנאו) — עם שלוש טענות מקושרות על המונח והמסומן שלו. ראשית, שעדן הוא אזור גיאוגרפי ספציפי בין מסופוטמיה לקווקז ולא פרדס מטאפורי. שנית, שהמונח *גן* נקרא כראוי כמרחב מגודר, מוגן, מוקף — סביבה מבוקרת ולא גינה פתוחה במובן האנגלי המודרני. שלישית, שה-*gan-ʿĒden* המתואר בבראשית הוא אחד ממספר מתקנים מוקפים כאלה המופעלים על ידי האלוהים המקראיים ברחבי העולם העתיק, כאשר כל אחד מתפקד כמעבדה ניסיונית שבה האלוהים ניהלו עבודה ביולוגית, כולל הסינתזה של האנושות.
 
-Biglino additionally proposes a non-standard etymology of the Sumerian-Akkadian *E-Din* as "house of the righteous," reading the "righteous" as members of the Elohim lineage. This gloss is distinctively Biglino's and is not the standard Assyriological reading; the consensus reading remains "plain" or "steppe." The corpus adopts the standard reading rather than Biglino's, since the framework's interpretive case does not depend on the non-standard gloss and is on more solid ground without it.
+ביגלינו מציע בנוסף אטימולוגיה לא-סטנדרטית של ה-*E-Din* השומרי-אכדי כ"בית הצדיקים", כשהוא קורא "צדיקים" כחברי שושלת האלוהים{{ footnote(id="5") }}. הפירוש הזה הוא ייחודי לביגלינו ואינו הקריאה האשורולוגית הסטנדרטית; קריאת הקונסנזוס נותרת "מישור" או "ערבה". הקורפוס מאמץ את הקריאה הסטנדרטית ולא את זו של ביגלינו, שכן המקרה הפרשני של המסגרת אינו תלוי בפירוש הלא-סטנדרטי ועומד על קרקע מוצקה יותר בלעדיו.
 
-Biglino's strict-translational methodology — reading the Hebrew word-for-word and accepting what the resulting concrete text actually says, rather than allegorizing it into theological abstraction — is the broader methodological contribution his work makes to Eden interpretation, beyond the specific *gan* and *Eden* arguments.
+המתודולוגיה התרגומית הקפדנית של ביגלינו — קריאת העברית מילה במילה וקבלת מה שהטקסט הקונקרטי המתקבל אומר בפועל, ולא אלגוריזציה שלו להפשטה תיאולוגית — היא התרומה המתודולוגית הרחבה יותר שעבודתו עושה לפרשנות עדן, מעבר לטיעוני ה*gan* וה*Eden* הספציפיים.
 
-### Paul Anthony Wallis: *The Eden Conspiracy* (2024)
+### פול אנתוני וואליס: *The Eden Conspiracy* (2024)
 
-**Paul Anthony Wallis**'s most direct engagement with Eden is *The Eden Conspiracy* (2024), a book-length treatment of the Genesis 2–3 narrative read in the framework's general direction. Wallis's earlier *Escaping from Eden* (2020), *The Scars of Eden* (2021), and *Echoes of Eden* (2021) develop the broader argument that the *Elohim* of Genesis are *the Powerful Ones* — beings physically present and operating with technologies the early human population could not have understood. *The Eden Conspiracy* focuses specifically on the Eden narrative, reading the garden, the trees, the serpent, and the expulsion as records of a real political crisis between alliance factions whose disagreement about how much the synthesized humans should be told produced the textually preserved conflict.
+ההתעסקות הישירה ביותר של **פול אנתוני וואליס** עם עדן היא *The Eden Conspiracy* (2024), טיפול באורך ספר בנרטיב בראשית ב-ג הנקרא בכיוון הכללי של המסגרת. *Escaping from Eden* המוקדם יותר של וואליס (2020), *The Scars of Eden* (2021), ו-*Echoes of Eden* (2021) מפתחים את הטיעון הרחב יותר ש*האלוהים* של בראשית הם *החזקים* — יצורים נוכחים פיזית ופועלים עם טכנולוגיות שהאוכלוסייה האנושית המוקדמת לא יכלה להבין. *The Eden Conspiracy* מתמקד באופן ספציפי בנרטיב עדן, וקורא את הגן, העצים, הנחש, והגירוש כתיעודים של משבר פוליטי אמיתי בין סיעות הברית שמחלוקתן על כמה האנשים המסונתזים צריכים להיאמר הפיקה את הסכסוך השמור טקסטואלית.
 
-Wallis's specific contributions to Eden interpretation include the structural reading of the political crisis (the disagreement between the senior alliance authority and the dissenting faction as the underlying conflict, with the serpent as the operational expression of the dissenting position), the careful treatment of the cherubim and flaming sword as technological rather than mythological, and the comparative engagement with Sumerian and other ancient Near Eastern parallel narratives. Wallis's accessibility and his specific focus on the Eden narrative make *The Eden Conspiracy* the most widely read recent treatment of Eden from within the broader reinterpretive tradition.
+תרומותיו הספציפיות של וואליס לפרשנות עדן כוללות את הקריאה המבנית של המשבר הפוליטי (המחלוקת בין סמכות הברית הבכירה לסיעת המתנגדים כסכסוך התשתיתי, כאשר הנחש הוא הביטוי התפעולי של עמדת המתנגדים), את הטיפול הזהיר בכרובים ובחרב הלוהטת כטכנולוגיים ולא מיתולוגיים, וההתעסקות ההשוואתית עם נרטיבים מקבילים שומריים ואחרים מהמזרח הקדום. הנגישות של וואליס והמיקוד הספציפי שלו בנרטיב עדן הופכים את *The Eden Conspiracy* לטיפול האחרון הנקרא ביותר בעדן מתוך המסורת הפרשנית-מחודשת הרחבה יותר.
 
-### Eden-location proposals
+### הצעות מיקום עדן
 
-Beyond the term-and-narrative reinterpretive work, a substantial literature has developed around the question of where Eden was located. The principal proposals:
+מעבר לעבודת הפרשנות-המחודשת של המונח-והנרטיב, ספרות מהותית התפתחה סביב השאלה היכן עדן היה ממוקם. ההצעות העיקריות:
 
-The **Persian Gulf hypothesis** associated with **Juris Zarins** (the American archaeologist who developed the proposal across the 1980s and 1990s) places Eden at the head of the Persian Gulf, identifying the Pishon with the now-dry Wadi al-Rummah river system that LANDSAT imagery has shown crossed the Arabian peninsula during the wetter Pleistocene period, and treating the Gulf's higher pre-Holocene shoreline as the relevant geographic reference. The Zarins hypothesis is grounded in archaeological and geological evidence and has been the most academically respectable of the modern Eden-location proposals.
+**השערת המפרץ הפרסי** הקשורה ב**יוריס זארינס** (הארכיאולוג האמריקאי שפיתח את ההצעה לאורך שנות ה-80 וה-90 של המאה ה-20) ממקמת את עדן בראש המפרץ הפרסי, ומזהה את הפישון עם מערכת נהר ואדי אל-רומאח היבשה כעת שצילומי LANDSAT הראו שחצתה את חצי האי הערבי במהלך התקופה הפלייסטוקנית הרטובה יותר, ומתייחסת לקו החוף הגבוה יותר של המפרץ לפני ההולוקן כמסגרת הגיאוגרפית הרלוונטית. השערת זארינס מבוססת על ראיות ארכיאולוגיות וגיאולוגיות והייתה המכובדת אקדמית ביותר מבין הצעות מיקום עדן המודרניות.
 
-The **Lake Urmia / Iranian-plateau hypothesis** associated with **David Rohl** (in *Legend: The Genesis of Civilisation*, 1998) places Eden in the Lake Urmia region of northwestern Iran, with the four rivers identified with regional Iranian and Caucasian river systems.
+**השערת אגם אורמיה / רמת איראן** הקשורה ב**דוד רוהל** (ב*Legend: The Genesis of Civilisation*, 1998) ממקמת את עדן באזור אגם אורמיה בצפון-מערב איראן, כאשר ארבעת הנהרות מזוהים עם מערכות נהרות אזוריות איראניות וקווקזיות.
 
-The **eastern Anatolian hypothesis** identifies Eden with the headwaters region of the Tigris and Euphrates in eastern Turkey — the region in which Göbekli Tepe and the broader Pre-Pottery Neolithic complex have been discovered. This proposal has gained traction since the Göbekli Tepe excavations, since the dating of the Pre-Pottery Neolithic sites lands within the framework's antediluvian period and the geographic identification with the corpus's eastern-Mediterranean / Levantine reading is consistent.
+**השערת מזרח אנטוליה** מזהה את עדן עם אזור מקורות החידקל והפרת במזרח טורקיה — האזור שבו התגלו גובקלי טפה ומתחם הניאוליתי הטרום-קרמי הרחב יותר. הצעה זו צברה אחיזה מאז חפירות גובקלי טפה, שכן התיארוך של אתרי הניאוליתי הטרום-קרמי נופל בתוך התקופה הטרום-מבולית של המסגרת והזיהוי הגיאוגרפי עם קריאת הקורפוס של הים-תיכוני המזרחי / לבנט עולה בקנה אחד.
 
-The **Sundaland hypothesis** (developed by Stephen Oppenheimer in *Eden in the East*, 1998) places Eden in the now-submerged Sundaland shelf of southeast Asia, treating the Eden tradition as preserving memory of a culture destroyed by the post-glacial sea-level rise.
+**השערת סונדאלנד** (פותחה על ידי סטיבן אופנהיימר ב*Eden in the East*, 1998) ממקמת את עדן במדף סונדאלנד הטבוע כעת של דרום-מזרח אסיה, ומתייחסת למסורת עדן כשומרת זיכרון של תרבות שהושמדה על ידי עליית מפלס הים שלאחר הקרחונים.
 
-The corpus's reading does not endorse any of these specific location proposals as fully accurate, since the framework's antediluvian-supercontinent geography differs from the present-day continental configuration in ways the Persian Gulf and Lake Urmia proposals do not address. The corpus does treat the Anatolian / eastern-Mediterranean direction as broadly compatible with its identification of the Israel-team territory with the post-Flood Levant, while noting that the post-Flood remnants of the antediluvian Eden region cannot be straightforwardly mapped to a present-day location.
+קריאת הקורפוס אינה מאשרת אף אחת מההצעות הספציפיות הללו של המיקום כמדויקת לחלוטין, שכן הגיאוגרפיה של היבשת-העל הטרום-מבולית של המסגרת נבדלת מתצורת היבשות של ימינו באופנים שהצעות המפרץ הפרסי ואגם אורמיה אינן מתייחסות אליהם. הקורפוס כן מתייחס לכיוון האנטולי / הים-תיכוני המזרחי כתואם באופן רחב לזיהוי שלו של טריטוריית צוות ישראל עם הלבנט שלאחר המבול, תוך ציון שהשרידים שלאחר המבול של אזור עדן הטרום-מבולי אינם ניתנים למיפוי ישיר למיקום של ימינו.
 
-### Earlier ancient-astronaut literature
+### ספרות אסטרונאוטים קדומים מוקדמת
 
-The broader ancient-astronaut interpretive tradition has engaged Eden at various points. **Erich von Däniken**'s *Chariots of the Gods?* (1968) treats Eden briefly as part of its broader argument about extraterrestrial visitation in ancient times. **Zecharia Sitchin**'s *The 12th Planet* (1976) and successor works treat Eden as a derivative tradition reflecting the earlier Sumerian Anunnaki narratives, with the *E.DIN* of the Sumerian texts as the underlying referent. The corpus's reading, as with the broader Sitchin tradition, registers the philological connection but does not treat Genesis as derivative from the Sumerian sources — the Hebrew tradition is read, on grounds developed in the [Genesis](../genesis/) entry, as preserving the more accurate independent record rather than as a later borrowing from the Mesopotamian sources.
+מסורת הפרשנות הרחבה יותר של אסטרונאוטים קדומים התעסקה עם עדן בנקודות שונות. *Chariots of the Gods?* של **אריך פון דניקן** (1968) מתייחס לעדן בקצרה כחלק מהטיעון הרחב שלו על ביקור חוץ-ארצי בעת העתיקה. *The 12th Planet* של **זכריה סיצ'ין** (1976) ועבודות המשך מתייחסים לעדן כמסורת נגזרת המשקפת את נרטיבי האנונאקי השומריים המוקדמים יותר, כאשר ה*E.DIN* של הטקסטים השומריים הוא המסומן התשתיתי. קריאת הקורפוס, כמו עם המסורת הסיצ'ינית הרחבה יותר, רושמת את הקשר הפילולוגי אך אינה מתייחסת לבראשית כנגזרת מהמקורות השומריים — המסורת העברית נקראת, על בסיסים שפותחו בערך ה{% wiki(slug="genesis") %}בראשית{% end %}, כשומרת את התיעוד העצמאי המדויק יותר ולא כשאילה מאוחרת יותר מהמקורות המסופוטמיים.
 
-## Comparative observations
+## תצפיות השוואתיות
 
-The Eden tradition stands in a structurally distinctive position across the world's religious and mythological literatures: a paradisiacal or first-place tradition is found in essentially every major culture, with the Eden narrative being the Hebrew tradition's specific instance of a much broader pattern. The corpus reads the global pattern as evidence of a shared underlying historical event whose memory was preserved in fragmentary form across the various post-Flood populations descended from the seven Earth lineages. Several specific comparative cases warrant treatment.
+מסורת עדן עומדת בעמדה מובחנת מבנית לאורך הספרויות הדתיות והמיתולוגיות של העולם: מסורת פרדס או מקום-ראשון נמצאת בעצם בכל תרבות גדולה, כאשר נרטיב עדן הוא המופע הספציפי של המסורת העברית של דפוס רחב הרבה יותר. הקורפוס קורא את הדפוס הגלובלי כעדות לאירוע היסטורי תשתיתי משותף שזיכרונו נשמר בצורה מקוטעת לאורך אוכלוסיות שונות שלאחר המבול הנובעות משבע שושלות כדור הארץ. מספר מקרים השוואתיים ספציפיים ראויים לטיפול.
 
-### Mesopotamian Dilmun
+### דילמון המסופוטמית
 
-The closest direct parallel to Eden in the ancient Near Eastern literature is **Dilmun**, the paradisiacal land in Sumerian mythology where the gods dwelled and where there was no sickness, hunger, or death. The myth of *Enki and Ninhursag* describes Dilmun in language strikingly close to the Edenic tradition: "the lion does not kill, the wolf does not snatch the lamb, the dog does not know the kid in his mouth, the boar does not know the eating of grain." Dilmun appears across multiple Sumerian and Akkadian texts, with the geographical identification contested in modern Assyriology — the traditional identification with Bahrain has been challenged by various other proposals including the head of the Persian Gulf.
+המקבילה הישירה הקרובה ביותר לעדן בספרות המזרח הקדום היא **דילמון**, הארץ הפרדסיאקית במיתולוגיה השומרית שבה האלים שכנו והיכן שלא היה מחלה, רעב, או מוות. המיתוס של *אנכי ונינחורסג* מתאר את דילמון בשפה קרובה באופן בולט למסורת העדנית: "האריה אינו הורג, הזאב אינו חוטף את הכבש, הכלב אינו יודע את הגדי בפיו, החזיר אינו יודע את אכילת הדגן". דילמון מופיעה לאורך טקסטים שומריים ואכדיים מרובים, כאשר הזיהוי הגיאוגרפי שנוי במחלוקת באשורולוגיה המודרנית — הזיהוי המסורתי עם בחריין אותגר על ידי הצעות אחרות שונות לרבות ראש המפרץ הפרסי.
 
-The structural parallels between Dilmun and Eden are extensive: a paradisiacal place associated with the gods; an absence of suffering and death; the presence of trees with special properties; a connection to a divine watering source. The corpus reads Dilmun and Eden as both preserving fragmentary memory of the antediluvian Eden region, with the Sumerian tradition having decayed further from the original referent than the Hebrew tradition but preserving structurally similar features. The Sumerian-Akkadian etymological link (the *EDEN* / *edinu* connection treated under Etymology above) makes the literary parallel particularly direct.
+המקבילות המבניות בין דילמון לעדן נרחבות: מקום פרדסיאקי הקשור לאלים; היעדר סבל ומוות; הנוכחות של עצים עם תכונות מיוחדות; קשר למקור מים אלוהי. הקורפוס קורא את דילמון ואת עדן כשניהם שומרים זיכרון מקוטע של אזור עדן הטרום-מבולי, כאשר המסורת השומרית נשחקה רחוק יותר מהמסומן המקורי מאשר המסורת העברית אך משמרת תכונות דומות מבנית. הקשר האטימולוגי השומרי-אכדי (הקשר *EDEN* / *edinu* שטופל תחת אטימולוגיה לעיל) הופך את המקבילה הספרותית לישירה במיוחד.
 
-### Persian *paradeisos* / *pairi-daēza*
+### *paradeisos* / *pairi-daēza* הפרסי
 
-The English word *paradise* derives from Old Persian *pairi-daēza* (*pairi-* "around" + *daēza* "wall, enclosure"), meaning literally "walled enclosure" — the term used in Persian for the royal hunting parks and pleasure gardens of the Achaemenid period. The Greeks, encountering these gardens during their contact with the Persian empire, borrowed the word as *paradeisos* (παράδεισος), and the Septuagint translators of the Hebrew Bible used *paradeisos* to render Hebrew *gan* in Genesis 2:8 — establishing the equivalence between the Hebrew "garden of Eden" and the Persian "walled enclosure" that the English "paradise" preserves.
+המילה האנגלית *paradise* נגזרת מפרסית עתיקה *pairi-daēza* (*pairi-* "סביב" + *daēza* "חומה, מתחם"), שמשמעותה ליטרלית "מתחם מוקף חומה" — המונח ששימש בפרסית לפארקי הציד המלכותיים וגני התענוג של התקופה האחמנידית. היוונים, שנתקלו בגנים אלה במהלך מגעם עם האימפריה הפרסית, השאילו את המילה כ*paradeisos* (παράδεισος), ומתרגמי השבעים של המקרא העברי השתמשו ב*paradeisos* לתרגום העברית *גן* בבראשית ב:8 — בכך מבססים את השקילות בין "גן עדן" העברי ל"מתחם המוקף חומה" הפרסי שהאנגלית "paradise" משמרת.
 
-The semantic convergence is striking. Hebrew *gan* (from the root *g-n-n*, "to enclose, to protect, to defend") and Old Persian *pairi-daēza* (literally "walled enclosure") both name an enclosed, protected, controlled space. The two languages, though both Indo-European/Semitic and historically connected through long ancient Near Eastern contact, are distinct enough that the convergence is not trivial linguistic borrowing but reflects a shared semantic concept. The corpus's reading of the *gan-ʿĒden* as a functional enclosed installation is consistent with the Persian *pairi-daēza* concept and with the broader semantic pattern: across multiple ancient cultures, the original "paradise" is specifically a *bounded* and *protected* space, not an open garden in the modern English sense.
+ההתכנסות הסמנטית בולטת. *גן* העברית (מהשורש *ג-נ-ן*, "להקיף, להגן") ו*pairi-daēza* פרסית עתיקה (ליטרלית "מתחם מוקף חומה") שתיהן שמות מרחב מוקף, מוגן ומבוקר. שתי השפות, אף ששתיהן הודו-אירופית/שמית ומחוברות היסטורית דרך מגע מזרח-קדום עתיק ארוך, נבדלות מספיק שההתכנסות אינה שאילה לשונית טריוויאלית אלא משקפת מושג סמנטי משותף. קריאת הקורפוס של ה*gan-ʿĒden* כמתקן מוקף פונקציונלי עולה בקנה אחד עם מושג ה*pairi-daēza* הפרסי ועם הדפוס הסמנטי הרחב יותר: לאורך תרבויות עתיקות מרובות, ה"פרדס" המקורי הוא במיוחד מרחב *חסום* ו*מוגן*, ולא גינה פתוחה במובן האנגלי המודרני.
 
-The Persian Avestan tradition also preserves a paradisiacal first-place tradition independently of the *paradeisos* term — the **Vara of Yima**, an enclosed underground refuge built by the first king Yima at Ahura Mazda's command to preserve life through a coming catastrophic winter. The structural parallels to the Noah's-ark tradition, and indirectly to the Eden tradition, are evident; the elaborate enclosed-refuge imagery is one of the closer Indo-Iranian parallels to the broader paradise-and-flood pattern.
+המסורת האווסטית הפרסית גם משמרת מסורת פרדס-מקום-ראשון באופן עצמאי ממונח ה*paradeisos* — ה**Vara של Yima**, מקלט תת-קרקעי מוקף שנבנה על ידי המלך הראשון Yima בפקודת אהורה מזדה לשמר חיים דרך חורף קטסטרופי קרב. המקבילות המבניות למסורת תיבת נוח, ובאופן עקיף למסורת עדן, ברורות; הדימויים המורכבים של המקלט המוקף הם אחת המקבילות ההודו-איראניות הקרובות יותר לדפוס פרדס-והמבול הרחב יותר.
 
-### Greek Hesperides and the Golden Age
+### ההספרידות והעידן הזהוב היוונים
 
-Greek mythology preserves a paradisiacal-first-place tradition in the **Garden of the Hesperides** — a garden at the western edge of the world tended by the Hesperides nymphs, containing the golden apples that Hera received as a wedding gift from Gaia, guarded by the dragon Ladon. The structural parallels to Eden are striking: a garden at a specific geographic location (though the western rather than the eastern edge of the world); fruit-bearing trees with special significance; a serpentine guardian; an association with divine origins.
+המיתולוגיה היוונית משמרת מסורת פרדס-מקום-ראשון ב**גן ההספרידות** — גן בקצה המערבי של העולם המטופל על ידי נימפות ההספרידות, המכיל את תפוחי הזהב שהרה קיבלה כמתנת חתונה מגאיה, נשמר על ידי הדרקון לאדון. המקבילות המבניות לעדן בולטות: גן במיקום גיאוגרפי ספציפי (אם כי בקצה המערבי ולא המזרחי של העולם); עצים נושאי פרי עם משמעות מיוחדת; שומר נחשי; אסוציאציה עם מקורות אלוהיים.
 
-Hesiod's **Golden Race / {% wiki(slug="golden-age") %}Golden Age{% end %}** tradition in *Works and Days* describes a prior race of humans who lived "in ease and peace upon their lands with many good things" before the gods replaced them with progressively lesser races. The structural parallel to the Genesis 5 long-lived patriarchs and the broader Edenic / antediluvian tradition is evident, with the Hesiodic tradition preserving the temporal-progression (paradise lost, succeeding ages of decline) more strongly than the Hebrew tradition does.
+מסורת **גזע הזהב / {% wiki(slug="golden-age") %}תור הזהב{% end %}** של הסיוד ב*עמלים וימים* מתארת גזע קודם של בני אדם שחיו "בקלות ובשלום על אדמותיהם עם דברים טובים רבים" לפני שהאלים החליפו אותם בגזעים פחותים בהדרגה. המקבילה המבנית לאבות בעלי תוחלת החיים הארוכה של בראשית ה ולמסורת העדנית / טרום-מבולית הרחבה יותר ברורה, כאשר המסורת ההסיודית משמרת את ההתקדמות הזמנית (פרדס אבוד, עידנים יורשים של ירידה) חזק יותר מאשר המסורת העברית.
 
-The **Plato Atlantis tradition** (treated more fully in the [Antediluvian](../antediluvian/) entry) is structurally related but distinct, treating the lost civilization rather than the original paradise. The corpus reads Hesperides, the Golden Race, and Atlantis as three distinct Greek-tradition fragments preserving different aspects of the same underlying antediluvian historical situation.
+**מסורת אטלנטיס של אפלטון** (המטופלת באופן מלא יותר בערך ה{% wiki(slug="antediluvian") %}טרום-מבולית{% end %}) קשורה מבנית אך מובחנת, ומטפלת בציוויליזציה האבודה ולא בפרדס המקורי. הקורפוס קורא את ההספרידות, את גזע הזהב, ואת אטלנטיס כשלושה פרגמנטים מובחנים של המסורת היוונית השומרים היבטים שונים של אותו מצב היסטורי טרום-מבולי תשתיתי.
 
-### Egyptian Field of Reeds
+### שדה הקנים המצרי
 
-The Egyptian **Field of Reeds** (*Sekhet-Aaru*, "Field of Rushes") is the paradisiacal afterlife destination of the righteous in Egyptian religion, described in the *Book of the Dead* and elsewhere as a fertile region where the deceased lives in peace and abundance. The structural parallels to Eden are limited — the Egyptian tradition treats the paradisiacal place as the *destination* of the righteous after death rather than as the *origin* of humanity — but certain features are convergent: the agricultural abundance, the presence of waterways, the freedom from suffering and want.
+**שדה הקנים** המצרי (*Sekhet-Aaru*, "שדה הקנים") הוא יעד החיים שלאחר המוות הפרדסיאקי של הצדיקים בדת המצרית, מתואר ב*ספר המתים* ובמקומות אחרים כאזור פורה שבו הנפטר חי בשלום ובשפע. המקבילות המבניות לעדן מוגבלות — המסורת המצרית מתייחסת למקום הפרדסיאקי כ*ייעוד* של הצדיקים לאחר המוות ולא כ*מקור* האנושות — אך תכונות מסוימות הן מתכנסות: השפע החקלאי, נוכחות נתיבי המים, החופש מסבל וממחסור.
 
-The Egyptian *zep tepi* tradition ("the first time"), referenced briefly in the [Antediluvian](../antediluvian/) entry, is a closer parallel to the Edenic-origin tradition than the Field of Reeds is. *Zep tepi* refers to a primordial period when the gods walked among men and established the cosmic order; the structural parallel to the Eden period (when the alliance was directly present on Earth, before the post-Eden withdrawal) is evident.
+מסורת ה*zep tepi* המצרית ("הזמן הראשון"), המוזכרת בקצרה בערך ה{% wiki(slug="antediluvian") %}טרום-מבולית{% end %}, היא מקבילה קרובה יותר למסורת מקור-עדן מאשר שדה הקנים. *Zep tepi* מתייחס לתקופה ראשונית שבה האלים התהלכו בין אנשים וביססו את הסדר הקוסמי; המקבילה המבנית לתקופת עדן (כאשר הברית הייתה נוכחת ישירות על כדור הארץ, לפני הנסיגה שלאחר עדן) ברורה.
 
-### Hindu Jambudvīpa
+### יאמבודביפה ההינדית
 
-The Hindu cosmological tradition includes **Jambudvīpa**, the central continent of the world in Puranic cosmology, named for the great *Jambu* tree (the rose-apple) at its center. Jambudvīpa is described as a fertile, paradisiacal land in early Puranic accounts, with the *Jambu* tree as its central feature and with various rivers flowing from it. The structural parallels to Eden are several: a central tree with special significance, a paradisiacal land, rivers flowing from a central source, association with origins.
+המסורת הקוסמולוגית ההינדית כוללת את **יאמבודביפה**, היבשת המרכזית של העולם בקוסמולוגיה הפוראנית, נקובה על שם עץ ה*Jambu* הגדול (תפוח הוורדים) במרכזה. יאמבודביפה מתוארת כארץ פורה, פרדסיאקית בחשבונות פוראניים מוקדמים, עם עץ ה*Jambu* כתכונתה המרכזית ועם נהרות שונים הזורמים ממנה. המקבילות המבניות לעדן הן מספר: עץ מרכזי עם משמעות מיוחדת, ארץ פרדסיאקית, נהרות הזורמים ממקור מרכזי, אסוציאציה עם מקורות.
 
-The broader Hindu tradition includes elaborate *yuga* cycles (treated in the [Antediluvian](../antediluvian/) entry) describing prior ages of progressively higher human capacity and spiritual achievement. The *Krita Yuga* — the first and highest yuga — is described in terms structurally close to the Edenic tradition: long human lifespans, direct contact with the divine, freedom from suffering and disease. The corpus reads the Jambudvīpa-and-yuga tradition as preserving fragmentary memory of the antediluvian period and the original alliance-creation context, with the Hindu tradition having developed its own elaborate cosmological structure around this preserved memory.
+המסורת ההינדית הרחבה יותר כוללת מחזורי *yuga* מורכבים (המטופלים בערך ה{% wiki(slug="antediluvian") %}טרום-מבולית{% end %}) המתארים עידנים קודמים של יכולת אנושית והישג רוחני גבוהים בהדרגה. ה*Krita Yuga* — היוגה הראשונה והגבוהה ביותר — מתואר במונחים קרובים מבנית למסורת העדנית: תוחלות חיים אנושיות ארוכות, מגע ישיר עם האלוהי, חופש מסבל ומחלה. הקורפוס קורא את מסורת יאמבודביפה-ו-יוגה כשומרת זיכרון מקוטע של התקופה הטרום-מבולית והקשר של בריאת הברית המקורית, כאשר המסורת ההינדית פיתחה מבנה קוסמולוגי מורכב משלה סביב זיכרון שמור זה.
 
-### Mesoamerican prior worlds
+### עולמות קודמים מסואמריקאיים
 
-The Mesoamerican **prior-worlds tradition**, preserved most fully in the *Popol Vuh* and various Aztec and Maya sources, describes a sequence of prior worlds (or "suns") destroyed by the gods and replaced. While not strictly an Edenic-paradise tradition, the structural parallel to the antediluvian-and-Flood pattern is striking, and the prior worlds are typically described as ages of greater human and divine intimacy than the present age. The detailed treatment of the Mesoamerican tradition lives in the [Antediluvian](../antediluvian/) entry; what matters here is that the broader pattern of paradise-original-and-prior-age recurs in Mesoamerica as in the other major cultural areas.
+**מסורת עולמות קודמים** מסואמריקאית, השמורה באופן מלא ביותר ב*פופול ווה* ובמקורות אצטקיים ומאיה שונים, מתארת רצף של עולמות קודמים (או "שמשות") שהושמדו על ידי האלים והוחלפו. בעוד שאינה במדויק מסורת פרדס-עדני, המקבילה המבנית לדפוס טרום-מבולית-ומבול בולטת, והעולמות הקודמים מתוארים בדרך כלל כעידנים של אינטימיות אנושית ואלוהית גדולה יותר מהעידן הנוכחי. הטיפול המפורט במסורת המסואמריקאית חי בערך ה{% wiki(slug="antediluvian") %}טרום-מבולית{% end %}; מה שחשוב כאן הוא שהדפוס הרחב יותר של פרדס-מקור-ועידן-קודם חוזר במסואמריקה כמו באזורים התרבותיים הגדולים האחרים.
 
-### The convergence
+### ההתכנסות
 
-The corpus's working position on the comparative-religion question is that the global recurrence of paradise-origin, prior-age, and lost-civilization traditions across geographically and temporally disconnected cultures is evidence of a shared underlying historical event whose memory was preserved in fragmentary form across the various human populations descended from the seven Earth lineages. The specific identification of any particular tradition's content with specific Eden-period events requires case-by-case analysis rather than blanket equivalence — some traditions preserve closer memory of the original referents than others, and the post-Flood transmission across multiple millennia has produced substantial variation in what each tradition preserves and how. The corpus refuses both the popular ancient-astronaut tendency to treat all such traditions as direct memories of identical events and the mainstream comparative-religion tendency to treat them as independent mythological constructions of their respective cultures.
-
-## See also
-
-- [Adam and Eve](../adam-and-eve/)
-- [Genesis](../genesis/)
-- [Elohim](../elohim/)
-- [Yahweh](../yahweh/)
-- [Lucifer](../lucifer/)
-- [Serpent](../serpent/)
-- [Tree of Life](../tree-of-life/)
-- [Tree of the Knowledge of Good and Evil](../tree-of-knowledge/)
-- [Cherubim](../cherubim/)
-- [Antediluvian](../antediluvian/)
-- [Pangaea](../pangaea/)
-- [Great Flood](../great-flood/)
-- [Nephilim](../nephilim/)
-- [Sons of Elohim](../sons-of-elohim/)
-- [Cain and Abel](../cain-and-abel/)
-- [Noah](../noah/)
-- [Hebrews](../hebrews/)
-- [Age of Leo](../timeline/age-of-leo/)
-- [Age of Cancer](../timeline/age-of-cancer/)
-- [Age of Gemini](../timeline/age-of-gemini/)
-- [Dilmun](../dilmun/)
-- [Atlantis](../atlantis/)
-- [Göbekli Tepe](../gobekli-tepe/)
-- [Jean Sendy](../jean-sendy/)
-- [Mauro Biglino](../mauro-biglino/)
-- [Paul Anthony Wallis](../paul-anthony-wallis/)
-- [*Message from the Designers*](../library/message-from-the-designers/)
-
-## References
-
-Vorilhon, Claude (Raël). *The Book Which Tells the Truth* (1974), chapter 2, "Truth"; collected in *Message from the Designers*.
-
-Vorilhon, Claude (Raël). *Let's Welcome the Extraterrestrials* (1979); collected in *Message from the Designers*.
-
-Sendy, Jean. *Ces dieux qui firent le ciel et la terre*. Robert Laffont, 1969. English: *Those Gods Who Made Heaven and Earth*. Berkley, 1972.
-
-Sendy, Jean. *Les cahiers de cours de Moïse*. Robert Laffont, 1974.
-
-Biglino, Mauro. *Il Libro che cambierà per sempre le nostre idee sulla Bibbia*. Uno Editori, 2010.
-
-Biglino, Mauro. *La Bibbia non parla di Dio*. Mondadori, 2015.
-
-Biglino, Mauro, and Giorgio Cattaneo. *The Naked Bible: {% wiki(slug="the-truth") %}The Truth{% end %} About the Most Famous Book in History*. Uno, 2022.
-
-Wallis, Paul Anthony. *Escaping from Eden*. 6th Books, 2020.
-
-Wallis, Paul Anthony. *The Scars of Eden*. 6th Books, 2021.
-
-Wallis, Paul Anthony. *Echoes of Eden*. 6th Books, 2021.
-
-Wallis, Paul Anthony. *The Eden Conspiracy*. 6th Books, 2024.
-
-*Biblia Hebraica Stuttgartensia*. Deutsche Bibelgesellschaft, 4th rev. ed., 1997.
-
-Sarna, Nahum. *Genesis: The JPS Torah Commentary*. Jewish Publication Society, 1989.
-
-Westermann, Claus. *Genesis 1–11: A Continental Commentary*. Fortress, 1994.
-
-Cassuto, Umberto. *A Commentary on the Book of Genesis*. Magnes Press, 1961.
-
-*The Assyrian Dictionary of the Oriental Institute of the University of Chicago* (CAD). Volume E.
-
-Halloran, John A. *Sumerian Lexicon*. Logogram Publishing, 2006.
-
-Zarins, Juris. "The Land of Eden: Its Geographic Setting." *Smithsonian Magazine*, May 1987.
-
-Rohl, David. *Legend: The Genesis of Civilisation*. Century, 1998.
-
-Oppenheimer, Stephen. *Eden in the East: The Drowned Continent of Southeast Asia*. Weidenfeld & Nicolson, 1998.
-
-Kramer, Samuel Noah, and John Maier. *Myths of Enki, the Crafty God*. Oxford University Press, 1989.
-
-Lambert, W. G., and A. R. Millard. *Atra-ḫasīs: The Babylonian Story of the Flood*. Oxford, 1969.
-
-Boyce, Mary. *Zoroastrians: Their Religious Beliefs and Practices*. Routledge, 2nd ed., 2001.
-
-"Garden of Eden." *Encyclopaedia Britannica*. <https://www.britannica.com/topic/Garden-of-Eden>
-
-"Garden of Eden." *Wikipedia*. <https://en.wikipedia.org/wiki/Garden_of_Eden>
-
-"Eden, Garden of." *Jewish Encyclopedia*. <https://www.jewishencyclopedia.com/articles/5428-eden-garden-of>
-
-"Dilmun." *Encyclopaedia Britannica*. <https://www.britannica.com/place/Dilmun>
-
-"Hesperides." *Encyclopaedia Britannica*. <https://www.britannica.com/topic/Hesperides>
-
-"Paradise (etymology)." *Online Etymology Dictionary*. <https://www.etymonline.com/word/paradise>
+עמדת העבודה של הקורפוס בשאלת הדת ההשוואתית היא שההישנות הגלובלית של מסורות פרדס-מקור, עידן-קודם, וציוויליזציה-אבודה לאורך תרבויות מנותקות גיאוגרפית וזמנית היא עדות לאירוע היסטורי תשתיתי משותף שזיכרונו נשמר בצורה מקוטעת לאורך אוכלוסיות אנושיות שונות הנובעות משבע שושלות כדור הארץ. הזיהוי הספציפי של תוכן כל מסורת מסוימת עם אירועי תקופת עדן ספציפיים דורש ניתוח מקרה-מקרה ולא שקילות גורפת — מסורות מסוימות שומרות זיכרון קרוב יותר של המסומנים המקוריים מאחרות, וההעברה שלאחר המבול לאורך אלפי שנים מרובים הפיקה וריאציה מהותית במה שכל מסורת שומרת וכיצד. הקורפוס דוחה גם את הנטייה הפופולרית של אסטרונאוטים קדומים להתייחס לכל מסורות אלה כזיכרונות ישירים של אירועים זהים וגם את הנטייה ההשוואתית-דתית המיינסטרימית להתייחס אליהן כבניות מיתולוגיות עצמאיות של תרבויותיהן בהתאמה.

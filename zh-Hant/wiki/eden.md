@@ -1,325 +1,358 @@
 +++
-title = "伊甸園"
-description = "伊甸園(希伯來語:עֵדֶן)是《創世記》記載中厄羅欣安置最初人類的園林。在 Wheel of Heaven 文集中,伊甸園被讀作合成並適應亞當血統原型的實驗室=設施,在他們走向外部世界之前。"
+title = "伊甸"
+slug = "eden"
+description = "伊甸(希伯來語:עֵדֶן,ʿĒden)是希伯來聖經所指認的地區,最初的人類在被驅逐之前於該地的園中受造並生活。依雷爾派源典所發展、並為天輪文集所採行的閱讀,伊甸是耶洛因以色列創造隊伍在前洪水時期超級大陸上的作業領地 —— 該隊伍的生物合成工作產出了七支區域性造物者隊伍中最具成就的人類譜系 —— 伊甸園(gan-ʿĒden)則為該領地內封閉的實驗室與居住場址。"
 template = "wiki-page.html"
 toc = true
 
 [extra]
-translation_status = "metadata_only"
+featured_order = 7
 category = "Places & Locations"
 editorial_pass = "2026-05"
 entry_type = "place"
-alternative_names = ["Garden of Eden", "gan-ʿĒden", "גַּן־עֵדֶן", "Paradise"]
+claim_type = "inferred"
+alternative_names = ["伊甸園", "gan-ʿĒden", "גַּן־עֵדֶן", "樂園"]
 timeline = ["leo", "cancer"]
 
+see_also = [
+    { title = "亞當與夏娃", path = "/wiki/adam-and-eve/", description = "安置於園中的最初兩位人類。" },
+    { title = "生命之樹", path = "/wiki/tree-of-life/", description = "園中央兩棵具名之樹之一。" },
+    { title = "知善惡樹", path = "/wiki/tree-of-the-knowledge-of-good-and-evil/", description = "另一棵具名之樹 —— 帶有禁令的那一棵。" },
+    { title = "蛇", path = "/wiki/serpent/", description = "發動園中狀態破裂的形象。" },
+    { title = "創世記", path = "/wiki/genesis/", description = "園中敘事所在的文本。" },
+    { title = "耶洛因", path = "/wiki/elohim/", description = "其以色列隊伍於伊甸地區作業之聯盟的文明性稱謂。" },
+    { title = "耶和華", path = "/wiki/yahweh/", description = "其政策結構化後伊甸結算的議會領導者形象。" },
+    { title = "路西法", path = "/wiki/lucifer/", description = "其揭露產出《創世記》第 3 章事件的異議派系領導者。" },
+    { title = "前洪水期", path = "/wiki/antediluvian/", description = "更廣伊甸文明於其中發展之洪水前的時期。" },
+    { title = "盤古大陸", path = "/wiki/pangaea/", description = "伊甸所在的前洪水時期超級大陸。" },
+    { title = "大洪水", path = "/wiki/great-flood/", description = "結束伊甸作業期的雙子時代事件。" },
+    { title = "希伯來聖經", path = "/wiki/hebrew-bible/", description = "伊甸敘事的主要經文源典。" },
+    { title = "聖經", path = "/wiki/bible/", description = "《創世記》於其中得以保存的更廣文本傳統。" },
+    { title = "雙重簽名", path = "/wiki/doubled-signature/", description = "文化傳統據以登錄底層歷史事件記憶的文集原則。" },
+    { title = "希伯來人", path = "/wiki/hebrews/", description = "以色列隊所合成之最初人類的直接基因後裔。" },
+]
+
+footnotes = [
+    { content = "希伯來文 *gan* 一詞,慣常譯為「園」,源自詞根 *g-n-n*,意為「圍蔽、保護、防衛」—— 與 *ginah*(「園、圍場」)及 *meginah*(「盾、保護」)同根。因此 *gan* 的強義為一個封閉、受保護、受控制的空間,其邊界並非僅作裝飾,而具有功能。文集將 *gan-ʿĒden* 讀作一處具功能的封閉設施,即立基於此一詞源依據。古波斯語 *pairi-daēza*(「圍牆之圍場」;經希臘語 *paradeisos* 而為英文 paradise 之源)在獨立的語言傳統中保存了相同的語意內容,提供類型學的確證:在多種古代文化中,原初的「樂園」具體乃是一個有界、受保護的空間,而非現代英語意義上之開放的花園。" },
+    { content = "《創世記》2:10-14 列舉出自伊甸的四條河流,其中兩條可明確認定為現存河流(底格里斯河、幼發拉底河),另兩條則否(比遜河、基訓河)。古典與現代的提案曾分別將比遜河與基訓河認定為尼羅河、恆河、印度河、阿拉斯河、卡倫河、瓦迪魯瑪、或阿拉斯河 —— 各自皆有文本或地理上的問題。文集的閱讀重新框設此問題:四河段落描述的是前洪水伊甸地區的水文,該水文在洪水事件造成的大陸重組之後已不復其原本形貌。*底格里斯* 與 *幼發拉底* 之名,由洪水後的倖存者跨越災難而保存下來,他們將這些名字賦予了洪水後美索不達米亞地區與原指涉物相聯的河流。" },
+    { content = "框架所稱的「超級大陸」並非主流地質學之傳統盤古大陸。傳統盤古大陸約於 3.35 億年前聚合,約於 1.75 億年前解體,大陸漂移透過地函對流經歷數億年展開。文集追隨雷爾派源典,將此解體讀為雙子時代洪水期間(約公元前 6,690 年)的一次災難性事件,而其後可觀測之大陸漂移,則為該事件的殘餘動量。結構性對應 —— 單一整合陸塊為單一海洋所環繞 —— 是相同的;時間尺度與機制則截然不同。" },
+    { content = "框架將關於知善惡樹的禁令讀作對應於對以色列隊伍之科學與技術檔案的特定取用限制 —— 那些若被使用,將賦予人類母星當局並不希望他們取得之能力的材料。以蛇之傳達為敘事的路西法派系揭露,即為違反母星議會指令的這項受限知識之傳遞。在此閱讀下,違犯並非道德性墮落,而是受限技術知識之傳遞,而揭露之後的後果(對裸體的察覺、衣物的製作、對質、驅逐)所登錄的乃是政治—作業的後果,而非道德—神學的後果。" },
+    { content = "比格利諾提出蘇美—阿卡德語 *E-Din* 之非標準詞源解讀為「義人之屋」,將「義人」讀作耶洛因譜系的成員。此一注解獨屬於比格利諾,並非標準的亞述學閱讀;共識閱讀(Halloran 2006;東方研究所亞述語辭典)仍為「平原」或「草原」。文集採行標準閱讀而非比格利諾的閱讀,因為框架的詮釋論證並不取決於該非標準注解,且不採取此一注解時論證更為穩固。比格利諾更廣的嚴格翻譯方法論 —— 逐字閱讀希伯來文,並接受具體的文本內容,而非加以寓意化 —— 才是文集從其著作中所汲取者,獨立於 E-Din 之具體提案。" },
+]
+
+[[extra.references]]
+id = "the-book-which-tells-the-truth"
+note = "沃里勒翁(雷爾,1974),第 2 章〈真相〉;框架對伊甸敘事閱讀之主要雷爾派源典。"
+
+[[extra.references]]
+id = "lets-welcome-the-extraterrestrials"
+note = "沃里勒翁(雷爾,1979);發展伊甸創造後事件於其中發生之更廣政治—制度框架。"
+
+[[extra.references]]
+id = "intelligent-design-message-from-the-designers"
+note = "三部雷爾派源典書籍的合輯經典版,包含伊甸材料。"
+
+[[extra.references]]
+id = "sendy-ces-dieux"
+note = "桑迪(1969);基礎性的法文表述;文集所採行伊甸閱讀之主要學術先驅。"
+
+[[extra.references]]
+id = "sendy-cahiers-moise"
+note = "桑迪(1974);發展摩西時期框架,並含大量伊甸時期背景材料。"
+
+[[extra.references]]
+id = "biglino-il-libro"
+note = "比格利諾(2010);嚴格字面希伯來文閱讀之首次主要表述,包含 gan-ʿĒden 封閉設施論證。"
+
+[[extra.references]]
+id = "biglino-bibbia-non-parla"
+note = "比格利諾(2015);論證主流翻譯遮蔽希伯來聖經有關耶洛因與伊甸期設施之原初內容。"
+
+[[extra.references]]
+id = "the-naked-bible"
+note = "比格利諾與卡塔內奧(2022);《創世記》嚴格字面希伯來文翻譯,包含伊甸段落。"
+
+[[extra.references]]
+id = "escaping-from-eden"
+note = "華利斯(2020);關於《創世記》耶洛因是具形且具技術之臨在存有的更廣表述。"
+
+[[extra.references]]
+id = "the-scars-of-eden"
+note = "華利斯(2021);關於伊甸期事件之跨文化記憶的比較性表述。"
+
+[[extra.references]]
+id = "echoes-of-eden"
+note = "華利斯(2021);發展實質跨文化保存之比較神話學論證。"
+
+[[extra.references]]
+id = "wallis-eden-conspiracy"
+note = "華利斯(2024);對《創世記》2–3 章作為聯盟派系間政治危機紀錄之最直接的書籍長度論述。"
+
+[[extra.references]]
+id = "sarna-genesis-jps"
+note = "薩爾納(1989);JPS《妥拉》註釋《創世記》卷;伊甸段落主要的當代猶太學術論述。"
+
+[[extra.references]]
+id = "westermann-genesis-1-11"
+note = "韋斯特曼(1994);《創世記》1–11 章歐陸註釋;原史之基礎性批判註釋。"
+
+[[extra.references]]
+id = "cassuto-genesis"
+note = "卡蘇托(1961);反對將伊甸敘事按文獻假說片段化的猶太學術註釋。"
+
+[[extra.references]]
+id = "halloran-sumerian-lexicon"
+note = "Halloran(2006);蘇美語 EDEN / edinu 詞源背景的便覽。"
+
+[[extra.references]]
+id = "rohl-legend-genesis"
+note = "羅爾(1998);烏爾米亞湖假說的表述;主要的現代伊甸位置提案之一。"
+
+[[extra.references]]
+id = "oppenheimer-eden-east"
+note = "奧本海默(1998);巽他古陸伊甸假說;將原初文化源頭定位於沉沒的東南亞。"
+
+[[extra.references]]
+id = "kramer-enki-myths"
+note = "克雷默與邁爾(1989);恩基神話文集,包含結構性平行於伊甸傳統之迪爾蒙與恩基—寧胡爾薩格材料。"
+
+[[extra.references]]
+id = "atra-hasis-lambert-millard"
+note = "蘭伯特與米拉德(1969);巴比倫洪水敘事之校勘本;伊甸與洪水傳統的古代近東脈絡。"
+
+[[extra.references]]
+id = "boyce-zoroastrians"
+note = "博伊斯(2001 修訂版);波斯—瑣羅亞斯德教的伊瑪之圍場與更廣樂園—洪水傳統,與伊甸密切平行。"
+
+[[extra.references]]
+id = "sitchin-12th-planet"
+note = "西琴(1976);蘇美語 E.DIN 閱讀;更廣伊甸詮釋傳統的主要通俗古代太空人錨點。"
+
 [extra.infobox]
-hebrew_name = "עֵדֶן (region); גַּן־עֵדֶן (the garden in Eden)"
-transliteration = "ʿĒden; gan-ʿĒden"
-type = "Geographic region with enclosed installation"
-biblical_location = "Genesis 2:8 ('eastward in Eden')"
-geographic_referent = "Eastern Mediterranean / Levantine region of the antediluvian supercontinent"
-operational_period = "Mid–late Age of Leo through Age of Cancer, c. 11,375 – 6,690 BCE"
-date_type = "framework-internal; derived from precessional reading of Genesis and the 666-generation anchor"
-closing_event = "Catastrophic disruption during the Flood of the Age of Gemini, c. 6,690 BCE"
-current_status = "Region's antediluvian configuration no longer extant; post-Flood remnants identified by the framework with the modern Levant"
-principal_text = "Genesis 2:8–3:24"
-principal_framework_source = "*The Book Which Tells the Truth* (Vorilhon/Raël, 1974), chapter 2"
+hebrew_name = "עֵדֶן(地區);גַּן־עֵדֶן(伊甸中的園)"
+transliteration = "ʿĒden;gan-ʿĒden"
+type = "包含封閉設施的地理區域"
+biblical_location = "創世記 2:8(「在伊甸的東方」)"
+geographic_referent = "前洪水時期超級大陸的東地中海 / 黎凡特地區"
+operational_period = "獅子時代中後期至巨蟹時代,約公元前 11,375 – 6,690 年"
+date_type = "框架內部;源自對《創世記》與 666 世代錨點之歲差閱讀的推導"
+closing_event = "雙子時代洪水期間之災難性破壞,約公元前 6,690 年"
+current_status = "該區域之前洪水形貌已不復存;洪水後遺跡由框架認同為現代黎凡特"
+principal_text = "創世記 2:8–3:24"
+principal_framework_source = "《道出真相之書》(沃里勒翁/雷爾,1974),第 2 章"
 +++
 
-**Eden** (Hebrew: <span class="hebrew">עֵדֶן</span>, *ʿĒden*) is the region named in the Hebrew Bible as the place in which the first humans were created and lived before their expulsion, narrated principally in Genesis 2:8–3:24. The Hebrew text distinguishes the broader region (*ʿĒden*) from the enclosed garden within it (*gan-ʿĒden*, "the garden of Eden"); Genesis 2:8 specifies that the garden was planted "in Eden, in the east." The garden contains the named species of trees, the four rivers (Pishon, Gihon, Tigris, Euphrates), the Tree of Life, and the Tree of the Knowledge of Good and Evil. The narrative of human creation, instruction, transgression, and expulsion takes place in and around this enclosed setting.
+**伊甸**(希伯來語:<span class="hebrew">עֵדֶן</span>,*ʿĒden*)是{% wiki(slug="hebrew-bible") %}希伯來聖經{% end %}所指認的地區,最初的人類在被驅逐之前於該地受造並生活,其敘事主要見於《創世記》2:8–3:24。希伯來文本區分了更廣的地區(*ʿĒden*)與其中封閉的園(*gan-ʿĒden*,「伊甸之園」);《創世記》2:8 具體指明該園栽植「於伊甸的東方」。園中含有具名的樹種、四條河流(比遜、基訓、底格里斯、幼發拉底)、生命之樹,以及{% wiki(slug="tree-of-the-knowledge-of-good-and-evil") %}知善惡樹{% end %}。人類創造、教導、違犯與驅逐的敘事即發生於此封閉場景之內及其周圍。
 
-On the reading developed in the Raëlian source material and adopted by the Wheel of Heaven corpus, Eden is the operational territory of one of the seven Elohim creator teams — the Israel team — on the antediluvian supercontinent, during the late Age of Leo and continuing into the Age of Cancer. The garden is the enclosed laboratory and habitation site at which this team conducted the synthesis, instruction, and observation of the first human lineage produced under their care. The framework reads the Genesis 2–3 narrative as a compressed but substantively accurate account of operational events at this site, with the named features — the trees, the rivers, the prohibition, the serpent, the expulsion — all referring to specific operational realities rather than to symbolic or moral abstractions.
+依雷爾派源典所發展、並為{% wiki(slug="wheel-of-heaven") %}天輪{% end %}文集所採行的閱讀,伊甸是七支耶洛因造物者隊伍之一 —— 即以色列隊 —— 於前洪水時期超級大陸上的作業領地,時間跨越獅子時代後期並延續至巨蟹時代。該園即為此隊伍進行其所監管之最初人類譜系的合成、教導與觀察之封閉實驗室與居住場址。框架將《創世記》第 2–3 章的敘事讀作此一場址上作業事件之壓縮但實質上準確的記述,當中具名的特徵 —— 樹、河、禁令、蛇、驅逐 —— 皆指涉具體的作業實況,而非象徵性或道德性的抽象。
 
-The reading is contested. Within mainstream biblical scholarship, Eden is generally treated as either a mythological or theological construction, possibly with origins in the broader ancient Near Eastern paradisiacal tradition (Mesopotamian Dilmun, Sumerian paradise traditions), without specific geographic referent. Within the broader landscape of alternative biblical interpretation, several specific Eden-location proposals have been advanced — the Persian Gulf head (Juris Zarins), the Lake Urmia region (David Rohl), eastern Anatolia, the Sundaland shelf — varying in their relationship to the Genesis text and to the surrounding geological evidence. The corpus's reading reframes the geographic question: the antediluvian Eden is located on a continental configuration that no longer exists, with its remnants identifiable in the post-Flood Levantine region but not directly recoverable as an extant geographic entity.
+此閱讀存有爭議。在主流聖經學界,伊甸一般被當作神話性或神學性的構築來處理,可能源自更廣的古代近東樂園傳統(美索不達米亞的迪爾蒙、蘇美的樂園傳統),而無具體的地理指涉。在更廣的另類聖經詮釋圖景中,有若干具體的伊甸位置提案 —— 波斯灣頭(尤里斯·扎林斯)、烏爾米亞湖地區(大衛·羅爾)、東安納托利亞、巽他古陸大陸棚 —— 其各自與《創世記》文本及周遭地質證據的關係各異。文集的閱讀重新框設了地理問題:前洪水的伊甸位於一個不復存在的大陸構造之上,其遺跡可在洪水後的黎凡特地區辨識,但無法作為現存的地理實體直接予以恢復。
 
-## Etymology
+## 詞源
 
-The Hebrew name *ʿĒden* connects through two distinct etymological histories. Within the Hebrew tradition itself, the name is conventionally connected to the root *ʿ-d-n* ("to be soft, pleasant, delight"), giving the gloss "place of delight" or "paradise." This Hebrew etymology is internal to the biblical tradition and is the source of the long Christian and Islamic association of Eden with paradise generally. The cognate Hebrew noun *ʿednāh* (Genesis 18:12) carries the same sense of pleasure or delight; Psalm 36:9 and Jeremiah 51:34 use related forms. The Hebrew etymology gives Eden its theologically loaded connotations across the subsequent religious tradition.
+希伯來語 *ʿĒden* 之名透過兩條不同的詞源歷史而得連結。在希伯來傳統內部,該名慣常與詞根 *ʿ-d-n*(「柔軟、愉悅、歡愉」)相聯,而得「歡愉之地」或「樂園」之注解。此希伯來詞源屬於聖經傳統內部,亦是基督宗教與伊斯蘭傳統長期將伊甸與樂園一概相聯之來源。希伯來同源名詞 *ʿednāh*(創世記 18:12)帶有相同的歡愉之意;《詩篇》36:9 與《耶利米書》51:34 使用相關詞形。希伯來詞源賦予伊甸其在後續宗教傳統中神學上飽含的意蘊。
 
-A separate and older etymological connection runs to the Sumerian and Akkadian. The Sumerian word **EDEN** (𒂔, also transliterated *edin*) means *plain*, *steppe*, or *open country* — a flat, often arid landscape distinct from settled or cultivated land. The Akkadian *edinu* / *idīnum* is borrowed from the Sumerian and carries the same range of meanings, generally "steppe" or "open country." The connection of Hebrew *ʿĒden* to this Sumerian-Akkadian background is widely accepted in mainstream Assyriology and predates the modern reinterpretive literature; it is treated, for example, in *The Assyrian Dictionary of the Oriental Institute of the University of Chicago* (CAD, volume E) and in the comparative-Semitic lexicographic tradition.
+另有一條獨立且更古老的詞源關聯通至蘇美語與阿卡德語。蘇美語 **EDEN**(𒂔,亦轉寫為 *edin*)意為 *平原*、*草原* 或 *開闊原野* —— 一片平坦、往往乾燥的地貌,有別於定居或耕作之地。阿卡德語 *edinu* / *idīnum* 借自蘇美語,並承載相同的語意範圍,一般為「草原」或「開闊原野」。希伯來語 *ʿĒden* 與此蘇美—阿卡德背景的關聯,在主流亞述學中廣泛被接受,且早於現代再詮釋文獻;此關聯例如見於《芝加哥大學東方研究所亞述語辭典》(CAD,第 E 卷)及比較閃語族詞典編纂傳統之中。
 
-The two etymologies are not necessarily in conflict; they may reflect different stages of the term's history. The older Mesopotamian sense ("plain, steppe") may have been the original referent — a wide open region, presumably containing within it the cultivated and enclosed garden the Genesis text specifically describes. The Hebrew "place of delight" gloss may reflect a later folk etymology or theological development that read the inherited place-name through the lens of the garden's described features. The framework's reading of Eden as a *region* containing the enclosed *garden* is consistent with the older Sumerian-Akkadian sense: the Eden region is the broader steppe-territory of the Israel team's operations, with the garden (*gan*) being a specific enclosed installation within it.
+兩種詞源未必相互衝突;它們可能反映該詞歷史中的不同階段。較古老的美索不達米亞含義(「平原、草原」)可能是原本的指涉物 —— 一片廣大的開闊地帶,可推定其中包含《創世記》文本所具體描述的耕作而封閉之園。希伯來語「歡愉之地」之注解,可能反映了透過園中所描述特徵之鏡頭,對承襲地名的後期民俗詞源或神學發展之閱讀。框架將伊甸讀作含有封閉 *園* 的 *地區*,與較古老的蘇美—阿卡德含義相符:伊甸地區是以色列隊作業更廣的草原領地,而園(*gan*)是其中具體的封閉設施。
 
-The Hebrew word *gan*, conventionally translated "garden," derives from the root *g-n-n*, "to enclose, to protect, to defend" — the same root behind *ginah* ("garden, enclosure") and *meginah* ("shield, protection"). The strong sense of *gan* is therefore an enclosed, protected, controlled space, with the boundary not merely ornamental but functional. This sense of *gan* will become significant in the Modern reinterpretations section below.
+希伯來文 *gan* 一詞,慣常譯為「園」,源自詞根 *g-n-n*,意為「圍蔽、保護、防衛」—— 與 *ginah*(「園、圍場」)及 *meginah*(「盾、保護」)同根。因此 *gan* 的強義為一個封閉、受保護、受控制的空間,其邊界並非僅作裝飾,而具有功能{{ footnote(id="1") }}。*gan* 的這層含義將在下文〈現代再詮釋〉一節中顯出其意義。
 
-## In primary sources
+## 在主要源典中
 
-Eden appears principally in Genesis 2–3, with secondary references scattered across the rest of the Hebrew Bible and in the broader ancient Near Eastern literature.
+伊甸主要出現於《創世記》2–3 章,於希伯來{% wiki(slug="bible") %}聖經{% end %}其餘部分及更廣的古代近東文獻中則有零散的次要參照。
 
-### The Genesis narrative
+### 創世記敘事
 
-The Genesis text gives Eden two principal treatments. The first is the brief mention in the second creation account at Genesis 2:8: *Yahweh Elohim* plants a garden "in Eden, in the east" (*miqqedem*, "from the east" or "in the east"), and places the formed human (*ha-ʾadam*) there. The narrative continues with a description of the four rivers that flow out of Eden: the Pishon (which compasses the land of Havilah, where there is gold), the Gihon (which compasses the land of Cush), the Hiddekel or Tigris (which goes east of Asshur), and the Perath or Euphrates (named without further description, presumably because already known to the original audience). The function of the human in the garden is given as "to dress it and to keep it" (Genesis 2:15) — the Hebrew verbs being *ʿabad* ("to work, to serve") and *šamar* ("to guard, to keep watch over").
+{% library(book="genesis-woh", chapter=2, verse=8) %}
+耶和華耶洛因在東方的伊甸栽植了一個園 —— 並將他所造的人安置於其中。
+{% end %}
 
-The second treatment is the narrative arc of Genesis 2:15–3:24: the prohibition concerning the Tree of the Knowledge of Good and Evil; the formation of the woman from the human's side; the serpent's questioning of the prohibition; the eating of the fruit; the recognition of nakedness; the confrontation with Yahweh Elohim, who is described as walking in the garden in the cool of the day; the pronouncement of consequences on the serpent, the woman, and the man; and the expulsion from the garden, with the placing of cherubim and a flaming sword (*lahaṭ ha-ḥereb ha-mithappekheth*, "the flame of the sword which turns every way") to bar the way back to the Tree of Life.
+《創世記》文本對伊甸有兩段主要的處理。第一段是於《創世記》2:8 第二創造記載中的簡短提及:*耶和華耶洛因* 在「伊甸的東方」(*miqqedem*,「自東方」或「在東方」)栽植了一個園,並將所造的人(*ha-ʾadam*)安置於其中。敘事接續描述自伊甸流出的四條河:比遜河(環繞哈腓拉地,該地有金子)、基訓河(環繞古實地)、希底結河或底格里斯河(在亞述東邊流經)、伯拉河或幼發拉底河(僅具名而未進一步描述,可推定因原初受文者已熟知)。人在園中的職能被定為「修理它、看守它」(創世記 2:15)—— 所用希伯來動詞為 *ʿabad*(「工作、服事」)與 *šamar*(「守衛、看守」)。
 
-### Other Hebrew Bible references
+第二段是《創世記》2:15–3:24 的敘事弧:關於知善惡樹的禁令;由人之肋而成的女人;蛇對禁令的提問;果實之食;對裸體的察覺;與耶和華耶洛因的對質,後者被描述為於日中涼風時行於園中;對蛇、女人與男人之後果的宣告;以及自園的驅逐,並設置基路伯與火焰之劍(*lahaṭ ha-ḥereb ha-mithappekheth*,「四面轉動的火焰之劍」)以阻絕通往生命之樹的道路。
 
-Eden appears outside Genesis 2–3 in several scattered references. **Genesis 4:16** locates Cain's exile "east of Eden," in the land of Nod. **Isaiah 51:3** uses Eden as a paradigmatic image of paradise to which the post-exilic restoration is compared. **Ezekiel 28:13** addresses the king of Tyre as having been "in Eden, the garden of Elohim," in a passage rich with framework-significant imagery (the trees, the precious stones, the cherub). **Ezekiel 31:8–9** describes the cedars of Eden surpassing all other trees, in a passage that addresses Pharaoh through the metaphor of a great tree. **Ezekiel 36:35** uses Eden as a comparison for the restored land. **Joel 2:3** uses Eden as the paradigm of fertility against which the locust plague's devastation is set.
+### 其他希伯來聖經參照
 
-The Ezekiel 28 passage deserves particular note. The address to the king of Tyre — "Thou wast in Eden, the garden of Elohim; every precious stone was thy covering" — has been read across the religious traditions variously as historical reference (the Tyrian king as a real figure with mythical or genealogical connection to Eden), as theological allegory (the king's pride compared to the original Edenic state), or as encoded reference to a different figure altogether (Lucifer in much patristic-medieval Christian reading, with the passage providing a textual basis for the Lucifer-as-fallen-cherub tradition). The passage's specific imagery — the precious stones, the cherub, the garden, the fall — has been one of the principal sources for the broader tradition of an Edenic prelapsarian state involving non-human beings.
+伊甸於《創世記》2–3 章之外,還散見於若干參照。**創世記 4:16** 將該隱的流放定位於「伊甸的東方」,在挪得之地。**以賽亞書 51:3** 以伊甸為樂園的典範意象,將被擄歸回後的復興與之相比。**以西結書 28:13** 對推羅王宣告其曾「在伊甸,耶洛因的園」,該段落富含框架上具意義的意象(樹、寶石、基路伯)。**以西結書 31:8–9** 描述伊甸的香柏樹超越其他一切樹木,該段落以大樹為喻向法老宣告。**以西結書 36:35** 以伊甸作為復興之地的比擬。**約珥書 2:3** 以伊甸為豐饒之典範,以對照蝗災帶來的荒蕪。
 
-### Later Jewish, Christian, and Islamic literature
+《以西結書》28 章的段落值得特別留意。對推羅王的稱呼 —— 「你曾在伊甸,在耶洛因的園;各樣寶石為你的遮蓋」—— 跨宗教傳統有不同的閱讀:有作歷史指涉(推羅王作為與伊甸有神話或譜系關聯之真實人物)、有作神學寓言(將推羅王之傲慢與原伊甸狀態相比)、亦有作對全然不同人物的隱碼指涉(在大量教父—中世紀基督教閱讀中為路西法,該段落為「路西法為墮落基路伯」傳統提供了文本依據)。該段落具體的意象 —— 寶石、基路伯、園、墮落 —— 一直是涉及非人類存在之伊甸前墮落狀態之更廣傳統的主要源頭之一。
 
-The Eden tradition is substantially elaborated in post-biblical literature. **The Book of Jubilees** (c. 2nd century BCE) places Eden's location with specific geographic detail and gives the garden a sanctuary-like role in subsequent history. **1 Enoch** (composed across several centuries from the 3rd century BCE onward) preserves elaborate Edenic geography and connects Eden to the Watchers tradition. **The Life of Adam and Eve** (c. 1st century CE) and the **Apocalypse of Moses** develop the Adam-and-Eve narrative at length, with extensive material on the post-expulsion period. **Rabbinic midrash** — Genesis Rabbah, the Tanchuma, the *Pirkei de-Rabbi Eliezer* — develops the Edenic narrative across many centuries with substantial elaboration. **Patristic Christian writers** (Theophilus of Antioch, Origen, Augustine) develop the typological and allegorical readings that would become standard in Western theology. **Qur'anic and Islamic sources** preserve a parallel tradition of *Jannat ʿAdn*, "the gardens of Eden," used in the Qur'an as a designation of paradise (e.g., Q 9:72, Q 13:23, Q 19:61); the Qur'anic tradition preserves the Adam-and-Eve narrative with several specific differences from the biblical account.
+### 後續猶太、基督教與伊斯蘭文獻
 
-### Mesopotamian parallels
+伊甸傳統在後聖經文獻中得到實質的擴充。**《禧年書》**(約公元前 2 世紀)以具體的地理細節定位伊甸,並賦予該園於後續歷史中如同聖所的角色。**《以諾一書》**(自公元前 3 世紀起跨數個世紀編成)保存了詳盡的伊甸地理,並將伊甸與守望者傳統相聯。**《亞當與夏娃生平》**(約公元 1 世紀)與 **{% wiki(slug="moses") %}摩西{% end %}{% wiki(slug="apocalypse") %}啟示錄{% end %}** 以大量篇幅發展亞當與夏娃的敘事,並含豐富的驅逐後期材料。**拉比米德拉什** —— 《創世記拉巴》、《坦胡瑪》、《拉比以利以謝書》 —— 跨多個世紀以實質擴展發展伊甸敘事。**教父基督教作家**(安提阿的提阿非羅、奧利金、奧古斯丁)發展了後來成為西方神學標準的類型學與寓意閱讀。**古蘭經與伊斯蘭源典** 保存了 *Jannat ʿAdn*(「伊甸諸園」)的平行傳統,在古蘭經中用以稱呼樂園(例如 Q 9:72、Q 13:23、Q 19:61);古蘭傳統保存了亞當與夏娃的敘事,但與聖經記述在若干具體之處有所不同。
 
-The closest Mesopotamian parallel to Eden is the tradition of **Dilmun**, treated more fully in *Comparative observations* below. Dilmun appears in Sumerian texts as a paradisiacal land where the gods dwelled and where there was no sickness, hunger, or death — a description structurally close to certain elements of the Edenic tradition. The myth of *Enki and Ninhursag* describes Dilmun as a place where "the lion does not kill, the wolf does not snatch the lamb," with imagery that has clear resonance with Isaiah's later prophetic visions of restored Eden. The geographical identification of Dilmun is contested in Assyriology, with Bahrain being the traditional identification; the Persian Gulf location of Dilmun is one of the points the various Persian Gulf Eden-location hypotheses build on.
+### 美索不達米亞之平行傳統
 
-## Geographic identification
+{% library(book="genesis-woh", chapter=3, verse=24) %}
+他將那人趕出,於伊甸園的東方安置了基路伯,以及四面轉動的火焰之刃,以守衛通往生命之樹的道路。
+{% end %}
 
-The geographic identification of Eden — where the garden was, where its remnants might be located, and what relationship the antediluvian geography bears to present-day geography — is one of the most extensively debated aspects of the Eden tradition. The corpus's specific identification differs from both the mainstream biblical-scholarly position and the various alternative-interpretation hypotheses.
+伊甸最接近的美索不達米亞平行傳統是 **迪爾蒙** 傳統,其更完整的處理見於下文 *比較性觀察* 一節。迪爾蒙於蘇美文本中作為諸神所居住、無疾病、無飢餓、無死亡之樂園出現 —— 此描述在結構上與伊甸傳統的某些元素極為相近。*恩基與寧胡爾薩格* 的神話描述迪爾蒙為「獅子不殺、狼不奪羔羊」之地,其意象與後來《以賽亞書》預言性復興伊甸的視像有明顯共鳴。迪爾蒙的地理認定在亞述學中具爭議性,以巴林為傳統認定;迪爾蒙的波斯灣定位是各種波斯灣伊甸位置假說所建立的論點之一。
 
-### The four-rivers identification puzzle
+## 地理認定
 
-Genesis 2:10–14 names the four rivers that flow out of Eden, two of which are unambiguously identifiable with extant rivers (the Tigris and the Euphrates) and two of which are not: the Pishon and the Gihon. The identification of the Pishon and Gihon has been one of the principal problems for Eden-location scholarship across two and a half millennia.
+伊甸的地理認定 —— 該園於何處、其遺跡可能位於何處、前洪水地理與當今地理之間的關係如何 —— 是伊甸傳統最受廣泛辯論的面向之一。文集的具體認定既不同於主流聖經學術立場,亦不同於各種另類詮釋假說。
 
-The classical Jewish and patristic Christian traditions identified the Pishon and Gihon variously: with the Nile (a common patristic identification, on the basis of Genesis 2:13's "compassing the land of Cush," which can mean Ethiopia / Nubia), with the Ganges or the Indus (proposed by Josephus, *Antiquities* 1.1.3), with the Araxes in Armenia, or with the Karun or Kerkha rivers in modern Iran. The various proposals each have textual or geographic problems; none has achieved consensus.
+### 四河認定之謎
 
-Modern proposals have continued the tradition. The Persian Gulf hypothesis associated with **Juris Zarins** (the American archaeologist, in *Smithsonian Magazine* 1987 and subsequent publications) identifies the Pishon with the Wadi al-Rummah, a now-dry riverbed running across the Arabian peninsula that LANDSAT imagery has shown was a major river system during the wetter Pleistocene period; the Gihon with the Karun river in Iran; the Tigris and Euphrates as themselves; and the four-river meeting point as the head of the Persian Gulf, which during the early Holocene was extended further inland than the present coastline. The Zarins hypothesis places Eden at this submerged area, now under Persian Gulf waters.
+《創世記》2:10–14 列舉自伊甸流出的四條河,其中兩條可明確認定為現存河流(底格里斯河與幼發拉底河),另兩條則否:比遜河與基訓河。比遜河與基訓河的認定,在兩千五百年來一直是伊甸位置學術之主要問題之一。
 
-The **David Rohl** hypothesis (in *Legend: The Genesis of Civilisation*, 1998) places Eden in the Lake Urmia region of northwestern Iran, identifying the Pishon with the Aras / Araxes and the Gihon with the Kezel-Owzan or the Greater Zab.
+古典猶太傳統與教父基督教傳統將比遜河與基訓河作了不同的認定:認作尼羅河(常見的教父認定,依據《創世記》2:13「環繞古實地」,該詞可指衣索比亞 / 努比亞)、認作恆河或印度河(由約瑟夫提出,《猶太古史》1.1.3)、認作亞美尼亞的阿拉斯河、或認作現代伊朗的卡倫河或克爾哈河。各種提案皆有文本或地理上的問題;無一達成共識。
 
-### The framework's reading of the geographic question
+現代提案延續了這項傳統。與 **尤里斯·扎林斯** 相關的波斯灣假說(這位美國考古學家,於《史密森尼雜誌》1987 年及其後出版品中提出)將比遜河認作瓦迪魯瑪 —— 一條現已乾涸、跨越阿拉伯半島的河床,LANDSAT 衛星影像顯示其在更濕潤的更新世時期曾為一條主要河系;將基訓河認作伊朗的卡倫河;底格里斯河與幼發拉底河則保持原認定;四河匯流點為波斯灣頭,該處於早全新世曾較現今海岸線更深入內陸。扎林斯假說將伊甸定位於此一現今沒於波斯灣水下的區域。
 
-The corpus's reading of the four-rivers passage is distinct from both the mainstream biblical-scholarly position (which generally treats the rivers as mythological or as preserving general geographic memory rather than as a precise identification puzzle) and the alternative-interpretation hypotheses (which treat the puzzle as solvable by careful work with the present-day geography).
+**大衛·羅爾** 假說(於《傳說:文明之創世》,1998)將伊甸定位於伊朗西北部的烏爾米亞湖地區,將比遜河認作阿拉斯河、將基訓河認作克濟洛萬河或大札布河。
 
-On the corpus's reading, the four-rivers passage is a description of the antediluvian Eden region's hydrology, no longer extant in its original form. The supercontinent on which the antediluvian Eden was located broke apart catastrophically during the Flood event of the Age of Gemini (c. 6,690 BCE on the corpus's chronology), with the resulting fragments becoming the modern continents through subsequent drift.[^pangaea] The pre-Flood river system that included the Pishon, Gihon, Tigris, and Euphrates as four streams flowing from a common source no longer exists in that configuration. The names *Tigris* and *Euphrates* were preserved across the catastrophe by the post-Flood survivors, who attached them to rivers in the post-Flood Mesopotamian region that the survivors associated with the original referents, but the post-Flood rivers are not the same as the antediluvian rivers — the geographic substrate has been rearranged.
+### 框架對地理問題的閱讀
 
-[^pangaea]: The framework's "supercontinent" is not the conventional Pangaea of mainstream geology. Conventional Pangaea assembled approximately 335 million years ago and broke apart approximately 175 million years ago, with continental drift unfolding over hundreds of millions of years through mantle convection. The corpus, following the Raëlian source material, reads the breakup as a catastrophic event during the Flood of the Age of Gemini c. 6,690 BCE, with the observed continental drift since then as the residual momentum of that event. The structural correspondence — a single consolidated landmass, surrounded by a single ocean — is the same; the timing and mechanism are radically different. The conflict with mainstream geological dating is substantial and is treated openly in the [Pangaea](../pangaea/), [Great Flood](../great-flood/), and [Antediluvian](../antediluvian/) entries.
+文集對四河段落的閱讀有別於主流聖經學術立場(該立場一般將諸河視為神話性或保留一般地理記憶,而非精確的認定之謎),亦有別於另類詮釋假說(該假說將此謎視為可透過對當今地理的細緻處理而解決)。
 
-The general identification of the Eden region with the eastern Mediterranean / Levantine portion of the antediluvian supercontinent — the area that, after the breakup, would become the modern Levant including present-day Israel, Lebanon, Syria, southeastern Turkey, and the surrounding coastlands of Greece, Cyprus, and the Mediterranean basin — is solid on the corpus's reading. This identification is grounded in the Raëlian source material's specific identification of the Israel team's territory as the precursor to what would become the modern Israel. The pre-Flood Eden region is, on this reading, the antediluvian configuration of the territory whose post-Flood remnant is the present Levantine area.
+依文集的閱讀,四河段落是對前洪水時期伊甸地區水文的描述,其原本形貌已不復存{{ footnote(id="2") }}。前洪水伊甸所在的超級大陸於雙子時代洪水事件期間(依文集年表約公元前 6,690 年)災難性地破裂,其裂片透過其後的漂移而成為當今諸大陸。{{ footnote(id="3") }} 包含比遜、基訓、底格里斯與幼發拉底為自共同源頭流出之四條溪流的洪水前河系,已不存在於該配置之中。*底格里斯* 與 *幼發拉底* 之名,由洪水後的倖存者跨越災難而保存,他們將這些名字賦予了倖存者與原指涉物相聯之洪水後美索不達米亞地區的河流,但洪水後的河流並不是前洪水的河流 —— 地理底層已被重組。
 
-The precise pre-Flood location of the garden of Eden within this broader region is not specified in the available source material. The four-rivers passage suggests a location at or near the headwaters of a major river system; the surrounding geography (the lands of Havilah and Cush, the gold and precious stones) suggests a region with substantial mineral wealth; the climatic features implied by the narrative (a controlled environment supporting diverse flora and fauna without seasonal extremes) suggest a temperate to subtropical setting. The framework treats these textual indications as preserving accurate features of the antediluvian Eden region, while acknowledging that the post-Flood remapping of the territory makes precise pre-Flood coordinates unrecoverable.
 
-### The garden as enclosed installation
+伊甸地區與前洪水時期超級大陸之東地中海 / 黎凡特部分之一般認定 —— 即破裂後將成為現代黎凡特、包括今日以色列、黎巴嫩、敘利亞、土耳其東南部,以及希臘、賽普勒斯與地中海盆地周圍海岸的區域 —— 在文集的閱讀中是穩固的。此一認定立基於雷爾派源典具體將以色列隊領地認定為日後成為現代以色列之前身的說法。在此閱讀下,洪水前的伊甸地區即為其洪水後遺跡為今日黎凡特地區之領地的前洪水時期形貌。
 
-The Hebrew *gan*, conventionally translated "garden," is read by the corpus in its strong etymological sense — an enclosed, protected, controlled space, with the boundary not merely ornamental but functional. The garden of Eden, on the framework's reading, is a specific enclosed installation within the broader Israel-team territory: a physical site bounded by some form of perimeter, containing the laboratories in which the biological synthesis was conducted, the educational facilities at which the first humans were instructed, and the controlled flora and fauna whose cultivation the Raëlian source material describes as the work of artists as well as scientists. The cherubim and flaming sword of Genesis 3:24 — placed at the entrance after the expulsion — are read as the access controls that prevented re-entry to the installation, consistent with the *gan*'s functional-boundary character.
+在此更廣地區之內,伊甸園確切的洪水前位置於可資取得的源典材料中並未指明。四河段落暗示位於主要河系源頭附近的位置;周圍地理(哈腓拉地與古實地、金子與寶石)暗示一個具實質礦產的地區;敘事所暗示的氣候特徵(支撐多樣動植物相而無季節極端的受控環境)暗示一個溫帶至亞熱帶的場景。框架將這些文本指示視為保留了前洪水伊甸地區的真實特徵,同時承認該領地的洪水後重繪使精確的洪水前座標無法恢復。
 
-The size of the installation is not specified in the source material. The Genesis text suggests something on the order of a substantial estate or compound rather than a small ornamental garden; the four-rivers passage implies that the garden is the source-region of major river systems, suggesting substantial geographic extent. The framework's reading treats the *gan-ʿĒden* as a major operational installation appropriate to a multi-millennial team operation, comparable in scale to the substantial scientific-research and habitation complexes that any such operation would require.
+### 園作為封閉設施
 
-## Historical occupation and use
+希伯來文 *gan*,慣常譯為「園」,被文集按其強詞源含義閱讀 —— 一個封閉、受保護、受控制的空間,其邊界並非僅作裝飾,而具有功能。在框架的閱讀下,伊甸園是以色列隊更廣領地內一處具體的封閉設施:一處由某種圍界所圍合的物理場址,其中含有進行生物合成的實驗室、教導最初人類的教育設施,以及其栽培被雷爾派源典描述為藝術家與科學家共同之作的受控動植物相。《創世記》3:24 的基路伯與火焰之劍 —— 於驅逐後設置於入口處 —— 被讀作阻絕重新進入該設施之取用控制,與 *gan* 的功能性邊界性格相符。
 
-Eden was occupied, on the corpus's reading, across a specific period that maps to two precessional ages and a specific set of operational phases. The framework's chronology of these phases derives from the Raëlian source material's account of the creation work, with the Hebrew Bible's narrative providing the principal textual evidence for the political and biographical events.
+設施的規模在源典材料中並未指明。《創世記》文本暗示其規模屬大型莊園或營地等級,而非小型裝飾性花園;四河段落暗示該園是主要河系的源頭區域,意味著實質的地理範圍。框架將 *gan-ʿĒden* 讀作適合多千年隊伍作業之主要作業設施,其規模可比擬於任何此類作業所需的實質科學研究與居住複合設施。
 
-### The Israel-team operational period: late Leo
+## 歷史佔用與用途
 
-The Israel team's operations in the Eden region began, on the framework's reading, during the broader Age of Leo (c. 11,010 – 8,850 BCE) — the sixth precessional age of the creation project, in which the seven creator teams synthesized the land animals and ultimately the first humans. The Israel team's specific work in Eden during late Leo culminated in the creation of the first humans (Adam and Eve, on the Genesis names) at approximately 11,375 BCE — the date derived from the 666-generation calculation anchoring the framework's chronology.
+依文集的閱讀,伊甸跨越特定期間被佔用,該期間映射於兩個歲差時代及一組特定作業階段。框架對這些階段的年代序列源自雷爾派源典對創造工作的記述,而希伯來聖經的敘事則為政治與傳記事件提供主要的文本證據。
 
-During this initial operational phase, the garden was the site of active biological synthesis. The team's laboratories produced the first humans through the genetic-design and laboratory-synthesis techniques the Elohim civilization possessed; the resulting individuals were placed in the prepared garden environment and instructed in the languages, sciences, and arts that the team judged appropriate for them. The instruction was deliberately bounded: the humans were granted free use of the educational and biological resources of the garden, but the prohibition concerning the Tree of the Knowledge of Good and Evil corresponded to a specific restriction on access to the scientific and technological archives of the team — the materials whose use would have given the humans capacities the team's authorities, on the home world, did not want them to acquire.
+### 以色列隊作業期:獅子時代後期
 
-### The political crisis: late Leo / early Cancer
+以色列隊於伊甸地區的作業,依框架的閱讀,始於更廣的獅子時代(約公元前 11,010 – 8,850 年)—— 創造計畫的第六個歲差時代,當時七支造物者隊伍合成了陸地動物,並最終合成最初的人類。以色列隊於獅子時代後期在伊甸的具體工作,於約公元前 11,375 年達至最初人類(依《創世記》之名為亞當與夏娃)的創造 —— 該年代源自錨定框架年代序列的 666 世代計算。
 
-Across the closing centuries of Leo, on the corpus's reading, an internal political dispute developed within the Israel team. The leader of one faction — identified in the broader framework with **Lucifer** ("light-bringer") — disagreed with the home-world's containment policy and held that the synthesized humans should be told who their creators were, taught what their creators knew, and permitted to develop with full information. The Genesis 3 disclosure — the serpent's communication to the humans concerning the Tree of the Knowledge of Good and Evil — is the operational expression of this position. The corpus reads the serpent as the leader of this dissenting faction, providing the humans with access to the prohibited materials against the directives of the home world.
+於此初始作業階段,該園即為活躍生物合成的場址{{ cite(id="the-book-which-tells-the-truth", text="[1]", title="沃里勒翁(雷爾),《道出真相之書》(1974),第 2 章〈真相〉—— 框架對伊甸閱讀之主要雷爾派源典") }}。該隊伍的實驗室透過耶洛因文明所具備的基因設計與實驗室合成技術產出最初的人類;所產生的個體被安置於預備好的園中環境,並接受該隊伍判定適合於他們的語言、科學與藝術之教導。教導是刻意有界的:人類被准許自由使用園中的教育與生物資源,但關於知善惡樹的禁令對應於對該隊伍科學與技術檔案的特定取用限制 —— 那些若被使用,將賦予人類其母星當局並不希望他們取得之能力的材料{{ footnote(id="4") }}。
 
-The transgression, on this reading, is not a moral fall but a transmission of restricted knowledge against the home-world's policy. The narrative's subsequent imagery — the recognition of nakedness, the fashioning of clothing, the confrontation with Yahweh Elohim, the pronouncement of consequences — is read as the political-operational consequence of the disclosure: the humans now know what they are, the team's leadership confronts them, and the broader Council on the home world is informed of the violation.
+### 政治危機:獅子時代後期 / 巨蟹時代早期
 
-### The expulsion: early Cancer
+依文集的閱讀,於獅子時代結束的諸世紀中,以色列隊內部發展出一場內部政治爭議。其中一個派系的領導者 —— 在更廣框架中認同為 **路西法**(「光明之攜帶者」)—— 不同意母星的遏制政策,並主張合成的人類應被告知其締造者為誰、被教導其締造者所知,並在資訊完整的情況下被允許發展。《創世記》第 3 章的揭露 —— 蛇向人類傳達有關知善惡樹之事 —— 即為此一立場的作業性表現。文集將蛇讀作此異議派系的領導者,其違反母星指令而向人類提供禁制材料的取用權限。
 
-The expulsion from the garden, narrated in Genesis 3:23–24, is the framework's reading of the operational consequence of the political crisis. The humans are removed from the controlled garden environment and placed outside its boundary, in the broader Eden region, required to subsist by their own labor on land that has not been specifically prepared for them. The cherubim and flaming sword at the entrance prevent their return.
+依此閱讀,違犯並非道德性墮落,而是違反母星政策之受限知識的傳遞。敘事其後的意象 —— 對裸體的察覺、衣物的製作、與耶和華耶洛因的對質、後果的宣告 —— 被讀作揭露之政治—作業後果:人類如今知道自己是什麼;該隊伍的領導層對質他們;母星上更廣的議會獲悉此違犯。
 
-The political settlement at the home-world Council level, treated more fully in the [Elohim](../elohim/) entry under Internal political structure, divided the post-Eden alliance personnel into two groups. The dissenting Lucifer faction — those who had supported the disclosure — was permanently exiled on Earth, condemned to live among the humans they had chosen to enlighten. The remainder of the Israel team, plus most of the personnel from the other six creator teams, was withdrawn to the home world. The result was that the post-expulsion Eden region contained the human population (now with restricted scientific knowledge) and a small permanent Elohim presence (the exiled Lucifer faction), with the broader alliance maintaining surveillance from a distance.
+### 驅逐:巨蟹時代早期
 
-### The post-expulsion period: Age of Cancer
+《創世記》3:23–24 所敘的自園驅逐,即為框架對政治危機作業後果之閱讀。人類被自受控的園中環境移出並置於其邊界之外,於更廣的伊甸地區中,在並非為他們特別預備的地上,被要求以自己的勞動維生。入口處的基路伯與火焰之劍阻止他們回返。
 
-The Age of Cancer (c. 8,850 – 6,690 BCE) is the period of the antediluvian human civilization that the post-expulsion Eden region, and its broader continental expansion, supported. The Genesis 4–6 narrative covers this period in compressed form: the Cain-and-Abel conflict and Cain's exile to the land of Nod east of Eden; the genealogies of Cain's line (Genesis 4:17–24), naming the founders of pastoral nomadism, music, and metallurgy; the parallel genealogy of Seth's line (Genesis 5), with the long lifespans of the patriarchs from Adam to Noah; the *benei ha-Elohim* episode (Genesis 6:1–4), with the Lucifer-faction Elohim taking human women as wives and producing the *Nephilim*; and the divine assessment leading to the Flood announcement (Genesis 6:5–8).
+於母星議會層次之政治結算,於{% wiki(slug="elohim") %}耶洛因{% end %}條目「內部政治結構」一節中有更完整處理,將後伊甸聯盟人員分為兩組。支持揭露的異議路西法派系 —— 被永久流放於地球,被判要與他們所選擇啟蒙的人類同住。以色列隊其餘成員,連同其他六支造物者隊伍的大部分人員,則撤回母星。其結果是驅逐後的伊甸地區包含人類群體(如今具有受限的科學知識)與少量永久存在的耶洛因(被流放的路西法派系),而更廣聯盟則自遠處進行監視。
 
-Across this period, the Eden region itself remained inhabited by the descendants of the first humans, with the longevity treatment granted to the Sethite patriarchal leadership maintaining institutional continuity across multiple ordinary generations. The exiled Lucifer faction continued to teach the population, refining their technical and scientific capabilities across the centuries. The broader Eden civilization — the lineage of which the Hebrews would be the post-Flood remnant — developed across the supercontinent, with the Eden region as its political and cultural center. The detailed treatment of this period lives in the [Antediluvian](../antediluvian/) entry; what matters for the present entry is that the Eden region was the political and cultural center of the most accomplished of the seven antediluvian civilizations across the entire two-thousand-year span of the Age of Cancer.
+### 驅逐後期間:巨蟹時代
 
-### The Flood and the disruption of Eden
+巨蟹時代(約公元前 8,850 – 6,690 年)是驅逐後的伊甸地區及其更廣大陸性擴張所支撐之前洪水人類文明的期間。《創世記》4–6 章以壓縮形式涵蓋此期間:該隱與亞伯的衝突,以及該隱流放至伊甸東方挪得之地;該隱譜系(創世記 4:17–24)的家譜,列舉游牧、音樂與冶金之創立者;塞特譜系(創世記 5)的平行家譜,並包含自亞當至挪亞諸族長的長壽記載;*benei ha-Elohim* 事件(創世記 6:1–4),即路西法派系耶洛因娶人類女子為妻並產生 *Nephilim*;以及導致洪水宣告的神聖評估(創世記 6:5–8)。
 
-The Flood event of the Age of Gemini (c. 6,690 BCE) ended the antediluvian world and disrupted the Eden region in ways the framework treats as catastrophic. The supercontinent broke apart; the geography reorganized; the populations of the seven antediluvian civilizations were largely destroyed, with only the small remnants preserved through the ark surviving into the post-Flood era. The Eden region in its antediluvian configuration ceased to exist. The post-Flood remnants — what would become the Levantine region of the modern world — preserved cultural memory of the original Eden, transmitted through the Sethite-Noahite line whose direct descendants the Hebrews would become, but the physical site of the antediluvian garden was no longer recoverable.
+跨越此期間,伊甸地區本身仍由最初人類的後裔所居住,而授予塞特族長領導層的長壽治療在多代普通世代中維持著制度延續性。被流放的路西法派系持續教導該人口,跨數個世紀精煉其技術與科學能力。更廣的伊甸文明 —— 希伯來人將為其洪水後遺裔之譜系 —— 於超級大陸上發展,以伊甸地區為其政治與文化中心。此期間之詳盡處理見於{% wiki(slug="antediluvian") %}前洪水期{% end %}條目;就本條目而言重要者為:伊甸地區於整整兩千年跨度的巨蟹時代中,是七支前洪水文明中最具成就者的政治與文化中心。
 
-The detailed treatment of the Flood event lives in the [Great Flood](../great-flood/) entry. What matters for the Eden entry is that the Flood is the event that closes Eden's operational period: after the Flood, Eden is a memory rather than a place.
+### 洪水與伊甸的破壞
 
-## Significance in the framework
+雙子時代的洪水事件(約公元前 6,690 年)結束了前洪水世界,並以框架視為災難性的方式破壞了伊甸地區。超級大陸破裂;地理重組;七支前洪水文明的人口大多被毀滅,僅有少量殘餘藉由方舟而存活至洪水後時代。伊甸地區於其前洪水形貌中已不復存在。洪水後的遺跡 —— 即將成為現代世界的黎凡特地區 —— 透過塞特—挪亞譜系(希伯來人將成為其直接後裔)保存了原伊甸的文化記憶,但前洪水園的物理場址已無法恢復。
 
-Eden's significance in the Wheel of Heaven framework is structured by three distinct functions, each of which the entry's earlier sections have developed. They warrant explicit synthesis.
+洪水事件之詳盡處理見於{% wiki(slug="great-flood") %}大洪水{% end %}條目。就伊甸條目而言重要者為:洪水即為結束伊甸作業期的事件:洪水之後,伊甸是記憶而非場所。
 
-### The pivotal political crisis
+## 在框架中的意義
 
-Eden is, on the corpus's reading, the location of the most consequential political crisis the alliance has ever faced. The Lucifer-faction disclosure of restricted knowledge to the synthesized humans produced a political settlement — the permanent exile of the dissenting faction, the withdrawal of the rest of the creator personnel, the establishment of the post-Eden mediated-contact pattern — that has structured the entire subsequent post-creation history. Every operational policy the alliance has pursued across the subsequent fifteen millennia has been a response to or development of the post-Eden settlement. The patriarchal-period reconstruction with Abraham, the Mosaic-period direct intervention, the post-Aries indirect-contact policy, the Piscean-age missions of Jesus and Muhammad, the Aquarian-age opening with Vorilhon — all are operational extensions of the political situation Eden produced.
+伊甸於天輪框架中的意義由三項不同的功能所結構化,其中各項已於本條目較早的段落中發展。它們值得明確的綜合。
 
-### The textual anchor
+### 樞紐性的政治危機
 
-Eden is the textual anchor of the framework's entire reading of the Hebrew Bible. The Genesis 2–3 narrative, read at face value as the corpus does, establishes the basic ontology that the rest of the framework's reading depends on: Yahweh as a specific Eloha individual rather than a singular supernatural deity, the Elohim as a plurality of physical beings rather than a metaphysical singular, the creation of humans as biological synthesis in a specific operational setting, the political-rather-than-moral character of the post-Eden settlement, and the continuing alliance presence on Earth through the exiled Lucifer faction. Without the framework's reading of Eden, the rest of the framework's reading of the Hebrew Bible would lack its grounding text.
+依文集的閱讀,伊甸是聯盟所曾面對最具影響的政治危機之所在。路西法派系向合成人類揭露受限知識,產生了一項政治結算 —— 異議派系的永久流放、其餘造物者人員的撤回、後伊甸中介接觸模式的確立 —— 此結算結構化了其後整個受造後歷史。聯盟於其後一萬五千年中所推行的每一項作業政策,皆是對後伊甸結算的回應或發展。與{% wiki(slug="abraham") %}亞伯拉罕{% end %}的族長時期重建、摩西時期的直接干預、後白羊的間接接觸政策、{% wiki(slug="jesus") %}耶穌{% end %}與{% wiki(slug="muhammad") %}穆罕默德{% end %}的雙魚時代使命、與沃里勒翁的水瓶時代開啟 —— 一切皆是伊甸所產生之政治處境的作業性延伸。
 
-### The genealogical-textual privilege
+### 文本錨點
 
-Eden is also the genealogical anchor of the corpus's specific position on textual privilege. The framework treats the Hebrew Bible as the most accurate of the surviving ancient records of the Elohim civilization's work on Earth, on the grounds that the Hebrews are the line treated in the Raëlian source material as the direct genetic descendants of the Israel-team-synthesized first humans. This privileged textual position is grounded in the Eden episode specifically: the Israel team's operations in the Eden region produced the lineage that became the Hebrews, and that lineage's continuous textual tradition preserved the operational events with greater fidelity than the parallel traditions of the other six lineages whose textual records have decayed across the post-Flood transmission. The corpus's relationship to the Hebrew Bible — taking its narratives as substantively accurate compressed records, rather than as theological mythology or as redactional composition — depends on this Eden-grounded genealogical privilege.
+伊甸是框架對希伯來聖經整體閱讀的文本錨點。如文集按字面接納之《創世記》2–3 章敘事,確立了框架其餘閱讀所仰賴的基本本體論:耶和華為特定的 Eloha 個體而非單一的超自然神格、耶洛因為一個具形存在之複數而非形上學的單數、人類創造為一個特定作業場景中的生物合成、後伊甸結算的政治—而非道德—性格,以及透過被流放路西法派系於地球上持續存在的聯盟臨在。若無框架對伊甸的閱讀,框架對希伯來聖經其餘部分的閱讀將失去其賴以立基的文本。
 
-## Modern reinterpretations
+### 譜系—文本特權
 
-Eden has been a subject of substantial modern reinterpretive scholarship across several distinct strands, each engaging the question from a different methodological starting point.
+伊甸亦為文集對文本特權之具體立場的譜系錨點。框架將希伯來聖經視為耶洛因文明於地球工作之最準確的現存古代記載,理由是希伯來人為雷爾派源典所視為以色列隊所合成之最初人類的直接基因後裔之譜系。此種特權性的文本地位具體立基於伊甸事件:以色列隊於伊甸地區的作業產生了將成為希伯來人之譜系,而該譜系之延續的文本傳統以較其他六支譜系(其文本記錄於洪水後傳承中已衰減)之平行傳統為高的忠實度,保存了該等作業事件。文集與希伯來聖經之關係 —— 將其敘事視為實質上準確之壓縮記錄,而非神學神話或編纂組合 —— 即仰賴此一以伊甸為基的譜系特權。
 
-### Jean Sendy on Eden
+## 現代再詮釋
 
-**Jean Sendy**'s treatment of Eden is developed across his work but is particularly concentrated in *Ces dieux qui firent le ciel et la terre* (1969) and *Les cahiers de cours de Moïse* (1974). Sendy reads the Eden narrative as a record of operational events at a specific extraterrestrial-creator site, with the strangeness of the narrative (the talking serpent, the trees with theological functions, the cherubim with flaming swords) disappearing when the underlying referents are taken seriously rather than allegorized. Sendy's specific contributions to Eden interpretation include the reading of the four rivers as an antediluvian hydrography, the identification of the cherubim with technological access controls, the reading of the Tree of Life as a biotechnical resource rather than a botanical species, and the political-rather-than-moral reading of the expulsion. Sendy's approach is philological and historiographic rather than revelatory; he reaches the framework's reading from the Hebrew text's plain sense, working from comparative-mythological evidence and internal-textual analysis. His treatment of Eden is the principal scholarly antecedent of the corpus's adopted reading.
+伊甸跨越數條不同的取徑,一直是實質現代再詮釋學術的對象,各取徑從不同的方法論起點探討此問題。
 
-### Mauro Biglino on Eden
+### 讓·桑迪論伊甸
 
-**Mauro Biglino**'s work on Eden is developed across his major books — *Il Libro che cambierà per sempre le nostre idee sulla Bibbia* (2010), *La Bibbia non parla di Dio* (2015), and *The Naked Bible* (2022, with Giorgio Cattaneo) — with three connected claims about the term and its referent. First, that Eden is a specific geographic region between Mesopotamia and the Caucasus rather than a metaphorical paradise. Second, that the term *gan* is properly read as a fenced, protected, enclosed space — a controlled environment rather than an open garden in the modern English sense. Third, that the *gan-ʿĒden* described in Genesis is one of several such enclosed installations operated by the biblical Elohim across the ancient world, with each functioning as an experimental laboratory in which the Elohim conducted biological work, including the synthesis of humanity.
+**讓·桑迪** 對伊甸的處理散見於其著作,但特別集中於《那些締造天地的諸神》(*Ces dieux qui firent le ciel et la terre*,1969){{ cite(id="sendy-ces-dieux", text="[2]", title="桑迪(1969);基礎性的法文表述;文集對伊甸閱讀之主要學術先驅") }} 與《摩西的課堂筆記》(*Les cahiers de cours de Moïse*,1974){{ cite(id="sendy-cahiers-moise", text="[3]", title="桑迪(1974);發展摩西時期框架,含實質伊甸時期背景") }}。桑迪將伊甸敘事讀作一處特定外星造物者場址上作業事件的紀錄,而敘事的陌生感(會說話的蛇、具神學功能的樹、持火焰之劍的基路伯)當其底層指涉物被認真對待而非寓意化時即消失。桑迪對伊甸詮釋的具體貢獻包括:將四河讀作前洪水時期之水文、將基路伯認同為技術性的取用控制、將生命之樹讀作生物技術資源而非植物學物種,以及對驅逐之政治—而非道德—的閱讀。桑迪的進路是語文學與史學的,而非啟示性的;他從希伯來文本的字面意義出發,透過比較神話學證據與內部文本分析達至框架的閱讀。其對伊甸的處理是文集所採行閱讀之主要學術先驅。
 
-Biglino additionally proposes a non-standard etymology of the Sumerian-Akkadian *E-Din* as "house of the righteous," reading the "righteous" as members of the Elohim lineage. This gloss is distinctively Biglino's and is not the standard Assyriological reading; the consensus reading remains "plain" or "steppe." The corpus adopts the standard reading rather than Biglino's, since the framework's interpretive case does not depend on the non-standard gloss and is on more solid ground without it.
+### 毛羅·比格利諾論伊甸
 
-Biglino's strict-translational methodology — reading the Hebrew word-for-word and accepting what the resulting concrete text actually says, rather than allegorizing it into theological abstraction — is the broader methodological contribution his work makes to Eden interpretation, beyond the specific *gan* and *Eden* arguments.
+**毛羅·比格利諾** 對伊甸的工作散見於其主要著作 —— 《將永遠改變我們對聖經看法的書》(2010)、《聖經未談論神》(2015),以及《赤裸的聖經》(2022,與吉奧爾喬·卡塔內奧合著)—— 並對該詞與其指涉物提出三項相互關聯的主張。第一,伊甸是位於美索不達米亞與高加索之間的具體地理地區,而非隱喻性的樂園。第二,*gan* 一詞應被讀作圍籬、受保護、封閉的空間 —— 受控的環境,而非現代英語意義上之開放的花園。第三,《創世記》所描述的 *gan-ʿĒden* 是聖經耶洛因於古代世界各處所運作數個此類封閉設施之一,各自作為耶洛因進行生物學工作(包含人類合成)的實驗實驗室。
 
-### Paul Anthony Wallis: *The Eden Conspiracy* (2024)
+比格利諾另提出蘇美—阿卡德語 *E-Din* 之非標準詞源解讀為「義人之屋」,將「義人」讀作耶洛因譜系的成員{{ footnote(id="5") }}。此一注解獨屬於比格利諾,並非標準的亞述學閱讀;共識閱讀仍為「平原」或「草原」。文集採行標準閱讀而非比格利諾的閱讀,因為框架的詮釋論證並不取決於該非標準注解,且不採取此一注解時論證更為穩固。
 
-**Paul Anthony Wallis**'s most direct engagement with Eden is *The Eden Conspiracy* (2024), a book-length treatment of the Genesis 2–3 narrative read in the framework's general direction. Wallis's earlier *Escaping from Eden* (2020), *The Scars of Eden* (2021), and *Echoes of Eden* (2021) develop the broader argument that the *Elohim* of Genesis are *the Powerful Ones* — beings physically present and operating with technologies the early human population could not have understood. *The Eden Conspiracy* focuses specifically on the Eden narrative, reading the garden, the trees, the serpent, and the expulsion as records of a real political crisis between alliance factions whose disagreement about how much the synthesized humans should be told produced the textually preserved conflict.
+比格利諾的嚴格翻譯方法論 —— 逐字閱讀希伯來文,並接受所得具體文本實際所言,而非將其寓意化為神學抽象 —— 即其著作於伊甸詮釋上所作出之更廣方法論貢獻,超越於 *gan* 與 *Eden* 之具體論證之外。
 
-Wallis's specific contributions to Eden interpretation include the structural reading of the political crisis (the disagreement between the senior alliance authority and the dissenting faction as the underlying conflict, with the serpent as the operational expression of the dissenting position), the careful treatment of the cherubim and flaming sword as technological rather than mythological, and the comparative engagement with Sumerian and other ancient Near Eastern parallel narratives. Wallis's accessibility and his specific focus on the Eden narrative make *The Eden Conspiracy* the most widely read recent treatment of Eden from within the broader reinterpretive tradition.
+### 保羅·安東尼·華利斯:《伊甸的陰謀》(2024)
 
-### Eden-location proposals
+**保羅·安東尼·華利斯** 對伊甸最直接的論述是《伊甸的陰謀》(2024),這是一部書籍長度、於框架一般方向上閱讀《創世記》2–3 章敘事的著作。華利斯較早的《逃離伊甸》(2020)、《伊甸的傷痕》(2021)與《伊甸的回聲》(2021)發展了更廣的論證,即《創世記》中的 *耶洛因* 為 *大能者* —— 具形且以早期人類群體無從理解之技術運作的存在。《伊甸的陰謀》具體聚焦於伊甸敘事,將園、樹、蛇與驅逐讀作聯盟派系之間真實政治危機的紀錄,其關於合成人類應被告知多少的分歧產生了文本所保存的衝突。
 
-Beyond the term-and-narrative reinterpretive work, a substantial literature has developed around the question of where Eden was located. The principal proposals:
+華利斯對伊甸詮釋的具體貢獻包括:對政治危機的結構性閱讀(將資深聯盟權威與異議派系之間的分歧作為底層衝突,蛇作為異議立場的作業表現)、將基路伯與火焰之劍仔細處理為技術性而非神話性,以及與蘇美及其他古代近東平行敘事的比較性對話。華利斯的可讀性及其對伊甸敘事的具體聚焦,使《伊甸的陰謀》成為更廣再詮釋傳統中閱讀最廣的近期伊甸論述。
 
-The **Persian Gulf hypothesis** associated with **Juris Zarins** (the American archaeologist who developed the proposal across the 1980s and 1990s) places Eden at the head of the Persian Gulf, identifying the Pishon with the now-dry Wadi al-Rummah river system that LANDSAT imagery has shown crossed the Arabian peninsula during the wetter Pleistocene period, and treating the Gulf's higher pre-Holocene shoreline as the relevant geographic reference. The Zarins hypothesis is grounded in archaeological and geological evidence and has been the most academically respectable of the modern Eden-location proposals.
+### 伊甸位置之提案
 
-The **Lake Urmia / Iranian-plateau hypothesis** associated with **David Rohl** (in *Legend: The Genesis of Civilisation*, 1998) places Eden in the Lake Urmia region of northwestern Iran, with the four rivers identified with regional Iranian and Caucasian river systems.
+除術語與敘事再詮釋工作之外,圍繞著伊甸位置問題已發展出實質的文獻。主要提案如下:
 
-The **eastern Anatolian hypothesis** identifies Eden with the headwaters region of the Tigris and Euphrates in eastern Turkey — the region in which Göbekli Tepe and the broader Pre-Pottery Neolithic complex have been discovered. This proposal has gained traction since the Göbekli Tepe excavations, since the dating of the Pre-Pottery Neolithic sites lands within the framework's antediluvian period and the geographic identification with the corpus's eastern-Mediterranean / Levantine reading is consistent.
+與 **尤里斯·扎林斯** 相關的 **波斯灣假說**(這位美國考古學家在 1980 與 1990 年代發展此一提案)將伊甸定位於波斯灣頭,將比遜河認作現已乾涸的瓦迪魯瑪河系 —— LANDSAT 衛星影像顯示其於更濕潤的更新世時期橫越阿拉伯半島 —— 並將該灣早全新世更高之海岸線作為相關的地理參照。扎林斯假說立基於考古與地質證據,並一直是現代伊甸位置提案中學術上最具尊重者。
 
-The **Sundaland hypothesis** (developed by Stephen Oppenheimer in *Eden in the East*, 1998) places Eden in the now-submerged Sundaland shelf of southeast Asia, treating the Eden tradition as preserving memory of a culture destroyed by the post-glacial sea-level rise.
+與 **大衛·羅爾** 相關的 **烏爾米亞湖 / 伊朗高原假說**(於《傳說:文明之創世》,1998)將伊甸定位於伊朗西北部的烏爾米亞湖地區,並將四條河認作伊朗與高加索的區域河系。
 
-The corpus's reading does not endorse any of these specific location proposals as fully accurate, since the framework's antediluvian-supercontinent geography differs from the present-day continental configuration in ways the Persian Gulf and Lake Urmia proposals do not address. The corpus does treat the Anatolian / eastern-Mediterranean direction as broadly compatible with its identification of the Israel-team territory with the post-Flood Levant, while noting that the post-Flood remnants of the antediluvian Eden region cannot be straightforwardly mapped to a present-day location.
+**東安納托利亞假說** 將伊甸認定為土耳其東部底格里斯河與幼發拉底河源頭區域 —— 即發現哥貝克力石陣與更廣前陶新石器時代複合遺址之區域。此提案自哥貝克力石陣發掘以來獲得進展,因為前陶新石器時代遺址的年代落於框架的前洪水期內,且其地理認定與文集對東地中海 / 黎凡特的閱讀相符。
 
-### Earlier ancient-astronaut literature
+**巽他古陸假說**(由史蒂芬·奧本海默於《東方之伊甸》,1998 提出)將伊甸定位於現已沉沒的東南亞巽他古陸大陸棚,將伊甸傳統視為保留了被冰後海平面上升所摧毀之文化的記憶。
 
-The broader ancient-astronaut interpretive tradition has engaged Eden at various points. **Erich von Däniken**'s *Chariots of the Gods?* (1968) treats Eden briefly as part of its broader argument about extraterrestrial visitation in ancient times. **Zecharia Sitchin**'s *The 12th Planet* (1976) and successor works treat Eden as a derivative tradition reflecting the earlier Sumerian Anunnaki narratives, with the *E.DIN* of the Sumerian texts as the underlying referent. The corpus's reading, as with the broader Sitchin tradition, registers the philological connection but does not treat Genesis as derivative from the Sumerian sources — the Hebrew tradition is read, on grounds developed in the [Genesis](../genesis/) entry, as preserving the more accurate independent record rather than as a later borrowing from the Mesopotamian sources.
+文集的閱讀不認可上述任一具體位置提案為完全準確,因為框架的前洪水超級大陸地理與當今大陸構造的差異,是波斯灣與烏爾米亞湖提案所未處理者。文集確實將安納托利亞 / 東地中海方向視為與其將以色列隊領地認同為洪水後黎凡特的認定大致相容,同時注意到前洪水伊甸地區的洪水後遺跡無法直接映射至當今的位置。
 
-## Comparative observations
+### 較早的古代太空人文獻
 
-The Eden tradition stands in a structurally distinctive position across the world's religious and mythological literatures: a paradisiacal or first-place tradition is found in essentially every major culture, with the Eden narrative being the Hebrew tradition's specific instance of a much broader pattern. The corpus reads the global pattern as evidence of a shared underlying historical event whose memory was preserved in fragmentary form across the various post-Flood populations descended from the seven Earth lineages. Several specific comparative cases warrant treatment.
+更廣的古代太空人詮釋傳統於若干點上探討過伊甸。**艾力赫·馮·丹尼肯** 的《諸神的戰車?》(1968)將伊甸簡略處理為其關於古代外星造訪之更廣論證的一部分。**撒迦利亞·西琴** 的《第十二顆行星》(1976)與後續著作將伊甸視為反映更早蘇美阿努納奇敘事的衍生傳統,以蘇美文本的 *E.DIN* 作為底層指涉物。文集的閱讀,如同更廣的西琴傳統,登錄了該語文學關聯,但不將《創世記》視為源自蘇美源典 —— 希伯來傳統依{% wiki(slug="genesis") %}創世記{% end %}條目所發展的理由被讀作保存了較準確的獨立紀錄,而非自美索不達米亞源典較晚之借用。
 
-### Mesopotamian Dilmun
+## 比較性觀察
 
-The closest direct parallel to Eden in the ancient Near Eastern literature is **Dilmun**, the paradisiacal land in Sumerian mythology where the gods dwelled and where there was no sickness, hunger, or death. The myth of *Enki and Ninhursag* describes Dilmun in language strikingly close to the Edenic tradition: "the lion does not kill, the wolf does not snatch the lamb, the dog does not know the kid in his mouth, the boar does not know the eating of grain." Dilmun appears across multiple Sumerian and Akkadian texts, with the geographical identification contested in modern Assyriology — the traditional identification with Bahrain has been challenged by various other proposals including the head of the Persian Gulf.
+伊甸傳統於世界宗教與神話文獻中佔有結構上具特色的位置:基本上每個主要文化中皆可見一項樂園或原初場所傳統,而伊甸敘事為更廣模式之希伯來傳統的具體實例。文集將此全球模式讀作一項共享的底層歷史事件之證據,其記憶以片段形式保存於後洪水時期由七支地球譜系所出之各種人口中。若干具體比較案例值得處理。
 
-The structural parallels between Dilmun and Eden are extensive: a paradisiacal place associated with the gods; an absence of suffering and death; the presence of trees with special properties; a connection to a divine watering source. The corpus reads Dilmun and Eden as both preserving fragmentary memory of the antediluvian Eden region, with the Sumerian tradition having decayed further from the original referent than the Hebrew tradition but preserving structurally similar features. The Sumerian-Akkadian etymological link (the *EDEN* / *edinu* connection treated under Etymology above) makes the literary parallel particularly direct.
+### 美索不達米亞之迪爾蒙
 
-### Persian *paradeisos* / *pairi-daēza*
+伊甸於古代近東文獻中最接近的直接平行為 **迪爾蒙**,即蘇美神話中諸神所居住、無疾病、無飢餓、無死亡之樂園地。*恩基與寧胡爾薩格* 的神話以驚人地接近伊甸傳統的語言描述迪爾蒙:「獅子不殺,狼不奪羔羊,狗不認其口中之羔,野豬不知食穀。」迪爾蒙出現於多部蘇美與阿卡德文本中,其地理認定於現代亞述學中具爭議性 —— 與巴林之傳統認定已遭多項其他提案(包括波斯灣頭)挑戰。
 
-The English word *paradise* derives from Old Persian *pairi-daēza* (*pairi-* "around" + *daēza* "wall, enclosure"), meaning literally "walled enclosure" — the term used in Persian for the royal hunting parks and pleasure gardens of the Achaemenid period. The Greeks, encountering these gardens during their contact with the Persian empire, borrowed the word as *paradeisos* (παράδεισος), and the Septuagint translators of the Hebrew Bible used *paradeisos* to render Hebrew *gan* in Genesis 2:8 — establishing the equivalence between the Hebrew "garden of Eden" and the Persian "walled enclosure" that the English "paradise" preserves.
+迪爾蒙與伊甸的結構性平行極為廣泛:一個與諸神相聯的樂園之地;痛苦與死亡的缺席;具特殊性質之樹的存在;與神聖水源的連結。文集將迪爾蒙與伊甸皆讀作保存前洪水伊甸地區之片段記憶,蘇美傳統較希伯來傳統自原指涉物衰減更甚,但保存了結構上相似的特徵。蘇美—阿卡德詞源關聯(於前述〈詞源〉中處理之 *EDEN* / *edinu* 連結)使文學上的平行特別直接。
 
-The semantic convergence is striking. Hebrew *gan* (from the root *g-n-n*, "to enclose, to protect, to defend") and Old Persian *pairi-daēza* (literally "walled enclosure") both name an enclosed, protected, controlled space. The two languages, though both Indo-European/Semitic and historically connected through long ancient Near Eastern contact, are distinct enough that the convergence is not trivial linguistic borrowing but reflects a shared semantic concept. The corpus's reading of the *gan-ʿĒden* as a functional enclosed installation is consistent with the Persian *pairi-daēza* concept and with the broader semantic pattern: across multiple ancient cultures, the original "paradise" is specifically a *bounded* and *protected* space, not an open garden in the modern English sense.
+### 波斯之 *paradeisos* / *pairi-daēza*
 
-The Persian Avestan tradition also preserves a paradisiacal first-place tradition independently of the *paradeisos* term — the **Vara of Yima**, an enclosed underground refuge built by the first king Yima at Ahura Mazda's command to preserve life through a coming catastrophic winter. The structural parallels to the Noah's-ark tradition, and indirectly to the Eden tradition, are evident; the elaborate enclosed-refuge imagery is one of the closer Indo-Iranian parallels to the broader paradise-and-flood pattern.
+英文 *paradise* 源自古波斯語 *pairi-daēza*(*pairi-* 「環繞」+ *daēza* 「牆、圍場」),字面意為「圍牆之圍場」—— 此即波斯語用以指稱阿契美尼德時期皇家狩獵公園與遊樂花園的詞。希臘人於與波斯帝國接觸期間遇見這些花園,將該詞借為 *paradeisos*(παράδεισος),而希伯來聖經的《七十士譯本》譯者於《創世記》2:8 用 *paradeisos* 翻譯希伯來文 *gan* —— 確立了希伯來文「伊甸之園」與波斯文「圍牆之圍場」之間的等同,此等同為英文 paradise 所保存。
 
-### Greek Hesperides and the Golden Age
+此語意匯流相當引人注目。希伯來文 *gan*(源自詞根 *g-n-n*,「圍蔽、保護、防衛」)與古波斯語 *pairi-daēza*(字面為「圍牆之圍場」)皆指稱一個封閉、受保護、受控制的空間。兩種語言雖皆屬印歐 / 閃語族,且歷史上透過長期古代近東接觸而連結,但仍區別至足以使此匯流並非瑣碎的語言借用,而反映出共享的語意概念。文集將 *gan-ʿĒden* 讀作具功能性的封閉設施,與波斯文 *pairi-daēza* 概念以及更廣的語意模式相符:在多種古代文化中,原初的「樂園」具體乃是一個 *有界* 且 *受保護* 的空間,而非現代英語意義上的開放花園。
 
-Greek mythology preserves a paradisiacal-first-place tradition in the **Garden of the Hesperides** — a garden at the western edge of the world tended by the Hesperides nymphs, containing the golden apples that Hera received as a wedding gift from Gaia, guarded by the dragon Ladon. The structural parallels to Eden are striking: a garden at a specific geographic location (though the western rather than the eastern edge of the world); fruit-bearing trees with special significance; a serpentine guardian; an association with divine origins.
+波斯阿維斯陀傳統亦獨立於 *paradeisos* 一詞而保存了樂園原初場所的傳統 —— 即 **伊瑪之圍場**,一處由首王伊瑪奉阿胡拉·瑪茲達之命所建之封閉地下避難所,以使生命跨越即將到來的災難性寒冬而得存。與挪亞方舟傳統之結構性平行,以及間接與伊甸傳統之平行,顯而易見;精巧的封閉避難所意象是更廣樂園—洪水模式中較接近的印—伊朗平行之一。
 
-Hesiod's **Golden Race / Golden Age** tradition in *Works and Days* describes a prior race of humans who lived "in ease and peace upon their lands with many good things" before the gods replaced them with progressively lesser races. The structural parallel to the Genesis 5 long-lived patriarchs and the broader Edenic / antediluvian tradition is evident, with the Hesiodic tradition preserving the temporal-progression (paradise lost, succeeding ages of decline) more strongly than the Hebrew tradition does.
+### 希臘之赫斯珀里得斯園與黃金時代
 
-The **Plato Atlantis tradition** (treated more fully in the [Antediluvian](../antediluvian/) entry) is structurally related but distinct, treating the lost civilization rather than the original paradise. The corpus reads Hesperides, the Golden Race, and Atlantis as three distinct Greek-tradition fragments preserving different aspects of the same underlying antediluvian historical situation.
+希臘神話於 **赫斯珀里得斯之園** 中保存了一項樂園原初場所的傳統 —— 一處位於世界西緣、由赫斯珀里得斯仙女所看顧之園,內含赫拉自蓋亞所獲新婚之禮的金蘋果,由龍拉冬看守。與伊甸的結構性平行相當引人注目:位於具體地理位置的園(雖位於世界的西緣而非東緣);具特殊意義的果樹;蛇形守護者;與神聖起源的聯結。
 
-### Egyptian Field of Reeds
+赫西俄德於《工作與時日》中的 **黃金種族 / {% wiki(slug="golden-age") %}黃金時代{% end %}** 傳統,描述先前一群人類「於其地上以多善之物悠然安和而居」,在被諸神以後續較低等的種族取代之前。與《創世記》第 5 章長壽諸族長以及更廣伊甸 / 前洪水傳統之結構性平行顯而易見,赫西俄德傳統較希伯來傳統更強烈地保存了時序遞進(失去樂園、相繼衰落之時代)。
 
-The Egyptian **Field of Reeds** (*Sekhet-Aaru*, "Field of Rushes") is the paradisiacal afterlife destination of the righteous in Egyptian religion, described in the *Book of the Dead* and elsewhere as a fertile region where the deceased lives in peace and abundance. The structural parallels to Eden are limited — the Egyptian tradition treats the paradisiacal place as the *destination* of the righteous after death rather than as the *origin* of humanity — but certain features are convergent: the agricultural abundance, the presence of waterways, the freedom from suffering and want.
+**柏拉圖之亞特蘭提斯傳統**(於{% wiki(slug="antediluvian") %}前洪水期{% end %}條目中有更完整處理)在結構上相關但有別,處理失落的文明而非原初樂園。文集將赫斯珀里得斯、黃金種族與亞特蘭提斯讀作希臘傳統中保存相同底層前洪水歷史處境之不同面向的三項不同片段。
 
-The Egyptian *zep tepi* tradition ("the first time"), referenced briefly in the [Antediluvian](../antediluvian/) entry, is a closer parallel to the Edenic-origin tradition than the Field of Reeds is. *Zep tepi* refers to a primordial period when the gods walked among men and established the cosmic order; the structural parallel to the Eden period (when the alliance was directly present on Earth, before the post-Eden withdrawal) is evident.
+### 埃及之蘆葦之野
 
-### Hindu Jambudvīpa
+埃及之 **蘆葦之野**(*Sekhet-Aaru*,「蘆葦之野」)為埃及宗教中義人之樂園來世目的地,於《亡靈書》及其他著作中被描述為亡者在和平與豐裕中生活之豐饒地區。與伊甸的結構性平行有限 —— 埃及傳統將樂園之地視為義人死後之 *目的地*,而非人類之 *起源* —— 但某些特徵仍匯合:農業豐裕、水道之存在、免於痛苦與匱乏。
 
-The Hindu cosmological tradition includes **Jambudvīpa**, the central continent of the world in Puranic cosmology, named for the great *Jambu* tree (the rose-apple) at its center. Jambudvīpa is described as a fertile, paradisiacal land in early Puranic accounts, with the *Jambu* tree as its central feature and with various rivers flowing from it. The structural parallels to Eden are several: a central tree with special significance, a paradisiacal land, rivers flowing from a central source, association with origins.
+埃及之 *zep tepi* 傳統(「第一時期」),於{% wiki(slug="antediluvian") %}前洪水期{% end %}條目中簡略提及,較蘆葦之野更接近伊甸起源傳統。*zep tepi* 指涉一個諸神行於人間並確立宇宙秩序的原初時期;與伊甸時期(聯盟在後伊甸撤回之前直接臨在於地球之時)之結構性平行顯而易見。
 
-The broader Hindu tradition includes elaborate *yuga* cycles (treated in the [Antediluvian](../antediluvian/) entry) describing prior ages of progressively higher human capacity and spiritual achievement. The *Krita Yuga* — the first and highest yuga — is described in terms structurally close to the Edenic tradition: long human lifespans, direct contact with the divine, freedom from suffering and disease. The corpus reads the Jambudvīpa-and-yuga tradition as preserving fragmentary memory of the antediluvian period and the original alliance-creation context, with the Hindu tradition having developed its own elaborate cosmological structure around this preserved memory.
+### 印度之贍部洲
 
-### Mesoamerican prior worlds
+印度宇宙論傳統包括 **贍部洲**(Jambudvīpa),即往世書宇宙論中世界的中央大陸,以位於其中心的大 *Jambu* 樹(蓮霧樹)為名。早期往世書記述將贍部洲描述為豐饒、樂園般之地,以 *Jambu* 樹為其中心特徵,並有多條河流自其流出。與伊甸的結構性平行有若干:具特殊意義之中心樹、樂園之地、自中心源頭流出的河、與起源的關聯。
 
-The Mesoamerican **prior-worlds tradition**, preserved most fully in the *Popol Vuh* and various Aztec and Maya sources, describes a sequence of prior worlds (or "suns") destroyed by the gods and replaced. While not strictly an Edenic-paradise tradition, the structural parallel to the antediluvian-and-Flood pattern is striking, and the prior worlds are typically described as ages of greater human and divine intimacy than the present age. The detailed treatment of the Mesoamerican tradition lives in the [Antediluvian](../antediluvian/) entry; what matters here is that the broader pattern of paradise-original-and-prior-age recurs in Mesoamerica as in the other major cultural areas.
+更廣的印度傳統包括精巧的 *yuga* 循環(於{% wiki(slug="antediluvian") %}前洪水期{% end %}條目中處理),描述先前漸高人類能力與靈性成就之時代。*Krita Yuga* —— 第一個亦為最高的 yuga —— 被以結構上接近伊甸傳統的詞語描述:漫長的人類壽命、與神聖直接接觸、免於痛苦與疾病。文集將贍部洲與 yuga 傳統讀作保存了前洪水時期與原初聯盟創造脈絡的片段記憶,而印度傳統於此保存的記憶上發展了其自身精巧的宇宙論結構。
 
-### The convergence
+### 中美洲之先前世界
 
-The corpus's working position on the comparative-religion question is that the global recurrence of paradise-origin, prior-age, and lost-civilization traditions across geographically and temporally disconnected cultures is evidence of a shared underlying historical event whose memory was preserved in fragmentary form across the various human populations descended from the seven Earth lineages. The specific identification of any particular tradition's content with specific Eden-period events requires case-by-case analysis rather than blanket equivalence — some traditions preserve closer memory of the original referents than others, and the post-Flood transmission across multiple millennia has produced substantial variation in what each tradition preserves and how. The corpus refuses both the popular ancient-astronaut tendency to treat all such traditions as direct memories of identical events and the mainstream comparative-religion tendency to treat them as independent mythological constructions of their respective cultures.
+中美洲之 **先前世界傳統**,於《波波爾·烏》及各種阿茲特克與馬雅源典中保存得最完整,描述一系列由諸神所毀滅並取代之先前世界(或「太陽」)。雖然嚴格而言並非伊甸樂園傳統,但與前洪水—洪水模式之結構性平行相當引人注目,且先前世界通常被描述為較當今時代具更大人類與神聖親密性之時代。中美洲傳統之詳盡處理見於{% wiki(slug="antediluvian") %}前洪水期{% end %}條目;此處重要者為:樂園原初與先前時代之更廣模式同樣於中美洲復現,如同於其他主要文化區域。
 
-## See also
+### 匯合
 
-- [Adam and Eve](../adam-and-eve/)
-- [Genesis](../genesis/)
-- [Elohim](../elohim/)
-- [Yahweh](../yahweh/)
-- [Lucifer](../lucifer/)
-- [Serpent](../serpent/)
-- [Tree of Life](../tree-of-life/)
-- [Tree of the Knowledge of Good and Evil](../tree-of-knowledge/)
-- [Cherubim](../cherubim/)
-- [Antediluvian](../antediluvian/)
-- [Pangaea](../pangaea/)
-- [Great Flood](../great-flood/)
-- [Nephilim](../nephilim/)
-- [Sons of Elohim](../sons-of-elohim/)
-- [Cain and Abel](../cain-and-abel/)
-- [Noah](../noah/)
-- [Hebrews](../hebrews/)
-- [Age of Leo](../timeline/age-of-leo/)
-- [Age of Cancer](../timeline/age-of-cancer/)
-- [Age of Gemini](../timeline/age-of-gemini/)
-- [Dilmun](../dilmun/)
-- [Atlantis](../atlantis/)
-- [Göbekli Tepe](../gobekli-tepe/)
-- [Jean Sendy](../jean-sendy/)
-- [Mauro Biglino](../mauro-biglino/)
-- [Paul Anthony Wallis](../paul-anthony-wallis/)
-- [*Message from the Designers*](../library/message-from-the-designers/)
-
-## References
-
-Vorilhon, Claude (Raël). *The Book Which Tells the Truth* (1974), chapter 2, "Truth"; collected in *Message from the Designers*.
-
-Vorilhon, Claude (Raël). *Let's Welcome the Extraterrestrials* (1979); collected in *Message from the Designers*.
-
-Sendy, Jean. *Ces dieux qui firent le ciel et la terre*. Robert Laffont, 1969. English: *Those Gods Who Made Heaven and Earth*. Berkley, 1972.
-
-Sendy, Jean. *Les cahiers de cours de Moïse*. Robert Laffont, 1974.
-
-Biglino, Mauro. *Il Libro che cambierà per sempre le nostre idee sulla Bibbia*. Uno Editori, 2010.
-
-Biglino, Mauro. *La Bibbia non parla di Dio*. Mondadori, 2015.
-
-Biglino, Mauro, and Giorgio Cattaneo. *The Naked Bible: The Truth About the Most Famous Book in History*. Uno, 2022.
-
-Wallis, Paul Anthony. *Escaping from Eden*. 6th Books, 2020.
-
-Wallis, Paul Anthony. *The Scars of Eden*. 6th Books, 2021.
-
-Wallis, Paul Anthony. *Echoes of Eden*. 6th Books, 2021.
-
-Wallis, Paul Anthony. *The Eden Conspiracy*. 6th Books, 2024.
-
-*Biblia Hebraica Stuttgartensia*. Deutsche Bibelgesellschaft, 4th rev. ed., 1997.
-
-Sarna, Nahum. *Genesis: The JPS Torah Commentary*. Jewish Publication Society, 1989.
-
-Westermann, Claus. *Genesis 1–11: A Continental Commentary*. Fortress, 1994.
-
-Cassuto, Umberto. *A Commentary on the Book of Genesis*. Magnes Press, 1961.
-
-*The Assyrian Dictionary of the Oriental Institute of the University of Chicago* (CAD). Volume E.
-
-Halloran, John A. *Sumerian Lexicon*. Logogram Publishing, 2006.
-
-Zarins, Juris. "The Land of Eden: Its Geographic Setting." *Smithsonian Magazine*, May 1987.
-
-Rohl, David. *Legend: The Genesis of Civilisation*. Century, 1998.
-
-Oppenheimer, Stephen. *Eden in the East: The Drowned Continent of Southeast Asia*. Weidenfeld & Nicolson, 1998.
-
-Kramer, Samuel Noah, and John Maier. *Myths of Enki, the Crafty God*. Oxford University Press, 1989.
-
-Lambert, W. G., and A. R. Millard. *Atra-ḫasīs: The Babylonian Story of the Flood*. Oxford, 1969.
-
-Boyce, Mary. *Zoroastrians: Their Religious Beliefs and Practices*. Routledge, 2nd ed., 2001.
-
-"Garden of Eden." *Encyclopaedia Britannica*. <https://www.britannica.com/topic/Garden-of-Eden>
-
-"Garden of Eden." *Wikipedia*. <https://en.wikipedia.org/wiki/Garden_of_Eden>
-
-"Eden, Garden of." *Jewish Encyclopedia*. <https://www.jewishencyclopedia.com/articles/5428-eden-garden-of>
-
-"Dilmun." *Encyclopaedia Britannica*. <https://www.britannica.com/place/Dilmun>
-
-"Hesperides." *Encyclopaedia Britannica*. <https://www.britannica.com/topic/Hesperides>
-
-"Paradise (etymology)." *Online Etymology Dictionary*. <https://www.etymonline.com/word/paradise>
+文集對比較宗教問題的工作立場是:樂園起源、先前時代與失落文明傳統於地理與時間上不相連之文化中之全球復現,是一項共享之底層歷史事件之證據,其記憶以片段形式保存於由七支地球譜系所出之各種人類群體中。將任一特定傳統之內容與具體伊甸期事件之具體認定,需要逐案分析而非一律等同 —— 某些傳統較其他傳統保存了更接近原指涉物的記憶,而跨數千年的後洪水傳承在每項傳統所保存者及保存方式上產生了實質的變異。文集既拒絕通俗古代太空人之傾向(將所有此類傳統視為對相同事件的直接記憶),亦拒絕主流比較宗教之傾向(將其視為各自文化之獨立神話建構)。

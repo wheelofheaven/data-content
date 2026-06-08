@@ -10,15 +10,123 @@ featured_order = 7
 category = "Places & Locations"
 editorial_pass = "2026-05"
 entry_type = "place"
+claim_type = "inferred"
 alternative_names = ["Garden of Eden", "gan-ʿĒden", "גַּן־עֵדֶן", "Paradise"]
-see_also = [
-    { title = "Adam and Eve", path = "wiki/adam-and-eve", description = "The two first humans placed in the garden." },
-    { title = "Tree of Life", path = "wiki/tree-of-life", description = "One of the two named trees at the centre of the garden." },
-    { title = "Tree of the Knowledge of Good and Evil", path = "wiki/tree-of-the-knowledge-of-good-and-evil", description = "The other named tree — the one with the prohibition." },
-    { title = "Serpent", path = "wiki/serpent", description = "The figure that initiates the rupture of the garden state." },
-    { title = "Genesis", path = "wiki/genesis", description = "The text in which the garden narrative is set." },
-]
 timeline = ["leo", "cancer"]
+
+see_also = [
+    { title = "Adam and Eve", path = "/wiki/adam-and-eve/", description = "The two first humans placed in the garden." },
+    { title = "Tree of Life", path = "/wiki/tree-of-life/", description = "One of the two named trees at the centre of the garden." },
+    { title = "Tree of the Knowledge of Good and Evil", path = "/wiki/tree-of-the-knowledge-of-good-and-evil/", description = "The other named tree — the one with the prohibition." },
+    { title = "Serpent", path = "/wiki/serpent/", description = "The figure that initiates the rupture of the garden state." },
+    { title = "Genesis", path = "/wiki/genesis/", description = "The text in which the garden narrative is set." },
+    { title = "Elohim", path = "/wiki/elohim/", description = "The civilisational designation for the alliance whose Israel team operated in the Eden region." },
+    { title = "Yahweh", path = "/wiki/yahweh/", description = "The Council-leader figure whose policy structured the post-Eden settlement." },
+    { title = "Lucifer", path = "/wiki/lucifer/", description = "The dissenting-faction leader whose disclosure produced the Genesis 3 episode." },
+    { title = "Antediluvian", path = "/wiki/antediluvian/", description = "The pre-Flood period across which the broader Eden civilisation developed." },
+    { title = "Pangaea", path = "/wiki/pangaea/", description = "The antediluvian supercontinent on which Eden was located." },
+    { title = "Great Flood", path = "/wiki/great-flood/", description = "The Age-of-Gemini event that closed Eden's operational period." },
+    { title = "Hebrew Bible", path = "/wiki/hebrew-bible/", description = "The principal scriptural source for the Eden narrative." },
+    { title = "Bible", path = "/wiki/bible/", description = "The broader textual tradition within which Genesis is preserved." },
+    { title = "Doubled Signature", path = "/wiki/doubled-signature/", description = "The corpus principle by which cultural traditions register memory of underlying historical events." },
+    { title = "Hebrews", path = "/wiki/hebrews/", description = "The direct genetic descendants of the Israel-team-synthesised first humans." },
+]
+
+footnotes = [
+    { content = "The Hebrew word *gan*, conventionally translated 'garden,' derives from the root *g-n-n* meaning 'to enclose, to protect, to defend' — the same root behind *ginah* ('garden, enclosure') and *meginah* ('shield, protection'). The strong sense of *gan* is therefore an enclosed, protected, controlled space, with the boundary not merely ornamental but functional. The corpus's reading of the *gan-ʿĒden* as a functional enclosed installation operates from this etymological ground. The Old Persian *pairi-daēza* ('walled enclosure'; via Greek *paradeisos*, source of English 'paradise') preserves the same semantic content across an independent linguistic tradition, providing typological confirmation: across multiple ancient cultures, the original 'paradise' is specifically a bounded and protected space, not an open garden in the modern English sense." },
+    { content = "Genesis 2:10-14 names four rivers flowing out of Eden, two unambiguously identifiable with extant rivers (Tigris, Euphrates) and two not (Pishon, Gihon). Classical and modern proposals have variously identified the Pishon and Gihon with the Nile, Ganges, Indus, Araxes, Karun, Wadi al-Rummah, or the Aras — each with textual or geographic problems. The corpus's reading reframes the puzzle: the four-rivers passage describes the antediluvian Eden region's hydrology, no longer extant in its original form following the Flood-event continental rearrangement. The names *Tigris* and *Euphrates* were preserved across the catastrophe by post-Flood survivors who attached them to rivers in the post-Flood Mesopotamian region associated with the original referents." },
+    { content = "The framework's 'supercontinent' is not the conventional Pangaea of mainstream geology. Conventional Pangaea assembled approximately 335 million years ago and broke apart approximately 175 million years ago, with continental drift unfolding over hundreds of millions of years through mantle convection. The corpus, following the Raëlian source material, reads the breakup as a catastrophic event during the Flood of the Age of Gemini c. 6,690 BCE, with the observed continental drift since then as the residual momentum of that event. The structural correspondence — a single consolidated landmass surrounded by a single ocean — is the same; the timing and mechanism are radically different." },
+    { content = "The framework reads the prohibition concerning the Tree of the Knowledge of Good and Evil as corresponding to a specific restriction on access to the scientific and technological archives of the Israel team — the materials whose use would have given the humans capacities the home-world authorities did not want them to acquire. The Lucifer-faction disclosure narrated as the serpent's communication is the transmission of this restricted knowledge against the directives of the home-world Council. The transgression on this reading is not a moral fall but a transmission of restricted technical knowledge, with the post-disclosure consequences (the recognition of nakedness, the fashioning of clothing, the confrontation, the expulsion) registering the political-operational rather than moral-theological consequence." },
+    { content = "Biglino proposes a non-standard etymology of Sumerian-Akkadian *E-Din* as 'house of the righteous,' reading 'righteous' as members of the Elohim lineage. This gloss is distinctively Biglino's and is not the standard Assyriological reading; the consensus reading (Halloran 2006; the Assyrian Dictionary of the Oriental Institute) remains 'plain' or 'steppe.' The corpus adopts the standard reading rather than Biglino's, since the framework's interpretive case does not depend on the non-standard gloss and is on more solid ground without it. Biglino's broader strict-translational methodology — reading the Hebrew word-for-word and accepting the concrete textual content rather than allegorising it — is what the corpus draws from his work, independently of the specific E-Din proposal." },
+]
+
+[[extra.references]]
+id = "the-book-which-tells-the-truth"
+note = "Vorilhon (Raël, 1974), chapter 2 'Truth'; the principal Raëlian source for the framework's reading of the Eden narrative."
+
+[[extra.references]]
+id = "lets-welcome-the-extraterrestrials"
+note = "Vorilhon (Raël, 1979); develops the broader political-institutional framework within which Eden's post-creation events occurred."
+
+[[extra.references]]
+id = "intelligent-design-message-from-the-designers"
+note = "Collected canonical edition of the three Raëlian source-material books, including the Eden material."
+
+[[extra.references]]
+id = "sendy-ces-dieux"
+note = "Sendy (1969); foundational French articulation; principal scholarly antecedent of the corpus's adopted reading of Eden."
+
+[[extra.references]]
+id = "sendy-cahiers-moise"
+note = "Sendy (1974); develops the Mosaic-period framework with substantial Eden-period background material."
+
+[[extra.references]]
+id = "biglino-il-libro"
+note = "Biglino (2010); first principal articulation of the strict-literal Hebrew reading, including the gan-ʿĒden enclosed-installation argument."
+
+[[extra.references]]
+id = "biglino-bibbia-non-parla"
+note = "Biglino (2015); articulation of the argument that mainstream translation obscures the Hebrew Bible's original content about the Elohim and the Edenic installations."
+
+[[extra.references]]
+id = "the-naked-bible"
+note = "Biglino & Cattaneo (2022); strict-literal Hebrew translation of Genesis including the Eden passages."
+
+[[extra.references]]
+id = "escaping-from-eden"
+note = "Wallis (2020); the broader articulation that the Elohim of Genesis are physically present technological beings."
+
+[[extra.references]]
+id = "the-scars-of-eden"
+note = "Wallis (2021); comparative articulation of cross-cultural memory of the Eden-period events."
+
+[[extra.references]]
+id = "echoes-of-eden"
+note = "Wallis (2021); develops the comparative-mythological argument for substantial cross-cultural preservation."
+
+[[extra.references]]
+id = "wallis-eden-conspiracy"
+note = "Wallis (2024); the most direct book-length engagement with the Genesis 2-3 narrative as record of political crisis between alliance factions."
+
+[[extra.references]]
+id = "sarna-genesis-jps"
+note = "Sarna (1989); JPS Torah Commentary on Genesis; principal contemporary Jewish-scholarly treatment of the Eden passages."
+
+[[extra.references]]
+id = "westermann-genesis-1-11"
+note = "Westermann (1994); continental commentary on Genesis 1-11; foundational critical commentary on the primeval history."
+
+[[extra.references]]
+id = "cassuto-genesis"
+note = "Cassuto (1961); Jewish-scholarly commentary opposing the documentary-hypothesis fragmentation of the Eden narrative."
+
+[[extra.references]]
+id = "halloran-sumerian-lexicon"
+note = "Halloran (2006); accessible reference for the Sumerian EDEN / edinu etymological background."
+
+[[extra.references]]
+id = "rohl-legend-genesis"
+note = "Rohl (1998); Lake Urmia hypothesis articulation; one principal modern Eden-location proposal."
+
+[[extra.references]]
+id = "oppenheimer-eden-east"
+note = "Oppenheimer (1998); Sundaland Eden hypothesis; locates the originary cultural source in submerged Southeast Asia."
+
+[[extra.references]]
+id = "kramer-enki-myths"
+note = "Kramer & Maier (1989); the Enki mythological corpus including the Dilmun and Enki-Ninhursag material structurally parallel to the Edenic tradition."
+
+[[extra.references]]
+id = "atra-hasis-lambert-millard"
+note = "Lambert & Millard (1969); critical edition of the Babylonian flood narrative; ancient Near Eastern context for the Eden-and-Flood tradition."
+
+[[extra.references]]
+id = "boyce-zoroastrians"
+note = "Boyce (rev. ed. 2001); the Persian-Zoroastrian Vara-of-Yima and broader paradise-and-flood tradition closely parallel to Eden."
+
+[[extra.references]]
+id = "sitchin-12th-planet"
+note = "Sitchin (1976); the Sumerian E.DIN reading; principal popular ancient-astronaut anchor for the broader Edenic interpretive tradition."
 
 [extra.infobox]
 hebrew_name = "עֵדֶן (region); גַּן־עֵדֶן (the garden in Eden)"
@@ -48,7 +156,7 @@ A separate and older etymological connection runs to the Sumerian and Akkadian. 
 
 The two etymologies are not necessarily in conflict; they may reflect different stages of the term's history. The older Mesopotamian sense ("plain, steppe") may have been the original referent — a wide open region, presumably containing within it the cultivated and enclosed garden the Genesis text specifically describes. The Hebrew "place of delight" gloss may reflect a later folk etymology or theological development that read the inherited place-name through the lens of the garden's described features. The framework's reading of Eden as a *region* containing the enclosed *garden* is consistent with the older Sumerian-Akkadian sense: the Eden region is the broader steppe-territory of the Israel team's operations, with the garden (*gan*) being a specific enclosed installation within it.
 
-The Hebrew word *gan*, conventionally translated "garden," derives from the root *g-n-n*, "to enclose, to protect, to defend" — the same root behind *ginah* ("garden, enclosure") and *meginah* ("shield, protection"). The strong sense of *gan* is therefore an enclosed, protected, controlled space, with the boundary not merely ornamental but functional. This sense of *gan* will become significant in the Modern reinterpretations section below.
+The Hebrew word *gan*, conventionally translated "garden," derives from the root *g-n-n*, "to enclose, to protect, to defend" — the same root behind *ginah* ("garden, enclosure") and *meginah* ("shield, protection"). The strong sense of *gan* is therefore an enclosed, protected, controlled space, with the boundary not merely ornamental but functional{{ footnote(id="1") }}. This sense of *gan* will become significant in the Modern reinterpretations section below.
 
 ## In primary sources
 
@@ -100,9 +208,8 @@ The **David Rohl** hypothesis (in *Legend: The Genesis of Civilisation*, 1998) p
 
 The corpus's reading of the four-rivers passage is distinct from both the mainstream biblical-scholarly position (which generally treats the rivers as mythological or as preserving general geographic memory rather than as a precise identification puzzle) and the alternative-interpretation hypotheses (which treat the puzzle as solvable by careful work with the present-day geography).
 
-On the corpus's reading, the four-rivers passage is a description of the antediluvian Eden region's hydrology, no longer extant in its original form. The supercontinent on which the antediluvian Eden was located broke apart catastrophically during the Flood event of the Age of Gemini (c. 6,690 BCE on the corpus's chronology), with the resulting fragments becoming the modern continents through subsequent drift.[^pangaea] The pre-Flood river system that included the Pishon, Gihon, Tigris, and Euphrates as four streams flowing from a common source no longer exists in that configuration. The names *Tigris* and *Euphrates* were preserved across the catastrophe by the post-Flood survivors, who attached them to rivers in the post-Flood Mesopotamian region that the survivors associated with the original referents, but the post-Flood rivers are not the same as the antediluvian rivers — the geographic substrate has been rearranged.
+On the corpus's reading, the four-rivers passage is a description of the antediluvian Eden region's hydrology, no longer extant in its original form{{ footnote(id="2") }}. The supercontinent on which the antediluvian Eden was located broke apart catastrophically during the Flood event of the Age of Gemini (c. 6,690 BCE on the corpus's chronology), with the resulting fragments becoming the modern continents through subsequent drift.{{ footnote(id="3") }} The pre-Flood river system that included the Pishon, Gihon, Tigris, and Euphrates as four streams flowing from a common source no longer exists in that configuration. The names *Tigris* and *Euphrates* were preserved across the catastrophe by the post-Flood survivors, who attached them to rivers in the post-Flood Mesopotamian region that the survivors associated with the original referents, but the post-Flood rivers are not the same as the antediluvian rivers — the geographic substrate has been rearranged.
 
-[^pangaea]: The framework's "supercontinent" is not the conventional Pangaea of mainstream geology. Conventional Pangaea assembled approximately 335 million years ago and broke apart approximately 175 million years ago, with continental drift unfolding over hundreds of millions of years through mantle convection. The corpus, following the Raëlian source material, reads the breakup as a catastrophic event during the Flood of the Age of Gemini c. 6,690 BCE, with the observed continental drift since then as the residual momentum of that event. The structural correspondence — a single consolidated landmass, surrounded by a single ocean — is the same; the timing and mechanism are radically different. The conflict with mainstream geological dating is substantial and is treated openly in the [Pangaea](../pangaea/), [Great Flood](../great-flood/), and [Antediluvian](../antediluvian/) entries.
 
 The general identification of the Eden region with the eastern Mediterranean / Levantine portion of the antediluvian supercontinent — the area that, after the breakup, would become the modern Levant including present-day Israel, Lebanon, Syria, southeastern Turkey, and the surrounding coastlands of Greece, Cyprus, and the Mediterranean basin — is solid on the corpus's reading. This identification is grounded in the Raëlian source material's specific identification of the Israel team's territory as the precursor to what would become the modern Israel. The pre-Flood Eden region is, on this reading, the antediluvian configuration of the territory whose post-Flood remnant is the present Levantine area.
 
@@ -122,7 +229,7 @@ Eden was occupied, on the corpus's reading, across a specific period that maps t
 
 The Israel team's operations in the Eden region began, on the framework's reading, during the broader Age of Leo (c. 11,010 – 8,850 BCE) — the sixth precessional age of the creation project, in which the seven creator teams synthesized the land animals and ultimately the first humans. The Israel team's specific work in Eden during late Leo culminated in the creation of the first humans (Adam and Eve, on the Genesis names) at approximately 11,375 BCE — the date derived from the 666-generation calculation anchoring the framework's chronology.
 
-During this initial operational phase, the garden was the site of active biological synthesis. The team's laboratories produced the first humans through the genetic-design and laboratory-synthesis techniques the Elohim civilization possessed; the resulting individuals were placed in the prepared garden environment and instructed in the languages, sciences, and arts that the team judged appropriate for them. The instruction was deliberately bounded: the humans were granted free use of the educational and biological resources of the garden, but the prohibition concerning the Tree of the Knowledge of Good and Evil corresponded to a specific restriction on access to the scientific and technological archives of the team — the materials whose use would have given the humans capacities the team's authorities, on the home world, did not want them to acquire.
+During this initial operational phase, the garden was the site of active biological synthesis{{ cite(id="the-book-which-tells-the-truth", text="[1]", title="Vorilhon (Raël), *The Book Which Tells the Truth* (1974), chapter 2 'Truth' — the principal Raëlian source for the framework's reading of Eden") }}. The team's laboratories produced the first humans through the genetic-design and laboratory-synthesis techniques the Elohim civilization possessed; the resulting individuals were placed in the prepared garden environment and instructed in the languages, sciences, and arts that the team judged appropriate for them. The instruction was deliberately bounded: the humans were granted free use of the educational and biological resources of the garden, but the prohibition concerning the Tree of the Knowledge of Good and Evil corresponded to a specific restriction on access to the scientific and technological archives of the team — the materials whose use would have given the humans capacities the team's authorities, on the home world, did not want them to acquire{{ footnote(id="4") }}.
 
 ### The political crisis: late Leo / early Cancer
 
@@ -134,19 +241,19 @@ The transgression, on this reading, is not a moral fall but a transmission of re
 
 The expulsion from the garden, narrated in Genesis 3:23–24, is the framework's reading of the operational consequence of the political crisis. The humans are removed from the controlled garden environment and placed outside its boundary, in the broader Eden region, required to subsist by their own labor on land that has not been specifically prepared for them. The cherubim and flaming sword at the entrance prevent their return.
 
-The political settlement at the home-world Council level, treated more fully in the [Elohim](../elohim/) entry under Internal political structure, divided the post-Eden alliance personnel into two groups. The dissenting Lucifer faction — those who had supported the disclosure — was permanently exiled on Earth, condemned to live among the humans they had chosen to enlighten. The remainder of the Israel team, plus most of the personnel from the other six creator teams, was withdrawn to the home world. The result was that the post-expulsion Eden region contained the human population (now with restricted scientific knowledge) and a small permanent Elohim presence (the exiled Lucifer faction), with the broader alliance maintaining surveillance from a distance.
+The political settlement at the home-world Council level, treated more fully in the {% wiki(slug="elohim") %}Elohim{% end %} entry under Internal political structure, divided the post-Eden alliance personnel into two groups. The dissenting Lucifer faction — those who had supported the disclosure — was permanently exiled on Earth, condemned to live among the humans they had chosen to enlighten. The remainder of the Israel team, plus most of the personnel from the other six creator teams, was withdrawn to the home world. The result was that the post-expulsion Eden region contained the human population (now with restricted scientific knowledge) and a small permanent Elohim presence (the exiled Lucifer faction), with the broader alliance maintaining surveillance from a distance.
 
 ### The post-expulsion period: Age of Cancer
 
 The Age of Cancer (c. 8,850 – 6,690 BCE) is the period of the antediluvian human civilization that the post-expulsion Eden region, and its broader continental expansion, supported. The Genesis 4–6 narrative covers this period in compressed form: the Cain-and-Abel conflict and Cain's exile to the land of Nod east of Eden; the genealogies of Cain's line (Genesis 4:17–24), naming the founders of pastoral nomadism, music, and metallurgy; the parallel genealogy of Seth's line (Genesis 5), with the long lifespans of the patriarchs from Adam to Noah; the *benei ha-Elohim* episode (Genesis 6:1–4), with the Lucifer-faction Elohim taking human women as wives and producing the *Nephilim*; and the divine assessment leading to the Flood announcement (Genesis 6:5–8).
 
-Across this period, the Eden region itself remained inhabited by the descendants of the first humans, with the longevity treatment granted to the Sethite patriarchal leadership maintaining institutional continuity across multiple ordinary generations. The exiled Lucifer faction continued to teach the population, refining their technical and scientific capabilities across the centuries. The broader Eden civilization — the lineage of which the Hebrews would be the post-Flood remnant — developed across the supercontinent, with the Eden region as its political and cultural center. The detailed treatment of this period lives in the [Antediluvian](../antediluvian/) entry; what matters for the present entry is that the Eden region was the political and cultural center of the most accomplished of the seven antediluvian civilizations across the entire two-thousand-year span of the Age of Cancer.
+Across this period, the Eden region itself remained inhabited by the descendants of the first humans, with the longevity treatment granted to the Sethite patriarchal leadership maintaining institutional continuity across multiple ordinary generations. The exiled Lucifer faction continued to teach the population, refining their technical and scientific capabilities across the centuries. The broader Eden civilization — the lineage of which the Hebrews would be the post-Flood remnant — developed across the supercontinent, with the Eden region as its political and cultural center. The detailed treatment of this period lives in the {% wiki(slug="antediluvian") %}Antediluvian{% end %} entry; what matters for the present entry is that the Eden region was the political and cultural center of the most accomplished of the seven antediluvian civilizations across the entire two-thousand-year span of the Age of Cancer.
 
 ### The Flood and the disruption of Eden
 
 The Flood event of the Age of Gemini (c. 6,690 BCE) ended the antediluvian world and disrupted the Eden region in ways the framework treats as catastrophic. The supercontinent broke apart; the geography reorganized; the populations of the seven antediluvian civilizations were largely destroyed, with only the small remnants preserved through the ark surviving into the post-Flood era. The Eden region in its antediluvian configuration ceased to exist. The post-Flood remnants — what would become the Levantine region of the modern world — preserved cultural memory of the original Eden, transmitted through the Sethite-Noahite line whose direct descendants the Hebrews would become, but the physical site of the antediluvian garden was no longer recoverable.
 
-The detailed treatment of the Flood event lives in the [Great Flood](../great-flood/) entry. What matters for the Eden entry is that the Flood is the event that closes Eden's operational period: after the Flood, Eden is a memory rather than a place.
+The detailed treatment of the Flood event lives in the {% wiki(slug="great-flood") %}Great Flood{% end %} entry. What matters for the Eden entry is that the Flood is the event that closes Eden's operational period: after the Flood, Eden is a memory rather than a place.
 
 ## Significance in the framework
 
@@ -170,13 +277,13 @@ Eden has been a subject of substantial modern reinterpretive scholarship across 
 
 ### Jean Sendy on Eden
 
-**Jean Sendy**'s treatment of Eden is developed across his work but is particularly concentrated in *Ces dieux qui firent le ciel et la terre* (1969) and *Les cahiers de cours de Moïse* (1974). Sendy reads the Eden narrative as a record of operational events at a specific extraterrestrial-creator site, with the strangeness of the narrative (the talking serpent, the trees with theological functions, the cherubim with flaming swords) disappearing when the underlying referents are taken seriously rather than allegorized. Sendy's specific contributions to Eden interpretation include the reading of the four rivers as an antediluvian hydrography, the identification of the cherubim with technological access controls, the reading of the Tree of Life as a biotechnical resource rather than a botanical species, and the political-rather-than-moral reading of the expulsion. Sendy's approach is philological and historiographic rather than revelatory; he reaches the framework's reading from the Hebrew text's plain sense, working from comparative-mythological evidence and internal-textual analysis. His treatment of Eden is the principal scholarly antecedent of the corpus's adopted reading.
+**Jean Sendy**'s treatment of Eden is developed across his work but is particularly concentrated in *Ces dieux qui firent le ciel et la terre* (1969){{ cite(id="sendy-ces-dieux", text="[2]", title="Sendy (1969); foundational French articulation; principal scholarly antecedent of the corpus's reading of Eden") }} and *Les cahiers de cours de Moïse* (1974){{ cite(id="sendy-cahiers-moise", text="[3]", title="Sendy (1974); develops the Mosaic-period framework with substantial Eden-period background") }}. Sendy reads the Eden narrative as a record of operational events at a specific extraterrestrial-creator site, with the strangeness of the narrative (the talking serpent, the trees with theological functions, the cherubim with flaming swords) disappearing when the underlying referents are taken seriously rather than allegorized. Sendy's specific contributions to Eden interpretation include the reading of the four rivers as an antediluvian hydrography, the identification of the cherubim with technological access controls, the reading of the Tree of Life as a biotechnical resource rather than a botanical species, and the political-rather-than-moral reading of the expulsion. Sendy's approach is philological and historiographic rather than revelatory; he reaches the framework's reading from the Hebrew text's plain sense, working from comparative-mythological evidence and internal-textual analysis. His treatment of Eden is the principal scholarly antecedent of the corpus's adopted reading.
 
 ### Mauro Biglino on Eden
 
 **Mauro Biglino**'s work on Eden is developed across his major books — *Il Libro che cambierà per sempre le nostre idee sulla Bibbia* (2010), *La Bibbia non parla di Dio* (2015), and *The Naked Bible* (2022, with Giorgio Cattaneo) — with three connected claims about the term and its referent. First, that Eden is a specific geographic region between Mesopotamia and the Caucasus rather than a metaphorical paradise. Second, that the term *gan* is properly read as a fenced, protected, enclosed space — a controlled environment rather than an open garden in the modern English sense. Third, that the *gan-ʿĒden* described in Genesis is one of several such enclosed installations operated by the biblical Elohim across the ancient world, with each functioning as an experimental laboratory in which the Elohim conducted biological work, including the synthesis of humanity.
 
-Biglino additionally proposes a non-standard etymology of the Sumerian-Akkadian *E-Din* as "house of the righteous," reading the "righteous" as members of the Elohim lineage. This gloss is distinctively Biglino's and is not the standard Assyriological reading; the consensus reading remains "plain" or "steppe." The corpus adopts the standard reading rather than Biglino's, since the framework's interpretive case does not depend on the non-standard gloss and is on more solid ground without it.
+Biglino additionally proposes a non-standard etymology of the Sumerian-Akkadian *E-Din* as "house of the righteous," reading the "righteous" as members of the Elohim lineage{{ footnote(id="5") }}. This gloss is distinctively Biglino's and is not the standard Assyriological reading; the consensus reading remains "plain" or "steppe." The corpus adopts the standard reading rather than Biglino's, since the framework's interpretive case does not depend on the non-standard gloss and is on more solid ground without it.
 
 Biglino's strict-translational methodology — reading the Hebrew word-for-word and accepting what the resulting concrete text actually says, rather than allegorizing it into theological abstraction — is the broader methodological contribution his work makes to Eden interpretation, beyond the specific *gan* and *Eden* arguments.
 
@@ -202,7 +309,7 @@ The corpus's reading does not endorse any of these specific location proposals a
 
 ### Earlier ancient-astronaut literature
 
-The broader ancient-astronaut interpretive tradition has engaged Eden at various points. **Erich von Däniken**'s *Chariots of the Gods?* (1968) treats Eden briefly as part of its broader argument about extraterrestrial visitation in ancient times. **Zecharia Sitchin**'s *The 12th Planet* (1976) and successor works treat Eden as a derivative tradition reflecting the earlier Sumerian Anunnaki narratives, with the *E.DIN* of the Sumerian texts as the underlying referent. The corpus's reading, as with the broader Sitchin tradition, registers the philological connection but does not treat Genesis as derivative from the Sumerian sources — the Hebrew tradition is read, on grounds developed in the [Genesis](../genesis/) entry, as preserving the more accurate independent record rather than as a later borrowing from the Mesopotamian sources.
+The broader ancient-astronaut interpretive tradition has engaged Eden at various points. **Erich von Däniken**'s *Chariots of the Gods?* (1968) treats Eden briefly as part of its broader argument about extraterrestrial visitation in ancient times. **Zecharia Sitchin**'s *The 12th Planet* (1976) and successor works treat Eden as a derivative tradition reflecting the earlier Sumerian Anunnaki narratives, with the *E.DIN* of the Sumerian texts as the underlying referent. The corpus's reading, as with the broader Sitchin tradition, registers the philological connection but does not treat Genesis as derivative from the Sumerian sources — the Hebrew tradition is read, on grounds developed in the {% wiki(slug="genesis") %}Genesis{% end %} entry, as preserving the more accurate independent record rather than as a later borrowing from the Mesopotamian sources.
 
 ## Comparative observations
 
@@ -228,114 +335,24 @@ Greek mythology preserves a paradisiacal-first-place tradition in the **Garden o
 
 Hesiod's **Golden Race / {% wiki(slug="golden-age") %}Golden Age{% end %}** tradition in *Works and Days* describes a prior race of humans who lived "in ease and peace upon their lands with many good things" before the gods replaced them with progressively lesser races. The structural parallel to the Genesis 5 long-lived patriarchs and the broader Edenic / antediluvian tradition is evident, with the Hesiodic tradition preserving the temporal-progression (paradise lost, succeeding ages of decline) more strongly than the Hebrew tradition does.
 
-The **Plato Atlantis tradition** (treated more fully in the [Antediluvian](../antediluvian/) entry) is structurally related but distinct, treating the lost civilization rather than the original paradise. The corpus reads Hesperides, the Golden Race, and Atlantis as three distinct Greek-tradition fragments preserving different aspects of the same underlying antediluvian historical situation.
+The **Plato Atlantis tradition** (treated more fully in the {% wiki(slug="antediluvian") %}Antediluvian{% end %} entry) is structurally related but distinct, treating the lost civilization rather than the original paradise. The corpus reads Hesperides, the Golden Race, and Atlantis as three distinct Greek-tradition fragments preserving different aspects of the same underlying antediluvian historical situation.
 
 ### Egyptian Field of Reeds
 
 The Egyptian **Field of Reeds** (*Sekhet-Aaru*, "Field of Rushes") is the paradisiacal afterlife destination of the righteous in Egyptian religion, described in the *Book of the Dead* and elsewhere as a fertile region where the deceased lives in peace and abundance. The structural parallels to Eden are limited — the Egyptian tradition treats the paradisiacal place as the *destination* of the righteous after death rather than as the *origin* of humanity — but certain features are convergent: the agricultural abundance, the presence of waterways, the freedom from suffering and want.
 
-The Egyptian *zep tepi* tradition ("the first time"), referenced briefly in the [Antediluvian](../antediluvian/) entry, is a closer parallel to the Edenic-origin tradition than the Field of Reeds is. *Zep tepi* refers to a primordial period when the gods walked among men and established the cosmic order; the structural parallel to the Eden period (when the alliance was directly present on Earth, before the post-Eden withdrawal) is evident.
+The Egyptian *zep tepi* tradition ("the first time"), referenced briefly in the {% wiki(slug="antediluvian") %}Antediluvian{% end %} entry, is a closer parallel to the Edenic-origin tradition than the Field of Reeds is. *Zep tepi* refers to a primordial period when the gods walked among men and established the cosmic order; the structural parallel to the Eden period (when the alliance was directly present on Earth, before the post-Eden withdrawal) is evident.
 
 ### Hindu Jambudvīpa
 
 The Hindu cosmological tradition includes **Jambudvīpa**, the central continent of the world in Puranic cosmology, named for the great *Jambu* tree (the rose-apple) at its center. Jambudvīpa is described as a fertile, paradisiacal land in early Puranic accounts, with the *Jambu* tree as its central feature and with various rivers flowing from it. The structural parallels to Eden are several: a central tree with special significance, a paradisiacal land, rivers flowing from a central source, association with origins.
 
-The broader Hindu tradition includes elaborate *yuga* cycles (treated in the [Antediluvian](../antediluvian/) entry) describing prior ages of progressively higher human capacity and spiritual achievement. The *Krita Yuga* — the first and highest yuga — is described in terms structurally close to the Edenic tradition: long human lifespans, direct contact with the divine, freedom from suffering and disease. The corpus reads the Jambudvīpa-and-yuga tradition as preserving fragmentary memory of the antediluvian period and the original alliance-creation context, with the Hindu tradition having developed its own elaborate cosmological structure around this preserved memory.
+The broader Hindu tradition includes elaborate *yuga* cycles (treated in the {% wiki(slug="antediluvian") %}Antediluvian{% end %} entry) describing prior ages of progressively higher human capacity and spiritual achievement. The *Krita Yuga* — the first and highest yuga — is described in terms structurally close to the Edenic tradition: long human lifespans, direct contact with the divine, freedom from suffering and disease. The corpus reads the Jambudvīpa-and-yuga tradition as preserving fragmentary memory of the antediluvian period and the original alliance-creation context, with the Hindu tradition having developed its own elaborate cosmological structure around this preserved memory.
 
 ### Mesoamerican prior worlds
 
-The Mesoamerican **prior-worlds tradition**, preserved most fully in the *Popol Vuh* and various Aztec and Maya sources, describes a sequence of prior worlds (or "suns") destroyed by the gods and replaced. While not strictly an Edenic-paradise tradition, the structural parallel to the antediluvian-and-Flood pattern is striking, and the prior worlds are typically described as ages of greater human and divine intimacy than the present age. The detailed treatment of the Mesoamerican tradition lives in the [Antediluvian](../antediluvian/) entry; what matters here is that the broader pattern of paradise-original-and-prior-age recurs in Mesoamerica as in the other major cultural areas.
+The Mesoamerican **prior-worlds tradition**, preserved most fully in the *Popol Vuh* and various Aztec and Maya sources, describes a sequence of prior worlds (or "suns") destroyed by the gods and replaced. While not strictly an Edenic-paradise tradition, the structural parallel to the antediluvian-and-Flood pattern is striking, and the prior worlds are typically described as ages of greater human and divine intimacy than the present age. The detailed treatment of the Mesoamerican tradition lives in the {% wiki(slug="antediluvian") %}Antediluvian{% end %} entry; what matters here is that the broader pattern of paradise-original-and-prior-age recurs in Mesoamerica as in the other major cultural areas.
 
 ### The convergence
 
 The corpus's working position on the comparative-religion question is that the global recurrence of paradise-origin, prior-age, and lost-civilization traditions across geographically and temporally disconnected cultures is evidence of a shared underlying historical event whose memory was preserved in fragmentary form across the various human populations descended from the seven Earth lineages. The specific identification of any particular tradition's content with specific Eden-period events requires case-by-case analysis rather than blanket equivalence — some traditions preserve closer memory of the original referents than others, and the post-Flood transmission across multiple millennia has produced substantial variation in what each tradition preserves and how. The corpus refuses both the popular ancient-astronaut tendency to treat all such traditions as direct memories of identical events and the mainstream comparative-religion tendency to treat them as independent mythological constructions of their respective cultures.
-
-## See also
-
-- [Adam and Eve](../adam-and-eve/)
-- [Genesis](../genesis/)
-- [Elohim](../elohim/)
-- [Yahweh](../yahweh/)
-- [Lucifer](../lucifer/)
-- [Serpent](../serpent/)
-- [Tree of Life](../tree-of-life/)
-- [Tree of the Knowledge of Good and Evil](../tree-of-knowledge/)
-- [Cherubim](../cherubim/)
-- [Antediluvian](../antediluvian/)
-- [Pangaea](../pangaea/)
-- [Great Flood](../great-flood/)
-- [Nephilim](../nephilim/)
-- [Sons of Elohim](../sons-of-elohim/)
-- [Cain and Abel](../cain-and-abel/)
-- [Noah](../noah/)
-- [Hebrews](../hebrews/)
-- [Age of Leo](../timeline/age-of-leo/)
-- [Age of Cancer](../timeline/age-of-cancer/)
-- [Age of Gemini](../timeline/age-of-gemini/)
-- [Dilmun](../dilmun/)
-- [Atlantis](../atlantis/)
-- [Göbekli Tepe](../gobekli-tepe/)
-- [Jean Sendy](../jean-sendy/)
-- [Mauro Biglino](../mauro-biglino/)
-- [Paul Anthony Wallis](../paul-anthony-wallis/)
-- [*Message from the Designers*](../library/message-from-the-designers/)
-
-## References
-
-Vorilhon, Claude (Raël). *The Book Which Tells the Truth* (1974), chapter 2, "Truth"; collected in *Message from the Designers*.
-
-Vorilhon, Claude (Raël). *Let's Welcome the Extraterrestrials* (1979); collected in *Message from the Designers*.
-
-Sendy, Jean. *Ces dieux qui firent le ciel et la terre*. Robert Laffont, 1969. English: *Those Gods Who Made Heaven and Earth*. Berkley, 1972.
-
-Sendy, Jean. *Les cahiers de cours de Moïse*. Robert Laffont, 1974.
-
-Biglino, Mauro. *Il Libro che cambierà per sempre le nostre idee sulla Bibbia*. Uno Editori, 2010.
-
-Biglino, Mauro. *La Bibbia non parla di Dio*. Mondadori, 2015.
-
-Biglino, Mauro, and Giorgio Cattaneo. *The Naked Bible: {% wiki(slug="the-truth") %}The Truth{% end %} About the Most Famous Book in History*. Uno, 2022.
-
-Wallis, Paul Anthony. *Escaping from Eden*. 6th Books, 2020.
-
-Wallis, Paul Anthony. *The Scars of Eden*. 6th Books, 2021.
-
-Wallis, Paul Anthony. *Echoes of Eden*. 6th Books, 2021.
-
-Wallis, Paul Anthony. *The Eden Conspiracy*. 6th Books, 2024.
-
-*Biblia Hebraica Stuttgartensia*. Deutsche Bibelgesellschaft, 4th rev. ed., 1997.
-
-Sarna, Nahum. *Genesis: The JPS Torah Commentary*. Jewish Publication Society, 1989.
-
-Westermann, Claus. *Genesis 1–11: A Continental Commentary*. Fortress, 1994.
-
-Cassuto, Umberto. *A Commentary on the Book of Genesis*. Magnes Press, 1961.
-
-*The Assyrian Dictionary of the Oriental Institute of the University of Chicago* (CAD). Volume E.
-
-Halloran, John A. *Sumerian Lexicon*. Logogram Publishing, 2006.
-
-Zarins, Juris. "The Land of Eden: Its Geographic Setting." *Smithsonian Magazine*, May 1987.
-
-Rohl, David. *Legend: The Genesis of Civilisation*. Century, 1998.
-
-Oppenheimer, Stephen. *Eden in the East: The Drowned Continent of Southeast Asia*. Weidenfeld & Nicolson, 1998.
-
-Kramer, Samuel Noah, and John Maier. *Myths of Enki, the Crafty God*. Oxford University Press, 1989.
-
-Lambert, W. G., and A. R. Millard. *Atra-ḫasīs: The Babylonian Story of the Flood*. Oxford, 1969.
-
-Boyce, Mary. *Zoroastrians: Their Religious Beliefs and Practices*. Routledge, 2nd ed., 2001.
-
-"Garden of Eden." *Encyclopaedia Britannica*. <https://www.britannica.com/topic/Garden-of-Eden>
-
-"Garden of Eden." *Wikipedia*. <https://en.wikipedia.org/wiki/Garden_of_Eden>
-
-"Eden, Garden of." *Jewish Encyclopedia*. <https://www.jewishencyclopedia.com/articles/5428-eden-garden-of>
-
-"Dilmun." *Encyclopaedia Britannica*. <https://www.britannica.com/place/Dilmun>
-
-"Hesperides." *Encyclopaedia Britannica*. <https://www.britannica.com/topic/Hesperides>
-
-"Paradise (etymology)." *Online Etymology Dictionary*. <https://www.etymonline.com/word/paradise>

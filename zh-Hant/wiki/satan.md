@@ -1,679 +1,750 @@
 +++
-title = "撒旦"
-description = "撒旦(<span class=\"hebrew\">שָׂטָן</span>)在希伯來聖經中指“敵對者” — 與其說是實體人物,不如說是一種功能。在 Wheel of Heaven 文集中,它被讀作蛇式叛亂期間厄羅欣等級內部異見者的形象化之一。"
+title = "撒但"
+slug = "satan"
+description = "撒但(שָׂטָן,希伯來語:「敵手」、「控告者」、「對手」)是位於母星上的一位耶洛因(Eloha)形象,即耶洛因文明內部一個政治派系的領袖。該派系始終反對創造在能力上能與其締造者匹敵或超越其締造者的合成存有。撒但的立場自地球計畫開始之前即實質一貫:按耶洛因自身形像創造存有根本上具有危險,任何協定、任何監督、任何地理距離皆不可信賴以遏制此一風險。文集獨特的分析貢獻,在於審慎地將撒但與路西法、蛇與魔鬼加以區分 —— 此四位本為相異的形象與角色,但在第二聖殿時期及其後的基督教神學發展中,被西方主流宗教傳統漸進地混淆為單一的宇宙性邪惡的擬人化形象。撒但並非中世紀魔鬼學中的那位魔鬼;他是一位政治家,是議會反對黨的領袖,在整個歷史中對地球計畫持有原則性的反對立場。他在洪水後時期的具體制度性角色,是透過敵對性訪談對先知形象進行測試 —— 即希臘文新約一詞 *diabolos*(誹謗者)所描述的功能。"
 template = "wiki-page.html"
 toc = true
 
 [extra]
-translation_status = "metadata_only"
 category = "Elohim"
 editorial_pass = "2026-05"
 entry_type = "figure"
-alternative_names = ["the Adversary", "the Accuser", "the Opposition", "*ha-satan* (הַשָּׂטָן, 'the satan')", "*satan* (שָׂטָן, common noun)", "the Slanderer", "*diabolos* (διάβολος, Greek)", "the Devil (medieval-Christian theological designation, conflated)", "the Tester", "the Skeptic"]
+claim_type = "inferred"
+alternative_names = ["敵手", "控告者", "反對派", "*ha-satan*(הַשָּׂטָן,「那撒但」)", "*satan*(שָׂטָן,通名)", "誹謗者", "*diabolos*(διάβολος,希臘語)", "魔鬼(中世紀基督教神學稱謂,經混淆)", "測試者", "懷疑者"]
 timeline = ["all-ages"]
 
+see_also = [
+    { title = "路西法", path = "/wiki/lucifer/", description = "地球上的流放締造者派系領袖;伊甸揭露的執行者;在文集的四形象分類學中與撒但相區分。" },
+    { title = "蛇", path = "/wiki/serpent/", description = "在伊甸揭露角色中之路西法派系的集體;與撒但相區分。" },
+    { title = "耶和華", path = "/wiki/yahweh/", description = "議會多數派的領袖,撒但接受其洪水後的投票結果,同時繼續持守原則性反對。" },
+    { title = "永恆者議會", path = "/wiki/council-of-eternals/", description = "母星上的政治—制度結構,撒但於其中領導反對派系。" },
+    { title = "耶洛因", path = "/wiki/elohim/", description = "更廣的文明性稱謂,撒但作為特定政治派系形象於其中運作。" },
+    { title = "聯盟", path = "/wiki/the-alliance/", description = "地球計畫的締造者文明性安排,撒但派系始終對其反對。" },
+    { title = "伊甸", path = "/wiki/eden/", description = "起源的聯盟實驗室;伊甸的驅逐為撒但預測開始被印證的主要事件。" },
+    { title = "亞當與夏娃", path = "/wiki/adam-and-eve/", description = "主要的伊甸敘事人物,其違命確認了撒但的根本性憂慮。" },
+    { title = "前洪水時期", path = "/wiki/antediluvian/", description = "洪水前的時期,撒但於此期間積累了人類侵略行為的證據,以支持毀滅決定。" },
+    { title = "大洪水", path = "/wiki/great-flood/", description = "毀滅決定的執行;撒但預測得以作業性實現的事件。" },
+    { title = "宇宙鏈", path = "/wiki/cosmic-chain/", description = "洪水後的發現,該發現轉化了議會政治與撒但的制度性位置。" },
+    { title = "諸神之戰", path = "/wiki/theomachy/", description = "更廣的宇宙—政治—衝突框架,撒但的反對於其中運作。" },
+    { title = "龍", path = "/wiki/dragons/", description = "母星實驗室事故的處理;原初生物計畫的文化記憶遺留。" },
+    { title = "耶穌", path = "/wiki/jesus/", description = "新約中主要的先知測試事件(馬太福音 4:1-11;路加福音 4:1-13)。" },
+    { title = "先知", path = "/wiki/prophet/", description = "撒但的敵對性測試功能於其中運作的制度性角色。" },
+    { title = "希伯來聖經", path = "/wiki/hebrew-bible/", description = "ha-satan 形象作為議會檢察官身份之主要經典源典。" },
+]
+
+footnotes = [
+    { content = "文集對混淆機制的闡述 —— 即四位原本相異的形象(撒但、路西法、蛇、魔鬼)如何匯合為單一的宇宙性邪惡擬人化形象 —— 是透過三個主要的歷史時刻運作:後所多瑪時期教育框架的瓦解 —— 該框架先前曾保存了這些區分;波斯時期祆教二元論對第二聖殿時期猶太教的影響,提供了宇宙性善惡對立的框設;以及基督教神學將所產生的合成形象進一步發展為精密的中世紀魔鬼學。文集將此讀作原初四形象分類學被漸進失落的作業機制。" },
+    { content = "《約伯記》序言(約伯記 1-2 章)記錄 ha-satan 以完整的議會程序身份運作:該形象具有進入神聖法庭的制度性管道、以恰當的程序方式提出挑戰,並在正式的議會投票授權下運作。將《約伯記》中的 satan 解讀為「一位敵手」而非「魔鬼」之主流神學閱讀,本身即為實質的學術共識(Day 1988;Pope 1973;Habel 1985;Newsom 2003;Clines 1989-2011 於此匯合);文集的具體閱讀增添了在更廣議會框架內對敵對角色之意義的制度性—政治性闡述。" },
+    { content = "撒但的先知測試角色之制度邏輯,以敵對性訪談的方式運作:一位可被反對派的測試所動搖的先知將成為更廣使命的負擔;一位能抗拒測試的先知則可被信任。該測試實質上正是由政治反對派所進行,因為反對派出於動機的懷疑論將會暴露候選人在投入上的任何弱點。這是透過敵對性程序進行的作業性品質管制,而非個人化的宇宙性邪惡惡意。" },
+    { content = "希伯來語 *satan*(שָׂטָן)在其原初的聖經用法中是源自詞根 *s-t-n* 的通名,意為「反對」、「阻撓」、「與之為敵」。其在非神學脈絡中出現的例子(撒母耳記上 29:4 中大衛作為非利士人的敵手;列王紀上 11 章中所羅門的地緣政治對手;民數記 22 章中作為巴蘭敵手的天使),確立此詞為一種關係性—位置性的稱謂,而非專有名詞。轉為專有名詞使用 —— 以及與路西法、蛇及魔鬼的混淆 —— 是第二聖殿時期與後聖經時期的發展,文集將其讀為歷史—發展性的,而非希伯來材料的原初狀態。" },
+    { content = "希臘文新約的 *diabolos*(διάβολος)字面意思為「誹謗者」或「以言語反對者」(源自 *dia-* + *bállō*,「橫向投擲」、「以言語反對」)。其詞彙內容恰為撒但在先知測試角色中的制度性功能 —— 即提出反對、控訴、挑戰的形象。將 *diabolos* 漸進地神學化為宇宙性邪惡擬人化的「魔鬼」,遮蔽了該稱謂原初的詞彙—功能性內容。" },
+    { content = "跨文化的反對形象傳統(祆教的阿胡里曼/安格拉·曼紐;印度教阿修羅;佛教魔羅;埃及的賽特;北歐的洛基)在其各自獨特的文化—宗教框設中保存了更廣泛的原則性反對模式。文集並不要求拒絕主流的比較宗教學解釋框架 —— 文化擴散、共享的認知—原型基底,以及獨立的文化發展皆有所貢獻。文集所增添的,是底層的歷史—政治基礎:實際的耶洛因政治—制度結構,各傳統的反對形象作為其文化記憶被登錄於此。" },
+]
+
+[[extra.references]]
+id = "the-book-which-tells-the-truth"
+note = "沃里勒翁第一部雷爾派作品(1974);「撒但」一節將撒但確立為反對派系領袖,並提供主要的約伯記段落釋經。"
+
+[[extra.references]]
+id = "extraterrestrials-took-me-to-their-planet"
+note = "沃里勒翁第二部雷爾派作品(1975);「人類無法理解」之內容、前洪水期毀滅決定的脈絡、洪水後的轉變、先知測試功能,以及佩里戈爾會面之議會辯論段落。"
+
+[[extra.references]]
+id = "lets-welcome-the-extraterrestrials"
+note = "沃里勒翁第三部雷爾派作品(1979);更廣的議會政治—制度框架。"
+
+[[extra.references]]
+id = "intelligent-design-message-from-the-designers"
+note = "三部雷爾派源典書籍的合輯規範版本。"
+
+[[extra.references]]
+id = "genesis"
+locator = "創世記 3 章;創世記 6:1-4"
+note = "伊甸蛇敘事(於希伯來文本中未被認同為撒但)以及第二聖殿時期守望者傳統所依據之 benei ha-Elohim / Nephilim 材料。"
+
+[[extra.references]]
+id = "1-enoch-the-book-of-the-watchers"
+note = "第二聖殿時期守望者材料;阿撒瀉勒(Azazel)與天使叛亂敘事,取材自創世記 6:1-4。"
+
+[[extra.references]]
+id = "book-of-enoch"
+note = "更廣的以諾文集對天使叛亂敘事的鋪陳;第二聖殿時期宇宙性邪惡形象發展的主要源典。"
+
+[[extra.references]]
+id = "the-naked-bible"
+note = "比格利諾與卡塔內奧(2022);包含 satan 材料之嚴格字面希伯來文翻譯。"
+
+[[extra.references]]
+id = "the-bible-is-not-a-sacred-book"
+note = "比格利諾之嚴格字面希伯來聖經系列;主流翻譯傳統遮蔽原初希伯來文內容之基礎性語文學論證。"
+
+[[extra.references]]
+id = "the-qur-an"
+locator = "古蘭經 2:34;7:11-13;15:28-44;17:61-65;18:50;20:116;38:71-85"
+note = "古蘭經中的 Iblis / Shaytan 材料,與希伯來語 satan 具有實質平行內容。"
+
+[[extra.references]]
+id = "avesta"
+note = "祆教經典;Angra Mainyu / Ahura Mazda 的宇宙—二元論框架,實質上影響了第二聖殿時期猶太教對 satan 形象的發展。"
+
+[[extra.references]]
+id = "sendy-ces-dieux"
+note = "桑迪對耶洛因假說之基礎性法文闡述(1969);宇宙—政治動態的跨傳統閱讀。"
+
+[[extra.references]]
+id = "wallis-eden-conspiracy"
+note = "華利斯(2024);對伊甸 / 工程化文明閱讀之當代闡述,內含實質的撒但—路西法區分內容。"
+
+[[extra.references]]
+id = "day-adversary-heaven"
+note = "Day(1988);對整部希伯來聖經之 satan 形象的基礎性語文學研究,區分通名與定冠詞用法。"
+
+[[extra.references]]
+id = "pope-job"
+note = "Pope(1973);Anchor Bible 之約伯記註釋,對序言中的 ha-satan 形象有實質處理。"
+
+[[extra.references]]
+id = "habel-job"
+note = "Habel(1985);Westminster 之約伯記註釋;對 ha-satan 作為制度性反對之實質闡述。"
+
+[[extra.references]]
+id = "newsom-job-moral"
+note = "Newsom(2003);關於約伯記道德—想像結構之主要專著,包括 ha-satan 形象的制度性—敵對角色。"
+
+[[extra.references]]
+id = "clines-job-wbc"
+note = "Clines(1989-2011);Word Biblical Commentary 三卷本約伯記註釋,主要當代批判性註釋。"
+
+[[extra.references]]
+id = "russell-devil-antiquity"
+note = "Russell(1977);關於魔鬼形象歷史之主要四卷本系列首卷;古代至原始基督教時期。"
+
+[[extra.references]]
+id = "russell-satan-early-christian"
+note = "Russell(1981);早期基督教時期撒但形象發展為宇宙性邪惡擬人化之闡述。"
+
+[[extra.references]]
+id = "russell-lucifer-middle-ages"
+note = "Russell(1984);中世紀魔鬼學對混淆後撒但/路西法/魔鬼形象之發展。"
+
+[[extra.references]]
+id = "russell-mephistopheles-modern"
+note = "Russell(1986);後宗教改革時期跨西方文化中魔鬼形象之現代轉變。"
+
+[[extra.references]]
+id = "pagels-origin-satan"
+note = "Pagels(1995);關於基督教撒但形象作為對抗宗教—政治對手之邊界標誌之爭辯性—社會學起源研究。"
+
+[[extra.references]]
+id = "kelly-satan-biography"
+note = "Kelly(2006);對撒但形象橫跨猶太教與基督教傳統之主要歷史—語文學傳記。"
+
+[[extra.references]]
+id = "mcginn-antichrist"
+note = "McGinn(1994);對敵基督傳統之歷史處理,與撒但發展學術密切相鄰。"
+
+[[extra.references]]
+id = "boyce-zoroastrians"
+note = "Boyce(1979);Angra Mainyu / Ahura Mazda 的宇宙—二元論框架,實質上影響了第二聖殿時期猶太教對 satan 形象的發展。"
+
+[[extra.references]]
+id = "nickelsburg-enoch-1"
+note = "Nickelsburg(2001);Hermeneia 之以諾一書註釋;守望者傳統與創世記 6 章 Nephilim 材料之基礎性研究。"
+
+[[extra.references]]
+id = "reed-fallen-angels"
+note = "Reed(2005);以諾文獻於猶太教與基督教傳統中之接受史。"
+
+[[extra.references]]
+id = "vermes-dead-sea-scrolls"
+note = "Vermes(2004 年修訂版);死海古卷文集之易讀英文翻譯。"
+
+[[extra.references]]
+id = "vanderkam-dss-today"
+note = "VanderKam(2010 年第二版);死海古卷之易讀導論。"
+
+[[extra.references]]
+id = "bodman-poetics-iblis"
+note = "Bodman(2011);古蘭經中的 Iblis 敘事,與希伯來語 satan 形象密切平行的內容。"
+
+[[extra.references]]
+id = "awn-satan-iblis"
+note = "Awn(1983);蘇非派心理學中的 Iblis 傳統,將 Iblis 闡述為原則性反對形象。"
+
+[[extra.references]]
+id = "doniger-hindu-myths"
+note = "Doniger(1975);印度神話資料集,包括與希伯來語 satan 內容密切平行之阿修羅傳統。"
+
+[[extra.references]]
+id = "williams-mahayana"
+note = "Williams(2008 年第二版);大乘佛教教義基礎,包括魔羅傳統與先知測試功能。"
+
+[[extra.references]]
+id = "sturluson-prose-edda"
+note = "Sturluson(約 1220 年);主要的北歐神話傳統,包括與本主題具有實質平行內容的洛基形象。"
+
 [extra.infobox]
-type = "Figure; Eloha home-world political-faction leader"
-position = "Leader of the home-world political faction opposing the creation of synthetic beings capable of equaling or surpassing their makers; member of the Council of the Eternals; institutional adversarial role in the broader Elohim political structure"
-location = "Home world (the Elohim planet); never on Earth in the source-material articulation"
-political_position = "Principled opposition to the Earth program throughout its history; the position that synthetic creations capable of equaling their makers are fundamentally dangerous; advocacy for human destruction during the antediluvian crisis; continuing skeptical position post-flood while accepting the majority Council vote never to destroy humanity again"
-distinguished_from = "Lucifer (Earth-based exiled-creator faction leader, the Eden disclosure agent); the Serpent (the Lucifer faction collectively in the Eden-disclosure role); the Devil (the Greek *diabolos*, referring to Satan's institutional adversarial function); the medieval-Christian theological figure (the conflated personification of cosmic evil that combines elements from all four originally distinct figures)"
-hebrew_etymology = "*satan* (שָׂטָן), common noun derived from the Hebrew root *s-t-n* meaning 'to oppose,' 'to obstruct,' 'to be hostile to'; the noun form means 'adversary,' 'accuser,' 'opponent'; appears as common noun in non-theological contexts (political adversaries, military opponents, prosecuting attorneys); the definite-article form *ha-satan* (הַשָּׂטָן, 'the satan') is the Hebrew Bible's specific institutional designation"
-greek_designation = "*diabolos* (διάβολος, 'slanderer,' 'one who speaks against'); the Greek New Testament word for 'the devil'; in its plain linguistic meaning, 'the slanderer' — the figure who speaks against another, who attempts to impugn, who raises objections and challenges; precisely the function Satan performs in testing the prophets"
-principal_episodes = "The home-world laboratory incident and political opposition to the original biological program; the antediluvian period during which Satan accumulated evidence of human aggression; the destruction-decision period leading to the Great Flood; the post-flood Cosmic Chain discovery and Council vote; the institutional prophet-testing role across the subsequent prophetic tradition; the testing of Job (Job 1-2); the testing of Jesus (Matthew 4:1-11; Luke 4:1-13)"
-status_in_source_material = "Substantially documented; the principal source-material passages establish both Satan's specific factional-political role and the careful disentanglement from Lucifer, the Serpent, and the broader conflated tradition"
-principal_text = "*The Book Which Tells the Truth* (1974); *Extra-Terrestrials Took Me to Their Planet* (1975), 'Satan' section and 'Humans Could Not Understand' content; *timeline.epub* Age of Cancer chapter (Sections III-IV, with substantial four-figure taxonomy treatment); *timeline.epub* Age of Gemini chapter (Section III, with the Decision content); *timeline.epub* Age of Pisces chapter (the testing of Jesus content)"
+type = "形象;耶洛因母星政治派系領袖"
+position = "母星政治派系領袖,反對創造在能力上能與其締造者匹敵或超越其締造者之合成存有;永恆者議會成員;在更廣的耶洛因政治結構中擔任制度性敵對角色"
+location = "母星(耶洛因行星);在源典的闡述中,撒但從未到過地球"
+political_position = "在整個歷史中對地球計畫持原則性反對;認為能與締造者匹敵之合成造物根本上具有危險;前洪水危機期間倡議毀滅人類;洪水後繼續持懷疑立場,同時接受議會多數投票結果,即永不再毀滅人類"
+distinguished_from = "路西法(地球上的流放締造者派系領袖,伊甸揭露執行者);蛇(在伊甸揭露角色中之路西法派系集體);魔鬼(希臘語 *diabolos*,指涉撒但的制度性敵對功能);中世紀基督教神學形象(混淆後的宇宙性邪惡擬人化形象,結合了四位原本相異形象的元素)"
+hebrew_etymology = "*satan*(שָׂטָן),源自希伯來詞根 *s-t-n*(意為「反對」、「阻撓」、「與之為敵」)之通名;名詞形意為「敵手」、「控告者」、「對手」;在非神學脈絡中以通名形式出現(政治對手、軍事敵手、檢察官);定冠詞形式 *ha-satan*(הַשָּׂטָן,「那撒但」)為希伯來聖經特定的制度性稱謂"
+greek_designation = "*diabolos*(διάβολος,「誹謗者」、「以言語反對者」);希臘文新約對「魔鬼」一詞的譯法;其字面語言意義為「誹謗者」—— 即以言語反對他人、試圖控訴、提出反對與挑戰的形象;恰為撒但在測試先知時所執行的功能"
+principal_episodes = "母星實驗室事故與對原初生物計畫的政治反對;前洪水時期撒但累積人類侵略行為的證據;通往大洪水的毀滅決定時期;洪水後的宇宙鏈發現與議會投票;在其後先知傳統中的制度性先知測試角色;對約伯的測試(約伯記 1-2 章);對耶穌的測試(馬太福音 4:1-11;路加福音 4:1-13)"
+status_in_source_material = "有實質記錄;主要源典段落同時確立了撒但的具體派系—政治角色,以及與路西法、蛇及更廣混淆傳統的審慎區分"
+principal_text = "《道出真相之書》(1974);《外星人帶我到他們的行星》(1975)「撒但」一節及「人類無法理解」內容;*timeline.epub* 巨蟹時代章節(第 III–IV 節,對四形象分類學有實質處理);*timeline.epub* 雙子時代章節(第 III 節,內含決定的內容);*timeline.epub* 雙魚時代章節(對耶穌的測試內容)"
+
 +++
 
-**Satan** (שָׂטָן, Hebrew: "adversary," "accuser," "opponent") is an **Eloha figure on the home world**, the leader of the political faction within the Elohim civilization that has consistently opposed the creation of synthetic beings capable of equaling or surpassing their makers. Satan's position has been substantively consistent since before the Earth program began: the creation of beings in the Elohim's own image is fundamentally dangerous, and no protocol, no oversight, and no geographic distance can be trusted to contain the risk. When the original laboratory accident on the home world produced the first fatalities (treated more fully in the [Dragons](../dragons/) entry's home-world prologue content), Satan's faction used the incident to force the shutdown of the biological program on the home planet. When the scientists relocated to Earth to continue their work, Satan and his faction watched the Earth program with suspicion and periodically intervened, through the Council of the Eternals, to impose restrictions. When the human creation proved capable of disobedience and of the kind of behavior Satan had predicted from the start, it was Satan's voice that became loudest in the council chambers of the home world, calling for the destruction of what had been made.
+**撒但**(שָׂטָן,希伯來語:「敵手」、「控告者」、「對手」)是位於**母星上的一位耶洛因(Eloha)形象**,即耶洛因文明內部一個政治派系的領袖。該派系始終反對創造在能力上能與其締造者匹敵或超越其締造者的合成存有。撒但的立場自地球計畫開始之前即實質一貫:按耶洛因自身形像創造存有根本上具有危險,任何協定、任何監督、任何地理距離皆不可信賴以遏制此一風險。當母星上原初的實驗室事故造成首批致死(更完整的處理見{% wiki(slug="dragons") %}龍{% end %}條目中的母星序章內容),撒但派系利用該事故迫使母星本身的生物計畫關閉。當科學家遷往地球繼續其工作時,撒但與其派系以懷疑的眼光觀察地球計畫,並透過永恆者議會週期性地介入以施加限制。當人類受造物展現出違命的能力,以及撒但自始即預測之行為時,在母星議會殿堂中變得最為響亮的,正是撒但的聲音 —— 呼籲毀滅所造之物。
 
-The framework's distinctive analytical contribution is the careful disentanglement of Satan from three other distinct figures and roles that mainstream Western religious tradition has progressively conflated into a single personification of cosmic evil across the Second Temple period and the subsequent Christian-theological development. The four originally distinct figures: **Satan** (the home-world Council opposition leader, never on Earth); **Lucifer** (the Earth-based exiled-creator faction leader, the Eden disclosure agent); **the Serpent** (the Lucifer faction collectively in the Eden-disclosure role); and **the Devil** (the Greek *diabolos*, "slanderer," referring to Satan's institutional adversarial function in testing prophets). The contemporary Christian-tradition figure of Satan/Lucifer/the Devil is the result of the progressive conflation of these four distinct figures across approximately two thousand years of religious-theological development. The corpus's specific contribution is articulating the original four-figure taxonomy and registering the historical mechanism through which the conflation occurred — particularly the post-Sodom collapse of the educational framework that had previously preserved the distinctions, the Persian dualistic influence on Second Temple Judaism, and the Christian-theological elaboration of the conflated figure into the elaborate medieval demonology.
+文集獨特的分析貢獻,在於審慎地將撒但與另外三位相異的形象與角色加以區分 —— 此四位本為相異,但在第二聖殿時期及其後的基督教神學發展中,被西方主流宗教傳統漸進地混淆為單一的宇宙性邪惡擬人化形象。四位原本相異的形象為:**撒但**(母星議會反對派領袖,從未到過地球);**路西法**(地球上的流放締造者派系領袖,伊甸揭露執行者);**蛇**(在伊甸揭露角色中之路西法派系集體);以及**魔鬼**(希臘語 *diabolos*,「誹謗者」,指涉撒但在測試先知時的制度性敵對功能)。當代基督教傳統中之撒但/路西法/魔鬼形象,乃此四位相異形象在約兩千年的宗教—神學發展中漸進混淆的結果。文集的具體貢獻,在於闡述原初的四形象分類學,並登錄混淆發生的歷史機制 —— 尤其是後所多瑪時期教育框架的瓦解(該框架先前曾保存這些區分)、波斯二元論對第二聖殿時期猶太教的影響,以及基督教神學將混淆後的形象進一步發展為精密的中世紀魔鬼學{{ footnote(id="1") }}。
 
-Satan's specific characterization in the source material is principled rather than demonized. The source's own language: *"Satan was just one of the Elohim, leading, in some way, a political party on the planet, that was opposed to the creation of artificial beings in their image by other Elohim who themselves thought that they could create positive and non-violent beings."* The characterization is neither demonizing nor exonerating. It is descriptive. Satan is a politician, not a demon. He leads a party. The party has a platform. The platform has arguments. Whether the platform's arguments are correct is one of the central political questions the corpus's broader narrative is testing — the substantial argument with which Satan, Yahweh, and Lucifer have all been associated, that synthetic creations capable of equaling their makers will inevitably become dangerous, has been tested across the entire arc of human civilizational development from the Eden expulsion through the contemporary period, with the empirical evidence in mixed and contested form. The framework registers this without forcing a premature conclusion.
+撒但在源典中之具體角色刻畫是原則性的,而非妖魔化的。源典自身的措辭:*「撒但僅是耶洛因之一,在某種意義上,他在母星上領導著一個政治政黨,該政黨反對其他耶洛因按自身形像創造人造存有 —— 而那些耶洛因認為他們能夠創造正面而非暴力的存有。」*{{ cite(id="the-book-which-tells-the-truth", text="[1]", title="沃里勒翁(雷爾),《道出真相之書》(1974)—— 「撒但」一節,將撒但確立為反對派系領袖之基礎性闡述") }} 此一刻畫既非妖魔化亦非辯解性的。它是描述性的。撒但是政治家,而非魔鬼。他領導一個政黨。該政黨有政綱。政綱有論證。該政綱的論證是否正確,是文集更廣敘事正在測試的中心政治問題之一 —— 撒但、耶和華與路西法皆曾與此重要論點相關聯,即能與締造者匹敵之合成造物終將變得危險,此一論點於人類文明發展之整個弧線中皆受測試,從伊甸驅逐至當代時期皆然,其實證證據呈現混合且具爭議的形式。文集登錄此事而不強加倉促的結論。
 
-Satan's specific institutional role across the post-flood period is the testing of prophetic figures through adversarial interview. After the post-flood Council vote never again to destroy humanity (which followed the Elohim's discovery that they themselves had been created — the Cosmic Chain framework treated more fully in the [Cosmic Chain](../cosmic-chain/) entry), Satan's continuing opposition position was institutionalized through the prophet-testing function. *"Satan is still convinced of the evil in Man, but he bows before the majority of those who, behind Yahweh, think the contrary within the council of the Eternals."* The institutional logic is operational: a prophet who could be turned by Satan's testing would be a liability to the broader mission; a prophet who resisted the testing could be trusted. The testing was, in effect, an adversarial interview conducted by the political opposition specifically because the opposition's motivated skepticism would expose any weakness in the candidate's commitment. The principal documented testings — the testing of Job (Job 1-2) and the testing of Jesus (Matthew 4:1-11; Luke 4:1-13) — register the institutional procedure substantively.
+撒但在洪水後時期的具體制度性角色,是透過敵對性訪談對先知形象進行測試。在洪水後議會投票決定永不再毀滅人類之後(該投票繼耶洛因發現自身亦曾被創造而來 —— 即在{% wiki(slug="cosmic-chain") %}宇宙鏈{% end %}條目中更完整處理之宇宙鏈框架),撒但持續的反對立場透過先知測試功能而獲制度化。*「撒但仍然確信人類的邪惡,但他在議會中,於那些在耶和華身後持反對意見者的多數面前低頭。」*{{ cite(id="extraterrestrials-took-me-to-their-planet", text="[2]", title="沃里勒翁(雷爾),《外星人帶我到他們的行星》(1975)—— 洪水後轉變段落,撒但對議會多數的制度性服從") }} 制度邏輯是作業性的:一位可被撒但的測試所動搖的先知將成為更廣使命的負擔;一位能抗拒測試的先知則可被信任。該測試實質上是由政治反對派所進行的敵對性訪談,因為反對派出於動機的懷疑論將會暴露候選人在投入上的任何弱點。主要記錄的測試案例 —— 對約伯的測試({% libref(book="job-woh", chapter=1) %}約伯記 1{% end %}-{% libref(book="job-woh", chapter=2) %}2{% end %} 章){{ footnote(id="2") }} 與對耶穌的測試({% libref(book="matthew-woh", chapter=4, verse=1) %}馬太福音 4:1-11{% end %};{% libref(book="luke-woh", chapter=4, verse=1) %}路加福音 4:1-13{% end %})—— 實質性地登錄此一制度程序{{ footnote(id="3") }}。
 
-The reading is substantially source-grounded. The Raëlian source material provides explicit articulation of Satan's specific political-factional role across multiple passages in *The Book Which Tells the Truth* (1974), *Extra-Terrestrials Took Me to Their Planet* (1975), and the broader source corpus, with substantial subsequent corpus development in *timeline.epub* Age of Cancer chapter (the four-figure taxonomy), Age of Gemini chapter (the Decision content), and Age of Pisces chapter (the Jesus-testing content). The corpus's specific articulation of the conflation history — particularly the post-Sodom mechanism through which the original distinctions were lost — represents corpus development beyond what the source material directly provides, while remaining substantially anchored in the source-material's distinct treatment of the four figures. The framework's epistemic status is one of **substantial-source-grounding-with-corpus-systematic-extension**.
+此一閱讀有實質的源典依據。雷爾派源典在《道出真相之書》(1974)、《外星人帶我到他們的行星》(1975)及更廣源典中之多處段落明確闡述撒但的具體政治—派系角色,{{ cite(id="lets-welcome-the-extraterrestrials", text="[10]", title="沃里勒翁(雷爾),《迎接外星人》(1979)—— 更廣的議會政治—制度框架") }}{{ cite(id="intelligent-design-message-from-the-designers", text="[11]", title="沃里勒翁(雷爾),《來自設計者的訊息》—— 三部雷爾派源典書籍的合輯規範版本") }} 而 *timeline.epub* 巨蟹時代章節(四形象分類學)、雙子時代章節(決定的內容)與雙魚時代章節(對耶穌之測試的內容)中亦有實質的後續文集發展。文集對混淆歷史之具體闡述 —— 尤其是後所多瑪機制,原初區分透過此一機制而失落 —— 代表超出源典所直接提供之文集發展,但仍實質根植於源典對四位形象的相異處理。文集的知識論狀態為**實質源典根植加文集系統性延伸**。
 
-## Etymology and naming
+## 詞源與稱謂
 
-Satan's various designations across multiple linguistic-religious traditions warrant substantive treatment because the etymological history substantially shapes the figure's specific operational meaning across different contexts.
+撒但跨越多種語言—宗教傳統之各種稱謂值得實質處理,因為其詞源歷史實質塑造了該形象在不同脈絡中的具體作業性意義。
 
-### Hebrew "satan" as common noun
+### 希伯來語「satan」作為通名
 
-The Hebrew **satan** (שָׂטָן) is, in its original Hebrew Bible context, a **common noun** rather than a proper name. The noun derives from the Hebrew root *s-t-n* (שׂ-ט-ן), meaning "to oppose," "to obstruct," "to be hostile to," "to act as adversary." The noun form means "adversary," "accuser," "opponent," "opposer."
+希伯來語 **satan**(שָׂטָן)在其原初的希伯來聖經脈絡中,是**通名**而非專有名詞{{ footnote(id="4") }}。該名詞源自希伯來詞根 *s-t-n*(שׂ-ט-ן),意為「反對」、「阻撓」、「與之為敵」、「作為敵手行事」。名詞形意為「敵手」、「控告者」、「對手」、「反對者」。
 
-The Hebrew Bible uses the term *satan* as common noun in non-theological contexts across various passages:
+希伯來聖經在多個非神學脈絡中將 *satan* 作為通名使用:
 
-- **1 Samuel 29:4**: David is described as a potential *satan* (adversary) to the Philistines in military context
-- **2 Samuel 19:22**: David refers to his political opponents as *satanim* (adversaries) in political context
-- **1 Kings 5:4 (5:18 Hebrew)**: Solomon describes himself as having no *satan* (adversary) under his rule
-- **1 Kings 11:14, 23, 25**: God raises up *satanim* (adversaries) against Solomon — political opponents in geopolitical context
-- **Numbers 22:22, 32**: The angel of Yahweh stands as a *satan* (adversary) in the road against Balaam
+- **{% libref(book="1-samuel", chapter=29, verse=4) %}撒母耳記上 29:4{% end %}**:大衛在軍事脈絡中被描述為對非利士人的潛在 *satan*(敵手)
+- **{% libref(book="2-samuel", chapter=19, verse=22) %}撒母耳記下 19:22{% end %}**:大衛在政治脈絡中將其政治對手稱為 *satanim*(敵手)
+- **{% libref(book="1-kings", chapter=5, verse=4) %}列王紀上 5:4(希伯來文本 5:18){% end %}**:所羅門描述自己在統治下並無 *satan*(敵手)
+- **{% libref(book="1-kings", chapter=11, verse=14) %}列王紀上 11:14, 23, 25{% end %}**:神興起 *satanim*(敵手)反對所羅門 —— 即地緣政治脈絡中之政治對手
+- **{% libref(book="numbers", chapter=22, verse=22) %}民數記 22:22, 32{% end %}**:耶和華的使者在路上作為 *satan*(敵手)阻擋巴蘭
 
-The common-noun usage establishes that "satan" is fundamentally a relational-positional designation rather than a proper-name designation. The figure is named for the function it performs — adversarial-opposition — rather than for any specific individual identity.
+通名用法確立「satan」根本上是一種關係性—位置性的稱謂,而非專有名詞稱謂。該形象因其所執行的功能(敵對—反對)而得名,而非因任何特定個體身份。
 
-### "ha-satan" as institutional designation
+### 「ha-satan」作為制度性稱謂
 
-The definite-article form **ha-satan** (הַשָּׂטָן, "the satan" or "the adversary") is the Hebrew Bible's specific institutional designation for the figure who functions as adversarial-opposition within the divine council. The principal Hebrew Bible passages with the institutional designation:
+定冠詞形式 **ha-satan**(הַשָּׂטָן,「那撒但」或「那敵手」),為希伯來聖經對在神聖議會中行使敵對—反對功能之形象的特定制度性稱謂。具該制度性稱謂的主要希伯來聖經段落:
 
-- **Job 1:6-12, 2:1-7**: The principal source-material passage on Satan in the Hebrew Bible; the figure presents itself before Yahweh among the *benei ha-Elohim* (sons of Elohim) and engages in the institutional dialogue
-- **Zechariah 3:1-2**: The figure stands at the right hand of Joshua the high priest "to oppose him" (*l'sitno*); Yahweh rebukes the figure
-- **1 Chronicles 21:1**: The figure incites David to take a census (in the parallel 2 Samuel 24:1, the inciter is identified as Yahweh himself)
+- **{% libref(book="job-woh", chapter=1, verse=6) %}約伯記 1:6-12{% end %},{% libref(book="job-woh", chapter=2, verse=1) %}2:1-7{% end %}**:希伯來聖經中關於撒但之主要源典段落;該形象與 *benei ha-Elohim*(諸耶洛因之子)一同呈現在耶和華面前,並進行制度性對話
+- **撒迦利亞書 3:1-2**:該形象站在大祭司約書亞的右邊「反對他」(*l'sitno*);耶和華責備該形象
+- **{% libref(book="1-chronicles", chapter=21, verse=1) %}歷代志上 21:1{% end %}**:該形象激動大衛數點以色列人(在平行的{% libref(book="2-samuel", chapter=24, verse=1) %}撒母耳記下 24:1{% end %} 中,激動者被指認為耶和華自己)
 
-The institutional designation registers the figure's specific role as member of the divine council with the institutional function of adversarial opposition. The figure is not the embodiment of evil; the figure is the holder of a specific institutional office.
+制度性稱謂登錄了該形象作為神聖議會成員、具有敵對性反對之制度性功能的具體角色。該形象並非邪惡的化身;該形象是某一具體制度性職務的持有者。
 
-### Greek "diabolos" as functional designation
+### 希臘語「diabolos」作為功能性稱謂
 
-The Greek **diabolos** (διάβολος, "slanderer," "accuser," "one who speaks against") is the Greek New Testament's translation of the Hebrew *satan*. The Greek term derives from the verb *diaballein* (διαβάλλειν, "to throw across," "to cast in one's teeth," "to slander," "to attack with words"). The Greek term is, in its plain linguistic meaning, "the slanderer" — the figure who speaks against another, who attempts to impugn, who raises objections and challenges. The function-designation character is preserved.
+希臘語 **diabolos**(διάβολος,「誹謗者」、「控告者」、「以言語反對者」),為希臘文新約對希伯來語 *satan* 的翻譯{{ footnote(id="5") }}。希臘語詞源自動詞 *diaballein*(διαβάλλειν,「橫向投擲」、「以牙還牙地責罵」、「誹謗」、「以言語攻擊」)。希臘語詞之字面語言意義為「誹謗者」—— 即以言語反對他人、試圖控訴、提出反對與挑戰的形象。功能性—稱謂的特性得以保存。
 
-The Greek New Testament's use of *diabolos*:
+希臘文新約對 *diabolos* 的使用:
 
-- **Matthew 4:1, 5, 8, 11**: In the wilderness-testing narrative
-- **Luke 4:2-13**: In the parallel wilderness-testing narrative
-- **John 8:44**: Jesus's reference to those who do "the desires of the *diabolos* your father"
-- **Various Pauline and other New Testament passages**: Continuing institutional designation
+- **{% libref(book="matthew-woh", chapter=4, verse=1) %}馬太福音 4:1, 5, 8, 11{% end %}**:於曠野測試敘事中
+- **{% libref(book="luke-woh", chapter=4, verse=2) %}路加福音 4:2-13{% end %}**:於平行的曠野測試敘事中
+- **{% libref(book="john", chapter=8, verse=44) %}約翰福音 8:44{% end %}**:耶穌指涉那些行「你們父親 *diabolos* 之欲」者
+- **保羅書信及其他新約段落**:持續作為制度性稱謂
 
-The Greek term is a functional translation of the Hebrew *satan* — both terms designate the figure by function rather than by personal name. The medieval theological elaboration of the *diabolos* into the figure of "the Devil" with red skin, horns, and cloven hoofs is a cultural overlay that has obscured the original linguistic meaning.
+希臘語詞為希伯來語 *satan* 的功能性翻譯 —— 兩個詞皆以功能而非個人姓名指稱該形象。中世紀神學將 *diabolos* 進一步發展為紅皮膚、有角、有蹄的「魔鬼」形象,是一層文化覆蓋層,遮蔽了原初的語言意義。
 
-### Other linguistic designations
+### 其他語言稱謂
 
-Several additional designations operate within the broader cross-cultural tradition:
+更廣的跨文化傳統中尚有數種其他稱謂運作:
 
-- **Latin**: *Satanas* (Latinized from Hebrew); *Diabolus* (Latinized from Greek)
-- **Arabic**: *Shaytan* (شيطان); the Quranic designation, with substantial parallel content to the Hebrew *satan*
-- **Aramaic**: *Satana* (סטנא); the cognate term in Aramaic with similar adversarial-opposition designation
-- **Ethiopic**: *Saytan* in the Ethiopian Christian tradition
+- **拉丁語**:*Satanas*(由希伯來語拉丁化);*Diabolus*(由希臘語拉丁化)
+- **阿拉伯語**:*Shaytan*(شيطان);古蘭經之稱謂,與希伯來語 *satan* 具有實質平行內容{{ cite(id="the-qur-an", text="[3]", title="《古蘭經》—— 與希伯來語 satan 平行之 Shaytan 與 Iblis 材料") }}
+- **亞蘭語**:*Satana*(סטנא);亞蘭語中之同源詞,具相似的敵對—反對稱謂
+- **衣索匹亞語**:於衣索匹亞基督教傳統中之 *Saytan*
 
-### "Satan" as proper-name designation in conflated tradition
+### 「撒但」於混淆傳統中作為專有名詞稱謂
 
-The contemporary Christian-Western religious tradition typically treats "Satan" as a proper name designating a specific cosmic-evil figure. The proper-name usage represents the result of substantial Second Temple period and Christian-theological development through which the originally functional designation was progressively reified into a personal identity.
+當代基督教—西方宗教傳統通常將「撒但」視為指稱一位特定宇宙性邪惡形象的專有名詞。此一專有名詞用法,代表第二聖殿時期與基督教神學發展的實質結果 —— 透過該發展,原本之功能性稱謂被漸進地物化為個人身份。
 
-The framework's specific position registers this as historical development rather than as the figure's original character: the figure designated by the Hebrew *satan* in the Hebrew Bible's institutional sense is not the cosmic-evil personification of the medieval-Christian tradition. The conflation history is treated more fully under *The figure's content* below.
+文集的具體立場將此登錄為歷史發展,而非該形象的原初特性:希伯來聖經制度性意義中以希伯來語 *satan* 所指稱之形象,並非中世紀基督教傳統的宇宙性邪惡擬人化。混淆歷史在下文「該形象的內容」中將獲更完整處理。
 
-### Corpus-internal usage
+### 文集內部的用法
 
-The Wheel of Heaven corpus uses **Satan** as the principal designation while registering the figure's specific status as Eloha home-world political-faction leader rather than as the medieval-Christian-theological cosmic-evil personification. The corpus's specific use registers both the contemporary Western reception (which uses "Satan" as the principal designation) and the corpus's distinctive analytical position (which preserves the original four-figure taxonomy and the principled-opposition characterization).
+天輪文集以**撒但**為主要稱謂,同時登錄該形象作為母星耶洛因政治派系領袖之具體狀態,而非作為中世紀基督教神學的宇宙性邪惡擬人化。文集的具體用法同時登錄當代西方接受史(以「撒但」為主要稱謂)以及文集獨特的分析立場(保留原初四形象分類學與原則性反對之刻畫)。
 
-## Conventional understanding
+## 慣常理解
 
-The conventional understanding of Satan operates through a complex layered tradition spanning the Hebrew Bible, the Second Temple period developments, the Christian-theological elaboration, and the broader medieval and modern Western religious-cultural reception.
+對撒但的慣常理解透過一個複雜的層疊傳統運作,跨越希伯來聖經、第二聖殿時期之發展、基督教神學的鋪陳,以及更廣的中世紀及現代西方宗教—文化接受史。
 
-### The Hebrew Bible figure
+### 希伯來聖經中的形象
 
-The Hebrew Bible's *satan* figure is, on substantially developed mainstream scholarship, a relatively limited and institutional figure rather than the cosmic-evil personification of later tradition.
+希伯來聖經中之 *satan* 形象,在實質發展的主流學術上,是一個相對有限且制度性的形象,而非後續傳統中的宇宙性邪惡擬人化。
 
-**The Job episode**. The Book of Job (composed approximately 6th-4th centuries BCE) provides the principal Hebrew Bible articulation of the figure. The figure appears in Job 1:6-12 and Job 2:1-7 as a member of the divine council (*benei ha-Elohim*, "sons of Elohim") who functions as adversarial-tester. The figure is on collegial terms with Yahweh; the dialogue is institutional rather than antagonistic; the figure operates with explicit Yahweh authorization in conducting the testing of Job.
+**約伯記事件**。《約伯記》(約於公元前 6 至 4 世紀寫成)提供了希伯來聖經對該形象的主要闡述。該形象出現於{% libref(book="job-woh", chapter=1, verse=6) %}約伯記 1:6-12{% end %} 及{% libref(book="job-woh", chapter=2, verse=1) %}約伯記 2:1-7{% end %},作為神聖議會(*benei ha-Elohim*,「諸耶洛因之子」)的成員,行使敵對—測試者的功能。該形象與耶和華的關係是同僚式的;對話為制度性而非敵對性的;該形象在執行對約伯的測試時,具有耶和華明確的授權。
 
-**The Zechariah episode**. Zechariah 3:1-2 (composed approximately late 6th-early 5th century BCE) preserves the figure in similar institutional role — standing at the right hand of Joshua the high priest "to oppose him" (*l'sitno*). The figure is rebuked by Yahweh but is not characterized as cosmic evil; the figure operates as institutional adversarial-opposition within the broader divine council structure.
+**撒迦利亞書事件**。撒迦利亞書 3:1-2(約於公元前六世紀末至五世紀初寫成)以類似的制度性角色保存該形象 —— 站在大祭司約書亞的右邊「反對他」(*l'sitno*)。該形象受耶和華責備,但並未被刻畫為宇宙性邪惡;該形象作為制度性敵對—反對在更廣的神聖議會結構中運作。
 
-**The Chronicler's transformation**. 1 Chronicles 21:1 (composed approximately 4th century BCE) preserves a substantively different figuration — "Satan stood up against Israel and incited David to count Israel." The parallel passage in 2 Samuel 24:1 attributes the inciting to Yahweh himself: "Again the anger of Yahweh was kindled against Israel, and he incited David against them." The Chronicler's substitution registers the early development of Satan as more independent figure separated from Yahweh's direct action.
+**歷代志作者的轉變**。{% libref(book="1-chronicles", chapter=21, verse=1) %}歷代志上 21:1{% end %}(約於公元前四世紀寫成)保存了實質不同的形象呈現 ——「撒但起來攻擊以色列,激動大衛數點以色列人。」平行段落{% libref(book="2-samuel", chapter=24, verse=1) %}撒母耳記下 24:1{% end %} 則將激動歸於耶和華自己:「耶和華的怒氣又向以色列人發作,就激動大衛使他們受害。」歷代志作者的替代,登錄了撒但作為更獨立形象、與耶和華直接行動分離之早期發展。
 
-**The broader Hebrew Bible context**. The Hebrew Bible's broader treatment of the *satan* figure is substantially limited compared to later traditions. The figure does not appear in the Genesis, Exodus, or other early Pentateuch material as a principal cosmic figure; the Eden serpent is not identified as Satan in the Hebrew text (the identification is a post-biblical theological development); the broader cosmic-evil personification is substantively absent from the Hebrew Bible itself.
+**更廣的希伯來聖經脈絡**。希伯來聖經對 *satan* 形象的更廣處理,相較於後續傳統而言,實質上頗為有限。該形象並未在創世記、出埃及記或其他早期摩西五經材料中作為主要宇宙形象出現;伊甸的蛇於希伯來文本中未被認同為撒但{{ cite(id="genesis", text="[4]", title="創世記 —— 伊甸蛇敘事(第 3 章);該形象於希伯來文本中未被認同為撒但") }}(此一認同是後聖經時期的神學發展);更廣的宇宙性邪惡擬人化於希伯來聖經自身中實質上付之闕如。
 
-### The Second Temple period developments
+### 第二聖殿時期的發展
 
-The Second Temple period (approximately 6th century BCE through 1st century CE) produced substantial developments in the satan figuration that substantially shaped subsequent Christian-tradition reception.
+第二聖殿時期(約公元前六世紀至公元一世紀)在 satan 形象上產生了實質的發展,並實質塑造了其後基督教傳統的接受。
 
-**The Persian dualistic influence**. The Achaemenid Persian Empire's Zoroastrian religious tradition included substantial cosmic-dualistic framework — Ahura Mazda (the principle of good) versus Angra Mainyu / Ahriman (the principle of evil). The Jewish cultural-religious contact with Zoroastrianism during the post-exilic period produced substantial influence on the development of Jewish demonological thought, with the originally limited *satan* figure progressively absorbing aspects of the Zoroastrian dualistic framework.
+**波斯二元論的影響**。阿契美尼德波斯帝國的祆教宗教傳統包含實質的宇宙—二元論框架 —— 阿胡拉·瑪茲達(善、光、真理與秩序之原則)對抗安格拉·曼紐 / 阿胡里曼(惡之原則)。後流亡時期猶太人與祆教的文化—宗教接觸,對猶太魔鬼學思想的發展產生實質影響,原本有限的 *satan* 形象漸進地吸收了祆教二元論框架的若干面向。
 
-**The Watchers tradition**. The 1 Enoch corpus (composed approximately 3rd century BCE through 1st century CE) preserves substantial development of the angelic-rebellion narrative drawing on the Genesis 6:1-4 *benei ha-Elohim* material. The Watchers (specifically named angels who descended to Earth and produced offspring with human women, with Azazel as one principal leader) become the principal source of evil in the world according to 1 Enoch's framework. The Watchers material substantially shapes the development of cosmic-evil-figure traditions across Second Temple Judaism.
+**守望者傳統**。以諾一書文集(約於公元前三世紀至公元一世紀寫成)保存了天使叛亂敘事的實質發展,取材自{% libref(book="genesis-woh", chapter=6, verse=1) %}創世記 6:1-4{% end %} 之 *benei ha-Elohim* 材料。守望者(具體被命名的天使,降臨地球並與人類女性產生後裔,阿撒瀉勒為主要領袖之一)依以諾一書框架,成為世上邪惡的主要源頭。{{ cite(id="1-enoch-the-book-of-the-watchers", text="[5]", title="《以諾一書:守望者書》—— 第二聖殿時期宇宙性邪惡形象發展之主要源典,守望者與阿撒瀉勒材料") }}{{ cite(id="book-of-enoch", text="[6]", title="《以諾書》—— 更廣的以諾文集對天使叛亂敘事之鋪陳") }} 守望者材料實質塑造了跨越第二聖殿時期猶太教之宇宙性邪惡形象傳統的發展。
 
-**The Qumran community's developments**. The Dead Sea Scrolls preserve substantial dualistic-cosmic framework with the "Spirit of Truth" versus "Spirit of Falsehood" (or "Belial") opposition. The Qumran community's theological framework registers substantial development of cosmic-evil-figure traditions toward the more dualistic framework that subsequently influenced Christianity.
+**昆蘭社群的發展**。死海古卷保存了實質的二元—宇宙論框架,其中有「真理之靈」對抗「謬妄之靈」(或「彼列」)的對立。昆蘭社群的神學框架登錄了宇宙性邪惡形象傳統實質地朝向更具二元論的框架發展,該框架其後影響了基督教。
 
-**The intertestamental satan-lucifer conflation development**. Across the Second Temple period, several distinct figures progressively converged toward the unified cosmic-evil figure of subsequent Christian tradition. The principal converging figures: the Hebrew Bible *satan* (institutional adversarial opposition); the Eden serpent (Genesis 3); the morning star figure of Isaiah 14:12 (Hebrew *helel ben shachar*, "shining one, son of the morning"); the king of Tyre figure of Ezekiel 28:11-19; the Watchers tradition figures; and various other adversarial-cosmic figures across the broader literature.
+**兩約之間 satan-lucifer 混淆的發展**。在第二聖殿時期,數位相異形象漸進地匯合,趨向其後基督教傳統的統一宇宙性邪惡形象。主要的匯合形象:希伯來聖經之 *satan*(制度性敵對—反對);伊甸蛇({% libref(book="genesis-woh", chapter=3) %}創世記 3{% end %} 章);{% libref(book="isaiah-woh", chapter=14, verse=12) %}以賽亞書 14:12{% end %} 的晨星形象(希伯來語 *helel ben shachar*,「閃耀者,清晨之子」);{% libref(book="ezekiel-woh", chapter=28, verse=11) %}以西結書 28:11-19{% end %} 的推羅王形象;守望者傳統形象;以及更廣文獻中的各種其他敵對—宇宙性形象。
 
-### The Christian-tradition development
+### 基督教傳統的發展
 
-The Christian-tradition development across the New Testament, patristic, medieval, and broader Christian theological tradition produced the cosmic-evil-personification figure that has dominated Western religious-cultural imagination for nearly two thousand years.
+基督教傳統跨越新約、教父、中世紀及更廣基督教神學傳統的發展,產生了支配西方宗教—文化想像將近兩千年的宇宙性邪惡擬人化形象。
 
-**The New Testament figure**. The New Testament treats Satan substantively as the principal cosmic adversary of Jesus and the broader Christian mission. The principal passages: the wilderness-testing narrative (Matthew 4:1-11; Luke 4:1-13); the various Synoptic parallels involving demonic possession and exorcism; Paul's references to Satan across the Pauline corpus; the Revelation 12 dragon-narrative identifying "the great dragon, that ancient serpent, who is called the devil and Satan" with the eschatological cosmic-evil figure.
+**新約中的形象**。新約實質上將撒但視為耶穌及更廣基督教使命的主要宇宙敵手。主要段落:曠野測試敘事({% libref(book="matthew-woh", chapter=4, verse=1) %}馬太福音 4:1-11{% end %};{% libref(book="luke-woh", chapter=4, verse=1) %}路加福音 4:1-13{% end %});各種涉及鬼附與驅鬼的對觀福音平行段落;保羅在書信中對撒但的提及;{% libref(book="revelation-woh", chapter=12) %}啟示錄 12 章{% end %} 的龍敘事將「大龍,就是那古蛇,名叫魔鬼,又叫撒但」與末世性宇宙邪惡形象等同。
 
-**The patristic-theological development**. The early Christian theological tradition (Justin Martyr, Origen, Augustine, various others) substantially elaborated the satan-lucifer-devil figuration into the cosmic-evil personification with fall-from-heaven narrative drawing on Isaiah 14:12 and Luke 10:18.
+**教父—神學的發展**。早期基督教神學傳統(殉道者游斯丁、奧利金、奧古斯丁等)實質上將 satan-lucifer-devil 形象鋪陳為宇宙性邪惡擬人化,並以《以賽亞書》14:12 與《路加福音》10:18 為依據構築墮天敘事。
 
-**Augustine's foundational synthesis**. Augustine of Hippo (354-430 CE) produced substantial systematic theological treatment of the satan figure, particularly in *The City of God* and various other works. Augustine's framework substantially shaped the medieval Christian theological tradition, with the satan figure as the cosmic-evil personification opposed to God across cosmic history.
+**奧古斯丁的奠基性綜合**。奧古斯丁(354-430 年)對 satan 形象產生了實質的系統神學處理,尤其見於《上帝之城》及其他多部作品。奧古斯丁的框架實質塑造了中世紀基督教神學傳統,將 satan 形象作為跨宇宙歷史與神對立的宇宙性邪惡擬人化。
 
-**The medieval demonology**. The medieval Christian theological tradition substantially elaborated the satan figure into the elaborate demonology that would dominate Western religious thought for a millennium — the figure of the Devil with red skin, horns, cloven hoofs, the various subordinate demons, the elaborate hell-cosmology, the substantial folkloric-cultural reception.
+**中世紀魔鬼學**。中世紀基督教神學傳統實質上將 satan 形象進一步發展為精密的魔鬼學,該魔鬼學支配西方宗教思想長達一個千年 —— 紅皮膚、有角、有蹄的魔鬼形象、各種附屬之鬼魔、精密的地獄宇宙論、實質的民俗—文化接受。
 
-**The Reformation and post-Reformation developments**. The Protestant Reformation (Luther, Calvin, various others) substantially preserved the medieval cosmic-evil framework while modifying various specific theological elaborations. The post-Reformation period produced substantial continuing development of Christian satan-theology across various denominational traditions.
+**宗教改革與後宗教改革時期的發展**。新教宗教改革(路德、加爾文等)實質上保存了中世紀宇宙性邪惡框架,同時修改了各項具體神學鋪陳。後宗教改革時期跨越各種宗派傳統,產生了基督教 satan 神學的實質持續發展。
 
-### The Islamic tradition
+### 伊斯蘭傳統
 
-The Islamic tradition preserves substantial parallel material on the figure designated as **shaytan** (شيطان) and **Iblis** (إبليس).
+伊斯蘭傳統保存了關於被稱為 **shaytan**(شيطان)與 **Iblis**(إبليس)之形象的實質平行材料。
 
-**Iblis in the Quran**. The Quranic Iblis is the figure who refused to bow to Adam at the divine command (Quran 2:34, 7:11-13, 15:28-44, 17:61-65, 18:50, 20:116, 38:71-85). Iblis's refusal is characterized as pride and rebellion against the divine command. Iblis is granted respite until the day of judgment to test humanity, with the testing function paralleling the Hebrew *satan* institutional role.
+**古蘭經中的 Iblis**。古蘭經中的 Iblis 是在神聖命令下拒絕向亞當下拜的形象({% libref(book="quran-woh", chapter=2, verse=34) %}古蘭經 2:34{% end %}、{% libref(book="quran-woh", chapter=7, verse=11) %}7:11-13{% end %}、{% libref(book="quran-woh", chapter=15, verse=28) %}15:28-44{% end %}、{% libref(book="quran-woh", chapter=17, verse=61) %}17:61-65{% end %}、{% libref(book="quran-woh", chapter=18, verse=50) %}18:50{% end %}、{% libref(book="quran-woh", chapter=20, verse=116) %}20:116{% end %}、{% libref(book="quran-woh", chapter=38, verse=71) %}38:71-85{% end %})。Iblis 的拒絕被刻畫為傲慢與對神聖命令的叛逆。Iblis 獲得緩期至審判日以測試人類,其測試功能平行於希伯來語 *satan* 的制度性角色。
 
-**Shaytan as broader category**. The Quranic *shaytan* (often plural *shayatin*) operates as broader category of adversarial figures including Iblis and various subordinate adversarial entities. The category functions principally as tempters and adversarial figures in the broader Islamic theological framework.
+**Shaytan 作為更廣範疇**。古蘭經之 *shaytan*(常為複數 *shayatin*)作為更廣的敵對性形象範疇運作,包括 Iblis 及各種附屬之敵對性實體。該範疇在更廣的伊斯蘭神學框架中,主要作為誘惑者與敵對性形象運作。
 
-**The Islamic figure's relationship to the Hebrew/Christian tradition**. The Islamic Iblis/shaytan figure shares substantial structural-functional content with the Hebrew/Christian satan tradition while developing distinctive theological-narrative content within the Islamic framework. The fall-from-divine-favor narrative, the testing-function role, and the broader adversarial-cosmic position parallel the broader Hebrew/Christian framework.
+**伊斯蘭形象與希伯來—基督教傳統之關係**。伊斯蘭的 Iblis/shaytan 形象與希伯來—基督教 satan 傳統共享實質的結構—功能內容,同時於伊斯蘭框架內發展出獨特的神學—敘事內容。墮離神恩敘事、測試功能角色,以及更廣的敵對—宇宙性立場,皆平行於更廣的希伯來—基督教框架。
 
-### The mainstream scholarly engagement
+### 主流學術界的參與
 
-Mainstream Hebrew Bible and biblical-studies scholarship has produced substantial work distinguishing the Hebrew Bible *satan* figure from the later Christian-theological cosmic-evil personification.
+主流希伯來聖經與聖經研究學術已產生實質工作,將希伯來聖經之 *satan* 形象與後續基督教神學之宇宙性邪惡擬人化區分開來。
 
-**Peggy L. Day's foundational scholarship**. **Peggy L. Day**'s *An Adversary in Heaven: Satan in the Hebrew Bible* (Scholars Press, 1988) provided the principal foundational scholarly engagement with the Hebrew Bible *satan* figure. Day's principal thesis: the Hebrew Bible *satan* is a substantially limited and institutional figure rather than the cosmic-evil personification of later tradition. Day's framework substantially aligns with the corpus's specific position on the figure's institutional rather than cosmic-evil character.
+**Peggy L. Day 的基礎性研究**。**Peggy L. Day** 的《天上的敵手:希伯來聖經中的撒但》(*An Adversary in Heaven: Satan in the Hebrew Bible*,Scholars Press,1988)提供了對希伯來聖經 *satan* 形象之主要基礎性學術參與。Day 的主要論題:希伯來聖經之 *satan* 是一個實質有限且制度性的形象,而非後續傳統的宇宙性邪惡擬人化。Day 的框架在該形象的制度性而非宇宙性邪惡特性上,實質契合於文集的具體立場。
 
-**Marvin H. Pope's Job commentary**. **Marvin H. Pope**'s *Job* (Anchor Bible, Doubleday, 1965; 3rd ed., 1973) provided substantial scholarly treatment of the Job episode with detailed engagement with the Hebrew *satan* figure's institutional character within the divine council framework.
+**Marvin H. Pope 的約伯記註釋**。**Marvin H. Pope** 的《約伯記》(Anchor Bible,Doubleday,1965;1973 年第三版)提供了對約伯記事件的實質學術處理,並對神聖議會框架內希伯來語 *satan* 形象的制度性特性有詳盡的參與。
 
-**Norman C. Habel's Job scholarship**. **Norman C. Habel**'s *The Book of Job* (Westminster Press, 1985) provided substantial complementary scholarly treatment of the Job material with substantial attention to the figure's institutional role.
+**Norman C. Habel 的約伯記學術**。**Norman C. Habel** 的《約伯記》(Westminster Press,1985)提供了對約伯記材料的實質互補學術處理,對該形象的制度性角色有實質關注。
 
-**Jeffrey Burton Russell's four-volume series**. **Jeffrey Burton Russell**'s comprehensive scholarly history — *The Devil: Perceptions of Evil from Antiquity to Primitive Christianity* (Cornell University Press, 1977), *Satan: The Early Christian Tradition* (Cornell University Press, 1981), *Lucifer: The Devil in the Middle Ages* (Cornell University Press, 1984), and *Mephistopheles: The Devil in the Modern World* (Cornell University Press, 1986) — provided the principal foundational scholarly history of the satan-devil-lucifer figuration across approximately three thousand years of religious-cultural development. Russell's framework substantially documented the historical development from the limited Hebrew Bible figure to the elaborate medieval-modern cosmic-evil personification.
+**Jeffrey Burton Russell 的四卷本系列**。**Jeffrey Burton Russell** 的綜合性學術歷史 —— 《魔鬼:自古代至原始基督教時期對惡的觀念》(Cornell University Press,1977)、《撒但:早期基督教傳統》(Cornell University Press,1981)、《路西法:中世紀的魔鬼》(Cornell University Press,1984)與《梅菲斯托費勒斯:現代世界的魔鬼》(Cornell University Press,1986)—— 提供了對 satan-devil-lucifer 形象橫跨約三千年宗教—文化發展的主要基礎性學術歷史。Russell 的框架實質記錄了從希伯來聖經之有限形象至中世紀—現代精密宇宙性邪惡擬人化的歷史發展。
 
-**Elaine Pagels's *The Origin of Satan***. **Elaine Pagels**'s *The Origin of Satan* (Random House, 1995) provided substantial subsequent scholarly engagement with the early Christian development of the satan figure, with particular attention to the social-political functions of the cosmic-evil-personification framework in the early Christian community's self-definition against various rival groups.
+**Elaine Pagels 的《撒但的起源》**。**Elaine Pagels** 的《撒但的起源》(Random House,1995)提供了對早期基督教 satan 形象發展之實質後續學術參與,特別關注宇宙性邪惡擬人化框架在早期基督教社群面對各種對手群體之自我定義中的社會—政治功能。
 
-**Henry Ansgar Kelly's revisionist scholarship**. **Henry Ansgar Kelly**'s *Satan: A Biography* (Cambridge University Press, 2006) provided substantial revisionist scholarship arguing that the cosmic-evil-personification figure of medieval-Christian tradition is substantively distinct from the original Hebrew Bible figure, with substantial historical-developmental analysis tracing the conflation process. Kelly's framework registers substantial structural alignment with the corpus's specific position on the conflation history, while operating from distinct source-material warrant.
+**Henry Ansgar Kelly 的修正主義學術**。**Henry Ansgar Kelly** 的《撒但:傳記》(Cambridge University Press,2006)提供了實質的修正主義學術,論證中世紀基督教傳統之宇宙性邪惡擬人化形象,實質上有別於原初希伯來聖經形象,並對混淆過程有實質的歷史—發展分析。Kelly 的框架在混淆歷史上實質契合於文集的具體立場,同時來自不同的源典依據。
 
-**Mauro Biglino's strict-translational approach**. **Mauro Biglino**'s broader work on the Hebrew Bible (*The Naked Bible: The Truth About the Most Famous Book in History*, with Giorgio Cattaneo, Uno, 2022) preserves substantial alignment with the corpus's framework on the satan figuration's original character, with substantial emphasis on the strict literal Hebrew translation revealing content that mainstream translation traditions have systematically obscured.
+**Mauro Biglino 的嚴格翻譯進路**。**Mauro Biglino** 對希伯來聖經之更廣工作(《赤裸的聖經:歷史上最著名書籍的真相》,與 Giorgio Cattaneo 合著,Uno,2022){{ cite(id="the-naked-bible", text="[7]", title="Biglino 與 Cattaneo,《赤裸的聖經》(2022)—— 包含 satan 材料的嚴格字面希伯來文翻譯") }} 保存了在 satan 形象之原初特性上對文集框架的實質契合,並強調嚴格的字面希伯來文翻譯揭示了主流翻譯傳統系統性遮蔽的內容。{{ cite(id="the-bible-is-not-a-sacred-book", text="[8]", title="Biglino,《將永遠改變我們對聖經看法的書》/《聖經並非神聖之書》—— 嚴格字面希伯來聖經系列,基礎性語文學論證") }}
 
-The framework's relationship to mainstream scholarship is one of **substantial alignment with substantive interpretive extension**. The Hebrew-Bible scholarship's recognition of the figure's original limited and institutional character is broadly consistent with the corpus's specific position; the corpus's distinctive analytical contribution is the four-figure taxonomy that distinguishes Satan from Lucifer, the Serpent, and the Devil with operational specificity that mainstream scholarship has not produced.
+文集與主流學術的關係為**實質契合加實質詮釋性延伸**。希伯來聖經學術對該形象原初有限且制度性特性的認識,與文集的具體立場大致一致;文集獨特的分析貢獻是四形象分類學,以主流學術尚未產出的作業具體性,將撒但與路西法、蛇與魔鬼加以區分。
 
-## In primary sources
+## 在主要源典中
 
-The framework's principal primary-source material on Satan is contained in multiple Yahweh-delivered passages across the Raëlian source-material books, with substantial subsequent corpus development in *timeline.epub*.
+文集對撒但的主要源典材料,包含於耶和華在雷爾派源典書籍中所傳遞的多處段落,並有 *timeline.epub* 中實質的後續文集發展。
 
-### The Job passage in *The Book Which Tells the Truth*
+### 《道出真相之書》中的約伯段落
 
-The principal initial source-material passage establishing Satan's specific institutional role appears in *The Book Which Tells the Truth* (1974), in the "Satan" section. Yahweh's specific articulation:
+主要的初始源典段落,將撒但的具體制度性角色加以確立者,出現於《道出真相之書》(1974)的「撒但」一節。耶和華的具體闡述{{ cite(id="the-book-which-tells-the-truth", text="[1]", title="沃里勒翁(雷爾),《道出真相之書》(1974)—— 「撒但」一節,約伯記段落釋經") }}:
 
-> *"In the Book of Job, Chapter 1, you have the explanation of Satan:"*
+> *「在《約伯記》第 1 章中,你們有對撒但的解釋:」*
 > 
-> > *"Now there was a day when the sons of Elohim came to present themselves before Yahweh, and Satan came also among them. — Job 1:6"*
+> > *「有一天,諸耶洛因之子來侍立在耶和華面前,撒但也來在其中。—— 約伯記 1:6」*
 > 
-> *"Elohim in Hebrew literally means 'those who came from the sky'. The 'sons of Elohim', in other words, the creators who watch human beings, report regularly to their planet of origin, indicating for the most part that human beings venerate and love the Elohim. But one of these Elohim, called Satan, was part of a group, which had always condemned the creation of other intelligent beings on a planet as close as the Earth, seeing them as a possible threat. That is why, on seeing Job's devotion, which was one of the best examples of human beings loving their creators, he said:"*
+> *「希伯來語中的耶洛因(Elohim),字面意思是『自天而來者』。『諸耶洛因之子』,即觀察人類的造物主,定期向其源生行星報告,大部分情況下指出人類敬重與愛慕耶洛因。但這些耶洛因之一,名為撒但,屬於一個始終譴責在如此接近地球之行星上創造其他智慧存有的群體,將其視為一種可能的威脅。因此,當見到約伯的虔誠 —— 那是人類愛慕其締造者最佳範例之一 —— 他說:」*
 > 
-> > *"Doth Job fear Elohim for nought?... But put forth thine hand now, and touch all that he hath, and he will curse thee to thy face. And Yahweh said unto Satan, 'Behold, all that he hath is in thy power; only upon himself put not forth thine hand.' — Job 1:9-12"*
+> > *「約伯敬畏耶洛因豈是無故呢?……你且伸手毀他一切所有的,他必當面棄掉你。耶和華對撒但說:『凡他所有的,都在你手中;只是不可伸手加害於他。』—— 約伯記 1:9-12」*
 > 
-> *"Hearing Satan's assertion that had Job not been rich, he would not have loved his creators, the government gave full power to Satan to ruin Job. It would then be seen if he still venerated his creators, and that is why killing him was forbidden."*
+> *「聽見撒但斷言,若約伯不富有,他便不會愛慕其締造者,政府便給撒但全權,以摧毀約伯。如此便將看見他是否仍敬重其締造者,而這就是為何禁止殺害他的原因。」*
 > 
-> *"On seeing Job's dedication to respecting his creators, even when he was ruined, the government triumphed over the opposition, Satan. But Satan retorted that though Job had lost many things, he was still in good health. So the government gave Satan carte blanche so long as he did not kill Job:"*
+> *「當見到約伯即使在被摧毀後仍奉獻於敬重其締造者,政府便戰勝了反對派撒但。但撒但反駁說,儘管約伯已失去諸多,他仍身體健康。因此,政府授予撒但全權,只要他不殺死約伯:」*
 > 
-> > *"Behold, he is in thine hand; but save his life. — Job 2:6"*
+> > *「看哪,他在你手中;只要存留他的性命。—— 約伯記 2:6」*
 > 
-> *"Finally, in view of Job's humility, the creators healed him and gave him back his wealth, his children and his health."*
+> *「最終,鑑於約伯的謙卑,造物主醫治了他,並將他的財富、兒女與健康歸還於他。」*
 
-The passage establishes several interrelated framework components:
+該段落確立數項相互關聯的框架組成:
 
-**1. Satan's specific institutional position**. Satan is "one of these Elohim, called Satan," who is part of "a group, which had always condemned the creation of other intelligent beings on a planet as close as the Earth, seeing them as a possible threat." The institutional position is registered as faction-political within the broader Council structure.
+**1. 撒但的具體制度性立場**。撒但是「這些耶洛因之一,名為撒但」,屬於「一個始終譴責在如此接近地球之行星上創造其他智慧存有的群體,將其視為一種可能的威脅」。該制度性立場在更廣的議會結構中被登錄為派系—政治的。
 
-**2. The collegial Yahweh-Satan relationship**. The Job dialogue registers what the source describes as "good relations, or even fraternal relations between Yahweh and Satan." Yahweh is senior authority; Satan is opposition party leader; the institutional protocol is normal political-deliberative procedure rather than cosmic-good-vs-cosmic-evil encounter.
+**2. 耶和華—撒但的同僚關係**。約伯記的對話登錄了源典所描述「耶和華與撒但之間的良好關係,甚至兄弟般的關係」。耶和華為高級權威;撒但為反對黨領袖;制度性程序為正常的政治—審議程序,而非宇宙性善惡對立的相遇。
 
-**3. The testing protocol**. Satan tests Job's loyalty to the creators through systematic ruin and disease, with explicit Yahweh authorization and explicit operational limits ("only upon himself put not forth thine hand"; subsequently "save his life"). The protocol is institutional-procedural rather than malevolent-aggressive.
+**3. 測試程序**。撒但透過系統性的毀滅與疾病測試約伯對締造者的忠誠,具有耶和華明確的授權與明確的作業限制(「只是不可伸手加害於他」;隨後「只要存留他的性命」)。該程序為制度性—程序性而非惡意—攻擊性的。
 
-**4. The post-test resolution**. After Job's loyalty is demonstrated, "the creators healed him and gave him back his wealth, his children and his health." The institutional-procedural character is preserved through the systematic restoration.
+**4. 測試後的解決**。在約伯的忠誠得到展現後,「造物主醫治了他,並將他的財富、兒女與健康歸還於他」。制度性—程序性特性透過系統性的恢復而得以保存。
 
-### The "Humans Could Not Understand" passage
+### 「人類無法理解」段落
 
-The principal subsequent source-material passage establishing the Sons of Elohim broader framework appears in *Extra-Terrestrials Took Me to Their Planet* (1975). The passage situates Satan's position within the broader factional dynamic:
+確立諸耶洛因之子更廣框架之主要後續源典段落,出現於《外星人帶我到他們的行星》(1975)。該段落將撒但的立場置於更廣派系動態中{{ cite(id="extraterrestrials-took-me-to-their-planet", text="[2]", title="沃里勒翁(雷爾),《外星人帶我到他們的行星》(1975)—— 「人類無法理解」一節,前洪水期毀滅決定脈絡") }}:
 
-> *"As time passes, Satan accumulates proof of Man's aggression by observing the way in which humans kill each other with the weapons that are given to them by the sons of Lucifer's exiled group of Elohim. The latter is involved in 'tender' relations with the daughters of men who manage to receive weapons in exchange for their charms, under the false pretense of giving them to their fathers or brothers so that they can hunt for food. In fact, men choose to fight abominable battles among themselves with this arsenal."*
+> *「隨著時間流逝,撒但藉由觀察人類以耶洛因之路西法流放群體之子所給予的武器互相殺戮的方式,累積了對人類侵略行為的證據。後者與人類女兒進行『溫柔』關係,該女兒設法以其魅力換取武器,假托將其交給父親或兄弟以供狩獵食物之用。事實上,人類選擇以該武庫進行相互間可憎的戰爭。」*
 > 
-> *"Seeing the proofs of such a slaughter, brought by Satan before the Council of the Eternals, Yahweh decides to do what Satan asks, that is to say, totally destroy the life that has been created on Earth, and by the same token allow Lucifer's group to return to their own planet and be forgiven, thus putting an end to their exile."*
+> *「見到由撒但帶到永恆者議會面前的此類屠殺證據,耶和華決定執行撒但所請求之事,即完全毀滅在地球上所創造的生命,並由此允許路西法群體返回其本身的行星並獲赦免,從而結束其流放。」*
 
-The passage establishes Satan's specific role in the antediluvian destruction-decision context:
+該段落確立撒但在前洪水期毀滅決定脈絡中的具體角色:
 
-**1. The evidence-accumulation function**. Satan accumulates proof of human aggression by systematically observing the developments on Earth, with the substantial pre-flood human violence providing the substantial empirical material for the opposition position.
+**1. 證據累積功能**。撒但透過系統性地觀察地球上的發展,累積對人類侵略行為的證據,前洪水期實質的人類暴力為反對派立場提供實質的實證材料。
 
-**2. The Council presentation**. Satan brings the accumulated evidence before the Council of the Eternals — the institutional-political procedure through which the destruction decision was made.
+**2. 議會呈報**。撒但將累積的證據帶到永恆者議會面前 —— 這是作出毀滅決定的制度性—政治性程序。
 
-**3. The Yahweh shift**. Yahweh, who had originally supported the human creation and had opposed the destruction calls from the Satan faction during the centuries when the threat had been speculative, shifts to the destruction position based on the demonstrated evidence the Satan faction has accumulated.
+**3. 耶和華的立場轉變**。耶和華原先支持人類創造,並在威脅尚屬猜測之數世紀間反對撒但派系的毀滅呼聲,基於撒但派系所累積的證明證據,轉向毀滅立場。
 
-### The post-flood transformation passage
+### 洪水後轉變段落
 
-The principal subsequent source-material passage establishing Satan's post-flood transformation appears in the same source-material book:
+確立撒但洪水後轉變之主要後續源典段落,出現於同一源典書籍中{{ cite(id="extraterrestrials-took-me-to-their-planet", text="[2]", title="沃里勒翁(雷爾),《外星人帶我到他們的行星》(1975)—— 宇宙鏈發現與洪水後議會投票") }}:
 
-> *"It was only then that the Elohim discovered that they too had been created in the same manner that they had created man, scientifically, in a laboratory, by other people coming from another world. They then decided never again to destroy humanity, and helped Lucifer's group to re-implant the life forms preserved in the 'ark'. Satan is still convinced of the evil in Man, but he bows before the majority of those who, behind Yahweh, think the contrary within the council of the Eternals. Yahweh understood, through the message contained in the unmanned spaceship coming from another planet which landed on their planet, that if men are violent they will 'self-destroy' when they discover energies enabling them to enter an interplanetary level of civilization."*
+> *「只有在那時,耶洛因才發現他們自身也曾以他們創造人類的同樣方式被創造 —— 在科學上、在實驗室中、由來自另一世界的其他人所創造。他們便決定永不再毀滅人類,並協助路西法的群體重新植入保存於『方舟』中的生命形式。撒但仍然確信人類的邪惡,但他在議會中,於那些在耶和華身後持反對意見者的多數面前低頭。耶和華透過從另一行星抵達其行星之無人駕駛太空船所載訊息了解到:若人類具有暴力性,當他們發現使其能進入行星際文明水平之能源時,他們將『自我毀滅』。」*
 
-The passage establishes Satan's specific post-flood position:
+該段落確立撒但的具體洪水後立場:
 
-**1. The Cosmic Chain discovery**. The Elohim discovered they themselves had been created — the principal cosmological framework treated more fully in the [Cosmic Chain](../cosmic-chain/) entry.
+**1. 宇宙鏈的發現**。耶洛因發現他們自身亦曾被創造 —— 即在{% wiki(slug="cosmic-chain") %}宇宙鏈{% end %}條目中更完整處理之主要宇宙論框架。
 
-**2. The Council vote**. The post-flood Council voted never again to destroy humanity, with the discovery of their own created status providing substantial framework for the policy reversal.
+**2. 議會投票**。洪水後議會投票決定永不再毀滅人類,發現自身受造身分為政策反轉提供實質框架。
 
-**3. Satan's continuing opposition with institutional submission**. *"Satan is still convinced of the evil in Man, but he bows before the majority of those who, behind Yahweh, think the contrary."* The institutional-democratic outcome is registered: Satan's principled opposition position continues, but Satan accepts the institutional-democratic outcome rather than continuing active opposition.
+**3. 撒但持續反對與制度性服從**。*「撒但仍然確信人類的邪惡,但他在議會中,於那些在耶和華身後持反對意見者的多數面前低頭。」* 制度性—民主結果獲登錄:撒但的原則性反對立場持續,但撒但接受制度性—民主結果,而非繼續積極反對。
 
-### The prophet-testing passages
+### 先知測試段落
 
-The principal subsequent source-material passages establishing Satan's institutional prophet-testing role appear across the Jesus-related content:
+確立撒但制度性先知測試角色之主要後續源典段落,出現於耶穌相關內容中{{ cite(id="extraterrestrials-took-me-to-their-planet", text="[2]", title="沃里勒翁(雷爾),《外星人帶我到他們的行星》(1975)—— 先知測試功能與 diabolos 詞源") }}:
 
-> *"Messages of such importance could be given only to trustworthy people, and first of all, the Elohim had to assure themselves that their chosen ones were faithful to their creators, so that they would not betray what was revealed to them. So Satan was given the responsibility of testing the prophets."*
+> *「如此重要的訊息只能託付於可信賴之人,而首先,耶洛因必須確認其所選之人忠於其締造者,以使他們不會背叛所揭示於他們的事。因此,撒但被賦予測試先知的責任。」*
 > 
-> *"How are they going to test the faithfulness of these people? Once a person has been contacted by the messengers of the Elohim, telling him of his mission, Satan or one of his men would contact the prophet-to-be and by slander would destroy the Elohim in his mind, trying to get the human to abjure his fathers, or to accept to betray his mission on the promise of material advantages, for example. What is the word for slanderer in Greek? Simply diablos. Here is our famous devil, but he still has no horns, no hooves..."*
+> *「他們如何測試這些人的忠誠?一旦某人被耶洛因的使者接觸,告知其使命,撒但或其手下其中之一便會接觸這位將要成為先知者,並透過誹謗在其心中毀滅耶洛因,試圖使該人類否棄其先輩,或接受以背叛其使命換取物質利益的承諾,例如。希臘語中『誹謗者』的詞是什麼?就是 diablos。這就是我們著名的魔鬼,但他仍沒有角,沒有蹄……」*
 
-The passage establishes:
+該段落確立:
 
-**1. The institutional prophet-testing role**. Satan's post-flood institutional function is the systematic testing of prophets through adversarial-interview procedure.
+**1. 制度性先知測試角色**。撒但洪水後的制度性功能是透過敵對性—訪談程序對先知進行系統性測試。
 
-**2. The specific testing methodology**. The methodology comprises slander against the Elohim, attempts to produce abjuration of the creator-relationship, and offers of material reward in exchange for mission-betrayal.
+**2. 具體測試方法論**。其方法論包含對耶洛因的誹謗、嘗試產生對締造者關係的否棄,以及以物質報酬換取使命背叛的提議。
 
-**3. The diabolos etymology**. The Greek New Testament word for "the devil" — *diabolos* — means simply "slanderer." The figure who tests the prophets through slander is the "slanderer" of the institutional procedure rather than the cosmic-evil personification of medieval Christian theology. The source's specific framing — *"here is our famous devil, but he still has no horns, no hooves"* — registers the framework's distinctive position with characteristic gentle irony.
+**3. diabolos 詞源**。希臘文新約中「魔鬼」一詞 —— *diabolos* —— 意為「誹謗者」。透過誹謗測試先知的形象,是制度性程序的「誹謗者」,而非中世紀基督教神學的宇宙性邪惡擬人化。源典的具體框設 —— *「這就是我們著名的魔鬼,但他仍沒有角,沒有蹄」* —— 以特有的溫和嘲諷登錄文集獨特的立場。
 
-### The Jesus testing passages
+### 耶穌測試段落
 
-The principal source-material treatment of the Jesus testing appears in the broader Jesus-related content. The passages quote the Matthew 4:1-11 wilderness-testing narrative with substantial source-material exegesis:
+對耶穌測試之主要源典處理出現於更廣的耶穌相關內容中。這些段落引用{% libref(book="matthew-woh", chapter=4, verse=1) %}馬太福音 4:1-11{% end %} 之曠野測試敘事,並有實質的源典釋經:
 
-> *"Jesus, for example, was taken into the desert for forty days for his initiation period, and was at certain times confronted with, 'the devil' to see if he would deny his father:"*
+> *「例如,耶穌被帶到曠野四十日,進行其受啟階段,在某些時候面對『魔鬼』以試驗他是否會否認其父親:」*
 > 
-> > *"Then was Jesus led up of the Spirit into the wilderness to be tempted of the devil. — Matthew 4:1"*
+> > *「當時,耶穌被聖靈引到曠野,受魔鬼的試探。—— 馬太福音 4:1」*
 > 
-> *"Or, to be clearer: 'Jesus was taken to the desert to be tested by a slanderer.'"*
+> *「或者,更清楚地說:『耶穌被帶到曠野以受一位誹謗者的測試。』」*
 
-The passage applies the testing-by-slanderer framework to the principal New Testament wilderness-testing narrative:
+該段落將測試者—誹謗者框架應用於主要的新約曠野測試敘事:
 
-**1. The three specific tests**. The bread test (testing whether Jesus will use his capabilities for material comfort), the temple test (testing whether Jesus will demand alliance intervention to prove his status), and the kingdoms test (testing whether Jesus will abandon his commitment to the alliance in exchange for political power). The three tests cover the principal categories in which a prophetic figure might fail: self-interest, pride, and worldly ambition.
+**1. 三項具體測試**。麵包測試(試驗耶穌是否會將其能力用於物質舒適)、聖殿測試(試驗耶穌是否會要求聯盟介入以證明其身分)以及諸國測試(試驗耶穌是否會以放棄對聯盟的投入換取政治權力)。三項測試涵蓋了先知形象可能失敗的主要範疇:自利、傲慢與世俗野心。
 
-**2. The successful outcome**. Jesus passes all three tests, demonstrating reliability for the broader mission.
+**2. 成功的結果**。耶穌通過了所有三項測試,展現對更廣使命的可靠性。
 
-**3. The completion of testing**. *"Then the devil leaveth him; and behold, angels came and ministered unto him."* (Matthew 4:11) — the alliance officers resume direct contact, the operational phase begins, and Jesus is released to his mission.
+**3. 測試的完成**。*「於是,魔鬼離了他;有天使來伺候他。」*({% libref(book="matthew-woh", chapter=4, verse=11) %}馬太福音 4:11{% end %})—— 聯盟官員恢復直接接觸,作業階段開始,耶穌被釋放至其使命。
 
-### The Council-debate passage
+### 議會辯論段落
 
-The principal source-material passage establishing Satan's continuing factional position appears in *Extra-Terrestrials Took Me to Their Planet* (1975), in the meeting-with-the-Elohim narrative:
+確立撒但持續派系立場之主要源典段落出現於《外星人帶我到他們的行星》(1975)的會見耶洛因敘事中{{ cite(id="extraterrestrials-took-me-to-their-planet", text="[2]", title="沃里勒翁(雷爾),《外星人帶我到他們的行星》(1975)—— 佩里戈爾會面,撒但持續反對立場") }}:
 
-> *"I must warn you that among the Elohim there is not only one opinion as to the future of Humanity on Earth. Yahweh thinks that men are good, and he feels that we should let them progress by themselves, convinced that if they are negative, they will self-destroy."*
+> *「我必須警告你,在耶洛因之中,對於地球上人類的未來並非僅有一種意見。耶和華認為人類是好的,他覺得我們應讓他們自行進步,確信若他們是負面的,他們將自我毀滅。」*
 > 
-> *"All my many followers and I, think that men are evil and that we should help mankind hasten its self-destruction."*
+> *「我的眾多追隨者與我,認為人類是邪惡的,我們應協助人類加速其自我毀滅。」*
 
-The passage registers Satan's continuing position within the post-flood political settlement — the principled opposition position is preserved, with Satan continuing to lead the home-world opposition faction throughout the post-flood period and into the contemporary period.
+該段落登錄撒但在洪水後政治結算內的持續立場 —— 原則性反對立場得以保存,撒但於洪水後時期及進入當代時期持續領導母星反對派系。
 
-### The broader source-material context
+### 更廣的源典脈絡
 
-Satan operates within the broader Raëlian source-material context, with substantial supporting material across multiple passages:
+撒但在更廣的雷爾派源典脈絡中運作,跨越多處段落有實質的支持材料:
 
-- The home-world prologue context (the laboratory incident and the original political shutdown) connects to the broader [Dragons](../dragons/) entry's home-world prologue treatment
-- The four-figure taxonomy context connects to the [Lucifer](../lucifer/) and [Serpent](../serpent/) entries
-- The Council political dynamics connect to the broader [Council of the Eternals](../council-of-eternals/) entry
-- The Yahweh moderate-position context connects to the broader [Yahweh](../yahweh/) entry
-- The destruction-decision context connects to the broader [Great Flood](../great-flood/) entry
-- The Cosmic Chain discovery context connects to the broader [Cosmic Chain](../cosmic-chain/) entry
-- The Theomachy broader narrative context connects to the broader [Theomachy](../theomachy/) entry
-- The Jesus testing context connects to the broader [Jesus](../jesus/) entry
+- 母星序章脈絡(實驗室事故與原初的政治關閉)連結至更廣的{% wiki(slug="dragons") %}龍{% end %}條目中的母星序章處理
+- 四形象分類學脈絡連結至{% wiki(slug="lucifer") %}路西法{% end %}與{% wiki(slug="serpent") %}蛇{% end %}條目
+- 議會政治動態連結至更廣的{% wiki(slug="council-of-eternals") %}永恆者議會{% end %}條目
+- 耶和華溫和派立場脈絡連結至更廣的{% wiki(slug="yahweh") %}耶和華{% end %}條目
+- 毀滅決定脈絡連結至更廣的{% wiki(slug="great-flood") %}大洪水{% end %}條目
+- 宇宙鏈發現脈絡連結至更廣的{% wiki(slug="cosmic-chain") %}宇宙鏈{% end %}條目
+- 諸神之戰的更廣敘事脈絡連結至更廣的{% wiki(slug="theomachy") %}諸神之戰{% end %}條目
+- 對耶穌的測試脈絡連結至更廣的{% wiki(slug="jesus") %}耶穌{% end %}條目
 
-## The figure's content
+## 該形象的內容
 
-### Satan's specific factional-political position
+### 撒但具體的派系—政治立場
 
-Satan's principal characterization within the framework comprises several interrelated components.
+撒但在文集中的主要刻畫包含若干相互關聯的組成。
 
-**The political-faction-leader status**. Satan is the leader of the Council's opposition party — the political faction within the Elohim civilization that has consistently opposed the creation of synthetic beings capable of equaling or surpassing their makers. The faction-leader status registers Satan as institutional political figure rather than as cosmic-evil personification.
+**政治—派系領袖身分**。撒但是議會反對黨的領袖 —— 即耶洛因文明內部始終反對創造能與其締造者匹敵或超越其締造者之合成存有的政治派系。派系領袖身分將撒但登錄為制度性政治形象,而非宇宙性邪惡擬人化。
 
-**The principled-opposition argument**. The opposition's principal argument: synthetic creations capable of equaling their makers are fundamentally dangerous, and no protocol, no oversight, and no geographic distance can be trusted to contain the risk. The argument is advanced as principled position rather than as malevolent-cosmic-evil disposition. The argument's substantive content has substantial empirical-historical relevance — the home-world laboratory incident, the human aggression during the antediluvian period, and various subsequent human violence events provide substantial empirical material that Satan's faction has been able to point to in support of the position.
+**原則性反對論證**。反對派的主要論證:能與締造者匹敵之合成造物根本上具有危險,任何協定、任何監督、任何地理距離皆不可信賴以遏制此一風險。該論證以原則性立場提出,而非作為惡意—宇宙性邪惡的傾向。該論證的實質內容具有重大的實證—歷史相關性 —— 母星實驗室事故、前洪水時期的人類侵略行為,以及隨後的各種人類暴力事件,提供了撒但派系得以指向以支持該立場的實證材料。
 
-**The institutional consistency**. Satan's position has been consistent since before the Earth program began. The position is not a development across the broader narrative arc; it is the foundational position that Satan and his faction have held throughout. The consistency registers Satan as principled-opposition figure rather than as opportunistic-political figure.
+**制度性一貫**。撒但的立場自地球計畫開始之前即一貫。該立場並非更廣敘事弧線中的發展;它是撒但與其派系自始至終所持守的基礎性立場。其一貫性將撒但登錄為原則性反對形象,而非機會主義式政治形象。
 
-**The collegial relationship with Yahweh**. The Job episode's dialogue, in which Yahweh and Satan engage in normal institutional-political conversation, registers the substantial collegial relationship between the two figures. The source's specific framing: "good relations, or even fraternal relations between Yahweh and Satan." The relationship is institutional-political rather than cosmic-good-vs-cosmic-evil opposition.
+**與耶和華的同僚關係**。約伯記事件中的對話,即耶和華與撒但進行正常的制度性—政治對話,登錄了兩位形象之間實質的同僚關係。源典的具體框設:「耶和華與撒但之間的良好關係,甚至兄弟般的關係」。該關係為制度性—政治性,而非宇宙性善惡對立。
 
-### The four-figure taxonomy
+### 四形象分類學
 
-The framework's principal analytical contribution is the careful distinction of Satan from three other distinct figures and roles that mainstream Western religious tradition has progressively conflated. The four-figure taxonomy:
+文集的主要分析貢獻是審慎地將撒但與西方主流宗教傳統漸進混淆的另外三位相異形象與角色加以區分。四形象分類學:
 
-**Satan**: The home-world Council opposition leader, never on Earth. Position: the faction within the Elohim civilization that opposed the creation of beings in the Elohim's own image. Role: institutional adversarial opposition within the Council political structure, with the post-flood prophet-testing role being the operational continuation of the broader opposition function.
+**撒但**:母星議會反對派領袖,從未到過地球。立場:耶洛因文明內部反對按耶洛因自身形像創造存有之派系。角色:在議會政治結構中之制度性敵對反對,洪水後的先知測試角色為更廣反對功能之作業延續。
 
-**Lucifer**: The Earth-based exiled-creator faction leader, the Eden disclosure agent. Position: leader of the dissident faction within the Earth program who advocated for full disclosure to the human creation about their origins and the Council's political prohibitions. Role: the principal Earth-side actor in the Eden disclosure, the antediluvian-period instructor of humanity, the post-flood alliance partner of the human creation. The detailed treatment lives in the [Lucifer](../lucifer/) entry.
+**路西法**:地球上的流放締造者派系領袖,伊甸揭露執行者。立場:地球計畫內部異議派系領袖,主張對人類受造物完全揭露其起源與議會的政治禁令。角色:伊甸揭露的主要地球側行動者、前洪水時期的人類導師、洪水後的人類聯盟夥伴。詳盡處理存於{% wiki(slug="lucifer") %}路西法{% end %}條目。
 
-**The Serpent**: The Lucifer faction collectively in the Eden-disclosure role. Position: the specific Hebrew Bible designation (*ha-nachash*) for the Lucifer faction acting in the disclosure role. Role: the disclosing agent in the Genesis 3 narrative, with the broader cross-cultural Serpentine tradition preserving the broader category. The detailed treatment lives in the [Serpent](../serpent/) entry.
+**蛇**:在伊甸揭露角色中之路西法派系集體。立場:希伯來聖經中對在揭露角色中行事之路西法派系的具體稱謂(*ha-nachash*)。角色:創世記 3 章敘事中的揭露執行者,更廣的跨文化蛇形傳統保存了更廣的範疇。詳盡處理存於{% wiki(slug="serpent") %}蛇{% end %}條目。
 
-**The Devil / *diabolos***: The Greek functional designation for Satan's specific institutional adversarial-interview role. Position: not a separate figure but a specific institutional designation for Satan's prophet-testing function. Role: the slanderer-tester whose function is to verify prophetic figures through adversarial interview.
+**魔鬼 / *diabolos***:撒但具體制度性敵對—訪談角色的希臘文功能性稱謂。立場:並非獨立形象,而是撒但先知測試功能的特定制度性稱謂。角色:誹謗者—測試者,其功能為透過敵對性訪談驗證先知形象。
 
-The four-figure taxonomy is operationally important because each figure operates with distinct location (home world vs. Earth), distinct political position (Council opposition vs. Earth-based dissident vs. mediating function), and distinct narrative role across the broader corpus framework. The mainstream Western religious tradition's conflation of these four figures into a single cosmic-evil personification has substantially obscured the original political-institutional structure.
+四形象分類學在作業上重要,因為每位形象以相異的位置(母星 vs. 地球)、相異的政治立場(議會反對 vs. 地球側異議 vs. 中介功能),以及在更廣文集框架中相異的敘事角色運作。西方主流宗教傳統將此四位形象混淆為單一宇宙性邪惡擬人化,實質遮蔽了原初的政治—制度結構。
 
-### The conflation history
+### 混淆歷史
 
-The framework's articulation of how the four-figure taxonomy was progressively conflated registers substantial historical-developmental content.
+文集對四形象分類學如何漸進地混淆的闡述,登錄了實質的歷史—發展內容。
 
-**The Sodom-Gomorrah catalyst**. The corpus reads the Sodom and Gomorrah destruction (treated more fully in the [Sodom and Gomorrah](../sodom-and-gomorrah/) entry when written) as the principal catalyst that disrupted the framework that had previously preserved the distinctions. After the destruction of the Cities of the Plain, the post-Sodom population, with its educated class destroyed, no longer had the framework to maintain the original distinctions between the figures.
+**所多瑪—蛾摩拉催化劑**。文集將所多瑪與蛾摩拉的毀滅(將於{% wiki(slug="sodom-and-gomorrah") %}所多瑪與蛾摩拉{% end %}條目撰寫時更完整處理)讀作擾亂先前保存區分之框架的主要催化劑。在平原諸城被毀後,後所多瑪時期的人口因其受教育階層被摧毀,不再擁有維持形象間原初區分的框架。
 
-**The progressive merging**. Across the centuries from Sodom to the composition of the later prophetic literature, the four originally distinct figures progressively merged within the broader Hebrew tradition. The Serpent became associated with rebellion (rather than with the specific Lucifer-faction Eden-disclosure role). The rebel Serpent became associated with the home-world political opposition (Satan). The Lucifer figure became progressively merged with both the Serpent and Satan.
+**漸進匯合**。在自所多瑪至後期先知文獻寫成的數世紀間,四位原本相異的形象在更廣的希伯來傳統中漸進匯合。蛇變得與叛亂相關聯(而非與具體的路西法派系伊甸揭露角色相關聯)。叛亂的蛇變得與母星政治反對(撒但)相關聯。路西法形象漸進地與蛇及撒但二者皆混淆。
 
-**The Persian dualistic influence**. The Achaemenid Persian Empire's Zoroastrian dualistic framework substantially influenced Second Temple Judaism, with the originally limited *satan* figure progressively absorbing aspects of the Zoroastrian Angra Mainyu / Ahriman framework. The cosmic-good-vs-cosmic-evil dualistic framework substantially shaped subsequent Jewish-Christian demonological development.
+**波斯二元論影響**。阿契美尼德波斯帝國的祆教二元論框架實質影響了第二聖殿時期猶太教,原本有限的 *satan* 形象漸進地吸收了祆教的安格拉·曼紐 / 阿胡里曼框架的若干面向。宇宙性善惡對立的二元論框架實質塑造了其後猶太—基督教魔鬼學的發展。
 
-**The Christian-theological synthesis**. By the late Second Temple period, with the Persian dualistic influence overlaid on the earlier Hebrew tradition, the merging was complete: Lucifer and Satan had been conflated into a single figure of cosmic evil, the Serpent had been identified with this figure, and the original distinctions preserved in the source's account had been lost from the religious tradition. The Christian tradition inherited the conflated figure and elaborated it into the Devil, the cosmic adversary, the prince of darkness. Medieval theology refined the figure into the elaborate demonology that would dominate Western religious thought for a millennium.
+**基督教神學綜合**。至第二聖殿時期末期,在波斯二元論影響覆蓋於早期希伯來傳統之上時,匯合已完成:路西法與撒但已被混淆為單一的宇宙性邪惡形象,蛇已被認同為此形象,而源典記述中所保存的原初區分已自宗教傳統中失落。基督教傳統繼承了混淆後的形象,並將其鋪陳為魔鬼、宇宙敵手、黑暗之君。中世紀神學將該形象精煉為精密的魔鬼學,該魔鬼學支配西方宗教思想長達一個千年。
 
-**The contemporary persistence**. The conflated cosmic-evil figure remains the principal Western cultural-religious reception of "Satan," with substantial contemporary cultural-political reach. The corpus's analytical work disentangling the four originally distinct figures operates against approximately two thousand years of accumulated theological-cultural elaboration.
+**當代之延續**。混淆後的宇宙性邪惡形象仍是西方主要的「撒但」文化—宗教接受形式,具有實質的當代文化—政治影響範圍。文集對四位原本相異形象的分析性區分工作,是對抗約兩千年累積的神學—文化鋪陳。
 
-### The post-flood institutional role
+### 洪水後制度性角色
 
-Satan's post-flood institutional role comprises several interrelated functions.
+撒但的洪水後制度性角色包含若干相互關聯的功能。
 
-**The continuing opposition position**. *"Satan is still convinced of the evil in Man, but he bows before the majority of those who, behind Yahweh, think the contrary within the council of the Eternals."* The principled-opposition position is preserved while accepting the institutional-democratic outcome of the post-flood Council vote.
+**持續反對立場**。*「撒但仍然確信人類的邪惡,但他在議會中,於那些在耶和華身後持反對意見者的多數面前低頭。」* 原則性反對立場得以保存,同時接受洪水後議會投票的制度性—民主結果。
 
-**The prophet-testing function**. Satan's specific institutional role across the post-flood period is the systematic testing of prophetic figures through adversarial-interview procedure. The institutional logic: a prophet who could be turned by Satan's testing would be a liability to the broader mission; a prophet who resisted the testing could be trusted. The testing was, in effect, an adversarial interview conducted by the political opposition specifically because the opposition's motivated skepticism would expose any weakness in the candidate's commitment.
+**先知測試功能**。撒但在洪水後時期的具體制度性角色,是透過敵對性—訪談程序對先知形象進行系統性測試。制度邏輯:一位可被撒但的測試所動搖的先知將成為更廣使命的負擔;一位能抗拒測試的先知則可被信任。該測試實質上是由政治反對派所進行的敵對性訪談,因為反對派出於動機的懷疑論將會暴露候選人在投入上的任何弱點。
 
-**The testing methodology**. The methodology comprises:
-- Slander against the Elohim (testing whether the prophet's commitment can be shaken by attacks on the alliance's character)
-- Attempts to produce abjuration of the creator-relationship (testing whether the prophet's loyalty can be turned)
-- Offers of material reward in exchange for mission-betrayal (testing whether the prophet's commitment can be purchased)
-- Specific situation-tests calibrated to the individual prophet's specific vulnerabilities (the bread test for someone fasting, the temple test for someone needing validation, the kingdoms test for someone capable of political ambition)
+**測試方法論**。其方法論包含:
+- 對耶洛因的誹謗(試驗先知的投入是否能被對聯盟特質的攻擊所動搖)
+- 嘗試產生對締造者關係的否棄(試驗先知的忠誠是否能被轉變)
+- 以物質報酬換取使命背叛的提議(試驗先知的投入是否能被收買)
+- 針對個別先知具體弱點所校準之具體情境測試(對禁食者的麵包測試、對需要肯定者的聖殿測試、對具政治野心能力者的諸國測試)
 
-**The institutional value**. Satan's specific function in the testing is operationally valuable to the broader alliance-mission precisely because Satan's opposition is genuine. A pro-forma testing by an aligned figure would not produce the same operational value as a substantive testing by a figure whose motivated skepticism would expose any weakness in the candidate's commitment. The principled-opposition character is what makes the institutional function operationally valuable.
+**制度價值**。撒但在測試中的具體功能,對更廣聯盟使命具有作業價值,恰因為撒但的反對是真實的。由立場一致之形象進行形式上的測試,將無法產生與由動機懷疑之形象進行實質測試相同的作業價值 —— 後者將暴露候選人投入中的任何弱點。原則性反對特性正是使該制度性功能具備作業價值的因素。
 
-### The figure's broader theological-political significance
+### 該形象更廣的神學—政治意義
 
-Satan's specific position within the broader framework has substantial implications across multiple domains.
+撒但在更廣框架中的具體立場,跨越多個領域具有實質意涵。
 
-**The principled-opposition framing**. The framework's specific position registers Satan as principled-opposition figure rather than as cosmic-evil personification. The position has substantial implications for the broader theological-philosophical framework: cosmic-evil personification is replaced with political-institutional opposition; the cosmic-good-vs-cosmic-evil dualistic framework is replaced with normal institutional-political deliberation; the medieval-Christian demonology is replaced with the recognition that the principal Western religious tradition's cosmic-evil figure is the result of a complex historical-cultural process rather than the original character of the figure.
+**原則性反對的框設**。文集的具體立場將撒但登錄為原則性反對形象,而非宇宙性邪惡擬人化。該立場對更廣的神學—哲學框架具有實質意涵:宇宙性邪惡擬人化被政治—制度性反對取代;宇宙性善惡對立的二元論框架被正常的制度性—政治審議取代;中世紀基督教魔鬼學被對以下事實的認識所取代 —— 西方主流宗教傳統的宇宙性邪惡形象,乃複雜歷史—文化過程的結果,而非該形象的原初特性。
 
-**The democratic-institutional framing**. The post-flood Satan's specific institutional submission to the Council majority registers the framework's broader registration of the Elohim civilization as substantively democratic-institutional rather than as theocratic-authoritarian. Satan's continuing opposition position with institutional submission models a substantively functional democratic-institutional framework.
+**民主—制度的框設**。洪水後撒但對議會多數的具體制度性服從,登錄了文集對耶洛因文明的更廣登錄為實質民主—制度性,而非神權威權主義。撒但帶著制度性服從的持續反對立場,示範了實質運作的民主—制度框架。
 
-**The empirical-historical character**. Satan's specific position has been substantively tested across the broader narrative arc. The post-flood period, the prophetic-tradition development, the various religious-traditional articulations across the subsequent ages, and the broader contemporary period all provide substantial empirical material relevant to the question of whether Satan's principled-opposition argument is correct. The framework registers this without forcing a premature conclusion — the question of whether synthetic creations capable of equaling their makers will inevitably become dangerous remains substantively open across the broader corpus framework, with substantial subsequent development in the various entries treating the broader cosmic-civilizational dynamics.
+**實證—歷史特性**。撒但的具體立場已在更廣的敘事弧線中受實質檢驗。洪水後時期、先知傳統的發展、隨後各時代各種宗教—傳統的闡述,以及更廣的當代時期,皆提供與「撒但的原則性反對論證是否正確」此一問題相關的實質實證材料。文集登錄此事而不強加倉促結論 —— 能與其締造者匹敵之合成造物是否將終究變得危險的問題,於更廣的文集框架中仍實質開放,並有處理更廣宇宙—文明動態之各條目中實質的後續發展。
 
-## Application across the corpus
+## 在文集中的應用
 
-Satan operates as one of the principal political figures across multiple corpus framework entries.
+撒但作為跨越多個文集框架條目的主要政治形象之一運作。
 
-### The Lucifer entry
+### 路西法條目
 
-Satan's specific factional-political opposition to Lucifer is one of the principal operational components of the broader [Lucifer](../lucifer/) entry. The detailed treatment of Lucifer's specific role lives in that entry; the Satan entry's specific contribution is registering the home-world-Council opposition position from which the Earth-based Lucifer faction was distinguished.
+撒但對路西法之具體派系—政治反對,是更廣{% wiki(slug="lucifer") %}路西法{% end %}條目的主要作業組成之一。路西法具體角色之詳盡處理存於該條目;撒但條目的具體貢獻,是登錄母星—議會反對立場,地球上的路西法派系即由此而被區分。
 
-### The Serpent entry
+### 蛇條目
 
-Satan's specific distinction from the Serpent (the Lucifer faction collectively in the Eden-disclosure role) is one of the principal operational components of the broader [Serpent](../serpent/) entry. The detailed treatment of the Serpent figuration lives in that entry; the Satan entry's specific contribution is registering the four-figure taxonomy that distinguishes Satan from the Serpent.
+撒但與蛇(在伊甸揭露角色中之路西法派系集體)之具體區分,是更廣{% wiki(slug="serpent") %}蛇{% end %}條目的主要作業組成之一。蛇形象之詳盡處理存於該條目;撒但條目的具體貢獻,是登錄將撒但與蛇加以區分的四形象分類學。
 
-### The Council of the Eternals entry
+### 永恆者議會條目
 
-Satan's specific institutional position as Council opposition leader connects substantially to the broader [Council of the Eternals](../council-of-eternals/) entry. The detailed treatment of the Council's institutional structure lives in that entry; the Satan entry's specific contribution is registering Satan's specific factional-political role within the broader Council dynamics.
+撒但作為議會反對派領袖之具體制度性立場,與更廣的{% wiki(slug="council-of-eternals") %}永恆者議會{% end %}條目實質連結。議會制度結構之詳盡處理存於該條目;撒但條目的具體貢獻,是登錄撒但在更廣議會動態中的具體派系—政治角色。
 
-### The Yahweh entry
+### 耶和華條目
 
-Satan's specific relationship with Yahweh (the collegial-political relationship across the broader narrative arc) is one of the operational components of the broader [Yahweh](../yahweh/) entry. The detailed treatment of Yahweh as figure lives in that entry; the Satan entry's specific contribution is registering the specific factional-political dynamics between the Council president and the opposition leader.
+撒但與耶和華的具體關係(跨越更廣敘事弧線之同僚—政治關係),是更廣{% wiki(slug="yahweh") %}耶和華{% end %}條目的作業組成之一。耶和華作為形象之詳盡處理存於該條目;撒但條目的具體貢獻,是登錄議會主席與反對派領袖之間的具體派系—政治動態。
 
-### The Great Flood entry
+### 大洪水條目
 
-Satan's specific role in the antediluvian destruction-decision context is one of the operational components of the broader [Great Flood](../great-flood/) entry. The detailed treatment of the flood event lives in that entry; the Satan entry's specific contribution is registering Satan's specific evidence-accumulation function and Council-presentation role.
+撒但在前洪水期毀滅決定脈絡中的具體角色,是更廣{% wiki(slug="great-flood") %}大洪水{% end %}條目的作業組成之一。洪水事件之詳盡處理存於該條目;撒但條目的具體貢獻,是登錄撒但具體的證據累積功能與議會呈報角色。
 
-### The Theomachy entry
+### 諸神之戰條目
 
-Satan's specific Council-side participation in the broader Theomachy narrative connects substantially to the broader [Theomachy](../theomachy/) entry. The detailed treatment of the multi-age conflict lives in that entry; the Satan entry's specific contribution is registering Satan's specific factional-political position within the broader conflict's Council-side dynamics.
+撒但在更廣諸神之戰敘事中之具體議會側參與,與更廣的{% wiki(slug="theomachy") %}諸神之戰{% end %}條目實質連結。多時代衝突之詳盡處理存於該條目;撒但條目的具體貢獻,是登錄撒但在更廣衝突之議會側動態中的具體派系—政治立場。
 
-### The Cosmic Chain entry
+### 宇宙鏈條目
 
-Satan's specific post-flood institutional submission following the Cosmic Chain discovery connects substantially to the broader [Cosmic Chain](../cosmic-chain/) entry. The detailed treatment of the Cosmic Chain framework lives in that entry; the Satan entry's specific contribution is registering Satan's specific response to the Cosmic Chain discovery.
+撒但於宇宙鏈發現後之具體洪水後制度性服從,與更廣的{% wiki(slug="cosmic-chain") %}宇宙鏈{% end %}條目實質連結。宇宙鏈框架之詳盡處理存於該條目;撒但條目的具體貢獻,是登錄撒但對宇宙鏈發現的具體回應。
 
-### The Jesus entry
+### 耶穌條目
 
-Satan's specific role in the wilderness testing of Jesus connects substantially to the broader [Jesus](../jesus/) entry. The detailed treatment of Jesus as figure lives in that entry; the Satan entry's specific contribution is registering the institutional prophet-testing function as it applied to Jesus specifically.
+撒但於耶穌曠野測試中之具體角色,與更廣的{% wiki(slug="jesus") %}耶穌{% end %}條目實質連結。耶穌作為形象之詳盡處理存於該條目;撒但條目的具體貢獻,是登錄具體應用於耶穌的制度性先知測試功能。
 
-### The Prophet entry
+### 先知條目
 
-Satan's specific institutional prophet-testing role connects substantially to the broader [Prophet](../prophet/) entry. The detailed treatment of the prophetic-tradition lives in that entry; the Satan entry's specific contribution is registering the testing-function across the broader prophetic tradition.
+撒但具體的制度性先知測試角色,與更廣的{% wiki(slug="prophet") %}先知{% end %}條目實質連結。先知傳統之詳盡處理存於該條目;撒但條目的具體貢獻,是登錄跨越更廣先知傳統的測試功能。
 
-## Distinguishing from adjacent concepts
+## 與相鄰概念的區分
 
-### Satan vs. Lucifer
+### 撒但 vs. 路西法
 
-Lucifer is the Earth-based exiled-creator faction leader; Satan is the home-world Council opposition leader. The two figures occupy distinct locations (Earth vs. home world), distinct political positions (Earth-based dissident vs. Council institutional opposition), and distinct narrative roles (Eden disclosure agent vs. principled-opposition advocate). The two figures are political opponents within the broader Elohim political structure rather than cosmic-good-vs-cosmic-evil personifications.
+路西法是地球上的流放締造者派系領袖;撒但是母星議會反對派領袖。兩位形象佔據相異的位置(地球 vs. 母星)、相異的政治立場(地球側異議 vs. 議會制度性反對),以及相異的敘事角色(伊甸揭露執行者 vs. 原則性反對倡議者)。兩位形象為更廣耶洛因政治結構內部的政治對手,而非宇宙性善惡擬人化。
 
-The relationship is one of **distinct-figures-with-opposing-political-positions**: Lucifer advocates full disclosure to humanity; Satan opposes the human creation entirely. The mainstream Christian-tradition conflation of the two figures into a single cosmic-evil personification represents the result of approximately two thousand years of theological-cultural development that has obscured the original distinct identities.
+該關係為**具有相反政治立場之相異形象**:路西法主張對人類完全揭露;撒但完全反對人類創造。主流基督教傳統將兩位形象混淆為單一宇宙性邪惡擬人化,代表約兩千年神學—文化發展的結果,該發展遮蔽了原初的相異身份。
 
-### Satan vs. the Serpent
+### 撒但 vs. 蛇
 
-The Serpent is the specific Hebrew Bible designation (*ha-nachash*) for the Lucifer faction acting in the Genesis 3 Eden-disclosure role. Satan is the home-world Council opposition leader who has never been on Earth. The two figures are distinct: the Serpent operates on Earth in the Eden-disclosure role; Satan operates on the home world in the institutional-political opposition role.
+蛇是希伯來聖經對在創世記 3 章伊甸揭露角色中行事之路西法派系的具體稱謂(*ha-nachash*)。撒但是從未到過地球的母星議會反對派領袖。兩位形象相異:蛇於地球上在伊甸揭露角色中運作;撒但於母星上在制度性—政治反對角色中運作。
 
-The relationship is one of **distinct-figures-distinguished-by-location-and-role**: the Serpent is on Earth performing the disclosure act; Satan is on the home world performing the institutional opposition function. The mainstream Christian-tradition conflation of the Serpent with Satan represents the result of subsequent theological-cultural development.
+該關係為**依位置與角色而區分的相異形象**:蛇於地球上執行揭露行動;撒但於母星上執行制度性反對功能。主流基督教傳統將蛇與撒但混淆,代表其後神學—文化發展的結果。
 
-### Satan vs. the Devil
+### 撒但 vs. 魔鬼
 
-The Devil — the Greek *diabolos*, "slanderer" — is not a separate figure from Satan but a specific functional designation for Satan's institutional adversarial-interview role. The Greek term translates the Hebrew *satan* with substantively similar functional content (both terms designate the figure by adversarial-opposition function rather than by personal name).
+魔鬼 —— 希臘語 *diabolos*,「誹謗者」—— 並非與撒但相異的獨立形象,而是撒但制度性敵對—訪談角色的具體功能性稱謂。希臘語詞翻譯希伯來語 *satan*,具有實質相似的功能內容(兩個詞皆以敵對—反對功能而非個人姓名指稱該形象)。
 
-The relationship is one of **same-figure-with-different-functional-designation-across-languages**: Satan in Hebrew, *diabolos* in Greek, *Diabolus* in Latin, "the Devil" in English religious tradition. The medieval-Christian theological elaboration of "the Devil" with red skin, horns, and cloven hoofs is a cultural overlay on the original linguistic-functional designation.
+該關係為**跨語言以不同功能性稱謂指稱之同一形象**:希伯來語的撒但、希臘語的 *diabolos*、拉丁語的 *Diabolus*、英語宗教傳統中的「Devil」。中世紀基督教神學將「魔鬼」鋪陳為紅皮膚、有角、有蹄的形象,是覆蓋於原初語言—功能性稱謂之上的文化覆蓋層。
 
-### Satan vs. the cosmic-evil personification
+### 撒但 vs. 宇宙性邪惡擬人化
 
-The cosmic-evil personification of medieval-Christian theology is the result of approximately two thousand years of progressive conflation of the four originally distinct figures (Satan, Lucifer, the Serpent, the Devil) plus various other adversarial-cosmic figures (the Watchers, the Eden serpent, the Isaiah 14 morning star, the Ezekiel 28 king of Tyre). The framework's specific position registers this as historical-developmental result rather than as the figures' original character.
+中世紀基督教神學的宇宙性邪惡擬人化,乃約兩千年漸進混淆四位原本相異形象(撒但、路西法、蛇、魔鬼)加上各種其他敵對—宇宙性形象(守望者、伊甸蛇、以賽亞書 14 章的晨星、以西結書 28 章的推羅王)的結果。文集的具體立場將此登錄為歷史—發展性結果,而非該等形象的原初特性。
 
-The relationship is one of **historical-developmental-result-vs-original-character**: the cosmic-evil personification is the conflated figure of subsequent theological-cultural development; the original Hebrew Bible *satan* and the broader four-figure taxonomy are the original framework that the conflation has obscured.
+該關係為**歷史—發展性結果 vs. 原初特性**:宇宙性邪惡擬人化為其後神學—文化發展的混淆後形象;原初的希伯來聖經 *satan* 與更廣的四形象分類學,則為混淆所遮蔽的原初框架。
 
-## Modern reinterpretations
+## 現代再詮釋
 
-### Mainstream Hebrew Bible scholarship
+### 主流希伯來聖經學術
 
-Mainstream Hebrew Bible scholarship has produced substantial work distinguishing the Hebrew Bible *satan* figure from the later Christian-theological cosmic-evil personification.
+主流希伯來聖經學術已產生實質工作,將希伯來聖經之 *satan* 形象與後續基督教神學之宇宙性邪惡擬人化區分開來。
 
-**Peggy L. Day**'s *An Adversary in Heaven: Satan in the Hebrew Bible* (Scholars Press, 1988) provided the principal foundational scholarly engagement with the Hebrew Bible *satan* figure. Day's principal thesis: the Hebrew Bible *satan* is a substantially limited and institutional figure rather than the cosmic-evil personification of later tradition. Day's framework demonstrates that the Hebrew Bible's three principal *satan* passages (Job 1-2, Zechariah 3, 1 Chronicles 21) present the figure in institutional rather than cosmic-evil terms, with the figure's character developing across the post-exilic period in directions that subsequent Christian tradition substantially extended.
+**Peggy L. Day** 的《天上的敵手:希伯來聖經中的撒但》(Scholars Press,1988)提供了對希伯來聖經 *satan* 形象之主要基礎性學術參與。Day 的主要論題:希伯來聖經之 *satan* 是一個實質有限且制度性的形象,而非後續傳統的宇宙性邪惡擬人化。Day 的框架展示了希伯來聖經三個主要 *satan* 段落(約伯記 1-2 章、撒迦利亞書 3 章、歷代志上 21 章)以制度性而非宇宙性邪惡的詞語呈現該形象,該形象的特性於後流亡時期朝後續基督教傳統實質延伸之方向發展。
 
-**Marvin H. Pope**'s *Job* (Anchor Bible, Doubleday, 1965; 3rd ed., 1973) provided substantial scholarly treatment of the Job episode with detailed engagement with the Hebrew *satan* figure's institutional character within the divine council framework. Pope's specific contribution: substantial documentation of the Near Eastern divine-council parallels and the institutional-procedural character of the Job dialogue.
+**Marvin H. Pope** 的《約伯記》(Anchor Bible,Doubleday,1965;1973 年第三版)提供了對約伯記事件的實質學術處理,並對神聖議會框架內希伯來語 *satan* 形象的制度性特性有詳盡的參與。Pope 的具體貢獻:對近東神聖議會平行案例與約伯記對話之制度性—程序性特性的實質記錄。
 
-**Norman C. Habel**'s *The Book of Job* (Westminster Press, 1985) provided substantial complementary scholarly treatment with substantial attention to the figure's institutional role within the broader Job-narrative framework.
+**Norman C. Habel** 的《約伯記》(Westminster Press,1985)提供了實質的互補學術處理,對該形象在更廣約伯記敘事框架內的制度性角色有實質關注。
 
-**Various subsequent scholarship**. Substantial subsequent Hebrew Bible scholarship (Carol A. Newsom's *The Book of Job: A Contest of Moral Imaginations*, Oxford University Press, 2003; David J. A. Clines's three-volume *Job* commentary in the Word Biblical Commentary series; various other contributions) has continued to develop the scholarly understanding of the Hebrew Bible *satan* figure within the broader Hebrew Bible religious-cultural context.
+**各種後續學術**。實質的後續希伯來聖經學術(Carol A. Newsom 的《約伯記:道德想像之競技》,Oxford University Press,2003;David J. A. Clines 之 Word Biblical Commentary 系列三卷本《約伯記》註釋;以及其他各種貢獻)持續發展對希伯來聖經 *satan* 形象在更廣希伯來聖經宗教—文化脈絡內的學術理解。
 
-### The Second Temple period satan-development scholarship
+### 第二聖殿時期 satan 發展學術
 
-Mainstream Second Temple Judaism scholarship has produced substantial work on the satan-figure development across this period.
+主流第二聖殿時期猶太教學術已就此期間之 satan 形象發展產生實質工作。
 
-**The Persian dualistic influence**. **Mary Boyce**'s *Zoroastrians: Their Religious Beliefs and Practices* (Routledge, 1979) and various other works documented the substantial Zoroastrian influence on Second Temple Judaism. The principal influence: the cosmic-dualistic framework (Ahura Mazda vs. Angra Mainyu / Ahriman) provided substantial conceptual material that was progressively absorbed into Jewish theological development across the post-exilic period.
+**波斯二元論影響**。**Mary Boyce** 的《祆教徒:其宗教信仰與實踐》(Routledge,1979)及其他多部作品記錄了祆教對第二聖殿時期猶太教的實質影響。主要影響:宇宙—二元論框架(阿胡拉·瑪茲達 vs. 安格拉·曼紐 / 阿胡里曼)提供了實質的概念材料,在後流亡時期被漸進地吸收進入猶太神學發展。
 
-**The Watchers tradition scholarship**. **George W. E. Nickelsburg**'s *1 Enoch 1: A Commentary on the Book of 1 Enoch, Chapters 1-36; 81-108* (Hermeneia, Fortress Press, 2001) and various other scholarship documented the Watchers tradition's substantial role in shaping Second Temple demonological development. The principal contribution: the Watchers narrative provided substantial conceptual material for the development of cosmic-evil-figure traditions that would subsequently shape Christian theological elaboration.
+**守望者傳統學術**。**George W. E. Nickelsburg** 的《以諾一書 1:以諾一書 1-36 章;81-108 章註釋》(Hermeneia,Fortress Press,2001)及其他各種學術記錄了守望者傳統在塑造第二聖殿時期魔鬼學發展中的實質角色。主要貢獻:守望者敘事提供了實質的概念材料以發展宇宙性邪惡形象傳統,該傳統其後塑造了基督教神學鋪陳。
 
-**Annette Yoshiko Reed's broader scholarship**. **Annette Yoshiko Reed**'s *Fallen Angels and the History of Judaism and Christianity: The Reception of Enochic Literature* (Cambridge University Press, 2005) provided substantial subsequent scholarly treatment of the Watchers tradition's influence on subsequent Jewish and Christian development.
+**Annette Yoshiko Reed 之更廣學術**。**Annette Yoshiko Reed** 的《墮落天使與猶太教及基督教歷史:以諾文獻之接受》(Cambridge University Press,2005)對守望者傳統於其後猶太教與基督教發展中的影響提供了實質的後續學術處理。
 
-**The Qumran scholarship**. Substantial Qumran scholarship (Geza Vermes's various works, Lawrence H. Schiffman's *Reclaiming the Dead Sea Scrolls*, James VanderKam's *The Dead Sea Scrolls Today*, various other contributions) has documented the Qumran community's specific dualistic framework and its substantial influence on subsequent Jewish-Christian development.
+**昆蘭學術**。實質的昆蘭學術(Geza Vermes 的多部作品、Lawrence H. Schiffman 的《收復死海古卷》、James VanderKam 的《今日死海古卷》及其他多項貢獻)記錄了昆蘭社群的具體二元論框架及其對隨後猶太—基督教發展的實質影響。
 
-### The Christian-tradition demonology development
+### 基督教傳統魔鬼學發展
 
-Mainstream scholarship on the Christian-tradition demonology development has produced substantial work.
+主流對基督教傳統魔鬼學發展之學術已產生實質工作。
 
-**Jeffrey Burton Russell's four-volume series**. The principal foundational scholarly history:
+**Jeffrey Burton Russell 的四卷本系列**。主要的基礎性學術歷史:
 
-- **Russell**, *The Devil: Perceptions of Evil from Antiquity to Primitive Christianity* (Cornell University Press, 1977) — the development from antiquity through early Christianity
-- **Russell**, *Satan: The Early Christian Tradition* (Cornell University Press, 1981) — the early Christian-period development
-- **Russell**, *Lucifer: The Devil in the Middle Ages* (Cornell University Press, 1984) — the medieval-period development
-- **Russell**, *Mephistopheles: The Devil in the Modern World* (Cornell University Press, 1986) — the modern-period development
+- **Russell**,《魔鬼:自古代至原始基督教時期對惡的觀念》(Cornell University Press,1977)—— 自古代至早期基督教之發展
+- **Russell**,《撒但:早期基督教傳統》(Cornell University Press,1981)—— 早期基督教時期發展
+- **Russell**,《路西法:中世紀的魔鬼》(Cornell University Press,1984)—— 中世紀時期發展
+- **Russell**,《梅菲斯托費勒斯:現代世界的魔鬼》(Cornell University Press,1986)—— 現代時期發展
 
-The four-volume series provides substantial documentation of approximately three thousand years of religious-cultural development of the satan-devil-lucifer figuration, with substantial historical-developmental analysis of how the original limited Hebrew Bible figure progressively developed into the elaborate medieval-modern cosmic-evil personification.
+該四卷本系列對 satan-devil-lucifer 形象橫跨約三千年宗教—文化發展提供了實質的記錄,並對原初有限的希伯來聖經形象如何漸進地發展為精密的中世紀—現代宇宙性邪惡擬人化進行了實質的歷史—發展分析。
 
-**Elaine Pagels**'s *The Origin of Satan* (Random House, 1995) provided substantial subsequent scholarly engagement with the early Christian development of the satan figure. Pagels's principal contribution: substantial documentation of the social-political functions of the cosmic-evil-personification framework in the early Christian community's self-definition against various rival groups (Jewish opponents, pagan opponents, heretical-Christian opponents). The analysis registers the satan-development as substantially shaped by political-social dynamics rather than as purely theological development.
+**Elaine Pagels** 的《撒但的起源》(Random House,1995)提供了對早期基督教 satan 形象發展之實質後續學術參與。Pagels 的主要貢獻:對宇宙性邪惡擬人化框架在早期基督教社群面對各種對手群體(猶太對手、異教對手、異端基督教對手)之自我定義中之社會—政治功能的實質記錄。此一分析將 satan 發展登錄為實質地由政治—社會動態所塑造,而非純粹的神學發展。
 
-**Henry Ansgar Kelly's revisionist scholarship**. **Kelly**'s *Satan: A Biography* (Cambridge University Press, 2006) provided substantial revisionist scholarship arguing that the cosmic-evil-personification figure of medieval-Christian tradition is substantively distinct from the original Hebrew Bible figure. Kelly's framework registers substantial structural alignment with the corpus's specific position on the conflation history while operating from distinct source-material warrant principally drawn from mainstream historical-philological scholarship.
+**Henry Ansgar Kelly 的修正主義學術**。**Kelly** 的《撒但:傳記》(Cambridge University Press,2006)提供了實質的修正主義學術,論證中世紀基督教傳統之宇宙性邪惡擬人化形象實質上有別於原初希伯來聖經形象。Kelly 的框架在混淆歷史上實質契合於文集的具體立場,同時源自主要取自主流歷史—語文學學術之相異源典依據。
 
-**Various subsequent scholarship**. Substantial subsequent scholarship (Bernard McGinn's *Antichrist: Two Thousand Years of the Human Fascination with Evil*, Harper, 1994; W. Sibley Towner's various works; various other contributions) has continued to develop the scholarly understanding of the satan-devil-lucifer figuration's historical development.
+**各種後續學術**。實質的後續學術(Bernard McGinn 的《敵基督:人類對惡之兩千年迷戀》,Harper,1994;W. Sibley Towner 之多部作品;及其他各種貢獻)持續發展對 satan-devil-lucifer 形象之歷史發展的學術理解。
 
-### The Islamic shaytan/Iblis tradition
+### 伊斯蘭 shaytan/Iblis 傳統
 
-Mainstream Islamic scholarship has produced substantial work on the shaytan/Iblis figure.
+主流伊斯蘭學術已就 shaytan/Iblis 形象產生實質工作。
 
-**Whitney S. Bodman**'s *The Poetics of Iblīs: Narrative Theology in the Qurʼān* (Harvard Theological Studies, 2011) provided substantial scholarly treatment of the Quranic Iblis figure with substantial attention to the figure's specific narrative-theological role within the broader Quranic framework.
+**Whitney S. Bodman** 的《Iblīs 的詩學:古蘭經中之敘事神學》(Harvard Theological Studies,2011)提供了對古蘭經 Iblis 形象之實質學術處理,對該形象在更廣古蘭經框架內之具體敘事—神學角色有實質關注。
 
-**Peter J. Awn**'s *Satan's Tragedy and Redemption: Iblīs in Sufi Psychology* (Brill, 1983) provided substantial scholarly treatment of the Islamic Sufi tradition's specific engagement with the Iblis figure, with substantial attention to the various theological-mystical elaborations of the figure across the Sufi tradition.
+**Peter J. Awn** 的《撒但的悲劇與救贖:蘇非派心理學中之 Iblīs》(Brill,1983)提供了對伊斯蘭蘇非派傳統與 Iblis 形象之具體參與的實質學術處理,對 Iblis 形象在蘇非派傳統中之各種神學—神秘鋪陳有實質關注。
 
-**Various subsequent scholarship**. Substantial subsequent Islamic scholarship has continued to develop the understanding of the shaytan/Iblis figure within the broader Islamic theological-philosophical framework.
+**各種後續學術**。實質的後續伊斯蘭學術持續發展對 shaytan/Iblis 形象在更廣伊斯蘭神學—哲學框架內的理解。
 
-### The framework's relationship to the broader landscape
+### 文集與更廣景觀的關係
 
-The Wheel of Heaven corpus's Satan treatment is positioned within this scholarly landscape as follows: substantially aligned with mainstream Hebrew Bible scholarship at the institutional-character recognition level (recognizing the figure's original limited and institutional character); substantially aligned with mainstream Second Temple period scholarship at the development-history level (recognizing the substantial Persian dualistic influence and the Watchers tradition's contribution); substantially aligned with mainstream Christian-tradition scholarship at the historical-developmental documentation level (recognizing the substantial post-Hebrew Bible elaboration); substantively distinct from mainstream scholarship at the underlying-historical-event level (the corpus's framework reads the Hebrew Bible *satan* and the broader related figures as preserving memory of actual events involving an actual Eloha figure, while mainstream scholarship generally treats the figure as religious-cultural development without specific historical referent); substantially aligned with various alternative-history scholarly traditions (Biglino's strict-translational approach, Kelly's revisionist position) at the broader interpretive-framework level.
+天輪文集對撒但的處理,於此學術景觀中定位如下:在制度性特性認識層次上實質契合於主流希伯來聖經學術(認識該形象原初有限且制度性的特性);在發展史層次上實質契合於主流第二聖殿時期學術(認識實質的波斯二元論影響與守望者傳統的貢獻);在歷史—發展記錄層次上實質契合於主流基督教傳統學術(認識實質的後希伯來聖經鋪陳);在底層歷史事件層次上實質有別於主流學術(文集框架將希伯來聖經之 *satan* 與更廣的相關形象讀作保存了涉及實際耶洛因形象之實際事件的記憶,而主流學術一般將該形象視為無具體歷史指涉物之宗教—文化發展);在更廣的詮釋框架層次上實質契合於各種另類歷史學術傳統(Biglino 的嚴格翻譯進路、Kelly 的修正主義立場)。
 
-## Comparative observations
+## 比較觀察
 
-The Satan figure has substantial cross-cultural parallels in various religious-traditional contexts worldwide.
+撒但形象在全球各種宗教—傳統脈絡中具有實質的跨文化平行案例。
 
-### Zoroastrian Angra Mainyu / Ahriman
+### 祆教安格拉·曼紐 / 阿胡里曼
 
-The Zoroastrian tradition preserves the principal cosmic-dualism antecedent that substantially influenced Second Temple Judaism and subsequent Christian-tradition development.
+祆教傳統保存了主要的宇宙—二元論前驅,實質影響了第二聖殿時期猶太教與其後基督教傳統發展。
 
-**Angra Mainyu**. The Zoroastrian *Angra Mainyu* (Avestan: 𐬀𐬢𐬭𐬀⸱𐬨𐬀𐬌𐬥𐬌𐬌𐬎, "destructive spirit," "evil spirit") is the principal cosmic-evil figure in Zoroastrianism. The figure operates in cosmic opposition to **Ahura Mazda** (the principle of good, light, truth, and order) and is associated with cosmic chaos, evil, deception, and destruction.
+**安格拉·曼紐**。祆教的 *Angra Mainyu*(阿維斯陀語:𐬀𐬢𐬭𐬀⸱𐬨𐬀𐬌𐬥𐬌𐬌𐬎,「毀滅之靈」、「邪惡之靈」)是祆教中的主要宇宙性邪惡形象。{{ cite(id="avesta", text="[9]", title="《阿維斯陀》—— 祆教經典;安格拉·曼紐 / 阿胡拉·瑪茲達之宇宙—二元論框架") }} 該形象與**阿胡拉·瑪茲達**(善、光、真理與秩序之原則)宇宙性對立,並與宇宙性混亂、邪惡、欺騙與毀滅相關聯。
 
-**Ahriman**. The later Pahlavi/Middle Persian designation **Ahriman** is the principal subsequent designation for the same figure, with substantial development across the Sasanian and post-Sasanian periods.
+**阿胡里曼**。後期帕拉維/中古波斯語稱謂**阿胡里曼**是對同一形象的主要後續稱謂,跨越薩珊與後薩珊時期有實質發展。
 
-**The cosmic-dualistic framework**. The Zoroastrian framework treats the Angra Mainyu / Ahriman figure as substantively co-eternal with Ahura Mazda, with the cosmic order being structured as fundamental opposition between the two principles. The dualistic framework has substantial implications for the broader cosmological-theological structure.
+**宇宙—二元論框架**。祆教框架將安格拉·曼紐 / 阿胡里曼形象視為實質上與阿胡拉·瑪茲達同永恆,宇宙秩序被建構為兩個原則之間的根本對立。二元論框架對更廣的宇宙論—神學結構有實質意涵。
 
-**The influence on Second Temple Judaism**. The Achaemenid Persian Empire's substantial cultural-political influence on the Jewish post-exilic community produced substantial Zoroastrian influence on Second Temple Jewish theological development. The principal influence: the cosmic-dualistic framework provided substantial conceptual material that was progressively absorbed into the Jewish development of the *satan* figure, with the originally limited Hebrew Bible figure progressively absorbing aspects of the Zoroastrian dualistic framework.
+**對第二聖殿時期猶太教的影響**。阿契美尼德波斯帝國對流亡後猶太社群之實質文化—政治影響,對第二聖殿時期猶太神學發展產生了實質的祆教影響。主要影響:宇宙—二元論框架提供了實質的概念材料,在猶太人對 *satan* 形象的發展中漸進地被吸收,原本有限的希伯來聖經形象漸進地吸收了祆教二元論框架的若干面向。
 
-**The corpus's reading**. The Zoroastrian Angra Mainyu / Ahriman framework registers substantial parallel content to the broader cosmic-opposition pattern, while operating within the distinctive Zoroastrian cosmological-theological framing. The framework's specific reading: the Zoroastrian figure may preserve cultural memory of the same broader cosmic-political opposition pattern that the Hebrew Bible *satan* figure preserves in distinctive Jewish framing, with both traditions reflecting the broader cross-cultural Theomachy pattern that the corpus's framework articulates more fully in the [Theomachy](../theomachy/) entry.
+**文集的閱讀**。祆教安格拉·曼紐 / 阿胡里曼框架登錄了與更廣宇宙—反對模式之實質平行內容,同時在獨特的祆教宇宙論—神學框設內運作。文集的具體閱讀:祆教形象可能保存了希伯來聖經 *satan* 形象在獨特猶太框設中所保存之相同更廣宇宙—政治反對模式的文化記憶,兩個傳統皆反映文集框架於{% wiki(slug="theomachy") %}諸神之戰{% end %}條目中更完整闡述之更廣跨文化諸神之戰模式。
 
-### Vedic-Hindu adversarial figures
+### 吠陀—印度教敵對形象
 
-The Vedic-Hindu tradition preserves substantial adversarial-cosmic figures with various structural parallels to the satan figuration.
+吠陀—印度教傳統保存了與 satan 形象具有各種結構性平行案例之實質敵對—宇宙性形象。
 
-**The asuras**. The Vedic and post-Vedic *asuras* (असुर) are often translated "demons" but more accurately "the powerful ones" or "the other gods" — the figures who operate in cosmic opposition to the *devas* (the gods of the established cosmic order). The detailed treatment of the deva-asura conflicts lives in the [Theomachy](../theomachy/) entry's Comparative observations section.
+**阿修羅**。吠陀與後吠陀時期之 *asuras*(असुर)常譯為「魔」,但更精確地譯為「大能者」或「另一群諸神」—— 即與 *devas*(既定宇宙秩序之諸神)宇宙性對立的形象。提婆與阿修羅衝突之詳盡處理存於{% wiki(slug="theomachy") %}諸神之戰{% end %}條目的「比較觀察」一節。
 
-**Specific asura figures**. Various specific asura figures register substantial adversarial-cosmic content: **Vritra** (the dragon-serpent slain by Indra), **Bali** (the demon-king defeated by Vishnu's Vamana avatar), **Hiranyakashipu** (the demon-king defeated by Vishnu's Narasimha avatar), **Mahishasura** (the buffalo-demon defeated by Durga), and various others. The broader pattern: each asura figure represents specific cosmic-opposition role within the broader cosmic-political framework.
+**具體阿修羅形象**。各種具體阿修羅形象登錄了實質的敵對—宇宙性內容:**弗栗多**(被因陀羅擊殺的龍蛇)、**跋利**(被毗濕奴的伐摩那化身擊敗的魔王)、**金床**(被毗濕奴的人獅化身擊敗的魔王)、**摩醯濕**(被難近母擊敗的水牛魔),以及各種其他阿修羅形象。更廣模式:每一阿修羅形象代表在更廣宇宙—政治框架中之具體宇宙—反對角色。
 
-**The cyclical-opposition character**. The Hindu tradition's distinctive treatment of the deva-asura conflicts as cyclical (recurring across cosmic ages) registers substantial parallel content to the broader Theomachy pattern, with the corpus's reading registering this as preserving cultural memory of the multi-phase historical conflict.
+**循環—反對之特性**。印度教傳統對提婆—阿修羅衝突之獨特處理 —— 即將其視為循環性的(於宇宙時代中重現)—— 登錄了與更廣諸神之戰模式之實質平行內容,文集的閱讀將此登錄為對多階段歷史衝突之文化記憶的保存。
 
-### Buddhist Mara
+### 佛教魔羅
 
-The Buddhist tradition preserves the **Mara** (Sanskrit: माय, "death," "destroyer") figure with substantial structural parallel to the satan figuration.
+佛教傳統保存了**魔羅**(梵文:माय,「死」、「毀滅者」)形象,與 satan 形象具有實質的結構性平行。
 
-**Mara as tempter**. Mara is the principal Buddhist adversarial figure who attempts to prevent the Buddha's enlightenment under the Bodhi tree. The Mara narrative comprises various specific temptation-attempts: the daughters of Mara as sensual temptresses, the Mara armies as fear-inducing forces, the various challenges to the Buddha's right to enlightenment.
+**魔羅作為誘惑者**。魔羅是試圖阻止佛陀於菩提樹下證悟之主要佛教敵對形象。魔羅敘事包含各種具體誘惑嘗試:作為感官誘惑之魔羅之女、作為恐懼誘發力量之魔羅軍隊,以及對佛陀證悟權利的各種挑戰。
 
-**The structural parallel to Jesus's wilderness testing**. The Mara-Buddha confrontation has substantial structural parallel to the Satan-Jesus wilderness-testing narrative. Both narratives feature: a cosmic adversary attempting to prevent the principal religious figure from achieving the principal religious mission; specific temptation-attempts covering principal vulnerability categories (sensual desire, fear, pride/ambition); the principal religious figure's successful resistance through specific spiritual-discipline practices; the eventual departure of the adversary.
+**與耶穌曠野測試的結構性平行**。魔羅—佛陀對峙與撒但—耶穌曠野測試敘事具有實質的結構性平行。兩個敘事皆具有:試圖阻止主要宗教形象達成主要宗教使命之宇宙敵手;涵蓋主要弱點範疇之具體誘惑嘗試(感官欲望、恐懼、傲慢/野心);主要宗教形象透過具體靈性—戒律實踐之成功抗拒;敵手的最終離去。
 
-**The institutional-tester reading**. The framework's specific reading registers Mara as preserving substantial parallel content to the broader prophet-testing institutional pattern that the corpus articulates through the satan figuration. The Mara-Buddha narrative may preserve cultural memory of the same broader institutional-testing function in distinctive Buddhist religious-philosophical framing.
+**制度性—測試者之閱讀**。文集的具體閱讀將魔羅登錄為以獨特的佛教宗教—哲學框設保存了與文集透過 satan 形象闡述之更廣先知測試制度性模式之實質平行內容。魔羅—佛陀敘事可能保存了相同更廣制度性測試功能於獨特佛教框設中的文化記憶。
 
-### Egyptian Set
+### 埃及賽特
 
-The Egyptian tradition preserves the **Set** (Egyptian: *Sutekh*, *Sutech*) figure as principal cosmic-opposition figure with substantial parallel content.
+埃及傳統保存了**賽特**(埃及語:*Sutekh*、*Sutech*)作為主要宇宙—反對形象,具有實質平行內容。
 
-**Set's specific role**. Set is the Egyptian god of chaos, foreigners, deserts, and the disruptive principle. Set's narrative comprises the murder of Osiris (the god of order and rightful kingship), the conflict with Horus (Osiris's son and avenger), and the eventual divine-judgment resolution that establishes Horus as legitimate king while leaving Set with rulership of the desert and foreign lands.
+**賽特的具體角色**。賽特是混亂、外國人、沙漠與擾亂原則的埃及神。賽特敘事包含對奧西里斯(秩序與正當王權之神)的殺害、與荷魯斯(奧西里斯之子與報仇者)的衝突,以及最終確立荷魯斯為合法之王、同時留給賽特對沙漠與外邦土地統治權之神聖—審判解決。
 
-**The corpus's reading**. The corpus's reading treats Set as preserving cultural memory of the broader Serpentine/Lucifer faction in its post-conflict political marginalization. The detailed treatment lives in the [Theomachy](../theomachy/) entry's Comparative observations section. The Set figure's specific character — preserving certain powers while being excluded from cosmic centrality — parallels the political shape of the corpus's framework's predicted post-conflict settlement.
+**文集的閱讀**。文集的閱讀將賽特視為保存了更廣蛇形/路西法派系於衝突後政治邊緣化中之文化記憶。詳盡處理存於{% wiki(slug="theomachy") %}諸神之戰{% end %}條目之「比較觀察」一節。賽特形象的具體特性 —— 保留某些權力但被排除於宇宙中心之外 —— 平行於文集框架對衝突後解決方案所預測之政治形態。
 
-### Mesopotamian adversarial figures
+### 美索不達米亞敵對形象
 
-The Mesopotamian tradition preserves substantial adversarial-cosmic content across various specific figures.
+美索不達米亞傳統跨越各種具體形象保存了實質的敵對—宇宙性內容。
 
-**Pazuzu**. The Mesopotamian **Pazuzu** is one specific demonic figure, particularly associated with disease and protection-against-other-evils. The figure's specific apotropaic function (used to ward off other evils) registers distinctive Mesopotamian adversarial-figure content.
+**帕祖祖**。美索不達米亞的**帕祖祖**是一具體鬼魔形象,特別與疾病及防禦其他邪惡相關聯。該形象具體的辟邪功能(用以辟除其他邪惡)登錄了獨特的美索不達米亞敵對形象內容。
 
-**The broader demon-traditions**. Mesopotamian religious-magical tradition preserves substantial broader demon-traditions including **Lamashtu** (the female demon associated with miscarriage and infant death), **Lilitu** (the female-demon precursor to the later Hebrew Lilith), and various other adversarial-cosmic figures. The broader tradition provides substantial cultural-religious context within which the Hebrew Bible's adversarial-figure development operated.
+**更廣的鬼魔傳統**。美索不達米亞宗教—巫術傳統保存了實質的更廣鬼魔傳統,包括**拉瑪什圖**(與流產及嬰兒死亡相關之女鬼魔)、**莉莉圖**(後期希伯來莉莉絲之女鬼魔前身)以及各種其他敵對—宇宙性形象。更廣傳統提供了實質的文化—宗教脈絡,希伯來聖經之敵對形象發展即於此脈絡內運作。
 
-**Tiamat**. The Mesopotamian *Tiamat* (the primordial serpentine mother of the *Enuma Elish*) is treated more fully in the [Theomachy](../theomachy/) entry. The figure preserves substantial parallel content to the broader Serpentine/Lucifer faction tradition rather than to the Satan tradition specifically.
+**提阿瑪特**。美索不達米亞的 *Tiamat*(《埃努瑪·埃利什》中原初的蛇形之母)於{% wiki(slug="theomachy") %}諸神之戰{% end %}條目中更完整處理。該形象保存了更廣蛇形/路西法派系傳統之實質平行內容,而非與撒但傳統具體相關。
 
-### Chinese cosmic-bureaucratic opposition figures
+### 中國宇宙—官僚反對形象
 
-The Chinese tradition preserves substantial cosmic-opposition content within the distinctive Chinese cosmic-bureaucratic framework.
+中國傳統於獨特的中國宇宙—官僚框架內保存了實質的宇宙—反對內容。
 
-**Various rebel-divine figures**. The Chinese mythological tradition preserves various rebel-divine figures who operate in cosmic-political opposition to the celestial bureaucracy: **Sun Wukong** (the Monkey King who challenges heaven's authority), **Gonggong** (the water-deity who damages the cosmic pillars), and various other rebel-cosmic figures. The figures operate within the distinctive Chinese cosmic-bureaucratic political framework rather than as cosmic-evil personifications.
+**各種反叛—神聖形象**。中國神話傳統保存了在宇宙—政治上反對天界官僚的各種反叛—神聖形象:**孫悟空**(挑戰天庭權威的猴王)、**共工**(損壞宇宙支柱的水神),以及各種其他反叛—宇宙性形象。這些形象在獨特的中國宇宙—官僚政治框架內運作,而非作為宇宙性邪惡擬人化。
 
-**The bureaucratic-political characterization**. The Chinese tradition's distinctive feature is the bureaucratic-political characterization of cosmic authority, with the rebel figures often characterized as challenging the established celestial-bureaucratic order rather than as primordial chaos-figures. The framework's specific reading registers this as preserving the broader political-institutional opposition pattern within the distinctively Chinese cultural-political framing.
+**官僚—政治之刻畫**。中國傳統的獨特特徵是對宇宙權威的官僚—政治刻畫,反叛形象常被刻畫為挑戰既定的天界—官僚秩序,而非作為原初混亂形象。文集的具體閱讀將此登錄為以獨特的中國文化—政治框設保存了更廣的政治—制度反對模式。
 
-### Norse Loki
+### 北歐洛基
 
-The Norse tradition preserves the **Loki** figure as trickster-adversary with complex moral status.
+北歐傳統保存了**洛基**形象作為具複雜道德狀態之欺騙—敵手。
 
-**Loki's specific character**. Loki is a complex figure who operates simultaneously within and against the Aesir divine community. The figure's specific character includes: substantial cooperation with the Aesir on various adventures; substantial deception and trouble-causing across the broader Norse mythological narrative; the killing of Baldr (the principal cosmic-tragic event); the eventual binding of Loki and his prophesied participation in Ragnarök.
+**洛基的具體特性**。洛基是一同時於阿薩神族社群內部及對立面運作之複雜形象。該形象的具體特性包括:於各種冒險中與阿薩神族之實質合作;跨越更廣北歐神話敘事之實質欺騙與製造麻煩;對巴德爾(主要宇宙—悲劇事件)的殺害;洛基最終的捆綁及其被預言之於諸神黃昏中的參與。
 
-**The complex moral status**. Loki's specific position registers substantial moral-political complexity rather than cosmic-evil personification. The figure operates as institutional insider with adversarial tendencies rather than as external cosmic adversary.
+**複雜的道德狀態**。洛基的具體立場登錄了實質的道德—政治複雜性,而非宇宙性邪惡擬人化。該形象作為具敵對傾向之制度性內部人運作,而非作為外部宇宙敵手。
 
-**The framework's reading**. The corpus's reading registers Loki as preserving substantial parallel content to the broader institutional-adversarial pattern within distinctively Norse religious-mythological framing. The complex moral status — neither pure-evil nor pure-good — parallels the framework's specific position on Satan as principled-political-opposition figure rather than as cosmic-evil personification.
+**文集的閱讀**。文集的閱讀將洛基登錄為以獨特的北歐宗教—神話框設保存了更廣制度性—敵對模式之實質平行內容。複雜的道德狀態 —— 既非純粹邪惡亦非純粹善良 —— 平行於文集對撒但作為原則性—政治反對形象、而非宇宙性邪惡擬人化的具體立場。
 
-### Indigenous adversarial-cosmic figures
+### 原住民敵對—宇宙性形象
 
-Various indigenous traditions preserve substantial adversarial-cosmic figures within their distinctive cultural-religious framings.
+各原住民傳統於其獨特的文化—宗教框設內保存了實質的敵對—宇宙性形象。
 
-**The trickster traditions**. Various indigenous American traditions (Coyote in various Native American traditions, Raven in Pacific Northwest traditions, various others) preserve trickster-figures who operate in complex moral-political positions analogous to Loki. The trickster traditions provide substantial cross-cultural parallel content to the broader institutional-adversarial pattern.
+**欺騙者傳統**。各種原住美洲傳統(各種美洲原住民傳統中的郊狼、太平洋西北傳統中的渡鴉,以及其他)保存了在類似洛基之複雜道德—政治立場中運作之欺騙者形象。欺騙者傳統為更廣的制度性—敵對模式提供實質的跨文化平行內容。
 
-**Various African adversarial figures**. Various African traditions preserve substantial adversarial-cosmic content (the various Yoruba Eshu material, various Bantu-tradition adversarial figures, various others) with distinctive cultural-religious framing.
+**各種非洲敵對形象**。各種非洲傳統(各種約魯巴埃舒材料、各種班圖傳統敵對形象,以及其他)以獨特的文化—宗教框設保存了實質的敵對—宇宙性內容。
 
-**The Polynesian and Aboriginal Australian material**. Various Polynesian and Aboriginal Australian traditions preserve substantial adversarial-cosmic content within their distinctive cultural-religious channels.
+**玻里尼西亞與澳洲原住民材料**。各種玻里尼西亞與澳洲原住民傳統於其獨特的文化—宗教渠道內保存了實質的敵對—宇宙性內容。
 
-### The "principled opposition" cross-cultural pattern
+### 「原則性反對」之跨文化模式
 
-The corpus's working position on the comparative-figure question is that the cross-cultural distribution of principled-opposition figures across various religious-traditional contexts is meaningful as evidence of a broader pattern.
+文集對比較形象問題之工作立場為:原則性反對形象跨越各種宗教—傳統脈絡之跨文化分布,作為更廣模式之證據,具有意義。
 
-The mainstream scholarly explanation generally treats the cross-cultural opposition-figure pattern through some combination of independent cultural development, shared cognitive-archetypal substrate (Carl Jung's "shadow" archetype, various other psychoanalytic engagements), and limited cultural diffusion. The corpus's reading: the cross-cultural pattern preserves common memory of an actual political-institutional structure within an actual cosmic-civilizational framework — the broader Elohim political structure within which Satan's specific principled-opposition position operates.
+主流學術解釋一般透過獨立文化發展、共享認知—原型基底(卡爾·榮格的「陰影」原型及各種其他精神分析參與)及有限的文化擴散等之某種組合,來處理跨文化反對形象模式。文集的閱讀:跨文化模式保存了對實際宇宙—文明框架內實際政治—制度結構之共同記憶 —— 即撒但具體原則性反對立場所運作於其中之更廣耶洛因政治結構。
 
-The framework's specific reading: each cultural tradition preserves the broader principled-opposition pattern within its own distinctive cultural-religious framing. The Zoroastrian Angra Mainyu / Ahriman preserves the cosmic-dualistic articulation; the Hindu asuras preserve the cyclical-opposition articulation; the Buddhist Mara preserves the prophet-testing articulation; the Egyptian Set preserves the post-conflict-marginalization articulation; the Norse Loki preserves the complex-moral-status articulation; the various indigenous traditions preserve substantial parallel content within their distinctive channels.
+文集的具體閱讀:每一文化傳統於其自身獨特的文化—宗教框設內保存了更廣的原則性反對模式。祆教安格拉·曼紐 / 阿胡里曼保存了宇宙—二元論的闡述;印度教阿修羅保存了循環—反對的闡述;佛教魔羅保存了先知測試的闡述;埃及賽特保存了衝突後邊緣化的闡述;北歐洛基保存了複雜道德狀態的闡述;各種原住民傳統於其獨特渠道內保存了實質平行內容。
 
-The corpus does not require rejecting all of the mainstream explanatory framework. Some combination of cultural diffusion, shared cognitive-archetypal substrate, and independent cultural development may have contributed to the specific elaboration of opposition-figure traditions across cultures. What the corpus's framework adds is the underlying historical-political foundation that gave rise to the structural commonalities — the actual Eloha political-institutional structure within which Satan's specific principled-opposition position operates, with the cross-cultural traditions preserving cultural memory of this foundation in their distinctive cultural-religious framings.
+文集並不要求拒絕所有主流解釋框架。文化擴散、共享認知—原型基底,以及獨立文化發展等之某種組合,可能對跨文化反對形象傳統的具體鋪陳有所貢獻。文集框架所增添的,是產生結構性共通點的底層歷史—政治基礎 —— 即撒但具體原則性反對立場所運作於其中之實際耶洛因政治—制度結構,各跨文化傳統以其獨特的文化—宗教框設保存了對此基礎的文化記憶{{ footnote(id="6") }}。
 
-The framework's distinctive contribution within this comparative landscape is the **principled-opposition framing** itself. The various cross-cultural opposition-figures share substantial structural features that mainstream comparative-religion scholarship has documented; the corpus's specific contribution is registering that these figures are not cosmic-evil personifications but principled-political-opposition figures within a substantially functional cosmic-political-institutional framework. This framing has substantial implications across the broader theological-philosophical landscape: the cosmic-good-vs-cosmic-evil dualistic framework that has shaped substantial Western religious-cultural imagination is replaced with the recognition of cosmic-political-institutional dynamics within a broader cosmic-civilizational framework.
-
-## See also
-
-- [Lucifer](../lucifer/)
-- [Serpent](../serpent/)
-- [Yahweh](../yahweh/)
-- [Council of the Eternals](../council-of-eternals/)
-- [Elohim](../elohim/)
-- [The Alliance](../the-alliance/)
-- [Eden](../eden/)
-- [Adam and Eve](../adam-and-eve/)
-- [Antediluvian](../antediluvian/)
-- [Great Flood](../great-flood/)
-- [Cosmic Chain](../cosmic-chain/)
-- [Theomachy](../theomachy/)
-- [Dragons](../dragons/)
-- [Jesus](../jesus/)
-- [Prophet](../prophet/)
-- [Hebrew Bible](../hebrew-bible/)
-
-## References
-
-Vorilhon, Claude (Raël). *The Book Which Tells the Truth* (1974); collected in *Message from the Designers*. The "Satan" section establishes the principal initial source-material articulation.
-
-Vorilhon, Claude (Raël). *Extra-Terrestrials Took Me to Their Planet* (1975); collected in *Message from the Designers*. The "Humans Could Not Understand" section and various other passages develop the broader factional-political context, the prophet-testing function, and the post-flood institutional position.
-
-Vorilhon, Claude (Raël). *Let's Welcome the Extra-terrestrials* (1979); collected in *Message from the Designers*. Various passages develop the broader Council political-institutional framework.
-
-Vorilhon, Claude (Raël). *Message from the Designers*. Tagman Press, 2005.
-
-Sendy, Jean. *Ces dieux qui firent le ciel et la terre*. Robert Laffont, 1969.
-
-Sendy, Jean. *L'ère du Verseau*. Robert Laffont, 1970.
-
-Biglino, Mauro, and Giorgio Cattaneo. *The Naked Bible: The Truth About the Most Famous Book in History*. Uno, 2022.
-
-Wallis, Paul Anthony. *The Eden Conspiracy*. 6th Books, 2024.
-
-Day, Peggy L. *An Adversary in Heaven: Satan in the Hebrew Bible*. Scholars Press, 1988.
-
-Pope, Marvin H. *Job*. Anchor Bible. Doubleday, 3rd ed., 1973.
-
-Habel, Norman C. *The Book of Job: A Commentary*. Westminster Press, 1985.
-
-Newsom, Carol A. *The Book of Job: A Contest of Moral Imaginations*. Oxford University Press, 2003.
-
-Clines, David J. A. *Job 1-20*, *Job 21-37*, *Job 38-42*. Word Biblical Commentary, 3 vols. Word Books / Zondervan, 1989-2011.
-
-Russell, Jeffrey Burton. *The Devil: Perceptions of Evil from Antiquity to Primitive Christianity*. Cornell University Press, 1977.
-
-Russell, Jeffrey Burton. *Satan: The Early Christian Tradition*. Cornell University Press, 1981.
-
-Russell, Jeffrey Burton. *Lucifer: The Devil in the Middle Ages*. Cornell University Press, 1984.
-
-Russell, Jeffrey Burton. *Mephistopheles: The Devil in the Modern World*. Cornell University Press, 1986.
-
-Pagels, Elaine. *The Origin of Satan*. Random House, 1995.
-
-Kelly, Henry Ansgar. *Satan: A Biography*. Cambridge University Press, 2006.
-
-McGinn, Bernard. *Antichrist: Two Thousand Years of the Human Fascination with Evil*. Harper, 1994.
-
-Boyce, Mary. *Zoroastrians: Their Religious Beliefs and Practices*. Routledge, 1979.
-
-Nickelsburg, George W. E. *1 Enoch 1: A Commentary on the Book of 1 Enoch, Chapters 1-36; 81-108*. Hermeneia. Fortress Press, 2001.
-
-Reed, Annette Yoshiko. *Fallen Angels and the History of Judaism and Christianity: The Reception of Enochic Literature*. Cambridge University Press, 2005.
-
-Vermes, Geza. *The Complete Dead Sea Scrolls in English*. Penguin, rev. ed., 2004.
-
-Schiffman, Lawrence H. *Reclaiming the Dead Sea Scrolls*. Jewish Publication Society, 1994.
-
-VanderKam, James C. *The Dead Sea Scrolls Today*. Eerdmans, 2nd ed., 2010.
-
-Bodman, Whitney S. *The Poetics of Iblīs: Narrative Theology in the Qurʼān*. Harvard Theological Studies, 2011.
-
-Awn, Peter J. *Satan's Tragedy and Redemption: Iblīs in Sufi Psychology*. Brill, 1983.
-
-Stowasser, Barbara Freyer. *Women in the Qur'an, Traditions, and Interpretation*. Oxford University Press, 1994.
-
-Gager, John G. *Curse Tablets and Binding Spells from the Ancient World*. Oxford University Press, 1992.
-
-Smith, Mark S. *The Origins of Biblical Monotheism: Israel's Polytheistic Background and the Ugaritic Texts*. Oxford University Press, 2001.
-
-Doniger, Wendy. *Hindu Myths: A Sourcebook*. Penguin Classics, 1975.
-
-Doniger, Wendy. *The Hindus: An Alternative History*. Penguin Press, 2009.
-
-Williams, Paul. *Mahāyāna Buddhism: The Doctrinal Foundations*. Routledge, 2nd ed., 2008.
-
-Buswell, Robert E., Jr., and Donald S. Lopez Jr. *The Princeton Dictionary of Buddhism*. Princeton University Press, 2014.
-
-Sturluson, Snorri. *The Prose Edda*. Trans. Jesse L. Byock. Penguin Classics, 2005.
-
-"Satan." *Encyclopaedia Britannica*. <https://www.britannica.com/topic/Satan>
-
-"Devil." *Encyclopaedia Britannica*. <https://www.britannica.com/topic/devil>
-
-"Iblis." *Encyclopaedia Britannica*. <https://www.britannica.com/topic/Iblis>
-
-"Angra Mainyu." *Encyclopaedia Britannica*. <https://www.britannica.com/topic/Angra-Mainyu>
+文集於此比較景觀中之獨特貢獻為**原則性反對之框設**本身。各種跨文化反對形象共享主流比較宗教學術已記錄的實質結構性特徵;文集的具體貢獻是登錄這些形象並非宇宙性邪惡擬人化,而是在實質運作的宇宙—政治—制度框架內之原則性—政治反對形象。此一框設於更廣的神學—哲學景觀中具有實質意涵:塑造實質西方宗教—文化想像之宇宙性善惡對立的二元論框架,被對更廣宇宙—文明框架內之宇宙—政治—制度動態之認識所取代。

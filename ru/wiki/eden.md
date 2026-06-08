@@ -1,325 +1,358 @@
 +++
 title = "Эдем"
-description = "Эдем (ивр. עֵדֶן) — сад, в который, согласно Книге Бытия, Элохимы поместили первых людей. В корпусе Wheel of Heaven Эдем прочитывается как установка-лаборатория, в которой синтезировали и акклиматизировали адамитские прототипы перед их выходом во внешний мир."
+slug = "eden"
+description = "Эдем (ивр. עֵדֶן, ʿĒden) — область, названная в Еврейской Библии местом нахождения сада, в котором были созданы первые люди и в котором они жили до своего изгнания. Согласно прочтению, развитому в раэлианских источниках и принятому корпусом «Колесо Небес», Эдем — это операционная территория израильской команды создателей-Элохим на допотопном суперконтиненте: команды, чьи работы по биологическому синтезу породили наиболее совершенную человеческую линию из семи региональных команд создателей, — а Эдемский сад (gan-ʿĒden) был замкнутой лабораторно-жилой установкой внутри этой территории."
 template = "wiki-page.html"
 toc = true
 
 [extra]
-translation_status = "metadata_only"
-category = "Places & Locations"
+featured_order = 7
+category = "Места и локации"
 editorial_pass = "2026-05"
 entry_type = "place"
-alternative_names = ["Garden of Eden", "gan-ʿĒden", "גַּן־עֵדֶן", "Paradise"]
+claim_type = "inferred"
+alternative_names = ["Эдемский сад", "gan-ʿĒden", "גַּן־עֵדֶן", "Рай"]
 timeline = ["leo", "cancer"]
 
+see_also = [
+    { title = "Адам и Ева", path = "/wiki/adam-and-eve/", description = "Двое первых людей, помещённых в сад." },
+    { title = "Древо жизни", path = "/wiki/tree-of-life/", description = "Одно из двух названных деревьев в центре сада." },
+    { title = "Древо познания добра и зла", path = "/wiki/tree-of-the-knowledge-of-good-and-evil/", description = "Другое названное дерево — то, к которому относился запрет." },
+    { title = "Змей", path = "/wiki/serpent/", description = "Фигура, инициирующая разрыв состояния сада." },
+    { title = "Бытие", path = "/wiki/genesis/", description = "Текст, в котором развёрнут рассказ о саде." },
+    { title = "Элохим", path = "/wiki/elohim/", description = "Цивилизационное обозначение альянса, чья израильская команда действовала в области Эдема." },
+    { title = "Яхве", path = "/wiki/yahweh/", description = "Фигура — глава Совета, чья политика структурировала послеэдемское устройство." },
+    { title = "Люцифер", path = "/wiki/lucifer/", description = "Лидер диссидентской фракции, чьё раскрытие породило эпизод Бытие 3." },
+    { title = "Допотопный", path = "/wiki/antediluvian/", description = "Допотопный период, на протяжении которого развивалась более широкая эдемская цивилизация." },
+    { title = "Пангея", path = "/wiki/pangaea/", description = "Допотопный суперконтинент, на котором располагался Эдем." },
+    { title = "Великий потоп", path = "/wiki/great-flood/", description = "Событие Эпохи Близнецов, закрывшее операционный период Эдема." },
+    { title = "Еврейская Библия", path = "/wiki/hebrew-bible/", description = "Главный библейский источник для повествования об Эдеме." },
+    { title = "Библия", path = "/wiki/bible/", description = "Более широкая текстовая традиция, в рамках которой сохранилось Бытие." },
+    { title = "Удвоенная подпись", path = "/wiki/doubled-signature/", description = "Принцип корпуса, согласно которому культурные традиции фиксируют память о лежащих в их основе исторических событиях." },
+    { title = "Евреи", path = "/wiki/hebrews/", description = "Прямые генетические потомки первых людей, синтезированных израильской командой." },
+]
+
+footnotes = [
+    { content = "Еврейское слово *gan*, традиционно переводимое как «сад», восходит к корню *g-n-n* со значением «заключать, защищать, оборонять» — тот же корень стоит за *ginah* («сад, ограждённое место») и *meginah* («щит, защита»). Сильный смысл *gan* — это, следовательно, замкнутое, защищённое, контролируемое пространство, граница которого не просто декоративна, но функциональна. Прочтение корпуса, трактующее *gan-ʿĒden* как функциональную замкнутую установку, исходит из этой этимологической основы. Древнеперсидское *pairi-daēza* («обнесённое стеной пространство»; через греческое *paradeisos*, источник английского «paradise») сохраняет тот же семантический контент в независимой языковой традиции, давая типологическое подтверждение: в нескольких древних культурах исходный «рай» — это именно ограниченное и защищённое пространство, а не открытый сад в современном английском смысле." },
+    { content = "Бытие 2:10–14 называет четыре реки, вытекающие из Эдема, две из которых однозначно отождествляются с существующими реками (Тигр, Евфрат), а две — нет (Фисон, Гихон). Классические и современные предложения по-разному отождествляли Фисон и Гихон с Нилом, Гангом, Индом, Араксом, Каруном, Вади-эр-Румма или Арасом — у каждого имеются текстуальные или географические проблемы. Прочтение корпуса переосмысляет загадку: пассаж о четырёх реках описывает гидрологию допотопной области Эдема, более не существующую в первоначальной форме после континентальной перестройки, связанной с событием Потопа. Имена *Тигр* и *Евфрат* были сохранены через катастрофу выжившими после Потопа, которые присвоили их рекам послепотопного месопотамского региона, ассоциированным с исходными референтами." },
+    { content = "«Суперконтинент» этого фреймворка — это не общепринятая Пангея академической геологии. Общепринятая Пангея сложилась приблизительно 335 миллионов лет назад и распалась приблизительно 175 миллионов лет назад, причём дрейф континентов разворачивался на протяжении сотен миллионов лет за счёт мантийной конвекции. Корпус, следуя раэлианским источникам, читает распад как катастрофическое событие во время Потопа Эпохи Близнецов около 6 690 г. до н. э., а наблюдаемый с тех пор дрейф континентов — как остаточный импульс этого события. Структурное соответствие — единая консолидированная суша, окружённая единым океаном, — то же самое; время и механизм радикально иные." },
+    { content = "Фреймворк прочитывает запрет, касающийся Древа познания добра и зла, как соответствующий конкретному ограничению доступа к научным и техническим архивам израильской команды — материалам, использование которых дало бы людям возможности, которыми власти на родной планете не желали, чтобы те обладали. Раскрытие со стороны фракции Люцифера, описанное как сообщение змея, есть передача этого ограниченного знания вопреки директивам Совета родной планеты. Преступление в этом прочтении — не моральное падение, а передача ограниченного технического знания, причём последствия после раскрытия (осознание наготы, изготовление одежды, очная ставка, изгнание) фиксируют политико-операционное, а не морально-теологическое следствие." },
+    { content = "Бильино предлагает нестандартную этимологию шумеро-аккадского *E-Din* как «дом праведных», читая «праведных» как членов рода Элохим. Этот глосс — отличительная черта Бильино и не является стандартным ассириологическим прочтением; консенсусное прочтение (Halloran 2006; Ассирийский словарь Восточного института) остаётся «равнина» или «степь». Корпус принимает стандартное прочтение, а не вариант Бильино, поскольку интерпретативная позиция фреймворка не зависит от нестандартного глосса и стоит на более твёрдой почве без него. Более широкая строго-переводческая методология Бильино — пословное чтение еврейского текста и принятие конкретного текстуального содержания, а не его аллегоризация, — это то, что корпус берёт из его работ независимо от конкретного предложения по E-Din." },
+]
+
+[[extra.references]]
+id = "the-book-which-tells-the-truth"
+note = "Ворильон (Раэль, 1974), глава 2 «Истина»; основной раэлианский источник прочтения фреймворком повествования об Эдеме."
+
+[[extra.references]]
+id = "lets-welcome-the-extraterrestrials"
+note = "Ворильон (Раэль, 1979); развивает более широкую политико-институциональную рамку, в которой происходили послесотворительные события Эдема."
+
+[[extra.references]]
+id = "intelligent-design-message-from-the-designers"
+note = "Сводное каноническое издание трёх раэлианских книг-источников, включая материал об Эдеме."
+
+[[extra.references]]
+id = "sendy-ces-dieux"
+note = "Сенди (1969); основополагающая французская формулировка; главный научный предшественник принятого корпусом прочтения Эдема."
+
+[[extra.references]]
+id = "sendy-cahiers-moise"
+note = "Сенди (1974); развивает рамку мозаического периода с существенным фоновым материалом эдемского периода."
+
+[[extra.references]]
+id = "biglino-il-libro"
+note = "Бильино (2010); первая основная формулировка строго-буквального прочтения еврейского текста, включая аргумент о gan-ʿĒden как замкнутой установке."
+
+[[extra.references]]
+id = "biglino-bibbia-non-parla"
+note = "Бильино (2015); формулировка аргумента, что общепринятый перевод затемняет исходное содержание Еврейской Библии об Элохим и эдемских установках."
+
+[[extra.references]]
+id = "the-naked-bible"
+note = "Бильино и Каттанео (2022); строго-буквальный перевод Бытия с еврейского, включая фрагменты об Эдеме."
+
+[[extra.references]]
+id = "escaping-from-eden"
+note = "Уоллис (2020); более широкая формулировка тезиса о том, что Элохим из Бытия — это физически присутствующие технологические существа."
+
+[[extra.references]]
+id = "the-scars-of-eden"
+note = "Уоллис (2021); сравнительная формулировка межкультурной памяти о событиях эдемского периода."
+
+[[extra.references]]
+id = "echoes-of-eden"
+note = "Уоллис (2021); развивает сравнительно-мифологический аргумент о существенном межкультурном сохранении."
+
+[[extra.references]]
+id = "wallis-eden-conspiracy"
+note = "Уоллис (2024); наиболее прямое книжное рассмотрение повествования Бытие 2–3 как записи политического кризиса между фракциями альянса."
+
+[[extra.references]]
+id = "sarna-genesis-jps"
+note = "Сарна (1989); комментарий JPS Torah Commentary к Бытию; основное современное иудейско-научное рассмотрение фрагментов об Эдеме."
+
+[[extra.references]]
+id = "westermann-genesis-1-11"
+note = "Вестерман (1994); континентальный комментарий к Бытию 1–11; фундаментальный критический комментарий к первобытной истории."
+
+[[extra.references]]
+id = "cassuto-genesis"
+note = "Кассуто (1961); иудейско-научный комментарий, противостоящий фрагментации эдемского повествования по гипотезе документов."
+
+[[extra.references]]
+id = "halloran-sumerian-lexicon"
+note = "Холлоран (2006); доступный справочник для шумерского EDEN / edinu и этимологического фона."
+
+[[extra.references]]
+id = "rohl-legend-genesis"
+note = "Роль (1998); формулировка гипотезы озера Урмия; одно из основных современных предложений о местоположении Эдема."
+
+[[extra.references]]
+id = "oppenheimer-eden-east"
+note = "Оппенгеймер (1998); сундаландская гипотеза Эдема; помещает изначальный культурный источник в затопленную Юго-Восточную Азию."
+
+[[extra.references]]
+id = "kramer-enki-myths"
+note = "Крамер и Майер (1989); мифологический корпус об Энки, включая материал о Дильмуне и об Энки и Нинхурсаг, структурно параллельный эдемской традиции."
+
+[[extra.references]]
+id = "atra-hasis-lambert-millard"
+note = "Ламберт и Миллард (1969); критическое издание вавилонского повествования о потопе; ближневосточный контекст для традиции Эдема и Потопа."
+
+[[extra.references]]
+id = "boyce-zoroastrians"
+note = "Бойс (испр. изд. 2001); персо-зороастрийская Вара Йимы и более широкая традиция рая и потопа, тесно параллельная Эдему."
+
+[[extra.references]]
+id = "sitchin-12th-planet"
+note = "Ситчин (1976); прочтение шумерского E.DIN; главный популярный якорь древних астронавтов для более широкой эдемской интерпретативной традиции."
+
 [extra.infobox]
-hebrew_name = "עֵדֶן (region); גַּן־עֵדֶן (the garden in Eden)"
+hebrew_name = "עֵדֶן (область); גַּן־עֵדֶן (сад в Эдеме)"
 transliteration = "ʿĒden; gan-ʿĒden"
-type = "Geographic region with enclosed installation"
-biblical_location = "Genesis 2:8 ('eastward in Eden')"
-geographic_referent = "Eastern Mediterranean / Levantine region of the antediluvian supercontinent"
-operational_period = "Mid–late Age of Leo through Age of Cancer, c. 11,375 – 6,690 BCE"
-date_type = "framework-internal; derived from precessional reading of Genesis and the 666-generation anchor"
-closing_event = "Catastrophic disruption during the Flood of the Age of Gemini, c. 6,690 BCE"
-current_status = "Region's antediluvian configuration no longer extant; post-Flood remnants identified by the framework with the modern Levant"
-principal_text = "Genesis 2:8–3:24"
-principal_framework_source = "*The Book Which Tells the Truth* (Vorilhon/Raël, 1974), chapter 2"
+type = "Географическая область с замкнутой установкой"
+biblical_location = "Бытие 2:8 («на востоке в Эдеме»)"
+geographic_referent = "Восточно-средиземноморский / левантийский регион допотопного суперконтинента"
+operational_period = "Середина–конец Эпохи Льва вплоть до Эпохи Рака, ок. 11 375 – 6 690 гг. до н. э."
+date_type = "внутри фреймворка; выведено из прецессионного прочтения Бытия и привязки в 666 поколений"
+closing_event = "Катастрофическое разрушение во время Потопа Эпохи Близнецов, ок. 6 690 г. до н. э."
+current_status = "Допотопная конфигурация области более не существует; послепотопные остатки отождествляются фреймворком с современным Левантом"
+principal_text = "Бытие 2:8–3:24"
+principal_framework_source = "*Книга, которая говорит правду* (Ворильон/Раэль, 1974), глава 2"
 +++
 
-**Eden** (Hebrew: <span class="hebrew">עֵדֶן</span>, *ʿĒden*) is the region named in the Hebrew Bible as the place in which the first humans were created and lived before their expulsion, narrated principally in Genesis 2:8–3:24. The Hebrew text distinguishes the broader region (*ʿĒden*) from the enclosed garden within it (*gan-ʿĒden*, "the garden of Eden"); Genesis 2:8 specifies that the garden was planted "in Eden, in the east." The garden contains the named species of trees, the four rivers (Pishon, Gihon, Tigris, Euphrates), the Tree of Life, and the Tree of the Knowledge of Good and Evil. The narrative of human creation, instruction, transgression, and expulsion takes place in and around this enclosed setting.
+**Эдем** (ивр. <span class="hebrew">עֵדֶן</span>, *ʿĒden*) — область, названная в {% wiki(slug="hebrew-bible") %}Еврейской Библии{% end %} местом, в котором были созданы первые люди и в котором они жили до своего изгнания; повествование развёрнуто главным образом в Бытии 2:8–3:24. Еврейский текст отличает более широкую область (*ʿĒden*) от замкнутого сада внутри неё (*gan-ʿĒden*, «сад в Эдеме»); Бытие 2:8 уточняет, что сад был насаждён «в Эдеме, на востоке». Сад содержит названные виды деревьев, четыре реки (Фисон, Гихон, Тигр, Евфрат), Древо жизни и {% wiki(slug="tree-of-the-knowledge-of-good-and-evil") %}Древо познания добра и зла{% end %}. Повествование о творении человека, наставлении, преступлении и изгнании разворачивается в этом замкнутом окружении и вокруг него.
 
-On the reading developed in the Raëlian source material and adopted by the Wheel of Heaven corpus, Eden is the operational territory of one of the seven Elohim creator teams — the Israel team — on the antediluvian supercontinent, during the late Age of Leo and continuing into the Age of Cancer. The garden is the enclosed laboratory and habitation site at which this team conducted the synthesis, instruction, and observation of the first human lineage produced under their care. The framework reads the Genesis 2–3 narrative as a compressed but substantively accurate account of operational events at this site, with the named features — the trees, the rivers, the prohibition, the serpent, the expulsion — all referring to specific operational realities rather than to symbolic or moral abstractions.
+Согласно прочтению, развитому в раэлианских источниках и принятому корпусом {% wiki(slug="wheel-of-heaven") %}«Колесо Небес»{% end %}, Эдем — это операционная территория одной из семи команд создателей-Элохим — израильской команды — на допотопном суперконтиненте, в конце Эпохи Льва и далее в Эпоху Рака. Сад — это замкнутая лабораторно-жилая установка, в которой эта команда проводила синтез, наставление и наблюдение за первой человеческой линией, произведённой под её попечением. Фреймворк прочитывает повествование Бытие 2–3 как сжатый, но по существу точный отчёт о событиях операционного характера на этом объекте, причём названные элементы — деревья, реки, запрет, змей, изгнание — все отсылают к конкретным операционным реалиям, а не к символическим или моральным абстракциям.
 
-The reading is contested. Within mainstream biblical scholarship, Eden is generally treated as either a mythological or theological construction, possibly with origins in the broader ancient Near Eastern paradisiacal tradition (Mesopotamian Dilmun, Sumerian paradise traditions), without specific geographic referent. Within the broader landscape of alternative biblical interpretation, several specific Eden-location proposals have been advanced — the Persian Gulf head (Juris Zarins), the Lake Urmia region (David Rohl), eastern Anatolia, the Sundaland shelf — varying in their relationship to the Genesis text and to the surrounding geological evidence. The corpus's reading reframes the geographic question: the antediluvian Eden is located on a continental configuration that no longer exists, with its remnants identifiable in the post-Flood Levantine region but not directly recoverable as an extant geographic entity.
+Это прочтение оспариваемо. В академическом мейнстриме библеистики Эдем, как правило, трактуется либо как мифологическая, либо как теологическая конструкция, возможно восходящая к более широкой древневосточной райской традиции (месопотамский Дильмун, шумерские райские предания), без конкретного географического референта. В более широком ландшафте альтернативной библейской интерпретации был выдвинут ряд конкретных предложений о местоположении Эдема — вершина Персидского залива (Юрис Заринс), область озера Урмия (Дэвид Роль), Восточная Анатолия, шельф Сундаленд, — различающихся по своему отношению к тексту Бытия и к окружающим геологическим данным. Прочтение корпуса переосмысляет географический вопрос: допотопный Эдем располагается на континентальной конфигурации, которой более не существует, причём его остатки опознаваемы в послепотопной левантийской области, но непосредственно не восстанавливаются как существующая географическая сущность.
 
-## Etymology
+## Этимология
 
-The Hebrew name *ʿĒden* connects through two distinct etymological histories. Within the Hebrew tradition itself, the name is conventionally connected to the root *ʿ-d-n* ("to be soft, pleasant, delight"), giving the gloss "place of delight" or "paradise." This Hebrew etymology is internal to the biblical tradition and is the source of the long Christian and Islamic association of Eden with paradise generally. The cognate Hebrew noun *ʿednāh* (Genesis 18:12) carries the same sense of pleasure or delight; Psalm 36:9 and Jeremiah 51:34 use related forms. The Hebrew etymology gives Eden its theologically loaded connotations across the subsequent religious tradition.
+Еврейское имя *ʿĒden* связано через две различные этимологические истории. Внутри самой еврейской традиции имя традиционно соотносится с корнем *ʿ-d-n* («быть мягким, приятным, наслаждаться»), что даёт глосс «место наслаждения» или «рай». Эта еврейская этимология внутренняя по отношению к библейской традиции и является источником длительной христианской и исламской ассоциации Эдема с раем в целом. Родственное еврейское существительное *ʿednāh* (Бытие 18:12) несёт тот же смысл наслаждения или удовольствия; в Псалме 36:9 и Иеремии 51:34 используются родственные формы. Еврейская этимология придаёт Эдему его теологически нагруженные коннотации на протяжении всей последующей религиозной традиции.
 
-A separate and older etymological connection runs to the Sumerian and Akkadian. The Sumerian word **EDEN** (𒂔, also transliterated *edin*) means *plain*, *steppe*, or *open country* — a flat, often arid landscape distinct from settled or cultivated land. The Akkadian *edinu* / *idīnum* is borrowed from the Sumerian and carries the same range of meanings, generally "steppe" or "open country." The connection of Hebrew *ʿĒden* to this Sumerian-Akkadian background is widely accepted in mainstream Assyriology and predates the modern reinterpretive literature; it is treated, for example, in *The Assyrian Dictionary of the Oriental Institute of the University of Chicago* (CAD, volume E) and in the comparative-Semitic lexicographic tradition.
+Отдельная и более древняя этимологическая связь ведёт к шумерскому и аккадскому. Шумерское слово **EDEN** (𒂔, также транслитерируемое как *edin*) означает *равнину*, *степь* или *открытое пространство* — плоский, часто засушливый ландшафт, отличный от обжитой или возделанной земли. Аккадское *edinu* / *idīnum* заимствовано из шумерского и несёт тот же диапазон значений, как правило «степь» или «открытое пространство». Связь еврейского *ʿĒden* с этим шумеро-аккадским фоном широко принята в академической ассириологии и предшествует современной реинтерпретативной литературе; она рассматривается, например, в «Ассирийском словаре Восточного института Чикагского университета» (CAD, том E) и в сравнительно-семитической лексикографической традиции.
 
-The two etymologies are not necessarily in conflict; they may reflect different stages of the term's history. The older Mesopotamian sense ("plain, steppe") may have been the original referent — a wide open region, presumably containing within it the cultivated and enclosed garden the Genesis text specifically describes. The Hebrew "place of delight" gloss may reflect a later folk etymology or theological development that read the inherited place-name through the lens of the garden's described features. The framework's reading of Eden as a *region* containing the enclosed *garden* is consistent with the older Sumerian-Akkadian sense: the Eden region is the broader steppe-territory of the Israel team's operations, with the garden (*gan*) being a specific enclosed installation within it.
+Эти две этимологии не обязательно находятся в конфликте; они могут отражать разные стадии истории термина. Более древний месопотамский смысл («равнина, степь») мог быть исходным референтом — широкой открытой областью, предположительно содержащей внутри себя возделанный и замкнутый сад, который текст Бытия конкретно описывает. Еврейский глосс «место наслаждения» может отражать более позднюю народную этимологию или теологическое развитие, прочитавшее унаследованный топоним через призму описанных особенностей сада. Прочтение фреймворком Эдема как *области*, содержащей замкнутый *сад*, согласуется с более древним шумеро-аккадским смыслом: область Эдема — это более широкая степная территория операций израильской команды, причём сад (*gan*) — это конкретная замкнутая установка внутри неё.
 
-The Hebrew word *gan*, conventionally translated "garden," derives from the root *g-n-n*, "to enclose, to protect, to defend" — the same root behind *ginah* ("garden, enclosure") and *meginah* ("shield, protection"). The strong sense of *gan* is therefore an enclosed, protected, controlled space, with the boundary not merely ornamental but functional. This sense of *gan* will become significant in the Modern reinterpretations section below.
+Еврейское слово *gan*, традиционно переводимое как «сад», восходит к корню *g-n-n*, «заключать, защищать, оборонять» — тот же корень стоит за *ginah* («сад, ограждённое место») и *meginah* («щит, защита»). Сильный смысл *gan* — это, следовательно, замкнутое, защищённое, контролируемое пространство, граница которого не просто декоративна, но функциональна{{ footnote(id="1") }}. Этот смысл *gan* приобретёт значимость в разделе «Современные переинтерпретации» ниже.
 
-## In primary sources
+## В первичных источниках
 
-Eden appears principally in Genesis 2–3, with secondary references scattered across the rest of the Hebrew Bible and in the broader ancient Near Eastern literature.
+Эдем появляется главным образом в Бытии 2–3, с побочными упоминаниями, разбросанными по остальной части Еврейской {% wiki(slug="bible") %}Библии{% end %} и более широкой древневосточной литературы.
 
-### The Genesis narrative
+### Повествование Бытия
 
-The Genesis text gives Eden two principal treatments. The first is the brief mention in the second creation account at Genesis 2:8: *Yahweh Elohim* plants a garden "in Eden, in the east" (*miqqedem*, "from the east" or "in the east"), and places the formed human (*ha-ʾadam*) there. The narrative continues with a description of the four rivers that flow out of Eden: the Pishon (which compasses the land of Havilah, where there is gold), the Gihon (which compasses the land of Cush), the Hiddekel or Tigris (which goes east of Asshur), and the Perath or Euphrates (named without further description, presumably because already known to the original audience). The function of the human in the garden is given as "to dress it and to keep it" (Genesis 2:15) — the Hebrew verbs being *ʿabad* ("to work, to serve") and *šamar* ("to guard, to keep watch over").
+{% library(book="genesis-woh", chapter=2, verse=8) %}
+ЯХВЕ-Элохим насадил сад в Эдеме, на востоке, — и поместил там человека, которого образовал.
+{% end %}
 
-The second treatment is the narrative arc of Genesis 2:15–3:24: the prohibition concerning the Tree of the Knowledge of Good and Evil; the formation of the woman from the human's side; the serpent's questioning of the prohibition; the eating of the fruit; the recognition of nakedness; the confrontation with Yahweh Elohim, who is described as walking in the garden in the cool of the day; the pronouncement of consequences on the serpent, the woman, and the man; and the expulsion from the garden, with the placing of cherubim and a flaming sword (*lahaṭ ha-ḥereb ha-mithappekheth*, "the flame of the sword which turns every way") to bar the way back to the Tree of Life.
+Текст Бытия даёт Эдему два основных трактования. Первое — это краткое упоминание во втором рассказе о творении в Бытии 2:8: *Яхве Элохим* насаждает сад «в Эдеме, на востоке» (*miqqedem*, «с востока» или «на востоке») и помещает там образованного человека (*ha-ʾadam*). Повествование продолжается описанием четырёх рек, вытекающих из Эдема: Фисон (обтекающий землю Хавила, где есть золото), Гихон (обтекающий землю Куш), Хиддекель, или Тигр (текущий к востоку от Ассура), и Перат, или Евфрат (названный без дальнейшего описания, по-видимому потому, что уже был известен изначальной аудитории). Функция человека в саду дана как «возделывать его и хранить его» (Бытие 2:15) — еврейские глаголы *ʿabad* («работать, служить») и *šamar* («охранять, нести стражу»).
 
-### Other Hebrew Bible references
+Второе трактование — это повествовательная дуга Бытие 2:15–3:24: запрет относительно Древа познания добра и зла; образование женщины из ребра человека; вопрошание змея о запрете; вкушение плода; осознание наготы; очная ставка с Яхве Элохим, который описан как ходящий в саду в прохладе дня; объявление последствий змею, женщине и мужу; и изгнание из сада с поставлением херувимов и пламенного меча (*lahaṭ ha-ḥereb ha-mithappekheth*, «пламя меча, обращающегося во все стороны»), чтобы преградить путь обратно к Древу жизни.
 
-Eden appears outside Genesis 2–3 in several scattered references. **Genesis 4:16** locates Cain's exile "east of Eden," in the land of Nod. **Isaiah 51:3** uses Eden as a paradigmatic image of paradise to which the post-exilic restoration is compared. **Ezekiel 28:13** addresses the king of Tyre as having been "in Eden, the garden of Elohim," in a passage rich with framework-significant imagery (the trees, the precious stones, the cherub). **Ezekiel 31:8–9** describes the cedars of Eden surpassing all other trees, in a passage that addresses Pharaoh through the metaphor of a great tree. **Ezekiel 36:35** uses Eden as a comparison for the restored land. **Joel 2:3** uses Eden as the paradigm of fertility against which the locust plague's devastation is set.
+### Другие упоминания в Еврейской Библии
 
-The Ezekiel 28 passage deserves particular note. The address to the king of Tyre — "Thou wast in Eden, the garden of Elohim; every precious stone was thy covering" — has been read across the religious traditions variously as historical reference (the Tyrian king as a real figure with mythical or genealogical connection to Eden), as theological allegory (the king's pride compared to the original Edenic state), or as encoded reference to a different figure altogether (Lucifer in much patristic-medieval Christian reading, with the passage providing a textual basis for the Lucifer-as-fallen-cherub tradition). The passage's specific imagery — the precious stones, the cherub, the garden, the fall — has been one of the principal sources for the broader tradition of an Edenic prelapsarian state involving non-human beings.
+Эдем появляется вне Бытия 2–3 в нескольких разрозненных упоминаниях. **Бытие 4:16** размещает изгнание Каина «к востоку от Эдема», в земле Нод. **Исаия 51:3** использует Эдем как парадигматический образ рая, с которым сравнивается послепленное восстановление. **Иезекииль 28:13** обращается к царю Тира как находившемуся «в Эдеме, в саду Элохим», в пассаже, насыщенном значимыми для фреймворка образами (деревья, драгоценные камни, херувим). **Иезекииль 31:8–9** описывает кедры Эдема, превосходящие все прочие деревья, в пассаже, обращённом к фараону через метафору великого дерева. **Иезекииль 36:35** использует Эдем как сравнение для восстановленной земли. **Иоиль 2:3** использует Эдем как парадигму плодородия, на фоне которой задано опустошение от нашествия саранчи.
 
-### Later Jewish, Christian, and Islamic literature
+Пассаж Иезекииль 28 заслуживает особого внимания. Обращение к царю Тира — «Ты был в Эдеме, в саду Элохим; всякий драгоценный камень был твоим покровом» — по-разному прочитывалось в религиозных традициях: как историческая отсылка (царь Тира как реальная фигура с мифической или генеалогической связью с Эдемом), как теологическая аллегория (гордыня царя в сравнении с исходным эдемским состоянием) или как закодированная отсылка к совершенно иной фигуре (Люцифер во многих святоотечески-средневековых христианских прочтениях, причём этот пассаж даёт текстуальное основание для традиции Люцифера как падшего херувима). Конкретные образы пассажа — драгоценные камни, херувим, сад, падение — были одним из главных источников более широкой традиции эдемского предгрехопадного состояния, включающего нечеловеческих существ.
 
-The Eden tradition is substantially elaborated in post-biblical literature. **The Book of Jubilees** (c. 2nd century BCE) places Eden's location with specific geographic detail and gives the garden a sanctuary-like role in subsequent history. **1 Enoch** (composed across several centuries from the 3rd century BCE onward) preserves elaborate Edenic geography and connects Eden to the Watchers tradition. **The Life of Adam and Eve** (c. 1st century CE) and the **Apocalypse of Moses** develop the Adam-and-Eve narrative at length, with extensive material on the post-expulsion period. **Rabbinic midrash** — Genesis Rabbah, the Tanchuma, the *Pirkei de-Rabbi Eliezer* — develops the Edenic narrative across many centuries with substantial elaboration. **Patristic Christian writers** (Theophilus of Antioch, Origen, Augustine) develop the typological and allegorical readings that would become standard in Western theology. **Qur'anic and Islamic sources** preserve a parallel tradition of *Jannat ʿAdn*, "the gardens of Eden," used in the Qur'an as a designation of paradise (e.g., Q 9:72, Q 13:23, Q 19:61); the Qur'anic tradition preserves the Adam-and-Eve narrative with several specific differences from the biblical account.
+### Поздняя иудейская, христианская и исламская литература
 
-### Mesopotamian parallels
+Эдемская традиция существенно разработана в постбиблейской литературе. **Книга Юбилеев** (ок. II в. до н. э.) размещает местоположение Эдема с конкретными географическими деталями и придаёт саду роль святилища в последующей истории. **1 Енох** (составлена на протяжении нескольких веков начиная с III в. до н. э.) сохраняет разработанную эдемскую географию и связывает Эдем с традицией Стражей. **Жизнь Адама и Евы** (ок. I в. н. э.) и **{% wiki(slug="apocalypse") %}Апокалипсис{% end %} {% wiki(slug="moses") %}Моисея{% end %}** развивают повествование об Адаме и Еве, с обширным материалом о послеизгнаннийском периоде. **Раввинистический мидраш** — Берешит Рабба, Танхума, *Пиркей де-рабби Элиэзер* — развивает эдемское повествование на протяжении многих веков с существенными разработками. **Святоотеческие христианские авторы** (Феофил Антиохийский, Ориген, Августин) разрабатывают типологическое и аллегорическое прочтения, которые станут стандартными в западной теологии. **Коранические и исламские источники** сохраняют параллельную традицию *Джаннат ʿАдн*, «садов Эдема», употреблённую в Коране как обозначение рая (например, К 9:72, К 13:23, К 19:61); коранская традиция сохраняет повествование об Адаме и Еве с рядом конкретных отличий от библейского рассказа.
 
-The closest Mesopotamian parallel to Eden is the tradition of **Dilmun**, treated more fully in *Comparative observations* below. Dilmun appears in Sumerian texts as a paradisiacal land where the gods dwelled and where there was no sickness, hunger, or death — a description structurally close to certain elements of the Edenic tradition. The myth of *Enki and Ninhursag* describes Dilmun as a place where "the lion does not kill, the wolf does not snatch the lamb," with imagery that has clear resonance with Isaiah's later prophetic visions of restored Eden. The geographical identification of Dilmun is contested in Assyriology, with Bahrain being the traditional identification; the Persian Gulf location of Dilmun is one of the points the various Persian Gulf Eden-location hypotheses build on.
+### Месопотамские параллели
 
-## Geographic identification
+{% library(book="genesis-woh", chapter=3, verse=24) %}
+Он изгнал человека и поставил к востоку от Эдемского сада херувимов и пламенный обращающийся клинок, чтобы охранять путь к древу жизни.
+{% end %}
 
-The geographic identification of Eden — where the garden was, where its remnants might be located, and what relationship the antediluvian geography bears to present-day geography — is one of the most extensively debated aspects of the Eden tradition. The corpus's specific identification differs from both the mainstream biblical-scholarly position and the various alternative-interpretation hypotheses.
+Ближайшая месопотамская параллель Эдему — это традиция **Дильмуна**, рассматриваемая более полно в «Сравнительных наблюдениях» ниже. Дильмун появляется в шумерских текстах как райская земля, где обитали боги и где не было болезни, голода или смерти, — описание, структурно близкое к ряду элементов эдемской традиции. Миф об *Энки и Нинхурсаг* описывает Дильмун как место, где «лев не убивает, волк не похищает ягнёнка», в образах, отчётливо перекликающихся с более поздними пророческими видениями восстановленного Эдема у Исаии. Географическая идентификация Дильмуна оспаривается в ассириологии: традиционная идентификация — Бахрейн; персидско-заливное местоположение Дильмуна — одна из точек, на которые опираются различные гипотезы о местоположении Эдема в Персидском заливе.
 
-### The four-rivers identification puzzle
+## Географическая идентификация
 
-Genesis 2:10–14 names the four rivers that flow out of Eden, two of which are unambiguously identifiable with extant rivers (the Tigris and the Euphrates) and two of which are not: the Pishon and the Gihon. The identification of the Pishon and Gihon has been one of the principal problems for Eden-location scholarship across two and a half millennia.
+Географическая идентификация Эдема — где находился сад, где могут располагаться его остатки и какое отношение допотопная география имеет к нынешней — это один из наиболее интенсивно обсуждаемых аспектов эдемской традиции. Конкретная идентификация корпуса отличается как от позиции академического мейнстрима библеистики, так и от различных гипотез альтернативной интерпретации.
 
-The classical Jewish and patristic Christian traditions identified the Pishon and Gihon variously: with the Nile (a common patristic identification, on the basis of Genesis 2:13's "compassing the land of Cush," which can mean Ethiopia / Nubia), with the Ganges or the Indus (proposed by Josephus, *Antiquities* 1.1.3), with the Araxes in Armenia, or with the Karun or Kerkha rivers in modern Iran. The various proposals each have textual or geographic problems; none has achieved consensus.
+### Загадка идентификации четырёх рек
 
-Modern proposals have continued the tradition. The Persian Gulf hypothesis associated with **Juris Zarins** (the American archaeologist, in *Smithsonian Magazine* 1987 and subsequent publications) identifies the Pishon with the Wadi al-Rummah, a now-dry riverbed running across the Arabian peninsula that LANDSAT imagery has shown was a major river system during the wetter Pleistocene period; the Gihon with the Karun river in Iran; the Tigris and Euphrates as themselves; and the four-river meeting point as the head of the Persian Gulf, which during the early Holocene was extended further inland than the present coastline. The Zarins hypothesis places Eden at this submerged area, now under Persian Gulf waters.
+Бытие 2:10–14 называет четыре реки, вытекающие из Эдема, две из которых однозначно отождествляются с существующими реками (Тигр и Евфрат), а две — нет: Фисон и Гихон. Идентификация Фисона и Гихона была одной из главных задач эдемской локализационной науки на протяжении двух с половиной тысячелетий.
 
-The **David Rohl** hypothesis (in *Legend: The Genesis of Civilisation*, 1998) places Eden in the Lake Urmia region of northwestern Iran, identifying the Pishon with the Aras / Araxes and the Gihon with the Kezel-Owzan or the Greater Zab.
+Классические иудейские и святоотеческие христианские традиции по-разному идентифицировали Фисон и Гихон: с Нилом (распространённая святоотеческая идентификация, исходя из «обтекания земли Куш» в Бытии 2:13, что может означать Эфиопию / Нубию), с Гангом или Индом (предложение Иосифа Флавия, *Иудейские древности* 1.1.3), с Араксом в Армении или с Каруном или Керхой в современном Иране. У каждого из предложений имеются текстуальные или географические проблемы; ни одно не достигло консенсуса.
 
-### The framework's reading of the geographic question
+Современные предложения продолжили эту традицию. Гипотеза Персидского залива, связанная с **Юрисом Заринсом** (американским археологом, в *Smithsonian Magazine* 1987 г. и последующих публикациях), отождествляет Фисон с Вади-эр-Румма, ныне сухим руслом, пересекающим Аравийский полуостров, которое снимки LANDSAT показали как крупную речную систему в более влажный плейстоценовый период; Гихон — с рекой Карун в Иране; Тигр и Евфрат — как самих себя; а точку слияния четырёх рек — с вершиной Персидского залива, которая в раннем голоцене простиралась далее вглубь суши, чем нынешняя береговая линия. Гипотеза Заринса размещает Эдем в этой затопленной области, ныне под водами Персидского залива.
 
-The corpus's reading of the four-rivers passage is distinct from both the mainstream biblical-scholarly position (which generally treats the rivers as mythological or as preserving general geographic memory rather than as a precise identification puzzle) and the alternative-interpretation hypotheses (which treat the puzzle as solvable by careful work with the present-day geography).
+Гипотеза **Дэвида Роля** (в *Legend: The Genesis of Civilisation*, 1998) размещает Эдем в области озера Урмия на северо-западе Ирана, отождествляя Фисон с Арасом / Араксом, а Гихон — с Кызыл-Узеном или Большим Забом.
 
-On the corpus's reading, the four-rivers passage is a description of the antediluvian Eden region's hydrology, no longer extant in its original form. The supercontinent on which the antediluvian Eden was located broke apart catastrophically during the Flood event of the Age of Gemini (c. 6,690 BCE on the corpus's chronology), with the resulting fragments becoming the modern continents through subsequent drift.[^pangaea] The pre-Flood river system that included the Pishon, Gihon, Tigris, and Euphrates as four streams flowing from a common source no longer exists in that configuration. The names *Tigris* and *Euphrates* were preserved across the catastrophe by the post-Flood survivors, who attached them to rivers in the post-Flood Mesopotamian region that the survivors associated with the original referents, but the post-Flood rivers are not the same as the antediluvian rivers — the geographic substrate has been rearranged.
+### Прочтение фреймворком географического вопроса
 
-[^pangaea]: The framework's "supercontinent" is not the conventional Pangaea of mainstream geology. Conventional Pangaea assembled approximately 335 million years ago and broke apart approximately 175 million years ago, with continental drift unfolding over hundreds of millions of years through mantle convection. The corpus, following the Raëlian source material, reads the breakup as a catastrophic event during the Flood of the Age of Gemini c. 6,690 BCE, with the observed continental drift since then as the residual momentum of that event. The structural correspondence — a single consolidated landmass, surrounded by a single ocean — is the same; the timing and mechanism are radically different. The conflict with mainstream geological dating is substantial and is treated openly in the [Pangaea](../pangaea/), [Great Flood](../great-flood/), and [Antediluvian](../antediluvian/) entries.
+Прочтение корпусом пассажа о четырёх реках отличается как от позиции академического мейнстрима библеистики (которая, как правило, трактует реки как мифологические или сохраняющие общую географическую память, а не как точную задачу идентификации), так и от гипотез альтернативной интерпретации (которые трактуют задачу как разрешимую тщательной работой с современной географией).
 
-The general identification of the Eden region with the eastern Mediterranean / Levantine portion of the antediluvian supercontinent — the area that, after the breakup, would become the modern Levant including present-day Israel, Lebanon, Syria, southeastern Turkey, and the surrounding coastlands of Greece, Cyprus, and the Mediterranean basin — is solid on the corpus's reading. This identification is grounded in the Raëlian source material's specific identification of the Israel team's territory as the precursor to what would become the modern Israel. The pre-Flood Eden region is, on this reading, the antediluvian configuration of the territory whose post-Flood remnant is the present Levantine area.
+В прочтении корпуса пассаж о четырёх реках — это описание гидрологии допотопной области Эдема, более не существующей в первоначальной форме{{ footnote(id="2") }}. Суперконтинент, на котором располагался допотопный Эдем, катастрофически распался во время события Потопа Эпохи Близнецов (ок. 6 690 г. до н. э. по хронологии корпуса), и образовавшиеся фрагменты стали современными континентами в результате последующего дрейфа.{{ footnote(id="3") }} Допотопная речная система, в которую входили Фисон, Гихон, Тигр и Евфрат как четыре потока, текущие из общего источника, более не существует в этой конфигурации. Имена *Тигр* и *Евфрат* были сохранены через катастрофу послепотопными выжившими, которые присвоили их рекам послепотопной месопотамской области, ассоциированным выжившими с исходными референтами, но послепотопные реки — это не те же, что допотопные: географический субстрат был перестроен.
 
-The precise pre-Flood location of the garden of Eden within this broader region is not specified in the available source material. The four-rivers passage suggests a location at or near the headwaters of a major river system; the surrounding geography (the lands of Havilah and Cush, the gold and precious stones) suggests a region with substantial mineral wealth; the climatic features implied by the narrative (a controlled environment supporting diverse flora and fauna without seasonal extremes) suggest a temperate to subtropical setting. The framework treats these textual indications as preserving accurate features of the antediluvian Eden region, while acknowledging that the post-Flood remapping of the territory makes precise pre-Flood coordinates unrecoverable.
 
-### The garden as enclosed installation
+Общая идентификация области Эдема с восточно-средиземноморской / левантийской частью допотопного суперконтинента — областью, которая после распада станет современным Левантом, включая нынешний Израиль, Ливан, Сирию, юго-восточную Турцию и окружающие побережья Греции, Кипра и Средиземноморского бассейна, — устойчива в прочтении корпуса. Эта идентификация опирается на конкретное отождествление в раэлианских источниках территории израильской команды как предшественника того, что станет современным Израилем. Допотопная область Эдема — это, в этом прочтении, допотопная конфигурация территории, послепотопным остатком которой является нынешняя левантийская область.
 
-The Hebrew *gan*, conventionally translated "garden," is read by the corpus in its strong etymological sense — an enclosed, protected, controlled space, with the boundary not merely ornamental but functional. The garden of Eden, on the framework's reading, is a specific enclosed installation within the broader Israel-team territory: a physical site bounded by some form of perimeter, containing the laboratories in which the biological synthesis was conducted, the educational facilities at which the first humans were instructed, and the controlled flora and fauna whose cultivation the Raëlian source material describes as the work of artists as well as scientists. The cherubim and flaming sword of Genesis 3:24 — placed at the entrance after the expulsion — are read as the access controls that prevented re-entry to the installation, consistent with the *gan*'s functional-boundary character.
+Точное допотопное местоположение Эдемского сада внутри этой более широкой области не уточняется в доступных исходных материалах. Пассаж о четырёх реках предполагает местоположение в верховьях крупной речной системы или вблизи них; окружающая география (земли Хавила и Куш, золото и драгоценные камни) указывает на область со значительными минеральными богатствами; климатические особенности, подразумеваемые повествованием (контролируемая среда, поддерживающая разнообразную флору и фауну без сезонных крайностей), указывают на умеренное–субтропическое окружение. Фреймворк трактует эти текстуальные указания как сохраняющие точные черты допотопной области Эдема, признавая при этом, что послепотопное переразмещение территории делает точные допотопные координаты невосстановимыми.
 
-The size of the installation is not specified in the source material. The Genesis text suggests something on the order of a substantial estate or compound rather than a small ornamental garden; the four-rivers passage implies that the garden is the source-region of major river systems, suggesting substantial geographic extent. The framework's reading treats the *gan-ʿĒden* as a major operational installation appropriate to a multi-millennial team operation, comparable in scale to the substantial scientific-research and habitation complexes that any such operation would require.
+### Сад как замкнутая установка
 
-## Historical occupation and use
+Еврейское *gan*, традиционно переводимое как «сад», корпус читает в его сильном этимологическом значении — замкнутого, защищённого, контролируемого пространства, граница которого не просто декоративна, но функциональна. Эдемский сад, в прочтении фреймворка, — это конкретная замкнутая установка внутри более широкой территории израильской команды: физическая площадка, ограниченная некоторой формой периметра, содержащая лаборатории, в которых проводился биологический синтез, образовательные сооружения, в которых наставлялись первые люди, и контролируемые флору и фауну, чьё возделывание раэлианский источник описывает как работу художников не менее, чем учёных. Херувимы и пламенный меч Бытия 3:24 — поставленные у входа после изгнания — прочитываются как средства контроля доступа, препятствовавшие повторному входу в установку, что согласуется с функционально-граничным характером *gan*.
 
-Eden was occupied, on the corpus's reading, across a specific period that maps to two precessional ages and a specific set of operational phases. The framework's chronology of these phases derives from the Raëlian source material's account of the creation work, with the Hebrew Bible's narrative providing the principal textual evidence for the political and biographical events.
+Размер установки в исходных материалах не указан. Текст Бытия предполагает нечто масштаба значительного поместья или комплекса, а не небольшого декоративного сада; пассаж о четырёх реках подразумевает, что сад — это исходная область крупных речных систем, что указывает на существенную географическую протяжённость. Прочтение фреймворком трактует *gan-ʿĒden* как крупную операционную установку, соответствующую многотысячелетней командной операции, сопоставимую по масштабу со значительными научно-исследовательскими и жилыми комплексами, какие потребовала бы любая подобная операция.
 
-### The Israel-team operational period: late Leo
+## Историческое использование и заселение
 
-The Israel team's operations in the Eden region began, on the framework's reading, during the broader Age of Leo (c. 11,010 – 8,850 BCE) — the sixth precessional age of the creation project, in which the seven creator teams synthesized the land animals and ultimately the first humans. The Israel team's specific work in Eden during late Leo culminated in the creation of the first humans (Adam and Eve, on the Genesis names) at approximately 11,375 BCE — the date derived from the 666-generation calculation anchoring the framework's chronology.
+Эдем был заселён, в прочтении корпуса, на протяжении конкретного периода, который отображается на две прецессионные эпохи и определённый набор операционных фаз. Хронология этих фаз во фреймворке выведена из раэлианского рассказа о работе по творению, причём повествование Еврейской Библии даёт основные текстуальные свидетельства о политических и биографических событиях.
 
-During this initial operational phase, the garden was the site of active biological synthesis. The team's laboratories produced the first humans through the genetic-design and laboratory-synthesis techniques the Elohim civilization possessed; the resulting individuals were placed in the prepared garden environment and instructed in the languages, sciences, and arts that the team judged appropriate for them. The instruction was deliberately bounded: the humans were granted free use of the educational and biological resources of the garden, but the prohibition concerning the Tree of the Knowledge of Good and Evil corresponded to a specific restriction on access to the scientific and technological archives of the team — the materials whose use would have given the humans capacities the team's authorities, on the home world, did not want them to acquire.
+### Операционный период израильской команды: конец Льва
 
-### The political crisis: late Leo / early Cancer
+Операции израильской команды в области Эдема начались, в прочтении фреймворка, в более широкой Эпохе Льва (ок. 11 010 – 8 850 гг. до н. э.) — шестой прецессионной эпохе проекта творения, в которой семь команд создателей синтезировали наземных животных и в итоге первых людей. Конкретная работа израильской команды в Эдеме в конце Льва завершилась творением первых людей (Адама и Евы по именам в Бытии) приблизительно в 11 375 г. до н. э. — дата, выведенная из расчёта в 666 поколений, лежащего в основе хронологии фреймворка.
 
-Across the closing centuries of Leo, on the corpus's reading, an internal political dispute developed within the Israel team. The leader of one faction — identified in the broader framework with **Lucifer** ("light-bringer") — disagreed with the home-world's containment policy and held that the synthesized humans should be told who their creators were, taught what their creators knew, and permitted to develop with full information. The Genesis 3 disclosure — the serpent's communication to the humans concerning the Tree of the Knowledge of Good and Evil — is the operational expression of this position. The corpus reads the serpent as the leader of this dissenting faction, providing the humans with access to the prohibited materials against the directives of the home world.
+В этой первоначальной операционной фазе сад был местом активного биологического синтеза{{ cite(id="the-book-which-tells-the-truth", text="[1]", title="Ворильон (Раэль), *Книга, которая говорит правду* (1974), глава 2 «Истина» — основной раэлианский источник прочтения фреймворком Эдема") }}. Лаборатории команды производили первых людей с помощью техник генетического проектирования и лабораторного синтеза, которыми обладала цивилизация Элохим; полученные индивиды помещались в подготовленную среду сада и наставлялись в языках, науках и искусствах, какие команда считала уместными для них. Наставление было намеренно ограниченным: людям было даровано свободное использование образовательных и биологических ресурсов сада, но запрет, касающийся Древа познания добра и зла, соответствовал конкретному ограничению доступа к научным и техническим архивам команды — материалам, использование которых дало бы людям возможности, которыми власти команды на родной планете не желали, чтобы те обладали{{ footnote(id="4") }}.
 
-The transgression, on this reading, is not a moral fall but a transmission of restricted knowledge against the home-world's policy. The narrative's subsequent imagery — the recognition of nakedness, the fashioning of clothing, the confrontation with Yahweh Elohim, the pronouncement of consequences — is read as the political-operational consequence of the disclosure: the humans now know what they are, the team's leadership confronts them, and the broader Council on the home world is informed of the violation.
+### Политический кризис: конец Льва / начало Рака
 
-### The expulsion: early Cancer
+На протяжении завершающих веков Льва, в прочтении корпуса, внутри израильской команды развился внутренний политический спор. Лидер одной фракции — отождествляемой в более широком фреймворке с **Люцифером** («светоносный») — не соглашался с политикой сдерживания родной планеты и полагал, что синтезированным людям следует рассказать, кто их создатели, научить тому, что знают их создатели, и позволить им развиваться при полной информации. Раскрытие в Бытии 3 — сообщение змея людям относительно Древа познания добра и зла — представляет собой операционное выражение этой позиции. Корпус прочитывает змея как лидера этой диссидентской фракции, обеспечившего людям доступ к запретным материалам вопреки директивам родной планеты.
 
-The expulsion from the garden, narrated in Genesis 3:23–24, is the framework's reading of the operational consequence of the political crisis. The humans are removed from the controlled garden environment and placed outside its boundary, in the broader Eden region, required to subsist by their own labor on land that has not been specifically prepared for them. The cherubim and flaming sword at the entrance prevent their return.
+Преступление, в этом прочтении, — не моральное падение, а передача ограниченного знания вопреки политике родной планеты. Последующие образы повествования — осознание наготы, изготовление одежды, очная ставка с Яхве Элохим, объявление последствий — прочитываются как политико-операционное следствие раскрытия: люди теперь знают, что они есть, руководство команды устраивает им очную ставку, и более широкий Совет на родной планете уведомляется о нарушении.
 
-The political settlement at the home-world Council level, treated more fully in the [Elohim](../elohim/) entry under Internal political structure, divided the post-Eden alliance personnel into two groups. The dissenting Lucifer faction — those who had supported the disclosure — was permanently exiled on Earth, condemned to live among the humans they had chosen to enlighten. The remainder of the Israel team, plus most of the personnel from the other six creator teams, was withdrawn to the home world. The result was that the post-expulsion Eden region contained the human population (now with restricted scientific knowledge) and a small permanent Elohim presence (the exiled Lucifer faction), with the broader alliance maintaining surveillance from a distance.
+### Изгнание: начало Рака
 
-### The post-expulsion period: Age of Cancer
+Изгнание из сада, описанное в Бытии 3:23–24, — это прочтение фреймворком операционного следствия политического кризиса. Людей удаляют из контролируемой садовой среды и помещают за её границей, в более широкой области Эдема, обязав их обеспечивать себя собственным трудом на земле, не подготовленной специально для них. Херувимы и пламенный меч у входа предотвращают их возвращение.
 
-The Age of Cancer (c. 8,850 – 6,690 BCE) is the period of the antediluvian human civilization that the post-expulsion Eden region, and its broader continental expansion, supported. The Genesis 4–6 narrative covers this period in compressed form: the Cain-and-Abel conflict and Cain's exile to the land of Nod east of Eden; the genealogies of Cain's line (Genesis 4:17–24), naming the founders of pastoral nomadism, music, and metallurgy; the parallel genealogy of Seth's line (Genesis 5), with the long lifespans of the patriarchs from Adam to Noah; the *benei ha-Elohim* episode (Genesis 6:1–4), with the Lucifer-faction Elohim taking human women as wives and producing the *Nephilim*; and the divine assessment leading to the Flood announcement (Genesis 6:5–8).
+Политическое урегулирование на уровне Совета родной планеты, рассматриваемое более полно в статье {% wiki(slug="elohim") %}Элохим{% end %} в разделе о внутренней политической структуре, разделило послеэдемский персонал альянса на две группы. Диссидентская фракция Люцифера — те, кто поддержал раскрытие, — была окончательно изгнана на Землю, осуждена жить среди людей, которых они избрали просветить. Остаток израильской команды плюс большинство персонала из шести других команд создателей был отозван на родную планету. Результатом стало то, что послеизгнанийская область Эдема содержала человеческое население (теперь с ограниченным научным знанием) и небольшое постоянное присутствие Элохим (изгнанная фракция Люцифера), причём более широкий альянс поддерживал наблюдение на расстоянии.
 
-Across this period, the Eden region itself remained inhabited by the descendants of the first humans, with the longevity treatment granted to the Sethite patriarchal leadership maintaining institutional continuity across multiple ordinary generations. The exiled Lucifer faction continued to teach the population, refining their technical and scientific capabilities across the centuries. The broader Eden civilization — the lineage of which the Hebrews would be the post-Flood remnant — developed across the supercontinent, with the Eden region as its political and cultural center. The detailed treatment of this period lives in the [Antediluvian](../antediluvian/) entry; what matters for the present entry is that the Eden region was the political and cultural center of the most accomplished of the seven antediluvian civilizations across the entire two-thousand-year span of the Age of Cancer.
+### Послеизгнаннийский период: Эпоха Рака
 
-### The Flood and the disruption of Eden
+Эпоха Рака (ок. 8 850 – 6 690 гг. до н. э.) — это период допотопной человеческой цивилизации, который поддерживала послеизгнаннийская область Эдема и её более широкое континентальное расширение. Повествование Бытия 4–6 охватывает этот период в сжатой форме: конфликт Каина и Авеля и изгнание Каина в землю Нод к востоку от Эдема; родословные линии Каина (Бытие 4:17–24), называющие основателей пастушеского кочевья, музыки и металлургии; параллельная родословная линии Сифа (Бытие 5) с долгими сроками жизни патриархов от Адама до Ноя; эпизод *бней ха-Элохим* (Бытие 6:1–4), где Элохим фракции Люцифера берут человеческих женщин в жёны и производят *Нефилимов*; и божественная оценка, ведущая к объявлению Потопа (Бытие 6:5–8).
 
-The Flood event of the Age of Gemini (c. 6,690 BCE) ended the antediluvian world and disrupted the Eden region in ways the framework treats as catastrophic. The supercontinent broke apart; the geography reorganized; the populations of the seven antediluvian civilizations were largely destroyed, with only the small remnants preserved through the ark surviving into the post-Flood era. The Eden region in its antediluvian configuration ceased to exist. The post-Flood remnants — what would become the Levantine region of the modern world — preserved cultural memory of the original Eden, transmitted through the Sethite-Noahite line whose direct descendants the Hebrews would become, but the physical site of the antediluvian garden was no longer recoverable.
+На протяжении этого периода сама область Эдема оставалась населённой потомками первых людей, причём долголетие, дарованное сифитскому патриархальному руководству, поддерживало институциональную преемственность через многие обычные поколения. Изгнанная фракция Люцифера продолжала наставлять население, уточняя его технические и научные возможности на протяжении столетий. Более широкая эдемская цивилизация — линия, послепотопным остатком которой станут евреи, — развивалась на суперконтиненте, причём область Эдема была её политическим и культурным центром. Подробное рассмотрение этого периода живёт в статье {% wiki(slug="antediluvian") %}Допотопный{% end %}; что важно для настоящей статьи — то, что область Эдема была политическим и культурным центром наиболее совершенной из семи допотопных цивилизаций на протяжении всего двухтысячелетнего пролёта Эпохи Рака.
 
-The detailed treatment of the Flood event lives in the [Great Flood](../great-flood/) entry. What matters for the Eden entry is that the Flood is the event that closes Eden's operational period: after the Flood, Eden is a memory rather than a place.
+### Потоп и нарушение Эдема
 
-## Significance in the framework
+Событие Потопа Эпохи Близнецов (ок. 6 690 г. до н. э.) положило конец допотопному миру и нарушило область Эдема способами, которые фреймворк трактует как катастрофические. Суперконтинент распался; география перестроилась; население семи допотопных цивилизаций было в значительной мере уничтожено, причём в послепотопную эпоху сохранились лишь малые остатки, проведённые через ковчег. Область Эдема в её допотопной конфигурации прекратила существование. Послепотопные остатки — то, что станет левантийской областью современного мира, — сохраняли культурную память об исходном Эдеме, передаваемую через сифо-ноевскую линию, прямыми потомками которой станут евреи, но физическая площадка допотопного сада уже не подлежала восстановлению.
 
-Eden's significance in the Wheel of Heaven framework is structured by three distinct functions, each of which the entry's earlier sections have developed. They warrant explicit synthesis.
+Подробное рассмотрение события Потопа живёт в статье {% wiki(slug="great-flood") %}Великий потоп{% end %}. Что важно для статьи об Эдеме — то, что Потоп есть событие, закрывающее операционный период Эдема: после Потопа Эдем — это память, а не место.
 
-### The pivotal political crisis
+## Значение в фреймворке
 
-Eden is, on the corpus's reading, the location of the most consequential political crisis the alliance has ever faced. The Lucifer-faction disclosure of restricted knowledge to the synthesized humans produced a political settlement — the permanent exile of the dissenting faction, the withdrawal of the rest of the creator personnel, the establishment of the post-Eden mediated-contact pattern — that has structured the entire subsequent post-creation history. Every operational policy the alliance has pursued across the subsequent fifteen millennia has been a response to or development of the post-Eden settlement. The patriarchal-period reconstruction with Abraham, the Mosaic-period direct intervention, the post-Aries indirect-contact policy, the Piscean-age missions of Jesus and Muhammad, the Aquarian-age opening with Vorilhon — all are operational extensions of the political situation Eden produced.
+Значение Эдема во фреймворке «Колесо Небес» структурировано тремя различными функциями, каждая из которых развита в более ранних разделах статьи. Они заслуживают явного синтеза.
 
-### The textual anchor
+### Поворотный политический кризис
 
-Eden is the textual anchor of the framework's entire reading of the Hebrew Bible. The Genesis 2–3 narrative, read at face value as the corpus does, establishes the basic ontology that the rest of the framework's reading depends on: Yahweh as a specific Eloha individual rather than a singular supernatural deity, the Elohim as a plurality of physical beings rather than a metaphysical singular, the creation of humans as biological synthesis in a specific operational setting, the political-rather-than-moral character of the post-Eden settlement, and the continuing alliance presence on Earth through the exiled Lucifer faction. Without the framework's reading of Eden, the rest of the framework's reading of the Hebrew Bible would lack its grounding text.
+Эдем — это, в прочтении корпуса, место наиболее значимого политического кризиса, с которым когда-либо сталкивался альянс. Раскрытие фракцией Люцифера ограниченного знания синтезированным людям породило политическое урегулирование — окончательное изгнание диссидентской фракции, отзыв остального персонала создателей, установление послеэдемского образца опосредованного контакта, — которое структурировало всю последующую послесотворительную историю. Каждая операционная политика, проводимая альянсом на протяжении последующих пятнадцати тысячелетий, была ответом на послеэдемское урегулирование или развитием его. Восстановление патриархального периода с {% wiki(slug="abraham") %}Авраамом{% end %}, прямое вмешательство периода Моисея, политика опосредованного контакта после Овна, миссии {% wiki(slug="jesus") %}Иисуса{% end %} и {% wiki(slug="muhammad") %}Мухаммада{% end %} в эпоху Рыб, открытие эпохи Водолея с Ворильоном — все они являются операционными продолжениями политической ситуации, которую породил Эдем.
 
-### The genealogical-textual privilege
+### Текстуальный якорь
 
-Eden is also the genealogical anchor of the corpus's specific position on textual privilege. The framework treats the Hebrew Bible as the most accurate of the surviving ancient records of the Elohim civilization's work on Earth, on the grounds that the Hebrews are the line treated in the Raëlian source material as the direct genetic descendants of the Israel-team-synthesized first humans. This privileged textual position is grounded in the Eden episode specifically: the Israel team's operations in the Eden region produced the lineage that became the Hebrews, and that lineage's continuous textual tradition preserved the operational events with greater fidelity than the parallel traditions of the other six lineages whose textual records have decayed across the post-Flood transmission. The corpus's relationship to the Hebrew Bible — taking its narratives as substantively accurate compressed records, rather than as theological mythology or as redactional composition — depends on this Eden-grounded genealogical privilege.
+Эдем — это текстуальный якорь всего прочтения фреймворком Еврейской Библии. Повествование Бытие 2–3, прочитанное в номинальном смысле, как это делает корпус, устанавливает базовую онтологию, от которой зависит остальное прочтение фреймворком: Яхве как конкретный Элоах-индивид, а не единое сверхъестественное божество; Элохим как множественность физических существ, а не метафизическая единичность; творение людей как биологический синтез в конкретной операционной обстановке; политический, а не моральный характер послеэдемского урегулирования; и продолжающееся присутствие альянса на Земле через изгнанную фракцию Люцифера. Без прочтения фреймворком Эдема остальное прочтение фреймворком Еврейской Библии лишилось бы своего опорного текста.
 
-## Modern reinterpretations
+### Генеалого-текстуальная привилегия
 
-Eden has been a subject of substantial modern reinterpretive scholarship across several distinct strands, each engaging the question from a different methodological starting point.
+Эдем — это также генеалогический якорь конкретной позиции корпуса относительно текстуальной привилегии. Фреймворк трактует Еврейскую Библию как наиболее точную из сохранившихся древних записей о работе цивилизации Элохим на Земле — на том основании, что евреи — это линия, трактуемая в раэлианских источниках как прямые генетические потомки первых людей, синтезированных израильской командой. Эта привилегированная текстуальная позиция опирается именно на эпизод Эдема: операции израильской команды в области Эдема породили линию, ставшую евреями, и непрерывная текстуальная традиция этой линии сохраняла операционные события с большей точностью, чем параллельные традиции других шести линий, чьи текстуальные записи распались за время послепотопной передачи. Отношение корпуса к Еврейской Библии — принятие её повествований как по существу точных сжатых записей, а не как теологической мифологии или редакторского составления — зависит от этой генеалогической привилегии, укоренённой в Эдеме.
 
-### Jean Sendy on Eden
+## Современные переинтерпретации
 
-**Jean Sendy**'s treatment of Eden is developed across his work but is particularly concentrated in *Ces dieux qui firent le ciel et la terre* (1969) and *Les cahiers de cours de Moïse* (1974). Sendy reads the Eden narrative as a record of operational events at a specific extraterrestrial-creator site, with the strangeness of the narrative (the talking serpent, the trees with theological functions, the cherubim with flaming swords) disappearing when the underlying referents are taken seriously rather than allegorized. Sendy's specific contributions to Eden interpretation include the reading of the four rivers as an antediluvian hydrography, the identification of the cherubim with technological access controls, the reading of the Tree of Life as a biotechnical resource rather than a botanical species, and the political-rather-than-moral reading of the expulsion. Sendy's approach is philological and historiographic rather than revelatory; he reaches the framework's reading from the Hebrew text's plain sense, working from comparative-mythological evidence and internal-textual analysis. His treatment of Eden is the principal scholarly antecedent of the corpus's adopted reading.
+Эдем был предметом значительной современной реинтерпретативной науки на протяжении нескольких различных направлений, каждое из которых подходит к вопросу из иной методологической отправной точки.
 
-### Mauro Biglino on Eden
+### Жан Сенди об Эдеме
 
-**Mauro Biglino**'s work on Eden is developed across his major books — *Il Libro che cambierà per sempre le nostre idee sulla Bibbia* (2010), *La Bibbia non parla di Dio* (2015), and *The Naked Bible* (2022, with Giorgio Cattaneo) — with three connected claims about the term and its referent. First, that Eden is a specific geographic region between Mesopotamia and the Caucasus rather than a metaphorical paradise. Second, that the term *gan* is properly read as a fenced, protected, enclosed space — a controlled environment rather than an open garden in the modern English sense. Third, that the *gan-ʿĒden* described in Genesis is one of several such enclosed installations operated by the biblical Elohim across the ancient world, with each functioning as an experimental laboratory in which the Elohim conducted biological work, including the synthesis of humanity.
+Трактовка Эдема **Жаном Сенди** развита по всей его работе, но особенно сконцентрирована в *Ces dieux qui firent le ciel et la terre* (1969){{ cite(id="sendy-ces-dieux", text="[2]", title="Сенди (1969); основополагающая французская формулировка; главный научный предшественник прочтения корпусом Эдема") }} и *Les cahiers de cours de Moïse* (1974){{ cite(id="sendy-cahiers-moise", text="[3]", title="Сенди (1974); развивает рамку мозаического периода с существенным фоновым материалом эдемского периода") }}. Сенди прочитывает повествование об Эдеме как запись операционных событий на конкретной площадке внеземных создателей, причём странность повествования (говорящий змей, деревья с теологическими функциями, херувимы с пламенными мечами) исчезает, когда лежащие в основе референты принимаются всерьёз, а не аллегоризируются. Конкретные вклады Сенди в эдемскую интерпретацию включают прочтение четырёх рек как допотопной гидрографии, отождествление херувимов с технологическими средствами контроля доступа, прочтение Древа жизни как биотехнического ресурса, а не ботанического вида, и политическое, а не моральное прочтение изгнания. Подход Сенди — филологический и историографический, а не откровенческий; он приходит к прочтению фреймворка из прямого смысла еврейского текста, работая со сравнительно-мифологическими свидетельствами и внутри-текстуальным анализом. Его трактовка Эдема — главный научный предшественник принятого корпусом прочтения.
 
-Biglino additionally proposes a non-standard etymology of the Sumerian-Akkadian *E-Din* as "house of the righteous," reading the "righteous" as members of the Elohim lineage. This gloss is distinctively Biglino's and is not the standard Assyriological reading; the consensus reading remains "plain" or "steppe." The corpus adopts the standard reading rather than Biglino's, since the framework's interpretive case does not depend on the non-standard gloss and is on more solid ground without it.
+### Мауро Бильино об Эдеме
 
-Biglino's strict-translational methodology — reading the Hebrew word-for-word and accepting what the resulting concrete text actually says, rather than allegorizing it into theological abstraction — is the broader methodological contribution his work makes to Eden interpretation, beyond the specific *gan* and *Eden* arguments.
+Работа **Мауро Бильино** об Эдеме развита по его основным книгам — *Il Libro che cambierà per sempre le nostre idee sulla Bibbia* (2010), *La Bibbia non parla di Dio* (2015) и *The Naked Bible* (2022, в соавторстве с Джорджо Каттанео) — с тремя связанными утверждениями о термине и его референте. Во-первых, Эдем — это конкретная географическая область между Месопотамией и Кавказом, а не метафорический рай. Во-вторых, термин *gan* правильно читать как огороженное, защищённое, замкнутое пространство — контролируемую среду, а не открытый сад в современном английском смысле. В-третьих, *gan-ʿĒden*, описанный в Бытии, — это одна из нескольких подобных замкнутых установок, эксплуатировавшихся библейскими Элохим по всему древнему миру, причём каждая функционировала как экспериментальная лаборатория, в которой Элохим вели биологические работы, включая синтез человечества.
 
-### Paul Anthony Wallis: *The Eden Conspiracy* (2024)
+Бильино дополнительно предлагает нестандартную этимологию шумеро-аккадского *E-Din* как «дом праведных», читая «праведных» как членов рода Элохим{{ footnote(id="5") }}. Этот глосс — отличительная черта Бильино и не является стандартным ассириологическим прочтением; консенсусное прочтение остаётся «равнина» или «степь». Корпус принимает стандартное прочтение, а не вариант Бильино, поскольку интерпретативная позиция фреймворка не зависит от нестандартного глосса и стоит на более твёрдой почве без него.
 
-**Paul Anthony Wallis**'s most direct engagement with Eden is *The Eden Conspiracy* (2024), a book-length treatment of the Genesis 2–3 narrative read in the framework's general direction. Wallis's earlier *Escaping from Eden* (2020), *The Scars of Eden* (2021), and *Echoes of Eden* (2021) develop the broader argument that the *Elohim* of Genesis are *the Powerful Ones* — beings physically present and operating with technologies the early human population could not have understood. *The Eden Conspiracy* focuses specifically on the Eden narrative, reading the garden, the trees, the serpent, and the expulsion as records of a real political crisis between alliance factions whose disagreement about how much the synthesized humans should be told produced the textually preserved conflict.
+Строго-переводческая методология Бильино — пословное чтение еврейского текста и принятие того, что в итоге конкретно говорит получившийся текст, вместо того чтобы аллегоризировать его в теологическую абстракцию, — это более широкий методологический вклад его работы в эдемскую интерпретацию, помимо конкретных аргументов о *gan* и *Eden*.
 
-Wallis's specific contributions to Eden interpretation include the structural reading of the political crisis (the disagreement between the senior alliance authority and the dissenting faction as the underlying conflict, with the serpent as the operational expression of the dissenting position), the careful treatment of the cherubim and flaming sword as technological rather than mythological, and the comparative engagement with Sumerian and other ancient Near Eastern parallel narratives. Wallis's accessibility and his specific focus on the Eden narrative make *The Eden Conspiracy* the most widely read recent treatment of Eden from within the broader reinterpretive tradition.
+### Пол Энтони Уоллис: *The Eden Conspiracy* (2024)
 
-### Eden-location proposals
+Наиболее прямое обращение **Пола Энтони Уоллиса** к Эдему — это *The Eden Conspiracy* (2024), книжного объёма рассмотрение повествования Бытие 2–3, прочитанного в общем направлении фреймворка. Более ранние работы Уоллиса *Escaping from Eden* (2020), *The Scars of Eden* (2021) и *Echoes of Eden* (2021) развивают более широкий аргумент, что *Элохим* в Бытии — это *Могущественные*, существа, физически присутствующие и работающие с технологиями, которых раннее человеческое население не могло бы понять. *The Eden Conspiracy* сосредоточивается именно на эдемском повествовании, прочитывая сад, деревья, змея и изгнание как записи о реальном политическом кризисе между фракциями альянса, чьё разногласие о том, насколько синтезированным людям следует рассказать, породило текстуально сохранённый конфликт.
 
-Beyond the term-and-narrative reinterpretive work, a substantial literature has developed around the question of where Eden was located. The principal proposals:
+Конкретные вклады Уоллиса в эдемскую интерпретацию включают структурное прочтение политического кризиса (разногласие между старшей властью альянса и диссидентской фракцией как лежащий в основе конфликт, со змеем как операционным выражением диссидентской позиции), тщательное рассмотрение херувимов и пламенного меча как технологических, а не мифологических, и сравнительное обращение к шумерским и другим древневосточным параллельным повествованиям. Доступность Уоллиса и его конкретный фокус на эдемском повествовании делают *The Eden Conspiracy* наиболее широко читаемой современной трактовкой Эдема в рамках более широкой реинтерпретативной традиции.
 
-The **Persian Gulf hypothesis** associated with **Juris Zarins** (the American archaeologist who developed the proposal across the 1980s and 1990s) places Eden at the head of the Persian Gulf, identifying the Pishon with the now-dry Wadi al-Rummah river system that LANDSAT imagery has shown crossed the Arabian peninsula during the wetter Pleistocene period, and treating the Gulf's higher pre-Holocene shoreline as the relevant geographic reference. The Zarins hypothesis is grounded in archaeological and geological evidence and has been the most academically respectable of the modern Eden-location proposals.
+### Предложения о местоположении Эдема
 
-The **Lake Urmia / Iranian-plateau hypothesis** associated with **David Rohl** (in *Legend: The Genesis of Civilisation*, 1998) places Eden in the Lake Urmia region of northwestern Iran, with the four rivers identified with regional Iranian and Caucasian river systems.
+Помимо реинтерпретативной работы над термином и повествованием, вокруг вопроса о том, где располагался Эдем, выработался существенный корпус литературы. Основные предложения:
 
-The **eastern Anatolian hypothesis** identifies Eden with the headwaters region of the Tigris and Euphrates in eastern Turkey — the region in which Göbekli Tepe and the broader Pre-Pottery Neolithic complex have been discovered. This proposal has gained traction since the Göbekli Tepe excavations, since the dating of the Pre-Pottery Neolithic sites lands within the framework's antediluvian period and the geographic identification with the corpus's eastern-Mediterranean / Levantine reading is consistent.
+**Гипотеза Персидского залива**, связанная с **Юрисом Заринсом** (американским археологом, разрабатывавшим предложение на протяжении 1980-х и 1990-х годов), помещает Эдем у вершины Персидского залива, отождествляя Фисон с ныне сухой речной системой Вади-эр-Румма, которая, как показала съёмка LANDSAT, пересекала Аравийский полуостров в более влажный плейстоценовый период, и трактуя более высокую догоплейстоценовую береговую линию залива как соответствующую географическую референцию. Гипотеза Заринса опирается на археологические и геологические данные и была наиболее академически респектабельным из современных предложений о местоположении Эдема.
 
-The **Sundaland hypothesis** (developed by Stephen Oppenheimer in *Eden in the East*, 1998) places Eden in the now-submerged Sundaland shelf of southeast Asia, treating the Eden tradition as preserving memory of a culture destroyed by the post-glacial sea-level rise.
+**Гипотеза озера Урмия / иранского плато**, связанная с **Дэвидом Ролем** (в *Legend: The Genesis of Civilisation*, 1998), помещает Эдем в область озера Урмия на северо-западе Ирана, причём четыре реки отождествляются с региональными иранскими и кавказскими речными системами.
 
-The corpus's reading does not endorse any of these specific location proposals as fully accurate, since the framework's antediluvian-supercontinent geography differs from the present-day continental configuration in ways the Persian Gulf and Lake Urmia proposals do not address. The corpus does treat the Anatolian / eastern-Mediterranean direction as broadly compatible with its identification of the Israel-team territory with the post-Flood Levant, while noting that the post-Flood remnants of the antediluvian Eden region cannot be straightforwardly mapped to a present-day location.
+**Восточно-анатолийская гипотеза** отождествляет Эдем с областью верховьев Тигра и Евфрата в Восточной Турции — областью, в которой были обнаружены Гёбекли-Тепе и более широкий комплекс докерамического неолита. Это предложение набрало популярность после раскопок Гёбекли-Тепе, поскольку датировка памятников докерамического неолита попадает в допотопный период фреймворка, а географическая идентификация с восточно-средиземноморским / левантийским прочтением корпуса согласуется.
 
-### Earlier ancient-astronaut literature
+**Сундаландская гипотеза** (развитая Стивеном Оппенгеймером в *Eden in the East*, 1998) помещает Эдем на ныне затопленном шельфе Сундаланда в Юго-Восточной Азии, трактуя эдемскую традицию как сохранение памяти о культуре, уничтоженной постледниковым подъёмом уровня моря.
 
-The broader ancient-astronaut interpretive tradition has engaged Eden at various points. **Erich von Däniken**'s *Chariots of the Gods?* (1968) treats Eden briefly as part of its broader argument about extraterrestrial visitation in ancient times. **Zecharia Sitchin**'s *The 12th Planet* (1976) and successor works treat Eden as a derivative tradition reflecting the earlier Sumerian Anunnaki narratives, with the *E.DIN* of the Sumerian texts as the underlying referent. The corpus's reading, as with the broader Sitchin tradition, registers the philological connection but does not treat Genesis as derivative from the Sumerian sources — the Hebrew tradition is read, on grounds developed in the [Genesis](../genesis/) entry, as preserving the more accurate independent record rather than as a later borrowing from the Mesopotamian sources.
+Прочтение корпуса не одобряет ни одно из этих конкретных предложений о местоположении как полностью точное, поскольку допотопно-суперконтинентальная география фреймворка отличается от современной континентальной конфигурации способами, которые предложения о Персидском заливе и об озере Урмия не учитывают. Корпус всё же трактует анатолийско-восточно-средиземноморское направление как в широком смысле совместимое со своей идентификацией территории израильской команды с послепотопным Левантом, отмечая при этом, что послепотопные остатки допотопной области Эдема не могут быть прямолинейно отображены на современное местоположение.
 
-## Comparative observations
+### Более ранняя литература о древних астронавтах
 
-The Eden tradition stands in a structurally distinctive position across the world's religious and mythological literatures: a paradisiacal or first-place tradition is found in essentially every major culture, with the Eden narrative being the Hebrew tradition's specific instance of a much broader pattern. The corpus reads the global pattern as evidence of a shared underlying historical event whose memory was preserved in fragmentary form across the various post-Flood populations descended from the seven Earth lineages. Several specific comparative cases warrant treatment.
+Более широкая интерпретативная традиция древних астронавтов обращалась к Эдему в различных пунктах. *Воспоминания о будущем* **Эриха фон Дэникена** (1968) кратко трактует Эдем в рамках более широкого аргумента о внеземном визите в древние времена. *The 12th Planet* **Захарии Ситчина** (1976) и последующие работы трактуют Эдем как производную традицию, отражающую более ранние шумерские повествования об ануннаках, причём *E.DIN* шумерских текстов выступает как лежащий в основе референт. Прочтение корпуса, как и более широкая ситчинская традиция, фиксирует филологическую связь, но не трактует Бытие как производное от шумерских источников — еврейская традиция читается, на основаниях, развиваемых в статье {% wiki(slug="genesis") %}Бытие{% end %}, как сохраняющая более точную независимую запись, а не как позднее заимствование из месопотамских источников.
 
-### Mesopotamian Dilmun
+## Сравнительные наблюдения
 
-The closest direct parallel to Eden in the ancient Near Eastern literature is **Dilmun**, the paradisiacal land in Sumerian mythology where the gods dwelled and where there was no sickness, hunger, or death. The myth of *Enki and Ninhursag* describes Dilmun in language strikingly close to the Edenic tradition: "the lion does not kill, the wolf does not snatch the lamb, the dog does not know the kid in his mouth, the boar does not know the eating of grain." Dilmun appears across multiple Sumerian and Akkadian texts, with the geographical identification contested in modern Assyriology — the traditional identification with Bahrain has been challenged by various other proposals including the head of the Persian Gulf.
+Эдемская традиция занимает структурно отличительное положение в религиозных и мифологических литературах мира: традиция о рае или о первоначальном месте обнаруживается практически в каждой крупной культуре, причём повествование об Эдеме — это конкретный экземпляр гораздо более широкого образца в еврейской традиции. Корпус прочитывает глобальный образец как свидетельство общего лежащего в основе исторического события, память о котором сохранилась в фрагментарной форме среди различных послепотопных населений, ведущих своё происхождение от семи земных линий. Несколько конкретных сравнительных случаев заслуживают рассмотрения.
 
-The structural parallels between Dilmun and Eden are extensive: a paradisiacal place associated with the gods; an absence of suffering and death; the presence of trees with special properties; a connection to a divine watering source. The corpus reads Dilmun and Eden as both preserving fragmentary memory of the antediluvian Eden region, with the Sumerian tradition having decayed further from the original referent than the Hebrew tradition but preserving structurally similar features. The Sumerian-Akkadian etymological link (the *EDEN* / *edinu* connection treated under Etymology above) makes the literary parallel particularly direct.
+### Месопотамский Дильмун
 
-### Persian *paradeisos* / *pairi-daēza*
+Ближайшая прямая параллель Эдему в древневосточной литературе — это **Дильмун**, райская земля в шумерской мифологии, где обитали боги и где не было болезни, голода или смерти. Миф об *Энки и Нинхурсаг* описывает Дильмун в выражениях, поразительно близких к эдемской традиции: «лев не убивает, волк не похищает ягнёнка, собака не знает козлёнка в своей пасти, кабан не знает поедания зерна». Дильмун появляется в нескольких шумерских и аккадских текстах, причём географическая идентификация оспаривается в современной ассириологии — традиционная идентификация с Бахрейном была оспорена различными другими предложениями, включая вершину Персидского залива.
 
-The English word *paradise* derives from Old Persian *pairi-daēza* (*pairi-* "around" + *daēza* "wall, enclosure"), meaning literally "walled enclosure" — the term used in Persian for the royal hunting parks and pleasure gardens of the Achaemenid period. The Greeks, encountering these gardens during their contact with the Persian empire, borrowed the word as *paradeisos* (παράδεισος), and the Septuagint translators of the Hebrew Bible used *paradeisos* to render Hebrew *gan* in Genesis 2:8 — establishing the equivalence between the Hebrew "garden of Eden" and the Persian "walled enclosure" that the English "paradise" preserves.
+Структурные параллели между Дильмуном и Эдемом обширны: райское место, ассоциированное с богами; отсутствие страдания и смерти; присутствие деревьев с особыми свойствами; связь с божественным источником вод. Корпус прочитывает Дильмун и Эдем как сохраняющие — оба — фрагментарную память о допотопной области Эдема, причём шумерская традиция отошла дальше от исходного референта, чем еврейская, но сохраняет структурно сходные черты. Шумеро-аккадская этимологическая связь (связь *EDEN* / *edinu*, рассмотренная выше в разделе «Этимология») делает литературную параллель особенно прямой.
 
-The semantic convergence is striking. Hebrew *gan* (from the root *g-n-n*, "to enclose, to protect, to defend") and Old Persian *pairi-daēza* (literally "walled enclosure") both name an enclosed, protected, controlled space. The two languages, though both Indo-European/Semitic and historically connected through long ancient Near Eastern contact, are distinct enough that the convergence is not trivial linguistic borrowing but reflects a shared semantic concept. The corpus's reading of the *gan-ʿĒden* as a functional enclosed installation is consistent with the Persian *pairi-daēza* concept and with the broader semantic pattern: across multiple ancient cultures, the original "paradise" is specifically a *bounded* and *protected* space, not an open garden in the modern English sense.
+### Персидское *paradeisos* / *pairi-daēza*
 
-The Persian Avestan tradition also preserves a paradisiacal first-place tradition independently of the *paradeisos* term — the **Vara of Yima**, an enclosed underground refuge built by the first king Yima at Ahura Mazda's command to preserve life through a coming catastrophic winter. The structural parallels to the Noah's-ark tradition, and indirectly to the Eden tradition, are evident; the elaborate enclosed-refuge imagery is one of the closer Indo-Iranian parallels to the broader paradise-and-flood pattern.
+Английское слово *paradise* восходит к древнеперсидскому *pairi-daēza* (*pairi-* «вокруг» + *daēza* «стена, ограждение»), означающему буквально «обнесённое стеной пространство» — термин, использовавшийся в персидском для царских охотничьих парков и увеселительных садов ахеменидского периода. Греки, встретив эти сады во время контактов с Персидской империей, заимствовали это слово как *paradeisos* (παράδεισος), а переводчики Септуагинты Еврейской Библии использовали *paradeisos* для передачи еврейского *gan* в Бытии 2:8 — установив эквивалентность между еврейским «садом Эдема» и персидским «обнесённым стеной пространством», которую сохраняет английское «paradise».
 
-### Greek Hesperides and the Golden Age
+Семантическое схождение поразительно. Еврейское *gan* (от корня *g-n-n*, «заключать, защищать, оборонять») и древнеперсидское *pairi-daēza* (буквально «обнесённое стеной пространство») оба именуют замкнутое, защищённое, контролируемое пространство. Эти два языка, хотя оба индоевропейские/семитские и исторически связанные через длительные древневосточные контакты, достаточно различны, чтобы схождение не было тривиальным лингвистическим заимствованием, а отражало общее семантическое понятие. Прочтение корпусом *gan-ʿĒden* как функциональной замкнутой установки согласуется с понятием персидского *pairi-daēza* и с более широким семантическим образцом: в нескольких древних культурах исходный «рай» — это именно *ограниченное* и *защищённое* пространство, а не открытый сад в современном английском смысле.
 
-Greek mythology preserves a paradisiacal-first-place tradition in the **Garden of the Hesperides** — a garden at the western edge of the world tended by the Hesperides nymphs, containing the golden apples that Hera received as a wedding gift from Gaia, guarded by the dragon Ladon. The structural parallels to Eden are striking: a garden at a specific geographic location (though the western rather than the eastern edge of the world); fruit-bearing trees with special significance; a serpentine guardian; an association with divine origins.
+Персидская авестийская традиция также сохраняет райскую традицию о первоначальном месте независимо от термина *paradeisos* — **Вара Йимы**, замкнутое подземное убежище, построенное первым царём Йимой по велению Ахуры Мазды, чтобы сохранить жизнь через грядущую катастрофическую зиму. Структурные параллели с традицией Ноева ковчега и косвенно с эдемской традицией очевидны; разработанная образность замкнутого убежища — одна из наиболее близких индо-иранских параллелей более широкому образцу рая и потопа.
 
-Hesiod's **Golden Race / Golden Age** tradition in *Works and Days* describes a prior race of humans who lived "in ease and peace upon their lands with many good things" before the gods replaced them with progressively lesser races. The structural parallel to the Genesis 5 long-lived patriarchs and the broader Edenic / antediluvian tradition is evident, with the Hesiodic tradition preserving the temporal-progression (paradise lost, succeeding ages of decline) more strongly than the Hebrew tradition does.
+### Греческие Геспериды и Золотой век
 
-The **Plato Atlantis tradition** (treated more fully in the [Antediluvian](../antediluvian/) entry) is structurally related but distinct, treating the lost civilization rather than the original paradise. The corpus reads Hesperides, the Golden Race, and Atlantis as three distinct Greek-tradition fragments preserving different aspects of the same underlying antediluvian historical situation.
+Греческая мифология сохраняет райскую традицию о первоначальном месте в **Саду Гесперид** — саду на западной окраине мира, который пасли нимфы-Геспериды, содержащем золотые яблоки, полученные Герой как свадебный подарок от Геи и охраняемые драконом Ладоном. Структурные параллели Эдему поразительны: сад в конкретной географической точке (хотя на западной, а не на восточной окраине мира); плодоносные деревья особого значения; змеевидный страж; ассоциация с божественным происхождением.
 
-### Egyptian Field of Reeds
+Традиция Гесиода о **Золотом роде / {% wiki(slug="golden-age") %}Золотом веке{% end %}** в *Трудах и днях* описывает предшествующий род людей, живший «в покое и мире на своих землях со многими благами», прежде чем боги заменили их прогрессивно менее значимыми родами. Структурная параллель с долгожителями-патриархами Бытия 5 и более широкой эдемско-допотопной традицией очевидна, причём гесиодова традиция сохраняет временную прогрессию (потерянный рай, последующие века упадка) сильнее, чем еврейская традиция.
 
-The Egyptian **Field of Reeds** (*Sekhet-Aaru*, "Field of Rushes") is the paradisiacal afterlife destination of the righteous in Egyptian religion, described in the *Book of the Dead* and elsewhere as a fertile region where the deceased lives in peace and abundance. The structural parallels to Eden are limited — the Egyptian tradition treats the paradisiacal place as the *destination* of the righteous after death rather than as the *origin* of humanity — but certain features are convergent: the agricultural abundance, the presence of waterways, the freedom from suffering and want.
+**Платоновская традиция Атлантиды** (рассмотренная более полно в статье {% wiki(slug="antediluvian") %}Допотопный{% end %}) структурно родственна, но отлична — она трактует утраченную цивилизацию, а не исходный рай. Корпус прочитывает Гесперид, Золотой род и Атлантиду как три различных фрагмента греческой традиции, сохраняющих разные аспекты одной и той же лежащей в основе допотопной исторической ситуации.
 
-The Egyptian *zep tepi* tradition ("the first time"), referenced briefly in the [Antediluvian](../antediluvian/) entry, is a closer parallel to the Edenic-origin tradition than the Field of Reeds is. *Zep tepi* refers to a primordial period when the gods walked among men and established the cosmic order; the structural parallel to the Eden period (when the alliance was directly present on Earth, before the post-Eden withdrawal) is evident.
+### Египетское Поле Тростников
 
-### Hindu Jambudvīpa
+Египетское **Поле Тростников** (*Сехет-Иару*, «Поле Камышей») — это райский загробный пункт назначения праведных в египетской религии, описанный в *Книге мёртвых* и в других местах как плодородная область, где усопший живёт в мире и изобилии. Структурные параллели с Эдемом ограничены — египетская традиция трактует райское место как *пункт назначения* праведных после смерти, а не как *исток* человечества, — но некоторые черты сходятся: сельскохозяйственное изобилие, наличие водных путей, свобода от страдания и нужды.
 
-The Hindu cosmological tradition includes **Jambudvīpa**, the central continent of the world in Puranic cosmology, named for the great *Jambu* tree (the rose-apple) at its center. Jambudvīpa is described as a fertile, paradisiacal land in early Puranic accounts, with the *Jambu* tree as its central feature and with various rivers flowing from it. The structural parallels to Eden are several: a central tree with special significance, a paradisiacal land, rivers flowing from a central source, association with origins.
+Египетская традиция *зеп тепи* («первое время»), бегло упоминаемая в статье {% wiki(slug="antediluvian") %}Допотопный{% end %}, — более близкая параллель к эдемской традиции истока, чем Поле Тростников. *Зеп тепи* отсылает к первобытному периоду, когда боги ходили среди людей и устанавливали космический порядок; структурная параллель с эдемским периодом (когда альянс был непосредственно присутствовал на Земле, до послеэдемского отхода) очевидна.
 
-The broader Hindu tradition includes elaborate *yuga* cycles (treated in the [Antediluvian](../antediluvian/) entry) describing prior ages of progressively higher human capacity and spiritual achievement. The *Krita Yuga* — the first and highest yuga — is described in terms structurally close to the Edenic tradition: long human lifespans, direct contact with the divine, freedom from suffering and disease. The corpus reads the Jambudvīpa-and-yuga tradition as preserving fragmentary memory of the antediluvian period and the original alliance-creation context, with the Hindu tradition having developed its own elaborate cosmological structure around this preserved memory.
+### Индийский Джамбудвипа
 
-### Mesoamerican prior worlds
+Индуистская космологическая традиция включает **Джамбудвипу**, центральный континент мира в пуранической космологии, названный по великому дереву *Джамбу* (розового яблока) в его центре. Джамбудвипа описана как плодородная, райская земля в ранних пуранических рассказах, причём дерево *Джамбу* — её центральная черта, а различные реки текут из неё. Структурные параллели Эдему многочисленны: центральное дерево особого значения, райская земля, реки, текущие из центрального источника, ассоциация с истоками.
 
-The Mesoamerican **prior-worlds tradition**, preserved most fully in the *Popol Vuh* and various Aztec and Maya sources, describes a sequence of prior worlds (or "suns") destroyed by the gods and replaced. While not strictly an Edenic-paradise tradition, the structural parallel to the antediluvian-and-Flood pattern is striking, and the prior worlds are typically described as ages of greater human and divine intimacy than the present age. The detailed treatment of the Mesoamerican tradition lives in the [Antediluvian](../antediluvian/) entry; what matters here is that the broader pattern of paradise-original-and-prior-age recurs in Mesoamerica as in the other major cultural areas.
+Более широкая индуистская традиция включает разработанные циклы *юг* (рассмотренные в статье {% wiki(slug="antediluvian") %}Допотопный{% end %}), описывающие предшествующие века прогрессивно более высокой человеческой способности и духовного достижения. *Крита Юга* — первая и высшая юга — описывается в выражениях, структурно близких к эдемской традиции: долгие сроки человеческой жизни, прямой контакт с божественным, свобода от страдания и болезни. Корпус прочитывает традицию Джамбудвипы и юг как сохраняющую фрагментарную память о допотопном периоде и об исходном контексте сотворения альянсом, причём индуистская традиция выработала собственную разработанную космологическую структуру вокруг этой сохранённой памяти.
 
-### The convergence
+### Мезоамериканские предшествующие миры
 
-The corpus's working position on the comparative-religion question is that the global recurrence of paradise-origin, prior-age, and lost-civilization traditions across geographically and temporally disconnected cultures is evidence of a shared underlying historical event whose memory was preserved in fragmentary form across the various human populations descended from the seven Earth lineages. The specific identification of any particular tradition's content with specific Eden-period events requires case-by-case analysis rather than blanket equivalence — some traditions preserve closer memory of the original referents than others, and the post-Flood transmission across multiple millennia has produced substantial variation in what each tradition preserves and how. The corpus refuses both the popular ancient-astronaut tendency to treat all such traditions as direct memories of identical events and the mainstream comparative-religion tendency to treat them as independent mythological constructions of their respective cultures.
+Мезоамериканская **традиция о предшествующих мирах**, сохранённая наиболее полно в *Пополь-Вух* и в различных ацтекских и майяских источниках, описывает последовательность предшествующих миров (или «солнц»), уничтоженных богами и заменённых. Хотя это и не строго райско-эдемская традиция, структурная параллель с допотопно-потопным образцом поразительна, и предшествующие миры обычно описываются как века большей человеческо-божественной близости, чем нынешний век. Подробное рассмотрение мезоамериканской традиции живёт в статье {% wiki(slug="antediluvian") %}Допотопный{% end %}; что важно здесь — то, что более широкий образец райского истока и предшествующего века повторяется в Мезоамерике, как и в других главных культурных областях.
 
-## See also
+### Схождение
 
-- [Adam and Eve](../adam-and-eve/)
-- [Genesis](../genesis/)
-- [Elohim](../elohim/)
-- [Yahweh](../yahweh/)
-- [Lucifer](../lucifer/)
-- [Serpent](../serpent/)
-- [Tree of Life](../tree-of-life/)
-- [Tree of the Knowledge of Good and Evil](../tree-of-knowledge/)
-- [Cherubim](../cherubim/)
-- [Antediluvian](../antediluvian/)
-- [Pangaea](../pangaea/)
-- [Great Flood](../great-flood/)
-- [Nephilim](../nephilim/)
-- [Sons of Elohim](../sons-of-elohim/)
-- [Cain and Abel](../cain-and-abel/)
-- [Noah](../noah/)
-- [Hebrews](../hebrews/)
-- [Age of Leo](../timeline/age-of-leo/)
-- [Age of Cancer](../timeline/age-of-cancer/)
-- [Age of Gemini](../timeline/age-of-gemini/)
-- [Dilmun](../dilmun/)
-- [Atlantis](../atlantis/)
-- [Göbekli Tepe](../gobekli-tepe/)
-- [Jean Sendy](../jean-sendy/)
-- [Mauro Biglino](../mauro-biglino/)
-- [Paul Anthony Wallis](../paul-anthony-wallis/)
-- [*Message from the Designers*](../library/message-from-the-designers/)
-
-## References
-
-Vorilhon, Claude (Raël). *The Book Which Tells the Truth* (1974), chapter 2, "Truth"; collected in *Message from the Designers*.
-
-Vorilhon, Claude (Raël). *Let's Welcome the Extraterrestrials* (1979); collected in *Message from the Designers*.
-
-Sendy, Jean. *Ces dieux qui firent le ciel et la terre*. Robert Laffont, 1969. English: *Those Gods Who Made Heaven and Earth*. Berkley, 1972.
-
-Sendy, Jean. *Les cahiers de cours de Moïse*. Robert Laffont, 1974.
-
-Biglino, Mauro. *Il Libro che cambierà per sempre le nostre idee sulla Bibbia*. Uno Editori, 2010.
-
-Biglino, Mauro. *La Bibbia non parla di Dio*. Mondadori, 2015.
-
-Biglino, Mauro, and Giorgio Cattaneo. *The Naked Bible: The Truth About the Most Famous Book in History*. Uno, 2022.
-
-Wallis, Paul Anthony. *Escaping from Eden*. 6th Books, 2020.
-
-Wallis, Paul Anthony. *The Scars of Eden*. 6th Books, 2021.
-
-Wallis, Paul Anthony. *Echoes of Eden*. 6th Books, 2021.
-
-Wallis, Paul Anthony. *The Eden Conspiracy*. 6th Books, 2024.
-
-*Biblia Hebraica Stuttgartensia*. Deutsche Bibelgesellschaft, 4th rev. ed., 1997.
-
-Sarna, Nahum. *Genesis: The JPS Torah Commentary*. Jewish Publication Society, 1989.
-
-Westermann, Claus. *Genesis 1–11: A Continental Commentary*. Fortress, 1994.
-
-Cassuto, Umberto. *A Commentary on the Book of Genesis*. Magnes Press, 1961.
-
-*The Assyrian Dictionary of the Oriental Institute of the University of Chicago* (CAD). Volume E.
-
-Halloran, John A. *Sumerian Lexicon*. Logogram Publishing, 2006.
-
-Zarins, Juris. "The Land of Eden: Its Geographic Setting." *Smithsonian Magazine*, May 1987.
-
-Rohl, David. *Legend: The Genesis of Civilisation*. Century, 1998.
-
-Oppenheimer, Stephen. *Eden in the East: The Drowned Continent of Southeast Asia*. Weidenfeld & Nicolson, 1998.
-
-Kramer, Samuel Noah, and John Maier. *Myths of Enki, the Crafty God*. Oxford University Press, 1989.
-
-Lambert, W. G., and A. R. Millard. *Atra-ḫasīs: The Babylonian Story of the Flood*. Oxford, 1969.
-
-Boyce, Mary. *Zoroastrians: Their Religious Beliefs and Practices*. Routledge, 2nd ed., 2001.
-
-"Garden of Eden." *Encyclopaedia Britannica*. <https://www.britannica.com/topic/Garden-of-Eden>
-
-"Garden of Eden." *Wikipedia*. <https://en.wikipedia.org/wiki/Garden_of_Eden>
-
-"Eden, Garden of." *Jewish Encyclopedia*. <https://www.jewishencyclopedia.com/articles/5428-eden-garden-of>
-
-"Dilmun." *Encyclopaedia Britannica*. <https://www.britannica.com/place/Dilmun>
-
-"Hesperides." *Encyclopaedia Britannica*. <https://www.britannica.com/topic/Hesperides>
-
-"Paradise (etymology)." *Online Etymology Dictionary*. <https://www.etymonline.com/word/paradise>
+Рабочая позиция корпуса по сравнительно-религиоведческому вопросу состоит в том, что глобальная повторяемость традиций о райском истоке, предшествующем веке и утраченной цивилизации в географически и временно́ разобщённых культурах есть свидетельство общего лежащего в основе исторического события, память о котором сохранилась в фрагментарной форме среди различных человеческих населений, ведущих своё происхождение от семи земных линий. Конкретная идентификация содержания той или иной отдельной традиции с конкретными событиями эдемского периода требует анализа от случая к случаю, а не сплошного приравнивания — некоторые традиции сохраняют более близкую память об исходных референтах, чем другие, а послепотопная передача через несколько тысячелетий породила существенную вариацию в том, что каждая традиция сохраняет и как. Корпус отвергает как популярную в традиции древних астронавтов склонность трактовать все подобные традиции как прямые воспоминания об идентичных событиях, так и склонность мейнстрима сравнительного религиоведения трактовать их как независимые мифологические построения соответствующих культур.

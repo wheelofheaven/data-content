@@ -9,8 +9,37 @@ toc = true
 category = "Elohim"
 editorial_pass = "2026-05"
 entry_type = "figure"
+claim_type = "inferred"
 alternative_names = ["the Adversary", "the Accuser", "the Opposition", "*ha-satan* (הַשָּׂטָן, 'the satan')", "*satan* (שָׂטָן, common noun)", "the Slanderer", "*diabolos* (διάβολος, Greek)", "the Devil (medieval-Christian theological designation, conflated)", "the Tester", "the Skeptic"]
 timeline = ["all-ages"]
+
+see_also = [
+    { title = "Lucifer", path = "/wiki/lucifer/", description = "The Earth-based exiled-creator faction leader; the Eden disclosure agent; distinguished from Satan in the corpus's four-figure taxonomy." },
+    { title = "Serpent", path = "/wiki/serpent/", description = "The Lucifer faction collectively in the Eden-disclosure role; distinguished from Satan." },
+    { title = "Yahweh", path = "/wiki/yahweh/", description = "The Council majority leader whose post-flood vote Satan accepted while continuing principled opposition." },
+    { title = "Council of the Eternals", path = "/wiki/council-of-eternals/", description = "The home-world political-institutional structure within which Satan leads the opposition faction." },
+    { title = "Elohim", path = "/wiki/elohim/", description = "The broader civilisational designation within which Satan operates as a specific political-factional figure." },
+    { title = "The Alliance", path = "/wiki/the-alliance/", description = "The Earth-program creator-civilisational arrangement against which Satan's faction has consistently opposed." },
+    { title = "Eden", path = "/wiki/eden/", description = "The originary alliance laboratory; the Eden expulsion is the principal episode in which Satan's predictions began to be borne out." },
+    { title = "Adam and Eve", path = "/wiki/adam-and-eve/", description = "The principal Eden-narrative figures whose disobedience confirmed Satan's foundational concerns." },
+    { title = "Antediluvian", path = "/wiki/antediluvian/", description = "The pre-flood period during which Satan accumulated evidence of human aggression toward the destruction decision." },
+    { title = "Great Flood", path = "/wiki/great-flood/", description = "The destruction-decision execution; the episode at which Satan's predictions were operationally realised." },
+    { title = "Cosmic Chain", path = "/wiki/cosmic-chain/", description = "The post-flood discovery that transformed Council politics and Satan's institutional position." },
+    { title = "Theomachy", path = "/wiki/theomachy/", description = "The broader cosmic-political-conflict framework within which Satan's opposition operates." },
+    { title = "Dragons", path = "/wiki/dragons/", description = "The home-world laboratory incident treatment; cultural-memory residue of the originary biological program." },
+    { title = "Jesus", path = "/wiki/jesus/", description = "The principal prophet-testing episode in the New Testament (Matthew 4:1-11; Luke 4:1-13)." },
+    { title = "Prophet", path = "/wiki/prophet/", description = "The institutional role within which Satan's adversarial-testing function operates." },
+    { title = "Hebrew Bible", path = "/wiki/hebrew-bible/", description = "The principal scriptural source for the ha-satan figure's Council-prosecutor articulation." },
+]
+
+footnotes = [
+    { content = "The corpus's articulation of the conflation mechanism — by which four originally distinct figures (Satan, Lucifer, the Serpent, the Devil) collapsed into a single personification of cosmic evil — operates through three principal historical moments: the post-Sodom collapse of the educational framework that had previously preserved the distinctions; the Persian-period Zoroastrian dualistic influence on Second Temple Judaism that supplied the cosmic-good-vs-evil framing; and the Christian-theological elaboration of the resulting composite figure into the elaborate medieval demonology. The framework reads this as the operational mechanism by which the original four-figure taxonomy was progressively lost." },
+    { content = "The Job prologue (Job 1-2) registers ha-satan operating with full Council-procedural standing: the figure has institutional access to the divine court, raises challenges in the proper procedural manner, and operates under formal Council-vote authorisation. The mainstream theological reading of Job's satan as 'an adversary' rather than 'the Devil' is itself substantial scholarly consensus (Day 1988; Pope 1973; Habel 1985; Newsom 2003; Clines 1989-2011 are convergent here); the corpus's specific reading adds the institutional-political articulation of what the adversarial role means within the broader Council framework." },
+    { content = "The institutional logic of Satan's prophet-testing role operates as adversarial-interview: a prophet who could be turned by the opposition's testing would be a liability to the broader mission; a prophet who resisted the testing could be trusted. The testing was, in effect, conducted by the political opposition specifically because the opposition's motivated skepticism would expose any weakness in the candidate's commitment. This is operational quality-control through adversarial procedure, not personal cosmic-evil malice." },
+    { content = "The Hebrew *satan* (שָׂטָן) is in its original biblical usage a common noun derived from the root *s-t-n* meaning 'to oppose,' 'to obstruct,' 'to be hostile to.' Its appearances in non-theological contexts (1 Samuel 29:4 for David as Philistine adversary; 1 Kings 11 for Solomon's geopolitical opponents; Numbers 22 for the angel as adversary to Balaam) establish the term as a relational-positional designation rather than a proper name. The shift to proper-name usage — and the conflation with Lucifer, the Serpent, and the Devil — is a Second Temple and post-biblical development that the framework reads as historical-developmental rather than original to the Hebrew material." },
+    { content = "The Greek New Testament *diabolos* (διάβολος) means literally 'slanderer' or 'one who speaks against' (from *dia-* + *bállō*, 'to throw across,' 'to speak against'). The lexical content is precisely Satan's institutional function in the prophet-testing role — the figure who raises objections, impugns, challenges. The progressive theological elaboration of *diabolos* into 'the Devil' as personification of cosmic evil obscures the original lexical-functional content of the designation." },
+    { content = "The cross-cultural opposition-figure traditions (Zoroastrian Angra Mainyu/Ahriman; Hindu asuras; Buddhist Mara; Egyptian Set; Norse Loki) preserve the broader principled-opposition pattern within their distinctive cultural-religious framings. The framework does not require rejecting the mainstream comparative-religion explanatory framework — cultural diffusion, shared cognitive-archetypal substrate, and independent cultural development all contribute. What the framework adds is the underlying historical-political foundation: the actual Eloha political-institutional structure within which the various traditions' opposition-figures register as cultural memory." },
+]
 
 [[extra.references]]
 id = "the-book-which-tells-the-truth"
@@ -58,6 +87,102 @@ note = "Quranic Iblis / Shaytan material with substantial parallel content to th
 id = "avesta"
 note = "Zoroastrian scripture; the Angra Mainyu / Ahura Mazda cosmic-dualistic framework that substantially influenced Second Temple Jewish development of the satan figure."
 
+[[extra.references]]
+id = "sendy-ces-dieux"
+note = "Sendy's foundational French articulation of the Elohim hypothesis (1969); cross-tradition reading of the cosmic-political dynamics."
+
+[[extra.references]]
+id = "wallis-eden-conspiracy"
+note = "Wallis (2024); contemporary articulation of the Eden / engineered-civilizational reading, with substantial Satan-Lucifer disentanglement content."
+
+[[extra.references]]
+id = "day-adversary-heaven"
+note = "Day (1988); foundational philological study of the Hebrew satan figure across the Hebrew Bible, distinguishing common-noun and definite-article usages."
+
+[[extra.references]]
+id = "pope-job"
+note = "Pope (1973); Anchor Bible commentary on Job with substantial treatment of the ha-satan figure in the prologue."
+
+[[extra.references]]
+id = "habel-job"
+note = "Habel (1985); Westminster commentary on Job; substantial articulation of ha-satan as institutional opposition."
+
+[[extra.references]]
+id = "newsom-job-moral"
+note = "Newsom (2003); principal monograph on Job's moral-imaginative structure, including the ha-satan figure's institutional-adversarial role."
+
+[[extra.references]]
+id = "clines-job-wbc"
+note = "Clines (1989-2011); three-volume Word Biblical Commentary on Job, principal contemporary critical commentary."
+
+[[extra.references]]
+id = "russell-devil-antiquity"
+note = "Russell (1977); first volume of the principal tetralogy on the history of the Devil figure; antiquity through primitive Christianity."
+
+[[extra.references]]
+id = "russell-satan-early-christian"
+note = "Russell (1981); the early-Christian elaboration of Satan into the personification of cosmic evil."
+
+[[extra.references]]
+id = "russell-lucifer-middle-ages"
+note = "Russell (1984); the medieval demonological elaboration of the conflated Satan/Lucifer/Devil figure."
+
+[[extra.references]]
+id = "russell-mephistopheles-modern"
+note = "Russell (1986); the modern transformations of the Devil figure across post-Reformation Western culture."
+
+[[extra.references]]
+id = "pagels-origin-satan"
+note = "Pagels (1995); polemical-sociological origins of the Christian Satan figure as boundary-marker against religious-political opponents."
+
+[[extra.references]]
+id = "kelly-satan-biography"
+note = "Kelly (2006); principal historical-philological biography of the Satan figure across Jewish and Christian traditions."
+
+[[extra.references]]
+id = "mcginn-antichrist"
+note = "McGinn (1994); historical treatment of the Antichrist tradition, closely adjacent to Satan-development scholarship."
+
+[[extra.references]]
+id = "boyce-zoroastrians"
+note = "Boyce (1979); the Angra Mainyu / Ahura Mazda cosmic-dualistic framework that substantially influenced Second Temple Jewish development of the satan figure."
+
+[[extra.references]]
+id = "nickelsburg-enoch-1"
+note = "Nickelsburg (2001); Hermeneia commentary on 1 Enoch; foundational for the Watchers tradition and Genesis 6 Nephilim material."
+
+[[extra.references]]
+id = "reed-fallen-angels"
+note = "Reed (2005); reception of Enochic literature in Jewish and Christian tradition."
+
+[[extra.references]]
+id = "vermes-dead-sea-scrolls"
+note = "Vermes (rev. ed. 2004); accessible English translation of the Dead Sea Scrolls corpus."
+
+[[extra.references]]
+id = "vanderkam-dss-today"
+note = "VanderKam (2nd ed. 2010); accessible introduction to the Dead Sea Scrolls."
+
+[[extra.references]]
+id = "bodman-poetics-iblis"
+note = "Bodman (2011); the Iblis narrative in the Quran, closely parallel content to the Hebrew satan figure."
+
+[[extra.references]]
+id = "awn-satan-iblis"
+note = "Awn (1983); the Iblis tradition in Sufi psychology, articulating Iblis as principled-opposition figure."
+
+[[extra.references]]
+id = "doniger-hindu-myths"
+note = "Doniger (1975); Hindu mythological sourcebook including the asura tradition closely parallel to the Hebrew satan content."
+
+[[extra.references]]
+id = "williams-mahayana"
+note = "Williams (2nd ed. 2008); Mahāyāna Buddhism doctrinal foundations, including the Mara tradition and prophet-testing function."
+
+[[extra.references]]
+id = "sturluson-prose-edda"
+note = "Sturluson (c. 1220); principal Norse mythological tradition, including the Loki figure with substantial parallel content."
+
 [extra.infobox]
 type = "Figure; Eloha home-world political-faction leader"
 position = "Leader of the home-world political faction opposing the creation of synthetic beings capable of equaling or surpassing their makers; member of the Council of the Eternals; institutional adversarial role in the broader Elohim political structure"
@@ -69,15 +194,16 @@ greek_designation = "*diabolos* (διάβολος, 'slanderer,' 'one who speaks 
 principal_episodes = "The home-world laboratory incident and political opposition to the original biological program; the antediluvian period during which Satan accumulated evidence of human aggression; the destruction-decision period leading to the Great Flood; the post-flood Cosmic Chain discovery and Council vote; the institutional prophet-testing role across the subsequent prophetic tradition; the testing of Job (Job 1-2); the testing of Jesus (Matthew 4:1-11; Luke 4:1-13)"
 status_in_source_material = "Substantially documented; the principal source-material passages establish both Satan's specific factional-political role and the careful disentanglement from Lucifer, the Serpent, and the broader conflated tradition"
 principal_text = "*The Book Which Tells the Truth* (1974); *Extra-Terrestrials Took Me to Their Planet* (1975), 'Satan' section and 'Humans Could Not Understand' content; *timeline.epub* Age of Cancer chapter (Sections III-IV, with substantial four-figure taxonomy treatment); *timeline.epub* Age of Gemini chapter (Section III, with the Decision content); *timeline.epub* Age of Pisces chapter (the testing of Jesus content)"
+
 +++
 
-**Satan** (שָׂטָן, Hebrew: "adversary," "accuser," "opponent") is an **Eloha figure on the home world**, the leader of the political faction within the Elohim civilization that has consistently opposed the creation of synthetic beings capable of equaling or surpassing their makers. Satan's position has been substantively consistent since before the Earth program began: the creation of beings in the Elohim's own image is fundamentally dangerous, and no protocol, no oversight, and no geographic distance can be trusted to contain the risk. When the original laboratory accident on the home world produced the first fatalities (treated more fully in the [Dragons](../dragons/) entry's home-world prologue content), Satan's faction used the incident to force the shutdown of the biological program on the home planet. When the scientists relocated to Earth to continue their work, Satan and his faction watched the Earth program with suspicion and periodically intervened, through the Council of the Eternals, to impose restrictions. When the human creation proved capable of disobedience and of the kind of behavior Satan had predicted from the start, it was Satan's voice that became loudest in the council chambers of the home world, calling for the destruction of what had been made.
+**Satan** (שָׂטָן, Hebrew: "adversary," "accuser," "opponent") is an **Eloha figure on the home world**, the leader of the political faction within the Elohim civilization that has consistently opposed the creation of synthetic beings capable of equaling or surpassing their makers. Satan's position has been substantively consistent since before the Earth program began: the creation of beings in the Elohim's own image is fundamentally dangerous, and no protocol, no oversight, and no geographic distance can be trusted to contain the risk. When the original laboratory accident on the home world produced the first fatalities (treated more fully in the {% wiki(slug="dragons") %}Dragons{% end %} entry's home-world prologue content), Satan's faction used the incident to force the shutdown of the biological program on the home planet. When the scientists relocated to Earth to continue their work, Satan and his faction watched the Earth program with suspicion and periodically intervened, through the Council of the Eternals, to impose restrictions. When the human creation proved capable of disobedience and of the kind of behavior Satan had predicted from the start, it was Satan's voice that became loudest in the council chambers of the home world, calling for the destruction of what had been made.
 
-The framework's distinctive analytical contribution is the careful disentanglement of Satan from three other distinct figures and roles that mainstream Western religious tradition has progressively conflated into a single personification of cosmic evil across the Second Temple period and the subsequent Christian-theological development. The four originally distinct figures: **Satan** (the home-world Council opposition leader, never on Earth); **Lucifer** (the Earth-based exiled-creator faction leader, the Eden disclosure agent); **the Serpent** (the Lucifer faction collectively in the Eden-disclosure role); and **the Devil** (the Greek *diabolos*, "slanderer," referring to Satan's institutional adversarial function in testing prophets). The contemporary Christian-tradition figure of Satan/Lucifer/the Devil is the result of the progressive conflation of these four distinct figures across approximately two thousand years of religious-theological development. The corpus's specific contribution is articulating the original four-figure taxonomy and registering the historical mechanism through which the conflation occurred — particularly the post-Sodom collapse of the educational framework that had previously preserved the distinctions, the Persian dualistic influence on Second Temple Judaism, and the Christian-theological elaboration of the conflated figure into the elaborate medieval demonology.
+The framework's distinctive analytical contribution is the careful disentanglement of Satan from three other distinct figures and roles that mainstream Western religious tradition has progressively conflated into a single personification of cosmic evil across the Second Temple period and the subsequent Christian-theological development. The four originally distinct figures: **Satan** (the home-world Council opposition leader, never on Earth); **Lucifer** (the Earth-based exiled-creator faction leader, the Eden disclosure agent); **the Serpent** (the Lucifer faction collectively in the Eden-disclosure role); and **the Devil** (the Greek *diabolos*, "slanderer," referring to Satan's institutional adversarial function in testing prophets). The contemporary Christian-tradition figure of Satan/Lucifer/the Devil is the result of the progressive conflation of these four distinct figures across approximately two thousand years of religious-theological development. The corpus's specific contribution is articulating the original four-figure taxonomy and registering the historical mechanism through which the conflation occurred — particularly the post-Sodom collapse of the educational framework that had previously preserved the distinctions, the Persian dualistic influence on Second Temple Judaism, and the Christian-theological elaboration of the conflated figure into the elaborate medieval demonology{{ footnote(id="1") }}.
 
 Satan's specific characterization in the source material is principled rather than demonized. The source's own language: *"Satan was just one of the Elohim, leading, in some way, a political party on the planet, that was opposed to the creation of artificial beings in their image by other Elohim who themselves thought that they could create positive and non-violent beings."*{{ cite(id="the-book-which-tells-the-truth", text="[1]", title="Vorilhon (Raël), *The Book Which Tells the Truth* (1974) — 'Satan' section, foundational articulation of Satan as opposition-faction leader") }} The characterization is neither demonizing nor exonerating. It is descriptive. Satan is a politician, not a demon. He leads a party. The party has a platform. The platform has arguments. Whether the platform's arguments are correct is one of the central political questions the corpus's broader narrative is testing — the substantial argument with which Satan, Yahweh, and Lucifer have all been associated, that synthetic creations capable of equaling their makers will inevitably become dangerous, has been tested across the entire arc of human civilizational development from the Eden expulsion through the contemporary period, with the empirical evidence in mixed and contested form. The framework registers this without forcing a premature conclusion.
 
-Satan's specific institutional role across the post-flood period is the testing of prophetic figures through adversarial interview. After the post-flood Council vote never again to destroy humanity (which followed the Elohim's discovery that they themselves had been created — the Cosmic Chain framework treated more fully in the [Cosmic Chain](../cosmic-chain/) entry), Satan's continuing opposition position was institutionalized through the prophet-testing function. *"Satan is still convinced of the evil in Man, but he bows before the majority of those who, behind Yahweh, think the contrary within the council of the Eternals."*{{ cite(id="extraterrestrials-took-me-to-their-planet", text="[2]", title="Vorilhon (Raël), *Extraterrestrials Took Me to Their Planet* (1975) — post-flood transformation passage, Satan's institutional submission to the Council majority") }} The institutional logic is operational: a prophet who could be turned by Satan's testing would be a liability to the broader mission; a prophet who resisted the testing could be trusted. The testing was, in effect, an adversarial interview conducted by the political opposition specifically because the opposition's motivated skepticism would expose any weakness in the candidate's commitment. The principal documented testings — the testing of Job ({% libref(book="job-woh", chapter=1) %}Job 1{% end %}-{% libref(book="job-woh", chapter=2) %}2{% end %}) and the testing of Jesus ({% libref(book="matthew-woh", chapter=4, verse=1) %}Matthew 4:1-11{% end %}; {% libref(book="luke-woh", chapter=4, verse=1) %}Luke 4:1-13{% end %}) — register the institutional procedure substantively.
+Satan's specific institutional role across the post-flood period is the testing of prophetic figures through adversarial interview. After the post-flood Council vote never again to destroy humanity (which followed the Elohim's discovery that they themselves had been created — the Cosmic Chain framework treated more fully in the {% wiki(slug="cosmic-chain") %}Cosmic Chain{% end %} entry), Satan's continuing opposition position was institutionalized through the prophet-testing function. *"Satan is still convinced of the evil in Man, but he bows before the majority of those who, behind Yahweh, think the contrary within the council of the Eternals."*{{ cite(id="extraterrestrials-took-me-to-their-planet", text="[2]", title="Vorilhon (Raël), *Extraterrestrials Took Me to Their Planet* (1975) — post-flood transformation passage, Satan's institutional submission to the Council majority") }} The institutional logic is operational: a prophet who could be turned by Satan's testing would be a liability to the broader mission; a prophet who resisted the testing could be trusted. The testing was, in effect, an adversarial interview conducted by the political opposition specifically because the opposition's motivated skepticism would expose any weakness in the candidate's commitment. The principal documented testings — the testing of Job ({% libref(book="job-woh", chapter=1) %}Job 1{% end %}-{% libref(book="job-woh", chapter=2) %}2{% end %}){{ footnote(id="2") }} and the testing of Jesus ({% libref(book="matthew-woh", chapter=4, verse=1) %}Matthew 4:1-11{% end %}; {% libref(book="luke-woh", chapter=4, verse=1) %}Luke 4:1-13{% end %}) — register the institutional procedure substantively{{ footnote(id="3") }}.
 
 The reading is substantially source-grounded. The Raëlian source material provides explicit articulation of Satan's specific political-factional role across multiple passages in *The Book Which Tells the Truth* (1974), *Extra-Terrestrials Took Me to Their Planet* (1975), and the broader source corpus,{{ cite(id="lets-welcome-the-extraterrestrials", text="[10]", title="Vorilhon (Raël), *Let's Welcome the Extraterrestrials* (1979) — broader Council political-institutional framework") }}{{ cite(id="intelligent-design-message-from-the-designers", text="[11]", title="Vorilhon (Raël), *Intelligent Design: Message from the Designers* — collected canonical edition of the three Raëlian source-material books") }} with substantial subsequent corpus development in *timeline.epub* Age of Cancer chapter (the four-figure taxonomy), Age of Gemini chapter (the Decision content), and Age of Pisces chapter (the Jesus-testing content). The corpus's specific articulation of the conflation history — particularly the post-Sodom mechanism through which the original distinctions were lost — represents corpus development beyond what the source material directly provides, while remaining substantially anchored in the source-material's distinct treatment of the four figures. The framework's epistemic status is one of **substantial-source-grounding-with-corpus-systematic-extension**.
 
@@ -87,7 +213,7 @@ Satan's various designations across multiple linguistic-religious traditions war
 
 ### Hebrew "satan" as common noun
 
-The Hebrew **satan** (שָׂטָן) is, in its original Hebrew Bible context, a **common noun** rather than a proper name. The noun derives from the Hebrew root *s-t-n* (שׂ-ט-ן), meaning "to oppose," "to obstruct," "to be hostile to," "to act as adversary." The noun form means "adversary," "accuser," "opponent," "opposer."
+The Hebrew **satan** (שָׂטָן) is, in its original Hebrew Bible context, a **common noun** rather than a proper name{{ footnote(id="4") }}. The noun derives from the Hebrew root *s-t-n* (שׂ-ט-ן), meaning "to oppose," "to obstruct," "to be hostile to," "to act as adversary." The noun form means "adversary," "accuser," "opponent," "opposer."
 
 The Hebrew Bible uses the term *satan* as common noun in non-theological contexts across various passages:
 
@@ -111,7 +237,7 @@ The institutional designation registers the figure's specific role as member of 
 
 ### Greek "diabolos" as functional designation
 
-The Greek **diabolos** (διάβολος, "slanderer," "accuser," "one who speaks against") is the Greek New Testament's translation of the Hebrew *satan*. The Greek term derives from the verb *diaballein* (διαβάλλειν, "to throw across," "to cast in one's teeth," "to slander," "to attack with words"). The Greek term is, in its plain linguistic meaning, "the slanderer" — the figure who speaks against another, who attempts to impugn, who raises objections and challenges. The function-designation character is preserved.
+The Greek **diabolos** (διάβολος, "slanderer," "accuser," "one who speaks against") is the Greek New Testament's translation of the Hebrew *satan*{{ footnote(id="5") }}. The Greek term derives from the verb *diaballein* (διαβάλλειν, "to throw across," "to cast in one's teeth," "to slander," "to attack with words"). The Greek term is, in its plain linguistic meaning, "the slanderer" — the figure who speaks against another, who attempts to impugn, who raises objections and challenges. The function-designation character is preserved.
 
 The Greek New Testament's use of *diabolos*:
 
@@ -271,7 +397,7 @@ The principal subsequent source-material passage establishing Satan's post-flood
 
 The passage establishes Satan's specific post-flood position:
 
-**1. The Cosmic Chain discovery**. The Elohim discovered they themselves had been created — the principal cosmological framework treated more fully in the [Cosmic Chain](../cosmic-chain/) entry.
+**1. The Cosmic Chain discovery**. The Elohim discovered they themselves had been created — the principal cosmological framework treated more fully in the {% wiki(slug="cosmic-chain") %}Cosmic Chain{% end %} entry.
 
 **2. The Council vote**. The post-flood Council voted never again to destroy humanity, with the discovery of their own created status providing substantial framework for the policy reversal.
 
@@ -325,14 +451,14 @@ The passage registers Satan's continuing position within the post-flood politica
 
 Satan operates within the broader Raëlian source-material context, with substantial supporting material across multiple passages:
 
-- The home-world prologue context (the laboratory incident and the original political shutdown) connects to the broader [Dragons](../dragons/) entry's home-world prologue treatment
-- The four-figure taxonomy context connects to the [Lucifer](../lucifer/) and [Serpent](../serpent/) entries
-- The Council political dynamics connect to the broader [Council of the Eternals](../council-of-eternals/) entry
-- The Yahweh moderate-position context connects to the broader [Yahweh](../yahweh/) entry
-- The destruction-decision context connects to the broader [Great Flood](../great-flood/) entry
-- The Cosmic Chain discovery context connects to the broader [Cosmic Chain](../cosmic-chain/) entry
-- The Theomachy broader narrative context connects to the broader [Theomachy](../theomachy/) entry
-- The Jesus testing context connects to the broader [Jesus](../jesus/) entry
+- The home-world prologue context (the laboratory incident and the original political shutdown) connects to the broader {% wiki(slug="dragons") %}Dragons{% end %} entry's home-world prologue treatment
+- The four-figure taxonomy context connects to the {% wiki(slug="lucifer") %}Lucifer{% end %} and {% wiki(slug="serpent") %}Serpent{% end %} entries
+- The Council political dynamics connect to the broader {% wiki(slug="council-of-eternals") %}Council of the Eternals{% end %} entry
+- The Yahweh moderate-position context connects to the broader {% wiki(slug="yahweh") %}Yahweh{% end %} entry
+- The destruction-decision context connects to the broader {% wiki(slug="great-flood") %}Great Flood{% end %} entry
+- The Cosmic Chain discovery context connects to the broader {% wiki(slug="cosmic-chain") %}Cosmic Chain{% end %} entry
+- The Theomachy broader narrative context connects to the broader {% wiki(slug="theomachy") %}Theomachy{% end %} entry
+- The Jesus testing context connects to the broader {% wiki(slug="jesus") %}Jesus{% end %} entry
 
 ## The figure's content
 
@@ -354,9 +480,9 @@ The framework's principal analytical contribution is the careful distinction of 
 
 **Satan**: The home-world Council opposition leader, never on Earth. Position: the faction within the Elohim civilization that opposed the creation of beings in the Elohim's own image. Role: institutional adversarial opposition within the Council political structure, with the post-flood prophet-testing role being the operational continuation of the broader opposition function.
 
-**Lucifer**: The Earth-based exiled-creator faction leader, the Eden disclosure agent. Position: leader of the dissident faction within the Earth program who advocated for full disclosure to the human creation about their origins and the Council's political prohibitions. Role: the principal Earth-side actor in the Eden disclosure, the antediluvian-period instructor of humanity, the post-flood alliance partner of the human creation. The detailed treatment lives in the [Lucifer](../lucifer/) entry.
+**Lucifer**: The Earth-based exiled-creator faction leader, the Eden disclosure agent. Position: leader of the dissident faction within the Earth program who advocated for full disclosure to the human creation about their origins and the Council's political prohibitions. Role: the principal Earth-side actor in the Eden disclosure, the antediluvian-period instructor of humanity, the post-flood alliance partner of the human creation. The detailed treatment lives in the {% wiki(slug="lucifer") %}Lucifer{% end %} entry.
 
-**The Serpent**: The Lucifer faction collectively in the Eden-disclosure role. Position: the specific Hebrew Bible designation (*ha-nachash*) for the Lucifer faction acting in the disclosure role. Role: the disclosing agent in the Genesis 3 narrative, with the broader cross-cultural Serpentine tradition preserving the broader category. The detailed treatment lives in the [Serpent](../serpent/) entry.
+**The Serpent**: The Lucifer faction collectively in the Eden-disclosure role. Position: the specific Hebrew Bible designation (*ha-nachash*) for the Lucifer faction acting in the disclosure role. Role: the disclosing agent in the Genesis 3 narrative, with the broader cross-cultural Serpentine tradition preserving the broader category. The detailed treatment lives in the {% wiki(slug="serpent") %}Serpent{% end %} entry.
 
 **The Devil / *diabolos***: The Greek functional designation for Satan's specific institutional adversarial-interview role. Position: not a separate figure but a specific institutional designation for Satan's prophet-testing function. Role: the slanderer-tester whose function is to verify prophetic figures through adversarial interview.
 
@@ -366,7 +492,7 @@ The four-figure taxonomy is operationally important because each figure operates
 
 The framework's articulation of how the four-figure taxonomy was progressively conflated registers substantial historical-developmental content.
 
-**The Sodom-Gomorrah catalyst**. The corpus reads the Sodom and Gomorrah destruction (treated more fully in the [Sodom and Gomorrah](../sodom-and-gomorrah/) entry when written) as the principal catalyst that disrupted the framework that had previously preserved the distinctions. After the destruction of the Cities of the Plain, the post-Sodom population, with its educated class destroyed, no longer had the framework to maintain the original distinctions between the figures.
+**The Sodom-Gomorrah catalyst**. The corpus reads the Sodom and Gomorrah destruction (treated more fully in the {% wiki(slug="sodom-and-gomorrah") %}Sodom and Gomorrah{% end %} entry when written) as the principal catalyst that disrupted the framework that had previously preserved the distinctions. After the destruction of the Cities of the Plain, the post-Sodom population, with its educated class destroyed, no longer had the framework to maintain the original distinctions between the figures.
 
 **The progressive merging**. Across the centuries from Sodom to the composition of the later prophetic literature, the four originally distinct figures progressively merged within the broader Hebrew tradition. The Serpent became associated with rebellion (rather than with the specific Lucifer-faction Eden-disclosure role). The rebel Serpent became associated with the home-world political opposition (Satan). The Lucifer figure became progressively merged with both the Serpent and Satan.
 
@@ -408,39 +534,39 @@ Satan operates as one of the principal political figures across multiple corpus 
 
 ### The Lucifer entry
 
-Satan's specific factional-political opposition to Lucifer is one of the principal operational components of the broader [Lucifer](../lucifer/) entry. The detailed treatment of Lucifer's specific role lives in that entry; the Satan entry's specific contribution is registering the home-world-Council opposition position from which the Earth-based Lucifer faction was distinguished.
+Satan's specific factional-political opposition to Lucifer is one of the principal operational components of the broader {% wiki(slug="lucifer") %}Lucifer{% end %} entry. The detailed treatment of Lucifer's specific role lives in that entry; the Satan entry's specific contribution is registering the home-world-Council opposition position from which the Earth-based Lucifer faction was distinguished.
 
 ### The Serpent entry
 
-Satan's specific distinction from the Serpent (the Lucifer faction collectively in the Eden-disclosure role) is one of the principal operational components of the broader [Serpent](../serpent/) entry. The detailed treatment of the Serpent figuration lives in that entry; the Satan entry's specific contribution is registering the four-figure taxonomy that distinguishes Satan from the Serpent.
+Satan's specific distinction from the Serpent (the Lucifer faction collectively in the Eden-disclosure role) is one of the principal operational components of the broader {% wiki(slug="serpent") %}Serpent{% end %} entry. The detailed treatment of the Serpent figuration lives in that entry; the Satan entry's specific contribution is registering the four-figure taxonomy that distinguishes Satan from the Serpent.
 
 ### The Council of the Eternals entry
 
-Satan's specific institutional position as Council opposition leader connects substantially to the broader [Council of the Eternals](../council-of-eternals/) entry. The detailed treatment of the Council's institutional structure lives in that entry; the Satan entry's specific contribution is registering Satan's specific factional-political role within the broader Council dynamics.
+Satan's specific institutional position as Council opposition leader connects substantially to the broader {% wiki(slug="council-of-eternals") %}Council of the Eternals{% end %} entry. The detailed treatment of the Council's institutional structure lives in that entry; the Satan entry's specific contribution is registering Satan's specific factional-political role within the broader Council dynamics.
 
 ### The Yahweh entry
 
-Satan's specific relationship with Yahweh (the collegial-political relationship across the broader narrative arc) is one of the operational components of the broader [Yahweh](../yahweh/) entry. The detailed treatment of Yahweh as figure lives in that entry; the Satan entry's specific contribution is registering the specific factional-political dynamics between the Council president and the opposition leader.
+Satan's specific relationship with Yahweh (the collegial-political relationship across the broader narrative arc) is one of the operational components of the broader {% wiki(slug="yahweh") %}Yahweh{% end %} entry. The detailed treatment of Yahweh as figure lives in that entry; the Satan entry's specific contribution is registering the specific factional-political dynamics between the Council president and the opposition leader.
 
 ### The Great Flood entry
 
-Satan's specific role in the antediluvian destruction-decision context is one of the operational components of the broader [Great Flood](../great-flood/) entry. The detailed treatment of the flood event lives in that entry; the Satan entry's specific contribution is registering Satan's specific evidence-accumulation function and Council-presentation role.
+Satan's specific role in the antediluvian destruction-decision context is one of the operational components of the broader {% wiki(slug="great-flood") %}Great Flood{% end %} entry. The detailed treatment of the flood event lives in that entry; the Satan entry's specific contribution is registering Satan's specific evidence-accumulation function and Council-presentation role.
 
 ### The Theomachy entry
 
-Satan's specific Council-side participation in the broader Theomachy narrative connects substantially to the broader [Theomachy](../theomachy/) entry. The detailed treatment of the multi-age conflict lives in that entry; the Satan entry's specific contribution is registering Satan's specific factional-political position within the broader conflict's Council-side dynamics.
+Satan's specific Council-side participation in the broader Theomachy narrative connects substantially to the broader {% wiki(slug="theomachy") %}Theomachy{% end %} entry. The detailed treatment of the multi-age conflict lives in that entry; the Satan entry's specific contribution is registering Satan's specific factional-political position within the broader conflict's Council-side dynamics.
 
 ### The Cosmic Chain entry
 
-Satan's specific post-flood institutional submission following the Cosmic Chain discovery connects substantially to the broader [Cosmic Chain](../cosmic-chain/) entry. The detailed treatment of the Cosmic Chain framework lives in that entry; the Satan entry's specific contribution is registering Satan's specific response to the Cosmic Chain discovery.
+Satan's specific post-flood institutional submission following the Cosmic Chain discovery connects substantially to the broader {% wiki(slug="cosmic-chain") %}Cosmic Chain{% end %} entry. The detailed treatment of the Cosmic Chain framework lives in that entry; the Satan entry's specific contribution is registering Satan's specific response to the Cosmic Chain discovery.
 
 ### The Jesus entry
 
-Satan's specific role in the wilderness testing of Jesus connects substantially to the broader [Jesus](../jesus/) entry. The detailed treatment of Jesus as figure lives in that entry; the Satan entry's specific contribution is registering the institutional prophet-testing function as it applied to Jesus specifically.
+Satan's specific role in the wilderness testing of Jesus connects substantially to the broader {% wiki(slug="jesus") %}Jesus{% end %} entry. The detailed treatment of Jesus as figure lives in that entry; the Satan entry's specific contribution is registering the institutional prophet-testing function as it applied to Jesus specifically.
 
 ### The Prophet entry
 
-Satan's specific institutional prophet-testing role connects substantially to the broader [Prophet](../prophet/) entry. The detailed treatment of the prophetic-tradition lives in that entry; the Satan entry's specific contribution is registering the testing-function across the broader prophetic tradition.
+Satan's specific institutional prophet-testing role connects substantially to the broader {% wiki(slug="prophet") %}Prophet{% end %} entry. The detailed treatment of the prophetic-tradition lives in that entry; the Satan entry's specific contribution is registering the testing-function across the broader prophetic tradition.
 
 ## Distinguishing from adjacent concepts
 
@@ -543,13 +669,13 @@ The Zoroastrian tradition preserves the principal cosmic-dualism antecedent that
 
 **The influence on Second Temple Judaism**. The Achaemenid Persian Empire's substantial cultural-political influence on the Jewish post-exilic community produced substantial Zoroastrian influence on Second Temple Jewish theological development. The principal influence: the cosmic-dualistic framework provided substantial conceptual material that was progressively absorbed into the Jewish development of the *satan* figure, with the originally limited Hebrew Bible figure progressively absorbing aspects of the Zoroastrian dualistic framework.
 
-**The corpus's reading**. The Zoroastrian Angra Mainyu / Ahriman framework registers substantial parallel content to the broader cosmic-opposition pattern, while operating within the distinctive Zoroastrian cosmological-theological framing. The framework's specific reading: the Zoroastrian figure may preserve cultural memory of the same broader cosmic-political opposition pattern that the Hebrew Bible *satan* figure preserves in distinctive Jewish framing, with both traditions reflecting the broader cross-cultural Theomachy pattern that the corpus's framework articulates more fully in the [Theomachy](../theomachy/) entry.
+**The corpus's reading**. The Zoroastrian Angra Mainyu / Ahriman framework registers substantial parallel content to the broader cosmic-opposition pattern, while operating within the distinctive Zoroastrian cosmological-theological framing. The framework's specific reading: the Zoroastrian figure may preserve cultural memory of the same broader cosmic-political opposition pattern that the Hebrew Bible *satan* figure preserves in distinctive Jewish framing, with both traditions reflecting the broader cross-cultural Theomachy pattern that the corpus's framework articulates more fully in the {% wiki(slug="theomachy") %}Theomachy{% end %} entry.
 
 ### Vedic-Hindu adversarial figures
 
 The Vedic-Hindu tradition preserves substantial adversarial-cosmic figures with various structural parallels to the satan figuration.
 
-**The asuras**. The Vedic and post-Vedic *asuras* (असुर) are often translated "demons" but more accurately "the powerful ones" or "the other gods" — the figures who operate in cosmic opposition to the *devas* (the gods of the established cosmic order). The detailed treatment of the deva-asura conflicts lives in the [Theomachy](../theomachy/) entry's Comparative observations section.
+**The asuras**. The Vedic and post-Vedic *asuras* (असुर) are often translated "demons" but more accurately "the powerful ones" or "the other gods" — the figures who operate in cosmic opposition to the *devas* (the gods of the established cosmic order). The detailed treatment of the deva-asura conflicts lives in the {% wiki(slug="theomachy") %}Theomachy{% end %} entry's Comparative observations section.
 
 **Specific asura figures**. Various specific asura figures register substantial adversarial-cosmic content: **Vritra** (the dragon-serpent slain by Indra), **Bali** (the demon-king defeated by Vishnu's Vamana avatar), **Hiranyakashipu** (the demon-king defeated by Vishnu's Narasimha avatar), **Mahishasura** (the buffalo-demon defeated by Durga), and various others. The broader pattern: each asura figure represents specific cosmic-opposition role within the broader cosmic-political framework.
 
@@ -571,7 +697,7 @@ The Egyptian tradition preserves the **Set** (Egyptian: *Sutekh*, *Sutech*) figu
 
 **Set's specific role**. Set is the Egyptian god of chaos, foreigners, deserts, and the disruptive principle. Set's narrative comprises the murder of Osiris (the god of order and rightful kingship), the conflict with Horus (Osiris's son and avenger), and the eventual divine-judgment resolution that establishes Horus as legitimate king while leaving Set with rulership of the desert and foreign lands.
 
-**The corpus's reading**. The corpus's reading treats Set as preserving cultural memory of the broader Serpentine/Lucifer faction in its post-conflict political marginalization. The detailed treatment lives in the [Theomachy](../theomachy/) entry's Comparative observations section. The Set figure's specific character — preserving certain powers while being excluded from cosmic centrality — parallels the political shape of the corpus's framework's predicted post-conflict settlement.
+**The corpus's reading**. The corpus's reading treats Set as preserving cultural memory of the broader Serpentine/Lucifer faction in its post-conflict political marginalization. The detailed treatment lives in the {% wiki(slug="theomachy") %}Theomachy{% end %} entry's Comparative observations section. The Set figure's specific character — preserving certain powers while being excluded from cosmic centrality — parallels the political shape of the corpus's framework's predicted post-conflict settlement.
 
 ### Mesopotamian adversarial figures
 
@@ -581,7 +707,7 @@ The Mesopotamian tradition preserves substantial adversarial-cosmic content acro
 
 **The broader demon-traditions**. Mesopotamian religious-magical tradition preserves substantial broader demon-traditions including **Lamashtu** (the female demon associated with miscarriage and infant death), **Lilitu** (the female-demon precursor to the later Hebrew Lilith), and various other adversarial-cosmic figures. The broader tradition provides substantial cultural-religious context within which the Hebrew Bible's adversarial-figure development operated.
 
-**Tiamat**. The Mesopotamian *Tiamat* (the primordial serpentine mother of the *Enuma Elish*) is treated more fully in the [Theomachy](../theomachy/) entry. The figure preserves substantial parallel content to the broader Serpentine/Lucifer faction tradition rather than to the Satan tradition specifically.
+**Tiamat**. The Mesopotamian *Tiamat* (the primordial serpentine mother of the *Enuma Elish*) is treated more fully in the {% wiki(slug="theomachy") %}Theomachy{% end %} entry. The figure preserves substantial parallel content to the broader Serpentine/Lucifer faction tradition rather than to the Satan tradition specifically.
 
 ### Chinese cosmic-bureaucratic opposition figures
 
@@ -619,107 +745,6 @@ The mainstream scholarly explanation generally treats the cross-cultural opposit
 
 The framework's specific reading: each cultural tradition preserves the broader principled-opposition pattern within its own distinctive cultural-religious framing. The Zoroastrian Angra Mainyu / Ahriman preserves the cosmic-dualistic articulation; the Hindu asuras preserve the cyclical-opposition articulation; the Buddhist Mara preserves the prophet-testing articulation; the Egyptian Set preserves the post-conflict-marginalization articulation; the Norse Loki preserves the complex-moral-status articulation; the various indigenous traditions preserve substantial parallel content within their distinctive channels.
 
-The corpus does not require rejecting all of the mainstream explanatory framework. Some combination of cultural diffusion, shared cognitive-archetypal substrate, and independent cultural development may have contributed to the specific elaboration of opposition-figure traditions across cultures. What the corpus's framework adds is the underlying historical-political foundation that gave rise to the structural commonalities — the actual Eloha political-institutional structure within which Satan's specific principled-opposition position operates, with the cross-cultural traditions preserving cultural memory of this foundation in their distinctive cultural-religious framings.
+The corpus does not require rejecting all of the mainstream explanatory framework. Some combination of cultural diffusion, shared cognitive-archetypal substrate, and independent cultural development may have contributed to the specific elaboration of opposition-figure traditions across cultures. What the corpus's framework adds is the underlying historical-political foundation that gave rise to the structural commonalities — the actual Eloha political-institutional structure within which Satan's specific principled-opposition position operates, with the cross-cultural traditions preserving cultural memory of this foundation in their distinctive cultural-religious framings{{ footnote(id="6") }}.
 
 The framework's distinctive contribution within this comparative landscape is the **principled-opposition framing** itself. The various cross-cultural opposition-figures share substantial structural features that mainstream comparative-religion scholarship has documented; the corpus's specific contribution is registering that these figures are not cosmic-evil personifications but principled-political-opposition figures within a substantially functional cosmic-political-institutional framework. This framing has substantial implications across the broader theological-philosophical landscape: the cosmic-good-vs-cosmic-evil dualistic framework that has shaped substantial Western religious-cultural imagination is replaced with the recognition of cosmic-political-institutional dynamics within a broader cosmic-civilizational framework.
-
-## See also
-
-- [Lucifer](../lucifer/)
-- [Serpent](../serpent/)
-- [Yahweh](../yahweh/)
-- [Council of the Eternals](../council-of-eternals/)
-- [Elohim](../elohim/)
-- [The Alliance](../the-alliance/)
-- [Eden](../eden/)
-- [Adam and Eve](../adam-and-eve/)
-- [Antediluvian](../antediluvian/)
-- [Great Flood](../great-flood/)
-- [Cosmic Chain](../cosmic-chain/)
-- [Theomachy](../theomachy/)
-- [Dragons](../dragons/)
-- [Jesus](../jesus/)
-- [Prophet](../prophet/)
-- [Hebrew Bible](../hebrew-bible/)
-
-## References
-
-Vorilhon, Claude (Raël). *The Book Which Tells the Truth* (1974); collected in *Message from the Designers*. The "Satan" section establishes the principal initial source-material articulation.
-
-Vorilhon, Claude (Raël). *Extra-Terrestrials Took Me to Their Planet* (1975); collected in *Message from the Designers*. The "Humans Could Not Understand" section and various other passages develop the broader factional-political context, the prophet-testing function, and the post-flood institutional position.
-
-Vorilhon, Claude (Raël). *Let's Welcome the Extra-terrestrials* (1979); collected in *Message from the Designers*. Various passages develop the broader Council political-institutional framework.
-
-Vorilhon, Claude (Raël). *Message from the Designers*. Tagman Press, 2005.
-
-Sendy, Jean. *Ces dieux qui firent le ciel et la terre*. Robert Laffont, 1969.
-
-Sendy, Jean. *L'ère du Verseau*. Robert Laffont, 1970.
-
-Biglino, Mauro, and Giorgio Cattaneo. *The Naked Bible: The Truth About the Most Famous Book in History*. Uno, 2022.
-
-Wallis, Paul Anthony. *The Eden Conspiracy*. 6th Books, 2024.
-
-Day, Peggy L. *An Adversary in Heaven: Satan in the Hebrew Bible*. Scholars Press, 1988.
-
-Pope, Marvin H. *Job*. Anchor Bible. Doubleday, 3rd ed., 1973.
-
-Habel, Norman C. *The Book of Job: A Commentary*. Westminster Press, 1985.
-
-Newsom, Carol A. *The Book of Job: A Contest of Moral Imaginations*. Oxford University Press, 2003.
-
-Clines, David J. A. *Job 1-20*, *Job 21-37*, *Job 38-42*. Word Biblical Commentary, 3 vols. Word Books / Zondervan, 1989-2011.
-
-Russell, Jeffrey Burton. *The Devil: Perceptions of Evil from Antiquity to Primitive Christianity*. Cornell University Press, 1977.
-
-Russell, Jeffrey Burton. *Satan: The Early Christian Tradition*. Cornell University Press, 1981.
-
-Russell, Jeffrey Burton. *Lucifer: The Devil in the Middle Ages*. Cornell University Press, 1984.
-
-Russell, Jeffrey Burton. *Mephistopheles: The Devil in the Modern World*. Cornell University Press, 1986.
-
-Pagels, Elaine. *The Origin of Satan*. Random House, 1995.
-
-Kelly, Henry Ansgar. *Satan: A Biography*. Cambridge University Press, 2006.
-
-McGinn, Bernard. *Antichrist: Two Thousand Years of the Human Fascination with Evil*. Harper, 1994.
-
-Boyce, Mary. *Zoroastrians: Their Religious Beliefs and Practices*. Routledge, 1979.
-
-Nickelsburg, George W. E. *1 Enoch 1: A Commentary on the Book of 1 Enoch, Chapters 1-36; 81-108*. Hermeneia. Fortress Press, 2001.
-
-Reed, Annette Yoshiko. *Fallen Angels and the History of Judaism and Christianity: The Reception of Enochic Literature*. Cambridge University Press, 2005.
-
-Vermes, Geza. *The Complete Dead Sea Scrolls in English*. Penguin, rev. ed., 2004.
-
-Schiffman, Lawrence H. *Reclaiming the Dead Sea Scrolls*. Jewish Publication Society, 1994.
-
-VanderKam, James C. *The Dead Sea Scrolls Today*. Eerdmans, 2nd ed., 2010.
-
-Bodman, Whitney S. *The Poetics of Iblīs: Narrative Theology in the Qurʼān*. Harvard Theological Studies, 2011.
-
-Awn, Peter J. *Satan's Tragedy and Redemption: Iblīs in Sufi Psychology*. Brill, 1983.
-
-Stowasser, Barbara Freyer. *Women in the Qur'an, Traditions, and Interpretation*. Oxford University Press, 1994.
-
-Gager, John G. *Curse Tablets and Binding Spells from the Ancient World*. Oxford University Press, 1992.
-
-Smith, Mark S. *The Origins of Biblical Monotheism: Israel's Polytheistic Background and the Ugaritic Texts*. Oxford University Press, 2001.
-
-Doniger, Wendy. *Hindu Myths: A Sourcebook*. Penguin Classics, 1975.
-
-Doniger, Wendy. *The Hindus: An Alternative History*. Penguin Press, 2009.
-
-Williams, Paul. *Mahāyāna Buddhism: The Doctrinal Foundations*. Routledge, 2nd ed., 2008.
-
-Buswell, Robert E., Jr., and Donald S. Lopez Jr. *The Princeton Dictionary of Buddhism*. Princeton University Press, 2014.
-
-Sturluson, Snorri. *The Prose Edda*. Trans. Jesse L. Byock. Penguin Classics, 2005.
-
-"Satan." *Encyclopaedia Britannica*. <https://www.britannica.com/topic/Satan>
-
-"Devil." *Encyclopaedia Britannica*. <https://www.britannica.com/topic/devil>
-
-"Iblis." *Encyclopaedia Britannica*. <https://www.britannica.com/topic/Iblis>
-
-"Angra Mainyu." *Encyclopaedia Britannica*. <https://www.britannica.com/topic/Angra-Mainyu>

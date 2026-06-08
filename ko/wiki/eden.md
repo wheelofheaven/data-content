@@ -1,325 +1,358 @@
 +++
 title = "에덴"
-description = "에덴(히브리어: עֵדֶן)은 창세기에 따르면 엘로힘이 최초의 인간을 둔 정원이다. Wheel of Heaven 코퍼스에서 에덴은 아담 계통의 시제품들이 외부 세계로 나가기 전에 합성되고 적응되었던 실험실=시설로 읽힌다."
+slug = "eden"
+description = "에덴(히브리어: עֵדֶן, ʿĒden)은 히브리어 성경에서 최초의 인간들이 추방되기 전에 창조되고 살았던 정원의 위치로 명명된 지역입니다. 라엘 자료에서 발전하여 Wheel of Heaven 코퍼스가 채택한 독해에 따르면, 에덴은 대홍수 이전 초대륙에서 활동한 엘로힘 창조자 일곱 팀 중 이스라엘 팀 — 일곱 지역 창조자 팀 가운데 그 생물학적 합성 작업이 가장 진보한 인간 계보를 산출한 팀 — 의 작전 영역이며, 에덴 동산(gan-ʿĒden)은 그 영역 내부의 봉쇄된 실험실 및 거주 부지입니다."
 template = "wiki-page.html"
 toc = true
 
 [extra]
-translation_status = "metadata_only"
+featured_order = 7
 category = "Places & Locations"
 editorial_pass = "2026-05"
 entry_type = "place"
-alternative_names = ["Garden of Eden", "gan-ʿĒden", "גַּן־עֵדֶן", "Paradise"]
+claim_type = "inferred"
+alternative_names = ["에덴 동산", "gan-ʿĒden", "גַּן־עֵדֶן", "낙원"]
 timeline = ["leo", "cancer"]
 
+see_also = [
+    { title = "아담과 하와", path = "/wiki/adam-and-eve/", description = "에덴 동산에 놓인 최초의 두 인간." },
+    { title = "생명나무", path = "/wiki/tree-of-life/", description = "정원 중앙에 명명된 두 나무 중 하나." },
+    { title = "선악을 알게 하는 나무", path = "/wiki/tree-of-the-knowledge-of-good-and-evil/", description = "정원 중앙에 명명된 또 다른 나무 — 금령이 부여된 나무." },
+    { title = "뱀", path = "/wiki/serpent/", description = "정원 상태의 단절을 개시하는 인물." },
+    { title = "창세기", path = "/wiki/genesis/", description = "에덴 서사가 설정된 본문." },
+    { title = "엘로힘", path = "/wiki/elohim/", description = "에덴 지역에서 이스라엘 팀이 활동한 동맹의 문명적 명칭." },
+    { title = "야훼", path = "/wiki/yahweh/", description = "에덴 이후 정착의 정책을 구조화한 의회 지도자 인물." },
+    { title = "루시퍼", path = "/wiki/lucifer/", description = "그 공개가 창세기 3장 사건을 산출한 반대 분파의 지도자." },
+    { title = "대홍수 이전", path = "/wiki/antediluvian/", description = "더 넓은 에덴 문명이 발전한 대홍수 이전 시기." },
+    { title = "판게아", path = "/wiki/pangaea/", description = "에덴이 위치했던 대홍수 이전 초대륙." },
+    { title = "대홍수", path = "/wiki/great-flood/", description = "에덴의 작전 시기를 종결시킨 쌍둥이자리 시대의 사건." },
+    { title = "히브리어 성경", path = "/wiki/hebrew-bible/", description = "에덴 서사의 주요 성경 자료." },
+    { title = "성경", path = "/wiki/bible/", description = "창세기가 보존되어 있는 더 넓은 본문 전통." },
+    { title = "이중 서명", path = "/wiki/doubled-signature/", description = "문화적 전통이 기저의 역사적 사건에 대한 기억을 기록하는 코퍼스의 원리." },
+    { title = "히브리인", path = "/wiki/hebrews/", description = "이스라엘 팀이 합성한 최초의 인간들의 직접적 유전 후손." },
+]
+
+footnotes = [
+    { content = "히브리어 단어 *gan*은 통상 '정원'으로 번역되지만, 그 어근은 '에워싸다, 보호하다, 방어하다'를 의미하는 *g-n-n*에서 유래합니다 — *ginah*('정원, 울타리')와 *meginah*('방패, 보호')의 배후에 있는 동일한 어근입니다. 따라서 *gan*의 강한 의미는 봉쇄되고 보호되며 통제된 공간이며, 그 경계는 단지 장식적인 것이 아니라 기능적인 것입니다. 코퍼스가 *gan-ʿĒden*을 기능적 봉쇄 시설로 읽는 독해는 이 어원적 기반 위에서 작동합니다. 고대 페르시아어 *pairi-daēza*('성벽으로 둘러싸인 울타리'; 그리스어 *paradeisos*를 거쳐 영어 'paradise'의 어원)는 독립된 언어 전통을 가로질러 동일한 의미론적 내용을 보존하며, 유형론적 확증을 제공합니다. 즉, 여러 고대 문화를 가로질러 본래의 '낙원'은 구체적으로 경계 지어지고 보호된 공간이며, 현대 영어적 의미에서의 개방된 정원이 아닙니다." },
+    { content = "창세기 2:10-14는 에덴에서 흘러나오는 네 강을 명명하는데, 그 가운데 둘은 현존하는 강과 명확히 동일시될 수 있고(티그리스, 유프라테스), 둘은 그렇지 않습니다(비손, 기혼). 고전 및 근대의 제안들은 비손과 기혼을 나일강, 갠지스강, 인더스강, 아락세스강, 카룬강, 와디 알-루마, 또는 아라스강으로 다양하게 동일시해 왔으며 — 각각 본문상 또는 지리상의 문제점을 가지고 있습니다. 코퍼스의 독해는 이 수수께끼를 재구성합니다. 네 강의 단락은 대홍수 사건에 따른 대륙 재편 이후 더 이상 그 원래 형태로 존속하지 않는, 대홍수 이전 에덴 지역의 수문(水文)을 묘사합니다. *티그리스*와 *유프라테스*라는 이름은 격변을 가로질러 대홍수 이후 생존자들에 의해 보존되었으며, 그들은 그 이름을 본래의 지시 대상과 연관된 대홍수 이후 메소포타미아 지역의 강들에 부여했습니다." },
+    { content = "프레임워크가 말하는 '초대륙'은 주류 지질학의 통상적 판게아가 아닙니다. 통상적 판게아는 약 3억 3,500만 년 전에 결합하여 약 1억 7,500만 년 전에 분리되었고, 대륙 이동은 맨틀 대류를 통해 수억 년에 걸쳐 전개되었습니다. 코퍼스는 라엘 자료를 따라, 그 분리를 기원전 약 6,690년 쌍둥이자리 시대의 대홍수 중에 발생한 격변적 사건으로 읽으며, 그 이후 관측된 대륙 이동을 그 사건의 잔여 운동량으로 봅니다. 구조적 대응 — 단일한 통합된 육괴가 단일한 대양에 둘러싸여 있는 — 은 동일하지만, 시기와 메커니즘은 근본적으로 다릅니다." },
+    { content = "프레임워크는 선악을 알게 하는 나무에 관한 금령을, 이스라엘 팀의 과학적·기술적 기록보관소에 대한 접근 제한과 대응하는 것으로 읽습니다 — 그것을 사용하면 인간들이 모행성 당국이 그들이 획득하기를 원치 않았던 능력을 갖게 될 자료들이었습니다. 뱀의 통신으로 서사되는 루시퍼 분파의 공개는, 모행성 의회의 지시에 반하여 이 제한된 지식을 전수한 것입니다. 이 독해에서 위반은 도덕적 추락이 아니라 제한된 기술적 지식의 전수이며, 공개 이후의 결과들(나체의 인식, 의복의 제작, 대면, 추방)은 도덕신학적이 아닌 정치-작전적 결과를 기록합니다." },
+    { content = "빌리노는 수메르-아카드어 *E-Din*에 대한 비표준 어원을 제안하며, 이를 '의로운 자들의 집'으로 읽고 '의로운 자들'을 엘로힘 계통의 구성원으로 해석합니다. 이 풀이는 빌리노 특유의 것으로 표준적 아시리아학적 독해가 아닙니다. 합의된 독해(Halloran 2006; 오리엔트 연구소의 아시리아 사전)는 여전히 '평원' 또는 '스텝'입니다. 코퍼스는 빌리노의 것이 아닌 표준적 독해를 채택하는데, 프레임워크의 해석적 입장이 비표준 풀이에 의존하지 않으며 그것 없이 더 견고한 근거 위에 서기 때문입니다. 빌리노의 더 광범위한 엄격한 직역적 방법론 — 히브리어를 단어 대 단어로 읽고 그것을 우의화하기보다는 구체적인 본문적 내용을 받아들이는 — 이 코퍼스가 그의 작업에서 끌어오는 것이며, 이는 구체적인 E-Din 제안과는 독립적입니다." },
+]
+
+[[extra.references]]
+id = "the-book-which-tells-the-truth"
+note = "보릴롱(라엘, 1974), 2장 '진실'; 프레임워크가 에덴 서사를 읽는 주요 라엘 자료."
+
+[[extra.references]]
+id = "lets-welcome-the-extraterrestrials"
+note = "보릴롱(라엘, 1979); 에덴 이후의 사건들이 발생한 더 넓은 정치-제도적 프레임워크를 발전시킴."
+
+[[extra.references]]
+id = "intelligent-design-message-from-the-designers"
+note = "에덴 자료를 포함한 세 권의 라엘 자료를 모은 정전 판본."
+
+[[extra.references]]
+id = "sendy-ces-dieux"
+note = "상디(1969); 기초적인 프랑스어 표명; 코퍼스가 채택한 에덴 독해의 주요 학술적 선행자."
+
+[[extra.references]]
+id = "sendy-cahiers-moise"
+note = "상디(1974); 상당한 에덴 시기 배경 자료를 갖춘 모세 시대 프레임워크를 발전시킴."
+
+[[extra.references]]
+id = "biglino-il-libro"
+note = "빌리노(2010); gan-ʿĒden 봉쇄 시설 논증을 포함한 엄격한 직역적 히브리어 독해의 최초 주요 표명."
+
+[[extra.references]]
+id = "biglino-bibbia-non-parla"
+note = "빌리노(2015); 주류 번역이 엘로힘과 에덴 시설들에 관한 히브리어 성경의 원래 내용을 흐리게 한다는 논증의 표명."
+
+[[extra.references]]
+id = "the-naked-bible"
+note = "빌리노 & 카타네오(2022); 에덴 본문을 포함한 창세기의 엄격한 직역적 히브리어 번역."
+
+[[extra.references]]
+id = "escaping-from-eden"
+note = "월리스(2020); 창세기의 엘로힘이 물리적으로 존재하는 기술적 존재라는 더 광범위한 표명."
+
+[[extra.references]]
+id = "the-scars-of-eden"
+note = "월리스(2021); 에덴 시기 사건들에 대한 문화 횡단적 기억의 비교적 표명."
+
+[[extra.references]]
+id = "echoes-of-eden"
+note = "월리스(2021); 광범위한 문화 횡단적 보존에 관한 비교 신화학적 논증을 발전시킴."
+
+[[extra.references]]
+id = "wallis-eden-conspiracy"
+note = "월리스(2024); 동맹 분파 간의 정치적 위기 기록으로서 창세기 2-3장 서사에 대한 가장 직접적인 책 한 권 분량의 다룸."
+
+[[extra.references]]
+id = "sarna-genesis-jps"
+note = "사르나(1989); 창세기에 대한 JPS Torah Commentary; 에덴 본문에 대한 현대의 주요 유대-학술적 다룸."
+
+[[extra.references]]
+id = "westermann-genesis-1-11"
+note = "베스터만(1994); 창세기 1-11장에 대한 대륙 주석; 원초사에 대한 기초적인 비평적 주석."
+
+[[extra.references]]
+id = "cassuto-genesis"
+note = "카수토(1961); 에덴 서사의 자료 가설에 따른 분절화에 반대하는 유대-학술적 주석."
+
+[[extra.references]]
+id = "halloran-sumerian-lexicon"
+note = "할로란(2006); 수메르어 EDEN / edinu 어원적 배경에 대한 접근 가능한 참고서."
+
+[[extra.references]]
+id = "rohl-legend-genesis"
+note = "롤(1998); 우르미아 호수 가설의 표명; 주요한 현대 에덴 위치 제안 중 하나."
+
+[[extra.references]]
+id = "oppenheimer-eden-east"
+note = "오펜하이머(1998); 순다랜드 에덴 가설; 원초적 문화 자료를 침수된 동남아시아에 위치시킴."
+
+[[extra.references]]
+id = "kramer-enki-myths"
+note = "크레이머 & 마이어(1989); 에덴 전통과 구조적으로 평행하는 딜문 및 엔키-닌후르사그 자료를 포함한 엔키 신화 자료."
+
+[[extra.references]]
+id = "atra-hasis-lambert-millard"
+note = "램버트 & 밀러드(1969); 바빌로니아 홍수 서사의 비평적 판본; 에덴과 홍수 전통에 대한 고대 근동 맥락."
+
+[[extra.references]]
+id = "boyce-zoroastrians"
+note = "보이스(2001년 개정판); 페르시아-조로아스터교의 이마의 바라와 에덴과 밀접히 평행하는 더 광범위한 낙원과 홍수 전통."
+
+[[extra.references]]
+id = "sitchin-12th-planet"
+note = "시친(1976); 수메르 E.DIN 독해; 더 광범위한 에덴 해석 전통의 주요 대중적 고대 우주인 정박점."
+
 [extra.infobox]
-hebrew_name = "עֵדֶן (region); גַּן־עֵדֶן (the garden in Eden)"
+hebrew_name = "עֵדֶן (지역); גַּן־עֵדֶן (에덴의 정원)"
 transliteration = "ʿĒden; gan-ʿĒden"
-type = "Geographic region with enclosed installation"
-biblical_location = "Genesis 2:8 ('eastward in Eden')"
-geographic_referent = "Eastern Mediterranean / Levantine region of the antediluvian supercontinent"
-operational_period = "Mid–late Age of Leo through Age of Cancer, c. 11,375 – 6,690 BCE"
-date_type = "framework-internal; derived from precessional reading of Genesis and the 666-generation anchor"
-closing_event = "Catastrophic disruption during the Flood of the Age of Gemini, c. 6,690 BCE"
-current_status = "Region's antediluvian configuration no longer extant; post-Flood remnants identified by the framework with the modern Levant"
-principal_text = "Genesis 2:8–3:24"
-principal_framework_source = "*The Book Which Tells the Truth* (Vorilhon/Raël, 1974), chapter 2"
+type = "봉쇄 시설을 갖춘 지리적 지역"
+biblical_location = "창세기 2:8 ('에덴 동쪽')"
+geographic_referent = "대홍수 이전 초대륙의 동지중해 / 레반트 지역"
+operational_period = "사자자리 시대 중-후기부터 게자리 시대까지, 기원전 약 11,375 – 6,690년"
+date_type = "프레임워크 내부적; 창세기의 세차(歲差)적 독해와 666세대 정박점에서 도출"
+closing_event = "기원전 약 6,690년, 쌍둥이자리 시대의 대홍수 중에 발생한 격변적 단절"
+current_status = "지역의 대홍수 이전 형태는 더 이상 존속하지 않음; 대홍수 이후 잔재는 프레임워크에 의해 현대 레반트와 동일시됨"
+principal_text = "창세기 2:8–3:24"
+principal_framework_source = "*진실을 말하는 책* (보릴롱/라엘, 1974), 2장"
 +++
 
-**Eden** (Hebrew: <span class="hebrew">עֵדֶן</span>, *ʿĒden*) is the region named in the Hebrew Bible as the place in which the first humans were created and lived before their expulsion, narrated principally in Genesis 2:8–3:24. The Hebrew text distinguishes the broader region (*ʿĒden*) from the enclosed garden within it (*gan-ʿĒden*, "the garden of Eden"); Genesis 2:8 specifies that the garden was planted "in Eden, in the east." The garden contains the named species of trees, the four rivers (Pishon, Gihon, Tigris, Euphrates), the Tree of Life, and the Tree of the Knowledge of Good and Evil. The narrative of human creation, instruction, transgression, and expulsion takes place in and around this enclosed setting.
+**에덴**(히브리어: <span class="hebrew">עֵדֶן</span>, *ʿĒden*)은 {% wiki(slug="hebrew-bible") %}히브리어 성경{% end %}에서 최초의 인간들이 추방되기 전에 창조되고 살았던 장소로 명명된 지역이며, 주로 창세기 2:8–3:24에 서사됩니다. 히브리어 본문은 더 넓은 지역(*ʿĒden*)을 그 안의 봉쇄된 정원(*gan-ʿĒden*, "에덴의 정원")과 구분합니다. 창세기 2:8은 그 정원이 "에덴에, 동쪽에" 심어졌다고 명시합니다. 정원에는 명명된 종(種)의 나무들, 네 강(비손, 기혼, 티그리스, 유프라테스), 생명나무, 그리고 {% wiki(slug="tree-of-the-knowledge-of-good-and-evil") %}선악을 알게 하는 나무{% end %}가 있습니다. 인간 창조, 교습, 위반, 추방의 서사는 이 봉쇄된 환경 안에서 그리고 그 주변에서 일어납니다.
 
-On the reading developed in the Raëlian source material and adopted by the Wheel of Heaven corpus, Eden is the operational territory of one of the seven Elohim creator teams — the Israel team — on the antediluvian supercontinent, during the late Age of Leo and continuing into the Age of Cancer. The garden is the enclosed laboratory and habitation site at which this team conducted the synthesis, instruction, and observation of the first human lineage produced under their care. The framework reads the Genesis 2–3 narrative as a compressed but substantively accurate account of operational events at this site, with the named features — the trees, the rivers, the prohibition, the serpent, the expulsion — all referring to specific operational realities rather than to symbolic or moral abstractions.
+라엘 자료에서 발전하여 {% wiki(slug="wheel-of-heaven") %}Wheel of Heaven{% end %} 코퍼스가 채택한 독해에 따르면, 에덴은 사자자리 시대 후기에서 게자리 시대로 이어지는 시기에 대홍수 이전 초대륙에서 활동한 일곱 엘로힘 창조자 팀 중 하나 — 이스라엘 팀 — 의 작전 영역입니다. 정원은 이 팀이 그들의 보호 아래 산출된 최초의 인간 계보를 합성, 교습, 관찰한 봉쇄된 실험실 및 거주 부지입니다. 프레임워크는 창세기 2-3장 서사를 이 부지에서의 작전적 사건들에 대한 압축되었지만 실질적으로 정확한 기록으로 읽으며, 명명된 특징들 — 나무들, 강들, 금령, 뱀, 추방 — 모두를 상징적이거나 도덕적인 추상이 아니라 구체적인 작전적 실재를 지칭하는 것으로 봅니다.
 
-The reading is contested. Within mainstream biblical scholarship, Eden is generally treated as either a mythological or theological construction, possibly with origins in the broader ancient Near Eastern paradisiacal tradition (Mesopotamian Dilmun, Sumerian paradise traditions), without specific geographic referent. Within the broader landscape of alternative biblical interpretation, several specific Eden-location proposals have been advanced — the Persian Gulf head (Juris Zarins), the Lake Urmia region (David Rohl), eastern Anatolia, the Sundaland shelf — varying in their relationship to the Genesis text and to the surrounding geological evidence. The corpus's reading reframes the geographic question: the antediluvian Eden is located on a continental configuration that no longer exists, with its remnants identifiable in the post-Flood Levantine region but not directly recoverable as an extant geographic entity.
+이 독해는 논쟁의 대상입니다. 주류 성서학계 안에서 에덴은 일반적으로 신화적 또는 신학적 구성물로 다루어지며, 구체적인 지리적 지시 대상 없이 더 광범위한 고대 근동 낙원 전통(메소포타미아의 딜문, 수메르 낙원 전통)에 그 기원이 있을 수 있다고 봅니다. 대안적 성서 해석의 더 넓은 지형 안에서는, 몇 가지 구체적인 에덴 위치 제안들이 제기되어 왔습니다 — 페르시아만 어귀(주리스 자린스), 우르미아 호수 지역(데이비드 롤), 동부 아나톨리아, 순다랜드 대륙붕 — 창세기 본문 및 주변의 지질학적 증거와의 관계에서 서로 다릅니다. 코퍼스의 독해는 지리적 질문을 재구성합니다. 대홍수 이전의 에덴은 더 이상 존재하지 않는 대륙 구성 위에 위치하며, 그 잔재는 대홍수 이후의 레반트 지역에서 식별 가능하지만 현존하는 지리적 실체로서 직접 회수될 수는 없습니다.
 
-## Etymology
+## 어원
 
-The Hebrew name *ʿĒden* connects through two distinct etymological histories. Within the Hebrew tradition itself, the name is conventionally connected to the root *ʿ-d-n* ("to be soft, pleasant, delight"), giving the gloss "place of delight" or "paradise." This Hebrew etymology is internal to the biblical tradition and is the source of the long Christian and Islamic association of Eden with paradise generally. The cognate Hebrew noun *ʿednāh* (Genesis 18:12) carries the same sense of pleasure or delight; Psalm 36:9 and Jeremiah 51:34 use related forms. The Hebrew etymology gives Eden its theologically loaded connotations across the subsequent religious tradition.
+히브리어 이름 *ʿĒden*은 두 가지 별개의 어원사를 통해 연결됩니다. 히브리 전통 자체 안에서, 이 이름은 통상적으로 어근 *ʿ-d-n*("부드럽다, 즐겁다, 기쁘다")과 연결되어 "기쁨의 장소" 또는 "낙원"이라는 풀이를 산출합니다. 이 히브리어 어원은 성경 전통 내부적이며, 에덴을 일반적으로 낙원과 연관시키는 기독교와 이슬람의 오랜 연상의 원천입니다. 동족 히브리어 명사 *ʿednāh*(창세기 18:12)는 동일한 기쁨이나 즐거움의 의미를 담고 있습니다. 시편 36:9와 예레미야 51:34는 관련 형태를 사용합니다. 히브리어 어원은 이후의 종교 전통 전반에 걸쳐 에덴에 신학적으로 무거운 함의를 부여합니다.
 
-A separate and older etymological connection runs to the Sumerian and Akkadian. The Sumerian word **EDEN** (𒂔, also transliterated *edin*) means *plain*, *steppe*, or *open country* — a flat, often arid landscape distinct from settled or cultivated land. The Akkadian *edinu* / *idīnum* is borrowed from the Sumerian and carries the same range of meanings, generally "steppe" or "open country." The connection of Hebrew *ʿĒden* to this Sumerian-Akkadian background is widely accepted in mainstream Assyriology and predates the modern reinterpretive literature; it is treated, for example, in *The Assyrian Dictionary of the Oriental Institute of the University of Chicago* (CAD, volume E) and in the comparative-Semitic lexicographic tradition.
+별개의 더 오래된 어원적 연결은 수메르어와 아카드어로 이어집니다. 수메르어 단어 **EDEN**(𒂔, *edin*으로도 음역됨)은 *평원*, *스텝*, 또는 *개방된 시골* — 정착되었거나 경작된 땅과 구별되는 평탄하고 종종 건조한 풍경 — 을 의미합니다. 아카드어 *edinu* / *idīnum*은 수메르어에서 차용된 것으로, 동일한 의미 범위를 담고 있으며, 일반적으로 "스텝" 또는 "개방된 시골"입니다. 히브리어 *ʿĒden*과 이 수메르-아카드어 배경의 연결은 주류 아시리아학에서 광범위하게 받아들여지며, 현대의 재해석 문헌보다 앞섭니다. 예를 들어 *시카고 대학 오리엔트 연구소 아시리아 사전*(CAD, E권)과 비교-셈어 사전학 전통에서 다루어집니다.
 
-The two etymologies are not necessarily in conflict; they may reflect different stages of the term's history. The older Mesopotamian sense ("plain, steppe") may have been the original referent — a wide open region, presumably containing within it the cultivated and enclosed garden the Genesis text specifically describes. The Hebrew "place of delight" gloss may reflect a later folk etymology or theological development that read the inherited place-name through the lens of the garden's described features. The framework's reading of Eden as a *region* containing the enclosed *garden* is consistent with the older Sumerian-Akkadian sense: the Eden region is the broader steppe-territory of the Israel team's operations, with the garden (*gan*) being a specific enclosed installation within it.
+이 두 어원이 반드시 충돌하는 것은 아닙니다. 그것들은 그 용어 역사의 서로 다른 단계를 반영할 수 있습니다. 더 오래된 메소포타미아적 의미("평원, 스텝")가 본래의 지시 대상이었을 수 있습니다 — 창세기 본문이 구체적으로 묘사하는 경작되고 봉쇄된 정원을 그 안에 포함하는 광활한 개방 지역. 히브리어 "기쁨의 장소" 풀이는 정원의 묘사된 특징들의 렌즈를 통해 계승된 지명을 읽은 후대의 민간 어원이나 신학적 발전을 반영할 수 있습니다. 봉쇄된 *정원*을 포함하는 *지역*으로서의 에덴에 대한 프레임워크의 독해는 더 오래된 수메르-아카드어 의미와 일치합니다. 즉, 에덴 지역은 이스라엘 팀 작전의 더 넓은 스텝 영역이며, 정원(*gan*)은 그 안의 구체적인 봉쇄 시설입니다.
 
-The Hebrew word *gan*, conventionally translated "garden," derives from the root *g-n-n*, "to enclose, to protect, to defend" — the same root behind *ginah* ("garden, enclosure") and *meginah* ("shield, protection"). The strong sense of *gan* is therefore an enclosed, protected, controlled space, with the boundary not merely ornamental but functional. This sense of *gan* will become significant in the Modern reinterpretations section below.
+히브리어 단어 *gan*은 통상 "정원"으로 번역되지만, 어근 *g-n-n*, "에워싸다, 보호하다, 방어하다"에서 유래합니다 — *ginah*("정원, 울타리")와 *meginah*("방패, 보호")의 배후에 있는 동일한 어근입니다. 따라서 *gan*의 강한 의미는 봉쇄되고 보호되며 통제된 공간이며, 그 경계는 단지 장식적인 것이 아니라 기능적인 것입니다{{ footnote(id="1") }}. *gan*에 대한 이 의미는 아래의 현대의 재해석 절에서 의미심장하게 될 것입니다.
 
-## In primary sources
+## 주요 자료에서
 
-Eden appears principally in Genesis 2–3, with secondary references scattered across the rest of the Hebrew Bible and in the broader ancient Near Eastern literature.
+에덴은 주로 창세기 2-3장에 등장하며, 히브리어 {% wiki(slug="bible") %}성경{% end %}의 나머지 부분과 더 광범위한 고대 근동 문헌에 산재된 부차적 언급들이 있습니다.
 
-### The Genesis narrative
+### 창세기 서사
 
-The Genesis text gives Eden two principal treatments. The first is the brief mention in the second creation account at Genesis 2:8: *Yahweh Elohim* plants a garden "in Eden, in the east" (*miqqedem*, "from the east" or "in the east"), and places the formed human (*ha-ʾadam*) there. The narrative continues with a description of the four rivers that flow out of Eden: the Pishon (which compasses the land of Havilah, where there is gold), the Gihon (which compasses the land of Cush), the Hiddekel or Tigris (which goes east of Asshur), and the Perath or Euphrates (named without further description, presumably because already known to the original audience). The function of the human in the garden is given as "to dress it and to keep it" (Genesis 2:15) — the Hebrew verbs being *ʿabad* ("to work, to serve") and *šamar* ("to guard, to keep watch over").
+{% library(book="genesis-woh", chapter=2, verse=8) %}
+YHWH-엘로힘이 동쪽 에덴에 정원을 심으시고 — 거기에 그가 빚으신 인간을 두셨더라.
+{% end %}
 
-The second treatment is the narrative arc of Genesis 2:15–3:24: the prohibition concerning the Tree of the Knowledge of Good and Evil; the formation of the woman from the human's side; the serpent's questioning of the prohibition; the eating of the fruit; the recognition of nakedness; the confrontation with Yahweh Elohim, who is described as walking in the garden in the cool of the day; the pronouncement of consequences on the serpent, the woman, and the man; and the expulsion from the garden, with the placing of cherubim and a flaming sword (*lahaṭ ha-ḥereb ha-mithappekheth*, "the flame of the sword which turns every way") to bar the way back to the Tree of Life.
+창세기 본문은 에덴에 두 가지 주요한 다룸을 제공합니다. 첫 번째는 창세기 2:8의 두 번째 창조 기사에서의 간략한 언급입니다. *야훼 엘로힘*은 "에덴에, 동쪽에"(*miqqedem*, "동쪽으로부터" 또는 "동쪽에") 정원을 심고, 빚어진 인간(*ha-ʾadam*)을 거기에 둡니다. 서사는 에덴에서 흘러나오는 네 강에 대한 묘사로 계속됩니다. 비손(금이 있는 하윌라 땅을 두루 흐름), 기혼(구스 땅을 두루 흐름), 힛데겔 또는 티그리스(앗수르 동쪽으로 흐름), 그리고 페라트 또는 유프라테스(아마도 원래의 청중에게 이미 알려져 있었기 때문에 추가 묘사 없이 명명됨)입니다. 정원에서 인간의 기능은 "그것을 다스리며 지키게"(창세기 2:15) 하는 것으로 주어집니다 — 히브리어 동사는 *ʿabad*("일하다, 섬기다")와 *šamar*("지키다, 망보다")입니다.
 
-### Other Hebrew Bible references
+두 번째 다룸은 창세기 2:15–3:24의 서사적 호입니다. 선악을 알게 하는 나무에 관한 금령, 인간의 옆구리로부터 여자의 형성, 금령에 대한 뱀의 질문, 열매를 먹음, 나체의 인식, 정원을 거니시는 야훼 엘로힘과의 대면(낮의 서늘할 때), 뱀, 여자, 남자에 대한 결과의 선언, 그리고 정원에서의 추방 — 그룹과 화염검(*lahaṭ ha-ḥereb ha-mithappekheth*, "사방으로 회전하는 칼의 화염")을 두어 생명나무로 가는 길을 막음.
 
-Eden appears outside Genesis 2–3 in several scattered references. **Genesis 4:16** locates Cain's exile "east of Eden," in the land of Nod. **Isaiah 51:3** uses Eden as a paradigmatic image of paradise to which the post-exilic restoration is compared. **Ezekiel 28:13** addresses the king of Tyre as having been "in Eden, the garden of Elohim," in a passage rich with framework-significant imagery (the trees, the precious stones, the cherub). **Ezekiel 31:8–9** describes the cedars of Eden surpassing all other trees, in a passage that addresses Pharaoh through the metaphor of a great tree. **Ezekiel 36:35** uses Eden as a comparison for the restored land. **Joel 2:3** uses Eden as the paradigm of fertility against which the locust plague's devastation is set.
+### 그 밖의 히브리어 성경 언급
 
-The Ezekiel 28 passage deserves particular note. The address to the king of Tyre — "Thou wast in Eden, the garden of Elohim; every precious stone was thy covering" — has been read across the religious traditions variously as historical reference (the Tyrian king as a real figure with mythical or genealogical connection to Eden), as theological allegory (the king's pride compared to the original Edenic state), or as encoded reference to a different figure altogether (Lucifer in much patristic-medieval Christian reading, with the passage providing a textual basis for the Lucifer-as-fallen-cherub tradition). The passage's specific imagery — the precious stones, the cherub, the garden, the fall — has been one of the principal sources for the broader tradition of an Edenic prelapsarian state involving non-human beings.
+에덴은 창세기 2-3장 외에도 산재된 여러 언급에서 등장합니다. **창세기 4:16**은 가인의 망명을 "에덴 동쪽" 놋 땅에 위치시킵니다. **이사야 51:3**은 에덴을 포로기 이후 회복이 비교되는 낙원의 모범적 이미지로 사용합니다. **에스겔 28:13**은 두로 왕에게 "에덴, 엘로힘의 정원에" 있었다고 말하며, 프레임워크에 의미심장한 이미지들(나무들, 보석들, 그룹)이 풍부한 단락입니다. **에스겔 31:8–9**는 에덴의 백향목들이 다른 모든 나무들을 능가한다고 묘사하며, 거대한 나무의 은유를 통해 바로에게 말합니다. **에스겔 36:35**는 회복된 땅의 비교로 에덴을 사용합니다. **요엘 2:3**은 메뚜기 재앙의 황폐화가 대비되는 비옥함의 모범으로 에덴을 사용합니다.
 
-### Later Jewish, Christian, and Islamic literature
+에스겔 28장 단락은 특별히 주목할 가치가 있습니다. 두로 왕에 대한 발언 — "네가 에덴, 엘로힘의 정원에 있었으며, 각종 보석으로 단장하였도다" — 은 여러 종교 전통을 가로질러 다양하게 읽혀 왔습니다. 역사적 언급으로(두로 왕이 에덴에 신화적 또는 계보적 연결을 가진 실제 인물로), 신학적 우의로(왕의 교만이 본래의 에덴 상태와 비교됨), 또는 다른 인물에 대한 암호화된 언급으로(많은 교부-중세 기독교 독해에서의 루시퍼; 이 단락이 추락한 그룹으로서의 루시퍼 전통에 본문적 근거를 제공함). 이 단락의 구체적 이미지 — 보석들, 그룹, 정원, 추락 — 은 비인간 존재들을 포함하는 에덴적 타락 이전 상태에 대한 더 넓은 전통의 주요 자료 중 하나가 되었습니다.
 
-The Eden tradition is substantially elaborated in post-biblical literature. **The Book of Jubilees** (c. 2nd century BCE) places Eden's location with specific geographic detail and gives the garden a sanctuary-like role in subsequent history. **1 Enoch** (composed across several centuries from the 3rd century BCE onward) preserves elaborate Edenic geography and connects Eden to the Watchers tradition. **The Life of Adam and Eve** (c. 1st century CE) and the **Apocalypse of Moses** develop the Adam-and-Eve narrative at length, with extensive material on the post-expulsion period. **Rabbinic midrash** — Genesis Rabbah, the Tanchuma, the *Pirkei de-Rabbi Eliezer* — develops the Edenic narrative across many centuries with substantial elaboration. **Patristic Christian writers** (Theophilus of Antioch, Origen, Augustine) develop the typological and allegorical readings that would become standard in Western theology. **Qur'anic and Islamic sources** preserve a parallel tradition of *Jannat ʿAdn*, "the gardens of Eden," used in the Qur'an as a designation of paradise (e.g., Q 9:72, Q 13:23, Q 19:61); the Qur'anic tradition preserves the Adam-and-Eve narrative with several specific differences from the biblical account.
+### 후대의 유대교, 기독교, 이슬람 문헌
 
-### Mesopotamian parallels
+에덴 전통은 성경 이후 문헌에서 상당히 정교화됩니다. **희년서**(기원전 약 2세기)는 에덴의 위치를 구체적인 지리적 세부와 함께 제시하며, 이후 역사에서 정원에 성소와 같은 역할을 부여합니다. **에녹1서**(기원전 3세기 이후 수세기에 걸쳐 작성됨)는 정교한 에덴 지리를 보존하고 에덴을 감시자 전통과 연결합니다. **아담과 하와의 생애**(서기 약 1세기)와 **{% wiki(slug="moses") %}모세{% end %}의 {% wiki(slug="apocalypse") %}묵시{% end %}**는 추방 이후 시기에 대한 광범위한 자료와 함께 아담과 하와 서사를 상세히 발전시킵니다. **랍비 미드라쉬** — 창세기 라바, 탄후마, *피르케이 데-라비 엘리에제르* — 는 에덴 서사를 여러 세기에 걸쳐 상당한 정교화와 함께 발전시킵니다. **교부 기독교 저자들**(테오필루스 안티오케이아, 오리게네스, 아우구스티누스)은 서구 신학에서 표준이 될 유형론적·우의적 독해를 발전시킵니다. **꾸란과 이슬람 자료들**은 *잔나트 ʿ아드*("에덴의 정원들")의 평행 전통을 보존하며, 꾸란에서 낙원의 명칭으로 사용됩니다(예: Q 9:72, Q 13:23, Q 19:61). 꾸란 전통은 성경 기사와 몇 가지 구체적인 차이를 가진 아담과 하와 서사를 보존합니다.
 
-The closest Mesopotamian parallel to Eden is the tradition of **Dilmun**, treated more fully in *Comparative observations* below. Dilmun appears in Sumerian texts as a paradisiacal land where the gods dwelled and where there was no sickness, hunger, or death — a description structurally close to certain elements of the Edenic tradition. The myth of *Enki and Ninhursag* describes Dilmun as a place where "the lion does not kill, the wolf does not snatch the lamb," with imagery that has clear resonance with Isaiah's later prophetic visions of restored Eden. The geographical identification of Dilmun is contested in Assyriology, with Bahrain being the traditional identification; the Persian Gulf location of Dilmun is one of the points the various Persian Gulf Eden-location hypotheses build on.
+### 메소포타미아 평행
 
-## Geographic identification
+{% library(book="genesis-woh", chapter=3, verse=24) %}
+그가 인간을 쫓아내시고, 에덴 동산 동쪽에 그룹들과 스스로 회전하는 화염의 칼날을 두어 생명나무로 가는 길을 지키게 하셨더라.
+{% end %}
 
-The geographic identification of Eden — where the garden was, where its remnants might be located, and what relationship the antediluvian geography bears to present-day geography — is one of the most extensively debated aspects of the Eden tradition. The corpus's specific identification differs from both the mainstream biblical-scholarly position and the various alternative-interpretation hypotheses.
+에덴에 가장 가까운 메소포타미아 평행은 **딜문** 전통이며, 아래의 *비교 관찰*에서 더 충실히 다루어집니다. 딜문은 수메르 본문에 신들이 거주했고 병, 굶주림, 죽음이 없었던 낙원적인 땅으로 등장합니다 — 에덴 전통의 특정 요소들과 구조적으로 가까운 묘사입니다. *엔키와 닌후르사그* 신화는 딜문을 "사자가 죽이지 않고, 늑대가 양을 낚아채지 않는" 곳으로 묘사하며, 이는 후일 이사야의 회복된 에덴에 대한 예언적 환상과 명백한 공명을 가진 이미지입니다. 딜문의 지리적 식별은 아시리아학에서 논쟁의 대상이며, 바레인이 전통적인 식별입니다. 딜문의 페르시아만 위치는 다양한 페르시아만 에덴 위치 가설들이 구축되는 지점 중 하나입니다.
 
-### The four-rivers identification puzzle
+## 지리적 식별
 
-Genesis 2:10–14 names the four rivers that flow out of Eden, two of which are unambiguously identifiable with extant rivers (the Tigris and the Euphrates) and two of which are not: the Pishon and the Gihon. The identification of the Pishon and Gihon has been one of the principal problems for Eden-location scholarship across two and a half millennia.
+에덴의 지리적 식별 — 정원이 어디에 있었는지, 그 잔재가 어디에 위치할 수 있는지, 그리고 대홍수 이전 지리가 현재의 지리와 어떤 관계를 갖는지 — 은 에덴 전통의 가장 광범위하게 논쟁된 측면 중 하나입니다. 코퍼스의 구체적 식별은 주류 성서학적 입장 및 다양한 대안적 해석 가설들 양쪽 모두와 다릅니다.
 
-The classical Jewish and patristic Christian traditions identified the Pishon and Gihon variously: with the Nile (a common patristic identification, on the basis of Genesis 2:13's "compassing the land of Cush," which can mean Ethiopia / Nubia), with the Ganges or the Indus (proposed by Josephus, *Antiquities* 1.1.3), with the Araxes in Armenia, or with the Karun or Kerkha rivers in modern Iran. The various proposals each have textual or geographic problems; none has achieved consensus.
+### 네 강 식별의 수수께끼
 
-Modern proposals have continued the tradition. The Persian Gulf hypothesis associated with **Juris Zarins** (the American archaeologist, in *Smithsonian Magazine* 1987 and subsequent publications) identifies the Pishon with the Wadi al-Rummah, a now-dry riverbed running across the Arabian peninsula that LANDSAT imagery has shown was a major river system during the wetter Pleistocene period; the Gihon with the Karun river in Iran; the Tigris and Euphrates as themselves; and the four-river meeting point as the head of the Persian Gulf, which during the early Holocene was extended further inland than the present coastline. The Zarins hypothesis places Eden at this submerged area, now under Persian Gulf waters.
+창세기 2:10–14는 에덴에서 흘러나오는 네 강을 명명하는데, 그 가운데 둘은 현존하는 강과 명확히 동일시될 수 있고(티그리스와 유프라테스) 둘은 그렇지 않습니다 — 비손과 기혼입니다. 비손과 기혼의 식별은 두 천오백 년에 걸쳐 에덴 위치 학술 연구의 주요 문제 중 하나였습니다.
 
-The **David Rohl** hypothesis (in *Legend: The Genesis of Civilisation*, 1998) places Eden in the Lake Urmia region of northwestern Iran, identifying the Pishon with the Aras / Araxes and the Gihon with the Kezel-Owzan or the Greater Zab.
+고전 유대교와 교부 기독교 전통은 비손과 기혼을 다양하게 식별했습니다. 나일강(흔한 교부적 식별로, 창세기 2:13의 "구스 땅을 두루 흐름"에 근거하며, 이는 에티오피아 / 누비아를 의미할 수 있음), 갠지스강 또는 인더스강(요세푸스, *유대 고대사* 1.1.3에서 제안), 아르메니아의 아락세스강, 또는 현대 이란의 카룬강 또는 케르카강. 다양한 제안들은 각각 본문상 또는 지리상의 문제를 가집니다. 어느 것도 합의에 이르지 못했습니다.
 
-### The framework's reading of the geographic question
+근대의 제안들은 이 전통을 계속해 왔습니다. **주리스 자린스**(미국 고고학자, *Smithsonian Magazine* 1987 및 후속 출판물)와 연관된 페르시아만 가설은 비손을 와디 알-루마(아라비아 반도를 가로지르는 지금은 마른 강바닥으로, LANDSAT 영상이 더 습한 플라이스토세 시기에 주요 강 체계였음을 보여 줌)와, 기혼을 이란의 카룬강과, 티그리스와 유프라테스를 그 자체와 동일시하며, 네 강이 만나는 지점을 페르시아만 어귀로 보고, 초기 홀로세 동안 이 지점이 현재 해안선보다 더 내륙으로 확장되어 있었다고 봅니다. 자린스 가설은 에덴을 이 침수된 지역, 현재 페르시아만 해수 아래에 위치시킵니다.
 
-The corpus's reading of the four-rivers passage is distinct from both the mainstream biblical-scholarly position (which generally treats the rivers as mythological or as preserving general geographic memory rather than as a precise identification puzzle) and the alternative-interpretation hypotheses (which treat the puzzle as solvable by careful work with the present-day geography).
+**데이비드 롤** 가설(*Legend: The Genesis of Civilisation*, 1998)은 에덴을 이란 북서부 우르미아 호수 지역에 위치시키며, 비손을 아라스 / 아락세스와, 기혼을 케젤-오우잔 또는 대 자브와 동일시합니다.
 
-On the corpus's reading, the four-rivers passage is a description of the antediluvian Eden region's hydrology, no longer extant in its original form. The supercontinent on which the antediluvian Eden was located broke apart catastrophically during the Flood event of the Age of Gemini (c. 6,690 BCE on the corpus's chronology), with the resulting fragments becoming the modern continents through subsequent drift.[^pangaea] The pre-Flood river system that included the Pishon, Gihon, Tigris, and Euphrates as four streams flowing from a common source no longer exists in that configuration. The names *Tigris* and *Euphrates* were preserved across the catastrophe by the post-Flood survivors, who attached them to rivers in the post-Flood Mesopotamian region that the survivors associated with the original referents, but the post-Flood rivers are not the same as the antediluvian rivers — the geographic substrate has been rearranged.
+### 지리적 질문에 대한 프레임워크의 독해
 
-[^pangaea]: The framework's "supercontinent" is not the conventional Pangaea of mainstream geology. Conventional Pangaea assembled approximately 335 million years ago and broke apart approximately 175 million years ago, with continental drift unfolding over hundreds of millions of years through mantle convection. The corpus, following the Raëlian source material, reads the breakup as a catastrophic event during the Flood of the Age of Gemini c. 6,690 BCE, with the observed continental drift since then as the residual momentum of that event. The structural correspondence — a single consolidated landmass, surrounded by a single ocean — is the same; the timing and mechanism are radically different. The conflict with mainstream geological dating is substantial and is treated openly in the [Pangaea](../pangaea/), [Great Flood](../great-flood/), and [Antediluvian](../antediluvian/) entries.
+코퍼스의 네 강 단락 독해는 주류 성서학적 입장(이 입장은 일반적으로 강들을 신화적이거나 정밀한 식별 수수께끼라기보다 일반적 지리적 기억을 보존하는 것으로 다룸)과 대안적 해석 가설들(이 가설들은 그 수수께끼를 현재 지리에 대한 세심한 작업으로 해결 가능한 것으로 다룸) 양쪽 모두와 구별됩니다.
 
-The general identification of the Eden region with the eastern Mediterranean / Levantine portion of the antediluvian supercontinent — the area that, after the breakup, would become the modern Levant including present-day Israel, Lebanon, Syria, southeastern Turkey, and the surrounding coastlands of Greece, Cyprus, and the Mediterranean basin — is solid on the corpus's reading. This identification is grounded in the Raëlian source material's specific identification of the Israel team's territory as the precursor to what would become the modern Israel. The pre-Flood Eden region is, on this reading, the antediluvian configuration of the territory whose post-Flood remnant is the present Levantine area.
+코퍼스의 독해에 따르면, 네 강 단락은 그 원래 형태로 더 이상 존재하지 않는 대홍수 이전 에덴 지역의 수문에 대한 묘사입니다{{ footnote(id="2") }}. 대홍수 이전 에덴이 위치했던 초대륙은 쌍둥이자리 시대의 대홍수 사건(코퍼스 연대기상 기원전 약 6,690년)에 격변적으로 분리되었으며, 그 결과 만들어진 파편들은 이후의 표류를 통해 현대의 대륙들이 되었습니다.{{ footnote(id="3") }} 비손, 기혼, 티그리스, 유프라테스를 공통의 원천에서 흘러나오는 네 줄기로 포함했던 대홍수 이전의 강 체계는 그 구성으로 더 이상 존재하지 않습니다. *티그리스*와 *유프라테스*라는 이름은 격변을 가로질러 대홍수 이후 생존자들에 의해 보존되었으며, 그들은 그 이름을 본래의 지시 대상과 연관시킨 대홍수 이후 메소포타미아 지역의 강들에 부여했지만, 대홍수 이후의 강들은 대홍수 이전의 강들과 동일하지 않습니다 — 지리적 기반이 재편되었습니다.
 
-The precise pre-Flood location of the garden of Eden within this broader region is not specified in the available source material. The four-rivers passage suggests a location at or near the headwaters of a major river system; the surrounding geography (the lands of Havilah and Cush, the gold and precious stones) suggests a region with substantial mineral wealth; the climatic features implied by the narrative (a controlled environment supporting diverse flora and fauna without seasonal extremes) suggest a temperate to subtropical setting. The framework treats these textual indications as preserving accurate features of the antediluvian Eden region, while acknowledging that the post-Flood remapping of the territory makes precise pre-Flood coordinates unrecoverable.
 
-### The garden as enclosed installation
+에덴 지역을 대홍수 이전 초대륙의 동지중해 / 레반트 부분 — 분리 이후 현대의 이스라엘, 레바논, 시리아, 터키 남동부, 그리고 그리스, 키프로스, 지중해 분지의 주변 해안 지역을 포함하는 현대 레반트가 될 지역 — 과 일반적으로 동일시하는 것은 코퍼스의 독해 위에서 견고합니다. 이 식별은 이스라엘 팀의 영역이 현대 이스라엘이 될 지역의 전구체라는 라엘 자료의 구체적 식별에 근거합니다. 따라서 이 독해에 따르면, 대홍수 이전 에덴 지역은 그 대홍수 이후 잔재가 현재의 레반트 지역인 영토의 대홍수 이전 구성입니다.
 
-The Hebrew *gan*, conventionally translated "garden," is read by the corpus in its strong etymological sense — an enclosed, protected, controlled space, with the boundary not merely ornamental but functional. The garden of Eden, on the framework's reading, is a specific enclosed installation within the broader Israel-team territory: a physical site bounded by some form of perimeter, containing the laboratories in which the biological synthesis was conducted, the educational facilities at which the first humans were instructed, and the controlled flora and fauna whose cultivation the Raëlian source material describes as the work of artists as well as scientists. The cherubim and flaming sword of Genesis 3:24 — placed at the entrance after the expulsion — are read as the access controls that prevented re-entry to the installation, consistent with the *gan*'s functional-boundary character.
+이 더 넓은 지역 내에서 에덴 동산의 정밀한 대홍수 이전 위치는 가용한 자료에서 명시되지 않습니다. 네 강 단락은 주요 강 체계의 발원 또는 그 부근의 위치를 시사합니다. 주변 지리(하윌라와 구스 땅, 금과 보석)는 상당한 광물 부의 지역을 시사합니다. 서사가 함의하는 기후적 특징(계절적 극단 없이 다양한 식물상과 동물상을 부양하는 통제된 환경)은 온대에서 아열대까지의 배경을 시사합니다. 프레임워크는 이러한 본문적 지시들을 대홍수 이전 에덴 지역의 정확한 특징들을 보존하는 것으로 다루는 한편, 그 영토의 대홍수 이후 재구성이 정밀한 대홍수 이전 좌표를 회수 불가능하게 만든다는 점을 인정합니다.
 
-The size of the installation is not specified in the source material. The Genesis text suggests something on the order of a substantial estate or compound rather than a small ornamental garden; the four-rivers passage implies that the garden is the source-region of major river systems, suggesting substantial geographic extent. The framework's reading treats the *gan-ʿĒden* as a major operational installation appropriate to a multi-millennial team operation, comparable in scale to the substantial scientific-research and habitation complexes that any such operation would require.
+### 봉쇄 시설로서의 정원
 
-## Historical occupation and use
+통상 "정원"으로 번역되는 히브리어 *gan*은 코퍼스에 의해 그 강한 어원적 의미 — 봉쇄되고 보호되며 통제된 공간으로, 그 경계가 단지 장식적인 것이 아니라 기능적인 것 — 로 읽힙니다. 프레임워크의 독해에 따르면, 에덴 동산은 더 넓은 이스라엘 팀 영역 내의 구체적인 봉쇄 시설입니다. 어떤 형태의 경계로 둘러싸인 물리적 부지로, 생물학적 합성이 수행된 실험실들, 최초의 인간들이 교습받은 교육 시설들, 그리고 라엘 자료가 과학자들뿐만 아니라 예술가들의 작업으로도 묘사하는 통제된 식물상과 동물상의 재배를 포함합니다. 추방 이후 입구에 둔 창세기 3:24의 그룹과 화염검은 시설 재진입을 막은 접근 통제로 읽히며, *gan*의 기능적 경계 성격과 일관됩니다.
 
-Eden was occupied, on the corpus's reading, across a specific period that maps to two precessional ages and a specific set of operational phases. The framework's chronology of these phases derives from the Raëlian source material's account of the creation work, with the Hebrew Bible's narrative providing the principal textual evidence for the political and biographical events.
+시설의 크기는 자료에 명시되지 않습니다. 창세기 본문은 작은 장식적 정원이라기보다는 상당한 사유지나 복합 단지 정도의 무엇인가를 시사합니다. 네 강 단락은 정원이 주요 강 체계의 발원 지역임을 함의하며, 이는 상당한 지리적 범위를 시사합니다. 프레임워크의 독해는 *gan-ʿĒden*을 다(多)천년 팀 작전에 적합한 주요 작전 시설로 다루며, 그러한 작전이 요구할 상당한 과학 연구 및 거주 복합 단지에 비견되는 규모로 봅니다.
 
-### The Israel-team operational period: late Leo
+## 역사적 점유와 사용
 
-The Israel team's operations in the Eden region began, on the framework's reading, during the broader Age of Leo (c. 11,010 – 8,850 BCE) — the sixth precessional age of the creation project, in which the seven creator teams synthesized the land animals and ultimately the first humans. The Israel team's specific work in Eden during late Leo culminated in the creation of the first humans (Adam and Eve, on the Genesis names) at approximately 11,375 BCE — the date derived from the 666-generation calculation anchoring the framework's chronology.
+에덴은 코퍼스의 독해에 따라 두 세차(歲差) 시대와 구체적인 일련의 작전적 국면에 사상(寫像)되는 특정 시기에 걸쳐 점유되었습니다. 이러한 국면들에 대한 프레임워크의 연대기는 창조 작업에 대한 라엘 자료의 설명에서 도출되며, 정치적·전기적 사건들에 대한 주요 본문적 증거는 히브리어 성경 서사가 제공합니다.
 
-During this initial operational phase, the garden was the site of active biological synthesis. The team's laboratories produced the first humans through the genetic-design and laboratory-synthesis techniques the Elohim civilization possessed; the resulting individuals were placed in the prepared garden environment and instructed in the languages, sciences, and arts that the team judged appropriate for them. The instruction was deliberately bounded: the humans were granted free use of the educational and biological resources of the garden, but the prohibition concerning the Tree of the Knowledge of Good and Evil corresponded to a specific restriction on access to the scientific and technological archives of the team — the materials whose use would have given the humans capacities the team's authorities, on the home world, did not want them to acquire.
+### 이스라엘 팀 작전 시기: 사자자리 후기
 
-### The political crisis: late Leo / early Cancer
+이스라엘 팀의 에덴 지역 작전은 프레임워크의 독해에 따라 더 넓은 사자자리 시대(기원전 약 11,010 – 8,850년) — 일곱 창조자 팀이 지상의 동물들과 궁극적으로 최초의 인간들을 합성한 창조 프로젝트의 여섯 번째 세차 시대 — 동안 시작되었습니다. 사자자리 후기 동안 에덴에서 이스라엘 팀의 구체적 작업은 기원전 약 11,375년 — 프레임워크의 연대기를 정박시키는 666세대 계산에서 도출된 날짜 — 에 최초의 인간들(창세기 이름에 따르면 아담과 하와)의 창조에서 정점에 이르렀습니다.
 
-Across the closing centuries of Leo, on the corpus's reading, an internal political dispute developed within the Israel team. The leader of one faction — identified in the broader framework with **Lucifer** ("light-bringer") — disagreed with the home-world's containment policy and held that the synthesized humans should be told who their creators were, taught what their creators knew, and permitted to develop with full information. The Genesis 3 disclosure — the serpent's communication to the humans concerning the Tree of the Knowledge of Good and Evil — is the operational expression of this position. The corpus reads the serpent as the leader of this dissenting faction, providing the humans with access to the prohibited materials against the directives of the home world.
+이 초기 작전 단계 동안, 정원은 활발한 생물학적 합성의 부지였습니다{{ cite(id="the-book-which-tells-the-truth", text="[1]", title="보릴롱(라엘), *진실을 말하는 책* (1974), 2장 '진실' — 프레임워크가 에덴을 읽는 주요 라엘 자료") }}. 팀의 실험실들은 엘로힘 문명이 보유한 유전 설계 및 실험실 합성 기법을 통해 최초의 인간들을 산출했습니다. 그 결과 만들어진 개체들은 준비된 정원 환경에 놓여, 팀이 그들에게 적합하다고 판단한 언어, 과학, 예술 안에서 교습받았습니다. 교습은 의도적으로 경계 지어져 있었습니다. 인간들은 정원의 교육적·생물학적 자원의 자유로운 사용을 허락받았지만, 선악을 알게 하는 나무에 관한 금령은 팀의 과학적·기술적 기록보관소에 대한 구체적인 접근 제한과 대응했습니다 — 그것을 사용하면 인간들이 팀의 모행성 당국이 그들이 획득하기를 원치 않았던 능력을 갖게 될 자료들이었습니다{{ footnote(id="4") }}.
 
-The transgression, on this reading, is not a moral fall but a transmission of restricted knowledge against the home-world's policy. The narrative's subsequent imagery — the recognition of nakedness, the fashioning of clothing, the confrontation with Yahweh Elohim, the pronouncement of consequences — is read as the political-operational consequence of the disclosure: the humans now know what they are, the team's leadership confronts them, and the broader Council on the home world is informed of the violation.
+### 정치적 위기: 사자자리 후기 / 게자리 초기
 
-### The expulsion: early Cancer
+코퍼스의 독해에 따르면, 사자자리의 종결 세기들에 걸쳐 이스라엘 팀 내부에서 내부 정치적 분쟁이 발전했습니다. 한 분파의 지도자 — 더 넓은 프레임워크에서 **루시퍼**("빛을 가져오는 자")와 동일시됨 — 는 모행성의 봉쇄 정책에 동의하지 않았고, 합성된 인간들에게 그들의 창조자가 누구인지를 말해야 하며, 창조자가 알던 것을 가르쳐야 하고, 완전한 정보와 함께 발전하도록 허용되어야 한다고 주장했습니다. 창세기 3장의 공개 — 선악을 알게 하는 나무에 관한 뱀의 인간들에 대한 통신 — 는 이 입장의 작전적 표현입니다. 코퍼스는 뱀을 이 반대 분파의 지도자로 읽으며, 모행성의 지시에 반하여 인간들에게 금지된 자료에 대한 접근을 제공한 것으로 봅니다.
 
-The expulsion from the garden, narrated in Genesis 3:23–24, is the framework's reading of the operational consequence of the political crisis. The humans are removed from the controlled garden environment and placed outside its boundary, in the broader Eden region, required to subsist by their own labor on land that has not been specifically prepared for them. The cherubim and flaming sword at the entrance prevent their return.
+이 독해에서 위반은 도덕적 추락이 아니라 모행성의 정책에 반하는 제한된 지식의 전수입니다. 서사의 이후 이미지 — 나체의 인식, 의복의 제작, 야훼 엘로힘과의 대면, 결과의 선언 — 는 공개의 정치-작전적 결과로 읽힙니다. 인간들은 이제 자신들이 무엇인지를 알고, 팀의 지도부는 그들과 대면하며, 모행성의 더 넓은 의회는 위반에 대해 통보받습니다.
 
-The political settlement at the home-world Council level, treated more fully in the [Elohim](../elohim/) entry under Internal political structure, divided the post-Eden alliance personnel into two groups. The dissenting Lucifer faction — those who had supported the disclosure — was permanently exiled on Earth, condemned to live among the humans they had chosen to enlighten. The remainder of the Israel team, plus most of the personnel from the other six creator teams, was withdrawn to the home world. The result was that the post-expulsion Eden region contained the human population (now with restricted scientific knowledge) and a small permanent Elohim presence (the exiled Lucifer faction), with the broader alliance maintaining surveillance from a distance.
+### 추방: 게자리 초기
 
-### The post-expulsion period: Age of Cancer
+창세기 3:23–24에 서사된 정원에서의 추방은 프레임워크가 정치적 위기의 작전적 결과로 읽는 것입니다. 인간들은 통제된 정원 환경에서 제거되어 그 경계 바깥, 더 넓은 에덴 지역에 놓이며, 자신들을 위해 구체적으로 준비되지 않은 땅에서 자신들의 노동으로 생계를 유지해야 합니다. 입구의 그룹과 화염검은 그들의 귀환을 막습니다.
 
-The Age of Cancer (c. 8,850 – 6,690 BCE) is the period of the antediluvian human civilization that the post-expulsion Eden region, and its broader continental expansion, supported. The Genesis 4–6 narrative covers this period in compressed form: the Cain-and-Abel conflict and Cain's exile to the land of Nod east of Eden; the genealogies of Cain's line (Genesis 4:17–24), naming the founders of pastoral nomadism, music, and metallurgy; the parallel genealogy of Seth's line (Genesis 5), with the long lifespans of the patriarchs from Adam to Noah; the *benei ha-Elohim* episode (Genesis 6:1–4), with the Lucifer-faction Elohim taking human women as wives and producing the *Nephilim*; and the divine assessment leading to the Flood announcement (Genesis 6:5–8).
+{% wiki(slug="elohim") %}엘로힘{% end %} 항목의 내부 정치 구조 아래에서 더 충실히 다루어지는 모행성 의회 차원에서의 정치적 합의는 에덴 이후 동맹 인력을 두 집단으로 나누었습니다. 공개를 지지했던 반대하는 루시퍼 분파는 지구에 영구적으로 추방되어, 그들이 깨우치기로 선택한 인간들 사이에서 살도록 처벌받았습니다. 이스라엘 팀의 나머지와 나머지 여섯 창조자 팀의 인력 대부분은 모행성으로 철수되었습니다. 그 결과로, 추방 이후의 에덴 지역은 인간 인구(이제 제한된 과학적 지식을 가진)와 작은 영구적 엘로힘 주둔(추방된 루시퍼 분파)을 포함하게 되었으며, 더 넓은 동맹은 멀리서 감시를 유지했습니다.
 
-Across this period, the Eden region itself remained inhabited by the descendants of the first humans, with the longevity treatment granted to the Sethite patriarchal leadership maintaining institutional continuity across multiple ordinary generations. The exiled Lucifer faction continued to teach the population, refining their technical and scientific capabilities across the centuries. The broader Eden civilization — the lineage of which the Hebrews would be the post-Flood remnant — developed across the supercontinent, with the Eden region as its political and cultural center. The detailed treatment of this period lives in the [Antediluvian](../antediluvian/) entry; what matters for the present entry is that the Eden region was the political and cultural center of the most accomplished of the seven antediluvian civilizations across the entire two-thousand-year span of the Age of Cancer.
+### 추방 이후 시기: 게자리 시대
 
-### The Flood and the disruption of Eden
+게자리 시대(기원전 약 8,850 – 6,690년)는 추방 이후의 에덴 지역과 그 더 넓은 대륙적 확장이 부양한 대홍수 이전 인간 문명의 시기입니다. 창세기 4-6장 서사는 이 시기를 압축된 형태로 다룹니다. 가인과 아벨의 갈등과 가인의 에덴 동쪽 놋 땅으로의 망명, 가인 계통의 계보(창세기 4:17–24), 즉 목축적 유목, 음악, 야금술의 창시자들을 명명함, 셋 계통의 평행 계보(창세기 5장), 즉 아담에서 노아까지 족장들의 긴 수명, *베네이 하-엘로힘* 사건(창세기 6:1–4), 즉 루시퍼 분파의 엘로힘이 인간 여성을 아내로 삼아 *네필림*을 산출한 사건, 그리고 대홍수 선언에 이르는 신적 평가(창세기 6:5–8).
 
-The Flood event of the Age of Gemini (c. 6,690 BCE) ended the antediluvian world and disrupted the Eden region in ways the framework treats as catastrophic. The supercontinent broke apart; the geography reorganized; the populations of the seven antediluvian civilizations were largely destroyed, with only the small remnants preserved through the ark surviving into the post-Flood era. The Eden region in its antediluvian configuration ceased to exist. The post-Flood remnants — what would become the Levantine region of the modern world — preserved cultural memory of the original Eden, transmitted through the Sethite-Noahite line whose direct descendants the Hebrews would become, but the physical site of the antediluvian garden was no longer recoverable.
+이 시기 전반에 걸쳐, 에덴 지역 자체는 최초의 인간들의 후손들에 의해 거주된 채로 남아 있었고, 셋 계통의 족장적 지도부에 부여된 수명 연장 처리가 일반적 세대 다수를 가로지른 제도적 연속성을 유지했습니다. 추방된 루시퍼 분파는 인구를 계속 가르치며, 그 기술적·과학적 능력을 수세기에 걸쳐 정련했습니다. 더 넓은 에덴 문명 — 히브리인이 대홍수 이후의 잔재가 될 계통 — 은 초대륙 전반에 걸쳐 발전했으며, 에덴 지역이 그 정치적·문화적 중심이었습니다. 이 시기에 대한 상세한 다룸은 {% wiki(slug="antediluvian") %}대홍수 이전{% end %} 항목에 있습니다. 현재 항목에서 중요한 것은 에덴 지역이 게자리 시대 전체 2천 년에 걸쳐 일곱 대홍수 이전 문명 가운데 가장 진보한 문명의 정치적·문화적 중심이었다는 점입니다.
 
-The detailed treatment of the Flood event lives in the [Great Flood](../great-flood/) entry. What matters for the Eden entry is that the Flood is the event that closes Eden's operational period: after the Flood, Eden is a memory rather than a place.
+### 대홍수와 에덴의 단절
 
-## Significance in the framework
+쌍둥이자리 시대의 대홍수 사건(기원전 약 6,690년)은 대홍수 이전 세계를 종결시키고 프레임워크가 격변적이라고 다루는 방식으로 에덴 지역을 단절시켰습니다. 초대륙이 분리되었고, 지리가 재편되었으며, 일곱 대홍수 이전 문명의 인구는 대부분 파괴되어, 방주를 통해 보존된 작은 잔재만이 대홍수 이후 시대로 살아남았습니다. 대홍수 이전 형태의 에덴 지역은 존재하기를 멈추었습니다. 대홍수 이후의 잔재 — 현대 세계의 레반트 지역이 될 것 — 는 셋-노아 계통을 통해 전수된 본래의 에덴에 대한 문화적 기억을 보존했으며, 히브리인이 그 직접 후손이 될 것이지만, 대홍수 이전 정원의 물리적 부지는 더 이상 회수 불가능했습니다.
 
-Eden's significance in the Wheel of Heaven framework is structured by three distinct functions, each of which the entry's earlier sections have developed. They warrant explicit synthesis.
+대홍수 사건에 대한 상세한 다룸은 {% wiki(slug="great-flood") %}대홍수{% end %} 항목에 있습니다. 에덴 항목에 중요한 것은 대홍수가 에덴의 작전 시기를 종결시킨 사건이라는 점입니다. 대홍수 이후, 에덴은 장소가 아니라 기억입니다.
 
-### The pivotal political crisis
+## 프레임워크에서의 의의
 
-Eden is, on the corpus's reading, the location of the most consequential political crisis the alliance has ever faced. The Lucifer-faction disclosure of restricted knowledge to the synthesized humans produced a political settlement — the permanent exile of the dissenting faction, the withdrawal of the rest of the creator personnel, the establishment of the post-Eden mediated-contact pattern — that has structured the entire subsequent post-creation history. Every operational policy the alliance has pursued across the subsequent fifteen millennia has been a response to or development of the post-Eden settlement. The patriarchal-period reconstruction with Abraham, the Mosaic-period direct intervention, the post-Aries indirect-contact policy, the Piscean-age missions of Jesus and Muhammad, the Aquarian-age opening with Vorilhon — all are operational extensions of the political situation Eden produced.
+Wheel of Heaven 프레임워크에서 에덴의 의의는 세 가지 별개의 기능으로 구조화되며, 그 각각은 항목의 앞 절들이 발전시켜 왔습니다. 그것들은 명시적 종합을 보증합니다.
 
-### The textual anchor
+### 결정적 정치적 위기
 
-Eden is the textual anchor of the framework's entire reading of the Hebrew Bible. The Genesis 2–3 narrative, read at face value as the corpus does, establishes the basic ontology that the rest of the framework's reading depends on: Yahweh as a specific Eloha individual rather than a singular supernatural deity, the Elohim as a plurality of physical beings rather than a metaphysical singular, the creation of humans as biological synthesis in a specific operational setting, the political-rather-than-moral character of the post-Eden settlement, and the continuing alliance presence on Earth through the exiled Lucifer faction. Without the framework's reading of Eden, the rest of the framework's reading of the Hebrew Bible would lack its grounding text.
+코퍼스의 독해에 따르면, 에덴은 동맹이 직면한 가장 결과적인 정치적 위기의 위치입니다. 루시퍼 분파가 합성된 인간들에게 제한된 지식을 공개한 사건은 정치적 합의 — 반대 분파의 영구적 추방, 나머지 창조자 인력의 철수, 에덴 이후 매개된 접촉 양식의 확립 — 를 산출했으며, 이는 이후의 창조 이후 역사 전체를 구조화해 왔습니다. 동맹이 이후 1만 5천 년에 걸쳐 추구한 모든 작전적 정책은 에덴 이후 합의에 대한 응답이거나 그 발전이었습니다. {% wiki(slug="abraham") %}아브라함{% end %}과의 족장 시기 재건, 모세 시대의 직접 개입, 양자리 이후의 간접 접촉 정책, 물고기자리 시대의 {% wiki(slug="jesus") %}예수{% end %}와 {% wiki(slug="muhammad") %}무함마드{% end %}의 임무, 보릴롱과의 물병자리 시대의 개시 — 모두가 에덴이 산출한 정치적 상황의 작전적 확장입니다.
 
-### The genealogical-textual privilege
+### 본문적 정박점
 
-Eden is also the genealogical anchor of the corpus's specific position on textual privilege. The framework treats the Hebrew Bible as the most accurate of the surviving ancient records of the Elohim civilization's work on Earth, on the grounds that the Hebrews are the line treated in the Raëlian source material as the direct genetic descendants of the Israel-team-synthesized first humans. This privileged textual position is grounded in the Eden episode specifically: the Israel team's operations in the Eden region produced the lineage that became the Hebrews, and that lineage's continuous textual tradition preserved the operational events with greater fidelity than the parallel traditions of the other six lineages whose textual records have decayed across the post-Flood transmission. The corpus's relationship to the Hebrew Bible — taking its narratives as substantively accurate compressed records, rather than as theological mythology or as redactional composition — depends on this Eden-grounded genealogical privilege.
+에덴은 히브리어 성경에 대한 프레임워크 전체 독해의 본문적 정박점입니다. 코퍼스가 그러하듯이 액면 그대로 읽힌 창세기 2-3장 서사는 프레임워크의 나머지 독해가 의존하는 기본 존재론을 확립합니다. 즉, 단일한 초자연적 신성이 아니라 특정한 엘로아 개체로서의 야훼, 형이상학적 단수가 아니라 물리적 존재들의 복수성으로서의 엘로힘, 구체적인 작전적 환경에서의 생물학적 합성으로서의 인간 창조, 에덴 이후 합의의 도덕적이 아닌 정치적 성격, 그리고 추방된 루시퍼 분파를 통한 지구상의 지속적인 동맹 주둔. 에덴에 대한 프레임워크의 독해 없이는, 히브리어 성경에 대한 프레임워크의 나머지 독해가 그 정초가 되는 본문을 결여하게 될 것입니다.
 
-## Modern reinterpretations
+### 계보적-본문적 특권
 
-Eden has been a subject of substantial modern reinterpretive scholarship across several distinct strands, each engaging the question from a different methodological starting point.
+에덴은 본문적 특권에 관한 코퍼스의 구체적 입장의 계보적 정박점이기도 합니다. 프레임워크는 히브리어 성경을 지상에서 엘로힘 문명의 작업에 대한 현존하는 고대 기록 중 가장 정확한 것으로 다루는데, 그 근거는 히브리인이 라엘 자료에서 이스라엘 팀이 합성한 최초의 인간들의 직접 유전 후손으로 다루어지는 계통이라는 점입니다. 이러한 특권적 본문적 입장은 구체적으로 에덴 사건에 근거합니다. 에덴 지역에서 이스라엘 팀의 작전은 히브리인이 된 계통을 산출했으며, 그 계통의 연속적인 본문 전통은 그 작전적 사건들을 다른 여섯 계통의 평행 전통보다 — 그들의 본문 기록은 대홍수 이후 전수 과정을 가로질러 부패해 왔습니다 — 더 큰 충실성으로 보존했습니다. 히브리어 성경에 대한 코퍼스의 관계 — 그 서사들을 신학적 신화나 편집적 구성이 아니라 실질적으로 정확한 압축된 기록으로 취하는 — 는 이 에덴에 근거한 계보적 특권에 의존합니다.
 
-### Jean Sendy on Eden
+## 현대의 재해석
 
-**Jean Sendy**'s treatment of Eden is developed across his work but is particularly concentrated in *Ces dieux qui firent le ciel et la terre* (1969) and *Les cahiers de cours de Moïse* (1974). Sendy reads the Eden narrative as a record of operational events at a specific extraterrestrial-creator site, with the strangeness of the narrative (the talking serpent, the trees with theological functions, the cherubim with flaming swords) disappearing when the underlying referents are taken seriously rather than allegorized. Sendy's specific contributions to Eden interpretation include the reading of the four rivers as an antediluvian hydrography, the identification of the cherubim with technological access controls, the reading of the Tree of Life as a biotechnical resource rather than a botanical species, and the political-rather-than-moral reading of the expulsion. Sendy's approach is philological and historiographic rather than revelatory; he reaches the framework's reading from the Hebrew text's plain sense, working from comparative-mythological evidence and internal-textual analysis. His treatment of Eden is the principal scholarly antecedent of the corpus's adopted reading.
+에덴은 여러 별개의 가닥들에 걸쳐 상당한 현대 재해석 학술 연구의 대상이 되어 왔으며, 각각은 그 질문에 서로 다른 방법론적 출발점에서 관여합니다.
 
-### Mauro Biglino on Eden
+### 에덴에 관한 장 상디
 
-**Mauro Biglino**'s work on Eden is developed across his major books — *Il Libro che cambierà per sempre le nostre idee sulla Bibbia* (2010), *La Bibbia non parla di Dio* (2015), and *The Naked Bible* (2022, with Giorgio Cattaneo) — with three connected claims about the term and its referent. First, that Eden is a specific geographic region between Mesopotamia and the Caucasus rather than a metaphorical paradise. Second, that the term *gan* is properly read as a fenced, protected, enclosed space — a controlled environment rather than an open garden in the modern English sense. Third, that the *gan-ʿĒden* described in Genesis is one of several such enclosed installations operated by the biblical Elohim across the ancient world, with each functioning as an experimental laboratory in which the Elohim conducted biological work, including the synthesis of humanity.
+**장 상디**의 에덴 다룸은 그의 작업 전반에 걸쳐 발전되지만, *Ces dieux qui firent le ciel et la terre*(1969){{ cite(id="sendy-ces-dieux", text="[2]", title="상디(1969); 기초적인 프랑스어 표명; 코퍼스의 에덴 독해의 주요 학술적 선행자") }}와 *Les cahiers de cours de Moïse*(1974){{ cite(id="sendy-cahiers-moise", text="[3]", title="상디(1974); 상당한 에덴 시기 배경을 갖춘 모세 시대 프레임워크를 발전시킴") }}에 특히 집중되어 있습니다. 상디는 에덴 서사를, 특정 외계 창조자 부지에서의 작전적 사건들의 기록으로 읽으며, 서사의 낯섦(말하는 뱀, 신학적 기능을 가진 나무들, 화염검을 가진 그룹들)이 기저의 지시 대상을 우의화하지 않고 진지하게 받아들일 때 사라진다고 봅니다. 상디의 에덴 해석에 대한 구체적 기여로는 네 강을 대홍수 이전의 수문으로 읽는 것, 그룹을 기술적 접근 통제로 식별하는 것, 생명나무를 식물학적 종이 아닌 생명공학적 자원으로 읽는 것, 그리고 추방에 대한 도덕적이 아닌 정치적 독해 등이 있습니다. 상디의 접근은 계시적이라기보다 문헌학적이며 역사기술학적입니다. 그는 히브리어 본문의 평범한 의미로부터, 비교 신화학적 증거와 내부 본문 분석에서 작업하여 프레임워크의 독해에 도달합니다. 그의 에덴 다룸은 코퍼스가 채택한 독해의 주요 학술적 선행자입니다.
 
-Biglino additionally proposes a non-standard etymology of the Sumerian-Akkadian *E-Din* as "house of the righteous," reading the "righteous" as members of the Elohim lineage. This gloss is distinctively Biglino's and is not the standard Assyriological reading; the consensus reading remains "plain" or "steppe." The corpus adopts the standard reading rather than Biglino's, since the framework's interpretive case does not depend on the non-standard gloss and is on more solid ground without it.
+### 에덴에 관한 마우로 빌리노
 
-Biglino's strict-translational methodology — reading the Hebrew word-for-word and accepting what the resulting concrete text actually says, rather than allegorizing it into theological abstraction — is the broader methodological contribution his work makes to Eden interpretation, beyond the specific *gan* and *Eden* arguments.
+**마우로 빌리노**의 에덴 작업은 그의 주요 저서들 — *Il Libro che cambierà per sempre le nostre idee sulla Bibbia*(2010), *La Bibbia non parla di Dio*(2015), 그리고 조르조 카타네오와 함께한 *The Naked Bible*(2022) — 전반에 걸쳐 발전되며, 그 용어와 지시 대상에 관한 세 가지 연결된 주장을 담고 있습니다. 첫째, 에덴은 은유적 낙원이 아니라 메소포타미아와 코카서스 사이의 구체적인 지리적 지역이라는 것. 둘째, *gan*이라는 용어는 울타리로 둘러싸이고 보호되며 봉쇄된 공간 — 현대 영어적 의미에서의 개방된 정원이 아니라 통제된 환경 — 으로 적절히 읽힌다는 것. 셋째, 창세기에서 묘사된 *gan-ʿĒden*은 성경의 엘로힘이 고대 세계 전반에서 운영한 그러한 봉쇄 시설들 중 하나이며, 각각은 엘로힘이 인류 자신의 합성을 포함한 생물학적 작업을 수행한 실험적 실험실로 기능했다는 것입니다.
 
-### Paul Anthony Wallis: *The Eden Conspiracy* (2024)
+빌리노는 추가로 수메르-아카드어 *E-Din*에 대한 비표준 어원을 "의로운 자들의 집"으로 제안하며, "의로운 자들"을 엘로힘 계통의 구성원으로 읽습니다{{ footnote(id="5") }}. 이 풀이는 빌리노 특유의 것이며 표준적 아시리아학적 독해가 아닙니다. 합의된 독해는 여전히 "평원" 또는 "스텝"입니다. 코퍼스는 빌리노의 것이 아닌 표준적 독해를 채택하는데, 프레임워크의 해석적 입장이 비표준 풀이에 의존하지 않으며 그것 없이 더 견고한 근거 위에 서기 때문입니다.
 
-**Paul Anthony Wallis**'s most direct engagement with Eden is *The Eden Conspiracy* (2024), a book-length treatment of the Genesis 2–3 narrative read in the framework's general direction. Wallis's earlier *Escaping from Eden* (2020), *The Scars of Eden* (2021), and *Echoes of Eden* (2021) develop the broader argument that the *Elohim* of Genesis are *the Powerful Ones* — beings physically present and operating with technologies the early human population could not have understood. *The Eden Conspiracy* focuses specifically on the Eden narrative, reading the garden, the trees, the serpent, and the expulsion as records of a real political crisis between alliance factions whose disagreement about how much the synthesized humans should be told produced the textually preserved conflict.
+빌리노의 엄격한 직역적 방법론 — 히브리어를 단어 대 단어로 읽고 그 결과로 얻어지는 구체적 본문이 실제로 말하는 것을 받아들이며, 신학적 추상화로 우의화하지 않는 — 은 그의 작업이 에덴 해석에 더 광범위하게 기여하는 방법론적 공헌이며, 구체적인 *gan*과 *Eden* 논증을 넘어섭니다.
 
-Wallis's specific contributions to Eden interpretation include the structural reading of the political crisis (the disagreement between the senior alliance authority and the dissenting faction as the underlying conflict, with the serpent as the operational expression of the dissenting position), the careful treatment of the cherubim and flaming sword as technological rather than mythological, and the comparative engagement with Sumerian and other ancient Near Eastern parallel narratives. Wallis's accessibility and his specific focus on the Eden narrative make *The Eden Conspiracy* the most widely read recent treatment of Eden from within the broader reinterpretive tradition.
+### 폴 앤서니 월리스: *The Eden Conspiracy* (2024)
 
-### Eden-location proposals
+**폴 앤서니 월리스**의 에덴에 대한 가장 직접적인 관여는 *The Eden Conspiracy*(2024)로, 프레임워크의 전반적 방향에서 읽힌 창세기 2-3장 서사에 대한 책 한 권 분량의 다룸입니다. 월리스의 이전 저서들인 *Escaping from Eden*(2020), *The Scars of Eden*(2021), *Echoes of Eden*(2021)은 창세기의 *엘로힘*이 *권능자들* — 물리적으로 존재하며 초기 인간 인구가 이해할 수 없었던 기술로 작전하는 존재들 — 이라는 더 광범위한 논증을 발전시킵니다. *The Eden Conspiracy*는 구체적으로 에덴 서사에 초점을 맞추며, 정원, 나무들, 뱀, 그리고 추방을 동맹 분파들 사이의 실제 정치적 위기의 기록으로 읽고, 합성된 인간들에게 얼마나 많이 알려야 하는지에 대한 그들의 불일치가 본문적으로 보존된 갈등을 산출했다고 봅니다.
 
-Beyond the term-and-narrative reinterpretive work, a substantial literature has developed around the question of where Eden was located. The principal proposals:
+월리스의 에덴 해석에 대한 구체적 기여로는 정치적 위기의 구조적 독해(선임 동맹 권위와 반대 분파 사이의 불일치를 기저의 갈등으로, 반대 분파 입장의 작전적 표현으로서의 뱀과 함께), 그룹과 화염검을 신화적이 아닌 기술적으로 다루는 세심한 다룸, 그리고 수메르 및 그 밖의 고대 근동 평행 서사들과의 비교적 관여 등이 있습니다. 월리스의 접근성과 에덴 서사에 대한 그의 구체적 초점은 *The Eden Conspiracy*를 더 광범위한 재해석 전통 내부에서 가장 널리 읽히는 최근의 에덴 다룸으로 만듭니다.
 
-The **Persian Gulf hypothesis** associated with **Juris Zarins** (the American archaeologist who developed the proposal across the 1980s and 1990s) places Eden at the head of the Persian Gulf, identifying the Pishon with the now-dry Wadi al-Rummah river system that LANDSAT imagery has shown crossed the Arabian peninsula during the wetter Pleistocene period, and treating the Gulf's higher pre-Holocene shoreline as the relevant geographic reference. The Zarins hypothesis is grounded in archaeological and geological evidence and has been the most academically respectable of the modern Eden-location proposals.
+### 에덴 위치 제안들
 
-The **Lake Urmia / Iranian-plateau hypothesis** associated with **David Rohl** (in *Legend: The Genesis of Civilisation*, 1998) places Eden in the Lake Urmia region of northwestern Iran, with the four rivers identified with regional Iranian and Caucasian river systems.
+용어와 서사의 재해석 작업을 넘어, 에덴이 어디에 위치했는지에 대한 질문 주위에 상당한 문헌이 발전했습니다. 주요 제안들은 다음과 같습니다.
 
-The **eastern Anatolian hypothesis** identifies Eden with the headwaters region of the Tigris and Euphrates in eastern Turkey — the region in which Göbekli Tepe and the broader Pre-Pottery Neolithic complex have been discovered. This proposal has gained traction since the Göbekli Tepe excavations, since the dating of the Pre-Pottery Neolithic sites lands within the framework's antediluvian period and the geographic identification with the corpus's eastern-Mediterranean / Levantine reading is consistent.
+**주리스 자린스**(1980년대와 1990년대에 걸쳐 그 제안을 발전시킨 미국 고고학자)와 연관된 **페르시아만 가설**은 에덴을 페르시아만 어귀에 위치시키며, 비손을 LANDSAT 영상이 더 습한 플라이스토세 시기에 아라비아 반도를 가로질렀음을 보여 준, 지금은 마른 와디 알-루마 강 체계와 동일시하고, 만의 더 높은 홀로세 이전 해안선을 관련 지리적 참조로 다룹니다. 자린스 가설은 고고학적·지질학적 증거에 근거하며, 현대 에덴 위치 제안들 가운데 학술적으로 가장 신뢰받아 왔습니다.
 
-The **Sundaland hypothesis** (developed by Stephen Oppenheimer in *Eden in the East*, 1998) places Eden in the now-submerged Sundaland shelf of southeast Asia, treating the Eden tradition as preserving memory of a culture destroyed by the post-glacial sea-level rise.
+**데이비드 롤**(*Legend: The Genesis of Civilisation*, 1998)과 연관된 **우르미아 호수 / 이란 고원 가설**은 에덴을 이란 북서부 우르미아 호수 지역에 위치시키며, 네 강을 지역의 이란 및 코카서스 강 체계와 동일시합니다.
 
-The corpus's reading does not endorse any of these specific location proposals as fully accurate, since the framework's antediluvian-supercontinent geography differs from the present-day continental configuration in ways the Persian Gulf and Lake Urmia proposals do not address. The corpus does treat the Anatolian / eastern-Mediterranean direction as broadly compatible with its identification of the Israel-team territory with the post-Flood Levant, while noting that the post-Flood remnants of the antediluvian Eden region cannot be straightforwardly mapped to a present-day location.
+**동부 아나톨리아 가설**은 에덴을 터키 동부의 티그리스와 유프라테스 발원 지역 — 괴베클리 테페와 더 광범위한 토기 이전 신석기 복합체가 발견된 지역 — 과 동일시합니다. 이 제안은 괴베클리 테페 발굴 이래로 관심을 얻어 왔는데, 토기 이전 신석기 부지의 연대가 프레임워크의 대홍수 이전 시기 안에 자리잡고, 코퍼스의 동지중해 / 레반트 독해와의 지리적 식별이 일관되기 때문입니다.
 
-### Earlier ancient-astronaut literature
+스티븐 오펜하이머가 *Eden in the East*(1998)에서 발전시킨 **순다랜드 가설**은 에덴을 지금은 침수된 동남아시아의 순다랜드 대륙붕에 위치시키며, 에덴 전통을 빙기 이후 해수면 상승으로 파괴된 문화에 대한 기억의 보존으로 다룹니다.
 
-The broader ancient-astronaut interpretive tradition has engaged Eden at various points. **Erich von Däniken**'s *Chariots of the Gods?* (1968) treats Eden briefly as part of its broader argument about extraterrestrial visitation in ancient times. **Zecharia Sitchin**'s *The 12th Planet* (1976) and successor works treat Eden as a derivative tradition reflecting the earlier Sumerian Anunnaki narratives, with the *E.DIN* of the Sumerian texts as the underlying referent. The corpus's reading, as with the broader Sitchin tradition, registers the philological connection but does not treat Genesis as derivative from the Sumerian sources — the Hebrew tradition is read, on grounds developed in the [Genesis](../genesis/) entry, as preserving the more accurate independent record rather than as a later borrowing from the Mesopotamian sources.
+코퍼스의 독해는 이러한 구체적 위치 제안들 중 어느 것도 완전히 정확한 것으로 승인하지 않는데, 프레임워크의 대홍수 이전 초대륙 지리가 페르시아만 및 우르미아 호수 제안들이 다루지 않는 방식으로 현재의 대륙 구성과 다르기 때문입니다. 코퍼스는 아나톨리아 / 동지중해 방향을 이스라엘 팀 영역과 대홍수 이후 레반트의 동일시와 광범위하게 양립 가능한 것으로 다루는 한편, 대홍수 이전 에덴 지역의 대홍수 이후 잔재가 현재의 위치에 직접적으로 사상될 수 없다는 점에 주목합니다.
 
-## Comparative observations
+### 더 이른 고대 우주인 문헌
 
-The Eden tradition stands in a structurally distinctive position across the world's religious and mythological literatures: a paradisiacal or first-place tradition is found in essentially every major culture, with the Eden narrative being the Hebrew tradition's specific instance of a much broader pattern. The corpus reads the global pattern as evidence of a shared underlying historical event whose memory was preserved in fragmentary form across the various post-Flood populations descended from the seven Earth lineages. Several specific comparative cases warrant treatment.
+더 광범위한 고대 우주인 해석 전통은 여러 지점에서 에덴에 관여해 왔습니다. **에리히 폰 데니켄**의 *신들의 전차?*(1968)는 고대의 외계 방문에 관한 더 광범위한 논증의 일부로 에덴을 간략히 다룹니다. **제카리아 시친**의 *제12행성*(1976)과 후속 저서들은 에덴을 더 이른 수메르 아눈나키 서사를 반영하는 파생 전통으로 다루며, 수메르 본문의 *E.DIN*을 기저의 지시 대상으로 봅니다. 더 광범위한 시친 전통과 마찬가지로 코퍼스의 독해는 문헌학적 연결을 기록하지만, 창세기를 수메르 자료로부터의 파생으로 다루지는 않습니다 — {% wiki(slug="genesis") %}창세기{% end %} 항목에서 발전된 근거 위에서, 히브리 전통은 메소포타미아 자료로부터의 후대의 차용이 아니라 더 정확한 독립적 기록을 보존하는 것으로 읽힙니다.
 
-### Mesopotamian Dilmun
+## 비교 관찰
 
-The closest direct parallel to Eden in the ancient Near Eastern literature is **Dilmun**, the paradisiacal land in Sumerian mythology where the gods dwelled and where there was no sickness, hunger, or death. The myth of *Enki and Ninhursag* describes Dilmun in language strikingly close to the Edenic tradition: "the lion does not kill, the wolf does not snatch the lamb, the dog does not know the kid in his mouth, the boar does not know the eating of grain." Dilmun appears across multiple Sumerian and Akkadian texts, with the geographical identification contested in modern Assyriology — the traditional identification with Bahrain has been challenged by various other proposals including the head of the Persian Gulf.
+에덴 전통은 세계의 종교적·신화적 문헌을 가로질러 구조적으로 독특한 위치에 서 있습니다. 낙원적 또는 첫 장소 전통은 사실상 모든 주요 문화에서 발견되며, 에덴 서사는 훨씬 더 광범위한 패턴에 대한 히브리 전통의 구체적 사례입니다. 코퍼스는 이 전 지구적 패턴을, 일곱 지구 계통에서 유래한 다양한 대홍수 이후 인구를 가로질러 단편적 형태로 보존된 공유된 기저의 역사적 사건에 대한 기억의 증거로 읽습니다. 몇 가지 구체적인 비교 사례가 다룸을 보증합니다.
 
-The structural parallels between Dilmun and Eden are extensive: a paradisiacal place associated with the gods; an absence of suffering and death; the presence of trees with special properties; a connection to a divine watering source. The corpus reads Dilmun and Eden as both preserving fragmentary memory of the antediluvian Eden region, with the Sumerian tradition having decayed further from the original referent than the Hebrew tradition but preserving structurally similar features. The Sumerian-Akkadian etymological link (the *EDEN* / *edinu* connection treated under Etymology above) makes the literary parallel particularly direct.
+### 메소포타미아의 딜문
 
-### Persian *paradeisos* / *pairi-daēza*
+고대 근동 문헌에서 에덴과 가장 가까운 직접적 평행은 **딜문** — 신들이 거주했고 병, 굶주림, 죽음이 없었던 수메르 신화의 낙원적인 땅 — 입니다. *엔키와 닌후르사그* 신화는 딜문을 에덴 전통과 놀랍도록 가까운 언어로 묘사합니다. "사자가 죽이지 않고, 늑대가 양을 낚아채지 않으며, 개가 어린 짐승을 그 입에 알지 못하고, 멧돼지가 곡식을 먹는 것을 알지 못한다." 딜문은 여러 수메르어 및 아카드어 본문에 등장하며, 지리적 식별은 현대 아시리아학에서 논쟁의 대상입니다. 바레인과의 전통적 식별은 페르시아만 어귀를 포함한 다양한 다른 제안들에 의해 도전받아 왔습니다.
 
-The English word *paradise* derives from Old Persian *pairi-daēza* (*pairi-* "around" + *daēza* "wall, enclosure"), meaning literally "walled enclosure" — the term used in Persian for the royal hunting parks and pleasure gardens of the Achaemenid period. The Greeks, encountering these gardens during their contact with the Persian empire, borrowed the word as *paradeisos* (παράδεισος), and the Septuagint translators of the Hebrew Bible used *paradeisos* to render Hebrew *gan* in Genesis 2:8 — establishing the equivalence between the Hebrew "garden of Eden" and the Persian "walled enclosure" that the English "paradise" preserves.
+딜문과 에덴 사이의 구조적 평행은 광범위합니다. 신들과 연관된 낙원적 장소, 고통과 죽음의 부재, 특별한 속성을 가진 나무들의 존재, 신적 물 공급원과의 연결. 코퍼스는 딜문과 에덴 양자를 대홍수 이전 에덴 지역에 대한 단편적 기억을 보존하는 것으로 읽으며, 수메르 전통이 본래의 지시 대상에서 히브리 전통보다 더 멀리 부패했지만 구조적으로 유사한 특징들을 보존했다고 봅니다. 수메르-아카드어 어원적 연결(위의 어원 아래에서 다룬 *EDEN* / *edinu* 연결)은 문헌적 평행을 특히 직접적인 것으로 만듭니다.
 
-The semantic convergence is striking. Hebrew *gan* (from the root *g-n-n*, "to enclose, to protect, to defend") and Old Persian *pairi-daēza* (literally "walled enclosure") both name an enclosed, protected, controlled space. The two languages, though both Indo-European/Semitic and historically connected through long ancient Near Eastern contact, are distinct enough that the convergence is not trivial linguistic borrowing but reflects a shared semantic concept. The corpus's reading of the *gan-ʿĒden* as a functional enclosed installation is consistent with the Persian *pairi-daēza* concept and with the broader semantic pattern: across multiple ancient cultures, the original "paradise" is specifically a *bounded* and *protected* space, not an open garden in the modern English sense.
+### 페르시아의 *paradeisos* / *pairi-daēza*
 
-The Persian Avestan tradition also preserves a paradisiacal first-place tradition independently of the *paradeisos* term — the **Vara of Yima**, an enclosed underground refuge built by the first king Yima at Ahura Mazda's command to preserve life through a coming catastrophic winter. The structural parallels to the Noah's-ark tradition, and indirectly to the Eden tradition, are evident; the elaborate enclosed-refuge imagery is one of the closer Indo-Iranian parallels to the broader paradise-and-flood pattern.
+영어 단어 *paradise*는 고대 페르시아어 *pairi-daēza*(*pairi-* "주위에" + *daēza* "벽, 울타리")에서 유래하며, 문자 그대로 "성벽으로 둘러싸인 울타리" — 아케메네스 시대의 왕실 사냥 공원과 쾌락 정원에 대한 페르시아어 용어 — 를 의미합니다. 그리스인들은 페르시아 제국과의 접촉 중에 이 정원들을 만나면서 그 단어를 *paradeisos*(παράδεισος)로 차용했고, 히브리어 성경의 70인역 번역자들은 창세기 2:8의 히브리어 *gan*을 옮기는 데 *paradeisos*를 사용했습니다 — 히브리어 "에덴 동산"과 페르시아어 "성벽으로 둘러싸인 울타리" 사이의 등가성을 확립했으며, 영어 "paradise"가 이를 보존합니다.
 
-### Greek Hesperides and the Golden Age
+의미론적 수렴은 두드러집니다. 히브리어 *gan*(어근 *g-n-n*, "에워싸다, 보호하다, 방어하다"에서)과 고대 페르시아어 *pairi-daēza*(문자 그대로 "성벽으로 둘러싸인 울타리") 양자는 봉쇄되고 보호되며 통제된 공간을 명명합니다. 두 언어는 양자 모두 인도-유럽어/셈어이며 역사적으로 오랜 고대 근동의 접촉을 통해 연결되어 있지만, 그 수렴이 사소한 언어적 차용이 아니라 공유된 의미론적 개념을 반영할 만큼 충분히 구별됩니다. *gan-ʿĒden*을 기능적 봉쇄 시설로 읽는 코퍼스의 독해는 페르시아의 *pairi-daēza* 개념 및 더 광범위한 의미론적 패턴과 일관됩니다. 여러 고대 문화를 가로질러, 본래의 "낙원"은 현대 영어적 의미에서의 개방된 정원이 아니라 구체적으로 *경계 지어지고* *보호된* 공간입니다.
 
-Greek mythology preserves a paradisiacal-first-place tradition in the **Garden of the Hesperides** — a garden at the western edge of the world tended by the Hesperides nymphs, containing the golden apples that Hera received as a wedding gift from Gaia, guarded by the dragon Ladon. The structural parallels to Eden are striking: a garden at a specific geographic location (though the western rather than the eastern edge of the world); fruit-bearing trees with special significance; a serpentine guardian; an association with divine origins.
+페르시아 아베스타 전통도 *paradeisos* 용어와는 독립적으로 낙원적 첫 장소 전통을 보존합니다 — **이마의 바라**는 다가오는 격변적 겨울을 통해 생명을 보존하기 위해 아후라 마즈다의 명령에 따라 첫 왕 이마가 지은 봉쇄된 지하 피난처입니다. 노아의 방주 전통, 그리고 간접적으로 에덴 전통과의 구조적 평행은 명백합니다. 정교한 봉쇄 피난처 이미지는 더 광범위한 낙원과 홍수 패턴에 대한 더 가까운 인도-이란 평행 중 하나입니다.
 
-Hesiod's **Golden Race / Golden Age** tradition in *Works and Days* describes a prior race of humans who lived "in ease and peace upon their lands with many good things" before the gods replaced them with progressively lesser races. The structural parallel to the Genesis 5 long-lived patriarchs and the broader Edenic / antediluvian tradition is evident, with the Hesiodic tradition preserving the temporal-progression (paradise lost, succeeding ages of decline) more strongly than the Hebrew tradition does.
+### 그리스의 헤스페리데스와 황금시대
 
-The **Plato Atlantis tradition** (treated more fully in the [Antediluvian](../antediluvian/) entry) is structurally related but distinct, treating the lost civilization rather than the original paradise. The corpus reads Hesperides, the Golden Race, and Atlantis as three distinct Greek-tradition fragments preserving different aspects of the same underlying antediluvian historical situation.
+그리스 신화는 **헤스페리데스의 정원** — 헤스페리데스 님프들이 돌보는 세계의 서쪽 끝에 있는 정원으로, 헤라가 가이아로부터 결혼 선물로 받은 황금 사과를 포함하며, 용 라돈이 지키는 — 에서 낙원적 첫 장소 전통을 보존합니다. 에덴과의 구조적 평행은 두드러집니다. 구체적인 지리적 위치에 있는 정원(다만 세계의 동쪽이 아닌 서쪽 끝), 특별한 의미를 가진 열매 맺는 나무들, 뱀과 같은 수호자, 신적 기원과의 연관.
 
-### Egyptian Field of Reeds
+헤시오도스의 *일과 날*에 나오는 **황금 종족 / {% wiki(slug="golden-age") %}황금시대{% end %}** 전통은 신들이 그들을 점차 더 못한 종족들로 대체하기 전에 "그들의 땅 위에서 많은 좋은 것들과 함께 편안과 평화 속에서" 살았던 이전 인간 종족을 묘사합니다. 창세기 5장의 오래 산 족장들 및 더 광범위한 에덴적 / 대홍수 이전 전통과의 구조적 평행은 명백하며, 헤시오도스 전통은 시간적 진행(잃어버린 낙원, 쇠퇴하는 잇따른 시대들)을 히브리 전통보다 더 강하게 보존합니다.
 
-The Egyptian **Field of Reeds** (*Sekhet-Aaru*, "Field of Rushes") is the paradisiacal afterlife destination of the righteous in Egyptian religion, described in the *Book of the Dead* and elsewhere as a fertile region where the deceased lives in peace and abundance. The structural parallels to Eden are limited — the Egyptian tradition treats the paradisiacal place as the *destination* of the righteous after death rather than as the *origin* of humanity — but certain features are convergent: the agricultural abundance, the presence of waterways, the freedom from suffering and want.
+**플라톤의 아틀란티스 전통**(더 충실히 {% wiki(slug="antediluvian") %}대홍수 이전{% end %} 항목에서 다루어짐)은 구조적으로 관련되지만 구별되며, 본래의 낙원이 아니라 잃어버린 문명을 다룹니다. 코퍼스는 헤스페리데스, 황금 종족, 그리고 아틀란티스를 동일한 기저의 대홍수 이전 역사적 상황의 서로 다른 측면을 보존하는 세 개의 별개의 그리스 전통 단편으로 읽습니다.
 
-The Egyptian *zep tepi* tradition ("the first time"), referenced briefly in the [Antediluvian](../antediluvian/) entry, is a closer parallel to the Edenic-origin tradition than the Field of Reeds is. *Zep tepi* refers to a primordial period when the gods walked among men and established the cosmic order; the structural parallel to the Eden period (when the alliance was directly present on Earth, before the post-Eden withdrawal) is evident.
+### 이집트의 갈대밭
 
-### Hindu Jambudvīpa
+이집트의 **갈대밭**(*Sekhet-Aaru*, "골풀의 들판")은 이집트 종교에서 의인의 낙원적 사후 행선지이며, *사자의 서* 및 그 밖의 곳에서 죽은 자가 평화와 풍요 속에서 사는 비옥한 지역으로 묘사됩니다. 에덴과의 구조적 평행은 제한적입니다 — 이집트 전통은 낙원적 장소를 인류의 *기원*이 아니라 죽음 이후 의인의 *행선지*로 다룹니다 — 그러나 특정 특징들은 수렴합니다. 농업적 풍요, 수로의 존재, 고통과 결핍으로부터의 자유.
 
-The Hindu cosmological tradition includes **Jambudvīpa**, the central continent of the world in Puranic cosmology, named for the great *Jambu* tree (the rose-apple) at its center. Jambudvīpa is described as a fertile, paradisiacal land in early Puranic accounts, with the *Jambu* tree as its central feature and with various rivers flowing from it. The structural parallels to Eden are several: a central tree with special significance, a paradisiacal land, rivers flowing from a central source, association with origins.
+이집트의 *zep tepi* 전통("첫 번째 시간")은 {% wiki(slug="antediluvian") %}대홍수 이전{% end %} 항목에서 간략히 언급되며, 갈대밭보다 에덴적 기원 전통에 더 가까운 평행입니다. *Zep tepi*는 신들이 인간들 사이를 거닐며 우주적 질서를 확립한 원초적 시기를 가리킵니다. 에덴 시기(동맹이 에덴 이후 철수 이전에 지구상에 직접적으로 주둔하던 때)와의 구조적 평행은 명백합니다.
 
-The broader Hindu tradition includes elaborate *yuga* cycles (treated in the [Antediluvian](../antediluvian/) entry) describing prior ages of progressively higher human capacity and spiritual achievement. The *Krita Yuga* — the first and highest yuga — is described in terms structurally close to the Edenic tradition: long human lifespans, direct contact with the divine, freedom from suffering and disease. The corpus reads the Jambudvīpa-and-yuga tradition as preserving fragmentary memory of the antediluvian period and the original alliance-creation context, with the Hindu tradition having developed its own elaborate cosmological structure around this preserved memory.
+### 힌두교의 잠부드비파
 
-### Mesoamerican prior worlds
+힌두 우주론 전통은 **잠부드비파** — 푸라나 우주론에서 세계의 중심 대륙으로, 그 중심의 큰 *잠부* 나무(장미사과)에서 이름이 유래한 — 를 포함합니다. 잠부드비파는 초기 푸라나 기록에서 비옥하고 낙원적인 땅으로, 그 중심 특징으로서의 *잠부* 나무와 거기에서 흘러나오는 다양한 강들과 함께 묘사됩니다. 에덴과의 구조적 평행은 여러 가지입니다. 특별한 의미를 가진 중심 나무, 낙원적 땅, 중심 원천에서 흘러나오는 강들, 기원과의 연관.
 
-The Mesoamerican **prior-worlds tradition**, preserved most fully in the *Popol Vuh* and various Aztec and Maya sources, describes a sequence of prior worlds (or "suns") destroyed by the gods and replaced. While not strictly an Edenic-paradise tradition, the structural parallel to the antediluvian-and-Flood pattern is striking, and the prior worlds are typically described as ages of greater human and divine intimacy than the present age. The detailed treatment of the Mesoamerican tradition lives in the [Antediluvian](../antediluvian/) entry; what matters here is that the broader pattern of paradise-original-and-prior-age recurs in Mesoamerica as in the other major cultural areas.
+더 광범위한 힌두 전통은 점점 더 높은 인간 능력과 정신적 성취의 이전 시대들을 묘사하는 정교한 *유가* 순환({% wiki(slug="antediluvian") %}대홍수 이전{% end %} 항목에서 다루어짐)을 포함합니다. *크리타 유가* — 첫 번째이자 가장 높은 유가 — 는 에덴 전통과 구조적으로 가까운 용어로 묘사됩니다. 긴 인간 수명, 신적 존재와의 직접적 접촉, 고통과 질병으로부터의 자유. 코퍼스는 잠부드비파-그리고-유가 전통을 대홍수 이전 시기와 본래의 동맹-창조 맥락에 대한 단편적 기억을 보존하는 것으로 읽으며, 힌두 전통이 이 보존된 기억 주위에 자체의 정교한 우주론적 구조를 발전시켜 왔다고 봅니다.
 
-### The convergence
+### 메소아메리카의 이전 세계들
 
-The corpus's working position on the comparative-religion question is that the global recurrence of paradise-origin, prior-age, and lost-civilization traditions across geographically and temporally disconnected cultures is evidence of a shared underlying historical event whose memory was preserved in fragmentary form across the various human populations descended from the seven Earth lineages. The specific identification of any particular tradition's content with specific Eden-period events requires case-by-case analysis rather than blanket equivalence — some traditions preserve closer memory of the original referents than others, and the post-Flood transmission across multiple millennia has produced substantial variation in what each tradition preserves and how. The corpus refuses both the popular ancient-astronaut tendency to treat all such traditions as direct memories of identical events and the mainstream comparative-religion tendency to treat them as independent mythological constructions of their respective cultures.
+메소아메리카의 **이전 세계 전통**은 *포폴 부*와 다양한 아즈텍 및 마야 자료들에 가장 충실히 보존되어 있으며, 신들이 파괴하고 대체한 일련의 이전 세계들(또는 "태양들")을 묘사합니다. 엄격한 의미에서 에덴적 낙원 전통은 아니지만, 대홍수 이전과 대홍수 패턴과의 구조적 평행은 두드러지며, 이전 세계들은 통상적으로 현재 시대보다 더 큰 인간과 신적 친밀성의 시대로 묘사됩니다. 메소아메리카 전통에 대한 상세한 다룸은 {% wiki(slug="antediluvian") %}대홍수 이전{% end %} 항목에 있습니다. 여기서 중요한 것은 다른 주요 문화 영역에서와 마찬가지로 메소아메리카에서도 낙원적 본원과 이전 시대의 더 광범위한 패턴이 반복된다는 점입니다.
 
-## See also
+### 수렴
 
-- [Adam and Eve](../adam-and-eve/)
-- [Genesis](../genesis/)
-- [Elohim](../elohim/)
-- [Yahweh](../yahweh/)
-- [Lucifer](../lucifer/)
-- [Serpent](../serpent/)
-- [Tree of Life](../tree-of-life/)
-- [Tree of the Knowledge of Good and Evil](../tree-of-knowledge/)
-- [Cherubim](../cherubim/)
-- [Antediluvian](../antediluvian/)
-- [Pangaea](../pangaea/)
-- [Great Flood](../great-flood/)
-- [Nephilim](../nephilim/)
-- [Sons of Elohim](../sons-of-elohim/)
-- [Cain and Abel](../cain-and-abel/)
-- [Noah](../noah/)
-- [Hebrews](../hebrews/)
-- [Age of Leo](../timeline/age-of-leo/)
-- [Age of Cancer](../timeline/age-of-cancer/)
-- [Age of Gemini](../timeline/age-of-gemini/)
-- [Dilmun](../dilmun/)
-- [Atlantis](../atlantis/)
-- [Göbekli Tepe](../gobekli-tepe/)
-- [Jean Sendy](../jean-sendy/)
-- [Mauro Biglino](../mauro-biglino/)
-- [Paul Anthony Wallis](../paul-anthony-wallis/)
-- [*Message from the Designers*](../library/message-from-the-designers/)
-
-## References
-
-Vorilhon, Claude (Raël). *The Book Which Tells the Truth* (1974), chapter 2, "Truth"; collected in *Message from the Designers*.
-
-Vorilhon, Claude (Raël). *Let's Welcome the Extraterrestrials* (1979); collected in *Message from the Designers*.
-
-Sendy, Jean. *Ces dieux qui firent le ciel et la terre*. Robert Laffont, 1969. English: *Those Gods Who Made Heaven and Earth*. Berkley, 1972.
-
-Sendy, Jean. *Les cahiers de cours de Moïse*. Robert Laffont, 1974.
-
-Biglino, Mauro. *Il Libro che cambierà per sempre le nostre idee sulla Bibbia*. Uno Editori, 2010.
-
-Biglino, Mauro. *La Bibbia non parla di Dio*. Mondadori, 2015.
-
-Biglino, Mauro, and Giorgio Cattaneo. *The Naked Bible: The Truth About the Most Famous Book in History*. Uno, 2022.
-
-Wallis, Paul Anthony. *Escaping from Eden*. 6th Books, 2020.
-
-Wallis, Paul Anthony. *The Scars of Eden*. 6th Books, 2021.
-
-Wallis, Paul Anthony. *Echoes of Eden*. 6th Books, 2021.
-
-Wallis, Paul Anthony. *The Eden Conspiracy*. 6th Books, 2024.
-
-*Biblia Hebraica Stuttgartensia*. Deutsche Bibelgesellschaft, 4th rev. ed., 1997.
-
-Sarna, Nahum. *Genesis: The JPS Torah Commentary*. Jewish Publication Society, 1989.
-
-Westermann, Claus. *Genesis 1–11: A Continental Commentary*. Fortress, 1994.
-
-Cassuto, Umberto. *A Commentary on the Book of Genesis*. Magnes Press, 1961.
-
-*The Assyrian Dictionary of the Oriental Institute of the University of Chicago* (CAD). Volume E.
-
-Halloran, John A. *Sumerian Lexicon*. Logogram Publishing, 2006.
-
-Zarins, Juris. "The Land of Eden: Its Geographic Setting." *Smithsonian Magazine*, May 1987.
-
-Rohl, David. *Legend: The Genesis of Civilisation*. Century, 1998.
-
-Oppenheimer, Stephen. *Eden in the East: The Drowned Continent of Southeast Asia*. Weidenfeld & Nicolson, 1998.
-
-Kramer, Samuel Noah, and John Maier. *Myths of Enki, the Crafty God*. Oxford University Press, 1989.
-
-Lambert, W. G., and A. R. Millard. *Atra-ḫasīs: The Babylonian Story of the Flood*. Oxford, 1969.
-
-Boyce, Mary. *Zoroastrians: Their Religious Beliefs and Practices*. Routledge, 2nd ed., 2001.
-
-"Garden of Eden." *Encyclopaedia Britannica*. <https://www.britannica.com/topic/Garden-of-Eden>
-
-"Garden of Eden." *Wikipedia*. <https://en.wikipedia.org/wiki/Garden_of_Eden>
-
-"Eden, Garden of." *Jewish Encyclopedia*. <https://www.jewishencyclopedia.com/articles/5428-eden-garden-of>
-
-"Dilmun." *Encyclopaedia Britannica*. <https://www.britannica.com/place/Dilmun>
-
-"Hesperides." *Encyclopaedia Britannica*. <https://www.britannica.com/topic/Hesperides>
-
-"Paradise (etymology)." *Online Etymology Dictionary*. <https://www.etymonline.com/word/paradise>
+비교 종교 질문에 관한 코퍼스의 작업 입장은, 지리적·시간적으로 단절된 문화들을 가로질러 낙원-기원, 이전-시대, 잃어버린-문명 전통이 전 지구적으로 반복되는 것이, 일곱 지구 계통에서 유래한 다양한 인간 인구를 가로질러 단편적 형태로 보존된 공유된 기저의 역사적 사건에 대한 기억의 증거라는 것입니다. 특정 전통의 내용을 구체적인 에덴 시기 사건들과 동일시하는 것은 일률적 등치가 아니라 사례별 분석을 요구합니다 — 어떤 전통은 다른 전통보다 본래의 지시 대상에 더 가까운 기억을 보존하며, 여러 천년에 걸친 대홍수 이후 전수는 각 전통이 보존하는 것과 그 방식에서 상당한 변이를 산출했습니다. 코퍼스는 그러한 모든 전통을 동일한 사건들에 대한 직접적 기억으로 다루는 대중적 고대 우주인의 경향과, 그것들을 각자 문화의 독립적 신화적 구성물로 다루는 주류 비교 종교의 경향 양자를 거부합니다.
