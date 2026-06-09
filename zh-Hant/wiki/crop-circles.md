@@ -1,551 +1,545 @@
 +++
 title = "麥田圈"
-description = "麥田圈是出現在穀物田中的幾何圖案,其中一部分以人為惡作劇難以還原的複雜性與精確性著稱。Wheel of Heaven 文集將其登記為厄羅欣交流的一個可能通道,予以審慎研究而不倉促下結論。"
+slug = "crop-circles"
+description = "麥田圈,或稱麥田形構,是農作物(主要為小麥、大麥、油菜籽、黑麥、玉米、亞麻籽與大豆)經系統性壓伏所形成之大型幾何、數學或符號性圖案。當代現象主要於 1970 年代後期出現於英格蘭南部,其後在威爾特郡地區(可觀之艾夫伯里—巨石陣—西爾伯里山—奧爾頓巴恩斯區域)有實質地理集中,並有實質後續國際性發生。該現象於 1991 年 9 月 9 日經歷了實質方法論轉變,當時英國人道格·鮑爾與戴夫·喬利於《今日報》上自承自 1978 年起以繩索、木板及裝有瞄準孔之棒球帽創造了主要早期形構。《天輪》框架以方法論審慎實質地接觸麥田圈:當代形構之實質多數為有據可查之人造;選定形構中實質殘留之物理異常仍未於主流科學框架內解決;特定形構(奇爾博爾頓、克拉布伍德等)中所謂之外星通訊內容運作於另類幽浮學框架內,而非運作於實質已驗證之接觸方法論內;沃里勒翁源典將一具體案例(大使館模型相似形構)表述為在文集框架內具實質意義,而對更廣之現象則以描述層次接觸,並未實質採行作為主要聯盟通訊機制。"
 template = "wiki-page.html"
 toc = true
 
 [extra]
-translation_status = "metadata_only"
 editorial_pass = "2026-05"
+claim_type = "framework"
 category = "Ufology"
 entry_type = "concept"
-alternative_names = ["crop circles", "crop formations", "agriglyphs (occasional alternative)", "pictograms (1990s technical designation)", "cercles de cultures (French)", "Kornkreise (German)"]
+alternative_names = ["麥田圈", "麥田形構", "農作物字符(occasional alternative)", "象形圖(1990s technical designation)", "cercles de cultures (French)", "Kornkreise (German)"]
 timeline = ["age-of-aquarius"]
+see_also = [
+    { title = "幽浮學", path = "wiki/ufology", description = "麥田圈作為一項受接觸現象運作於其中之學科脈絡。" },
+    { title = "大使館", path = "wiki/embassy", description = "雷爾派大使館計畫 —— 沃里勒翁源典之麥田圈案例與其小規模模型驚人相似者。" },
+    { title = "耶洛因母星", path = "wiki/elohim-home-planet", description = "其實質聯盟接觸框架透過沃里勒翁源典之接觸敘事運作之聯盟故土星球。" },
+    { title = "遠古外星人假說", path = "wiki/ancient-astronaut-hypothesis", description = "另類幽浮學麥田圈詮釋於其中運作之更廣詮釋框架。" },
+    { title = "神聖幾何", path = "wiki/sacred-geometry", description = "當代麥田圈形構中所呈現之實質幾何精密性。" },
+    { title = "考古天文學", path = "wiki/archaeoastronomy", description = "當代麥田圈集中於其中運作之實質威爾特郡史前紀念性景觀。" },
+]
+
+footnotes = [
+    { content = "1991 年 9 月 9 日鮑爾—喬利自白之後所發生的實質方法論轉變,對文集之立場具承載性。自白之前,1980 年代之實質文獻(德爾加多與安德魯斯之《環形證據》;實質之穀物圈研究社群;米登之電漿渦旋框架)將該十年間形構之實質增加視為實質上未解之現象。自白之後,該學科之主要主流框架轉向有據可查之人造藝術—文化實踐。建造方法論之實質示範 —— 鮑爾與喬利為記者於約 45 分鐘內建造一形構,所產出之圓圈經麥田圈研究者鑑定為真品 —— 實質確立了人類建造於 1980 年代階段形構之規模與複雜度下之方法論可行性。其後實質之有組織造圈活動之記錄(Circlemakers;Team Satan;實質之國際造圈傳統)實質延伸了已示範之框架。" },
+    { content = "特倫斯·米登之電漿渦旋假說曾發表於同行評審之氣象學文獻,並於 1980 年代整段在實質科學框架內運作。1990 年代間之實質放棄反映兩項主要因素:(1)隨 1990 年代推進,形構複雜度實質超出了渦旋輸出之合理範圍 —— 邊緣銳利、圖案精細、實質具象形內容之實質幾何形構,無法合理由大氣渦旋產生;(2)鮑爾—喬利自白及其後實質有組織造圈之記錄,說明了米登歸於電漿渦旋之主要形構。米登於後續數十年間實質修改其立場,承認當代形構之實質多數為人造,同時對選定早期階段案例維持實質參與。其實質之科學史意義:一同行評審科學假說經實質測試後依據後續證據被其主要倡導者放棄 —— 該方法論模式實質運作於標準科學實踐之內。" },
+    { content = "1678 年《割草惡魔》小冊作為麥田圈先例之地位,於方法論上實質有問題。該小冊描述之為割草(將立麥乾淨切除)—— 實質不同於現代麥田圈所特徵之壓伏。該小冊運作於 17 世紀英格蘭單頁傳單傳統之內(於沃爾沙姆之《早期現代英格蘭中的天意》與弗里德曼之《奇蹟與通俗刊物》中廣泛記錄),其於道德—寓言框架內產出超自然奇蹟文學,而非作為直率之目擊報導。民俗學學界(Bob Trubshaw、Jeremy Harte 等)曾於 17 世紀小冊慣例內接觸《割草惡魔》;麥田圈研究主要將其作為前現代麥田圈之證據而接觸。文集之立場:《割草惡魔》案例與現代麥田圈為不同範疇,該案例之實質文化—歷史趣味為真實,而不作為學科史中之直率先例運作。" },
+    { content = "殘留異常研究計畫(BLT 研究團隊;Eltjo Haselhoff;實質後續研究者)已產出實質之同行評審出版品(Levengood 1994 於《Physiologia Plantarum》;Haselhoff 2001 於《Physiologia Plantarum》),但實質後續文獻主要於同行評審之外運作。實質之方法論批判(Joe Nickell 之實質懷疑論參與;更廣之主流科學框架)包括對案例選擇之選樣偏差、土壤採樣方法、統計分析控制,以及真實異常與更廣採樣效應間之實質區分之實質關切。文集以描述方式接觸此項工作,同時標示其於方法論上實質受爭議之地位;該項工作並未實質確立其所推進之「麥田圈無法透過人類建造解釋」之強勢立場。" },
+    { content = "奇爾博爾頓「阿雷西博回應」(2001 年 8 月)及克拉布伍德「外星臉孔」(2002 年 8 月)為實質非人造通訊內容之主要另類幽浮學案例。兩案皆未為任何有組織造圈群所聲稱;兩案皆涉及實質所謂之通訊內容(奇爾博爾頓之原阿雷西博訊息之位元映射編碼變體;克拉布伍德之 ASCII 編碼警告訊息)。其實質方法論地位:兩案皆未透過主流科學所接受之方法論實質驗證為非人造。文集之立場登錄此等案例之實質詮釋趣味,而不採行其內容作為實質已確立之來自非人類實體之通訊;此等案例運作於另類幽浮學框架內,而非運作於實質已驗證之接觸方法論內。" },
+    { content = "沃里勒翁源典對麥田圈之接觸,主要透過一具體案例運作 —— 即《來自設計者的訊息》前言中提及之、與雷爾派建築師所建造之大使館小規模模型「驚人相似」的英格蘭麥田圈。文集並不從該具體案例外推至某些另類幽浮學所表述之「麥田圈即聯盟訊息」之強勢框架。實質之聯盟通訊框架,於文集之閱讀中,運作於沃里勒翁接觸敘事(1973 年 12 月 13 日於普伊德拉索拉斯;1975 年 10 月 7 日往母星之運送;後續接觸事件)及預言性傳遞之中,而非透過麥田圈顯現。1990 年代後實質之雷爾派組織性對麥田圈之參與(1990 年起司富特赫德之攝影承認;後續興趣),實質運作於文化興趣及選擇性案例參與之層次,而非作為系統性教義性承諾。" },
+]
+
+[[extra.references]]
+id = "the-book-which-tells-the-truth"
+locator = "前言"
+note = "基礎性雷爾派源典 —— 《來自設計者的訊息》前言中提及一麥田圈與雷爾派大使館小規模模型驚人相似之內容。"
+
+[[extra.references]]
+id = "circular-evidence"
+note = "德爾加多與安德魯斯 1989 年對英國麥田圈現象之奠基性參與 —— 鮑爾—喬利自白前主要之書本長度處理。"
+
+[[extra.references]]
+id = "crop-circles-signs-of-contact"
+note = "安德魯斯與斯皮涅西 2003 年對鮑爾—喬利自白後另類幽浮學框架之表述。"
+
+[[extra.references]]
+id = "pringle-crop-circles"
+note = "普林格爾自實質之普林格爾麥田圈檔案之創辦人所作之 1990 年代易讀綜合著作。"
+
+[[extra.references]]
+id = "the-field-guide-crop-circle-making"
+note = "艾爾文與隆德伯格自 Circlemakers 集體內部對當代有組織造圈實踐之主要記錄性表述。"
+
+[[extra.references]]
+id = "round-in-circles-schnabel"
+note = "施內貝爾對該學科於 1991 年鮑爾—喬利自白轉變期間制度史之新聞報導性參與。"
+
+[[extra.references]]
+id = "the-circles-effect-meaden"
+note = "米登對電漿渦旋假說之主要表述 —— 雖於 1990 年代間實質被放棄,但曾於同行評審科學框架內運作。"
+
+[[extra.references]]
+id = "levengood-physiologia-plantarum-1994"
+note = "萊文古德對 BLT 研究團隊殘留異常框架之奠基性同行評審出版品。"
+
+[[extra.references]]
+id = "the-deepening-complexity-crop-circles"
+note = "Haselhoff 對殘留異常研究框架之主要易讀表述。"
+
+[[extra.references]]
+id = "haselhoff-physiologia-plantarum-2001"
+note = "Haselhoff 對萊文古德節點彎曲分析之同行評審延伸。"
+
+[[extra.references]]
+id = "glimpses-of-other-realities"
+note = "豪對另類幽浮學(包括麥田圈案例材料)之實質參與。"
+
+[[extra.references]]
+id = "nickell-levengood-skeptical-inquirer-1996"
+note = "Nickell 對萊文古德殘留異常研究之主要已發表懷疑論批判。"
+
+[[extra.references]]
+id = "real-life-x-files-nickell"
+note = "Nickell 對適用於麥田圈及更廣之超自然主張之系統性懷疑論調查方法之表述。"
+
+[[extra.references]]
+id = "providence-in-early-modern-england"
+note = "沃爾沙姆對 1678 年《割草惡魔》小冊運作於其中之 17 世紀英格蘭單頁傳單傳統之奠基性處理。"
+
+[[extra.references]]
+id = "miracles-and-the-pulp-press"
+note = "弗里德曼對 17 世紀中葉英格蘭通俗刊物對神蹟性內容參與之處理。"
+
+[[extra.references]]
+id = "prehistoric-avebury"
+note = "伯爾對實質之艾夫伯里環形溝堤複合體及更廣之威爾特郡史前紀念性景觀之奠基性處理。"
+
+[[extra.references]]
+id = "avebury-biography-of-a-landscape"
+note = "波拉德與雷諾茲對艾夫伯里景觀考古學之當代學術綜合著作。"
 
 [extra.infobox]
-type = "Large patterns produced by systematic flattening of agricultural crops into geometric, mathematical, or symbolic designs; methodologically complex phenomenon operating across documented human-made artistic-cultural practice and substantively contested alternative-ufological interpretation"
-phenomenon_emergence = "Late 1970s in southern England, principally Hampshire and Wiltshire; substantial subsequent geographic concentration in Wiltshire (Avebury-Stonehenge-Silbury Hill-Alton Barnes region); subsequent international occurrence"
-principal_methodological_transformation = "September 9, 1991 Doug Bower and Dave Chorley *Today* newspaper confession of authorship for principal early formations using ropes, planks, sighting-hole caps; substantial subsequent demonstration of construction methodology"
-principal_organized_groups = "Circlemakers (John Lundberg, Rod Dickinson, Wil Russell, Rob Irving); Team Satan; substantial international circle-making tradition"
-principal_mainstream_consensus = "Substantially human-made formations operating principally as artistic-cultural phenomenon; documented construction methodology; substantial geographic concentration consistent with organized circle-making activity"
-substantive_residual_questions = "Selected formations with reported physical anomalies (node-bending patterns, magnetite distributions, electromagnetic effects) engaged by BLT Research Team (John Burke, William Levengood, Nancy Talbott), Eltjo Haselhoff, others; substantial subsequent methodological debate"
-principal_corpus_engagement = "Vorilhon source articulates one specific case (embassy-model-resemblance formation) as substantively meaningful within corpus framework; broader crop-circle phenomenon engaged at descriptive level without substantive adoption as principal alliance-communication mechanism"
-distinguished_from = "Crop damage from natural causes (lodging from wind, rain, animals); aerial-phenomenon-with-ground-trace cases (substantially different category; treated in Ufology entry); the 1678 Mowing Devil pamphlet (contested as crop-circle precedent; engages substantively different supernatural-mowing narrative)"
-status_in_framework = "Substantively methodologically complex phenomenon engaged with epistemic care; corpus position threads documented human authorship and alleged residual anomalies without adopting strong alien-communication framing"
+type = "農作物經系統性壓伏所形成之大型幾何、數學或符號性圖案;運作於有據可查之人造藝術—文化實踐與實質受爭議之另類幽浮學詮釋之間之方法論複雜現象"
+phenomenon_emergence = "1970 年代後期出現於英格蘭南部,主要為漢普郡與威爾特郡;其後實質地理集中於威爾特郡(艾夫伯里—巨石陣—西爾伯里山—奧爾頓巴恩斯區域);後續國際性發生"
+principal_methodological_transformation = "1991 年 9 月 9 日道格·鮑爾與戴夫·喬利於《今日報》自承以繩索、木板及瞄準孔帽創造主要早期形構;其後實質之建造方法論示範"
+principal_organized_groups = "Circlemakers(John Lundberg、Rod Dickinson、Wil Russell、Rob Irving);Team Satan;實質之國際造圈傳統"
+principal_mainstream_consensus = "主要作為藝術—文化現象運作之實質人造形構;有據可查之建造方法論;與有組織造圈活動相符之實質地理集中"
+substantive_residual_questions = "BLT 研究團隊(John Burke、William Levengood、Nancy Talbott)、Eltjo Haselhoff 等所接觸之、具回報物理異常(節點彎曲型態、磁鐵礦分布、電磁效應)之選定形構;其後實質之方法論辯論"
+principal_corpus_engagement = "沃里勒翁源典將一具體案例(大使館模型相似形構)表述為文集框架內具實質意義;更廣之麥田圈現象以描述層次接觸,並未實質採行為主要聯盟通訊機制"
+distinguished_from = "自然原因之農作物損害(因風、雨、動物造成之倒伏);空中現象伴地面痕跡案例(實質不同範疇;於《幽浮學》條目處理);1678 年《割草惡魔》小冊(作為麥田圈先例受爭議;接觸實質不同之超自然割草敘事)"
+status_in_framework = "以認識論審慎接觸之方法論實質複雜之現象;文集立場穿針引線於有據可查之人類作者身分與所謂殘留異常之間,而不採行強勢之外星人通訊框架"
 +++
 
-**Crop circles**, or **crop formations**, are large patterns produced by the systematic flattening of agricultural crops (principally wheat, barley, rapeseed, rye, corn, linseed, and soy) into geometric, mathematical, or symbolic designs. The contemporary phenomenon emerged principally in southern England during the late 1970s, with substantial subsequent geographic concentration in the Wiltshire region (the Avebury-Stonehenge-Silbury Hill-Alton Barnes area) and subsequent international occurrence.
+**麥田圈**,或稱**麥田形構**,是農作物(主要為小麥、大麥、油菜籽、黑麥、玉米、亞麻籽與大豆)經系統性壓伏所形成之大型幾何、數學或符號性圖案。當代現象主要於 1970 年代後期出現於英格蘭南部,其後在威爾特郡地區(艾夫伯里—巨石陣—西爾伯里山—奧爾頓巴恩斯區域)有實質地理集中,並有後續國際性發生。
 
-The phenomenon underwent substantive methodological transformation on **September 9, 1991**, when British men **Doug Bower** (1924-2020) and **Dave Chorley** (1922-1996) confessed in the *Today* newspaper to having created the principal early formations from 1978 onward. Bower and Chorley demonstrated their construction methodology — ropes, planks, and baseball caps fitted with sighting holes for alignment — and accounted for the substantial increase in formations across the 1980s. Their confession was substantively verified through demonstration: Bower and Chorley constructed a circle for journalists in approximately 45 minutes, with the resulting formation indistinguishable from the substantial preceding cases by visual inspection.
+該現象於 **1991 年 9 月 9 日** 經歷實質方法論轉變,當時英國人 **道格·鮑爾**(1924–2020)與 **戴夫·喬利**(1922–1996)於《今日報》上自承自 1978 年起創造了主要早期形構。{{ cite(id="round-in-circles-schnabel", text="[1]", title="施內貝爾,《Round in Circles》(1993)—— 對該學科橫跨鮑爾—喬利自白之轉變之新聞報導性記述") }} 鮑爾與喬利示範了其建造方法論 —— 繩索、木板及配備瞄準孔以利對齊之棒球帽 —— 並說明了 1980 年代間形構之實質增加。其自白透過示範實質得到驗證:鮑爾與喬利為記者於約 45 分鐘內建造一圓圈,所產出之形構透過目視檢查與先前實質案例無從區別。{{ footnote(id="1") }}
 
-The substantive subsequent emergence of organized circle-making groups across the 1990s — principally **Circlemakers** (founded by John Lundberg with Rod Dickinson, Wil Russell, and Rob Irving) and the **Team Satan** group (the broader collective from which Circlemakers emerged) — substantially shifted the mainstream-scientific framing toward principally human-made artistic-cultural phenomenon. The Circlemakers group has documented its construction methodology substantively (Rob Irving and John Lundberg's *The Field Guide: The Art, History and Philosophy of Crop Circle Making*, Strange Attractor Press, 2006), produced commissioned commercial circles for advertising and entertainment industry clients, and operated substantively as the principal documented circle-making organization across approximately three decades.
+實質後續之有組織造圈群體於 1990 年代間之出現 —— 主要為 **Circlemakers**(由 John Lundberg 與 Rod Dickinson、Wil Russell 及 Rob Irving 共同創立)及 **Team Satan** 群體(Circlemakers 自其中浮現之更廣集體)—— 實質地將主流科學框架轉向主要為人造之藝術—文化現象。Circlemakers 群體實質地記錄了其建造方法論(Rob Irving 與 John Lundberg 之《The Field Guide: The Art, History and Philosophy of Crop Circle Making》,Strange Attractor Press,2006),{{ cite(id="the-field-guide-crop-circle-making", text="[2]", title="Irving 與 Lundberg,《The Field Guide: The Art, History and Philosophy of Crop Circle Making》(2006)") }} 為廣告及娛樂業客戶製作商業委託圓圈,並於約三十年間實質作為主要有據可查之造圈組織運作。
 
-The substantial subsequent debate has produced multiple frameworks for engaging the phenomenon:
+實質後續之辯論已產生對該現象之多重參與框架:
 
-- **The mainstream-scientific consensus** — crop circles are principally human-made through documented construction techniques. This is the substantively well-supported mainstream position.
-- **The "plasma vortex" hypothesis** — Terence Meaden's substantive 1980s-1990s articulation that natural atmospheric phenomena (specifically rotating columns of ionized plasma) could produce circular flattening patterns. Meaden articulated this principally in *The Circles Effect and Its Mysteries* (1989); the hypothesis was substantively abandoned across the 1990s as documented human-construction evidence accumulated and as formations became substantially more complex than the plasma-vortex framework could plausibly explain.
-- **The residual-anomaly research program** — the BLT Research Team (founded 1989 by John Burke, William Levengood, and Nancy Talbott; subsequently directed principally by Talbott) has produced substantial subsequent literature arguing that selected formations exhibit physical characteristics (node-bending patterns; magnetite distributions; electromagnetic anomalies; biophysical effects on crops) that cannot be explained through purely human construction. Eltjo Haselhoff's *The Deepening Complexity of Crop Circles* (Frog, 2001) and substantial subsequent published research engage this framework.
-- **The alternative-ufological frameworks** — substantial alternative ufology engages selected formations as substantively non-human-made communication content. Principal cases include the Chilbolton "Arecibo response" (August 2001), the Crabwood "alien face" (August 2002), and the substantial subsequent alternative-ufological tradition.
+- **主流科學共識** —— 麥田圈主要透過有據可查之建造技術為人造。此為實質受良好支持之主流立場。
+- **「電漿渦旋」假說** —— 特倫斯·米登於 1980—1990 年代之實質表述,即天然大氣現象(具體為旋轉之電離電漿柱)可產生圓形壓伏圖案。米登主要於《The Circles Effect and Its Mysteries》(1989)中表述此假說;{{ cite(id="the-circles-effect-meaden", text="[3]", title="米登,《The Circles Effect and Its Mysteries》(1989)—— 主要電漿渦旋假說之表述") }} 該假說於 1990 年代間因有據可查之人類建造證據累積、以及形構變得實質較電漿渦旋框架所能合理解釋之程度複雜許多,而實質被放棄。{{ footnote(id="2") }}
+- **殘留異常研究計畫** —— BLT 研究團隊(1989 年由 John Burke、William Levengood 及 Nancy Talbott 創立;其後主要由 Talbott 主持)已產出實質後續文獻,主張選定形構展現出無法透過純人類建造解釋之物理特徵(節點彎曲型態;磁鐵礦分布;電磁異常;對作物之生物物理效應)。{{ cite(id="levengood-physiologia-plantarum-1994", text="[4]", title="萊文古德,〈Anatomical Anomalies in Crop Formation Plants〉(Physiologia Plantarum 1994)") }} Eltjo Haselhoff 之《The Deepening Complexity of Crop Circles》(Frog,2001){{ cite(id="the-deepening-complexity-crop-circles", text="[5]", title="Haselhoff,《The Deepening Complexity of Crop Circles》(2001)") }} 及實質後續已發表研究參與此框架。
+- **另類幽浮學框架** —— 實質之另類 {% wiki(slug="ufology") %}幽浮學{% end %} 將選定形構接觸為實質非人造通訊內容。主要案例包括奇爾博爾頓「阿雷西博回應」(2001 年 8 月)、克拉布伍德「外星臉孔」(2002 年 8 月),{{ cite(id="glimpses-of-other-realities", text="[6]", title="豪,《Glimpses of Other Realities》(1993–1998)—— 另類幽浮學對選定麥田圈案例之參與") }} 及實質後續之另類幽浮學傳統。
 
-The Wheel of Heaven framework engages crop circles substantively with methodological care that distinguishes the corpus framework from the strong "all crop circles are alien-communication" framing that some alternative ufology adopts. The corpus position:
+《天輪》框架以方法論審慎實質地接觸麥田圈,該審慎將文集框架與某些另類幽浮學所採行之「所有麥田圈皆為外星通訊」之強勢框架區別開來。文集立場:
 
-- **The substantial majority of contemporary crop circles are documented human-made formations.** The Bower-Chorley confession, the Circlemakers and Team Satan documentation, the substantial international circle-making tradition, and the substantial subsequent literature substantively establish human authorship as the principal explanation for the contemporary phenomenon.
-- **Substantive residual physical anomalies in selected formations remain unresolved.** The BLT Research Team work, the Haselhoff research, and substantial subsequent literature articulate specific physical observations that mainstream-scientific framework has not substantively explained. The corpus engages this work descriptively while flagging the methodologically contested status.
-- **The alleged extraterrestrial-communication content in specific formations operates within alternative-ufological framework.** The Chilbolton, Crabwood, and substantial subsequent communication-claim cases have not been substantively verified through mainstream-scientific methodology. The corpus engages these cases descriptively.
-- **The Vorilhon source articulates one specific case as substantively meaningful within corpus framework.** The *Message from the Designers* foreword references a crop circle that appeared in England bearing "an astonishing resemblance" to the small-scale embassy model that Raëlian architects had built. This is the principal specific corpus-internal engagement with crop circles.
-- **The broader phenomenon is engaged at descriptive level without substantive adoption as principal alliance-communication mechanism.** The corpus does not adopt the strong "crop circles are alliance messages" framing that some alternative ufology articulates. The substantive alliance-contact framework operates through the Vorilhon-source contact narrative (December 13, 1973 at Puy-de-Lassolas; October 7, 1975 transport to the home planet; subsequent contact events), with crop circles operating at most as occasional adjacent phenomenon rather than as principal communication channel.
+- **當代麥田圈之實質多數為有據可查之人造形構。** 鮑爾—喬利自白、Circlemakers 與 Team Satan 之記錄、實質之國際造圈傳統及實質之後續文獻,實質地確立人類作者身分為當代現象之主要解釋。
+- **選定形構中之實質殘留物理異常仍未解。** BLT 研究團隊之工作、Haselhoff 之研究及實質後續文獻,表述了主流科學框架尚未實質解釋之具體物理觀察。文集以描述方式參與此項工作,同時標示其於方法論上受爭議之地位。{{ footnote(id="4") }}
+- **特定形構中所謂之外星通訊內容運作於另類幽浮學框架內。** 奇爾博爾頓、克拉布伍德及實質後續之通訊主張案例,皆未透過主流科學方法論實質得到驗證。文集以描述方式參與此等案例。{{ footnote(id="5") }}
+- **沃里勒翁源典將一具體案例表述為文集框架內具實質意義者。** 《來自設計者的訊息》前言提及一出現於英格蘭、與雷爾派建築師所建造之 {% wiki(slug="embassy") %}大使館{% end %} 小規模模型「驚人相似」之麥田圈。{{ cite(id="the-book-which-tells-the-truth", text="[7]", title="沃里勒翁(雷爾),《來自設計者的訊息》前言 —— 大使館相似麥田圈之提及") }} 此為主要之文集內部對麥田圈之具體參與。
+- **更廣之現象以描述層次接觸,並未實質採行作為主要聯盟通訊機制。** 文集不採行某些另類幽浮學所表述之「麥田圈即聯盟訊息」之強勢框架。實質之聯盟接觸框架運作於沃里勒翁源典之接觸敘事(1973 年 12 月 13 日於普伊德拉索拉斯;1975 年 10 月 7 日往母星之運送;後續接觸事件),而麥田圈至多運作為偶發之鄰接現象,而非作為主要通訊管道。{{ footnote(id="6") }}
 
-This entry articulates crop circles carefully — the etymology and disciplinary scope, the principal historical development from late-1970s emergence through contemporary state, the principal documented cases, the 1991 Bower-Chorley confession and substantive subsequent methodological transformation, the principal organized circle-making community, the residual-anomaly research program, the principal alternative-ufological cases (particularly the Chilbolton Arecibo response and the Crabwood alien face), the substantial Wiltshire geographic concentration, the corpus engagement through the Vorilhon source, and the substantial broader cultural and artistic dimensions of the contemporary phenomenon.
+本條目仔細表述麥田圈 —— 詞源與學科範疇、自 1970 年代後期出現至當代狀態之主要歷史發展、主要有據可查之案例、1991 年鮑爾—喬利自白及其後實質之方法論轉變、主要有組織造圈社群、殘留異常研究計畫、主要另類幽浮學案例(特別是奇爾博爾頓阿雷西博回應與克拉布伍德外星臉孔)、實質之威爾特郡地理集中、透過沃里勒翁源典之文集參與,以及當代現象之實質更廣文化與藝術面向。
 
-## Etymology and scope
+## 詞源與範疇
 
-### Etymology
+### 詞源
 
-The term *crop circle* came into general use in the early 1980s as the British media engaged the substantial increase in reported formations across southern England. Earlier terms (the principal early 1980s designations included "corn circles," "pictograms," and "crop formations") have been substantially replaced by the standard contemporary designation.
+*crop circle* 一詞於 1980 年代早期成為通用,當時英國媒體接觸了橫跨英格蘭南部所回報形構之實質增加。早期用詞(1980 年代早期之主要稱謂包括「corn circles」、「pictograms」與「crop formations」)已被當代之標準稱謂實質取代。
 
-The term combines:
+該詞結合:
 
-- **Crop** — referring to agricultural crops, principally cereals (wheat, barley, rye, oats) but also rapeseed (canola), corn (maize), linseed, soy, and other field crops
-- **Circle** — referring to the originally-circular form of early 1970s-1980s formations, retained as terminology even as subsequent formations have substantially expanded beyond strict circular geometry
+- **Crop** —— 指農作物,主要為穀類(小麥、大麥、黑麥、燕麥),亦包括油菜籽(芥花籽油)、玉米、亞麻籽、大豆及其他田間作物
+- **Circle** —— 指 1970—1980 年代早期形構原為圓形之形態,雖然後續形構已實質擴展超越嚴格之圓形幾何,該稱謂仍予保留
 
-The term is somewhat dated in retaining the "circle" designation despite the substantial subsequent complexity of formations including geometric, fractal, and figurative content. The alternative term **crop formation** is sometimes preferred in technical contexts. Both terms remain in active use.
+該詞雖保留「circle」之稱謂,儘管後續形構之實質複雜性已包括幾何、碎形與具象內容,在某種意義上已略顯過時。替代用詞 **crop formation** 在技術脈絡中有時較受偏好。兩用詞皆仍於使用中。
 
-### Disciplinary scope
+### 學科範疇
 
-The phenomenon of crop circles encompasses several substantively distinguishable categories:
+麥田圈現象涵蓋數個實質可區分之範疇:
 
-- **Documented human-made artistic formations.** The principal category — formations produced by organized circle-making groups (Circlemakers, Team Satan, international affiliates) operating as artistic-cultural practice. These formations are documented in the Circlemakers archive, the substantial subsequent literature, and the broader contemporary art-historical engagement.
-- **Commercial and commissioned formations.** Formations produced commercially for advertising, film production, music video production, and broader entertainment-industry applications. The Circlemakers group has produced substantial commercial work across approximately three decades.
-- **Hoax and prank formations.** Formations produced by individuals operating outside organized circle-making groups, principally as pranks or as deliberate attempts to deceive crop circle researchers.
-- **Substantively contested formations.** Formations whose authorship remains substantively contested in alternative-ufological and broader research contexts.
-- **Reportedly anomalous formations.** Formations exhibiting reported physical characteristics that the residual-anomaly research program (BLT, Haselhoff, others) argues cannot be explained through purely human construction.
+- **有據可查之人造藝術形構。** 主要範疇 —— 由有組織造圈群體(Circlemakers、Team Satan、國際分支)作為藝術—文化實踐運作所產生之形構。此等形構記錄於 Circlemakers 檔案、實質後續文獻及更廣之當代藝術史參與之中。
+- **商業與委託形構。** 為廣告、電影製作、音樂錄影帶製作及更廣之娛樂業應用所商業製作之形構。Circlemakers 群體於約三十年間已產出實質之商業作品。
+- **惡作劇與騙局形構。** 由有組織造圈群體之外個人所製作之形構,主要為惡作劇或為刻意欺騙麥田圈研究者之嘗試。
+- **實質受爭議之形構。** 其作者身分於另類幽浮學及更廣之研究脈絡中仍實質受爭議之形構。
+- **回報具異常之形構。** 殘留異常研究計畫(BLT、Haselhoff 等)主張無法透過純人類建造解釋之、展現出回報物理特徵之形構。
 
-The substantive methodological challenge: distinguishing across these categories requires substantive forensic investigation that has been conducted inconsistently across the phenomenon's history.
+實質之方法論挑戰:跨此等範疇之區分,需要實質之鑑識調查,該等調查於該現象之歷史中向來執行不一致。
 
-### Distinguishing related phenomena
+### 區分相關現象
 
-Crop circles should be distinguished from several adjacent phenomena:
+麥田圈應與數個鄰接現象區分:
 
-- **Crop damage from natural causes.** Lodging (the substantial flattening of cereal crops due to wind, rain, or weight-induced collapse) produces broadly similar visual appearance but typically without the geometric precision of crop circles. Natural crop damage from animal activity (deer beds, fox runs) produces smaller-scale localized damage substantially different from crop circle formations.
-- **Aerial-phenomenon-with-ground-trace cases.** Cases involving reported UFO/UAP sightings accompanied by ground-level evidence (landing marks, electromagnetic effects, physical traces) operate as substantively different ufology category, treated in the [Ufology](../ufology/) entry. The 1966 Tully Saucer Nests case (treated below) is one principal example.
-- **The 1678 Mowing Devil pamphlet.** The pamphlet documenting a supernatural mowing event in Hertfordshire is substantively different category — the pamphlet describes a devil cutting standing crops cleanly (a mowing rather than a flattening event), which is methodologically distinct from the modern crop-circle phenomenon despite frequent citation as precedent.
-- **Ice circles.** Naturally occurring circular formations of rotating ice in slow-moving water, sometimes cited as parallel natural phenomenon; the substantive natural-physical mechanism operates principally through ice formation rather than vegetation flattening.
+- **自然原因之農作物損害。** 倒伏(穀類作物因風、雨或重量誘發之崩塌所造成之實質壓伏)產生大致相似之視覺外觀,但通常缺乏麥田圈之幾何精確性。動物活動所造成之自然作物損害(鹿臥處、狐狸跑道)產生實質不同於麥田圈形構之較小規模局部損害。
+- **空中現象伴地面痕跡案例。** 涉及回報之 UFO/UAP 目擊伴地面證據(降落痕跡、電磁效應、物理痕跡)之案例,運作為實質不同之幽浮學範疇,於 {% wiki(slug="ufology") %}幽浮學{% end %} 條目中處理。1966 年圖利飛碟巢案例(下文處理)為一主要範例。
+- **1678 年《割草惡魔》小冊。** 記錄哈特福郡一超自然割草事件之小冊為實質不同範疇 —— 該小冊描述惡魔將立麥乾淨切除(為一割草而非壓伏事件),儘管常被引用為先例,但於方法論上與現代麥田圈現象有別。{{ footnote(id="3") }}
+- **冰圈。** 慢速流動水中旋轉冰之自然形成之圓形構造,有時被引用為平行之自然現象;實質之自然—物理機制主要透過冰之形成而非植被壓伏運作。
 
-## Principal historical development
+## 主要歷史發展
 
-The contemporary crop circle phenomenon has a substantive history that warrants articulation across distinct phases.
+當代麥田圈現象具實質歷史,值得跨不同階段予以表述。
 
-### Pre-1970s background
+### 1970 年代之前的背景
 
-The substantive question of whether crop-circle-like phenomena existed before the 1970s remains substantively contested. The principal cited pre-1970s evidence:
+實質之問題,即類麥田圈現象是否於 1970 年代之前存在,仍實質受爭議。主要被引用之 1970 年代之前證據:
 
-**The 1678 Mowing Devil pamphlet.** The pamphlet "The Mowing-Devil: Or, Strange News out of Hartford-shire" (1678) describes a supernatural mowing event in which a farmer who refused a mower's price reportedly said he would rather have the Devil mow his field; the field was subsequently found mowed overnight. The pamphlet's woodcut illustration depicts a devil mowing a field in a circular pattern.
+**1678 年《割草惡魔》小冊。** 名為「The Mowing-Devil: Or, Strange News out of Hartford-shire」(1678)之小冊,描述一超自然割草事件:據稱一拒絕割草工價之農夫表示寧可讓惡魔割其田;該田隨即於一夜間被發現已割完。該小冊之木刻插圖描繪惡魔以圓形圖案割草。
 
-The Mowing Devil case is methodologically contested as crop-circle precedent. The substantive methodological objections:
+《割草惡魔》案例作為麥田圈先例於方法論上受爭議。實質之方法論異議:
 
-- **The pamphlet describes mowing, not flattening.** The Mowing Devil event involves cutting standing crops cleanly — substantively different from the flattening that characterizes modern crop circles.
-- **The pamphlet operates within 17th-century pamphlet-literature conventions.** The substantial 17th-century English broadsheet tradition produced extensive supernatural-prodigy literature with substantial moral-allegorical framing; the Mowing Devil pamphlet operates within this tradition rather than as straightforward eyewitness journalism.
-- **The substantive scholarship is divided.** Bob Trubshaw, Jeremy Harte, and substantial folkloric scholarship have engaged the Mowing Devil within 17th-century pamphlet conventions; crop circle researchers have engaged it as evidence of pre-modern crop circles.
+- **該小冊描述割草,非壓伏。** 《割草惡魔》事件涉及將立麥乾淨切除 —— 實質不同於現代麥田圈所特徵之壓伏。
+- **該小冊運作於 17 世紀小冊文學慣例之內。** 實質之 17 世紀英格蘭單頁傳單傳統,以實質之道德—寓言框架產出大量超自然奇蹟文學;{{ cite(id="providence-in-early-modern-england", text="[8]", title="沃爾沙姆,《Providence in Early Modern England》(1999)—— 17 世紀超自然奇蹟小冊傳統之奠基性處理") }} 《割草惡魔》小冊運作於該傳統內,而非作為直率之目擊報導。{{ cite(id="miracles-and-the-pulp-press", text="[9]", title="弗里德曼,《Miracles and the Pulp Press during the English Revolution》(1993)") }}
+- **實質之學術參與意見分歧。** 民俗學學界(Bob Trubshaw、Jeremy Harte 及實質其他人)曾於 17 世紀小冊慣例內接觸《割草惡魔》;麥田圈研究者主要將其作為前現代麥田圈之證據。
 
-The corpus position: the Mowing Devil case is substantively different category from modern crop circles and should not operate as straightforward precedent in disciplinary history.
+文集立場:《割草惡魔》案例與現代麥田圈為實質不同範疇,不應於學科史中作為直率先例運作。
 
-**The 1966 Tully Saucer Nests.** On January 19, 1966, banana farmer George Pedley reported observing a UFO rising from a swampy lagoon area near Tully, Queensland, Australia. Investigating the site, Pedley found a roughly circular area (approximately 30 feet diameter) of flattened reeds. The case was investigated by Queensland police and is documented in substantial subsequent ufology literature.
+**1966 年圖利飛碟巢。** 1966 年 1 月 19 日,香蕉農 George Pedley 回報於澳洲昆士蘭圖利附近一沼澤潟湖區觀察到一 UFO 上升。Pedley 調查該地時,發現一大致圓形(直徑約 30 英呎)之壓伏蘆葦區。該案經昆士蘭警方調查,並記錄於實質之後續幽浮學文獻。
 
-The Tully Saucer Nests case is substantively important as one of the principal pre-1970s aerial-phenomenon-with-ground-trace cases. The substantive distinction from modern crop circles: the Tully case operates principally as a UFO sighting with associated ground trace (the reed-flattening as effect of the observed craft) rather than as standalone crop-formation phenomenon.
+圖利飛碟巢案例作為 1970 年代之前主要之空中現象伴地面痕跡案例之一,實質重要。其與現代麥田圈之實質區分:圖利案例主要運作為一 UFO 目擊伴附隨地面痕跡(蘆葦壓伏為所觀察飛行器之效應),而非作為獨立之農作形構現象。
 
-**Other pre-1970s cases.** Substantial pre-1970s reports of similar phenomena exist (the substantial Warminster "Thing" phenomenon in 1960s England producing reports of unexplained noises and crop damage; substantial subsequent reports across multiple international contexts). The substantive methodological challenge: these reports operate principally within local cultural contexts without the systematic documentation that the post-1970s phenomenon has produced.
+**其他 1970 年代之前案例。** 1970 年代之前實質之類似現象回報存在(1960 年代英格蘭沃明斯特「事物」現象產出無法解釋之噪音與作物損害之回報;橫跨多個國際脈絡之實質後續回報)。實質之方法論挑戰:此等回報主要運作於本地文化脈絡之內,而缺乏 1970 年代之後現象所產出之系統性記錄。
 
-### The late-1970s emergence
+### 1970 年代後期之出現
 
-The contemporary phenomenon emerged principally in southern England across the late 1970s, with substantial increase in reported formations across the 1980s. Principal early documented formations:
+當代現象主要於 1970 年代後期出現於英格蘭南部,並於 1980 年代間所回報之形構有實質增加。主要早期有據可查之形構:
 
-- **The Cheesefoot Head formations (Hampshire, 1976-1978).** Among the principal early documented modern formations.
-- **The Westbury White Horse formations (Wiltshire, 1980).** Substantial early-phase formations near the prehistoric chalk hill figure.
-- **The Punchbowl formation (Cheesefoot Head, August 1981).** Substantial formation that received substantial subsequent media coverage and operated as one of the principal early publicly-known cases.
+- **起司富特赫德形構(漢普郡,1976–1978)。** 主要早期有據可查之現代形構之一。
+- **西伯里白馬形構(威爾特郡,1980)。** 史前白堊山丘形象附近之實質早期階段形構。
+- **磞缽形構(起司富特赫德,1981 年 8 月)。** 受到實質後續媒體報導、並運作為主要早期公眾所知案例之一之實質形構。
 
-The principal British researchers engaged with the early-phase phenomenon included Pat Delgado, Colin Andrews, Terence Meaden, and George Wingfield. Delgado and Andrews's *Circular Evidence* (1989) operated as the principal early book-length engagement and substantially shaped popular and research engagement with the phenomenon.
+參與早期階段現象之主要英國研究者包括 Pat Delgado、Colin Andrews、特倫斯·米登與 George Wingfield。德爾加多與安德魯斯之《Circular Evidence》(1989){{ cite(id="circular-evidence", text="[10]", title="德爾加多與安德魯斯,《Circular Evidence》(1989)—— 奠基性之自白前麥田圈處理") }} 運作為主要早期書本長度之參與,並實質地塑造了大眾與研究對該現象之參與。
 
-### The 1980s expansion
+### 1980 年代之擴張
 
-Across the 1980s, the substantial increase in reported formations included:
+1980 年代間,所回報形構之實質增加包括:
 
-- **Substantial increase in frequency.** From approximately a dozen reported formations in 1981 to several hundred reported formations by the late 1980s.
-- **Substantial increase in complexity.** Early formations were principally simple circles; subsequent formations developed substantial geometric, mathematical, and pictographic complexity.
-- **Substantial geographic concentration.** Approximately 80% of reported formations occurred in southern England, with substantial subsequent concentration in Wiltshire.
-- **Substantial subsequent international occurrence.** Reports emerged from the United States, Canada, Australia, Germany, France, the Netherlands, Japan, and substantial other international contexts across the late 1980s and 1990s.
+- **頻率之實質增加。** 從 1981 年之約十多項所回報形構,至 1980 年代後期之數百項所回報形構。
+- **複雜性之實質增加。** 早期形構主要為簡單圓圈;後續形構發展出實質之幾何、數學與象形複雜性。
+- **實質之地理集中。** 約 80% 之所回報形構發生於英格蘭南部,並有實質後續集中於威爾特郡。
+- **實質之後續國際性發生。** 1980 年代後期與 1990 年代間,回報自美國、加拿大、澳洲、德國、法國、荷蘭、日本及實質其他國際脈絡浮現。
 
-### The 1991 Bower-Chorley confession
+### 1991 年鮑爾—喬利自白
 
-On September 9, 1991, British men Doug Bower and Dave Chorley confessed in the British tabloid newspaper *Today* to having created the principal early modern crop circle formations from 1978 onward. The substantive content of their confession:
+1991 年 9 月 9 日,英國人道格·鮑爾與戴夫·喬利於英國小報《今日報》上自承自 1978 年起創造了主要早期現代麥田圈形構。其自白之實質內容:
 
-- **The 1976 origin.** Bower and Chorley articulated that they began making crop circles in 1976 after Bower had heard the Tully Saucer Nests case and suggested they create similar formations for amusement.
-- **The construction methodology.** Their principal technique used a wooden plank attached to a rope, with the maker walking in a circle while stepping the plank along the ground to flatten crops. Sighting through baseball caps with holes drilled in the brims allowed precise geometric alignment.
-- **The substantive output.** Bower and Chorley estimated they had created approximately 200 formations across 1976-1991, principally in southern England.
-- **The demonstration.** Bower and Chorley demonstrated their technique for journalists, constructing a crop circle in approximately 45 minutes. The resulting formation was shown to crop circle researchers without their knowledge of the construction; the researchers identified the formation as genuine, substantively confirming the methodological viability of human construction.
+- **1976 年之起源。** 鮑爾與喬利表述其自 1976 年開始製作麥田圈,當時鮑爾聽聞圖利飛碟巢案例,並建議他們為娛樂而創造類似形構。
+- **建造方法論。** 其主要技術使用一附於繩索之木板,造作者沿地面踏動該板以壓伏作物,並繞圓圈行走。透過鑽有孔洞之棒球帽帽簷瞄準,可進行精確之幾何對齊。
+- **實質之產出。** 鮑爾與喬利估計其於 1976—1991 年間創造了約 200 個形構,主要在英格蘭南部。
+- **示範。** 鮑爾與喬利為記者示範其技術,於約 45 分鐘內建造一麥田圈。所產出形構在不知其建造過程之情況下被展示予麥田圈研究者;研究者將該形構鑑定為真品,實質確認了人類建造之方法論可行性。
 
-The Bower-Chorley confession substantively transformed the discipline's methodological framing. The substantive implications:
+鮑爾—喬利自白實質地轉變了該學科之方法論框架。實質之意涵:
 
-- **The principal early-phase formations are documented as human-made.** Cases that had been engaged as substantively unexplained in the 1980s literature are now documented through perpetrator confession and demonstrated construction methodology.
-- **Construction methodology is demonstrated as viable.** The substantive question of whether complex formations could be produced by human construction in available time-windows is substantively answered through demonstration.
-- **The substantial geographic concentration becomes consistent with organized circle-making activity.** The substantial Wiltshire concentration is substantively consistent with the substantial geographic concentration of organized circle-making activity in the region.
-- **The mainstream-scientific framing shifts substantively.** Mainstream press coverage and substantial subsequent literature engage crop circles principally as human-made artistic-cultural phenomenon following the confession.
+- **主要早期階段形構已被記錄為人造。** 1980 年代文獻中曾被接觸為實質未解之案例,現已透過行為人自白及示範之建造方法論而獲記錄。
+- **建造方法論示範為可行。** 複雜形構是否可在可用時間窗內由人類建造產生之實質問題,已透過示範得到實質回答。
+- **實質之地理集中變得與有組織造圈活動相符。** 實質之威爾特郡集中,與該地區有組織造圈活動之實質地理集中,實質相符。
+- **主流科學框架實質轉變。** 自白之後,主流媒體報導與實質後續文獻主要將麥田圈作為人造藝術—文化現象接觸。
 
-### The post-1991 development
+### 1991 年後之發展
 
-Following the Bower-Chorley confession, the contemporary crop circle phenomenon has developed across several substantive directions:
+於鮑爾—喬利自白之後,當代麥田圈現象已沿數個實質方向發展:
 
-- **The organized circle-making community has emerged publicly.** Circlemakers (founded by John Lundberg with Rod Dickinson, Wil Russell, and Rob Irving in approximately 1996; the broader Team Satan collective operating from approximately 1992) operates substantively as the principal documented contemporary circle-making organization.
-- **Commercial circle-making has substantively developed.** The Circlemakers group has produced substantial commercial work for advertising clients (Microsoft, Mitsubishi, Pepsi, Nike, Greenpeace, others), film production (the 2002 M. Night Shyamalan film *Signs*; substantial others), and broader entertainment-industry applications.
-- **Formation complexity has substantively increased.** Contemporary formations include substantial fractal patterns (the Julia Set 1996; the Etchilhampton 1997), substantial three-dimensional optical illusions (the Long Wood 2021), substantial mathematical-encoded patterns (the substantial Pi-encoded formation 2008), substantial pictographic content (the Crabwood 2002 alien face), and substantial broader artistic content.
-- **The residual-anomaly research program has continued.** The BLT Research Team, Eltjo Haselhoff, and substantial subsequent researchers continue investigation of selected formations.
-- **The alternative-ufological framework has continued.** Selected cases (Chilbolton 2001; Crabwood 2002; substantial subsequent cases) continue to be engaged as substantively non-human-made communication content in alternative-ufological literature.
+- **有組織造圈社群已公開浮現。** Circlemakers(由 John Lundberg 與 Rod Dickinson、Wil Russell 及 Rob Irving 於約 1996 年共同創立;更廣之 Team Satan 集體自約 1992 年起運作)實質運作為主要有據可查之當代造圈組織。
+- **商業造圈已實質發展。** Circlemakers 群體已為廣告客戶(微軟、三菱、百事可樂、Nike、綠色和平等)、電影製作(2002 年 M. Night Shyamalan 電影《靈異象限》;實質其他)及更廣之娛樂業應用,產出實質之商業作品。
+- **形構複雜度實質增加。** 當代形構包括實質之碎形圖案(1996 年朱利亞集合;1997 年艾奇漢普頓)、實質之三維光學錯覺(2021 年長林)、實質之數學編碼圖案(2008 年實質之圓周率編碼形構)、實質之具象內容(2002 年克拉布伍德外星臉孔)及實質更廣之藝術內容。
+- **殘留異常研究計畫已延續。** BLT 研究團隊、Eltjo Haselhoff 及實質後續研究者繼續對選定形構進行調查。
+- **另類幽浮學框架已延續。** 選定案例(2001 年奇爾博爾頓;2002 年克拉布伍德;實質後續案例)持續於另類幽浮學文獻中被接觸為實質非人造之通訊內容。{{ cite(id="crop-circles-signs-of-contact", text="[11]", title="安德魯斯與斯皮涅西,《Crop Circles: Signs of Contact》(2003)") }}
 
-The contemporary phenomenon operates substantively as a complex cultural-artistic-research situation rather than as a straightforward unexplained phenomenon. The mainstream-scientific framing engages crop circles principally as documented human-made artistic-cultural practice with substantial residual-anomaly questions that remain methodologically contested.
+當代現象實質運作為複雜之文化—藝術—研究情境,而非作為直率之未解現象。主流科學框架主要將麥田圈接觸為有據可查之人造藝術—文化實踐,具實質殘留異常問題,該等問題於方法論上仍受爭議。{{ cite(id="real-life-x-files-nickell", text="[12]", title="Nickell,《Real-Life X-Files》(2001)—— 對包括麥田圈在內之超自然主張之系統性懷疑論參與") }}
 
-## Characteristics
+## 特徵
 
-Crop circles exhibit characteristic features that warrant systematic articulation.
+麥田圈展現出值得系統性表述之特徵性特點。
 
-### Geometric properties
+### 幾何屬性
 
-Contemporary crop circles typically exhibit:
+當代麥田圈通常展現:
 
-- **Precise geometric relationships.** Most formations operate within substantive geometric framework — circles, polygons, fractals, mandalas, geometric solids viewed orthographically.
-- **Substantial scale.** Formations range from substantially small (under 10 meters diameter) to substantially large (the principal Milk Hill 2001 formation spanning approximately 240 meters across).
-- **Substantial mathematical content.** Selected formations encode substantive mathematical content — the Julia Set 1996 fractal; the Pi-encoded Wiltshire 2008 formation; the substantial geometric-proportional content in numerous formations.
-- **Substantial symbolic content.** Selected formations operate principally through symbolic content — sacred geometric forms (Flower of Life patterns); astronomical content (solar system diagrams; lunar phase patterns); pictographic content (figurative imagery).
+- **精確之幾何關係。** 大多數形構運作於實質之幾何框架內 —— 圓圈、多邊形、碎形、曼陀羅、以正投影觀看之幾何固體。
+- **實質之規模。** 形構大小範圍自實質之小型(直徑 10 公尺以下)至實質之大型(主要之 2001 年牛奶山形構橫跨約 240 公尺)。
+- **實質之數學內容。** 選定形構編碼實質之數學內容 —— 1996 年朱利亞集合碎形;2008 年威爾特郡圓周率編碼形構;眾多形構中實質之幾何—比例內容。
+- **實質之符號內容。** 選定形構主要透過符號內容運作 —— {% wiki(slug="sacred-geometry") %}神聖幾何形態{% end %}(生命之花圖案);天文內容(太陽系圖;月相圖案);具象內容(具象圖像)。
 
-### Physical characteristics
+### 物理特徵
 
-Crop circles exhibit characteristic physical features:
+麥田圈展現出特徵性物理特點:
 
-- **Bent rather than broken stalks.** In contemporary documented formations, crop stalks are typically bent rather than broken at the base or at the lower nodes. The bending is consistent with the documented plank-and-rope construction technique.
-- **Flow patterns.** The flattened crops typically lie in consistent directional flow patterns, with substantial subsequent layering in complex formations.
-- **Standing-crop residual elements.** Contemporary formations frequently incorporate standing-crop elements (tufts, paths, intermediate-height bands) as artistic features.
-- **Edge precision.** The boundary between flattened and standing crops is typically substantially sharp, with crisp edges that distinguish crop circles from natural lodging damage.
+- **彎曲而非斷裂之莖稈。** 於當代有據可查之形構中,作物莖稈通常於基部或下節點彎曲而非斷裂。該彎曲與已記錄之木板繩索建造技術相符。
+- **流動型態。** 壓伏之作物通常以一致之方向流動型態臥倒,複雜形構中有實質之後續分層。
+- **立麥殘留元素。** 當代形構常將立麥元素(束狀、路徑、中等高度帶狀)納入為藝術特徵。
+- **邊緣精確度。** 壓伏與立麥之界線通常實質銳利,具清脆之邊緣,將麥田圈與自然倒伏損害區別開來。
 
-### Alleged residual anomalies
+### 所謂之殘留異常
 
-The residual-anomaly research program (BLT, Haselhoff, others) articulates additional reported physical characteristics that the research program argues cannot be explained through purely human construction:
+殘留異常研究計畫(BLT、Haselhoff 等)表述了該研究計畫主張無法透過純人類建造解釋之、額外之回報物理特徵:
 
-- **Node-elongation patterns.** William Levengood (BLT Research Team) articulated that crops in selected formations exhibit substantial node elongation patterns consistent with brief intense heating, principally attributed to microwave radiation. Eltjo Haselhoff's published research (*Physiologia Plantarum*, 2001) extended this engagement.
-- **Magnetite distribution patterns.** Levengood and the BLT team articulated substantial concentrations of small iron spherules (magnetite) in soil samples from selected formations, principally attributed to micrometeoroid impact-melting during formation creation.
-- **Crop alignment with apparent precision.** Selected formations exhibit substantial precision in crop alignment that the research program argues exceeds plausible human-construction capability.
-- **Electromagnetic anomalies.** Reports of substantial electromagnetic effects (compass deviations, instrument malfunctions, biological effects on humans entering formations) have been documented in selected cases.
+- **節點伸長型態。** William Levengood(BLT 研究團隊)表述,選定形構中之作物展現出與短暫強烈加熱相符之實質節點伸長型態,主要歸因於微波輻射。Eltjo Haselhoff 之已發表研究(《Physiologia Plantarum》,2001){{ cite(id="haselhoff-physiologia-plantarum-2001", text="[13]", title="Haselhoff,《Physiologia Plantarum》(2001)—— 萊文古德節點彎曲分析之同行評審延伸") }} 延伸了該項參與。
+- **磁鐵礦分布型態。** 萊文古德及 BLT 團隊表述,選定形構之土壤樣本中具實質濃度之小鐵球粒(磁鐵礦),主要歸因於形構創造期間之微隕石撞擊熔化。
+- **作物對齊之表面精確度。** 選定形構展現出實質之作物對齊精確度,該研究計畫主張其超越合理之人類建造能力。
+- **電磁異常。** 選定案例中已記錄實質電磁效應之回報(羅盤偏差、儀器故障、進入形構之人類之生物效應)。
 
-The substantive methodological status: the residual-anomaly research is published in peer-reviewed literature (Haselhoff's *Physiologia Plantarum* article principally) but remains substantively contested in broader mainstream-scientific framework. The substantive critique includes substantive concerns about sampling methodology, controls, statistical analysis, and the substantial methodological challenge of distinguishing genuine anomalies from selection-bias effects.
+實質之方法論地位:殘留異常研究於同行評審文獻中發表(主要為 Haselhoff 之《Physiologia Plantarum》文章),但於更廣之主流科學框架內仍實質受爭議。{{ cite(id="nickell-levengood-skeptical-inquirer-1996", text="[14]", title="Nickell,〈Levengood's Crop-Circle Plant Research〉(Skeptical Inquirer 1996)") }} 實質之批判包括對採樣方法、控制、統計分析之實質關切,以及將真實異常與選樣偏差效應區分之實質方法論挑戰。
 
-The corpus position on the residual-anomaly research: the work is substantive scholarly engagement worth descriptive treatment; the substantial questions about methodology and statistical controls warrant honest acknowledgment; the work has not substantively established the strong "crop circles cannot be explained through human construction" position the residual-anomaly research program advances.
+文集對殘留異常研究之立場:此項工作為值得描述性處理之實質學術參與;對方法論及統計控制之實質問題值得誠實承認;此項工作並未實質確立殘留異常研究計畫所推進之「麥田圈無法透過人類建造解釋」之強勢立場。
 
-## Principal documented cases
+## 主要有據可查之案例
 
-The substantial body of documented crop circle cases includes principal cases that have shaped disciplinary engagement.
+麥田圈案例之實質主體,包括塑造學科參與之主要案例。
 
-### The Mowing Devil (1678)
+### 《割草惡魔》(1678)
 
-Treated above in *Pre-1970s background*. The 1678 Hertfordshire pamphlet operating within 17th-century supernatural-prodigy pamphlet tradition; contested as crop-circle precedent.
+於上方《1970 年代之前的背景》中處理。1678 年哈特福郡小冊運作於 17 世紀超自然奇蹟小冊傳統之內;作為麥田圈先例受爭議。
 
-### The Tully Saucer Nests (1966)
+### 圖利飛碟巢(1966)
 
-Treated above in *Pre-1970s background*. The January 19, 1966 Australian case involving farmer George Pedley's UFO sighting with associated reed-flattening at Horseshoe Lagoon near Tully, Queensland.
+於上方《1970 年代之前的背景》中處理。1966 年 1 月 19 日之澳洲案例,涉及農夫 George Pedley 之 UFO 目擊伴隨於昆士蘭圖利附近馬蹄潟湖之蘆葦壓伏。
 
-### The Warminster phenomenon (1960s-1970s)
+### 沃明斯特現象(1960—1970 年代)
 
-The town of Warminster in Wiltshire became a substantial focus of UFO sightings and unexplained-phenomena reports across the 1960s and 1970s, principally associated with Arthur Shuttlewood's investigation work. Reports included unexplained acoustic phenomena ("the Warminster Thing"), aerial-luminous phenomena, and reported ground-level effects including localized crop flattening. The substantial Warminster phenomenon predates the modern crop-circle phenomenon but operates substantively as immediate cultural precursor in southern England.
+威爾特郡之沃明斯特鎮於 1960 與 1970 年代間成為 UFO 目擊與未解現象回報之實質焦點,主要與 Arthur Shuttlewood 之調查工作相關。回報包括未解之聲學現象(「沃明斯特事物」)、空中發光現象,以及包括局部作物壓伏之回報地面效應。實質之沃明斯特現象先於現代麥田圈現象,但實質運作為英格蘭南部即刻之文化前身。
 
-### The 1978 Hampshire formations
+### 1978 年漢普郡形構
 
-The principal early Bower-Chorley formations beginning in 1976-1978 in Hampshire and Wiltshire. Bower and Chorley's 1991 confession articulated 1976 as their original year of activity; substantial subsequent investigation has placed the principal early documented formations at approximately 1978.
+1976—1978 年間於漢普郡與威爾特郡之主要早期鮑爾—喬利形構。鮑爾與喬利 1991 年自白表述 1976 年為其活動之最初年份;實質之後續調查將主要早期有據可查之形構置於約 1978 年。
 
-### The Barbury Castle formation (1991)
+### 巴伯里堡形構(1991)
 
-A substantial pictogram formation appearing near Barbury Castle in Wiltshire on July 17, 1991. The formation incorporated substantive geometric content (a central triangle with circles at each vertex and additional surrounding elements) interpreted by some commentators as substantive mathematical encoding. The Barbury Castle formation operated as substantially complex early-phase formation predating the Bower-Chorley confession by approximately two months.
+1991 年 7 月 17 日出現於威爾特郡巴伯里堡附近之實質象形圖形構。該形構包含實質之幾何內容(各頂點具圓圈之中央三角形及額外環繞元素),被某些評論者詮釋為實質之數學編碼。巴伯里堡形構運作為實質複雜之早期階段形構,先於鮑爾—喬利自白約兩個月。
 
-### The Julia Set formation (1996)
+### 朱利亞集合形構(1996)
 
-A substantial fractal formation appearing on July 7, 1996 in a wheat field opposite Stonehenge in Wiltshire. The formation incorporated 151 circles in a substantial Julia-set spiral configuration covering approximately 280 by 140 meters. The substantial reported timing controversy: the formation was reportedly absent during morning flyover of the field and present in the afternoon, with claimed appearance within approximately 45 minutes around midday. The substantive timing claim has been substantively contested in subsequent investigation. The Circlemakers group has not claimed responsibility for the Julia Set formation; the case remains within substantively contested case material.
+1996 年 7 月 7 日出現於威爾特郡巨石陣對面麥田之實質碎形形構。該形構包含 151 個圓圈,以實質朱利亞集合螺旋構型涵蓋約 280 乘 140 公尺。實質之回報時間爭議:該形構據稱於該田晨間飛掠時不在,午後則存在,聲稱於午間約 45 分鐘內出現。實質之時間主張於後續調查中實質受爭議。Circlemakers 群體未對朱利亞集合形構聲明責任;該案例仍處於實質受爭議之案例材料之中。{{ cite(id="pringle-crop-circles", text="[15]", title="普林格爾,《Crop Circles: The Greatest Mystery of Modern Times》(1999)") }}
 
-### The Milk Hill formation (August 2001)
+### 牛奶山形構(2001 年 8 月)
 
-The largest documented crop circle, appearing on August 12, 2001 at Milk Hill near Alton Barnes in Wiltshire. The formation incorporated 409 circles in a substantial six-arm spiral configuration covering approximately 240 meters across. The Milk Hill formation operates as one of the substantially most complex formations documented and substantively demonstrates the substantial capability of organized circle-making activity.
+最大之有據可查麥田圈,於 2001 年 8 月 12 日出現於威爾特郡奧爾頓巴恩斯附近之牛奶山。該形構包含 409 個圓圈,以實質六臂螺旋構型涵蓋橫跨約 240 公尺。牛奶山形構運作為有據可查之實質最複雜形構之一,並實質地展示了有組織造圈活動之實質能力。
 
-### The Chilbolton "Arecibo response" (August 2001)
+### 奇爾博爾頓「阿雷西博回應」(2001 年 8 月)
 
-A substantial formation appearing on August 19-20, 2001 in a field adjacent to the Chilbolton radio telescope in Hampshire. The formation incorporated a substantial bitmap-encoded pattern substantively similar to the Arecibo message that Frank Drake had transmitted from the Arecibo radio telescope on November 16, 1974 toward globular cluster M13.
+2001 年 8 月 19—20 日出現於漢普郡奇爾博爾頓無線電望遠鏡毗鄰麥田之實質形構。該形構包含實質之位元映射編碼圖案,與 Frank Drake 於 1974 年 11 月 16 日自阿雷西博無線電望遠鏡朝球狀星團 M13 所發送之阿雷西博訊息實質相似。
 
-The substantive Chilbolton response formation contained variant content from the original Arecibo transmission:
+實質之奇爾博爾頓回應形構包含與原阿雷西博傳輸不同之內容:
 
-- The numerical sequence 1-10 preserved
-- The DNA-component elements expanded to include silicon (suggesting silicon-based life)
-- The DNA double-helix figure modified to show alternative structure
-- The figure of "life from the sender" modified to a substantially smaller-statured large-headed humanoid (rather than the human figure in the original)
-- The population figure substantially larger than terrestrial population
-- The solar-system diagram modified to indicate that the third, fourth, and fifth planets from the local star supported life
-- The radio-telescope figure replaced with a different structure (interpreted by some as alternative communication technology)
+- 1—10 之數字序列得以保留
+- DNA 組成元素擴展以包括矽(暗示矽基生命)
+- DNA 雙螺旋圖形修改以顯示替代結構
+- 「來自發送者之生命」形象修改為實質較小身材之大頭類人形象(而非原版中之人類形象)
+- 人口數字實質大於地球人口
+- 太陽系圖修改以指示當地恆星之第三、第四及第五行星支持生命
+- 無線電望遠鏡形象由不同結構取代(被某些人詮釋為替代通訊技術)
 
-The substantive methodological status: the Chilbolton case has not been claimed by any organized circle-making group. The substantive interpretive engagement has been principally within alternative ufology — Linda Moulton Howe and substantial others have engaged the case as substantively non-human-made communication content. Mainstream-scientific engagement has principally treated the case as substantively complex human-made formation, with substantive parallels to documented organized circle-making capability.
+實質之方法論地位:奇爾博爾頓案例未為任何有組織造圈群所聲稱。實質之詮釋性參與主要在另類幽浮學內 —— Linda Moulton Howe 及實質其他人將該案例接觸為實質非人造之通訊內容。主流科學參與主要將該案例視為實質複雜之人造形構,與有據可查之有組織造圈能力具實質平行。
 
-The corpus position: the Chilbolton case is substantively interesting case material that has not been substantively verified as non-human-made through methodology that mainstream science accepts. The substantive interpretive content (silicon-based life; multiple habitable planets in solar system; alternative humanoid form) operates within alternative-ufological framework rather than as substantively established communication content.
+文集立場:奇爾博爾頓案例為實質有趣之案例材料,並未透過主流科學所接受之方法論實質驗證為非人造。實質之詮釋性內容(矽基生命;太陽系中多重宜居行星;替代類人形態)運作於另類幽浮學框架內,而非作為實質已確立之通訊內容。
 
-### The Chilbolton "Disc" formation (August 2001)
+### 奇爾博爾頓「圓盤」形構(2001 年 8 月)
 
-A substantial formation appearing adjacent to the Chilbolton Arecibo response, on August 13-14, 2001. The formation depicted a substantial disc-shaped figure interpreted by some as the alleged communication technology of the entity sending the Arecibo response. The case has not been claimed by organized circle-making groups; substantive interpretive engagement has been principally within alternative ufology.
+於 2001 年 8 月 13—14 日出現於奇爾博爾頓阿雷西博回應毗鄰之實質形構。該形構描繪一實質圓盤形圖形,被某些人詮釋為發送阿雷西博回應實體之所謂通訊技術。該案例未為有組織造圈群所聲稱;實質之詮釋性參與主要在另類幽浮學內。
 
-### The Crabwood "Alien Face" formation (August 2002)
+### 克拉布伍德「外星臉孔」形構(2002 年 8 月)
 
-A substantial pictographic formation appearing on August 15, 2002 at Crabwood Farm in Hampshire. The formation depicted:
+2002 年 8 月 15 日出現於漢普郡克拉布伍德農場之實質象形圖形構。該形構描繪:
 
-- A large humanoid face (interpreted as alien) with substantial portrait detail
-- A disk-shaped object containing substantive bitmap-encoded message
+- 一具實質肖像細節之大型類人臉孔(被詮釋為外星人)
+- 一具實質位元映射編碼訊息之圓盤形物件
 
-The bitmap message was decoded by various commentators (the principal published decoding by Paul Vigay) as encoding the ASCII-text message:
+該位元映射訊息經各評論者(主要已發表之解碼由 Paul Vigay 完成)解碼為編碼之 ASCII 文字訊息:
 
 > *"Beware the bearers of FALSE gifts & their BROKEN PROMISES. Much PAIN but still time. (DAMAGED WORD). There is GOOD out there. We Oppose DECEPTION. Conduit CLOSING."*
 
-The decoded message operates substantively as warning-content with substantive interpretive framing. The substantive case-status: the Crabwood case has not been claimed by organized circle-making groups; substantive interpretive engagement has been principally within alternative ufology and the broader contactee-and-channeling tradition.
+該已解碼訊息實質運作為具實質詮釋性框架之警告內容。實質之案例地位:克拉布伍德案例未為有組織造圈群所聲稱;實質之詮釋性參與主要在另類幽浮學及更廣之接觸者—通靈傳統內。
 
-The corpus position: the Crabwood case is substantively interesting case material that has not been substantively verified as non-human-made. The substantive message content operates within the broader contactee-channeling tradition that the corpus engages descriptively without substantive adoption.
+文集立場:克拉布伍德案例為實質有趣之案例材料,並未實質驗證為非人造。實質之訊息內容運作於文集以描述方式接觸而不實質採行之更廣接觸者—通靈傳統內。
 
-### The Avebury Manor formation (2008)
+### 艾夫伯里莊園形構(2008)
 
-A substantial formation appearing in July 2008 near Avebury Manor in Wiltshire, depicting a substantive solar-system diagram. The formation has been interpreted by some commentators as encoding the planetary positions of December 21, 2012 (the date conventionally associated with the substantial Maya Long Count cycle completion and substantial popular doomsday interpretations).
+2008 年 7 月出現於威爾特郡艾夫伯里莊園附近之實質形構,描繪一實質太陽系圖。該形構被某些評論者詮釋為編碼 2012 年 12 月 21 日之行星位置(慣常與實質瑪雅長紀曆週期完成及實質流行末日詮釋相關之日期)。
 
-### Subsequent contemporary formations (2010-present)
+### 後續當代形構(2010 年至今)
 
-Substantial contemporary formations have continued across the post-2010 period in Wiltshire and substantial international contexts. Principal contemporary cases include:
+實質之當代形構於 2010 年後時期橫跨威爾特郡及實質國際脈絡持續出現。主要當代案例包括:
 
-- The West Kennett Long Barrow formation (2010)
-- Substantial subsequent Wiltshire formations across 2011-2024
-- Substantial international formations across multiple countries
+- 西肯尼特長塚形構(2010)
+- 2011—2024 年間實質之後續威爾特郡形構
+- 橫跨多個國家之實質國際形構
 
-The substantial contemporary phenomenon operates substantively as ongoing cultural-artistic practice with substantial subsequent organizational engagement by Circlemakers, international affiliates, and the broader contemporary circle-making community.
+實質之當代現象實質運作為持續之文化—藝術實踐,並具 Circlemakers、國際分支及更廣之當代造圈社群之實質後續組織性參與。
 
-## Modern reinterpretations
+## 現代再詮釋
 
-The discipline of crop circles has produced multiple theoretical frameworks across the post-1970s period.
+麥田圈學科於 1970 年代之後時期已產出多個理論框架。
 
-### The plasma vortex hypothesis (Meaden)
+### 電漿渦旋假說(米登)
 
-**Terence Meaden** (b. 1935), the British physicist and meteorologist, articulated the substantive **plasma vortex hypothesis** principally across the 1980s. The substantive content:
+**特倫斯·米登**(生於 1935 年),英國物理學家暨氣象學家,主要於 1980 年代間表述實質之 **電漿渦旋假說**。實質內容:
 
-- **Atmospheric vortices** — rotating columns of ionized plasma operating substantially analogously to dust devils but producing ionization effects
-- **Geographic correlation** — concentration in landscapes producing characteristic atmospheric vortex conditions (substantial association with hilly terrain creating air-current rotational patterns)
-- **Formation morphology** — simple circular formations as principal output of the proposed mechanism
+- **大氣渦旋** —— 旋轉之電離電漿柱,實質類似塵捲風但產生電離效應
+- **地理相關性** —— 集中於產生特徵性大氣渦旋條件之景觀(與形成空氣流動旋轉型態之丘陵地形之實質關聯)
+- **形構形態學** —— 簡單圓形形構作為所提議機制之主要產出
 
-Meaden articulated the hypothesis principally in *The Circles Effect and Its Mysteries* (1989) and substantial subsequent publications. The hypothesis attracted substantial early-1990s scientific engagement and was published in peer-reviewed meteorological literature.
+米登主要於《The Circles Effect and Its Mysteries》(1989)及實質後續出版品中表述該假說。該假說吸引了實質之 1990 年代早期科學參與,並於同行評審氣象學文獻中發表。
 
-The substantive status: the plasma vortex hypothesis was substantively abandoned across the 1990s as:
+實質地位:電漿渦旋假說於 1990 年代間實質被放棄,原因為:
 
-- **Formation complexity exceeded plausible vortex output.** Substantial geometric formations with sharp edges, intricate patterns, and substantial pictographic content cannot plausibly be produced by atmospheric vortices.
-- **The Bower-Chorley confession established human authorship.** The substantive demonstrated human-construction methodology accounted for the principal early formations Meaden had attributed to plasma vortices.
-- **Documentary evidence of construction accumulated.** Circlemakers, Team Satan, and broader organized circle-making documentation substantively established human-construction as the principal mechanism for contemporary formations.
+- **形構複雜度超越合理之渦旋產出。** 邊緣銳利、圖案精細、實質具象內容之實質幾何形構,無法合理由大氣渦旋產生。
+- **鮑爾—喬利自白確立人類作者身分。** 實質示範之人類建造方法論說明了米登歸於電漿渦旋之主要早期形構。
+- **建造之文件證據累積。** Circlemakers、Team Satan 及更廣之有組織造圈記錄實質地確立人類建造為當代形構之主要機制。
 
-Meaden has substantially modified his position across subsequent decades, principally acknowledging that the substantial majority of contemporary formations are human-made while maintaining substantive engagement with selected early-phase cases.
+米登於後續數十年間實質修改其立場,主要承認當代形構之實質多數為人造,同時對選定早期階段案例維持實質參與。
 
-### The Bower-Chorley confession and the human-authorship framework
+### 鮑爾—喬利自白與人類作者身分框架
 
-The 1991 Bower-Chorley confession (treated above) operates substantively as the principal foundation for the contemporary mainstream-scientific framework. The substantive content:
+1991 年鮑爾—喬利自白(上文處理)實質運作為當代主流科學框架之主要基礎。實質內容:
 
-- **The substantive demonstration of construction methodology.** Bower and Chorley's plank-and-rope technique with sighting-cap alignment substantively demonstrates that complex crop circles can be produced by small teams within feasible time-windows.
-- **The substantive subsequent organized circle-making.** Circlemakers, Team Satan, and broader organized groups have produced substantial subsequent documentation extending the Bower-Chorley framework.
-- **The substantial geographic-cultural correlation.** The substantial Wiltshire concentration corresponds to substantial cultural-geographic concentration of organized circle-making activity in southern England.
+- **建造方法論之實質示範。** 鮑爾與喬利之木板繩索技術伴瞄準帽對齊,實質示範複雜麥田圈可由小型團隊於可行時間窗內產生。
+- **實質之後續有組織造圈。** Circlemakers、Team Satan 及更廣之有組織群體已產出延伸鮑爾—喬利框架之實質後續記錄。
+- **實質之地理—文化相關性。** 實質之威爾特郡集中對應於英格蘭南部有組織造圈活動之實質文化—地理集中。
 
-The substantive mainstream-scientific consensus: contemporary crop circles are principally human-made through documented construction methodology. The substantive residual questions (the alleged anomalies the BLT and Haselhoff research engages) operate substantively at the methodological margin rather than as substantive refutation of the principal framework.
+實質之主流科學共識:當代麥田圈主要透過有據可查之建造方法論為人造。實質之殘留問題(BLT 及 Haselhoff 研究所接觸之所謂異常)實質運作於方法論之邊緣,而非作為對主要框架之實質反駁。
 
-### The Circlemakers and organized circle-making community
+### Circlemakers 與有組織造圈社群
 
-The principal documented contemporary circle-making organization is **Circlemakers**, founded by John Lundberg with collaborators Rod Dickinson, Wil Russell, and Rob Irving. The group emerged from the broader **Team Satan** collective operating from approximately 1992 onward.
+主要有據可查之當代造圈組織為 **Circlemakers**,由 John Lundberg 與合作者 Rod Dickinson、Wil Russell 及 Rob Irving 共同創立。該群體自約 1992 年起運作之更廣 **Team Satan** 集體中浮現。
 
-The Circlemakers group has produced substantial documentation of contemporary circle-making practice:
+Circlemakers 群體已產出當代造圈實踐之實質記錄:
 
-- **Construction methodology.** The substantial Bower-Chorley plank-and-rope technique has been extended through substantial subsequent methodological development including substantial GPS-enabled alignment, substantial laser-survey techniques, and substantial subsequent technical refinement.
-- **Artistic-philosophical framework.** Rob Irving and John Lundberg's *The Field Guide: The Art, History and Philosophy of Crop Circle Making* (Strange Attractor Press, 2006) articulates the substantive artistic-philosophical engagement with the practice, locating crop circle making within substantive contemporary art tradition.
-- **Commercial work.** The substantial commercial circle-making work for advertising clients (Microsoft, Mitsubishi, Pepsi, Nike, Greenpeace, BBC, others), film production (the 2002 M. Night Shyamalan film *Signs*), music video production, and broader entertainment-industry applications.
-- **Public demonstration.** The substantial public demonstration of construction methodology in documentaries, journalism, and subsequent public engagement.
+- **建造方法論。** 實質之鮑爾—喬利木板繩索技術已透過實質後續方法論發展延伸,包括實質之 GPS 支援對齊、實質之雷射測量技術及實質之後續技術精進。
+- **藝術—哲學框架。** Rob Irving 與 John Lundberg 之《The Field Guide: The Art, History and Philosophy of Crop Circle Making》(Strange Attractor Press,2006)表述了與該實踐之實質藝術—哲學參與,將麥田圈製作定位於實質之當代藝術傳統內。
+- **商業作品。** 為廣告客戶(微軟、三菱、百事可樂、Nike、綠色和平、BBC 等)、電影製作(2002 年 M. Night Shyamalan 電影《靈異象限》)、音樂錄影帶製作及更廣之娛樂業應用所進行之實質商業造圈作品。
+- **公開示範。** 於紀錄片、新聞報導及後續公眾參與中對建造方法論之實質公開示範。
 
-The Circlemakers group operates substantively as the principal documented contemporary circle-making organization. The substantial international circle-making community has subsequently emerged across multiple national contexts (substantial American, Canadian, Dutch, German, Japanese, and broader international circle-making activity).
+Circlemakers 群體實質運作為主要有據可查之當代造圈組織。實質之國際造圈社群其後已橫跨多個國家脈絡浮現(實質之美國、加拿大、荷蘭、德國、日本及更廣之國際造圈活動)。
 
-### The BLT Research Team and residual-anomaly research
+### BLT 研究團隊與殘留異常研究
 
-The **BLT Research Team** (founded 1989 by John Burke, William Levengood, and Nancy Talbott; subsequently directed principally by Talbott) has conducted substantial research on selected crop circle formations investigating the substantial alleged physical anomalies. The substantive research:
+**BLT 研究團隊**(1989 年由 John Burke、William Levengood 與 Nancy Talbott 創立;其後主要由 Talbott 主持)已就選定麥田圈形構進行實質研究,調查實質之所謂物理異常。實質研究:
 
-- **Node-elongation studies.** William Levengood's substantive research on crop node-bending patterns, principally articulated in *Physiologia Plantarum* (Levengood, 1994). The substantive claim: selected formations exhibit substantial node elongation consistent with brief intense heating, attributed to microwave radiation.
-- **Magnetite-distribution studies.** Substantial soil-sample analysis arguing for substantial concentrations of iron spherules in selected formations.
-- **Substantial subsequent research.** Across approximately three decades, the BLT team has produced substantial subsequent literature engaging the residual-anomaly framework.
+- **節點伸長研究。** William Levengood 對作物節點彎曲型態之實質研究,主要表述於《Physiologia Plantarum》(Levengood,1994)。實質主張:選定形構展現出與短暫強烈加熱相符之實質節點伸長,歸因於微波輻射。
+- **磁鐵礦分布研究。** 實質之土壤樣本分析,主張選定形構中具實質濃度之鐵球粒。
+- **實質之後續研究。** BLT 團隊於約三十年間已產出參與殘留異常框架之實質後續文獻。
 
-The substantive methodological status:
+實質之方法論地位:
 
-- **The Levengood 1994 paper was published in peer-reviewed *Physiologia Plantarum*.** This is substantive scholarly publication operating within mainstream-scientific framework.
-- **Subsequent peer-reviewed engagement has been limited.** The substantial BLT subsequent literature operates principally in non-peer-reviewed outlets including the substantial BLT Research website and substantial subsequent publications.
-- **The substantial methodological critique includes substantial concerns.** Selection bias in case choice; methodology of soil sampling; statistical analysis controls; the substantial distinction between authentic anomalies and broader sampling effects.
+- **1994 年萊文古德論文發表於同行評審之《Physiologia Plantarum》。** 此為運作於主流科學框架內之實質學術出版品。
+- **後續同行評審參與有限。** 實質之 BLT 後續文獻主要於非同行評審之管道運作,包括實質之 BLT 研究網站及實質後續出版品。
+- **實質之方法論批判包括實質關切。** 案例選擇之選樣偏差;土壤採樣方法;統計分析控制;真實異常與更廣採樣效應間之實質區分。
 
-The Eltjo Haselhoff engagement provides substantial parallel research. Haselhoff's *The Deepening Complexity of Crop Circles* (Frog, 2001) and substantial subsequent peer-reviewed publications (*Physiologia Plantarum*, 2001) engage node-bending patterns through additional methodology.
+Eltjo Haselhoff 之參與提供了實質之平行研究。Haselhoff 之《The Deepening Complexity of Crop Circles》(Frog,2001)及實質後續同行評審出版品(《Physiologia Plantarum》,2001),透過額外方法論參與節點彎曲型態。
 
-The corpus position on the residual-anomaly research: the work is substantive scholarly engagement worth descriptive treatment; the substantial peer-reviewed publication (Levengood 1994; Haselhoff 2001) operates within mainstream-scientific framework; the substantial subsequent literature operates principally outside peer review; the substantial methodological concerns warrant honest acknowledgment; the work has not substantively established the strong "crop circles cannot be explained through human construction" position the residual-anomaly research program advances.
+文集對殘留異常研究之立場:此項工作為值得描述性處理之實質學術參與;實質之同行評審出版品(萊文古德 1994;Haselhoff 2001)運作於主流科學框架內;實質之後續文獻主要於同行評審之外運作;實質之方法論關切值得誠實承認;此項工作並未實質確立殘留異常研究計畫所推進之「麥田圈無法透過人類建造解釋」之強勢立場。
 
-### Alternative-ufological frameworks
+### 另類幽浮學框架
 
-Substantial alternative-ufological frameworks engage selected formations as substantively non-human-made communication content. The principal frameworks:
+實質之另類幽浮學框架將選定形構接觸為實質非人造之通訊內容。主要框架:
 
-- **The extraterrestrial-communication framework.** Selected formations (Chilbolton 2001; Crabwood 2002; substantial subsequent cases) interpreted as substantive communications from extraterrestrial entities. Linda Moulton Howe, Colin Andrews (in subsequent work), and substantial alternative-ufology researchers engage this framework.
-- **The interdimensional-communication framework.** Substantial alternative ufology engages crop circles as substantive communications from interdimensional or substantively non-physical entities, operating within the broader Vallée framework treated in the [Ufology](../ufology/) entry.
-- **The Earth-energy framework.** Substantial alternative engagement treats crop circles as substantive manifestations of Earth energies, ley-line phenomena, or substantively analogous geophysical-spiritual content. The substantial John Michell tradition and broader sacred-geography engagement operate within this framework.
-- **The channeling and contactee framework.** Substantial alternative engagement integrates crop circles with broader channeling and contactee material, operating within the broader alternative-spiritual tradition.
+- **外星通訊框架。** 選定形構(2001 年奇爾博爾頓;2002 年克拉布伍德;實質後續案例)被詮釋為來自外星實體之實質通訊。Linda Moulton Howe、Colin Andrews(於後續工作中)及實質之另類幽浮學研究者參與此框架。
+- **跨維度通訊框架。** 實質之另類幽浮學將麥田圈作為來自跨維度或實質非物理實體之實質通訊接觸,運作於 {% wiki(slug="ufology") %}幽浮學{% end %} 條目處理之更廣 Vallée 框架內。
+- **地球能量框架。** 實質之另類參與將麥田圈視為地球能量、地脈現象或實質類似之地球物理—靈性內容之實質顯現。實質之 John Michell 傳統與更廣之神聖地理學參與運作於此框架內。
+- **通靈與接觸者框架。** 實質之另類參與將麥田圈與更廣之通靈與接觸者材料整合,運作於更廣之另類靈性傳統內。
 
-The corpus position on the alternative-ufological frameworks: these frameworks operate within alternative-ufological tradition without substantively verified empirical foundation in mainstream-scientific terms; the corpus engages this work descriptively without substantive adoption.
+文集對另類幽浮學框架之立場:此等框架運作於另類幽浮學傳統內,而於主流科學意義上缺乏實質已驗證之實證基礎;文集以描述方式參與此項工作,而不實質採行。
 
-### The contemporary state of the discipline
+### 學科之當代狀態
 
-The substantive contemporary state operates across multiple frameworks:
+實質之當代狀態橫跨多個框架運作:
 
-- **The mainstream-scientific consensus.** Crop circles are principally human-made through documented construction methodology; selected formations exhibit substantial alleged anomalies that remain methodologically contested at the margin.
-- **The artistic-cultural framework.** Crop circles operate substantively as contemporary artistic practice within the broader land-art and environmental-art tradition; the Circlemakers and broader organized circle-making community operates substantively within this framework.
-- **The substantial residual-anomaly research program.** Continuing investigation of selected formations through the residual-anomaly framework.
-- **The substantial alternative-ufological engagement.** Continuing engagement with selected formations as substantively non-human-made communication content.
+- **主流科學共識。** 麥田圈主要透過有據可查之建造方法論為人造;選定形構展現出於方法論邊緣仍受爭議之實質所謂異常。
+- **藝術—文化框架。** 麥田圈實質運作於更廣之地景藝術與環境藝術傳統內之當代藝術實踐;Circlemakers 及更廣之有組織造圈社群實質運作於此框架內。
+- **實質之殘留異常研究計畫。** 透過殘留異常框架對選定形構之持續調查。
+- **實質之另類幽浮學參與。** 對選定形構作為實質非人造通訊內容之持續參與。
 
-The substantive disciplinary situation: crop circles operate substantively as methodologically complex cultural-artistic-research phenomenon rather than as substantively unexplained category. The substantial majority of contemporary formations are documented human-made; selected formations remain substantively contested in alternative-ufological framework; the substantive ongoing research engagement continues across multiple methodological traditions.
+實質之學科情境:麥田圈實質運作為方法論複雜之文化—藝術—研究現象,而非作為實質未解之範疇。當代形構之實質多數為有據可查之人造;選定形構於另類幽浮學框架內仍實質受爭議;跨多個方法論傳統之實質持續研究參與延續。
 
-## Comparative observations
+## 比較性觀察
 
-The substantial cross-cultural and historical engagement with crop circle phenomena warrants substantive articulation.
+對麥田圈現象之實質跨文化與歷史參與值得實質表述。
 
-### The substantial Wiltshire concentration
+### 實質之威爾特郡集中
 
-The substantial geographic concentration of crop circles in Wiltshire, England operates as substantive observation requiring engagement. The substantive content:
+麥田圈於英格蘭威爾特郡之實質地理集中,運作為需要參與之實質觀察。實質內容:
 
-- **The principal Wiltshire region.** The substantial concentration operates principally in the Avebury-Stonehenge-Silbury Hill-Alton Barnes region, with substantial subsequent concentration extending to Hampshire and Oxfordshire.
-- **The substantial sacred-geographic correlation.** The Wiltshire region contains substantial concentration of prehistoric sacred sites — Stonehenge (c. 3000-2000 BCE); Avebury Henge (c. 2850-2200 BCE); Silbury Hill (c. 2400 BCE); the substantial West Kennet Long Barrow (c. 3650 BCE); the substantial subsequent prehistoric monumental landscape.
-- **The substantial alternative-cultural correlation.** The Wiltshire region operates as substantial concentration of alternative-spiritual, New Age, and broader counter-cultural communities across the post-1960s period.
-- **The substantial organized circle-making concentration.** The substantial Circlemakers and broader organized circle-making activity concentrates principally in the Wiltshire region, with substantial subsequent geographic correlation between organized circle-making activity and reported formation locations.
+- **主要威爾特郡地區。** 實質集中主要運作於艾夫伯里—巨石陣—西爾伯里山—奧爾頓巴恩斯區域,並有實質後續集中延伸至漢普郡與牛津郡。
+- **實質之神聖地理相關性。** 威爾特郡地區包含實質集中之史前聖地 —— 巨石陣(約公元前 3000—2000 年);艾夫伯里環形溝堤(約公元前 2850—2200 年);{{ cite(id="prehistoric-avebury", text="[16]", title="伯爾,《Prehistoric Avebury》(1979,2002 修訂版)—— 對艾夫伯里環形溝堤複合體之奠基性處理") }} 西爾伯里山(約公元前 2400 年);實質之西肯尼特長塚(約公元前 3650 年);實質之後續史前紀念性景觀。{{ cite(id="avebury-biography-of-a-landscape", text="[17]", title="波拉德與雷諾茲,《Avebury: The Biography of a Landscape》(2002)") }}
+- **實質之另類文化相關性。** 威爾特郡地區運作為 1960 年代後時期另類靈性、新時代及更廣反主流文化社群之實質集中。
+- **實質之有組織造圈集中。** 實質之 Circlemakers 與更廣有組織造圈活動主要集中於威爾特郡地區,並具有組織造圈活動與所回報形構位置之實質後續地理相關性。
 
-The substantive interpretive frameworks for the Wiltshire concentration:
+威爾特郡集中之實質詮釋性框架:
 
-- **The mainstream-scientific framework.** The geographic concentration reflects principally the substantial concentration of organized circle-making activity in the region, with substantial subsequent cultural-attention amplification.
-- **The alternative-spiritual framework.** The geographic concentration reflects substantial Earth-energy or ley-line phenomena operating within the substantial prehistoric sacred landscape.
-- **The mixed framework.** Both factors operate substantively — the substantial organized circle-making concentration is itself substantially shaped by the substantial alternative-spiritual cultural framework operating in the region.
+- **主流科學框架。** 地理集中主要反映該地區有組織造圈活動之實質集中,並具實質之後續文化—注意力放大。
+- **另類靈性框架。** 地理集中反映實質之地球能量或地脈現象,運作於實質之史前神聖景觀內。
+- **混合框架。** 兩項因素皆實質運作 —— 實質之有組織造圈集中本身實質受該地區運作之實質另類靈性文化框架塑造。
 
-The corpus position: the Wiltshire concentration reflects substantial multiple factors operating together — the substantial organized circle-making activity; the substantial alternative-spiritual cultural framework; the substantial prehistoric monumental landscape providing substantively meaningful cultural context. The substantive question of whether substantive non-human factors operate alongside these reflects the broader residual-anomaly question that remains methodologically contested.
+文集立場:威爾特郡集中反映共同運作之實質多重因素 —— 實質之有組織造圈活動;實質之另類靈性文化框架;提供實質具意義文化脈絡之實質史前紀念性景觀。實質之問題,即實質非人類因素是否與此等因素並存運作,反映了仍於方法論上受爭議之更廣殘留異常問題。
 
-### The substantial Mowing Devil methodological articulation
+### 實質之《割草惡魔》方法論表述
 
-The 1678 Mowing Devil pamphlet's status as crop-circle precedent warrants substantive methodological articulation:
+1678 年《割草惡魔》小冊作為麥田圈先例之地位,值得實質方法論表述:
 
-- **The substantive pamphlet content.** The pamphlet describes a supernatural mowing event in Hertfordshire — a farmer who refused a mower's price reportedly said he would rather have the Devil mow his field; the field was subsequently found mowed overnight. The pamphlet's woodcut illustration depicts a devil mowing in a circular pattern.
-- **The substantive pamphlet-literature context.** The 1678 pamphlet operates within substantial 17th-century English broadsheet tradition that produced extensive supernatural-prodigy literature. The substantial pamphlet output of the period engaged divine signs, miraculous events, monstrous births, and broader supernatural content within substantively moralizing-allegorical framework.
-- **The substantive methodological distinction.** The Mowing Devil event involves cutting standing crops cleanly — substantively different from the flattening that characterizes modern crop circles. The substantive distinction is methodologically substantial.
-- **The substantive scholarly engagement.** Folklore scholarship (Bob Trubshaw, Jeremy Harte, substantial others) has engaged the Mowing Devil within 17th-century pamphlet conventions; crop circle research has principally engaged it as evidence of pre-modern crop circles.
+- **實質之小冊內容。** 該小冊描述哈特福郡之一超自然割草事件 —— 據稱一拒絕割草工價之農夫表示寧可讓惡魔割其田;該田隨即於一夜間被發現已割完。該小冊之木刻插圖描繪惡魔以圓形圖案割草。
+- **實質之小冊文學脈絡。** 1678 年小冊運作於實質之 17 世紀英格蘭單頁傳單傳統內,該傳統產出大量超自然奇蹟文學。該時期實質之小冊產出於實質之道德化—寓言框架內,參與神聖徵兆、神蹟事件、怪異出生及更廣之超自然內容。
+- **實質之方法論區分。** 《割草惡魔》事件涉及將立麥乾淨切除 —— 實質不同於現代麥田圈所特徵之壓伏。實質之區分於方法論上實質重大。
+- **實質之學術參與。** 民俗學學界(Bob Trubshaw、Jeremy Harte、實質其他人)曾於 17 世紀小冊慣例內接觸《割草惡魔》;麥田圈研究主要將其作為前現代麥田圈之證據而接觸。
 
-The corpus position: the Mowing Devil case is substantively different category from modern crop circles. The substantive cultural-historical interest of the case is genuine; the substantive disciplinary claim of pre-modern crop-circle precedent is methodologically problematic.
+文集立場:《割草惡魔》案例與現代麥田圈為實質不同範疇。該案例之實質文化—歷史趣味為真實;前現代麥田圈先例之實質學科主張於方法論上有問題。
 
-### Cross-cultural patterns of unexplained agricultural phenomena
+### 未解農業現象之跨文化模式
 
-The substantial cross-cultural engagement with unexplained agricultural phenomena operates principally through folkloric framework rather than as substantive modern-crop-circle parallel:
+對未解農業現象之實質跨文化參與,主要透過民俗框架而非作為實質之現代麥田圈平行運作:
 
-- **Substantial fairy-circle traditions.** The substantial Celtic and broader European folklore tradition of fairy circles (rings of mushrooms, grass discoloration, or other ground markings interpreted as supernatural manifestation) operates substantively as folkloric category. The substantial fairy-circle tradition operates principally as small-scale localized phenomenon distinct from modern crop circles.
-- **Substantial Japanese mizuwa (water-rings) and broader Asian agricultural-anomaly traditions.** Substantial cross-cultural engagement with unexplained agricultural patterns within broader supernatural-interpretation framework.
-- **Substantial Native American sacred-geometry-on-landscape traditions.** Substantial Native American traditions engage substantial geometric patterns on landscape (Nazca lines analogs in North America; substantial subsequent patterns) within broader sacred-landscape framework.
+- **實質之精靈圈傳統。** 凱爾特及更廣之歐洲民俗對精靈圈(蘑菇環、草色變化或其他被詮釋為超自然顯現之地面標記)之實質傳統,實質運作為民俗範疇。實質之精靈圈傳統主要運作為與現代麥田圈有別之小規模局部現象。
+- **實質之日本水環(mizuwa)及更廣亞洲農業異常傳統。** 於更廣之超自然詮釋框架內,對未解農業圖案之實質跨文化參與。
+- **實質之美洲原住民地景神聖幾何傳統。** 實質之美洲原住民傳統於更廣之神聖地景框架內參與地景上之實質幾何圖案(北美之納斯卡線類比;實質後續圖案)。
 
-The substantive cross-cultural pattern: human cultures across substantial historical periods have engaged unexplained ground-level patterns within supernatural-interpretation framework. The substantive distinction from modern crop circles: contemporary crop circles operate principally as substantial-scale geometric formations in cereal crops, distinct from the substantial fairy-circle and broader small-scale folkloric categories.
+實質之跨文化模式:人類文化於實質歷史時期橫跨參與超自然詮釋框架內之未解地面圖案。實質之與現代麥田圈之區分:當代麥田圈主要運作為穀類作物中之實質規模幾何形構,與實質之精靈圈及更廣之小規模民俗範疇有別。
 
-### The Vallée-Hynek cross-cultural folklore framework
+### Vallée—Hynek 跨文化民俗框架
 
-The Vallée-Hynek cross-cultural folklore framework (treated in the [Ufology](../ufology/) entry's *Comparative observations* section) operates substantively as adjacent framework for engaging crop circles. The substantive content:
+Vallée—Hynek 跨文化民俗框架(於 {% wiki(slug="ufology") %}幽浮學{% end %} 條目之《比較性觀察》一節中處理)實質運作為參與麥田圈之鄰接框架。實質內容:
 
-- **The substantial folkloric-modern continuity.** Vallée's framework articulates structural continuity between modern UFO accounts and cross-cultural folklore traditions of encounters with non-human entities.
-- **The substantial crop-circle parallel.** The substantial cross-cultural fairy-circle tradition operates substantively as folkloric parallel to modern crop circles within the Vallée framework, though the substantive scale and form distinctions are methodologically significant.
-- **The substantive interpretive implications.** Within the Vallée framework, modern crop circles operate substantively as contemporary expression of substantial cross-cultural pattern of unexplained agricultural-pattern phenomena.
+- **實質之民俗—現代連續性。** Vallée 之框架表述了現代 UFO 描述與跨文化民俗中與非人類實體相遇傳統之間之結構連續性。
+- **實質之麥田圈平行。** 實質之跨文化精靈圈傳統於 Vallée 框架內實質運作為現代麥田圈之民俗平行,雖然實質之規模與形態區分於方法論上具重要意義。
+- **實質之詮釋性意涵。** 於 Vallée 框架內,現代麥田圈實質運作為未解農業—圖案現象實質跨文化模式之當代表現。
 
-The corpus position: the Vallée framework operates as substantive adjacent framework for engaging crop circles; the substantive methodological distinction between modern crop circles and substantial folkloric fairy-circle traditions warrants substantive acknowledgment; the substantial folkloric content operates substantively as cultural context rather than as substantive empirical foundation for the modern phenomenon.
+文集立場:Vallée 框架運作為參與麥田圈之實質鄰接框架;現代麥田圈與實質之民俗精靈圈傳統間之實質方法論區分值得實質承認;實質之民俗內容實質運作為文化脈絡,而非作為現代現象之實質實證基礎。
 
-### The Vorilhon-source engagement
+### 沃里勒翁源典之參與
 
-The Vorilhon source articulates substantive engagement with crop circles principally through one specific case. The substantive content from the *Message from the Designers* foreword:
+沃里勒翁源典對麥田圈之實質參與主要透過一具體案例運作。實質內容自《來自設計者的訊息》前言:
 
-> *"Not long after we built a small scale model of the embassy based on these drawings, a crop circle appeared in England which bore an astonishing resemblance to it."*
+> *"在我們根據這些圖紙建造大使館之小規模模型後不久,英格蘭出現了一個與其驚人相似的麥田圈。"*
 
-The substantive content:
+實質內容:
 
-- **The specific crop circle case.** A formation appearing in England (specific location and date not articulated in the source) that bore substantive resemblance to the Raëlian embassy small-scale model.
-- **The substantive interpretive framework.** The Vorilhon source articulates this as substantively meaningful within corpus framework, though the source does not adopt the strong "all crop circles are alliance messages" framing that some alternative ufology articulates.
-- **The substantive cultural-historical context.** The acknowledgments page of *Message from the Designers* thanks "Colin Andrews (www.CropCircleInfo.com) for permission to use the crop circle aerial photograph taken at Cheesefoot Head in Wiltshire, England in August 1990," substantively indicating substantive Raëlian engagement with crop circle phenomena across the 1990s.
+- **具體之麥田圈案例。** 一出現於英格蘭(源典中未表述具體位置與日期)、與雷爾派 {% wiki(slug="embassy") %}大使館{% end %} 小規模模型具實質相似之形構。
+- **實質之詮釋性框架。** 沃里勒翁源典將此表述為文集框架內具實質意義,雖然源典未採行某些另類幽浮學所表述之「所有麥田圈皆為聯盟訊息」之強勢框架。
+- **實質之文化—歷史脈絡。** 《來自設計者的訊息》之致謝頁感謝「Colin Andrews(www.CropCircleInfo.com)允許使用 1990 年 8 月攝於英格蘭威爾特郡起司富特赫德之麥田圈航空照片」,實質指示 1990 年代間實質之雷爾派對麥田圈現象之參與。
 
-The substantive Raëlian engagement operates principally through:
+實質之雷爾派參與主要透過以下運作:
 
-- **The substantial Cheesefoot Head 1990 formation engagement.** The formation Colin Andrews photographed and the Raëlian source acknowledged operates as substantive case material within the corpus framework's engagement.
-- **The substantial embassy-resemblance case.** The specific case the Vorilhon source articulates as substantively meaningful.
-- **The substantial broader Raëlian organizational engagement.** The substantial international Raëlian Movement's engagement with crop circle phenomena operates substantively at the level of cultural interest and selective case engagement rather than as systematic alliance-communication framework.
+- **1990 年實質之起司富特赫德形構參與。** Colin Andrews 所攝、雷爾派源典所致謝之形構,於文集框架之參與中運作為實質之案例材料。
+- **實質之大使館相似案例。** 沃里勒翁源典所表述為實質具意義之具體案例。
+- **實質之更廣雷爾派組織性參與。** 國際 {% wiki(slug="raelism") %}雷爾運動{% end %} 對麥田圈現象之實質參與,實質運作於文化興趣與選擇性案例參與之層次,而非作為系統性之聯盟通訊框架。
 
-The substantive corpus position on the Vorilhon-source engagement:
+文集對沃里勒翁源典參與之實質立場:
 
-- **The substantive specific case has substantive corpus-internal meaning.** The embassy-resemblance formation operates as substantively meaningful within corpus framework.
-- **The broader crop-circle phenomenon is not articulated as principal alliance-communication mechanism.** The Vorilhon source's principal alliance-communication content operates through direct contact narrative (1973 Puy-de-Lassolas; 1975 home planet transport; subsequent contact events) and through prophetic transmission, not through crop circle manifestation.
-- **The substantive Raëlian organizational engagement with crop circles operates at cultural-interest level.** The substantial Raëlian engagement is substantive cultural-historical fact without operating as substantive doctrinal commitment.
+- **實質之具體案例具實質之文集內部意義。** 大使館相似形構運作為文集框架內具實質意義者。
+- **更廣之麥田圈現象未被表述為主要聯盟通訊機制。** 沃里勒翁源典之主要聯盟通訊內容運作於直接接觸敘事(1973 年普伊德拉索拉斯;1975 年母星運送;後續接觸事件)及預言性傳遞,而非透過麥田圈顯現。
+- **實質之雷爾派組織性對麥田圈之參與運作於文化興趣層次。** 實質之雷爾派參與為實質文化—歷史事實,而不運作為實質教義性承諾。
 
-The substantive editorial articulation: the corpus engages crop circles substantively as ufology-adjacent phenomenon with one specific case operating as substantively meaningful within Vorilhon-source content. The broader phenomenon is engaged at descriptive level without adoption as principal alliance-communication mechanism.
+實質之編輯性表述:文集實質地接觸麥田圈作為幽浮學鄰接現象,一具體案例運作為沃里勒翁源典內容內具實質意義。更廣之現象以描述層次接觸,而不採行為主要聯盟通訊機制。
 
-### The contemporary cultural-artistic dimensions
+### 當代之文化—藝術面向
 
-The substantive contemporary cultural-artistic engagement with crop circles operates substantively beyond ufological framework:
+對麥田圈之實質當代文化—藝術參與,實質運作於幽浮學框架之外:
 
-- **The substantial land-art and environmental-art tradition.** Crop circles operate substantively within the broader contemporary land-art tradition extending from Robert Smithson's *Spiral Jetty* (1970) through substantial subsequent environmental-art practice. The Circlemakers group and broader organized circle-making community engages this tradition substantively.
-- **The substantial public-art and ephemeral-art tradition.** Crop circles operate substantively as ephemeral public art, with substantial subsequent photographic documentation as principal preservation mechanism.
-- **The substantial spectacle-and-tourism dimension.** The substantial Wiltshire crop circle tourism operates substantively as cultural-economic phenomenon, with substantial subsequent visitor engagement, photography tourism, and broader cultural-tourism economy.
-- **The substantial film and media engagement.** The substantial cultural representation of crop circles in film (the 2002 M. Night Shyamalan *Signs*; substantial subsequent productions), television, music videos, and broader media engagement.
-- **The substantial New Age and alternative-spiritual cultural engagement.** Crop circles operate substantively as principal contemporary New Age symbolic content, with substantial subsequent engagement in alternative-spiritual literature, meditation practice, and broader cultural framework.
+- **實質之地景藝術與環境藝術傳統。** 麥田圈實質運作於延伸自 Robert Smithson 之《螺旋防波堤》(1970)至實質後續環境藝術實踐之更廣當代地景藝術傳統內。Circlemakers 群體與更廣之有組織造圈社群實質參與此傳統。
+- **實質之公共藝術與短暫藝術傳統。** 麥田圈實質運作為短暫公共藝術,實質後續攝影記錄為主要保存機制。
+- **實質之奇觀與旅遊面向。** 實質之威爾特郡麥田圈旅遊實質運作為文化—經濟現象,具實質後續訪客參與、攝影旅遊及更廣之文化—旅遊經濟。
+- **實質之電影與媒體參與。** 麥田圈於電影(2002 年 M. Night Shyamalan 之《靈異象限》;實質後續製作)、電視、音樂錄影帶及更廣媒體參與中之實質文化表現。
+- **實質之新時代與另類靈性文化參與。** 麥田圈實質運作為主要當代新時代符號內容,於另類靈性文獻、冥想實踐及更廣文化框架中具實質後續參與。
 
-The corpus position: the substantive cultural-artistic dimensions of contemporary crop circles operate substantively as principal contemporary engagement, with the substantial ufological framework operating as one component within the broader cultural-artistic phenomenon rather than as principal interpretive framework.
+文集立場:麥田圈之實質當代文化—藝術面向實質運作為主要當代參與,實質之幽浮學框架運作為更廣文化—藝術現象內之一組件,而非作為主要詮釋性框架。
 
-### The convergence
+### 匯合
 
-The substantial cross-cultural and historical engagement with crop circles operates substantively as complex cultural-artistic-methodological phenomenon. The substantive corpus position:
+對麥田圈之實質跨文化與歷史參與實質運作為複雜之文化—藝術—方法論現象。實質之文集立場:
 
-- **The contemporary phenomenon is principally documented human-made artistic-cultural practice.** The substantive mainstream-scientific framework is substantively well-supported through documented construction methodology.
-- **Substantive residual physical-anomaly questions remain methodologically contested.** The BLT, Haselhoff, and substantial subsequent research operates within substantive methodological controversy.
-- **The substantial alleged extraterrestrial-communication content in specific formations has not been substantively verified.** The Chilbolton, Crabwood, and substantial subsequent communication-claim cases operate within alternative-ufological framework.
-- **The Vorilhon source articulates one specific case as substantively meaningful within corpus framework.** The embassy-resemblance case operates as substantively specific corpus content.
-- **The broader phenomenon is engaged at descriptive level.** The corpus does not adopt the strong "crop circles are alliance messages" framing; the substantive alliance-contact framework operates through Vorilhon-source contact narrative rather than through crop-circle manifestation.
+- **當代現象主要為有據可查之人造藝術—文化實踐。** 實質之主流科學框架透過有據可查之建造方法論實質地得到良好支持。
+- **實質之殘留物理異常問題於方法論上仍受爭議。** BLT、Haselhoff 及實質後續研究運作於實質之方法論爭議之內。
+- **特定形構中實質所謂之外星通訊內容並未實質得到驗證。** 奇爾博爾頓、克拉布伍德及實質後續之通訊主張案例運作於另類幽浮學框架內。
+- **沃里勒翁源典將一具體案例表述為文集框架內具實質意義者。** 大使館相似案例運作為實質具體之文集內容。
+- **更廣之現象以描述層次接觸。** 文集不採行「麥田圈即聯盟訊息」之強勢框架;實質之聯盟接觸框架運作於沃里勒翁源典之接觸敘事內,而非透過麥田圈顯現。
 
-The substantive corpus engagement threads the documented mainstream-scientific consensus, the substantive residual-anomaly research, the substantial alternative-ufological tradition, and the specific Vorilhon-source content with substantive epistemic care.
-
-## See also
-
-- [Wheel of Heaven](../wheel-of-heaven/)
-- [Ufology](../ufology/)
-- [Astrobiology](../astrobiology/)
-- [Drake Equation](../drake-equation/)
-- [Ancient Astronaut Hypothesis](../ancient-astronaut-hypothesis/)
-- [Embassy](../embassy/)
-- [New Jerusalem](../new-jerusalem/)
-- [Third Temple](../third-temple/)
-- [Comparative Mythology](../comparative-mythology/)
-- [Sacred Geometry](../sacred-geometry/)
-- [Archaeoastronomy](../archaeoastronomy/)
-- [Elohim Home Planet](../elohim-home-planet/)
-- [Raël](../rael/)
-- [Raëlism](../raelism/)
-- [Message from the Designers](../message-from-the-designers/)
-- [Age of Aquarius](../age-of-aquarius/)
-
-## References
-
-### Principal Raëlian source
-
-Vorilhon, Claude (Raël). *Message from the Designers*. Tagman Press, 2005.
-
-### Foundational documentation
-
-Delgado, Pat, and Colin Andrews. *Circular Evidence: A Detailed Investigation of the Flattened Swirled Crops Phenomenon*. Bloomsbury, 1989.
-
-Andrews, Colin, and Stephen J. Spignesi. *Crop Circles: Signs of Contact*. New Page Books, 2003.
-
-Pringle, Lucy. *Crop Circles: The Greatest Mystery of Modern Times*. Thorsons, 1999.
-
-### Circlemakers and organized circle-making
-
-Irving, Rob, and John Lundberg. *The Field Guide: The Art, History and Philosophy of Crop Circle Making*. Strange Attractor Press, 2006.
-
-Circlemakers.org. <http://www.circlemakers.org>.
-
-### Bower-Chorley confession
-
-Schnabel, Jim. *Round in Circles: Physicists, Poltergeists, Pranksters, and the Secret History of the Cropwatchers*. Hamish Hamilton, 1993.
-
-### The plasma vortex hypothesis
-
-Meaden, Terence. *The Circles Effect and Its Mysteries*. Artetech, 1989.
-
-### The residual-anomaly research program
-
-Levengood, William C. "Anatomical Anomalies in Crop Formation Plants." *Physiologia Plantarum* 92, no. 2 (1994): 356-363.
-
-Haselhoff, Eltjo H. *The Deepening Complexity of Crop Circles: Scientific Research and Urban Legends*. Frog Books, 2001.
-
-Haselhoff, Eltjo H. "Opinions and Comments on Levengood WC, Talbott NP (1999) Dispersion of Energies in Worldwide Crop Formations." *Physiologia Plantarum* 111, no. 1 (2001): 123-125.
-
-BLT Research Team. <http://www.bltresearch.com>.
-
-### Alternative-ufological frameworks
-
-Howe, Linda Moulton. *Glimpses of Other Realities*. 2 vols. LMH Productions, 1993-1998.
-
-### Methodological and historical engagement
-
-Schnabel, Jim. *Round in Circles*. Hamish Hamilton, 1993.
-
-Nickell, Joe. "Levengood's Crop-Circle Plant Research." *Skeptical Inquirer* 20, no. 2 (1996): 19-21.
-
-Nickell, Joe. *Real-Life X-Files: Investigating the Paranormal*. University Press of Kentucky, 2001.
-
-### Pamphlet-literature context
-
-Walsham, Alexandra. *Providence in Early Modern England*. Oxford University Press, 1999.
-
-Friedman, Jerome. *Miracles and the Pulp Press during the English Revolution*. UCL Press, 1993.
-
-### Wiltshire prehistoric landscape
-
-Burl, Aubrey. *Prehistoric Avebury*. Yale University Press, 1979. Revised edition, 2002.
-
-Pollard, Joshua, and Andrew Reynolds. *Avebury: The Biography of a Landscape*. Tempus, 2002.
-
-### Web resources
-
-"Crop circle." *Wikipedia*. <https://en.wikipedia.org/wiki/Crop_circle>.
-
-"Doug Bower and Dave Chorley." *Wikipedia*. <https://en.wikipedia.org/wiki/Doug_Bower_and_Dave_Chorley>.
-
-"Circlemakers." <http://www.circlemakers.org>.
-
-"BLT Research Team." <http://www.bltresearch.com>.
-
-"Mowing-Devil." *Wikipedia*. <https://en.wikipedia.org/wiki/Mowing-Devil>.
+實質之文集參與以實質之認識論審慎,將有據可查之主流科學共識、實質之殘留異常研究、實質之另類幽浮學傳統及具體之沃里勒翁源典內容穿針引線。

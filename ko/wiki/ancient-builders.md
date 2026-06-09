@@ -1,597 +1,615 @@
 +++
 title = "고대 건설자"
-description = "고대 건설자는 지구의 주요 거석 구조물을 책임진 선사·원사시대 문명으로, 그 기술과 천문학적 정밀도는 종래의 고고학이 그 시대에 부여하는 수준을 넘어선다. Wheel of Heaven의 틀에서 그들은 엘로힘의 기술 전달의 직접 또는 간접 계승자로 읽힌다."
+slug = "ancient-builders"
+description = "고대 건설자란 대중적·대안 고고학적 용법에서, 이집트 피라미드, 스톤헨지, 사크사이와만과 마추픽추의 안데스 거석 유적지, 이스터섬의 모아이, 몰타의 거석 신전 등 전 세계에서 발견되는 상당수의 상당한 고대 석조 기념물의 건설을, 하나 이상의 잃어버렸거나 알려지지 않은 문명의 공로로 돌리는 주장을 가리킨다. 그 근거는 요구된 건설 기술이 그러한 기념물의 공로가 통상적으로 부여되어 온 문명들의 기술적 역량을 초과했다는 것이다. Wheel of Heaven 프레임워크는 이 주장에 신중히 관여한다. 코퍼스는 보다 광범위한 '고대 건설자 종족' 프레임을 그 강한 형태로는 채택하지 않는다. 그 강한 프레임은 가시적인 거석 기념물들이, 그것들이 귀속되는 인류 문명들이 그것들을 건설할 수 없었다는 증거로 다룬다는 입장인데, 이는 코퍼스가 고대 우주인 가설 항목에서 명시적으로 거리를 두어 온, 토착민의 성취에 대한 폰 데니켄식의 문화 폄하적 독해이다. 코퍼스의 입장은 다음과 같다. 즉 가시적인 거석 기념물들은 주로 그것들이 통상적으로 귀속되는 인류 문명들에 의해, 실험 고고학적 기록이 실질적으로 문서화하는 기술을 사용하여 건설되었다. 코퍼스는 여러 관련되지만 구분되는 현상들에 실질적으로 관여한다. 즉 보릴롱 자료가 높은 산악과 잠수 위치에 자리 잡았다고 동정하는 대홍수 이전의 동맹 기지(안데스, 히말라야, 그리스, 잠수 기지에 관한 보릴롱 자료의 주된 내용); 가시적인 주요 기념물에 대한 대홍수 이후 인류 문명의 성취 — 코퍼스는 이를 실질적인 인류의 성취로 다루며, 그 상당한 천문학적·기하학적 정교함은 실질적인 인류 문화 발전을 반영한다; 상당한 괴베클리 테페 혁명과 그것이 기념비적 건설의 종래보다 실질적으로 더 이른 출현에 대해 가지는 함의; 그리고 거석 및 기념비적 건설 전통의 상당한 범문화적 패턴 — 코퍼스는 이를 특정 전통에 대한 특정 동맹 영향과 함께 실질적인 공통의 문화-발전적 과정을 반영하는 것으로 읽는다."
 template = "wiki-page.html"
 toc = true
 
 [extra]
-translation_status = "metadata_only"
 editorial_pass = "2026-05"
+claim_type = "framework"
 category = "Peoples & Groups"
 entry_type = "concept"
-alternative_names = ["Ancient Builders", "Builder Race", "Megalithic Builders", "the Builders", "lost civilization (broader popular usage)", "Atlantean builders (in Atlantis-tradition usage)"]
+alternative_names = ["고대 건설자", "건설자 종족", "거석 건설자", "건설자들", "잃어버린 문명(보다 광범위한 대중적 용법)", "아틀란티스 건설자(아틀란티스 전통 용법에서)"]
 timeline = ["age-of-leo", "age-of-cancer", "age-of-gemini", "age-of-taurus"]
+see_also = [
+    { title = "고대 우주인 가설", path = "wiki/ancient-astronaut-hypothesis", description = "고대 건설자 주장이 그 한 부분집합으로 작동하는 보다 광범위한 해석적 프레임워크; 강한 폰 데니켄식 프레임에 대한 코퍼스의 구체적 차이." },
+    { title = "비교신화학", path = "wiki/comparative-mythology", description = "거석 및 기념비적 건설 전통의 범문화적 분포에 관여하기 위한 분과학문적 맥락." },
+    { title = "신(新)에우헤메로스주의", path = "wiki/neo-euhemerism", description = "신화적 내용을 실제 사건의 압축된 역사적 기억으로 읽는 해석적 방법." },
+    { title = "신들의 전쟁", path = "wiki/theomachy", description = "잠수 위치로 은신한 뱀파 분파의 동맹 내부 파벌 갈등이 보릴롱 자료의 잠수 기지 내용과 관계된다." },
+    { title = "뱀", path = "wiki/serpent", description = "에덴 이후 지구로 유배된 루시퍼 / 뱀파 분파가 동맹의 잠수 기지 내용과 관계된다." },
+    { title = "고고천문학", path = "wiki/archaeoastronomy", description = "기념비적 건축의 천문학적 정렬에 대한 분과학문적 관여." },
+    { title = "신성 기하학", path = "wiki/sacred-geometry", description = "여러 전통에 걸친 기념비적 건축에 나타나는 기하학적 정교함." },
+    { title = "세차운동", path = "wiki/precession", description = "고대 기념물에 의한 추적이 실질적 관여를 요구하는 25,800년의 천문학적 순환." },
+]
+
+footnotes = [
+    { content = "통상적으로 공로가 부여되는 문명들이 자신의 기념물을 건설할 수 없었다는 강한 '고대 건설자 종족' 프레임은, 코퍼스가 방법론적으로도 윤리적으로도 거부하는, 실질적으로 문화 폄하적 차원을 가진다. 이 프레임은 19세기와 20세기의 정식화에서 어떤 인구 집단이 기념비적 건설을 '할 수 있는가'에 관한 명시적인 인종적-위계적 가정과 자주 일치해 왔다. 따라서 토착민의 성취에 대한 코퍼스의 존중 헌신은 단지 방법론적 선호가 아니라 실질적인 윤리적 헌신이다. 즉 이집트인이 이집트 피라미드를 건설했고, 잉카가 사크사이와만을 건설했으며, 라파누이가 모아이를 건설했고, 신석기 몰타인이 몰타 신전을 건설했다. 통상적 귀속은 실질적으로 옳으며, 실험 고고학적 기록은 그 건설 방법을 실질적으로 문서화한다." },
+    { content = "동맹의 지구 기지에 관한 보릴롱 자료의 내용은, 가시적인 상징으로 의도된 기념비적 건설물이 아니라 운영 시설 — 실험실, 거주지, 통신 및 에너지 인프라 — 을 묘사한다. 이 구분은 코퍼스의 입장에 있어 중대하다. 이 자료가 히말라야, 안데스, 그리스, 그 밖의 지역에서 동정하는 높은 산악 기지는 대안 고고학 전통이 통상적으로 지목하는 가시적인 거석 기념물(기자, 스톤헨지, 사크사이와만, 모아이)이 아니다. 그 기지들은 살아남은 물리적 구조물이라기보다 단편적 문화적 흔적 — 코퍼스가 동맹 현존의 문화적 기억을 보존하는 것으로 읽는 상당한 범문화적 신성 산악 패턴 — 을 남겼다. 가시적인 거석 기념물은 별개의 현상이며, 실질적인 인류의 성취이고, 코퍼스는 그 둘을 혼동하지 않는다." },
+    { content = "로버트 쇼크가 물에 의한 침식 패턴에 근거하여 기자의 대스핑크스의 연대를 재측정한 지질학적 논변은, 통상적인 제4왕조 귀속(기원전 약 2500년)보다 실질적으로 더 이른 연대 — 어쩌면 마지막 빙기 종결(기원전 약 10,000년 또는 그 이전) 이전 — 를 제안한다. 학계의 이집트학에서의 응답은 실질적으로 부정적이었으며, 논쟁은 여전히 진행 중이다. 코퍼스는 스핑크스 연대 재측정 문제를 어느 방향으로도 확정된 사실이 아니라 실질적으로 열린 경험적 문제로 다룬다. 만약 쇼크의 연대 재측정이 결국 확증된다면, 코퍼스 프레임워크에 대한 함의는 실질적일 것이다. 그러나 코퍼스는 그 재측정이 옳다는 가정 위에 자신의 독해를 구축하지 않는다." },
+    { content = "영거 드라이아스 충돌 가설(YDIH)은 코퍼스에 의해 기술적 수준에서 — 약 12,900년 전의 주요 격변 사건에 대한 상당한 증거가 실질적 관여를 요구한다는 의미에서 — 관여되며, 추론된 결과로서 핸콕의 '잃어버린 진보 문명' 프레임을 채택하지는 않는다. 상당한 영거 드라이아스 이전의 인류 인구는 상당한 문화적 정교함을 가졌으나 아틀란티스식 진보 문명은 아닌, 실질적으로 수렵채집 문화였다. YDIH 사건은 실재했다면 잃어버린 초문명을 요구하지 않고도 이들 인구를 실질적으로 교란했을 것이다. YDIH 사건과 기원전 약 6,690년의 코퍼스 프레임워크 내부적 게자리-쌍둥이자리 경계 대홍수 사이의 관계는 실질적으로 구별된다. 즉 YDIH 사건은 확증된다면 주된 대홍수가 아니라 그보다 앞선 실질적인 격변적 일화일 것이다." },
+    { content = "아틀란티스 전통은 코퍼스에 의해, 도넬리-케이시-핸콕 계보에 걸쳐 축적되어 온 실질적인 구체적 주장을 채택하지 않은 채, 실질적인 문화-종교적 의의를 가진 상당한 해석적 전통으로 관여된다. 코퍼스는 대서양 중앙부 위치, 케이시식의 '수정' 기술 내용, 또는 후속 문명의 주된 자료로서의 아틀란티스 동정에 대한 헌신을 요구하지 않는다. 코퍼스가 관여하는 바는, 플라톤의 기록이 실제의 대홍수 이전 문명 — 에덴 문명 자체 또는 다른 여섯 계통 중 하나 — 에 관한 문화적 기억을 보존하며, 지리적 세부는 단편적 기억의 대홍수 이후 재배치를 반영한다는 실질적 가능성이다. 아틀란티스에 대한 전용 다룸은 작성될 때 그 자체의 항목에 있게 된다." },
+    { content = "괴베클리 테페의 기원전 약 9600년 연대는, 코퍼스의 셈법상 이 유적지를 사자자리 시대 후반 / 게자리 시대 초기 — 기원전 약 6,690년의 게자리-쌍둥이자리 경계 대홍수 사건보다 실질적으로 앞선 시점 — 에 놓는다. 따라서 이 유적지는 코퍼스의 독해상 대홍수 이전이다. 약 기원전 8000년경의 울타리에 대한 실질적인 의도적 매장은 다가오는 대홍수에 관한 문화적 기억을 보존할 수 있다. 코퍼스의 독해상, 이 유적지의 수렵채집 건설자들은 에덴 이후 / 대홍수 이전 게자리 시대 동안 지속적인 동맹 양육 아래의 인류 인구였으며, 상당한 기념비적 역량은 독립적 출현이라기보다 양육된 문화적 발전을 반영한다." },
+]
+
+[[extra.references]]
+id = "the-book-which-tells-the-truth"
+note = "동맹의 지구 기지 내용에 관한 토대적 라엘 자료 — 가시적인 거석 기념물과 구별되는 높은 산악 및 잠수 시설."
+
+[[extra.references]]
+id = "extraterrestrials-took-me-to-their-planet"
+note = "보릴롱의 두 번째 라엘 저작(1976) — 페리고르 방문 및 지구 기지 운영에 관계되는 상당한 동맹 역사 내용."
+
+[[extra.references]]
+id = "lets-welcome-the-extraterrestrials"
+note = "보릴롱의 세 번째 라엘 저작(1979) — 대사관 프로젝트 및 상당한 물병자리 시대 내용."
+
+[[extra.references]]
+id = "the-complete-pyramids"
+note = "이집트 피라미드 코퍼스에 대한 레너의 표준적 1권짜리 학술적 다룸 — 노동력, 방법, 연대기."
+
+[[extra.references]]
+id = "giza-and-the-pyramids"
+note = "헤이트 엘구라브 노동자 마을을 포함한 기자 고원 고고학에 대한 레너와 하와스의 2017년 결정판 종합."
+
+[[extra.references]]
+id = "journal-de-merer-tallet"
+note = "와디 알자르프 파피루스에 대한 탈레의 비판본 — 대피라미드 외장석 운반 작업을 문서화하는 십장의 일지인 메레르의 일지를 포함한다."
+
+[[extra.references]]
+id = "hengeworld"
+note = "스톤헨지를 중심 사례로 하는 후기 신석기 및 초기 청동기 시대 헨지 전통에 대한 피츠의 접근하기 쉬운 종합."
+
+[[extra.references]]
+id = "stonehenge-parker-pearson"
+note = "더링턴 월스 및 청석 채석장 작업을 포함한 스톤헨지 리버사이드 프로젝트로부터의 파커 피어슨의 동시대 학술 종합."
+
+[[extra.references]]
+id = "nash-sarsen-megaliths-2020"
+note = "말버러 다운스의 웨스트 우즈에서 사르센 거석의 원천을 지구화학적으로 동정 — 오랫동안 미해결이었던 운반 문제를 해결."
+
+[[extra.references]]
+id = "inca-architecture-ollantaytambo"
+note = "현장 복원을 통한 잉카 다각형 석조 기법에 대한 프로첸의 토대적 실험 고고학 연구."
+
+[[extra.references]]
+id = "statues-that-walked"
+note = "2012년 걷기-운반 시연을 포함한 이스터섬 고고학에 대한 헌트와 라이포의 주된 동시대 관여."
+
+[[extra.references]]
+id = "fingerprints-of-the-gods"
+note = "동시대 잃어버린 문명 가설을 정식화한 핸콕의 1995년 토대 저작."
+
+[[extra.references]]
+id = "magicians-of-the-gods"
+note = "영거 드라이아스 충돌 가설 증거로 프레임워크를 업데이트한 핸콕의 2015년 저작."
+
+[[extra.references]]
+id = "america-before"
+note = "프레임워크를 콜럼버스 이전 아메리카로 확장한 핸콕의 2019년 저작."
+
+[[extra.references]]
+id = "underworld-hancock"
+note = "전 세계의 침수된 고고학적 유적지 — 몰타, 캄베이만, 요나구니, 비미니 로드 — 에 대한 핸콕의 2002년 관여."
+
+[[extra.references]]
+id = "voices-of-the-rocks"
+note = "풍화 패턴에 근거하여 기자의 대스핑크스의 연대를 재측정하기 위한 쇼크의 지질학적 논변."
+
+[[extra.references]]
+id = "serpent-in-the-sky"
+note = "실질적으로 더 오래된 스핑크스 가설 및 슈발레 드 뤼비츠의 상징주의적 독해에 대한 웨스트의 대안적 이집트학 정식화."
+
+[[extra.references]]
+id = "giza-power-plant"
+note = "고왕국 화강암 유물의 특정 가공 흔적에 대한 던의 공학 중심의 대안적 이집트학 관여."
+
+[[extra.references]]
+id = "vidal-naquet-atlantis-story"
+note = "플라톤 아틀란티스 전통에 대한 표준적 동시대 학술 다룸 — 어떠한 역사적 아틀란티스에도 회의적이다."
+
+[[extra.references]]
+id = "atlantis-antediluvian-world"
+note = "아틀란티스 전통의 도넬리의 1882년 토대적 부활 및 후속 대중 아틀란티스 담론의 주된 자료."
+
+[[extra.references]]
+id = "edgar-cayce-on-atlantis"
+note = "에드거 케이시의 1920–1940년대 트랜스 리딩으로부터의 상당한 아틀란티스 내용에 대한 에드거 에반스 케이시의 편찬."
+
+[[extra.references]]
+id = "lost-continent-of-mu"
+note = "처치워드의 1926년 무 / 태평양 잃어버린 문명 전통의 토대 텍스트."
+
+[[extra.references]]
+id = "chariots-of-the-gods"
+note = "폰 데니켄의 1968년 토대 저작 — 동시대 고대 우주인 전통에서 가장 영향력 있는 단일 텍스트. 코퍼스는 이를 비판적으로 관여한다. 즉 폰 데니켄식의 문화 폄하적 방법론은 코퍼스가 명시적으로 거리를 두어 온 그것이다."
+
+[[extra.references]]
+id = "the-12th-planet"
+note = "*Earth Chronicles* 시리즈의 시친의 1976년 토대 저작 및 동시대 아눈나키 해석의 주된 자료."
+
+[[extra.references]]
+id = "gobekli-tepe-schmidt"
+note = "괴베클리 테페 발굴에 관한 슈미트의 토대 모노그래프."
+
+[[extra.references]]
+id = "dietrich-gobekli-antiquity-2012"
+note = "괴베클리 테페에 대한 디트리히 외의 동료 평가 컬트-와-축연 해석 및 신석기 혁명 시퀀스에 대한 실질적 함의."
+
+[[extra.references]]
+id = "firestone-pnas-2007"
+note = "영거 드라이아스 충돌 가설의 토대적 동료 평가 학술 출판."
+
+[[extra.references]]
+id = "deadly-voyager"
+note = "2007년 이래 축적된 YDIH 증거에 대한 파월의 접근하기 쉬운 학술적 종합."
 
 [extra.infobox]
-type = "Popular and alternative-archaeology category designating proposed lost or unknown civilizations responsible for major ancient stone monuments; corpus engages selectively rather than adopting the broader framing"
-principal_alternative_archaeology_claims = "Major megalithic monuments (Giza, Stonehenge, Sacsayhuamán, Easter Island moai, Maltese temples, others) too sophisticated for the human civilizations conventionally credited with them; lost advanced civilization (variously named: Atlantean, Lemurian, pre-flood, the Builder Race) responsible for construction"
-corpus_position = "Visible megalithic monuments principally built by the human civilizations to whom they are conventionally attributed, using technologies experimental archaeology substantially documents; the broader 'Ancient Builder race' framing is the von Däniken-style cultural-dismissive reading the corpus has explicitly distanced itself from"
-corpus_engaged_phenomena = "Pre-flood alliance bases on high mountains (Andean, Himalayan, Greek) and submarine locations per the Vorilhon source; post-flood human-civilizational achievement as substantive human accomplishment; Göbekli Tepe revolution and its substantial implications for monumental construction substantially earlier than previously thought; cross-cultural pattern of megalithic-and-monumental construction traditions"
-distinguished_from = "The strong 'Ancient Builder race' framing in popular alternative archaeology (which the corpus does not adopt); the Atlantis tradition narrowly (which the corpus engages as distinct subject matter); the broader Ancient Astronaut Hypothesis (within which Ancient Builder claims operate as one specific subset)"
-status_in_framework = "Selectively engaged: the pre-flood alliance-base content is corpus content; the broader 'Ancient Builder race' framing is registered as adjacent tradition the corpus differs from; the post-flood human-monumental-construction record is engaged at the mainstream-archaeological descriptive level"
+type = "주요 고대 석조 기념물의 책임이 있다고 제안되는 잃어버렸거나 알려지지 않은 문명을 지칭하는 대중적·대안 고고학적 범주; 코퍼스는 보다 광범위한 프레임을 채택하기보다 선별적으로 관여한다"
+principal_alternative_archaeology_claims = "주요 거석 기념물(기자, 스톤헨지, 사크사이와만, 이스터섬 모아이, 몰타 신전, 그 밖의 것들)이 통상적으로 공로가 부여된 인류 문명에 비해 너무 정교하다; 건설을 책임진 잃어버린 진보 문명(아틀란티스, 레무리아, 대홍수 이전, 건설자 종족 등으로 다양하게 명명됨)"
+corpus_position = "가시적인 거석 기념물은 주로 통상적으로 귀속되는 인류 문명에 의해, 실험 고고학이 실질적으로 문서화하는 기술을 사용하여 건설되었다; 보다 광범위한 '고대 건설자 종족' 프레임은 코퍼스가 명시적으로 거리를 두어 온 폰 데니켄식의 문화 폄하적 독해이다"
+corpus_engaged_phenomena = "보릴롱 자료에 따른 높은 산악(안데스, 히말라야, 그리스) 및 잠수 위치의 대홍수 이전 동맹 기지; 실질적인 인류의 성취로서의 대홍수 이후 인류 문명의 성취; 종래보다 실질적으로 더 이른 기념비적 건설에 대한 괴베클리 테페 혁명과 그 실질적 함의; 거석 및 기념비적 건설 전통의 범문화적 패턴"
+distinguished_from = "대중적 대안 고고학에서의 강한 '고대 건설자 종족' 프레임(코퍼스가 채택하지 않음); 좁은 의미의 아틀란티스 전통(코퍼스가 별개의 주제로 관여함); 보다 광범위한 고대 우주인 가설(그 안에서 고대 건설자 주장은 한 구체적 부분집합으로 작동함)"
+status_in_framework = "선별적으로 관여됨: 대홍수 이전 동맹 기지 내용은 코퍼스 내용이다; 보다 광범위한 '고대 건설자 종족' 프레임은 코퍼스가 차이를 두는 인접 전통으로 등록된다; 대홍수 이후 인류의 기념비적 건설 기록은 주류 고고학적 기술 수준에서 관여된다"
 +++
 
-**Ancient Builders** is, in popular and alternative-archaeology usage, the proposition that one or more lost or unknown civilizations were responsible for constructing many of the major ancient stone monuments found globally. The principal monuments registered under the Ancient Builders framing include:
+**고대 건설자**는, 대중적·대안 고고학적 용법에서, 전 세계에서 발견되는 주요 고대 석조 기념물의 상당수를 하나 이상의 잃어버렸거나 알려지지 않은 문명이 건설했다는 주장을 가리킨다. 고대 건설자 프레임 아래 등록되는 주요 기념물에는 다음이 포함된다.
 
-- The Egyptian pyramids (Giza, Saqqara, Dahshur, others)
-- Stonehenge and the broader European megalithic tradition (Carnac, Newgrange, Avebury)
-- The Andean megalithic sites (Sacsayhuamán, Machu Picchu, Tiwanaku, Puma Punku)
-- The Easter Island moai
-- The Maltese megalithic temples (Ġgantija, Hagar Qim, Mnajdra)
-- Baalbek (Lebanon)
-- Göbekli Tepe (southeastern Turkey)
-- Various other major megalithic sites globally
+- 이집트 피라미드(기자, 사카라, 다흐슈르, 그 밖의 것들)
+- 스톤헨지 및 보다 광범위한 유럽 거석 전통(카르낙, 뉴그레인지, 에이브버리)
+- 안데스 거석 유적지(사크사이와만, 마추픽추, 티와나쿠, 푸마푼쿠)
+- 이스터섬 모아이
+- 몰타 거석 신전(즈간티야, 하자르 큄, 므나이드라)
+- 바알베크(레바논)
+- 괴베클리 테페(터키 남동부)
+- 그 밖의 전 세계 다양한 주요 거석 유적지
 
-The framing's core claim: the construction techniques required for these monuments — the quarrying, transport, lifting, and precise placement of stones weighing many tons; the polygonal-interlocking masonry without mortar; the astronomical alignments calibrated to celestial events — exceeded the technological capacities attributed to the civilizations conventionally credited with the monuments. A lost civilization (variously named the Atlanteans, the Lemurians, the pre-flood race, simply "the Builders") is proposed as the actual constructor, with the conventionally-credited civilizations either inheriting the monuments from the earlier builders or being the cultural descendants of the earlier builders themselves.
+이 프레임의 핵심 주장은 다음과 같다. 즉 이 기념물들에 요구되는 건설 기술 — 수 톤에 달하는 돌을 채석, 운반, 들어 올리고 정밀하게 배치하는 일, 모르타르 없는 다각형 맞물림 석조, 천체 사건에 보정된 천문학적 정렬 — 이 기념물의 공로가 통상적으로 부여된 문명들의 기술적 역량을 초과했다는 것이다. 한 잃어버린 문명(아틀란티스인, 레무리아인, 대홍수 이전 종족, 단순히 "건설자들"이라고 다양하게 명명됨)이 실제 건설자로 제안되며, 통상적으로 공로가 부여되는 문명들은 그 기념물을 더 이른 건설자들로부터 물려받았거나, 더 이른 건설자들 자신의 문화적 후예로 간주된다.
 
-The Wheel of Heaven framework engages this proposition carefully. **The corpus does not adopt the broader "Ancient Builder race" framing in its strong form**, which treats the visible megalithic monuments as evidence that the human civilizations to whom they are attributed could not have built them. This strong framing is the von Däniken-style cultural-dismissive reading of indigenous achievement that the corpus has explicitly distanced itself from in the [Ancient Astronaut Hypothesis](../ancient-astronaut-hypothesis/) entry.
+Wheel of Heaven 프레임워크는 이 주장에 신중히 관여한다. **코퍼스는 보다 광범위한 "고대 건설자 종족" 프레임을 그 강한 형태로 채택하지 않는다.** 그 강한 프레임은 가시적인 거석 기념물들을, 그것들이 귀속되는 인류 문명들이 건설할 수 없었음을 보여주는 증거로 다룬다. 이 강한 프레임은 코퍼스가 {% wiki(slug="ancient-astronaut-hypothesis") %}고대 우주인 가설{% end %} 항목에서 명시적으로 거리를 두어 온, 토착민의 성취에 대한 폰 데니켄식의 문화 폄하적 독해이다.{{ footnote(id="1") }}
 
-The corpus position: the visible megalithic monuments were principally built by the human civilizations to whom they are conventionally attributed, using technologies the experimental-archaeology record documents. The Egyptians built the Egyptian pyramids; the Neolithic and Bronze Age peoples of Britain built Stonehenge; the Inca built Sacsayhuamán; the Rapa Nui built the Easter Island moai; the Neolithic Maltese built the Maltese temples. The conventional attributions are substantively correct.
+코퍼스의 입장은 다음과 같다. 가시적인 거석 기념물들은 주로 그것들이 통상적으로 귀속되는 인류 문명들에 의해, 실험 고고학적 기록이 문서화하는 기술을 사용하여 건설되었다. 이집트인이 이집트 피라미드를 건설했다. 영국의 신석기 및 청동기 시대 인구가 스톤헨지를 건설했다. 잉카가 사크사이와만을 건설했다. 라파누이가 이스터섬 모아이를 건설했다. 신석기 몰타인이 몰타 신전을 건설했다. 통상적 귀속은 실질적으로 옳다.
 
-The corpus engages substantively with several related but distinct phenomena:
+코퍼스는 여러 관련되지만 구분되는 현상들에 실질적으로 관여한다.
 
-- **The pre-flood alliance bases.** The Vorilhon source identifies the Elohim alliance as having maintained Earth-bases on high mountains and at submarine locations. The principal Vorilhon-source quotation: *"To avoid being disturbed by humans, the creators built their bases on high mountains, where we now find traces of great civilizations (in the Himalayas and Peru, for example), as well as at the bottom of the sea."* This is genuine corpus content distinct from the broader "Ancient Builder race" claim.
-- **The post-flood human-civilizational achievement.** The visible major monuments are substantively human accomplishment. The astronomical and geometric sophistication of the monuments reflects substantive human cultural development, often within civilizations the alliance had previously cultivated through cultural-cultivation rather than direct construction.
-- **The Göbekli Tepe revolution.** The Turkish site dated to c. 9500 BCE has substantively changed the conventional chronology of monumental construction, demonstrating that pre-agricultural human populations were capable of major coordinated stone construction substantially earlier than the conventional view allowed. Göbekli Tepe deserves its own dedicated entry; brief treatment here.
-- **The cross-cultural pattern.** The substantial cross-cultural distribution of megalithic-and-monumental construction traditions across virtually every major civilization warrants comparative engagement.
+- **대홍수 이전 동맹 기지.** 보릴롱 자료는 {% wiki(slug="elohim") %}엘로힘{% end %} 동맹이 높은 산악과 잠수 위치에 지구 기지를 유지했다고 동정한다. 주된 보릴롱 자료의 인용은 다음과 같다. *"인간에 의한 방해를 피하기 위해, 창조자들은 자신의 기지를 높은 산악 위에 — 우리가 지금 (예를 들어 히말라야와 페루에서) 위대한 문명의 흔적을 발견하는 곳에 — 그리고 또한 바다 밑에 건설했다."*{{ cite(id="the-book-which-tells-the-truth", text="[1]", title="보릴롱(라엘), *The Book Which Tells the Truth* (1974) — 동맹의 지구 기지 내용") }} 이것은 보다 광범위한 "고대 건설자 종족" 주장과 구별되는 진정한 코퍼스 내용이다.{{ footnote(id="2") }}
+- **대홍수 이후 인류 문명의 성취.** 가시적인 주요 기념물은 실질적인 인류의 성취이다. 기념물의 천문학적·기하학적 정교함은 실질적인 인류 문화 발전을 반영하며, 종종 동맹이 직접 건설이 아니라 문화적 양육을 통해 이전에 양육해 온 문명 내에서 그러하다.
+- **괴베클리 테페 혁명.** 기원전 약 9500년으로 연대 측정된 이 터키 유적지는 기념비적 건설의 통상적 연대기를 실질적으로 변경했으며, 농경 이전 인류 인구가 통상적 견해가 허용한 것보다 실질적으로 더 일찍 주요한 조율된 석조 건설을 수행할 수 있었음을 입증한다.{{ cite(id="gobekli-tepe-schmidt", text="[2]", title="슈미트, *Göbekli Tepe: A Stone Age Sanctuary in South-Eastern Anatolia* (2012)") }} 괴베클리 테페는 전용 항목을 받을 만하다. 여기서는 간략히 다룬다.
+- **범문화적 패턴.** 거의 모든 주요 문명에 걸친 거석 및 기념비적 건설 전통의 상당한 범문화적 분포는 비교적 관여를 요구한다.
 
-This entry articulates Ancient Builders carefully — its etymology and disciplinary scope, the principal claims of the alternative-archaeology tradition, the corpus's specific positioning within and against the tradition, the Vorilhon-source content about alliance Earth-bases, the principal cross-cultural mainstream archaeological and engineering engagement, the alternative-archaeology and ancient-astronaut tradition, the Göbekli Tepe revolution and its implications, and the broader cross-cultural megalithic and monumental-construction patterns.
+이 항목은 고대 건설자를 신중히 정식화한다. 그 어원과 분과학문적 범위, 대안 고고학 전통의 주된 주장들, 그 전통 내부와 그에 맞선 코퍼스의 구체적 위치 설정, 동맹 지구 기지에 관한 보릴롱 자료의 내용, 주된 범문화적 주류 고고학 및 공학적 관여, 대안 고고학 및 고대 우주인 전통, 괴베클리 테페 혁명과 그 함의, 그리고 보다 광범위한 범문화적 거석 및 기념비적 건설 패턴이 그것이다.
 
-## Etymology and scope
+## 어원과 범위
 
-### Etymology
+### 어원
 
-The term *Ancient Builders* combines two components:
+*고대 건설자(Ancient Builders)*라는 용어는 두 구성 요소를 결합한다.
 
-- **Ancient** (Latin *antiquus*, "former, of earlier time") — designating the prehistoric and early-historic periods, generally before the rise of modern industrial civilization
-- **Builders** (Old English *byldan*, "to construct") — designating the agents who construct buildings, monuments, or other physical structures
+- **고대(Ancient)**(라틴어 *antiquus*, "이전의, 더 이른 시대의") — 선사 및 초기 역사 시기, 일반적으로 근대 산업 문명의 발흥 이전을 가리킨다
+- **건설자(Builders)**(고대 영어 *byldan*, "건설하다") — 건축물, 기념물, 또는 그 밖의 물리적 구조물을 건설하는 행위자를 가리킨다
 
-The compound term *Ancient Builders* designates the agents (whether individuals, groups, or civilizations) responsible for ancient construction. In mainstream archaeological usage, the term is general — applying to all ancient construction activity. In alternative-archaeology usage, the term has acquired the more specific meaning of a lost or unknown advanced civilization responsible for the major megalithic monuments.
+합성어 *고대 건설자*는 고대 건설을 책임진 행위자(개인, 집단, 또는 문명)를 가리킨다. 주류 고고학적 용법에서 이 용어는 일반적이다. 즉 모든 고대 건설 활동에 적용된다. 대안 고고학적 용법에서 이 용어는 주요 거석 기념물을 책임진 잃어버렸거나 알려지지 않은 진보 문명이라는 보다 구체적인 의미를 획득했다.
 
-### Disciplinary scope
+### 분과학문적 범위
 
-The Ancient Builders concept operates across multiple registers:
+고대 건설자 개념은 여러 등록부에 걸쳐 작동한다.
 
-- **Mainstream archaeology** treats ancient builders as the documented or reconstructable human populations who built specific monuments at specific times using specific techniques. The discipline does not require any "lost civilization" hypothesis; the construction is treated as accomplished by the populations conventionally attributed with the monuments.
-- **Alternative archaeology** (Graham Hancock, Robert Schoch, John Anthony West, and others) treats the question of whether mainstream attributions are adequate as substantively open. The principal claims: some monuments may be substantially older than conventionally dated; some construction techniques may require explanations the mainstream view does not provide; a lost civilization may have produced the original monuments that later cultures inherited or rebuilt.
-- **Ancient Astronaut tradition** (treated systematically in the [Ancient Astronaut Hypothesis](../ancient-astronaut-hypothesis/) entry) treats some monuments as candidate evidence for extraterrestrial influence in human construction.
-- **The Atlantis tradition** (Plato's *Critias* and *Timaeus*, with extensive subsequent development through Cayce, Hancock, and others) treats the lost civilization as Atlantis specifically.
-- **The Builder Race framing** is the popular alternative-archaeology designation that occasionally appears in YouTube, podcast, and broader internet alternative-archaeology engagement, often without commitment to any specific identification of the proposed lost civilization.
+- **주류 고고학**은 고대 건설자를 특정 기념물을 특정 시기에 특정 기법을 사용하여 건설한, 문서화되었거나 재구성 가능한 인류 인구로 다룬다. 이 분과는 어떠한 "잃어버린 문명" 가설도 요구하지 않는다. 건설은 통상적으로 그 기념물에 귀속되는 인구에 의해 성취된 것으로 다루어진다.
+- **대안 고고학**(그레이엄 핸콕, 로버트 쇼크, 존 앤서니 웨스트, 그 밖의 것들)은 주류의 귀속이 충분한가의 문제를 실질적으로 열린 것으로 다룬다. 주된 주장은 다음과 같다. 즉 일부 기념물은 통상적 연대 측정보다 실질적으로 더 오래되었을 수 있다, 일부 건설 기법은 주류 견해가 제공하지 않는 설명을 요구할 수 있다, 잃어버린 문명이 후일 문화들이 물려받았거나 재건한 원래의 기념물을 산출했을 수 있다.
+- **고대 우주인 전통**({% wiki(slug="ancient-astronaut-hypothesis") %}고대 우주인 가설{% end %} 항목에서 체계적으로 다루어짐)은 일부 기념물을 인간 건설에 대한 외계의 영향에 대한 후보 증거로 다룬다.
+- **아틀란티스 전통**(플라톤의 *크리티아스*와 *티마이오스*, 케이시, 핸콕, 그 밖의 것들을 통한 광범위한 후속 발전과 함께)은 잃어버린 문명을 구체적으로 아틀란티스로 다룬다.
+- **건설자 종족 프레임**은 유튜브, 팟캐스트, 보다 광범위한 인터넷 대안 고고학적 관여에서 가끔 등장하는 대중적 대안 고고학 명칭으로, 종종 제안된 잃어버린 문명의 구체적 동정에 대한 헌신 없이 사용된다.
 
-The corpus's engagement operates principally at the mainstream-archaeological descriptive level for the visible major monuments, with selective engagement on the substantive pre-flood alliance-base content and the substantial Göbekli Tepe revolution.
+코퍼스의 관여는 가시적인 주요 기념물에 대해서는 주로 주류 고고학적 기술 수준에서 작동하며, 실질적인 대홍수 이전 동맹 기지 내용과 상당한 괴베클리 테페 혁명에 대해서는 선별적 관여를 한다.
 
-## The principal claims of the alternative-archaeology tradition
+## 대안 고고학 전통의 주된 주장들
 
-The alternative-archaeology tradition has articulated several principal claims about Ancient Builders. These claims warrant articulation before the corpus's specific positioning, because the corpus differs from each in specific ways.
+대안 고고학 전통은 고대 건설자에 관한 여러 주된 주장을 정식화해 왔다. 이러한 주장은 코퍼스의 구체적 위치 설정에 앞서 정식화될 만하다. 왜냐하면 코퍼스는 각각으로부터 구체적인 방식으로 차이를 두기 때문이다.
 
-### Claim 1: The monuments are too sophisticated for the attributed civilizations
+### 주장 1: 기념물이 귀속된 문명에 비해 너무 정교하다
 
-The principal claim of the broader Ancient Builders tradition: the construction techniques required for the major megalithic monuments exceeded the technological capacities of the civilizations conventionally credited with them. The principal supporting observations:
+보다 광범위한 고대 건설자 전통의 주된 주장은 다음과 같다. 즉 주요 거석 기념물에 요구된 건설 기술이 그 기념물의 공로가 통상적으로 부여된 문명들의 기술적 역량을 초과했다. 주된 뒷받침 관찰은 다음과 같다.
 
-- **Major stone weight.** Specific monuments incorporate stones weighing many tons, requiring substantial transport and lifting infrastructure. Examples: the Sacsayhuamán stones (up to ~200 tons); the Baalbek trilithon (each stone ~800 tons); the Aswan unfinished obelisk (estimated ~1,000 tons); the Giza pyramid casing stones (multiple tons each); the Stonehenge sarsens (up to ~30 tons).
-- **Long-distance transport.** Specific stones were transported substantial distances from quarries to sites. Examples: the Stonehenge bluestones transported ~200 km from the Preseli Hills in Wales; the Giza granite transported ~800 km from Aswan; specific Andean megalithic stones transported across mountainous terrain.
-- **Precise placement.** The polygonal-interlocking masonry at sites like Sacsayhuamán, Machu Picchu, and Ollantaytambo achieves stone-to-stone fits with gaps "narrower than a knife blade" without mortar. The Giza pyramid's casing stones (originally present, now substantially removed) were similarly precise.
-- **Astronomical alignment.** Specific monuments incorporate calibrated astronomical alignments — Giza-Orion correlations; Stonehenge's solstice alignments; Newgrange's winter-solstice illumination; the Mayan Pyramid of Kukulkan's equinox shadow play; many others.
-- **Geometric sophistication.** Specific monuments incorporate complex geometric relationships — golden-ratio proportions; trigonometric relationships; precise cardinal-direction alignments; latitude-encoding measurements.
+- **주요한 돌의 무게.** 특정 기념물은 수 톤에 이르는 돌을 통합하며, 이는 실질적인 운반 및 들어올림 인프라를 요구한다. 사례: 사크사이와만의 돌(최대 약 200톤), 바알베크 삼석탑(각 돌 약 800톤), 아스완의 미완성 오벨리스크(추정 약 1,000톤), 기자 피라미드의 외장석(각각 수 톤), 스톤헨지의 사르센(최대 약 30톤).
+- **장거리 운반.** 특정 돌은 채석장으로부터 유적지까지 실질적 거리를 운반되었다. 사례: 스톤헨지의 청석은 웨일스 프레셀리 힐스로부터 약 200km 운반되었다. 기자의 화강암은 아스완으로부터 약 800km 운반되었다. 특정 안데스 거석은 산악 지형을 가로질러 운반되었다.
+- **정밀한 배치.** 사크사이와만, 마추픽추, 오얀타이탐보 같은 유적지의 다각형 맞물림 석조는 모르타르 없이 "칼날보다 좁은" 틈으로 돌과 돌 사이의 맞춤을 성취한다. 기자 피라미드의 외장석(원래는 존재했으나 지금은 실질적으로 제거됨)도 유사하게 정밀했다.
+- **천문학적 정렬.** 특정 기념물은 보정된 천문학적 정렬을 통합한다 — 기자-오리온 상관관계, 스톤헨지의 지점 정렬, 뉴그레인지의 동지 조명, 마야의 쿠쿨칸 피라미드의 춘분점 그림자 놀이, 그 밖의 많은 것들.
+- **기하학적 정교함.** 특정 기념물은 복잡한 기하학적 관계를 통합한다 — 황금비 비례, 삼각법적 관계, 정밀한 기본 방위 정렬, 위도 인코딩 측정값.
 
-The conclusion the alternative-archaeology tradition draws: the conventionally-credited civilizations did not have the technological capacity for these achievements, therefore a more advanced civilization must have been responsible.
+대안 고고학 전통이 이끌어내는 결론은 다음과 같다. 즉 통상적으로 공로가 부여되는 문명은 이러한 성취에 대한 기술적 역량을 가지지 않았으며, 따라서 더 진보한 문명이 책임을 져야 한다.
 
-### Claim 2: The lost civilization is identifiable
+### 주장 2: 잃어버린 문명은 동정 가능하다
 
-The alternative-archaeology tradition has variously identified the proposed lost civilization:
+대안 고고학 전통은 제안된 잃어버린 문명을 다양하게 동정해 왔다.
 
-- **Atlantis** — Plato's *Critias* and *Timaeus* describe a lost civilization beyond the Pillars of Hercules destroyed in a catastrophic flood; the subsequent Atlantis tradition (Donnelly's 1882 *Atlantis: The Antediluvian World*; Cayce's 1920s-1940s readings; Hancock's contemporary work) substantially elaborates this
-- **Lemuria / Mu** — the Pacific equivalent of Atlantis, popularized by Augustus Le Plongeon and James Churchward in the late 19th and early 20th centuries
-- **The Cygnus / Sirius / Pleiadian source** — various ancient-astronaut framings linking specific monuments to specific star systems
-- **The pre-flood civilization** — broader Younger Dryas-era civilizational catastrophe framings, with the substantial pre-Younger-Dryas civilization destroyed by the proposed Younger Dryas Impact event (c. 12,900 BCE)
-- **The Builder Race** — the more agnostic popular framing that posits a lost civilization without committing to its specific identity
+- **아틀란티스** — 플라톤의 *크리티아스*와 *티마이오스*는 헤라클레스의 기둥 너머의 잃어버린 문명이 격변적 홍수에서 파괴되었다고 묘사한다.{{ cite(id="vidal-naquet-atlantis-story", text="[3]", title="비달-나케, *The Atlantis Story* (2007) — 플라톤 전통에 대한 학술적 다룸") }} 후속 아틀란티스 전통(도넬리의 1882년 *Atlantis: The Antediluvian World*,{{ cite(id="atlantis-antediluvian-world", text="[4]", title="도넬리, *Atlantis: The Antediluvian World* (1882) — 토대적 19세기 아틀란티스 부활") }} 케이시의 1920–1940년대 리딩,{{ cite(id="edgar-cayce-on-atlantis", text="[5]", title="Edgar Cayce on Atlantis (1968) — '잠자는 예언자'의 아틀란티스 리딩") }} 핸콕의 동시대 작업)은 이를 실질적으로 정교화한다
+- **레무리아 / 무** — 19세기 후반과 20세기 초에 아우구스투스 르 플론지옹과 제임스 처치워드에 의해 대중화된 아틀란티스의 태평양 등가물{{ cite(id="lost-continent-of-mu", text="[6]", title="처치워드, *The Lost Continent of Mu* (1926) — 토대적 무 / 태평양 잃어버린 문명 텍스트") }}
+- **시그너스 / 시리우스 / 플레이아데스 원천** — 특정 기념물을 특정 별 체계에 연결하는 다양한 고대 우주인 프레임
+- **대홍수 이전 문명** — 보다 광범위한 영거 드라이아스 시대 문명 격변 프레임으로, 제안된 영거 드라이아스 충돌 사건(기원전 약 12,900년)에 의해 파괴된 실질적인 영거 드라이아스 이전 문명을 상정한다
+- **건설자 종족** — 잃어버린 문명의 구체적 정체성에 헌신하지 않고 그것을 상정하는 보다 불가지론적인 대중적 프레임
 
-### Claim 3: The conventional chronology is wrong
+### 주장 3: 통상적 연대기가 틀렸다
 
-The alternative-archaeology tradition substantially disputes the conventional dating of specific monuments:
+대안 고고학 전통은 특정 기념물의 통상적 연대 측정을 실질적으로 반박한다.
 
-- **The Sphinx** — Robert Schoch's water-erosion argument proposes that the Sphinx is substantially older than the conventional ~2500 BCE dating, possibly dating to before the end of the last glacial period (~10,000 BCE or earlier)
-- **The Andean megalithic sites** — various alternative-archaeology arguments propose that specific Andean sites (particularly the lowest courses at Sacsayhuamán and Puma Punku) are substantially older than the conventional Inca-era dating
-- **Various other sites** — substantially older dating claims for specific monuments
+- **스핑크스** — 로버트 쇼크의 물에 의한 침식 논변은 스핑크스가 통상적인 기원전 약 2500년의 연대 측정보다 실질적으로 더 오래되었으며, 어쩌면 마지막 빙기 종결(기원전 약 10,000년 또는 그 이전) 이전의 연대일 수 있다고 제안한다{{ cite(id="voices-of-the-rocks", text="[7]", title="쇼크, *Voices of the Rocks* (1999) — 스핑크스 연대 재측정을 위한 지질학적 논변") }}{{ footnote(id="3") }}
+- **안데스 거석 유적지** — 다양한 대안 고고학적 논변은 특정 안데스 유적지(특히 사크사이와만과 푸마푼쿠의 최저층)가 통상적인 잉카 시대 연대 측정보다 실질적으로 더 오래되었다고 제안한다
+- **그 밖의 다양한 유적지** — 특정 기념물에 대한 실질적으로 더 오래된 연대 측정 주장
 
-### Claim 4: The construction techniques are unexplained
+### 주장 4: 건설 기법이 설명되지 않는다
 
-The alternative-archaeology tradition argues that specific construction techniques have not been adequately explained by mainstream archaeology:
+대안 고고학 전통은 특정 건설 기법이 주류 고고학에 의해 충분히 설명되지 않았다고 주장한다.
 
-- How were the Baalbek trilithons quarried, transported, and placed?
-- How was the polygonal-interlocking masonry achieved with the precision observed?
-- How were the Giza pyramid's internal granite blocks (each weighing many tons) transported up the rising pyramid structure?
-- How were the Stonehenge sarsens raised into vertical position?
-- How were the Easter Island moai transported across the island and erected?
+- 바알베크 삼석탑은 어떻게 채석, 운반, 배치되었는가?
+- 다각형 맞물림 석조는 관찰된 정밀성으로 어떻게 성취되었는가?
+- 기자 피라미드의 내부 화강암 블록(각각 수 톤의 무게)은 어떻게 솟아오르는 피라미드 구조 위로 운반되었는가?
+- 스톤헨지의 사르센은 어떻게 수직 위치로 일으켜졌는가?
+- 이스터섬 모아이는 어떻게 섬을 가로질러 운반되어 세워졌는가?
 
-## The corpus's positioning
+## 코퍼스의 위치 설정
 
-The Wheel of Heaven framework operates with substantively careful positioning on Ancient Builders. The corpus accepts some elements of the alternative-archaeology tradition's claims while substantially rejecting others.
+Wheel of Heaven 프레임워크는 고대 건설자에 관해 실질적으로 신중한 위치 설정을 가지고 작동한다. 코퍼스는 대안 고고학 전통의 주장의 일부 요소를 받아들이는 한편 다른 요소들은 실질적으로 거부한다.
 
-### What the corpus accepts
+### 코퍼스가 받아들이는 것
 
-- **The pre-flood alliance bases existed.** The Vorilhon source's identification of high-mountain and submarine alliance bases is corpus content. The principal Vorilhon-source quote: *"To avoid being disturbed by humans, the creators built their bases on high mountains, where we now find traces of great civilizations (in the Himalayas and Peru, for example), as well as at the bottom of the sea. Gradually the mountain stations were abandoned in favor of submarine bases less accessible to humans."* The alliance bases are substantive corpus content.
-- **The Göbekli Tepe revolution is genuine.** The Turkish site dated to c. 9500 BCE substantially predates the conventional Neolithic-revolution chronology and demonstrates monumental construction capability substantially earlier than previously believed. Göbekli Tepe's implications for the broader pre-flood civilizational picture are substantial.
-- **The pre-flood civilizational catastrophe is plausible.** The Younger Dryas Impact Hypothesis (Firestone et al., 2007, and substantial subsequent development) has accumulated substantial evidence for a major cosmic impact or atmospheric airburst event ~12,900 BCE, with substantial implications for any pre-flood civilizations that may have existed.
-- **The cross-cultural pattern is real.** The cross-cultural distribution of megalithic-and-monumental construction traditions across virtually every major civilization warrants substantive comparative engagement.
+- **대홍수 이전 동맹 기지가 존재했다.** 높은 산악 및 잠수 동맹 기지에 대한 보릴롱 자료의 동정은 코퍼스 내용이다. 주된 보릴롱 자료의 인용: *"인간에 의한 방해를 피하기 위해, 창조자들은 자신의 기지를 높은 산악 위에 — 우리가 지금 (예를 들어 히말라야와 페루에서) 위대한 문명의 흔적을 발견하는 곳에 — 그리고 또한 바다 밑에 건설했다. 산악 기지는 점차로 인간에게 덜 접근 가능한 잠수 기지를 위해 포기되었다."* 동맹 기지는 실질적인 코퍼스 내용이다.
+- **괴베클리 테페 혁명은 진정하다.** 기원전 약 9500년으로 연대 측정된 이 터키 유적지는 통상적인 신석기 혁명 연대기를 실질적으로 앞서며, 종래에 믿어졌던 것보다 실질적으로 더 이른 기념비적 건설 역량을 입증한다.{{ cite(id="dietrich-gobekli-antiquity-2012", text="[8]", title="디트리히 외, 'The role of cult and feasting in the emergence of Neolithic communities' (Antiquity 2012)") }} 보다 광범위한 대홍수 이전 문명 그림에 대한 괴베클리 테페의 함의는 실질적이다.{{ footnote(id="6") }}
+- **대홍수 이전 문명적 격변은 그럴법하다.** 영거 드라이아스 충돌 가설(파이어스톤 외, 2007,{{ cite(id="firestone-pnas-2007", text="[9]", title="파이어스톤 외, 'Evidence for an extraterrestrial impact 12,900 years ago' (PNAS 2007)") }} 그리고 실질적인 후속 발전{{ cite(id="deadly-voyager", text="[10]", title="파월, *Deadly Voyager* (2020) — 축적된 YDIH 증거의 종합") }})은 기원전 약 12,900년의 주요 우주 충돌 또는 대기 공중 폭발 사건에 대한 실질적 증거를 축적해 왔으며, 이는 존재했을 수도 있는 어떠한 대홍수 이전 문명에도 실질적 함의를 가진다.{{ footnote(id="4") }}
+- **범문화적 패턴은 실재한다.** 거의 모든 주요 문명에 걸친 거석 및 기념비적 건설 전통의 범문화적 분포는 실질적인 비교적 관여를 요구한다.
 
-### What the corpus differs from
+### 코퍼스가 차이를 두는 것
 
-- **The strong "Ancient Builder race" framing.** The claim that visible monuments are too sophisticated for the conventionally-credited civilizations is methodologically problematic. The experimental-archaeology record substantially documents the construction techniques used at major sites. The corpus has explicitly distanced itself from the cultural-dismissive reading of indigenous achievement in the [Ancient Astronaut Hypothesis](../ancient-astronaut-hypothesis/) entry.
-- **The Atlantis identification narrowly.** The Vorilhon source does not identify any specific "lost civilization" as the principal Earth-builder. The corpus engages Atlantis as a distinct interpretive tradition (treated in the pending [Atlantis](../atlantis/) entry) rather than as the foundation of the Ancient Builder framing.
-- **The "aliens did it" framing for visible monuments.** The visible major monuments (Giza, Stonehenge, Sacsayhuamán, Easter Island, Maltese temples) are substantively human accomplishment. The corpus does not require alien-construction explanations for these monuments.
+- **강한 "고대 건설자 종족" 프레임.** 가시적인 기념물이 통상적으로 공로가 부여되는 문명에 비해 너무 정교하다는 주장은 방법론적으로 문제가 있다. 실험 고고학적 기록은 주요 유적지에서 사용된 건설 기법을 실질적으로 문서화한다. 코퍼스는 {% wiki(slug="ancient-astronaut-hypothesis") %}고대 우주인 가설{% end %} 항목에서 토착민의 성취에 대한 문화 폄하적 독해와 명시적으로 거리를 두어 왔다.
+- **좁은 의미의 아틀란티스 동정.** 보릴롱 자료는 어떠한 특정한 "잃어버린 문명"도 주된 지구 건설자로 동정하지 않는다. 코퍼스는 아틀란티스를 고대 건설자 프레임의 토대가 아니라 별개의 해석적 전통으로 관여한다(작성 예정인 [아틀란티스](../atlantis/) 항목에서 다루어짐).{{ footnote(id="5") }}
+- **가시적인 기념물에 대한 "외계인이 그것을 했다" 프레임.** 가시적인 주요 기념물(기자, 스톤헨지, 사크사이와만, 이스터섬, 몰타 신전)은 실질적인 인류의 성취이다. 코퍼스는 이 기념물에 대해 외계인 건설 설명을 요구하지 않는다.
 
-### What remains genuinely open
+### 진정으로 열린 것
 
-- **The specific extent of pre-flood civilization.** The conventional view treats pre-flood human populations as principally pre-agricultural with limited construction capability. The Göbekli Tepe evidence and the Younger Dryas Impact evidence both suggest substantially more developed pre-flood civilization than the conventional view allowed. The specific extent of this development remains open.
-- **Specific anomalies at specific sites.** Some specific features at specific sites (the Baalbek trilithon's transport mechanism; specific polygonal-interlocking precision at Sacsayhuamán; specific construction details at Puma Punku) remain incompletely explained by mainstream archaeology. The corpus treats these as genuinely open questions requiring continued engagement rather than as either resolved by mainstream explanation or as evidence for alien construction.
-- **The relationship between alliance-base sites and subsequent human monumental construction.** Some major sites may sit on or near former alliance-base locations, with subsequent human populations building on the substantial cultural-religious associations the sites carried from the earlier alliance presence. The specific identification of which major sites have this background relationship remains genuinely open.
+- **대홍수 이전 문명의 구체적 범위.** 통상적 견해는 대홍수 이전 인류 인구를 주로 건설 역량이 제한된 농경 이전으로 다룬다. 괴베클리 테페 증거와 영거 드라이아스 충돌 증거는 모두 통상적 견해가 허용한 것보다 실질적으로 더 발전한 대홍수 이전 문명을 시사한다. 이 발전의 구체적 범위는 열려 있다.
+- **특정 유적지의 특정 이례.** 특정 유적지의 일부 특정 특징들(바알베크 삼석탑의 운반 메커니즘, 사크사이와만의 특정 다각형 맞물림 정밀성, 푸마푼쿠의 특정 건설 세부 사항)은 주류 고고학에 의해 충분히 설명되지 않은 채 남아 있다. 코퍼스는 이것들을 주류 설명에 의해 해결되었다거나 외계인 건설의 증거라기보다, 계속되는 관여를 요구하는 진정으로 열린 문제로 다룬다.
+- **동맹 기지 유적지와 후속 인류의 기념비적 건설 사이의 관계.** 일부 주요 유적지는 이전 동맹 현존으로부터 그 유적지가 지녔던 실질적인 문화-종교적 연관성 위에 후속 인류 인구가 건설한, 이전 동맹 기지 위치 위에 또는 그 근처에 자리 잡고 있을 수 있다. 이 배경 관계를 가지는 주요 유적지가 어느 것인지의 구체적 동정은 진정으로 열려 있다.
 
-### The methodological commitment
+### 방법론적 헌신
 
-The corpus's methodological commitment for Ancient Builders engagement:
+고대 건설자 관여를 위한 코퍼스의 방법론적 헌신은 다음과 같다.
 
-- **Respect for indigenous achievement.** The conventionally-credited civilizations achieved their monuments through human capacity, often substantial. The cultural-dismissive reading of indigenous achievement is methodologically problematic and substantially racist in its historical application.
-- **Engagement with mainstream archaeology.** Mark Lehner's work at Giza, Mike Pitts's work at Stonehenge, the experimental-archaeology programs at multiple sites have substantially documented how specific monuments were constructed. The corpus engages this work at the descriptive level.
-- **Specific anomaly engagement.** Where specific features at specific sites remain incompletely explained, the corpus treats them as open questions worth continued investigation rather than as either resolved or as evidence for alien construction.
-- **Disciplined epistemic pluralism.** The corpus distinguishes between direct source claims (the Vorilhon source on alliance bases), comparative observations (cross-cultural megalithic traditions), corpus interpretations (the integration of alliance-base content with broader cultural-civilizational engagement), and speculative inference (specific identifications of which monuments may carry alliance-base background).
+- **토착민의 성취에 대한 존중.** 통상적으로 공로가 부여되는 문명들은 자신의 기념물을, 종종 상당한 인류적 역량을 통해 성취했다. 토착민의 성취에 대한 문화 폄하적 독해는 방법론적으로 문제가 있으며, 그 역사적 적용에 있어 실질적으로 인종주의적이다.
+- **주류 고고학에 대한 관여.** 기자에서의 마크 레너의 작업,{{ cite(id="the-complete-pyramids", text="[11]", title="레너, *The Complete Pyramids* (1997)") }} 스톤헨지에서의 마이크 피츠의 작업,{{ cite(id="hengeworld", text="[12]", title="피츠, *Hengeworld* (2000)") }} 여러 유적지에서의 실험 고고학 프로그램은 특정 기념물이 어떻게 건설되었는지를 실질적으로 문서화했다. 코퍼스는 이 작업을 기술 수준에서 관여한다.
+- **특정 이례에 대한 관여.** 특정 유적지의 특정 특징이 충분히 설명되지 않은 채로 남을 때, 코퍼스는 그것들을 해결되었다거나 외계인 건설의 증거라기보다 계속되는 조사가 가치 있는 열린 문제로 다룬다.
+- **훈련된 인식론적 다원주의.** 코퍼스는 직접적인 자료 주장(동맹 기지에 관한 보릴롱 자료), 비교적 관찰(범문화적 거석 전통), 코퍼스의 해석(보다 광범위한 문화-문명적 관여와 동맹 기지 내용의 통합), 그리고 추측적 추론(어느 기념물이 동맹 기지 배경을 지닐 수 있는가의 구체적 동정) 사이를 구별한다.
 
-## The Vorilhon source on alliance Earth-bases
+## 동맹 지구 기지에 관한 보릴롱 자료
 
-The Vorilhon source identifies substantive alliance Earth-bases that operate as the principal corpus content distinct from the broader Ancient Builder framing. The principal source material.
+보릴롱 자료는 보다 광범위한 고대 건설자 프레임과 구별되는 주된 코퍼스 내용으로 작동하는, 실질적인 동맹 지구 기지를 동정한다. 주된 자료적 내용은 다음과 같다.
 
-### The high-mountain bases
+### 높은 산악 기지
 
-The Vorilhon-source quotation the v1 cites:
+v1이 인용하는 보릴롱 자료의 인용은 다음과 같다.
 
-> *"To avoid being disturbed by humans, the creators built their bases on high mountains, where we now find traces of great civilizations (in the Himalayas and Peru, for example), as well as at the bottom of the sea. Gradually the mountain stations were abandoned in favor of submarine bases less accessible to humans. The creators who had been banished at the outset had hidden themselves in the oceans."*
+> *"인간에 의한 방해를 피하기 위해, 창조자들은 자신의 기지를 높은 산악 위에 — 우리가 지금 (예를 들어 히말라야와 페루에서) 위대한 문명의 흔적을 발견하는 곳에 — 그리고 또한 바다 밑에 건설했다. 산악 기지는 점차로 인간에게 덜 접근 가능한 잠수 기지를 위해 포기되었다. 시초에 추방된 창조자들은 대양 속에 자신을 은닉했다."*
 
-The principal content:
+주된 내용은 다음과 같다.
 
-- **High-mountain bases existed.** The alliance maintained operational bases on high mountains during the principal Earth-project period.
-- **Specific regions identified.** The Himalayas and Peru (Andes) are explicitly named. The source elsewhere also identifies Greek bases ("in Greece where Greek mythology also contains important testimonies") and various other regional installations.
-- **The bases were operational rather than monumental.** The bases were functional installations for the alliance personnel — laboratories, habitation, communications infrastructure, energy production. They were not monumental constructions intended as visible symbols.
-- **The bases were progressively abandoned.** As humans developed and approached the mountain locations, the alliance progressively moved operations to less accessible submarine locations.
-- **The Serpentine faction's submarine concealment.** The exiled Serpentine faction (treated systematically in the [Theomachy](../theomachy/) and [Serpent](../serpent/) entries) hid in oceanic locations after their banishment from the main alliance, with the submarine bases being principally their installations rather than the main alliance's.
+- **높은 산악 기지가 존재했다.** 동맹은 주된 지구 프로젝트 기간 동안 높은 산악 위에 운영 기지를 유지했다.
+- **특정 지역이 동정되었다.** 히말라야와 페루(안데스)가 명시적으로 명명되었다. 자료는 다른 곳에서 그리스 기지("그리스 신화도 중요한 증언을 담고 있는 그리스에서")와 다양한 다른 지역 시설도 동정한다.
+- **기지는 기념비적이라기보다 운영적이었다.** 기지는 동맹 인력을 위한 기능적 시설 — 실험실, 거주지, 통신 인프라, 에너지 생산 — 이었다. 그것들은 가시적인 상징으로 의도된 기념비적 건설물이 아니었다.
+- **기지는 점진적으로 포기되었다.** 인간이 발전하고 산악 위치에 접근함에 따라, 동맹은 점차로 운영을 덜 접근 가능한 잠수 위치로 이전했다.
+- **뱀파 분파의 잠수 은신.** 추방된 {% wiki(slug="serpent") %}뱀파 분파{% end %}({% wiki(slug="theomachy") %}신들의 전쟁{% end %}과 뱀 항목에서 체계적으로 다루어짐)는 주된 동맹으로부터의 추방 이후 대양 위치에 은신했다. 잠수 기지는 주된 동맹의 시설이라기보다 주로 그들의 시설이었다.
 
-### The Ezekiel passage and high-mountain bases
+### 에스겔 단락과 높은 산악 기지
 
-The Vorilhon source engages Ezekiel 11:23-24 as preserving content about alliance Earth-bases:
+보릴롱 자료는 에스겔 11:23–24를 동맹 지구 기지에 관한 내용을 보존하는 것으로 관여한다.
 
-> *"And the glory of Yahweh went up from the midst of the city, and stood upon the mountain which is on the east side of the city. Afterwards the spirit took me up, and brought me in a vision by the Spirit of Elohim into Chaldea..."* (Ezekiel 11:23-24)
+> *"{% wiki(slug="yahweh") %}야훼{% end %}의 영광이 성읍 가운데에서 올라가 성읍 동편 산에 머무르고. 그 후에 영이 나를 들어 올리시고 엘로힘의 영의 환상으로 나를 갈대아로 데리고 가서…"* (에스겔 11:23–24)
 
-The source's reading: the "city" referenced is one of the alliance Earth-bases at the time of Ezekiel's prophetic mission. The alliance bases were always located on high mountains to avoid disturbance from humans. Ezekiel's "spirit took me up" describes alliance-craft transport from the local context to the mountain base location.
+자료의 독해는 다음과 같다. 즉 언급된 "성읍"은 에스겔의 예언적 임무 당시의 동맹 지구 기지 중 하나이다. 동맹 기지는 인간으로부터의 방해를 피하기 위해 항상 높은 산악 위에 위치했다. 에스겔의 "영이 나를 들어 올리시고"는 지역적 맥락으로부터 산악 기지 위치로의 동맹 선박 운반을 묘사한다.
 
-The detailed treatment of Ezekiel's substantial alliance-contact content lives in the [Ezekiel](../ezekiel/) entry when written. For Ancient Builders, the relevant content is the alliance's documented use of high-mountain installations across the principal Earth-project period.
+에스겔의 실질적인 동맹 접촉 내용에 대한 상세한 다룸은 작성될 때 [에스겔](../ezekiel/) 항목에 있게 된다. 고대 건설자에 있어 관련된 내용은, 주된 지구 프로젝트 기간 전반에 걸친 동맹의 높은 산악 시설의 문서화된 사용이다.
 
-### The traces of the bases
+### 기지의 흔적
 
-The Vorilhon source's identification of "traces of great civilizations" at the former high-mountain base locations is substantive. The corpus reading: the substantial pre-Inca and pre-Columbian Andean cultural-religious sites that subsequent Andean civilizations built on or near may sit on former alliance-base locations. The substantial Tibetan-Himalayan religious-cultural sites that subsequent Buddhist and Hindu traditions consider sacred may sit on former alliance-base locations. The substantial Mediterranean-Greek sacred-mountain locations (Mount Olympus, Mount Athos, Mount Parnassus, the various oracle sites) may carry substantial cultural memory of alliance presence.
+이전의 높은 산악 기지 위치에 있는 "위대한 문명의 흔적"에 대한 보릴롱 자료의 동정은 실질적이다. 코퍼스의 독해는 다음과 같다. 즉 후속 안데스 문명들이 그 위에 또는 그 근처에 건설한 실질적인 잉카 이전 및 콜럼버스 이전의 안데스 문화-종교적 유적지는 이전의 동맹 기지 위치 위에 자리 잡고 있을 수 있다. 후속 불교 및 힌두 전통이 신성하다고 여기는 실질적인 티베트-히말라야 종교-문화적 유적지는 이전의 동맹 기지 위치 위에 자리 잡고 있을 수 있다. 실질적인 지중해-그리스 신성 산악 위치(올림포스 산, 아토스 산, 파르나소스 산, 다양한 신탁 유적지)는 동맹 현존에 관한 실질적인 문화적 기억을 지닐 수 있다.
 
-The methodological commitment: the corpus does not claim that any specific contemporary archaeological site is provably a former alliance base. The claim is that the substantial cross-cultural pattern of high-mountain sacred sites in regions the Vorilhon source identifies (Andes, Himalayas, Greece) may reflect substantial cultural memory of alliance presence at those general locations. Specific identification of specific archaeological sites with specific former alliance bases is substantively open and would require independent evidence the corpus does not currently possess.
+방법론적 헌신은 다음과 같다. 즉 코퍼스는 어떠한 특정 동시대 고고학 유적지가 입증 가능하게 이전 동맹 기지라고 주장하지 않는다. 주장은, 보릴롱 자료가 동정하는 지역(안데스, 히말라야, 그리스)에서의 높은 산악 신성 유적지의 상당한 범문화적 패턴이 그 일반 위치에서의 동맹 현존에 관한 실질적인 문화적 기억을 반영할 수 있다는 것이다. 특정 고고학 유적지를 특정한 이전 동맹 기지와 구체적으로 동정하는 것은 실질적으로 열려 있으며, 코퍼스가 현재 보유하지 않은 독립적 증거를 요구할 것이다.
 
-### The submarine bases
+### 잠수 기지
 
-The Vorilhon-source content on submarine bases:
+잠수 기지에 관한 보릴롱 자료의 내용은 다음과 같다.
 
-- **The main alliance's submarine bases.** As the alliance progressively withdrew from direct human contact, the principal operational bases moved from high mountains to submarine locations less accessible to humans.
-- **The Serpentine faction's submarine concealment.** The exiled Serpentine faction (Lucifer's group, banished from the main alliance after the disclosure event in Eden) hid in oceanic locations. The substantial cross-cultural "serpent / dragon / sea-monster" traditions preserve cultural memory of this faction's submarine presence (treated in the [Serpent](../serpent/) and [Theomachy](../theomachy/) entries).
+- **주된 동맹의 잠수 기지.** 동맹이 직접적인 인간 접촉으로부터 점진적으로 철수함에 따라, 주된 운영 기지는 높은 산악으로부터 인간에게 덜 접근 가능한 잠수 위치로 이동했다.
+- **뱀파 분파의 잠수 은신.** 추방된 뱀파 분파({% wiki(slug="eden") %}에덴{% end %}에서의 폭로 사건 이후 주된 동맹으로부터 추방된 {% wiki(slug="lucifer") %}루시퍼{% end %}의 집단)는 대양 위치에 은신했다. 실질적인 범문화적 "뱀 / 용 / 바다 괴물" 전통은 이 분파의 잠수 현존에 관한 문화적 기억을 보존한다(뱀과 신들의 전쟁 항목에서 다루어짐).
 
-The substantive contemporary engagement with submarine archaeology has produced substantial findings — the substantial submerged Neolithic sites in the Mediterranean and other regions; the substantial Yonaguni structures off Okinawa (substantively debated); the substantial Bimini Road off the Bahamas (substantively debated); the substantial submerged structures off the Gulf of Cambay (substantively debated). The corpus does not claim that any specific submerged site is provably an alliance submarine base. The claim is that the Vorilhon source's substantial submarine-base content registers a substantive corpus-content category distinct from the visible megalithic monuments.
+잠수 고고학에 대한 실질적인 동시대 관여는 실질적인 발견을 산출해 왔다 — 지중해 및 그 밖의 지역의 실질적인 침수된 신석기 유적지, 오키나와 앞바다의 실질적인 요나구니 구조물(실질적으로 논쟁 중), 바하마 앞바다의 실질적인 비미니 로드(실질적으로 논쟁 중), 캄베이만 앞바다의 실질적인 침수된 구조물(실질적으로 논쟁 중).{{ cite(id="underworld-hancock", text="[13]", title="핸콕, *Underworld* (2002) — 전 세계의 침수된 고고학 유적지") }} 코퍼스는 어떠한 특정 침수된 유적지가 입증 가능하게 동맹 잠수 기지라고 주장하지 않는다. 주장은, 보릴롱 자료의 실질적인 잠수 기지 내용이 가시적인 거석 기념물과 구별되는 실질적인 코퍼스 내용 범주를 등록한다는 것이다.
 
-## Mainstream archaeology on megalithic construction
+## 거석 건설에 관한 주류 고고학
 
-The substantial mainstream archaeological and engineering engagement with megalithic construction has substantively documented how specific monuments were built. The corpus engages this work at the descriptive level. The principal contributions:
+거석 건설에 대한 실질적인 주류 고고학 및 공학적 관여는 특정 기념물이 어떻게 건설되었는지를 실질적으로 문서화해 왔다. 코퍼스는 이 작업을 기술 수준에서 관여한다. 주된 기여는 다음과 같다.
 
-### Egyptian pyramids
+### 이집트 피라미드
 
-The substantial documented record of Egyptian pyramid construction is principally the work of multiple generations of Egyptologists, with the contemporary engagement principally led by **Mark Lehner** (Ancient Egypt Research Associates) and **Zahi Hawass** (former Egyptian Minister of State for Antiquities Affairs).
+이집트 피라미드 건설에 대한 실질적인 문서화된 기록은 주로 여러 세대의 이집트학자들의 작업이며, 동시대 관여는 주로 **마크 레너**(고대 이집트 연구 협회)와 **자히 하와스**(전 이집트 유물부 장관)에 의해 주도되고 있다.{{ cite(id="giza-and-the-pyramids", text="[14]", title="레너 & 하와스, *Giza and the Pyramids: The Definitive History* (2017)") }}
 
-The principal documented findings:
+주된 문서화된 발견은 다음과 같다.
 
-- **The pyramid workforce.** The discovery and excavation of the substantial workers' village at Giza ("Heit el-Ghurab," "Wall of the Crow") since the 1990s has substantially documented the actual workforce that built the pyramids. The village housed ~10,000-20,000 workers in organized institutional housing with substantial food-supply infrastructure (the substantial bakery and brewery complexes; the substantial cattle and sheep-processing facilities supplying daily protein for thousands of workers). The workers were not slaves but skilled and semi-skilled laborers, organized in named work crews, with substantial wages paid in food rations.
-- **Quarrying and transport.** The substantial Aswan-Giza granite transport is documented through both archaeological and experimental evidence. The substantial Wadi al-Jarf papyri (discovered 2013) include "Diary of Merer" — a logbook by a foreman directing limestone transport for the Great Pyramid's casing stones. The diary documents the actual transport operation: limestone quarried at Tura (across the Nile from Giza), transported by boat across the Nile, with substantial canal-and-harbor infrastructure delivering the stone to the pyramid site.
-- **Construction methods.** Multiple experimental-archaeology programs have demonstrated that substantial Egyptian construction techniques (ramps, levers, sledges, water-lubricated paths) substantially explain how the pyramids were built. The substantial debate continues about the specific ramp configurations used (external, internal, spiral, or combination), but the principal construction methods are within documented Egyptian capability.
+- **피라미드 노동력.** 1990년대 이래 기자에 있는 실질적인 노동자 마을("헤이트 엘구라브," "까마귀의 벽")의 발견과 발굴은 실제로 피라미드를 건설한 노동력을 실질적으로 문서화해 왔다. 이 마을은 수천 명의 노동자를 위한 실질적인 식량 공급 인프라(수천 명의 노동자를 위한 일일 단백질을 공급하는 실질적인 빵집 및 양조장 단지, 실질적인 소 및 양 가공 시설)를 갖춘 조직화된 제도적 주거에 약 10,000–20,000명의 노동자를 수용했다. 노동자들은 노예가 아니라, 명명된 작업조에 조직되어 식량 배급으로 실질적인 임금을 받는 숙련 및 반숙련 노동자였다.
+- **채석과 운반.** 실질적인 아스완-기자 화강암 운반은 고고학적 및 실험적 증거를 통해 문서화된다. 실질적인 와디 알자르프 파피루스(2013년 발견)는 "메레르의 일지" — 대피라미드의 외장석을 위한 석회암 운반을 지휘한 한 십장의 일지 — 를 포함한다.{{ cite(id="journal-de-merer-tallet", text="[15]", title="탈레, *Les papyrus de la Mer Rouge I: Le Journal de Merer* (2017)") }} 이 일지는 실제 운반 작업을 문서화한다. 즉 석회암은 투라(나일 강 건너편에서 기자 맞은편)에서 채석되어 나일 강을 건너 배로 운반되었으며, 실질적인 운하 및 항구 인프라가 돌을 피라미드 유적지로 전달했다.
+- **건설 방법.** 여러 실험 고고학 프로그램은 실질적인 이집트 건설 기법(경사로, 지렛대, 썰매, 물로 윤활된 경로)이 피라미드가 어떻게 건설되었는지를 실질적으로 설명한다는 것을 입증해 왔다. 사용된 구체적인 경사로 구성(외부, 내부, 나선형, 또는 조합)에 관한 실질적인 논쟁은 계속되지만, 주된 건설 방법은 문서화된 이집트 역량 범위 내에 있다.
 
-### Stonehenge
+### 스톤헨지
 
-The substantial documented record of Stonehenge construction is principally the work of multiple generations of British archaeologists, with contemporary engagement led by **Mike Parker Pearson** (University College London), **Mike Pitts**, and others.
+스톤헨지 건설에 대한 실질적인 문서화된 기록은 주로 여러 세대의 영국 고고학자들의 작업이며, 동시대 관여는 **마이크 파커 피어슨**(유니버시티 칼리지 런던),{{ cite(id="stonehenge-parker-pearson", text="[16]", title="파커 피어슨, *Stonehenge: Exploring the Greatest Stone Age Mystery* (2012)") }} **마이크 피츠**, 그 밖의 인물에 의해 주도된다.
 
-The principal documented findings:
+주된 문서화된 발견은 다음과 같다.
 
-- **The bluestones.** The bluestones (smaller stones in the inner ring) were quarried from the Preseli Hills in Wales (specifically Craig Rhos-y-felin and Carn Goedog) and transported ~200 km to the Salisbury Plain. The transport method is substantially debated (overland via sledges and rollers; sea-and-river transport; glacial-erratic distribution with subsequent human reorganization) but the principal source is substantively confirmed.
-- **The sarsens.** The substantial sarsen stones (larger outer ring and trilithons) were quarried much closer — recent geochemical analysis (David Nash et al., 2020) has substantially confirmed the West Woods, Marlborough Downs source ~25 km from the site. The transport involved substantial overland sledge-and-roller methods over relatively flat terrain.
-- **Construction phases.** Stonehenge was built across multiple phases ~3000-2000 BCE, with substantial revision and reorganization over centuries. The site was a substantial communal project of the Late Neolithic and Early Bronze Age British populations, with substantial associated burial and ceremonial activity (the substantial Aubrey Holes cremation deposits; the substantial Cursus and Avenue associated monuments).
-- **Astronomical alignment.** The substantial summer solstice sunrise and winter solstice sunset alignment is documented and was substantively intentional. The astronomical knowledge involved is within the capability of any culture with sustained observation of the annual solar cycle.
+- **청석.** 청석(안쪽 환의 더 작은 돌)은 웨일스의 프레셀리 힐스(특히 크레이그 호스이펠린과 카른 고이도그)에서 채석되어 약 200km 떨어진 솔즈베리 평원으로 운반되었다. 운반 방법은 실질적으로 논쟁 중이지만(썰매와 롤러를 통한 육로, 바다와 강을 통한 운반, 후속 인간 재조직을 가진 빙하 이동 분포), 주된 원천은 실질적으로 확인되었다.
+- **사르센.** 실질적인 사르센 돌(더 큰 외부 환 및 삼석탑)은 훨씬 더 가까운 곳에서 채석되었다. 최근의 지구화학적 분석(데이비드 내시 외, 2020){{ cite(id="nash-sarsen-megaliths-2020", text="[17]", title="내시 외, 'Origins of the sarsen megaliths at Stonehenge' (Science Advances 2020)") }}은 유적지로부터 약 25km 떨어진 말버러 다운스의 웨스트 우즈 원천을 실질적으로 확증했다. 운반은 비교적 평탄한 지형 위에서의 실질적인 육로 썰매와 롤러 방법을 수반했다.
+- **건설 단계.** 스톤헨지는 기원전 약 3000–2000년에 걸친 여러 단계에 걸쳐 건설되었으며, 수 세기에 걸친 실질적인 수정과 재조직을 가졌다. 이 유적지는 영국의 후기 신석기 및 초기 청동기 시대 인구의 실질적인 공동체적 프로젝트였으며, 실질적인 관련 매장 및 의례 활동(실질적인 오브리 홀스 화장 매장, 실질적인 커서스 및 어배뉴 관련 기념물)을 가졌다.
+- **천문학적 정렬.** 실질적인 하지 일출 및 동지 일몰 정렬은 문서화되었으며 실질적으로 의도적이었다. 관련된 천문학적 지식은 연간 태양 순환을 지속적으로 관찰하는 어떤 문화의 역량 범위 내에 있다.
 
-### Andean megalithic sites
+### 안데스 거석 유적지
 
-The substantial documented record of Andean megalithic construction includes substantial Inca-era work at Sacsayhuamán, Machu Picchu, Ollantaytambo, and Cusco, with substantial pre-Inca foundations at some sites.
+안데스 거석 건설에 대한 실질적인 문서화된 기록은 사크사이와만, 마추픽추, 오얀타이탐보, 쿠스코에서의 실질적인 잉카 시대 작업과 일부 유적지에서의 실질적인 잉카 이전 기반을 포함한다.
 
-The principal documented findings:
+주된 문서화된 발견은 다음과 같다.
 
-- **Inca construction techniques.** The substantial Inca polygonal masonry was achieved through hammer-stone shaping (using harder andesite or basalt hammers to shape softer limestone or sandstone), with substantial test-fitting between adjacent stones until the polygonal interlock was achieved. The substantial experimental archaeology (Jean-Pierre Protzen's work at Ollantaytambo) has demonstrated the technique's feasibility within documented Inca tool capability.
-- **The Sacsayhuamán heavy stones.** The substantial Sacsayhuamán stones include some weighing >100 tons. The transport from quarry to site (substantially short distances of <2 km for most stones) involved substantial sledge-and-ramp methods with substantial labor coordination. The substantial Inca labor mobilization (the *mit'a* system providing rotating labor service from across the empire) provided the substantial workforce.
-- **Pre-Inca foundations.** Some Andean sites (Tiwanaku c. 300-1000 CE; Puma Punku c. 500-1000 CE; the substantial Chavín culture c. 1200-200 BCE) substantially predate the Inca period. The substantial Tiwanaku and Puma Punku stonework includes substantial precision construction with specific features (the substantial H-blocks at Puma Punku) that remain incompletely explained by mainstream engagement.
+- **잉카 건설 기법.** 실질적인 잉카 다각형 석조는, 더 부드러운 석회암이나 사암을 다듬기 위해 더 단단한 안산암이나 현무암 망치를 사용하는 망치돌 다듬기를 통해 성취되었으며, 다각형 맞물림이 성취될 때까지 인접한 돌 사이의 실질적인 시험 맞춤을 동반했다. 실질적인 실험 고고학(오얀타이탐보에서의 장피에르 프로첸의 작업){{ cite(id="inca-architecture-ollantaytambo", text="[18]", title="프로첸, *Inca Architecture and Construction at Ollantaytambo* (1993)") }}은 이 기법이 문서화된 잉카 도구 역량 범위 내에서 실현 가능함을 입증해 왔다.
+- **사크사이와만의 무거운 돌.** 실질적인 사크사이와만의 돌에는 100톤 이상의 무게가 나가는 일부가 포함된다. 채석장으로부터 유적지까지의 운반(대부분의 돌의 경우 2km 미만의 실질적으로 짧은 거리)은 실질적인 노동 조율을 가진 실질적인 썰매와 경사로 방법을 수반했다. 실질적인 잉카 노동 동원(제국 전반에서 순환적 노동 봉사를 제공한 *미타* 체제)이 실질적인 노동력을 제공했다.
+- **잉카 이전 기반.** 일부 안데스 유적지(티와나쿠 약 300–1000 CE, 푸마푼쿠 약 500–1000 CE, 실질적인 차빈 문화 약 기원전 1200–200년)는 잉카 시대를 실질적으로 앞선다. 실질적인 티와나쿠와 푸마푼쿠 석조는 주류의 관여로 충분히 설명되지 않은 채로 남아 있는 구체적 특징(푸마푼쿠의 실질적인 H-블록)을 가진 실질적인 정밀 건설을 포함한다.
 
-### Easter Island moai
+### 이스터섬 모아이
 
-The substantial documented record of Easter Island construction includes the substantial moai (statues) and ahu (platforms) built by the Rapa Nui people.
+이스터섬 건설에 대한 실질적인 문서화된 기록은 라파누이 사람들이 건설한 실질적인 모아이(석상)와 아후(단)를 포함한다.
 
-The principal documented findings:
+주된 문서화된 발견은 다음과 같다.
 
-- **Quarrying.** The substantial moai were quarried from Rano Raraku, a volcanic crater on the island. The quarry contains many unfinished moai in various stages of completion, substantially documenting the quarrying process.
-- **Transport.** The substantial moai transport across the island is principally explained through the "walking" hypothesis (Terry Hunt and Carl Lipo, with experimental demonstration in 2012) — the moai were transported in upright position using ropes that rocked them side-to-side in a walking motion. The substantial experimental demonstration substantively confirmed the method's feasibility.
-- **Erection.** The substantial moai erection at ahu sites used substantial sledge-ramp methods with rope-and-lever assistance.
+- **채석.** 실질적인 모아이는 섬에 있는 화산 분화구인 라노 라라쿠에서 채석되었다. 이 채석장은 완성 단계의 다양한 단계에 있는 많은 미완성 모아이를 포함하며, 채석 과정을 실질적으로 문서화한다.
+- **운반.** 섬을 가로지르는 실질적인 모아이 운반은 주로 "걷기" 가설(테리 헌트와 칼 라이포, 2012년의 실험적 시연을 가짐){{ cite(id="statues-that-walked", text="[19]", title="헌트 & 라이포, *The Statues That Walked* (2011)") }}을 통해 설명된다. 즉 모아이는 걷는 동작으로 좌우로 흔드는 밧줄을 사용하여 직립 자세로 운반되었다. 실질적인 실험적 시연은 이 방법의 실현 가능성을 실질적으로 확증했다.
+- **세우기.** 아후 유적지에서의 실질적인 모아이 세우기는 밧줄과 지렛대의 보조를 가진 실질적인 썰매-경사로 방법을 사용했다.
 
-### Maltese megalithic temples
+### 몰타 거석 신전
 
-The substantial documented record of Maltese temple construction (Ġgantija, Hagar Qim, Mnajdra, Tarxien, Skorba, others; c. 3600-2500 BCE) is principally the work of multiple generations of Maltese and international archaeologists.
+몰타 신전 건설(즈간티야, 하자르 큄, 므나이드라, 타르시엔, 스코르바, 그 밖의 것들, 기원전 약 3600–2500년)에 대한 실질적인 문서화된 기록은 주로 여러 세대의 몰타 및 국제 고고학자들의 작업이다.
 
-The principal documented findings:
+주된 문서화된 발견은 다음과 같다.
 
-- **The substantial Neolithic Maltese population** built the temples using local limestone (both globigerina and coralline varieties), with substantial quarrying and transport methods documented through the substantial unfinished stones and quarry sites.
-- **Construction techniques.** The substantial corbel-vault and lintel-construction methods are within documented Neolithic technology.
-- **Astronomical alignment.** Several Maltese temples (particularly Mnajdra) include substantial equinox and solstice alignments.
+- **실질적인 신석기 몰타 인구**가 지역 석회암(글로비제리나와 산호초 종류 모두)을 사용하여 신전을 건설했으며, 실질적인 미완성 돌과 채석장 유적지를 통해 문서화된 실질적인 채석 및 운반 방법을 가졌다.
+- **건설 기법.** 실질적인 까치발-볼트 및 인방 건설 방법은 문서화된 신석기 기술 범위 내에 있다.
+- **천문학적 정렬.** 몇몇 몰타 신전(특히 므나이드라)은 실질적인 춘분점과 지점 정렬을 포함한다.
 
-### The general methodological pattern
+### 일반적인 방법론적 패턴
 
-The substantial cross-cultural pattern across mainstream archaeology and engineering on megalithic construction is consistent:
+거석 건설에 관한 주류 고고학 및 공학에 걸친 실질적인 범문화적 패턴은 일관적이다.
 
-- **The conventionally-credited civilizations had the technological capability.** The principal construction methods are within the documented capabilities of the civilizations conventionally credited with the monuments.
-- **Substantial labor coordination was required.** The monuments represent substantial communal efforts — thousands of workers organized across years or decades.
-- **Substantial astronomical knowledge was required.** The astronomical alignments reflect substantial sustained observation of the celestial cycles, well within human capability.
-- **Specific anomalies remain.** Some specific features at specific sites (the Baalbek trilithon transport; specific Andean polygonal-interlocking precision; specific Puma Punku features) remain incompletely explained by current mainstream methods.
+- **통상적으로 공로가 부여되는 문명은 기술적 역량을 가졌다.** 주된 건설 방법은 그 기념물의 공로가 통상적으로 부여되는 문명들의 문서화된 역량 범위 내에 있다.
+- **실질적인 노동 조율이 요구되었다.** 기념물은 수년 또는 수십 년에 걸쳐 조직된 수천 명의 노동자라는 실질적인 공동체적 노력을 나타낸다.
+- **실질적인 천문학적 지식이 요구되었다.** 천문학적 정렬은 인류의 역량 범위 내에 충분히 있는 천체 순환의 실질적인 지속적 관찰을 반영한다.
+- **특정 이례가 남는다.** 특정 유적지의 일부 특정 특징(바알베크 삼석탑 운반, 특정 안데스 다각형 맞물림 정밀성, 특정 푸마푼쿠 특징)은 현재의 주류 방법으로 충분히 설명되지 않은 채 남아 있다.
 
-The corpus accepts the mainstream archaeological account at the descriptive level. The visible megalithic monuments were built by the human civilizations to whom they are conventionally attributed, using technologies that the experimental-archaeology record substantially documents. Specific anomalies warrant continued engagement but do not by themselves require alien-construction explanations.
+코퍼스는 주류 고고학적 기록을 기술 수준에서 받아들인다. 가시적인 거석 기념물은 그것들이 통상적으로 귀속되는 인류 문명들에 의해, 실험 고고학적 기록이 실질적으로 문서화하는 기술을 사용하여 건설되었다. 특정 이례는 계속되는 관여를 요구하지만, 그것들 자체로 외계인 건설 설명을 요구하지는 않는다.
 
-## Modern reinterpretations and adjacent traditions
+## 근대의 재해석과 인접 전통
 
-The substantive contemporary engagement with Ancient Builders content operates across multiple distinct registers.
+고대 건설자 내용에 대한 실질적인 동시대 관여는 여러 별개의 등록부에 걸쳐 작동한다.
 
-### The "lost civilization" alternative-archaeology tradition
+### "잃어버린 문명" 대안 고고학 전통
 
-The substantial alternative-archaeology tradition has articulated the Ancient Builder framing across multiple generations of contemporary engagement.
+실질적인 대안 고고학 전통은 여러 세대의 동시대 관여에 걸쳐 고대 건설자 프레임을 정식화해 왔다.
 
-**Graham Hancock** is the principal contemporary popularizer. His principal works:
+**그레이엄 핸콕**은 주된 동시대 대중화자이다. 그의 주된 저작은 다음과 같다.
 
-- *Fingerprints of the Gods* (Crown, 1995) — articulating the lost-civilization hypothesis through cross-cultural megalithic and mythological evidence
-- *Magicians of the Gods* (Thomas Dunne, 2015) — substantially updating the framework with the Younger Dryas Impact Hypothesis evidence
-- *America Before* (St. Martin's, 2019) — extending the framework to pre-Columbian America
-- *Underworld* (Crown, 2002) — engaging submerged archaeological sites globally
-- The Netflix series *Ancient Apocalypse* (2022) — substantial popular engagement
+- *Fingerprints of the Gods*(크라운, 1995){{ cite(id="fingerprints-of-the-gods", text="[20]", title="핸콕, *Fingerprints of the Gods* (1995)") }} — 범문화적 거석 및 신화학적 증거를 통해 잃어버린 문명 가설을 정식화
+- *Magicians of the Gods*(토머스 던, 2015){{ cite(id="magicians-of-the-gods", text="[21]", title="핸콕, *Magicians of the Gods* (2015) — 영거 드라이아스 충돌 가설 수렴") }} — 영거 드라이아스 충돌 가설 증거로 프레임워크를 실질적으로 업데이트
+- *America Before*(세인트 마틴스, 2019){{ cite(id="america-before", text="[22]", title="핸콕, *America Before* (2019) — 콜럼버스 이전 아메리카로의 확장") }} — 프레임워크를 콜럼버스 이전 아메리카로 확장
+- *Underworld*(크라운, 2002) — 전 세계의 침수된 고고학 유적지에 관여
+- 넷플릭스 시리즈 *Ancient Apocalypse*(2022) — 실질적인 대중적 관여
 
-Hancock's principal claim: a substantially advanced pre-flood civilization existed and was substantially destroyed at the end of the last glacial period, with substantial subsequent civilizational rebuilding by surviving cultural transmitters who founded the various Bronze Age civilizations. Hancock does not principally engage extraterrestrial-contact explanations, working instead within the lost-human-civilization framework.
+핸콕의 주된 주장은 다음과 같다. 즉 실질적으로 진보한 대홍수 이전 문명이 존재했으며 마지막 빙기 종결에 실질적으로 파괴되었고, 다양한 청동기 시대 문명을 세운 살아남은 문화 전수자에 의한 실질적인 후속 문명 재건이 있었다. 핸콕은 주로 외계 접촉 설명에 관여하지 않으며, 대신에 잃어버린 인류 문명 프레임 내에서 작업한다.
 
-**Robert Schoch** (Boston University) has argued that the Great Sphinx of Giza is substantially older than the conventional 4th-Dynasty dating (~2500 BCE), proposing a pre-flood (>10,000 BCE) dating based on water-erosion analysis. The substantial mainstream Egyptological engagement has substantially disputed Schoch's reading; the question remains substantively debated.
+**로버트 쇼크**(보스턴 대학교)는 기자의 대스핑크스가 통상적인 제4왕조 연대 측정(기원전 약 2500년)보다 실질적으로 더 오래되었으며, 물에 의한 침식 분석에 근거하여 대홍수 이전(기원전 10,000년 이전) 연대 측정을 제안한다고 주장해 왔다. 실질적인 주류 이집트학적 관여는 쇼크의 독해를 실질적으로 반박해 왔다. 문제는 실질적으로 논쟁 중인 채로 남아 있다.
 
-**John Anthony West** (1932-2018) was a substantial earlier proponent of the substantially-older-Sphinx hypothesis and the substantial broader alternative-Egyptology engagement.
+**존 앤서니 웨스트**(1932–2018)는 실질적으로 더 오래된 스핑크스 가설과 실질적인 보다 광범위한 대안 이집트학적 관여의 실질적인 더 이른 옹호자였다.{{ cite(id="serpent-in-the-sky", text="[23]", title="웨스트, *Serpent in the Sky* (1993) — 대안 이집트학과 슈발레 드 뤼비츠 상징주의적 독해") }}
 
-**Christopher Dunn** has substantially engaged the substantial engineering questions about Egyptian pyramid construction, proposing substantial machining-and-power-tools hypotheses for specific features (the substantial granite boxes at the Serapeum at Saqqara; specific drilling marks in granite artifacts).
+**크리스토퍼 던**은 이집트 피라미드 건설에 관한 실질적인 공학적 문제에 실질적으로 관여해 왔으며, 특정 특징(사카라 세라피움의 실질적인 화강암 상자, 화강암 유물의 특정 시추 흔적)에 대해 실질적인 가공-와-동력-도구 가설을 제안한다.{{ cite(id="giza-power-plant", text="[24]", title="던, *The Giza Power Plant* (1998) — 공학 중심의 대안 이집트학") }}
 
-### The Atlantis tradition
+### 아틀란티스 전통
 
-The Atlantis tradition (treated in the pending [Atlantis](../atlantis/) entry) operates as the substantial Western philosophical-religious tradition's principal articulation of the lost-civilization concept.
+아틀란티스 전통(작성 예정인 [아틀란티스](../atlantis/) 항목에서 다루어짐)은 잃어버린 문명 개념에 대한 실질적인 서양 철학적-종교적 전통의 주된 정식화로 작동한다.
 
-**Plato** articulates the Atlantis tradition in *Timaeus* (c. 360 BCE) and *Critias* (unfinished). The principal content: a substantial advanced civilization existed beyond the Pillars of Hercules; it warred against the Athenian and Mediterranean civilizations; it was substantially destroyed in a single day and night by earthquakes and floods, sinking into the sea. Plato attributes the account to Solon's contact with Egyptian priests.
+**플라톤**은 *티마이오스*(기원전 약 360년)와 *크리티아스*(미완)에서 아틀란티스 전통을 정식화한다. 주된 내용은 다음과 같다. 즉 실질적인 진보 문명이 헤라클레스의 기둥 너머에 존재했으며, 그것은 아테네 및 지중해 문명에 맞서 전쟁을 벌였고, 단 하루와 밤 동안 지진과 홍수로 실질적으로 파괴되어 바다로 가라앉았다. 플라톤은 그 기록을 솔론의 이집트 사제와의 접촉에 귀속시킨다.
 
-The subsequent Atlantis tradition substantially elaborates Plato's account:
+후속 아틀란티스 전통은 플라톤의 기록을 실질적으로 정교화한다.
 
-- **Ignatius Donnelly**, *Atlantis: The Antediluvian World* (1882) — the substantial 19th-century revival arguing that Atlantis was the source of substantial subsequent civilizations globally
-- **Edgar Cayce** (1877-1945) — the "sleeping prophet" whose substantial readings (1920s-1940s) substantially elaborated Atlantis with substantive specific content
-- **The Theosophical tradition** (Blavatsky, Steiner, others) — substantial elaboration of Atlantis within the broader esoteric framework, often with substantial Lemuria/Mu content
-- **The contemporary Hancock-style engagement** — substantially updating the Atlantis tradition through the Younger Dryas Impact framework
+- **이그나티우스 도넬리**, *Atlantis: The Antediluvian World*(1882) — 아틀란티스가 전 세계의 실질적인 후속 문명들의 원천이었다고 주장하는 실질적인 19세기 부활
+- **에드거 케이시**(1877–1945) — "잠자는 예언자"로, 그의 실질적인 리딩(1920–1940년대)은 실질적인 구체적 내용으로 아틀란티스를 실질적으로 정교화했다
+- **신지학 전통**(블라바츠키, 슈타이너, 그 밖의 것들) — 종종 실질적인 레무리아/무 내용을 가지고, 보다 광범위한 비교(秘敎)적 프레임워크 내에서 아틀란티스의 실질적인 정교화
+- **동시대 핸콕식 관여** — 영거 드라이아스 충돌 프레임워크를 통해 아틀란티스 전통을 실질적으로 업데이트
 
-The corpus engages Atlantis as a substantial interpretive tradition with substantive cultural-religious significance, without adopting the substantial specific claims (Atlantis as the source of pre-flood civilization, the substantial sunken-island geographical claims, the specific Cayce content). The pending [Atlantis](../atlantis/) entry will articulate the corpus position systematically.
+코퍼스는 실질적인 구체적 주장(대홍수 이전 문명의 원천으로서의 아틀란티스, 실질적인 가라앉은 섬 지리학적 주장, 구체적인 케이시 내용)을 채택하지 않으면서, 아틀란티스를 실질적인 문화-종교적 의의를 가진 실질적인 해석적 전통으로 관여한다. 작성 예정인 [아틀란티스](../atlantis/) 항목은 코퍼스의 입장을 체계적으로 정식화할 것이다.
 
-### The Lemuria / Mu tradition
+### 레무리아 / 무 전통
 
-The Lemuria and Mu traditions operate as the Pacific equivalent of the Atlantic Atlantis tradition.
+레무리아와 무 전통은 대서양 아틀란티스 전통의 태평양 등가물로 작동한다.
 
-**Lemuria** was originally proposed in 1864 by zoologist Philip Sclater as a hypothetical sunken continent in the Indian Ocean to explain certain biogeographical distributions (particularly of lemurs). The hypothesis was substantially superseded in mainstream science by plate tectonics in the 1960s, but Lemuria substantially entered popular alternative-archaeology and esoteric tradition as a sunken-civilization framework.
+**레무리아**는 1864년에 동물학자 필립 스클레이터에 의해 특정 생물지리학적 분포(특히 여우원숭이)를 설명하기 위해 인도양의 가설적인 가라앉은 대륙으로 처음 제안되었다. 이 가설은 1960년대의 판구조론에 의해 주류 과학에서 실질적으로 대체되었지만, 레무리아는 가라앉은 문명 프레임으로 대중적 대안 고고학과 비교(秘敎) 전통에 실질적으로 진입했다.
 
-**Mu** was popularized by **Augustus Le Plongeon** (1825-1908) and **James Churchward** (1851-1936). Churchward's series *The Lost Continent of Mu* (1926) and subsequent works substantially developed the Mu framework as a substantial Pacific lost civilization with substantial subsequent influence on global cultures.
+**무**는 **아우구스투스 르 플론지옹**(1825–1908)과 **제임스 처치워드**(1851–1936)에 의해 대중화되었다. 처치워드의 시리즈 *The Lost Continent of Mu*(1926)와 후속 저작은 무 프레임워크를 전 지구 문화에 대한 실질적인 후속 영향을 가진 실질적인 태평양 잃어버린 문명으로 실질적으로 발전시켰다.
 
-The corpus does not adopt the Lemuria or Mu framings. The contemporary scientific consensus on Pacific geology does not support sunken-continent hypotheses, and the substantial textual evidence the alternative-archaeology tradition cites does not substantially support the specific Mu claims.
+코퍼스는 레무리아 또는 무 프레임을 채택하지 않는다. 태평양 지질학에 관한 동시대 과학적 합의는 가라앉은 대륙 가설을 뒷받침하지 않으며, 대안 고고학 전통이 인용하는 실질적인 텍스트적 증거는 구체적인 무 주장을 실질적으로 뒷받침하지 않는다.
 
-### Ancient-astronaut engagement
+### 고대 우주인 관여
 
-The substantial Ancient-Astronaut engagement with Ancient Builders content (treated systematically in the [Ancient Astronaut Hypothesis](../ancient-astronaut-hypothesis/) entry) operates principally through von Däniken, Sitchin, and the broader tradition.
+고대 건설자 내용에 대한 실질적인 고대 우주인 관여({% wiki(slug="ancient-astronaut-hypothesis") %}고대 우주인 가설{% end %} 항목에서 체계적으로 다루어짐)는 주로 폰 데니켄, 시친, 그리고 보다 광범위한 전통을 통해 작동한다.
 
-**Erich von Däniken**'s *Chariots of the Gods?* (1968) substantially popularized the framing that specific monuments (Egyptian pyramids, Nazca lines, Easter Island moai, Sacsayhuamán, others) were built with extraterrestrial assistance or by extraterrestrial visitors directly. Von Däniken's methodology substantially relies on the cultural-dismissive framing (the conventionally-credited civilizations could not have built these monuments) that the corpus has explicitly distanced itself from.
+**에리히 폰 데니켄**의 *Chariots of the Gods?*(1968){{ cite(id="chariots-of-the-gods", text="[25]", title="폰 데니켄, *Chariots of the Gods?* (1968) — 토대적 대중 고대 우주인 텍스트") }}은 특정 기념물(이집트 피라미드, 나스카 라인, 이스터섬 모아이, 사크사이와만, 그 밖의 것들)이 외계의 도움이나 외계 방문자들에 의해 직접 건설되었다는 프레임을 실질적으로 대중화했다. 폰 데니켄의 방법론은 코퍼스가 명시적으로 거리를 두어 온 문화 폄하적 프레임(통상적으로 공로가 부여되는 문명은 이러한 기념물을 건설할 수 없었다)에 실질적으로 의존한다.
 
-**Zecharia Sitchin**'s substantial Anunnaki framework (treated in the Ancient Astronaut Hypothesis entry) substantially proposes that the Sumerian and broader Mesopotamian monumental construction was conducted with Anunnaki direction. The Sitchin framework has substantial methodological problems (substantially contested Sumerian-language readings; substantial Nibiru claims unsupported by modern astronomy).
+**제카리아 시친**의 실질적인 아눈나키 프레임워크(고대 우주인 가설 항목에서 다루어짐)는 수메르 및 보다 광범위한 메소포타미아의 기념비적 건설이 아눈나키의 지휘로 수행되었다고 실질적으로 제안한다.{{ cite(id="the-12th-planet", text="[26]", title="시친, *The 12th Planet* (1976) — 토대적 아눈나키 해석 텍스트") }} 시친 프레임워크는 실질적인 방법론적 문제(실질적으로 논쟁 중인 수메르어 독해, 근대 천문학에 의해 뒷받침되지 않는 실질적인 니비루 주장)를 가진다.
 
-The corpus's specific differences from these traditions:
+이 전통들에 대한 코퍼스의 구체적 차이는 다음과 같다.
 
-- **Respect for indigenous achievement.** The visible megalithic monuments are substantively human accomplishment.
-- **Source-textual grounding.** The corpus engages Vorilhon-source content (alliance high-mountain and submarine bases) rather than speculative-interpretive content (the broader "aliens built the pyramids" framing).
-- **Methodological discipline.** The corpus distinguishes between direct source claims, comparative observations, and speculative inference rather than treating speculative content as established.
+- **토착민의 성취에 대한 존중.** 가시적인 거석 기념물은 실질적인 인류의 성취이다.
+- **자료-텍스트적 근거.** 코퍼스는 추측적-해석적 내용(보다 광범위한 "외계인이 피라미드를 건설했다" 프레임)이 아니라 보릴롱 자료의 내용(동맹의 높은 산악 및 잠수 기지)에 관여한다.
+- **방법론적 훈련.** 코퍼스는 추측적 내용을 확립된 것으로 다루기보다, 직접적 자료 주장, 비교적 관찰, 추측적 추론 사이를 구별한다.
 
-### The Göbekli Tepe revolution
+### 괴베클리 테페 혁명
 
-The Göbekli Tepe site in southeastern Turkey, excavated principally by **Klaus Schmidt** (1953-2014) of the German Archaeological Institute beginning in 1995, has substantially changed the conventional chronology of monumental construction.
+1995년부터 독일 고고학 연구소의 **클라우스 슈미트**(1953–2014)에 의해 주로 발굴된 터키 남동부의 괴베클리 테페 유적지는 기념비적 건설의 통상적 연대기를 실질적으로 변경했다.
 
-The principal Göbekli Tepe findings:
+주된 괴베클리 테페 발견은 다음과 같다.
 
-- **Dating.** The earliest occupation layers date to c. 9500 BCE — substantially before the conventional Neolithic-revolution chronology (the substantial transition to settled agriculture conventionally dated to ~9000-8500 BCE in the Levant).
-- **Construction.** The site features substantial T-shaped limestone pillars (some >5 meters tall, weighing tons) arranged in circular enclosures, with substantial relief carvings of animals (boars, foxes, snakes, scorpions, birds, others), abstract symbols, and stylized human figures.
-- **Pre-agricultural construction.** The substantial chronology indicates that the builders were substantially pre-agricultural hunter-gatherers, not the settled-agricultural population conventionally associated with monumental construction.
-- **Construction implications.** The substantial pre-agricultural monumental construction substantially overturns the conventional sequence in which monumental construction was assumed to follow agricultural settlement. The implication: monumental construction may substantially precede (and possibly motivate) the agricultural revolution rather than following it.
+- **연대 측정.** 가장 이른 점유 층은 기원전 약 9500년의 연대를 가지며 — 이는 통상적인 신석기 혁명 연대기(레반트에서 정착 농업으로의 실질적인 전환이 통상적으로 약 기원전 9000–8500년으로 연대 측정됨)보다 실질적으로 더 이르다.
+- **건설.** 이 유적지는 동물(멧돼지, 여우, 뱀, 전갈, 새, 그 밖의 것들)의 실질적인 부조 조각, 추상적 상징, 양식화된 인간 형상을 가지고 원형 울타리에 배열된 실질적인 T자형 석회암 기둥(일부는 5미터 이상의 높이로 수 톤의 무게)을 특징으로 한다.
+- **농경 이전의 건설.** 실질적인 연대기는 건설자들이 기념비적 건설과 통상적으로 연관된 정착 농경 인구가 아니라 실질적으로 농경 이전의 수렵채집민이었음을 가리킨다.
+- **건설의 함의.** 실질적인 농경 이전의 기념비적 건설은 기념비적 건설이 농경 정착에 뒤따른다고 가정되었던 통상적 시퀀스를 실질적으로 뒤집는다. 함의는 다음과 같다. 즉 기념비적 건설은 농업 혁명을 뒤따르기보다 실질적으로 그것에 앞설(그리고 어쩌면 그것을 동기 부여할) 수 있다.
 
-The Göbekli Tepe revolution has substantial implications for the broader Ancient Builders question:
+괴베클리 테페 혁명은 보다 광범위한 고대 건설자 문제에 대해 실질적 함의를 가진다.
 
-- **Substantial pre-flood monumental capability.** By the corpus chronology, the c. 9500 BCE Göbekli Tepe construction occurred during the late Leo / early Cancer age — substantially before the Cancer-Gemini boundary flood event (c. 6,690 BCE). The site is substantively pre-flood monumental construction.
-- **Substantial pre-agricultural cultural sophistication.** The hunter-gatherer builders of Göbekli Tepe demonstrated substantial coordination, sustained communal labor over centuries, and substantial symbolic-religious sophistication. The substantial earlier-than-previously-thought capability is substantively well-documented.
-- **Implications for the lost-civilization hypothesis.** Göbekli Tepe substantially complicates the simple "lost civilization before the flood" framing. The site demonstrates substantial pre-flood capability without requiring a "lost civilization" of the Atlantis-style framing. The pre-flood population at Göbekli Tepe was hunter-gatherer rather than Atlantis-style advanced.
-- **Implications for the corpus framework.** Göbekli Tepe is consistent with the corpus framework's substantial pre-flood cultural development. The site may operate as evidence of substantial human cultural development under alliance cultivation during the Leo and Cancer ages, with the substantial subsequent flood-event substantially disrupting the developmental trajectory.
+- **실질적인 대홍수 이전 기념비적 역량.** 코퍼스의 연대기상, 기원전 약 9500년의 괴베클리 테페 건설은 사자자리 시대 후반 / 게자리 시대 초기 — 게자리-쌍둥이자리 경계 대홍수 사건(기원전 약 6,690년)보다 실질적으로 더 이른 — 에 발생했다. 이 유적지는 실질적인 대홍수 이전 기념비적 건설이다.
+- **실질적인 농경 이전의 문화적 정교함.** 괴베클리 테페의 수렵채집 건설자들은 실질적인 조율, 수 세기에 걸친 지속적인 공동체적 노동, 실질적인 상징-종교적 정교함을 입증했다. 실질적인, 종래보다 더 이른 역량은 실질적으로 잘 문서화되어 있다.
+- **잃어버린 문명 가설에 대한 함의.** 괴베클리 테페는 단순한 "대홍수 이전의 잃어버린 문명" 프레임을 실질적으로 복잡하게 만든다. 이 유적지는 아틀란티스식 프레임의 "잃어버린 문명"을 요구하지 않으면서 실질적인 대홍수 이전 역량을 입증한다. 괴베클리 테페의 대홍수 이전 인구는 아틀란티스식으로 진보했다기보다 수렵채집민이었다.
+- **코퍼스 프레임워크에 대한 함의.** 괴베클리 테페는 코퍼스 프레임워크의 실질적인 대홍수 이전 문화 발전과 합치한다. 이 유적지는 사자자리와 게자리 시대 동안 동맹 양육 아래의 실질적인 인류 문화 발전의 증거로 작동할 수 있으며, 실질적인 후속 대홍수 사건이 그 발전 궤적을 실질적으로 교란했다.
 
-The dedicated [Göbekli Tepe](../gobekli-tepe/) entry will articulate the site's substantive content systematically.
+전용 [괴베클리 테페](../gobekli-tepe/) 항목이 이 유적지의 실질적 내용을 체계적으로 정식화할 것이다.
 
-### The Younger Dryas Impact Hypothesis
+### 영거 드라이아스 충돌 가설
 
-The **Younger Dryas Impact Hypothesis** (YDIH), proposed by **Richard Firestone** et al. in 2007, argues that a substantial cosmic impact or atmospheric airburst event at c. 12,900 BCE produced the substantial Younger Dryas climate cooling and the substantial associated megafaunal extinctions and cultural disruptions.
+2007년에 **리처드 파이어스톤** 외에 의해 제안된 **영거 드라이아스 충돌 가설**(YDIH)은 기원전 약 12,900년의 실질적인 우주 충돌 또는 대기 공중 폭발 사건이 실질적인 영거 드라이아스 기후 냉각과 실질적인 관련 거대동물 멸종 및 문화적 교란을 산출했다고 주장한다.
 
-The principal YDIH evidence (substantially developed across the post-2007 scholarship):
+주된 YDIH 증거(2007년 이후의 학문에 걸쳐 실질적으로 발전된)는 다음과 같다.
 
-- **Platinum spikes** at the Younger Dryas boundary documented at sites across multiple continents
-- **Carbon spherules and nanodiamonds** suggestive of high-temperature events
-- **Widespread evidence of fires** consistent with a major impact-generated thermal event
-- **Megafaunal extinctions** aligning with the Younger Dryas timing
-- **Cultural disruptions** (the substantial Clovis-culture collapse in North America) aligning with the event
+- 여러 대륙에 걸친 유적지에서 문서화된 영거 드라이아스 경계의 **백금 스파이크**
+- 고온 사건을 시사하는 **탄소 구체와 나노다이아몬드**
+- 주요 충돌 발생 열 사건과 합치하는 **광범위한 화재 증거**
+- 영거 드라이아스 시점과 일치하는 **거대동물 멸종**
+- 사건과 일치하는 **문화적 교란**(북아메리카의 실질적인 클로비스 문화 붕괴)
 
-The YDIH remains substantively contested in mainstream geology and archaeology, with substantial subsequent scholarship both supporting and challenging the hypothesis. The corpus engages YDIH as a substantively live hypothesis with substantial implications:
+YDIH는 주류 지질학과 고고학에서 실질적으로 논쟁 중인 채로 남아 있으며, 이 가설을 뒷받침하기도 하고 도전하기도 하는 실질적인 후속 학문이 있다. 코퍼스는 YDIH를 실질적 함의를 가진 실질적으로 살아있는 가설로 관여한다.
 
-- **Substantial pre-flood civilizational catastrophe.** If a major impact event occurred at c. 12,900 BCE, it substantially predates the corpus's Cancer-Gemini boundary flood event (c. 6,690 BCE). The YDIH event would represent a substantial earlier catastrophic episode, possibly with substantial implications for any earlier human civilizational development.
-- **Connection to the lost-civilization framings.** Hancock and other alternative-archaeology figures have substantially argued that the YDIH event destroyed a substantial pre-Younger-Dryas advanced civilization, with the substantial subsequent Bronze Age civilizations as the substantial cultural inheritors.
-- **Corpus position.** The corpus engages YDIH at the descriptive level (the substantial evidence for a major catastrophic event ~12,900 BCE warrants substantive engagement) without adopting the Hancock-style "lost advanced civilization" framing. The substantial pre-Younger-Dryas human populations were substantially hunter-gatherer cultures with substantial cultural sophistication but not Atlantis-style advanced civilization. The YDIH event would have substantially disrupted these populations without requiring a lost super-civilization.
+- **실질적인 대홍수 이전 문명적 격변.** 만약 주요 충돌 사건이 기원전 약 12,900년에 발생했다면, 그것은 코퍼스의 게자리-쌍둥이자리 경계 대홍수 사건(기원전 약 6,690년)을 실질적으로 앞선다. YDIH 사건은 실질적으로 더 이른 격변적 일화를 나타낼 것이며, 어쩌면 어떤 더 이른 인류 문명 발전에 대한 실질적 함의를 가질 것이다.
+- **잃어버린 문명 프레임과의 연결.** 핸콕과 다른 대안 고고학 인물들은 YDIH 사건이 실질적인 영거 드라이아스 이전의 진보 문명을 파괴했으며, 실질적인 후속 청동기 시대 문명들이 실질적인 문화적 계승자라고 실질적으로 주장해 왔다.
+- **코퍼스 입장.** 코퍼스는 핸콕식의 "잃어버린 진보 문명" 프레임을 채택하지 않은 채, 기술 수준에서 YDIH에 관여한다(기원전 약 12,900년의 주요 격변 사건에 대한 실질적인 증거가 실질적 관여를 요구한다). 실질적인 영거 드라이아스 이전 인류 인구는 실질적인 문화적 정교함을 가졌으나 아틀란티스식 진보 문명은 아닌 실질적으로 수렵채집 문화였다. YDIH 사건은 잃어버린 초문명을 요구하지 않고도 이들 인구를 실질적으로 교란했을 것이다.
 
-## Comparative observations
+## 비교적 관찰
 
-The cross-cultural pattern of megalithic and monumental construction operates across virtually every major civilization. The corpus engages this pattern substantively while preserving cultural specificity.
+거석 및 기념비적 건설의 범문화적 패턴은 거의 모든 주요 문명에 걸쳐 작동한다. 코퍼스는 문화적 특수성을 보존하면서 이 패턴에 실질적으로 관여한다.
 
-### Egyptian pyramids and monumental architecture
+### 이집트 피라미드 및 기념비적 건축
 
-The Egyptian monumental tradition is one of the principal cross-cultural references. The principal features:
+이집트 기념비적 전통은 주된 범문화적 참조 중 하나이다. 주된 특징은 다음과 같다.
 
-- **The Step Pyramid of Djoser** (c. 2670 BCE, designed by Imhotep) — the first substantial Egyptian stone pyramid
-- **The Bent Pyramid and Red Pyramid at Dahshur** (c. 2600 BCE, Sneferu) — the substantial transitional pyramids
-- **The Giza pyramids** (c. 2560-2510 BCE, Khufu, Khafre, Menkaure) — the substantial Old Kingdom culmination
-- **The Middle Kingdom pyramids** (c. 2000-1700 BCE) — substantially smaller and substantially less well-preserved
-- **The substantial Theban temple complexes** (Karnak, Luxor, Deir el-Bahari, the Ramesseum, the various mortuary temples) — substantial New Kingdom monumental construction
-- **The Abu Simbel temples** (c. 1264 BCE, Ramesses II) — the substantial rock-cut monumental temples
+- **조세르의 계단 피라미드**(기원전 약 2670년, 임호테프 설계) — 첫 번째 실질적인 이집트 석조 피라미드
+- **다흐슈르의 굴절 피라미드와 붉은 피라미드**(기원전 약 2600년, 스네프루) — 실질적인 이행기 피라미드
+- **기자 피라미드**(기원전 약 2560–2510년, 쿠푸, 카프레, 멘카우레) — 실질적인 고왕국 정점
+- **중왕국 피라미드**(기원전 약 2000–1700년) — 실질적으로 더 작고 실질적으로 덜 잘 보존됨
+- **실질적인 테베 신전 단지**(카르나크, 룩소르, 데이르 엘바하리, 람세세움, 다양한 영안전) — 실질적인 신왕국 기념비적 건설
+- **아부심벨 신전**(기원전 약 1264년, 람세스 2세) — 실질적인 암굴 기념비적 신전
 
-### Mesopotamian ziggurats
+### 메소포타미아 지구라트
 
-The Mesopotamian monumental tradition principally took the form of ziggurats — substantial stepped pyramid temples. Principal examples:
+메소포타미아의 기념비적 전통은 주로 지구라트 — 실질적인 계단 피라미드 신전 — 의 형태를 취했다. 주된 사례는 다음과 같다.
 
-- **The Ziggurat of Ur** (c. 2100 BCE, Ur-Nammu) — the substantially preserved Sumerian ziggurat
-- **The substantial Babylonian Etemenanki** — the substantial "Tower of Babel" ziggurat referenced in Genesis 11
-- **The Choga Zanbil ziggurat** (c. 1250 BCE) — the substantial Elamite preservation
+- **우르의 지구라트**(기원전 약 2100년, 우르남무) — 실질적으로 보존된 수메르 지구라트
+- **실질적인 바빌론 에테메난키** — 창세기 11장에 언급된 실질적인 "바벨탑" 지구라트
+- **초가 잔빌 지구라트**(기원전 약 1250년) — 실질적인 엘람의 보존
 
-The ziggurat tradition's connection to the substantial Tower of Babel narrative is substantively engaged in the [Babel](../babel/) entry.
+지구라트 전통과 실질적인 바벨탑 서사 사이의 연결은 {% wiki(slug="babel") %}바벨{% end %} 항목에서 실질적으로 관여된다.
 
-### European megalithic tradition
+### 유럽 거석 전통
 
-The substantial European megalithic tradition spans the Late Neolithic and Early Bronze Age, principally c. 5000-2000 BCE. Principal examples:
+실질적인 유럽 거석 전통은 후기 신석기와 초기 청동기 시대, 주로 기원전 약 5000–2000년에 걸친다. 주된 사례는 다음과 같다.
 
-- **Stonehenge and the Wessex monuments** (Avebury, Silbury Hill, Durrington Walls, the Stonehenge Avenue, the substantial Cursus monuments)
-- **Carnac in Brittany** (c. 4500-3300 BCE) — substantial alignments of thousands of standing stones across multiple kilometers
-- **Newgrange in Ireland** (c. 3200 BCE) — substantial passage tomb with the substantial winter-solstice illumination alignment
-- **The substantial Maltese megalithic temples** (c. 3600-2500 BCE) — treated above in *Mainstream archaeology*
-- **The substantial Iberian, French, and broader Atlantic megalithic tradition** — substantial dolmens, menhirs, and passage tombs across substantial geographic range
+- **스톤헨지와 웨섹스 기념물**(에이브버리, 실버리 힐, 더링턴 월스, 스톤헨지 어배뉴, 실질적인 커서스 기념물)
+- **브르타뉴의 카르낙**(기원전 약 4500–3300년) — 여러 킬로미터에 걸친 수천 개의 입석의 실질적인 정렬
+- **아일랜드의 뉴그레인지**(기원전 약 3200년) — 실질적인 동지 조명 정렬을 가진 실질적인 통로 무덤
+- **실질적인 몰타 거석 신전**(기원전 약 3600–2500년) — 위의 *주류 고고학*에서 다루어짐
+- **실질적인 이베리아, 프랑스, 그리고 보다 광범위한 대서양 거석 전통** — 실질적인 지리적 범위에 걸친 실질적인 돌멘, 멘히르, 통로 무덤
 
-### Mediterranean cyclopean masonry
+### 지중해 키클롭스 석조
 
-The substantial Mediterranean cyclopean masonry tradition appears principally at:
+실질적인 지중해 키클롭스 석조 전통은 주로 다음 장소에 등장한다.
 
-- **Mycenae and Tiryns** (c. 1350-1200 BCE) — the substantial Mycenaean cyclopean walls; the substantial Treasury of Atreus tholos tomb; the substantial Lion Gate at Mycenae
-- **The Argolid generally** — substantial Late Bronze Age fortifications across the Peloponnesian region
-- **The Sardinian nuraghi** (c. 1800-730 BCE) — substantial conical stone towers (~7,000 surviving examples across Sardinia)
-- **The substantial Hittite cyclopean construction** at Hattusa and other Anatolian sites
+- **미케네와 티린스**(기원전 약 1350–1200년) — 실질적인 미케네 키클롭스 벽, 실질적인 아트레우스의 보고 톨로스 무덤, 미케네의 실질적인 사자 문
+- **일반적으로 아르골리스** — 펠로폰네소스 지역 전반에 걸친 실질적인 후기 청동기 시대 요새
+- **사르데냐 누라게**(기원전 약 1800–730년) — 실질적인 원뿔형 석탑(사르데냐 전반에 걸쳐 약 7,000개의 살아남은 사례)
+- **하투사 및 그 밖의 아나톨리아 유적지에서의 실질적인 히타이트 키클롭스 건설**
 
-### Indian subcontinent monumental tradition
+### 인도 아대륙 기념비적 전통
 
-The substantial Indian subcontinent monumental tradition includes:
+실질적인 인도 아대륙 기념비적 전통은 다음을 포함한다.
 
-- **The substantial Harappan urban architecture** (c. 2600-1900 BCE) — Mohenjo-daro, Harappa, and the substantial broader Indus Valley civilization
-- **The substantial subsequent Indian temple architecture** — the substantial Mahabalipuram rock-cut monuments (c. 7th century CE); the substantial Khajuraho temples (c. 950-1050 CE); the substantial Ellora and Ajanta cave complexes; the substantial Vijayanagara monuments at Hampi (c. 1336-1565 CE)
-- **The substantial Kailasa Temple at Ellora** (c. 8th century CE) — the substantial monolithic rock-cut temple, carved from a single mountain in a substantial top-down excavation
+- **실질적인 하라파 도시 건축**(기원전 약 2600–1900년) — 모헨조다로, 하라파, 그리고 실질적인 보다 광범위한 인더스 계곡 문명
+- **실질적인 후속 인도 신전 건축** — 실질적인 마하발리푸람 암굴 기념물(약 7세기 CE), 실질적인 카주라호 신전(약 950–1050년 CE), 실질적인 엘로라 및 아잔타 동굴 단지, 실질적인 함피의 비자야나가라 기념물(약 1336–1565년 CE)
+- **엘로라의 실질적인 카일라사 신전**(약 8세기 CE) — 실질적인 위에서 아래로의 발굴에서 단일한 산으로부터 깎여진 실질적인 일체형 암굴 신전
 
-### East Asian monumental tradition
+### 동아시아 기념비적 전통
 
-The substantial East Asian monumental tradition includes:
+실질적인 동아시아 기념비적 전통은 다음을 포함한다.
 
-- **The substantial Chinese imperial tomb complexes** — the substantial Mausoleum of the First Qin Emperor (c. 246-208 BCE) with the substantial Terracotta Army; the substantial Ming Tombs
-- **The substantial Great Wall of China** — built across multiple dynasties from c. 7th century BCE through the substantial Ming-era completion
-- **The substantial Korean dolmens** — the substantial Korean Peninsula contains many thousands of dolmens (c. 1000 BCE-300 CE), the substantial Bronze Age megalithic preservation
-- **The substantial Japanese kofun (burial mounds)** — substantial 3rd-7th century CE Japanese monumental tomb complexes
-- **The substantial Cambodian Angkor Wat** (c. 12th century CE) and the substantial broader Khmer monumental tradition
+- **실질적인 중국 황제 능묘 단지** — 실질적인 병마용을 가진 진시황릉(기원전 약 246–208년), 실질적인 명13릉
+- **실질적인 만리장성** — 기원전 약 7세기로부터 실질적인 명대 완성에 이르기까지 여러 왕조에 걸쳐 건설됨
+- **실질적인 한국의 고인돌** — 한반도는 수천 기의 고인돌(기원전 약 1000년–300년 CE), 실질적인 청동기 시대 거석 보존을 포함한다
+- **실질적인 일본의 고분(매장 봉분)** — 실질적인 3–7세기 CE 일본의 기념비적 무덤 단지
+- **실질적인 캄보디아 앙코르 와트**(약 12세기 CE)와 실질적인 보다 광범위한 크메르 기념비적 전통
 
-### Southeast Asian and Pacific monumental tradition
+### 동남아시아 및 태평양 기념비적 전통
 
-The substantial Southeast Asian and Pacific monumental tradition includes:
+실질적인 동남아시아 및 태평양 기념비적 전통은 다음을 포함한다.
 
-- **Angkor Wat and the broader Khmer monuments** (Cambodia, c. 9th-15th century CE) — the substantial largest religious monument in the world by area
-- **Borobudur** (Java, c. 9th century CE) — the substantial Buddhist stupa-temple complex
-- **Prambanan** (Java, c. 9th century CE) — the substantial Hindu temple complex
-- **The substantial Indonesian megalithic tradition** at sites including Gunung Padang
-- **The substantial Pacific monumental traditions** — the substantial Easter Island moai (treated above); the substantial Tongan Ha'amonga 'a Maui trilithon; the substantial Marquesan tiki; the substantial Tahitian and Hawaiian heiau platforms
+- **앙코르 와트와 보다 광범위한 크메르 기념물**(캄보디아, 약 9–15세기 CE) — 면적으로 세계 최대의 종교 기념물
+- **보로부두르**(자바, 약 9세기 CE) — 실질적인 불교 스투파-신전 단지
+- **프람바난**(자바, 약 9세기 CE) — 실질적인 힌두 신전 단지
+- **구눙 파당을 포함한 유적지에서의 실질적인 인도네시아 거석 전통**
+- **실질적인 태평양 기념비적 전통** — 실질적인 이스터섬 모아이(위에서 다루어짐), 실질적인 통가의 하아몽가 아 마우이 삼석탑, 실질적인 마르키즈의 티키, 실질적인 타히티 및 하와이의 헤이아우 단
 
-### Pre-Columbian American monumental tradition
+### 콜럼버스 이전 아메리카의 기념비적 전통
 
-The substantial pre-Columbian American monumental tradition includes:
+실질적인 콜럼버스 이전 아메리카의 기념비적 전통은 다음을 포함한다.
 
-- **The substantial Olmec colossal heads** (c. 1200-400 BCE) — substantial multi-ton basalt sculptures
-- **Teotihuacan** (c. 1-650 CE) — the substantial Pyramid of the Sun, Pyramid of the Moon, and broader urban complex
-- **The substantial Maya pyramid tradition** — Chichen Itza, Tikal, Palenque, Copán, the substantial broader Maya monumental tradition
-- **The substantial Aztec Templo Mayor** at Tenochtitlan
-- **The substantial Andean monumental tradition** — Chavín de Huántar (c. 1200-200 BCE); Tiwanaku (c. 300-1000 CE) and Puma Punku; the substantial Inca constructions (Sacsayhuamán, Machu Picchu, Ollantaytambo, Cusco; c. 1438-1533 CE)
-- **The substantial Mississippi mound builders** — Cahokia (c. 600-1400 CE) and the substantial broader Mississippian culture; the substantial Adena and Hopewell mound traditions
-- **The substantial Pueblo construction** — Chaco Canyon (c. 850-1150 CE), Mesa Verde, and the substantial broader Ancestral Puebloan tradition
+- **실질적인 올멕 거두상**(기원전 약 1200–400년) — 실질적인 수 톤의 현무암 조각
+- **테오티우아칸**(약 1–650년 CE) — 실질적인 태양의 피라미드, 달의 피라미드, 보다 광범위한 도시 단지
+- **실질적인 마야 피라미드 전통** — 치첸이트사, 티칼, 팔렝케, 코판, 실질적인 보다 광범위한 마야 기념비적 전통
+- **테노치티틀란의 실질적인 아즈텍 템플로 마요르**
+- **실질적인 안데스 기념비적 전통** — 차빈 데 우안타르(기원전 약 1200–200년), 티와나쿠(약 300–1000년 CE)와 푸마푼쿠, 실질적인 잉카 건설(사크사이와만, 마추픽추, 오얀타이탐보, 쿠스코; 약 1438–1533년 CE)
+- **실질적인 미시시피 봉분 건설자** — 카호키아(약 600–1400년 CE)와 실질적인 보다 광범위한 미시시피 문화, 실질적인 아데나 및 호프웰 봉분 전통
+- **실질적인 푸에블로 건설** — 차코 캐니언(약 850–1150년 CE), 메사 베르데, 그리고 실질적인 보다 광범위한 조상 푸에블로 전통
 
-### African monumental tradition beyond Egypt
+### 이집트 이외의 아프리카 기념비적 전통
 
-The substantial African monumental tradition beyond Egypt includes:
+이집트 이외의 실질적인 아프리카 기념비적 전통은 다음을 포함한다.
 
-- **Great Zimbabwe** (c. 1100-1450 CE) — the substantial stone-city ruins in modern Zimbabwe
-- **The substantial Nubian pyramids** at Meroë and other Sudanese sites (c. 6th century BCE-4th century CE)
-- **The substantial Aksumite stelae** at Aksum (Ethiopia, c. 1st-7th century CE) — substantial monolithic granite stelae up to 33 meters tall
-- **The substantial Lalibela rock-hewn churches** (Ethiopia, c. 12th-13th century CE) — the substantial monolithic churches carved into volcanic rock
-- **The substantial Senegambian stone circles** (c. 3rd century BCE-16th century CE) — substantial megalithic complex across Senegal and Gambia
-- **The substantial Sungbo's Eredo earthwork** (Nigeria, c. 1000 CE) — the substantial 160-km-long defensive ditch
+- **그레이트 짐바브웨**(약 1100–1450년 CE) — 근대 짐바브웨에 있는 실질적인 석조 도시 유적
+- **메로에 및 그 밖의 수단 유적지의 실질적인 누비아 피라미드**(기원전 약 6세기–4세기 CE)
+- **악숨에서의 실질적인 악숨 스텔라이**(에티오피아, 약 1–7세기 CE) — 높이 33미터에 이르는 실질적인 일체형 화강암 스텔라이
+- **실질적인 랄리벨라 암굴 교회**(에티오피아, 약 12–13세기 CE) — 화산암에 깎여진 실질적인 일체형 교회
+- **실질적인 세네감비아 환상 열석**(기원전 약 3세기–16세기 CE) — 세네갈과 감비아에 걸친 실질적인 거석 단지
+- **실질적인 숭보의 에레도 토목 구조물**(나이지리아, 약 1000년 CE) — 실질적인 160km 길이의 방어 도랑
 
-### The cross-cultural pattern of astronomical-alignment incorporation
+### 천문학적 정렬 통합의 범문화적 패턴
 
-The substantial cross-cultural pattern of astronomical-alignment incorporation in monumental architecture appears across virtually every major monumental tradition:
+기념비적 건축에서의 천문학적 정렬 통합의 실질적인 범문화적 패턴은 거의 모든 주요 기념비적 전통에 걸쳐 등장한다.
 
-- **Solstice and equinox alignments** — Stonehenge (summer solstice sunrise; winter solstice sunset); Newgrange (winter solstice sunrise); Maeshowe (winter solstice sunset); Chichen Itza's El Castillo (equinox shadow play); the substantial various Egyptian temple alignments; the substantial Inca Torreón at Machu Picchu
-- **Stellar alignments** — Giza-Orion correlation; the substantial Egyptian temple alignments to specific stars (Sirius, Canopus, others); the substantial Mayan alignments to Venus; the substantial Andean alignments to specific stars and constellations
-- **Lunar alignments** — Stonehenge's substantial lunar alignments (the 18.6-year lunar standstill cycle); the substantial Maya lunar tracking; the substantial various lunar alignments globally
-- **Precessional alignments** — the substantial *Hamlet's Mill* hypothesis (treated in the [Comparative Mythology](../comparative-mythology/) entry) that the substantial cross-cultural mythology encodes precessional content
+- **지점 및 분점 정렬** — 스톤헨지(하지 일출, 동지 일몰), 뉴그레인지(동지 일출), 메이즈하우(동지 일몰), 치첸이트사의 엘 카스티요(춘분점 그림자 놀이), 실질적인 다양한 이집트 신전 정렬, 마추픽추의 실질적인 잉카 토레온
+- **항성 정렬** — 기자-오리온 상관관계, 특정 별(시리우스, 카노푸스, 그 밖의 것들)에 대한 실질적인 이집트 신전 정렬, 금성에 대한 실질적인 마야의 정렬, 특정 별 및 별자리에 대한 실질적인 안데스의 정렬
+- **달의 정렬** — 스톤헨지의 실질적인 달 정렬(18.6년의 달 정지점 순환), 실질적인 마야의 달 추적, 전 세계의 실질적인 다양한 달 정렬
+- **세차 정렬** — 실질적인 범문화적 신화가 세차 내용을 인코딩한다는 실질적인 *햄릿의 맷돌* 가설({% wiki(slug="comparative-mythology") %}비교신화학{% end %} 항목에서 다루어짐)
 
-### The cross-cultural pattern of mountain-top sacred site selection
+### 산정 신성 유적지 선택의 범문화적 패턴
 
-The substantial cross-cultural pattern of "mountain-top" or "high-place" sacred site selection appears across virtually every major religious tradition:
+"산정" 또는 "높은 곳" 신성 유적지 선택의 실질적인 범문화적 패턴은 거의 모든 주요 종교 전통에 걸쳐 등장한다.
 
-- **The Hebrew Bible mountain sites** — Mount Sinai, Mount Zion, Mount Moriah, Mount Carmel, the substantial broader Hebrew Bible mountain-as-sacred-site pattern
-- **The substantial Greek sacred mountains** — Mount Olympus, Mount Parnassus, Mount Athos, Mount Ida, the substantial broader Greek mountain-as-divine-residence pattern
-- **The substantial Andean sacred mountains** — Machu Picchu and the substantial broader Inca apu (mountain spirit) tradition; the substantial Aymara achachilas; the substantial Mapuche pillan
-- **The substantial Himalayan sacred mountains** — Mount Kailash (the substantial Hindu-Buddhist-Jain-Bön sacred mountain); Mount Meru; the substantial broader Himalayan religious tradition
-- **The substantial Japanese sacred mountains** — Mount Fuji, Mount Koya, Mount Hiei, the substantial broader Shinto sangaku-shinkō (mountain worship) tradition
-- **The substantial Chinese sacred mountains** — the substantial Five Great Mountains (Tai Shan, Hua Shan, Heng Shan North, Heng Shan South, Song Shan); the substantial Daoist and Buddhist sacred mountain tradition
-- **The substantial Native American sacred mountains** — the substantial Lakota Bear Butte; the substantial Navajo Four Sacred Mountains; the substantial Apache and other tribal sacred-mountain traditions
+- **히브리어 성경의 산악 유적지** — 시내 산, 시온 산, 모리아 산, 갈멜 산, 실질적인 보다 광범위한 히브리어 성경의 산-신성 유적지 패턴
+- **실질적인 그리스의 신성 산악** — 올림포스 산, 파르나소스 산, 아토스 산, 이다 산, 실질적인 보다 광범위한 그리스의 산-신적-거처 패턴
+- **실질적인 안데스의 신성 산악** — 마추픽추와 실질적인 보다 광범위한 잉카의 아푸(산악 정령) 전통, 실질적인 아이마라의 아차칠라스, 실질적인 마푸체의 필란
+- **실질적인 히말라야의 신성 산악** — 카일라스 산(실질적인 힌두-불교-자이나-뵌의 신성 산악), 메루 산, 실질적인 보다 광범위한 히말라야 종교 전통
+- **실질적인 일본의 신성 산악** — 후지 산, 고야 산, 히에이 산, 실질적인 보다 광범위한 신토 산악 신앙(산가쿠 신코) 전통
+- **실질적인 중국의 신성 산악** — 실질적인 오악(태산, 화산, 북악 항산, 남악 형산, 숭산), 실질적인 도교 및 불교의 신성 산악 전통
+- **실질적인 아메리카 원주민의 신성 산악** — 실질적인 라코타의 베어 뷰트, 실질적인 나바호의 네 신성 산악, 실질적인 아파치 및 그 밖의 부족 신성 산악 전통
 
-The substantial cross-cultural mountain-as-sacred-site pattern is one of the most strongly cross-culturally distributed patterns in comparative religion. The corpus reading: the pattern substantially preserves cultural memory of the alliance's high-mountain Earth-base locations, with the substantial subsequent cultural-religious sanctification of those locations reflecting substantial transmission of the cultural memory across the substantial post-flood centuries.
+실질적인 범문화적 산-신성 유적지 패턴은 비교 종교에서 동정된 가장 강하게 범문화적으로 분포된 패턴 중 하나이다. 코퍼스의 독해는 다음과 같다. 즉 이 패턴은 동맹의 높은 산악 지구 기지 위치에 관한 문화적 기억을 실질적으로 보존하며, 이 위치들에 대한 실질적인 후속 문화-종교적 신성화는 실질적인 대홍수 이후 수 세기에 걸친 문화적 기억의 실질적 전수를 반영한다.
 
-### The convergence
+### 수렴
 
-The cross-cultural pattern of megalithic and monumental construction operates as one of the substantial broadest cross-cultural patterns the discipline of Comparative Mythology has identified. The pattern's distribution across virtually every major civilization warrants substantive engagement.
+거석 및 기념비적 건설의 범문화적 패턴은 {% wiki(slug="comparative-mythology") %}비교신화학{% end %} 분과가 동정한 가장 광범위한 범문화적 패턴 중 하나로 작동한다. 거의 모든 주요 문명에 걸친 이 패턴의 분포는 실질적인 관여를 요구한다.
 
-The corpus position: the cross-cultural pattern reflects multiple causal factors operating together. **Common human cultural-developmental processes** (the universal human capacity for substantial communal labor, substantial astronomical observation, substantial sustained intergenerational construction projects) substantially explain the cross-cultural emergence of monumental construction. **Specific alliance influence on specific traditions** (the cultural-cultivation operations across the various Eloha-team regional contexts; the substantial prophetic missions that established cultural-religious frameworks within which monumental construction was undertaken) substantially shapes the specific forms the cross-cultural pattern takes in specific traditions. **The substantial cross-cultural mountain-sacred-site pattern** specifically reflects substantial cultural memory of the alliance high-mountain base locations.
+코퍼스의 입장은 다음과 같다. 즉 범문화적 패턴은 함께 작동하는 다수의 인과적 요인을 반영한다. **공통의 인류 문화-발전적 과정**(실질적인 공동체적 노동, 실질적인 천문학적 관찰, 세대를 가로지르는 실질적인 지속적 건설 프로젝트에 대한 보편적인 인류적 역량)이 기념비적 건설의 범문화적 출현을 실질적으로 설명한다. **특정 전통에 대한 특정 동맹 영향**(다양한 엘로하-팀 지역 맥락에 걸친 문화 양육 작업, 그 안에서 기념비적 건설이 수행된 문화-종교적 프레임워크를 확립한 실질적인 예언적 임무)이 범문화적 패턴이 특정 전통에서 취하는 구체적 형태를 실질적으로 형성한다. **실질적인 범문화적 산-신성-유적지 패턴**은 동맹의 높은 산악 기지 위치에 관한 실질적인 문화적 기억을 구체적으로 반영한다.
 
-The corpus does not require — and does not adopt — the strong "Ancient Builder race" framing that treats the cross-cultural pattern as evidence of a single lost civilization. The substantial cross-cultural pattern is better explained by the combination of human cultural-developmental processes, specific alliance influence on specific traditions, and substantial cultural memory of alliance presence at specific sacred locations.
-
-## See also
-
-- [Wheel of Heaven](../wheel-of-heaven/)
-- [Ancient Astronaut Hypothesis](../ancient-astronaut-hypothesis/)
-- [Comparative Mythology](../comparative-mythology/)
-- [Neo-Euhemerism](../neo-euhemerism/)
-- [Göbekli Tepe](../gobekli-tepe/)
-- [Atlantis](../atlantis/)
-- [Archaeoastronomy](../archaeoastronomy/)
-- [Sacred Geometry](../sacred-geometry/)
-- [Precession](../precession/)
-- [Hamlet's Mill](../hamlets-mill/)
-- [Elohim](../elohim/)
-- [Yahweh](../yahweh/)
-- [Serpent](../serpent/)
-- [Theomachy](../theomachy/)
-- [Noah](../noah/)
-- [Babel](../babel/)
-- [Ezekiel](../ezekiel/)
-- [Raël](../rael/)
-- [Raëlism](../raelism/)
-- [Message from the Designers](../message-from-the-designers/)
-- [Age of Leo](../age-of-leo/)
-- [Age of Cancer](../age-of-cancer/)
-- [Age of Gemini](../age-of-gemini/)
-
-## References
-
-### Principal Raëlian source
-
-Vorilhon, Claude (Raël). *Le Livre qui dit la vérité*. 1974.
-
-Vorilhon, Claude (Raël). *Les Extra-Terrestres m'ont emmené sur leur planète*. 1975.
-
-Vorilhon, Claude (Raël). *Accueillir les Extra-Terrestres*. 1979.
-
-Vorilhon, Claude (Raël). *Message from the Designers*. Tagman Press, 2005.
-
-### Mainstream archaeology and engineering on megalithic construction
-
-Lehner, Mark. *The Complete Pyramids: Solving the Ancient Mysteries*. Thames & Hudson, 1997.
-
-Lehner, Mark, and Zahi Hawass. *Giza and the Pyramids: The Definitive History*. University of Chicago Press, 2017.
-
-Pitts, Mike. *Hengeworld*. Century, 2000.
-
-Parker Pearson, Mike. *Stonehenge: Exploring the Greatest Stone Age Mystery*. Simon & Schuster, 2012.
-
-Protzen, Jean-Pierre. *Inca Architecture and Construction at Ollantaytambo*. Oxford University Press, 1993.
-
-Hunt, Terry, and Carl Lipo. *The Statues That Walked: Unraveling the Mystery of Easter Island*. Free Press, 2011.
-
-Tallet, Pierre. *Les papyrus de la Mer Rouge I: Le "Journal de Merer"*. Institut français d'archéologie orientale, 2017.
-
-Nash, David E., et al. "Origins of the sarsen megaliths at Stonehenge." *Science Advances* 6, no. 31 (2020): eabc0133.
-
-### Alternative archaeology and Ancient Builders tradition
-
-Hancock, Graham. *Fingerprints of the Gods: The Evidence of Earth's Lost Civilization*. Crown, 1995.
-
-Hancock, Graham. *Magicians of the Gods: The Forgotten Wisdom of Earth's Lost Civilization*. Thomas Dunne, 2015.
-
-Hancock, Graham. *America Before: The Key to Earth's Lost Civilization*. St. Martin's Press, 2019.
-
-Hancock, Graham. *Underworld: The Mysterious Origins of Civilization*. Crown, 2002.
-
-Schoch, Robert M. *Voices of the Rocks: A Scientist Looks at Catastrophes and Ancient Civilizations*. Harmony, 1999.
-
-West, John Anthony. *Serpent in the Sky: The High Wisdom of Ancient Egypt*. Quest, 1993.
-
-Dunn, Christopher. *The Giza Power Plant: Technologies of Ancient Egypt*. Bear & Company, 1998.
-
-### Atlantis tradition
-
-Plato. *Timaeus* and *Critias*. Various editions.
-
-Donnelly, Ignatius. *Atlantis: The Antediluvian World*. Harper & Brothers, 1882.
-
-Cayce, Edgar. *Edgar Cayce on Atlantis*. Edited by Edgar Evans Cayce. Hawthorn, 1968.
-
-Vidal-Naquet, Pierre. *The Atlantis Story: A Short History of Plato's Myth*. University of Exeter Press, 2007.
-
-### Ancient-astronaut engagement
-
-von Däniken, Erich. *Chariots of the Gods? Unsolved Mysteries of the Past*. G. P. Putnam's Sons, 1969.
-
-Sitchin, Zecharia. *The 12th Planet*. Stein and Day, 1976.
-
-### Göbekli Tepe
-
-Schmidt, Klaus. *Göbekli Tepe: A Stone Age Sanctuary in South-Eastern Anatolia*. ex oriente, 2012.
-
-Dietrich, Oliver, et al. "The role of cult and feasting in the emergence of Neolithic communities: New evidence from Göbekli Tepe, south-eastern Turkey." *Antiquity* 86, no. 333 (2012): 674-695.
-
-### Younger Dryas Impact Hypothesis
-
-Firestone, Richard B., et al. "Evidence for an extraterrestrial impact 12,900 years ago that contributed to the megafaunal extinctions and the Younger Dryas cooling." *Proceedings of the National Academy of Sciences* 104, no. 41 (2007): 16016-16021.
-
-Powell, James Lawrence. *Deadly Voyager: The Ancient Comet Strike That Changed Earth and Human History*. Powell Books, 2020.
-
-### Web resources
-
-"Megalith." *Wikipedia*. <https://en.wikipedia.org/wiki/Megalith>.
-
-"Stonehenge." *Wikipedia*. <https://en.wikipedia.org/wiki/Stonehenge>.
-
-"Egyptian pyramids." *Wikipedia*. <https://en.wikipedia.org/wiki/Egyptian_pyramids>.
-
-"Göbekli Tepe." *Wikipedia*. <https://en.wikipedia.org/wiki/G%C3%B6bekli_Tepe>.
-
-"Younger Dryas impact hypothesis." *Wikipedia*. <https://en.wikipedia.org/wiki/Younger_Dryas_impact_hypothesis>.
-
-"Atlantis." *Wikipedia*. <https://en.wikipedia.org/wiki/Atlantis>.
+코퍼스는 범문화적 패턴을 단일한 잃어버린 문명의 증거로 다루는 강한 "고대 건설자 종족" 프레임을 요구하지 않으며 채택하지 않는다. 실질적인 범문화적 패턴은 인류 문화-발전적 과정, 특정 전통에 대한 특정 동맹 영향, 그리고 특정 신성 위치에서의 동맹 현존에 관한 실질적인 문화적 기억의 결합으로 더 잘 설명된다.

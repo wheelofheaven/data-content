@@ -1,551 +1,547 @@
 +++
 title = "ミステリーサークル"
-description = "ミステリーサークルは、穀物畑に現れる幾何学的模様であり、その一部は人間のいたずらに還元しがたい複雑さと精度を示す。Wheel of Heaven はそれをエロヒム交信の一つの可能なチャネルとして整理し、早急な結論を避けつつ研究対象として扱う。"
+slug = "crop-circles"
+description = "ミステリーサークル(crop circles)、すなわち穀物模様(crop formations)は、農作物(主に小麦、大麦、菜種、ライ麦、トウモロコシ、亜麻、大豆)を体系的に倒伏させることで生み出される幾何学的・数学的・象徴的な大規模模様です。現代的現象は1970年代後期にイングランド南部において主として出現し、その後ウィルトシャー地域(エイヴベリー・ストーンヘンジ・シルベリー・ヒル・オールトン・バーンズの広域)に著しい地理的集中を見せ、その後国際的にも実質的な出現を見ました。この現象は1991年9月9日に方法論上の実質的な転換を迎えました。英国人のダグ・バウアー(Doug Bower)とデイヴ・チョーリー(Dave Chorley)が *トゥデイ*(Today)紙において、1978年以降に主要な初期形成物をロープ・板・視準孔つき野球帽を用いて作成したと告白したのです。Wheel of Heaven 文献集はミステリーサークルを方法論的な慎重さをもって実質的に扱います。すなわち、現代の形成物の実質的多数は人間の手によるものとして文書化されており、選択された形成物に残存する物理的異常は主流科学の枠組みでは未解決のままであり、特定の形成物(チルボルトン、クラブウッド、その他)における異星間通信主張の内容は、実質的に検証された接触方法論ではなく代替UFO学の枠組みの内で運用されており、ヴォリロン典拠は一つの具体的事例(大使館模型に類似した形成物)を文献集枠組みの内で実質的に意味のあるものとして明確に articulate しつつ、より広範な現象は記述的水準で扱い、主要な同盟通信機構としての実質的な採用には踏み込みません。"
 template = "wiki-page.html"
 toc = true
 
 [extra]
-translation_status = "metadata_only"
 editorial_pass = "2026-05"
+claim_type = "framework"
 category = "Ufology"
 entry_type = "concept"
-alternative_names = ["crop circles", "crop formations", "agriglyphs (occasional alternative)", "pictograms (1990s technical designation)", "cercles de cultures (French)", "Kornkreise (German)"]
+alternative_names = ["ミステリーサークル", "クロップ・サークル", "穀物模様(crop formations)", "アグリグリフ(agriglyphs、時折用いられる代替名)", "ピクトグラム(1990年代の技術的呼称)", "cercles de cultures(フランス語)", "Kornkreise(ドイツ語)"]
 timeline = ["age-of-aquarius"]
+see_also = [
+    { title = "UFO学", path = "wiki/ufology", description = "ミステリーサークルが扱われる一つの現象として運用される学問的脈絡。" },
+    { title = "大使館", path = "wiki/embassy", description = "ラエリアン大使館計画 ― ヴォリロン典拠のミステリーサークル事例が驚くべき類似性をもって参照した実質的な小規模模型。" },
+    { title = "エロヒムの母惑星", path = "wiki/elohim-home-planet", description = "ヴォリロン典拠の接触物語を通じて運用される実質的な同盟接触枠組みを持つ同盟の本国世界。" },
+    { title = "古代宇宙飛行士仮説", path = "wiki/ancient-astronaut-hypothesis", description = "代替UFO学的なミステリーサークル解釈が運用されるより広範な解釈枠組み。" },
+    { title = "神聖幾何学", path = "wiki/sacred-geometry", description = "現代のミステリーサークル形成物に現れる実質的な幾何学的洗練度。" },
+    { title = "考古天文学", path = "wiki/archaeoastronomy", description = "現代のミステリーサークル集中が運用される実質的なウィルトシャーの先史時代記念碑的景観。" },
+]
+
+footnotes = [
+    { content = "1991年9月9日のバウアー=チョーリーの告白に続く方法論上の実質的な転換は、文献集の立場にとって荷重を担うものです。告白以前、1980年代の実質的な文献(デルガード(Delgado)とアンドリュース(Andrews)の『サーキュラー・エヴィデンス(Circular Evidence)』、実質的なセリアロジスト(cerealogist)コミュニティ、ミーデン(Meaden)のプラズマ渦枠組み)は、この十年間にわたる形成物の実質的増加を実質的に未解明の現象として扱っていました。告白以後、本分野の主流枠組みは、文書化された人間の手による芸術的・文化的実践へと主導的に転換しました。建造方法の実質的な実証 ― バウアーとチョーリーがジャーナリストのために約45分で形成物を建造し、結果として生じた円形がミステリーサークル研究者によって本物と同定されたこと ― は、1980年代段階の形成物の規模と複雑さにおける人間建造の方法論的成立可能性を実質的に確立しました。その後の組織化された円形制作の実質的な文書化(サークルメイカーズ(Circlemakers)、チーム・サタン(Team Satan)、実質的な国際的円形制作の伝統)は、実証された枠組みを実質的に拡張しています。" },
+    { content = "テレンス・ミーデン(Terence Meaden)のプラズマ渦仮説は査読付きの気象学文献に発表され、1980年代を通じて実質的な科学的枠組みの内で運用されました。1990年代を通じての実質的な放棄は、二つの主要な要因を反映しています。すなわち(1)1990年代の進行に伴い、形成物の複雑さが妥当な渦の出力を実質的に超えていったこと ― 鋭利な縁、入り組んだ模様、実質的な絵文字内容を持つ実質的な幾何学的形成物は、大気の渦によって妥当な仕方で生み出すことはできません ― そして(2)バウアー=チョーリーの告白と、その後の組織化された円形制作の実質的な文書化が、ミーデンがプラズマ渦に帰していた主要な形成物を説明したことです。ミーデンはその後の数十年にわたって自身の立場を実質的に修正しており、現代の形成物の実質的多数は人間の手によるものであることを認めつつ、選択された初期段階の事例への実質的な関与を維持しています。実質的な科学史的意義は次のとおりです。すなわち、査読付き科学仮説がその後の証拠に照らして実質的に検証され、主要な提唱者自身によって放棄された ― この方法論的パターンは標準的な科学実践の内で実質的に運用されているのです。" },
+    { content = "1678年の「モウイング・デビル」(草刈り悪魔)パンフレットのミステリーサークル先行事例としての地位は、実質的に方法論的に問題含みです。同パンフレットは「刈り取り」(立っている作物をきれいに切断すること)を記述しており ― これは現代のミステリーサークルを特徴づける「倒伏」とは実質的に異なります。同パンフレットは17世紀英国のブロードシート伝統(ウォルシャム(Walsham)の『Providence in Early Modern England』とフリードマン(Friedman)の『Miracles and the Pulp Press』に詳しく文書化されている)の内で運用されており、これは率直な目撃者ジャーナリズムというよりも道徳的・寓意的枠組みの内で超自然的奇瑞文学を生み出した伝統です。民俗学の研究(ボブ・トラブショウ(Bob Trubshaw)、ジェレミー・ハート(Jeremy Harte)、その他)は「モウイング・デビル」を17世紀のパンフレット慣習の内で扱ってきました。ミステリーサークル研究は主としてこれを近代以前のミステリーサークルの証拠として扱ってきました。文献集の立場は次のとおりです。すなわち、「モウイング・デビル」事例は現代のミステリーサークルとは異なるカテゴリーであり、当該事例の実質的な文化的・歴史的関心は本物であるが、本分野の歴史における率直な先行事例としては運用されないということです。" },
+    { content = "残存異常の研究プログラム(BLTリサーチチーム、エルチョ・ハーゼルホフ(Eltjo Haselhoff)、その後の実質的な研究者たち)は、実質的な査読付き出版物(Levengood 1994、*Physiologia Plantarum* 誌、Haselhoff 2001、*Physiologia Plantarum* 誌)を生み出してきましたが、その後の実質的な文献は主として査読外で運用されています。実質的な方法論的批判(ジョー・ニッケル(Joe Nickell)の実質的な懐疑的関与、より広範な主流科学の枠組み)は、事例選択における選択バイアス、土壌サンプリングの方法論、統計分析の対照、ならびに本物の異常とより広範なサンプリング効果との実質的な区別についての実質的な懸念を含んでいます。文献集はこの研究を記述的に扱う一方で、実質的に争点となっている方法論的地位を明示します。同研究は、研究プログラムが主張する「ミステリーサークルは人間の建造によっては説明できない」という強い立場を実質的に確立してはいません。" },
+    { content = "チルボルトン(Chilbolton)の「アレシボへの応答」(2001年8月)とクラブウッド(Crabwood)の「異星人の顔」(2002年8月)は、実質的に非・人間の手によるとされる通信内容の主要な代替UFO学的事例として運用されます。いずれの事例もいかなる組織化された円形制作グループによっても主張されておらず、両事例とも実質的に主張される通信内容(チルボルトンの場合は元のアレシボメッセージのビットマップ符号化変形、クラブウッドの場合はASCII符号化の警告メッセージ)を含んでいます。実質的な方法論的地位は次のとおりです。すなわち、いずれの事例も主流科学が受け入れる方法論を通じて非・人間の手によるものとして実質的に検証されてはいません。文献集の立場は、これらの事例の実質的な解釈的関心を記録しつつ、その内容を非・人間的実体からの実質的に確立された通信としては採用しません。これらの事例は、実質的に検証された接触方法論の内ではなく代替UFO学の枠組みの内で運用されています。" },
+    { content = "ヴォリロン典拠のミステリーサークルへの関与は、主として一つの具体的事例 ― 『デザイナーからのメッセージ』の序文における、ラエリアンの建築家たちが製作した小規模の大使館模型に「驚くべき類似性」を持って現れたイングランドのミステリーサークルへの言及 ― を通じて運用されています。文献集は、この具体的事例から、いくつかの代替UFO学が明確に articulate する「ミステリーサークルは同盟のメッセージである」という強い枠組みへと外挿しません。文献集の読解では、実質的な同盟通信枠組みは、ヴォリロンの接触物語(1973年12月13日のピュイ・ド・ラソラ(Puy-de-Lassolas)、1975年10月7日の母惑星への移送、その後の接触事象)と預言的伝達を通じて運用されるのであり、ミステリーサークルの顕現を通じて運用されるのではありません。1990年代以降の時期にわたるラエリアン組織のミステリーサークルへの実質的な関与(1990年のチーズフット・ヘッド(Cheesefoot Head)の航空写真の謝辞、その後の関心)は、体系的な教義的コミットメントとしてではなく、文化的関心と選択的事例関与の水準で実質的に運用されています。" },
+]
+
+[[extra.references]]
+id = "the-book-which-tells-the-truth"
+locator = "序文"
+note = "基礎的なラエリアン典拠 ― 『デザイナーからのメッセージ』の序文における、ラエリアンの大使館小規模模型に驚くべき類似性を持って現れたミステリーサークルへの言及。"
+
+[[extra.references]]
+id = "circular-evidence"
+note = "デルガードとアンドリュースによる1989年の英国ミステリーサークル現象への基礎的な関与 ― バウアー=チョーリー告白以前の主要な単行書としての扱い。"
+
+[[extra.references]]
+id = "crop-circles-signs-of-contact"
+note = "アンドリュースとスピニェジ(Spignesi)による2003年の、バウアー=チョーリー告白に続く代替UFO学的枠組みの articulation。"
+
+[[extra.references]]
+id = "pringle-crop-circles"
+note = "プリングル(Pringle)による1990年代のアクセスしやすい総合 ― 実質的なプリングル・ミステリーサークル・アーカイブの創設者による。"
+
+[[extra.references]]
+id = "the-field-guide-crop-circle-making"
+note = "アーヴィング(Irving)とランドベリ(Lundberg)による、サークルメイカーズの内側からの現代の組織化された円形制作実践についての主要な文書化された articulation。"
+
+[[extra.references]]
+id = "round-in-circles-schnabel"
+note = "シュナーベル(Schnabel)による、1991年のバウアー=チョーリー告白の転換を横断する本分野の制度的歴史へのジャーナリスティックな関与。"
+
+[[extra.references]]
+id = "the-circles-effect-meaden"
+note = "ミーデンによるプラズマ渦仮説の主要な articulation ― 1990年代を通じて実質的に放棄されたが、査読付き科学枠組みの内で運用されていた。"
+
+[[extra.references]]
+id = "levengood-physiologia-plantarum-1994"
+note = "レーベングッド(Levengood)によるBLTリサーチチームの残存異常枠組みの基礎的な査読付き出版物。"
+
+[[extra.references]]
+id = "the-deepening-complexity-crop-circles"
+note = "ハーゼルホフによる残存異常研究枠組みの主要なアクセスしやすい articulation。"
+
+[[extra.references]]
+id = "haselhoff-physiologia-plantarum-2001"
+note = "ハーゼルホフによるレーベングッドの節曲げ分析の査読付き拡張。"
+
+[[extra.references]]
+id = "glimpses-of-other-realities"
+note = "ハウ(Howe)による、ミステリーサークル事例素材を含む代替UFO学への実質的な関与。"
+
+[[extra.references]]
+id = "nickell-levengood-skeptical-inquirer-1996"
+note = "ニッケルによる、レーベングッドの残存異常研究に対する主要な発表済みの懐疑的批判。"
+
+[[extra.references]]
+id = "real-life-x-files-nickell"
+note = "ニッケルによる、ミステリーサークルおよびより広範な超常現象主張に適用された体系的懐疑的調査方法論の articulation。"
+
+[[extra.references]]
+id = "providence-in-early-modern-england"
+note = "ウォルシャムによる、1678年のモウイング・デビル・パンフレットが運用される17世紀英国ブロードシート伝統の基礎的扱い。"
+
+[[extra.references]]
+id = "miracles-and-the-pulp-press"
+note = "フリードマンによる、奇瑞内容に対する17世紀半ばの英国大衆出版物の関与の扱い。"
+
+[[extra.references]]
+id = "prehistoric-avebury"
+note = "バール(Burl)による、実質的なエイヴベリー・ヘンジ複合体と、より広範なウィルトシャー先史時代記念碑的景観の基礎的扱い。"
+
+[[extra.references]]
+id = "avebury-biography-of-a-landscape"
+note = "ポラード(Pollard)とレイノルズ(Reynolds)による、エイヴベリーの景観考古学の現代的な学術的総合。"
 
 [extra.infobox]
-type = "Large patterns produced by systematic flattening of agricultural crops into geometric, mathematical, or symbolic designs; methodologically complex phenomenon operating across documented human-made artistic-cultural practice and substantively contested alternative-ufological interpretation"
-phenomenon_emergence = "Late 1970s in southern England, principally Hampshire and Wiltshire; substantial subsequent geographic concentration in Wiltshire (Avebury-Stonehenge-Silbury Hill-Alton Barnes region); subsequent international occurrence"
-principal_methodological_transformation = "September 9, 1991 Doug Bower and Dave Chorley *Today* newspaper confession of authorship for principal early formations using ropes, planks, sighting-hole caps; substantial subsequent demonstration of construction methodology"
-principal_organized_groups = "Circlemakers (John Lundberg, Rod Dickinson, Wil Russell, Rob Irving); Team Satan; substantial international circle-making tradition"
-principal_mainstream_consensus = "Substantially human-made formations operating principally as artistic-cultural phenomenon; documented construction methodology; substantial geographic concentration consistent with organized circle-making activity"
-substantive_residual_questions = "Selected formations with reported physical anomalies (node-bending patterns, magnetite distributions, electromagnetic effects) engaged by BLT Research Team (John Burke, William Levengood, Nancy Talbott), Eltjo Haselhoff, others; substantial subsequent methodological debate"
-principal_corpus_engagement = "Vorilhon source articulates one specific case (embassy-model-resemblance formation) as substantively meaningful within corpus framework; broader crop-circle phenomenon engaged at descriptive level without substantive adoption as principal alliance-communication mechanism"
-distinguished_from = "Crop damage from natural causes (lodging from wind, rain, animals); aerial-phenomenon-with-ground-trace cases (substantially different category; treated in Ufology entry); the 1678 Mowing Devil pamphlet (contested as crop-circle precedent; engages substantively different supernatural-mowing narrative)"
-status_in_framework = "Substantively methodologically complex phenomenon engaged with epistemic care; corpus position threads documented human authorship and alleged residual anomalies without adopting strong alien-communication framing"
+type = "農作物を体系的に倒伏させ、幾何学的・数学的・象徴的な大規模模様を生み出す現象。文書化された人間の手による芸術的・文化的実践と、実質的に争点化された代替UFO学的解釈とにわたって運用される、方法論的に複雑な現象"
+phenomenon_emergence = "1970年代後期のイングランド南部、主としてハンプシャーとウィルトシャー。その後ウィルトシャー(エイヴベリー・ストーンヘンジ・シルベリー・ヒル・オールトン・バーンズ地域)への実質的な地理的集中。その後の国際的出現"
+principal_methodological_transformation = "1991年9月9日のダグ・バウアーとデイヴ・チョーリーによる *トゥデイ* 紙での主要な初期形成物の作者性告白 ― ロープ・板・視準孔つき帽子による建造。その後の実質的な建造方法の実証"
+principal_organized_groups = "サークルメイカーズ(ジョン・ランドベリ、ロッド・ディキンソン、ウィル・ラッセル、ロブ・アーヴィング)、チーム・サタン、実質的な国際的円形制作の伝統"
+principal_mainstream_consensus = "実質的に人間の手によって生み出された形成物が主として芸術的・文化的現象として運用されている。文書化された建造方法。組織化された円形制作活動と整合する実質的な地理的集中"
+substantive_residual_questions = "報告される物理的異常(節曲げパターン、磁鉄鉱の分布、電磁的効果)を持つ選択された形成物。BLTリサーチチーム(ジョン・バーク、ウィリアム・レーベングッド、ナンシー・タルボット)、エルチョ・ハーゼルホフ、その他により扱われる。その後の実質的な方法論的議論"
+principal_corpus_engagement = "ヴォリロン典拠は一つの具体的事例(大使館模型類似形成物)を文献集枠組みの内で実質的に意味のあるものとして articulate する。より広範なミステリーサークル現象は記述的水準で扱われ、主要な同盟通信機構としての実質的な採用には踏み込まない"
+distinguished_from = "自然的要因による作物被害(風、雨、動物による倒伏)。空中現象 + 地上痕跡事例(実質的に異なるカテゴリー、UFO学の項目で扱う)。1678年のモウイング・デビル・パンフレット(ミステリーサークル先行事例としては争点化されており、実質的に異なる超自然的草刈り物語に関与している)"
+status_in_framework = "認識論的慎重さをもって扱われる、実質的に方法論的に複雑な現象。文献集の立場は、文書化された人間の作者性と主張される残存異常との両者を、強い異星人通信の枠組みを採用することなく縫合する"
 +++
 
-**Crop circles**, or **crop formations**, are large patterns produced by the systematic flattening of agricultural crops (principally wheat, barley, rapeseed, rye, corn, linseed, and soy) into geometric, mathematical, or symbolic designs. The contemporary phenomenon emerged principally in southern England during the late 1970s, with substantial subsequent geographic concentration in the Wiltshire region (the Avebury-Stonehenge-Silbury Hill-Alton Barnes area) and subsequent international occurrence.
+**ミステリーサークル**(crop circles)、すなわち**穀物模様**(crop formations)は、農作物(主に小麦、大麦、菜種、ライ麦、トウモロコシ、亜麻、大豆)を体系的に倒伏させることで生み出される、幾何学的・数学的・象徴的な大規模模様です。現代的現象は1970年代後期にイングランド南部において主として出現し、その後ウィルトシャー地域(エイヴベリー・ストーンヘンジ・シルベリー・ヒル・オールトン・バーンズ地域)に実質的な地理的集中を見せ、その後国際的にも出現を見ました。
 
-The phenomenon underwent substantive methodological transformation on **September 9, 1991**, when British men **Doug Bower** (1924-2020) and **Dave Chorley** (1922-1996) confessed in the *Today* newspaper to having created the principal early formations from 1978 onward. Bower and Chorley demonstrated their construction methodology — ropes, planks, and baseball caps fitted with sighting holes for alignment — and accounted for the substantial increase in formations across the 1980s. Their confession was substantively verified through demonstration: Bower and Chorley constructed a circle for journalists in approximately 45 minutes, with the resulting formation indistinguishable from the substantial preceding cases by visual inspection.
+この現象は **1991年9月9日** に方法論上の実質的な転換を迎えました。英国人の **ダグ・バウアー**(Doug Bower、1924-2020)と **デイヴ・チョーリー**(Dave Chorley、1922-1996)が *トゥデイ*(Today)紙において、1978年以降に主要な初期形成物を作成したと告白したのです。{{ cite(id="round-in-circles-schnabel", text="[1]", title="シュナーベル『ラウンド・イン・サークルズ』(1993年) ― バウアー=チョーリー告白を横断する本分野の転換のジャーナリスティックな記述") }} バウアーとチョーリーはその建造方法 ― ロープ、板、整列のための視準孔を備えた野球帽 ― を実証し、1980年代を通じての形成物の実質的増加を説明しました。彼らの告白は実証を通じて実質的に検証されました。バウアーとチョーリーはジャーナリストのために約45分で円形を建造し、結果として生じた形成物は目視検査では先行する実質的な事例と区別がつきませんでした。{{ footnote(id="1") }}
 
-The substantive subsequent emergence of organized circle-making groups across the 1990s — principally **Circlemakers** (founded by John Lundberg with Rod Dickinson, Wil Russell, and Rob Irving) and the **Team Satan** group (the broader collective from which Circlemakers emerged) — substantially shifted the mainstream-scientific framing toward principally human-made artistic-cultural phenomenon. The Circlemakers group has documented its construction methodology substantively (Rob Irving and John Lundberg's *The Field Guide: The Art, History and Philosophy of Crop Circle Making*, Strange Attractor Press, 2006), produced commissioned commercial circles for advertising and entertainment industry clients, and operated substantively as the principal documented circle-making organization across approximately three decades.
+1990年代にわたる組織化された円形制作グループの実質的な出現 ― 主として **サークルメイカーズ**(Circlemakers、ジョン・ランドベリ(John Lundberg)がロッド・ディキンソン(Rod Dickinson)、ウィル・ラッセル(Wil Russell)、ロブ・アーヴィング(Rob Irving)とともに設立)と **チーム・サタン**(Team Satan)グループ(サークルメイカーズが生まれたより広範な集団) ― は、主流科学の枠組みを主として人間の手による芸術的・文化的現象へと実質的に転換させました。サークルメイカーズ・グループは、その建造方法を実質的に文書化しており(ロブ・アーヴィングとジョン・ランドベリ『フィールド・ガイド ― ミステリーサークル制作の芸術・歴史・哲学』、ストレンジ・アトラクター・プレス、2006年)、{{ cite(id="the-field-guide-crop-circle-making", text="[2]", title="アーヴィング&ランドベリ『フィールド・ガイド ― ミステリーサークル制作の芸術・歴史・哲学』(2006年)") }} 広告・娯楽産業の顧客向けに委託商業サークルを制作し、約三十年にわたって主要な文書化された円形制作組織として実質的に運用してきました。
 
-The substantial subsequent debate has produced multiple frameworks for engaging the phenomenon:
+その後の実質的な議論は、この現象を扱うための複数の枠組みを生み出しました。
 
-- **The mainstream-scientific consensus** — crop circles are principally human-made through documented construction techniques. This is the substantively well-supported mainstream position.
-- **The "plasma vortex" hypothesis** — Terence Meaden's substantive 1980s-1990s articulation that natural atmospheric phenomena (specifically rotating columns of ionized plasma) could produce circular flattening patterns. Meaden articulated this principally in *The Circles Effect and Its Mysteries* (1989); the hypothesis was substantively abandoned across the 1990s as documented human-construction evidence accumulated and as formations became substantially more complex than the plasma-vortex framework could plausibly explain.
-- **The residual-anomaly research program** — the BLT Research Team (founded 1989 by John Burke, William Levengood, and Nancy Talbott; subsequently directed principally by Talbott) has produced substantial subsequent literature arguing that selected formations exhibit physical characteristics (node-bending patterns; magnetite distributions; electromagnetic anomalies; biophysical effects on crops) that cannot be explained through purely human construction. Eltjo Haselhoff's *The Deepening Complexity of Crop Circles* (Frog, 2001) and substantial subsequent published research engage this framework.
-- **The alternative-ufological frameworks** — substantial alternative ufology engages selected formations as substantively non-human-made communication content. Principal cases include the Chilbolton "Arecibo response" (August 2001), the Crabwood "alien face" (August 2002), and the substantial subsequent alternative-ufological tradition.
+- **主流科学の合意** ― ミステリーサークルは主として文書化された建造技術を通じて人間の手によって生み出されている。これは実質的に十分に支持されている主流の立場です。
+- **「プラズマ渦」仮説** ― テレンス・ミーデンが1980年代から1990年代にかけて articulate した、自然の大気現象(具体的にはイオン化プラズマの回転する柱)が円形の倒伏パターンを生み出し得るとする実質的な articulation。ミーデンは主として『The Circles Effect and Its Mysteries』(1989年)においてこれを articulate しました。{{ cite(id="the-circles-effect-meaden", text="[3]", title="ミーデン『The Circles Effect and Its Mysteries』(1989年) ― プラズマ渦仮説の主要な articulation") }} 同仮説は、文書化された人間建造の証拠が累積し、形成物がプラズマ渦の枠組みでは妥当な仕方で説明できないほど実質的に複雑になっていくにつれ、1990年代を通じて実質的に放棄されました。{{ footnote(id="2") }}
+- **残存異常の研究プログラム** ― BLTリサーチチーム(1989年にジョン・バーク(John Burke)、ウィリアム・レーベングッド(William Levengood)、ナンシー・タルボット(Nancy Talbott)によって設立、その後主としてタルボットが主導)は、選択された形成物が純粋に人間の建造を通じては説明できない物理的特徴(節曲げパターン、磁鉄鉱の分布、電磁的異常、作物への生物物理学的影響)を示すと論じる実質的な文献を生み出してきました。{{ cite(id="levengood-physiologia-plantarum-1994", text="[4]", title="レーベングッド「Anatomical Anomalies in Crop Formation Plants」(*Physiologia Plantarum* 1994年)") }} エルチョ・ハーゼルホフの『The Deepening Complexity of Crop Circles』(Frog、2001年){{ cite(id="the-deepening-complexity-crop-circles", text="[5]", title="ハーゼルホフ『The Deepening Complexity of Crop Circles』(2001年)") }} およびその後の実質的な発表済み研究はこの枠組みに関与しています。
+- **代替UFO学的枠組み** ― 実質的な代替{% wiki(slug="ufology") %}UFO学{% end %}は、選択された形成物を実質的に非・人間の手による通信内容として扱います。主要な事例には、チルボルトンの「アレシボへの応答」(2001年8月)、クラブウッドの「異星人の顔」(2002年8月)、{{ cite(id="glimpses-of-other-realities", text="[6]", title="ハウ『Glimpses of Other Realities』(1993-1998年) ― 選択されたミステリーサークル事例への代替UFO学的関与") }} およびその後の実質的な代替UFO学の伝統が含まれます。
 
-The Wheel of Heaven framework engages crop circles substantively with methodological care that distinguishes the corpus framework from the strong "all crop circles are alien-communication" framing that some alternative ufology adopts. The corpus position:
+Wheel of Heaven の枠組みは、いくつかの代替UFO学が採用する「すべてのミステリーサークルは異星人の通信である」という強い枠組みから文献集の枠組みを区別する方法論的慎重さをもって、実質的にミステリーサークルに関与します。文献集の立場は次のとおりです。
 
-- **The substantial majority of contemporary crop circles are documented human-made formations.** The Bower-Chorley confession, the Circlemakers and Team Satan documentation, the substantial international circle-making tradition, and the substantial subsequent literature substantively establish human authorship as the principal explanation for the contemporary phenomenon.
-- **Substantive residual physical anomalies in selected formations remain unresolved.** The BLT Research Team work, the Haselhoff research, and substantial subsequent literature articulate specific physical observations that mainstream-scientific framework has not substantively explained. The corpus engages this work descriptively while flagging the methodologically contested status.
-- **The alleged extraterrestrial-communication content in specific formations operates within alternative-ufological framework.** The Chilbolton, Crabwood, and substantial subsequent communication-claim cases have not been substantively verified through mainstream-scientific methodology. The corpus engages these cases descriptively.
-- **The Vorilhon source articulates one specific case as substantively meaningful within corpus framework.** The *Message from the Designers* foreword references a crop circle that appeared in England bearing "an astonishing resemblance" to the small-scale embassy model that Raëlian architects had built. This is the principal specific corpus-internal engagement with crop circles.
-- **The broader phenomenon is engaged at descriptive level without substantive adoption as principal alliance-communication mechanism.** The corpus does not adopt the strong "crop circles are alliance messages" framing that some alternative ufology articulates. The substantive alliance-contact framework operates through the Vorilhon-source contact narrative (December 13, 1973 at Puy-de-Lassolas; October 7, 1975 transport to the home planet; subsequent contact events), with crop circles operating at most as occasional adjacent phenomenon rather than as principal communication channel.
+- **現代のミステリーサークルの実質的多数は、文書化された人間の手による形成物である。** バウアー=チョーリーの告白、サークルメイカーズとチーム・サタンの文書化、実質的な国際的円形制作の伝統、その後の実質的な文献は、現代の現象に対する主要な説明として人間の作者性を実質的に確立しています。
+- **選択された形成物における残存する物理的異常は依然として未解決である。** BLTリサーチチームの研究、ハーゼルホフの研究、その後の実質的な文献は、主流科学の枠組みが実質的には説明していない具体的な物理的観察を articulate しています。文献集はこの研究を記述的に扱う一方で、方法論的に争点化された地位を明示します。{{ footnote(id="4") }}
+- **特定の形成物における異星間通信主張の内容は、代替UFO学の枠組みの内で運用されている。** チルボルトン、クラブウッド、その後の実質的な通信主張事例は、主流科学の方法論を通じて実質的に検証されてはいません。文献集はこれらの事例を記述的に扱います。{{ footnote(id="5") }}
+- **ヴォリロン典拠は一つの具体的事例を文献集枠組みの内で実質的に意味のあるものとして articulate する。** 『デザイナーからのメッセージ』の序文は、ラエリアンの建築家たちが製作した小規模の{% wiki(slug="embassy") %}大使館{% end %}模型に「驚くべき類似性」を持って現れたイングランドのミステリーサークルに言及しています。{{ cite(id="the-book-which-tells-the-truth", text="[7]", title="ヴォリロン(ラエル)『デザイナーからのメッセージ』序文 ― 大使館類似のミステリーサークル言及") }} これがミステリーサークルへの文献集内の主要な具体的関与です。
+- **より広範な現象は記述的水準で扱われ、主要な同盟通信機構としての実質的な採用には踏み込まない。** 文献集は、いくつかの代替UFO学が articulate する「ミステリーサークルは同盟のメッセージである」という強い枠組みを採用しません。実質的な同盟接触枠組みは、ヴォリロン典拠の接触物語(1973年12月13日のピュイ・ド・ラソラ、1975年10月7日の母惑星への移送、その後の接触事象)を通じて運用されるのであり、ミステリーサークルは主要な通信回路ではなく、せいぜい時折の隣接現象として運用されます。{{ footnote(id="6") }}
 
-This entry articulates crop circles carefully — the etymology and disciplinary scope, the principal historical development from late-1970s emergence through contemporary state, the principal documented cases, the 1991 Bower-Chorley confession and substantive subsequent methodological transformation, the principal organized circle-making community, the residual-anomaly research program, the principal alternative-ufological cases (particularly the Chilbolton Arecibo response and the Crabwood alien face), the substantial Wiltshire geographic concentration, the corpus engagement through the Vorilhon source, and the substantial broader cultural and artistic dimensions of the contemporary phenomenon.
+本項目は、ミステリーサークルを慎重に articulate します。すなわち、語源と分野の範囲、1970年代後期の出現から現代の状態に至るまでの主要な歴史的展開、主要な文書化された事例、1991年のバウアー=チョーリー告白とその後の実質的な方法論的転換、主要な組織化された円形制作コミュニティ、残存異常の研究プログラム、主要な代替UFO学的事例(特にチルボルトンのアレシボ応答とクラブウッドの異星人の顔)、ウィルトシャーの実質的な地理的集中、ヴォリロン典拠を通じた文献集の関与、ならびに現代の現象の実質的な、より広範な文化的・芸術的諸次元についてです。
 
-## Etymology and scope
+## 語源と範囲
 
-### Etymology
+### 語源
 
-The term *crop circle* came into general use in the early 1980s as the British media engaged the substantial increase in reported formations across southern England. Earlier terms (the principal early 1980s designations included "corn circles," "pictograms," and "crop formations") have been substantially replaced by the standard contemporary designation.
+*crop circle*(ミステリーサークル)という用語は、イングランド南部全体にわたる報告された形成物の実質的増加に英国メディアが関与した1980年代初頭に一般的に用いられるようになりました。それ以前の用語(1980年代初頭の主要な呼称には "corn circles"、"pictograms"、"crop formations" が含まれていた)は、現代の標準的呼称によって実質的に置き換えられました。
 
-The term combines:
+この用語は次のものを組み合わせたものです。
 
-- **Crop** — referring to agricultural crops, principally cereals (wheat, barley, rye, oats) but also rapeseed (canola), corn (maize), linseed, soy, and other field crops
-- **Circle** — referring to the originally-circular form of early 1970s-1980s formations, retained as terminology even as subsequent formations have substantially expanded beyond strict circular geometry
+- **Crop**(作物) ― 農作物、主として穀類(小麦、大麦、ライ麦、燕麦)を指しますが、菜種(キャノーラ)、トウモロコシ(メイズ)、亜麻、大豆、その他の畑作物も含みます。
+- **Circle**(円) ― 1970年代から1980年代初期の形成物の元々の円形を指しますが、その後の形成物が厳密な円形幾何学を実質的に超えて拡張してもなお用語として保持されました。
 
-The term is somewhat dated in retaining the "circle" designation despite the substantial subsequent complexity of formations including geometric, fractal, and figurative content. The alternative term **crop formation** is sometimes preferred in technical contexts. Both terms remain in active use.
+この用語は、形成物が幾何学的、フラクタル的、絵画的内容を含む実質的に複雑なものとなった現代においても「円」(circle)という呼称を保持している点で、やや古めかしいものです。代替用語の **crop formation**(穀物模様)は、専門的な文脈では時折好まれます。両用語ともに現在も使用されています。
 
-### Disciplinary scope
+日本語においては、英国を起源とする現代現象が日本のメディアに導入された際に、定着した呼称として「ミステリーサークル」が広く用いられるようになりました。原語の "crop circle" を音訳する「クロップ・サークル」は、より学術的・専門的文脈で代替的に用いられます。
 
-The phenomenon of crop circles encompasses several substantively distinguishable categories:
+### 分野の範囲
 
-- **Documented human-made artistic formations.** The principal category — formations produced by organized circle-making groups (Circlemakers, Team Satan, international affiliates) operating as artistic-cultural practice. These formations are documented in the Circlemakers archive, the substantial subsequent literature, and the broader contemporary art-historical engagement.
-- **Commercial and commissioned formations.** Formations produced commercially for advertising, film production, music video production, and broader entertainment-industry applications. The Circlemakers group has produced substantial commercial work across approximately three decades.
-- **Hoax and prank formations.** Formations produced by individuals operating outside organized circle-making groups, principally as pranks or as deliberate attempts to deceive crop circle researchers.
-- **Substantively contested formations.** Formations whose authorship remains substantively contested in alternative-ufological and broader research contexts.
-- **Reportedly anomalous formations.** Formations exhibiting reported physical characteristics that the residual-anomaly research program (BLT, Haselhoff, others) argues cannot be explained through purely human construction.
+ミステリーサークルの現象は、実質的に区別可能ないくつかのカテゴリーを包含します。
 
-The substantive methodological challenge: distinguishing across these categories requires substantive forensic investigation that has been conducted inconsistently across the phenomenon's history.
+- **文書化された人間の手による芸術的形成物。** 主要なカテゴリー ― 組織化された円形制作グループ(サークルメイカーズ、チーム・サタン、国際的提携者)が芸術的・文化的実践として運用することにより生み出された形成物。これらの形成物は、サークルメイカーズのアーカイブ、その後の実質的な文献、より広範な現代美術史的関与において文書化されています。
+- **商業的・委託形成物。** 広告、映画製作、ミュージックビデオ制作、ならびにより広範な娯楽産業の応用のために商業的に生み出された形成物。サークルメイカーズ・グループは約三十年にわたって実質的な商業作品を生み出してきました。
+- **悪戯・いたずらの形成物。** 組織化された円形制作グループの外で運用される個人によって、主として悪戯やミステリーサークル研究者を意図的に欺く試みとして生み出された形成物。
+- **実質的に争点化された形成物。** その作者性が代替UFO学的・より広範な研究的文脈において実質的に争点化されたままになっている形成物。
+- **異常が報告される形成物。** 残存異常の研究プログラム(BLT、ハーゼルホフ、その他)が純粋に人間の建造を通じては説明できないと論じる、報告された物理的特徴を示す形成物。
 
-### Distinguishing related phenomena
+実質的な方法論上の課題は次のとおりです。これらのカテゴリー間の区別には、現象の歴史を通じて一貫して実施されてはこなかった実質的な法医学的調査が要求されるということです。
 
-Crop circles should be distinguished from several adjacent phenomena:
+### 関連現象の区別
 
-- **Crop damage from natural causes.** Lodging (the substantial flattening of cereal crops due to wind, rain, or weight-induced collapse) produces broadly similar visual appearance but typically without the geometric precision of crop circles. Natural crop damage from animal activity (deer beds, fox runs) produces smaller-scale localized damage substantially different from crop circle formations.
-- **Aerial-phenomenon-with-ground-trace cases.** Cases involving reported UFO/UAP sightings accompanied by ground-level evidence (landing marks, electromagnetic effects, physical traces) operate as substantively different ufology category, treated in the [Ufology](../ufology/) entry. The 1966 Tully Saucer Nests case (treated below) is one principal example.
-- **The 1678 Mowing Devil pamphlet.** The pamphlet documenting a supernatural mowing event in Hertfordshire is substantively different category — the pamphlet describes a devil cutting standing crops cleanly (a mowing rather than a flattening event), which is methodologically distinct from the modern crop-circle phenomenon despite frequent citation as precedent.
-- **Ice circles.** Naturally occurring circular formations of rotating ice in slow-moving water, sometimes cited as parallel natural phenomenon; the substantive natural-physical mechanism operates principally through ice formation rather than vegetation flattening.
+ミステリーサークルは、いくつかの隣接現象から区別されるべきです。
 
-## Principal historical development
+- **自然的要因による作物被害。** 倒伏(風・雨・重量誘発の崩壊による穀物作物の実質的な平坦化)は、外見上は概ね類似した出現を生み出しますが、典型的にはミステリーサークルの幾何学的精度を持ちません。動物の活動(鹿の寝床、狐の走路)による自然的作物被害は、ミステリーサークル形成物とは実質的に異なる、より小規模な局所的被害を生み出します。
+- **空中現象 + 地上痕跡事例。** UFO/UAP目撃と地上証拠(着陸痕、電磁的効果、物理的痕跡)が伴う事例は、実質的に異なるUFO学カテゴリーとして運用され、{% wiki(slug="ufology") %}UFO学{% end %}の項目で扱われます。1966年のタリー・ソーサー・ネスト(Tully Saucer Nests)事例(以下で扱う)は主要な一例です。
+- **1678年のモウイング・デビル・パンフレット。** ハートフォードシャーでの超自然的草刈り事象を文書化したパンフレットは、実質的に異なるカテゴリーです ― 同パンフレットは悪魔が立っている作物をきれいに切断する出来事(倒伏ではなく草刈り事象)を記述しており、頻繁に先行事例として引用されるにもかかわらず、現代のミステリーサークル現象とは方法論的に区別されます。{{ footnote(id="3") }}
+- **氷の輪。** 流れの遅い水中で回転する氷が自然的に形成する円形構造で、並行する自然現象として時折引用されます。実質的な自然物理機構は、植生の倒伏ではなく主として氷の形成を通じて運用されます。
 
-The contemporary crop circle phenomenon has a substantive history that warrants articulation across distinct phases.
+## 主要な歴史的展開
 
-### Pre-1970s background
+現代のミステリーサークル現象は、別個の段階にわたって articulate されるに値する実質的な歴史を持ちます。
 
-The substantive question of whether crop-circle-like phenomena existed before the 1970s remains substantively contested. The principal cited pre-1970s evidence:
+### 1970年代以前の背景
 
-**The 1678 Mowing Devil pamphlet.** The pamphlet "The Mowing-Devil: Or, Strange News out of Hartford-shire" (1678) describes a supernatural mowing event in which a farmer who refused a mower's price reportedly said he would rather have the Devil mow his field; the field was subsequently found mowed overnight. The pamphlet's woodcut illustration depicts a devil mowing a field in a circular pattern.
+ミステリーサークル類似の現象が1970年代以前に存在していたかどうかという実質的な問いは、依然として実質的に争点化されたままです。主要な引用される1970年代以前の証拠は次のものです。
 
-The Mowing Devil case is methodologically contested as crop-circle precedent. The substantive methodological objections:
+**1678年のモウイング・デビル・パンフレット。** パンフレット「モウイング・デビル ― あるいはハートフォードシャーからの奇妙な知らせ」(1678年)は、ある農夫が草刈り人の代金を拒絶した際に、悪魔に畑を刈らせる方がましだと言ったと報じられ、その畑が一夜のうちに刈られた状態で発見されたという超自然的草刈り事象を記述しています。同パンフレットの木版挿絵は、悪魔が円形の模様で畑を刈っている様子を描いています。
 
-- **The pamphlet describes mowing, not flattening.** The Mowing Devil event involves cutting standing crops cleanly — substantively different from the flattening that characterizes modern crop circles.
-- **The pamphlet operates within 17th-century pamphlet-literature conventions.** The substantial 17th-century English broadsheet tradition produced extensive supernatural-prodigy literature with substantial moral-allegorical framing; the Mowing Devil pamphlet operates within this tradition rather than as straightforward eyewitness journalism.
-- **The substantive scholarship is divided.** Bob Trubshaw, Jeremy Harte, and substantial folkloric scholarship have engaged the Mowing Devil within 17th-century pamphlet conventions; crop circle researchers have engaged it as evidence of pre-modern crop circles.
+「モウイング・デビル」事例はミステリーサークルの先行事例としては方法論的に争点化されています。実質的な方法論的反論は次のとおりです。
 
-The corpus position: the Mowing Devil case is substantively different category from modern crop circles and should not operate as straightforward precedent in disciplinary history.
+- **同パンフレットは草刈りを記述しており、倒伏ではない。** 「モウイング・デビル」の事象は立っている作物をきれいに切断することを含み ― 現代のミステリーサークルを特徴づける倒伏とは実質的に異なります。
+- **同パンフレットは17世紀のパンフレット文学の慣習の内で運用されている。** 17世紀英国のブロードシート伝統は、実質的に道徳的・寓意的枠組みを持つ広範な超自然的奇瑞文学を生み出しました。{{ cite(id="providence-in-early-modern-england", text="[8]", title="ウォルシャム『Providence in Early Modern England』(1999年) ― 17世紀の超自然的奇瑞パンフレット伝統の基礎的扱い") }} モウイング・デビル・パンフレットは、率直な目撃者ジャーナリズムというよりもこの伝統の内で運用されています。{{ cite(id="miracles-and-the-pulp-press", text="[9]", title="フリードマン『Miracles and the Pulp Press during the English Revolution』(1993年)") }}
+- **実質的な学術的研究は分かれている。** ボブ・トラブショウ、ジェレミー・ハート、ならびに実質的な民俗学的研究は、モウイング・デビルを17世紀のパンフレット慣習の内で扱ってきました。ミステリーサークル研究者は、これを近代以前のミステリーサークルの証拠として扱ってきました。
 
-**The 1966 Tully Saucer Nests.** On January 19, 1966, banana farmer George Pedley reported observing a UFO rising from a swampy lagoon area near Tully, Queensland, Australia. Investigating the site, Pedley found a roughly circular area (approximately 30 feet diameter) of flattened reeds. The case was investigated by Queensland police and is documented in substantial subsequent ufology literature.
+文献集の立場は次のとおりです。すなわち、モウイング・デビル事例は現代のミステリーサークルとは実質的に異なるカテゴリーであり、本分野の歴史における率直な先行事例として運用されるべきではないということです。
 
-The Tully Saucer Nests case is substantively important as one of the principal pre-1970s aerial-phenomenon-with-ground-trace cases. The substantive distinction from modern crop circles: the Tully case operates principally as a UFO sighting with associated ground trace (the reed-flattening as effect of the observed craft) rather than as standalone crop-formation phenomenon.
+**1966年のタリー・ソーサー・ネスト。** 1966年1月19日、バナナ農家のジョージ・ペドリー(George Pedley)は、オーストラリア・クイーンズランド州のタリー近郊の沼地のラグーン地帯からUFOが上昇するのを観察したと報告しました。現場を調査したペドリーは、葦が倒された概ね円形の領域(直径約30フィート)を発見しました。事件はクイーンズランド警察によって調査され、その後の実質的なUFO学文献において文書化されています。
 
-**Other pre-1970s cases.** Substantial pre-1970s reports of similar phenomena exist (the substantial Warminster "Thing" phenomenon in 1960s England producing reports of unexplained noises and crop damage; substantial subsequent reports across multiple international contexts). The substantive methodological challenge: these reports operate principally within local cultural contexts without the systematic documentation that the post-1970s phenomenon has produced.
+タリー・ソーサー・ネスト事例は、主要な1970年代以前の空中現象 + 地上痕跡事例の一つとして実質的に重要です。現代のミステリーサークルとの実質的な区別は次のとおりです。すなわち、タリー事例は主として関連する地上痕跡を伴うUFO目撃(観察された機体の効果としての葦の倒伏)として運用されており、独立した穀物形成物現象としてではないということです。
 
-### The late-1970s emergence
+**他の1970年代以前の事例。** 類似の現象についての実質的な1970年代以前の報告は存在します(1960年代英国の実質的なウォーミンスター(Warminster)の「シング(Thing)」現象は、説明のつかない音と作物被害の報告を生み出し、その後の実質的な報告は複数の国際的脈絡にわたっています)。実質的な方法論上の課題は次のとおりです。すなわち、これらの報告は主として地域的文化的脈絡の内で運用されており、1970年代以降の現象が生み出してきた体系的な文書化を欠いているということです。
 
-The contemporary phenomenon emerged principally in southern England across the late 1970s, with substantial increase in reported formations across the 1980s. Principal early documented formations:
+### 1970年代後期の出現
 
-- **The Cheesefoot Head formations (Hampshire, 1976-1978).** Among the principal early documented modern formations.
-- **The Westbury White Horse formations (Wiltshire, 1980).** Substantial early-phase formations near the prehistoric chalk hill figure.
-- **The Punchbowl formation (Cheesefoot Head, August 1981).** Substantial formation that received substantial subsequent media coverage and operated as one of the principal early publicly-known cases.
+現代の現象は、1970年代後期にわたってイングランド南部において主として出現し、1980年代を通じて報告される形成物の実質的な増加を見ました。主要な初期の文書化された形成物は次のとおりです。
 
-The principal British researchers engaged with the early-phase phenomenon included Pat Delgado, Colin Andrews, Terence Meaden, and George Wingfield. Delgado and Andrews's *Circular Evidence* (1989) operated as the principal early book-length engagement and substantially shaped popular and research engagement with the phenomenon.
+- **チーズフット・ヘッド形成物(ハンプシャー、1976-1978年)。** 主要な初期の文書化された現代形成物の中に数えられます。
+- **ウェストベリー・ホワイト・ホース形成物(ウィルトシャー、1980年)。** 先史時代のチョーク丘陵図像近くの実質的な初期段階の形成物。
+- **パンチボウル形成物(チーズフット・ヘッド、1981年8月)。** 実質的なメディア報道を受け、主要な初期の公に知られた事例の一つとして運用された実質的な形成物。
 
-### The 1980s expansion
+初期段階の現象に関与した主要な英国の研究者には、パット・デルガード(Pat Delgado)、コリン・アンドリュース(Colin Andrews)、テレンス・ミーデン、ジョージ・ウィングフィールド(George Wingfield)が含まれました。デルガードとアンドリュースの『Circular Evidence』(1989年){{ cite(id="circular-evidence", text="[10]", title="デルガード&アンドリュース『Circular Evidence』(1989年) ― 告白以前の基礎的なミステリーサークルの扱い") }} は主要な初期の単行書による関与として運用され、この現象への大衆および研究者の関与を実質的に形成しました。
 
-Across the 1980s, the substantial increase in reported formations included:
+### 1980年代の拡大
 
-- **Substantial increase in frequency.** From approximately a dozen reported formations in 1981 to several hundred reported formations by the late 1980s.
-- **Substantial increase in complexity.** Early formations were principally simple circles; subsequent formations developed substantial geometric, mathematical, and pictographic complexity.
-- **Substantial geographic concentration.** Approximately 80% of reported formations occurred in southern England, with substantial subsequent concentration in Wiltshire.
-- **Substantial subsequent international occurrence.** Reports emerged from the United States, Canada, Australia, Germany, France, the Netherlands, Japan, and substantial other international contexts across the late 1980s and 1990s.
+1980年代を通じて、報告される形成物の実質的な増加には次のものが含まれていました。
 
-### The 1991 Bower-Chorley confession
+- **頻度の実質的な増加。** 1981年の約十数件の報告された形成物から、1980年代後期の数百件の報告された形成物へ。
+- **複雑さの実質的な増加。** 初期の形成物は主として単純な円形でしたが、その後の形成物は実質的な幾何学的・数学的・絵画的複雑さを発達させました。
+- **実質的な地理的集中。** 報告された形成物の約80%がイングランド南部で発生し、その後の実質的な集中がウィルトシャーに見られました。
+- **その後の実質的な国際的出現。** 1980年代後期から1990年代を通じて、米国、カナダ、オーストラリア、ドイツ、フランス、オランダ、日本、ならびにその他の実質的な国際的脈絡から報告が現れました。
 
-On September 9, 1991, British men Doug Bower and Dave Chorley confessed in the British tabloid newspaper *Today* to having created the principal early modern crop circle formations from 1978 onward. The substantive content of their confession:
+### 1991年のバウアー=チョーリー告白
 
-- **The 1976 origin.** Bower and Chorley articulated that they began making crop circles in 1976 after Bower had heard the Tully Saucer Nests case and suggested they create similar formations for amusement.
-- **The construction methodology.** Their principal technique used a wooden plank attached to a rope, with the maker walking in a circle while stepping the plank along the ground to flatten crops. Sighting through baseball caps with holes drilled in the brims allowed precise geometric alignment.
-- **The substantive output.** Bower and Chorley estimated they had created approximately 200 formations across 1976-1991, principally in southern England.
-- **The demonstration.** Bower and Chorley demonstrated their technique for journalists, constructing a crop circle in approximately 45 minutes. The resulting formation was shown to crop circle researchers without their knowledge of the construction; the researchers identified the formation as genuine, substantively confirming the methodological viability of human construction.
+1991年9月9日、英国人のダグ・バウアーとデイヴ・チョーリーは、英国のタブロイド紙 *トゥデイ* において、1978年以降に主要な初期の現代ミステリーサークル形成物を作成したと告白しました。彼らの告白の実質的な内容は次のとおりです。
 
-The Bower-Chorley confession substantively transformed the discipline's methodological framing. The substantive implications:
+- **1976年の起源。** バウアーとチョーリーは、バウアーがタリー・ソーサー・ネスト事例を聞いて、楽しみのために同様の形成物を作ることを提案した1976年に、ミステリーサークル制作を始めたと articulate しました。
+- **建造方法。** 主要な技術は、ロープに取り付けられた木製の板を用い、制作者が円を描いて歩きながら板を地面に沿って踏むことで作物を倒伏させるというものでした。つばに穴を開けた野球帽を通して照準することで、精密な幾何学的整列が可能になりました。
+- **実質的な生産量。** バウアーとチョーリーは、1976年から1991年にかけて主としてイングランド南部で約200の形成物を作成したと推定しました。
+- **実証。** バウアーとチョーリーはジャーナリストのために自分たちの技術を実証し、約45分でミステリーサークルを建造しました。結果として生じた形成物は、建造を知らされていないミステリーサークル研究者に提示されました。研究者たちはこの形成物を本物と同定し、人間建造の方法論的成立可能性を実質的に確認しました。
 
-- **The principal early-phase formations are documented as human-made.** Cases that had been engaged as substantively unexplained in the 1980s literature are now documented through perpetrator confession and demonstrated construction methodology.
-- **Construction methodology is demonstrated as viable.** The substantive question of whether complex formations could be produced by human construction in available time-windows is substantively answered through demonstration.
-- **The substantial geographic concentration becomes consistent with organized circle-making activity.** The substantial Wiltshire concentration is substantively consistent with the substantial geographic concentration of organized circle-making activity in the region.
-- **The mainstream-scientific framing shifts substantively.** Mainstream press coverage and substantial subsequent literature engage crop circles principally as human-made artistic-cultural phenomenon following the confession.
+バウアー=チョーリー告白は本分野の方法論的枠組みを実質的に転換しました。実質的な含意は次のとおりです。
 
-### The post-1991 development
+- **主要な初期段階の形成物が人間の手によるものとして文書化される。** 1980年代の文献では実質的に説明のつかないものとして扱われていた事例が、犯人による告白と実証された建造方法を通じて文書化されました。
+- **建造方法が成立可能であることが実証される。** 複雑な形成物が利用可能な時間内に人間の建造によって生み出せるかという実質的な問いは、実証を通じて実質的に答えられました。
+- **実質的な地理的集中が組織化された円形制作活動と整合するものとなる。** ウィルトシャーの実質的な集中は、当該地域における組織化された円形制作活動の実質的な地理的集中と実質的に整合します。
+- **主流科学の枠組みが実質的に転換する。** 主流メディアの報道とその後の実質的な文献は、告白に続き、主としてミステリーサークルを人間の手による芸術的・文化的現象として扱うようになりました。
 
-Following the Bower-Chorley confession, the contemporary crop circle phenomenon has developed across several substantive directions:
+### 1991年以降の展開
 
-- **The organized circle-making community has emerged publicly.** Circlemakers (founded by John Lundberg with Rod Dickinson, Wil Russell, and Rob Irving in approximately 1996; the broader Team Satan collective operating from approximately 1992) operates substantively as the principal documented contemporary circle-making organization.
-- **Commercial circle-making has substantively developed.** The Circlemakers group has produced substantial commercial work for advertising clients (Microsoft, Mitsubishi, Pepsi, Nike, Greenpeace, others), film production (the 2002 M. Night Shyamalan film *Signs*; substantial others), and broader entertainment-industry applications.
-- **Formation complexity has substantively increased.** Contemporary formations include substantial fractal patterns (the Julia Set 1996; the Etchilhampton 1997), substantial three-dimensional optical illusions (the Long Wood 2021), substantial mathematical-encoded patterns (the substantial Pi-encoded formation 2008), substantial pictographic content (the Crabwood 2002 alien face), and substantial broader artistic content.
-- **The residual-anomaly research program has continued.** The BLT Research Team, Eltjo Haselhoff, and substantial subsequent researchers continue investigation of selected formations.
-- **The alternative-ufological framework has continued.** Selected cases (Chilbolton 2001; Crabwood 2002; substantial subsequent cases) continue to be engaged as substantively non-human-made communication content in alternative-ufological literature.
+バウアー=チョーリー告白に続き、現代のミステリーサークル現象はいくつかの実質的な方向に展開してきました。
 
-The contemporary phenomenon operates substantively as a complex cultural-artistic-research situation rather than as a straightforward unexplained phenomenon. The mainstream-scientific framing engages crop circles principally as documented human-made artistic-cultural practice with substantial residual-anomaly questions that remain methodologically contested.
+- **組織化された円形制作コミュニティが公に出現した。** サークルメイカーズ(およそ1996年にジョン・ランドベリがロッド・ディキンソン、ウィル・ラッセル、ロブ・アーヴィングとともに設立。より広範なチーム・サタン集団はおよそ1992年から運用)は、主要な文書化された現代の円形制作組織として実質的に運用されています。
+- **商業的円形制作が実質的に発達した。** サークルメイカーズ・グループは、広告クライアント(マイクロソフト、三菱、ペプシ、ナイキ、グリーンピース、その他)、映画製作(2002年のM・ナイト・シャマラン監督の映画『サイン』、その他多数)、ならびにより広範な娯楽産業の応用のために実質的な商業作品を生み出してきました。
+- **形成物の複雑さが実質的に増加した。** 現代の形成物には、実質的なフラクタル模様(1996年のジュリア集合、1997年のエッチルハンプトン)、実質的な三次元的錯視(2021年のロング・ウッド)、実質的な数学的符号化模様(2008年の実質的な円周率符号化形成物)、実質的な絵画的内容(2002年のクラブウッドの異星人の顔)、ならびに実質的により広範な芸術的内容が含まれます。
+- **残存異常の研究プログラムが継続している。** BLTリサーチチーム、エルチョ・ハーゼルホフ、その後の実質的な研究者たちは、選択された形成物の調査を継続しています。
+- **代替UFO学的枠組みが継続している。** 選択された事例(2001年のチルボルトン、2002年のクラブウッド、その後の実質的な事例)は、代替UFO学文献において実質的に非・人間の手による通信内容として引き続き扱われています。{{ cite(id="crop-circles-signs-of-contact", text="[11]", title="アンドリュース&スピニェジ『Crop Circles: Signs of Contact』(2003年)") }}
 
-## Characteristics
+現代の現象は、率直な未解明現象としてではなく、実質的に複雑な文化的・芸術的・研究的状況として運用されています。主流科学の枠組みは、ミステリーサークルを主として文書化された人間の手による芸術的・文化的実践として扱い、方法論的に争点化されたままの実質的な残存異常の問いを伴うものとします。{{ cite(id="real-life-x-files-nickell", text="[12]", title="ニッケル『Real-Life X-Files』(2001年) ― ミステリーサークルを含む超常現象主張への体系的な懐疑的関与") }}
 
-Crop circles exhibit characteristic features that warrant systematic articulation.
+## 特徴
 
-### Geometric properties
+ミステリーサークルは、体系的な articulation に値する特徴的な要素を示します。
 
-Contemporary crop circles typically exhibit:
+### 幾何学的性質
 
-- **Precise geometric relationships.** Most formations operate within substantive geometric framework — circles, polygons, fractals, mandalas, geometric solids viewed orthographically.
-- **Substantial scale.** Formations range from substantially small (under 10 meters diameter) to substantially large (the principal Milk Hill 2001 formation spanning approximately 240 meters across).
-- **Substantial mathematical content.** Selected formations encode substantive mathematical content — the Julia Set 1996 fractal; the Pi-encoded Wiltshire 2008 formation; the substantial geometric-proportional content in numerous formations.
-- **Substantial symbolic content.** Selected formations operate principally through symbolic content — sacred geometric forms (Flower of Life patterns); astronomical content (solar system diagrams; lunar phase patterns); pictographic content (figurative imagery).
+現代のミステリーサークルは、典型的に次のものを示します。
 
-### Physical characteristics
+- **精密な幾何学的関係。** ほとんどの形成物は実質的な幾何学的枠組み ― 円、多角形、フラクタル、マンダラ、正射投影で見た幾何学的立体 ― の内で運用されます。
+- **実質的な規模。** 形成物の規模は、実質的に小さなもの(直径10メートル以下)から実質的に大きなもの(2001年の主要なミルク・ヒル(Milk Hill)形成物は約240メートルにわたる)まで及びます。
+- **実質的な数学的内容。** 選択された形成物は、実質的な数学的内容 ― 1996年のジュリア集合フラクタル、2008年のウィルトシャー円周率符号化形成物、数多くの形成物における実質的な幾何学的・比例的内容 ― を符号化します。
+- **実質的な象徴的内容。** 選択された形成物は、主として象徴的内容を通じて運用されます ― {% wiki(slug="sacred-geometry") %}神聖幾何学的形態{% end %}(フラワー・オブ・ライフ模様)、天文学的内容(太陽系図、月相模様)、絵画的内容(具象的イメージ)。
 
-Crop circles exhibit characteristic physical features:
+### 物理的特徴
 
-- **Bent rather than broken stalks.** In contemporary documented formations, crop stalks are typically bent rather than broken at the base or at the lower nodes. The bending is consistent with the documented plank-and-rope construction technique.
-- **Flow patterns.** The flattened crops typically lie in consistent directional flow patterns, with substantial subsequent layering in complex formations.
-- **Standing-crop residual elements.** Contemporary formations frequently incorporate standing-crop elements (tufts, paths, intermediate-height bands) as artistic features.
-- **Edge precision.** The boundary between flattened and standing crops is typically substantially sharp, with crisp edges that distinguish crop circles from natural lodging damage.
+ミステリーサークルは特徴的な物理的特徴を示します。
 
-### Alleged residual anomalies
+- **折れずに曲がった茎。** 現代の文書化された形成物では、作物の茎は典型的に基部または下部の節で折れるのではなく曲がっています。この曲がり方は、文書化された板とロープの建造技術と整合します。
+- **流れのパターン。** 倒伏した作物は典型的に一貫した方向性のある流れのパターンに横たわっており、複雑な形成物では実質的な層状化が見られます。
+- **立ち作物の残存要素。** 現代の形成物は、芸術的特徴として立ち作物の要素(房、通路、中間の高さの帯)を頻繁に組み込みます。
+- **縁の精度。** 倒伏した作物と立ち作物の境界は典型的に実質的に鋭く、ミステリーサークルを自然の倒伏被害から区別する明瞭な縁を持ちます。
 
-The residual-anomaly research program (BLT, Haselhoff, others) articulates additional reported physical characteristics that the research program argues cannot be explained through purely human construction:
+### 残存異常の主張
 
-- **Node-elongation patterns.** William Levengood (BLT Research Team) articulated that crops in selected formations exhibit substantial node elongation patterns consistent with brief intense heating, principally attributed to microwave radiation. Eltjo Haselhoff's published research (*Physiologia Plantarum*, 2001) extended this engagement.
-- **Magnetite distribution patterns.** Levengood and the BLT team articulated substantial concentrations of small iron spherules (magnetite) in soil samples from selected formations, principally attributed to micrometeoroid impact-melting during formation creation.
-- **Crop alignment with apparent precision.** Selected formations exhibit substantial precision in crop alignment that the research program argues exceeds plausible human-construction capability.
-- **Electromagnetic anomalies.** Reports of substantial electromagnetic effects (compass deviations, instrument malfunctions, biological effects on humans entering formations) have been documented in selected cases.
+残存異常の研究プログラム(BLT、ハーゼルホフ、その他)は、当該研究プログラムが純粋に人間の建造を通じては説明できないと論じる、報告された追加的な物理的特徴を articulate しています。
 
-The substantive methodological status: the residual-anomaly research is published in peer-reviewed literature (Haselhoff's *Physiologia Plantarum* article principally) but remains substantively contested in broader mainstream-scientific framework. The substantive critique includes substantive concerns about sampling methodology, controls, statistical analysis, and the substantial methodological challenge of distinguishing genuine anomalies from selection-bias effects.
+- **節の伸長パターン。** ウィリアム・レーベングッド(BLTリサーチチーム)は、選択された形成物の作物が、主としてマイクロ波放射に帰される短時間の強い加熱と整合する実質的な節の伸長パターンを示すと articulate しました。エルチョ・ハーゼルホフの発表済み研究(*Physiologia Plantarum*、2001年){{ cite(id="haselhoff-physiologia-plantarum-2001", text="[13]", title="ハーゼルホフ『Physiologia Plantarum』(2001年) ― レーベングッドの節曲げ分析の査読付き拡張") }} はこの関与を拡張しました。
+- **磁鉄鉱の分布パターン。** レーベングッドとBLTチームは、選択された形成物の土壌サンプルにおける実質的な小さな鉄の球粒(磁鉄鉱)の集中が、主として形成物作成中の微小隕石衝突による溶融に帰されると articulate しました。
+- **見かけの精度を伴う作物の整列。** 選択された形成物は、研究プログラムが妥当な人間建造能力を超えると論じる、作物の整列における実質的な精度を示します。
+- **電磁的異常。** 選択された事例において、実質的な電磁効果(磁石コンパスの偏差、計器の誤作動、形成物に入った人間への生物学的影響)の報告が文書化されています。
 
-The corpus position on the residual-anomaly research: the work is substantive scholarly engagement worth descriptive treatment; the substantial questions about methodology and statistical controls warrant honest acknowledgment; the work has not substantively established the strong "crop circles cannot be explained through human construction" position the residual-anomaly research program advances.
+実質的な方法論的地位は次のとおりです。すなわち、残存異常研究は査読付き文献(主としてハーゼルホフの *Physiologia Plantarum* の論文)に発表されているものの、より広範な主流科学の枠組みの内では実質的に争点化されたままです。{{ cite(id="nickell-levengood-skeptical-inquirer-1996", text="[14]", title="ニッケル「Levengood's Crop-Circle Plant Research」(*Skeptical Inquirer* 1996年)") }} 実質的な批判は、サンプリング方法論、対照、統計分析、ならびに本物の異常と選択バイアス効果との区別という実質的な方法論上の課題についての実質的な懸念を含んでいます。
 
-## Principal documented cases
+残存異常研究に対する文献集の立場は次のとおりです。すなわち、当該研究は記述的扱いに値する実質的な学術的関与であり、方法論と統計的対照についての実質的な問いは率直な認識に値しますが、当該研究は、残存異常研究プログラムが推進する「ミステリーサークルは人間の建造を通じては説明できない」という強い立場を実質的に確立してはいないということです。
 
-The substantial body of documented crop circle cases includes principal cases that have shaped disciplinary engagement.
+## 主要な文書化された事例
 
-### The Mowing Devil (1678)
+文書化されたミステリーサークル事例の実質的な集合体には、本分野の関与を形成してきた主要な事例が含まれます。
 
-Treated above in *Pre-1970s background*. The 1678 Hertfordshire pamphlet operating within 17th-century supernatural-prodigy pamphlet tradition; contested as crop-circle precedent.
+### モウイング・デビル(1678年)
 
-### The Tully Saucer Nests (1966)
+*1970年代以前の背景* において上で扱いました。17世紀の超自然的奇瑞パンフレット伝統の内で運用される1678年のハートフォードシャーのパンフレット。ミステリーサークルの先行事例としては争点化されています。
 
-Treated above in *Pre-1970s background*. The January 19, 1966 Australian case involving farmer George Pedley's UFO sighting with associated reed-flattening at Horseshoe Lagoon near Tully, Queensland.
+### タリー・ソーサー・ネスト(1966年)
 
-### The Warminster phenomenon (1960s-1970s)
+*1970年代以前の背景* において上で扱いました。1966年1月19日のオーストラリアの事例で、農夫ジョージ・ペドリーのUFO目撃と、クイーンズランド州タリー近郊のホースシュー・ラグーンでの関連する葦の倒伏を伴います。
 
-The town of Warminster in Wiltshire became a substantial focus of UFO sightings and unexplained-phenomena reports across the 1960s and 1970s, principally associated with Arthur Shuttlewood's investigation work. Reports included unexplained acoustic phenomena ("the Warminster Thing"), aerial-luminous phenomena, and reported ground-level effects including localized crop flattening. The substantial Warminster phenomenon predates the modern crop-circle phenomenon but operates substantively as immediate cultural precursor in southern England.
+### ウォーミンスター現象(1960-1970年代)
 
-### The 1978 Hampshire formations
+ウィルトシャーのウォーミンスター(Warminster)の町は、1960年代と1970年代を通じてUFO目撃と未解明現象の報告の実質的な焦点となり、主としてアーサー・シャトルウッド(Arthur Shuttlewood)の調査作業に関連していました。報告には、説明のつかない音響現象(「ウォーミンスターのシング」)、空中の発光現象、ならびに局所的作物倒伏を含む報告された地上効果が含まれていました。実質的なウォーミンスター現象は現代のミステリーサークル現象に先行していますが、イングランド南部における直接的な文化的先駆者として実質的に運用されます。
 
-The principal early Bower-Chorley formations beginning in 1976-1978 in Hampshire and Wiltshire. Bower and Chorley's 1991 confession articulated 1976 as their original year of activity; substantial subsequent investigation has placed the principal early documented formations at approximately 1978.
+### 1978年のハンプシャー形成物
 
-### The Barbury Castle formation (1991)
+1976-1978年にハンプシャーとウィルトシャーで始まった主要な初期のバウアー=チョーリー形成物。バウアーとチョーリーの1991年の告白は、活動の元々の年として1976年を articulate しました。その後の実質的な調査は、主要な初期の文書化された形成物をおよそ1978年に位置づけています。
 
-A substantial pictogram formation appearing near Barbury Castle in Wiltshire on July 17, 1991. The formation incorporated substantive geometric content (a central triangle with circles at each vertex and additional surrounding elements) interpreted by some commentators as substantive mathematical encoding. The Barbury Castle formation operated as substantially complex early-phase formation predating the Bower-Chorley confession by approximately two months.
+### バーバリー・キャッスル形成物(1991年)
 
-### The Julia Set formation (1996)
+1991年7月17日にウィルトシャーのバーバリー・キャッスル(Barbury Castle)近くに現れた実質的な絵文字形成物。この形成物は、いくつかの解説者によって実質的な数学的符号化として解釈された実質的な幾何学的内容(各頂点に円を持つ中央の三角形と、追加の周囲要素)を組み込んでいました。バーバリー・キャッスル形成物は、バウアー=チョーリー告白に約二か月先行する、実質的に複雑な初期段階の形成物として運用されました。
 
-A substantial fractal formation appearing on July 7, 1996 in a wheat field opposite Stonehenge in Wiltshire. The formation incorporated 151 circles in a substantial Julia-set spiral configuration covering approximately 280 by 140 meters. The substantial reported timing controversy: the formation was reportedly absent during morning flyover of the field and present in the afternoon, with claimed appearance within approximately 45 minutes around midday. The substantive timing claim has been substantively contested in subsequent investigation. The Circlemakers group has not claimed responsibility for the Julia Set formation; the case remains within substantively contested case material.
+### ジュリア集合形成物(1996年)
 
-### The Milk Hill formation (August 2001)
+1996年7月7日にウィルトシャーのストーンヘンジ反対側の小麦畑に現れた実質的なフラクタル形成物。この形成物は約280メートル×140メートルにわたる実質的なジュリア集合の螺旋構成において151個の円を組み込んでいました。実質的な報告されたタイミングの論争は次のとおりです。すなわち、この形成物は朝の畑の上空飛行時には不在であったと報告され、午後には存在しており、正午頃の約45分以内に出現したと主張されています。実質的なタイミングの主張は、その後の調査において実質的に争点化されてきました。サークルメイカーズ・グループはジュリア集合形成物に対する責任を主張しておらず、この事例は実質的に争点化された事例素材の内に留まっています。{{ cite(id="pringle-crop-circles", text="[15]", title="プリングル『Crop Circles: The Greatest Mystery of Modern Times』(1999年)") }}
 
-The largest documented crop circle, appearing on August 12, 2001 at Milk Hill near Alton Barnes in Wiltshire. The formation incorporated 409 circles in a substantial six-arm spiral configuration covering approximately 240 meters across. The Milk Hill formation operates as one of the substantially most complex formations documented and substantively demonstrates the substantial capability of organized circle-making activity.
+### ミルク・ヒル形成物(2001年8月)
 
-### The Chilbolton "Arecibo response" (August 2001)
+文書化された最大のミステリーサークル。2001年8月12日にウィルトシャーのオールトン・バーンズ近郊のミルク・ヒルに現れました。この形成物は、約240メートルにわたる実質的な六本腕の螺旋構成において409個の円を組み込んでいました。ミルク・ヒル形成物は、実質的に最も複雑な形成物の一つとして文書化されたものとして運用され、組織化された円形制作活動の実質的な能力を実質的に実証しています。
 
-A substantial formation appearing on August 19-20, 2001 in a field adjacent to the Chilbolton radio telescope in Hampshire. The formation incorporated a substantial bitmap-encoded pattern substantively similar to the Arecibo message that Frank Drake had transmitted from the Arecibo radio telescope on November 16, 1974 toward globular cluster M13.
+### チルボルトン「アレシボへの応答」(2001年8月)
 
-The substantive Chilbolton response formation contained variant content from the original Arecibo transmission:
+2001年8月19-20日にハンプシャーのチルボルトン電波望遠鏡に隣接する畑に現れた実質的な形成物。この形成物は、フランク・ドレイク(Frank Drake)が1974年11月16日にアレシボ電波望遠鏡から球状星団M13に向けて送信したアレシボメッセージに実質的に類似した、実質的なビットマップ符号化模様を組み込んでいました。
 
-- The numerical sequence 1-10 preserved
-- The DNA-component elements expanded to include silicon (suggesting silicon-based life)
-- The DNA double-helix figure modified to show alternative structure
-- The figure of "life from the sender" modified to a substantially smaller-statured large-headed humanoid (rather than the human figure in the original)
-- The population figure substantially larger than terrestrial population
-- The solar-system diagram modified to indicate that the third, fourth, and fifth planets from the local star supported life
-- The radio-telescope figure replaced with a different structure (interpreted by some as alternative communication technology)
+実質的なチルボルトンの応答形成物は、元のアレシボ送信から異なる内容を含んでいました。
 
-The substantive methodological status: the Chilbolton case has not been claimed by any organized circle-making group. The substantive interpretive engagement has been principally within alternative ufology — Linda Moulton Howe and substantial others have engaged the case as substantively non-human-made communication content. Mainstream-scientific engagement has principally treated the case as substantively complex human-made formation, with substantive parallels to documented organized circle-making capability.
+- 1から10までの数列は保持
+- DNA構成要素の要素は、シリコン(シリコンベースの生命を示唆)を含むよう拡張
+- DNAの二重螺旋の図は、別の構造を示すよう改変
+- 「送信者からの生命」の図は、(元の人間の図ではなく)実質的に背の低い、大きな頭の人型生物に改変
+- 人口の図は地球の人口より実質的に大きい
+- 太陽系図は、地元の恒星から数えて第三、第四、第五惑星が生命を支持していたことを示すように改変
+- 電波望遠鏡の図は別の構造に置き換え(一部の解説者は別の通信技術として解釈)
 
-The corpus position: the Chilbolton case is substantively interesting case material that has not been substantively verified as non-human-made through methodology that mainstream science accepts. The substantive interpretive content (silicon-based life; multiple habitable planets in solar system; alternative humanoid form) operates within alternative-ufological framework rather than as substantively established communication content.
+実質的な方法論的地位は次のとおりです。すなわち、チルボルトン事例はいかなる組織化された円形制作グループによっても主張されていません。実質的な解釈的関与は主として代替UFO学の内にあります ― リンダ・モールトン・ハウ(Linda Moulton Howe)とその他多数が、この事例を実質的に非・人間の手による通信内容として扱ってきました。主流科学の関与は、主として当該事例を実質的に複雑な人間の手による形成物として扱っており、文書化された組織化された円形制作能力との実質的な並行性を持つものとしています。
 
-### The Chilbolton "Disc" formation (August 2001)
+文献集の立場は次のとおりです。すなわち、チルボルトン事例は、主流科学が受け入れる方法論を通じて非・人間の手によるものとして実質的に検証されてこなかった、実質的に興味深い事例素材です。実質的な解釈的内容(シリコンベースの生命、太陽系における複数の居住可能惑星、別の人型生物の形態)は、実質的に確立された通信内容としてではなく代替UFO学の枠組みの内で運用されています。
 
-A substantial formation appearing adjacent to the Chilbolton Arecibo response, on August 13-14, 2001. The formation depicted a substantial disc-shaped figure interpreted by some as the alleged communication technology of the entity sending the Arecibo response. The case has not been claimed by organized circle-making groups; substantive interpretive engagement has been principally within alternative ufology.
+### チルボルトン「ディスク」形成物(2001年8月)
 
-### The Crabwood "Alien Face" formation (August 2002)
+チルボルトンのアレシボ応答に隣接して、2001年8月13-14日に現れた実質的な形成物。この形成物は、アレシボ応答を送る存在の通信技術とされるものとして一部の人によって解釈された実質的なディスク状の図形を描いていました。事例は組織化された円形制作グループによっては主張されておらず、実質的な解釈的関与は主として代替UFO学の内にあります。
 
-A substantial pictographic formation appearing on August 15, 2002 at Crabwood Farm in Hampshire. The formation depicted:
+### クラブウッド「異星人の顔」形成物(2002年8月)
 
-- A large humanoid face (interpreted as alien) with substantial portrait detail
-- A disk-shaped object containing substantive bitmap-encoded message
+2002年8月15日にハンプシャーのクラブウッド・ファーム(Crabwood Farm)に現れた実質的な絵画的形成物。この形成物は次のものを描いていました。
 
-The bitmap message was decoded by various commentators (the principal published decoding by Paul Vigay) as encoding the ASCII-text message:
+- 実質的な肖像細部を持つ大きな人型の顔(異星人として解釈)
+- 実質的なビットマップ符号化メッセージを含む円盤状の物体
+
+ビットマップ・メッセージは、様々な解説者(主要な発表済み解読はポール・ヴィゲイ(Paul Vigay)による)によって、次のASCIIテキスト・メッセージを符号化していると解読されました。
 
 > *"Beware the bearers of FALSE gifts & their BROKEN PROMISES. Much PAIN but still time. (DAMAGED WORD). There is GOOD out there. We Oppose DECEPTION. Conduit CLOSING."*
 
-The decoded message operates substantively as warning-content with substantive interpretive framing. The substantive case-status: the Crabwood case has not been claimed by organized circle-making groups; substantive interpretive engagement has been principally within alternative ufology and the broader contactee-and-channeling tradition.
+解読されたメッセージは、実質的な解釈的枠組みを伴う警告内容として実質的に運用されます。実質的な事例の地位は次のとおりです。すなわち、クラブウッド事例は組織化された円形制作グループによっては主張されておらず、実質的な解釈的関与は主として代替UFO学とより広範なコンタクティーおよびチャネリングの伝統の内にあります。
 
-The corpus position: the Crabwood case is substantively interesting case material that has not been substantively verified as non-human-made. The substantive message content operates within the broader contactee-channeling tradition that the corpus engages descriptively without substantive adoption.
+文献集の立場は次のとおりです。すなわち、クラブウッド事例は実質的に非・人間の手によるものとして実質的に検証されてこなかった、実質的に興味深い事例素材です。実質的なメッセージ内容は、文献集が実質的な採用なしに記述的に扱うより広範なコンタクティー・チャネリングの伝統の内で運用されます。
 
-### The Avebury Manor formation (2008)
+### エイヴベリー・マナー形成物(2008年)
 
-A substantial formation appearing in July 2008 near Avebury Manor in Wiltshire, depicting a substantive solar-system diagram. The formation has been interpreted by some commentators as encoding the planetary positions of December 21, 2012 (the date conventionally associated with the substantial Maya Long Count cycle completion and substantial popular doomsday interpretations).
+2008年7月にウィルトシャーのエイヴベリー・マナー(Avebury Manor)近くに現れた、実質的な太陽系図を描く実質的な形成物。この形成物は、一部の解説者によって、2012年12月21日(マヤ長期暦周期完了および実質的な大衆的終末解釈と慣例的に関連付けられた日付)の惑星位置を符号化しているものとして解釈されてきました。
 
-### Subsequent contemporary formations (2010-present)
+### その後の現代形成物(2010年-現在)
 
-Substantial contemporary formations have continued across the post-2010 period in Wiltshire and substantial international contexts. Principal contemporary cases include:
+実質的な現代形成物は、2010年以降の時期にわたって、ウィルトシャーと実質的な国際的脈絡において継続的に現れてきました。主要な現代事例は次のものを含みます。
 
-- The West Kennett Long Barrow formation (2010)
-- Substantial subsequent Wiltshire formations across 2011-2024
-- Substantial international formations across multiple countries
+- ウェスト・ケネット・ロング・バロウ形成物(2010年)
+- 2011-2024年にわたるその後の実質的なウィルトシャー形成物
+- 複数の国にわたる実質的な国際的形成物
 
-The substantial contemporary phenomenon operates substantively as ongoing cultural-artistic practice with substantial subsequent organizational engagement by Circlemakers, international affiliates, and the broader contemporary circle-making community.
+実質的な現代の現象は、サークルメイカーズ、国際的提携者、ならびにより広範な現代の円形制作コミュニティによるその後の実質的な組織的関与を伴う、継続的な文化的・芸術的実践として実質的に運用されています。
 
-## Modern reinterpretations
+## 現代の再解釈
 
-The discipline of crop circles has produced multiple theoretical frameworks across the post-1970s period.
+ミステリーサークル分野は、1970年代以降の時期を通じて複数の理論的枠組みを生み出してきました。
 
-### The plasma vortex hypothesis (Meaden)
+### プラズマ渦仮説(ミーデン)
 
-**Terence Meaden** (b. 1935), the British physicist and meteorologist, articulated the substantive **plasma vortex hypothesis** principally across the 1980s. The substantive content:
+**テレンス・ミーデン**(Terence Meaden、1935年生)は、英国の物理学者・気象学者であり、主として1980年代を通じて実質的な **プラズマ渦仮説** を articulate しました。実質的な内容は次のとおりです。
 
-- **Atmospheric vortices** — rotating columns of ionized plasma operating substantially analogously to dust devils but producing ionization effects
-- **Geographic correlation** — concentration in landscapes producing characteristic atmospheric vortex conditions (substantial association with hilly terrain creating air-current rotational patterns)
-- **Formation morphology** — simple circular formations as principal output of the proposed mechanism
+- **大気の渦** ― イオン化したプラズマの回転する柱で、塵旋風(dust devils)と実質的に類似した仕方で運用されるが、イオン化効果を生み出す
+- **地理的相関** ― 特徴的な大気の渦条件を生み出す景観(空気の流れの回転パターンを生み出す丘陵地形との実質的な関連)における集中
+- **形成物の形態** ― 提案された機構の主要な出力としての単純な円形形成物
 
-Meaden articulated the hypothesis principally in *The Circles Effect and Its Mysteries* (1989) and substantial subsequent publications. The hypothesis attracted substantial early-1990s scientific engagement and was published in peer-reviewed meteorological literature.
+ミーデンは主として『The Circles Effect and Its Mysteries』(1989年)とその後の実質的な出版物において当該仮説を articulate しました。当該仮説は1990年代初頭に実質的な科学的関与を集め、査読付き気象学文献に発表されました。
 
-The substantive status: the plasma vortex hypothesis was substantively abandoned across the 1990s as:
+実質的な地位は次のとおりです。すなわち、プラズマ渦仮説は1990年代を通じて次の理由で実質的に放棄されました。
 
-- **Formation complexity exceeded plausible vortex output.** Substantial geometric formations with sharp edges, intricate patterns, and substantial pictographic content cannot plausibly be produced by atmospheric vortices.
-- **The Bower-Chorley confession established human authorship.** The substantive demonstrated human-construction methodology accounted for the principal early formations Meaden had attributed to plasma vortices.
-- **Documentary evidence of construction accumulated.** Circlemakers, Team Satan, and broader organized circle-making documentation substantively established human-construction as the principal mechanism for contemporary formations.
+- **形成物の複雑さが妥当な渦の出力を超えた。** 鋭利な縁、入り組んだ模様、実質的な絵画的内容を持つ実質的な幾何学的形成物は、大気の渦によって妥当な仕方では生み出せません。
+- **バウアー=チョーリー告白が人間の作者性を確立した。** 実質的に実証された人間建造の方法論は、ミーデンがプラズマ渦に帰していた主要な初期形成物を説明しました。
+- **建造の文書的証拠が累積した。** サークルメイカーズ、チーム・サタン、ならびにより広範な組織化された円形制作の文書化は、現代の形成物の主要な機構としての人間建造を実質的に確立しました。
 
-Meaden has substantially modified his position across subsequent decades, principally acknowledging that the substantial majority of contemporary formations are human-made while maintaining substantive engagement with selected early-phase cases.
+ミーデンはその後の数十年にわたって自身の立場を実質的に修正しており、主として現代の形成物の実質的多数は人間の手によるものであることを認めつつ、選択された初期段階の事例への実質的な関与を維持しています。
 
-### The Bower-Chorley confession and the human-authorship framework
+### バウアー=チョーリー告白と人間作者性の枠組み
 
-The 1991 Bower-Chorley confession (treated above) operates substantively as the principal foundation for the contemporary mainstream-scientific framework. The substantive content:
+1991年のバウアー=チョーリー告白(上で扱った)は、現代の主流科学の枠組みに対する主要な基盤として実質的に運用されます。実質的な内容は次のとおりです。
 
-- **The substantive demonstration of construction methodology.** Bower and Chorley's plank-and-rope technique with sighting-cap alignment substantively demonstrates that complex crop circles can be produced by small teams within feasible time-windows.
-- **The substantive subsequent organized circle-making.** Circlemakers, Team Satan, and broader organized groups have produced substantial subsequent documentation extending the Bower-Chorley framework.
-- **The substantial geographic-cultural correlation.** The substantial Wiltshire concentration corresponds to substantial cultural-geographic concentration of organized circle-making activity in southern England.
+- **建造方法の実質的な実証。** バウアーとチョーリーの板とロープの技術、視準帽による整列は、複雑なミステリーサークルが実行可能な時間内に小さなチームによって生み出せることを実質的に実証しています。
+- **その後の実質的な組織化された円形制作。** サークルメイカーズ、チーム・サタン、ならびにより広範な組織化されたグループは、バウアー=チョーリーの枠組みを拡張するその後の実質的な文書化を生み出してきました。
+- **実質的な地理的・文化的相関。** ウィルトシャーの実質的な集中は、イングランド南部における組織化された円形制作活動の実質的な文化的・地理的集中に対応します。
 
-The substantive mainstream-scientific consensus: contemporary crop circles are principally human-made through documented construction methodology. The substantive residual questions (the alleged anomalies the BLT and Haselhoff research engages) operate substantively at the methodological margin rather than as substantive refutation of the principal framework.
+実質的な主流科学の合意は次のとおりです。すなわち、現代のミステリーサークルは主として文書化された建造方法を通じて人間の手によるものです。実質的な残存する問い(BLTとハーゼルホフの研究が関与する主張される異常)は、主要な枠組みの実質的な反駁としてではなく、実質的に方法論的な周縁において運用されます。
 
-### The Circlemakers and organized circle-making community
+### サークルメイカーズと組織化された円形制作コミュニティ
 
-The principal documented contemporary circle-making organization is **Circlemakers**, founded by John Lundberg with collaborators Rod Dickinson, Wil Russell, and Rob Irving. The group emerged from the broader **Team Satan** collective operating from approximately 1992 onward.
+現代の主要な文書化された円形制作組織は **サークルメイカーズ**(Circlemakers)であり、ジョン・ランドベリがロッド・ディキンソン、ウィル・ラッセル、ロブ・アーヴィングと共に設立しました。このグループは、およそ1992年以降に運用されたより広範な **チーム・サタン**(Team Satan)集団から出現しました。
 
-The Circlemakers group has produced substantial documentation of contemporary circle-making practice:
+サークルメイカーズ・グループは、現代の円形制作実践についての実質的な文書化を生み出してきました。
 
-- **Construction methodology.** The substantial Bower-Chorley plank-and-rope technique has been extended through substantial subsequent methodological development including substantial GPS-enabled alignment, substantial laser-survey techniques, and substantial subsequent technical refinement.
-- **Artistic-philosophical framework.** Rob Irving and John Lundberg's *The Field Guide: The Art, History and Philosophy of Crop Circle Making* (Strange Attractor Press, 2006) articulates the substantive artistic-philosophical engagement with the practice, locating crop circle making within substantive contemporary art tradition.
-- **Commercial work.** The substantial commercial circle-making work for advertising clients (Microsoft, Mitsubishi, Pepsi, Nike, Greenpeace, BBC, others), film production (the 2002 M. Night Shyamalan film *Signs*), music video production, and broader entertainment-industry applications.
-- **Public demonstration.** The substantial public demonstration of construction methodology in documentaries, journalism, and subsequent public engagement.
+- **建造方法。** 実質的なバウアー=チョーリーの板とロープの技術は、実質的なGPS対応整列、実質的なレーザー測量技術、その後の実質的な技術的洗練を含む、その後の実質的な方法論的発展を通じて拡張されてきました。
+- **芸術的・哲学的枠組み。** ロブ・アーヴィングとジョン・ランドベリの『The Field Guide: The Art, History and Philosophy of Crop Circle Making』(Strange Attractor Press、2006年)は、ミステリーサークル制作を実質的な現代美術の伝統の内に位置づけ、当該実践への実質的な芸術的・哲学的関与を articulate しています。
+- **商業作品。** 広告クライアント(マイクロソフト、三菱、ペプシ、ナイキ、グリーンピース、BBC、その他)、映画製作(2002年のM・ナイト・シャマラン監督の映画『サイン』)、ミュージックビデオ制作、ならびにより広範な娯楽産業の応用のための実質的な商業的円形制作作品。
+- **公の実証。** ドキュメンタリー、ジャーナリズム、その後の公の関与における建造方法の実質的な公の実証。
 
-The Circlemakers group operates substantively as the principal documented contemporary circle-making organization. The substantial international circle-making community has subsequently emerged across multiple national contexts (substantial American, Canadian, Dutch, German, Japanese, and broader international circle-making activity).
+サークルメイカーズ・グループは、現代の主要な文書化された円形制作組織として実質的に運用されています。実質的な国際的円形制作コミュニティはその後、複数の国家的脈絡(実質的な米国、カナダ、オランダ、ドイツ、日本、ならびにより広範な国際的円形制作活動)にわたって出現してきました。
 
-### The BLT Research Team and residual-anomaly research
+### BLTリサーチチームと残存異常研究
 
-The **BLT Research Team** (founded 1989 by John Burke, William Levengood, and Nancy Talbott; subsequently directed principally by Talbott) has conducted substantial research on selected crop circle formations investigating the substantial alleged physical anomalies. The substantive research:
+**BLTリサーチチーム**(1989年にジョン・バーク、ウィリアム・レーベングッド、ナンシー・タルボットによって設立、その後主としてタルボットが主導)は、主張される実質的な物理的異常を調査する、選択されたミステリーサークル形成物に関する実質的な研究を行ってきました。実質的な研究は次のとおりです。
 
-- **Node-elongation studies.** William Levengood's substantive research on crop node-bending patterns, principally articulated in *Physiologia Plantarum* (Levengood, 1994). The substantive claim: selected formations exhibit substantial node elongation consistent with brief intense heating, attributed to microwave radiation.
-- **Magnetite-distribution studies.** Substantial soil-sample analysis arguing for substantial concentrations of iron spherules in selected formations.
-- **Substantial subsequent research.** Across approximately three decades, the BLT team has produced substantial subsequent literature engaging the residual-anomaly framework.
+- **節伸長研究。** ウィリアム・レーベングッドによる作物の節曲げパターンに関する実質的な研究で、主として *Physiologia Plantarum*(Levengood, 1994)に articulate されました。実質的な主張は次のとおりです。すなわち、選択された形成物は、マイクロ波放射に帰される短時間の強い加熱と整合する実質的な節の伸長を示します。
+- **磁鉄鉱分布研究。** 選択された形成物における鉄の球粒の実質的な集中を論じる実質的な土壌サンプル分析。
+- **その後の実質的な研究。** 約三十年にわたって、BLTチームは残存異常枠組みに関与するその後の実質的な文献を生み出してきました。
 
-The substantive methodological status:
+実質的な方法論的地位は次のとおりです。
 
-- **The Levengood 1994 paper was published in peer-reviewed *Physiologia Plantarum*.** This is substantive scholarly publication operating within mainstream-scientific framework.
-- **Subsequent peer-reviewed engagement has been limited.** The substantial BLT subsequent literature operates principally in non-peer-reviewed outlets including the substantial BLT Research website and substantial subsequent publications.
-- **The substantial methodological critique includes substantial concerns.** Selection bias in case choice; methodology of soil sampling; statistical analysis controls; the substantial distinction between authentic anomalies and broader sampling effects.
+- **レーベングッドの1994年の論文は査読付きの *Physiologia Plantarum* に発表された。** これは主流科学の枠組みの内で運用される実質的な学術的出版物です。
+- **その後の査読付き関与は限定的であった。** 実質的なBLTのその後の文献は、実質的なBLTリサーチのウェブサイトとその後の実質的な出版物を含む、主として査読外の媒体において運用されます。
+- **実質的な方法論的批判は実質的な懸念を含む。** 事例選択における選択バイアス、土壌サンプリングの方法論、統計分析の対照、ならびに本物の異常とより広範なサンプリング効果との実質的な区別。
 
-The Eltjo Haselhoff engagement provides substantial parallel research. Haselhoff's *The Deepening Complexity of Crop Circles* (Frog, 2001) and substantial subsequent peer-reviewed publications (*Physiologia Plantarum*, 2001) engage node-bending patterns through additional methodology.
+エルチョ・ハーゼルホフの関与は、実質的な並行研究を提供します。ハーゼルホフの『The Deepening Complexity of Crop Circles』(Frog、2001年)とその後の実質的な査読付き出版物(*Physiologia Plantarum*、2001年)は、追加的な方法論を通じて節曲げパターンに関与しています。
 
-The corpus position on the residual-anomaly research: the work is substantive scholarly engagement worth descriptive treatment; the substantial peer-reviewed publication (Levengood 1994; Haselhoff 2001) operates within mainstream-scientific framework; the substantial subsequent literature operates principally outside peer review; the substantial methodological concerns warrant honest acknowledgment; the work has not substantively established the strong "crop circles cannot be explained through human construction" position the residual-anomaly research program advances.
+残存異常研究に対する文献集の立場は次のとおりです。すなわち、当該研究は記述的扱いに値する実質的な学術的関与であり、実質的な査読付き出版物(Levengood 1994、Haselhoff 2001)は主流科学の枠組みの内で運用されており、その後の実質的な文献は主として査読外で運用されており、実質的な方法論的懸念は率直な認識に値しますが、当該研究は、残存異常研究プログラムが推進する「ミステリーサークルは人間の建造を通じては説明できない」という強い立場を実質的に確立してはいないということです。
 
-### Alternative-ufological frameworks
+### 代替UFO学的枠組み
 
-Substantial alternative-ufological frameworks engage selected formations as substantively non-human-made communication content. The principal frameworks:
+実質的な代替UFO学的枠組みは、選択された形成物を実質的に非・人間の手による通信内容として扱います。主要な枠組みは次のとおりです。
 
-- **The extraterrestrial-communication framework.** Selected formations (Chilbolton 2001; Crabwood 2002; substantial subsequent cases) interpreted as substantive communications from extraterrestrial entities. Linda Moulton Howe, Colin Andrews (in subsequent work), and substantial alternative-ufology researchers engage this framework.
-- **The interdimensional-communication framework.** Substantial alternative ufology engages crop circles as substantive communications from interdimensional or substantively non-physical entities, operating within the broader Vallée framework treated in the [Ufology](../ufology/) entry.
-- **The Earth-energy framework.** Substantial alternative engagement treats crop circles as substantive manifestations of Earth energies, ley-line phenomena, or substantively analogous geophysical-spiritual content. The substantial John Michell tradition and broader sacred-geography engagement operate within this framework.
-- **The channeling and contactee framework.** Substantial alternative engagement integrates crop circles with broader channeling and contactee material, operating within the broader alternative-spiritual tradition.
+- **異星間通信の枠組み。** 選択された形成物(2001年のチルボルトン、2002年のクラブウッド、その後の実質的な事例)は、地球外存在からの実質的な通信として解釈されます。リンダ・モールトン・ハウ、コリン・アンドリュース(その後の研究において)、ならびに実質的な代替UFO学の研究者たちはこの枠組みに関与します。
+- **次元間通信の枠組み。** 実質的な代替UFO学は、ミステリーサークルを次元間の、または実質的に非・物理的な存在からの実質的な通信として扱い、{% wiki(slug="ufology") %}UFO学{% end %}の項目で扱われるより広範なヴァレ(Vallée)の枠組みの内で運用されます。
+- **地球エネルギーの枠組み。** 実質的な代替的関与は、ミステリーサークルを、地球エネルギー、レイライン現象、ならびに実質的に類似した地球物理学的・霊的内容の実質的な顕現として扱います。実質的なジョン・ミッチェル(John Michell)の伝統とより広範な聖なる地理学の関与は、この枠組みの内で運用されます。
+- **チャネリングとコンタクティーの枠組み。** 実質的な代替的関与は、ミステリーサークルをより広範なチャネリングとコンタクティー素材と統合し、より広範な代替霊的伝統の内で運用されます。
 
-The corpus position on the alternative-ufological frameworks: these frameworks operate within alternative-ufological tradition without substantively verified empirical foundation in mainstream-scientific terms; the corpus engages this work descriptively without substantive adoption.
+代替UFO学的枠組みに対する文献集の立場は次のとおりです。すなわち、これらの枠組みは、主流科学的観点での実質的に検証された経験的基礎なしに代替UFO学の伝統の内で運用されており、文献集は当該研究を実質的な採用なしに記述的に扱います。
 
-### The contemporary state of the discipline
+### 本分野の現代の状況
 
-The substantive contemporary state operates across multiple frameworks:
+実質的な現代の状況は、複数の枠組みにわたって運用されます。
 
-- **The mainstream-scientific consensus.** Crop circles are principally human-made through documented construction methodology; selected formations exhibit substantial alleged anomalies that remain methodologically contested at the margin.
-- **The artistic-cultural framework.** Crop circles operate substantively as contemporary artistic practice within the broader land-art and environmental-art tradition; the Circlemakers and broader organized circle-making community operates substantively within this framework.
-- **The substantial residual-anomaly research program.** Continuing investigation of selected formations through the residual-anomaly framework.
-- **The substantial alternative-ufological engagement.** Continuing engagement with selected formations as substantively non-human-made communication content.
+- **主流科学の合意。** ミステリーサークルは主として文書化された建造方法を通じて人間の手によるものであり、選択された形成物は周縁において方法論的に争点化されたままの実質的に主張される異常を示します。
+- **芸術的・文化的枠組み。** ミステリーサークルは、より広範なランドアートと環境芸術の伝統の内で現代的な芸術的実践として実質的に運用されます。サークルメイカーズとより広範な組織化された円形制作コミュニティはこの枠組みの内で実質的に運用されます。
+- **実質的な残存異常の研究プログラム。** 残存異常の枠組みを通じての選択された形成物の継続的な調査。
+- **実質的な代替UFO学的関与。** 選択された形成物を実質的に非・人間の手による通信内容として扱う継続的な関与。
 
-The substantive disciplinary situation: crop circles operate substantively as methodologically complex cultural-artistic-research phenomenon rather than as substantively unexplained category. The substantial majority of contemporary formations are documented human-made; selected formations remain substantively contested in alternative-ufological framework; the substantive ongoing research engagement continues across multiple methodological traditions.
+実質的な本分野の状況は次のとおりです。すなわち、ミステリーサークルは実質的に未解明のカテゴリーとしてではなく、方法論的に複雑な文化的・芸術的・研究的現象として実質的に運用されています。現代の形成物の実質的多数は人間の手によるものとして文書化されており、選択された形成物は代替UFO学の枠組みの内で実質的に争点化されたままであり、実質的な進行中の研究関与は複数の方法論的伝統にわたって継続しています。
 
-## Comparative observations
+## 比較的観察
 
-The substantial cross-cultural and historical engagement with crop circle phenomena warrants substantive articulation.
+ミステリーサークル現象への実質的な異文化的・歴史的関与は、実質的な articulation に値します。
 
-### The substantial Wiltshire concentration
+### 実質的なウィルトシャー集中
 
-The substantial geographic concentration of crop circles in Wiltshire, England operates as substantive observation requiring engagement. The substantive content:
+イングランドのウィルトシャーにおけるミステリーサークルの実質的な地理的集中は、関与を要求する実質的な観察として運用されます。実質的な内容は次のとおりです。
 
-- **The principal Wiltshire region.** The substantial concentration operates principally in the Avebury-Stonehenge-Silbury Hill-Alton Barnes region, with substantial subsequent concentration extending to Hampshire and Oxfordshire.
-- **The substantial sacred-geographic correlation.** The Wiltshire region contains substantial concentration of prehistoric sacred sites — Stonehenge (c. 3000-2000 BCE); Avebury Henge (c. 2850-2200 BCE); Silbury Hill (c. 2400 BCE); the substantial West Kennet Long Barrow (c. 3650 BCE); the substantial subsequent prehistoric monumental landscape.
-- **The substantial alternative-cultural correlation.** The Wiltshire region operates as substantial concentration of alternative-spiritual, New Age, and broader counter-cultural communities across the post-1960s period.
-- **The substantial organized circle-making concentration.** The substantial Circlemakers and broader organized circle-making activity concentrates principally in the Wiltshire region, with substantial subsequent geographic correlation between organized circle-making activity and reported formation locations.
+- **主要なウィルトシャー地域。** 実質的な集中は主としてエイヴベリー・ストーンヘンジ・シルベリー・ヒル・オールトン・バーンズ地域において運用され、その後の実質的な集中はハンプシャーとオックスフォードシャーにまで及びます。
+- **実質的な聖なる地理的相関。** ウィルトシャー地域は、先史時代の聖地 ― ストーンヘンジ(紀元前約3000-2000年)、エイヴベリー・ヘンジ(紀元前約2850-2200年){{ cite(id="prehistoric-avebury", text="[16]", title="バール『Prehistoric Avebury』(1979年、改訂2002年) ― エイヴベリー・ヘンジ複合体の基礎的扱い") }}、シルベリー・ヒル(紀元前約2400年)、実質的なウェスト・ケネット・ロング・バロウ(West Kennet Long Barrow、紀元前約3650年)、ならびにその後の実質的な先史時代記念碑的景観 ― の実質的な集中を含みます。{{ cite(id="avebury-biography-of-a-landscape", text="[17]", title="ポラード&レイノルズ『Avebury: The Biography of a Landscape』(2002年)") }}
+- **実質的な代替的文化的相関。** ウィルトシャー地域は、1960年代以降の時期を通じて、代替霊的、ニューエイジ、ならびにより広範な対抗文化的コミュニティの実質的な集中として運用されます。
+- **実質的な組織化された円形制作の集中。** 実質的なサークルメイカーズとより広範な組織化された円形制作活動は、主としてウィルトシャー地域に集中しており、組織化された円形制作活動と報告された形成物の位置との間にはその後の実質的な地理的相関があります。
 
-The substantive interpretive frameworks for the Wiltshire concentration:
+ウィルトシャー集中に対する実質的な解釈的枠組みは次のとおりです。
 
-- **The mainstream-scientific framework.** The geographic concentration reflects principally the substantial concentration of organized circle-making activity in the region, with substantial subsequent cultural-attention amplification.
-- **The alternative-spiritual framework.** The geographic concentration reflects substantial Earth-energy or ley-line phenomena operating within the substantial prehistoric sacred landscape.
-- **The mixed framework.** Both factors operate substantively — the substantial organized circle-making concentration is itself substantially shaped by the substantial alternative-spiritual cultural framework operating in the region.
+- **主流科学の枠組み。** 地理的集中は、主として当該地域における組織化された円形制作活動の実質的な集中と、その後の実質的な文化的注目の増幅を反映します。
+- **代替霊的枠組み。** 地理的集中は、実質的な先史時代の聖なる景観の内で運用される実質的な地球エネルギーまたはレイライン現象を反映します。
+- **混合的枠組み。** 両方の要因が実質的に運用されます ― 実質的な組織化された円形制作の集中そのものが、当該地域において運用される実質的な代替霊的文化的枠組みによって実質的に形成されています。
 
-The corpus position: the Wiltshire concentration reflects substantial multiple factors operating together — the substantial organized circle-making activity; the substantial alternative-spiritual cultural framework; the substantial prehistoric monumental landscape providing substantively meaningful cultural context. The substantive question of whether substantive non-human factors operate alongside these reflects the broader residual-anomaly question that remains methodologically contested.
+文献集の立場は次のとおりです。すなわち、ウィルトシャー集中は、実質的な複数の要因が共に運用されることを反映します ― 実質的な組織化された円形制作活動、実質的な代替霊的文化的枠組み、実質的に意味のある文化的脈絡を提供する実質的な先史時代の記念碑的景観。実質的な非・人間的要因がこれらと並行して運用されているかという実質的な問いは、方法論的に争点化されたままのより広範な残存異常の問いを反映します。
 
-### The substantial Mowing Devil methodological articulation
+### 実質的なモウイング・デビルの方法論的 articulation
 
-The 1678 Mowing Devil pamphlet's status as crop-circle precedent warrants substantive methodological articulation:
+1678年のモウイング・デビル・パンフレットのミステリーサークル先行事例としての地位は、実質的な方法論的 articulation に値します。
 
-- **The substantive pamphlet content.** The pamphlet describes a supernatural mowing event in Hertfordshire — a farmer who refused a mower's price reportedly said he would rather have the Devil mow his field; the field was subsequently found mowed overnight. The pamphlet's woodcut illustration depicts a devil mowing in a circular pattern.
-- **The substantive pamphlet-literature context.** The 1678 pamphlet operates within substantial 17th-century English broadsheet tradition that produced extensive supernatural-prodigy literature. The substantial pamphlet output of the period engaged divine signs, miraculous events, monstrous births, and broader supernatural content within substantively moralizing-allegorical framework.
-- **The substantive methodological distinction.** The Mowing Devil event involves cutting standing crops cleanly — substantively different from the flattening that characterizes modern crop circles. The substantive distinction is methodologically substantial.
-- **The substantive scholarly engagement.** Folklore scholarship (Bob Trubshaw, Jeremy Harte, substantial others) has engaged the Mowing Devil within 17th-century pamphlet conventions; crop circle research has principally engaged it as evidence of pre-modern crop circles.
+- **実質的なパンフレット内容。** 同パンフレットはハートフォードシャーでの超自然的草刈り事象を記述しています ― ある農夫が草刈り人の代金を拒絶し、悪魔に畑を刈らせる方がましだと言ったと報じられ、その畑が一夜のうちに刈られた状態で発見されたという出来事。同パンフレットの木版挿絵は、悪魔が円形の模様で草刈りをする様子を描いています。
+- **実質的なパンフレット文学の脈絡。** 1678年のパンフレットは、広範な超自然的奇瑞文学を生み出した実質的な17世紀英国のブロードシート伝統の内で運用されます。当該時期の実質的なパンフレット出力は、神的なしるし、奇跡的事象、怪物の誕生、ならびにより広範な超自然的内容を、実質的に道徳化・寓意化された枠組みの内で扱いました。
+- **実質的な方法論的区別。** モウイング・デビルの事象は立っている作物をきれいに切断することを含み ― 現代のミステリーサークルを特徴づける倒伏とは実質的に異なります。実質的な区別は方法論的に実質的です。
+- **実質的な学術的関与。** 民俗学の研究(ボブ・トラブショウ、ジェレミー・ハート、その他実質的な人々)は、モウイング・デビルを17世紀のパンフレット慣習の内で扱ってきました。ミステリーサークル研究は、これを主として近代以前のミステリーサークルの証拠として扱ってきました。
 
-The corpus position: the Mowing Devil case is substantively different category from modern crop circles. The substantive cultural-historical interest of the case is genuine; the substantive disciplinary claim of pre-modern crop-circle precedent is methodologically problematic.
+文献集の立場は次のとおりです。すなわち、モウイング・デビル事例は現代のミステリーサークルとは実質的に異なるカテゴリーです。当該事例の実質的な文化的・歴史的関心は本物ですが、近代以前のミステリーサークル先行事例とする実質的な分野的主張は方法論的に問題含みです。
 
-### Cross-cultural patterns of unexplained agricultural phenomena
+### 説明のつかない農業的現象の異文化的パターン
 
-The substantial cross-cultural engagement with unexplained agricultural phenomena operates principally through folkloric framework rather than as substantive modern-crop-circle parallel:
+説明のつかない農業的現象への実質的な異文化的関与は、現代のミステリーサークルへの実質的な並行としてではなく、主として民俗学的枠組みを通じて運用されます。
 
-- **Substantial fairy-circle traditions.** The substantial Celtic and broader European folklore tradition of fairy circles (rings of mushrooms, grass discoloration, or other ground markings interpreted as supernatural manifestation) operates substantively as folkloric category. The substantial fairy-circle tradition operates principally as small-scale localized phenomenon distinct from modern crop circles.
-- **Substantial Japanese mizuwa (water-rings) and broader Asian agricultural-anomaly traditions.** Substantial cross-cultural engagement with unexplained agricultural patterns within broader supernatural-interpretation framework.
-- **Substantial Native American sacred-geometry-on-landscape traditions.** Substantial Native American traditions engage substantial geometric patterns on landscape (Nazca lines analogs in North America; substantial subsequent patterns) within broader sacred-landscape framework.
+- **実質的な妖精の輪の伝統。** 妖精の輪(キノコの輪、草の変色、その他の超自然的顕現として解釈される地上の印)の実質的なケルトとより広範なヨーロッパの民俗学的伝統は、実質的に民俗学的カテゴリーとして運用されます。実質的な妖精の輪の伝統は、現代のミステリーサークルとは異なる小規模な局所的現象として主として運用されます。
+- **実質的な日本の「水輪」、ならびにより広範なアジアの農業的異常の伝統。** より広範な超自然的解釈の枠組みの内での、説明のつかない農業的模様への実質的な異文化的関与。
+- **実質的なネイティブ・アメリカンの景観上の聖なる幾何学の伝統。** ネイティブ・アメリカンの実質的な伝統は、より広範な聖なる景観の枠組みの内で、景観上の実質的な幾何学的模様(北米におけるナスカ地上絵の類似物、その後の実質的な模様)に関与します。
 
-The substantive cross-cultural pattern: human cultures across substantial historical periods have engaged unexplained ground-level patterns within supernatural-interpretation framework. The substantive distinction from modern crop circles: contemporary crop circles operate principally as substantial-scale geometric formations in cereal crops, distinct from the substantial fairy-circle and broader small-scale folkloric categories.
+実質的な異文化的パターンは次のとおりです。すなわち、人類の文化は、実質的な歴史的時期にわたって、超自然的解釈の枠組みの内で説明のつかない地上の模様に関与してきました。現代のミステリーサークルとの実質的な区別は次のとおりです。すなわち、現代のミステリーサークルは、実質的な妖精の輪とより広範な小規模な民俗学的カテゴリーとは異なる、穀物作物における実質的な規模の幾何学的形成物として主として運用されるということです。
 
-### The Vallée-Hynek cross-cultural folklore framework
+### ヴァレ=ハイネックの異文化的民俗学的枠組み
 
-The Vallée-Hynek cross-cultural folklore framework (treated in the [Ufology](../ufology/) entry's *Comparative observations* section) operates substantively as adjacent framework for engaging crop circles. The substantive content:
+ヴァレ=ハイネック(Vallée-Hynek)の異文化的民俗学的枠組み(その{% wiki(slug="ufology") %}UFO学{% end %}の項目の *比較的観察* 節で扱われる)は、ミステリーサークルに関与するための隣接する枠組みとして実質的に運用されます。実質的な内容は次のとおりです。
 
-- **The substantial folkloric-modern continuity.** Vallée's framework articulates structural continuity between modern UFO accounts and cross-cultural folklore traditions of encounters with non-human entities.
-- **The substantial crop-circle parallel.** The substantial cross-cultural fairy-circle tradition operates substantively as folkloric parallel to modern crop circles within the Vallée framework, though the substantive scale and form distinctions are methodologically significant.
-- **The substantive interpretive implications.** Within the Vallée framework, modern crop circles operate substantively as contemporary expression of substantial cross-cultural pattern of unexplained agricultural-pattern phenomena.
+- **実質的な民俗学・近代の連続性。** ヴァレの枠組みは、現代のUFOの記述と、非・人間的存在との遭遇の異文化的民俗学伝統との間の構造的連続性を articulate します。
+- **実質的なミステリーサークルの並行。** 実質的な異文化的妖精の輪の伝統は、ヴァレの枠組みの内で現代のミステリーサークルへの民俗学的並行として実質的に運用されますが、実質的な規模と形態の区別は方法論的に重要です。
+- **実質的な解釈的含意。** ヴァレの枠組みの内では、現代のミステリーサークルは、説明のつかない農業模様現象の実質的な異文化的パターンの現代的表現として実質的に運用されます。
 
-The corpus position: the Vallée framework operates as substantive adjacent framework for engaging crop circles; the substantive methodological distinction between modern crop circles and substantial folkloric fairy-circle traditions warrants substantive acknowledgment; the substantial folkloric content operates substantively as cultural context rather than as substantive empirical foundation for the modern phenomenon.
+文献集の立場は次のとおりです。すなわち、ヴァレの枠組みは、ミステリーサークルに関与するための実質的な隣接的枠組みとして運用されます。現代のミステリーサークルと実質的な民俗学的妖精の輪の伝統との実質的な方法論的区別は実質的な認識に値しますが、実質的な民俗学的内容は、現代の現象に対する実質的な経験的基礎としてではなく文化的脈絡として実質的に運用されます。
 
-### The Vorilhon-source engagement
+### ヴォリロン典拠の関与
 
-The Vorilhon source articulates substantive engagement with crop circles principally through one specific case. The substantive content from the *Message from the Designers* foreword:
+ヴォリロン典拠は、主として一つの具体的事例を通じてミステリーサークルへの実質的な関与を articulate します。『デザイナーからのメッセージ』の序文からの実質的な内容は次のとおりです。
 
-> *"Not long after we built a small scale model of the embassy based on these drawings, a crop circle appeared in England which bore an astonishing resemblance to it."*
+> *「これらの図面に基づいて私たちが大使館の小規模模型を建造してから間もなく、それに驚くべき類似性を持つミステリーサークルがイングランドに現れた。」*
 
-The substantive content:
+実質的な内容は次のとおりです。
 
-- **The specific crop circle case.** A formation appearing in England (specific location and date not articulated in the source) that bore substantive resemblance to the Raëlian embassy small-scale model.
-- **The substantive interpretive framework.** The Vorilhon source articulates this as substantively meaningful within corpus framework, though the source does not adopt the strong "all crop circles are alliance messages" framing that some alternative ufology articulates.
-- **The substantive cultural-historical context.** The acknowledgments page of *Message from the Designers* thanks "Colin Andrews (www.CropCircleInfo.com) for permission to use the crop circle aerial photograph taken at Cheesefoot Head in Wiltshire, England in August 1990," substantively indicating substantive Raëlian engagement with crop circle phenomena across the 1990s.
+- **具体的なミステリーサークル事例。** イングランドに現れた形成物(具体的な場所と日付は典拠において articulate されていない)で、ラエリアンの{% wiki(slug="embassy") %}大使館{% end %}小規模模型に実質的な類似性を持つもの。
+- **実質的な解釈的枠組み。** ヴォリロン典拠はこれを文献集枠組みの内で実質的に意味のあるものとして articulate しますが、典拠はいくつかの代替UFO学が articulate する「すべてのミステリーサークルは同盟のメッセージである」という強い枠組みを採用しません。
+- **実質的な文化的・歴史的脈絡。** 『デザイナーからのメッセージ』の謝辞のページは、「1990年8月にイングランド・ウィルトシャーのチーズフット・ヘッドで撮影されたミステリーサークルの航空写真の使用許可をくださったコリン・アンドリュース(www.CropCircleInfo.com)に」感謝しており、1990年代を通じてのラエリアンのミステリーサークル現象への実質的な関与を実質的に示しています。
 
-The substantive Raëlian engagement operates principally through:
+実質的なラエリアンの関与は主として次のものを通じて運用されます。
 
-- **The substantial Cheesefoot Head 1990 formation engagement.** The formation Colin Andrews photographed and the Raëlian source acknowledged operates as substantive case material within the corpus framework's engagement.
-- **The substantial embassy-resemblance case.** The specific case the Vorilhon source articulates as substantively meaningful.
-- **The substantial broader Raëlian organizational engagement.** The substantial international Raëlian Movement's engagement with crop circle phenomena operates substantively at the level of cultural interest and selective case engagement rather than as systematic alliance-communication framework.
+- **実質的な1990年のチーズフット・ヘッド形成物への関与。** コリン・アンドリュースが撮影し、ラエリアン典拠が言及した形成物は、文献集枠組みの関与の内で実質的な事例素材として運用されます。
+- **実質的な大使館類似事例。** ヴォリロン典拠が実質的に意味のあるものとして articulate する具体的な事例。
+- **実質的なより広範なラエリアン組織の関与。** 実質的な国際的{% wiki(slug="raelism") %}ラエリアン・ムーブメント{% end %}のミステリーサークル現象への関与は、体系的な同盟通信枠組みとしてではなく、文化的関心と選択的事例関与の水準で実質的に運用されます。
 
-The substantive corpus position on the Vorilhon-source engagement:
+ヴォリロン典拠の関与に対する実質的な文献集の立場は次のとおりです。
 
-- **The substantive specific case has substantive corpus-internal meaning.** The embassy-resemblance formation operates as substantively meaningful within corpus framework.
-- **The broader crop-circle phenomenon is not articulated as principal alliance-communication mechanism.** The Vorilhon source's principal alliance-communication content operates through direct contact narrative (1973 Puy-de-Lassolas; 1975 home planet transport; subsequent contact events) and through prophetic transmission, not through crop circle manifestation.
-- **The substantive Raëlian organizational engagement with crop circles operates at cultural-interest level.** The substantial Raëlian engagement is substantive cultural-historical fact without operating as substantive doctrinal commitment.
+- **実質的な具体的事例は実質的に文献集内の意味を持つ。** 大使館類似形成物は、文献集枠組みの内で実質的に意味のあるものとして運用されます。
+- **より広範なミステリーサークル現象は、主要な同盟通信機構として articulate されてはいない。** ヴォリロン典拠の主要な同盟通信内容は、直接的な接触物語(1973年のピュイ・ド・ラソラ、1975年の母惑星への移送、その後の接触事象)と預言的伝達を通じて運用されるのであり、ミステリーサークルの顕現を通じて運用されるのではありません。
+- **実質的なラエリアン組織のミステリーサークルへの関与は、文化的関心の水準で運用される。** 実質的なラエリアンの関与は、実質的な教義的コミットメントとして運用されることなく、実質的な文化的・歴史的事実です。
 
-The substantive editorial articulation: the corpus engages crop circles substantively as ufology-adjacent phenomenon with one specific case operating as substantively meaningful within Vorilhon-source content. The broader phenomenon is engaged at descriptive level without adoption as principal alliance-communication mechanism.
+実質的な編集的 articulation は次のとおりです。すなわち、文献集はミステリーサークルを、ヴォリロン典拠の内容の内で実質的に意味のあるものとして運用される一つの具体的事例を伴う、UFO学に隣接する現象として実質的に扱います。より広範な現象は記述的水準で扱われ、主要な同盟通信機構としての採用には踏み込みません。
 
-### The contemporary cultural-artistic dimensions
+### 現代の文化的・芸術的諸次元
 
-The substantive contemporary cultural-artistic engagement with crop circles operates substantively beyond ufological framework:
+ミステリーサークルへの実質的な現代の文化的・芸術的関与は、UFO学的枠組みを超えて実質的に運用されます。
 
-- **The substantial land-art and environmental-art tradition.** Crop circles operate substantively within the broader contemporary land-art tradition extending from Robert Smithson's *Spiral Jetty* (1970) through substantial subsequent environmental-art practice. The Circlemakers group and broader organized circle-making community engages this tradition substantively.
-- **The substantial public-art and ephemeral-art tradition.** Crop circles operate substantively as ephemeral public art, with substantial subsequent photographic documentation as principal preservation mechanism.
-- **The substantial spectacle-and-tourism dimension.** The substantial Wiltshire crop circle tourism operates substantively as cultural-economic phenomenon, with substantial subsequent visitor engagement, photography tourism, and broader cultural-tourism economy.
-- **The substantial film and media engagement.** The substantial cultural representation of crop circles in film (the 2002 M. Night Shyamalan *Signs*; substantial subsequent productions), television, music videos, and broader media engagement.
-- **The substantial New Age and alternative-spiritual cultural engagement.** Crop circles operate substantively as principal contemporary New Age symbolic content, with substantial subsequent engagement in alternative-spiritual literature, meditation practice, and broader cultural framework.
+- **実質的なランドアートと環境芸術の伝統。** ミステリーサークルは、ロバート・スミッソン(Robert Smithson)の『スパイラル・ジェティ』(*Spiral Jetty*、1970年)からその後の実質的な環境芸術の実践に至るより広範な現代のランドアートの伝統の内で実質的に運用されます。サークルメイカーズ・グループとより広範な組織化された円形制作コミュニティは、この伝統に実質的に関与します。
+- **実質的な公共芸術とエフェメラル芸術の伝統。** ミステリーサークルは、その後の実質的な写真的文書化を主要な保存機構として、エフェメラル(儚い)公共芸術として実質的に運用されます。
+- **実質的なスペクタクルと観光の次元。** 実質的なウィルトシャーのミステリーサークル観光は、その後の実質的な訪問者の関与、写真観光、より広範な文化観光経済を伴う、文化的・経済的現象として実質的に運用されます。
+- **実質的な映画とメディアの関与。** 映画(2002年のM・ナイト・シャマラン監督の『サイン』、その後の実質的な作品)、テレビ、ミュージックビデオ、ならびにより広範なメディアの関与における、ミステリーサークルの実質的な文化的表象。
+- **実質的なニューエイジと代替霊的文化的関与。** ミステリーサークルは、代替霊的文献、瞑想実践、ならびにより広範な文化的枠組みにおけるその後の実質的な関与を伴う、現代の主要なニューエイジ象徴的内容として実質的に運用されます。
 
-The corpus position: the substantive cultural-artistic dimensions of contemporary crop circles operate substantively as principal contemporary engagement, with the substantial ufological framework operating as one component within the broader cultural-artistic phenomenon rather than as principal interpretive framework.
+文献集の立場は次のとおりです。すなわち、現代のミステリーサークルの実質的な文化的・芸術的諸次元は、現代の主要な関与として実質的に運用されており、実質的なUFO学的枠組みは、主要な解釈的枠組みとしてではなく、より広範な文化的・芸術的現象の内の一つの構成要素として運用されます。
 
-### The convergence
+### 収斂
 
-The substantial cross-cultural and historical engagement with crop circles operates substantively as complex cultural-artistic-methodological phenomenon. The substantive corpus position:
+ミステリーサークルへの実質的な異文化的・歴史的関与は、複雑な文化的・芸術的・方法論的現象として実質的に運用されます。実質的な文献集の立場は次のとおりです。
 
-- **The contemporary phenomenon is principally documented human-made artistic-cultural practice.** The substantive mainstream-scientific framework is substantively well-supported through documented construction methodology.
-- **Substantive residual physical-anomaly questions remain methodologically contested.** The BLT, Haselhoff, and substantial subsequent research operates within substantive methodological controversy.
-- **The substantial alleged extraterrestrial-communication content in specific formations has not been substantively verified.** The Chilbolton, Crabwood, and substantial subsequent communication-claim cases operate within alternative-ufological framework.
-- **The Vorilhon source articulates one specific case as substantively meaningful within corpus framework.** The embassy-resemblance case operates as substantively specific corpus content.
-- **The broader phenomenon is engaged at descriptive level.** The corpus does not adopt the strong "crop circles are alliance messages" framing; the substantive alliance-contact framework operates through Vorilhon-source contact narrative rather than through crop-circle manifestation.
+- **現代の現象は主として文書化された人間の手による芸術的・文化的実践である。** 実質的な主流科学の枠組みは、文書化された建造方法を通じて実質的に十分に支持されています。
+- **実質的な残存する物理的異常の問いは、方法論的に争点化されたままである。** BLT、ハーゼルホフ、その後の実質的な研究は、実質的な方法論的論争の内で運用されます。
+- **特定の形成物における実質的に主張される異星間通信内容は、実質的に検証されていない。** チルボルトン、クラブウッド、その後の実質的な通信主張事例は、代替UFO学の枠組みの内で運用されます。
+- **ヴォリロン典拠は一つの具体的事例を文献集枠組みの内で実質的に意味のあるものとして articulate する。** 大使館類似事例は、実質的に具体的な文献集の内容として運用されます。
+- **より広範な現象は記述的水準で扱われる。** 文献集は「ミステリーサークルは同盟のメッセージである」という強い枠組みを採用しません。実質的な同盟接触枠組みは、ミステリーサークルの顕現を通じてではなく、ヴォリロン典拠の接触物語を通じて運用されます。
 
-The substantive corpus engagement threads the documented mainstream-scientific consensus, the substantive residual-anomaly research, the substantial alternative-ufological tradition, and the specific Vorilhon-source content with substantive epistemic care.
-
-## See also
-
-- [Wheel of Heaven](../wheel-of-heaven/)
-- [Ufology](../ufology/)
-- [Astrobiology](../astrobiology/)
-- [Drake Equation](../drake-equation/)
-- [Ancient Astronaut Hypothesis](../ancient-astronaut-hypothesis/)
-- [Embassy](../embassy/)
-- [New Jerusalem](../new-jerusalem/)
-- [Third Temple](../third-temple/)
-- [Comparative Mythology](../comparative-mythology/)
-- [Sacred Geometry](../sacred-geometry/)
-- [Archaeoastronomy](../archaeoastronomy/)
-- [Elohim Home Planet](../elohim-home-planet/)
-- [Raël](../rael/)
-- [Raëlism](../raelism/)
-- [Message from the Designers](../message-from-the-designers/)
-- [Age of Aquarius](../age-of-aquarius/)
-
-## References
-
-### Principal Raëlian source
-
-Vorilhon, Claude (Raël). *Message from the Designers*. Tagman Press, 2005.
-
-### Foundational documentation
-
-Delgado, Pat, and Colin Andrews. *Circular Evidence: A Detailed Investigation of the Flattened Swirled Crops Phenomenon*. Bloomsbury, 1989.
-
-Andrews, Colin, and Stephen J. Spignesi. *Crop Circles: Signs of Contact*. New Page Books, 2003.
-
-Pringle, Lucy. *Crop Circles: The Greatest Mystery of Modern Times*. Thorsons, 1999.
-
-### Circlemakers and organized circle-making
-
-Irving, Rob, and John Lundberg. *The Field Guide: The Art, History and Philosophy of Crop Circle Making*. Strange Attractor Press, 2006.
-
-Circlemakers.org. <http://www.circlemakers.org>.
-
-### Bower-Chorley confession
-
-Schnabel, Jim. *Round in Circles: Physicists, Poltergeists, Pranksters, and the Secret History of the Cropwatchers*. Hamish Hamilton, 1993.
-
-### The plasma vortex hypothesis
-
-Meaden, Terence. *The Circles Effect and Its Mysteries*. Artetech, 1989.
-
-### The residual-anomaly research program
-
-Levengood, William C. "Anatomical Anomalies in Crop Formation Plants." *Physiologia Plantarum* 92, no. 2 (1994): 356-363.
-
-Haselhoff, Eltjo H. *The Deepening Complexity of Crop Circles: Scientific Research and Urban Legends*. Frog Books, 2001.
-
-Haselhoff, Eltjo H. "Opinions and Comments on Levengood WC, Talbott NP (1999) Dispersion of Energies in Worldwide Crop Formations." *Physiologia Plantarum* 111, no. 1 (2001): 123-125.
-
-BLT Research Team. <http://www.bltresearch.com>.
-
-### Alternative-ufological frameworks
-
-Howe, Linda Moulton. *Glimpses of Other Realities*. 2 vols. LMH Productions, 1993-1998.
-
-### Methodological and historical engagement
-
-Schnabel, Jim. *Round in Circles*. Hamish Hamilton, 1993.
-
-Nickell, Joe. "Levengood's Crop-Circle Plant Research." *Skeptical Inquirer* 20, no. 2 (1996): 19-21.
-
-Nickell, Joe. *Real-Life X-Files: Investigating the Paranormal*. University Press of Kentucky, 2001.
-
-### Pamphlet-literature context
-
-Walsham, Alexandra. *Providence in Early Modern England*. Oxford University Press, 1999.
-
-Friedman, Jerome. *Miracles and the Pulp Press during the English Revolution*. UCL Press, 1993.
-
-### Wiltshire prehistoric landscape
-
-Burl, Aubrey. *Prehistoric Avebury*. Yale University Press, 1979. Revised edition, 2002.
-
-Pollard, Joshua, and Andrew Reynolds. *Avebury: The Biography of a Landscape*. Tempus, 2002.
-
-### Web resources
-
-"Crop circle." *Wikipedia*. <https://en.wikipedia.org/wiki/Crop_circle>.
-
-"Doug Bower and Dave Chorley." *Wikipedia*. <https://en.wikipedia.org/wiki/Doug_Bower_and_Dave_Chorley>.
-
-"Circlemakers." <http://www.circlemakers.org>.
-
-"BLT Research Team." <http://www.bltresearch.com>.
-
-"Mowing-Devil." *Wikipedia*. <https://en.wikipedia.org/wiki/Mowing-Devil>.
+実質的な文献集の関与は、文書化された主流科学の合意、実質的な残存異常の研究、実質的な代替UFO学の伝統、ならびに具体的なヴォリロン典拠の内容を、実質的な認識論的慎重さをもって縫合しています。

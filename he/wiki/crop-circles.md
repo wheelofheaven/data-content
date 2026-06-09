@@ -1,552 +1,545 @@
 +++
-title = "Crop Circles"
+title = "מעגלי תבואה"
 slug = "crop-circles"
-description = "Crop circles, or crop formations, are large patterns produced by the systematic flattening of agricultural crops (principally wheat, barley, rapeseed, rye, corn, linseed, and soy) into geometric, mathematical, or symbolic designs. The contemporary phenomenon emerged principally in southern England during the late 1970s, with substantial subsequent geographic concentration in the Wiltshire region (the substantial Avebury-Stonehenge-Silbury Hill-Alton Barnes area) and substantial subsequent international occurrence. The phenomenon underwent substantive methodological transformation on September 9, 1991, when British men Doug Bower and Dave Chorley confessed in the *Today* newspaper to having created the principal early formations from 1978 onward using ropes, planks, and baseball caps with sighting holes; their substantive subsequent demonstration of construction methodology and the substantial subsequent emergence of organized circle-making groups (Circlemakers under John Lundberg, Rod Dickinson, Wil Russell, and Rob Irving; the Team Satan group; the substantial international circle-making tradition) substantially shifted the mainstream-scientific framing toward principally human-made artistic-cultural phenomenon. The substantial subsequent debate has produced multiple frameworks: the mainstream-scientific consensus (principally human-made through documented construction techniques); the substantive 'plasma vortex' hypothesis (Terence Meaden's substantive 1980s-1990s articulation, principally subsequently abandoned); the substantive residual-anomaly research program (BLT Research Team founded by John Burke, William Levengood, and Nancy Talbott; Eltjo Haselhoff's published research on node-bending patterns; the substantial subsequent alleged-anomaly literature); and the substantial alternative-ufological frameworks engaging selected formations as substantively non-human-made communication content (the Chilbolton 'Arecibo response' August 2001 case; the Crabwood 'alien face' August 2002 case; the substantial subsequent alternative-ufological tradition). The Wheel of Heaven framework engages crop circles substantively with methodological care that distinguishes the corpus framework from the strong 'all crop circles are alien-communication' framing that some alternative ufology adopts. The corpus position: the substantial majority of contemporary crop circles are documented human-made formations operating substantively as artistic-cultural phenomenon; substantive residual physical anomalies in selected formations remain unresolved within mainstream-scientific framework; the alleged extraterrestrial-communication content in specific formations (Chilbolton, Crabwood, others) operates within alternative-ufological framework rather than within substantively verified contact methodology; the Vorilhon-source content articulates one specific crop circle case (the embassy-model-resemblance formation referenced in the *Message from the Designers* foreword) as substantively meaningful within corpus framework, with the broader crop-circle phenomenon engaged at the descriptive level without substantive adoption as principal alliance-communication mechanism."
+description = "מעגלי תבואה, או תצורות תבואה, הם דפוסים גדולים המופקים על ידי השטחה שיטתית של גידולים חקלאיים (בעיקר חיטה, שעורה, לפתית, שיפון, תירס, פשתן וסויה) לעיצובים גיאומטריים, מתמטיים או סמליים. התופעה בת זמננו צמחה בעיקר בדרום אנגליה בסוף שנות השבעים, עם ריכוז גיאוגרפי מהותי שלאחר מכן באזור וילטשייר (אזור אייבברי-סטונהנג'-סילבורי היל-אולטון בארנס) והופעה בינלאומית מהותית שלאחר מכן. התופעה עברה טרנספורמציה מתודולוגית מהותית ב-9 בספטמבר 1991, כאשר הבריטים דאג באוור ודייב צ'ורלי הודו בעיתון *Today* כי יצרו את התצורות המוקדמות העיקריות החל מ-1978 באמצעות חבלים, קרשים וכובעי בייסבול עם חורי כיוון. מסגרת »גלגל השמיים« מתייחסת למעגלי תבואה באופן מהותי עם זהירות מתודולוגית: הרוב המהותי של התצורות בנות זמננו מתועדים כעשויי-אדם; אנומליות פיזיקליות שיוריות מהותיות בתצורות נבחרות נותרות בלתי-פתורות בתוך המסגרת המדעית המיינסטרימית; תוכן התקשורת החוץ-ארצית הנטען בתצורות ספציפיות (צ'ילבולטון, קראבווד, אחרות) פועל בתוך מסגרת אופולוגית חלופית ולא בתוך מתודולוגיית מגע מאומתת מהותית; מקור וורילון מנסח מקרה ספציפי אחד (תצורת דמיון-המודל-של-השגרירות) כמשמעותי מהותית בתוך מסגרת הקורפוס, כאשר התופעה הרחבה יותר מטופלת ברמה תיאורית ללא אימוץ מהותי כמנגנון תקשורת-ברית עיקרי."
 template = "wiki-page.html"
 toc = true
 
 [extra]
-translation_status = "metadata_only"
 editorial_pass = "2026-05"
+claim_type = "framework"
 category = "Ufology"
 entry_type = "concept"
-alternative_names = ["crop circles", "crop formations", "agriglyphs (occasional alternative)", "pictograms (1990s technical designation)", "cercles de cultures (French)", "Kornkreise (German)"]
+alternative_names = ["מעגלי תבואה", "תצורות תבואה", "אגריגליפים (חלופה מזדמנת)", "פיקטוגרמות (ייעוד טכני של שנות התשעים)", "cercles de cultures (צרפתית)", "Kornkreise (גרמנית)"]
 timeline = ["age-of-aquarius"]
+see_also = [
+    { title = "אופולוגיה", path = "wiki/ufology", description = "ההקשר הדיסציפלינרי שבתוכו פועלים מעגלי תבואה כתופעה אחת מתועסקת." },
+    { title = "שגרירות", path = "wiki/embassy", description = "פרויקט השגרירות הראליאני — המודל המהותי בקנה מידה קטן שמעגל-התבואה ממקור וורילון נשא לו דמיון מדהים." },
+    { title = "כוכב הלכת של האלוהים", path = "wiki/elohim-home-planet", description = "עולם הברית הביתי שמסגרת מגע-הברית המהותית שלו פועלת באמצעות נרטיב המגע ממקור וורילון." },
+    { title = "השערת האסטרונאוטים הקדומים", path = "wiki/ancient-astronaut-hypothesis", description = "המסגרת הפרשנית הרחבה יותר שבתוכה פועלות פרשנויות מעגלי-תבואה אופולוגיות חלופיות." },
+    { title = "גיאומטריה קדושה", path = "wiki/sacred-geometry", description = "התחכום הגיאומטרי המהותי הקיים בתצורות מעגלי תבואה בנות זמננו." },
+    { title = "ארכיאואסטרונומיה", path = "wiki/archaeoastronomy", description = "הנוף המונומנטלי הפרהיסטורי של וילטשייר שבתוכו פועל הריכוז בן זמננו של מעגלי תבואה." },
+]
+
+footnotes = [
+    { content = "הטרנספורמציה המתודולוגית המהותית בעקבות וידוי באוור-צ'ורלי מ-9 בספטמבר 1991 היא נושאת-משקל לעמדת הקורפוס. לפני הווידוי, הספרות המהותית של שנות השמונים (*Circular Evidence* של דלגדו ואנדרוס; קהילת חוקרי המעגלים המהותית; מסגרת מערבולת הפלזמה של מידן) התייחסה לעלייה המהותית בתצורות לאורך העשור כתופעה בלתי-מוסברת מהותית. לאחר הווידוי, המסגרת המיינסטרימית העיקרית של הדיסציפלינה הוזחה לכיוון פרקטיקה אמנותית-תרבותית מתועדת כעשויית-אדם. ההדגמה המהותית של מתודולוגיית הבנייה — באוור וצ'ורלי בונים תצורה לעיתונאים בכ-45 דקות, כאשר המעגל שנוצר זוהה על ידי חוקרי מעגלי תבואה כאותנטי — ביססה מהותית את הכדאיות המתודולוגית של בנייה אנושית בקנה המידה והמורכבות של תצורות שלב שנות השמונים. התיעוד שלאחר מכן של יצירת מעגלים מאורגנת (Circlemakers; Team Satan; המסורת הבינלאומית המהותית של יצירת מעגלים) מרחיב מהותית את המסגרת המודגמת." },
+    { content = "השערת מערבולת הפלזמה של טרנס מידן פורסמה בספרות מטאורולוגית מבוקרת עמיתים ופעלה בתוך מסגרת מדעית מהותית לאורך שנות השמונים. הזניחה המהותית לאורך שנות התשעים משקפת שני גורמים עיקריים: (1) מורכבות התצורה חרגה מהותית מהפלט המערבולתי הסביר ככל שהתקדמו שנות התשעים — תצורות גיאומטריות מהותיות עם קצוות חדים, דפוסים מורכבים, ותוכן פיקטוגרפי מהותי אינן יכולות באופן סביר להיווצר על ידי מערבולות אטמוספריות; (2) וידוי באוור-צ'ורלי והתיעוד המהותי שלאחר מכן של יצירת מעגלים מאורגנת הסביר את התצורות העיקריות שמידן ייחס למערבולות פלזמה. מידן שינה מהותית את עמדתו לאורך העשורים שלאחר מכן, מודה כי הרוב המהותי של התצורות בנות זמננו עשויי-אדם תוך שמירה על מעורבות מהותית עם מקרים נבחרים של השלב המוקדם. המשמעות לתולדות-המדע המהותית: השערה מדעית מבוקרת עמיתים נבחנה מהותית מול ראיות שלאחר מכן וננטשה על ידי המציע העיקרי שלה — דפוס מתודולוגי הפועל מהותית בתוך הפרקטיקה המדעית הסטנדרטית." },
+    { content = "מעמדה של חוברת ה-Mowing Devil מ-1678 כתקדים למעגל-תבואה הוא בעייתי מהותית מבחינה מתודולוגית. החוברת מתארת קציר (חיתוך גידולים עומדים בצורה נקייה) — שונה מהותית מההשטחה המאפיינת מעגלי תבואה מודרניים. החוברת פועלת בתוך מסורת חוברות הסקופ האנגלית המהותית של המאה השבע-עשרה (המתועדת בהרחבה ב-*Providence in Early Modern England* של וולשם וב-*Miracles and the Pulp Press* של פרידמן) שהפיקה ספרות פלאים-על-טבעיים בתוך מסגרת מוסרית-אלגורית ולא כעיתונאות עדות-ראייה ישירה. מחקר פולקלוריסטי (בוב טרובשו, ג'רמי הארטה, אחרים) התעסק עם ה-Mowing Devil בתוך מוסכמות חוברות המאה השבע-עשרה; מחקר מעגלי תבואה התעסק בו בעיקר כראיה למעגלי תבואה טרום-מודרניים. עמדת הקורפוס: מקרה ה-Mowing Devil הוא קטגוריה שונה ממעגלי תבואה מודרניים, והעניין התרבותי-היסטורי המהותי של המקרה הוא אמיתי מבלי לתפקד כתקדים ישיר בתולדות הדיסציפלינה." },
+    { content = "תוכנית מחקר האנומליה השיורית (BLT Research Team; אלטיו האזלהוף; חוקרים מהותיים שלאחר מכן) הפיקה פרסום מבוקר עמיתים מהותי (לבנגוד 1994 ב-*Physiologia Plantarum*; האזלהוף 2001 ב-*Physiologia Plantarum*), אך הספרות המהותית שלאחר מכן פעלה בעיקר מחוץ לסקירת עמיתים. הביקורת המתודולוגית המהותית (המעורבות הסקפטית המהותית של ג'ו ניקל; המסגרת המדעית המיינסטרימית הרחבה יותר) כוללת חששות מהותיים לגבי הטיית בחירה במקרים, מתודולוגיה של דגימת קרקע, בקרות ניתוח סטטיסטי, וההבחנה המהותית בין אנומליות אותנטיות לבין השפעות דגימה רחבות יותר. הקורפוס מתעסק עם עבודה זו תיאורית תוך הצבעה על המעמד המתודולוגי המעורער מהותית; העבודה לא ביססה מהותית את העמדה החזקה »מעגלי תבואה אינם יכולים להיות מוסברים באמצעות בנייה אנושית« שתוכנית מחקר האנומליה השיורית מקדמת." },
+    { content = "»תגובת אסיבו« של צ'ילבולטון (אוגוסט 2001) ו»פני החייזר« של קראבווד (אוגוסט 2002) פועלים כמקרים האופולוגיים-חלופיים העיקריים לתוכן תקשורת בלתי-עשוי-אדם מהותית. אף אחד מהמקרים לא נטען על ידי קבוצת יצירת מעגלים מאורגנת כלשהי; שני המקרים כוללים תוכן תקשורת נטען מהותי (וריאציות מקודדות-ביטמאפ של מסר אסיבו המקורי של צ'ילבולטון; מסר אזהרה מקודד ASCII של קראבווד). המעמד המתודולוגי המהותי: אף מקרה לא אומת מהותית כבלתי-עשוי-אדם באמצעות מתודולוגיה שהמדע המיינסטרימי מקבל. עמדת הקורפוס רושמת את העניין הפרשני המהותי של מקרים אלה מבלי לאמץ את תוכנם כתקשורת מבוססת מהותית מישויות לא-אנושיות; המקרים פועלים בתוך מסגרת אופולוגית חלופית ולא בתוך מתודולוגיית מגע מאומתת מהותית." },
+    { content = "מעורבות מקור וורילון עם מעגלי תבואה פועלת בעיקר באמצעות מקרה ספציפי אחד — הפניית ההקדמה של *מסר מהמתכננים* למעגל תבואה באנגליה שנשא »דמיון מדהים« למודל השגרירות בקנה מידה קטן שהאדריכלים הראליאנים בנו. הקורפוס אינו מבצע אקסטרפולציה מהמקרה הספציפי הזה למסגור החזק »מעגלי תבואה הם מסרי ברית« שאופולוגיה חלופית מסוימת מנסחת. מסגרת תקשורת-הברית המהותית, על פי קריאת הקורפוס, פועלת באמצעות נרטיב המגע ממקור וורילון (13 בדצמבר 1973 בפוי-דה-לסולה; 7 באוקטובר 1975 ההובלה לכוכב הלכת הביתי; אירועי מגע שלאחר מכן) ובאמצעות שידור נבואי, לא באמצעות התגלות מעגל-תבואה. המעורבות הארגונית הראליאנית המהותית עם מעגלי תבואה בתקופה שלאחר שנות התשעים (האישור הצילומי של צ'יזפוט הד 1990; עניין שלאחר מכן) פועלת מהותית ברמה של עניין תרבותי ומעורבות סלקטיבית במקרים ולא כמחויבות דוקטרינלית שיטתית." },
+]
+
+[[extra.references]]
+id = "the-book-which-tells-the-truth"
+locator = "הקדמה"
+note = "מקור ראליאני יסודי — ההפניה בהקדמת *מסר מהמתכננים* למעגל תבואה שנשא דמיון מדהים למודל השגרירות הראליאני בקנה מידה קטן."
+
+[[extra.references]]
+id = "circular-evidence"
+note = "מעורבותם היסודית של דלגדו ואנדרוס מ-1989 עם תופעת מעגלי התבואה הבריטית — הטיפול העיקרי באורך-ספר שלפני וידוי באוור-צ'ורלי."
+
+[[extra.references]]
+id = "crop-circles-signs-of-contact"
+note = "הניסוח של אנדרוס וספיניסי מ-2003 של המסגרת האופולוגית-חלופית בעקבות וידוי באוור-צ'ורלי."
+
+[[extra.references]]
+id = "pringle-crop-circles"
+note = "הסינתזה הנגישה של פרינגל משנות התשעים מהמייסדת של ארכיון מעגלי התבואה המהותי של פרינגל."
+
+[[extra.references]]
+id = "the-field-guide-crop-circle-making"
+note = "הניסוח המתועד העיקרי של אירווינג ולונדברג של פרקטיקת יצירת המעגלים המאורגנת בת זמננו מתוך הקולקטיב Circlemakers."
+
+[[extra.references]]
+id = "round-in-circles-schnabel"
+note = "המעורבות העיתונאית של שנבל עם תולדות המוסדות של הדיסציפלינה לאורך טרנספורמציית וידוי באוור-צ'ורלי מ-1991."
+
+[[extra.references]]
+id = "the-circles-effect-meaden"
+note = "הניסוח העיקרי של מידן של השערת מערבולת הפלזמה — שננטשה מהותית לאורך שנות התשעים אך פעלה בתוך מסגרת מדעית מבוקרת עמיתים."
+
+[[extra.references]]
+id = "levengood-physiologia-plantarum-1994"
+note = "הפרסום המבוקר עמיתים היסודי של לבנגוד של מסגרת האנומליה השיורית של ה-BLT Research Team."
+
+[[extra.references]]
+id = "the-deepening-complexity-crop-circles"
+note = "הניסוח הנגיש העיקרי של האזלהוף של מסגרת מחקר האנומליה השיורית."
+
+[[extra.references]]
+id = "haselhoff-physiologia-plantarum-2001"
+note = "ההרחבה המבוקרת עמיתים של האזלהוף של ניתוח כיפוף-הצומת של לבנגוד."
+
+[[extra.references]]
+id = "glimpses-of-other-realities"
+note = "המעורבות המהותית של האו עם אופולוגיה חלופית כולל חומר מקרי מעגלי תבואה."
+
+[[extra.references]]
+id = "nickell-levengood-skeptical-inquirer-1996"
+note = "ביקורתו הסקפטית הפורסמת העיקרית של ניקל על מחקר האנומליה השיורית של לבנגוד."
+
+[[extra.references]]
+id = "real-life-x-files-nickell"
+note = "ניסוחו של ניקל של מתודולוגיית החקירה הסקפטית השיטתית המיושמת על מעגלי תבואה וטענות פראנורמליות רחבות יותר."
+
+[[extra.references]]
+id = "providence-in-early-modern-england"
+note = "הטיפול היסודי של וולשם במסורת חוברות הסקופ האנגלית של המאה השבע-עשרה שבתוכה פועלת חוברת ה-Mowing Devil מ-1678."
+
+[[extra.references]]
+id = "miracles-and-the-pulp-press"
+note = "הטיפול של פרידמן במעורבות העיתונות הזולה האנגלית של אמצע המאה השבע-עשרה עם תוכן פלאי."
+
+[[extra.references]]
+id = "prehistoric-avebury"
+note = "הטיפול היסודי של בורל בקומפלקס אייבברי הנג' המהותי ובנוף המונומנטלי הפרהיסטורי של וילטשייר הרחב יותר."
+
+[[extra.references]]
+id = "avebury-biography-of-a-landscape"
+note = "הסינתזה האקדמית בת זמננו של פולארד ורנולדס של ארכיאולוגיית הנוף של אייבברי."
 
 [extra.infobox]
-type = "Large patterns produced by systematic flattening of agricultural crops into geometric, mathematical, or symbolic designs; methodologically complex phenomenon operating across documented human-made artistic-cultural practice and substantively contested alternative-ufological interpretation"
-phenomenon_emergence = "Late 1970s in southern England, principally Hampshire and Wiltshire; substantial subsequent geographic concentration in Wiltshire (Avebury-Stonehenge-Silbury Hill-Alton Barnes region); subsequent international occurrence"
-principal_methodological_transformation = "September 9, 1991 Doug Bower and Dave Chorley *Today* newspaper confession of authorship for principal early formations using ropes, planks, sighting-hole caps; substantial subsequent demonstration of construction methodology"
-principal_organized_groups = "Circlemakers (John Lundberg, Rod Dickinson, Wil Russell, Rob Irving); Team Satan; substantial international circle-making tradition"
-principal_mainstream_consensus = "Substantially human-made formations operating principally as artistic-cultural phenomenon; documented construction methodology; substantial geographic concentration consistent with organized circle-making activity"
-substantive_residual_questions = "Selected formations with reported physical anomalies (node-bending patterns, magnetite distributions, electromagnetic effects) engaged by BLT Research Team (John Burke, William Levengood, Nancy Talbott), Eltjo Haselhoff, others; substantial subsequent methodological debate"
-principal_corpus_engagement = "Vorilhon source articulates one specific case (embassy-model-resemblance formation) as substantively meaningful within corpus framework; broader crop-circle phenomenon engaged at descriptive level without substantive adoption as principal alliance-communication mechanism"
-distinguished_from = "Crop damage from natural causes (lodging from wind, rain, animals); aerial-phenomenon-with-ground-trace cases (substantially different category; treated in Ufology entry); the 1678 Mowing Devil pamphlet (contested as crop-circle precedent; engages substantively different supernatural-mowing narrative)"
-status_in_framework = "Substantively methodologically complex phenomenon engaged with epistemic care; corpus position threads documented human authorship and alleged residual anomalies without adopting strong alien-communication framing"
+type = "דפוסים גדולים המופקים על ידי השטחה שיטתית של גידולים חקלאיים לעיצובים גיאומטריים, מתמטיים או סמליים; תופעה מורכבת מתודולוגית הפועלת על פני פרקטיקה אמנותית-תרבותית מתועדת כעשויית-אדם ופרשנות אופולוגית-חלופית מעורערת מהותית"
+phenomenon_emergence = "סוף שנות השבעים בדרום אנגליה, בעיקר המפשייר וילטשייר; ריכוז גיאוגרפי מהותי שלאחר מכן בווילטשייר (אזור אייבברי-סטונהנג'-סילבורי היל-אולטון בארנס); הופעה בינלאומית שלאחר מכן"
+principal_methodological_transformation = "וידוי דאג באוור ודייב צ'ורלי בעיתון *Today* מ-9 בספטמבר 1991 על מחברות לתצורות המוקדמות העיקריות תוך שימוש בחבלים, קרשים וכובעי כיוון; הדגמה מהותית שלאחר מכן של מתודולוגיית הבנייה"
+principal_organized_groups = "Circlemakers (ג'ון לונדברג, רוד דיקינסון, ויל ראסל, רוב אירווינג); Team Satan; המסורת הבינלאומית המהותית של יצירת מעגלים"
+principal_mainstream_consensus = "תצורות עשויות-אדם מהותית הפועלות בעיקר כתופעה אמנותית-תרבותית; מתודולוגיית בנייה מתועדת; ריכוז גיאוגרפי מהותי עקבי עם פעילות יצירת מעגלים מאורגנת"
+substantive_residual_questions = "תצורות נבחרות עם אנומליות פיזיקליות מדווחות (דפוסי כיפוף-צומת, התפלגויות מגנטיט, השפעות אלקטרומגנטיות) המתועסקות על ידי BLT Research Team (ג'ון בורק, ויליאם לבנגוד, ננסי טלבוט), אלטיו האזלהוף, אחרים; דיון מתודולוגי מהותי שלאחר מכן"
+principal_corpus_engagement = "מקור וורילון מנסח מקרה ספציפי אחד (תצורת דמיון-המודל-של-השגרירות) כמשמעותי מהותית בתוך מסגרת הקורפוס; תופעת מעגלי-התבואה הרחבה יותר מטופלת ברמה תיאורית ללא אימוץ מהותי כמנגנון תקשורת-ברית עיקרי"
+distinguished_from = "נזק לתבואה מסיבות טבעיות (קריסה מרוח, גשם, בעלי חיים); מקרי תופעה-אווירית-עם-עקבות-קרקעיות (קטגוריה שונה מהותית; מטופלת בערך אופולוגיה); חוברת ה-Mowing Devil מ-1678 (מעורערת כתקדים למעגלי תבואה; מתעסקת בנרטיב קציר-על-טבעי שונה מהותית)"
+status_in_framework = "תופעה מורכבת מתודולוגית מהותית המטופלת בזהירות אפיסטמית; עמדת הקורפוס משחילה מחברות אנושית מתועדת ואנומליות שיוריות נטענות ללא אימוץ מסגור חזק של תקשורת חוצנית"
 +++
 
-**Crop circles**, or **crop formations**, are large patterns produced by the systematic flattening of agricultural crops (principally wheat, barley, rapeseed, rye, corn, linseed, and soy) into geometric, mathematical, or symbolic designs. The contemporary phenomenon emerged principally in southern England during the late 1970s, with substantial subsequent geographic concentration in the Wiltshire region (the Avebury-Stonehenge-Silbury Hill-Alton Barnes area) and subsequent international occurrence.
+**מעגלי תבואה**, או **תצורות תבואה**, הם דפוסים גדולים המופקים על ידי השטחה שיטתית של גידולים חקלאיים (בעיקר חיטה, שעורה, לפתית, שיפון, תירס, פשתן וסויה) לעיצובים גיאומטריים, מתמטיים או סמליים. התופעה בת זמננו צמחה בעיקר בדרום אנגליה בסוף שנות השבעים, עם ריכוז גיאוגרפי מהותי שלאחר מכן באזור וילטשייר (אזור אייבברי-סטונהנג'-סילבורי היל-אולטון בארנס) והופעה בינלאומית שלאחר מכן.
 
-The phenomenon underwent substantive methodological transformation on **September 9, 1991**, when British men **Doug Bower** (1924-2020) and **Dave Chorley** (1922-1996) confessed in the *Today* newspaper to having created the principal early formations from 1978 onward. Bower and Chorley demonstrated their construction methodology — ropes, planks, and baseball caps fitted with sighting holes for alignment — and accounted for the substantial increase in formations across the 1980s. Their confession was substantively verified through demonstration: Bower and Chorley constructed a circle for journalists in approximately 45 minutes, with the resulting formation indistinguishable from the substantial preceding cases by visual inspection.
+התופעה עברה טרנספורמציה מתודולוגית מהותית ב-**9 בספטמבר 1991**, כאשר הבריטים **דאג באוור** (1924–2020) ו**דייב צ'ורלי** (1922–1996) הודו בעיתון *Today* כי יצרו את התצורות המוקדמות העיקריות החל מ-1978.{{ cite(id="round-in-circles-schnabel", text="[1]", title="שנבל, *Round in Circles* (1993) — דיווח עיתונאי על טרנספורמציית הדיסציפלינה לאורך וידוי באוור-צ'ורלי") }} באוור וצ'ורלי הדגימו את מתודולוגיית הבנייה שלהם — חבלים, קרשים וכובעי בייסבול מצוידים בחורי כיוון ליישור — והסבירו את העלייה המהותית בתצורות לאורך שנות השמונים. הווידוי שלהם אומת מהותית באמצעות הדגמה: באוור וצ'ורלי בנו מעגל לעיתונאים בכ-45 דקות, כאשר התצורה שנוצרה הייתה בלתי-ניתנת להבחנה מהמקרים המהותיים שקדמו לה באמצעות בדיקה ויזואלית.{{ footnote(id="1") }}
 
-The substantive subsequent emergence of organized circle-making groups across the 1990s — principally **Circlemakers** (founded by John Lundberg with Rod Dickinson, Wil Russell, and Rob Irving) and the **Team Satan** group (the broader collective from which Circlemakers emerged) — substantially shifted the mainstream-scientific framing toward principally human-made artistic-cultural phenomenon. The Circlemakers group has documented its construction methodology substantively (Rob Irving and John Lundberg's *The Field Guide: The Art, History and Philosophy of Crop Circle Making*, Strange Attractor Press, 2006), produced commissioned commercial circles for advertising and entertainment industry clients, and operated substantively as the principal documented circle-making organization across approximately three decades.
+הצמיחה המהותית שלאחר מכן של קבוצות יצירת מעגלים מאורגנות לאורך שנות התשעים — בעיקר **Circlemakers** (שנוסדה על ידי ג'ון לונדברג עם רוד דיקינסון, ויל ראסל ורוב אירווינג) וקבוצת **Team Satan** (הקולקטיב הרחב יותר שממנו צמחה Circlemakers) — הזיחה מהותית את המסגור המדעי-מיינסטרימי לכיוון תופעה אמנותית-תרבותית בעיקר עשויית-אדם. קבוצת Circlemakers תיעדה את מתודולוגיית הבנייה שלה מהותית (*The Field Guide: The Art, History and Philosophy of Crop Circle Making* של רוב אירווינג וג'ון לונדברג, Strange Attractor Press, 2006),{{ cite(id="the-field-guide-crop-circle-making", text="[2]", title="אירווינג ולונדברג, *The Field Guide: The Art, History and Philosophy of Crop Circle Making* (2006)") }} ייצרה מעגלים מסחריים בהזמנה עבור לקוחות תעשיית הפרסום והבידור, ופעלה מהותית כארגון יצירת המעגלים המתועד העיקרי לאורך כשלושה עשורים.
 
-The substantial subsequent debate has produced multiple frameworks for engaging the phenomenon:
+הדיון המהותי שלאחר מכן הפיק מסגרות מרובות למעורבות עם התופעה:
 
-- **The mainstream-scientific consensus** — crop circles are principally human-made through documented construction techniques. This is the substantively well-supported mainstream position.
-- **The "plasma vortex" hypothesis** — Terence Meaden's substantive 1980s-1990s articulation that natural atmospheric phenomena (specifically rotating columns of ionized plasma) could produce circular flattening patterns. Meaden articulated this principally in *The Circles Effect and Its Mysteries* (1989); the hypothesis was substantively abandoned across the 1990s as documented human-construction evidence accumulated and as formations became substantially more complex than the plasma-vortex framework could plausibly explain.
-- **The residual-anomaly research program** — the BLT Research Team (founded 1989 by John Burke, William Levengood, and Nancy Talbott; subsequently directed principally by Talbott) has produced substantial subsequent literature arguing that selected formations exhibit physical characteristics (node-bending patterns; magnetite distributions; electromagnetic anomalies; biophysical effects on crops) that cannot be explained through purely human construction. Eltjo Haselhoff's *The Deepening Complexity of Crop Circles* (Frog, 2001) and substantial subsequent published research engage this framework.
-- **The alternative-ufological frameworks** — substantial alternative ufology engages selected formations as substantively non-human-made communication content. Principal cases include the Chilbolton "Arecibo response" (August 2001), the Crabwood "alien face" (August 2002), and the substantial subsequent alternative-ufological tradition.
+- **הקונצנזוס המדעי-מיינסטרימי** — מעגלי תבואה הם בעיקר עשויי-אדם באמצעות טכניקות בנייה מתועדות. זוהי העמדה המיינסטרימית הנתמכת היטב מהותית.
+- **השערת »מערבולת הפלזמה«** — הניסוח המהותי של טרנס מידן משנות השמונים-תשעים לפיו תופעות אטמוספריות טבעיות (במיוחד עמודות מסתובבות של פלזמה מיוננת) עשויות להפיק דפוסי השטחה מעגליים. מידן ניסח זאת בעיקר ב-*The Circles Effect and Its Mysteries* (1989);{{ cite(id="the-circles-effect-meaden", text="[3]", title="מידן, *The Circles Effect and Its Mysteries* (1989) — הניסוח העיקרי של השערת מערבולת הפלזמה") }} ההשערה ננטשה מהותית לאורך שנות התשעים כאשר ראיות הבנייה האנושית המתועדות הצטברו וכאשר התצורות הפכו מורכבות מהותית יותר ממה שמסגרת מערבולת הפלזמה יכולה להסביר באופן סביר.{{ footnote(id="2") }}
+- **תוכנית מחקר האנומליה השיורית** — ה-BLT Research Team (שנוסדה ב-1989 על ידי ג'ון בורק, ויליאם לבנגוד וננסי טלבוט; בהמשך בניהול בעיקר של טלבוט) הפיקה ספרות מהותית שלאחר מכן הטוענת שתצורות נבחרות מציגות מאפיינים פיזיקליים (דפוסי כיפוף-צומת; התפלגויות מגנטיט; אנומליות אלקטרומגנטיות; השפעות ביופיזיות על גידולים) שאינם יכולים להיות מוסברים באמצעות בנייה אנושית טהורה.{{ cite(id="levengood-physiologia-plantarum-1994", text="[4]", title="לבנגוד, 'Anatomical Anomalies in Crop Formation Plants' (Physiologia Plantarum 1994)") }} *The Deepening Complexity of Crop Circles* של אלטיו האזלהוף (Frog, 2001){{ cite(id="the-deepening-complexity-crop-circles", text="[5]", title="האזלהוף, *The Deepening Complexity of Crop Circles* (2001)") }} ומחקר מהותי שלאחר מכן מתעסקים עם מסגרת זו.
+- **המסגרות האופולוגיות-חלופיות** — {% wiki(slug="ufology") %}אופולוגיה{% end %} חלופית מהותית מתעסקת עם תצורות נבחרות כתוכן תקשורת בלתי-עשוי-אדם מהותית. מקרים עיקריים כוללים את »תגובת אסיבו« של צ'ילבולטון (אוגוסט 2001), את »פני החייזר« של קראבווד (אוגוסט 2002),{{ cite(id="glimpses-of-other-realities", text="[6]", title="האו, *Glimpses of Other Realities* (1993–1998) — מעורבות אופולוגית-חלופית עם מקרי מעגלי תבואה נבחרים") }} ואת המסורת האופולוגית-חלופית המהותית שלאחר מכן.
 
-The Wheel of Heaven framework engages crop circles substantively with methodological care that distinguishes the corpus framework from the strong "all crop circles are alien-communication" framing that some alternative ufology adopts. The corpus position:
+מסגרת »גלגל השמיים« מתייחסת למעגלי תבואה באופן מהותי עם זהירות מתודולוגית המבדילה את מסגרת הקורפוס מהמסגור החזק »כל מעגלי התבואה הם תקשורת חוצנית« שאופולוגיה חלופית מסוימת מאמצת. עמדת הקורפוס:
 
-- **The substantial majority of contemporary crop circles are documented human-made formations.** The Bower-Chorley confession, the Circlemakers and Team Satan documentation, the substantial international circle-making tradition, and the substantial subsequent literature substantively establish human authorship as the principal explanation for the contemporary phenomenon.
-- **Substantive residual physical anomalies in selected formations remain unresolved.** The BLT Research Team work, the Haselhoff research, and substantial subsequent literature articulate specific physical observations that mainstream-scientific framework has not substantively explained. The corpus engages this work descriptively while flagging the methodologically contested status.
-- **The alleged extraterrestrial-communication content in specific formations operates within alternative-ufological framework.** The Chilbolton, Crabwood, and substantial subsequent communication-claim cases have not been substantively verified through mainstream-scientific methodology. The corpus engages these cases descriptively.
-- **The Vorilhon source articulates one specific case as substantively meaningful within corpus framework.** The *Message from the Designers* foreword references a crop circle that appeared in England bearing "an astonishing resemblance" to the small-scale embassy model that Raëlian architects had built. This is the principal specific corpus-internal engagement with crop circles.
-- **The broader phenomenon is engaged at descriptive level without substantive adoption as principal alliance-communication mechanism.** The corpus does not adopt the strong "crop circles are alliance messages" framing that some alternative ufology articulates. The substantive alliance-contact framework operates through the Vorilhon-source contact narrative (December 13, 1973 at Puy-de-Lassolas; October 7, 1975 transport to the home planet; subsequent contact events), with crop circles operating at most as occasional adjacent phenomenon rather than as principal communication channel.
+- **הרוב המהותי של מעגלי התבואה בני זמננו הם תצורות עשויות-אדם מתועדות.** וידוי באוור-צ'ורלי, תיעוד Circlemakers ו-Team Satan, המסורת הבינלאומית המהותית של יצירת מעגלים, והספרות המהותית שלאחר מכן מבססים מהותית את המחברות האנושית כהסבר העיקרי לתופעה בת זמננו.
+- **אנומליות פיזיקליות שיוריות מהותיות בתצורות נבחרות נותרות בלתי-פתורות.** עבודת ה-BLT Research Team, מחקר האזלהוף, והספרות המהותית שלאחר מכן מנסחים תצפיות פיזיקליות ספציפיות שהמסגרת המדעית-מיינסטרימית לא הסבירה מהותית. הקורפוס מתעסק עם עבודה זו תיאורית תוך הצבעה על המעמד המעורער מתודולוגית.{{ footnote(id="4") }}
+- **תוכן התקשורת החוץ-ארצית הנטען בתצורות ספציפיות פועל בתוך מסגרת אופולוגית חלופית.** צ'ילבולטון, קראבווד, ומקרי טענות-תקשורת מהותיים שלאחר מכן לא אומתו מהותית באמצעות מתודולוגיה מדעית-מיינסטרימית. הקורפוס מתעסק עם מקרים אלה תיאורית.{{ footnote(id="5") }}
+- **מקור וורילון מנסח מקרה ספציפי אחד כמשמעותי מהותית בתוך מסגרת הקורפוס.** הקדמת *מסר מהמתכננים* מתייחסת למעגל תבואה שהופיע באנגליה ונשא »דמיון מדהים« למודל ה{% wiki(slug="embassy") %}שגרירות{% end %} בקנה מידה קטן שהאדריכלים הראליאנים בנו.{{ cite(id="the-book-which-tells-the-truth", text="[7]", title="וורילון (ראל), הקדמת *מסר מהמתכננים* — הפניית מעגל-תבואה של דמיון-לשגרירות") }} זוהי המעורבות הספציפית העיקרית של הקורפוס עם מעגלי תבואה.
+- **התופעה הרחבה יותר מטופלת ברמה תיאורית ללא אימוץ מהותי כמנגנון תקשורת-ברית עיקרי.** הקורפוס אינו מאמץ את המסגור החזק »מעגלי תבואה הם מסרי ברית« שאופולוגיה חלופית מסוימת מנסחת. מסגרת מגע-הברית המהותית פועלת באמצעות נרטיב המגע ממקור וורילון (13 בדצמבר 1973 בפוי-דה-לסולה; 7 באוקטובר 1975 ההובלה לכוכב הלכת הביתי; אירועי מגע שלאחר מכן), כאשר מעגלי תבואה פועלים לכל היותר כתופעה צמודה מזדמנת ולא כערוץ תקשורת עיקרי.{{ footnote(id="6") }}
 
-This entry articulates crop circles carefully — the etymology and disciplinary scope, the principal historical development from late-1970s emergence through contemporary state, the principal documented cases, the 1991 Bower-Chorley confession and substantive subsequent methodological transformation, the principal organized circle-making community, the residual-anomaly research program, the principal alternative-ufological cases (particularly the Chilbolton Arecibo response and the Crabwood alien face), the substantial Wiltshire geographic concentration, the corpus engagement through the Vorilhon source, and the substantial broader cultural and artistic dimensions of the contemporary phenomenon.
+ערך זה מנסח את מעגלי התבואה בקפידה — האטימולוגיה והיקף הדיסציפלינה, ההתפתחות ההיסטורית העיקרית מצמיחת סוף שנות השבעים עד המצב בן זמננו, המקרים המתועדים העיקריים, וידוי באוור-צ'ורלי מ-1991 והטרנספורמציה המתודולוגית המהותית שלאחר מכן, קהילת יצירת המעגלים המאורגנת העיקרית, תוכנית מחקר האנומליה השיורית, המקרים האופולוגיים-חלופיים העיקריים (במיוחד תגובת אסיבו של צ'ילבולטון ופני החייזר של קראבווד), הריכוז הגיאוגרפי המהותי בווילטשייר, מעורבות הקורפוס באמצעות מקור וורילון, והממדים התרבותיים והאמנותיים הרחבים יותר של התופעה בת זמננו.
 
-## Etymology and scope
+## אטימולוגיה והיקף
 
-### Etymology
+### אטימולוגיה
 
-The term *crop circle* came into general use in the early 1980s as the British media engaged the substantial increase in reported formations across southern England. Earlier terms (the principal early 1980s designations included "corn circles," "pictograms," and "crop formations") have been substantially replaced by the standard contemporary designation.
+המונח *crop circle* (מעגל תבואה) נכנס לשימוש כללי בתחילת שנות השמונים כאשר המדיה הבריטית התעסקה עם העלייה המהותית בתצורות מדווחות ברחבי דרום אנגליה. מונחים מוקדמים יותר (הייעודים העיקריים של תחילת שנות השמונים כללו »corn circles«, »פיקטוגרמות« ו»תצורות תבואה«) הוחלפו מהותית בייעוד הסטנדרטי בן זמננו.
 
-The term combines:
+המונח מצרף:
 
-- **Crop** — referring to agricultural crops, principally cereals (wheat, barley, rye, oats) but also rapeseed (canola), corn (maize), linseed, soy, and other field crops
-- **Circle** — referring to the originally-circular form of early 1970s-1980s formations, retained as terminology even as subsequent formations have substantially expanded beyond strict circular geometry
+- **תבואה** — מתייחס לגידולים חקלאיים, בעיקר דגנים (חיטה, שעורה, שיפון, שיבולת שועל) אך גם לפתית (קנולה), תירס, פשתן, סויה וגידולי שדה אחרים
+- **מעגל** — מתייחס לצורה המעגלית במקור של תצורות תחילת שנות השבעים-שמונים, הנשמרת כטרמינולוגיה אף שהתצורות שלאחר מכן התרחבו מהותית מעבר לגיאומטריה מעגלית קפדנית
 
-The term is somewhat dated in retaining the "circle" designation despite the substantial subsequent complexity of formations including geometric, fractal, and figurative content. The alternative term **crop formation** is sometimes preferred in technical contexts. Both terms remain in active use.
+המונח מיושן במידה מסוימת בשמירתו על הייעוד »מעגל« למרות המורכבות המהותית שלאחר מכן של תצורות הכוללות תוכן גיאומטרי, פרקטלי ופיגורטיבי. המונח החלופי **תצורת תבואה** מועדף לעיתים בהקשרים טכניים. שני המונחים נותרים בשימוש פעיל.
 
-### Disciplinary scope
+### היקף דיסציפלינרי
 
-The phenomenon of crop circles encompasses several substantively distinguishable categories:
+תופעת מעגלי התבואה כוללת כמה קטגוריות הניתנות להבחנה מהותית:
 
-- **Documented human-made artistic formations.** The principal category — formations produced by organized circle-making groups (Circlemakers, Team Satan, international affiliates) operating as artistic-cultural practice. These formations are documented in the Circlemakers archive, the substantial subsequent literature, and the broader contemporary art-historical engagement.
-- **Commercial and commissioned formations.** Formations produced commercially for advertising, film production, music video production, and broader entertainment-industry applications. The Circlemakers group has produced substantial commercial work across approximately three decades.
-- **Hoax and prank formations.** Formations produced by individuals operating outside organized circle-making groups, principally as pranks or as deliberate attempts to deceive crop circle researchers.
-- **Substantively contested formations.** Formations whose authorship remains substantively contested in alternative-ufological and broader research contexts.
-- **Reportedly anomalous formations.** Formations exhibiting reported physical characteristics that the residual-anomaly research program (BLT, Haselhoff, others) argues cannot be explained through purely human construction.
+- **תצורות אמנותיות עשויות-אדם מתועדות.** הקטגוריה העיקרית — תצורות המופקות על ידי קבוצות יצירת מעגלים מאורגנות (Circlemakers, Team Satan, שותפים בינלאומיים) הפועלות כפרקטיקה אמנותית-תרבותית. תצורות אלו מתועדות בארכיון Circlemakers, בספרות המהותית שלאחר מכן, ובמעורבות האמנותית-היסטורית הרחבה יותר בת זמננו.
+- **תצורות מסחריות ובהזמנה.** תצורות המופקות מסחרית עבור פרסום, הפקת סרטים, הפקת קליפים, ויישומי תעשיית בידור רחבים יותר. קבוצת Circlemakers הפיקה עבודה מסחרית מהותית לאורך כשלושה עשורים.
+- **תצורות מתיחה ועיקול.** תצורות המופקות על ידי יחידים הפועלים מחוץ לקבוצות יצירת מעגלים מאורגנות, בעיקר כמתיחות או כניסיונות מכוונים להטעות חוקרי מעגלי תבואה.
+- **תצורות מעורערות מהותית.** תצורות שמחברותן נותרת מעורערת מהותית בהקשרים אופולוגיים-חלופיים ומחקריים רחבים יותר.
+- **תצורות אנומליות לכאורה.** תצורות המציגות מאפיינים פיזיקליים מדווחים שתוכנית מחקר האנומליה השיורית (BLT, האזלהוף, אחרים) טוענת שאינם יכולים להיות מוסברים באמצעות בנייה אנושית טהורה.
 
-The substantive methodological challenge: distinguishing across these categories requires substantive forensic investigation that has been conducted inconsistently across the phenomenon's history.
+האתגר המתודולוגי המהותי: ההבחנה בין קטגוריות אלו דורשת חקירה פורנזית מהותית שנערכה באופן בלתי-עקבי לאורך תולדות התופעה.
 
-### Distinguishing related phenomena
+### הבחנה בין תופעות נלוות
 
-Crop circles should be distinguished from several adjacent phenomena:
+יש להבחין בין מעגלי תבואה לבין כמה תופעות סמוכות:
 
-- **Crop damage from natural causes.** Lodging (the substantial flattening of cereal crops due to wind, rain, or weight-induced collapse) produces broadly similar visual appearance but typically without the geometric precision of crop circles. Natural crop damage from animal activity (deer beds, fox runs) produces smaller-scale localized damage substantially different from crop circle formations.
-- **Aerial-phenomenon-with-ground-trace cases.** Cases involving reported UFO/UAP sightings accompanied by ground-level evidence (landing marks, electromagnetic effects, physical traces) operate as substantively different ufology category, treated in the [Ufology](../ufology/) entry. The 1966 Tully Saucer Nests case (treated below) is one principal example.
-- **The 1678 Mowing Devil pamphlet.** The pamphlet documenting a supernatural mowing event in Hertfordshire is substantively different category — the pamphlet describes a devil cutting standing crops cleanly (a mowing rather than a flattening event), which is methodologically distinct from the modern crop-circle phenomenon despite frequent citation as precedent.
-- **Ice circles.** Naturally occurring circular formations of rotating ice in slow-moving water, sometimes cited as parallel natural phenomenon; the substantive natural-physical mechanism operates principally through ice formation rather than vegetation flattening.
+- **נזק לתבואה מסיבות טבעיות.** קריסה (ההשטחה המהותית של גידולי דגנים עקב רוח, גשם או קריסה הנגרמת ממשקל) מפיקה מראה ויזואלי דומה באופן רחב אך בדרך כלל ללא הדיוק הגיאומטרי של מעגלי תבואה. נזק טבעי לתבואה מפעילות בעלי חיים (מצעי צבאים, מסלולי שועלים) מפיק נזק מקומי בקנה מידה קטן יותר השונה מהותית מתצורות מעגלי תבואה.
+- **מקרי תופעה-אווירית-עם-עקבות-קרקעיות.** מקרים הכוללים תצפיות UFO/UAP מדווחות המלוות בראיות ברמת הקרקע (סימני נחיתה, השפעות אלקטרומגנטיות, עקבות פיזיקליים) פועלים כקטגוריית אופולוגיה שונה מהותית, המטופלת בערך {% wiki(slug="ufology") %}אופולוגיה{% end %}. מקרה Tully Saucer Nests מ-1966 (המטופל להלן) הוא דוגמה עיקרית אחת.
+- **חוברת ה-Mowing Devil מ-1678.** החוברת המתעדת אירוע קציר על-טבעי בהרטפורדשייר היא קטגוריה שונה מהותית — החוברת מתארת שטן (Mowing Devil, »שטן הקציר«) החותך גידולים עומדים בצורה נקייה (אירוע קציר ולא אירוע השטחה), השונה מתודולוגית מתופעת מעגל-התבואה המודרנית למרות ציטוט תכוף כתקדים.{{ footnote(id="3") }}
+- **מעגלי קרח.** תצורות מעגליות המופיעות באופן טבעי של קרח מסתובב במים זורמים לאט, המצוטטות לעיתים כתופעה טבעית מקבילה; המנגנון הטבעי-פיזיקלי המהותי פועל בעיקר באמצעות היווצרות קרח ולא השטחת צמחייה.
 
-## Principal historical development
+## ההתפתחות ההיסטורית העיקרית
 
-The contemporary crop circle phenomenon has a substantive history that warrants articulation across distinct phases.
+לתופעת מעגלי התבואה בת זמננו יש תולדות מהותיים המצדיקים ניסוח על פני שלבים מובחנים.
 
-### Pre-1970s background
+### רקע טרום-שנות השבעים
 
-The substantive question of whether crop-circle-like phenomena existed before the 1970s remains substantively contested. The principal cited pre-1970s evidence:
+השאלה המהותית האם תופעות דמויות מעגל-תבואה התקיימו לפני שנות השבעים נותרת מעורערת מהותית. הראיות הטרום-שנות-שבעים העיקריות המצוטטות:
 
-**The 1678 Mowing Devil pamphlet.** The pamphlet "The Mowing-Devil: Or, Strange News out of Hartford-shire" (1678) describes a supernatural mowing event in which a farmer who refused a mower's price reportedly said he would rather have the Devil mow his field; the field was subsequently found mowed overnight. The pamphlet's woodcut illustration depicts a devil mowing a field in a circular pattern.
+**חוברת ה-Mowing Devil מ-1678.** החוברת »The Mowing-Devil: Or, Strange News out of Hartford-shire« (1678) מתארת אירוע קציר על-טבעי שבו איכר שסירב למחיר של קוצר לפי הדיווח אמר שהוא מעדיף שהשטן יקצור את שדהו; השדה נמצא לאחר מכן קצור בן לילה. איור החיתוך של החוברת מתאר שטן הקוצר שדה בדפוס מעגלי.
 
-The Mowing Devil case is methodologically contested as crop-circle precedent. The substantive methodological objections:
+מקרה ה-Mowing Devil מעורער מתודולוגית כתקדים למעגל-תבואה. ההתנגדויות המתודולוגיות המהותיות:
 
-- **The pamphlet describes mowing, not flattening.** The Mowing Devil event involves cutting standing crops cleanly — substantively different from the flattening that characterizes modern crop circles.
-- **The pamphlet operates within 17th-century pamphlet-literature conventions.** The substantial 17th-century English broadsheet tradition produced extensive supernatural-prodigy literature with substantial moral-allegorical framing; the Mowing Devil pamphlet operates within this tradition rather than as straightforward eyewitness journalism.
-- **The substantive scholarship is divided.** Bob Trubshaw, Jeremy Harte, and substantial folkloric scholarship have engaged the Mowing Devil within 17th-century pamphlet conventions; crop circle researchers have engaged it as evidence of pre-modern crop circles.
+- **החוברת מתארת קציר, לא השטחה.** אירוע ה-Mowing Devil כולל חיתוך גידולים עומדים בצורה נקייה — שונה מהותית מההשטחה המאפיינת מעגלי תבואה מודרניים.
+- **החוברת פועלת בתוך מוסכמות ספרות-חוברות של המאה השבע-עשרה.** מסורת חוברות הסקופ האנגלית המהותית של המאה השבע-עשרה הפיקה ספרות פלאים-על-טבעיים נרחבת עם מסגור מוסרי-אלגורי מהותי;{{ cite(id="providence-in-early-modern-england", text="[8]", title="וולשם, *Providence in Early Modern England* (1999) — טיפול יסודי של מסורת חוברות הפלאים-על-טבעיים של המאה השבע-עשרה") }} חוברת ה-Mowing Devil פועלת בתוך מסורת זו ולא כעיתונאות עדות-ראייה ישירה.{{ cite(id="miracles-and-the-pulp-press", text="[9]", title="פרידמן, *Miracles and the Pulp Press during the English Revolution* (1993)") }}
+- **המחקר המהותי חלוק.** בוב טרובשו, ג'רמי הארטה ומחקר פולקלוריסטי מהותי התעסקו עם ה-Mowing Devil בתוך מוסכמות חוברות המאה השבע-עשרה; חוקרי מעגלי תבואה התעסקו בו כראיה למעגלי תבואה טרום-מודרניים.
 
-The corpus position: the Mowing Devil case is substantively different category from modern crop circles and should not operate as straightforward precedent in disciplinary history.
+עמדת הקורפוס: מקרה ה-Mowing Devil הוא קטגוריה שונה מהותית ממעגלי תבואה מודרניים ואינו אמור לתפקד כתקדים ישיר בתולדות הדיסציפלינה.
 
-**The 1966 Tully Saucer Nests.** On January 19, 1966, banana farmer George Pedley reported observing a UFO rising from a swampy lagoon area near Tully, Queensland, Australia. Investigating the site, Pedley found a roughly circular area (approximately 30 feet diameter) of flattened reeds. The case was investigated by Queensland police and is documented in substantial subsequent ufology literature.
+**Tully Saucer Nests מ-1966.** ב-19 בינואר 1966, איכר הבננות ג'ורג' פדלי דיווח על תצפית של UFO עולה מאזור לגונה ביצתית ליד טאלי, קווינסלנד, אוסטרליה. בחקירת האתר, פדלי מצא אזור מעגלי בקירוב (קוטר של כ-30 רגל) של קני סוף משוטחים. המקרה נחקר על ידי משטרת קווינסלנד ומתועד בספרות אופולוגית מהותית שלאחר מכן.
 
-The Tully Saucer Nests case is substantively important as one of the principal pre-1970s aerial-phenomenon-with-ground-trace cases. The substantive distinction from modern crop circles: the Tully case operates principally as a UFO sighting with associated ground trace (the reed-flattening as effect of the observed craft) rather than as standalone crop-formation phenomenon.
+מקרה Tully Saucer Nests חשוב מהותית כאחד מהמקרים העיקריים של תופעה-אווירית-עם-עקבות-קרקעיות שלפני שנות השבעים. ההבחנה המהותית ממעגלי תבואה מודרניים: מקרה טאלי פועל בעיקר כתצפית UFO עם עקבה קרקעית מלווה (השטחת קני הסוף כאפקט של החללית הנצפית) ולא כתופעת תצורת-תבואה עצמאית.
 
-**Other pre-1970s cases.** Substantial pre-1970s reports of similar phenomena exist (the substantial Warminster "Thing" phenomenon in 1960s England producing reports of unexplained noises and crop damage; substantial subsequent reports across multiple international contexts). The substantive methodological challenge: these reports operate principally within local cultural contexts without the systematic documentation that the post-1970s phenomenon has produced.
+**מקרים טרום-שנות-שבעים אחרים.** קיימים דיווחים מהותיים טרום-שנות-שבעים על תופעות דומות (תופעת »Thing« של וורמינסטר המהותית באנגליה של שנות השישים שהפיקה דיווחים על רעשים בלתי-מוסברים ונזק לתבואה; דיווחים מהותיים שלאחר מכן על פני הקשרים בינלאומיים מרובים). האתגר המתודולוגי המהותי: דיווחים אלה פועלים בעיקר בתוך הקשרים תרבותיים מקומיים ללא התיעוד השיטתי שהפיקה התופעה שלאחר שנות השבעים.
 
-### The late-1970s emergence
+### צמיחת סוף שנות השבעים
 
-The contemporary phenomenon emerged principally in southern England across the late 1970s, with substantial increase in reported formations across the 1980s. Principal early documented formations:
+התופעה בת זמננו צמחה בעיקר בדרום אנגליה לאורך סוף שנות השבעים, עם עלייה מהותית בתצורות מדווחות לאורך שנות השמונים. תצורות מתועדות מוקדמות עיקריות:
 
-- **The Cheesefoot Head formations (Hampshire, 1976-1978).** Among the principal early documented modern formations.
-- **The Westbury White Horse formations (Wiltshire, 1980).** Substantial early-phase formations near the prehistoric chalk hill figure.
-- **The Punchbowl formation (Cheesefoot Head, August 1981).** Substantial formation that received substantial subsequent media coverage and operated as one of the principal early publicly-known cases.
+- **תצורות צ'יזפוט הד (המפשייר, 1976–1978).** בין התצורות המודרניות המתועדות המוקדמות העיקריות.
+- **תצורות הסוס הלבן של ווסטברי (וילטשייר, 1980).** תצורות שלב מוקדם מהותיות סמוך לדמות הגיר הפרהיסטורית של הגבעה.
+- **תצורת Punchbowl (צ'יזפוט הד, אוגוסט 1981).** תצורה מהותית שזכתה לסיקור תקשורתי מהותי שלאחר מכן ופעלה כאחד מהמקרים הציבוריים המוקדמים העיקריים הידועים.
 
-The principal British researchers engaged with the early-phase phenomenon included Pat Delgado, Colin Andrews, Terence Meaden, and George Wingfield. Delgado and Andrews's *Circular Evidence* (1989) operated as the principal early book-length engagement and substantially shaped popular and research engagement with the phenomenon.
+החוקרים הבריטיים העיקריים שהתעסקו עם תופעת השלב המוקדם כללו את פאט דלגדו, קולין אנדרוס, טרנס מידן וג'ורג' ווינגפילד. *Circular Evidence* של דלגדו ואנדרוס (1989){{ cite(id="circular-evidence", text="[10]", title="דלגדו ואנדרוס, *Circular Evidence* (1989) — טיפול יסודי של מעגלי תבואה לפני הווידוי") }} פעל כמעורבות הראשונית באורך-ספר ועיצב מהותית את המעורבות הפופולרית והמחקרית עם התופעה.
 
-### The 1980s expansion
+### ההתפשטות של שנות השמונים
 
-Across the 1980s, the substantial increase in reported formations included:
+לאורך שנות השמונים, העלייה המהותית בתצורות מדווחות כללה:
 
-- **Substantial increase in frequency.** From approximately a dozen reported formations in 1981 to several hundred reported formations by the late 1980s.
-- **Substantial increase in complexity.** Early formations were principally simple circles; subsequent formations developed substantial geometric, mathematical, and pictographic complexity.
-- **Substantial geographic concentration.** Approximately 80% of reported formations occurred in southern England, with substantial subsequent concentration in Wiltshire.
-- **Substantial subsequent international occurrence.** Reports emerged from the United States, Canada, Australia, Germany, France, the Netherlands, Japan, and substantial other international contexts across the late 1980s and 1990s.
+- **עלייה מהותית בתדירות.** מכעשרה תצורות מדווחות ב-1981 ועד מספר מאות תצורות מדווחות בסוף שנות השמונים.
+- **עלייה מהותית במורכבות.** תצורות מוקדמות היו בעיקר מעגלים פשוטים; תצורות שלאחר מכן פיתחו מורכבות גיאומטרית, מתמטית ופיקטוגרפית מהותית.
+- **ריכוז גיאוגרפי מהותי.** כ-80% מהתצורות המדווחות התרחשו בדרום אנגליה, עם ריכוז מהותי שלאחר מכן בווילטשייר.
+- **הופעה בינלאומית מהותית שלאחר מכן.** דיווחים צצו מארצות הברית, קנדה, אוסטרליה, גרמניה, צרפת, הולנד, יפן והקשרים בינלאומיים מהותיים אחרים לאורך סוף שנות השמונים ושנות התשעים.
 
-### The 1991 Bower-Chorley confession
+### וידוי באוור-צ'ורלי מ-1991
 
-On September 9, 1991, British men Doug Bower and Dave Chorley confessed in the British tabloid newspaper *Today* to having created the principal early modern crop circle formations from 1978 onward. The substantive content of their confession:
+ב-9 בספטמבר 1991, הבריטים דאג באוור ודייב צ'ורלי הודו בעיתון הטאבלואיד הבריטי *Today* כי יצרו את תצורות מעגלי התבואה המודרניות המוקדמות העיקריות החל מ-1978. התוכן המהותי של וידוייהם:
 
-- **The 1976 origin.** Bower and Chorley articulated that they began making crop circles in 1976 after Bower had heard the Tully Saucer Nests case and suggested they create similar formations for amusement.
-- **The construction methodology.** Their principal technique used a wooden plank attached to a rope, with the maker walking in a circle while stepping the plank along the ground to flatten crops. Sighting through baseball caps with holes drilled in the brims allowed precise geometric alignment.
-- **The substantive output.** Bower and Chorley estimated they had created approximately 200 formations across 1976-1991, principally in southern England.
-- **The demonstration.** Bower and Chorley demonstrated their technique for journalists, constructing a crop circle in approximately 45 minutes. The resulting formation was shown to crop circle researchers without their knowledge of the construction; the researchers identified the formation as genuine, substantively confirming the methodological viability of human construction.
+- **המקור ב-1976.** באוור וצ'ורלי ניסחו כי החלו ליצור מעגלי תבואה ב-1976 לאחר שבאוור שמע על מקרה Tully Saucer Nests והציע שייצרו תצורות דומות לבידור.
+- **מתודולוגיית הבנייה.** הטכניקה העיקרית שלהם השתמשה בקרש עץ מחובר לחבל, כאשר היוצר הולך במעגל תוך הצעדת הקרש לאורך הקרקע להשטחת הגידולים. כיוון דרך כובעי בייסבול עם חורים קדוחים בשוליהם איפשר יישור גיאומטרי מדויק.
+- **התפוקה המהותית.** באוור וצ'ורלי העריכו כי יצרו כ-200 תצורות לאורך 1976–1991, בעיקר בדרום אנגליה.
+- **ההדגמה.** באוור וצ'ורלי הדגימו את הטכניקה שלהם בפני עיתונאים, בונים מעגל תבואה בכ-45 דקות. התצורה שנוצרה הוצגה לחוקרי מעגלי תבואה ללא ידיעתם על הבנייה; החוקרים זיהו את התצורה כאותנטית, מאששים מהותית את הכדאיות המתודולוגית של בנייה אנושית.
 
-The Bower-Chorley confession substantively transformed the discipline's methodological framing. The substantive implications:
+וידוי באוור-צ'ורלי שינה מהותית את המסגור המתודולוגי של הדיסציפלינה. ההשלכות המהותיות:
 
-- **The principal early-phase formations are documented as human-made.** Cases that had been engaged as substantively unexplained in the 1980s literature are now documented through perpetrator confession and demonstrated construction methodology.
-- **Construction methodology is demonstrated as viable.** The substantive question of whether complex formations could be produced by human construction in available time-windows is substantively answered through demonstration.
-- **The substantial geographic concentration becomes consistent with organized circle-making activity.** The substantial Wiltshire concentration is substantively consistent with the substantial geographic concentration of organized circle-making activity in the region.
-- **The mainstream-scientific framing shifts substantively.** Mainstream press coverage and substantial subsequent literature engage crop circles principally as human-made artistic-cultural phenomenon following the confession.
+- **התצורות העיקריות של השלב המוקדם מתועדות כעשויות-אדם.** מקרים שהתעסקו עמם כבלתי-מוסברים מהותית בספרות שנות השמונים מתועדים כעת באמצעות וידוי המבצע ומתודולוגיית בנייה מודגמת.
+- **מתודולוגיית הבנייה מוכחת ככדאית.** השאלה המהותית האם תצורות מורכבות יכולות להיווצר על ידי בנייה אנושית בחלונות-זמן זמינים נענית מהותית באמצעות הדגמה.
+- **הריכוז הגיאוגרפי המהותי הופך לעקבי עם פעילות יצירת מעגלים מאורגנת.** הריכוז המהותי בווילטשייר עקבי מהותית עם הריכוז הגיאוגרפי המהותי של פעילות יצירת מעגלים מאורגנת באזור.
+- **המסגור המדעי-מיינסטרימי מוזח מהותית.** סיקור עיתונות מיינסטרימית וספרות מהותית שלאחר מכן מתעסקים עם מעגלי תבואה בעיקר כתופעה אמנותית-תרבותית עשויית-אדם בעקבות הווידוי.
 
-### The post-1991 development
+### ההתפתחות שלאחר 1991
 
-Following the Bower-Chorley confession, the contemporary crop circle phenomenon has developed across several substantive directions:
+בעקבות וידוי באוור-צ'ורלי, תופעת מעגלי התבואה בת זמננו התפתחה לאורך כמה כיוונים מהותיים:
 
-- **The organized circle-making community has emerged publicly.** Circlemakers (founded by John Lundberg with Rod Dickinson, Wil Russell, and Rob Irving in approximately 1996; the broader Team Satan collective operating from approximately 1992) operates substantively as the principal documented contemporary circle-making organization.
-- **Commercial circle-making has substantively developed.** The Circlemakers group has produced substantial commercial work for advertising clients (Microsoft, Mitsubishi, Pepsi, Nike, Greenpeace, others), film production (the 2002 M. Night Shyamalan film *Signs*; substantial others), and broader entertainment-industry applications.
-- **Formation complexity has substantively increased.** Contemporary formations include substantial fractal patterns (the Julia Set 1996; the Etchilhampton 1997), substantial three-dimensional optical illusions (the Long Wood 2021), substantial mathematical-encoded patterns (the substantial Pi-encoded formation 2008), substantial pictographic content (the Crabwood 2002 alien face), and substantial broader artistic content.
-- **The residual-anomaly research program has continued.** The BLT Research Team, Eltjo Haselhoff, and substantial subsequent researchers continue investigation of selected formations.
-- **The alternative-ufological framework has continued.** Selected cases (Chilbolton 2001; Crabwood 2002; substantial subsequent cases) continue to be engaged as substantively non-human-made communication content in alternative-ufological literature.
+- **קהילת יצירת המעגלים המאורגנת צמחה בפומבי.** Circlemakers (שנוסדה על ידי ג'ון לונדברג עם רוד דיקינסון, ויל ראסל ורוב אירווינג בערך ב-1996; הקולקטיב הרחב יותר Team Satan פועל מערך 1992) פועלת מהותית כארגון יצירת המעגלים המתועד העיקרי בן זמננו.
+- **יצירת מעגלים מסחרית התפתחה מהותית.** קבוצת Circlemakers הפיקה עבודה מסחרית מהותית עבור לקוחות פרסום (מיקרוסופט, מיצובישי, פפסי, נייקי, גרינפיס, אחרים), הפקת סרטים (סרטו של מ. נייט שיאמלאן מ-2002 *Signs*; אחרים מהותיים), ויישומי תעשיית בידור רחבים יותר.
+- **מורכבות התצורה עלתה מהותית.** תצורות בנות זמננו כוללות דפוסים פרקטליים מהותיים (Julia Set 1996; Etchilhampton 1997), אשליות אופטיות תלת-ממדיות מהותיות (Long Wood 2021), דפוסים מקודדי-מתמטיקה מהותיים (תצורת קידוד-Pi המהותית 2008), תוכן פיקטוגרפי מהותי (פני החייזר של קראבווד 2002) ותוכן אמנותי רחב מהותי.
+- **תוכנית מחקר האנומליה השיורית המשיכה.** ה-BLT Research Team, אלטיו האזלהוף, וחוקרים מהותיים שלאחר מכן ממשיכים בחקירת תצורות נבחרות.
+- **המסגרת האופולוגית-חלופית המשיכה.** מקרים נבחרים (צ'ילבולטון 2001; קראבווד 2002; מקרים מהותיים שלאחר מכן) ממשיכים להיות מתועסקים כתוכן תקשורת בלתי-עשוי-אדם מהותית בספרות אופולוגית-חלופית.{{ cite(id="crop-circles-signs-of-contact", text="[11]", title="אנדרוס וספיניסי, *Crop Circles: Signs of Contact* (2003)") }}
 
-The contemporary phenomenon operates substantively as a complex cultural-artistic-research situation rather than as a straightforward unexplained phenomenon. The mainstream-scientific framing engages crop circles principally as documented human-made artistic-cultural practice with substantial residual-anomaly questions that remain methodologically contested.
+התופעה בת זמננו פועלת מהותית כמצב תרבותי-אמנותי-מחקרי מורכב ולא כתופעה בלתי-מוסברת ישירה. המסגור המדעי-מיינסטרימי מתעסק עם מעגלי תבואה בעיקר כפרקטיקה אמנותית-תרבותית עשויית-אדם מתועדת עם שאלות אנומליה שיורית מהותיות שנותרות מעורערות מתודולוגית.{{ cite(id="real-life-x-files-nickell", text="[12]", title="ניקל, *Real-Life X-Files* (2001) — מעורבות סקפטית שיטתית עם טענות פראנורמליות כולל מעגלי תבואה") }}
 
-## Characteristics
+## מאפיינים
 
-Crop circles exhibit characteristic features that warrant systematic articulation.
+מעגלי תבואה מציגים תכונות מאפיינות המצדיקות ניסוח שיטתי.
 
-### Geometric properties
+### תכונות גיאומטריות
 
-Contemporary crop circles typically exhibit:
+מעגלי תבואה בני זמננו מציגים בדרך כלל:
 
-- **Precise geometric relationships.** Most formations operate within substantive geometric framework — circles, polygons, fractals, mandalas, geometric solids viewed orthographically.
-- **Substantial scale.** Formations range from substantially small (under 10 meters diameter) to substantially large (the principal Milk Hill 2001 formation spanning approximately 240 meters across).
-- **Substantial mathematical content.** Selected formations encode substantive mathematical content — the Julia Set 1996 fractal; the Pi-encoded Wiltshire 2008 formation; the substantial geometric-proportional content in numerous formations.
-- **Substantial symbolic content.** Selected formations operate principally through symbolic content — sacred geometric forms (Flower of Life patterns); astronomical content (solar system diagrams; lunar phase patterns); pictographic content (figurative imagery).
+- **יחסים גיאומטריים מדויקים.** רוב התצורות פועלות בתוך מסגרת גיאומטרית מהותית — מעגלים, מצולעים, פרקטלים, מנדלות, גופים גיאומטריים הנראים אורתוגרפית.
+- **קנה מידה מהותי.** התצורות נעות מקטנות מהותית (קוטר מתחת ל-10 מטרים) עד גדולות מהותית (תצורת מילק היל העיקרית מ-2001 משתרעת על פני כ-240 מטרים).
+- **תוכן מתמטי מהותי.** תצורות נבחרות מקודדות תוכן מתמטי מהותי — הפרקטל Julia Set 1996; תצורת קידוד-Pi של וילטשייר 2008; התוכן הגיאומטרי-פרופורציונלי המהותי בתצורות רבות.
+- **תוכן סמלי מהותי.** תצורות נבחרות פועלות בעיקר באמצעות תוכן סמלי — {% wiki(slug="sacred-geometry") %}צורות גיאומטריה קדושה{% end %} (דפוסי פרח החיים); תוכן אסטרונומי (דיאגרמות של מערכת השמש; דפוסי פאזות הירח); תוכן פיקטוגרפי (דימויים פיגורטיביים).
 
-### Physical characteristics
+### מאפיינים פיזיקליים
 
-Crop circles exhibit characteristic physical features:
+מעגלי תבואה מציגים תכונות פיזיקליות מאפיינות:
 
-- **Bent rather than broken stalks.** In contemporary documented formations, crop stalks are typically bent rather than broken at the base or at the lower nodes. The bending is consistent with the documented plank-and-rope construction technique.
-- **Flow patterns.** The flattened crops typically lie in consistent directional flow patterns, with substantial subsequent layering in complex formations.
-- **Standing-crop residual elements.** Contemporary formations frequently incorporate standing-crop elements (tufts, paths, intermediate-height bands) as artistic features.
-- **Edge precision.** The boundary between flattened and standing crops is typically substantially sharp, with crisp edges that distinguish crop circles from natural lodging damage.
+- **גבעולים מכופפים ולא שבורים.** בתצורות בנות זמננו מתועדות, גבעולי תבואה בדרך כלל מכופפים ולא שבורים בבסיס או בצמתים התחתונים. הכיפוף עקבי עם טכניקת הבנייה המתועדת של קרש וחבל.
+- **דפוסי זרימה.** הגידולים המשוטחים שוכבים בדרך כלל בדפוסי זרימה כיווניים עקביים, עם שכבות מהותיות שלאחר מכן בתצורות מורכבות.
+- **רכיבי תבואה עומדים שיוריים.** תצורות בנות זמננו משלבות תכופות רכיבי תבואה עומדים (קווצות, שבילים, פסים בגובה ביניים) כתכונות אמנותיות.
+- **דיוק קצה.** הגבול בין גידולים משוטחים לעומדים בדרך כלל חד מהותית, עם קצוות פריכים המבדילים מעגלי תבואה מנזק קריסה טבעי.
 
-### Alleged residual anomalies
+### אנומליות שיוריות נטענות
 
-The residual-anomaly research program (BLT, Haselhoff, others) articulates additional reported physical characteristics that the research program argues cannot be explained through purely human construction:
+תוכנית מחקר האנומליה השיורית (BLT, האזלהוף, אחרים) מנסחת מאפיינים פיזיקליים מדווחים נוספים שתוכנית המחקר טוענת שאינם יכולים להיות מוסברים באמצעות בנייה אנושית טהורה:
 
-- **Node-elongation patterns.** William Levengood (BLT Research Team) articulated that crops in selected formations exhibit substantial node elongation patterns consistent with brief intense heating, principally attributed to microwave radiation. Eltjo Haselhoff's published research (*Physiologia Plantarum*, 2001) extended this engagement.
-- **Magnetite distribution patterns.** Levengood and the BLT team articulated substantial concentrations of small iron spherules (magnetite) in soil samples from selected formations, principally attributed to micrometeoroid impact-melting during formation creation.
-- **Crop alignment with apparent precision.** Selected formations exhibit substantial precision in crop alignment that the research program argues exceeds plausible human-construction capability.
-- **Electromagnetic anomalies.** Reports of substantial electromagnetic effects (compass deviations, instrument malfunctions, biological effects on humans entering formations) have been documented in selected cases.
+- **דפוסי התארכות-צומת.** ויליאם לבנגוד (BLT Research Team) ניסח שגידולים בתצורות נבחרות מציגים דפוסי התארכות צומת מהותיים העקביים עם חימום אינטנסיבי קצר, המיוחס בעיקר לקרינת מיקרוגל. המחקר המפורסם של אלטיו האזלהוף (*Physiologia Plantarum*, 2001){{ cite(id="haselhoff-physiologia-plantarum-2001", text="[13]", title="האזלהוף, *Physiologia Plantarum* (2001) — הרחבה מבוקרת עמיתים של ניתוח כיפוף-הצומת של לבנגוד") }} הרחיב את המעורבות הזו.
+- **דפוסי התפלגות מגנטיט.** לבנגוד וצוות BLT ניסחו ריכוזים מהותיים של כדוריות ברזל קטנות (מגנטיט) בדגימות קרקע מתצורות נבחרות, המיוחסים בעיקר לחימום-המסה של מטאוריטים מיקרוסקופיים במהלך יצירת התצורה.
+- **יישור גידולים בדיוק לכאורה.** תצורות נבחרות מציגות דיוק מהותי ביישור גידולים שתוכנית המחקר טוענת שחורג מיכולת בנייה אנושית סבירה.
+- **אנומליות אלקטרומגנטיות.** דיווחים על השפעות אלקטרומגנטיות מהותיות (סטיות מצפן, תקלות במכשירים, השפעות ביולוגיות על בני אדם הנכנסים לתצורות) תועדו במקרים נבחרים.
 
-The substantive methodological status: the residual-anomaly research is published in peer-reviewed literature (Haselhoff's *Physiologia Plantarum* article principally) but remains substantively contested in broader mainstream-scientific framework. The substantive critique includes substantive concerns about sampling methodology, controls, statistical analysis, and the substantial methodological challenge of distinguishing genuine anomalies from selection-bias effects.
+המעמד המתודולוגי המהותי: מחקר האנומליה השיורית פורסם בספרות מבוקרת עמיתים (בעיקר מאמרו של האזלהוף ב-*Physiologia Plantarum*) אך נותר מעורער מהותית במסגרת המדעית-מיינסטרימית הרחבה יותר.{{ cite(id="nickell-levengood-skeptical-inquirer-1996", text="[14]", title="ניקל, 'Levengood's Crop-Circle Plant Research' (Skeptical Inquirer 1996)") }} הביקורת המהותית כוללת חששות מהותיים לגבי מתודולוגיית דגימה, בקרות, ניתוח סטטיסטי, והאתגר המתודולוגי המהותי של הבחנה בין אנומליות אותנטיות להשפעות הטיית-בחירה.
 
-The corpus position on the residual-anomaly research: the work is substantive scholarly engagement worth descriptive treatment; the substantial questions about methodology and statistical controls warrant honest acknowledgment; the work has not substantively established the strong "crop circles cannot be explained through human construction" position the residual-anomaly research program advances.
+עמדת הקורפוס על מחקר האנומליה השיורית: העבודה היא מעורבות מחקרית מהותית הראויה לטיפול תיאורי; השאלות המהותיות על מתודולוגיה ובקרות סטטיסטיות מצדיקות הכרה כנה; העבודה לא ביססה מהותית את העמדה החזקה »מעגלי תבואה אינם יכולים להיות מוסברים באמצעות בנייה אנושית« שתוכנית מחקר האנומליה השיורית מקדמת.
 
-## Principal documented cases
+## מקרים מתועדים עיקריים
 
-The substantial body of documented crop circle cases includes principal cases that have shaped disciplinary engagement.
+הגוף המהותי של מקרי מעגלי תבואה מתועדים כולל מקרים עיקריים שעיצבו את המעורבות הדיסציפלינרית.
 
-### The Mowing Devil (1678)
+### Mowing Devil (1678)
 
-Treated above in *Pre-1970s background*. The 1678 Hertfordshire pamphlet operating within 17th-century supernatural-prodigy pamphlet tradition; contested as crop-circle precedent.
+מטופל לעיל ב*רקע טרום-שנות-שבעים*. חוברת הרטפורדשייר מ-1678 הפועלת בתוך מסורת חוברות הפלאים-העל-טבעיים של המאה השבע-עשרה; מעורערת כתקדים למעגל-תבואה.
 
-### The Tully Saucer Nests (1966)
+### Tully Saucer Nests (1966)
 
-Treated above in *Pre-1970s background*. The January 19, 1966 Australian case involving farmer George Pedley's UFO sighting with associated reed-flattening at Horseshoe Lagoon near Tully, Queensland.
+מטופל לעיל ב*רקע טרום-שנות-שבעים*. המקרה האוסטרלי מ-19 בינואר 1966 הכולל את תצפית ה-UFO של האיכר ג'ורג' פדלי עם השטחת קני סוף מלווה בלגונת Horseshoe ליד טאלי, קווינסלנד.
 
-### The Warminster phenomenon (1960s-1970s)
+### תופעת ורמינסטר (שנות השישים-שבעים)
 
-The town of Warminster in Wiltshire became a substantial focus of UFO sightings and unexplained-phenomena reports across the 1960s and 1970s, principally associated with Arthur Shuttlewood's investigation work. Reports included unexplained acoustic phenomena ("the Warminster Thing"), aerial-luminous phenomena, and reported ground-level effects including localized crop flattening. The substantial Warminster phenomenon predates the modern crop-circle phenomenon but operates substantively as immediate cultural precursor in southern England.
+העיר ורמינסטר בווילטשייר הפכה למוקד מהותי של תצפיות UFO ודיווחי תופעות בלתי-מוסברות לאורך שנות השישים והשבעים, הקשורים בעיקר לעבודת החקירה של ארתור שאטלווד. הדיווחים כללו תופעות אקוסטיות בלתי-מוסברות (»Warminster Thing«), תופעות אווירניות-זוהרות, והשפעות מדווחות ברמת הקרקע כולל השטחת תבואה מקומית. תופעת ורמינסטר המהותית קדמה לתופעת מעגל-התבואה המודרנית אך פועלת מהותית כמבשר תרבותי מיידי בדרום אנגליה.
 
-### The 1978 Hampshire formations
+### תצורות המפשייר 1978
 
-The principal early Bower-Chorley formations beginning in 1976-1978 in Hampshire and Wiltshire. Bower and Chorley's 1991 confession articulated 1976 as their original year of activity; substantial subsequent investigation has placed the principal early documented formations at approximately 1978.
+תצורות באוור-צ'ורלי המוקדמות העיקריות מתחילות ב-1976–1978 בהמפשייר וילטשייר. וידוי באוור וצ'ורלי מ-1991 ניסח את 1976 כשנת הפעילות המקורית שלהם; חקירה מהותית שלאחר מכן מיקמה את התצורות המתועדות המוקדמות העיקריות בערך ב-1978.
 
-### The Barbury Castle formation (1991)
+### תצורת Barbury Castle (1991)
 
-A substantial pictogram formation appearing near Barbury Castle in Wiltshire on July 17, 1991. The formation incorporated substantive geometric content (a central triangle with circles at each vertex and additional surrounding elements) interpreted by some commentators as substantive mathematical encoding. The Barbury Castle formation operated as substantially complex early-phase formation predating the Bower-Chorley confession by approximately two months.
+תצורת פיקטוגרמה מהותית שהופיעה ליד Barbury Castle בווילטשייר ב-17 ביולי 1991. התצורה שילבה תוכן גיאומטרי מהותי (משולש מרכזי עם מעגלים בכל קודקוד ורכיבים מקיפים נוספים) שפורש על ידי פרשנים מסוימים כקידוד מתמטי מהותי. תצורת Barbury Castle פעלה כתצורה מורכבת מהותית של שלב מוקדם שקדמה לווידוי באוור-צ'ורלי בכחודשיים.
 
-### The Julia Set formation (1996)
+### תצורת Julia Set (1996)
 
-A substantial fractal formation appearing on July 7, 1996 in a wheat field opposite Stonehenge in Wiltshire. The formation incorporated 151 circles in a substantial Julia-set spiral configuration covering approximately 280 by 140 meters. The substantial reported timing controversy: the formation was reportedly absent during morning flyover of the field and present in the afternoon, with claimed appearance within approximately 45 minutes around midday. The substantive timing claim has been substantively contested in subsequent investigation. The Circlemakers group has not claimed responsibility for the Julia Set formation; the case remains within substantively contested case material.
+תצורת פרקטל מהותית שהופיעה ב-7 ביולי 1996 בשדה חיטה מול סטונהנג' בווילטשייר. התצורה שילבה 151 מעגלים בקונפיגורציית ספירלת ג'וליה-סט מהותית המכסה כ-280 על 140 מטרים. מחלוקת התזמון המהותית המדווחת: התצורה לפי הדיווח הייתה נעדרת במהלך טיסת בוקר מעל השדה ונוכחת אחר הצהריים, עם הופעה נטענת בתוך כ-45 דקות סביב הצהריים. טענת התזמון המהותית עורערה מהותית בחקירה שלאחר מכן. קבוצת Circlemakers לא טענה אחריות לתצורת Julia Set; המקרה נותר בתוך חומר מקרים מעורער מהותית.{{ cite(id="pringle-crop-circles", text="[15]", title="פרינגל, *Crop Circles: The Greatest Mystery of Modern Times* (1999)") }}
 
-### The Milk Hill formation (August 2001)
+### תצורת Milk Hill (אוגוסט 2001)
 
-The largest documented crop circle, appearing on August 12, 2001 at Milk Hill near Alton Barnes in Wiltshire. The formation incorporated 409 circles in a substantial six-arm spiral configuration covering approximately 240 meters across. The Milk Hill formation operates as one of the substantially most complex formations documented and substantively demonstrates the substantial capability of organized circle-making activity.
+מעגל התבואה הגדול ביותר המתועד, שהופיע ב-12 באוגוסט 2001 במילק היל ליד אולטון בארנס בווילטשייר. התצורה שילבה 409 מעגלים בקונפיגורציית ספירלה שש-זרועית מהותית המכסה כ-240 מטרים. תצורת Milk Hill פועלת כאחת מהתצורות המורכבות מהותית ביותר המתועדות ומדגימה מהותית את היכולת המהותית של פעילות יצירת מעגלים מאורגנת.
 
-### The Chilbolton "Arecibo response" (August 2001)
+### »תגובת אסיבו« של צ'ילבולטון (אוגוסט 2001)
 
-A substantial formation appearing on August 19-20, 2001 in a field adjacent to the Chilbolton radio telescope in Hampshire. The formation incorporated a substantial bitmap-encoded pattern substantively similar to the Arecibo message that Frank Drake had transmitted from the Arecibo radio telescope on November 16, 1974 toward globular cluster M13.
+תצורה מהותית שהופיעה ב-19–20 באוגוסט 2001 בשדה הצמוד לטלסקופ הרדיו של צ'ילבולטון בהמפשייר. התצורה שילבה דפוס מקודד-ביטמאפ מהותי דומה מהותית למסר אסיבו שפרנק דרייק שידר מטלסקופ הרדיו של אסיבו ב-16 בנובמבר 1974 לעבר הצביר הכדורי M13.
 
-The substantive Chilbolton response formation contained variant content from the original Arecibo transmission:
+תצורת תגובת צ'ילבולטון המהותית הכילה תוכן וריאנטי מהשידור המקורי של אסיבו:
 
-- The numerical sequence 1-10 preserved
-- The DNA-component elements expanded to include silicon (suggesting silicon-based life)
-- The DNA double-helix figure modified to show alternative structure
-- The figure of "life from the sender" modified to a substantially smaller-statured large-headed humanoid (rather than the human figure in the original)
-- The population figure substantially larger than terrestrial population
-- The solar-system diagram modified to indicate that the third, fourth, and fifth planets from the local star supported life
-- The radio-telescope figure replaced with a different structure (interpreted by some as alternative communication technology)
+- הרצף המספרי 1–10 נשמר
+- רכיבי ה-DNA הורחבו לכלול סיליקון (המרמז על חיים מבוססי סיליקון)
+- דמות הסליל הכפול של ה-DNA שונתה להציג מבנה חלופי
+- דמות »החיים מהשולח« שונתה להומנואיד גדול-ראש בעל קומה קטנה מהותית (ולא דמות האדם במקור)
+- דמות האוכלוסייה גדולה מהותית מאוכלוסיית כדור הארץ
+- דיאגרמת מערכת השמש שונתה לציין שכוכבי הלכת השלישי, הרביעי והחמישי מהכוכב המקומי תמכו בחיים
+- דמות טלסקופ הרדיו הוחלפה במבנה שונה (המפורש על ידי חלקם כטכנולוגיית תקשורת חלופית)
 
-The substantive methodological status: the Chilbolton case has not been claimed by any organized circle-making group. The substantive interpretive engagement has been principally within alternative ufology — Linda Moulton Howe and substantial others have engaged the case as substantively non-human-made communication content. Mainstream-scientific engagement has principally treated the case as substantively complex human-made formation, with substantive parallels to documented organized circle-making capability.
+המעמד המתודולוגי המהותי: מקרה צ'ילבולטון לא נטען על ידי קבוצת יצירת מעגלים מאורגנת כלשהי. המעורבות הפרשנית המהותית הייתה בעיקר בתוך אופולוגיה חלופית — לינדה מולטון האו ואחרים מהותיים התעסקו עם המקרה כתוכן תקשורת בלתי-עשוי-אדם מהותית. המעורבות המדעית-מיינסטרימית התייחסה למקרה בעיקר כתצורה עשויית-אדם מורכבת מהותית, עם הקבלות מהותיות ליכולת יצירת מעגלים מאורגנת מתועדת.
 
-The corpus position: the Chilbolton case is substantively interesting case material that has not been substantively verified as non-human-made through methodology that mainstream science accepts. The substantive interpretive content (silicon-based life; multiple habitable planets in solar system; alternative humanoid form) operates within alternative-ufological framework rather than as substantively established communication content.
+עמדת הקורפוס: מקרה צ'ילבולטון הוא חומר מקרה מעניין מהותית שלא אומת מהותית כבלתי-עשוי-אדם באמצעות מתודולוגיה שהמדע המיינסטרימי מקבל. התוכן הפרשני המהותי (חיים מבוססי סיליקון; כוכבי לכת מאוכלסים מרובים במערכת השמש; צורה הומנואידית חלופית) פועל בתוך מסגרת אופולוגית-חלופית ולא כתוכן תקשורת מבוסס מהותית.
 
-### The Chilbolton "Disc" formation (August 2001)
+### תצורת »דיסק« של צ'ילבולטון (אוגוסט 2001)
 
-A substantial formation appearing adjacent to the Chilbolton Arecibo response, on August 13-14, 2001. The formation depicted a substantial disc-shaped figure interpreted by some as the alleged communication technology of the entity sending the Arecibo response. The case has not been claimed by organized circle-making groups; substantive interpretive engagement has been principally within alternative ufology.
+תצורה מהותית שהופיעה צמוד לתגובת אסיבו של צ'ילבולטון, ב-13–14 באוגוסט 2001. התצורה תיארה דמות בצורת דיסק מהותית שפורשה על ידי חלקם כטכנולוגיית התקשורת הנטענת של הישות השולחת את תגובת אסיבו. המקרה לא נטען על ידי קבוצות יצירת מעגלים מאורגנות; מעורבות פרשנית מהותית הייתה בעיקר בתוך אופולוגיה חלופית.
 
-### The Crabwood "Alien Face" formation (August 2002)
+### תצורת »פני החייזר« של קראבווד (אוגוסט 2002)
 
-A substantial pictographic formation appearing on August 15, 2002 at Crabwood Farm in Hampshire. The formation depicted:
+תצורה פיקטוגרפית מהותית שהופיעה ב-15 באוגוסט 2002 בחוות Crabwood בהמפשייר. התצורה תיארה:
 
-- A large humanoid face (interpreted as alien) with substantial portrait detail
-- A disk-shaped object containing substantive bitmap-encoded message
+- פני הומנואיד גדולים (המפורשים כחייזר) עם פירוט פורטרט מהותי
+- אובייקט בצורת דיסק המכיל מסר מקודד-ביטמאפ מהותי
 
-The bitmap message was decoded by various commentators (the principal published decoding by Paul Vigay) as encoding the ASCII-text message:
+מסר הביטמאפ פוענח על ידי פרשנים שונים (הפענוח הפורסם העיקרי על ידי פול ויגיי) כמקודד את מסר טקסט ה-ASCII:
 
 > *"Beware the bearers of FALSE gifts & their BROKEN PROMISES. Much PAIN but still time. (DAMAGED WORD). There is GOOD out there. We Oppose DECEPTION. Conduit CLOSING."*
 
-The decoded message operates substantively as warning-content with substantive interpretive framing. The substantive case-status: the Crabwood case has not been claimed by organized circle-making groups; substantive interpretive engagement has been principally within alternative ufology and the broader contactee-and-channeling tradition.
+המסר המפוענח פועל מהותית כתוכן אזהרה עם מסגור פרשני מהותי. מעמד המקרה המהותי: מקרה קראבווד לא נטען על ידי קבוצות יצירת מעגלים מאורגנות; מעורבות פרשנית מהותית הייתה בעיקר בתוך אופולוגיה חלופית ומסורת הקונטקטים-והערוצים הרחבה יותר.
 
-The corpus position: the Crabwood case is substantively interesting case material that has not been substantively verified as non-human-made. The substantive message content operates within the broader contactee-channeling tradition that the corpus engages descriptively without substantive adoption.
+עמדת הקורפוס: מקרה קראבווד הוא חומר מקרה מעניין מהותית שלא אומת מהותית כבלתי-עשוי-אדם. תוכן המסר המהותי פועל בתוך מסורת הקונטקטים-ערוצים הרחבה יותר שהקורפוס מתעסק עמה תיאורית ללא אימוץ מהותי.
 
-### The Avebury Manor formation (2008)
+### תצורת אייבברי מנור (2008)
 
-A substantial formation appearing in July 2008 near Avebury Manor in Wiltshire, depicting a substantive solar-system diagram. The formation has been interpreted by some commentators as encoding the planetary positions of December 21, 2012 (the date conventionally associated with the substantial Maya Long Count cycle completion and substantial popular doomsday interpretations).
+תצורה מהותית שהופיעה ביולי 2008 ליד אייבברי מנור בווילטשייר, מתארת דיאגרמת מערכת שמש מהותית. התצורה פורשה על ידי פרשנים מסוימים כמקודדת את עמדות כוכבי הלכת של 21 בדצמבר 2012 (התאריך הקשור מסורתית להשלמת מחזור הספירה הארוכה של המאיה המהותי ולפרשנויות יום הדין הפופולריות המהותיות).
 
-### Subsequent contemporary formations (2010-present)
+### תצורות בנות זמננו שלאחר מכן (2010–הווה)
 
-Substantial contemporary formations have continued across the post-2010 period in Wiltshire and substantial international contexts. Principal contemporary cases include:
+תצורות בנות זמננו מהותיות המשיכו לאורך התקופה שלאחר 2010 בווילטשייר ובהקשרים בינלאומיים מהותיים. מקרים בני זמננו עיקריים כוללים:
 
-- The West Kennett Long Barrow formation (2010)
-- Substantial subsequent Wiltshire formations across 2011-2024
-- Substantial international formations across multiple countries
+- תצורת West Kennett Long Barrow (2010)
+- תצורות וילטשייר מהותיות שלאחר מכן לאורך 2011–2024
+- תצורות בינלאומיות מהותיות על פני מדינות מרובות
 
-The substantial contemporary phenomenon operates substantively as ongoing cultural-artistic practice with substantial subsequent organizational engagement by Circlemakers, international affiliates, and the broader contemporary circle-making community.
+התופעה בת זמננו המהותית פועלת מהותית כפרקטיקה תרבותית-אמנותית מתמשכת עם מעורבות ארגונית מהותית שלאחר מכן על ידי Circlemakers, שותפים בינלאומיים, וקהילת יצירת המעגלים הרחבה יותר בת זמננו.
 
-## Modern reinterpretations
+## פרשנויות מחודשות מודרניות
 
-The discipline of crop circles has produced multiple theoretical frameworks across the post-1970s period.
+הדיסציפלינה של מעגלי תבואה הפיקה מסגרות תיאורטיות מרובות לאורך התקופה שלאחר שנות השבעים.
 
-### The plasma vortex hypothesis (Meaden)
+### השערת מערבולת הפלזמה (מידן)
 
-**Terence Meaden** (b. 1935), the British physicist and meteorologist, articulated the substantive **plasma vortex hypothesis** principally across the 1980s. The substantive content:
+**טרנס מידן** (נולד 1935), הפיזיקאי והמטאורולוג הבריטי, ניסח את **השערת מערבולת הפלזמה** המהותית בעיקר לאורך שנות השמונים. התוכן המהותי:
 
-- **Atmospheric vortices** — rotating columns of ionized plasma operating substantially analogously to dust devils but producing ionization effects
-- **Geographic correlation** — concentration in landscapes producing characteristic atmospheric vortex conditions (substantial association with hilly terrain creating air-current rotational patterns)
-- **Formation morphology** — simple circular formations as principal output of the proposed mechanism
+- **מערבולות אטמוספריות** — עמודות מסתובבות של פלזמה מיוננת הפועלות באנלוגיה מהותית לסופות אבק אך מפיקות אפקטים של יינון
+- **קורלציה גיאוגרפית** — ריכוז בנופים המפיקים תנאי מערבולת אטמוספרית מאפיינים (אסוציאציה מהותית עם שטח גבעי היוצר דפוסי סיבוב של זרמי אוויר)
+- **מורפולוגיית תצורה** — תצורות מעגליות פשוטות כתפוקה העיקרית של המנגנון המוצע
 
-Meaden articulated the hypothesis principally in *The Circles Effect and Its Mysteries* (1989) and substantial subsequent publications. The hypothesis attracted substantial early-1990s scientific engagement and was published in peer-reviewed meteorological literature.
+מידן ניסח את ההשערה בעיקר ב-*The Circles Effect and Its Mysteries* (1989) ובפרסומים מהותיים שלאחר מכן. ההשערה משכה מעורבות מדעית מהותית של תחילת שנות התשעים ופורסמה בספרות מטאורולוגית מבוקרת עמיתים.
 
-The substantive status: the plasma vortex hypothesis was substantively abandoned across the 1990s as:
+המעמד המהותי: השערת מערבולת הפלזמה ננטשה מהותית לאורך שנות התשעים כאשר:
 
-- **Formation complexity exceeded plausible vortex output.** Substantial geometric formations with sharp edges, intricate patterns, and substantial pictographic content cannot plausibly be produced by atmospheric vortices.
-- **The Bower-Chorley confession established human authorship.** The substantive demonstrated human-construction methodology accounted for the principal early formations Meaden had attributed to plasma vortices.
-- **Documentary evidence of construction accumulated.** Circlemakers, Team Satan, and broader organized circle-making documentation substantively established human-construction as the principal mechanism for contemporary formations.
+- **מורכבות התצורה חרגה מהתפוקה המערבולתית הסבירה.** תצורות גיאומטריות מהותיות עם קצוות חדים, דפוסים מורכבים, ותוכן פיקטוגרפי מהותי אינן יכולות באופן סביר להיווצר על ידי מערבולות אטמוספריות.
+- **וידוי באוור-צ'ורלי ביסס מחברות אנושית.** מתודולוגיית הבנייה האנושית המודגמת המהותית הסבירה את התצורות המוקדמות העיקריות שמידן ייחס למערבולות פלזמה.
+- **ראיות תיעודיות של בנייה הצטברו.** Circlemakers, Team Satan, ותיעוד יצירת מעגלים מאורגנת רחב יותר ביססו מהותית בנייה אנושית כמנגנון העיקרי לתצורות בנות זמננו.
 
-Meaden has substantially modified his position across subsequent decades, principally acknowledging that the substantial majority of contemporary formations are human-made while maintaining substantive engagement with selected early-phase cases.
+מידן שינה מהותית את עמדתו לאורך העשורים שלאחר מכן, מודה בעיקר כי הרוב המהותי של התצורות בנות זמננו הם עשויי-אדם תוך שמירה על מעורבות מהותית עם מקרים נבחרים של שלב מוקדם.
 
-### The Bower-Chorley confession and the human-authorship framework
+### וידוי באוור-צ'ורלי ומסגרת המחברות האנושית
 
-The 1991 Bower-Chorley confession (treated above) operates substantively as the principal foundation for the contemporary mainstream-scientific framework. The substantive content:
+וידוי באוור-צ'ורלי מ-1991 (מטופל לעיל) פועל מהותית כיסוד העיקרי למסגרת המדעית-מיינסטרימית בת זמננו. התוכן המהותי:
 
-- **The substantive demonstration of construction methodology.** Bower and Chorley's plank-and-rope technique with sighting-cap alignment substantively demonstrates that complex crop circles can be produced by small teams within feasible time-windows.
-- **The substantive subsequent organized circle-making.** Circlemakers, Team Satan, and broader organized groups have produced substantial subsequent documentation extending the Bower-Chorley framework.
-- **The substantial geographic-cultural correlation.** The substantial Wiltshire concentration corresponds to substantial cultural-geographic concentration of organized circle-making activity in southern England.
+- **ההדגמה המהותית של מתודולוגיית הבנייה.** טכניקת הקרש-וחבל של באוור וצ'ורלי עם יישור-כובע-כיוון מדגימה מהותית שמעגלי תבואה מורכבים יכולים להיווצר על ידי צוותים קטנים בתוך חלונות-זמן בני ביצוע.
+- **יצירת מעגלים מאורגנת מהותית שלאחר מכן.** Circlemakers, Team Satan וקבוצות מאורגנות רחבות יותר הפיקו תיעוד מהותי שלאחר מכן המרחיב את מסגרת באוור-צ'ורלי.
+- **הקורלציה הגיאוגרפית-תרבותית המהותית.** הריכוז המהותי בווילטשייר מתאים לריכוז תרבותי-גיאוגרפי מהותי של פעילות יצירת מעגלים מאורגנת בדרום אנגליה.
 
-The substantive mainstream-scientific consensus: contemporary crop circles are principally human-made through documented construction methodology. The substantive residual questions (the alleged anomalies the BLT and Haselhoff research engages) operate substantively at the methodological margin rather than as substantive refutation of the principal framework.
+הקונצנזוס המדעי-מיינסטרימי המהותי: מעגלי תבואה בני זמננו הם בעיקר עשויי-אדם באמצעות מתודולוגיית בנייה מתועדת. השאלות השיוריות המהותיות (האנומליות הנטענות שעמן מתעסקים מחקרי BLT והאזלהוף) פועלות מהותית בשולי המתודולוגיה ולא כהפרכה מהותית של המסגרת העיקרית.
 
-### The Circlemakers and organized circle-making community
+### Circlemakers וקהילת יצירת המעגלים המאורגנת
 
-The principal documented contemporary circle-making organization is **Circlemakers**, founded by John Lundberg with collaborators Rod Dickinson, Wil Russell, and Rob Irving. The group emerged from the broader **Team Satan** collective operating from approximately 1992 onward.
+ארגון יצירת המעגלים המתועד העיקרי בן זמננו הוא **Circlemakers**, שנוסד על ידי ג'ון לונדברג עם המשתפים פעולה רוד דיקינסון, ויל ראסל ורוב אירווינג. הקבוצה צמחה מהקולקטיב הרחב יותר **Team Satan** הפועל מערך 1992 ואילך.
 
-The Circlemakers group has produced substantial documentation of contemporary circle-making practice:
+קבוצת Circlemakers הפיקה תיעוד מהותי של פרקטיקת יצירת מעגלים בת זמננו:
 
-- **Construction methodology.** The substantial Bower-Chorley plank-and-rope technique has been extended through substantial subsequent methodological development including substantial GPS-enabled alignment, substantial laser-survey techniques, and substantial subsequent technical refinement.
-- **Artistic-philosophical framework.** Rob Irving and John Lundberg's *The Field Guide: The Art, History and Philosophy of Crop Circle Making* (Strange Attractor Press, 2006) articulates the substantive artistic-philosophical engagement with the practice, locating crop circle making within substantive contemporary art tradition.
-- **Commercial work.** The substantial commercial circle-making work for advertising clients (Microsoft, Mitsubishi, Pepsi, Nike, Greenpeace, BBC, others), film production (the 2002 M. Night Shyamalan film *Signs*), music video production, and broader entertainment-industry applications.
-- **Public demonstration.** The substantial public demonstration of construction methodology in documentaries, journalism, and subsequent public engagement.
+- **מתודולוגיית בנייה.** טכניקת הקרש-וחבל המהותית של באוור-צ'ורלי הורחבה באמצעות פיתוח מתודולוגי מהותי שלאחר מכן כולל יישור מהותי המופעל-GPS, טכניקות סקר-לייזר מהותיות, ועידון טכני מהותי שלאחר מכן.
+- **מסגרת אמנותית-פילוסופית.** *The Field Guide: The Art, History and Philosophy of Crop Circle Making* של רוב אירווינג וג'ון לונדברג (Strange Attractor Press, 2006) מנסח את המעורבות האמנותית-פילוסופית המהותית עם הפרקטיקה, ממקם יצירת מעגלי תבואה בתוך מסורת האמנות בת זמננו המהותית.
+- **עבודה מסחרית.** עבודת יצירת המעגלים המסחרית המהותית עבור לקוחות פרסום (מיקרוסופט, מיצובישי, פפסי, נייקי, גרינפיס, BBC, אחרים), הפקת סרטים (סרט מ. נייט שיאמלאן מ-2002 *Signs*), הפקת קליפים, ויישומי תעשיית בידור רחבים יותר.
+- **הדגמה ציבורית.** ההדגמה הציבורית המהותית של מתודולוגיית הבנייה בדוקומנטרים, עיתונאות ומעורבות ציבורית שלאחר מכן.
 
-The Circlemakers group operates substantively as the principal documented contemporary circle-making organization. The substantial international circle-making community has subsequently emerged across multiple national contexts (substantial American, Canadian, Dutch, German, Japanese, and broader international circle-making activity).
+קבוצת Circlemakers פועלת מהותית כארגון יצירת המעגלים המתועד העיקרי בן זמננו. קהילת יצירת המעגלים הבינלאומית המהותית צמחה לאחר מכן על פני הקשרים לאומיים מרובים (פעילות יצירת מעגלים אמריקאית, קנדית, הולנדית, גרמנית, יפנית ובינלאומית רחבה יותר מהותית).
 
-### The BLT Research Team and residual-anomaly research
+### ה-BLT Research Team ומחקר אנומליה שיורית
 
-The **BLT Research Team** (founded 1989 by John Burke, William Levengood, and Nancy Talbott; subsequently directed principally by Talbott) has conducted substantial research on selected crop circle formations investigating the substantial alleged physical anomalies. The substantive research:
+ה-**BLT Research Team** (שנוסדה ב-1989 על ידי ג'ון בורק, ויליאם לבנגוד וננסי טלבוט; בהמשך בניהול בעיקר של טלבוט) ערכה מחקר מהותי על תצורות מעגלי תבואה נבחרות החוקרת את האנומליות הפיזיקליות הנטענות המהותיות. המחקר המהותי:
 
-- **Node-elongation studies.** William Levengood's substantive research on crop node-bending patterns, principally articulated in *Physiologia Plantarum* (Levengood, 1994). The substantive claim: selected formations exhibit substantial node elongation consistent with brief intense heating, attributed to microwave radiation.
-- **Magnetite-distribution studies.** Substantial soil-sample analysis arguing for substantial concentrations of iron spherules in selected formations.
-- **Substantial subsequent research.** Across approximately three decades, the BLT team has produced substantial subsequent literature engaging the residual-anomaly framework.
+- **לימודי התארכות-צומת.** המחקר המהותי של ויליאם לבנגוד על דפוסי כיפוף-צומת של תבואה, המנוסח בעיקר ב-*Physiologia Plantarum* (לבנגוד, 1994). הטענה המהותית: תצורות נבחרות מציגות התארכות-צומת מהותית עקבית עם חימום אינטנסיבי קצר, המיוחס לקרינת מיקרוגל.
+- **לימודי התפלגות-מגנטיט.** ניתוח דגימת-קרקע מהותי הטוען לריכוזים מהותיים של כדוריות ברזל בתצורות נבחרות.
+- **מחקר מהותי שלאחר מכן.** לאורך כשלושה עשורים, צוות BLT הפיק ספרות מהותית שלאחר מכן המתעסקת עם מסגרת האנומליה השיורית.
 
-The substantive methodological status:
+המעמד המתודולוגי המהותי:
 
-- **The Levengood 1994 paper was published in peer-reviewed *Physiologia Plantarum*.** This is substantive scholarly publication operating within mainstream-scientific framework.
-- **Subsequent peer-reviewed engagement has been limited.** The substantial BLT subsequent literature operates principally in non-peer-reviewed outlets including the substantial BLT Research website and substantial subsequent publications.
-- **The substantial methodological critique includes substantial concerns.** Selection bias in case choice; methodology of soil sampling; statistical analysis controls; the substantial distinction between authentic anomalies and broader sampling effects.
+- **מאמר לבנגוד מ-1994 פורסם ב-*Physiologia Plantarum* המבוקר עמיתים.** זוהי פרסום מחקרי מהותי הפועל בתוך מסגרת מדעית-מיינסטרימית.
+- **מעורבות מבוקרת עמיתים שלאחר מכן הייתה מוגבלת.** הספרות המהותית של BLT שלאחר מכן פועלת בעיקר במוצאים שאינם מבוקרי עמיתים כולל אתר BLT Research המהותי ופרסומים מהותיים שלאחר מכן.
+- **הביקורת המתודולוגית המהותית כוללת חששות מהותיים.** הטיית בחירה במקרים; מתודולוגיה של דגימת קרקע; בקרות ניתוח סטטיסטי; ההבחנה המהותית בין אנומליות אותנטיות להשפעות הטיית-בחירה.
 
-The Eltjo Haselhoff engagement provides substantial parallel research. Haselhoff's *The Deepening Complexity of Crop Circles* (Frog, 2001) and substantial subsequent peer-reviewed publications (*Physiologia Plantarum*, 2001) engage node-bending patterns through additional methodology.
+מעורבות אלטיו האזלהוף מספקת מחקר מקביל מהותי. *The Deepening Complexity of Crop Circles* של האזלהוף (Frog, 2001) ופרסומים מבוקרי עמיתים מהותיים שלאחר מכן (*Physiologia Plantarum*, 2001) מתעסקים עם דפוסי כיפוף-צומת באמצעות מתודולוגיה נוספת.
 
-The corpus position on the residual-anomaly research: the work is substantive scholarly engagement worth descriptive treatment; the substantial peer-reviewed publication (Levengood 1994; Haselhoff 2001) operates within mainstream-scientific framework; the substantial subsequent literature operates principally outside peer review; the substantial methodological concerns warrant honest acknowledgment; the work has not substantively established the strong "crop circles cannot be explained through human construction" position the residual-anomaly research program advances.
+עמדת הקורפוס על מחקר האנומליה השיורית: העבודה היא מעורבות מחקרית מהותית הראויה לטיפול תיאורי; הפרסום המבוקר עמיתים המהותי (לבנגוד 1994; האזלהוף 2001) פועל בתוך מסגרת מדעית-מיינסטרימית; הספרות המהותית שלאחר מכן פועלת בעיקר מחוץ לסקירת עמיתים; החששות המתודולוגיים המהותיים מצדיקים הכרה כנה; העבודה לא ביססה מהותית את העמדה החזקה »מעגלי תבואה אינם יכולים להיות מוסברים באמצעות בנייה אנושית« שתוכנית מחקר האנומליה השיורית מקדמת.
 
-### Alternative-ufological frameworks
+### מסגרות אופולוגיות-חלופיות
 
-Substantial alternative-ufological frameworks engage selected formations as substantively non-human-made communication content. The principal frameworks:
+מסגרות אופולוגיות-חלופיות מהותיות מתעסקות עם תצורות נבחרות כתוכן תקשורת בלתי-עשוי-אדם מהותית. המסגרות העיקריות:
 
-- **The extraterrestrial-communication framework.** Selected formations (Chilbolton 2001; Crabwood 2002; substantial subsequent cases) interpreted as substantive communications from extraterrestrial entities. Linda Moulton Howe, Colin Andrews (in subsequent work), and substantial alternative-ufology researchers engage this framework.
-- **The interdimensional-communication framework.** Substantial alternative ufology engages crop circles as substantive communications from interdimensional or substantively non-physical entities, operating within the broader Vallée framework treated in the [Ufology](../ufology/) entry.
-- **The Earth-energy framework.** Substantial alternative engagement treats crop circles as substantive manifestations of Earth energies, ley-line phenomena, or substantively analogous geophysical-spiritual content. The substantial John Michell tradition and broader sacred-geography engagement operate within this framework.
-- **The channeling and contactee framework.** Substantial alternative engagement integrates crop circles with broader channeling and contactee material, operating within the broader alternative-spiritual tradition.
+- **מסגרת התקשורת החוץ-ארצית.** תצורות נבחרות (צ'ילבולטון 2001; קראבווד 2002; מקרים מהותיים שלאחר מכן) המפורשות כתקשורות מהותיות מישויות חוצניות. לינדה מולטון האו, קולין אנדרוס (בעבודה שלאחר מכן), וחוקרי אופולוגיה חלופית מהותיים מתעסקים עם מסגרת זו.
+- **מסגרת התקשורת הבין-ממדית.** אופולוגיה חלופית מהותית מתעסקת עם מעגלי תבואה כתקשורות מהותיות מישויות בין-ממדיות או בלתי-פיזיקליות מהותית, הפועלת בתוך מסגרת ואלה הרחבה יותר המטופלת בערך {% wiki(slug="ufology") %}אופולוגיה{% end %}.
+- **מסגרת אנרגיית-האדמה.** מעורבות חלופית מהותית מתייחסת למעגלי תבואה כהתגלויות מהותיות של אנרגיות אדמה, תופעות קווי-ליי, או תוכן גיאופיזי-רוחני אנלוגי מהותית. מסורת ג'ון מיצ'ל המהותית ומעורבות הגיאוגרפיה הקדושה הרחבה יותר פועלות בתוך מסגרת זו.
+- **מסגרת הערוצים והקונטקטים.** מעורבות חלופית מהותית משלבת מעגלי תבואה עם חומר ערוצים וקונטקטים רחב יותר, פועלת בתוך מסורת הרוחניות החלופית הרחבה יותר.
 
-The corpus position on the alternative-ufological frameworks: these frameworks operate within alternative-ufological tradition without substantively verified empirical foundation in mainstream-scientific terms; the corpus engages this work descriptively without substantive adoption.
+עמדת הקורפוס על המסגרות האופולוגיות-חלופיות: מסגרות אלו פועלות בתוך מסורת אופולוגית-חלופית ללא יסוד אמפירי מאומת מהותית במונחים מדעיים-מיינסטרימיים; הקורפוס מתעסק עם עבודה זו תיאורית ללא אימוץ מהותי.
 
-### The contemporary state of the discipline
+### המצב בן זמננו של הדיסציפלינה
 
-The substantive contemporary state operates across multiple frameworks:
+המצב בן זמננו המהותי פועל על פני מסגרות מרובות:
 
-- **The mainstream-scientific consensus.** Crop circles are principally human-made through documented construction methodology; selected formations exhibit substantial alleged anomalies that remain methodologically contested at the margin.
-- **The artistic-cultural framework.** Crop circles operate substantively as contemporary artistic practice within the broader land-art and environmental-art tradition; the Circlemakers and broader organized circle-making community operates substantively within this framework.
-- **The substantial residual-anomaly research program.** Continuing investigation of selected formations through the residual-anomaly framework.
-- **The substantial alternative-ufological engagement.** Continuing engagement with selected formations as substantively non-human-made communication content.
+- **הקונצנזוס המדעי-מיינסטרימי.** מעגלי תבואה הם בעיקר עשויי-אדם באמצעות מתודולוגיית בנייה מתועדת; תצורות נבחרות מציגות אנומליות נטענות מהותיות הנותרות מעורערות מתודולוגית בשולי המתודולוגיה.
+- **המסגרת האמנותית-תרבותית.** מעגלי תבואה פועלים מהותית כפרקטיקה אמנותית בת זמננו בתוך מסורת הלנד-ארט והאמנות הסביבתית הרחבה יותר; קבוצת Circlemakers וקהילת יצירת המעגלים המאורגנת הרחבה יותר פועלות מהותית בתוך מסגרת זו.
+- **תוכנית מחקר האנומליה השיורית המהותית.** חקירה מתמשכת של תצורות נבחרות באמצעות מסגרת האנומליה השיורית.
+- **המעורבות האופולוגית-חלופית המהותית.** מעורבות מתמשכת עם תצורות נבחרות כתוכן תקשורת בלתי-עשוי-אדם מהותית.
 
-The substantive disciplinary situation: crop circles operate substantively as methodologically complex cultural-artistic-research phenomenon rather than as substantively unexplained category. The substantial majority of contemporary formations are documented human-made; selected formations remain substantively contested in alternative-ufological framework; the substantive ongoing research engagement continues across multiple methodological traditions.
+המצב הדיסציפלינרי המהותי: מעגלי תבואה פועלים מהותית כתופעה תרבותית-אמנותית-מחקרית מורכבת מתודולוגית ולא כקטגוריה בלתי-מוסברת מהותית. הרוב המהותי של התצורות בנות זמננו הוא עשוי-אדם מתועד; תצורות נבחרות נותרות מעורערות מהותית במסגרת אופולוגית-חלופית; המעורבות המחקרית המתמשכת המהותית נמשכת על פני מסורות מתודולוגיות מרובות.
 
-## Comparative observations
+## תצפיות השוואתיות
 
-The substantial cross-cultural and historical engagement with crop circle phenomena warrants substantive articulation.
+המעורבות החוצה-תרבותית וההיסטורית המהותית עם תופעות מעגלי תבואה מצדיקה ניסוח מהותי.
 
-### The substantial Wiltshire concentration
+### הריכוז המהותי בווילטשייר
 
-The substantial geographic concentration of crop circles in Wiltshire, England operates as substantive observation requiring engagement. The substantive content:
+הריכוז הגיאוגרפי המהותי של מעגלי תבואה בווילטשייר, אנגליה, פועל כתצפית מהותית הדורשת מעורבות. התוכן המהותי:
 
-- **The principal Wiltshire region.** The substantial concentration operates principally in the Avebury-Stonehenge-Silbury Hill-Alton Barnes region, with substantial subsequent concentration extending to Hampshire and Oxfordshire.
-- **The substantial sacred-geographic correlation.** The Wiltshire region contains substantial concentration of prehistoric sacred sites — Stonehenge (c. 3000-2000 BCE); Avebury Henge (c. 2850-2200 BCE); Silbury Hill (c. 2400 BCE); the substantial West Kennet Long Barrow (c. 3650 BCE); the substantial subsequent prehistoric monumental landscape.
-- **The substantial alternative-cultural correlation.** The Wiltshire region operates as substantial concentration of alternative-spiritual, New Age, and broader counter-cultural communities across the post-1960s period.
-- **The substantial organized circle-making concentration.** The substantial Circlemakers and broader organized circle-making activity concentrates principally in the Wiltshire region, with substantial subsequent geographic correlation between organized circle-making activity and reported formation locations.
+- **אזור וילטשייר העיקרי.** הריכוז המהותי פועל בעיקר באזור אייבברי-סטונהנג'-סילבורי היל-אולטון בארנס, עם ריכוז מהותי שלאחר מכן המתפשט להמפשייר ואוקספורדשייר.
+- **הקורלציה הגיאוגרפית-קדושה המהותית.** אזור וילטשייר מכיל ריכוז מהותי של אתרים קדושים פרהיסטוריים — סטונהנג' (כ-3000–2000 לפנה״ס); אייבברי הנג' (כ-2850–2200 לפנה״ס);{{ cite(id="prehistoric-avebury", text="[16]", title="בורל, *Prehistoric Avebury* (1979, מהדורה מעודכנת 2002) — טיפול יסודי של קומפלקס אייבברי הנג'") }} סילבורי היל (כ-2400 לפנה״ס); West Kennet Long Barrow המהותי (כ-3650 לפנה״ס); הנוף המונומנטלי הפרהיסטורי המהותי שלאחר מכן.{{ cite(id="avebury-biography-of-a-landscape", text="[17]", title="פולארד ורנולדס, *Avebury: The Biography of a Landscape* (2002)") }}
+- **הקורלציה התרבותית-חלופית המהותית.** אזור וילטשייר פועל כריכוז מהותי של קהילות רוחניות-חלופיות, ניו אייג', ותרבויות נגדיות רחבות יותר לאורך התקופה שלאחר שנות השישים.
+- **הריכוז המהותי של יצירת מעגלים מאורגנת.** הפעילות המהותית של Circlemakers ויצירת מעגלים מאורגנת רחבה יותר מתרכזת בעיקר באזור וילטשייר, עם קורלציה גיאוגרפית מהותית שלאחר מכן בין פעילות יצירת מעגלים מאורגנת למיקומי תצורות מדווחים.
 
-The substantive interpretive frameworks for the Wiltshire concentration:
+המסגרות הפרשניות המהותיות לריכוז וילטשייר:
 
-- **The mainstream-scientific framework.** The geographic concentration reflects principally the substantial concentration of organized circle-making activity in the region, with substantial subsequent cultural-attention amplification.
-- **The alternative-spiritual framework.** The geographic concentration reflects substantial Earth-energy or ley-line phenomena operating within the substantial prehistoric sacred landscape.
-- **The mixed framework.** Both factors operate substantively — the substantial organized circle-making concentration is itself substantially shaped by the substantial alternative-spiritual cultural framework operating in the region.
+- **המסגרת המדעית-מיינסטרימית.** הריכוז הגיאוגרפי משקף בעיקר את הריכוז המהותי של פעילות יצירת מעגלים מאורגנת באזור, עם הגברת תשומת-לב תרבותית מהותית שלאחר מכן.
+- **המסגרת הרוחנית-חלופית.** הריכוז הגיאוגרפי משקף תופעות אנרגיית-אדמה או קווי-ליי מהותיות הפועלות בתוך הנוף הקדוש הפרהיסטורי המהותי.
+- **המסגרת המעורבת.** שני הגורמים פועלים מהותית — הריכוז המהותי של יצירת מעגלים מאורגנת עצמו מעוצב מהותית על ידי המסגרת התרבותית הרוחנית-חלופית המהותית הפועלת באזור.
 
-The corpus position: the Wiltshire concentration reflects substantial multiple factors operating together — the substantial organized circle-making activity; the substantial alternative-spiritual cultural framework; the substantial prehistoric monumental landscape providing substantively meaningful cultural context. The substantive question of whether substantive non-human factors operate alongside these reflects the broader residual-anomaly question that remains methodologically contested.
+עמדת הקורפוס: ריכוז וילטשייר משקף גורמים מרובים מהותיים הפועלים יחד — פעילות יצירת המעגלים המאורגנת המהותית; המסגרת התרבותית הרוחנית-חלופית המהותית; הנוף המונומנטלי הפרהיסטורי המהותי המספק הקשר תרבותי משמעותי מהותית. השאלה המהותית האם גורמים בלתי-אנושיים מהותיים פועלים לצד אלה משקפת את שאלת האנומליה השיורית הרחבה יותר הנותרת מעורערת מתודולוגית.
 
-### The substantial Mowing Devil methodological articulation
+### הניסוח המתודולוגי המהותי של ה-Mowing Devil
 
-The 1678 Mowing Devil pamphlet's status as crop-circle precedent warrants substantive methodological articulation:
+מעמדה של חוברת ה-Mowing Devil מ-1678 כתקדים למעגל-תבואה מצדיק ניסוח מתודולוגי מהותי:
 
-- **The substantive pamphlet content.** The pamphlet describes a supernatural mowing event in Hertfordshire — a farmer who refused a mower's price reportedly said he would rather have the Devil mow his field; the field was subsequently found mowed overnight. The pamphlet's woodcut illustration depicts a devil mowing in a circular pattern.
-- **The substantive pamphlet-literature context.** The 1678 pamphlet operates within substantial 17th-century English broadsheet tradition that produced extensive supernatural-prodigy literature. The substantial pamphlet output of the period engaged divine signs, miraculous events, monstrous births, and broader supernatural content within substantively moralizing-allegorical framework.
-- **The substantive methodological distinction.** The Mowing Devil event involves cutting standing crops cleanly — substantively different from the flattening that characterizes modern crop circles. The substantive distinction is methodologically substantial.
-- **The substantive scholarly engagement.** Folklore scholarship (Bob Trubshaw, Jeremy Harte, substantial others) has engaged the Mowing Devil within 17th-century pamphlet conventions; crop circle research has principally engaged it as evidence of pre-modern crop circles.
+- **תוכן החוברת המהותי.** החוברת מתארת אירוע קציר על-טבעי בהרטפורדשייר — איכר שסירב למחיר של קוצר לפי הדיווח אמר שהוא מעדיף שהשטן יקצור את שדהו; השדה נמצא לאחר מכן קצור בן לילה. איור החיתוך של החוברת מתאר שטן קוצר בדפוס מעגלי.
+- **ההקשר של ספרות-חוברות המהותי.** החוברת מ-1678 פועלת בתוך מסורת חוברות הסקופ האנגלית המהותית של המאה השבע-עשרה שהפיקה ספרות פלאים-על-טבעיים נרחבת. תפוקת החוברות המהותית של התקופה התעסקה עם סימנים אלוהיים, אירועים פלאיים, לידות מפלצתיות ותוכן על-טבעי רחב יותר בתוך מסגרת מוסרית-אלגורית מהותית.
+- **ההבחנה המתודולוגית המהותית.** אירוע ה-Mowing Devil כולל חיתוך גידולים עומדים בצורה נקייה — שונה מהותית מההשטחה המאפיינת מעגלי תבואה מודרניים. ההבחנה המהותית מהותית מתודולוגית.
+- **המעורבות המחקרית המהותית.** מחקר פולקלוריסטי (בוב טרובשו, ג'רמי הארטה, אחרים מהותיים) התעסק עם ה-Mowing Devil בתוך מוסכמות חוברות המאה השבע-עשרה; מחקר מעגלי תבואה התעסק בו בעיקר כראיה למעגלי תבואה טרום-מודרניים.
 
-The corpus position: the Mowing Devil case is substantively different category from modern crop circles. The substantive cultural-historical interest of the case is genuine; the substantive disciplinary claim of pre-modern crop-circle precedent is methodologically problematic.
+עמדת הקורפוס: מקרה ה-Mowing Devil הוא קטגוריה שונה מהותית ממעגלי תבואה מודרניים. העניין התרבותי-היסטורי המהותי של המקרה אמיתי; הטענה הדיסציפלינרית המהותית של תקדים למעגל-תבואה טרום-מודרני בעייתית מתודולוגית.
 
-### Cross-cultural patterns of unexplained agricultural phenomena
+### דפוסים חוצי-תרבות של תופעות חקלאיות בלתי-מוסברות
 
-The substantial cross-cultural engagement with unexplained agricultural phenomena operates principally through folkloric framework rather than as substantive modern-crop-circle parallel:
+המעורבות החוצה-תרבותית המהותית עם תופעות חקלאיות בלתי-מוסברות פועלת בעיקר באמצעות מסגרת פולקלוריסטית ולא כהקבלה מהותית למעגל-תבואה מודרני:
 
-- **Substantial fairy-circle traditions.** The substantial Celtic and broader European folklore tradition of fairy circles (rings of mushrooms, grass discoloration, or other ground markings interpreted as supernatural manifestation) operates substantively as folkloric category. The substantial fairy-circle tradition operates principally as small-scale localized phenomenon distinct from modern crop circles.
-- **Substantial Japanese mizuwa (water-rings) and broader Asian agricultural-anomaly traditions.** Substantial cross-cultural engagement with unexplained agricultural patterns within broader supernatural-interpretation framework.
-- **Substantial Native American sacred-geometry-on-landscape traditions.** Substantial Native American traditions engage substantial geometric patterns on landscape (Nazca lines analogs in North America; substantial subsequent patterns) within broader sacred-landscape framework.
+- **מסורות עיגול-הפיות המהותיות.** מסורת הפולקלור הקלטית והאירופית הרחבה יותר של עיגולי פיות (טבעות פטריות, אי-צבע דשא, או סימוני קרקע אחרים המפורשים כהתגלות על-טבעית) פועלת מהותית כקטגוריה פולקלוריסטית. מסורת עיגול-הפיות המהותית פועלת בעיקר כתופעה מקומית בקנה מידה קטן המובחנת ממעגלי תבואה מודרניים.
+- **מסורות mizuwa (טבעות-מים) יפניות והמסורות האסיאתיות הרחבות יותר של אנומליה חקלאית.** מעורבות חוצה-תרבותית מהותית עם דפוסים חקלאיים בלתי-מוסברים בתוך מסגרת פרשנות-על-טבעית רחבה יותר.
+- **מסורות גיאומטריה-קדושה-על-נוף ילידיות-אמריקאיות.** מסורות ילידיות-אמריקאיות מהותיות מתעסקות עם דפוסים גיאומטריים מהותיים על נוף (אנלוגים של קווי הנאסקה בצפון אמריקה; דפוסים מהותיים שלאחר מכן) בתוך מסגרת נוף-קדושה רחבה יותר.
 
-The substantive cross-cultural pattern: human cultures across substantial historical periods have engaged unexplained ground-level patterns within supernatural-interpretation framework. The substantive distinction from modern crop circles: contemporary crop circles operate principally as substantial-scale geometric formations in cereal crops, distinct from the substantial fairy-circle and broader small-scale folkloric categories.
+הדפוס החוצה-תרבותי המהותי: תרבויות אנושיות לאורך תקופות היסטוריות מהותיות התעסקו עם דפוסי קרקע בלתי-מוסברים בתוך מסגרת פרשנות-על-טבעית. ההבחנה המהותית ממעגלי תבואה מודרניים: מעגלי תבואה בני זמננו פועלים בעיקר כתצורות גיאומטריות בקנה מידה מהותי בגידולי דגנים, מובחנות מקטגוריות עיגול-הפיות המהותיות והקטגוריות הפולקלוריסטיות הרחבות יותר בקנה מידה קטן.
 
-### The Vallée-Hynek cross-cultural folklore framework
+### מסגרת הפולקלור החוצה-תרבותית של ואלה-היינק
 
-The Vallée-Hynek cross-cultural folklore framework (treated in the [Ufology](../ufology/) entry's *Comparative observations* section) operates substantively as adjacent framework for engaging crop circles. The substantive content:
+מסגרת הפולקלור החוצה-תרבותית של ואלה-היינק (המטופלת בסעיף *תצפיות השוואתיות* של ערך {% wiki(slug="ufology") %}אופולוגיה{% end %}) פועלת מהותית כמסגרת סמוכה למעורבות עם מעגלי תבואה. התוכן המהותי:
 
-- **The substantial folkloric-modern continuity.** Vallée's framework articulates structural continuity between modern UFO accounts and cross-cultural folklore traditions of encounters with non-human entities.
-- **The substantial crop-circle parallel.** The substantial cross-cultural fairy-circle tradition operates substantively as folkloric parallel to modern crop circles within the Vallée framework, though the substantive scale and form distinctions are methodologically significant.
-- **The substantive interpretive implications.** Within the Vallée framework, modern crop circles operate substantively as contemporary expression of substantial cross-cultural pattern of unexplained agricultural-pattern phenomena.
+- **הרציפות הפולקלורית-מודרנית המהותית.** מסגרת ואלה מנסחת רציפות מבנית בין דיווחי UFO מודרניים למסורות פולקלור חוצה-תרבותיות של מפגשים עם ישויות לא-אנושיות.
+- **ההקבלה המהותית למעגל-תבואה.** מסורת עיגול-הפיות החוצה-תרבותית המהותית פועלת מהותית כהקבלה פולקלוריסטית למעגלי תבואה מודרניים בתוך מסגרת ואלה, אם כי ההבחנות המהותיות בקנה המידה והצורה חשובות מתודולוגית.
+- **ההשלכות הפרשניות המהותיות.** בתוך מסגרת ואלה, מעגלי תבואה מודרניים פועלים מהותית כביטוי בן זמננו של דפוס חוצה-תרבותי מהותי של תופעות בלתי-מוסברות של דפוסים חקלאיים.
 
-The corpus position: the Vallée framework operates as substantive adjacent framework for engaging crop circles; the substantive methodological distinction between modern crop circles and substantial folkloric fairy-circle traditions warrants substantive acknowledgment; the substantial folkloric content operates substantively as cultural context rather than as substantive empirical foundation for the modern phenomenon.
+עמדת הקורפוס: מסגרת ואלה פועלת כמסגרת סמוכה מהותית למעורבות עם מעגלי תבואה; ההבחנה המתודולוגית המהותית בין מעגלי תבואה מודרניים למסורות פולקלוריסטיות מהותיות של עיגול-פיות מצדיקה הכרה מהותית; התוכן הפולקלוריסטי המהותי פועל מהותית כהקשר תרבותי ולא כיסוד אמפירי מהותי לתופעה המודרנית.
 
-### The Vorilhon-source engagement
+### המעורבות ממקור וורילון
 
-The Vorilhon source articulates substantive engagement with crop circles principally through one specific case. The substantive content from the *Message from the Designers* foreword:
+מקור וורילון מנסח מעורבות מהותית עם מעגלי תבואה בעיקר באמצעות מקרה ספציפי אחד. התוכן המהותי מהקדמת *מסר מהמתכננים*:
 
-> *"Not long after we built a small scale model of the embassy based on these drawings, a crop circle appeared in England which bore an astonishing resemblance to it."*
+> *»זמן לא רב לאחר שבנינו מודל בקנה מידה קטן של השגרירות על בסיס הציורים הללו, הופיע מעגל תבואה באנגליה שנשא לו דמיון מדהים.«*
 
-The substantive content:
+התוכן המהותי:
 
-- **The specific crop circle case.** A formation appearing in England (specific location and date not articulated in the source) that bore substantive resemblance to the Raëlian embassy small-scale model.
-- **The substantive interpretive framework.** The Vorilhon source articulates this as substantively meaningful within corpus framework, though the source does not adopt the strong "all crop circles are alliance messages" framing that some alternative ufology articulates.
-- **The substantive cultural-historical context.** The acknowledgments page of *Message from the Designers* thanks "Colin Andrews (www.CropCircleInfo.com) for permission to use the crop circle aerial photograph taken at Cheesefoot Head in Wiltshire, England in August 1990," substantively indicating substantive Raëlian engagement with crop circle phenomena across the 1990s.
+- **מקרה מעגל-התבואה הספציפי.** תצורה שהופיעה באנגליה (מיקום ספציפי ותאריך לא מנוסחים במקור) שנשאה דמיון מהותי למודל {% wiki(slug="embassy") %}השגרירות{% end %} הראליאני בקנה מידה קטן.
+- **המסגרת הפרשנית המהותית.** מקור וורילון מנסח זאת כמשמעותי מהותית בתוך מסגרת הקורפוס, אם כי המקור אינו מאמץ את המסגור החזק »כל מעגלי התבואה הם מסרי ברית« שאופולוגיה חלופית מסוימת מנסחת.
+- **ההקשר התרבותי-היסטורי המהותי.** עמוד התודות של *מסר מהמתכננים* מודה ל»קולין אנדרוס (www.CropCircleInfo.com) על הרשות להשתמש בצילום האווירי של מעגל התבואה שצולם בצ'יזפוט הד בווילטשייר, אנגליה באוגוסט 1990,« מצביע מהותית על מעורבות ראליאנית מהותית עם תופעות מעגלי תבואה לאורך שנות התשעים.
 
-The substantive Raëlian engagement operates principally through:
+המעורבות הראליאנית המהותית פועלת בעיקר באמצעות:
 
-- **The substantial Cheesefoot Head 1990 formation engagement.** The formation Colin Andrews photographed and the Raëlian source acknowledged operates as substantive case material within the corpus framework's engagement.
-- **The substantial embassy-resemblance case.** The specific case the Vorilhon source articulates as substantively meaningful.
-- **The substantial broader Raëlian organizational engagement.** The substantial international Raëlian Movement's engagement with crop circle phenomena operates substantively at the level of cultural interest and selective case engagement rather than as systematic alliance-communication framework.
+- **המעורבות המהותית עם תצורת צ'יזפוט הד 1990.** התצורה שקולין אנדרוס צילם ושהמקור הראליאני אישר פועלת כחומר מקרה מהותי בתוך מעורבות מסגרת הקורפוס.
+- **מקרה הדמיון-לשגרירות המהותי.** המקרה הספציפי שמקור וורילון מנסח כמשמעותי מהותית.
+- **המעורבות הארגונית הראליאנית הרחבה יותר המהותית.** מעורבותה של {% wiki(slug="raelism") %}התנועה הראליאנית{% end %} הבינלאומית המהותית עם תופעות מעגלי תבואה פועלת מהותית ברמה של עניין תרבותי ומעורבות סלקטיבית במקרים ולא כמסגרת תקשורת-ברית שיטתית.
 
-The substantive corpus position on the Vorilhon-source engagement:
+עמדת הקורפוס המהותית על המעורבות ממקור וורילון:
 
-- **The substantive specific case has substantive corpus-internal meaning.** The embassy-resemblance formation operates as substantively meaningful within corpus framework.
-- **The broader crop-circle phenomenon is not articulated as principal alliance-communication mechanism.** The Vorilhon source's principal alliance-communication content operates through direct contact narrative (1973 Puy-de-Lassolas; 1975 home planet transport; subsequent contact events) and through prophetic transmission, not through crop circle manifestation.
-- **The substantive Raëlian organizational engagement with crop circles operates at cultural-interest level.** The substantial Raëlian engagement is substantive cultural-historical fact without operating as substantive doctrinal commitment.
+- **למקרה הספציפי המהותי יש משמעות פנים-קורפוסית מהותית.** תצורת הדמיון-לשגרירות פועלת כמשמעותית מהותית בתוך מסגרת הקורפוס.
+- **תופעת מעגלי-התבואה הרחבה יותר אינה מנוסחת כמנגנון תקשורת-ברית עיקרי.** תוכן תקשורת-הברית העיקרי של מקור וורילון פועל באמצעות נרטיב מגע ישיר (1973 פוי-דה-לסולה; 1975 הובלה לכוכב הלכת הביתי; אירועי מגע שלאחר מכן) ובאמצעות שידור נבואי, לא באמצעות התגלות מעגל-תבואה.
+- **המעורבות הארגונית הראליאנית המהותית עם מעגלי תבואה פועלת ברמת עניין-תרבותי.** המעורבות הראליאנית המהותית היא עובדה תרבותית-היסטורית מהותית מבלי לתפקד כמחויבות דוקטרינלית מהותית.
 
-The substantive editorial articulation: the corpus engages crop circles substantively as ufology-adjacent phenomenon with one specific case operating as substantively meaningful within Vorilhon-source content. The broader phenomenon is engaged at descriptive level without adoption as principal alliance-communication mechanism.
+הניסוח העריכתי המהותי: הקורפוס מתעסק עם מעגלי תבואה מהותית כתופעה צמודה-לאופולוגיה עם מקרה ספציפי אחד הפועל כמשמעותי מהותית בתוך תוכן מקור וורילון. התופעה הרחבה יותר מטופלת ברמה תיאורית ללא אימוץ כמנגנון תקשורת-ברית עיקרי.
 
-### The contemporary cultural-artistic dimensions
+### הממדים התרבותיים-אמנותיים בני זמננו
 
-The substantive contemporary cultural-artistic engagement with crop circles operates substantively beyond ufological framework:
+המעורבות התרבותית-אמנותית המהותית בת זמננו עם מעגלי תבואה פועלת מהותית מעבר למסגרת אופולוגית:
 
-- **The substantial land-art and environmental-art tradition.** Crop circles operate substantively within the broader contemporary land-art tradition extending from Robert Smithson's *Spiral Jetty* (1970) through substantial subsequent environmental-art practice. The Circlemakers group and broader organized circle-making community engages this tradition substantively.
-- **The substantial public-art and ephemeral-art tradition.** Crop circles operate substantively as ephemeral public art, with substantial subsequent photographic documentation as principal preservation mechanism.
-- **The substantial spectacle-and-tourism dimension.** The substantial Wiltshire crop circle tourism operates substantively as cultural-economic phenomenon, with substantial subsequent visitor engagement, photography tourism, and broader cultural-tourism economy.
-- **The substantial film and media engagement.** The substantial cultural representation of crop circles in film (the 2002 M. Night Shyamalan *Signs*; substantial subsequent productions), television, music videos, and broader media engagement.
-- **The substantial New Age and alternative-spiritual cultural engagement.** Crop circles operate substantively as principal contemporary New Age symbolic content, with substantial subsequent engagement in alternative-spiritual literature, meditation practice, and broader cultural framework.
+- **מסורת הלנד-ארט והאמנות הסביבתית המהותית.** מעגלי תבואה פועלים מהותית בתוך מסורת הלנד-ארט בת זמננו הרחבה יותר המתפשטת מ-*Spiral Jetty* של רוברט סמית'סון (1970) לאורך פרקטיקת אמנות סביבתית מהותית שלאחר מכן. קבוצת Circlemakers וקהילת יצירת המעגלים המאורגנת הרחבה יותר מתעסקות עם מסורת זו מהותית.
+- **מסורת האמנות הציבורית והאמנות הזמנית המהותית.** מעגלי תבואה פועלים מהותית כאמנות ציבורית זמנית, עם תיעוד צילומי מהותי שלאחר מכן כמנגנון שימור עיקרי.
+- **ממד המחזה והתיירות המהותי.** תיירות מעגלי התבואה המהותית בווילטשייר פועלת מהותית כתופעה תרבותית-כלכלית, עם מעורבות מבקרים מהותית שלאחר מכן, תיירות צילום, וכלכלת תיירות-תרבותית רחבה יותר.
+- **המעורבות בסרטים ובמדיה המהותית.** הייצוג התרבותי המהותי של מעגלי תבואה בסרטים (*Signs* של מ. נייט שיאמלאן מ-2002; הפקות מהותיות שלאחר מכן), טלוויזיה, קליפי מוסיקה ומעורבות מדיה רחבה יותר.
+- **המעורבות התרבותית הניו-אייג'ית והרוחנית-חלופית המהותית.** מעגלי תבואה פועלים מהותית כתוכן סמלי ניו-אייג' עיקרי בן זמננו, עם מעורבות מהותית שלאחר מכן בספרות רוחנית-חלופית, פרקטיקת מדיטציה ומסגרת תרבותית רחבה יותר.
 
-The corpus position: the substantive cultural-artistic dimensions of contemporary crop circles operate substantively as principal contemporary engagement, with the substantial ufological framework operating as one component within the broader cultural-artistic phenomenon rather than as principal interpretive framework.
+עמדת הקורפוס: הממדים התרבותיים-אמנותיים המהותיים של מעגלי תבואה בני זמננו פועלים מהותית כמעורבות עיקרית בת זמננו, כאשר המסגרת האופולוגית המהותית פועלת כרכיב אחד בתוך התופעה התרבותית-אמנותית הרחבה יותר ולא כמסגרת פרשנית עיקרית.
 
-### The convergence
+### ההתכנסות
 
-The substantial cross-cultural and historical engagement with crop circles operates substantively as complex cultural-artistic-methodological phenomenon. The substantive corpus position:
+המעורבות החוצה-תרבותית וההיסטורית המהותית עם מעגלי תבואה פועלת מהותית כתופעה תרבותית-אמנותית-מתודולוגית מורכבת. עמדת הקורפוס המהותית:
 
-- **The contemporary phenomenon is principally documented human-made artistic-cultural practice.** The substantive mainstream-scientific framework is substantively well-supported through documented construction methodology.
-- **Substantive residual physical-anomaly questions remain methodologically contested.** The BLT, Haselhoff, and substantial subsequent research operates within substantive methodological controversy.
-- **The substantial alleged extraterrestrial-communication content in specific formations has not been substantively verified.** The Chilbolton, Crabwood, and substantial subsequent communication-claim cases operate within alternative-ufological framework.
-- **The Vorilhon source articulates one specific case as substantively meaningful within corpus framework.** The embassy-resemblance case operates as substantively specific corpus content.
-- **The broader phenomenon is engaged at descriptive level.** The corpus does not adopt the strong "crop circles are alliance messages" framing; the substantive alliance-contact framework operates through Vorilhon-source contact narrative rather than through crop-circle manifestation.
+- **התופעה בת זמננו היא בעיקר פרקטיקה אמנותית-תרבותית עשויית-אדם מתועדת.** המסגרת המדעית-מיינסטרימית המהותית נתמכת היטב מהותית באמצעות מתודולוגיית בנייה מתועדת.
+- **שאלות פיזיקליות-אנומליות שיוריות מהותיות נותרות מעורערות מתודולוגית.** מחקרי BLT, האזלהוף, ומחקר מהותי שלאחר מכן פועל בתוך מחלוקת מתודולוגית מהותית.
+- **תוכן התקשורת החוץ-ארצית הנטען המהותי בתצורות ספציפיות לא אומת מהותית.** צ'ילבולטון, קראבווד, ומקרי טענות-תקשורת מהותיים שלאחר מכן פועלים בתוך מסגרת אופולוגית-חלופית.
+- **מקור וורילון מנסח מקרה ספציפי אחד כמשמעותי מהותית בתוך מסגרת הקורפוס.** מקרה הדמיון-לשגרירות פועל כתוכן קורפוסי ספציפי מהותית.
+- **התופעה הרחבה יותר מטופלת ברמה תיאורית.** הקורפוס אינו מאמץ את המסגור החזק »מעגלי תבואה הם מסרי ברית«; מסגרת מגע-הברית המהותית פועלת באמצעות נרטיב המגע ממקור וורילון ולא באמצעות התגלות מעגל-תבואה.
 
-The substantive corpus engagement threads the documented mainstream-scientific consensus, the substantive residual-anomaly research, the substantial alternative-ufological tradition, and the specific Vorilhon-source content with substantive epistemic care.
-
-## See also
-
-- [Wheel of Heaven](../wheel-of-heaven/)
-- [Ufology](../ufology/)
-- [Astrobiology](../astrobiology/)
-- [Drake Equation](../drake-equation/)
-- [Ancient Astronaut Hypothesis](../ancient-astronaut-hypothesis/)
-- [Embassy](../embassy/)
-- [New Jerusalem](../new-jerusalem/)
-- [Third Temple](../third-temple/)
-- [Comparative Mythology](../comparative-mythology/)
-- [Sacred Geometry](../sacred-geometry/)
-- [Archaeoastronomy](../archaeoastronomy/)
-- [Elohim Home Planet](../elohim-home-planet/)
-- [Raël](../rael/)
-- [Raëlism](../raelism/)
-- [Message from the Designers](../message-from-the-designers/)
-- [Age of Aquarius](../age-of-aquarius/)
-
-## References
-
-### Principal Raëlian source
-
-Vorilhon, Claude (Raël). *Message from the Designers*. Tagman Press, 2005.
-
-### Foundational documentation
-
-Delgado, Pat, and Colin Andrews. *Circular Evidence: A Detailed Investigation of the Flattened Swirled Crops Phenomenon*. Bloomsbury, 1989.
-
-Andrews, Colin, and Stephen J. Spignesi. *Crop Circles: Signs of Contact*. New Page Books, 2003.
-
-Pringle, Lucy. *Crop Circles: The Greatest Mystery of Modern Times*. Thorsons, 1999.
-
-### Circlemakers and organized circle-making
-
-Irving, Rob, and John Lundberg. *The Field Guide: The Art, History and Philosophy of Crop Circle Making*. Strange Attractor Press, 2006.
-
-Circlemakers.org. <http://www.circlemakers.org>.
-
-### Bower-Chorley confession
-
-Schnabel, Jim. *Round in Circles: Physicists, Poltergeists, Pranksters, and the Secret History of the Cropwatchers*. Hamish Hamilton, 1993.
-
-### The plasma vortex hypothesis
-
-Meaden, Terence. *The Circles Effect and Its Mysteries*. Artetech, 1989.
-
-### The residual-anomaly research program
-
-Levengood, William C. "Anatomical Anomalies in Crop Formation Plants." *Physiologia Plantarum* 92, no. 2 (1994): 356-363.
-
-Haselhoff, Eltjo H. *The Deepening Complexity of Crop Circles: Scientific Research and Urban Legends*. Frog Books, 2001.
-
-Haselhoff, Eltjo H. "Opinions and Comments on Levengood WC, Talbott NP (1999) Dispersion of Energies in Worldwide Crop Formations." *Physiologia Plantarum* 111, no. 1 (2001): 123-125.
-
-BLT Research Team. <http://www.bltresearch.com>.
-
-### Alternative-ufological frameworks
-
-Howe, Linda Moulton. *Glimpses of Other Realities*. 2 vols. LMH Productions, 1993-1998.
-
-### Methodological and historical engagement
-
-Schnabel, Jim. *Round in Circles*. Hamish Hamilton, 1993.
-
-Nickell, Joe. "Levengood's Crop-Circle Plant Research." *Skeptical Inquirer* 20, no. 2 (1996): 19-21.
-
-Nickell, Joe. *Real-Life X-Files: Investigating the Paranormal*. University Press of Kentucky, 2001.
-
-### Pamphlet-literature context
-
-Walsham, Alexandra. *Providence in Early Modern England*. Oxford University Press, 1999.
-
-Friedman, Jerome. *Miracles and the Pulp Press during the English Revolution*. UCL Press, 1993.
-
-### Wiltshire prehistoric landscape
-
-Burl, Aubrey. *Prehistoric Avebury*. Yale University Press, 1979. Revised edition, 2002.
-
-Pollard, Joshua, and Andrew Reynolds. *Avebury: The Biography of a Landscape*. Tempus, 2002.
-
-### Web resources
-
-"Crop circle." *Wikipedia*. <https://en.wikipedia.org/wiki/Crop_circle>.
-
-"Doug Bower and Dave Chorley." *Wikipedia*. <https://en.wikipedia.org/wiki/Doug_Bower_and_Dave_Chorley>.
-
-"Circlemakers." <http://www.circlemakers.org>.
-
-"BLT Research Team." <http://www.bltresearch.com>.
-
-"Mowing-Devil." *Wikipedia*. <https://en.wikipedia.org/wiki/Mowing-Devil>.
+המעורבות הקורפוסית המהותית משחילה את הקונצנזוס המדעי-מיינסטרימי המתועד, את מחקר האנומליה השיורית המהותי, את המסורת האופולוגית-חלופית המהותית, ואת התוכן הספציפי ממקור וורילון בזהירות אפיסטמית מהותית.

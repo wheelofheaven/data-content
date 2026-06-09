@@ -1,551 +1,545 @@
 +++
 title = "Круги на полях"
-description = "Круги на полях — геометрические рисунки, появляющиеся на зерновых полях, часть которых отличается сложностью и точностью, трудно сводимыми к человеческим розыгрышам. Корпус Wheel of Heaven каталогизирует их как возможный канал элохимической коммуникации, требующий изучения без преждевременных заключений."
+slug = "crop-circles"
+description = "Круги на полях, или формации на полях, — это крупные узоры, производимые систематическим уплощением сельскохозяйственных культур (главным образом пшеницы, ячменя, рапса, ржи, кукурузы, льна и сои) в геометрические, математические или символические рисунки. Современное явление возникло главным образом на юге Англии в конце 1970-х годов с существенной последующей географической концентрацией в регионе Уилтшир (значительная область Эйвбери — Стоунхендж — Силбери-Хилл — Олтон-Барнс) и существенным последующим международным распространением. Wheel of Heaven подходит к кругам на полях с методологической осторожностью: подавляющее большинство современных формаций задокументировано как созданные человеком; существенные остаточные физические аномалии в избранных формациях остаются неразрешёнными в рамках мейнстримно-научного фреймворка; источник Ворильона артикулирует один конкретный случай (формацию-сходство с моделью посольства) как существенно значимый в рамках корпуса."
 template = "wiki-page.html"
 toc = true
 
 [extra]
-translation_status = "metadata_only"
 editorial_pass = "2026-05"
+claim_type = "framework"
 category = "Ufology"
 entry_type = "concept"
-alternative_names = ["crop circles", "crop formations", "agriglyphs (occasional alternative)", "pictograms (1990s technical designation)", "cercles de cultures (French)", "Kornkreise (German)"]
+alternative_names = ["круги на полях", "формации на полях", "аглифы (нерегулярная альтернатива)", "пиктограммы (техническое обозначение 1990-х)", "cercles de cultures (французский)", "Kornkreise (немецкий)"]
 timeline = ["age-of-aquarius"]
+see_also = [
+    { title = "Уфология", path = "wiki/ufology", description = "Дисциплинарный контекст, в котором круги на полях оперируют как одно привлекаемое явление." },
+    { title = "Посольство", path = "wiki/embassy", description = "Раэлианский проект посольства — существенная мелкомасштабная модель которого, по сообщению, имела поразительное сходство с кругом на поле в источнике Ворильона." },
+    { title = "Родная планета Элохим", path = "wiki/elohim-home-planet", description = "Родной мир альянса, чей существенный фреймворк альянсового контакта оперирует через контактное повествование источника Ворильона." },
+    { title = "Гипотеза древних астронавтов", path = "wiki/ancient-astronaut-hypothesis", description = "Более широкий интерпретативный фреймворк, в котором оперируют альтернативно-уфологические интерпретации кругов на полях." },
+    { title = "Сакральная геометрия", path = "wiki/sacred-geometry", description = "Существенная геометрическая изощрённость, присутствующая в современных формациях кругов на полях." },
+    { title = "Археоастрономия", path = "wiki/archaeoastronomy", description = "Существенный доисторический монументальный ландшафт Уилтшира, в котором оперирует современная концентрация кругов на полях." },
+]
+
+footnotes = [
+    { content = "Существенное методологическое преобразование, последовавшее за признанием Бауэра — Чорли 9 сентября 1991 года, является несущим для позиции корпуса. До признания существенная литература 1980-х годов (*Circular Evidence* Делгадо и Эндрюса; существенное сообщество церелогов; фреймворк плазменного вихря Мидена) рассматривала существенное увеличение числа формаций на протяжении десятилетия как существенно необъяснённое явление. После признания основной мейнстримный фреймворк дисциплины сместился в сторону задокументированной созданной человеком художественно-культурной практики. Существенная демонстрация методологии конструкции — Бауэр и Чорли построили формацию для журналистов приблизительно за 45 минут, причём получившийся круг был идентифицирован исследователями кругов на полях как подлинный, — существенно установила методологическую жизнеспособность человеческого построения в масштабе и сложности формаций фазы 1980-х годов. Существенная последующая документация организованного создания кругов (Circlemakers; Team Satan; существенная международная традиция создания кругов) существенно расширяет продемонстрированный фреймворк." },
+    { content = "Гипотеза плазменного вихря Теренса Мидена была опубликована в рецензируемой метеорологической литературе и оперировала в существенном научном фреймворке на протяжении 1980-х годов. Существенный отказ от неё на протяжении 1990-х годов отражает два главных фактора: (1) сложность формаций существенно превосходила правдоподобный выход вихря по мере продвижения 1990-х годов — существенные геометрические формации с резкими краями, замысловатыми узорами и существенным пиктографическим содержанием не могут правдоподобно производиться атмосферными вихрями; (2) признание Бауэра — Чорли и существенная последующая документация организованного создания кругов объяснили основные формации, которые Миден приписывал плазменным вихрям. Миден существенно модифицировал свою позицию на протяжении последующих десятилетий, признавая, что существенное большинство современных формаций создано человеком, при сохранении существенного привлечения избранных случаев ранней фазы. Существенное историко-научное значение: рецензируемая научная гипотеза была существенно протестирована против последующих свидетельств и оставлена своим главным сторонником — методологический паттерн оперирует существенно в рамках стандартной научной практики." },
+    { content = "Статус памфлета 1678 года «Косящий дьявол» (*The Mowing Devil*) как прецедента кругов на полях существенно методологически проблематичен. Памфлет описывает скашивание (чистое срезание стоящих культур) — существенно отличное от уплощения, характерного для современных кругов на полях. Памфлет оперирует в существенной английской бульварно-листовой традиции XVII века (обширно задокументированной в *Providence in Early Modern England* Уолшем и в *Miracles and the Pulp Press* Фридмана), которая производила литературу сверхъестественных чудес в моралистично-аллегорическом фреймворке, а не как прямую очевидческую журналистику. Фольклорная наука (Боб Трубшоу, Джереми Харт, другие) привлекла «Косящего дьявола» в рамках конвенций памфлетов XVII века; исследование кругов на полях главным образом привлекало его как свидетельство домодерных кругов на полях. Позиция корпуса: случай «Косящего дьявола» — это иная категория, чем современные круги на полях, и существенный культурно-исторический интерес случая подлинен, не оперируя как прямой прецедент в дисциплинарной истории." },
+    { content = "Программа исследований остаточных аномалий (BLT Research Team; Эльтьо Хазелхофф; существенные последующие исследователи) произвела существенную рецензируемую публикацию (Левенгуд 1994 в *Physiologia Plantarum*; Хазелхофф 2001 в *Physiologia Plantarum*), но существенная последующая литература оперировала главным образом вне рецензирования. Существенная методологическая критика (существенное скептическое привлечение Джо Никелла; более широкий мейнстримно-научный фреймворк) включает существенные опасения относительно отбора в выборе случаев, методологии отбора почвенных проб, контроля статистического анализа и существенного различия между подлинными аномалиями и более широкими эффектами выборки. Корпус привлекает эту работу описательно, отмечая существенно оспариваемый методологический статус; работа существенно не установила сильную позицию «круги на полях не могут быть объяснены через человеческое построение», которую продвигает программа исследований." },
+    { content = "Чилболтонский «ответ Аресибо» (август 2001) и крэбвудское «лицо инопланетянина» (август 2002) оперируют как главные альтернативно-уфологические случаи существенно нечеловеческого содержания коммуникации. Ни один из случаев не был заявлен какой-либо организованной группой создателей кругов; оба случая включают существенное предполагаемое содержание коммуникации (чилболтонские битмап-закодированные вариации оригинального сообщения Аресибо; крэбвудское ASCII-закодированное предупредительное сообщение). Существенный методологический статус: ни один случай не был существенно верифицирован как нечеловеческий через методологию, которую принимает мейнстримная наука. Позиция корпуса фиксирует существенный интерпретативный интерес этих случаев, не принимая их содержание как существенно установленное сообщение от нечеловеческих сущностей; случаи оперируют в альтернативно-уфологическом фреймворке, а не в существенно верифицированной методологии контакта." },
+    { content = "Привлечение источником Ворильона кругов на полях оперирует главным образом через один конкретный случай — упоминание в предисловии к *Посланию от Создателей* круга на поле в Англии, имеющего «поразительное сходство» с мелкомасштабной моделью посольства, которую построили раэлианские архитекторы. Корпус не экстраполирует от этого конкретного случая к сильному обрамлению «круги на полях — это альянсовые послания», которое артикулирует некоторая альтернативная уфология. Существенный фреймворк альянсовой коммуникации, по прочтению корпуса, оперирует через контактное повествование Ворильона (13 декабря 1973 года в Пюи-де-Лассолас; 7 октября 1975 года перенос на родную планету; последующие контактные события) и через пророческую передачу, а не через манифестацию кругов на полях. Существенная раэлианская организационная вовлечённость с кругами на полях на протяжении пост-1990-х годов (фотографическое признание Чизфут-Хед 1990; последующий интерес) оперирует существенно на уровне культурного интереса и избирательного привлечения случаев, а не как систематическое доктринальное обязательство." },
+]
+
+[[extra.references]]
+id = "the-book-which-tells-the-truth"
+locator = "Предисловие"
+note = "Основополагающий раэлианский источник — упоминание в предисловии к *Посланию от Создателей* круга на поле, имеющего поразительное сходство с раэлианской мелкомасштабной моделью посольства."
+
+[[extra.references]]
+id = "circular-evidence"
+note = "Основополагающее привлечение Делгадо и Эндрюса 1989 года к британскому явлению кругов на полях — главная книжная трактовка до признания Бауэра — Чорли."
+
+[[extra.references]]
+id = "crop-circles-signs-of-contact"
+note = "Артикуляция Эндрюса и Спиньези 2003 года альтернативно-уфологического фреймворка после признания Бауэра — Чорли."
+
+[[extra.references]]
+id = "pringle-crop-circles"
+note = "Доступный синтез Прингл 1990-х годов от основательницы существенного Архива кругов на полях Прингл."
+
+[[extra.references]]
+id = "the-field-guide-crop-circle-making"
+note = "Главная задокументированная артикуляция Ирвинга и Лундберга современной организованной практики создания кругов изнутри коллектива Circlemakers."
+
+[[extra.references]]
+id = "round-in-circles-schnabel"
+note = "Журналистское привлечение Шнабеля к институциональной истории дисциплины через преобразование признания Бауэра — Чорли 1991 года."
+
+[[extra.references]]
+id = "the-circles-effect-meaden"
+note = "Главная артикуляция Мидена гипотезы плазменного вихря — существенно оставленная на протяжении 1990-х годов, но оперировавшая в рецензируемом научном фреймворке."
+
+[[extra.references]]
+id = "levengood-physiologia-plantarum-1994"
+note = "Основополагающая рецензируемая публикация Левенгуда фреймворка остаточных аномалий BLT Research Team."
+
+[[extra.references]]
+id = "the-deepening-complexity-crop-circles"
+note = "Главная доступная артикуляция Хазелхофф фреймворка исследований остаточных аномалий."
+
+[[extra.references]]
+id = "haselhoff-physiologia-plantarum-2001"
+note = "Рецензируемое расширение Хазелхофф анализа изгиба узлов Левенгуда."
+
+[[extra.references]]
+id = "glimpses-of-other-realities"
+note = "Существенное привлечение Хау к альтернативной уфологии, включая материал случаев кругов на полях."
+
+[[extra.references]]
+id = "nickell-levengood-skeptical-inquirer-1996"
+note = "Главная опубликованная скептическая критика Никелла исследования остаточных аномалий Левенгуда."
+
+[[extra.references]]
+id = "real-life-x-files-nickell"
+note = "Артикуляция Никеллом систематической методологии скептического исследования, применённой к кругам на полях и более широким паранормальным утверждениям."
+
+[[extra.references]]
+id = "providence-in-early-modern-england"
+note = "Основополагающая трактовка Уолшем английской бульварно-листовой традиции XVII века, в которой оперирует памфлет «Косящий дьявол» 1678 года."
+
+[[extra.references]]
+id = "miracles-and-the-pulp-press"
+note = "Трактовка Фридмана английской бульварной прессы середины XVII века в её привлечении чудесного содержания."
+
+[[extra.references]]
+id = "prehistoric-avebury"
+note = "Основополагающая трактовка Бёрлом существенного комплекса Эйвбери-Хендж и более широкого доисторического монументального ландшафта Уилтшира."
+
+[[extra.references]]
+id = "avebury-biography-of-a-landscape"
+note = "Современный научный синтез Полларда и Рейнольдса археологии ландшафта Эйвбери."
 
 [extra.infobox]
-type = "Large patterns produced by systematic flattening of agricultural crops into geometric, mathematical, or symbolic designs; methodologically complex phenomenon operating across documented human-made artistic-cultural practice and substantively contested alternative-ufological interpretation"
-phenomenon_emergence = "Late 1970s in southern England, principally Hampshire and Wiltshire; substantial subsequent geographic concentration in Wiltshire (Avebury-Stonehenge-Silbury Hill-Alton Barnes region); subsequent international occurrence"
-principal_methodological_transformation = "September 9, 1991 Doug Bower and Dave Chorley *Today* newspaper confession of authorship for principal early formations using ropes, planks, sighting-hole caps; substantial subsequent demonstration of construction methodology"
-principal_organized_groups = "Circlemakers (John Lundberg, Rod Dickinson, Wil Russell, Rob Irving); Team Satan; substantial international circle-making tradition"
-principal_mainstream_consensus = "Substantially human-made formations operating principally as artistic-cultural phenomenon; documented construction methodology; substantial geographic concentration consistent with organized circle-making activity"
-substantive_residual_questions = "Selected formations with reported physical anomalies (node-bending patterns, magnetite distributions, electromagnetic effects) engaged by BLT Research Team (John Burke, William Levengood, Nancy Talbott), Eltjo Haselhoff, others; substantial subsequent methodological debate"
-principal_corpus_engagement = "Vorilhon source articulates one specific case (embassy-model-resemblance formation) as substantively meaningful within corpus framework; broader crop-circle phenomenon engaged at descriptive level without substantive adoption as principal alliance-communication mechanism"
-distinguished_from = "Crop damage from natural causes (lodging from wind, rain, animals); aerial-phenomenon-with-ground-trace cases (substantially different category; treated in Ufology entry); the 1678 Mowing Devil pamphlet (contested as crop-circle precedent; engages substantively different supernatural-mowing narrative)"
-status_in_framework = "Substantively methodologically complex phenomenon engaged with epistemic care; corpus position threads documented human authorship and alleged residual anomalies without adopting strong alien-communication framing"
+type = "Крупные узоры, производимые систематическим уплощением сельскохозяйственных культур в геометрические, математические или символические рисунки; методологически сложное явление, оперирующее через задокументированную созданную человеком художественно-культурную практику и существенно оспариваемую альтернативно-уфологическую интерпретацию"
+phenomenon_emergence = "Конец 1970-х годов на юге Англии, главным образом в Хэмпшире и Уилтшире; существенная последующая географическая концентрация в Уилтшире (регион Эйвбери — Стоунхендж — Силбери-Хилл — Олтон-Барнс); последующее международное распространение"
+principal_methodological_transformation = "Признание Дуга Бауэра и Дэйва Чорли в газете *Today* 9 сентября 1991 года в авторстве основных ранних формаций с использованием верёвок, досок, кепок с прицельными отверстиями; существенная последующая демонстрация методологии конструкции"
+principal_organized_groups = "Circlemakers (Джон Лундберг, Род Дикинсон, Уил Расселл, Роб Ирвинг); Team Satan; существенная международная традиция создания кругов"
+principal_mainstream_consensus = "Существенно созданные человеком формации, оперирующие главным образом как художественно-культурное явление; задокументированная методология конструкции; существенная географическая концентрация согласуется с организованной деятельностью по созданию кругов"
+substantive_residual_questions = "Избранные формации с сообщаемыми физическими аномалиями (паттерны изгиба узлов, распределения магнетита, электромагнитные эффекты), привлекаемые BLT Research Team (Джон Бёрк, Уильям Левенгуд, Нэнси Тэлботт), Эльтьо Хазелхофф, другими; существенная последующая методологическая дискуссия"
+principal_corpus_engagement = "Источник Ворильона артикулирует один конкретный случай (формация-сходство с моделью посольства) как существенно значимый в рамках корпуса; более широкое явление кругов на полях привлекается на описательном уровне без существенного принятия в качестве главного механизма альянсовой коммуникации"
+distinguished_from = "Повреждение культур естественными причинами (полегание от ветра, дождя, животных); случаи воздушных явлений с наземными следами (существенно иная категория; трактуется в статье «Уфология»); памфлет «Косящий дьявол» 1678 года (оспаривается как прецедент кругов на полях; привлекает существенно иное повествование о сверхъестественном скашивании)"
+status_in_framework = "Существенно методологически сложное явление, привлекаемое с эпистемической осторожностью; позиция корпуса проводит линию между задокументированным человеческим авторством и предполагаемыми остаточными аномалиями, не принимая сильное обрамление инопланетной коммуникации"
 +++
 
-**Crop circles**, or **crop formations**, are large patterns produced by the systematic flattening of agricultural crops (principally wheat, barley, rapeseed, rye, corn, linseed, and soy) into geometric, mathematical, or symbolic designs. The contemporary phenomenon emerged principally in southern England during the late 1970s, with substantial subsequent geographic concentration in the Wiltshire region (the Avebury-Stonehenge-Silbury Hill-Alton Barnes area) and subsequent international occurrence.
+**Круги на полях**, или **формации на полях**, — это крупные узоры, производимые систематическим уплощением сельскохозяйственных культур (главным образом пшеницы, ячменя, рапса, ржи, кукурузы, льна и сои) в геометрические, математические или символические рисунки. Современное явление возникло главным образом на юге Англии в конце 1970-х годов с существенной последующей географической концентрацией в регионе Уилтшир (область Эйвбери — Стоунхендж — Силбери-Хилл — Олтон-Барнс) и последующим международным распространением.
 
-The phenomenon underwent substantive methodological transformation on **September 9, 1991**, when British men **Doug Bower** (1924-2020) and **Dave Chorley** (1922-1996) confessed in the *Today* newspaper to having created the principal early formations from 1978 onward. Bower and Chorley demonstrated their construction methodology — ropes, planks, and baseball caps fitted with sighting holes for alignment — and accounted for the substantial increase in formations across the 1980s. Their confession was substantively verified through demonstration: Bower and Chorley constructed a circle for journalists in approximately 45 minutes, with the resulting formation indistinguishable from the substantial preceding cases by visual inspection.
+Явление претерпело существенное методологическое преобразование **9 сентября 1991 года**, когда британцы **Дуг Бауэр** (1924–2020) и **Дэйв Чорли** (1922–1996) признались в газете *Today*, что начиная с 1978 года создавали основные ранние формации.{{ cite(id="round-in-circles-schnabel", text="[1]", title="Шнабель, *Round in Circles* (1993) — журналистский отчёт о преобразовании дисциплины через признание Бауэра — Чорли") }} Бауэр и Чорли продемонстрировали свою методологию конструкции — верёвки, доски и бейсбольные кепки с прицельными отверстиями для выравнивания — и объяснили существенное увеличение числа формаций на протяжении 1980-х годов. Их признание было существенно верифицировано посредством демонстрации: Бауэр и Чорли построили круг для журналистов приблизительно за 45 минут, причём получившаяся формация была визуально неотличима от существенных предшествующих случаев.{{ footnote(id="1") }}
 
-The substantive subsequent emergence of organized circle-making groups across the 1990s — principally **Circlemakers** (founded by John Lundberg with Rod Dickinson, Wil Russell, and Rob Irving) and the **Team Satan** group (the broader collective from which Circlemakers emerged) — substantially shifted the mainstream-scientific framing toward principally human-made artistic-cultural phenomenon. The Circlemakers group has documented its construction methodology substantively (Rob Irving and John Lundberg's *The Field Guide: The Art, History and Philosophy of Crop Circle Making*, Strange Attractor Press, 2006), produced commissioned commercial circles for advertising and entertainment industry clients, and operated substantively as the principal documented circle-making organization across approximately three decades.
+Существенное последующее появление организованных групп по созданию кругов на протяжении 1990-х годов — главным образом **Circlemakers** (основана Джоном Лундбергом с Родом Дикинсоном, Уилом Расселлом и Робом Ирвингом) и группы **Team Satan** (более широкий коллектив, из которого возникла Circlemakers) — существенно сместило мейнстримно-научное обрамление в сторону главным образом созданного человеком художественно-культурного явления. Группа Circlemakers существенно задокументировала свою методологию конструкции (книга Роба Ирвинга и Джона Лундберга *The Field Guide: The Art, History and Philosophy of Crop Circle Making*, Strange Attractor Press, 2006),{{ cite(id="the-field-guide-crop-circle-making", text="[2]", title="Ирвинг и Лундберг, *The Field Guide: The Art, History and Philosophy of Crop Circle Making* (2006)") }} производила заказные коммерческие круги для клиентов рекламной и развлекательной индустрии и оперировала существенно как главная задокументированная организация по созданию кругов на протяжении приблизительно трёх десятилетий.
 
-The substantial subsequent debate has produced multiple frameworks for engaging the phenomenon:
+Существенная последующая дискуссия произвела несколько фреймворков для привлечения явления:
 
-- **The mainstream-scientific consensus** — crop circles are principally human-made through documented construction techniques. This is the substantively well-supported mainstream position.
-- **The "plasma vortex" hypothesis** — Terence Meaden's substantive 1980s-1990s articulation that natural atmospheric phenomena (specifically rotating columns of ionized plasma) could produce circular flattening patterns. Meaden articulated this principally in *The Circles Effect and Its Mysteries* (1989); the hypothesis was substantively abandoned across the 1990s as documented human-construction evidence accumulated and as formations became substantially more complex than the plasma-vortex framework could plausibly explain.
-- **The residual-anomaly research program** — the BLT Research Team (founded 1989 by John Burke, William Levengood, and Nancy Talbott; subsequently directed principally by Talbott) has produced substantial subsequent literature arguing that selected formations exhibit physical characteristics (node-bending patterns; magnetite distributions; electromagnetic anomalies; biophysical effects on crops) that cannot be explained through purely human construction. Eltjo Haselhoff's *The Deepening Complexity of Crop Circles* (Frog, 2001) and substantial subsequent published research engage this framework.
-- **The alternative-ufological frameworks** — substantial alternative ufology engages selected formations as substantively non-human-made communication content. Principal cases include the Chilbolton "Arecibo response" (August 2001), the Crabwood "alien face" (August 2002), and the substantial subsequent alternative-ufological tradition.
+- **Мейнстримно-научный консенсус** — круги на полях главным образом созданы человеком через задокументированные техники конструкции. Это существенно хорошо подкреплённая мейнстримная позиция.
+- **Гипотеза «плазменного вихря»** — существенная артикуляция Теренса Мидена 1980-х — 1990-х годов о том, что естественные атмосферные явления (конкретно вращающиеся столбы ионизированной плазмы) могут производить круговые паттерны уплощения. Миден артикулировал это главным образом в *The Circles Effect and Its Mysteries* (1989);{{ cite(id="the-circles-effect-meaden", text="[3]", title="Миден, *The Circles Effect and Its Mysteries* (1989) — главная артикуляция гипотезы плазменного вихря") }} от гипотезы существенно отказались на протяжении 1990-х годов по мере накопления задокументированных свидетельств человеческого построения и по мере того, как формации становились существенно более сложными, чем фреймворк плазменного вихря мог правдоподобно объяснить.{{ footnote(id="2") }}
+- **Программа исследований остаточных аномалий** — BLT Research Team (основана в 1989 году Джоном Бёрком, Уильямом Левенгудом и Нэнси Тэлботт; впоследствии руководимая главным образом Тэлботт) произвела существенную последующую литературу, утверждающую, что избранные формации демонстрируют физические характеристики (паттерны изгиба узлов; распределения магнетита; электромагнитные аномалии; биофизические эффекты на культурах), которые не могут быть объяснены через чисто человеческое построение.{{ cite(id="levengood-physiologia-plantarum-1994", text="[4]", title="Левенгуд, 'Anatomical Anomalies in Crop Formation Plants' (Physiologia Plantarum 1994)") }} Книга Эльтьо Хазелхофф *The Deepening Complexity of Crop Circles* (Frog, 2001){{ cite(id="the-deepening-complexity-crop-circles", text="[5]", title="Хазелхофф, *The Deepening Complexity of Crop Circles* (2001)") }} и существенная последующая опубликованная литература привлекают этот фреймворк.
+- **Альтернативно-уфологические фреймворки** — существенная альтернативная {% wiki(slug="ufology") %}уфология{% end %} привлекает избранные формации как существенно нечеловеческое содержание коммуникации. Главные случаи включают чилболтонский «ответ Аресибо» (август 2001), крэбвудское «лицо инопланетянина» (август 2002),{{ cite(id="glimpses-of-other-realities", text="[6]", title="Хау, *Glimpses of Other Realities* (1993–1998) — альтернативно-уфологическое привлечение избранных случаев кругов на полях") }} и существенную последующую альтернативно-уфологическую традицию.
 
-The Wheel of Heaven framework engages crop circles substantively with methodological care that distinguishes the corpus framework from the strong "all crop circles are alien-communication" framing that some alternative ufology adopts. The corpus position:
+Wheel of Heaven подходит к кругам на полях существенно с методологической осторожностью, которая отличает фреймворк корпуса от сильного обрамления «все круги на полях — это инопланетная коммуникация», которое принимает некоторая альтернативная уфология. Позиция корпуса:
 
-- **The substantial majority of contemporary crop circles are documented human-made formations.** The Bower-Chorley confession, the Circlemakers and Team Satan documentation, the substantial international circle-making tradition, and the substantial subsequent literature substantively establish human authorship as the principal explanation for the contemporary phenomenon.
-- **Substantive residual physical anomalies in selected formations remain unresolved.** The BLT Research Team work, the Haselhoff research, and substantial subsequent literature articulate specific physical observations that mainstream-scientific framework has not substantively explained. The corpus engages this work descriptively while flagging the methodologically contested status.
-- **The alleged extraterrestrial-communication content in specific formations operates within alternative-ufological framework.** The Chilbolton, Crabwood, and substantial subsequent communication-claim cases have not been substantively verified through mainstream-scientific methodology. The corpus engages these cases descriptively.
-- **The Vorilhon source articulates one specific case as substantively meaningful within corpus framework.** The *Message from the Designers* foreword references a crop circle that appeared in England bearing "an astonishing resemblance" to the small-scale embassy model that Raëlian architects had built. This is the principal specific corpus-internal engagement with crop circles.
-- **The broader phenomenon is engaged at descriptive level without substantive adoption as principal alliance-communication mechanism.** The corpus does not adopt the strong "crop circles are alliance messages" framing that some alternative ufology articulates. The substantive alliance-contact framework operates through the Vorilhon-source contact narrative (December 13, 1973 at Puy-de-Lassolas; October 7, 1975 transport to the home planet; subsequent contact events), with crop circles operating at most as occasional adjacent phenomenon rather than as principal communication channel.
+- **Существенное большинство современных кругов на полях — задокументированные созданные человеком формации.** Признание Бауэра — Чорли, документация Circlemakers и Team Satan, существенная международная традиция создания кругов и существенная последующая литература существенно устанавливают человеческое авторство как основное объяснение современного явления.
+- **Существенные остаточные физические аномалии в избранных формациях остаются неразрешёнными.** Работа BLT Research Team, исследования Хазелхофф и существенная последующая литература артикулируют конкретные физические наблюдения, которые мейнстримно-научный фреймворк существенно не объяснил. Корпус привлекает эту работу описательно, отмечая методологически оспариваемый статус.{{ footnote(id="4") }}
+- **Предполагаемое содержание внеземной коммуникации в конкретных формациях оперирует в альтернативно-уфологическом фреймворке.** Чилболтон, Крэбвуд и существенные последующие случаи с заявлениями о коммуникации не были существенно верифицированы через мейнстримно-научную методологию. Корпус привлекает эти случаи описательно.{{ footnote(id="5") }}
+- **Источник Ворильона артикулирует один конкретный случай как существенно значимый в рамках корпуса.** Предисловие к *Посланию от Создателей* упоминает круг на поле, который появился в Англии и имел «поразительное сходство» с мелкомасштабной моделью {% wiki(slug="embassy") %}посольства{% end %}, которую построили раэлианские архитекторы.{{ cite(id="the-book-which-tells-the-truth", text="[7]", title="Ворильон (Раэль), предисловие к *Посланию от Создателей* — упоминание круга на поле, сходного с посольством") }} Это главное конкретное корпусно-внутреннее привлечение кругов на полях.
+- **Более широкое явление привлекается на описательном уровне без существенного принятия в качестве главного механизма альянсовой коммуникации.** Корпус не принимает сильное обрамление «круги на полях — это альянсовые послания», которое артикулирует некоторая альтернативная уфология. Существенный фреймворк альянсового контакта оперирует через контактное повествование источника Ворильона (13 декабря 1973 года в Пюи-де-Лассолас; 7 октября 1975 года перенос на родную планету; последующие контактные события), причём круги на полях оперируют самое большее как иногда смежное явление, а не как главный канал коммуникации.{{ footnote(id="6") }}
 
-This entry articulates crop circles carefully — the etymology and disciplinary scope, the principal historical development from late-1970s emergence through contemporary state, the principal documented cases, the 1991 Bower-Chorley confession and substantive subsequent methodological transformation, the principal organized circle-making community, the residual-anomaly research program, the principal alternative-ufological cases (particularly the Chilbolton Arecibo response and the Crabwood alien face), the substantial Wiltshire geographic concentration, the corpus engagement through the Vorilhon source, and the substantial broader cultural and artistic dimensions of the contemporary phenomenon.
+Эта статья артикулирует круги на полях аккуратно — этимологию и дисциплинарный охват, основное историческое развитие от появления в конце 1970-х годов через современное состояние, основные задокументированные случаи, признание Бауэра — Чорли 1991 года и существенное последующее методологическое преобразование, основное сообщество по организованному созданию кругов, программу исследований остаточных аномалий, основные альтернативно-уфологические случаи (особенно чилболтонский ответ Аресибо и крэбвудское лицо инопланетянина), существенную географическую концентрацию в Уилтшире, привлечение корпусом через источник Ворильона и существенные более широкие культурные и художественные измерения современного явления.
 
-## Etymology and scope
+## Этимология и охват
 
-### Etymology
+### Этимология
 
-The term *crop circle* came into general use in the early 1980s as the British media engaged the substantial increase in reported formations across southern England. Earlier terms (the principal early 1980s designations included "corn circles," "pictograms," and "crop formations") have been substantially replaced by the standard contemporary designation.
+Термин *круг на поле* (англ. *crop circle*) вошёл в общее употребление в начале 1980-х годов, когда британские СМИ привлекли существенное увеличение сообщаемых формаций на юге Англии. Более ранние термины (основные обозначения начала 1980-х годов включали *corn circles* «зерновые круги», *pictograms* «пиктограммы» и *crop formations* «формации на полях») были существенно вытеснены стандартным современным обозначением.
 
-The term combines:
+Термин сочетает:
 
-- **Crop** — referring to agricultural crops, principally cereals (wheat, barley, rye, oats) but also rapeseed (canola), corn (maize), linseed, soy, and other field crops
-- **Circle** — referring to the originally-circular form of early 1970s-1980s formations, retained as terminology even as subsequent formations have substantially expanded beyond strict circular geometry
+- **Crop** (культура) — относится к сельскохозяйственным культурам, главным образом злаковым (пшеница, ячмень, рожь, овёс), но также к рапсу, кукурузе, льну, сое и другим полевым культурам
+- **Circle** (круг) — относится к изначально круговой форме ранних формаций 1970-х — 1980-х годов, сохранённой как терминология, даже когда последующие формации существенно вышли за пределы строгой круговой геометрии
 
-The term is somewhat dated in retaining the "circle" designation despite the substantial subsequent complexity of formations including geometric, fractal, and figurative content. The alternative term **crop formation** is sometimes preferred in technical contexts. Both terms remain in active use.
+Термин несколько устарел, сохраняя обозначение «круг», несмотря на существенную последующую сложность формаций, включающую геометрическое, фрактальное и фигуративное содержание. Альтернативный термин **формация на поле** иногда предпочитается в технических контекстах. Оба термина остаются в активном употреблении.
 
-### Disciplinary scope
+### Дисциплинарный охват
 
-The phenomenon of crop circles encompasses several substantively distinguishable categories:
+Явление кругов на полях охватывает несколько существенно различимых категорий:
 
-- **Documented human-made artistic formations.** The principal category — formations produced by organized circle-making groups (Circlemakers, Team Satan, international affiliates) operating as artistic-cultural practice. These formations are documented in the Circlemakers archive, the substantial subsequent literature, and the broader contemporary art-historical engagement.
-- **Commercial and commissioned formations.** Formations produced commercially for advertising, film production, music video production, and broader entertainment-industry applications. The Circlemakers group has produced substantial commercial work across approximately three decades.
-- **Hoax and prank formations.** Formations produced by individuals operating outside organized circle-making groups, principally as pranks or as deliberate attempts to deceive crop circle researchers.
-- **Substantively contested formations.** Formations whose authorship remains substantively contested in alternative-ufological and broader research contexts.
-- **Reportedly anomalous formations.** Formations exhibiting reported physical characteristics that the residual-anomaly research program (BLT, Haselhoff, others) argues cannot be explained through purely human construction.
+- **Задокументированные созданные человеком художественные формации.** Главная категория — формации, произведённые организованными группами по созданию кругов (Circlemakers, Team Satan, международные аффилиаты), оперирующими как художественно-культурная практика. Эти формации задокументированы в архиве Circlemakers, в существенной последующей литературе и в более широком современном художественно-историческом привлечении.
+- **Коммерческие и заказные формации.** Формации, произведённые коммерчески для рекламы, кинопроизводства, производства музыкальных видео и более широких применений развлекательной индустрии. Группа Circlemakers произвела существенную коммерческую работу на протяжении приблизительно трёх десятилетий.
+- **Розыгрышные и обманные формации.** Формации, произведённые отдельными лицами, оперирующими вне организованных групп по созданию кругов, главным образом как розыгрыши или как преднамеренные попытки обмануть исследователей кругов на полях.
+- **Существенно оспариваемые формации.** Формации, чьё авторство остаётся существенно оспариваемым в альтернативно-уфологических и более широких исследовательских контекстах.
+- **Сообщаемо аномальные формации.** Формации, демонстрирующие сообщаемые физические характеристики, которые программа исследований остаточных аномалий (BLT, Хазелхофф, другие) утверждает, не могут быть объяснены через чисто человеческое построение.
 
-The substantive methodological challenge: distinguishing across these categories requires substantive forensic investigation that has been conducted inconsistently across the phenomenon's history.
+Существенный методологический вызов: различение между этими категориями требует существенного судебно-криминалистического исследования, которое проводилось непоследовательно на протяжении истории явления.
 
-### Distinguishing related phenomena
+### Различение родственных явлений
 
-Crop circles should be distinguished from several adjacent phenomena:
+Круги на полях следует отличать от нескольких смежных явлений:
 
-- **Crop damage from natural causes.** Lodging (the substantial flattening of cereal crops due to wind, rain, or weight-induced collapse) produces broadly similar visual appearance but typically without the geometric precision of crop circles. Natural crop damage from animal activity (deer beds, fox runs) produces smaller-scale localized damage substantially different from crop circle formations.
-- **Aerial-phenomenon-with-ground-trace cases.** Cases involving reported UFO/UAP sightings accompanied by ground-level evidence (landing marks, electromagnetic effects, physical traces) operate as substantively different ufology category, treated in the [Ufology](../ufology/) entry. The 1966 Tully Saucer Nests case (treated below) is one principal example.
-- **The 1678 Mowing Devil pamphlet.** The pamphlet documenting a supernatural mowing event in Hertfordshire is substantively different category — the pamphlet describes a devil cutting standing crops cleanly (a mowing rather than a flattening event), which is methodologically distinct from the modern crop-circle phenomenon despite frequent citation as precedent.
-- **Ice circles.** Naturally occurring circular formations of rotating ice in slow-moving water, sometimes cited as parallel natural phenomenon; the substantive natural-physical mechanism operates principally through ice formation rather than vegetation flattening.
+- **Повреждение культур естественными причинами.** Полегание (существенное уплощение злаковых культур из-за ветра, дождя или коллапса, вызванного весом) производит в общих чертах похожий визуальный вид, но обычно без геометрической точности кругов на полях. Естественное повреждение культур от деятельности животных (оленьи лёжки, лисьи тропы) производит более мелкомасштабное локализованное повреждение, существенно отличное от формаций кругов на полях.
+- **Случаи воздушных явлений с наземными следами.** Случаи, включающие сообщаемые наблюдения НЛО/НИЯ, сопровождаемые свидетельствами наземного уровня (следы посадки, электромагнитные эффекты, физические следы), оперируют как существенно иная уфологическая категория, трактуемая в статье {% wiki(slug="ufology") %}«Уфология»{% end %}. Случай «гнёзд блюдец» в Талли 1966 года (трактуемый ниже) — один из главных примеров.
+- **Памфлет «Косящий дьявол» 1678 года.** Памфлет, документирующий событие сверхъестественного скашивания в Хартфордшире, — существенно иная категория: памфлет описывает дьявола, чисто срезающего стоящие культуры (событие скашивания, а не уплощения), что методологически отличается от современного явления кругов на полях, несмотря на частое цитирование как прецедента.{{ footnote(id="3") }}
+- **Ледяные круги.** Естественно возникающие круговые формации вращающегося льда в медленнотекущей воде, иногда цитируемые как параллельное естественное явление; существенный естественно-физический механизм оперирует главным образом через формирование льда, а не через уплощение растительности.
 
-## Principal historical development
+## Основное историческое развитие
 
-The contemporary crop circle phenomenon has a substantive history that warrants articulation across distinct phases.
+Современное явление кругов на полях имеет существенную историю, заслуживающую артикуляции через разные фазы.
 
-### Pre-1970s background
+### Фон до 1970-х годов
 
-The substantive question of whether crop-circle-like phenomena existed before the 1970s remains substantively contested. The principal cited pre-1970s evidence:
+Существенный вопрос о том, существовали ли явления, подобные кругам на полях, до 1970-х годов, остаётся существенно оспариваемым. Основные цитируемые свидетельства до 1970-х годов:
 
-**The 1678 Mowing Devil pamphlet.** The pamphlet "The Mowing-Devil: Or, Strange News out of Hartford-shire" (1678) describes a supernatural mowing event in which a farmer who refused a mower's price reportedly said he would rather have the Devil mow his field; the field was subsequently found mowed overnight. The pamphlet's woodcut illustration depicts a devil mowing a field in a circular pattern.
+**Памфлет «Косящий дьявол» 1678 года.** Памфлет *The Mowing-Devil: Or, Strange News out of Hartford-shire* (1678) описывает событие сверхъестественного скашивания, в котором фермер, отказавшийся от цены косаря, по сообщению сказал, что предпочёл бы, чтобы дьявол скосил его поле; впоследствии поле было найдено скошенным за ночь. Гравюра на дереве, иллюстрирующая памфлет, изображает дьявола, скашивающего поле круговым узором.
 
-The Mowing Devil case is methodologically contested as crop-circle precedent. The substantive methodological objections:
+Случай «Косящего дьявола» методологически оспариваем как прецедент кругов на полях. Существенные методологические возражения:
 
-- **The pamphlet describes mowing, not flattening.** The Mowing Devil event involves cutting standing crops cleanly — substantively different from the flattening that characterizes modern crop circles.
-- **The pamphlet operates within 17th-century pamphlet-literature conventions.** The substantial 17th-century English broadsheet tradition produced extensive supernatural-prodigy literature with substantial moral-allegorical framing; the Mowing Devil pamphlet operates within this tradition rather than as straightforward eyewitness journalism.
-- **The substantive scholarship is divided.** Bob Trubshaw, Jeremy Harte, and substantial folkloric scholarship have engaged the Mowing Devil within 17th-century pamphlet conventions; crop circle researchers have engaged it as evidence of pre-modern crop circles.
+- **Памфлет описывает скашивание, а не уплощение.** Событие «Косящего дьявола» включает чистое срезание стоящих культур — существенно отличное от уплощения, характерного для современных кругов на полях.
+- **Памфлет оперирует в рамках конвенций памфлетной литературы XVII века.** Существенная английская бульварно-листовая традиция XVII века производила обширную литературу сверхъестественных чудес с существенным моралистично-аллегорическим обрамлением;{{ cite(id="providence-in-early-modern-england", text="[8]", title="Уолшем, *Providence in Early Modern England* (1999) — основополагающая трактовка памфлетной традиции сверхъестественных чудес XVII века") }} памфлет «Косящий дьявол» оперирует в этой традиции, а не как прямая очевидческая журналистика.{{ cite(id="miracles-and-the-pulp-press", text="[9]", title="Фридман, *Miracles and the Pulp Press during the English Revolution* (1993)") }}
+- **Существенная научная позиция разделена.** Боб Трубшоу, Джереми Харт и существенная фольклорная наука привлекли «Косящего дьявола» в рамках конвенций памфлетов XVII века; исследователи кругов на полях привлекали его как свидетельство домодерных кругов на полях.
 
-The corpus position: the Mowing Devil case is substantively different category from modern crop circles and should not operate as straightforward precedent in disciplinary history.
+Позиция корпуса: случай «Косящего дьявола» — это существенно иная категория, чем современные круги на полях, и не должен оперировать как прямой прецедент в дисциплинарной истории.
 
-**The 1966 Tully Saucer Nests.** On January 19, 1966, banana farmer George Pedley reported observing a UFO rising from a swampy lagoon area near Tully, Queensland, Australia. Investigating the site, Pedley found a roughly circular area (approximately 30 feet diameter) of flattened reeds. The case was investigated by Queensland police and is documented in substantial subsequent ufology literature.
+**«Гнёзда блюдец» в Талли 1966 года.** 19 января 1966 года банановый фермер Джордж Педли сообщил, что наблюдал НЛО, поднимающийся из болотистой лагуны вблизи Талли, Квинсленд, Австралия. Исследуя место, Педли обнаружил приблизительно круговую область (примерно 30 футов в диаметре) уплощённого тростника. Случай был расследован полицией Квинсленда и задокументирован в существенной последующей уфологической литературе.
 
-The Tully Saucer Nests case is substantively important as one of the principal pre-1970s aerial-phenomenon-with-ground-trace cases. The substantive distinction from modern crop circles: the Tully case operates principally as a UFO sighting with associated ground trace (the reed-flattening as effect of the observed craft) rather than as standalone crop-formation phenomenon.
+Случай «гнёзд блюдец» в Талли существенно важен как один из главных случаев воздушного явления с наземным следом до 1970-х годов. Существенное отличие от современных кругов на полях: случай Талли оперирует главным образом как наблюдение НЛО со связанным наземным следом (уплощение тростника как эффект наблюдаемого корабля), а не как самостоятельное явление формации на поле.
 
-**Other pre-1970s cases.** Substantial pre-1970s reports of similar phenomena exist (the substantial Warminster "Thing" phenomenon in 1960s England producing reports of unexplained noises and crop damage; substantial subsequent reports across multiple international contexts). The substantive methodological challenge: these reports operate principally within local cultural contexts without the systematic documentation that the post-1970s phenomenon has produced.
+**Другие случаи до 1970-х годов.** Существуют существенные сообщения до 1970-х годов о подобных явлениях (существенный феномен «Уорминстерской штуки» 1960-х годов в Англии, производивший сообщения о необъяснимых звуках и повреждениях культур; существенные последующие сообщения из множества международных контекстов). Существенный методологический вызов: эти сообщения оперируют главным образом в местных культурных контекстах без систематической документации, которую произвело явление после 1970-х годов.
 
-### The late-1970s emergence
+### Появление в конце 1970-х годов
 
-The contemporary phenomenon emerged principally in southern England across the late 1970s, with substantial increase in reported formations across the 1980s. Principal early documented formations:
+Современное явление возникло главным образом на юге Англии на протяжении конца 1970-х годов, с существенным увеличением числа сообщаемых формаций на протяжении 1980-х годов. Основные задокументированные ранние формации:
 
-- **The Cheesefoot Head formations (Hampshire, 1976-1978).** Among the principal early documented modern formations.
-- **The Westbury White Horse formations (Wiltshire, 1980).** Substantial early-phase formations near the prehistoric chalk hill figure.
-- **The Punchbowl formation (Cheesefoot Head, August 1981).** Substantial formation that received substantial subsequent media coverage and operated as one of the principal early publicly-known cases.
+- **Формации Чизфут-Хед (Хэмпшир, 1976–1978).** Среди главных задокументированных ранних современных формаций.
+- **Формации Уэстберийского белого коня (Уилтшир, 1980).** Существенные формации ранней фазы вблизи доисторической меловой фигуры на холме.
+- **Формация Панчбоул (Чизфут-Хед, август 1981).** Существенная формация, получившая существенное последующее освещение в СМИ и оперировавшая как один из главных ранних публично известных случаев.
 
-The principal British researchers engaged with the early-phase phenomenon included Pat Delgado, Colin Andrews, Terence Meaden, and George Wingfield. Delgado and Andrews's *Circular Evidence* (1989) operated as the principal early book-length engagement and substantially shaped popular and research engagement with the phenomenon.
+Главные британские исследователи, привлечённые к явлению ранней фазы, включали Пэта Делгадо, Колина Эндрюса, Теренса Мидена и Джорджа Уингфилда. Книга Делгадо и Эндрюса *Circular Evidence* (1989){{ cite(id="circular-evidence", text="[10]", title="Делгадо и Эндрюс, *Circular Evidence* (1989) — основополагающая трактовка кругов на полях до признания") }} оперировала как главное раннее книжное привлечение и существенно сформировала популярное и исследовательское привлечение явления.
 
-### The 1980s expansion
+### Расширение 1980-х годов
 
-Across the 1980s, the substantial increase in reported formations included:
+На протяжении 1980-х годов существенное увеличение числа сообщаемых формаций включало:
 
-- **Substantial increase in frequency.** From approximately a dozen reported formations in 1981 to several hundred reported formations by the late 1980s.
-- **Substantial increase in complexity.** Early formations were principally simple circles; subsequent formations developed substantial geometric, mathematical, and pictographic complexity.
-- **Substantial geographic concentration.** Approximately 80% of reported formations occurred in southern England, with substantial subsequent concentration in Wiltshire.
-- **Substantial subsequent international occurrence.** Reports emerged from the United States, Canada, Australia, Germany, France, the Netherlands, Japan, and substantial other international contexts across the late 1980s and 1990s.
+- **Существенное увеличение частоты.** От приблизительно дюжины сообщаемых формаций в 1981 году до нескольких сотен сообщаемых формаций к концу 1980-х годов.
+- **Существенное увеличение сложности.** Ранние формации были главным образом простыми кругами; последующие формации развили существенную геометрическую, математическую и пиктографическую сложность.
+- **Существенная географическая концентрация.** Приблизительно 80% сообщаемых формаций происходили на юге Англии, с существенной последующей концентрацией в Уилтшире.
+- **Существенное последующее международное распространение.** Сообщения возникли из Соединённых Штатов, Канады, Австралии, Германии, Франции, Нидерландов, Японии и существенных других международных контекстов на протяжении конца 1980-х и 1990-х годов.
 
-### The 1991 Bower-Chorley confession
+### Признание Бауэра — Чорли 1991 года
 
-On September 9, 1991, British men Doug Bower and Dave Chorley confessed in the British tabloid newspaper *Today* to having created the principal early modern crop circle formations from 1978 onward. The substantive content of their confession:
+9 сентября 1991 года британцы Дуг Бауэр и Дэйв Чорли признались в британской бульварной газете *Today*, что начиная с 1978 года создавали основные ранние современные формации кругов на полях. Существенное содержание их признания:
 
-- **The 1976 origin.** Bower and Chorley articulated that they began making crop circles in 1976 after Bower had heard the Tully Saucer Nests case and suggested they create similar formations for amusement.
-- **The construction methodology.** Their principal technique used a wooden plank attached to a rope, with the maker walking in a circle while stepping the plank along the ground to flatten crops. Sighting through baseball caps with holes drilled in the brims allowed precise geometric alignment.
-- **The substantive output.** Bower and Chorley estimated they had created approximately 200 formations across 1976-1991, principally in southern England.
-- **The demonstration.** Bower and Chorley demonstrated their technique for journalists, constructing a crop circle in approximately 45 minutes. The resulting formation was shown to crop circle researchers without their knowledge of the construction; the researchers identified the formation as genuine, substantively confirming the methodological viability of human construction.
+- **Происхождение в 1976 году.** Бауэр и Чорли артикулировали, что начали делать круги на полях в 1976 году после того, как Бауэр услышал о случае «гнёзд блюдец» в Талли и предложил создать подобные формации для развлечения.
+- **Методология конструкции.** Их основная техника использовала деревянную доску, прикреплённую к верёвке, причём создатель шёл по кругу, шагая доской по земле для уплощения культур. Прицеливание через бейсбольные кепки с отверстиями, просверленными в козырьках, позволяло точное геометрическое выравнивание.
+- **Существенный объём.** Бауэр и Чорли оценили, что создали приблизительно 200 формаций на протяжении 1976–1991 годов, главным образом на юге Англии.
+- **Демонстрация.** Бауэр и Чорли продемонстрировали свою технику для журналистов, построив круг на поле приблизительно за 45 минут. Получившаяся формация была показана исследователям кругов на полях без их знания о построении; исследователи идентифицировали формацию как подлинную, существенно подтверждая методологическую жизнеспособность человеческого построения.
 
-The Bower-Chorley confession substantively transformed the discipline's methodological framing. The substantive implications:
+Признание Бауэра — Чорли существенно преобразовало методологическое обрамление дисциплины. Существенные импликации:
 
-- **The principal early-phase formations are documented as human-made.** Cases that had been engaged as substantively unexplained in the 1980s literature are now documented through perpetrator confession and demonstrated construction methodology.
-- **Construction methodology is demonstrated as viable.** The substantive question of whether complex formations could be produced by human construction in available time-windows is substantively answered through demonstration.
-- **The substantial geographic concentration becomes consistent with organized circle-making activity.** The substantial Wiltshire concentration is substantively consistent with the substantial geographic concentration of organized circle-making activity in the region.
-- **The mainstream-scientific framing shifts substantively.** Mainstream press coverage and substantial subsequent literature engage crop circles principally as human-made artistic-cultural phenomenon following the confession.
+- **Основные формации ранней фазы задокументированы как созданные человеком.** Случаи, которые привлекались как существенно необъяснённые в литературе 1980-х годов, теперь задокументированы через признание исполнителей и продемонстрированную методологию конструкции.
+- **Методология конструкции продемонстрирована как жизнеспособная.** Существенный вопрос о том, могут ли сложные формации быть произведены человеческим построением в имеющихся временны́х окнах, существенно отвечен через демонстрацию.
+- **Существенная географическая концентрация становится согласованной с организованной деятельностью по созданию кругов.** Существенная концентрация в Уилтшире существенно согласуется с существенной географической концентрацией организованной деятельности по созданию кругов в регионе.
+- **Мейнстримно-научное обрамление существенно сдвигается.** Освещение в мейнстримной прессе и существенная последующая литература привлекают круги на полях главным образом как созданное человеком художественно-культурное явление после признания.
 
-### The post-1991 development
+### Развитие после 1991 года
 
-Following the Bower-Chorley confession, the contemporary crop circle phenomenon has developed across several substantive directions:
+После признания Бауэра — Чорли современное явление кругов на полях развивалось в нескольких существенных направлениях:
 
-- **The organized circle-making community has emerged publicly.** Circlemakers (founded by John Lundberg with Rod Dickinson, Wil Russell, and Rob Irving in approximately 1996; the broader Team Satan collective operating from approximately 1992) operates substantively as the principal documented contemporary circle-making organization.
-- **Commercial circle-making has substantively developed.** The Circlemakers group has produced substantial commercial work for advertising clients (Microsoft, Mitsubishi, Pepsi, Nike, Greenpeace, others), film production (the 2002 M. Night Shyamalan film *Signs*; substantial others), and broader entertainment-industry applications.
-- **Formation complexity has substantively increased.** Contemporary formations include substantial fractal patterns (the Julia Set 1996; the Etchilhampton 1997), substantial three-dimensional optical illusions (the Long Wood 2021), substantial mathematical-encoded patterns (the substantial Pi-encoded formation 2008), substantial pictographic content (the Crabwood 2002 alien face), and substantial broader artistic content.
-- **The residual-anomaly research program has continued.** The BLT Research Team, Eltjo Haselhoff, and substantial subsequent researchers continue investigation of selected formations.
-- **The alternative-ufological framework has continued.** Selected cases (Chilbolton 2001; Crabwood 2002; substantial subsequent cases) continue to be engaged as substantively non-human-made communication content in alternative-ufological literature.
+- **Сообщество по организованному созданию кругов появилось публично.** Circlemakers (основана Джоном Лундбергом с Родом Дикинсоном, Уилом Расселлом и Робом Ирвингом приблизительно в 1996 году; более широкий коллектив Team Satan, оперирующий приблизительно с 1992 года) оперирует существенно как главная задокументированная современная организация по созданию кругов.
+- **Существенно развилось коммерческое создание кругов.** Группа Circlemakers произвела существенную коммерческую работу для рекламных клиентов (Microsoft, Mitsubishi, Pepsi, Nike, Greenpeace, другие), кинопроизводства (фильм М. Найта Шьямалана *Знаки* 2002 года; существенные другие) и более широких применений развлекательной индустрии.
+- **Сложность формаций существенно возросла.** Современные формации включают существенные фрактальные узоры (множество Жюлиа 1996; Этчилхэмптон 1997), существенные трёхмерные оптические иллюзии (Лонг-Вуд 2021), существенные математически закодированные узоры (существенная формация с закодированным числом π 2008), существенное пиктографическое содержание (крэбвудское лицо инопланетянина 2002) и существенное более широкое художественное содержание.
+- **Программа исследований остаточных аномалий продолжается.** BLT Research Team, Эльтьо Хазелхофф и существенные последующие исследователи продолжают исследование избранных формаций.
+- **Альтернативно-уфологический фреймворк продолжается.** Избранные случаи (Чилболтон 2001; Крэбвуд 2002; существенные последующие случаи) продолжают привлекаться как существенно нечеловеческое содержание коммуникации в альтернативно-уфологической литературе.{{ cite(id="crop-circles-signs-of-contact", text="[11]", title="Эндрюс и Спиньези, *Crop Circles: Signs of Contact* (2003)") }}
 
-The contemporary phenomenon operates substantively as a complex cultural-artistic-research situation rather than as a straightforward unexplained phenomenon. The mainstream-scientific framing engages crop circles principally as documented human-made artistic-cultural practice with substantial residual-anomaly questions that remain methodologically contested.
+Современное явление оперирует существенно как сложная культурно-художественно-исследовательская ситуация, а не как прямолинейно необъяснённое явление. Мейнстримно-научное обрамление привлекает круги на полях главным образом как задокументированную созданную человеком художественно-культурную практику с существенными остаточными вопросами об аномалиях, остающимися методологически оспариваемыми.{{ cite(id="real-life-x-files-nickell", text="[12]", title="Никелл, *Real-Life X-Files* (2001) — систематическое скептическое привлечение паранормальных утверждений, включая круги на полях") }}
 
-## Characteristics
+## Характеристики
 
-Crop circles exhibit characteristic features that warrant systematic articulation.
+Круги на полях демонстрируют характерные особенности, заслуживающие систематической артикуляции.
 
-### Geometric properties
+### Геометрические свойства
 
-Contemporary crop circles typically exhibit:
+Современные круги на полях обычно демонстрируют:
 
-- **Precise geometric relationships.** Most formations operate within substantive geometric framework — circles, polygons, fractals, mandalas, geometric solids viewed orthographically.
-- **Substantial scale.** Formations range from substantially small (under 10 meters diameter) to substantially large (the principal Milk Hill 2001 formation spanning approximately 240 meters across).
-- **Substantial mathematical content.** Selected formations encode substantive mathematical content — the Julia Set 1996 fractal; the Pi-encoded Wiltshire 2008 formation; the substantial geometric-proportional content in numerous formations.
-- **Substantial symbolic content.** Selected formations operate principally through symbolic content — sacred geometric forms (Flower of Life patterns); astronomical content (solar system diagrams; lunar phase patterns); pictographic content (figurative imagery).
+- **Точные геометрические отношения.** Большинство формаций оперирует в существенном геометрическом фреймворке — круги, многоугольники, фракталы, мандалы, геометрические тела, рассматриваемые ортогонально.
+- **Существенный масштаб.** Формации варьируются от существенно малых (менее 10 метров в диаметре) до существенно больших (главная формация Милк-Хилл 2001 года, простирающаяся приблизительно на 240 метров).
+- **Существенное математическое содержание.** Избранные формации кодируют существенное математическое содержание — фрактал множества Жюлиа 1996; уилтширская формация с закодированным числом π 2008; существенное геометрически-пропорциональное содержание в многочисленных формациях.
+- **Существенное символическое содержание.** Избранные формации оперируют главным образом через символическое содержание — {% wiki(slug="sacred-geometry") %}сакральные геометрические формы{% end %} (узоры Цветка жизни); астрономическое содержание (диаграммы Солнечной системы; узоры лунных фаз); пиктографическое содержание (фигуративная образность).
 
-### Physical characteristics
+### Физические характеристики
 
-Crop circles exhibit characteristic physical features:
+Круги на полях демонстрируют характерные физические особенности:
 
-- **Bent rather than broken stalks.** In contemporary documented formations, crop stalks are typically bent rather than broken at the base or at the lower nodes. The bending is consistent with the documented plank-and-rope construction technique.
-- **Flow patterns.** The flattened crops typically lie in consistent directional flow patterns, with substantial subsequent layering in complex formations.
-- **Standing-crop residual elements.** Contemporary formations frequently incorporate standing-crop elements (tufts, paths, intermediate-height bands) as artistic features.
-- **Edge precision.** The boundary between flattened and standing crops is typically substantially sharp, with crisp edges that distinguish crop circles from natural lodging damage.
+- **Изогнутые, а не сломанные стебли.** В современных задокументированных формациях стебли культур обычно изогнуты, а не сломаны у основания или у нижних узлов. Изгиб согласуется с задокументированной техникой конструкции с доской и верёвкой.
+- **Паттерны течения.** Уплощённые культуры обычно лежат в согласованных направленных паттернах течения с существенным последующим наслаиванием в сложных формациях.
+- **Остаточные элементы стоящих культур.** Современные формации часто включают элементы стоящих культур (пучки, дорожки, полосы промежуточной высоты) как художественные особенности.
+- **Точность краёв.** Граница между уплощёнными и стоящими культурами обычно существенно резкая, с чёткими краями, отличающими круги на полях от естественного повреждения от полегания.
 
-### Alleged residual anomalies
+### Предполагаемые остаточные аномалии
 
-The residual-anomaly research program (BLT, Haselhoff, others) articulates additional reported physical characteristics that the research program argues cannot be explained through purely human construction:
+Программа исследований остаточных аномалий (BLT, Хазелхофф, другие) артикулирует дополнительные сообщаемые физические характеристики, которые программа исследований утверждает, не могут быть объяснены через чисто человеческое построение:
 
-- **Node-elongation patterns.** William Levengood (BLT Research Team) articulated that crops in selected formations exhibit substantial node elongation patterns consistent with brief intense heating, principally attributed to microwave radiation. Eltjo Haselhoff's published research (*Physiologia Plantarum*, 2001) extended this engagement.
-- **Magnetite distribution patterns.** Levengood and the BLT team articulated substantial concentrations of small iron spherules (magnetite) in soil samples from selected formations, principally attributed to micrometeoroid impact-melting during formation creation.
-- **Crop alignment with apparent precision.** Selected formations exhibit substantial precision in crop alignment that the research program argues exceeds plausible human-construction capability.
-- **Electromagnetic anomalies.** Reports of substantial electromagnetic effects (compass deviations, instrument malfunctions, biological effects on humans entering formations) have been documented in selected cases.
+- **Паттерны удлинения узлов.** Уильям Левенгуд (BLT Research Team) артикулировал, что культуры в избранных формациях демонстрируют существенные паттерны удлинения узлов, согласующиеся с кратковременным интенсивным нагревом, главным образом приписываемым микроволновому излучению. Опубликованное исследование Эльтьо Хазелхофф (*Physiologia Plantarum*, 2001){{ cite(id="haselhoff-physiologia-plantarum-2001", text="[13]", title="Хазелхофф, *Physiologia Plantarum* (2001) — рецензируемое расширение анализа изгиба узлов Левенгуда") }} расширило это привлечение.
+- **Паттерны распределения магнетита.** Левенгуд и команда BLT артикулировали существенные концентрации мелких железных сферул (магнетита) в почвенных пробах из избранных формаций, главным образом приписываемые ударно-плавильному воздействию микрометеороидов при создании формации.
+- **Выравнивание культур с кажущейся точностью.** Избранные формации демонстрируют существенную точность в выравнивании культур, которая, как утверждает программа исследований, превышает правдоподобную способность человеческого построения.
+- **Электромагнитные аномалии.** В избранных случаях задокументированы сообщения о существенных электромагнитных эффектах (отклонения компаса, неисправности приборов, биологические эффекты на людях, входящих в формации).
 
-The substantive methodological status: the residual-anomaly research is published in peer-reviewed literature (Haselhoff's *Physiologia Plantarum* article principally) but remains substantively contested in broader mainstream-scientific framework. The substantive critique includes substantive concerns about sampling methodology, controls, statistical analysis, and the substantial methodological challenge of distinguishing genuine anomalies from selection-bias effects.
+Существенный методологический статус: исследования остаточных аномалий публикуются в рецензируемой литературе (главным образом статья Хазелхофф в *Physiologia Plantarum*), но остаются существенно оспариваемыми в более широком мейнстримно-научном фреймворке.{{ cite(id="nickell-levengood-skeptical-inquirer-1996", text="[14]", title="Никелл, 'Levengood's Crop-Circle Plant Research' (Skeptical Inquirer 1996)") }} Существенная критика включает существенные опасения относительно методологии отбора проб, контролей, статистического анализа и существенного методологического вызова различения подлинных аномалий от эффектов смещения отбора.
 
-The corpus position on the residual-anomaly research: the work is substantive scholarly engagement worth descriptive treatment; the substantial questions about methodology and statistical controls warrant honest acknowledgment; the work has not substantively established the strong "crop circles cannot be explained through human construction" position the residual-anomaly research program advances.
+Позиция корпуса в отношении исследований остаточных аномалий: работа представляет собой существенное научное привлечение, заслуживающее описательной трактовки; существенные вопросы о методологии и статистических контролях заслуживают честного признания; работа существенно не установила сильную позицию «круги на полях не могут быть объяснены через человеческое построение», которую продвигает программа исследований остаточных аномалий.
 
-## Principal documented cases
+## Основные задокументированные случаи
 
-The substantial body of documented crop circle cases includes principal cases that have shaped disciplinary engagement.
+Существенный массив задокументированных случаев кругов на полях включает основные случаи, сформировавшие дисциплинарное привлечение.
 
-### The Mowing Devil (1678)
+### Косящий дьявол (1678)
 
-Treated above in *Pre-1970s background*. The 1678 Hertfordshire pamphlet operating within 17th-century supernatural-prodigy pamphlet tradition; contested as crop-circle precedent.
+Трактуется выше в *Фоне до 1970-х годов*. Хартфордширский памфлет 1678 года, оперирующий в памфлетной традиции сверхъестественных чудес XVII века; оспариваемый как прецедент кругов на полях.
 
-### The Tully Saucer Nests (1966)
+### «Гнёзда блюдец» в Талли (1966)
 
-Treated above in *Pre-1970s background*. The January 19, 1966 Australian case involving farmer George Pedley's UFO sighting with associated reed-flattening at Horseshoe Lagoon near Tully, Queensland.
+Трактуется выше в *Фоне до 1970-х годов*. Австралийский случай 19 января 1966 года, включающий наблюдение фермером Джорджем Педли НЛО со связанным уплощением тростника у Лагуны Подкова вблизи Талли, Квинсленд.
 
-### The Warminster phenomenon (1960s-1970s)
+### Уорминстерский феномен (1960-е — 1970-е годы)
 
-The town of Warminster in Wiltshire became a substantial focus of UFO sightings and unexplained-phenomena reports across the 1960s and 1970s, principally associated with Arthur Shuttlewood's investigation work. Reports included unexplained acoustic phenomena ("the Warminster Thing"), aerial-luminous phenomena, and reported ground-level effects including localized crop flattening. The substantial Warminster phenomenon predates the modern crop-circle phenomenon but operates substantively as immediate cultural precursor in southern England.
+Город Уорминстер в Уилтшире стал существенным фокусом наблюдений НЛО и сообщений о необъяснимых явлениях на протяжении 1960-х и 1970-х годов, главным образом связанных с работой по расследованию Артура Шаттлвуда. Сообщения включали необъяснимые акустические явления («Уорминстерская штука»), воздушно-световые явления и сообщаемые эффекты наземного уровня, включая локализованное уплощение культур. Существенный уорминстерский феномен предшествует современному явлению кругов на полях, но оперирует существенно как непосредственный культурный предшественник на юге Англии.
 
-### The 1978 Hampshire formations
+### Формации в Хэмпшире 1978 года
 
-The principal early Bower-Chorley formations beginning in 1976-1978 in Hampshire and Wiltshire. Bower and Chorley's 1991 confession articulated 1976 as their original year of activity; substantial subsequent investigation has placed the principal early documented formations at approximately 1978.
+Основные ранние формации Бауэра — Чорли начиная с 1976–1978 годов в Хэмпшире и Уилтшире. Признание Бауэра и Чорли 1991 года артикулировало 1976 год как их изначальный год активности; существенное последующее расследование поместило основные ранние задокументированные формации приблизительно к 1978 году.
 
-### The Barbury Castle formation (1991)
+### Формация Барбери-Касл (1991)
 
-A substantial pictogram formation appearing near Barbury Castle in Wiltshire on July 17, 1991. The formation incorporated substantive geometric content (a central triangle with circles at each vertex and additional surrounding elements) interpreted by some commentators as substantive mathematical encoding. The Barbury Castle formation operated as substantially complex early-phase formation predating the Bower-Chorley confession by approximately two months.
+Существенная пиктограмма-формация, появившаяся вблизи Барбери-Касл в Уилтшире 17 июля 1991 года. Формация включала существенное геометрическое содержание (центральный треугольник с кругами в каждой вершине и дополнительными окружающими элементами), интерпретированное некоторыми комментаторами как существенное математическое кодирование. Формация Барбери-Касл оперировала как существенно сложная формация ранней фазы, предшествовавшая признанию Бауэра — Чорли приблизительно на два месяца.
 
-### The Julia Set formation (1996)
+### Формация «Множество Жюлиа» (1996)
 
-A substantial fractal formation appearing on July 7, 1996 in a wheat field opposite Stonehenge in Wiltshire. The formation incorporated 151 circles in a substantial Julia-set spiral configuration covering approximately 280 by 140 meters. The substantial reported timing controversy: the formation was reportedly absent during morning flyover of the field and present in the afternoon, with claimed appearance within approximately 45 minutes around midday. The substantive timing claim has been substantively contested in subsequent investigation. The Circlemakers group has not claimed responsibility for the Julia Set formation; the case remains within substantively contested case material.
+Существенная фрактальная формация, появившаяся 7 июля 1996 года на пшеничном поле напротив Стоунхенджа в Уилтшире. Формация включала 151 круг в существенной спиральной конфигурации множества Жюлиа, покрывающей приблизительно 280 на 140 метров. Существенный сообщённый спор о времени: формация, по сообщениям, отсутствовала во время утреннего облёта поля и присутствовала после полудня, с заявленным появлением приблизительно за 45 минут около полудня. Существенное заявление о времени было существенно оспорено в последующем расследовании. Группа Circlemakers не заявила ответственности за формацию множества Жюлиа; случай остаётся в существенно оспариваемом материале случаев.{{ cite(id="pringle-crop-circles", text="[15]", title="Прингл, *Crop Circles: The Greatest Mystery of Modern Times* (1999)") }}
 
-### The Milk Hill formation (August 2001)
+### Формация Милк-Хилл (август 2001)
 
-The largest documented crop circle, appearing on August 12, 2001 at Milk Hill near Alton Barnes in Wiltshire. The formation incorporated 409 circles in a substantial six-arm spiral configuration covering approximately 240 meters across. The Milk Hill formation operates as one of the substantially most complex formations documented and substantively demonstrates the substantial capability of organized circle-making activity.
+Крупнейший задокументированный круг на поле, появившийся 12 августа 2001 года на Милк-Хилл вблизи Олтон-Барнс в Уилтшире. Формация включала 409 кругов в существенной шестирукавной спиральной конфигурации, покрывающей приблизительно 240 метров. Формация Милк-Хилл оперирует как одна из существенно наиболее сложных задокументированных формаций и существенно демонстрирует существенную способность организованной деятельности по созданию кругов.
 
-### The Chilbolton "Arecibo response" (August 2001)
+### Чилболтонский «ответ Аресибо» (август 2001)
 
-A substantial formation appearing on August 19-20, 2001 in a field adjacent to the Chilbolton radio telescope in Hampshire. The formation incorporated a substantial bitmap-encoded pattern substantively similar to the Arecibo message that Frank Drake had transmitted from the Arecibo radio telescope on November 16, 1974 toward globular cluster M13.
+Существенная формация, появившаяся 19–20 августа 2001 года в поле, прилегающем к радиотелескопу Чилболтон в Хэмпшире. Формация включала существенный битмап-закодированный узор, существенно похожий на сообщение Аресибо, которое Фрэнк Дрейк передал с радиотелескопа Аресибо 16 ноября 1974 года в направлении шарового скопления M13.
 
-The substantive Chilbolton response formation contained variant content from the original Arecibo transmission:
+Существенная чилболтонская формация-ответ содержала вариантное содержание из оригинальной передачи Аресибо:
 
-- The numerical sequence 1-10 preserved
-- The DNA-component elements expanded to include silicon (suggesting silicon-based life)
-- The DNA double-helix figure modified to show alternative structure
-- The figure of "life from the sender" modified to a substantially smaller-statured large-headed humanoid (rather than the human figure in the original)
-- The population figure substantially larger than terrestrial population
-- The solar-system diagram modified to indicate that the third, fourth, and fifth planets from the local star supported life
-- The radio-telescope figure replaced with a different structure (interpreted by some as alternative communication technology)
+- Числовая последовательность 1–10 сохранена
+- Элементы компонентов ДНК расширены, чтобы включить кремний (предполагая жизнь на основе кремния)
+- Фигура двойной спирали ДНК модифицирована для показа альтернативной структуры
+- Фигура «жизни от отправителя» модифицирована к существенно более низкорослому крупноголовому гуманоиду (а не к человеческой фигуре в оригинале)
+- Цифра популяции существенно больше земной популяции
+- Диаграмма Солнечной системы модифицирована для указания на то, что третья, четвёртая и пятая планеты от местной звезды поддерживают жизнь
+- Фигура радиотелескопа заменена иной структурой (интерпретированной некоторыми как альтернативная технология коммуникации)
 
-The substantive methodological status: the Chilbolton case has not been claimed by any organized circle-making group. The substantive interpretive engagement has been principally within alternative ufology — Linda Moulton Howe and substantial others have engaged the case as substantively non-human-made communication content. Mainstream-scientific engagement has principally treated the case as substantively complex human-made formation, with substantive parallels to documented organized circle-making capability.
+Существенный методологический статус: чилболтонский случай не был заявлен какой-либо организованной группой создателей кругов. Существенное интерпретативное привлечение было главным образом в рамках альтернативной уфологии — Линда Моултон Хау и существенные другие привлекли случай как существенно нечеловеческое содержание коммуникации. Мейнстримно-научное привлечение главным образом трактовало случай как существенно сложную созданную человеком формацию, с существенными параллелями к задокументированной способности организованного создания кругов.
 
-The corpus position: the Chilbolton case is substantively interesting case material that has not been substantively verified as non-human-made through methodology that mainstream science accepts. The substantive interpretive content (silicon-based life; multiple habitable planets in solar system; alternative humanoid form) operates within alternative-ufological framework rather than as substantively established communication content.
+Позиция корпуса: чилболтонский случай — это существенно интересный материал случая, не верифицированный существенно как нечеловеческий через методологию, которую принимает мейнстримная наука. Существенное интерпретативное содержание (жизнь на основе кремния; множественные обитаемые планеты в Солнечной системе; альтернативная гуманоидная форма) оперирует в альтернативно-уфологическом фреймворке, а не как существенно установленное содержание коммуникации.
 
-### The Chilbolton "Disc" formation (August 2001)
+### Чилболтонская формация «Диск» (август 2001)
 
-A substantial formation appearing adjacent to the Chilbolton Arecibo response, on August 13-14, 2001. The formation depicted a substantial disc-shaped figure interpreted by some as the alleged communication technology of the entity sending the Arecibo response. The case has not been claimed by organized circle-making groups; substantive interpretive engagement has been principally within alternative ufology.
+Существенная формация, появившаяся рядом с чилболтонским ответом Аресибо 13–14 августа 2001 года. Формация изображала существенную дискообразную фигуру, интерпретированную некоторыми как предполагаемая технология коммуникации сущности, отправляющей ответ Аресибо. Случай не был заявлен организованными группами создателей кругов; существенное интерпретативное привлечение было главным образом в рамках альтернативной уфологии.
 
-### The Crabwood "Alien Face" formation (August 2002)
+### Крэбвудская формация «Лицо инопланетянина» (август 2002)
 
-A substantial pictographic formation appearing on August 15, 2002 at Crabwood Farm in Hampshire. The formation depicted:
+Существенная пиктографическая формация, появившаяся 15 августа 2002 года на ферме Крэбвуд в Хэмпшире. Формация изображала:
 
-- A large humanoid face (interpreted as alien) with substantial portrait detail
-- A disk-shaped object containing substantive bitmap-encoded message
+- Крупное гуманоидное лицо (интерпретированное как инопланетное) с существенной портретной детализацией
+- Дискообразный объект, содержащий существенное битмап-закодированное сообщение
 
-The bitmap message was decoded by various commentators (the principal published decoding by Paul Vigay) as encoding the ASCII-text message:
+Битмап-сообщение было декодировано различными комментаторами (главное опубликованное декодирование Полом Вигеем) как кодирующее ASCII-текстовое сообщение:
 
 > *"Beware the bearers of FALSE gifts & their BROKEN PROMISES. Much PAIN but still time. (DAMAGED WORD). There is GOOD out there. We Oppose DECEPTION. Conduit CLOSING."*
 
-The decoded message operates substantively as warning-content with substantive interpretive framing. The substantive case-status: the Crabwood case has not been claimed by organized circle-making groups; substantive interpretive engagement has been principally within alternative ufology and the broader contactee-and-channeling tradition.
+Декодированное сообщение оперирует существенно как предупредительное содержание с существенным интерпретативным обрамлением. Существенный статус случая: крэбвудский случай не был заявлен организованными группами создателей кругов; существенное интерпретативное привлечение было главным образом в рамках альтернативной уфологии и более широкой контактёрско-канализаторской традиции.
 
-The corpus position: the Crabwood case is substantively interesting case material that has not been substantively verified as non-human-made. The substantive message content operates within the broader contactee-channeling tradition that the corpus engages descriptively without substantive adoption.
+Позиция корпуса: крэбвудский случай — это существенно интересный материал случая, не верифицированный существенно как нечеловеческий. Существенное содержание сообщения оперирует в более широкой контактёрско-канализаторской традиции, которую корпус привлекает описательно без существенного принятия.
 
-### The Avebury Manor formation (2008)
+### Формация в Эйвбери-Мэнор (2008)
 
-A substantial formation appearing in July 2008 near Avebury Manor in Wiltshire, depicting a substantive solar-system diagram. The formation has been interpreted by some commentators as encoding the planetary positions of December 21, 2012 (the date conventionally associated with the substantial Maya Long Count cycle completion and substantial popular doomsday interpretations).
+Существенная формация, появившаяся в июле 2008 года вблизи Эйвбери-Мэнор в Уилтшире, изображающая существенную диаграмму Солнечной системы. Формация была интерпретирована некоторыми комментаторами как кодирующая планетарные позиции 21 декабря 2012 года (даты, конвенционально связанной с существенным завершением длинного цикла календаря майя и существенными популярными интерпретациями конца света).
 
-### Subsequent contemporary formations (2010-present)
+### Последующие современные формации (2010 — настоящее время)
 
-Substantial contemporary formations have continued across the post-2010 period in Wiltshire and substantial international contexts. Principal contemporary cases include:
+Существенные современные формации продолжаются на протяжении периода после 2010 года в Уилтшире и в существенных международных контекстах. Основные современные случаи включают:
 
-- The West Kennett Long Barrow formation (2010)
-- Substantial subsequent Wiltshire formations across 2011-2024
-- Substantial international formations across multiple countries
+- Формацию у Уэст-Кеннетского длинного кургана (2010)
+- Существенные последующие уилтширские формации на протяжении 2011–2024 годов
+- Существенные международные формации в нескольких странах
 
-The substantial contemporary phenomenon operates substantively as ongoing cultural-artistic practice with substantial subsequent organizational engagement by Circlemakers, international affiliates, and the broader contemporary circle-making community.
+Существенное современное явление оперирует существенно как продолжающаяся культурно-художественная практика с существенным последующим организационным привлечением со стороны Circlemakers, международных аффилиатов и более широкого современного сообщества по созданию кругов.
 
-## Modern reinterpretations
+## Современные переинтерпретации
 
-The discipline of crop circles has produced multiple theoretical frameworks across the post-1970s period.
+Дисциплина кругов на полях произвела несколько теоретических фреймворков на протяжении периода после 1970-х годов.
 
-### The plasma vortex hypothesis (Meaden)
+### Гипотеза плазменного вихря (Миден)
 
-**Terence Meaden** (b. 1935), the British physicist and meteorologist, articulated the substantive **plasma vortex hypothesis** principally across the 1980s. The substantive content:
+**Теренс Миден** (р. 1935), британский физик и метеоролог, артикулировал существенную **гипотезу плазменного вихря** главным образом на протяжении 1980-х годов. Существенное содержание:
 
-- **Atmospheric vortices** — rotating columns of ionized plasma operating substantially analogously to dust devils but producing ionization effects
-- **Geographic correlation** — concentration in landscapes producing characteristic atmospheric vortex conditions (substantial association with hilly terrain creating air-current rotational patterns)
-- **Formation morphology** — simple circular formations as principal output of the proposed mechanism
+- **Атмосферные вихри** — вращающиеся столбы ионизированной плазмы, оперирующие существенно аналогично пыльным дьяволам, но производящие эффекты ионизации
+- **Географическая корреляция** — концентрация в ландшафтах, производящих характерные условия атмосферных вихрей (существенная связь с холмистой местностью, создающей вращательные паттерны воздушных течений)
+- **Морфология формаций** — простые круговые формации как главный выход предложенного механизма
 
-Meaden articulated the hypothesis principally in *The Circles Effect and Its Mysteries* (1989) and substantial subsequent publications. The hypothesis attracted substantial early-1990s scientific engagement and was published in peer-reviewed meteorological literature.
+Миден артикулировал гипотезу главным образом в *The Circles Effect and Its Mysteries* (1989) и в существенных последующих публикациях. Гипотеза привлекла существенное научное внимание в начале 1990-х годов и была опубликована в рецензируемой метеорологической литературе.
 
-The substantive status: the plasma vortex hypothesis was substantively abandoned across the 1990s as:
+Существенный статус: гипотеза плазменного вихря была существенно оставлена на протяжении 1990-х годов, поскольку:
 
-- **Formation complexity exceeded plausible vortex output.** Substantial geometric formations with sharp edges, intricate patterns, and substantial pictographic content cannot plausibly be produced by atmospheric vortices.
-- **The Bower-Chorley confession established human authorship.** The substantive demonstrated human-construction methodology accounted for the principal early formations Meaden had attributed to plasma vortices.
-- **Documentary evidence of construction accumulated.** Circlemakers, Team Satan, and broader organized circle-making documentation substantively established human-construction as the principal mechanism for contemporary formations.
+- **Сложность формаций превысила правдоподобный выход вихря.** Существенные геометрические формации с резкими краями, замысловатыми узорами и существенным пиктографическим содержанием не могут правдоподобно производиться атмосферными вихрями.
+- **Признание Бауэра — Чорли установило человеческое авторство.** Существенно продемонстрированная методология человеческой конструкции объяснила основные ранние формации, которые Миден приписывал плазменным вихрям.
+- **Накопились документальные свидетельства конструкции.** Circlemakers, Team Satan и более широкая документация организованного создания кругов существенно установили человеческую конструкцию как главный механизм для современных формаций.
 
-Meaden has substantially modified his position across subsequent decades, principally acknowledging that the substantial majority of contemporary formations are human-made while maintaining substantive engagement with selected early-phase cases.
+Миден существенно модифицировал свою позицию на протяжении последующих десятилетий, главным образом признавая, что существенное большинство современных формаций созданы человеком, при сохранении существенного привлечения избранных случаев ранней фазы.
 
-### The Bower-Chorley confession and the human-authorship framework
+### Признание Бауэра — Чорли и фреймворк человеческого авторства
 
-The 1991 Bower-Chorley confession (treated above) operates substantively as the principal foundation for the contemporary mainstream-scientific framework. The substantive content:
+Признание Бауэра — Чорли 1991 года (трактуемое выше) оперирует существенно как главная основа для современного мейнстримно-научного фреймворка. Существенное содержание:
 
-- **The substantive demonstration of construction methodology.** Bower and Chorley's plank-and-rope technique with sighting-cap alignment substantively demonstrates that complex crop circles can be produced by small teams within feasible time-windows.
-- **The substantive subsequent organized circle-making.** Circlemakers, Team Satan, and broader organized groups have produced substantial subsequent documentation extending the Bower-Chorley framework.
-- **The substantial geographic-cultural correlation.** The substantial Wiltshire concentration corresponds to substantial cultural-geographic concentration of organized circle-making activity in southern England.
+- **Существенная демонстрация методологии конструкции.** Техника Бауэра — Чорли с доской и верёвкой с прицеливанием через кепки существенно демонстрирует, что сложные круги на полях могут быть произведены небольшими командами в осуществимых временны́х окнах.
+- **Существенное последующее организованное создание кругов.** Circlemakers, Team Satan и более широкие организованные группы произвели существенную последующую документацию, расширяющую фреймворк Бауэра — Чорли.
+- **Существенная географически-культурная корреляция.** Существенная концентрация в Уилтшире соответствует существенной культурно-географической концентрации организованной деятельности по созданию кругов на юге Англии.
 
-The substantive mainstream-scientific consensus: contemporary crop circles are principally human-made through documented construction methodology. The substantive residual questions (the alleged anomalies the BLT and Haselhoff research engages) operate substantively at the methodological margin rather than as substantive refutation of the principal framework.
+Существенный мейнстримно-научный консенсус: современные круги на полях главным образом созданы человеком через задокументированную методологию конструкции. Существенные остаточные вопросы (предполагаемые аномалии, привлекаемые исследованиями BLT и Хазелхофф) оперируют существенно на методологической периферии, а не как существенное опровержение основного фреймворка.
 
-### The Circlemakers and organized circle-making community
+### Circlemakers и сообщество по организованному созданию кругов
 
-The principal documented contemporary circle-making organization is **Circlemakers**, founded by John Lundberg with collaborators Rod Dickinson, Wil Russell, and Rob Irving. The group emerged from the broader **Team Satan** collective operating from approximately 1992 onward.
+Главная задокументированная современная организация по созданию кругов — **Circlemakers**, основанная Джоном Лундбергом с соавторами Родом Дикинсоном, Уилом Расселлом и Робом Ирвингом. Группа возникла из более широкого коллектива **Team Satan**, оперировавшего приблизительно с 1992 года.
 
-The Circlemakers group has produced substantial documentation of contemporary circle-making practice:
+Группа Circlemakers произвела существенную документацию современной практики создания кругов:
 
-- **Construction methodology.** The substantial Bower-Chorley plank-and-rope technique has been extended through substantial subsequent methodological development including substantial GPS-enabled alignment, substantial laser-survey techniques, and substantial subsequent technical refinement.
-- **Artistic-philosophical framework.** Rob Irving and John Lundberg's *The Field Guide: The Art, History and Philosophy of Crop Circle Making* (Strange Attractor Press, 2006) articulates the substantive artistic-philosophical engagement with the practice, locating crop circle making within substantive contemporary art tradition.
-- **Commercial work.** The substantial commercial circle-making work for advertising clients (Microsoft, Mitsubishi, Pepsi, Nike, Greenpeace, BBC, others), film production (the 2002 M. Night Shyamalan film *Signs*), music video production, and broader entertainment-industry applications.
-- **Public demonstration.** The substantial public demonstration of construction methodology in documentaries, journalism, and subsequent public engagement.
+- **Методология конструкции.** Существенная техника Бауэра — Чорли с доской и верёвкой была расширена через существенное последующее методологическое развитие, включая существенное GPS-выравнивание, существенные техники лазерной съёмки и существенное последующее техническое уточнение.
+- **Художественно-философский фреймворк.** Книга Роба Ирвинга и Джона Лундберга *The Field Guide: The Art, History and Philosophy of Crop Circle Making* (Strange Attractor Press, 2006) артикулирует существенное художественно-философское привлечение практики, помещая создание кругов на полях в существенную современную художественную традицию.
+- **Коммерческая работа.** Существенная коммерческая работа по созданию кругов для рекламных клиентов (Microsoft, Mitsubishi, Pepsi, Nike, Greenpeace, BBC, другие), кинопроизводства (фильм М. Найта Шьямалана *Знаки* 2002 года), производства музыкальных видео и более широких применений развлекательной индустрии.
+- **Публичная демонстрация.** Существенная публичная демонстрация методологии конструкции в документальных фильмах, журналистике и последующем публичном привлечении.
 
-The Circlemakers group operates substantively as the principal documented contemporary circle-making organization. The substantial international circle-making community has subsequently emerged across multiple national contexts (substantial American, Canadian, Dutch, German, Japanese, and broader international circle-making activity).
+Группа Circlemakers оперирует существенно как главная задокументированная современная организация по созданию кругов. Существенное международное сообщество по созданию кругов впоследствии возникло в нескольких национальных контекстах (существенная американская, канадская, голландская, немецкая, японская и более широкая международная деятельность по созданию кругов).
 
-### The BLT Research Team and residual-anomaly research
+### BLT Research Team и исследования остаточных аномалий
 
-The **BLT Research Team** (founded 1989 by John Burke, William Levengood, and Nancy Talbott; subsequently directed principally by Talbott) has conducted substantial research on selected crop circle formations investigating the substantial alleged physical anomalies. The substantive research:
+**BLT Research Team** (основана в 1989 году Джоном Бёрком, Уильямом Левенгудом и Нэнси Тэлботт; впоследствии руководимая главным образом Тэлботт) провела существенные исследования избранных формаций кругов на полях, исследуя существенные предполагаемые физические аномалии. Существенные исследования:
 
-- **Node-elongation studies.** William Levengood's substantive research on crop node-bending patterns, principally articulated in *Physiologia Plantarum* (Levengood, 1994). The substantive claim: selected formations exhibit substantial node elongation consistent with brief intense heating, attributed to microwave radiation.
-- **Magnetite-distribution studies.** Substantial soil-sample analysis arguing for substantial concentrations of iron spherules in selected formations.
-- **Substantial subsequent research.** Across approximately three decades, the BLT team has produced substantial subsequent literature engaging the residual-anomaly framework.
+- **Исследования удлинения узлов.** Существенные исследования Уильямом Левенгудом паттернов изгиба узлов культур, главным образом артикулированные в *Physiologia Plantarum* (Левенгуд, 1994). Существенное утверждение: избранные формации демонстрируют существенное удлинение узлов, согласующееся с кратковременным интенсивным нагревом, приписываемым микроволновому излучению.
+- **Исследования распределения магнетита.** Существенный анализ почвенных проб, утверждающий существенные концентрации железных сферул в избранных формациях.
+- **Существенные последующие исследования.** На протяжении приблизительно трёх десятилетий команда BLT произвела существенную последующую литературу, привлекающую фреймворк остаточных аномалий.
 
-The substantive methodological status:
+Существенный методологический статус:
 
-- **The Levengood 1994 paper was published in peer-reviewed *Physiologia Plantarum*.** This is substantive scholarly publication operating within mainstream-scientific framework.
-- **Subsequent peer-reviewed engagement has been limited.** The substantial BLT subsequent literature operates principally in non-peer-reviewed outlets including the substantial BLT Research website and substantial subsequent publications.
-- **The substantial methodological critique includes substantial concerns.** Selection bias in case choice; methodology of soil sampling; statistical analysis controls; the substantial distinction between authentic anomalies and broader sampling effects.
+- **Статья Левенгуда 1994 года была опубликована в рецензируемом *Physiologia Plantarum*.** Это существенная научная публикация, оперирующая в мейнстримно-научном фреймворке.
+- **Последующее рецензируемое привлечение было ограниченным.** Существенная последующая литература BLT оперирует главным образом в нерецензируемых изданиях, включая существенный сайт BLT Research и существенные последующие публикации.
+- **Существенная методологическая критика включает существенные опасения.** Смещение отбора в выборе случаев; методология отбора почвенных проб; контроли статистического анализа; существенное различие между подлинными аномалиями и более широкими эффектами выборки.
 
-The Eltjo Haselhoff engagement provides substantial parallel research. Haselhoff's *The Deepening Complexity of Crop Circles* (Frog, 2001) and substantial subsequent peer-reviewed publications (*Physiologia Plantarum*, 2001) engage node-bending patterns through additional methodology.
+Привлечение Эльтьо Хазелхофф предоставляет существенное параллельное исследование. Книга Хазелхофф *The Deepening Complexity of Crop Circles* (Frog, 2001) и существенные последующие рецензируемые публикации (*Physiologia Plantarum*, 2001) привлекают паттерны изгиба узлов через дополнительную методологию.
 
-The corpus position on the residual-anomaly research: the work is substantive scholarly engagement worth descriptive treatment; the substantial peer-reviewed publication (Levengood 1994; Haselhoff 2001) operates within mainstream-scientific framework; the substantial subsequent literature operates principally outside peer review; the substantial methodological concerns warrant honest acknowledgment; the work has not substantively established the strong "crop circles cannot be explained through human construction" position the residual-anomaly research program advances.
+Позиция корпуса в отношении исследований остаточных аномалий: работа — существенное научное привлечение, заслуживающее описательной трактовки; существенная рецензируемая публикация (Левенгуд 1994; Хазелхофф 2001) оперирует в мейнстримно-научном фреймворке; существенная последующая литература оперирует главным образом вне рецензирования; существенные методологические опасения заслуживают честного признания; работа существенно не установила сильную позицию «круги на полях не могут быть объяснены через человеческое построение», которую продвигает программа исследований остаточных аномалий.
 
-### Alternative-ufological frameworks
+### Альтернативно-уфологические фреймворки
 
-Substantial alternative-ufological frameworks engage selected formations as substantively non-human-made communication content. The principal frameworks:
+Существенные альтернативно-уфологические фреймворки привлекают избранные формации как существенно нечеловеческое содержание коммуникации. Основные фреймворки:
 
-- **The extraterrestrial-communication framework.** Selected formations (Chilbolton 2001; Crabwood 2002; substantial subsequent cases) interpreted as substantive communications from extraterrestrial entities. Linda Moulton Howe, Colin Andrews (in subsequent work), and substantial alternative-ufology researchers engage this framework.
-- **The interdimensional-communication framework.** Substantial alternative ufology engages crop circles as substantive communications from interdimensional or substantively non-physical entities, operating within the broader Vallée framework treated in the [Ufology](../ufology/) entry.
-- **The Earth-energy framework.** Substantial alternative engagement treats crop circles as substantive manifestations of Earth energies, ley-line phenomena, or substantively analogous geophysical-spiritual content. The substantial John Michell tradition and broader sacred-geography engagement operate within this framework.
-- **The channeling and contactee framework.** Substantial alternative engagement integrates crop circles with broader channeling and contactee material, operating within the broader alternative-spiritual tradition.
+- **Фреймворк внеземной коммуникации.** Избранные формации (Чилболтон 2001; Крэбвуд 2002; существенные последующие случаи), интерпретированные как существенные сообщения от внеземных сущностей. Линда Моултон Хау, Колин Эндрюс (в последующей работе) и существенные альтернативно-уфологические исследователи привлекают этот фреймворк.
+- **Фреймворк межпространственной коммуникации.** Существенная альтернативная уфология привлекает круги на полях как существенные сообщения от межпространственных или существенно нефизических сущностей, оперируя в более широком фреймворке Валле, трактуемом в статье {% wiki(slug="ufology") %}«Уфология»{% end %}.
+- **Фреймворк земных энергий.** Существенное альтернативное привлечение трактует круги на полях как существенные манифестации земных энергий, явлений лей-линий или существенно аналогичного геофизически-духовного содержания. Существенная традиция Джона Мичелла и более широкое привлечение сакральной географии оперируют в этом фреймворке.
+- **Фреймворк канализирования и контактёрства.** Существенное альтернативное привлечение интегрирует круги на полях с более широким канализаторским и контактёрским материалом, оперируя в более широкой альтернативно-духовной традиции.
 
-The corpus position on the alternative-ufological frameworks: these frameworks operate within alternative-ufological tradition without substantively verified empirical foundation in mainstream-scientific terms; the corpus engages this work descriptively without substantive adoption.
+Позиция корпуса в отношении альтернативно-уфологических фреймворков: эти фреймворки оперируют в альтернативно-уфологической традиции без существенно верифицированного эмпирического основания в мейнстримно-научных терминах; корпус привлекает эту работу описательно без существенного принятия.
 
-### The contemporary state of the discipline
+### Современное состояние дисциплины
 
-The substantive contemporary state operates across multiple frameworks:
+Существенное современное состояние оперирует через несколько фреймворков:
 
-- **The mainstream-scientific consensus.** Crop circles are principally human-made through documented construction methodology; selected formations exhibit substantial alleged anomalies that remain methodologically contested at the margin.
-- **The artistic-cultural framework.** Crop circles operate substantively as contemporary artistic practice within the broader land-art and environmental-art tradition; the Circlemakers and broader organized circle-making community operates substantively within this framework.
-- **The substantial residual-anomaly research program.** Continuing investigation of selected formations through the residual-anomaly framework.
-- **The substantial alternative-ufological engagement.** Continuing engagement with selected formations as substantively non-human-made communication content.
+- **Мейнстримно-научный консенсус.** Круги на полях главным образом созданы человеком через задокументированную методологию конструкции; избранные формации демонстрируют существенные предполагаемые аномалии, остающиеся методологически оспариваемыми на периферии.
+- **Художественно-культурный фреймворк.** Круги на полях оперируют существенно как современная художественная практика в более широкой традиции лэнд-арта и средового искусства; Circlemakers и более широкое сообщество по организованному созданию кругов оперируют существенно в этом фреймворке.
+- **Существенная программа исследований остаточных аномалий.** Продолжающееся исследование избранных формаций через фреймворк остаточных аномалий.
+- **Существенное альтернативно-уфологическое привлечение.** Продолжающееся привлечение избранных формаций как существенно нечеловеческого содержания коммуникации.
 
-The substantive disciplinary situation: crop circles operate substantively as methodologically complex cultural-artistic-research phenomenon rather than as substantively unexplained category. The substantial majority of contemporary formations are documented human-made; selected formations remain substantively contested in alternative-ufological framework; the substantive ongoing research engagement continues across multiple methodological traditions.
+Существенная дисциплинарная ситуация: круги на полях оперируют существенно как методологически сложное культурно-художественно-исследовательское явление, а не как существенно необъяснённая категория. Существенное большинство современных формаций задокументировано как созданные человеком; избранные формации остаются существенно оспариваемыми в альтернативно-уфологическом фреймворке; существенное продолжающееся исследовательское привлечение продолжается через несколько методологических традиций.
 
-## Comparative observations
+## Сравнительные наблюдения
 
-The substantial cross-cultural and historical engagement with crop circle phenomena warrants substantive articulation.
+Существенное межкультурное и историческое привлечение явлений кругов на полях заслуживает существенной артикуляции.
 
-### The substantial Wiltshire concentration
+### Существенная концентрация в Уилтшире
 
-The substantial geographic concentration of crop circles in Wiltshire, England operates as substantive observation requiring engagement. The substantive content:
+Существенная географическая концентрация кругов на полях в Уилтшире, Англия, оперирует как существенное наблюдение, требующее привлечения. Существенное содержание:
 
-- **The principal Wiltshire region.** The substantial concentration operates principally in the Avebury-Stonehenge-Silbury Hill-Alton Barnes region, with substantial subsequent concentration extending to Hampshire and Oxfordshire.
-- **The substantial sacred-geographic correlation.** The Wiltshire region contains substantial concentration of prehistoric sacred sites — Stonehenge (c. 3000-2000 BCE); Avebury Henge (c. 2850-2200 BCE); Silbury Hill (c. 2400 BCE); the substantial West Kennet Long Barrow (c. 3650 BCE); the substantial subsequent prehistoric monumental landscape.
-- **The substantial alternative-cultural correlation.** The Wiltshire region operates as substantial concentration of alternative-spiritual, New Age, and broader counter-cultural communities across the post-1960s period.
-- **The substantial organized circle-making concentration.** The substantial Circlemakers and broader organized circle-making activity concentrates principally in the Wiltshire region, with substantial subsequent geographic correlation between organized circle-making activity and reported formation locations.
+- **Основной регион Уилтшира.** Существенная концентрация оперирует главным образом в регионе Эйвбери — Стоунхендж — Силбери-Хилл — Олтон-Барнс, с существенной последующей концентрацией, простирающейся на Хэмпшир и Оксфордшир.
+- **Существенная сакрально-географическая корреляция.** Регион Уилтшир содержит существенную концентрацию доисторических сакральных мест — Стоунхендж (около 3000–2000 гг. до н. э.); Эйвбери-Хендж (около 2850–2200 гг. до н. э.);{{ cite(id="prehistoric-avebury", text="[16]", title="Бёрл, *Prehistoric Avebury* (1979, переиздание 2002) — основополагающая трактовка комплекса Эйвбери-Хендж") }} Силбери-Хилл (около 2400 г. до н. э.); существенный Уэст-Кеннетский длинный курган (около 3650 г. до н. э.); существенный последующий доисторический монументальный ландшафт.{{ cite(id="avebury-biography-of-a-landscape", text="[17]", title="Поллард и Рейнольдс, *Avebury: The Biography of a Landscape* (2002)") }}
+- **Существенная альтернативно-культурная корреляция.** Регион Уилтшир оперирует как существенная концентрация альтернативно-духовных, нью-эйдж и более широких контркультурных сообществ на протяжении периода после 1960-х годов.
+- **Существенная концентрация организованного создания кругов.** Существенная деятельность Circlemakers и более широкая организованная деятельность по созданию кругов концентрируется главным образом в регионе Уилтшир, с существенной последующей географической корреляцией между организованной деятельностью по созданию кругов и местоположениями сообщаемых формаций.
 
-The substantive interpretive frameworks for the Wiltshire concentration:
+Существенные интерпретативные фреймворки для уилтширской концентрации:
 
-- **The mainstream-scientific framework.** The geographic concentration reflects principally the substantial concentration of organized circle-making activity in the region, with substantial subsequent cultural-attention amplification.
-- **The alternative-spiritual framework.** The geographic concentration reflects substantial Earth-energy or ley-line phenomena operating within the substantial prehistoric sacred landscape.
-- **The mixed framework.** Both factors operate substantively — the substantial organized circle-making concentration is itself substantially shaped by the substantial alternative-spiritual cultural framework operating in the region.
+- **Мейнстримно-научный фреймворк.** Географическая концентрация отражает главным образом существенную концентрацию организованной деятельности по созданию кругов в регионе с существенным последующим усилением культурного внимания.
+- **Альтернативно-духовный фреймворк.** Географическая концентрация отражает существенные явления земных энергий или лей-линий, оперирующие в существенном доисторическом сакральном ландшафте.
+- **Смешанный фреймворк.** Оба фактора оперируют существенно — существенная концентрация организованного создания кругов сама существенно сформирована существенным альтернативно-духовным культурным фреймворком, оперирующим в регионе.
 
-The corpus position: the Wiltshire concentration reflects substantial multiple factors operating together — the substantial organized circle-making activity; the substantial alternative-spiritual cultural framework; the substantial prehistoric monumental landscape providing substantively meaningful cultural context. The substantive question of whether substantive non-human factors operate alongside these reflects the broader residual-anomaly question that remains methodologically contested.
+Позиция корпуса: уилтширская концентрация отражает существенные множественные факторы, оперирующие вместе — существенную деятельность по организованному созданию кругов; существенный альтернативно-духовный культурный фреймворк; существенный доисторический монументальный ландшафт, предоставляющий существенно значимый культурный контекст. Существенный вопрос о том, оперируют ли существенные нечеловеческие факторы наряду с этими, отражает более широкий вопрос об остаточных аномалиях, остающийся методологически оспариваемым.
 
-### The substantial Mowing Devil methodological articulation
+### Существенная методологическая артикуляция «Косящего дьявола»
 
-The 1678 Mowing Devil pamphlet's status as crop-circle precedent warrants substantive methodological articulation:
+Статус памфлета «Косящий дьявол» 1678 года как прецедента кругов на полях заслуживает существенной методологической артикуляции:
 
-- **The substantive pamphlet content.** The pamphlet describes a supernatural mowing event in Hertfordshire — a farmer who refused a mower's price reportedly said he would rather have the Devil mow his field; the field was subsequently found mowed overnight. The pamphlet's woodcut illustration depicts a devil mowing in a circular pattern.
-- **The substantive pamphlet-literature context.** The 1678 pamphlet operates within substantial 17th-century English broadsheet tradition that produced extensive supernatural-prodigy literature. The substantial pamphlet output of the period engaged divine signs, miraculous events, monstrous births, and broader supernatural content within substantively moralizing-allegorical framework.
-- **The substantive methodological distinction.** The Mowing Devil event involves cutting standing crops cleanly — substantively different from the flattening that characterizes modern crop circles. The substantive distinction is methodologically substantial.
-- **The substantive scholarly engagement.** Folklore scholarship (Bob Trubshaw, Jeremy Harte, substantial others) has engaged the Mowing Devil within 17th-century pamphlet conventions; crop circle research has principally engaged it as evidence of pre-modern crop circles.
+- **Существенное содержание памфлета.** Памфлет описывает событие сверхъестественного скашивания в Хартфордшире — фермер, отказавшийся от цены косаря, по сообщению сказал, что предпочёл бы, чтобы дьявол скосил его поле; впоследствии поле было найдено скошенным за ночь. Гравюра на дереве, иллюстрирующая памфлет, изображает дьявола, скашивающего круговым узором.
+- **Существенный контекст памфлетной литературы.** Памфлет 1678 года оперирует в существенной английской бульварно-листовой традиции XVII века, которая производила обширную литературу сверхъестественных чудес. Существенная памфлетная продукция периода привлекала божественные знамения, чудесные события, монструозные рождения и более широкое сверхъестественное содержание в существенно морализаторски-аллегорическом обрамлении.
+- **Существенное методологическое различие.** Событие «Косящего дьявола» включает чистое срезание стоящих культур — существенно отличное от уплощения, характерного для современных кругов на полях. Существенное различие методологически существенно.
+- **Существенное научное привлечение.** Фольклорная наука (Боб Трубшоу, Джереми Харт, существенные другие) привлекла «Косящего дьявола» в рамках конвенций памфлетов XVII века; исследование кругов на полях главным образом привлекало его как свидетельство домодерных кругов на полях.
 
-The corpus position: the Mowing Devil case is substantively different category from modern crop circles. The substantive cultural-historical interest of the case is genuine; the substantive disciplinary claim of pre-modern crop-circle precedent is methodologically problematic.
+Позиция корпуса: случай «Косящего дьявола» — это существенно иная категория, чем современные круги на полях. Существенный культурно-исторический интерес случая подлинен; существенное дисциплинарное утверждение о домодерном прецеденте кругов на полях методологически проблематично.
 
-### Cross-cultural patterns of unexplained agricultural phenomena
+### Межкультурные паттерны необъяснимых сельскохозяйственных явлений
 
-The substantial cross-cultural engagement with unexplained agricultural phenomena operates principally through folkloric framework rather than as substantive modern-crop-circle parallel:
+Существенное межкультурное привлечение необъяснимых сельскохозяйственных явлений оперирует главным образом через фольклорный фреймворк, а не как существенная параллель современным кругам на полях:
 
-- **Substantial fairy-circle traditions.** The substantial Celtic and broader European folklore tradition of fairy circles (rings of mushrooms, grass discoloration, or other ground markings interpreted as supernatural manifestation) operates substantively as folkloric category. The substantial fairy-circle tradition operates principally as small-scale localized phenomenon distinct from modern crop circles.
-- **Substantial Japanese mizuwa (water-rings) and broader Asian agricultural-anomaly traditions.** Substantial cross-cultural engagement with unexplained agricultural patterns within broader supernatural-interpretation framework.
-- **Substantial Native American sacred-geometry-on-landscape traditions.** Substantial Native American traditions engage substantial geometric patterns on landscape (Nazca lines analogs in North America; substantial subsequent patterns) within broader sacred-landscape framework.
+- **Существенные традиции волшебных колец.** Существенная кельтская и более широкая европейская фольклорная традиция волшебных колец (кольца грибов, обесцвечивания травы или других наземных меток, интерпретируемых как сверхъестественная манифестация) оперирует существенно как фольклорная категория. Существенная традиция волшебных колец оперирует главным образом как мелкомасштабное локализованное явление, отличное от современных кругов на полях.
+- **Существенные японские *мидзува* (водные кольца) и более широкие азиатские традиции сельскохозяйственных аномалий.** Существенное межкультурное привлечение необъяснимых сельскохозяйственных паттернов в более широком сверхъестественно-интерпретативном фреймворке.
+- **Существенные индейские традиции сакральной геометрии на ландшафте.** Существенные индейские традиции привлекают существенные геометрические узоры на ландшафте (аналоги линий Наски в Северной Америке; существенные последующие узоры) в более широком фреймворке сакрального ландшафта.
 
-The substantive cross-cultural pattern: human cultures across substantial historical periods have engaged unexplained ground-level patterns within supernatural-interpretation framework. The substantive distinction from modern crop circles: contemporary crop circles operate principally as substantial-scale geometric formations in cereal crops, distinct from the substantial fairy-circle and broader small-scale folkloric categories.
+Существенный межкультурный паттерн: человеческие культуры на протяжении существенных исторических периодов привлекали необъяснимые паттерны наземного уровня в сверхъестественно-интерпретативном фреймворке. Существенное отличие от современных кругов на полях: современные круги на полях оперируют главным образом как существенно-масштабные геометрические формации в злаковых культурах, отличные от существенных категорий волшебных колец и более широких мелкомасштабных фольклорных категорий.
 
-### The Vallée-Hynek cross-cultural folklore framework
+### Межкультурный фольклорный фреймворк Валле — Хайнека
 
-The Vallée-Hynek cross-cultural folklore framework (treated in the [Ufology](../ufology/) entry's *Comparative observations* section) operates substantively as adjacent framework for engaging crop circles. The substantive content:
+Межкультурный фольклорный фреймворк Валле — Хайнека (трактуемый в разделе *Сравнительные наблюдения* статьи {% wiki(slug="ufology") %}«Уфология»{% end %}) оперирует существенно как смежный фреймворк для привлечения кругов на полях. Существенное содержание:
 
-- **The substantial folkloric-modern continuity.** Vallée's framework articulates structural continuity between modern UFO accounts and cross-cultural folklore traditions of encounters with non-human entities.
-- **The substantial crop-circle parallel.** The substantial cross-cultural fairy-circle tradition operates substantively as folkloric parallel to modern crop circles within the Vallée framework, though the substantive scale and form distinctions are methodologically significant.
-- **The substantive interpretive implications.** Within the Vallée framework, modern crop circles operate substantively as contemporary expression of substantial cross-cultural pattern of unexplained agricultural-pattern phenomena.
+- **Существенная фольклорно-современная непрерывность.** Фреймворк Валле артикулирует структурную непрерывность между современными отчётами об НЛО и межкультурными фольклорными традициями встреч с нечеловеческими сущностями.
+- **Существенная параллель с кругами на полях.** Существенная межкультурная традиция волшебных колец оперирует существенно как фольклорная параллель современным кругам на полях в рамках фреймворка Валле, хотя существенные различия в масштабе и форме методологически значимы.
+- **Существенные интерпретативные импликации.** В рамках фреймворка Валле современные круги на полях оперируют существенно как современное выражение существенного межкультурного паттерна необъяснимых явлений сельскохозяйственных паттернов.
 
-The corpus position: the Vallée framework operates as substantive adjacent framework for engaging crop circles; the substantive methodological distinction between modern crop circles and substantial folkloric fairy-circle traditions warrants substantive acknowledgment; the substantial folkloric content operates substantively as cultural context rather than as substantive empirical foundation for the modern phenomenon.
+Позиция корпуса: фреймворк Валле оперирует как существенный смежный фреймворк для привлечения кругов на полях; существенное методологическое различие между современными кругами на полях и существенными фольклорными традициями волшебных колец заслуживает существенного признания; существенное фольклорное содержание оперирует существенно как культурный контекст, а не как существенное эмпирическое основание для современного явления.
 
-### The Vorilhon-source engagement
+### Привлечение источником Ворильона
 
-The Vorilhon source articulates substantive engagement with crop circles principally through one specific case. The substantive content from the *Message from the Designers* foreword:
+Источник Ворильона артикулирует существенное привлечение кругов на полях главным образом через один конкретный случай. Существенное содержание из предисловия к *Посланию от Создателей*:
 
-> *"Not long after we built a small scale model of the embassy based on these drawings, a crop circle appeared in England which bore an astonishing resemblance to it."*
+> *«Вскоре после того, как мы построили мелкомасштабную модель посольства на основе этих чертежей, в Англии появился круг на поле, имевший поразительное сходство с ней».*
 
-The substantive content:
+Существенное содержание:
 
-- **The specific crop circle case.** A formation appearing in England (specific location and date not articulated in the source) that bore substantive resemblance to the Raëlian embassy small-scale model.
-- **The substantive interpretive framework.** The Vorilhon source articulates this as substantively meaningful within corpus framework, though the source does not adopt the strong "all crop circles are alliance messages" framing that some alternative ufology articulates.
-- **The substantive cultural-historical context.** The acknowledgments page of *Message from the Designers* thanks "Colin Andrews (www.CropCircleInfo.com) for permission to use the crop circle aerial photograph taken at Cheesefoot Head in Wiltshire, England in August 1990," substantively indicating substantive Raëlian engagement with crop circle phenomena across the 1990s.
+- **Конкретный случай круга на поле.** Формация, появившаяся в Англии (конкретное местоположение и дата не артикулированы в источнике), которая имела существенное сходство с раэлианской мелкомасштабной моделью {% wiki(slug="embassy") %}посольства{% end %}.
+- **Существенный интерпретативный фреймворк.** Источник Ворильона артикулирует это как существенно значимое в рамках корпуса, хотя источник не принимает сильное обрамление «все круги на полях — это альянсовые послания», которое артикулирует некоторая альтернативная уфология.
+- **Существенный культурно-исторический контекст.** Страница благодарностей в *Послании от Создателей* благодарит «Колина Эндрюса (www.CropCircleInfo.com) за разрешение использовать аэрофотоснимок круга на поле, сделанный в Чизфут-Хед в Уилтшире, Англия, в августе 1990 года», существенно указывая на существенное раэлианское привлечение явлений кругов на полях на протяжении 1990-х годов.
 
-The substantive Raëlian engagement operates principally through:
+Существенное раэлианское привлечение оперирует главным образом через:
 
-- **The substantial Cheesefoot Head 1990 formation engagement.** The formation Colin Andrews photographed and the Raëlian source acknowledged operates as substantive case material within the corpus framework's engagement.
-- **The substantial embassy-resemblance case.** The specific case the Vorilhon source articulates as substantively meaningful.
-- **The substantial broader Raëlian organizational engagement.** The substantial international Raëlian Movement's engagement with crop circle phenomena operates substantively at the level of cultural interest and selective case engagement rather than as systematic alliance-communication framework.
+- **Существенное привлечение формации Чизфут-Хед 1990 года.** Формация, которую сфотографировал Колин Эндрюс и которую признал раэлианский источник, оперирует как существенный материал случая в рамках привлечения корпуса.
+- **Существенный случай сходства с посольством.** Конкретный случай, который источник Ворильона артикулирует как существенно значимый.
+- **Существенное более широкое раэлианское организационное привлечение.** Привлечение существенным международным {% wiki(slug="raelism") %}Раэлианским Движением{% end %} явлений кругов на полях оперирует существенно на уровне культурного интереса и избирательного привлечения случаев, а не как систематический фреймворк альянсовой коммуникации.
 
-The substantive corpus position on the Vorilhon-source engagement:
+Существенная позиция корпуса в отношении привлечения источником Ворильона:
 
-- **The substantive specific case has substantive corpus-internal meaning.** The embassy-resemblance formation operates as substantively meaningful within corpus framework.
-- **The broader crop-circle phenomenon is not articulated as principal alliance-communication mechanism.** The Vorilhon source's principal alliance-communication content operates through direct contact narrative (1973 Puy-de-Lassolas; 1975 home planet transport; subsequent contact events) and through prophetic transmission, not through crop circle manifestation.
-- **The substantive Raëlian organizational engagement with crop circles operates at cultural-interest level.** The substantial Raëlian engagement is substantive cultural-historical fact without operating as substantive doctrinal commitment.
+- **Существенный конкретный случай имеет существенное корпусно-внутреннее значение.** Формация-сходство с посольством оперирует как существенно значимая в рамках корпуса.
+- **Более широкое явление кругов на полях не артикулировано как главный механизм альянсовой коммуникации.** Основное содержание альянсовой коммуникации источника Ворильона оперирует через прямое контактное повествование (1973 Пюи-де-Лассолас; 1975 перенос на родную планету; последующие контактные события) и через пророческую передачу, а не через манифестацию кругов на полях.
+- **Существенное раэлианское организационное привлечение кругов на полях оперирует на уровне культурного интереса.** Существенное раэлианское привлечение — существенный культурно-исторический факт, не оперирующий как существенное доктринальное обязательство.
 
-The substantive editorial articulation: the corpus engages crop circles substantively as ufology-adjacent phenomenon with one specific case operating as substantively meaningful within Vorilhon-source content. The broader phenomenon is engaged at descriptive level without adoption as principal alliance-communication mechanism.
+Существенная редакторская артикуляция: корпус привлекает круги на полях существенно как уфологически-смежное явление с одним конкретным случаем, оперирующим как существенно значимый в содержании источника Ворильона. Более широкое явление привлекается на описательном уровне без принятия в качестве главного механизма альянсовой коммуникации.
 
-### The contemporary cultural-artistic dimensions
+### Современные культурно-художественные измерения
 
-The substantive contemporary cultural-artistic engagement with crop circles operates substantively beyond ufological framework:
+Существенное современное культурно-художественное привлечение кругов на полях оперирует существенно вне уфологического фреймворка:
 
-- **The substantial land-art and environmental-art tradition.** Crop circles operate substantively within the broader contemporary land-art tradition extending from Robert Smithson's *Spiral Jetty* (1970) through substantial subsequent environmental-art practice. The Circlemakers group and broader organized circle-making community engages this tradition substantively.
-- **The substantial public-art and ephemeral-art tradition.** Crop circles operate substantively as ephemeral public art, with substantial subsequent photographic documentation as principal preservation mechanism.
-- **The substantial spectacle-and-tourism dimension.** The substantial Wiltshire crop circle tourism operates substantively as cultural-economic phenomenon, with substantial subsequent visitor engagement, photography tourism, and broader cultural-tourism economy.
-- **The substantial film and media engagement.** The substantial cultural representation of crop circles in film (the 2002 M. Night Shyamalan *Signs*; substantial subsequent productions), television, music videos, and broader media engagement.
-- **The substantial New Age and alternative-spiritual cultural engagement.** Crop circles operate substantively as principal contemporary New Age symbolic content, with substantial subsequent engagement in alternative-spiritual literature, meditation practice, and broader cultural framework.
+- **Существенная традиция лэнд-арта и средового искусства.** Круги на полях оперируют существенно в более широкой современной традиции лэнд-арта, простирающейся от *Спиральной дамбы* Роберта Смитсона (1970) через существенную последующую практику средового искусства. Группа Circlemakers и более широкое сообщество по организованному созданию кругов привлекает эту традицию существенно.
+- **Существенная традиция публичного и эфемерного искусства.** Круги на полях оперируют существенно как эфемерное публичное искусство, с существенной последующей фотографической документацией как главным механизмом сохранения.
+- **Существенное зрелищно-туристическое измерение.** Существенный туризм кругов на полях в Уилтшире оперирует существенно как культурно-экономическое явление, с существенным последующим посетительским привлечением, фототуризмом и более широкой культурно-туристической экономикой.
+- **Существенное привлечение в кино и СМИ.** Существенная культурная репрезентация кругов на полях в кино (фильм М. Найта Шьямалана *Знаки* 2002 года; существенные последующие постановки), на телевидении, в музыкальных видео и в более широком медийном привлечении.
+- **Существенное нью-эйдж и альтернативно-духовное культурное привлечение.** Круги на полях оперируют существенно как основное современное символическое содержание нью-эйдж, с существенным последующим привлечением в альтернативно-духовной литературе, практике медитации и в более широком культурном фреймворке.
 
-The corpus position: the substantive cultural-artistic dimensions of contemporary crop circles operate substantively as principal contemporary engagement, with the substantial ufological framework operating as one component within the broader cultural-artistic phenomenon rather than as principal interpretive framework.
+Позиция корпуса: существенные культурно-художественные измерения современных кругов на полях оперируют существенно как основное современное привлечение, причём существенный уфологический фреймворк оперирует как один компонент в более широком культурно-художественном явлении, а не как главный интерпретативный фреймворк.
 
-### The convergence
+### Конвергенция
 
-The substantial cross-cultural and historical engagement with crop circles operates substantively as complex cultural-artistic-methodological phenomenon. The substantive corpus position:
+Существенное межкультурное и историческое привлечение кругов на полях оперирует существенно как сложное культурно-художественно-методологическое явление. Существенная позиция корпуса:
 
-- **The contemporary phenomenon is principally documented human-made artistic-cultural practice.** The substantive mainstream-scientific framework is substantively well-supported through documented construction methodology.
-- **Substantive residual physical-anomaly questions remain methodologically contested.** The BLT, Haselhoff, and substantial subsequent research operates within substantive methodological controversy.
-- **The substantial alleged extraterrestrial-communication content in specific formations has not been substantively verified.** The Chilbolton, Crabwood, and substantial subsequent communication-claim cases operate within alternative-ufological framework.
-- **The Vorilhon source articulates one specific case as substantively meaningful within corpus framework.** The embassy-resemblance case operates as substantively specific corpus content.
-- **The broader phenomenon is engaged at descriptive level.** The corpus does not adopt the strong "crop circles are alliance messages" framing; the substantive alliance-contact framework operates through Vorilhon-source contact narrative rather than through crop-circle manifestation.
+- **Современное явление — главным образом задокументированная созданная человеком художественно-культурная практика.** Существенный мейнстримно-научный фреймворк существенно хорошо подкреплён через задокументированную методологию конструкции.
+- **Существенные остаточные вопросы о физических аномалиях остаются методологически оспариваемыми.** Исследования BLT, Хазелхофф и существенные последующие исследования оперируют в существенной методологической полемике.
+- **Существенное предполагаемое содержание внеземной коммуникации в конкретных формациях не было существенно верифицировано.** Чилболтон, Крэбвуд и существенные последующие случаи с заявлениями о коммуникации оперируют в альтернативно-уфологическом фреймворке.
+- **Источник Ворильона артикулирует один конкретный случай как существенно значимый в рамках корпуса.** Случай сходства с посольством оперирует как существенно конкретное корпусное содержание.
+- **Более широкое явление привлекается на описательном уровне.** Корпус не принимает сильное обрамление «круги на полях — это альянсовые послания»; существенный фреймворк альянсового контакта оперирует через контактное повествование источника Ворильона, а не через манифестацию кругов на полях.
 
-The substantive corpus engagement threads the documented mainstream-scientific consensus, the substantive residual-anomaly research, the substantial alternative-ufological tradition, and the specific Vorilhon-source content with substantive epistemic care.
-
-## See also
-
-- [Wheel of Heaven](../wheel-of-heaven/)
-- [Ufology](../ufology/)
-- [Astrobiology](../astrobiology/)
-- [Drake Equation](../drake-equation/)
-- [Ancient Astronaut Hypothesis](../ancient-astronaut-hypothesis/)
-- [Embassy](../embassy/)
-- [New Jerusalem](../new-jerusalem/)
-- [Third Temple](../third-temple/)
-- [Comparative Mythology](../comparative-mythology/)
-- [Sacred Geometry](../sacred-geometry/)
-- [Archaeoastronomy](../archaeoastronomy/)
-- [Elohim Home Planet](../elohim-home-planet/)
-- [Raël](../rael/)
-- [Raëlism](../raelism/)
-- [Message from the Designers](../message-from-the-designers/)
-- [Age of Aquarius](../age-of-aquarius/)
-
-## References
-
-### Principal Raëlian source
-
-Vorilhon, Claude (Raël). *Message from the Designers*. Tagman Press, 2005.
-
-### Foundational documentation
-
-Delgado, Pat, and Colin Andrews. *Circular Evidence: A Detailed Investigation of the Flattened Swirled Crops Phenomenon*. Bloomsbury, 1989.
-
-Andrews, Colin, and Stephen J. Spignesi. *Crop Circles: Signs of Contact*. New Page Books, 2003.
-
-Pringle, Lucy. *Crop Circles: The Greatest Mystery of Modern Times*. Thorsons, 1999.
-
-### Circlemakers and organized circle-making
-
-Irving, Rob, and John Lundberg. *The Field Guide: The Art, History and Philosophy of Crop Circle Making*. Strange Attractor Press, 2006.
-
-Circlemakers.org. <http://www.circlemakers.org>.
-
-### Bower-Chorley confession
-
-Schnabel, Jim. *Round in Circles: Physicists, Poltergeists, Pranksters, and the Secret History of the Cropwatchers*. Hamish Hamilton, 1993.
-
-### The plasma vortex hypothesis
-
-Meaden, Terence. *The Circles Effect and Its Mysteries*. Artetech, 1989.
-
-### The residual-anomaly research program
-
-Levengood, William C. "Anatomical Anomalies in Crop Formation Plants." *Physiologia Plantarum* 92, no. 2 (1994): 356-363.
-
-Haselhoff, Eltjo H. *The Deepening Complexity of Crop Circles: Scientific Research and Urban Legends*. Frog Books, 2001.
-
-Haselhoff, Eltjo H. "Opinions and Comments on Levengood WC, Talbott NP (1999) Dispersion of Energies in Worldwide Crop Formations." *Physiologia Plantarum* 111, no. 1 (2001): 123-125.
-
-BLT Research Team. <http://www.bltresearch.com>.
-
-### Alternative-ufological frameworks
-
-Howe, Linda Moulton. *Glimpses of Other Realities*. 2 vols. LMH Productions, 1993-1998.
-
-### Methodological and historical engagement
-
-Schnabel, Jim. *Round in Circles*. Hamish Hamilton, 1993.
-
-Nickell, Joe. "Levengood's Crop-Circle Plant Research." *Skeptical Inquirer* 20, no. 2 (1996): 19-21.
-
-Nickell, Joe. *Real-Life X-Files: Investigating the Paranormal*. University Press of Kentucky, 2001.
-
-### Pamphlet-literature context
-
-Walsham, Alexandra. *Providence in Early Modern England*. Oxford University Press, 1999.
-
-Friedman, Jerome. *Miracles and the Pulp Press during the English Revolution*. UCL Press, 1993.
-
-### Wiltshire prehistoric landscape
-
-Burl, Aubrey. *Prehistoric Avebury*. Yale University Press, 1979. Revised edition, 2002.
-
-Pollard, Joshua, and Andrew Reynolds. *Avebury: The Biography of a Landscape*. Tempus, 2002.
-
-### Web resources
-
-"Crop circle." *Wikipedia*. <https://en.wikipedia.org/wiki/Crop_circle>.
-
-"Doug Bower and Dave Chorley." *Wikipedia*. <https://en.wikipedia.org/wiki/Doug_Bower_and_Dave_Chorley>.
-
-"Circlemakers." <http://www.circlemakers.org>.
-
-"BLT Research Team." <http://www.bltresearch.com>.
-
-"Mowing-Devil." *Wikipedia*. <https://en.wikipedia.org/wiki/Mowing-Devil>.
+Существенное привлечение корпуса проводит линию между задокументированным мейнстримно-научным консенсусом, существенными исследованиями остаточных аномалий, существенной альтернативно-уфологической традицией и конкретным содержанием источника Ворильона с существенной эпистемической осторожностью.

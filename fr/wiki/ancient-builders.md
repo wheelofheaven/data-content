@@ -1,597 +1,615 @@
 +++
 title = "Anciens bâtisseurs"
-description = "Les anciens bâtisseurs sont les civilisations préhistoriques et protohistoriques responsables des grandes structures mégalithiques de la Terre, dont les techniques et la précision astronomique excèdent ce que les archéologies conventionnelles attribuent à leur époque. Dans le cadre Wheel of Heaven, ils sont lus comme les héritiers directs ou indirects d'une transmission technique élohimique."
+slug = "ancient-builders"
+description = "Anciens bâtisseurs est, dans l'usage populaire et d'archéologie alternative, la proposition selon laquelle une ou plusieurs civilisations disparues ou inconnues seraient responsables de la construction d'une grande partie des monuments en pierre antiques substantiels que l'on trouve à l'échelle mondiale — dont les pyramides égyptiennes, Stonehenge, les sites mégalithiques andins de Sacsayhuamán et du Machu Picchu, les moaï de l'île de Pâques, les temples mégalithiques maltais et d'autres — au motif que les techniques de construction requises dépassaient les capacités technologiques attribuées aux civilisations conventionnellement créditées de ces monuments. Le cadre Wheel of Heaven engage cette proposition avec soin. Le corpus n'adopte pas le cadrage plus large d'une « race des anciens bâtisseurs » dans sa forme forte, qui traite les monuments mégalithiques visibles comme la preuve que les civilisations humaines auxquelles ils sont attribués n'auraient pas pu les construire. Ce cadrage fort est la lecture culturellement dépréciative à la von Däniken de l'accomplissement indigène dont le corpus s'est explicitement distancié dans l'entrée Théorie des Anciens Astronautes. La position du corpus : les monuments mégalithiques visibles ont été principalement construits par les civilisations humaines auxquelles ils sont conventionnellement attribués, avec des technologies que l'archive de l'archéologie expérimentale documente substantiellement. Le corpus engage substantiellement plusieurs phénomènes apparentés mais distincts : les bases d'alliance pré-Déluge que la source Vorilhon identifie comme ayant été situées sur de hautes montagnes et en des lieux sous-marins (le contenu principal de la source Vorilhon sur les bases andines, himalayennes, grecques et sous-marines) ; l'accomplissement humain-civilisationnel post-Déluge des grands monuments visibles, que le corpus traite comme une réalisation humaine substantielle dont la sophistication astronomique et géométrique substantielle reflète un développement culturel humain substantiel ; la révolution substantielle de Göbekli Tepe et ses implications pour l'émergence substantiellement plus précoce qu'on ne le pensait de la construction monumentale ; et le schéma transculturel substantiel des traditions de construction mégalithique-et-monumentale, que le corpus lit comme reflétant des processus de développement culturel communs substantiels parallèlement à une influence d'alliance spécifique sur des traditions spécifiques."
 template = "wiki-page.html"
 toc = true
 
 [extra]
-translation_status = "metadata_only"
 editorial_pass = "2026-05"
+claim_type = "framework"
 category = "Peoples & Groups"
 entry_type = "concept"
 alternative_names = ["Ancient Builders", "Builder Race", "Megalithic Builders", "the Builders", "lost civilization (broader popular usage)", "Atlantean builders (in Atlantis-tradition usage)"]
 timeline = ["age-of-leo", "age-of-cancer", "age-of-gemini", "age-of-taurus"]
+see_also = [
+    { title = "Théorie des Anciens Astronautes", path = "wiki/ancient-astronaut-hypothesis", description = "Le cadre interprétatif plus large à l'intérieur duquel les revendications des Anciens bâtisseurs opèrent comme un sous-ensemble ; les différences spécifiques du corpus avec le cadrage fort à la von Däniken." },
+    { title = "Mythologie comparée", path = "wiki/comparative-mythology", description = "Le contexte disciplinaire pour engager la distribution transculturelle des traditions de construction mégalithique et monumentale." },
+    { title = "Néo-évhémérisme", path = "wiki/neo-euhemerism", description = "La méthode interprétative qui lit le contenu mythologique comme une mémoire historique compressée d'événements réels." },
+    { title = "Théomachie", path = "wiki/theomachy", description = "Le conflit factionnel intra-alliance dont la dissimulation par la faction Serpentine en des lieux sous-marins concerne le contenu sur les bases sous-marines de la source Vorilhon." },
+    { title = "Serpent", path = "wiki/serpent", description = "La faction Lucifer / Serpentine dont l'exil post-Éden sur Terre concerne le contenu sur les bases sous-marines de l'alliance." },
+    { title = "Archéoastronomie", path = "wiki/archaeoastronomy", description = "L'engagement disciplinaire avec les alignements astronomiques dans l'architecture monumentale." },
+    { title = "Géométrie sacrée", path = "wiki/sacred-geometry", description = "La sophistication géométrique présente dans l'architecture monumentale à travers les traditions." },
+    { title = "Précession", path = "wiki/precession", description = "Le cycle astronomique de 25 800 ans dont le suivi par les monuments anciens mérite un engagement substantiel." },
+]
+
+footnotes = [
+    { content = "Le cadrage fort d'une « race des anciens bâtisseurs » — selon lequel les civilisations conventionnellement créditées n'auraient pas pu construire leurs propres monuments — comporte une dimension substantiellement dépréciative sur le plan culturel que le corpus rejette pour des raisons méthodologiques autant qu'éthiques. Le cadrage a, dans ses articulations des XIXᵉ et XXᵉ siècles, souvent coïncidé avec des hypothèses raciales-hiérarchiques explicites sur les populations « capables » de construction monumentale. L'attachement du corpus au respect de l'accomplissement indigène n'est donc pas une simple préférence méthodologique mais un engagement éthique substantiel : les Égyptiens ont construit les pyramides égyptiennes ; les Incas ont construit Sacsayhuamán ; les Rapa Nui ont construit les moaï ; les Maltais néolithiques ont construit les temples maltais. Les attributions conventionnelles sont substantiellement correctes, et l'archive de l'archéologie expérimentale documente substantiellement les méthodes de construction." },
+    { content = "Le contenu de la source Vorilhon sur les bases terrestres de l'alliance décrit des installations opérationnelles — laboratoires, habitation, infrastructures de communication et d'énergie — plutôt que des constructions monumentales destinées à servir de symboles visibles. Cette distinction est porteuse pour la position du corpus. Les bases en haute montagne que la source identifie dans l'Himalaya, dans les Andes, en Grèce et ailleurs ne sont pas les monuments mégalithiques visibles vers lesquels la tradition de l'archéologie alternative pointe habituellement (Gizeh, Stonehenge, Sacsayhuamán, les moaï). Les bases ont laissé des traces culturelles fragmentaires — le schéma transculturel substantiel des montagnes sacrées que le corpus lit comme préservant la mémoire culturelle d'une présence d'alliance — plutôt que des structures physiques survivantes. Les monuments mégalithiques visibles sont un phénomène séparé, une réalisation humaine substantielle, et le corpus ne confond pas les deux." },
+    { content = "L'argument géologique de Robert Schoch en faveur d'une redatation du Grand Sphinx de Gizeh sur la base des motifs d'érosion par l'eau propose une datation substantiellement antérieure à l'attribution conventionnelle à la IVᵉ dynastie (vers 2500 AEC) — possiblement avant la fin de la dernière période glaciaire (vers 10 000 AEC ou plus tôt). La réponse de l'égyptologie courante a été substantiellement négative ; le débat demeure contesté. Le corpus traite la question de la redatation du Sphinx comme une question empirique substantiellement ouverte plutôt que comme un fait établi dans un sens ou dans l'autre. Si la redatation de Schoch venait à être confirmée, les implications pour le cadre du corpus seraient substantielles ; le corpus, cependant, ne fonde pas sa lecture sur l'hypothèse que la redatation est correcte." },
+    { content = "L'hypothèse de l'impact du Dryas récent (YDIH) est engagée par le corpus au niveau descriptif — les preuves substantielles d'un événement catastrophique majeur survenu il y a environ 12 900 ans méritent un engagement substantiel — sans adopter le cadrage de « civilisation avancée disparue » de Hancock comme conséquence inférée. Les populations humaines substantielles d'avant le Dryas récent étaient substantiellement des cultures de chasseurs-cueilleurs dotées d'une sophistication culturelle substantielle, mais non d'une civilisation avancée de type Atlantide. L'événement YDIH, s'il est réel, aurait substantiellement perturbé ces populations sans nécessiter une super-civilisation disparue pour s'expliquer. La relation entre l'événement YDIH et le Déluge interne au cadre du corpus à la limite Cancer-Gémeaux vers 6 690 AEC est substantiellement distincte : l'événement YDIH, s'il est confirmé, serait un épisode catastrophique antérieur substantiel plutôt que le Déluge principal." },
+    { content = "La tradition de l'Atlantide est engagée par le corpus comme une tradition interprétative substantielle dotée d'une signification culturelle-religieuse substantielle, sans adopter les revendications spécifiques substantielles qui se sont accrétées au fil de la lignée Donnelly-Cayce-Hancock. Le corpus n'exige pas l'adhésion à une localisation au milieu de l'Atlantique, au contenu substantiel de la technologie « cristalline » à la Cayce, ou à l'identification de l'Atlantide comme la source principale de la civilisation subséquente. Ce que le corpus engage, c'est la possibilité substantielle que le récit de Platon préserve la mémoire culturelle d'une civilisation pré-Déluge réelle — soit la civilisation d'Éden elle-même, soit l'une des six autres lignées — les détails géographiques reflétant la relocalisation post-Déluge de mémoires fragmentaires. Le traitement dédié à l'Atlantide vit dans sa propre entrée lorsqu'elle sera rédigée." },
+    { content = "La chronologie de Göbekli Tepe vers 9600 AEC place le site, selon le décompte du corpus, à la fin de l'Ère du Lion / au début de l'Ère du Cancer — substantiellement avant l'événement du Déluge à la limite Cancer-Gémeaux vers 6 690 AEC. Le site est donc antédiluvien selon la lecture du corpus. L'enfouissement délibéré substantiel des enclos vers 8000 AEC peut préserver la mémoire culturelle de l'approche du Déluge. Les bâtisseurs chasseurs-cueilleurs du site, selon la lecture du corpus, étaient des populations humaines sous tutelle continue de l'alliance durant la période post-Éden / pré-Déluge de l'Ère du Cancer, la capacité monumentale substantielle reflétant un développement culturel cultivé plutôt qu'une émergence indépendante." },
+]
+
+[[extra.references]]
+id = "the-book-which-tells-the-truth"
+note = "Source raëlienne fondatrice pour le contenu sur les bases terrestres de l'alliance — installations en haute montagne et sous-marines distinctes des monuments mégalithiques visibles."
+
+[[extra.references]]
+id = "extraterrestrials-took-me-to-their-planet"
+note = "Deuxième ouvrage raëlien de Vorilhon (1976) — la visite du Périgord et le contenu substantiel sur l'histoire de l'alliance concernant les opérations de bases terrestres."
+
+[[extra.references]]
+id = "lets-welcome-the-extraterrestrials"
+note = "Troisième ouvrage raëlien de Vorilhon (1979) — le projet d'ambassade et le contenu substantiel sur l'Ère du Verseau."
+
+[[extra.references]]
+id = "the-complete-pyramids"
+note = "Traitement académique de référence en un volume par Lehner du corpus des pyramides égyptiennes — main-d'œuvre, méthodes, chronologie."
+
+[[extra.references]]
+id = "giza-and-the-pyramids"
+note = "Synthèse définitive de 2017 par Lehner et Hawass de l'archéologie du plateau de Gizeh, y compris le village des ouvriers de Heit el-Ghurab."
+
+[[extra.references]]
+id = "journal-de-merer-tallet"
+note = "Édition critique par Tallet des papyrus du Wadi al-Jarf incluant le Journal de Merer — le journal de bord du contremaître documentant l'opération de transport des pierres de parement de la Grande Pyramide."
+
+[[extra.references]]
+id = "hengeworld"
+note = "Synthèse accessible par Pitts de la tradition des henges du Néolithique final et de l'âge du Bronze ancien, avec Stonehenge comme cas central."
+
+[[extra.references]]
+id = "stonehenge-parker-pearson"
+note = "Synthèse académique contemporaine de Parker Pearson issue du Stonehenge Riverside Project, incluant Durrington Walls et les travaux sur la carrière des pierres bleues."
+
+[[extra.references]]
+id = "nash-sarsen-megaliths-2020"
+note = "Identification géochimique de la source des mégalithes en grès sarsen à West Woods, Marlborough Downs — résolvant la question de longue date du transport."
+
+[[extra.references]]
+id = "inca-architecture-ollantaytambo"
+note = "Étude fondatrice d'archéologie expérimentale par Protzen de la technique inca de la maçonnerie polygonale par réplication sur site."
+
+[[extra.references]]
+id = "statues-that-walked"
+note = "Engagement contemporain principal de Hunt et Lipo avec l'archéologie de l'île de Pâques, y compris la démonstration du transport par « marche » de 2012."
+
+[[extra.references]]
+id = "fingerprints-of-the-gods"
+note = "Ouvrage fondateur de Hancock (1995) articulant l'hypothèse contemporaine d'une civilisation disparue."
+
+[[extra.references]]
+id = "magicians-of-the-gods"
+note = "Mise à jour de 2015 par Hancock du cadre à partir des preuves de l'hypothèse de l'impact du Dryas récent."
+
+[[extra.references]]
+id = "america-before"
+note = "Extension de 2019 par Hancock du cadre à l'Amérique précolombienne."
+
+[[extra.references]]
+id = "underworld-hancock"
+note = "Engagement de Hancock en 2002 avec les sites archéologiques submergés à l'échelle mondiale — Malte, golfe de Cambay, Yonaguni, route de Bimini."
+
+[[extra.references]]
+id = "voices-of-the-rocks"
+note = "Argument géologique de Schoch en faveur de la redatation du Grand Sphinx de Gizeh sur la base des motifs d'altération."
+
+[[extra.references]]
+id = "serpent-in-the-sky"
+note = "Articulation d'égyptologie alternative par West de l'hypothèse d'un Sphinx substantiellement plus ancien et lecture symboliste à la Schwaller de Lubicz."
+
+[[extra.references]]
+id = "giza-power-plant"
+note = "Engagement d'égyptologie alternative à orientation ingénierie par Dunn avec des marques d'usinage spécifiques sur des artefacts en granite de l'Ancien Empire."
+
+[[extra.references]]
+id = "vidal-naquet-atlantis-story"
+note = "Traitement académique contemporain de référence de la tradition de l'Atlantide platonicienne — sceptique à l'égard de toute Atlantide historique."
+
+[[extra.references]]
+id = "atlantis-antediluvian-world"
+note = "Renouveau fondateur de 1882 par Donnelly de la tradition de l'Atlantide et source principale du discours populaire ultérieur sur l'Atlantide."
+
+[[extra.references]]
+id = "edgar-cayce-on-atlantis"
+note = "Compilation par Edgar Evans Cayce du contenu substantiel sur l'Atlantide tiré des lectures en transe d'Edgar Cayce des années 1920–1940."
+
+[[extra.references]]
+id = "lost-continent-of-mu"
+note = "Texte fondateur de Churchward (1926) de la tradition Mu / Pacifique de civilisation disparue."
+
+[[extra.references]]
+id = "chariots-of-the-gods"
+note = "Ouvrage fondateur de von Däniken (1968) — le texte le plus influent de la tradition contemporaine des anciens astronautes. Le corpus l'engage de manière critique : la méthodologie culturellement dépréciative à la von Däniken est précisément ce dont le corpus s'est explicitement distancié."
+
+[[extra.references]]
+id = "the-12th-planet"
+note = "Volume fondateur de Sitchin (1976) de la série *Earth Chronicles* et source principale de l'interprétation Anunnaki contemporaine."
+
+[[extra.references]]
+id = "gobekli-tepe-schmidt"
+note = "Monographie fondatrice de Schmidt sur la fouille de Göbekli Tepe."
+
+[[extra.references]]
+id = "dietrich-gobekli-antiquity-2012"
+note = "Interprétation évaluée par les pairs de Dietrich et al. sur le culte et les festins à Göbekli Tepe et les implications substantielles pour la séquence de la révolution néolithique."
+
+[[extra.references]]
+id = "firestone-pnas-2007"
+note = "Publication scientifique évaluée par les pairs fondatrice de l'hypothèse de l'impact du Dryas récent."
+
+[[extra.references]]
+id = "deadly-voyager"
+note = "Synthèse académique accessible par Powell des preuves de l'YDIH accumulées depuis 2007."
 
 [extra.infobox]
-type = "Popular and alternative-archaeology category designating proposed lost or unknown civilizations responsible for major ancient stone monuments; corpus engages selectively rather than adopting the broader framing"
-principal_alternative_archaeology_claims = "Major megalithic monuments (Giza, Stonehenge, Sacsayhuamán, Easter Island moai, Maltese temples, others) too sophisticated for the human civilizations conventionally credited with them; lost advanced civilization (variously named: Atlantean, Lemurian, pre-flood, the Builder Race) responsible for construction"
-corpus_position = "Visible megalithic monuments principally built by the human civilizations to whom they are conventionally attributed, using technologies experimental archaeology substantially documents; the broader 'Ancient Builder race' framing is the von Däniken-style cultural-dismissive reading the corpus has explicitly distanced itself from"
-corpus_engaged_phenomena = "Pre-flood alliance bases on high mountains (Andean, Himalayan, Greek) and submarine locations per the Vorilhon source; post-flood human-civilizational achievement as substantive human accomplishment; Göbekli Tepe revolution and its substantial implications for monumental construction substantially earlier than previously thought; cross-cultural pattern of megalithic-and-monumental construction traditions"
-distinguished_from = "The strong 'Ancient Builder race' framing in popular alternative archaeology (which the corpus does not adopt); the Atlantis tradition narrowly (which the corpus engages as distinct subject matter); the broader Ancient Astronaut Hypothesis (within which Ancient Builder claims operate as one specific subset)"
-status_in_framework = "Selectively engaged: the pre-flood alliance-base content is corpus content; the broader 'Ancient Builder race' framing is registered as adjacent tradition the corpus differs from; the post-flood human-monumental-construction record is engaged at the mainstream-archaeological descriptive level"
+type = "Catégorie populaire et d'archéologie alternative désignant les civilisations disparues ou inconnues proposées comme responsables des grands monuments en pierre antiques ; le corpus engage sélectivement plutôt que d'adopter le cadrage plus large"
+principal_alternative_archaeology_claims = "Grands monuments mégalithiques (Gizeh, Stonehenge, Sacsayhuamán, moaï de l'île de Pâques, temples maltais, autres) trop sophistiqués pour les civilisations humaines conventionnellement créditées ; civilisation avancée disparue (diversement nommée : Atlante, Lémurienne, pré-Déluge, la Race des Bâtisseurs) responsable de la construction"
+corpus_position = "Monuments mégalithiques visibles principalement construits par les civilisations humaines auxquelles ils sont conventionnellement attribués, avec des technologies que l'archéologie expérimentale documente substantiellement ; le cadrage plus large d'une « race des anciens bâtisseurs » est la lecture culturellement dépréciative à la von Däniken dont le corpus s'est explicitement distancié"
+corpus_engaged_phenomena = "Bases d'alliance pré-Déluge sur de hautes montagnes (andines, himalayennes, grecques) et en des lieux sous-marins selon la source Vorilhon ; accomplissement humain-civilisationnel post-Déluge comme réalisation humaine substantielle ; révolution de Göbekli Tepe et ses implications substantielles pour une construction monumentale substantiellement plus précoce qu'on ne le pensait ; schéma transculturel des traditions de construction mégalithique-et-monumentale"
+distinguished_from = "Le cadrage fort d'une « race des anciens bâtisseurs » dans l'archéologie alternative populaire (que le corpus n'adopte pas) ; la tradition de l'Atlantide au sens étroit (que le corpus engage comme matière distincte) ; la Théorie des Anciens Astronautes plus large (au sein de laquelle les revendications des Anciens bâtisseurs opèrent comme un sous-ensemble spécifique)"
+status_in_framework = "Engagé sélectivement : le contenu sur les bases d'alliance pré-Déluge est contenu de corpus ; le cadrage plus large d'une « race des anciens bâtisseurs » est consigné comme tradition adjacente dont le corpus diffère ; l'archive post-Déluge de la construction humaine-monumentale est engagée au niveau descriptif de l'archéologie courante"
 +++
 
-**Ancient Builders** is, in popular and alternative-archaeology usage, the proposition that one or more lost or unknown civilizations were responsible for constructing many of the major ancient stone monuments found globally. The principal monuments registered under the Ancient Builders framing include:
+**Anciens bâtisseurs** est, dans l'usage populaire et d'archéologie alternative, la proposition selon laquelle une ou plusieurs civilisations disparues ou inconnues seraient responsables de la construction d'une grande partie des grands monuments en pierre antiques que l'on trouve à l'échelle mondiale. Les principaux monuments enregistrés sous le cadrage des Anciens bâtisseurs comprennent :
 
-- The Egyptian pyramids (Giza, Saqqara, Dahshur, others)
-- Stonehenge and the broader European megalithic tradition (Carnac, Newgrange, Avebury)
-- The Andean megalithic sites (Sacsayhuamán, Machu Picchu, Tiwanaku, Puma Punku)
-- The Easter Island moai
-- The Maltese megalithic temples (Ġgantija, Hagar Qim, Mnajdra)
-- Baalbek (Lebanon)
-- Göbekli Tepe (southeastern Turkey)
-- Various other major megalithic sites globally
+- Les pyramides égyptiennes (Gizeh, Saqqarah, Dahchour, autres)
+- Stonehenge et la tradition mégalithique européenne plus large (Carnac, Newgrange, Avebury)
+- Les sites mégalithiques andins (Sacsayhuamán, Machu Picchu, Tiwanaku, Puma Punku)
+- Les moaï de l'île de Pâques
+- Les temples mégalithiques maltais (Ġgantija, Hagar Qim, Mnajdra)
+- Baalbek (Liban)
+- Göbekli Tepe (sud-est de la Turquie)
+- Divers autres grands sites mégalithiques à l'échelle mondiale
 
-The framing's core claim: the construction techniques required for these monuments — the quarrying, transport, lifting, and precise placement of stones weighing many tons; the polygonal-interlocking masonry without mortar; the astronomical alignments calibrated to celestial events — exceeded the technological capacities attributed to the civilizations conventionally credited with the monuments. A lost civilization (variously named the Atlanteans, the Lemurians, the pre-flood race, simply "the Builders") is proposed as the actual constructor, with the conventionally-credited civilizations either inheriting the monuments from the earlier builders or being the cultural descendants of the earlier builders themselves.
+La revendication centrale du cadrage : les techniques de construction requises pour ces monuments — l'extraction, le transport, le levage et le placement précis de pierres pesant plusieurs tonnes ; la maçonnerie polygonale à emboîtement sans mortier ; les alignements astronomiques calibrés sur des événements célestes — dépassaient les capacités technologiques attribuées aux civilisations conventionnellement créditées de ces monuments. Une civilisation disparue (diversement nommée les Atlantes, les Lémuriens, la race pré-Déluge, ou simplement « les Bâtisseurs ») est proposée comme constructeur réel, les civilisations conventionnellement créditées ayant soit hérité des monuments des bâtisseurs antérieurs, soit étant les descendants culturels des bâtisseurs antérieurs eux-mêmes.
 
-The Wheel of Heaven framework engages this proposition carefully. **The corpus does not adopt the broader "Ancient Builder race" framing in its strong form**, which treats the visible megalithic monuments as evidence that the human civilizations to whom they are attributed could not have built them. This strong framing is the von Däniken-style cultural-dismissive reading of indigenous achievement that the corpus has explicitly distanced itself from in the [Ancient Astronaut Hypothesis](../ancient-astronaut-hypothesis/) entry.
+Le cadre Wheel of Heaven engage cette proposition avec soin. **Le corpus n'adopte pas le cadrage plus large d'une « race des anciens bâtisseurs » dans sa forme forte**, qui traite les monuments mégalithiques visibles comme la preuve que les civilisations humaines auxquelles ils sont attribués n'auraient pas pu les construire. Ce cadrage fort est la lecture culturellement dépréciative à la von Däniken de l'accomplissement indigène dont le corpus s'est explicitement distancié dans l'entrée {% wiki(slug="ancient-astronaut-hypothesis") %}Théorie des Anciens Astronautes{% end %}.{{ footnote(id="1") }}
 
-The corpus position: the visible megalithic monuments were principally built by the human civilizations to whom they are conventionally attributed, using technologies the experimental-archaeology record documents. The Egyptians built the Egyptian pyramids; the Neolithic and Bronze Age peoples of Britain built Stonehenge; the Inca built Sacsayhuamán; the Rapa Nui built the Easter Island moai; the Neolithic Maltese built the Maltese temples. The conventional attributions are substantively correct.
+La position du corpus : les monuments mégalithiques visibles ont été principalement construits par les civilisations humaines auxquelles ils sont conventionnellement attribués, avec des technologies que l'archive de l'archéologie expérimentale documente. Les Égyptiens ont construit les pyramides égyptiennes ; les peuples néolithiques et de l'âge du Bronze de Grande-Bretagne ont construit Stonehenge ; les Incas ont construit Sacsayhuamán ; les Rapa Nui ont construit les moaï de l'île de Pâques ; les Maltais néolithiques ont construit les temples maltais. Les attributions conventionnelles sont substantiellement correctes.
 
-The corpus engages substantively with several related but distinct phenomena:
+Le corpus engage substantiellement plusieurs phénomènes apparentés mais distincts :
 
-- **The pre-flood alliance bases.** The Vorilhon source identifies the Elohim alliance as having maintained Earth-bases on high mountains and at submarine locations. The principal Vorilhon-source quotation: *"To avoid being disturbed by humans, the creators built their bases on high mountains, where we now find traces of great civilizations (in the Himalayas and Peru, for example), as well as at the bottom of the sea."* This is genuine corpus content distinct from the broader "Ancient Builder race" claim.
-- **The post-flood human-civilizational achievement.** The visible major monuments are substantively human accomplishment. The astronomical and geometric sophistication of the monuments reflects substantive human cultural development, often within civilizations the alliance had previously cultivated through cultural-cultivation rather than direct construction.
-- **The Göbekli Tepe revolution.** The Turkish site dated to c. 9500 BCE has substantively changed the conventional chronology of monumental construction, demonstrating that pre-agricultural human populations were capable of major coordinated stone construction substantially earlier than the conventional view allowed. Göbekli Tepe deserves its own dedicated entry; brief treatment here.
-- **The cross-cultural pattern.** The substantial cross-cultural distribution of megalithic-and-monumental construction traditions across virtually every major civilization warrants comparative engagement.
+- **Les bases d'alliance pré-Déluge.** La source Vorilhon identifie l'alliance des {% wiki(slug="elohim") %}Élohim{% end %} comme ayant maintenu des bases terrestres sur de hautes montagnes et en des lieux sous-marins. La citation principale de la source Vorilhon : *« Pour ne pas être dérangés par les humains, les créateurs édifièrent leurs bases sur de hautes montagnes, où l'on retrouve maintenant des traces de grandes civilisations (dans l'Himalaya et au Pérou, par exemple), ainsi qu'au fond des mers. »*{{ cite(id="the-book-which-tells-the-truth", text="[1]", title="Vorilhon (Raël), *Le Livre qui dit la vérité* (1974) — contenu sur les bases terrestres de l'alliance") }} Il s'agit de contenu de corpus authentique, distinct de la revendication plus large d'une « race des anciens bâtisseurs ».{{ footnote(id="2") }}
+- **L'accomplissement humain-civilisationnel post-Déluge.** Les grands monuments visibles sont une réalisation humaine substantielle. La sophistication astronomique et géométrique des monuments reflète un développement culturel humain substantiel, souvent au sein de civilisations que l'alliance avait préalablement cultivées par cultivation culturelle plutôt que par construction directe.
+- **La révolution de Göbekli Tepe.** Le site turc daté de vers 9500 AEC a substantiellement modifié la chronologie conventionnelle de la construction monumentale, démontrant que des populations humaines pré-agricoles étaient capables d'une construction en pierre coordonnée majeure substantiellement plus tôt que ne le permettait la vision conventionnelle.{{ cite(id="gobekli-tepe-schmidt", text="[2]", title="Schmidt, *Göbekli Tepe: A Stone Age Sanctuary in South-Eastern Anatolia* (2012)") }} Göbekli Tepe mérite sa propre entrée dédiée ; bref traitement ici.
+- **Le schéma transculturel.** La distribution transculturelle substantielle des traditions de construction mégalithique-et-monumentale à travers virtuellement chaque grande civilisation mérite un engagement comparatif.
 
-This entry articulates Ancient Builders carefully — its etymology and disciplinary scope, the principal claims of the alternative-archaeology tradition, the corpus's specific positioning within and against the tradition, the Vorilhon-source content about alliance Earth-bases, the principal cross-cultural mainstream archaeological and engineering engagement, the alternative-archaeology and ancient-astronaut tradition, the Göbekli Tepe revolution and its implications, and the broader cross-cultural megalithic and monumental-construction patterns.
+Cette entrée articule soigneusement les Anciens bâtisseurs — leur étymologie et leur portée disciplinaire, les principales revendications de la tradition d'archéologie alternative, le positionnement spécifique du corpus à l'intérieur de la tradition et contre elle, le contenu de la source Vorilhon sur les bases terrestres de l'alliance, l'engagement transculturel principal de l'archéologie et de l'ingénierie courantes, la tradition d'archéologie alternative et des anciens astronautes, la révolution de Göbekli Tepe et ses implications, ainsi que les schémas transculturels plus larges de construction mégalithique et monumentale.
 
-## Etymology and scope
+## Étymologie et portée
 
-### Etymology
+### Étymologie
 
-The term *Ancient Builders* combines two components:
+Le terme *Anciens bâtisseurs* combine deux composantes :
 
-- **Ancient** (Latin *antiquus*, "former, of earlier time") — designating the prehistoric and early-historic periods, generally before the rise of modern industrial civilization
-- **Builders** (Old English *byldan*, "to construct") — designating the agents who construct buildings, monuments, or other physical structures
+- **Ancien** (latin *antiquus*, « ancien, d'un temps antérieur ») — désignant les périodes préhistoriques et protohistoriques, généralement avant l'essor de la civilisation industrielle moderne
+- **Bâtisseurs** (vieil anglais *byldan*, « construire ») — désignant les agents qui édifient des bâtiments, des monuments ou d'autres structures physiques
 
-The compound term *Ancient Builders* designates the agents (whether individuals, groups, or civilizations) responsible for ancient construction. In mainstream archaeological usage, the term is general — applying to all ancient construction activity. In alternative-archaeology usage, the term has acquired the more specific meaning of a lost or unknown advanced civilization responsible for the major megalithic monuments.
+Le terme composé *Anciens bâtisseurs* désigne les agents (qu'il s'agisse d'individus, de groupes ou de civilisations) responsables de la construction antique. Dans l'usage de l'archéologie courante, le terme est général — s'appliquant à toute activité de construction antique. Dans l'usage de l'archéologie alternative, le terme a acquis le sens plus spécifique d'une civilisation avancée disparue ou inconnue responsable des grands monuments mégalithiques.
 
-### Disciplinary scope
+### Portée disciplinaire
 
-The Ancient Builders concept operates across multiple registers:
+Le concept des Anciens bâtisseurs opère à travers plusieurs registres :
 
-- **Mainstream archaeology** treats ancient builders as the documented or reconstructable human populations who built specific monuments at specific times using specific techniques. The discipline does not require any "lost civilization" hypothesis; the construction is treated as accomplished by the populations conventionally attributed with the monuments.
-- **Alternative archaeology** (Graham Hancock, Robert Schoch, John Anthony West, and others) treats the question of whether mainstream attributions are adequate as substantively open. The principal claims: some monuments may be substantially older than conventionally dated; some construction techniques may require explanations the mainstream view does not provide; a lost civilization may have produced the original monuments that later cultures inherited or rebuilt.
-- **Ancient Astronaut tradition** (treated systematically in the [Ancient Astronaut Hypothesis](../ancient-astronaut-hypothesis/) entry) treats some monuments as candidate evidence for extraterrestrial influence in human construction.
-- **The Atlantis tradition** (Plato's *Critias* and *Timaeus*, with extensive subsequent development through Cayce, Hancock, and others) treats the lost civilization as Atlantis specifically.
-- **The Builder Race framing** is the popular alternative-archaeology designation that occasionally appears in YouTube, podcast, and broader internet alternative-archaeology engagement, often without commitment to any specific identification of the proposed lost civilization.
+- **L'archéologie courante** traite les anciens bâtisseurs comme les populations humaines documentées ou reconstructibles qui ont construit des monuments spécifiques à des époques spécifiques en utilisant des techniques spécifiques. La discipline n'exige aucune hypothèse de « civilisation disparue » ; la construction est traitée comme accomplie par les populations conventionnellement attribuées aux monuments.
+- **L'archéologie alternative** (Graham Hancock, Robert Schoch, John Anthony West et d'autres) traite la question de savoir si les attributions courantes sont adéquates comme substantiellement ouverte. Les revendications principales : certains monuments peuvent être substantiellement plus anciens que ce qui est conventionnellement daté ; certaines techniques de construction peuvent requérir des explications que la vision courante ne fournit pas ; une civilisation disparue peut avoir produit les monuments originaux dont les cultures ultérieures ont hérité ou qu'elles ont reconstruits.
+- **La tradition des Anciens Astronautes** (traitée systématiquement dans l'entrée {% wiki(slug="ancient-astronaut-hypothesis") %}Théorie des Anciens Astronautes{% end %}) traite certains monuments comme des preuves candidates d'une influence extraterrestre sur la construction humaine.
+- **La tradition de l'Atlantide** (le *Critias* et le *Timée* de Platon, avec un développement ultérieur étendu par Cayce, Hancock et d'autres) traite la civilisation disparue comme étant spécifiquement l'Atlantide.
+- **Le cadrage de la Race des Bâtisseurs** est la désignation populaire d'archéologie alternative qui apparaît occasionnellement sur YouTube, dans les podcasts et dans l'engagement plus large de l'internet alternatif-archéologique, souvent sans engagement vers une identification spécifique de la civilisation disparue proposée.
 
-The corpus's engagement operates principally at the mainstream-archaeological descriptive level for the visible major monuments, with selective engagement on the substantive pre-flood alliance-base content and the substantial Göbekli Tepe revolution.
+L'engagement du corpus opère principalement au niveau descriptif de l'archéologie courante pour les grands monuments visibles, avec un engagement sélectif sur le contenu substantiel des bases d'alliance pré-Déluge et sur la révolution substantielle de Göbekli Tepe.
 
-## The principal claims of the alternative-archaeology tradition
+## Les principales revendications de la tradition d'archéologie alternative
 
-The alternative-archaeology tradition has articulated several principal claims about Ancient Builders. These claims warrant articulation before the corpus's specific positioning, because the corpus differs from each in specific ways.
+La tradition d'archéologie alternative a articulé plusieurs revendications principales sur les Anciens bâtisseurs. Ces revendications méritent d'être articulées avant le positionnement spécifique du corpus, parce que le corpus diffère de chacune d'elles de manières spécifiques.
 
-### Claim 1: The monuments are too sophisticated for the attributed civilizations
+### Revendication 1 : Les monuments sont trop sophistiqués pour les civilisations attribuées
 
-The principal claim of the broader Ancient Builders tradition: the construction techniques required for the major megalithic monuments exceeded the technological capacities of the civilizations conventionally credited with them. The principal supporting observations:
+La revendication principale de la tradition plus large des Anciens bâtisseurs : les techniques de construction requises pour les grands monuments mégalithiques dépassaient les capacités technologiques des civilisations conventionnellement créditées de ces monuments. Les principales observations à l'appui :
 
-- **Major stone weight.** Specific monuments incorporate stones weighing many tons, requiring substantial transport and lifting infrastructure. Examples: the Sacsayhuamán stones (up to ~200 tons); the Baalbek trilithon (each stone ~800 tons); the Aswan unfinished obelisk (estimated ~1,000 tons); the Giza pyramid casing stones (multiple tons each); the Stonehenge sarsens (up to ~30 tons).
-- **Long-distance transport.** Specific stones were transported substantial distances from quarries to sites. Examples: the Stonehenge bluestones transported ~200 km from the Preseli Hills in Wales; the Giza granite transported ~800 km from Aswan; specific Andean megalithic stones transported across mountainous terrain.
-- **Precise placement.** The polygonal-interlocking masonry at sites like Sacsayhuamán, Machu Picchu, and Ollantaytambo achieves stone-to-stone fits with gaps "narrower than a knife blade" without mortar. The Giza pyramid's casing stones (originally present, now substantially removed) were similarly precise.
-- **Astronomical alignment.** Specific monuments incorporate calibrated astronomical alignments — Giza-Orion correlations; Stonehenge's solstice alignments; Newgrange's winter-solstice illumination; the Mayan Pyramid of Kukulkan's equinox shadow play; many others.
-- **Geometric sophistication.** Specific monuments incorporate complex geometric relationships — golden-ratio proportions; trigonometric relationships; precise cardinal-direction alignments; latitude-encoding measurements.
+- **Poids majeurs des pierres.** Des monuments spécifiques incorporent des pierres pesant plusieurs tonnes, requérant une infrastructure substantielle de transport et de levage. Exemples : les pierres de Sacsayhuamán (jusqu'à ~200 tonnes) ; le trilithon de Baalbek (chaque pierre ~800 tonnes) ; l'obélisque inachevé d'Assouan (estimé ~1 000 tonnes) ; les pierres de parement de la pyramide de Gizeh (plusieurs tonnes chacune) ; les sarsens de Stonehenge (jusqu'à ~30 tonnes).
+- **Transport sur longue distance.** Des pierres spécifiques ont été transportées sur des distances substantielles depuis les carrières jusqu'aux sites. Exemples : les pierres bleues de Stonehenge transportées sur ~200 km depuis les collines de Preseli au pays de Galles ; le granite de Gizeh transporté sur ~800 km depuis Assouan ; des pierres mégalithiques andines spécifiques transportées à travers un terrain montagneux.
+- **Placement précis.** La maçonnerie polygonale à emboîtement de sites comme Sacsayhuamán, Machu Picchu et Ollantaytambo atteint des ajustements pierre à pierre avec des interstices « plus étroits qu'une lame de couteau » sans mortier. Les pierres de parement de la pyramide de Gizeh (originellement présentes, désormais substantiellement retirées) étaient d'une précision comparable.
+- **Alignement astronomique.** Des monuments spécifiques incorporent des alignements astronomiques calibrés — corrélations Gizeh-Orion ; alignements solsticiaux de Stonehenge ; illumination de Newgrange au solstice d'hiver ; jeu d'ombre équinoxial de la pyramide maya de Kukulkán ; bien d'autres.
+- **Sophistication géométrique.** Des monuments spécifiques incorporent des relations géométriques complexes — proportions du nombre d'or ; relations trigonométriques ; alignements précis aux points cardinaux ; mesures encodant la latitude.
 
-The conclusion the alternative-archaeology tradition draws: the conventionally-credited civilizations did not have the technological capacity for these achievements, therefore a more advanced civilization must have been responsible.
+La conclusion qu'en tire la tradition d'archéologie alternative : les civilisations conventionnellement créditées n'avaient pas la capacité technologique pour ces réalisations, par conséquent une civilisation plus avancée doit en avoir été responsable.
 
-### Claim 2: The lost civilization is identifiable
+### Revendication 2 : La civilisation disparue est identifiable
 
-The alternative-archaeology tradition has variously identified the proposed lost civilization:
+La tradition d'archéologie alternative a diversement identifié la civilisation disparue proposée :
 
-- **Atlantis** — Plato's *Critias* and *Timaeus* describe a lost civilization beyond the Pillars of Hercules destroyed in a catastrophic flood; the subsequent Atlantis tradition (Donnelly's 1882 *Atlantis: The Antediluvian World*; Cayce's 1920s-1940s readings; Hancock's contemporary work) substantially elaborates this
-- **Lemuria / Mu** — the Pacific equivalent of Atlantis, popularized by Augustus Le Plongeon and James Churchward in the late 19th and early 20th centuries
-- **The Cygnus / Sirius / Pleiadian source** — various ancient-astronaut framings linking specific monuments to specific star systems
-- **The pre-flood civilization** — broader Younger Dryas-era civilizational catastrophe framings, with the substantial pre-Younger-Dryas civilization destroyed by the proposed Younger Dryas Impact event (c. 12,900 BCE)
-- **The Builder Race** — the more agnostic popular framing that posits a lost civilization without committing to its specific identity
+- **L'Atlantide** — le *Critias* et le *Timée* de Platon décrivent une civilisation disparue au-delà des colonnes d'Hercule, détruite dans un déluge catastrophique ;{{ cite(id="vidal-naquet-atlantis-story", text="[3]", title="Vidal-Naquet, *L'Atlantide. Petite histoire d'un mythe platonicien* (2005) — traitement académique de la tradition platonicienne") }} la tradition atlante subséquente (l'*Atlantis: The Antediluvian World* de Donnelly en 1882 ;{{ cite(id="atlantis-antediluvian-world", text="[4]", title="Donnelly, *Atlantis: The Antediluvian World* (1882) — renouveau fondateur de l'Atlantide au XIXᵉ siècle") }} les lectures de Cayce des années 1920–1940 ;{{ cite(id="edgar-cayce-on-atlantis", text="[5]", title="Edgar Cayce on Atlantis (1968) — les lectures sur l'Atlantide du « prophète dormant »") }} l'œuvre contemporaine de Hancock) l'élabore substantiellement
+- **La Lémurie / Mu** — l'équivalent pacifique de l'Atlantide, popularisé par Augustus Le Plongeon et James Churchward à la fin du XIXᵉ et au début du XXᵉ siècle{{ cite(id="lost-continent-of-mu", text="[6]", title="Churchward, *The Lost Continent of Mu* (1926) — texte fondateur de la tradition Mu / Pacifique de civilisation disparue") }}
+- **La source Cygne / Sirius / Pléiadienne** — divers cadrages d'anciens astronautes reliant des monuments spécifiques à des systèmes stellaires spécifiques
+- **La civilisation pré-Déluge** — cadrages plus larges de catastrophes civilisationnelles à l'ère du Dryas récent, avec la civilisation pré-Dryas récent substantielle détruite par l'événement d'impact du Dryas récent proposé (vers 12 900 AEC)
+- **La Race des Bâtisseurs** — le cadrage populaire plus agnostique qui postule une civilisation disparue sans s'engager sur son identité spécifique
 
-### Claim 3: The conventional chronology is wrong
+### Revendication 3 : La chronologie conventionnelle est erronée
 
-The alternative-archaeology tradition substantially disputes the conventional dating of specific monuments:
+La tradition d'archéologie alternative conteste substantiellement la datation conventionnelle de monuments spécifiques :
 
-- **The Sphinx** — Robert Schoch's water-erosion argument proposes that the Sphinx is substantially older than the conventional ~2500 BCE dating, possibly dating to before the end of the last glacial period (~10,000 BCE or earlier)
-- **The Andean megalithic sites** — various alternative-archaeology arguments propose that specific Andean sites (particularly the lowest courses at Sacsayhuamán and Puma Punku) are substantially older than the conventional Inca-era dating
-- **Various other sites** — substantially older dating claims for specific monuments
+- **Le Sphinx** — l'argument d'érosion par l'eau de Robert Schoch propose que le Sphinx est substantiellement plus ancien que la datation conventionnelle de ~2500 AEC, datant possiblement d'avant la fin de la dernière période glaciaire (~10 000 AEC ou plus tôt){{ cite(id="voices-of-the-rocks", text="[7]", title="Schoch, *Voices of the Rocks* (1999) — argument géologique en faveur de la redatation du Sphinx") }}{{ footnote(id="3") }}
+- **Les sites mégalithiques andins** — divers arguments d'archéologie alternative proposent que des sites andins spécifiques (en particulier les assises les plus basses à Sacsayhuamán et à Puma Punku) sont substantiellement plus anciens que la datation conventionnelle de l'ère inca
+- **Divers autres sites** — revendications de datation substantiellement plus ancienne pour des monuments spécifiques
 
-### Claim 4: The construction techniques are unexplained
+### Revendication 4 : Les techniques de construction sont inexpliquées
 
-The alternative-archaeology tradition argues that specific construction techniques have not been adequately explained by mainstream archaeology:
+La tradition d'archéologie alternative soutient que des techniques de construction spécifiques n'ont pas été adéquatement expliquées par l'archéologie courante :
 
-- How were the Baalbek trilithons quarried, transported, and placed?
-- How was the polygonal-interlocking masonry achieved with the precision observed?
-- How were the Giza pyramid's internal granite blocks (each weighing many tons) transported up the rising pyramid structure?
-- How were the Stonehenge sarsens raised into vertical position?
-- How were the Easter Island moai transported across the island and erected?
+- Comment les trilithons de Baalbek ont-ils été extraits, transportés et placés ?
+- Comment la maçonnerie polygonale à emboîtement a-t-elle été réalisée avec la précision observée ?
+- Comment les blocs de granite internes de la pyramide de Gizeh (chacun pesant plusieurs tonnes) ont-ils été transportés vers le haut de la structure pyramidale ?
+- Comment les sarsens de Stonehenge ont-ils été dressés en position verticale ?
+- Comment les moaï de l'île de Pâques ont-ils été transportés à travers l'île et érigés ?
 
-## The corpus's positioning
+## Le positionnement du corpus
 
-The Wheel of Heaven framework operates with substantively careful positioning on Ancient Builders. The corpus accepts some elements of the alternative-archaeology tradition's claims while substantially rejecting others.
+Le cadre Wheel of Heaven opère avec un positionnement substantiellement soigneux sur les Anciens bâtisseurs. Le corpus accepte certains éléments des revendications de la tradition d'archéologie alternative tout en en rejetant substantiellement d'autres.
 
-### What the corpus accepts
+### Ce que le corpus accepte
 
-- **The pre-flood alliance bases existed.** The Vorilhon source's identification of high-mountain and submarine alliance bases is corpus content. The principal Vorilhon-source quote: *"To avoid being disturbed by humans, the creators built their bases on high mountains, where we now find traces of great civilizations (in the Himalayas and Peru, for example), as well as at the bottom of the sea. Gradually the mountain stations were abandoned in favor of submarine bases less accessible to humans."* The alliance bases are substantive corpus content.
-- **The Göbekli Tepe revolution is genuine.** The Turkish site dated to c. 9500 BCE substantially predates the conventional Neolithic-revolution chronology and demonstrates monumental construction capability substantially earlier than previously believed. Göbekli Tepe's implications for the broader pre-flood civilizational picture are substantial.
-- **The pre-flood civilizational catastrophe is plausible.** The Younger Dryas Impact Hypothesis (Firestone et al., 2007, and substantial subsequent development) has accumulated substantial evidence for a major cosmic impact or atmospheric airburst event ~12,900 BCE, with substantial implications for any pre-flood civilizations that may have existed.
-- **The cross-cultural pattern is real.** The cross-cultural distribution of megalithic-and-monumental construction traditions across virtually every major civilization warrants substantive comparative engagement.
+- **Les bases d'alliance pré-Déluge ont existé.** L'identification par la source Vorilhon de bases d'alliance en haute montagne et sous-marines est contenu de corpus. La citation principale de la source Vorilhon : *« Pour ne pas être dérangés par les humains, les créateurs édifièrent leurs bases sur de hautes montagnes, où l'on retrouve maintenant des traces de grandes civilisations (dans l'Himalaya et au Pérou, par exemple), ainsi qu'au fond des mers. Petit à petit les stations en montagne furent abandonnées au profit de bases sous-marines moins accessibles aux humains. »* Les bases d'alliance sont contenu de corpus substantiel.
+- **La révolution de Göbekli Tepe est authentique.** Le site turc daté de vers 9500 AEC précède substantiellement la chronologie conventionnelle de la révolution néolithique et démontre une capacité de construction monumentale substantiellement plus précoce qu'on ne le croyait auparavant.{{ cite(id="dietrich-gobekli-antiquity-2012", text="[8]", title="Dietrich et al., 'The role of cult and feasting in the emergence of Neolithic communities' (Antiquity 2012)") }} Les implications de Göbekli Tepe pour le tableau civilisationnel pré-Déluge plus large sont substantielles.{{ footnote(id="6") }}
+- **La catastrophe civilisationnelle pré-Déluge est plausible.** L'hypothèse de l'impact du Dryas récent (Firestone et al., 2007,{{ cite(id="firestone-pnas-2007", text="[9]", title="Firestone et al., 'Evidence for an extraterrestrial impact 12,900 years ago' (PNAS 2007)") }} et son développement substantiel ultérieur{{ cite(id="deadly-voyager", text="[10]", title="Powell, *Deadly Voyager* (2020) — synthèse des preuves accumulées en faveur de l'YDIH") }}) a accumulé des preuves substantielles en faveur d'un événement majeur d'impact cosmique ou d'éclatement atmosphérique vers 12 900 AEC, avec des implications substantielles pour toute civilisation pré-Déluge ayant pu exister.{{ footnote(id="4") }}
+- **Le schéma transculturel est réel.** La distribution transculturelle des traditions de construction mégalithique-et-monumentale à travers virtuellement chaque grande civilisation mérite un engagement comparatif substantiel.
 
-### What the corpus differs from
+### Ce dont le corpus diffère
 
-- **The strong "Ancient Builder race" framing.** The claim that visible monuments are too sophisticated for the conventionally-credited civilizations is methodologically problematic. The experimental-archaeology record substantially documents the construction techniques used at major sites. The corpus has explicitly distanced itself from the cultural-dismissive reading of indigenous achievement in the [Ancient Astronaut Hypothesis](../ancient-astronaut-hypothesis/) entry.
-- **The Atlantis identification narrowly.** The Vorilhon source does not identify any specific "lost civilization" as the principal Earth-builder. The corpus engages Atlantis as a distinct interpretive tradition (treated in the pending [Atlantis](../atlantis/) entry) rather than as the foundation of the Ancient Builder framing.
-- **The "aliens did it" framing for visible monuments.** The visible major monuments (Giza, Stonehenge, Sacsayhuamán, Easter Island, Maltese temples) are substantively human accomplishment. The corpus does not require alien-construction explanations for these monuments.
+- **Le cadrage fort d'une « race des anciens bâtisseurs ».** L'affirmation selon laquelle les monuments visibles sont trop sophistiqués pour les civilisations conventionnellement créditées est méthodologiquement problématique. L'archive de l'archéologie expérimentale documente substantiellement les techniques de construction utilisées sur les grands sites. Le corpus s'est explicitement distancié de la lecture culturellement dépréciative de l'accomplissement indigène dans l'entrée {% wiki(slug="ancient-astronaut-hypothesis") %}Théorie des Anciens Astronautes{% end %}.
+- **L'identification atlante au sens étroit.** La source Vorilhon n'identifie aucune « civilisation disparue » spécifique comme principal bâtisseur terrestre. Le corpus engage l'Atlantide comme une tradition interprétative distincte (traitée dans l'entrée [Atlantide](../atlantis/) à venir) plutôt que comme le fondement du cadrage des Anciens bâtisseurs.{{ footnote(id="5") }}
+- **Le cadrage « ce sont les extraterrestres qui l'ont fait » pour les monuments visibles.** Les grands monuments visibles (Gizeh, Stonehenge, Sacsayhuamán, île de Pâques, temples maltais) sont une réalisation humaine substantielle. Le corpus n'exige pas d'explications par construction extraterrestre pour ces monuments.
 
-### What remains genuinely open
+### Ce qui demeure authentiquement ouvert
 
-- **The specific extent of pre-flood civilization.** The conventional view treats pre-flood human populations as principally pre-agricultural with limited construction capability. The Göbekli Tepe evidence and the Younger Dryas Impact evidence both suggest substantially more developed pre-flood civilization than the conventional view allowed. The specific extent of this development remains open.
-- **Specific anomalies at specific sites.** Some specific features at specific sites (the Baalbek trilithon's transport mechanism; specific polygonal-interlocking precision at Sacsayhuamán; specific construction details at Puma Punku) remain incompletely explained by mainstream archaeology. The corpus treats these as genuinely open questions requiring continued engagement rather than as either resolved by mainstream explanation or as evidence for alien construction.
-- **The relationship between alliance-base sites and subsequent human monumental construction.** Some major sites may sit on or near former alliance-base locations, with subsequent human populations building on the substantial cultural-religious associations the sites carried from the earlier alliance presence. The specific identification of which major sites have this background relationship remains genuinely open.
+- **L'étendue spécifique de la civilisation pré-Déluge.** La vision conventionnelle traite les populations humaines pré-Déluge comme principalement pré-agricoles avec une capacité de construction limitée. Les preuves de Göbekli Tepe et celles de l'impact du Dryas récent suggèrent toutes deux une civilisation pré-Déluge substantiellement plus développée que ce que la vision conventionnelle permettait. L'étendue spécifique de ce développement demeure ouverte.
+- **Anomalies spécifiques sur des sites spécifiques.** Certaines caractéristiques spécifiques sur des sites spécifiques (le mécanisme de transport du trilithon de Baalbek ; la précision spécifique de la maçonnerie polygonale à emboîtement à Sacsayhuamán ; les détails de construction spécifiques à Puma Punku) demeurent incomplètement expliquées par l'archéologie courante. Le corpus les traite comme des questions authentiquement ouvertes requérant un engagement continu plutôt que comme résolues par l'explication courante ou comme preuves de construction extraterrestre.
+- **La relation entre les sites de bases d'alliance et la construction monumentale humaine subséquente.** Certains grands sites peuvent reposer sur ou près d'anciennes localisations de bases d'alliance, les populations humaines subséquentes bâtissant sur les associations culturelles-religieuses substantielles que les sites portaient depuis la présence d'alliance antérieure. L'identification spécifique des grands sites présentant cette relation d'arrière-plan demeure authentiquement ouverte.
 
-### The methodological commitment
+### L'engagement méthodologique
 
-The corpus's methodological commitment for Ancient Builders engagement:
+L'engagement méthodologique du corpus pour l'engagement sur les Anciens bâtisseurs :
 
-- **Respect for indigenous achievement.** The conventionally-credited civilizations achieved their monuments through human capacity, often substantial. The cultural-dismissive reading of indigenous achievement is methodologically problematic and substantially racist in its historical application.
-- **Engagement with mainstream archaeology.** Mark Lehner's work at Giza, Mike Pitts's work at Stonehenge, the experimental-archaeology programs at multiple sites have substantially documented how specific monuments were constructed. The corpus engages this work at the descriptive level.
-- **Specific anomaly engagement.** Where specific features at specific sites remain incompletely explained, the corpus treats them as open questions worth continued investigation rather than as either resolved or as evidence for alien construction.
-- **Disciplined epistemic pluralism.** The corpus distinguishes between direct source claims (the Vorilhon source on alliance bases), comparative observations (cross-cultural megalithic traditions), corpus interpretations (the integration of alliance-base content with broader cultural-civilizational engagement), and speculative inference (specific identifications of which monuments may carry alliance-base background).
+- **Respect de l'accomplissement indigène.** Les civilisations conventionnellement créditées ont réalisé leurs monuments par capacité humaine, souvent substantielle. La lecture culturellement dépréciative de l'accomplissement indigène est méthodologiquement problématique et substantiellement raciste dans son application historique.
+- **Engagement avec l'archéologie courante.** Les travaux de Mark Lehner à Gizeh,{{ cite(id="the-complete-pyramids", text="[11]", title="Lehner, *The Complete Pyramids* (1997)") }} les travaux de Mike Pitts à Stonehenge,{{ cite(id="hengeworld", text="[12]", title="Pitts, *Hengeworld* (2000)") }} les programmes d'archéologie expérimentale sur de multiples sites ont substantiellement documenté la manière dont des monuments spécifiques ont été construits. Le corpus engage ce travail au niveau descriptif.
+- **Engagement sur les anomalies spécifiques.** Là où des caractéristiques spécifiques sur des sites spécifiques demeurent incomplètement expliquées, le corpus les traite comme des questions ouvertes méritant une investigation continue plutôt que comme résolues ou comme preuves de construction extraterrestre.
+- **Pluralisme épistémique discipliné.** Le corpus distingue entre les revendications directes de la source (la source Vorilhon sur les bases d'alliance), les observations comparatives (les traditions mégalithiques transculturelles), les interprétations du corpus (l'intégration du contenu sur les bases d'alliance avec un engagement culturel-civilisationnel plus large) et l'inférence spéculative (les identifications spécifiques des monuments susceptibles de porter un arrière-plan de base d'alliance).
 
-## The Vorilhon source on alliance Earth-bases
+## La source Vorilhon sur les bases terrestres de l'alliance
 
-The Vorilhon source identifies substantive alliance Earth-bases that operate as the principal corpus content distinct from the broader Ancient Builder framing. The principal source material.
+La source Vorilhon identifie des bases terrestres de l'alliance substantielles qui opèrent comme principal contenu de corpus distinct du cadrage plus large des Anciens bâtisseurs. Le matériau source principal.
 
-### The high-mountain bases
+### Les bases en haute montagne
 
-The Vorilhon-source quotation the v1 cites:
+La citation de la source Vorilhon que la v1 retient :
 
-> *"To avoid being disturbed by humans, the creators built their bases on high mountains, where we now find traces of great civilizations (in the Himalayas and Peru, for example), as well as at the bottom of the sea. Gradually the mountain stations were abandoned in favor of submarine bases less accessible to humans. The creators who had been banished at the outset had hidden themselves in the oceans."*
+> *« Pour ne pas être dérangés par les humains, les créateurs édifièrent leurs bases sur de hautes montagnes, où l'on retrouve maintenant des traces de grandes civilisations (dans l'Himalaya et au Pérou, par exemple), ainsi qu'au fond des mers. Petit à petit les stations en montagne furent abandonnées au profit de bases sous-marines moins accessibles aux humains. Les créateurs qui avaient été bannis au départ s'étaient cachés dans les océans. »*
 
-The principal content:
+Le contenu principal :
 
-- **High-mountain bases existed.** The alliance maintained operational bases on high mountains during the principal Earth-project period.
-- **Specific regions identified.** The Himalayas and Peru (Andes) are explicitly named. The source elsewhere also identifies Greek bases ("in Greece where Greek mythology also contains important testimonies") and various other regional installations.
-- **The bases were operational rather than monumental.** The bases were functional installations for the alliance personnel — laboratories, habitation, communications infrastructure, energy production. They were not monumental constructions intended as visible symbols.
-- **The bases were progressively abandoned.** As humans developed and approached the mountain locations, the alliance progressively moved operations to less accessible submarine locations.
-- **The Serpentine faction's submarine concealment.** The exiled Serpentine faction (treated systematically in the [Theomachy](../theomachy/) and [Serpent](../serpent/) entries) hid in oceanic locations after their banishment from the main alliance, with the submarine bases being principally their installations rather than the main alliance's.
+- **Des bases en haute montagne ont existé.** L'alliance a maintenu des bases opérationnelles sur de hautes montagnes durant la période principale du projet terrestre.
+- **Des régions spécifiques identifiées.** L'Himalaya et le Pérou (Andes) sont explicitement nommés. La source ailleurs identifie également des bases grecques (« en Grèce où la mythologie grecque contient également d'importants témoignages ») et diverses autres installations régionales.
+- **Les bases étaient opérationnelles plutôt que monumentales.** Les bases étaient des installations fonctionnelles pour le personnel de l'alliance — laboratoires, habitation, infrastructure de communication, production d'énergie. Elles n'étaient pas des constructions monumentales destinées à servir de symboles visibles.
+- **Les bases ont été progressivement abandonnées.** À mesure que les humains se développaient et approchaient des localisations en montagne, l'alliance déplaça progressivement ses opérations vers des lieux sous-marins moins accessibles.
+- **La dissimulation sous-marine de la faction Serpentine.** La {% wiki(slug="serpent") %}faction Serpentine{% end %} exilée (traitée systématiquement dans les entrées {% wiki(slug="theomachy") %}Théomachie{% end %} et Serpent) se cacha dans des lieux océaniques après son bannissement de l'alliance principale, les bases sous-marines étant principalement leurs installations plutôt que celles de l'alliance principale.
 
-### The Ezekiel passage and high-mountain bases
+### Le passage d'Ézéchiel et les bases en haute montagne
 
-The Vorilhon source engages Ezekiel 11:23-24 as preserving content about alliance Earth-bases:
+La source Vorilhon engage Ézéchiel 11:23-24 comme préservant un contenu sur les bases terrestres de l'alliance :
 
-> *"And the glory of Yahweh went up from the midst of the city, and stood upon the mountain which is on the east side of the city. Afterwards the spirit took me up, and brought me in a vision by the Spirit of Elohim into Chaldea..."* (Ezekiel 11:23-24)
+> *« Et la gloire de {% wiki(slug="yahweh") %}Yahvé{% end %} s'éleva du milieu de la ville, et s'arrêta sur la montagne qui est à l'orient de la ville. L'esprit m'enleva, et me transporta en vision par l'Esprit des Élohim en Chaldée... »* (Ézéchiel 11:23-24)
 
-The source's reading: the "city" referenced is one of the alliance Earth-bases at the time of Ezekiel's prophetic mission. The alliance bases were always located on high mountains to avoid disturbance from humans. Ezekiel's "spirit took me up" describes alliance-craft transport from the local context to the mountain base location.
+La lecture de la source : la « ville » référencée est l'une des bases terrestres de l'alliance au moment de la mission prophétique d'Ézéchiel. Les bases d'alliance étaient toujours situées sur de hautes montagnes pour éviter d'être dérangées par les humains. « L'esprit m'enleva » d'Ézéchiel décrit un transport par engin de l'alliance depuis le contexte local jusqu'à la localisation de la base en montagne.
 
-The detailed treatment of Ezekiel's substantial alliance-contact content lives in the [Ezekiel](../ezekiel/) entry when written. For Ancient Builders, the relevant content is the alliance's documented use of high-mountain installations across the principal Earth-project period.
+Le traitement détaillé du contenu substantiel d'Ézéchiel sur les contacts avec l'alliance vit dans l'entrée [Ézéchiel](../ezekiel/) lorsqu'elle sera rédigée. Pour les Anciens bâtisseurs, le contenu pertinent est l'usage documenté par l'alliance d'installations en haute montagne tout au long de la période principale du projet terrestre.
 
-### The traces of the bases
+### Les traces des bases
 
-The Vorilhon source's identification of "traces of great civilizations" at the former high-mountain base locations is substantive. The corpus reading: the substantial pre-Inca and pre-Columbian Andean cultural-religious sites that subsequent Andean civilizations built on or near may sit on former alliance-base locations. The substantial Tibetan-Himalayan religious-cultural sites that subsequent Buddhist and Hindu traditions consider sacred may sit on former alliance-base locations. The substantial Mediterranean-Greek sacred-mountain locations (Mount Olympus, Mount Athos, Mount Parnassus, the various oracle sites) may carry substantial cultural memory of alliance presence.
+L'identification par la source Vorilhon de « traces de grandes civilisations » sur les anciennes localisations des bases en haute montagne est substantielle. Lecture du corpus : les sites culturels-religieux préincaïques et précolombiens substantiels dans les Andes sur lesquels ou près desquels les civilisations andines subséquentes ont bâti peuvent reposer sur d'anciennes localisations de bases d'alliance. Les sites religieux-culturels tibéto-himalayens substantiels que les traditions bouddhistes et hindoues subséquentes considèrent comme sacrés peuvent reposer sur d'anciennes localisations de bases d'alliance. Les localisations méditerranéennes-grecques substantielles de montagnes sacrées (mont Olympe, mont Athos, mont Parnasse, les divers sites oraculaires) peuvent porter une mémoire culturelle substantielle d'une présence d'alliance.
 
-The methodological commitment: the corpus does not claim that any specific contemporary archaeological site is provably a former alliance base. The claim is that the substantial cross-cultural pattern of high-mountain sacred sites in regions the Vorilhon source identifies (Andes, Himalayas, Greece) may reflect substantial cultural memory of alliance presence at those general locations. Specific identification of specific archaeological sites with specific former alliance bases is substantively open and would require independent evidence the corpus does not currently possess.
+L'engagement méthodologique : le corpus ne prétend pas qu'un site archéologique contemporain spécifique soit prouvablement une ancienne base d'alliance. La revendication est que le schéma transculturel substantiel de sites sacrés en haute montagne dans les régions que la source Vorilhon identifie (Andes, Himalaya, Grèce) peut refléter une mémoire culturelle substantielle d'une présence d'alliance dans ces localisations générales. L'identification spécifique de sites archéologiques spécifiques avec d'anciennes bases d'alliance spécifiques est substantiellement ouverte et exigerait des preuves indépendantes dont le corpus ne dispose pas actuellement.
 
-### The submarine bases
+### Les bases sous-marines
 
-The Vorilhon-source content on submarine bases:
+Le contenu de la source Vorilhon sur les bases sous-marines :
 
-- **The main alliance's submarine bases.** As the alliance progressively withdrew from direct human contact, the principal operational bases moved from high mountains to submarine locations less accessible to humans.
-- **The Serpentine faction's submarine concealment.** The exiled Serpentine faction (Lucifer's group, banished from the main alliance after the disclosure event in Eden) hid in oceanic locations. The substantial cross-cultural "serpent / dragon / sea-monster" traditions preserve cultural memory of this faction's submarine presence (treated in the [Serpent](../serpent/) and [Theomachy](../theomachy/) entries).
+- **Les bases sous-marines de l'alliance principale.** À mesure que l'alliance se retirait progressivement du contact humain direct, les bases opérationnelles principales se déplacèrent des hautes montagnes vers des lieux sous-marins moins accessibles aux humains.
+- **La dissimulation sous-marine de la faction Serpentine.** La faction Serpentine exilée (le groupe de {% wiki(slug="lucifer") %}Lucifer{% end %}, banni de l'alliance principale après l'événement de divulgation en {% wiki(slug="eden") %}Éden{% end %}) se cacha dans des lieux océaniques. Les traditions transculturelles substantielles « serpent / dragon / monstre marin » préservent la mémoire culturelle de la présence sous-marine de cette faction (traitée dans les entrées Serpent et Théomachie).
 
-The substantive contemporary engagement with submarine archaeology has produced substantial findings — the substantial submerged Neolithic sites in the Mediterranean and other regions; the substantial Yonaguni structures off Okinawa (substantively debated); the substantial Bimini Road off the Bahamas (substantively debated); the substantial submerged structures off the Gulf of Cambay (substantively debated). The corpus does not claim that any specific submerged site is provably an alliance submarine base. The claim is that the Vorilhon source's substantial submarine-base content registers a substantive corpus-content category distinct from the visible megalithic monuments.
+L'engagement contemporain substantiel avec l'archéologie sous-marine a produit des résultats substantiels — les sites néolithiques submergés substantiels en Méditerranée et dans d'autres régions ; les structures substantielles de Yonaguni au large d'Okinawa (substantiellement débattues) ; la route substantielle de Bimini au large des Bahamas (substantiellement débattue) ; les structures submergées substantielles au large du golfe de Cambay (substantiellement débattues).{{ cite(id="underworld-hancock", text="[13]", title="Hancock, *Underworld* (2002) — sites archéologiques submergés à l'échelle mondiale") }} Le corpus ne prétend pas qu'un site submergé spécifique soit prouvablement une base sous-marine de l'alliance. La revendication est que le contenu substantiel de la source Vorilhon sur les bases sous-marines enregistre une catégorie substantielle de contenu de corpus distincte des monuments mégalithiques visibles.
 
-## Mainstream archaeology on megalithic construction
+## L'archéologie courante sur la construction mégalithique
 
-The substantial mainstream archaeological and engineering engagement with megalithic construction has substantively documented how specific monuments were built. The corpus engages this work at the descriptive level. The principal contributions:
+L'engagement substantiel de l'archéologie et de l'ingénierie courantes avec la construction mégalithique a substantiellement documenté la manière dont des monuments spécifiques ont été construits. Le corpus engage ce travail au niveau descriptif. Les principales contributions :
 
-### Egyptian pyramids
+### Pyramides égyptiennes
 
-The substantial documented record of Egyptian pyramid construction is principally the work of multiple generations of Egyptologists, with the contemporary engagement principally led by **Mark Lehner** (Ancient Egypt Research Associates) and **Zahi Hawass** (former Egyptian Minister of State for Antiquities Affairs).
+L'archive documentée substantielle de la construction des pyramides égyptiennes est principalement l'œuvre de plusieurs générations d'égyptologues, l'engagement contemporain étant principalement mené par **Mark Lehner** (Ancient Egypt Research Associates) et **Zahi Hawass** (ancien ministre d'État égyptien aux Affaires des Antiquités).{{ cite(id="giza-and-the-pyramids", text="[14]", title="Lehner & Hawass, *Giza and the Pyramids: The Definitive History* (2017)") }}
 
-The principal documented findings:
+Les principales conclusions documentées :
 
-- **The pyramid workforce.** The discovery and excavation of the substantial workers' village at Giza ("Heit el-Ghurab," "Wall of the Crow") since the 1990s has substantially documented the actual workforce that built the pyramids. The village housed ~10,000-20,000 workers in organized institutional housing with substantial food-supply infrastructure (the substantial bakery and brewery complexes; the substantial cattle and sheep-processing facilities supplying daily protein for thousands of workers). The workers were not slaves but skilled and semi-skilled laborers, organized in named work crews, with substantial wages paid in food rations.
-- **Quarrying and transport.** The substantial Aswan-Giza granite transport is documented through both archaeological and experimental evidence. The substantial Wadi al-Jarf papyri (discovered 2013) include "Diary of Merer" — a logbook by a foreman directing limestone transport for the Great Pyramid's casing stones. The diary documents the actual transport operation: limestone quarried at Tura (across the Nile from Giza), transported by boat across the Nile, with substantial canal-and-harbor infrastructure delivering the stone to the pyramid site.
-- **Construction methods.** Multiple experimental-archaeology programs have demonstrated that substantial Egyptian construction techniques (ramps, levers, sledges, water-lubricated paths) substantially explain how the pyramids were built. The substantial debate continues about the specific ramp configurations used (external, internal, spiral, or combination), but the principal construction methods are within documented Egyptian capability.
+- **La main-d'œuvre des pyramides.** La découverte et la fouille du substantiel village des ouvriers à Gizeh (« Heit el-Ghurab », « le Mur du Corbeau ») depuis les années 1990 ont substantiellement documenté la main-d'œuvre réelle qui a construit les pyramides. Le village abritait ~10 000-20 000 ouvriers dans un logement institutionnel organisé avec une infrastructure substantielle d'approvisionnement alimentaire (les substantiels complexes de boulangerie et de brasserie ; les substantielles installations de transformation du bétail et des moutons fournissant la protéine quotidienne pour des milliers d'ouvriers). Les ouvriers n'étaient pas des esclaves mais des manœuvres qualifiés et semi-qualifiés, organisés en équipes de travail nommées, avec des salaires substantiels payés en rations alimentaires.
+- **Extraction et transport.** Le substantiel transport du granite d'Assouan à Gizeh est documenté à la fois par des preuves archéologiques et expérimentales. Les substantiels papyrus du Wadi al-Jarf (découverts en 2013) incluent le « Journal de Merer » — un journal de bord par un contremaître dirigeant le transport du calcaire pour les pierres de parement de la Grande Pyramide.{{ cite(id="journal-de-merer-tallet", text="[15]", title="Tallet, *Les papyrus de la Mer Rouge I : Le Journal de Merer* (2017)") }} Le journal documente l'opération de transport réelle : calcaire extrait à Tourah (de l'autre côté du Nil par rapport à Gizeh), transporté par bateau à travers le Nil, avec une infrastructure substantielle de canaux et de ports acheminant la pierre jusqu'au site de la pyramide.
+- **Méthodes de construction.** De multiples programmes d'archéologie expérimentale ont démontré que des techniques de construction égyptiennes substantielles (rampes, leviers, traîneaux, voies lubrifiées à l'eau) expliquent substantiellement comment les pyramides ont été construites. Le débat substantiel continue sur les configurations spécifiques de rampes utilisées (externes, internes, en spirale ou combinaison), mais les principales méthodes de construction sont dans le cadre des capacités égyptiennes documentées.
 
 ### Stonehenge
 
-The substantial documented record of Stonehenge construction is principally the work of multiple generations of British archaeologists, with contemporary engagement led by **Mike Parker Pearson** (University College London), **Mike Pitts**, and others.
+L'archive documentée substantielle de la construction de Stonehenge est principalement l'œuvre de plusieurs générations d'archéologues britanniques, l'engagement contemporain étant mené par **Mike Parker Pearson** (University College London),{{ cite(id="stonehenge-parker-pearson", text="[16]", title="Parker Pearson, *Stonehenge: Exploring the Greatest Stone Age Mystery* (2012)") }} **Mike Pitts**, et d'autres.
 
-The principal documented findings:
+Les principales conclusions documentées :
 
-- **The bluestones.** The bluestones (smaller stones in the inner ring) were quarried from the Preseli Hills in Wales (specifically Craig Rhos-y-felin and Carn Goedog) and transported ~200 km to the Salisbury Plain. The transport method is substantially debated (overland via sledges and rollers; sea-and-river transport; glacial-erratic distribution with subsequent human reorganization) but the principal source is substantively confirmed.
-- **The sarsens.** The substantial sarsen stones (larger outer ring and trilithons) were quarried much closer — recent geochemical analysis (David Nash et al., 2020) has substantially confirmed the West Woods, Marlborough Downs source ~25 km from the site. The transport involved substantial overland sledge-and-roller methods over relatively flat terrain.
-- **Construction phases.** Stonehenge was built across multiple phases ~3000-2000 BCE, with substantial revision and reorganization over centuries. The site was a substantial communal project of the Late Neolithic and Early Bronze Age British populations, with substantial associated burial and ceremonial activity (the substantial Aubrey Holes cremation deposits; the substantial Cursus and Avenue associated monuments).
-- **Astronomical alignment.** The substantial summer solstice sunrise and winter solstice sunset alignment is documented and was substantively intentional. The astronomical knowledge involved is within the capability of any culture with sustained observation of the annual solar cycle.
+- **Les pierres bleues.** Les pierres bleues (pierres plus petites dans l'anneau intérieur) ont été extraites des collines de Preseli au pays de Galles (spécifiquement Craig Rhos-y-felin et Carn Goedog) et transportées sur ~200 km jusqu'à la plaine de Salisbury. La méthode de transport est substantiellement débattue (par voie terrestre via traîneaux et rouleaux ; transport maritime et fluvial ; distribution glaciaire avec réorganisation humaine subséquente) mais la source principale est substantiellement confirmée.
+- **Les sarsens.** Les substantielles pierres de sarsen (anneau extérieur plus grand et trilithons) ont été extraites bien plus près — une analyse géochimique récente (David Nash et al., 2020){{ cite(id="nash-sarsen-megaliths-2020", text="[17]", title="Nash et al., 'Origins of the sarsen megaliths at Stonehenge' (Science Advances 2020)") }} a substantiellement confirmé la source de West Woods, Marlborough Downs à ~25 km du site. Le transport a impliqué des méthodes substantielles de traîneau et de rouleaux par voie terrestre sur un terrain relativement plat.
+- **Phases de construction.** Stonehenge a été construit sur plusieurs phases vers 3000-2000 AEC, avec révision et réorganisation substantielles au fil des siècles. Le site était un projet communal substantiel des populations britanniques du Néolithique final et de l'âge du Bronze ancien, avec une activité substantielle associée de sépulture et de cérémonie (les substantiels dépôts de crémation des trous d'Aubrey ; les substantiels monuments associés du Cursus et de l'Avenue).
+- **Alignement astronomique.** L'alignement substantiel du lever du soleil au solstice d'été et du coucher du soleil au solstice d'hiver est documenté et était substantiellement intentionnel. La connaissance astronomique impliquée est dans le cadre des capacités de toute culture pratiquant une observation soutenue du cycle solaire annuel.
 
-### Andean megalithic sites
+### Sites mégalithiques andins
 
-The substantial documented record of Andean megalithic construction includes substantial Inca-era work at Sacsayhuamán, Machu Picchu, Ollantaytambo, and Cusco, with substantial pre-Inca foundations at some sites.
+L'archive documentée substantielle de la construction mégalithique andine inclut des travaux substantiels de l'ère inca à Sacsayhuamán, Machu Picchu, Ollantaytambo et Cuzco, avec des fondations préincaïques substantielles sur certains sites.
 
-The principal documented findings:
+Les principales conclusions documentées :
 
-- **Inca construction techniques.** The substantial Inca polygonal masonry was achieved through hammer-stone shaping (using harder andesite or basalt hammers to shape softer limestone or sandstone), with substantial test-fitting between adjacent stones until the polygonal interlock was achieved. The substantial experimental archaeology (Jean-Pierre Protzen's work at Ollantaytambo) has demonstrated the technique's feasibility within documented Inca tool capability.
-- **The Sacsayhuamán heavy stones.** The substantial Sacsayhuamán stones include some weighing >100 tons. The transport from quarry to site (substantially short distances of <2 km for most stones) involved substantial sledge-and-ramp methods with substantial labor coordination. The substantial Inca labor mobilization (the *mit'a* system providing rotating labor service from across the empire) provided the substantial workforce.
-- **Pre-Inca foundations.** Some Andean sites (Tiwanaku c. 300-1000 CE; Puma Punku c. 500-1000 CE; the substantial Chavín culture c. 1200-200 BCE) substantially predate the Inca period. The substantial Tiwanaku and Puma Punku stonework includes substantial precision construction with specific features (the substantial H-blocks at Puma Punku) that remain incompletely explained by mainstream engagement.
+- **Techniques de construction inca.** La substantielle maçonnerie polygonale inca a été réalisée par mise en forme par pierres-marteaux (utilisant des marteaux plus durs en andésite ou en basalte pour façonner du calcaire ou du grès plus tendres), avec des essais d'ajustement substantiels entre pierres adjacentes jusqu'à obtenir l'emboîtement polygonal. La substantielle archéologie expérimentale (les travaux de Jean-Pierre Protzen à Ollantaytambo){{ cite(id="inca-architecture-ollantaytambo", text="[18]", title="Protzen, *Inca Architecture and Construction at Ollantaytambo* (1993)") }} a démontré la faisabilité de la technique dans le cadre des capacités outillées inca documentées.
+- **Les pierres lourdes de Sacsayhuamán.** Les substantielles pierres de Sacsayhuamán incluent certaines pesant >100 tonnes. Le transport depuis la carrière jusqu'au site (sur des distances substantiellement courtes de <2 km pour la plupart des pierres) a impliqué des méthodes substantielles de traîneau et de rampe avec une coordination substantielle du travail. La substantielle mobilisation de main-d'œuvre inca (le système *mit'a* fournissant un service de travail rotatif à travers tout l'empire) fournissait la main-d'œuvre substantielle.
+- **Fondations préincaïques.** Certains sites andins (Tiwanaku vers 300-1000 EC ; Puma Punku vers 500-1000 EC ; la substantielle culture Chavín vers 1200-200 AEC) précèdent substantiellement la période inca. Les substantielles maçonneries de Tiwanaku et de Puma Punku incluent une construction de précision substantielle avec des caractéristiques spécifiques (les substantiels blocs en H à Puma Punku) qui demeurent incomplètement expliquées par l'engagement courant.
 
-### Easter Island moai
+### Moaï de l'île de Pâques
 
-The substantial documented record of Easter Island construction includes the substantial moai (statues) and ahu (platforms) built by the Rapa Nui people.
+L'archive documentée substantielle de la construction sur l'île de Pâques inclut les substantiels moaï (statues) et ahu (plateformes) construits par le peuple Rapa Nui.
 
-The principal documented findings:
+Les principales conclusions documentées :
 
-- **Quarrying.** The substantial moai were quarried from Rano Raraku, a volcanic crater on the island. The quarry contains many unfinished moai in various stages of completion, substantially documenting the quarrying process.
-- **Transport.** The substantial moai transport across the island is principally explained through the "walking" hypothesis (Terry Hunt and Carl Lipo, with experimental demonstration in 2012) — the moai were transported in upright position using ropes that rocked them side-to-side in a walking motion. The substantial experimental demonstration substantively confirmed the method's feasibility.
-- **Erection.** The substantial moai erection at ahu sites used substantial sledge-ramp methods with rope-and-lever assistance.
+- **Extraction.** Les substantiels moaï ont été extraits de Rano Raraku, un cratère volcanique de l'île. La carrière contient de nombreux moaï inachevés à divers stades d'achèvement, documentant substantiellement le processus d'extraction.
+- **Transport.** Le substantiel transport des moaï à travers l'île est principalement expliqué par l'hypothèse de la « marche » (Terry Hunt et Carl Lipo, avec démonstration expérimentale en 2012){{ cite(id="statues-that-walked", text="[19]", title="Hunt & Lipo, *The Statues That Walked* (2011)") }} — les moaï étaient transportés en position verticale à l'aide de cordes qui les faisaient basculer d'un côté à l'autre selon un mouvement de marche. La substantielle démonstration expérimentale a substantiellement confirmé la faisabilité de la méthode.
+- **Érection.** L'érection substantielle des moaï sur les sites ahu utilisait des méthodes substantielles de traîneau et de rampe avec assistance par cordes et leviers.
 
-### Maltese megalithic temples
+### Temples mégalithiques maltais
 
-The substantial documented record of Maltese temple construction (Ġgantija, Hagar Qim, Mnajdra, Tarxien, Skorba, others; c. 3600-2500 BCE) is principally the work of multiple generations of Maltese and international archaeologists.
+L'archive documentée substantielle de la construction des temples maltais (Ġgantija, Hagar Qim, Mnajdra, Tarxien, Skorba, autres ; vers 3600-2500 AEC) est principalement l'œuvre de plusieurs générations d'archéologues maltais et internationaux.
 
-The principal documented findings:
+Les principales conclusions documentées :
 
-- **The substantial Neolithic Maltese population** built the temples using local limestone (both globigerina and coralline varieties), with substantial quarrying and transport methods documented through the substantial unfinished stones and quarry sites.
-- **Construction techniques.** The substantial corbel-vault and lintel-construction methods are within documented Neolithic technology.
-- **Astronomical alignment.** Several Maltese temples (particularly Mnajdra) include substantial equinox and solstice alignments.
+- **La substantielle population maltaise néolithique** a construit les temples en utilisant du calcaire local (variétés à la fois globigerina et coralline), avec des méthodes substantielles d'extraction et de transport documentées par les substantielles pierres inachevées et les sites de carrière.
+- **Techniques de construction.** Les substantielles méthodes de voûte en encorbellement et de construction à linteaux sont dans le cadre de la technologie néolithique documentée.
+- **Alignement astronomique.** Plusieurs temples maltais (en particulier Mnajdra) incluent des alignements substantiels d'équinoxe et de solstice.
 
-### The general methodological pattern
+### Le schéma méthodologique général
 
-The substantial cross-cultural pattern across mainstream archaeology and engineering on megalithic construction is consistent:
+Le schéma transculturel substantiel à travers l'archéologie et l'ingénierie courantes sur la construction mégalithique est cohérent :
 
-- **The conventionally-credited civilizations had the technological capability.** The principal construction methods are within the documented capabilities of the civilizations conventionally credited with the monuments.
-- **Substantial labor coordination was required.** The monuments represent substantial communal efforts — thousands of workers organized across years or decades.
-- **Substantial astronomical knowledge was required.** The astronomical alignments reflect substantial sustained observation of the celestial cycles, well within human capability.
-- **Specific anomalies remain.** Some specific features at specific sites (the Baalbek trilithon transport; specific Andean polygonal-interlocking precision; specific Puma Punku features) remain incompletely explained by current mainstream methods.
+- **Les civilisations conventionnellement créditées avaient la capacité technologique.** Les principales méthodes de construction sont dans le cadre des capacités documentées des civilisations conventionnellement créditées de ces monuments.
+- **Une coordination substantielle de la main-d'œuvre était requise.** Les monuments représentent des efforts communaux substantiels — des milliers d'ouvriers organisés sur des années ou des décennies.
+- **Des connaissances astronomiques substantielles étaient requises.** Les alignements astronomiques reflètent une observation soutenue substantielle des cycles célestes, bien dans le cadre de la capacité humaine.
+- **Des anomalies spécifiques demeurent.** Certaines caractéristiques spécifiques sur des sites spécifiques (le transport du trilithon de Baalbek ; la précision spécifique de la maçonnerie polygonale à emboîtement andine ; certaines caractéristiques de Puma Punku) demeurent incomplètement expliquées par les méthodes courantes actuelles.
 
-The corpus accepts the mainstream archaeological account at the descriptive level. The visible megalithic monuments were built by the human civilizations to whom they are conventionally attributed, using technologies that the experimental-archaeology record substantially documents. Specific anomalies warrant continued engagement but do not by themselves require alien-construction explanations.
+Le corpus accepte le récit de l'archéologie courante au niveau descriptif. Les monuments mégalithiques visibles ont été construits par les civilisations humaines auxquelles ils sont conventionnellement attribués, avec des technologies que l'archive de l'archéologie expérimentale documente substantiellement. Des anomalies spécifiques méritent un engagement continu mais ne requièrent pas en elles-mêmes d'explications par construction extraterrestre.
 
-## Modern reinterpretations and adjacent traditions
+## Réinterprétations modernes et traditions adjacentes
 
-The substantive contemporary engagement with Ancient Builders content operates across multiple distinct registers.
+L'engagement contemporain substantiel avec le contenu sur les Anciens bâtisseurs opère à travers plusieurs registres distincts.
 
-### The "lost civilization" alternative-archaeology tradition
+### La tradition d'archéologie alternative de la « civilisation disparue »
 
-The substantial alternative-archaeology tradition has articulated the Ancient Builder framing across multiple generations of contemporary engagement.
+La substantielle tradition d'archéologie alternative a articulé le cadrage des Anciens bâtisseurs à travers plusieurs générations d'engagement contemporain.
 
-**Graham Hancock** is the principal contemporary popularizer. His principal works:
+**Graham Hancock** est le principal vulgarisateur contemporain. Ses principaux ouvrages :
 
-- *Fingerprints of the Gods* (Crown, 1995) — articulating the lost-civilization hypothesis through cross-cultural megalithic and mythological evidence
-- *Magicians of the Gods* (Thomas Dunne, 2015) — substantially updating the framework with the Younger Dryas Impact Hypothesis evidence
-- *America Before* (St. Martin's, 2019) — extending the framework to pre-Columbian America
-- *Underworld* (Crown, 2002) — engaging submerged archaeological sites globally
-- The Netflix series *Ancient Apocalypse* (2022) — substantial popular engagement
+- *Fingerprints of the Gods* (Crown, 1995){{ cite(id="fingerprints-of-the-gods", text="[20]", title="Hancock, *Fingerprints of the Gods* (1995)") }} — articulant l'hypothèse de la civilisation disparue à travers des preuves mégalithiques et mythologiques transculturelles
+- *Magicians of the Gods* (Thomas Dunne, 2015){{ cite(id="magicians-of-the-gods", text="[21]", title="Hancock, *Magicians of the Gods* (2015) — convergence avec l'hypothèse de l'impact du Dryas récent") }} — mettant substantiellement à jour le cadre avec les preuves de l'hypothèse de l'impact du Dryas récent
+- *America Before* (St. Martin's, 2019){{ cite(id="america-before", text="[22]", title="Hancock, *America Before* (2019) — extension à l'Amérique précolombienne") }} — étendant le cadre à l'Amérique précolombienne
+- *Underworld* (Crown, 2002) — engageant les sites archéologiques submergés à l'échelle mondiale
+- La série Netflix *Ancient Apocalypse* (2022) — engagement populaire substantiel
 
-Hancock's principal claim: a substantially advanced pre-flood civilization existed and was substantially destroyed at the end of the last glacial period, with substantial subsequent civilizational rebuilding by surviving cultural transmitters who founded the various Bronze Age civilizations. Hancock does not principally engage extraterrestrial-contact explanations, working instead within the lost-human-civilization framework.
+La revendication principale de Hancock : une civilisation pré-Déluge substantiellement avancée a existé et a été substantiellement détruite à la fin de la dernière période glaciaire, avec une reconstruction civilisationnelle subséquente substantielle par les transmetteurs culturels survivants qui ont fondé les diverses civilisations de l'âge du Bronze. Hancock n'engage pas principalement les explications par contact extraterrestre, travaillant plutôt dans le cadre d'une civilisation humaine disparue.
 
-**Robert Schoch** (Boston University) has argued that the Great Sphinx of Giza is substantially older than the conventional 4th-Dynasty dating (~2500 BCE), proposing a pre-flood (>10,000 BCE) dating based on water-erosion analysis. The substantial mainstream Egyptological engagement has substantially disputed Schoch's reading; the question remains substantively debated.
+**Robert Schoch** (Université de Boston) a soutenu que le Grand Sphinx de Gizeh est substantiellement plus ancien que la datation conventionnelle de la IVᵉ dynastie (~2500 AEC), proposant une datation pré-Déluge (>10 000 AEC) basée sur l'analyse de l'érosion par l'eau. L'engagement substantiel de l'égyptologie courante a substantiellement contesté la lecture de Schoch ; la question demeure substantiellement débattue.
 
-**John Anthony West** (1932-2018) was a substantial earlier proponent of the substantially-older-Sphinx hypothesis and the substantial broader alternative-Egyptology engagement.
+**John Anthony West** (1932-2018) fut un proposant antérieur substantiel de l'hypothèse d'un Sphinx substantiellement plus ancien et de l'engagement plus large substantiel d'égyptologie alternative.{{ cite(id="serpent-in-the-sky", text="[23]", title="West, *Serpent in the Sky* (1993) — égyptologie alternative et lecture symboliste à la Schwaller de Lubicz") }}
 
-**Christopher Dunn** has substantially engaged the substantial engineering questions about Egyptian pyramid construction, proposing substantial machining-and-power-tools hypotheses for specific features (the substantial granite boxes at the Serapeum at Saqqara; specific drilling marks in granite artifacts).
+**Christopher Dunn** a substantiellement engagé les questions substantielles d'ingénierie concernant la construction des pyramides égyptiennes, proposant des hypothèses substantielles d'usinage et d'outils mécanisés pour des caractéristiques spécifiques (les substantielles boîtes en granite du Serapeum à Saqqarah ; des marques de forage spécifiques sur des artefacts en granite).{{ cite(id="giza-power-plant", text="[24]", title="Dunn, *The Giza Power Plant* (1998) — égyptologie alternative à orientation ingénierie") }}
 
-### The Atlantis tradition
+### La tradition de l'Atlantide
 
-The Atlantis tradition (treated in the pending [Atlantis](../atlantis/) entry) operates as the substantial Western philosophical-religious tradition's principal articulation of the lost-civilization concept.
+La tradition de l'Atlantide (traitée dans l'entrée [Atlantide](../atlantis/) à venir) opère comme l'articulation principale du concept de civilisation disparue par la substantielle tradition philosophico-religieuse occidentale.
 
-**Plato** articulates the Atlantis tradition in *Timaeus* (c. 360 BCE) and *Critias* (unfinished). The principal content: a substantial advanced civilization existed beyond the Pillars of Hercules; it warred against the Athenian and Mediterranean civilizations; it was substantially destroyed in a single day and night by earthquakes and floods, sinking into the sea. Plato attributes the account to Solon's contact with Egyptian priests.
+**Platon** articule la tradition de l'Atlantide dans le *Timée* (vers 360 AEC) et le *Critias* (inachevé). Le contenu principal : une civilisation avancée substantielle a existé au-delà des colonnes d'Hercule ; elle fit la guerre aux civilisations athénienne et méditerranéenne ; elle fut substantiellement détruite en un seul jour et une seule nuit par des séismes et des inondations, sombrant dans la mer. Platon attribue le récit au contact de Solon avec les prêtres égyptiens.
 
-The subsequent Atlantis tradition substantially elaborates Plato's account:
+La tradition atlante subséquente élabore substantiellement le récit de Platon :
 
-- **Ignatius Donnelly**, *Atlantis: The Antediluvian World* (1882) — the substantial 19th-century revival arguing that Atlantis was the source of substantial subsequent civilizations globally
-- **Edgar Cayce** (1877-1945) — the "sleeping prophet" whose substantial readings (1920s-1940s) substantially elaborated Atlantis with substantive specific content
-- **The Theosophical tradition** (Blavatsky, Steiner, others) — substantial elaboration of Atlantis within the broader esoteric framework, often with substantial Lemuria/Mu content
-- **The contemporary Hancock-style engagement** — substantially updating the Atlantis tradition through the Younger Dryas Impact framework
+- **Ignatius Donnelly**, *Atlantis: The Antediluvian World* (1882) — le substantiel renouveau du XIXᵉ siècle soutenant que l'Atlantide fut la source des substantielles civilisations subséquentes à l'échelle mondiale
+- **Edgar Cayce** (1877-1945) — le « prophète dormant » dont les substantielles lectures (années 1920-1940) ont substantiellement élaboré l'Atlantide avec un contenu substantiel spécifique
+- **La tradition théosophique** (Blavatsky, Steiner, autres) — élaboration substantielle de l'Atlantide au sein du cadre ésotérique plus large, souvent avec un contenu substantiel sur la Lémurie/Mu
+- **L'engagement contemporain à la Hancock** — mettant substantiellement à jour la tradition de l'Atlantide à travers le cadre de l'impact du Dryas récent
 
-The corpus engages Atlantis as a substantial interpretive tradition with substantive cultural-religious significance, without adopting the substantial specific claims (Atlantis as the source of pre-flood civilization, the substantial sunken-island geographical claims, the specific Cayce content). The pending [Atlantis](../atlantis/) entry will articulate the corpus position systematically.
+Le corpus engage l'Atlantide comme une tradition interprétative substantielle dotée d'une signification culturelle-religieuse substantielle, sans adopter les revendications spécifiques substantielles (l'Atlantide comme source de la civilisation pré-Déluge, les revendications géographiques substantielles d'île engloutie, le contenu spécifique de Cayce). L'entrée [Atlantide](../atlantis/) à venir articulera systématiquement la position du corpus.
 
-### The Lemuria / Mu tradition
+### La tradition Lémurie / Mu
 
-The Lemuria and Mu traditions operate as the Pacific equivalent of the Atlantic Atlantis tradition.
+Les traditions de Lémurie et de Mu opèrent comme l'équivalent pacifique de la tradition atlantique de l'Atlantide.
 
-**Lemuria** was originally proposed in 1864 by zoologist Philip Sclater as a hypothetical sunken continent in the Indian Ocean to explain certain biogeographical distributions (particularly of lemurs). The hypothesis was substantially superseded in mainstream science by plate tectonics in the 1960s, but Lemuria substantially entered popular alternative-archaeology and esoteric tradition as a sunken-civilization framework.
+**La Lémurie** fut originellement proposée en 1864 par le zoologue Philip Sclater comme un continent englouti hypothétique dans l'océan Indien pour expliquer certaines distributions biogéographiques (en particulier celle des lémurs). L'hypothèse fut substantiellement remplacée dans la science courante par la tectonique des plaques dans les années 1960, mais la Lémurie est substantiellement entrée dans la tradition populaire d'archéologie alternative et ésotérique comme cadre de civilisation engloutie.
 
-**Mu** was popularized by **Augustus Le Plongeon** (1825-1908) and **James Churchward** (1851-1936). Churchward's series *The Lost Continent of Mu* (1926) and subsequent works substantially developed the Mu framework as a substantial Pacific lost civilization with substantial subsequent influence on global cultures.
+**Mu** fut popularisée par **Augustus Le Plongeon** (1825-1908) et **James Churchward** (1851-1936). La série de Churchward *The Lost Continent of Mu* (1926) et les ouvrages subséquents ont substantiellement développé le cadre de Mu comme une substantielle civilisation pacifique disparue avec une influence substantielle subséquente sur les cultures mondiales.
 
-The corpus does not adopt the Lemuria or Mu framings. The contemporary scientific consensus on Pacific geology does not support sunken-continent hypotheses, and the substantial textual evidence the alternative-archaeology tradition cites does not substantially support the specific Mu claims.
+Le corpus n'adopte pas les cadrages de Lémurie ou de Mu. Le consensus scientifique contemporain sur la géologie pacifique ne soutient pas les hypothèses de continent englouti, et les preuves textuelles substantielles que la tradition d'archéologie alternative cite ne soutiennent pas substantiellement les revendications spécifiques de Mu.
 
-### Ancient-astronaut engagement
+### Engagement des anciens astronautes
 
-The substantial Ancient-Astronaut engagement with Ancient Builders content (treated systematically in the [Ancient Astronaut Hypothesis](../ancient-astronaut-hypothesis/) entry) operates principally through von Däniken, Sitchin, and the broader tradition.
+L'engagement substantiel des Anciens Astronautes avec le contenu sur les Anciens bâtisseurs (traité systématiquement dans l'entrée {% wiki(slug="ancient-astronaut-hypothesis") %}Théorie des Anciens Astronautes{% end %}) opère principalement à travers von Däniken, Sitchin et la tradition plus large.
 
-**Erich von Däniken**'s *Chariots of the Gods?* (1968) substantially popularized the framing that specific monuments (Egyptian pyramids, Nazca lines, Easter Island moai, Sacsayhuamán, others) were built with extraterrestrial assistance or by extraterrestrial visitors directly. Von Däniken's methodology substantially relies on the cultural-dismissive framing (the conventionally-credited civilizations could not have built these monuments) that the corpus has explicitly distanced itself from.
+*Présence des extra-terrestres* d'**Erich von Däniken** (1968){{ cite(id="chariots-of-the-gods", text="[25]", title="Von Däniken, *Présence des extra-terrestres* (1968) — texte fondateur populaire des anciens astronautes") }} a substantiellement popularisé le cadrage selon lequel des monuments spécifiques (pyramides égyptiennes, lignes de Nazca, moaï de l'île de Pâques, Sacsayhuamán, autres) ont été construits avec une assistance extraterrestre ou directement par des visiteurs extraterrestres. La méthodologie de von Däniken repose substantiellement sur le cadrage culturellement dépréciatif (les civilisations conventionnellement créditées n'auraient pas pu construire ces monuments) dont le corpus s'est explicitement distancié.
 
-**Zecharia Sitchin**'s substantial Anunnaki framework (treated in the Ancient Astronaut Hypothesis entry) substantially proposes that the Sumerian and broader Mesopotamian monumental construction was conducted with Anunnaki direction. The Sitchin framework has substantial methodological problems (substantially contested Sumerian-language readings; substantial Nibiru claims unsupported by modern astronomy).
+Le cadre Anunnaki substantiel de **Zecharia Sitchin** (traité dans l'entrée Théorie des Anciens Astronautes) propose substantiellement que la construction monumentale sumérienne et mésopotamienne plus large fut menée sous la direction des Anunnaki.{{ cite(id="the-12th-planet", text="[26]", title="Sitchin, *The 12th Planet* (1976) — texte fondateur de l'interprétation Anunnaki") }} Le cadre de Sitchin présente des problèmes méthodologiques substantiels (lectures substantiellement contestées de la langue sumérienne ; revendications substantielles sur Nibiru non étayées par l'astronomie moderne).
 
-The corpus's specific differences from these traditions:
+Les différences spécifiques du corpus avec ces traditions :
 
-- **Respect for indigenous achievement.** The visible megalithic monuments are substantively human accomplishment.
-- **Source-textual grounding.** The corpus engages Vorilhon-source content (alliance high-mountain and submarine bases) rather than speculative-interpretive content (the broader "aliens built the pyramids" framing).
-- **Methodological discipline.** The corpus distinguishes between direct source claims, comparative observations, and speculative inference rather than treating speculative content as established.
+- **Respect de l'accomplissement indigène.** Les monuments mégalithiques visibles sont une réalisation humaine substantielle.
+- **Ancrage textuel à la source.** Le corpus engage le contenu de la source Vorilhon (bases d'alliance en haute montagne et sous-marines) plutôt qu'un contenu spéculatif-interprétatif (le cadrage plus large « les extraterrestres ont construit les pyramides »).
+- **Discipline méthodologique.** Le corpus distingue entre les revendications directes de la source, les observations comparatives et l'inférence spéculative plutôt que de traiter le contenu spéculatif comme établi.
 
-### The Göbekli Tepe revolution
+### La révolution de Göbekli Tepe
 
-The Göbekli Tepe site in southeastern Turkey, excavated principally by **Klaus Schmidt** (1953-2014) of the German Archaeological Institute beginning in 1995, has substantially changed the conventional chronology of monumental construction.
+Le site de Göbekli Tepe dans le sud-est de la Turquie, fouillé principalement par **Klaus Schmidt** (1953-2014) de l'Institut archéologique allemand à partir de 1995, a substantiellement modifié la chronologie conventionnelle de la construction monumentale.
 
-The principal Göbekli Tepe findings:
+Les principales conclusions sur Göbekli Tepe :
 
-- **Dating.** The earliest occupation layers date to c. 9500 BCE — substantially before the conventional Neolithic-revolution chronology (the substantial transition to settled agriculture conventionally dated to ~9000-8500 BCE in the Levant).
-- **Construction.** The site features substantial T-shaped limestone pillars (some >5 meters tall, weighing tons) arranged in circular enclosures, with substantial relief carvings of animals (boars, foxes, snakes, scorpions, birds, others), abstract symbols, and stylized human figures.
-- **Pre-agricultural construction.** The substantial chronology indicates that the builders were substantially pre-agricultural hunter-gatherers, not the settled-agricultural population conventionally associated with monumental construction.
-- **Construction implications.** The substantial pre-agricultural monumental construction substantially overturns the conventional sequence in which monumental construction was assumed to follow agricultural settlement. The implication: monumental construction may substantially precede (and possibly motivate) the agricultural revolution rather than following it.
+- **Datation.** Les couches d'occupation les plus anciennes datent de vers 9500 AEC — substantiellement avant la chronologie conventionnelle de la révolution néolithique (la substantielle transition vers l'agriculture sédentaire conventionnellement datée à ~9000-8500 AEC au Levant).
+- **Construction.** Le site comporte des piliers calcaires substantiels en T (certains de plus de 5 mètres de haut, pesant des tonnes) disposés en enclos circulaires, avec des reliefs sculptés substantiels d'animaux (sangliers, renards, serpents, scorpions, oiseaux, autres), des symboles abstraits et des figures humaines stylisées.
+- **Construction pré-agricole.** La chronologie substantielle indique que les bâtisseurs étaient substantiellement des chasseurs-cueilleurs pré-agricoles, et non la population sédentaire-agricole conventionnellement associée à la construction monumentale.
+- **Implications pour la construction.** La substantielle construction monumentale pré-agricole renverse substantiellement la séquence conventionnelle dans laquelle on supposait que la construction monumentale suivait la sédentarisation agricole. L'implication : la construction monumentale peut substantiellement précéder (et possiblement motiver) la révolution agricole plutôt que la suivre.
 
-The Göbekli Tepe revolution has substantial implications for the broader Ancient Builders question:
+La révolution de Göbekli Tepe a des implications substantielles pour la question plus large des Anciens bâtisseurs :
 
-- **Substantial pre-flood monumental capability.** By the corpus chronology, the c. 9500 BCE Göbekli Tepe construction occurred during the late Leo / early Cancer age — substantially before the Cancer-Gemini boundary flood event (c. 6,690 BCE). The site is substantively pre-flood monumental construction.
-- **Substantial pre-agricultural cultural sophistication.** The hunter-gatherer builders of Göbekli Tepe demonstrated substantial coordination, sustained communal labor over centuries, and substantial symbolic-religious sophistication. The substantial earlier-than-previously-thought capability is substantively well-documented.
-- **Implications for the lost-civilization hypothesis.** Göbekli Tepe substantially complicates the simple "lost civilization before the flood" framing. The site demonstrates substantial pre-flood capability without requiring a "lost civilization" of the Atlantis-style framing. The pre-flood population at Göbekli Tepe was hunter-gatherer rather than Atlantis-style advanced.
-- **Implications for the corpus framework.** Göbekli Tepe is consistent with the corpus framework's substantial pre-flood cultural development. The site may operate as evidence of substantial human cultural development under alliance cultivation during the Leo and Cancer ages, with the substantial subsequent flood-event substantially disrupting the developmental trajectory.
+- **Capacité monumentale pré-Déluge substantielle.** Selon la chronologie du corpus, la construction de Göbekli Tepe vers 9500 AEC s'est produite à la fin du Lion / au début du Cancer — substantiellement avant l'événement du Déluge à la limite Cancer-Gémeaux (vers 6 690 AEC). Le site est une construction monumentale substantiellement pré-Déluge.
+- **Sophistication culturelle pré-agricole substantielle.** Les bâtisseurs chasseurs-cueilleurs de Göbekli Tepe ont démontré une coordination substantielle, un travail communal soutenu sur des siècles et une sophistication symbolique-religieuse substantielle. La capacité substantiellement plus précoce qu'on ne le pensait est substantiellement bien documentée.
+- **Implications pour l'hypothèse de la civilisation disparue.** Göbekli Tepe complique substantiellement le simple cadrage « civilisation disparue avant le Déluge ». Le site démontre une capacité pré-Déluge substantielle sans requérir une « civilisation disparue » du cadrage à la Atlantide. La population pré-Déluge à Göbekli Tepe était chasseur-cueilleur plutôt qu'avancée à la Atlantide.
+- **Implications pour le cadre du corpus.** Göbekli Tepe est cohérent avec le développement culturel pré-Déluge substantiel du cadre du corpus. Le site peut opérer comme preuve d'un développement culturel humain substantiel sous tutelle de l'alliance durant les Ères du Lion et du Cancer, l'événement substantiel subséquent du Déluge perturbant substantiellement la trajectoire développementale.
 
-The dedicated [Göbekli Tepe](../gobekli-tepe/) entry will articulate the site's substantive content systematically.
+L'entrée dédiée [Göbekli Tepe](../gobekli-tepe/) articulera systématiquement le contenu substantiel du site.
 
-### The Younger Dryas Impact Hypothesis
+### L'hypothèse de l'impact du Dryas récent
 
-The **Younger Dryas Impact Hypothesis** (YDIH), proposed by **Richard Firestone** et al. in 2007, argues that a substantial cosmic impact or atmospheric airburst event at c. 12,900 BCE produced the substantial Younger Dryas climate cooling and the substantial associated megafaunal extinctions and cultural disruptions.
+L'**hypothèse de l'impact du Dryas récent** (YDIH), proposée par **Richard Firestone** et al. en 2007, soutient qu'un événement substantiel d'impact cosmique ou d'éclatement atmosphérique vers 12 900 AEC a produit le substantiel refroidissement climatique du Dryas récent ainsi que les substantielles extinctions mégafaunales et perturbations culturelles associées.
 
-The principal YDIH evidence (substantially developed across the post-2007 scholarship):
+Les principales preuves de l'YDIH (substantiellement développées à travers la recherche post-2007) :
 
-- **Platinum spikes** at the Younger Dryas boundary documented at sites across multiple continents
-- **Carbon spherules and nanodiamonds** suggestive of high-temperature events
-- **Widespread evidence of fires** consistent with a major impact-generated thermal event
-- **Megafaunal extinctions** aligning with the Younger Dryas timing
-- **Cultural disruptions** (the substantial Clovis-culture collapse in North America) aligning with the event
+- **Pics de platine** à la limite du Dryas récent documentés sur des sites à travers de multiples continents
+- **Sphérules de carbone et nanodiamants** suggestifs d'événements à haute température
+- **Preuves répandues d'incendies** cohérentes avec un événement thermique majeur engendré par impact
+- **Extinctions mégafaunales** s'alignant sur le calendrier du Dryas récent
+- **Perturbations culturelles** (le substantiel effondrement de la culture Clovis en Amérique du Nord) s'alignant sur l'événement
 
-The YDIH remains substantively contested in mainstream geology and archaeology, with substantial subsequent scholarship both supporting and challenging the hypothesis. The corpus engages YDIH as a substantively live hypothesis with substantial implications:
+L'YDIH demeure substantiellement contestée dans la géologie et l'archéologie courantes, avec une recherche substantielle subséquente à la fois soutenant et contestant l'hypothèse. Le corpus engage l'YDIH comme une hypothèse substantiellement vivante avec des implications substantielles :
 
-- **Substantial pre-flood civilizational catastrophe.** If a major impact event occurred at c. 12,900 BCE, it substantially predates the corpus's Cancer-Gemini boundary flood event (c. 6,690 BCE). The YDIH event would represent a substantial earlier catastrophic episode, possibly with substantial implications for any earlier human civilizational development.
-- **Connection to the lost-civilization framings.** Hancock and other alternative-archaeology figures have substantially argued that the YDIH event destroyed a substantial pre-Younger-Dryas advanced civilization, with the substantial subsequent Bronze Age civilizations as the substantial cultural inheritors.
-- **Corpus position.** The corpus engages YDIH at the descriptive level (the substantial evidence for a major catastrophic event ~12,900 BCE warrants substantive engagement) without adopting the Hancock-style "lost advanced civilization" framing. The substantial pre-Younger-Dryas human populations were substantially hunter-gatherer cultures with substantial cultural sophistication but not Atlantis-style advanced civilization. The YDIH event would have substantially disrupted these populations without requiring a lost super-civilization.
+- **Catastrophe civilisationnelle pré-Déluge substantielle.** Si un événement d'impact majeur s'est produit vers 12 900 AEC, il précède substantiellement l'événement du Déluge à la limite Cancer-Gémeaux du corpus (vers 6 690 AEC). L'événement YDIH représenterait un épisode catastrophique antérieur substantiel, possiblement avec des implications substantielles pour tout développement civilisationnel humain antérieur.
+- **Lien avec les cadrages de civilisation disparue.** Hancock et d'autres figures de l'archéologie alternative ont substantiellement soutenu que l'événement YDIH a détruit une substantielle civilisation avancée d'avant le Dryas récent, les substantielles civilisations subséquentes de l'âge du Bronze en étant les substantiels héritiers culturels.
+- **Position du corpus.** Le corpus engage l'YDIH au niveau descriptif (les preuves substantielles d'un événement catastrophique majeur vers 12 900 AEC méritent un engagement substantiel) sans adopter le cadrage à la Hancock de « civilisation avancée disparue ». Les populations humaines substantielles d'avant le Dryas récent étaient substantiellement des cultures de chasseurs-cueilleurs dotées d'une sophistication culturelle substantielle, mais non d'une civilisation avancée de type Atlantide. L'événement YDIH aurait substantiellement perturbé ces populations sans requérir une super-civilisation disparue.
 
-## Comparative observations
+## Observations comparatives
 
-The cross-cultural pattern of megalithic and monumental construction operates across virtually every major civilization. The corpus engages this pattern substantively while preserving cultural specificity.
+Le schéma transculturel de construction mégalithique et monumentale opère à travers virtuellement chaque grande civilisation. Le corpus engage substantiellement ce schéma tout en préservant la spécificité culturelle.
 
-### Egyptian pyramids and monumental architecture
+### Pyramides égyptiennes et architecture monumentale
 
-The Egyptian monumental tradition is one of the principal cross-cultural references. The principal features:
+La tradition monumentale égyptienne est l'une des principales références transculturelles. Les caractéristiques principales :
 
-- **The Step Pyramid of Djoser** (c. 2670 BCE, designed by Imhotep) — the first substantial Egyptian stone pyramid
-- **The Bent Pyramid and Red Pyramid at Dahshur** (c. 2600 BCE, Sneferu) — the substantial transitional pyramids
-- **The Giza pyramids** (c. 2560-2510 BCE, Khufu, Khafre, Menkaure) — the substantial Old Kingdom culmination
-- **The Middle Kingdom pyramids** (c. 2000-1700 BCE) — substantially smaller and substantially less well-preserved
-- **The substantial Theban temple complexes** (Karnak, Luxor, Deir el-Bahari, the Ramesseum, the various mortuary temples) — substantial New Kingdom monumental construction
-- **The Abu Simbel temples** (c. 1264 BCE, Ramesses II) — the substantial rock-cut monumental temples
+- **La pyramide à degrés de Djéser** (vers 2670 AEC, conçue par Imhotep) — la première pyramide en pierre égyptienne substantielle
+- **La pyramide rhomboïdale et la pyramide rouge à Dahchour** (vers 2600 AEC, Snéfrou) — les substantielles pyramides de transition
+- **Les pyramides de Gizeh** (vers 2560-2510 AEC, Khéops, Khéphren, Mykérinos) — la substantielle culmination de l'Ancien Empire
+- **Les pyramides du Moyen Empire** (vers 2000-1700 AEC) — substantiellement plus petites et substantiellement moins bien préservées
+- **Les substantiels complexes de temples thébains** (Karnak, Louxor, Deir el-Bahari, le Ramesséum, les divers temples funéraires) — substantielle construction monumentale du Nouvel Empire
+- **Les temples d'Abou Simbel** (vers 1264 AEC, Ramsès II) — les substantiels temples monumentaux taillés dans le roc
 
-### Mesopotamian ziggurats
+### Ziggourats mésopotamiennes
 
-The Mesopotamian monumental tradition principally took the form of ziggurats — substantial stepped pyramid temples. Principal examples:
+La tradition monumentale mésopotamienne a principalement pris la forme de ziggourats — substantiels temples pyramidaux à degrés. Exemples principaux :
 
-- **The Ziggurat of Ur** (c. 2100 BCE, Ur-Nammu) — the substantially preserved Sumerian ziggurat
-- **The substantial Babylonian Etemenanki** — the substantial "Tower of Babel" ziggurat referenced in Genesis 11
-- **The Choga Zanbil ziggurat** (c. 1250 BCE) — the substantial Elamite preservation
+- **La ziggourat d'Ur** (vers 2100 AEC, Ur-Nammu) — la ziggourat sumérienne substantiellement préservée
+- **L'Etemenanki babylonien substantiel** — la substantielle ziggourat « Tour de Babel » référencée en Genèse 11
+- **La ziggourat de Tchoga Zanbil** (vers 1250 AEC) — la substantielle préservation élamite
 
-The ziggurat tradition's connection to the substantial Tower of Babel narrative is substantively engaged in the [Babel](../babel/) entry.
+Le lien de la tradition des ziggourats avec le récit substantiel de la Tour de Babel est substantiellement engagé dans l'entrée {% wiki(slug="babel") %}Babel{% end %}.
 
-### European megalithic tradition
+### Tradition mégalithique européenne
 
-The substantial European megalithic tradition spans the Late Neolithic and Early Bronze Age, principally c. 5000-2000 BCE. Principal examples:
+La substantielle tradition mégalithique européenne s'étend sur le Néolithique final et l'âge du Bronze ancien, principalement vers 5000-2000 AEC. Exemples principaux :
 
-- **Stonehenge and the Wessex monuments** (Avebury, Silbury Hill, Durrington Walls, the Stonehenge Avenue, the substantial Cursus monuments)
-- **Carnac in Brittany** (c. 4500-3300 BCE) — substantial alignments of thousands of standing stones across multiple kilometers
-- **Newgrange in Ireland** (c. 3200 BCE) — substantial passage tomb with the substantial winter-solstice illumination alignment
-- **The substantial Maltese megalithic temples** (c. 3600-2500 BCE) — treated above in *Mainstream archaeology*
-- **The substantial Iberian, French, and broader Atlantic megalithic tradition** — substantial dolmens, menhirs, and passage tombs across substantial geographic range
+- **Stonehenge et les monuments du Wessex** (Avebury, Silbury Hill, Durrington Walls, l'Avenue de Stonehenge, les substantiels monuments du Cursus)
+- **Carnac en Bretagne** (vers 4500-3300 AEC) — substantiels alignements de milliers de pierres dressées sur plusieurs kilomètres
+- **Newgrange en Irlande** (vers 3200 AEC) — substantielle tombe à couloir avec le substantiel alignement d'illumination au solstice d'hiver
+- **Les substantiels temples mégalithiques maltais** (vers 3600-2500 AEC) — traités ci-dessus dans *L'archéologie courante*
+- **La substantielle tradition mégalithique ibérique, française et atlantique plus large** — substantiels dolmens, menhirs et tombes à couloir sur une étendue géographique substantielle
 
-### Mediterranean cyclopean masonry
+### Maçonnerie cyclopéenne méditerranéenne
 
-The substantial Mediterranean cyclopean masonry tradition appears principally at:
+La substantielle tradition de la maçonnerie cyclopéenne méditerranéenne apparaît principalement à :
 
-- **Mycenae and Tiryns** (c. 1350-1200 BCE) — the substantial Mycenaean cyclopean walls; the substantial Treasury of Atreus tholos tomb; the substantial Lion Gate at Mycenae
-- **The Argolid generally** — substantial Late Bronze Age fortifications across the Peloponnesian region
-- **The Sardinian nuraghi** (c. 1800-730 BCE) — substantial conical stone towers (~7,000 surviving examples across Sardinia)
-- **The substantial Hittite cyclopean construction** at Hattusa and other Anatolian sites
+- **Mycènes et Tirynthe** (vers 1350-1200 AEC) — les substantiels murs cyclopéens mycéniens ; la substantielle tombe à tholos du Trésor d'Atrée ; la substantielle porte des Lionnes à Mycènes
+- **L'Argolide en général** — substantielles fortifications du Bronze récent à travers la région péloponnésienne
+- **Les nuraghes sardes** (vers 1800-730 AEC) — substantielles tours coniques en pierre (~7 000 exemples survivants à travers la Sardaigne)
+- **La substantielle construction cyclopéenne hittite** à Hattusa et sur d'autres sites anatoliens
 
-### Indian subcontinent monumental tradition
+### Tradition monumentale du sous-continent indien
 
-The substantial Indian subcontinent monumental tradition includes:
+La substantielle tradition monumentale du sous-continent indien inclut :
 
-- **The substantial Harappan urban architecture** (c. 2600-1900 BCE) — Mohenjo-daro, Harappa, and the substantial broader Indus Valley civilization
-- **The substantial subsequent Indian temple architecture** — the substantial Mahabalipuram rock-cut monuments (c. 7th century CE); the substantial Khajuraho temples (c. 950-1050 CE); the substantial Ellora and Ajanta cave complexes; the substantial Vijayanagara monuments at Hampi (c. 1336-1565 CE)
-- **The substantial Kailasa Temple at Ellora** (c. 8th century CE) — the substantial monolithic rock-cut temple, carved from a single mountain in a substantial top-down excavation
+- **La substantielle architecture urbaine harappéenne** (vers 2600-1900 AEC) — Mohenjo-daro, Harappa et la substantielle civilisation plus large de la vallée de l'Indus
+- **La substantielle architecture des temples indiens subséquente** — les substantiels monuments rupestres de Mahabalipuram (vers le VIIᵉ siècle EC) ; les substantiels temples de Khajuraho (vers 950-1050 EC) ; les substantiels complexes des grottes d'Ellora et d'Ajanta ; les substantiels monuments de Vijayanagara à Hampi (vers 1336-1565 EC)
+- **Le substantiel temple Kailasa à Ellora** (vers le VIIIᵉ siècle EC) — le substantiel temple monolithique taillé dans le roc, sculpté à partir d'une seule montagne dans une substantielle excavation descendante
 
-### East Asian monumental tradition
+### Tradition monumentale d'Asie de l'Est
 
-The substantial East Asian monumental tradition includes:
+La substantielle tradition monumentale d'Asie de l'Est inclut :
 
-- **The substantial Chinese imperial tomb complexes** — the substantial Mausoleum of the First Qin Emperor (c. 246-208 BCE) with the substantial Terracotta Army; the substantial Ming Tombs
-- **The substantial Great Wall of China** — built across multiple dynasties from c. 7th century BCE through the substantial Ming-era completion
-- **The substantial Korean dolmens** — the substantial Korean Peninsula contains many thousands of dolmens (c. 1000 BCE-300 CE), the substantial Bronze Age megalithic preservation
-- **The substantial Japanese kofun (burial mounds)** — substantial 3rd-7th century CE Japanese monumental tomb complexes
-- **The substantial Cambodian Angkor Wat** (c. 12th century CE) and the substantial broader Khmer monumental tradition
+- **Les substantiels complexes de tombeaux impériaux chinois** — le substantiel mausolée du premier empereur Qin (vers 246-208 AEC) avec la substantielle armée de terre cuite ; les substantielles tombes Ming
+- **La substantielle Grande Muraille de Chine** — construite à travers de multiples dynasties depuis le VIIᵉ siècle AEC jusqu'à l'achèvement substantiel à l'ère Ming
+- **Les substantiels dolmens coréens** — la péninsule coréenne contient plusieurs milliers de dolmens (vers 1000 AEC-300 EC), la substantielle préservation mégalithique de l'âge du Bronze
+- **Les substantiels kofun japonais (tertres funéraires)** — substantiels complexes de tombes monumentales japonaises des IIIᵉ-VIIᵉ siècles EC
+- **Le substantiel Angkor Vat cambodgien** (vers le XIIᵉ siècle EC) et la substantielle tradition monumentale khmère plus large
 
-### Southeast Asian and Pacific monumental tradition
+### Tradition monumentale d'Asie du Sud-Est et du Pacifique
 
-The substantial Southeast Asian and Pacific monumental tradition includes:
+La substantielle tradition monumentale d'Asie du Sud-Est et du Pacifique inclut :
 
-- **Angkor Wat and the broader Khmer monuments** (Cambodia, c. 9th-15th century CE) — the substantial largest religious monument in the world by area
-- **Borobudur** (Java, c. 9th century CE) — the substantial Buddhist stupa-temple complex
-- **Prambanan** (Java, c. 9th century CE) — the substantial Hindu temple complex
-- **The substantial Indonesian megalithic tradition** at sites including Gunung Padang
-- **The substantial Pacific monumental traditions** — the substantial Easter Island moai (treated above); the substantial Tongan Ha'amonga 'a Maui trilithon; the substantial Marquesan tiki; the substantial Tahitian and Hawaiian heiau platforms
+- **Angkor Vat et les monuments khmers plus larges** (Cambodge, vers les IXᵉ-XVᵉ siècles EC) — le substantiel plus grand monument religieux du monde en superficie
+- **Borobudur** (Java, vers le IXᵉ siècle EC) — le substantiel complexe de stoupa-temple bouddhiste
+- **Prambanan** (Java, vers le IXᵉ siècle EC) — le substantiel complexe de temples hindous
+- **La substantielle tradition mégalithique indonésienne** sur des sites incluant Gunung Padang
+- **Les substantielles traditions monumentales du Pacifique** — les substantiels moaï de l'île de Pâques (traités ci-dessus) ; le substantiel trilithon Haʻamonga ʻa Maui de Tonga ; les substantiels tiki marquisiens ; les substantielles plateformes heiau tahitiennes et hawaïennes
 
-### Pre-Columbian American monumental tradition
+### Tradition monumentale américaine précolombienne
 
-The substantial pre-Columbian American monumental tradition includes:
+La substantielle tradition monumentale américaine précolombienne inclut :
 
-- **The substantial Olmec colossal heads** (c. 1200-400 BCE) — substantial multi-ton basalt sculptures
-- **Teotihuacan** (c. 1-650 CE) — the substantial Pyramid of the Sun, Pyramid of the Moon, and broader urban complex
-- **The substantial Maya pyramid tradition** — Chichen Itza, Tikal, Palenque, Copán, the substantial broader Maya monumental tradition
-- **The substantial Aztec Templo Mayor** at Tenochtitlan
-- **The substantial Andean monumental tradition** — Chavín de Huántar (c. 1200-200 BCE); Tiwanaku (c. 300-1000 CE) and Puma Punku; the substantial Inca constructions (Sacsayhuamán, Machu Picchu, Ollantaytambo, Cusco; c. 1438-1533 CE)
-- **The substantial Mississippi mound builders** — Cahokia (c. 600-1400 CE) and the substantial broader Mississippian culture; the substantial Adena and Hopewell mound traditions
-- **The substantial Pueblo construction** — Chaco Canyon (c. 850-1150 CE), Mesa Verde, and the substantial broader Ancestral Puebloan tradition
+- **Les substantielles têtes colossales olmèques** (vers 1200-400 AEC) — substantielles sculptures en basalte de plusieurs tonnes
+- **Teotihuacan** (vers 1-650 EC) — les substantielles pyramides du Soleil et de la Lune et le complexe urbain plus large
+- **La substantielle tradition des pyramides mayas** — Chichén Itzá, Tikal, Palenque, Copán, la substantielle tradition monumentale maya plus large
+- **Le substantiel Templo Mayor aztèque** à Tenochtitlán
+- **La substantielle tradition monumentale andine** — Chavín de Huántar (vers 1200-200 AEC) ; Tiwanaku (vers 300-1000 EC) et Puma Punku ; les substantielles constructions inca (Sacsayhuamán, Machu Picchu, Ollantaytambo, Cuzco ; vers 1438-1533 EC)
+- **Les substantiels bâtisseurs de tertres du Mississippi** — Cahokia (vers 600-1400 EC) et la substantielle culture mississippienne plus large ; les substantielles traditions de tertres Adena et Hopewell
+- **La substantielle construction pueblo** — Chaco Canyon (vers 850-1150 EC), Mesa Verde et la substantielle tradition Pueblo ancestrale plus large
 
-### African monumental tradition beyond Egypt
+### Tradition monumentale africaine au-delà de l'Égypte
 
-The substantial African monumental tradition beyond Egypt includes:
+La substantielle tradition monumentale africaine au-delà de l'Égypte inclut :
 
-- **Great Zimbabwe** (c. 1100-1450 CE) — the substantial stone-city ruins in modern Zimbabwe
-- **The substantial Nubian pyramids** at Meroë and other Sudanese sites (c. 6th century BCE-4th century CE)
-- **The substantial Aksumite stelae** at Aksum (Ethiopia, c. 1st-7th century CE) — substantial monolithic granite stelae up to 33 meters tall
-- **The substantial Lalibela rock-hewn churches** (Ethiopia, c. 12th-13th century CE) — the substantial monolithic churches carved into volcanic rock
-- **The substantial Senegambian stone circles** (c. 3rd century BCE-16th century CE) — substantial megalithic complex across Senegal and Gambia
-- **The substantial Sungbo's Eredo earthwork** (Nigeria, c. 1000 CE) — the substantial 160-km-long defensive ditch
+- **Le Grand Zimbabwe** (vers 1100-1450 EC) — les substantielles ruines de cité de pierre dans le Zimbabwe moderne
+- **Les substantielles pyramides nubiennes** à Méroé et sur d'autres sites soudanais (vers le VIᵉ siècle AEC-IVᵉ siècle EC)
+- **Les substantielles stèles axoumites** à Aksoum (Éthiopie, vers les Iᵉʳ-VIIᵉ siècles EC) — substantielles stèles monolithiques en granite jusqu'à 33 mètres de haut
+- **Les substantielles églises rupestres de Lalibela** (Éthiopie, vers les XIIᵉ-XIIIᵉ siècles EC) — les substantielles églises monolithiques taillées dans la roche volcanique
+- **Les substantiels cercles de pierres sénégambiens** (vers le IIIᵉ siècle AEC-XVIᵉ siècle EC) — substantiel complexe mégalithique à travers le Sénégal et la Gambie
+- **Le substantiel ouvrage de terre Sungbo's Eredo** (Nigeria, vers 1000 EC) — le substantiel fossé défensif long de 160 km
 
-### The cross-cultural pattern of astronomical-alignment incorporation
+### Le schéma transculturel d'incorporation d'alignements astronomiques
 
-The substantial cross-cultural pattern of astronomical-alignment incorporation in monumental architecture appears across virtually every major monumental tradition:
+Le substantiel schéma transculturel d'incorporation d'alignements astronomiques dans l'architecture monumentale apparaît à travers virtuellement chaque grande tradition monumentale :
 
-- **Solstice and equinox alignments** — Stonehenge (summer solstice sunrise; winter solstice sunset); Newgrange (winter solstice sunrise); Maeshowe (winter solstice sunset); Chichen Itza's El Castillo (equinox shadow play); the substantial various Egyptian temple alignments; the substantial Inca Torreón at Machu Picchu
-- **Stellar alignments** — Giza-Orion correlation; the substantial Egyptian temple alignments to specific stars (Sirius, Canopus, others); the substantial Mayan alignments to Venus; the substantial Andean alignments to specific stars and constellations
-- **Lunar alignments** — Stonehenge's substantial lunar alignments (the 18.6-year lunar standstill cycle); the substantial Maya lunar tracking; the substantial various lunar alignments globally
-- **Precessional alignments** — the substantial *Hamlet's Mill* hypothesis (treated in the [Comparative Mythology](../comparative-mythology/) entry) that the substantial cross-cultural mythology encodes precessional content
+- **Alignements solsticiaux et équinoxiaux** — Stonehenge (lever du soleil au solstice d'été ; coucher du soleil au solstice d'hiver) ; Newgrange (lever du soleil au solstice d'hiver) ; Maeshowe (coucher du soleil au solstice d'hiver) ; El Castillo à Chichén Itzá (jeu d'ombre équinoxial) ; les substantiels alignements divers de temples égyptiens ; le substantiel Torreón inca au Machu Picchu
+- **Alignements stellaires** — corrélation Gizeh-Orion ; les substantiels alignements de temples égyptiens vers des étoiles spécifiques (Sirius, Canopus, autres) ; les substantiels alignements mayas vers Vénus ; les substantiels alignements andins vers des étoiles et constellations spécifiques
+- **Alignements lunaires** — les substantiels alignements lunaires de Stonehenge (le cycle d'arrêt lunaire de 18,6 ans) ; le substantiel suivi lunaire maya ; les substantiels alignements lunaires divers à l'échelle mondiale
+- **Alignements précessionnels** — la substantielle hypothèse de *Hamlet's Mill* (traitée dans l'entrée {% wiki(slug="comparative-mythology") %}Mythologie comparée{% end %}) selon laquelle la substantielle mythologie transculturelle encode un contenu précessionnel
 
-### The cross-cultural pattern of mountain-top sacred site selection
+### Le schéma transculturel de sélection de sites sacrés en sommet de montagne
 
-The substantial cross-cultural pattern of "mountain-top" or "high-place" sacred site selection appears across virtually every major religious tradition:
+Le substantiel schéma transculturel de sélection de sites sacrés en « sommet de montagne » ou en « lieu élevé » apparaît à travers virtuellement chaque grande tradition religieuse :
 
-- **The Hebrew Bible mountain sites** — Mount Sinai, Mount Zion, Mount Moriah, Mount Carmel, the substantial broader Hebrew Bible mountain-as-sacred-site pattern
-- **The substantial Greek sacred mountains** — Mount Olympus, Mount Parnassus, Mount Athos, Mount Ida, the substantial broader Greek mountain-as-divine-residence pattern
-- **The substantial Andean sacred mountains** — Machu Picchu and the substantial broader Inca apu (mountain spirit) tradition; the substantial Aymara achachilas; the substantial Mapuche pillan
-- **The substantial Himalayan sacred mountains** — Mount Kailash (the substantial Hindu-Buddhist-Jain-Bön sacred mountain); Mount Meru; the substantial broader Himalayan religious tradition
-- **The substantial Japanese sacred mountains** — Mount Fuji, Mount Koya, Mount Hiei, the substantial broader Shinto sangaku-shinkō (mountain worship) tradition
-- **The substantial Chinese sacred mountains** — the substantial Five Great Mountains (Tai Shan, Hua Shan, Heng Shan North, Heng Shan South, Song Shan); the substantial Daoist and Buddhist sacred mountain tradition
-- **The substantial Native American sacred mountains** — the substantial Lakota Bear Butte; the substantial Navajo Four Sacred Mountains; the substantial Apache and other tribal sacred-mountain traditions
+- **Les sites de montagne de la Bible hébraïque** — mont Sinaï, mont Sion, mont Moriah, mont Carmel, le schéma plus large substantiel de la Bible hébraïque montagne-comme-site-sacré
+- **Les substantielles montagnes sacrées grecques** — mont Olympe, mont Parnasse, mont Athos, mont Ida, le schéma plus large substantiel grec montagne-comme-résidence-divine
+- **Les substantielles montagnes sacrées andines** — Machu Picchu et la substantielle tradition inca plus large des apu (esprits des montagnes) ; les substantiels achachilas aymaras ; les substantiels pillan mapuches
+- **Les substantielles montagnes sacrées himalayennes** — mont Kailash (la substantielle montagne sacrée hindoue-bouddhiste-jaïn-bön) ; mont Meru ; la substantielle tradition religieuse himalayenne plus large
+- **Les substantielles montagnes sacrées japonaises** — mont Fuji, mont Koya, mont Hiei, la substantielle tradition shinto plus large du sangaku-shinkō (culte des montagnes)
+- **Les substantielles montagnes sacrées chinoises** — les substantielles Cinq Grandes Montagnes (Tai Shan, Hua Shan, Heng Shan du Nord, Heng Shan du Sud, Song Shan) ; la substantielle tradition taoïste et bouddhiste des montagnes sacrées
+- **Les substantielles montagnes sacrées amérindiennes** — la substantielle Bear Butte lakota ; les substantielles quatre montagnes sacrées navajos ; les substantielles traditions apaches et autres traditions tribales de montagnes sacrées
 
-The substantial cross-cultural mountain-as-sacred-site pattern is one of the most strongly cross-culturally distributed patterns in comparative religion. The corpus reading: the pattern substantially preserves cultural memory of the alliance's high-mountain Earth-base locations, with the substantial subsequent cultural-religious sanctification of those locations reflecting substantial transmission of the cultural memory across the substantial post-flood centuries.
+Le substantiel schéma transculturel montagne-comme-site-sacré est l'un des schémas les plus fortement distribués transculturellement en religion comparée. Lecture du corpus : le schéma préserve substantiellement la mémoire culturelle des localisations des bases terrestres en haute montagne de l'alliance, la substantielle sanctification culturelle-religieuse subséquente de ces localisations reflétant une substantielle transmission de la mémoire culturelle à travers les substantiels siècles post-Déluge.
 
-### The convergence
+### La convergence
 
-The cross-cultural pattern of megalithic and monumental construction operates as one of the substantial broadest cross-cultural patterns the discipline of Comparative Mythology has identified. The pattern's distribution across virtually every major civilization warrants substantive engagement.
+Le schéma transculturel de construction mégalithique et monumentale opère comme l'un des schémas transculturels les plus largement substantiels que la discipline de la {% wiki(slug="comparative-mythology") %}Mythologie comparée{% end %} ait identifiés. La distribution du schéma à travers virtuellement chaque grande civilisation mérite un engagement substantiel.
 
-The corpus position: the cross-cultural pattern reflects multiple causal factors operating together. **Common human cultural-developmental processes** (the universal human capacity for substantial communal labor, substantial astronomical observation, substantial sustained intergenerational construction projects) substantially explain the cross-cultural emergence of monumental construction. **Specific alliance influence on specific traditions** (the cultural-cultivation operations across the various Eloha-team regional contexts; the substantial prophetic missions that established cultural-religious frameworks within which monumental construction was undertaken) substantially shapes the specific forms the cross-cultural pattern takes in specific traditions. **The substantial cross-cultural mountain-sacred-site pattern** specifically reflects substantial cultural memory of the alliance high-mountain base locations.
+Position du corpus : le schéma transculturel reflète plusieurs facteurs causaux opérant ensemble. **Les processus communs de développement culturel humain** (la capacité humaine universelle d'un travail communal substantiel, d'une observation astronomique substantielle, de projets de construction intergénérationnels soutenus substantiels) expliquent substantiellement l'émergence transculturelle de la construction monumentale. **L'influence d'alliance spécifique sur des traditions spécifiques** (les opérations de cultivation culturelle à travers les divers contextes régionaux des équipes Élohim ; les substantielles missions prophétiques qui ont établi les cadres culturels-religieux dans lesquels la construction monumentale a été entreprise) façonne substantiellement les formes spécifiques que prend le schéma transculturel dans des traditions spécifiques. **Le substantiel schéma transculturel montagne-site-sacré** reflète spécifiquement la mémoire culturelle substantielle des localisations des bases en haute montagne de l'alliance.
 
-The corpus does not require — and does not adopt — the strong "Ancient Builder race" framing that treats the cross-cultural pattern as evidence of a single lost civilization. The substantial cross-cultural pattern is better explained by the combination of human cultural-developmental processes, specific alliance influence on specific traditions, and substantial cultural memory of alliance presence at specific sacred locations.
-
-## See also
-
-- [Wheel of Heaven](../wheel-of-heaven/)
-- [Ancient Astronaut Hypothesis](../ancient-astronaut-hypothesis/)
-- [Comparative Mythology](../comparative-mythology/)
-- [Neo-Euhemerism](../neo-euhemerism/)
-- [Göbekli Tepe](../gobekli-tepe/)
-- [Atlantis](../atlantis/)
-- [Archaeoastronomy](../archaeoastronomy/)
-- [Sacred Geometry](../sacred-geometry/)
-- [Precession](../precession/)
-- [Hamlet's Mill](../hamlets-mill/)
-- [Elohim](../elohim/)
-- [Yahweh](../yahweh/)
-- [Serpent](../serpent/)
-- [Theomachy](../theomachy/)
-- [Noah](../noah/)
-- [Babel](../babel/)
-- [Ezekiel](../ezekiel/)
-- [Raël](../rael/)
-- [Raëlism](../raelism/)
-- [Message from the Designers](../message-from-the-designers/)
-- [Age of Leo](../age-of-leo/)
-- [Age of Cancer](../age-of-cancer/)
-- [Age of Gemini](../age-of-gemini/)
-
-## References
-
-### Principal Raëlian source
-
-Vorilhon, Claude (Raël). *Le Livre qui dit la vérité*. 1974.
-
-Vorilhon, Claude (Raël). *Les Extra-Terrestres m'ont emmené sur leur planète*. 1975.
-
-Vorilhon, Claude (Raël). *Accueillir les Extra-Terrestres*. 1979.
-
-Vorilhon, Claude (Raël). *Message from the Designers*. Tagman Press, 2005.
-
-### Mainstream archaeology and engineering on megalithic construction
-
-Lehner, Mark. *The Complete Pyramids: Solving the Ancient Mysteries*. Thames & Hudson, 1997.
-
-Lehner, Mark, and Zahi Hawass. *Giza and the Pyramids: The Definitive History*. University of Chicago Press, 2017.
-
-Pitts, Mike. *Hengeworld*. Century, 2000.
-
-Parker Pearson, Mike. *Stonehenge: Exploring the Greatest Stone Age Mystery*. Simon & Schuster, 2012.
-
-Protzen, Jean-Pierre. *Inca Architecture and Construction at Ollantaytambo*. Oxford University Press, 1993.
-
-Hunt, Terry, and Carl Lipo. *The Statues That Walked: Unraveling the Mystery of Easter Island*. Free Press, 2011.
-
-Tallet, Pierre. *Les papyrus de la Mer Rouge I: Le "Journal de Merer"*. Institut français d'archéologie orientale, 2017.
-
-Nash, David E., et al. "Origins of the sarsen megaliths at Stonehenge." *Science Advances* 6, no. 31 (2020): eabc0133.
-
-### Alternative archaeology and Ancient Builders tradition
-
-Hancock, Graham. *Fingerprints of the Gods: The Evidence of Earth's Lost Civilization*. Crown, 1995.
-
-Hancock, Graham. *Magicians of the Gods: The Forgotten Wisdom of Earth's Lost Civilization*. Thomas Dunne, 2015.
-
-Hancock, Graham. *America Before: The Key to Earth's Lost Civilization*. St. Martin's Press, 2019.
-
-Hancock, Graham. *Underworld: The Mysterious Origins of Civilization*. Crown, 2002.
-
-Schoch, Robert M. *Voices of the Rocks: A Scientist Looks at Catastrophes and Ancient Civilizations*. Harmony, 1999.
-
-West, John Anthony. *Serpent in the Sky: The High Wisdom of Ancient Egypt*. Quest, 1993.
-
-Dunn, Christopher. *The Giza Power Plant: Technologies of Ancient Egypt*. Bear & Company, 1998.
-
-### Atlantis tradition
-
-Plato. *Timaeus* and *Critias*. Various editions.
-
-Donnelly, Ignatius. *Atlantis: The Antediluvian World*. Harper & Brothers, 1882.
-
-Cayce, Edgar. *Edgar Cayce on Atlantis*. Edited by Edgar Evans Cayce. Hawthorn, 1968.
-
-Vidal-Naquet, Pierre. *The Atlantis Story: A Short History of Plato's Myth*. University of Exeter Press, 2007.
-
-### Ancient-astronaut engagement
-
-von Däniken, Erich. *Chariots of the Gods? Unsolved Mysteries of the Past*. G. P. Putnam's Sons, 1969.
-
-Sitchin, Zecharia. *The 12th Planet*. Stein and Day, 1976.
-
-### Göbekli Tepe
-
-Schmidt, Klaus. *Göbekli Tepe: A Stone Age Sanctuary in South-Eastern Anatolia*. ex oriente, 2012.
-
-Dietrich, Oliver, et al. "The role of cult and feasting in the emergence of Neolithic communities: New evidence from Göbekli Tepe, south-eastern Turkey." *Antiquity* 86, no. 333 (2012): 674-695.
-
-### Younger Dryas Impact Hypothesis
-
-Firestone, Richard B., et al. "Evidence for an extraterrestrial impact 12,900 years ago that contributed to the megafaunal extinctions and the Younger Dryas cooling." *Proceedings of the National Academy of Sciences* 104, no. 41 (2007): 16016-16021.
-
-Powell, James Lawrence. *Deadly Voyager: The Ancient Comet Strike That Changed Earth and Human History*. Powell Books, 2020.
-
-### Web resources
-
-"Megalith." *Wikipedia*. <https://en.wikipedia.org/wiki/Megalith>.
-
-"Stonehenge." *Wikipedia*. <https://en.wikipedia.org/wiki/Stonehenge>.
-
-"Egyptian pyramids." *Wikipedia*. <https://en.wikipedia.org/wiki/Egyptian_pyramids>.
-
-"Göbekli Tepe." *Wikipedia*. <https://en.wikipedia.org/wiki/G%C3%B6bekli_Tepe>.
-
-"Younger Dryas impact hypothesis." *Wikipedia*. <https://en.wikipedia.org/wiki/Younger_Dryas_impact_hypothesis>.
-
-"Atlantis." *Wikipedia*. <https://en.wikipedia.org/wiki/Atlantis>.
+Le corpus n'exige pas — et n'adopte pas — le cadrage fort d'une « race des anciens bâtisseurs » qui traite le schéma transculturel comme preuve d'une seule civilisation disparue. Le substantiel schéma transculturel est mieux expliqué par la combinaison des processus de développement culturel humain, de l'influence d'alliance spécifique sur des traditions spécifiques, et de la mémoire culturelle substantielle de la présence d'alliance sur des localisations sacrées spécifiques.

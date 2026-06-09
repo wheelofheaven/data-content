@@ -1,597 +1,615 @@
 +++
 title = "古代建造者"
-description = "古代建造者是指承担地球主要巨石结构的史前和原史时期文明,其技术与天文精度超出了传统考古学赋予其时代的水准。在 Wheel of Heaven 框架内,他们被读作厄罗欣技术传递的直接或间接继承者。"
+slug = "ancient-builders"
+description = "古代建造者,在通俗与另类考古学用法中,是这样一项命题:一个或多个失落或未知的文明,负责建造了在全球各地发现的众多大型古代石造纪念物 — 包括埃及金字塔、巨石阵、萨克塞瓦曼与马丘比丘等安第斯巨石遗址、复活节岛摩艾石像、马耳他巨石神庙等等 — 其依据是,所需的建造技术超出了惯常归属于这些纪念物之文明的技术能力。Wheel of Heaven 框架对此命题谨慎对待。本文集不采纳更广义的「古代建造者种族」框架的强形式,即将可见的巨石纪念物视为这样的证据:惯常归属于这些纪念物之人类文明不可能建造它们。这种强形式框架,正是冯·丹尼肯式那种对原住民成就轻视性的解读,而本文集在「远古外星人理论」条目中已明确与之划清界限。本文集的立场是:可见的巨石纪念物主要由惯常归属于这些纪念物之人类文明所建造,所用技术在实验考古学的记录中已大体上得到记载。本文集所实质性涉及的是若干相关但有别的现象:佛里翁源材料指出的、位于高山与海底的洪水前同盟基地(佛里翁源材料中关于安第斯、喜马拉雅、希腊与海底基地的主要内容);可见主要纪念物的洪水后人类文明性成就,本文集将其视为实质性的人类成就,其在天文与几何上的高度精致反映了实质性的人类文化发展;实质性的哥贝克力石阵革命及其对纪念性建造起源远早于先前所认为之时间的含意;以及巨石与纪念性建造传统的实质性跨文化模式,本文集将其解读为反映了实质性的共同文化发展过程,同时具体同盟对具体传统的影响也并存其中。"
 template = "wiki-page.html"
 toc = true
 
 [extra]
-translation_status = "metadata_only"
 editorial_pass = "2026-05"
+claim_type = "framework"
 category = "Peoples & Groups"
 entry_type = "concept"
-alternative_names = ["Ancient Builders", "Builder Race", "Megalithic Builders", "the Builders", "lost civilization (broader popular usage)", "Atlantean builders (in Atlantis-tradition usage)"]
+alternative_names = ["古代建造者", "建造者种族", "巨石建造者", "建造者", "失落文明(更广义的通俗用法)", "亚特兰蒂斯建造者(在亚特兰蒂斯传统的用法中)"]
 timeline = ["age-of-leo", "age-of-cancer", "age-of-gemini", "age-of-taurus"]
+see_also = [
+    { title = "远古外星人理论", path = "wiki/ancient-astronaut-hypothesis", description = "古代建造者诸主张作为其下一个子集而运作的更广义诠释框架;本文集与冯·丹尼肯式强形式框架的具体区别。" },
+    { title = "比较神话学", path = "wiki/comparative-mythology", description = "处理巨石与纪念性建造传统跨文化分布的学科背景。" },
+    { title = "新欧赫梅鲁斯主义", path = "wiki/neo-euhemerism", description = "将神话内容读作真实事件之压缩历史记忆的诠释方法。" },
+    { title = "众神之战", path = "wiki/theomachy", description = "同盟内部的派系冲突 — 其中蛇派系在海底位置的隐匿,与佛里翁源材料中的海底基地内容相关。" },
+    { title = "蛇", path = "wiki/serpent", description = "路西法 / 蛇派系 — 其在伊甸事件后被流放至地球,与同盟海底基地的内容相关。" },
+    { title = "考古天文学", path = "wiki/archaeoastronomy", description = "对纪念性建筑中天文对齐的学科性研究。" },
+    { title = "神圣几何学", path = "wiki/sacred-geometry", description = "跨传统的纪念性建筑中所呈现的几何精致性。" },
+    { title = "岁差", path = "wiki/precession", description = "古代纪念物对其追踪的 25,800 年天文周期,值得实质性的研究。" },
+]
+
+footnotes = [
+    { content = "强形式的「古代建造者种族」框架 — 即认为惯常归属的文明不可能建造他们自己的纪念物 — 具有实质上的文化轻视维度,本文集在方法论与伦理两方面均予以拒绝。该框架在其十九世纪与二十世纪的表述中,常与关于哪些族群「有能力」从事纪念性建造的明确种族等级假设相重合。因此,本文集对原住民成就的尊重不仅是一种方法论上的偏好,更是实质性的伦理承诺:埃及人建造了埃及金字塔;印加人建造了萨克塞瓦曼;拉帕努伊人建造了摩艾石像;新石器时代的马耳他人建造了马耳他神庙。惯常归属在实质上是正确的,实验考古学的记录大体上记载了所采用的建造方法。" },
+    { content = "佛里翁源材料中关于同盟地球基地的内容,所描述的是运作性设施 — 实验室、居住、通讯与能源基础设施 — 而非作为可见象征的纪念性建造物。这一区别对本文集的立场至关重要。源材料所指出的位于喜马拉雅、安第斯、希腊及其他地区的高山基地,并不是另类考古学传统通常所指向的可见巨石纪念物(吉萨、巨石阵、萨克塞瓦曼、摩艾石像)。这些基地留下的是零散的文化痕迹 — 本文集将跨文化中实质性的「神圣山」模式读作保存了对同盟存在的文化记忆 — 而非留存的物理建筑。可见的巨石纪念物是另一个独立的现象,是实质上属于人类的成就,本文集并不将二者混为一谈。" },
+    { content = "罗伯特·肖赫基于水蚀模式对吉萨大狮身人面像所做的地质学重新定年论证,提出了比惯常第四王朝归属(约公元前 2500 年)早得多的日期 — 可能早至上一次冰期结束之前(约公元前 10,000 年甚至更早)。学院派埃及学界的主流回应在实质上是否定的;争论仍未定论。本文集将狮身人面像重新定年问题视为实质上开放的经验性问题,而非任何一方已有定论的事实。若肖赫的重新定年最终得到确认,其对本文集框架的含意将是重大的;然而,本文集并不将其解读建立在该重新定年正确这一假设之上。" },
+    { content = "本文集在描述层面涉及新仙女木撞击假说(YDIH)— 即关于约距今 12,900 年前一次重大灾难性事件存在实质性证据,值得实质性研究 — 但并不将汉考克式的「失落的先进文明」框架作为其推断的后果加以采纳。前新仙女木时期实质上的人类族群,在实质上是具有可观文化精致性的狩猎—采集文化,而非亚特兰蒂斯式的先进文明。新仙女木事件(若属实)将实质上扰乱了这些族群,而无需以一个失落的超级文明来加以解释。新仙女木事件与本文集框架内部巨蟹—双子座边界、约公元前 6,690 年的洪水之间的关系是实质上有别的:新仙女木事件(若得到确认)将是一次实质上较早的灾难性插段,而非主要的洪水事件。" },
+    { content = "本文集将亚特兰蒂斯传统视为具有实质性文化—宗教意义的实质性诠释传统,而并不采纳在唐纳利—凯西—汉考克谱系中累积的实质性具体主张。本文集不要求承诺其位于大西洋中部的地理位置,不承诺凯西式实质性的「水晶」科技内容,也不将亚特兰蒂斯认同为后续文明的主要源头。本文集所确实涉及的,是这一实质性可能性:柏拉图的论述保存了对一个真实的洪水前文明 — 无论是伊甸文明本身,还是其他六支世系之一 — 的文化记忆,而地理细节则反映了片段记忆在洪水后的位移。亚特兰蒂斯的专题处理,在专属条目撰写时将于其中展开。" },
+    { content = "哥贝克力石阵约公元前 9600 年的年代学,按本文集的纪年法,将该遗址置于狮子座时代晚期 / 巨蟹座时代早期 — 实质上早于巨蟹—双子座边界、约公元前 6,690 年的洪水事件。因此,按本文集的解读,该遗址属于大洪水前时期。围合结构在约公元前 8000 年所进行的实质性蓄意掩埋,可能保存了对即将到来之洪水的文化记忆。按本文集的解读,该遗址的狩猎—采集建造者,是在后伊甸 / 洪水前的巨蟹座时段,持续在同盟培育之下的人类族群,其实质性的纪念性建造能力反映的是经培育的文化发展,而非独立的产生。" },
+]
+
+[[extra.references]]
+id = "the-book-which-tells-the-truth"
+note = "关于同盟地球基地内容的奠基性雷尔派源材料 — 高山与海底设施,与可见的巨石纪念物有别。"
+
+[[extra.references]]
+id = "extraterrestrials-took-me-to-their-planet"
+note = "佛里翁第二部雷尔派著作(1976)— 佩里戈尔访问与关涉地球基地运作的实质性同盟历史内容。"
+
+[[extra.references]]
+id = "lets-welcome-the-extraterrestrials"
+note = "佛里翁第三部雷尔派著作(1979)— 大使馆计划与实质性的水瓶座时代内容。"
+
+[[extra.references]]
+id = "the-complete-pyramids"
+note = "莱纳关于埃及金字塔群标准的单卷本学术论述 — 劳动力、方法、年代学。"
+
+[[extra.references]]
+id = "giza-and-the-pyramids"
+note = "莱纳与哈瓦斯 2017 年关于吉萨高原考古的权威综合,包括「赫特埃尔古拉布」工人村。"
+
+[[extra.references]]
+id = "journal-de-merer-tallet"
+note = "塔莱所校订的瓦迪贾尔夫纸草关键校勘版,包括《梅勒尔日志》— 这份工头日志记录了大金字塔外装石的运输作业。"
+
+[[extra.references]]
+id = "hengeworld"
+note = "皮茨对晚期新石器时代与早期青铜时代环壕传统的通俗综合,以巨石阵为核心案例。"
+
+[[extra.references]]
+id = "stonehenge-parker-pearson"
+note = "帕克·皮尔森基于巨石阵河滨项目所作的当代学术综合,包括杜灵顿墙与青石采石场工作。"
+
+[[extra.references]]
+id = "nash-sarsen-megaliths-2020"
+note = "西沙石巨石源头在马尔伯勒丘陵西林地的地球化学鉴定 — 解决了长期存在的运输问题。"
+
+[[extra.references]]
+id = "inca-architecture-ollantaytambo"
+note = "普罗岑通过现场复原对印加多边形砌石技法所作的奠基性实验考古学研究。"
+
+[[extra.references]]
+id = "statues-that-walked"
+note = "亨特与利波对复活节岛考古学的主要当代研究,包括 2012 年「行走式」运输实验。"
+
+[[extra.references]]
+id = "fingerprints-of-the-gods"
+note = "汉考克 1995 年的奠基之作,阐述了当代失落文明假说。"
+
+[[extra.references]]
+id = "magicians-of-the-gods"
+note = "汉考克 2015 年以新仙女木撞击假说证据对该框架的更新。"
+
+[[extra.references]]
+id = "america-before"
+note = "汉考克 2019 年将该框架扩展至前哥伦布时期美洲的著作。"
+
+[[extra.references]]
+id = "underworld-hancock"
+note = "汉考克 2002 年对全球海下考古遗址的研究 — 马耳他、坎贝湾、与那国岛、比米尼路。"
+
+[[extra.references]]
+id = "voices-of-the-rocks"
+note = "肖赫基于风化模式为吉萨大狮身人面像重新定年的地质学论证。"
+
+[[extra.references]]
+id = "serpent-in-the-sky"
+note = "韦斯特对另类埃及学中实质上更早狮身人面像假说的论述,以及施瓦勒·德·吕比茨的象征主义解读。"
+
+[[extra.references]]
+id = "giza-power-plant"
+note = "邓恩以工程学为焦点的另类埃及学研究,涉及古王国花岗岩文物上具体的机械加工痕迹。"
+
+[[extra.references]]
+id = "vidal-naquet-atlantis-story"
+note = "对柏拉图亚特兰蒂斯传统的当代标准学术论述 — 对任何历史上的亚特兰蒂斯持怀疑态度。"
+
+[[extra.references]]
+id = "atlantis-antediluvian-world"
+note = "唐纳利 1882 年对亚特兰蒂斯传统的奠基性复兴,以及后续通俗亚特兰蒂斯论述的主要源头。"
+
+[[extra.references]]
+id = "edgar-cayce-on-atlantis"
+note = "埃德加·埃文斯·凯西对其父埃德加·凯西 1920 至 1940 年代恍惚状态读经中实质性亚特兰蒂斯内容的汇编。"
+
+[[extra.references]]
+id = "lost-continent-of-mu"
+note = "丘奇沃德 1926 年的奠基性著作,开启了姆 / 太平洋失落文明传统。"
+
+[[extra.references]]
+id = "chariots-of-the-gods"
+note = "冯·丹尼肯 1968 年的奠基之作 — 当代远古外星人传统中影响最为深远的单部文本。本文集对其持批判性立场:本文集明确与之划清界限的,正是冯·丹尼肯式的文化轻视方法论。"
+
+[[extra.references]]
+id = "the-12th-planet"
+note = "西奇 1976 年作 — 其《地球编年史》系列的奠基卷,以及当代阿努纳奇解读的主要源头。"
+
+[[extra.references]]
+id = "gobekli-tepe-schmidt"
+note = "施密特关于哥贝克力石阵发掘工作的奠基性专著。"
+
+[[extra.references]]
+id = "dietrich-gobekli-antiquity-2012"
+note = "迪特里希等人对哥贝克力石阵所作经同行评审的「祭仪与共飨」解读,以及对新石器革命序列的实质性含意。"
+
+[[extra.references]]
+id = "firestone-pnas-2007"
+note = "新仙女木撞击假说的奠基性同行评审科学出版物。"
+
+[[extra.references]]
+id = "deadly-voyager"
+note = "鲍威尔对 2007 年以来所累积之新仙女木撞击假说证据的通俗学术综合。"
 
 [extra.infobox]
-type = "Popular and alternative-archaeology category designating proposed lost or unknown civilizations responsible for major ancient stone monuments; corpus engages selectively rather than adopting the broader framing"
-principal_alternative_archaeology_claims = "Major megalithic monuments (Giza, Stonehenge, Sacsayhuamán, Easter Island moai, Maltese temples, others) too sophisticated for the human civilizations conventionally credited with them; lost advanced civilization (variously named: Atlantean, Lemurian, pre-flood, the Builder Race) responsible for construction"
-corpus_position = "Visible megalithic monuments principally built by the human civilizations to whom they are conventionally attributed, using technologies experimental archaeology substantially documents; the broader 'Ancient Builder race' framing is the von Däniken-style cultural-dismissive reading the corpus has explicitly distanced itself from"
-corpus_engaged_phenomena = "Pre-flood alliance bases on high mountains (Andean, Himalayan, Greek) and submarine locations per the Vorilhon source; post-flood human-civilizational achievement as substantive human accomplishment; Göbekli Tepe revolution and its substantial implications for monumental construction substantially earlier than previously thought; cross-cultural pattern of megalithic-and-monumental construction traditions"
-distinguished_from = "The strong 'Ancient Builder race' framing in popular alternative archaeology (which the corpus does not adopt); the Atlantis tradition narrowly (which the corpus engages as distinct subject matter); the broader Ancient Astronaut Hypothesis (within which Ancient Builder claims operate as one specific subset)"
-status_in_framework = "Selectively engaged: the pre-flood alliance-base content is corpus content; the broader 'Ancient Builder race' framing is registered as adjacent tradition the corpus differs from; the post-flood human-monumental-construction record is engaged at the mainstream-archaeological descriptive level"
+type = "通俗与另类考古学类别,指认所提出的、对主要古代石造纪念物负责的失落或未知文明;本文集选择性地参与,而非采纳更广义的框架"
+principal_alternative_archaeology_claims = "主要巨石纪念物(吉萨、巨石阵、萨克塞瓦曼、复活节岛摩艾石像、马耳他神庙等)对惯常归属于它们的人类文明而言过于精致;一个失落的先进文明(各种名称:亚特兰蒂斯人、雷姆利亚人、洪水前的、建造者种族)负责其建造"
+corpus_position = "可见的巨石纪念物主要由惯常归属于它们的人类文明所建造,所用技术在实验考古学的记录中已大体上得到记载;更广义的「古代建造者种族」框架是冯·丹尼肯式的文化轻视解读,本文集已明确与之划清界限"
+corpus_engaged_phenomena = "据佛里翁源材料,洪水前位于高山(安第斯、喜马拉雅、希腊)与海底的同盟基地;洪水后人类文明性成就作为实质性的人类成就;哥贝克力石阵革命及其对纪念性建造起源远早于先前所认为之时间的实质性含意;巨石与纪念性建造传统的跨文化模式"
+distinguished_from = "通俗另类考古学中强形式的「古代建造者种族」框架(本文集不采纳);严格意义上的亚特兰蒂斯传统(本文集作为另一独立主题加以处理);更广义的远古外星人理论(古代建造者诸主张作为其下一个具体子集而运作)"
+status_in_framework = "选择性参与:洪水前同盟基地内容属本文集内容;更广义的「古代建造者种族」框架记为本文集所区别于的相邻传统;洪水后人类纪念性建造的记录在主流考古学描述层面加以参与"
 +++
 
-**Ancient Builders** is, in popular and alternative-archaeology usage, the proposition that one or more lost or unknown civilizations were responsible for constructing many of the major ancient stone monuments found globally. The principal monuments registered under the Ancient Builders framing include:
+**古代建造者**,在通俗与另类考古学用法中,是这样一项命题:一个或多个失落或未知的文明,负责建造了在全球各地发现的众多主要古代石造纪念物。归入古代建造者框架下的主要纪念物包括:
 
-- The Egyptian pyramids (Giza, Saqqara, Dahshur, others)
-- Stonehenge and the broader European megalithic tradition (Carnac, Newgrange, Avebury)
-- The Andean megalithic sites (Sacsayhuamán, Machu Picchu, Tiwanaku, Puma Punku)
-- The Easter Island moai
-- The Maltese megalithic temples (Ġgantija, Hagar Qim, Mnajdra)
-- Baalbek (Lebanon)
-- Göbekli Tepe (southeastern Turkey)
-- Various other major megalithic sites globally
+- 埃及金字塔(吉萨、塞加拉、达赫舒尔等)
+- 巨石阵与更广义的欧洲巨石传统(卡尔奈克、纽格莱奇、艾夫伯里)
+- 安第斯巨石遗址(萨克塞瓦曼、马丘比丘、蒂瓦纳库、普马彭古)
+- 复活节岛摩艾石像
+- 马耳他巨石神庙(吉甘提亚、哈贾尔基姆、姆纳耶德拉)
+- 巴勒贝克(黎巴嫩)
+- 哥贝克力石阵(土耳其东南部)
+- 全球各地其他多处主要巨石遗址
 
-The framing's core claim: the construction techniques required for these monuments — the quarrying, transport, lifting, and precise placement of stones weighing many tons; the polygonal-interlocking masonry without mortar; the astronomical alignments calibrated to celestial events — exceeded the technological capacities attributed to the civilizations conventionally credited with the monuments. A lost civilization (variously named the Atlanteans, the Lemurians, the pre-flood race, simply "the Builders") is proposed as the actual constructor, with the conventionally-credited civilizations either inheriting the monuments from the earlier builders or being the cultural descendants of the earlier builders themselves.
+该框架的核心主张是:这些纪念物所需的建造技术 — 重达多吨之石的开采、运输、抬升与精准放置;无砂浆的多边形咬合砌筑;与天体事件相校准的天文对齐 — 超出了惯常归属于这些纪念物之文明的技术能力。一个失落的文明(各种名称:亚特兰蒂斯人、雷姆利亚人、洪水前种族,或径称「建造者」)被提出为实际的建造者,而惯常归属的文明,要么从更早的建造者处继承了这些纪念物,要么本身即是更早建造者的文化后裔。
 
-The Wheel of Heaven framework engages this proposition carefully. **The corpus does not adopt the broader "Ancient Builder race" framing in its strong form**, which treats the visible megalithic monuments as evidence that the human civilizations to whom they are attributed could not have built them. This strong framing is the von Däniken-style cultural-dismissive reading of indigenous achievement that the corpus has explicitly distanced itself from in the [Ancient Astronaut Hypothesis](../ancient-astronaut-hypothesis/) entry.
+Wheel of Heaven 框架对此命题谨慎对待。**本文集不采纳更广义的「古代建造者种族」框架的强形式**,即将可见的巨石纪念物视为这样的证据:惯常归属于这些纪念物之人类文明不可能建造它们。这种强形式框架,正是冯·丹尼肯式那种对原住民成就轻视性的解读,而本文集在{% wiki(slug="ancient-astronaut-hypothesis") %}远古外星人理论{% end %}条目中已明确与之划清界限。{{ footnote(id="1") }}
 
-The corpus position: the visible megalithic monuments were principally built by the human civilizations to whom they are conventionally attributed, using technologies the experimental-archaeology record documents. The Egyptians built the Egyptian pyramids; the Neolithic and Bronze Age peoples of Britain built Stonehenge; the Inca built Sacsayhuamán; the Rapa Nui built the Easter Island moai; the Neolithic Maltese built the Maltese temples. The conventional attributions are substantively correct.
+本文集的立场是:可见的巨石纪念物主要由惯常归属于这些纪念物之人类文明所建造,所用技术在实验考古学的记录中已得到记载。埃及人建造了埃及金字塔;不列颠的新石器时代与青铜时代族群建造了巨石阵;印加人建造了萨克塞瓦曼;拉帕努伊人建造了复活节岛摩艾石像;新石器时代的马耳他人建造了马耳他神庙。惯常归属在实质上是正确的。
 
-The corpus engages substantively with several related but distinct phenomena:
+本文集所实质性涉及的,是若干相关但有别的现象:
 
-- **The pre-flood alliance bases.** The Vorilhon source identifies the Elohim alliance as having maintained Earth-bases on high mountains and at submarine locations. The principal Vorilhon-source quotation: *"To avoid being disturbed by humans, the creators built their bases on high mountains, where we now find traces of great civilizations (in the Himalayas and Peru, for example), as well as at the bottom of the sea."* This is genuine corpus content distinct from the broader "Ancient Builder race" claim.
-- **The post-flood human-civilizational achievement.** The visible major monuments are substantively human accomplishment. The astronomical and geometric sophistication of the monuments reflects substantive human cultural development, often within civilizations the alliance had previously cultivated through cultural-cultivation rather than direct construction.
-- **The Göbekli Tepe revolution.** The Turkish site dated to c. 9500 BCE has substantively changed the conventional chronology of monumental construction, demonstrating that pre-agricultural human populations were capable of major coordinated stone construction substantially earlier than the conventional view allowed. Göbekli Tepe deserves its own dedicated entry; brief treatment here.
-- **The cross-cultural pattern.** The substantial cross-cultural distribution of megalithic-and-monumental construction traditions across virtually every major civilization warrants comparative engagement.
+- **洪水前的同盟基地。** 佛里翁源材料指出,{% wiki(slug="elohim") %}耶洛因{% end %}同盟在地球上维持着位于高山与海底的基地。佛里翁源材料的主要引文:*「为了避免受到人类的打扰,造物主把他们的基地建在高山上,在那里我们如今发现伟大文明的痕迹(例如在喜马拉雅和秘鲁),以及在海底。」*{{ cite(id="the-book-which-tells-the-truth", text="[1]", title="佛里翁(雷尔),《讲述真相之书》(1974)— 同盟地球基地内容") }} 这是真实的本文集内容,与更广义的「古代建造者种族」主张有别。{{ footnote(id="2") }}
+- **洪水后人类文明性的成就。** 可见的主要纪念物在实质上属于人类成就。这些纪念物在天文与几何上的精致性,反映了实质性的人类文化发展,且常发生于同盟此前曾通过文化培育而非直接建造而培养过的文明之中。
+- **哥贝克力石阵革命。** 这处年代约公元前 9500 年的土耳其遗址,实质上改变了惯常的纪念性建造年代学,表明前农业期的人类族群即已能进行大规模协调一致的石造建造,其时间实质上早于惯常观点所允许的范围。{{ cite(id="gobekli-tepe-schmidt", text="[2]", title="施密特,《哥贝克力石阵:安纳托利亚东南部的石器时代圣所》(2012)") }} 哥贝克力石阵值得单设专属条目;此处仅作简要处理。
+- **跨文化模式。** 巨石与纪念性建造传统在几乎每一主要文明中的实质性跨文化分布,值得进行比较性的研究。
 
-This entry articulates Ancient Builders carefully — its etymology and disciplinary scope, the principal claims of the alternative-archaeology tradition, the corpus's specific positioning within and against the tradition, the Vorilhon-source content about alliance Earth-bases, the principal cross-cultural mainstream archaeological and engineering engagement, the alternative-archaeology and ancient-astronaut tradition, the Göbekli Tepe revolution and its implications, and the broader cross-cultural megalithic and monumental-construction patterns.
+本条目谨慎地展开古代建造者:其词源与学科范围、另类考古学传统的主要主张、本文集在该传统之内与之外的具体定位、佛里翁源材料中关于同盟地球基地的内容、主流考古学与工程学的主要跨文化研究、另类考古学与远古外星人传统、哥贝克力石阵革命及其含意,以及更广义的巨石与纪念性建造之跨文化模式。
 
-## Etymology and scope
+## 词源与范围
 
-### Etymology
+### 词源
 
-The term *Ancient Builders* combines two components:
+英语术语 *Ancient Builders* 由两部分组成:
 
-- **Ancient** (Latin *antiquus*, "former, of earlier time") — designating the prehistoric and early-historic periods, generally before the rise of modern industrial civilization
-- **Builders** (Old English *byldan*, "to construct") — designating the agents who construct buildings, monuments, or other physical structures
+- **Ancient**(拉丁语 *antiquus*,「从前的、更早时代的」)— 指史前及历史早期,一般在现代工业文明兴起之前
+- **Builders**(古英语 *byldan*,「建造」)— 指建造建筑、纪念物或其他物理结构的行为主体
 
-The compound term *Ancient Builders* designates the agents (whether individuals, groups, or civilizations) responsible for ancient construction. In mainstream archaeological usage, the term is general — applying to all ancient construction activity. In alternative-archaeology usage, the term has acquired the more specific meaning of a lost or unknown advanced civilization responsible for the major megalithic monuments.
+复合词 *Ancient Builders* 指负责古代建造之主体(无论是个人、群体或文明)。在主流考古学用法中,该术语是一般性的 — 适用于一切古代建造活动。在另类考古学用法中,该术语获得了更具体的含义:一个失落或未知的、负责主要巨石纪念物的先进文明。
 
-### Disciplinary scope
+### 学科范围
 
-The Ancient Builders concept operates across multiple registers:
+古代建造者这一概念在多个语域中运作:
 
-- **Mainstream archaeology** treats ancient builders as the documented or reconstructable human populations who built specific monuments at specific times using specific techniques. The discipline does not require any "lost civilization" hypothesis; the construction is treated as accomplished by the populations conventionally attributed with the monuments.
-- **Alternative archaeology** (Graham Hancock, Robert Schoch, John Anthony West, and others) treats the question of whether mainstream attributions are adequate as substantively open. The principal claims: some monuments may be substantially older than conventionally dated; some construction techniques may require explanations the mainstream view does not provide; a lost civilization may have produced the original monuments that later cultures inherited or rebuilt.
-- **Ancient Astronaut tradition** (treated systematically in the [Ancient Astronaut Hypothesis](../ancient-astronaut-hypothesis/) entry) treats some monuments as candidate evidence for extraterrestrial influence in human construction.
-- **The Atlantis tradition** (Plato's *Critias* and *Timaeus*, with extensive subsequent development through Cayce, Hancock, and others) treats the lost civilization as Atlantis specifically.
-- **The Builder Race framing** is the popular alternative-archaeology designation that occasionally appears in YouTube, podcast, and broader internet alternative-archaeology engagement, often without commitment to any specific identification of the proposed lost civilization.
+- **主流考古学**将古代建造者视为在具体时间以具体技术建造具体纪念物的、有文献记载或可重构的人类族群。该学科不需要任何「失落文明」假说;建造被视为由惯常归属于这些纪念物的族群所完成。
+- **另类考古学**(格雷厄姆·汉考克、罗伯特·肖赫、约翰·安东尼·韦斯特等)将「主流归属是否充分」这一问题视为实质上开放的。其主要主张为:某些纪念物可能实质上早于惯常定年;某些建造技术可能需要主流观点所不具备的解释;一个失落的文明可能产生了后世文化所继承或重建的原始纪念物。
+- **远古外星人传统**(在{% wiki(slug="ancient-astronaut-hypothesis") %}远古外星人理论{% end %}条目中有系统处理)将某些纪念物视为人类建造中外星影响的候选证据。
+- **亚特兰蒂斯传统**(柏拉图的《克里底亚篇》与《蒂迈欧篇》,经凯西、汉考克等人有大量后续发展)将该失落文明具体认同为亚特兰蒂斯。
+- **建造者种族框架**则是更通俗的另类考古学称谓,偶见于 YouTube、播客及更广义的互联网另类考古学论述,常常不承诺该提出之失落文明的具体身份。
 
-The corpus's engagement operates principally at the mainstream-archaeological descriptive level for the visible major monuments, with selective engagement on the substantive pre-flood alliance-base content and the substantial Göbekli Tepe revolution.
+本文集主要在主流考古学的描述层面参与可见的主要纪念物,并就实质性的洪水前同盟基地内容与实质性的哥贝克力石阵革命进行选择性参与。
 
-## The principal claims of the alternative-archaeology tradition
+## 另类考古学传统的主要主张
 
-The alternative-archaeology tradition has articulated several principal claims about Ancient Builders. These claims warrant articulation before the corpus's specific positioning, because the corpus differs from each in specific ways.
+另类考古学传统就古代建造者表达了若干主要主张。这些主张值得在本文集的具体定位之前先行表述,因为本文集对每一项都有具体差异。
 
-### Claim 1: The monuments are too sophisticated for the attributed civilizations
+### 主张一:这些纪念物对所归属之文明而言过于精致
 
-The principal claim of the broader Ancient Builders tradition: the construction techniques required for the major megalithic monuments exceeded the technological capacities of the civilizations conventionally credited with them. The principal supporting observations:
+更广义古代建造者传统的主要主张是:主要巨石纪念物所需的建造技术,超出了惯常归属于它们之文明的技术能力。其主要支持观察为:
 
-- **Major stone weight.** Specific monuments incorporate stones weighing many tons, requiring substantial transport and lifting infrastructure. Examples: the Sacsayhuamán stones (up to ~200 tons); the Baalbek trilithon (each stone ~800 tons); the Aswan unfinished obelisk (estimated ~1,000 tons); the Giza pyramid casing stones (multiple tons each); the Stonehenge sarsens (up to ~30 tons).
-- **Long-distance transport.** Specific stones were transported substantial distances from quarries to sites. Examples: the Stonehenge bluestones transported ~200 km from the Preseli Hills in Wales; the Giza granite transported ~800 km from Aswan; specific Andean megalithic stones transported across mountainous terrain.
-- **Precise placement.** The polygonal-interlocking masonry at sites like Sacsayhuamán, Machu Picchu, and Ollantaytambo achieves stone-to-stone fits with gaps "narrower than a knife blade" without mortar. The Giza pyramid's casing stones (originally present, now substantially removed) were similarly precise.
-- **Astronomical alignment.** Specific monuments incorporate calibrated astronomical alignments — Giza-Orion correlations; Stonehenge's solstice alignments; Newgrange's winter-solstice illumination; the Mayan Pyramid of Kukulkan's equinox shadow play; many others.
-- **Geometric sophistication.** Specific monuments incorporate complex geometric relationships — golden-ratio proportions; trigonometric relationships; precise cardinal-direction alignments; latitude-encoding measurements.
+- **巨大的石重。** 具体的纪念物含有重达多吨的石材,需要相当的运输与抬升基础设施。例如:萨克塞瓦曼石材(最高约 200 吨);巴勒贝克的三巨石(每块约 800 吨);阿斯旺的未完成方尖碑(估计约 1,000 吨);吉萨金字塔的外装石(每块多吨);巨石阵的西沙石(最高约 30 吨)。
+- **长距离运输。** 具体的石材自采石场长距离运至遗址。例如:巨石阵的青石自威尔士的普雷塞利丘陵运输约 200 公里;吉萨的花岗岩自阿斯旺运输约 800 公里;具体的安第斯巨石跨越山地地形运输。
+- **精准放置。** 萨克塞瓦曼、马丘比丘与奥扬泰坦博等遗址的多边形咬合砌筑,在无砂浆的情况下达到石与石之间「比刀刃还窄」的缝隙咬合。吉萨金字塔的外装石(原本存在,现已大部分被移除)同样精准。
+- **天文对齐。** 具体的纪念物纳入了经校准的天文对齐 — 吉萨—猎户座的对应;巨石阵的至日对齐;纽格莱奇的冬至光照;玛雅库库尔坎金字塔的春分阴影表演;以及许多其他例子。
+- **几何精致性。** 具体的纪念物纳入了复杂的几何关系 — 黄金比例的比例;三角学关系;精确的正方位对齐;编码纬度的测量值。
 
-The conclusion the alternative-archaeology tradition draws: the conventionally-credited civilizations did not have the technological capacity for these achievements, therefore a more advanced civilization must have been responsible.
+另类考古学传统由此得出结论:惯常归属的文明并不具备这些成就所需的技术能力,因此必有一更先进的文明负责。
 
-### Claim 2: The lost civilization is identifiable
+### 主张二:该失落文明可以指认
 
-The alternative-archaeology tradition has variously identified the proposed lost civilization:
+另类考古学传统对这一所提出之失落文明有多种指认:
 
-- **Atlantis** — Plato's *Critias* and *Timaeus* describe a lost civilization beyond the Pillars of Hercules destroyed in a catastrophic flood; the subsequent Atlantis tradition (Donnelly's 1882 *Atlantis: The Antediluvian World*; Cayce's 1920s-1940s readings; Hancock's contemporary work) substantially elaborates this
-- **Lemuria / Mu** — the Pacific equivalent of Atlantis, popularized by Augustus Le Plongeon and James Churchward in the late 19th and early 20th centuries
-- **The Cygnus / Sirius / Pleiadian source** — various ancient-astronaut framings linking specific monuments to specific star systems
-- **The pre-flood civilization** — broader Younger Dryas-era civilizational catastrophe framings, with the substantial pre-Younger-Dryas civilization destroyed by the proposed Younger Dryas Impact event (c. 12,900 BCE)
-- **The Builder Race** — the more agnostic popular framing that posits a lost civilization without committing to its specific identity
+- **亚特兰蒂斯** — 柏拉图的《克里底亚篇》与《蒂迈欧篇》描述了一个位于赫拉克勒斯之柱以外、在一场灾难性洪水中被毁的失落文明;{{ cite(id="vidal-naquet-atlantis-story", text="[3]", title="维达—纳凯,《亚特兰蒂斯故事》(2007)— 关于柏拉图传统的学术论述") }} 后续的亚特兰蒂斯传统(唐纳利 1882 年《亚特兰蒂斯:大洪水前的世界》;{{ cite(id="atlantis-antediluvian-world", text="[4]", title="唐纳利,《亚特兰蒂斯:大洪水前的世界》(1882)— 十九世纪奠基性的亚特兰蒂斯复兴") }} 凯西 1920 至 1940 年代的读经;{{ cite(id="edgar-cayce-on-atlantis", text="[5]", title="《埃德加·凯西论亚特兰蒂斯》(1968)— 「沉睡的先知」对亚特兰蒂斯的读经") }} 汉考克的当代著作)对此实质上作了进一步发挥
+- **雷姆利亚 / 姆** — 亚特兰蒂斯的太平洋等价物,十九世纪末至二十世纪初由奥古斯都·勒·普隆隆与詹姆斯·丘奇沃德加以推广{{ cite(id="lost-continent-of-mu", text="[6]", title="丘奇沃德,《失落的姆大陆》(1926)— 奠基性的姆 / 太平洋失落文明文本") }}
+- **天鹅座 / 天狼星 / 昴宿星来源** — 将具体纪念物与具体星系相联系的各种远古外星人框架
+- **洪水前文明** — 更广义的新仙女木时代文明性灾难框架,其中实质上存在的前新仙女木文明在所提出之新仙女木撞击事件(约公元前 12,900 年)中被摧毁
+- **建造者种族** — 较为不可知论的通俗框架,在不承诺其具体身份的情况下,提出存在一个失落的文明
 
-### Claim 3: The conventional chronology is wrong
+### 主张三:惯常的年代学是错的
 
-The alternative-archaeology tradition substantially disputes the conventional dating of specific monuments:
+另类考古学传统在实质上对具体纪念物的惯常定年提出质疑:
 
-- **The Sphinx** — Robert Schoch's water-erosion argument proposes that the Sphinx is substantially older than the conventional ~2500 BCE dating, possibly dating to before the end of the last glacial period (~10,000 BCE or earlier)
-- **The Andean megalithic sites** — various alternative-archaeology arguments propose that specific Andean sites (particularly the lowest courses at Sacsayhuamán and Puma Punku) are substantially older than the conventional Inca-era dating
-- **Various other sites** — substantially older dating claims for specific monuments
+- **狮身人面像** — 罗伯特·肖赫的水蚀论证提出狮身人面像实质上早于惯常的约公元前 2500 年定年,可能早至上一次冰期结束之前(约公元前 10,000 年甚至更早){{ cite(id="voices-of-the-rocks", text="[7]", title="肖赫,《岩石之声》(1999)— 关于狮身人面像重新定年的地质学论证") }}{{ footnote(id="3") }}
+- **安第斯巨石遗址** — 各种另类考古学论证提出,具体的安第斯遗址(尤其是萨克塞瓦曼与普马彭古的最低层位)实质上早于惯常的印加时代定年
+- **其他多处遗址** — 关于具体纪念物的实质性更早定年的主张
 
-### Claim 4: The construction techniques are unexplained
+### 主张四:建造技术尚无法解释
 
-The alternative-archaeology tradition argues that specific construction techniques have not been adequately explained by mainstream archaeology:
+另类考古学传统主张某些具体建造技术尚未得到主流考古学的充分解释:
 
-- How were the Baalbek trilithons quarried, transported, and placed?
-- How was the polygonal-interlocking masonry achieved with the precision observed?
-- How were the Giza pyramid's internal granite blocks (each weighing many tons) transported up the rising pyramid structure?
-- How were the Stonehenge sarsens raised into vertical position?
-- How were the Easter Island moai transported across the island and erected?
+- 巴勒贝克的三巨石是如何开采、运输与放置的?
+- 多边形咬合砌筑如何达到所观察到的精度?
+- 吉萨金字塔内部的花岗岩石块(每块重达多吨)是如何在金字塔逐渐升高的结构中向上运输的?
+- 巨石阵的西沙石是如何被竖立起来的?
+- 复活节岛的摩艾石像是如何跨越全岛运输并竖立起来的?
 
-## The corpus's positioning
+## 本文集的定位
 
-The Wheel of Heaven framework operates with substantively careful positioning on Ancient Builders. The corpus accepts some elements of the alternative-archaeology tradition's claims while substantially rejecting others.
+Wheel of Heaven 框架对古代建造者持实质上谨慎的定位。本文集接受另类考古学传统主张中的某些要素,同时实质上拒绝其他要素。
 
-### What the corpus accepts
+### 本文集所接受的部分
 
-- **The pre-flood alliance bases existed.** The Vorilhon source's identification of high-mountain and submarine alliance bases is corpus content. The principal Vorilhon-source quote: *"To avoid being disturbed by humans, the creators built their bases on high mountains, where we now find traces of great civilizations (in the Himalayas and Peru, for example), as well as at the bottom of the sea. Gradually the mountain stations were abandoned in favor of submarine bases less accessible to humans."* The alliance bases are substantive corpus content.
-- **The Göbekli Tepe revolution is genuine.** The Turkish site dated to c. 9500 BCE substantially predates the conventional Neolithic-revolution chronology and demonstrates monumental construction capability substantially earlier than previously believed. Göbekli Tepe's implications for the broader pre-flood civilizational picture are substantial.
-- **The pre-flood civilizational catastrophe is plausible.** The Younger Dryas Impact Hypothesis (Firestone et al., 2007, and substantial subsequent development) has accumulated substantial evidence for a major cosmic impact or atmospheric airburst event ~12,900 BCE, with substantial implications for any pre-flood civilizations that may have existed.
-- **The cross-cultural pattern is real.** The cross-cultural distribution of megalithic-and-monumental construction traditions across virtually every major civilization warrants substantive comparative engagement.
+- **洪水前的同盟基地确曾存在。** 佛里翁源材料对高山与海底同盟基地的认定属本文集内容。佛里翁源材料的主要引文:*「为了避免受到人类的打扰,造物主把他们的基地建在高山上,在那里我们如今发现伟大文明的痕迹(例如在喜马拉雅和秘鲁),以及在海底。山地基地逐渐被人类较难接近的海底基地所取代。」* 同盟基地是实质性的本文集内容。
+- **哥贝克力石阵革命是真实的。** 这处年代约公元前 9500 年的土耳其遗址实质上早于惯常的新石器革命年代学,表明在实质上早于先前所认为之时间,即已具备纪念性建造能力。{{ cite(id="dietrich-gobekli-antiquity-2012", text="[8]", title="迪特里希等,《祭仪与共飨在新石器社群兴起中的作用》(《古物》2012)") }} 哥贝克力石阵对更广义洪水前文明图景的含意是实质性的。{{ footnote(id="6") }}
+- **洪水前文明性灾难是有可能的。** 新仙女木撞击假说(费尔斯通等,2007,{{ cite(id="firestone-pnas-2007", text="[9]", title="费尔斯通等,《距今 12,900 年前外星撞击的证据》(《PNAS》2007)") }} 及实质性的后续发展{{ cite(id="deadly-voyager", text="[10]", title="鲍威尔,《致命旅人》(2020)— 已累积之 YDIH 证据的综合") }})已积累了关于约公元前 12,900 年一次重大宇宙撞击或大气空爆事件的实质性证据,对任何可能存在过的洪水前文明具有实质性含意。{{ footnote(id="4") }}
+- **跨文化模式是真实的。** 巨石与纪念性建造传统在几乎每一主要文明中的跨文化分布,值得进行实质性的比较性研究。
 
-### What the corpus differs from
+### 本文集所区别于的部分
 
-- **The strong "Ancient Builder race" framing.** The claim that visible monuments are too sophisticated for the conventionally-credited civilizations is methodologically problematic. The experimental-archaeology record substantially documents the construction techniques used at major sites. The corpus has explicitly distanced itself from the cultural-dismissive reading of indigenous achievement in the [Ancient Astronaut Hypothesis](../ancient-astronaut-hypothesis/) entry.
-- **The Atlantis identification narrowly.** The Vorilhon source does not identify any specific "lost civilization" as the principal Earth-builder. The corpus engages Atlantis as a distinct interpretive tradition (treated in the pending [Atlantis](../atlantis/) entry) rather than as the foundation of the Ancient Builder framing.
-- **The "aliens did it" framing for visible monuments.** The visible major monuments (Giza, Stonehenge, Sacsayhuamán, Easter Island, Maltese temples) are substantively human accomplishment. The corpus does not require alien-construction explanations for these monuments.
+- **强形式的「古代建造者种族」框架。** 关于「可见纪念物对惯常归属之文明而言过于精致」这一主张在方法论上存在问题。实验考古学的记录在实质上记载了主要遗址所采用的建造技术。本文集在{% wiki(slug="ancient-astronaut-hypothesis") %}远古外星人理论{% end %}条目中已明确与对原住民成就轻视性的解读划清界限。
+- **严格意义上将亚特兰蒂斯认同为答案。** 佛里翁源材料并未将任何具体的「失落文明」认定为主要的地球建造者。本文集将亚特兰蒂斯视为另一独立的诠释传统(在尚待撰写的[亚特兰蒂斯](../atlantis/)条目中处理),而非古代建造者框架的基础。{{ footnote(id="5") }}
+- **针对可见纪念物的「外星人所为」框架。** 可见的主要纪念物(吉萨、巨石阵、萨克塞瓦曼、复活节岛、马耳他神庙)实质上属于人类成就。本文集不要求对这些纪念物诉诸外星建造的解释。
 
-### What remains genuinely open
+### 仍真正开放的部分
 
-- **The specific extent of pre-flood civilization.** The conventional view treats pre-flood human populations as principally pre-agricultural with limited construction capability. The Göbekli Tepe evidence and the Younger Dryas Impact evidence both suggest substantially more developed pre-flood civilization than the conventional view allowed. The specific extent of this development remains open.
-- **Specific anomalies at specific sites.** Some specific features at specific sites (the Baalbek trilithon's transport mechanism; specific polygonal-interlocking precision at Sacsayhuamán; specific construction details at Puma Punku) remain incompletely explained by mainstream archaeology. The corpus treats these as genuinely open questions requiring continued engagement rather than as either resolved by mainstream explanation or as evidence for alien construction.
-- **The relationship between alliance-base sites and subsequent human monumental construction.** Some major sites may sit on or near former alliance-base locations, with subsequent human populations building on the substantial cultural-religious associations the sites carried from the earlier alliance presence. The specific identification of which major sites have this background relationship remains genuinely open.
+- **洪水前文明的具体程度。** 惯常观点将洪水前的人类族群主要视为前农业期、建造能力有限的族群。哥贝克力石阵证据与新仙女木撞击证据均显示,洪水前文明的实质性发展程度可能远高于惯常观点所允许的程度。该发展的具体程度仍属开放。
+- **具体遗址上的具体异常现象。** 某些遗址的具体特征(巴勒贝克三巨石的运输机制;萨克塞瓦曼具体的多边形咬合精度;普马彭古具体的建造细节)在主流考古学中仍未得到充分解释。本文集将其视为有待继续研究的真正开放问题,而非视为已由主流解释所解决,或视为外星建造的证据。
+- **同盟基地遗址与后续人类纪念性建造之间的关系。** 某些主要遗址可能坐落于、或邻近于先前的同盟基地位置,后续人类族群在该遗址因更早的同盟存在而承载的实质性文化—宗教联想之上进行建造。具体哪些主要遗址具有此种背景关系,仍属真正开放。
 
-### The methodological commitment
+### 方法论上的承诺
 
-The corpus's methodological commitment for Ancient Builders engagement:
+本文集对古代建造者议题之参与所秉持的方法论承诺:
 
-- **Respect for indigenous achievement.** The conventionally-credited civilizations achieved their monuments through human capacity, often substantial. The cultural-dismissive reading of indigenous achievement is methodologically problematic and substantially racist in its historical application.
-- **Engagement with mainstream archaeology.** Mark Lehner's work at Giza, Mike Pitts's work at Stonehenge, the experimental-archaeology programs at multiple sites have substantially documented how specific monuments were constructed. The corpus engages this work at the descriptive level.
-- **Specific anomaly engagement.** Where specific features at specific sites remain incompletely explained, the corpus treats them as open questions worth continued investigation rather than as either resolved or as evidence for alien construction.
-- **Disciplined epistemic pluralism.** The corpus distinguishes between direct source claims (the Vorilhon source on alliance bases), comparative observations (cross-cultural megalithic traditions), corpus interpretations (the integration of alliance-base content with broader cultural-civilizational engagement), and speculative inference (specific identifications of which monuments may carry alliance-base background).
+- **对原住民成就的尊重。** 惯常归属的文明通过其人类能力 — 常常是相当的人类能力 — 成就了其纪念物。对原住民成就轻视性的解读在方法论上存在问题,在其历史应用中实质上具有种族主义色彩。
+- **与主流考古学的参与。** 马克·莱纳在吉萨的工作、{{ cite(id="the-complete-pyramids", text="[11]", title="莱纳,《金字塔大全》(1997)") }} 迈克·皮茨在巨石阵的工作、{{ cite(id="hengeworld", text="[12]", title="皮茨,《环壕世界》(2000)") }} 以及在多个遗址进行的实验考古学项目,已实质上记载了具体纪念物是如何建造的。本文集在描述层面参与这一工作。
+- **针对具体异常的参与。** 在某些遗址的某些具体特征仍未得到充分解释之处,本文集将其视为有待继续研究的开放问题,而非视为已得到解决,或视为外星建造的证据。
+- **有纪律的认识论多元主义。** 本文集区分:直接源材料主张(佛里翁源材料关于同盟基地的内容)、比较性观察(跨文化的巨石传统)、本文集的诠释(将同盟基地内容与更广义文化—文明研究相整合),以及推测性推断(关于具体哪些纪念物可能承载同盟基地背景的具体认同)。
 
-## The Vorilhon source on alliance Earth-bases
+## 佛里翁源材料中关于同盟地球基地的内容
 
-The Vorilhon source identifies substantive alliance Earth-bases that operate as the principal corpus content distinct from the broader Ancient Builder framing. The principal source material.
+佛里翁源材料指出了实质性的同盟地球基地,其作为本文集的主要内容,与更广义的古代建造者框架有别。以下是主要源材料。
 
-### The high-mountain bases
+### 高山基地
 
-The Vorilhon-source quotation the v1 cites:
+第一版所引用的佛里翁源材料引文:
 
-> *"To avoid being disturbed by humans, the creators built their bases on high mountains, where we now find traces of great civilizations (in the Himalayas and Peru, for example), as well as at the bottom of the sea. Gradually the mountain stations were abandoned in favor of submarine bases less accessible to humans. The creators who had been banished at the outset had hidden themselves in the oceans."*
+> *「为了避免受到人类的打扰,造物主把他们的基地建在高山上,在那里我们如今发现伟大文明的痕迹(例如在喜马拉雅和秘鲁),以及在海底。山地基地逐渐被人类较难接近的海底基地所取代。那些起初被驱逐的造物主曾隐匿于海洋之中。」*
 
-The principal content:
+主要内容如下:
 
-- **High-mountain bases existed.** The alliance maintained operational bases on high mountains during the principal Earth-project period.
-- **Specific regions identified.** The Himalayas and Peru (Andes) are explicitly named. The source elsewhere also identifies Greek bases ("in Greece where Greek mythology also contains important testimonies") and various other regional installations.
-- **The bases were operational rather than monumental.** The bases were functional installations for the alliance personnel — laboratories, habitation, communications infrastructure, energy production. They were not monumental constructions intended as visible symbols.
-- **The bases were progressively abandoned.** As humans developed and approached the mountain locations, the alliance progressively moved operations to less accessible submarine locations.
-- **The Serpentine faction's submarine concealment.** The exiled Serpentine faction (treated systematically in the [Theomachy](../theomachy/) and [Serpent](../serpent/) entries) hid in oceanic locations after their banishment from the main alliance, with the submarine bases being principally their installations rather than the main alliance's.
+- **高山基地曾经存在。** 同盟在主要的地球计划时期内,于高山上维持着运作性的基地。
+- **指出了具体地区。** 喜马拉雅与秘鲁(安第斯)被明确点名。源材料在他处亦提到希腊基地(「在希腊,希腊神话同样含有重要的见证」)及其他多个地区性设施。
+- **基地是运作性的,而非纪念性的。** 这些基地是为同盟人员服务的功能性设施 — 实验室、居住、通讯基础设施、能源生产。它们并非作为可见象征的纪念性建造物。
+- **基地被逐步弃用。** 随着人类的发展与对山地位置的接近,同盟逐步将运作转移至较难接近的海底位置。
+- **蛇派系的海底隐匿。** 被流放的{% wiki(slug="serpent") %}蛇派系{% end %}(在{% wiki(slug="theomachy") %}众神之战{% end %}与蛇条目中有系统处理),在被主同盟流放后藏匿于海洋之中,海底基地主要属其设施,而非主同盟所有。
 
-### The Ezekiel passage and high-mountain bases
+### 以西结段落与高山基地
 
-The Vorilhon source engages Ezekiel 11:23-24 as preserving content about alliance Earth-bases:
+佛里翁源材料对以西结书 11:23-24 的解读,将其视为保存了关于同盟地球基地的内容:
 
-> *"And the glory of Yahweh went up from the midst of the city, and stood upon the mountain which is on the east side of the city. Afterwards the spirit took me up, and brought me in a vision by the Spirit of Elohim into Chaldea..."* (Ezekiel 11:23-24)
+> *「{% wiki(slug="yahweh") %}耶和华{% end %}的荣耀从城中上升,停在城东的那座山上。灵将我举起,在异象中藉耶洛因的灵将我带进迦勒底地……」*(以西结书 11:23-24)
 
-The source's reading: the "city" referenced is one of the alliance Earth-bases at the time of Ezekiel's prophetic mission. The alliance bases were always located on high mountains to avoid disturbance from humans. Ezekiel's "spirit took me up" describes alliance-craft transport from the local context to the mountain base location.
+源材料的解读:所提到的「城」是以西结先知使命时期同盟地球基地之一。同盟基地始终设于高山之上,以避受人类打扰。以西结的「灵将我举起」描述的是同盟载具将其自当地脉络运送至山地基地位置。
 
-The detailed treatment of Ezekiel's substantial alliance-contact content lives in the [Ezekiel](../ezekiel/) entry when written. For Ancient Builders, the relevant content is the alliance's documented use of high-mountain installations across the principal Earth-project period.
+对以西结实质性同盟接触内容的详尽处理,留待[以西结](../ezekiel/)条目撰写时。就古代建造者而言,有关内容是:同盟在主要地球计划时期内,有文献记载地使用高山设施。
 
-### The traces of the bases
+### 基地的痕迹
 
-The Vorilhon source's identification of "traces of great civilizations" at the former high-mountain base locations is substantive. The corpus reading: the substantial pre-Inca and pre-Columbian Andean cultural-religious sites that subsequent Andean civilizations built on or near may sit on former alliance-base locations. The substantial Tibetan-Himalayan religious-cultural sites that subsequent Buddhist and Hindu traditions consider sacred may sit on former alliance-base locations. The substantial Mediterranean-Greek sacred-mountain locations (Mount Olympus, Mount Athos, Mount Parnassus, the various oracle sites) may carry substantial cultural memory of alliance presence.
+佛里翁源材料指出在前高山基地位置存在「伟大文明的痕迹」,这是实质性的内容。本文集的解读:后续安第斯文明在其上或附近建造的实质性前印加与前哥伦布时期安第斯文化—宗教遗址,可能坐落于先前的同盟基地位置之上。后续佛教与印度教传统视为神圣的实质性藏—喜马拉雅宗教—文化遗址,可能坐落于先前的同盟基地位置之上。实质性的地中海—希腊神圣山位置(奥林匹斯山、阿索斯山、帕尔纳索斯山,以及各种神谕遗址),可能承载着对同盟存在的实质性文化记忆。
 
-The methodological commitment: the corpus does not claim that any specific contemporary archaeological site is provably a former alliance base. The claim is that the substantial cross-cultural pattern of high-mountain sacred sites in regions the Vorilhon source identifies (Andes, Himalayas, Greece) may reflect substantial cultural memory of alliance presence at those general locations. Specific identification of specific archaeological sites with specific former alliance bases is substantively open and would require independent evidence the corpus does not currently possess.
+方法论上的承诺:本文集并不主张任何具体的当代考古遗址,可被证明为某一先前的同盟基地。其主张是:在佛里翁源材料所指出地区(安第斯、喜马拉雅、希腊)的高山圣地之实质性跨文化模式,可能反映了对同盟在这些一般位置存在的实质性文化记忆。将具体考古遗址与具体的先前同盟基地相认同,实质上仍属开放,且需要本文集目前并不掌握的独立证据。
 
-### The submarine bases
+### 海底基地
 
-The Vorilhon-source content on submarine bases:
+佛里翁源材料中关于海底基地的内容:
 
-- **The main alliance's submarine bases.** As the alliance progressively withdrew from direct human contact, the principal operational bases moved from high mountains to submarine locations less accessible to humans.
-- **The Serpentine faction's submarine concealment.** The exiled Serpentine faction (Lucifer's group, banished from the main alliance after the disclosure event in Eden) hid in oceanic locations. The substantial cross-cultural "serpent / dragon / sea-monster" traditions preserve cultural memory of this faction's submarine presence (treated in the [Serpent](../serpent/) and [Theomachy](../theomachy/) entries).
+- **主同盟的海底基地。** 随着同盟从与人类的直接接触中逐步退出,主要运作性基地由高山转移至人类较难接近的海底位置。
+- **蛇派系的海底隐匿。** 被流放的蛇派系({% wiki(slug="lucifer") %}路西法{% end %}的团体,在{% wiki(slug="eden") %}伊甸{% end %}的披露事件之后从主同盟中被流放),藏匿于海洋之中。「蛇 / 龙 / 海怪」的实质性跨文化传统保存了对该派系海底存在的文化记忆(在蛇与众神之战条目中处理)。
 
-The substantive contemporary engagement with submarine archaeology has produced substantial findings — the substantial submerged Neolithic sites in the Mediterranean and other regions; the substantial Yonaguni structures off Okinawa (substantively debated); the substantial Bimini Road off the Bahamas (substantively debated); the substantial submerged structures off the Gulf of Cambay (substantively debated). The corpus does not claim that any specific submerged site is provably an alliance submarine base. The claim is that the Vorilhon source's substantial submarine-base content registers a substantive corpus-content category distinct from the visible megalithic monuments.
+当代对海底考古的实质性研究已产生实质性发现 — 地中海及其他地区实质性的海下新石器时代遗址;冲绳近海实质性的与那国岛构造(实质上有争议);巴哈马近海实质性的比米尼路(实质上有争议);坎贝湾近海实质性的海下结构(实质上有争议)。{{ cite(id="underworld-hancock", text="[13]", title="汉考克,《海下世界》(2002)— 全球海下考古遗址") }} 本文集并不主张任何具体的海下遗址可被证明为同盟海底基地。其主张是:佛里翁源材料中实质性的海底基地内容,确立了一个与可见巨石纪念物有别的实质性本文集内容范畴。
 
-## Mainstream archaeology on megalithic construction
+## 主流考古学对巨石建造的研究
 
-The substantial mainstream archaeological and engineering engagement with megalithic construction has substantively documented how specific monuments were built. The corpus engages this work at the descriptive level. The principal contributions:
+主流考古学与工程学对巨石建造的实质性研究,已实质上记载了具体纪念物的建造方式。本文集在描述层面参与这一工作。其主要贡献:
 
-### Egyptian pyramids
+### 埃及金字塔
 
-The substantial documented record of Egyptian pyramid construction is principally the work of multiple generations of Egyptologists, with the contemporary engagement principally led by **Mark Lehner** (Ancient Egypt Research Associates) and **Zahi Hawass** (former Egyptian Minister of State for Antiquities Affairs).
+埃及金字塔建造的实质性记载,主要是多代埃及学家的工作产物,当代研究主要由**马克·莱纳**(古埃及研究协会)与**扎希·哈瓦斯**(前埃及文物部部长)主导。{{ cite(id="giza-and-the-pyramids", text="[14]", title="莱纳与哈瓦斯,《吉萨与金字塔:权威史》(2017)") }}
 
-The principal documented findings:
+其主要文献记载的发现:
 
-- **The pyramid workforce.** The discovery and excavation of the substantial workers' village at Giza ("Heit el-Ghurab," "Wall of the Crow") since the 1990s has substantially documented the actual workforce that built the pyramids. The village housed ~10,000-20,000 workers in organized institutional housing with substantial food-supply infrastructure (the substantial bakery and brewery complexes; the substantial cattle and sheep-processing facilities supplying daily protein for thousands of workers). The workers were not slaves but skilled and semi-skilled laborers, organized in named work crews, with substantial wages paid in food rations.
-- **Quarrying and transport.** The substantial Aswan-Giza granite transport is documented through both archaeological and experimental evidence. The substantial Wadi al-Jarf papyri (discovered 2013) include "Diary of Merer" — a logbook by a foreman directing limestone transport for the Great Pyramid's casing stones. The diary documents the actual transport operation: limestone quarried at Tura (across the Nile from Giza), transported by boat across the Nile, with substantial canal-and-harbor infrastructure delivering the stone to the pyramid site.
-- **Construction methods.** Multiple experimental-archaeology programs have demonstrated that substantial Egyptian construction techniques (ramps, levers, sledges, water-lubricated paths) substantially explain how the pyramids were built. The substantial debate continues about the specific ramp configurations used (external, internal, spiral, or combination), but the principal construction methods are within documented Egyptian capability.
+- **金字塔劳动力。** 自 1990 年代以来,吉萨实质性的工人村(「赫特埃尔古拉布」、「乌鸦之墙」)的发现与发掘,已实质上记载了建造金字塔的实际劳动力。该村以有组织的机构性住房容纳约 10,000 至 20,000 名工人,并具备实质性的食物供应基础设施(实质性的面包房与啤酒厂群;实质性的、为数千工人供应每日蛋白质的牛羊加工设施)。工人并非奴隶,而是有技能与半技能的劳动者,以具名的工作队伍组织,以食物配给作为实质性的酬劳。
+- **采石与运输。** 阿斯旺至吉萨的花岗岩运输,在考古学与实验证据两方面均有记载。瓦迪贾尔夫纸草(2013 年发现)包括《梅勒尔日志》— 一份由工头所撰、为大金字塔外装石指挥石灰岩运输的日志。{{ cite(id="journal-de-merer-tallet", text="[15]", title="塔莱,《红海纸草 I:梅勒尔日志》(2017)") }} 该日志记录了实际的运输作业:石灰岩开采于图拉(尼罗河对岸,与吉萨相对),经船运过尼罗河,并由实质性的运河—港口基础设施将石料运抵金字塔遗址。
+- **建造方法。** 多个实验考古学项目已证明,实质性的埃及建造技术(坡道、杠杆、滑橇、水润滑路径)在实质上可以解释金字塔是如何建造的。关于所采用具体坡道构型(外部、内部、螺旋,或组合形式)的实质性争论仍在继续,但主要的建造方法均在已有记载的埃及能力范围之内。
 
-### Stonehenge
+### 巨石阵
 
-The substantial documented record of Stonehenge construction is principally the work of multiple generations of British archaeologists, with contemporary engagement led by **Mike Parker Pearson** (University College London), **Mike Pitts**, and others.
+巨石阵建造的实质性记载主要是多代英国考古学家的工作产物,当代研究由**迈克·帕克·皮尔森**(伦敦大学学院)、{{ cite(id="stonehenge-parker-pearson", text="[16]", title="帕克·皮尔森,《巨石阵:探寻最伟大的石器时代之谜》(2012)") }} **迈克·皮茨**等人主导。
 
-The principal documented findings:
+其主要文献记载的发现:
 
-- **The bluestones.** The bluestones (smaller stones in the inner ring) were quarried from the Preseli Hills in Wales (specifically Craig Rhos-y-felin and Carn Goedog) and transported ~200 km to the Salisbury Plain. The transport method is substantially debated (overland via sledges and rollers; sea-and-river transport; glacial-erratic distribution with subsequent human reorganization) but the principal source is substantively confirmed.
-- **The sarsens.** The substantial sarsen stones (larger outer ring and trilithons) were quarried much closer — recent geochemical analysis (David Nash et al., 2020) has substantially confirmed the West Woods, Marlborough Downs source ~25 km from the site. The transport involved substantial overland sledge-and-roller methods over relatively flat terrain.
-- **Construction phases.** Stonehenge was built across multiple phases ~3000-2000 BCE, with substantial revision and reorganization over centuries. The site was a substantial communal project of the Late Neolithic and Early Bronze Age British populations, with substantial associated burial and ceremonial activity (the substantial Aubrey Holes cremation deposits; the substantial Cursus and Avenue associated monuments).
-- **Astronomical alignment.** The substantial summer solstice sunrise and winter solstice sunset alignment is documented and was substantively intentional. The astronomical knowledge involved is within the capability of any culture with sustained observation of the annual solar cycle.
+- **青石。** 青石(内圈的较小石材)开采自威尔士普雷塞利丘陵(具体为克莱格罗西菲林与卡恩戈多格),并被运输约 200 公里至索尔兹伯里平原。运输方法在实质上有争议(经滑橇与滚木陆路运输;经海路与河道运输;冰川漂移分布并由人类后续重新组织),但其主要来源在实质上已得到确认。
+- **西沙石。** 实质性的西沙石(较大的外圈与三巨石)开采于近得多的位置 — 较新的地球化学分析(大卫·纳什等,2020){{ cite(id="nash-sarsen-megaliths-2020", text="[17]", title="纳什等,《巨石阵西沙石巨石的起源》(《科学进展》2020)") }} 已在实质上确认其来自约 25 公里外的马尔伯勒丘陵西林地。运输涉及在相对平坦地形上的实质性陆路滑橇与滚木方法。
+- **建造阶段。** 巨石阵在约公元前 3000–2000 年间分多个阶段建造,在数世纪中经历了实质性的修订与重组。该遗址是不列颠晚期新石器时代与早期青铜时代族群的实质性共同体项目,伴随实质性的相关墓葬与仪式活动(实质性的奥布里坑火葬沉积;实质性的卡苏斯与林荫道相关纪念物)。
+- **天文对齐。** 实质性的夏至日出与冬至日落对齐已有记载,且在实质上是有意为之的。所涉及的天文知识在任何能持续观察年度太阳周期的文化能力范围之内。
 
-### Andean megalithic sites
+### 安第斯巨石遗址
 
-The substantial documented record of Andean megalithic construction includes substantial Inca-era work at Sacsayhuamán, Machu Picchu, Ollantaytambo, and Cusco, with substantial pre-Inca foundations at some sites.
+安第斯巨石建造的实质性记载,包括萨克塞瓦曼、马丘比丘、奥扬泰坦博与库斯科的实质性印加时代工作,以及某些遗址实质性的前印加基础。
 
-The principal documented findings:
+其主要文献记载的发现:
 
-- **Inca construction techniques.** The substantial Inca polygonal masonry was achieved through hammer-stone shaping (using harder andesite or basalt hammers to shape softer limestone or sandstone), with substantial test-fitting between adjacent stones until the polygonal interlock was achieved. The substantial experimental archaeology (Jean-Pierre Protzen's work at Ollantaytambo) has demonstrated the technique's feasibility within documented Inca tool capability.
-- **The Sacsayhuamán heavy stones.** The substantial Sacsayhuamán stones include some weighing >100 tons. The transport from quarry to site (substantially short distances of <2 km for most stones) involved substantial sledge-and-ramp methods with substantial labor coordination. The substantial Inca labor mobilization (the *mit'a* system providing rotating labor service from across the empire) provided the substantial workforce.
-- **Pre-Inca foundations.** Some Andean sites (Tiwanaku c. 300-1000 CE; Puma Punku c. 500-1000 CE; the substantial Chavín culture c. 1200-200 BCE) substantially predate the Inca period. The substantial Tiwanaku and Puma Punku stonework includes substantial precision construction with specific features (the substantial H-blocks at Puma Punku) that remain incompletely explained by mainstream engagement.
+- **印加的建造技术。** 实质性的印加多边形砌石是通过石锤打磨实现的(使用较硬的安山岩或玄武岩锤打磨较软的石灰岩或砂岩),并伴以相邻石材之间实质性的试合,直至达到多边形咬合。实质性的实验考古学(让—皮埃尔·普罗岑在奥扬泰坦博的工作){{ cite(id="inca-architecture-ollantaytambo", text="[18]", title="普罗岑,《奥扬泰坦博的印加建筑与建造》(1993)") }} 已证明该技法在已有记载之印加工具能力范围内是可行的。
+- **萨克塞瓦曼的重石。** 实质性的萨克塞瓦曼石材中,有些重逾 100 吨。自采石场至遗址的运输(对大多数石材而言,实质上为不到 2 公里的短距离)涉及实质性的滑橇与坡道方法以及实质性的劳动协调。实质性的印加劳动动员(*mit'a* 制度提供跨越帝国的轮换劳役)提供了实质性的劳动力。
+- **前印加基础。** 某些安第斯遗址(蒂瓦纳库约公元 300–1000 年;普马彭古约公元 500–1000 年;实质性的查文文化约公元前 1200–200 年)在实质上早于印加时期。蒂瓦纳库与普马彭古实质性的石作包括实质性的精准建造,其具体特征(普马彭古实质性的 H 形石块)在主流研究中仍未得到充分解释。
 
-### Easter Island moai
+### 复活节岛摩艾石像
 
-The substantial documented record of Easter Island construction includes the substantial moai (statues) and ahu (platforms) built by the Rapa Nui people.
+复活节岛建造的实质性记载,包括拉帕努伊人所建造实质性的摩艾(石像)与阿胡(平台)。
 
-The principal documented findings:
+其主要文献记载的发现:
 
-- **Quarrying.** The substantial moai were quarried from Rano Raraku, a volcanic crater on the island. The quarry contains many unfinished moai in various stages of completion, substantially documenting the quarrying process.
-- **Transport.** The substantial moai transport across the island is principally explained through the "walking" hypothesis (Terry Hunt and Carl Lipo, with experimental demonstration in 2012) — the moai were transported in upright position using ropes that rocked them side-to-side in a walking motion. The substantial experimental demonstration substantively confirmed the method's feasibility.
-- **Erection.** The substantial moai erection at ahu sites used substantial sledge-ramp methods with rope-and-lever assistance.
+- **采石。** 实质性的摩艾开采自岛上一座火山口拉诺拉拉库。采石场含有许多处于不同完成阶段的未完成摩艾,在实质上记载了采石过程。
+- **运输。** 摩艾在岛上实质性的运输,主要通过「行走」假说加以解释(特里·亨特与卡尔·利波,2012 年的实验证明){{ cite(id="statues-that-walked", text="[19]", title="亨特与利波,《行走的石像》(2011)") }} — 摩艾以直立姿态运输,使用绳索使其左右摇摆,呈行走之状。实质性的实验证明在实质上确认了该方法的可行性。
+- **竖立。** 摩艾在阿胡遗址实质性的竖立,使用实质性的滑橇—坡道方法,并辅以绳索与杠杆。
 
-### Maltese megalithic temples
+### 马耳他巨石神庙
 
-The substantial documented record of Maltese temple construction (Ġgantija, Hagar Qim, Mnajdra, Tarxien, Skorba, others; c. 3600-2500 BCE) is principally the work of multiple generations of Maltese and international archaeologists.
+马耳他神庙建造(吉甘提亚、哈贾尔基姆、姆纳耶德拉、塔尔申、斯科尔巴等;约公元前 3600–2500 年)的实质性记载,主要是多代马耳他与国际考古学家的工作产物。
 
-The principal documented findings:
+其主要文献记载的发现:
 
-- **The substantial Neolithic Maltese population** built the temples using local limestone (both globigerina and coralline varieties), with substantial quarrying and transport methods documented through the substantial unfinished stones and quarry sites.
-- **Construction techniques.** The substantial corbel-vault and lintel-construction methods are within documented Neolithic technology.
-- **Astronomical alignment.** Several Maltese temples (particularly Mnajdra) include substantial equinox and solstice alignments.
+- 实质性的**新石器时代马耳他人口**使用本地石灰岩(全球虫与珊瑚状两种品种)建造神庙,其采石与运输方法已通过实质性的未完成石材与采石场遗址得到记载。
+- **建造技术。** 实质性的叠涩拱与过梁建造法均在已有记载的新石器时代技术范围内。
+- **天文对齐。** 多处马耳他神庙(尤其是姆纳耶德拉)纳入了实质性的春秋分与至日对齐。
 
-### The general methodological pattern
+### 一般方法论模式
 
-The substantial cross-cultural pattern across mainstream archaeology and engineering on megalithic construction is consistent:
+主流考古学与工程学跨文化研究在巨石建造上的实质性模式是一致的:
 
-- **The conventionally-credited civilizations had the technological capability.** The principal construction methods are within the documented capabilities of the civilizations conventionally credited with the monuments.
-- **Substantial labor coordination was required.** The monuments represent substantial communal efforts — thousands of workers organized across years or decades.
-- **Substantial astronomical knowledge was required.** The astronomical alignments reflect substantial sustained observation of the celestial cycles, well within human capability.
-- **Specific anomalies remain.** Some specific features at specific sites (the Baalbek trilithon transport; specific Andean polygonal-interlocking precision; specific Puma Punku features) remain incompletely explained by current mainstream methods.
+- **惯常归属的文明具备技术能力。** 主要的建造方法均在惯常归属于这些纪念物之文明已有文献记载的能力范围之内。
+- **需要实质性的劳动协调。** 这些纪念物代表实质性的共同体努力 — 数千名工人在多年或数十年间组织协调。
+- **需要实质性的天文知识。** 天文对齐反映了对天体周期的实质性持续观察,完全在人类能力范围之内。
+- **仍有具体的异常现象。** 某些遗址的某些具体特征(巴勒贝克三巨石的运输;具体的安第斯多边形咬合精度;具体的普马彭古特征)在当前主流方法下仍未得到充分解释。
 
-The corpus accepts the mainstream archaeological account at the descriptive level. The visible megalithic monuments were built by the human civilizations to whom they are conventionally attributed, using technologies that the experimental-archaeology record substantially documents. Specific anomalies warrant continued engagement but do not by themselves require alien-construction explanations.
+本文集在描述层面接受主流考古学的论述。可见的巨石纪念物由惯常归属于它们的人类文明所建造,所用技术在实验考古学的记录中已大体上得到记载。具体的异常现象值得继续研究,但其本身并不要求诉诸外星建造的解释。
 
-## Modern reinterpretations and adjacent traditions
+## 现代再诠释与相邻传统
 
-The substantive contemporary engagement with Ancient Builders content operates across multiple distinct registers.
+当代对古代建造者内容的实质性研究在多个不同语域中运作。
 
-### The "lost civilization" alternative-archaeology tradition
+### 「失落文明」另类考古学传统
 
-The substantial alternative-archaeology tradition has articulated the Ancient Builder framing across multiple generations of contemporary engagement.
+实质性的另类考古学传统在多代当代研究中阐述了古代建造者框架。
 
-**Graham Hancock** is the principal contemporary popularizer. His principal works:
+**格雷厄姆·汉考克**是其主要的当代推广者。其主要著作有:
 
-- *Fingerprints of the Gods* (Crown, 1995) — articulating the lost-civilization hypothesis through cross-cultural megalithic and mythological evidence
-- *Magicians of the Gods* (Thomas Dunne, 2015) — substantially updating the framework with the Younger Dryas Impact Hypothesis evidence
-- *America Before* (St. Martin's, 2019) — extending the framework to pre-Columbian America
-- *Underworld* (Crown, 2002) — engaging submerged archaeological sites globally
-- The Netflix series *Ancient Apocalypse* (2022) — substantial popular engagement
+- 《诸神的指纹》(皇冠出版,1995){{ cite(id="fingerprints-of-the-gods", text="[20]", title="汉考克,《诸神的指纹》(1995)") }} — 通过跨文化的巨石与神话证据阐述失落文明假说
+- 《诸神的术士》(托马斯·邓恩,2015){{ cite(id="magicians-of-the-gods", text="[21]", title="汉考克,《诸神的术士》(2015)— 与新仙女木撞击假说的趋同") }} — 以新仙女木撞击假说证据实质性更新该框架
+- 《之前的美洲》(圣马丁,2019){{ cite(id="america-before", text="[22]", title="汉考克,《之前的美洲》(2019)— 将框架扩展至前哥伦布时期美洲") }} — 将该框架扩展至前哥伦布时期美洲
+- 《海下世界》(皇冠出版,2002)— 研究全球海下考古遗址
+- Netflix 系列《古老的天启》(2022)— 实质性的通俗参与
 
-Hancock's principal claim: a substantially advanced pre-flood civilization existed and was substantially destroyed at the end of the last glacial period, with substantial subsequent civilizational rebuilding by surviving cultural transmitters who founded the various Bronze Age civilizations. Hancock does not principally engage extraterrestrial-contact explanations, working instead within the lost-human-civilization framework.
+汉考克的主要主张是:一个实质上先进的洪水前文明曾经存在,并在上一次冰期结束之际实质上被毁,有实质性的后续文明重建由幸存的文化传递者所完成,他们奠定了后来的各青铜时代文明。汉考克主要不从外星接触的解释入手,而在失落人类文明的框架内展开工作。
 
-**Robert Schoch** (Boston University) has argued that the Great Sphinx of Giza is substantially older than the conventional 4th-Dynasty dating (~2500 BCE), proposing a pre-flood (>10,000 BCE) dating based on water-erosion analysis. The substantial mainstream Egyptological engagement has substantially disputed Schoch's reading; the question remains substantively debated.
+**罗伯特·肖赫**(波士顿大学)论证吉萨大狮身人面像实质上早于惯常的第四王朝定年(约公元前 2500 年),依据水蚀分析提出洪水前(早于公元前 10,000 年)的定年。学院派埃及学的主流研究对肖赫的解读在实质上提出质疑;该问题在实质上仍有争议。
 
-**John Anthony West** (1932-2018) was a substantial earlier proponent of the substantially-older-Sphinx hypothesis and the substantial broader alternative-Egyptology engagement.
+**约翰·安东尼·韦斯特**(1932–2018)曾是实质上更早期间狮身人面像实质上更早假说的倡导者,以及更广义另类埃及学研究的实质性参与者。{{ cite(id="serpent-in-the-sky", text="[23]", title="韦斯特,《天空中的蛇》(1993)— 另类埃及学与施瓦勒·德·吕比茨的象征主义解读") }}
 
-**Christopher Dunn** has substantially engaged the substantial engineering questions about Egyptian pyramid construction, proposing substantial machining-and-power-tools hypotheses for specific features (the substantial granite boxes at the Serapeum at Saqqara; specific drilling marks in granite artifacts).
+**克里斯托弗·邓恩**对埃及金字塔建造中实质性的工程学问题进行了实质性研究,并就具体特征(萨卡拉塞拉皮姆实质性的花岗岩石箱;花岗岩文物上具体的钻削痕迹)提出实质性的机械加工与动力工具假说。{{ cite(id="giza-power-plant", text="[24]", title="邓恩,《吉萨发电厂》(1998)— 以工程学为焦点的另类埃及学") }}
 
-### The Atlantis tradition
+### 亚特兰蒂斯传统
 
-The Atlantis tradition (treated in the pending [Atlantis](../atlantis/) entry) operates as the substantial Western philosophical-religious tradition's principal articulation of the lost-civilization concept.
+亚特兰蒂斯传统(在尚待撰写的[亚特兰蒂斯](../atlantis/)条目中处理)作为实质性的西方哲学—宗教传统对失落文明概念的主要表达而运作。
 
-**Plato** articulates the Atlantis tradition in *Timaeus* (c. 360 BCE) and *Critias* (unfinished). The principal content: a substantial advanced civilization existed beyond the Pillars of Hercules; it warred against the Athenian and Mediterranean civilizations; it was substantially destroyed in a single day and night by earthquakes and floods, sinking into the sea. Plato attributes the account to Solon's contact with Egyptian priests.
+**柏拉图**在《蒂迈欧篇》(约公元前 360 年)与未完成的《克里底亚篇》中阐述了亚特兰蒂斯传统。其主要内容:一个先进的文明曾存在于赫拉克勒斯之柱以外;它对雅典与地中海诸文明发动战争;它在一日一夜之间被地震与洪水实质上摧毁,沉入海中。柏拉图将该论述归于梭伦与埃及祭司的接触。
 
-The subsequent Atlantis tradition substantially elaborates Plato's account:
+后续的亚特兰蒂斯传统对柏拉图的论述实质上作了进一步发挥:
 
-- **Ignatius Donnelly**, *Atlantis: The Antediluvian World* (1882) — the substantial 19th-century revival arguing that Atlantis was the source of substantial subsequent civilizations globally
-- **Edgar Cayce** (1877-1945) — the "sleeping prophet" whose substantial readings (1920s-1940s) substantially elaborated Atlantis with substantive specific content
-- **The Theosophical tradition** (Blavatsky, Steiner, others) — substantial elaboration of Atlantis within the broader esoteric framework, often with substantial Lemuria/Mu content
-- **The contemporary Hancock-style engagement** — substantially updating the Atlantis tradition through the Younger Dryas Impact framework
+- **伊格内修斯·唐纳利**,《亚特兰蒂斯:大洪水前的世界》(1882)— 实质性的十九世纪复兴,主张亚特兰蒂斯是后续全球诸文明的实质性源头
+- **埃德加·凯西**(1877–1945)— 「沉睡的先知」,其实质性的读经(1920–1940 年代)以实质性的具体内容对亚特兰蒂斯作了实质性的发挥
+- **神智学传统**(布拉瓦茨基、施泰纳等)— 在更广义的玄秘框架内对亚特兰蒂斯作了实质性发挥,常伴有实质性的雷姆利亚 / 姆的内容
+- **当代汉考克式的研究** — 通过新仙女木撞击框架对亚特兰蒂斯传统作了实质性的更新
 
-The corpus engages Atlantis as a substantial interpretive tradition with substantive cultural-religious significance, without adopting the substantial specific claims (Atlantis as the source of pre-flood civilization, the substantial sunken-island geographical claims, the specific Cayce content). The pending [Atlantis](../atlantis/) entry will articulate the corpus position systematically.
+本文集将亚特兰蒂斯视为具有实质性文化—宗教意义的实质性诠释传统,而并不采纳其实质性的具体主张(将亚特兰蒂斯视为洪水前文明的源头、实质性的沉岛地理主张、具体的凯西内容)。尚待撰写的[亚特兰蒂斯](../atlantis/)条目将系统阐述本文集的立场。
 
-### The Lemuria / Mu tradition
+### 雷姆利亚 / 姆传统
 
-The Lemuria and Mu traditions operate as the Pacific equivalent of the Atlantic Atlantis tradition.
+雷姆利亚与姆的传统作为大西洋亚特兰蒂斯传统的太平洋等价物而运作。
 
-**Lemuria** was originally proposed in 1864 by zoologist Philip Sclater as a hypothetical sunken continent in the Indian Ocean to explain certain biogeographical distributions (particularly of lemurs). The hypothesis was substantially superseded in mainstream science by plate tectonics in the 1960s, but Lemuria substantially entered popular alternative-archaeology and esoteric tradition as a sunken-civilization framework.
+**雷姆利亚**最初由动物学家菲利普·斯科莱特于 1864 年提出,作为印度洋中一块假设的沉没大陆,以解释某些生物地理分布(尤其是狐猴的分布)。该假说在 1960 年代板块构造学说兴起后在主流科学中被实质上取代,但雷姆利亚在通俗另类考古学与玄秘传统中,作为沉没文明框架在实质上得以延续。
 
-**Mu** was popularized by **Augustus Le Plongeon** (1825-1908) and **James Churchward** (1851-1936). Churchward's series *The Lost Continent of Mu* (1926) and subsequent works substantially developed the Mu framework as a substantial Pacific lost civilization with substantial subsequent influence on global cultures.
+**姆**则由**奥古斯都·勒·普隆隆**(1825–1908)与**詹姆斯·丘奇沃德**(1851–1936)推广。丘奇沃德的系列著作《失落的姆大陆》(1926)及后续著作,实质上将姆这一框架发展为对全球文化具有实质性后续影响的太平洋失落文明。
 
-The corpus does not adopt the Lemuria or Mu framings. The contemporary scientific consensus on Pacific geology does not support sunken-continent hypotheses, and the substantial textual evidence the alternative-archaeology tradition cites does not substantially support the specific Mu claims.
+本文集不采纳雷姆利亚或姆的框架。当代关于太平洋地质的科学共识不支持沉没大陆假说,而另类考古学传统所引用的实质性文本证据,亦不在实质上支持姆的具体主张。
 
-### Ancient-astronaut engagement
+### 远古外星人传统的参与
 
-The substantial Ancient-Astronaut engagement with Ancient Builders content (treated systematically in the [Ancient Astronaut Hypothesis](../ancient-astronaut-hypothesis/) entry) operates principally through von Däniken, Sitchin, and the broader tradition.
+远古外星人传统对古代建造者内容的实质性参与(在{% wiki(slug="ancient-astronaut-hypothesis") %}远古外星人理论{% end %}条目中有系统处理)主要通过冯·丹尼肯、西奇及更广义的传统加以展开。
 
-**Erich von Däniken**'s *Chariots of the Gods?* (1968) substantially popularized the framing that specific monuments (Egyptian pyramids, Nazca lines, Easter Island moai, Sacsayhuamán, others) were built with extraterrestrial assistance or by extraterrestrial visitors directly. Von Däniken's methodology substantially relies on the cultural-dismissive framing (the conventionally-credited civilizations could not have built these monuments) that the corpus has explicitly distanced itself from.
+**埃里希·冯·丹尼肯**的《众神之车?》(1968){{ cite(id="chariots-of-the-gods", text="[25]", title="冯·丹尼肯,《众神之车?》(1968)— 当代通俗远古外星人传统的奠基性文本") }} 实质上推广了这样一种框架:具体的纪念物(埃及金字塔、纳斯卡线、复活节岛摩艾石像、萨克塞瓦曼等)是在外星协助下、或直接由外星访客建造的。冯·丹尼肯的方法论实质上依赖于本文集已明确与之划清界限的、对原住民成就轻视性的框架(惯常归属的文明不可能建造这些纪念物)。
 
-**Zecharia Sitchin**'s substantial Anunnaki framework (treated in the Ancient Astronaut Hypothesis entry) substantially proposes that the Sumerian and broader Mesopotamian monumental construction was conducted with Anunnaki direction. The Sitchin framework has substantial methodological problems (substantially contested Sumerian-language readings; substantial Nibiru claims unsupported by modern astronomy).
+**撒迦利亚·西奇**实质性的阿努纳奇框架(在远古外星人理论条目中处理)实质上提出,苏美尔与更广义美索不达米亚的纪念性建造是在阿努纳奇指导下进行的。{{ cite(id="the-12th-planet", text="[26]", title="西奇,《第十二行星》(1976)— 奠基性的阿努纳奇解读文本") }} 西奇框架存在实质性的方法论问题(实质上有争议的苏美尔语解读;实质性的、不被现代天文学支持的尼比鲁主张)。
 
-The corpus's specific differences from these traditions:
+本文集与这些传统的具体差异:
 
-- **Respect for indigenous achievement.** The visible megalithic monuments are substantively human accomplishment.
-- **Source-textual grounding.** The corpus engages Vorilhon-source content (alliance high-mountain and submarine bases) rather than speculative-interpretive content (the broader "aliens built the pyramids" framing).
-- **Methodological discipline.** The corpus distinguishes between direct source claims, comparative observations, and speculative inference rather than treating speculative content as established.
+- **对原住民成就的尊重。** 可见的巨石纪念物实质上属于人类成就。
+- **以源材料文本为基础。** 本文集所参与的是佛里翁源材料内容(同盟高山与海底基地),而非推测性—诠释性内容(更广义的「外星人建了金字塔」框架)。
+- **方法论上的纪律。** 本文集区分直接源材料主张、比较性观察与推测性推断,而非将推测性内容视为已成定论。
 
-### The Göbekli Tepe revolution
+### 哥贝克力石阵革命
 
-The Göbekli Tepe site in southeastern Turkey, excavated principally by **Klaus Schmidt** (1953-2014) of the German Archaeological Institute beginning in 1995, has substantially changed the conventional chronology of monumental construction.
+哥贝克力石阵位于土耳其东南部,自 1995 年起由德国考古研究所的**克劳斯·施密特**(1953–2014)主要主持发掘,实质上改变了惯常的纪念性建造年代学。
 
-The principal Göbekli Tepe findings:
+哥贝克力石阵的主要发现:
 
-- **Dating.** The earliest occupation layers date to c. 9500 BCE — substantially before the conventional Neolithic-revolution chronology (the substantial transition to settled agriculture conventionally dated to ~9000-8500 BCE in the Levant).
-- **Construction.** The site features substantial T-shaped limestone pillars (some >5 meters tall, weighing tons) arranged in circular enclosures, with substantial relief carvings of animals (boars, foxes, snakes, scorpions, birds, others), abstract symbols, and stylized human figures.
-- **Pre-agricultural construction.** The substantial chronology indicates that the builders were substantially pre-agricultural hunter-gatherers, not the settled-agricultural population conventionally associated with monumental construction.
-- **Construction implications.** The substantial pre-agricultural monumental construction substantially overturns the conventional sequence in which monumental construction was assumed to follow agricultural settlement. The implication: monumental construction may substantially precede (and possibly motivate) the agricultural revolution rather than following it.
+- **年代。** 最早的占用层位的年代为约公元前 9500 年 — 实质上早于惯常的新石器革命年代学(在黎凡特地区,实质上向定居农业的过渡惯常被定在约公元前 9000–8500 年)。
+- **建造。** 该遗址特征为实质性的 T 形石灰岩立柱(部分高逾 5 米,重达多吨),排列为圆形围合,具有动物(野猪、狐狸、蛇、蝎子、鸟类等)、抽象符号与风格化人形的实质性浮雕。
+- **前农业期建造。** 实质性的年代学表明,其建造者实质上是前农业期的狩猎—采集者,而非惯常与纪念性建造相关联的定居农业人口。
+- **建造含意。** 实质性的前农业期纪念性建造,实质上推翻了惯常的「纪念性建造跟随农业定居」的假设序列。其含意是:纪念性建造可能实质上先于(且可能驱动了)农业革命,而非跟随其后。
 
-The Göbekli Tepe revolution has substantial implications for the broader Ancient Builders question:
+哥贝克力石阵革命对更广义古代建造者议题具有实质性含意:
 
-- **Substantial pre-flood monumental capability.** By the corpus chronology, the c. 9500 BCE Göbekli Tepe construction occurred during the late Leo / early Cancer age — substantially before the Cancer-Gemini boundary flood event (c. 6,690 BCE). The site is substantively pre-flood monumental construction.
-- **Substantial pre-agricultural cultural sophistication.** The hunter-gatherer builders of Göbekli Tepe demonstrated substantial coordination, sustained communal labor over centuries, and substantial symbolic-religious sophistication. The substantial earlier-than-previously-thought capability is substantively well-documented.
-- **Implications for the lost-civilization hypothesis.** Göbekli Tepe substantially complicates the simple "lost civilization before the flood" framing. The site demonstrates substantial pre-flood capability without requiring a "lost civilization" of the Atlantis-style framing. The pre-flood population at Göbekli Tepe was hunter-gatherer rather than Atlantis-style advanced.
-- **Implications for the corpus framework.** Göbekli Tepe is consistent with the corpus framework's substantial pre-flood cultural development. The site may operate as evidence of substantial human cultural development under alliance cultivation during the Leo and Cancer ages, with the substantial subsequent flood-event substantially disrupting the developmental trajectory.
+- **实质性的洪水前纪念性建造能力。** 按本文集纪年法,约公元前 9500 年的哥贝克力石阵建造发生于狮子座时代晚期 / 巨蟹座时代早期 — 实质上早于巨蟹—双子座边界的洪水事件(约公元前 6,690 年)。该遗址在实质上是洪水前的纪念性建造。
+- **实质性的前农业期文化精致性。** 哥贝克力石阵的狩猎—采集建造者展现了实质性的协调、跨数世纪持续的共同体劳动,以及实质性的象征—宗教精致性。其早于先前所认为之时间的实质性能力在实质上有充分记载。
+- **对失落文明假说的含意。** 哥贝克力石阵实质上使简单的「洪水前失落文明」框架复杂化。该遗址表现出实质性的洪水前能力,而无需诉诸亚特兰蒂斯式框架的「失落文明」。哥贝克力石阵的洪水前族群是狩猎—采集者,而非亚特兰蒂斯式的先进文明。
+- **对本文集框架的含意。** 哥贝克力石阵与本文集框架中实质性的洪水前文化发展相一致。该遗址可能作为这样一种证据而运作:在狮子座与巨蟹座时代,人类文化在同盟培育之下经历了实质性的发展,而其后实质性的洪水事件则实质上扰乱了该发展轨迹。
 
-The dedicated [Göbekli Tepe](../gobekli-tepe/) entry will articulate the site's substantive content systematically.
+专属的[哥贝克力石阵](../gobekli-tepe/)条目将系统阐述该遗址实质性的内容。
 
-### The Younger Dryas Impact Hypothesis
+### 新仙女木撞击假说
 
-The **Younger Dryas Impact Hypothesis** (YDIH), proposed by **Richard Firestone** et al. in 2007, argues that a substantial cosmic impact or atmospheric airburst event at c. 12,900 BCE produced the substantial Younger Dryas climate cooling and the substantial associated megafaunal extinctions and cultural disruptions.
+**新仙女木撞击假说**(YDIH)由**理查德·费尔斯通**等人于 2007 年提出,主张约公元前 12,900 年一次实质性的宇宙撞击或大气空爆事件产生了实质性的新仙女木气候降温,以及与之相关的实质性巨型动物灭绝与文化扰动。
 
-The principal YDIH evidence (substantially developed across the post-2007 scholarship):
+YDIH 的主要证据(自 2007 年以来实质上在学术界得到发展):
 
-- **Platinum spikes** at the Younger Dryas boundary documented at sites across multiple continents
-- **Carbon spherules and nanodiamonds** suggestive of high-temperature events
-- **Widespread evidence of fires** consistent with a major impact-generated thermal event
-- **Megafaunal extinctions** aligning with the Younger Dryas timing
-- **Cultural disruptions** (the substantial Clovis-culture collapse in North America) aligning with the event
+- 在多大洲多个遗址有文献记载的、位于新仙女木边界的**铂尖峰**
+- 提示高温事件的**碳球粒与纳米金刚石**
+- 与重大撞击所产生热事件相一致的**大范围火灾证据**
+- 与新仙女木时间相符的**巨型动物灭绝**
+- 与该事件相符的**文化扰动**(北美实质性的克洛维斯文化崩溃)
 
-The YDIH remains substantively contested in mainstream geology and archaeology, with substantial subsequent scholarship both supporting and challenging the hypothesis. The corpus engages YDIH as a substantively live hypothesis with substantial implications:
+YDIH 在主流地质学与考古学中实质上仍有争议,实质性的后续学术研究既有支持也有挑战。本文集将 YDIH 视为具有实质性含意的、实质上活跃的假说:
 
-- **Substantial pre-flood civilizational catastrophe.** If a major impact event occurred at c. 12,900 BCE, it substantially predates the corpus's Cancer-Gemini boundary flood event (c. 6,690 BCE). The YDIH event would represent a substantial earlier catastrophic episode, possibly with substantial implications for any earlier human civilizational development.
-- **Connection to the lost-civilization framings.** Hancock and other alternative-archaeology figures have substantially argued that the YDIH event destroyed a substantial pre-Younger-Dryas advanced civilization, with the substantial subsequent Bronze Age civilizations as the substantial cultural inheritors.
-- **Corpus position.** The corpus engages YDIH at the descriptive level (the substantial evidence for a major catastrophic event ~12,900 BCE warrants substantive engagement) without adopting the Hancock-style "lost advanced civilization" framing. The substantial pre-Younger-Dryas human populations were substantially hunter-gatherer cultures with substantial cultural sophistication but not Atlantis-style advanced civilization. The YDIH event would have substantially disrupted these populations without requiring a lost super-civilization.
+- **实质性的洪水前文明性灾难。** 若约公元前 12,900 年发生了重大撞击事件,则其在实质上早于本文集巨蟹—双子座边界的洪水事件(约公元前 6,690 年)。YDIH 事件将代表一次实质上较早的灾难性插段,可能对任何更早的人类文明发展具有实质性含意。
+- **与失落文明框架的关联。** 汉考克及其他另类考古学人物实质上主张,YDIH 事件摧毁了一个实质性的前新仙女木先进文明,而实质性的后续青铜时代文明则是其实质性的文化继承者。
+- **本文集的立场。** 本文集在描述层面参与 YDIH(关于约公元前 12,900 年存在重大灾难性事件的实质性证据,值得实质性研究),而并不采纳汉考克式的「失落的先进文明」框架。前新仙女木时期实质上的人类族群,在实质上是具有可观文化精致性的狩猎—采集文化,而非亚特兰蒂斯式的先进文明。YDIH 事件将实质上扰乱了这些族群,而无需诉诸一个失落的超级文明。
 
-## Comparative observations
+## 比较性观察
 
-The cross-cultural pattern of megalithic and monumental construction operates across virtually every major civilization. The corpus engages this pattern substantively while preserving cultural specificity.
+巨石与纪念性建造的跨文化模式几乎在每一主要文明中均有运作。本文集在实质上参与该模式,同时保留文化的具体性。
 
-### Egyptian pyramids and monumental architecture
+### 埃及金字塔与纪念性建筑
 
-The Egyptian monumental tradition is one of the principal cross-cultural references. The principal features:
+埃及纪念性传统是主要的跨文化参照之一。其主要特征:
 
-- **The Step Pyramid of Djoser** (c. 2670 BCE, designed by Imhotep) — the first substantial Egyptian stone pyramid
-- **The Bent Pyramid and Red Pyramid at Dahshur** (c. 2600 BCE, Sneferu) — the substantial transitional pyramids
-- **The Giza pyramids** (c. 2560-2510 BCE, Khufu, Khafre, Menkaure) — the substantial Old Kingdom culmination
-- **The Middle Kingdom pyramids** (c. 2000-1700 BCE) — substantially smaller and substantially less well-preserved
-- **The substantial Theban temple complexes** (Karnak, Luxor, Deir el-Bahari, the Ramesseum, the various mortuary temples) — substantial New Kingdom monumental construction
-- **The Abu Simbel temples** (c. 1264 BCE, Ramesses II) — the substantial rock-cut monumental temples
+- **左塞尔阶梯金字塔**(约公元前 2670 年,由印何阗设计)— 第一座实质性的埃及石造金字塔
+- **达赫舒尔的弯曲金字塔与红金字塔**(约公元前 2600 年,斯尼夫鲁)— 实质性的过渡期金字塔
+- **吉萨金字塔群**(约公元前 2560–2510 年,胡夫、哈夫拉、孟卡拉)— 实质性的古王国巅峰之作
+- **中王国金字塔**(约公元前 2000–1700 年)— 实质上较小,实质上保存较差
+- **实质性的底比斯神庙建筑群**(卡纳克、卢克索、戴尔巴哈里、拉美西斯神庙以及各种丧庙)— 实质性的新王国纪念性建造
+- **阿布辛贝神庙**(约公元前 1264 年,拉美西斯二世)— 实质性的岩凿纪念性神庙
 
-### Mesopotamian ziggurats
+### 美索不达米亚塔庙
 
-The Mesopotamian monumental tradition principally took the form of ziggurats — substantial stepped pyramid temples. Principal examples:
+美索不达米亚纪念性传统主要采取塔庙(ziggurat)的形式 — 实质性的阶梯式金字塔神庙。主要例子:
 
-- **The Ziggurat of Ur** (c. 2100 BCE, Ur-Nammu) — the substantially preserved Sumerian ziggurat
-- **The substantial Babylonian Etemenanki** — the substantial "Tower of Babel" ziggurat referenced in Genesis 11
-- **The Choga Zanbil ziggurat** (c. 1250 BCE) — the substantial Elamite preservation
+- **乌尔塔庙**(约公元前 2100 年,乌尔纳姆)— 实质上保存的苏美尔塔庙
+- **实质性的巴比伦埃特门安基** — 创世记 11 章所提及实质性的「巴别塔」塔庙
+- **乔加赞比尔塔庙**(约公元前 1250 年)— 实质性的埃兰保存
 
-The ziggurat tradition's connection to the substantial Tower of Babel narrative is substantively engaged in the [Babel](../babel/) entry.
+塔庙传统与实质性巴别塔叙事的关系,在{% wiki(slug="babel") %}巴别塔{% end %}条目中有实质性的研究。
 
-### European megalithic tradition
+### 欧洲巨石传统
 
-The substantial European megalithic tradition spans the Late Neolithic and Early Bronze Age, principally c. 5000-2000 BCE. Principal examples:
+实质性的欧洲巨石传统跨越晚期新石器时代与早期青铜时代,主要为约公元前 5000–2000 年。主要例子:
 
-- **Stonehenge and the Wessex monuments** (Avebury, Silbury Hill, Durrington Walls, the Stonehenge Avenue, the substantial Cursus monuments)
-- **Carnac in Brittany** (c. 4500-3300 BCE) — substantial alignments of thousands of standing stones across multiple kilometers
-- **Newgrange in Ireland** (c. 3200 BCE) — substantial passage tomb with the substantial winter-solstice illumination alignment
-- **The substantial Maltese megalithic temples** (c. 3600-2500 BCE) — treated above in *Mainstream archaeology*
-- **The substantial Iberian, French, and broader Atlantic megalithic tradition** — substantial dolmens, menhirs, and passage tombs across substantial geographic range
+- **巨石阵与韦塞克斯诸纪念物**(艾夫伯里、西尔伯里山、杜灵顿墙、巨石阵林荫道、实质性的卡苏斯纪念物)
+- **布列塔尼的卡尔奈克**(约公元前 4500–3300 年)— 跨越数公里的实质性数千立石对齐
+- **爱尔兰的纽格莱奇**(约公元前 3200 年)— 实质性的通道墓,具有实质性的冬至光照对齐
+- **实质性的马耳他巨石神庙**(约公元前 3600–2500 年)— 上文「主流考古学」中已有处理
+- **实质性的伊比利亚、法兰西与更广义的大西洋巨石传统** — 跨越实质性地理范围的实质性支石墓、立石与通道墓
 
-### Mediterranean cyclopean masonry
+### 地中海独眼巨人式砌筑
 
-The substantial Mediterranean cyclopean masonry tradition appears principally at:
+实质性的地中海独眼巨人式砌筑传统主要出现于:
 
-- **Mycenae and Tiryns** (c. 1350-1200 BCE) — the substantial Mycenaean cyclopean walls; the substantial Treasury of Atreus tholos tomb; the substantial Lion Gate at Mycenae
-- **The Argolid generally** — substantial Late Bronze Age fortifications across the Peloponnesian region
-- **The Sardinian nuraghi** (c. 1800-730 BCE) — substantial conical stone towers (~7,000 surviving examples across Sardinia)
-- **The substantial Hittite cyclopean construction** at Hattusa and other Anatolian sites
+- **迈锡尼与提林斯**(约公元前 1350–1200 年)— 实质性的迈锡尼独眼巨人式城墙;实质性的阿特柔斯宝库圆顶墓;实质性的迈锡尼狮门
+- **整个阿尔戈利斯地区** — 跨越伯罗奔尼撒地区实质性的晚期青铜时代防御工事
+- **撒丁岛的努拉吉**(约公元前 1800–730 年)— 实质性的锥形石塔(撒丁岛留存约 7,000 处实例)
+- **赫梯实质性的独眼巨人式建造** — 哈图沙及其他安纳托利亚遗址
 
-### Indian subcontinent monumental tradition
+### 印度次大陆的纪念性传统
 
-The substantial Indian subcontinent monumental tradition includes:
+实质性的印度次大陆纪念性传统包括:
 
-- **The substantial Harappan urban architecture** (c. 2600-1900 BCE) — Mohenjo-daro, Harappa, and the substantial broader Indus Valley civilization
-- **The substantial subsequent Indian temple architecture** — the substantial Mahabalipuram rock-cut monuments (c. 7th century CE); the substantial Khajuraho temples (c. 950-1050 CE); the substantial Ellora and Ajanta cave complexes; the substantial Vijayanagara monuments at Hampi (c. 1336-1565 CE)
-- **The substantial Kailasa Temple at Ellora** (c. 8th century CE) — the substantial monolithic rock-cut temple, carved from a single mountain in a substantial top-down excavation
+- **实质性的哈拉帕都市建筑**(约公元前 2600–1900 年)— 摩亨佐达罗、哈拉帕,以及更广义实质性的印度河流域文明
+- **实质性的后续印度神庙建筑** — 实质性的马哈巴利普拉姆岩凿纪念物(约公元 7 世纪);实质性的卡朱拉霍诸神庙(约公元 950–1050 年);实质性的埃洛拉与阿旃陀石窟群;汉皮实质性的毗奢耶那伽罗纪念物(约公元 1336–1565 年)
+- **埃洛拉的实质性凯拉萨神庙**(约公元 8 世纪)— 实质性的整石岩凿神庙,自一整座山自上而下实质性地凿成
 
-### East Asian monumental tradition
+### 东亚的纪念性传统
 
-The substantial East Asian monumental tradition includes:
+实质性的东亚纪念性传统包括:
 
-- **The substantial Chinese imperial tomb complexes** — the substantial Mausoleum of the First Qin Emperor (c. 246-208 BCE) with the substantial Terracotta Army; the substantial Ming Tombs
-- **The substantial Great Wall of China** — built across multiple dynasties from c. 7th century BCE through the substantial Ming-era completion
-- **The substantial Korean dolmens** — the substantial Korean Peninsula contains many thousands of dolmens (c. 1000 BCE-300 CE), the substantial Bronze Age megalithic preservation
-- **The substantial Japanese kofun (burial mounds)** — substantial 3rd-7th century CE Japanese monumental tomb complexes
-- **The substantial Cambodian Angkor Wat** (c. 12th century CE) and the substantial broader Khmer monumental tradition
+- **实质性的中国帝王陵墓群** — 实质性的秦始皇陵(约公元前 246–208 年)及其实质性的兵马俑;实质性的明十三陵
+- **实质性的中国长城** — 自约公元前 7 世纪起跨多个朝代建造,至实质性的明代完成
+- **实质性的朝鲜半岛支石墓** — 朝鲜半岛含有数千座支石墓(约公元前 1000 年–公元 300 年),为实质性的青铜时代巨石保存
+- **实质性的日本古坟(墓冢)** — 实质性的公元 3–7 世纪日本纪念性墓群
+- **实质性的柬埔寨吴哥窟**(约公元 12 世纪)及更广义实质性的高棉纪念性传统
 
-### Southeast Asian and Pacific monumental tradition
+### 东南亚与太平洋的纪念性传统
 
-The substantial Southeast Asian and Pacific monumental tradition includes:
+实质性的东南亚与太平洋纪念性传统包括:
 
-- **Angkor Wat and the broader Khmer monuments** (Cambodia, c. 9th-15th century CE) — the substantial largest religious monument in the world by area
-- **Borobudur** (Java, c. 9th century CE) — the substantial Buddhist stupa-temple complex
-- **Prambanan** (Java, c. 9th century CE) — the substantial Hindu temple complex
-- **The substantial Indonesian megalithic tradition** at sites including Gunung Padang
-- **The substantial Pacific monumental traditions** — the substantial Easter Island moai (treated above); the substantial Tongan Ha'amonga 'a Maui trilithon; the substantial Marquesan tiki; the substantial Tahitian and Hawaiian heiau platforms
+- **吴哥窟与更广义的高棉纪念物**(柬埔寨,约公元 9–15 世纪)— 实质上以面积计为世界上最大的宗教纪念物
+- **婆罗浮屠**(爪哇,约公元 9 世纪)— 实质性的佛教窣堵波—神庙建筑群
+- **普兰巴南**(爪哇,约公元 9 世纪)— 实质性的印度教神庙建筑群
+- **印尼实质性的巨石传统** — 包括古农巴当等遗址
+- **实质性的太平洋纪念性传统** — 实质性的复活节岛摩艾石像(上文已处理);实质性的汤加哈阿蒙加阿毛伊三巨石;实质性的马克萨斯提基像;实质性的塔希提与夏威夷海尤平台
 
-### Pre-Columbian American monumental tradition
+### 前哥伦布时期美洲的纪念性传统
 
-The substantial pre-Columbian American monumental tradition includes:
+实质性的前哥伦布时期美洲纪念性传统包括:
 
-- **The substantial Olmec colossal heads** (c. 1200-400 BCE) — substantial multi-ton basalt sculptures
-- **Teotihuacan** (c. 1-650 CE) — the substantial Pyramid of the Sun, Pyramid of the Moon, and broader urban complex
-- **The substantial Maya pyramid tradition** — Chichen Itza, Tikal, Palenque, Copán, the substantial broader Maya monumental tradition
-- **The substantial Aztec Templo Mayor** at Tenochtitlan
-- **The substantial Andean monumental tradition** — Chavín de Huántar (c. 1200-200 BCE); Tiwanaku (c. 300-1000 CE) and Puma Punku; the substantial Inca constructions (Sacsayhuamán, Machu Picchu, Ollantaytambo, Cusco; c. 1438-1533 CE)
-- **The substantial Mississippi mound builders** — Cahokia (c. 600-1400 CE) and the substantial broader Mississippian culture; the substantial Adena and Hopewell mound traditions
-- **The substantial Pueblo construction** — Chaco Canyon (c. 850-1150 CE), Mesa Verde, and the substantial broader Ancestral Puebloan tradition
+- **实质性的奥尔梅克巨石头像**(约公元前 1200–400 年)— 实质性的多吨玄武岩雕像
+- **特奥蒂瓦坎**(约公元 1–650 年)— 实质性的太阳金字塔、月亮金字塔与更广义的都市建筑群
+- **实质性的玛雅金字塔传统** — 奇琴伊察、提卡尔、帕伦克、科潘,以及更广义实质性的玛雅纪念性传统
+- **特诺奇蒂特兰实质性的阿兹特克大神庙**
+- **实质性的安第斯纪念性传统** — 查文德万塔尔(约公元前 1200–200 年);蒂瓦纳库(约公元 300–1000 年)与普马彭古;实质性的印加建造(萨克塞瓦曼、马丘比丘、奥扬泰坦博、库斯科;约公元 1438–1533 年)
+- **实质性的密西西比筑丘文化** — 卡霍基亚(约公元 600–1400 年)与更广义实质性的密西西比文化;实质性的阿德纳与霍普韦尔筑丘传统
+- **实质性的普韦布洛建筑** — 查科峡谷(约公元 850–1150 年)、梅萨维德,以及更广义实质性的祖先普韦布洛传统
 
-### African monumental tradition beyond Egypt
+### 埃及之外的非洲纪念性传统
 
-The substantial African monumental tradition beyond Egypt includes:
+埃及之外实质性的非洲纪念性传统包括:
 
-- **Great Zimbabwe** (c. 1100-1450 CE) — the substantial stone-city ruins in modern Zimbabwe
-- **The substantial Nubian pyramids** at Meroë and other Sudanese sites (c. 6th century BCE-4th century CE)
-- **The substantial Aksumite stelae** at Aksum (Ethiopia, c. 1st-7th century CE) — substantial monolithic granite stelae up to 33 meters tall
-- **The substantial Lalibela rock-hewn churches** (Ethiopia, c. 12th-13th century CE) — the substantial monolithic churches carved into volcanic rock
-- **The substantial Senegambian stone circles** (c. 3rd century BCE-16th century CE) — substantial megalithic complex across Senegal and Gambia
-- **The substantial Sungbo's Eredo earthwork** (Nigeria, c. 1000 CE) — the substantial 160-km-long defensive ditch
+- **大津巴布韦**(约公元 1100–1450 年)— 现代津巴布韦境内实质性的石城遗址
+- **实质性的努比亚金字塔** — 麦罗埃及其他苏丹遗址(约公元前 6 世纪–公元 4 世纪)
+- **实质性的阿克苏姆方尖石碑** — 阿克苏姆(埃塞俄比亚,约公元 1–7 世纪)— 实质性的整石花岗岩石碑,最高达 33 米
+- **实质性的拉利贝拉岩凿教堂**(埃塞俄比亚,约公元 12–13 世纪)— 实质性的、凿入火山岩的整石教堂
+- **实质性的塞内冈比亚石圈**(约公元前 3 世纪–公元 16 世纪)— 横跨塞内加尔与冈比亚的实质性巨石建筑群
+- **实质性的松博埃雷多土工程**(尼日利亚,约公元 1000 年)— 实质性的、长达 160 公里的防御沟堑
 
-### The cross-cultural pattern of astronomical-alignment incorporation
+### 纪念性建筑中纳入天文对齐的跨文化模式
 
-The substantial cross-cultural pattern of astronomical-alignment incorporation in monumental architecture appears across virtually every major monumental tradition:
+纪念性建筑中纳入天文对齐的实质性跨文化模式,几乎在每一主要纪念性传统中均有出现:
 
-- **Solstice and equinox alignments** — Stonehenge (summer solstice sunrise; winter solstice sunset); Newgrange (winter solstice sunrise); Maeshowe (winter solstice sunset); Chichen Itza's El Castillo (equinox shadow play); the substantial various Egyptian temple alignments; the substantial Inca Torreón at Machu Picchu
-- **Stellar alignments** — Giza-Orion correlation; the substantial Egyptian temple alignments to specific stars (Sirius, Canopus, others); the substantial Mayan alignments to Venus; the substantial Andean alignments to specific stars and constellations
-- **Lunar alignments** — Stonehenge's substantial lunar alignments (the 18.6-year lunar standstill cycle); the substantial Maya lunar tracking; the substantial various lunar alignments globally
-- **Precessional alignments** — the substantial *Hamlet's Mill* hypothesis (treated in the [Comparative Mythology](../comparative-mythology/) entry) that the substantial cross-cultural mythology encodes precessional content
+- **至日与春秋分对齐** — 巨石阵(夏至日出;冬至日落);纽格莱奇(冬至日出);梅斯豪(冬至日落);奇琴伊察的卡斯蒂略金字塔(春秋分阴影表演);实质性的各种埃及神庙对齐;实质性的马丘比丘印加太阳神殿
+- **恒星对齐** — 吉萨—猎户座的对应;实质性的埃及神庙对特定恒星(天狼星、老人星等)的对齐;实质性的玛雅对金星的对齐;实质性的安第斯对特定恒星与星座的对齐
+- **月亮对齐** — 巨石阵实质性的月亮对齐(18.6 年月亮停滞周期);实质性的玛雅月亮追踪;全球实质性的各种月亮对齐
+- **岁差对齐** — 实质性的《哈姆雷特的磨坊》假说(在{% wiki(slug="comparative-mythology") %}比较神话学{% end %}条目中处理),即实质性的跨文化神话编码了岁差内容
 
-### The cross-cultural pattern of mountain-top sacred site selection
+### 山顶神圣遗址选择的跨文化模式
 
-The substantial cross-cultural pattern of "mountain-top" or "high-place" sacred site selection appears across virtually every major religious tradition:
+「山顶」或「高地」神圣遗址选择的实质性跨文化模式,几乎在每一主要宗教传统中均有出现:
 
-- **The Hebrew Bible mountain sites** — Mount Sinai, Mount Zion, Mount Moriah, Mount Carmel, the substantial broader Hebrew Bible mountain-as-sacred-site pattern
-- **The substantial Greek sacred mountains** — Mount Olympus, Mount Parnassus, Mount Athos, Mount Ida, the substantial broader Greek mountain-as-divine-residence pattern
-- **The substantial Andean sacred mountains** — Machu Picchu and the substantial broader Inca apu (mountain spirit) tradition; the substantial Aymara achachilas; the substantial Mapuche pillan
-- **The substantial Himalayan sacred mountains** — Mount Kailash (the substantial Hindu-Buddhist-Jain-Bön sacred mountain); Mount Meru; the substantial broader Himalayan religious tradition
-- **The substantial Japanese sacred mountains** — Mount Fuji, Mount Koya, Mount Hiei, the substantial broader Shinto sangaku-shinkō (mountain worship) tradition
-- **The substantial Chinese sacred mountains** — the substantial Five Great Mountains (Tai Shan, Hua Shan, Heng Shan North, Heng Shan South, Song Shan); the substantial Daoist and Buddhist sacred mountain tradition
-- **The substantial Native American sacred mountains** — the substantial Lakota Bear Butte; the substantial Navajo Four Sacred Mountains; the substantial Apache and other tribal sacred-mountain traditions
+- **希伯来圣经的山岳遗址** — 西奈山、锡安山、摩利亚山、迦密山,以及更广义实质性的希伯来圣经「山为圣地」模式
+- **实质性的希腊神圣山岳** — 奥林匹斯山、帕尔纳索斯山、阿索斯山、伊达山,以及更广义实质性的希腊「山为神居」模式
+- **实质性的安第斯神圣山岳** — 马丘比丘与更广义实质性的印加 *apu*(山灵)传统;实质性的艾马拉 *achachilas*;实质性的马普切 *pillan*
+- **实质性的喜马拉雅神圣山岳** — 冈仁波齐峰(实质性的印度教—佛教—耆那教—苯教神圣山岳);须弥山;更广义实质性的喜马拉雅宗教传统
+- **实质性的日本神圣山岳** — 富士山、高野山、比叡山,以及更广义实质性的神道山岳信仰(*sangaku-shinkō*)传统
+- **实质性的中国神圣山岳** — 实质性的五岳(泰山、华山、北恒山、南衡山、嵩山);实质性的道教与佛教神圣山岳传统
+- **实质性的美洲原住民神圣山岳** — 实质性的拉科塔熊丘;实质性的纳瓦霍四圣山;实质性的阿帕奇及其他部落的神圣山岳传统
 
-The substantial cross-cultural mountain-as-sacred-site pattern is one of the most strongly cross-culturally distributed patterns in comparative religion. The corpus reading: the pattern substantially preserves cultural memory of the alliance's high-mountain Earth-base locations, with the substantial subsequent cultural-religious sanctification of those locations reflecting substantial transmission of the cultural memory across the substantial post-flood centuries.
+「山为圣地」的实质性跨文化模式,是比较宗教学所辨识出的、在跨文化分布上最为强烈的模式之一。本文集的解读:该模式实质上保存了对同盟高山地球基地位置的文化记忆,而后续对这些位置实质性的文化—宗教神圣化,反映了在洪水后数世纪中对该文化记忆的实质性传递。
 
-### The convergence
+### 趋同性
 
-The cross-cultural pattern of megalithic and monumental construction operates as one of the substantial broadest cross-cultural patterns the discipline of Comparative Mythology has identified. The pattern's distribution across virtually every major civilization warrants substantive engagement.
+巨石与纪念性建造的跨文化模式,是{% wiki(slug="comparative-mythology") %}比较神话学{% end %}学科所辨识出的、实质上最为广泛的跨文化模式之一。该模式在几乎每一主要文明中的分布,值得进行实质性的研究。
 
-The corpus position: the cross-cultural pattern reflects multiple causal factors operating together. **Common human cultural-developmental processes** (the universal human capacity for substantial communal labor, substantial astronomical observation, substantial sustained intergenerational construction projects) substantially explain the cross-cultural emergence of monumental construction. **Specific alliance influence on specific traditions** (the cultural-cultivation operations across the various Eloha-team regional contexts; the substantial prophetic missions that established cultural-religious frameworks within which monumental construction was undertaken) substantially shapes the specific forms the cross-cultural pattern takes in specific traditions. **The substantial cross-cultural mountain-sacred-site pattern** specifically reflects substantial cultural memory of the alliance high-mountain base locations.
+本文集的立场是:跨文化模式反映了多种共同运作的因果因素。**人类共同的文化发展过程**(人类对实质性共同体劳动、实质性天文观察、实质性持续跨代建造项目的普遍能力),实质上解释了纪念性建造在跨文化中的兴起。**具体同盟对具体传统的影响**(在各耶洛因团队区域脉络中的文化培育运作;在所确立之文化—宗教框架内进行纪念性建造的实质性先知使命),实质上塑造了跨文化模式在具体传统中所采取的具体形式。**实质性的「山为圣地」跨文化模式**则具体反映了对同盟高山基地位置的实质性文化记忆。
 
-The corpus does not require — and does not adopt — the strong "Ancient Builder race" framing that treats the cross-cultural pattern as evidence of a single lost civilization. The substantial cross-cultural pattern is better explained by the combination of human cultural-developmental processes, specific alliance influence on specific traditions, and substantial cultural memory of alliance presence at specific sacred locations.
-
-## See also
-
-- [Wheel of Heaven](../wheel-of-heaven/)
-- [Ancient Astronaut Hypothesis](../ancient-astronaut-hypothesis/)
-- [Comparative Mythology](../comparative-mythology/)
-- [Neo-Euhemerism](../neo-euhemerism/)
-- [Göbekli Tepe](../gobekli-tepe/)
-- [Atlantis](../atlantis/)
-- [Archaeoastronomy](../archaeoastronomy/)
-- [Sacred Geometry](../sacred-geometry/)
-- [Precession](../precession/)
-- [Hamlet's Mill](../hamlets-mill/)
-- [Elohim](../elohim/)
-- [Yahweh](../yahweh/)
-- [Serpent](../serpent/)
-- [Theomachy](../theomachy/)
-- [Noah](../noah/)
-- [Babel](../babel/)
-- [Ezekiel](../ezekiel/)
-- [Raël](../rael/)
-- [Raëlism](../raelism/)
-- [Message from the Designers](../message-from-the-designers/)
-- [Age of Leo](../age-of-leo/)
-- [Age of Cancer](../age-of-cancer/)
-- [Age of Gemini](../age-of-gemini/)
-
-## References
-
-### Principal Raëlian source
-
-Vorilhon, Claude (Raël). *Le Livre qui dit la vérité*. 1974.
-
-Vorilhon, Claude (Raël). *Les Extra-Terrestres m'ont emmené sur leur planète*. 1975.
-
-Vorilhon, Claude (Raël). *Accueillir les Extra-Terrestres*. 1979.
-
-Vorilhon, Claude (Raël). *Message from the Designers*. Tagman Press, 2005.
-
-### Mainstream archaeology and engineering on megalithic construction
-
-Lehner, Mark. *The Complete Pyramids: Solving the Ancient Mysteries*. Thames & Hudson, 1997.
-
-Lehner, Mark, and Zahi Hawass. *Giza and the Pyramids: The Definitive History*. University of Chicago Press, 2017.
-
-Pitts, Mike. *Hengeworld*. Century, 2000.
-
-Parker Pearson, Mike. *Stonehenge: Exploring the Greatest Stone Age Mystery*. Simon & Schuster, 2012.
-
-Protzen, Jean-Pierre. *Inca Architecture and Construction at Ollantaytambo*. Oxford University Press, 1993.
-
-Hunt, Terry, and Carl Lipo. *The Statues That Walked: Unraveling the Mystery of Easter Island*. Free Press, 2011.
-
-Tallet, Pierre. *Les papyrus de la Mer Rouge I: Le "Journal de Merer"*. Institut français d'archéologie orientale, 2017.
-
-Nash, David E., et al. "Origins of the sarsen megaliths at Stonehenge." *Science Advances* 6, no. 31 (2020): eabc0133.
-
-### Alternative archaeology and Ancient Builders tradition
-
-Hancock, Graham. *Fingerprints of the Gods: The Evidence of Earth's Lost Civilization*. Crown, 1995.
-
-Hancock, Graham. *Magicians of the Gods: The Forgotten Wisdom of Earth's Lost Civilization*. Thomas Dunne, 2015.
-
-Hancock, Graham. *America Before: The Key to Earth's Lost Civilization*. St. Martin's Press, 2019.
-
-Hancock, Graham. *Underworld: The Mysterious Origins of Civilization*. Crown, 2002.
-
-Schoch, Robert M. *Voices of the Rocks: A Scientist Looks at Catastrophes and Ancient Civilizations*. Harmony, 1999.
-
-West, John Anthony. *Serpent in the Sky: The High Wisdom of Ancient Egypt*. Quest, 1993.
-
-Dunn, Christopher. *The Giza Power Plant: Technologies of Ancient Egypt*. Bear & Company, 1998.
-
-### Atlantis tradition
-
-Plato. *Timaeus* and *Critias*. Various editions.
-
-Donnelly, Ignatius. *Atlantis: The Antediluvian World*. Harper & Brothers, 1882.
-
-Cayce, Edgar. *Edgar Cayce on Atlantis*. Edited by Edgar Evans Cayce. Hawthorn, 1968.
-
-Vidal-Naquet, Pierre. *The Atlantis Story: A Short History of Plato's Myth*. University of Exeter Press, 2007.
-
-### Ancient-astronaut engagement
-
-von Däniken, Erich. *Chariots of the Gods? Unsolved Mysteries of the Past*. G. P. Putnam's Sons, 1969.
-
-Sitchin, Zecharia. *The 12th Planet*. Stein and Day, 1976.
-
-### Göbekli Tepe
-
-Schmidt, Klaus. *Göbekli Tepe: A Stone Age Sanctuary in South-Eastern Anatolia*. ex oriente, 2012.
-
-Dietrich, Oliver, et al. "The role of cult and feasting in the emergence of Neolithic communities: New evidence from Göbekli Tepe, south-eastern Turkey." *Antiquity* 86, no. 333 (2012): 674-695.
-
-### Younger Dryas Impact Hypothesis
-
-Firestone, Richard B., et al. "Evidence for an extraterrestrial impact 12,900 years ago that contributed to the megafaunal extinctions and the Younger Dryas cooling." *Proceedings of the National Academy of Sciences* 104, no. 41 (2007): 16016-16021.
-
-Powell, James Lawrence. *Deadly Voyager: The Ancient Comet Strike That Changed Earth and Human History*. Powell Books, 2020.
-
-### Web resources
-
-"Megalith." *Wikipedia*. <https://en.wikipedia.org/wiki/Megalith>.
-
-"Stonehenge." *Wikipedia*. <https://en.wikipedia.org/wiki/Stonehenge>.
-
-"Egyptian pyramids." *Wikipedia*. <https://en.wikipedia.org/wiki/Egyptian_pyramids>.
-
-"Göbekli Tepe." *Wikipedia*. <https://en.wikipedia.org/wiki/G%C3%B6bekli_Tepe>.
-
-"Younger Dryas impact hypothesis." *Wikipedia*. <https://en.wikipedia.org/wiki/Younger_Dryas_impact_hypothesis>.
-
-"Atlantis." *Wikipedia*. <https://en.wikipedia.org/wiki/Atlantis>.
+本文集不要求 — 也不采纳 — 那种将跨文化模式视为某一单一失落文明之证据的强形式「古代建造者种族」框架。实质性的跨文化模式,由人类文化发展过程、具体同盟对具体传统的影响,以及对同盟在具体神圣位置存在的实质性文化记忆这一组合所提出的解释,要更为充分。

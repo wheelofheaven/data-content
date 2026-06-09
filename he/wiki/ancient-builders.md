@@ -1,598 +1,615 @@
 +++
-title = "Ancient Builders"
+title = "בונים קדומים"
 slug = "ancient-builders"
-description = "Ancient Builders is, in popular and alternative-archaeology usage, the proposition that one or more lost or unknown civilizations were responsible for constructing many of the substantial ancient stone monuments found globally — including the Egyptian pyramids, Stonehenge, the Andean megalithic sites at Sacsayhuamán and Machu Picchu, the Easter Island moai, the Maltese megalithic temples, and others — on the grounds that the construction techniques required exceeded the technological capacities attributed to the civilizations conventionally credited with these monuments. The Wheel of Heaven framework engages this proposition carefully. The corpus does not adopt the broader 'Ancient Builder race' framing in its strong form, which treats the visible megalithic monuments as evidence that the human civilizations to whom they are attributed could not have built them. This strong framing is the von Däniken-style cultural-dismissive reading of indigenous achievement that the corpus has explicitly distanced itself from in the [Ancient Astronaut Hypothesis](../ancient-astronaut-hypothesis/) entry. The corpus position: the visible megalithic monuments were principally built by the human civilizations to whom they are conventionally attributed, using technologies the experimental-archaeology record substantially documents. The corpus does engage substantively with several related but distinct phenomena: the pre-flood alliance bases that the Vorilhon source identifies as having been located on high mountains and on submarine locations (the principal Vorilhon-source content about the Andean, Himalayan, Greek, and submarine bases); the post-flood human-civilizational achievement of the visible major monuments, which the corpus treats as substantive human accomplishment whose substantial astronomical and geometric sophistication reflects substantive human cultural development; the substantial Göbekli Tepe revolution and its implications for the substantially earlier-than-previously-thought emergence of monumental construction; and the substantial cross-cultural pattern of megalithic-and-monumental construction traditions, which the corpus reads as reflecting substantial common cultural-developmental processes alongside specific alliance-influence on specific traditions."
+description = "»בונים קדומים« הוא, בשימוש פופולרי ובארכיאולוגיה חלופית, ההצעה שאחת או יותר ציוויליזציות אבודות או לא-ידועות היו אחראיות לבניית רבים מהמונומנטים הקדומים העיקריים מאבן שנמצאים גלובלית — לרבות פירמידות מצרים, סטונהנג', האתרים המגליתיים האנדיניים בסקסאיוואמן ומאצ'ו פיצ'ו, פסלי המואי של אי הפסחא, מקדשי מלטה המגליתיים ואחרים — על בסיס הטיעון שטכניקות הבנייה הנדרשות חרגו מהיכולות הטכנולוגיות המיוחסות לציוויליזציות שמיוחסות להן מונומנטים אלה באופן מקובל. מסגרת »גלגל השמיים« מעורבת בהצעה זו בזהירות. הקורפוס אינו מאמץ את המסגור הרחב יותר של »גזע הבונים הקדומים« בצורתו החזקה, המתייחס למונומנטים המגליתיים הנראים כראיה לכך שהציוויליזציות האנושיות שאליהן מיוחסים לא יכלו לבנות אותם. מסגור חזק זה הוא הקריאה בסגנון פון דניקן המבטלת תרבותית את ההישג הילידי, שממנה הקורפוס התרחק במפורש בערך השערת האסטרונאוט הקדום. עמדת הקורפוס: המונומנטים המגליתיים הנראים נבנו בעיקר על ידי הציוויליזציות האנושיות שאליהן מיוחסים באופן מקובל, באמצעות טכנולוגיות שתיעוד הארכיאולוגיה הניסויית מתעד מהותית. הקורפוס אכן מעורב מהותית בכמה תופעות קשורות אך נפרדות: הבסיסים הטרום-מבוליים של הברית שמקור וורילון מזהה כממוקמים על הרים גבוהים ובמיקומים תת-ימיים (תוכן מקור-וורילון העיקרי על הבסיסים האנדיניים, ההימלאיים, היווניים והתת-ימיים); ההישג הציוויליזציוני האנושי שלאחר המבול של המונומנטים העיקריים הנראים, שהקורפוס מתייחס אליו כהישג אנושי מהותי שתחכומו האסטרונומי והגיאומטרי המהותי משקף התפתחות תרבותית אנושית מהותית; מהפכת גובקלי טפה המהותית והשלכותיה לגבי הופעת בנייה מונומנטלית מוקדמת מהותית יותר ממה שחשבו קודם לכן; והדפוס הבין-תרבותי המהותי של מסורות בנייה מגליתית-ומונומנטלית, שהקורפוס קורא כמשקף תהליכים תרבותיים-התפתחותיים משותפים מהותיים לצד השפעת ברית ספציפית על מסורות ספציפיות."
 template = "wiki-page.html"
 toc = true
 
 [extra]
-translation_status = "metadata_only"
 editorial_pass = "2026-05"
+claim_type = "framework"
 category = "Peoples & Groups"
 entry_type = "concept"
 alternative_names = ["Ancient Builders", "Builder Race", "Megalithic Builders", "the Builders", "lost civilization (broader popular usage)", "Atlantean builders (in Atlantis-tradition usage)"]
 timeline = ["age-of-leo", "age-of-cancer", "age-of-gemini", "age-of-taurus"]
+see_also = [
+    { title = "השערת האסטרונאוט הקדום", path = "wiki/ancient-astronaut-hypothesis", description = "המסגרת הפרשנית הרחבה יותר שבתוכה פועלות טענות הבונים הקדומים כתת-קבוצה אחת; ההבדלים הספציפיים של הקורפוס מהמסגור החזק בסגנון פון דניקן." },
+    { title = "מיתולוגיה השוואתית", path = "wiki/comparative-mythology", description = "ההקשר הדיסציפלינרי לעיסוק בהתפלגות הבין-תרבותית של מסורות בנייה מגליתית ומונומנטלית." },
+    { title = "ניאו-אוהמריזם", path = "wiki/neo-euhemerism", description = "השיטה הפרשנית הקוראת את התוכן המיתולוגי כזיכרון היסטורי דחוס של אירועים אמיתיים." },
+    { title = "תיאומכיה", path = "wiki/theomachy", description = "הקונפליקט הסיעתי הפנים-בריתי שהסתרת הסיעה הנחשית במיקומים תת-ימיים נוגעת לתוכן הבסיסים התת-ימיים של מקור וורילון." },
+    { title = "נחש", path = "wiki/serpent", description = "סיעת לוציפר / הסיעה הנחשית שגלותה לכדור הארץ לאחר עדן נוגעת לתוכן הבסיסים התת-ימיים של הברית." },
+    { title = "ארכאואסטרונומיה", path = "wiki/archaeoastronomy", description = "המעורבות הדיסציפלינרית עם יישורים אסטרונומיים באדריכלות מונומנטלית." },
+    { title = "גיאומטריה קדושה", path = "wiki/sacred-geometry", description = "התחכום הגיאומטרי הקיים באדריכלות מונומנטלית בכל המסורות." },
+    { title = "נקיפה", path = "wiki/precession", description = "המחזור האסטרונומי של 25,800 שנים שמעקבו על ידי מונומנטים קדומים מצדיק עיסוק מהותי." },
+]
+
+footnotes = [
+    { content = "המסגור החזק של »גזע הבונים הקדומים« — שהציוויליזציות שאליהן מיוחסים באופן מקובל לא יכלו לבנות את המונומנטים שלהן עצמן — בעל ממד מבטל-תרבותית מהותי שהקורפוס דוחה על בסיס מתודולוגי כמו גם אתי. המסגור היה, בניסוחיו של המאה התשע-עשרה והעשרים, לעיתים קרובות כרוך בהנחות גזעיות-היררכיות מפורשות לגבי אילו אוכלוסיות היו »מסוגלות« לבנייה מונומנטלית. מחויבות הקורפוס לכבוד להישג הילידי אינה אם כן רק העדפה מתודולוגית אלא מחויבות אתית מהותית: המצרים בנו את פירמידות מצרים; האינקה בנו את סקסאיוואמן; הרפא נואי בנו את המואי; המלטזים הניאוליתיים בנו את מקדשי מלטה. הייחוסים המקובלים נכונים במהותם, ותיעוד הארכיאולוגיה הניסויית מתעד מהותית את שיטות הבנייה." },
+    { content = "תוכן מקור-וורילון על בסיסי כדור הארץ של הברית מתאר התקנות מבצעיות — מעבדות, מגורים, תקשורת ותשתית אנרגיה — ולא בניות מונומנטליות שנועדו כסמלים נראים. הבחנה זו נושאת משקל בעמדת הקורפוס. הבסיסים בהרים הגבוהים שהמקור מזהה בהימלאיה, באנדים, ביוון ובמקומות אחרים אינם המונומנטים המגליתיים הנראים שמסורת הארכיאולוגיה החלופית מצביעה עליהם בדרך כלל (גיזה, סטונהנג', סקסאיוואמן, המואי). הבסיסים השאירו עקבות תרבותיים מקוטעים — הדפוס הבין-תרבותי המהותי של הרים קדושים שהקורפוס קורא כמשמר זיכרון תרבותי של נוכחות ברית — ולא מבנים פיזיים שורדים. המונומנטים המגליתיים הנראים הם תופעה נפרדת, הישג אנושי מהותי, והקורפוס אינו מערבב את השניים." },
+    { content = "הטיעון הגיאולוגי של רוברט שוך לתיארוך מחדש של הספינקס הגדול של גיזה על בסיס דפוסי שחיקת מים מציע תאריך מוקדם מהותית מהייחוס המקובל לשושלת הרביעית (בערך 2500 לפנה״ס) — אולי לפני סוף תקופת הקרחונים האחרונה (בערך 10,000 לפנה״ס או מוקדם יותר). תגובת האגיפטולוגיה המיינסטרימית הייתה שלילית מהותית; הוויכוח נותר שנוי במחלוקת. הקורפוס מתייחס לשאלת התיארוך מחדש של הספינקס כשאלה אמפירית פתוחה במהותה ולא כעובדה מוסדרת בשום כיוון. אם התיארוך מחדש של שוך יאושר בסופו של דבר, ההשלכות על מסגרת הקורפוס יהיו מהותיות; הקורפוס, עם זאת, אינו בונה את קריאתו על ההנחה שהתיארוך מחדש נכון." },
+    { content = "השערת הפגיעה של הדריאס הצעיר (YDIH) מטופלת על ידי הקורפוס ברמה התיאורית — הראיות המהותיות לאירוע קטסטרופלי גדול לפני כ-12,900 שנים מצדיקות עיסוק מהותי — ללא אימוץ המסגור של הנקוק על »ציוויליזציה מתקדמת אבודה« כתוצאה הנגזרת. האוכלוסיות האנושיות המהותיות שלפני הדריאס הצעיר היו בעיקרן תרבויות ציידים-לקטים בעלות תחכום תרבותי מהותי אך לא ציוויליזציה מתקדמת בסגנון אטלנטיס. אירוע ה-YDIH, אם הוא אמיתי, היה משבש מהותית אוכלוסיות אלו ללא צורך בסופר-ציוויליזציה אבודה להסבירו. היחס בין אירוע ה-YDIH לבין מבול הקורפוס הפנים-מסגרתי בגבול סרטן-תאומים בערך ב-6,690 לפנה״ס נפרד מהותית: אירוע ה-YDIH, אם יאושר, יהיה אפיזודה קטסטרופלית מוקדמת מהותית ולא המבול העיקרי." },
+    { content = "מסורת אטלנטיס מטופלת על ידי הקורפוס כמסורת פרשנית מהותית בעלת משמעות תרבותית-דתית מהותית, ללא אימוץ הטענות הספציפיות המהותיות שהצטברו לאורך שושלת דונלי-קייסי-הנקוק. הקורפוס אינו דורש מחויבות למיקום באמצע האוקיינוס האטלנטי, לתוכן טכנולוגיית ה»גביש« המהותי בסגנון קייסי, או לזיהוי אטלנטיס כמקור העיקרי של הציוויליזציה המאוחרת יותר. מה שהקורפוס כן מעורב בו הוא האפשרות המהותית שדיווח אפלטון משמר זיכרון תרבותי של ציוויליזציה טרום-מבולית אמיתית — או ציוויליזציית עדן עצמה או אחת משש השושלות האחרות — כאשר הפרטים הגיאוגרפיים משקפים העתקה שלאחר המבול של זיכרונות מקוטעים. הטיפול הייעודי באטלנטיס מתגורר בערך משלו כאשר ייכתב." },
+    { content = "הכרונולוגיה של גובקלי טפה בערך 9600 לפנה״ס ממקמת את האתר, על פי חישוב הקורפוס, בסוף עידן האריה / תחילת עידן הסרטן — מהותית לפני אירוע מבול גבול סרטן-תאומים בערך ב-6,690 לפנה״ס. האתר הוא לכן טרום-מבולי על פי קריאת הקורפוס. הקבורה המכוונת המהותית של התחומים סביב 8000 לפנה״ס עשויה לשמר זיכרון תרבותי של המבול המתקרב. בוני האתר ציידים-לקטים, על פי קריאת הקורפוס, היו אוכלוסיות אנושיות תחת חניכת ברית מתמשכת במהלך תקופת הסרטן שלאחר עדן / לפני המבול, כאשר היכולת המונומנטלית המהותית משקפת התפתחות תרבותית מטופחת ולא הופעה עצמאית." },
+]
+
+[[extra.references]]
+id = "the-book-which-tells-the-truth"
+note = "מקור ראליאני יסודי לתוכן בסיסי כדור הארץ של הברית — התקנות בהרים גבוהים ותת-ימיות נפרדות מהמונומנטים המגליתיים הנראים."
+
+[[extra.references]]
+id = "extraterrestrials-took-me-to-their-planet"
+note = "יצירתו השנייה של וורילון (1976) — הביקור בפריגור ותוכן ההיסטוריה המהותי של הברית הנוגע לפעולות בסיסי כדור הארץ."
+
+[[extra.references]]
+id = "lets-welcome-the-extraterrestrials"
+note = "יצירתו השלישית של וורילון (1979) — פרויקט השגרירות ותוכן עידן הדלי המהותי."
+
+[[extra.references]]
+id = "the-complete-pyramids"
+note = "הטיפול האקדמי הסטנדרטי בכרך אחד של להנר בקורפוס הפירמידות המצרי — כוח עבודה, שיטות, כרונולוגיה."
+
+[[extra.references]]
+id = "giza-and-the-pyramids"
+note = "הסינתזה הסופית של להנר וחוואס מ-2017 של ארכיאולוגיית רמת גיזה כולל כפר הפועלים הית אל-ע'וראב."
+
+[[extra.references]]
+id = "journal-de-merer-tallet"
+note = "המהדורה הביקורתית של טאלה לפפירוסי ואדי אל-ג'רף כולל יומן מרר — יומן המנהל המתעד את מבצע הובלת אבני הציפוי של הפירמידה הגדולה."
+
+[[extra.references]]
+id = "hengeworld"
+note = "הסינתזה הנגישה של פיטס של מסורת ההנג' של הניאוליתי המאוחר ועידן הברונזה המוקדם עם סטונהנג' כמקרה המרכזי."
+
+[[extra.references]]
+id = "stonehenge-parker-pearson"
+note = "הסינתזה האקדמית בת זמננו של פארקר פירסון מפרויקט הנהר של סטונהנג', כולל דרינגטון וולס ועבודת מחצבת אבני התכלת."
+
+[[extra.references]]
+id = "nash-sarsen-megaliths-2020"
+note = "זיהוי גיאוכימי של מקור מגליתי הסרסן בווסט וודס, מרלבורו דאונס — פתרון שאלת ההובלה הוותיקה."
+
+[[extra.references]]
+id = "inca-architecture-ollantaytambo"
+note = "המחקר הניסויי-ארכיאולוגי היסודי של פרוצן בטכניקת הבנייה הפוליגונלית של האינקה באמצעות שחזור באתר."
+
+[[extra.references]]
+id = "statues-that-walked"
+note = "המעורבות בת זמננו העיקרית של האנט וליפו בארכיאולוגיית אי הפסחא כולל הדגמת ההובלה ההולכת מ-2012."
+
+[[extra.references]]
+id = "fingerprints-of-the-gods"
+note = "יצירתו היסודית של הנקוק מ-1995 הקובעת את השערת הציוויליזציה האבודה בת זמננו."
+
+[[extra.references]]
+id = "magicians-of-the-gods"
+note = "עדכון 2015 של הנקוק את המסגרת עם ראיות השערת הפגיעה של הדריאס הצעיר."
+
+[[extra.references]]
+id = "america-before"
+note = "הרחבת 2019 של הנקוק את המסגרת לאמריקה הטרום-קולומביאנית."
+
+[[extra.references]]
+id = "underworld-hancock"
+note = "מעורבות 2002 של הנקוק באתרים ארכיאולוגיים שקועים גלובלית — מלטה, מפרץ קמביי, יונאגוני, דרך בימיני."
+
+[[extra.references]]
+id = "voices-of-the-rocks"
+note = "הטיעון הגיאולוגי של שוך לתיארוך מחדש של הספינקס הגדול של גיזה על בסיס דפוסי בליה."
+
+[[extra.references]]
+id = "serpent-in-the-sky"
+note = "הניסוח האגיפטולוגי-החלופי של ווסט להשערת הספינקס המוקדם מהותית והקריאה הסימבוליסטית של שוואלר דה לוביץ'."
+
+[[extra.references]]
+id = "giza-power-plant"
+note = "המעורבות האגיפטולוגית-החלופית הממוקדת-הנדסה של דאן עם סימני עיבוד ספציפיים על חפצי גרניט מהממלכה הקדומה."
+
+[[extra.references]]
+id = "vidal-naquet-atlantis-story"
+note = "הטיפול האקדמי הסטנדרטי בן זמננו במסורת אטלנטיס של אפלטון — סקפטי לגבי כל אטלנטיס היסטורית."
+
+[[extra.references]]
+id = "atlantis-antediluvian-world"
+note = "תחיית 1882 היסודית של דונלי את מסורת אטלנטיס והמקור העיקרי לשיח אטלנטיס הפופולרי המאוחר יותר."
+
+[[extra.references]]
+id = "edgar-cayce-on-atlantis"
+note = "האסופה של אדגר אוואנס קייסי לתוכן אטלנטיס המהותי מקריאות הטראנס של אדגר קייסי משנות ה-1920–1940."
+
+[[extra.references]]
+id = "lost-continent-of-mu"
+note = "הטקסט היסודי של צ'רצ'וורד מ-1926 של מסורת מו / הציוויליזציה האבודה של האוקיינוס השקט."
+
+[[extra.references]]
+id = "chariots-of-the-gods"
+note = "יצירתו היסודית של פון דניקן מ-1968 — הטקסט הבודד המשפיע ביותר של מסורת האסטרונאוטים הקדומים בת זמננו. הקורפוס מעורב בו באופן ביקורתי: המתודולוגיה המבטלת תרבותית של פון דניקן היא זו שממנה הקורפוס מתרחק במפורש."
+
+[[extra.references]]
+id = "the-12th-planet"
+note = "הכרך היסודי של סיצ'ין מ-1976 של סדרת *הכרוניקות של כדור הארץ* והמקור העיקרי של הפרשנות האנונאקי בת זמננו."
+
+[[extra.references]]
+id = "gobekli-tepe-schmidt"
+note = "המונוגרפיה היסודית של שמידט על חפירת גובקלי טפה."
+
+[[extra.references]]
+id = "dietrich-gobekli-antiquity-2012"
+note = "פרשנות הפולחן והמשתאות של דיטריך ואחרים בביקורת עמיתים לגובקלי טפה והשלכותיה המהותיות לרצף המהפכה הניאוליתית."
+
+[[extra.references]]
+id = "firestone-pnas-2007"
+note = "הפרסום המדעי המבוקר עמיתים היסודי של השערת הפגיעה של הדריאס הצעיר."
+
+[[extra.references]]
+id = "deadly-voyager"
+note = "הסינתזה האקדמית הנגישה של פאוול לראיות ה-YDIH שהצטברו מאז 2007."
 
 [extra.infobox]
-type = "Popular and alternative-archaeology category designating proposed lost or unknown civilizations responsible for major ancient stone monuments; corpus engages selectively rather than adopting the broader framing"
-principal_alternative_archaeology_claims = "Major megalithic monuments (Giza, Stonehenge, Sacsayhuamán, Easter Island moai, Maltese temples, others) too sophisticated for the human civilizations conventionally credited with them; lost advanced civilization (variously named: Atlantean, Lemurian, pre-flood, the Builder Race) responsible for construction"
-corpus_position = "Visible megalithic monuments principally built by the human civilizations to whom they are conventionally attributed, using technologies experimental archaeology substantially documents; the broader 'Ancient Builder race' framing is the von Däniken-style cultural-dismissive reading the corpus has explicitly distanced itself from"
-corpus_engaged_phenomena = "Pre-flood alliance bases on high mountains (Andean, Himalayan, Greek) and submarine locations per the Vorilhon source; post-flood human-civilizational achievement as substantive human accomplishment; Göbekli Tepe revolution and its substantial implications for monumental construction substantially earlier than previously thought; cross-cultural pattern of megalithic-and-monumental construction traditions"
-distinguished_from = "The strong 'Ancient Builder race' framing in popular alternative archaeology (which the corpus does not adopt); the Atlantis tradition narrowly (which the corpus engages as distinct subject matter); the broader Ancient Astronaut Hypothesis (within which Ancient Builder claims operate as one specific subset)"
-status_in_framework = "Selectively engaged: the pre-flood alliance-base content is corpus content; the broader 'Ancient Builder race' framing is registered as adjacent tradition the corpus differs from; the post-flood human-monumental-construction record is engaged at the mainstream-archaeological descriptive level"
+type = "קטגוריה פופולרית וארכיאולוגיה חלופית המייעדת ציוויליזציות אבודות או לא-ידועות מוצעות האחראיות למונומנטים קדומים עיקריים מאבן; הקורפוס מעורב באופן סלקטיבי ולא מאמץ את המסגור הרחב יותר"
+principal_alternative_archaeology_claims = "מונומנטים מגליתיים עיקריים (גיזה, סטונהנג', סקסאיוואמן, מואי אי הפסחא, מקדשי מלטה, אחרים) מתוחכמים מדי לציוויליזציות האנושיות שאליהן מיוחסים באופן מקובל; ציוויליזציה מתקדמת אבודה (בשמות שונים: אטלנטית, למורית, טרום-מבולית, גזע הבונים) האחראית לבנייה"
+corpus_position = "מונומנטים מגליתיים נראים נבנו בעיקר על ידי הציוויליזציות האנושיות שאליהן מיוחסים באופן מקובל, באמצעות טכנולוגיות שהארכיאולוגיה הניסויית מתעדת מהותית; המסגור הרחב יותר של »גזע הבונים הקדומים« הוא הקריאה בסגנון פון דניקן המבטלת תרבותית שממנה הקורפוס התרחק במפורש"
+corpus_engaged_phenomena = "בסיסים טרום-מבוליים של הברית בהרים גבוהים (אנדיים, הימלאיים, יוונים) ומיקומים תת-ימיים על פי מקור וורילון; הישג ציוויליזציוני אנושי שלאחר המבול כהישג אנושי מהותי; מהפכת גובקלי טפה והשלכותיה המהותיות לבנייה מונומנטלית מוקדמת מהותית יותר ממה שחשבו קודם; דפוס בין-תרבותי של מסורות בנייה מגליתית-ומונומנטלית"
+distinguished_from = "המסגור החזק של »גזע הבונים הקדומים« בארכיאולוגיה החלופית הפופולרית (שהקורפוס אינו מאמץ); מסורת אטלנטיס בצמצום (שהקורפוס מעורב בה כנושא נפרד); השערת האסטרונאוט הקדום הרחבה יותר (שבתוכה פועלות טענות הבונים הקדומים כתת-קבוצה ספציפית אחת)"
+status_in_framework = "מעורבות סלקטיבית: תוכן בסיסי-הברית הטרום-מבולי הוא תוכן קורפוס; המסגור הרחב יותר של »גזע הבונים הקדומים« נרשם כמסורת סמוכה שהקורפוס נבדל ממנה; תיעוד הבנייה האנושית-מונומנטלית שלאחר המבול מטופל ברמה הארכיאולוגית המיינסטרימית התיאורית"
 +++
 
-**Ancient Builders** is, in popular and alternative-archaeology usage, the proposition that one or more lost or unknown civilizations were responsible for constructing many of the major ancient stone monuments found globally. The principal monuments registered under the Ancient Builders framing include:
+**בונים קדומים** הוא, בשימוש פופולרי ובארכיאולוגיה חלופית, ההצעה שאחת או יותר ציוויליזציות אבודות או לא-ידועות היו אחראיות לבניית רבים מהמונומנטים הקדומים העיקריים מאבן שנמצאים גלובלית. המונומנטים העיקריים הרשומים תחת מסגור הבונים הקדומים כוללים:
 
-- The Egyptian pyramids (Giza, Saqqara, Dahshur, others)
-- Stonehenge and the broader European megalithic tradition (Carnac, Newgrange, Avebury)
-- The Andean megalithic sites (Sacsayhuamán, Machu Picchu, Tiwanaku, Puma Punku)
-- The Easter Island moai
-- The Maltese megalithic temples (Ġgantija, Hagar Qim, Mnajdra)
-- Baalbek (Lebanon)
-- Göbekli Tepe (southeastern Turkey)
-- Various other major megalithic sites globally
+- את פירמידות מצרים (גיזה, סקארה, דהשור ואחרים)
+- את סטונהנג' ואת מסורת המגליתים האירופית הרחבה (קארנק, ניוגריינג', אבברי)
+- את האתרים המגליתיים האנדיניים (סקסאיוואמן, מאצ'ו פיצ'ו, טיוואנאקו, פומה פונקו)
+- את מואי אי הפסחא
+- את מקדשי מלטה המגליתיים (ג'גנטיה, חג'ר קים, מנאידרה)
+- את בעלבק (לבנון)
+- את גובקלי טפה (דרום-מזרח טורקיה)
+- אתרים מגליתיים עיקריים גלובליים אחרים שונים
 
-The framing's core claim: the construction techniques required for these monuments — the quarrying, transport, lifting, and precise placement of stones weighing many tons; the polygonal-interlocking masonry without mortar; the astronomical alignments calibrated to celestial events — exceeded the technological capacities attributed to the civilizations conventionally credited with the monuments. A lost civilization (variously named the Atlanteans, the Lemurians, the pre-flood race, simply "the Builders") is proposed as the actual constructor, with the conventionally-credited civilizations either inheriting the monuments from the earlier builders or being the cultural descendants of the earlier builders themselves.
+טענת הליבה של המסגור: טכניקות הבנייה הנדרשות למונומנטים אלה — חציבת, הובלת, הרמת ומיקום מדויק של אבנים השוקלות טונות רבות; בנייה פוליגונלית-משולבת ללא טיט; יישורים אסטרונומיים המכוילים לאירועים שמימיים — חרגו מהיכולות הטכנולוגיות המיוחסות לציוויליזציות שמיוחסים להן המונומנטים באופן מקובל. ציוויליזציה אבודה (בשמות שונים: האטלנטים, הלמוריים, הגזע הטרום-מבולי, פשוט »הבונים«) מוצעת כבונה האמיתי, כאשר הציוויליזציות המקובלות יורשות את המונומנטים מהבונים הקודמים או הן הצאצאים התרבותיים של הבונים הקודמים עצמם.
 
-The Wheel of Heaven framework engages this proposition carefully. **The corpus does not adopt the broader "Ancient Builder race" framing in its strong form**, which treats the visible megalithic monuments as evidence that the human civilizations to whom they are attributed could not have built them. This strong framing is the von Däniken-style cultural-dismissive reading of indigenous achievement that the corpus has explicitly distanced itself from in the [Ancient Astronaut Hypothesis](../ancient-astronaut-hypothesis/) entry.
+מסגרת »גלגל השמיים« מעורבת בהצעה זו בזהירות. **הקורפוס אינו מאמץ את המסגור הרחב יותר של »גזע הבונים הקדומים« בצורתו החזקה**, המתייחס למונומנטים המגליתיים הנראים כראיה לכך שהציוויליזציות האנושיות שאליהן מיוחסים לא יכלו לבנות אותם. מסגור חזק זה הוא הקריאה בסגנון פון דניקן המבטלת תרבותית את ההישג הילידי, שממנה הקורפוס התרחק במפורש בערך {% wiki(slug="ancient-astronaut-hypothesis") %}השערת האסטרונאוט הקדום{% end %}.{{ footnote(id="1") }}
 
-The corpus position: the visible megalithic monuments were principally built by the human civilizations to whom they are conventionally attributed, using technologies the experimental-archaeology record documents. The Egyptians built the Egyptian pyramids; the Neolithic and Bronze Age peoples of Britain built Stonehenge; the Inca built Sacsayhuamán; the Rapa Nui built the Easter Island moai; the Neolithic Maltese built the Maltese temples. The conventional attributions are substantively correct.
+עמדת הקורפוס: המונומנטים המגליתיים הנראים נבנו בעיקר על ידי הציוויליזציות האנושיות שאליהן מיוחסים באופן מקובל, באמצעות טכנולוגיות שתיעוד הארכיאולוגיה הניסויית מתעד. המצרים בנו את פירמידות מצרים; אנשי הניאוליתי ועידן הברונזה של בריטניה בנו את סטונהנג'; האינקה בנו את סקסאיוואמן; הרפא נואי בנו את מואי אי הפסחא; המלטזים הניאוליתיים בנו את מקדשי מלטה. הייחוסים המקובלים נכונים במהותם.
 
-The corpus engages substantively with several related but distinct phenomena:
+הקורפוס מעורב מהותית בכמה תופעות קשורות אך נפרדות:
 
-- **The pre-flood alliance bases.** The Vorilhon source identifies the Elohim alliance as having maintained Earth-bases on high mountains and at submarine locations. The principal Vorilhon-source quotation: *"To avoid being disturbed by humans, the creators built their bases on high mountains, where we now find traces of great civilizations (in the Himalayas and Peru, for example), as well as at the bottom of the sea."* This is genuine corpus content distinct from the broader "Ancient Builder race" claim.
-- **The post-flood human-civilizational achievement.** The visible major monuments are substantively human accomplishment. The astronomical and geometric sophistication of the monuments reflects substantive human cultural development, often within civilizations the alliance had previously cultivated through cultural-cultivation rather than direct construction.
-- **The Göbekli Tepe revolution.** The Turkish site dated to c. 9500 BCE has substantively changed the conventional chronology of monumental construction, demonstrating that pre-agricultural human populations were capable of major coordinated stone construction substantially earlier than the conventional view allowed. Göbekli Tepe deserves its own dedicated entry; brief treatment here.
-- **The cross-cultural pattern.** The substantial cross-cultural distribution of megalithic-and-monumental construction traditions across virtually every major civilization warrants comparative engagement.
+- **בסיסי הברית הטרום-מבוליים.** מקור וורילון מזהה את ברית {% wiki(slug="elohim") %}האלוהים{% end %} כמי ששמרה על בסיסים על כדור הארץ בהרים גבוהים ובמיקומים תת-ימיים. הציטוט העיקרי ממקור וורילון: *»כדי להימנע מהפרעה מצד בני האדם, הבוראים בנו את בסיסיהם על הרים גבוהים, היכן שאנו מוצאים כעת עקבות של ציוויליזציות גדולות (בהימלאיה ובפרו, למשל), כמו גם בקרקעית הים.«*{{ cite(id="the-book-which-tells-the-truth", text="[1]", title="וורילון (ראל), *הספר המספר את האמת* (1974) — תוכן בסיסי כדור הארץ של הברית") }} זהו תוכן קורפוס אמיתי הנפרד מטענת »גזע הבונים הקדומים« הרחבה יותר.{{ footnote(id="2") }}
+- **ההישג הציוויליזציוני האנושי שלאחר המבול.** המונומנטים העיקריים הנראים הם הישג אנושי מהותי. התחכום האסטרונומי והגיאומטרי של המונומנטים משקף התפתחות תרבותית אנושית מהותית, לעיתים קרובות בתוך ציוויליזציות שהברית טיפחה קודם לכן באמצעות חניכה תרבותית ולא באמצעות בנייה ישירה.
+- **מהפכת גובקלי טפה.** האתר הטורקי המתוארך לבסביבות 9500 לפנה״ס שינה מהותית את הכרונולוגיה המקובלת של בנייה מונומנטלית, ומדגים שאוכלוסיות אנושיות טרום-חקלאיות היו מסוגלות לבנייה מתואמת מאבן מוקדם מהותית ממה שהשקפת הקונצנזוס איפשרה.{{ cite(id="gobekli-tepe-schmidt", text="[2]", title="שמידט, *גובקלי טפה: מקדש מתקופת האבן בדרום-מזרח אנטוליה* (2012)") }} גובקלי טפה ראוי לערך ייעודי משלו; טיפול קצר כאן.
+- **הדפוס הבין-תרבותי.** ההתפלגות הבין-תרבותית המהותית של מסורות בנייה מגליתית-ומונומנטלית על פני כמעט כל ציוויליזציה גדולה מצדיקה עיסוק השוואתי.
 
-This entry articulates Ancient Builders carefully — its etymology and disciplinary scope, the principal claims of the alternative-archaeology tradition, the corpus's specific positioning within and against the tradition, the Vorilhon-source content about alliance Earth-bases, the principal cross-cultural mainstream archaeological and engineering engagement, the alternative-archaeology and ancient-astronaut tradition, the Göbekli Tepe revolution and its implications, and the broader cross-cultural megalithic and monumental-construction patterns.
+ערך זה מנסח את הבונים הקדומים בזהירות — האטימולוגיה והטווח הדיסציפלינרי שלהם, הטענות העיקריות של מסורת הארכיאולוגיה החלופית, מיקום הקורפוס הספציפי בתוך ונגד המסורת, תוכן מקור-וורילון על בסיסי כדור הארץ של הברית, המעורבות הארכיאולוגית והנדסית המיינסטרימית הבין-תרבותית העיקרית, מסורת הארכיאולוגיה החלופית והאסטרונאוטים הקדומים, מהפכת גובקלי טפה והשלכותיה, והדפוסים הבין-תרבותיים הרחבים יותר של בנייה מגליתית ומונומנטלית.
 
-## Etymology and scope
+## אטימולוגיה וטווח
 
-### Etymology
+### אטימולוגיה
 
-The term *Ancient Builders* combines two components:
+המונח *Ancient Builders* (»בונים קדומים«) משלב שני מרכיבים:
 
-- **Ancient** (Latin *antiquus*, "former, of earlier time") — designating the prehistoric and early-historic periods, generally before the rise of modern industrial civilization
-- **Builders** (Old English *byldan*, "to construct") — designating the agents who construct buildings, monuments, or other physical structures
+- **Ancient** (לטינית *antiquus*, »ראשון, של זמן מוקדם יותר«) — המייעד את התקופות הפרהיסטוריות וההיסטוריות המוקדמות, בדרך כלל לפני עליית הציוויליזציה התעשייתית המודרנית
+- **Builders** (אנגלית עתיקה *byldan*, »לבנות«) — המייעד את הסוכנים הבונים בניינים, מונומנטים או מבנים פיזיים אחרים
 
-The compound term *Ancient Builders* designates the agents (whether individuals, groups, or civilizations) responsible for ancient construction. In mainstream archaeological usage, the term is general — applying to all ancient construction activity. In alternative-archaeology usage, the term has acquired the more specific meaning of a lost or unknown advanced civilization responsible for the major megalithic monuments.
+המונח המורכב *Ancient Builders* מייעד את הסוכנים (בין אם יחידים, קבוצות או ציוויליזציות) האחראים לבנייה קדומה. בשימוש ארכיאולוגי מיינסטרימי, המונח כללי — חל על כל פעילות הבנייה הקדומה. בשימוש ארכיאולוגי חלופי, המונח רכש את המשמעות הספציפית יותר של ציוויליזציה מתקדמת אבודה או לא-ידועה האחראית למונומנטים המגליתיים העיקריים.
 
-### Disciplinary scope
+### הטווח הדיסציפלינרי
 
-The Ancient Builders concept operates across multiple registers:
+מושג הבונים הקדומים פועל על פני מספר רגיסטרים:
 
-- **Mainstream archaeology** treats ancient builders as the documented or reconstructable human populations who built specific monuments at specific times using specific techniques. The discipline does not require any "lost civilization" hypothesis; the construction is treated as accomplished by the populations conventionally attributed with the monuments.
-- **Alternative archaeology** (Graham Hancock, Robert Schoch, John Anthony West, and others) treats the question of whether mainstream attributions are adequate as substantively open. The principal claims: some monuments may be substantially older than conventionally dated; some construction techniques may require explanations the mainstream view does not provide; a lost civilization may have produced the original monuments that later cultures inherited or rebuilt.
-- **Ancient Astronaut tradition** (treated systematically in the [Ancient Astronaut Hypothesis](../ancient-astronaut-hypothesis/) entry) treats some monuments as candidate evidence for extraterrestrial influence in human construction.
-- **The Atlantis tradition** (Plato's *Critias* and *Timaeus*, with extensive subsequent development through Cayce, Hancock, and others) treats the lost civilization as Atlantis specifically.
-- **The Builder Race framing** is the popular alternative-archaeology designation that occasionally appears in YouTube, podcast, and broader internet alternative-archaeology engagement, often without commitment to any specific identification of the proposed lost civilization.
+- **הארכיאולוגיה המיינסטרימית** מתייחסת לבונים הקדומים כאוכלוסיות אנושיות מתועדות או ניתנות לשחזור שבנו מונומנטים ספציפיים בזמנים ספציפיים באמצעות טכניקות ספציפיות. הדיסציפלינה אינה דורשת שום השערת »ציוויליזציה אבודה«; הבנייה מטופלת כמושגת על ידי האוכלוסיות שמיוחסים להן המונומנטים באופן מקובל.
+- **הארכיאולוגיה החלופית** (גרהאם הנקוק, רוברט שוך, ג'ון אנתוני ווסט ואחרים) מתייחסת לשאלה אם הייחוסים המקובלים מספקים כפתוחה מהותית. הטענות העיקריות: חלק מהמונומנטים עשויים להיות מוקדמים מהותית ממה שמתוארך באופן מקובל; חלק מטכניקות הבנייה עשויות לדרוש הסברים שההשקפה המקובלת אינה מספקת; ציוויליזציה אבודה עשויה להפיק את המונומנטים המקוריים שתרבויות מאוחרות יותר ירשו או בנו מחדש.
+- **מסורת האסטרונאוטים הקדומים** (המטופלת באופן שיטתי בערך {% wiki(slug="ancient-astronaut-hypothesis") %}השערת האסטרונאוט הקדום{% end %}) מתייחסת לחלק מהמונומנטים כראיות מועמדות להשפעה חוץ-ארצית בבנייה אנושית.
+- **מסורת אטלנטיס** (ה-*Critias* וה-*Timaeus* של אפלטון, עם פיתוח עוקב נרחב דרך קייסי, הנקוק ואחרים) מתייחסת לציוויליזציה האבודה כאטלנטיס ספציפית.
+- **מסגור גזע הבונים** הוא הייעוד הארכיאולוגי-החלופי הפופולרי המופיע מדי פעם ביוטיוב, בפודקאסטים ובמעורבות הארכיאולוגית-החלופית הרחבה יותר של האינטרנט, לעיתים קרובות ללא מחויבות לזיהוי ספציפי כלשהו של הציוויליזציה האבודה המוצעת.
 
-The corpus's engagement operates principally at the mainstream-archaeological descriptive level for the visible major monuments, with selective engagement on the substantive pre-flood alliance-base content and the substantial Göbekli Tepe revolution.
+מעורבות הקורפוס פועלת בעיקר ברמה הארכיאולוגית המיינסטרימית התיאורית עבור המונומנטים העיקריים הנראים, עם מעורבות סלקטיבית בתוכן בסיסי-הברית הטרום-מבולי המהותי ובמהפכת גובקלי טפה המהותית.
 
-## The principal claims of the alternative-archaeology tradition
+## טענות מסורת הארכיאולוגיה החלופית
 
-The alternative-archaeology tradition has articulated several principal claims about Ancient Builders. These claims warrant articulation before the corpus's specific positioning, because the corpus differs from each in specific ways.
+מסורת הארכיאולוגיה החלופית ניסחה כמה טענות עיקריות לגבי הבונים הקדומים. טענות אלו מצדיקות ניסוח לפני מיקום הקורפוס הספציפי, מכיוון שהקורפוס נבדל מכל אחת באופנים ספציפיים.
 
-### Claim 1: The monuments are too sophisticated for the attributed civilizations
+### טענה 1: המונומנטים מתוחכמים מדי לציוויליזציות המיוחסות
 
-The principal claim of the broader Ancient Builders tradition: the construction techniques required for the major megalithic monuments exceeded the technological capacities of the civilizations conventionally credited with them. The principal supporting observations:
+הטענה העיקרית של מסורת הבונים הקדומים הרחבה: טכניקות הבנייה הנדרשות למונומנטים המגליתיים העיקריים חרגו מהיכולות הטכנולוגיות של הציוויליזציות שמיוחסות להן באופן מקובל. התצפיות התומכות העיקריות:
 
-- **Major stone weight.** Specific monuments incorporate stones weighing many tons, requiring substantial transport and lifting infrastructure. Examples: the Sacsayhuamán stones (up to ~200 tons); the Baalbek trilithon (each stone ~800 tons); the Aswan unfinished obelisk (estimated ~1,000 tons); the Giza pyramid casing stones (multiple tons each); the Stonehenge sarsens (up to ~30 tons).
-- **Long-distance transport.** Specific stones were transported substantial distances from quarries to sites. Examples: the Stonehenge bluestones transported ~200 km from the Preseli Hills in Wales; the Giza granite transported ~800 km from Aswan; specific Andean megalithic stones transported across mountainous terrain.
-- **Precise placement.** The polygonal-interlocking masonry at sites like Sacsayhuamán, Machu Picchu, and Ollantaytambo achieves stone-to-stone fits with gaps "narrower than a knife blade" without mortar. The Giza pyramid's casing stones (originally present, now substantially removed) were similarly precise.
-- **Astronomical alignment.** Specific monuments incorporate calibrated astronomical alignments — Giza-Orion correlations; Stonehenge's solstice alignments; Newgrange's winter-solstice illumination; the Mayan Pyramid of Kukulkan's equinox shadow play; many others.
-- **Geometric sophistication.** Specific monuments incorporate complex geometric relationships — golden-ratio proportions; trigonometric relationships; precise cardinal-direction alignments; latitude-encoding measurements.
+- **משקל אבן עיקרי.** מונומנטים ספציפיים משלבים אבנים השוקלות טונות רבות, הדורשות תשתית הובלה והרמה מהותית. דוגמאות: אבני סקסאיוואמן (עד כ-200 טון); הטריליתון של בעלבק (כל אבן כ-800 טון); האובליסק הלא-גמור של אסואן (מוערך בכ-1,000 טון); אבני הציפוי של פירמידת גיזה (טונות רבות כל אחת); סרסני סטונהנג' (עד כ-30 טון).
+- **הובלה למרחקים גדולים.** אבנים ספציפיות הובלו מרחקים מהותיים ממחצבות לאתרים. דוגמאות: אבני התכלת של סטונהנג' הובלו כ-200 ק"מ מגבעות פרסלי בוויילס; הגרניט של גיזה הובל כ-800 ק"מ מאסואן; אבנים מגליתיות אנדיניות ספציפיות הובלו על פני שטח הררי.
+- **מיקום מדויק.** הבנייה הפוליגונלית-משולבת באתרים כמו סקסאיוואמן, מאצ'ו פיצ'ו ואויאנטאיטמבו משיגה התאמות אבן-לאבן עם מרווחים »צרים יותר מלהב סכין« ללא טיט. אבני הציפוי של פירמידת גיזה (שהיו במקור, כעת הוסרו מהותית) היו מדויקות באופן דומה.
+- **יישור אסטרונומי.** מונומנטים ספציפיים משלבים יישורים אסטרונומיים מכוילים — קורלציות גיזה-אוריון; יישורי הסולסטיציום של סטונהנג'; הארת הסולסטיציום של החורף של ניוגריינג'; משחק הצללים של השוויון של פירמידת קוקולקאן של המאיה; רבים אחרים.
+- **תחכום גיאומטרי.** מונומנטים ספציפיים משלבים יחסים גיאומטריים מורכבים — פרופורציות יחס-הזהב; יחסים טריגונומטריים; יישורי כיוון-קרדינלי מדויקים; מדידות המקודדות קווי רוחב.
 
-The conclusion the alternative-archaeology tradition draws: the conventionally-credited civilizations did not have the technological capacity for these achievements, therefore a more advanced civilization must have been responsible.
+המסקנה שמסורת הארכיאולוגיה החלופית מסיקה: לציוויליזציות המקובלות לא הייתה היכולת הטכנולוגית להישגים אלה, ולכן ציוויליזציה מתקדמת יותר חייבת הייתה להיות אחראית.
 
-### Claim 2: The lost civilization is identifiable
+### טענה 2: הציוויליזציה האבודה ניתנת לזיהוי
 
-The alternative-archaeology tradition has variously identified the proposed lost civilization:
+מסורת הארכיאולוגיה החלופית זיהתה את הציוויליזציה האבודה המוצעת באופנים שונים:
 
-- **Atlantis** — Plato's *Critias* and *Timaeus* describe a lost civilization beyond the Pillars of Hercules destroyed in a catastrophic flood; the subsequent Atlantis tradition (Donnelly's 1882 *Atlantis: The Antediluvian World*; Cayce's 1920s-1940s readings; Hancock's contemporary work) substantially elaborates this
-- **Lemuria / Mu** — the Pacific equivalent of Atlantis, popularized by Augustus Le Plongeon and James Churchward in the late 19th and early 20th centuries
-- **The Cygnus / Sirius / Pleiadian source** — various ancient-astronaut framings linking specific monuments to specific star systems
-- **The pre-flood civilization** — broader Younger Dryas-era civilizational catastrophe framings, with the substantial pre-Younger-Dryas civilization destroyed by the proposed Younger Dryas Impact event (c. 12,900 BCE)
-- **The Builder Race** — the more agnostic popular framing that posits a lost civilization without committing to its specific identity
+- **אטלנטיס** — ה-*Critias* וה-*Timaeus* של אפלטון מתארים ציוויליזציה אבודה מעבר לעמודי הרקולס שהושמדה במבול קטסטרופלי;{{ cite(id="vidal-naquet-atlantis-story", text="[3]", title="וידאל-נאקה, *סיפור אטלנטיס* (2007) — טיפול אקדמי במסורת אפלטון") }} מסורת אטלנטיס המאוחרת יותר (*אטלנטיס: העולם הטרום-מבולי* של דונלי מ-1882;{{ cite(id="atlantis-antediluvian-world", text="[4]", title="דונלי, *אטלנטיס: העולם הטרום-מבולי* (1882) — תחיית אטלנטיס היסודית של המאה התשע-עשרה") }} קריאות קייסי משנות ה-1920–1940;{{ cite(id="edgar-cayce-on-atlantis", text="[5]", title="אדגר קייסי על אטלנטיס (1968) — קריאות אטלנטיס של ה»נביא הישן«") }} עבודת הנקוק בת זמננו) מפרטת זאת מהותית
+- **למוריה / מו** — המקבילה של אטלנטיס באוקיינוס השקט, שזכתה לפופולריות על ידי אוגוסטוס לה פלונז'ון וג'יימס צ'רצ'וורד בסוף המאה ה-19 ותחילת המאה ה-20{{ cite(id="lost-continent-of-mu", text="[6]", title="צ'רצ'וורד, *היבשת האבודה של מו* (1926) — הטקסט היסודי של מסורת מו / הציוויליזציה האבודה של האוקיינוס השקט") }}
+- **המקור הקיגנוסי / סיריוסי / פליאדי** — מסגורים שונים של אסטרונאוטים קדומים המקשרים מונומנטים ספציפיים למערכות כוכבים ספציפיות
+- **הציוויליזציה הטרום-מבולית** — מסגורים רחבים יותר של קטסטרופה ציוויליזציונית בעידן הדריאס הצעיר, כאשר הציוויליזציה המהותית שלפני הדריאס הצעיר הושמדה באירוע הפגיעה המוצע של הדריאס הצעיר (בערך 12,900 לפנה״ס)
+- **גזע הבונים** — המסגור הפופולרי האגנוסטי יותר המניח ציוויליזציה אבודה ללא התחייבות לזהותה הספציפית
 
-### Claim 3: The conventional chronology is wrong
+### טענה 3: הכרונולוגיה המקובלת שגויה
 
-The alternative-archaeology tradition substantially disputes the conventional dating of specific monuments:
+מסורת הארכיאולוגיה החלופית חולקת מהותית על התיארוך המקובל של מונומנטים ספציפיים:
 
-- **The Sphinx** — Robert Schoch's water-erosion argument proposes that the Sphinx is substantially older than the conventional ~2500 BCE dating, possibly dating to before the end of the last glacial period (~10,000 BCE or earlier)
-- **The Andean megalithic sites** — various alternative-archaeology arguments propose that specific Andean sites (particularly the lowest courses at Sacsayhuamán and Puma Punku) are substantially older than the conventional Inca-era dating
-- **Various other sites** — substantially older dating claims for specific monuments
+- **הספינקס** — הטיעון של רוברט שוך על שחיקת המים מציע שהספינקס מוקדם מהותית מהתיארוך המקובל לכ-2500 לפנה״ס, אולי מתוארך לפני סוף תקופת הקרחונים האחרונה (כ-10,000 לפנה״ס או מוקדם יותר){{ cite(id="voices-of-the-rocks", text="[7]", title="שוך, *קולות הסלעים* (1999) — טיעון גיאולוגי לתיארוך מחדש של הספינקס") }}{{ footnote(id="3") }}
+- **האתרים המגליתיים האנדיניים** — טיעונים ארכיאולוגיים חלופיים שונים מציעים שאתרים אנדיניים ספציפיים (במיוחד השכבות התחתונות בסקסאיוואמן ובפומה פונקו) מוקדמים מהותית מהתיארוך המקובל לעידן האינקה
+- **אתרים שונים אחרים** — טענות תיארוך מוקדמות מהותית למונומנטים ספציפיים
 
-### Claim 4: The construction techniques are unexplained
+### טענה 4: טכניקות הבנייה אינן מוסברות
 
-The alternative-archaeology tradition argues that specific construction techniques have not been adequately explained by mainstream archaeology:
+מסורת הארכיאולוגיה החלופית טוענת שטכניקות בנייה ספציפיות לא הוסברו כראוי על ידי הארכיאולוגיה המיינסטרימית:
 
-- How were the Baalbek trilithons quarried, transported, and placed?
-- How was the polygonal-interlocking masonry achieved with the precision observed?
-- How were the Giza pyramid's internal granite blocks (each weighing many tons) transported up the rising pyramid structure?
-- How were the Stonehenge sarsens raised into vertical position?
-- How were the Easter Island moai transported across the island and erected?
+- כיצד נחצבו, הובלו ומוקמו הטריליתונים של בעלבק?
+- כיצד הושגה הבנייה הפוליגונלית-משולבת בדיוק הנצפה?
+- כיצד הובלו בלוקי הגרניט הפנימיים של פירמידת גיזה (כל אחד שוקל טונות רבות) במעלה מבנה הפירמידה העולה?
+- כיצד הורמו סרסני סטונהנג' לתנוחה אנכית?
+- כיצד הובלו מואי אי הפסחא ברחבי האי והוקמו?
 
-## The corpus's positioning
+## מיקום הקורפוס
 
-The Wheel of Heaven framework operates with substantively careful positioning on Ancient Builders. The corpus accepts some elements of the alternative-archaeology tradition's claims while substantially rejecting others.
+מסגרת »גלגל השמיים« פועלת עם מיקום מהותית זהיר על הבונים הקדומים. הקורפוס מקבל חלק מהאלמנטים של טענות מסורת הארכיאולוגיה החלופית תוך דחיית אחרים מהותית.
 
-### What the corpus accepts
+### מה שהקורפוס מקבל
 
-- **The pre-flood alliance bases existed.** The Vorilhon source's identification of high-mountain and submarine alliance bases is corpus content. The principal Vorilhon-source quote: *"To avoid being disturbed by humans, the creators built their bases on high mountains, where we now find traces of great civilizations (in the Himalayas and Peru, for example), as well as at the bottom of the sea. Gradually the mountain stations were abandoned in favor of submarine bases less accessible to humans."* The alliance bases are substantive corpus content.
-- **The Göbekli Tepe revolution is genuine.** The Turkish site dated to c. 9500 BCE substantially predates the conventional Neolithic-revolution chronology and demonstrates monumental construction capability substantially earlier than previously believed. Göbekli Tepe's implications for the broader pre-flood civilizational picture are substantial.
-- **The pre-flood civilizational catastrophe is plausible.** The Younger Dryas Impact Hypothesis (Firestone et al., 2007, and substantial subsequent development) has accumulated substantial evidence for a major cosmic impact or atmospheric airburst event ~12,900 BCE, with substantial implications for any pre-flood civilizations that may have existed.
-- **The cross-cultural pattern is real.** The cross-cultural distribution of megalithic-and-monumental construction traditions across virtually every major civilization warrants substantive comparative engagement.
+- **בסיסי הברית הטרום-מבוליים התקיימו.** זיהוי מקור וורילון של בסיסי ברית בהרים גבוהים ותת-ימיים הוא תוכן קורפוס. הציטוט העיקרי ממקור וורילון: *»כדי להימנע מהפרעה מצד בני האדם, הבוראים בנו את בסיסיהם על הרים גבוהים, היכן שאנו מוצאים כעת עקבות של ציוויליזציות גדולות (בהימלאיה ובפרו, למשל), כמו גם בקרקעית הים. בהדרגה ננטשו תחנות ההר לטובת בסיסים תת-ימיים פחות נגישים לבני האדם.«* בסיסי הברית הם תוכן קורפוס מהותי.
+- **מהפכת גובקלי טפה אמיתית.** האתר הטורקי המתוארך לבסביבות 9500 לפנה״ס מקדים מהותית את הכרונולוגיה המקובלת של המהפכה הניאוליתית ומדגים יכולת בנייה מונומנטלית מוקדמת מהותית ממה שהאמינו קודם לכן.{{ cite(id="dietrich-gobekli-antiquity-2012", text="[8]", title="דיטריך ואחרים, 'תפקיד הפולחן והמשתאות בהופעת קהילות ניאוליתיות' (Antiquity 2012)") }} השלכות גובקלי טפה לתמונה הציוויליזציונית הטרום-מבולית הרחבה יותר מהותיות.{{ footnote(id="6") }}
+- **הקטסטרופה הציוויליזציונית הטרום-מבולית סבירה.** השערת הפגיעה של הדריאס הצעיר (פיירסטון ואחרים, 2007,{{ cite(id="firestone-pnas-2007", text="[9]", title="פיירסטון ואחרים, 'ראיות לפגיעה חוץ-ארצית לפני 12,900 שנים' (PNAS 2007)") }} ופיתוח עוקב מהותי{{ cite(id="deadly-voyager", text="[10]", title="פאוול, *המסע הקטלני* (2020) — סינתזה של ראיות YDIH שהצטברו") }}) צברה ראיות מהותיות לאירוע פגיעה קוסמית גדולה או פיצוץ אטמוספרי בערך 12,900 לפנה״ס, עם השלכות מהותיות לכל ציוויליזציה טרום-מבולית שאולי התקיימה.{{ footnote(id="4") }}
+- **הדפוס הבין-תרבותי אמיתי.** ההתפלגות הבין-תרבותית של מסורות בנייה מגליתית-ומונומנטלית על פני כמעט כל ציוויליזציה גדולה מצדיקה עיסוק השוואתי מהותי.
 
-### What the corpus differs from
+### מה שהקורפוס נבדל ממנו
 
-- **The strong "Ancient Builder race" framing.** The claim that visible monuments are too sophisticated for the conventionally-credited civilizations is methodologically problematic. The experimental-archaeology record substantially documents the construction techniques used at major sites. The corpus has explicitly distanced itself from the cultural-dismissive reading of indigenous achievement in the [Ancient Astronaut Hypothesis](../ancient-astronaut-hypothesis/) entry.
-- **The Atlantis identification narrowly.** The Vorilhon source does not identify any specific "lost civilization" as the principal Earth-builder. The corpus engages Atlantis as a distinct interpretive tradition (treated in the pending [Atlantis](../atlantis/) entry) rather than as the foundation of the Ancient Builder framing.
-- **The "aliens did it" framing for visible monuments.** The visible major monuments (Giza, Stonehenge, Sacsayhuamán, Easter Island, Maltese temples) are substantively human accomplishment. The corpus does not require alien-construction explanations for these monuments.
+- **המסגור החזק של »גזע הבונים הקדומים«.** הטענה שהמונומנטים הנראים מתוחכמים מדי לציוויליזציות המקובלות בעייתית מתודולוגית. תיעוד הארכיאולוגיה הניסויית מתעד מהותית את טכניקות הבנייה ששימשו באתרים העיקריים. הקורפוס התרחק במפורש מהקריאה המבטלת תרבותית של ההישג הילידי בערך {% wiki(slug="ancient-astronaut-hypothesis") %}השערת האסטרונאוט הקדום{% end %}.
+- **זיהוי אטלנטיס בצמצום.** מקור וורילון אינו מזהה »ציוויליזציה אבודה« ספציפית כבונה הראשי של כדור הארץ. הקורפוס מעורב באטלנטיס כמסורת פרשנית נפרדת (המטופלת בערך [אטלנטיס](../atlantis/) הממתין) ולא כיסוד של מסגור הבונים הקדומים.{{ footnote(id="5") }}
+- **המסגור »חייזרים עשו זאת« למונומנטים הנראים.** המונומנטים העיקריים הנראים (גיזה, סטונהנג', סקסאיוואמן, אי הפסחא, מקדשי מלטה) הם הישג אנושי מהותי. הקורפוס אינו דורש הסברי בנייה-חייזרית למונומנטים אלה.
 
-### What remains genuinely open
+### מה שנותר פתוח באמת
 
-- **The specific extent of pre-flood civilization.** The conventional view treats pre-flood human populations as principally pre-agricultural with limited construction capability. The Göbekli Tepe evidence and the Younger Dryas Impact evidence both suggest substantially more developed pre-flood civilization than the conventional view allowed. The specific extent of this development remains open.
-- **Specific anomalies at specific sites.** Some specific features at specific sites (the Baalbek trilithon's transport mechanism; specific polygonal-interlocking precision at Sacsayhuamán; specific construction details at Puma Punku) remain incompletely explained by mainstream archaeology. The corpus treats these as genuinely open questions requiring continued engagement rather than as either resolved by mainstream explanation or as evidence for alien construction.
-- **The relationship between alliance-base sites and subsequent human monumental construction.** Some major sites may sit on or near former alliance-base locations, with subsequent human populations building on the substantial cultural-religious associations the sites carried from the earlier alliance presence. The specific identification of which major sites have this background relationship remains genuinely open.
+- **ההיקף הספציפי של הציוויליזציה הטרום-מבולית.** ההשקפה המקובלת מתייחסת לאוכלוסיות אנושיות טרום-מבוליות כטרום-חקלאיות בעיקרן עם יכולת בנייה מוגבלת. ראיות גובקלי טפה וראיות הפגיעה של הדריאס הצעיר שתיהן מצביעות על ציוויליזציה טרום-מבולית מפותחת מהותית יותר ממה שההשקפה המקובלת איפשרה. ההיקף הספציפי של התפתחות זו נותר פתוח.
+- **חריגות ספציפיות באתרים ספציפיים.** חלק מתכונות ספציפיות באתרים ספציפיים (מנגנון ההובלה של הטריליתון של בעלבק; דיוק פוליגונלי-משולב ספציפי בסקסאיוואמן; פרטי בנייה ספציפיים בפומה פונקו) נותרים מוסברים לא במלואם על ידי הארכיאולוגיה המיינסטרימית. הקורפוס מתייחס אליהם כשאלות פתוחות באמת הדורשות מעורבות מתמשכת ולא ככאלה שנפתרו על ידי הסבר מיינסטרימי או כראיות לבנייה חייזרית.
+- **היחס בין אתרי בסיסי-ברית לבין בנייה מונומנטלית אנושית עוקבת.** כמה אתרים עיקריים עשויים לשבת על או ליד מיקומי בסיסי-ברית קודמים, כאשר אוכלוסיות אנושיות עוקבות בונות על האסוציאציות התרבותיות-דתיות המהותיות שהאתרים נשאו מהנוכחות הבריתית הקודמת. הזיהוי הספציפי של אילו אתרים עיקריים יש להם יחס רקע זה נותר פתוח באמת.
 
-### The methodological commitment
+### המחויבות המתודולוגית
 
-The corpus's methodological commitment for Ancient Builders engagement:
+המחויבות המתודולוגית של הקורפוס למעורבות בבונים קדומים:
 
-- **Respect for indigenous achievement.** The conventionally-credited civilizations achieved their monuments through human capacity, often substantial. The cultural-dismissive reading of indigenous achievement is methodologically problematic and substantially racist in its historical application.
-- **Engagement with mainstream archaeology.** Mark Lehner's work at Giza, Mike Pitts's work at Stonehenge, the experimental-archaeology programs at multiple sites have substantially documented how specific monuments were constructed. The corpus engages this work at the descriptive level.
-- **Specific anomaly engagement.** Where specific features at specific sites remain incompletely explained, the corpus treats them as open questions worth continued investigation rather than as either resolved or as evidence for alien construction.
-- **Disciplined epistemic pluralism.** The corpus distinguishes between direct source claims (the Vorilhon source on alliance bases), comparative observations (cross-cultural megalithic traditions), corpus interpretations (the integration of alliance-base content with broader cultural-civilizational engagement), and speculative inference (specific identifications of which monuments may carry alliance-base background).
+- **כבוד להישג הילידי.** הציוויליזציות המקובלות השיגו את המונומנטים שלהן באמצעות יכולת אנושית, לעיתים קרובות מהותית. הקריאה המבטלת תרבותית של ההישג הילידי בעייתית מתודולוגית וגזענית מהותית ביישומה ההיסטורי.
+- **מעורבות בארכיאולוגיה המיינסטרימית.** עבודתו של מארק להנר בגיזה,{{ cite(id="the-complete-pyramids", text="[11]", title="להנר, *הפירמידות השלמות* (1997)") }} עבודתו של מייק פיטס בסטונהנג',{{ cite(id="hengeworld", text="[12]", title="פיטס, *הנגוורלד* (2000)") }} תוכניות הארכיאולוגיה הניסויית באתרים מרובים תיעדו מהותית כיצד נבנו מונומנטים ספציפיים. הקורפוס מעורב בעבודה זו ברמה התיאורית.
+- **מעורבות בחריגות ספציפיות.** היכן שתכונות ספציפיות באתרים ספציפיים נותרות מוסברות לא במלואן, הקורפוס מתייחס אליהן כשאלות פתוחות הראויות לחקירה מתמשכת ולא ככאלה שנפתרו או כראיות לבנייה חייזרית.
+- **פלורליזם אפיסטמי ממושמע.** הקורפוס מבחין בין טענות מקור ישירות (מקור וורילון על בסיסי ברית), תצפיות השוואתיות (מסורות מגליתיות בין-תרבותיות), פרשנויות קורפוס (האינטגרציה של תוכן בסיסי-ברית עם מעורבות תרבותית-ציוויליזציונית רחבה יותר), והסקה ספקולטיבית (זיהויים ספציפיים של אילו מונומנטים עשויים לשאת רקע בסיסי-ברית).
 
-## The Vorilhon source on alliance Earth-bases
+## מקור וורילון על בסיסי כדור הארץ של הברית
 
-The Vorilhon source identifies substantive alliance Earth-bases that operate as the principal corpus content distinct from the broader Ancient Builder framing. The principal source material.
+מקור וורילון מזהה בסיסי כדור הארץ מהותיים של הברית הפועלים כתוכן הקורפוס העיקרי הנפרד ממסגור הבונים הקדומים הרחב יותר. חומר המקור העיקרי.
 
-### The high-mountain bases
+### בסיסי ההרים הגבוהים
 
-The Vorilhon-source quotation the v1 cites:
+הציטוט ממקור וורילון שה-v1 מצטטת:
 
-> *"To avoid being disturbed by humans, the creators built their bases on high mountains, where we now find traces of great civilizations (in the Himalayas and Peru, for example), as well as at the bottom of the sea. Gradually the mountain stations were abandoned in favor of submarine bases less accessible to humans. The creators who had been banished at the outset had hidden themselves in the oceans."*
+> *»כדי להימנע מהפרעה מצד בני האדם, הבוראים בנו את בסיסיהם על הרים גבוהים, היכן שאנו מוצאים כעת עקבות של ציוויליזציות גדולות (בהימלאיה ובפרו, למשל), כמו גם בקרקעית הים. בהדרגה ננטשו תחנות ההר לטובת בסיסים תת-ימיים פחות נגישים לבני האדם. הבוראים שגלו מלכתחילה התחבאו באוקיינוסים.«*
 
-The principal content:
+התוכן העיקרי:
 
-- **High-mountain bases existed.** The alliance maintained operational bases on high mountains during the principal Earth-project period.
-- **Specific regions identified.** The Himalayas and Peru (Andes) are explicitly named. The source elsewhere also identifies Greek bases ("in Greece where Greek mythology also contains important testimonies") and various other regional installations.
-- **The bases were operational rather than monumental.** The bases were functional installations for the alliance personnel — laboratories, habitation, communications infrastructure, energy production. They were not monumental constructions intended as visible symbols.
-- **The bases were progressively abandoned.** As humans developed and approached the mountain locations, the alliance progressively moved operations to less accessible submarine locations.
-- **The Serpentine faction's submarine concealment.** The exiled Serpentine faction (treated systematically in the [Theomachy](../theomachy/) and [Serpent](../serpent/) entries) hid in oceanic locations after their banishment from the main alliance, with the submarine bases being principally their installations rather than the main alliance's.
+- **בסיסי הרים גבוהים התקיימו.** הברית שמרה על בסיסים מבצעיים בהרים גבוהים במהלך תקופת פרויקט כדור הארץ העיקרית.
+- **אזורים ספציפיים מזוהים.** ההימלאיה ופרו (האנדים) נקראים במפורש. המקור במקומות אחרים מזהה גם בסיסים יווניים (»ביוון, היכן שהמיתולוגיה היוונית מכילה גם עדויות חשובות«) והתקנות אזוריות שונות אחרות.
+- **הבסיסים היו מבצעיים ולא מונומנטליים.** הבסיסים היו התקנות תפקודיות עבור אנשי הברית — מעבדות, מגורים, תשתית תקשורת, ייצור אנרגיה. הם לא היו בניות מונומנטליות שנועדו כסמלים נראים.
+- **הבסיסים ננטשו בהדרגה.** ככל שבני האדם התפתחו והתקרבו למיקומי ההר, הברית העבירה בהדרגה את פעולותיה למיקומים תת-ימיים פחות נגישים.
+- **הסתרת הסיעה הנחשית התת-ימית.** {% wiki(slug="serpent") %}הסיעה הנחשית{% end %} הגולה (המטופלת באופן שיטתי בערכי {% wiki(slug="theomachy") %}תיאומכיה{% end %} והנחש) הסתתרה במיקומים אוקיינים לאחר גלותה מהברית הראשית, כאשר הבסיסים התת-ימיים היו בעיקר ההתקנות שלה ולא של הברית הראשית.
 
-### The Ezekiel passage and high-mountain bases
+### קטע יחזקאל ובסיסי ההרים הגבוהים
 
-The Vorilhon source engages Ezekiel 11:23-24 as preserving content about alliance Earth-bases:
+מקור וורילון מעורב ביחזקאל י"א:23-24 כמשמר תוכן על בסיסי כדור הארץ של הברית:
 
-> *"And the glory of Yahweh went up from the midst of the city, and stood upon the mountain which is on the east side of the city. Afterwards the spirit took me up, and brought me in a vision by the Spirit of Elohim into Chaldea..."* (Ezekiel 11:23-24)
+> *»וַיַּעַל כְּבוֹד {% wiki(slug="yahweh") %}יהוה{% end %} מֵעַל תּוֹךְ הָעִיר; וַיַּעֲמֹד עַל הָהָר אֲשֶׁר מִקֶּדֶם לָעִיר. וְרוּחַ נְשָׂאַתְנִי וַתְּבִיאֵנִי כַשְׂדִּימָה אֶל הַגּוֹלָה בַּמַּרְאֶה בְּרוּחַ אֱלֹהִים…«* (יחזקאל י"א:23-24)
 
-The source's reading: the "city" referenced is one of the alliance Earth-bases at the time of Ezekiel's prophetic mission. The alliance bases were always located on high mountains to avoid disturbance from humans. Ezekiel's "spirit took me up" describes alliance-craft transport from the local context to the mountain base location.
+קריאת המקור: ה»עיר« המוזכרת היא אחד מבסיסי כדור הארץ של הברית בזמן משימתו הנבואית של יחזקאל. בסיסי הברית היו ממוקמים תמיד על הרים גבוהים כדי להימנע מהפרעה של בני אדם. »וְרוּחַ נְשָׂאַתְנִי« של יחזקאל מתאר הובלת ספינת ברית מההקשר המקומי למיקום בסיס ההר.
 
-The detailed treatment of Ezekiel's substantial alliance-contact content lives in the [Ezekiel](../ezekiel/) entry when written. For Ancient Builders, the relevant content is the alliance's documented use of high-mountain installations across the principal Earth-project period.
+הטיפול המפורט בתוכן מגע-הברית המהותי של יחזקאל מתגורר בערך [יחזקאל](../ezekiel/) כאשר ייכתב. עבור בונים קדומים, התוכן הרלוונטי הוא השימוש המתועד של הברית בהתקנות בהרים גבוהים על פני תקופת פרויקט כדור הארץ העיקרית.
 
-### The traces of the bases
+### עקבות הבסיסים
 
-The Vorilhon source's identification of "traces of great civilizations" at the former high-mountain base locations is substantive. The corpus reading: the substantial pre-Inca and pre-Columbian Andean cultural-religious sites that subsequent Andean civilizations built on or near may sit on former alliance-base locations. The substantial Tibetan-Himalayan religious-cultural sites that subsequent Buddhist and Hindu traditions consider sacred may sit on former alliance-base locations. The substantial Mediterranean-Greek sacred-mountain locations (Mount Olympus, Mount Athos, Mount Parnassus, the various oracle sites) may carry substantial cultural memory of alliance presence.
+זיהוי מקור וורילון של »עקבות של ציוויליזציות גדולות« במיקומי בסיסי ההרים הגבוהים הקודמים הוא מהותי. קריאת הקורפוס: האתרים האנדיניים התרבותיים-דתיים הטרום-אינקאיים והטרום-קולומביאניים המהותיים שציוויליזציות אנדיניות עוקבות בנו עליהם או לידם עשויים לשבת על מיקומי בסיסי-ברית קודמים. האתרים הטיבטים-הימלאיים התרבותיים-דתיים המהותיים שמסורות בודהיסטיות והינדיות עוקבות מחשיבות כקדושים עשויים לשבת על מיקומי בסיסי-ברית קודמים. המיקומים היווניים-הים-תיכוניים של הרים קדושים המהותיים (הר אולימפוס, הר אתוס, הר פרנסוס, אתרי האורקלים השונים) עשויים לשאת זיכרון תרבותי מהותי של נוכחות ברית.
 
-The methodological commitment: the corpus does not claim that any specific contemporary archaeological site is provably a former alliance base. The claim is that the substantial cross-cultural pattern of high-mountain sacred sites in regions the Vorilhon source identifies (Andes, Himalayas, Greece) may reflect substantial cultural memory of alliance presence at those general locations. Specific identification of specific archaeological sites with specific former alliance bases is substantively open and would require independent evidence the corpus does not currently possess.
+המחויבות המתודולוגית: הקורפוס אינו טוען ששום אתר ארכיאולוגי בן זמננו ניתן להוכחה כבסיס ברית קודם. הטענה היא שהדפוס הבין-תרבותי המהותי של אתרים קדושים בהרים גבוהים באזורים שמקור וורילון מזהה (האנדים, ההימלאיה, יוון) עשוי לשקף זיכרון תרבותי מהותי של נוכחות ברית במיקומים הכלליים הללו. זיהוי ספציפי של אתרים ארכיאולוגיים ספציפיים עם בסיסי ברית ספציפיים קודמים פתוח מהותית והיה דורש ראיות עצמאיות שהקורפוס אינו מחזיק כיום.
 
-### The submarine bases
+### הבסיסים התת-ימיים
 
-The Vorilhon-source content on submarine bases:
+תוכן מקור-וורילון על בסיסים תת-ימיים:
 
-- **The main alliance's submarine bases.** As the alliance progressively withdrew from direct human contact, the principal operational bases moved from high mountains to submarine locations less accessible to humans.
-- **The Serpentine faction's submarine concealment.** The exiled Serpentine faction (Lucifer's group, banished from the main alliance after the disclosure event in Eden) hid in oceanic locations. The substantial cross-cultural "serpent / dragon / sea-monster" traditions preserve cultural memory of this faction's submarine presence (treated in the [Serpent](../serpent/) and [Theomachy](../theomachy/) entries).
+- **הבסיסים התת-ימיים של הברית הראשית.** ככל שהברית נסוגה בהדרגה ממגע ישיר עם בני אדם, הבסיסים המבצעיים העיקריים עברו מהרים גבוהים למיקומים תת-ימיים פחות נגישים לבני אדם.
+- **הסתרת הסיעה הנחשית התת-ימית.** הסיעה הנחשית הגולה (קבוצת {% wiki(slug="lucifer") %}לוציפר{% end %}, שגלתה מהברית הראשית לאחר אירוע הגילוי ב{% wiki(slug="eden") %}עדן{% end %}) הסתתרה במיקומים אוקיינים. המסורות הבין-תרבותיות המהותיות של »נחש / דרקון / מפלצת ים« משמרות זיכרון תרבותי של נוכחותה התת-ימית של סיעה זו (מטופל בערכי הנחש והתיאומכיה).
 
-The substantive contemporary engagement with submarine archaeology has produced substantial findings — the substantial submerged Neolithic sites in the Mediterranean and other regions; the substantial Yonaguni structures off Okinawa (substantively debated); the substantial Bimini Road off the Bahamas (substantively debated); the substantial submerged structures off the Gulf of Cambay (substantively debated). The corpus does not claim that any specific submerged site is provably an alliance submarine base. The claim is that the Vorilhon source's substantial submarine-base content registers a substantive corpus-content category distinct from the visible megalithic monuments.
+המעורבות בת זמננו המהותית בארכיאולוגיה תת-ימית הניבה ממצאים מהותיים — האתרים הניאוליתיים השקועים המהותיים בים התיכון ובאזורים אחרים; מבני יונאגוני המהותיים מול אוקינאווה (נדונים מהותית); דרך בימיני המהותית מול הבהאמה (נדונה מהותית); המבנים השקועים המהותיים מול מפרץ קמביי (נדונים מהותית).{{ cite(id="underworld-hancock", text="[13]", title="הנקוק, *תת-עולם* (2002) — אתרים ארכיאולוגיים שקועים גלובלית") }} הקורפוס אינו טוען ששום אתר שקוע ספציפי ניתן להוכחה כבסיס ברית תת-ימי. הטענה היא שתוכן הבסיסים התת-ימיים המהותי של מקור וורילון רושם קטגוריית תוכן-קורפוס מהותית הנפרדת מהמונומנטים המגליתיים הנראים.
 
-## Mainstream archaeology on megalithic construction
+## הארכיאולוגיה המיינסטרימית על בנייה מגליתית
 
-The substantial mainstream archaeological and engineering engagement with megalithic construction has substantively documented how specific monuments were built. The corpus engages this work at the descriptive level. The principal contributions:
+המעורבות הארכיאולוגית וההנדסית המיינסטרימית המהותית בבנייה מגליתית תיעדה מהותית כיצד נבנו מונומנטים ספציפיים. הקורפוס מעורב בעבודה זו ברמה התיאורית. התרומות העיקריות:
 
-### Egyptian pyramids
+### פירמידות מצרים
 
-The substantial documented record of Egyptian pyramid construction is principally the work of multiple generations of Egyptologists, with the contemporary engagement principally led by **Mark Lehner** (Ancient Egypt Research Associates) and **Zahi Hawass** (former Egyptian Minister of State for Antiquities Affairs).
+התיעוד המתועד המהותי של בניית הפירמידות המצריות הוא בעיקרו עבודתם של דורות מרובים של אגיפטולוגים, כאשר המעורבות בת זמננו מובלת בעיקר על ידי **מארק להנר** (עמיתי מחקר מצרים העתיקה) ו**זאהי חוואס** (לשעבר שר המדינה המצרי לענייני עתיקות).{{ cite(id="giza-and-the-pyramids", text="[14]", title="להנר וחוואס, *גיזה והפירמידות: ההיסטוריה המוסמכת* (2017)") }}
 
-The principal documented findings:
+הממצאים המתועדים העיקריים:
 
-- **The pyramid workforce.** The discovery and excavation of the substantial workers' village at Giza ("Heit el-Ghurab," "Wall of the Crow") since the 1990s has substantially documented the actual workforce that built the pyramids. The village housed ~10,000-20,000 workers in organized institutional housing with substantial food-supply infrastructure (the substantial bakery and brewery complexes; the substantial cattle and sheep-processing facilities supplying daily protein for thousands of workers). The workers were not slaves but skilled and semi-skilled laborers, organized in named work crews, with substantial wages paid in food rations.
-- **Quarrying and transport.** The substantial Aswan-Giza granite transport is documented through both archaeological and experimental evidence. The substantial Wadi al-Jarf papyri (discovered 2013) include "Diary of Merer" — a logbook by a foreman directing limestone transport for the Great Pyramid's casing stones. The diary documents the actual transport operation: limestone quarried at Tura (across the Nile from Giza), transported by boat across the Nile, with substantial canal-and-harbor infrastructure delivering the stone to the pyramid site.
-- **Construction methods.** Multiple experimental-archaeology programs have demonstrated that substantial Egyptian construction techniques (ramps, levers, sledges, water-lubricated paths) substantially explain how the pyramids were built. The substantial debate continues about the specific ramp configurations used (external, internal, spiral, or combination), but the principal construction methods are within documented Egyptian capability.
+- **כוח העבודה של הפירמידה.** גילוי וחפירת כפר הפועלים המהותי בגיזה (»הית אל-ע'וראב«, »חומת העורב«) מאז שנות ה-1990 תיעדו מהותית את כוח העבודה הממשי שבנה את הפירמידות. הכפר אכלס כ-10,000-20,000 פועלים במגורים מוסדיים מאורגנים עם תשתית אספקת מזון מהותית (קומפלקסי המאפייה והמבשלה המהותיים; מתקני עיבוד הבקר והכבשים המהותיים המספקים חלבון יומי לאלפי פועלים). הפועלים לא היו עבדים אלא פועלים מקצועיים וחצי-מקצועיים, מאורגנים בצוותי עבודה שמיים, עם שכר מהותי ששולם במנות מזון.
+- **חציבה והובלה.** הובלת הגרניט מאסואן לגיזה המהותית מתועדת הן באמצעות ראיות ארכיאולוגיות והן ניסויות. פפירוסי ואדי אל-ג'רף המהותיים (התגלו ב-2013) כוללים את »יומן מרר« — יומן של מנהל המכוון הובלת אבן גיר לאבני הציפוי של הפירמידה הגדולה.{{ cite(id="journal-de-merer-tallet", text="[15]", title="טאלה, *פפירוסי הים האדום א': יומן מרר* (2017)") }} היומן מתעד את מבצע ההובלה הממשי: אבן גיר שנחצבה בטורה (מול גיזה בצד השני של הנילוס), הובלה בסירה על פני הנילוס, עם תשתית מהותית של תעלה ונמל המספקת את האבן לאתר הפירמידה.
+- **שיטות בנייה.** תוכניות ארכיאולוגיה ניסויית מרובות הדגימו שטכניקות בנייה מצריות מהותיות (רמפות, מנופים, מזחלות, שבילים משומנים במים) מסבירות מהותית כיצד נבנו הפירמידות. הוויכוח המהותי נמשך לגבי תצורות הרמפה הספציפיות ששימשו (חיצוניות, פנימיות, ספירליות או שילוב), אך שיטות הבנייה העיקריות הן בתוך יכולת מצרית מתועדת.
 
-### Stonehenge
+### סטונהנג'
 
-The substantial documented record of Stonehenge construction is principally the work of multiple generations of British archaeologists, with contemporary engagement led by **Mike Parker Pearson** (University College London), **Mike Pitts**, and others.
+התיעוד המתועד המהותי של בניית סטונהנג' הוא בעיקרו עבודתם של דורות מרובים של ארכיאולוגים בריטיים, כאשר המעורבות בת זמננו מובלת על ידי **מייק פארקר פירסון** (University College London),{{ cite(id="stonehenge-parker-pearson", text="[16]", title="פארקר פירסון, *סטונהנג': חוקרים את מסתורי תקופת האבן הגדול ביותר* (2012)") }} **מייק פיטס** ואחרים.
 
-The principal documented findings:
+הממצאים המתועדים העיקריים:
 
-- **The bluestones.** The bluestones (smaller stones in the inner ring) were quarried from the Preseli Hills in Wales (specifically Craig Rhos-y-felin and Carn Goedog) and transported ~200 km to the Salisbury Plain. The transport method is substantially debated (overland via sledges and rollers; sea-and-river transport; glacial-erratic distribution with subsequent human reorganization) but the principal source is substantively confirmed.
-- **The sarsens.** The substantial sarsen stones (larger outer ring and trilithons) were quarried much closer — recent geochemical analysis (David Nash et al., 2020) has substantially confirmed the West Woods, Marlborough Downs source ~25 km from the site. The transport involved substantial overland sledge-and-roller methods over relatively flat terrain.
-- **Construction phases.** Stonehenge was built across multiple phases ~3000-2000 BCE, with substantial revision and reorganization over centuries. The site was a substantial communal project of the Late Neolithic and Early Bronze Age British populations, with substantial associated burial and ceremonial activity (the substantial Aubrey Holes cremation deposits; the substantial Cursus and Avenue associated monuments).
-- **Astronomical alignment.** The substantial summer solstice sunrise and winter solstice sunset alignment is documented and was substantively intentional. The astronomical knowledge involved is within the capability of any culture with sustained observation of the annual solar cycle.
+- **אבני התכלת.** אבני התכלת (האבנים הקטנות יותר בטבעת הפנימית) נחצבו מגבעות פרסלי בוויילס (במיוחד קרייג רוס-י-פלין וקארן גוידוג) והובלו כ-200 ק"מ למישור סולסברי. שיטת ההובלה נדונה מהותית (יבשתית באמצעות מזחלות וגלגלים; הובלה ימית-ונהרית; הפצת קרחונים-נדודים עם ארגון מחדש אנושי עוקב) אך המקור העיקרי מאושר מהותית.
+- **הסרסנים.** אבני הסרסן המהותיות (טבעת חיצונית גדולה יותר וטריליתונים) נחצבו קרוב הרבה יותר — ניתוח גיאוכימי לאחרונה (דייוויד נאש ואחרים, 2020){{ cite(id="nash-sarsen-megaliths-2020", text="[17]", title="נאש ואחרים, 'מקורות המגליתים של הסרסן בסטונהנג'' (Science Advances 2020)") }} אישר מהותית את מקור ווסט וודס, מרלבורו דאונס כ-25 ק"מ מהאתר. ההובלה כללה שיטות מזחלת-וגלגל יבשתיות מהותיות על פני שטח שטוח יחסית.
+- **שלבי בנייה.** סטונהנג' נבנה על פני שלבים מרובים בערך 3000-2000 לפנה״ס, עם תיקון וארגון מחדש מהותי לאורך מאות שנים. האתר היה פרויקט קהילתי מהותי של אוכלוסיות הניאוליתי המאוחר ועידן הברונזה המוקדם הבריטיות, עם פעילות קבורה וטקסית קשורה מהותית (משקעי השריפה המהותיים של חורי אובארי; המונומנטים המהותיים של הקורסוס והשדרה).
+- **יישור אסטרונומי.** היישור המהותי לזריחת השמש בסולסטיציום הקיץ ולשקיעה בסולסטיציום החורף מתועד והיה מהותית מכוון. הידע האסטרונומי המעורב הוא בתוך יכולתה של כל תרבות עם תצפית מתמשכת של מחזור השמש השנתי.
 
-### Andean megalithic sites
+### אתרים מגליתיים אנדיניים
 
-The substantial documented record of Andean megalithic construction includes substantial Inca-era work at Sacsayhuamán, Machu Picchu, Ollantaytambo, and Cusco, with substantial pre-Inca foundations at some sites.
+התיעוד המתועד המהותי של בנייה מגליתית אנדינית כולל עבודה מהותית של תקופת האינקה בסקסאיוואמן, מאצ'ו פיצ'ו, אויאנטאיטמבו וקוסקו, עם יסודות טרום-אינקאיים מהותיים בכמה אתרים.
 
-The principal documented findings:
+הממצאים המתועדים העיקריים:
 
-- **Inca construction techniques.** The substantial Inca polygonal masonry was achieved through hammer-stone shaping (using harder andesite or basalt hammers to shape softer limestone or sandstone), with substantial test-fitting between adjacent stones until the polygonal interlock was achieved. The substantial experimental archaeology (Jean-Pierre Protzen's work at Ollantaytambo) has demonstrated the technique's feasibility within documented Inca tool capability.
-- **The Sacsayhuamán heavy stones.** The substantial Sacsayhuamán stones include some weighing >100 tons. The transport from quarry to site (substantially short distances of <2 km for most stones) involved substantial sledge-and-ramp methods with substantial labor coordination. The substantial Inca labor mobilization (the *mit'a* system providing rotating labor service from across the empire) provided the substantial workforce.
-- **Pre-Inca foundations.** Some Andean sites (Tiwanaku c. 300-1000 CE; Puma Punku c. 500-1000 CE; the substantial Chavín culture c. 1200-200 BCE) substantially predate the Inca period. The substantial Tiwanaku and Puma Punku stonework includes substantial precision construction with specific features (the substantial H-blocks at Puma Punku) that remain incompletely explained by mainstream engagement.
+- **טכניקות בנייה של האינקה.** הבנייה הפוליגונלית המהותית של האינקה הושגה באמצעות עיצוב באבן-פטיש (באמצעות פטישי אנדזיט או בזלת קשים יותר לעיצוב אבן גיר או אבן חול רכות יותר), עם התאמת ניסיון מהותית בין אבנים סמוכות עד להשגת השזירה הפוליגונלית. הארכיאולוגיה הניסויית המהותית (עבודתו של ז'אן-פייר פרוצן באויאנטאיטמבו){{ cite(id="inca-architecture-ollantaytambo", text="[18]", title="פרוצן, *אדריכלות ובנייה של האינקה באויאנטאיטמבו* (1993)") }} הדגימה את היתכנות הטכניקה בתוך יכולת כלי האינקה המתועדת.
+- **האבנים הכבדות של סקסאיוואמן.** אבני סקסאיוואמן המהותיות כוללות כמה השוקלות יותר מ-100 טון. ההובלה ממחצבה לאתר (במרחקים קצרים מהותית של פחות מ-2 ק"מ עבור רוב האבנים) כללה שיטות מזחלת-ורמפה מהותיות עם תיאום עבודה מהותי. גיוס העבודה המהותי של האינקה (מערכת ה-*mit'a* המספקת שירות עבודה מתחלף מרחבי האימפריה) סיפק את כוח העבודה המהותי.
+- **יסודות טרום-אינקאיים.** כמה אתרים אנדיניים (טיוואנאקו בערך 300-1000 לספירה; פומה פונקו בערך 500-1000 לספירה; תרבות צ'אווין המהותית בערך 1200-200 לפנה״ס) קודמים מהותית לתקופת האינקה. עבודת האבן המהותית של טיוואנאקו ופומה פונקו כוללת בנייה מדויקת מהותית עם תכונות ספציפיות (בלוקי ה-H המהותיים בפומה פונקו) הנותרים מוסברים לא במלואם על ידי המעורבות המיינסטרימית.
 
-### Easter Island moai
+### מואי אי הפסחא
 
-The substantial documented record of Easter Island construction includes the substantial moai (statues) and ahu (platforms) built by the Rapa Nui people.
+התיעוד המתועד המהותי של בניית אי הפסחא כולל את המואי המהותי (פסלים) ואת האהו (פלטפורמות) שבנו תושבי הרפא נואי.
 
-The principal documented findings:
+הממצאים המתועדים העיקריים:
 
-- **Quarrying.** The substantial moai were quarried from Rano Raraku, a volcanic crater on the island. The quarry contains many unfinished moai in various stages of completion, substantially documenting the quarrying process.
-- **Transport.** The substantial moai transport across the island is principally explained through the "walking" hypothesis (Terry Hunt and Carl Lipo, with experimental demonstration in 2012) — the moai were transported in upright position using ropes that rocked them side-to-side in a walking motion. The substantial experimental demonstration substantively confirmed the method's feasibility.
-- **Erection.** The substantial moai erection at ahu sites used substantial sledge-ramp methods with rope-and-lever assistance.
+- **חציבה.** המואי המהותי נחצב מראנו ראראקו, לוע הר געש על האי. המחצבה מכילה מואי לא-גמורים רבים בשלבי השלמה שונים, ומתעדת מהותית את תהליך החציבה.
+- **הובלה.** הובלת המואי המהותית ברחבי האי מוסברת בעיקרה באמצעות השערת ה»הליכה« (טרי האנט וקרל ליפו, עם הדגמה ניסויית ב-2012){{ cite(id="statues-that-walked", text="[19]", title="האנט וליפו, *הפסלים שהלכו* (2011)") }} — המואי הובל בתנוחה זקופה באמצעות חבלים שנענעו אותו צד לצד בתנועת הליכה. ההדגמה הניסויית המהותית אישרה מהותית את היתכנות השיטה.
+- **הקמה.** הקמת המואי המהותית באתרי אהו השתמשה בשיטות מזחלת-רמפה מהותיות עם סיוע חבל-ומנוף.
 
-### Maltese megalithic temples
+### מקדשי מלטה המגליתיים
 
-The substantial documented record of Maltese temple construction (Ġgantija, Hagar Qim, Mnajdra, Tarxien, Skorba, others; c. 3600-2500 BCE) is principally the work of multiple generations of Maltese and international archaeologists.
+התיעוד המתועד המהותי של בניית מקדשי מלטה (ג'גנטיה, חג'ר קים, מנאידרה, טרשין, סקורבה, אחרים; בערך 3600-2500 לפנה״ס) הוא בעיקרו עבודתם של דורות מרובים של ארכיאולוגים מלטזים ובינלאומיים.
 
-The principal documented findings:
+הממצאים המתועדים העיקריים:
 
-- **The substantial Neolithic Maltese population** built the temples using local limestone (both globigerina and coralline varieties), with substantial quarrying and transport methods documented through the substantial unfinished stones and quarry sites.
-- **Construction techniques.** The substantial corbel-vault and lintel-construction methods are within documented Neolithic technology.
-- **Astronomical alignment.** Several Maltese temples (particularly Mnajdra) include substantial equinox and solstice alignments.
+- **האוכלוסייה המלטזית הניאוליתית המהותית** בנתה את המקדשים באמצעות אבן גיר מקומית (גם זני גלובוגרינה וגם זני קוראלין), עם שיטות חציבה והובלה מתועדות באמצעות האבנים הלא-גמורות המהותיות ואתרי המחצבה.
+- **טכניקות בנייה.** שיטות הקמרון הקורבל ובניית המשקופים המהותיות הן בתוך טכנולוגיה ניאוליתית מתועדת.
+- **יישור אסטרונומי.** כמה מקדשים מלטזים (במיוחד מנאידרה) כוללים יישורי שוויון וסולסטיציום מהותיים.
 
-### The general methodological pattern
+### דפוס מתודולוגי כללי
 
-The substantial cross-cultural pattern across mainstream archaeology and engineering on megalithic construction is consistent:
+הדפוס הבין-תרבותי המהותי של הארכיאולוגיה המיינסטרימית וההנדסה על בנייה מגליתית עקבי:
 
-- **The conventionally-credited civilizations had the technological capability.** The principal construction methods are within the documented capabilities of the civilizations conventionally credited with the monuments.
-- **Substantial labor coordination was required.** The monuments represent substantial communal efforts — thousands of workers organized across years or decades.
-- **Substantial astronomical knowledge was required.** The astronomical alignments reflect substantial sustained observation of the celestial cycles, well within human capability.
-- **Specific anomalies remain.** Some specific features at specific sites (the Baalbek trilithon transport; specific Andean polygonal-interlocking precision; specific Puma Punku features) remain incompletely explained by current mainstream methods.
+- **לציוויליזציות המקובלות הייתה היכולת הטכנולוגית.** שיטות הבנייה העיקריות הן בתוך היכולות המתועדות של הציוויליזציות שמיוחסים להן המונומנטים באופן מקובל.
+- **נדרש תיאום עבודה מהותי.** המונומנטים מייצגים מאמצים קהילתיים מהותיים — אלפי פועלים מאורגנים על פני שנים או עשורים.
+- **נדרש ידע אסטרונומי מהותי.** היישורים האסטרונומיים משקפים תצפית מתמשכת מהותית של המחזורים השמימיים, היטב בתוך יכולת אנושית.
+- **חריגות ספציפיות נותרות.** כמה תכונות ספציפיות באתרים ספציפיים (הובלת הטריליתון של בעלבק; דיוק פוליגונלי-משולב אנדיני ספציפי; תכונות ספציפיות של פומה פונקו) נותרות מוסברות לא במלואן על ידי השיטות המיינסטרימיות הנוכחיות.
 
-The corpus accepts the mainstream archaeological account at the descriptive level. The visible megalithic monuments were built by the human civilizations to whom they are conventionally attributed, using technologies that the experimental-archaeology record substantially documents. Specific anomalies warrant continued engagement but do not by themselves require alien-construction explanations.
+הקורפוס מקבל את הדיווח הארכיאולוגי המיינסטרימי ברמה התיאורית. המונומנטים המגליתיים הנראים נבנו על ידי הציוויליזציות האנושיות שאליהן מיוחסים באופן מקובל, באמצעות טכנולוגיות שתיעוד הארכיאולוגיה הניסויית מתעד מהותית. חריגות ספציפיות מצדיקות מעורבות מתמשכת אך אינן דורשות בעצמן הסברי בנייה-חייזרית.
 
-## Modern reinterpretations and adjacent traditions
+## פרשנויות מחודשות מודרניות ומסורות סמוכות
 
-The substantive contemporary engagement with Ancient Builders content operates across multiple distinct registers.
+המעורבות בת זמננו המהותית בתוכן בונים קדומים פועלת על פני מספר רגיסטרים נפרדים.
 
-### The "lost civilization" alternative-archaeology tradition
+### מסורת »הציוויליזציה האבודה« של הארכיאולוגיה החלופית
 
-The substantial alternative-archaeology tradition has articulated the Ancient Builder framing across multiple generations of contemporary engagement.
+מסורת הארכיאולוגיה החלופית המהותית ניסחה את מסגור הבונים הקדומים על פני דורות מרובים של מעורבות בת זמננו.
 
-**Graham Hancock** is the principal contemporary popularizer. His principal works:
+**גרהאם הנקוק** הוא הפופולריזטור בן זמננו העיקרי. יצירותיו העיקריות:
 
-- *Fingerprints of the Gods* (Crown, 1995) — articulating the lost-civilization hypothesis through cross-cultural megalithic and mythological evidence
-- *Magicians of the Gods* (Thomas Dunne, 2015) — substantially updating the framework with the Younger Dryas Impact Hypothesis evidence
-- *America Before* (St. Martin's, 2019) — extending the framework to pre-Columbian America
-- *Underworld* (Crown, 2002) — engaging submerged archaeological sites globally
-- The Netflix series *Ancient Apocalypse* (2022) — substantial popular engagement
+- *טביעות אצבעות של האלים* (Crown, 1995){{ cite(id="fingerprints-of-the-gods", text="[20]", title="הנקוק, *טביעות אצבעות של האלים* (1995)") }} — מנסחת את השערת הציוויליזציה האבודה באמצעות ראיות מגליתיות ומיתולוגיות בין-תרבותיות
+- *קוסמי האלים* (Thomas Dunne, 2015){{ cite(id="magicians-of-the-gods", text="[21]", title="הנקוק, *קוסמי האלים* (2015) — התכנסות עם השערת הפגיעה של הדריאס הצעיר") }} — מעדכן מהותית את המסגרת עם ראיות השערת הפגיעה של הדריאס הצעיר
+- *אמריקה לפני* (St. Martin's, 2019){{ cite(id="america-before", text="[22]", title="הנקוק, *אמריקה לפני* (2019) — הרחבה לאמריקה הטרום-קולומביאנית") }} — מרחיב את המסגרת לאמריקה הטרום-קולומביאנית
+- *תת-עולם* (Crown, 2002) — מעורב באתרים ארכיאולוגיים שקועים גלובלית
+- סדרת נטפליקס *אפוקליפסה קדומה* (2022) — מעורבות פופולרית מהותית
 
-Hancock's principal claim: a substantially advanced pre-flood civilization existed and was substantially destroyed at the end of the last glacial period, with substantial subsequent civilizational rebuilding by surviving cultural transmitters who founded the various Bronze Age civilizations. Hancock does not principally engage extraterrestrial-contact explanations, working instead within the lost-human-civilization framework.
+טענת הנקוק העיקרית: ציוויליזציה טרום-מבולית מתקדמת מהותית התקיימה והושמדה מהותית בסוף תקופת הקרחונים האחרונה, עם בנייה מחדש של ציוויליזציות עוקבת על ידי משדרים תרבותיים שורדים שייסדו את ציוויליזציות עידן הברונזה השונות. הנקוק אינו עוסק בעיקר בהסברי מגע-חייזרי, ועובד במקום זאת בתוך מסגרת הציוויליזציה האנושית האבודה.
 
-**Robert Schoch** (Boston University) has argued that the Great Sphinx of Giza is substantially older than the conventional 4th-Dynasty dating (~2500 BCE), proposing a pre-flood (>10,000 BCE) dating based on water-erosion analysis. The substantial mainstream Egyptological engagement has substantially disputed Schoch's reading; the question remains substantively debated.
+**רוברט שוך** (אוניברסיטת בוסטון) טען שהספינקס הגדול של גיזה מוקדם מהותית מהתיארוך המקובל לשושלת הרביעית (בערך 2500 לפנה״ס), ומציע תאריך טרום-מבולי (>10,000 לפנה״ס) על בסיס ניתוח שחיקת מים. המעורבות האגיפטולוגית המיינסטרימית המהותית חולקה מהותית על קריאת שוך; השאלה נותרה נדונה מהותית.
 
-**John Anthony West** (1932-2018) was a substantial earlier proponent of the substantially-older-Sphinx hypothesis and the substantial broader alternative-Egyptology engagement.
+**ג'ון אנתוני ווסט** (1932-2018) היה תומך מוקדם מהותי בהשערת הספינקס המוקדם מהותית ובמעורבות האגיפטולוגית-החלופית המהותית הרחבה יותר.{{ cite(id="serpent-in-the-sky", text="[23]", title="ווסט, *נחש בשמיים* (1993) — אגיפטולוגיה חלופית וקריאה סימבוליסטית של שוואלר דה לוביץ'") }}
 
-**Christopher Dunn** has substantially engaged the substantial engineering questions about Egyptian pyramid construction, proposing substantial machining-and-power-tools hypotheses for specific features (the substantial granite boxes at the Serapeum at Saqqara; specific drilling marks in granite artifacts).
+**כריסטופר דאן** עסק מהותית בשאלות ההנדסיות המהותיות על בניית הפירמידות המצריות, ומציע השערות עיבוד-וכלי-חשמל מהותיות לתכונות ספציפיות (תיבות הגרניט המהותיות בסראפיום בסקארה; סימני קידוח ספציפיים בחפצי גרניט).{{ cite(id="giza-power-plant", text="[24]", title="דאן, *תחנת הכוח של גיזה* (1998) — אגיפטולוגיה חלופית ממוקדת-הנדסה") }}
 
-### The Atlantis tradition
+### מסורת אטלנטיס
 
-The Atlantis tradition (treated in the pending [Atlantis](../atlantis/) entry) operates as the substantial Western philosophical-religious tradition's principal articulation of the lost-civilization concept.
+מסורת אטלנטיס (המטופלת בערך [אטלנטיס](../atlantis/) הממתין) פועלת כניסוח העיקרי של מסורת הפילוסופית-דתית המערבית המהותית של מושג הציוויליזציה האבודה.
 
-**Plato** articulates the Atlantis tradition in *Timaeus* (c. 360 BCE) and *Critias* (unfinished). The principal content: a substantial advanced civilization existed beyond the Pillars of Hercules; it warred against the Athenian and Mediterranean civilizations; it was substantially destroyed in a single day and night by earthquakes and floods, sinking into the sea. Plato attributes the account to Solon's contact with Egyptian priests.
+**אפלטון** מנסח את מסורת אטלנטיס ב-*Timaeus* (בערך 360 לפנה״ס) וב-*Critias* (לא-גמור). התוכן העיקרי: ציוויליזציה מתקדמת מהותית התקיימה מעבר לעמודי הרקולס; היא נלחמה נגד הציוויליזציות האתונאית והים-תיכונית; היא הושמדה מהותית ביום ולילה אחד על ידי רעידות אדמה ושיטפונות, ושקעה לים. אפלטון מייחס את הדיווח למגעו של סולון עם כוהנים מצריים.
 
-The subsequent Atlantis tradition substantially elaborates Plato's account:
+מסורת אטלנטיס המאוחרת יותר מפרטת מהותית את דיווח אפלטון:
 
-- **Ignatius Donnelly**, *Atlantis: The Antediluvian World* (1882) — the substantial 19th-century revival arguing that Atlantis was the source of substantial subsequent civilizations globally
-- **Edgar Cayce** (1877-1945) — the "sleeping prophet" whose substantial readings (1920s-1940s) substantially elaborated Atlantis with substantive specific content
-- **The Theosophical tradition** (Blavatsky, Steiner, others) — substantial elaboration of Atlantis within the broader esoteric framework, often with substantial Lemuria/Mu content
-- **The contemporary Hancock-style engagement** — substantially updating the Atlantis tradition through the Younger Dryas Impact framework
+- **איגנאטיוס דונלי**, *אטלנטיס: העולם הטרום-מבולי* (1882) — תחיית המאה ה-19 המהותית הטוענת שאטלנטיס הייתה מקור הציוויליזציות המאוחרות יותר המהותיות גלובלית
+- **אדגר קייסי** (1877-1945) — »הנביא הישן« שקריאותיו המהותיות (שנות ה-1920–1940) פירטו מהותית את אטלנטיס עם תוכן ספציפי מהותי
+- **המסורת התיאוסופית** (בלבצקי, שטיינר ואחרים) — פירוט מהותי של אטלנטיס בתוך המסגרת האזוטרית הרחבה יותר, לעיתים קרובות עם תוכן מהותי של למוריה/מו
+- **המעורבות בסגנון הנקוק בת זמננו** — מעדכנת מהותית את מסורת אטלנטיס באמצעות מסגרת הפגיעה של הדריאס הצעיר
 
-The corpus engages Atlantis as a substantial interpretive tradition with substantive cultural-religious significance, without adopting the substantial specific claims (Atlantis as the source of pre-flood civilization, the substantial sunken-island geographical claims, the specific Cayce content). The pending [Atlantis](../atlantis/) entry will articulate the corpus position systematically.
+הקורפוס מעורב באטלנטיס כמסורת פרשנית מהותית בעלת משמעות תרבותית-דתית מהותית, ללא אימוץ הטענות הספציפיות המהותיות (אטלנטיס כמקור הציוויליזציה הטרום-מבולית, הטענות הגיאוגרפיות המהותיות של אי שקוע, התוכן הספציפי של קייסי). הערך [אטלנטיס](../atlantis/) הממתין ינסח את עמדת הקורפוס באופן שיטתי.
 
-### The Lemuria / Mu tradition
+### מסורת למוריה / מו
 
-The Lemuria and Mu traditions operate as the Pacific equivalent of the Atlantic Atlantis tradition.
+מסורות למוריה ומו פועלות כמקבילה האוקיינוס-שקטית של מסורת אטלנטיס האטלנטית.
 
-**Lemuria** was originally proposed in 1864 by zoologist Philip Sclater as a hypothetical sunken continent in the Indian Ocean to explain certain biogeographical distributions (particularly of lemurs). The hypothesis was substantially superseded in mainstream science by plate tectonics in the 1960s, but Lemuria substantially entered popular alternative-archaeology and esoteric tradition as a sunken-civilization framework.
+**למוריה** הוצעה במקור ב-1864 על ידי הזואולוג פיליפ סקלטר כיבשת שקועה היפותטית באוקיינוס ההודי כדי להסביר התפלגויות ביוגיאוגרפיות מסוימות (במיוחד של למורים). ההשערה הוחלפה מהותית במדע המיינסטרים על ידי טקטוניקת הלוחות בשנות ה-1960, אך למוריה נכנסה מהותית למסורת ארכיאולוגית חלופית פופולרית ואזוטרית כמסגרת ציוויליזציה שקועה.
 
-**Mu** was popularized by **Augustus Le Plongeon** (1825-1908) and **James Churchward** (1851-1936). Churchward's series *The Lost Continent of Mu* (1926) and subsequent works substantially developed the Mu framework as a substantial Pacific lost civilization with substantial subsequent influence on global cultures.
+**מו** זכתה לפופולריות על ידי **אוגוסטוס לה פלונז'ון** (1825-1908) ו**ג'יימס צ'רצ'וורד** (1851-1936). סדרת *היבשת האבודה של מו* (1926) של צ'רצ'וורד ויצירות עוקבות פיתחו מהותית את מסגרת מו כציוויליזציה אבודה אוקיינוס-שקטית מהותית עם השפעה עוקבת מהותית על תרבויות גלובליות.
 
-The corpus does not adopt the Lemuria or Mu framings. The contemporary scientific consensus on Pacific geology does not support sunken-continent hypotheses, and the substantial textual evidence the alternative-archaeology tradition cites does not substantially support the specific Mu claims.
+הקורפוס אינו מאמץ את מסגורי למוריה או מו. הקונצנזוס המדעי בן זמננו על גיאולוגיה של האוקיינוס השקט אינו תומך בהשערות יבשת-שקועה, והראיות הטקסטואליות המהותיות שמסורת הארכיאולוגיה החלופית מצטטת אינן תומכות מהותית בטענות מו הספציפיות.
 
-### Ancient-astronaut engagement
+### מעורבות אסטרונאוטים קדומים
 
-The substantial Ancient-Astronaut engagement with Ancient Builders content (treated systematically in the [Ancient Astronaut Hypothesis](../ancient-astronaut-hypothesis/) entry) operates principally through von Däniken, Sitchin, and the broader tradition.
+המעורבות המהותית של האסטרונאוטים הקדומים בתוכן הבונים הקדומים (המטופלת באופן שיטתי בערך {% wiki(slug="ancient-astronaut-hypothesis") %}השערת האסטרונאוט הקדום{% end %}) פועלת בעיקר באמצעות פון דניקן, סיצ'ין והמסורת הרחבה יותר.
 
-**Erich von Däniken**'s *Chariots of the Gods?* (1968) substantially popularized the framing that specific monuments (Egyptian pyramids, Nazca lines, Easter Island moai, Sacsayhuamán, others) were built with extraterrestrial assistance or by extraterrestrial visitors directly. Von Däniken's methodology substantially relies on the cultural-dismissive framing (the conventionally-credited civilizations could not have built these monuments) that the corpus has explicitly distanced itself from.
+*מרכבות האלים?* (1968) של **אריך פון דניקן**{{ cite(id="chariots-of-the-gods", text="[25]", title="פון דניקן, *מרכבות האלים?* (1968) — הטקסט הפופולרי היסודי של האסטרונאוטים הקדומים") }} פופולריזטה מהותית את המסגור שמונומנטים ספציפיים (פירמידות מצרים, קווי הנאזקה, מואי אי הפסחא, סקסאיוואמן ואחרים) נבנו עם סיוע חוץ-ארצי או על ידי מבקרים חוץ-ארציים ישירות. המתודולוגיה של פון דניקן מסתמכת מהותית על המסגור המבטל-תרבותית (הציוויליזציות המקובלות לא יכלו לבנות מונומנטים אלה) שממנו הקורפוס התרחק במפורש.
 
-**Zecharia Sitchin**'s substantial Anunnaki framework (treated in the Ancient Astronaut Hypothesis entry) substantially proposes that the Sumerian and broader Mesopotamian monumental construction was conducted with Anunnaki direction. The Sitchin framework has substantial methodological problems (substantially contested Sumerian-language readings; substantial Nibiru claims unsupported by modern astronomy).
+מסגרת האנונאקי המהותית של **זכריה סיצ'ין** (המטופלת בערך השערת האסטרונאוט הקדום) מציעה מהותית שהבנייה המונומנטלית השומרית והמסופוטמית הרחבה יותר נוהלה בכיוון של האנונאקי.{{ cite(id="the-12th-planet", text="[26]", title="סיצ'ין, *הכוכב ה-12* (1976) — הטקסט היסודי של פרשנות האנונאקי") }} מסגרת סיצ'ין בעלת בעיות מתודולוגיות מהותיות (קריאות שפה שומרית שנויות במחלוקת מהותית; טענות ניבירו מהותיות שאינן נתמכות על ידי האסטרונומיה המודרנית).
 
-The corpus's specific differences from these traditions:
+ההבדלים הספציפיים של הקורפוס ממסורות אלה:
 
-- **Respect for indigenous achievement.** The visible megalithic monuments are substantively human accomplishment.
-- **Source-textual grounding.** The corpus engages Vorilhon-source content (alliance high-mountain and submarine bases) rather than speculative-interpretive content (the broader "aliens built the pyramids" framing).
-- **Methodological discipline.** The corpus distinguishes between direct source claims, comparative observations, and speculative inference rather than treating speculative content as established.
+- **כבוד להישג הילידי.** המונומנטים המגליתיים הנראים הם הישג אנושי מהותי.
+- **עיגון טקסטואלי-מקורי.** הקורפוס מעורב בתוכן מקור-וורילון (בסיסי ברית בהרים גבוהים ותת-ימיים) ולא בתוכן ספקולטיבי-פרשני (המסגור הרחב יותר של »חייזרים בנו את הפירמידות«).
+- **משמעת מתודולוגית.** הקורפוס מבחין בין טענות מקור ישירות, תצפיות השוואתיות והסקה ספקולטיבית ולא מתייחס לתוכן ספקולטיבי כאל מבוסס.
 
-### The Göbekli Tepe revolution
+### מהפכת גובקלי טפה
 
-The Göbekli Tepe site in southeastern Turkey, excavated principally by **Klaus Schmidt** (1953-2014) of the German Archaeological Institute beginning in 1995, has substantially changed the conventional chronology of monumental construction.
+אתר גובקלי טפה בדרום-מזרח טורקיה, שנחפר בעיקר על ידי **קלאוס שמידט** (1953-2014) של המכון הארכיאולוגי הגרמני החל מ-1995, שינה מהותית את הכרונולוגיה המקובלת של בנייה מונומנטלית.
 
-The principal Göbekli Tepe findings:
+הממצאים העיקריים של גובקלי טפה:
 
-- **Dating.** The earliest occupation layers date to c. 9500 BCE — substantially before the conventional Neolithic-revolution chronology (the substantial transition to settled agriculture conventionally dated to ~9000-8500 BCE in the Levant).
-- **Construction.** The site features substantial T-shaped limestone pillars (some >5 meters tall, weighing tons) arranged in circular enclosures, with substantial relief carvings of animals (boars, foxes, snakes, scorpions, birds, others), abstract symbols, and stylized human figures.
-- **Pre-agricultural construction.** The substantial chronology indicates that the builders were substantially pre-agricultural hunter-gatherers, not the settled-agricultural population conventionally associated with monumental construction.
-- **Construction implications.** The substantial pre-agricultural monumental construction substantially overturns the conventional sequence in which monumental construction was assumed to follow agricultural settlement. The implication: monumental construction may substantially precede (and possibly motivate) the agricultural revolution rather than following it.
+- **תיארוך.** שכבות התפוסה המוקדמות ביותר מתוארכות לבסביבות 9500 לפנה״ס — מוקדם מהותית מהכרונולוגיה המקובלת של המהפכה הניאוליתית (המעבר המהותי לחקלאות מיושבת מתוארך באופן מקובל לכ-9000-8500 לפנה״ס בלבנט).
+- **בנייה.** האתר כולל עמודי גיר מהותיים בצורת T (כמה גבוהים מ-5 מטרים, שוקלים טונות) מסודרים בתחומים מעגליים, עם תבליטים מהותיים של בעלי חיים (חזירי בר, שועלים, נחשים, עקרבים, ציפורים, אחרים), סמלים מופשטים ודמויות אנוש מסוגננות.
+- **בנייה טרום-חקלאית.** הכרונולוגיה המהותית מצביעה על כך שהבונים היו ציידים-לקטים טרום-חקלאיים מהותית, ולא האוכלוסייה החקלאית-מיושבת הקשורה באופן מקובל לבנייה מונומנטלית.
+- **השלכות בנייה.** הבנייה המונומנטלית הטרום-חקלאית המהותית הופכת מהותית את הרצף המקובל שבו הונח שבנייה מונומנטלית עוקבת אחרי התיישבות חקלאית. ההשלכה: בנייה מונומנטלית עשויה להקדים מהותית (ואולי להניע) את המהפכה החקלאית במקום לעקוב אחריה.
 
-The Göbekli Tepe revolution has substantial implications for the broader Ancient Builders question:
+למהפכת גובקלי טפה השלכות מהותיות לשאלת הבונים הקדומים הרחבה יותר:
 
-- **Substantial pre-flood monumental capability.** By the corpus chronology, the c. 9500 BCE Göbekli Tepe construction occurred during the late Leo / early Cancer age — substantially before the Cancer-Gemini boundary flood event (c. 6,690 BCE). The site is substantively pre-flood monumental construction.
-- **Substantial pre-agricultural cultural sophistication.** The hunter-gatherer builders of Göbekli Tepe demonstrated substantial coordination, sustained communal labor over centuries, and substantial symbolic-religious sophistication. The substantial earlier-than-previously-thought capability is substantively well-documented.
-- **Implications for the lost-civilization hypothesis.** Göbekli Tepe substantially complicates the simple "lost civilization before the flood" framing. The site demonstrates substantial pre-flood capability without requiring a "lost civilization" of the Atlantis-style framing. The pre-flood population at Göbekli Tepe was hunter-gatherer rather than Atlantis-style advanced.
-- **Implications for the corpus framework.** Göbekli Tepe is consistent with the corpus framework's substantial pre-flood cultural development. The site may operate as evidence of substantial human cultural development under alliance cultivation during the Leo and Cancer ages, with the substantial subsequent flood-event substantially disrupting the developmental trajectory.
+- **יכולת מונומנטלית טרום-מבולית מהותית.** על פי כרונולוגיית הקורפוס, בניית גובקלי טפה בערך 9500 לפנה״ס התרחשה במהלך עידן האריה המאוחר / הסרטן המוקדם — מהותית לפני אירוע המבול בגבול סרטן-תאומים (בערך 6,690 לפנה״ס). האתר הוא בנייה מונומנטלית טרום-מבולית מהותית.
+- **תחכום תרבותי טרום-חקלאי מהותי.** בוני גובקלי טפה הציידים-לקטים הדגימו תיאום מהותי, עבודה קהילתית מתמשכת על פני מאות שנים ותחכום סמלי-דתי מהותי. היכולת המוקדמת מהותית ממה שחשבו קודם מתועדת היטב.
+- **השלכות להשערת הציוויליזציה האבודה.** גובקלי טפה מסבך מהותית את המסגור הפשוט של »ציוויליזציה אבודה לפני המבול«. האתר מדגים יכולת טרום-מבולית מהותית מבלי לדרוש »ציוויליזציה אבודה« בסגנון אטלנטיס. האוכלוסייה הטרום-מבולית בגובקלי טפה הייתה ציידים-לקטים ולא מתקדמת בסגנון אטלנטיס.
+- **השלכות למסגרת הקורפוס.** גובקלי טפה עקבי עם ההתפתחות התרבותית הטרום-מבולית המהותית של מסגרת הקורפוס. האתר עשוי לפעול כראיה להתפתחות תרבותית אנושית מהותית תחת חניכת ברית במהלך עידני האריה והסרטן, כאשר אירוע המבול המהותי-העוקב משבש מהותית את מסלול ההתפתחות.
 
-The dedicated [Göbekli Tepe](../gobekli-tepe/) entry will articulate the site's substantive content systematically.
+הערך הייעודי [גובקלי טפה](../gobekli-tepe/) ינסח את התוכן המהותי של האתר באופן שיטתי.
 
-### The Younger Dryas Impact Hypothesis
+### השערת הפגיעה של הדריאס הצעיר
 
-The **Younger Dryas Impact Hypothesis** (YDIH), proposed by **Richard Firestone** et al. in 2007, argues that a substantial cosmic impact or atmospheric airburst event at c. 12,900 BCE produced the substantial Younger Dryas climate cooling and the substantial associated megafaunal extinctions and cultural disruptions.
+**השערת הפגיעה של הדריאס הצעיר** (YDIH), שהוצעה על ידי **ריצ'רד פיירסטון** ואחרים ב-2007, טוענת שאירוע פגיעה קוסמית מהותית או פיצוץ אטמוספרי בערך 12,900 לפנה״ס הפיק את הקירור האקלימי המהותי של הדריאס הצעיר ואת ההכחדות המהותיות הקשורות של בעלי חיים גדולים והשיבושים התרבותיים.
 
-The principal YDIH evidence (substantially developed across the post-2007 scholarship):
+ראיות ה-YDIH העיקריות (פותחו מהותית על פני המחקר שלאחר 2007):
 
-- **Platinum spikes** at the Younger Dryas boundary documented at sites across multiple continents
-- **Carbon spherules and nanodiamonds** suggestive of high-temperature events
-- **Widespread evidence of fires** consistent with a major impact-generated thermal event
-- **Megafaunal extinctions** aligning with the Younger Dryas timing
-- **Cultural disruptions** (the substantial Clovis-culture collapse in North America) aligning with the event
+- **שיאי פלטינה** בגבול הדריאס הצעיר מתועדים באתרים על פני יבשות מרובות
+- **כדוריות פחמן ויהלומים ננו** המרמזים על אירועים בטמפרטורה גבוהה
+- **ראיות נרחבות לשריפות** עקביות עם אירוע תרמי גדול שנוצר מפגיעה
+- **הכחדות בעלי חיים גדולים** מיושרות עם תזמון הדריאס הצעיר
+- **שיבושים תרבותיים** (קריסת תרבות הקלוביס המהותית בצפון אמריקה) מיושרים עם האירוע
 
-The YDIH remains substantively contested in mainstream geology and archaeology, with substantial subsequent scholarship both supporting and challenging the hypothesis. The corpus engages YDIH as a substantively live hypothesis with substantial implications:
+YDIH נותרת שנויה במחלוקת מהותית בגיאולוגיה ובארכיאולוגיה המיינסטרימית, עם מחקר עוקב מהותי הן תומך והן מאתגר את ההשערה. הקורפוס מעורב ב-YDIH כהשערה חיה מהותית עם השלכות מהותיות:
 
-- **Substantial pre-flood civilizational catastrophe.** If a major impact event occurred at c. 12,900 BCE, it substantially predates the corpus's Cancer-Gemini boundary flood event (c. 6,690 BCE). The YDIH event would represent a substantial earlier catastrophic episode, possibly with substantial implications for any earlier human civilizational development.
-- **Connection to the lost-civilization framings.** Hancock and other alternative-archaeology figures have substantially argued that the YDIH event destroyed a substantial pre-Younger-Dryas advanced civilization, with the substantial subsequent Bronze Age civilizations as the substantial cultural inheritors.
-- **Corpus position.** The corpus engages YDIH at the descriptive level (the substantial evidence for a major catastrophic event ~12,900 BCE warrants substantive engagement) without adopting the Hancock-style "lost advanced civilization" framing. The substantial pre-Younger-Dryas human populations were substantially hunter-gatherer cultures with substantial cultural sophistication but not Atlantis-style advanced civilization. The YDIH event would have substantially disrupted these populations without requiring a lost super-civilization.
+- **קטסטרופה ציוויליזציונית טרום-מבולית מהותית.** אם אירוע פגיעה גדול התרחש בערך 12,900 לפנה״ס, הוא מקדים מהותית את אירוע המבול בגבול סרטן-תאומים של הקורפוס (בערך 6,690 לפנה״ס). אירוע ה-YDIH ייצג אפיזודה קטסטרופלית מוקדמת מהותית, אולי עם השלכות מהותיות על כל התפתחות ציוויליזציונית אנושית מוקדמת יותר.
+- **קשר למסגורי הציוויליזציה האבודה.** הנקוק ודמויות אחרות של ארכיאולוגיה חלופית טענו מהותית שאירוע ה-YDIH השמיד ציוויליזציה מתקדמת מהותית שלפני הדריאס הצעיר, כאשר ציוויליזציות עידן הברונזה העוקבות המהותיות הן היורשות התרבותיות המהותיות.
+- **עמדת הקורפוס.** הקורפוס מעורב ב-YDIH ברמה התיאורית (הראיות המהותיות לאירוע קטסטרופלי גדול בערך 12,900 לפנה״ס מצדיקות עיסוק מהותי) ללא אימוץ המסגור בסגנון הנקוק של »ציוויליזציה מתקדמת אבודה«. האוכלוסיות האנושיות המהותיות שלפני הדריאס הצעיר היו תרבויות ציידים-לקטים מהותית עם תחכום תרבותי מהותי אך לא ציוויליזציה מתקדמת בסגנון אטלנטיס. אירוע ה-YDIH היה משבש מהותית אוכלוסיות אלו ללא דרישה לסופר-ציוויליזציה אבודה.
 
-## Comparative observations
+## תצפיות השוואתיות
 
-The cross-cultural pattern of megalithic and monumental construction operates across virtually every major civilization. The corpus engages this pattern substantively while preserving cultural specificity.
+הדפוס הבין-תרבותי של בנייה מגליתית ומונומנטלית פועל על פני כמעט כל ציוויליזציה גדולה. הקורפוס מעורב בדפוס זה מהותית תוך שימור סגוליות תרבותית.
 
-### Egyptian pyramids and monumental architecture
+### פירמידות מצרים ואדריכלות מונומנטלית
 
-The Egyptian monumental tradition is one of the principal cross-cultural references. The principal features:
+המסורת המונומנטלית המצרית היא אחת ההפניות הבין-תרבותיות העיקריות. התכונות העיקריות:
 
-- **The Step Pyramid of Djoser** (c. 2670 BCE, designed by Imhotep) — the first substantial Egyptian stone pyramid
-- **The Bent Pyramid and Red Pyramid at Dahshur** (c. 2600 BCE, Sneferu) — the substantial transitional pyramids
-- **The Giza pyramids** (c. 2560-2510 BCE, Khufu, Khafre, Menkaure) — the substantial Old Kingdom culmination
-- **The Middle Kingdom pyramids** (c. 2000-1700 BCE) — substantially smaller and substantially less well-preserved
-- **The substantial Theban temple complexes** (Karnak, Luxor, Deir el-Bahari, the Ramesseum, the various mortuary temples) — substantial New Kingdom monumental construction
-- **The Abu Simbel temples** (c. 1264 BCE, Ramesses II) — the substantial rock-cut monumental temples
+- **פירמידת המדרגות של זוסר** (בערך 2670 לפנה״ס, תוכננה על ידי אימחותפ) — הפירמידה המצרית מאבן המהותית הראשונה
+- **הפירמידה הכפופה והפירמידה האדומה בדהשור** (בערך 2600 לפנה״ס, סנפרו) — הפירמידות המעבריות המהותיות
+- **פירמידות גיזה** (בערך 2560-2510 לפנה״ס, חופו, ח'אפרע, מנקאורע) — שיא הממלכה הקדומה המהותי
+- **פירמידות הממלכה התיכונה** (בערך 2000-1700 לפנה״ס) — קטנות מהותית ומשומרות פחות
+- **קומפלקסי מקדשי תבאי המהותיים** (כרנכ, לוקסור, דיר אל-בחרי, הרמסיום, מקדשי הקבורה השונים) — בנייה מונומנטלית מהותית של הממלכה החדשה
+- **מקדשי אבו סימבל** (בערך 1264 לפנה״ס, רעמסס השני) — מקדשי הסלע המונומנטליים המהותיים
 
-### Mesopotamian ziggurats
+### זיגוראטים מסופוטמיים
 
-The Mesopotamian monumental tradition principally took the form of ziggurats — substantial stepped pyramid temples. Principal examples:
+המסורת המונומנטלית המסופוטמית לבשה בעיקר את צורת הזיגוראטים — מקדשי פירמידה מדורגים מהותיים. דוגמאות עיקריות:
 
-- **The Ziggurat of Ur** (c. 2100 BCE, Ur-Nammu) — the substantially preserved Sumerian ziggurat
-- **The substantial Babylonian Etemenanki** — the substantial "Tower of Babel" ziggurat referenced in Genesis 11
-- **The Choga Zanbil ziggurat** (c. 1250 BCE) — the substantial Elamite preservation
+- **זיגוראט אור** (בערך 2100 לפנה״ס, אור-נאמו) — הזיגוראט השומרי המשומר מהותית
+- **אטמננקי הבבלי המהותי** — הזיגוראט המהותי של »מגדל בבל« המוזכר בבראשית י"א
+- **זיגוראט צ'וגה זנביל** (בערך 1250 לפנה״ס) — השימור הילמי המהותי
 
-The ziggurat tradition's connection to the substantial Tower of Babel narrative is substantively engaged in the [Babel](../babel/) entry.
+קשר מסורת הזיגוראט לנרטיב מגדל בבל המהותי מטופל מהותית בערך {% wiki(slug="babel") %}בבל{% end %}.
 
-### European megalithic tradition
+### מסורת מגליתית אירופית
 
-The substantial European megalithic tradition spans the Late Neolithic and Early Bronze Age, principally c. 5000-2000 BCE. Principal examples:
+המסורת המגליתית האירופית המהותית משתרעת על הניאוליתי המאוחר ועידן הברונזה המוקדם, בעיקר בערך 5000-2000 לפנה״ס. דוגמאות עיקריות:
 
-- **Stonehenge and the Wessex monuments** (Avebury, Silbury Hill, Durrington Walls, the Stonehenge Avenue, the substantial Cursus monuments)
-- **Carnac in Brittany** (c. 4500-3300 BCE) — substantial alignments of thousands of standing stones across multiple kilometers
-- **Newgrange in Ireland** (c. 3200 BCE) — substantial passage tomb with the substantial winter-solstice illumination alignment
-- **The substantial Maltese megalithic temples** (c. 3600-2500 BCE) — treated above in *Mainstream archaeology*
-- **The substantial Iberian, French, and broader Atlantic megalithic tradition** — substantial dolmens, menhirs, and passage tombs across substantial geographic range
+- **סטונהנג' ומונומנטי וסקס** (אבברי, סילבורי היל, דרינגטון וולס, שדרת סטונהנג', מונומנטי הקורסוס המהותיים)
+- **קארנק בברטאן** (בערך 4500-3300 לפנה״ס) — יישורים מהותיים של אלפי אבני עמידה על פני קילומטרים מרובים
+- **ניוגריינג' באירלנד** (בערך 3200 לפנה״ס) — קבר מעבר מהותי עם יישור הארת הסולסטיציום של החורף המהותי
+- **מקדשי מלטה המגליתיים המהותיים** (בערך 3600-2500 לפנה״ס) — מטופלים לעיל ב*ארכיאולוגיה מיינסטרימית*
+- **המסורת המגליתית האיברית, הצרפתית והאטלנטית הרחבה המהותית** — דולמנים, מנהירים וקברי מעבר מהותיים על פני טווח גיאוגרפי מהותי
 
-### Mediterranean cyclopean masonry
+### בנייה קיקלופית ים-תיכונית
 
-The substantial Mediterranean cyclopean masonry tradition appears principally at:
+מסורת הבנייה הקיקלופית הים-תיכונית המהותית מופיעה בעיקר ב:
 
-- **Mycenae and Tiryns** (c. 1350-1200 BCE) — the substantial Mycenaean cyclopean walls; the substantial Treasury of Atreus tholos tomb; the substantial Lion Gate at Mycenae
-- **The Argolid generally** — substantial Late Bronze Age fortifications across the Peloponnesian region
-- **The Sardinian nuraghi** (c. 1800-730 BCE) — substantial conical stone towers (~7,000 surviving examples across Sardinia)
-- **The substantial Hittite cyclopean construction** at Hattusa and other Anatolian sites
+- **מיקנה וטירינס** (בערך 1350-1200 לפנה״ס) — חומות מיקנה הקיקלופיות המהותיות; קבר התולוס של אוצר אטראוס המהותי; שער האריות במיקנה המהותי
+- **ארגוליד באופן כללי** — ביצורים מהותיים של עידן הברונזה המאוחר על פני אזור הפלופונסוס
+- **נוראגי סרדיניה** (בערך 1800-730 לפנה״ס) — מגדלי אבן חרוטיים מהותיים (כ-7,000 דוגמאות שורדות על פני סרדיניה)
+- **הבנייה הקיקלופית החיתית המהותית** בחטוסה ובאתרים אנטוליים אחרים
 
-### Indian subcontinent monumental tradition
+### מסורת מונומנטלית של תת-היבשת ההודית
 
-The substantial Indian subcontinent monumental tradition includes:
+המסורת המונומנטלית של תת-היבשת ההודית המהותית כוללת:
 
-- **The substantial Harappan urban architecture** (c. 2600-1900 BCE) — Mohenjo-daro, Harappa, and the substantial broader Indus Valley civilization
-- **The substantial subsequent Indian temple architecture** — the substantial Mahabalipuram rock-cut monuments (c. 7th century CE); the substantial Khajuraho temples (c. 950-1050 CE); the substantial Ellora and Ajanta cave complexes; the substantial Vijayanagara monuments at Hampi (c. 1336-1565 CE)
-- **The substantial Kailasa Temple at Ellora** (c. 8th century CE) — the substantial monolithic rock-cut temple, carved from a single mountain in a substantial top-down excavation
+- **האדריכלות העירונית ההרפנית המהותית** (בערך 2600-1900 לפנה״ס) — מוהנג'ו-דארו, הרפה והציוויליזציה הרחבה יותר של עמק האינדוס המהותית
+- **אדריכלות המקדשים ההודית העוקבת המהותית** — המונומנטים הסלעיים המהותיים של מהבליפורם (בערך המאה השביעית לספירה); מקדשי קז'וראהו המהותיים (בערך 950-1050 לספירה); קומפלקסי המערות המהותיים של אלורה ואג'נטה; מונומנטי וויאיאנגארה המהותיים בהמפי (בערך 1336-1565 לספירה)
+- **מקדש קאילסה באלורה המהותי** (בערך המאה השמינית לספירה) — המקדש הסלעי המונולית המהותי, מגולף מהר אחד בחפירה מהותית מלמעלה למטה
 
-### East Asian monumental tradition
+### מסורת מונומנטלית של מזרח אסיה
 
-The substantial East Asian monumental tradition includes:
+המסורת המונומנטלית של מזרח אסיה המהותית כוללת:
 
-- **The substantial Chinese imperial tomb complexes** — the substantial Mausoleum of the First Qin Emperor (c. 246-208 BCE) with the substantial Terracotta Army; the substantial Ming Tombs
-- **The substantial Great Wall of China** — built across multiple dynasties from c. 7th century BCE through the substantial Ming-era completion
-- **The substantial Korean dolmens** — the substantial Korean Peninsula contains many thousands of dolmens (c. 1000 BCE-300 CE), the substantial Bronze Age megalithic preservation
-- **The substantial Japanese kofun (burial mounds)** — substantial 3rd-7th century CE Japanese monumental tomb complexes
-- **The substantial Cambodian Angkor Wat** (c. 12th century CE) and the substantial broader Khmer monumental tradition
+- **קומפלקסי קברי הקיסר הסיני המהותיים** — המאוזוליאום המהותי של קיסר צ'ין הראשון (בערך 246-208 לפנה״ס) עם צבא הטרקוטה המהותי; קברי המינג המהותיים
+- **החומה הגדולה של סין המהותית** — נבנתה על פני שושלות מרובות מבערך המאה השביעית לפנה״ס עד השלמת תקופת המינג המהותית
+- **הדולמנים הקוריאניים המהותיים** — חצי האי הקוריאני מכיל אלפים רבים של דולמנים (בערך 1000 לפנה״ס-300 לספירה), שימור מגליתי של עידן הברונזה המהותי
+- **קופון יפניים המהותיים (תילי קבורה)** — קומפלקסי קברי מונומנט יפניים מהותיים של המאות 3-7 לספירה
+- **אנגקור ואט הקמבודי המהותי** (בערך המאה ה-12 לספירה) והמסורת המונומנטלית הקמרית הרחבה יותר המהותית
 
-### Southeast Asian and Pacific monumental tradition
+### מסורת מונומנטלית של דרום-מזרח אסיה והאוקיינוס השקט
 
-The substantial Southeast Asian and Pacific monumental tradition includes:
+המסורת המונומנטלית של דרום-מזרח אסיה והאוקיינוס השקט המהותית כוללת:
 
-- **Angkor Wat and the broader Khmer monuments** (Cambodia, c. 9th-15th century CE) — the substantial largest religious monument in the world by area
-- **Borobudur** (Java, c. 9th century CE) — the substantial Buddhist stupa-temple complex
-- **Prambanan** (Java, c. 9th century CE) — the substantial Hindu temple complex
-- **The substantial Indonesian megalithic tradition** at sites including Gunung Padang
-- **The substantial Pacific monumental traditions** — the substantial Easter Island moai (treated above); the substantial Tongan Ha'amonga 'a Maui trilithon; the substantial Marquesan tiki; the substantial Tahitian and Hawaiian heiau platforms
+- **אנגקור ואט ומונומנטי הקמרים הרחבים יותר** (קמבודיה, בערך המאות 9-15 לספירה) — המונומנט הדתי הגדול בעולם לפי שטח המהותי
+- **בורובודור** (ג'אווה, בערך המאה ה-9 לספירה) — קומפלקס הסטופה-מקדש הבודהיסטי המהותי
+- **פרמבנן** (ג'אווה, בערך המאה ה-9 לספירה) — קומפלקס המקדש ההינדי המהותי
+- **המסורת המגליתית האינדונזית המהותית** באתרים כולל גונונג פאדאנג
+- **המסורות המונומנטליות של האוקיינוס השקט המהותיות** — מואי אי הפסחא המהותי (מטופל לעיל); הטריליתון המהותי של הא'אמונגה 'א מאוי הטונגאני; הטיקי המרקזי המהותי; פלטפורמות ההייאו המהותיות של טהיטי והוואי
 
-### Pre-Columbian American monumental tradition
+### מסורת מונומנטלית טרום-קולומביאנית אמריקאית
 
-The substantial pre-Columbian American monumental tradition includes:
+המסורת המונומנטלית הטרום-קולומביאנית האמריקאית המהותית כוללת:
 
-- **The substantial Olmec colossal heads** (c. 1200-400 BCE) — substantial multi-ton basalt sculptures
-- **Teotihuacan** (c. 1-650 CE) — the substantial Pyramid of the Sun, Pyramid of the Moon, and broader urban complex
-- **The substantial Maya pyramid tradition** — Chichen Itza, Tikal, Palenque, Copán, the substantial broader Maya monumental tradition
-- **The substantial Aztec Templo Mayor** at Tenochtitlan
-- **The substantial Andean monumental tradition** — Chavín de Huántar (c. 1200-200 BCE); Tiwanaku (c. 300-1000 CE) and Puma Punku; the substantial Inca constructions (Sacsayhuamán, Machu Picchu, Ollantaytambo, Cusco; c. 1438-1533 CE)
-- **The substantial Mississippi mound builders** — Cahokia (c. 600-1400 CE) and the substantial broader Mississippian culture; the substantial Adena and Hopewell mound traditions
-- **The substantial Pueblo construction** — Chaco Canyon (c. 850-1150 CE), Mesa Verde, and the substantial broader Ancestral Puebloan tradition
+- **ראשי הקולוסים האולמקיים המהותיים** (בערך 1200-400 לפנה״ס) — פסלי בזלת רב-טוניים מהותיים
+- **טאוטיוואקאן** (בערך 1-650 לספירה) — פירמידת השמש המהותית, פירמידת הירח, וקומפלקס עירוני רחב יותר
+- **המסורת הפירמידלית של המאיה המהותית** — צ'יצ'ן איצא, טיקאל, פלנקה, קופאן, המסורת המונומנטלית המאיה הרחבה יותר המהותית
+- **טמפלו מאיור האצטקי המהותי** בטנוצ'טיטלאן
+- **המסורת המונומנטלית האנדינית המהותית** — צ'אווין דה הואנטר (בערך 1200-200 לפנה״ס); טיוואנאקו (בערך 300-1000 לספירה) ופומה פונקו; הבניות המהותיות של האינקה (סקסאיוואמן, מאצ'ו פיצ'ו, אויאנטאיטמבו, קוסקו; בערך 1438-1533 לספירה)
+- **בוני התילים המהותיים של המיסיסיפי** — קהוקיה (בערך 600-1400 לספירה) ותרבות המיסיסיפי הרחבה יותר המהותית; מסורות התילים המהותיות של אדנה והופוול
+- **בניית פואבלו המהותית** — קניון צ'אקו (בערך 850-1150 לספירה), מסה ורדה ומסורת הפואבלו הקדמונית הרחבה יותר המהותית
 
-### African monumental tradition beyond Egypt
+### מסורת מונומנטלית אפריקאית מעבר למצרים
 
-The substantial African monumental tradition beyond Egypt includes:
+המסורת המונומנטלית האפריקאית מעבר למצרים המהותית כוללת:
 
-- **Great Zimbabwe** (c. 1100-1450 CE) — the substantial stone-city ruins in modern Zimbabwe
-- **The substantial Nubian pyramids** at Meroë and other Sudanese sites (c. 6th century BCE-4th century CE)
-- **The substantial Aksumite stelae** at Aksum (Ethiopia, c. 1st-7th century CE) — substantial monolithic granite stelae up to 33 meters tall
-- **The substantial Lalibela rock-hewn churches** (Ethiopia, c. 12th-13th century CE) — the substantial monolithic churches carved into volcanic rock
-- **The substantial Senegambian stone circles** (c. 3rd century BCE-16th century CE) — substantial megalithic complex across Senegal and Gambia
-- **The substantial Sungbo's Eredo earthwork** (Nigeria, c. 1000 CE) — the substantial 160-km-long defensive ditch
+- **זימבבואה הגדולה** (בערך 1100-1450 לספירה) — חורבות עיר האבן המהותיות בזימבבואה המודרנית
+- **הפירמידות הנוביות המהותיות** במרוואי ובאתרים סודנים אחרים (בערך המאה ה-6 לפנה״ס - המאה ה-4 לספירה)
+- **המצבות האקסומיות המהותיות** באקסום (אתיופיה, בערך המאות 1-7 לספירה) — מצבות גרניט מונוליטיות מהותיות בגובה של עד 33 מטר
+- **כנסיות הסלע של לאליבלה המהותיות** (אתיופיה, בערך המאות 12-13 לספירה) — הכנסיות המונוליטיות המהותיות מגולפות בסלע געשי
+- **מעגלי האבן הסנגמביים המהותיים** (בערך המאה ה-3 לפנה״ס - המאה ה-16 לספירה) — קומפלקס מגליתי מהותי על פני סנגל וגמביה
+- **תל סונגבו'ס ארדו המהותי** (ניגריה, בערך 1000 לספירה) — תעלת ההגנה באורך 160 ק"מ המהותית
 
-### The cross-cultural pattern of astronomical-alignment incorporation
+### הדפוס הבין-תרבותי של שילוב יישור אסטרונומי
 
-The substantial cross-cultural pattern of astronomical-alignment incorporation in monumental architecture appears across virtually every major monumental tradition:
+הדפוס הבין-תרבותי המהותי של שילוב יישור אסטרונומי באדריכלות מונומנטלית מופיע על פני כמעט כל מסורת מונומנטלית עיקרית:
 
-- **Solstice and equinox alignments** — Stonehenge (summer solstice sunrise; winter solstice sunset); Newgrange (winter solstice sunrise); Maeshowe (winter solstice sunset); Chichen Itza's El Castillo (equinox shadow play); the substantial various Egyptian temple alignments; the substantial Inca Torreón at Machu Picchu
-- **Stellar alignments** — Giza-Orion correlation; the substantial Egyptian temple alignments to specific stars (Sirius, Canopus, others); the substantial Mayan alignments to Venus; the substantial Andean alignments to specific stars and constellations
-- **Lunar alignments** — Stonehenge's substantial lunar alignments (the 18.6-year lunar standstill cycle); the substantial Maya lunar tracking; the substantial various lunar alignments globally
-- **Precessional alignments** — the substantial *Hamlet's Mill* hypothesis (treated in the [Comparative Mythology](../comparative-mythology/) entry) that the substantial cross-cultural mythology encodes precessional content
+- **יישורי סולסטיציום ושוויון** — סטונהנג' (זריחת השמש בסולסטיציום הקיץ; שקיעה בסולסטיציום החורף); ניוגריינג' (זריחת השמש בסולסטיציום החורף); מאשהאו (שקיעה בסולסטיציום החורף); אל קסטיו של צ'יצ'ן איצא (משחק צללי השוויון); יישורי המקדש המצריים השונים המהותיים; הטוראון האינקאי המהותי במאצ'ו פיצ'ו
+- **יישורים כוכביים** — קורלציית גיזה-אוריון; יישורי המקדש המצריים המהותיים לכוכבים ספציפיים (סיריוס, קנופוס, אחרים); יישורי המאיה המהותיים לוונוס; היישורים האנדיניים המהותיים לכוכבים וקבוצות כוכבים ספציפיים
+- **יישורים לבנייניים** — היישורים הלבנייניים המהותיים של סטונהנג' (מחזור הלבנה הסטנדרטי של 18.6 שנים); המעקב הלבנייני המהותי של המאיה; היישורים הלבנייניים השונים המהותיים גלובלית
+- **יישורי נקיפה** — השערת *טחנת המלט* המהותית (המטופלת בערך {% wiki(slug="comparative-mythology") %}מיתולוגיה השוואתית{% end %}) שהמיתולוגיה הבין-תרבותית המהותית מקודדת תוכן נקיפתי
 
-### The cross-cultural pattern of mountain-top sacred site selection
+### הדפוס הבין-תרבותי של בחירת אתרי קודש בפסגות הרים
 
-The substantial cross-cultural pattern of "mountain-top" or "high-place" sacred site selection appears across virtually every major religious tradition:
+הדפוס הבין-תרבותי המהותי של בחירת אתרי קודש »בפסגת ההר« או ב»מקום גבוה« מופיע על פני כמעט כל מסורת דתית עיקרית:
 
-- **The Hebrew Bible mountain sites** — Mount Sinai, Mount Zion, Mount Moriah, Mount Carmel, the substantial broader Hebrew Bible mountain-as-sacred-site pattern
-- **The substantial Greek sacred mountains** — Mount Olympus, Mount Parnassus, Mount Athos, Mount Ida, the substantial broader Greek mountain-as-divine-residence pattern
-- **The substantial Andean sacred mountains** — Machu Picchu and the substantial broader Inca apu (mountain spirit) tradition; the substantial Aymara achachilas; the substantial Mapuche pillan
-- **The substantial Himalayan sacred mountains** — Mount Kailash (the substantial Hindu-Buddhist-Jain-Bön sacred mountain); Mount Meru; the substantial broader Himalayan religious tradition
-- **The substantial Japanese sacred mountains** — Mount Fuji, Mount Koya, Mount Hiei, the substantial broader Shinto sangaku-shinkō (mountain worship) tradition
-- **The substantial Chinese sacred mountains** — the substantial Five Great Mountains (Tai Shan, Hua Shan, Heng Shan North, Heng Shan South, Song Shan); the substantial Daoist and Buddhist sacred mountain tradition
-- **The substantial Native American sacred mountains** — the substantial Lakota Bear Butte; the substantial Navajo Four Sacred Mountains; the substantial Apache and other tribal sacred-mountain traditions
+- **אתרי ההר של המקרא העברי** — הר סיני, הר ציון, הר המוריה, הר הכרמל, הדפוס המקראי הרחב יותר של הר-כאתר-קדוש המהותי
+- **ההרים הקדושים היווניים המהותיים** — הר אולימפוס, הר פרנסוס, הר אתוס, הר אידה, הדפוס היווני הרחב יותר של הר-כמשכן-אלוהי המהותי
+- **ההרים הקדושים האנדיניים המהותיים** — מאצ'ו פיצ'ו ומסורת ה-apu (רוח הר) המהותית של האינקה הרחבה יותר; האצ'אצ'ילאס האיימרים המהותיים; הפילן המאפוצ'יים המהותיים
+- **ההרים הקדושים ההימלאיים המהותיים** — הר קאילאש (ההר הקדוש ההינדי-בודהיסטי-ג'יני-בון המהותי); הר מרו; המסורת הדתית ההימלאית הרחבה יותר המהותית
+- **ההרים הקדושים היפניים המהותיים** — הר פוג'י, הר קויה, הר הייאי, מסורת סנגאקו-שינקו (פולחן הרים) המהותית של השינטו הרחבה יותר
+- **ההרים הקדושים הסיניים המהותיים** — חמשת ההרים הגדולים המהותיים (טאי שאן, חואה שאן, הנג שאן צפון, הנג שאן דרום, סונג שאן); מסורת ההר הקדוש הדאואיסטית והבודהיסטית המהותית
+- **ההרים הקדושים האמריקאים-הילידיים המהותיים** — הר הדוב המהותי של הלקוטה; ארבעת ההרים הקדושים המהותיים של הנאוואחו; מסורות ההר הקדוש המהותיות של האפאצ'י ושבטים אחרים
 
-The substantial cross-cultural mountain-as-sacred-site pattern is one of the most strongly cross-culturally distributed patterns in comparative religion. The corpus reading: the pattern substantially preserves cultural memory of the alliance's high-mountain Earth-base locations, with the substantial subsequent cultural-religious sanctification of those locations reflecting substantial transmission of the cultural memory across the substantial post-flood centuries.
+הדפוס הבין-תרבותי המהותי של הר-כאתר-קדוש הוא אחד הדפוסים המופצים בין-תרבותית בחוזקה ביותר בדת ההשוואתית. קריאת הקורפוס: הדפוס משמר מהותית זיכרון תרבותי של מיקומי בסיסי כדור הארץ של הברית בהרים גבוהים, כאשר הקידוש התרבותי-דתי העוקב של מיקומים אלה משקף שידור מהותי של הזיכרון התרבותי על פני המאות העוקבות לאחר המבול המהותיות.
 
-### The convergence
+### ההתכנסות
 
-The cross-cultural pattern of megalithic and monumental construction operates as one of the substantial broadest cross-cultural patterns the discipline of Comparative Mythology has identified. The pattern's distribution across virtually every major civilization warrants substantive engagement.
+הדפוס הבין-תרבותי של בנייה מגליתית ומונומנטלית פועל כאחד הדפוסים הבין-תרבותיים הרחבים ביותר המהותיים שדיסציפלינת ה{% wiki(slug="comparative-mythology") %}מיתולוגיה ההשוואתית{% end %} זיהתה. התפלגות הדפוס על פני כמעט כל ציוויליזציה גדולה מצדיקה עיסוק מהותי.
 
-The corpus position: the cross-cultural pattern reflects multiple causal factors operating together. **Common human cultural-developmental processes** (the universal human capacity for substantial communal labor, substantial astronomical observation, substantial sustained intergenerational construction projects) substantially explain the cross-cultural emergence of monumental construction. **Specific alliance influence on specific traditions** (the cultural-cultivation operations across the various Eloha-team regional contexts; the substantial prophetic missions that established cultural-religious frameworks within which monumental construction was undertaken) substantially shapes the specific forms the cross-cultural pattern takes in specific traditions. **The substantial cross-cultural mountain-sacred-site pattern** specifically reflects substantial cultural memory of the alliance high-mountain base locations.
+עמדת הקורפוס: הדפוס הבין-תרבותי משקף גורמים סיבתיים מרובים הפועלים יחדיו. **תהליכים תרבותיים-התפתחותיים אנושיים משותפים** (היכולת האנושית האוניברסלית לעבודה קהילתית מהותית, תצפית אסטרונומית מהותית, פרויקטי בנייה בין-דוריים מתמשכים מהותיים) מסבירים מהותית את ההופעה הבין-תרבותית של בנייה מונומנטלית. **השפעת ברית ספציפית על מסורות ספציפיות** (פעולות החניכה התרבותית על פני הקשרי הצוות האזוריים השונים של האלוהים; המשימות הנבואיות המהותיות שביססו מסגרות תרבותיות-דתיות שבתוכן ננקטה בנייה מונומנטלית) מעצבת מהותית את הצורות הספציפיות שהדפוס הבין-תרבותי לובש במסורות ספציפיות. **הדפוס הבין-תרבותי של הר-קדוש המהותי** משקף ספציפית זיכרון תרבותי מהותי של מיקומי בסיסי-ברית בהרים גבוהים.
 
-The corpus does not require — and does not adopt — the strong "Ancient Builder race" framing that treats the cross-cultural pattern as evidence of a single lost civilization. The substantial cross-cultural pattern is better explained by the combination of human cultural-developmental processes, specific alliance influence on specific traditions, and substantial cultural memory of alliance presence at specific sacred locations.
-
-## See also
-
-- [Wheel of Heaven](../wheel-of-heaven/)
-- [Ancient Astronaut Hypothesis](../ancient-astronaut-hypothesis/)
-- [Comparative Mythology](../comparative-mythology/)
-- [Neo-Euhemerism](../neo-euhemerism/)
-- [Göbekli Tepe](../gobekli-tepe/)
-- [Atlantis](../atlantis/)
-- [Archaeoastronomy](../archaeoastronomy/)
-- [Sacred Geometry](../sacred-geometry/)
-- [Precession](../precession/)
-- [Hamlet's Mill](../hamlets-mill/)
-- [Elohim](../elohim/)
-- [Yahweh](../yahweh/)
-- [Serpent](../serpent/)
-- [Theomachy](../theomachy/)
-- [Noah](../noah/)
-- [Babel](../babel/)
-- [Ezekiel](../ezekiel/)
-- [Raël](../rael/)
-- [Raëlism](../raelism/)
-- [Message from the Designers](../message-from-the-designers/)
-- [Age of Leo](../age-of-leo/)
-- [Age of Cancer](../age-of-cancer/)
-- [Age of Gemini](../age-of-gemini/)
-
-## References
-
-### Principal Raëlian source
-
-Vorilhon, Claude (Raël). *Le Livre qui dit la vérité*. 1974.
-
-Vorilhon, Claude (Raël). *Les Extra-Terrestres m'ont emmené sur leur planète*. 1975.
-
-Vorilhon, Claude (Raël). *Accueillir les Extra-Terrestres*. 1979.
-
-Vorilhon, Claude (Raël). *Message from the Designers*. Tagman Press, 2005.
-
-### Mainstream archaeology and engineering on megalithic construction
-
-Lehner, Mark. *The Complete Pyramids: Solving the Ancient Mysteries*. Thames & Hudson, 1997.
-
-Lehner, Mark, and Zahi Hawass. *Giza and the Pyramids: The Definitive History*. University of Chicago Press, 2017.
-
-Pitts, Mike. *Hengeworld*. Century, 2000.
-
-Parker Pearson, Mike. *Stonehenge: Exploring the Greatest Stone Age Mystery*. Simon & Schuster, 2012.
-
-Protzen, Jean-Pierre. *Inca Architecture and Construction at Ollantaytambo*. Oxford University Press, 1993.
-
-Hunt, Terry, and Carl Lipo. *The Statues That Walked: Unraveling the Mystery of Easter Island*. Free Press, 2011.
-
-Tallet, Pierre. *Les papyrus de la Mer Rouge I: Le "Journal de Merer"*. Institut français d'archéologie orientale, 2017.
-
-Nash, David E., et al. "Origins of the sarsen megaliths at Stonehenge." *Science Advances* 6, no. 31 (2020): eabc0133.
-
-### Alternative archaeology and Ancient Builders tradition
-
-Hancock, Graham. *Fingerprints of the Gods: The Evidence of Earth's Lost Civilization*. Crown, 1995.
-
-Hancock, Graham. *Magicians of the Gods: The Forgotten Wisdom of Earth's Lost Civilization*. Thomas Dunne, 2015.
-
-Hancock, Graham. *America Before: The Key to Earth's Lost Civilization*. St. Martin's Press, 2019.
-
-Hancock, Graham. *Underworld: The Mysterious Origins of Civilization*. Crown, 2002.
-
-Schoch, Robert M. *Voices of the Rocks: A Scientist Looks at Catastrophes and Ancient Civilizations*. Harmony, 1999.
-
-West, John Anthony. *Serpent in the Sky: The High Wisdom of Ancient Egypt*. Quest, 1993.
-
-Dunn, Christopher. *The Giza Power Plant: Technologies of Ancient Egypt*. Bear & Company, 1998.
-
-### Atlantis tradition
-
-Plato. *Timaeus* and *Critias*. Various editions.
-
-Donnelly, Ignatius. *Atlantis: The Antediluvian World*. Harper & Brothers, 1882.
-
-Cayce, Edgar. *Edgar Cayce on Atlantis*. Edited by Edgar Evans Cayce. Hawthorn, 1968.
-
-Vidal-Naquet, Pierre. *The Atlantis Story: A Short History of Plato's Myth*. University of Exeter Press, 2007.
-
-### Ancient-astronaut engagement
-
-von Däniken, Erich. *Chariots of the Gods? Unsolved Mysteries of the Past*. G. P. Putnam's Sons, 1969.
-
-Sitchin, Zecharia. *The 12th Planet*. Stein and Day, 1976.
-
-### Göbekli Tepe
-
-Schmidt, Klaus. *Göbekli Tepe: A Stone Age Sanctuary in South-Eastern Anatolia*. ex oriente, 2012.
-
-Dietrich, Oliver, et al. "The role of cult and feasting in the emergence of Neolithic communities: New evidence from Göbekli Tepe, south-eastern Turkey." *Antiquity* 86, no. 333 (2012): 674-695.
-
-### Younger Dryas Impact Hypothesis
-
-Firestone, Richard B., et al. "Evidence for an extraterrestrial impact 12,900 years ago that contributed to the megafaunal extinctions and the Younger Dryas cooling." *Proceedings of the National Academy of Sciences* 104, no. 41 (2007): 16016-16021.
-
-Powell, James Lawrence. *Deadly Voyager: The Ancient Comet Strike That Changed Earth and Human History*. Powell Books, 2020.
-
-### Web resources
-
-"Megalith." *Wikipedia*. <https://en.wikipedia.org/wiki/Megalith>.
-
-"Stonehenge." *Wikipedia*. <https://en.wikipedia.org/wiki/Stonehenge>.
-
-"Egyptian pyramids." *Wikipedia*. <https://en.wikipedia.org/wiki/Egyptian_pyramids>.
-
-"Göbekli Tepe." *Wikipedia*. <https://en.wikipedia.org/wiki/G%C3%B6bekli_Tepe>.
-
-"Younger Dryas impact hypothesis." *Wikipedia*. <https://en.wikipedia.org/wiki/Younger_Dryas_impact_hypothesis>.
-
-"Atlantis." *Wikipedia*. <https://en.wikipedia.org/wiki/Atlantis>.
+הקורפוס אינו דורש — ואינו מאמץ — את המסגור החזק של »גזע הבונים הקדומים« המתייחס לדפוס הבין-תרבותי כראיה לציוויליזציה אבודה יחידה. הדפוס הבין-תרבותי המהותי מוסבר טוב יותר על ידי שילוב של תהליכים תרבותיים-התפתחותיים אנושיים, השפעת ברית ספציפית על מסורות ספציפיות, וזיכרון תרבותי מהותי של נוכחות ברית במיקומים קדושים ספציפיים.
