@@ -1,343 +1,361 @@
 +++
-title = "大洪水前"
-description = "大洪水前指先於大洪水的時代 — 《創世記》中長壽族長、拿非利人以及最初文明的時代。在 Wheel of Heaven 文集中,這一時代被讀作伊甸園之後的實驗階段,先於厄羅欣的水文重置。"
+title = "大洪水之前"
+slug = "antediluvian"
+description = "大洪水之前(拉丁語:ante「之前」+ diluvium「洪水」)指人類在地球上的存在於《創世記》6–9 章及古代世界各平行傳統所記載之大洪水之前的時期。在雷爾派源典所發展、《天輪》文集所採行之閱讀中,此即為受造後、洪水前的跨度 —— 自獅子座時代後期至巨蟹座時代(約公元前 11,375 – 6,690 年)—— 在此期間,由耶洛因造物者隊伍所產出的七支人類譜系在單一超大陸上發展出可觀的文明,其中伊甸譜系在路西法派系持續指導之下,進展至一個母星最終判定為威脅的水準。"
 template = "wiki-page.html"
 toc = true
 
 [extra]
-translation_status = "metadata_only"
 category = "Cosmic Chronology"
 editorial_pass = "2026-05"
+claim_type = "framework"
 entry_type = "event_period"
-alternative_names = ["pre-diluvian", "pre-flood", "pre-Flood"]
+alternative_names = ["洪水前", "前洪水期", "前大洪水時期"]
 timeline = ["leo", "cancer"]
+see_also = [
+    { title = "伊甸", path = "wiki/eden", description = "開啟大洪水之前時期的受造後路西法派系揭露。" },
+    { title = "大洪水", path = "wiki/great-flood", description = "結束大洪水之前世界的災難性事件。" },
+    { title = "泛大陸", path = "wiki/pangaea", description = "大洪水之前地球的超大陸構造。" },
+    { title = "生命之樹", path = "wiki/tree-of-life", description = "授予伊甸族長領導階層之細胞轉移延壽技術。" },
+    { title = "路西法", path = "wiki/lucifer", description = "其持續指導塑造伊甸譜系的、流亡於地球的以色列隊異議派系。" },
+    { title = "永恆者議會", path = "wiki/council-of-eternals", description = "其決議促成大洪水的母星審議機構。" },
+]
+
+footnotes = [
+    { content = "文集為大洪水之前時段所指定的具體年代 —— 約公元前 11,375 年為獅子座時代後期合成首批人類之時,約公元前 6,690 年為雙子座時代之洪水 —— 屬於框架內部。歲差是真實的天文現象,而文集所採行的十二時代循環(每時代約 2,160 年)與標準天文數值相符。然而,將該循環錨定於約公元 1950 年開啟的當代水瓶座時代,以及由 666 世代計算所推導出的人類受造年代,皆為組織材料的框架慣例。其他歲差時代體系以不同的門檻點錨定循環,因而為深時間年代序列得出相應不同的日期。" },
+    { content = "文集對超大陸的閱讀,與主流地質學對泛大陸的記述直接衝突。主流地質學將泛大陸的聚合斷代為約 3.35 億年前,其裂解為約 1.75 億年前,大陸漂移在數億年間透過地函對流而展開。文集則將大陸的合一讀為大洪水之前的狀態,將其裂解讀為約公元前 6,690 年大洪水之災難性事件,而其後所觀測到的大陸漂移則為該事件之殘餘動量。此一分歧是實質性的;文集並不予以淡化。主流記述仍是主導性的科學立場。詳見[泛大陸](../pangaea/)及[大洪水](../great-flood/)條目之完整處理。" },
+    { content = "《創世記》第 5 章族長的長壽 —— 亞當 930 歲、瑪土撒拉 969 歲等等 —— 在文集的閱讀中按字面解讀,視為路西法派系授予伊甸譜系領導階層之生命之樹細胞轉移技術的後果。主流聖經學界的標準替代閱讀 —— 即這些數字為命理學構造、反映其底層數系(或許追蹤月份而非年份)之誤譯,或為標誌族長為具特殊地位之神學手法 —— 皆被列出而不被採納。文集將這些替代讀法視為在底層技術指涉物未知時的自然解讀,而一旦自雷爾派源典恢復該技術指涉物,即被取代。" },
+    { content = "柏拉圖在《蒂邁歐篇》及《克里底亞篇》中的年代框架將亞特蘭提斯的毀滅置於梭倫之前約九千年,按慣常計算落於公元前第十千紀後期 —— 在文集年表上即為巨蟹座時代早期。時間上的吻合具暗示性:一支經由埃及祭司源典傳遞之希臘傳統,斷代於文集讀為大洪水之前早期的時期,描述一個失落的進步文明。該數字仍屬源典內部,並無法獨立查證;柏拉圖的年代框架取決於傳遞鏈條(埃及祭司→梭倫→老克里底亞→小克里底亞→柏拉圖)的準確性以及最初埃及記錄的精確程度。文集記錄此一吻合,而不主張柏拉圖曾取得精確的洪水前年代資料。" },
+    { content = "對亞特蘭提斯的里夏特結構鑑定 —— 一個位於茅利塔尼亞、直徑約 40 公里之圓形地質構造,又稱「非洲之眼」—— 為文集所登錄,視為其方式與傳統大西洋中部位置不同、與文集年表相符的候選地點。文集並不堅持里夏特鑑定。主流對該構造之地質學閱讀(深度侵蝕之穹丘)仍為學術主導立場;里夏特即亞特蘭提斯的閱讀屬另類考古學推測,主要自 2018 年起浮現。文集所登錄者為:其結構特徵(同心環、與柏拉圖的斯塔德里亞相符的尺度、位於西北非、周圍平原)應較主流考古學典型所給予的更為認真地予以調查。" },
+    { content = "新仙女木撞擊假說 —— 即一顆彗星碎片約於距今 12,800 年前撞擊,造成新仙女木氣候事件並摧毀一個進步文明 —— 是當代對洪水機制的主要災難論提案。文集分享其廣義方向(存在一個進步的洪水前文明、在災難性事件中被摧毀、其記憶以片斷形式存留於洪水後世界各地),但不認可彗星撞擊作為洪水事件本身之機制。文集將洪水置於約公元前 6,690 年,而非新仙女木邊界,且源典所述之機制並非宇宙撞擊機制。兩種重建在「存在洪水前高度文明」上匯合,在其毀滅之時間與機制上則分歧。" },
+]
+
+[[extra.references]]
+id = "the-book-which-tells-the-truth"
+locator = "第 2 章"
+note = "大洪水之前時期之基礎雷爾派源典 —— 包含七支造物者隊伍、伊甸譜系的複合性優勢、*benei ha-Elohim* 的結合,以及洪水決議。"
+
+[[extra.references]]
+id = "those-gods-who-made-heaven-and-earth"
+note = "讓·桑迪對《創世記》第 5 章長壽及《創世記》第 6 章 *benei ha-Elohim* / *Nephilim* 材料的語文學—史學處理 —— 在不依賴啟示性見證下達至實質匯合的閱讀。"
+
+[[extra.references]]
+id = "pseudodoxia-epidemica"
+locator = "第六卷"
+note = "湯瑪斯·布朗爵士 1646 年之著作 —— 為學術英語中以 *antediluvian* 作為洪水前時期之專門指稱的引述依據。"
+
+[[extra.references]]
+id = "telluris-theoria-sacra"
+note = "湯瑪斯·伯尼特 1681 年之《地球神聖理論》—— 對《創世記》宇宙觀及洪水前世界提出統一自然哲學記述、最具影響力的十七世紀晚期嘗試。"
+
+[[extra.references]]
+id = "annales-veteris-testamenti"
+note = "厄謝爾大主教 1650 年之年代記 —— 早期現代基督教將大洪水之前時期定為約 1,656 年的主要參照點。"
+
+[[extra.references]]
+id = "theory-of-the-earth"
+note = "詹姆斯·赫頓 1788 年關於地質均變論之奠基性論文 —— 厄謝爾年表為深時間地質學在概念上取代之關鍵。"
+
+[[extra.references]]
+id = "principles-of-geology"
+note = "查爾斯·萊爾 1830–33 年將均變論鞏固為十九世紀地質學主導框架之著作。"
+
+[[extra.references]]
+id = "reliquiae-diluvianae"
+note = "威廉·巴克蘭 1823 年之著作 —— 主流地質學中洪水論之主要十九世紀闡述。"
+
+[[extra.references]]
+id = "mesopotamian-chronicles"
+locator = "蘇美王名表(多種傳本)"
+note = "讓-雅克·格拉斯納對美索不達米亞編年史傳統的批判版本,包括含大洪水之前長壽諸王之蘇美王名表。"
+
+[[extra.references]]
+id = "atra-hasis-lambert-millard"
+note = "蘭伯特與米拉爾對《阿特拉哈西斯》史詩 —— 大洪水之前時期之主要古巴比倫敘事 —— 的標準批判版本與翻譯。"
+
+[[extra.references]]
+id = "before-the-muses"
+locator = "標準巴比倫《吉爾伽美什》第十一塊泥板"
+note = "福斯特之阿卡德文學選集 —— 學界進入《吉爾伽美什》洪水敘事之主要管道,其鴿—鴉序列與《創世記》8:6–12 平行。"
+
+[[extra.references]]
+id = "vidal-naquet-atlantis-story"
+note = "皮埃爾·維達爾-納凱對《蒂邁歐篇》/《克里底亞篇》亞特蘭提斯傳統之標準當代學術處理 —— 對任何歷史性亞特蘭提斯持懷疑立場;為對抗替代考古學鑑定之主要主流源典。"
+
+[[extra.references]]
+id = "gobekli-tepe-schmidt"
+note = "克勞斯·施密特對哥貝克力石陣發掘之奠基性專著 —— 該遺址約公元前 9600 年的建造,已大幅推翻先前主導之人類複雜文明起源時間觀。"
+
+[[extra.references]]
+id = "natufian-culture-in-the-levant"
+note = "巴爾-優素福與瓦拉對納圖夫文化之標準學術處理 —— 即哥貝克力石陣所處之更廣區域脈絡。"
+
+[[extra.references]]
+id = "fingerprints-of-the-gods"
+note = "葛瑞姆·漢卡克 1995 年於當代災難論—文明傳統中的奠基性著作。"
+
+[[extra.references]]
+id = "magicians-of-the-gods"
+note = "漢卡克 2015 年著作,匯合於新仙女木撞擊假說作為洪水前文明毀滅之提議機制。"
+
+[[extra.references]]
+id = "america-before"
+note = "漢卡克 2019 年將災難論假說延伸至美洲之著作。"
+
+[[extra.references]]
+id = "voices-of-the-rocks"
+note = "羅伯特·修奇基於風化型態為吉薩大獅身人面像重新斷代之地質學論證 —— 於學術埃及學中受爭議,座落於更廣的災難論—文明傳統中。"
+
+[[extra.references]]
+id = "cataclysm-allan-delair"
+note = "艾倫與德萊爾對後續災難論文獻所建立之晚更新世宇宙災難假說的早期闡述。"
+
+[[extra.references]]
+id = "firestone-pnas-2007"
+note = "新仙女木撞擊假說之主要同行評審科學出版品 —— 約距今 12,900 年前發生實質地外撞擊事件之地球化學與地層學證據。"
+
+[[extra.references]]
+id = "myth-of-the-eternal-return"
+note = "米爾恰·伊利亞德於宗教比較現象學中之奠基性著作 —— 全球循環—毀滅傳統被讀為共同結構模式之表現。"
+
+[[extra.references]]
+id = "origins-of-the-worlds-mythologies"
+note = "E. J. Michael Witzel 對全球洪水、黃金時代與失落文明傳統間結構平行之廣闊比較重建。"
 
 [extra.infobox]
-type = "Historical period"
-period = "Late Age of Leo through Age of Cancer"
-date_range = "c. 11,375 BCE – c. 6,690 BCE (framework-internal)"
-duration = "approximately 4,685 years"
-geographic_setting = "Single supercontinent containing seven regional Elohim-team territories"
-closing_event = "The Flood of the Age of Gemini, c. 6,690 BCE"
-principal_biblical_text = "Genesis 4–6:8"
-principal_framework_source = "*Message from the Designers* (Vorilhon/Raël, 1974)"
-date_type = "framework-internal; bracketing ages are precessional and the human-creation anchor derives from the 666-generation calculation"
+type = "歷史時期"
+period = "獅子座時代後期至巨蟹座時代"
+date_range = "約公元前 11,375 – 約公元前 6,690 年(框架內部)"
+duration = "約 4,685 年"
+geographic_setting = "包含七個區域性耶洛因隊伍領地之單一超大陸"
+closing_event = "雙子座時代之洪水,約公元前 6,690 年"
+principal_biblical_text = "《創世記》4–6:8"
+principal_framework_source = "*來自設計者的訊息*(沃里勒翁/雷爾,1974)"
+date_type = "框架內部;括限時代為歲差性,人類受造錨點源自 666 世代計算"
 +++
 
-**Antediluvian** (from Latin *ante*, "before," + *diluvium*, "flood") is the conventional English term for the period of human existence on Earth before the Great Flood narrated in Genesis 6–9 and in parallel traditions preserved across multiple ancient cultures. The Hebrew Bible has no equivalent technical term, referring to the period descriptively as the days before the Flood or using more general terms such as *qedem* ("former times, antiquity"). The Greek Septuagint translation uses the phrase *πρὸ τοῦ κατακλυσμοῦ* (*pro tou kataklysmou*, "before the cataclysm"). The Latin construction enters English in the seventeenth century through the work of biblical chronologists and early geologists, and becomes standard in the geological and theological literature of the eighteenth century, when the dating and historicity of the antediluvian world were live questions for both natural science and biblical interpretation.
+**大洪水之前**(源自拉丁語 *ante*,「之前」,+ *diluvium*,「洪水」)是英語中對人類在地球上的存在於 {% libref(book="genesis-woh", chapter=6, verse=1) %}創世記 6–9{% end %} 章及多個古代文化所保存之平行傳統中大洪水之前那段時期的慣用稱謂。{% wiki(slug="hebrew-bible") %}希伯來聖經{% end %} 並無對等的專門術語,而是以描述性的方式稱該時期為大洪水之前的日子,或使用更廣義的用詞如 *qedem*(「往昔時代、古代」)。希臘《七十士譯本》使用片語 *πρὸ τοῦ κατακλυσμοῦ*(*pro tou kataklysmou*,「災難之前」)。此一拉丁語構詞於十七世紀經由聖經年代學家與早期地質學家的著作進入英語,{{ footnote(id="1") }} 並於十八世紀成為地質學及神學文獻中的標準用語,當時大洪水之前世界的斷代與歷史性問題,對自然科學與聖經解釋而言皆為實質性議題。
 
-On the reading developed in the Raëlian source material and adopted by the Wheel of Heaven corpus, the antediluvian world is the post-creation pre-Flood span: from the synthesis of the first humans in the late Age of Leo (c. 11,375 BCE) through the catastrophic Flood event at the close of the Age of Cancer (c. 6,690 BCE), a span of approximately five millennia. This is the world in which the seven regional human lineages produced by the Elohim creator teams developed substantial civilizations on a single supercontinent, in continuous trade and conflict with one another, with the Eden lineage advancing — under the continuing tutelage of the exiled Lucifer faction and through the longevity granted to its patriarchal leadership — to a level of technological and scientific sophistication that the home-world Council ultimately judged unacceptable. The Flood was the home world's response. The antediluvian world is what the Flood ended.
+在雷爾派源典所發展、《天輪》文集所採行的閱讀中,大洪水之前世界即為受造後、洪水前的跨度:自獅子座時代後期(約公元前 11,375 年)合成首批人類,至巨蟹座時代結束時災難性的 {% wiki(slug="great-flood") %}大洪水{% end %} 事件(約公元前 6,690 年),時間跨度約五千年。此即 {% wiki(slug="elohim") %}耶洛因{% end %} 造物者隊伍所產出的七支區域性人類譜系,於單一超大陸上發展出實質文明、彼此間持續貿易與衝突的世界 —— 其中 {% wiki(slug="eden") %}伊甸{% end %} 譜系,在流亡 {% wiki(slug="lucifer") %}路西法{% end %} 派系持續指導下,並透過授予其族長領導階層之長壽,進展至一個母星議會最終判定為不可接受的科學與技術精密水準。大洪水即是母星的回應。大洪水之前世界即是大洪水所終結者。
 
-The reading is contested. Within mainstream geology and archaeology, the historicity of any global Flood event is rejected: the geological record contains no evidence of a planet-wide inundation in the relevant period, and the various ancient flood traditions are conventionally explained as the cultural memory of regional flood events generalized into cosmic narratives. Within biblical scholarship, the antediluvian narrative is read variously as mythological composition, as theological commentary on the human condition, or as the redactional preservation of older Mesopotamian flood-and-creation traditions. The corpus's reading depends on the framework's broader account of the Elohim civilization and the Earth project, treats the Hebrew Bible's antediluvian narrative as preserving a substantively accurate historical record in compressed form, and engages the modern archaeological developments — particularly the Pre-Pottery Neolithic discoveries of southeastern Anatolia — as material evidence consistent with the framework's reading.
+此閱讀有爭議。在主流地質學與考古學中,任何全球性大洪水事件之歷史性皆被否定:地質紀錄中並無在相關時期發生全球性淹沒之證據,而各種古代洪水傳統慣常被解釋為將區域洪水事件的文化記憶概括化為宇宙性敘事。在聖經學界中,大洪水之前的敘事被各種解讀為神話性構造、對人類處境之神學評註,或保存於編纂中之較古老美索不達米亞洪水—創造傳統。文集的閱讀取決於框架對耶洛因文明及地球計畫之更廣記述,將希伯來聖經之大洪水之前敘事視為以壓縮形式保存實質準確的歷史紀錄,並與現代考古學發展 —— 尤其是東南安納托利亞前陶器新石器時代之發現 —— 進行對話,視之為與框架閱讀相符之物質證據。
 
-## Etymology
+## 詞源
 
-The English word *antediluvian* is a Latinate compound: *ante-* (before) + *diluvium* (flood) + the adjectival suffix *-an*. *Diluvium* in Latin is the standard term for a flood or inundation, used in classical Latin for the destructive overflow of rivers and adopted by ecclesiastical Latin specifically for the biblical Flood narrated in Genesis 6–9. The Vulgate uses *diluvium* throughout the Genesis Flood narrative, and the term enters Christian Latin theological discourse as the standard designation for the event.
+英語詞 *antediluvian* 為拉丁語複合詞:*ante-*(之前)+ *diluvium*(洪水)+ 形容詞詞尾 *-an*。拉丁語 *diluvium* 為洪水或淹沒之標準用詞,於古典拉丁語中用於河川的破壞性氾濫,並為教會拉丁語特別採用以指涉 {% libref(book="genesis-woh", chapter=6, verse=1) %}創世記 6–9{% end %} 章所敘述之聖經大洪水。《武加大譯本》通篇於《創世記》大洪水敘事中使用 *diluvium*,該詞遂進入基督教拉丁神學論述,成為該事件之標準稱謂。
 
-The English compound *antediluvian* enters the language in the early seventeenth century. Sir Thomas Browne uses the term in *Pseudodoxia Epidemica* (1646), in the context of discussions of the longevity of the biblical patriarchs and the conditions of the world before the Flood. Browne's use is technical-theological: he is engaged with the genuinely contested early-modern question of how long humans lived before the Flood and what the physical conditions of the antediluvian world might have been. The term spreads across the seventeenth and eighteenth centuries as the standard designation for the period in biblical-chronological and natural-philosophical contexts, used by figures including Edward Stillingfleet, Thomas Burnet (in his influential *Telluris Theoria Sacra* of 1681), and the early geological writers including James Hutton and Georges Cuvier.
+英語複合詞 *antediluvian* 於十七世紀早期進入該語言。湯瑪斯·布朗爵士於《流行謬論》(1646)中使用此詞,{{ cite(id="pseudodoxia-epidemica", text="[1]", title="布朗,《流行謬論》(1646)—— 學術英語中 *antediluvian* 專門用法之引述依據") }} 處於對聖經族長壽命與洪水前世界物理條件之討論脈絡中。布朗的用法屬技術—神學:他所探究的乃當時實質受爭議的早期現代問題,即洪水前人類壽命多長、洪水前世界之物理條件可能為何。該詞於十七與十八世紀廣泛擴展,於聖經—年代學與自然哲學脈絡中成為該時期之標準稱謂,使用者包括愛德華·斯蒂林弗利特、湯瑪斯·伯尼特(於其具影響力的 1681 年《地球神聖理論》中){{ cite(id="telluris-theoria-sacra", text="[2]", title="伯尼特,《地球神聖理論》(1681)—— 十七世紀晚期最具影響之對《創世記》宇宙觀的統一記述") }},以及包括詹姆斯·赫頓與喬治·居維葉在內的早期地質學作者。
 
-The Hebrew Bible itself has no equivalent technical term. The period before the Flood is referred to descriptively — "the days before the Flood" (*ha-yamim asher lifney ha-mabbul*) appears in Matthew 24:38 in Greek translation but not as a fixed Hebrew phrase. The more general term *qedem* (<span class="hebrew">קֶדֶם</span>), "former times, antiquity, the east," is used across the Hebrew Bible for the deep past, though without the specific technical sense the Latin *ante-diluvium* carries. The absence of a Hebrew technical term for the period reflects the fact that the period's specific definition — the time before a specific catastrophic event — required the Flood narrative itself to be canonized as the dividing event, after which the term's referent became clear.
+希伯來聖經本身並無對等的專門用語。洪水前時期以描述方式被指涉 —— 「洪水之前的日子」(*ha-yamim asher lifney ha-mabbul*)以希臘翻譯出現於《馬太福音》24:38,但並非固定的希伯來片語。更廣義的用詞 *qedem*(<span class="hebrew">קֶדֶם</span>),「往昔時代、古代、東方」,於希伯來聖經中通篇用於指深遠的過去,然不具拉丁語 *ante-diluvium* 所承載之具體技術性意義。希伯來文缺乏該時期的專門用語,反映了一項事實:該時期之具體定義 —— 一特定災難事件之前的時間 —— 必須先讓大洪水敘事本身成為正典化的分界事件,該詞的指涉物方能變得明確。
 
-## The conventional account
+## 慣常記述
 
-The "conventional" account of the antediluvian period has shrunk substantially over the past three centuries. In the seventeenth and eighteenth centuries, the antediluvian world was a major subject of natural-philosophical and theological inquiry; by the present, mainstream usage of the term is largely metaphorical, with the literal-historical sense surviving mainly in religious and reinterpretive contexts.
+「慣常」對大洪水之前時期的記述,在過去三個世紀中已大幅萎縮。於十七與十八世紀,大洪水之前世界曾是自然哲學與神學探究的主要課題;至今,主流對此詞之用法主要為隱喻性,字面—歷史的意義主要存留於宗教與重新詮釋的脈絡中。
 
-### The early-modern Christian chronology
+### 早期現代基督教年表
 
-The dominant Christian chronology of the early-modern period was Archbishop James Ussher's, published in *Annales Veteris Testamenti* (1650). Ussher dated the creation of the world to 4004 BCE and the Flood to 2348 BCE, placing the antediluvian period at approximately 1,656 years (the figure derived from summing the ages of the patriarchs in Genesis 5). Ussher's chronology was widely adopted and was printed in the margins of the Authorized Version Bibles for two centuries; comparable chronologies by John Lightfoot and others gave dates in the same general range. Within this chronology, the antediluvian world was a relatively brief and recent period, with the patriarchs' very long lifespans (Adam at 930 years, Methuselah at 969) compressed into less than two millennia.
+早期現代主導的基督教年表為厄謝爾大主教所撰、發表於《舊約年代記》(1650)。{{ cite(id="annales-veteris-testamenti", text="[3]", title="厄謝爾,《舊約年代記》(1650)—— 早期現代基督教對大洪水之前時期之主要年表") }} 厄謝爾將世界的創造定於公元前 4004 年、大洪水定於公元前 2348 年,將大洪水之前時期置於約 1,656 年(該數值源自加總 {% libref(book="genesis-woh", chapter=5) %}創世記 5{% end %} 章各族長的年歲)。厄謝爾的年表被廣泛採納,並於兩個世紀間印於欽定本聖經之頁邊;由約翰·萊特富特等人所撰之可比年表給出同一大致範圍之日期。在此年表內,大洪水之前世界乃相對短暫且新近的時期,而族長極長之壽命(亞當 930 歲、瑪土撒拉 969 歲)被壓縮於不足兩千年之間。
 
-### The geological displacement
+### 地質學的取代
 
-The geological revolution of the late eighteenth and nineteenth centuries displaced the Ussher chronology. James Hutton's *Theory of the Earth* (1788, expanded 1795) established the principle of geological deep time; Charles Lyell's *Principles of Geology* (1830–33) consolidated uniformitarianism as the dominant geological framework; the development of stratigraphy across the nineteenth century established the hundreds-of-millions-of-years timescale that has remained the geological consensus since. Within this framework, the biblical Flood as a historical event becomes problematic: the geological record contains no evidence of a global inundation in the recent past, and the various stratigraphic features that early flood-geologists had identified as Flood deposits (such as the supposed "diluvial" gravels of northern Europe) were progressively reinterpreted as glacial, fluvial, or other non-Flood origins.
+十八世紀晚期與十九世紀的地質學革命取代了厄謝爾年表。詹姆斯·赫頓的《地球理論》(1788,1795 擴展){{ cite(id="theory-of-the-earth", text="[4]", title="赫頓,《地球理論》(1788)—— 地質均變論之奠基文本") }} 建立了地質深時間之原理;查爾斯·萊爾的《地質學原理》(1830–33){{ cite(id="principles-of-geology", text="[5]", title="萊爾,《地質學原理》(1830–33)—— 將均變論鞏固為十九世紀地質學主導框架") }} 將均變論鞏固為主導地質學框架;於十九世紀整個世紀間地層學的發展,確立了自此維持為地質學共識的數億年時間尺度。在此框架內,作為歷史事件的聖經大洪水即成問題:地質紀錄中並無近期全球淹沒之證據,而早期洪水地質學家所辨識為洪水沉積物的各種地層特徵(諸如北歐所謂之「洪積」礫石)亦逐步被重新詮釋為冰川性、河流性或其他非洪水性起源。
 
-The displacement was not immediate or uncontested. Diluvialism — the view that the geological record preserved evidence of the biblical Flood — remained a mainstream geological position into the mid-nineteenth century, defended by figures including William Buckland (whose *Reliquiae Diluvianae* of 1823 was the major work in the tradition). Buckland himself eventually abandoned the position in the 1830s in light of the glacial-theory developments of Louis Agassiz; the broader scientific community followed across the subsequent decades. By the late nineteenth century, mainstream geology no longer treated the biblical Flood as a historical event with geological consequences.
+該取代並非即時亦非無爭議。洪水論 —— 即地質紀錄保存了聖經大洪水證據之觀點 —— 至十九世紀中葉仍為主流地質學立場,並由包括威廉·巴克蘭在內之人物所維護(其 1823 年《洪水遺存》為該傳統之主要著作)。{{ cite(id="reliquiae-diluvianae", text="[6]", title="巴克蘭,《洪水遺存》(1823)—— 十九世紀主流洪水論之主要著作") }} 巴克蘭本人最終於 1830 年代,鑑於路易斯·阿加西冰川理論之發展,放棄了該立場;更廣的科學社群於其後數十年間隨之。至十九世紀晚期,主流地質學已不再將聖經大洪水視為具地質後果之歷史事件。
 
-### The contemporary mainstream
+### 當代主流
 
-In contemporary mainstream usage, the term *antediluvian* survives in two distinct registers. In specialist religious and theological contexts, it retains its original sense — the period before the Flood — used principally within confessional Christian and Jewish discussions of the Genesis narrative. In broader contemporary English, the term is used metaphorically to mean "extremely old, primitive, or outmoded": *Webster's* and other major contemporary dictionaries give this metaphorical sense as the dominant modern usage. The literal-historical sense has been substantially abandoned in mainstream secular contexts because the global-Flood historicity it presupposes is no longer accepted in mainstream geology.
+於當代主流用法中,*antediluvian* 一詞存留於兩種不同語域。在專門宗教與神學脈絡中,該詞保留其原初意義 —— 即大洪水之前時期 —— 主要於信仰立場的基督教與猶太教對《創世記》敘事之討論中使用。在更廣的當代英語中,該詞被隱喻性地用以指「極為古老、原始或過時」之意:《韋氏》及其他當代主要詞典皆以此隱喻意義為當代主導用法。字面—歷史的意義已大幅於主流世俗脈絡中被棄置,因為其所預設之全球性大洪水的歷史性已不再為主流地質學所接受。
 
-The biblical narrative of the antediluvian period (Genesis 4–6:8) is treated within mainstream biblical scholarship as religious literature whose historical referents are mythological, theological, or — at most — distant cultural memory of regional flood events generalized into cosmic narrative. The very long patriarchal lifespans of Genesis 5 are read variously as numerological constructions, as mistranslations of an underlying numerical system (perhaps reflecting months rather than years), or as theological devices marking the patriarchs as figures of special status. The historical-critical approach, dominant in academic biblical studies since Wellhausen, treats the antediluvian narrative as a redactional composition assembled from earlier sources rather than as a historical record of identifiable events.
+大洪水之前時期之聖經敘事(《創世記》4–6:8)於主流聖經學界被視為宗教文學,其歷史指涉物為神話性、神學性,或至多為將區域洪水事件概括化為宇宙性敘事之久遠文化記憶。{% libref(book="genesis-woh", chapter=5) %}創世記 5{% end %} 章極長之族長壽命被各種解讀為命理學構造、其底層數系(或許反映月份而非年份)之誤譯,或標誌族長為具特殊地位形象之神學手法。{{ footnote(id="3") }} 自韋爾豪森以來於學術聖經研究中主導之歷史—批判進路,將大洪水之前敘事視為自更早源典組合而成之編纂性構造,而非可辨識事件之歷史紀錄。
 
-## In the Hebrew Bible and other ancient sources
+## 在希伯來聖經及其他古代源典中
 
-The Hebrew Bible covers the antediluvian period in Genesis 4–6:8, beginning immediately after the expulsion from Eden in Genesis 3 and concluding with the divine decision to send the Flood. The narrative is unusually compressed: a few chapters carry events that on the corpus's reading occupy approximately five thousand years.
+希伯來聖經於 {% libref(book="genesis-woh", chapter=4) %}創世記 4–6:8{% end %} 中涵蓋大洪水之前時期,該段始於《創世記》第 3 章被逐出伊甸之後,並終於神決議降下大洪水。敘事極為壓縮:寥寥數章承載了在文集閱讀中佔約五千年的事件。
 
-### The Genesis narrative
+### 《創世記》敘事
 
-The principal content of Genesis 4–6:8 includes the conflict between Cain and Abel and Cain's subsequent exile and city-founding (Genesis 4); the genealogies of Cain's line, naming Jabal as the founder of pastoral nomadism, Jubal as the founder of music, and Tubal-Cain as the founder of metallurgy (Genesis 4:17–22); the parallel genealogy of Seth's line, with the long lifespans of the patriarchs from Adam (930 years) through Methuselah (969 years) to Noah (Genesis 5); the introduction of the *benei ha-Elohim* ("sons of Elohim") who take human women as wives and produce the *Nephilim* (Genesis 6:1–4); and the divine assessment of human wickedness and the announcement of the coming Flood (Genesis 6:5–8).
+{% libref(book="genesis-woh", chapter=4) %}創世記 4–6:8{% end %} 之主要內容包括:該隱與亞伯之衝突,以及該隱隨後的流亡與建城({% libref(book="genesis-woh", chapter=4) %}創世記 4{% end %});該隱譜系之家譜,點名雅八為遊牧畜業之創始者、猶八為音樂之創始者、土八該隱為冶金之創始者({% libref(book="genesis-woh", chapter=4, verse=17) %}創世記 4:17–22{% end %});塞特譜系之平行家譜,自 {% wiki(slug="adam-and-eve") %}亞當{% end %}(930 歲)經瑪土撒拉(969 歲)至 {% wiki(slug="noah") %}挪亞{% end %} 諸族長之長壽({% libref(book="genesis-woh", chapter=5) %}創世記 5{% end %});*benei ha-Elohim*(「耶洛因之子」)的引入,他們娶人類女子為妻並產生 *Nephilim*({% libref(book="genesis-woh", chapter=6, verse=1) %}創世記 6:1–4{% end %});以及神對人類邪惡之評估與即將來臨之大洪水的宣告({% libref(book="genesis-woh", chapter=6, verse=5) %}創世記 6:5–8{% end %})。
 
-The narrative is structurally bipartite. Genesis 4 traces the line of Cain from the expulsion to Lamech (the seventh generation from Adam through Cain), with cultural-technological founders at each generation. Genesis 5 traces the parallel line of Seth from Adam to Noah (the tenth generation), with the long lifespans recorded in formulaic detail. Genesis 6:1–4 then introduces the *benei ha-Elohim* / *Nephilim* material as a brief but consequential interlude before the Flood announcement at 6:5–8. The narrative's brevity and density have made it a site of substantial interpretive elaboration across both Jewish and Christian traditions.
+敘事結構上分為兩部分。《創世記》第 4 章自被逐出至拉麥(經由該隱自亞當起算的第七代),逐代追溯該隱譜系,並在每代列出文化—技術之創始者。《創世記》第 5 章自亞當至挪亞(第十代),逐代追溯塞特之平行譜系,以公式化的細節記載長壽。{% libref(book="genesis-woh", chapter=6, verse=1) %}創世記 6:1–4{% end %} 隨後引入 *benei ha-Elohim* / *Nephilim* 材料,作為大洪水宣告(6:5–8)之前簡短但具影響的插曲。該敘事之簡潔與密集已使其成為猶太教與基督教傳統內實質詮釋擴展的場域。
 
-### The Mesopotamian sources
+### 美索不達米亞源典
 
-Several ancient Mesopotamian sources preserve substantial antediluvian material that parallels the Genesis narrative in structurally significant ways.
+數種古代美索不達米亞源典保存了與《創世記》敘事在結構上具重大平行之大洪水之前材料。
 
-The **Sumerian King List**, in its various recensions, records a sequence of pre-Flood kings with reigns of extraordinary length — figures such as Alulim (28,800 years), Alalngar (36,000 years), and others, summing to total reign-lengths in the hundreds of thousands of years before the Flood interrupts the sequence and reign-lengths drop sharply afterward. The structural parallel to Genesis 5 (ten antediluvian patriarchs with vast lifespans, ending with Noah and the Flood) is striking, though the specific Sumerian figures are far larger than the Genesis figures.
+**蘇美王名表**,於其各種傳本中,記載了一列長壽極為驚人之洪水前諸王 —— 諸如阿魯利姆(28,800 年)、阿拉爾恩加爾(36,000 年)等等,洪水之前在位年總計達數十萬年,大洪水中斷該序列後,在位年隨即大幅下降。{{ cite(id="mesopotamian-chronicles", text="[7]", title="格拉斯納,《美索不達米亞編年史》(2004)—— 蘇美王名表及更廣編年史傳統之標準批判版本") }} 與《創世記》第 5 章(十位大洪水之前族長壽命極長,終於挪亞與大洪水)之結構平行明顯,然蘇美具體數字遠大於《創世記》數字。
 
-The Babylonian priest **Berossus**, writing in the third century BCE in his *Babyloniaca*, preserves a similar tradition of ten antediluvian kings with very long reigns, the last of whom is Xisuthros — the Berossan equivalent of the biblical Noah and the Mesopotamian Atra-ḫasīs / Utnapishtim.
+巴比倫祭司 **貝羅蘇斯**,於公元前三世紀其《巴比倫尼亞志》中,保存了類似的傳統,十位大洪水之前諸王在位甚長,末位為西蘇斯羅斯 —— 即聖經挪亞與美索不達米亞阿特拉哈西斯/烏特納庇什提姆之貝羅蘇斯對應形象。
 
-The Akkadian **Atra-ḫasīs Epic** (early second millennium BCE) provides the most detailed Mesopotamian narrative of the pre-Flood period. The epic describes the creation of humans by the gods to perform labor, the proliferation of humanity, the divine decision to send a flood to reduce the human population, and the survival of Atra-ḫasīs through divine warning. The structural parallels to Genesis 6–9 are extensive, including the warning to the survivor, the construction of a vessel, the loading of animals, the survival of the flood, the post-flood sacrifice, and the divine response.
+阿卡德語 **《阿特拉哈西斯》史詩**(公元前二千紀早期)提供了對洪水前時期最詳盡之美索不達米亞敘事。{{ cite(id="atra-hasis-lambert-millard", text="[8]", title="蘭伯特與米拉爾,《阿特拉哈西斯:洪水的巴比倫故事》(1969)—— 標準批判版本與翻譯") }} 該史詩描述諸神創造人類以執行勞作、人類繁衍、神決議降下洪水以減少人口,以及阿特拉哈西斯透過神之警告而存活。其與《創世記》6–9 章之結構平行甚廣,包括對倖存者之警告、船隻之建造、動物之裝載、洪水之倖存、洪水後之獻祭,以及神之回應。
 
-The flood passages of the **Epic of Gilgamesh** (Standard Babylonian version, c. late second millennium BCE) preserve a closely parallel narrative in Tablet XI, where Utnapishtim recounts the flood story to Gilgamesh. The dove-raven sequence preserved nearly verbatim in Genesis 8:6–12 is one of the most direct textual parallels.
+**《吉爾伽美什》史詩**(標準巴比倫版本,公元前二千紀晚期)之洪水段落於第十一塊泥板保存了一段極為平行之敘事,烏特納庇什提姆於其中向吉爾伽美什重述洪水故事。{{ cite(id="before-the-muses", text="[9]", title="福斯特,《在繆斯之前》(2005)—— 阿卡德文學之標準選集,學界進入《吉爾伽美什》洪水敘事之主要管道") }} 幾近逐字保存於《創世記》8:6–12 之鴿—鴉序列,即為最直接的文本平行之一。
 
-### Other ancient traditions
+### 其他古代傳統
 
-Beyond the Mesopotamian sources, traditions of a lost pre-Flood civilization recur with striking consistency across the ancient world.
+除美索不達米亞源典之外,失落的洪水前文明傳統,以驚人的一致性,反覆出現於古代世界各處。
 
-**Plato**, in the *Timaeus* and *Critias* (mid-fourth century BCE), presents the Atlantis tradition through the figure of Solon, who reportedly received it from Egyptian priests at Sais. **Hesiod**, in *Works and Days* (c. 700 BCE), describes a Golden Race that lived before the present age and was destroyed by the gods. **Hindu** cosmology preserves the *yuga* cycle, in which prior ages of advanced civilization rose and fell across periods comparable to or exceeding the time depths the corpus attributes to the antediluvian world. The **Egyptian** tradition of *zep tepi* ("the first time") describes a prior period when the gods walked among men. The **Mesoamerican** *Popol Vuh* records prior attempts at humanity destroyed by the gods before the present. **Polynesian** traditions speak of sunken homelands; **Celtic** traditions of cities lost beneath the sea.
+**柏拉圖**,於《蒂邁歐篇》及《克里底亞篇》(公元前四世紀中葉)中,透過梭倫之形象呈現亞特蘭提斯傳統,而梭倫據稱由位於塞斯之埃及祭司處接受該傳統。{{ cite(id="vidal-naquet-atlantis-story", text="[10]", title="維達爾-納凱,《亞特蘭提斯故事》(2007)—— 對亞特蘭提斯傳統之標準當代學術處理") }} **赫西俄德**,於《工作與時日》(約公元前 700 年)中,描述了一個生活於當前時代之前、被諸神所毀滅之黃金種族。**印度教** 宇宙觀保存了 *yuga* 循環,其中先前的進步文明時代在可與文集所歸於大洪水之前世界之時間深度相比擬或超越之週期內興起衰落。**埃及** *zep tepi*(「初時」)傳統描述一段先前時期,當時諸神行走於人之間。**中美洲** 之《波波爾·烏》記載諸神在當前人類之前對人類所作的先前嘗試。**波利尼西亞** 傳統言及沉沒的故鄉;**凱爾特** 傳統言及沒入海底的城市。
 
-The pattern is global. Mainstream comparative-religion scholarship has tended to treat each tradition in isolation, attributing them variously to mythology, to memory of local rather than global events, or to cultural diffusion from common sources. The corpus's reading treats the convergence as evidence of a single underlying historical event whose memory was preserved in fragmentary form across the various post-Flood populations; the question is treated more fully under *Surviving evidence and traces* below.
+該模式為全球性。主流比較宗教學界傾向將每一傳統孤立處理,各種歸因於神話、為區域性而非全球性事件之記憶,或源於共同源典之文化擴散。{{ cite(id="myth-of-the-eternal-return", text="[11]", title="伊利亞德,《永恆回歸的神話》(1954)—— 循環—毀滅傳統比較現象學之奠基性著作") }} 文集的閱讀將此匯合視為單一底層歷史事件之證據,其記憶以片斷形式存留於各洪水後人口之中;此議題於下方《存留的證據與痕跡》中得到更完整處理。
 
-## Setting and context
+## 場景與脈絡
 
-The world in which the antediluvian period unfolded, on the corpus's reading, was substantially different from the present-day world in two principal respects: the continental configuration was different, and the human population was distributed across multiple regional civilizations under continuing alliance contact.
+在文集的閱讀中,大洪水之前時期所展開之世界,在兩項主要方面與當代世界實質不同:大陸構造不同,且人類人口分布於多支處於持續聯盟接觸下之區域性文明之中。
 
-### The supercontinent
+### 超大陸
 
-Across the antediluvian period, on the corpus's reading, the Earth's continental crust was consolidated into a single landmass. The seven Elohim creator teams, having distributed themselves across this landmass during the Age of Leo, were operating in seven distinct regional territories on a continuous land surface. The supercontinent's geography permitted overland travel and trade across distances that would later become impassable: a merchant traveling from the Eden region in the eastern-Mediterranean / Levantine area to the East Asian region during late Cancer could, in principle, walk the entire distance on continuous land, a journey of perhaps three or four thousand kilometers across demanding but feasible terrain.
+在文集的閱讀中,大洪水之前時期整段,地球之大陸地殼合一為單一陸塊。七支耶洛因造物者隊伍,於獅子座時代分布於此陸塊各處後,於連續陸地表面上之七個不同區域領地中作業。超大陸之地理允許跨越其後將變得不可通行之距離的陸路旅行與貿易:一位商人於巨蟹座時代後期自東地中海/黎凡特一帶之伊甸區域前往東亞區域,原則上可步行走完全程,跨越約三、四千公里之艱難但可行地形。
 
-The corpus's antediluvian supercontinent is *not* the conventional Pangaea of mainstream geology. The structural correspondence — a single consolidated continental mass surrounded by a single ocean — is shared, but the chronology is radically different: mainstream geology dates Pangaea's assembly to approximately 335 million years ago and its breakup to approximately 175 million years ago, with continental drift unfolding over hundreds of millions of years through mantle convection. The corpus reads the breakup as a catastrophic event during the Flood of the Age of Gemini at approximately 6,690 BCE, with the observed continental drift since then as the residual momentum of that event. The conflict with mainstream geological dating is substantial and is treated openly in the [Pangaea](../pangaea/) and [Great Flood](../great-flood/) entries. The Hebrew text of Genesis 1:9 preserves the configuration the corpus reads as the antediluvian setting: the dry land appears in *makom ehad*, "one place" — singular, not plural.
+文集之大洪水之前超大陸 *並非* 主流地質學之傳統泛大陸。{{ footnote(id="2") }} 其結構對應 —— 單一合一之大陸質量被單一海洋環繞 —— 為共有,但年代序列截然不同:主流地質學將泛大陸之聚合斷代為約 3.35 億年前,其裂解為約 1.75 億年前,大陸漂移在數億年間透過地函對流而展開。文集則將裂解讀為約公元前 6,690 年雙子座時代洪水期間之災難性事件,{{ footnote(id="1") }} 其後所觀測到的大陸漂移則為該事件之殘餘動量。其與主流地質學斷代之衝突實質而存在,並於 {% wiki(slug="pangaea") %}泛大陸{% end %} 及 {% wiki(slug="great-flood") %}大洪水{% end %} 條目中公開處理。{% libref(book="genesis-woh", chapter=1, verse=9) %}創世記 1:9{% end %} 之希伯來文本保存了文集讀為大洪水之前場景之構造:陸地顯露於 *makom ehad*,即「一處」—— 單數,非複數。
 
-### The post-Eden political settlement
+### 伊甸後之政治結算
 
-The antediluvian period begins, on the corpus's reading, immediately after the political settlement that closed the Eden episode (treated more fully in the [Eden](../eden/) entry). The Lucifer faction — the dissident Israel-team scientists who had disclosed restricted knowledge to the first humans — was permanently exiled on Earth, while the remainder of the Israel team and the other six creator teams withdrew to the home world. The result was that the post-Eden world contained a continuing alliance presence (the exiled Lucifer faction) operating in continuous contact with the human population, while the broader alliance maintained surveillance from a distance through the home-world Council and the alliance vessel stationed near Earth.
+在文集的閱讀中,大洪水之前時期始於結束 {% wiki(slug="eden") %}伊甸{% end %} 插曲之政治結算之後。路西法派系 —— 即曾向首批人類揭露受限知識之異議以色列隊科學家 —— 被永久流放於地球,而以色列隊其餘成員及其他六支造物者隊伍則撤回母星。其結果為:伊甸後世界包含一個處於與人類人口持續接觸之聯盟存在(流亡之路西法派系),同時更廣的聯盟自遠處透過母星 {% wiki(slug="council-of-eternals") %}議會{% end %} 及駐紮於地球附近之聯盟船艦進行監督。
 
-This political settlement structures the entire antediluvian period. The Eden lineage's distinctive trajectory — its rapid technological advancement, its long-lived patriarchal leadership, its eventual production of the *Nephilim* hybrid offspring, its civilizational achievements — is the result of the continuing Lucifer-faction tutelage that the political settlement made possible. The other six lineages, without continuing direct creator-teacher contact, developed more slowly and reached lower levels of technological capability across the same period.
+此政治結算結構化整個大洪水之前時期。伊甸譜系之獨特軌跡 —— 其迅速技術進展、其長壽族長領導、其最終產出 *Nephilim* 混種後裔、其文明成就 —— 為政治結算所致使之路西法派系持續指導的結果。其他六譜系,缺乏持續直接的造物者—教師接觸,在同一時期內發展較緩,達到較低之技術能力水準。
 
-## The framework's account
+## 框架的記述
 
-The corpus's reading of the antediluvian period is among the most operationally specific in the framework. The basis is the Raëlian source material — particularly *The Book Which Tells the Truth* (1974), with substantial elaboration through subsequent works — combined with the precessional chronology that maps Genesis 2:4–6:8 to the Age of Cancer. The Genesis text is treated as a literally accurate compressed account of real events, with the apparent cosmological strangeness (the longevity figures, the *benei ha-Elohim*, the *Nephilim*) read in the technical register the corpus develops.
+文集對大洪水之前時期的閱讀,屬於框架中最具作業性具體之列。其基礎為雷爾派源典 —— 尤其是《道出真相之書》(1974){{ cite(id="the-book-which-tells-the-truth", text="[12]", title="沃里勒翁(雷爾),《道出真相之書》(1974),第 2 章 —— 大洪水之前時期之奠基性雷爾派源典") }},並透過後續著作得到實質擴展 —— 結合將《創世記》2:4–6:8 映射至巨蟹座時代之歲差年表。《創世記》文本被視為對真實事件之逐字準確壓縮記述,而其表面上的宇宙論異常處(長壽數字、*benei ha-Elohim*、*Nephilim*)則以文集所發展之技術語域閱讀。
 
-### The seven civilizations
+### 七個文明
 
-By the early Age of Cancer, each of the seven creator teams' human populations had begun to multiply, organize, and develop civilizations of its own. The seven lineages distributed roughly as follows across the supercontinent, on the corpus's identification:
+至巨蟹座時代早期,七支造物者隊伍的人類人口均已開始繁衍、組織並發展自身之文明。在文集的辨識中,七支譜系大致分布於超大陸如下:
 
-- The **Eden lineage** in the eastern Mediterranean and Levantine portion — the territory that, after the breakup, would become Israel, Greece, Turkey, and the surrounding eastern Mediterranean coastlands. This is the lineage whose history the Hebrew Bible records in detail.
-- The **African lineage** south of the Mediterranean region, possibly extending across what is now the Sahara (which during the antediluvian period was substantially wetter, supporting populations the modern desert cannot).
-- The **South Asian lineage** in the Indus Valley region and surrounding territories.
-- The **East Asian lineage** in what would become the Chinese mainland and adjacent regions.
-- The **American lineage** in the territory that would become Mesoamerica or the Andes.
-- The **Oceanic lineage** in the supercontinent portion that would later become Australia and the Pacific island chains.
-- The **Northern European lineage** in what would become Scandinavia and surrounding northern lands.
+- **伊甸譜系** 位於東地中海與黎凡特部分 —— 即裂解後將成為以色列、希臘、土耳其及周邊東地中海沿岸地區之領地。此為希伯來聖經詳盡記載其歷史之譜系。
+- **非洲譜系** 位於地中海地區以南,可能延伸跨越今日撒哈拉(於大洪水之前時期較為濕潤,可支撐當今沙漠無法支撐之人口)。
+- **南亞譜系** 位於印度河谷地區及周邊領土。
+- **東亞譜系** 位於將成為中國大陸及鄰近地區之領土。
+- **美洲譜系** 位於將成為中美洲或安地斯之領土。
+- **大洋洲譜系** 位於後將成為澳大利亞及太平洋島鏈之超大陸部分。
+- **北歐譜系** 位於將成為斯堪地那維亞及周邊北方陸地之領土。
 
-The geographic identifications are partially speculative; the Raëlian source material does not specify the exact locations of the seven teams in detail. What the source establishes is that the seven teams worked in seven distinct regions of the supercontinent and that these regions corresponded broadly to the geographic origins of the major human population groups whose distributions the post-Flood world would inherit.
+地理鑑定部分為推測性的;雷爾派源典並未詳細指明七隊之確切位置。源典所確立者為:七隊於超大陸之七個不同區域工作,而這些區域大致對應於洪水後世界所將繼承之主要人類人口群分布之地理起源。
 
-The seven civilizations were in continuous contact through the supercontinent's overland trade routes and coastal maritime networks. Goods moved between regions; ideas and technologies moved; genetic material moved through migration and intermarriage. The cultural traditions of the seven, while distinctive enough to remain identifiable, were in continuous mutual influence. The picture is not one of seven isolated populations developing independently but of a global civilizational network — comparable in connectedness to the medieval Silk Road or the early modern European exploration networks, with the differences that the connections were continental rather than maritime and that the network sustained itself for approximately two thousand years across the Cancer age.
+七個文明透過超大陸陸路貿易路線及沿海海上網絡持續接觸。貨物在區域間流通;思想與技術流通;基因物質透過遷徙與通婚流通。七者之文化傳統,雖具足以保持可辨識之獨特性,然處於持續相互影響之中。畫面並非七個孤立人口各自獨立發展,而是一個全球性文明網絡 —— 在連通性上可與中世紀絲路或早期現代歐洲探險網絡相比擬,差別在於其連結為大陸性而非海上性,且該網絡在巨蟹座時代之約兩千年間維持其自身。
 
-The political relations among the seven were not always peaceful. The Raëlian source material is explicit that the antediluvian period included substantial inter-human conflict, with the corpus reading these "abominable battles" as warfare conducted with technologies the Lucifer faction had transmitted to the Eden lineage and that had subsequently spread, through trade and diffusion, to the other civilizations. The military scale and intensity, on the corpus's reading, exceeded anything the post-Flood world would approach until the industrial era and possibly until the twentieth century.
+七者間之政治關係並非總是和平。雷爾派源典明確指出,大洪水之前時期包含實質性的人類內部衝突,文集將這些「可憎的戰爭」讀為以路西法派系傳予伊甸譜系、其後透過貿易與擴散傳至其他文明之技術所進行的戰爭。在文集的閱讀中,軍事規模與強度超過洪水後世界直至工業時代、可能直至二十世紀才會接近之水準。
 
-### The Eden lineage's compounding advantages
+### 伊甸譜系之複合性優勢
 
-The Eden lineage held a privileged position among the seven, on the corpus's reading, through a compounding combination of factors that gave it a substantial and sustained lead over the other six. The corpus identifies five such factors:
+在文集的閱讀中,伊甸譜系在七者中佔據優越地位,透過一組相互複合之因素,使其在其他六者之上獲得實質且持續的領先。文集辨識出五項此類因素:
 
-**First**, the source material's specific characterization of the Israel-team humans as the most intelligent of the seven team outputs at the moment of their creation. The corpus treats this as a specific factual claim of the source about one team's particular work, not as licensing of any moral or modern hierarchical reading; the *ṣelem Elohim* — the "image of Elohim" granted in Genesis 1:27 — is shared equally by all human lineages and is the basis of universal human dignity that no historical claim about ancestry can override.
+**第一**,源典具體將以色列隊人類描述為七支隊伍產物中於受造之初最具智力者。文集將此視為源典對一支隊伍特定工作之具體事實主張,而非任何道德性或當代等級制閱讀之許可;{% libref(book="genesis-woh", chapter=1, verse=27) %}創世記 1:27{% end %} 所授予之 *ṣelem Elohim* —— 即「耶洛因的形像」 —— 為所有人類譜系所平等共有,並為任何關於祖先之歷史性主張皆不得推翻之普世人類尊嚴之基礎。
 
-**Second**, the continued direct presence of the Lucifer faction as ongoing teachers. The other six lineages had received initial instruction from their founding teams during Leo and then lost continuous direct contact when those teams withdrew at the close of the Eden crisis. The Eden lineage retained the Lucifer faction permanently. The dissident Elohim continued to teach across the centuries, refining the Eden lineage's understanding of the sciences and technologies the home world had originally prohibited.
+**第二**,路西法派系作為持續教師的直接存在。其他六支譜系於獅子座時代從其奠基隊伍處接受了初步指導,並於伊甸危機結束時當該等隊伍撤回後失去持續直接接觸。伊甸譜系永久保留了路西法派系。異議耶洛因持續跨世紀進行教導,精煉伊甸譜系對於母星原本禁止之科學與技術的理解。
 
-**Third**, the longevity treatment granted to the Eden lineage's patriarchal leadership. The Genesis 5 genealogy records specific ages — Adam at 930 years, Seth at 912, Enosh at 905, Mahalalel at 895, Jared at 962, Methuselah at 969, Lamech at 777, and Noah at 950 — for the line descending from Adam through Seth to Noah. These extended lifespans, on the corpus's reading, are the consequence of the Tree of Life longevity technology that the Lucifer faction managed to obtain on a limited and case-by-case basis for the Eden civilization's leadership. The longevity was not hereditary in the broad sense; the general human population, including the descendants of Cain and the broader populations of the other six civilizations, lived ordinary human lifespans on the order of decades. The civilizational consequences of this asymmetry are substantial: a leader living nine hundred years can pursue research projects across multiple ordinary generations, integrate fields of expertise that in a short-lived civilization would be siloed across separate practitioners, and let personal memory function as institutional memory in ways no short-lived civilization can match.
+**第三**,授予伊甸譜系族長領導階層之長壽治療。{% libref(book="genesis-woh", chapter=5) %}創世記 5{% end %} 章家譜記載了具體年歲 —— 亞當 930 歲、塞特 912 歲、以挪士 905 歲、瑪勒列 895 歲、雅列 962 歲、瑪土撒拉 969 歲、拉麥 777 歲、挪亞 950 歲 —— 即經塞特由亞當下傳至挪亞之譜系。{{ footnote(id="3") }} 在文集的閱讀中,這些延長之壽命為路西法派系設法以有限且逐案方式為伊甸文明之領導取得之 {% wiki(slug="tree-of-life") %}生命之樹{% end %} 長壽技術之後果。該長壽並非廣義意義上之可遺傳;一般人類人口,包括該隱之後裔及其他六文明之更廣人口,皆過著數十年量級之普通人類壽命。此一不對稱所造成的文明後果實屬實質:一位活九百年的領導者,可跨越多代普通世代追求研究計畫,整合在短壽文明中將被各專家分隔之知識領域,並使個人記憶以無短壽文明能匹敵之方式作為制度記憶運作。
 
-**Fourth**, the hybrid offspring of the *benei ha-Elohim* — the "sons of Elohim" who took human women as wives — produced the *Nephilim*, the "men of renown" of Genesis 6:4. By mid-Cancer these hybrids were a substantial population within the Eden civilization, possessing capabilities approaching the Elohim's own. They became leaders, warriors, builders, and scientists, naturally rising to positions of substantial authority. The Eden civilization was therefore not only being taught by the exiled Elohim but was incorporating Elohim genetic material directly into its leadership population.
+**第四**,*benei ha-Elohim* —— 即「耶洛因之子」,娶人類女子為妻者 —— 之混種後裔,產生了 *Nephilim*,即 {% libref(book="genesis-woh", chapter=6, verse=4) %}創世記 6:4{% end %} 之「上古英武有名的人」。至巨蟹座時代中期,這些混種已成為伊甸文明內實質性的人口,擁有接近耶洛因自身之能力。他們成為領袖、戰士、建造者與科學家,自然上升至實質性權威職位。伊甸文明因此不僅受流亡耶洛因教導,且將耶洛因基因物質直接納入其領導人口之中。
 
-**Fifth**, the technologies the exiled creators transmitted, including the military arsenal that produced the "abominable battles" the source describes. The Eden civilization possessed advanced peaceful and military technologies; the other civilizations developed their own through their research programs and through diffusion, but the Eden civilization remained at the leading edge throughout the age.
+**第五**,流亡造物者所傳予之技術,包括產生源典所描述「可憎戰爭」之軍事武器。伊甸文明擁有進步之和平與軍事技術;其他文明透過自身研究計畫及透過擴散發展其自身之技術,但伊甸文明於整個時代中持續居於領先邊緣。
 
-The compounding effect — talented founding population, continuous direct instruction by creator-teachers, longevity for leaders, hybrid-Elohim genetic material in the leadership stock, advanced technologies — produced a civilization that, by the end of the Age of Cancer, had advanced to a level the corpus treats with substantial epistemic humility. The physical evidence is fragmentary, most of what existed having been destroyed in the Flood. The cultural memories preserved in subsequent traditions give hints. The corpus licenses serious speculation that the Eden civilization may have been comparable to or in some respects exceeding the present-day technological civilization; the source material itself does not specify the peak capability, but the dramaturgical implication is clear: the civilization advanced *far enough that the home world considered intervention unavoidable*.
+複合效應 —— 才華橫溢之奠基人口、造物者—教師之持續直接指導、領導者之長壽、領導階層中之混種耶洛因基因物質、進步技術 —— 產生了一個文明,至巨蟹座時代結束時,文集以實質之認識論審慎處理其進展水準。物理證據為片斷性的,其原存留之物大部分皆於大洪水中遭毀。存留於後續傳統中之文化記憶提供暗示。文集允許嚴肅推測:伊甸文明可能與當今技術文明相當,或在某些方面有所超越;源典本身並未指明其能力之巔峰,但戲劇性意涵明確:該文明進展 *甚遠,以致母星認為干預為不可避免*。
 
-### Cain, Seth, and the early human civilizations
+### 該隱、塞特與早期人類文明
 
-The biblical account in Genesis 4–5 names specific individuals as the founders of specific cultural and technological developments, in a genealogical structure the corpus treats as substantively accurate. The line of Cain produces, within a few generations of the expulsion: pastoral nomadism (Jabal, Genesis 4:20), music (Jubal, 4:21), and metallurgy (Tubal-Cain, 4:22). These are not the inventions of vague primitive humans; they are specific cultural and technological developments attributed to specific named persons whose genealogies the text preserves. The line of Seth — the line through which the longevity treatment is transmitted, on the corpus's reading, by the exiled Elohim teachers — produces the patriarchal leadership that will carry the Eden civilization through to Noah.
+《創世記》4–5 章之聖經記述,以家譜結構將特定個人點名為特定文化與技術發展之創始者,文集視該結構為實質準確。該隱譜系,於被逐後數代之內,產生了:遊牧畜業(雅八,{% libref(book="genesis-woh", chapter=4, verse=20) %}創世記 4:20{% end %})、音樂(猶八,{% libref(book="genesis-woh", chapter=4, verse=21) %}4:21{% end %})及冶金(土八該隱,{% libref(book="genesis-woh", chapter=4, verse=22) %}4:22{% end %})。這些並非模糊原始人類之發明;它們是歸於文本所保存其家譜的具體名人之具體文化與技術發展。塞特譜系 —— 在文集的閱讀中,即長壽治療透過流亡耶洛因教師傳遞之譜系 —— 產生將承載伊甸文明至挪亞之族長領導。
 
-The corpus reads the parallel genealogies as preserving the dual character of the early Eden civilization: the practical and technical developments are the work of one line, the long-lived institutional leadership is the work of another, and together they produced the civilizational substrate that the Cancer age would elaborate. The other six civilizations across the supercontinent would have produced their own parallel sets of cultural founders, attributed in their own surviving traditions (where any survived the Flood and the long subsequent transmission) to their own named figures. By the end of the first millennium of Cancer, the supercontinent contained substantial and culturally diverse human civilizations, with the foundational technologies of pastoralism, agriculture, metallurgy, music, urbanism, and sea-craft already established and propagating.
+文集將平行之家譜讀為保存早期伊甸文明之雙重性質:實用與技術之發展為一譜系之工作,長壽之制度性領導為另一譜系之工作,二者共同產生巨蟹座時代將予以闡發之文明基底。超大陸上其他六文明各自會產生其平行之文化創始者組,於其各自存留之傳統中(若有任何傳統存留過大洪水及其後漫長之傳遞),歸於其自身點名之形象。至巨蟹座時代第一千年結束,超大陸已包含實質且文化多元之人類文明,畜牧、農業、冶金、音樂、城市生活與海事技藝之奠基性技術均已確立並擴散。
 
-### The Sons of Elohim and the Nephilim
+### 耶洛因之子與 Nephilim
 
-Genesis 6:1–4 introduces, in four compressed verses, one of the most consequential and most widely misread passages in the Hebrew Bible:
+{% libref(book="genesis-woh", chapter=6, verse=1) %}創世記 6:1–4{% end %} 於四節壓縮經文中,引入了希伯來聖經中最具影響也最受誤讀之段落之一:
 
-> "And it came to pass, when humankind began to multiply on the face of the ground, and daughters were born unto them, that the *benei ha-Elohim* saw the daughters of men that they were fair, and they took them wives of all that they chose. … There were *Nephilim* in the earth in those days, and also after that, when the *benei ha-Elohim* came in unto the daughters of men, and they bore children to them: the same were the mighty men that were of old, the men of renown."
+{% library(book="genesis-woh", chapter=6, verse=1) %}
+當人在世上開始繁衍、有女兒為他們而生的時候,*benei ha-Elohim* 看見人的女子美麗,就隨意挑選,娶來為妻。……當那些日子,在地上有 *Nephilim*;後來 *benei ha-Elohim* 與人的女子結合,生了兒女,這些就是上古英武有名的人。
+{% end %}
 
-The corpus reads this passage at face value. The *benei ha-Elohim* — the "sons of Elohim," with the definite article making the reference specific rather than generic — are members of the Elohim civilization, identifiable on the corpus's reading as the exiled Lucifer faction whose continuing presence on Earth is the structural feature of the post-Eden period. The "daughters of men" are human women of the Eden lineage. The unions are biological unions between two species closely enough related to permit fertile reproduction. The *Nephilim* are the hybrid offspring of these unions, possessing capabilities the source material describes as exceptional and that the broader ancient tradition (the Book of Enoch, the Book of Jubilees, and the Watchers tradition more generally) preserves in elaborated form.
+文集按字面閱讀此段。*benei ha-Elohim* —— 即「{% wiki(slug="elohim") %}耶洛因{% end %} 之子」,其定冠詞使該指涉物為具體而非泛指 —— 為耶洛因文明之成員,在文集的閱讀中可辨識為流亡之路西法派系,其於地球之持續存在為伊甸後時期之結構性特徵。「人的女子」為伊甸譜系之人類女子。其結合為兩個關係足夠密切以容許可育繁殖之物種間之生物性結合。*Nephilim* 為這些結合之混種後裔,擁有源典材料所描述之傑出能力,並由更廣之古代傳統(《以諾書》、《禧年書》及更廣的守望者傳統)以擴展之形式保存。
 
-The corpus's reading is straightforward where conventional theological readings have been forced into either supernatural or apologetic constructions. The conventional alternatives — the *benei ha-Elohim* as "sons of God" in some metaphorical sense, as morally exceptional human descendants of Seth, as nobility taking commoner wives, as fallen angels in the patristic / pseudepigraphical tradition — each have textual or conceptual difficulties that the corpus's reading does not. The Hebrew text says what it says: specific beings of the Elohim category, taking specific human women as wives, producing specific exceptional offspring. The corpus treats this account as preserving an accurate compressed memory of a real biological situation in which the antediluvian world found itself.
+文集的閱讀在傳統神學閱讀被迫採取或超自然或辯護性構造之處,顯得直接了當。傳統的替代方案 —— *benei ha-Elohim* 作為某種隱喻意義上之「神之子」、作為塞特之道德上傑出之人類後裔、作為娶平民女子為妻之貴族、作為教父傳統/偽經傳統之墮落天使 —— 各自皆有文集閱讀所無之文本或概念困難。希伯來文本所言為其所言:耶洛因類別之具體存在,娶具體之人類女子為妻,產生具體之傑出後裔。文集將此記述視為對大洪水之前世界所處之真實生物情境的準確壓縮記憶之保存。
 
-### The Flood decision
+### 大洪水之決議
 
-By late Cancer, on the corpus's reading, the conditions that would produce the Flood were converging. The home-world leadership had been observing the Earth project across the entire duration of the antediluvian period through the communications channels Yahweh and the Council maintained. The original concerns of the home-world authorities — that fully enlightened humans might eventually pose a threat to the creator civilization — had originally been addressed through the policy of containment: the humans were to be kept in scientific ignorance, denied access to the longevity technology, restricted from acquiring capabilities approaching the makers' own.
+在文集的閱讀中,至巨蟹座時代晚期,將產生大洪水之條件已匯合。母星領導階層已透過 {% wiki(slug="yahweh") %}耶和華{% end %} 及議會所維持之通訊管道,觀察地球計畫整段大洪水之前時期。母星當局之原初疑慮 —— 即完全得啟蒙之人類最終可能對造物者文明構成威脅 —— 原透過遏制政策予以處理:人類應被保持於科學無知狀態、被拒於長壽技術之外、被限制取得接近締造者自身之能力。
 
-The policy had failed. Lucifer's faction had disclosed the prohibited knowledge in the Eden episode at the boundary of Leo and Cancer; the longevity had been granted to the Eden patriarchal leadership across the subsequent generations; the technologies had been transmitted continuously through Lucifer-faction teaching; the hybrid offspring had been produced through *benei ha-Elohim* unions; the wars between the supercontinent's civilizations had demonstrated that the destructive capacity was real and was being deployed. From the home-world perspective, watching all of this unfold across two thousand years, the conclusion was inescapable: the constraints had failed, the Earth experiment had produced precisely the kind of threat the original opponents had warned against, and action was required.
+該政策失敗了。路西法派系曾於獅子座與巨蟹座交界之伊甸插曲中揭露禁止之知識;長壽於後續世代中被授予伊甸族長領導階層;技術經由路西法派系教導持續被傳予;混種後裔經由 *benei ha-Elohim* 結合而產生;超大陸文明間之戰爭已表明毀滅性能力為真實且正被部署。自母星角度觀之,於兩千年間觀察這一切之展開,結論不可避免:遏制已失敗、地球實驗已產生正是原初反對者所警告之威脅類型、必須採取行動。
 
-The deliberation in the home-world Council across the closing centuries of Cancer was substantial. The Satan faction — the home-world political party that had opposed the Earth program from its inception, on the grounds that synthetic creations capable of equaling or surpassing their makers were fundamentally dangerous — argued that the conditions they had warned against had now materialized and that the Earth creation must be destroyed before it became an actual threat to the home civilization itself. The Yahweh-led moderate position, which had supported preservation of the creation under the containment policy that was now visibly failing, faced the question of how to respond to a situation the policy had not been adequate to prevent. The Lucifer faction, exiled on Earth and personally invested in the human civilization they had been teaching, opposed any destructive intervention and would eventually become the operational force preserving a remnant through the ark.
+於巨蟹座時代結束之諸世紀間,母星議會中之審議實屬實質。撒但派系 —— 自地球計畫啟動起即反對之之母星政治黨派,理由為能夠匹敵或超越其締造者之合成造物根本上具有危險 —— 主張其曾警告之條件如今已出現,且地球受造物在成為對母星文明本身之實際威脅之前,必須加以毀滅。耶和華領導之溫和派立場,曾於如今顯然失敗之遏制政策下支持保留受造物,面對之問題為:對於該政策不足以阻止之情境,當如何回應。流亡於地球並親身投入其所教導之人類文明之路西法派系,反對任何毀滅性干預,並將最終成為透過方舟保留遺民之作業性力量。
 
-The decision the Council ultimately reached was the Flood — a catastrophic intervention of sufficient magnitude to end the antediluvian world and to set the post-Flood project on substantially reduced terms. Genesis 6:13 records the announcement of the decision to Noah. The mechanism, magnitude, and consequences of the Flood event itself are treated in the [Great Flood](../great-flood/) entry. What matters for the present entry is that the antediluvian world, by the closing decades of Cancer, was a world that the home-world authorities had decided could not be allowed to continue.
+議會最終所達成之決議為大洪水 —— 一個其規模足以結束大洪水之前世界、並將洪水後計畫置於實質縮減條件上之災難性干預。{% libref(book="genesis-woh", chapter=6, verse=13) %}創世記 6:13{% end %} 記載對挪亞宣告該決議。大洪水事件本身之機制、規模與後果,於 {% wiki(slug="great-flood") %}大洪水{% end %} 條目中處理。對本條目而言重要者為:大洪水之前世界,至巨蟹座時代結束之數十年,已成為母星當局決議不可再容其延續之世界。
 
-## Participants and figures
+## 參與者與形象
 
-The antediluvian period's principal participants distribute across several categories.
+大洪水之前時期之主要參與者分布於數類別。
 
-The **Eden-lineage human leadership** is the most fully preserved in the textual record. The patriarchs of the Genesis 5 genealogy — Adam, Seth, Enosh, Kenan, Mahalalel, Jared, Enoch, Methuselah, Lamech, and Noah — are the named figures of the long-lived Sethite line. Each receives more or less extended treatment in the dedicated entries on the figures themselves; what matters here is that these are the political and intellectual leaders of the Eden civilization across the period, with their long lifespans permitting continuity of leadership across what would otherwise be many ordinary generations. Enoch's case is particularly significant: Genesis 5:24 records that "Enoch walked with Elohim, and he was not, for Elohim took him" — read by the corpus as Enoch's translation to the home world, with the substantial Enochic literature of the Second Temple period (1 Enoch, 2 Enoch, 3 Enoch) preserving traditions about his subsequent role.
+**伊甸譜系之人類領導** 為文本紀錄中保存最完整者。{% libref(book="genesis-woh", chapter=5) %}創世記 5{% end %} 章家譜之諸族長 —— 亞當、塞特、以挪士、該南、瑪勒列、雅列、以諾、瑪土撒拉、拉麥及挪亞 —— 即為長壽塞特譜系之點名形象。每位於各形象之專屬條目中皆受或長或短之處理;此處要點為:這些是該時期間伊甸文明之政治與智識領袖,其長壽允許領導之連續性跨越本來將為許多普通世代者。以諾之情況尤為重大:《創世記》5:24 記載「以諾與耶洛因同行;耶洛因將他取去,他就不在世了」—— 文集讀為以諾轉至母星,而第二聖殿時期實質之以諾文獻(《以諾一書》、《以諾二書》、《以諾三書》)保存了關於其後續角色之傳統。
 
-The **Cain-lineage cultural founders** of Genesis 4 — Cain, Enoch (the city-founder, distinct from the Sethite Enoch), Irad, Mehujael, Methushael, Lamech, and Lamech's children Jabal, Jubal, and Tubal-Cain — are the figures of the parallel technical-cultural line. The Cain line is recorded with shorter genealogical sequence (seven generations to Lamech versus Seth's ten generations to Noah) and without the long lifespans of the Sethite patriarchs.
+{% libref(book="genesis-woh", chapter=4) %}創世記 4{% end %} 之 **該隱譜系之文化創始者** —— 該隱、以諾(建城者,與塞特譜系之以諾有別)、以拿、米戶雅利、瑪土撒利、拉麥,及拉麥之兒女雅八、猶八與土八該隱 —— 為平行之技術—文化譜系之形象。該隱譜系所記之家譜序列較短(至拉麥為七代,而塞特至挪亞為十代),並無塞特族長之長壽。
 
-The **exiled Lucifer faction** — the Elohim scientists who remained on Earth after the Eden settlement — are the continuing alliance presence across the antediluvian period. Their specific identities and individual roles are not preserved in the surviving textual record, but their collective presence is the operational basis for the Eden lineage's distinctive trajectory. The faction's named leader is Lucifer, treated in his own dedicated entry; his subordinates and team members are not individually identified.
+**流亡之路西法派系** —— 即伊甸結算後留於地球之耶洛因科學家 —— 為大洪水之前時期持續之聯盟存在。其具體身分及個別角色並未於存留之文本紀錄中保存,然其集體存在為伊甸譜系獨特軌跡之作業性基礎。該派系所點名之領導者為路西法,於其自身專屬條目中處理;其下屬與隊員並未個別辨識。
 
-The ***Nephilim*** are the hybrid offspring of the *benei ha-Elohim* unions, and the Watchers tradition of the Enochic literature elaborates their stories at substantial length. The biblical text gives the names of specific *Nephilim* in only limited cases (the Anakim, Rephaim, and Emim of later biblical references are sometimes treated as descendants of the antediluvian *Nephilim*; the Anakim of Numbers 13:33 are explicitly identified with the *Nephilim*).
+***Nephilim*** 為 *benei ha-Elohim* 結合之混種後裔,而《以諾書》文獻之守望者傳統廣泛擴展其故事。聖經文本僅於有限情況下點名具體之 *Nephilim*(亞衲族、利乏音族及以米族,於後期聖經提及處,有時被視為大洪水之前 *Nephilim* 之後裔;《民數記》13:33 之亞衲族明確被認定為 *Nephilim*)。
 
-The **home-world Council** under Yahweh's presidency is the political body whose deliberations across the antediluvian period produced the Flood decision. Its composition and procedures are treated more fully in the [Council of the Eternals](../council-of-eternals/) entry.
+**耶和華主持下之母星議會** 為其於大洪水之前時期之審議產生大洪水決議之政治機構。其組成與程序於 {% wiki(slug="council-of-eternals") %}永恆者議會{% end %} 條目中得到更完整處理。
 
-## Surviving evidence and traces
+## 存留的證據與痕跡
 
-The corpus's reading of the antediluvian period predicts that fragmentary memories and material traces of this period would survive into the post-Flood world through the various surviving populations and through whatever physical evidence the catastrophic Flood event did not destroy. Three categories of surviving evidence bear particular weight.
+文集對大洪水之前時期之閱讀預測:此時期之片斷記憶與物質痕跡將透過各存留人口及透過災難性大洪水事件所未毀滅之任何物理證據,存留至洪水後世界。三類存留證據具有特別之重量。
 
-### Atlantis and the Plato tradition
+### 亞特蘭提斯與柏拉圖傳統
 
-Plato's *Timaeus* and *Critias* preserve the most famous of the lost-civilization traditions. The *Timaeus* introduces the story through Critias, who reports having heard it from his grandfather, who in turn had received it from Solon, who had received it from Egyptian priests at Sais. Plato's chronology places the events approximately nine thousand years before his own time. Plato wrote in the early fourth century BCE; nine thousand years before that lands in the early Age of Cancer on the corpus's reckoning, with what the framework treats as remarkable precision. The *Critias* dialogue gives extensive specific detail: the concentric rings of land and water surrounding the central city, the size of the engineering works, the agricultural systems, the political organization (a confederation of kings), the maritime capabilities, the cultural sophistication. The level of specific detail strongly suggests that Plato (or the Egyptian sources behind Plato) had access to a coherent tradition about a real pre-Flood civilization rather than a freely invented allegory.
+柏拉圖之《蒂邁歐篇》及《克里底亞篇》保存了失落文明傳統中最著名者。《蒂邁歐篇》透過克里底亞引入該故事,克里底亞報告其聽自祖父,祖父又自梭倫處得之,梭倫又自塞斯之埃及祭司處得之。柏拉圖之年代框架將諸事件置於其自身之前約九千年。柏拉圖寫於公元前四世紀早期;此前九千年,於文集年表上落入巨蟹座時代早期,具框架所視為驚人之精確度。{{ footnote(id="4") }} 《克里底亞篇》對話給出實質之具體細節:中央城市周圍同心環形之陸地與水域、工程之規模、農業系統、政治組織(諸王聯邦)、海上能力、文化精密。具體細節之水準強烈暗示柏拉圖(或柏拉圖背後之埃及源典)取得了關於真實洪水前文明之連貫傳統,而非自由發明之寓言。
 
-The geographical location Plato gives — beyond the Pillars of Hercules in the Atlantic Ocean — is the detail that has produced most subsequent speculation. The conventional mid-Atlantic location has not been supported by any oceanographic evidence. Alternative locations proposed in the substantial Atlantis literature include the Mediterranean (Santorini and Minoan Crete, the most academically respectable candidate), the Antarctic (on alternative-cartography hypotheses), and various other sites. A more recent candidate — the **Richat Structure** in Mauritania, also called the Eye of Africa — has emerged in alternative-archaeology discussion since approximately 2018. The structure is a circular geological formation about 40 kilometers in diameter with concentric rings of differentially eroded rock, mainstream-interpreted as a deeply eroded geological dome but alternatively read as matching Plato's Atlantis description with surprising precision: the concentric rings, the size matching Plato's stadia within reasonable tolerances, the location in northwest Africa rather than the mid-Atlantic, the surrounding plain corresponding to what Plato describes as the great plain around Atlantis, and the climate change to the present-day Sahara as the post-Flood erosional consequence. The corpus does not insist on the Richat identification; the mainstream geological reading remains dominant. What the corpus registers is that the Richat Structure is a candidate location consistent with the corpus's chronology in ways the more conventional candidates are not, and that the question deserves more serious investigation than mainstream archaeology has typically given it.
+柏拉圖所給之地理位置 —— 大西洋赫拉克勒斯之柱之外 —— 為產生最多後續推測之細節。傳統之大西洋中部位置並未獲任何海洋學證據支持。於實質之亞特蘭提斯文獻中所提之替代位置,包括地中海(聖托里尼及米諾斯克里特,學術上最受敬重之候選)、南極(基於替代製圖學假說)及其他各種地點。較近之候選 —— 茅利塔尼亞之 **里夏特結構**,又稱「非洲之眼」—— 已於約 2018 年起於另類考古學討論中浮現。{{ footnote(id="5") }} 該結構為直徑約 40 公里之圓形地質構造,具有差異侵蝕之同心岩環,主流解釋為深度侵蝕之地質穹丘,然另類解讀為以驚人精確度符合柏拉圖之亞特蘭提斯描述:同心環、合理容差內符合柏拉圖斯塔德里亞之尺度、位於西北非而非大西洋中部、周圍平原對應於柏拉圖所描述環繞亞特蘭提斯之大平原,以及氣候變遷為當今撒哈拉之洪水後侵蝕後果。文集並不堅持里夏特鑑定;主流地質學閱讀仍佔主導。文集所登錄者為:里夏特結構為以主流地質學所不採之傳統候選所無之方式符合文集年表之候選位置,且該議題應較主流考古學典型所給予者更為認真地予以調查。
 
-The relationship between Atlantis and the Eden civilization on the corpus's reading is left open. The Atlantis tradition may preserve memory of the Eden civilization itself with the geographic details reflecting post-Flood relocation of fragmentary memories; or memory of one of the other six lineages in trade and cultural contact with Eden but distinct from it; or memory of a major colony or outpost of Eden located at a substantial distance; or a composite figure collapsing memories from multiple sources. The corpus does not require commitment to a specific reading; what it requires is the broader claim that a major pre-Flood civilization existed, that its memory survived in fragmentary form in subsequent traditions, and that the Greek tradition preserved one such fragment as Atlantis.
+亞特蘭提斯與伊甸文明之關係,於文集的閱讀中保持開放。亞特蘭提斯傳統或保存對伊甸文明本身之記憶,其地理細節反映片斷記憶之洪水後重置;或對其他六支譜系中、與伊甸有貿易及文化接觸但與其有別之一者之記憶;或對位於實質距離之伊甸主要殖民地或前哨之記憶;或為將來自多源之記憶合為一形之複合形象。文集並不要求對具體閱讀之承諾;其所要求者為更廣之主張:即一個主要洪水前文明曾存在、其記憶以片斷形式存留於後續傳統中,而希臘傳統保存了一項此類片斷,即亞特蘭提斯。
 
-### Göbekli Tepe and the Pre-Pottery Neolithic
+### 哥貝克力石陣與前陶器新石器時代
 
-The most consequential archaeological development of the past three decades, for the corpus's reading, is the excavation of the Pre-Pottery Neolithic sites of southeastern Anatolia — the region corresponding, on the corpus's reading, to the original Eden territory. **Göbekli Tepe**, identified by the German archaeologist Klaus Schmidt and excavated under his direction beginning in 1995, sits on a hilltop in the Şanlıurfa Province of southeastern Turkey. The site consists of multiple circular and oval enclosures defined by massive carved limestone pillars, the largest standing approximately 5.5 meters tall and weighing on the order of 10 to 20 tons each, many carved with detailed reliefs of animals — lions, foxes, birds, snakes, scorpions — arranged in deliberate iconographic compositions whose meanings remain unresolved.
+對文集之閱讀而言,過去三十年最具影響之考古發展,為東南安納托利亞前陶器新石器時代遺址之發掘 —— 即在文集的閱讀中對應於原伊甸領地之地區。**哥貝克力石陣**,由德國考古學家克勞斯·施密特鑑定並於 1995 年起在其指導下發掘,位於土耳其東南尚勒烏爾法省一處山頂。{{ cite(id="gobekli-tepe-schmidt", text="[13]", title="施密特,《哥貝克力石陣:東南安納托利亞之石器時代聖所》(2012 英文;2006 德文)—— 該遺址之奠基性學術處理") }} 該遺址包含多個圓形與卵形圍場,由巨大雕刻石灰岩柱所界定,最大者高約 5.5 公尺,各重 10 至 20 噸量級,許多刻有獅子、狐狸、鳥、蛇、蠍等動物之詳細浮雕,以圖像意義仍未解之刻意肖像構圖排列。
 
-Carbon dating of organic materials at the site places its construction in the tenth and ninth millennia BCE, with the earliest layers dating to approximately 9600 BCE and construction continuing across roughly 1,500 years before the site was deliberately buried around 8000 BCE. On the corpus's chronology, this places Göbekli Tepe squarely within the early-to-mid Age of Cancer — the antediluvian period. The site's existence has substantially overturned the previously dominant view of when complex human civilization began; mainstream archaeology has been revising its assumptions about Neolithic complexity in light of what Göbekli Tepe demonstrates. On the corpus's reading, the site is one of the surviving physical traces of the antediluvian Eden civilization, constructed during the period when the lineage was still in continuous contact with the Lucifer faction's teachers.
+對該遺址有機材料之碳定年將其建造置於公元前第十與第九千紀,最早層斷代於約公元前 9600 年,建造延續約 1,500 年後,該遺址於約公元前 8000 年被刻意掩埋。在文集年表上,此將哥貝克力石陣穩固置於巨蟹座時代早至中期 —— 即大洪水之前時期。該遺址之存在已大幅推翻先前主導之人類複雜文明起源時間觀;主流考古學正鑑於哥貝克力石陣所表明者修訂其對新石器時代複雜性之假設。在文集的閱讀中,該遺址為大洪水之前伊甸文明存留之物理痕跡之一,建造於該譜系仍持續與路西法派系教師接觸之期間。
 
-Göbekli Tepe is not unique. The companion site of **Karahan Tepe**, less than 40 kilometers away, has yielded similar architectural and iconographic features and similar dating. Other sites in the region — Sefer Tepe, Hamzan Tepe, others — appear to belong to the same broader Pre-Pottery Neolithic complex. The corpus's reading is that this regional complex represents the surviving archaeological signature of antediluvian Eden, with the deliberate burial at the close of the Cancer period possibly representing the lineage's response to the approaching Flood event the source material indicates was foretold to Noah.
+哥貝克力石陣並非獨一。不到 40 公里外之姊妹遺址 **卡拉漢石陣**,已產出類似之建築與肖像特徵及類似之斷代。該地區其他遺址 —— Sefer Tepe、Hamzan Tepe 及其他 —— 似屬於同一更廣前陶器新石器時代複合體。文集的閱讀為:此區域複合體代表大洪水之前伊甸於考古上存留之簽名,而於巨蟹座時代結束時之刻意掩埋,可能代表該譜系對源典材料所指明已向挪亞預示之即將到來之大洪水事件之回應。
 
-### The global pattern of pre-Flood memory
+### 洪水前記憶之全球模式
 
-Beyond Atlantis and the Anatolian archaeology, traditions of a lost pre-Flood high civilization survive across essentially every major cultural area: the Sumerian King List with its ten antediluvian kings of vast lifespan ending with the Flood and a reset; Hesiod's Golden Race in *Works and Days*; the Hindu *yuga* cycle; the Egyptian *zep tepi*; the Mesoamerican *Popol Vuh*'s prior attempts at humanity; Polynesian sunken-homeland traditions; Celtic submerged-city traditions. The pattern is global, treated in *In the Hebrew Bible and other ancient sources* above. The corpus's reading is that the pattern is global because the underlying historical event was global: a pre-Flood civilization existed across the supercontinent, was destroyed in a catastrophic event of which the various post-Flood populations preserved fragmentary memories, and the convergence of structurally similar stories across geographically disconnected cultures is precisely what such a global event would predict.
+除亞特蘭提斯及安納托利亞考古之外,失落之洪水前高度文明之傳統存留於本質上每一主要文化區域:蘇美王名表及其十位大洪水之前長壽諸王終於大洪水與重置;赫西俄德於《工作與時日》之黃金種族;印度教 *yuga* 循環;埃及 *zep tepi*;中美洲《波波爾·烏》之先前人類嘗試;波利尼西亞沉沒故鄉之傳統;凱爾特沒入海底之城市之傳統。{{ cite(id="origins-of-the-worlds-mythologies", text="[14]", title="Witzel,《世界神話之起源》(2012)—— 全球洪水、黃金時代與失落文明傳統間結構平行之廣闊比較重建") }} 該模式為全球性,於上方《在希伯來聖經及其他古代源典中》一節中處理。文集的閱讀為:該模式為全球性,因為其底層歷史事件為全球性:一個洪水前文明曾跨超大陸存在、於災難性事件中被毀滅,各洪水後人口保存其片斷記憶,而跨地理上不相連文化之結構性相似故事之匯合,正是此類全球性事件所將預測者。
 
-## Modern reinterpretations
+## 現代再詮釋
 
-The antediluvian period has been a major subject of modern reinterpretive scholarship across three distinct traditions, each with a different relationship to the corpus's reading.
+大洪水之前時期一直是現代再詮釋學界之主要課題,跨三項不同傳統,各與文集之閱讀有不同關係。
 
-### Mainstream archaeology in revision: the Pre-Pottery Neolithic
+### 修訂中之主流考古學:前陶器新石器時代
 
-The most significant modern reinterpretive development, and the one most directly converging with the corpus's reading, is the academic-archaeological revision of the Pre-Pottery Neolithic period that has unfolded since the 1990s. **Klaus Schmidt** (1953–2014), the German archaeologist who identified and led the excavation of Göbekli Tepe, is the foundational figure. His monograph *Sie bauten die ersten Tempel: Das rätselhafte Heiligtum der Steinzeitjäger* (2006; English: *Göbekli Tepe: A Stone Age Sanctuary in South-Eastern Anatolia*, 2012) is the primary scholarly treatment of the site. Schmidt's work, and the subsequent excavations at Karahan Tepe and other regional sites under successor directors Jens Notroff, Lee Clare, and others, have established that complex monumental architecture, sophisticated iconographic programs, and substantial coordinated labor were present in southeastern Anatolia at approximately 9600 BCE — significantly earlier and more sophisticated than the previously dominant view of when civilization began.
+最具重大之現代再詮釋發展、亦最直接與文集閱讀匯合者,為自 1990 年代起展開之前陶器新石器時代之學術—考古學修訂。**克勞斯·施密特**(1953–2014),即鑑定並領導哥貝克力石陣發掘之德國考古學家,為奠基性人物。其專著《Sie bauten die ersten Tempel: Das rätselhafte Heiligtum der Steinzeitjäger》(2006;英文版:《Göbekli Tepe: A Stone Age Sanctuary in South-Eastern Anatolia》,2012)為該遺址之主要學術處理。施密特之工作,及在繼任主任 Jens Notroff、Lee Clare 及其他人主持下於卡拉漢石陣及該地區其他遺址之後續發掘,已確立:複雜之紀念性建築、精密之肖像方案,以及實質之協調勞動,於約公元前 9600 年存在於東南安納托利亞 —— 顯著早於、且較先前主導之文明起源時間觀更為精密。
 
-The Pre-Pottery Neolithic revision is not framework-aligned in the sense that Schmidt and his successors do not endorse the corpus's reading. They are mainstream archaeologists working within the standard scientific framework. But their findings have substantially shifted the boundary of what is considered archaeologically possible for the relevant period, and the framework's reading depends on those findings being substantially correct. The corpus treats the Pre-Pottery Neolithic revision as the most empirically grounded modern engagement with the period — the kind of work that, if its trajectory continues, may eventually produce evidence that requires the framework's reading to be taken seriously by mainstream scholarship.
+前陶器新石器時代之修訂並非框架對齊,因施密特及其繼任者並未認可文集之閱讀。他們為於標準科學框架內工作之主流考古學家。但其發現已實質轉移了相關時期內被視為考古學可能之邊界,而框架之閱讀取決於這些發現實質正確。文集將前陶器新石器時代之修訂視為對該時期最具實證根基之現代研究 —— 即若其軌跡持續,最終可能產生迫使主流學界認真對待框架閱讀之證據之類工作。
 
-Related work includes **Trevor Watkins**'s broader analysis of the Pre-Pottery Neolithic transition, **Ian Hodder**'s excavation reports from Çatalhöyük (a slightly later but closely related site), and **Ofer Bar-Yosef**'s comparative work on the Natufian and PPN cultures.
+相關工作包括 **Trevor Watkins** 對前陶器新石器時代過渡之更廣分析、**Ian Hodder** 對 Çatalhöyük(稍晚但密切相關之遺址)之發掘報告,以及 **Ofer Bar-Yosef** 對納圖夫與 PPN 文化之比較工作。{{ cite(id="natufian-culture-in-the-levant", text="[15]", title="巴爾-優素福與瓦拉,《黎凡特之納圖夫文化》(1991)—— 對哥貝克力石陣所處更廣區域脈絡之標準學術處理") }}
 
-### Alternative archaeology: Hancock, Schoch, and the catastrophist tradition
+### 另類考古學:漢卡克、修奇及災難論傳統
 
-A separate modern tradition engages the antediluvian period from outside the academic mainstream, often deploying the same evidentiary base (Göbekli Tepe, the Sphinx, megalithic sites, the global pre-Flood traditions) but reaching conclusions the academic mainstream rejects.
+另一項現代傳統自學術主流之外與大洪水之前時期接觸,常部署相同之證據基礎(哥貝克力石陣、獅身人面像、巨石遺址、全球洪水前傳統),但達至學術主流所拒之結論。
 
-**Graham Hancock**, beginning with *Fingerprints of the Gods* (1995) and continuing through *Magicians of the Gods* (2015) and *America Before* (2019), has been the most widely-read figure in this tradition. Hancock's work develops the catastrophist hypothesis — that an advanced pre-Flood civilization existed, was destroyed in a catastrophic event, and left fragmentary archaeological traces and cultural memories across the post-disaster world. His specific reconstruction has shifted across his career; the recent work has converged on the Younger Dryas impact hypothesis (the proposal that a comet-fragment impact at approximately 12,800 years before present produced the Younger Dryas climate event and destroyed an advanced civilization that had existed during the preceding warm period). The corpus's reading shares the broad direction of Hancock's argument — that there was an advanced pre-Flood civilization, and that its memory survives in fragmentary form across the post-Flood world — but does not endorse Hancock's specific reconstructions in detail. The Younger Dryas impact hypothesis, as a candidate mechanism for the Flood, is treated in the [Great Flood](../great-flood/) entry.
+**葛瑞姆·漢卡克**,自《諸神的指紋》(1995){{ cite(id="fingerprints-of-the-gods", text="[16]", title="漢卡克,《諸神的指紋》(1995)—— 當代災難論—文明傳統中之奠基性著作") }} 始,延續至《諸神的魔法師》(2015){{ cite(id="magicians-of-the-gods", text="[17]", title="漢卡克,《諸神的魔法師》(2015)—— 匯合於新仙女木撞擊假說") }} 及《在美洲之前》(2019),{{ cite(id="america-before", text="[18]", title="漢卡克,《在美洲之前》(2019)—— 將災難論假說延伸至美洲") }} 一直是此傳統中最廣為閱讀之人物。漢卡克之工作發展災難論假說 —— 即一個進步之洪水前文明曾存在、於災難性事件中被毀滅,於災後世界各處留下片斷之考古痕跡與文化記憶。其具體重建於其職涯中有所轉變;近期工作匯合於新仙女木撞擊假說(即一顆彗星碎片約於距今 12,800 年前撞擊產生新仙女木氣候事件並毀滅於先前溫暖期間存在之進步文明之提議)。{{ footnote(id="6") }} 文集之閱讀分享漢卡克論證之廣義方向 —— 即曾存在一個進步之洪水前文明,且其記憶以片斷形式存留於洪水後世界 —— 但不細節認可漢卡克之具體重建。新仙女木撞擊假說作為大洪水之候選機制,於 {% wiki(slug="great-flood") %}大洪水{% end %} 條目中處理。
 
-**Robert Schoch**, the geologist whose redating of the Great Sphinx of Giza on the basis of weathering patterns (proposing a substantially earlier date than the conventional Old Kingdom attribution) was developed in the early 1990s and presented in *Voices of the Rocks* (1999) and subsequent works, is a separate but related figure. Schoch's specific claims about the Sphinx's age remain contested in academic Egyptology; his broader argument about pre-Flood civilization is in the same general region as Hancock's. The corpus treats the Sphinx redating as an open empirical question rather than as a settled fact.
+**羅伯特·修奇**,於 1990 年代早期發展、於《岩石之聲》(1999){{ cite(id="voices-of-the-rocks", text="[19]", title="修奇,《岩石之聲》(1999)—— 為吉薩大獅身人面像重新斷代之地質學論證") }} 及後續著作中提出基於風化型態為吉薩大獅身人面像重新斷代之地質學家(提議顯著早於傳統古王國歸屬之日期),為另一相關但獨立之人物。修奇對獅身人面像年代之具體主張於學術埃及學中仍有爭議;其關於洪水前文明之更廣論證,與漢卡克處於同一廣域。文集將獅身人面像重新斷代視為開放之實證問題而非既定事實。
 
-The broader catastrophist-civilization literature — including **Allan and Delair**'s *Cataclysm!* (1995) on the geological evidence for a catastrophic event in the early Holocene, the various **Younger Dryas Impact Hypothesis** publications by Richard Firestone, James Kennett, and others, and the substantial popular literature in the **lost-civilization** genre — is in this same broad space. The corpus's general position is that this literature is engaging real questions on a real evidence base, often producing observations and arguments that mainstream archaeology has not adequately addressed, but that the specific civilizational reconstructions vary in their evidentiary support and that the corpus does not endorse them in detail without case-by-case examination.
+更廣之災難論—文明文獻 —— 包括 **艾倫與德萊爾** 1995 年《劇變!》{{ cite(id="cataclysm-allan-delair", text="[20]", title="艾倫與德萊爾,《劇變!》(1995)—— 晚更新世宇宙災難假說之早期闡述") }} 之關於全新世早期災難性事件之地質學證據、由 Richard Firestone、James Kennett 及其他人所提之各種 **新仙女木撞擊假說** 出版品,{{ cite(id="firestone-pnas-2007", text="[21]", title="Firestone 等人,《PNAS》104:41(2007)—— 新仙女木撞擊假說之主要同行評審出版品") }} 及 **失落文明** 類型之實質通俗文獻 —— 處於相同之廣域空間。文集之一般立場為:此文獻基於真實之證據基礎處理真實之問題,常產出主流考古學未充分處理之觀察與論證,但具體之文明重建在證據支持上有所不同,而文集不於未逐案檢視下細節認可之。
 
-### The Sendy and Raëlian tradition
+### 桑迪及雷爾派傳統
 
-The corpus's own reinterpretive tradition — Jean Sendy's philological-historiographic work and the Raëlian source material — engages the antediluvian period as part of its broader treatment of the Hebrew Bible and the Elohim civilization. Sendy's specific treatment of the antediluvian narrative is found in *Ces dieux qui firent le ciel et la terre* (1969), where he reads the Genesis 5 longevities and the Genesis 6 *benei ha-Elohim* / *Nephilim* material in terms consistent with the corpus's later development. The Raëlian source material's treatment, in chapter 2 of *The Book Which Tells the Truth*, is the basis for the corpus's specific reading of the antediluvian period.
+文集自身之再詮釋傳統 —— 讓·桑迪之語文學—史學工作及雷爾派源典 —— 將大洪水之前時期作為其對希伯來聖經及耶洛因文明更廣處理之一部分接觸。桑迪對大洪水之前敘事之具體處理見於《那些締造天地的諸神》(1969),{{ cite(id="those-gods-who-made-heaven-and-earth", text="[22]", title="桑迪,《那些締造天地的諸神》(1969 法文)/ *Those Gods Who Made Heaven and Earth*(1972)—— 對《創世記》第 5 章長壽及 *benei ha-Elohim* / *Nephilim* 材料之語文學—史學閱讀") }} 於其中他以與文集後續發展相符之語言閱讀《創世記》第 5 章長壽及《創世記》第 6 章 *benei ha-Elohim* / *Nephilim* 材料。雷爾派源典於《道出真相之書》第 2 章中之處理,為文集對大洪水之前時期具體閱讀之基礎。
 
-## Comparative observations
+## 比較性觀察
 
-Beyond the surviving evidence treated above, the antediluvian period bears comparative-religious relationships to a number of other lost-age and lost-civilization traditions that the corpus treats as parallel rather than directly identifying.
+除上述存留之證據外,大洪水之前時期與多項其他失落時代及失落文明傳統具有比較宗教性關係,文集視之為平行而非直接認同。
 
-The **Hindu *yuga* cycle** describes a sequence of four ages — *Krita Yuga*, *Treta Yuga*, *Dvapara Yuga*, and *Kali Yuga* — of declining duration and declining moral and spiritual condition, with the ages preceding the present *Kali Yuga* characterized as periods of progressively higher human capacity, longer human lifespans, and greater spiritual achievement. The structural parallel to the Genesis 5 long-lived patriarchs, and to the broader pattern of "golden age" traditions, is suggestive. The corpus does not commit to a specific identification between any of the *yugas* and the antediluvian period.
+**印度教 *yuga* 循環** 描述一序列四個時代 —— *Krita Yuga*、*Treta Yuga*、*Dvapara Yuga* 及 *Kali Yuga* —— 持續時間遞減、道德與靈性狀況遞降,而先於當前 *Kali Yuga* 之諸時代被特徵化為人類能力漸高、人類壽命漸長、靈性成就漸大之時期。與 {% libref(book="genesis-woh", chapter=5) %}創世記 5{% end %} 章長壽族長之結構平行,及與「黃金時代」傳統之更廣模式之結構平行,具有暗示性。文集不就任何 *yuga* 與大洪水之前時期之具體認同作承諾。
 
-The **Norse Ragnarök** tradition describes the destruction of an earlier world and the emergence of a new one, with the destruction including catastrophic flooding and the survival of a remnant. The structural parallels to the Genesis Flood narrative are evident, though the Norse tradition's elaborate theological framework is distinct.
+**北歐諸神黃昏** 傳統描述先前世界之毀滅及新世界之興起,毀滅包括災難性洪水及遺民之倖存。與《創世記》大洪水敘事之結構平行明顯,然北歐傳統之精密神學框架有所區別。
 
-The **Mesoamerican five-suns tradition**, preserved most fully in the *Popol Vuh* and in various Aztec and Maya sources, describes a sequence of prior worlds (or "suns") destroyed by the gods and replaced — the present world being the fifth, with the prior four having ended in various catastrophes including flood. The structural parallel to the antediluvian / post-Flood schema is striking.
+**中美洲五個太陽傳統**,最完整保存於《波波爾·烏》及各種阿茲特克與馬雅源典中,描述一序列由諸神所毀滅並由其取代之先前世界(或「諸太陽」)—— 當前世界為第五個,先前四個分別終於各種災難,包括洪水。與大洪水之前/洪水後架構之結構平行驚人。
 
-The **Celtic submerged-cities traditions** — Lyonesse, Ys, the various flood-island legends across the Atlantic-coast Celtic regions — preserve memories of catastrophic inundations that destroyed coastal civilizations. The traditions are sufficiently widespread that some underlying historical event seems likely; the corpus reads them as fragmentary memories of either the antediluvian Flood itself or of subsequent regional flooding events.
+**凱爾特沒入海底之城市傳統** —— Lyonesse、Ys 及大西洋沿岸凱爾特地區之各種洪水—島嶼傳說 —— 保存對毀滅沿海文明之災難性淹沒之記憶。該傳統廣布,某種底層歷史事件似屬可能;文集將其讀為大洪水本身,或後續區域性淹沒事件之片斷記憶。
 
-The **Egyptian *zep tepi* tradition** describes the "first time" when the gods walked among men, a primordial era of divine presence followed by withdrawal as the gods returned to the heavens. The structural parallel to the Eden and post-Eden periods is evident.
+**埃及 *zep tepi* 傳統** 描述「初時」,當諸神行走於人之間,一段神性存在之原始時代,隨後諸神返回諸天而撤回。與伊甸及伊甸後時期之結構平行明顯。
 
-In all these cases, the corpus's working position is that a global underlying historical event would predict precisely the kind of distributed-fragment-memory pattern that the surviving traditions display, but that the specific identification of any particular tradition's content with specific antediluvian events requires case-by-case analysis rather than blanket equivalence. The corpus does not endorse the popular ancient-astronaut literature's tendency to treat all such traditions as direct memories of the same events; some may be, others may preserve memory of subsequent regional events generalized into cosmic narrative, and others may be authentic mythological constructions of their respective cultures rather than historically referential.
-
-## See also
-
-- [Genesis](../genesis/)
-- [Adam and Eve](../adam-and-eve/)
-- [Cain and Abel](../cain-and-abel/)
-- [Noah](../noah/)
-- [Eden](../eden/)
-- [Tree of Life](../tree-of-life/)
-- [Nephilim](../nephilim/)
-- [Sons of Elohim](../sons-of-elohim/)
-- [Lucifer](../lucifer/)
-- [Yahweh](../yahweh/)
-- [Elohim](../elohim/)
-- [Council of the Eternals](../council-of-eternals/)
-- [Great Flood](../great-flood/)
-- [Pangaea](../pangaea/)
-- [Atlantis](../atlantis/)
-- [Göbekli Tepe](../gobekli-tepe/)
-- [Sumerian King List](../sumerian-king-list/)
-- [*Atra-ḫasīs*](../atra-hasis/)
-- [Epic of Gilgamesh](../epic-of-gilgamesh/)
-- [Book of Enoch](../book-of-enoch/)
-- [Age of Leo](../timeline/age-of-leo/)
-- [Age of Cancer](../timeline/age-of-cancer/)
-- [Age of Gemini](../timeline/age-of-gemini/)
-
-## References
-
-Vorilhon, Claude (Raël). *The Book Which Tells the Truth* (1974), chapter 2; collected in *Message from the Designers*.
-
-Sendy, Jean. *Ces dieux qui firent le ciel et la terre*. Robert Laffont, 1969. English: *Those Gods Who Made Heaven and Earth*. Berkley, 1972.
-
-*Biblia Hebraica Stuttgartensia*. Deutsche Bibelgesellschaft, 1997.
-
-Westermann, Claus. *Genesis 1–11: A Continental Commentary*. Fortress, 1994.
-
-Sarna, Nahum. *Genesis: The JPS Torah Commentary*. Jewish Publication Society, 1989.
-
-Lambert, W. G., and A. R. Millard. *Atra-ḫasīs: The Babylonian Story of the Flood*. Oxford, 1969.
-
-Foster, Benjamin R. *Before the Muses: An Anthology of Akkadian Literature*. CDL Press, 2005.
-
-Glassner, Jean-Jacques. *Mesopotamian Chronicles*. Society of Biblical Literature, 2004.
-
-Heidel, Alexander. *The Babylonian Genesis: The Story of Creation*. University of Chicago Press, 1951.
-
-Plato. *Timaeus* and *Critias*.
-
-Hesiod. *Works and Days*.
-
-Vidal-Naquet, Pierre. *The Atlantis Story: A Short History of Plato's Myth*. University of Exeter Press, 2007.
-
-Schmidt, Klaus. *Sie bauten die ersten Tempel: Das rätselhafte Heiligtum der Steinzeitjäger* (2006); English: *Göbekli Tepe: A Stone Age Sanctuary in South-Eastern Anatolia* (2012).
-
-Bar-Yosef, Ofer, and François R. Valla, eds. *Natufian Culture in the Levant*. International Monographs in Prehistory, 1991.
-
-Hancock, Graham. *Fingerprints of the Gods*. Crown, 1995.
-
-Hancock, Graham. *Magicians of the Gods*. St. Martin's, 2015.
-
-Hancock, Graham. *America Before*. St. Martin's, 2019.
-
-Schoch, Robert M. *Voices of the Rocks*. Harmony, 1999.
-
-Allan, D. S., and J. B. Delair. *Cataclysm! Compelling Evidence of a Cosmic Catastrophe in 9500 B.C.* Bear & Company, 1995.
-
-Firestone, Richard, et al. "Evidence for an extraterrestrial impact 12,900 years ago." *Proceedings of the National Academy of Sciences* 104:41 (2007).
-
-Eliade, Mircea. *The Myth of the Eternal Return*. Princeton University Press, 1954.
-
-Witzel, E. J. Michael. *The Origins of the World's Mythologies*. Oxford University Press, 2012.
-
-Ussher, James. *Annales Veteris Testamenti*. London, 1650.
-
-Burnet, Thomas. *Telluris Theoria Sacra*. London, 1681.
-
-Browne, Sir Thomas. *Pseudodoxia Epidemica*. London, 1646.
-
-Buckland, William. *Reliquiae Diluvianae*. London, 1823.
-
-Hutton, James. *Theory of the Earth*. Edinburgh, 1788.
-
-Lyell, Charles. *Principles of Geology*. London, 1830–33.
-
-"Antediluvian." *Wikipedia*. <https://en.wikipedia.org/wiki/Antediluvian>
-
-"Sumerian King List." *Wikipedia*. <https://en.wikipedia.org/wiki/Sumerian_King_List>
-
-"Atlantis." *Encyclopaedia Britannica*. <https://www.britannica.com/topic/Atlantis-legendary-island>
-
-"Göbekli Tepe." *Encyclopaedia Britannica*. <https://www.britannica.com/place/Gobekli-Tepe>
-
-"Pre-Pottery Neolithic." *Wikipedia*. <https://en.wikipedia.org/wiki/Pre-Pottery_Neolithic>
+於以上所有情況中,文集之工作立場為:全球性底層歷史事件將預測正是存留傳統所表現之分散—片斷—記憶模式,但任何特定傳統內容與具體大洪水之前事件之具體認同,須以逐案分析而非全面等同進行。文集不認可通俗古代太空人文獻將所有此類傳統視為對相同事件之直接記憶之傾向;有些可能是,有些可能保存對概括化為宇宙性敘事之後續區域性事件之記憶,而有些可能為其各自文化之真實神話性構造而非歷史指涉性。

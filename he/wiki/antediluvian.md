@@ -1,344 +1,361 @@
 +++
-title = "Antediluvian"
+title = "טרום-מבולי"
 slug = "antediluvian"
-description = "Antediluvian (Latin: ante, 'before' + diluvium, 'flood') refers to the period of human existence on Earth before the Great Flood narrated in Genesis 6–9 and in parallel traditions across the ancient world. On the reading developed in the Raëlian source material and adopted by the Wheel of Heaven corpus, this is the post-creation pre-Flood span — the late Age of Leo through the Age of Cancer (c. 11,375 – 6,690 BCE) — during which the seven human lineages produced by the Elohim creator teams developed substantial civilizations on a single supercontinent, with the Eden lineage advancing under continued Lucifer-faction tutelage to a level the home world ultimately judged a threat."
+description = "טרום-מבולי (לטינית: *ante*, »לפני« + *diluvium*, »מבול«) מתייחס לתקופת הקיום האנושי על כדור הארץ לפני המבול הגדול המסופר בבראשית ו–ט ובמסורות מקבילות ברחבי העולם הקדום. על פי הקריאה שפותחה בחומר המקור הראליאני ואומצה על ידי קורפוס »גלגל השמיים«, זוהי התקופה שלאחר הבריאה ולפני המבול — סוף עידן האריה ועד עידן הסרטן (בסביבות 11,375 – 6,690 לפנה״ס) — שבמהלכה פיתחו שבעת השושלות האנושיות שהופקו על ידי צוותי הבריאה של האלוהים ציוויליזציות מהותיות על יבשת-על אחת, כאשר שושלת עדן התקדמה תחת חניכותה המתמשכת של סיעת לוציפר לרמה שהעולם הביתי שפט בסופו של דבר כאיום."
 template = "wiki-page.html"
 toc = true
 
 [extra]
-translation_status = "metadata_only"
 category = "Cosmic Chronology"
 editorial_pass = "2026-05"
+claim_type = "framework"
 entry_type = "event_period"
 alternative_names = ["pre-diluvian", "pre-flood", "pre-Flood"]
 timeline = ["leo", "cancer"]
+see_also = [
+    { title = "עדן", path = "wiki/eden", description = "הגילוי של סיעת לוציפר שלאחר הבריאה הפותח את התקופה הטרום-מבולית." },
+    { title = "המבול הגדול", path = "wiki/great-flood", description = "האירוע הקטסטרופלי הסוגר את העולם הטרום-מבולי." },
+    { title = "פנגיאה", path = "wiki/pangaea", description = "תצורת יבשת-העל של כדור הארץ הטרום-מבולי." },
+    { title = "עץ החיים", path = "wiki/tree-of-life", description = "טכנולוגיית הארכת החיים באמצעות העברת תאים, שניתנה למנהיגות הפטריארכלית של עדן." },
+    { title = "לוציפר", path = "wiki/lucifer", description = "סיעת צוות ישראל הסוררת הגולה על כדור הארץ, שחניכותה המתמשכת מעצבת את שושלת עדן." },
+    { title = "מועצת הנצחיים", path = "wiki/council-of-eternals", description = "הגוף המתדיין של העולם הביתי שהחלטתו הפיקה את המבול." },
+]
+
+footnotes = [
+    { content = "התאריכים הספציפיים שהקורפוס מקצה למסגרת הטרום-מבולית — בסביבות 11,375 לפנה״ס לסינתזה של בני האדם הראשונים בסוף האריה ובסביבות 6,690 לפנה״ס למבול של עידן התאומים — הם פנים-מסגרתיים. נקיפת המילואים היא תופעה אסטרונומית אמיתית, ומחזור שנים-עשר העידנים של הקורפוס, כל אחד בן כ-2,160 שנה, עקבי עם הנתון האסטרונומי הסטנדרטי. עיגון המחזור לפתיחת עידן הדלי הנוכחי בערך ב-1950 לספירה, לעומת זאת, ותאריך בריאת האדם הנגזר מחישוב 666 הדורות, הם מוסכמות מסגרת לארגון החומר. מערכות עידני נקיפה אחרות מעגנות את המחזור בנקודות סף שונות ומגיעות לתאריכים שונים בהתאם לכרונולוגיה של זמן עמוק." },
+    { content = "קריאת יבשת-העל של הקורפוס סותרת ישירות את הדיווח הגיאולוגי המיינסטרימי של פנגיאה. הגיאולוגיה המיינסטרימית מתארכת את התכנסות פנגיאה לפני כ-335 מיליון שנים ואת התפרקותה לפני כ-175 מיליון שנים, כאשר ההיסחפות היבשתית מתפרשת לאורך מאות מיליוני שנים באמצעות הסעת המעטפת. הקורפוס קורא את ההתגבשות היבשתית כטרום-מבולית ואת ההתפרקות כאירוע המבול הקטסטרופלי של בסביבות 6,690 לפנה״ס, כאשר ההיסחפות היבשתית הנצפית מאז היא התנע השיורי של אותו אירוע. אי-ההסכמה מהותית; הקורפוס אינו מרכך אותה. הדיווח המיינסטרימי נותר העמדה המדעית הדומיננטית. ראו את הערכים [פנגיאה](../pangaea/) ו[המבול הגדול](../great-flood/) לטיפול מלא יותר." },
+    { content = "אריכויות החיים הפטריארכליות של בראשית ה — אדם בן 930 שנים, מתושלח בן 969 שנים וכן הלאה — נקראות מילולית על פי דיווח הקורפוס כתוצאה של טכנולוגיית עץ החיים של העברת תאים שניתנה על ידי סיעת לוציפר למנהיגות שושלת עדן. הקריאות החלופיות הסטנדרטיות במחקר המקראי המיינסטרימי — שהמספרים הם בניינים נומרולוגיים, שהם משקפים תרגום שגוי של מערכת מספרית בסיסית העוקבת אולי אחר חודשים ולא אחר שנים, או שהם מכשירים תיאולוגיים המסמנים את הפטריארכים כדמויות בעלות מעמד מיוחד — נרשמות ואינן מאומצות. הקורפוס מתייחס לחלופות אלו כקריאות הטבעיות כאשר המסומן הטכנולוגי הבסיסי אינו ידוע, וכמוחלפות לאחר שהמסומן הטכנולוגי משוחזר מחומר המקור הראליאני." },
+    { content = "הכרונולוגיה של אפלטון ב-*Timaeus* וב-*Critias* ממקמת את חורבן אטלנטיס כתשעת אלפים שנים לפני סולון, מה שבחישוב המקובל נופל בסוף האלף העשירי לפנה״ס — בתוך עידן הסרטן המוקדם על פי חישוב הקורפוס. ההתאמה הזמנית מרמזת: מסורת יוונית שהתקבלה דרך מקורות כוהניים מצריים, מתוארכת לתקופה שהקורפוס קורא כטרום-מבולית מוקדמת, המתארת ציוויליזציה מתקדמת אבודה. הנתון נשאר פנים-מקורי ואינו ניתן לאימות עצמאי; הכרונולוגיה של אפלטון תלויה בדיוק שרשרת המסירה (כוהנים מצריים → סולון → קריטיאס הזקן → קריטיאס הצעיר → אפלטון) ובדיוק הרישום המצרי המקורי. הקורפוס רושם את ההתאמה מבלי לטעון שלאפלטון הייתה גישה לכרונולוגיה טרום-מבולית מדויקת." },
+    { content = "זיהוי המבנה הריצ'ת עם אטלנטיס — תצורה גיאולוגית מעגלית בקוטר של כ-40 קילומטר במאוריטניה, הנקראת גם עין אפריקה — נרשם על ידי הקורפוס כמועמדת העקבית עם הכרונולוגיה של הקורפוס באופנים שהמיקום המקובל באמצע האוקיינוס האטלנטי אינו. הקורפוס אינו מתעקש על זיהוי הריצ'ת. הקריאה הגיאולוגית המיינסטרימית של המבנה ככיפה ארודה לעומק נותרת העמדה האקדמית הדומיננטית; הקריאה ריצ'ת-כאטלנטיס היא ספקולציה ארכיאולוגית חלופית שצמחה בעיקר מאז 2018. מה שהקורפוס רושם הוא שהתכונות המבניות (טבעות קונצנטריות, קנה מידה התואם את הסטדיות של אפלטון, מיקום בצפון-מערב אפריקה, מישור סובב) ראויות לחקירה רצינית יותר ממה שהארכיאולוגיה המיינסטרימית נתנה להן בדרך כלל." },
+    { content = "השערת הפגיעה של הדריאס הצעיר — שפגיעה של שבר שביט לפני כ-12,800 שנים הפיקה את אירוע האקלים של הדריאס הצעיר והשמידה ציוויליזציה מתקדמת — היא ההצעה הקטסטרופיסטית בת זמננו העיקרית למנגנון המבול. הקורפוס חולק את הכיוון הרחב (ציוויליזציה טרום-מבולית מתקדמת התקיימה, הושמדה באירוע קטסטרופלי, וזיכרונה שורד בצורה מקוטעת ברחבי העולם שלאחר המבול) מבלי לאשר את מנגנון פגיעת השביט כאירוע המבול עצמו. קריאת הקורפוס ממקמת את המבול בסביבות 6,690 לפנה״ס ולא בגבול הדריאס הצעיר, ומנגנון חומר המקור אינו מנגנון פגיעה קוסמית. שני השחזורים מתכנסים על קיומה של ציוויליזציה טרום-מבולית גבוהה ונבדלים בתזמון ובמנגנון השמדתה." },
+]
+
+[[extra.references]]
+id = "the-book-which-tells-the-truth"
+locator = "פרק 2"
+note = "מקור ראליאני יסודי לתקופה הטרום-מבולית — שבעת צוותי הבריאה, היתרונות המצטברים של שושלת עדן, איחודי *בני האלוהים*, והחלטת המבול."
+
+[[extra.references]]
+id = "those-gods-who-made-heaven-and-earth"
+note = "הטיפול הפילולוגי-היסטוריוגרפי של ז'אן סנדי באריכויות החיים של בראשית ה ובחומר *בני האלוהים* / *נפילים* של בראשית ו — מגיע לקריאה מתכנסת מהותית ללא הסתמכות על עדות התגלותית."
+
+[[extra.references]]
+id = "pseudodoxia-epidemica"
+locator = "ספר ו"
+note = "יצירתו של סיר תומאס בראון מ-1646 — נקודת הציטוט לשימוש הטכני של *antediluvian* כייעוד לתקופה הטרום-מבולית באנגלית מלומדת."
+
+[[extra.references]]
+id = "telluris-theoria-sacra"
+note = "*תאוריה קדושה של כדור הארץ* של תומאס ברנט מ-1681 — הניסיון המשפיע ביותר של סוף המאה השבע-עשרה לתת דיווח טבעי-פילוסופי מאוחד של הקוסמולוגיה של בראשית והעולם הטרום-מבולי."
+
+[[extra.references]]
+id = "annales-veteris-testamenti"
+note = "הכרונולוגיה של הארכיבישוף אושר מ-1650 — נקודת הייחוס העיקרית לתיארוך הנוצרי המוקדם של העת החדשה את התקופה הטרום-מבולית בכ-1,656 שנים."
+
+[[extra.references]]
+id = "theory-of-the-earth"
+note = "מאמרו היסודי של ג'יימס האטון מ-1788 על אחידות גיאולוגית — ההזחה הקונספטואלית של הכרונולוגיה של אושר על ידי גיאולוגיה של זמן עמוק."
+
+[[extra.references]]
+id = "principles-of-geology"
+note = "התגבשות 1830–33 של צ'ארלס ליאל את האחידות כמסגרת הגיאולוגית הדומיננטית של המאה התשע-עשרה."
+
+[[extra.references]]
+id = "reliquiae-diluvianae"
+note = "יצירתו של ויליאם באקלנד מ-1823 — הניסוח הגדול של המאה התשע-עשרה של דילובאליזם בתוך הגיאולוגיה המיינסטרימית."
+
+[[extra.references]]
+id = "mesopotamian-chronicles"
+locator = "רשימת המלכים השומרית (מהדורות מרובות)"
+note = "המהדורה הביקורתית של ז'אן-ז'אק גלסנר של מסורת הכרוניקה המסופוטמית, לרבות רשימת המלכים השומרית עם מלכיה הטרום-מבוליים בעלי אורך החיים העצום."
+
+[[extra.references]]
+id = "atra-hasis-lambert-millard"
+note = "המהדורה הביקורתית הסטנדרטית והתרגום של למברט ומילרד של *אפוס אטרא-ḫאסיס* — הנרטיב הבבלי הקדום העיקרי של התקופה הטרום-מבולית."
+
+[[extra.references]]
+id = "before-the-muses"
+locator = "*גלגמש* הבבלי הסטנדרטי, לוח י»א"
+note = "האנתולוגיה של פוסטר לספרות אכדית — נקודת הגישה האקדמית העיקרית לנרטיב המבול של גלגמש שרצף היונה-עורב שלו מקביל לבראשית ח:6–12."
+
+[[extra.references]]
+id = "vidal-naquet-atlantis-story"
+note = "הטיפול האקדמי הסטנדרטי בן זמננו של פייר וידאל-נאקה במסורת אטלנטיס של *Timaeus*/*Critias* — סקפטי לגבי כל אטלנטיס היסטורית; המקור המיינסטרימי העיקרי שמולו ממוקמים זיהויים ארכיאולוגיים חלופיים."
+
+[[extra.references]]
+id = "gobekli-tepe-schmidt"
+note = "המונוגרפיה היסודית של קלאוס שמידט על חפירת גובקלי טפה — האתר שבנייתו בסביבות 9600 לפנה״ס הפכה במידה רבה את ההשקפה הדומיננטית הקודמת על מתי החלה ציוויליזציה אנושית מורכבת."
+
+[[extra.references]]
+id = "natufian-culture-in-the-levant"
+note = "הטיפול האקדמי הסטנדרטי של בר-יוסף וואלה בתרבות הנטופית — ההקשר האזורי הרחב יותר שבתוכו יושב גובקלי טפה."
+
+[[extra.references]]
+id = "fingerprints-of-the-gods"
+note = "יצירתו היסודית של גרהאם הנקוק מ-1995 במסורת הקטסטרופיסטית-ציוויליזציונית בת זמננו."
+
+[[extra.references]]
+id = "magicians-of-the-gods"
+note = "יצירתו של הנקוק מ-2015, המתכנסת על השערת הפגיעה של הדריאס הצעיר כמנגנון המוצע להשמדת הציוויליזציה הטרום-מבולית."
+
+[[extra.references]]
+id = "america-before"
+note = "הרחבת 2019 של הנקוק את ההשערה הקטסטרופיסטית ליבשות אמריקה."
+
+[[extra.references]]
+id = "voices-of-the-rocks"
+note = "הטיעון הגיאולוגי של רוברט שוך לתיארוך מחדש של הספינקס הגדול של גיזה על בסיס דפוסי בליה — שנוי במחלוקת באגיפטולוגיה האקדמית, ממוקם בתוך המסורת הקטסטרופיסטית-ציוויליזציונית הרחבה יותר."
+
+[[extra.references]]
+id = "cataclysm-allan-delair"
+note = "ניסוחם המוקדם של אלן ודלייר את השערת הקטסטרופה הקוסמית של סוף הפלייסטוקן שעליה בנתה ספרות קטסטרופיסטית מאוחרת יותר."
+
+[[extra.references]]
+id = "firestone-pnas-2007"
+note = "הפרסום המדעי המבוקר עמיתים העיקרי של השערת הפגיעה של הדריאס הצעיר — ראיות גיאוכימיות וסטרטיגרפיות לאירוע פגיעה חוץ-ארצי מהותי לפני כ-12,900 שנים."
+
+[[extra.references]]
+id = "myth-of-the-eternal-return"
+note = "יצירתו היסודית של מירצ'ה אליאדה בפנומנולוגיה ההשוואתית של הדת — מסורות ההשמדה המחזורית הגלובליות הנקראות כביטויים של דפוס מבני משותף."
+
+[[extra.references]]
+id = "origins-of-the-worlds-mythologies"
+note = "השחזור ההשוואתי הרחב של א. ג'. מייקל ויצל של ההקבלות המבניות בין מסורות המבול הגלובלי, תור הזהב, והציוויליזציה האבודה."
 
 [extra.infobox]
-type = "Historical period"
-period = "Late Age of Leo through Age of Cancer"
-date_range = "c. 11,375 BCE – c. 6,690 BCE (framework-internal)"
-duration = "approximately 4,685 years"
-geographic_setting = "Single supercontinent containing seven regional Elohim-team territories"
-closing_event = "The Flood of the Age of Gemini, c. 6,690 BCE"
-principal_biblical_text = "Genesis 4–6:8"
-principal_framework_source = "*Message from the Designers* (Vorilhon/Raël, 1974)"
-date_type = "framework-internal; bracketing ages are precessional and the human-creation anchor derives from the 666-generation calculation"
+type = "תקופה היסטורית"
+period = "סוף עידן האריה עד עידן הסרטן"
+date_range = "בסביבות 11,375 לפנה״ס – בסביבות 6,690 לפנה״ס (פנים-מסגרתי)"
+duration = "כ-4,685 שנים"
+geographic_setting = "יבשת-על אחת המכילה שבע טריטוריות אזוריות של צוותי האלוהים"
+closing_event = "מבול עידן התאומים, בסביבות 6,690 לפנה״ס"
+principal_biblical_text = "בראשית ד–ו:8"
+principal_framework_source = "*מסר מהמתכננים* (וורילון/ראל, 1974)"
+date_type = "פנים-מסגרתי; העידנים התוחמים הם נקיפתיים ועיגון בריאת האדם נגזר מחישוב 666 הדורות"
 +++
 
-**Antediluvian** (from Latin *ante*, "before," + *diluvium*, "flood") is the conventional English term for the period of human existence on Earth before the Great Flood narrated in Genesis 6–9 and in parallel traditions preserved across multiple ancient cultures. The Hebrew Bible has no equivalent technical term, referring to the period descriptively as the days before the Flood or using more general terms such as *qedem* ("former times, antiquity"). The Greek Septuagint translation uses the phrase *πρὸ τοῦ κατακλυσμοῦ* (*pro tou kataklysmou*, "before the cataclysm"). The Latin construction enters English in the seventeenth century through the work of biblical chronologists and early geologists, and becomes standard in the geological and theological literature of the eighteenth century, when the dating and historicity of the antediluvian world were live questions for both natural science and biblical interpretation.
+**טרום-מבולי** (מלטינית *ante*, »לפני«, + *diluvium*, »מבול«) הוא המונח האנגלי המקובל לתקופת הקיום האנושי על כדור הארץ לפני המבול הגדול המסופר ב{% libref(book="genesis-woh", chapter=6, verse=1) %}בראשית ו–ט{% end %} ובמסורות מקבילות השמורות במספר תרבויות עתיקות. ל{% wiki(slug="hebrew-bible") %}מקרא העברי{% end %} אין מונח טכני שווה ערך, והוא מתייחס לתקופה תיאורית כימים שלפני המבול או באמצעות מונחים כלליים יותר כגון <span class="hebrew">קֶדֶם</span> (»זמנים קודמים, עת עתיקה«). תרגום השבעים היווני משתמש בביטוי *πρὸ τοῦ κατακλυσμοῦ* (*pro tou kataklysmou*, »לפני הקטקליזם«). הצירוף הלטיני נכנס לאנגלית במאה השבע-עשרה דרך עבודתם של כרונולוגים מקראיים וגיאולוגים מוקדמים,{{ footnote(id="1") }} והופך לסטנדרטי בספרות הגיאולוגית והתיאולוגית של המאה השמונה-עשרה, כאשר תיארוך והיסטוריות העולם הטרום-מבולי היו שאלות חיות הן למדע הטבע והן לפרשנות מקראית.
 
-On the reading developed in the Raëlian source material and adopted by the Wheel of Heaven corpus, the antediluvian world is the post-creation pre-Flood span: from the synthesis of the first humans in the late Age of Leo (c. 11,375 BCE) through the catastrophic Flood event at the close of the Age of Cancer (c. 6,690 BCE), a span of approximately five millennia. This is the world in which the seven regional human lineages produced by the Elohim creator teams developed substantial civilizations on a single supercontinent, in continuous trade and conflict with one another, with the Eden lineage advancing — under the continuing tutelage of the exiled Lucifer faction and through the longevity granted to its patriarchal leadership — to a level of technological and scientific sophistication that the home-world Council ultimately judged unacceptable. The Flood was the home world's response. The antediluvian world is what the Flood ended.
+על פי הקריאה שפותחה בחומר המקור הראליאני ואומצה על ידי קורפוס »גלגל השמיים«, העולם הטרום-מבולי הוא התקופה שלאחר הבריאה ולפני המבול: מסינתזת בני האדם הראשונים בסוף עידן האריה (בסביבות 11,375 לפנה״ס) ועד אירוע {% wiki(slug="great-flood") %}המבול{% end %} הקטסטרופלי בסגירת עידן הסרטן (בסביבות 6,690 לפנה״ס), משך של כחמישה מילניאלים. זהו העולם שבו שבע השושלות האנושיות האזוריות שהופקו על ידי צוותי הבריאה של {% wiki(slug="elohim") %}האלוהים{% end %} פיתחו ציוויליזציות מהותיות על יבשת-על אחת, במסחר וסכסוך מתמשכים זו עם זו, כאשר שושלת {% wiki(slug="eden") %}עדן{% end %} מתקדמת — תחת חניכותה המתמשכת של סיעת {% wiki(slug="lucifer") %}לוציפר{% end %} הגולה ובאמצעות אריכות הימים שניתנה למנהיגותה הפטריארכלית — לרמה של תחכום טכנולוגי ומדעי שמועצת העולם הביתי שפטה בסופו של דבר כבלתי-מקובלת. המבול היה תגובת העולם הביתי. העולם הטרום-מבולי הוא מה שהמבול סיים.
 
-The reading is contested. Within mainstream geology and archaeology, the historicity of any global Flood event is rejected: the geological record contains no evidence of a planet-wide inundation in the relevant period, and the various ancient flood traditions are conventionally explained as the cultural memory of regional flood events generalized into cosmic narratives. Within biblical scholarship, the antediluvian narrative is read variously as mythological composition, as theological commentary on the human condition, or as the redactional preservation of older Mesopotamian flood-and-creation traditions. The corpus's reading depends on the framework's broader account of the Elohim civilization and the Earth project, treats the Hebrew Bible's antediluvian narrative as preserving a substantively accurate historical record in compressed form, and engages the modern archaeological developments — particularly the Pre-Pottery Neolithic discoveries of southeastern Anatolia — as material evidence consistent with the framework's reading.
+הקריאה שנויה במחלוקת. בתוך הגיאולוגיה והארכיאולוגיה המיינסטרימיות, ההיסטוריות של כל אירוע מבול גלובלי נדחית: התיעוד הגיאולוגי אינו מכיל ראיות להצפה כלל-עולמית בתקופה הרלוונטית, ומסורות המבול העתיקות השונות מוסברות באופן מקובל כזיכרון תרבותי של אירועי מבול אזוריים שהוכללו לנרטיבים קוסמיים. בתוך המחקר המקראי, הנרטיב הטרום-מבולי נקרא באופנים שונים כחיבור מיתולוגי, כפרשנות תיאולוגית על המצב האנושי, או כשימור עריכתי של מסורות מבול-ובריאה מסופוטמיות קדומות יותר. קריאת הקורפוס תלויה בדיווח הרחב יותר של המסגרת על ציוויליזציית האלוהים ופרויקט כדור הארץ, מתייחסת לנרטיב הטרום-מבולי של המקרא העברי כמשמר תיעוד היסטורי מדויק במהותו בצורה דחוסה, ומעורבת עם ההתפתחויות הארכיאולוגיות המודרניות — במיוחד גילויי הניאוליתי הטרום-קרמי של דרום-מזרח אנטוליה — כראיות חומריות עקביות עם קריאת המסגרת.
 
-## Etymology
+## אטימולוגיה
 
-The English word *antediluvian* is a Latinate compound: *ante-* (before) + *diluvium* (flood) + the adjectival suffix *-an*. *Diluvium* in Latin is the standard term for a flood or inundation, used in classical Latin for the destructive overflow of rivers and adopted by ecclesiastical Latin specifically for the biblical Flood narrated in Genesis 6–9. The Vulgate uses *diluvium* throughout the Genesis Flood narrative, and the term enters Christian Latin theological discourse as the standard designation for the event.
+המילה האנגלית *antediluvian* היא צירוף לטיני: *ante-* (לפני) + *diluvium* (מבול) + הסיומת התוארית *-an*. *Diluvium* בלטינית הוא המונח הסטנדרטי למבול או הצפה, המשמש בלטינית קלאסית עבור הצפה הרסנית של נהרות ואומץ בלטינית כנסייתית באופן ספציפי עבור המבול המקראי המסופר ב{% libref(book="genesis-woh", chapter=6, verse=1) %}בראשית ו–ט{% end %}. הוולגטה משתמשת ב-*diluvium* לאורך נרטיב מבול בראשית, והמונח נכנס לשיח התיאולוגי הלטיני הנוצרי כייעוד הסטנדרטי לאירוע.
 
-The English compound *antediluvian* enters the language in the early seventeenth century. Sir Thomas Browne uses the term in *Pseudodoxia Epidemica* (1646), in the context of discussions of the longevity of the biblical patriarchs and the conditions of the world before the Flood. Browne's use is technical-theological: he is engaged with the genuinely contested early-modern question of how long humans lived before the Flood and what the physical conditions of the antediluvian world might have been. The term spreads across the seventeenth and eighteenth centuries as the standard designation for the period in biblical-chronological and natural-philosophical contexts, used by figures including Edward Stillingfleet, Thomas Burnet (in his influential *Telluris Theoria Sacra* of 1681), and the early geological writers including James Hutton and Georges Cuvier.
+הצירוף האנגלי *antediluvian* נכנס לשפה בתחילת המאה השבע-עשרה. סיר תומאס בראון משתמש במונח ב-*Pseudodoxia Epidemica* (1646),{{ cite(id="pseudodoxia-epidemica", text="[1]", title="בראון, *Pseudodoxia Epidemica* (1646) — נקודת הציטוט לשימוש הטכני של *antediluvian* באנגלית מלומדת") }} בהקשר של דיונים על אריכות הימים של הפטריארכים המקראיים ועל תנאי העולם לפני המבול. השימוש של בראון הוא טכני-תיאולוגי: הוא עוסק בשאלה השנויה במחלוקת באמת של העת החדשה המוקדמת — כמה זמן חיו בני האדם לפני המבול ומה היו התנאים הפיזיים של העולם הטרום-מבולי. המונח מתפשט לאורך המאות השבע-עשרה והשמונה-עשרה כייעוד הסטנדרטי לתקופה בהקשרים מקראיים-כרונולוגיים וטבעיים-פילוסופיים, ומשמש דמויות כולל אדוארד סטילינגפליט, תומאס ברנט (ב-*Telluris Theoria Sacra* המשפיע שלו מ-1681){{ cite(id="telluris-theoria-sacra", text="[2]", title="ברנט, *Telluris Theoria Sacra* (1681) — הדיווח המאוחד המשפיע ביותר של סוף המאה השבע-עשרה על קוסמולוגיית בראשית") }}, והכותבים הגיאולוגיים המוקדמים כולל ג'יימס האטון וז'ורז' קוביה.
 
-The Hebrew Bible itself has no equivalent technical term. The period before the Flood is referred to descriptively — "the days before the Flood" (*ha-yamim asher lifney ha-mabbul*) appears in Matthew 24:38 in Greek translation but not as a fixed Hebrew phrase. The more general term *qedem* (<span class="hebrew">קֶדֶם</span>), "former times, antiquity, the east," is used across the Hebrew Bible for the deep past, though without the specific technical sense the Latin *ante-diluvium* carries. The absence of a Hebrew technical term for the period reflects the fact that the period's specific definition — the time before a specific catastrophic event — required the Flood narrative itself to be canonized as the dividing event, after which the term's referent became clear.
+למקרא העברי עצמו אין מונח טכני שווה ערך. התקופה לפני המבול מצוינת תיאורית — »<span class="hebrew">הַיָּמִים אֲשֶׁר לִפְנֵי הַמַּבּוּל</span>« (*ha-yamim asher lifney ha-mabbul*) מופיע במתי כ»ד:38 בתרגום יווני אך לא כביטוי עברי קבוע. המונח הכללי יותר <span class="hebrew">קֶדֶם</span> (*qedem*), »זמנים קודמים, עת עתיקה, מזרח«, משמש לאורך המקרא העברי לעבר העמוק, אם כי ללא המשמעות הטכנית הספציפית שנושא ה-*ante-diluvium* הלטיני. היעדר מונח טכני עברי לתקופה משקף את העובדה שההגדרה הספציפית של התקופה — הזמן לפני אירוע קטסטרופלי ספציפי — חייבה שנרטיב המבול עצמו יקודש כאירוע המחלק, שלאחריו המסומן של המונח נעשה ברור.
 
-## The conventional account
+## הדיווח המקובל
 
-The "conventional" account of the antediluvian period has shrunk substantially over the past three centuries. In the seventeenth and eighteenth centuries, the antediluvian world was a major subject of natural-philosophical and theological inquiry; by the present, mainstream usage of the term is largely metaphorical, with the literal-historical sense surviving mainly in religious and reinterpretive contexts.
+הדיווח »המקובל« של התקופה הטרום-מבולית הצטמצם מהותית במהלך שלוש המאות האחרונות. במאות השבע-עשרה והשמונה-עשרה, העולם הטרום-מבולי היה נושא מרכזי לחקירה טבעית-פילוסופית ותיאולוגית; בהווה, השימוש המיינסטרימי במונח הוא בעיקרו מטאפורי, כאשר המשמעות הליטרלית-היסטורית שורדת בעיקר בהקשרים דתיים ופרשניים-מחודשים.
 
-### The early-modern Christian chronology
+### הכרונולוגיה הנוצרית של העת החדשה המוקדמת
 
-The dominant Christian chronology of the early-modern period was Archbishop James Ussher's, published in *Annales Veteris Testamenti* (1650). Ussher dated the creation of the world to 4004 BCE and the Flood to 2348 BCE, placing the antediluvian period at approximately 1,656 years (the figure derived from summing the ages of the patriarchs in Genesis 5). Ussher's chronology was widely adopted and was printed in the margins of the Authorized Version Bibles for two centuries; comparable chronologies by John Lightfoot and others gave dates in the same general range. Within this chronology, the antediluvian world was a relatively brief and recent period, with the patriarchs' very long lifespans (Adam at 930 years, Methuselah at 969) compressed into less than two millennia.
+הכרונולוגיה הנוצרית הדומיננטית של תקופת העת החדשה המוקדמת הייתה זו של הארכיבישוף ג'יימס אושר, שפורסמה ב-*Annales Veteris Testamenti* (1650).{{ cite(id="annales-veteris-testamenti", text="[3]", title="אושר, *Annales Veteris Testamenti* (1650) — הכרונולוגיה הנוצרית העיקרית של העת החדשה המוקדמת של התקופה הטרום-מבולית") }} אושר תיארך את בריאת העולם ל-4004 לפנה״ס ואת המבול ל-2348 לפנה״ס, וקבע את התקופה הטרום-מבולית בכ-1,656 שנים (הנתון נגזר מסיכום גילי הפטריארכים ב{% libref(book="genesis-woh", chapter=5) %}בראשית ה{% end %}). הכרונולוגיה של אשר אומצה בהרחבה והודפסה בשוליים של תנ»כי ה-Authorized Version במשך שתי מאות; כרונולוגיות דומות של ג'ון לייטפוט ואחרים נתנו תאריכים בטווח כללי דומה. בתוך כרונולוגיה זו, העולם הטרום-מבולי היה תקופה קצרה יחסית וקרובה, כאשר אריכויות החיים הארוכות מאוד של הפטריארכים (אדם בן 930 שנים, מתושלח בן 969) דחוסות לפחות משני מילניאלים.
 
-### The geological displacement
+### ההזחה הגיאולוגית
 
-The geological revolution of the late eighteenth and nineteenth centuries displaced the Ussher chronology. James Hutton's *Theory of the Earth* (1788, expanded 1795) established the principle of geological deep time; Charles Lyell's *Principles of Geology* (1830–33) consolidated uniformitarianism as the dominant geological framework; the development of stratigraphy across the nineteenth century established the hundreds-of-millions-of-years timescale that has remained the geological consensus since. Within this framework, the biblical Flood as a historical event becomes problematic: the geological record contains no evidence of a global inundation in the recent past, and the various stratigraphic features that early flood-geologists had identified as Flood deposits (such as the supposed "diluvial" gravels of northern Europe) were progressively reinterpreted as glacial, fluvial, or other non-Flood origins.
+המהפכה הגיאולוגית של סוף המאות השמונה-עשרה והתשע-עשרה הזיחה את הכרונולוגיה של אושר. *תאוריה של כדור הארץ* של ג'יימס האטון (1788, הורחבה 1795){{ cite(id="theory-of-the-earth", text="[4]", title="האטון, *תאוריה של כדור הארץ* (1788) — טקסט היסוד של האחידות הגיאולוגית") }} ביססה את עקרון הזמן העמוק הגיאולוגי; *עקרונות הגיאולוגיה* של צ'ארלס ליאל (1830–33){{ cite(id="principles-of-geology", text="[5]", title="ליאל, *עקרונות הגיאולוגיה* (1830–33) — התגבשות האחידות כמסגרת הגיאולוגית הדומיננטית של המאה התשע-עשרה") }} התגבשה את האחידות כמסגרת הגיאולוגית הדומיננטית; פיתוח הסטרטיגרפיה לאורך המאה התשע-עשרה ביסס את לוח הזמנים של מאות מיליוני השנים שנותר הקונצנזוס הגיאולוגי מאז. בתוך מסגרת זו, המבול המקראי כאירוע היסטורי הופך לבעייתי: התיעוד הגיאולוגי אינו מכיל ראיות להצפה גלובלית בעבר הקרוב, ותכונות סטרטיגרפיות שונות שגיאולוגים מוקדמים של המבול זיהו כמשקעי מבול (כגון החצצים ה»דילובאליים« כביכול של צפון אירופה) פורשו בהדרגה מחדש כקרחוניים, נהריים, או ממקורות אחרים לא-מבוליים.
 
-The displacement was not immediate or uncontested. Diluvialism — the view that the geological record preserved evidence of the biblical Flood — remained a mainstream geological position into the mid-nineteenth century, defended by figures including William Buckland (whose *Reliquiae Diluvianae* of 1823 was the major work in the tradition). Buckland himself eventually abandoned the position in the 1830s in light of the glacial-theory developments of Louis Agassiz; the broader scientific community followed across the subsequent decades. By the late nineteenth century, mainstream geology no longer treated the biblical Flood as a historical event with geological consequences.
+ההזחה לא הייתה מיידית או בלתי-מעורערת. דילובאליזם — ההשקפה שהתיעוד הגיאולוגי שמר ראיות למבול המקראי — נותר עמדה גיאולוגית מיינסטרימית עד אמצע המאה התשע-עשרה, מוגנת על ידי דמויות כולל ויליאם באקלנד (שיצירתו *Reliquiae Diluvianae* מ-1823 הייתה היצירה הגדולה במסורת).{{ cite(id="reliquiae-diluvianae", text="[6]", title="באקלנד, *Reliquiae Diluvianae* (1823) — היצירה הגדולה של המאה התשע-עשרה של דילובאליזם מיינסטרימי") }} באקלנד עצמו בסופו של דבר נטש את העמדה בשנות ה-1830 לאור התפתחויות תאוריית הקרחונים של לואי אגאסיס; הקהילה המדעית הרחבה יותר עקבה לאורך העשורים שלאחר מכן. עד סוף המאה התשע-עשרה, הגיאולוגיה המיינסטרימית כבר לא התייחסה למבול המקראי כאירוע היסטורי בעל השלכות גיאולוגיות.
 
-### The contemporary mainstream
+### המיינסטרים בן זמננו
 
-In contemporary mainstream usage, the term *antediluvian* survives in two distinct registers. In specialist religious and theological contexts, it retains its original sense — the period before the Flood — used principally within confessional Christian and Jewish discussions of the Genesis narrative. In broader contemporary English, the term is used metaphorically to mean "extremely old, primitive, or outmoded": *Webster's* and other major contemporary dictionaries give this metaphorical sense as the dominant modern usage. The literal-historical sense has been substantially abandoned in mainstream secular contexts because the global-Flood historicity it presupposes is no longer accepted in mainstream geology.
+בשימוש המיינסטרימי בן זמננו, המונח *antediluvian* שורד בשני רגיסטרים מובחנים. בהקשרים דתיים ותיאולוגיים מומחים, הוא שומר על משמעותו המקורית — התקופה לפני המבול — בשימוש בעיקר בתוך דיונים נוצריים ויהודיים קונפסיונליים על נרטיב בראשית. באנגלית הרחבה יותר בת זמננו, המונח משמש מטאפורית במשמעות »ישן מאוד, פרימיטיבי, או מיושן«: *Webster's* ומילונים גדולים אחרים בני זמננו נותנים משמעות מטאפורית זו כשימוש המודרני הדומיננטי. המשמעות הליטרלית-היסטורית ננטשה במידה ניכרת בהקשרים חילוניים מיינסטרימיים משום שהיסטוריות המבול הגלובלי שהיא מניחה מראש כבר אינה מתקבלת בגיאולוגיה המיינסטרימית.
 
-The biblical narrative of the antediluvian period (Genesis 4–6:8) is treated within mainstream biblical scholarship as religious literature whose historical referents are mythological, theological, or — at most — distant cultural memory of regional flood events generalized into cosmic narrative. The very long patriarchal lifespans of Genesis 5 are read variously as numerological constructions, as mistranslations of an underlying numerical system (perhaps reflecting months rather than years), or as theological devices marking the patriarchs as figures of special status. The historical-critical approach, dominant in academic biblical studies since Wellhausen, treats the antediluvian narrative as a redactional composition assembled from earlier sources rather than as a historical record of identifiable events.
+הנרטיב המקראי של התקופה הטרום-מבולית (בראשית ד–ו:8) מטופל בתוך המחקר המקראי המיינסטרימי כספרות דתית שמסומניה ההיסטוריים הם מיתולוגיים, תיאולוגיים, או — לכל היותר — זיכרון תרבותי מרוחק של אירועי מבול אזוריים שהוכללו לנרטיב קוסמי. אריכויות החיים הפטריארכליות הארוכות מאוד של {% libref(book="genesis-woh", chapter=5) %}בראשית ה{% end %} נקראות באופנים שונים כבניינים נומרולוגיים, כתרגומים שגויים של מערכת מספרית בסיסית (אולי משקפת חודשים ולא שנים), או כמכשירים תיאולוגיים המסמנים את הפטריארכים כדמויות בעלות מעמד מיוחד.{{ footnote(id="3") }} הגישה ההיסטורית-ביקורתית, הדומיננטית במחקר המקראי האקדמי מאז ולהאוזן, מתייחסת לנרטיב הטרום-מבולי כחיבור עריכתי המורכב ממקורות קדומים יותר ולא כתיעוד היסטורי של אירועים ניתנים לזיהוי.
 
-## In the Hebrew Bible and other ancient sources
+## במקרא העברי ובמקורות עתיקים אחרים
 
-The Hebrew Bible covers the antediluvian period in Genesis 4–6:8, beginning immediately after the expulsion from Eden in Genesis 3 and concluding with the divine decision to send the Flood. The narrative is unusually compressed: a few chapters carry events that on the corpus's reading occupy approximately five thousand years.
+המקרא העברי מכסה את התקופה הטרום-מבולית ב{% libref(book="genesis-woh", chapter=4) %}בראשית ד–ו:8{% end %}, ומתחיל מיד לאחר הגירוש מעדן בבראשית ג ומסתיים בהחלטה האלוהית לשלוח את המבול. הנרטיב דחוס באופן חריג: פרקים מעטים נושאים אירועים שעל פי קריאת הקורפוס תופסים כחמשת אלפים שנים.
 
-### The Genesis narrative
+### נרטיב בראשית
 
-The principal content of Genesis 4–6:8 includes the conflict between Cain and Abel and Cain's subsequent exile and city-founding (Genesis 4); the genealogies of Cain's line, naming Jabal as the founder of pastoral nomadism, Jubal as the founder of music, and Tubal-Cain as the founder of metallurgy (Genesis 4:17–22); the parallel genealogy of Seth's line, with the long lifespans of the patriarchs from Adam (930 years) through Methuselah (969 years) to Noah (Genesis 5); the introduction of the *benei ha-Elohim* ("sons of Elohim") who take human women as wives and produce the *Nephilim* (Genesis 6:1–4); and the divine assessment of human wickedness and the announcement of the coming Flood (Genesis 6:5–8).
+התוכן העיקרי של {% libref(book="genesis-woh", chapter=4) %}בראשית ד–ו:8{% end %} כולל את הקונפליקט בין קַיִן והֶבֶל ואת גלות וייסוד-העיר של קַיִן שלאחר מכן ({% libref(book="genesis-woh", chapter=4) %}בראשית ד{% end %}); את הגנאלוגיות של קו קַיִן, המכנות את יָבָל כמייסד הנוודות הרועית, את יוּבָל כמייסד המוסיקה, ואת תּוּבַל קַיִן כמייסד המטלורגיה ({% libref(book="genesis-woh", chapter=4, verse=17) %}בראשית ד:17–22{% end %}); את הגנאלוגיה המקבילה של קו שֵׁת, עם אריכויות החיים הארוכות של הפטריארכים מ{% wiki(slug="adam-and-eve") %}אָדָם{% end %} (930 שנים) דרך מְתוּשֶׁלַח (969 שנים) עד {% wiki(slug="noah") %}נֹחַ{% end %} ({% libref(book="genesis-woh", chapter=5) %}בראשית ה{% end %}); את הצגת בְּנֵי הָאֱלֹהִים (»בני אלוהים«) הלוקחים נשים אנושיות ומפיקים את הנְפִילִים ({% libref(book="genesis-woh", chapter=6, verse=1) %}בראשית ו:1–4{% end %}); ואת ההערכה האלוהית של רוע האדם ואת הכרזת המבול הקרב ({% libref(book="genesis-woh", chapter=6, verse=5) %}בראשית ו:5–8{% end %}).
 
-The narrative is structurally bipartite. Genesis 4 traces the line of Cain from the expulsion to Lamech (the seventh generation from Adam through Cain), with cultural-technological founders at each generation. Genesis 5 traces the parallel line of Seth from Adam to Noah (the tenth generation), with the long lifespans recorded in formulaic detail. Genesis 6:1–4 then introduces the *benei ha-Elohim* / *Nephilim* material as a brief but consequential interlude before the Flood announcement at 6:5–8. The narrative's brevity and density have made it a site of substantial interpretive elaboration across both Jewish and Christian traditions.
+הנרטיב דו-חלקי במבנהו. בראשית ד עוקבת אחר קו קַיִן מהגירוש עד לֶמֶךְ (הדור השביעי מאדם דרך קַיִן), עם מייסדים תרבותיים-טכנולוגיים בכל דור. בראשית ה עוקבת אחר הקו המקביל של שֵׁת מאדם עד נֹחַ (הדור העשירי), עם אריכויות החיים הארוכות הרשומות בפירוט פורמלי. {% libref(book="genesis-woh", chapter=6, verse=1) %}בראשית ו:1–4{% end %} אז מציגה את חומר בְּנֵי הָאֱלֹהִים / נְפִילִים כמשחק ביניים קצר אך משמעותי לפני הכרזת המבול ב-ו:5–8. הקיצור והצפיפות של הנרטיב עשו אותו לאתר של פירוט פרשני מהותי הן במסורות היהודיות והן הנוצריות.
 
-### The Mesopotamian sources
+### המקורות המסופוטמיים
 
-Several ancient Mesopotamian sources preserve substantial antediluvian material that parallels the Genesis narrative in structurally significant ways.
+מספר מקורות מסופוטמיים עתיקים שומרים חומר טרום-מבולי מהותי המקביל לנרטיב בראשית באופנים מבניים משמעותיים.
 
-The **Sumerian King List**, in its various recensions, records a sequence of pre-Flood kings with reigns of extraordinary length — figures such as Alulim (28,800 years), Alalngar (36,000 years), and others, summing to total reign-lengths in the hundreds of thousands of years before the Flood interrupts the sequence and reign-lengths drop sharply afterward. The structural parallel to Genesis 5 (ten antediluvian patriarchs with vast lifespans, ending with Noah and the Flood) is striking, though the specific Sumerian figures are far larger than the Genesis figures.
+**רשימת המלכים השומרית**, במהדורותיה השונות, רושמת רצף של מלכים טרום-מבוליים בעלי שלטונות באורך יוצא דופן — דמויות כגון אלוּלים (28,800 שנים), אלאלנגאר (36,000 שנים), ואחרים, המסתכמים באורכי שלטון של מאות אלפי שנים לפני שהמבול קוטע את הרצף ואורכי השלטון יורדים בחדות לאחר מכן.{{ cite(id="mesopotamian-chronicles", text="[7]", title="גלסנר, *כרוניקות מסופוטמיות* (2004) — המהדורה הביקורתית הסטנדרטית של רשימת המלכים השומרית ומסורת הכרוניקה הרחבה יותר") }} ההקבלה המבנית לבראשית ה (עשרה פטריארכים טרום-מבוליים בעלי אריכות חיים עצומה, המסתיימים עם נֹחַ והמבול) בולטת, אם כי הנתונים השומריים הספציפיים גדולים בהרבה מנתוני בראשית.
 
-The Babylonian priest **Berossus**, writing in the third century BCE in his *Babyloniaca*, preserves a similar tradition of ten antediluvian kings with very long reigns, the last of whom is Xisuthros — the Berossan equivalent of the biblical Noah and the Mesopotamian Atra-ḫasīs / Utnapishtim.
+הכוהן הבבלי **ברוסוס**, שכתב במאה השלישית לפנה״ס ב-*Babyloniaca* שלו, שומר מסורת דומה של עשרה מלכים טרום-מבוליים בעלי שלטונות ארוכים מאוד, שהאחרון בהם הוא קסיסוּת'רוֹס — המקבילה הברוסית של נֹחַ המקראי ושל אטרא-ḫאסיס / אוטנפישתים המסופוטמי.
 
-The Akkadian **Atra-ḫasīs Epic** (early second millennium BCE) provides the most detailed Mesopotamian narrative of the pre-Flood period. The epic describes the creation of humans by the gods to perform labor, the proliferation of humanity, the divine decision to send a flood to reduce the human population, and the survival of Atra-ḫasīs through divine warning. The structural parallels to Genesis 6–9 are extensive, including the warning to the survivor, the construction of a vessel, the loading of animals, the survival of the flood, the post-flood sacrifice, and the divine response.
+**אפוס אטרא-ḫאסיס** האכדי (תחילת האלף השני לפנה״ס) מספק את הנרטיב המסופוטמי המפורט ביותר של התקופה הטרום-מבולית.{{ cite(id="atra-hasis-lambert-millard", text="[8]", title="למברט ומילרד, *אטרא-ḫאסיס: הסיפור הבבלי של המבול* (1969) — המהדורה הביקורתית הסטנדרטית והתרגום") }} האפוס מתאר את בריאת בני האדם על ידי האלים לביצוע עבודה, את התרבות האנושות, את ההחלטה האלוהית לשלוח מבול להפחית את האוכלוסייה האנושית, ואת הישרדותו של אטרא-ḫאסיס באמצעות אזהרה אלוהית. ההקבלות המבניות לבראשית ו–ט נרחבות, לרבות האזהרה לשורד, בניית הכלי, טעינת בעלי החיים, ההישרדות מהמבול, הקרבן שלאחר המבול, והתגובה האלוהית.
 
-The flood passages of the **Epic of Gilgamesh** (Standard Babylonian version, c. late second millennium BCE) preserve a closely parallel narrative in Tablet XI, where Utnapishtim recounts the flood story to Gilgamesh. The dove-raven sequence preserved nearly verbatim in Genesis 8:6–12 is one of the most direct textual parallels.
+קטעי המבול של **אפוס גלגמש** (הגרסה הבבלית הסטנדרטית, בסביבות סוף האלף השני לפנה״ס) שומרים נרטיב מקביל מקרוב בלוח י»א, שבו אוטנפישתים מספר את סיפור המבול לגלגמש.{{ cite(id="before-the-muses", text="[9]", title="פוסטר, *לפני המוזות* (2005) — האנתולוגיה הסטנדרטית של ספרות אכדית, נקודת הגישה האקדמית העיקרית לנרטיב מבול גלגמש") }} רצף היונה-עורב השמור כמעט מילה במילה בבראשית ח:6–12 הוא אחת ההקבלות הטקסטואליות הישירות ביותר.
 
-### Other ancient traditions
+### מסורות עתיקות אחרות
 
-Beyond the Mesopotamian sources, traditions of a lost pre-Flood civilization recur with striking consistency across the ancient world.
+מעבר למקורות המסופוטמיים, מסורות של ציוויליזציה טרום-מבולית אבודה חוזרות בעקביות בולטת ברחבי העולם הקדום.
 
-**Plato**, in the *Timaeus* and *Critias* (mid-fourth century BCE), presents the Atlantis tradition through the figure of Solon, who reportedly received it from Egyptian priests at Sais. **Hesiod**, in *Works and Days* (c. 700 BCE), describes a Golden Race that lived before the present age and was destroyed by the gods. **Hindu** cosmology preserves the *yuga* cycle, in which prior ages of advanced civilization rose and fell across periods comparable to or exceeding the time depths the corpus attributes to the antediluvian world. The **Egyptian** tradition of *zep tepi* ("the first time") describes a prior period when the gods walked among men. The **Mesoamerican** *Popol Vuh* records prior attempts at humanity destroyed by the gods before the present. **Polynesian** traditions speak of sunken homelands; **Celtic** traditions of cities lost beneath the sea.
+**אפלטון**, ב-*Timaeus* וב-*Critias* (אמצע המאה הרביעית לפנה״ס), מציג את מסורת אטלנטיס באמצעות דמותו של סולון, שלפי הדיווח קיבל אותה מכוהנים מצריים בסאיס.{{ cite(id="vidal-naquet-atlantis-story", text="[10]", title="וידאל-נאקה, *סיפור אטלנטיס* (2007) — הטיפול האקדמי הסטנדרטי בן זמננו במסורת אטלנטיס") }} **הסיודוס**, ב-*עבודות וימים* (בסביבות 700 לפנה״ס), מתאר גזע של זהב שחי לפני העידן הנוכחי והושמד על ידי האלים. הקוסמולוגיה **ההינדית** שומרת את מחזור ה-*yuga*, שבו עידנים קודמים של ציוויליזציה מתקדמת קמו ונפלו במהלך תקופות הניתנות להשוואה או החורגות מעומקי הזמן שהקורפוס מייחס לעולם הטרום-מבולי. המסורת **המצרית** של *zep tepi* (»הזמן הראשון«) מתארת תקופה קודמת שבה האלים הלכו בקרב בני האדם. ה-*Popol Vuh* ה**מסואמריקני** רושם ניסיונות קודמים של אנושות שהושמדו על ידי האלים לפני הנוכחי. המסורות ה**פולינזיות** מדברות על מולדות שקועות; המסורות ה**קלטיות** של ערים אבודות מתחת לים.
 
-The pattern is global. Mainstream comparative-religion scholarship has tended to treat each tradition in isolation, attributing them variously to mythology, to memory of local rather than global events, or to cultural diffusion from common sources. The corpus's reading treats the convergence as evidence of a single underlying historical event whose memory was preserved in fragmentary form across the various post-Flood populations; the question is treated more fully under *Surviving evidence and traces* below.
+הדפוס גלובלי. המחקר ההשוואתי-דתי המיינסטרימי נטה לטפל בכל מסורת בבידוד, ולייחס אותן באופנים שונים למיתולוגיה, לזיכרון של אירועים מקומיים ולא גלובליים, או לדיפוזיה תרבותית ממקורות משותפים.{{ cite(id="myth-of-the-eternal-return", text="[11]", title="אליאדה, *מיתוס השיבה הנצחית* (1954) — יצירת היסוד בפנומנולוגיה ההשוואתית של מסורות ההשמדה המחזורית") }} קריאת הקורפוס מתייחסת להתכנסות כראיה לאירוע היסטורי בסיסי אחד שזיכרונו נשמר בצורה מקוטעת ברחבי האוכלוסיות השונות שלאחר המבול; השאלה מטופלת באופן מלא יותר תחת *ראיות וסימנים ששרדו* להלן.
 
-## Setting and context
+## הקשר וסביבה
 
-The world in which the antediluvian period unfolded, on the corpus's reading, was substantially different from the present-day world in two principal respects: the continental configuration was different, and the human population was distributed across multiple regional civilizations under continuing alliance contact.
+העולם שבו התפרשה התקופה הטרום-מבולית, על פי קריאת הקורפוס, היה שונה מהותית מהעולם של ימינו בשתי תכונות עיקריות: התצורה היבשתית הייתה שונה, והאוכלוסייה האנושית הייתה מפוזרת בכמה ציוויליזציות אזוריות תחת מגע ברית מתמשך.
 
-### The supercontinent
+### יבשת-העל
 
-Across the antediluvian period, on the corpus's reading, the Earth's continental crust was consolidated into a single landmass. The seven Elohim creator teams, having distributed themselves across this landmass during the Age of Leo, were operating in seven distinct regional territories on a continuous land surface. The supercontinent's geography permitted overland travel and trade across distances that would later become impassable: a merchant traveling from the Eden region in the eastern-Mediterranean / Levantine area to the East Asian region during late Cancer could, in principle, walk the entire distance on continuous land, a journey of perhaps three or four thousand kilometers across demanding but feasible terrain.
+במהלך התקופה הטרום-מבולית, על פי קריאת הקורפוס, קרום היבשת של כדור הארץ היה מאוחד למסת יבשה אחת. שבעת צוותי הבריאה של האלוהים, לאחר שהפיצו את עצמם ברחבי מסת יבשה זו במהלך עידן האריה, פעלו בשבע טריטוריות אזוריות מובחנות על משטח קרקע רציף. הגיאוגרפיה של יבשת-העל איפשרה נסיעה ומסחר ביבשה במרחקים שמאוחר יותר יהפכו לבלתי-עבירים: סוחר שנסע מאזור עדן באזור הים התיכון המזרחי / הלבנט לאזור מזרח אסיה במהלך הסרטן המאוחר היה יכול, באופן עקרוני, ללכת את כל המרחק על קרקע רציפה, מסע של כשלושה או ארבעה אלפי קילומטרים על פני שטח תובעני אך אפשרי.
 
-The corpus's antediluvian supercontinent is *not* the conventional Pangaea of mainstream geology. The structural correspondence — a single consolidated continental mass surrounded by a single ocean — is shared, but the chronology is radically different: mainstream geology dates Pangaea's assembly to approximately 335 million years ago and its breakup to approximately 175 million years ago, with continental drift unfolding over hundreds of millions of years through mantle convection. The corpus reads the breakup as a catastrophic event during the Flood of the Age of Gemini at approximately 6,690 BCE, with the observed continental drift since then as the residual momentum of that event. The conflict with mainstream geological dating is substantial and is treated openly in the [Pangaea](../pangaea/) and [Great Flood](../great-flood/) entries. The Hebrew text of Genesis 1:9 preserves the configuration the corpus reads as the antediluvian setting: the dry land appears in *makom ehad*, "one place" — singular, not plural.
+יבשת-העל הטרום-מבולית של הקורפוס *אינה* פנגיאה המקובלת של הגיאולוגיה המיינסטרימית.{{ footnote(id="2") }} ההתאמה המבנית — מסת יבשה רציפה אחת מוקפת באוקיינוס יחיד — משותפת, אך הכרונולוגיה שונה באופן רדיקלי: הגיאולוגיה המיינסטרימית מתארכת את התכנסות פנגיאה ללפני כ-335 מיליון שנים ואת התפרקותה ללפני כ-175 מיליון שנים, כאשר ההיסחפות היבשתית מתפרשת לאורך מאות מיליוני שנים באמצעות הסעת מעטפת. הקורפוס קורא את ההתפרקות כאירוע קטסטרופלי במהלך מבול עידן התאומים בערך ב-6,690 לפנה״ס,{{ footnote(id="1") }} כאשר ההיסחפות היבשתית הנצפית מאז היא התנע השיורי של אותו אירוע. הקונפליקט עם התיארוך הגיאולוגי המיינסטרימי מהותי ומטופל בגלוי בערכים {% wiki(slug="pangaea") %}פנגיאה{% end %} ו{% wiki(slug="great-flood") %}המבול הגדול{% end %}. הטקסט העברי של {% libref(book="genesis-woh", chapter=1, verse=9) %}בראשית א:9{% end %} שומר את התצורה שהקורפוס קורא כסביבה הטרום-מבולית: היבשה מופיעה ב-<span class="hebrew">מָקוֹם אֶחָד</span> (*makom ehad*), »מקום אחד« — ביחיד, לא ברבים.
 
-### The post-Eden political settlement
+### ההסדר הפוליטי שלאחר עדן
 
-The antediluvian period begins, on the corpus's reading, immediately after the political settlement that closed the Eden episode (treated more fully in the [Eden](../eden/) entry). The Lucifer faction — the dissident Israel-team scientists who had disclosed restricted knowledge to the first humans — was permanently exiled on Earth, while the remainder of the Israel team and the other six creator teams withdrew to the home world. The result was that the post-Eden world contained a continuing alliance presence (the exiled Lucifer faction) operating in continuous contact with the human population, while the broader alliance maintained surveillance from a distance through the home-world Council and the alliance vessel stationed near Earth.
+התקופה הטרום-מבולית מתחילה, על פי קריאת הקורפוס, מיד לאחר ההסדר הפוליטי שסגר את אפיזודת {% wiki(slug="eden") %}עדן{% end %}. סיעת לוציפר — המדענים הסוררים של צוות ישראל שגילו ידע מוגבל לבני האדם הראשונים — נשלחה לגלות צמיתה על כדור הארץ, בעוד ששאר צוות ישראל וששת צוותי הבריאה האחרים נסוגו לעולם הביתי. התוצאה הייתה שהעולם שלאחר עדן הכיל נוכחות ברית מתמשכת (סיעת לוציפר הגולה) הפועלת במגע מתמשך עם האוכלוסייה האנושית, בעוד שהברית הרחבה יותר שמרה על מעקב ממרחק באמצעות {% wiki(slug="council-of-eternals") %}מועצת{% end %} העולם הביתי וספינת הברית הממוקמת ליד כדור הארץ.
 
-This political settlement structures the entire antediluvian period. The Eden lineage's distinctive trajectory — its rapid technological advancement, its long-lived patriarchal leadership, its eventual production of the *Nephilim* hybrid offspring, its civilizational achievements — is the result of the continuing Lucifer-faction tutelage that the political settlement made possible. The other six lineages, without continuing direct creator-teacher contact, developed more slowly and reached lower levels of technological capability across the same period.
+הסדר פוליטי זה מבנה את כל התקופה הטרום-מבולית. המסלול הייחודי של שושלת עדן — קידומה הטכנולוגי המהיר, מנהיגותה הפטריארכלית ארוכת-הימים, ייצורה בסופו של דבר של צאצאי כלאיים נְפִילִים, הישגיה הציוויליזציוניים — הוא תוצאה של חניכת סיעת לוציפר המתמשכת שההסדר הפוליטי איפשר. שש השושלות האחרות, ללא מגע ישיר מתמשך עם הבורא-מורה, התפתחו לאט יותר והגיעו לרמות נמוכות יותר של יכולת טכנולוגית באותה התקופה.
 
-## The framework's account
+## דיווח המסגרת
 
-The corpus's reading of the antediluvian period is among the most operationally specific in the framework. The basis is the Raëlian source material — particularly *The Book Which Tells the Truth* (1974), with substantial elaboration through subsequent works — combined with the precessional chronology that maps Genesis 2:4–6:8 to the Age of Cancer. The Genesis text is treated as a literally accurate compressed account of real events, with the apparent cosmological strangeness (the longevity figures, the *benei ha-Elohim*, the *Nephilim*) read in the technical register the corpus develops.
+קריאת הקורפוס של התקופה הטרום-מבולית היא בין הספציפיות תפעולית ביותר במסגרת. הבסיס הוא חומר המקור הראליאני — במיוחד *הספר המספר את האמת* (1974),{{ cite(id="the-book-which-tells-the-truth", text="[12]", title="וורילון (ראל), *הספר המספר את האמת* (1974), פרק 2 — המקור הראליאני היסודי לתקופה הטרום-מבולית") }} עם פירוט מהותי באמצעות יצירות מאוחרות יותר — בשילוב עם הכרונולוגיה של עידני הנקיפה הממפה את בראשית ב:4–ו:8 לעידן הסרטן. הטקסט של בראשית מטופל כדיווח דחוס מדויק מילולית של אירועים אמיתיים, כאשר המוזרות הקוסמולוגית לכאורה (נתוני אריכות החיים, בְּנֵי הָאֱלֹהִים, הנְפִילִים) נקראת ברגיסטר הטכני שהקורפוס מפתח.
 
-### The seven civilizations
+### שבע הציוויליזציות
 
-By the early Age of Cancer, each of the seven creator teams' human populations had begun to multiply, organize, and develop civilizations of its own. The seven lineages distributed roughly as follows across the supercontinent, on the corpus's identification:
+בתחילת עידן הסרטן, כל אחת מהאוכלוסיות האנושיות של שבעת צוותי הבריאה החלה להתרבות, להתארגן ולפתח ציוויליזציה משלה. שבע השושלות התפלגו בערך כדלקמן ברחבי יבשת-העל, על פי הזיהוי של הקורפוס:
 
-- The **Eden lineage** in the eastern Mediterranean and Levantine portion — the territory that, after the breakup, would become Israel, Greece, Turkey, and the surrounding eastern Mediterranean coastlands. This is the lineage whose history the Hebrew Bible records in detail.
-- The **African lineage** south of the Mediterranean region, possibly extending across what is now the Sahara (which during the antediluvian period was substantially wetter, supporting populations the modern desert cannot).
-- The **South Asian lineage** in the Indus Valley region and surrounding territories.
-- The **East Asian lineage** in what would become the Chinese mainland and adjacent regions.
-- The **American lineage** in the territory that would become Mesoamerica or the Andes.
-- The **Oceanic lineage** in the supercontinent portion that would later become Australia and the Pacific island chains.
-- The **Northern European lineage** in what would become Scandinavia and surrounding northern lands.
+- **שושלת עדן** באזור הים התיכון המזרחי והלבנטיני — הטריטוריה אשר, לאחר ההתפרקות, תהפוך לישראל, יוון, טורקיה, וחופי הים התיכון המזרחי הסובבים. זוהי השושלת שאת ההיסטוריה שלה רושם המקרא העברי בפירוט.
+- **השושלת האפריקאית** מדרום לאזור הים התיכון, אולי משתרעת על פני מה שהוא כיום הסהרה (שבמהלך התקופה הטרום-מבולית הייתה רטובה מהותית, תומכת באוכלוסיות שהמדבר המודרני אינו יכול).
+- **השושלת הדרום-אסיאתית** באזור עמק האינדוס והטריטוריות הסובבות.
+- **השושלת המזרח-אסיאתית** במה שיהפוך ליבשת הסינית ולאזורים הסמוכים.
+- **השושלת האמריקאית** בטריטוריה שתהפוך למסואמריקה או לאנדים.
+- **השושלת האוקיאנית** בחלק יבשת-העל שיהפוך מאוחר יותר לאוסטרליה ולשרשראות איי האוקיינוס השקט.
+- **השושלת הצפון-אירופית** במה שיהפוך לסקנדינביה ולארצות הצפון הסובבות.
 
-The geographic identifications are partially speculative; the Raëlian source material does not specify the exact locations of the seven teams in detail. What the source establishes is that the seven teams worked in seven distinct regions of the supercontinent and that these regions corresponded broadly to the geographic origins of the major human population groups whose distributions the post-Flood world would inherit.
+הזיהויים הגיאוגרפיים ספקולטיביים חלקית; חומר המקור הראליאני אינו מציין את המיקומים המדויקים של שבעת הצוותים בפירוט. מה שהמקור מבסס הוא ששבעת הצוותים עבדו בשבעה אזורים מובחנים של יבשת-העל ושאזורים אלה תאמו באופן רחב את המקורות הגיאוגרפיים של קבוצות האוכלוסייה האנושית הגדולות שאת התפוצותיהן ירש העולם שלאחר המבול.
 
-The seven civilizations were in continuous contact through the supercontinent's overland trade routes and coastal maritime networks. Goods moved between regions; ideas and technologies moved; genetic material moved through migration and intermarriage. The cultural traditions of the seven, while distinctive enough to remain identifiable, were in continuous mutual influence. The picture is not one of seven isolated populations developing independently but of a global civilizational network — comparable in connectedness to the medieval Silk Road or the early modern European exploration networks, with the differences that the connections were continental rather than maritime and that the network sustained itself for approximately two thousand years across the Cancer age.
+שבע הציוויליזציות היו במגע מתמשך באמצעות נתיבי הסחר היבשתיים של יבשת-העל ורשתות ימיות חופיות. סחורות נעו בין האזורים; רעיונות וטכנולוגיות נעו; חומר גנטי נע באמצעות הגירה ונישואי תערובת. המסורות התרבותיות של השבע, אם כי מובחנות מספיק כדי להישאר ניתנות לזיהוי, היו בהשפעה הדדית מתמשכת. התמונה אינה של שבע אוכלוסיות מבודדות המתפתחות באופן עצמאי אלא של רשת ציוויליזציונית גלובלית — דומה במידת הקישוריות לדרך המשי בימי הביניים או לרשתות החקירה האירופיות של העת החדשה המוקדמת, עם ההבדלים שהקשרים היו יבשתיים ולא ימיים ושהרשת שמרה על עצמה במשך כאלפיים שנה לאורך עידן הסרטן.
 
-The political relations among the seven were not always peaceful. The Raëlian source material is explicit that the antediluvian period included substantial inter-human conflict, with the corpus reading these "abominable battles" as warfare conducted with technologies the Lucifer faction had transmitted to the Eden lineage and that had subsequently spread, through trade and diffusion, to the other civilizations. The military scale and intensity, on the corpus's reading, exceeded anything the post-Flood world would approach until the industrial era and possibly until the twentieth century.
+היחסים הפוליטיים בין השבע לא תמיד היו שלווים. חומר המקור הראליאני מפורש בכך שהתקופה הטרום-מבולית כללה סכסוך בין-אנושי מהותי, כאשר הקורפוס קורא את »הקרבות הנוראים« הללו כלוחמה שהתנהלה בטכנולוגיות שסיעת לוציפר העבירה לשושלת עדן ואשר התפשטו לאחר מכן, באמצעות סחר ודיפוזיה, לציוויליזציות האחרות. קנה המידה והעוצמה הצבאיים, על פי קריאת הקורפוס, חרגו מכל דבר שהעולם שלאחר המבול יתקרב אליו עד העידן התעשייתי ואולי עד המאה העשרים.
 
-### The Eden lineage's compounding advantages
+### היתרונות המצטברים של שושלת עדן
 
-The Eden lineage held a privileged position among the seven, on the corpus's reading, through a compounding combination of factors that gave it a substantial and sustained lead over the other six. The corpus identifies five such factors:
+שושלת עדן החזיקה בעמדה מועדפת בקרב השבע, על פי קריאת הקורפוס, באמצעות שילוב מצטבר של גורמים שהעניק לה הובלה מהותית ומתמשכת על שש האחרות. הקורפוס מזהה חמישה גורמים כאלה:
 
-**First**, the source material's specific characterization of the Israel-team humans as the most intelligent of the seven team outputs at the moment of their creation. The corpus treats this as a specific factual claim of the source about one team's particular work, not as licensing of any moral or modern hierarchical reading; the *ṣelem Elohim* — the "image of Elohim" granted in Genesis 1:27 — is shared equally by all human lineages and is the basis of universal human dignity that no historical claim about ancestry can override.
+**ראשית**, אפיון חומר המקור הספציפי של בני האדם של צוות ישראל כאינטליגנטיים ביותר משבעת הפלטים של הצוותים ברגע יצירתם. הקורפוס מתייחס לזה כאל טענה עובדתית ספציפית של המקור על עבודתו המסוימת של צוות אחד, ולא כרישוי של שום קריאה מוסרית או היררכית מודרנית; ה<span class="hebrew">צֶלֶם אֱלֹהִים</span> — »צלם האלוהים« שניתן ב{% libref(book="genesis-woh", chapter=1, verse=27) %}בראשית א:27{% end %} — משותף שווה לכל השושלות האנושיות ומהווה את הבסיס לכבוד אנושי אוניברסלי שאין שום טענה היסטורית על מוצא יכולה לבטל.
 
-**Second**, the continued direct presence of the Lucifer faction as ongoing teachers. The other six lineages had received initial instruction from their founding teams during Leo and then lost continuous direct contact when those teams withdrew at the close of the Eden crisis. The Eden lineage retained the Lucifer faction permanently. The dissident Elohim continued to teach across the centuries, refining the Eden lineage's understanding of the sciences and technologies the home world had originally prohibited.
+**שנית**, הנוכחות הישירה המתמשכת של סיעת לוציפר כמורים מתמשכים. שש השושלות האחרות קיבלו הוראה ראשונית מצוותיהן המייסדים במהלך האריה ואז איבדו מגע ישיר מתמשך כאשר אותם צוותים נסוגו בסגירת משבר עדן. שושלת עדן שמרה את סיעת לוציפר לצמיתות. האלוהים הסוררים המשיכו ללמד לאורך המאות, ומחדדים את הבנת שושלת עדן את המדעים והטכנולוגיות שהעולם הביתי אסר במקור.
 
-**Third**, the longevity treatment granted to the Eden lineage's patriarchal leadership. The Genesis 5 genealogy records specific ages — Adam at 930 years, Seth at 912, Enosh at 905, Mahalalel at 895, Jared at 962, Methuselah at 969, Lamech at 777, and Noah at 950 — for the line descending from Adam through Seth to Noah. These extended lifespans, on the corpus's reading, are the consequence of the Tree of Life longevity technology that the Lucifer faction managed to obtain on a limited and case-by-case basis for the Eden civilization's leadership. The longevity was not hereditary in the broad sense; the general human population, including the descendants of Cain and the broader populations of the other six civilizations, lived ordinary human lifespans on the order of decades. The civilizational consequences of this asymmetry are substantial: a leader living nine hundred years can pursue research projects across multiple ordinary generations, integrate fields of expertise that in a short-lived civilization would be siloed across separate practitioners, and let personal memory function as institutional memory in ways no short-lived civilization can match.
+**שלישית**, הטיפול בהארכת חיים שניתן למנהיגות הפטריארכלית של שושלת עדן. הגנאלוגיה של {% libref(book="genesis-woh", chapter=5) %}בראשית ה{% end %} רושמת גילים ספציפיים — אָדָם בן 930 שנים, שֵׁת בן 912, אֱנוֹשׁ בן 905, מַהֲלַלְאֵל בן 895, יֶרֶד בן 962, מְתוּשֶׁלַח בן 969, לֶמֶךְ בן 777, ונֹחַ בן 950 — עבור הקו היורד מאדם דרך שֵׁת לנֹחַ.{{ footnote(id="3") }} אריכויות החיים המורחבות הללו, על פי קריאת הקורפוס, הן תוצאה של טכנולוגיית {% wiki(slug="tree-of-life") %}עץ החיים{% end %} של הארכת חיים שסיעת לוציפר הצליחה להשיג על בסיס מוגבל ומקרה-מקרה עבור מנהיגות ציוויליזציית עדן. אריכות החיים לא הייתה תורשתית במובן הרחב; האוכלוסייה האנושית הכללית, לרבות צאצאי קַיִן והאוכלוסיות הרחבות של שש הציוויליזציות האחרות, חיו אריכויות חיים אנושיות רגילות בסדר גודל של עשורים. ההשלכות הציוויליזציוניות של אסימטריה זו מהותיות: מנהיג החי תשע מאות שנים יכול לרדוף פרויקטי מחקר על פני מספר דורות רגילים, לאחד תחומי מומחיות שבציוויליזציה קצרת-חיים יהיו מבודדים בין עוסקים נפרדים, ולאפשר לזיכרון אישי לתפקד כזיכרון מוסדי באופנים שאף ציוויליזציה קצרת-חיים אינה יכולה להשוות.
 
-**Fourth**, the hybrid offspring of the *benei ha-Elohim* — the "sons of Elohim" who took human women as wives — produced the *Nephilim*, the "men of renown" of Genesis 6:4. By mid-Cancer these hybrids were a substantial population within the Eden civilization, possessing capabilities approaching the Elohim's own. They became leaders, warriors, builders, and scientists, naturally rising to positions of substantial authority. The Eden civilization was therefore not only being taught by the exiled Elohim but was incorporating Elohim genetic material directly into its leadership population.
+**רביעית**, צאצאי הכלאיים של בְּנֵי הָאֱלֹהִים — »בני אלוהים« שלקחו נשים אנושיות — הפיקו את הנְפִילִים, »גיבורים אשר מעולם אנשי השם« של {% libref(book="genesis-woh", chapter=6, verse=4) %}בראשית ו:4{% end %}. עד אמצע הסרטן כלאיים אלה היו אוכלוסייה מהותית בתוך ציוויליזציית עדן, בעלי יכולות המתקרבות לאלו של האלוהים עצמם. הם הפכו למנהיגים, לוחמים, בונים ומדענים, ועלו באופן טבעי לעמדות של סמכות מהותית. ציוויליזציית עדן לא רק לימדה אם כן על ידי האלוהים הגולים אלא שילבה חומר גנטי של אלוהים ישירות באוכלוסיית המנהיגות שלה.
 
-**Fifth**, the technologies the exiled creators transmitted, including the military arsenal that produced the "abominable battles" the source describes. The Eden civilization possessed advanced peaceful and military technologies; the other civilizations developed their own through their research programs and through diffusion, but the Eden civilization remained at the leading edge throughout the age.
+**חמישית**, הטכנולוגיות שהבוראים הגולים העבירו, לרבות הארסנל הצבאי שהפיק את »הקרבות הנוראים« שהמקור מתאר. ציוויליזציית עדן החזיקה טכנולוגיות שלום וצבאיות מתקדמות; הציוויליזציות האחרות פיתחו את שלהן באמצעות תוכניות המחקר שלהן ובאמצעות דיפוזיה, אך ציוויליזציית עדן נותרה בקצה המוביל לאורך כל העידן.
 
-The compounding effect — talented founding population, continuous direct instruction by creator-teachers, longevity for leaders, hybrid-Elohim genetic material in the leadership stock, advanced technologies — produced a civilization that, by the end of the Age of Cancer, had advanced to a level the corpus treats with substantial epistemic humility. The physical evidence is fragmentary, most of what existed having been destroyed in the Flood. The cultural memories preserved in subsequent traditions give hints. The corpus licenses serious speculation that the Eden civilization may have been comparable to or in some respects exceeding the present-day technological civilization; the source material itself does not specify the peak capability, but the dramaturgical implication is clear: the civilization advanced *far enough that the home world considered intervention unavoidable*.
+האפקט המצטבר — אוכלוסייה מייסדת מוכשרת, הוראה ישירה מתמשכת על ידי בוראים-מורים, אריכות חיים למנהיגים, חומר גנטי כלאיים-אלוהים במלאי המנהיגות, טכנולוגיות מתקדמות — הפיק ציוויליזציה אשר, עד סוף עידן הסרטן, התקדמה לרמה שהקורפוס מטפל בה בענווה אפיסטמית מהותית. הראיות הפיזיות מקוטעות, כאשר רוב מה שהתקיים הושמד במבול. הזיכרונות התרבותיים השמורים במסורות מאוחרות יותר נותנים רמזים. הקורפוס מרשה ספקולציה רצינית שציוויליזציית עדן הייתה אולי דומה לציוויליזציה הטכנולוגית של ימינו או בכמה מובנים חורגת ממנה; חומר המקור עצמו אינו מציין את היכולת השיא, אך ההשלכה הדרמטית ברורה: הציוויליזציה התקדמה *רחוק מספיק כדי שהעולם הביתי שקל התערבות כבלתי-נמנעת*.
 
-### Cain, Seth, and the early human civilizations
+### קַיִן, שֵׁת, והציוויליזציות האנושיות המוקדמות
 
-The biblical account in Genesis 4–5 names specific individuals as the founders of specific cultural and technological developments, in a genealogical structure the corpus treats as substantively accurate. The line of Cain produces, within a few generations of the expulsion: pastoral nomadism (Jabal, Genesis 4:20), music (Jubal, 4:21), and metallurgy (Tubal-Cain, 4:22). These are not the inventions of vague primitive humans; they are specific cultural and technological developments attributed to specific named persons whose genealogies the text preserves. The line of Seth — the line through which the longevity treatment is transmitted, on the corpus's reading, by the exiled Elohim teachers — produces the patriarchal leadership that will carry the Eden civilization through to Noah.
+הדיווח המקראי בבראשית ד–ה מציין אנשים ספציפיים כמייסדי התפתחויות תרבותיות וטכנולוגיות ספציפיות, במבנה גנאלוגי שהקורפוס מטפל בו כמדויק במהותו. קו קַיִן מפיק, בתוך כמה דורות מהגירוש: נוודות רועית (יָבָל, {% libref(book="genesis-woh", chapter=4, verse=20) %}בראשית ד:20{% end %}), מוסיקה (יוּבָל, {% libref(book="genesis-woh", chapter=4, verse=21) %}ד:21{% end %}), ומטלורגיה (תּוּבַל קַיִן, {% libref(book="genesis-woh", chapter=4, verse=22) %}ד:22{% end %}). אלה אינן המצאות של בני אדם פרימיטיביים מעורפלים; הן התפתחויות תרבותיות וטכנולוגיות ספציפיות המיוחסות לאנשים מסוימים ששמותיהם וגנאלוגיותיהם הטקסט שומר. קו שֵׁת — הקו שדרכו מועברת הטיפול בהארכת החיים, על פי קריאת הקורפוס, על ידי המורים האלוהים הגולים — מפיק את המנהיגות הפטריארכלית שתישא את ציוויליזציית עדן עד נֹחַ.
 
-The corpus reads the parallel genealogies as preserving the dual character of the early Eden civilization: the practical and technical developments are the work of one line, the long-lived institutional leadership is the work of another, and together they produced the civilizational substrate that the Cancer age would elaborate. The other six civilizations across the supercontinent would have produced their own parallel sets of cultural founders, attributed in their own surviving traditions (where any survived the Flood and the long subsequent transmission) to their own named figures. By the end of the first millennium of Cancer, the supercontinent contained substantial and culturally diverse human civilizations, with the foundational technologies of pastoralism, agriculture, metallurgy, music, urbanism, and sea-craft already established and propagating.
+הקורפוס קורא את הגנאלוגיות המקבילות כשומרות את האופי הכפול של ציוויליזציית עדן המוקדמת: ההתפתחויות המעשיות והטכניות הן עבודתו של קו אחד, המנהיגות המוסדית ארוכת-החיים היא עבודתו של קו אחר, ויחד הן הפיקו את המצע הציוויליזציוני שעידן הסרטן יפרט. שש הציוויליזציות האחרות ברחבי יבשת-העל היו מפיקות את הסטים המקבילים שלהן של מייסדים תרבותיים, מיוחסים במסורות השומרות שלהן (היכן ששרדה כלשהי את המבול ואת המסירה הארוכה שלאחר מכן) לדמויות הנקראות בשם משלהן. עד סוף האלף הראשון של הסרטן, יבשת-העל הכילה ציוויליזציות אנושיות מהותיות ומגוונות תרבותית, כאשר הטכנולוגיות היסודיות של רעיה, חקלאות, מטלורגיה, מוסיקה, עירוניות, וימאות כבר מבוססות ומתרבות.
 
-### The Sons of Elohim and the Nephilim
+### בני האלוהים והנפילים
 
-Genesis 6:1–4 introduces, in four compressed verses, one of the most consequential and most widely misread passages in the Hebrew Bible:
+{% libref(book="genesis-woh", chapter=6, verse=1) %}בראשית ו:1–4{% end %} מציגה, בארבעה פסוקים דחוסים, אחד הקטעים המשמעותיים ביותר והנקראים בצורה מוטעית באופן הנרחב ביותר במקרא העברי:
 
-> "And it came to pass, when humankind began to multiply on the face of the ground, and daughters were born unto them, that the *benei ha-Elohim* saw the daughters of men that they were fair, and they took them wives of all that they chose. … There were *Nephilim* in the earth in those days, and also after that, when the *benei ha-Elohim* came in unto the daughters of men, and they bore children to them: the same were the mighty men that were of old, the men of renown."
+{% library(book="genesis-woh", chapter=6, verse=1) %}
+וַיְהִי כִּי-הֵחֵל הָאָדָם, לָרֹב עַל-פְּנֵי הָאֲדָמָה; וּבָנוֹת, יֻלְּדוּ לָהֶם. וַיִּרְאוּ בְנֵי-הָאֱלֹהִים אֶת-בְּנוֹת הָאָדָם, כִּי טֹבֹת הֵנָּה; וַיִּקְחוּ לָהֶם נָשִׁים, מִכֹּל אֲשֶׁר בָּחָרוּ. … הַנְּפִלִים הָיוּ בָאָרֶץ, בַּיָּמִים הָהֵם, וְגַם אַחֲרֵי-כֵן אֲשֶׁר יָבֹאוּ בְּנֵי הָאֱלֹהִים אֶל-בְּנוֹת הָאָדָם, וְיָלְדוּ לָהֶם: הֵמָּה הַגִּבֹּרִים אֲשֶׁר מֵעוֹלָם, אַנְשֵׁי הַשֵּׁם.
+{% end %}
 
-The corpus reads this passage at face value. The *benei ha-Elohim* — the "sons of Elohim," with the definite article making the reference specific rather than generic — are members of the Elohim civilization, identifiable on the corpus's reading as the exiled Lucifer faction whose continuing presence on Earth is the structural feature of the post-Eden period. The "daughters of men" are human women of the Eden lineage. The unions are biological unions between two species closely enough related to permit fertile reproduction. The *Nephilim* are the hybrid offspring of these unions, possessing capabilities the source material describes as exceptional and that the broader ancient tradition (the Book of Enoch, the Book of Jubilees, and the Watchers tradition more generally) preserves in elaborated form.
+הקורפוס קורא קטע זה כפשוטו. בְּנֵי הָאֱלֹהִים — »בני {% wiki(slug="elohim") %}האלוהים{% end %}«, כאשר ה-ה' הידיעה הופכת את ההפניה לספציפית ולא לגנרית — הם חברי ציוויליזציית האלוהים, הניתנים לזיהוי על פי קריאת הקורפוס כסיעת לוציפר הגולה שנוכחותה המתמשכת על כדור הארץ היא התכונה המבנית של התקופה שלאחר עדן. »בנות האדם« הן נשים אנושיות של שושלת עדן. האיחודים הם איחודים ביולוגיים בין שני מינים הקרובים מספיק כדי לאפשר רבייה פוריה. הנְפִילִים הם צאצאי הכלאיים של איחודים אלה, בעלי יכולות שחומר המקור מתאר כיוצאות דופן ושהמסורת הקדומה הרחבה יותר (ספר חנוך, ספר היובלים, ומסורת הצופים בכלל) שומרת בצורה מפותחת.
 
-The corpus's reading is straightforward where conventional theological readings have been forced into either supernatural or apologetic constructions. The conventional alternatives — the *benei ha-Elohim* as "sons of God" in some metaphorical sense, as morally exceptional human descendants of Seth, as nobility taking commoner wives, as fallen angels in the patristic / pseudepigraphical tradition — each have textual or conceptual difficulties that the corpus's reading does not. The Hebrew text says what it says: specific beings of the Elohim category, taking specific human women as wives, producing specific exceptional offspring. The corpus treats this account as preserving an accurate compressed memory of a real biological situation in which the antediluvian world found itself.
+קריאת הקורפוס היא ישרה במקום שבו קריאות תיאולוגיות מקובלות נדחפו לבניינים על-טבעיים או אפולוגטיים. החלופות המקובלות — בְּנֵי הָאֱלֹהִים כ»בני אלוהים« במובן מטאפורי כלשהו, כצאצאים אנושיים יוצאי דופן מבחינה מוסרית של שֵׁת, כאצולה הלוקחת נשים פשוטות, כמלאכים נופלים במסורת הפטריסטית / הפסבדאפיגרפית — לכל אחת מהן יש קשיים טקסטואליים או קונספטואליים שלקריאת הקורפוס אין. הטקסט העברי אומר את מה שהוא אומר: יצורים ספציפיים של קטגוריית האלוהים, הלוקחים נשים אנושיות ספציפיות, מפיקים צאצאים יוצאי דופן ספציפיים. הקורפוס מתייחס לדיווח זה כשומר זיכרון דחוס מדויק של מצב ביולוגי אמיתי שבו נמצא העולם הטרום-מבולי.
 
-### The Flood decision
+### החלטת המבול
 
-By late Cancer, on the corpus's reading, the conditions that would produce the Flood were converging. The home-world leadership had been observing the Earth project across the entire duration of the antediluvian period through the communications channels Yahweh and the Council maintained. The original concerns of the home-world authorities — that fully enlightened humans might eventually pose a threat to the creator civilization — had originally been addressed through the policy of containment: the humans were to be kept in scientific ignorance, denied access to the longevity technology, restricted from acquiring capabilities approaching the makers' own.
+בסוף הסרטן, על פי קריאת הקורפוס, התנאים שיפיקו את המבול התכנסו. מנהיגות העולם הביתי הייתה בתצפית על פרויקט כדור הארץ לאורך כל משך התקופה הטרום-מבולית באמצעות ערוצי התקשורת ש{% wiki(slug="yahweh") %}יהוה{% end %} והמועצה שמרו. הדאגות המקוריות של רשויות העולם הביתי — שבני אדם נאורים לחלוטין עלולים בסופו של דבר להוות איום על ציוויליזציית הבוראים — טופלו במקור באמצעות מדיניות ההכלה: בני האדם היו אמורים להישמר בבורות מדעית, מנועים מגישה לטכנולוגיית הארכת החיים, מוגבלים מרכישת יכולות המתקרבות לאלו של היוצרים עצמם.
 
-The policy had failed. Lucifer's faction had disclosed the prohibited knowledge in the Eden episode at the boundary of Leo and Cancer; the longevity had been granted to the Eden patriarchal leadership across the subsequent generations; the technologies had been transmitted continuously through Lucifer-faction teaching; the hybrid offspring had been produced through *benei ha-Elohim* unions; the wars between the supercontinent's civilizations had demonstrated that the destructive capacity was real and was being deployed. From the home-world perspective, watching all of this unfold across two thousand years, the conclusion was inescapable: the constraints had failed, the Earth experiment had produced precisely the kind of threat the original opponents had warned against, and action was required.
+המדיניות נכשלה. סיעת לוציפר גילתה את הידע האסור באפיזודת עדן בגבול האריה והסרטן; הארכת החיים ניתנה למנהיגות הפטריארכלית של עדן לאורך הדורות שלאחר מכן; הטכנולוגיות הועברו ברציפות באמצעות הוראה של סיעת לוציפר; צאצאי הכלאיים הופקו באמצעות איחודי בְּנֵי הָאֱלֹהִים; המלחמות בין ציוויליזציות יבשת-העל הוכיחו שהיכולת ההרסנית הייתה אמיתית ושנפרסה. מנקודת המבט של העולם הביתי, הצופה בכל זה מתפרש לאורך אלפיים שנה, המסקנה הייתה בלתי-נמנעת: האילוצים נכשלו, ניסוי כדור הארץ הפיק בדיוק את סוג האיום שמתנגדים מקוריים הזהירו מפניו, ופעולה נדרשה.
 
-The deliberation in the home-world Council across the closing centuries of Cancer was substantial. The Satan faction — the home-world political party that had opposed the Earth program from its inception, on the grounds that synthetic creations capable of equaling or surpassing their makers were fundamentally dangerous — argued that the conditions they had warned against had now materialized and that the Earth creation must be destroyed before it became an actual threat to the home civilization itself. The Yahweh-led moderate position, which had supported preservation of the creation under the containment policy that was now visibly failing, faced the question of how to respond to a situation the policy had not been adequate to prevent. The Lucifer faction, exiled on Earth and personally invested in the human civilization they had been teaching, opposed any destructive intervention and would eventually become the operational force preserving a remnant through the ark.
+הדיון במועצת העולם הביתי לאורך המאות הסוגרות של הסרטן היה מהותי. סיעת שָׂטָן — המפלגה הפוליטית של העולם הביתי שהתנגדה לתוכנית כדור הארץ מראשיתה, בנימוק שיצירות סינתטיות המסוגלות להשתוות לבוראיהן או לעלות עליהן מסוכנות ביסודן — טענה שהתנאים שהוזהרו מפניהם התממשו עתה ושיש להשמיד את הבריאה הארצית לפני שתהפוך לאיום ממשי על הציוויליזציה הביתית עצמה. העמדה המתונה בראשות יהוה, שתמכה בשימור הבריאה תחת מדיניות ההכלה שנכשלה כעת בגלוי, התמודדה עם השאלה כיצד להגיב למצב שהמדיניות לא הייתה מספקת למניעתו. סיעת לוציפר, גולה על כדור הארץ ומושקעת אישית בציוויליזציה האנושית שלימדה, התנגדה לכל התערבות הרסנית ובסופו של דבר תהפוך לכוח התפעולי השומר שריד באמצעות התיבה.
 
-The decision the Council ultimately reached was the Flood — a catastrophic intervention of sufficient magnitude to end the antediluvian world and to set the post-Flood project on substantially reduced terms. Genesis 6:13 records the announcement of the decision to Noah. The mechanism, magnitude, and consequences of the Flood event itself are treated in the [Great Flood](../great-flood/) entry. What matters for the present entry is that the antediluvian world, by the closing decades of Cancer, was a world that the home-world authorities had decided could not be allowed to continue.
+ההחלטה שהמועצה הגיעה אליה בסופו של דבר הייתה המבול — התערבות קטסטרופלית בסדר גודל מספיק לסיים את העולם הטרום-מבולי ולהציב את פרויקט שלאחר המבול על תנאים מופחתים מהותית. {% libref(book="genesis-woh", chapter=6, verse=13) %}בראשית ו:13{% end %} רושמת את הכרזת ההחלטה לנֹחַ. המנגנון, סדר הגודל וההשלכות של אירוע המבול עצמו מטופלים בערך {% wiki(slug="great-flood") %}המבול הגדול{% end %}. מה שחשוב לערך הנוכחי הוא שהעולם הטרום-מבולי, בעשורים הסוגרים של הסרטן, היה עולם שרשויות העולם הביתי החליטו שלא ניתן להניח לו להמשיך.
 
-## Participants and figures
+## משתתפים ודמויות
 
-The antediluvian period's principal participants distribute across several categories.
+המשתתפים העיקריים של התקופה הטרום-מבולית מתפלגים במספר קטגוריות.
 
-The **Eden-lineage human leadership** is the most fully preserved in the textual record. The patriarchs of the Genesis 5 genealogy — Adam, Seth, Enosh, Kenan, Mahalalel, Jared, Enoch, Methuselah, Lamech, and Noah — are the named figures of the long-lived Sethite line. Each receives more or less extended treatment in the dedicated entries on the figures themselves; what matters here is that these are the political and intellectual leaders of the Eden civilization across the period, with their long lifespans permitting continuity of leadership across what would otherwise be many ordinary generations. Enoch's case is particularly significant: Genesis 5:24 records that "Enoch walked with Elohim, and he was not, for Elohim took him" — read by the corpus as Enoch's translation to the home world, with the substantial Enochic literature of the Second Temple period (1 Enoch, 2 Enoch, 3 Enoch) preserving traditions about his subsequent role.
+**המנהיגות האנושית של שושלת עדן** היא הנשמרת באופן המלא ביותר בתיעוד הטקסטואלי. הפטריארכים של הגנאלוגיה ב{% libref(book="genesis-woh", chapter=5) %}בראשית ה{% end %} — אָדָם, שֵׁת, אֱנוֹשׁ, קֵינָן, מַהֲלַלְאֵל, יֶרֶד, חֲנוֹךְ, מְתוּשֶׁלַח, לֶמֶךְ ונֹחַ — הם הדמויות הנקראות בשם של קו שֵׁת ארוך-הימים. כל אחד מקבל טיפול נרחב פחות או יותר בערכים הייעודיים על הדמויות עצמן; מה שחשוב כאן הוא שאלה הם המנהיגים הפוליטיים והאינטלקטואליים של ציוויליזציית עדן לאורך התקופה, כאשר אריכויות החיים הארוכות שלהם מאפשרות רציפות מנהיגות לאורך מה שאחרת היו דורות רגילים רבים. המקרה של חֲנוֹךְ משמעותי במיוחד: בראשית ה:24 רושמת ש»וַיִּתְהַלֵּךְ חֲנוֹךְ אֶת-הָאֱלֹהִים; וְאֵינֶנּוּ, כִּי-לָקַח אֹתוֹ אֱלֹהִים« — נקרא על ידי הקורפוס כתרגום של חֲנוֹךְ לעולם הביתי, כאשר הספרות החנוכית המהותית של תקופת הבית השני (חנוך א, חנוך ב, חנוך ג) שומרת מסורות על תפקידו שלאחר מכן.
 
-The **Cain-lineage cultural founders** of Genesis 4 — Cain, Enoch (the city-founder, distinct from the Sethite Enoch), Irad, Mehujael, Methushael, Lamech, and Lamech's children Jabal, Jubal, and Tubal-Cain — are the figures of the parallel technical-cultural line. The Cain line is recorded with shorter genealogical sequence (seven generations to Lamech versus Seth's ten generations to Noah) and without the long lifespans of the Sethite patriarchs.
+**המייסדים התרבותיים של שושלת קַיִן** של {% libref(book="genesis-woh", chapter=4) %}בראשית ד{% end %} — קַיִן, חֲנוֹךְ (מייסד העיר, מובחן מחֲנוֹךְ של שֵׁת), עִירָד, מְחוּיָאֵל, מְתוּשָׁאֵל, לֶמֶךְ, וילדיו של לֶמֶךְ יָבָל, יוּבָל ותּוּבַל קַיִן — הם הדמויות של הקו הטכני-תרבותי המקביל. קו קַיִן רשום עם רצף גנאלוגי קצר יותר (שבעה דורות עד לֶמֶךְ לעומת עשרה דורות של שֵׁת עד נֹחַ) וללא אריכויות החיים הארוכות של הפטריארכים השֵׁתִיים.
 
-The **exiled Lucifer faction** — the Elohim scientists who remained on Earth after the Eden settlement — are the continuing alliance presence across the antediluvian period. Their specific identities and individual roles are not preserved in the surviving textual record, but their collective presence is the operational basis for the Eden lineage's distinctive trajectory. The faction's named leader is Lucifer, treated in his own dedicated entry; his subordinates and team members are not individually identified.
+**סיעת לוציפר הגולה** — מדעני האלוהים שנשארו על כדור הארץ לאחר הסדר עדן — היא נוכחות הברית המתמשכת לאורך התקופה הטרום-מבולית. זהויותיהם הספציפיות ותפקידיהם האישיים אינם נשמרים בתיעוד הטקסטואלי השורד, אך נוכחותם הקולקטיבית היא הבסיס התפעולי למסלול הייחודי של שושלת עדן. המנהיג הנקרא בשם של הסיעה הוא לוציפר, המטופל בערך הייעודי שלו; הכפופים לו וחברי הצוות שלו אינם מזוהים אישית.
 
-The ***Nephilim*** are the hybrid offspring of the *benei ha-Elohim* unions, and the Watchers tradition of the Enochic literature elaborates their stories at substantial length. The biblical text gives the names of specific *Nephilim* in only limited cases (the Anakim, Rephaim, and Emim of later biblical references are sometimes treated as descendants of the antediluvian *Nephilim*; the Anakim of Numbers 13:33 are explicitly identified with the *Nephilim*).
+ה***נְפִילִים*** הם צאצאי הכלאיים של איחודי בְּנֵי הָאֱלֹהִים, ומסורת הצופים של הספרות החנוכית מפתחת את סיפוריהם באריכות מהותית. הטקסט המקראי נותן את שמות הנְפִילִים הספציפיים רק במקרים מוגבלים (העֲנָקִים, רְפָאִים, ואֵימִים של ההפניות המקראיות המאוחרות יותר נחשבים לעיתים לצאצאי הנְפִילִים הטרום-מבוליים; העֲנָקִים של במדבר י»ג:33 מזוהים במפורש עם הנְפִילִים).
 
-The **home-world Council** under Yahweh's presidency is the political body whose deliberations across the antediluvian period produced the Flood decision. Its composition and procedures are treated more fully in the [Council of the Eternals](../council-of-eternals/) entry.
+**מועצת העולם הביתי** בנשיאות יהוה היא הגוף הפוליטי שדיוניו לאורך התקופה הטרום-מבולית הפיקו את החלטת המבול. הרכבה ונהליה מטופלים באופן מלא יותר בערך {% wiki(slug="council-of-eternals") %}מועצת הנצחיים{% end %}.
 
-## Surviving evidence and traces
+## ראיות וסימנים ששרדו
 
-The corpus's reading of the antediluvian period predicts that fragmentary memories and material traces of this period would survive into the post-Flood world through the various surviving populations and through whatever physical evidence the catastrophic Flood event did not destroy. Three categories of surviving evidence bear particular weight.
+קריאת הקורפוס של התקופה הטרום-מבולית חוזה שזיכרונות מקוטעים וסימנים חומריים של תקופה זו ישרדו לעולם שלאחר המבול באמצעות האוכלוסיות השונות ששרדו ובאמצעות כל ראיה פיזית שאירוע המבול הקטסטרופלי לא השמיד. שלוש קטגוריות של ראיות ששרדו נושאות משקל מסוים.
 
-### Atlantis and the Plato tradition
+### אטלנטיס ומסורת אפלטון
 
-Plato's *Timaeus* and *Critias* preserve the most famous of the lost-civilization traditions. The *Timaeus* introduces the story through Critias, who reports having heard it from his grandfather, who in turn had received it from Solon, who had received it from Egyptian priests at Sais. Plato's chronology places the events approximately nine thousand years before his own time. Plato wrote in the early fourth century BCE; nine thousand years before that lands in the early Age of Cancer on the corpus's reckoning, with what the framework treats as remarkable precision. The *Critias* dialogue gives extensive specific detail: the concentric rings of land and water surrounding the central city, the size of the engineering works, the agricultural systems, the political organization (a confederation of kings), the maritime capabilities, the cultural sophistication. The level of specific detail strongly suggests that Plato (or the Egyptian sources behind Plato) had access to a coherent tradition about a real pre-Flood civilization rather than a freely invented allegory.
+ה-*Timaeus* וה-*Critias* של אפלטון שומרים את המפורסמת ביותר ממסורות הציוויליזציה האבודה. ה-*Timaeus* מציג את הסיפור באמצעות קריטיאס, המדווח ששמע אותו מסבו, אשר בתורו קיבל אותו מסולון, שקיבל אותו מכוהנים מצריים בסאיס. הכרונולוגיה של אפלטון ממקמת את האירועים כתשעת אלפים שנים לפני זמנו. אפלטון כתב בתחילת המאה הרביעית לפנה״ס; תשעת אלפים שנים לפני כן נופלות בעידן הסרטן המוקדם על פי חישוב הקורפוס, בדיוק שהמסגרת מטפלת בו כיוצא דופן.{{ footnote(id="4") }} הדיאלוג ה-*Critias* נותן פירוט ספציפי נרחב: הטבעות הקונצנטריות של יבשה ומים הסובבות את העיר המרכזית, גודל עבודות ההנדסה, המערכות החקלאיות, הארגון הפוליטי (קונפדרציה של מלכים), היכולות הימיות, התחכום התרבותי. רמת הפירוט הספציפית מרמזת בחוזקה שלאפלטון (או למקורות המצריים שמאחורי אפלטון) הייתה גישה למסורת קוהרנטית על ציוויליזציה טרום-מבולית אמיתית ולא לאלגוריה שהומצאה בחופשיות.
 
-The geographical location Plato gives — beyond the Pillars of Hercules in the Atlantic Ocean — is the detail that has produced most subsequent speculation. The conventional mid-Atlantic location has not been supported by any oceanographic evidence. Alternative locations proposed in the substantial Atlantis literature include the Mediterranean (Santorini and Minoan Crete, the most academically respectable candidate), the Antarctic (on alternative-cartography hypotheses), and various other sites. A more recent candidate — the **Richat Structure** in Mauritania, also called the Eye of Africa — has emerged in alternative-archaeology discussion since approximately 2018. The structure is a circular geological formation about 40 kilometers in diameter with concentric rings of differentially eroded rock, mainstream-interpreted as a deeply eroded geological dome but alternatively read as matching Plato's Atlantis description with surprising precision: the concentric rings, the size matching Plato's stadia within reasonable tolerances, the location in northwest Africa rather than the mid-Atlantic, the surrounding plain corresponding to what Plato describes as the great plain around Atlantis, and the climate change to the present-day Sahara as the post-Flood erosional consequence. The corpus does not insist on the Richat identification; the mainstream geological reading remains dominant. What the corpus registers is that the Richat Structure is a candidate location consistent with the corpus's chronology in ways the more conventional candidates are not, and that the question deserves more serious investigation than mainstream archaeology has typically given it.
+המיקום הגיאוגרפי שאפלטון נותן — מעבר לעמודי הרקולס באוקיינוס האטלנטי — הוא הפרט שהפיק את רוב הספקולציה שלאחר מכן. המיקום המקובל באמצע האוקיינוס האטלנטי לא נתמך על ידי שום ראיות אוקיאנוגרפיות. מיקומים חלופיים שהוצעו בספרות אטלנטיס המהותית כוללים את הים התיכון (סנטוריני וכרתים המינואית, המועמדת המכובדת ביותר אקדמית), את אנטארקטיקה (על השערות קרטוגרפיות חלופיות), ואתרים שונים אחרים. מועמדת חדשה יותר — **המבנה הריצ'ת** במאוריטניה, הנקרא גם עין אפריקה — צמחה בדיון ארכיאולוגי חלופי מאז בערך 2018.{{ footnote(id="5") }} המבנה הוא תצורה גיאולוגית מעגלית בקוטר של כ-40 קילומטר עם טבעות קונצנטריות של סלע מארד באופן דיפרנציאלי, מפורש מיינסטרימית ככיפה גיאולוגית ארודה לעומק אך מפורש חלופית כתואם את תיאור אטלנטיס של אפלטון בדיוק מפתיע: הטבעות הקונצנטריות, הגודל התואם את הסטדיות של אפלטון בגבולות סבירים, המיקום בצפון-מערב אפריקה ולא באמצע האוקיינוס האטלנטי, המישור הסובב המתאים למה שאפלטון מתאר כמישור הגדול סביב אטלנטיס, ושינוי האקלים לסהרה של ימינו כתוצאת השחיקה שלאחר המבול. הקורפוס אינו מתעקש על זיהוי הריצ'ת; הקריאה הגיאולוגית המיינסטרימית נותרת דומיננטית. מה שהקורפוס רושם הוא שהמבנה הריצ'ת הוא מיקום מועמד העקבי עם הכרונולוגיה של הקורפוס באופנים שהמועמדים המקובלים יותר אינם, ושהשאלה ראויה לחקירה רצינית יותר ממה שהארכיאולוגיה המיינסטרימית נתנה לה בדרך כלל.
 
-The relationship between Atlantis and the Eden civilization on the corpus's reading is left open. The Atlantis tradition may preserve memory of the Eden civilization itself with the geographic details reflecting post-Flood relocation of fragmentary memories; or memory of one of the other six lineages in trade and cultural contact with Eden but distinct from it; or memory of a major colony or outpost of Eden located at a substantial distance; or a composite figure collapsing memories from multiple sources. The corpus does not require commitment to a specific reading; what it requires is the broader claim that a major pre-Flood civilization existed, that its memory survived in fragmentary form in subsequent traditions, and that the Greek tradition preserved one such fragment as Atlantis.
+היחס בין אטלנטיס לבין ציוויליזציית עדן על פי קריאת הקורפוס נותר פתוח. מסורת אטלנטיס עשויה לשמר זיכרון של ציוויליזציית עדן עצמה כאשר הפרטים הגיאוגרפיים משקפים העברה שלאחר המבול של זיכרונות מקוטעים; או זיכרון של אחת משש השושלות האחרות במגע מסחרי ותרבותי עם עדן אך מובחנת ממנה; או זיכרון של מושבה גדולה או מאחז של עדן הממוקמים במרחק מהותי; או דמות מורכבת המקפלת זיכרונות ממקורות מרובים. הקורפוס אינו מחייב מחויבות לקריאה ספציפית; מה שהוא דורש הוא הטענה הרחבה יותר שציוויליזציה טרום-מבולית גדולה התקיימה, שזיכרונה שרד בצורה מקוטעת במסורות מאוחרות יותר, ושהמסורת היוונית שמרה שבר אחד כזה כאטלנטיס.
 
-### Göbekli Tepe and the Pre-Pottery Neolithic
+### גובקלי טפה והניאוליתי הטרום-קרמי
 
-The most consequential archaeological development of the past three decades, for the corpus's reading, is the excavation of the Pre-Pottery Neolithic sites of southeastern Anatolia — the region corresponding, on the corpus's reading, to the original Eden territory. **Göbekli Tepe**, identified by the German archaeologist Klaus Schmidt and excavated under his direction beginning in 1995, sits on a hilltop in the Şanlıurfa Province of southeastern Turkey. The site consists of multiple circular and oval enclosures defined by massive carved limestone pillars, the largest standing approximately 5.5 meters tall and weighing on the order of 10 to 20 tons each, many carved with detailed reliefs of animals — lions, foxes, birds, snakes, scorpions — arranged in deliberate iconographic compositions whose meanings remain unresolved.
+ההתפתחות הארכיאולוגית המשמעותית ביותר של שלושת העשורים האחרונים, עבור קריאת הקורפוס, היא חפירת אתרי הניאוליתי הטרום-קרמי של דרום-מזרח אנטוליה — האזור התואם, על פי קריאת הקורפוס, את הטריטוריה המקורית של עדן. **גובקלי טפה**, שזוהתה על ידי הארכיאולוג הגרמני קלאוס שמידט ונחפרה תחת הנחייתו החל מ-1995, יושבת על גבעה במחוז שאנליאורפה של דרום-מזרח טורקיה.{{ cite(id="gobekli-tepe-schmidt", text="[13]", title="שמידט, *גובקלי טפה: מקדש מתקופת האבן בדרום-מזרח אנטוליה* (2012 אנגלית; 2006 גרמנית) — הטיפול האקדמי היסודי של האתר") }} האתר מורכב מתחומים מעגליים וסגלגלים מרובים המוגדרים על ידי עמודי גיר מסיביים מגולפים, הגדול ביותר עומד בגובה של כ-5.5 מטרים ושוקל בסדר גודל של 10 עד 20 טון כל אחד, רבים מהם מגולפים בתבליטים מפורטים של בעלי חיים — אריות, שועלים, ציפורים, נחשים, עקרבים — מסודרים בקומפוזיציות איקונוגרפיות מכוונות שמשמעויותיהן נותרות לא פתורות.
 
-Carbon dating of organic materials at the site places its construction in the tenth and ninth millennia BCE, with the earliest layers dating to approximately 9600 BCE and construction continuing across roughly 1,500 years before the site was deliberately buried around 8000 BCE. On the corpus's chronology, this places Göbekli Tepe squarely within the early-to-mid Age of Cancer — the antediluvian period. The site's existence has substantially overturned the previously dominant view of when complex human civilization began; mainstream archaeology has been revising its assumptions about Neolithic complexity in light of what Göbekli Tepe demonstrates. On the corpus's reading, the site is one of the surviving physical traces of the antediluvian Eden civilization, constructed during the period when the lineage was still in continuous contact with the Lucifer faction's teachers.
+תיארוך פחמן של חומרים אורגניים באתר ממקם את בנייתו באלפים העשירי והתשיעי לפנה״ס, עם השכבות המוקדמות ביותר מתוארכות לבסביבות 9600 לפנה״ס ובנייה הנמשכת לאורך כ-1,500 שנה לפני שהאתר נקבר בכוונה בסביבות 8000 לפנה״ס. על פי הכרונולוגיה של הקורפוס, זה ממקם את גובקלי טפה בדיוק בתוך עידן הסרטן המוקדם-עד-אמצעי — התקופה הטרום-מבולית. קיומו של האתר הפך במידה ניכרת את ההשקפה הדומיננטית הקודמת על מתי החלה ציוויליזציה אנושית מורכבת; הארכיאולוגיה המיינסטרימית עוסקת בשינוי הנחותיה על מורכבות ניאוליתית לאור מה שגובקלי טפה מדגימה. על פי קריאת הקורפוס, האתר הוא אחד הסימנים הפיזיים השורדים של ציוויליזציית עדן הטרום-מבולית, שנבנה בתקופה שבה השושלת עדיין הייתה במגע מתמשך עם מורי סיעת לוציפר.
 
-Göbekli Tepe is not unique. The companion site of **Karahan Tepe**, less than 40 kilometers away, has yielded similar architectural and iconographic features and similar dating. Other sites in the region — Sefer Tepe, Hamzan Tepe, others — appear to belong to the same broader Pre-Pottery Neolithic complex. The corpus's reading is that this regional complex represents the surviving archaeological signature of antediluvian Eden, with the deliberate burial at the close of the Cancer period possibly representing the lineage's response to the approaching Flood event the source material indicates was foretold to Noah.
+גובקלי טפה אינה ייחודית. האתר המקביל **קאראהאן טפה**, במרחק של פחות מ-40 קילומטרים, הניב תכונות אדריכליות ואיקונוגרפיות דומות ותיארוך דומה. אתרים אחרים באזור — ספר טפה, חמזאן טפה, אחרים — נראים כשייכים לאותו קומפלקס ניאוליתי טרום-קרמי רחב יותר. קריאת הקורפוס היא שקומפלקס אזורי זה מייצג את החתימה הארכיאולוגית השורדת של עדן הטרום-מבולית, כאשר הקבורה המכוונת בסגירת תקופת הסרטן אולי מייצגת את תגובת השושלת לאירוע המבול המתקרב שחומר המקור מצביע על כך שנחזה לנֹחַ.
 
-### The global pattern of pre-Flood memory
+### הדפוס הגלובלי של זיכרון טרום-מבולי
 
-Beyond Atlantis and the Anatolian archaeology, traditions of a lost pre-Flood high civilization survive across essentially every major cultural area: the Sumerian King List with its ten antediluvian kings of vast lifespan ending with the Flood and a reset; Hesiod's Golden Race in *Works and Days*; the Hindu *yuga* cycle; the Egyptian *zep tepi*; the Mesoamerican *Popol Vuh*'s prior attempts at humanity; Polynesian sunken-homeland traditions; Celtic submerged-city traditions. The pattern is global, treated in *In the Hebrew Bible and other ancient sources* above. The corpus's reading is that the pattern is global because the underlying historical event was global: a pre-Flood civilization existed across the supercontinent, was destroyed in a catastrophic event of which the various post-Flood populations preserved fragmentary memories, and the convergence of structurally similar stories across geographically disconnected cultures is precisely what such a global event would predict.
+מעבר לאטלנטיס ולארכיאולוגיה האנטולית, מסורות של ציוויליזציה גבוהה טרום-מבולית אבודה שורדות בכל אזור תרבותי גדול: רשימת המלכים השומרית עם עשרת מלכיה הטרום-מבוליים בעלי אריכות החיים העצומה המסתיימים במבול וריסט; גזע הזהב של הסיודוס ב-*עבודות וימים*; מחזור ה-*yuga* ההינדי; ה-*zep tepi* המצרי; הניסיונות הקודמים של אנושות של ה-*Popol Vuh* המסואמריקני; מסורות מולדת-שקועה פולינזיות; מסורות עיר-טבועה קלטיות.{{ cite(id="origins-of-the-worlds-mythologies", text="[14]", title="ויצל, *מקורות המיתולוגיות של העולם* (2012) — שחזור השוואתי רחב של ההקבלות המבניות בין מסורות המבול הגלובלי, תור הזהב, והציוויליזציה האבודה") }} הדפוס גלובלי, מטופל ב-*במקרא העברי ובמקורות עתיקים אחרים* לעיל. קריאת הקורפוס היא שהדפוס גלובלי משום שהאירוע ההיסטורי הבסיסי היה גלובלי: ציוויליזציה טרום-מבולית התקיימה על פני יבשת-העל, הושמדה באירוע קטסטרופלי שעליו שמרו האוכלוסיות השונות שלאחר המבול זיכרונות מקוטעים, וההתכנסות של סיפורים מבניים דומים על פני תרבויות מנותקות גיאוגרפית היא בדיוק מה שאירוע גלובלי כזה היה חוזה.
 
-## Modern reinterpretations
+## פרשנויות מחודשות מודרניות
 
-The antediluvian period has been a major subject of modern reinterpretive scholarship across three distinct traditions, each with a different relationship to the corpus's reading.
+התקופה הטרום-מבולית הייתה נושא עיקרי של מחקר פרשני-מחודש מודרני במהלך שלוש מסורות מובחנות, לכל אחת יחס שונה לקריאת הקורפוס.
 
-### Mainstream archaeology in revision: the Pre-Pottery Neolithic
+### הארכיאולוגיה המיינסטרימית בעדכון: הניאוליתי הטרום-קרמי
 
-The most significant modern reinterpretive development, and the one most directly converging with the corpus's reading, is the academic-archaeological revision of the Pre-Pottery Neolithic period that has unfolded since the 1990s. **Klaus Schmidt** (1953–2014), the German archaeologist who identified and led the excavation of Göbekli Tepe, is the foundational figure. His monograph *Sie bauten die ersten Tempel: Das rätselhafte Heiligtum der Steinzeitjäger* (2006; English: *Göbekli Tepe: A Stone Age Sanctuary in South-Eastern Anatolia*, 2012) is the primary scholarly treatment of the site. Schmidt's work, and the subsequent excavations at Karahan Tepe and other regional sites under successor directors Jens Notroff, Lee Clare, and others, have established that complex monumental architecture, sophisticated iconographic programs, and substantial coordinated labor were present in southeastern Anatolia at approximately 9600 BCE — significantly earlier and more sophisticated than the previously dominant view of when civilization began.
+ההתפתחות הפרשנית-מחודשת המודרנית המשמעותית ביותר, וזו המתכנסת ישירות ביותר עם קריאת הקורפוס, היא העדכון האקדמי-ארכיאולוגי של תקופת הניאוליתי הטרום-קרמי שהתפרשה מאז שנות ה-1990. **קלאוס שמידט** (1953–2014), הארכיאולוג הגרמני שזיהה והוביל את חפירת גובקלי טפה, הוא הדמות היסודית. המונוגרפיה שלו *Sie bauten die ersten Tempel: Das rätselhafte Heiligtum der Steinzeitjäger* (2006; באנגלית: *Göbekli Tepe: A Stone Age Sanctuary in South-Eastern Anatolia*, 2012) היא הטיפול האקדמי העיקרי של האתר. עבודתו של שמידט, והחפירות שלאחר מכן בקאראהאן טפה ובאתרים אזוריים אחרים תחת מנהלי המשך ינס נוטרוף, לי קלייר, ואחרים, ביססו שאדריכלות מונומנטלית מורכבת, תוכניות איקונוגרפיות מתוחכמות, ועבודה מתואמת מהותית היו נוכחות בדרום-מזרח אנטוליה בערך ב-9600 לפנה״ס — מוקדם יותר במידה ניכרת ומתוחכם יותר מההשקפה הדומיננטית הקודמת על מתי החלה ציוויליזציה.
 
-The Pre-Pottery Neolithic revision is not framework-aligned in the sense that Schmidt and his successors do not endorse the corpus's reading. They are mainstream archaeologists working within the standard scientific framework. But their findings have substantially shifted the boundary of what is considered archaeologically possible for the relevant period, and the framework's reading depends on those findings being substantially correct. The corpus treats the Pre-Pottery Neolithic revision as the most empirically grounded modern engagement with the period — the kind of work that, if its trajectory continues, may eventually produce evidence that requires the framework's reading to be taken seriously by mainstream scholarship.
+עדכון הניאוליתי הטרום-קרמי אינו מותאם-מסגרת במובן שבו שמידט ומחליפיו אינם מאמצים את קריאת הקורפוס. הם ארכיאולוגים מיינסטרימיים העובדים בתוך המסגרת המדעית הסטנדרטית. אך ממצאיהם הזיזו במידה ניכרת את הגבול של מה שנחשב ארכיאולוגית אפשרי עבור התקופה הרלוונטית, וקריאת המסגרת תלויה בכך שממצאים אלה יהיו נכונים מהותית. הקורפוס מתייחס לעדכון הניאוליתי הטרום-קרמי כמעורבות המודרנית המבוססת אמפירית ביותר עם התקופה — סוג העבודה אשר, אם מסלולה ימשיך, עשויה בסופו של דבר להפיק ראיות הדורשות שקריאת המסגרת תיוקח ברצינות על ידי המחקר המיינסטרימי.
 
-Related work includes **Trevor Watkins**'s broader analysis of the Pre-Pottery Neolithic transition, **Ian Hodder**'s excavation reports from Çatalhöyük (a slightly later but closely related site), and **Ofer Bar-Yosef**'s comparative work on the Natufian and PPN cultures.
+עבודה קשורה כוללת את הניתוח הרחב יותר של **טרבור ווטקינס** של מעבר הניאוליתי הטרום-קרמי, את דוחות החפירה של **איאן הודר** מצ'אטלהויוק (אתר מאוחר מעט אך קשור מקרוב), ואת העבודה ההשוואתית של **עופר בר-יוסף** על התרבויות הנטופית וה-PPN.{{ cite(id="natufian-culture-in-the-levant", text="[15]", title="בר-יוסף וואלה, *התרבות הנטופית בלבנט* (1991) — הטיפול האקדמי הסטנדרטי של ההקשר האזורי הרחב יותר שבתוכו יושב גובקלי טפה") }}
 
-### Alternative archaeology: Hancock, Schoch, and the catastrophist tradition
+### ארכיאולוגיה חלופית: הנקוק, שוך והמסורת הקטסטרופיסטית
 
-A separate modern tradition engages the antediluvian period from outside the academic mainstream, often deploying the same evidentiary base (Göbekli Tepe, the Sphinx, megalithic sites, the global pre-Flood traditions) but reaching conclusions the academic mainstream rejects.
+מסורת מודרנית נפרדת עוסקת בתקופה הטרום-מבולית מחוץ למיינסטרים האקדמי, ולעיתים פורסת את אותו בסיס ראיות (גובקלי טפה, הספינקס, אתרים מגליתיים, המסורות הטרום-מבוליות הגלובליות) אך מגיעה למסקנות שהמיינסטרים האקדמי דוחה.
 
-**Graham Hancock**, beginning with *Fingerprints of the Gods* (1995) and continuing through *Magicians of the Gods* (2015) and *America Before* (2019), has been the most widely-read figure in this tradition. Hancock's work develops the catastrophist hypothesis — that an advanced pre-Flood civilization existed, was destroyed in a catastrophic event, and left fragmentary archaeological traces and cultural memories across the post-disaster world. His specific reconstruction has shifted across his career; the recent work has converged on the Younger Dryas impact hypothesis (the proposal that a comet-fragment impact at approximately 12,800 years before present produced the Younger Dryas climate event and destroyed an advanced civilization that had existed during the preceding warm period). The corpus's reading shares the broad direction of Hancock's argument — that there was an advanced pre-Flood civilization, and that its memory survives in fragmentary form across the post-Flood world — but does not endorse Hancock's specific reconstructions in detail. The Younger Dryas impact hypothesis, as a candidate mechanism for the Flood, is treated in the [Great Flood](../great-flood/) entry.
+**גרהאם הנקוק**, החל מ-*טביעות אצבעות של האלים* (1995){{ cite(id="fingerprints-of-the-gods", text="[16]", title="הנקוק, *טביעות אצבעות של האלים* (1995) — יצירה יסודית במסורת הקטסטרופיסטית-ציוויליזציונית בת זמננו") }} וממשיך דרך *קוסמי האלים* (2015){{ cite(id="magicians-of-the-gods", text="[17]", title="הנקוק, *קוסמי האלים* (2015) — התכנסות על השערת הפגיעה של הדריאס הצעיר") }} ו-*אמריקה לפני* (2019),{{ cite(id="america-before", text="[18]", title="הנקוק, *אמריקה לפני* (2019) — הרחבת ההשערה הקטסטרופיסטית ליבשות אמריקה") }} היה הדמות הנקראת בהרחבה ביותר במסורת זו. עבודתו של הנקוק מפתחת את ההשערה הקטסטרופיסטית — שציוויליזציה טרום-מבולית מתקדמת התקיימה, הושמדה באירוע קטסטרופלי, והשאירה סימנים ארכיאולוגיים מקוטעים וזיכרונות תרבותיים ברחבי העולם שלאחר האסון. השחזור הספציפי שלו השתנה לאורך הקריירה שלו; העבודה האחרונה התכנסה על השערת הפגיעה של הדריאס הצעיר (ההצעה שפגיעה של שבר שביט בערך לפני 12,800 שנים הפיקה את אירוע האקלים של הדריאס הצעיר והשמידה ציוויליזציה מתקדמת שהתקיימה בתקופה החמה הקודמת).{{ footnote(id="6") }} קריאת הקורפוס חולקת את הכיוון הרחב של טיעון הנקוק — שהייתה ציוויליזציה טרום-מבולית מתקדמת, ושזיכרונה שורד בצורה מקוטעת ברחבי העולם שלאחר המבול — אך אינה מאשרת את השחזורים הספציפיים של הנקוק בפירוט. השערת הפגיעה של הדריאס הצעיר, כמועמדת למנגנון המבול, מטופלת בערך {% wiki(slug="great-flood") %}המבול הגדול{% end %}.
 
-**Robert Schoch**, the geologist whose redating of the Great Sphinx of Giza on the basis of weathering patterns (proposing a substantially earlier date than the conventional Old Kingdom attribution) was developed in the early 1990s and presented in *Voices of the Rocks* (1999) and subsequent works, is a separate but related figure. Schoch's specific claims about the Sphinx's age remain contested in academic Egyptology; his broader argument about pre-Flood civilization is in the same general region as Hancock's. The corpus treats the Sphinx redating as an open empirical question rather than as a settled fact.
+**רוברט שוך**, הגיאולוג שתיארוכו מחדש של הספינקס הגדול של גיזה על בסיס דפוסי בליה (המציע תאריך מוקדם מהותית מהייחוס הקונבנציונלי לממלכה הקדומה) פותח בתחילת שנות ה-1990 והוצג ב-*קולות הסלעים* (1999){{ cite(id="voices-of-the-rocks", text="[19]", title="שוך, *קולות הסלעים* (1999) — טיעון גיאולוגי לתיארוך מחדש של הספינקס הגדול") }} ובעבודות מאוחרות יותר, הוא דמות נפרדת אך קשורה. טענותיו הספציפיות של שוך על גיל הספינקס נותרות שנויות במחלוקת באגיפטולוגיה האקדמית; טיעונו הרחב יותר על ציוויליזציה טרום-מבולית נמצא באותו אזור כללי של הנקוק. הקורפוס מתייחס לתיארוך מחדש של הספינקס כשאלה אמפירית פתוחה ולא כעובדה מוסדרת.
 
-The broader catastrophist-civilization literature — including **Allan and Delair**'s *Cataclysm!* (1995) on the geological evidence for a catastrophic event in the early Holocene, the various **Younger Dryas Impact Hypothesis** publications by Richard Firestone, James Kennett, and others, and the substantial popular literature in the **lost-civilization** genre — is in this same broad space. The corpus's general position is that this literature is engaging real questions on a real evidence base, often producing observations and arguments that mainstream archaeology has not adequately addressed, but that the specific civilizational reconstructions vary in their evidentiary support and that the corpus does not endorse them in detail without case-by-case examination.
+הספרות הקטסטרופיסטית-ציוויליזציונית הרחבה יותר — כולל *Cataclysm!* (1995) של **אלן ודלייר**{{ cite(id="cataclysm-allan-delair", text="[20]", title="אלן ודלייר, *Cataclysm!* (1995) — ניסוח מוקדם של השערת הקטסטרופה הקוסמית של סוף הפלייסטוקן") }} על הראיות הגיאולוגיות לאירוע קטסטרופלי בהולוקן המוקדם, פרסומי **השערת הפגיעה של הדריאס הצעיר** השונים של ריצ'רד פיירסטון, ג'יימס קנט ואחרים,{{ cite(id="firestone-pnas-2007", text="[21]", title="פיירסטון ואחרים, *PNAS* 104:41 (2007) — הפרסום המבוקר עמיתים העיקרי של השערת הפגיעה של הדריאס הצעיר") }} והספרות הפופולרית המהותית בז'אנר ה**ציוויליזציה האבודה** — נמצאת באותו מרחב רחב. העמדה הכללית של הקורפוס היא שספרות זו עוסקת בשאלות אמיתיות על בסיס ראיות אמיתי, לעיתים קרובות מפיקה תצפיות וטיעונים שהארכיאולוגיה המיינסטרימית לא טיפלה בהם באופן מספק, אך השחזורים הציוויליזציוניים הספציפיים משתנים בתמיכתם הראייתית ושהקורפוס אינו מאשר אותם בפירוט ללא בחינה מקרה-מקרה.
 
-### The Sendy and Raëlian tradition
+### המסורת של סנדי וראל
 
-The corpus's own reinterpretive tradition — Jean Sendy's philological-historiographic work and the Raëlian source material — engages the antediluvian period as part of its broader treatment of the Hebrew Bible and the Elohim civilization. Sendy's specific treatment of the antediluvian narrative is found in *Ces dieux qui firent le ciel et la terre* (1969), where he reads the Genesis 5 longevities and the Genesis 6 *benei ha-Elohim* / *Nephilim* material in terms consistent with the corpus's later development. The Raëlian source material's treatment, in chapter 2 of *The Book Which Tells the Truth*, is the basis for the corpus's specific reading of the antediluvian period.
+המסורת הפרשנית-מחודשת של הקורפוס עצמו — עבודתו הפילולוגית-היסטוריוגרפית של ז'אן סנדי וחומר המקור הראליאני — עוסקת בתקופה הטרום-מבולית כחלק מהטיפול הרחב יותר שלה במקרא העברי ובציוויליזציית האלוהים. הטיפול הספציפי של סנדי בנרטיב הטרום-מבולי נמצא ב-*Ces dieux qui firent le ciel et la terre* (1969),{{ cite(id="those-gods-who-made-heaven-and-earth", text="[22]", title="סנדי, *Ces dieux qui firent le ciel et la terre* (1969) / *Those Gods Who Made Heaven and Earth* (1972) — קריאה פילולוגית-היסטוריוגרפית של אריכויות החיים של בראשית ה וחומר *בני האלוהים* / *נפילים*") }} שם הוא קורא את אריכויות החיים של בראשית ה ואת חומר בְּנֵי הָאֱלֹהִים / נְפִילִים של בראשית ו במונחים העקביים עם ההתפתחות המאוחרת של הקורפוס. הטיפול של חומר המקור הראליאני, בפרק 2 של *הספר המספר את האמת*, הוא הבסיס לקריאה הספציפית של הקורפוס של התקופה הטרום-מבולית.
 
-## Comparative observations
+## תצפיות השוואתיות
 
-Beyond the surviving evidence treated above, the antediluvian period bears comparative-religious relationships to a number of other lost-age and lost-civilization traditions that the corpus treats as parallel rather than directly identifying.
+מעבר לראיות ששרדו המטופלות לעיל, התקופה הטרום-מבולית נושאת יחסים השוואתיים-דתיים למספר מסורות עידן-אבוד וציוויליזציה-אבודה אחרות שהקורפוס מתייחס אליהן כמקבילות ולא כמזוהות ישירות.
 
-The **Hindu *yuga* cycle** describes a sequence of four ages — *Krita Yuga*, *Treta Yuga*, *Dvapara Yuga*, and *Kali Yuga* — of declining duration and declining moral and spiritual condition, with the ages preceding the present *Kali Yuga* characterized as periods of progressively higher human capacity, longer human lifespans, and greater spiritual achievement. The structural parallel to the Genesis 5 long-lived patriarchs, and to the broader pattern of "golden age" traditions, is suggestive. The corpus does not commit to a specific identification between any of the *yugas* and the antediluvian period.
+**מחזור ה-*yuga* ההינדי** מתאר רצף של ארבעה עידנים — *Krita Yuga*, *Treta Yuga*, *Dvapara Yuga*, ו-*Kali Yuga* — של משך הולך ופוחת ומצב מוסרי ורוחני הולך ופוחת, כאשר העידנים שקדמו ל-*Kali Yuga* הנוכחי מאופיינים כתקופות של יכולת אנושית גבוהה יותר באופן מתקדם, אריכויות חיים אנושיות ארוכות יותר, והישג רוחני גדול יותר. ההקבלה המבנית לפטריארכים ארוכי-הימים של {% libref(book="genesis-woh", chapter=5) %}בראשית ה{% end %}, ולדפוס הרחב יותר של מסורות »תור הזהב«, מרמזת. הקורפוס אינו מתחייב לזיהוי ספציפי בין שום מן ה-*yugas* לתקופה הטרום-מבולית.
 
-The **Norse Ragnarök** tradition describes the destruction of an earlier world and the emergence of a new one, with the destruction including catastrophic flooding and the survival of a remnant. The structural parallels to the Genesis Flood narrative are evident, though the Norse tradition's elaborate theological framework is distinct.
+מסורת ה**רגנארוק** הנורדית מתארת את חורבן עולם קודם ואת צמיחתו של חדש, כאשר החורבן כולל הצפה קטסטרופלית והישרדות של שריד. ההקבלות המבניות לנרטיב המבול של בראשית ברורות, אם כי המסגרת התיאולוגית המפותחת של המסורת הנורדית מובחנת.
 
-The **Mesoamerican five-suns tradition**, preserved most fully in the *Popol Vuh* and in various Aztec and Maya sources, describes a sequence of prior worlds (or "suns") destroyed by the gods and replaced — the present world being the fifth, with the prior four having ended in various catastrophes including flood. The structural parallel to the antediluvian / post-Flood schema is striking.
+ה**מסורת המסואמריקנית של חמש השמשות**, השמורה באופן המלא ביותר ב-*Popol Vuh* ובמקורות אצטקיים ומאייתיים שונים, מתארת רצף של עולמות קודמים (או »שמשות«) שהושמדו על ידי האלים והוחלפו — העולם הנוכחי הוא החמישי, כאשר ארבעת הקודמים הסתיימו בקטסטרופות שונות לרבות מבול. ההקבלה המבנית לסכמה הטרום-מבולית / שלאחר המבול בולטת.
 
-The **Celtic submerged-cities traditions** — Lyonesse, Ys, the various flood-island legends across the Atlantic-coast Celtic regions — preserve memories of catastrophic inundations that destroyed coastal civilizations. The traditions are sufficiently widespread that some underlying historical event seems likely; the corpus reads them as fragmentary memories of either the antediluvian Flood itself or of subsequent regional flooding events.
+ה**מסורות הקלטיות של ערים שקועות** — ליונס, איס, אגדות איי המבול השונות באזורי החוף הקלטיים של האטלנטי — שומרות זיכרונות של הצפות קטסטרופליות שהשמידו ציוויליזציות חופיות. המסורות נפוצות מספיק כדי שאירוע היסטורי בסיסי כלשהו נראה סביר; הקורפוס קורא אותן כזיכרונות מקוטעים של או המבול הטרום-מבולי עצמו או של אירועי הצפה אזוריים שלאחר מכן.
 
-The **Egyptian *zep tepi* tradition** describes the "first time" when the gods walked among men, a primordial era of divine presence followed by withdrawal as the gods returned to the heavens. The structural parallel to the Eden and post-Eden periods is evident.
+ה**מסורת המצרית של *zep tepi*** מתארת את »הזמן הראשון« כאשר האלים הלכו בקרב בני האדם, עידן ראשוני של נוכחות אלוהית שלאחריו נסיגה כאשר האלים חזרו לשמיים. ההקבלה המבנית לתקופות עדן ושלאחר עדן ברורה.
 
-In all these cases, the corpus's working position is that a global underlying historical event would predict precisely the kind of distributed-fragment-memory pattern that the surviving traditions display, but that the specific identification of any particular tradition's content with specific antediluvian events requires case-by-case analysis rather than blanket equivalence. The corpus does not endorse the popular ancient-astronaut literature's tendency to treat all such traditions as direct memories of the same events; some may be, others may preserve memory of subsequent regional events generalized into cosmic narrative, and others may be authentic mythological constructions of their respective cultures rather than historically referential.
-
-## See also
-
-- [Genesis](../genesis/)
-- [Adam and Eve](../adam-and-eve/)
-- [Cain and Abel](../cain-and-abel/)
-- [Noah](../noah/)
-- [Eden](../eden/)
-- [Tree of Life](../tree-of-life/)
-- [Nephilim](../nephilim/)
-- [Sons of Elohim](../sons-of-elohim/)
-- [Lucifer](../lucifer/)
-- [Yahweh](../yahweh/)
-- [Elohim](../elohim/)
-- [Council of the Eternals](../council-of-eternals/)
-- [Great Flood](../great-flood/)
-- [Pangaea](../pangaea/)
-- [Atlantis](../atlantis/)
-- [Göbekli Tepe](../gobekli-tepe/)
-- [Sumerian King List](../sumerian-king-list/)
-- [*Atra-ḫasīs*](../atra-hasis/)
-- [Epic of Gilgamesh](../epic-of-gilgamesh/)
-- [Book of Enoch](../book-of-enoch/)
-- [Age of Leo](../timeline/age-of-leo/)
-- [Age of Cancer](../timeline/age-of-cancer/)
-- [Age of Gemini](../timeline/age-of-gemini/)
-
-## References
-
-Vorilhon, Claude (Raël). *The Book Which Tells the Truth* (1974), chapter 2; collected in *Message from the Designers*.
-
-Sendy, Jean. *Ces dieux qui firent le ciel et la terre*. Robert Laffont, 1969. English: *Those Gods Who Made Heaven and Earth*. Berkley, 1972.
-
-*Biblia Hebraica Stuttgartensia*. Deutsche Bibelgesellschaft, 1997.
-
-Westermann, Claus. *Genesis 1–11: A Continental Commentary*. Fortress, 1994.
-
-Sarna, Nahum. *Genesis: The JPS Torah Commentary*. Jewish Publication Society, 1989.
-
-Lambert, W. G., and A. R. Millard. *Atra-ḫasīs: The Babylonian Story of the Flood*. Oxford, 1969.
-
-Foster, Benjamin R. *Before the Muses: An Anthology of Akkadian Literature*. CDL Press, 2005.
-
-Glassner, Jean-Jacques. *Mesopotamian Chronicles*. Society of Biblical Literature, 2004.
-
-Heidel, Alexander. *The Babylonian Genesis: The Story of Creation*. University of Chicago Press, 1951.
-
-Plato. *Timaeus* and *Critias*.
-
-Hesiod. *Works and Days*.
-
-Vidal-Naquet, Pierre. *The Atlantis Story: A Short History of Plato's Myth*. University of Exeter Press, 2007.
-
-Schmidt, Klaus. *Sie bauten die ersten Tempel: Das rätselhafte Heiligtum der Steinzeitjäger* (2006); English: *Göbekli Tepe: A Stone Age Sanctuary in South-Eastern Anatolia* (2012).
-
-Bar-Yosef, Ofer, and François R. Valla, eds. *Natufian Culture in the Levant*. International Monographs in Prehistory, 1991.
-
-Hancock, Graham. *Fingerprints of the Gods*. Crown, 1995.
-
-Hancock, Graham. *Magicians of the Gods*. St. Martin's, 2015.
-
-Hancock, Graham. *America Before*. St. Martin's, 2019.
-
-Schoch, Robert M. *Voices of the Rocks*. Harmony, 1999.
-
-Allan, D. S., and J. B. Delair. *Cataclysm! Compelling Evidence of a Cosmic Catastrophe in 9500 B.C.* Bear & Company, 1995.
-
-Firestone, Richard, et al. "Evidence for an extraterrestrial impact 12,900 years ago." *Proceedings of the National Academy of Sciences* 104:41 (2007).
-
-Eliade, Mircea. *The Myth of the Eternal Return*. Princeton University Press, 1954.
-
-Witzel, E. J. Michael. *The Origins of the World's Mythologies*. Oxford University Press, 2012.
-
-Ussher, James. *Annales Veteris Testamenti*. London, 1650.
-
-Burnet, Thomas. *Telluris Theoria Sacra*. London, 1681.
-
-Browne, Sir Thomas. *Pseudodoxia Epidemica*. London, 1646.
-
-Buckland, William. *Reliquiae Diluvianae*. London, 1823.
-
-Hutton, James. *Theory of the Earth*. Edinburgh, 1788.
-
-Lyell, Charles. *Principles of Geology*. London, 1830–33.
-
-"Antediluvian." *Wikipedia*. <https://en.wikipedia.org/wiki/Antediluvian>
-
-"Sumerian King List." *Wikipedia*. <https://en.wikipedia.org/wiki/Sumerian_King_List>
-
-"Atlantis." *Encyclopaedia Britannica*. <https://www.britannica.com/topic/Atlantis-legendary-island>
-
-"Göbekli Tepe." *Encyclopaedia Britannica*. <https://www.britannica.com/place/Gobekli-Tepe>
-
-"Pre-Pottery Neolithic." *Wikipedia*. <https://en.wikipedia.org/wiki/Pre-Pottery_Neolithic>
+בכל המקרים הללו, עמדת העבודה של הקורפוס היא שאירוע היסטורי בסיסי גלובלי היה חוזה בדיוק את סוג דפוס הזיכרון המופץ-מקוטע שהמסורות השורדות מציגות, אך שהזיהוי הספציפי של תוכן כל מסורת מסוימת עם אירועים טרום-מבוליים ספציפיים דורש ניתוח מקרה-מקרה ולא שקילות גורפת. הקורפוס אינו מאשר את נטיית ספרות האסטרונאוטים הקדומים הפופולרית לטפל בכל המסורות הללו כזיכרונות ישירים של אותם אירועים; חלקן עשויות להיות, אחרות עשויות לשמר זיכרון של אירועים אזוריים מאוחרים יותר שהוכללו לנרטיב קוסמי, ואחרות עשויות להיות בניינים מיתולוגיים אותנטיים של התרבויות שלהן ולא היסטוריים-התייחסותיים.

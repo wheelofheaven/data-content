@@ -1,16 +1,126 @@
 +++
-title = "대홍수 이전"
-description = "대홍수 이전은 대홍수에 선행하는 시대 — 창세기에 등장하는 장수의 족장들, 네필림, 초기 문명의 시대 — 를 가리킨다. Wheel of Heaven 코퍼스에서 이 시대는 에덴 이후의 실험 단계로 읽히며, 엘로힘의 수문학적 리셋에 앞선 국면으로 이해된다."
+title = "대홍수 이전 시대"
+slug = "antediluvian"
+description = "대홍수 이전(라틴어: ante '이전' + diluvium '홍수')은 창세기 6–9장 및 고대 세계 전반에 걸친 병행 전승들에서 서술되는 대홍수에 앞서 지구상에서 인류가 존재했던 시기를 가리킨다. 라엘 자료에서 발전하여 Wheel of Heaven 코퍼스가 채택한 독해에 따르면, 이 시기는 창조 이후 대홍수 이전의 시간대 — 사자자리 시대 후반부터 게자리 시대까지(기원전 약 11,375년 – 6,690년) — 로서, 이 기간 동안 엘로힘 창조자 팀들이 산출한 일곱 인류 계통이 단일한 초대륙 위에서 상당한 문명들을 발전시켰으며, 에덴 계통은 루시퍼 분파의 지속적 지도 아래 모행성이 결국 위협으로 판단하기에 이른 수준까지 진보했다."
 template = "wiki-page.html"
 toc = true
 
 [extra]
-translation_status = "metadata_only"
 category = "Cosmic Chronology"
 editorial_pass = "2026-05"
+claim_type = "framework"
 entry_type = "event_period"
 alternative_names = ["pre-diluvian", "pre-flood", "pre-Flood"]
 timeline = ["leo", "cancer"]
+see_also = [
+    { title = "에덴", path = "wiki/eden", description = "대홍수 이전 시대를 여는, 창조 이후 루시퍼 분파의 폭로." },
+    { title = "대홍수", path = "wiki/great-flood", description = "대홍수 이전 세계를 종결짓는 파국적 사건." },
+    { title = "판게아", path = "wiki/pangaea", description = "대홍수 이전 지구의 초대륙 배치." },
+    { title = "생명나무", path = "wiki/tree-of-life", description = "에덴의 족장적 지도부에게 부여된 세포 이식 장수 기술." },
+    { title = "루시퍼", path = "wiki/lucifer", description = "에덴 계통을 형성한, 지구에 유배된 이스라엘 팀의 반체제 분파." },
+    { title = "영원자들의 의회", path = "wiki/council-of-eternals", description = "대홍수 결정을 산출한 모행성의 심의 기구." },
+]
+
+footnotes = [
+    { content = "코퍼스가 대홍수 이전 시대의 구간에 부여한 구체적 연대 — 사자자리 시대 말기에 최초의 인간이 합성된 기원전 약 11,375년 및 쌍둥이자리 시대의 대홍수가 일어난 기원전 약 6,690년 — 는 프레임워크 내부적인 것이다. 분점의 세차운동은 실제의 천문 현상이며, 코퍼스가 사용하는 시대 하나당 약 2,160년의 12시대 순환은 표준 천문학적 수치와 일치한다. 그러나 약 1950년 CE의 현재 물병자리 개시점에 순환을 정박시키는 것과, 666세대 계산에서 도출된 인류 창조 연대는 자료를 조직하기 위한 프레임워크의 관행이다. 다른 세차 시대 체계들은 순환을 다른 문턱점에 정박시키며, 심층 시간 연대기에 대해서도 그에 상응하여 다른 연대에 도달한다." },
+    { content = "코퍼스의 초대륙 독해는 판게아에 대한 주류 지질학적 설명과 직접적으로 충돌한다. 주류 지질학은 판게아의 형성 시점을 약 3억 3,500만 년 전, 분열 시점을 약 1억 7,500만 년 전으로 보며, 대륙 이동은 맨틀 대류를 통해 수억 년에 걸쳐 전개된 것으로 설명한다. 코퍼스는 대륙의 통합을 대홍수 이전 시기로, 분열을 기원전 약 6,690년의 파국적 대홍수 사건으로 읽으며, 그 이후로 관측되는 대륙 이동은 그 사건의 잔여 운동량으로 본다. 의견 차이는 상당하며 코퍼스는 그것을 완화하지 않는다. 주류 설명은 여전히 지배적인 과학적 입장이다. 보다 충실한 논의는 [판게아](../pangaea/) 및 [대홍수](../great-flood/) 항목을 참조하라." },
+    { content = "창세기 5장의 족장들의 장수 — 아담 930년, 므두셀라 969년 등 — 는 코퍼스의 독해에서는 루시퍼 분파가 에덴 계통의 지도부에 부여한 생명나무 세포 이식 기술의 결과로서 문자 그대로 읽힌다. 주류 성서학에서의 표준적 대안 독해 — 이 숫자들이 수비학적 구성물이라거나, 햇수가 아니라 달을 추적하는 기저 수치 체계의 오역을 반영한다거나, 족장들을 특별한 지위의 인물로 표시하는 신학적 장치라는 독해 — 는 인지되지만 채택되지 않는다. 코퍼스는 이러한 대안들을 기저의 기술적 지시체가 알려져 있지 않을 때의 자연스러운 독해로 다루며, 라엘 자료로부터 그 기술적 지시체가 회복되는 순간 그것들이 대체된다고 본다." },
+    { content = "플라톤이 *티마이오스*와 *크리티아스*에서 제시한 연대기는 아틀란티스의 파괴를 솔론 이전 약 9,000년으로 놓는데, 통상적 계산에 따르면 그 시점은 기원전 10천년기 말 — 코퍼스의 셈법에서는 게자리 시대 초기 — 에 해당한다. 이 시간적 일치는 시사적이다. 즉 코퍼스가 대홍수 이전 시기의 초기로 읽는 기간으로 연대가 매겨진, 잃어버린 진보 문명을 묘사하는, 이집트 사제 자료를 통해 전수된 그리스 전승이라는 점에서. 이 수치는 자료 내부에 머물며 독립적으로 검증 가능하지 않다. 플라톤의 연대기는 전수 사슬(이집트 사제 → 솔론 → 연장자 크리티아스 → 청년 크리티아스 → 플라톤)의 정확성과 원래의 이집트 기록의 정밀성에 의존한다. 코퍼스는 플라톤이 정밀한 대홍수 이전 연대기에 접근했다고 주장하지 않은 채 이 일치를 기록한다." },
+    { content = "리챗 구조 — 모리타니에 있는 지름 약 40킬로미터의 원형 지질 구조, 아프리카의 눈이라고도 불린다 — 의 아틀란티스 동정(同定)은, 통상적인 대서양 중앙부 위치가 그렇지 않은 방식으로, 코퍼스의 연대기와 합치하는 후보지로서 코퍼스에 의해 등록된다. 코퍼스는 리챗 동정을 고집하지 않는다. 이 구조를 깊이 침식된 돔으로 보는 주류 지질학적 독해는 여전히 지배적인 학계 입장이며, 리챗-아틀란티스 독해는 주로 2018년 이래로 등장한 대안 고고학적 추측이다. 코퍼스가 등록하는 바는, 그 구조적 특성들(동심원, 플라톤의 스타디아와 일치하는 규모, 북서아프리카라는 위치, 주변 평원)이 주류 고고학이 통상적으로 부여해 온 것보다 더 진지한 조사를 받을 만하다는 점이다." },
+    { content = "영거 드라이아스 충돌 가설 — 약 12,800년 전의 혜성 파편 충돌이 영거 드라이아스 기후 사건을 일으키고 진보 문명을 파괴했다는 가설 — 은 대홍수의 메커니즘에 대한 동시대의 주된 격변론적 제안이다. 코퍼스는 큰 방향성(진보한 대홍수 이전 문명이 존재했으며, 파국적 사건에서 파괴되었고, 그 기억이 대홍수 이후 세계 전반에 단편적 형태로 살아남았다는 것)을 공유하지만, 혜성 충돌 메커니즘 자체를 대홍수 사건으로 지지하지는 않는다. 코퍼스의 독해는 대홍수를 영거 드라이아스 경계가 아니라 기원전 약 6,690년에 위치시키며, 자료의 메커니즘은 우주 충돌 메커니즘이 아니다. 두 재구성은 대홍수 이전 고도 문명의 존재에서 수렴하고, 그 파괴의 시점과 메커니즘에서 갈라진다." },
+]
+
+[[extra.references]]
+id = "the-book-which-tells-the-truth"
+locator = "2장"
+note = "대홍수 이전 시대에 관한 토대적 라엘 자료 — 일곱 창조자 팀, 에덴 계통의 누적적 우위, *benei ha-Elohim* 결합, 그리고 대홍수 결정."
+
+[[extra.references]]
+id = "those-gods-who-made-heaven-and-earth"
+note = "장 상디가 창세기 5장의 장수 및 창세기 6장의 *benei ha-Elohim* / *Nephilim* 자료에 대해 행한 문헌학적·역사기술학적 다룸 — 계시 증언에 의존하지 않고 실질적으로 수렴하는 독해에 도달한다."
+
+[[extra.references]]
+id = "pseudodoxia-epidemica"
+locator = "제6권"
+note = "토머스 브라운 경의 1646년 저작 — 학술적 영어에서 대홍수 이전 시기를 가리키는 명칭으로서의 *antediluvian*의 기술적 사용을 위한 인용 지점."
+
+[[extra.references]]
+id = "telluris-theoria-sacra"
+note = "토머스 버넷의 1681년 *지구에 대한 신성한 이론* — 창세기 우주론과 대홍수 이전 세계에 대한 통합적 자연철학적 설명을 제시하려 한 17세기 후반의 가장 영향력 있는 시도."
+
+[[extra.references]]
+id = "annales-veteris-testamenti"
+note = "어셔 대주교의 1650년 연대기 — 대홍수 이전 시기를 약 1,656년으로 보는 초기 근대 기독교 연대 산정의 주된 참조점."
+
+[[extra.references]]
+id = "theory-of-the-earth"
+note = "제임스 허턴의 1788년 지질학적 동일과정설의 토대 논문 — 어셔 연대기를 심층 시간 지질학으로 개념적으로 대체."
+
+[[extra.references]]
+id = "principles-of-geology"
+note = "찰스 라이엘의 1830–33년 저작 — 동일과정설을 19세기의 지배적 지질학적 틀로 통합."
+
+[[extra.references]]
+id = "reliquiae-diluvianae"
+note = "윌리엄 버클런드의 1823년 저작 — 주류 지질학 내에서의 홍수론의 주된 19세기 정식화."
+
+[[extra.references]]
+id = "mesopotamian-chronicles"
+locator = "수메르 왕명록(여러 판본)"
+note = "장-자크 글라스너의 메소포타미아 연대기 전통에 대한 비판본으로, 막대한 수명을 가진 대홍수 이전 왕들이 등장하는 수메르 왕명록을 포함한다."
+
+[[extra.references]]
+id = "atra-hasis-lambert-millard"
+note = "램버트와 밀라드의 *아트라하시스* 서사시 표준 비판본 및 번역 — 대홍수 이전 시기에 대한 고바빌로니아의 주된 서사."
+
+[[extra.references]]
+id = "before-the-muses"
+locator = "표준 바빌로니아 *길가메시*, 제11서판"
+note = "포스터의 아카드 문학 선집 — 창세기 8:6–12와 병행하는 비둘기-까마귀 시퀀스를 가진 길가메시 홍수 서사에 대한 주된 학술적 접근점."
+
+[[extra.references]]
+id = "vidal-naquet-atlantis-story"
+note = "피에르 비달-나케의 *티마이오스*/*크리티아스* 아틀란티스 전승에 대한 표준적 현대 학술 다룸 — 역사적 아틀란티스에 대해 회의적이며, 대안 고고학적 동정이 위치하는 주된 주류 자료."
+
+[[extra.references]]
+id = "gobekli-tepe-schmidt"
+note = "클라우스 슈미트의 괴베클리 테페 발굴에 관한 토대 모노그래프 — 기원전 약 9600년의 그 건설이 복합적 인류 문명이 언제 시작되었는지에 대한 종래의 지배적 견해를 실질적으로 뒤집은 유적지."
+
+[[extra.references]]
+id = "natufian-culture-in-the-levant"
+note = "바르-요세프와 발라의 나투프 문화에 관한 표준적 학술 다룸 — 괴베클리 테페가 속하는 보다 광범위한 지역적 맥락."
+
+[[extra.references]]
+id = "fingerprints-of-the-gods"
+note = "그레이엄 핸콕의 1995년 저작 — 동시대 격변론적 문명 전통의 토대 작업."
+
+[[extra.references]]
+id = "magicians-of-the-gods"
+note = "핸콕의 2015년 저작으로, 대홍수 이전 문명 파괴의 메커니즘 제안으로서 영거 드라이아스 충돌 가설로 수렴한다."
+
+[[extra.references]]
+id = "america-before"
+note = "핸콕의 2019년 저작 — 격변론적 가설을 아메리카 대륙으로 확장."
+
+[[extra.references]]
+id = "voices-of-the-rocks"
+note = "로버트 쇼크가 풍화 패턴에 근거하여 기자의 대스핑크스의 연대 재측정을 주장한 지질학적 논변 — 학계의 이집트학에서는 논쟁 중이며, 보다 광범위한 격변론적 문명 전통 내에 위치한다."
+
+[[extra.references]]
+id = "cataclysm-allan-delair"
+note = "앨런과 들레어가 제시한 후기 플라이스토세 우주 격변 가설의 초기 정식화 — 이후의 격변론 문헌이 이를 토대로 구축되었다."
+
+[[extra.references]]
+id = "firestone-pnas-2007"
+note = "영거 드라이아스 충돌 가설의 주된 동료 평가 학술지 출판 — 약 12,900년 전의 상당한 외계 충돌 사건에 대한 지구화학적·층서학적 증거."
+
+[[extra.references]]
+id = "myth-of-the-eternal-return"
+note = "미르체아 엘리아데의 비교종교 현상학의 토대 작업 — 전 지구적 주기적 파괴 전승들이 공유된 구조적 패턴의 표현으로 읽힌다."
+
+[[extra.references]]
+id = "origins-of-the-worlds-mythologies"
+note = "E. J. 마이클 비첼이 제시한 전 지구적 홍수, 황금시대, 잃어버린 문명 전승들 사이의 구조적 병행에 대한 광범위한 비교적 재구성."
 
 [extra.infobox]
 type = "Historical period"
@@ -24,320 +134,228 @@ principal_framework_source = "*Message from the Designers* (Vorilhon/Raël, 1974
 date_type = "framework-internal; bracketing ages are precessional and the human-creation anchor derives from the 666-generation calculation"
 +++
 
-**Antediluvian** (from Latin *ante*, "before," + *diluvium*, "flood") is the conventional English term for the period of human existence on Earth before the Great Flood narrated in Genesis 6–9 and in parallel traditions preserved across multiple ancient cultures. The Hebrew Bible has no equivalent technical term, referring to the period descriptively as the days before the Flood or using more general terms such as *qedem* ("former times, antiquity"). The Greek Septuagint translation uses the phrase *πρὸ τοῦ κατακλυσμοῦ* (*pro tou kataklysmou*, "before the cataclysm"). The Latin construction enters English in the seventeenth century through the work of biblical chronologists and early geologists, and becomes standard in the geological and theological literature of the eighteenth century, when the dating and historicity of the antediluvian world were live questions for both natural science and biblical interpretation.
+**대홍수 이전 시대**(라틴어 *ante* "이전" + *diluvium* "홍수"에서 유래)는 {% libref(book="genesis-woh", chapter=6, verse=1) %}창세기 6–9장{% end %} 및 다수의 고대 문화권에 보존된 병행 전승들에서 서술되는 대홍수에 앞서 지구상에서 인류가 존재했던 시기를 가리키는 통상적인 영어 용어이다. {% wiki(slug="hebrew-bible") %}히브리어 성경{% end %}에는 이에 상응하는 기술적 용어가 없으며, 이 시기를 기술적으로 "대홍수 이전의 날들"이라 부르거나 *qedem*("이전 시대, 고대")와 같은 보다 일반적인 용어를 사용한다. 그리스어 70인역은 *πρὸ τοῦ κατακλυσμοῦ*(*pro tou kataklysmou*, "대격변 이전") 구절을 사용한다. 라틴어 합성어는 17세기에 성서 연대학자들과 초기 지질학자들의 작업을 통해 영어에 진입했으며,{{ footnote(id="1") }} 18세기의 지질학적·신학적 문헌에서 표준 용어가 되었는데, 그때 대홍수 이전 세계의 연대와 역사성은 자연과학과 성서 해석 양자에 있어 살아 있는 쟁점이었다.
 
-On the reading developed in the Raëlian source material and adopted by the Wheel of Heaven corpus, the antediluvian world is the post-creation pre-Flood span: from the synthesis of the first humans in the late Age of Leo (c. 11,375 BCE) through the catastrophic Flood event at the close of the Age of Cancer (c. 6,690 BCE), a span of approximately five millennia. This is the world in which the seven regional human lineages produced by the Elohim creator teams developed substantial civilizations on a single supercontinent, in continuous trade and conflict with one another, with the Eden lineage advancing — under the continuing tutelage of the exiled Lucifer faction and through the longevity granted to its patriarchal leadership — to a level of technological and scientific sophistication that the home-world Council ultimately judged unacceptable. The Flood was the home world's response. The antediluvian world is what the Flood ended.
+라엘 자료에서 발전하여 Wheel of Heaven 코퍼스가 채택한 독해에 따르면, 대홍수 이전 세계는 창조 이후 대홍수 이전의 시간대이다. 즉 사자자리 시대 후반(기원전 약 11,375년)에 최초의 인간이 합성된 시점부터 게자리 시대 종결의 파국적 {% wiki(slug="great-flood") %}대홍수{% end %} 사건(기원전 약 6,690년)까지의 약 5천 년에 걸친 기간이다. 이는 {% wiki(slug="elohim") %}엘로힘{% end %} 창조자 팀들이 산출한 일곱 지역 인류 계통이 단일한 초대륙 위에서 상당한 문명들을 발전시키며 서로 지속적인 교역과 갈등 속에 있었고, {% wiki(slug="eden") %}에덴{% end %} 계통은 유배된 {% wiki(slug="lucifer") %}루시퍼{% end %} 분파의 지속적 지도 아래 그리고 그 족장적 지도부에 부여된 장수를 통해 — 모행성의 의회가 결국 용납할 수 없다고 판단한 수준의 기술적·과학적 정교함에까지 — 진보한 세계였다. 대홍수는 모행성의 응답이었다. 대홍수 이전 세계는 대홍수가 종결시킨 그 무엇이다.
 
-The reading is contested. Within mainstream geology and archaeology, the historicity of any global Flood event is rejected: the geological record contains no evidence of a planet-wide inundation in the relevant period, and the various ancient flood traditions are conventionally explained as the cultural memory of regional flood events generalized into cosmic narratives. Within biblical scholarship, the antediluvian narrative is read variously as mythological composition, as theological commentary on the human condition, or as the redactional preservation of older Mesopotamian flood-and-creation traditions. The corpus's reading depends on the framework's broader account of the Elohim civilization and the Earth project, treats the Hebrew Bible's antediluvian narrative as preserving a substantively accurate historical record in compressed form, and engages the modern archaeological developments — particularly the Pre-Pottery Neolithic discoveries of southeastern Anatolia — as material evidence consistent with the framework's reading.
+이 독해는 논쟁의 대상이다. 주류 지질학과 고고학 내에서 전 지구적 대홍수 사건의 역사성은 거부된다. 지질학적 기록에는 해당 시기에 지구 전체에 걸친 침수의 증거가 없으며, 다양한 고대 홍수 전승들은 통상적으로 지역적 홍수 사건에 대한 문화적 기억이 우주적 서사로 일반화된 것으로 설명된다. 성서학 내에서 대홍수 이전 서사는 신화적 구성물로, 인간 조건에 대한 신학적 주석으로, 또는 보다 오래된 메소포타미아 홍수-창조 전승들의 편집적 보존으로 다양하게 읽힌다. 코퍼스의 독해는 엘로힘 문명과 지구 프로젝트에 관한 프레임워크의 보다 광범위한 설명에 의존하며, 히브리어 성경의 대홍수 이전 서사를 압축된 형태로 실질적으로 정확한 역사적 기록을 보존하는 것으로 다루고, 근대의 고고학적 발전들 — 특히 아나톨리아 남동부의 토기 이전 신석기 발견들 — 을 그 프레임워크의 독해와 합치하는 물적 증거로 다룬다.
 
-## Etymology
+## 어원
 
-The English word *antediluvian* is a Latinate compound: *ante-* (before) + *diluvium* (flood) + the adjectival suffix *-an*. *Diluvium* in Latin is the standard term for a flood or inundation, used in classical Latin for the destructive overflow of rivers and adopted by ecclesiastical Latin specifically for the biblical Flood narrated in Genesis 6–9. The Vulgate uses *diluvium* throughout the Genesis Flood narrative, and the term enters Christian Latin theological discourse as the standard designation for the event.
+영어 *antediluvian*은 라틴어 합성어이다. *ante-*(이전) + *diluvium*(홍수) + 형용사 접미사 *-an*. 라틴어 *diluvium*은 홍수 또는 침수를 가리키는 표준 용어로, 고전 라틴어에서 강의 파괴적인 범람에 사용되었으며 교회 라틴어에서는 특히 {% libref(book="genesis-woh", chapter=6, verse=1) %}창세기 6–9장{% end %}에서 서술되는 성서적 대홍수를 가리키는 데 채택되었다. 불가타 성서는 창세기 홍수 서사 전반에서 *diluvium*을 사용하며, 이 용어는 그 사건의 표준 명칭으로서 기독교 라틴 신학 담론에 진입한다.
 
-The English compound *antediluvian* enters the language in the early seventeenth century. Sir Thomas Browne uses the term in *Pseudodoxia Epidemica* (1646), in the context of discussions of the longevity of the biblical patriarchs and the conditions of the world before the Flood. Browne's use is technical-theological: he is engaged with the genuinely contested early-modern question of how long humans lived before the Flood and what the physical conditions of the antediluvian world might have been. The term spreads across the seventeenth and eighteenth centuries as the standard designation for the period in biblical-chronological and natural-philosophical contexts, used by figures including Edward Stillingfleet, Thomas Burnet (in his influential *Telluris Theoria Sacra* of 1681), and the early geological writers including James Hutton and Georges Cuvier.
+영어 합성어 *antediluvian*은 17세기 초에 영어에 진입한다. 토머스 브라운 경은 *Pseudodoxia Epidemica*(1646)에서 성서 족장들의 장수 및 대홍수 이전 세계의 조건들에 관한 논의의 맥락에서 이 용어를 사용한다.{{ cite(id="pseudodoxia-epidemica", text="[1]", title="브라운, *Pseudodoxia Epidemica* (1646) — 학술적 영어에서 *antediluvian*의 기술적 사용을 위한 인용 지점") }} 브라운의 사용은 기술-신학적이다. 그는 대홍수 이전에 인간이 얼마나 오래 살았는가, 그리고 대홍수 이전 세계의 물리적 조건들이 어떠했을 수 있는가에 관한 진정으로 논쟁적이었던 초기 근대의 문제와 씨름하고 있다. 이 용어는 17세기와 18세기에 걸쳐 성서-연대학적 및 자연철학적 맥락에서 이 시기를 가리키는 표준 명칭으로 확산되었으며, 에드워드 스틸링플리트, 토머스 버넷(영향력 있는 1681년의 *Telluris Theoria Sacra*에서){{ cite(id="telluris-theoria-sacra", text="[2]", title="버넷, *Telluris Theoria Sacra* (1681) — 창세기 우주론에 대한 17세기 후반의 가장 영향력 있는 통합적 설명") }}, 그리고 제임스 허턴과 조르주 퀴비에 등 초기 지질학 저술가들을 포함하는 인물들에 의해 사용되었다.
 
-The Hebrew Bible itself has no equivalent technical term. The period before the Flood is referred to descriptively — "the days before the Flood" (*ha-yamim asher lifney ha-mabbul*) appears in Matthew 24:38 in Greek translation but not as a fixed Hebrew phrase. The more general term *qedem* (<span class="hebrew">קֶדֶם</span>), "former times, antiquity, the east," is used across the Hebrew Bible for the deep past, though without the specific technical sense the Latin *ante-diluvium* carries. The absence of a Hebrew technical term for the period reflects the fact that the period's specific definition — the time before a specific catastrophic event — required the Flood narrative itself to be canonized as the dividing event, after which the term's referent became clear.
+히브리어 성경 자체에는 이에 상응하는 기술적 용어가 없다. 대홍수 이전의 시기는 기술적으로 — "대홍수 이전의 날들"(*ha-yamim asher lifney ha-mabbul*) — 마태복음 24:38에 그리스어 번역으로 등장하지만 고정된 히브리어 구절로는 등장하지 않는다. 보다 일반적인 용어 *qedem*(<span class="hebrew">קֶדֶם</span>), "이전 시대, 고대, 동쪽"은 히브리어 성경 전반에서 심층 과거를 가리키는 데 사용되지만, 라틴어 *ante-diluvium*이 가진 특정 기술적 의미는 갖지 않는다. 이 시기에 대한 히브리어 기술 용어의 부재는, 이 시기의 특정 정의 — 특정 파국적 사건 이전의 시간 — 가 성립하기 위해서는 대홍수 서사 자체가 분기 사건으로 정전화될 필요가 있었으며, 그 이후에야 용어의 지시체가 분명해졌다는 사실을 반영한다.
 
-## The conventional account
+## 통상적 설명
 
-The "conventional" account of the antediluvian period has shrunk substantially over the past three centuries. In the seventeenth and eighteenth centuries, the antediluvian world was a major subject of natural-philosophical and theological inquiry; by the present, mainstream usage of the term is largely metaphorical, with the literal-historical sense surviving mainly in religious and reinterpretive contexts.
+대홍수 이전 시기에 관한 "통상적" 설명은 지난 세 세기에 걸쳐 실질적으로 축소되어 왔다. 17세기와 18세기에 대홍수 이전 세계는 자연철학적·신학적 탐구의 주요 주제였다. 현재에 이르러 이 용어의 주류 용법은 대체로 비유적이며, 문자적-역사적 의미는 주로 종교적·재해석적 맥락에서만 살아남았다.
 
-### The early-modern Christian chronology
+### 초기 근대 기독교 연대기
 
-The dominant Christian chronology of the early-modern period was Archbishop James Ussher's, published in *Annales Veteris Testamenti* (1650). Ussher dated the creation of the world to 4004 BCE and the Flood to 2348 BCE, placing the antediluvian period at approximately 1,656 years (the figure derived from summing the ages of the patriarchs in Genesis 5). Ussher's chronology was widely adopted and was printed in the margins of the Authorized Version Bibles for two centuries; comparable chronologies by John Lightfoot and others gave dates in the same general range. Within this chronology, the antediluvian world was a relatively brief and recent period, with the patriarchs' very long lifespans (Adam at 930 years, Methuselah at 969) compressed into less than two millennia.
+초기 근대 기간의 지배적인 기독교 연대기는 어셔 대주교의 것이었으며, *Annales Veteris Testamenti*(1650)로 출간되었다.{{ cite(id="annales-veteris-testamenti", text="[3]", title="어셔, *Annales Veteris Testamenti* (1650) — 대홍수 이전 시기에 관한 주된 초기 근대 기독교 연대기") }} 어셔는 세계 창조의 연대를 기원전 4004년으로, 대홍수의 연대를 기원전 2348년으로 잡았으며, 대홍수 이전 시기를 약 1,656년으로 두었다(이 수치는 {% libref(book="genesis-woh", chapter=5) %}창세기 5장{% end %}의 족장들의 햇수를 합산하여 도출된 것이다). 어셔의 연대기는 광범위하게 채택되었고 두 세기 동안 흠정역 성서의 난외에 인쇄되었으며, 존 라이트풋 등의 비교 가능한 연대기들도 동일한 일반 범위의 연대를 제시했다. 이 연대기 내에서 대홍수 이전 세계는 비교적 짧고 최근의 기간이었으며, 족장들의 매우 긴 수명(아담 930년, 므두셀라 969년)은 2천 년 미만으로 압축되었다.
 
-### The geological displacement
+### 지질학적 대체
 
-The geological revolution of the late eighteenth and nineteenth centuries displaced the Ussher chronology. James Hutton's *Theory of the Earth* (1788, expanded 1795) established the principle of geological deep time; Charles Lyell's *Principles of Geology* (1830–33) consolidated uniformitarianism as the dominant geological framework; the development of stratigraphy across the nineteenth century established the hundreds-of-millions-of-years timescale that has remained the geological consensus since. Within this framework, the biblical Flood as a historical event becomes problematic: the geological record contains no evidence of a global inundation in the recent past, and the various stratigraphic features that early flood-geologists had identified as Flood deposits (such as the supposed "diluvial" gravels of northern Europe) were progressively reinterpreted as glacial, fluvial, or other non-Flood origins.
+18세기 후반과 19세기의 지질학적 혁명은 어셔 연대기를 대체했다. 제임스 허턴의 *Theory of the Earth*(1788, 1795년 확장판){{ cite(id="theory-of-the-earth", text="[4]", title="허턴, *Theory of the Earth* (1788) — 지질학적 동일과정설의 토대 텍스트") }}는 지질학적 심층 시간의 원리를 확립했다. 찰스 라이엘의 *Principles of Geology*(1830–33){{ cite(id="principles-of-geology", text="[5]", title="라이엘, *Principles of Geology* (1830–33) — 19세기의 지배적 지질학적 틀로서의 동일과정설의 통합") }}는 동일과정설을 지배적 지질학적 틀로 통합했으며, 19세기에 걸친 층서학의 발전은 이후 지질학적 합의로 남아 있는 수억 년의 시간 척도를 확립했다. 이 틀 내에서 역사적 사건으로서의 성서적 대홍수는 문제적이 된다. 지질학적 기록에는 최근 과거에 일어난 전 지구적 침수의 증거가 없으며, 초기 홍수 지질학자들이 대홍수 퇴적물로 동정했던 다양한 층서학적 특징들(이른바 북유럽의 "홍적층" 자갈층 등)은 점차 빙하적, 하천적, 또는 그 밖의 비-대홍수적 기원으로 재해석되었다.
 
-The displacement was not immediate or uncontested. Diluvialism — the view that the geological record preserved evidence of the biblical Flood — remained a mainstream geological position into the mid-nineteenth century, defended by figures including William Buckland (whose *Reliquiae Diluvianae* of 1823 was the major work in the tradition). Buckland himself eventually abandoned the position in the 1830s in light of the glacial-theory developments of Louis Agassiz; the broader scientific community followed across the subsequent decades. By the late nineteenth century, mainstream geology no longer treated the biblical Flood as a historical event with geological consequences.
+이 대체는 즉각적이지도 무경합적이지도 않았다. 지질학적 기록이 성서적 대홍수의 증거를 보존한다는 견해인 홍수론은 19세기 중반까지도 주류 지질학적 입장으로 남아 있었으며, 윌리엄 버클런드(1823년의 *Reliquiae Diluvianae*가 이 전통의 주요 저작)와 같은 인물들에 의해 옹호되었다.{{ cite(id="reliquiae-diluvianae", text="[6]", title="버클런드, *Reliquiae Diluvianae* (1823) — 주류 홍수론의 주된 19세기 저작") }} 버클런드 자신은 1830년대에 루이 아가시즈의 빙하 이론의 발전들에 비추어 결국 그 입장을 포기했으며, 보다 넓은 과학계는 그 이후의 수십 년에 걸쳐 그를 따랐다. 19세기 후반에 이르러 주류 지질학은 더 이상 성서적 대홍수를 지질학적 결과를 가지는 역사적 사건으로 다루지 않았다.
 
-### The contemporary mainstream
+### 동시대 주류
 
-In contemporary mainstream usage, the term *antediluvian* survives in two distinct registers. In specialist religious and theological contexts, it retains its original sense — the period before the Flood — used principally within confessional Christian and Jewish discussions of the Genesis narrative. In broader contemporary English, the term is used metaphorically to mean "extremely old, primitive, or outmoded": *Webster's* and other major contemporary dictionaries give this metaphorical sense as the dominant modern usage. The literal-historical sense has been substantially abandoned in mainstream secular contexts because the global-Flood historicity it presupposes is no longer accepted in mainstream geology.
+동시대 주류 용법에서 *antediluvian*이라는 용어는 두 개의 구분되는 영역에서 살아남았다. 전문적 종교·신학 맥락에서는 원래의 의미 — 대홍수 이전 시기 — 를 보존하며, 주로 창세기 서사에 대한 고백적 기독교 및 유대교 논의 내에서 사용된다. 보다 광범위한 동시대 영어에서 이 용어는 "극히 오래된, 원시적인, 또는 시대에 뒤떨어진"이라는 의미로 비유적으로 사용된다. *웹스터* 사전 및 그 밖의 주요 동시대 사전들은 이 비유적 의미를 지배적인 근대적 용법으로 제시한다. 그것이 전제하는 전 지구적 대홍수의 역사성이 더 이상 주류 지질학에서 받아들여지지 않기 때문에, 문자적-역사적 의미는 주류 세속적 맥락에서 실질적으로 폐기되었다.
 
-The biblical narrative of the antediluvian period (Genesis 4–6:8) is treated within mainstream biblical scholarship as religious literature whose historical referents are mythological, theological, or — at most — distant cultural memory of regional flood events generalized into cosmic narrative. The very long patriarchal lifespans of Genesis 5 are read variously as numerological constructions, as mistranslations of an underlying numerical system (perhaps reflecting months rather than years), or as theological devices marking the patriarchs as figures of special status. The historical-critical approach, dominant in academic biblical studies since Wellhausen, treats the antediluvian narrative as a redactional composition assembled from earlier sources rather than as a historical record of identifiable events.
+대홍수 이전 시기의 성서 서사(창세기 4–6:8장)는 주류 성서학 내에서 역사적 지시체가 신화적, 신학적, 또는 — 기껏해야 — 우주적 서사로 일반화된 지역적 홍수 사건들에 대한 먼 문화적 기억인 종교 문학으로 다루어진다. {% libref(book="genesis-woh", chapter=5) %}창세기 5장{% end %}의 매우 긴 족장 수명은 수비학적 구성물, 기저 수치 체계의 오역(아마도 햇수가 아니라 달을 반영하는), 또는 족장들을 특별한 지위의 인물로 표시하는 신학적 장치로 다양하게 읽힌다.{{ footnote(id="3") }} 벨하우젠 이래로 학계 성서학에서 지배적인 역사-비평적 접근은 대홍수 이전 서사를 동정 가능한 사건들의 역사적 기록이 아니라 이전 자료들로부터 짜 맞춘 편집적 구성물로 다룬다.
 
-## In the Hebrew Bible and other ancient sources
+## 히브리어 성경 및 그 밖의 고대 자료에서
 
-The Hebrew Bible covers the antediluvian period in Genesis 4–6:8, beginning immediately after the expulsion from Eden in Genesis 3 and concluding with the divine decision to send the Flood. The narrative is unusually compressed: a few chapters carry events that on the corpus's reading occupy approximately five thousand years.
+히브리어 성경은 대홍수 이전 시기를 {% libref(book="genesis-woh", chapter=4) %}창세기 4–6:8장{% end %}에서 다루며, 창세기 3장의 에덴으로부터의 추방 직후에 시작되어 대홍수를 보내기로 한 신적 결정으로 종결된다. 이 서사는 비정상적으로 압축되어 있다. 단 몇 장에 코퍼스의 독해상 약 5천 년에 걸치는 사건들이 담겨 있다.
 
-### The Genesis narrative
+### 창세기 서사
 
-The principal content of Genesis 4–6:8 includes the conflict between Cain and Abel and Cain's subsequent exile and city-founding (Genesis 4); the genealogies of Cain's line, naming Jabal as the founder of pastoral nomadism, Jubal as the founder of music, and Tubal-Cain as the founder of metallurgy (Genesis 4:17–22); the parallel genealogy of Seth's line, with the long lifespans of the patriarchs from Adam (930 years) through Methuselah (969 years) to Noah (Genesis 5); the introduction of the *benei ha-Elohim* ("sons of Elohim") who take human women as wives and produce the *Nephilim* (Genesis 6:1–4); and the divine assessment of human wickedness and the announcement of the coming Flood (Genesis 6:5–8).
+{% libref(book="genesis-woh", chapter=4) %}창세기 4–6:8장{% end %}의 주된 내용에는 가인과 아벨의 갈등 및 가인의 그 후의 추방과 도시 건설({% libref(book="genesis-woh", chapter=4) %}창세기 4장{% end %}), 야발을 목축 유목의 창시자로, 유발을 음악의 창시자로, 두발가인을 야금술의 창시자로 명명하는 가인 계통의 족보({% libref(book="genesis-woh", chapter=4, verse=17) %}창세기 4:17–22{% end %}), {% wiki(slug="adam-and-eve") %}아담{% end %}(930년)부터 므두셀라(969년)를 거쳐 {% wiki(slug="noah") %}노아{% end %}에 이르는 족장들의 긴 수명을 가진 셋 계통의 병행 족보({% libref(book="genesis-woh", chapter=5) %}창세기 5장{% end %}), 인간의 여자들을 아내로 취하여 *Nephilim*을 산출하는 *benei ha-Elohim*("엘로힘의 아들들")의 도입({% libref(book="genesis-woh", chapter=6, verse=1) %}창세기 6:1–4{% end %}), 그리고 인간의 사악함에 대한 신적 평가와 다가올 대홍수의 선포({% libref(book="genesis-woh", chapter=6, verse=5) %}창세기 6:5–8{% end %})가 포함된다.
 
-The narrative is structurally bipartite. Genesis 4 traces the line of Cain from the expulsion to Lamech (the seventh generation from Adam through Cain), with cultural-technological founders at each generation. Genesis 5 traces the parallel line of Seth from Adam to Noah (the tenth generation), with the long lifespans recorded in formulaic detail. Genesis 6:1–4 then introduces the *benei ha-Elohim* / *Nephilim* material as a brief but consequential interlude before the Flood announcement at 6:5–8. The narrative's brevity and density have made it a site of substantial interpretive elaboration across both Jewish and Christian traditions.
+이 서사는 구조적으로 양분된다. 창세기 4장은 추방으로부터 라멕(가인을 통한 아담으로부터의 일곱 번째 세대)까지의 가인 계통을 추적하며, 각 세대에서 문화-기술적 창시자들이 등장한다. 창세기 5장은 아담부터 노아(열 번째 세대)까지의 병행하는 셋 계통을 추적하며, 긴 수명이 정형화된 세부로 기록된다. 그 후 {% libref(book="genesis-woh", chapter=6, verse=1) %}창세기 6:1–4{% end %}는 *benei ha-Elohim* / *Nephilim* 자료를 6:5–8의 대홍수 선포 이전의 짧지만 결정적인 막간으로 도입한다. 이 서사의 간결함과 밀도는 그것을 유대교와 기독교 양 전통에 걸쳐 상당한 해석적 정교화의 자리로 만들었다.
 
-### The Mesopotamian sources
+### 메소포타미아 자료
 
-Several ancient Mesopotamian sources preserve substantial antediluvian material that parallels the Genesis narrative in structurally significant ways.
+여러 고대 메소포타미아 자료들은 창세기 서사와 구조적으로 의미 있는 방식으로 병행하는 상당한 대홍수 이전 자료를 보존하고 있다.
 
-The **Sumerian King List**, in its various recensions, records a sequence of pre-Flood kings with reigns of extraordinary length — figures such as Alulim (28,800 years), Alalngar (36,000 years), and others, summing to total reign-lengths in the hundreds of thousands of years before the Flood interrupts the sequence and reign-lengths drop sharply afterward. The structural parallel to Genesis 5 (ten antediluvian patriarchs with vast lifespans, ending with Noah and the Flood) is striking, though the specific Sumerian figures are far larger than the Genesis figures.
+**수메르 왕명록**은 그 다양한 판본에서 비범한 길이의 통치 기간을 가진 일련의 대홍수 이전 왕들을 기록한다. 알룰림(28,800년), 알랄응가르(36,000년) 등이 그 예로, 통치 기간의 합계는 대홍수가 그 시퀀스를 중단시키고 그 이후 통치 기간이 급격히 짧아지기 전까지 수십만 년에 이른다.{{ cite(id="mesopotamian-chronicles", text="[7]", title="글라스너, *Mesopotamian Chronicles* (2004) — 수메르 왕명록 및 보다 광범위한 연대기 전통에 대한 표준 비판본") }} 창세기 5장(노아와 대홍수로 종결되는, 막대한 수명을 가진 열 명의 대홍수 이전 족장들)과의 구조적 병행은 두드러지지만, 구체적인 수메르의 수치는 창세기의 수치보다 훨씬 크다.
 
-The Babylonian priest **Berossus**, writing in the third century BCE in his *Babyloniaca*, preserves a similar tradition of ten antediluvian kings with very long reigns, the last of whom is Xisuthros — the Berossan equivalent of the biblical Noah and the Mesopotamian Atra-ḫasīs / Utnapishtim.
+기원전 3세기에 *Babyloniaca*를 저술한 바빌로니아 사제 **베로수스**는 대홍수 이전의 매우 긴 통치를 가진 열 명의 왕들에 관한 유사한 전승을 보존하는데, 그 마지막 인물은 크시수트로스 — 성서의 노아 및 메소포타미아의 아트라하시스 / 우트나피슈팀에 상응하는 베로수스적 등가물 — 이다.
 
-The Akkadian **Atra-ḫasīs Epic** (early second millennium BCE) provides the most detailed Mesopotamian narrative of the pre-Flood period. The epic describes the creation of humans by the gods to perform labor, the proliferation of humanity, the divine decision to send a flood to reduce the human population, and the survival of Atra-ḫasīs through divine warning. The structural parallels to Genesis 6–9 are extensive, including the warning to the survivor, the construction of a vessel, the loading of animals, the survival of the flood, the post-flood sacrifice, and the divine response.
+아카드의 ***아트라하시스* 서사시**(기원전 2천년기 초)는 대홍수 이전 시기에 대한 가장 상세한 메소포타미아 서사를 제공한다.{{ cite(id="atra-hasis-lambert-millard", text="[8]", title="램버트 & 밀라드, *Atra-ḫasīs: The Babylonian Story of the Flood* (1969) — 표준 비판본 및 번역") }} 이 서사시는 노동을 수행하기 위한 신들에 의한 인간의 창조, 인류의 증식, 인구를 줄이기 위해 홍수를 보내기로 한 신적 결정, 그리고 신적 경고를 통한 아트라하시스의 생존을 묘사한다. 창세기 6–9장과의 구조적 병행은 광범위하며, 생존자에 대한 경고, 선박의 건조, 동물의 적재, 홍수로부터의 생존, 홍수 이후의 희생제, 그리고 신적 응답을 포함한다.
 
-The flood passages of the **Epic of Gilgamesh** (Standard Babylonian version, c. late second millennium BCE) preserve a closely parallel narrative in Tablet XI, where Utnapishtim recounts the flood story to Gilgamesh. The dove-raven sequence preserved nearly verbatim in Genesis 8:6–12 is one of the most direct textual parallels.
+**길가메시 서사시**(표준 바빌로니아판, 기원전 2천년기 후반경)의 홍수 단락들은 우트나피슈팀이 길가메시에게 홍수 이야기를 들려주는 제11서판에 밀접하게 병행하는 서사를 보존한다.{{ cite(id="before-the-muses", text="[9]", title="포스터, *Before the Muses* (2005) — 아카드 문학의 표준 선집, 길가메시 홍수 서사에 대한 주된 학술적 접근") }} 창세기 8:6–12에 거의 그대로 보존된 비둘기-까마귀 시퀀스는 가장 직접적인 본문적 병행 중 하나이다.
 
-### Other ancient traditions
+### 그 밖의 고대 전승들
 
-Beyond the Mesopotamian sources, traditions of a lost pre-Flood civilization recur with striking consistency across the ancient world.
+메소포타미아 자료들을 넘어, 잃어버린 대홍수 이전 문명에 관한 전승들은 고대 세계 전반에 걸쳐 두드러진 일관성을 가지고 반복된다.
 
-**Plato**, in the *Timaeus* and *Critias* (mid-fourth century BCE), presents the Atlantis tradition through the figure of Solon, who reportedly received it from Egyptian priests at Sais. **Hesiod**, in *Works and Days* (c. 700 BCE), describes a Golden Race that lived before the present age and was destroyed by the gods. **Hindu** cosmology preserves the *yuga* cycle, in which prior ages of advanced civilization rose and fell across periods comparable to or exceeding the time depths the corpus attributes to the antediluvian world. The **Egyptian** tradition of *zep tepi* ("the first time") describes a prior period when the gods walked among men. The **Mesoamerican** *Popol Vuh* records prior attempts at humanity destroyed by the gods before the present. **Polynesian** traditions speak of sunken homelands; **Celtic** traditions of cities lost beneath the sea.
+**플라톤**은 *티마이오스*와 *크리티아스*(기원전 4세기 중반)에서, 사이스의 이집트 사제들로부터 그것을 전수받았다고 전해지는 솔론이라는 인물을 통해 아틀란티스 전승을 제시한다.{{ cite(id="vidal-naquet-atlantis-story", text="[10]", title="비달-나케, *The Atlantis Story* (2007) — 아틀란티스 전승에 대한 표준적 동시대 학술 다룸") }} **헤시오도스**는 *일과 날*(기원전 약 700년)에서, 현재의 시대 이전에 살았으며 신들에 의해 파괴된 황금 종족을 묘사한다. **힌두** 우주론은 *유가* 순환을 보존하는데, 그 안에서 이전의 진보 문명 시대들이 코퍼스가 대홍수 이전 세계에 부여한 시간 깊이에 필적하거나 그를 초과하는 기간에 걸쳐 흥하고 망했다. **이집트**의 *zep tepi*("최초의 시간") 전승은 신들이 인간들 사이에서 걸어 다녔던 이전 시기를 묘사한다. **메소아메리카**의 *Popol Vuh*는 현재 이전에 신들에 의해 파괴된 인류에 대한 이전의 시도들을 기록한다. **폴리네시아** 전승들은 가라앉은 고향에 관해 말하며, **켈트** 전승들은 바다 아래로 사라진 도시들에 관해 말한다.
 
-The pattern is global. Mainstream comparative-religion scholarship has tended to treat each tradition in isolation, attributing them variously to mythology, to memory of local rather than global events, or to cultural diffusion from common sources. The corpus's reading treats the convergence as evidence of a single underlying historical event whose memory was preserved in fragmentary form across the various post-Flood populations; the question is treated more fully under *Surviving evidence and traces* below.
+이 패턴은 전 지구적이다. 주류 비교 종교 학계는 각 전승을 고립적으로 다루는 경향이 있었으며, 그것들을 신화로, 전 지구적 사건이 아니라 지역적 사건의 기억으로, 또는 공통의 자료로부터의 문화적 확산으로 다양하게 귀속시켜 왔다.{{ cite(id="myth-of-the-eternal-return", text="[11]", title="엘리아데, *The Myth of the Eternal Return* (1954) — 주기적 파괴 전승의 비교 현상학의 토대 작업") }} 코퍼스의 독해는 이 수렴을, 대홍수 이후의 다양한 인구 집단들 전반에 단편적 형태로 보존된 기억을 가지는 단일한 기저 역사적 사건의 증거로 다룬다. 이 문제는 아래의 *살아남은 증거와 흔적*에서 보다 충실하게 다루어진다.
 
-## Setting and context
+## 배경과 맥락
 
-The world in which the antediluvian period unfolded, on the corpus's reading, was substantially different from the present-day world in two principal respects: the continental configuration was different, and the human population was distributed across multiple regional civilizations under continuing alliance contact.
+코퍼스의 독해상, 대홍수 이전 시기가 전개된 세계는 두 가지 주된 측면에서 오늘날의 세계와 실질적으로 달랐다. 대륙 배치가 달랐고, 인류 인구는 지속적인 동맹 접촉 아래 다수의 지역 문명에 분포되어 있었다.
 
-### The supercontinent
+### 초대륙
 
-Across the antediluvian period, on the corpus's reading, the Earth's continental crust was consolidated into a single landmass. The seven Elohim creator teams, having distributed themselves across this landmass during the Age of Leo, were operating in seven distinct regional territories on a continuous land surface. The supercontinent's geography permitted overland travel and trade across distances that would later become impassable: a merchant traveling from the Eden region in the eastern-Mediterranean / Levantine area to the East Asian region during late Cancer could, in principle, walk the entire distance on continuous land, a journey of perhaps three or four thousand kilometers across demanding but feasible terrain.
+코퍼스의 독해상, 대홍수 이전 시기 전반에 걸쳐 지구의 대륙 지각은 단일한 육괴로 통합되어 있었다. 사자자리 시대에 이 육괴 전반에 자신들을 분포시킨 일곱 엘로힘 창조자 팀들은 연속된 육지 표면 위에서 일곱 개의 구별되는 지역 영토에서 작업하고 있었다. 이 초대륙의 지리는 후일 통과 불가능하게 될 거리를 가로지르는 육로 이동과 교역을 가능하게 했다. 게자리 시대 후반에 동지중해 / 레반트 지역의 에덴 영역에서 동아시아 영역으로 이동하는 상인은, 원칙상 약 3, 4천 킬로미터의 거리를, 험하지만 통과 가능한 지형을 가로지르는 여정으로, 연속된 육지 위에서 전 구간을 걸어 갈 수 있었다.
 
-The corpus's antediluvian supercontinent is *not* the conventional Pangaea of mainstream geology. The structural correspondence — a single consolidated continental mass surrounded by a single ocean — is shared, but the chronology is radically different: mainstream geology dates Pangaea's assembly to approximately 335 million years ago and its breakup to approximately 175 million years ago, with continental drift unfolding over hundreds of millions of years through mantle convection. The corpus reads the breakup as a catastrophic event during the Flood of the Age of Gemini at approximately 6,690 BCE, with the observed continental drift since then as the residual momentum of that event. The conflict with mainstream geological dating is substantial and is treated openly in the [Pangaea](../pangaea/) and [Great Flood](../great-flood/) entries. The Hebrew text of Genesis 1:9 preserves the configuration the corpus reads as the antediluvian setting: the dry land appears in *makom ehad*, "one place" — singular, not plural.
+코퍼스의 대홍수 이전 초대륙은 주류 지질학의 통상적인 판게아가 *아니다*.{{ footnote(id="2") }} 구조적 대응 — 단일한 통합 대륙 육괴가 단일한 대양에 둘러싸인다는 — 은 공유되지만, 연대기는 근본적으로 다르다. 주류 지질학은 판게아의 형성 시점을 약 3억 3,500만 년 전, 분열 시점을 약 1억 7,500만 년 전으로 보며, 대륙 이동은 맨틀 대류를 통해 수억 년에 걸쳐 전개된 것으로 본다. 코퍼스는 분열을 기원전 약 6,690년의 쌍둥이자리 시대의 대홍수 동안의 파국적 사건으로 읽으며,{{ footnote(id="1") }} 그 이후로 관측되는 대륙 이동은 그 사건의 잔여 운동량으로 본다. 주류 지질학적 연대 산정과의 충돌은 상당하며, {% wiki(slug="pangaea") %}판게아{% end %} 및 {% wiki(slug="great-flood") %}대홍수{% end %} 항목에서 공개적으로 다루어진다. {% libref(book="genesis-woh", chapter=1, verse=9) %}창세기 1:9{% end %}의 히브리어 본문은 코퍼스가 대홍수 이전 배경으로 읽는 배치를 보존한다. 즉 마른 땅이 *makom ehad*, "한 곳"에 — 복수가 아니라 단수로 — 나타난다.
 
-### The post-Eden political settlement
+### 에덴 이후의 정치적 정착
 
-The antediluvian period begins, on the corpus's reading, immediately after the political settlement that closed the Eden episode (treated more fully in the [Eden](../eden/) entry). The Lucifer faction — the dissident Israel-team scientists who had disclosed restricted knowledge to the first humans — was permanently exiled on Earth, while the remainder of the Israel team and the other six creator teams withdrew to the home world. The result was that the post-Eden world contained a continuing alliance presence (the exiled Lucifer faction) operating in continuous contact with the human population, while the broader alliance maintained surveillance from a distance through the home-world Council and the alliance vessel stationed near Earth.
+코퍼스의 독해상, 대홍수 이전 시기는 {% wiki(slug="eden") %}에덴{% end %} 일화를 종결지은 정치적 정착 직후에 시작된다. 루시퍼 분파 — 최초의 인간들에게 제한된 지식을 폭로한 이스라엘 팀의 반체제 과학자들 — 는 지구에 영구히 유배되었고, 이스라엘 팀의 나머지 인원과 나머지 여섯 창조자 팀은 모행성으로 철수했다. 그 결과 에덴 이후의 세계에는 인류 인구와 지속적인 접촉 속에서 작동하는 지속적인 동맹 주둔(유배된 루시퍼 분파)이 있었으며, 한편으로는 보다 광범위한 동맹이 모행성 {% wiki(slug="council-of-eternals") %}의회{% end %}와 지구 부근에 배치된 동맹 선박을 통해 원거리에서 감시를 유지했다.
 
-This political settlement structures the entire antediluvian period. The Eden lineage's distinctive trajectory — its rapid technological advancement, its long-lived patriarchal leadership, its eventual production of the *Nephilim* hybrid offspring, its civilizational achievements — is the result of the continuing Lucifer-faction tutelage that the political settlement made possible. The other six lineages, without continuing direct creator-teacher contact, developed more slowly and reached lower levels of technological capability across the same period.
+이 정치적 정착은 대홍수 이전 시기 전체를 구조화한다. 에덴 계통의 독특한 궤적 — 그 급속한 기술적 진보, 그 장수의 족장적 지도부, 그것이 결국 산출한 *Nephilim* 혼혈 자손, 그 문명적 성취 — 은 이 정치적 정착이 가능하게 한 루시퍼 분파의 지속적인 지도의 결과이다. 다른 여섯 계통들은 지속적인 직접 창조자-교사 접촉 없이 보다 천천히 발전했으며 같은 기간 동안 더 낮은 수준의 기술적 역량에 도달했다.
 
-## The framework's account
+## 프레임워크의 설명
 
-The corpus's reading of the antediluvian period is among the most operationally specific in the framework. The basis is the Raëlian source material — particularly *The Book Which Tells the Truth* (1974), with substantial elaboration through subsequent works — combined with the precessional chronology that maps Genesis 2:4–6:8 to the Age of Cancer. The Genesis text is treated as a literally accurate compressed account of real events, with the apparent cosmological strangeness (the longevity figures, the *benei ha-Elohim*, the *Nephilim*) read in the technical register the corpus develops.
+대홍수 이전 시기에 관한 코퍼스의 독해는 프레임워크 내에서 가장 운영적으로 구체적인 것 중 하나이다. 그 토대는 라엘 자료 — 특히 *진실을 말하는 책*(1974){{ cite(id="the-book-which-tells-the-truth", text="[12]", title="보릴롱(라엘), *The Book Which Tells the Truth* (1974), 2장 — 대홍수 이전 시기에 관한 토대적 라엘 자료") }}, 이후의 저작들을 통해 실질적으로 정교화됨 — 와, 창세기 2:4–6:8을 게자리 시대에 사상(寫像)하는 세차 연대기의 결합이다. 창세기 본문은 실제 사건들에 대한 문자 그대로 정확한 압축된 설명으로 다루어지며, 명백한 우주론적 기이함(장수의 수치, *benei ha-Elohim*, *Nephilim*)은 코퍼스가 발전시키는 기술적 영역에서 읽힌다.
 
-### The seven civilizations
+### 일곱 문명
 
-By the early Age of Cancer, each of the seven creator teams' human populations had begun to multiply, organize, and develop civilizations of its own. The seven lineages distributed roughly as follows across the supercontinent, on the corpus's identification:
+게자리 시대 초기에 이르러, 일곱 창조자 팀 각각의 인류 인구는 증식하고 조직되며 자신의 문명을 발전시키기 시작했다. 코퍼스의 동정에 따르면, 일곱 계통은 초대륙 전반에 대략 다음과 같이 분포되었다.
 
-- The **Eden lineage** in the eastern Mediterranean and Levantine portion — the territory that, after the breakup, would become Israel, Greece, Turkey, and the surrounding eastern Mediterranean coastlands. This is the lineage whose history the Hebrew Bible records in detail.
-- The **African lineage** south of the Mediterranean region, possibly extending across what is now the Sahara (which during the antediluvian period was substantially wetter, supporting populations the modern desert cannot).
-- The **South Asian lineage** in the Indus Valley region and surrounding territories.
-- The **East Asian lineage** in what would become the Chinese mainland and adjacent regions.
-- The **American lineage** in the territory that would become Mesoamerica or the Andes.
-- The **Oceanic lineage** in the supercontinent portion that would later become Australia and the Pacific island chains.
-- The **Northern European lineage** in what would become Scandinavia and surrounding northern lands.
+- **에덴 계통**은 동지중해와 레반트 부분 — 분열 이후 이스라엘, 그리스, 터키, 그리고 주변의 동지중해 연안 지역들이 될 영토 — 에 위치했다. 이는 히브리어 성경이 상세히 기록하는 그 역사를 가진 계통이다.
+- **아프리카 계통**은 지중해 지역 남쪽에 위치했으며, 오늘날의 사하라(대홍수 이전 시기에는 오늘날의 사막이 부양할 수 없는 인구를 부양하면서 실질적으로 더 습했던) 전반에 걸쳐 뻗어 있었을 가능성이 있다.
+- **남아시아 계통**은 인더스 계곡 지역 및 주변 영토에 위치했다.
+- **동아시아 계통**은 후일 중국 본토 및 인접 지역이 될 영역에 위치했다.
+- **아메리카 계통**은 후일 메소아메리카 또는 안데스가 될 영토에 위치했다.
+- **오세아니아 계통**은 후일 오스트레일리아 및 태평양 도서 연쇄가 될 초대륙 부분에 위치했다.
+- **북유럽 계통**은 후일 스칸디나비아 및 주변 북부 지역이 될 영역에 위치했다.
 
-The geographic identifications are partially speculative; the Raëlian source material does not specify the exact locations of the seven teams in detail. What the source establishes is that the seven teams worked in seven distinct regions of the supercontinent and that these regions corresponded broadly to the geographic origins of the major human population groups whose distributions the post-Flood world would inherit.
+지리적 동정은 부분적으로 추측적이다. 라엘 자료는 일곱 팀의 정확한 위치를 상세히 명시하지 않는다. 자료가 확립하는 것은 일곱 팀이 초대륙의 일곱 개의 구별되는 지역에서 작업했으며, 이 지역들이 대홍수 이후 세계가 물려받게 될 분포를 가진 주요 인류 인구 집단들의 지리적 기원과 광범위하게 대응했다는 점이다.
 
-The seven civilizations were in continuous contact through the supercontinent's overland trade routes and coastal maritime networks. Goods moved between regions; ideas and technologies moved; genetic material moved through migration and intermarriage. The cultural traditions of the seven, while distinctive enough to remain identifiable, were in continuous mutual influence. The picture is not one of seven isolated populations developing independently but of a global civilizational network — comparable in connectedness to the medieval Silk Road or the early modern European exploration networks, with the differences that the connections were continental rather than maritime and that the network sustained itself for approximately two thousand years across the Cancer age.
+일곱 문명은 초대륙의 육로 교역로와 해안 해상 네트워크를 통해 지속적인 접촉 속에 있었다. 재화는 지역들 사이를 오갔다. 사상과 기술도 오갔다. 유전 물질은 이주와 통혼을 통해 오갔다. 일곱의 문화적 전통들은 식별 가능한 채로 남아 있을 정도로는 구별되었지만, 지속적인 상호 영향 속에 있었다. 이 그림은 일곱 고립된 인구 집단이 독립적으로 발전한 것이 아니라, 전 지구적 문명 네트워크의 그림이다. 즉 그 연결성에서 중세 실크로드 또는 초기 근대 유럽 탐험 네트워크에 비견될 만한 것으로, 다만 그 연결이 해상이 아니라 대륙적이었으며 그 네트워크가 게자리 시대 전반에 걸쳐 약 2천 년 동안 자신을 유지했다는 차이가 있다.
 
-The political relations among the seven were not always peaceful. The Raëlian source material is explicit that the antediluvian period included substantial inter-human conflict, with the corpus reading these "abominable battles" as warfare conducted with technologies the Lucifer faction had transmitted to the Eden lineage and that had subsequently spread, through trade and diffusion, to the other civilizations. The military scale and intensity, on the corpus's reading, exceeded anything the post-Flood world would approach until the industrial era and possibly until the twentieth century.
+일곱 사이의 정치적 관계가 항상 평화로웠던 것은 아니다. 라엘 자료는 대홍수 이전 시기가 상당한 인간 내적 갈등을 포함했음을 명시하며, 코퍼스는 이 "혐오스러운 전투들"을 루시퍼 분파가 에덴 계통에 전수했고 이후 교역과 확산을 통해 다른 문명들로 퍼진 기술들로 수행된 전쟁으로 읽는다. 코퍼스의 독해상, 그 군사적 규모와 강도는 대홍수 이후 세계가 산업 시대까지, 그리고 어쩌면 20세기까지도 근접하지 못한 것이었다.
 
-### The Eden lineage's compounding advantages
+### 에덴 계통의 누적적 우위
 
-The Eden lineage held a privileged position among the seven, on the corpus's reading, through a compounding combination of factors that gave it a substantial and sustained lead over the other six. The corpus identifies five such factors:
+코퍼스의 독해상, 에덴 계통은 일곱 중에서 특권적 위치를 점했으며, 이는 그 계통에 다른 여섯에 대한 실질적이고 지속적인 우위를 부여한 요인들의 누적적 조합을 통해서였다. 코퍼스는 그러한 다섯 요인을 식별한다.
 
-**First**, the source material's specific characterization of the Israel-team humans as the most intelligent of the seven team outputs at the moment of their creation. The corpus treats this as a specific factual claim of the source about one team's particular work, not as licensing of any moral or modern hierarchical reading; the *ṣelem Elohim* — the "image of Elohim" granted in Genesis 1:27 — is shared equally by all human lineages and is the basis of universal human dignity that no historical claim about ancestry can override.
+**첫째**, 자료가 이스라엘 팀의 인간들을 그 창조의 순간에 일곱 팀 산출물 중 가장 지능적인 것으로 구체적으로 특징짓는다는 점이다. 코퍼스는 이것을 한 팀의 특정한 작업에 관한 자료의 구체적인 사실 주장으로 다루며, 어떠한 도덕적 또는 근대적 위계적 독해의 허가로 다루지 않는다. {% libref(book="genesis-woh", chapter=1, verse=27) %}창세기 1:27{% end %}에서 부여된 *ṣelem Elohim* — "엘로힘의 형상" — 은 모든 인류 계통이 동등하게 공유하며, 혈통에 관한 어떠한 역사적 주장도 무효화할 수 없는 보편적 인간 존엄의 토대이다.
 
-**Second**, the continued direct presence of the Lucifer faction as ongoing teachers. The other six lineages had received initial instruction from their founding teams during Leo and then lost continuous direct contact when those teams withdrew at the close of the Eden crisis. The Eden lineage retained the Lucifer faction permanently. The dissident Elohim continued to teach across the centuries, refining the Eden lineage's understanding of the sciences and technologies the home world had originally prohibited.
+**둘째**, 루시퍼 분파의 지속적인 직접 현존이 계속되는 교사로서 작용했다는 점이다. 다른 여섯 계통들은 사자자리 시대 동안 그들의 창설 팀들로부터 초기 교습을 받았으나 에덴 위기 종결 시 그 팀들이 철수했을 때 지속적인 직접 접촉을 상실했다. 에덴 계통은 루시퍼 분파를 영구히 보유했다. 반체제 엘로힘은 수 세기에 걸쳐 계속 가르쳤으며, 모행성이 원래 금지했던 과학과 기술에 대한 에덴 계통의 이해를 세련화했다.
 
-**Third**, the longevity treatment granted to the Eden lineage's patriarchal leadership. The Genesis 5 genealogy records specific ages — Adam at 930 years, Seth at 912, Enosh at 905, Mahalalel at 895, Jared at 962, Methuselah at 969, Lamech at 777, and Noah at 950 — for the line descending from Adam through Seth to Noah. These extended lifespans, on the corpus's reading, are the consequence of the Tree of Life longevity technology that the Lucifer faction managed to obtain on a limited and case-by-case basis for the Eden civilization's leadership. The longevity was not hereditary in the broad sense; the general human population, including the descendants of Cain and the broader populations of the other six civilizations, lived ordinary human lifespans on the order of decades. The civilizational consequences of this asymmetry are substantial: a leader living nine hundred years can pursue research projects across multiple ordinary generations, integrate fields of expertise that in a short-lived civilization would be siloed across separate practitioners, and let personal memory function as institutional memory in ways no short-lived civilization can match.
+**셋째**, 에덴 계통의 족장적 지도부에게 부여된 장수 처치이다. {% libref(book="genesis-woh", chapter=5) %}창세기 5장{% end %}의 족보는 아담을 통해 셋을 거쳐 노아에 이르는 계통에 대해 구체적인 햇수를 기록한다. 아담 930년, 셋 912년, 에노스 905년, 마할랄렐 895년, 야렛 962년, 므두셀라 969년, 라멕 777년, 노아 950년.{{ footnote(id="3") }} 코퍼스의 독해상, 이 연장된 수명은 루시퍼 분파가 에덴 문명의 지도부를 위해 제한적이고 사례별 기반으로 획득할 수 있었던 {% wiki(slug="tree-of-life") %}생명나무{% end %} 장수 기술의 결과이다. 이 장수는 광범위한 의미에서 유전적이지 않았다. 가인의 후손을 포함한 일반 인류 인구와 다른 여섯 문명의 보다 광범위한 인구는 수십 년 단위의 통상적인 인간 수명을 살았다. 이 비대칭의 문명적 결과는 실질적이다. 900년을 사는 지도자는 여러 통상적 세대에 걸쳐 연구 프로젝트를 추진할 수 있고, 단명한 문명에서라면 별개의 실무자들 사이에 분리되어 있을 전문 분야들을 통합할 수 있으며, 어떠한 단명 문명도 견줄 수 없는 방식으로 개인적 기억이 제도적 기억으로 기능하도록 할 수 있다.
 
-**Fourth**, the hybrid offspring of the *benei ha-Elohim* — the "sons of Elohim" who took human women as wives — produced the *Nephilim*, the "men of renown" of Genesis 6:4. By mid-Cancer these hybrids were a substantial population within the Eden civilization, possessing capabilities approaching the Elohim's own. They became leaders, warriors, builders, and scientists, naturally rising to positions of substantial authority. The Eden civilization was therefore not only being taught by the exiled Elohim but was incorporating Elohim genetic material directly into its leadership population.
+**넷째**, *benei ha-Elohim* — 인간의 여자들을 아내로 취한 "엘로힘의 아들들" — 의 혼혈 자손이 {% libref(book="genesis-woh", chapter=6, verse=4) %}창세기 6:4{% end %}의 "명성 있는 자들"인 *Nephilim*을 산출했다는 점이다. 게자리 시대 중반에 이르러 이 혼혈들은 에덴 문명 내에서 엘로힘 자신의 그것에 근접하는 능력을 가지는 상당한 인구가 되었다. 그들은 지도자, 전사, 건설자, 과학자가 되었으며, 자연스럽게 상당한 권위의 자리에 올랐다. 따라서 에덴 문명은 유배된 엘로힘에 의해 가르침을 받고 있었을 뿐만 아니라 엘로힘의 유전 물질을 직접 그 지도부 인구에 통합하고 있었다.
 
-**Fifth**, the technologies the exiled creators transmitted, including the military arsenal that produced the "abominable battles" the source describes. The Eden civilization possessed advanced peaceful and military technologies; the other civilizations developed their own through their research programs and through diffusion, but the Eden civilization remained at the leading edge throughout the age.
+**다섯째**, 유배된 창조자들이 전수한 기술들로, 여기에는 자료가 묘사하는 "혐오스러운 전투들"을 산출한 군사 무기고가 포함된다. 에덴 문명은 진보한 평화적·군사적 기술을 보유했다. 다른 문명들은 자신의 연구 프로그램을 통해 그리고 확산을 통해 자신의 기술을 발전시켰지만, 에덴 문명은 시대 전반에 걸쳐 선두에 남아 있었다.
 
-The compounding effect — talented founding population, continuous direct instruction by creator-teachers, longevity for leaders, hybrid-Elohim genetic material in the leadership stock, advanced technologies — produced a civilization that, by the end of the Age of Cancer, had advanced to a level the corpus treats with substantial epistemic humility. The physical evidence is fragmentary, most of what existed having been destroyed in the Flood. The cultural memories preserved in subsequent traditions give hints. The corpus licenses serious speculation that the Eden civilization may have been comparable to or in some respects exceeding the present-day technological civilization; the source material itself does not specify the peak capability, but the dramaturgical implication is clear: the civilization advanced *far enough that the home world considered intervention unavoidable*.
+누적적 효과 — 재능 있는 창설 인구, 창조자-교사들에 의한 지속적인 직접 교습, 지도자를 위한 장수, 지도층 혈통 내의 혼혈-엘로힘 유전 물질, 진보한 기술 — 는 게자리 시대 종결 무렵 코퍼스가 실질적인 인식론적 겸손으로 다루는 수준에 진보한 문명을 산출했다. 물적 증거는 단편적이며, 존재했던 것의 대부분은 대홍수에서 파괴되었다. 후속 전승들에 보존된 문화적 기억들은 단서를 준다. 코퍼스는 에덴 문명이 오늘날의 기술 문명에 필적하거나 일부 측면에서는 이를 초과했을 수 있다는 진지한 추측을 허가한다. 자료 자체는 정점의 역량을 명시하지 않지만, 극적인 함의는 분명하다. 즉 문명은 *모행성이 개입을 불가피한 것으로 간주할 만큼 충분히 멀리* 진보했다.
 
-### Cain, Seth, and the early human civilizations
+### 가인, 셋, 그리고 초기 인류 문명들
 
-The biblical account in Genesis 4–5 names specific individuals as the founders of specific cultural and technological developments, in a genealogical structure the corpus treats as substantively accurate. The line of Cain produces, within a few generations of the expulsion: pastoral nomadism (Jabal, Genesis 4:20), music (Jubal, 4:21), and metallurgy (Tubal-Cain, 4:22). These are not the inventions of vague primitive humans; they are specific cultural and technological developments attributed to specific named persons whose genealogies the text preserves. The line of Seth — the line through which the longevity treatment is transmitted, on the corpus's reading, by the exiled Elohim teachers — produces the patriarchal leadership that will carry the Eden civilization through to Noah.
+창세기 4–5장의 성서 기록은, 코퍼스가 실질적으로 정확한 것으로 다루는 족보적 구조에서, 특정 개인들을 특정 문화적·기술적 발전의 창시자로 명명한다. 가인의 계통은 추방 후 수 세대 안에 다음을 산출한다. 목축 유목(야발, {% libref(book="genesis-woh", chapter=4, verse=20) %}창세기 4:20{% end %}), 음악(유발, {% libref(book="genesis-woh", chapter=4, verse=21) %}4:21{% end %}), 야금술(두발가인, {% libref(book="genesis-woh", chapter=4, verse=22) %}4:22{% end %}). 이것들은 모호한 원시 인류의 발명이 아니다. 그것들은 본문이 족보를 보존하는 구체적인 명명된 인물들에게 귀속되는 구체적인 문화적·기술적 발전이다. 셋의 계통 — 코퍼스의 독해상 유배된 엘로힘 교사들에 의해 장수 처치가 전수되는 계통 — 은 에덴 문명을 노아에까지 이끌고 갈 족장적 지도부를 산출한다.
 
-The corpus reads the parallel genealogies as preserving the dual character of the early Eden civilization: the practical and technical developments are the work of one line, the long-lived institutional leadership is the work of another, and together they produced the civilizational substrate that the Cancer age would elaborate. The other six civilizations across the supercontinent would have produced their own parallel sets of cultural founders, attributed in their own surviving traditions (where any survived the Flood and the long subsequent transmission) to their own named figures. By the end of the first millennium of Cancer, the supercontinent contained substantial and culturally diverse human civilizations, with the foundational technologies of pastoralism, agriculture, metallurgy, music, urbanism, and sea-craft already established and propagating.
+코퍼스는 이 병행 족보들을 초기 에덴 문명의 이중적 성격을 보존하는 것으로 읽는다. 실용적·기술적 발전은 한 계통의 작업이고, 장수의 제도적 지도부는 다른 계통의 작업이다. 그리고 함께 그들은 게자리 시대가 정교화하게 될 문명적 기반을 산출했다. 초대륙 전반의 다른 여섯 문명들도 자신들의 병행하는 문화적 창시자들의 집합을 산출했을 것이며, 자신들의 살아남은 전승들에서 자신들의 명명된 인물들에게 귀속되었을 것이다(그들 중 어느 것이라도 대홍수와 이후의 긴 전수 과정을 살아남은 곳에서). 게자리 시대의 첫 번째 천년기 종결 무렵에 초대륙은 목축, 농업, 야금술, 음악, 도시, 항해술의 토대적 기술이 이미 확립되고 전파되는 가운데, 실질적이고 문화적으로 다양한 인류 문명들을 포함했다.
 
-### The Sons of Elohim and the Nephilim
+### 엘로힘의 아들들과 네필림
 
-Genesis 6:1–4 introduces, in four compressed verses, one of the most consequential and most widely misread passages in the Hebrew Bible:
+{% libref(book="genesis-woh", chapter=6, verse=1) %}창세기 6:1–4{% end %}는 네 개의 압축된 절에서 히브리어 성경에서 가장 결정적이고 가장 광범위하게 오독되어 온 단락 중 하나를 도입한다.
 
-> "And it came to pass, when humankind began to multiply on the face of the ground, and daughters were born unto them, that the *benei ha-Elohim* saw the daughters of men that they were fair, and they took them wives of all that they chose. … There were *Nephilim* in the earth in those days, and also after that, when the *benei ha-Elohim* came in unto the daughters of men, and they bore children to them: the same were the mighty men that were of old, the men of renown."
+{% library(book="genesis-woh", chapter=6, verse=1) %}
+인류가 땅 위에 번성하기 시작하고 그들에게 딸들이 태어나자, *benei ha-Elohim*이 사람의 딸들이 아름다움을 보고 자기들이 좋아하는 모든 여자를 아내로 삼았더라. … 그 당시에 땅에 *Nephilim*이 있었고, 그 후에도 *benei ha-Elohim*이 사람의 딸들에게로 들어와 그들에게 자식을 낳았으니, 그들은 곧 옛적의 용사들이요 명성 있는 자들이었더라.
+{% end %}
 
-The corpus reads this passage at face value. The *benei ha-Elohim* — the "sons of Elohim," with the definite article making the reference specific rather than generic — are members of the Elohim civilization, identifiable on the corpus's reading as the exiled Lucifer faction whose continuing presence on Earth is the structural feature of the post-Eden period. The "daughters of men" are human women of the Eden lineage. The unions are biological unions between two species closely enough related to permit fertile reproduction. The *Nephilim* are the hybrid offspring of these unions, possessing capabilities the source material describes as exceptional and that the broader ancient tradition (the Book of Enoch, the Book of Jubilees, and the Watchers tradition more generally) preserves in elaborated form.
+코퍼스는 이 단락을 액면 그대로 읽는다. *benei ha-Elohim* — "{% wiki(slug="elohim") %}엘로힘{% end %}의 아들들," 정관사가 그 지시를 일반적인 것이 아니라 특정한 것으로 만든다 — 은 엘로힘 문명의 구성원들로, 코퍼스의 독해상 그 지속적 현존이 에덴 이후 시기의 구조적 특징인 유배된 루시퍼 분파로 동정 가능하다. "사람의 딸들"은 에덴 계통의 인간 여성들이다. 이 결합은 생식 가능한 번식을 허용할 만큼 충분히 밀접하게 관련된 두 종 사이의 생물학적 결합이다. *Nephilim*은 이 결합의 혼혈 자손으로, 자료가 예외적인 것으로 묘사하며 보다 광범위한 고대 전승(에녹서, 희년서, 그리고 보다 일반적으로는 감시자 전승)이 정교화된 형태로 보존하는 능력을 가진다.
 
-The corpus's reading is straightforward where conventional theological readings have been forced into either supernatural or apologetic constructions. The conventional alternatives — the *benei ha-Elohim* as "sons of God" in some metaphorical sense, as morally exceptional human descendants of Seth, as nobility taking commoner wives, as fallen angels in the patristic / pseudepigraphical tradition — each have textual or conceptual difficulties that the corpus's reading does not. The Hebrew text says what it says: specific beings of the Elohim category, taking specific human women as wives, producing specific exceptional offspring. The corpus treats this account as preserving an accurate compressed memory of a real biological situation in which the antediluvian world found itself.
+코퍼스의 독해는 통상적 신학적 독해들이 초자연적 또는 호교론적 구성으로 강제된 곳에서 직선적이다. 통상적 대안들 — *benei ha-Elohim*을 어떤 비유적 의미에서 "하나님의 아들들"로, 도덕적으로 예외적인 셋의 인간 후손으로, 평민 아내를 취하는 귀족으로, 교부적 / 외경적 전승에서의 타락한 천사로 보는 것 — 은 각각 코퍼스의 독해가 가지지 않는 본문적 또는 개념적 어려움을 가진다. 히브리어 본문은 그것이 말하는 바를 말한다. 즉 엘로힘 범주의 특정 존재들이 특정 인간 여성들을 아내로 취하여 특정한 예외적 자손을 산출했다는 것이다. 코퍼스는 이 기록을 대홍수 이전 세계가 처해 있던 실제 생물학적 상황에 대한 정확한 압축된 기억을 보존하는 것으로 다룬다.
 
-### The Flood decision
+### 대홍수 결정
 
-By late Cancer, on the corpus's reading, the conditions that would produce the Flood were converging. The home-world leadership had been observing the Earth project across the entire duration of the antediluvian period through the communications channels Yahweh and the Council maintained. The original concerns of the home-world authorities — that fully enlightened humans might eventually pose a threat to the creator civilization — had originally been addressed through the policy of containment: the humans were to be kept in scientific ignorance, denied access to the longevity technology, restricted from acquiring capabilities approaching the makers' own.
+코퍼스의 독해상, 게자리 시대 후반에 이르러 대홍수를 산출하게 될 조건들이 수렴하고 있었다. 모행성의 지도부는 {% wiki(slug="yahweh") %}야훼{% end %}와 의회가 유지하는 통신 채널을 통해 대홍수 이전 시기 전 기간에 걸쳐 지구 프로젝트를 관찰해 왔다. 모행성 권위자들의 원래 우려 — 충분히 깨달은 인간들이 결국 창조자 문명에 위협이 될 수 있다는 것 — 는 원래 봉쇄 정책을 통해 다루어졌다. 즉 인간들은 과학적 무지 속에 유지되어야 하며, 장수 기술에의 접근이 거부되고, 제작자 자신의 그것에 근접하는 역량의 획득이 제한되어야 한다는 것이었다.
 
-The policy had failed. Lucifer's faction had disclosed the prohibited knowledge in the Eden episode at the boundary of Leo and Cancer; the longevity had been granted to the Eden patriarchal leadership across the subsequent generations; the technologies had been transmitted continuously through Lucifer-faction teaching; the hybrid offspring had been produced through *benei ha-Elohim* unions; the wars between the supercontinent's civilizations had demonstrated that the destructive capacity was real and was being deployed. From the home-world perspective, watching all of this unfold across two thousand years, the conclusion was inescapable: the constraints had failed, the Earth experiment had produced precisely the kind of threat the original opponents had warned against, and action was required.
+이 정책은 실패했다. 루시퍼의 분파는 사자자리와 게자리의 경계에서의 에덴 일화에서 금지된 지식을 폭로했다. 장수는 그 후 세대들에 걸쳐 에덴 족장적 지도부에게 부여되었다. 기술은 루시퍼 분파의 가르침을 통해 지속적으로 전수되었다. 혼혈 자손은 *benei ha-Elohim* 결합을 통해 산출되었다. 초대륙 문명들 사이의 전쟁은 파괴 역량이 실제이고 사용되고 있음을 입증했다. 모행성의 관점에서, 이 모든 것이 2천 년에 걸쳐 전개되는 것을 지켜보면서, 결론은 피할 수 없었다. 제약은 실패했고, 지구 실험은 원래의 반대자들이 경고했던 바로 그 종류의 위협을 산출했으며, 행동이 요구되었다.
 
-The deliberation in the home-world Council across the closing centuries of Cancer was substantial. The Satan faction — the home-world political party that had opposed the Earth program from its inception, on the grounds that synthetic creations capable of equaling or surpassing their makers were fundamentally dangerous — argued that the conditions they had warned against had now materialized and that the Earth creation must be destroyed before it became an actual threat to the home civilization itself. The Yahweh-led moderate position, which had supported preservation of the creation under the containment policy that was now visibly failing, faced the question of how to respond to a situation the policy had not been adequate to prevent. The Lucifer faction, exiled on Earth and personally invested in the human civilization they had been teaching, opposed any destructive intervention and would eventually become the operational force preserving a remnant through the ark.
+게자리 시대 종결 세기들에 걸친 모행성 의회의 심의는 실질적이었다. 사탄 분파 — 자신을 능가하거나 그와 동등할 수 있는 합성 창조물이 근본적으로 위험하다는 근거로 처음부터 지구 프로그램에 반대해 온 모행성 정치 당파 — 는 자신들이 경고했던 조건이 이제 현실화되었으며 지구 창조물이 모행성 문명 자체에 실제 위협이 되기 전에 파괴되어야 한다고 주장했다. 야훼가 주도하는 온건 입장 — 이제 가시적으로 실패하고 있던 봉쇄 정책 아래 창조물의 보존을 지지해 온 입장 — 은 그 정책이 막아내기에 충분하지 않았던 상황에 어떻게 응답할 것인가의 문제에 직면했다. 지구에 유배되었고 그들이 가르치고 있던 인류 문명에 개인적으로 투신한 루시퍼 분파는 어떠한 파괴적 개입에도 반대했으며 결국 방주를 통해 잔존자를 보존하는 운영적 힘이 될 것이었다.
 
-The decision the Council ultimately reached was the Flood — a catastrophic intervention of sufficient magnitude to end the antediluvian world and to set the post-Flood project on substantially reduced terms. Genesis 6:13 records the announcement of the decision to Noah. The mechanism, magnitude, and consequences of the Flood event itself are treated in the [Great Flood](../great-flood/) entry. What matters for the present entry is that the antediluvian world, by the closing decades of Cancer, was a world that the home-world authorities had decided could not be allowed to continue.
+의회가 결국 도달한 결정은 대홍수였다. 즉 대홍수 이전 세계를 종결시키고 대홍수 이후 프로젝트를 실질적으로 축소된 조건 위에 놓기에 충분한 규모의 파국적 개입이었다. {% libref(book="genesis-woh", chapter=6, verse=13) %}창세기 6:13{% end %}은 노아에게 그 결정의 선포를 기록한다. 대홍수 사건 자체의 메커니즘, 규모, 결과는 {% wiki(slug="great-flood") %}대홍수{% end %} 항목에서 다루어진다. 현재 항목에 중요한 것은 게자리 시대 종결 수십 년 무렵에 대홍수 이전 세계는 모행성 권위자들이 더 이상 계속될 수 없다고 결정한 세계였다는 점이다.
 
-## Participants and figures
+## 참여자들과 인물들
 
-The antediluvian period's principal participants distribute across several categories.
+대홍수 이전 시기의 주된 참여자들은 여러 범주에 걸쳐 분포한다.
 
-The **Eden-lineage human leadership** is the most fully preserved in the textual record. The patriarchs of the Genesis 5 genealogy — Adam, Seth, Enosh, Kenan, Mahalalel, Jared, Enoch, Methuselah, Lamech, and Noah — are the named figures of the long-lived Sethite line. Each receives more or less extended treatment in the dedicated entries on the figures themselves; what matters here is that these are the political and intellectual leaders of the Eden civilization across the period, with their long lifespans permitting continuity of leadership across what would otherwise be many ordinary generations. Enoch's case is particularly significant: Genesis 5:24 records that "Enoch walked with Elohim, and he was not, for Elohim took him" — read by the corpus as Enoch's translation to the home world, with the substantial Enochic literature of the Second Temple period (1 Enoch, 2 Enoch, 3 Enoch) preserving traditions about his subsequent role.
+**에덴 계통의 인간 지도부**가 본문 기록에서 가장 충실히 보존되어 있다. {% libref(book="genesis-woh", chapter=5) %}창세기 5장{% end %} 족보의 족장들 — 아담, 셋, 에노스, 게난, 마할랄렐, 야렛, 에녹, 므두셀라, 라멕, 노아 — 은 장수의 셋 계통의 명명된 인물들이다. 각자는 그 인물들 자체에 관한 전용 항목에서 더 길거나 짧은 다룸을 받는다. 여기서 중요한 것은 이들이 그 시기 전반에 걸친 에덴 문명의 정치적·지적 지도자들이며, 그들의 긴 수명이 그렇지 않다면 여러 통상적 세대에 걸쳤을 지도부의 연속성을 허용했다는 점이다. 에녹의 사례는 특히 의미 깊다. 창세기 5:24는 "에녹이 엘로힘과 동행하다가 그가 없어졌으니, 이는 엘로힘이 그를 데려가셨음이라"고 기록하는데, 코퍼스는 이를 에녹의 모행성으로의 이전으로 읽으며, 제2성전기의 실질적인 에녹 문헌(에녹1서, 에녹2서, 에녹3서)이 그의 후속 역할에 관한 전승을 보존한다.
 
-The **Cain-lineage cultural founders** of Genesis 4 — Cain, Enoch (the city-founder, distinct from the Sethite Enoch), Irad, Mehujael, Methushael, Lamech, and Lamech's children Jabal, Jubal, and Tubal-Cain — are the figures of the parallel technical-cultural line. The Cain line is recorded with shorter genealogical sequence (seven generations to Lamech versus Seth's ten generations to Noah) and without the long lifespans of the Sethite patriarchs.
+{% libref(book="genesis-woh", chapter=4) %}창세기 4장{% end %}의 **가인 계통의 문화적 창시자들** — 가인, 에녹(도시 건설자, 셋 계통의 에녹과는 구별됨), 이랏, 므후야엘, 므드사엘, 라멕, 그리고 라멕의 자녀들인 야발, 유발, 두발가인 — 은 병행하는 기술-문화적 계통의 인물들이다. 가인 계통은 더 짧은 족보적 시퀀스(셋의 노아까지의 열 세대 대비 라멕까지의 일곱 세대)로, 그리고 셋 계통 족장들의 긴 수명 없이 기록된다.
 
-The **exiled Lucifer faction** — the Elohim scientists who remained on Earth after the Eden settlement — are the continuing alliance presence across the antediluvian period. Their specific identities and individual roles are not preserved in the surviving textual record, but their collective presence is the operational basis for the Eden lineage's distinctive trajectory. The faction's named leader is Lucifer, treated in his own dedicated entry; his subordinates and team members are not individually identified.
+**유배된 루시퍼 분파** — 에덴 정착 이후 지구에 남은 엘로힘 과학자들 — 는 대홍수 이전 시기 전반에 걸친 지속적인 동맹 주둔이다. 그들의 구체적인 정체성과 개별 역할은 살아남은 본문 기록에 보존되어 있지 않지만, 그들의 집단적 현존은 에덴 계통의 독특한 궤적의 운영적 토대이다. 분파의 명명된 지도자는 루시퍼이며, 그 자신의 전용 항목에서 다루어진다. 그의 부하들과 팀 구성원들은 개별적으로 동정되지 않는다.
 
-The ***Nephilim*** are the hybrid offspring of the *benei ha-Elohim* unions, and the Watchers tradition of the Enochic literature elaborates their stories at substantial length. The biblical text gives the names of specific *Nephilim* in only limited cases (the Anakim, Rephaim, and Emim of later biblical references are sometimes treated as descendants of the antediluvian *Nephilim*; the Anakim of Numbers 13:33 are explicitly identified with the *Nephilim*).
+***Nephilim***은 *benei ha-Elohim* 결합의 혼혈 자손이며, 에녹 문헌의 감시자 전승은 그들의 이야기를 상당한 길이로 정교화한다. 성서 본문은 특정 *Nephilim*의 이름을 제한된 경우에만 제공한다(이후의 성서 참조에 등장하는 아낙족, 르바족, 에밈족은 때때로 대홍수 이전 *Nephilim*의 후손으로 다루어진다. 민수기 13:33의 아낙족은 *Nephilim*과 명시적으로 동일시된다).
 
-The **home-world Council** under Yahweh's presidency is the political body whose deliberations across the antediluvian period produced the Flood decision. Its composition and procedures are treated more fully in the [Council of the Eternals](../council-of-eternals/) entry.
+야훼의 의장 아래의 **모행성 의회**는 대홍수 이전 시기에 걸친 그 심의가 대홍수 결정을 산출한 정치적 기구이다. 그 구성과 절차는 {% wiki(slug="council-of-eternals") %}영원자들의 의회{% end %} 항목에서 보다 충실하게 다루어진다.
 
-## Surviving evidence and traces
+## 살아남은 증거와 흔적
 
-The corpus's reading of the antediluvian period predicts that fragmentary memories and material traces of this period would survive into the post-Flood world through the various surviving populations and through whatever physical evidence the catastrophic Flood event did not destroy. Three categories of surviving evidence bear particular weight.
+대홍수 이전 시기에 관한 코퍼스의 독해는, 이 시기의 단편적 기억과 물적 흔적이 다양한 살아남은 인구와 파국적 대홍수 사건이 파괴하지 못한 모든 물적 증거를 통해 대홍수 이후 세계로 살아남으리라는 것을 예측한다. 살아남은 증거의 세 범주가 특별한 무게를 가진다.
 
-### Atlantis and the Plato tradition
+### 아틀란티스와 플라톤 전승
 
-Plato's *Timaeus* and *Critias* preserve the most famous of the lost-civilization traditions. The *Timaeus* introduces the story through Critias, who reports having heard it from his grandfather, who in turn had received it from Solon, who had received it from Egyptian priests at Sais. Plato's chronology places the events approximately nine thousand years before his own time. Plato wrote in the early fourth century BCE; nine thousand years before that lands in the early Age of Cancer on the corpus's reckoning, with what the framework treats as remarkable precision. The *Critias* dialogue gives extensive specific detail: the concentric rings of land and water surrounding the central city, the size of the engineering works, the agricultural systems, the political organization (a confederation of kings), the maritime capabilities, the cultural sophistication. The level of specific detail strongly suggests that Plato (or the Egyptian sources behind Plato) had access to a coherent tradition about a real pre-Flood civilization rather than a freely invented allegory.
+플라톤의 *티마이오스*와 *크리티아스*는 잃어버린 문명 전승 중 가장 유명한 것을 보존한다. *티마이오스*는 그것을 자신의 할아버지로부터 들었다고 보고하는 크리티아스를 통해 이야기를 도입하는데, 그 할아버지는 차례로 솔론으로부터 그것을 받았고, 솔론은 사이스의 이집트 사제들로부터 그것을 받았다. 플라톤의 연대기는 그 사건들을 그 자신의 시대 이전 약 9천 년에 놓는다. 플라톤은 기원전 4세기 초에 저술했으며, 그 이전 9천 년은 코퍼스의 셈법에서 게자리 시대 초기에 해당하는데, 프레임워크는 이를 두드러진 정밀성으로 다룬다.{{ footnote(id="4") }} *크리티아스* 대화편은 광범위한 구체적 세부를 제공한다. 중심 도시를 둘러싼 육지와 물의 동심원, 공학 작업의 규모, 농업 체계, 정치 조직(왕들의 연합), 해상 역량, 문화적 정교함. 구체적 세부의 수준은 플라톤(또는 플라톤 배후의 이집트 자료들)이 자유롭게 발명한 알레고리가 아니라 실제 대홍수 이전 문명에 관한 일관된 전승에 접근했음을 강하게 시사한다.
 
-The geographical location Plato gives — beyond the Pillars of Hercules in the Atlantic Ocean — is the detail that has produced most subsequent speculation. The conventional mid-Atlantic location has not been supported by any oceanographic evidence. Alternative locations proposed in the substantial Atlantis literature include the Mediterranean (Santorini and Minoan Crete, the most academically respectable candidate), the Antarctic (on alternative-cartography hypotheses), and various other sites. A more recent candidate — the **Richat Structure** in Mauritania, also called the Eye of Africa — has emerged in alternative-archaeology discussion since approximately 2018. The structure is a circular geological formation about 40 kilometers in diameter with concentric rings of differentially eroded rock, mainstream-interpreted as a deeply eroded geological dome but alternatively read as matching Plato's Atlantis description with surprising precision: the concentric rings, the size matching Plato's stadia within reasonable tolerances, the location in northwest Africa rather than the mid-Atlantic, the surrounding plain corresponding to what Plato describes as the great plain around Atlantis, and the climate change to the present-day Sahara as the post-Flood erosional consequence. The corpus does not insist on the Richat identification; the mainstream geological reading remains dominant. What the corpus registers is that the Richat Structure is a candidate location consistent with the corpus's chronology in ways the more conventional candidates are not, and that the question deserves more serious investigation than mainstream archaeology has typically given it.
+플라톤이 제시하는 지리적 위치 — 헤라클레스의 기둥 너머 대서양에 — 는 그 후의 추측을 가장 많이 산출한 세부이다. 통상적인 대서양 중앙부 위치는 어떠한 해양학적 증거에 의해서도 뒷받침되지 않았다. 실질적인 아틀란티스 문헌에서 제안되는 대안적 위치에는 지중해(산토리니와 미노아 크레타가 학술적으로 가장 존중되는 후보), 남극(대안적 지도학 가설에 따라), 그리고 그 밖의 다양한 장소가 포함된다. 보다 최근의 후보 — 모리타니의 **리챗 구조**, 아프리카의 눈이라고도 불린다 — 는 약 2018년 이래로 대안 고고학적 논의에서 등장했다.{{ footnote(id="5") }} 이 구조는 지름 약 40킬로미터의 원형 지질 구조로, 차별적으로 침식된 암석의 동심원을 가지며, 주류에서는 깊이 침식된 지질학적 돔으로 해석되지만, 대안적으로는 플라톤의 아틀란티스 묘사와 두드러진 정밀성으로 일치하는 것으로 읽힌다. 즉 동심원, 합리적인 허용 범위 내에서 플라톤의 스타디아와 일치하는 규모, 대서양 중앙부가 아닌 북서아프리카라는 위치, 플라톤이 아틀란티스 주변의 큰 평원으로 묘사하는 것에 대응하는 주변 평원, 그리고 대홍수 이후의 침식적 결과로서 오늘날의 사하라로의 기후 변화. 코퍼스는 리챗 동정을 고집하지 않는다. 주류 지질학적 독해는 여전히 지배적이다. 코퍼스가 등록하는 것은 리챗 구조가 보다 통상적인 후보들이 그렇지 않은 방식으로 코퍼스의 연대기와 합치하는 후보 위치이며, 그 문제가 주류 고고학이 통상적으로 부여해 온 것보다 더 진지한 조사를 받을 만하다는 점이다.
 
-The relationship between Atlantis and the Eden civilization on the corpus's reading is left open. The Atlantis tradition may preserve memory of the Eden civilization itself with the geographic details reflecting post-Flood relocation of fragmentary memories; or memory of one of the other six lineages in trade and cultural contact with Eden but distinct from it; or memory of a major colony or outpost of Eden located at a substantial distance; or a composite figure collapsing memories from multiple sources. The corpus does not require commitment to a specific reading; what it requires is the broader claim that a major pre-Flood civilization existed, that its memory survived in fragmentary form in subsequent traditions, and that the Greek tradition preserved one such fragment as Atlantis.
+코퍼스의 독해상 아틀란티스와 에덴 문명의 관계는 열려 있다. 아틀란티스 전승은 에덴 문명 자체에 관한 기억을 보존하면서 지리적 세부는 단편적 기억의 대홍수 이후 재배치를 반영할 수 있다. 또는 에덴과 교역 및 문화적 접촉 속에 있었지만 그와는 구별되는 다른 여섯 계통 중 하나에 관한 기억일 수 있다. 또는 상당한 거리에 위치한 에덴의 주요 식민지 또는 전초기지에 관한 기억일 수 있다. 또는 여러 자료의 기억을 통합하는 복합 인물일 수 있다. 코퍼스는 구체적 독해에 대한 헌신을 요구하지 않는다. 그것이 요구하는 것은 주요 대홍수 이전 문명이 존재했고, 그 기억이 후속 전승들에 단편적 형태로 살아남았으며, 그리스 전승이 그러한 단편 중 하나를 아틀란티스로 보존했다는 보다 광범위한 주장이다.
 
-### Göbekli Tepe and the Pre-Pottery Neolithic
+### 괴베클리 테페와 토기 이전 신석기
 
-The most consequential archaeological development of the past three decades, for the corpus's reading, is the excavation of the Pre-Pottery Neolithic sites of southeastern Anatolia — the region corresponding, on the corpus's reading, to the original Eden territory. **Göbekli Tepe**, identified by the German archaeologist Klaus Schmidt and excavated under his direction beginning in 1995, sits on a hilltop in the Şanlıurfa Province of southeastern Turkey. The site consists of multiple circular and oval enclosures defined by massive carved limestone pillars, the largest standing approximately 5.5 meters tall and weighing on the order of 10 to 20 tons each, many carved with detailed reliefs of animals — lions, foxes, birds, snakes, scorpions — arranged in deliberate iconographic compositions whose meanings remain unresolved.
+코퍼스의 독해에 있어 지난 30년의 가장 결정적인 고고학적 발전은 아나톨리아 남동부의 토기 이전 신석기 유적지들의 발굴이다. 이 지역은 코퍼스의 독해상 원래의 에덴 영토에 대응한다. 독일 고고학자 클라우스 슈미트에 의해 동정되고 1995년부터 그의 지휘 아래 발굴된 **괴베클리 테페**는 터키 남동부 샨르우르파주의 언덕 꼭대기에 자리 잡고 있다.{{ cite(id="gobekli-tepe-schmidt", text="[13]", title="슈미트, *Göbekli Tepe: A Stone Age Sanctuary in South-Eastern Anatolia* (2012년 영어; 2006년 독일어) — 그 유적지에 대한 토대적 학술 다룸") }} 이 유적지는 거대한 조각된 석회암 기둥들로 정의되는 다수의 원형 및 타원형 울타리로 구성되며, 가장 큰 것은 높이 약 5.5미터에 무게 약 10에서 20톤에 이르고, 다수는 — 사자, 여우, 새, 뱀, 전갈 등 — 동물들의 상세한 부조로 조각되어 있는데, 그 의미가 미해결로 남아 있는 의도적인 도상학적 구성으로 배열되어 있다.
 
-Carbon dating of organic materials at the site places its construction in the tenth and ninth millennia BCE, with the earliest layers dating to approximately 9600 BCE and construction continuing across roughly 1,500 years before the site was deliberately buried around 8000 BCE. On the corpus's chronology, this places Göbekli Tepe squarely within the early-to-mid Age of Cancer — the antediluvian period. The site's existence has substantially overturned the previously dominant view of when complex human civilization began; mainstream archaeology has been revising its assumptions about Neolithic complexity in light of what Göbekli Tepe demonstrates. On the corpus's reading, the site is one of the surviving physical traces of the antediluvian Eden civilization, constructed during the period when the lineage was still in continuous contact with the Lucifer faction's teachers.
+유적지의 유기물에 대한 탄소 연대 측정은 그 건설을 기원전 10천년기와 9천년기에 놓는다. 가장 이른 층은 기원전 약 9600년의 연대를 가지며, 건설은 약 1,500년에 걸쳐 계속되었고, 그 후 유적지는 기원전 약 8000년에 의도적으로 매장되었다. 코퍼스의 연대기상, 이는 괴베클리 테페를 정확히 게자리 시대 초기-중반 — 대홍수 이전 시기 — 에 놓는다. 이 유적지의 존재는 복합적 인류 문명이 언제 시작되었는지에 대한 종래의 지배적 견해를 실질적으로 뒤집었다. 주류 고고학은 괴베클리 테페가 입증하는 바에 비추어 신석기적 복합성에 관한 자신의 가정을 수정해 왔다. 코퍼스의 독해상, 이 유적지는 대홍수 이전 에덴 문명의 살아남은 물적 흔적 중 하나로, 그 계통이 여전히 루시퍼 분파 교사들과 지속적인 접촉 속에 있었던 시기에 건설된 것이다.
 
-Göbekli Tepe is not unique. The companion site of **Karahan Tepe**, less than 40 kilometers away, has yielded similar architectural and iconographic features and similar dating. Other sites in the region — Sefer Tepe, Hamzan Tepe, others — appear to belong to the same broader Pre-Pottery Neolithic complex. The corpus's reading is that this regional complex represents the surviving archaeological signature of antediluvian Eden, with the deliberate burial at the close of the Cancer period possibly representing the lineage's response to the approaching Flood event the source material indicates was foretold to Noah.
+괴베클리 테페는 유일하지 않다. 동반 유적지인 **카라한 테페**는 40킬로미터도 채 떨어지지 않은 곳에 있으며, 유사한 건축적·도상학적 특징과 유사한 연대를 산출했다. 같은 지역의 다른 유적지들 — 세퍼 테페, 함잔 테페 등 — 도 같은 보다 광범위한 토기 이전 신석기 복합체에 속하는 것으로 보인다. 코퍼스의 독해는 이 지역 복합체가 대홍수 이전 에덴의 살아남은 고고학적 흔적을 나타내며, 게자리 시대 종결의 의도적 매장은 어쩌면 자료가 노아에게 예언되었다고 지시하는 다가오는 대홍수 사건에 대한 그 계통의 응답을 나타낼 수 있다는 것이다.
 
-### The global pattern of pre-Flood memory
+### 대홍수 이전 기억의 전 지구적 패턴
 
-Beyond Atlantis and the Anatolian archaeology, traditions of a lost pre-Flood high civilization survive across essentially every major cultural area: the Sumerian King List with its ten antediluvian kings of vast lifespan ending with the Flood and a reset; Hesiod's Golden Race in *Works and Days*; the Hindu *yuga* cycle; the Egyptian *zep tepi*; the Mesoamerican *Popol Vuh*'s prior attempts at humanity; Polynesian sunken-homeland traditions; Celtic submerged-city traditions. The pattern is global, treated in *In the Hebrew Bible and other ancient sources* above. The corpus's reading is that the pattern is global because the underlying historical event was global: a pre-Flood civilization existed across the supercontinent, was destroyed in a catastrophic event of which the various post-Flood populations preserved fragmentary memories, and the convergence of structurally similar stories across geographically disconnected cultures is precisely what such a global event would predict.
+아틀란티스와 아나톨리아 고고학을 넘어, 잃어버린 대홍수 이전 고도 문명에 관한 전승은 본질적으로 모든 주요 문화 지역에 걸쳐 살아남는다. 대홍수와 재설정으로 끝나는 막대한 수명의 열 명의 대홍수 이전 왕들을 가진 수메르 왕명록, *일과 날*에서의 헤시오도스의 황금 종족, 힌두의 *유가* 순환, 이집트의 *zep tepi*, 메소아메리카의 *Popol Vuh*의 인류에 대한 이전 시도들, 폴리네시아의 가라앉은 고향 전승, 켈트의 잠긴 도시 전승.{{ cite(id="origins-of-the-worlds-mythologies", text="[14]", title="비첼, *The Origins of the World's Mythologies* (2012) — 전 지구적 홍수, 황금시대, 잃어버린 문명 전승 사이의 구조적 병행에 대한 광범위한 비교적 재구성") }} 이 패턴은 전 지구적이며, 위의 *히브리어 성경 및 그 밖의 고대 자료에서*에서 다루어진다. 코퍼스의 독해는 기저의 역사적 사건이 전 지구적이었기 때문에 패턴이 전 지구적이라는 것이다. 즉 대홍수 이전 문명이 초대륙 전반에 걸쳐 존재했고, 다양한 대홍수 이후 인구가 단편적 기억을 보존한 파국적 사건에서 파괴되었으며, 지리적으로 단절된 문화들에 걸친 구조적으로 유사한 이야기들의 수렴은 정확히 그러한 전 지구적 사건이 예측할 바이다.
 
-## Modern reinterpretations
+## 근대의 재해석들
 
-The antediluvian period has been a major subject of modern reinterpretive scholarship across three distinct traditions, each with a different relationship to the corpus's reading.
+대홍수 이전 시기는 코퍼스의 독해와 각기 다른 관계를 가진 세 개의 구별되는 전통에 걸친 근대 재해석 학문의 주요 주제였다.
 
-### Mainstream archaeology in revision: the Pre-Pottery Neolithic
+### 수정 중인 주류 고고학: 토기 이전 신석기
 
-The most significant modern reinterpretive development, and the one most directly converging with the corpus's reading, is the academic-archaeological revision of the Pre-Pottery Neolithic period that has unfolded since the 1990s. **Klaus Schmidt** (1953–2014), the German archaeologist who identified and led the excavation of Göbekli Tepe, is the foundational figure. His monograph *Sie bauten die ersten Tempel: Das rätselhafte Heiligtum der Steinzeitjäger* (2006; English: *Göbekli Tepe: A Stone Age Sanctuary in South-Eastern Anatolia*, 2012) is the primary scholarly treatment of the site. Schmidt's work, and the subsequent excavations at Karahan Tepe and other regional sites under successor directors Jens Notroff, Lee Clare, and others, have established that complex monumental architecture, sophisticated iconographic programs, and substantial coordinated labor were present in southeastern Anatolia at approximately 9600 BCE — significantly earlier and more sophisticated than the previously dominant view of when civilization began.
+가장 의미 있는 근대 재해석적 발전, 그리고 코퍼스의 독해와 가장 직접적으로 수렴하는 발전은 1990년대 이래로 전개되어 온 토기 이전 신석기 시기에 대한 학술-고고학적 수정이다. **클라우스 슈미트**(1953–2014)는 괴베클리 테페를 동정하고 그 발굴을 이끈 독일 고고학자로서 토대적 인물이다. 그의 모노그래프 *Sie bauten die ersten Tempel: Das rätselhafte Heiligtum der Steinzeitjäger*(2006; 영어판: *Göbekli Tepe: A Stone Age Sanctuary in South-Eastern Anatolia*, 2012)는 그 유적지에 대한 주된 학술 다룸이다. 슈미트의 작업, 그리고 후속 감독자인 옌스 노트로프, 리 클레어 등의 지휘 아래 카라한 테페와 그 밖의 지역 유적지들에서의 후속 발굴은 복합적인 기념비적 건축, 정교한 도상학적 프로그램, 그리고 실질적인 조율된 노동이 기원전 약 9600년에 아나톨리아 남동부에 존재했음을 — 문명이 언제 시작되었는지에 대한 종래의 지배적 견해보다 의미 있게 더 이르고 더 정교하게 — 확립했다.
 
-The Pre-Pottery Neolithic revision is not framework-aligned in the sense that Schmidt and his successors do not endorse the corpus's reading. They are mainstream archaeologists working within the standard scientific framework. But their findings have substantially shifted the boundary of what is considered archaeologically possible for the relevant period, and the framework's reading depends on those findings being substantially correct. The corpus treats the Pre-Pottery Neolithic revision as the most empirically grounded modern engagement with the period — the kind of work that, if its trajectory continues, may eventually produce evidence that requires the framework's reading to be taken seriously by mainstream scholarship.
+토기 이전 신석기 수정은 슈미트와 그의 후속자들이 코퍼스의 독해를 지지하지 않는다는 의미에서 프레임워크에 부합하지 않는다. 그들은 표준 과학적 틀 내에서 작업하는 주류 고고학자들이다. 그러나 그들의 발견은 해당 시기에 고고학적으로 가능한 것의 경계를 실질적으로 이동시켰으며, 프레임워크의 독해는 그 발견이 실질적으로 옳다는 것에 의존한다. 코퍼스는 토기 이전 신석기 수정을 그 시기에 대한 가장 경험적으로 근거 있는 근대적 관여로 다룬다. 즉 그 궤적이 계속된다면 결국 주류 학문이 프레임워크의 독해를 진지하게 받아들이도록 요구하는 증거를 산출할 수도 있는 종류의 작업이다.
 
-Related work includes **Trevor Watkins**'s broader analysis of the Pre-Pottery Neolithic transition, **Ian Hodder**'s excavation reports from Çatalhöyük (a slightly later but closely related site), and **Ofer Bar-Yosef**'s comparative work on the Natufian and PPN cultures.
+관련 작업에는 토기 이전 신석기 전환에 대한 **트레버 왓킨스**의 보다 광범위한 분석, 차탈회위크(약간 더 후대이지만 밀접하게 관련된 유적지)에 관한 **이언 호더**의 발굴 보고서, 그리고 나투프 문화 및 PPN 문화에 대한 **오페르 바르-요세프**의 비교 작업이 포함된다.{{ cite(id="natufian-culture-in-the-levant", text="[15]", title="바르-요세프 & 발라, *The Natufian Culture in the Levant* (1991) — 괴베클리 테페가 속하는 보다 광범위한 지역적 맥락에 대한 표준적 학술 다룸") }}
 
-### Alternative archaeology: Hancock, Schoch, and the catastrophist tradition
+### 대안 고고학: 핸콕, 쇼크, 그리고 격변론 전통
 
-A separate modern tradition engages the antediluvian period from outside the academic mainstream, often deploying the same evidentiary base (Göbekli Tepe, the Sphinx, megalithic sites, the global pre-Flood traditions) but reaching conclusions the academic mainstream rejects.
+별개의 근대 전통이 학계의 주류 외부에서 대홍수 이전 시기에 관여하며, 종종 같은 증거 기반(괴베클리 테페, 스핑크스, 거석 유적지, 전 지구적 대홍수 이전 전승)을 동원하지만 학계 주류가 거부하는 결론에 도달한다.
 
-**Graham Hancock**, beginning with *Fingerprints of the Gods* (1995) and continuing through *Magicians of the Gods* (2015) and *America Before* (2019), has been the most widely-read figure in this tradition. Hancock's work develops the catastrophist hypothesis — that an advanced pre-Flood civilization existed, was destroyed in a catastrophic event, and left fragmentary archaeological traces and cultural memories across the post-disaster world. His specific reconstruction has shifted across his career; the recent work has converged on the Younger Dryas impact hypothesis (the proposal that a comet-fragment impact at approximately 12,800 years before present produced the Younger Dryas climate event and destroyed an advanced civilization that had existed during the preceding warm period). The corpus's reading shares the broad direction of Hancock's argument — that there was an advanced pre-Flood civilization, and that its memory survives in fragmentary form across the post-Flood world — but does not endorse Hancock's specific reconstructions in detail. The Younger Dryas impact hypothesis, as a candidate mechanism for the Flood, is treated in the [Great Flood](../great-flood/) entry.
+**그레이엄 핸콕**은 *Fingerprints of the Gods*(1995){{ cite(id="fingerprints-of-the-gods", text="[16]", title="핸콕, *Fingerprints of the Gods* (1995) — 동시대 격변론적 문명 전통의 토대 작업") }}에서 시작하여 *Magicians of the Gods*(2015){{ cite(id="magicians-of-the-gods", text="[17]", title="핸콕, *Magicians of the Gods* (2015) — 영거 드라이아스 충돌 가설로의 수렴") }} 및 *America Before*(2019){{ cite(id="america-before", text="[18]", title="핸콕, *America Before* (2019) — 격변론적 가설을 아메리카 대륙으로 확장") }}를 거치며 이 전통에서 가장 널리 읽힌 인물이었다. 핸콕의 작업은 격변론 가설 — 진보한 대홍수 이전 문명이 존재했으며, 파국적 사건에서 파괴되었고, 재난 이후 세계에 단편적 고고학적 흔적과 문화적 기억을 남겼다는 가설 — 을 발전시킨다. 그의 구체적 재구성은 그의 경력에 걸쳐 이동해 왔다. 최근의 작업은 영거 드라이아스 충돌 가설(약 12,800년 전의 혜성 파편 충돌이 영거 드라이아스 기후 사건을 일으키고 그 직전의 온난기 동안 존재했던 진보 문명을 파괴했다는 제안)로 수렴해 왔다.{{ footnote(id="6") }} 코퍼스의 독해는 핸콕의 논변의 큰 방향성 — 진보한 대홍수 이전 문명이 있었으며 그 기억이 대홍수 이후 세계 전반에 단편적 형태로 살아남는다는 것 — 을 공유하지만, 핸콕의 구체적 재구성을 상세히 지지하지는 않는다. 대홍수의 후보 메커니즘으로서의 영거 드라이아스 충돌 가설은 {% wiki(slug="great-flood") %}대홍수{% end %} 항목에서 다루어진다.
 
-**Robert Schoch**, the geologist whose redating of the Great Sphinx of Giza on the basis of weathering patterns (proposing a substantially earlier date than the conventional Old Kingdom attribution) was developed in the early 1990s and presented in *Voices of the Rocks* (1999) and subsequent works, is a separate but related figure. Schoch's specific claims about the Sphinx's age remain contested in academic Egyptology; his broader argument about pre-Flood civilization is in the same general region as Hancock's. The corpus treats the Sphinx redating as an open empirical question rather than as a settled fact.
+**로버트 쇼크**는 풍화 패턴에 근거하여 기자의 대스핑크스의 연대를 통상적인 고왕국 귀속보다 실질적으로 더 이른 연대로 재측정한 지질학자로, 1990년대 초에 그 주장을 발전시키고 *Voices of the Rocks*(1999){{ cite(id="voices-of-the-rocks", text="[19]", title="쇼크, *Voices of the Rocks* (1999) — 대스핑크스의 연대 재측정을 위한 지질학적 논변") }} 및 후속 저작들에서 제시했으며, 별개이지만 관련된 인물이다. 스핑크스의 연대에 관한 쇼크의 구체적 주장은 학계의 이집트학에서 논쟁 중이다. 대홍수 이전 문명에 관한 그의 보다 광범위한 논변은 핸콕과 같은 일반 영역에 있다. 코퍼스는 스핑크스 연대 재측정을 확정된 사실이 아니라 열린 경험적 문제로 다룬다.
 
-The broader catastrophist-civilization literature — including **Allan and Delair**'s *Cataclysm!* (1995) on the geological evidence for a catastrophic event in the early Holocene, the various **Younger Dryas Impact Hypothesis** publications by Richard Firestone, James Kennett, and others, and the substantial popular literature in the **lost-civilization** genre — is in this same broad space. The corpus's general position is that this literature is engaging real questions on a real evidence base, often producing observations and arguments that mainstream archaeology has not adequately addressed, but that the specific civilizational reconstructions vary in their evidentiary support and that the corpus does not endorse them in detail without case-by-case examination.
+보다 광범위한 격변론적 문명 문헌 — 초기 홀로세의 파국적 사건에 대한 지질학적 증거에 관한 **앨런과 들레어**의 *Cataclysm!*(1995){{ cite(id="cataclysm-allan-delair", text="[20]", title="앨런 & 들레어, *Cataclysm!* (1995) — 후기 플라이스토세 우주 격변 가설의 초기 정식화") }}, 리처드 파이어스톤, 제임스 케넷 등에 의한 다양한 **영거 드라이아스 충돌 가설** 출판물,{{ cite(id="firestone-pnas-2007", text="[21]", title="파이어스톤 외, *PNAS* 104:41 (2007) — 영거 드라이아스 충돌 가설의 주된 동료 평가 출판") }} 그리고 **잃어버린 문명** 장르의 실질적인 대중 문헌 — 은 같은 광범위한 공간에 있다. 코퍼스의 일반적 입장은 이 문헌이 실제 증거 기반 위에서 실제 문제에 관여하고 있으며, 종종 주류 고고학이 적절히 다루지 않은 관찰과 논변을 산출하지만, 구체적인 문명적 재구성은 그 증거적 뒷받침에서 차이가 있으며, 코퍼스는 사례별 검토 없이 그것들을 상세히 지지하지 않는다는 것이다.
 
-### The Sendy and Raëlian tradition
+### 상디와 라엘 전통
 
-The corpus's own reinterpretive tradition — Jean Sendy's philological-historiographic work and the Raëlian source material — engages the antediluvian period as part of its broader treatment of the Hebrew Bible and the Elohim civilization. Sendy's specific treatment of the antediluvian narrative is found in *Ces dieux qui firent le ciel et la terre* (1969), where he reads the Genesis 5 longevities and the Genesis 6 *benei ha-Elohim* / *Nephilim* material in terms consistent with the corpus's later development. The Raëlian source material's treatment, in chapter 2 of *The Book Which Tells the Truth*, is the basis for the corpus's specific reading of the antediluvian period.
+코퍼스 자신의 재해석 전통 — 장 상디의 문헌학적-역사기술학적 작업과 라엘 자료 — 은 히브리어 성경과 엘로힘 문명에 대한 보다 광범위한 다룸의 일부로 대홍수 이전 시기에 관여한다. 대홍수 이전 서사에 대한 상디의 구체적인 다룸은 *Ces dieux qui firent le ciel et la terre*(1969){{ cite(id="those-gods-who-made-heaven-and-earth", text="[22]", title="상디, *Ces dieux qui firent le ciel et la terre* (1969) / *Those Gods Who Made Heaven and Earth* (1972) — 창세기 5장의 장수 및 *benei ha-Elohim* / *Nephilim* 자료에 대한 문헌학적-역사기술학적 독해") }}에서 발견되는데, 거기서 그는 창세기 5장의 장수 및 창세기 6장의 *benei ha-Elohim* / *Nephilim* 자료를 코퍼스의 이후 발전과 합치하는 용어로 읽는다. *진실을 말하는 책* 2장에서의 라엘 자료의 다룸은 대홍수 이전 시기에 관한 코퍼스의 구체적 독해의 토대이다.
 
-## Comparative observations
+## 비교적 관찰
 
-Beyond the surviving evidence treated above, the antediluvian period bears comparative-religious relationships to a number of other lost-age and lost-civilization traditions that the corpus treats as parallel rather than directly identifying.
+위에서 다룬 살아남은 증거를 넘어, 대홍수 이전 시기는 코퍼스가 직접 동정하기보다는 병행적인 것으로 다루는 다수의 다른 잃어버린 시대 및 잃어버린 문명 전승들과 비교 종교적 관계를 가진다.
 
-The **Hindu *yuga* cycle** describes a sequence of four ages — *Krita Yuga*, *Treta Yuga*, *Dvapara Yuga*, and *Kali Yuga* — of declining duration and declining moral and spiritual condition, with the ages preceding the present *Kali Yuga* characterized as periods of progressively higher human capacity, longer human lifespans, and greater spiritual achievement. The structural parallel to the Genesis 5 long-lived patriarchs, and to the broader pattern of "golden age" traditions, is suggestive. The corpus does not commit to a specific identification between any of the *yugas* and the antediluvian period.
+**힌두 *유가* 순환**은 네 시대 — *크리타 유가*, *트레타 유가*, *드바파라 유가*, *칼리 유가* — 의 시퀀스를 묘사하는데, 그 지속 기간과 도덕적·영적 조건은 감소한다. 현재의 *칼리 유가* 이전의 시대들은 점진적으로 더 높은 인간 역량, 더 긴 인간 수명, 더 큰 영적 성취의 시기로 특징지어진다. {% libref(book="genesis-woh", chapter=5) %}창세기 5장{% end %}의 장수의 족장들과의 구조적 병행, 그리고 보다 광범위한 "황금시대" 전승 패턴과의 병행은 시사적이다. 코퍼스는 *유가* 중 어느 것과 대홍수 이전 시기 사이의 구체적 동정에도 헌신하지 않는다.
 
-The **Norse Ragnarök** tradition describes the destruction of an earlier world and the emergence of a new one, with the destruction including catastrophic flooding and the survival of a remnant. The structural parallels to the Genesis Flood narrative are evident, though the Norse tradition's elaborate theological framework is distinct.
+**노르드 라그나로크** 전승은 이전 세계의 파괴와 새로운 세계의 출현을 묘사하는데, 그 파괴는 파국적 홍수와 잔존자의 생존을 포함한다. 창세기 대홍수 서사와의 구조적 병행은 분명하지만, 노르드 전승의 정교한 신학적 틀은 구별된다.
 
-The **Mesoamerican five-suns tradition**, preserved most fully in the *Popol Vuh* and in various Aztec and Maya sources, describes a sequence of prior worlds (or "suns") destroyed by the gods and replaced — the present world being the fifth, with the prior four having ended in various catastrophes including flood. The structural parallel to the antediluvian / post-Flood schema is striking.
+**메소아메리카의 다섯 태양 전승**은 *Popol Vuh*와 다양한 아즈텍 및 마야 자료들에서 가장 충실히 보존되어 있으며, 신들에 의해 파괴되고 대체된 이전 세계들(또는 "태양들")의 시퀀스를 묘사한다. 현재 세계가 다섯 번째이며, 이전의 네 세계는 홍수를 포함한 다양한 재난에서 종결되었다. 대홍수 이전 / 대홍수 이후 도식과의 구조적 병행은 두드러진다.
 
-The **Celtic submerged-cities traditions** — Lyonesse, Ys, the various flood-island legends across the Atlantic-coast Celtic regions — preserve memories of catastrophic inundations that destroyed coastal civilizations. The traditions are sufficiently widespread that some underlying historical event seems likely; the corpus reads them as fragmentary memories of either the antediluvian Flood itself or of subsequent regional flooding events.
+**켈트 잠긴 도시 전승** — 라이오네스, 이스, 그리고 대서양 연안 켈트 지역들 전반의 다양한 홍수 섬 전설들 — 은 연안 문명을 파괴한 파국적 침수의 기억을 보존한다. 이 전승들은 충분히 광범위하게 퍼져 있어 어떤 기저의 역사적 사건이 가능성이 있어 보인다. 코퍼스는 그것들을 대홍수 이전 대홍수 자체나 후속하는 지역적 홍수 사건들의 단편적 기억으로 읽는다.
 
-The **Egyptian *zep tepi* tradition** describes the "first time" when the gods walked among men, a primordial era of divine presence followed by withdrawal as the gods returned to the heavens. The structural parallel to the Eden and post-Eden periods is evident.
+**이집트의 *zep tepi* 전승**은 신들이 인간들 사이에서 걸어 다녔던 "최초의 시간"을 묘사하는데, 신들이 하늘로 돌아가면서 신적 현존이 철수하는 원시 시대이다. 에덴 및 에덴 이후 시기와의 구조적 병행은 분명하다.
 
-In all these cases, the corpus's working position is that a global underlying historical event would predict precisely the kind of distributed-fragment-memory pattern that the surviving traditions display, but that the specific identification of any particular tradition's content with specific antediluvian events requires case-by-case analysis rather than blanket equivalence. The corpus does not endorse the popular ancient-astronaut literature's tendency to treat all such traditions as direct memories of the same events; some may be, others may preserve memory of subsequent regional events generalized into cosmic narrative, and others may be authentic mythological constructions of their respective cultures rather than historically referential.
-
-## See also
-
-- [Genesis](../genesis/)
-- [Adam and Eve](../adam-and-eve/)
-- [Cain and Abel](../cain-and-abel/)
-- [Noah](../noah/)
-- [Eden](../eden/)
-- [Tree of Life](../tree-of-life/)
-- [Nephilim](../nephilim/)
-- [Sons of Elohim](../sons-of-elohim/)
-- [Lucifer](../lucifer/)
-- [Yahweh](../yahweh/)
-- [Elohim](../elohim/)
-- [Council of the Eternals](../council-of-eternals/)
-- [Great Flood](../great-flood/)
-- [Pangaea](../pangaea/)
-- [Atlantis](../atlantis/)
-- [Göbekli Tepe](../gobekli-tepe/)
-- [Sumerian King List](../sumerian-king-list/)
-- [*Atra-ḫasīs*](../atra-hasis/)
-- [Epic of Gilgamesh](../epic-of-gilgamesh/)
-- [Book of Enoch](../book-of-enoch/)
-- [Age of Leo](../timeline/age-of-leo/)
-- [Age of Cancer](../timeline/age-of-cancer/)
-- [Age of Gemini](../timeline/age-of-gemini/)
-
-## References
-
-Vorilhon, Claude (Raël). *The Book Which Tells the Truth* (1974), chapter 2; collected in *Message from the Designers*.
-
-Sendy, Jean. *Ces dieux qui firent le ciel et la terre*. Robert Laffont, 1969. English: *Those Gods Who Made Heaven and Earth*. Berkley, 1972.
-
-*Biblia Hebraica Stuttgartensia*. Deutsche Bibelgesellschaft, 1997.
-
-Westermann, Claus. *Genesis 1–11: A Continental Commentary*. Fortress, 1994.
-
-Sarna, Nahum. *Genesis: The JPS Torah Commentary*. Jewish Publication Society, 1989.
-
-Lambert, W. G., and A. R. Millard. *Atra-ḫasīs: The Babylonian Story of the Flood*. Oxford, 1969.
-
-Foster, Benjamin R. *Before the Muses: An Anthology of Akkadian Literature*. CDL Press, 2005.
-
-Glassner, Jean-Jacques. *Mesopotamian Chronicles*. Society of Biblical Literature, 2004.
-
-Heidel, Alexander. *The Babylonian Genesis: The Story of Creation*. University of Chicago Press, 1951.
-
-Plato. *Timaeus* and *Critias*.
-
-Hesiod. *Works and Days*.
-
-Vidal-Naquet, Pierre. *The Atlantis Story: A Short History of Plato's Myth*. University of Exeter Press, 2007.
-
-Schmidt, Klaus. *Sie bauten die ersten Tempel: Das rätselhafte Heiligtum der Steinzeitjäger* (2006); English: *Göbekli Tepe: A Stone Age Sanctuary in South-Eastern Anatolia* (2012).
-
-Bar-Yosef, Ofer, and François R. Valla, eds. *Natufian Culture in the Levant*. International Monographs in Prehistory, 1991.
-
-Hancock, Graham. *Fingerprints of the Gods*. Crown, 1995.
-
-Hancock, Graham. *Magicians of the Gods*. St. Martin's, 2015.
-
-Hancock, Graham. *America Before*. St. Martin's, 2019.
-
-Schoch, Robert M. *Voices of the Rocks*. Harmony, 1999.
-
-Allan, D. S., and J. B. Delair. *Cataclysm! Compelling Evidence of a Cosmic Catastrophe in 9500 B.C.* Bear & Company, 1995.
-
-Firestone, Richard, et al. "Evidence for an extraterrestrial impact 12,900 years ago." *Proceedings of the National Academy of Sciences* 104:41 (2007).
-
-Eliade, Mircea. *The Myth of the Eternal Return*. Princeton University Press, 1954.
-
-Witzel, E. J. Michael. *The Origins of the World's Mythologies*. Oxford University Press, 2012.
-
-Ussher, James. *Annales Veteris Testamenti*. London, 1650.
-
-Burnet, Thomas. *Telluris Theoria Sacra*. London, 1681.
-
-Browne, Sir Thomas. *Pseudodoxia Epidemica*. London, 1646.
-
-Buckland, William. *Reliquiae Diluvianae*. London, 1823.
-
-Hutton, James. *Theory of the Earth*. Edinburgh, 1788.
-
-Lyell, Charles. *Principles of Geology*. London, 1830–33.
-
-"Antediluvian." *Wikipedia*. <https://en.wikipedia.org/wiki/Antediluvian>
-
-"Sumerian King List." *Wikipedia*. <https://en.wikipedia.org/wiki/Sumerian_King_List>
-
-"Atlantis." *Encyclopaedia Britannica*. <https://www.britannica.com/topic/Atlantis-legendary-island>
-
-"Göbekli Tepe." *Encyclopaedia Britannica*. <https://www.britannica.com/place/Gobekli-Tepe>
-
-"Pre-Pottery Neolithic." *Wikipedia*. <https://en.wikipedia.org/wiki/Pre-Pottery_Neolithic>
+이 모든 경우에 코퍼스의 작업 입장은, 전 지구적 기저 역사적 사건이 정확히 살아남은 전승들이 보여주는 종류의 분포된-단편-기억 패턴을 예측할 것이지만, 특정 전승의 내용을 특정 대홍수 이전 사건과 구체적으로 동정하는 것은 일괄적 등가가 아니라 사례별 분석을 요구한다는 것이다. 코퍼스는 그러한 모든 전승을 같은 사건의 직접적 기억으로 다루는 대중적 고대 우주인 문헌의 경향을 지지하지 않는다. 일부는 그러할 수 있고, 다른 일부는 우주적 서사로 일반화된 후속 지역 사건의 기억을 보존할 수 있으며, 또 다른 일부는 역사적으로 지시적이라기보다는 각자의 문화에 진정한 신화적 구성물일 수 있다.
