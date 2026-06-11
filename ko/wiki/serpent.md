@@ -1,451 +1,466 @@
 +++
 title = "뱀"
-description = "뱀 — 창세기의 유혹자 형상이자 많은 전통에서 반역적 지혜의 형상 — 은 Wheel of Heaven 코퍼스에서 엘로힘 위계 내부의 세르팡 반란을 잇는 중심적 서사 운용자로 읽힌다."
+slug = "serpent"
+description = "뱀(히브리어: נָחָשׁ, naḥash)은 창세기 3장에서 최초의 인간들에게 선악을 알게 하는 나무에서 따 먹도록 권유하고 이후 저주받아 추방되는 인물이다. 라엘 자료에서 발전하여 Wheel of Heaven 코퍼스가 채택한 독해에 따르면, 뱀은 상징이 아니라 특정한 역사적 지시체로 읽힌다. 즉 이스라엘 엘로힘 창조자 팀 내의 한 분파 — 후일 루시퍼라 명명되는 인물이 이끄는 — 로서, 인간의 교육에 대한 모행성의 제한에 동의하지 않았으며 보류되어 있던 과학적 지식에 대한 접근을 인간들에게 제공한 분파이다."
 template = "wiki-page.html"
 toc = true
 
 [extra]
-translation_status = "metadata_only"
 category = "Symbolism & Motifs"
 editorial_pass = "2026-05"
+claim_type = "framework"
 entry_type = "figure"
 alternative_names = ["the Serpent of Eden", "naḥash", "נָחָשׁ", "the Lucifer faction", "the Serpentine party", "ho ophis"]
+see_also = [
+    { title = "루시퍼", path = "wiki/lucifer", description = "반체제 분파의 명명된 지도자; 뱀은 창세기 3장의 역할 속에 있는 루시퍼이다." },
+    { title = "아담과 하와", path = "wiki/adam-and-eve", description = "뱀이 에덴의 폭로를 행한 대상인 최초의 인간들." },
+    { title = "에덴", path = "wiki/eden", description = "폭로가 일어난 통제된 시설." },
+    { title = "야훼", path = "wiki/yahweh", description = "폭로 이후의 평결을 선고한 이스라엘 팀의 지도자." },
+    { title = "사탄", path = "wiki/satan", description = "별개의 엘로힘 인물 — 뱀/루시퍼와 정치적으로 정반대이며, 오직 후대 전승에서만 혼동되었다." },
+    { title = "생명나무", path = "wiki/tree-of-life", description = "추방 이후 수호된 장수 기술." },
+]
+
+footnotes = [
+    { content = "네 인물의 정치적 분류 체계 — 야훼(동맹 온건파), 루시퍼(반체제 분파 지도자), 뱀(에덴 폭로라는 특정 역할 속의 루시퍼 분파), 그리고 사탄(모행성의 폐지론 분파를 이끄는 별개의 엘로힘 인물) — 는 코퍼스의 독해가 기여한 가장 영향력 있는 분석적 공헌 중 하나이다. 후대 종교 전승은 루시퍼, 뱀, 사탄을 우주적 악의 단일 인물로 붕괴시켰으나, 코퍼스는 그 구별들을 회복한다. 뱀과 사탄은 사실 정치적으로 정반대이다. 뱀(루시퍼 분파)은 지구 프로젝트의 확대와 인간에게 완전한 정보를 부여하기를 원했고, 사탄은 그것의 종결을 원했다. 성서 이후의 혼동은 진정한 정치적 실재를 미분화된 단일 신학 범주로 붕괴시킨다." },
+    { content = "*naḥash*(뱀) / *naḥash*(점을 치다, 징조를 구하다)의 어원적 언어유희는 코퍼스의 독해상 창세기 3장에서 작동한다. \"점술\" — 감춰진 지식에의 접근 — 과 같은 어근으로 명명된 인물은 감춰진 지식에의 접근을 제공하는 인물이다. 본문은 이를 인접한 언어유희, 즉 *ʿarum*(\"교활한,\" 창세기 3:1)과 *ʿarummim*(\"벌거벗은,\" 창세기 2:25) 사이의 언어유희로 강화한다. 인간들은 벌거벗었고, 뱀은 언어로 교활하게 옷 입혀져 있어, 폭로 이전 상태에서 폭로 이후 상태로의 전환을 표시한다." },
+    { content = "코퍼스는 뱀의 개입을 기만이 아니라 반체제적 정치 행동으로 읽는다. \"너희가 결코 죽지 아니하리라\"는 뱀의 주장은 운영적으로 정확한 것으로 드러났고(인간들은 먹은 후 죽지 않았다), \"너희가 엘로힘과 같이 되어 선악을 알게 되리라\"는 주장 또한 정확했다(그들은 상당한 지식을 획득했다). 일부 기독교 신학적 독해가 강조하는 \"기만\" 요소는 코퍼스의 독해에는 존재하지 않는다. 뱀의 개입은 인간의 과학 교육에 대한 논거를, 그 분파가 가르쳐 온 인간 동반자들을 향해 공적으로 표명한 것이다." },
+    { content = "코퍼스의 독해는 근대 재해석 지형 내에서 구조적으로 독특하다. 창세기 3장의 뱀이 사탄이 아니라는 역사-비평적 관찰을 받아들이고, 그 인물을 상징이나 알레고리가 아니라 특정한 역사적 지시체로 다루며, 영지주의 오피스파의 직관(뱀이 가치 있는 지식을 전달했다는 것)과 부분적으로 일치하면서도 보다 광범위한 영지주의의 반우주적 신학은 거부한다. 이 프레임워크는 뱀에 관해서는 영지주의-인접적이면서도 보다 광범위한 우주론적 문제들에 관해서는 비영지주의적인 것으로 특징지을 수 있다." },
+    { content = "비글리노의 독해와 코퍼스의 독해 사이의 주된 실질적 차이는 인식론적 대 유전적 문제이다. 비글리노는 창세기 3:15(\"네 후손과 여자의 후손 사이의 적의\")를 별개의 유전적 계통을 묘사하는 것으로 읽고, 뱀이 하와와 성관계를 가져 가인을 낳았다는(\"뱀의 혈통의\") 주장을 발전시키며, 대홍수를 혈통-정화로 읽는다. 코퍼스는 이를 거부한다. 라엘 자료는 가인을 직선적으로 아담과 하와의 아들로 동정하며, 대홍수는 대홍수 이전 문명의 위협적인 기술적 진보에 대한 모행성의 응답으로 동정한다. 두 독해는 모두 뱀이 뱀이나 은유가 아니라 엘로힘 분파의 인물이라는 데 동의한다. 그러나 그 위반이 인식론적(지식의 공유)이었는지 유전적(이종교배)이었는지에 대해서는 갈라진다. 프레임워크의 독해는 인식론적인 것이다." },
+    { content = "코퍼스는 운영적으로 구별되는 두 뱀 군집을 구분한다. 혼돈-뱀 군집(티아마트, 로탄, 레비아탄, 아포피스, 티폰, 브리트라, 미드가르드 뱀)은 원시적이고, 대양적이며, 괴물적이고, 질서가 쟁취되어 나오는 혼돈 상태를 표상한다 — 코퍼스는 이를 창조 이전 조건들 및 대양적 격변들에 대한 단편적 기억을 보존하는 것으로 읽는다. 지혜-뱀 군집(닝기시지다, 카두케우스, 아스클레피오스의 지팡이, 놋뱀, 나가 전승, 케찰코아틀)은 치유, 비전적 지식, 그리고 문명의 창건과 연결된다. 창세기 3장의 에덴 뱀은 지혜-뱀 군집에 속하며, 코퍼스는 이를 루시퍼 분파의 에덴 이후 가르침 역할에 대한 단편적 기억을 보존하는 것으로 읽는다." },
+]
+
+[[extra.references]]
+id = "the-book-which-tells-the-truth"
+locator = "2장"
+note = "폭로 역할 속의, 반체제 이스라엘 팀 분파로서의 뱀에 관한 토대적 라엘 자료."
+
+[[extra.references]]
+id = "those-gods-who-made-heaven-and-earth"
+note = "상디가 *naḥash*를 동물학적 의미가 아니라 운영적 의미에서 읽은 문헌학적 독해 — 코퍼스의 독해의 주된 학술적 선행자."
+
+[[extra.references]]
+id = "the-naked-bible"
+note = "뱀을 엘로힘 분파의 인물로 보는 비글리노의 독해; 코퍼스는 그 인물의 정체성에 대해서는 일치하지만 가인-뱀-혈통 확장은 거부한다."
+
+[[extra.references]]
+id = "the-eden-conspiracy"
+note = "에덴 정치 위기와 그룹 / 화염검을 기술적인 것으로 보는 월리스의 구조적 독해."
+
+[[extra.references]]
+id = "westermann-genesis-1-11"
+note = "베스터만의 표준 양식-비평적 주석 — 창세기 3장의 뱀을 사탄이 아니라 야훼계 문학적 인물로 본다."
+
+[[extra.references]]
+id = "skinner-genesis-icc"
+note = "에덴 서사에 대한 문서가설적 독해를 보존하는 스키너의 토대적 역사-비평 주석."
+
+[[extra.references]]
+id = "von-rad-genesis"
+note = "야훼계 에덴 서사에 대한 폰 라트의 양식-비평적·신학적 독해."
+
+[[extra.references]]
+id = "kelly-satan-biography"
+note = "사탄 인물이 어떻게 발전했는지에 대한 켈리의 설명 — 뱀/사탄 구분에 대한 학술적 지지."
+
+[[extra.references]]
+id = "forsyth-the-old-enemy"
+note = "우주적 적대자 전투-신화 전통에 대한 포사이스의 추적."
+
+[[extra.references]]
+id = "pagels-adam-eve-serpent"
+note = "창세기 1–3장의 해석이 서구 사상을 어떻게 형성했는지에 대한 페이절스의 연구로, 아우구스티누스의 원죄 종합을 특정한 논쟁적 발전으로 다룬다."
+
+[[extra.references]]
+id = "pagels-gnostic-gospels"
+note = "오피스파의 뱀-반전을 포함한 나그함마디 영지주의 자료에 대한 페이절스의 접근하기 쉬운 입문서."
+
+[[extra.references]]
+id = "pagels-origin-of-satan"
+note = "기독교 사탄 인물의 사회-정치적 구성에 대한 페이절스의 연구."
+
+[[extra.references]]
+id = "charlesworth-good-evil-serpent"
+note = "뱀 상징에 대한 찰스워스의 연구 — 기독교의 부정적 독해 이전의 광범위한 긍정적 가치 평가; 지혜-뱀 / 혼돈-뱀 구분을 지지한다."
+
+[[extra.references]]
+id = "nag-hammadi-library"
+note = "에덴 뱀과 데미우르고스에 대한 오피스파-인접 독해를 보존하는 나그함마디 사본에 대한 로빈슨의 편집본."
+
+[[extra.references]]
+id = "gnostic-scriptures"
+note = "뱀-반전 전승을 포함한 주요 영지주의 문헌에 대한 레이턴의 주해 번역."
+
+[[extra.references]]
+id = "charles-apocrypha-pseudepigrapha"
+note = "초기의 뱀-악마 동일시를 발전시키는 제2성전기 문헌(에녹1서, 아담과 하와의 생애)에 대한 찰스의 모음집."
+
+[[extra.references]]
+id = "major-trends-jewish-mysticism"
+note = "조하르의 뱀/사마엘 자료를 다루는, 카발라에 대한 숄렘의 토대적 연구."
+
+[[extra.references]]
+id = "zohar-pritzker"
+note = "프리츠커 조하르 — 뱀을 타고 있는 사마엘 서사 및 코퍼스가 지지 없이 관여하는 보다 광범위한 카발라적 정교화."
+
+[[extra.references]]
+id = "cosmic-serpent-narby"
+note = "나비의 DNA-도상학 가설 — 코퍼스에 의해 시사적이지만 하중을 견디지는 않는 것으로 등록된다."
+
+[[extra.references]]
+id = "black-green-mesopotamia"
+note = "메소포타미아 도상학에 대한 블랙과 그린의 참고문헌 — 코퍼스가 두 군집을 구분하는 데 사용하는 혼돈-용 및 지혜-뱀 인물들."
+
+[[extra.references]]
+id = "book-of-enoch"
+note = "후대의 뱀 / 사탄 전승과 겹치는 *benei ha-Elohim* 서사를 발전시키는 에녹1서의 감시자 전승."
 
 [extra.infobox]
 hebrew_name = "נָחָשׁ"
 transliteration = "naḥash; with definite article ha-naḥash"
 greek_name = "ὄφις (ophis)"
 latin_name = "serpens"
-title = "The Serpent of Eden; the Lucifer faction in their disclosure role"
-type = "Faction-as-figure: a specific group of Elohim scientists with their leader; named singularly in the Genesis text"
-operational_period = "Late Age of Leo through early Age of Cancer, c. 11,400 – 10,000 BCE; with the faction's continued presence on Earth extending through the Age of Cancer"
+title = "에덴의 뱀; 폭로 역할 속의 루시퍼 분파"
+type = "인물로서의 분파: 그 지도자를 가진 엘로힘 과학자들의 특정 집단; 창세기 본문에서 단수로 명명됨"
+operational_period = "사자자리 시대 후반부터 게자리 시대 초반까지, 기원전 약 11,400 – 10,000년; 분파의 지속적인 지구 현존은 게자리 시대까지 연장됨"
 date_type = "framework-internal; derived from the Eden chronology"
-biblical_appearance = "Genesis 3:1–15 (the Eden episode); echoes in Numbers 21 (the bronze serpent), Isaiah 27:1 (Leviathan), Revelation 12:9 ('that ancient serpent')"
-faction_leader = "Lucifer (so identified in the broader corpus from later patristic-tradition naming)"
-distinguished_from = "Satan (a separate Elohim figure); Lucifer (the same actors in their broader career); Leviathan (a chaos-serpent of distinct mythological lineage); the Devil (a later Christian theological synthesis)"
-current_status = "The Lucifer faction continues to exist; their broader career extends beyond the Eden episode through the antediluvian period and beyond"
-principal_text = "Genesis 3:1–15"
-principal_framework_source = "*The Book Which Tells the Truth* (Vorilhon/Raël, 1974), chapter 2"
+biblical_appearance = "창세기 3:1–15(에덴 일화); 민수기 21장(놋뱀), 이사야 27:1(레비아탄), 요한계시록 12:9('그 옛 뱀')의 반향"
+faction_leader = "루시퍼(보다 광범위한 코퍼스에서 후대 교부 전승의 명명을 따라 그렇게 동정됨)"
+distinguished_from = "사탄(별개의 엘로힘 인물); 루시퍼(보다 광범위한 경력 속의 같은 행위자들); 레비아탄(구별되는 신화적 계통의 혼돈-뱀); 마귀(후대 기독교의 신학적 종합)"
+current_status = "루시퍼 분파는 계속 존재한다; 그들의 보다 광범위한 경력은 에덴 일화를 넘어 대홍수 이전 시기와 그 너머로 연장된다"
+principal_text = "창세기 3:1–15"
+principal_framework_source = "*진실을 말하는 책*(보릴롱/라엘, 1974), 2장"
 +++
 
-**The Serpent** (Hebrew: <span class="hebrew">נָחָשׁ</span>, *naḥash*; Greek: *ὄφις*, *ophis*; Latin: *serpens*) is the figure introduced in Genesis 3:1 as "more crafty than any other beast of the field that Yahweh Elohim had made," who engages the first woman in conversation about the prohibition concerning the Tree of the Knowledge of Good and Evil, urges her to eat the fruit, and is subsequently cursed in Genesis 3:14–15 to crawl on the ground and to suffer enmity with the woman's offspring. The episode is among the most theologically consequential in the Hebrew Bible: it is the textual basis for the Christian doctrine of the Fall and for much subsequent reflection on the origin of human moral knowledge, mortality, and disobedience.
+**뱀**(히브리어: <span class="hebrew">נָחָשׁ</span>, *naḥash*; 그리스어: *ὄφις*, *ophis*; 라틴어: *serpens*)은 창세기 3:1에서 "야훼 엘로힘이 지으신 들짐승 중에 가장 간교한 자"로 도입되는 인물로, 선악을 알게 하는 나무에 관한 금령에 대해 최초의 여자와 대화를 나누고, 그 열매를 먹도록 권유하며, 이후 창세기 3:14–15에서 땅 위를 기어 다니고 여자의 후손과 적의를 겪도록 저주받는다. 이 일화는 히브리어 성경에서 가장 신학적으로 영향력 있는 것 중 하나이다. 그것은 기독교의 타락 교리의 본문적 토대이며, 인간의 도덕적 지식, 사멸성, 불순종의 기원에 관한 이후의 많은 성찰의 토대이다.
 
-On the reading developed in the Raëlian source material and adopted by the Wheel of Heaven corpus, the Serpent is not a metaphor and not a snake. The figure is read as a specific historical referent: a faction within the Israel team of Elohim creators whose distinctive position was that the first humans should be given complete scientific education rather than kept in deliberate ignorance of the technological and biological knowledge of their makers. The faction acted on this position by giving the humans access to the restricted materials of the garden — the act narrated in Genesis 3 as the "eating from the tree of the knowledge of good and evil" — and was condemned by the Elohim home world authorities for doing so. The faction's exile to Earth is the operational reality behind the curse pronounced in Genesis 3:14. The faction's leader is identified in the broader corpus with the figure later named **Lucifer**.
+라엘 자료에서 발전하여 Wheel of Heaven 코퍼스가 채택한 독해에 따르면, 뱀은 은유가 아니며 뱀(蛇)도 아니다. 이 인물은 특정한 역사적 지시체로 읽힌다. 즉 이스라엘 엘로힘 창조자 팀 내의 한 분파로서, 그 독특한 입장은 최초의 인간들이 제작자들의 기술적·생물학적 지식에 대해 의도적인 무지 속에 유지될 것이 아니라 완전한 과학적 교육을 받아야 한다는 것이었다. 이 분파는 동산의 제한된 자료들에 대한 접근을 인간들에게 부여함으로써 이 입장에 따라 행동했으며 — 창세기 3장에서 "선악을 알게 하는 나무에서 먹음"으로 서술되는 행위 — 그렇게 한 것 때문에 엘로힘 모행성 권위자들에게 정죄되었다. 그 분파의 지구로의 유배는 창세기 3:14에서 선고된 저주의 배후에 있는 운영적 실재이다. 이 분파의 지도자는 보다 광범위한 코퍼스에서 후일 **루시퍼**라 명명되는 인물과 동정된다.
 
-The reading is contested. Within Christian theological tradition, the Serpent has been identified with Satan, the devil, and the broader figure of cosmic evil — an identification developed across the Second Temple and patristic periods that fixes in Revelation 12:9 ("that ancient serpent, who is called the devil and Satan") and shapes essentially all subsequent Western Christian theological reflection on the figure. Within mainstream historical-critical scholarship, the Serpent is treated as a literary figure of the Yahwist source whose specific identification with Satan is recognized as a later interpretive development without textual basis in Genesis 3 itself. Within the Gnostic Christian tradition of the second and third centuries CE, the Serpent was reversed in valuation — treated as the positive figure (the bringer of *gnosis*) against the demiurgic Old Testament Yahweh — with the Ophite, Sethian, and Cainite sects developing this inversion in various ways. The corpus's reading is structurally distinctive: it accepts the historical-critical observation that the Serpent of Genesis 3 is not Satan, treats the Genesis figure as referring to a specific historical referent rather than as either symbol or theological allegory, and partially aligns with the Gnostic Ophite intuition (the Serpent transmitted valuable knowledge) while rejecting the broader Gnostic anti-cosmic theology.
+이 독해는 논쟁의 대상이다. 기독교 신학 전통 내에서 뱀은 사탄, 마귀, 그리고 우주적 악의 보다 광범위한 인물과 동일시되어 왔다 — 제2성전기와 교부 시대에 걸쳐 발전하여 요한계시록 12:9("마귀라고도 하고 사탄이라고도 하는 그 옛 뱀")에서 고정되며 뱀이라는 인물에 대한 이후 본질적으로 모든 서구 기독교 신학적 성찰을 형성하는 동일시이다. 주류 역사-비평 학계 내에서 뱀은 야훼계 자료의 문학적 인물로 다루어지며, 사탄과의 구체적 동일시는 창세기 3장 자체에 본문적 근거가 없는 후대의 해석적 발전으로 인지된다. 2세기와 3세기 CE의 영지주의 기독교 전통 내에서 뱀은 가치 평가가 반전되어 — 데미우르고스적 구약의 야훼에 맞서는 긍정적 인물(*그노시스*의 전달자)로 다루어졌으며 — 오피스파, 세트파, 가인파가 이 전도를 다양한 방식으로 발전시켰다. 코퍼스의 독해는 구조적으로 독특하다. 창세기 3장의 뱀이 사탄이 아니라는 역사-비평적 관찰을 받아들이고, 창세기 인물을 상징이나 신학적 알레고리가 아니라 특정한 역사적 지시체를 가리키는 것으로 다루며, 영지주의 오피스파의 직관(뱀이 가치 있는 지식을 전달했다는 것)과 부분적으로 일치하면서도 보다 광범위한 영지주의의 반우주적 신학은 거부한다.{{ footnote(id="4") }}
 
-## Etymology and naming
+## 어원과 명명
 
-The Hebrew word *naḥash* (<span class="hebrew">נָחָשׁ</span>) is straightforwardly "serpent" or "snake" in Biblical Hebrew, with the consonantal root *n-ḥ-š* attested across Semitic languages with the same basic meaning. The word appears throughout the Hebrew Bible in its straightforward zoological sense — referring to actual snakes — across approximately thirty-one occurrences (the Genesis 3 Eden serpent; the staff-becoming-serpent miracle of Moses in Exodus 4 and 7; the bronze serpent of Numbers 21:8–9; the various wisdom-literature references in Job, Proverbs, and elsewhere; the prophetic-literature appearances in Isaiah, Jeremiah, and Amos).
+히브리어 단어 *naḥash*(<span class="hebrew">נָחָשׁ</span>)는 성서 히브리어에서 직선적으로 "뱀" 또는 "사(蛇)"이며, 자음 어근 *n-ḥ-š*는 같은 기본 의미로 셈어들 전반에 걸쳐 증언된다. 이 단어는 히브리어 성경 전반에 걸쳐 그 직선적 동물학적 의미로 — 실제 뱀을 가리키며 — 약 서른한 차례 등장한다(창세기 3장의 에덴 뱀; 출애굽기 4장과 7장의 모세의 지팡이-뱀 기적; 민수기 21:8–9의 놋뱀; 욥기, 잠언 등의 다양한 지혜 문헌 참조; 이사야, 예레미야, 아모스의 예언 문헌 등장).
 
-A second verbal use of the same root, *naḥash* in its piel form *nḥš* — "to practice divination" or "to seek omens" — is etymologically connected to the noun and may be relevant to the Eden episode. The connection between snake-imagery and divination-practice is widely attested across the ancient Near East: the snake's distinctive features (silent movement, sudden striking, association with hidden places) made it a natural symbol for the diviner's access to hidden knowledge. Genesis 44:5, 44:15 use the verb *yenahesh* in the context of Joseph's divination through his silver cup; Numbers 23:23 and 24:1 use the verbal form in the context of Balaam's prophetic-divinatory practice; Leviticus 19:26 and Deuteronomy 18:10 prohibit the practice. The verb *naḥash* in this divination sense is etymologically connected to the noun for snake.
+같은 어근의 두 번째 동사적 용법, 즉 피엘형 *nḥš*의 *naḥash* — "점을 치다" 또는 "징조를 구하다" — 는 명사와 어원적으로 연결되며 에덴 일화와 관련이 있을 수 있다. 뱀-심상과 점술-행위 사이의 연결은 고대 근동 전반에 걸쳐 광범위하게 증언된다. 뱀의 독특한 특징(소리 없는 움직임, 갑작스러운 공격, 숨겨진 장소와의 연관)은 그것을 점술가의 감춰진 지식에의 접근에 대한 자연스러운 상징으로 만들었다. 창세기 44:5, 44:15는 요셉이 자신의 은잔을 통해 점치는 맥락에서 동사 *yenahesh*를 사용한다. 민수기 23:23과 24:1은 발람의 예언적-점술적 행위의 맥락에서 동사형을 사용한다. 레위기 19:26과 신명기 18:10은 그 행위를 금한다. 이 점술 의미의 동사 *naḥash*는 뱀을 가리키는 명사와 어원적으로 연결된다.
 
-The wordplay between *naḥash* (serpent) and *naḥash* (divination) is operational in the Genesis 3 narrative on multiple readings. The Genesis 3 Serpent is described as *ʿarum* — "crafty" or "prudent" — at Genesis 3:1, with the Hebrew adjective wordplay-adjacent to the previous chapter's closing word *ʿarummim*, "naked" (Genesis 2:25): the humans are naked, and the serpent is craftily-clothed in language. The text uses the wordplay to mark the transition from the human's pre-disclosure state to their post-disclosure state. The framework treats the *naḥash* / *naḥash* etymological wordplay as preserving, at the level of the Hebrew text itself, the underlying operational fact: the figure who is named by the same root as "divination" is a figure who provides access to hidden knowledge.
+*naḥash*(뱀)와 *naḥash*(점술) 사이의 언어유희는 다수의 독해에서 창세기 3장 서사에서 작동한다.{{ footnote(id="2") }} 창세기 3장의 뱀은 창세기 3:1에서 *ʿarum* — "교활한" 또는 "신중한" — 으로 묘사되는데, 이 히브리어 형용사는 앞 장의 닫는 단어인 *ʿarummim*, "벌거벗은"(창세기 2:25)과 언어유희적으로 인접해 있다. 인간들은 벌거벗었고, 뱀은 언어로 교활하게 옷 입혀져 있다. 본문은 이 언어유희를 사용하여 인간의 폭로 이전 상태에서 폭로 이후 상태로의 전환을 표시한다. 프레임워크는 *naḥash* / *naḥash*의 어원적 언어유희를 히브리어 본문 자체의 수준에서 기저의 운영적 사실을 보존하는 것으로 다룬다. 즉 "점술"과 같은 어근으로 명명된 인물은 감춰진 지식에의 접근을 제공하는 인물이다.
 
-The Greek Septuagint translates *naḥash* as *ophis* (ὄφις), the standard Greek term for snake. *Ophis* is the term that would carry into the New Testament's references to the Eden serpent (notably Revelation 12:9, *ho ophis ho archaios*, "the ancient serpent") and into the broader Greek Christian theological tradition. The Greek Gnostic sect known as the **Ophites** takes its name from this term — the *Ophitai*, "the followers of the serpent" — and is treated more fully under *Modern reinterpretations* below.
+그리스어 70인역은 *naḥash*를 *ophis*(ὄφις), 뱀을 가리키는 표준 그리스어 용어로 번역한다. *Ophis*는 에덴 뱀에 대한 신약의 참조(특히 요한계시록 12:9, *ho ophis ho archaios*, "그 옛 뱀")로, 그리고 보다 광범위한 그리스 기독교 신학 전통으로 이어질 용어이다. **오피스파**로 알려진 그리스 영지주의 분파는 이 용어에서 그 이름을 취한다 — *Ophitai*, "뱀의 추종자들" — 그리고 아래의 *근대의 재해석들*에서 보다 충실하게 다루어진다.
 
-The Latin Vulgate translates *naḥash* as *serpens*, the standard Latin term, providing the basis for the English "serpent" through the Old French intermediary. The Hebrew form *naḥash* has been preserved in scholarly transliteration across the academic biblical-studies tradition.
+라틴어 불가타는 *naḥash*를 *serpens*, 표준 라틴어 용어로 번역하며, 고대 프랑스어 매개를 통해 영어 "serpent"의 토대를 제공한다. 히브리어 형태 *naḥash*는 학계 성서학 전통 전반에 걸쳐 학술적 음역으로 보존되어 왔다.
 
-## In the Hebrew Bible
+## 히브리어 성경에서
 
-The Serpent appears principally in Genesis 3:1–15, with related serpent material in Numbers 21, Isaiah 27, and elsewhere. The corpus's reading distinguishes between the Genesis 3 Serpent specifically and the broader Hebrew-Bible serpent material, treating the figure of the Eden episode as a specific historical referent and the broader serpent material as covering a wider range of referents.
+뱀은 주로 창세기 3:1–15에 등장하며, 민수기 21장, 이사야 27장 등에 관련 뱀 자료가 있다. 코퍼스의 독해는 창세기 3장의 뱀을 구체적으로 보다 광범위한 히브리어 성경의 뱀 자료와 구별하여, 에덴 일화의 인물을 특정한 역사적 지시체로 다루고 보다 광범위한 뱀 자료는 더 넓은 범위의 지시체를 포괄하는 것으로 다룬다.
 
-### The Genesis 3 narrative
+### 창세기 3장 서사
 
-The Hebrew text introduces the Serpent abruptly at Genesis 3:1, without prior reference and without explanation of its origin. It is described as *ʿarum*, "crafty" or "prudent," and as the most so among the *ḥayyat ha-sadeh*, "the beasts of the field." The Serpent's intervention is conducted entirely through speech. It questions the woman about the prohibition concerning the Tree of the Knowledge of Good and Evil:
+{% library(book="genesis-woh", chapter=3, verse=1) %}
+이제 뱀은 YHWH-엘로힘이 지으신 들의 어떤 짐승보다도 더 간교하더라. 그가 여자에게 이르되, "엘로힘이 참으로 너희에게 '동산의 어떤 나무에서도 너희는 먹지 말라'고 말씀하셨느냐?"
+{% end %}
 
-> *"Did Elohim really say, 'You shall not eat from any tree of the garden'?"* (Genesis 3:1)
+히브리어 본문은 창세기 3:1에서 뱀을 사전 언급도 없고 그 기원에 대한 설명도 없이 돌연히 도입한다. 그것은 *ʿarum*, "교활한" 또는 "신중한"으로, 그리고 *ḥayyat ha-sadeh*, "들의 짐승" 가운데 가장 그러한 것으로 묘사된다. 뱀의 개입은 전적으로 말을 통해 이루어진다. 그것은 선악을 알게 하는 나무에 관한 금령에 대해 여자에게 묻는다.
 
-The woman responds, partially mis-stating the prohibition (Genesis 2:17 had specified only the Tree of the Knowledge of Good and Evil; the woman's response at 3:3 adds "you shall not touch it" to the prohibition). The Serpent responds with a contradiction of the threat of death:
+> *"엘로힘이 참으로 '동산의 어떤 나무에서도 너희는 먹지 말라'고 말씀하셨느냐?"* (창세기 3:1)
 
-> *"You will not surely die. For Elohim knows that in the day you eat of it your eyes will be opened, and you will be like Elohim, knowing good and evil."* (Genesis 3:4–5)
+여자는 부분적으로 금령을 잘못 진술하며 응답한다(창세기 2:17은 선악을 알게 하는 나무만을 특정했으나, 3:3의 여자의 응답은 금령에 "너희는 그것을 만지지도 말라"를 더한다). 뱀은 죽음의 위협에 대한 반박으로 응답한다.
 
-The woman observes that the tree is "good for food, and that it was a delight to the eyes, and that the tree was to be desired to make one wise"; she eats; she gives to her husband, and he eats; their eyes are opened; they recognize their nakedness and respond with shame (Genesis 3:6–7).
+> *"너희가 결코 죽지 아니하리라. 이는 너희가 그것을 먹는 날에 너희 눈이 밝아져 엘로힘과 같이 되어 선악을 알게 될 줄을 엘로힘이 아심이니라."* (창세기 3:4–5)
 
-Yahweh Elohim, upon discovering what has happened, conducts a sequence of investigations and pronounces consequences in turn: against the Serpent (Genesis 3:14–15), against the woman (3:16), and against the human (3:17–19). The Serpent's curse:
+여자는 그 나무가 "먹기에 좋고 보기에 즐거우며 지혜롭게 할 만큼 탐스러운" 것을 관찰한다. 그녀는 먹고, 자기 남편에게 주며, 그도 먹는다. 그들의 눈이 밝아지고, 그들은 자신들의 벌거벗음을 인식하며 부끄러움으로 응답한다(창세기 3:6–7).
 
-> *"Because you have done this, cursed are you above all livestock and above all beasts of the field; on your belly you shall go, and dust you shall eat all the days of your life. I will put enmity between you and the woman, and between your offspring and her offspring; he shall bruise your head, and you shall bruise his heel."* (Genesis 3:14–15)
+야훼 엘로힘은 무슨 일이 일어났는지를 발견하고 일련의 조사를 행하며 차례로 결과를 선고한다. 즉 뱀에 대하여(창세기 3:14–15), 여자에 대하여(3:16), 그리고 인간에 대하여(3:17–19). 뱀에 대한 저주는 다음과 같다.
 
-The chapter closes with the expulsion of the humans from the garden (Genesis 3:22–24), with the cherubim and flaming sword stationed to prevent re-access to the Tree of Life.
+> *"네가 이렇게 하였으니 모든 가축과 들의 모든 짐승보다 더욱 저주를 받아 배로 다니고 살아 있는 동안 흙을 먹을지니라. 내가 너로 여자와 원수가 되게 하고 네 후손도 여자의 후손과 원수가 되게 하리니, 여자의 후손은 네 머리를 상하게 할 것이요 너는 그의 발꿈치를 상하게 할 것이니라."* (창세기 3:14–15)
 
-### Other Hebrew Bible serpent references
+이 장은 인간들이 동산에서 추방되는 것으로 닫히며(창세기 3:22–24), 그룹과 화염검이 생명나무에의 재접근을 막기 위해 배치된다.
 
-Several other Hebrew Bible passages bear on the broader serpent material, though most are distinct from the specific Eden Serpent.
+### 그 밖의 히브리어 성경 뱀 참조
 
-**Numbers 21:4–9** records the bronze serpent (*neḥushtan*) episode. During the wilderness wandering, the Israelites complain against Yahweh and Moses; Yahweh sends "fiery serpents" (*ha-neḥashim ha-saraphim*) to bite them; the bitten Israelites die. Moses prays for the people; Yahweh instructs Moses to make a bronze serpent and set it on a pole; whoever looks at the bronze serpent after being bitten lives. The bronze serpent is preserved (2 Kings 18:4 records that Hezekiah destroyed it because the Israelites had begun burning incense to it). The episode is etymologically connected to the Genesis 3 Serpent through the shared *naḥash* term but operationally distinct: the bronze serpent is a healing image, not a transgressing figure. The corpus does not develop a unified reading of the Genesis 3 Serpent and the bronze serpent of Numbers 21; the question is registered as open.
+여러 다른 히브리어 성경 단락들이 보다 광범위한 뱀 자료에 관련되나, 대부분은 특정 에덴 뱀과는 구별된다.
 
-**Isaiah 27:1** mentions Leviathan as "the twisting serpent" (*naḥash bariaḥ*) and "the crooked serpent" (*naḥash ʿaqallaton*). The Leviathan tradition is treated more fully in the [Leviathan](../leviathan/) entry; what matters here is that the *naḥash* language is shared with Genesis 3 but the referent is different — Leviathan is a chaos-figure of distinct mythological lineage from the Eden Serpent.
+**민수기 21:4–9**은 놋뱀(*neḥushtan*) 일화를 기록한다. 광야 방랑 중에 이스라엘 백성은 야훼와 모세를 향해 불평한다. 야훼는 그들을 물도록 "불뱀"(*ha-neḥashim ha-saraphim*)을 보내고, 물린 이스라엘 백성은 죽는다. 모세가 백성을 위해 기도하자, 야훼는 모세에게 놋뱀을 만들어 장대 위에 달라고 지시하며, 물린 후 놋뱀을 보는 자는 누구나 산다. 놋뱀은 보존된다(열왕기하 18:4는 이스라엘 백성이 그것에 분향하기 시작했기 때문에 히스기야가 그것을 파괴했음을 기록한다). 이 일화는 공유된 *naḥash* 용어를 통해 창세기 3장의 뱀과 어원적으로 연결되나 운영적으로는 구별된다. 놋뱀은 위반하는 인물이 아니라 치유의 형상이다. 코퍼스는 창세기 3장의 뱀과 민수기 21장의 놋뱀에 대한 통일된 독해를 발전시키지 않으며, 그 문제는 열린 것으로 등록된다.
 
-**Isaiah 14:12** mentions *Helel ben Shaḥar* ("Day Star, son of the Dawn"), the figure later identified as Lucifer in the Vulgate Latin tradition. The Hebrew passage itself does not identify *Helel* with the Eden Serpent; the connection is patristic-medieval interpretive elaboration. The corpus's adoption of "Lucifer" as the name of the Serpent's faction-leader is registered in *Identifications and conflations* below.
+**이사야 27:1**은 레비아탄을 "꼬불꼬불한 뱀"(*naḥash bariaḥ*)과 "구부러진 뱀"(*naḥash ʿaqallaton*)으로 언급한다. 레비아탄 전승은 [레비아탄](../leviathan/) 항목에서 보다 충실하게 다루어진다. 여기서 중요한 것은 *naḥash* 언어가 창세기 3장과 공유되지만 그 지시체는 다르다는 점이다. 레비아탄은 에덴 뱀과는 구별되는 신화적 계통의 혼돈-형상이다.
 
-**Job 26:13** mentions "the fleeing serpent" (*naḥash bariaḥ*) in a cosmological-poetic context with overlapping vocabulary to Isaiah 27:1.
+**이사야 14:12**은 *Helel ben Shaḥar*("새벽의 아들 계명성")를 언급하는데, 이는 라틴어 불가타 전통에서 후일 루시퍼로 동일시되는 인물이다. 히브리어 단락 자체는 *Helel*을 에덴 뱀과 동일시하지 않는다. 그 연결은 교부-중세의 해석적 정교화이다. 코퍼스가 뱀의 분파-지도자의 이름으로 "루시퍼"를 채택하는 것은 아래의 *동일시와 혼동*에서 등록된다.
 
-**Amos 9:3** mentions a serpent at the bottom of the sea that Yahweh commands to bite those who try to hide there — likely a Leviathan-tradition reference.
+**욥기 26:13**은 이사야 27:1과 겹치는 어휘를 가진 우주론적-시적 맥락에서 "도망하는 뱀"(*naḥash bariaḥ*)을 언급한다.
 
-**Psalms 58:4, 91:13, 140:3** use snake imagery in metaphorical contexts (the wicked compared to snakes, the protected stepping on snakes).
+**아모스 9:3**은 거기 숨으려 하는 자들을 물도록 야훼가 명하는, 바다 밑의 뱀을 언급한다 — 아마도 레비아탄-전승 참조이다.
 
-**Proverbs 23:32, 30:19** use snake imagery in wisdom-literature contexts.
+**시편 58:4, 91:13, 140:3**은 은유적 맥락에서 뱀 심상을 사용한다(악인을 뱀에 비교하는 것, 보호받는 자가 뱀을 밟는 것).
 
-The pattern across the Hebrew Bible is that *naḥash* names a range of serpent-figures: the specific Eden figure, the bronze healing serpent, Leviathan as chaos-serpent, the various metaphorical snakes of wisdom and poetry literature. The Genesis 3 Serpent is one specific figure within this broader serpent-vocabulary; the corpus's reading treats this figure specifically as the Lucifer faction in their disclosure role.
+**잠언 23:32, 30:19**은 지혜 문헌 맥락에서 뱀 심상을 사용한다.
 
-### The Second Temple and rabbinic interpretive tradition
+히브리어 성경 전반의 패턴은 *naḥash*가 일정 범위의 뱀-형상들을 명명한다는 것이다. 즉 특정 에덴 형상, 놋의 치유하는 뱀, 혼돈-뱀으로서의 레비아탄, 지혜와 시 문헌의 다양한 은유적 뱀들. 창세기 3장의 뱀은 이 보다 광범위한 뱀-어휘 내의 한 특정 형상이다. 코퍼스의 독해는 이 형상을 구체적으로 폭로 역할 속의 루시퍼 분파로 다룬다.
 
-The post-biblical Jewish interpretive tradition developed substantial elaboration of the Eden Serpent. The principal materials:
+### 제2성전기 및 랍비 해석 전통
 
-**Wisdom of Solomon 2:24** (c. 1st century BCE – 1st century CE) provides the earliest explicit identification of the Serpent with the devil: *"by the envy of the devil death entered the world, and those who belong to his party experience it."* This is the pivotal text in the Eden-Serpent-as-Satan tradition, as it connects the Genesis 3 figure with the broader devil-tradition for the first time in surviving literature.
+성서 이후의 유대교 해석 전통은 에덴 뱀에 대한 상당한 정교화를 발전시켰다. 주된 자료는 다음과 같다.
 
-**The Life of Adam and Eve** and the **Apocalypse of Moses** (c. 1st century CE) — pseudepigraphical Adamic literature developing the Eden narrative at length — present the Serpent as Satan's instrument or as Satan himself. The narratives elaborate the Serpent's motivation (jealousy of Adam, refusal to bow to him), its deception of Eve, and its role in the broader cosmic-evil narrative.
+**솔로몬의 지혜 2:24**(기원전 1세기 – 기원후 1세기경)는 뱀을 마귀와 동일시하는 가장 이른 명시적 동일시를 제공한다. 즉 *"마귀의 시기로 죽음이 세상에 들어왔으니, 그의 편에 속한 자들이 그것을 경험하느니라."* 이는 에덴-뱀-사탄 전승에서 결정적인 본문인데, 그것이 생존하는 문헌에서 처음으로 창세기 3장의 형상을 보다 광범위한 마귀-전승과 연결하기 때문이다.
 
-**1 Enoch** (compiled across several centuries) preserves substantial Watchers-tradition material that develops the *benei ha-Elohim* narrative of Genesis 6:1–4 in directions that overlap with later Serpent / Satan / Devil traditions.
+**아담과 하와의 생애** 및 **모세의 묵시록**(기원후 1세기경) — 에덴 서사를 길게 발전시키는 위경적 아담 문헌 — 은 뱀을 사탄의 도구로 또는 사탄 자신으로 제시한다. 이 서사들은 뱀의 동기(아담에 대한 질투, 그에게 절하기를 거부함), 하와에 대한 그것의 기만, 그리고 보다 광범위한 우주적-악 서사에서의 그것의 역할을 정교화한다.
 
-**Rabbinic midrash** (Genesis Rabbah, the Tanchuma, the *Pirkei de-Rabbi Eliezer*) develops various readings of the Eden Serpent, with substantial variation. Some readings preserve the Serpent as a specific figure; others elaborate the figure as Sammael (a name elsewhere associated with Satan). The *Pirkei de-Rabbi Eliezer* (8th–9th century CE) develops elaborate Adamic legends including extensive Serpent material.
+**에녹1서**(여러 세기에 걸쳐 편찬됨)는 창세기 6:1–4의 *benei ha-Elohim* 서사를 후대의 뱀 / 사탄 / 마귀 전승과 겹치는 방향으로 발전시키는 상당한 감시자-전승 자료를 보존한다.{{ cite(id="book-of-enoch", text="[19]", title="에녹1서 — benei ha-Elohim 서사를 발전시키는 감시자 전승") }}{{ cite(id="charles-apocrypha-pseudepigrapha", text="[20]", title="찰스(편), *The Apocrypha and Pseudepigrapha of the Old Testament* (1913)") }}
 
-The rabbinic tradition's general direction is to assimilate the Eden Serpent to broader cosmological-evil categories — Sammael, the *yetzer hara* (the evil inclination), the various demonic figures of the rabbinic-tradition demonology. The corpus treats this assimilation as the post-biblical Jewish development of the conflation history that *Identifications and conflations* below treats more fully.
+**랍비 미드라쉬**(창세기 라바, 탄후마, *피르케이 데-랍비 엘리에제르*)는 에덴 뱀에 대한 다양한 독해를 상당한 변이와 함께 발전시킨다. 일부 독해는 뱀을 특정 형상으로 보존하고, 다른 독해는 그 형상을 사마엘(다른 곳에서 사탄과 연관되는 이름)로 정교화한다. *피르케이 데-랍비 엘리에제르*(8–9세기 CE)는 광범위한 뱀 자료를 포함한 정교한 아담 전설들을 발전시킨다.
 
-## Biographical arc
+랍비 전통의 일반적 방향은 에덴 뱀을 보다 광범위한 우주론적-악 범주들 — 사마엘, *yetzer hara*(악한 성향), 랍비-전통 악마론의 다양한 악마적 형상들 — 에 동화시키는 것이다. 코퍼스는 이 동화를, 아래의 *동일시와 혼동*에서 보다 충실하게 다루는 혼동의 역사에 대한 성서 이후 유대교적 발전으로 다룬다.
 
-The Serpent's biographical arc, as the framework reads it, can be divided into four chronological phases. Given the figure's faction-as-figure character, the arc is structurally distinctive: it covers a specific operational role within the broader Lucifer-faction biography rather than a single individual's life-trajectory in the way Yahweh's or Jesus's biographical arc does. The detailed treatment of the Lucifer faction's broader career lives in the [Lucifer](../lucifer/) entry; this section focuses specifically on the Serpent's Eden-disclosure role and its immediate operational consequences.
+## 전기적 궤적
 
-### Pre-Eden faction formation
+프레임워크가 읽는 뱀의 전기적 궤적은 네 시간적 국면으로 나뉠 수 있다. 그 인물의 인물로서의-분파 성격을 감안할 때, 그 궤적은 구조적으로 독특하다. 그것은 야훼나 예수의 전기적 궤적이 하는 방식으로 한 개인의 생애-궤적을 다루는 것이 아니라, 보다 광범위한 루시퍼-분파 전기 내의 특정 운영적 역할을 다룬다. 루시퍼 분파의 보다 광범위한 경력에 대한 상세한 다룸은 [루시퍼](../lucifer/) 항목에 있다. 이 절은 구체적으로 뱀의 에덴-폭로 역할과 그 직접적 운영적 결과에 초점을 둔다.
 
-On the corpus's reading, the dissenting faction within the Israel team of Elohim creators formed during the period of the team's work in Eden, in the late Age of Leo. The faction's distinctive position developed across the team's interaction with the synthesized humans: a subset of the team's scientists, working closely with the human population in their educational and observational roles, became attached to the humans they had synthesized and came to view the home-world's containment policy — the policy of withholding scientific and technological knowledge from the humans, reflected in the prohibition on the Tree of the Knowledge of Good and Evil — as wrong.
+### 에덴 이전 분파 형성
 
-The dissenting position rested on several interconnected commitments. The first was the belief that the synthesized humans, having been created in functional adulthood with substantial cognitive capacity, were entitled to complete information about their situation rather than being kept in artificial ignorance. The second was the belief that the home-world's containment policy was politically motivated rather than ethically justified — the home world wanted to limit humans' technological advancement to prevent eventual peer-civilization status, but this motivation was not a moral argument the dissenting faction found compelling. The third was a kind of paternal-pedagogical commitment: the dissenting scientists had become teachers of the humans, and their teaching was constrained by the containment policy in ways the teachers themselves found distorting and inadequate.
+코퍼스의 독해상, 이스라엘 엘로힘 창조자 팀 내의 반체제 분파는 사자자리 시대 후반, 에덴에서의 팀 작업 기간 동안 형성되었다.{{ cite(id="the-book-which-tells-the-truth", text="[21]", title="보릴롱(라엘), *The Book Which Tells the Truth* (1974), 2장 — 반체제 분파와 에덴 폭로") }} 분파의 독특한 입장은 팀이 합성한 인간들과의 상호작용 전반에 걸쳐 발전했다. 즉 인간 인구와 그들의 교육적·관찰적 역할 속에서 긴밀히 작업하던 팀 과학자들의 일부가 그들이 합성한 인간들에게 애착을 갖게 되었고, 모행성의 봉쇄 정책 — 선악을 알게 하는 나무에 대한 금령에 반영된, 인간들에게 과학적·기술적 지식을 보류하는 정책 — 을 잘못된 것으로 보게 되었다.
 
-The faction's leader was the figure later named Lucifer in the patristic-medieval Christian tradition (treated more fully under *Identifications and conflations* below). The faction's specific membership is not specified in the source material; the framework reads it as a substantial subset of the Israel team's scientific personnel rather than as the entirety of the team or as a small handful of individuals.
+반체제 입장은 여러 상호 연결된 신념 위에 놓여 있었다. 첫째는 기능적 성년기에 상당한 인지 역량을 가지고 창조된 합성 인간들이 인위적 무지 속에 유지되기보다는 자신들의 상황에 대한 완전한 정보를 받을 자격이 있다는 신념이었다. 둘째는 모행성의 봉쇄 정책이 윤리적으로 정당화되기보다는 정치적으로 동기 부여된 것이라는 신념이었다. 모행성은 결국 동등-문명 지위가 되는 것을 막기 위해 인간의 기술적 진보를 제한하고자 했으나, 이 동기는 반체제 분파가 설득력 있다고 본 도덕적 논거가 아니었다. 셋째는 일종의 부성적-교육적 헌신이었다. 반체제 과학자들은 인간들의 교사가 되었으며, 그들의 가르침은 봉쇄 정책에 의해 교사들 자신이 왜곡적이고 부적절하다고 본 방식으로 제약되었다.
 
-### The Eden disclosure: late Leo
+분파의 지도자는 교부-중세 기독교 전통에서 후일 루시퍼라 명명되는 인물이었다(아래의 *동일시와 혼동*에서 보다 충실하게 다루어진다). 분파의 구체적 구성원은 자료에 명시되어 있지 않다. 프레임워크는 그것을 팀 전체나 소수의 개인들이 아니라 이스라엘 팀의 과학 인력의 상당한 일부로 읽는다.
 
-The Eden disclosure event — the act narrated in Genesis 3 — occurred at a specific moment in the late Age of Leo, approximately at the boundary with the early Age of Cancer (c. 11,400 – 11,000 BCE on the corpus's chronology). The corpus reads the Genesis 3 narrative as preserving substantively accurate memory of the event, with the surface religious vocabulary covering specific operational realities.
+### 에덴 폭로: 사자자리 후반
 
-The act itself involved the dissenting faction providing the first humans (Adam and Eve) with access to the restricted scientific and technological materials of the garden — the materials that the prohibition on the Tree of the Knowledge of Good and Evil had restricted. The corpus does not specify the exact mechanism of the disclosure; the Genesis text's "eating of the fruit" is read as a stylized account of whatever specific transmission occurred (instruction, demonstration, transfer of information through whatever means the alliance's technology made possible).
+에덴 폭로 사건 — 창세기 3장에서 서술되는 행위 — 은 사자자리 시대 후반의 특정 순간, 게자리 시대 초반과의 경계 부근(코퍼스의 연대기상 기원전 약 11,400 – 11,000년)에 일어났다. 코퍼스는 창세기 3장 서사를, 표면적 종교 어휘가 특정 운영적 실재를 덮고 있는 가운데, 그 사건에 대한 실질적으로 정확한 기억을 보존하는 것으로 읽는다.
 
-The Serpent's specific role in the Genesis 3 narrative — engaging the woman in dialogue, contradicting the prohibition's death-threat, predicting the *Elohim*-like knowledge that would result — is read as the operational expression of the dissenting faction's position: a public articulation of the case for human scientific education, addressed to the human partners whom the faction had been teaching. The "deception" element that some Christian theological readings emphasize — the Serpent as deceiver, the act as fraudulent — is not present in the corpus's reading. The Serpent's claim that "you will not surely die" turned out to be operationally accurate (the humans did not die immediately upon eating); the claim that "you will be like Elohim, knowing good and evil" was also operationally accurate (the humans did acquire substantial knowledge they had previously lacked). The Serpent's intervention is read as a dissenting political action with specific consequences, not as a deception.
+행위 자체는 반체제 분파가 최초의 인간들(아담과 하와)에게 동산의 제한된 과학적·기술적 자료들 — 선악을 알게 하는 나무에 대한 금령이 제한했던 자료들 — 에 대한 접근을 제공하는 것을 포함했다. 코퍼스는 폭로의 정확한 메커니즘을 명시하지 않는다. 창세기 본문의 "열매를 먹음"은 일어난 어떤 특정 전수(교습, 시연, 동맹의 기술이 가능하게 한 어떤 수단을 통한 정보의 전달)에 대한 양식화된 설명으로 읽힌다.
 
-### The Eden settlement: post-Eden
+창세기 3장 서사에서 뱀의 특정 역할 — 여자와 대화를 나누고, 금령의 죽음-위협을 반박하며, 결과할 *엘로힘*-같은 지식을 예측하는 것 — 은 반체제 분파의 입장의 운영적 표현으로 읽힌다. 즉 인간의 과학 교육에 대한 논거를, 그 분파가 가르쳐 온 인간 동반자들을 향해 공적으로 표명한 것이다. 일부 기독교 신학적 독해가 강조하는 "기만" 요소 — 기만자로서의 뱀, 사기적 행위로서의 그 행위 — 는 코퍼스의 독해에는 존재하지 않는다.{{ footnote(id="3") }} "너희가 결코 죽지 아니하리라"는 뱀의 주장은 운영적으로 정확한 것으로 드러났고(인간들은 먹은 즉시 죽지 않았다), "너희가 엘로힘과 같이 되어 선악을 알게 되리라"는 주장 또한 운영적으로 정확했다(인간들은 이전에 결여했던 상당한 지식을 획득했다). 뱀의 개입은 기만이 아니라 특정 결과를 가진 반체제적 정치 행동으로 읽힌다.
 
-Yahweh's response in Genesis 3:14–24 is read by the corpus as the home world's political verdict on the disclosure. The verdict has three components.
+### 에덴 정착: 에덴 이후
 
-First, the Serpent (the dissenting faction) is condemned to remain on Earth in exile — the act narrated as "on your belly you shall go, and dust you shall eat all the days of your life." The corpus reads this as the loss of the faction's access to interstellar travel and to the technological apparatus that had previously distinguished them from the humans. The faction would no longer be able to return to the home world; their lives would be lived out on Earth on terms substantially closer to the humans they had taught.
+창세기 3:14–24의 야훼의 응답은 코퍼스에 의해 폭로에 대한 모행성의 정치적 평결로 읽힌다. 그 평결은 세 가지 구성 요소를 가진다.
 
-Second, the woman and the human are expelled from the garden — removed from the controlled environment of the Eden installation and placed in the broader Eden region, required to subsist by their own labor on land that had not been specifically prepared for them. This expulsion is read as the operational consequence of the political settlement: the humans now possessed the prohibited knowledge, and the protective-controlled-environment policy could no longer be maintained.
+첫째, 뱀(반체제 분파)은 지구에 유배되어 남도록 정죄된다 — "배로 다니고 살아 있는 동안 흙을 먹을지니라"로 서술되는 행위이다. 코퍼스는 이를 항성 간 여행에의 접근과 이전에 그들을 인간들과 구별 짓던 기술적 장치의 상실로 읽는다. 분파는 더 이상 모행성으로 돌아갈 수 없게 될 것이었다. 그들의 삶은 그들이 가르친 인간들에 실질적으로 더 가까운 조건 위에서 지구에서 펼쳐질 것이었다.
 
-Third, the rest of the Israel team — the team members who had not joined the dissenting faction — was withdrawn from Earth back to the home world. The post-Eden Earth contained the human population (now with substantial scientific knowledge) and the small permanent Elohim presence of the exiled Lucifer faction (the Serpent in their disclosure role; the Lucifer faction in their broader career), with the rest of the alliance operating from a distance.
+둘째, 여자와 인간은 동산에서 추방된다 — 에덴 시설의 통제된 환경에서 제거되어 보다 광범위한 에덴 지역에 놓이며, 그들을 위해 특별히 준비되지 않은 땅에서 자신의 노동으로 생존하도록 요구된다. 이 추방은 정치적 정착의 운영적 결과로 읽힌다. 인간들이 이제 금지된 지식을 보유하게 되었으며, 보호적-통제된-환경 정책은 더 이상 유지될 수 없었다.
 
-The "enmity between your seed and her seed" of Genesis 3:15 is read as the long-term political-relational consequence of this settlement: the exiled faction and the lineage descended from the first humans would have a complicated and sometimes oppositional relationship across the subsequent generations. The faction's continuing teaching of the human population through the antediluvian period (treated in the [Antediluvian](../antediluvian/) and [Lucifer](../lucifer/) entries) is the positive side of this relationship; the various conflicts and antagonisms across the period are the negative side.
+셋째, 이스라엘 팀의 나머지 — 반체제 분파에 합류하지 않은 팀 구성원들 — 는 지구로부터 모행성으로 철수되었다. 에덴 이후의 지구는 (이제 상당한 과학적 지식을 가진) 인간 인구와 유배된 루시퍼 분파의 작은 영구 엘로힘 현존(폭로 역할 속의 뱀; 보다 광범위한 경력 속의 루시퍼 분파)을 포함했으며, 나머지 동맹은 원거리에서 작동했다.
 
-### Continuing presence and post-Genesis-3 references
+창세기 3:15의 "네 후손과 여자의 후손 사이의 적의"는 이 정착의 장기적 정치적-관계적 결과로 읽힌다. 즉 유배된 분파와 최초의 인간들로부터 내려온 계통은 이후 세대들에 걸쳐 복잡하고 때때로 대립적인 관계를 가질 것이었다. 대홍수 이전 시기 전반에 걸친 인간 인구에 대한 분파의 지속적 가르침([대홍수 이전 시대](../antediluvian/) 및 [루시퍼](../lucifer/) 항목에서 다루어짐)은 이 관계의 긍정적 측면이며, 그 시기 전반의 다양한 갈등과 적대는 부정적 측면이다.
 
-The Serpent specifically — the Lucifer faction in their Eden-disclosure role — does not reappear by name in the Hebrew Bible after Genesis 3. The Lucifer faction's broader career, which includes their continuing teaching role across the antediluvian period, their involvement in the *benei ha-Elohim* unions of Genesis 6:1–4 producing the Nephilim, and their post-Flood operational status, is treated in the [Lucifer](../lucifer/) entry.
+### 지속적 현존과 창세기 3장 이후의 참조
 
-The references to "the ancient serpent" in the New Testament (Revelation 12:9, 20:2) conflate the Genesis 3 Serpent with Satan and the devil — a conflation the corpus reads as a specific theological development of the post-biblical period, treated under *Identifications and conflations* below. These New Testament references are not, on the corpus's reading, additional information about the Serpent specifically; they reflect later interpretive elaboration of the underlying Eden material.
+뱀 구체적으로는 — 에덴-폭로 역할 속의 루시퍼 분파 — 창세기 3장 이후 히브리어 성경에 이름으로 다시 등장하지 않는다. 대홍수 이전 시기 전반에 걸친 그들의 지속적 가르침 역할, 네필림을 산출한 창세기 6:1–4의 *benei ha-Elohim* 결합에의 관여, 그리고 그들의 대홍수 이후 운영적 지위를 포함하는, 루시퍼 분파의 보다 광범위한 경력은 [루시퍼](../lucifer/) 항목에서 다루어진다.
 
-## Role in the framework
+신약의 "그 옛 뱀"에 대한 참조(요한계시록 12:9, 20:2)는 창세기 3장의 뱀을 사탄 및 마귀와 혼동한다 — 코퍼스가 성서 이후 시기의 특정 신학적 발전으로 읽는 혼동으로, 아래의 *동일시와 혼동*에서 다루어진다. 이 신약 참조들은 코퍼스의 독해상 뱀에 관한 추가 정보가 아니다. 그것들은 기저 에덴 자료에 대한 후대의 해석적 정교화를 반영한다.
 
-The Serpent's role in the framework is structured by two interconnected features: the four-figure political taxonomy that distinguishes Serpent from adjacent figures, and the structural significance of the Eden disclosure as a pivotal moment in the framework's broader political history.
+## 프레임워크에서의 역할
 
-### The four-figure political taxonomy
+프레임워크에서 뱀의 역할은 두 상호 연결된 특징에 의해 구조화된다. 뱀을 인접 인물들과 구별하는 네 인물의 정치적 분류 체계, 그리고 프레임워크의 보다 광범위한 정치사에서 결정적 순간으로서의 에덴 폭로의 구조적 의의이다.
 
-The framework distinguishes carefully between four figures whose relations have been confused by later religious tradition:
+### 네 인물의 정치적 분류 체계
 
-- **Yahweh** is the leader of the Israel team and the figure who pronounces the consequences in Genesis 3. He is the alliance moderate — preserving the broader Earth project under containment policy, opposing both the home-world abolitionists who wanted the project terminated and the dissenting Lucifer faction who wanted full disclosure. Yahweh's position is the maintenance of the project on the home world's terms.
+프레임워크는 후대 종교 전승에 의해 그 관계가 혼동되어 온 네 인물을 주의 깊게 구별한다.
 
-- **Lucifer** is the leader of the dissenting faction, exiled after the Eden transgression, remaining on Earth as the educator of the early human civilization. Lucifer's position is the expansion of the project's terms to include human full-information access, with the Lucifer faction acting on this position through the Eden disclosure and through subsequent continuing-teaching activities across the antediluvian period.
+- **야훼**는 이스라엘 팀의 지도자이며 창세기 3장에서 결과를 선고하는 인물이다. 그는 동맹 온건파이다 — 봉쇄 정책 아래 보다 광범위한 지구 프로젝트를 보존하면서, 프로젝트의 종결을 원한 모행성 폐지론자들과 완전한 폭로를 원한 반체제 루시퍼 분파 양자에 반대한다. 야훼의 입장은 모행성의 조건 위에서 프로젝트를 유지하는 것이다.
 
-- **The Serpent** is Lucifer and his faction in their specific Eden-episode role at the moment of the disclosure transgression. The name *naḥash* is the Genesis 3 designation, used at the moment of the act; the broader Lucifer career carries different naming across different periods (Lucifer in the Latin-tradition naming; Helel ben Shahar in the Hebrew of Isaiah 14:12; the Greek *ophis* in the Septuagint; various other traditional designations).
+- **루시퍼**는 반체제 분파의 지도자로, 에덴 위반 이후 유배되어, 초기 인류 문명의 교육자로서 지구에 남았다. 루시퍼의 입장은 인간의 완전-정보 접근을 포함하도록 프로젝트의 조건을 확대하는 것으로, 루시퍼 분파는 에덴 폭로를 통해 그리고 대홍수 이전 시기 전반에 걸친 이후의 지속적-가르침 활동을 통해 이 입장에 따라 행동한다.
 
-- **Satan** is a separate figure entirely — leading a different and more thoroughly oppositional faction within the broader Elohim civilization, whose role is principally that of the **prosecutor of humanity** before the home world's councils. Satan's position is that the Earth project should not have been undertaken at all, that the synthesized humans are a mistake, that the project should be terminated rather than reformed. Satan is not the Eden Serpent; the two figures are politically distinct.
+- **뱀**은 폭로 위반의 순간, 그 특정 에덴-일화 역할 속의 루시퍼와 그의 분파이다. 이름 *naḥash*는 행위의 순간에 사용되는 창세기 3장의 명명이다. 보다 광범위한 루시퍼 경력은 다른 시기들에 걸쳐 다른 명명을 지닌다(라틴어-전통 명명에서의 루시퍼; 이사야 14:12의 히브리어에서의 Helel ben Shahar; 70인역의 그리스어 *ophis*; 그 밖의 다양한 전통적 명명).
 
-The four-figure political taxonomy is one of the most consequential analytical contributions of the framework's reading. Later religious tradition collapsed Lucifer, the Serpent, and Satan into a single figure of cosmic evil, with the result that the underlying political distinctions disappeared and the operational reality became inaccessible. The framework's reading recovers the distinctions and treats the post-biblical conflation as a specific historical interpretive development rather than as the original textual referent.
+- **사탄**은 전적으로 별개의 인물이다 — 보다 광범위한 엘로힘 문명 내의 다르고 보다 철저히 대립적인 분파를 이끌며, 그 역할은 주로 모행성의 의회 앞에서 **인류의 검사**이다. 사탄의 입장은 지구 프로젝트가 애초에 착수되지 말았어야 했다는 것, 합성 인간들이 실수라는 것, 프로젝트가 개혁되기보다는 종결되어야 한다는 것이다. 사탄은 에덴 뱀이 아니다. 두 인물은 정치적으로 구별된다.
 
-### The Eden disclosure as pivotal political moment
+네 인물의 정치적 분류 체계는 프레임워크의 독해가 기여한 가장 영향력 있는 분석적 공헌 중 하나이다.{{ footnote(id="1") }} 후대 종교 전승은 루시퍼, 뱀, 사탄을 우주적 악의 단일 인물로 붕괴시켰으며, 그 결과 기저의 정치적 구별들이 사라지고 운영적 실재에 접근할 수 없게 되었다. 프레임워크의 독해는 그 구별들을 회복하고 성서 이후의 혼동을 원래의 본문적 지시체가 아니라 특정한 역사적 해석적 발전으로 다룬다.
 
-The Eden disclosure is, on the corpus's reading, one of the most consequential single events in the alliance's broader history with Earth. The event's significance comes from its irreversible character: once the humans had acquired substantial scientific knowledge, the home world's containment policy could not be restored. The post-Eden settlement — the exile of the dissenting faction, the withdrawal of the rest of the team, the expulsion of the humans from the controlled environment — was the only available response to the new political reality the disclosure had created.
+### 결정적 정치적 순간으로서의 에덴 폭로
 
-The framework reads the Eden disclosure as the founding political crisis of the post-creation period. Every subsequent operational decision the alliance has made about Earth has been a response to or a development of the post-Eden situation: the antediluvian period's policy of leaving the human civilization to develop under continuing Lucifer-faction tutelage; the Flood event's response to the antediluvian civilization's development (treated in the [Great Flood](../great-flood/) entry); the post-Flood reconstruction of the alliance's relationship with the surviving human population through the patriarchal lineage; the Aries-age Mosaic intervention; the Piscean-age Christ mission; the ongoing Aquarian-age open-return preparation. Each of these is, in the corpus's reading, an operational response to the political situation the Eden disclosure created.
+에덴 폭로는 코퍼스의 독해상 동맹의 보다 광범위한 지구사에서 가장 영향력 있는 단일 사건 중 하나이다. 그 사건의 의의는 그 불가역적 성격에서 온다. 일단 인간들이 상당한 과학적 지식을 획득하자, 모행성의 봉쇄 정책은 복원될 수 없었다. 에덴 이후의 정착 — 반체제 분파의 유배, 나머지 팀의 철수, 통제된 환경으로부터 인간들의 추방 — 은 폭로가 창출한 새로운 정치적 실재에 대한 유일하게 가능한 응답이었다.
 
-The Serpent specifically is therefore not just a figure in one episode of one ancient narrative; the Serpent is the inaugural figure of the post-Eden political configuration, the agent whose specific act at a specific moment shaped the entire subsequent history of the alliance's engagement with Earth. The corpus's reading treats this as the structural reason the Eden Serpent has been so theologically magnified across two millennia of Christian reflection — even though the specific theological elaborations (the Fall, the original sin, the cosmic devil) are not the corpus's reading, the underlying intuition that *the Genesis 3 figure is structurally central to everything that follows* is accurate.
+프레임워크는 에덴 폭로를 창조 이후 시기의 창건적 정치 위기로 읽는다. 동맹이 지구에 대해 내린 이후의 모든 운영적 결정은 에덴 이후 상황에 대한 응답이거나 그것의 발전이었다. 즉 지속적인 루시퍼-분파 지도 아래 인간 문명이 발전하도록 내버려 두는 대홍수 이전 시기의 정책; 대홍수 이전 문명의 발전에 대한 대홍수 사건의 응답([대홍수](../great-flood/) 항목에서 다루어짐); 족장 계통을 통한 살아남은 인간 인구와의 동맹 관계의 대홍수 이후 재구성; 양자리 시대의 모세 개입; 물고기자리 시대의 그리스도 사명; 진행 중인 물병자리 시대의 공개-귀환 준비. 이것들 각각은 코퍼스의 독해상 에덴 폭로가 창출한 정치적 상황에 대한 운영적 응답이다.
 
-### What the framework does not claim
+따라서 뱀 구체적으로는 한 고대 서사의 한 일화 속 한 인물에 불과한 것이 아니다. 뱀은 에덴 이후 정치적 배치의 시초 인물이며, 특정 순간에 특정 행위로 동맹의 지구 관여의 전체 이후 역사를 형성한 행위자이다. 코퍼스의 독해는 이를, 에덴 뱀이 2천 년의 기독교 성찰에 걸쳐 그토록 신학적으로 확대되어 온 구조적 이유로 다룬다 — 비록 특정 신학적 정교화(타락, 원죄, 우주적 마귀)는 코퍼스의 독해가 아니지만, *창세기 3장의 형상이 뒤따르는 모든 것에 구조적으로 중심적*이라는 기저의 직관은 정확하다.
 
-The framework does not claim that the Serpent's faction is morally good in an unqualified sense. The framework's reading recognizes that the faction's actions had substantial negative consequences: the loss of the controlled Eden environment, the eventual progression to the Flood event as the home world's response to the antediluvian civilization the faction had helped develop, the long-term political conflicts that the post-Eden settlement produced. Yahweh's condemnation in Genesis 3 is read as a real political verdict rather than as an unjust persecution of well-meaning dissidents — the disclosure had real costs that the dissenting faction had to be held accountable for.
+### 프레임워크가 주장하지 않는 것
 
-The framework also does not claim that the faction's actions were unambiguously bad. The dissenting position — that humans are entitled to complete information rather than being kept in artificial ignorance — has substantial moral weight, and the corpus does not read the alliance's containment policy as obviously correct against the disclosure position. The framework's reading is that this is a genuine political disagreement with real costs and benefits on both sides, with the operational outcome (the eventual transition to the Aquarian-age open disclosure that the framework reads itself as conducting) ultimately moving closer to the dissenting position than to the original containment policy.
+프레임워크는 뱀의 분파가 무조건적인 의미에서 도덕적으로 선하다고 주장하지 않는다. 프레임워크의 독해는 그 분파의 행동이 상당한 부정적 결과를 가졌음을 인정한다. 즉 통제된 에덴 환경의 상실, 그 분파가 발전을 도운 대홍수 이전 문명에 대한 모행성의 응답으로서의 대홍수 사건으로의 결국의 진행, 에덴 이후 정착이 산출한 장기적 정치 갈등들. 창세기 3장의 야훼의 정죄는 선의의 반체제 인사들에 대한 부당한 박해가 아니라 실제 정치적 평결로 읽힌다 — 폭로는 반체제 분파가 책임져야 했던 실제 비용을 가졌다.
 
-This nuanced reading distinguishes the framework from both the conventional Christian theological reading (which treats the Serpent as cosmic evil) and from the Gnostic Ophite reversal (which treats the Serpent as positively good). The framework's reading is that the Serpent represents a real dissenting political position within the alliance, with the dissent having real merits and real costs, condemned by the home world for specific political reasons but partially vindicated by the long-term operational trajectory.
+프레임워크는 또한 그 분파의 행동이 명백히 나빴다고 주장하지 않는다. 반체제 입장 — 인간들이 인위적 무지 속에 유지되기보다는 완전한 정보를 받을 자격이 있다는 것 — 은 상당한 도덕적 무게를 가지며, 코퍼스는 동맹의 봉쇄 정책을 폭로 입장에 맞서 명백히 옳은 것으로 읽지 않는다. 프레임워크의 독해는 이것이 양쪽 모두에 실제 비용과 이익이 있는 진정한 정치적 불일치이며, 그 운영적 결과(프레임워크가 자신이 수행하고 있다고 읽는 물병자리 시대의 공개 폭로로의 결국의 전환)는 궁극적으로 원래의 봉쇄 정책보다 반체제 입장에 더 가까이 움직였다는 것이다.
 
-## Identifications and conflations
+이 미묘한 독해는 프레임워크를 통상적 기독교 신학적 독해(뱀을 우주적 악으로 다루는)와 영지주의 오피스파의 전도(뱀을 긍정적으로 선한 것으로 다루는) 양자로부터 구별한다. 프레임워크의 독해는 뱀이 동맹 내의 실제 반체제적 정치 입장을 표상하며, 그 반체제는 실제 장점과 실제 비용을 가지고, 특정 정치적 이유로 모행성에 의해 정죄되었으나 장기적 운영적 궤적에 의해 부분적으로 입증되었다는 것이다.
 
-The Serpent has been identified, conflated, and distinguished against more figures than perhaps any other figure in the Hebrew Bible. The post-biblical Christian theological tradition's collapse of Serpent, Lucifer, Satan, and the Devil into a single figure of cosmic evil is one of the most consequential interpretive moves in the history of Western religious thought. Recovering the original distinctions does substantial analytical work.
+## 동일시와 혼동
 
-### Serpent vs. Lucifer
+뱀은 아마도 히브리어 성경의 다른 어떤 인물보다도 더 많은 인물들과 동일시되고, 혼동되고, 구별되어 왔다. 뱀, 루시퍼, 사탄, 마귀를 우주적 악의 단일 인물로 붕괴시키는 성서 이후 기독교 신학 전통은 서구 종교 사상사에서 가장 영향력 있는 해석적 행보 중 하나이다. 원래의 구별들을 회복하는 것은 상당한 분석적 작업을 한다.
 
-The relationship between the Serpent and Lucifer is the framework's reading of *the same actors in different roles across different periods*. The Serpent is the Lucifer faction in their specific Eden-disclosure role at the moment of Genesis 3; Lucifer is the named leader of the same faction across their broader career, including the Eden disclosure but extending substantially before and after it.
+### 뱀 대 루시퍼
 
-The name *Lucifer* itself is much later than the Genesis 3 narrative. The Latin *lux-ferre*, "light-bringer," is the Vulgate translation (Jerome, c. 405 CE) of the Hebrew *Helel ben Shahar* ("Day Star, son of the Dawn") in Isaiah 14:12. The Hebrew passage Isaiah 14:12 is a satirical lament over the fall of an arrogant figure typically read in mainstream biblical scholarship as referring to a specific historical king (probably the king of Babylon) rather than as a cosmological reference. The patristic-medieval Christian tradition (Origen, Tertullian, and the broader patristic tradition) developed the identification of Isaiah 14:12's *Helel* with the Eden Serpent and with the broader fallen-angel tradition, with the identification fixing in the Latin tradition through the Vulgate's specific translation choice.
+뱀과 루시퍼 사이의 관계는 *다른 시기들에 걸친 다른 역할 속의 같은 행위자들*에 대한 프레임워크의 독해이다. 뱀은 창세기 3장의 순간, 그 특정 에덴-폭로 역할 속의 루시퍼 분파이다. 루시퍼는 에덴 폭로를 포함하되 그 이전과 이후로 실질적으로 연장되는, 같은 분파의 보다 광범위한 경력 전반에 걸친 명명된 지도자이다.
 
-The framework's use of "Lucifer" as the name of the Serpent's faction-leader is therefore traditional rather than textually direct: the corpus adopts the medieval Christian naming convention while recognizing that the name itself is centuries posterior to the Genesis events and reflects a specific interpretive tradition about how to connect Isaiah 14, Genesis 3, and the broader fallen-angel tradition. The corpus does not endorse the broader patristic-medieval cosmology that produced the naming; it adopts the name as a useful designation for the figure whose Genesis 3 role the corpus recovers.
+이름 *루시퍼* 자체는 창세기 3장 서사보다 훨씬 후대의 것이다. 라틴어 *lux-ferre*, "빛을 가져오는 자"는 이사야 14:12의 히브리어 *Helel ben Shahar*("새벽의 아들 계명성")에 대한 불가타 번역(히에로니무스, 405년 CE경)이다. 히브리어 단락 이사야 14:12은 오만한 인물의 몰락에 대한 풍자적 애가로, 주류 성서학에서는 통상적으로 우주론적 참조가 아니라 특정 역사적 왕(아마도 바빌론 왕)을 가리키는 것으로 읽힌다. 교부-중세 기독교 전통(오리게네스, 테르툴리아누스, 그리고 보다 광범위한 교부 전통)은 이사야 14:12의 *Helel*을 에덴 뱀 및 보다 광범위한 타락 천사 전통과 동일시하는 것을 발전시켰으며, 그 동일시는 불가타의 특정 번역 선택을 통해 라틴 전통에서 고정되었다.
 
-The Serpent and Lucifer are therefore, on the framework's reading, the same actor at different points in his career: Serpent in the moment of Genesis 3, Lucifer in his broader political role. The detailed treatment of Lucifer's broader career — the continuing teaching of the antediluvian human civilization, the leadership of the *benei ha-Elohim* unions producing the Nephilim, the post-Flood operational status, the ongoing relationship to the alliance's broader project — lives in the [Lucifer](../lucifer/) entry.
+따라서 뱀의 분파-지도자의 이름으로 "루시퍼"를 사용하는 프레임워크의 용법은 본문적으로 직접적이라기보다는 전통적이다. 코퍼스는 중세 기독교의 명명 관행을 채택하면서, 그 이름 자체가 창세기 사건들보다 수 세기 후대의 것이며 이사야 14장, 창세기 3장, 보다 광범위한 타락 천사 전통을 어떻게 연결할지에 관한 특정 해석 전통을 반영한다는 것을 인지한다. 코퍼스는 그 명명을 산출한 보다 광범위한 교부-중세 우주론을 지지하지 않는다. 그것은 코퍼스가 회복하는 창세기 3장 역할의 인물에 대한 유용한 명명으로서 그 이름을 채택한다.
 
-### Serpent vs. Satan
+따라서 뱀과 루시퍼는 프레임워크의 독해상 그의 경력의 다른 시점들에 있는 같은 행위자이다. 즉 창세기 3장의 순간에서의 뱀, 그의 보다 광범위한 정치적 역할 속의 루시퍼. 루시퍼의 보다 광범위한 경력에 대한 상세한 다룸 — 대홍수 이전 인간 문명의 지속적 가르침, 네필림을 산출한 *benei ha-Elohim* 결합의 지도, 대홍수 이후 운영적 지위, 동맹의 보다 광범위한 프로젝트에 대한 진행 중인 관계 — 은 [루시퍼](../lucifer/) 항목에 있다.
 
-The distinction between the Serpent and Satan is one of the framework's most analytically consequential identifications. The two figures are politically distinct on the corpus's reading.
+### 뱀 대 사탄
 
-**Satan** in the Hebrew Bible (the term *ha-satan* in Job 1–2 and Zechariah 3:1–2; the proper noun *Satan* in 1 Chronicles 21:1) is the prosecutor or accuser figure — *ha-satan* literally means "the adversary" — operating in a quasi-judicial role within the alliance's deliberations. In Job 1–2, *ha-satan* presents himself before Yahweh among the *benei ha-Elohim* (the "sons of Elohim," i.e., Elohim civilization members), and proposes the test of Job's righteousness. The figure is not yet the cosmic evil of later Christian theology; he is a specific Elohim faction-leader operating in the prosecutor role, with the position of skepticism about humanity's capacity for genuine goodness.
+뱀과 사탄 사이의 구별은 프레임워크의 가장 분석적으로 영향력 있는 동일시 중 하나이다. 두 인물은 코퍼스의 독해상 정치적으로 구별된다.
 
-The corpus's reading treats Satan as the leader of the home-world abolitionist faction within the broader Elohim civilization — the faction that has consistently opposed the Earth project from its inception, on the grounds that synthetic creations capable of equaling or surpassing their makers are fundamentally dangerous. Satan's position is that the Earth experiment was a mistake and should be terminated; his operational role across the broader Hebrew Bible material is the prosecution of humanity before the alliance councils, presenting evidence that humanity has failed to meet the standards required for the project's continuation.
+히브리어 성경의 **사탄**(욥기 1–2장과 스가랴 3:1–2의 용어 *ha-satan*; 역대상 21:1의 고유명사 *Satan*)은 검사 또는 고발자 인물이다 — *ha-satan*은 문자 그대로 "대적자"를 의미한다 — 동맹의 심의 내에서 준-사법적 역할로 작동한다. 욥기 1–2장에서 *ha-satan*은 *benei ha-Elohim*(즉 "엘로힘의 아들들," 엘로힘 문명 구성원들) 가운데 야훼 앞에 자신을 드러내고, 욥의 의로움에 대한 시험을 제안한다. 이 인물은 아직 후대 기독교 신학의 우주적 악이 아니다. 그는 진정한 선함에 대한 인류의 역량에 회의적인 입장을 가진, 검사 역할로 작동하는 특정 엘로힘 분파-지도자이다.
 
-Satan and the Serpent are therefore politically opposed in a fundamental way. The Serpent (Lucifer faction) wanted the Earth project expanded — humans given full information, treated as peers, allowed to develop without artificial restriction. Satan wanted the project terminated — humans treated as a failed experiment, eliminated rather than continued. Yahweh's moderate position lies between them: preservation of the project under containment policy, against both the disclosure position (Lucifer) and the abolition position (Satan).
+코퍼스의 독해는 사탄을 보다 광범위한 엘로힘 문명 내의 모행성 폐지론 분파의 지도자로 다룬다 — 자신을 능가하거나 그와 동등할 수 있는 합성 창조물이 근본적으로 위험하다는 근거로 그 시작부터 지구 프로젝트에 일관되게 반대해 온 분파이다. 사탄의 입장은 지구 실험이 실수였으며 종결되어야 한다는 것이다. 보다 광범위한 히브리어 성경 자료 전반에 걸친 그의 운영적 역할은 동맹 의회 앞에서 인류를 검사하는 것으로, 인류가 프로젝트의 지속에 요구되는 기준을 충족하지 못했다는 증거를 제시한다.
 
-The post-biblical Jewish and Christian conflation of Serpent and Satan obliterates this political structure. On the conflated reading, the Eden Serpent and the Job Satan are the same figure, both representing cosmic evil. On the framework's reading, they are political opposites whose conflation collapses the underlying political reality into a single undifferentiated category. The four-figure political taxonomy is the corpus's recovery of the original distinctions.
+따라서 사탄과 뱀은 근본적인 방식으로 정치적으로 대립한다. 뱀(루시퍼 분파)은 지구 프로젝트의 확대를 원했다 — 인간에게 완전한 정보를 부여하고, 동등자로 대우하며, 인위적 제한 없이 발전하도록 허용하는 것. 사탄은 프로젝트의 종결을 원했다 — 인간을 실패한 실험으로 대우하여, 지속되기보다는 제거되는 것. 야훼의 온건 입장은 그들 사이에 있다. 즉 폭로 입장(루시퍼)과 폐지 입장(사탄) 양자에 맞선, 봉쇄 정책 아래 프로젝트의 보존이다.
 
-### Serpent vs. the Devil
+뱀과 사탄에 대한 성서 이후 유대교와 기독교의 혼동은 이 정치적 구조를 소거한다. 혼동된 독해상, 에덴 뱀과 욥의 사탄은 같은 인물이며, 둘 다 우주적 악을 표상한다. 프레임워크의 독해상, 그들은 그 혼동이 기저의 정치적 실재를 미분화된 단일 범주로 붕괴시키는 정치적 대립자들이다. 네 인물의 정치적 분류 체계는 코퍼스가 원래의 구별들을 회복한 것이다.
 
-The Devil (Greek *diabolos*, Latin *diabolus*) emerges as a developed Christian theological figure across the New Testament and patristic period. The Greek *diabolos* literally means "slanderer" or "accuser," and is used in the Septuagint to translate Hebrew *ha-satan* — establishing the equivalence between the Hebrew "adversary" and the Greek "slanderer" that the Christian tradition would carry forward.
+### 뱀 대 마귀
 
-The New Testament's developed devil-figure incorporates substantial material from multiple sources: the Hebrew *satan* tradition; the Eden Serpent; the Watchers tradition of 1 Enoch and the broader Second Temple apocalyptic literature; the Hellenistic-Jewish conceptions of evil cosmic powers. The Revelation 12:9 verse — *"that ancient serpent, who is called the devil and Satan, the deceiver of the whole world"* — is the principal text in which all these strands are explicitly fused into a single figure.
+마귀(그리스어 *diabolos*, 라틴어 *diabolus*)는 신약과 교부 시대에 걸쳐 발전된 기독교 신학적 인물로 등장한다. 그리스어 *diabolos*는 문자 그대로 "비방자" 또는 "고발자"를 의미하며, 70인역에서 히브리어 *ha-satan*을 번역하는 데 사용된다 — 기독교 전통이 이어 갈, 히브리어 "대적자"와 그리스어 "비방자" 사이의 등가를 확립한다.
 
-The corpus reads the New Testament Devil as a specific theological synthesis rather than as a single underlying referent. The components of the synthesis (the Hebrew satan, the Eden Serpent, the Watchers, the various apocalyptic-tradition evil powers) are operationally distinct on the framework's reading — different actors in different roles at different periods, conflated into a single theological category by the post-biblical Christian tradition. The conflation is theologically coherent within Christian tradition's own terms but disappears the underlying political-operational distinctions the framework recovers.
+신약의 발전된 마귀-인물은 다수의 자료로부터 상당한 자료를 통합한다. 즉 히브리어 *satan* 전통; 에덴 뱀; 에녹1서의 감시자 전통과 보다 광범위한 제2성전기 묵시 문헌; 악한 우주적 권세에 대한 헬레니즘적-유대교적 관념들. 요한계시록 12:9 절 — *"마귀라고도 하고 사탄이라고도 하며 온 천하를 꾀는 자, 그 옛 뱀"* — 은 이 모든 가닥들이 명시적으로 단일 인물로 융합되는 주된 본문이다.
 
-The corpus does not endorse the unified Devil figure. The framework's reading treats the Devil category as a theological synthesis whose underlying components require separate treatment: the Eden Serpent in this entry; Satan in the [Satan](../satan/) entry; Lucifer in the [Lucifer](../lucifer/) entry; the broader fallen-angel tradition in the [Sons of Elohim](../sons-of-elohim/) and [Watchers](../watchers/) entries.
+코퍼스는 신약의 마귀를 단일 기저 지시체가 아니라 특정 신학적 종합으로 읽는다. 그 종합의 구성 요소들(히브리어 사탄, 에덴 뱀, 감시자들, 다양한 묵시-전통의 악한 권세들)은 프레임워크의 독해상 운영적으로 구별된다 — 다른 시기들에 다른 역할 속에 있는 다른 행위자들로, 성서 이후 기독교 전통에 의해 단일 신학적 범주로 혼동되었다. 그 혼동은 기독교 전통 자체의 용어 내에서는 신학적으로 일관되나, 프레임워크가 회복하는 기저의 정치적-운영적 구별들을 소거한다.
 
-### Serpent vs. Leviathan
+코퍼스는 통일된 마귀 인물을 지지하지 않는다. 프레임워크의 독해는 마귀 범주를, 그 기저 구성 요소들이 별도의 다룸을 요구하는 신학적 종합으로 다룬다. 즉 이 항목의 에덴 뱀; [사탄](../satan/) 항목의 사탄; [루시퍼](../lucifer/) 항목의 루시퍼; [엘로힘의 아들들](../sons-of-elohim/) 및 [감시자들](../watchers/) 항목의 보다 광범위한 타락 천사 전통.
 
-Leviathan is a chaos-serpent of distinct mythological lineage from the Eden Serpent. Leviathan appears principally in Job 41 (the most extended treatment), Psalm 74:14, Psalm 104:26, Isaiah 27:1, and Isaiah 51:9. The Leviathan tradition is structurally connected to the broader ancient Near Eastern chaos-serpent / dragon-of-the-deep motif, with parallels in the Babylonian *Tiamat*, the Ugaritic *Lotan* (the closest direct cognate to Hebrew *Leviathan*), the Sumerian *mušmaḫḫū*, and the various other ancient Near Eastern primordial-chaos figures.
+### 뱀 대 레비아탄
 
-The Leviathan / chaos-serpent tradition is operationally distinct from the Eden Serpent. Leviathan is primordial, oceanic, cosmologically pre-creational (or at least pre-Eden), and represents the chaotic state from which order is wrested by a divine champion. The Eden Serpent is created within the Eden installation, operates through speech and dialogue with the humans, and is a faction-leader rather than a cosmic-chaos figure. The two figures share the *naḥash* term in some passages (Isaiah 27:1 uses *naḥash bariaḥ* for Leviathan) but the underlying referent is different.
+레비아탄은 에덴 뱀과는 구별되는 신화적 계통의 혼돈-뱀이다. 레비아탄은 주로 욥기 41장(가장 확장된 다룸), 시편 74:14, 시편 104:26, 이사야 27:1, 이사야 51:9에 등장한다. 레비아탄 전통은 보다 광범위한 고대 근동의 혼돈-뱀 / 심연의-용 모티프와 구조적으로 연결되며, 바빌로니아의 *티아마트*, 우가리트의 *로탄*(히브리어 *레비아탄*에 가장 가까운 직접 동족어), 수메르의 *mušmaḫḫū*, 그리고 그 밖의 다양한 고대 근동 원시-혼돈 형상들에 병행이 있다.
 
-The corpus reads the Leviathan tradition as preserving fragmentary memory of pre-Eden cosmological conditions or of subsequent oceanic catastrophes (the Flood event has substantial connections to Leviathan-tradition material in some readings) — distinct from the Eden episode and the political-faction material the Eden Serpent represents. The detailed treatment of Leviathan lives in the [Leviathan](../leviathan/) entry.
+레비아탄 / 혼돈-뱀 전통은 에덴 뱀과 운영적으로 구별된다. 레비아탄은 원시적이고, 대양적이며, 우주론적으로 창조 이전적(또는 적어도 에덴 이전적)이고, 신적 챔피언에 의해 질서가 쟁취되어 나오는 혼돈 상태를 표상한다. 에덴 뱀은 에덴 시설 내에서 창조되고, 인간들과의 말과 대화를 통해 작동하며, 우주적-혼돈 형상이 아니라 분파-지도자이다. 두 인물은 일부 단락에서 *naḥash* 용어를 공유하지만(이사야 27:1은 레비아탄에 대해 *naḥash bariaḥ*를 사용한다) 기저 지시체는 다르다.
 
-### The Christian conflation history
+코퍼스는 레비아탄 전통을 에덴 이전 우주론적 조건들 또는 이후의 대양적 격변들(대홍수 사건은 일부 독해에서 레비아탄-전통 자료와 상당한 연결을 가진다)에 대한 단편적 기억을 보존하는 것으로 읽는다 — 에덴 일화 및 에덴 뱀이 표상하는 정치적-분파 자료와는 구별된다. 레비아탄에 대한 상세한 다룸은 [레비아탄](../leviathan/) 항목에 있다.
 
-The conflation of Serpent, Lucifer, Satan, and the Devil into a single figure of cosmic evil is one of the most documented developments in the history of Christian theology. The principal stages:
+### 기독교 혼동의 역사
 
-- **The Wisdom of Solomon 2:24** (c. 1st century BCE – 1st century CE) provides the earliest explicit identification of the Eden Serpent with the devil-figure.
-- **The Second Temple pseudepigraphical literature** (1 Enoch, the Life of Adam and Eve, the Apocalypse of Moses) develops elaborate Adam-and-Serpent narratives in which the Serpent is identified with Satan or with Sammael.
-- **The New Testament's Revelation 12:9 and 20:2** fix the explicit Eden-Serpent / Satan / Devil identification in the Christian canon.
-- **Patristic theology** (Origen, Tertullian, the Cappadocian fathers, Augustine) elaborates the unified devil-figure as the principal cosmic adversary, with substantial elaboration of the Eden Serpent's role in this broader cosmology.
-- **Medieval theology** (Aquinas, the broader medieval scholastic tradition) develops the demonological apparatus around the unified devil-figure.
-- **Reformation theology** preserves the basic conflation while developing distinctive Protestant elaborations.
+뱀, 루시퍼, 사탄, 마귀를 우주적 악의 단일 인물로 혼동하는 것은 기독교 신학사에서 가장 잘 기록된 발전 중 하나이다. 주된 단계는 다음과 같다.
 
-**Henry Ansgar Kelly**'s *Satan: A Biography* (2006) is the most comprehensive recent academic treatment of how the Satan figure developed across Hebrew Bible, Second Temple Jewish, and Christian sources. **Neil Forsyth**'s *The Old Enemy: Satan and the Combat Myth* (1987) traces the broader cosmic-adversary tradition from ancient Near Eastern combat-myth sources through the developed Christian Satan figure. **Elaine Pagels**'s *The Origin of Satan* (1995) examines the social-political contexts that shaped the developed Christian Satan figure. The scholarly consensus is that the unified Devil figure is a specific theological development of the post-biblical period, not a single underlying referent in the Hebrew Bible itself.
+- **솔로몬의 지혜 2:24**(기원전 1세기 – 기원후 1세기경)는 에덴 뱀을 마귀-인물과 동일시하는 가장 이른 명시적 동일시를 제공한다.
+- **제2성전기 위경 문헌**(에녹1서, 아담과 하와의 생애, 모세의 묵시록)은 뱀이 사탄 또는 사마엘과 동일시되는 정교한 아담-과-뱀 서사들을 발전시킨다.
+- **신약의 요한계시록 12:9와 20:2**는 명시적 에덴-뱀 / 사탄 / 마귀 동일시를 기독교 정경에 고정한다.
+- **교부 신학**(오리게네스, 테르툴리아누스, 카파도키아 교부들, 아우구스티누스)은 통일된 마귀-인물을 주된 우주적 적대자로 정교화하며, 이 보다 광범위한 우주론에서 에덴 뱀의 역할을 상당히 정교화한다.
+- **중세 신학**(아퀴나스, 보다 광범위한 중세 스콜라 전통)은 통일된 마귀-인물 주위에 악마론적 장치를 발전시킨다.
+- **종교개혁 신학**은 기본적 혼동을 보존하면서 독특한 개신교적 정교화를 발전시킨다.
 
-The corpus's reading is consistent with the historical-critical observation that the Eden Serpent and the Hebrew Bible *satan* are distinct figures in the Hebrew text itself, with the conflation being a post-biblical development. The framework's reading extends the historical-critical observation by reframing the underlying ontology: the distinct figures are not just textually distinct but politically distinct on the framework's reading — different Elohim-civilization actors in different operational roles, with the conflation collapsing genuine political reality into theological abstraction.
+**헨리 안스가 켈리**의 *사탄: 전기*(2006)는 사탄 인물이 히브리어 성경, 제2성전기 유대교, 기독교 자료 전반에 걸쳐 어떻게 발전했는지에 대한 가장 포괄적인 최근 학술 다룸이다.{{ cite(id="kelly-satan-biography", text="[1]", title="켈리, *Satan: A Biography* (2006)") }} **닐 포사이스**의 *오랜 적: 사탄과 전투 신화*(1987)는 고대 근동의 전투-신화 자료로부터 발전된 기독교 사탄 인물에 이르는 보다 광범위한 우주적-적대자 전통을 추적한다.{{ cite(id="forsyth-the-old-enemy", text="[2]", title="포사이스, *The Old Enemy: Satan and the Combat Myth* (1987)") }} **일레인 페이절스**의 *사탄의 기원*(1995)은 발전된 기독교 사탄 인물을 형성한 사회-정치적 맥락을 검토한다.{{ cite(id="pagels-origin-of-satan", text="[3]", title="페이절스, *The Origin of Satan* (1995)") }} 학술적 합의는 통일된 마귀 인물이 히브리어 성경 자체의 단일 기저 지시체가 아니라 성서 이후 시기의 특정 신학적 발전이라는 것이다.
 
-## Modern reinterpretations
+코퍼스의 독해는 에덴 뱀과 히브리어 성경의 *satan*이 히브리어 본문 자체에서 구별되는 인물이며 그 혼동이 성서 이후의 발전이라는 역사-비평적 관찰과 일치한다. 프레임워크의 독해는 기저 존재론을 재구성함으로써 역사-비평적 관찰을 확장한다. 즉 구별되는 인물들은 본문적으로 구별될 뿐만 아니라 프레임워크의 독해상 정치적으로도 구별된다 — 다른 운영적 역할 속의 다른 엘로힘-문명 행위자들로, 그 혼동은 진정한 정치적 실재를 신학적 추상으로 붕괴시킨다.
 
-The Eden Serpent has been a major subject of modern reinterpretive engagement across multiple traditions. The principal strands:
+## 근대의 재해석들
 
-### The Gnostic Ophite tradition
+에덴 뱀은 다수의 전통에 걸친 근대 재해석적 관여의 주요 주제였다. 주된 가닥들은 다음과 같다.
 
-The **Ophites** (Greek *Ophitai*, "those of the serpent") were a Gnostic Christian sect of the second and third centuries CE, named for their distinctive reading of the Eden Serpent. The principal Ophite position reversed the standard Christian reading of Genesis 3: the Eden Serpent was treated as a positive figure — the bringer of *gnosis* (true spiritual knowledge) — while the Yahweh of the Hebrew Bible was treated as the demiurge, a lesser god who wanted to keep humans in ignorance for his own purposes. The eating from the Tree of the Knowledge of Good and Evil was therefore a positive act of liberation rather than a sinful transgression.
+### 영지주의 오피스파 전통
 
-The Ophite movement is principally known through the polemical treatments of Irenaeus (*Against Heresies* I.30), Hippolytus, Origen (*Contra Celsum*), and Epiphanius — all opponents of the Ophite position who described it for purposes of refutation. The discovery of the Nag Hammadi library in 1945 substantially expanded primary-source access to Gnostic Christianity more broadly, with several texts (the *Hypostasis of the Archons*, *On the Origin of the World*, the *Apocryphon of John*) preserving Ophite-adjacent material on the Eden Serpent and the demiurge.
+**오피스파**(그리스어 *Ophitai*, "뱀의 자들")는 에덴 뱀에 대한 그들의 독특한 독해로 명명된, 2세기와 3세기 CE의 영지주의 기독교 분파였다. 주된 오피스파 입장은 창세기 3장의 표준 기독교 독해를 반전시켰다. 즉 에덴 뱀은 긍정적 인물 — *그노시스*(참된 영적 지식)의 전달자 — 로 다루어진 반면, 히브리어 성경의 야훼는 자신의 목적을 위해 인간들을 무지 속에 유지하려 한 더 낮은 신인 데미우르고스로 다루어졌다. 따라서 선악을 알게 하는 나무에서 먹는 것은 죄악된 위반이 아니라 해방의 긍정적 행위였다.
 
-Related Gnostic sects with overlapping but distinct positions include the **Sethians** (who treated Seth as the principal positive Adamic-line figure and the Serpent as either positive or instrumental) and the **Cainites** (who treated Cain, the line of Cain, the Sodomites, and Judas Iscariot as positive figures against the demiurgic Hebrew Bible tradition).
+오피스파 운동은 주로 이레나이우스(*이단 반박* I.30), 히폴리투스, 오리게네스(*켈수스 반박*), 에피파니우스의 논박적 다룸을 통해 알려져 있다 — 모두 논박의 목적으로 그것을 묘사한 오피스파 입장의 반대자들이었다. 1945년 나그함마디 문헌의 발견은 영지주의 기독교에 대한 1차-자료 접근을 보다 광범위하게 실질적으로 확장했으며, 여러 문헌(*아르콘들의 실체*, *세상의 기원에 관하여*, *요한의 비밀서*)이 에덴 뱀과 데미우르고스에 대한 오피스파-인접 자료를 보존한다.{{ cite(id="nag-hammadi-library", text="[4]", title="로빈슨(편), *The Nag Hammadi Library in English* (1988)") }}{{ cite(id="gnostic-scriptures", text="[5]", title="레이턴, *The Gnostic Scriptures* (1987)") }} 일레인 페이절스의 *영지주의 복음서*(1979)는 이 자료에 대한 주된 접근하기 쉬운 학술적 입문서이다.{{ cite(id="pagels-gnostic-gospels", text="[6]", title="페이절스, *The Gnostic Gospels* (1979)") }}
 
-The corpus's relationship to the Ophite tradition is structurally interesting. The Ophite reading shares with the framework's reading the recognition that the Eden Serpent transmitted valuable knowledge to humanity and that the standard Christian reading (Serpent as cosmic evil) is wrong. The corpus does not endorse the broader Gnostic anti-cosmic theology — the framework does not treat the material world as evil, does not treat the Hebrew Bible Yahweh as a malevolent demiurge, and does not treat the Christian salvation-narrative as concerning escape from material existence. But the corpus registers the Ophite reading of the Serpent specifically as preserving fragmentary memory of the operational reality the framework recovers: the Serpent did transmit valuable knowledge, and the conventional theological reading of the act as evil is mistaken.
+겹치되 구별되는 입장을 가진 관련 영지주의 분파에는 **세트파**(셋을 주된 긍정적 아담-계통 인물로, 뱀을 긍정적이거나 도구적인 것으로 다룬)와 **가인파**(가인, 가인의 계통, 소돔 사람들, 가룟 유다를 데미우르고스적 히브리어 성경 전통에 맞선 긍정적 인물로 다룬)가 포함된다.
 
-The corpus's reading might be characterized as *Gnostic-adjacent on the Serpent specifically while non-Gnostic on the broader cosmological questions* — a position that is structurally distinctive within the modern reinterpretive landscape.
+오피스파 전통에 대한 코퍼스의 관계는 구조적으로 흥미롭다. 오피스파 독해는 에덴 뱀이 인류에게 가치 있는 지식을 전달했다는 것과 표준 기독교 독해(우주적 악으로서의 뱀)가 틀렸다는 인식을 프레임워크의 독해와 공유한다. 코퍼스는 보다 광범위한 영지주의의 반우주적 신학을 지지하지 않는다 — 프레임워크는 물질 세계를 악으로 다루지 않고, 히브리어 성경의 야훼를 악의적 데미우르고스로 다루지 않으며, 기독교 구원-서사를 물질적 존재로부터의 탈출에 관한 것으로 다루지 않는다. 그러나 코퍼스는 뱀에 대한 오피스파 독해를 구체적으로, 프레임워크가 회복하는 운영적 실재에 대한 단편적 기억을 보존하는 것으로 등록한다. 즉 뱀은 실제로 가치 있는 지식을 전달했으며, 그 행위를 악으로 보는 통상적 신학적 독해는 잘못되었다.
 
-### Elaine Pagels: *Adam, Eve, and the Serpent* (1988)
+코퍼스의 독해는 *뱀에 관해서는 영지주의-인접적이면서도 보다 광범위한 우주론적 문제들에 관해서는 비영지주의적인 것*으로 특징지을 수 있다 — 근대 재해석 지형 내에서 구조적으로 독특한 입장이다.
 
-**Elaine Pagels**'s *Adam, Eve, and the Serpent* (1988) is the standard contemporary treatment of how the Eden narrative's interpretation has shaped Western thought across two millennia. Pagels traces the development of the Christian reading of Genesis 3 from the early Christian centuries through Augustine's foundational synthesis and into the medieval and modern traditions. Her principal argument is that Augustine's specific reading of Genesis 3 — the doctrine of original sin, the inheritance of guilt, the subjugation of women that the Genesis 3:16 text was used to justify — is a specific theological development that became dominant in Western Christianity but was not the only available reading and was contested by alternative early-Christian positions.
+### 일레인 페이절스: *아담, 하와, 그리고 뱀*(1988)
 
-Pagels's earlier *The Gnostic Gospels* (1979) provides the broader context for the Gnostic alternative readings, including substantial material on the Ophite and related sects. *The Origin of Satan* (1995) extends the analysis to the development of the Satan figure specifically.
+**일레인 페이절스**의 *아담, 하와, 그리고 뱀*(1988)은 에덴 서사의 해석이 2천 년에 걸쳐 서구 사상을 어떻게 형성했는지에 대한 표준적 현대 다룸이다.{{ cite(id="pagels-adam-eve-serpent", text="[7]", title="페이절스, *Adam, Eve, and the Serpent* (1988)") }} 페이절스는 초기 기독교 세기들로부터 아우구스티누스의 토대적 종합을 거쳐 중세와 근대 전통으로 이어지는, 창세기 3장에 대한 기독교 독해의 발전을 추적한다. 그녀의 주된 논변은 창세기 3장에 대한 아우구스티누스의 특정 독해 — 원죄 교리, 죄책의 유전, 창세기 3:16 본문이 정당화하는 데 사용된 여성의 종속 — 가 서구 기독교에서 지배적이 되었으나 유일하게 가능한 독해는 아니었으며 대안적 초기-기독교 입장들에 의해 논쟁되었던 특정 신학적 발전이라는 것이다.
 
-The corpus engages Pagels's work as the most accessible contemporary scholarly treatment of the interpretive history of the Eden narrative. Pagels's analysis of how Augustine's specific theological synthesis became dominant despite alternative available readings is consistent with the corpus's own diagnosis: the Christian conflation of Serpent / Lucifer / Satan / Devil is a specific theological development rather than a textually-given inheritance.
+페이절스의 더 이른 *영지주의 복음서*(1979)는 오피스파 및 관련 분파에 대한 상당한 자료를 포함하여 영지주의 대안 독해들의 보다 광범위한 맥락을 제공한다. *사탄의 기원*(1995)은 그 분석을 사탄 인물의 발전으로 구체적으로 확장한다.
 
-### Mauro Biglino on the Serpent
+코퍼스는 페이절스의 작업을 에덴 서사의 해석사에 대한 가장 접근하기 쉬운 현대 학술 다룸으로 관여한다. 아우구스티누스의 특정 신학적 종합이 대안적 가능한 독해들에도 불구하고 어떻게 지배적이 되었는지에 대한 페이절스의 분석은 코퍼스 자신의 진단과 일치한다. 즉 뱀 / 루시퍼 / 사탄 / 마귀에 대한 기독교의 혼동은 본문적으로 주어진 유산이 아니라 특정 신학적 발전이다.
 
-**Mauro Biglino**'s engagement with the Serpent is developed in *The Naked Bible: The Truth About the Most Famous Book in History* (2022, with Giorgio Cattaneo) and across his broader corpus. Biglino's reading overlaps with the framework's at several points: the Serpent is read as a member of the Elohim plurality rather than as a snake or as Satan; the Serpent is identified as belonging to a faction in conflict with the Eden commanders; the Genesis 3 narrative is read as a record of operational events at a controlled installation rather than as moral allegory. Biglino additionally develops the symbolic argument that the serpent in ancient iconography was a positive figure associated with deep knowledge, with the double-helix-like image of intertwined serpents (e.g., the caduceus) read as a graphic representation of DNA — a symbolic argument the corpus treats as suggestive though not load-bearing.
+### 마우로 비글리노와 뱀
 
-The points of substantive divergence between Biglino's reading and the corpus's reading are real. Biglino reads Genesis 3:15 ("I will put enmity between your seed and her seed") as describing two distinct genetic lineages and develops this into the claim that the Serpent had sexual relations with Eve, producing Cain, with Cain therefore being "of the lineage of the serpent" rather than of Adam. On Biglino's reading, the proliferation of this serpent-lineage through subsequent generations is the underlying cause of the Flood, which is sent specifically to cleanse the Earth of the contaminated bloodline.
+**마우로 비글리노**의 뱀에 대한 관여는 *벌거벗은 성경: 역사상 가장 유명한 책에 관한 진실*(2022, 조르조 카타네오와 공저) 및 그의 보다 광범위한 코퍼스 전반에 걸쳐 발전된다.{{ cite(id="the-naked-bible", text="[8]", title="비글리노 & 카타네오, *The Naked Bible* (2022)") }} 비글리노의 독해는 여러 지점에서 프레임워크의 독해와 겹친다. 뱀은 뱀이나 사탄이 아니라 엘로힘 복수성의 일원으로 읽힌다. 뱀은 에덴 사령관들과 갈등하는 한 분파에 속하는 것으로 동정된다. 창세기 3장 서사는 도덕적 알레고리가 아니라 통제된 시설에서의 운영적 사건의 기록으로 읽힌다. 비글리노는 추가로, 고대 도상학에서 뱀이 심층 지식과 연관된 긍정적 형상이었으며 서로 얽힌 뱀들의 이중나선-같은 이미지(예: 카두케우스)가 DNA의 그래픽 표상으로 읽힌다는 상징적 논변을 발전시킨다 — 코퍼스가 시사적이지만 하중을 견디지는 않는 것으로 다루는 상징적 논변이다.
 
-The corpus does not adopt this reading. The Raëlian source material identifies Cain straightforwardly as the son of Adam and Eve, born after the expulsion, with the Cain–Abel conflict turning on the matter of offerings rather than on bloodline. The Flood, on the framework's reading, is sent for a different reason: the rapid technological advancement of the post-Eden civilization had become threatening to the home-world authorities (treated in the [Antediluvian](../antediluvian/) and [Great Flood](../great-flood/) entries), and the Flood is the home world's response to that geopolitical situation, not a measure of bloodline purification.
+비글리노의 독해와 코퍼스의 독해 사이의 실질적 차이의 지점들은 실제이다. 비글리노는 창세기 3:15("내가 너로 여자와 원수가 되게 하고 네 후손도 여자의 후손과 원수가 되게 하리니")를 두 별개의 유전적 계통을 묘사하는 것으로 읽고, 이를 뱀이 하와와 성관계를 가져 가인을 낳았으며, 따라서 가인이 아담이 아니라 "뱀의 혈통의" 자라는 주장으로 발전시킨다. 비글리노의 독해상, 이후 세대들을 통한 이 뱀-혈통의 증식은 대홍수의 기저 원인이며, 대홍수는 구체적으로 오염된 혈통으로부터 지구를 정화하기 위해 보내진다.
 
-The Biglino-vs-framework divergence on this point is genuine and substantive. Both readings agree that the Serpent is an Elohim faction figure rather than a snake or a metaphor; they disagree on whether the figure's transgression was epistemic (sharing of knowledge) or genetic (sexual interbreeding). The framework's reading is the epistemic one.
+코퍼스는 이 독해를 채택하지 않는다. 라엘 자료는 가인을 직선적으로, 추방 후에 태어난 아담과 하와의 아들로 동정하며, 가인–아벨 갈등은 혈통이 아니라 제물의 문제를 둘러싼다. 대홍수는 프레임워크의 독해상 다른 이유로 보내진다. 즉 에덴 이후 문명의 급속한 기술적 진보가 모행성 권위자들에게 위협적이 되었으며([대홍수 이전 시대](../antediluvian/) 및 [대홍수](../great-flood/) 항목에서 다루어짐), 대홍수는 혈통 정화의 조치가 아니라 그 지정학적 상황에 대한 모행성의 응답이다.
 
-### Jean Sendy on the Serpent
+비글리노-대-프레임워크의 이 지점에 관한 차이는 진정하고 실질적이다. 두 독해는 모두 뱀이 뱀이나 은유가 아니라 엘로힘 분파의 인물이라는 데 동의한다. 그러나 그 인물의 위반이 인식론적(지식의 공유)이었는지 유전적(성적 이종교배)이었는지에 대해서는 갈라진다. 프레임워크의 독해는 인식론적인 것이다.{{ footnote(id="5") }}
 
-**Jean Sendy**'s engagement with the Eden Serpent is developed across his work, with particular concentration in *Ces dieux qui firent le ciel et la terre* (1969). Sendy reads the Serpent in the broader Eden narrative as a specific historical referent — a member of the Elohim plurality whose role at Eden was the transmission of knowledge to humans — within his broader treatment of the Hebrew Bible as preserving substantive operational content rather than allegorical theological content.
+### 장 상디와 뱀
 
-Sendy's specific contributions to Serpent interpretation include the philological reading of *naḥash* in its operational rather than zoological sense, the recognition that the Genesis 3 figure cannot be straightforwardly Satan in any later-Christian sense, and the broader treatment of the Eden episode as a political event rather than as a moral fable. Sendy's approach is the principal scholarly antecedent of the corpus's adopted reading of the Serpent specifically, alongside the Raëlian source material that develops the corpus's specific framework.
+**장 상디**의 에덴 뱀에 대한 관여는 그의 작업 전반에 걸쳐 발전되며, *천지를 만든 그 신들*(1969)에 특히 집중되어 있다.{{ cite(id="those-gods-who-made-heaven-and-earth", text="[9]", title="상디, *Ces dieux qui firent le ciel et la terre* (1969)") }} 상디는 보다 광범위한 에덴 서사에서 뱀을 특정한 역사적 지시체로 읽는다 — 에덴에서의 역할이 인간들에게 지식을 전수하는 것이었던 엘로힘 복수성의 일원 — 히브리어 성경을 알레고리적 신학적 내용이 아니라 실질적인 운영적 내용을 보존하는 것으로 보는 그의 보다 광범위한 다룸 내에서이다.
 
-### Paul Anthony Wallis: *The Eden Conspiracy* (2024)
+뱀 해석에 대한 상디의 구체적 공헌에는 *naḥash*를 동물학적 의미가 아니라 운영적 의미에서 읽은 문헌학적 독해, 창세기 3장의 형상이 어떤 후대-기독교적 의미에서도 직선적으로 사탄일 수 없다는 인식, 그리고 에덴 일화를 도덕적 우화가 아니라 정치적 사건으로 보는 보다 광범위한 다룸이 포함된다. 상디의 접근은 코퍼스의 구체적 프레임워크를 발전시키는 라엘 자료와 더불어, 뱀에 대한 코퍼스의 채택된 독해의 주된 학술적 선행자이다.
 
-**Paul Anthony Wallis**'s *The Eden Conspiracy* (2024) is the most direct recent engagement with the Eden narrative as a whole, including substantial treatment of the Serpent. Wallis reads the Serpent as a member of an Elohim faction whose disagreement with the Eden commanders' policy on human education led to the Eden disclosure event. Wallis's specific contributions to Serpent interpretation include the structural reading of the Eden political crisis (the disagreement between the senior alliance authority and the dissenting faction as the underlying conflict, with the Serpent as the operational expression of the dissenting position), the careful treatment of the cherubim and flaming sword as technological rather than mythological, and the comparative engagement with Sumerian and other ancient Near Eastern parallel narratives.
+### 폴 앤서니 월리스: *에덴 음모*(2024)
 
-Wallis's reading is broadly compatible with the corpus's reading and provides accessible recent treatment of material the framework has been developing for fifty years through the Sendy-Raëlian tradition.
+**폴 앤서니 월리스**의 *에덴 음모*(2024)는 뱀에 대한 상당한 다룸을 포함하여, 에덴 서사 전체에 대한 가장 직접적인 최근 관여이다.{{ cite(id="the-eden-conspiracy", text="[10]", title="월리스, *The Eden Conspiracy* (2024)") }} 월리스는 뱀을, 인간 교육에 대한 에덴 사령관들의 정책과의 불일치가 에덴 폭로 사건으로 이어진 엘로힘 분파의 일원으로 읽는다. 뱀 해석에 대한 월리스의 구체적 공헌에는 에덴 정치 위기의 구조적 독해(상급 동맹 권위자와 반체제 분파 사이의 불일치를 기저 갈등으로, 뱀을 반체제 입장의 운영적 표현으로), 그룹과 화염검을 신화적이 아니라 기술적인 것으로 보는 주의 깊은 다룸, 그리고 수메르 및 그 밖의 고대 근동 병행 서사들과의 비교적 관여가 포함된다.
 
-### Kabbalistic readings of the Serpent
+월리스의 독해는 코퍼스의 독해와 광범위하게 양립 가능하며, 프레임워크가 상디-라엘 전통을 통해 50년간 발전시켜 온 자료에 대한 접근하기 쉬운 최근 다룸을 제공한다.
 
-The medieval Jewish Kabbalistic tradition developed extensive material on the Eden Serpent, with the figure receiving substantial elaboration across the *Zohar* (composed in its preserved form c. late 13th century) and the broader Kabbalistic literature. The principal Kabbalistic positions:
+### 뱀에 대한 카발라적 독해
 
-The **Zoharic tradition** identifies the Serpent with **Sammael** — a name elsewhere associated with Satan, the angel of death, and various other negative cosmological figures. The Zohar develops elaborate narratives in which Sammael, mounted on the Serpent, seduces Eve, with substantial mystical elaboration of the cosmological consequences. The Zoharic Serpent material is thoroughly conflated with the broader fallen-figure tradition that the patristic Christian tradition had also developed.
+중세 유대교 카발라 전통은 에덴 뱀에 대한 광범위한 자료를 발전시켰으며, 그 형상은 *조하르*(보존된 형태로 13세기 후반경 작성됨)와 보다 광범위한 카발라 문헌 전반에 걸쳐 상당한 정교화를 받는다. 주된 카발라적 입장은 다음과 같다.
 
-The **Lurianic Kabbalah** (Isaac Luria, 16th century) develops the Serpent material within the broader cosmological structure of *Tzimtzum* (divine contraction), *Shevirat ha-Kelim* (the breaking of the vessels), and *Tikkun* (repair), with the Serpent's role in the Eden episode treated as part of the broader cosmic narrative of fall and restoration.
+**조하르 전통**은 뱀을 **사마엘**과 동일시한다 — 다른 곳에서 사탄, 죽음의 천사, 그리고 그 밖의 다양한 부정적 우주론적 형상들과 연관되는 이름이다.{{ cite(id="zohar-pritzker", text="[11]", title="조하르, 프리츠커 판(매트 외, 2003–2017)") }} 조하르는 뱀을 탄 사마엘이 하와를 유혹하는 정교한 서사들을 발전시키며, 그 우주론적 결과에 대한 상당한 신비주의적 정교화를 동반한다.{{ cite(id="major-trends-jewish-mysticism", text="[12]", title="숄렘, *Major Trends in Jewish Mysticism* (1941)") }} 조하르의 뱀 자료는 교부 기독교 전통이 또한 발전시켰던 보다 광범위한 타락-형상 전통과 철저히 혼동되어 있다.
 
-The **Hasidic tradition** preserves Kabbalistic Serpent material with various elaborations across the eighteenth and nineteenth centuries.
+**루리아 카발라**(이삭 루리아, 16세기)는 *침춤*(신적 수축), *셰비랏 하-켈림*(그릇들의 깨어짐), *티쿤*(회복)의 보다 광범위한 우주론적 구조 내에서 뱀 자료를 발전시키며, 에덴 일화에서의 뱀의 역할은 타락과 회복의 보다 광범위한 우주적 서사의 일부로 다루어진다.
 
-The corpus's reading of Kabbalistic Serpent material is similar to its broader reading of Kabbalistic Hebrew (treated in the [Hebrew](../hebrew/) entry). The Kabbalistic tradition's underlying intuition — that the Eden Serpent is a substantive cosmological figure rather than just a snake, that the figure's role is structurally significant for the broader cosmic narrative — preserves accurate fragmentary memory of the operational reality the framework recovers. But the corpus does not endorse the elaborate theological-cosmological apparatus the Kabbalistic tradition has developed around this intuition. The Sammael identification, the cosmic-sexuality narratives, the *Tzimtzum* / *Shevirat* / *Tikkun* structure — these are theological elaborations rather than direct encoding of the operational reality.
+**하시디즘 전통**은 18세기와 19세기에 걸쳐 다양한 정교화와 함께 카발라적 뱀 자료를 보존한다.
 
-### Mainstream historical-critical scholarship
+카발라적 뱀 자료에 대한 코퍼스의 독해는 카발라적 히브리어에 대한 그것의 보다 광범위한 독해([히브리어](../hebrew/) 항목에서 다루어짐)와 유사하다. 카발라 전통의 기저 직관 — 에덴 뱀이 그저 뱀이 아니라 실질적인 우주론적 형상이라는 것, 그 형상의 역할이 보다 광범위한 우주적 서사에 구조적으로 의미가 있다는 것 — 은 프레임워크가 회복하는 운영적 실재에 대한 정확한 단편적 기억을 보존한다. 그러나 코퍼스는 카발라 전통이 이 직관 주위에 발전시킨 정교한 신학적-우주론적 장치를 지지하지 않는다. 사마엘 동일시, 우주적-성성 서사들, *침춤* / *셰비라* / *티쿤* 구조 — 이것들은 운영적 실재의 직접적 부호화가 아니라 신학적 정교화이다.
 
-The mainstream historical-critical scholarly tradition treats the Genesis 3 Serpent as a literary figure of the Yahwist source whose specific identification with Satan is recognized as a later interpretive development without textual basis in Genesis 3 itself. **Claus Westermann**'s *Genesis 1–11: A Continental Commentary* (1994) provides standard treatment. **John Skinner**'s earlier *A Critical and Exegetical Commentary on Genesis* (ICC, 1910) preserves the foundational historical-critical reading. **Gerhard von Rad**'s *Genesis: A Commentary* (1961) develops the form-critical reading. **James Charlesworth**'s *The Good and Evil Serpent: How a Universal Symbol Became Christianized* (2010) provides the most substantial recent academic treatment of the broader serpent-symbol question.
+### 주류 역사-비평 학계
 
-The mainstream historical-critical scholarship's recognition that the Eden Serpent and the Christian Satan are textually distinct figures is consistent with the corpus's reading at the textual level, even where the broader interpretive frameworks differ. The corpus engages this scholarly literature as substantive intellectual work that the framework's reading complements rather than dismisses.
+주류 역사-비평 학술 전통은 창세기 3장의 뱀을 야훼계 자료의 문학적 형상으로 다루며, 사탄과의 구체적 동일시는 창세기 3장 자체에 본문적 근거가 없는 후대의 해석적 발전으로 인지된다. **클라우스 베스터만**의 *창세기 1–11장: 대륙 주석*(1994)은 표준적 다룸을 제공한다.{{ cite(id="westermann-genesis-1-11", text="[13]", title="베스터만, *Genesis 1–11: A Continental Commentary* (1994)") }} **존 스키너**의 더 이른 *창세기 비평·주해 주석*(ICC, 1910)은 토대적 역사-비평적 독해를 보존한다.{{ cite(id="skinner-genesis-icc", text="[14]", title="스키너, *A Critical and Exegetical Commentary on Genesis* (ICC, 1910)") }} **게르하르트 폰 라트**의 *창세기: 주석*(1961)은 양식-비평적 독해를 발전시킨다.{{ cite(id="von-rad-genesis", text="[15]", title="폰 라트, *Genesis: A Commentary* (1961)") }} **제임스 찰스워스**의 *선과 악의 뱀: 보편적 상징이 어떻게 기독교화되었는가*(2010)는 보다 광범위한 뱀-상징 문제에 대한 가장 실질적인 최근 학술 다룸을 제공한다.{{ cite(id="charlesworth-good-evil-serpent", text="[16]", title="찰스워스, *The Good and Evil Serpent* (2010)") }}
 
-### The framework's relationship to the broader landscape
+에덴 뱀과 기독교 사탄이 본문적으로 구별되는 형상이라는 주류 역사-비평 학계의 인식은, 보다 광범위한 해석적 틀들이 다른 곳에서조차, 본문적 수준에서 코퍼스의 독해와 일치한다. 코퍼스는 이 학술 문헌을 프레임워크의 독해가 무시하기보다는 보완하는 실질적인 지적 작업으로 관여한다.
 
-The corpus's reading is positioned within this landscape as follows: aligned with the historical-critical observation that Serpent and Satan are textually distinct figures; partially aligned with the Gnostic Ophite reading of the Serpent specifically (the Serpent transmitted valuable knowledge) while non-aligned with the broader Gnostic anti-cosmic theology; aligned with Pagels's analysis of the Augustinian theological synthesis as a specific historical development; aligned with Sendy's and Wallis's readings of the Serpent as a specific historical referent; partially aligned with Biglino's reading at the Serpent-as-Elohim-faction level while disagreeing on the epistemic-vs-genetic transgression question; respectful of the Kabbalistic tradition's underlying intuition while not endorsing its theological-cosmological apparatus. The corpus's reading is its own — distinct from each of these — but engages each substantively rather than dismissively.
+### 보다 광범위한 지형에 대한 프레임워크의 관계
 
-## Comparative observations
+코퍼스의 독해는 이 지형 내에서 다음과 같이 위치한다. 뱀과 사탄이 본문적으로 구별되는 형상이라는 역사-비평적 관찰과 일치한다. 뱀에 대한 영지주의 오피스파 독해와 구체적으로 부분적으로 일치하면서(뱀이 가치 있는 지식을 전달했다는 것) 보다 광범위한 영지주의의 반우주적 신학과는 비일치한다. 아우구스티누스적 신학 종합을 특정한 역사적 발전으로 보는 페이절스의 분석과 일치한다. 뱀을 특정한 역사적 지시체로 보는 상디와 월리스의 독해와 일치한다. 뱀-을-엘로힘-분파로 보는 수준에서 비글리노의 독해와 부분적으로 일치하면서 인식론적-대-유전적 위반 문제에 대해서는 의견이 갈린다. 카발라 전통의 기저 직관을 존중하면서 그 신학적-우주론적 장치는 지지하지 않는다. 코퍼스의 독해는 그 자신의 것이다 — 이것들 각각과 구별된다 — 그러나 각각을 무시적이기보다는 실질적으로 관여한다.
 
-Serpent and dragon figures appear widely across the religious and mythological traditions of the ancient Near East and broader antiquity. They divide, on close examination, into at least two broadly distinct motif clusters that should not be conflated.
+## 비교적 관찰
 
-### The chaos-serpent cluster
+뱀과 용 형상들은 고대 근동과 보다 광범위한 고대의 종교적·신화적 전통 전반에 걸쳐 널리 등장한다. 그것들은 자세히 살펴보면 혼동되어서는 안 되는 적어도 두 개의 광범위하게 구별되는 모티프 군집으로 나뉜다.{{ footnote(id="6") }}
 
-The **chaos-serpent** or **dragon-of-the-deep** motif is one of the most widely attested mythological patterns across the ancient Near East. The principal cases:
+### 혼돈-뱀 군집
 
-- **Tiamat** in the Babylonian *Enūma Eliš* — the primordial salt-water mother whose body is split by Marduk to form heaven and earth.
-- The **mušmaḫḫū** and **ušumgal** in Sumerian tradition — primordial chaos-dragons defeated by the gods.
-- The **mušḫuššu** in Akkadian tradition — the dragon of Marduk, depicted in the famous Ishtar Gate reliefs.
-- **Lotan** in Ugaritic tradition (the closest direct cognate to Hebrew Leviathan) — the seven-headed primordial sea-dragon.
-- **Leviathan** and **Tannin** in the Hebrew Bible — the chaos-serpent figures of Job 41, Psalm 74:14, Isaiah 27:1, and elsewhere.
-- **Apophis** in Egyptian tradition — the chaos-serpent who threatens Ra's daily passage through the underworld.
-- **Typhon** in Greek tradition — the hundred-headed monster defeated by Zeus.
-- **Vritra** in Hindu tradition — the chaos-serpent defeated by Indra.
-- **Nidhogg** and the **Midgard serpent** in Norse tradition — the cosmic serpents at the roots of Yggdrasil and surrounding the world.
+**혼돈-뱀** 또는 **심연의-용** 모티프는 고대 근동 전반에 걸쳐 가장 널리 증언된 신화적 패턴 중 하나이다. 주된 사례는 다음과 같다.
 
-The chaos-serpent figures are typically primordial, oceanic, monstrous, often multi-headed, and represent the chaotic state from which order is wrested by a divine champion. They are usually defeated rather than reasoned with. The biblical *təhôm* ("the deep") at Genesis 1:2 is cognate with Tiamat and reflects the broader chaos-water tradition; the Leviathan / Tannin tradition surfaces in Job 41 and elsewhere.
+- 바빌로니아의 *에누마 엘리쉬*에서의 **티아마트** — 마르두크에 의해 그 몸이 쪼개져 하늘과 땅을 이루는 원시 염수의 어머니.
+- 수메르 전통의 **mušmaḫḫū**와 **ušumgal** — 신들에게 패배하는 원시 혼돈-용들.
+- 아카드 전통의 **mušḫuššu** — 유명한 이슈타르 문 부조에 묘사된, 마르두크의 용.
+- 우가리트 전통의 **로탄**(히브리어 레비아탄에 가장 가까운 직접 동족어) — 일곱 머리의 원시 바다-용.
+- 히브리어 성경의 **레비아탄**과 **탄닌** — 욥기 41장, 시편 74:14, 이사야 27:1 등의 혼돈-뱀 형상들.
+- 이집트 전통의 **아포피스** — 지하 세계를 통한 라의 매일의 통과를 위협하는 혼돈-뱀.
+- 그리스 전통의 **티폰** — 제우스에게 패배하는 백 개 머리의 괴물.
+- 힌두 전통의 **브리트라** — 인드라에게 패배하는 혼돈-뱀.
+- 노르드 전통의 **니드호그**와 **미드가르드 뱀** — 위그드라실의 뿌리에 있고 세계를 둘러싼 우주적 뱀들.
 
-The corpus reads the chaos-serpent cluster as preserving fragmentary memory of pre-creation cosmological conditions and of subsequent oceanic catastrophes — distinct from the Eden episode and from the Lucifer-faction material the Eden Serpent represents. The detailed treatment of Leviathan and the broader chaos-serpent tradition lives in the [Leviathan](../leviathan/) entry.
+혼돈-뱀 형상들은 전형적으로 원시적이고, 대양적이며, 괴물적이고, 종종 여러 머리를 가지며, 신적 챔피언에 의해 질서가 쟁취되어 나오는 혼돈 상태를 표상한다.{{ cite(id="black-green-mesopotamia", text="[17]", title="블랙 & 그린, *Gods, Demons and Symbols of Ancient Mesopotamia* (1992)") }} 그것들은 보통 추론되기보다는 패배된다. 창세기 1:2의 성서적 *təhôm*("깊음")은 티아마트와 동족이며 보다 광범위한 혼돈-물 전통을 반영한다. 레비아탄 / 탄닌 전통은 욥기 41장 등에 표면화된다.
 
-### The wisdom-serpent cluster
+코퍼스는 혼돈-뱀 군집을 창조 이전 우주론적 조건들 및 이후의 대양적 격변들에 대한 단편적 기억을 보존하는 것으로 읽는다 — 에덴 일화 및 에덴 뱀이 표상하는 루시퍼-분파 자료와는 구별된다. 레비아탄과 보다 광범위한 혼돈-뱀 전통에 대한 상세한 다룸은 [레비아탄](../leviathan/) 항목에 있다.
 
-The **wisdom-serpent** or **knowledge-bearer** motif is structurally distinct from the chaos-serpent motif and includes a different set of figures:
+### 지혜-뱀 군집
 
-- **Ningishzida** in Sumerian tradition — a serpent-deity associated with healing, the underworld, and wisdom. Depicted iconographically with two serpents intertwined.
-- The **caduceus of Hermes** — the staff with two intertwined serpents that becomes the symbol of medicine, esoteric knowledge, and commerce in the Greek tradition.
-- The **rod of Asclepius** — the staff with a single serpent that becomes the symbol of healing in the Greek and broader Mediterranean medical tradition.
-- The **bronze serpent (*neḥushtan*)** raised by Moses in Numbers 21:8–9 — a serpent that heals rather than harms, structurally close to the Asclepian tradition.
-- **Wadjet** and the **uraeus** in Egyptian tradition — the cobra-goddess and her serpent-form atop the pharaonic crown, carrying protective and authority-conferring connotations.
-- **The Naga tradition** in Hindu and Buddhist tradition — serpent-beings associated with wisdom, water, and protection of sacred knowledge, including the famous protection of Buddha during meditation.
-- **The Quetzalcoatl tradition** in Mesoamerican cultures — the feathered-serpent god associated with wisdom, learning, and the founding of civilization.
-- **The various Asian dragon traditions** — particularly the Chinese dragon, treated as a positive figure of wisdom and authority rather than as a chaos-monster.
+**지혜-뱀** 또는 **지식-전달자** 모티프는 혼돈-뱀 모티프와 구조적으로 구별되며 다른 형상들의 집합을 포함한다.
 
-The wisdom-serpent figures are typically connected to healing, esoteric knowledge, the founding of civilization, and the protection of sacred information. They are often encountered with the expectation of dialogue or instruction rather than combat.
+- 수메르 전통의 **닝기시지다** — 치유, 지하 세계, 지혜와 연관된 뱀-신. 두 마리의 얽힌 뱀으로 도상학적으로 묘사된다.
+- **헤르메스의 카두케우스** — 그리스 전통에서 의술, 비전적 지식, 상업의 상징이 되는, 두 마리의 얽힌 뱀이 있는 지팡이.
+- **아스클레피오스의 지팡이** — 그리스 및 보다 광범위한 지중해 의료 전통에서 치유의 상징이 되는, 한 마리의 뱀이 있는 지팡이.
+- 민수기 21:8–9에서 모세가 들어 올린 **놋뱀(*neḥushtan*)** — 해치기보다는 치유하는 뱀으로, 아스클레피오스 전통에 구조적으로 가깝다.
+- 이집트 전통의 **와제트**와 **우라에우스** — 파라오의 왕관 위의 코브라-여신과 그 뱀-형상으로, 보호적이고 권위를 부여하는 함의를 지닌다.
+- 힌두 및 불교 전통의 **나가 전통** — 명상 중 붓다를 보호한 유명한 일을 포함하여, 지혜, 물, 신성한 지식의 보호와 연관된 뱀-존재들.
+- 메소아메리카 문화의 **케찰코아틀 전통** — 지혜, 학문, 문명의 창건과 연관된 깃털 달린 뱀 신.
+- **다양한 아시아 용 전통** — 특히 중국 용으로, 혼돈-괴물이 아니라 지혜와 권위의 긍정적 형상으로 다루어진다.
 
-The corpus reads the wisdom-serpent cluster as preserving fragmentary memory of the Lucifer faction's positive role as transmitters of knowledge to early humanity — particularly the Lucifer faction's continuing teaching role across the antediluvian period after the Eden disclosure. The widespread cross-cultural pattern of serpents as bringers of beneficial knowledge reflects, on the framework's reading, the broader operational reality of the post-Eden settlement: the exiled Lucifer faction continued to teach human populations across the antediluvian period, with the cultural memory of this teaching role preserved in various surviving traditions through the wisdom-serpent imagery.
+지혜-뱀 형상들은 전형적으로 치유, 비전적 지식, 문명의 창건, 신성한 정보의 보호와 연결된다. 그것들은 종종 전투가 아니라 대화나 교습의 기대와 함께 마주쳐진다.
 
-The Eden Serpent of Genesis 3 belongs to the wisdom-serpent cluster rather than to the chaos-serpent cluster. The figure is not primordial-cosmic but is created within the Eden installation; its role is the offering of knowledge that the humans did not previously possess; the consequence of the humans' acceptance is that they become "like Elohim, knowing good and evil." The corpus's reading is consistent with the broader wisdom-serpent pattern: the Eden figure is one specific instance of a broader cross-cultural pattern of serpent-figures associated with the transmission of beneficial knowledge.
+코퍼스는 지혜-뱀 군집을 루시퍼 분파의 초기 인류에 대한 지식 전달자로서의 긍정적 역할 — 특히 에덴 폭로 이후 대홍수 이전 시기 전반에 걸친 루시퍼 분파의 지속적 가르침 역할 — 에 대한 단편적 기억을 보존하는 것으로 읽는다. 유익한 지식의 전달자로서의 뱀이라는 광범위한 문화 횡단적 패턴은 프레임워크의 독해상 에덴 이후 정착의 보다 광범위한 운영적 실재를 반영한다. 즉 유배된 루시퍼 분파는 대홍수 이전 시기 전반에 걸쳐 인간 인구를 계속 가르쳤으며, 이 가르침 역할의 문화적 기억은 지혜-뱀 심상을 통해 다양한 살아남은 전승들에 보존되었다.
 
-### The DNA-iconography hypothesis
+창세기 3장의 에덴 뱀은 혼돈-뱀 군집이 아니라 지혜-뱀 군집에 속한다. 그 형상은 원시적-우주적이지 않고 에덴 시설 내에서 창조된다. 그 역할은 인간들이 이전에 보유하지 못한 지식의 제공이다. 인간들이 받아들인 결과는 그들이 "엘로힘과 같이 되어 선악을 알게" 되는 것이다. 코퍼스의 독해는 보다 광범위한 지혜-뱀 패턴과 일치한다. 즉 에덴 형상은 유익한 지식의 전달과 연관된 뱀-형상들의 보다 광범위한 문화 횡단적 패턴의 한 특정 사례이다.
 
-A specific subset of the comparative observations concerns the iconographic similarity between intertwined-serpent imagery (the caduceus, Ningishzida's staff, the various double-helix-like serpent representations in ancient art) and the modern double-helix structure of DNA. The hypothesis — developed by Jeremy Narby in *The Cosmic Serpent: DNA and the Origins of Knowledge* (1998), elaborated by Mauro Biglino in his various works, and registered in adjacent ancient-astronaut literature — is that the ancient serpent imagery preserves memory of the genetic-engineering operations that the framework reads behind the alliance's biological work on Earth, with the intertwined serpents being a graphic representation of the DNA double helix.
+### DNA-도상학 가설
 
-The corpus treats this hypothesis as suggestive but not load-bearing. The structural similarity between ancient intertwined-serpent imagery and the DNA double helix is real; the genealogical connection between the ancient symbol and the modern biochemical structure is not demonstrated. The corpus does not require the hypothesis for its reading of the Eden Serpent — the framework's reading is grounded in the philological-textual analysis of Genesis 3 and the Raëlian source material's specific account, not in the iconographic comparison. But the corpus registers the DNA-iconography hypothesis as one comparative observation that, if substantiated by further research, would be consistent with the framework's broader reading.
+비교적 관찰의 한 특정 부분집합은 얽힌-뱀 심상(카두케우스, 닝기시지다의 지팡이, 고대 미술의 다양한 이중나선-같은 뱀 표상)과 DNA의 근대적 이중나선 구조 사이의 도상학적 유사성에 관한 것이다. 이 가설 — 제러미 나비가 *우주적 뱀: DNA와 지식의 기원*(1998)에서 발전시키고,{{ cite(id="cosmic-serpent-narby", text="[18]", title="나비, *The Cosmic Serpent: DNA and the Origins of Knowledge* (1998)") }} 마우로 비글리노가 그의 다양한 저작에서 정교화했으며, 인접 고대 우주인 문헌에 등록된 — 은 고대 뱀 심상이 동맹의 지구 생물학적 작업 배후로 프레임워크가 읽는 유전공학 작전에 대한 기억을 보존하며, 얽힌 뱀들이 DNA 이중나선의 그래픽 표상이라는 것이다.
 
-### The convergence
+코퍼스는 이 가설을 시사적이지만 하중을 견디지는 않는 것으로 다룬다. 고대의 얽힌-뱀 심상과 DNA 이중나선 사이의 구조적 유사성은 실제이다. 고대 상징과 근대 생화학적 구조 사이의 계보적 연결은 입증되지 않았다. 코퍼스는 에덴 뱀에 대한 그 독해를 위해 이 가설을 요구하지 않는다 — 프레임워크의 독해는 도상학적 비교가 아니라 창세기 3장에 대한 문헌학적-본문적 분석과 라엘 자료의 구체적 설명에 근거한다. 그러나 코퍼스는 DNA-도상학 가설을, 추가 연구로 실증된다면 프레임워크의 보다 광범위한 독해와 일치하게 될 하나의 비교적 관찰로 등록한다.
 
-The corpus's working position on the comparative-serpent question is that the global recurrence of serpent-figures across cultures is meaningful as evidence of broader operational patterns. The chaos-serpent and wisdom-serpent clusters are operationally distinct, with the Eden Serpent belonging specifically to the wisdom-serpent cluster; the broader cross-cultural pattern of serpents as bringers of beneficial knowledge reflects the broader operational reality of the post-Eden Lucifer faction's teaching role. The corpus does not require that every cultural serpent-figure be a direct memory of specific Lucifer-faction operational events — many serpent-figures in human cultures are independently developed mythological constructions — but the substantial cross-cultural pattern is consistent with the framework's reading and provides comparative-religious context for the Eden Serpent specifically.
+### 수렴
 
-## See also
+비교-뱀 문제에 대한 코퍼스의 작업 입장은 문화들에 걸친 뱀-형상들의 전 지구적 반복이 보다 광범위한 운영적 패턴의 증거로서 유의미하다는 것이다. 혼돈-뱀 군집과 지혜-뱀 군집은 운영적으로 구별되며, 에덴 뱀은 구체적으로 지혜-뱀 군집에 속한다. 유익한 지식의 전달자로서의 뱀이라는 보다 광범위한 문화 횡단적 패턴은 에덴 이후 루시퍼 분파의 가르침 역할의 보다 광범위한 운영적 실재를 반영한다. 코퍼스는 모든 문화적 뱀-형상이 특정 루시퍼-분파 운영 사건의 직접적 기억이어야 한다고 요구하지 않는다 — 인간 문화의 많은 뱀-형상은 독립적으로 발전된 신화적 구성물이다 — 그러나 그 실질적인 문화 횡단적 패턴은 프레임워크의 독해와 일치하며 에덴 뱀에 대해 구체적으로 비교-종교적 맥락을 제공한다.
 
-- [Lucifer](../lucifer/)
-- [Eden](../eden/)
-- [Adam and Eve](../adam-and-eve/)
-- [Tree of Knowledge](../tree-of-knowledge/)
-- [Tree of Life](../tree-of-life/)
-- [Yahweh](../yahweh/)
-- [Satan](../satan/)
-- [Elohim](../elohim/)
-- [Cain and Abel](../cain-and-abel/)
-- [Nephilim](../nephilim/)
-- [Sons of Elohim](../sons-of-elohim/)
-- [Genesis](../genesis/)
-- [Antediluvian](../antediluvian/)
-- [Great Flood](../great-flood/)
-- [Fall of Man](../fall-of-man/)
-- [Leviathan](../leviathan/)
-- [Bronze Serpent / Neḥushtan](../bronze-serpent/)
-- [Watchers](../watchers/)
-- [Tetragrammaton](../tetragrammaton/)
-- [Age of Leo](../timeline/age-of-leo/)
-- [Age of Cancer](../timeline/age-of-cancer/)
-- [Jean Sendy](../jean-sendy/)
-- [Mauro Biglino](../mauro-biglino/)
-- [Paul Anthony Wallis](../paul-anthony-wallis/)
-- [*Hamlet's Mill*](../hamlets-mill/)
 
-## References
 
-Vorilhon, Claude (Raël). *The Book Which Tells the Truth* (1974), chapter 2, "Truth"; collected in *Message from the Designers*.
 
-Sendy, Jean. *Ces dieux qui firent le ciel et la terre*. Robert Laffont, 1969. English: *Those Gods Who Made Heaven and Earth*. Berkley, 1972.
 
-Biglino, Mauro, and Giorgio Cattaneo. *The Naked Bible: The Truth About the Most Famous Book in History*. Uno, 2022.
 
-Wallis, Paul Anthony. *The Eden Conspiracy*. 6th Books, 2024.
-
-*Biblia Hebraica Stuttgartensia*. Deutsche Bibelgesellschaft, 4th rev. ed., 1997.
-
-Sarna, Nahum. *Genesis: The JPS Torah Commentary*. Jewish Publication Society, 1989.
-
-Westermann, Claus. *Genesis 1–11: A Continental Commentary*. Fortress, 1994.
-
-Skinner, John. *A Critical and Exegetical Commentary on Genesis*. International Critical Commentary, T&T Clark, 1910.
-
-von Rad, Gerhard. *Genesis: A Commentary*. Westminster, 1961.
-
-Charles, R. H. *The Apocrypha and Pseudepigrapha of the Old Testament*. Oxford University Press, 1913.
-
-Kelly, Henry Ansgar. *Satan: A Biography*. Cambridge University Press, 2006.
-
-Forsyth, Neil. *The Old Enemy: Satan and the Combat Myth*. Princeton University Press, 1987.
-
-Pagels, Elaine. *The Gnostic Gospels*. Random House, 1979.
-
-Pagels, Elaine. *Adam, Eve, and the Serpent*. Random House, 1988.
-
-Pagels, Elaine. *The Origin of Satan*. Random House, 1995.
-
-Charlesworth, James H. *The Good and Evil Serpent: How a Universal Symbol Became Christianized*. Yale University Press, 2010.
-
-Black, Jeremy, and Anthony Green. *Gods, Demons and Symbols of Ancient Mesopotamia: An Illustrated Dictionary*. British Museum Press, 1992.
-
-Layton, Bentley. *The Gnostic Scriptures*. Doubleday, 1987.
-
-Robinson, James M., ed. *The Nag Hammadi Library in English*. HarperSanFrancisco, 3rd rev. ed., 1988.
-
-Irenaeus. *Against Heresies*, book I.
-
-Hippolytus. *Refutation of All Heresies*.
-
-Origen. *Contra Celsum*.
-
-Epiphanius. *Panarion*.
-
-Scholem, Gershom. *Major Trends in Jewish Mysticism*. Schocken, 1941.
-
-*Zohar*. Pritzker Edition, trans. Daniel Matt et al. Stanford University Press, 2003–2017.
-
-Narby, Jeremy. *The Cosmic Serpent: DNA and the Origins of Knowledge*. Tarcher/Putnam, 1998.
-
-Brown, Francis, S. R. Driver, and Charles A. Briggs. *A Hebrew and English Lexicon of the Old Testament* (BDB). Oxford, 1907.
-
-*The Hebrew and Aramaic Lexicon of the Old Testament* (HALOT), Koehler-Baumgartner. Brill, 2001.
-
-"Serpents in the Bible." *Wikipedia*. <https://en.wikipedia.org/wiki/Serpents_in_the_Bible>
-
-"Serpent (symbolism)." *Wikipedia*. <https://en.wikipedia.org/wiki/Serpent_(symbolism)>
-
-"Ophites." *Encyclopaedia Britannica*. <https://www.britannica.com/topic/Ophite>
-
-"Nag Hammadi library." *Encyclopaedia Britannica*. <https://www.britannica.com/topic/Nag-Hammadi-Coptic-library>
-
-"Lucifer." *Encyclopaedia Britannica*. <https://www.britannica.com/topic/Lucifer-classical-mythology>
-
-"Satan." *Encyclopaedia Britannica*. <https://www.britannica.com/topic/Satan>

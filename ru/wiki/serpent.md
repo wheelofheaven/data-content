@@ -1,451 +1,460 @@
 +++
 title = "Змей"
-description = "Змей — фигура искусителя в Книге Бытия и мятежной мудрости во многих традициях — прочитывается в корпусе Wheel of Heaven как центральный нарративный оператор серпантинной революции внутри элохимской иерархии."
+slug = "serpent"
+description = "Змей (евр.: נָחָשׁ, naḥash) — фигура из Бытия 3, которая побуждает первых людей вкусить от Древа познания добра и зла и впоследствии проклинается и изгоняется. В прочтении, развитом в раэлианских источниках и принятом корпусом Wheel of Heaven, Змей читается не как символ, а как конкретный исторический референт: фракция внутри команды Израиля создателей Элохим — возглавляемая фигурой, позднее названной Люцифером, — которая не согласилась с ограничением родного мира на образование людей и предоставила им доступ к научному знанию, которое было утаено."
 template = "wiki-page.html"
 toc = true
 
 [extra]
-translation_status = "metadata_only"
 category = "Symbolism & Motifs"
 editorial_pass = "2026-05"
+claim_type = "framework"
 entry_type = "figure"
-alternative_names = ["the Serpent of Eden", "naḥash", "נָחָשׁ", "the Lucifer faction", "the Serpentine party", "ho ophis"]
+alternative_names = ["Змей Эдема", "naḥash", "נָחָשׁ", "фракция Люцифера", "Змеиная партия", "ho ophis"]
+see_also = [
+    { title = "Люцифер", path = "wiki/lucifer", description = "Именованный лидер диссидентской фракции; Змей — это Люцифер в его роли из Бытия 3." },
+    { title = "Адам и Ева", path = "wiki/adam-and-eve", description = "Первые люди, которым Змей сделал эдемское раскрытие." },
+    { title = "Эдем", path = "wiki/eden", description = "Контролируемая установка, где произошло раскрытие." },
+    { title = "Яхве", path = "wiki/yahweh", description = "Лидер команды Израиля, вынесший приговор после раскрытия." },
+    { title = "Сатана", path = "wiki/satan", description = "Отдельная фигура Элохим — политически противоположная Змею/Люциферу, смешанная с ним лишь в позднейшей традиции." },
+    { title = "Древо жизни", path = "wiki/tree-of-life", description = "Технология продлевания жизни, охраняемая после изгнания." },
+]
+
+footnotes = [
+    { content = "Четырёхфигурная политическая таксономия — Яхве (умеренный из альянса), Люцифер (лидер диссидентской фракции), Змей (фракция Люцифера в их конкретной роли эдемского раскрытия) и Сатана (отдельная фигура Элохим, возглавляющая аболиционистскую фракцию родного мира) — является одним из наиболее консеквенциальных аналитических вкладов прочтения корпуса. Позднейшая религиозная традиция свела Люцифера, Змея и Сатану к единой фигуре космического зла; корпус восстанавливает различия. Змей и Сатана на самом деле политически противоположны: Змей (фракция Люцифера) хотел расширения земного проекта и предоставления людям полной информации; Сатана хотел его прекращения. Послебиблейское смешение сводит подлинную политическую реальность к единой недифференцированной богословской категории." },
+    { content = "Этимологическая игра слов *naḥash* (змей) / *naḥash* (практиковать гадание, искать предзнаменования) операционна в Бытии 3 в прочтении корпуса. Фигура, названная тем же корнем, что и «гадание» — доступ к скрытому знанию, — это фигура, которая предоставляет доступ к скрытому знанию. Текст усиливает это смежной игрой слов между *ʿarum* («хитрый», Бытие 3:1) и *ʿarummim* («нагие», Бытие 2:25): люди наги, а змей хитро облачён в язык, что отмечает переход от состояния до раскрытия к состоянию после раскрытия." },
+    { content = "Корпус читает вмешательство Змея как диссидентское политическое действие, а не как обман. Утверждение Змея, что «нет, не умрёте», оказалось операционно точным (люди не умерли, вкусив); утверждение, что «вы будете, как Элохим, знающие добро и зло», также было точным (они приобрели существенное знание). Элемент «обмана», который подчёркивают некоторые христианские богословские прочтения, в прочтении корпуса отсутствует — вмешательство Змея является публичной артикуляцией доводов в пользу научного образования людей, обращённой к человеческим партнёрам, которых фракция обучала." },
+    { content = "Прочтение корпуса структурно отличительно в современном переинтерпретирующем ландшафте: оно принимает историко-критическое наблюдение о том, что Змей Бытия 3 — не Сатана; оно трактует фигуру как конкретный исторический референт, а не как символ или аллегорию; и оно частично совпадает с гностической офитской интуицией (Змей передал ценное знание), отвергая при этом более широкую гностическую антикосмическую теологию. Фреймворк можно охарактеризовать как гностико-смежный относительно Змея конкретно, но негностический относительно более широких космологических вопросов." },
+    { content = "Главное содержательное расхождение между прочтением Биглино и прочтением корпуса — это эпистемический-vs-генетический вопрос. Биглино читает Бытие 3:15 («вражду между семенем твоим и семенем её») как описывающее различные генетические линии, развивает утверждение, что Змей имел половые сношения с Евой, произведя Каина («из линии змея»), и читает Потоп как очищение кровной линии. Корпус это отвергает: раэлианский источник прямолинейно идентифицирует Каина как сына Адама и Евы, а Потоп — как ответ родного мира на угрожающее технологическое продвижение допотопной цивилизации. Оба прочтения согласны, что Змей — это фигура фракции Элохим, а не змея или метафора; они расходятся в том, было ли преступление эпистемическим (разделение знания) или генетическим (скрещивание). Прочтение фреймворка — эпистемическое." },
+    { content = "Корпус различает два операционно различных змеиных кластера. Кластер змея-хаоса (Тиамат, Лотан, Левиафан, Апоп, Тифон, Вритра, мировой змей Мидгарда) — изначальный, океанический, чудовищный, представляющий хаотическое состояние, из которого вырывается порядок; корпус читает его как сохраняющий фрагментарную память о досотворительных условиях и океанических катастрофах. Кластер змея-мудрости (Нингишзида, кадуцей, жезл Асклепия, медный змей, традиция нагов, Кетцалькоатль) связан с исцелением, эзотерическим знанием и основанием цивилизации. Змей Эдема из Бытия 3 принадлежит к кластеру змея-мудрости, который корпус читает как сохраняющий фрагментарную память о послеэдемской учительской роли фракции Люцифера." },
+]
+
+[[extra.references]]
+id = "the-book-which-tells-the-truth"
+locator = "Глава 2"
+note = "Основополагающий раэлианский источник для Змея как диссидентской фракции команды Израиля в их роли раскрытия."
+
+[[extra.references]]
+id = "those-gods-who-made-heaven-and-earth"
+note = "Филологическое прочтение Сенди *naḥash* в его операционном, а не зоологическом смысле — главный научный предшественник прочтения корпуса."
+
+[[extra.references]]
+id = "the-naked-bible"
+note = "Прочтение Биглино Змея как фигуры фракции Элохим; корпус совпадает относительно идентичности фигуры, но отвергает расширение Каин-как-змеиная-линия."
+
+[[extra.references]]
+id = "the-eden-conspiracy"
+note = "Структурное прочтение Уоллисом эдемского политического кризиса и херувимов / пламенного меча как технологических."
+
+[[extra.references]]
+id = "westermann-genesis-1-11"
+note = "Стандартный форм-критический комментарий Вестермана — Змей Бытия 3 как ягвистская литературная фигура, а не Сатана."
+
+[[extra.references]]
+id = "skinner-genesis-icc"
+note = "Основополагающий историко-критический комментарий Скиннера, сохраняющий прочтение эдемского повествования в духе документальной гипотезы."
+
+[[extra.references]]
+id = "von-rad-genesis"
+note = "Форм-критическое и богословское прочтение фон Радом ягвистского эдемского повествования."
+
+[[extra.references]]
+id = "kelly-satan-biography"
+note = "Изложение Келли того, как развивалась фигура Сатаны — научная поддержка различения Змей/Сатана."
+
+[[extra.references]]
+id = "forsyth-the-old-enemy"
+note = "Прослеживание Форсайтом традиции боевого мифа о космическом противнике."
+
+[[extra.references]]
+id = "pagels-adam-eve-serpent"
+note = "Исследование Пейджелс того, как интерпретация Бытия 1–3 сформировала западную мысль, с августиновским синтезом первородного греха как конкретным оспариваемым развитием."
+
+[[extra.references]]
+id = "pagels-gnostic-gospels"
+note = "Доступное введение Пейджелс в гностический материал Наг-Хаммади, включая офитское переворачивание Змея."
+
+[[extra.references]]
+id = "pagels-origin-of-satan"
+note = "Пейджелс о социально-политическом конструировании христианской фигуры Сатаны."
+
+[[extra.references]]
+id = "charlesworth-good-evil-serpent"
+note = "Исследование Чарльзуорта символики змея — широко распространённая положительная оценка до христианского негативного прочтения; поддерживает различение змей-мудрость / змей-хаос."
+
+[[extra.references]]
+id = "nag-hammadi-library"
+note = "Издание Робинсона кодексов Наг-Хаммади, сохраняющее офитско-смежные прочтения Змея Эдема и демиурга."
+
+[[extra.references]]
+id = "gnostic-scriptures"
+note = "Аннотированный перевод Лейтоном главных гностических текстов, включая традиции переворачивания Змея."
+
+[[extra.references]]
+id = "charles-apocrypha-pseudepigrapha"
+note = "Собрание Чарльза литературы периода Второго храма (1 Енох, Жизнь Адама и Евы), развивающей раннее отождествление Змея с дьяволом."
+
+[[extra.references]]
+id = "major-trends-jewish-mysticism"
+note = "Основополагающее исследование Шолема каббалы, рассматривающее зохарический материал о Змее/Самаэле."
+
+[[extra.references]]
+id = "zohar-pritzker"
+note = "Притцкеровский Зохар — повествование о Самаэле на Змее и более широкая каббалистическая разработка, с которой корпус взаимодействует, не одобряя её."
+
+[[extra.references]]
+id = "cosmic-serpent-narby"
+note = "Гипотеза Нарби об иконографии ДНК — фиксируется корпусом как наводящая на размышления, но не несущая нагрузку."
+
+[[extra.references]]
+id = "black-green-mesopotamia"
+note = "Справочник Блэка и Грина по месопотамской иконографии — фигуры дракона-хаоса и змея-мудрости, которые корпус использует для различения двух кластеров."
+
+[[extra.references]]
+id = "book-of-enoch"
+note = "Традиция Стражей 1 Еноха, развивающая повествование о *бней ха-Элохим*, которое перекрывается с позднейшими традициями о Змее / Сатане."
 
 [extra.infobox]
 hebrew_name = "נָחָשׁ"
-transliteration = "naḥash; with definite article ha-naḥash"
+transliteration = "naḥash; с определённым артиклем ha-naḥash"
 greek_name = "ὄφις (ophis)"
 latin_name = "serpens"
-title = "The Serpent of Eden; the Lucifer faction in their disclosure role"
-type = "Faction-as-figure: a specific group of Elohim scientists with their leader; named singularly in the Genesis text"
-operational_period = "Late Age of Leo through early Age of Cancer, c. 11,400 – 10,000 BCE; with the faction's continued presence on Earth extending through the Age of Cancer"
-date_type = "framework-internal; derived from the Eden chronology"
-biblical_appearance = "Genesis 3:1–15 (the Eden episode); echoes in Numbers 21 (the bronze serpent), Isaiah 27:1 (Leviathan), Revelation 12:9 ('that ancient serpent')"
-faction_leader = "Lucifer (so identified in the broader corpus from later patristic-tradition naming)"
-distinguished_from = "Satan (a separate Elohim figure); Lucifer (the same actors in their broader career); Leviathan (a chaos-serpent of distinct mythological lineage); the Devil (a later Christian theological synthesis)"
-current_status = "The Lucifer faction continues to exist; their broader career extends beyond the Eden episode through the antediluvian period and beyond"
-principal_text = "Genesis 3:1–15"
-principal_framework_source = "*The Book Which Tells the Truth* (Vorilhon/Raël, 1974), chapter 2"
+title = "Змей Эдема; фракция Люцифера в их роли раскрытия"
+type = "Фракция-как-фигура: конкретная группа учёных Элохим с их лидером; именуется в единственном числе в тексте Бытия"
+operational_period = "Поздняя Эпоха Льва до ранней Эпохи Рака, около 11 400 – 10 000 гг. до н. э.; с продолжающимся присутствием фракции на Земле, простирающимся через Эпоху Рака"
+date_type = "внутрифреймворково; выведено из эдемской хронологии"
+biblical_appearance = "Бытие 3:1–15 (эдемский эпизод); отголоски в Числах 21 (медный змей), Исаии 27:1 (Левиафан), Откровении 12:9 («древний змий»)"
+faction_leader = "Люцифер (так идентифицированный в более широком корпусе по позднейшему патристико-традиционному именованию)"
+distinguished_from = "Сатана (отдельная фигура Элохим); Люцифер (те же действующие лица в их более широкой карьере); Левиафан (змей-хаос отличной мифологической линии); Дьявол (позднейший христианский богословский синтез)"
+current_status = "Фракция Люцифера продолжает существовать; их более широкая карьера простирается за пределы эдемского эпизода через допотопный период и далее"
+principal_text = "Бытие 3:1–15"
+principal_framework_source = "*Книга, говорящая правду* (Ворильон/Раэль, 1974), глава 2"
 +++
 
-**The Serpent** (Hebrew: <span class="hebrew">נָחָשׁ</span>, *naḥash*; Greek: *ὄφις*, *ophis*; Latin: *serpens*) is the figure introduced in Genesis 3:1 as "more crafty than any other beast of the field that Yahweh Elohim had made," who engages the first woman in conversation about the prohibition concerning the Tree of the Knowledge of Good and Evil, urges her to eat the fruit, and is subsequently cursed in Genesis 3:14–15 to crawl on the ground and to suffer enmity with the woman's offspring. The episode is among the most theologically consequential in the Hebrew Bible: it is the textual basis for the Christian doctrine of the Fall and for much subsequent reflection on the origin of human moral knowledge, mortality, and disobedience.
+**Змей** (евр.: <span class="hebrew">נָחָשׁ</span>, *naḥash*; греч.: *ὄφις*, *ophis*; лат.: *serpens*) — фигура, вводимая в Бытии 3:1 как «хитрее всех зверей полевых, которых создал Яхве Элохим», которая вступает с первой женщиной в разговор о запрете касательно Древа познания добра и зла, побуждает её вкусить плод и впоследствии проклинается в Бытии 3:14–15 ползать по земле и терпеть вражду с потомством женщины. Этот эпизод — среди наиболее богословски консеквенциальных в Еврейской Библии: он является текстовой основой христианского учения о Грехопадении и большей части последующих размышлений о происхождении человеческого нравственного знания, смертности и непослушания.
 
-On the reading developed in the Raëlian source material and adopted by the Wheel of Heaven corpus, the Serpent is not a metaphor and not a snake. The figure is read as a specific historical referent: a faction within the Israel team of Elohim creators whose distinctive position was that the first humans should be given complete scientific education rather than kept in deliberate ignorance of the technological and biological knowledge of their makers. The faction acted on this position by giving the humans access to the restricted materials of the garden — the act narrated in Genesis 3 as the "eating from the tree of the knowledge of good and evil" — and was condemned by the Elohim home world authorities for doing so. The faction's exile to Earth is the operational reality behind the curse pronounced in Genesis 3:14. The faction's leader is identified in the broader corpus with the figure later named **Lucifer**.
+В прочтении, развитом в раэлианских источниках и принятом корпусом Wheel of Heaven, Змей — не метафора и не змея. Фигура читается как конкретный исторический референт: фракция внутри команды Израиля создателей Элохим, чьей отличительной позицией было то, что первым людям следует дать полное научное образование, а не держать их в преднамеренном неведении относительно технологического и биологического знания их создателей. Фракция действовала согласно этой позиции, предоставив людям доступ к ограниченным материалам сада — акт, повествуемый в Бытии 3 как «вкушение от древа познания добра и зла», — и была осуждена за это властями родного мира Элохим. Изгнание фракции на Землю — это операционная реальность, стоящая за проклятием, провозглашённым в Бытии 3:14. Лидер фракции идентифицируется в более широком корпусе с фигурой, позднее названной **Люцифером**.
 
-The reading is contested. Within Christian theological tradition, the Serpent has been identified with Satan, the devil, and the broader figure of cosmic evil — an identification developed across the Second Temple and patristic periods that fixes in Revelation 12:9 ("that ancient serpent, who is called the devil and Satan") and shapes essentially all subsequent Western Christian theological reflection on the figure. Within mainstream historical-critical scholarship, the Serpent is treated as a literary figure of the Yahwist source whose specific identification with Satan is recognized as a later interpretive development without textual basis in Genesis 3 itself. Within the Gnostic Christian tradition of the second and third centuries CE, the Serpent was reversed in valuation — treated as the positive figure (the bringer of *gnosis*) against the demiurgic Old Testament Yahweh — with the Ophite, Sethian, and Cainite sects developing this inversion in various ways. The corpus's reading is structurally distinctive: it accepts the historical-critical observation that the Serpent of Genesis 3 is not Satan, treats the Genesis figure as referring to a specific historical referent rather than as either symbol or theological allegory, and partially aligns with the Gnostic Ophite intuition (the Serpent transmitted valuable knowledge) while rejecting the broader Gnostic anti-cosmic theology.
+Прочтение оспариваемо. Внутри христианской богословской традиции Змей был отождествлён с Сатаной, дьяволом и более широкой фигурой космического зла — отождествление, развитое в периоды Второго храма и патристики, которое фиксируется в Откровении 12:9 («древний змий, называемый диаволом и сатаною») и формирует по существу все последующие западнохристианские богословские размышления о фигуре. Внутри мейнстримной историко-критической науки Змей трактуется как литературная фигура ягвистского источника, чьё конкретное отождествление с Сатаной признаётся позднейшим интерпретационным развитием без текстовой основы в самом Бытии 3. Внутри гностической христианской традиции второго и третьего веков н. э. Змей был перевёрнут в оценке — трактовался как положительная фигура (носитель *гнозиса*) против демиургического ветхозаветного Яхве — причём офитская, сифианская и каинитская секты развивали эту инверсию различными способами. Прочтение корпуса структурно отличительно: оно принимает историко-критическое наблюдение о том, что Змей Бытия 3 — не Сатана, трактует фигуру Бытия как отсылающую к конкретному историческому референту, а не как символ или богословскую аллегорию, и частично совпадает с гностической офитской интуицией (Змей передал ценное знание), отвергая при этом более широкую гностическую антикосмическую теологию.{{ footnote(id="4") }}
 
-## Etymology and naming
+## Этимология и именование
 
-The Hebrew word *naḥash* (<span class="hebrew">נָחָשׁ</span>) is straightforwardly "serpent" or "snake" in Biblical Hebrew, with the consonantal root *n-ḥ-š* attested across Semitic languages with the same basic meaning. The word appears throughout the Hebrew Bible in its straightforward zoological sense — referring to actual snakes — across approximately thirty-one occurrences (the Genesis 3 Eden serpent; the staff-becoming-serpent miracle of Moses in Exodus 4 and 7; the bronze serpent of Numbers 21:8–9; the various wisdom-literature references in Job, Proverbs, and elsewhere; the prophetic-literature appearances in Isaiah, Jeremiah, and Amos).
+Еврейское слово *naḥash* (<span class="hebrew">נָחָשׁ</span>) прямолинейно означает «змей» или «змея» в библейском иврите, причём согласный корень *n-ḥ-š* засвидетельствован в семитских языках с тем же базовым значением. Слово встречается на всём протяжении Еврейской Библии в своём прямом зоологическом смысле — относясь к реальным змеям — в приблизительно тридцати одном случае (змей Эдема из Бытия 3; чудо превращения посоха в змея у Моисея в Исходе 4 и 7; медный змей из Чисел 21:8–9; различные упоминания в литературе премудрости в Иове, Притчах и в других местах; появления в пророческой литературе у Исаии, Иеремии и Амоса).
 
-A second verbal use of the same root, *naḥash* in its piel form *nḥš* — "to practice divination" or "to seek omens" — is etymologically connected to the noun and may be relevant to the Eden episode. The connection between snake-imagery and divination-practice is widely attested across the ancient Near East: the snake's distinctive features (silent movement, sudden striking, association with hidden places) made it a natural symbol for the diviner's access to hidden knowledge. Genesis 44:5, 44:15 use the verb *yenahesh* in the context of Joseph's divination through his silver cup; Numbers 23:23 and 24:1 use the verbal form in the context of Balaam's prophetic-divinatory practice; Leviticus 19:26 and Deuteronomy 18:10 prohibit the practice. The verb *naḥash* in this divination sense is etymologically connected to the noun for snake.
+Второе глагольное употребление того же корня, *naḥash* в его форме пиэль *nḥš* — «практиковать гадание» или «искать предзнаменования» — этимологически связано с существительным и может быть релевантно для эдемского эпизода. Связь между образом змеи и практикой гадания широко засвидетельствована по всему древнему Ближнему Востоку: отличительные черты змеи (бесшумное движение, внезапный бросок, связь со скрытыми местами) сделали её естественным символом доступа гадателя к скрытому знанию. Бытие 44:5, 44:15 используют глагол *yenahesh* в контексте гадания Иосифа через его серебряную чашу; Числа 23:23 и 24:1 используют глагольную форму в контексте пророческо-гадательной практики Валаама; Левит 19:26 и Второзаконие 18:10 запрещают эту практику. Глагол *naḥash* в этом гадательном смысле этимологически связан с существительным для змеи.
 
-The wordplay between *naḥash* (serpent) and *naḥash* (divination) is operational in the Genesis 3 narrative on multiple readings. The Genesis 3 Serpent is described as *ʿarum* — "crafty" or "prudent" — at Genesis 3:1, with the Hebrew adjective wordplay-adjacent to the previous chapter's closing word *ʿarummim*, "naked" (Genesis 2:25): the humans are naked, and the serpent is craftily-clothed in language. The text uses the wordplay to mark the transition from the human's pre-disclosure state to their post-disclosure state. The framework treats the *naḥash* / *naḥash* etymological wordplay as preserving, at the level of the Hebrew text itself, the underlying operational fact: the figure who is named by the same root as "divination" is a figure who provides access to hidden knowledge.
+Игра слов между *naḥash* (змей) и *naḥash* (гадание) операционна в повествовании Бытия 3 в нескольких прочтениях.{{ footnote(id="2") }} Змей Бытия 3 описывается как *ʿarum* — «хитрый» или «благоразумный» — в Бытии 3:1, причём еврейское прилагательное смежно по игре слов с заключительным словом предыдущей главы *ʿarummim*, «нагие» (Бытие 2:25): люди наги, а змей хитро облачён в язык. Текст использует игру слов, чтобы отметить переход от состояния людей до раскрытия к их состоянию после раскрытия. Фреймворк трактует этимологическую игру слов *naḥash* / *naḥash* как сохраняющую — на уровне самого еврейского текста — лежащий в основе операционный факт: фигура, названная тем же корнем, что и «гадание», — это фигура, которая предоставляет доступ к скрытому знанию.
 
-The Greek Septuagint translates *naḥash* as *ophis* (ὄφις), the standard Greek term for snake. *Ophis* is the term that would carry into the New Testament's references to the Eden serpent (notably Revelation 12:9, *ho ophis ho archaios*, "the ancient serpent") and into the broader Greek Christian theological tradition. The Greek Gnostic sect known as the **Ophites** takes its name from this term — the *Ophitai*, "the followers of the serpent" — and is treated more fully under *Modern reinterpretations* below.
+Греческая Септуагинта переводит *naḥash* как *ophis* (ὄφις), стандартный греческий термин для змеи. *Ophis* — это термин, который перейдёт в новозаветные упоминания эдемского змея (особенно Откровение 12:9, *ho ophis ho archaios*, «древний змий») и в более широкую греческую христианскую богословскую традицию. Греческая гностическая секта, известная как **офиты**, берёт своё имя от этого термина — *Ophitai*, «последователи змея» — и рассматривается более полно в разделе *Современные переинтерпретации* ниже.
 
-The Latin Vulgate translates *naḥash* as *serpens*, the standard Latin term, providing the basis for the English "serpent" through the Old French intermediary. The Hebrew form *naḥash* has been preserved in scholarly transliteration across the academic biblical-studies tradition.
+Латинская Вульгата переводит *naḥash* как *serpens*, стандартный латинский термин, давший основу для английского «serpent» через старофранцузского посредника. Еврейская форма *naḥash* была сохранена в научной транслитерации во всей академической традиции библейских исследований.
 
-## In the Hebrew Bible
+## В Еврейской Библии
 
-The Serpent appears principally in Genesis 3:1–15, with related serpent material in Numbers 21, Isaiah 27, and elsewhere. The corpus's reading distinguishes between the Genesis 3 Serpent specifically and the broader Hebrew-Bible serpent material, treating the figure of the Eden episode as a specific historical referent and the broader serpent material as covering a wider range of referents.
+Змей появляется главным образом в Бытии 3:1–15, с родственным змеиным материалом в Числах 21, Исаии 27 и в других местах. Прочтение корпуса различает между Змеем Бытия 3 конкретно и более широким змеиным материалом Еврейской Библии, трактуя фигуру эдемского эпизода как конкретный исторический референт, а более широкий змеиный материал — как охватывающий более широкий диапазон референтов.
 
-### The Genesis 3 narrative
+### Повествование Бытия 3
 
-The Hebrew text introduces the Serpent abruptly at Genesis 3:1, without prior reference and without explanation of its origin. It is described as *ʿarum*, "crafty" or "prudent," and as the most so among the *ḥayyat ha-sadeh*, "the beasts of the field." The Serpent's intervention is conducted entirely through speech. It questions the woman about the prohibition concerning the Tree of the Knowledge of Good and Evil:
+{% library(book="genesis-woh", chapter=3, verse=1) %}
+Змей был хитрее всех зверей полевых, которых создал YHWH-Элохим. И сказал он жене: подлинно ли сказал Элохим: «не ешьте ни от какого дерева в саду»?
+{% end %}
 
-> *"Did Elohim really say, 'You shall not eat from any tree of the garden'?"* (Genesis 3:1)
+Еврейский текст вводит Змея резко в Бытии 3:1, без предварительного упоминания и без объяснения его происхождения. Он описывается как *ʿarum*, «хитрый» или «благоразумный», и как наиболее таковой среди *ḥayyat ha-sadeh*, «зверей полевых». Вмешательство Змея ведётся целиком через речь. Он расспрашивает женщину о запрете касательно Древа познания добра и зла:
 
-The woman responds, partially mis-stating the prohibition (Genesis 2:17 had specified only the Tree of the Knowledge of Good and Evil; the woman's response at 3:3 adds "you shall not touch it" to the prohibition). The Serpent responds with a contradiction of the threat of death:
+> *«Подлинно ли сказал Элохим: „не ешьте ни от какого дерева в саду“?»* (Бытие 3:1)
 
-> *"You will not surely die. For Elohim knows that in the day you eat of it your eyes will be opened, and you will be like Elohim, knowing good and evil."* (Genesis 3:4–5)
+Женщина отвечает, частично искажая запрет (Бытие 2:17 указывало лишь Древо познания добра и зла; ответ женщины в 3:3 добавляет к запрету «и не прикасайтесь к ним»). Змей отвечает противоречием угрозе смерти:
 
-The woman observes that the tree is "good for food, and that it was a delight to the eyes, and that the tree was to be desired to make one wise"; she eats; she gives to her husband, and he eats; their eyes are opened; they recognize their nakedness and respond with shame (Genesis 3:6–7).
+> *«Нет, не умрёте; но знает Элохим, что в день, в который вы вкусите их, откроются глаза ваши, и вы будете, как Элохим, знающие добро и зло.»* (Бытие 3:4–5)
 
-Yahweh Elohim, upon discovering what has happened, conducts a sequence of investigations and pronounces consequences in turn: against the Serpent (Genesis 3:14–15), against the woman (3:16), and against the human (3:17–19). The Serpent's curse:
+Женщина видит, что дерево «хорошо для пищи, и что оно приятно для глаз и вожделенно, потому что даёт знание»; она ест; даёт мужу своему, и он ест; глаза их открываются; они осознают свою наготу и отвечают стыдом (Бытие 3:6–7).
 
-> *"Because you have done this, cursed are you above all livestock and above all beasts of the field; on your belly you shall go, and dust you shall eat all the days of your life. I will put enmity between you and the woman, and between your offspring and her offspring; he shall bruise your head, and you shall bruise his heel."* (Genesis 3:14–15)
+Яхве Элохим, обнаружив случившееся, проводит последовательность расследований и провозглашает последствия по очереди: против Змея (Бытие 3:14–15), против женщины (3:16) и против человека (3:17–19). Проклятие Змея:
 
-The chapter closes with the expulsion of the humans from the garden (Genesis 3:22–24), with the cherubim and flaming sword stationed to prevent re-access to the Tree of Life.
+> *«За то, что ты сделал это, проклят ты пред всеми скотами и пред всеми зверями полевыми; ты будешь ходить на чреве твоём, и будешь есть прах во все дни жизни твоей. И вражду положу между тобою и между женою, и между семенем твоим и между семенем её; оно будет поражать тебя в голову, а ты будешь жалить его в пяту.»* (Бытие 3:14–15)
 
-### Other Hebrew Bible serpent references
+Глава завершается изгнанием людей из сада (Бытие 3:22–24), причём херувимы и пламенный меч поставлены, чтобы воспрепятствовать повторному доступу к Древу жизни.
 
-Several other Hebrew Bible passages bear on the broader serpent material, though most are distinct from the specific Eden Serpent.
+### Другие упоминания змея в Еврейской Библии
 
-**Numbers 21:4–9** records the bronze serpent (*neḥushtan*) episode. During the wilderness wandering, the Israelites complain against Yahweh and Moses; Yahweh sends "fiery serpents" (*ha-neḥashim ha-saraphim*) to bite them; the bitten Israelites die. Moses prays for the people; Yahweh instructs Moses to make a bronze serpent and set it on a pole; whoever looks at the bronze serpent after being bitten lives. The bronze serpent is preserved (2 Kings 18:4 records that Hezekiah destroyed it because the Israelites had begun burning incense to it). The episode is etymologically connected to the Genesis 3 Serpent through the shared *naḥash* term but operationally distinct: the bronze serpent is a healing image, not a transgressing figure. The corpus does not develop a unified reading of the Genesis 3 Serpent and the bronze serpent of Numbers 21; the question is registered as open.
+Несколько других фрагментов Еврейской Библии касаются более широкого змеиного материала, хотя большинство отлично от конкретного Змея Эдема.
 
-**Isaiah 27:1** mentions Leviathan as "the twisting serpent" (*naḥash bariaḥ*) and "the crooked serpent" (*naḥash ʿaqallaton*). The Leviathan tradition is treated more fully in the [Leviathan](../leviathan/) entry; what matters here is that the *naḥash* language is shared with Genesis 3 but the referent is different — Leviathan is a chaos-figure of distinct mythological lineage from the Eden Serpent.
+**Числа 21:4–9** фиксируют эпизод медного змея (*neḥushtan*). Во время странствия по пустыне израильтяне ропщут против Яхве и Моисея; Яхве посылает «ядовитых змеев» (*ha-neḥashim ha-saraphim*), чтобы жалить их; ужаленные израильтяне умирают. Моисей молится за народ; Яхве велит Моисею сделать медного змея и поставить его на знамя; всякий ужаленный, взглянув на медного змея, остаётся жив. Медный змей сохраняется (4 Царств 18:4 фиксирует, что Езекия истребил его, потому что израильтяне начали кадить ему). Эпизод этимологически связан со Змеем Бытия 3 через общий термин *naḥash*, но операционно отличен: медный змей — это исцеляющий образ, а не преступающая фигура. Корпус не развивает единого прочтения Змея Бытия 3 и медного змея Чисел 21; вопрос фиксируется как открытый.
 
-**Isaiah 14:12** mentions *Helel ben Shaḥar* ("Day Star, son of the Dawn"), the figure later identified as Lucifer in the Vulgate Latin tradition. The Hebrew passage itself does not identify *Helel* with the Eden Serpent; the connection is patristic-medieval interpretive elaboration. The corpus's adoption of "Lucifer" as the name of the Serpent's faction-leader is registered in *Identifications and conflations* below.
+**Исаия 27:1** упоминает Левиафана как «змея прямо бегущего» (*naḥash bariaḥ*) и «змея изгибающегося» (*naḥash ʿaqallaton*). Традиция Левиафана рассматривается более полно в статье [Левиафан](../leviathan/); здесь важно то, что язык *naḥash* разделяется с Бытием 3, но референт иной — Левиафан является фигурой хаоса отличной мифологической линии от Змея Эдема.
 
-**Job 26:13** mentions "the fleeing serpent" (*naḥash bariaḥ*) in a cosmological-poetic context with overlapping vocabulary to Isaiah 27:1.
+**Исаия 14:12** упоминает *Helel ben Shaḥar* («Денница, сын зари»), фигуру, позднее отождествлённую с Люцифером в латинской традиции Вульгаты. Сам еврейский фрагмент не отождествляет *Helel* со Змеем Эдема; связь — это патристико-средневековая интерпретационная разработка. Принятие корпусом «Люцифера» в качестве имени лидера фракции Змея фиксируется в разделе *Отождествления и смешения* ниже.
 
-**Amos 9:3** mentions a serpent at the bottom of the sea that Yahweh commands to bite those who try to hide there — likely a Leviathan-tradition reference.
+**Иов 26:13** упоминает «змея бегущего» (*naḥash bariaḥ*) в космологическо-поэтическом контексте с перекрывающейся лексикой с Исаией 27:1.
 
-**Psalms 58:4, 91:13, 140:3** use snake imagery in metaphorical contexts (the wicked compared to snakes, the protected stepping on snakes).
+**Амос 9:3** упоминает змея на дне моря, которому Яхве велит жалить тех, кто пытается там скрыться — вероятно, отсылка к традиции Левиафана.
 
-**Proverbs 23:32, 30:19** use snake imagery in wisdom-literature contexts.
+**Псалмы 57:5, 90:13, 139:4** используют образ змеи в метафорических контекстах (нечестивые сравниваются со змеями, защищаемый наступает на змей).
 
-The pattern across the Hebrew Bible is that *naḥash* names a range of serpent-figures: the specific Eden figure, the bronze healing serpent, Leviathan as chaos-serpent, the various metaphorical snakes of wisdom and poetry literature. The Genesis 3 Serpent is one specific figure within this broader serpent-vocabulary; the corpus's reading treats this figure specifically as the Lucifer faction in their disclosure role.
+**Притчи 23:32, 30:19** используют образ змеи в контекстах литературы премудрости.
 
-### The Second Temple and rabbinic interpretive tradition
+Паттерн по всей Еврейской Библии состоит в том, что *naḥash* именует ряд змеиных фигур: конкретную эдемскую фигуру, медного исцеляющего змея, Левиафана как змея-хаос, различных метафорических змей литературы премудрости и поэзии. Змей Бытия 3 — одна конкретная фигура внутри этой более широкой змеиной лексики; прочтение корпуса трактует эту фигуру конкретно как фракцию Люцифера в их роли раскрытия.
 
-The post-biblical Jewish interpretive tradition developed substantial elaboration of the Eden Serpent. The principal materials:
+### Традиция Второго храма и раввинистическая интерпретационная традиция
 
-**Wisdom of Solomon 2:24** (c. 1st century BCE – 1st century CE) provides the earliest explicit identification of the Serpent with the devil: *"by the envy of the devil death entered the world, and those who belong to his party experience it."* This is the pivotal text in the Eden-Serpent-as-Satan tradition, as it connects the Genesis 3 figure with the broader devil-tradition for the first time in surviving literature.
+Послебиблейская иудейская интерпретационная традиция развила существенную разработку эдемского Змея. Главные материалы:
 
-**The Life of Adam and Eve** and the **Apocalypse of Moses** (c. 1st century CE) — pseudepigraphical Adamic literature developing the Eden narrative at length — present the Serpent as Satan's instrument or as Satan himself. The narratives elaborate the Serpent's motivation (jealousy of Adam, refusal to bow to him), its deception of Eve, and its role in the broader cosmic-evil narrative.
+**Премудрость Соломона 2:24** (около I века до н. э. – I века н. э.) предоставляет наиболее раннее эксплицитное отождествление Змея с дьяволом: *«завистью же диавола вошла в мир смерть, и испытывают её принадлежащие к уделу его».* Это поворотный текст в традиции Змей-Эдема-как-Сатана, поскольку он впервые в сохранившейся литературе связывает фигуру Бытия 3 с более широкой традицией о дьяволе.
 
-**1 Enoch** (compiled across several centuries) preserves substantial Watchers-tradition material that develops the *benei ha-Elohim* narrative of Genesis 6:1–4 in directions that overlap with later Serpent / Satan / Devil traditions.
+**Жизнь Адама и Евы** и **Апокалипсис Моисея** (около I века н. э.) — псевдоэпиграфическая адамическая литература, разрабатывающая эдемское повествование пространно — представляют Змея как орудие Сатаны или как самого Сатану. Повествования разрабатывают мотивацию Змея (зависть к Адаму, отказ поклониться ему), его обман Евы и его роль в более широком повествовании о космическом зле.
 
-**Rabbinic midrash** (Genesis Rabbah, the Tanchuma, the *Pirkei de-Rabbi Eliezer*) develops various readings of the Eden Serpent, with substantial variation. Some readings preserve the Serpent as a specific figure; others elaborate the figure as Sammael (a name elsewhere associated with Satan). The *Pirkei de-Rabbi Eliezer* (8th–9th century CE) develops elaborate Adamic legends including extensive Serpent material.
+**1 Енох** (составленный на протяжении нескольких столетий) сохраняет существенный материал традиции Стражей, развивающий повествование о *бней ха-Элохим* из Бытия 6:1–4 в направлениях, перекрывающихся с позднейшими традициями о Змее / Сатане / Дьяволе.{{ cite(id="book-of-enoch", text="[19]", title="1 Енох — традиция Стражей, развивающая повествование о бней ха-Элохим") }}{{ cite(id="charles-apocrypha-pseudepigrapha", text="[20]", title="Чарльз (ред.), *The Apocrypha and Pseudepigrapha of the Old Testament* (1913)") }}
 
-The rabbinic tradition's general direction is to assimilate the Eden Serpent to broader cosmological-evil categories — Sammael, the *yetzer hara* (the evil inclination), the various demonic figures of the rabbinic-tradition demonology. The corpus treats this assimilation as the post-biblical Jewish development of the conflation history that *Identifications and conflations* below treats more fully.
+**Раввинистический мидраш** (Берешит Рабба, Танхума, *Пиркей де-рабби Элиэзер*) развивает различные прочтения эдемского Змея со значительной вариацией. Некоторые прочтения сохраняют Змея как конкретную фигуру; другие разрабатывают фигуру как Самаэля (имя, в других местах связанное с Сатаной). *Пиркей де-рабби Элиэзер* (VIII–IX века н. э.) развивает разработанные адамические легенды, включая обширный змеиный материал.
 
-## Biographical arc
+Общее направление раввинистической традиции — ассимилировать эдемского Змея к более широким категориям космологического зла — Самаэлю, *йецер ха-ра* (злому побуждению), различным демоническим фигурам демонологии раввинистической традиции. Корпус трактует эту ассимиляцию как послебиблейское иудейское развитие истории смешения, которую раздел *Отождествления и смешения* ниже рассматривает более полно.
 
-The Serpent's biographical arc, as the framework reads it, can be divided into four chronological phases. Given the figure's faction-as-figure character, the arc is structurally distinctive: it covers a specific operational role within the broader Lucifer-faction biography rather than a single individual's life-trajectory in the way Yahweh's or Jesus's biographical arc does. The detailed treatment of the Lucifer faction's broader career lives in the [Lucifer](../lucifer/) entry; this section focuses specifically on the Serpent's Eden-disclosure role and its immediate operational consequences.
+## Биографическая дуга
 
-### Pre-Eden faction formation
+Биографическая дуга Змея, как её читает фреймворк, может быть разделена на четыре хронологические фазы. Учитывая характер фигуры как фракции-как-фигуры, дуга структурно отличительна: она охватывает конкретную операционную роль внутри более широкой биографии фракции Люцифера, а не жизненную траекторию одного индивида так, как это делает биографическая дуга Яхве или Иисуса. Подробная трактовка более широкой карьеры фракции Люцифера живёт в статье [Люцифер](../lucifer/); этот раздел сосредоточен конкретно на роли Змея в эдемском раскрытии и её непосредственных операционных последствиях.
 
-On the corpus's reading, the dissenting faction within the Israel team of Elohim creators formed during the period of the team's work in Eden, in the late Age of Leo. The faction's distinctive position developed across the team's interaction with the synthesized humans: a subset of the team's scientists, working closely with the human population in their educational and observational roles, became attached to the humans they had synthesized and came to view the home-world's containment policy — the policy of withholding scientific and technological knowledge from the humans, reflected in the prohibition on the Tree of the Knowledge of Good and Evil — as wrong.
+### Доэдемское формирование фракции
 
-The dissenting position rested on several interconnected commitments. The first was the belief that the synthesized humans, having been created in functional adulthood with substantial cognitive capacity, were entitled to complete information about their situation rather than being kept in artificial ignorance. The second was the belief that the home-world's containment policy was politically motivated rather than ethically justified — the home world wanted to limit humans' technological advancement to prevent eventual peer-civilization status, but this motivation was not a moral argument the dissenting faction found compelling. The third was a kind of paternal-pedagogical commitment: the dissenting scientists had become teachers of the humans, and their teaching was constrained by the containment policy in ways the teachers themselves found distorting and inadequate.
+В прочтении корпуса диссидентская фракция внутри команды Израиля создателей Элохим сформировалась в период работы команды в Эдеме, в позднюю Эпоху Льва.{{ cite(id="the-book-which-tells-the-truth", text="[21]", title="Ворильон (Раэль), *Книга, говорящая правду* (1974), гл. 2 — диссидентская фракция и эдемское раскрытие") }} Отличительная позиция фракции развилась в ходе взаимодействия команды с синтезированными людьми: подмножество учёных команды, тесно работавших с человеческой популяцией в их образовательных и наблюдательных ролях, привязалось к людям, которых они синтезировали, и пришло к воззрению, что политика родного мира по сдерживанию — политика утаивания научного и технологического знания от людей, отражённая в запрете на Древо познания добра и зла, — была неправильна.
 
-The faction's leader was the figure later named Lucifer in the patristic-medieval Christian tradition (treated more fully under *Identifications and conflations* below). The faction's specific membership is not specified in the source material; the framework reads it as a substantial subset of the Israel team's scientific personnel rather than as the entirety of the team or as a small handful of individuals.
+Диссидентская позиция покоилась на нескольких взаимосвязанных убеждениях. Первое — убеждение, что синтезированные люди, будучи созданными во взрослой функциональной форме с существенной когнитивной способностью, имели право на полную информацию о своём положении, а не на содержание в искусственном неведении. Второе — убеждение, что политика сдерживания родного мира была политически мотивирована, а не этически оправдана: родной мир хотел ограничить технологическое продвижение людей, чтобы предотвратить итоговый статус цивилизации-равного, но эта мотивация не была моральным аргументом, который диссидентская фракция находила бы убедительным. Третье — род отеческо-педагогического обязательства: диссидентские учёные стали учителями людей, и их обучение было ограничено политикой сдерживания способами, которые сами учителя находили искажающими и неадекватными.
 
-### The Eden disclosure: late Leo
+Лидером фракции была фигура, позднее названная Люцифером в патристико-средневековой христианской традиции (рассматривается более полно в разделе *Отождествления и смешения* ниже). Конкретный состав фракции не уточняется в источнике; фреймворк читает её как существенное подмножество научного персонала команды Израиля, а не как всю команду или как небольшую горстку индивидов.
 
-The Eden disclosure event — the act narrated in Genesis 3 — occurred at a specific moment in the late Age of Leo, approximately at the boundary with the early Age of Cancer (c. 11,400 – 11,000 BCE on the corpus's chronology). The corpus reads the Genesis 3 narrative as preserving substantively accurate memory of the event, with the surface religious vocabulary covering specific operational realities.
+### Эдемское раскрытие: поздний Лев
 
-The act itself involved the dissenting faction providing the first humans (Adam and Eve) with access to the restricted scientific and technological materials of the garden — the materials that the prohibition on the Tree of the Knowledge of Good and Evil had restricted. The corpus does not specify the exact mechanism of the disclosure; the Genesis text's "eating of the fruit" is read as a stylized account of whatever specific transmission occurred (instruction, demonstration, transfer of information through whatever means the alliance's technology made possible).
+Событие эдемского раскрытия — акт, повествуемый в Бытии 3 — произошло в конкретный момент в поздней Эпохе Льва, приблизительно на границе с ранней Эпохой Рака (около 11 400 – 11 000 гг. до н. э. по хронологии корпуса). Корпус читает повествование Бытия 3 как сохраняющее содержательно точную память о событии, причём поверхностная религиозная лексика покрывает конкретные операционные реальности.
 
-The Serpent's specific role in the Genesis 3 narrative — engaging the woman in dialogue, contradicting the prohibition's death-threat, predicting the *Elohim*-like knowledge that would result — is read as the operational expression of the dissenting faction's position: a public articulation of the case for human scientific education, addressed to the human partners whom the faction had been teaching. The "deception" element that some Christian theological readings emphasize — the Serpent as deceiver, the act as fraudulent — is not present in the corpus's reading. The Serpent's claim that "you will not surely die" turned out to be operationally accurate (the humans did not die immediately upon eating); the claim that "you will be like Elohim, knowing good and evil" was also operationally accurate (the humans did acquire substantial knowledge they had previously lacked). The Serpent's intervention is read as a dissenting political action with specific consequences, not as a deception.
+Сам акт включал предоставление диссидентской фракцией первым людям (Адаму и Еве) доступа к ограниченным научным и технологическим материалам сада — материалам, которые запрет на Древо познания добра и зла ограничивал. Корпус не уточняет точный механизм раскрытия; «вкушение плода» текста Бытия читается как стилизованное изложение того конкретного переноса, который произошёл (наставление, демонстрация, передача информации какими бы то ни было средствами, которые делала возможными технология альянса).
 
-### The Eden settlement: post-Eden
+Конкретная роль Змея в повествовании Бытия 3 — вовлечение женщины в диалог, противоречие угрозе смерти из запрета, предсказание *Элохим*-подобного знания, которое последует — читается как операционное выражение позиции диссидентской фракции: публичная артикуляция доводов в пользу научного образования людей, обращённая к человеческим партнёрам, которых фракция обучала. Элемент «обмана», который подчёркивают некоторые христианские богословские прочтения — Змей как обманщик, акт как мошеннический — в прочтении корпуса отсутствует.{{ footnote(id="3") }} Утверждение Змея, что «нет, не умрёте», оказалось операционно точным (люди не умерли немедленно, вкусив); утверждение, что «вы будете, как Элохим, знающие добро и зло», также было операционно точным (люди действительно приобрели существенное знание, которого им ранее недоставало). Вмешательство Змея читается как диссидентское политическое действие с конкретными последствиями, а не как обман.
 
-Yahweh's response in Genesis 3:14–24 is read by the corpus as the home world's political verdict on the disclosure. The verdict has three components.
+### Эдемское урегулирование: послеэдемский период
 
-First, the Serpent (the dissenting faction) is condemned to remain on Earth in exile — the act narrated as "on your belly you shall go, and dust you shall eat all the days of your life." The corpus reads this as the loss of the faction's access to interstellar travel and to the technological apparatus that had previously distinguished them from the humans. The faction would no longer be able to return to the home world; their lives would be lived out on Earth on terms substantially closer to the humans they had taught.
+Ответ Яхве в Бытии 3:14–24 читается корпусом как политический приговор родного мира раскрытию. Приговор имеет три составляющие.
 
-Second, the woman and the human are expelled from the garden — removed from the controlled environment of the Eden installation and placed in the broader Eden region, required to subsist by their own labor on land that had not been specifically prepared for them. This expulsion is read as the operational consequence of the political settlement: the humans now possessed the prohibited knowledge, and the protective-controlled-environment policy could no longer be maintained.
+Во-первых, Змей (диссидентская фракция) осуждается остаться на Земле в изгнании — акт, повествуемый как «ты будешь ходить на чреве твоём, и будешь есть прах во все дни жизни твоей». Корпус читает это как потерю фракцией доступа к межзвёздному путешествию и к технологическому аппарату, который ранее отличал их от людей. Фракция более не сможет вернуться на родной мир; их жизни будут прожиты на Земле на условиях, существенно более близких к людям, которых они обучали.
 
-Third, the rest of the Israel team — the team members who had not joined the dissenting faction — was withdrawn from Earth back to the home world. The post-Eden Earth contained the human population (now with substantial scientific knowledge) and the small permanent Elohim presence of the exiled Lucifer faction (the Serpent in their disclosure role; the Lucifer faction in their broader career), with the rest of the alliance operating from a distance.
+Во-вторых, женщина и человек изгоняются из сада — удаляются из контролируемой среды эдемской установки и помещаются в более широкий эдемский регион, обязанные кормиться собственным трудом на земле, которая не была специально для них подготовлена. Это изгнание читается как операционное последствие политического урегулирования: люди теперь обладали запрещённым знанием, и политика защитно-контролируемой среды более не могла поддерживаться.
 
-The "enmity between your seed and her seed" of Genesis 3:15 is read as the long-term political-relational consequence of this settlement: the exiled faction and the lineage descended from the first humans would have a complicated and sometimes oppositional relationship across the subsequent generations. The faction's continuing teaching of the human population through the antediluvian period (treated in the [Antediluvian](../antediluvian/) and [Lucifer](../lucifer/) entries) is the positive side of this relationship; the various conflicts and antagonisms across the period are the negative side.
+В-третьих, остаток команды Израиля — члены команды, которые не присоединились к диссидентской фракции — был выведен с Земли обратно на родной мир. Послеэдемская Земля содержала человеческую популяцию (теперь с существенным научным знанием) и небольшое постоянное присутствие Элохим в лице изгнанной фракции Люцифера (Змей в их роли раскрытия; фракция Люцифера в их более широкой карьере), причём остальной альянс оперировал на расстоянии.
 
-### Continuing presence and post-Genesis-3 references
+«Вражда между семенем твоим и семенем её» из Бытия 3:15 читается как долгосрочное политическо-реляционное последствие этого урегулирования: изгнанная фракция и линия, нисходящая от первых людей, будут иметь сложные и порой оппозиционные отношения на протяжении последующих поколений. Продолжающееся обучение фракцией человеческой популяции на протяжении допотопного периода (рассматривается в статьях [Допотопный](../antediluvian/) и [Люцифер](../lucifer/)) — это положительная сторона этих отношений; различные конфликты и антагонизмы на протяжении периода — отрицательная сторона.
 
-The Serpent specifically — the Lucifer faction in their Eden-disclosure role — does not reappear by name in the Hebrew Bible after Genesis 3. The Lucifer faction's broader career, which includes their continuing teaching role across the antediluvian period, their involvement in the *benei ha-Elohim* unions of Genesis 6:1–4 producing the Nephilim, and their post-Flood operational status, is treated in the [Lucifer](../lucifer/) entry.
+### Продолжающееся присутствие и упоминания после Бытия 3
 
-The references to "the ancient serpent" in the New Testament (Revelation 12:9, 20:2) conflate the Genesis 3 Serpent with Satan and the devil — a conflation the corpus reads as a specific theological development of the post-biblical period, treated under *Identifications and conflations* below. These New Testament references are not, on the corpus's reading, additional information about the Serpent specifically; they reflect later interpretive elaboration of the underlying Eden material.
+Змей конкретно — фракция Люцифера в их роли эдемского раскрытия — не появляется вновь по имени в Еврейской Библии после Бытия 3. Более широкая карьера фракции Люцифера, которая включает их продолжающуюся учительскую роль на протяжении допотопного периода, их участие в союзах *бней ха-Элохим* из Бытия 6:1–4, производящих нефилим, и их послепотопный операционный статус, рассматривается в статье [Люцифер](../lucifer/).
 
-## Role in the framework
+Упоминания «древнего змия» в Новом Завете (Откровение 12:9, 20:2) смешивают Змея Бытия 3 с Сатаной и дьяволом — смешение, которое корпус читает как конкретное богословское развитие послебиблейского периода, рассматриваемое в разделе *Отождествления и смешения* ниже. Эти новозаветные упоминания не являются, в прочтении корпуса, дополнительной информацией о Змее конкретно; они отражают позднейшую интерпретационную разработку лежащего в основе эдемского материала.
 
-The Serpent's role in the framework is structured by two interconnected features: the four-figure political taxonomy that distinguishes Serpent from adjacent figures, and the structural significance of the Eden disclosure as a pivotal moment in the framework's broader political history.
+## Роль во фреймворке
 
-### The four-figure political taxonomy
+Роль Змея во фреймворке структурируется двумя взаимосвязанными чертами: четырёхфигурной политической таксономией, отличающей Змея от смежных фигур, и структурной значимостью эдемского раскрытия как поворотного момента в более широкой политической истории фреймворка.
 
-The framework distinguishes carefully between four figures whose relations have been confused by later religious tradition:
+### Четырёхфигурная политическая таксономия
 
-- **Yahweh** is the leader of the Israel team and the figure who pronounces the consequences in Genesis 3. He is the alliance moderate — preserving the broader Earth project under containment policy, opposing both the home-world abolitionists who wanted the project terminated and the dissenting Lucifer faction who wanted full disclosure. Yahweh's position is the maintenance of the project on the home world's terms.
+Фреймворк тщательно различает между четырьмя фигурами, чьи отношения были спутаны позднейшей религиозной традицией:
 
-- **Lucifer** is the leader of the dissenting faction, exiled after the Eden transgression, remaining on Earth as the educator of the early human civilization. Lucifer's position is the expansion of the project's terms to include human full-information access, with the Lucifer faction acting on this position through the Eden disclosure and through subsequent continuing-teaching activities across the antediluvian period.
+- **Яхве** — лидер команды Израиля и фигура, провозглашающая последствия в Бытии 3. Он умеренный из альянса — сохраняющий более широкий земной проект под политикой сдерживания, противостоящий как аболиционистам родного мира, которые хотели прекращения проекта, так и диссидентской фракции Люцифера, которая хотела полного раскрытия. Позиция Яхве — поддержание проекта на условиях родного мира.
 
-- **The Serpent** is Lucifer and his faction in their specific Eden-episode role at the moment of the disclosure transgression. The name *naḥash* is the Genesis 3 designation, used at the moment of the act; the broader Lucifer career carries different naming across different periods (Lucifer in the Latin-tradition naming; Helel ben Shahar in the Hebrew of Isaiah 14:12; the Greek *ophis* in the Septuagint; various other traditional designations).
+- **Люцифер** — лидер диссидентской фракции, изгнанный после эдемского преступления, остающийся на Земле как воспитатель ранней человеческой цивилизации. Позиция Люцифера — расширение условий проекта, чтобы включить доступ людей к полной информации, причём фракция Люцифера действует согласно этой позиции через эдемское раскрытие и через последующие продолжающиеся учительские действия на протяжении допотопного периода.
 
-- **Satan** is a separate figure entirely — leading a different and more thoroughly oppositional faction within the broader Elohim civilization, whose role is principally that of the **prosecutor of humanity** before the home world's councils. Satan's position is that the Earth project should not have been undertaken at all, that the synthesized humans are a mistake, that the project should be terminated rather than reformed. Satan is not the Eden Serpent; the two figures are politically distinct.
+- **Змей** — это Люцифер и его фракция в их конкретной роли эдемского эпизода в момент преступления раскрытия. Имя *naḥash* — это обозначение Бытия 3, используемое в момент акта; более широкая карьера Люцифера несёт разные именования в разные периоды (Люцифер в именовании латинской традиции; Helel ben Shahar в иврите Исаии 14:12; греческое *ophis* в Септуагинте; различные другие традиционные обозначения).
 
-The four-figure political taxonomy is one of the most consequential analytical contributions of the framework's reading. Later religious tradition collapsed Lucifer, the Serpent, and Satan into a single figure of cosmic evil, with the result that the underlying political distinctions disappeared and the operational reality became inaccessible. The framework's reading recovers the distinctions and treats the post-biblical conflation as a specific historical interpretive development rather than as the original textual referent.
+- **Сатана** — это совершенно отдельная фигура, возглавляющая иную и более основательно оппозиционную фракцию внутри более широкой цивилизации Элохим, чья роль — принципиально роль **обвинителя человечества** перед советами родного мира. Позиция Сатаны в том, что земной проект вообще не следовало предпринимать, что синтезированные люди — ошибка, что проект следует прекратить, а не реформировать. Сатана — не Змей Эдема; две фигуры политически различны.
 
-### The Eden disclosure as pivotal political moment
+Четырёхфигурная политическая таксономия — один из наиболее консеквенциальных аналитических вкладов прочтения фреймворка.{{ footnote(id="1") }} Позднейшая религиозная традиция свела Люцифера, Змея и Сатану к единой фигуре космического зла, с результатом, что лежащие в основе политические различия исчезли, а операционная реальность стала недоступной. Прочтение фреймворка восстанавливает различия и трактует послебиблейское смешение как конкретное историческое интерпретационное развитие, а не как изначальный текстовый референт.
 
-The Eden disclosure is, on the corpus's reading, one of the most consequential single events in the alliance's broader history with Earth. The event's significance comes from its irreversible character: once the humans had acquired substantial scientific knowledge, the home world's containment policy could not be restored. The post-Eden settlement — the exile of the dissenting faction, the withdrawal of the rest of the team, the expulsion of the humans from the controlled environment — was the only available response to the new political reality the disclosure had created.
+### Эдемское раскрытие как поворотный политический момент
 
-The framework reads the Eden disclosure as the founding political crisis of the post-creation period. Every subsequent operational decision the alliance has made about Earth has been a response to or a development of the post-Eden situation: the antediluvian period's policy of leaving the human civilization to develop under continuing Lucifer-faction tutelage; the Flood event's response to the antediluvian civilization's development (treated in the [Great Flood](../great-flood/) entry); the post-Flood reconstruction of the alliance's relationship with the surviving human population through the patriarchal lineage; the Aries-age Mosaic intervention; the Piscean-age Christ mission; the ongoing Aquarian-age open-return preparation. Each of these is, in the corpus's reading, an operational response to the political situation the Eden disclosure created.
+Эдемское раскрытие — это, в прочтении корпуса, одно из наиболее консеквенциальных единичных событий в более широкой истории альянса с Землёй. Значимость события исходит из его необратимого характера: как только люди приобрели существенное научное знание, политика сдерживания родного мира не могла быть восстановлена. Послеэдемское урегулирование — изгнание диссидентской фракции, вывод остатка команды, изгнание людей из контролируемой среды — было единственным доступным ответом на новую политическую реальность, которую создало раскрытие.
 
-The Serpent specifically is therefore not just a figure in one episode of one ancient narrative; the Serpent is the inaugural figure of the post-Eden political configuration, the agent whose specific act at a specific moment shaped the entire subsequent history of the alliance's engagement with Earth. The corpus's reading treats this as the structural reason the Eden Serpent has been so theologically magnified across two millennia of Christian reflection — even though the specific theological elaborations (the Fall, the original sin, the cosmic devil) are not the corpus's reading, the underlying intuition that *the Genesis 3 figure is structurally central to everything that follows* is accurate.
+Фреймворк читает эдемское раскрытие как учредительный политический кризис послесотворительного периода. Каждое последующее операционное решение, которое альянс принимал о Земле, было ответом на послеэдемскую ситуацию или её развитием: политика допотопного периода оставлять человеческую цивилизацию развиваться под продолжающимся наставничеством фракции Люцифера; ответ события Потопа на развитие допотопной цивилизации (рассматривается в статье [Великий потоп](../great-flood/)); послепотопная реконструкция отношений альянса с выжившей человеческой популяцией через патриархальную линию; мозаическое вмешательство Эпохи Овна; миссия Христа Эпохи Рыб; продолжающаяся подготовка открытого возвращения Эпохи Водолея. Каждое из них является, в прочтении корпуса, операционным ответом на политическую ситуацию, которую создало эдемское раскрытие.
 
-### What the framework does not claim
+Змей конкретно поэтому не просто фигура в одном эпизоде одного древнего повествования; Змей — это учредительная фигура послеэдемской политической конфигурации, агент, чей конкретный акт в конкретный момент сформировал всю последующую историю взаимодействия альянса с Землёй. Прочтение корпуса трактует это как структурную причину, по которой Змей Эдема был столь богословски возвеличен на протяжении двух тысячелетий христианских размышлений — хотя конкретные богословские разработки (Грехопадение, первородный грех, космический дьявол) не являются прочтением корпуса, лежащая в основе интуиция, что *фигура Бытия 3 структурно центральна для всего, что следует*, точна.
 
-The framework does not claim that the Serpent's faction is morally good in an unqualified sense. The framework's reading recognizes that the faction's actions had substantial negative consequences: the loss of the controlled Eden environment, the eventual progression to the Flood event as the home world's response to the antediluvian civilization the faction had helped develop, the long-term political conflicts that the post-Eden settlement produced. Yahweh's condemnation in Genesis 3 is read as a real political verdict rather than as an unjust persecution of well-meaning dissidents — the disclosure had real costs that the dissenting faction had to be held accountable for.
+### Чего фреймворк не утверждает
 
-The framework also does not claim that the faction's actions were unambiguously bad. The dissenting position — that humans are entitled to complete information rather than being kept in artificial ignorance — has substantial moral weight, and the corpus does not read the alliance's containment policy as obviously correct against the disclosure position. The framework's reading is that this is a genuine political disagreement with real costs and benefits on both sides, with the operational outcome (the eventual transition to the Aquarian-age open disclosure that the framework reads itself as conducting) ultimately moving closer to the dissenting position than to the original containment policy.
+Фреймворк не утверждает, что фракция Змея морально хороша в безоговорочном смысле. Прочтение фреймворка признаёт, что действия фракции имели существенные негативные последствия: потерю контролируемой эдемской среды, итоговую прогрессию к событию Потопа как ответу родного мира на допотопную цивилизацию, которую фракция помогла развить, долгосрочные политические конфликты, которые произвело послеэдемское урегулирование. Осуждение Яхве в Бытии 3 читается как реальный политический приговор, а не как несправедливое преследование благонамеренных диссидентов — раскрытие имело реальные издержки, за которые диссидентская фракция должна была быть привлечена к ответственности.
 
-This nuanced reading distinguishes the framework from both the conventional Christian theological reading (which treats the Serpent as cosmic evil) and from the Gnostic Ophite reversal (which treats the Serpent as positively good). The framework's reading is that the Serpent represents a real dissenting political position within the alliance, with the dissent having real merits and real costs, condemned by the home world for specific political reasons but partially vindicated by the long-term operational trajectory.
+Фреймворк также не утверждает, что действия фракции были однозначно плохими. Диссидентская позиция — что люди имеют право на полную информацию, а не на содержание в искусственном неведении — имеет существенный моральный вес, и корпус не читает политику сдерживания альянса как очевидно правильную против позиции раскрытия. Прочтение фреймворка состоит в том, что это подлинное политическое разногласие с реальными издержками и выгодами с обеих сторон, причём операционный исход (итоговый переход к открытому раскрытию Эпохи Водолея, которое фреймворк читает как проводимое им самим) в конечном счёте движется ближе к позиции диссидентов, чем к изначальной политике сдерживания.
 
-## Identifications and conflations
+Это нюансированное прочтение отличает фреймворк как от конвенционального христианского богословского прочтения (которое трактует Змея как космическое зло), так и от гностического офитского переворачивания (которое трактует Змея как положительно хорошего). Прочтение фреймворка состоит в том, что Змей представляет реальную диссидентскую политическую позицию внутри альянса, с диссидентством, имеющим реальные достоинства и реальные издержки, осуждённым родным миром по конкретным политическим причинам, но частично оправданным долгосрочной операционной траекторией.
 
-The Serpent has been identified, conflated, and distinguished against more figures than perhaps any other figure in the Hebrew Bible. The post-biblical Christian theological tradition's collapse of Serpent, Lucifer, Satan, and the Devil into a single figure of cosmic evil is one of the most consequential interpretive moves in the history of Western religious thought. Recovering the original distinctions does substantial analytical work.
+## Отождествления и смешения
 
-### Serpent vs. Lucifer
+Змей был отождествлён, смешан и отличён против большего числа фигур, чем, пожалуй, любая другая фигура в Еврейской Библии. Сведение послебиблейской христианской богословской традицией Змея, Люцифера, Сатаны и Дьявола к единой фигуре космического зла — это один из наиболее консеквенциальных интерпретационных ходов в истории западной религиозной мысли. Восстановление изначальных различий совершает существенную аналитическую работу.
 
-The relationship between the Serpent and Lucifer is the framework's reading of *the same actors in different roles across different periods*. The Serpent is the Lucifer faction in their specific Eden-disclosure role at the moment of Genesis 3; Lucifer is the named leader of the same faction across their broader career, including the Eden disclosure but extending substantially before and after it.
+### Змей vs. Люцифер
 
-The name *Lucifer* itself is much later than the Genesis 3 narrative. The Latin *lux-ferre*, "light-bringer," is the Vulgate translation (Jerome, c. 405 CE) of the Hebrew *Helel ben Shahar* ("Day Star, son of the Dawn") in Isaiah 14:12. The Hebrew passage Isaiah 14:12 is a satirical lament over the fall of an arrogant figure typically read in mainstream biblical scholarship as referring to a specific historical king (probably the king of Babylon) rather than as a cosmological reference. The patristic-medieval Christian tradition (Origen, Tertullian, and the broader patristic tradition) developed the identification of Isaiah 14:12's *Helel* with the Eden Serpent and with the broader fallen-angel tradition, with the identification fixing in the Latin tradition through the Vulgate's specific translation choice.
+Отношение между Змеем и Люцифером — это прочтение фреймворком *тех же действующих лиц в разных ролях в разные периоды*. Змей — это фракция Люцифера в их конкретной роли эдемского раскрытия в момент Бытия 3; Люцифер — это именованный лидер той же фракции на протяжении их более широкой карьеры, включая эдемское раскрытие, но простирающейся существенно до и после него.
 
-The framework's use of "Lucifer" as the name of the Serpent's faction-leader is therefore traditional rather than textually direct: the corpus adopts the medieval Christian naming convention while recognizing that the name itself is centuries posterior to the Genesis events and reflects a specific interpretive tradition about how to connect Isaiah 14, Genesis 3, and the broader fallen-angel tradition. The corpus does not endorse the broader patristic-medieval cosmology that produced the naming; it adopts the name as a useful designation for the figure whose Genesis 3 role the corpus recovers.
+Само имя *Люцифер* много позже повествования Бытия 3. Латинское *lux-ferre*, «светоносный», — это перевод Вульгаты (Иероним, около 405 г. н. э.) еврейского *Helel ben Shahar* («Денница, сын зари») в Исаии 14:12. Еврейский фрагмент Исаия 14:12 — это сатирический плач о падении высокомерной фигуры, обыкновенно прочитываемой в мейнстримной библейской науке как отсылающей к конкретному историческому царю (вероятно, царю Вавилона), а не как космологическая отсылка. Патристико-средневековая христианская традиция (Ориген, Тертуллиан и более широкая патристическая традиция) развила отождествление *Helel* из Исаии 14:12 со Змеем Эдема и с более широкой традицией о падшем ангеле, причём отождествление фиксируется в латинской традиции через конкретный переводческий выбор Вульгаты.
 
-The Serpent and Lucifer are therefore, on the framework's reading, the same actor at different points in his career: Serpent in the moment of Genesis 3, Lucifer in his broader political role. The detailed treatment of Lucifer's broader career — the continuing teaching of the antediluvian human civilization, the leadership of the *benei ha-Elohim* unions producing the Nephilim, the post-Flood operational status, the ongoing relationship to the alliance's broader project — lives in the [Lucifer](../lucifer/) entry.
+Использование фреймворком «Люцифера» в качестве имени лидера фракции Змея поэтому традиционно, а не текстуально прямо: корпус принимает средневековую христианскую именовательную конвенцию, признавая при этом, что само имя на столетия позже событий Бытия и отражает конкретную интерпретационную традицию о том, как связать Исаию 14, Бытие 3 и более широкую традицию о падшем ангеле. Корпус не одобряет более широкую патристико-средневековую космологию, которая произвела это именование; он принимает имя как полезное обозначение для фигуры, чью роль из Бытия 3 корпус восстанавливает.
 
-### Serpent vs. Satan
+Змей и Люцифер поэтому, в прочтении фреймворка, — это одно действующее лицо в разных точках его карьеры: Змей в момент Бытия 3, Люцифер в его более широкой политической роли. Подробная трактовка более широкой карьеры Люцифера — продолжающееся обучение допотопной человеческой цивилизации, руководство союзами *бней ха-Элохим*, производящими нефилим, послепотопный операционный статус, продолжающееся отношение к более широкому проекту альянса — живёт в статье [Люцифер](../lucifer/).
 
-The distinction between the Serpent and Satan is one of the framework's most analytically consequential identifications. The two figures are politically distinct on the corpus's reading.
+### Змей vs. Сатана
 
-**Satan** in the Hebrew Bible (the term *ha-satan* in Job 1–2 and Zechariah 3:1–2; the proper noun *Satan* in 1 Chronicles 21:1) is the prosecutor or accuser figure — *ha-satan* literally means "the adversary" — operating in a quasi-judicial role within the alliance's deliberations. In Job 1–2, *ha-satan* presents himself before Yahweh among the *benei ha-Elohim* (the "sons of Elohim," i.e., Elohim civilization members), and proposes the test of Job's righteousness. The figure is not yet the cosmic evil of later Christian theology; he is a specific Elohim faction-leader operating in the prosecutor role, with the position of skepticism about humanity's capacity for genuine goodness.
+Различение между Змеем и Сатаной — одно из наиболее аналитически консеквенциальных отождествлений фреймворка. Две фигуры политически различны в прочтении корпуса.
 
-The corpus's reading treats Satan as the leader of the home-world abolitionist faction within the broader Elohim civilization — the faction that has consistently opposed the Earth project from its inception, on the grounds that synthetic creations capable of equaling or surpassing their makers are fundamentally dangerous. Satan's position is that the Earth experiment was a mistake and should be terminated; his operational role across the broader Hebrew Bible material is the prosecution of humanity before the alliance councils, presenting evidence that humanity has failed to meet the standards required for the project's continuation.
+**Сатана** в Еврейской Библии (термин *ha-satan* в Иове 1–2 и Захарии 3:1–2; имя собственное *Satan* в 1 Паралипоменон 21:1) — это фигура обвинителя или прокурора — *ha-satan* буквально означает «противник» — оперирующая в квазисудебной роли внутри совещаний альянса. В Иове 1–2 *ha-satan* предстаёт перед Яхве среди *бней ха-Элохим* («сынов Элохим», т. е. членов цивилизации Элохим) и предлагает испытание праведности Иова. Фигура ещё не является космическим злом позднейшей христианской теологии; он — конкретный лидер фракции Элохим, оперирующий в роли обвинителя, с позицией скептицизма относительно способности человечества к подлинному добру.
 
-Satan and the Serpent are therefore politically opposed in a fundamental way. The Serpent (Lucifer faction) wanted the Earth project expanded — humans given full information, treated as peers, allowed to develop without artificial restriction. Satan wanted the project terminated — humans treated as a failed experiment, eliminated rather than continued. Yahweh's moderate position lies between them: preservation of the project under containment policy, against both the disclosure position (Lucifer) and the abolition position (Satan).
+Прочтение корпуса трактует Сатану как лидера аболиционистской фракции родного мира внутри более широкой цивилизации Элохим — фракции, которая последовательно противостояла земному проекту с его начала на тех основаниях, что синтетические творения, способные сравняться со своими создателями или превзойти их, фундаментально опасны. Позиция Сатаны в том, что земной эксперимент был ошибкой и должен быть прекращён; его операционная роль на протяжении более широкого материала Еврейской Библии — обвинение человечества перед советами альянса, представление свидетельств, что человечество не сумело достичь стандартов, требуемых для продолжения проекта.
 
-The post-biblical Jewish and Christian conflation of Serpent and Satan obliterates this political structure. On the conflated reading, the Eden Serpent and the Job Satan are the same figure, both representing cosmic evil. On the framework's reading, they are political opposites whose conflation collapses the underlying political reality into a single undifferentiated category. The four-figure political taxonomy is the corpus's recovery of the original distinctions.
+Сатана и Змей поэтому политически противоположны фундаментальным образом. Змей (фракция Люцифера) хотел расширения земного проекта — предоставления людям полной информации, обращения с ними как с равными, позволения им развиваться без искусственного ограничения. Сатана хотел прекращения проекта — обращения с людьми как с провалившимся экспериментом, устранённым, а не продолженным. Умеренная позиция Яхве лежит между ними: сохранение проекта под политикой сдерживания, против как позиции раскрытия (Люцифер), так и позиции упразднения (Сатана).
 
-### Serpent vs. the Devil
+Послебиблейское иудейское и христианское смешение Змея и Сатаны уничтожает эту политическую структуру. В смешанном прочтении Змей Эдема и Сатана Иова — это одна фигура, обе представляющие космическое зло. В прочтении фреймворка они — политические противоположности, чьё смешение сводит лежащую в основе политическую реальность к единой недифференцированной категории. Четырёхфигурная политическая таксономия — это восстановление корпусом изначальных различий.
 
-The Devil (Greek *diabolos*, Latin *diabolus*) emerges as a developed Christian theological figure across the New Testament and patristic period. The Greek *diabolos* literally means "slanderer" or "accuser," and is used in the Septuagint to translate Hebrew *ha-satan* — establishing the equivalence between the Hebrew "adversary" and the Greek "slanderer" that the Christian tradition would carry forward.
+### Змей vs. Дьявол
 
-The New Testament's developed devil-figure incorporates substantial material from multiple sources: the Hebrew *satan* tradition; the Eden Serpent; the Watchers tradition of 1 Enoch and the broader Second Temple apocalyptic literature; the Hellenistic-Jewish conceptions of evil cosmic powers. The Revelation 12:9 verse — *"that ancient serpent, who is called the devil and Satan, the deceiver of the whole world"* — is the principal text in which all these strands are explicitly fused into a single figure.
+Дьявол (греч. *diabolos*, лат. *diabolus*) возникает как развитая христианская богословская фигура на протяжении Нового Завета и патристического периода. Греческое *diabolos* буквально означает «клеветник» или «обвинитель» и используется в Септуагинте для перевода еврейского *ha-satan* — устанавливая эквивалентность между еврейским «противником» и греческим «клеветником», которую христианская традиция понесёт вперёд.
 
-The corpus reads the New Testament Devil as a specific theological synthesis rather than as a single underlying referent. The components of the synthesis (the Hebrew satan, the Eden Serpent, the Watchers, the various apocalyptic-tradition evil powers) are operationally distinct on the framework's reading — different actors in different roles at different periods, conflated into a single theological category by the post-biblical Christian tradition. The conflation is theologically coherent within Christian tradition's own terms but disappears the underlying political-operational distinctions the framework recovers.
+Развитая фигура дьявола Нового Завета вбирает существенный материал из нескольких источников: еврейскую традицию *satan*; Змея Эдема; традицию Стражей 1 Еноха и более широкую апокалиптическую литературу Второго храма; эллинистическо-иудейские концепции злых космических сил. Стих Откровения 12:9 — *«древний змий, называемый диаволом и сатаною, обольщающий всю вселенную»* — это главный текст, в котором все эти нити эксплицитно сплавлены в единую фигуру.
 
-The corpus does not endorse the unified Devil figure. The framework's reading treats the Devil category as a theological synthesis whose underlying components require separate treatment: the Eden Serpent in this entry; Satan in the [Satan](../satan/) entry; Lucifer in the [Lucifer](../lucifer/) entry; the broader fallen-angel tradition in the [Sons of Elohim](../sons-of-elohim/) and [Watchers](../watchers/) entries.
+Корпус читает Дьявола Нового Завета как конкретный богословский синтез, а не как единый лежащий в основе референт. Составляющие синтеза (еврейский satan, Змей Эдема, Стражи, различные злые силы апокалиптической традиции) операционно различны в прочтении фреймворка — разные действующие лица в разных ролях в разные периоды, смешанные в единую богословскую категорию послебиблейской христианской традицией. Смешение богословски когерентно в собственных терминах христианской традиции, но устраняет лежащие в основе политическо-операционные различия, которые восстанавливает фреймворк.
 
-### Serpent vs. Leviathan
+Корпус не одобряет единую фигуру Дьявола. Прочтение фреймворка трактует категорию Дьявола как богословский синтез, чьи лежащие в основе составляющие требуют отдельной трактовки: Змей Эдема в этой статье; Сатана в статье [Сатана](../satan/); Люцифер в статье [Люцифер](../lucifer/); более широкая традиция о падшем ангеле в статьях [Сыны Элохим](../sons-of-elohim/) и [Стражи](../watchers/).
 
-Leviathan is a chaos-serpent of distinct mythological lineage from the Eden Serpent. Leviathan appears principally in Job 41 (the most extended treatment), Psalm 74:14, Psalm 104:26, Isaiah 27:1, and Isaiah 51:9. The Leviathan tradition is structurally connected to the broader ancient Near Eastern chaos-serpent / dragon-of-the-deep motif, with parallels in the Babylonian *Tiamat*, the Ugaritic *Lotan* (the closest direct cognate to Hebrew *Leviathan*), the Sumerian *mušmaḫḫū*, and the various other ancient Near Eastern primordial-chaos figures.
+### Змей vs. Левиафан
 
-The Leviathan / chaos-serpent tradition is operationally distinct from the Eden Serpent. Leviathan is primordial, oceanic, cosmologically pre-creational (or at least pre-Eden), and represents the chaotic state from which order is wrested by a divine champion. The Eden Serpent is created within the Eden installation, operates through speech and dialogue with the humans, and is a faction-leader rather than a cosmic-chaos figure. The two figures share the *naḥash* term in some passages (Isaiah 27:1 uses *naḥash bariaḥ* for Leviathan) but the underlying referent is different.
+Левиафан — это змей-хаос отличной мифологической линии от Змея Эдема. Левиафан появляется главным образом в Иове 41 (наиболее пространная трактовка), Псалме 73:14, Псалме 103:26, Исаии 27:1 и Исаии 51:9. Традиция Левиафана структурно связана с более широким древнеближневосточным мотивом змея-хаоса / дракона-бездны, с параллелями в вавилонской *Тиамат*, угаритском *Лотане* (ближайший прямой когнат еврейского *Левиафана*), шумерском *mušmaḫḫū* и различных других древнеближневосточных фигурах изначального хаоса.
 
-The corpus reads the Leviathan tradition as preserving fragmentary memory of pre-Eden cosmological conditions or of subsequent oceanic catastrophes (the Flood event has substantial connections to Leviathan-tradition material in some readings) — distinct from the Eden episode and the political-faction material the Eden Serpent represents. The detailed treatment of Leviathan lives in the [Leviathan](../leviathan/) entry.
+Традиция Левиафана / змея-хаоса операционно отлична от Змея Эдема. Левиафан изначален, океаничен, космологически досотворителен (или по крайней мере доэдемский) и представляет хаотическое состояние, из которого порядок вырывается божественным защитником. Змей Эдема создан внутри эдемской установки, оперирует через речь и диалог с людьми и является лидером фракции, а не фигурой космического хаоса. Две фигуры разделяют термин *naḥash* в некоторых фрагментах (Исаия 27:1 использует *naḥash bariaḥ* для Левиафана), но лежащий в основе референт иной.
 
-### The Christian conflation history
+Корпус читает традицию Левиафана как сохраняющую фрагментарную память о доэдемских космологических условиях или о последующих океанических катастрофах (событие Потопа имеет существенные связи с материалом традиции Левиафана в некоторых прочтениях) — отличную от эдемского эпизода и от материала о политической фракции, который представляет Змей Эдема. Подробная трактовка Левиафана живёт в статье [Левиафан](../leviathan/).
 
-The conflation of Serpent, Lucifer, Satan, and the Devil into a single figure of cosmic evil is one of the most documented developments in the history of Christian theology. The principal stages:
+### История христианского смешения
 
-- **The Wisdom of Solomon 2:24** (c. 1st century BCE – 1st century CE) provides the earliest explicit identification of the Eden Serpent with the devil-figure.
-- **The Second Temple pseudepigraphical literature** (1 Enoch, the Life of Adam and Eve, the Apocalypse of Moses) develops elaborate Adam-and-Serpent narratives in which the Serpent is identified with Satan or with Sammael.
-- **The New Testament's Revelation 12:9 and 20:2** fix the explicit Eden-Serpent / Satan / Devil identification in the Christian canon.
-- **Patristic theology** (Origen, Tertullian, the Cappadocian fathers, Augustine) elaborates the unified devil-figure as the principal cosmic adversary, with substantial elaboration of the Eden Serpent's role in this broader cosmology.
-- **Medieval theology** (Aquinas, the broader medieval scholastic tradition) develops the demonological apparatus around the unified devil-figure.
-- **Reformation theology** preserves the basic conflation while developing distinctive Protestant elaborations.
+Сведение Змея, Люцифера, Сатаны и Дьявола к единой фигуре космического зла — это одно из наиболее документированных развитий в истории христианской теологии. Главные этапы:
 
-**Henry Ansgar Kelly**'s *Satan: A Biography* (2006) is the most comprehensive recent academic treatment of how the Satan figure developed across Hebrew Bible, Second Temple Jewish, and Christian sources. **Neil Forsyth**'s *The Old Enemy: Satan and the Combat Myth* (1987) traces the broader cosmic-adversary tradition from ancient Near Eastern combat-myth sources through the developed Christian Satan figure. **Elaine Pagels**'s *The Origin of Satan* (1995) examines the social-political contexts that shaped the developed Christian Satan figure. The scholarly consensus is that the unified Devil figure is a specific theological development of the post-biblical period, not a single underlying referent in the Hebrew Bible itself.
+- **Премудрость Соломона 2:24** (около I века до н. э. – I века н. э.) предоставляет наиболее раннее эксплицитное отождествление Змея Эдема с фигурой дьявола.
+- **Псевдоэпиграфическая литература Второго храма** (1 Енох, Жизнь Адама и Евы, Апокалипсис Моисея) развивает разработанные повествования об Адаме и Змее, в которых Змей отождествляется с Сатаной или с Самаэлем.
+- **Откровение 12:9 и 20:2 Нового Завета** фиксируют эксплицитное отождествление Змей-Эдема / Сатана / Дьявол в христианском каноне.
+- **Патристическая теология** (Ориген, Тертуллиан, каппадокийские отцы, Августин) разрабатывает единую фигуру дьявола как главного космического противника, с существенной разработкой роли Змея Эдема в этой более широкой космологии.
+- **Средневековая теология** (Аквинат, более широкая средневековая схоластическая традиция) развивает демонологический аппарат вокруг единой фигуры дьявола.
+- **Теология Реформации** сохраняет базовое смешение, развивая при этом отличительные протестантские разработки.
 
-The corpus's reading is consistent with the historical-critical observation that the Eden Serpent and the Hebrew Bible *satan* are distinct figures in the Hebrew text itself, with the conflation being a post-biblical development. The framework's reading extends the historical-critical observation by reframing the underlying ontology: the distinct figures are not just textually distinct but politically distinct on the framework's reading — different Elohim-civilization actors in different operational roles, with the conflation collapsing genuine political reality into theological abstraction.
+*Сатана: биография* (2006) **Генри Ансгара Келли** — наиболее всеобъемлющая недавняя академическая трактовка того, как развивалась фигура Сатаны на протяжении источников Еврейской Библии, иудаизма Второго храма и христианства.{{ cite(id="kelly-satan-biography", text="[1]", title="Келли, *Satan: A Biography* (2006)") }} *Древний враг: Сатана и боевой миф* (1987) **Нила Форсайта** прослеживает более широкую традицию о космическом противнике от древнеближневосточных источников боевого мифа через развитую христианскую фигуру Сатаны.{{ cite(id="forsyth-the-old-enemy", text="[2]", title="Форсайт, *The Old Enemy: Satan and the Combat Myth* (1987)") }} *Происхождение Сатаны* (1995) **Элейн Пейджелс** исследует социально-политические контексты, сформировавшие развитую христианскую фигуру Сатаны.{{ cite(id="pagels-origin-of-satan", text="[3]", title="Пейджелс, *The Origin of Satan* (1995)") }} Научный консенсус состоит в том, что единая фигура Дьявола — это конкретное богословское развитие послебиблейского периода, а не единый лежащий в основе референт в самой Еврейской Библии.
 
-## Modern reinterpretations
+Прочтение корпуса согласуется с историко-критическим наблюдением о том, что Змей Эдема и *satan* Еврейской Библии — это различные фигуры в самом еврейском тексте, причём смешение является послебиблейским развитием. Прочтение фреймворка расширяет историко-критическое наблюдение, переосмысляя лежащую в основе онтологию: различные фигуры не просто текстуально различны, но политически различны в прочтении фреймворка — разные действующие лица цивилизации Элохим в разных операционных ролях, причём смешение сводит подлинную политическую реальность к богословской абстракции.
 
-The Eden Serpent has been a major subject of modern reinterpretive engagement across multiple traditions. The principal strands:
+## Современные переинтерпретации
 
-### The Gnostic Ophite tradition
+Змей Эдема был главным предметом современного переинтерпретирующего привлечения в нескольких традициях. Главные нити:
 
-The **Ophites** (Greek *Ophitai*, "those of the serpent") were a Gnostic Christian sect of the second and third centuries CE, named for their distinctive reading of the Eden Serpent. The principal Ophite position reversed the standard Christian reading of Genesis 3: the Eden Serpent was treated as a positive figure — the bringer of *gnosis* (true spiritual knowledge) — while the Yahweh of the Hebrew Bible was treated as the demiurge, a lesser god who wanted to keep humans in ignorance for his own purposes. The eating from the Tree of the Knowledge of Good and Evil was therefore a positive act of liberation rather than a sinful transgression.
+### Гностическая офитская традиция
 
-The Ophite movement is principally known through the polemical treatments of Irenaeus (*Against Heresies* I.30), Hippolytus, Origen (*Contra Celsum*), and Epiphanius — all opponents of the Ophite position who described it for purposes of refutation. The discovery of the Nag Hammadi library in 1945 substantially expanded primary-source access to Gnostic Christianity more broadly, with several texts (the *Hypostasis of the Archons*, *On the Origin of the World*, the *Apocryphon of John*) preserving Ophite-adjacent material on the Eden Serpent and the demiurge.
+**Офиты** (греч. *Ophitai*, «те, кто от змея») были гностической христианской сектой второго и третьего веков н. э., названной за их отличительное прочтение Змея Эдема. Главная офитская позиция переворачивала стандартное христианское прочтение Бытия 3: Змей Эдема трактовался как положительная фигура — носитель *гнозиса* (истинного духовного знания) — тогда как Яхве Еврейской Библии трактовался как демиург, меньший бог, который хотел держать людей в неведении в своих собственных целях. Вкушение от Древа познания добра и зла было поэтому положительным актом освобождения, а не греховным преступлением.
 
-Related Gnostic sects with overlapping but distinct positions include the **Sethians** (who treated Seth as the principal positive Adamic-line figure and the Serpent as either positive or instrumental) and the **Cainites** (who treated Cain, the line of Cain, the Sodomites, and Judas Iscariot as positive figures against the demiurgic Hebrew Bible tradition).
+Офитское движение известно главным образом через полемические трактовки Иринея (*Против ересей* I.30), Ипполита, Оригена (*Против Цельса*) и Епифания — все противники офитской позиции, которые описывали её для целей опровержения. Открытие библиотеки Наг-Хаммади в 1945 году существенно расширило доступ к первоисточникам гностического христианства в целом, причём несколько текстов (*Ипостась архонтов*, *О происхождении мира*, *Апокриф Иоанна*) сохраняют офитско-смежный материал о Змее Эдема и демиурге.{{ cite(id="nag-hammadi-library", text="[4]", title="Робинсон (ред.), *The Nag Hammadi Library in English* (1988)") }}{{ cite(id="gnostic-scriptures", text="[5]", title="Лейтон, *The Gnostic Scriptures* (1987)") }} *Гностические Евангелия* (1979) Элейн Пейджелс — главное доступное научное введение в этот материал.{{ cite(id="pagels-gnostic-gospels", text="[6]", title="Пейджелс, *The Gnostic Gospels* (1979)") }}
 
-The corpus's relationship to the Ophite tradition is structurally interesting. The Ophite reading shares with the framework's reading the recognition that the Eden Serpent transmitted valuable knowledge to humanity and that the standard Christian reading (Serpent as cosmic evil) is wrong. The corpus does not endorse the broader Gnostic anti-cosmic theology — the framework does not treat the material world as evil, does not treat the Hebrew Bible Yahweh as a malevolent demiurge, and does not treat the Christian salvation-narrative as concerning escape from material existence. But the corpus registers the Ophite reading of the Serpent specifically as preserving fragmentary memory of the operational reality the framework recovers: the Serpent did transmit valuable knowledge, and the conventional theological reading of the act as evil is mistaken.
+Родственные гностические секты с перекрывающимися, но отличными позициями включают **сифиан** (которые трактовали Сифа как главную положительную фигуру адамической линии, а Змея — как положительного или инструментального) и **каинитов** (которые трактовали Каина, линию Каина, содомлян и Иуду Искариота как положительные фигуры против демиургической традиции Еврейской Библии).
 
-The corpus's reading might be characterized as *Gnostic-adjacent on the Serpent specifically while non-Gnostic on the broader cosmological questions* — a position that is structurally distinctive within the modern reinterpretive landscape.
+Отношение корпуса к офитской традиции структурно интересно. Офитское прочтение разделяет с прочтением фреймворка признание того, что Змей Эдема передал человечеству ценное знание и что стандартное христианское прочтение (Змей как космическое зло) неверно. Корпус не одобряет более широкую гностическую антикосмическую теологию — фреймворк не трактует материальный мир как зло, не трактует Яхве Еврейской Библии как злонамеренного демиурга и не трактует христианское повествование о спасении как касающееся бегства из материального существования. Но корпус фиксирует офитское прочтение Змея конкретно как сохраняющее фрагментарную память об операционной реальности, которую восстанавливает фреймворк: Змей действительно передал ценное знание, и конвенциональное богословское прочтение акта как зла ошибочно.
 
-### Elaine Pagels: *Adam, Eve, and the Serpent* (1988)
+Прочтение корпуса можно охарактеризовать как *гностико-смежное относительно Змея конкретно, но негностическое относительно более широких космологических вопросов* — позиция, которая структурно отличительна в современном переинтерпретирующем ландшафте.
 
-**Elaine Pagels**'s *Adam, Eve, and the Serpent* (1988) is the standard contemporary treatment of how the Eden narrative's interpretation has shaped Western thought across two millennia. Pagels traces the development of the Christian reading of Genesis 3 from the early Christian centuries through Augustine's foundational synthesis and into the medieval and modern traditions. Her principal argument is that Augustine's specific reading of Genesis 3 — the doctrine of original sin, the inheritance of guilt, the subjugation of women that the Genesis 3:16 text was used to justify — is a specific theological development that became dominant in Western Christianity but was not the only available reading and was contested by alternative early-Christian positions.
+### Элейн Пейджелс: *Адам, Ева и Змей* (1988)
 
-Pagels's earlier *The Gnostic Gospels* (1979) provides the broader context for the Gnostic alternative readings, including substantial material on the Ophite and related sects. *The Origin of Satan* (1995) extends the analysis to the development of the Satan figure specifically.
+*Адам, Ева и Змей* (1988) **Элейн Пейджелс** — это стандартная современная трактовка того, как интерпретация эдемского повествования сформировала западную мысль на протяжении двух тысячелетий.{{ cite(id="pagels-adam-eve-serpent", text="[7]", title="Пейджелс, *Adam, Eve, and the Serpent* (1988)") }} Пейджелс прослеживает развитие христианского прочтения Бытия 3 от ранних христианских веков через основополагающий синтез Августина и в средневековую и современную традиции. Её главный аргумент в том, что конкретное прочтение Августином Бытия 3 — учение о первородном грехе, наследование вины, подчинение женщин, которое текст Бытия 3:16 использовался для оправдания — это конкретное богословское развитие, которое стало доминирующим в западном христианстве, но не было единственным доступным прочтением и оспаривалось альтернативными раннехристианскими позициями.
 
-The corpus engages Pagels's work as the most accessible contemporary scholarly treatment of the interpretive history of the Eden narrative. Pagels's analysis of how Augustine's specific theological synthesis became dominant despite alternative available readings is consistent with the corpus's own diagnosis: the Christian conflation of Serpent / Lucifer / Satan / Devil is a specific theological development rather than a textually-given inheritance.
+Более ранние *Гностические Евангелия* (1979) Пейджелс предоставляют более широкий контекст для гностических альтернативных прочтений, включая существенный материал об офитах и родственных сектах. *Происхождение Сатаны* (1995) расширяет анализ на развитие фигуры Сатаны конкретно.
 
-### Mauro Biglino on the Serpent
+Корпус привлекает работу Пейджелс как наиболее доступную современную научную трактовку интерпретационной истории эдемского повествования. Анализ Пейджелс того, как конкретный богословский синтез Августина стал доминирующим, несмотря на альтернативные доступные прочтения, согласуется с собственным диагнозом корпуса: христианское смешение Змей / Люцифер / Сатана / Дьявол — это конкретное богословское развитие, а не текстуально данное наследие.
 
-**Mauro Biglino**'s engagement with the Serpent is developed in *The Naked Bible: The Truth About the Most Famous Book in History* (2022, with Giorgio Cattaneo) and across his broader corpus. Biglino's reading overlaps with the framework's at several points: the Serpent is read as a member of the Elohim plurality rather than as a snake or as Satan; the Serpent is identified as belonging to a faction in conflict with the Eden commanders; the Genesis 3 narrative is read as a record of operational events at a controlled installation rather than as moral allegory. Biglino additionally develops the symbolic argument that the serpent in ancient iconography was a positive figure associated with deep knowledge, with the double-helix-like image of intertwined serpents (e.g., the caduceus) read as a graphic representation of DNA — a symbolic argument the corpus treats as suggestive though not load-bearing.
+### Мауро Биглино о Змее
 
-The points of substantive divergence between Biglino's reading and the corpus's reading are real. Biglino reads Genesis 3:15 ("I will put enmity between your seed and her seed") as describing two distinct genetic lineages and develops this into the claim that the Serpent had sexual relations with Eve, producing Cain, with Cain therefore being "of the lineage of the serpent" rather than of Adam. On Biglino's reading, the proliferation of this serpent-lineage through subsequent generations is the underlying cause of the Flood, which is sent specifically to cleanse the Earth of the contaminated bloodline.
+Привлечение **Мауро Биглино** Змея развито в *Голая Библия: правда о самой знаменитой книге в истории* (2022, с Джорджо Каттанео) и на протяжении его более широкого корпуса.{{ cite(id="the-naked-bible", text="[8]", title="Биглино и Каттанео, *The Naked Bible* (2022)") }} Прочтение Биглино перекрывается с прочтением фреймворка в нескольких точках: Змей читается как член множественности Элохим, а не как змея или как Сатана; Змей идентифицируется как принадлежащий к фракции в конфликте с командирами Эдема; повествование Бытия 3 читается как запись операционных событий на контролируемой установке, а не как нравственная аллегория. Биглино дополнительно развивает символический аргумент, что змей в древней иконографии был положительной фигурой, связанной с глубоким знанием, причём подобный двойной спирали образ переплетённых змей (например, кадуцей) читается как графическое представление ДНК — символический аргумент, который корпус трактует как наводящий на размышления, хотя и не несущий нагрузку.
 
-The corpus does not adopt this reading. The Raëlian source material identifies Cain straightforwardly as the son of Adam and Eve, born after the expulsion, with the Cain–Abel conflict turning on the matter of offerings rather than on bloodline. The Flood, on the framework's reading, is sent for a different reason: the rapid technological advancement of the post-Eden civilization had become threatening to the home-world authorities (treated in the [Antediluvian](../antediluvian/) and [Great Flood](../great-flood/) entries), and the Flood is the home world's response to that geopolitical situation, not a measure of bloodline purification.
+Точки содержательного расхождения между прочтением Биглино и прочтением корпуса реальны. Биглино читает Бытие 3:15 («И вражду положу между семенем твоим и семенем её») как описывающее две различные генетические линии и развивает это в утверждение, что Змей имел половые сношения с Евой, произведя Каина, причём Каин поэтому «из линии змея», а не из линии Адама. В прочтении Биглино распространение этой змеиной линии через последующие поколения является лежащей в основе причиной Потопа, который посылается специально для очищения Земли от заражённой кровной линии.
 
-The Biglino-vs-framework divergence on this point is genuine and substantive. Both readings agree that the Serpent is an Elohim faction figure rather than a snake or a metaphor; they disagree on whether the figure's transgression was epistemic (sharing of knowledge) or genetic (sexual interbreeding). The framework's reading is the epistemic one.
+Корпус не принимает это прочтение. Раэлианский источник прямолинейно идентифицирует Каина как сына Адама и Евы, рождённого после изгнания, причём конфликт Каин–Авель вращается вокруг вопроса о приношениях, а не вокруг кровной линии. Потоп, в прочтении фреймворка, посылается по иной причине: быстрое технологическое продвижение послеэдемской цивилизации стало угрожающим для властей родного мира (рассматривается в статьях [Допотопный](../antediluvian/) и [Великий потоп](../great-flood/)), и Потоп — это ответ родного мира на эту геополитическую ситуацию, а не мера очищения кровной линии.
 
-### Jean Sendy on the Serpent
+Расхождение Биглино-vs-фреймворк по этой точке подлинно и содержательно. Оба прочтения согласны, что Змей — это фигура фракции Элохим, а не змея или метафора; они расходятся в том, было ли преступление фигуры эпистемическим (разделение знания) или генетическим (половое скрещивание). Прочтение фреймворка — эпистемическое.{{ footnote(id="5") }}
 
-**Jean Sendy**'s engagement with the Eden Serpent is developed across his work, with particular concentration in *Ces dieux qui firent le ciel et la terre* (1969). Sendy reads the Serpent in the broader Eden narrative as a specific historical referent — a member of the Elohim plurality whose role at Eden was the transmission of knowledge to humans — within his broader treatment of the Hebrew Bible as preserving substantive operational content rather than allegorical theological content.
+### Жан Сенди о Змее
 
-Sendy's specific contributions to Serpent interpretation include the philological reading of *naḥash* in its operational rather than zoological sense, the recognition that the Genesis 3 figure cannot be straightforwardly Satan in any later-Christian sense, and the broader treatment of the Eden episode as a political event rather than as a moral fable. Sendy's approach is the principal scholarly antecedent of the corpus's adopted reading of the Serpent specifically, alongside the Raëlian source material that develops the corpus's specific framework.
+Привлечение **Жаном Сенди** Змея Эдема развито на протяжении его работы, с особенной концентрацией в *Ces dieux qui firent le ciel et la terre* (1969).{{ cite(id="those-gods-who-made-heaven-and-earth", text="[9]", title="Сенди, *Ces dieux qui firent le ciel et la terre* (1969)") }} Сенди читает Змея в более широком эдемском повествовании как конкретный исторический референт — члена множественности Элохим, чьей ролью в Эдеме была передача знания людям — в рамках его более широкой трактовки Еврейской Библии как сохраняющей содержательное операционное содержание, а не аллегорическое богословское содержание.
 
-### Paul Anthony Wallis: *The Eden Conspiracy* (2024)
+Конкретные вклады Сенди в интерпретацию Змея включают филологическое прочтение *naḥash* в его операционном, а не зоологическом смысле, признание того, что фигура Бытия 3 не может быть прямолинейно Сатаной в каком-либо позднехристианском смысле, и более широкую трактовку эдемского эпизода как политического события, а не как нравственной притчи. Подход Сенди — главный научный предшественник принятого корпусом прочтения Змея конкретно, наряду с раэлианским источником, который развивает конкретный фреймворк корпуса.
 
-**Paul Anthony Wallis**'s *The Eden Conspiracy* (2024) is the most direct recent engagement with the Eden narrative as a whole, including substantial treatment of the Serpent. Wallis reads the Serpent as a member of an Elohim faction whose disagreement with the Eden commanders' policy on human education led to the Eden disclosure event. Wallis's specific contributions to Serpent interpretation include the structural reading of the Eden political crisis (the disagreement between the senior alliance authority and the dissenting faction as the underlying conflict, with the Serpent as the operational expression of the dissenting position), the careful treatment of the cherubim and flaming sword as technological rather than mythological, and the comparative engagement with Sumerian and other ancient Near Eastern parallel narratives.
+### Пол Энтони Уоллис: *Эдемский заговор* (2024)
 
-Wallis's reading is broadly compatible with the corpus's reading and provides accessible recent treatment of material the framework has been developing for fifty years through the Sendy-Raëlian tradition.
+*Эдемский заговор* (2024) **Пола Энтони Уоллиса** — это наиболее прямое недавнее привлечение эдемского повествования в целом, включая существенную трактовку Змея.{{ cite(id="the-eden-conspiracy", text="[10]", title="Уоллис, *The Eden Conspiracy* (2024)") }} Уоллис читает Змея как члена фракции Элохим, чьё разногласие с политикой командиров Эдема по образованию людей привело к событию эдемского раскрытия. Конкретные вклады Уоллиса в интерпретацию Змея включают структурное прочтение эдемского политического кризиса (разногласие между старшей властью альянса и диссидентской фракцией как лежащий в основе конфликт, причём Змей — операционное выражение диссидентской позиции), тщательную трактовку херувимов и пламенного меча как технологических, а не мифологических, и сравнительное привлечение шумерских и других древнеближневосточных параллельных повествований.
 
-### Kabbalistic readings of the Serpent
+Прочтение Уоллиса в широком смысле совместимо с прочтением корпуса и предоставляет доступную недавнюю трактовку материала, который фреймворк развивал на протяжении пятидесяти лет через традицию Сенди-Раэля.
 
-The medieval Jewish Kabbalistic tradition developed extensive material on the Eden Serpent, with the figure receiving substantial elaboration across the *Zohar* (composed in its preserved form c. late 13th century) and the broader Kabbalistic literature. The principal Kabbalistic positions:
+### Каббалистические прочтения Змея
 
-The **Zoharic tradition** identifies the Serpent with **Sammael** — a name elsewhere associated with Satan, the angel of death, and various other negative cosmological figures. The Zohar develops elaborate narratives in which Sammael, mounted on the Serpent, seduces Eve, with substantial mystical elaboration of the cosmological consequences. The Zoharic Serpent material is thoroughly conflated with the broader fallen-figure tradition that the patristic Christian tradition had also developed.
+Средневековая иудейская каббалистическая традиция развила обширный материал об эдемском Змее, причём фигура получила существенную разработку в *Зохаре* (составленном в его сохранённой форме около конца XIII века) и в более широкой каббалистической литературе. Главные каббалистические позиции:
 
-The **Lurianic Kabbalah** (Isaac Luria, 16th century) develops the Serpent material within the broader cosmological structure of *Tzimtzum* (divine contraction), *Shevirat ha-Kelim* (the breaking of the vessels), and *Tikkun* (repair), with the Serpent's role in the Eden episode treated as part of the broader cosmic narrative of fall and restoration.
+**Зохарическая традиция** отождествляет Змея с **Самаэлем** — именем, в других местах связанным с Сатаной, ангелом смерти и различными другими негативными космологическими фигурами.{{ cite(id="zohar-pritzker", text="[11]", title="Зохар, Притцкеровское издание (Матт и др., 2003–2017)") }} Зохар развивает разработанные повествования, в которых Самаэль, восседающий на Змее, соблазняет Еву, с существенной мистической разработкой космологических последствий.{{ cite(id="major-trends-jewish-mysticism", text="[12]", title="Шолем, *Major Trends in Jewish Mysticism* (1941)") }} Зохарический материал о Змее основательно смешан с более широкой традицией о падшей фигуре, которую также развивала патристическая христианская традиция.
 
-The **Hasidic tradition** preserves Kabbalistic Serpent material with various elaborations across the eighteenth and nineteenth centuries.
+**Лурианская каббала** (Исаак Лурия, XVI век) развивает материал о Змее в рамках более широкой космологической структуры *Цимцума* (божественного сжатия), *Швират ха-Келим* (разбиения сосудов) и *Тиккуна* (исправления), причём роль Змея в эдемском эпизоде трактуется как часть более широкого космического повествования о падении и восстановлении.
 
-The corpus's reading of Kabbalistic Serpent material is similar to its broader reading of Kabbalistic Hebrew (treated in the [Hebrew](../hebrew/) entry). The Kabbalistic tradition's underlying intuition — that the Eden Serpent is a substantive cosmological figure rather than just a snake, that the figure's role is structurally significant for the broader cosmic narrative — preserves accurate fragmentary memory of the operational reality the framework recovers. But the corpus does not endorse the elaborate theological-cosmological apparatus the Kabbalistic tradition has developed around this intuition. The Sammael identification, the cosmic-sexuality narratives, the *Tzimtzum* / *Shevirat* / *Tikkun* structure — these are theological elaborations rather than direct encoding of the operational reality.
+**Хасидская традиция** сохраняет каббалистический материал о Змее с различными разработками на протяжении восемнадцатого и девятнадцатого веков.
 
-### Mainstream historical-critical scholarship
+Прочтение корпусом каббалистического материала о Змее сходно с его более широким прочтением каббалистического иврита (рассматривается в статье [Иврит](../hebrew/)). Лежащая в основе интуиция каббалистической традиции — что Змей Эдема является содержательной космологической фигурой, а не просто змеёй, что роль фигуры структурно значима для более широкого космического повествования — сохраняет точную фрагментарную память об операционной реальности, которую восстанавливает фреймворк. Но корпус не одобряет разработанный богословско-космологический аппарат, который каббалистическая традиция развила вокруг этой интуиции. Отождествление с Самаэлем, повествования о космической сексуальности, структура *Цимцум* / *Швират* / *Тиккун* — это богословские разработки, а не прямое кодирование операционной реальности.
 
-The mainstream historical-critical scholarly tradition treats the Genesis 3 Serpent as a literary figure of the Yahwist source whose specific identification with Satan is recognized as a later interpretive development without textual basis in Genesis 3 itself. **Claus Westermann**'s *Genesis 1–11: A Continental Commentary* (1994) provides standard treatment. **John Skinner**'s earlier *A Critical and Exegetical Commentary on Genesis* (ICC, 1910) preserves the foundational historical-critical reading. **Gerhard von Rad**'s *Genesis: A Commentary* (1961) develops the form-critical reading. **James Charlesworth**'s *The Good and Evil Serpent: How a Universal Symbol Became Christianized* (2010) provides the most substantial recent academic treatment of the broader serpent-symbol question.
+### Мейнстримная историко-критическая наука
 
-The mainstream historical-critical scholarship's recognition that the Eden Serpent and the Christian Satan are textually distinct figures is consistent with the corpus's reading at the textual level, even where the broader interpretive frameworks differ. The corpus engages this scholarly literature as substantive intellectual work that the framework's reading complements rather than dismisses.
+Мейнстримная историко-критическая научная традиция трактует Змея Бытия 3 как литературную фигуру ягвистского источника, чьё конкретное отождествление с Сатаной признаётся позднейшим интерпретационным развитием без текстовой основы в самом Бытии 3. *Бытие 1–11: континентальный комментарий* (1994) **Клауса Вестермана** предоставляет стандартную трактовку.{{ cite(id="westermann-genesis-1-11", text="[13]", title="Вестерман, *Genesis 1–11: A Continental Commentary* (1994)") }} Более ранний *Критический и экзегетический комментарий на Бытие* (ICC, 1910) **Джона Скиннера** сохраняет основополагающее историко-критическое прочтение.{{ cite(id="skinner-genesis-icc", text="[14]", title="Скиннер, *A Critical and Exegetical Commentary on Genesis* (ICC, 1910)") }} *Бытие: комментарий* (1961) **Герхарда фон Рада** развивает форм-критическое прочтение.{{ cite(id="von-rad-genesis", text="[15]", title="фон Рад, *Genesis: A Commentary* (1961)") }} *Добрый и злой змей: как универсальный символ был христианизирован* (2010) **Джеймса Чарльзуорта** предоставляет наиболее существенную недавнюю академическую трактовку более широкого вопроса о символе змея.{{ cite(id="charlesworth-good-evil-serpent", text="[16]", title="Чарльзуорт, *The Good and Evil Serpent* (2010)") }}
 
-### The framework's relationship to the broader landscape
+Признание мейнстримной историко-критической наукой того, что Змей Эдема и христианский Сатана — это текстуально различные фигуры, согласуется с прочтением корпуса на текстовом уровне, даже там, где более широкие интерпретационные фреймворки расходятся. Корпус привлекает эту научную литературу как содержательную интеллектуальную работу, которую прочтение фреймворка дополняет, а не отвергает.
 
-The corpus's reading is positioned within this landscape as follows: aligned with the historical-critical observation that Serpent and Satan are textually distinct figures; partially aligned with the Gnostic Ophite reading of the Serpent specifically (the Serpent transmitted valuable knowledge) while non-aligned with the broader Gnostic anti-cosmic theology; aligned with Pagels's analysis of the Augustinian theological synthesis as a specific historical development; aligned with Sendy's and Wallis's readings of the Serpent as a specific historical referent; partially aligned with Biglino's reading at the Serpent-as-Elohim-faction level while disagreeing on the epistemic-vs-genetic transgression question; respectful of the Kabbalistic tradition's underlying intuition while not endorsing its theological-cosmological apparatus. The corpus's reading is its own — distinct from each of these — but engages each substantively rather than dismissively.
+### Отношение фреймворка к более широкому ландшафту
 
-## Comparative observations
+Прочтение корпуса позиционируется внутри этого ландшафта следующим образом: согласовано с историко-критическим наблюдением, что Змей и Сатана — текстуально различные фигуры; частично согласовано с гностическим офитским прочтением Змея конкретно (Змей передал ценное знание), но несогласовано с более широкой гностической антикосмической теологией; согласовано с анализом Пейджелс августиновского богословского синтеза как конкретного исторического развития; согласовано с прочтениями Сенди и Уоллиса Змея как конкретного исторического референта; частично согласовано с прочтением Биглино на уровне Змей-как-фракция-Элохим, расходясь при этом по эпистемическому-vs-генетическому вопросу о преступлении; уважительно к лежащей в основе интуиции каббалистической традиции, не одобряя её богословско-космологический аппарат. Прочтение корпуса — собственное — отличное от каждого из этих — но привлекает каждое содержательно, а не отвергающе.
 
-Serpent and dragon figures appear widely across the religious and mythological traditions of the ancient Near East and broader antiquity. They divide, on close examination, into at least two broadly distinct motif clusters that should not be conflated.
+## Сравнительные наблюдения
 
-### The chaos-serpent cluster
+Фигуры змея и дракона широко появляются в религиозных и мифологических традициях древнего Ближнего Востока и более широкой древности. При внимательном рассмотрении они разделяются по крайней мере на два широко различных кластера мотивов, которые не следует смешивать.{{ footnote(id="6") }}
 
-The **chaos-serpent** or **dragon-of-the-deep** motif is one of the most widely attested mythological patterns across the ancient Near East. The principal cases:
+### Кластер змея-хаоса
 
-- **Tiamat** in the Babylonian *Enūma Eliš* — the primordial salt-water mother whose body is split by Marduk to form heaven and earth.
-- The **mušmaḫḫū** and **ušumgal** in Sumerian tradition — primordial chaos-dragons defeated by the gods.
-- The **mušḫuššu** in Akkadian tradition — the dragon of Marduk, depicted in the famous Ishtar Gate reliefs.
-- **Lotan** in Ugaritic tradition (the closest direct cognate to Hebrew Leviathan) — the seven-headed primordial sea-dragon.
-- **Leviathan** and **Tannin** in the Hebrew Bible — the chaos-serpent figures of Job 41, Psalm 74:14, Isaiah 27:1, and elsewhere.
-- **Apophis** in Egyptian tradition — the chaos-serpent who threatens Ra's daily passage through the underworld.
-- **Typhon** in Greek tradition — the hundred-headed monster defeated by Zeus.
-- **Vritra** in Hindu tradition — the chaos-serpent defeated by Indra.
-- **Nidhogg** and the **Midgard serpent** in Norse tradition — the cosmic serpents at the roots of Yggdrasil and surrounding the world.
+Мотив **змея-хаоса** или **дракона-бездны** — один из наиболее широко засвидетельствованных мифологических паттернов по всему древнему Ближнему Востоку. Главные случаи:
 
-The chaos-serpent figures are typically primordial, oceanic, monstrous, often multi-headed, and represent the chaotic state from which order is wrested by a divine champion. They are usually defeated rather than reasoned with. The biblical *təhôm* ("the deep") at Genesis 1:2 is cognate with Tiamat and reflects the broader chaos-water tradition; the Leviathan / Tannin tradition surfaces in Job 41 and elsewhere.
+- **Тиамат** в вавилонской *Энума Элиш* — изначальная солёноводная мать, чьё тело разделяется Мардуком, чтобы образовать небо и землю.
+- **mušmaḫḫū** и **ušumgal** в шумерской традиции — изначальные драконы-хаосы, побеждённые богами.
+- **mušḫuššu** в аккадской традиции — дракон Мардука, изображённый на знаменитых рельефах Ворот Иштар.
+- **Лотан** в угаритской традиции (ближайший прямой когнат еврейского Левиафана) — семиглавый изначальный морской дракон.
+- **Левиафан** и **Таннин** в Еврейской Библии — фигуры змея-хаоса из Иова 41, Псалма 73:14, Исаии 27:1 и в других местах.
+- **Апоп** в египетской традиции — змей-хаос, угрожающий ежедневному прохождению Ра через подземный мир.
+- **Тифон** в греческой традиции — стоглавое чудовище, побеждённое Зевсом.
+- **Вритра** в индуистской традиции — змей-хаос, побеждённый Индрой.
+- **Нидхёгг** и **мировой змей Мидгарда** в скандинавской традиции — космические змеи у корней Иггдрасиля и окружающие мир.
 
-The corpus reads the chaos-serpent cluster as preserving fragmentary memory of pre-creation cosmological conditions and of subsequent oceanic catastrophes — distinct from the Eden episode and from the Lucifer-faction material the Eden Serpent represents. The detailed treatment of Leviathan and the broader chaos-serpent tradition lives in the [Leviathan](../leviathan/) entry.
+Фигуры змея-хаоса обыкновенно изначальны, океаничны, чудовищны, часто многоглавы и представляют хаотическое состояние, из которого порядок вырывается божественным защитником.{{ cite(id="black-green-mesopotamia", text="[17]", title="Блэк и Грин, *Gods, Demons and Symbols of Ancient Mesopotamia* (1992)") }} Их обыкновенно побеждают, а не убеждают. Библейское *təhôm* («бездна») в Бытии 1:2 когнатно Тиамат и отражает более широкую традицию о водах хаоса; традиция Левиафана / Таннина всплывает в Иове 41 и в других местах.
 
-### The wisdom-serpent cluster
+Корпус читает кластер змея-хаоса как сохраняющий фрагментарную память о досотворительных космологических условиях и о последующих океанических катастрофах — отличную от эдемского эпизода и от материала о фракции Люцифера, который представляет Змей Эдема. Подробная трактовка Левиафана и более широкой традиции змея-хаоса живёт в статье [Левиафан](../leviathan/).
 
-The **wisdom-serpent** or **knowledge-bearer** motif is structurally distinct from the chaos-serpent motif and includes a different set of figures:
+### Кластер змея-мудрости
 
-- **Ningishzida** in Sumerian tradition — a serpent-deity associated with healing, the underworld, and wisdom. Depicted iconographically with two serpents intertwined.
-- The **caduceus of Hermes** — the staff with two intertwined serpents that becomes the symbol of medicine, esoteric knowledge, and commerce in the Greek tradition.
-- The **rod of Asclepius** — the staff with a single serpent that becomes the symbol of healing in the Greek and broader Mediterranean medical tradition.
-- The **bronze serpent (*neḥushtan*)** raised by Moses in Numbers 21:8–9 — a serpent that heals rather than harms, structurally close to the Asclepian tradition.
-- **Wadjet** and the **uraeus** in Egyptian tradition — the cobra-goddess and her serpent-form atop the pharaonic crown, carrying protective and authority-conferring connotations.
-- **The Naga tradition** in Hindu and Buddhist tradition — serpent-beings associated with wisdom, water, and protection of sacred knowledge, including the famous protection of Buddha during meditation.
-- **The Quetzalcoatl tradition** in Mesoamerican cultures — the feathered-serpent god associated with wisdom, learning, and the founding of civilization.
-- **The various Asian dragon traditions** — particularly the Chinese dragon, treated as a positive figure of wisdom and authority rather than as a chaos-monster.
+Мотив **змея-мудрости** или **носителя знания** структурно отличен от мотива змея-хаоса и включает иной набор фигур:
 
-The wisdom-serpent figures are typically connected to healing, esoteric knowledge, the founding of civilization, and the protection of sacred information. They are often encountered with the expectation of dialogue or instruction rather than combat.
+- **Нингишзида** в шумерской традиции — божество-змей, связанное с исцелением, подземным миром и мудростью. Изображается иконографически с двумя переплетёнными змеями.
+- **Кадуцей Гермеса** — жезл с двумя переплетёнными змеями, который становится символом медицины, эзотерического знания и торговли в греческой традиции.
+- **Жезл Асклепия** — жезл с одной змеёй, который становится символом исцеления в греческой и более широкой средиземноморской медицинской традиции.
+- **Медный змей (*neḥushtan*)**, воздвигнутый Моисеем в Числах 21:8–9 — змей, который исцеляет, а не вредит, структурно близкий к асклепиевской традиции.
+- **Уаджет** и **урей** в египетской традиции — богиня-кобра и её змеиная форма на вершине фараоновской короны, несущие защитные и наделяющие властью коннотации.
+- **Традиция нагов** в индуистской и буддийской традиции — змеиные существа, связанные с мудростью, водой и защитой священного знания, включая знаменитую защиту Будды во время медитации.
+- **Традиция Кетцалькоатля** в мезоамериканских культурах — бог-пернатый-змей, связанный с мудростью, учением и основанием цивилизации.
+- **Различные азиатские традиции дракона** — особенно китайский дракон, трактуемый как положительная фигура мудрости и власти, а не как чудовище хаоса.
 
-The corpus reads the wisdom-serpent cluster as preserving fragmentary memory of the Lucifer faction's positive role as transmitters of knowledge to early humanity — particularly the Lucifer faction's continuing teaching role across the antediluvian period after the Eden disclosure. The widespread cross-cultural pattern of serpents as bringers of beneficial knowledge reflects, on the framework's reading, the broader operational reality of the post-Eden settlement: the exiled Lucifer faction continued to teach human populations across the antediluvian period, with the cultural memory of this teaching role preserved in various surviving traditions through the wisdom-serpent imagery.
+Фигуры змея-мудрости обыкновенно связаны с исцелением, эзотерическим знанием, основанием цивилизации и защитой священной информации. Их часто встречают с ожиданием диалога или наставления, а не битвы.
 
-The Eden Serpent of Genesis 3 belongs to the wisdom-serpent cluster rather than to the chaos-serpent cluster. The figure is not primordial-cosmic but is created within the Eden installation; its role is the offering of knowledge that the humans did not previously possess; the consequence of the humans' acceptance is that they become "like Elohim, knowing good and evil." The corpus's reading is consistent with the broader wisdom-serpent pattern: the Eden figure is one specific instance of a broader cross-cultural pattern of serpent-figures associated with the transmission of beneficial knowledge.
+Корпус читает кластер змея-мудрости как сохраняющий фрагментарную память о положительной роли фракции Люцифера как передатчиков знания раннему человечеству — особенно продолжающейся учительской роли фракции Люцифера на протяжении допотопного периода после эдемского раскрытия. Широко распространённый межкультурный паттерн змей как носителей благотворного знания отражает, в прочтении фреймворка, более широкую операционную реальность послеэдемского урегулирования: изгнанная фракция Люцифера продолжала учить человеческие популяции на протяжении допотопного периода, причём культурная память об этой учительской роли сохранилась в различных дошедших до нас традициях через образ змея-мудрости.
 
-### The DNA-iconography hypothesis
+Змей Эдема из Бытия 3 принадлежит к кластеру змея-мудрости, а не к кластеру змея-хаоса. Фигура не изначально-космическая, но создана внутри эдемской установки; её роль — предложение знания, которым люди ранее не обладали; следствие принятия людьми в том, что они становятся «как Элохим, знающие добро и зло». Прочтение корпуса согласуется с более широким паттерном змея-мудрости: эдемская фигура — это один конкретный пример более широкого межкультурного паттерна змеиных фигур, связанных с передачей благотворного знания.
 
-A specific subset of the comparative observations concerns the iconographic similarity between intertwined-serpent imagery (the caduceus, Ningishzida's staff, the various double-helix-like serpent representations in ancient art) and the modern double-helix structure of DNA. The hypothesis — developed by Jeremy Narby in *The Cosmic Serpent: DNA and the Origins of Knowledge* (1998), elaborated by Mauro Biglino in his various works, and registered in adjacent ancient-astronaut literature — is that the ancient serpent imagery preserves memory of the genetic-engineering operations that the framework reads behind the alliance's biological work on Earth, with the intertwined serpents being a graphic representation of the DNA double helix.
+### Гипотеза об иконографии ДНК
 
-The corpus treats this hypothesis as suggestive but not load-bearing. The structural similarity between ancient intertwined-serpent imagery and the DNA double helix is real; the genealogical connection between the ancient symbol and the modern biochemical structure is not demonstrated. The corpus does not require the hypothesis for its reading of the Eden Serpent — the framework's reading is grounded in the philological-textual analysis of Genesis 3 and the Raëlian source material's specific account, not in the iconographic comparison. But the corpus registers the DNA-iconography hypothesis as one comparative observation that, if substantiated by further research, would be consistent with the framework's broader reading.
+Конкретное подмножество сравнительных наблюдений касается иконографического сходства между образом переплетённых змей (кадуцей, жезл Нингишзиды, различные подобные двойной спирали представления змей в древнем искусстве) и современной структурой двойной спирали ДНК. Гипотеза — развитая Джереми Нарби в *Космическом змее: ДНК и истоки знания* (1998),{{ cite(id="cosmic-serpent-narby", text="[18]", title="Нарби, *The Cosmic Serpent: DNA and the Origins of Knowledge* (1998)") }} разработанная Мауро Биглино в его различных работах и зафиксированная в смежной литературе о древних астронавтах — состоит в том, что древний образ змея сохраняет память об операциях генной инженерии, которые фреймворк читает за биологической работой альянса на Земле, причём переплетённые змеи являются графическим представлением двойной спирали ДНК.
 
-### The convergence
+Корпус трактует эту гипотезу как наводящую на размышления, но не несущую нагрузку. Структурное сходство между древним образом переплетённых змей и двойной спиралью ДНК реально; генеалогическая связь между древним символом и современной биохимической структурой не продемонстрирована. Корпус не требует этой гипотезы для своего прочтения Змея Эдема — прочтение фреймворка обосновано филологическо-текстовым анализом Бытия 3 и конкретным изложением раэлианского источника, а не иконографическим сравнением. Но корпус фиксирует гипотезу об иконографии ДНК как одно сравнительное наблюдение, которое, если бы было подтверждено дальнейшими исследованиями, было бы согласовано с более широким прочтением фреймворка.
 
-The corpus's working position on the comparative-serpent question is that the global recurrence of serpent-figures across cultures is meaningful as evidence of broader operational patterns. The chaos-serpent and wisdom-serpent clusters are operationally distinct, with the Eden Serpent belonging specifically to the wisdom-serpent cluster; the broader cross-cultural pattern of serpents as bringers of beneficial knowledge reflects the broader operational reality of the post-Eden Lucifer faction's teaching role. The corpus does not require that every cultural serpent-figure be a direct memory of specific Lucifer-faction operational events — many serpent-figures in human cultures are independently developed mythological constructions — but the substantial cross-cultural pattern is consistent with the framework's reading and provides comparative-religious context for the Eden Serpent specifically.
+### Сходимость
 
-## See also
-
-- [Lucifer](../lucifer/)
-- [Eden](../eden/)
-- [Adam and Eve](../adam-and-eve/)
-- [Tree of Knowledge](../tree-of-knowledge/)
-- [Tree of Life](../tree-of-life/)
-- [Yahweh](../yahweh/)
-- [Satan](../satan/)
-- [Elohim](../elohim/)
-- [Cain and Abel](../cain-and-abel/)
-- [Nephilim](../nephilim/)
-- [Sons of Elohim](../sons-of-elohim/)
-- [Genesis](../genesis/)
-- [Antediluvian](../antediluvian/)
-- [Great Flood](../great-flood/)
-- [Fall of Man](../fall-of-man/)
-- [Leviathan](../leviathan/)
-- [Bronze Serpent / Neḥushtan](../bronze-serpent/)
-- [Watchers](../watchers/)
-- [Tetragrammaton](../tetragrammaton/)
-- [Age of Leo](../timeline/age-of-leo/)
-- [Age of Cancer](../timeline/age-of-cancer/)
-- [Jean Sendy](../jean-sendy/)
-- [Mauro Biglino](../mauro-biglino/)
-- [Paul Anthony Wallis](../paul-anthony-wallis/)
-- [*Hamlet's Mill*](../hamlets-mill/)
-
-## References
-
-Vorilhon, Claude (Raël). *The Book Which Tells the Truth* (1974), chapter 2, "Truth"; collected in *Message from the Designers*.
-
-Sendy, Jean. *Ces dieux qui firent le ciel et la terre*. Robert Laffont, 1969. English: *Those Gods Who Made Heaven and Earth*. Berkley, 1972.
-
-Biglino, Mauro, and Giorgio Cattaneo. *The Naked Bible: The Truth About the Most Famous Book in History*. Uno, 2022.
-
-Wallis, Paul Anthony. *The Eden Conspiracy*. 6th Books, 2024.
-
-*Biblia Hebraica Stuttgartensia*. Deutsche Bibelgesellschaft, 4th rev. ed., 1997.
-
-Sarna, Nahum. *Genesis: The JPS Torah Commentary*. Jewish Publication Society, 1989.
-
-Westermann, Claus. *Genesis 1–11: A Continental Commentary*. Fortress, 1994.
-
-Skinner, John. *A Critical and Exegetical Commentary on Genesis*. International Critical Commentary, T&T Clark, 1910.
-
-von Rad, Gerhard. *Genesis: A Commentary*. Westminster, 1961.
-
-Charles, R. H. *The Apocrypha and Pseudepigrapha of the Old Testament*. Oxford University Press, 1913.
-
-Kelly, Henry Ansgar. *Satan: A Biography*. Cambridge University Press, 2006.
-
-Forsyth, Neil. *The Old Enemy: Satan and the Combat Myth*. Princeton University Press, 1987.
-
-Pagels, Elaine. *The Gnostic Gospels*. Random House, 1979.
-
-Pagels, Elaine. *Adam, Eve, and the Serpent*. Random House, 1988.
-
-Pagels, Elaine. *The Origin of Satan*. Random House, 1995.
-
-Charlesworth, James H. *The Good and Evil Serpent: How a Universal Symbol Became Christianized*. Yale University Press, 2010.
-
-Black, Jeremy, and Anthony Green. *Gods, Demons and Symbols of Ancient Mesopotamia: An Illustrated Dictionary*. British Museum Press, 1992.
-
-Layton, Bentley. *The Gnostic Scriptures*. Doubleday, 1987.
-
-Robinson, James M., ed. *The Nag Hammadi Library in English*. HarperSanFrancisco, 3rd rev. ed., 1988.
-
-Irenaeus. *Against Heresies*, book I.
-
-Hippolytus. *Refutation of All Heresies*.
-
-Origen. *Contra Celsum*.
-
-Epiphanius. *Panarion*.
-
-Scholem, Gershom. *Major Trends in Jewish Mysticism*. Schocken, 1941.
-
-*Zohar*. Pritzker Edition, trans. Daniel Matt et al. Stanford University Press, 2003–2017.
-
-Narby, Jeremy. *The Cosmic Serpent: DNA and the Origins of Knowledge*. Tarcher/Putnam, 1998.
-
-Brown, Francis, S. R. Driver, and Charles A. Briggs. *A Hebrew and English Lexicon of the Old Testament* (BDB). Oxford, 1907.
-
-*The Hebrew and Aramaic Lexicon of the Old Testament* (HALOT), Koehler-Baumgartner. Brill, 2001.
-
-"Serpents in the Bible." *Wikipedia*. <https://en.wikipedia.org/wiki/Serpents_in_the_Bible>
-
-"Serpent (symbolism)." *Wikipedia*. <https://en.wikipedia.org/wiki/Serpent_(symbolism)>
-
-"Ophites." *Encyclopaedia Britannica*. <https://www.britannica.com/topic/Ophite>
-
-"Nag Hammadi library." *Encyclopaedia Britannica*. <https://www.britannica.com/topic/Nag-Hammadi-Coptic-library>
-
-"Lucifer." *Encyclopaedia Britannica*. <https://www.britannica.com/topic/Lucifer-classical-mythology>
-
-"Satan." *Encyclopaedia Britannica*. <https://www.britannica.com/topic/Satan>
+Рабочая позиция корпуса по сравнительно-змеиному вопросу состоит в том, что глобальное повторение змеиных фигур по культурам значимо как свидетельство более широких операционных паттернов. Кластеры змея-хаоса и змея-мудрости операционно различны, причём Змей Эдема принадлежит конкретно к кластеру змея-мудрости; более широкий межкультурный паттерн змей как носителей благотворного знания отражает более широкую операционную реальность учительской роли послеэдемской фракции Люцифера. Корпус не требует, чтобы каждая культурная фигура змея была прямой памятью о конкретных операционных событиях фракции Люцифера — многие змеиные фигуры в человеческих культурах являются независимо развитыми мифологическими построениями — но существенный межкультурный паттерн согласуется с прочтением фреймворка и предоставляет сравнительно-религиозный контекст для Змея Эдема конкретно.

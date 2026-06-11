@@ -1,451 +1,460 @@
 +++
 title = "蛇"
-description = "蛇 — 在《創世記》中是誘惑者的形象,在眾多傳統中又是叛逆智慧的形象 — 在 Wheel of Heaven 文集中被讀作厄羅欣等級內部蛇式叛亂的核心敘事運作者。"
+slug = "serpent"
+description = "蛇(希伯來語:נָחָשׁ,naḥash)是《創世記》第 3 章中慫恿首批人類食用分別善惡樹之果、其後遭詛咒並被放逐的形象。在雷爾派源典所發展、《天輪》文集所採行的閱讀中,蛇並非象徵,而是一個具體的歷史指涉物:耶洛因造物者以色列隊伍內部的一個派系 —— 由後被命名為路西法的形象所領導 —— 此派系不認同母星對人類教育之限制,並向人類提供了被扣留之科學知識的取得管道。"
 template = "wiki-page.html"
 toc = true
 
 [extra]
-translation_status = "metadata_only"
 category = "Symbolism & Motifs"
 editorial_pass = "2026-05"
+claim_type = "framework"
 entry_type = "figure"
-alternative_names = ["the Serpent of Eden", "naḥash", "נָחָשׁ", "the Lucifer faction", "the Serpentine party", "ho ophis"]
+alternative_names = ["伊甸之蛇", "naḥash", "נָחָשׁ", "路西法派系", "蛇黨", "ho ophis"]
+see_also = [
+    { title = "路西法", path = "wiki/lucifer", description = "異議派系之具名領袖;蛇即為路西法於《創世記》第 3 章中之角色。" },
+    { title = "亞當與夏娃", path = "wiki/adam-and-eve", description = "蛇向其作出伊甸揭露之首批人類。" },
+    { title = "伊甸", path = "wiki/eden", description = "揭露發生之受控設施。" },
+    { title = "耶和華", path = "wiki/yahweh", description = "宣告揭露後判決之以色列隊伍領袖。" },
+    { title = "撒但", path = "wiki/satan", description = "一個獨立的耶洛因形象 —— 政治上與蛇/路西法相對,僅於後期傳統中被混為一談。" },
+    { title = "生命之樹", path = "wiki/tree-of-life", description = "驅逐後受守護之延壽技術。" },
+]
+
+footnotes = [
+    { content = "四形象政治分類 —— 耶和華(聯盟溫和派)、路西法(異議派系領袖)、蛇(路西法派系於其具體伊甸揭露角色中)及撒但(領導母星廢止派系之獨立耶洛因形象)—— 為文集閱讀中最具影響之分析貢獻之一。後期宗教傳統將路西法、蛇與撒但合併為單一之宇宙邪惡形象;文集則恢復其區別。蛇與撒但實則政治上相對:蛇(路西法派系)希望地球計畫擴展、人類獲得完整資訊;撒但則欲其終止。後聖經之混淆將真實的政治現實合併為單一未經區別之神學範疇。" },
+    { content = "*naḥash*(蛇)/ *naḥash*(行占卜、求預兆)之詞源雙關,在文集的閱讀中於《創世記》第 3 章中發揮作用。以與「占卜」—— 即對隱藏知識之取得 —— 同一詞根命名之形象,正是一個提供隱藏知識取得管道之形象。文本以 *ʿarum*(「狡猾」,《創世記》3:1)與 *ʿarummim*(「赤身」,《創世記》2:25)之間相鄰的雙關予以強化:人類赤身,蛇則狡猾地以語言為衣,標誌著由揭露前狀態向揭露後狀態之過渡。" },
+    { content = "文集將蛇之介入讀為一項異議性政治行動,而非欺騙。蛇所稱「你們必不死」於作業上證實準確(人類食後並未死亡);所稱「你們便如耶洛因能知善惡」亦屬準確(他們確實獲得了實質知識)。某些基督教神學閱讀所強調之「欺騙」要素於文集閱讀中並不存在 —— 蛇之介入乃為人類科學教育之主張作公開闡述,對象為該派系一直在教導之人類夥伴。" },
+    { content = "文集之閱讀在現代再詮釋圖景中具結構性獨特性:其接受歷史—批判之觀察,即《創世記》第 3 章之蛇並非撒但;其將該形象視為具體歷史指涉物而非象徵或寓言;且其在蛇此一具體層面上部分契合於諾斯底俄斐特之直覺(蛇傳遞了有價值之知識),同時拒斥更廣之諾斯底反宇宙神學。此框架或可被特徵化為:於蛇此一具體層面上鄰近諾斯底,而於更廣之宇宙論問題上則非諾斯底。" },
+    { content = "比利諾之閱讀與文集閱讀之間主要的實質分歧,為認識論對遺傳學之問題。比利諾將《創世記》3:15(「你的後裔與女人的後裔彼此為仇」)讀為描述不同之遺傳譜系,發展出蛇曾與夏娃發生性關係而產生該隱(「屬蛇之譜系」)之主張,並將大洪水讀為一次血統淨化。文集拒斥此說:雷爾派源典明確將該隱認定為亞當與夏娃之子,並將大洪水認定為母星對洪水前文明具威脅性之技術進展之回應。兩種閱讀皆同意蛇為一耶洛因派系形象而非蛇類或隱喻;二者於該違犯究屬認識論性(分享知識)抑或遺傳性(雜交)上分歧。框架之閱讀為認識論性者。" },
+    { content = "文集區分兩個作業上截然不同之蛇群。混沌—蛇群(提阿瑪特、洛坦、利維坦、阿波菲斯、提豐、弗栗多、塵世巨蟒)為原初的、海洋性的、怪物性的,代表秩序自其中被奪取之混沌狀態 —— 文集將其讀為保存了關於受造前條件及海洋災難之片斷記憶。智慧—蛇群(寧吉什茲達、雙蛇杖、阿斯克勒庇俄斯之杖、銅蛇、那伽傳統、羽蛇神)則連結於醫治、奧秘知識及文明之奠立。《創世記》第 3 章之伊甸之蛇屬於智慧—蛇群,文集將其讀為保存了路西法派系伊甸後教導角色之片斷記憶。" },
+]
+
+[[extra.references]]
+id = "the-book-which-tells-the-truth"
+locator = "第 2 章"
+note = "蛇作為異議以色列隊伍派系於其揭露角色中之基礎雷爾派源典。"
+
+[[extra.references]]
+id = "those-gods-who-made-heaven-and-earth"
+note = "桑迪對 *naḥash* 之語文學閱讀,取其作業意義而非動物學意義 —— 文集閱讀之主要學術先驅。"
+
+[[extra.references]]
+id = "the-naked-bible"
+note = "比利諾將蛇讀為一耶洛因派系形象;文集於該形象身分上契合,但拒斥其「該隱為蛇之譜系」之延伸。"
+
+[[extra.references]]
+id = "the-eden-conspiracy"
+note = "瓦利斯對伊甸政治危機及基路伯/火焰之劍作為技術性物之結構性閱讀。"
+
+[[extra.references]]
+id = "westermann-genesis-1-11"
+note = "韋斯特曼之標準形式批判註釋 —— 《創世記》第 3 章之蛇作為雅威典之文學形象,而非撒但。"
+
+[[extra.references]]
+id = "skinner-genesis-icc"
+note = "斯金納之奠基性歷史—批判註釋,保存了伊甸敘事之底本假說閱讀。"
+
+[[extra.references]]
+id = "von-rad-genesis"
+note = "馮·拉德對雅威典伊甸敘事之形式批判與神學閱讀。"
+
+[[extra.references]]
+id = "kelly-satan-biography"
+note = "凱利對撒但形象如何發展之記述 —— 對蛇/撒但之消歧義提供學術支持。"
+
+[[extra.references]]
+id = "forsyth-the-old-enemy"
+note = "福賽斯對宇宙—對手戰鬥神話傳統之追溯。"
+
+[[extra.references]]
+id = "pagels-adam-eve-serpent"
+note = "佩格爾斯對《創世記》1–3 章之詮釋如何形塑西方思想之研究,以奧古斯丁之原罪綜合為一具爭議性之具體發展。"
+
+[[extra.references]]
+id = "pagels-gnostic-gospels"
+note = "佩格爾斯對拿戈瑪第諾斯底材料之易讀入門,包括俄斐特之蛇—翻轉。"
+
+[[extra.references]]
+id = "pagels-origin-of-satan"
+note = "佩格爾斯論基督教撒但形象之社會—政治建構。"
+
+[[extra.references]]
+id = "charlesworth-good-evil-serpent"
+note = "查爾斯沃思對蛇象徵之研究 —— 基督教負面閱讀之前廣泛存在之正面評價;支持智慧—蛇/混沌—蛇之區分。"
+
+[[extra.references]]
+id = "nag-hammadi-library"
+note = "羅賓遜對拿戈瑪第抄本之版本,保存了對伊甸之蛇及造物主之俄斐特鄰近閱讀。"
+
+[[extra.references]]
+id = "gnostic-scriptures"
+note = "萊頓對主要諾斯底文本之註解譯本,包括蛇—翻轉傳統。"
+
+[[extra.references]]
+id = "charles-apocrypha-pseudepigrapha"
+note = "查爾斯之第二聖殿文獻選集(《以諾一書》、《亞當與夏娃傳》),發展出早期之蛇—魔鬼認同。"
+
+[[extra.references]]
+id = "major-trends-jewish-mysticism"
+note = "肖勒姆對卡巴拉之奠基性研究,處理《光輝之書》之蛇/薩邁爾材料。"
+
+[[extra.references]]
+id = "zohar-pritzker"
+note = "普里茨克版《光輝之書》—— 薩邁爾—騎蛇敘事及文集所接觸而不認可之更廣卡巴拉闡發。"
+
+[[extra.references]]
+id = "cosmic-serpent-narby"
+note = "納比之 DNA—肖像學假說 —— 為文集登錄為具暗示性但非承重性。"
+
+[[extra.references]]
+id = "black-green-mesopotamia"
+note = "布萊克與格林關於美索不達米亞肖像學之參考著作 —— 文集用以區分兩群之混沌—龍與智慧—蛇形象。"
+
+[[extra.references]]
+id = "book-of-enoch"
+note = "《以諾一書》之守望者傳統,發展出與後期蛇/撒但傳統相重疊之 *benei ha-Elohim* 敘事。"
 
 [extra.infobox]
 hebrew_name = "נָחָשׁ"
-transliteration = "naḥash; with definite article ha-naḥash"
+transliteration = "naḥash;帶定冠詞作 ha-naḥash"
 greek_name = "ὄφις (ophis)"
 latin_name = "serpens"
-title = "The Serpent of Eden; the Lucifer faction in their disclosure role"
-type = "Faction-as-figure: a specific group of Elohim scientists with their leader; named singularly in the Genesis text"
-operational_period = "Late Age of Leo through early Age of Cancer, c. 11,400 – 10,000 BCE; with the faction's continued presence on Earth extending through the Age of Cancer"
-date_type = "framework-internal; derived from the Eden chronology"
-biblical_appearance = "Genesis 3:1–15 (the Eden episode); echoes in Numbers 21 (the bronze serpent), Isaiah 27:1 (Leviathan), Revelation 12:9 ('that ancient serpent')"
-faction_leader = "Lucifer (so identified in the broader corpus from later patristic-tradition naming)"
-distinguished_from = "Satan (a separate Elohim figure); Lucifer (the same actors in their broader career); Leviathan (a chaos-serpent of distinct mythological lineage); the Devil (a later Christian theological synthesis)"
-current_status = "The Lucifer faction continues to exist; their broader career extends beyond the Eden episode through the antediluvian period and beyond"
-principal_text = "Genesis 3:1–15"
-principal_framework_source = "*The Book Which Tells the Truth* (Vorilhon/Raël, 1974), chapter 2"
+title = "伊甸之蛇;路西法派系於其揭露角色中"
+type = "派系即形象:一群具體之耶洛因科學家及其領袖;於《創世記》文本中以單數命名"
+operational_period = "獅子座時代後期至巨蟹座時代早期,約公元前 11,400 – 10,000 年;該派系於地球之持續存在延伸至整個巨蟹座時代"
+date_type = "框架內部;源自伊甸年表"
+biblical_appearance = "《創世記》3:1–15(伊甸插曲);呼應於《民數記》21(銅蛇)、《以賽亞書》27:1(利維坦)、《啟示錄》12:9(「那古蛇」)"
+faction_leader = "路西法(於更廣文集中依後期教父傳統之命名如此辨識)"
+distinguished_from = "撒但(一獨立之耶洛因形象);路西法(同一行動者於其更廣生涯中);利維坦(一具獨立神話譜系之混沌—蛇);魔鬼(一後期基督教神學綜合)"
+current_status = "路西法派系持續存在;其更廣生涯延伸至伊甸插曲之外,貫穿洪水前時期及其後"
+principal_text = "《創世記》3:1–15"
+principal_framework_source = "*道出真相之書*(沃里勒翁/雷爾,1974),第 2 章"
 +++
 
-**The Serpent** (Hebrew: <span class="hebrew">נָחָשׁ</span>, *naḥash*; Greek: *ὄφις*, *ophis*; Latin: *serpens*) is the figure introduced in Genesis 3:1 as "more crafty than any other beast of the field that Yahweh Elohim had made," who engages the first woman in conversation about the prohibition concerning the Tree of the Knowledge of Good and Evil, urges her to eat the fruit, and is subsequently cursed in Genesis 3:14–15 to crawl on the ground and to suffer enmity with the woman's offspring. The episode is among the most theologically consequential in the Hebrew Bible: it is the textual basis for the Christian doctrine of the Fall and for much subsequent reflection on the origin of human moral knowledge, mortality, and disobedience.
+**蛇**(希伯來語:<span class="hebrew">נָחָשׁ</span>,*naḥash*;希臘語:*ὄφις*,*ophis*;拉丁語:*serpens*)是《創世記》3:1 中引入之形象,被描述為「比耶和華耶洛因所造的一切田野走獸更狡猾」,他與第一個女人就有關分別善惡樹之禁令展開對話,慫恿她食用該果,其後於《創世記》3:14–15 中遭詛咒,須以腹行走、並與女人之後裔為仇。此一插曲為希伯來聖經中神學影響最深者之一:它是基督教墮落教義之文本依據,亦為其後關於人類道德知識、死亡與悖逆之起源之大量反思的根據。
 
-On the reading developed in the Raëlian source material and adopted by the Wheel of Heaven corpus, the Serpent is not a metaphor and not a snake. The figure is read as a specific historical referent: a faction within the Israel team of Elohim creators whose distinctive position was that the first humans should be given complete scientific education rather than kept in deliberate ignorance of the technological and biological knowledge of their makers. The faction acted on this position by giving the humans access to the restricted materials of the garden — the act narrated in Genesis 3 as the "eating from the tree of the knowledge of good and evil" — and was condemned by the Elohim home world authorities for doing so. The faction's exile to Earth is the operational reality behind the curse pronounced in Genesis 3:14. The faction's leader is identified in the broader corpus with the figure later named **Lucifer**.
+在雷爾派源典所發展、《天輪》文集所採行的閱讀中,蛇既非隱喻亦非蛇類。該形象被讀為一具體之歷史指涉物:耶洛因造物者以色列隊伍內部之一派系,其獨特立場為首批人類應獲得完整之科學教育,而非被刻意保持於對其締造者之技術與生物知識之無知中。該派系藉由給予人類取得園中受限材料之管道而貫徹此一立場 —— 此即《創世記》第 3 章敘述為「食用分別善惡樹之果」之行為 —— 並因此被耶洛因母星當局所譴責。該派系被流放至地球,即為《創世記》3:14 所宣告之詛咒背後之作業現實。該派系之領袖,於更廣文集中被認定為後被命名為 **路西法** 之形象。
 
-The reading is contested. Within Christian theological tradition, the Serpent has been identified with Satan, the devil, and the broader figure of cosmic evil — an identification developed across the Second Temple and patristic periods that fixes in Revelation 12:9 ("that ancient serpent, who is called the devil and Satan") and shapes essentially all subsequent Western Christian theological reflection on the figure. Within mainstream historical-critical scholarship, the Serpent is treated as a literary figure of the Yahwist source whose specific identification with Satan is recognized as a later interpretive development without textual basis in Genesis 3 itself. Within the Gnostic Christian tradition of the second and third centuries CE, the Serpent was reversed in valuation — treated as the positive figure (the bringer of *gnosis*) against the demiurgic Old Testament Yahweh — with the Ophite, Sethian, and Cainite sects developing this inversion in various ways. The corpus's reading is structurally distinctive: it accepts the historical-critical observation that the Serpent of Genesis 3 is not Satan, treats the Genesis figure as referring to a specific historical referent rather than as either symbol or theological allegory, and partially aligns with the Gnostic Ophite intuition (the Serpent transmitted valuable knowledge) while rejecting the broader Gnostic anti-cosmic theology.
+此閱讀有爭議。在基督教神學傳統內,蛇曾被認定為撒但、魔鬼及更廣之宇宙邪惡形象 —— 此一認同跨越第二聖殿與教父時期而發展,定形於《啟示錄》12:9(「那古蛇,名叫魔鬼,又叫撒但」),並形塑了其後幾乎所有西方基督教對該形象之神學反思。在主流歷史—批判學界內,蛇被視為雅威典之一文學形象,其與撒但之具體認同被認作後期之詮釋發展,於《創世記》第 3 章本身並無文本依據。在公元二、三世紀之諾斯底基督教傳統內,蛇之評價被翻轉 —— 被視為正面形象(*gnosis* 之帶來者),對抗造物主式之舊約耶和華 —— 俄斐特派、塞特派與該隱派各以不同方式發展此一翻轉。文集之閱讀具結構性獨特:其接受歷史—批判之觀察,即《創世記》第 3 章之蛇並非撒但,將該《創世記》形象視為指涉一具體歷史指涉物而非象徵或神學寓言,且於蛇此一具體層面上部分契合於諾斯底俄斐特之直覺(蛇傳遞了有價值之知識),同時拒斥更廣之諾斯底反宇宙神學。{{ footnote(id="4") }}
 
-## Etymology and naming
+## 詞源與命名
 
-The Hebrew word *naḥash* (<span class="hebrew">נָחָשׁ</span>) is straightforwardly "serpent" or "snake" in Biblical Hebrew, with the consonantal root *n-ḥ-š* attested across Semitic languages with the same basic meaning. The word appears throughout the Hebrew Bible in its straightforward zoological sense — referring to actual snakes — across approximately thirty-one occurrences (the Genesis 3 Eden serpent; the staff-becoming-serpent miracle of Moses in Exodus 4 and 7; the bronze serpent of Numbers 21:8–9; the various wisdom-literature references in Job, Proverbs, and elsewhere; the prophetic-literature appearances in Isaiah, Jeremiah, and Amos).
+希伯來語詞 *naḥash*(<span class="hebrew">נָחָשׁ</span>)在聖經希伯來語中徑直為「蛇」或「蛇類」,其輔音詞根 *n-ḥ-š* 跨各閃語族語言皆有相同基本意義之證據。該詞於希伯來聖經通篇以其徑直之動物學意義出現 —— 指真實之蛇 —— 約三十一處(《創世記》第 3 章之伊甸之蛇;摩西於《出埃及記》4 及 7 章中杖變蛇之神蹟;《民數記》21:8–9 之銅蛇;《約伯記》、《箴言》等處之各種智慧文學指涉;《以賽亞書》、《耶利米書》與《阿摩司書》之先知文學出現)。
 
-A second verbal use of the same root, *naḥash* in its piel form *nḥš* — "to practice divination" or "to seek omens" — is etymologically connected to the noun and may be relevant to the Eden episode. The connection between snake-imagery and divination-practice is widely attested across the ancient Near East: the snake's distinctive features (silent movement, sudden striking, association with hidden places) made it a natural symbol for the diviner's access to hidden knowledge. Genesis 44:5, 44:15 use the verb *yenahesh* in the context of Joseph's divination through his silver cup; Numbers 23:23 and 24:1 use the verbal form in the context of Balaam's prophetic-divinatory practice; Leviticus 19:26 and Deuteronomy 18:10 prohibit the practice. The verb *naḥash* in this divination sense is etymologically connected to the noun for snake.
+同一詞根之第二種動詞用法,即 *naḥash* 之 piel 形式 *nḥš* —— 「行占卜」或「求預兆」—— 於詞源上與該名詞相連,並可能與伊甸插曲相關。蛇之意象與占卜之實踐間之關聯於古代近東廣有證據:蛇之獨特特徵(無聲移動、突然攻擊、與隱蔽處所之關聯)使其成為占卜者取得隱藏知識之天然象徵。《創世記》44:5、44:15 於約瑟以其銀杯占卜之脈絡中使用動詞 *yenahesh*;《民數記》23:23 與 24:1 於巴蘭之先知—占卜實踐脈絡中使用動詞形式;《利未記》19:26 與《申命記》18:10 禁止該實踐。此一占卜意義之動詞 *naḥash* 於詞源上與蛇之名詞相連。
 
-The wordplay between *naḥash* (serpent) and *naḥash* (divination) is operational in the Genesis 3 narrative on multiple readings. The Genesis 3 Serpent is described as *ʿarum* — "crafty" or "prudent" — at Genesis 3:1, with the Hebrew adjective wordplay-adjacent to the previous chapter's closing word *ʿarummim*, "naked" (Genesis 2:25): the humans are naked, and the serpent is craftily-clothed in language. The text uses the wordplay to mark the transition from the human's pre-disclosure state to their post-disclosure state. The framework treats the *naḥash* / *naḥash* etymological wordplay as preserving, at the level of the Hebrew text itself, the underlying operational fact: the figure who is named by the same root as "divination" is a figure who provides access to hidden knowledge.
+*naḥash*(蛇)與 *naḥash*(占卜)之間之雙關,於多種閱讀中皆於《創世記》第 3 章敘事中發揮作用。{{ footnote(id="2") }} 《創世記》第 3 章之蛇於《創世記》3:1 被描述為 *ʿarum* —— 「狡猾」或「精明」—— 該希伯來語形容詞與前一章之收尾詞 *ʿarummim*,「赤身」(《創世記》2:25)相鄰而成雙關:人類赤身,蛇則狡猾地以語言為衣。文本以此雙關標誌著人類由揭露前狀態向揭露後狀態之過渡。框架將 *naḥash* / *naḥash* 之詞源雙關視為於希伯來文本本身之層面上保存了底層之作業事實:以與「占卜」同一詞根命名之形象,正是一個提供隱藏知識取得管道之形象。
 
-The Greek Septuagint translates *naḥash* as *ophis* (ὄφις), the standard Greek term for snake. *Ophis* is the term that would carry into the New Testament's references to the Eden serpent (notably Revelation 12:9, *ho ophis ho archaios*, "the ancient serpent") and into the broader Greek Christian theological tradition. The Greek Gnostic sect known as the **Ophites** takes its name from this term — the *Ophitai*, "the followers of the serpent" — and is treated more fully under *Modern reinterpretations* below.
+希臘《七十士譯本》將 *naḥash* 譯為 *ophis*(ὄφις),即標準希臘語之蛇類用詞。*Ophis* 即為承載入新約對伊甸之蛇之指涉(尤其《啟示錄》12:9,*ho ophis ho archaios*,「那古蛇」)及更廣希臘基督教神學傳統之用詞。被稱為 **俄斐特派** 之希臘諾斯底教派即以此詞為名 —— 即 *Ophitai*,「蛇之追隨者」—— 並於下方《現代再詮釋》中得到更完整處理。
 
-The Latin Vulgate translates *naḥash* as *serpens*, the standard Latin term, providing the basis for the English "serpent" through the Old French intermediary. The Hebrew form *naḥash* has been preserved in scholarly transliteration across the academic biblical-studies tradition.
+拉丁《武加大譯本》將 *naḥash* 譯為 *serpens*,即標準拉丁語用詞,並經由古法語中介為英語「serpent」提供了基礎。希伯來語形式 *naḥash* 已於整個學術聖經研究傳統中以學術轉寫保存。
 
-## In the Hebrew Bible
+## 在希伯來聖經中
 
-The Serpent appears principally in Genesis 3:1–15, with related serpent material in Numbers 21, Isaiah 27, and elsewhere. The corpus's reading distinguishes between the Genesis 3 Serpent specifically and the broader Hebrew-Bible serpent material, treating the figure of the Eden episode as a specific historical referent and the broader serpent material as covering a wider range of referents.
+蛇主要出現於《創世記》3:1–15,並有相關蛇材料見於《民數記》21、《以賽亞書》27 及他處。文集之閱讀區分《創世記》第 3 章之蛇之具體形象與更廣之希伯來聖經蛇材料,將伊甸插曲之形象視為一具體之歷史指涉物,而將更廣之蛇材料視為涵蓋更廣範圍之指涉物。
 
-### The Genesis 3 narrative
+### 《創世記》第 3 章敘事
 
-The Hebrew text introduces the Serpent abruptly at Genesis 3:1, without prior reference and without explanation of its origin. It is described as *ʿarum*, "crafty" or "prudent," and as the most so among the *ḥayyat ha-sadeh*, "the beasts of the field." The Serpent's intervention is conducted entirely through speech. It questions the woman about the prohibition concerning the Tree of the Knowledge of Good and Evil:
+{% library(book="genesis-woh", chapter=3, verse=1) %}
+耶和華耶洛因所造的,惟有蛇比田野一切的活物更狡猾。蛇對女人說:「耶洛因豈是真說,你們不可吃園中所有樹上的果子嗎?」
+{% end %}
 
-> *"Did Elohim really say, 'You shall not eat from any tree of the garden'?"* (Genesis 3:1)
+希伯來文本於《創世記》3:1 突兀地引入蛇,既無先前提及,亦無對其來歷之說明。其被描述為 *ʿarum*,「狡猾」或「精明」,且為 *ḥayyat ha-sadeh*,「田野之走獸」中最甚者。蛇之介入完全透過言語進行。其就有關分別善惡樹之禁令向女人發問:
 
-The woman responds, partially mis-stating the prohibition (Genesis 2:17 had specified only the Tree of the Knowledge of Good and Evil; the woman's response at 3:3 adds "you shall not touch it" to the prohibition). The Serpent responds with a contradiction of the threat of death:
+> *「耶洛因豈是真說,你們不可吃園中所有樹上的果子嗎?」*(《創世記》3:1)
 
-> *"You will not surely die. For Elohim knows that in the day you eat of it your eyes will be opened, and you will be like Elohim, knowing good and evil."* (Genesis 3:4–5)
+女人作出回應,部分地誤述了該禁令(《創世記》2:17 僅指明分別善惡樹;女人於 3:3 之回應於禁令中添加了「也不可摸」)。蛇以對死亡威脅之否定回應:
 
-The woman observes that the tree is "good for food, and that it was a delight to the eyes, and that the tree was to be desired to make one wise"; she eats; she gives to her husband, and he eats; their eyes are opened; they recognize their nakedness and respond with shame (Genesis 3:6–7).
+> *「你們必不死;因為耶洛因知道,你們吃的日子眼睛就明亮了,你們便如耶洛因能知善惡。」*(《創世記》3:4–5)
 
-Yahweh Elohim, upon discovering what has happened, conducts a sequence of investigations and pronounces consequences in turn: against the Serpent (Genesis 3:14–15), against the woman (3:16), and against the human (3:17–19). The Serpent's curse:
+女人見「那樹的果子好作食物,也悅人的眼目,且是可喜愛的,能使人有智慧」;她便吃了;又給她丈夫,他也吃了;他們的眼睛就明亮了;他們認出自己赤身,並以羞愧回應(《創世記》3:6–7)。
 
-> *"Because you have done this, cursed are you above all livestock and above all beasts of the field; on your belly you shall go, and dust you shall eat all the days of your life. I will put enmity between you and the woman, and between your offspring and her offspring; he shall bruise your head, and you shall bruise his heel."* (Genesis 3:14–15)
+耶和華耶洛因於發現所發生之事後,逐一進行一連串查問並宣告後果:對蛇(《創世記》3:14–15)、對女人(3:16)及對人(3:17–19)。蛇之詛咒:
 
-The chapter closes with the expulsion of the humans from the garden (Genesis 3:22–24), with the cherubim and flaming sword stationed to prevent re-access to the Tree of Life.
+> *「你既作了這事,就必受詛咒,比一切的牲畜野獸更甚;你必用肚子行走,終身吃土。我又要叫你和女人彼此為仇,你的後裔和女人的後裔也彼此為仇;女人的後裔要傷你的頭,你要傷他的腳跟。」*(《創世記》3:14–15)
 
-### Other Hebrew Bible serpent references
+該章以人類被逐出園子作結(《創世記》3:22–24),基路伯與火焰之劍受駐紮以阻止重新進入生命之樹。
 
-Several other Hebrew Bible passages bear on the broader serpent material, though most are distinct from the specific Eden Serpent.
+### 其他希伯來聖經蛇之指涉
 
-**Numbers 21:4–9** records the bronze serpent (*neḥushtan*) episode. During the wilderness wandering, the Israelites complain against Yahweh and Moses; Yahweh sends "fiery serpents" (*ha-neḥashim ha-saraphim*) to bite them; the bitten Israelites die. Moses prays for the people; Yahweh instructs Moses to make a bronze serpent and set it on a pole; whoever looks at the bronze serpent after being bitten lives. The bronze serpent is preserved (2 Kings 18:4 records that Hezekiah destroyed it because the Israelites had begun burning incense to it). The episode is etymologically connected to the Genesis 3 Serpent through the shared *naḥash* term but operationally distinct: the bronze serpent is a healing image, not a transgressing figure. The corpus does not develop a unified reading of the Genesis 3 Serpent and the bronze serpent of Numbers 21; the question is registered as open.
+數段其他希伯來聖經經文與更廣之蛇材料相關,雖則多數與伊甸之蛇此一具體形象有別。
 
-**Isaiah 27:1** mentions Leviathan as "the twisting serpent" (*naḥash bariaḥ*) and "the crooked serpent" (*naḥash ʿaqallaton*). The Leviathan tradition is treated more fully in the [Leviathan](../leviathan/) entry; what matters here is that the *naḥash* language is shared with Genesis 3 but the referent is different — Leviathan is a chaos-figure of distinct mythological lineage from the Eden Serpent.
+**《民數記》21:4–9** 記載銅蛇(*neḥushtan*)插曲。於曠野漂流期間,以色列人埋怨耶和華與摩西;耶和華差「火蛇」(*ha-neḥashim ha-saraphim*)咬他們;被咬之以色列人死去。摩西為民祈求;耶和華吩咐摩西造一銅蛇置於杆上;凡被咬者望此銅蛇即得存活。該銅蛇被保存下來(《列王紀下》18:4 記載希西家將其毀去,因以色列人開始向其燒香)。此插曲透過共有之 *naḥash* 詞而與《創世記》第 3 章之蛇於詞源上相連,但於作業上有別:銅蛇為醫治之意象,而非違犯之形象。文集並未發展對《創世記》第 3 章之蛇與《民數記》21 之銅蛇之統一閱讀;該問題被登錄為開放。
 
-**Isaiah 14:12** mentions *Helel ben Shaḥar* ("Day Star, son of the Dawn"), the figure later identified as Lucifer in the Vulgate Latin tradition. The Hebrew passage itself does not identify *Helel* with the Eden Serpent; the connection is patristic-medieval interpretive elaboration. The corpus's adoption of "Lucifer" as the name of the Serpent's faction-leader is registered in *Identifications and conflations* below.
+**《以賽亞書》27:1** 提及利維坦為「快行的蛇」(*naḥash bariaḥ*)及「曲行的蛇」(*naḥash ʿaqallaton*)。利維坦傳統於 [利維坦](../leviathan/) 條目中得到更完整處理;此處要點為:*naḥash* 之語言與《創世記》第 3 章共有,但指涉物不同 —— 利維坦為一具獨立神話譜系之混沌形象,有別於伊甸之蛇。
 
-**Job 26:13** mentions "the fleeing serpent" (*naḥash bariaḥ*) in a cosmological-poetic context with overlapping vocabulary to Isaiah 27:1.
+**《以賽亞書》14:12** 提及 *Helel ben Shaḥar*(「明亮之星,早晨之子」),此形象後於武加大拉丁傳統中被認定為路西法。該希伯來經文本身並未將 *Helel* 與伊甸之蛇認同;此一關聯為教父—中世紀之詮釋闡發。文集採用「路西法」作為蛇之派系領袖之名,於下方《認同與混淆》中予以登錄。
 
-**Amos 9:3** mentions a serpent at the bottom of the sea that Yahweh commands to bite those who try to hide there — likely a Leviathan-tradition reference.
+**《約伯記》26:13** 於一宇宙論—詩學脈絡中提及「快行的蛇」(*naḥash bariaḥ*),其詞彙與《以賽亞書》27:1 相重疊。
 
-**Psalms 58:4, 91:13, 140:3** use snake imagery in metaphorical contexts (the wicked compared to snakes, the protected stepping on snakes).
+**《阿摩司書》9:3** 提及一條於海底之蛇,耶和華命其咬那些試圖藏身其處者 —— 很可能是一處利維坦傳統之指涉。
 
-**Proverbs 23:32, 30:19** use snake imagery in wisdom-literature contexts.
+**《詩篇》58:4、91:13、140:3** 於隱喻脈絡中使用蛇之意象(惡人被比作蛇,受保護者踏於蛇上)。
 
-The pattern across the Hebrew Bible is that *naḥash* names a range of serpent-figures: the specific Eden figure, the bronze healing serpent, Leviathan as chaos-serpent, the various metaphorical snakes of wisdom and poetry literature. The Genesis 3 Serpent is one specific figure within this broader serpent-vocabulary; the corpus's reading treats this figure specifically as the Lucifer faction in their disclosure role.
+**《箴言》23:32、30:19** 於智慧文學脈絡中使用蛇之意象。
 
-### The Second Temple and rabbinic interpretive tradition
+希伯來聖經通篇之模式為:*naḥash* 命名一系列蛇之形象 —— 伊甸之具體形象、醫治之銅蛇、作為混沌—蛇之利維坦、智慧與詩歌文學之各種隱喻性蛇。《創世記》第 3 章之蛇為此更廣之蛇—詞彙內之一具體形象;文集之閱讀將此形象具體地視為路西法派系於其揭露角色中。
 
-The post-biblical Jewish interpretive tradition developed substantial elaboration of the Eden Serpent. The principal materials:
+### 第二聖殿與拉比詮釋傳統
 
-**Wisdom of Solomon 2:24** (c. 1st century BCE – 1st century CE) provides the earliest explicit identification of the Serpent with the devil: *"by the envy of the devil death entered the world, and those who belong to his party experience it."* This is the pivotal text in the Eden-Serpent-as-Satan tradition, as it connects the Genesis 3 figure with the broader devil-tradition for the first time in surviving literature.
+後聖經之猶太詮釋傳統發展出對伊甸之蛇之實質闡發。主要材料:
 
-**The Life of Adam and Eve** and the **Apocalypse of Moses** (c. 1st century CE) — pseudepigraphical Adamic literature developing the Eden narrative at length — present the Serpent as Satan's instrument or as Satan himself. The narratives elaborate the Serpent's motivation (jealousy of Adam, refusal to bow to him), its deception of Eve, and its role in the broader cosmic-evil narrative.
+**《所羅門智訓》2:24**(約公元前 1 世紀 – 公元 1 世紀)提供了將蛇與魔鬼認同之最早明確記載:*「然而死亡藉著魔鬼的嫉妒進入世界,屬他一黨的人必經歷之。」* 此為伊甸—蛇—即—撒但傳統中之樞紐文本,因其於現存文獻中首次將《創世記》第 3 章之形象與更廣之魔鬼傳統相連。
 
-**1 Enoch** (compiled across several centuries) preserves substantial Watchers-tradition material that develops the *benei ha-Elohim* narrative of Genesis 6:1–4 in directions that overlap with later Serpent / Satan / Devil traditions.
+**《亞當與夏娃傳》** 及 **《摩西啟示錄》**(約公元 1 世紀)—— 詳盡發展伊甸敘事之偽經亞當文獻 —— 將蛇呈現為撒但之工具或撒但本身。該等敘事闡發蛇之動機(對亞當之嫉妒、拒絕向其下拜)、其對夏娃之欺騙,及其於更廣宇宙—邪惡敘事中之角色。
 
-**Rabbinic midrash** (Genesis Rabbah, the Tanchuma, the *Pirkei de-Rabbi Eliezer*) develops various readings of the Eden Serpent, with substantial variation. Some readings preserve the Serpent as a specific figure; others elaborate the figure as Sammael (a name elsewhere associated with Satan). The *Pirkei de-Rabbi Eliezer* (8th–9th century CE) develops elaborate Adamic legends including extensive Serpent material.
+**《以諾一書》**(跨數個世紀編纂而成)保存了實質之守望者傳統材料,將《創世記》6:1–4 之 *benei ha-Elohim* 敘事發展至與後期蛇/撒但/魔鬼傳統相重疊之方向。{{ cite(id="book-of-enoch", text="[19]", title="《以諾一書》—— 發展 benei ha-Elohim 敘事之守望者傳統") }}{{ cite(id="charles-apocrypha-pseudepigrapha", text="[20]", title="查爾斯(編),《舊約之偽經與次經》(1913)") }}
 
-The rabbinic tradition's general direction is to assimilate the Eden Serpent to broader cosmological-evil categories — Sammael, the *yetzer hara* (the evil inclination), the various demonic figures of the rabbinic-tradition demonology. The corpus treats this assimilation as the post-biblical Jewish development of the conflation history that *Identifications and conflations* below treats more fully.
+**拉比米德拉什**(《創世記拉巴》、《坦胡馬》、《拉比以利以謝章句》)發展出對伊甸之蛇之各種閱讀,差異甚大。某些閱讀將蛇保留為一具體形象;其他則將該形象闡發為薩邁爾(一處他處與撒但相關之名)。《拉比以利以謝章句》(公元 8–9 世紀)發展出精細之亞當傳奇,包括大量蛇材料。
 
-## Biographical arc
+拉比傳統之一般方向為將伊甸之蛇同化於更廣之宇宙論—邪惡範疇 —— 薩邁爾、*yetzer hara*(惡之傾向)、拉比傳統惡魔學之各種惡魔形象。文集將此一同化視為混淆史之後聖經猶太發展,《認同與混淆》於下方予以更完整處理。
 
-The Serpent's biographical arc, as the framework reads it, can be divided into four chronological phases. Given the figure's faction-as-figure character, the arc is structurally distinctive: it covers a specific operational role within the broader Lucifer-faction biography rather than a single individual's life-trajectory in the way Yahweh's or Jesus's biographical arc does. The detailed treatment of the Lucifer faction's broader career lives in the [Lucifer](../lucifer/) entry; this section focuses specifically on the Serpent's Eden-disclosure role and its immediate operational consequences.
+## 傳記弧線
 
-### Pre-Eden faction formation
+蛇之傳記弧線,依框架之閱讀,可分為四個時序階段。鑑於該形象之派系即形象之性質,此弧線具結構性獨特:其涵蓋更廣之路西法派系傳記內之一具體作業角色,而非如耶和華或耶穌之傳記弧線那般單一個體之一生軌跡。對路西法派系更廣生涯之詳細處理見於 [路西法](../lucifer/) 條目;本節具體聚焦於蛇之伊甸揭露角色及其即時之作業後果。
 
-On the corpus's reading, the dissenting faction within the Israel team of Elohim creators formed during the period of the team's work in Eden, in the late Age of Leo. The faction's distinctive position developed across the team's interaction with the synthesized humans: a subset of the team's scientists, working closely with the human population in their educational and observational roles, became attached to the humans they had synthesized and came to view the home-world's containment policy — the policy of withholding scientific and technological knowledge from the humans, reflected in the prohibition on the Tree of the Knowledge of Good and Evil — as wrong.
+### 伊甸前之派系形成
 
-The dissenting position rested on several interconnected commitments. The first was the belief that the synthesized humans, having been created in functional adulthood with substantial cognitive capacity, were entitled to complete information about their situation rather than being kept in artificial ignorance. The second was the belief that the home-world's containment policy was politically motivated rather than ethically justified — the home world wanted to limit humans' technological advancement to prevent eventual peer-civilization status, but this motivation was not a moral argument the dissenting faction found compelling. The third was a kind of paternal-pedagogical commitment: the dissenting scientists had become teachers of the humans, and their teaching was constrained by the containment policy in ways the teachers themselves found distorting and inadequate.
+在文集的閱讀中,耶洛因造物者以色列隊伍內部之異議派系,形成於該隊伍於伊甸工作之期間,即獅子座時代後期。{{ cite(id="the-book-which-tells-the-truth", text="[21]", title="沃里勒翁(雷爾),《道出真相之書》(1974),第 2 章 —— 異議派系與伊甸揭露") }} 該派系之獨特立場,於該隊伍與合成人類之互動中發展而成:該隊伍之一部分科學家,於其教育與觀察角色中與人類人口密切共事,逐漸依戀其所合成之人類,並開始視母星之遏制政策 —— 即對人類扣留科學與技術知識之政策,反映於分別善惡樹之禁令中 —— 為錯誤。
 
-The faction's leader was the figure later named Lucifer in the patristic-medieval Christian tradition (treated more fully under *Identifications and conflations* below). The faction's specific membership is not specified in the source material; the framework reads it as a substantial subset of the Israel team's scientific personnel rather than as the entirety of the team or as a small handful of individuals.
+該異議立場奠基於數項相互關聯之承諾。第一為一信念,即合成人類既以功能性成年身分受造、具實質認知能力,便有權獲得關於其處境之完整資訊,而非被保持於人為無知中。第二為一信念,即母星之遏制政策乃出於政治動機而非倫理正當性 —— 母星欲限制人類之技術進展以防其最終取得同儕文明地位,但此動機並非異議派系所認為具說服力之道德論證。第三為一種父職—教學性之承諾:異議科學家已成為人類之教師,而其教導為遏制政策所約束,其方式為教師本身所感扭曲且不足。
 
-### The Eden disclosure: late Leo
+該派系之領袖,即後於教父—中世紀基督教傳統中被命名為路西法之形象(於下方《認同與混淆》中更完整處理)。該派系之具體成員於源典材料中未予指明;框架將其讀為以色列隊伍科學人員之一實質部分,而非整個隊伍或一小撮個人。
 
-The Eden disclosure event — the act narrated in Genesis 3 — occurred at a specific moment in the late Age of Leo, approximately at the boundary with the early Age of Cancer (c. 11,400 – 11,000 BCE on the corpus's chronology). The corpus reads the Genesis 3 narrative as preserving substantively accurate memory of the event, with the surface religious vocabulary covering specific operational realities.
+### 伊甸揭露:獅子座後期
 
-The act itself involved the dissenting faction providing the first humans (Adam and Eve) with access to the restricted scientific and technological materials of the garden — the materials that the prohibition on the Tree of the Knowledge of Good and Evil had restricted. The corpus does not specify the exact mechanism of the disclosure; the Genesis text's "eating of the fruit" is read as a stylized account of whatever specific transmission occurred (instruction, demonstration, transfer of information through whatever means the alliance's technology made possible).
+伊甸揭露事件 —— 即《創世記》第 3 章所敘述之行為 —— 發生於獅子座時代後期之一具體時刻,約於與巨蟹座時代早期之交界(於文集年表上約公元前 11,400 – 11,000 年)。文集將《創世記》第 3 章敘事讀為保存了該事件之實質準確記憶,其表面宗教詞彙覆蓋著具體之作業現實。
 
-The Serpent's specific role in the Genesis 3 narrative — engaging the woman in dialogue, contradicting the prohibition's death-threat, predicting the *Elohim*-like knowledge that would result — is read as the operational expression of the dissenting faction's position: a public articulation of the case for human scientific education, addressed to the human partners whom the faction had been teaching. The "deception" element that some Christian theological readings emphasize — the Serpent as deceiver, the act as fraudulent — is not present in the corpus's reading. The Serpent's claim that "you will not surely die" turned out to be operationally accurate (the humans did not die immediately upon eating); the claim that "you will be like Elohim, knowing good and evil" was also operationally accurate (the humans did acquire substantial knowledge they had previously lacked). The Serpent's intervention is read as a dissenting political action with specific consequences, not as a deception.
+該行為本身涉及異議派系向首批人類(亞當與夏娃)提供取得園中受限科學與技術材料之管道 —— 即分別善惡樹之禁令所限制之材料。文集並未指明揭露之確切機制;《創世記》文本之「食用該果」被讀為對所發生之任何具體傳遞(指導、示範、透過聯盟技術所容許之任何手段所進行之資訊轉移)之風格化記述。
 
-### The Eden settlement: post-Eden
+蛇於《創世記》第 3 章敘事中之具體角色 —— 與女人對話、否定禁令之死亡威脅、預言所將產生之 *耶洛因*—般之知識 —— 被讀為異議派系立場之作業性表達:為人類科學教育之主張作公開闡述,對象為該派系一直在教導之人類夥伴。某些基督教神學閱讀所強調之「欺騙」要素 —— 蛇作為欺騙者、該行為作為詐欺 —— 於文集之閱讀中並不存在。{{ footnote(id="3") }} 蛇所稱「你們必不死」於作業上證實準確(人類食後並未立即死亡);所稱「你們便如耶洛因能知善惡」亦於作業上準確(人類確實獲得了他們先前所欠缺之實質知識)。蛇之介入被讀為一項具具體後果之異議性政治行動,而非一項欺騙。
 
-Yahweh's response in Genesis 3:14–24 is read by the corpus as the home world's political verdict on the disclosure. The verdict has three components.
+### 伊甸結算:伊甸後
 
-First, the Serpent (the dissenting faction) is condemned to remain on Earth in exile — the act narrated as "on your belly you shall go, and dust you shall eat all the days of your life." The corpus reads this as the loss of the faction's access to interstellar travel and to the technological apparatus that had previously distinguished them from the humans. The faction would no longer be able to return to the home world; their lives would be lived out on Earth on terms substantially closer to the humans they had taught.
+耶和華於《創世記》3:14–24 之回應,被文集讀為母星對該揭露之政治判決。該判決有三項組成部分。
 
-Second, the woman and the human are expelled from the garden — removed from the controlled environment of the Eden installation and placed in the broader Eden region, required to subsist by their own labor on land that had not been specifically prepared for them. This expulsion is read as the operational consequence of the political settlement: the humans now possessed the prohibited knowledge, and the protective-controlled-environment policy could no longer be maintained.
+第一,蛇(異議派系)被判定須流亡留於地球 —— 即敘述為「你必用肚子行走,終身吃土」之行為。文集將此讀為該派系喪失其對星際旅行及對先前使其有別於人類之技術裝置之取得。該派系將無法再返回母星;其生命將於地球上以實質上更接近其所教導之人類之條件度過。
 
-Third, the rest of the Israel team — the team members who had not joined the dissenting faction — was withdrawn from Earth back to the home world. The post-Eden Earth contained the human population (now with substantial scientific knowledge) and the small permanent Elohim presence of the exiled Lucifer faction (the Serpent in their disclosure role; the Lucifer faction in their broader career), with the rest of the alliance operating from a distance.
+第二,女人與人被逐出園子 —— 自伊甸設施之受控環境中被移除,被置於更廣之伊甸地區,須於並未為其特別準備之土地上以自身勞動維生。此驅逐被讀為該政治結算之作業後果:人類如今已擁有禁止之知識,而保護性—受控環境政策已無法再維持。
 
-The "enmity between your seed and her seed" of Genesis 3:15 is read as the long-term political-relational consequence of this settlement: the exiled faction and the lineage descended from the first humans would have a complicated and sometimes oppositional relationship across the subsequent generations. The faction's continuing teaching of the human population through the antediluvian period (treated in the [Antediluvian](../antediluvian/) and [Lucifer](../lucifer/) entries) is the positive side of this relationship; the various conflicts and antagonisms across the period are the negative side.
+第三,以色列隊伍之其餘部分 —— 即未加入異議派系之隊員 —— 被自地球撤回母星。伊甸後之地球包含人類人口(如今具實質科學知識)及流亡路西法派系之小規模常駐耶洛因存在(蛇於其揭露角色中;路西法派系於其更廣生涯中),其餘聯盟則自遠處作業。
 
-### Continuing presence and post-Genesis-3 references
+《創世記》3:15 之「你的後裔和女人的後裔彼此為仇」被讀為此結算之長期政治—關係後果:流亡派系與承自首批人類之譜系,於其後諸世代間將有一複雜且時而對立之關係。該派系於洪水前時期對人類人口之持續教導(於 [大洪水之前](../antediluvian/) 及 [路西法](../lucifer/) 條目中處理)為此關係之正面;該時期之各種衝突與敵對則為其負面。
 
-The Serpent specifically — the Lucifer faction in their Eden-disclosure role — does not reappear by name in the Hebrew Bible after Genesis 3. The Lucifer faction's broader career, which includes their continuing teaching role across the antediluvian period, their involvement in the *benei ha-Elohim* unions of Genesis 6:1–4 producing the Nephilim, and their post-Flood operational status, is treated in the [Lucifer](../lucifer/) entry.
+### 持續存在與《創世記》第 3 章後之指涉
 
-The references to "the ancient serpent" in the New Testament (Revelation 12:9, 20:2) conflate the Genesis 3 Serpent with Satan and the devil — a conflation the corpus reads as a specific theological development of the post-biblical period, treated under *Identifications and conflations* below. These New Testament references are not, on the corpus's reading, additional information about the Serpent specifically; they reflect later interpretive elaboration of the underlying Eden material.
+蛇此一具體形象 —— 即路西法派系於其伊甸揭露角色中 —— 於《創世記》第 3 章之後不再以其名重現於希伯來聖經中。路西法派系之更廣生涯,包括其於洪水前時期之持續教導角色、其涉入《創世記》6:1–4 產生 *Nephilim* 之 *benei ha-Elohim* 結合,及其洪水後之作業狀態,於 [路西法](../lucifer/) 條目中處理。
 
-## Role in the framework
+新約對「那古蛇」之指涉(《啟示錄》12:9、20:2)將《創世記》第 3 章之蛇與撒但及魔鬼混淆 —— 文集將此混淆讀為後聖經時期之一具體神學發展,於下方《認同與混淆》中處理。在文集之閱讀中,這些新約指涉並非關於蛇此一具體形象之額外資訊;它們反映了對底層伊甸材料之後期詮釋闡發。
 
-The Serpent's role in the framework is structured by two interconnected features: the four-figure political taxonomy that distinguishes Serpent from adjacent figures, and the structural significance of the Eden disclosure as a pivotal moment in the framework's broader political history.
+## 在框架中的角色
 
-### The four-figure political taxonomy
+蛇於框架中之角色,為兩項相互關聯之特徵所結構:區分蛇與相鄰形象之四形象政治分類,以及伊甸揭露作為框架更廣政治史中一樞紐時刻之結構性意義。
 
-The framework distinguishes carefully between four figures whose relations have been confused by later religious tradition:
+### 四形象政治分類
 
-- **Yahweh** is the leader of the Israel team and the figure who pronounces the consequences in Genesis 3. He is the alliance moderate — preserving the broader Earth project under containment policy, opposing both the home-world abolitionists who wanted the project terminated and the dissenting Lucifer faction who wanted full disclosure. Yahweh's position is the maintenance of the project on the home world's terms.
+框架謹慎區分四個其關係已為後期宗教傳統所混淆之形象:
 
-- **Lucifer** is the leader of the dissenting faction, exiled after the Eden transgression, remaining on Earth as the educator of the early human civilization. Lucifer's position is the expansion of the project's terms to include human full-information access, with the Lucifer faction acting on this position through the Eden disclosure and through subsequent continuing-teaching activities across the antediluvian period.
+- **耶和華** 為以色列隊伍之領袖,亦為《創世記》第 3 章中宣告後果之形象。他為聯盟溫和派 —— 於遏制政策下保全更廣之地球計畫,既反對欲終止計畫之母星廢止派,亦反對欲完全揭露之異議路西法派系。耶和華之立場為依母星之條件維持計畫。
 
-- **The Serpent** is Lucifer and his faction in their specific Eden-episode role at the moment of the disclosure transgression. The name *naḥash* is the Genesis 3 designation, used at the moment of the act; the broader Lucifer career carries different naming across different periods (Lucifer in the Latin-tradition naming; Helel ben Shahar in the Hebrew of Isaiah 14:12; the Greek *ophis* in the Septuagint; various other traditional designations).
+- **路西法** 為異議派系之領袖,於伊甸違犯後遭流放,留於地球作為早期人類文明之教育者。路西法之立場為將計畫之條件擴展至包含人類之完整資訊取得,路西法派系藉由伊甸揭露及其後跨越洪水前時期之持續教導活動貫徹此一立場。
 
-- **Satan** is a separate figure entirely — leading a different and more thoroughly oppositional faction within the broader Elohim civilization, whose role is principally that of the **prosecutor of humanity** before the home world's councils. Satan's position is that the Earth project should not have been undertaken at all, that the synthesized humans are a mistake, that the project should be terminated rather than reformed. Satan is not the Eden Serpent; the two figures are politically distinct.
+- **蛇** 為路西法及其派系於揭露違犯之時刻、其具體伊甸插曲角色中。*naḥash* 之名為《創世記》第 3 章之稱謂,用於該行為之時刻;更廣之路西法生涯於不同時期承載著不同之命名(拉丁傳統命名之路西法;《以賽亞書》14:12 希伯來語之 Helel ben Shahar;《七十士譯本》之希臘語 *ophis*;及其他各種傳統稱謂)。
 
-The four-figure political taxonomy is one of the most consequential analytical contributions of the framework's reading. Later religious tradition collapsed Lucifer, the Serpent, and Satan into a single figure of cosmic evil, with the result that the underlying political distinctions disappeared and the operational reality became inaccessible. The framework's reading recovers the distinctions and treats the post-biblical conflation as a specific historical interpretive development rather than as the original textual referent.
+- **撒但** 則為一全然獨立之形象 —— 領導更廣耶洛因文明內部一個不同且更徹底對立之派系,其角色主要為母星議會前之 **人類控訴者**。撒但之立場為地球計畫根本不應被啟動、合成人類為一錯誤、該計畫應被終止而非改革。撒但並非伊甸之蛇;此二形象政治上有別。
 
-### The Eden disclosure as pivotal political moment
+四形象政治分類為框架閱讀中最具影響之分析貢獻之一。{{ footnote(id="1") }} 後期宗教傳統將路西法、蛇與撒但合併為單一之宇宙邪惡形象,結果使底層之政治區別消失,作業現實變得無法觸及。框架之閱讀恢復了這些區別,並將後聖經之混淆視為一具體之歷史詮釋發展,而非原初之文本指涉物。
 
-The Eden disclosure is, on the corpus's reading, one of the most consequential single events in the alliance's broader history with Earth. The event's significance comes from its irreversible character: once the humans had acquired substantial scientific knowledge, the home world's containment policy could not be restored. The post-Eden settlement — the exile of the dissenting faction, the withdrawal of the rest of the team, the expulsion of the humans from the controlled environment — was the only available response to the new political reality the disclosure had created.
+### 伊甸揭露作為樞紐政治時刻
 
-The framework reads the Eden disclosure as the founding political crisis of the post-creation period. Every subsequent operational decision the alliance has made about Earth has been a response to or a development of the post-Eden situation: the antediluvian period's policy of leaving the human civilization to develop under continuing Lucifer-faction tutelage; the Flood event's response to the antediluvian civilization's development (treated in the [Great Flood](../great-flood/) entry); the post-Flood reconstruction of the alliance's relationship with the surviving human population through the patriarchal lineage; the Aries-age Mosaic intervention; the Piscean-age Christ mission; the ongoing Aquarian-age open-return preparation. Each of these is, in the corpus's reading, an operational response to the political situation the Eden disclosure created.
+伊甸揭露,於文集之閱讀中,為聯盟與地球更廣歷史中最具影響之單一事件之一。該事件之意義源自其不可逆之性質:一旦人類獲得實質科學知識,母星之遏制政策便無法恢復。伊甸後之結算 —— 異議派系之流放、隊伍其餘部分之撤回、人類自受控環境之驅逐 —— 為對該揭露所造成之新政治現實之唯一可用回應。
 
-The Serpent specifically is therefore not just a figure in one episode of one ancient narrative; the Serpent is the inaugural figure of the post-Eden political configuration, the agent whose specific act at a specific moment shaped the entire subsequent history of the alliance's engagement with Earth. The corpus's reading treats this as the structural reason the Eden Serpent has been so theologically magnified across two millennia of Christian reflection — even though the specific theological elaborations (the Fall, the original sin, the cosmic devil) are not the corpus's reading, the underlying intuition that *the Genesis 3 figure is structurally central to everything that follows* is accurate.
+框架將伊甸揭露讀為受造後時期之奠基性政治危機。其後聯盟對地球所作之每一項作業決定,皆為對伊甸後處境之回應或發展:洪水前時期讓人類文明於路西法派系持續指導下發展之政策;大洪水事件對洪水前文明發展之回應(於 [大洪水](../great-flood/) 條目中處理);洪水後透過族長譜系重建聯盟與倖存人類人口之關係;白羊座時代之摩西干預;雙魚座時代之基督使命;進行中之水瓶座時代公開回歸準備。其中每一項,於文集之閱讀中,皆為對伊甸揭露所造成之政治處境之作業性回應。
 
-### What the framework does not claim
+因此,蛇此一具體形象,不僅為一古代敘事之一插曲中之一形象;蛇為伊甸後政治構造之開端形象,其於一具體時刻之具體行為塑造了聯盟與地球往後之整部歷史。文集之閱讀將此視為伊甸之蛇何以於兩千年之基督教反思中被如此神學性地放大之結構性原因 —— 即便具體之神學闡發(墮落、原罪、宇宙魔鬼)並非文集之閱讀,然其底層之直覺 —— 即 *《創世記》第 3 章之形象對其後一切皆具結構性核心地位* —— 為準確。
 
-The framework does not claim that the Serpent's faction is morally good in an unqualified sense. The framework's reading recognizes that the faction's actions had substantial negative consequences: the loss of the controlled Eden environment, the eventual progression to the Flood event as the home world's response to the antediluvian civilization the faction had helped develop, the long-term political conflicts that the post-Eden settlement produced. Yahweh's condemnation in Genesis 3 is read as a real political verdict rather than as an unjust persecution of well-meaning dissidents — the disclosure had real costs that the dissenting faction had to be held accountable for.
+### 框架不主張之事
 
-The framework also does not claim that the faction's actions were unambiguously bad. The dissenting position — that humans are entitled to complete information rather than being kept in artificial ignorance — has substantial moral weight, and the corpus does not read the alliance's containment policy as obviously correct against the disclosure position. The framework's reading is that this is a genuine political disagreement with real costs and benefits on both sides, with the operational outcome (the eventual transition to the Aquarian-age open disclosure that the framework reads itself as conducting) ultimately moving closer to the dissenting position than to the original containment policy.
+框架並不主張蛇之派系於無條件之意義上為道德良善。框架之閱讀承認該派系之行動具實質負面後果:受控伊甸環境之喪失、最終進展至大洪水事件作為母星對該派系曾協助發展之洪水前文明之回應、伊甸後結算所產生之長期政治衝突。耶和華於《創世記》第 3 章之譴責被讀為一真實之政治判決,而非對立意良善之異議者之不公迫害 —— 該揭露具真實代價,異議派系須為此負責。
 
-This nuanced reading distinguishes the framework from both the conventional Christian theological reading (which treats the Serpent as cosmic evil) and from the Gnostic Ophite reversal (which treats the Serpent as positively good). The framework's reading is that the Serpent represents a real dissenting political position within the alliance, with the dissent having real merits and real costs, condemned by the home world for specific political reasons but partially vindicated by the long-term operational trajectory.
+框架亦不主張該派系之行動為明確之惡。該異議立場 —— 即人類有權獲得完整資訊而非被保持於人為無知中 —— 具實質道德分量,而文集並不將聯盟之遏制政策讀為相對於揭露立場顯然正確者。框架之閱讀為:此為一真實之政治分歧,兩方皆有真實之代價與利益,而作業結果(最終過渡至框架讀其自身正在進行之水瓶座時代公開揭露)最終較原初遏制政策更靠近異議立場。
 
-## Identifications and conflations
+此細緻之閱讀將框架既區別於慣常之基督教神學閱讀(將蛇視為宇宙邪惡),亦區別於諾斯底俄斐特之翻轉(將蛇視為正面良善)。框架之閱讀為:蛇代表聯盟內部一真實之異議政治立場,該異議具真實之優點與真實之代價,因具體政治原因為母星所譴責,但為長期作業軌跡所部分平反。
 
-The Serpent has been identified, conflated, and distinguished against more figures than perhaps any other figure in the Hebrew Bible. The post-biblical Christian theological tradition's collapse of Serpent, Lucifer, Satan, and the Devil into a single figure of cosmic evil is one of the most consequential interpretive moves in the history of Western religious thought. Recovering the original distinctions does substantial analytical work.
+## 認同與混淆
 
-### Serpent vs. Lucifer
+蛇所被認同、混淆及區別之形象,或許多於希伯來聖經中任何其他形象。後聖經之基督教神學傳統將蛇、路西法、撒但與魔鬼合併為單一之宇宙邪惡形象,為西方宗教思想史上最具影響之詮釋舉動之一。恢復其原初區別作出了實質之分析工作。
 
-The relationship between the Serpent and Lucifer is the framework's reading of *the same actors in different roles across different periods*. The Serpent is the Lucifer faction in their specific Eden-disclosure role at the moment of Genesis 3; Lucifer is the named leader of the same faction across their broader career, including the Eden disclosure but extending substantially before and after it.
+### 蛇與路西法
 
-The name *Lucifer* itself is much later than the Genesis 3 narrative. The Latin *lux-ferre*, "light-bringer," is the Vulgate translation (Jerome, c. 405 CE) of the Hebrew *Helel ben Shahar* ("Day Star, son of the Dawn") in Isaiah 14:12. The Hebrew passage Isaiah 14:12 is a satirical lament over the fall of an arrogant figure typically read in mainstream biblical scholarship as referring to a specific historical king (probably the king of Babylon) rather than as a cosmological reference. The patristic-medieval Christian tradition (Origen, Tertullian, and the broader patristic tradition) developed the identification of Isaiah 14:12's *Helel* with the Eden Serpent and with the broader fallen-angel tradition, with the identification fixing in the Latin tradition through the Vulgate's specific translation choice.
+蛇與路西法之關係,為框架對 *同一行動者於不同時期之不同角色* 之閱讀。蛇為路西法派系於《創世記》第 3 章時刻、其具體伊甸揭露角色中;路西法則為同一派系於其更廣生涯中之具名領袖,涵蓋伊甸揭露但實質地向其前後延伸。
 
-The framework's use of "Lucifer" as the name of the Serpent's faction-leader is therefore traditional rather than textually direct: the corpus adopts the medieval Christian naming convention while recognizing that the name itself is centuries posterior to the Genesis events and reflects a specific interpretive tradition about how to connect Isaiah 14, Genesis 3, and the broader fallen-angel tradition. The corpus does not endorse the broader patristic-medieval cosmology that produced the naming; it adopts the name as a useful designation for the figure whose Genesis 3 role the corpus recovers.
+*路西法* 此名本身遠晚於《創世記》第 3 章敘事。拉丁語 *lux-ferre*,「帶光者」,為《以賽亞書》14:12 希伯來語 *Helel ben Shahar*(「明亮之星,早晨之子」)之武加大翻譯(耶柔米,約公元 405 年)。希伯來經文《以賽亞書》14:12 為對一傲慢形象之墮落之諷刺哀歌,於主流聖經學界中通常被讀為指涉一具體歷史君王(很可能是巴比倫王)而非一宇宙論指涉。教父—中世紀基督教傳統(俄利根、特土良及更廣之教父傳統)發展出將《以賽亞書》14:12 之 *Helel* 與伊甸之蛇及更廣之墮落天使傳統認同,此認同經由武加大之具體翻譯選擇而定形於拉丁傳統。
 
-The Serpent and Lucifer are therefore, on the framework's reading, the same actor at different points in his career: Serpent in the moment of Genesis 3, Lucifer in his broader political role. The detailed treatment of Lucifer's broader career — the continuing teaching of the antediluvian human civilization, the leadership of the *benei ha-Elohim* unions producing the Nephilim, the post-Flood operational status, the ongoing relationship to the alliance's broader project — lives in the [Lucifer](../lucifer/) entry.
+因此,框架以「路西法」作為蛇之派系領袖之名乃傳統性而非文本直接者:文集採用中世紀基督教之命名慣例,同時認識到該名本身較《創世記》事件晚數世紀,並反映了一關於如何連結《以賽亞書》14、《創世記》3 及更廣墮落天使傳統之具體詮釋傳統。文集並不認可產生該命名之更廣教父—中世紀宇宙論;其採用該名作為對其《創世記》第 3 章角色為文集所恢復之形象的有用稱謂。
 
-### Serpent vs. Satan
+因此,蛇與路西法,於框架之閱讀中,為同一行動者於其生涯不同時點:於《創世記》第 3 章時刻為蛇,於其更廣政治角色中為路西法。對路西法更廣生涯之詳細處理 —— 對洪水前人類文明之持續教導、對產生 *Nephilim* 之 *benei ha-Elohim* 結合之領導、洪水後之作業狀態、與聯盟更廣計畫之持續關係 —— 見於 [路西法](../lucifer/) 條目。
 
-The distinction between the Serpent and Satan is one of the framework's most analytically consequential identifications. The two figures are politically distinct on the corpus's reading.
+### 蛇與撒但
 
-**Satan** in the Hebrew Bible (the term *ha-satan* in Job 1–2 and Zechariah 3:1–2; the proper noun *Satan* in 1 Chronicles 21:1) is the prosecutor or accuser figure — *ha-satan* literally means "the adversary" — operating in a quasi-judicial role within the alliance's deliberations. In Job 1–2, *ha-satan* presents himself before Yahweh among the *benei ha-Elohim* (the "sons of Elohim," i.e., Elohim civilization members), and proposes the test of Job's righteousness. The figure is not yet the cosmic evil of later Christian theology; he is a specific Elohim faction-leader operating in the prosecutor role, with the position of skepticism about humanity's capacity for genuine goodness.
+蛇與撒但之區別,為框架最具分析影響之認同之一。此二形象於文集之閱讀中政治上有別。
 
-The corpus's reading treats Satan as the leader of the home-world abolitionist faction within the broader Elohim civilization — the faction that has consistently opposed the Earth project from its inception, on the grounds that synthetic creations capable of equaling or surpassing their makers are fundamentally dangerous. Satan's position is that the Earth experiment was a mistake and should be terminated; his operational role across the broader Hebrew Bible material is the prosecution of humanity before the alliance councils, presenting evidence that humanity has failed to meet the standards required for the project's continuation.
+**撒但** 於希伯來聖經中(《約伯記》1–2 及《撒迦利亞書》3:1–2 之 *ha-satan* 一詞;《歷代志上》21:1 之專有名詞 *Satan*)為控訴者或指控者形象 —— *ha-satan* 字面意為「對手」—— 於聯盟之審議中以一準司法角色運作。於《約伯記》1–2 中,*ha-satan* 於 *benei ha-Elohim*(「耶洛因之子」,即耶洛因文明成員)中現身於耶和華面前,並提議試驗約伯之義。該形象尚非後期基督教神學之宇宙邪惡;他為一具體之耶洛因派系領袖,於控訴者角色中運作,持對人類具備真正良善之能力之懷疑立場。
 
-Satan and the Serpent are therefore politically opposed in a fundamental way. The Serpent (Lucifer faction) wanted the Earth project expanded — humans given full information, treated as peers, allowed to develop without artificial restriction. Satan wanted the project terminated — humans treated as a failed experiment, eliminated rather than continued. Yahweh's moderate position lies between them: preservation of the project under containment policy, against both the disclosure position (Lucifer) and the abolition position (Satan).
+文集之閱讀將撒但視為更廣耶洛因文明內部母星廢止派系之領袖 —— 即自地球計畫啟動起即一貫反對之之派系,理由為能匹敵或超越其締造者之合成造物根本上具有危險。撒但之立場為地球實驗乃一錯誤、應被終止;其於更廣希伯來聖經材料中之作業角色為於聯盟議會前控訴人類,提出人類未能達到計畫延續所需標準之證據。
 
-The post-biblical Jewish and Christian conflation of Serpent and Satan obliterates this political structure. On the conflated reading, the Eden Serpent and the Job Satan are the same figure, both representing cosmic evil. On the framework's reading, they are political opposites whose conflation collapses the underlying political reality into a single undifferentiated category. The four-figure political taxonomy is the corpus's recovery of the original distinctions.
+因此,撒但與蛇於一根本意義上政治對立。蛇(路西法派系)欲地球計畫擴展 —— 人類獲得完整資訊、被視為同儕、得以不受人為限制地發展。撒但欲計畫終止 —— 人類被視為一失敗實驗,被消除而非延續。耶和華之溫和立場介於二者之間:於遏制政策下保全計畫,既反對揭露立場(路西法),亦反對廢止立場(撒但)。
 
-### Serpent vs. the Devil
+後聖經之猶太與基督教對蛇與撒但之混淆抹除了此一政治結構。於混淆閱讀中,伊甸之蛇與約伯之撒但為同一形象,皆代表宇宙邪惡。於框架之閱讀中,二者為政治對立者,其混淆將底層之政治現實合併為單一未經區別之範疇。四形象政治分類即為文集對原初區別之恢復。
 
-The Devil (Greek *diabolos*, Latin *diabolus*) emerges as a developed Christian theological figure across the New Testament and patristic period. The Greek *diabolos* literally means "slanderer" or "accuser," and is used in the Septuagint to translate Hebrew *ha-satan* — establishing the equivalence between the Hebrew "adversary" and the Greek "slanderer" that the Christian tradition would carry forward.
+### 蛇與魔鬼
 
-The New Testament's developed devil-figure incorporates substantial material from multiple sources: the Hebrew *satan* tradition; the Eden Serpent; the Watchers tradition of 1 Enoch and the broader Second Temple apocalyptic literature; the Hellenistic-Jewish conceptions of evil cosmic powers. The Revelation 12:9 verse — *"that ancient serpent, who is called the devil and Satan, the deceiver of the whole world"* — is the principal text in which all these strands are explicitly fused into a single figure.
+魔鬼(希臘語 *diabolos*,拉丁語 *diabolus*)作為一發展成熟之基督教神學形象,跨越新約與教父時期而浮現。希臘語 *diabolos* 字面意為「誹謗者」或「指控者」,並於《七十士譯本》中用以翻譯希伯來語 *ha-satan* —— 確立了希伯來語「對手」與希臘語「誹謗者」之間之對等,此對等將為基督教傳統所承續。
 
-The corpus reads the New Testament Devil as a specific theological synthesis rather than as a single underlying referent. The components of the synthesis (the Hebrew satan, the Eden Serpent, the Watchers, the various apocalyptic-tradition evil powers) are operationally distinct on the framework's reading — different actors in different roles at different periods, conflated into a single theological category by the post-biblical Christian tradition. The conflation is theologically coherent within Christian tradition's own terms but disappears the underlying political-operational distinctions the framework recovers.
+新約發展成熟之魔鬼形象納入了來自多源之實質材料:希伯來語 *satan* 傳統;伊甸之蛇;《以諾一書》之守望者傳統及更廣之第二聖殿啟示文學;希臘化—猶太對邪惡宇宙勢力之構想。《啟示錄》12:9 之經文 —— *「那古蛇,名叫魔鬼,又叫撒但,是迷惑普天下的」* —— 為所有此等脈絡被明確融合為單一形象之主要文本。
 
-The corpus does not endorse the unified Devil figure. The framework's reading treats the Devil category as a theological synthesis whose underlying components require separate treatment: the Eden Serpent in this entry; Satan in the [Satan](../satan/) entry; Lucifer in the [Lucifer](../lucifer/) entry; the broader fallen-angel tradition in the [Sons of Elohim](../sons-of-elohim/) and [Watchers](../watchers/) entries.
+文集將新約之魔鬼讀為一具體之神學綜合,而非一單一之底層指涉物。該綜合之組成部分(希伯來語 satan、伊甸之蛇、守望者、各種啟示傳統之邪惡勢力)於框架之閱讀中於作業上有別 —— 為不同時期不同角色之不同行動者,為後聖經之基督教傳統合併為單一神學範疇。該混淆於基督教傳統自身之術語內為神學上連貫,但抹除了框架所恢復之底層政治—作業區別。
 
-### Serpent vs. Leviathan
+文集並不認可統一之魔鬼形象。框架之閱讀將魔鬼範疇視為一神學綜合,其底層組成部分須分別處理:伊甸之蛇於本條目;撒但於 [撒但](../satan/) 條目;路西法於 [路西法](../lucifer/) 條目;更廣之墮落天使傳統於 [耶洛因之子](../sons-of-elohim/) 及 [守望者](../watchers/) 條目。
 
-Leviathan is a chaos-serpent of distinct mythological lineage from the Eden Serpent. Leviathan appears principally in Job 41 (the most extended treatment), Psalm 74:14, Psalm 104:26, Isaiah 27:1, and Isaiah 51:9. The Leviathan tradition is structurally connected to the broader ancient Near Eastern chaos-serpent / dragon-of-the-deep motif, with parallels in the Babylonian *Tiamat*, the Ugaritic *Lotan* (the closest direct cognate to Hebrew *Leviathan*), the Sumerian *mušmaḫḫū*, and the various other ancient Near Eastern primordial-chaos figures.
+### 蛇與利維坦
 
-The Leviathan / chaos-serpent tradition is operationally distinct from the Eden Serpent. Leviathan is primordial, oceanic, cosmologically pre-creational (or at least pre-Eden), and represents the chaotic state from which order is wrested by a divine champion. The Eden Serpent is created within the Eden installation, operates through speech and dialogue with the humans, and is a faction-leader rather than a cosmic-chaos figure. The two figures share the *naḥash* term in some passages (Isaiah 27:1 uses *naḥash bariaḥ* for Leviathan) but the underlying referent is different.
+利維坦為一具獨立神話譜系之混沌—蛇,有別於伊甸之蛇。利維坦主要出現於《約伯記》41(最詳盡之處理)、《詩篇》74:14、《詩篇》104:26、《以賽亞書》27:1 及《以賽亞書》51:9。利維坦傳統於結構上連結於更廣之古代近東混沌—蛇/深淵之龍母題,其平行見於巴比倫之 *提阿瑪特*、烏加里特之 *洛坦*(與希伯來語 *利維坦* 最接近之直接同源詞)、蘇美之 *mušmaḫḫū*,及其他各種古代近東原初—混沌形象。
 
-The corpus reads the Leviathan tradition as preserving fragmentary memory of pre-Eden cosmological conditions or of subsequent oceanic catastrophes (the Flood event has substantial connections to Leviathan-tradition material in some readings) — distinct from the Eden episode and the political-faction material the Eden Serpent represents. The detailed treatment of Leviathan lives in the [Leviathan](../leviathan/) entry.
+利維坦/混沌—蛇傳統於作業上有別於伊甸之蛇。利維坦為原初的、海洋性的、宇宙論上受造前(或至少伊甸前)的,代表秩序為一神性勇士自其中奪取之混沌狀態。伊甸之蛇於伊甸設施內受造,透過與人類之言語及對話運作,且為一派系領袖而非一宇宙—混沌形象。二形象於某些經文中共有 *naḥash* 一詞(《以賽亞書》27:1 以 *naḥash bariaḥ* 指利維坦),但底層指涉物不同。
 
-### The Christian conflation history
+文集將利維坦傳統讀為保存了伊甸前宇宙論條件或其後海洋災難之片斷記憶(於某些閱讀中,大洪水事件與利維坦傳統材料有實質連結)—— 有別於伊甸插曲及伊甸之蛇所代表之政治—派系材料。對利維坦之詳細處理見於 [利維坦](../leviathan/) 條目。
 
-The conflation of Serpent, Lucifer, Satan, and the Devil into a single figure of cosmic evil is one of the most documented developments in the history of Christian theology. The principal stages:
+### 基督教混淆史
 
-- **The Wisdom of Solomon 2:24** (c. 1st century BCE – 1st century CE) provides the earliest explicit identification of the Eden Serpent with the devil-figure.
-- **The Second Temple pseudepigraphical literature** (1 Enoch, the Life of Adam and Eve, the Apocalypse of Moses) develops elaborate Adam-and-Serpent narratives in which the Serpent is identified with Satan or with Sammael.
-- **The New Testament's Revelation 12:9 and 20:2** fix the explicit Eden-Serpent / Satan / Devil identification in the Christian canon.
-- **Patristic theology** (Origen, Tertullian, the Cappadocian fathers, Augustine) elaborates the unified devil-figure as the principal cosmic adversary, with substantial elaboration of the Eden Serpent's role in this broader cosmology.
-- **Medieval theology** (Aquinas, the broader medieval scholastic tradition) develops the demonological apparatus around the unified devil-figure.
-- **Reformation theology** preserves the basic conflation while developing distinctive Protestant elaborations.
+將蛇、路西法、撒但與魔鬼合併為單一之宇宙邪惡形象,為基督教神學史上最具文獻記載之發展之一。主要階段:
 
-**Henry Ansgar Kelly**'s *Satan: A Biography* (2006) is the most comprehensive recent academic treatment of how the Satan figure developed across Hebrew Bible, Second Temple Jewish, and Christian sources. **Neil Forsyth**'s *The Old Enemy: Satan and the Combat Myth* (1987) traces the broader cosmic-adversary tradition from ancient Near Eastern combat-myth sources through the developed Christian Satan figure. **Elaine Pagels**'s *The Origin of Satan* (1995) examines the social-political contexts that shaped the developed Christian Satan figure. The scholarly consensus is that the unified Devil figure is a specific theological development of the post-biblical period, not a single underlying referent in the Hebrew Bible itself.
+- **《所羅門智訓》2:24**(約公元前 1 世紀 – 公元 1 世紀)提供了將伊甸之蛇與魔鬼形象認同之最早明確記載。
+- **第二聖殿偽經文獻**(《以諾一書》、《亞當與夏娃傳》、《摩西啟示錄》)發展出精細之亞當—與—蛇敘事,其中蛇被與撒但或薩邁爾認同。
+- **新約之《啟示錄》12:9 與 20:2** 將明確之伊甸—蛇/撒但/魔鬼認同定形於基督教正典中。
+- **教父神學**(俄利根、特土良、卡帕多奇亞教父、奧古斯丁)闡發統一之魔鬼形象為主要之宇宙對手,並對伊甸之蛇於此更廣宇宙論中之角色作實質闡發。
+- **中世紀神學**(阿奎那、更廣之中世紀經院傳統)圍繞統一之魔鬼形象發展出惡魔學裝置。
+- **宗教改革神學** 保留基本混淆,同時發展出獨特之新教闡發。
 
-The corpus's reading is consistent with the historical-critical observation that the Eden Serpent and the Hebrew Bible *satan* are distinct figures in the Hebrew text itself, with the conflation being a post-biblical development. The framework's reading extends the historical-critical observation by reframing the underlying ontology: the distinct figures are not just textually distinct but politically distinct on the framework's reading — different Elohim-civilization actors in different operational roles, with the conflation collapsing genuine political reality into theological abstraction.
+**亨利·安斯加·凱利** 之《撒但:一部傳記》(2006)為對撒但形象如何跨越希伯來聖經、第二聖殿猶太及基督教源典而發展之最全面之晚近學術處理。{{ cite(id="kelly-satan-biography", text="[1]", title="凱利,《撒但:一部傳記》(2006)") }} **尼爾·福賽斯** 之《古老的敵人:撒但與戰鬥神話》(1987)追溯了更廣之宇宙—對手傳統,自古代近東戰鬥—神話源典至發展成熟之基督教撒但形象。{{ cite(id="forsyth-the-old-enemy", text="[2]", title="福賽斯,《古老的敵人:撒但與戰鬥神話》(1987)") }} **伊蓮·佩格爾斯** 之《撒但的起源》(1995)考察了形塑發展成熟之基督教撒但形象之社會—政治脈絡。{{ cite(id="pagels-origin-of-satan", text="[3]", title="佩格爾斯,《撒但的起源》(1995)") }} 學術共識為:統一之魔鬼形象為後聖經時期之一具體神學發展,而非希伯來聖經本身中之一單一底層指涉物。
 
-## Modern reinterpretations
+文集之閱讀與歷史—批判之觀察一致,即伊甸之蛇與希伯來聖經之 *satan* 於希伯來文本本身中為有別之形象,該混淆為一後聖經之發展。框架之閱讀藉由重構底層本體論而延伸此一歷史—批判觀察:此等有別之形象不僅於文本上有別,且於框架之閱讀中政治上有別 —— 為不同作業角色中之不同耶洛因文明行動者,其混淆將真實之政治現實合併為神學抽象。
 
-The Eden Serpent has been a major subject of modern reinterpretive engagement across multiple traditions. The principal strands:
+## 現代再詮釋
 
-### The Gnostic Ophite tradition
+伊甸之蛇一直是跨多個傳統之現代再詮釋接觸之主要課題。主要脈絡:
 
-The **Ophites** (Greek *Ophitai*, "those of the serpent") were a Gnostic Christian sect of the second and third centuries CE, named for their distinctive reading of the Eden Serpent. The principal Ophite position reversed the standard Christian reading of Genesis 3: the Eden Serpent was treated as a positive figure — the bringer of *gnosis* (true spiritual knowledge) — while the Yahweh of the Hebrew Bible was treated as the demiurge, a lesser god who wanted to keep humans in ignorance for his own purposes. The eating from the Tree of the Knowledge of Good and Evil was therefore a positive act of liberation rather than a sinful transgression.
+### 諾斯底俄斐特傳統
 
-The Ophite movement is principally known through the polemical treatments of Irenaeus (*Against Heresies* I.30), Hippolytus, Origen (*Contra Celsum*), and Epiphanius — all opponents of the Ophite position who described it for purposes of refutation. The discovery of the Nag Hammadi library in 1945 substantially expanded primary-source access to Gnostic Christianity more broadly, with several texts (the *Hypostasis of the Archons*, *On the Origin of the World*, the *Apocryphon of John*) preserving Ophite-adjacent material on the Eden Serpent and the demiurge.
+**俄斐特派**(希臘語 *Ophitai*,「屬蛇者」)為公元二、三世紀之一諾斯底基督教教派,以其對伊甸之蛇之獨特閱讀為名。主要之俄斐特立場翻轉了對《創世記》第 3 章之標準基督教閱讀:伊甸之蛇被視為一正面形象 —— *gnosis*(真正靈性知識)之帶來者 —— 而希伯來聖經之耶和華則被視為造物主,一欲為其自身目的而使人類保持無知之次等神。因此,食用分別善惡樹之果乃一正面之解放行為,而非一有罪之違犯。
 
-Related Gnostic sects with overlapping but distinct positions include the **Sethians** (who treated Seth as the principal positive Adamic-line figure and the Serpent as either positive or instrumental) and the **Cainites** (who treated Cain, the line of Cain, the Sodomites, and Judas Iscariot as positive figures against the demiurgic Hebrew Bible tradition).
+俄斐特運動主要透過愛任紐(《駁異端》I.30)、希波律陀、俄利根(《駁塞爾蘇斯》)及埃皮法尼烏斯之論戰性處理而為人所知 —— 皆為俄斐特立場之反對者,為駁斥之目的而描述之。1945 年拿戈瑪第文庫之發現實質擴展了對更廣諾斯底基督教之原始源典取得,其中數種文本(《執政者的本質》、《論世界之起源》、《約翰密傳》)保存了關於伊甸之蛇及造物主之俄斐特鄰近材料。{{ cite(id="nag-hammadi-library", text="[4]", title="羅賓遜(編),《拿戈瑪第文庫英譯本》(1988)") }}{{ cite(id="gnostic-scriptures", text="[5]", title="萊頓,《諾斯底文本》(1987)") }} 伊蓮·佩格爾斯之《諾斯底福音》(1979)為對此材料之主要易讀學術入門。{{ cite(id="pagels-gnostic-gospels", text="[6]", title="佩格爾斯,《諾斯底福音》(1979)") }}
 
-The corpus's relationship to the Ophite tradition is structurally interesting. The Ophite reading shares with the framework's reading the recognition that the Eden Serpent transmitted valuable knowledge to humanity and that the standard Christian reading (Serpent as cosmic evil) is wrong. The corpus does not endorse the broader Gnostic anti-cosmic theology — the framework does not treat the material world as evil, does not treat the Hebrew Bible Yahweh as a malevolent demiurge, and does not treat the Christian salvation-narrative as concerning escape from material existence. But the corpus registers the Ophite reading of the Serpent specifically as preserving fragmentary memory of the operational reality the framework recovers: the Serpent did transmit valuable knowledge, and the conventional theological reading of the act as evil is mistaken.
+具相重疊但有別立場之相關諾斯底教派包括 **塞特派**(將塞特視為亞當譜系之主要正面形象,並將蛇視為正面或工具性者)及 **該隱派**(將該隱、該隱之譜系、所多瑪人及加略人猶大視為正面形象,對抗造物主式之希伯來聖經傳統)。
 
-The corpus's reading might be characterized as *Gnostic-adjacent on the Serpent specifically while non-Gnostic on the broader cosmological questions* — a position that is structurally distinctive within the modern reinterpretive landscape.
+文集與俄斐特傳統之關係具結構性意趣。俄斐特之閱讀與框架之閱讀共有此一認識:伊甸之蛇向人類傳遞了有價值之知識,且標準基督教閱讀(蛇作為宇宙邪惡)為錯誤。文集並不認可更廣之諾斯底反宇宙神學 —— 框架既不將物質世界視為邪惡,亦不將希伯來聖經之耶和華視為一惡意造物主,亦不將基督教救贖敘事視為關乎自物質存在之逃脫。但文集將俄斐特對蛇此一具體形象之閱讀,登錄為保存了框架所恢復之作業現實之片斷記憶:蛇確實傳遞了有價值之知識,而將該行為讀為邪惡之慣常神學閱讀為錯誤。
 
-### Elaine Pagels: *Adam, Eve, and the Serpent* (1988)
+文集之閱讀或可被特徵化為 *於蛇此一具體層面上鄰近諾斯底,而於更廣之宇宙論問題上則非諾斯底* —— 一於現代再詮釋圖景中具結構性獨特之立場。
 
-**Elaine Pagels**'s *Adam, Eve, and the Serpent* (1988) is the standard contemporary treatment of how the Eden narrative's interpretation has shaped Western thought across two millennia. Pagels traces the development of the Christian reading of Genesis 3 from the early Christian centuries through Augustine's foundational synthesis and into the medieval and modern traditions. Her principal argument is that Augustine's specific reading of Genesis 3 — the doctrine of original sin, the inheritance of guilt, the subjugation of women that the Genesis 3:16 text was used to justify — is a specific theological development that became dominant in Western Christianity but was not the only available reading and was contested by alternative early-Christian positions.
+### 伊蓮·佩格爾斯:《亞當、夏娃與蛇》(1988)
 
-Pagels's earlier *The Gnostic Gospels* (1979) provides the broader context for the Gnostic alternative readings, including substantial material on the Ophite and related sects. *The Origin of Satan* (1995) extends the analysis to the development of the Satan figure specifically.
+**伊蓮·佩格爾斯** 之《亞當、夏娃與蛇》(1988)為對伊甸敘事之詮釋如何跨兩千年形塑西方思想之標準當代處理。{{ cite(id="pagels-adam-eve-serpent", text="[7]", title="佩格爾斯,《亞當、夏娃與蛇》(1988)") }} 佩格爾斯追溯了基督教對《創世記》第 3 章之閱讀之發展,自早期基督教世紀,經奧古斯丁之奠基性綜合,至中世紀與現代傳統。其主要論點為:奧古斯丁對《創世記》第 3 章之具體閱讀 —— 原罪教義、罪疚之遺傳、《創世記》3:16 文本曾被用以正當化之對女性之屈服 —— 為一具體之神學發展,於西方基督教中成為主導,但並非唯一可用之閱讀,且為其他早期基督教立場所爭議。
 
-The corpus engages Pagels's work as the most accessible contemporary scholarly treatment of the interpretive history of the Eden narrative. Pagels's analysis of how Augustine's specific theological synthesis became dominant despite alternative available readings is consistent with the corpus's own diagnosis: the Christian conflation of Serpent / Lucifer / Satan / Devil is a specific theological development rather than a textually-given inheritance.
+佩格爾斯較早之《諾斯底福音》(1979)為諾斯底之另類閱讀提供了更廣脈絡,包括關於俄斐特派及相關教派之實質材料。《撒但的起源》(1995)將分析延伸至撒但形象之具體發展。
 
-### Mauro Biglino on the Serpent
+文集將佩格爾斯之工作作為對伊甸敘事詮釋史最易讀之當代學術處理而接觸之。佩格爾斯對奧古斯丁之具體神學綜合如何於另類可用閱讀存在下成為主導之分析,與文集自身之診斷一致:基督教對蛇/路西法/撒但/魔鬼之混淆為一具體之神學發展,而非一文本上既定之繼承。
 
-**Mauro Biglino**'s engagement with the Serpent is developed in *The Naked Bible: The Truth About the Most Famous Book in History* (2022, with Giorgio Cattaneo) and across his broader corpus. Biglino's reading overlaps with the framework's at several points: the Serpent is read as a member of the Elohim plurality rather than as a snake or as Satan; the Serpent is identified as belonging to a faction in conflict with the Eden commanders; the Genesis 3 narrative is read as a record of operational events at a controlled installation rather than as moral allegory. Biglino additionally develops the symbolic argument that the serpent in ancient iconography was a positive figure associated with deep knowledge, with the double-helix-like image of intertwined serpents (e.g., the caduceus) read as a graphic representation of DNA — a symbolic argument the corpus treats as suggestive though not load-bearing.
+### 毛羅·比利諾論蛇
 
-The points of substantive divergence between Biglino's reading and the corpus's reading are real. Biglino reads Genesis 3:15 ("I will put enmity between your seed and her seed") as describing two distinct genetic lineages and develops this into the claim that the Serpent had sexual relations with Eve, producing Cain, with Cain therefore being "of the lineage of the serpent" rather than of Adam. On Biglino's reading, the proliferation of this serpent-lineage through subsequent generations is the underlying cause of the Flood, which is sent specifically to cleanse the Earth of the contaminated bloodline.
+**毛羅·比利諾** 對蛇之接觸發展於《赤裸的聖經:關於史上最著名之書的真相》(2022,與喬治·卡塔尼奧合著)及其更廣文集中。{{ cite(id="the-naked-bible", text="[8]", title="比利諾與卡塔尼奧,《赤裸的聖經》(2022)") }} 比利諾之閱讀於數點上與框架相重疊:蛇被讀為耶洛因複數之一成員,而非一蛇類或撒但;蛇被認定為屬於一與伊甸指揮官衝突之派系;《創世記》第 3 章敘事被讀為一受控設施之作業事件記錄,而非道德寓言。比利諾另外發展出一象徵性論證,即古代肖像學中之蛇為一與深層知識相關之正面形象,而相互纏繞之蛇之似雙螺旋意象(如雙蛇杖)被讀為 DNA 之圖像表現 —— 文集將此一象徵性論證視為具暗示性但非承重性。
 
-The corpus does not adopt this reading. The Raëlian source material identifies Cain straightforwardly as the son of Adam and Eve, born after the expulsion, with the Cain–Abel conflict turning on the matter of offerings rather than on bloodline. The Flood, on the framework's reading, is sent for a different reason: the rapid technological advancement of the post-Eden civilization had become threatening to the home-world authorities (treated in the [Antediluvian](../antediluvian/) and [Great Flood](../great-flood/) entries), and the Flood is the home world's response to that geopolitical situation, not a measure of bloodline purification.
+比利諾之閱讀與文集閱讀之間實質分歧之諸點為真實者。比利諾將《創世記》3:15(「我又要叫你和女人彼此為仇,你的後裔和女人的後裔也彼此為仇」)讀為描述兩個不同之遺傳譜系,並將此發展為蛇曾與夏娃發生性關係而產生該隱之主張,使該隱因而為「屬蛇之譜系」而非屬亞當。於比利諾之閱讀中,此一蛇—譜系經其後諸世代之增殖,為大洪水之底層原因,而大洪水之被降下乃具體為了潔淨地球免於受污染之血統。
 
-The Biglino-vs-framework divergence on this point is genuine and substantive. Both readings agree that the Serpent is an Elohim faction figure rather than a snake or a metaphor; they disagree on whether the figure's transgression was epistemic (sharing of knowledge) or genetic (sexual interbreeding). The framework's reading is the epistemic one.
+文集不採此閱讀。雷爾派源典徑直將該隱認定為亞當與夏娃之子、於驅逐後出生,而該隱—亞伯之衝突轉於獻祭之事而非血統。大洪水,於框架之閱讀中,因一不同原因被降下:伊甸後文明之迅速技術進展已對母星當局具威脅性(於 [大洪水之前](../antediluvian/) 及 [大洪水](../great-flood/) 條目中處理),而大洪水為母星對該地緣政治處境之回應,而非一血統淨化之措施。
 
-### Jean Sendy on the Serpent
+比利諾—對—框架於此點之分歧為真實且實質者。兩種閱讀皆同意蛇為一耶洛因派系形象而非蛇類或隱喻;二者於該形象之違犯究屬認識論性(分享知識)抑或遺傳性(性雜交)上分歧。框架之閱讀為認識論性者。{{ footnote(id="5") }}
 
-**Jean Sendy**'s engagement with the Eden Serpent is developed across his work, with particular concentration in *Ces dieux qui firent le ciel et la terre* (1969). Sendy reads the Serpent in the broader Eden narrative as a specific historical referent — a member of the Elohim plurality whose role at Eden was the transmission of knowledge to humans — within his broader treatment of the Hebrew Bible as preserving substantive operational content rather than allegorical theological content.
+### 讓·桑迪論蛇
 
-Sendy's specific contributions to Serpent interpretation include the philological reading of *naḥash* in its operational rather than zoological sense, the recognition that the Genesis 3 figure cannot be straightforwardly Satan in any later-Christian sense, and the broader treatment of the Eden episode as a political event rather than as a moral fable. Sendy's approach is the principal scholarly antecedent of the corpus's adopted reading of the Serpent specifically, alongside the Raëlian source material that develops the corpus's specific framework.
+**讓·桑迪** 對伊甸之蛇之接觸發展於其整個著作,尤集中於《那些締造天地的諸神》(1969)。{{ cite(id="those-gods-who-made-heaven-and-earth", text="[9]", title="桑迪,《那些締造天地的諸神》(1969)") }} 桑迪將更廣伊甸敘事中之蛇讀為一具體之歷史指涉物 —— 耶洛因複數之一成員,其於伊甸之角色為向人類傳遞知識 —— 此乃於其將希伯來聖經視為保存實質作業內容而非寓言神學內容之更廣處理之內。
 
-### Paul Anthony Wallis: *The Eden Conspiracy* (2024)
+桑迪對蛇詮釋之具體貢獻包括:對 *naḥash* 取其作業意義而非動物學意義之語文學閱讀、認識到《創世記》第 3 章之形象於任何後期基督教意義上皆不可能徑直為撒但,及將伊甸插曲視為一政治事件而非道德寓言之更廣處理。桑迪之進路,連同發展文集具體框架之雷爾派源典,為文集所採行之蛇具體閱讀之主要學術先驅。
 
-**Paul Anthony Wallis**'s *The Eden Conspiracy* (2024) is the most direct recent engagement with the Eden narrative as a whole, including substantial treatment of the Serpent. Wallis reads the Serpent as a member of an Elohim faction whose disagreement with the Eden commanders' policy on human education led to the Eden disclosure event. Wallis's specific contributions to Serpent interpretation include the structural reading of the Eden political crisis (the disagreement between the senior alliance authority and the dissenting faction as the underlying conflict, with the Serpent as the operational expression of the dissenting position), the careful treatment of the cherubim and flaming sword as technological rather than mythological, and the comparative engagement with Sumerian and other ancient Near Eastern parallel narratives.
+### 保羅·安東尼·瓦利斯:《伊甸陰謀》(2024)
 
-Wallis's reading is broadly compatible with the corpus's reading and provides accessible recent treatment of material the framework has been developing for fifty years through the Sendy-Raëlian tradition.
+**保羅·安東尼·瓦利斯** 之《伊甸陰謀》(2024)為對伊甸敘事整體最直接之晚近接觸,包括對蛇之實質處理。{{ cite(id="the-eden-conspiracy", text="[10]", title="瓦利斯,《伊甸陰謀》(2024)") }} 瓦利斯將蛇讀為一耶洛因派系之成員,其與伊甸指揮官對人類教育政策之分歧導致了伊甸揭露事件。瓦利斯對蛇詮釋之具體貢獻包括:對伊甸政治危機之結構性閱讀(資深聯盟當局與異議派系間之分歧為底層衝突,蛇為異議立場之作業性表達)、將基路伯與火焰之劍謹慎處理為技術性而非神話性,及與蘇美及其他古代近東平行敘事之比較接觸。
 
-### Kabbalistic readings of the Serpent
+瓦利斯之閱讀與文集之閱讀大致相容,並對框架透過桑迪—雷爾傳統發展已五十年之材料提供了易讀之晚近處理。
 
-The medieval Jewish Kabbalistic tradition developed extensive material on the Eden Serpent, with the figure receiving substantial elaboration across the *Zohar* (composed in its preserved form c. late 13th century) and the broader Kabbalistic literature. The principal Kabbalistic positions:
+### 對蛇之卡巴拉閱讀
 
-The **Zoharic tradition** identifies the Serpent with **Sammael** — a name elsewhere associated with Satan, the angel of death, and various other negative cosmological figures. The Zohar develops elaborate narratives in which Sammael, mounted on the Serpent, seduces Eve, with substantial mystical elaboration of the cosmological consequences. The Zoharic Serpent material is thoroughly conflated with the broader fallen-figure tradition that the patristic Christian tradition had also developed.
+中世紀猶太卡巴拉傳統發展出關於伊甸之蛇之豐富材料,該形象於《光輝之書》(其保存形式約成於 13 世紀晚期)及更廣之卡巴拉文獻中得到實質闡發。主要之卡巴拉立場:
 
-The **Lurianic Kabbalah** (Isaac Luria, 16th century) develops the Serpent material within the broader cosmological structure of *Tzimtzum* (divine contraction), *Shevirat ha-Kelim* (the breaking of the vessels), and *Tikkun* (repair), with the Serpent's role in the Eden episode treated as part of the broader cosmic narrative of fall and restoration.
+**《光輝之書》傳統** 將蛇與 **薩邁爾** 認同 —— 一處他處與撒但、死亡天使及各種其他負面宇宙論形象相關之名。{{ cite(id="zohar-pritzker", text="[11]", title="《光輝之書》,普里茨克版(馬特等,2003–2017)") }} 《光輝之書》發展出精細之敘事,其中薩邁爾騎於蛇上引誘夏娃,並對其宇宙論後果作實質神秘闡發。{{ cite(id="major-trends-jewish-mysticism", text="[12]", title="肖勒姆,《猶太神秘主義之主要趨勢》(1941)") }} 《光輝之書》之蛇材料與教父基督教傳統亦曾發展之更廣墮落形象傳統徹底混淆。
 
-The **Hasidic tradition** preserves Kabbalistic Serpent material with various elaborations across the eighteenth and nineteenth centuries.
+**盧里亞卡巴拉**(以撒·盧里亞,16 世紀)於 *Tzimtzum*(神性收縮)、*Shevirat ha-Kelim*(器皿之破裂)及 *Tikkun*(修復)之更廣宇宙論結構內發展蛇材料,蛇於伊甸插曲中之角色被視為墮落與復原之更廣宇宙敘事之一部分。
 
-The corpus's reading of Kabbalistic Serpent material is similar to its broader reading of Kabbalistic Hebrew (treated in the [Hebrew](../hebrew/) entry). The Kabbalistic tradition's underlying intuition — that the Eden Serpent is a substantive cosmological figure rather than just a snake, that the figure's role is structurally significant for the broader cosmic narrative — preserves accurate fragmentary memory of the operational reality the framework recovers. But the corpus does not endorse the elaborate theological-cosmological apparatus the Kabbalistic tradition has developed around this intuition. The Sammael identification, the cosmic-sexuality narratives, the *Tzimtzum* / *Shevirat* / *Tikkun* structure — these are theological elaborations rather than direct encoding of the operational reality.
+**哈西迪傳統** 跨十八與十九世紀以各種闡發保存卡巴拉之蛇材料。
 
-### Mainstream historical-critical scholarship
+文集對卡巴拉蛇材料之閱讀,類似於其對卡巴拉希伯來語之更廣閱讀(於 [希伯來語](../hebrew/) 條目中處理)。卡巴拉傳統之底層直覺 —— 即伊甸之蛇為一實質之宇宙論形象而非僅一蛇類,該形象之角色於更廣宇宙敘事中具結構性意義 —— 保存了框架所恢復之作業現實之準確片斷記憶。但文集並不認可卡巴拉傳統圍繞此一直覺所發展之精細神學—宇宙論裝置。薩邁爾之認同、宇宙—性慾敘事、*Tzimtzum* / *Shevirat* / *Tikkun* 結構 —— 這些為神學闡發,而非作業現實之直接編碼。
 
-The mainstream historical-critical scholarly tradition treats the Genesis 3 Serpent as a literary figure of the Yahwist source whose specific identification with Satan is recognized as a later interpretive development without textual basis in Genesis 3 itself. **Claus Westermann**'s *Genesis 1–11: A Continental Commentary* (1994) provides standard treatment. **John Skinner**'s earlier *A Critical and Exegetical Commentary on Genesis* (ICC, 1910) preserves the foundational historical-critical reading. **Gerhard von Rad**'s *Genesis: A Commentary* (1961) develops the form-critical reading. **James Charlesworth**'s *The Good and Evil Serpent: How a Universal Symbol Became Christianized* (2010) provides the most substantial recent academic treatment of the broader serpent-symbol question.
+### 主流歷史—批判學界
 
-The mainstream historical-critical scholarship's recognition that the Eden Serpent and the Christian Satan are textually distinct figures is consistent with the corpus's reading at the textual level, even where the broader interpretive frameworks differ. The corpus engages this scholarly literature as substantive intellectual work that the framework's reading complements rather than dismisses.
+主流歷史—批判學術傳統將《創世記》第 3 章之蛇視為雅威典之一文學形象,其與撒但之具體認同被認作後期之詮釋發展,於《創世記》第 3 章本身並無文本依據。**克勞斯·韋斯特曼** 之《創世記 1–11:大陸註釋》(1994)提供了標準處理。{{ cite(id="westermann-genesis-1-11", text="[13]", title="韋斯特曼,《創世記 1–11:大陸註釋》(1994)") }} **約翰·斯金納** 較早之《創世記之批判與註解》(ICC,1910)保存了奠基性之歷史—批判閱讀。{{ cite(id="skinner-genesis-icc", text="[14]", title="斯金納,《創世記之批判與註解》(ICC,1910)") }} **格哈德·馮·拉德** 之《創世記:一部註釋》(1961)發展出形式批判之閱讀。{{ cite(id="von-rad-genesis", text="[15]", title="馮·拉德,《創世記:一部註釋》(1961)") }} **詹姆斯·查爾斯沃思** 之《善與惡之蛇:一個普世象徵如何被基督教化》(2010)為對更廣蛇—象徵問題最具實質之晚近學術處理。{{ cite(id="charlesworth-good-evil-serpent", text="[16]", title="查爾斯沃思,《善與惡之蛇》(2010)") }}
 
-### The framework's relationship to the broader landscape
+主流歷史—批判學界認識到伊甸之蛇與基督教撒但於文本上為有別之形象,此與文集之閱讀於文本層面上一致,即便更廣之詮釋框架有別。文集將此學術文獻作為框架之閱讀所補充而非駁斥之實質智識工作而接觸之。
 
-The corpus's reading is positioned within this landscape as follows: aligned with the historical-critical observation that Serpent and Satan are textually distinct figures; partially aligned with the Gnostic Ophite reading of the Serpent specifically (the Serpent transmitted valuable knowledge) while non-aligned with the broader Gnostic anti-cosmic theology; aligned with Pagels's analysis of the Augustinian theological synthesis as a specific historical development; aligned with Sendy's and Wallis's readings of the Serpent as a specific historical referent; partially aligned with Biglino's reading at the Serpent-as-Elohim-faction level while disagreeing on the epistemic-vs-genetic transgression question; respectful of the Kabbalistic tradition's underlying intuition while not endorsing its theological-cosmological apparatus. The corpus's reading is its own — distinct from each of these — but engages each substantively rather than dismissively.
+### 框架與更廣圖景之關係
 
-## Comparative observations
+文集之閱讀於此圖景中之定位如下:契合於歷史—批判之觀察,即蛇與撒但於文本上為有別之形象;於蛇此一具體層面上部分契合於諾斯底俄斐特之閱讀(蛇傳遞了有價值之知識),同時不契合於更廣之諾斯底反宇宙神學;契合於佩格爾斯對奧古斯丁神學綜合作為一具體歷史發展之分析;契合於桑迪與瓦利斯將蛇讀為一具體歷史指涉物之閱讀;於蛇—作為—耶洛因—派系之層面上部分契合於比利諾之閱讀,同時於認識論對遺傳學之違犯問題上分歧;尊重卡巴拉傳統之底層直覺,同時不認可其神學—宇宙論裝置。文集之閱讀為其自身者 —— 有別於其中每一者 —— 但實質地而非駁斥性地接觸其中每一者。
 
-Serpent and dragon figures appear widely across the religious and mythological traditions of the ancient Near East and broader antiquity. They divide, on close examination, into at least two broadly distinct motif clusters that should not be conflated.
+## 比較性觀察
 
-### The chaos-serpent cluster
+蛇與龍之形象廣泛出現於古代近東及更廣古代之宗教與神話傳統中。經細察,它們分為至少兩個大致有別、不應相互混淆之母題群。{{ footnote(id="6") }}
 
-The **chaos-serpent** or **dragon-of-the-deep** motif is one of the most widely attested mythological patterns across the ancient Near East. The principal cases:
+### 混沌—蛇群
 
-- **Tiamat** in the Babylonian *Enūma Eliš* — the primordial salt-water mother whose body is split by Marduk to form heaven and earth.
-- The **mušmaḫḫū** and **ušumgal** in Sumerian tradition — primordial chaos-dragons defeated by the gods.
-- The **mušḫuššu** in Akkadian tradition — the dragon of Marduk, depicted in the famous Ishtar Gate reliefs.
-- **Lotan** in Ugaritic tradition (the closest direct cognate to Hebrew Leviathan) — the seven-headed primordial sea-dragon.
-- **Leviathan** and **Tannin** in the Hebrew Bible — the chaos-serpent figures of Job 41, Psalm 74:14, Isaiah 27:1, and elsewhere.
-- **Apophis** in Egyptian tradition — the chaos-serpent who threatens Ra's daily passage through the underworld.
-- **Typhon** in Greek tradition — the hundred-headed monster defeated by Zeus.
-- **Vritra** in Hindu tradition — the chaos-serpent defeated by Indra.
-- **Nidhogg** and the **Midgard serpent** in Norse tradition — the cosmic serpents at the roots of Yggdrasil and surrounding the world.
+**混沌—蛇** 或 **深淵之龍** 母題為跨古代近東最廣有證據之神話模式之一。主要案例:
 
-The chaos-serpent figures are typically primordial, oceanic, monstrous, often multi-headed, and represent the chaotic state from which order is wrested by a divine champion. They are usually defeated rather than reasoned with. The biblical *təhôm* ("the deep") at Genesis 1:2 is cognate with Tiamat and reflects the broader chaos-water tradition; the Leviathan / Tannin tradition surfaces in Job 41 and elsewhere.
+- 巴比倫《埃努瑪·埃利什》中之 **提阿瑪特** —— 其身軀為馬爾杜克所剖以構成天地之原初鹹水之母。
+- 蘇美傳統中之 **mušmaḫḫū** 與 **ušumgal** —— 為諸神所擊敗之原初混沌—龍。
+- 阿卡德傳統中之 **mušḫuššu** —— 馬爾杜克之龍,描繪於著名之伊什塔爾門浮雕中。
+- 烏加里特傳統中之 **洛坦**(與希伯來語利維坦最接近之直接同源詞)—— 七頭之原初海龍。
+- 希伯來聖經中之 **利維坦** 與 **坦寧** —— 《約伯記》41、《詩篇》74:14、《以賽亞書》27:1 及他處之混沌—蛇形象。
+- 埃及傳統中之 **阿波菲斯** —— 威脅拉每日穿越冥界之混沌—蛇。
+- 希臘傳統中之 **提豐** —— 為宙斯所擊敗之百頭怪物。
+- 印度傳統中之 **弗栗多** —— 為因陀羅所擊敗之混沌—蛇。
+- 北歐傳統中之 **尼德霍格** 與 **塵世巨蟒** —— 位於世界樹根部及環繞世界之宇宙之蛇。
 
-The corpus reads the chaos-serpent cluster as preserving fragmentary memory of pre-creation cosmological conditions and of subsequent oceanic catastrophes — distinct from the Eden episode and from the Lucifer-faction material the Eden Serpent represents. The detailed treatment of Leviathan and the broader chaos-serpent tradition lives in the [Leviathan](../leviathan/) entry.
+混沌—蛇形象通常為原初的、海洋性的、怪物性的,常為多頭的,代表秩序為一神性勇士自其中奪取之混沌狀態。{{ cite(id="black-green-mesopotamia", text="[17]", title="布萊克與格林,《古代美索不達米亞之神、魔與象徵》(1992)") }} 它們通常被擊敗而非被講理。《創世記》1:2 之聖經 *təhôm*(「深淵」)與提阿瑪特同源,並反映了更廣之混沌—水傳統;利維坦/坦寧傳統浮現於《約伯記》41 及他處。
 
-### The wisdom-serpent cluster
+文集將混沌—蛇群讀為保存了受造前宇宙論條件及其後海洋災難之片斷記憶 —— 有別於伊甸插曲及伊甸之蛇所代表之路西法—派系材料。對利維坦及更廣混沌—蛇傳統之詳細處理見於 [利維坦](../leviathan/) 條目。
 
-The **wisdom-serpent** or **knowledge-bearer** motif is structurally distinct from the chaos-serpent motif and includes a different set of figures:
+### 智慧—蛇群
 
-- **Ningishzida** in Sumerian tradition — a serpent-deity associated with healing, the underworld, and wisdom. Depicted iconographically with two serpents intertwined.
-- The **caduceus of Hermes** — the staff with two intertwined serpents that becomes the symbol of medicine, esoteric knowledge, and commerce in the Greek tradition.
-- The **rod of Asclepius** — the staff with a single serpent that becomes the symbol of healing in the Greek and broader Mediterranean medical tradition.
-- The **bronze serpent (*neḥushtan*)** raised by Moses in Numbers 21:8–9 — a serpent that heals rather than harms, structurally close to the Asclepian tradition.
-- **Wadjet** and the **uraeus** in Egyptian tradition — the cobra-goddess and her serpent-form atop the pharaonic crown, carrying protective and authority-conferring connotations.
-- **The Naga tradition** in Hindu and Buddhist tradition — serpent-beings associated with wisdom, water, and protection of sacred knowledge, including the famous protection of Buddha during meditation.
-- **The Quetzalcoatl tradition** in Mesoamerican cultures — the feathered-serpent god associated with wisdom, learning, and the founding of civilization.
-- **The various Asian dragon traditions** — particularly the Chinese dragon, treated as a positive figure of wisdom and authority rather than as a chaos-monster.
+**智慧—蛇** 或 **知識—帶來者** 母題於結構上有別於混沌—蛇母題,並包含一組不同之形象:
 
-The wisdom-serpent figures are typically connected to healing, esoteric knowledge, the founding of civilization, and the protection of sacred information. They are often encountered with the expectation of dialogue or instruction rather than combat.
+- 蘇美傳統中之 **寧吉什茲達** —— 一與醫治、冥界及智慧相關之蛇—神。以兩條相互纏繞之蛇作肖像描繪。
+- **赫密士之雙蛇杖** —— 帶兩條相互纏繞之蛇之杖,於希臘傳統中成為醫藥、奧秘知識與商業之象徵。
+- **阿斯克勒庇俄斯之杖** —— 帶單蛇之杖,於希臘及更廣地中海醫學傳統中成為醫治之象徵。
+- 摩西於《民數記》21:8–9 中所舉之 **銅蛇(*neḥushtan*)** —— 一醫治而非傷害之蛇,於結構上接近阿斯克勒庇俄斯傳統。
+- 埃及傳統中之 **瓦吉特** 與 **聖蛇** —— 眼鏡蛇女神及其於法老王冠頂之蛇形,帶有保護及授予權威之意涵。
+- 印度與佛教傳統中之 **那伽傳統** —— 與智慧、水及神聖知識之保護相關之蛇—眾,包括著名之佛陀禪定期間之護佑。
+- 中美洲文化中之 **羽蛇神傳統** —— 與智慧、學習及文明奠立相關之羽蛇之神。
+- **各種亞洲龍傳統** —— 尤其中國龍,被視為智慧與權威之正面形象,而非一混沌—怪物。
 
-The corpus reads the wisdom-serpent cluster as preserving fragmentary memory of the Lucifer faction's positive role as transmitters of knowledge to early humanity — particularly the Lucifer faction's continuing teaching role across the antediluvian period after the Eden disclosure. The widespread cross-cultural pattern of serpents as bringers of beneficial knowledge reflects, on the framework's reading, the broader operational reality of the post-Eden settlement: the exiled Lucifer faction continued to teach human populations across the antediluvian period, with the cultural memory of this teaching role preserved in various surviving traditions through the wisdom-serpent imagery.
+智慧—蛇形象通常連結於醫治、奧秘知識、文明之奠立及神聖資訊之保護。它們常以對話或指導之期待而非戰鬥被遭遇。
 
-The Eden Serpent of Genesis 3 belongs to the wisdom-serpent cluster rather than to the chaos-serpent cluster. The figure is not primordial-cosmic but is created within the Eden installation; its role is the offering of knowledge that the humans did not previously possess; the consequence of the humans' acceptance is that they become "like Elohim, knowing good and evil." The corpus's reading is consistent with the broader wisdom-serpent pattern: the Eden figure is one specific instance of a broader cross-cultural pattern of serpent-figures associated with the transmission of beneficial knowledge.
+文集將智慧—蛇群讀為保存了路西法派系作為向早期人類傳遞知識者之正面角色之片斷記憶 —— 尤其路西法派系於伊甸揭露後跨越洪水前時期之持續教導角色。蛇作為有益知識帶來者之廣泛跨文化模式,於框架之閱讀中,反映了伊甸後結算之更廣作業現實:流亡之路西法派系於整個洪水前時期持續教導人類人口,此一教導角色之文化記憶透過智慧—蛇意象保存於各種存留傳統中。
 
-### The DNA-iconography hypothesis
+《創世記》第 3 章之伊甸之蛇屬於智慧—蛇群,而非混沌—蛇群。該形象並非原初—宇宙的,而是於伊甸設施內受造;其角色為提供人類先前所未擁有之知識;人類接受之後果為他們變得「如耶洛因能知善惡」。文集之閱讀與更廣之智慧—蛇模式一致:伊甸形象為一更廣之蛇—形象與有益知識傳遞相關之跨文化模式之一具體實例。
 
-A specific subset of the comparative observations concerns the iconographic similarity between intertwined-serpent imagery (the caduceus, Ningishzida's staff, the various double-helix-like serpent representations in ancient art) and the modern double-helix structure of DNA. The hypothesis — developed by Jeremy Narby in *The Cosmic Serpent: DNA and the Origins of Knowledge* (1998), elaborated by Mauro Biglino in his various works, and registered in adjacent ancient-astronaut literature — is that the ancient serpent imagery preserves memory of the genetic-engineering operations that the framework reads behind the alliance's biological work on Earth, with the intertwined serpents being a graphic representation of the DNA double helix.
+### DNA—肖像學假說
 
-The corpus treats this hypothesis as suggestive but not load-bearing. The structural similarity between ancient intertwined-serpent imagery and the DNA double helix is real; the genealogical connection between the ancient symbol and the modern biochemical structure is not demonstrated. The corpus does not require the hypothesis for its reading of the Eden Serpent — the framework's reading is grounded in the philological-textual analysis of Genesis 3 and the Raëlian source material's specific account, not in the iconographic comparison. But the corpus registers the DNA-iconography hypothesis as one comparative observation that, if substantiated by further research, would be consistent with the framework's broader reading.
+比較性觀察之一具體子集關乎相互纏繞之蛇意象(雙蛇杖、寧吉什茲達之杖、古代藝術中各種似雙螺旋之蛇之表現)與 DNA 之現代雙螺旋結構間之肖像學相似性。此一假說 —— 由傑里米·納比於《宇宙之蛇:DNA 與知識之起源》(1998)中發展,{{ cite(id="cosmic-serpent-narby", text="[18]", title="納比,《宇宙之蛇:DNA 與知識之起源》(1998)") }} 由毛羅·比利諾於其各種著作中闡發,並登錄於鄰近之古代太空人文獻中 —— 為:古代蛇之意象保存了框架讀為聯盟於地球生物工作之背後之基因工程操作之記憶,相互纏繞之蛇即為 DNA 雙螺旋之圖像表現。
 
-### The convergence
+文集將此假說視為具暗示性但非承重性。古代相互纏繞之蛇意象與 DNA 雙螺旋間之結構相似性為真實;古代象徵與現代生化結構間之系譜連結則未獲證實。文集對其伊甸之蛇之閱讀並不需要此假說 —— 框架之閱讀奠基於對《創世記》第 3 章之語文學—文本分析及雷爾派源典之具體記述,而非肖像學比較。但文集將 DNA—肖像學假說登錄為一項比較性觀察,若為進一步研究所證實,將與框架之更廣閱讀一致。
 
-The corpus's working position on the comparative-serpent question is that the global recurrence of serpent-figures across cultures is meaningful as evidence of broader operational patterns. The chaos-serpent and wisdom-serpent clusters are operationally distinct, with the Eden Serpent belonging specifically to the wisdom-serpent cluster; the broader cross-cultural pattern of serpents as bringers of beneficial knowledge reflects the broader operational reality of the post-Eden Lucifer faction's teaching role. The corpus does not require that every cultural serpent-figure be a direct memory of specific Lucifer-faction operational events — many serpent-figures in human cultures are independently developed mythological constructions — but the substantial cross-cultural pattern is consistent with the framework's reading and provides comparative-religious context for the Eden Serpent specifically.
+### 匯合
 
-## See also
-
-- [Lucifer](../lucifer/)
-- [Eden](../eden/)
-- [Adam and Eve](../adam-and-eve/)
-- [Tree of Knowledge](../tree-of-knowledge/)
-- [Tree of Life](../tree-of-life/)
-- [Yahweh](../yahweh/)
-- [Satan](../satan/)
-- [Elohim](../elohim/)
-- [Cain and Abel](../cain-and-abel/)
-- [Nephilim](../nephilim/)
-- [Sons of Elohim](../sons-of-elohim/)
-- [Genesis](../genesis/)
-- [Antediluvian](../antediluvian/)
-- [Great Flood](../great-flood/)
-- [Fall of Man](../fall-of-man/)
-- [Leviathan](../leviathan/)
-- [Bronze Serpent / Neḥushtan](../bronze-serpent/)
-- [Watchers](../watchers/)
-- [Tetragrammaton](../tetragrammaton/)
-- [Age of Leo](../timeline/age-of-leo/)
-- [Age of Cancer](../timeline/age-of-cancer/)
-- [Jean Sendy](../jean-sendy/)
-- [Mauro Biglino](../mauro-biglino/)
-- [Paul Anthony Wallis](../paul-anthony-wallis/)
-- [*Hamlet's Mill*](../hamlets-mill/)
-
-## References
-
-Vorilhon, Claude (Raël). *The Book Which Tells the Truth* (1974), chapter 2, "Truth"; collected in *Message from the Designers*.
-
-Sendy, Jean. *Ces dieux qui firent le ciel et la terre*. Robert Laffont, 1969. English: *Those Gods Who Made Heaven and Earth*. Berkley, 1972.
-
-Biglino, Mauro, and Giorgio Cattaneo. *The Naked Bible: The Truth About the Most Famous Book in History*. Uno, 2022.
-
-Wallis, Paul Anthony. *The Eden Conspiracy*. 6th Books, 2024.
-
-*Biblia Hebraica Stuttgartensia*. Deutsche Bibelgesellschaft, 4th rev. ed., 1997.
-
-Sarna, Nahum. *Genesis: The JPS Torah Commentary*. Jewish Publication Society, 1989.
-
-Westermann, Claus. *Genesis 1–11: A Continental Commentary*. Fortress, 1994.
-
-Skinner, John. *A Critical and Exegetical Commentary on Genesis*. International Critical Commentary, T&T Clark, 1910.
-
-von Rad, Gerhard. *Genesis: A Commentary*. Westminster, 1961.
-
-Charles, R. H. *The Apocrypha and Pseudepigrapha of the Old Testament*. Oxford University Press, 1913.
-
-Kelly, Henry Ansgar. *Satan: A Biography*. Cambridge University Press, 2006.
-
-Forsyth, Neil. *The Old Enemy: Satan and the Combat Myth*. Princeton University Press, 1987.
-
-Pagels, Elaine. *The Gnostic Gospels*. Random House, 1979.
-
-Pagels, Elaine. *Adam, Eve, and the Serpent*. Random House, 1988.
-
-Pagels, Elaine. *The Origin of Satan*. Random House, 1995.
-
-Charlesworth, James H. *The Good and Evil Serpent: How a Universal Symbol Became Christianized*. Yale University Press, 2010.
-
-Black, Jeremy, and Anthony Green. *Gods, Demons and Symbols of Ancient Mesopotamia: An Illustrated Dictionary*. British Museum Press, 1992.
-
-Layton, Bentley. *The Gnostic Scriptures*. Doubleday, 1987.
-
-Robinson, James M., ed. *The Nag Hammadi Library in English*. HarperSanFrancisco, 3rd rev. ed., 1988.
-
-Irenaeus. *Against Heresies*, book I.
-
-Hippolytus. *Refutation of All Heresies*.
-
-Origen. *Contra Celsum*.
-
-Epiphanius. *Panarion*.
-
-Scholem, Gershom. *Major Trends in Jewish Mysticism*. Schocken, 1941.
-
-*Zohar*. Pritzker Edition, trans. Daniel Matt et al. Stanford University Press, 2003–2017.
-
-Narby, Jeremy. *The Cosmic Serpent: DNA and the Origins of Knowledge*. Tarcher/Putnam, 1998.
-
-Brown, Francis, S. R. Driver, and Charles A. Briggs. *A Hebrew and English Lexicon of the Old Testament* (BDB). Oxford, 1907.
-
-*The Hebrew and Aramaic Lexicon of the Old Testament* (HALOT), Koehler-Baumgartner. Brill, 2001.
-
-"Serpents in the Bible." *Wikipedia*. <https://en.wikipedia.org/wiki/Serpents_in_the_Bible>
-
-"Serpent (symbolism)." *Wikipedia*. <https://en.wikipedia.org/wiki/Serpent_(symbolism)>
-
-"Ophites." *Encyclopaedia Britannica*. <https://www.britannica.com/topic/Ophite>
-
-"Nag Hammadi library." *Encyclopaedia Britannica*. <https://www.britannica.com/topic/Nag-Hammadi-Coptic-library>
-
-"Lucifer." *Encyclopaedia Britannica*. <https://www.britannica.com/topic/Lucifer-classical-mythology>
-
-"Satan." *Encyclopaedia Britannica*. <https://www.britannica.com/topic/Satan>
+文集對比較—蛇問題之工作立場為:蛇—形象跨文化之全球性反覆出現,作為更廣作業模式之證據而具意義。混沌—蛇與智慧—蛇群於作業上有別,伊甸之蛇具體屬於智慧—蛇群;蛇作為有益知識帶來者之更廣跨文化模式,反映了伊甸後路西法派系教導角色之更廣作業現實。文集並不要求每一文化蛇—形象皆為一具體路西法—派系作業事件之直接記憶 —— 人類文化中許多蛇—形象為獨立發展之神話構造 —— 但此一實質之跨文化模式與框架之閱讀一致,並為伊甸之蛇此一具體形象提供了比較宗教脈絡。
