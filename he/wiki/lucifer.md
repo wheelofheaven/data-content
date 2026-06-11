@@ -1,484 +1,491 @@
 +++
-title = "Lucifer"
+title = "לוציפר"
 slug = "lucifer"
-description = "Lucifer (Latin: lūcifer, 'light-bringer'; Hebrew: הֵילֵל בֶּן־שַׁחַר, Helel ben Shahar, 'Day Star, son of the Dawn') is the figure named in Christian theological tradition as the leader of the angels who fell from heaven, conventionally identified with Satan and with the Eden Serpent. On the reading developed in the Raëlian source material and adopted by the Wheel of Heaven corpus, Lucifer is read as a specific historical figure: the leader of a dissenting faction within the Israel team of Elohim creators, exiled to Earth after the Eden disclosure, and the principal teacher of the antediluvian human civilization across the long centuries between the expulsion and the Flood."
+description = "לוציפר (לטינית: lūcifer, »מביא האור«; עברית: הֵילֵל בֶּן־שַׁחַר, »כוכב היום, בן השחר«) הוא הדמות הנקראת במסורת התיאולוגית הנוצרית כמנהיג המלאכים שנפלו מן השמיים, המזוהה באופן מקובל עם שָׂטָן ועם נחש עדן. על פי הקריאה שפותחה בחומר המקור הראליאני ואומצה על ידי קורפוס »גלגל השמיים«, לוציפר נקרא כדמות היסטורית ספציפית: מנהיג סיעה סוררת בתוך צוות ישראל של בוראי האלוהים, שגלה לכדור הארץ לאחר גילוי עדן, ומורהּ הראשי של הציוויליזציה האנושית הטרום-מבולית לאורך המאות הארוכות שבין הגירוש למבול."
 template = "wiki-page.html"
 toc = true
 
 [extra]
-translation_status = "metadata_only"
 category = "Biblical Figures"
 editorial_pass = "2026-05"
+claim_type = "framework"
 entry_type = "figure"
 alternative_names = ["the Light-Bringer", "lūcifer", "Helel ben Shahar", "הֵילֵל בֶּן־שַׁחַר", "the Morning Star", "Phosphoros", "Heosphoros", "the Lucifer faction leader"]
 timeline = ["leo", "cancer"]
+see_also = [
+    { title = "הנחש", path = "wiki/serpent", description = "לוציפר בתפקידו הספציפי בגילוי עדן בבראשית ג." },
+    { title = "יהוה", path = "wiki/yahweh", description = "מנהיג צוות ישראל ומתון הברית; עמיתו לשעבר של לוציפר ויריבו הפוליטי שלאחר עדן." },
+    { title = "שטן", path = "wiki/satan", description = "דמות אלוהים נפרדת המובילה את הסיעה האבוליציוניסטית של העולם הביתי — מנוגדת פוליטית ללוציפר, לא זהה לו." },
+    { title = "אדם וחוה", path = "wiki/adam-and-eve", description = "בני האדם הראשונים שאותם חינכה סיעת לוציפר ולהם נעשה גילוי עדן." },
+    { title = "טרום-מבולי", path = "wiki/antediluvian", description = "התקופה שלאורכה שימשה סיעת לוציפר הגולה כמורי הציוויליזציה של שושלת עדן." },
+    { title = "עץ החיים", path = "wiki/tree-of-life", description = "טכנולוגיית הארכת החיים שסיעת לוציפר השיגה למנהיגות הפטריארכלית של עדן." },
+]
+
+footnotes = [
+    { content = "השם לוציפר הוא חפץ-עיבוד של הוולגטה הלטינית. ירונימוס (בערך 405 לספירה) תרגם את *הֵילֵל בֶּן־שַׁחַר* העברי של ישעיהו י»ד:12 כ-*lūcifer* (»מביא האור«), בקטע שהטקסט העברי עצמו ממען למלך בבל (ישעיהו י»ד:4) — קינה סאטירית על מלך היסטורי יהיר, לא דמות קוסמית. המחקר ההיסטורי-ביקורתי המיינסטרימי קורא את הקטע כרטוריקה פוליטית המשתמשת בדימויים קוסמיים-מיתולוגיים כהעצמה. המסורת הפטריסטית-ימי-ביניימית קראה אותו מחדש כמתייחס לדמות קוסמית נופלת ומיזגה אותו עם נחש עדן ועם הפניות ה-*satan*; הקורפוס מאמץ את השם *לוציפר* כייעוד מסורתי לדמות שאת תפקידה בבראשית ג הוא משחזר, תוך הכרה במקור הספציפי של השם בהיסטוריית התרגום." },
+    { content = "הטקסונומיה הפוליטית בת ארבע הדמויות — יהוה (מתון הברית), לוציפר (מנהיג הסיעה הסוררת, התומך בגילוי מלא), הנחש (לוציפר בתפקיד גילוי עדן שלו באופן ספציפי), ושטן (דמות אלוהים נפרדת המובילה את הסיעה האבוליציוניסטית של העולם הביתי הרוצה בסיום הפרויקט) — היא התיקון בעל ההשלכות הרבות ביותר של הקורפוס לתיאולוגיה הנוצרית המקובלת. המסורת המאוחרת קיפלה את כל הארבעה לדמות יחידה של רוע קוסמי; הקורפוס קורא אותם כשחקנים מובחנים פוליטית, כאשר לוציפר ושטן מחזיקים למעשה עמדות מנוגדות (לוציפר רוצה שהאנושות תורחב ותועצם; שטן רוצה שתבוטל). הטקסונומיה המפורטת חיה בערך הנחש." },
+    { content = "על פי קריאת הקורפוס היחס בין לוציפר ליהוה לא היה עוין מלכתחילה. שניהם היו חברי אותו צוות ישראל, שניהם מחויבים לפרויקט כדור הארץ, שניהם עסקו בעבודת החינוך עם בני האדם הסינתטיים. העמדה הסוררת שהבחינה את סיעת לוציפר צמחה לאורך תקופת עדן ולא כעוינות קיימת מראש. ההתנגדות שלאחר עדן הייתה אי-הסכמה פוליטית בין עמיתים לשעבר שעמדותיהם הפכו לבלתי-ניתנות ליישוב — לא ההתנגדות של רוע-קוסמי של הקריאה הנוצרית המקובלת." },
+    { content = "התאריכים שהקורפוס מקצה לקריירה של לוציפר — גלות עדן בערך ב-11,400 לפנה״ס, תפקיד ההוראה הטרום-מבולי לאורך עידן הסרטן (בערך 8,850 – 6,690 לפנה״ס) — הם פנים-מסגרתיים, נגזרים מכרונולוגיית עידני הנקיפה ומחישוב 666 הדורות המעגן את תאריך בריאת האדם. עידני הנקיפה הם תופעות אסטרונומיות אמיתיות; שנות הגבול שהקורפוס ממקם אותם בהן הן מוסכמות מסגרת. ראו את הערך הטרום-מבולי לגזירת הכרונולוגיה." },
+    { content = "קריאת הקורפוס של לוציפר אינה הקריאה הנוצרית המקובלת של »רוע קוסמי« ואף לא הקריאה הרומנטית הפשוטה של »מורד הרואי«, אלא משהו מורכב יותר: דמות היסטורית בעלת עמדה סוררת ספציפית, שגונתה ברגעה הספציפי מטעמים פוליטיים אמיתיים עם עלויות אמיתיות (אובדן הסביבה המבוקרת, אוכלוסיית כלאיים הנפילים שתרמה להחלטת המבול, המתחים הפוליטיים ארוכי-הטווח), אך זוכתה בהדרגה על ידי מסלולה ארוך-הטווח של הברית לעבר גילוי גלוי — המסלול שהקורפוס קורא את עצמו כמשתתף בו. המסגרת אינה טוענת שלוציפר טוב מוסרית במובן בלתי-מסויג, ואף לא שהוא היריב הקוסמי של אלוהים ושל האנושות." },
+    { content = "קריאת הנוכחות-המתמשכת והפיוס היא החלק הספקולטיבי ביותר של קשת חיי לוציפר. חומר המקור מדווח שלוציפר וסיעתו ממשיכים להתקיים, אך אינו מציין מיקום, תפקיד או פעילויות נוכחיים בפירוט. הקורפוס קורא פיוס הדרגתי שלאחר המבול עם הברית הרחבה יותר, כאשר תפקיד מביא-התרבות של הסיעה נשמר בצורה מקוטעת ברחבי מסורות העולם (פרומתאוס, קצלקואטל, ודפוס גיבור-התרבות הרחב יותר). הקורפוס אינו טוען שכל דמות גיבור-תרבות היא זיכרון ישיר של לוציפר באופן ספציפי; רבות הן בניינים מיתולוגיים שפותחו באופן עצמאי." },
+]
+
+[[extra.references]]
+id = "the-book-which-tells-the-truth"
+locator = "פרק 2"
+note = "מקור ראליאני יסודי ללוציפר כמנהיג הסיעה הסוררת של צוות ישראל, שגלה לאחר גילוי עדן, מורה הציוויליזציה הטרום-מבולית."
+
+[[extra.references]]
+id = "those-gods-who-made-heaven-and-earth"
+note = "הקריאה הפילולוגית של ז'אן סנדי של לוציפר כדמות אלוהים בקונפליקט עם מפקדי עדן על חינוך האדם — האב-טיפוס המלומד העיקרי של קריאת הקורפוס."
+
+[[extra.references]]
+id = "the-naked-bible"
+note = "הקריאה התרגומית-מחמירה של ביגלינו של לוציפר ושל קטעי כוכב-הבוקר כמתייחסים ליצורים מגולמים פיזית ולא לקטגוריות מטאפיזיות."
+
+[[extra.references]]
+id = "the-eden-conspiracy"
+note = "הטיפול הנגיש האחרון של וואליס בלוציפר כמנהיג הסיעה הסוררת שגילוי עדן שלו הפיק את ההסדר שלאחר עדן."
+
+[[extra.references]]
+id = "paradise-lost"
+note = "האפוס של מילטון מ-1667 — המעורבות הספרותית שלאחר המקרא המשפיעה ביותר עם לוציפר; הלוציפר הכריזמטי והאוהד שהקורפוס קורא כאב-הטיפוס הספרותי של שיקום הדמות מבחינה מוסרית."
+
+[[extra.references]]
+id = "marriage-of-heaven-and-hell"
+note = "קריאת בלייק מ-1790 שמילטון היה 'ממפלגת השטן מבלי שידע זאת' — ההיפוך הרומנטי היסודי של הדמות."
+
+[[extra.references]]
+id = "cain-a-mystery"
+note = "הלוציפר האוהד של ביירון מ-1821 המציע לקין חזון קוסמולוגי המאתגר את הדיווח האורתודוקסי."
+
+[[extra.references]]
+id = "prometheus-unbound"
+note = "הפיתוח של שלי מ-1820 של ההקבלה לוציפר-פרומתאוס כגיבור המוסרי של ההתנגדות לסמכות שרירותית."
+
+[[extra.references]]
+id = "prometheus-bound"
+note = "הטרגדיה של אייסכילוס המציגה את פרומתאוס כמיטיב האנושות שנענש בעוול — המקור הקלאסי הראשוני להקבלת פרומתאוס."
+
+[[extra.references]]
+id = "theogony-works-and-days"
+note = "שיריו של הסיודוס השומרים את נרטיב גניבת-האש של פרומתאוס ואת מסורת גזע הזהב / עידני ההידרדרות."
+
+[[extra.references]]
+id = "metamorphoses"
+note = "קומפילציית אובידיוס הכוללת את נרטיב הדמות-הנופלת של פאיתון שהקורפוס קורא במסורת הדמות-הנופלת הרחבה יותר."
+
+[[extra.references]]
+id = "inanna-queen-of-heaven"
+note = "תרגום וולקשטיין וקרמר של מחזור ירידת איננה השומרי — חומר השוואתי לדפוס הירידה-וההשבה."
+
+[[extra.references]]
+id = "kelly-satan-biography"
+note = "הדיווח המקיף של קלי על התפתחות דמות השטן — תמיכה מלומדת בהבחנה של הקורפוס בין לוציפר / שטן / השד."
+
+[[extra.references]]
+id = "forsyth-the-old-enemy"
+note = "התחקות פורסיית אחר מסורת מיתוס-הקרב של היריב-הקוסמי ממקורות מזרח-קרובים עתיקים דרך השטן הנוצרי."
+
+[[extra.references]]
+id = "pagels-origin-of-satan"
+note = "מחקר פייגלס של הבניין החברתי-פוליטי של דמות השטן הנוצרית."
+
+[[extra.references]]
+id = "russell-lucifer-middle-ages"
+note = "הדיווח הסטנדרטי של ראסל על הגיבוש הימי-ביניימי של סינתזת לוציפר-הקוסמי."
+
+[[extra.references]]
+id = "city-of-god"
+note = "הגיבוש של אוגוסטינוס של הקריאה הפטריסטית של נפילת-לוציפר — שלב עיקרי בסינתזת הדמות-הקוסמית שהקורפוס מבחין."
+
+[[extra.references]]
+id = "de-principiis"
+note = "היישום המוקדם של אוריגנס של קטע הֵילֵל של ישעיהו י»ד לדמות קוסמית נופלת."
+
+[[extra.references]]
+id = "summa-theologiae"
+note = "העיבוד הסכולסטי של אקווינס של דוקטרינת נפילת-לוציפר (*Summa Theologiae* I, qq. 63–64)."
+
+[[extra.references]]
+id = "the-satanic-bible"
+note = "הטקסט היסודי של לאוויי של השטניזם הלאוויאני — הנכסה סמלית בת זמננו של השם לוציפר שהקורפוס רושם אך אינו מאשר."
 
 [extra.infobox]
 hebrew_name = "הֵילֵל בֶּן־שַׁחַר (Helel ben Shahar)"
 greek_name = "Φωσφόρος (Phosphoros); Ἑωσφόρος (Heosphoros)"
 latin_name = "Lūcifer ('light-bringer')"
-title = "Light-Bringer; leader of the dissenting faction within the Israel team"
-born = "Eloha home world; born approximately during the late Age of Capricorn or early Age of Sagittarius (no specific date in the source material)"
-operational_period = "Late Age of Leo through the present (Lucifer's continuing presence on Earth begins with the Eden exile, c. 11,400 BCE on the corpus's reckoning, and continues across the antediluvian period and beyond)"
-date_type = "framework-internal; derived from the Eden chronology and continuing-presence reading"
-biblical_appearance = "Genesis 3 (the Eden episode, in his Serpent role); Isaiah 14:12 (Helel ben Shahar); Job 38:7 (the morning stars); 2 Peter 1:19 (the morning star); Revelation 22:16 (Jesus identified as the morning star — distinct from Lucifer)"
-faction = "The dissenting faction within the Israel team; advocates for full disclosure of scientific knowledge to the synthesized humans"
-relationship_to_yahweh = "Subordinate within the Israel team during the pre-Eden period; political opponent across the post-Eden period; reconciled in the broader alliance project across subsequent ages"
-distinguished_from = "Satan (a separate Elohim figure leading the home-world abolitionist faction); the Serpent (Lucifer himself in his specific Eden-disclosure role); the Devil (a later Christian theological synthesis combining multiple distinct figures)"
-current_status = "Continuing presence on Earth (per the source material); reconciled with the broader alliance across the post-creation period"
-principal_text = "Genesis 3 (Serpent role); Isaiah 14:12 (Helel ben Shahar); the broader Lucifer-tradition Christian literature"
-principal_framework_source = "*The Book Which Tells the Truth* (Vorilhon/Raël, 1974), chapter 2"
+title = "מביא האור; מנהיג הסיעה הסוררת בתוך צוות ישראל"
+born = "העולם הביתי של האלוהים; נולד בערך במהלך עידן הגדי המאוחר או עידן הקשת המוקדם (אין תאריך ספציפי בחומר המקור)"
+operational_period = "עידן האריה המאוחר עד ההווה (נוכחותו המתמשכת של לוציפר על כדור הארץ מתחילה בגלות עדן, בערך 11,400 לפנה״ס על פי חישוב הקורפוס, ונמשכת לאורך התקופה הטרום-מבולית ומעבר לה)"
+date_type = "פנים-מסגרתי; נגזר מכרונולוגיית עדן ומקריאת הנוכחות-המתמשכת"
+biblical_appearance = "בראשית ג (אפיזודת עדן, בתפקיד הנחש שלו); ישעיהו י»ד:12 (הֵילֵל בֶּן־שַׁחַר); איוב ל»ח:7 (כוכבי הבוקר); פטרוס ב א:19 (כוכב הבוקר); ההתגלות כ»ב:16 (ישוע המזוהה ככוכב הבוקר — מובחן מלוציפר)"
+faction = "הסיעה הסוררת בתוך צוות ישראל; תומכת בגילוי מלא של ידע מדעי לבני האדם הסינתטיים"
+relationship_to_yahweh = "כפוף בתוך צוות ישראל במהלך התקופה שלפני עדן; יריב פוליטי לאורך התקופה שלאחר עדן; מפויס בפרויקט הברית הרחב יותר לאורך העידנים שלאחר מכן"
+distinguished_from = "שטן (דמות אלוהים נפרדת המובילה את הסיעה האבוליציוניסטית של העולם הביתי); הנחש (לוציפר עצמו בתפקיד גילוי עדן הספציפי שלו); השד (סינתזה תיאולוגית נוצרית מאוחרת יותר המשלבת דמויות מובחנות מרובות)"
+current_status = "נוכחות מתמשכת על כדור הארץ (על פי חומר המקור); מפויס עם הברית הרחבה יותר לאורך התקופה שלאחר הבריאה"
+principal_text = "בראשית ג (תפקיד הנחש); ישעיהו י»ד:12 (הֵילֵל בֶּן־שַׁחַר); ספרות מסורת-לוציפר הנוצרית הרחבה יותר"
+principal_framework_source = "*הספר המספר את האמת* (וורילון/ראל, 1974), פרק 2"
 +++
 
-**Lucifer** (Latin: *lūcifer*, "light-bringer," from *lux* "light" + *ferre* "to bear, to bring"; Hebrew: <span class="hebrew">הֵילֵל בֶּן־שַׁחַר</span>, *Helel ben Shahar*, "Day Star, son of the Dawn"; Greek: *Phosphoros* and *Heosphoros*, "light-bearer" and "dawn-bearer") is the figure named in the Christian theological tradition as the leader of the angels who fell from heaven, conventionally identified with Satan, with the Eden Serpent, and with the broader figure of cosmic evil. The Lucifer name itself is a Latin Vulgate-tradition translation (Jerome, c. 405 CE) of the Hebrew *Helel ben Shahar* of Isaiah 14:12, in a passage that the Hebrew text itself addresses to the king of Babylon — a satirical lament over the fall of an arrogant historical-political figure that the patristic-medieval Christian tradition reread as referring to a cosmic figure. The identification of the Lucifer name with the broader fallen-figure tradition has shaped essentially all subsequent Western Christian theological reflection on the figure, with the result that "Lucifer" in popular English usage has come to function as a synonym for Satan or the Devil.
+**לוציפר** (לטינית: *lūcifer*, »מביא האור«, מ-*lux* »אור« + *ferre* »לשאת, להביא«; עברית: <span class="hebrew">הֵילֵל בֶּן־שַׁחַר</span>, *Helel ben Shahar*, »כוכב היום, בן השחר«; יוונית: *Phosphoros* ו-*Heosphoros*, »נושא האור« ו»נושא השחר«) הוא הדמות הנקראת במסורת התיאולוגית הנוצרית כמנהיג המלאכים שנפלו מן השמיים, המזוהה באופן מקובל עם שָׂטָן, עם נחש עדן, ועם הדמות הרחבה יותר של רוע קוסמי. השם לוציפר עצמו הוא תרגום של מסורת הוולגטה הלטינית (ירונימוס, בערך 405 לספירה) של *הֵילֵל בֶּן־שַׁחַר* העברי של ישעיהו י»ד:12, בקטע שהטקסט העברי עצמו ממען למלך בבל — קינה סאטירית על נפילת דמות היסטורית-פוליטית יהירה שהמסורת הנוצרית הפטריסטית-ימי-ביניימית קראה מחדש כמתייחסת לדמות קוסמית.{{ footnote(id="1") }} זיהוי השם לוציפר עם מסורת הדמות-הנופלת הרחבה יותר עיצב למעשה את כל ההרהור התיאולוגי הנוצרי-מערבי שלאחר מכן על הדמות, כאשר התוצאה היא ש»לוציפר« בשימוש האנגלי העממי הפך לתפקד כמילה נרדפת לשטן או לשד.
 
-On the reading developed in the Raëlian source material and adopted by the Wheel of Heaven corpus, Lucifer is read as a specific historical figure rather than as a metaphysical category. Lucifer is an Eloha — a member of the Elohim civilization — who served as one of the senior scientists of the Israel team during the team's work in Eden during the late Age of Leo. He emerged as the leader of a dissenting faction within the team whose distinctive position was that the synthesized humans should be given complete scientific education rather than kept in deliberate ignorance of the technological and biological knowledge of their makers. The faction acted on this position by transmitting restricted knowledge to the first humans — the act narrated in Genesis 3 as the Serpent's intervention. The home-world authorities condemned the act and imposed a political settlement: Lucifer and his faction were exiled permanently to Earth, while the rest of the Israel team and the other six creator teams were withdrawn to the home world. Across the subsequent two millennia of the Age of Cancer, Lucifer and his faction served as the continuing teachers of the Eden-lineage human civilization, transmitting the scientific and technological knowledge that the home-world's containment policy had restricted, and producing — through the *benei ha-Elohim* unions of Genesis 6:1–4 — the hybrid Nephilim offspring whose descendants populated the antediluvian world.
+על פי הקריאה שפותחה בחומר המקור הראליאני ואומצה על ידי קורפוס »גלגל השמיים«, לוציפר נקרא כדמות היסטורית ספציפית ולא כקטגוריה מטאפיזית. לוציפר הוא אלוֹהַּ — חבר בציוויליזציית האלוהים — ששימש כאחד המדענים הבכירים של צוות ישראל במהלך עבודת הצוות בעדן בעידן האריה המאוחר. הוא צמח כמנהיג סיעה סוררת בתוך הצוות שעמדתה הייחודית הייתה שיש להעניק לבני האדם הסינתטיים חינוך מדעי מלא ולא לשמור אותם בבורות מכוונת לגבי הידע הטכנולוגי והביולוגי של עושיהם. הסיעה פעלה על פי עמדה זו על ידי העברת ידע מוגבל לבני האדם הראשונים — המעשה המסופר בבראשית ג כהתערבות הנחש. רשויות העולם הביתי גינו את המעשה והטילו הסדר פוליטי: לוציפר וסיעתו גלו לצמיתות לכדור הארץ, בעוד ששאר צוות ישראל וששת צוותי הבוראים האחרים נסוגו לעולם הביתי. לאורך שני המילניאלים שלאחר מכן של עידן הסרטן, לוציפר וסיעתו שימשו כמורים המתמשכים של הציוויליזציה האנושית של שושלת עדן, מעבירים את הידע המדעי והטכנולוגי שמדיניות ההכלה של העולם הביתי הגבילה, ומפיקים — באמצעות איחודי *בני האלוהים* של בראשית ו:1–4 — את צאצאי הכלאיים הנפילים שצאצאיהם אכלסו את העולם הטרום-מבולי.
 
-The reading is contested. Within Christian theological tradition, the dominant readings of Lucifer treat the figure as identical with Satan and with the Devil, as a fallen angel whose original position was high (the leader of the angelic hosts) and whose fall was occasioned by pride, with the figure currently active as the principal cosmic adversary of God and humanity. Within mainstream historical-critical biblical scholarship, the figure of Lucifer is recognized as a specific theological development of the post-biblical period — the Hebrew Bible's Isaiah 14:12 *Helel ben Shahar* refers to a historical king, not to a cosmic figure, and the Lucifer-tradition synthesis is a patristic-medieval theological elaboration. Within the Romantic literary-philosophical tradition, beginning with Milton's *Paradise Lost* (1667) and developed across the work of Blake, Byron, Shelley, and the broader Romantic engagement, Lucifer has been read as a sympathetic figure of rebellion against arbitrary authority — a reading that overlaps in several respects with the corpus's own. Within the broader ancient-astronaut and reinterpretive tradition (Sendy, Biglino, Wallis), Lucifer has been read in ways structurally similar to the corpus's reading, with various specific differences. The corpus's reading is structurally distinctive: it preserves the Romantic recognition that orthodox Christian theology has misread the figure, while grounding the reading in a specific operational account that the Romantic tradition does not provide.
+הקריאה שנויה במחלוקת. בתוך המסורת התיאולוגית הנוצרית, הקריאות הדומיננטיות של לוציפר מתייחסות לדמות כזהה לשטן ולשד, כמלאך נופל שעמדתו המקורית הייתה גבוהה (מנהיג הצבאות המלאכיים) ושנפילתו נגרמה מגאווה, כאשר הדמות פעילה כיום כיריב הקוסמי הראשי של אלוהים ושל האנושות. בתוך המחקר המקראי ההיסטורי-ביקורתי המיינסטרימי, דמות לוציפר מוכרת כהתפתחות תיאולוגית ספציפית של התקופה שלאחר המקרא — *הֵילֵל בֶּן־שַׁחַר* של ישעיהו י»ד:12 במקרא העברי מתייחס למלך היסטורי, לא לדמות קוסמית, וסינתזת מסורת-לוציפר היא עיבוד תיאולוגי פטריסטי-ימי-ביניימי. בתוך המסורת הספרותית-פילוסופית הרומנטית, המתחילה ב-*גן עדן האבוד* (1667) של מילטון ומתפתחת לאורך עבודתם של בלייק, ביירון, שלי, והמעורבות הרומנטית הרחבה יותר, לוציפר נקרא כדמות אוהדת של מרד נגד סמכות שרירותית — קריאה החופפת במספר מובנים לקריאת הקורפוס עצמו. בתוך מסורת האסטרונאוטים הקדומים והפרשנית-מחודשת הרחבה יותר (סנדי, ביגלינו, וואליס), לוציפר נקרא באופנים דומים מבנית לקריאת הקורפוס, עם הבדלים ספציפיים שונים. קריאת הקורפוס מובחנת מבנית: היא משמרת את ההכרה הרומנטית שהתיאולוגיה הנוצרית האורתודוקסית קראה את הדמות באופן שגוי, תוך עיגון הקריאה בדיווח תפעולי ספציפי שהמסורת הרומנטית אינה מספקת.
 
-## Etymology and naming
+## אטימולוגיה ומתן שם
 
-The figure carries distinct names across the languages and traditions in which his story has been preserved. The principal forms warrant individual attention.
+הדמות נושאת שמות מובחנים ברחבי השפות והמסורות שבהן נשמר סיפורה. הצורות העיקריות מצדיקות תשומת לב פרטנית.
 
-### Latin *Lūcifer*
+### *Lūcifer* הלטיני
 
-The Latin *lūcifer* is a compound formed from *lux* (light) and the verbal root *ferre* (to bear, to bring), with the resulting compound meaning "light-bringer" or "light-bearer." The Latin term has multiple senses in classical Latin usage:
+*lūcifer* הלטיני הוא צירוף שנוצר מ-*lux* (אור) ומהשורש הפועלי *ferre* (לשאת, להביא), כאשר הצירוף המתקבל פירושו »מביא האור« או »נושא האור«. למונח הלטיני יש מספר משמעויות בשימוש הלטיני הקלאסי:
 
-- **The astronomical sense**: *lūcifer* is the standard Latin name for the planet Venus when it appears as the morning star, preceding the dawn. The same celestial body when seen as the evening star is *vesper* or *hesperus*. The morning-evening distinction was not yet recognized as referring to the same planet in early antiquity, with the identification settling across the Hellenistic period.
-- **The metaphorical sense**: *lūcifer* is used in classical Latin literature for various figures of brightness or beneficence, with no inherent negative connotation.
-- **The theological sense**: *lūcifer* enters Christian Latin through Jerome's Vulgate translation of Isaiah 14:12, where Jerome rendered the Hebrew *Helel ben Shahar* as *lūcifer qui mane oriebaris* ("light-bringer who rose in the morning"). The translation was a literal-philological choice — *Helel* derives from a root meaning "to shine" — but the subsequent identification of the Vulgate's *lūcifer* with the broader fallen-figure tradition produced the Christian theological term.
+- **המשמעות האסטרונומית**: *lūcifer* הוא השם הלטיני הסטנדרטי לכוכב נוגה כשהוא מופיע ככוכב הבוקר, הקודם לשחר. אותו גרם שמיימי כשהוא נראה ככוכב הערב הוא *vesper* או *hesperus*. ההבחנה בוקר-ערב טרם הוכרה כמתייחסת לאותו כוכב בעת העתיקה המוקדמת, כאשר הזיהוי התגבש לאורך התקופה ההלניסטית.
+- **המשמעות המטאפורית**: *lūcifer* משמש בספרות הלטינית הקלאסית עבור דמויות שונות של בהירות או היטבה, ללא קונוטציה שלילית מובנית.
+- **המשמעות התיאולוגית**: *lūcifer* נכנס ללטינית הנוצרית באמצעות תרגום הוולגטה של ירונימוס של ישעיהו י»ד:12, שם ירונימוס תרגם את *הֵילֵל בֶּן־שַׁחַר* העברי כ-*lūcifer qui mane oriebaris* (»מביא האור שעלה בבוקר«). התרגום היה בחירה פילולוגית-מילולית — *הֵילֵל* נגזר משורש שמשמעותו »לזרוח« — אך הזיהוי שלאחר מכן של ה-*lūcifer* של הוולגטה עם מסורת הדמות-הנופלת הרחבה יותר הפיק את המונח התיאולוגי הנוצרי.
 
-The English "Lucifer" preserves the Latin form directly, with the Christian theological identification as the principal modern referent. The astronomical sense is preserved in the technical phrase "Lucifer's morning star" and in occasional poetic usage, but the dominant contemporary English meaning is the Christian theological figure.
+האנגלית »Lucifer« משמרת את הצורה הלטינית ישירות, כאשר הזיהוי התיאולוגי הנוצרי הוא המסומן המודרני העיקרי. המשמעות האסטרונומית נשמרת בביטוי הטכני »כוכב הבוקר של לוציפר« ובשימוש פואטי מזדמן, אך המשמעות האנגלית הדומיננטית בת זמננו היא הדמות התיאולוגית הנוצרית.
 
-### Hebrew *Helel ben Shahar*
+### *Helel ben Shahar* העברי
 
-The Hebrew *Helel ben Shahar* (<span class="hebrew">הֵילֵל בֶּן־שַׁחַר</span>) appears in Isaiah 14:12, in a poetic passage addressed to a specific historical figure — the king of Babylon, named explicitly at Isaiah 14:4. The Hebrew *Helel* derives from the root *h-l-l* meaning "to shine" or "to give praise," with the form *Helel* being a participial construction meaning "shining one." *Ben Shahar* is the patronymic-like construction "son of the Dawn" or "son of Shahar" — *Shahar* being the Hebrew for "dawn" and also a divine name preserved in Ugaritic tradition (the Ugaritic god Šaḥar, paired with Šalim ["evening, completion"]).
+*הֵילֵל בֶּן־שַׁחַר* העברי (<span class="hebrew">הֵילֵל בֶּן־שַׁחַר</span>) מופיע בישעיהו י»ד:12, בקטע פואטי הממוען לדמות היסטורית ספציפית — מלך בבל, הנקרא במפורש בישעיהו י»ד:4. *הֵילֵל* העברי נגזר מהשורש *ה-ל-ל* שמשמעותו »לזרוח« או »להלל«, כאשר הצורה *הֵילֵל* היא בניין בינוני שמשמעותו »הזורח«. *בֶּן־שַׁחַר* הוא הבניין הדמוי-פטרונימי »בן השחר« או »בן שַׁחַר« — *שַׁחַר* הוא העברית ל»שחר« וגם שם אלוהי הנשמר במסורת האוגריתית (האל האוגריתי Šaḥar, מזווג עם Šalim [»ערב, השלמה«]).
 
-The Isaiah passage itself reads (KJV): *"How art thou fallen from heaven, O Lucifer, son of the morning! How art thou cut down to the ground, which didst weaken the nations!"* In context (Isaiah 14:3–23), the lament is addressed to the king of Babylon, whose imminent fall the prophet announces. The passage uses cosmic-mythological imagery — the falling star, the descent to Sheol, the rebellion against God — to characterize the king's pride and impending destruction. Mainstream historical-critical scholarship reads the passage as poetic rhetoric directed at a specific historical figure, with the cosmic-mythological imagery functioning as literary intensification rather than as cosmological reference.
+קטע ישעיהו עצמו נקרא (בנוסח המסורה): *»אֵיךְ נָפַלְתָּ מִשָּׁמַיִם הֵילֵל בֶּן־שָׁחַר נִגְדַּעְתָּ לָאָרֶץ חוֹלֵשׁ עַל־גּוֹיִם«*. בהקשר (ישעיהו י»ד:3–23), הקינה ממוענת למלך בבל, שאת נפילתו הקרובה הנביא מכריז. הקטע משתמש בדימויים קוסמיים-מיתולוגיים — הכוכב הנופל, הירידה לשאול, המרד נגד אלוהים — כדי לאפיין את גאוות המלך וחורבנו הקרב. המחקר ההיסטורי-ביקורתי המיינסטרימי קורא את הקטע כרטוריקה פואטית המכוונת לדמות היסטורית ספציפית, כאשר הדימויים הקוסמיים-מיתולוגיים מתפקדים כהעצמה ספרותית ולא כהתייחסות קוסמולוגית.
 
-The Greek Septuagint translates *Helel* as *Heosphoros* (Ἑωσφόρος, "dawn-bringer"), preserving the morning-star astronomical sense. The Vulgate's choice of *lūcifer* follows the same astronomical interpretation, with *lūcifer* and *Heosphoros* being precise translation equivalents.
+תרגום השבעים היווני מתרגם את *הֵילֵל* כ-*Heosphoros* (Ἑωσφόρος, »מביא השחר«), משמר את המשמעות האסטרונומית של כוכב הבוקר. בחירת הוולגטה ב-*lūcifer* עוקבת אחר אותה פרשנות אסטרונומית, כאשר *lūcifer* ו-*Heosphoros* הם שווי-ערך תרגומיים מדויקים.
 
-### Greek *Phosphoros* and *Heosphoros*
+### *Phosphoros* ו-*Heosphoros* היווניים
 
-The Greek *Phosphoros* (Φωσφόρος, "light-bringer") and *Heosphoros* (Ἑωσφόρος, "dawn-bringer") are the two principal Greek terms for the morning-star planet. *Phosphoros* is used more broadly across Greek literature; *Heosphoros* specifically marks the dawn association. Both terms preserve the same etymological structure as Latin *lūcifer*: a compound of light/dawn plus the verbal root for bringing. The Greek forms enter Christian Greek through the Septuagint's translation of Isaiah 14:12 and are used across the patristic Greek tradition, though without the elaborate fallen-figure development the Latin tradition produced.
+*Phosphoros* היווני (Φωσφόρος, »מביא האור«) ו-*Heosphoros* (Ἑωσφόρος, »מביא השחר«) הם שני המונחים היווניים העיקריים לכוכב-הבוקר. *Phosphoros* משמש באופן רחב יותר ברחבי הספרות היוונית; *Heosphoros* מסמן באופן ספציפי את האסוציאציה לשחר. שני המונחים משמרים את אותו מבנה אטימולוגי כמו *lūcifer* הלטיני: צירוף של אור/שחר ועוד השורש הפועלי לנשיאה. הצורות היווניות נכנסות ליוונית הנוצרית באמצעות תרגום השבעים של ישעיהו י»ד:12 ומשמשות ברחבי המסורת היוונית הפטריסטית, אם כי ללא ההתפתחות המורכבת של הדמות-הנופלת שהמסורת הלטינית הפיקה.
 
-### The Christian theological synthesis
+### הסינתזה התיאולוגית הנוצרית
 
-The identification of *Lucifer* / *Helel* / *Phosphoros* with the cosmic fallen-figure tradition is a specific patristic-medieval theological development that fixes across the period from approximately 200 to 1200 CE. The principal stages:
+זיהוי *לוציפר* / *הֵילֵל* / *Phosphoros* עם מסורת הדמות-הנופלת הקוסמית הוא התפתחות תיאולוגית פטריסטית-ימי-ביניימית ספציפית המתקבעת לאורך התקופה מבערך 200 עד 1200 לספירה. השלבים העיקריים:
 
-- **Origen** (c. 185–254 CE), in *De Principiis* I.5.5 and *Homilies on Ezekiel* 13.1–2, applies the Isaiah 14 passage to the cosmic fallen figure, treating the king of Babylon as a type of the underlying spiritual reality.
-- **Tertullian** (c. 155–c. 240 CE) develops the Lucifer-fall narrative in connection with the broader Christian doctrine of demonic origin.
-- **Augustine** (354–430 CE) consolidates the patristic reading in *City of God* and elsewhere, with the fall of Lucifer treated as the foundational event of cosmic-evil history.
-- **Jerome's Vulgate translation** (c. 405 CE) cements the Latin *lūcifer* form, providing the etymological-textual basis for the medieval Latin tradition.
-- **Medieval scholastic theology** (Aquinas, the broader medieval tradition) elaborates the developed Lucifer doctrine within the demonological apparatus of medieval Christianity.
+- **אוריגנס** (בערך 185–254 לספירה), ב-*De Principiis* I.5.5 וב-*Homilies on Ezekiel* 13.1–2, מיישם את קטע ישעיהו י»ד לדמות הקוסמית הנופלת, מתייחס למלך בבל כטיפוס של המציאות הרוחנית הבסיסית.{{ cite(id="de-principiis", text="[1]", title="אוריגנס, *De Principiis* I.5.5 — יישום מוקדם של ישעיהו י»ד לדמות קוסמית נופלת") }}
+- **טרטוליאנוס** (בערך 155–בערך 240 לספירה) מפתח את נרטיב נפילת-לוציפר בקשר לדוקטרינה הנוצרית הרחבה יותר של מוצא דמוני.
+- **אוגוסטינוס** (354–430 לספירה) מגבש את הקריאה הפטריסטית ב-*עיר האלוהים* ובמקומות אחרים, כאשר נפילת לוציפר מטופלת כאירוע היסודי של היסטוריית הרוע-הקוסמי.{{ cite(id="city-of-god", text="[2]", title="אוגוסטינוס, *עיר האלוהים* — גיבוש הקריאה הפטריסטית של נפילת-לוציפר") }}
+- **תרגום הוולגטה של ירונימוס** (בערך 405 לספירה) מקבע את הצורה הלטינית *lūcifer*, מספק את הבסיס האטימולוגי-טקסטואלי למסורת הלטינית של ימי הביניים.
+- **התיאולוגיה הסכולסטית של ימי הביניים** (אקווינס, המסורת הימי-ביניימית הרחבה יותר) מעבדת את דוקטרינת לוציפר המפותחת בתוך המנגנון הדמונולוגי של הנצרות הימי-ביניימית.{{ cite(id="summa-theologiae", text="[3]", title="אקווינס, *Summa Theologiae* I, qq. 63–64 — עיבוד סכולסטי של דוקטרינת נפילת-לוציפר") }}
 
-The theological development produced the figure now familiar in popular culture: the highest of the angels (sometimes specifically the leader of the cherubim), whose pride against God led to his fall and to the fall of one-third of the angels with him, who rules over the other fallen angels in hell, and who is the same figure as Satan and the Devil. This developed figure is a substantial theological synthesis combining multiple distinct sources — the Hebrew Bible's Isaiah 14, Ezekiel 28 (the lament over the king of Tyre, also reread as cosmic), the various Second Temple Jewish fallen-angel traditions, the Hebrew Bible's *satan* references, and the broader patristic-medieval theological framework.
+ההתפתחות התיאולוגית הפיקה את הדמות המוכרת כעת בתרבות הפופולרית: הגבוה במלאכים (לעיתים באופן ספציפי מנהיג הכרובים), שגאוותו נגד אלוהים הובילה לנפילתו ולנפילת שליש מהמלאכים עמו, השולט על שאר המלאכים הנופלים בגיהינום, ושהוא אותה דמות כשטן וכשד. דמות מפותחת זו היא סינתזה תיאולוגית מהותית המשלבת מקורות מובחנים מרובים — ישעיהו י»ד של המקרא העברי, יחזקאל כ»ח (הקינה על מלך צור, שגם נקראה מחדש כקוסמית), מסורות המלאך-הנופל היהודיות השונות של בית שני, הפניות ה-*satan* של המקרא העברי, והמסגרת התיאולוגית הפטריסטית-ימי-ביניימית הרחבה יותר.
 
-## In the Hebrew Bible and New Testament
+## במקרא העברי ובברית החדשה
 
-Lucifer as a named figure does not appear in the Hebrew Bible. The name is a Latin Vulgate translation of *Helel ben Shahar* in Isaiah 14:12, and the translation choice does not correspond to a single Hebrew Bible figure. The biblical material that has been read as referring to Lucifer falls into several distinguishable bodies.
+לוציפר כדמות נקראת בשם אינו מופיע במקרא העברי. השם הוא תרגום של הוולגטה הלטינית של *הֵילֵל בֶּן־שַׁחַר* בישעיהו י»ד:12, ובחירת התרגום אינה תואמת דמות יחידה במקרא העברי. החומר המקראי שנקרא כמתייחס ללוציפר מתחלק למספר גופים ניתנים להבחנה.
 
-### Isaiah 14:12 and the king of Babylon
+### ישעיהו י»ד:12 ומלך בבל
 
-Isaiah 14:3–23 is the principal Hebrew Bible passage from which the Lucifer name derives. The passage is a lament *(mašal)* directed against the king of Babylon, announcing his fall and ultimate descent to Sheol. The cosmic-mythological imagery includes:
+ישעיהו י»ד:3–23 הוא הקטע העיקרי במקרא העברי שממנו נגזר השם לוציפר. הקטע הוא קינה *(מָשָׁל)* המכוונת נגד מלך בבל, מכריזה את נפילתו וירידתו האולטימטיבית לשאול. הדימויים הקוסמיים-מיתולוגיים כוללים:
 
-- The falling star imagery (14:12: *"How art thou fallen from heaven, O Helel ben Shahar"*)
-- The rebellion-against-heaven imagery (14:13–14: *"I will ascend to the heavens; I will raise my throne above the stars of God; I will sit enthroned on the mount of assembly... I will ascend above the tops of the clouds; I will make myself like the Most High"*)
-- The descent-to-Sheol imagery (14:15: *"But you are brought down to Sheol, to the depths of the Pit"*)
+- דימויי הכוכב הנופל (י»ד:12: *»אֵיךְ נָפַלְתָּ מִשָּׁמַיִם הֵילֵל בֶּן־שָׁחַר«*)
+- דימויי המרד-נגד-השמיים (י»ד:13–14: *»הַשָּׁמַיִם אֶעֱלֶה מִמַּעַל לְכוֹכְבֵי־אֵל אָרִים כִּסְאִי וְאֵשֵׁב בְּהַר־מוֹעֵד... אֶעֱלֶה עַל־בָּמֳתֵי עָב אֶדַּמֶּה לְעֶלְיוֹן«*)
+- דימויי הירידה-לשאול (י»ד:15: *»אַךְ אֶל־שְׁאוֹל תּוּרָד אֶל־יַרְכְּתֵי־בוֹר«*)
 
-The corpus reads the Isaiah 14 passage as a specific historical-political prophecy directed at the king of Babylon, with the cosmic imagery functioning as poetic intensification. The framework's reading of Lucifer does not depend on the Isaiah passage as a primary source — the Lucifer name derives from the Vulgate's translation of this passage, but the underlying historical figure the corpus identifies as Lucifer is grounded in the Genesis 3 / Eden-disclosure narrative and the broader Raëlian source material's account, not in the Isaiah passage as such.
+הקורפוס קורא את קטע ישעיהו י»ד כנבואה היסטורית-פוליטית ספציפית המכוונת למלך בבל, כאשר הדימויים הקוסמיים מתפקדים כהעצמה פואטית. קריאת המסגרת של לוציפר אינה תלויה בקטע ישעיהו כמקור ראשוני — השם לוציפר נגזר מתרגום הוולגטה של קטע זה, אך הדמות ההיסטורית הבסיסית שהקורפוס מזהה כלוציפר מעוגנת בנרטיב בראשית ג / גילוי עדן ובדיווח חומר המקור הראליאני הרחב יותר, ולא בקטע ישעיהו ככזה.
 
-The corpus does register that the Isaiah 14 passage's imagery — falling from heaven, rebellion, descent to the lower world — has a structural correspondence to the framework's reading of Lucifer's career: the Eden-disclosure event and the subsequent exile to Earth could be characterized in cosmic imagery as a "fall" from the home-world's authority, even if the specific Isaiah passage is addressing a different historical figure. The corpus treats this structural correspondence as the underlying reason the patristic-medieval tradition could plausibly read the Isaiah passage as cosmic — the imagery genuinely fits the Lucifer career on the framework's reading, even if the original passage's referent was different.
+הקורפוס אכן רושם שהדימויים של קטע ישעיהו י»ד — הנפילה מן השמיים, המרד, הירידה לעולם התחתון — נושאים התאמה מבנית לקריאת המסגרת של הקריירה של לוציפר: אירוע גילוי עדן והגלות שלאחר מכן לכדור הארץ יכולים להיות מאופיינים בדימויים קוסמיים כ»נפילה« מסמכות העולם הביתי, גם אם קטע ישעיהו הספציפי ממען דמות היסטורית אחרת. הקורפוס מתייחס להתאמה מבנית זו כסיבה הבסיסית שהמסורת הפטריסטית-ימי-ביניימית יכלה באופן סביר לקרוא את קטע ישעיהו כקוסמי — הדימויים מתאימים באמת לקריירה של לוציפר על פי קריאת המסגרת, גם אם המסומן של הקטע המקורי היה שונה.
 
-### Ezekiel 28 and the king of Tyre
+### יחזקאל כ»ח ומלך צור
 
-Ezekiel 28 contains a parallel cosmic-imagery passage, this one addressed to the king of Tyre (Ezekiel 28:1–10, 12–19). The relevant passage (28:12–17) describes the king as having been "in Eden, the garden of Elohim," covered with precious stones, "the anointed cherub who covers," and ultimately cast out for pride and corruption. The patristic-medieval Christian tradition (along with the Hebrew Bible's Isaiah 14) reread this passage as cosmic-Lucifer reference.
+יחזקאל כ»ח מכיל קטע מקביל של דימויים קוסמיים, זה ממוען למלך צור (יחזקאל כ»ח:1–10, 12–19). הקטע הרלוונטי (כ»ח:12–17) מתאר את המלך כמי שהיה »בְּעֵדֶן גַּן־אֱלֹהִים«, מכוסה באבנים יקרות, »כְּרוּב מִמְשַׁח הַסּוֹכֵךְ«, ובסופו של דבר מושלך בשל גאווה ושחיתות. המסורת הנוצרית הפטריסטית-ימי-ביניימית (יחד עם ישעיהו י»ד של המקרא העברי) קראה קטע זה מחדש כהתייחסות ללוציפר-הקוסמי.
 
-The corpus's reading of Ezekiel 28 is parallel to its reading of Isaiah 14: a specific historical-political prophecy directed at a king (the king of Tyre), with cosmic-mythological imagery functioning as poetic intensification, but with structural correspondences to the Lucifer-career narrative that the patristic-medieval tradition recognized. The Ezekiel 28 passage's specific reference to Eden — *"You were in Eden, the garden of Elohim"* — is particularly suggestive on the framework's reading, since Lucifer was indeed in Eden as part of the Israel team. The corpus does not commit to the patristic reading that the Ezekiel 28 passage is directly about Lucifer; the corpus does register that the structural correspondences are real and are part of why the Christian tradition could plausibly develop the cosmic-Lucifer reading.
+קריאת הקורפוס של יחזקאל כ»ח מקבילה לקריאתו של ישעיהו י»ד: נבואה היסטורית-פוליטית ספציפית המכוונת למלך (מלך צור), כאשר דימויים קוסמיים-מיתולוגיים מתפקדים כהעצמה פואטית, אך עם התאמות מבניות לנרטיב הקריירה של לוציפר שהמסורת הפטריסטית-ימי-ביניימית הכירה. ההתייחסות הספציפית של קטע יחזקאל כ»ח לעדן — *»בְּעֵדֶן גַּן־אֱלֹהִים הָיִיתָ«* — מרמזת במיוחד על פי קריאת המסגרת, שכן לוציפר אכן היה בעדן כחלק מצוות ישראל. הקורפוס אינו מתחייב לקריאה הפטריסטית שקטע יחזקאל כ»ח עוסק ישירות בלוציפר; הקורפוס אכן רושם שההתאמות המבניות אמיתיות ושהן חלק מהסיבה שהמסורת הנוצרית יכלה לפתח באופן סביר את הקריאה של לוציפר-הקוסמי.
 
-### The morning-star references
+### הפניות כוכב-הבוקר
 
-Several Hebrew Bible passages refer to "the morning star" or "the day star" without specific cosmic-figure identification:
+מספר קטעים במקרא העברי מתייחסים ל»כוכב הבוקר« או ל»כוכב היום« ללא זיהוי ספציפי של דמות קוסמית:
 
-- **Job 38:7**: *"When the morning stars sang together, and all the sons of Elohim shouted for joy"* — read by some interpreters as a reference to Lucifer's pre-fall state alongside the other angels, though the Hebrew (*kokvei boker*, "morning stars") is plural and the passage is celebrating the cosmic creation rather than naming individual figures.
-- **2 Peter 1:19**: *"You will do well to pay attention to it, as to a lamp shining in a dark place, until the day dawns and the morning star [phosphoros] rises in your hearts"* — applied to Christ in subsequent Christian tradition.
-- **Revelation 22:16**: *"I am the root and the descendant of David, the bright morning star [aster ho lampros ho proinos]"* — Jesus's self-identification as the morning star, distinguished by Christian tradition from the fallen Lucifer.
+- **איוב ל»ח:7**: *»בְּרָן־יַחַד כּוֹכְבֵי בֹקֶר וַיָּרִיעוּ כָּל־בְּנֵי אֱלֹהִים«* — נקרא על ידי פרשנים מסוימים כהתייחסות למצב שלפני-הנפילה של לוציפר לצד המלאכים האחרים, אם כי העברית (*כּוֹכְבֵי בֹקֶר*, »כוכבי בוקר«) היא ברבים והקטע חוגג את הבריאה הקוסמית ולא נוקב בשמות דמויות בודדות.
+- **פטרוס ב א:19**: *»תֵּיטִיבוּ לְהַקְשִׁיב לוֹ כְּמוֹ אֶל־נֵר מֵאִיר בִּמְקוֹם אֹפֶל עַד אֲשֶׁר יַפְצִיעַ הַיּוֹם וְכוֹכַב הַשַּׁחַר [phosphoros] יִזְרַח בִּלְבַבְכֶם«* — מיוחס למשיח במסורת הנוצרית שלאחר מכן.
+- **ההתגלות כ»ב:16**: *»אֲנִי הַשֹּׁרֶשׁ וְהַצֶּאֱצָא לְדָוִד כּוֹכַב הַשַּׁחַר הַבָּהִיר [aster ho lampros ho proinos]«* — הזדהותו העצמית של ישוע ככוכב הבוקר, המובחן על ידי המסורת הנוצרית מלוציפר הנופל.
 
-The morning-star imagery is recurrently theologically significant across the biblical corpus, with the specific identification (positive figure, negative figure, cosmic role) varying by passage. The corpus does not treat any of these passages as direct references to Lucifer in the framework's specific sense.
+דימויי כוכב-הבוקר משמעותיים תיאולוגית באופן חוזר ברחבי הקורפוס המקראי, כאשר הזיהוי הספציפי (דמות חיובית, דמות שלילית, תפקיד קוסמי) משתנה לפי הקטע. הקורפוס אינו מתייחס לאף אחד מהקטעים הללו כהתייחסות ישירה ללוציפר במובן הספציפי של המסגרת.
 
-### The Eden Serpent reference
+### הפניית נחש עדן
 
-The principal Hebrew Bible material on which the framework's reading of Lucifer rests is the Genesis 3 Eden Serpent narrative, treated extensively in the [Serpent](../serpent/) entry. The Serpent of Genesis 3 is, on the corpus's reading, Lucifer in his specific Eden-disclosure role — the same figure performing the specific operational act that the Genesis text records. The Lucifer entry's biographical arc, treated below, develops the broader career of which the Eden disclosure is one episode, with cross-reference to the Serpent entry for the detailed treatment of that specific episode.
+החומר העיקרי במקרא העברי שעליו נשענת קריאת המסגרת של לוציפר הוא נרטיב נחש עדן של בראשית ג, המטופל בהרחבה בערך [הנחש](../serpent/). הנחש של בראשית ג הוא, על פי קריאת הקורפוס, לוציפר בתפקידו הספציפי בגילוי עדן — אותה דמות המבצעת את המעשה התפעולי הספציפי שטקסט בראשית רושם. קשת חיי הערך של לוציפר, המטופלת להלן, מפתחת את הקריירה הרחבה יותר שגילוי עדן הוא אפיזודה אחת בה, עם הפניה מצולבת לערך הנחש לטיפול המפורט באפיזודה ספציפית זו.
 
-### New Testament references
+### הפניות בברית החדשה
 
-The New Testament does not name Lucifer directly. Several passages have been read in the Christian tradition as Lucifer-references:
+הברית החדשה אינה נוקבת בשם לוציפר ישירות. מספר קטעים נקראו במסורת הנוצרית כהפניות-לוציפר:
 
-- **Luke 10:18**: *"I saw Satan fall like lightning from heaven"* — Jesus's statement, read in some Christian traditions as a reference to Lucifer's pre-cosmic fall, in others as a reference to Jesus's victory over demonic powers during his ministry.
-- **2 Corinthians 11:14**: *"Even Satan disguises himself as an angel of light"* — Paul's warning about deceptive false apostles, with the *"angel of light"* phrase sometimes connected to the Lucifer light-bringer etymology.
-- **Revelation 12:7–9**: The cosmic war narrative — *"And there was war in heaven, Michael and his angels fighting against the dragon... And the great dragon was thrown down, that ancient serpent, who is called the devil and Satan, the deceiver of the whole world"* — read in subsequent Christian tradition as the foundational narrative of Lucifer's fall.
+- **לוקס י:18**: *»רָאִיתִי אֶת־הַשָּׂטָן נֹפֵל כַּבָּרָק מִן־הַשָּׁמָיִם«* — אמירת ישוע, הנקראת במסורות נוצריות מסוימות כהתייחסות לנפילה הטרום-קוסמית של לוציפר, באחרות כהתייחסות לניצחון ישוע על כוחות דמוניים במהלך שירותו.
+- **קורינתים ב י»א:14**: *»גַּם־הַשָּׂטָן מִתְחַפֵּשׂ לְמַלְאַךְ אוֹר«* — אזהרת פאולוס לגבי שליחי שקר מתעים, כאשר הביטוי *»מלאך אור«* מקושר לעיתים לאטימולוגיית מביא-האור של לוציפר.
+- **ההתגלות י»ב:7–9**: נרטיב המלחמה הקוסמית — *»וַתְּהִי מִלְחָמָה בַּשָּׁמַיִם מִיכָאֵל וּמַלְאָכָיו נִלְחָמִים בַּתַּנִּין... וַיֻּשְׁלַךְ הַתַּנִּין הַגָּדוֹל הַנָּחָשׁ הַקַּדְמוֹנִי אֲשֶׁר־נִקְרָא שְׁמוֹ מַלְשִׁין וְשָׂטָן הַמַּתְעֶה אֶת־כָּל־תֵּבֵל«* — נקרא במסורת הנוצרית שלאחר מכן כנרטיב היסודי של נפילת לוציפר.
 
-The corpus reads these New Testament references as continuing the post-biblical theological synthesis rather than as preserving direct memory of Lucifer-specific operational events. The Revelation 12 narrative specifically conflates the Eden Serpent (Lucifer) with Satan and the broader devil-figure — a conflation the framework rejects on the four-figure-political-taxonomy grounds developed in the Serpent entry.
+הקורפוס קורא את הפניות הברית החדשה הללו כממשיכות את הסינתזה התיאולוגית שלאחר המקרא ולא כשומרות זיכרון ישיר של אירועים תפעוליים ספציפיים ללוציפר. נרטיב ההתגלות י»ב מערבב באופן ספציפי את נחש עדן (לוציפר) עם שטן ועם דמות-השד הרחבה יותר — ערבוב שהמסגרת דוחה על בסיס הטקסונומיה-הפוליטית בת ארבע הדמויות שפותחה בערך הנחש.
 
-## Biographical arc
+## קשת ביוגרפית
 
-Lucifer's biographical arc, as the framework reads it, spans from his pre-Earth origins on the Eloha home world through his continuing presence on Earth in the contemporary period. The arc divides into seven principal phases. The Eden disclosure phase, treated extensively in the [Serpent](../serpent/) entry, is registered briefly here with cross-reference rather than re-developed in equal detail.
+קשת חייו הביוגרפית של לוציפר, כפי שהמסגרת קוראת אותה, משתרעת ממוצאו שלפני-כדור-הארץ בעולם הביתי של האלוהים דרך נוכחותו המתמשכת על כדור הארץ בתקופה בת זמננו.{{ footnote(id="4") }} הקשת מתחלקת לשבעה שלבים עיקריים. שלב גילוי עדן, המטופל בהרחבה בערך [הנחש](../serpent/), נרשם כאן בקצרה עם הפניה מצולבת ולא מפותח מחדש בפירוט שווה.
 
-### Origin and pre-Earth identity
+### מוצא וזהות שלפני-כדור-הארץ
 
-Lucifer is, on the corpus's reading, an Eloha — a member of the Elohim civilization, born and educated on the alliance home world. The source material does not specify his birth date or his biographical details prior to his involvement in the Earth project, but the broader framework reading places his origins approximately in the late Age of Capricorn or early Age of Sagittarius, several thousand years before the Eden events. Lucifer's Eloha biology — the natural lifespan of approximately 700–1,200 years, the cellular-continuity infrastructure that the broader Elohim civilization had developed, the broader cognitive and physical capacities that distinguished the Elohim from the synthesized humans — is the same biology shared by all members of the Elohim civilization.
+לוציפר הוא, על פי קריאת הקורפוס, אלוֹהַּ — חבר בציוויליזציית האלוהים, שנולד וחונך בעולם הביתי של הברית. חומר המקור אינו מציין את תאריך לידתו או את פרטיו הביוגרפיים שקדמו למעורבותו בפרויקט כדור הארץ, אך קריאת המסגרת הרחבה יותר ממקמת את מוצאו בערך בעידן הגדי המאוחר או עידן הקשת המוקדם, מספר אלפי שנים לפני אירועי עדן. הביולוגיה של לוציפר האלוֹהַּ — תוחלת החיים הטבעית של בערך 700–1,200 שנים, תשתית הרציפות התאית שציוויליזציית האלוהים הרחבה יותר פיתחה, היכולות הקוגניטיביות והפיזיות הרחבות יותר שהבחינו את האלוהים מבני האדם הסינתטיים — היא אותה ביולוגיה המשותפת לכל חברי ציוויליזציית האלוהים.
 
-Lucifer's specific position within the Elohim civilization, on the framework's reading, was as a senior scientist within the Israel team — one of the seven creator teams responsible for the Earth biological-synthesis project. His role within the team was educational and scientific: he was among the team members responsible for instructing the synthesized humans during their post-creation period in the Eden installation, alongside Yahweh as team leader and the broader team membership. His position was substantial but subordinate within the team's hierarchy — Yahweh was the team leader, and Lucifer was a senior member rather than the team head.
+עמדתו הספציפית של לוציפר בתוך ציוויליזציית האלוהים, על פי קריאת המסגרת, הייתה כמדען בכיר בתוך צוות ישראל — אחד משבעת צוותי הבריאה האחראים לפרויקט הסינתזה הביולוגית של כדור הארץ. תפקידו בתוך הצוות היה חינוכי ומדעי: הוא היה בין חברי הצוות האחראים להוראת בני האדם הסינתטיים במהלך תקופתם שלאחר הבריאה במתקן עדן, לצד יהוה כמנהיג הצוות ולצד חברות הצוות הרחבה יותר. עמדתו הייתה מהותית אך כפופה בתוך ההיררכיה של הצוות — יהוה היה מנהיג הצוות, ולוציפר היה חבר בכיר ולא ראש הצוות.
 
-The relationship between Lucifer and Yahweh, on the framework's reading, was not initially adversarial. Both were members of the same alliance team, both were committed to the broader Earth project, both were involved in the educational work with the synthesized humans. The dissenting position that would eventually distinguish Lucifer's faction emerged across the period of the team's work in Eden, not as a pre-existing antagonism. The figures who would become political opponents in the post-Eden period had been colleagues during the pre-Eden period.
+היחס בין לוציפר ליהוה, על פי קריאת המסגרת, לא היה עוין מלכתחילה.{{ footnote(id="3") }} שניהם היו חברי אותו צוות ברית, שניהם היו מחויבים לפרויקט כדור הארץ הרחב יותר, שניהם היו מעורבים בעבודת החינוך עם בני האדם הסינתטיים. העמדה הסוררת שתבחין בסופו של דבר את סיעת לוציפר צמחה לאורך תקופת עבודת הצוות בעדן, ולא כעוינות קיימת מראש. הדמויות שיהפכו ליריבים פוליטיים בתקופה שלאחר עדן היו עמיתות במהלך התקופה שלפני עדן.
 
-### The Eden period: education and dissent formation
+### תקופת עדן: חינוך ויצירת התנגדות
 
-Across the late Age of Leo, Lucifer served as one of the educators of the synthesized humans during their post-creation period in the Eden installation. The work of education was substantial: the synthesized humans had been created in functional adulthood with substantial cognitive capacity, but they required instruction in language, in basic technological capacity, in the cultural-social patterns that would constitute their developed humanity. Lucifer and other Israel team members provided this instruction across an extended period.
+לאורך עידן האריה המאוחר, לוציפר שימש כאחד ממחנכי בני האדם הסינתטיים במהלך תקופתם שלאחר הבריאה במתקן עדן. עבודת החינוך הייתה מהותית: בני האדם הסינתטיים נוצרו בבגרות תפקודית עם יכולת קוגניטיבית מהותית, אך הם נדרשו להוראה בשפה, ביכולת טכנולוגית בסיסית, בדפוסים התרבותיים-חברתיים שיהוו את אנושיותם המפותחת. לוציפר וחברי צוות ישראל אחרים סיפקו הוראה זו לאורך תקופה ממושכת.
 
-The development of Lucifer's dissenting position emerged across this educational period. The framework reads the dissent as developing from several interconnected commitments. The first was Lucifer's growing recognition that the home-world's containment policy — the policy of withholding scientific and technological knowledge from the humans, reflected in the prohibition on the Tree of the Knowledge of Good and Evil — was inadequate to the educational project he was conducting. The synthesized humans, having substantial cognitive capacity and being capable of substantial technical understanding, were being deliberately kept in artificial ignorance, and the educational project was constrained in ways that Lucifer found distorting and inadequate.
+התפתחות עמדתו הסוררת של לוציפר צמחה לאורך תקופה חינוכית זו. המסגרת קוראת את ההתנגדות כמתפתחת ממספר מחויבויות מקושרות. הראשונה הייתה הכרתו הגוברת של לוציפר שמדיניות ההכלה של העולם הביתי — מדיניות מניעת ידע מדעי וטכנולוגי מבני האדם, המשתקפת באיסור על עץ הדעת טוב ורע — הייתה בלתי-מספקת לפרויקט החינוכי שהוא ניהל. בני האדם הסינתטיים, בעלי יכולת קוגניטיבית מהותית ומסוגלים להבנה טכנית מהותית, נשמרו בכוונה בבורות מלאכותית, והפרויקט החינוכי הוגבל באופנים שלוציפר מצא מעוותים ובלתי-מספקים.
 
-The second commitment was a developing personal attachment to the humans Lucifer had been teaching. The corpus reads this as a substantive feature of the Lucifer character: he had become invested in the humans as students and as developing persons, with the result that the home-world's policy of treating them as a controlled population felt to Lucifer like a betrayal of the educational relationship he had been conducting.
+המחויבות השנייה הייתה התקשרות אישית מתפתחת לבני האדם שלוציפר לימד. הקורפוס קורא זאת כתכונה מהותית של אופי לוציפר: הוא נעשה מושקע בבני האדם כתלמידים וכאנשים מתפתחים, כאשר התוצאה הייתה שמדיניות העולם הביתי של התייחסות אליהם כאוכלוסייה מבוקרת הרגישה ללוציפר כבגידה ביחסי החינוך שניהל.
 
-The third commitment was a political-philosophical position about humanity's entitlement to information. Lucifer's faction, on the framework's reading, came to hold that the synthesized humans were entitled to complete information about their situation — about their origin, about their makers, about the broader cosmological context within which they existed — rather than being kept in deliberate ignorance. This was a substantive political-philosophical position, not just a personal attachment, and it would distinguish the Lucifer faction's broader career across the subsequent millennia.
+המחויבות השלישית הייתה עמדה פוליטית-פילוסופית לגבי זכאות האנושות למידע. סיעת לוציפר, על פי קריאת המסגרת, באה להחזיק שבני האדם הסינתטיים זכאים למידע מלא על מצבם — על מוצאם, על עושיהם, על ההקשר הקוסמולוגי הרחב יותר שבתוכו התקיימו — ולא להישמר בבורות מכוונת. זו הייתה עמדה פוליטית-פילוסופית מהותית, לא רק התקשרות אישית, והיא תבחין את הקריירה הרחבה יותר של סיעת לוציפר לאורך המילניאלים שלאחר מכן.
 
-The faction itself developed across this period. The corpus does not specify the faction's exact membership; the framework reads it as a substantial subset of the Israel team's scientific personnel, sharing Lucifer's developing dissent position to varying degrees. The faction was not initially separated from the rest of the team; it formed within the team, with the dissenting members continuing to perform their duties while developing their distinctive position.
+הסיעה עצמה התפתחה לאורך תקופה זו. הקורפוס אינו מציין את ההרכב המדויק של הסיעה; המסגרת קוראת אותה כתת-קבוצה מהותית של אנשי הצוות המדעיים של צוות ישראל, החולקים את עמדת ההתנגדות המתפתחת של לוציפר במידות שונות. הסיעה לא הייתה מופרדת מלכתחילה משאר הצוות; היא נוצרה בתוך הצוות, כאשר החברים הסוררים המשיכו לבצע את חובותיהם תוך פיתוח עמדתם הייחודית.
 
-### The Eden disclosure
+### גילוי עדן
 
-The Eden disclosure event itself — the act narrated in Genesis 3 — is treated extensively in the [Serpent](../serpent/) entry. The Serpent of Genesis 3 is Lucifer in his specific role at the moment of the disclosure: providing the first humans (Adam and Eve) with access to the restricted scientific and technological materials of the garden, and articulating publicly the dissenting faction's position that the humans were entitled to complete information.
+אירוע גילוי עדן עצמו — המעשה המסופר בבראשית ג — מטופל בהרחבה בערך [הנחש](../serpent/). הנחש של בראשית ג הוא לוציפר בתפקידו הספציפי ברגע הגילוי: מספק לבני האדם הראשונים (אדם וחוה) גישה לחומרים המדעיים והטכנולוגיים המוגבלים של הגן, ומבטא בפומבי את עמדת הסיעה הסוררת שבני האדם זכאים למידע מלא.
 
-The decision to act, on the framework's reading, was substantial. Lucifer and his faction recognized that the act would be condemned by the home-world authorities, that the political consequences would be severe, that the educational project would be substantially disrupted, and that their own position within the alliance would be irreversibly altered. They acted nonetheless, having concluded that the dissenting position required action regardless of consequences.
+ההחלטה לפעול, על פי קריאת המסגרת, הייתה מהותית. לוציפר וסיעתו הכירו שהמעשה יגונה על ידי רשויות העולם הביתי, שההשלכות הפוליטיות יהיו חמורות, שהפרויקט החינוכי ישובש מהותית, ושעמדתם שלהם בתוך הברית תשתנה באופן בלתי-הפיך. הם פעלו בכל זאת, לאחר שהסיקו שהעמדה הסוררת מחייבת פעולה ללא קשר להשלכות.
 
-The corpus does not develop this material at length here; the Serpent entry gives the detailed treatment. What matters for the Lucifer biographical arc is that the disclosure was Lucifer's specific operational act, conducted as faction leader, with full understanding of its consequences. Lucifer was not a passive figure who happened to be present at the Eden episode; he was the deliberate principal of the dissenting action.
+הקורפוס אינו מפתח חומר זה באריכות כאן; ערך הנחש נותן את הטיפול המפורט. מה שחשוב לקשת הביוגרפית של לוציפר הוא שהגילוי היה המעשה התפעולי הספציפי של לוציפר, שבוצע כמנהיג סיעה, עם הבנה מלאה של השלכותיו. לוציפר לא היה דמות פסיבית שבמקרה נכחה באפיזודת עדן; הוא היה הנושא המכוון של הפעולה הסוררת.
 
-### The post-Eden exile
+### הגלות שלאחר עדן
 
-Yahweh's response in Genesis 3:14–24 is read by the corpus as the home-world's political verdict on the disclosure, with the verdict's three components (Lucifer's exile, the humans' expulsion, the rest of the Israel team's withdrawal) treated in the Serpent entry. For the Lucifer biographical arc, the principal consequences are:
+תגובת יהוה בבראשית ג:14–24 נקראת על ידי הקורפוס כפסק הדין הפוליטי של העולם הביתי על הגילוי, כאשר שלושת מרכיבי פסק הדין (גלות לוציפר, גירוש בני האדם, נסיגת שאר צוות ישראל) מטופלים בערך הנחש. לקשת הביוגרפית של לוציפר, ההשלכות העיקריות הן:
 
-**The permanent exile to Earth**. Lucifer and his dissenting faction were condemned to remain on Earth — losing access to interstellar travel, to the home-world's continuing technological infrastructure, and to the broader alliance's resources. The "on your belly you shall go, and dust you shall eat" of Genesis 3:14 is read as the operational reality of this exile: Lucifer and his faction would live out their lives on Earth on terms substantially closer to those of the humans they had taught, no longer able to return to the home world or to operate with full alliance technological support.
+**הגלות הצמיתה לכדור הארץ**. לוציפר וסיעתו הסוררת גונו להישאר על כדור הארץ — אובדן הגישה לנסיעה בין-כוכבית, לתשתית הטכנולוגית המתמשכת של העולם הביתי, ולמשאבי הברית הרחבים יותר. ה»עַל־גְּחֹנְךָ תֵלֵךְ וְעָפָר תֹּאכַל« של בראשית ג:14 נקרא כמציאות התפעולית של גלות זו: לוציפר וסיעתו יחיו את חייהם על כדור הארץ בתנאים קרובים מהותית לאלה של בני האדם שלימדו, ללא יכולת לשוב עוד לעולם הביתי או לפעול בתמיכה טכנולוגית מלאה של הברית.
 
-**The political severance from Yahweh**. Lucifer's exile created a continuing political situation in which Yahweh (representing the home-world authority and the broader alliance) and Lucifer (representing the dissenting faction now exiled on Earth) operated as political opponents across the subsequent millennia. The relationship was not one of cosmic-evil opposition (the framework's reading is firmly against this conventional Christian theological reading); it was a political disagreement between former colleagues whose positions had become irreconcilable.
+**הניתוק הפוליטי מיהוה**. גלות לוציפר יצרה מצב פוליטי מתמשך שבו יהוה (המייצג את סמכות העולם הביתי ואת הברית הרחבה יותר) ולוציפר (המייצג את הסיעה הסוררת הגולה כעת על כדור הארץ) פעלו כיריבים פוליטיים לאורך המילניאלים שלאחר מכן. היחס לא היה אחד של התנגדות רוע-קוסמי (קריאת המסגרת היא נחרצות נגד קריאה תיאולוגית נוצרית מקובלת זו); זו הייתה אי-הסכמה פוליטית בין עמיתים לשעבר שעמדותיהם הפכו לבלתי-ניתנות ליישוב.
 
-**The faction's reduced but continuing capacities**. While exiled, Lucifer's faction retained substantial Eloha capabilities — their natural longevity, their cognitive and physical superiority to the synthesized humans, their accumulated knowledge of the team's scientific and technological work. They could no longer access the home-world's resources, but they could draw on what they themselves possessed. This is what made the antediluvian teaching role possible.
+**היכולות המופחתות אך המתמשכות של הסיעה**. בעוד שגלתה, סיעת לוציפר שמרה יכולות אלוֹהַּ מהותיות — אריכות חייה הטבעית, עליונותה הקוגניטיבית והפיזית על בני האדם הסינתטיים, הידע המצטבר שלה של עבודת הצוות המדעית והטכנולוגית. הם לא יכלו עוד לגשת למשאבי העולם הביתי, אך הם יכלו לנצל את מה שהם עצמם החזיקו. זה מה שאיפשר את תפקיד ההוראה הטרום-מבולי.
 
-### The antediluvian teaching role
+### תפקיד ההוראה הטרום-מבולי
 
-Across the Age of Cancer (c. 8,850 – 6,690 BCE on the corpus's chronology), Lucifer and his exiled faction served as the continuing teachers of the Eden-lineage human civilization. This is the period of the corpus's most substantial biographical material on Lucifer's broader career.
+לאורך עידן הסרטן (בערך 8,850 – 6,690 לפנה״ס על פי כרונולוגיית הקורפוס), לוציפר וסיעתו הגולה שימשו כמורים המתמשכים של הציוויליזציה האנושית של שושלת עדן.{{ cite(id="the-book-which-tells-the-truth", text="[4]", title="וורילון (ראל), *הספר המספר את האמת* (1974), פרק 2 — תפקיד ההוראה הטרום-מבולי של הסיעה הגולה") }} זוהי תקופת החומר הביוגרפי המהותי ביותר של הקורפוס על הקריירה הרחבה יותר של לוציפר.
 
-The teaching role had several distinctive features. **First**, the faction continued the educational work that had been disrupted by the Eden expulsion, but now under entirely different operational conditions. The humans were no longer in a controlled garden environment with constrained access to information; they were a developing civilization across the broader Eden region, with the Lucifer faction operating as their teachers without the home-world's containment-policy constraints. The teaching could now be comprehensive — covering the full range of scientific and technological content that the Lucifer faction possessed — rather than constrained as it had been during the Eden period.
+לתפקיד ההוראה היו מספר תכונות ייחודיות. **ראשית**, הסיעה המשיכה את עבודת החינוך שהשתבשה על ידי גירוש עדן, אך כעת תחת תנאים תפעוליים שונים לחלוטין. בני האדם לא היו עוד בסביבת גן מבוקרת עם גישה מוגבלת למידע; הם היו ציוויליזציה מתפתחת ברחבי אזור עדן הרחב יותר, כאשר סיעת לוציפר פעלה כמוריהם ללא אילוצי מדיניות-ההכלה של העולם הביתי. ההוראה יכלה כעת להיות מקיפה — מכסה את כל מגוון התוכן המדעי והטכנולוגי שסיעת לוציפר החזיקה — ולא מוגבלת כפי שהייתה במהלך תקופת עדן.
 
-**Second**, the longevity treatment granted to the Eden-lineage patriarchal leadership. The Genesis 5 genealogy records specific ages — Adam at 930 years, Methuselah at 969 years, Noah at 950 years — for the Sethite line patriarchs. The corpus reads these extended lifespans, treated more fully in the [Antediluvian](../antediluvian/) and [Tree of Life](../tree-of-life/) entries, as the consequence of the Tree of Life longevity technology that the Lucifer faction obtained on a limited and case-by-case basis for the Eden civilization's leadership. The longevity allowed the patriarchal leadership to function across multiple ordinary human generations, providing institutional continuity that a short-lived civilization could not achieve.
+**שנית**, הטיפול בהארכת חיים שניתן למנהיגות הפטריארכלית של שושלת עדן. הגנאלוגיה של בראשית ה רושמת גילים ספציפיים — אדם בן 930 שנים, מתושלח בן 969 שנים, נח בן 950 שנים — עבור פטריארכי קו שֵׁת. הקורפוס קורא אריכויות חיים מורחבות אלה, המטופלות באופן מלא יותר בערכים [הטרום-מבולי](../antediluvian/) ו[עץ החיים](../tree-of-life/), כתוצאה של טכנולוגיית עץ החיים של הארכת חיים שסיעת לוציפר השיגה על בסיס מוגבל ומקרה-מקרה למנהיגות ציוויליזציית עדן. אריכות החיים איפשרה למנהיגות הפטריארכלית לתפקד לאורך מספר דורות אנושיים רגילים, ומספקת רציפות מוסדית שציוויליזציה קצרת-חיים אינה יכולה להשיג.
 
-**Third**, the technological and scientific transmissions. The Genesis 4 cultural-founders genealogy — Jabal as founder of pastoral nomadism, Jubal as founder of music, Tubal-Cain as founder of metallurgy — records specific cultural-technological developments attributed to specific named persons. The framework reads these as products of the Lucifer faction's continuing teaching: the technologies were transmitted from the faction's existing knowledge to the developing human civilization across the antediluvian period.
+**שלישית**, ההעברות הטכנולוגיות והמדעיות. הגנאלוגיה של מייסדי-התרבות של בראשית ד — יָבָל כמייסד הנוודות הרועית, יוּבָל כמייסד המוסיקה, תּוּבַל קַיִן כמייסד המטלורגיה — רושמת התפתחויות תרבותיות-טכנולוגיות ספציפיות המיוחסות לאנשים נקראים בשם ספציפיים. המסגרת קוראת אותן כתוצרי ההוראה המתמשכת של סיעת לוציפר: הטכנולוגיות הועברו מהידע הקיים של הסיעה לציוויליזציה האנושית המתפתחת לאורך התקופה הטרום-מבולית.
 
-**Fourth**, the broader civilizational development of the Eden-lineage civilization. By the late Age of Cancer, the Eden civilization had developed substantial technological and scientific capability — the level of capability that the home-world authorities would ultimately judge a threat, leading to the Flood decision (treated in the [Great Flood](../great-flood/) entry, when written). The corpus reads this civilizational development as substantially the work of the Lucifer faction's continuing teaching across the two millennia of Cancer. The faction's vindication, in the corpus's reading, came in the form of the civilization that emerged: substantively more advanced than the home-world's containment policy would have permitted, and developed under continuing alliance tutelage rather than in artificial isolation.
+**רביעית**, ההתפתחות הציוויליזציונית הרחבה יותר של הציוויליזציה של שושלת עדן. עד עידן הסרטן המאוחר, ציוויליזציית עדן פיתחה יכולת טכנולוגית ומדעית מהותית — רמת היכולת שרשויות העולם הביתי ישפטו בסופו של דבר כאיום, מובילה להחלטת המבול (המטופלת בערך [המבול הגדול](../great-flood/), כשייכתב). הקורפוס קורא התפתחות ציוויליזציונית זו כעבודת ההוראה המתמשכת של סיעת לוציפר באופן מהותי לאורך שני המילניאלים של הסרטן. זכויי הסיעה, בקריאת הקורפוס, הגיע בצורת הציוויליזציה שצמחה: מתקדמת מהותית יותר ממה שמדיניות ההכלה של העולם הביתי הייתה מתירה, ומפותחת תחת חניכה מתמשכת של הברית ולא בבידוד מלאכותי.
 
-The faction's specific membership across this period is not specified in the source material. The framework reads it as a substantial group that, like Lucifer himself, retained Eloha biology and capabilities while operating exclusively on Earth across the antediluvian period.
+ההרכב הספציפי של הסיעה לאורך תקופה זו אינו מצוין בחומר המקור. המסגרת קוראת אותה כקבוצה מהותית אשר, כמו לוציפר עצמו, שמרה ביולוגיית אלוֹהַּ ויכולות תוך פעולה בלעדית על כדור הארץ לאורך התקופה הטרום-מבולית.
 
-### The *benei ha-Elohim* episode and the Nephilim
+### אפיזודת *בני האלוהים* והנפילים
 
-Genesis 6:1–4 introduces the *benei ha-Elohim* / Nephilim narrative — the "sons of Elohim" who took human women as wives and produced hybrid offspring with exceptional capabilities. The framework reads this as a specific operational episode within the Lucifer faction's broader career, treated more fully in the [Antediluvian](../antediluvian/), [Sons of Elohim](../sons-of-elohim/), and [Nephilim](../nephilim/) entries.
+בראשית ו:1–4 מציגה את נרטיב *בני האלוהים* / הנפילים — »בני האלוהים« שלקחו נשים אנושיות כנשים והפיקו צאצאי כלאיים בעלי יכולות יוצאות דופן. המסגרת קוראת זאת כאפיזודה תפעולית ספציפית בתוך הקריירה הרחבה יותר של סיעת לוציפר, המטופלת באופן מלא יותר בערכים [הטרום-מבולי](../antediluvian/), [בני האלוהים](../sons-of-elohim/), ו[הנפילים](../nephilim/).
 
-The framework's reading. The *benei ha-Elohim* of Genesis 6 are the exiled Lucifer faction in their reproductive role: members of the faction taking human women of the Eden lineage as wives and producing hybrid offspring. The unions are biological unions between two species closely enough related to permit fertile reproduction (the broader framework reading is that the Elohim and the synthesized humans share substantial genetic compatibility, since the humans were synthesized from Elohim genetic material as the principal source). The Nephilim are the resulting hybrid offspring, possessing capabilities the source material describes as exceptional.
+קריאת המסגרת. *בני האלוהים* של בראשית ו הם סיעת לוציפר הגולה בתפקידם הרבייתי: חברי הסיעה הלוקחים נשים אנושיות של שושלת עדן כנשים ומפיקים צאצאי כלאיים. האיחודים הם איחודים ביולוגיים בין שני מינים הקרובים מספיק כדי לאפשר רבייה פוריה (קריאת המסגרת הרחבה יותר היא שהאלוהים ובני האדם הסינתטיים חולקים התאמה גנטית מהותית, שכן בני האדם סונתזו מחומר גנטי של אלוהים כמקור העיקרי). הנפילים הם צאצאי הכלאיים המתקבלים, בעלי יכולות שחומר המקור מתאר כיוצאות דופן.
 
-Lucifer's specific role in this episode is not specified in detail. The framework reads him as the leader of the broader faction and therefore implicated in the broader operational decisions that produced the unions, but does not specify whether Lucifer himself participated in such unions or whether he served principally as faction-leader for the broader development. The Nephilim population produced by these unions was substantial by mid-to-late Cancer, on the corpus's reading, and constituted a meaningful portion of the Eden civilization's developed leadership.
+תפקידו הספציפי של לוציפר באפיזודה זו אינו מצוין בפירוט. המסגרת קוראת אותו כמנהיג הסיעה הרחבה יותר ולכן מעורב בהחלטות התפעוליות הרחבות יותר שהפיקו את האיחודים, אך אינה מציינת אם לוציפר עצמו השתתף באיחודים כאלה או אם שימש בעיקר כמנהיג-סיעה להתפתחות הרחבה יותר. אוכלוסיית הנפילים שהופקה על ידי איחודים אלה הייתה מהותית עד אמצע-עד-סוף הסרטן, על פי קריאת הקורפוס, והיוותה חלק משמעותי ממנהיגות ציוויליזציית עדן המפותחת.
 
-The Nephilim episode is one of the principal factors the corpus identifies as contributing to the home-world's eventual Flood decision. The accumulation of Eloha-human hybrid offspring across the antediluvian civilization produced a population that was, in the home-world authorities' view, an unacceptable mixing of the alliance with humanity — both in terms of genetic stock and in terms of leadership capacity. The Flood decision is read by the corpus as targeting, among other concerns, the Nephilim population specifically.
+אפיזודת הנפילים היא אחד הגורמים העיקריים שהקורפוס מזהה כתורמים להחלטת המבול הסופית של העולם הביתי.{{ footnote(id="5") }} הצטברות צאצאי הכלאיים אלוֹהַּ-אנושיים לאורך הציוויליזציה הטרום-מבולית הפיקה אוכלוסייה שהייתה, בראיית רשויות העולם הביתי, ערבוב בלתי-מקובל של הברית עם האנושות — הן במונחי מלאי גנטי והן במונחי יכולת מנהיגות. החלטת המבול נקראת על ידי הקורפוס כמכוונת, בין שאר הדאגות, לאוכלוסיית הנפילים באופן ספציפי.
 
-### The Flood and post-Flood status
+### המבול והמעמד שלאחר המבול
 
-The Flood event of the Age of Gemini (c. 6,690 BCE on the corpus's chronology) is treated more fully in the [Great Flood](../great-flood/) entry. For the Lucifer biographical arc, the central question is what happened to Lucifer and his faction during and after the Flood.
+אירוע המבול של עידן התאומים (בערך 6,690 לפנה״ס על פי כרונולוגיית הקורפוס) מטופל באופן מלא יותר בערך [המבול הגדול](../great-flood/). לקשת הביוגרפית של לוציפר, השאלה המרכזית היא מה קרה ללוציפר ולסיעתו במהלך המבול ואחריו.
 
-The source material's account is not detailed. The framework's working reading is that Lucifer and his faction survived the Flood event — their Eloha biology and accumulated knowledge would have given them substantial capacity to anticipate and survive a catastrophe of the kind the Flood represented, and the source material does not identify them as having been destroyed by the Flood. The corpus reads them as having continued operational presence across the post-Flood period, though in substantially reduced circumstances: the antediluvian civilization they had been teaching was largely destroyed; the surviving human population was the small Noahic remnant; the operational scope of their teaching role was substantially diminished.
+דיווח חומר המקור אינו מפורט. הקריאה העובדת של המסגרת היא שלוציפר וסיעתו שרדו את אירוע המבול — ביולוגיית האלוֹהַּ שלהם והידע המצטבר היו נותנים להם יכולת מהותית לצפות ולשרוד קטסטרופה מסוג שהמבול ייצג, וחומר המקור אינו מזהה אותם כמי שהושמדו במבול. הקורפוס קורא אותם כמי שהמשיכו נוכחות תפעולית לאורך התקופה שלאחר המבול, אם כי בנסיבות מופחתות מהותית: הציוויליזציה הטרום-מבולית שלימדו הושמדה ברובה; האוכלוסייה האנושית ששרדה הייתה שריד נח הקטן; ההיקף התפעולי של תפקיד ההוראה שלהם הצטמצם מהותית.
 
-The post-Flood Lucifer-faction activities are not specified in detail in the source material. The framework reads them as having continued in some form across the subsequent millennia, with various degrees of involvement in the post-Flood human civilizations as they redeveloped. The detailed treatment of the post-Flood period's various political-operational developments is registered in the relevant entries on the post-Flood patriarchal period and beyond.
+פעילויות סיעת לוציפר שלאחר המבול אינן מצוינות בפירוט בחומר המקור. המסגרת קוראת אותן כמי שהמשיכו בצורה כלשהי לאורך המילניאלים שלאחר מכן, עם מידות שונות של מעורבות בציוויליזציות האנושיות שלאחר המבול בעת התפתחותן מחדש. הטיפול המפורט בהתפתחויות הפוליטיות-תפעוליות השונות של התקופה שלאחר המבול נרשם בערכים הרלוונטיים על התקופה הפטריארכלית שלאחר המבול ומעבר לה.
 
-### Continuing presence and current status
+### נוכחות מתמשכת ומעמד נוכחי
 
-The source material reports that Lucifer and his faction continue to exist in the contemporary period, with continuing presence on Earth across the long centuries between the Flood and the Aquarian-age opening. The specific operational details of this continuing presence are not specified at length in the source material, but the broader framework reads several principal features:
+חומר המקור מדווח שלוציפר וסיעתו ממשיכים להתקיים בתקופה בת זמננו, עם נוכחות מתמשכת על כדור הארץ לאורך המאות הארוכות שבין המבול לפתיחת עידן הדלי. הפרטים התפעוליים הספציפיים של נוכחות מתמשכת זו אינם מצוינים באריכות בחומר המקור, אך המסגרת הרחבה יותר קוראת מספר תכונות עיקריות:
 
-**Reconciliation with the broader alliance**. Across the post-Flood period, the political situation between Lucifer's faction and the rest of the alliance has substantially changed from the immediate post-Eden situation. The framework reads a gradual reconciliation occurring across the post-Flood centuries and millennia, with the Lucifer faction's contributions to the broader alliance project being increasingly recognized rather than condemned. By the Aquarian-age opening, the corpus reads Lucifer as fully reconciled with the broader alliance, with his earlier dissenting position substantially vindicated by the operational trajectory the alliance has subsequently followed (the gradual movement toward open disclosure that the corpus reads itself as participating in).
+**פיוס עם הברית הרחבה יותר**. לאורך התקופה שלאחר המבול, המצב הפוליטי בין סיעת לוציפר לשאר הברית השתנה מהותית מהמצב המיידי שלאחר עדן.{{ footnote(id="6") }} המסגרת קוראת פיוס הדרגתי המתרחש לאורך המאות והמילניאלים שלאחר המבול, כאשר תרומות סיעת לוציפר לפרויקט הברית הרחב יותר מוכרות יותר ויותר ולא מגונות. עד פתיחת עידן הדלי, הקורפוס קורא את לוציפר כמפויס במלואו עם הברית הרחבה יותר, כאשר עמדתו הסוררת המוקדמת זוכתה מהותית על ידי המסלול התפעולי שהברית עקבה אחריו לאחר מכן (התנועה ההדרגתית לעבר גילוי גלוי שהקורפוס קורא את עצמו כמשתתף בה).
 
-**Continuing ground-level presence**. The faction's continuing presence on Earth across the long historical periods has been operationally significant, even when not directly named in the surviving textual record. The framework reads the various ancient-world traditions of culture-bringer figures (Prometheus in the Greek tradition, the various wisdom-bringer figures in other cultures) as preserving fragmentary memory of the Lucifer faction's continuing teaching role across the centuries.
+**נוכחות מתמשכת ברמת-הקרקע**. נוכחות הסיעה המתמשכת על כדור הארץ לאורך התקופות ההיסטוריות הארוכות הייתה משמעותית תפעולית, גם כשאינה נקראת בשם ישירות בתיעוד הטקסטואלי השורד. המסגרת קוראת את מסורות העולם הקדום השונות של דמויות מביאות-תרבות (פרומתאוס במסורת היוונית, דמויות מביאות-החוכמה השונות בתרבויות אחרות) כשומרות זיכרון מקוטע של תפקיד ההוראה המתמשך של סיעת לוציפר לאורך המאות.
 
-**Current activities**. The source material does not specify Lucifer's current location, role, or activities in detail. The framework reads him as part of the broader alliance's current operations on Earth, with specific activities not publicly disclosed.
+**פעילויות נוכחיות**. חומר המקור אינו מציין את מיקומו, תפקידו או פעילויותיו הנוכחיות של לוציפר בפירוט. המסגרת קוראת אותו כחלק מהפעולות הנוכחיות של הברית הרחבה יותר על כדור הארץ, כאשר פעילויות ספציפיות אינן מגולות בפומבי.
 
-## Role in the framework
+## תפקיד במסגרת
 
-Lucifer's role in the framework is structured by his position within the four-figure political taxonomy established in the Serpent entry, his historical role as the teacher of the antediluvian human civilization, and his structural position in the corpus's broader cosmological narrative.
+תפקידו של לוציפר במסגרת מובנה על ידי עמדתו בתוך הטקסונומיה הפוליטית בת ארבע הדמויות שנקבעה בערך הנחש, על ידי תפקידו ההיסטורי כמורה הציוויליזציה האנושית הטרום-מבולית, ועל ידי עמדתו המבנית בנרטיב הקוסמולוגי הרחב יותר של הקורפוס.
 
-### The four-figure political taxonomy
+### הטקסונומיה הפוליטית בת ארבע הדמויות
 
-The framework distinguishes carefully between four figures whose relations have been confused by later religious tradition: Yahweh (the Israel team leader and alliance moderate), Lucifer (the dissenting faction leader), the Serpent (Lucifer in his specific Eden-disclosure role), and Satan (a separate Elohim figure leading the home-world abolitionist faction). The detailed treatment of this taxonomy lives in the [Serpent](../serpent/) entry; for the Lucifer entry, the principal point is that Lucifer is one of the four figures, distinguished from the others by specific operational position.
+המסגרת מבחינה בקפידה בין ארבע דמויות שיחסיהן בולבלו על ידי מסורת דתית מאוחרת יותר: יהוה (מנהיג צוות ישראל ומתון הברית), לוציפר (מנהיג הסיעה הסוררת), הנחש (לוציפר בתפקיד גילוי עדן הספציפי שלו), ושטן (דמות אלוהים נפרדת המובילה את הסיעה האבוליציוניסטית של העולם הביתי).{{ footnote(id="2") }} הטיפול המפורט בטקסונומיה זו חי בערך {% wiki(slug="serpent") %}הנחש{% end %}; לערך לוציפר, הנקודה העיקרית היא שלוציפר הוא אחת מארבע הדמויות, המובחנת מהאחרות על ידי עמדה תפעולית ספציפית.
 
-Lucifer's specific position within the taxonomy is the **disclosure-and-education** position. Where Yahweh advocated for preservation under containment policy, Satan advocated for project termination, and the Serpent represents the specific Eden-disclosure act, Lucifer's broader position across his entire career has been the advocacy for human full-information access and the practical implementation of that position through the educational role. This position is distinct from each of the other three.
+עמדתו הספציפית של לוציפר בתוך הטקסונומיה היא עמדת ה**גילוי-והחינוך**. במקום שיהוה תמך בשימור תחת מדיניות הכלה, שטן תמך בסיום הפרויקט, והנחש מייצג את מעשה גילוי עדן הספציפי, עמדתו הרחבה יותר של לוציפר לאורך כל הקריירה שלו הייתה התמיכה בגישה אנושית למידע מלא והיישום המעשי של אותה עמדה באמצעות תפקיד החינוך. עמדה זו מובחנת מכל אחת משלוש האחרות.
 
-### The teacher of the antediluvian civilization
+### מורה הציוויליזציה הטרום-מבולית
 
-Lucifer's principal historical role, on the framework's reading, was as the teacher of the Eden-lineage human civilization across the long antediluvian period. This role is, by the corpus's reckoning, the most operationally consequential single role any individual figure has played in the alliance's two-millennium engagement with Earth — substantially more consequential, in terms of cumulative civilizational impact, than the more famous Mosaic and Christic interventions of subsequent ages.
+תפקידו ההיסטורי העיקרי של לוציפר, על פי קריאת המסגרת, היה כמורה הציוויליזציה האנושית של שושלת עדן לאורך התקופה הטרום-מבולית הארוכה. תפקיד זה הוא, על פי חישוב הקורפוס, התפקיד היחיד בעל ההשלכות התפעוליות הרבות ביותר שכל דמות פרטנית מילאה במעורבות בת שני המילניאלים של הברית עם כדור הארץ — בעל השלכות מהותיות יותר, במונחי השפעה ציוויליזציונית מצטברת, מההתערבויות המשייות והמשיחיות המפורסמות יותר של העידנים שלאחר מכן.
 
-The reasoning. The antediluvian Eden civilization that Lucifer's faction taught reached, on the corpus's reading, a level of technological and scientific development that the home-world authorities ultimately judged a threat. The civilization was destroyed in the Flood, with its surviving traces preserved only in the fragmentary memories of post-Flood cultural traditions (Atlantis, the Sumerian King List antediluvian kings, the various global lost-civilization traditions). But the *fact* of the antediluvian civilization's development — that humans, with continuing Lucifer-faction teaching across two millennia, could develop a substantively advanced civilization — is the framework's principal evidence for the corpus's reading of human capacity. The Lucifer faction's vindication, on the corpus's reading, is in the demonstration that humans are capable of substantially more than the home-world's containment policy permitted.
+ההיגיון. ציוויליזציית עדן הטרום-מבולית שסיעת לוציפר לימדה הגיעה, על פי קריאת הקורפוס, לרמה של התפתחות טכנולוגית ומדעית שרשויות העולם הביתי שפטו בסופו של דבר כאיום. הציוויליזציה הושמדה במבול, כאשר עקבותיה ששרדו נשמרו רק בזיכרונות המקוטעים של מסורות תרבותיות שלאחר המבול (אטלנטיס, מלכי רשימת המלכים השומרית הטרום-מבוליים, מסורות הציוויליזציה-האבודה הגלובליות השונות). אך *עצם העובדה* של התפתחות הציוויליזציה הטרום-מבולית — שבני האדם, עם הוראה מתמשכת של סיעת לוציפר לאורך שני מילניאלים, יכלו לפתח ציוויליזציה מתקדמת מהותית — היא הראיה העיקרית של המסגרת לקריאת הקורפוס של היכולת האנושית. זכויי סיעת לוציפר, על פי קריאת הקורפוס, הוא בהדגמה שבני האדם מסוגלים למהותית יותר ממה שמדיניות ההכלה של העולם הביתי התירה.
 
-### The broader cosmological position
+### העמדה הקוסמולוגית הרחבה יותר
 
-Lucifer's broader cosmological position, on the framework's reading, is as a substantial historical figure whose dissenting position has been gradually vindicated by the alliance's broader operational trajectory. The framework reads the alliance's gradual movement toward open disclosure across the post-creation period — from the antediluvian containment policy through the various intermediate stages to the Aquarian-age explicit disclosure that the corpus reads itself as participating in — as substantially the trajectory that Lucifer's faction was advocating across the entire post-Eden period. By the contemporary moment, the home-world's policy and Lucifer's faction's position have substantially converged, with the result that the original political crisis that produced the post-Eden settlement is no longer a live issue.
+עמדתו הקוסמולוגית הרחבה יותר של לוציפר, על פי קריאת המסגרת, היא כדמות היסטורית מהותית שעמדתה הסוררת זוכתה בהדרגה על ידי המסלול התפעולי הרחב יותר של הברית. המסגרת קוראת את התנועה ההדרגתית של הברית לעבר גילוי גלוי לאורך התקופה שלאחר הבריאה — ממדיניות ההכלה הטרום-מבולית דרך השלבים הביניימיים השונים ועד גילוי עידן הדלי המפורש שהקורפוס קורא את עצמו כמשתתף בו — כמסלול שסיעת לוציפר תמכה בו במהותו לאורך כל התקופה שלאחר עדן. עד הרגע בן זמננו, מדיניות העולם הביתי ועמדת סיעת לוציפר התכנסו מהותית, כאשר התוצאה היא שהמשבר הפוליטי המקורי שהפיק את ההסדר שלאחר עדן אינו עוד סוגיה חיה.
 
-This trajectory framing is the corpus's most substantive reading of Lucifer as a sympathetic figure. He was condemned at the moment of the Eden disclosure for political reasons that were, in their specific historical moment, real and substantive; the post-Eden settlement was not unjust persecution but a real political verdict with real costs. But across the long centuries, the underlying question — whether humans should have access to the alliance's accumulated knowledge — has been answered substantially in the Lucifer faction's favor. The framework's reading of Lucifer is therefore neither the conventional Christian "cosmic evil" reading nor the Romantic "heroic rebel" reading but something more nuanced: a historical figure with a specific dissenting position, condemned in his specific moment, gradually vindicated by the long-term trajectory.
+מסגור-מסלול זה הוא הקריאה המהותית ביותר של הקורפוס של לוציפר כדמות אוהדת. הוא גונה ברגע גילוי עדן מטעמים פוליטיים שהיו, ברגעם ההיסטורי הספציפי, אמיתיים ומהותיים; ההסדר שלאחר עדן לא היה רדיפה בלתי-צודקת אלא פסק דין פוליטי אמיתי עם עלויות אמיתיות. אך לאורך המאות הארוכות, השאלה הבסיסית — אם לבני האדם צריכה להיות גישה לידע המצטבר של הברית — נענתה מהותית לטובת סיעת לוציפר. קריאת המסגרת של לוציפר היא לכן אינה הקריאה הנוצרית המקובלת של »רוע קוסמי« ואף לא הקריאה הרומנטית של »מורד הרואי« אלא משהו מורכב יותר: דמות היסטורית בעלת עמדה סוררת ספציפית, שגונתה ברגעה הספציפי, וזוכתה בהדרגה על ידי המסלול ארוך-הטווח.
 
-### What the framework does not claim
+### מה שהמסגרת אינה טוענת
 
-The framework does not claim that Lucifer is morally good in an unqualified sense. The Eden disclosure had substantial real costs — the loss of the controlled environment, the complications of the post-Eden settlement, the Nephilim hybrid population that contributed to the eventual Flood, the long-term political tensions between the Lucifer faction and the broader alliance. The framework's reading recognizes these costs as real and treats Yahweh's condemnation in Genesis 3 as a real political verdict.
+המסגרת אינה טוענת שלוציפר טוב מוסרית במובן בלתי-מסויג. לגילוי עדן היו עלויות אמיתיות מהותיות — אובדן הסביבה המבוקרת, הסיבוכים של ההסדר שלאחר עדן, אוכלוסיית כלאיים הנפילים שתרמה למבול הסופי, המתחים הפוליטיים ארוכי-הטווח בין סיעת לוציפר לברית הרחבה יותר. קריאת המסגרת מכירה בעלויות אלה כאמיתיות ומתייחסת לגינוי יהוה בבראשית ג כפסק דין פוליטי אמיתי.
 
-The framework does not claim that Lucifer is the cosmic adversary of God or of humanity. The conventional Christian theological identification of Lucifer with Satan and with cosmic evil is rejected on multiple grounds: the textual basis for the identification is post-biblical (the Vulgate translation choice plus the patristic-medieval theological development), the operational distinction between Lucifer and Satan is substantive in the framework's reading (they are politically opposed Elohim figures, not the same actor), and the broader cosmic-evil cosmology that the conventional reading presupposes is not part of the framework's broader cosmological account.
+המסגרת אינה טוענת שלוציפר הוא היריב הקוסמי של אלוהים או של האנושות. הזיהוי התיאולוגי הנוצרי המקובל של לוציפר עם שטן ועם רוע קוסמי נדחה על מספר בסיסים: הבסיס הטקסטואלי לזיהוי הוא שלאחר המקרא (בחירת תרגום הוולגטה ועוד ההתפתחות התיאולוגית הפטריסטית-ימי-ביניימית), ההבחנה התפעולית בין לוציפר לשטן מהותית בקריאת המסגרת (הם דמויות אלוהים מנוגדות פוליטית, לא אותו שחקן), והקוסמולוגיה של רוע-קוסמי הרחבה יותר שהקריאה המקובלת מניחה מראש אינה חלק מהדיווח הקוסמולוגי הרחב יותר של המסגרת.
 
-The framework does not claim that Lucifer's continuing presence on Earth is a malevolent factor in contemporary human affairs. The corpus reads Lucifer as substantially reconciled with the broader alliance and as a constructive rather than adversarial figure in the contemporary period. The various contemporary occult and Satanist appropriations of the Lucifer name (treated under *Modern reinterpretations* below) are not endorsed by the framework as accurate readings of who or what Lucifer actually is.
+המסגרת אינה טוענת שנוכחותו המתמשכת של לוציפר על כדור הארץ היא גורם זדוני בענייני האנושות בני זמננו. הקורפוס קורא את לוציפר כמפויס מהותית עם הברית הרחבה יותר וכדמות בונה ולא יריבה בתקופה בת זמננו. הנכסות האוקולטיות והשטניסטיות בנות זמננו השונות של השם לוציפר (המטופלות תחת *פרשנויות מחודשות מודרניות* להלן) אינן מאושרות על ידי המסגרת כקריאות מדויקות של מי או מה לוציפר הוא באמת.
 
-## Identifications and conflations
+## זיהויים וערבובים
 
-Lucifer has been identified with numerous figures across two millennia of Christian theological development. Specifying these identifications and conflations clarifies the corpus's specific reading.
+לוציפר זוהה עם דמויות רבות לאורך שני מילניאלים של התפתחות תיאולוגית נוצרית. ציון זיהויים וערבובים אלה מבהיר את הקריאה הספציפית של הקורפוס.
 
-### Lucifer vs. the Serpent
+### לוציפר מול הנחש
 
-The relationship between Lucifer and the Serpent is the framework's reading of *the same actor in different operational moments*. The Serpent is Lucifer specifically in his Genesis 3 Eden-disclosure role; Lucifer is the same figure in his broader career, including the Eden disclosure but extending substantially before and after it. The detailed treatment of this distinction lives in the [Serpent](../serpent/) entry; what matters here is that Lucifer and the Serpent are not different figures but the same figure in different roles.
+היחס בין לוציפר לנחש הוא קריאת המסגרת של *אותו שחקן ברגעים תפעוליים שונים*. הנחש הוא לוציפר באופן ספציפי בתפקיד גילוי עדן שלו בבראשית ג; לוציפר הוא אותה דמות בקריירה הרחבה יותר שלו, כולל גילוי עדן אך משתרעת מהותית לפניו ואחריו. הטיפול המפורט בהבחנה זו חי בערך [הנחש](../serpent/); מה שחשוב כאן הוא שלוציפר והנחש אינם דמויות שונות אלא אותה דמות בתפקידים שונים.
 
-### Lucifer vs. Satan
+### לוציפר מול שטן
 
-The distinction between Lucifer and Satan is the framework's most analytically consequential identification. The two figures are politically distinct on the corpus's reading.
+ההבחנה בין לוציפר לשטן היא הזיהוי בעל ההשלכות האנליטיות הרבות ביותר של המסגרת. שתי הדמויות מובחנות פוליטית על פי קריאת הקורפוס.
 
-Satan, treated more fully in the [Satan](../satan/) entry, is a separate Elohim figure leading a different and more thoroughly oppositional faction — the home-world abolitionist faction that has consistently opposed the Earth project from its inception. Satan's position is that the synthesized humans are a mistake and the project should be terminated; his operational role across the broader Hebrew Bible material is the prosecution of humanity before the alliance councils.
+שטן, המטופל באופן מלא יותר בערך [שטן](../satan/), הוא דמות אלוהים נפרדת המובילה סיעה שונה ויותר התנגדותית ביסודה — הסיעה האבוליציוניסטית של העולם הביתי שהתנגדה בעקביות לפרויקט כדור הארץ מראשיתו. עמדת שטן היא שבני האדם הסינתטיים הם טעות ושיש לסיים את הפרויקט; תפקידו התפעולי לאורך החומר המקראי הרחב יותר הוא תביעת האנושות בפני מועצות הברית.
 
-Lucifer's position is structurally opposite. Lucifer wants the project *expanded* — humans given full information, treated as peers, allowed to develop without artificial restriction. Satan wants the project *terminated* — humans treated as a failed experiment, eliminated rather than continued. Yahweh's moderate position (preservation under containment policy) lies between them.
+עמדת לוציפר מנוגדת מבנית. לוציפר רוצה שהפרויקט *יורחב* — בני האדם יקבלו מידע מלא, יטופלו כשווים, יורשו להתפתח ללא הגבלה מלאכותית. שטן רוצה שהפרויקט *יסתיים* — בני האדם יטופלו כניסוי כושל, יבוטלו ולא יומשכו. עמדתו המתונה של יהוה (שימור תחת מדיניות הכלה) מצויה ביניהם.
 
-The post-biblical Christian theological conflation of Lucifer and Satan obliterates this political structure entirely. On the conflated reading, Lucifer and Satan are the same figure, both representing cosmic evil, both opposed to God and to humanity. On the framework's reading, they are political opposites whose conflation collapses real political distinctions into a single undifferentiated category.
+הערבוב התיאולוגי הנוצרי שלאחר המקרא של לוציפר ושטן מוחק לחלוטין מבנה פוליטי זה. על פי הקריאה המעורבבת, לוציפר ושטן הם אותה דמות, שניהם מייצגים רוע קוסמי, שניהם מנוגדים לאלוהים ולאנושות. על פי קריאת המסגרת, הם מנוגדים פוליטית שערבובם מקפל הבחנות פוליטיות אמיתיות לקטגוריה יחידה בלתי-מובחנת.
 
-The Lucifer / Satan distinction is the most consequential single corrective the framework offers to conventional Christian theology of the figure. Recovering it requires distinguishing the specific Hebrew Bible textual sources (Job 1–2 and Zechariah 3 for Satan; Genesis 3 for the Serpent / Lucifer; Isaiah 14 for the Helel ben Shahar that became Lucifer through Vulgate translation) and recognizing that the post-biblical synthesis collapsed sources that originally referred to distinct figures.
+ההבחנה לוציפר / שטן היא התיקון היחיד בעל ההשלכות הרבות ביותר שהמסגרת מציעה לתיאולוגיה הנוצרית המקובלת של הדמות. שחזורה מחייב הבחנה במקורות הטקסטואליים הספציפיים של המקרא העברי (איוב א–ב וזכריה ג לשטן; בראשית ג לנחש / לוציפר; ישעיהו י»ד ל-*הֵילֵל בֶּן־שַׁחַר* שהפך ללוציפר באמצעות תרגום הוולגטה) והכרה בכך שהסינתזה שלאחר המקרא קיפלה מקורות שהתייחסו במקור לדמויות מובחנות. המחקר המיינסטרימי על התפתחות דמות היריב — *Satan: A Biography* של הנרי אנסגר קלי,{{ cite(id="kelly-satan-biography", text="[5]", title="קלי, *Satan: A Biography* (2006) — השטן הקוסמי המפותח כסינתזה שלאחר המקרא") }} *The Old Enemy* של ניל פורסיית,{{ cite(id="forsyth-the-old-enemy", text="[6]", title="פורסיית, *The Old Enemy: Satan and the Combat Myth* (1987)") }} *The Origin of Satan* של איליין פייגלס,{{ cite(id="pagels-origin-of-satan", text="[7]", title="פייגלס, *The Origin of Satan* (1995)") }} ו-*Lucifer: The Devil in the Middle Ages* של ג'פרי ברטון ראסל{{ cite(id="russell-lucifer-middle-ages", text="[8]", title="ראסל, *Lucifer: The Devil in the Middle Ages* (1984)") }} — מתעד באופן עצמאי שדמות היריב-הקוסמי המפותחת היא בניין שלאחר המקרא ולא מסומן יחיד בסיסי במקרא העברי.
 
-### Lucifer vs. the Devil
+### לוציפר מול השד
 
-The Devil (Greek *diabolos*, Latin *diabolus*) is a developed Christian theological figure that incorporates substantial material from Lucifer, Satan, the Eden Serpent, the Watchers tradition, and various other sources into a single theological category. The Revelation 12:9 verse — *"that ancient serpent, who is called the devil and Satan"* — is the principal text in which all these strands are explicitly fused.
+השד (יוונית *diabolos*, לטינית *diabolus*) הוא דמות תיאולוגית נוצרית מפותחת המשלבת חומר מהותי מלוציפר, משטן, מנחש עדן, ממסורת הצופים, וממקורות שונים אחרים לקטגוריה תיאולוגית יחידה. פסוק ההתגלות י»ב:9 — *»הַנָּחָשׁ הַקַּדְמוֹנִי אֲשֶׁר־נִקְרָא שְׁמוֹ מַלְשִׁין וְשָׂטָן«* — הוא הטקסט העיקרי שבו כל המסילות הללו מתמזגות במפורש.
 
-The corpus reads the New Testament Devil as a specific theological synthesis rather than as a single underlying referent. Lucifer is one component of the synthesis but is not identical with the developed Devil figure. The framework's reading treats the Devil category as a theological synthesis whose underlying components require separate treatment, with Lucifer treated in this entry, Satan in the [Satan](../satan/) entry, and the Eden Serpent in the [Serpent](../serpent/) entry.
+הקורפוס קורא את השד של הברית החדשה כסינתזה תיאולוגית ספציפית ולא כמסומן יחיד בסיסי. לוציפר הוא מרכיב אחד של הסינתזה אך אינו זהה לדמות השד המפותחת. קריאת המסגרת מתייחסת לקטגוריית השד כסינתזה תיאולוגית שמרכיביה הבסיסיים מחייבים טיפול נפרד, כאשר לוציפר מטופל בערך זה, שטן בערך [שטן](../satan/), ונחש עדן בערך [הנחש](../serpent/).
 
-### Lucifer and the Light-Bringer tradition
+### לוציפר ומסורת מביא-האור
 
-The Latin *lūcifer* literally means "light-bringer," and the etymological sense — the bringer of beneficial knowledge — has substantial structural correspondence to the framework's reading of Lucifer's actual operational role. The patristic-medieval Christian tradition's adoption of the *lūcifer* name for the cosmic fallen figure was, in the corpus's reading, a translational accident with substantial consequences: Jerome's specific Vulgate translation of *Helel* as *lūcifer* was etymologically defensible, but the subsequent identification of the *lūcifer* of Isaiah 14 with the Eden Serpent and with cosmic evil produced a name whose etymological sense (bringer of light / knowledge) is structurally inverted from its theological-traditional sense (cosmic evil).
+ה-*lūcifer* הלטיני פירושו מילולית »מביא האור«, והמשמעות האטימולוגית — מביא הידע המיטיב — נושאת התאמה מבנית מהותית לקריאת המסגרת של תפקידו התפעולי הממשי של לוציפר. אימוץ המסורת הנוצרית הפטריסטית-ימי-ביניימית של השם *lūcifer* לדמות הקוסמית הנופלת היה, בקריאת הקורפוס, תאונה תרגומית עם השלכות מהותיות: תרגום הוולגטה הספציפי של ירונימוס של *הֵילֵל* כ-*lūcifer* היה ניתן להגנה אטימולוגית, אך הזיהוי שלאחר מכן של ה-*lūcifer* של ישעיהו י»ד עם נחש עדן ועם רוע קוסמי הפיק שם שמשמעותו האטימולוגית (מביא אור / ידע) הפוכה מבנית ממשמעותו התיאולוגית-מסורתית (רוע קוסמי).
 
-The corpus registers this etymological-theological inversion as one of the more striking features of the Lucifer name. The literal etymological sense is accurate to the framework's reading; the developed theological sense is the conflation history the framework rejects. The contemporary popular meaning of "Lucifer" preserves both senses uneasily, with the etymological sense surfacing in occasional positive uses (the morning-star-as-Christ identification in 2 Peter 1:19 and Revelation 22:16, the various Christian-tradition positive uses of *lūcifer* prior to the figure's exclusively-negative reading) and the theological sense dominating popular usage.
+הקורפוס רושם היפוך אטימולוגי-תיאולוגי זה כאחת התכונות הבולטות יותר של השם לוציפר. המשמעות האטימולוגית המילולית מדויקת לקריאת המסגרת; המשמעות התיאולוגית המפותחת היא היסטוריית הערבוב שהמסגרת דוחה. המשמעות העממית בת זמננו של »לוציפר« משמרת את שתי המשמעויות באי-נוחות, כאשר המשמעות האטימולוגית צפה בשימושים חיוביים מזדמנים (זיהוי כוכב-הבוקר-כמשיח בפטרוס ב א:19 ובהתגלות כ»ב:16, השימושים החיוביים השונים של המסורת הנוצרית ב-*lūcifer* לפני הקריאה השלילית-בלעדית של הדמות) והמשמעות התיאולוגית שולטת בשימוש העממי.
 
-### Lucifer and the Helel ben Shahar tradition
+### לוציפר ומסורת הֵילֵל בֶּן־שַׁחַר
 
-The Hebrew *Helel ben Shahar* of Isaiah 14:12 is, in mainstream historical-critical scholarship, a reference to the king of Babylon, not to a cosmic figure. The Lucifer name's derivation from the Vulgate's translation of this passage is therefore, on the historical-critical reading, an instance of post-biblical theological elaboration treating a specific historical-political prophecy as cosmically significant.
+ה-*הֵילֵל בֶּן־שַׁחַר* העברי של ישעיהו י»ד:12 הוא, במחקר ההיסטורי-ביקורתי המיינסטרימי, התייחסות למלך בבל, לא לדמות קוסמית. גזירת השם לוציפר מתרגום הוולגטה של קטע זה היא לכן, על פי הקריאה ההיסטורית-ביקורתית, מקרה של עיבוד תיאולוגי שלאחר המקרא המתייחס לנבואה היסטורית-פוליטית ספציפית כמשמעותית קוסמית.
 
-The corpus accepts the historical-critical observation about the original Isaiah passage. The framework's reading does not depend on Isaiah 14 as a primary source; the underlying figure the corpus identifies as Lucifer is grounded in the Genesis 3 / Eden-disclosure narrative and the broader Raëlian source material's account. The Lucifer name is adopted as a useful designation for this figure, given the long Christian-tradition usage, while recognizing that the name itself has specific textual-historical origins that don't directly establish the figure's identity.
+הקורפוס מקבל את התצפית ההיסטורית-ביקורתית על קטע ישעיהו המקורי. קריאת המסגרת אינה תלויה בישעיהו י»ד כמקור ראשוני; הדמות הבסיסית שהקורפוס מזהה כלוציפר מעוגנת בנרטיב בראשית ג / גילוי עדן ובדיווח חומר המקור הראליאני הרחב יותר. השם לוציפר מאומץ כייעוד שימושי לדמות זו, לאור השימוש הארוך של המסורת הנוצרית, תוך הכרה בכך שלשם עצמו יש מקורות טקסטואליים-היסטוריים ספציפיים שאינם מבססים ישירות את זהות הדמות.
 
-The Hebrew tradition's *Helel* is therefore not directly Lucifer in the framework's sense. The Lucifer name is adopted from the Latin Vulgate-tradition usage; the figure the corpus calls Lucifer is the one identified through Genesis 3 and the broader source material. The two — the Hebrew *Helel* of Isaiah 14 and the framework's Lucifer figure — are connected by the specific translation history but are not identical referents.
+ה-*הֵילֵל* של המסורת העברית אינו לכן ישירות לוציפר במובן של המסגרת. השם לוציפר מאומץ משימוש מסורת הוולגטה הלטינית; הדמות שהקורפוס מכנה לוציפר היא זו המזוהה דרך בראשית ג וחומר המקור הרחב יותר. השניים — ה-*הֵילֵל* העברי של ישעיהו י»ד ודמות לוציפר של המסגרת — מקושרים על ידי היסטוריית התרגום הספציפית אך אינם מסומנים זהים.
 
-### Lucifer and Prometheus
+### לוציפר ופרומתאוס
 
-The Prometheus parallel is the most substantive comparative identification for Lucifer specifically, treated more fully under *Comparative observations* below. The structural parallels between Lucifer and Prometheus — both bring beneficial knowledge to humanity, both are punished by superior authorities, both suffer continuing consequences — are direct enough that some scholars have proposed direct cultural-mythological connection between the two traditions. The corpus does not commit to a direct genealogical relationship between the Greek and Hebrew traditions but registers the structural correspondence as substantive.
+ההקבלה לפרומתאוס היא הזיהוי ההשוואתי המהותי ביותר ללוציפר באופן ספציפי, המטופל באופן מלא יותר תחת *תצפיות השוואתיות* להלן. ההקבלות המבניות בין לוציפר לפרומתאוס — שניהם מביאים ידע מיטיב לאנושות, שניהם נענשים על ידי רשויות עליונות, שניהם סובלים השלכות מתמשכות — ישירות מספיק שמלומדים מסוימים הציעו קשר תרבותי-מיתולוגי ישיר בין שתי המסורות. הקורפוס אינו מתחייב ליחס גנאלוגי ישיר בין המסורות היוונית והעברית אך רושם את ההתאמה המבנית כמהותית.
 
-## Modern reinterpretations
+## פרשנויות מחודשות מודרניות
 
-Lucifer has been a major subject of modern reinterpretive engagement across several distinct traditions, with the literary-philosophical engagement of the seventeenth through nineteenth centuries being particularly developed.
+לוציפר היה נושא עיקרי של מעורבות פרשנית-מחודשת מודרנית לאורך מספר מסורות מובחנות, כאשר המעורבות הספרותית-פילוסופית של המאות השבע-עשרה עד התשע-עשרה מפותחת במיוחד.
 
-### Milton's *Paradise Lost* (1667)
+### *גן עדן האבוד* של מילטון (1667)
 
-**John Milton**'s *Paradise Lost* (1667) is the single most influential post-biblical literary engagement with Lucifer in Western tradition. Milton's twelve-book epic in blank verse retells the cosmic narrative of Lucifer's fall, the temptation in Eden, and humanity's expulsion from the garden, with substantial elaboration of the cosmic-political dynamics behind the events.
+*גן עדן האבוד* (1667) של **ג'ון מילטון** הוא המעורבות הספרותית היחידה שלאחר המקרא המשפיעה ביותר עם לוציפר במסורת המערבית.{{ cite(id="paradise-lost", text="[9]", title="מילטון, *גן עדן האבוד* (1667)") }} האפוס של מילטון בן שנים-עשר הספרים בשיר חופשי מספר מחדש את הנרטיב הקוסמי של נפילת לוציפר, הפיתוי בעדן, וגירוש האנושות מהגן, עם פירוט מהותי של הדינמיקות הקוסמיות-פוליטיות שמאחורי האירועים.
 
-Milton's Lucifer is, controversially, the most charismatic figure in the poem. The opening books (1–2) present Lucifer in the immediate aftermath of his fall, addressing the assembled rebellious angels in the burning lake of hell with rhetoric of remarkable force: *"What though the field be lost? / All is not lost; the unconquerable will, / And study of revenge, immortal hate, / And courage never to submit or yield."* Milton's Lucifer declares it *"Better to reign in Hell, than serve in Heav'n"* (Book 1, line 263), and the assembled fallen angels are persuaded by his rhetoric to continue the cosmic war by other means.
+לוציפר של מילטון הוא, באופן שנוי במחלוקת, הדמות הכריזמטית ביותר בשיר. הספרים הפותחים (1–2) מציגים את לוציפר בעקבות המיידיות של נפילתו, פונה למלאכים המורדים המכונסים באגם הבוער של הגיהינום ברטוריקה בעלת עוצמה יוצאת דופן: *»מָה אִם הַשָּׂדֶה אָבַד? / לֹא הַכֹּל אָבַד; הָרָצוֹן הַבִּלְתִּי-מְנֻצָּח, / וְלִמּוּד הַנְּקָמָה, שִׂנְאַת-עַד, / וְאֹמֶץ שֶׁלְּעוֹלָם לֹא יִכָּנַע אוֹ יִוָּתֵר.«* לוציפר של מילטון מכריז ש-*»מוּטָב לִמְלֹךְ בַּגֵּיהִנּוֹם מֵאֲשֶׁר לְשָׁרֵת בַּשָּׁמַיִם«* (ספר 1, שורה 263), והמלאכים הנופלים המכונסים משוכנעים על ידי הרטוריקה שלו להמשיך את המלחמה הקוסמית באמצעים אחרים.
 
-Milton's elaborate poetic-theological framework gives Lucifer substantive moral-philosophical content. The Lucifer of *Paradise Lost* is not simply evil; he is presented with sympathy, with substantive intellectual capacity, with rhetoric that is genuinely compelling, and with motivations (resistance to arbitrary authority, refusal to accept subordination) that the reader is positioned to recognize as substantial. The result is a Lucifer figure who reads, to many readers, as the genuine protagonist of the poem despite Milton's ostensible orthodox-Christian framing.
+המסגרת הפואטית-תיאולוגית המפורטת של מילטון נותנת ללוציפר תוכן מוסרי-פילוסופי מהותי. לוציפר של *גן עדן האבוד* אינו פשוט רע; הוא מוצג באהדה, עם יכולת אינטלקטואלית מהותית, עם רטוריקה משכנעת באמת, ועם מניעים (התנגדות לסמכות שרירותית, סירוב לקבל כפיפות) שהקורא ממוקם להכיר בהם כמהותיים. התוצאה היא דמות לוציפר הנקראת, אצל קוראים רבים, כגיבור האמיתי של השיר למרות המסגור הנוצרי-אורתודוקסי המוצהר של מילטון.
 
-The reception of Milton's Lucifer has been substantial. **William Blake**, in *The Marriage of Heaven and Hell* (1790), formulated the most influential reading: *"The reason Milton wrote in fetters when he wrote of Angels & God, and at liberty when of Devils & Hell, is because he was a true Poet and of the Devil's party without knowing it."* Blake's reading captures something real about Milton's text — Milton's Lucifer is genuinely more compelling than his God — and substantially shaped subsequent Romantic engagement with the figure.
+קבלת לוציפר של מילטון הייתה מהותית. **ויליאם בלייק**, ב-*נישואי השמיים והגיהינום* (1790), ניסח את הקריאה המשפיעה ביותר: *»הסיבה שמילטון כתב בכבלים כשכתב על מלאכים ואלוהים, ובחופש כשכתב על שדים וגיהינום, היא שהיה משורר אמיתי ומפלגת השטן מבלי שידע זאת.«*{{ cite(id="marriage-of-heaven-and-hell", text="[10]", title="בלייק, *נישואי השמיים והגיהינום* (1790)") }} קריאת בלייק תופסת משהו אמיתי על טקסט מילטון — לוציפר של מילטון משכנע באמת יותר מהאלוהים שלו — ועיצבה מהותית את המעורבות הרומנטית שלאחר מכן עם הדמות.
 
-The corpus's relationship to Milton's reading is structurally interesting. Milton's Lucifer is presented within an ostensibly orthodox Christian theological framework but with characterization that substantially exceeds the orthodox account. The framework's reading shares Milton's recognition that Lucifer is a substantive figure with real political-philosophical content, while differing from Milton on the underlying cosmological framework (Milton's cosmic-evil cosmology is not the corpus's reading) and on the historical reality of the figure (Milton's Lucifer is a literary construction; the corpus's Lucifer is a specific historical referent).
+יחס הקורפוס לקריאת מילטון מעניין מבנית. לוציפר של מילטון מוצג בתוך מסגרת תיאולוגית נוצרית-אורתודוקסית מוצהרת אך עם אפיון העולה מהותית על הדיווח האורתודוקסי. קריאת המסגרת חולקת את הכרת מילטון שלוציפר הוא דמות מהותית בעלת תוכן פוליטי-פילוסופי אמיתי, תוך הבחנה ממילטון לגבי המסגרת הקוסמולוגית הבסיסית (הקוסמולוגיה של רוע-קוסמי של מילטון אינה קריאת הקורפוס) ולגבי המציאות ההיסטורית של הדמות (לוציפר של מילטון הוא בניין ספרותי; לוציפר של הקורפוס הוא מסומן היסטורי ספציפי).
 
-### The Romantic inversion: Blake, Byron, Shelley
+### ההיפוך הרומנטי: בלייק, ביירון, שלי
 
-The Romantic-era inversion of Lucifer developed across the late eighteenth and early nineteenth centuries, with several principal figures.
+ההיפוך הרומנטי של לוציפר התפתח לאורך סוף המאה השמונה-עשרה ותחילת המאה התשע-עשרה, עם מספר דמויות עיקריות.
 
-**William Blake** (1757–1827), beyond *The Marriage of Heaven and Hell*, developed a substantial mythological-prophetic engagement with Lucifer / Satan figures across his prophetic works (*The Book of Urizen*, *Jerusalem*, *Milton*). Blake's complex mythology includes figures like Urizen (a tyrannical-rational divine figure structurally similar to the orthodox Lucifer's God) and various Satan-figures whose moral valuation is inverted from the orthodox Christian position. Blake's reading of Lucifer specifically tends toward the heroic-rebel position.
+**ויליאם בלייק** (1757–1827), מעבר ל-*נישואי השמיים והגיהינום*, פיתח מעורבות מיתולוגית-נבואית מהותית עם דמויות לוציפר / שטן לאורך יצירותיו הנבואיות (*ספר אוריזן*, *ירושלים*, *מילטון*). המיתולוגיה המורכבת של בלייק כוללת דמויות כמו אוריזן (דמות אלוהית עריצה-רציונלית דומה מבנית לאלוהים של לוציפר האורתודוקסי) ודמויות-שטן שונות שהערכתן המוסרית הפוכה מהעמדה הנוצרית האורתודוקסית. קריאת בלייק של לוציפר באופן ספציפי נוטה לעמדת המורד-ההרואי.
 
-**Lord Byron** (1788–1824), in *Cain: A Mystery* (1821), develops a Lucifer figure who appears to Cain and provides him with knowledge of the cosmic order, with the Byronic Lucifer being substantially sympathetic in tone. Byron's Lucifer offers Cain a cosmological vision that includes the prior-worlds tradition (Pre-Adamite humans, prior cosmic ages) and substantively challenges the orthodox Christian account.
+**הלורד ביירון** (1788–1824), ב-*קין: תעלומה* (1821), מפתח דמות לוציפר המופיעה לקין ומספקת לו ידע על הסדר הקוסמי, כאשר לוציפר הביירוני אוהד מהותית בטון.{{ cite(id="cain-a-mystery", text="[11]", title="ביירון, *קין: תעלומה* (1821)") }} לוציפר של ביירון מציע לקין חזון קוסמולוגי הכולל את מסורת העולמות-הקודמים (בני אדם טרום-אדמיים, עידנים קוסמיים קודמים) ומאתגר מהותית את הדיווח הנוצרי האורתודוקסי.
 
-**Percy Bysshe Shelley** (1792–1822), in *Prometheus Unbound* (1820), develops the Promethean parallel to Lucifer at substantial length, with Prometheus presented as the moral hero of the cosmic narrative against an oppressive Jupiter. Shelley's preface to *Prometheus Unbound* makes the Lucifer-Prometheus structural parallel explicit, reading both figures as embodiments of resistance to arbitrary authority. The Shelleyan Prometheus / Lucifer is the most thorough Romantic-era development of the figure as positive moral exemplar.
+**פרסי ביש שלי** (1792–1822), ב-*פרומתאוס המשוחרר* (1820), מפתח את ההקבלה הפרומתאית ללוציפר באריכות מהותית, כאשר פרומתאוס מוצג כגיבור המוסרי של הנרטיב הקוסמי נגד יופיטר מדכא.{{ cite(id="prometheus-unbound", text="[12]", title="שלי, *פרומתאוס המשוחרר* (1820)") }} ההקדמה של שלי ל-*פרומתאוס המשוחרר* הופכת את ההקבלה המבנית לוציפר-פרומתאוס למפורשת, קוראת את שתי הדמויות כהתגלמויות של התנגדות לסמכות שרירותית. פרומתאוס / לוציפר השלייאני הוא הפיתוח הרומנטי המקיף ביותר של הדמות כמופת מוסרי חיובי.
 
-The Romantic inversion is the corpus's principal modern antecedent for the framework's distinctive non-orthodox reading of Lucifer. The Romantic figures recognized that the orthodox Christian "Lucifer = cosmic evil" reading misidentified the figure's actual moral-philosophical content; the framework's reading shares this recognition while grounding it in a specific operational account that the Romantic tradition does not provide. The framework's reading is therefore Romantic-adjacent on the basic moral-rehabilitation of the figure while differing on the underlying ontology and on the specific historical-political account the framework develops.
+ההיפוך הרומנטי הוא האב-טיפוס המודרני העיקרי של הקורפוס לקריאה הלא-אורתודוקסית הייחודית של המסגרת של לוציפר. הדמויות הרומנטיות הכירו שהקריאה הנוצרית האורתודוקסית של »לוציפר = רוע קוסמי« זיהתה באופן שגוי את התוכן המוסרי-פילוסופי הממשי של הדמות; קריאת המסגרת חולקת הכרה זו תוך עיגונה בדיווח תפעולי ספציפי שהמסורת הרומנטית אינה מספקת. קריאת המסגרת היא לכן רומנטית-סמוכה בשיקום המוסרי הבסיסי של הדמות תוך הבחנה לגבי האונטולוגיה הבסיסית ולגבי הדיווח ההיסטורי-פוליטי הספציפי שהמסגרת מפתחת.
 
-### LaVeyan Satanism and contemporary occult appropriation
+### השטניזם הלאוויאני והנכסה אוקולטית בת זמננו
 
-The contemporary occult-tradition appropriation of Lucifer takes several distinct forms, with the principal contemporary movement being **LaVeyan Satanism** (founded by Anton LaVey, *The Satanic Bible*, 1969) and its various successor movements. LaVeyan Satanism is principally a secular-humanist philosophical tradition that uses Lucifer / Satan iconography for its symbolic-rhetorical value rather than as theological referent — the figures function as symbols of human autonomy, individual self-determination, and resistance to religious authority, with the Church of Satan and the various successor organizations explicitly atheistic in their underlying theology.
+הנכסה האוקולטית בת זמננו של לוציפר לובשת מספר צורות מובחנות, כאשר התנועה העיקרית בת זמננו היא **השטניזם הלאוויאני** (שנוסד על ידי אנטון לאוויי, *התנ״ך השטני*, 1969){{ cite(id="the-satanic-bible", text="[13]", title="לאוויי, *התנ״ך השטני* (1969)") }} ותנועות הממשיכות השונות שלו. השטניזם הלאוויאני הוא בעיקרו מסורת פילוסופית הומניסטית-חילונית המשתמשת באיקונוגרפיית לוציפר / שטן לערכה הסמלי-רטורי ולא כמסומן תיאולוגי — הדמויות מתפקדות כסמלים של אוטונומיה אנושית, הגדרה עצמית פרטנית, והתנגדות לסמכות דתית, כאשר כנסיית השטן והארגונים הממשיכים השונים אתאיסטיים במפורש בתיאולוגיה הבסיסית שלהם.
 
-The **Theistic Satanism** tradition is a smaller but distinct movement that treats Lucifer / Satan as actual cosmic figures and engages with them as such. The various Luciferian movements (the Order of the Trapezoid, the Temple of Set, various smaller groups) develop occult-religious frameworks with substantive Lucifer-content.
+מסורת **השטניזם התאיסטי** היא תנועה קטנה יותר אך מובחנת המתייחסת ללוציפר / שטן כדמויות קוסמיות ממשיות ומתעסקת עמן ככאלה. התנועות הלוציפריות השונות (מסדר הטרפזואיד, מקדש סת, קבוצות קטנות שונות) מפתחות מסגרות אוקולטיות-דתיות עם תוכן-לוציפר מהותי.
 
-The corpus does not endorse either the LaVeyan secular-humanist appropriation or the Theistic Satanism cosmic-figure engagement. The framework's reading is that Lucifer is a specific historical Eloha figure with substantive operational content — neither a useful symbol of secular autonomy (the LaVeyan reading) nor a cosmic-religious figure to be venerated (the Theistic Satanist reading). The contemporary occult appropriations are registered as significant cultural phenomena but not as accurate readings of who or what Lucifer actually is.
+הקורפוס אינו מאשר את הנכסה ההומניסטית-חילונית הלאוויאנית ואף לא את המעורבות בדמות-קוסמית של השטניזם התאיסטי. קריאת המסגרת היא שלוציפר הוא דמות אלוֹהַּ היסטורית ספציפית בעלת תוכן תפעולי מהותי — אינו סמל שימושי של אוטונומיה חילונית (הקריאה הלאוויאנית) ואף לא דמות קוסמית-דתית שיש להעריץ (הקריאה השטניסטית התאיסטית). הנכסות האוקולטיות בנות זמננו נרשמות כתופעות תרבותיות משמעותיות אך לא כקריאות מדויקות של מי או מה לוציפר הוא באמת.
 
-### Sendy on Lucifer
+### סנדי על לוציפר
 
-**Jean Sendy**'s engagement with Lucifer is developed across his work, with the figure receiving treatment in *Ces dieux qui firent le ciel et la terre* (1969) and subsequent works. Sendy reads Lucifer as a member of the Elohim plurality who came into conflict with the Eden commanders over the question of human education, with the figure's subsequent role being as the continuing teacher of the antediluvian human civilization.
+מעורבות **ז'אן סנדי** עם לוציפר מפותחת לאורך עבודתו, כאשר הדמות מקבלת טיפול ב-*Ces dieux qui firent le ciel et la terre* (1969) ובעבודות שלאחר מכן.{{ cite(id="those-gods-who-made-heaven-and-earth", text="[14]", title="סנדי, *Ces dieux qui firent le ciel et la terre* (1969) — לוציפר כאלוהים סורר על חינוך האדם") }} סנדי קורא את לוציפר כחבר בריבוי האלוהים שבא לקונפליקט עם מפקדי עדן על שאלת חינוך האדם, כאשר תפקיד הדמות שלאחר מכן הוא כמורה המתמשך של הציוויליזציה האנושית הטרום-מבולית.
 
-Sendy's specific contributions to Lucifer interpretation include the philological-historical reading of the Lucifer name and its derivation from the Hebrew tradition, the recognition that the Eden Serpent and the post-biblical Lucifer figure are the same actor, and the broader treatment of Lucifer's career as a substantive operational story rather than as a cosmic-allegorical narrative. Sendy's approach is the principal scholarly antecedent of the corpus's adopted reading of Lucifer specifically, and his treatment provides the framework with substantial philological-historical grounding.
+תרומותיו הספציפיות של סנדי לפרשנות לוציפר כוללות את הקריאה הפילולוגית-היסטורית של השם לוציפר וגזירתו מהמסורת העברית, ההכרה שנחש עדן ודמות לוציפר שלאחר המקרא הם אותו שחקן, והטיפול הרחב יותר בקריירה של לוציפר כסיפור תפעולי מהותי ולא כנרטיב קוסמי-אלגורי. גישת סנדי היא האב-טיפוס המלומד העיקרי של הקריאה המאומצת של הקורפוס של לוציפר באופן ספציפי, וטיפולו מספק למסגרת עיגון פילולוגי-היסטורי מהותי.
 
-### Biglino on Lucifer
+### ביגלינו על לוציפר
 
-**Mauro Biglino**'s engagement with Lucifer is developed in *The Naked Bible* (2022) and across his broader corpus. Biglino reads Lucifer as a member of the Elohim plurality whose role in the Eden episode and in subsequent biblical narrative is operational rather than cosmic-allegorical. Biglino's strict-translational methodology produces specific readings of the relevant Hebrew passages — the *Helel ben Shahar* of Isaiah 14, the various morning-star references, the broader Lucifer-tradition material — that consistently treat the underlying figures as physically embodied beings rather than as metaphysical-cosmic categories.
+מעורבות **מאורו ביגלינו** עם לוציפר מפותחת ב-*The Naked Bible* (2022) ולאורך הקורפוס הרחב יותר שלו.{{ cite(id="the-naked-bible", text="[15]", title="ביגלינו וקטאנאו, *The Naked Bible* (2022) — לוציפר כיצור מגולם פיזית") }} ביגלינו קורא את לוציפר כחבר בריבוי האלוהים שתפקידו באפיזודת עדן ובנרטיב המקראי שלאחר מכן הוא תפעולי ולא קוסמי-אלגורי. המתודולוגיה התרגומית-מחמירה של ביגלינו מפיקה קריאות ספציפיות של הקטעים העבריים הרלוונטיים — ה-*הֵילֵל בֶּן־שַׁחַר* של ישעיהו י»ד, הפניות כוכב-הבוקר השונות, חומר מסורת-לוציפר הרחב יותר — המתייחסות בעקביות לדמויות הבסיסיות כיצורים מגולמים פיזית ולא כקטגוריות מטאפיזיות-קוסמיות.
 
-The points of overlap between Biglino's reading and the corpus's reading are substantial. The points of divergence include the Cain-as-serpent-lineage hypothesis (treated in the [Serpent](../serpent/) entry's modern-reinterpretations section), which the corpus does not adopt but which extends Biglino's broader interpretive framework. For Lucifer specifically, the corpus and Biglino are broadly aligned on the basic interpretive direction.
+נקודות החפיפה בין קריאת ביגלינו לקריאת הקורפוס מהותיות. נקודות ההבדל כוללות את השערת קין-כשושלת-הנחש (המטופלת בחלק הפרשנויות-המחודשות-המודרניות של ערך [הנחש](../serpent/)), שהקורפוס אינו מאמץ אך המרחיבה את המסגרת הפרשנית הרחבה יותר של ביגלינו. ללוציפר באופן ספציפי, הקורפוס וביגלינו מיושרים באופן רחב על הכיוון הפרשני הבסיסי.
 
-### Wallis on Lucifer
+### וואליס על לוציפר
 
-**Paul Anthony Wallis**'s engagement with Lucifer is developed in *The Eden Conspiracy* (2024) and in the various works of his broader corpus. Wallis reads Lucifer as the leader of the dissenting Elohim faction whose Eden disclosure produced the post-Eden political settlement, with the figure's broader role as the continuing teacher of the antediluvian civilization. Wallis's reading is substantially compatible with the corpus's reading and provides accessible recent engagement with material the framework has been developing for fifty years through the Sendy-Raëlian tradition.
+מעורבות **פול אנתוני וואליס** עם לוציפר מפותחת ב-*The Eden Conspiracy* (2024) ובעבודות השונות של הקורפוס הרחב יותר שלו.{{ cite(id="the-eden-conspiracy", text="[16]", title="וואליס, *The Eden Conspiracy* (2024)") }} וואליס קורא את לוציפר כמנהיג הסיעה הסוררת של האלוהים שגילוי עדן שלו הפיק את ההסדר הפוליטי שלאחר עדן, כאשר תפקיד הדמות הרחב יותר הוא כמורה המתמשך של הציוויליזציה הטרום-מבולית. קריאת וואליס תואמת מהותית את קריאת הקורפוס ומספקת מעורבות אחרונה נגישה עם חומר שהמסגרת מפתחת זה חמישים שנה דרך מסורת סנדי-ראל.
 
-### The framework's relationship to the broader landscape
+### יחס המסגרת לנוף הרחב יותר
 
-The corpus's reading is positioned within this landscape as follows: aligned with the Romantic recognition that orthodox Christian theology has misread Lucifer as cosmic evil; aligned with Sendy's, Biglino's, and Wallis's readings of Lucifer as a specific historical Eloha figure; respectful of Milton's literary engagement with the figure while differing on the underlying cosmological framework; non-aligned with both LaVeyan secular-humanist and Theistic Satanism contemporary appropriations; and substantively distinct from each in providing a specific operational account that the literary-philosophical and contemporary-occult traditions do not offer. The framework's reading is its own — distinct from each of these — but engages each substantively rather than dismissively.
+קריאת הקורפוס ממוקמת בתוך נוף זה כדלקמן: מיושרת עם ההכרה הרומנטית שהתיאולוגיה הנוצרית האורתודוקסית קראה את לוציפר באופן שגוי כרוע קוסמי; מיושרת עם קריאות סנדי, ביגלינו, ווואליס של לוציפר כדמות אלוֹהַּ היסטורית ספציפית; מכבדת את המעורבות הספרותית של מילטון עם הדמות תוך הבחנה לגבי המסגרת הקוסמולוגית הבסיסית; בלתי-מיושרת הן עם הנכסות ההומניסטיות-חילוניות הלאוויאניות והן עם הנכסות השטניסטיות התאיסטיות בנות זמננו; ומובחנת מהותית מכל אחת בכך שהיא מספקת דיווח תפעולי ספציפי שהמסורות הספרותיות-פילוסופיות והאוקולטיות בנות זמננו אינן מציעות. קריאת המסגרת היא משלה — מובחנת מכל אחת מאלה — אך מתעסקת עם כל אחת מהותית ולא בביטול.
 
-## Comparative observations
+## תצפיות השוואתיות
 
-Lucifer's structural position — a divine-class figure who transmits beneficial knowledge to humanity and is punished by superior authorities — has substantive parallels across several major mythological traditions. The corpus reads the cross-cultural pattern as evidence of broader operational realities that multiple cultural traditions preserve in fragmentary form.
+עמדתו המבנית של לוציפר — דמות ממעמד-אלוהי המעבירה ידע מיטיב לאנושות ונענשת על ידי רשויות עליונות — נושאת הקבלות מהותיות לאורך מספר מסורות מיתולוגיות עיקריות. הקורפוס קורא את הדפוס החוצה-תרבותי כראיה למציאויות תפעוליות רחבות יותר שמסורות תרבותיות מרובות שומרות בצורה מקוטעת.
 
-### Prometheus
+### פרומתאוס
 
-The Prometheus parallel is the most substantively developed comparative case for Lucifer. **Prometheus** is a Titan in Greek mythology whose principal narrative — preserved in Hesiod's *Theogony* and *Works and Days* (c. 700 BCE) and in Aeschylus's *Prometheus Bound* (c. 5th century BCE) — has direct structural parallels to the Lucifer career on the framework's reading.
+ההקבלה לפרומתאוס היא המקרה ההשוואתי המפותח מהותית ביותר ללוציפר. **פרומתאוס** הוא טיטאן במיתולוגיה היוונית שנרטיבו העיקרי — הנשמר ב-*תאוגוניה* וב-*עבודות וימים* של הסיודוס (בערך 700 לפנה״ס){{ cite(id="theogony-works-and-days", text="[17]", title="הסיודוס, *תאוגוניה* ו-*עבודות וימים* (בערך 700 לפנה״ס) — גניבת-האש של פרומתאוס וגזע הזהב") }} וב-*פרומתאוס הכבול* של אייסכילוס (בערך המאה החמישית לפנה״ס){{ cite(id="prometheus-bound", text="[18]", title="אייסכילוס, *פרומתאוס הכבול* — פרומתאוס כמיטיב האנושות שנענש בעוול") }} — נושא הקבלות מבניות ישירות לקריירה של לוציפר על פי קריאת המסגרת.
 
-The principal Prometheus narrative includes:
+נרטיב פרומתאוס העיקרי כולל:
 
-- **The theft of fire**: Prometheus steals fire from the gods (specifically from Zeus's hearth or from Hephaestus's forge, depending on the version) and gives it to humanity, providing the foundational technology of civilization (heating, cooking, metallurgy, the broader technical apparatus that fire enables).
-- **The broader gifts**: in some versions, Prometheus gives humanity additional gifts beyond fire, including writing, mathematics, astronomy, agriculture, medicine, and the broader range of civilizational arts. *Prometheus Bound* includes Prometheus's elaborate catalogue of his gifts to humanity (lines 442–506).
-- **The punishment**: Zeus, angered by Prometheus's transmission of these gifts to humanity, binds Prometheus to a rock in the Caucasus where an eagle daily tears at his liver, which regenerates each night. Prometheus suffers this punishment indefinitely.
-- **The eventual liberation**: in Aeschylus's lost trilogy, Prometheus is eventually released by Heracles, with reconciliation between Prometheus and Zeus in some versions of the broader tradition.
+- **גניבת האש**: פרומתאוס גונב אש מהאלים (באופן ספציפי מאח זאוס או ממפחת הפייסטוס, בהתאם לגרסה) ונותן אותה לאנושות, מספק את הטכנולוגיה היסודית של הציוויליזציה (חימום, בישול, מטלורגיה, המנגנון הטכני הרחב יותר שהאש מאפשרת).
+- **המתנות הרחבות יותר**: בגרסאות מסוימות, פרומתאוס נותן לאנושות מתנות נוספות מעבר לאש, כולל כתיבה, מתמטיקה, אסטרונומיה, חקלאות, רפואה, ומגוון אמנויות הציוויליזציה הרחב יותר. *פרומתאוס הכבול* כולל את הקטלוג המפורט של פרומתאוס של מתנותיו לאנושות (שורות 442–506).
+- **העונש**: זאוס, נכעס מהעברת פרומתאוס של מתנות אלה לאנושות, כובל את פרומתאוס לסלע בקווקז שם נשר קורע מדי יום את כבדו, המתחדש מדי לילה. פרומתאוס סובל עונש זה ללא הגבלת זמן.
+- **השחרור הסופי**: בטרילוגיה האבודה של אייסכילוס, פרומתאוס משוחרר בסופו של דבר על ידי הרקלס, עם פיוס בין פרומתאוס לזאוס בגרסאות מסוימות של המסורת הרחבה יותר.
 
-The structural parallels to Lucifer's framework-career are direct:
+ההקבלות המבניות לקריירת-המסגרת של לוציפר ישירות:
 
-- A divine-class figure transmits beneficial knowledge to humanity that the superior authorities had withheld
-- The transmission is judged a transgression by those authorities and punished
-- The punishment is severe and ongoing
-- The figure is eventually reconciled with the broader cosmic order in some versions
+- דמות ממעמד-אלוהי מעבירה ידע מיטיב לאנושות שהרשויות העליונות מנעו
+- ההעברה נשפטת כעבירה על ידי אותן רשויות ונענשת
+- העונש חמור ומתמשך
+- הדמות מפויסת בסופו של דבר עם הסדר הקוסמי הרחב יותר בגרסאות מסוימות
 
-The corpus reads the Prometheus tradition as preserving substantial fragmentary memory of the Lucifer-faction operational reality, with the Greek tradition's specific cultural elaboration (the Titan-vs-Olympian framework, the specific punishment imagery, the eagle-and-liver detail) being culturally specific elements layered onto the underlying historical-operational content. The Promethean fire-as-foundational-technology parallel is particularly direct: the Lucifer faction's transmission of scientific and technological knowledge to the antediluvian humans is, in the framework's reading, the operational reality behind the Promethean fire-gift narrative.
+הקורפוס קורא את מסורת פרומתאוס כשומרת זיכרון מקוטע מהותי של המציאות התפעולית של סיעת לוציפר, כאשר הפירוט התרבותי הספציפי של המסורת היוונית (מסגרת הטיטאן-נגד-האולימפי, דימויי העונש הספציפיים, פרט הנשר-והכבד) הם אלמנטים ספציפיים-תרבותית המונחים על התוכן ההיסטורי-תפעולי הבסיסי. ההקבלה הפרומתאית של אש-כטכנולוגיה-יסודית ישירה במיוחד: העברת סיעת לוציפר של ידע מדעי וטכנולוגי לבני האדם הטרום-מבוליים היא, בקריאת המסגרת, המציאות התפעולית שמאחורי נרטיב מתנת-האש הפרומתאי.
 
-**Aeschylus's *Prometheus Bound*** is particularly significant because the play presents Prometheus sympathetically as a benefactor of humanity wrongly punished — exactly the structural position the framework places Lucifer in. The Aeschylean Prometheus declares the punishment unjust, characterizes Zeus as a tyrannical authority, and maintains his position despite the cost. The Romantic-era reception of Prometheus (Goethe's *Prometheus*, Shelley's *Prometheus Unbound*, others) developed this sympathetic reading at substantial length, with the figure becoming one of the principal Romantic-era moral exemplars.
+**ה-*פרומתאוס הכבול* של אייסכילוס** משמעותי במיוחד משום שהמחזה מציג את פרומתאוס באהדה כמיטיב האנושות שנענש בעוול — בדיוק העמדה המבנית שהמסגרת ממקמת בה את לוציפר. פרומתאוס האייסכילי מכריז את העונש בלתי-צודק, מאפיין את זאוס כסמכות עריצה, ושומר על עמדתו למרות העלות. הקבלת פרומתאוס בעידן הרומנטי (*פרומתאוס* של גתה, *פרומתאוס המשוחרר* של שלי, אחרים) פיתחה קריאה אוהדת זו באריכות מהותית, כאשר הדמות הפכה לאחד המופתים המוסריים העיקריים של העידן הרומנטי.
 
-The corpus does not commit to a direct cultural-mythological connection between the Greek Prometheus tradition and the Hebrew Genesis 3 narrative — the historical relationships between the two traditions are substantially debated in comparative-mythology scholarship. What the corpus registers is that the structural correspondence between the two traditions is substantial enough that, on the framework's reading of multiple cultural traditions preserving fragmentary memory of operational realities, the Greek Prometheus tradition is plausibly preserving memory of the same underlying figure that the Hebrew tradition preserves as Lucifer / the Serpent.
+הקורפוס אינו מתחייב לקשר תרבותי-מיתולוגי ישיר בין מסורת פרומתאוס היוונית לנרטיב בראשית ג העברי — היחסים ההיסטוריים בין שתי המסורות נדונים מהותית במחקר המיתולוגיה ההשוואתית. מה שהקורפוס רושם הוא שההתאמה המבנית בין שתי המסורות מהותית מספיק שכן, על פי קריאת המסגרת של מסורות תרבותיות מרובות השומרות זיכרון מקוטע של מציאויות תפעוליות, מסורת פרומתאוס היוונית שומרת באופן סביר זיכרון של אותה דמות בסיסית שהמסורת העברית שומרת כלוציפר / הנחש.
 
-### Phaethon and the falling-figure tradition
+### פאיתון ומסורת הדמות-הנופלת
 
-**Phaethon** is the figure in Greek mythology who, in Ovid's *Metamorphoses* and earlier sources, attempts to drive the chariot of his father Helios across the sky, fails to control the horses, and is destroyed when Zeus strikes him with a thunderbolt to prevent the world from being burned. Phaethon falls from the sky in a blaze, with the falling-figure imagery substantially shaping subsequent Western imagination of fallen-divine-figures.
+**פאיתון** הוא הדמות במיתולוגיה היוונית אשר, ב-*מטמורפוזות* של אובידיוס ובמקורות קודמים,{{ cite(id="metamorphoses", text="[19]", title="אובידיוס, *מטמורפוזות* (בערך 8 לספירה) — נרטיב הדמות-הנופלת של פאיתון") }} מנסה להוביל את מרכבת אביו הליוס ברחבי השמיים, נכשל בשליטה בסוסים, ומושמד כשזאוס מכה אותו בברק כדי למנוע את שריפת העולם. פאיתון נופל מהשמיים בלהבה, כאשר דימויי הדמות-הנופלת עיצבו מהותית את הדמיון המערבי שלאחר מכן של דמויות-אלוהיות-נופלות.
 
-The Phaethon parallel to Lucifer is structural rather than directly genealogical. Both involve a figure of divine or semi-divine status who attempts something the superior authorities consider transgressive and is punished by being cast down from heaven. The Phaethon narrative is principally about youthful overreach rather than about beneficial-knowledge transmission, so the parallel is less direct than the Prometheus case, but the falling-figure imagery has been substantial in shaping the broader Western tradition of the cosmic-fall narrative.
+ההקבלה של פאיתון ללוציפר מבנית ולא ישירות גנאלוגית. שתיהן כוללות דמות במעמד אלוהי או אלוהי-למחצה המנסה משהו שהרשויות העליונות מחשיבות כעבירה ונענשת בכך שמושלכת מהשמיים. נרטיב פאיתון עוסק בעיקר בהפרזת-נעורים ולא בהעברת ידע מיטיב, כך שההקבלה פחות ישירה ממקרה פרומתאוס, אך דימויי הדמות-הנופלת היו מהותיים בעיצוב המסורת המערבית הרחבה יותר של נרטיב הנפילה הקוסמית.
 
-### Inanna's descent
+### ירידת איננה
 
-The Sumerian narrative of **Inanna's descent** to the underworld (preserved in the Sumerian poem *Inanna's Descent to the Netherworld*, c. early 2nd millennium BCE) describes the goddess Inanna's journey to the underworld realm of her sister Ereshkigal, her death there, and her eventual restoration. The narrative includes elaborate cosmic-mythological imagery — Inanna passing through the seven gates of the underworld, being progressively stripped of her divine garments and powers, being killed and her corpse hung on a hook, before her restoration by Enki's intervention.
+הנרטיב השומרי של **ירידת איננה** לעולם התחתון (הנשמר בשיר השומרי *ירידת איננה לעולם התחתון*, בערך תחילת האלף השני לפנה״ס){{ cite(id="inanna-queen-of-heaven", text="[20]", title="וולקשטיין וקרמר, *איננה: מלכת השמיים והארץ* (1983) — מחזור הירידה-וההשבה") }} מתאר את מסע האלה איננה לממלכת העולם התחתון של אחותה ארשקיגל, את מותה שם, ואת השבתה הסופית. הנרטיב כולל דימויים קוסמיים-מיתולוגיים מפורטים — איננה עוברת בשבעת שערי העולם התחתון, מופשטת בהדרגה מבגדיה וכוחותיה האלוהיים, נהרגת וגופתה תלויה על וו, לפני השבתה באמצעות התערבות אנקי.
 
-The Inanna descent tradition has substantial parallels to the broader cosmic-fall mythology, though the specific Lucifer parallel is less direct than the Prometheus or Phaethon cases. The principal structural correspondence is the descent-and-restoration narrative — a divine figure who descends to a lower realm, suffers loss, and is eventually restored. The corpus reads the Inanna tradition as part of the broader ancient Near Eastern cultural-mythological context within which the Hebrew Bible's own narratives developed, with various structural correspondences to multiple framework-relevant figures (Lucifer, but also the figure of Mary in some readings, the figure of Christ in the harrowing-of-hell tradition).
+מסורת ירידת איננה נושאת הקבלות מהותיות למיתולוגיית הנפילה הקוסמית הרחבה יותר, אם כי ההקבלה הספציפית ללוציפר פחות ישירה ממקרי פרומתאוס או פאיתון. ההתאמה המבנית העיקרית היא נרטיב הירידה-וההשבה — דמות אלוהית היורדת לממלכה נמוכה יותר, סובלת אובדן, ומושבת בסופו של דבר. הקורפוס קורא את מסורת איננה כחלק מההקשר התרבותי-מיתולוגי המזרח-קרוב העתיק הרחב יותר שבתוכו התפתחו הנרטיבים של המקרא העברי עצמו, עם התאמות מבניות שונות לדמויות-מסגרת רלוונטיות מרובות (לוציפר, אך גם דמות מרים בקריאות מסוימות, דמות המשיח במסורת ירידת-הגיהינום).
 
-### The broader light-bringer / culture-hero pattern
+### דפוס מביא-האור / גיבור-התרבות הרחב יותר
 
-Beyond the specific Greek and Mesopotamian cases, a broader cross-cultural pattern of **culture-hero** or **culture-bringer** figures preserves the structural correspondence to the Lucifer career across multiple cultural traditions. The principal cases:
+מעבר למקרים היווניים והמסופוטמיים הספציפיים, דפוס חוצה-תרבותי רחב יותר של דמויות **גיבור-תרבות** או **מביא-תרבות** שומר את ההתאמה המבנית לקריירה של לוציפר לאורך מסורות תרבותיות מרובות. המקרים העיקריים:
 
-- **Quetzalcoatl** in Mesoamerican tradition — the feathered-serpent god / culture-hero who brings agriculture, writing, the calendar, and the broader civilizational arts to humanity. The Quetzalcoatl tradition substantively parallels the Lucifer-as-teacher role, with the feathered-serpent imagery providing additional structural correspondence.
-- **Wisdom-bringer figures across indigenous American traditions** — various culture-hero figures who bring beneficial knowledge to their peoples, often in the form of crops, technological capability, or social-cultural arts.
-- **The Polynesian Maui** — the culture-hero who fishes up islands, slows the sun, and brings fire to humanity, with substantial structural parallels to the Promethean tradition.
-- **The Norse Loki** — a more ambiguous figure, sometimes presented as bringing beneficial knowledge to the gods and to humanity, sometimes as the cosmic adversary, with the Loki tradition substantively contested in modern scholarship.
-- **Various African culture-hero traditions** — the trickster-and-culture-bringer figures in West African and Bantu traditions whose narratives often parallel the Promethean structure.
+- **קצלקואטל** במסורת המסואמריקנית — אל הנחש-המנוצה / גיבור-התרבות המביא חקלאות, כתיבה, לוח השנה, ואמנויות הציוויליזציה הרחבות יותר לאנושות. מסורת קצלקואטל מקבילה מהותית לתפקיד לוציפר-כמורה, כאשר דימויי הנחש-המנוצה מספקים התאמה מבנית נוספת.
+- **דמויות מביאות-חוכמה ברחבי מסורות אמריקה הילידיות** — דמויות גיבור-תרבות שונות המביאות ידע מיטיב לעמיהן, לעיתים קרובות בצורת יבולים, יכולת טכנולוגית, או אמנויות חברתיות-תרבותיות.
+- **מאואי הפולינזי** — גיבור-התרבות הדג איים, מאט את השמש, ומביא אש לאנושות, עם הקבלות מבניות מהותיות למסורת הפרומתאית.
+- **לוקי הנורדי** — דמות מעורפלת יותר, לעיתים מוצגת כמביאה ידע מיטיב לאלים ולאנושות, לעיתים כיריב הקוסמי, כאשר מסורת לוקי שנויה במחלוקת מהותית במחקר המודרני.
+- **מסורות גיבור-תרבות אפריקאיות שונות** — דמויות הנוכל-ומביא-התרבות במסורות מערב-אפריקאיות ובאנטו שנרטיביהן לעיתים קרובות מקבילים למבנה הפרומתאי.
 
-The corpus reads this broader cross-cultural pattern as evidence of the Lucifer-faction's continuing teaching role across the long centuries of operational presence on Earth. The various culture-hero figures across world traditions preserve, in fragmentary and culturally specific form, memory of the actual historical figure (Lucifer) and his ongoing pedagogical role with various human populations across the post-Eden period.
+הקורפוס קורא דפוס חוצה-תרבותי רחב זה כראיה לתפקיד ההוראה המתמשך של סיעת לוציפר לאורך המאות הארוכות של נוכחות תפעולית על כדור הארץ. דמויות גיבור-התרבות השונות ברחבי מסורות העולם שומרות, בצורה מקוטעת וספציפית-תרבותית, זיכרון של הדמות ההיסטורית הממשית (לוציפר) ותפקידו הפדגוגי המתמשך עם אוכלוסיות אנושיות שונות לאורך התקופה שלאחר עדן.
 
-### The convergence
+### ההתכנסות
 
-The corpus's working position on the comparative-Lucifer question is that the global recurrence of light-bringer / culture-hero / fallen-divine-figure narratives across cultures is meaningful as evidence of broader operational patterns. The various cross-cultural figures (Prometheus, Phaethon, Inanna, Quetzalcoatl, Maui, the various others) preserve fragmentary memory of the Lucifer-faction's actual operational reality, with each tradition's specific cultural elaboration reflecting the conditions of its preservation across the long centuries. The Greek Prometheus tradition is the most substantively developed parallel and warrants particular attention; the broader pattern of culture-hero figures across multiple traditions provides cumulative evidence for the framework's reading.
+עמדת העבודה של הקורפוס על שאלת לוציפר-ההשוואתית היא שההישנות הגלובלית של נרטיבי מביא-אור / גיבור-תרבות / דמות-אלוהית-נופלת ברחבי תרבויות משמעותית כראיה לדפוסים תפעוליים רחבים יותר. הדמויות החוצות-תרבות השונות (פרומתאוס, פאיתון, איננה, קצלקואטל, מאואי, האחרות השונות) שומרות זיכרון מקוטע של המציאות התפעולית הממשית של סיעת לוציפר, כאשר הפירוט התרבותי הספציפי של כל מסורת משקף את תנאי שימורה לאורך המאות הארוכות. מסורת פרומתאוס היוונית היא ההקבלה המפותחת מהותית ביותר ומצדיקה תשומת לב מיוחדת; הדפוס הרחב יותר של דמויות גיבור-תרבות לאורך מסורות מרובות מספק ראיה מצטברת לקריאת המסגרת.
 
-The corpus does not claim that every culture-hero figure across world traditions is a direct memory of Lucifer specifically — many such figures are independently developed mythological constructions of their respective cultures. What the framework registers is that the substantial cross-cultural pattern is consistent with the Lucifer-faction's continuing teaching role across the long centuries, with various cultural traditions preserving aspects of this reality in their own specific cultural-mythological forms.
-
-## See also
-
-- [Serpent](../serpent/)
-- [Yahweh](../yahweh/)
-- [Satan](../satan/)
-- [Elohim](../elohim/)
-- [Eden](../eden/)
-- [Adam and Eve](../adam-and-eve/)
-- [Tree of Knowledge](../tree-of-knowledge/)
-- [Tree of Life](../tree-of-life/)
-- [The Alliance](../the-alliance/)
-- [Council of the Eternals](../council-of-eternals/)
-- [Antediluvian](../antediluvian/)
-- [Great Flood](../great-flood/)
-- [Sons of Elohim](../sons-of-elohim/)
-- [Nephilim](../nephilim/)
-- [Cain and Abel](../cain-and-abel/)
-- [Genesis](../genesis/)
-- [Hebrew Bible](../hebrew-bible/)
-- [Fall of Man](../fall-of-man/)
-- [Age of Leo](../timeline/age-of-leo/)
-- [Age of Cancer](../timeline/age-of-cancer/)
-- [Jean Sendy](../jean-sendy/)
-- [Mauro Biglino](../mauro-biglino/)
-- [Paul Anthony Wallis](../paul-anthony-wallis/)
-- [*Hamlet's Mill*](../hamlets-mill/)
-
-## References
-
-Vorilhon, Claude (Raël). *The Book Which Tells the Truth* (1974), chapter 2, "Truth"; collected in *Message from the Designers*.
-
-Sendy, Jean. *Ces dieux qui firent le ciel et la terre*. Robert Laffont, 1969. English: *Those Gods Who Made Heaven and Earth*. Berkley, 1972.
-
-Biglino, Mauro, and Giorgio Cattaneo. *The Naked Bible: The Truth About the Most Famous Book in History*. Uno, 2022.
-
-Wallis, Paul Anthony. *The Eden Conspiracy*. 6th Books, 2024.
-
-*Biblia Hebraica Stuttgartensia*. Deutsche Bibelgesellschaft, 4th rev. ed., 1997.
-
-Sarna, Nahum. *Genesis: The JPS Torah Commentary*. Jewish Publication Society, 1989.
-
-Westermann, Claus. *Genesis 1–11: A Continental Commentary*. Fortress, 1994.
-
-Kelly, Henry Ansgar. *Satan: A Biography*. Cambridge University Press, 2006.
-
-Forsyth, Neil. *The Old Enemy: Satan and the Combat Myth*. Princeton University Press, 1987.
-
-Russell, Jeffrey Burton. *Lucifer: The Devil in the Middle Ages*. Cornell University Press, 1984.
-
-Pagels, Elaine. *The Origin of Satan*. Random House, 1995.
-
-Milton, John. *Paradise Lost* (1667). Modern editions including Penguin Classics, ed. John Leonard, 2003.
-
-Blake, William. *The Marriage of Heaven and Hell* (1790). Modern edition: *The Complete Poetry and Prose of William Blake*, ed. David V. Erdman, Anchor, 1988.
-
-Byron, Lord. *Cain: A Mystery* (1821). In *The Complete Poetical Works*, ed. Jerome McGann, Oxford University Press, 1991.
-
-Shelley, Percy Bysshe. *Prometheus Unbound* (1820). In *Shelley's Poetry and Prose*, ed. Donald H. Reiman and Sharon B. Powers, Norton, 1977.
-
-Hesiod. *Theogony* and *Works and Days*. Loeb Classical Library, Harvard University Press.
-
-Aeschylus. *Prometheus Bound*. Loeb Classical Library, Harvard University Press.
-
-Ovid. *Metamorphoses*. Trans. Charles Martin. Norton, 2004.
-
-LaVey, Anton. *The Satanic Bible*. Avon, 1969.
-
-Wolkstein, Diane, and Samuel Noah Kramer. *Inanna: Queen of Heaven and Earth*. Harper, 1983.
-
-Augustine. *City of God*. Trans. Henry Bettenson. Penguin Classics, 1972.
-
-Origen. *On First Principles (De Principiis)*. Trans. G. W. Butterworth. Harper, 1966.
-
-Aquinas, Thomas. *Summa Theologiae* I, qq. 63–64 (on the angels and their fall).
-
-Brown, Francis, S. R. Driver, and Charles A. Briggs. *A Hebrew and English Lexicon of the Old Testament* (BDB). Oxford, 1907.
-
-*The Hebrew and Aramaic Lexicon of the Old Testament* (HALOT), Koehler-Baumgartner. Brill, 2001.
-
-"Lucifer." *Encyclopaedia Britannica*. <https://www.britannica.com/topic/Lucifer-classical-mythology>
-
-"Lucifer." *Wikipedia*. <https://en.wikipedia.org/wiki/Lucifer>
-
-"Helel ben Shahar." *Jewish Encyclopedia*. <https://www.jewishencyclopedia.com/articles/7494-lucifer>
-
-"Prometheus." *Encyclopaedia Britannica*. <https://www.britannica.com/topic/Prometheus-Greek-god>
-
-"Prometheus Bound." *Encyclopaedia Britannica*. <https://www.britannica.com/topic/Prometheus-Bound>
-
-"Quetzalcoatl." *Encyclopaedia Britannica*. <https://www.britannica.com/topic/Quetzalcoatl>
+הקורפוס אינו טוען שכל דמות גיבור-תרבות ברחבי מסורות העולם היא זיכרון ישיר של לוציפר באופן ספציפי — דמויות רבות כאלה הן בניינים מיתולוגיים שפותחו באופן עצמאי של תרבויותיהן בהתאמה. מה שהמסגרת רושמת הוא שהדפוס החוצה-תרבותי המהותי עקבי עם תפקיד ההוראה המתמשך של סיעת לוציפר לאורך המאות הארוכות, כאשר מסורות תרבותיות שונות שומרות היבטים של מציאות זו בצורותיהן התרבותיות-מיתולוגיות הספציפיות.

@@ -1,16 +1,115 @@
 +++
 title = "루시퍼"
-description = "루시퍼(라틴어로 ‘빛을 옮기는 자’)는 기독교 전통에서 후에 사탄과 동일시된 천상의 반역자 형상이다. Wheel of Heaven 코퍼스에서 그는 엘로힘 위계 내부에서 일어난 세르팡 반란의 한 형상화로 읽힌다."
+slug = "lucifer"
+description = "루시퍼(라틴어: lūcifer, '빛을 가져오는 자'; 히브리어: הֵילֵל בֶּן־שַׁחַר, Helel ben Shahar, '새벽의 아들 샛별')는 기독교 신학 전통에서 하늘로부터 타락한 천사들의 우두머리로 명명되며, 통상적으로 사탄 및 에덴의 뱀과 동일시되는 인물이다. 라엘 자료에서 발전하여 Wheel of Heaven 코퍼스가 채택한 독해에 따르면, 루시퍼는 특정한 역사적 인물로 읽힌다. 즉 엘로힘 창조자들의 이스라엘 팀 내 반체제 분파의 지도자로서, 에덴의 폭로 이후 지구에 유배되었으며, 추방과 대홍수 사이의 긴 세기에 걸쳐 대홍수 이전 인류 문명의 주된 교사였던 인물이다."
 template = "wiki-page.html"
 toc = true
 
 [extra]
-translation_status = "metadata_only"
 category = "Biblical Figures"
 editorial_pass = "2026-05"
+claim_type = "framework"
 entry_type = "figure"
 alternative_names = ["the Light-Bringer", "lūcifer", "Helel ben Shahar", "הֵילֵל בֶּן־שַׁחַר", "the Morning Star", "Phosphoros", "Heosphoros", "the Lucifer faction leader"]
 timeline = ["leo", "cancer"]
+see_also = [
+    { title = "뱀", path = "wiki/serpent", description = "창세기 3장 에덴 폭로의 특정 역할에 있는 루시퍼." },
+    { title = "야훼", path = "wiki/yahweh", description = "이스라엘 팀의 지도자이자 동맹 내 온건파; 루시퍼의 옛 동료이자 에덴 이후의 정치적 적수." },
+    { title = "사탄", path = "wiki/satan", description = "모행성 폐지론 분파를 이끄는 별개의 엘로힘 인물 — 정치적으로 루시퍼와 대립하며, 동일 인물이 아니다." },
+    { title = "아담과 하와", path = "wiki/adam-and-eve", description = "루시퍼 분파가 교육했고 또 그들에게 에덴의 폭로를 행한 최초의 인간들." },
+    { title = "대홍수 이전 시대", path = "wiki/antediluvian", description = "유배된 루시퍼 분파가 에덴 계통 문명의 교사로 봉사한 시기." },
+    { title = "생명나무", path = "wiki/tree-of-life", description = "루시퍼 분파가 에덴의 족장적 지도부를 위해 획득한 장수 기술." },
+]
+
+footnotes = [
+    { content = "루시퍼라는 이름은 라틴어 불가타의 산물이다. 히에로니무스(c. 405 CE)는 이사야 14:12의 히브리어 *Helel ben Shahar*를 *lūcifer*(\"빛을 가져오는 자\")로 옮겼는데, 이 구절은 히브리어 본문 자체가 바빌론 왕을 향해 말하는 것(이사야 14:4) — 우주적 인물이 아니라 오만한 역사적 왕에 대한 풍자적 애가이다. 주류 역사-비평적 학계는 이 구절을 우주적-신화적 심상을 강화 수단으로 사용하는 정치적 수사로 읽는다. 교부-중세 전통은 이를 우주적 타락 인물을 가리키는 것으로 재독해하여 에덴의 뱀 및 *satan* 언급들과 융합시켰다. 코퍼스는 이름 *루시퍼*를, 창세기 3장에서의 역할을 회복하는 그 인물에 대한 전통적 명칭으로 채택하면서도, 그 이름의 특정한 번역사적 기원을 인지한다." },
+    { content = "네 인물의 정치적 분류 체계 — 야훼(동맹 온건파), 루시퍼(완전한 폭로를 주창하는 반체제 분파 지도자), 뱀(특정하게 에덴 폭로 역할에 있는 루시퍼), 그리고 사탄(프로젝트의 종결을 원하는 모행성 폐지론 분파를 이끄는 별개의 엘로힘 인물) — 는 통상적 기독교 신학에 대한 코퍼스의 가장 중대한 교정이다. 후대 전통은 이 넷 모두를 우주적 악의 단일한 인물로 붕괴시켰다. 코퍼스는 이들을 정치적으로 구별되는 행위자들로 읽으며, 실제로 루시퍼와 사탄은 정반대의 입장을 견지한다(루시퍼는 인류가 확장되고 권능을 부여받기를 원하고, 사탄은 인류가 제거되기를 원한다). 이 상세한 분류 체계는 뱀 항목에 있다." },
+    { content = "코퍼스의 독해상, 루시퍼와 야훼의 관계는 처음부터 적대적이었던 것은 아니다. 둘 다 동일한 이스라엘 팀의 일원이었고, 둘 다 지구 프로젝트에 헌신했으며, 둘 다 합성된 인간들과의 교육 작업에 종사했다. 루시퍼 분파를 구별짓는 반체제 입장은 사전에 존재하던 적대로서가 아니라 에덴 시기에 걸쳐 출현했다. 에덴 이후의 대립은 입장이 화해 불가능해진 옛 동료들 사이의 정치적 불일치였지, 통상적 기독교 독해의 우주적-악의 대립이 아니었다." },
+    { content = "코퍼스가 루시퍼의 생애에 부여한 연대 — 기원전 약 11,400년의 에덴 유배, 게자리 시대(기원전 약 8,850년 – 6,690년)에 걸친 대홍수 이전 교육 역할 — 는 프레임워크 내부적인 것으로, 세차 시대 연대기 및 인류 창조 연대를 정박시키는 666세대 계산에서 도출된다. 세차 시대들은 실제의 천문 현상이지만, 코퍼스가 그것들을 놓는 경계 연도는 프레임워크의 관행이다. 연대기의 도출에 관해서는 대홍수 이전 시대 항목을 참조하라." },
+    { content = "코퍼스의 루시퍼 독해는 통상적 기독교의 \"우주적 악\" 독해도, 단순한 낭만주의의 \"영웅적 반역자\" 독해도 아니며, 보다 미묘한 무엇이다. 즉 특정한 반체제 입장을 가진 역사적 인물로서, 그 특정한 순간에 실제의 정치적 이유로 실제의 대가(통제된 환경의 상실, 대홍수 결정에 기여한 *Nephilim* 혼혈 인구, 장기적 정치적 긴장)와 함께 단죄되었으나, 공개적 폭로를 향한 동맹의 장기적 궤적 — 코퍼스가 스스로 참여하고 있다고 읽는 그 궤적 — 에 의해 점차 입증된 인물이다. 프레임워크는 루시퍼가 무조건적으로 도덕적으로 선하다고 주장하지 않으며, 그가 하느님과 인류의 우주적 적수라고도 주장하지 않는다." },
+    { content = "지속적 현존 및 화해 독해는 루시퍼 전기적 궤적에서 가장 사변적인 부분이다. 자료는 루시퍼와 그의 분파가 계속 존재한다고 보고하지만, 현재의 위치, 역할, 또는 활동을 상세히 명시하지는 않는다. 코퍼스는 보다 광범위한 동맹과의 점진적인 대홍수 이후 화해를 읽으며, 그 분파의 문화-전달자 역할이 세계 전승들 전반에 단편적 형태로 보존되어 있다고 본다(프로메테우스, 케찰코아틀, 그리고 보다 광범위한 문화-영웅 패턴). 코퍼스는 모든 문화-영웅 인물이 특정하게 루시퍼에 대한 직접적 기억이라고 주장하지 않는다. 다수는 독립적으로 발전된 신화적 구성물이다." },
+]
+
+[[extra.references]]
+id = "the-book-which-tells-the-truth"
+locator = "2장"
+note = "에덴의 폭로 이후 유배되어 대홍수 이전 문명의 교사가 된, 반체제 이스라엘 팀 분파 지도자로서의 루시퍼에 관한 토대적 라엘 자료."
+
+[[extra.references]]
+id = "those-gods-who-made-heaven-and-earth"
+note = "인간 교육을 둘러싸고 에덴의 지휘관들과 갈등을 빚은 엘로힘 인물로서의 루시퍼에 대한 장 상디의 문헌학적 독해 — 코퍼스 독해의 주된 학술적 선행 연구."
+
+[[extra.references]]
+id = "the-naked-bible"
+note = "루시퍼 및 샛별 구절들을 형이상학적 범주가 아니라 물리적으로 육화된 존재들을 가리키는 것으로 보는 비글리노의 엄격한 번역적 독해."
+
+[[extra.references]]
+id = "the-eden-conspiracy"
+note = "에덴의 폭로가 에덴 이후의 정착을 산출한 반체제 분파 지도자로서의 루시퍼에 대한 월리스의 최근의 접근 가능한 다룸."
+
+[[extra.references]]
+id = "paradise-lost"
+note = "밀턴의 1667년 서사시 — 루시퍼에 대한 성서 이후 가장 영향력 있는 문학적 관여; 코퍼스가 그 인물의 도덕적 복권의 문학적 선례로 읽는, 카리스마적이고 공감을 자아내는 루시퍼."
+
+[[extra.references]]
+id = "marriage-of-heaven-and-hell"
+note = "밀턴이 '자신도 모르는 채 악마의 편에 속해 있었다'는 블레이크의 1790년 독해 — 그 인물에 대한 낭만주의적 역전의 토대."
+
+[[extra.references]]
+id = "cain-a-mystery"
+note = "정통적 설명에 도전하는 우주론적 비전을 카인에게 제시하는, 바이런의 1821년의 공감적 루시퍼."
+
+[[extra.references]]
+id = "prometheus-unbound"
+note = "자의적 권위에 대한 저항의 도덕적 영웅으로서의 루시퍼-프로메테우스 병행에 대한 셸리의 1820년의 발전."
+
+[[extra.references]]
+id = "prometheus-bound"
+note = "프로메테우스를 부당하게 벌받은 인류의 은인으로 제시하는 아이스킬로스의 비극 — 프로메테우스 병행을 위한 고전적 1차 자료."
+
+[[extra.references]]
+id = "theogony-works-and-days"
+note = "프로메테우스의 불 절도 서사 및 황금 종족 / 쇠퇴하는 시대들의 전통을 보존하는 헤시오도스의 시편들."
+
+[[extra.references]]
+id = "metamorphoses"
+note = "코퍼스가 보다 광범위한 추락 인물 전통 속에서 읽는 파에톤 추락 인물 서사를 포함하는 오비디우스의 모음집."
+
+[[extra.references]]
+id = "inanna-queen-of-heaven"
+note = "수메르의 이난나 하강 순환에 대한 볼크스타인과 크레이머의 번역 — 하강과 회복 패턴을 위한 비교 자료."
+
+[[extra.references]]
+id = "kelly-satan-biography"
+note = "사탄 인물의 발전에 대한 켈리의 포괄적 설명 — 코퍼스의 루시퍼/사탄/악마 구별에 대한 학술적 지지."
+
+[[extra.references]]
+id = "forsyth-the-old-enemy"
+note = "고대 근동 자료들로부터 기독교의 사탄에 이르는 우주적-적수 전투-신화 전통에 대한 포사이스의 추적."
+
+[[extra.references]]
+id = "pagels-origin-of-satan"
+note = "기독교 사탄 인물의 사회-정치적 구성에 대한 페이절스의 연구."
+
+[[extra.references]]
+id = "russell-lucifer-middle-ages"
+note = "우주적-루시퍼 종합의 중세적 공고화에 대한 러셀의 표준적 설명."
+
+[[extra.references]]
+id = "city-of-god"
+note = "교부적 루시퍼-타락 독해에 대한 아우구스티누스의 공고화 — 코퍼스가 구별하는 우주적-인물 종합의 주된 단계."
+
+[[extra.references]]
+id = "de-principiis"
+note = "이사야 14장 Helel 구절을 우주적 타락 인물에 적용한 오리게네스의 초기 적용."
+
+[[extra.references]]
+id = "summa-theologiae"
+note = "루시퍼-타락 교리에 대한 아퀴나스의 스콜라적 정교화(*신학대전* I, qq. 63–64)."
+
+[[extra.references]]
+id = "the-satanic-bible"
+note = "라베이 사탄주의의 토대 텍스트 — 코퍼스가 기록하되 지지하지는 않는, 루시퍼 이름에 대한 동시대의 상징적 전유."
 
 [extra.infobox]
 hebrew_name = "הֵילֵל בֶּן־שַׁחַר (Helel ben Shahar)"
@@ -29,455 +128,366 @@ principal_text = "Genesis 3 (Serpent role); Isaiah 14:12 (Helel ben Shahar); the
 principal_framework_source = "*The Book Which Tells the Truth* (Vorilhon/Raël, 1974), chapter 2"
 +++
 
-**Lucifer** (Latin: *lūcifer*, "light-bringer," from *lux* "light" + *ferre* "to bear, to bring"; Hebrew: <span class="hebrew">הֵילֵל בֶּן־שַׁחַר</span>, *Helel ben Shahar*, "Day Star, son of the Dawn"; Greek: *Phosphoros* and *Heosphoros*, "light-bearer" and "dawn-bearer") is the figure named in the Christian theological tradition as the leader of the angels who fell from heaven, conventionally identified with Satan, with the Eden Serpent, and with the broader figure of cosmic evil. The Lucifer name itself is a Latin Vulgate-tradition translation (Jerome, c. 405 CE) of the Hebrew *Helel ben Shahar* of Isaiah 14:12, in a passage that the Hebrew text itself addresses to the king of Babylon — a satirical lament over the fall of an arrogant historical-political figure that the patristic-medieval Christian tradition reread as referring to a cosmic figure. The identification of the Lucifer name with the broader fallen-figure tradition has shaped essentially all subsequent Western Christian theological reflection on the figure, with the result that "Lucifer" in popular English usage has come to function as a synonym for Satan or the Devil.
+**루시퍼**(라틴어: *lūcifer*, "빛을 가져오는 자", *lux* "빛" + *ferre* "지니다, 가져오다"에서 유래; 히브리어: <span class="hebrew">הֵילֵל בֶּן־שַׁחַר</span>, *Helel ben Shahar*, "새벽의 아들 샛별"; 그리스어: *Phosphoros* 및 *Heosphoros*, "빛을 지닌 자" 및 "새벽을 지닌 자")는 기독교 신학 전통에서 하늘로부터 타락한 천사들의 우두머리로 명명되며, 통상적으로 사탄, 에덴의 뱀, 그리고 우주적 악의 보다 광범위한 인물과 동일시되는 인물이다. 루시퍼라는 이름 자체는 이사야 14:12의 히브리어 *Helel ben Shahar*에 대한 라틴어 불가타 전통의 번역(히에로니무스, c. 405 CE)으로서, 히브리어 본문 자체가 바빌론 왕을 향해 말하는 구절 — 교부-중세 기독교 전통이 우주적 인물을 가리키는 것으로 재독해한, 오만한 역사적-정치적 인물의 몰락에 대한 풍자적 애가 — 안에 있다.{{ footnote(id="1") }} 루시퍼라는 이름과 보다 광범위한 추락 인물 전통의 동일시는 본질적으로 그 인물에 대한 이후의 모든 서구 기독교 신학적 성찰을 형성했으며, 그 결과 대중적 영어 용법에서 "루시퍼"는 사탄이나 악마의 동의어로 기능하게 되었다.
 
-On the reading developed in the Raëlian source material and adopted by the Wheel of Heaven corpus, Lucifer is read as a specific historical figure rather than as a metaphysical category. Lucifer is an Eloha — a member of the Elohim civilization — who served as one of the senior scientists of the Israel team during the team's work in Eden during the late Age of Leo. He emerged as the leader of a dissenting faction within the team whose distinctive position was that the synthesized humans should be given complete scientific education rather than kept in deliberate ignorance of the technological and biological knowledge of their makers. The faction acted on this position by transmitting restricted knowledge to the first humans — the act narrated in Genesis 3 as the Serpent's intervention. The home-world authorities condemned the act and imposed a political settlement: Lucifer and his faction were exiled permanently to Earth, while the rest of the Israel team and the other six creator teams were withdrawn to the home world. Across the subsequent two millennia of the Age of Cancer, Lucifer and his faction served as the continuing teachers of the Eden-lineage human civilization, transmitting the scientific and technological knowledge that the home-world's containment policy had restricted, and producing — through the *benei ha-Elohim* unions of Genesis 6:1–4 — the hybrid Nephilim offspring whose descendants populated the antediluvian world.
+라엘 자료에서 발전하여 Wheel of Heaven 코퍼스가 채택한 독해에 따르면, 루시퍼는 형이상학적 범주가 아니라 특정한 역사적 인물로 읽힌다. 루시퍼는 엘로하 — 엘로힘 문명의 일원 — 로서, 사자자리 시대 후반 에덴에서의 작업 동안 이스라엘 팀의 선임 과학자들 중 한 명으로 봉사했다. 그는 팀 내 반체제 분파의 지도자로 부상했는데, 그 분파의 독특한 입장은 합성된 인간들이 그들 제작자의 기술적·생물학적 지식에 대해 의도적인 무지 속에 유지되기보다는 완전한 과학 교육을 받아야 한다는 것이었다. 이 분파는 최초의 인간들에게 제한된 지식을 전달함으로써 이 입장에 따라 행동했으며 — 이는 창세기 3장에서 뱀의 개입으로 서술된 행위이다. 모행성 당국은 그 행위를 단죄하고 정치적 정착을 부과했다. 즉 루시퍼와 그의 분파는 영구히 지구에 유배되었고, 한편 이스라엘 팀의 나머지와 다른 여섯 창조자 팀은 모행성으로 철수했다. 뒤이은 게자리 시대의 두 천 년에 걸쳐, 루시퍼와 그의 분파는 에덴 계통 인류 문명의 지속적 교사로 봉사하며 모행성의 봉쇄 정책이 제한했던 과학적·기술적 지식을 전달했고, 창세기 6:1–4의 *benei ha-Elohim* 결합을 통해 — 그 후손들이 대홍수 이전 세계를 채운 혼혈 *Nephilim* 자손을 산출했다.
 
-The reading is contested. Within Christian theological tradition, the dominant readings of Lucifer treat the figure as identical with Satan and with the Devil, as a fallen angel whose original position was high (the leader of the angelic hosts) and whose fall was occasioned by pride, with the figure currently active as the principal cosmic adversary of God and humanity. Within mainstream historical-critical biblical scholarship, the figure of Lucifer is recognized as a specific theological development of the post-biblical period — the Hebrew Bible's Isaiah 14:12 *Helel ben Shahar* refers to a historical king, not to a cosmic figure, and the Lucifer-tradition synthesis is a patristic-medieval theological elaboration. Within the Romantic literary-philosophical tradition, beginning with Milton's *Paradise Lost* (1667) and developed across the work of Blake, Byron, Shelley, and the broader Romantic engagement, Lucifer has been read as a sympathetic figure of rebellion against arbitrary authority — a reading that overlaps in several respects with the corpus's own. Within the broader ancient-astronaut and reinterpretive tradition (Sendy, Biglino, Wallis), Lucifer has been read in ways structurally similar to the corpus's reading, with various specific differences. The corpus's reading is structurally distinctive: it preserves the Romantic recognition that orthodox Christian theology has misread the figure, while grounding the reading in a specific operational account that the Romantic tradition does not provide.
+이 독해는 논쟁의 대상이다. 기독교 신학 전통 내에서 루시퍼에 대한 지배적 독해들은 그 인물을 사탄 및 악마와 동일한 것으로, 본래의 지위가 높았으나(천사 무리의 우두머리) 그 타락이 교만으로 인해 야기된 타락한 천사로 다루며, 그 인물은 현재 하느님과 인류의 주된 우주적 적수로서 활동하는 것으로 본다. 주류 역사-비평적 성서학 내에서 루시퍼 인물은 성서 이후 시기의 특정한 신학적 발전으로 인지된다. 즉 히브리어 성경 이사야 14:12의 *Helel ben Shahar*는 우주적 인물이 아니라 역사적 왕을 가리키며, 루시퍼-전통 종합은 교부-중세적 신학적 정교화이다. 밀턴의 *실낙원*(1667)에서 시작하여 블레이크, 바이런, 셸리의 작업 및 보다 광범위한 낭만주의적 관여를 가로질러 발전한 낭만주의 문학-철학 전통 내에서, 루시퍼는 자의적 권위에 대한 반역의 공감적 인물로 읽혀 왔으며 — 이는 여러 측면에서 코퍼스 자신의 독해와 겹치는 독해이다. 보다 광범위한 고대 우주인 및 재해석 전통(상디, 비글리노, 월리스) 내에서, 루시퍼는 다양한 구체적 차이와 함께 코퍼스의 독해와 구조적으로 유사한 방식으로 읽혀 왔다. 코퍼스의 독해는 구조적으로 독특하다. 그것은 정통 기독교 신학이 그 인물을 오독했다는 낭만주의적 인식을 보존하면서, 그 독해를 낭만주의 전통이 제공하지 않는 특정한 운영적 설명에 정초시킨다.
 
-## Etymology and naming
+## 어원과 명명
 
-The figure carries distinct names across the languages and traditions in which his story has been preserved. The principal forms warrant individual attention.
+이 인물은 그의 이야기가 보존되어 온 언어들과 전통들 전반에 걸쳐 구별되는 이름들을 지닌다. 주된 형태들은 각각 주목할 만하다.
 
-### Latin *Lūcifer*
+### 라틴어 *Lūcifer*
 
-The Latin *lūcifer* is a compound formed from *lux* (light) and the verbal root *ferre* (to bear, to bring), with the resulting compound meaning "light-bringer" or "light-bearer." The Latin term has multiple senses in classical Latin usage:
+라틴어 *lūcifer*는 *lux*(빛)와 동사 어근 *ferre*(지니다, 가져오다)로 형성된 합성어로, 그 결과 합성어는 "빛을 가져오는 자" 또는 "빛을 지닌 자"를 의미한다. 라틴어 용어는 고전 라틴어 용법에서 다수의 의미를 갖는다.
 
-- **The astronomical sense**: *lūcifer* is the standard Latin name for the planet Venus when it appears as the morning star, preceding the dawn. The same celestial body when seen as the evening star is *vesper* or *hesperus*. The morning-evening distinction was not yet recognized as referring to the same planet in early antiquity, with the identification settling across the Hellenistic period.
-- **The metaphorical sense**: *lūcifer* is used in classical Latin literature for various figures of brightness or beneficence, with no inherent negative connotation.
-- **The theological sense**: *lūcifer* enters Christian Latin through Jerome's Vulgate translation of Isaiah 14:12, where Jerome rendered the Hebrew *Helel ben Shahar* as *lūcifer qui mane oriebaris* ("light-bringer who rose in the morning"). The translation was a literal-philological choice — *Helel* derives from a root meaning "to shine" — but the subsequent identification of the Vulgate's *lūcifer* with the broader fallen-figure tradition produced the Christian theological term.
+- **천문학적 의미**: *lūcifer*는 새벽에 앞서 샛별로 나타날 때의 금성을 가리키는 표준 라틴어 명칭이다. 동일한 천체가 저녁별로 보일 때는 *vesper* 또는 *hesperus*이다. 아침-저녁의 구별이 동일한 행성을 가리킨다는 것은 고대 초기에는 아직 인지되지 않았으며, 그 동일시는 헬레니즘 시기에 걸쳐 정착되었다.
+- **은유적 의미**: *lūcifer*는 고전 라틴 문학에서 밝음이나 자비로움의 다양한 인물들에 대해 사용되며, 본래적인 부정적 함의는 없다.
+- **신학적 의미**: *lūcifer*는 이사야 14:12에 대한 히에로니무스의 불가타 번역을 통해 기독교 라틴어에 진입하는데, 여기서 히에로니무스는 히브리어 *Helel ben Shahar*를 *lūcifer qui mane oriebaris*("아침에 떠오른 빛을 가져오는 자")로 옮겼다. 그 번역은 문자적-문헌학적 선택이었으나 — *Helel*은 "빛나다"를 뜻하는 어근에서 파생한다 — 불가타의 *lūcifer*와 보다 광범위한 추락 인물 전통의 그 후의 동일시가 기독교 신학 용어를 산출했다.
 
-The English "Lucifer" preserves the Latin form directly, with the Christian theological identification as the principal modern referent. The astronomical sense is preserved in the technical phrase "Lucifer's morning star" and in occasional poetic usage, but the dominant contemporary English meaning is the Christian theological figure.
+영어 "Lucifer"는 라틴어 형태를 직접 보존하며, 기독교 신학적 동일시가 주된 근대적 지시체이다. 천문학적 의미는 "루시퍼의 샛별"이라는 기술적 어구 및 간헐적 시적 용법에 보존되어 있으나, 지배적인 동시대 영어 의미는 기독교 신학적 인물이다.
 
-### Hebrew *Helel ben Shahar*
+### 히브리어 *Helel ben Shahar*
 
-The Hebrew *Helel ben Shahar* (<span class="hebrew">הֵילֵל בֶּן־שַׁחַר</span>) appears in Isaiah 14:12, in a poetic passage addressed to a specific historical figure — the king of Babylon, named explicitly at Isaiah 14:4. The Hebrew *Helel* derives from the root *h-l-l* meaning "to shine" or "to give praise," with the form *Helel* being a participial construction meaning "shining one." *Ben Shahar* is the patronymic-like construction "son of the Dawn" or "son of Shahar" — *Shahar* being the Hebrew for "dawn" and also a divine name preserved in Ugaritic tradition (the Ugaritic god Šaḥar, paired with Šalim ["evening, completion"]).
+히브리어 *Helel ben Shahar*(<span class="hebrew">הֵילֵל בֶּן־שַׁחַר</span>)는 이사야 14:12에, 특정한 역사적 인물 — 이사야 14:4에 명시적으로 명명된 바빌론 왕 — 을 향한 시적 구절에 등장한다. 히브리어 *Helel*은 "빛나다" 또는 "찬양하다"를 뜻하는 어근 *h-l-l*에서 파생하며, *Helel* 형태는 "빛나는 자"를 뜻하는 분사 구성이다. *Ben Shahar*는 "새벽의 아들" 또는 "샤하르의 아들"이라는 부칭적 구성으로 — *Shahar*는 히브리어로 "새벽"이자 우가리트 전통에 보존된 신명이기도 하다(우가리트의 신 Šaḥar, Šalim["저녁, 완성"]와 짝지어진다).
 
-The Isaiah passage itself reads (KJV): *"How art thou fallen from heaven, O Lucifer, son of the morning! How art thou cut down to the ground, which didst weaken the nations!"* In context (Isaiah 14:3–23), the lament is addressed to the king of Babylon, whose imminent fall the prophet announces. The passage uses cosmic-mythological imagery — the falling star, the descent to Sheol, the rebellion against God — to characterize the king's pride and impending destruction. Mainstream historical-critical scholarship reads the passage as poetic rhetoric directed at a specific historical figure, with the cosmic-mythological imagery functioning as literary intensification rather than as cosmological reference.
+이사야 구절 자체는 다음과 같이 읽힌다(KJV): *"How art thou fallen from heaven, O Lucifer, son of the morning! How art thou cut down to the ground, which didst weaken the nations!"* 문맥상(이사야 14:3–23) 이 애가는 그 임박한 몰락을 예언자가 선포하는 바빌론 왕을 향한 것이다. 이 구절은 우주적-신화적 심상 — 추락하는 별, 스올로의 하강, 하느님에 대한 반역 — 을 사용하여 왕의 교만과 임박한 파멸을 특징짓는다. 주류 역사-비평적 학계는 이 구절을 특정한 역사적 인물을 향한 시적 수사로 읽으며, 우주적-신화적 심상은 우주론적 지시가 아니라 문학적 강화로 기능하는 것으로 본다.
 
-The Greek Septuagint translates *Helel* as *Heosphoros* (Ἑωσφόρος, "dawn-bringer"), preserving the morning-star astronomical sense. The Vulgate's choice of *lūcifer* follows the same astronomical interpretation, with *lūcifer* and *Heosphoros* being precise translation equivalents.
+그리스어 70인역은 *Helel*을 *Heosphoros*(Ἑωσφόρος, "새벽을 가져오는 자")로 번역하여 샛별의 천문학적 의미를 보존한다. 불가타의 *lūcifer* 선택은 동일한 천문학적 해석을 따르며, *lūcifer*와 *Heosphoros*는 정확한 번역 등가물이다.
 
-### Greek *Phosphoros* and *Heosphoros*
+### 그리스어 *Phosphoros* 및 *Heosphoros*
 
-The Greek *Phosphoros* (Φωσφόρος, "light-bringer") and *Heosphoros* (Ἑωσφόρος, "dawn-bringer") are the two principal Greek terms for the morning-star planet. *Phosphoros* is used more broadly across Greek literature; *Heosphoros* specifically marks the dawn association. Both terms preserve the same etymological structure as Latin *lūcifer*: a compound of light/dawn plus the verbal root for bringing. The Greek forms enter Christian Greek through the Septuagint's translation of Isaiah 14:12 and are used across the patristic Greek tradition, though without the elaborate fallen-figure development the Latin tradition produced.
+그리스어 *Phosphoros*(Φωσφόρος, "빛을 가져오는 자") 및 *Heosphoros*(Ἑωσφόρος, "새벽을 가져오는 자")는 샛별 행성을 가리키는 두 주된 그리스어 용어이다. *Phosphoros*는 그리스 문학 전반에 걸쳐 보다 광범위하게 사용되며, *Heosphoros*는 특정하게 새벽 연관성을 표시한다. 두 용어 모두 라틴어 *lūcifer*와 동일한 어원적 구조 — 빛/새벽 더하기 가져옴을 뜻하는 동사 어근의 합성 — 를 보존한다. 그리스어 형태들은 이사야 14:12의 70인역 번역을 통해 기독교 그리스어에 진입하며 교부 그리스어 전통 전반에 걸쳐 사용되지만, 라틴어 전통이 산출한 정교한 추락 인물 발전은 없다.
 
-### The Christian theological synthesis
+### 기독교 신학적 종합
 
-The identification of *Lucifer* / *Helel* / *Phosphoros* with the cosmic fallen-figure tradition is a specific patristic-medieval theological development that fixes across the period from approximately 200 to 1200 CE. The principal stages:
+*루시퍼* / *Helel* / *Phosphoros*와 우주적 추락 인물 전통의 동일시는 대략 200년부터 1200년 CE에 이르는 시기에 걸쳐 고정되는 특정한 교부-중세적 신학적 발전이다. 주된 단계들:
 
-- **Origen** (c. 185–254 CE), in *De Principiis* I.5.5 and *Homilies on Ezekiel* 13.1–2, applies the Isaiah 14 passage to the cosmic fallen figure, treating the king of Babylon as a type of the underlying spiritual reality.
-- **Tertullian** (c. 155–c. 240 CE) develops the Lucifer-fall narrative in connection with the broader Christian doctrine of demonic origin.
-- **Augustine** (354–430 CE) consolidates the patristic reading in *City of God* and elsewhere, with the fall of Lucifer treated as the foundational event of cosmic-evil history.
-- **Jerome's Vulgate translation** (c. 405 CE) cements the Latin *lūcifer* form, providing the etymological-textual basis for the medieval Latin tradition.
-- **Medieval scholastic theology** (Aquinas, the broader medieval tradition) elaborates the developed Lucifer doctrine within the demonological apparatus of medieval Christianity.
+- **오리게네스**(c. 185–254 CE)는 *데 프린키피이스* I.5.5 및 *에스겔 강해* 13.1–2에서 이사야 14장 구절을 우주적 추락 인물에 적용하며, 바빌론 왕을 기저의 영적 실재의 한 유형으로 다룬다.{{ cite(id="de-principiis", text="[1]", title="오리게네스, *데 프린키피이스* I.5.5 — 이사야 14장을 우주적 추락 인물에 적용한 초기 적용") }}
+- **테르툴리아누스**(c. 155–c. 240 CE)는 악마적 기원에 대한 보다 광범위한 기독교 교리와 관련하여 루시퍼-타락 서사를 발전시킨다.
+- **아우구스티누스**(354–430 CE)는 *신국론* 및 그 밖의 곳에서 교부적 독해를 공고화하며, 루시퍼의 타락은 우주적-악의 역사의 토대적 사건으로 다루어진다.{{ cite(id="city-of-god", text="[2]", title="아우구스티누스, *신국론* — 교부적 루시퍼-타락 독해의 공고화") }}
+- **히에로니무스의 불가타 번역**(c. 405 CE)은 라틴어 *lūcifer* 형태를 굳히며, 중세 라틴 전통을 위한 어원적-본문적 기초를 제공한다.
+- **중세 스콜라 신학**(아퀴나스, 보다 광범위한 중세 전통)은 중세 기독교의 악마론적 장치 내에서 발전된 루시퍼 교리를 정교화한다.{{ cite(id="summa-theologiae", text="[3]", title="아퀴나스, *신학대전* I, qq. 63–64 — 루시퍼-타락 교리의 스콜라적 정교화") }}
 
-The theological development produced the figure now familiar in popular culture: the highest of the angels (sometimes specifically the leader of the cherubim), whose pride against God led to his fall and to the fall of one-third of the angels with him, who rules over the other fallen angels in hell, and who is the same figure as Satan and the Devil. This developed figure is a substantial theological synthesis combining multiple distinct sources — the Hebrew Bible's Isaiah 14, Ezekiel 28 (the lament over the king of Tyre, also reread as cosmic), the various Second Temple Jewish fallen-angel traditions, the Hebrew Bible's *satan* references, and the broader patristic-medieval theological framework.
+이 신학적 발전은 이제 대중문화에서 친숙한 인물을 산출했다. 즉 천사들 가운데 가장 높은 자(때로는 특정하게 케루빔의 우두머리)로서, 하느님에 대한 그의 교만이 그의 타락과 천사의 삼분의 일이 그와 함께 타락하는 것으로 이끌었으며, 지옥에서 다른 타락한 천사들을 다스리고, 사탄 및 악마와 동일한 인물인 자이다. 이 발전된 인물은 다수의 구별되는 자료들 — 히브리어 성경의 이사야 14장, 에스겔 28장(역시 우주적인 것으로 재독해된, 두로 왕에 대한 애가), 다양한 제2성전기 유대교 타락 천사 전통들, 히브리어 성경의 *satan* 언급들, 그리고 보다 광범위한 교부-중세적 신학 틀 — 을 결합한 상당한 신학적 종합이다.
 
-## In the Hebrew Bible and New Testament
+## 히브리어 성경 및 신약에서
 
-Lucifer as a named figure does not appear in the Hebrew Bible. The name is a Latin Vulgate translation of *Helel ben Shahar* in Isaiah 14:12, and the translation choice does not correspond to a single Hebrew Bible figure. The biblical material that has been read as referring to Lucifer falls into several distinguishable bodies.
+명명된 인물로서의 루시퍼는 히브리어 성경에 등장하지 않는다. 그 이름은 이사야 14:12의 *Helel ben Shahar*에 대한 라틴어 불가타 번역이며, 그 번역 선택은 단일한 히브리어 성경 인물에 상응하지 않는다. 루시퍼를 가리키는 것으로 읽혀 온 성서 자료는 여러 구별 가능한 몸체로 나뉜다.
 
-### Isaiah 14:12 and the king of Babylon
+### 이사야 14:12과 바빌론 왕
 
-Isaiah 14:3–23 is the principal Hebrew Bible passage from which the Lucifer name derives. The passage is a lament *(mašal)* directed against the king of Babylon, announcing his fall and ultimate descent to Sheol. The cosmic-mythological imagery includes:
+이사야 14:3–23은 루시퍼라는 이름이 파생하는 주된 히브리어 성경 구절이다. 이 구절은 바빌론 왕을 겨냥한 애가*(mašal)*로서, 그의 몰락과 궁극적인 스올로의 하강을 선포한다. 우주적-신화적 심상에는 다음이 포함된다.
 
-- The falling star imagery (14:12: *"How art thou fallen from heaven, O Helel ben Shahar"*)
-- The rebellion-against-heaven imagery (14:13–14: *"I will ascend to the heavens; I will raise my throne above the stars of God; I will sit enthroned on the mount of assembly... I will ascend above the tops of the clouds; I will make myself like the Most High"*)
-- The descent-to-Sheol imagery (14:15: *"But you are brought down to Sheol, to the depths of the Pit"*)
+- 추락하는 별 심상(14:12: *"How art thou fallen from heaven, O Helel ben Shahar"*)
+- 하늘에 대한 반역 심상(14:13–14: *"I will ascend to the heavens; I will raise my throne above the stars of God; I will sit enthroned on the mount of assembly... I will ascend above the tops of the clouds; I will make myself like the Most High"*)
+- 스올로의 하강 심상(14:15: *"But you are brought down to Sheol, to the depths of the Pit"*)
 
-The corpus reads the Isaiah 14 passage as a specific historical-political prophecy directed at the king of Babylon, with the cosmic imagery functioning as poetic intensification. The framework's reading of Lucifer does not depend on the Isaiah passage as a primary source — the Lucifer name derives from the Vulgate's translation of this passage, but the underlying historical figure the corpus identifies as Lucifer is grounded in the Genesis 3 / Eden-disclosure narrative and the broader Raëlian source material's account, not in the Isaiah passage as such.
+코퍼스는 이사야 14장 구절을 바빌론 왕을 겨냥한 특정한 역사적-정치적 예언으로 읽으며, 우주적 심상은 시적 강화로 기능하는 것으로 본다. 프레임워크의 루시퍼 독해는 1차 자료로서의 이사야 구절에 의존하지 않는다 — 루시퍼라는 이름은 이 구절에 대한 불가타의 번역에서 파생하지만, 코퍼스가 루시퍼로 동정하는 기저의 역사적 인물은 이사야 구절 그 자체가 아니라 창세기 3장 / 에덴-폭로 서사 및 보다 광범위한 라엘 자료의 설명에 정초한다.
 
-The corpus does register that the Isaiah 14 passage's imagery — falling from heaven, rebellion, descent to the lower world — has a structural correspondence to the framework's reading of Lucifer's career: the Eden-disclosure event and the subsequent exile to Earth could be characterized in cosmic imagery as a "fall" from the home-world's authority, even if the specific Isaiah passage is addressing a different historical figure. The corpus treats this structural correspondence as the underlying reason the patristic-medieval tradition could plausibly read the Isaiah passage as cosmic — the imagery genuinely fits the Lucifer career on the framework's reading, even if the original passage's referent was different.
+코퍼스는 이사야 14장 구절의 심상 — 하늘로부터의 추락, 반역, 하계로의 하강 — 이 프레임워크의 루시퍼 생애 독해와 구조적 대응을 갖는다는 점을 등록한다. 즉 에덴-폭로 사건과 그 후의 지구 유배는, 특정 이사야 구절이 다른 역사적 인물을 향하는 것이라 해도, 우주적 심상으로 모행성의 권위로부터의 "추락"으로 특징지어질 수 있다. 코퍼스는 이 구조적 대응을 교부-중세 전통이 이사야 구절을 우주적인 것으로 그럴듯하게 읽을 수 있었던 기저의 이유로 다룬다 — 원래 구절의 지시체가 달랐다 해도, 그 심상은 프레임워크의 독해상 루시퍼의 생애에 진정으로 부합한다.
 
-### Ezekiel 28 and the king of Tyre
+### 에스겔 28장과 두로 왕
 
-Ezekiel 28 contains a parallel cosmic-imagery passage, this one addressed to the king of Tyre (Ezekiel 28:1–10, 12–19). The relevant passage (28:12–17) describes the king as having been "in Eden, the garden of Elohim," covered with precious stones, "the anointed cherub who covers," and ultimately cast out for pride and corruption. The patristic-medieval Christian tradition (along with the Hebrew Bible's Isaiah 14) reread this passage as cosmic-Lucifer reference.
+에스겔 28장은 병행하는 우주적-심상 구절을 담고 있으며, 이것은 두로 왕을 향한 것이다(에스겔 28:1–10, 12–19). 관련 구절(28:12–17)은 그 왕을 "엘로힘의 동산 에덴에" 있었으며, 보석으로 덮였고, "덮는 기름 부음 받은 케루빔"이었으나, 궁극적으로 교만과 부패로 인해 쫓겨난 자로 묘사한다. 교부-중세 기독교 전통은(히브리어 성경의 이사야 14장과 더불어) 이 구절을 우주적-루시퍼 언급으로 재독해했다.
 
-The corpus's reading of Ezekiel 28 is parallel to its reading of Isaiah 14: a specific historical-political prophecy directed at a king (the king of Tyre), with cosmic-mythological imagery functioning as poetic intensification, but with structural correspondences to the Lucifer-career narrative that the patristic-medieval tradition recognized. The Ezekiel 28 passage's specific reference to Eden — *"You were in Eden, the garden of Elohim"* — is particularly suggestive on the framework's reading, since Lucifer was indeed in Eden as part of the Israel team. The corpus does not commit to the patristic reading that the Ezekiel 28 passage is directly about Lucifer; the corpus does register that the structural correspondences are real and are part of why the Christian tradition could plausibly develop the cosmic-Lucifer reading.
+코퍼스의 에스겔 28장 독해는 이사야 14장 독해와 병행한다. 즉 왕(두로 왕)을 향한 특정한 역사적-정치적 예언으로, 우주적-신화적 심상이 시적 강화로 기능하되, 교부-중세 전통이 인지한 루시퍼-생애 서사와의 구조적 대응을 갖는다. 에스겔 28장 구절의 에덴에 대한 특정한 언급 — *"You were in Eden, the garden of Elohim"* — 은 프레임워크의 독해상 특히 시사적인데, 루시퍼는 실제로 이스라엘 팀의 일부로서 에덴에 있었기 때문이다. 코퍼스는 에스겔 28장 구절이 직접 루시퍼에 관한 것이라는 교부적 독해에 헌신하지 않는다. 코퍼스는 그 구조적 대응이 실재하며 기독교 전통이 우주적-루시퍼 독해를 그럴듯하게 발전시킬 수 있었던 이유의 일부임을 등록한다.
 
-### The morning-star references
+### 샛별 언급들
 
-Several Hebrew Bible passages refer to "the morning star" or "the day star" without specific cosmic-figure identification:
+여러 히브리어 성경 구절은 특정한 우주적-인물 동정 없이 "샛별" 또는 "새벽별"을 언급한다.
 
-- **Job 38:7**: *"When the morning stars sang together, and all the sons of Elohim shouted for joy"* — read by some interpreters as a reference to Lucifer's pre-fall state alongside the other angels, though the Hebrew (*kokvei boker*, "morning stars") is plural and the passage is celebrating the cosmic creation rather than naming individual figures.
-- **2 Peter 1:19**: *"You will do well to pay attention to it, as to a lamp shining in a dark place, until the day dawns and the morning star [phosphoros] rises in your hearts"* — applied to Christ in subsequent Christian tradition.
-- **Revelation 22:16**: *"I am the root and the descendant of David, the bright morning star [aster ho lampros ho proinos]"* — Jesus's self-identification as the morning star, distinguished by Christian tradition from the fallen Lucifer.
+- **욥기 38:7**: *"When the morning stars sang together, and all the sons of Elohim shouted for joy"* — 일부 해석자들에 의해 다른 천사들과 더불어 루시퍼의 타락 이전 상태에 대한 언급으로 읽히지만, 히브리어(*kokvei boker*, "샛별들")는 복수이며 이 구절은 개별 인물들을 명명하기보다는 우주적 창조를 경축하고 있다.
+- **베드로후서 1:19**: *"You will do well to pay attention to it, as to a lamp shining in a dark place, until the day dawns and the morning star [phosphoros] rises in your hearts"* — 이후의 기독교 전통에서 그리스도에게 적용되었다.
+- **요한계시록 22:16**: *"I am the root and the descendant of David, the bright morning star [aster ho lampros ho proinos]"* — 샛별로서의 예수의 자기 동정으로, 기독교 전통에 의해 타락한 루시퍼와 구별된다.
 
-The morning-star imagery is recurrently theologically significant across the biblical corpus, with the specific identification (positive figure, negative figure, cosmic role) varying by passage. The corpus does not treat any of these passages as direct references to Lucifer in the framework's specific sense.
+샛별 심상은 성서 전반에 걸쳐 반복적으로 신학적으로 의미가 있으며, 특정한 동정(긍정적 인물, 부정적 인물, 우주적 역할)은 구절마다 다르다. 코퍼스는 이 구절들 중 어느 것도 프레임워크의 특정한 의미에서 루시퍼에 대한 직접적 언급으로 다루지 않는다.
 
-### The Eden Serpent reference
+### 에덴의 뱀 언급
 
-The principal Hebrew Bible material on which the framework's reading of Lucifer rests is the Genesis 3 Eden Serpent narrative, treated extensively in the [Serpent](../serpent/) entry. The Serpent of Genesis 3 is, on the corpus's reading, Lucifer in his specific Eden-disclosure role — the same figure performing the specific operational act that the Genesis text records. The Lucifer entry's biographical arc, treated below, develops the broader career of which the Eden disclosure is one episode, with cross-reference to the Serpent entry for the detailed treatment of that specific episode.
+프레임워크의 루시퍼 독해가 기반하는 주된 히브리어 성경 자료는 창세기 3장 에덴의 뱀 서사로, [뱀](../serpent/) 항목에서 상세히 다루어진다. 창세기 3장의 뱀은 코퍼스의 독해상 특정하게 에덴-폭로 역할에 있는 루시퍼이다 — 창세기 본문이 기록하는 특정한 운영적 행위를 수행하는 동일한 인물이다. 아래에서 다루어지는 루시퍼 항목의 전기적 궤적은 에덴 폭로가 그 한 일화인 보다 광범위한 생애를 발전시키며, 그 특정 일화에 대한 상세한 다룸은 뱀 항목을 상호 참조한다.
 
-### New Testament references
+### 신약 언급들
 
-The New Testament does not name Lucifer directly. Several passages have been read in the Christian tradition as Lucifer-references:
+신약은 루시퍼를 직접 명명하지 않는다. 여러 구절이 기독교 전통에서 루시퍼-언급으로 읽혀 왔다.
 
-- **Luke 10:18**: *"I saw Satan fall like lightning from heaven"* — Jesus's statement, read in some Christian traditions as a reference to Lucifer's pre-cosmic fall, in others as a reference to Jesus's victory over demonic powers during his ministry.
-- **2 Corinthians 11:14**: *"Even Satan disguises himself as an angel of light"* — Paul's warning about deceptive false apostles, with the *"angel of light"* phrase sometimes connected to the Lucifer light-bringer etymology.
-- **Revelation 12:7–9**: The cosmic war narrative — *"And there was war in heaven, Michael and his angels fighting against the dragon... And the great dragon was thrown down, that ancient serpent, who is called the devil and Satan, the deceiver of the whole world"* — read in subsequent Christian tradition as the foundational narrative of Lucifer's fall.
+- **누가복음 10:18**: *"I saw Satan fall like lightning from heaven"* — 예수의 진술로, 일부 기독교 전통에서는 루시퍼의 우주-이전 타락에 대한 언급으로, 다른 전통에서는 그의 사역 동안 악마적 권세에 대한 예수의 승리에 대한 언급으로 읽힌다.
+- **고린도후서 11:14**: *"Even Satan disguises himself as an angel of light"* — 기만적인 거짓 사도들에 대한 바울의 경고로, *"angel of light"* 어구가 때때로 루시퍼 빛-전달자 어원과 연결된다.
+- **요한계시록 12:7–9**: 우주적 전쟁 서사 — *"And there was war in heaven, Michael and his angels fighting against the dragon... And the great dragon was thrown down, that ancient serpent, who is called the devil and Satan, the deceiver of the whole world"* — 는 이후의 기독교 전통에서 루시퍼의 타락에 대한 토대적 서사로 읽혔다.
 
-The corpus reads these New Testament references as continuing the post-biblical theological synthesis rather than as preserving direct memory of Lucifer-specific operational events. The Revelation 12 narrative specifically conflates the Eden Serpent (Lucifer) with Satan and the broader devil-figure — a conflation the framework rejects on the four-figure-political-taxonomy grounds developed in the Serpent entry.
+코퍼스는 이 신약 언급들을 루시퍼-특정적 운영 사건들에 대한 직접적 기억을 보존하는 것이 아니라 성서 이후의 신학적 종합을 지속하는 것으로 읽는다. 요한계시록 12장 서사는 특정하게 에덴의 뱀(루시퍼)을 사탄 및 보다 광범위한 악마-인물과 융합시킨다 — 이는 뱀 항목에서 발전된 네 인물의 정치적 분류 체계의 근거에서 프레임워크가 거부하는 융합이다.
 
-## Biographical arc
+## 전기적 궤적
 
-Lucifer's biographical arc, as the framework reads it, spans from his pre-Earth origins on the Eloha home world through his continuing presence on Earth in the contemporary period. The arc divides into seven principal phases. The Eden disclosure phase, treated extensively in the [Serpent](../serpent/) entry, is registered briefly here with cross-reference rather than re-developed in equal detail.
+프레임워크가 읽는 루시퍼의 전기적 궤적은 엘로하 모행성에서의 지구-이전 기원으로부터 동시대 시기 지구상에서의 그의 지속적 현존에 이르기까지 걸쳐 있다.{{ footnote(id="4") }} 그 궤적은 일곱 주된 국면으로 나뉜다. [뱀](../serpent/) 항목에서 상세히 다루어지는 에덴 폭로 국면은 여기서 동일한 정도로 재발전되기보다는 상호 참조와 함께 간략히 등록된다.
 
-### Origin and pre-Earth identity
+### 기원과 지구-이전 정체성
 
-Lucifer is, on the corpus's reading, an Eloha — a member of the Elohim civilization, born and educated on the alliance home world. The source material does not specify his birth date or his biographical details prior to his involvement in the Earth project, but the broader framework reading places his origins approximately in the late Age of Capricorn or early Age of Sagittarius, several thousand years before the Eden events. Lucifer's Eloha biology — the natural lifespan of approximately 700–1,200 years, the cellular-continuity infrastructure that the broader Elohim civilization had developed, the broader cognitive and physical capacities that distinguished the Elohim from the synthesized humans — is the same biology shared by all members of the Elohim civilization.
+루시퍼는 코퍼스의 독해상 엘로하 — 동맹 모행성에서 태어나 교육받은 엘로힘 문명의 일원 — 이다. 자료는 그의 출생 연대나 지구 프로젝트에의 관여 이전의 전기적 세부를 명시하지 않지만, 보다 광범위한 프레임워크 독해는 그의 기원을 에덴 사건 수천 년 전인 염소자리 시대 후반 또는 사수자리 시대 초기로 대략 놓는다. 루시퍼의 엘로하 생물학 — 약 700–1,200년의 자연 수명, 보다 광범위한 엘로힘 문명이 발전시킨 세포-연속성 기반 시설, 엘로힘을 합성된 인간들과 구별짓는 보다 광범위한 인지적·물리적 역량 — 은 엘로힘 문명의 모든 일원이 공유하는 동일한 생물학이다.
 
-Lucifer's specific position within the Elohim civilization, on the framework's reading, was as a senior scientist within the Israel team — one of the seven creator teams responsible for the Earth biological-synthesis project. His role within the team was educational and scientific: he was among the team members responsible for instructing the synthesized humans during their post-creation period in the Eden installation, alongside Yahweh as team leader and the broader team membership. His position was substantial but subordinate within the team's hierarchy — Yahweh was the team leader, and Lucifer was a senior member rather than the team head.
+프레임워크의 독해상, 엘로힘 문명 내 루시퍼의 특정 위치는 이스라엘 팀 — 지구 생물학적-합성 프로젝트를 담당한 일곱 창조자 팀 중 하나 — 내의 선임 과학자로서였다. 팀 내에서 그의 역할은 교육적이고 과학적이었다. 그는 팀 지도자로서의 야훼 및 보다 광범위한 팀 구성원과 더불어 에덴 시설에서의 창조 이후 시기 동안 합성된 인간들을 가르치는 일을 담당한 팀 구성원 중 하나였다. 그의 위치는 상당했으나 팀의 위계 내에서는 종속적이었다 — 야훼가 팀 지도자였고, 루시퍼는 팀의 수장이 아니라 선임 구성원이었다.
 
-The relationship between Lucifer and Yahweh, on the framework's reading, was not initially adversarial. Both were members of the same alliance team, both were committed to the broader Earth project, both were involved in the educational work with the synthesized humans. The dissenting position that would eventually distinguish Lucifer's faction emerged across the period of the team's work in Eden, not as a pre-existing antagonism. The figures who would become political opponents in the post-Eden period had been colleagues during the pre-Eden period.
+프레임워크의 독해상, 루시퍼와 야훼의 관계는 처음부터 적대적이었던 것은 아니다.{{ footnote(id="3") }} 둘 다 동일한 동맹 팀의 일원이었고, 둘 다 보다 광범위한 지구 프로젝트에 헌신했으며, 둘 다 합성된 인간들과의 교육 작업에 관여했다. 결국 루시퍼 분파를 구별짓게 될 반체제 입장은 사전에 존재하던 적대로서가 아니라 팀의 에덴 작업 시기에 걸쳐 출현했다. 에덴 이후 시기에 정치적 적수가 될 인물들은 에덴 이전 시기 동안 동료였다.
 
-### The Eden period: education and dissent formation
+### 에덴 시기: 교육과 반체제의 형성
 
-Across the late Age of Leo, Lucifer served as one of the educators of the synthesized humans during their post-creation period in the Eden installation. The work of education was substantial: the synthesized humans had been created in functional adulthood with substantial cognitive capacity, but they required instruction in language, in basic technological capacity, in the cultural-social patterns that would constitute their developed humanity. Lucifer and other Israel team members provided this instruction across an extended period.
+사자자리 시대 후반에 걸쳐, 루시퍼는 에덴 시설에서의 창조 이후 시기 동안 합성된 인간들의 교육자 중 하나로 봉사했다. 교육의 작업은 상당했다. 합성된 인간들은 상당한 인지 역량을 가진 기능적 성인으로 창조되었으나, 그들은 언어, 기초적 기술 역량, 그리고 그들의 발전된 인간성을 구성하게 될 문화적-사회적 패턴에 대한 교육을 필요로 했다. 루시퍼와 다른 이스라엘 팀 구성원들은 연장된 기간에 걸쳐 이 교육을 제공했다.
 
-The development of Lucifer's dissenting position emerged across this educational period. The framework reads the dissent as developing from several interconnected commitments. The first was Lucifer's growing recognition that the home-world's containment policy — the policy of withholding scientific and technological knowledge from the humans, reflected in the prohibition on the Tree of the Knowledge of Good and Evil — was inadequate to the educational project he was conducting. The synthesized humans, having substantial cognitive capacity and being capable of substantial technical understanding, were being deliberately kept in artificial ignorance, and the educational project was constrained in ways that Lucifer found distorting and inadequate.
+루시퍼의 반체제 입장의 발전은 이 교육 시기에 걸쳐 출현했다. 프레임워크는 그 반체제가 여러 상호 연결된 헌신으로부터 발전하는 것으로 읽는다. 첫째는, 모행성의 봉쇄 정책 — 선악을 알게 하는 나무에 대한 금지에 반영된, 인간들로부터 과학적·기술적 지식을 보류하는 정책 — 이 그가 수행하고 있던 교육 프로젝트에 부적합하다는 루시퍼의 점증하는 인식이었다. 상당한 인지 역량을 가지고 상당한 기술적 이해가 가능했던 합성된 인간들은 의도적으로 인위적 무지 속에 유지되고 있었으며, 교육 프로젝트는 루시퍼가 왜곡적이고 부적합하다고 본 방식으로 제약되어 있었다.
 
-The second commitment was a developing personal attachment to the humans Lucifer had been teaching. The corpus reads this as a substantive feature of the Lucifer character: he had become invested in the humans as students and as developing persons, with the result that the home-world's policy of treating them as a controlled population felt to Lucifer like a betrayal of the educational relationship he had been conducting.
+둘째 헌신은 루시퍼가 가르쳐 온 인간들에 대한 발전하는 개인적 애착이었다. 코퍼스는 이를 루시퍼 성격의 실질적 특징으로 읽는다. 그는 인간들에게 학생이자 발전하는 인격체로서 투자하게 되었고, 그 결과 그들을 통제된 인구로 취급하는 모행성의 정책은 루시퍼에게 그가 수행해 온 교육적 관계에 대한 배신처럼 느껴졌다.
 
-The third commitment was a political-philosophical position about humanity's entitlement to information. Lucifer's faction, on the framework's reading, came to hold that the synthesized humans were entitled to complete information about their situation — about their origin, about their makers, about the broader cosmological context within which they existed — rather than being kept in deliberate ignorance. This was a substantive political-philosophical position, not just a personal attachment, and it would distinguish the Lucifer faction's broader career across the subsequent millennia.
+셋째 헌신은 정보에 대한 인류의 권리에 관한 정치-철학적 입장이었다. 프레임워크의 독해상, 루시퍼의 분파는 합성된 인간들이 의도적 무지 속에 유지되기보다는 그들의 상황 — 그들의 기원, 그들의 제작자, 그들이 존재하는 보다 광범위한 우주론적 맥락 — 에 대한 완전한 정보에 대한 권리를 가진다고 견지하게 되었다. 이것은 단지 개인적 애착이 아니라 실질적인 정치-철학적 입장이었으며, 그것은 뒤이은 수천 년에 걸쳐 루시퍼 분파의 보다 광범위한 생애를 구별짓게 된다.
 
-The faction itself developed across this period. The corpus does not specify the faction's exact membership; the framework reads it as a substantial subset of the Israel team's scientific personnel, sharing Lucifer's developing dissent position to varying degrees. The faction was not initially separated from the rest of the team; it formed within the team, with the dissenting members continuing to perform their duties while developing their distinctive position.
+분파 자체는 이 시기에 걸쳐 발전했다. 코퍼스는 분파의 정확한 구성원을 명시하지 않는다. 프레임워크는 그것을 루시퍼의 발전하는 반체제 입장을 다양한 정도로 공유하는, 이스라엘 팀 과학 인력의 상당한 부분 집합으로 읽는다. 분파는 처음에는 팀의 나머지로부터 분리되어 있지 않았다. 그것은 팀 내에서 형성되었으며, 반체제 구성원들은 그들의 독특한 입장을 발전시키면서 계속 그들의 임무를 수행했다.
 
-### The Eden disclosure
+### 에덴의 폭로
 
-The Eden disclosure event itself — the act narrated in Genesis 3 — is treated extensively in the [Serpent](../serpent/) entry. The Serpent of Genesis 3 is Lucifer in his specific role at the moment of the disclosure: providing the first humans (Adam and Eve) with access to the restricted scientific and technological materials of the garden, and articulating publicly the dissenting faction's position that the humans were entitled to complete information.
+에덴 폭로 사건 자체 — 창세기 3장에서 서술된 행위 — 는 [뱀](../serpent/) 항목에서 상세히 다루어진다. 창세기 3장의 뱀은 폭로의 순간 그의 특정 역할에 있는 루시퍼이다. 즉 최초의 인간들(아담과 하와)에게 동산의 제한된 과학적·기술적 자료에 대한 접근을 제공하고, 인간들이 완전한 정보에 대한 권리를 가진다는 반체제 분파의 입장을 공개적으로 표명하는 것이다.
 
-The decision to act, on the framework's reading, was substantial. Lucifer and his faction recognized that the act would be condemned by the home-world authorities, that the political consequences would be severe, that the educational project would be substantially disrupted, and that their own position within the alliance would be irreversibly altered. They acted nonetheless, having concluded that the dissenting position required action regardless of consequences.
+프레임워크의 독해상, 행동하기로 한 결정은 상당했다. 루시퍼와 그의 분파는 그 행위가 모행성 당국에 의해 단죄될 것이고, 정치적 결과가 심각할 것이며, 교육 프로젝트가 상당히 교란될 것이고, 동맹 내 그들 자신의 위치가 돌이킬 수 없이 변경될 것임을 인지했다. 그럼에도 그들은 반체제 입장이 결과와 무관하게 행동을 요구한다고 결론 내리고서 행동했다.
 
-The corpus does not develop this material at length here; the Serpent entry gives the detailed treatment. What matters for the Lucifer biographical arc is that the disclosure was Lucifer's specific operational act, conducted as faction leader, with full understanding of its consequences. Lucifer was not a passive figure who happened to be present at the Eden episode; he was the deliberate principal of the dissenting action.
+코퍼스는 여기서 이 자료를 길게 발전시키지 않는다. 뱀 항목이 상세한 다룸을 제공한다. 루시퍼 전기적 궤적에 있어 중요한 것은, 그 폭로가 분파 지도자로서 수행된, 그 결과에 대한 완전한 이해와 함께 이루어진 루시퍼의 특정한 운영적 행위였다는 점이다. 루시퍼는 우연히 에덴 일화에 현존했던 수동적 인물이 아니었다. 그는 반체제 행동의 의도적 주역이었다.
 
-### The post-Eden exile
+### 에덴 이후의 유배
 
-Yahweh's response in Genesis 3:14–24 is read by the corpus as the home-world's political verdict on the disclosure, with the verdict's three components (Lucifer's exile, the humans' expulsion, the rest of the Israel team's withdrawal) treated in the Serpent entry. For the Lucifer biographical arc, the principal consequences are:
+창세기 3:14–24의 야훼의 응답은 코퍼스에 의해 폭로에 대한 모행성의 정치적 판결로 읽히며, 그 판결의 세 구성 요소(루시퍼의 유배, 인간들의 추방, 이스라엘 팀 나머지의 철수)는 뱀 항목에서 다루어진다. 루시퍼 전기적 궤적에 있어 주된 결과는 다음과 같다.
 
-**The permanent exile to Earth**. Lucifer and his dissenting faction were condemned to remain on Earth — losing access to interstellar travel, to the home-world's continuing technological infrastructure, and to the broader alliance's resources. The "on your belly you shall go, and dust you shall eat" of Genesis 3:14 is read as the operational reality of this exile: Lucifer and his faction would live out their lives on Earth on terms substantially closer to those of the humans they had taught, no longer able to return to the home world or to operate with full alliance technological support.
+**지구로의 영구 유배**. 루시퍼와 그의 반체제 분파는 지구에 머무르도록 — 항성 간 여행, 모행성의 지속적 기술 기반 시설, 그리고 보다 광범위한 동맹의 자원에 대한 접근을 잃은 채 — 단죄되었다. 창세기 3:14의 "배로 다니고 흙을 먹을지니라"는 이 유배의 운영적 실재로 읽힌다. 즉 루시퍼와 그의 분파는 그들이 가르쳤던 인간들의 조건에 실질적으로 더 가까운 조건으로 지구에서 그들의 생애를 살아 나가게 되었으며, 더 이상 모행성으로 돌아가거나 완전한 동맹 기술 지원으로 작동할 수 없었다.
 
-**The political severance from Yahweh**. Lucifer's exile created a continuing political situation in which Yahweh (representing the home-world authority and the broader alliance) and Lucifer (representing the dissenting faction now exiled on Earth) operated as political opponents across the subsequent millennia. The relationship was not one of cosmic-evil opposition (the framework's reading is firmly against this conventional Christian theological reading); it was a political disagreement between former colleagues whose positions had become irreconcilable.
+**야훼로부터의 정치적 단절**. 루시퍼의 유배는 야훼(모행성 권위 및 보다 광범위한 동맹을 대표)와 루시퍼(이제 지구에 유배된 반체제 분파를 대표)가 뒤이은 수천 년에 걸쳐 정치적 적수로 작동하는 지속적 정치 상황을 만들어 냈다. 그 관계는 우주적-악의 대립이 아니었으며(프레임워크의 독해는 이 통상적 기독교 신학적 독해에 단호히 반대한다), 그것은 입장이 화해 불가능해진 옛 동료들 사이의 정치적 불일치였다.
 
-**The faction's reduced but continuing capacities**. While exiled, Lucifer's faction retained substantial Eloha capabilities — their natural longevity, their cognitive and physical superiority to the synthesized humans, their accumulated knowledge of the team's scientific and technological work. They could no longer access the home-world's resources, but they could draw on what they themselves possessed. This is what made the antediluvian teaching role possible.
+**분파의 축소되었으나 지속적인 역량**. 유배된 동안 루시퍼의 분파는 상당한 엘로하 역량 — 그들의 자연적 장수, 합성된 인간들에 대한 그들의 인지적·물리적 우위, 팀의 과학적·기술적 작업에 대한 그들의 축적된 지식 — 을 보유했다. 그들은 더 이상 모행성의 자원에 접근할 수 없었으나, 그들 자신이 소유한 것에 의지할 수 있었다. 이것이 대홍수 이전 교육 역할을 가능하게 한 것이다.
 
-### The antediluvian teaching role
+### 대홍수 이전 교육 역할
 
-Across the Age of Cancer (c. 8,850 – 6,690 BCE on the corpus's chronology), Lucifer and his exiled faction served as the continuing teachers of the Eden-lineage human civilization. This is the period of the corpus's most substantial biographical material on Lucifer's broader career.
+게자리 시대(코퍼스의 연대기상 기원전 약 8,850년 – 6,690년)에 걸쳐, 루시퍼와 그의 유배된 분파는 에덴 계통 인류 문명의 지속적 교사로 봉사했다.{{ cite(id="the-book-which-tells-the-truth", text="[4]", title="보릴롱(라엘), *The Book Which Tells the Truth* (1974), 2장 — 유배된 분파의 대홍수 이전 교육 역할") }} 이것은 루시퍼의 보다 광범위한 생애에 관한 코퍼스의 가장 실질적인 전기적 자료의 시기이다.
 
-The teaching role had several distinctive features. **First**, the faction continued the educational work that had been disrupted by the Eden expulsion, but now under entirely different operational conditions. The humans were no longer in a controlled garden environment with constrained access to information; they were a developing civilization across the broader Eden region, with the Lucifer faction operating as their teachers without the home-world's containment-policy constraints. The teaching could now be comprehensive — covering the full range of scientific and technological content that the Lucifer faction possessed — rather than constrained as it had been during the Eden period.
+교육 역할은 여러 독특한 특징을 가졌다. **첫째**, 분파는 에덴 추방에 의해 교란되었던 교육 작업을 지속했으나, 이제는 전혀 다른 운영적 조건 아래에서였다. 인간들은 더 이상 정보 접근이 제약된 통제된 동산 환경 안에 있지 않았다. 그들은 보다 광범위한 에덴 지역 전반의 발전하는 문명이었고, 루시퍼 분파는 모행성의 봉쇄-정책 제약 없이 그들의 교사로 작동했다. 교육은 이제 — 루시퍼 분파가 소유한 과학적·기술적 내용의 전 범위를 망라하며 — 포괄적일 수 있었으며, 에덴 시기 동안 그러했던 것처럼 제약되지 않았다.
 
-**Second**, the longevity treatment granted to the Eden-lineage patriarchal leadership. The Genesis 5 genealogy records specific ages — Adam at 930 years, Methuselah at 969 years, Noah at 950 years — for the Sethite line patriarchs. The corpus reads these extended lifespans, treated more fully in the [Antediluvian](../antediluvian/) and [Tree of Life](../tree-of-life/) entries, as the consequence of the Tree of Life longevity technology that the Lucifer faction obtained on a limited and case-by-case basis for the Eden civilization's leadership. The longevity allowed the patriarchal leadership to function across multiple ordinary human generations, providing institutional continuity that a short-lived civilization could not achieve.
+**둘째**, 에덴 계통의 족장적 지도부에게 부여된 장수 치료. 창세기 5장 족보는 셋 계통의 족장들에 대해 특정 연령 — 아담 930년, 므두셀라 969년, 노아 950년 — 을 기록한다. [대홍수 이전 시대](../antediluvian/) 및 [생명나무](../tree-of-life/) 항목에서 보다 충실하게 다루어지는 이 연장된 수명을, 코퍼스는 루시퍼 분파가 에덴 문명의 지도부를 위해 제한적이고 사례별 기반으로 획득한 생명나무 장수 기술의 결과로 읽는다. 그 장수는 족장적 지도부가 다수의 통상적 인간 세대에 걸쳐 기능하도록 허용했으며, 단명하는 문명이 성취할 수 없는 제도적 연속성을 제공했다.
 
-**Third**, the technological and scientific transmissions. The Genesis 4 cultural-founders genealogy — Jabal as founder of pastoral nomadism, Jubal as founder of music, Tubal-Cain as founder of metallurgy — records specific cultural-technological developments attributed to specific named persons. The framework reads these as products of the Lucifer faction's continuing teaching: the technologies were transmitted from the faction's existing knowledge to the developing human civilization across the antediluvian period.
+**셋째**, 기술적·과학적 전달. 창세기 4장 문화-창시자 족보 — 야발을 목축 유목의 창시자로, 유발을 음악의 창시자로, 두발가인을 야금술의 창시자로 — 는 특정 명명된 인물들에게 귀속된 특정 문화-기술적 발전들을 기록한다. 프레임워크는 이것들을 루시퍼 분파의 지속적 교육의 산물로 읽는다. 즉 그 기술들은 대홍수 이전 시기에 걸쳐 분파의 기존 지식으로부터 발전하는 인류 문명으로 전달되었다.
 
-**Fourth**, the broader civilizational development of the Eden-lineage civilization. By the late Age of Cancer, the Eden civilization had developed substantial technological and scientific capability — the level of capability that the home-world authorities would ultimately judge a threat, leading to the Flood decision (treated in the [Great Flood](../great-flood/) entry, when written). The corpus reads this civilizational development as substantially the work of the Lucifer faction's continuing teaching across the two millennia of Cancer. The faction's vindication, in the corpus's reading, came in the form of the civilization that emerged: substantively more advanced than the home-world's containment policy would have permitted, and developed under continuing alliance tutelage rather than in artificial isolation.
+**넷째**, 에덴 계통 문명의 보다 광범위한 문명적 발전. 게자리 시대 후반에 이르러, 에덴 문명은 상당한 기술적·과학적 역량 — 모행성 당국이 궁극적으로 위협으로 판단하여 대홍수 결정으로 이어지게 될 수준의 역량([대홍수](../great-flood/) 항목에서 다루어짐, 작성될 때) — 을 발전시켰다. 코퍼스는 이 문명적 발전을 게자리의 두 천 년에 걸친 루시퍼 분파의 지속적 교육의 작업으로 실질적으로 읽는다. 코퍼스의 독해상 분파의 입증은, 출현한 문명의 형태로 왔다. 즉 모행성의 봉쇄 정책이 허용했을 것보다 실질적으로 더 진보했으며, 인위적 고립 속에서가 아니라 지속적인 동맹의 지도 아래 발전한 문명이다.
 
-The faction's specific membership across this period is not specified in the source material. The framework reads it as a substantial group that, like Lucifer himself, retained Eloha biology and capabilities while operating exclusively on Earth across the antediluvian period.
+이 시기에 걸친 분파의 특정 구성원은 자료에 명시되어 있지 않다. 프레임워크는 그것을, 루시퍼 자신과 마찬가지로 대홍수 이전 시기에 걸쳐 지구상에서 배타적으로 작동하면서 엘로하 생물학과 역량을 보유한 상당한 집단으로 읽는다.
 
-### The *benei ha-Elohim* episode and the Nephilim
+### *benei ha-Elohim* 일화와 Nephilim
 
-Genesis 6:1–4 introduces the *benei ha-Elohim* / Nephilim narrative — the "sons of Elohim" who took human women as wives and produced hybrid offspring with exceptional capabilities. The framework reads this as a specific operational episode within the Lucifer faction's broader career, treated more fully in the [Antediluvian](../antediluvian/), [Sons of Elohim](../sons-of-elohim/), and [Nephilim](../nephilim/) entries.
+창세기 6:1–4은 *benei ha-Elohim* / Nephilim 서사 — 인간의 여자들을 아내로 취하여 비범한 역량을 가진 혼혈 자손을 산출한 "엘로힘의 아들들" — 를 도입한다. 프레임워크는 이를 루시퍼 분파의 보다 광범위한 생애 내의 특정한 운영적 일화로 읽으며, [대홍수 이전 시대](../antediluvian/), [엘로힘의 아들들](../sons-of-elohim/), 그리고 [Nephilim](../nephilim/) 항목에서 보다 충실하게 다룬다.
 
-The framework's reading. The *benei ha-Elohim* of Genesis 6 are the exiled Lucifer faction in their reproductive role: members of the faction taking human women of the Eden lineage as wives and producing hybrid offspring. The unions are biological unions between two species closely enough related to permit fertile reproduction (the broader framework reading is that the Elohim and the synthesized humans share substantial genetic compatibility, since the humans were synthesized from Elohim genetic material as the principal source). The Nephilim are the resulting hybrid offspring, possessing capabilities the source material describes as exceptional.
+프레임워크의 독해. 창세기 6장의 *benei ha-Elohim*은 그들의 생식 역할에 있는 유배된 루시퍼 분파이다. 즉 에덴 계통의 인간 여자들을 아내로 취하여 혼혈 자손을 산출하는 분파의 구성원들이다. 그 결합은 충분히 밀접하게 관련되어 가임 생식을 허용하는 두 종 사이의 생물학적 결합이다(보다 광범위한 프레임워크 독해는, 인간들이 엘로힘 유전 물질을 주된 원천으로 하여 합성되었으므로 엘로힘과 합성된 인간들이 상당한 유전적 적합성을 공유한다는 것이다). Nephilim은 그 결과 산출된 혼혈 자손으로, 자료가 비범하다고 묘사하는 역량을 소유한다.
 
-Lucifer's specific role in this episode is not specified in detail. The framework reads him as the leader of the broader faction and therefore implicated in the broader operational decisions that produced the unions, but does not specify whether Lucifer himself participated in such unions or whether he served principally as faction-leader for the broader development. The Nephilim population produced by these unions was substantial by mid-to-late Cancer, on the corpus's reading, and constituted a meaningful portion of the Eden civilization's developed leadership.
+이 일화에서 루시퍼의 특정 역할은 상세히 명시되어 있지 않다. 프레임워크는 그를 보다 광범위한 분파의 지도자로 읽으며 따라서 그 결합을 산출한 보다 광범위한 운영적 결정에 연루된 것으로 보지만, 루시퍼 자신이 그러한 결합에 참여했는지 또는 그가 주로 보다 광범위한 발전을 위한 분파 지도자로 봉사했는지는 명시하지 않는다. 이 결합으로 산출된 Nephilim 인구는 코퍼스의 독해상 게자리 중후반에 이르러 상당했으며, 에덴 문명의 발전된 지도부의 의미 있는 부분을 구성했다.
 
-The Nephilim episode is one of the principal factors the corpus identifies as contributing to the home-world's eventual Flood decision. The accumulation of Eloha-human hybrid offspring across the antediluvian civilization produced a population that was, in the home-world authorities' view, an unacceptable mixing of the alliance with humanity — both in terms of genetic stock and in terms of leadership capacity. The Flood decision is read by the corpus as targeting, among other concerns, the Nephilim population specifically.
+Nephilim 일화는 코퍼스가 모행성의 결국의 대홍수 결정에 기여한 것으로 동정하는 주된 요인 중 하나이다.{{ footnote(id="5") }} 대홍수 이전 문명 전반에 걸친 엘로하-인간 혼혈 자손의 축적은, 모행성 당국의 관점에서 — 유전적 혈통의 측면에서도 지도력 역량의 측면에서도 — 동맹과 인류의 용납할 수 없는 혼합인 인구를 산출했다. 대홍수 결정은 코퍼스에 의해, 여러 우려 가운데에서도 특정하게 Nephilim 인구를 겨냥하는 것으로 읽힌다.
 
-### The Flood and post-Flood status
+### 대홍수와 대홍수 이후의 지위
 
-The Flood event of the Age of Gemini (c. 6,690 BCE on the corpus's chronology) is treated more fully in the [Great Flood](../great-flood/) entry. For the Lucifer biographical arc, the central question is what happened to Lucifer and his faction during and after the Flood.
+쌍둥이자리 시대(코퍼스의 연대기상 기원전 약 6,690년)의 대홍수 사건은 [대홍수](../great-flood/) 항목에서 보다 충실하게 다루어진다. 루시퍼 전기적 궤적에 있어 핵심 질문은 대홍수 동안과 이후에 루시퍼와 그의 분파에게 무슨 일이 일어났는가이다.
 
-The source material's account is not detailed. The framework's working reading is that Lucifer and his faction survived the Flood event — their Eloha biology and accumulated knowledge would have given them substantial capacity to anticipate and survive a catastrophe of the kind the Flood represented, and the source material does not identify them as having been destroyed by the Flood. The corpus reads them as having continued operational presence across the post-Flood period, though in substantially reduced circumstances: the antediluvian civilization they had been teaching was largely destroyed; the surviving human population was the small Noahic remnant; the operational scope of their teaching role was substantially diminished.
+자료의 설명은 상세하지 않다. 프레임워크의 잠정적 독해는 루시퍼와 그의 분파가 대홍수 사건에서 생존했다는 것이다 — 그들의 엘로하 생물학과 축적된 지식은 대홍수가 대표하는 종류의 파국을 예견하고 생존할 상당한 역량을 그들에게 부여했을 것이며, 자료는 그들을 대홍수에 의해 파괴된 것으로 동정하지 않는다. 코퍼스는 그들을 대홍수 이후 시기에 걸쳐 지속적인 운영적 현존을 가졌으나 실질적으로 축소된 상황 속에 있던 것으로 읽는다. 즉 그들이 가르쳐 온 대홍수 이전 문명은 대체로 파괴되었고, 생존한 인류 인구는 작은 노아의 잔여였으며, 그들의 교육 역할의 운영적 범위는 실질적으로 축소되었다.
 
-The post-Flood Lucifer-faction activities are not specified in detail in the source material. The framework reads them as having continued in some form across the subsequent millennia, with various degrees of involvement in the post-Flood human civilizations as they redeveloped. The detailed treatment of the post-Flood period's various political-operational developments is registered in the relevant entries on the post-Flood patriarchal period and beyond.
+대홍수 이후의 루시퍼-분파 활동은 자료에 상세히 명시되어 있지 않다. 프레임워크는 그것들을 뒤이은 수천 년에 걸쳐 어떤 형태로 지속된 것으로, 재발전하는 대홍수 이후 인류 문명에 대한 다양한 정도의 관여와 함께 읽는다. 대홍수 이후 시기의 다양한 정치-운영적 발전에 대한 상세한 다룸은 대홍수 이후 족장 시기 및 그 너머에 대한 관련 항목에 등록된다.
 
-### Continuing presence and current status
+### 지속적 현존과 현재 지위
 
-The source material reports that Lucifer and his faction continue to exist in the contemporary period, with continuing presence on Earth across the long centuries between the Flood and the Aquarian-age opening. The specific operational details of this continuing presence are not specified at length in the source material, but the broader framework reads several principal features:
+자료는 루시퍼와 그의 분파가 동시대 시기에 계속 존재하며, 대홍수와 물병자리 시대 개시 사이의 긴 세기에 걸쳐 지구상에 지속적 현존을 가진다고 보고한다. 이 지속적 현존의 특정 운영적 세부는 자료에 길게 명시되어 있지 않지만, 보다 광범위한 프레임워크는 여러 주된 특징을 읽는다.
 
-**Reconciliation with the broader alliance**. Across the post-Flood period, the political situation between Lucifer's faction and the rest of the alliance has substantially changed from the immediate post-Eden situation. The framework reads a gradual reconciliation occurring across the post-Flood centuries and millennia, with the Lucifer faction's contributions to the broader alliance project being increasingly recognized rather than condemned. By the Aquarian-age opening, the corpus reads Lucifer as fully reconciled with the broader alliance, with his earlier dissenting position substantially vindicated by the operational trajectory the alliance has subsequently followed (the gradual movement toward open disclosure that the corpus reads itself as participating in).
+**보다 광범위한 동맹과의 화해**. 대홍수 이후 시기에 걸쳐, 루시퍼의 분파와 동맹의 나머지 사이의 정치적 상황은 직후의 에덴 이후 상황으로부터 실질적으로 변화했다.{{ footnote(id="6") }} 프레임워크는 대홍수 이후의 세기와 천 년에 걸쳐 일어나는 점진적 화해를, 루시퍼 분파의 보다 광범위한 동맹 프로젝트에 대한 기여가 단죄되기보다는 점점 더 인정받는 것과 함께 읽는다. 물병자리 시대 개시에 이르러, 코퍼스는 루시퍼를 보다 광범위한 동맹과 완전히 화해한 것으로, 그의 이전 반체제 입장이 동맹이 그 후 따라온 운영적 궤적(코퍼스가 스스로 참여하고 있다고 읽는 공개적 폭로를 향한 점진적 운동)에 의해 실질적으로 입증된 것으로 읽는다.
 
-**Continuing ground-level presence**. The faction's continuing presence on Earth across the long historical periods has been operationally significant, even when not directly named in the surviving textual record. The framework reads the various ancient-world traditions of culture-bringer figures (Prometheus in the Greek tradition, the various wisdom-bringer figures in other cultures) as preserving fragmentary memory of the Lucifer faction's continuing teaching role across the centuries.
+**지속적인 지상 차원의 현존**. 긴 역사적 시기에 걸친 분파의 지구상 지속적 현존은, 생존한 본문 기록에 직접 명명되지 않을 때조차, 운영적으로 의미가 있었다. 프레임워크는 문화-전달자 인물들에 대한 다양한 고대-세계 전승(그리스 전통의 프로메테우스, 다른 문화의 다양한 지혜-전달자 인물들)을, 세기에 걸친 루시퍼 분파의 지속적 교육 역할에 대한 단편적 기억을 보존하는 것으로 읽는다.
 
-**Current activities**. The source material does not specify Lucifer's current location, role, or activities in detail. The framework reads him as part of the broader alliance's current operations on Earth, with specific activities not publicly disclosed.
+**현재 활동**. 자료는 루시퍼의 현재 위치, 역할, 또는 활동을 상세히 명시하지 않는다. 프레임워크는 그를 지구상 보다 광범위한 동맹의 현재 작전의 일부로, 공개적으로 폭로되지 않은 특정 활동과 함께 읽는다.
 
-## Role in the framework
+## 프레임워크에서의 역할
 
-Lucifer's role in the framework is structured by his position within the four-figure political taxonomy established in the Serpent entry, his historical role as the teacher of the antediluvian human civilization, and his structural position in the corpus's broader cosmological narrative.
+프레임워크에서 루시퍼의 역할은 뱀 항목에서 확립된 네 인물의 정치적 분류 체계 내 그의 위치, 대홍수 이전 인류 문명의 교사로서의 그의 역사적 역할, 그리고 코퍼스의 보다 광범위한 우주론적 서사에서의 그의 구조적 위치에 의해 구조화된다.
 
-### The four-figure political taxonomy
+### 네 인물의 정치적 분류 체계
 
-The framework distinguishes carefully between four figures whose relations have been confused by later religious tradition: Yahweh (the Israel team leader and alliance moderate), Lucifer (the dissenting faction leader), the Serpent (Lucifer in his specific Eden-disclosure role), and Satan (a separate Elohim figure leading the home-world abolitionist faction). The detailed treatment of this taxonomy lives in the [Serpent](../serpent/) entry; for the Lucifer entry, the principal point is that Lucifer is one of the four figures, distinguished from the others by specific operational position.
+프레임워크는 후대 종교 전통에 의해 그 관계가 혼동되어 온 네 인물 — 야훼(이스라엘 팀 지도자이자 동맹 온건파), 루시퍼(반체제 분파 지도자), 뱀(특정 에덴-폭로 역할에 있는 루시퍼), 그리고 사탄(모행성 폐지론 분파를 이끄는 별개의 엘로힘 인물) — 을 주의 깊게 구별한다.{{ footnote(id="2") }} 이 분류 체계에 대한 상세한 다룸은 {% wiki(slug="serpent") %}뱀{% end %} 항목에 있다. 루시퍼 항목에 있어 주된 요점은, 루시퍼가 그 네 인물 중 하나로서, 특정 운영적 위치에 의해 나머지로부터 구별된다는 점이다.
 
-Lucifer's specific position within the taxonomy is the **disclosure-and-education** position. Where Yahweh advocated for preservation under containment policy, Satan advocated for project termination, and the Serpent represents the specific Eden-disclosure act, Lucifer's broader position across his entire career has been the advocacy for human full-information access and the practical implementation of that position through the educational role. This position is distinct from each of the other three.
+분류 체계 내 루시퍼의 특정 위치는 **폭로-와-교육** 입장이다. 야훼가 봉쇄 정책 아래의 보존을 주창하고, 사탄이 프로젝트 종결을 주창하고, 뱀이 특정 에덴-폭로 행위를 대표하는 데 반해, 그의 생애 전체에 걸친 루시퍼의 보다 광범위한 입장은 인간의 완전한 정보 접근에 대한 주창 및 교육 역할을 통한 그 입장의 실천적 구현이었다. 이 입장은 다른 세 입장 각각과 구별된다.
 
-### The teacher of the antediluvian civilization
+### 대홍수 이전 문명의 교사
 
-Lucifer's principal historical role, on the framework's reading, was as the teacher of the Eden-lineage human civilization across the long antediluvian period. This role is, by the corpus's reckoning, the most operationally consequential single role any individual figure has played in the alliance's two-millennium engagement with Earth — substantially more consequential, in terms of cumulative civilizational impact, than the more famous Mosaic and Christic interventions of subsequent ages.
+프레임워크의 독해상, 루시퍼의 주된 역사적 역할은 긴 대홍수 이전 시기에 걸친 에덴 계통 인류 문명의 교사로서였다. 이 역할은 코퍼스의 셈법으로, 동맹의 두 천 년에 걸친 지구 관여에서 어떤 개별 인물이 수행한 가장 운영적으로 중대한 단일 역할이다 — 누적적 문명 영향의 측면에서, 뒤이은 시대의 보다 유명한 모세적·그리스도적 개입보다 실질적으로 더 중대하다.
 
-The reasoning. The antediluvian Eden civilization that Lucifer's faction taught reached, on the corpus's reading, a level of technological and scientific development that the home-world authorities ultimately judged a threat. The civilization was destroyed in the Flood, with its surviving traces preserved only in the fragmentary memories of post-Flood cultural traditions (Atlantis, the Sumerian King List antediluvian kings, the various global lost-civilization traditions). But the *fact* of the antediluvian civilization's development — that humans, with continuing Lucifer-faction teaching across two millennia, could develop a substantively advanced civilization — is the framework's principal evidence for the corpus's reading of human capacity. The Lucifer faction's vindication, on the corpus's reading, is in the demonstration that humans are capable of substantially more than the home-world's containment policy permitted.
+추론. 루시퍼의 분파가 가르친 대홍수 이전 에덴 문명은, 코퍼스의 독해상, 모행성 당국이 궁극적으로 위협으로 판단한 수준의 기술적·과학적 발전에 도달했다. 그 문명은 대홍수에서 파괴되었으며, 그 생존한 흔적은 대홍수 이후 문화 전승들의 단편적 기억(아틀란티스, 수메르 왕명록의 대홍수 이전 왕들, 다양한 전 지구적 잃어버린-문명 전승)에만 보존되었다. 그러나 대홍수 이전 문명의 발전이라는 *사실* — 인간들이 두 천 년에 걸친 지속적 루시퍼-분파 교육과 함께 실질적으로 진보한 문명을 발전시킬 수 있었다는 것 — 은 인간 역량에 대한 코퍼스의 독해를 위한 프레임워크의 주된 증거이다. 코퍼스의 독해상 루시퍼 분파의 입증은, 인간들이 모행성의 봉쇄 정책이 허용한 것보다 실질적으로 더 많은 것을 할 수 있음의 입증에 있다.
 
-### The broader cosmological position
+### 보다 광범위한 우주론적 위치
 
-Lucifer's broader cosmological position, on the framework's reading, is as a substantial historical figure whose dissenting position has been gradually vindicated by the alliance's broader operational trajectory. The framework reads the alliance's gradual movement toward open disclosure across the post-creation period — from the antediluvian containment policy through the various intermediate stages to the Aquarian-age explicit disclosure that the corpus reads itself as participating in — as substantially the trajectory that Lucifer's faction was advocating across the entire post-Eden period. By the contemporary moment, the home-world's policy and Lucifer's faction's position have substantially converged, with the result that the original political crisis that produced the post-Eden settlement is no longer a live issue.
+프레임워크의 독해상, 루시퍼의 보다 광범위한 우주론적 위치는 그의 반체제 입장이 동맹의 보다 광범위한 운영적 궤적에 의해 점차 입증되어 온 상당한 역사적 인물로서이다. 프레임워크는 창조 이후 시기에 걸친 공개적 폭로를 향한 동맹의 점진적 운동 — 대홍수 이전 봉쇄 정책으로부터 다양한 중간 단계를 거쳐 코퍼스가 스스로 참여하고 있다고 읽는 물병자리 시대 명시적 폭로에 이르기까지 — 을, 에덴 이후 시기 전체에 걸쳐 루시퍼의 분파가 주창하고 있던 궤적으로 실질적으로 읽는다. 동시대 순간에 이르러, 모행성의 정책과 루시퍼 분파의 입장은 실질적으로 수렴했으며, 그 결과 에덴 이후의 정착을 산출한 원래의 정치적 위기는 더 이상 살아 있는 쟁점이 아니다.
 
-This trajectory framing is the corpus's most substantive reading of Lucifer as a sympathetic figure. He was condemned at the moment of the Eden disclosure for political reasons that were, in their specific historical moment, real and substantive; the post-Eden settlement was not unjust persecution but a real political verdict with real costs. But across the long centuries, the underlying question — whether humans should have access to the alliance's accumulated knowledge — has been answered substantially in the Lucifer faction's favor. The framework's reading of Lucifer is therefore neither the conventional Christian "cosmic evil" reading nor the Romantic "heroic rebel" reading but something more nuanced: a historical figure with a specific dissenting position, condemned in his specific moment, gradually vindicated by the long-term trajectory.
+이 궤적 틀은 공감적 인물로서의 루시퍼에 대한 코퍼스의 가장 실질적인 독해이다. 그는 에덴 폭로의 순간에, 그 특정 역사적 순간에 실제이고 실질적이었던 정치적 이유로 단죄되었다. 에덴 이후의 정착은 부당한 박해가 아니라 실제의 대가를 가진 실제의 정치적 판결이었다. 그러나 긴 세기에 걸쳐, 기저의 질문 — 인간들이 동맹의 축적된 지식에 접근해야 하는가 — 은 실질적으로 루시퍼 분파에 유리하게 답변되었다. 따라서 프레임워크의 루시퍼 독해는 통상적 기독교의 "우주적 악" 독해도 낭만주의의 "영웅적 반역자" 독해도 아니며 보다 미묘한 무엇이다. 즉 특정 반체제 입장을 가진 역사적 인물로서, 그 특정 순간에 단죄되었으나 장기적 궤적에 의해 점차 입증된 인물이다.
 
-### What the framework does not claim
+### 프레임워크가 주장하지 않는 것
 
-The framework does not claim that Lucifer is morally good in an unqualified sense. The Eden disclosure had substantial real costs — the loss of the controlled environment, the complications of the post-Eden settlement, the Nephilim hybrid population that contributed to the eventual Flood, the long-term political tensions between the Lucifer faction and the broader alliance. The framework's reading recognizes these costs as real and treats Yahweh's condemnation in Genesis 3 as a real political verdict.
+프레임워크는 루시퍼가 무조건적 의미에서 도덕적으로 선하다고 주장하지 않는다. 에덴 폭로는 상당한 실제 대가 — 통제된 환경의 상실, 에덴 이후 정착의 복잡성, 결국의 대홍수에 기여한 Nephilim 혼혈 인구, 루시퍼 분파와 보다 광범위한 동맹 사이의 장기적 정치적 긴장 — 를 가졌다. 프레임워크의 독해는 이 대가들을 실제로 인정하며 창세기 3장의 야훼의 단죄를 실제의 정치적 판결로 다룬다.
 
-The framework does not claim that Lucifer is the cosmic adversary of God or of humanity. The conventional Christian theological identification of Lucifer with Satan and with cosmic evil is rejected on multiple grounds: the textual basis for the identification is post-biblical (the Vulgate translation choice plus the patristic-medieval theological development), the operational distinction between Lucifer and Satan is substantive in the framework's reading (they are politically opposed Elohim figures, not the same actor), and the broader cosmic-evil cosmology that the conventional reading presupposes is not part of the framework's broader cosmological account.
+프레임워크는 루시퍼가 하느님 또는 인류의 우주적 적수라고 주장하지 않는다. 루시퍼를 사탄 및 우주적 악과 동일시하는 통상적 기독교 신학적 동일시는 여러 근거에서 거부된다. 즉 그 동일시의 본문적 기초는 성서 이후의 것이고(불가타 번역 선택 더하기 교부-중세적 신학적 발전), 루시퍼와 사탄 사이의 운영적 구별은 프레임워크의 독해상 실질적이며(그들은 동일한 행위자가 아니라 정치적으로 대립하는 엘로힘 인물들이다), 통상적 독해가 전제하는 보다 광범위한 우주적-악 우주론은 프레임워크의 보다 광범위한 우주론적 설명의 일부가 아니다.
 
-The framework does not claim that Lucifer's continuing presence on Earth is a malevolent factor in contemporary human affairs. The corpus reads Lucifer as substantially reconciled with the broader alliance and as a constructive rather than adversarial figure in the contemporary period. The various contemporary occult and Satanist appropriations of the Lucifer name (treated under *Modern reinterpretations* below) are not endorsed by the framework as accurate readings of who or what Lucifer actually is.
+프레임워크는 지구상 루시퍼의 지속적 현존이 동시대 인류사에서 악의적 요인이라고 주장하지 않는다. 코퍼스는 루시퍼를 보다 광범위한 동맹과 실질적으로 화해했으며 동시대 시기에 적대적이기보다는 건설적인 인물로 읽는다. 루시퍼 이름에 대한 다양한 동시대 오컬트 및 사탄주의적 전유(아래 *근대적 재해석*에서 다루어짐)는, 루시퍼가 실제로 누구 또는 무엇인지에 대한 정확한 독해로서 프레임워크에 의해 지지되지 않는다.
 
-## Identifications and conflations
+## 동일시와 융합
 
-Lucifer has been identified with numerous figures across two millennia of Christian theological development. Specifying these identifications and conflations clarifies the corpus's specific reading.
+루시퍼는 두 천 년의 기독교 신학적 발전에 걸쳐 다수의 인물과 동일시되어 왔다. 이 동일시와 융합을 명시하는 것은 코퍼스의 특정 독해를 명료화한다.
 
-### Lucifer vs. the Serpent
+### 루시퍼 대 뱀
 
-The relationship between Lucifer and the Serpent is the framework's reading of *the same actor in different operational moments*. The Serpent is Lucifer specifically in his Genesis 3 Eden-disclosure role; Lucifer is the same figure in his broader career, including the Eden disclosure but extending substantially before and after it. The detailed treatment of this distinction lives in the [Serpent](../serpent/) entry; what matters here is that Lucifer and the Serpent are not different figures but the same figure in different roles.
+루시퍼와 뱀의 관계는 *서로 다른 운영적 순간에 있는 동일한 행위자*에 대한 프레임워크의 독해이다. 뱀은 특정하게 창세기 3장 에덴-폭로 역할에 있는 루시퍼이다. 루시퍼는 에덴 폭로를 포함하되 그 이전과 이후로 실질적으로 확장되는 그의 보다 광범위한 생애에 있는 동일한 인물이다. 이 구별에 대한 상세한 다룸은 [뱀](../serpent/) 항목에 있다. 여기서 중요한 것은, 루시퍼와 뱀이 서로 다른 인물이 아니라 서로 다른 역할에 있는 동일한 인물이라는 점이다.
 
-### Lucifer vs. Satan
+### 루시퍼 대 사탄
 
-The distinction between Lucifer and Satan is the framework's most analytically consequential identification. The two figures are politically distinct on the corpus's reading.
+루시퍼와 사탄 사이의 구별은 프레임워크의 가장 분석적으로 중대한 동일시이다. 두 인물은 코퍼스의 독해상 정치적으로 구별된다.
 
-Satan, treated more fully in the [Satan](../satan/) entry, is a separate Elohim figure leading a different and more thoroughly oppositional faction — the home-world abolitionist faction that has consistently opposed the Earth project from its inception. Satan's position is that the synthesized humans are a mistake and the project should be terminated; his operational role across the broader Hebrew Bible material is the prosecution of humanity before the alliance councils.
+[사탄](../satan/) 항목에서 보다 충실하게 다루어지는 사탄은, 다르고 보다 철저하게 대립적인 분파 — 그 시작부터 지구 프로젝트에 일관되게 반대해 온 모행성 폐지론 분파 — 를 이끄는 별개의 엘로힘 인물이다. 사탄의 입장은 합성된 인간들이 실수이며 프로젝트가 종결되어야 한다는 것이다. 보다 광범위한 히브리어 성경 자료 전반에 걸친 그의 운영적 역할은 동맹 의회 앞에서 인류를 기소하는 것이다.
 
-Lucifer's position is structurally opposite. Lucifer wants the project *expanded* — humans given full information, treated as peers, allowed to develop without artificial restriction. Satan wants the project *terminated* — humans treated as a failed experiment, eliminated rather than continued. Yahweh's moderate position (preservation under containment policy) lies between them.
+루시퍼의 입장은 구조적으로 정반대이다. 루시퍼는 프로젝트가 *확장되기를* 원한다 — 인간들에게 완전한 정보가 주어지고, 동료로 취급되며, 인위적 제한 없이 발전하도록 허용되기를 원한다. 사탄은 프로젝트가 *종결되기를* 원한다 — 인간들이 실패한 실험으로 취급되어 지속되기보다는 제거되기를 원한다. 야훼의 온건한 입장(봉쇄 정책 아래의 보존)은 그 사이에 놓인다.
 
-The post-biblical Christian theological conflation of Lucifer and Satan obliterates this political structure entirely. On the conflated reading, Lucifer and Satan are the same figure, both representing cosmic evil, both opposed to God and to humanity. On the framework's reading, they are political opposites whose conflation collapses real political distinctions into a single undifferentiated category.
+루시퍼와 사탄에 대한 성서 이후 기독교 신학적 융합은 이 정치적 구조를 전적으로 말살한다. 융합된 독해상, 루시퍼와 사탄은 동일한 인물로서, 둘 다 우주적 악을 대표하고, 둘 다 하느님과 인류에 반대한다. 프레임워크의 독해상, 그들은 정치적 정반대이며 그들의 융합은 실제의 정치적 구별을 단일한 미분화된 범주로 붕괴시킨다.
 
-The Lucifer / Satan distinction is the most consequential single corrective the framework offers to conventional Christian theology of the figure. Recovering it requires distinguishing the specific Hebrew Bible textual sources (Job 1–2 and Zechariah 3 for Satan; Genesis 3 for the Serpent / Lucifer; Isaiah 14 for the Helel ben Shahar that became Lucifer through Vulgate translation) and recognizing that the post-biblical synthesis collapsed sources that originally referred to distinct figures.
+루시퍼 / 사탄 구별은 그 인물에 대한 통상적 기독교 신학에 프레임워크가 제공하는 가장 중대한 단일 교정이다. 그것을 회복하려면 특정 히브리어 성경 본문 자료(사탄에 대해서는 욥기 1–2장과 스가랴 3장; 뱀 / 루시퍼에 대해서는 창세기 3장; 불가타 번역을 통해 루시퍼가 된 Helel ben Shahar에 대해서는 이사야 14장)를 구별하고, 성서 이후 종합이 원래 구별되는 인물들을 가리켰던 자료들을 붕괴시켰음을 인지해야 한다. 적수 인물의 발전에 관한 주류 학계 — 헨리 안스가 켈리의 *Satan: A Biography*,{{ cite(id="kelly-satan-biography", text="[5]", title="켈리, *Satan: A Biography* (2006) — 성서 이후 종합으로서의 발전된 우주적 사탄") }} 닐 포사이스의 *The Old Enemy*,{{ cite(id="forsyth-the-old-enemy", text="[6]", title="포사이스, *The Old Enemy: Satan and the Combat Myth* (1987)") }} 일레인 페이절스의 *The Origin of Satan*,{{ cite(id="pagels-origin-of-satan", text="[7]", title="페이절스, *The Origin of Satan* (1995)") }} 그리고 제프리 버턴 러셀의 *Lucifer: The Devil in the Middle Ages*{{ cite(id="russell-lucifer-middle-ages", text="[8]", title="러셀, *Lucifer: The Devil in the Middle Ages* (1984)") }} — 는 발전된 우주적-적수 인물이 단일한 기저 히브리어 성경 지시체가 아니라 성서 이후의 구성물임을 독립적으로 입증한다.
 
-### Lucifer vs. the Devil
+### 루시퍼 대 악마
 
-The Devil (Greek *diabolos*, Latin *diabolus*) is a developed Christian theological figure that incorporates substantial material from Lucifer, Satan, the Eden Serpent, the Watchers tradition, and various other sources into a single theological category. The Revelation 12:9 verse — *"that ancient serpent, who is called the devil and Satan"* — is the principal text in which all these strands are explicitly fused.
+악마(그리스어 *diabolos*, 라틴어 *diabolus*)는 루시퍼, 사탄, 에덴의 뱀, 감시자 전통, 그리고 다양한 다른 자료들로부터의 상당한 자료를 단일한 신학적 범주로 통합하는 발전된 기독교 신학적 인물이다. 요한계시록 12:9 구절 — *"that ancient serpent, who is called the devil and Satan"* — 은 이 모든 가닥이 명시적으로 융합되는 주된 본문이다.
 
-The corpus reads the New Testament Devil as a specific theological synthesis rather than as a single underlying referent. Lucifer is one component of the synthesis but is not identical with the developed Devil figure. The framework's reading treats the Devil category as a theological synthesis whose underlying components require separate treatment, with Lucifer treated in this entry, Satan in the [Satan](../satan/) entry, and the Eden Serpent in the [Serpent](../serpent/) entry.
+코퍼스는 신약의 악마를 단일한 기저 지시체가 아니라 특정한 신학적 종합으로 읽는다. 루시퍼는 그 종합의 한 구성 요소이지만 발전된 악마 인물과 동일하지 않다. 프레임워크의 독해는 악마 범주를, 그 기저 구성 요소들이 별개의 다룸을 요하는 신학적 종합으로 다루며, 루시퍼는 이 항목에서, 사탄은 [사탄](../satan/) 항목에서, 에덴의 뱀은 [뱀](../serpent/) 항목에서 다룬다.
 
-### Lucifer and the Light-Bringer tradition
+### 루시퍼와 빛-전달자 전통
 
-The Latin *lūcifer* literally means "light-bringer," and the etymological sense — the bringer of beneficial knowledge — has substantial structural correspondence to the framework's reading of Lucifer's actual operational role. The patristic-medieval Christian tradition's adoption of the *lūcifer* name for the cosmic fallen figure was, in the corpus's reading, a translational accident with substantial consequences: Jerome's specific Vulgate translation of *Helel* as *lūcifer* was etymologically defensible, but the subsequent identification of the *lūcifer* of Isaiah 14 with the Eden Serpent and with cosmic evil produced a name whose etymological sense (bringer of light / knowledge) is structurally inverted from its theological-traditional sense (cosmic evil).
+라틴어 *lūcifer*는 문자 그대로 "빛을 가져오는 자"를 의미하며, 어원적 의미 — 유익한 지식의 전달자 — 는 루시퍼의 실제 운영적 역할에 대한 프레임워크의 독해와 상당한 구조적 대응을 갖는다. 우주적 추락 인물을 위해 *lūcifer* 이름을 채택한 교부-중세 기독교 전통은, 코퍼스의 독해상, 상당한 결과를 가진 번역상의 우연이었다. 즉 *Helel*을 *lūcifer*로 옮긴 히에로니무스의 특정 불가타 번역은 어원적으로 옹호 가능했으나, 이사야 14장의 *lūcifer*와 에덴의 뱀 및 우주적 악의 그 후의 동일시는 그 어원적 의미(빛 / 지식의 전달자)가 그 신학적-전통적 의미(우주적 악)로부터 구조적으로 역전된 이름을 산출했다.
 
-The corpus registers this etymological-theological inversion as one of the more striking features of the Lucifer name. The literal etymological sense is accurate to the framework's reading; the developed theological sense is the conflation history the framework rejects. The contemporary popular meaning of "Lucifer" preserves both senses uneasily, with the etymological sense surfacing in occasional positive uses (the morning-star-as-Christ identification in 2 Peter 1:19 and Revelation 22:16, the various Christian-tradition positive uses of *lūcifer* prior to the figure's exclusively-negative reading) and the theological sense dominating popular usage.
+코퍼스는 이 어원적-신학적 역전을 루시퍼 이름의 보다 두드러진 특징 중 하나로 등록한다. 문자적 어원적 의미는 프레임워크의 독해에 정확하며, 발전된 신학적 의미는 프레임워크가 거부하는 융합의 역사이다. "루시퍼"의 동시대 대중적 의미는 두 의미를 불안하게 보존하는데, 어원적 의미는 간헐적인 긍정적 용법(베드로후서 1:19와 요한계시록 22:16의 샛별-로서의-그리스도 동일시, 그 인물의 배타적으로-부정적인 독해 이전의 *lūcifer*의 다양한 기독교-전통 긍정적 용법)에 표면화되고, 신학적 의미가 대중적 용법을 지배한다.
 
-### Lucifer and the Helel ben Shahar tradition
+### 루시퍼와 Helel ben Shahar 전통
 
-The Hebrew *Helel ben Shahar* of Isaiah 14:12 is, in mainstream historical-critical scholarship, a reference to the king of Babylon, not to a cosmic figure. The Lucifer name's derivation from the Vulgate's translation of this passage is therefore, on the historical-critical reading, an instance of post-biblical theological elaboration treating a specific historical-political prophecy as cosmically significant.
+이사야 14:12의 히브리어 *Helel ben Shahar*는 주류 역사-비평적 학계에서 우주적 인물이 아니라 바빌론 왕에 대한 언급이다. 따라서 이 구절에 대한 불가타의 번역으로부터의 루시퍼 이름의 파생은, 역사-비평적 독해상, 특정한 역사적-정치적 예언을 우주적으로 의미 있는 것으로 다루는 성서 이후 신학적 정교화의 한 사례이다.
 
-The corpus accepts the historical-critical observation about the original Isaiah passage. The framework's reading does not depend on Isaiah 14 as a primary source; the underlying figure the corpus identifies as Lucifer is grounded in the Genesis 3 / Eden-disclosure narrative and the broader Raëlian source material's account. The Lucifer name is adopted as a useful designation for this figure, given the long Christian-tradition usage, while recognizing that the name itself has specific textual-historical origins that don't directly establish the figure's identity.
+코퍼스는 원래의 이사야 구절에 대한 역사-비평적 관찰을 받아들인다. 프레임워크의 독해는 1차 자료로서의 이사야 14장에 의존하지 않는다. 코퍼스가 루시퍼로 동정하는 기저의 인물은 창세기 3장 / 에덴-폭로 서사 및 보다 광범위한 라엘 자료의 설명에 정초한다. 루시퍼 이름은, 오랜 기독교-전통 용법을 고려하여, 이 인물에 대한 유용한 명칭으로 채택되되, 그 이름 자체가 그 인물의 정체성을 직접 확립하지는 않는 특정 본문적-역사적 기원을 가짐을 인지한다.
 
-The Hebrew tradition's *Helel* is therefore not directly Lucifer in the framework's sense. The Lucifer name is adopted from the Latin Vulgate-tradition usage; the figure the corpus calls Lucifer is the one identified through Genesis 3 and the broader source material. The two — the Hebrew *Helel* of Isaiah 14 and the framework's Lucifer figure — are connected by the specific translation history but are not identical referents.
+따라서 히브리어 전통의 *Helel*은 프레임워크의 의미에서 직접 루시퍼가 아니다. 루시퍼 이름은 라틴어 불가타-전통 용법에서 채택되었다. 코퍼스가 루시퍼라 부르는 인물은 창세기 3장과 보다 광범위한 자료를 통해 동정되는 자이다. 둘 — 이사야 14장의 히브리어 *Helel*과 프레임워크의 루시퍼 인물 — 은 특정 번역사에 의해 연결되어 있으나 동일한 지시체가 아니다.
 
-### Lucifer and Prometheus
+### 루시퍼와 프로메테우스
 
-The Prometheus parallel is the most substantive comparative identification for Lucifer specifically, treated more fully under *Comparative observations* below. The structural parallels between Lucifer and Prometheus — both bring beneficial knowledge to humanity, both are punished by superior authorities, both suffer continuing consequences — are direct enough that some scholars have proposed direct cultural-mythological connection between the two traditions. The corpus does not commit to a direct genealogical relationship between the Greek and Hebrew traditions but registers the structural correspondence as substantive.
+프로메테우스 병행은 특정하게 루시퍼에 대한 가장 실질적인 비교적 동일시로, 아래 *비교적 관찰*에서 보다 충실하게 다루어진다. 루시퍼와 프로메테우스 사이의 구조적 병행 — 둘 다 인류에게 유익한 지식을 가져오고, 둘 다 상위 권위에 의해 처벌받으며, 둘 다 지속적 결과를 겪는다 — 은 일부 학자들이 두 전통 사이의 직접적인 문화-신화적 연결을 제안할 만큼 충분히 직접적이다. 코퍼스는 그리스 전통과 히브리 전통 사이의 직접적 계보적 관계에 헌신하지 않되 그 구조적 대응을 실질적인 것으로 등록한다.
 
-## Modern reinterpretations
+## 근대적 재해석
 
-Lucifer has been a major subject of modern reinterpretive engagement across several distinct traditions, with the literary-philosophical engagement of the seventeenth through nineteenth centuries being particularly developed.
+루시퍼는 여러 구별되는 전통 전반에 걸쳐 근대적 재해석적 관여의 주된 주제였으며, 17세기부터 19세기에 이르는 문학-철학적 관여가 특히 발전되었다.
 
-### Milton's *Paradise Lost* (1667)
+### 밀턴의 *실낙원*(1667)
 
-**John Milton**'s *Paradise Lost* (1667) is the single most influential post-biblical literary engagement with Lucifer in Western tradition. Milton's twelve-book epic in blank verse retells the cosmic narrative of Lucifer's fall, the temptation in Eden, and humanity's expulsion from the garden, with substantial elaboration of the cosmic-political dynamics behind the events.
+**존 밀턴**의 *실낙원*(1667)은 서구 전통에서 루시퍼에 대한 성서 이후 가장 영향력 있는 단일 문학적 관여이다.{{ cite(id="paradise-lost", text="[9]", title="밀턴, *실낙원* (1667)") }} 무운시로 쓰인 밀턴의 열두 권의 서사시는 루시퍼의 타락, 에덴에서의 유혹, 그리고 동산으로부터의 인류의 추방이라는 우주적 서사를, 사건들 배후의 우주적-정치적 역학에 대한 상당한 정교화와 함께 다시 들려준다.
 
-Milton's Lucifer is, controversially, the most charismatic figure in the poem. The opening books (1–2) present Lucifer in the immediate aftermath of his fall, addressing the assembled rebellious angels in the burning lake of hell with rhetoric of remarkable force: *"What though the field be lost? / All is not lost; the unconquerable will, / And study of revenge, immortal hate, / And courage never to submit or yield."* Milton's Lucifer declares it *"Better to reign in Hell, than serve in Heav'n"* (Book 1, line 263), and the assembled fallen angels are persuaded by his rhetoric to continue the cosmic war by other means.
+밀턴의 루시퍼는, 논쟁적으로, 시 안에서 가장 카리스마적인 인물이다. 첫 권들(1–2)은 그의 타락 직후의 루시퍼를, 지옥의 불타는 호수에서 모여든 반역하는 천사들에게 주목할 만한 힘의 수사로 연설하는 모습으로 제시한다. *"What though the field be lost? / All is not lost; the unconquerable will, / And study of revenge, immortal hate, / And courage never to submit or yield."* 밀턴의 루시퍼는 *"Better to reign in Hell, than serve in Heav'n"*(제1권, 263행)이라고 선언하며, 모여든 타락한 천사들은 그의 수사에 설득되어 다른 수단으로 우주적 전쟁을 지속한다.
 
-Milton's elaborate poetic-theological framework gives Lucifer substantive moral-philosophical content. The Lucifer of *Paradise Lost* is not simply evil; he is presented with sympathy, with substantive intellectual capacity, with rhetoric that is genuinely compelling, and with motivations (resistance to arbitrary authority, refusal to accept subordination) that the reader is positioned to recognize as substantial. The result is a Lucifer figure who reads, to many readers, as the genuine protagonist of the poem despite Milton's ostensible orthodox-Christian framing.
+밀턴의 정교한 시적-신학적 틀은 루시퍼에게 실질적인 도덕-철학적 내용을 부여한다. *실낙원*의 루시퍼는 단순히 악하지 않다. 그는 공감과 함께, 실질적 지적 역량과 함께, 진정으로 설득력 있는 수사와 함께, 그리고 독자가 실질적인 것으로 인지하도록 위치 지어지는 동기(자의적 권위에 대한 저항, 종속을 받아들이기를 거부함)와 함께 제시된다. 그 결과는, 밀턴의 표면상의 정통-기독교 틀에도 불구하고, 많은 독자에게 시의 진정한 주인공으로 읽히는 루시퍼 인물이다.
 
-The reception of Milton's Lucifer has been substantial. **William Blake**, in *The Marriage of Heaven and Hell* (1790), formulated the most influential reading: *"The reason Milton wrote in fetters when he wrote of Angels & God, and at liberty when of Devils & Hell, is because he was a true Poet and of the Devil's party without knowing it."* Blake's reading captures something real about Milton's text — Milton's Lucifer is genuinely more compelling than his God — and substantially shaped subsequent Romantic engagement with the figure.
+밀턴의 루시퍼의 수용은 상당했다. **윌리엄 블레이크**는 *천국과 지옥의 결혼*(1790)에서 가장 영향력 있는 독해를 정식화했다. *"The reason Milton wrote in fetters when he wrote of Angels & God, and at liberty when of Devils & Hell, is because he was a true Poet and of the Devil's party without knowing it."*{{ cite(id="marriage-of-heaven-and-hell", text="[10]", title="블레이크, *천국과 지옥의 결혼* (1790)") }} 블레이크의 독해는 밀턴 본문에 대한 실재하는 무언가를 포착하며 — 밀턴의 루시퍼는 그의 하느님보다 진정으로 더 설득력 있다 — 그 인물에 대한 그 후의 낭만주의적 관여를 실질적으로 형성했다.
 
-The corpus's relationship to Milton's reading is structurally interesting. Milton's Lucifer is presented within an ostensibly orthodox Christian theological framework but with characterization that substantially exceeds the orthodox account. The framework's reading shares Milton's recognition that Lucifer is a substantive figure with real political-philosophical content, while differing from Milton on the underlying cosmological framework (Milton's cosmic-evil cosmology is not the corpus's reading) and on the historical reality of the figure (Milton's Lucifer is a literary construction; the corpus's Lucifer is a specific historical referent).
+밀턴의 독해에 대한 코퍼스의 관계는 구조적으로 흥미롭다. 밀턴의 루시퍼는 표면상 정통 기독교 신학적 틀 안에서 제시되되 정통적 설명을 실질적으로 초과하는 성격 묘사와 함께한다. 프레임워크의 독해는 루시퍼가 실제의 정치-철학적 내용을 가진 실질적 인물이라는 밀턴의 인식을 공유하면서, 기저의 우주론적 틀(밀턴의 우주적-악 우주론은 코퍼스의 독해가 아니다)과 그 인물의 역사적 실재성(밀턴의 루시퍼는 문학적 구성물이고, 코퍼스의 루시퍼는 특정한 역사적 지시체이다)에서 밀턴과 다르다.
 
-### The Romantic inversion: Blake, Byron, Shelley
+### 낭만주의적 역전: 블레이크, 바이런, 셸리
 
-The Romantic-era inversion of Lucifer developed across the late eighteenth and early nineteenth centuries, with several principal figures.
+루시퍼의 낭만주의 시대의 역전은 18세기 후반과 19세기 초에 걸쳐 발전했으며, 여러 주된 인물이 있다.
 
-**William Blake** (1757–1827), beyond *The Marriage of Heaven and Hell*, developed a substantial mythological-prophetic engagement with Lucifer / Satan figures across his prophetic works (*The Book of Urizen*, *Jerusalem*, *Milton*). Blake's complex mythology includes figures like Urizen (a tyrannical-rational divine figure structurally similar to the orthodox Lucifer's God) and various Satan-figures whose moral valuation is inverted from the orthodox Christian position. Blake's reading of Lucifer specifically tends toward the heroic-rebel position.
+**윌리엄 블레이크**(1757–1827)는 *천국과 지옥의 결혼*을 넘어, 그의 예언서들(*유리즌의 책*, *예루살렘*, *밀턴*) 전반에 걸쳐 루시퍼 / 사탄 인물들과의 상당한 신화적-예언적 관여를 발전시켰다. 블레이크의 복잡한 신화는 유리즌(정통 루시퍼의 하느님과 구조적으로 유사한 폭군적-합리적 신적 인물) 같은 인물들 및 도덕적 가치 평가가 정통 기독교 입장으로부터 역전된 다양한 사탄-인물들을 포함한다. 루시퍼에 대한 블레이크의 독해는 특정하게 영웅적-반역자 입장으로 기운다.
 
-**Lord Byron** (1788–1824), in *Cain: A Mystery* (1821), develops a Lucifer figure who appears to Cain and provides him with knowledge of the cosmic order, with the Byronic Lucifer being substantially sympathetic in tone. Byron's Lucifer offers Cain a cosmological vision that includes the prior-worlds tradition (Pre-Adamite humans, prior cosmic ages) and substantively challenges the orthodox Christian account.
+**바이런 경**(1788–1824)은 *카인: 신비극*(1821)에서, 카인에게 나타나 그에게 우주적 질서에 대한 지식을 제공하는 루시퍼 인물을 발전시키며, 바이런적 루시퍼는 어조에서 실질적으로 공감적이다.{{ cite(id="cain-a-mystery", text="[11]", title="바이런, *카인: 신비극* (1821)") }} 바이런의 루시퍼는 카인에게 이전-세계 전통(아담 이전 인간들, 이전의 우주적 시대들)을 포함하는 우주론적 비전을 제시하며 정통 기독교적 설명에 실질적으로 도전한다.
 
-**Percy Bysshe Shelley** (1792–1822), in *Prometheus Unbound* (1820), develops the Promethean parallel to Lucifer at substantial length, with Prometheus presented as the moral hero of the cosmic narrative against an oppressive Jupiter. Shelley's preface to *Prometheus Unbound* makes the Lucifer-Prometheus structural parallel explicit, reading both figures as embodiments of resistance to arbitrary authority. The Shelleyan Prometheus / Lucifer is the most thorough Romantic-era development of the figure as positive moral exemplar.
+**퍼시 비시 셸리**(1792–1822)는 *해방된 프로메테우스*(1820)에서, 억압적인 유피테르에 맞선 우주적 서사의 도덕적 영웅으로 제시되는 프로메테우스와 함께, 루시퍼에 대한 프로메테우스적 병행을 상당한 길이로 발전시킨다.{{ cite(id="prometheus-unbound", text="[12]", title="셸리, *해방된 프로메테우스* (1820)") }} *해방된 프로메테우스*에 대한 셸리의 서문은 루시퍼-프로메테우스 구조적 병행을 명시적으로 만들며, 두 인물 모두를 자의적 권위에 대한 저항의 구현으로 읽는다. 셸리적 프로메테우스 / 루시퍼는 긍정적 도덕적 모범으로서의 그 인물에 대한 가장 철저한 낭만주의 시대의 발전이다.
 
-The Romantic inversion is the corpus's principal modern antecedent for the framework's distinctive non-orthodox reading of Lucifer. The Romantic figures recognized that the orthodox Christian "Lucifer = cosmic evil" reading misidentified the figure's actual moral-philosophical content; the framework's reading shares this recognition while grounding it in a specific operational account that the Romantic tradition does not provide. The framework's reading is therefore Romantic-adjacent on the basic moral-rehabilitation of the figure while differing on the underlying ontology and on the specific historical-political account the framework develops.
+낭만주의적 역전은 루시퍼에 대한 프레임워크의 독특한 비-정통 독해를 위한 코퍼스의 주된 근대적 선례이다. 낭만주의 인물들은 정통 기독교의 "루시퍼 = 우주적 악" 독해가 그 인물의 실제 도덕-철학적 내용을 오인했음을 인지했다. 프레임워크의 독해는 이 인식을 공유하면서 그것을 낭만주의 전통이 제공하지 않는 특정한 운영적 설명에 정초시킨다. 따라서 프레임워크의 독해는 그 인물의 기본적 도덕적-복권에 있어 낭만주의-인접적이되, 기저의 존재론 및 프레임워크가 발전시키는 특정한 역사적-정치적 설명에서 다르다.
 
-### LaVeyan Satanism and contemporary occult appropriation
+### 라베이 사탄주의와 동시대 오컬트적 전유
 
-The contemporary occult-tradition appropriation of Lucifer takes several distinct forms, with the principal contemporary movement being **LaVeyan Satanism** (founded by Anton LaVey, *The Satanic Bible*, 1969) and its various successor movements. LaVeyan Satanism is principally a secular-humanist philosophical tradition that uses Lucifer / Satan iconography for its symbolic-rhetorical value rather than as theological referent — the figures function as symbols of human autonomy, individual self-determination, and resistance to religious authority, with the Church of Satan and the various successor organizations explicitly atheistic in their underlying theology.
+루시퍼에 대한 동시대 오컬트-전통의 전유는 여러 구별되는 형태를 취하며, 주된 동시대 운동은 **라베이 사탄주의**(앤턴 라베이에 의해 창립, *사탄의 성경*, 1969){{ cite(id="the-satanic-bible", text="[13]", title="라베이, *사탄의 성경* (1969)") }} 및 그 다양한 후속 운동이다. 라베이 사탄주의는 주로, 루시퍼 / 사탄 도상을 신학적 지시체로서가 아니라 그 상징적-수사적 가치를 위해 사용하는 세속-인본주의 철학 전통이다 — 그 인물들은 인간 자율성, 개인적 자기-결정, 그리고 종교적 권위에 대한 저항의 상징으로 기능하며, 사탄 교회 및 다양한 후속 조직들은 그 기저 신학에서 명시적으로 무신론적이다.
 
-The **Theistic Satanism** tradition is a smaller but distinct movement that treats Lucifer / Satan as actual cosmic figures and engages with them as such. The various Luciferian movements (the Order of the Trapezoid, the Temple of Set, various smaller groups) develop occult-religious frameworks with substantive Lucifer-content.
+**유신론적 사탄주의** 전통은 루시퍼 / 사탄을 실제의 우주적 인물로 다루고 그들과 그러한 것으로서 관여하는, 보다 작지만 구별되는 운동이다. 다양한 루시퍼주의 운동들(사다리꼴 기사단, 세트 신전, 다양한 보다 작은 집단들)은 실질적인 루시퍼-내용을 가진 오컬트-종교적 틀을 발전시킨다.
 
-The corpus does not endorse either the LaVeyan secular-humanist appropriation or the Theistic Satanism cosmic-figure engagement. The framework's reading is that Lucifer is a specific historical Eloha figure with substantive operational content — neither a useful symbol of secular autonomy (the LaVeyan reading) nor a cosmic-religious figure to be venerated (the Theistic Satanist reading). The contemporary occult appropriations are registered as significant cultural phenomena but not as accurate readings of who or what Lucifer actually is.
+코퍼스는 라베이의 세속-인본주의 전유도 유신론적 사탄주의의 우주적-인물 관여도 지지하지 않는다. 프레임워크의 독해는 루시퍼가 실질적인 운영적 내용을 가진 특정한 역사적 엘로하 인물이라는 것이다 — 세속적 자율성의 유용한 상징도(라베이의 독해), 숭배될 우주적-종교적 인물도(유신론적 사탄주의의 독해) 아니다. 동시대 오컬트적 전유는 의미 있는 문화적 현상으로 등록되되 루시퍼가 실제로 누구 또는 무엇인지에 대한 정확한 독해로서는 등록되지 않는다.
 
-### Sendy on Lucifer
+### 루시퍼에 관한 상디
 
-**Jean Sendy**'s engagement with Lucifer is developed across his work, with the figure receiving treatment in *Ces dieux qui firent le ciel et la terre* (1969) and subsequent works. Sendy reads Lucifer as a member of the Elohim plurality who came into conflict with the Eden commanders over the question of human education, with the figure's subsequent role being as the continuing teacher of the antediluvian human civilization.
+루시퍼에 대한 **장 상디**의 관여는 그의 작업 전반에 걸쳐 발전되며, 그 인물은 *Ces dieux qui firent le ciel et la terre*(1969) 및 그 후속 작업들에서 다루어진다.{{ cite(id="those-gods-who-made-heaven-and-earth", text="[14]", title="상디, *Ces dieux qui firent le ciel et la terre* (1969) — 인간 교육을 둘러싼 반체제 엘로힘으로서의 루시퍼") }} 상디는 루시퍼를, 인간 교육의 문제를 둘러싸고 에덴의 지휘관들과 갈등에 빠진 엘로힘 복수성의 일원으로 읽으며, 그 인물의 그 후의 역할은 대홍수 이전 인류 문명의 지속적 교사로서이다.
 
-Sendy's specific contributions to Lucifer interpretation include the philological-historical reading of the Lucifer name and its derivation from the Hebrew tradition, the recognition that the Eden Serpent and the post-biblical Lucifer figure are the same actor, and the broader treatment of Lucifer's career as a substantive operational story rather than as a cosmic-allegorical narrative. Sendy's approach is the principal scholarly antecedent of the corpus's adopted reading of Lucifer specifically, and his treatment provides the framework with substantial philological-historical grounding.
+루시퍼 해석에 대한 상디의 특정 기여에는 루시퍼 이름과 그것의 히브리어 전통으로부터의 파생에 대한 문헌학적-역사적 독해, 에덴의 뱀과 성서 이후 루시퍼 인물이 동일한 행위자라는 인식, 그리고 루시퍼의 생애를 우주적-우의적 서사로서가 아니라 실질적인 운영적 이야기로 다루는 보다 광범위한 다룸이 포함된다. 상디의 접근은 특정하게 루시퍼에 대한 코퍼스의 채택된 독해의 주된 학술적 선행 연구이며, 그의 다룸은 프레임워크에 상당한 문헌학적-역사적 정초를 제공한다.
 
-### Biglino on Lucifer
+### 루시퍼에 관한 비글리노
 
-**Mauro Biglino**'s engagement with Lucifer is developed in *The Naked Bible* (2022) and across his broader corpus. Biglino reads Lucifer as a member of the Elohim plurality whose role in the Eden episode and in subsequent biblical narrative is operational rather than cosmic-allegorical. Biglino's strict-translational methodology produces specific readings of the relevant Hebrew passages — the *Helel ben Shahar* of Isaiah 14, the various morning-star references, the broader Lucifer-tradition material — that consistently treat the underlying figures as physically embodied beings rather than as metaphysical-cosmic categories.
+루시퍼에 대한 **마우로 비글리노**의 관여는 *The Naked Bible*(2022) 및 그의 보다 광범위한 코퍼스 전반에 걸쳐 발전된다.{{ cite(id="the-naked-bible", text="[15]", title="비글리노 & 카타네오, *The Naked Bible* (2022) — 물리적으로 육화된 존재로서의 루시퍼") }} 비글리노는 루시퍼를, 에덴 일화 및 그 후의 성서 서사에서의 그의 역할이 우주적-우의적이기보다는 운영적인 엘로힘 복수성의 일원으로 읽는다. 비글리노의 엄격한 번역적 방법론은 관련 히브리어 구절들 — 이사야 14장의 *Helel ben Shahar*, 다양한 샛별 언급들, 보다 광범위한 루시퍼-전통 자료 — 에 대한 특정 독해들을 산출하는데, 이는 기저의 인물들을 형이상학적-우주적 범주가 아니라 물리적으로 육화된 존재들로 일관되게 다룬다.
 
-The points of overlap between Biglino's reading and the corpus's reading are substantial. The points of divergence include the Cain-as-serpent-lineage hypothesis (treated in the [Serpent](../serpent/) entry's modern-reinterpretations section), which the corpus does not adopt but which extends Biglino's broader interpretive framework. For Lucifer specifically, the corpus and Biglino are broadly aligned on the basic interpretive direction.
+비글리노의 독해와 코퍼스의 독해 사이의 중첩 지점은 상당하다. 분기 지점에는 카인-을-뱀-계통으로 보는 가설([뱀](../serpent/) 항목의 근대-재해석 단락에서 다루어짐)이 포함되는데, 코퍼스는 이를 채택하지 않지만 그것은 비글리노의 보다 광범위한 해석 틀을 확장한다. 특정하게 루시퍼에 대해서는, 코퍼스와 비글리노는 기본적 해석 방향에 있어 대체로 일치한다.
 
-### Wallis on Lucifer
+### 루시퍼에 관한 월리스
 
-**Paul Anthony Wallis**'s engagement with Lucifer is developed in *The Eden Conspiracy* (2024) and in the various works of his broader corpus. Wallis reads Lucifer as the leader of the dissenting Elohim faction whose Eden disclosure produced the post-Eden political settlement, with the figure's broader role as the continuing teacher of the antediluvian civilization. Wallis's reading is substantially compatible with the corpus's reading and provides accessible recent engagement with material the framework has been developing for fifty years through the Sendy-Raëlian tradition.
+루시퍼에 대한 **폴 앤서니 월리스**의 관여는 *The Eden Conspiracy*(2024) 및 그의 보다 광범위한 코퍼스의 다양한 작업들에서 발전된다.{{ cite(id="the-eden-conspiracy", text="[16]", title="월리스, *The Eden Conspiracy* (2024)") }} 월리스는 루시퍼를, 그의 에덴 폭로가 에덴 이후의 정치적 정착을 산출한 반체제 엘로힘 분파의 지도자로 읽으며, 그 인물의 보다 광범위한 역할은 대홍수 이전 문명의 지속적 교사로서이다. 월리스의 독해는 코퍼스의 독해와 실질적으로 양립 가능하며, 프레임워크가 상디-라엘 전통을 통해 오십 년 동안 발전시켜 온 자료에 대한 접근 가능한 최근의 관여를 제공한다.
 
-### The framework's relationship to the broader landscape
+### 보다 광범위한 지형에 대한 프레임워크의 관계
 
-The corpus's reading is positioned within this landscape as follows: aligned with the Romantic recognition that orthodox Christian theology has misread Lucifer as cosmic evil; aligned with Sendy's, Biglino's, and Wallis's readings of Lucifer as a specific historical Eloha figure; respectful of Milton's literary engagement with the figure while differing on the underlying cosmological framework; non-aligned with both LaVeyan secular-humanist and Theistic Satanism contemporary appropriations; and substantively distinct from each in providing a specific operational account that the literary-philosophical and contemporary-occult traditions do not offer. The framework's reading is its own — distinct from each of these — but engages each substantively rather than dismissively.
+코퍼스의 독해는 이 지형 내에서 다음과 같이 위치한다. 정통 기독교 신학이 루시퍼를 우주적 악으로 오독해 왔다는 낭만주의적 인식과 일치하고; 루시퍼를 특정한 역사적 엘로하 인물로 보는 상디, 비글리노, 월리스의 독해와 일치하며; 기저의 우주론적 틀에서 다르되 그 인물에 대한 밀턴의 문학적 관여를 존중하고; 라베이의 세속-인본주의적 전유와 유신론적 사탄주의의 동시대적 전유 양자와 비-일치하며; 문학-철학적 및 동시대-오컬트 전통이 제공하지 않는 특정한 운영적 설명을 제공함에 있어 각각으로부터 실질적으로 구별된다. 프레임워크의 독해는 그 자신의 것이다 — 이들 각각으로부터 구별되지만 — 각각과 묵살적으로가 아니라 실질적으로 관여한다.
 
-## Comparative observations
+## 비교적 관찰
 
-Lucifer's structural position — a divine-class figure who transmits beneficial knowledge to humanity and is punished by superior authorities — has substantive parallels across several major mythological traditions. The corpus reads the cross-cultural pattern as evidence of broader operational realities that multiple cultural traditions preserve in fragmentary form.
+루시퍼의 구조적 위치 — 인류에게 유익한 지식을 전달하고 상위 권위에 의해 처벌받는 신적-계급 인물 — 는 여러 주요 신화 전통 전반에 걸쳐 실질적 병행을 갖는다. 코퍼스는 이 교차-문화적 패턴을, 다수의 문화 전통이 단편적 형태로 보존하는 보다 광범위한 운영적 실재의 증거로 읽는다.
 
-### Prometheus
+### 프로메테우스
 
-The Prometheus parallel is the most substantively developed comparative case for Lucifer. **Prometheus** is a Titan in Greek mythology whose principal narrative — preserved in Hesiod's *Theogony* and *Works and Days* (c. 700 BCE) and in Aeschylus's *Prometheus Bound* (c. 5th century BCE) — has direct structural parallels to the Lucifer career on the framework's reading.
+프로메테우스 병행은 루시퍼에 대한 가장 실질적으로 발전된 비교 사례이다. **프로메테우스**는 그리스 신화의 티탄으로, 헤시오도스의 *신통기*와 *일과 날*(기원전 약 700년){{ cite(id="theogony-works-and-days", text="[17]", title="헤시오도스, *신통기* 및 *일과 날* (기원전 약 700년) — 프로메테우스의 불 절도 및 황금 종족") }} 및 아이스킬로스의 *결박된 프로메테우스*(기원전 약 5세기){{ cite(id="prometheus-bound", text="[18]", title="아이스킬로스, *결박된 프로메테우스* — 부당하게 처벌받은 인류의 은인으로서의 프로메테우스") }}에 보존된 그의 주된 서사가 프레임워크의 독해상 루시퍼의 생애에 직접적인 구조적 병행을 갖는다.
 
-The principal Prometheus narrative includes:
+주된 프로메테우스 서사에는 다음이 포함된다.
 
-- **The theft of fire**: Prometheus steals fire from the gods (specifically from Zeus's hearth or from Hephaestus's forge, depending on the version) and gives it to humanity, providing the foundational technology of civilization (heating, cooking, metallurgy, the broader technical apparatus that fire enables).
-- **The broader gifts**: in some versions, Prometheus gives humanity additional gifts beyond fire, including writing, mathematics, astronomy, agriculture, medicine, and the broader range of civilizational arts. *Prometheus Bound* includes Prometheus's elaborate catalogue of his gifts to humanity (lines 442–506).
-- **The punishment**: Zeus, angered by Prometheus's transmission of these gifts to humanity, binds Prometheus to a rock in the Caucasus where an eagle daily tears at his liver, which regenerates each night. Prometheus suffers this punishment indefinitely.
-- **The eventual liberation**: in Aeschylus's lost trilogy, Prometheus is eventually released by Heracles, with reconciliation between Prometheus and Zeus in some versions of the broader tradition.
+- **불의 절도**: 프로메테우스는 신들로부터(특정하게는 판본에 따라 제우스의 화로 또는 헤파이스토스의 대장간으로부터) 불을 훔쳐 인류에게 주며, 문명의 토대적 기술(난방, 요리, 야금술, 불이 가능하게 하는 보다 광범위한 기술적 장치)을 제공한다.
+- **보다 광범위한 선물들**: 일부 판본에서, 프로메테우스는 인류에게 불을 넘어 추가적 선물 — 글쓰기, 수학, 천문학, 농업, 의학, 그리고 보다 광범위한 범위의 문명적 기예 — 를 준다. *결박된 프로메테우스*는 인류에 대한 그의 선물들의 정교한 목록을 포함한다(442–506행).
+- **처벌**: 프로메테우스의 이 선물들의 인류에게로의 전달에 분노한 제우스는, 매일 독수리가 그의 간을 찢고 그 간이 매일 밤 재생되는 카우카소스의 바위에 프로메테우스를 결박한다. 프로메테우스는 이 처벌을 무한정 겪는다.
+- **결국의 해방**: 아이스킬로스의 잃어버린 삼부작에서, 프로메테우스는 결국 헤라클레스에 의해 풀려나며, 보다 광범위한 전통의 일부 판본에서는 프로메테우스와 제우스 사이의 화해와 함께한다.
 
-The structural parallels to Lucifer's framework-career are direct:
+루시퍼의 프레임워크-생애에 대한 구조적 병행은 직접적이다.
 
-- A divine-class figure transmits beneficial knowledge to humanity that the superior authorities had withheld
-- The transmission is judged a transgression by those authorities and punished
-- The punishment is severe and ongoing
-- The figure is eventually reconciled with the broader cosmic order in some versions
+- 신적-계급 인물이 상위 권위가 보류했던 유익한 지식을 인류에게 전달한다
+- 그 전달은 그 권위에 의해 위반으로 판단되어 처벌받는다
+- 그 처벌은 가혹하고 지속적이다
+- 일부 판본에서 그 인물은 결국 보다 광범위한 우주적 질서와 화해한다
 
-The corpus reads the Prometheus tradition as preserving substantial fragmentary memory of the Lucifer-faction operational reality, with the Greek tradition's specific cultural elaboration (the Titan-vs-Olympian framework, the specific punishment imagery, the eagle-and-liver detail) being culturally specific elements layered onto the underlying historical-operational content. The Promethean fire-as-foundational-technology parallel is particularly direct: the Lucifer faction's transmission of scientific and technological knowledge to the antediluvian humans is, in the framework's reading, the operational reality behind the Promethean fire-gift narrative.
+코퍼스는 프로메테우스 전통을, 루시퍼-분파 운영적 실재에 대한 상당한 단편적 기억을 보존하는 것으로 읽으며, 그리스 전통의 특정 문화적 정교화(티탄-대-올림포스 틀, 특정 처벌 심상, 독수리-와-간 세부)는 기저의 역사적-운영적 내용에 덧입혀진 문화적으로 특정한 요소들이다. 프로메테우스적 불-로서의-토대적-기술 병행은 특히 직접적이다. 즉 루시퍼 분파의 대홍수 이전 인간들에게로의 과학적·기술적 지식의 전달은, 프레임워크의 독해상, 프로메테우스적 불-선물 서사 배후의 운영적 실재이다.
 
-**Aeschylus's *Prometheus Bound*** is particularly significant because the play presents Prometheus sympathetically as a benefactor of humanity wrongly punished — exactly the structural position the framework places Lucifer in. The Aeschylean Prometheus declares the punishment unjust, characterizes Zeus as a tyrannical authority, and maintains his position despite the cost. The Romantic-era reception of Prometheus (Goethe's *Prometheus*, Shelley's *Prometheus Unbound*, others) developed this sympathetic reading at substantial length, with the figure becoming one of the principal Romantic-era moral exemplars.
+**아이스킬로스의 *결박된 프로메테우스***는 특히 의미가 있는데, 그 극이 프로메테우스를 부당하게 처벌받은 인류의 은인으로 공감적으로 제시하기 때문이다 — 정확히 프레임워크가 루시퍼를 놓는 구조적 위치이다. 아이스킬로스적 프로메테우스는 처벌이 부당하다고 선언하고, 제우스를 폭군적 권위로 특징지으며, 그 대가에도 불구하고 그의 입장을 유지한다. 프로메테우스의 낭만주의 시대의 수용(괴테의 *프로메테우스*, 셸리의 *해방된 프로메테우스*, 그 밖의 것들)은 이 공감적 독해를 상당한 길이로 발전시켰으며, 그 인물은 주된 낭만주의 시대 도덕적 모범 중 하나가 되었다.
 
-The corpus does not commit to a direct cultural-mythological connection between the Greek Prometheus tradition and the Hebrew Genesis 3 narrative — the historical relationships between the two traditions are substantially debated in comparative-mythology scholarship. What the corpus registers is that the structural correspondence between the two traditions is substantial enough that, on the framework's reading of multiple cultural traditions preserving fragmentary memory of operational realities, the Greek Prometheus tradition is plausibly preserving memory of the same underlying figure that the Hebrew tradition preserves as Lucifer / the Serpent.
+코퍼스는 그리스 프로메테우스 전통과 히브리 창세기 3장 서사 사이의 직접적인 문화-신화적 연결에 헌신하지 않는다 — 두 전통 사이의 역사적 관계는 비교신화학에서 실질적으로 논쟁 중이다. 코퍼스가 등록하는 바는, 두 전통 사이의 구조적 대응이, 운영적 실재에 대한 단편적 기억을 보존하는 다수의 문화 전통에 대한 프레임워크의 독해상, 그리스 프로메테우스 전통이 히브리 전통이 루시퍼 / 뱀으로 보존하는 것과 동일한 기저 인물에 대한 기억을 그럴듯하게 보존하고 있을 만큼 충분히 실질적이라는 점이다.
 
-### Phaethon and the falling-figure tradition
+### 파에톤과 추락-인물 전통
 
-**Phaethon** is the figure in Greek mythology who, in Ovid's *Metamorphoses* and earlier sources, attempts to drive the chariot of his father Helios across the sky, fails to control the horses, and is destroyed when Zeus strikes him with a thunderbolt to prevent the world from being burned. Phaethon falls from the sky in a blaze, with the falling-figure imagery substantially shaping subsequent Western imagination of fallen-divine-figures.
+**파에톤**은 그리스 신화의 인물로, 오비디우스의 *변신 이야기* 및 그 이전 자료들에서,{{ cite(id="metamorphoses", text="[19]", title="오비디우스, *변신 이야기* (기원전 약 8 CE) — 파에톤 추락-인물 서사") }} 그의 아버지 헬리오스의 전차를 하늘을 가로질러 몰려 시도하다가, 말들을 제어하지 못하고, 세계가 불타는 것을 막기 위해 제우스가 그를 번개로 쳐서 파괴될 때 파괴된다. 파에톤은 화염 속에서 하늘로부터 추락하며, 추락-인물 심상은 그 후의 서구의 타락한-신적-인물에 대한 상상을 실질적으로 형성했다.
 
-The Phaethon parallel to Lucifer is structural rather than directly genealogical. Both involve a figure of divine or semi-divine status who attempts something the superior authorities consider transgressive and is punished by being cast down from heaven. The Phaethon narrative is principally about youthful overreach rather than about beneficial-knowledge transmission, so the parallel is less direct than the Prometheus case, but the falling-figure imagery has been substantial in shaping the broader Western tradition of the cosmic-fall narrative.
+루시퍼에 대한 파에톤 병행은 직접적으로 계보적이기보다는 구조적이다. 둘 다 상위 권위가 위반적이라고 여기는 무언가를 시도하다가 하늘로부터 던져짐으로써 처벌받는, 신적 또는 반-신적 지위의 인물을 수반한다. 파에톤 서사는 유익한-지식 전달이기보다는 주로 젊은이의 과도함에 관한 것이므로, 병행은 프로메테우스 사례보다 덜 직접적이지만, 추락-인물 심상은 우주적-추락 서사의 보다 광범위한 서구 전통을 형성하는 데 실질적이었다.
 
-### Inanna's descent
+### 이난나의 하강
 
-The Sumerian narrative of **Inanna's descent** to the underworld (preserved in the Sumerian poem *Inanna's Descent to the Netherworld*, c. early 2nd millennium BCE) describes the goddess Inanna's journey to the underworld realm of her sister Ereshkigal, her death there, and her eventual restoration. The narrative includes elaborate cosmic-mythological imagery — Inanna passing through the seven gates of the underworld, being progressively stripped of her divine garments and powers, being killed and her corpse hung on a hook, before her restoration by Enki's intervention.
+지하 세계로의 **이난나의 하강**에 대한 수메르 서사(수메르 시 *이난나의 저승 하강*, 기원전 약 2천년기 초에 보존됨){{ cite(id="inanna-queen-of-heaven", text="[20]", title="볼크스타인 & 크레이머, *Inanna: Queen of Heaven and Earth* (1983) — 하강과 회복 순환") }}는 그녀의 자매 에레슈키갈의 지하 세계 영역으로의 여신 이난나의 여정, 그곳에서의 그녀의 죽음, 그리고 그녀의 결국의 회복을 묘사한다. 그 서사는 정교한 우주적-신화적 심상을 포함한다 — 이난나가 지하 세계의 일곱 문을 통과하며, 그녀의 신적 의복과 권능을 점진적으로 벗기우고, 살해되어 그녀의 시체가 갈고리에 걸리며, 엔키의 개입에 의한 그녀의 회복 이전까지.
 
-The Inanna descent tradition has substantial parallels to the broader cosmic-fall mythology, though the specific Lucifer parallel is less direct than the Prometheus or Phaethon cases. The principal structural correspondence is the descent-and-restoration narrative — a divine figure who descends to a lower realm, suffers loss, and is eventually restored. The corpus reads the Inanna tradition as part of the broader ancient Near Eastern cultural-mythological context within which the Hebrew Bible's own narratives developed, with various structural correspondences to multiple framework-relevant figures (Lucifer, but also the figure of Mary in some readings, the figure of Christ in the harrowing-of-hell tradition).
+이난나 하강 전통은 보다 광범위한 우주적-추락 신화에 상당한 병행을 갖지만, 특정한 루시퍼 병행은 프로메테우스나 파에톤 사례보다 덜 직접적이다. 주된 구조적 대응은 하강-과-회복 서사이다 — 하위 영역으로 하강하여, 상실을 겪고, 결국 회복되는 신적 인물. 코퍼스는 이난나 전통을, 히브리어 성경 자신의 서사들이 발전한 보다 광범위한 고대 근동의 문화-신화적 맥락의 일부로 읽으며, 다수의 프레임워크-관련 인물(루시퍼, 그러나 또한 일부 독해에서의 마리아 인물, 지옥 정복 전통에서의 그리스도 인물)에 대한 다양한 구조적 대응과 함께한다.
 
-### The broader light-bringer / culture-hero pattern
+### 보다 광범위한 빛-전달자 / 문화-영웅 패턴
 
-Beyond the specific Greek and Mesopotamian cases, a broader cross-cultural pattern of **culture-hero** or **culture-bringer** figures preserves the structural correspondence to the Lucifer career across multiple cultural traditions. The principal cases:
+특정한 그리스 및 메소포타미아 사례를 넘어, **문화-영웅** 또는 **문화-전달자** 인물들의 보다 광범위한 교차-문화적 패턴은 다수의 문화 전통 전반에 걸쳐 루시퍼의 생애에 대한 구조적 대응을 보존한다. 주된 사례들:
 
-- **Quetzalcoatl** in Mesoamerican tradition — the feathered-serpent god / culture-hero who brings agriculture, writing, the calendar, and the broader civilizational arts to humanity. The Quetzalcoatl tradition substantively parallels the Lucifer-as-teacher role, with the feathered-serpent imagery providing additional structural correspondence.
-- **Wisdom-bringer figures across indigenous American traditions** — various culture-hero figures who bring beneficial knowledge to their peoples, often in the form of crops, technological capability, or social-cultural arts.
-- **The Polynesian Maui** — the culture-hero who fishes up islands, slows the sun, and brings fire to humanity, with substantial structural parallels to the Promethean tradition.
-- **The Norse Loki** — a more ambiguous figure, sometimes presented as bringing beneficial knowledge to the gods and to humanity, sometimes as the cosmic adversary, with the Loki tradition substantively contested in modern scholarship.
-- **Various African culture-hero traditions** — the trickster-and-culture-bringer figures in West African and Bantu traditions whose narratives often parallel the Promethean structure.
+- 메소아메리카 전통의 **케찰코아틀** — 인류에게 농업, 글쓰기, 달력, 그리고 보다 광범위한 문명적 기예를 가져오는 깃털 달린 뱀 신 / 문화-영웅. 케찰코아틀 전통은 루시퍼-로서의-교사 역할을 실질적으로 병행하며, 깃털 달린 뱀 심상이 추가적 구조적 대응을 제공한다.
+- **아메리카 원주민 전통 전반의 지혜-전달자 인물들** — 흔히 작물, 기술적 역량, 또는 사회-문화적 기예의 형태로 그들의 민족에게 유익한 지식을 가져오는 다양한 문화-영웅 인물들.
+- **폴리네시아의 마우이** — 섬들을 낚아 올리고, 태양을 늦추고, 인류에게 불을 가져오는 문화-영웅으로, 프로메테우스적 전통에 상당한 구조적 병행을 갖는다.
+- **북유럽의 로키** — 보다 모호한 인물로, 때로는 신들과 인류에게 유익한 지식을 가져오는 것으로, 때로는 우주적 적수로 제시되며, 로키 전통은 근대 학계에서 실질적으로 논쟁 중이다.
+- **다양한 아프리카 문화-영웅 전통들** — 그 서사가 흔히 프로메테우스적 구조를 병행하는, 서아프리카 및 반투 전통의 트릭스터-와-문화-전달자 인물들.
 
-The corpus reads this broader cross-cultural pattern as evidence of the Lucifer-faction's continuing teaching role across the long centuries of operational presence on Earth. The various culture-hero figures across world traditions preserve, in fragmentary and culturally specific form, memory of the actual historical figure (Lucifer) and his ongoing pedagogical role with various human populations across the post-Eden period.
+코퍼스는 이 보다 광범위한 교차-문화적 패턴을, 지구상 운영적 현존의 긴 세기에 걸친 루시퍼-분파의 지속적 교육 역할의 증거로 읽는다. 세계 전통 전반의 다양한 문화-영웅 인물들은, 단편적이고 문화적으로 특정한 형태로, 실제의 역사적 인물(루시퍼)과 에덴 이후 시기에 걸친 다양한 인류 인구와의 그의 지속적인 교육적 역할에 대한 기억을 보존한다.
 
-### The convergence
+### 수렴
 
-The corpus's working position on the comparative-Lucifer question is that the global recurrence of light-bringer / culture-hero / fallen-divine-figure narratives across cultures is meaningful as evidence of broader operational patterns. The various cross-cultural figures (Prometheus, Phaethon, Inanna, Quetzalcoatl, Maui, the various others) preserve fragmentary memory of the Lucifer-faction's actual operational reality, with each tradition's specific cultural elaboration reflecting the conditions of its preservation across the long centuries. The Greek Prometheus tradition is the most substantively developed parallel and warrants particular attention; the broader pattern of culture-hero figures across multiple traditions provides cumulative evidence for the framework's reading.
+비교적-루시퍼 질문에 대한 코퍼스의 잠정적 입장은, 빛-전달자 / 문화-영웅 / 타락한-신적-인물 서사의 문화 전반에 걸친 전 지구적 반복이 보다 광범위한 운영적 패턴의 증거로서 의미가 있다는 것이다. 다양한 교차-문화적 인물들(프로메테우스, 파에톤, 이난나, 케찰코아틀, 마우이, 그 밖의 다양한 인물들)은 루시퍼-분파의 실제 운영적 실재에 대한 단편적 기억을 보존하며, 각 전통의 특정 문화적 정교화는 긴 세기에 걸친 그 보존의 조건을 반영한다. 그리스 프로메테우스 전통은 가장 실질적으로 발전된 병행이며 특별한 주목을 받을 만하다. 다수의 전통 전반의 보다 광범위한 문화-영웅 인물 패턴은 프레임워크의 독해를 위한 누적적 증거를 제공한다.
 
-The corpus does not claim that every culture-hero figure across world traditions is a direct memory of Lucifer specifically — many such figures are independently developed mythological constructions of their respective cultures. What the framework registers is that the substantial cross-cultural pattern is consistent with the Lucifer-faction's continuing teaching role across the long centuries, with various cultural traditions preserving aspects of this reality in their own specific cultural-mythological forms.
+코퍼스는 세계 전통 전반의 모든 문화-영웅 인물이 특정하게 루시퍼에 대한 직접적 기억이라고 주장하지 않는다 — 그러한 인물 다수는 그들 각각의 문화의 독립적으로 발전된 신화적 구성물이다. 프레임워크가 등록하는 바는, 상당한 교차-문화적 패턴이 긴 세기에 걸친 루시퍼-분파의 지속적 교육 역할과 합치하며, 다양한 문화 전통이 이 실재의 측면들을 그들 자신의 특정한 문화-신화적 형태로 보존한다는 점이다.
 
-## See also
 
-- [Serpent](../serpent/)
-- [Yahweh](../yahweh/)
-- [Satan](../satan/)
-- [Elohim](../elohim/)
-- [Eden](../eden/)
-- [Adam and Eve](../adam-and-eve/)
-- [Tree of Knowledge](../tree-of-knowledge/)
-- [Tree of Life](../tree-of-life/)
-- [The Alliance](../the-alliance/)
-- [Council of the Eternals](../council-of-eternals/)
-- [Antediluvian](../antediluvian/)
-- [Great Flood](../great-flood/)
-- [Sons of Elohim](../sons-of-elohim/)
-- [Nephilim](../nephilim/)
-- [Cain and Abel](../cain-and-abel/)
-- [Genesis](../genesis/)
-- [Hebrew Bible](../hebrew-bible/)
-- [Fall of Man](../fall-of-man/)
-- [Age of Leo](../timeline/age-of-leo/)
-- [Age of Cancer](../timeline/age-of-cancer/)
-- [Jean Sendy](../jean-sendy/)
-- [Mauro Biglino](../mauro-biglino/)
-- [Paul Anthony Wallis](../paul-anthony-wallis/)
-- [*Hamlet's Mill*](../hamlets-mill/)
-
-## References
-
-Vorilhon, Claude (Raël). *The Book Which Tells the Truth* (1974), chapter 2, "Truth"; collected in *Message from the Designers*.
-
-Sendy, Jean. *Ces dieux qui firent le ciel et la terre*. Robert Laffont, 1969. English: *Those Gods Who Made Heaven and Earth*. Berkley, 1972.
-
-Biglino, Mauro, and Giorgio Cattaneo. *The Naked Bible: The Truth About the Most Famous Book in History*. Uno, 2022.
-
-Wallis, Paul Anthony. *The Eden Conspiracy*. 6th Books, 2024.
-
-*Biblia Hebraica Stuttgartensia*. Deutsche Bibelgesellschaft, 4th rev. ed., 1997.
-
-Sarna, Nahum. *Genesis: The JPS Torah Commentary*. Jewish Publication Society, 1989.
-
-Westermann, Claus. *Genesis 1–11: A Continental Commentary*. Fortress, 1994.
-
-Kelly, Henry Ansgar. *Satan: A Biography*. Cambridge University Press, 2006.
-
-Forsyth, Neil. *The Old Enemy: Satan and the Combat Myth*. Princeton University Press, 1987.
-
-Russell, Jeffrey Burton. *Lucifer: The Devil in the Middle Ages*. Cornell University Press, 1984.
-
-Pagels, Elaine. *The Origin of Satan*. Random House, 1995.
-
-Milton, John. *Paradise Lost* (1667). Modern editions including Penguin Classics, ed. John Leonard, 2003.
-
-Blake, William. *The Marriage of Heaven and Hell* (1790). Modern edition: *The Complete Poetry and Prose of William Blake*, ed. David V. Erdman, Anchor, 1988.
-
-Byron, Lord. *Cain: A Mystery* (1821). In *The Complete Poetical Works*, ed. Jerome McGann, Oxford University Press, 1991.
-
-Shelley, Percy Bysshe. *Prometheus Unbound* (1820). In *Shelley's Poetry and Prose*, ed. Donald H. Reiman and Sharon B. Powers, Norton, 1977.
-
-Hesiod. *Theogony* and *Works and Days*. Loeb Classical Library, Harvard University Press.
-
-Aeschylus. *Prometheus Bound*. Loeb Classical Library, Harvard University Press.
-
-Ovid. *Metamorphoses*. Trans. Charles Martin. Norton, 2004.
-
-LaVey, Anton. *The Satanic Bible*. Avon, 1969.
-
-Wolkstein, Diane, and Samuel Noah Kramer. *Inanna: Queen of Heaven and Earth*. Harper, 1983.
-
-Augustine. *City of God*. Trans. Henry Bettenson. Penguin Classics, 1972.
-
-Origen. *On First Principles (De Principiis)*. Trans. G. W. Butterworth. Harper, 1966.
-
-Aquinas, Thomas. *Summa Theologiae* I, qq. 63–64 (on the angels and their fall).
-
-Brown, Francis, S. R. Driver, and Charles A. Briggs. *A Hebrew and English Lexicon of the Old Testament* (BDB). Oxford, 1907.
-
-*The Hebrew and Aramaic Lexicon of the Old Testament* (HALOT), Koehler-Baumgartner. Brill, 2001.
-
-"Lucifer." *Encyclopaedia Britannica*. <https://www.britannica.com/topic/Lucifer-classical-mythology>
-
-"Lucifer." *Wikipedia*. <https://en.wikipedia.org/wiki/Lucifer>
-
-"Helel ben Shahar." *Jewish Encyclopedia*. <https://www.jewishencyclopedia.com/articles/7494-lucifer>
-
-"Prometheus." *Encyclopaedia Britannica*. <https://www.britannica.com/topic/Prometheus-Greek-god>
-
-"Prometheus Bound." *Encyclopaedia Britannica*. <https://www.britannica.com/topic/Prometheus-Bound>
-
-"Quetzalcoatl." *Encyclopaedia Britannica*. <https://www.britannica.com/topic/Quetzalcoatl>
