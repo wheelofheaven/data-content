@@ -1,613 +1,638 @@
 +++
-title = "亚当和夏娃"
-description = "亚当和夏娃在《创世记》叙事中是被置于伊甸园的最初人类伴侣。在 Wheel of Heaven 框架内,他们被读作由厄罗欣在实验室中合成的最初原型 — 亚当血统的原型祖先,其堕落标志着从实验室走向外部世界的转折。"
+title = "亚当与夏娃"
+slug = "adam-and-eve"
+description = "亚当(希伯来语:אָדָם,ʾāḏām)与夏娃(希伯来语:חַוָּה,ḥawwāh)是希伯来圣经《创世记》叙事中的最初人类,由耶洛因在伊甸园中造成,被授予关于分别善恶树的禁令,并在吃了树上果子之后被逐出伊甸园。按雷尔派源材料中所发展、并为 Wheel of Heaven 文集所采纳的解读,亚当与夏娃被读作具体的历史人物:他们是以色列团队特定伊甸装置的最初合成人类,在狮子座时代晚期通过 de novo 生物合成而被创造,在伊甸的受控环境中受教育,接触了异见的路西法派系对受限科学知识的披露,披露之后被逐出装置,并成为伊甸世系人类文明的先祖。二者目前皆已在永恒者行星上复活,等待同盟在水瓶座时代大使馆处的公开归来。"
 template = "wiki-page.html"
 toc = true
 
 [extra]
-translation_status = "metadata_only"
 category = "Biblical Figures"
 editorial_pass = "2026-05"
+claim_type = "framework"
 entry_type = "figure"
-alternative_names = ["Adam", "Eve", "אָדָם וְחַוָּה", "ʾĀḏām and Ḥawwāh", "the First Humans", "the First Pair", "Adam Kadmon and Hawwah (in Kabbalistic tradition)"]
+alternative_names = ["亚当", "夏娃", "אָדָם וְחַוָּה", "ʾĀḏām and Ḥawwāh", "最初的人类", "最初的一对", "亚当·卡德蒙与夏娃(卡巴拉传统中)"]
 timeline = ["leo", "cancer"]
+see_also = [
+    { title = "伊甸园", path = "wiki/eden", description = "亚当与夏娃在其中被合成并受教育的以色列团队装置。" },
+    { title = "创世记", path = "wiki/genesis", description = "其创世叙事中,文集将《创世记》1 与《创世记》2 两段记述读作范围上各有区分。" },
+    { title = "蛇", path = "wiki/serpent", description = "处于披露角色中的路西法派系;向亚当与夏娃作出伊甸披露的形象。" },
+    { title = "路西法", path = "wiki/lucifer", description = "亚当与夏娃所接受其披露的异见派系领袖。" },
+    { title = "生命之树", path = "wiki/tree-of-life", description = "亚当所记载的 930 岁背后的长寿技术。" },
+    { title = "大洪水前", path = "wiki/antediluvian", description = "由亚当与夏娃世系所奠基的后伊甸时期。" },
+]
+
+footnotes = [
+    { content = "本文集将《创世记》1 与《创世记》2 读作范围上各有区分,而非对同一事件的并行而矛盾的记述。《创世记》1 是更广泛的七团队创造计划的概要记述(第六个 *yom* 涵盖了全部七个团队在狮子座时代所进行的人类创造工作);《创世记》2 则是某一特定团队工作的详细叙事 — 即以色列团队的伊甸装置。这与底本假说部分契合(两段记述在文本上确实各自有别),而在解读上有所不同:本文集将其读作范围上的区分,而非矛盾的并行记述。此一解读具有方法论上的优势,能够解释二者为何被一并保存 — 它们涵盖的是同一更广泛运作现实的不同范围。" },
+    { content = "本文集将《创世记》2 的创造语言读作最初作者无法以技术性词汇描述的、对生物合成的程式化记述。「地上的尘土」(*ʿāp̄ār min hā-ʾădāmâ*)所成形的过程,被读作以地球材料为分子基质、以耶洛因遗传物质为模板的 *de novo* 合成;「生命之气」(*nišmaṯ ḥayyîm*)被读作所合成有机体的激活;「肋骨」(*ṣēlāʿ*,该词可意为「侧」「板」或「结构性支撑」)被读作取自亚当的细胞或遗传物质,使夏娃与他具有相当的遗传相容性;「沉睡」(*tardēmâ*)被读作手术期间的医用麻醉状态。本文集并不承诺表面叙事在字面解剖学上的具体性。" },
+    { content = "本框架并不主张亚当与夏娃是全人类的最初人类。七创造者团队的图景明确记录了其他六支世系中并行的最初人类形象 — 其名字未被保存于希伯来圣经,因为希伯来圣经是以色列团队世系特定的文化承继。亚当与夏娃是*一支*世系的最初人类,其后续历史成为希伯来人的文化—宗教历史。因此「堕落」并非一场普世的人类道德灾难,而是某一世系历史中的特定运作事件,而将该叙事延伸至全人类的奥古斯丁原罪教义,并不具备其惯常神学框架所主张的普世范围。" },
+    { content = "本框架拒斥将主要责任归于夏娃的厌女诠释传统。雷尔派源材料明确指出,披露是平等地向两个人提供的,作出披露的创造者对二者的情感是一致的,后果也同等地落在二者身上。《提摩太前书》2:13–14「女人被引诱」的框定,是本文集所拒斥的后续传统的文本依据。在这一具体点上,本文集与犹太教及基督教女性主义学术(佩格尔斯、特里布尔、迈尔斯)相一致,但并不采纳整套女性主义—神学装置。" },
+    { content = "本文集为亚当与夏娃的合成所给出的日期 — 狮子座时代晚期,约公元前 11,400 年 — 属框架内部,源自本文集的年代学校准,包括从《启示录》13:18 读出的「666 代,每代 20 年」计算。岁差时代是真实的天文现象;具体的边界年份则是框架性约定。该年代学的推导见《创世记》与《大洪水前》条目。" },
+    { content = "亚当与夏娃在永恒者行星上复活,是雷尔派材料的源内主张 — 二者皆被报告为目前生活在那里,处于由同盟的克隆与记忆转移技术所维持的实际不朽状态之中,等待在水瓶座时代大使馆处的公开归来。本文集将亚当的复活与其作为首位先知(首位直接接受同盟通讯的人类)的角色相联系。该主张无法独立验证,本文集将其视为源材料自身的断言。" },
+]
+
+[[extra.references]]
+id = "the-book-which-tells-the-truth"
+locator = "第 2 章"
+note = "关于亚当与夏娃作为以色列团队伊甸装置最初合成人类的奠基性雷尔派源材料。"
+
+[[extra.references]]
+id = "extraterrestrials-took-me-to-their-planet"
+note = "佛里翁的第二部作品(1975)— 永恒者行星与包括亚当在内的诸先知之复活。"
+
+[[extra.references]]
+id = "those-gods-who-made-heaven-and-earth"
+note = "桑迪将亚当与夏娃读作以色列团队世系最初人类的论述 — 主要的学术先声。"
+
+[[extra.references]]
+id = "the-naked-bible"
+note = "比格利诺对尘土成形与 ṣēlāʿ 语言所作严格直译式的解读,视其为生物合成与克隆;本文集与之一致,唯在该隐属蛇之世系的解读上有别。"
+
+[[extra.references]]
+id = "the-eden-conspiracy"
+note = "沃利斯近来从耶洛因多元论视角对《创世记》2–3 材料所作的通俗易懂的论述。"
+
+[[extra.references]]
+id = "sarna-genesis-jps"
+note = "萨尔纳的《JPS 妥拉注释》— 对伊甸叙事希伯来文及族长家谱的标准论述。"
+
+[[extra.references]]
+id = "westermann-genesis-1-11"
+note = "韦斯特曼对《创世记》原初历史所作的标准形式批判注释。"
+
+[[extra.references]]
+id = "skinner-genesis-icc"
+note = "斯金纳的奠基性 ICC 注释,保存了对两段创造记述的底本假说解读。"
+
+[[extra.references]]
+id = "von-rad-genesis"
+note = "冯·拉德对雅威派创造叙事所作的形式批判与神学解读。"
+
+[[extra.references]]
+id = "city-of-god"
+note = "奥古斯丁对原罪教义的阐发,本文集将其拒斥为一项特定的神学构造,而非文本所给定者。"
+
+[[extra.references]]
+id = "pagels-adam-eve-serpent"
+note = "佩格尔斯关于亚当—夏娃叙事之诠释如何塑造西方思想的研究,其中奥古斯丁的综合被视为一项有争议的发展。"
+
+[[extra.references]]
+id = "trible-rhetoric-sexuality"
+note = "特里布尔对《创世记》2–3 的细读,主张原初希伯来文本中的性别平等。"
+
+[[extra.references]]
+id = "meyers-discovering-eve"
+note = "迈尔斯将夏娃读作铁器时代以色列从事农业劳作之女性的历史—人类学论述。"
+
+[[extra.references]]
+id = "plaskow-standing-again-sinai"
+note = "普拉斯科与亚当—夏娃及莉莉丝传统对话的犹太女性主义神学。"
+
+[[extra.references]]
+id = "alphabet-of-ben-sira"
+note = "本文集记述但不采纳的、关于莉莉丝为亚当首位妻子之叙事的中世纪奠基性文本。"
+
+[[extra.references]]
+id = "zohar-pritzker"
+note = "普里茨克版《光辉之书》— 本文集作比较性对话的亚当·卡德蒙与莉莉丝材料。"
+
+[[extra.references]]
+id = "george-epic-of-gilgamesh"
+note = "乔治的标准译本,其中恩奇都叙事可与夏娃/文明材料作比较解读。"
+
+[[extra.references]]
+id = "before-the-muses"
+note = "福斯特所编阿卡德文学选集,其中阿达帕神话可与伊甸事件作比较解读。"
+
+[[extra.references]]
+id = "atra-hasis-lambert-millard"
+note = "兰伯特与米拉德所编《阿特拉哈西斯》校勘版 — 与《创世记》材料相平行的美索不达米亚创造—洪水传统。"
+
+[[extra.references]]
+id = "allen-genesis-in-egypt"
+note = "艾伦对埃及创造神学的论述,包括克努姆为陶工与尘土成形相平行之处。"
+
+[[extra.references]]
+id = "doniger-hindu-myths"
+note = "多尼格所编选集,包括摩奴这一最初之人与洪水传统。"
+
+[[extra.references]]
+id = "birrell-chinese-mythology"
+note = "比勒尔的研究,包括盘古创世论与女娲抟土造人叙事。"
+
+[[extra.references]]
+id = "lindow-norse-mythology"
+note = "林多的参考著作,包括阿斯克与恩布拉这一最初人类叙事。"
+
+[[extra.references]]
+id = "tedlock-popol-vuh"
+note = "特德洛克所译玛雅《波波尔·乌》,其中包含历次相继的最初人类创造尝试。"
+
+[[extra.references]]
+id = "doctrine-and-covenants"
+note = "本文集记述但不采纳的、关于亚当即米迦勒之教义的后期圣徒来源。"
 
 [extra.infobox]
 hebrew_name = "אָדָם וְחַוָּה (ʾĀḏām and Ḥawwāh)"
 greek_name = "Ἀδάμ καὶ Εὕα (Adam kai Heua, in the Septuagint)"
 latin_name = "Adam et Eva (in the Vulgate)"
 arabic_name = "آدم وحواء (Ādam wa-Ḥawwāʾ, in the Qur'anic tradition)"
-title = "The first humans of the Israel team's Eden installation"
-type = "Synthesized humans created by the Israel team of Elohim creators; biological pair"
-created = "Late Age of Leo, c. 11,400 BCE on the corpus's reckoning (derived from the 666-generations-of-20-years calculation of Revelation 13:18)"
-date_type = "framework-internal; derived from the corpus's chronological calibration"
-biblical_appearance = "Genesis 1:26–28 (summary creation account); Genesis 2:4–25 (detailed Eden synthesis); Genesis 3 (the disclosure and expulsion); Genesis 4–5 (the post-Eden generations); occasional later Hebrew Bible references (1 Chronicles 1:1; Hosea 6:7); New Testament references (Romans 5; 1 Corinthians 15; 1 Timothy 2)"
-created_by = "The Israel team of Elohim creators, with Yahweh as team leader"
-relationship_to_lucifer = "Educated by the Israel team's scientists during the Eden period, including the figures who would form the dissenting Lucifer faction; recipients of the Lucifer-faction disclosure"
-recorded_lifespan = "Adam: 930 years (Genesis 5:5); Eve: not specified in Genesis"
-children = "Cain, Abel, Seth, and other unnamed sons and daughters (Genesis 4:1–2, 25; 5:3–4)"
-current_status = "Resurrected on the Planet of the Eternals, per the source material's prophet-resurrection list; awaiting the open return at the Aquarian-age embassy"
-principal_text = "Genesis 1–5"
-principal_framework_source = "*The Book Which Tells the Truth* (Vorilhon/Raël, 1974), chapter 2; *Extra-Terrestrials Took Me to Their Planet* (1975)"
+title = "以色列团队伊甸装置的最初人类"
+type = "由耶洛因创造者以色列团队所造的合成人类;生物性的一对"
+created = "狮子座时代晚期,按本文集的推算约为公元前 11,400 年(源自《启示录》13:18「666 代,每代 20 年」的计算)"
+date_type = "框架内部;源自本文集的年代学校准"
+biblical_appearance = "创世记 1:26–28(概要创造记述);创世记 2:4–25(详细的伊甸合成);创世记 3(披露与逐出);创世记 4–5(后伊甸世代);希伯来圣经中偶有的后续提及(历代志上 1:1;何西阿书 6:7);新约提及(罗马书 5;哥林多前书 15;提摩太前书 2)"
+created_by = "耶洛因创造者的以色列团队,以耶和华为团队领袖"
+relationship_to_lucifer = "在伊甸时期由以色列团队的科学家所教育,其中包括后来组成异见路西法派系的人物;路西法派系披露的受授者"
+recorded_lifespan = "亚当:930 岁(创世记 5:5);夏娃:《创世记》中未指明"
+children = "该隐、亚伯、塞特,以及其他未具名的儿女(创世记 4:1–2、25;5:3–4)"
+current_status = "已在永恒者行星上复活,按源材料的先知复活名单所载;等待在水瓶座时代大使馆处的公开归来"
+principal_text = "创世记 1–5"
+principal_framework_source = "*《讲述真相之书》*(佛里翁/雷尔,1974),第 2 章;*《外星人带我去了他们的行星》*(1975)"
 +++
 
-**Adam** (<span class="hebrew">אָדָם</span>, *ʾāḏām*) and **Eve** (<span class="hebrew">חַוָּה</span>, *ḥawwāh*) are the first humans of the Hebrew Bible's Genesis narrative. Adam is named in Genesis 2:7 as the first human formed by Yahweh Elohim from the dust of the ground; Eve is named in Genesis 3:20 as *the mother of all the living* (*ʾem kol-ḥay*) following her formation in Genesis 2:21–22 from a part of Adam's side. The pair are the focal figures of the Genesis 2–4 narrative — placed in the garden of Eden, given the prohibition concerning the Tree of the Knowledge of Good and Evil, persuaded by the Serpent to eat from the tree, expelled from the garden, and named as the parents of Cain, Abel, and Seth (Genesis 4:1–2, 25; 5:3–4). Their biographical material in the Hebrew Bible concludes with Adam's recorded death at 930 years (Genesis 5:5), with no parallel record for Eve.
+**亚当**(<span class="hebrew">אָדָם</span>,*ʾāḏām*)与**夏娃**(<span class="hebrew">חַוָּה</span>,*ḥawwāh*)是希伯来圣经《创世记》叙事中的最初人类。亚当在创世记 2:7 中被命名为耶和华耶洛因用地上尘土所造的第一个人;夏娃在创世记 3:20 中被命名为*众生之母*(*ʾem kol-ḥay*),此前她在创世记 2:21–22 中由亚当身体一部分而成形。这一对是创世记 2–4 章叙事的焦点人物 — 被置于伊甸园中,被授予关于分别善恶树的禁令,被蛇说服而吃了树上的果子,被逐出伊甸园,并被称为该隐、亚伯与塞特的父母(创世记 4:1–2、25;5:3–4)。他们在希伯来圣经中的传记材料,以亚当 930 岁的记载之死告终(创世记 5:5),而夏娃则无相应记录。
 
-On the reading developed in the Raëlian source material and adopted by the Wheel of Heaven corpus, Adam and Eve are read as specific historical figures rather than as mythological symbols or as the first humans simpliciter. They are the first synthesized humans of the **Israel team's** specific Eden installation — one of seven creator-team installations distributed across the antediluvian supercontinent, with the Israel team's installation producing the specific lineage whose subsequent history would be preserved in the Hebrew Bible. They were created during the late Age of Leo (c. 11,400 BCE on the corpus's reckoning) through *de novo* biological synthesis using Elohim genetic material as the principal source, with terrestrial materials providing the substrate. They were educated in the Eden controlled environment by the Israel team's scientists, including the figures who would form the dissenting Lucifer faction. They received the faction's disclosure of restricted scientific knowledge — the act narrated in Genesis 3 as the Serpent's intervention. They were expelled from the installation following the disclosure and lived out the rest of their lives in the broader Eden region, with their offspring populating the early antediluvian Eden civilization. The source material specifically identifies Adam as the first prophet — the first human recipient of direct alliance communication — and identifies both Adam and Eve as currently resurrected on the Planet of the Eternals, awaiting the alliance's open return at the Aquarian-age embassy.
+按雷尔派源材料中所发展、并为 Wheel of Heaven 文集所采纳的解读,亚当与夏娃被读作具体的历史人物,而非神话象征,亦非笼统意义上的最初人类。他们是**以色列团队**特定伊甸装置的最初合成人类 — 即分布于大洪水前超大陆上的七个创造者团队装置之一,而以色列团队的装置产生了那支其后续历史将被保存于希伯来圣经中的特定世系。他们在狮子座时代晚期(按本文集的推算约为公元前 11,400 年){{ footnote(id="5") }}通过 *de novo* 生物合成而被创造,以耶洛因遗传物质为主要来源,以地球材料提供基质。他们在伊甸的受控环境中由以色列团队的科学家所教育,其中包括后来组成异见路西法派系的人物。他们接受了该派系对受限科学知识的披露 — 这一行为在创世记 3 中被叙述为蛇的介入。披露之后他们被逐出装置,在更广阔的伊甸地区度过余生,其后代繁衍了早期大洪水前的伊甸文明。源材料具体地认定亚当为首位先知 — 首位直接接受同盟通讯的人类 — 并认定亚当与夏娃二者目前皆已在永恒者行星上复活,等待同盟在水瓶座时代大使馆处的公开归来。{{ cite(id="the-book-which-tells-the-truth", text="[2]", title="佛里翁(雷尔),《讲述真相之书》(1974),第 2 章 — 亚当与夏娃作为以色列团队最初合成人类") }}
 
-The reading is contested. Within Christian theological tradition, the dominant readings of Adam and Eve treat them as the first humans of all humanity (not just one specific lineage), as morally pivotal figures whose disobedience produced the Fall and inherited original sin (the Augustinian doctrine), and as theologically representative figures whose narrative encodes the human moral condition rather than as historical individuals in the strict sense. Within mainstream historical-critical biblical scholarship, the Genesis 2–4 narrative is recognized as a Yahwist source composition (J source on the documentary hypothesis) with mythological-aetiological character, distinct from the Genesis 1 Priestly source account, with the figures of Adam and Eve treated as literary-mythological constructions rather than as historical individuals. Within paleoanthropology and modern human-origins science, the broader question of human origins is treated through the genetic, archaeological, and paleontological evidence, with the conclusion that Homo sapiens emerged through evolutionary processes across approximately 200,000–300,000 years rather than through specific creation events involving identifiable first individuals. The corpus's reading is structurally distinctive: it accepts the historical-critical recognition that Genesis 1 and Genesis 2 are textually distinct accounts (treating Genesis 1 as the broader summary of all seven creator teams' work and Genesis 2 as the specific Israel-team narrative), accepts that Adam and Eve are not the first humans of all humanity (the corpus reads seven distinct creator-team lineages emerging across the Age of Leo), and treats the figures as specific historical individuals while reframing the underlying ontology of their creation.
+此解读尚有争议。在基督教神学传统内部,对亚当与夏娃的主导解读将其视为全人类的最初人类(而非仅一支特定世系),视其为道德上具有枢纽意义的人物,其悖逆产生了堕落与所承袭的原罪(奥古斯丁教义),并视其为神学上的代表性人物,其叙事编码了人类的道德境况,而非严格意义上的历史个体。在主流历史—批判圣经研究内部,创世记 2–4 章叙事被公认为一篇雅威派资料的构成(底本假说中的 J 资料),具有神话—因由性质,与创世记 1 的祭司派资料记述有别,而亚当与夏娃的形象被视为文学—神话构造,而非历史个体。在古人类学与现代人类起源科学内部,人类起源这一更广泛的问题是通过遗传、考古与古生物证据来处理的,其结论是智人在约 20 万至 30 万年间通过演化过程出现,而非通过涉及可辨识最初个体的特定创造事件。本文集的解读在结构上独具特色:它接受历史—批判学对创世记 1 与创世记 2 为文本上各有区分之记述的承认(将创世记 1 视为全部七个创造者团队工作的更广泛概要,将创世记 2 视为以色列团队的特定叙事),接受亚当与夏娃并非全人类的最初人类(本文集将其读作狮子座时代出现的七支各有区分的创造者团队世系),并将这些形象视为具体的历史个体,同时重新框定其创造的底层本体论。
 
-## Etymology and naming
+## 词源与命名
 
-The names Adam and Eve carry distinct etymological histories that are themselves load-bearing for the framework's reading.
+亚当与夏娃之名各自承载着不同的词源历史,而这些历史本身对本框架的解读具有承重意义。
 
-### Adam: *ʾāḏām*
+### 亚当:*ʾāḏām*
 
-The Hebrew *ʾāḏām* (<span class="hebrew">אָדָם</span>) is etymologically related to *ʾădāmâ* (<span class="hebrew">אֲדָמָה</span>, "earth, ground, soil"), with both deriving from the consonantal root *ʾ-d-m* meaning "to be red" (referring to the reddish color of the soil characteristic of the Levant). The etymological connection is explicit in Genesis 2:7: *"Then Yahweh Elohim formed the man (ʾāḏām) of dust from the ground (ʾădāmâ), and breathed into his nostrils the breath of life; and the man became a living being."* The wordplay between *ʾāḏām* and *ʾădāmâ* is one of the most direct etymological encodings in the Hebrew Bible's vocabulary: the human is named for the earth from which he was formed.
+希伯来语 *ʾāḏām*(<span class="hebrew">אָדָם</span>)在词源上与 *ʾădāmâ*(<span class="hebrew">אֲדָמָה</span>,「地、土壤」)相关,二者皆源自辅音词根 *ʾ-d-m*,意为「红」(指黎凡特地区土壤特有的红色)。此词源关联在创世记 2:7 中是明显的:*「于是耶和华耶洛因用地上的尘土(ʾădāmâ)造人(ʾāḏām),将生命之气吹在他鼻孔里,他就成了有生命的活物。」*在 *ʾāḏām* 与 *ʾădāmâ* 之间的双关,是希伯来圣经词汇中最直接的词源编码之一:人因他被造所出的土地而得名。
 
-The Hebrew *ʾāḏām* has multiple uses across the Hebrew Bible:
+希伯来语 *ʾāḏām* 在希伯来圣经中有多种用法:
 
-- **The generic sense** — *ʾāḏām* is used as the general term for "human" or "humanity" without reference to gender or to specific individuals, with this usage attested across the Bible (Genesis 1:26–27 uses *ʾāḏām* for "humans" or "humanity" in this generic sense; the pronouncement *naʿaśeh ʾāḏām* in Genesis 1:26 means "let us make humanity").
-- **The proper-name sense** — *ʾāḏām* is used as the personal name of the first specific human in the Genesis 2–5 narrative, with the definite article *ha-ʾāḏām* ("the human") gradually giving way to the proper-name *ʾāḏām* (without article) across the narrative.
-- **The species-designation sense** — *ʾāḏām* is used in some contexts to designate the species in distinction from animals or other categories of being.
+- **泛指义** — *ʾāḏām* 用作「人」或「人类」的通称,不涉及性别或具体个体,此用法遍见全书(创世记 1:26–27 即以此泛指义用 *ʾāḏām* 表「人」或「人类」;创世记 1:26 中的宣告 *naʿaśeh ʾāḏām* 意为「我们要造人类」)。
+- **专名义** — *ʾāḏām* 用作创世记 2–5 章叙事中第一个具体人类的本名,定冠词形式 *ha-ʾāḏām*(「这人」)在叙事推进中渐渐让位于专名 *ʾāḏām*(无冠词)。
+- **物种指称义** — 在某些语境中,*ʾāḏām* 用以指称该物种,以区别于动物或其他类别的存在。
 
-The transition from the generic sense to the proper-name sense across the Genesis narrative reflects the ambiguity at the heart of the Adam figure: he is simultaneously the specific first human of the Israel-team lineage (proper name) and the prototype of humanity generally (generic). The corpus reads this ambiguity as the Hebrew tradition's preservation of both the specificity of the historical referent (a particular individual whose biographical history is recorded) and the broader implication of his role (the prototype whose creation initiated the lineage that would eventually become the Hebrew people).
+在《创世记》叙事中从泛指义到专名义的过渡,反映出亚当形象核心处的含混:他既是以色列团队世系的特定第一人(专名),又是人类一般的原型(泛指)。本文集将此含混读作希伯来传统对二者的双重保存:既保存了历史指涉的特定性(一个有传记历史记录的特定个体),又保存了其角色的更广含意(其创造开启了那支最终将成为希伯来民族之世系的原型)。
 
-The framework's reading takes the etymological connection to *ʾădāmâ* as substantively significant. The name preserves, at the level of Hebrew vocabulary itself, the biological reading the corpus develops: humans were synthesized from terrestrial materials, in laboratories on the surface of this planet, and their name in the original Hebrew preserves that origin. The "dust of the ground" formation language of Genesis 2:7 is read by the corpus as a stylized account of the *de novo* biological synthesis using terrestrial substrate that the Israel team conducted.
+本框架的解读将其与 *ʾădāmâ* 的词源关联视为实质重要。该名在希伯来词汇本身的层面上,保存了本文集所发展的生物学解读:人类是用地球材料、在这颗行星表面的实验室中合成的,而其名在原初希伯来文中保存了这一起源。创世记 2:7「地上尘土」的成形语言,被本文集读作对以色列团队所进行、以地球基质所行之 *de novo* 生物合成的程式化记述。
 
-### Eve: *Ḥawwāh*
+### 夏娃:*Ḥawwāh*
 
-The Hebrew *Ḥawwāh* (<span class="hebrew">חַוָּה</span>) is given an explicit etymology in Genesis 3:20: *"The man called his wife's name Eve (Ḥawwāh), because she was the mother of all living (ʾem kol-ḥay)."* The etymological connection is to the root *ḥ-y-h* / *ḥ-w-h* meaning "to live" — *Ḥawwāh* is the participial form meaning "the living one" or "the life-giver."
+希伯来语 *Ḥawwāh*(<span class="hebrew">חַוָּה</span>)在创世记 3:20 中被给出明确的词源:*「亚当给他妻子起名叫夏娃(Ḥawwāh),因为她是众生之母(ʾem kol-ḥay)。」*其词源关联指向词根 *ḥ-y-h* / *ḥ-w-h*,意为「活」 — *Ḥawwāh* 是分词形式,意为「活着的那一位」或「赐生命者」。
 
-The name has been the subject of substantial scholarly discussion. The connection to *ḥay* ("living") is the explicit Genesis etymology, but several alternative or supplementary etymologies have been proposed in scholarly literature:
+此名一直是大量学术讨论的对象。与 *ḥay*(「活」)的关联是《创世记》明确给出的词源,但学术文献中也提出了若干替代或补充性的词源:
 
-- **The Aramaic *ḥewyāʾ*** (snake) — some scholars have proposed a connection to the Aramaic word for "snake," with the implication that *Ḥawwāh* and the Eden Serpent are etymologically connected. This is suggested by the Genesis Rabbah midrash and elaborated in some Kabbalistic materials. The connection is etymologically possible but not philologically demonstrable.
-- **The Phoenician *ḥwt*** (life-goddess) — a possible cognate to a Phoenician life-goddess figure, with some scholars proposing that *Ḥawwāh* preserves an ancient Semitic divine-name that has been demythologized in the Hebrew Bible's monotheistic reframing.
+- **阿拉姆语 *ḥewyāʾ***(蛇)— 有学者提出与阿拉姆语「蛇」一词的关联,其含意为 *Ḥawwāh* 与伊甸之蛇在词源上相连。这一点由《创世记拉巴》米德拉什所暗示,并在某些卡巴拉材料中得到发挥。该关联在词源上是可能的,但在语文学上无法证明。
+- **腓尼基语 *ḥwt***(生命女神)— 一个可能与腓尼基生命女神形象同源的词,有学者提出 *Ḥawwāh* 保存了一个古老闪族神名,而该神名在希伯来圣经的一神论重新框定中被去神话化了。
 
-The corpus reads the explicit Genesis 3:20 etymology as the principal and operationally significant one. *Ḥawwāh* is "the mother of all living" — the matriarch of the Eden-lineage human population, with the name preserving the biological-genealogical role that her subsequent history makes explicit. The framework does not develop the alternative etymological connections at length; the *Ḥawwāh* / serpent etymological possibility is registered but not adopted (the corpus's reading of Genesis 3 maintains that Eve is not identified with the Serpent, against the medieval Kabbalistic tradition's elaborations).
+本文集将创世记 3:20 明确给出的词源视为主要且具运作意义者。*Ḥawwāh* 是「众生之母」 — 伊甸世系人类人口的女祖,其名保存了她的后续历史所昭示的生物—家系角色。本框架并不详尽发展那些替代性的词源关联;*Ḥawwāh* / 蛇的词源可能性被记述但不采纳(本文集对创世记 3 的解读坚持夏娃不与蛇相认同,与中世纪卡巴拉传统的发挥相反)。
 
-### The cross-tradition forms
+### 跨传统的形式
 
-The names appear across the Hebrew, Greek, Latin, Arabic, and other traditions in the following principal forms:
+这些名字在希伯来、希腊、拉丁、阿拉伯及其他传统中以下列主要形式出现:
 
-- **Hebrew**: *ʾāḏām* (אָדָם), *Ḥawwāh* (חַוָּה)
-- **Greek (LXX and NT)**: *Adam* (Ἀδάμ), *Heua* (Εὕα)
-- **Latin (Vulgate)**: *Adam*, *Heva* (later *Eva*)
-- **Aramaic / Syriac**: *ʾĀḏām*, *Ḥawwâ*
-- **Arabic (Qur'an and Islamic tradition)**: *Ādam* (آدم), *Ḥawwāʾ* (حواء)
-- **English**: Adam, Eve
+- **希伯来语**:*ʾāḏām*(אָדָם)、*Ḥawwāh*(חַוָּה)
+- **希腊语(七十士译本与新约)**:*Adam*(Ἀδάμ)、*Heua*(Εὕα)
+- **拉丁语(武加大译本)**:*Adam*、*Heva*(后作 *Eva*)
+- **阿拉姆语 / 叙利亚语**:*ʾĀḏām*、*Ḥawwâ*
+- **阿拉伯语(《古兰经》与伊斯兰传统)**:*Ādam*(آدم)、*Ḥawwāʾ*(حواء)
+- **英语**:Adam、Eve
 
-The Arabic tradition's *Ādam wa-Ḥawwāʾ* preserves the Hebrew names in their direct Arabic-cognate forms, with the Qur'anic narrative of Adam and Eve (treated principally in surahs 2:30–39, 7:11–25, and 20:115–123) developing the Hebrew tradition's narrative with substantive theological elaborations specific to Islamic context.
+阿拉伯传统的 *Ādam wa-Ḥawwāʾ* 以直接的阿拉伯同源形式保存了希伯来名字,而《古兰经》中亚当与夏娃的叙事(主要见于第 2:30–39、7:11–25 与 20:115–123 章)在伊斯兰语境特有的实质性神学发挥中,发展了希伯来传统的叙事。
 
-## In the Hebrew Bible and New Testament
+## 在希伯来圣经与新约中
 
-Adam and Eve appear principally in Genesis 2–5, with substantial subsequent biblical and post-biblical interpretive elaboration. The corpus's reading distinguishes carefully between the Genesis 1 summary creation account, the Genesis 2 specific Eden-narrative account, and the subsequent textual elaborations.
+亚当与夏娃主要出现于创世记 2–5 章,并在后续大量的圣经及后圣经诠释中得到发挥。本文集的解读在创世记 1 概要创造记述、创世记 2 特定的伊甸叙事记述,以及后续文本发挥之间作出了审慎的区分。
 
-### Genesis 1:26–28: the summary creation account
+### 创世记 1:26–28:概要创造记述
 
-Genesis 1:26–28 records the creation of humans within the seven-day creation sequence:
+{% library(book="genesis-woh", chapter=1, verse=26) %}
+耶洛因说:「我们要照着我们的形象、按着我们的样式造人,使他们管理海里的鱼、空中的鸟、地上的牲畜,和全地,并地上所爬的一切昆虫。」
+{% end %}
 
-> *"Then Elohim said, 'Let us make humanity (ʾāḏām) in our image (bə-ṣalmēnû), after our likeness (ki-dmûtēnû); and let them have dominion over the fish of the sea and over the birds of the air and over the cattle and over all the earth and over every creeping thing that creeps upon the earth.' So Elohim created humanity (ʾāḏām) in his image (bə-ṣalmô), in the image of Elohim (bə-ṣelem ʾĕlōhîm) he created him; male and female he created them. And Elohim blessed them."* (Genesis 1:26–28)
+创世记 1:26–28 记载了人类在七日创造序列中的创造:
 
-The corpus reads Genesis 1:26–28 as the **summary account** of the broader human-creation program conducted by all seven Elohim creator teams across the Age of Leo (the sixth *yom* of the Genesis 1 sequence, on the corpus's precessional-age reading developed in the [Genesis](../genesis/) entry). The plural self-address (*naʿaśeh*, "let us make"; *bə-ṣalmēnû*, "in our image") is read as the Elohim civilization's plural reference, the *bə-ṣelem ʾĕlōhîm* ("in the image of Elohim") as the substantive biological reading that humans share substantial genetic and structural correspondence with their Eloha creators, and the *zakhar u-nəqēvâ* ("male and female") as the binary-creation pattern that all seven teams' work produced.
+> *「耶洛因说:『我们要照着我们的形象(bə-ṣalmēnû)、按着我们的样式(ki-dmûtēnû)造人(ʾāḏām),使他们管理海里的鱼、空中的鸟、地上的牲畜,和全地,并地上所爬的一切昆虫。』耶洛因就照着自己的形象(bə-ṣalmô)造人(ʾāḏām),乃是照着耶洛因的形象(bə-ṣelem ʾĕlōhîm)造男造女(zakhar u-nəqēvâ)。耶洛因就赐福给他们。」*(创世记 1:26–28)
 
-The Genesis 1 account does not name Adam and Eve specifically. The "ʾāḏām" of Genesis 1:26–27 is the generic species term, referring to the broader human-creation program rather than to specific individuals. The framework's reading is that Genesis 1 covers the full seven-team program, with Adam and Eve being the specific Israel-team contribution that the Genesis 2 narrative will detail.
+本文集将创世记 1:26–28 读作全部七个耶洛因创造者团队在狮子座时代所进行的、更广泛人类创造计划的**概要记述**(即创世记 1 序列中的第六个 *yom*,按本文集在[创世记](../genesis/)条目中所发展的岁差时代解读)。复数的自称(*naʿaśeh*,「我们要造」;*bə-ṣalmēnû*,「照着我们的形象」)被读作耶洛因文明的复数指涉,*bə-ṣelem ʾĕlōhîm*(「照着耶洛因的形象」)被读作其实质性的生物学含义,即人类与其耶洛因创造者共享相当的遗传与结构对应,而 *zakhar u-nəqēvâ*(「男与女」)被读作全部七个团队工作所产生的二元创造模式。
 
-### Genesis 2:4–25: the Eden synthesis narrative
+创世记 1 的记述并未具体命名亚当与夏娃。创世记 1:26–27 的「ʾāḏām」是泛指的物种术语,指更广泛的人类创造计划,而非具体个体。本框架的解读是:创世记 1 涵盖完整的七团队计划,而亚当与夏娃则是创世记 2 叙事将要详述的、以色列团队的特定贡献。
 
-Genesis 2:4–25 records the specific creation of Adam and Eve in the Eden installation:
+### 创世记 2:4–25:伊甸合成叙事
 
-> *"In the day that Yahweh Elohim made the earth and the heavens, when no plant of the field was yet in the earth and no herb of the field had yet sprung up... then Yahweh Elohim formed the man (ha-ʾāḏām) of dust from the ground (ʿāp̄ār min hā-ʾădāmâ), and breathed into his nostrils the breath of life (nišmaṯ ḥayyîm); and the man became a living being (nepeš ḥayyâ). And Yahweh Elohim planted a garden in Eden, in the east; and there he put the man whom he had formed."* (Genesis 2:4–8)
+{% library(book="genesis-woh", chapter=2, verse=7) %}
+耶和华耶洛因用地上的尘土造人,将生命之气吹在他鼻孔里,他就成了有生命的活物。
+{% end %}
 
-The narrative continues with the placement of the trees of the garden (the Tree of Life and the Tree of the Knowledge of Good and Evil), the rivers of Eden, the prohibition against eating from the Tree of Knowledge, the naming of the animals, and the formation of Eve:
+创世记 2:4–25 记载了亚当与夏娃在伊甸装置中的具体创造:
 
-> *"Then Yahweh Elohim said, 'It is not good that the man should be alone; I will make him a helper fit for him.'... So Yahweh Elohim caused a deep sleep to fall upon the man, and while he slept took one of his ribs (mi-ṣalʿōṯāyw) and closed up its place with flesh; and the rib (ha-ṣēlāʿ) which Yahweh Elohim had taken from the man he made into a woman (ʾiššâ) and brought her to the man."* (Genesis 2:18, 21–22)
+> *「耶和华耶洛因造地造天的日子,野地还没有草木,田间的菜蔬还没有长起来……耶和华耶洛因用地上的尘土(ʿāp̄ār min hā-ʾădāmâ)造人(ha-ʾāḏām),将生命之气(nišmaṯ ḥayyîm)吹在他鼻孔里,他就成了有生命的活物(nepeš ḥayyâ)。耶和华耶洛因在东方的伊甸立了一个园子,把所造的人安置在那里。」*(创世记 2:4–8)
 
-The chapter concludes with the man's recognition of the woman as *"bone of my bones, and flesh of my flesh"* and the etiological observation that *"a man leaves his father and his mother and cleaves to his wife, and they become one flesh."* The chapter's final note — *"and the man and his wife were both naked, and were not ashamed"* — sets up the subsequent Genesis 3 narrative.
+叙事接续以园中树木的安置(生命之树与分别善恶树)、伊甸的诸河、禁止吃分别善恶树的禁令、为动物命名,以及夏娃的成形:
 
-The corpus reads Genesis 2:4–25 as the **specific narrative** of the Israel team's Eden synthesis, with Adam and Eve as the named first humans of the team's specific work. Several specific features warrant treatment.
+> *「耶和华耶洛因说:『那人独居不好,我要为他造一个配偶帮助他。』……耶和华耶洛因使他沉睡,他就睡了;于是取下他的一条肋骨(mi-ṣalʿōṯāyw),又把肉合起来。耶和华耶洛因就用那人身上所取的肋骨(ha-ṣēlāʿ)造成一个女人(ʾiššâ),领她到那人跟前。」*(创世记 2:18、21–22)
 
-The "dust of the ground" language of Genesis 2:7 is read as a stylized account of biological synthesis using terrestrial substrate. The Eloha-side biological work was conducted with terrestrial materials providing the molecular building blocks and Elohim genetic material providing the design template. The "breath of life" (*nišmaṯ ḥayyîm*) breathed into the synthesized human's nostrils is read as the activation of the synthesized organism — the moment of biological initiation that completed the synthesis process.
+该章以那人认女人为*「我骨中的骨,肉中的肉」*作结,并以因由性的观察 — *「人要离开父母,与妻子连合,二人成为一体」* — 收束。该章的最后一句 — *「当时夫妻二人赤身露体,并不羞耻」* — 为随后的创世记 3 叙事埋下伏笔。
 
-The Hebrew word translated "rib" in Genesis 2:21–22 (*ṣēlāʿ*) carries broader meaning than the English "rib" suggests — *ṣēlāʿ* can mean "side," "panel," or "structural support" in other Hebrew Bible contexts. The corpus reads the Genesis 2:21–22 account as a stylized description of the biological synthesis of Eve from cells or genetic material taken from Adam, with the *ṣēlāʿ* language preserving an indirect reference to the cellular-biological source rather than a literal anatomical rib. Eve's biological foundation in Adam's cells provides her substantial genetic-biological compatibility with Adam, supporting the immediate fertility of their subsequent reproductive partnership.
+本文集将创世记 2:4–25 读作以色列团队伊甸合成的**特定叙事**,以亚当与夏娃为该团队特定工作所具名的最初人类。其中若干具体特征值得论述。
 
-The "deep sleep" (*tardēmâ*) Yahweh causes to fall upon Adam during Eve's formation is read as the operational state during which the cellular extraction and subsequent synthesis was conducted — a medical-anesthetic state appropriate to the surgical nature of the procedure.
+创世记 2:7「地上尘土」的语言,被读作对以地球基质所行生物合成的程式化记述。{{ footnote(id="2") }} 耶洛因一方的生物学工作以地球材料提供分子构件,以耶洛因遗传物质提供设计模板而进行。吹入所合成人类鼻孔的「生命之气」(*nišmaṯ ḥayyîm*),被读作所合成有机体的激活 — 即完成合成过程的生物启动时刻。
 
-### The Genesis 1 / Genesis 2 textual question
+创世记 2:21–22 中译作「肋骨」的希伯来词(*ṣēlāʿ*)所承载的含义比英语 “rib” 所示更广 — 在希伯来圣经其他语境中,*ṣēlāʿ* 可意为「侧」「板」或「结构性支撑」。本文集将创世记 2:21–22 的记述读作对夏娃由取自亚当之细胞或遗传物质所行生物合成的程式化描述,*ṣēlāʿ* 一语保存了对细胞—生物来源的间接指涉,而非字面的解剖学肋骨。夏娃在生物学上奠基于亚当的细胞,这赋予她与亚当相当的遗传—生物相容性,支持了他们随后生殖伴侣关系的即时生育力。
 
-The relationship between the Genesis 1 summary account (1:26–28) and the Genesis 2 specific narrative (2:4–25) is one of the most extensively discussed exegetical questions in biblical scholarship. The principal positions:
+耶和华在夏娃成形期间使亚当陷入的「沉睡」(*tardēmâ*),被读作进行细胞提取及随后合成的运作状态 — 一种与该手术性质相称的医用麻醉状态。
 
-**The traditional harmonization** — the rabbinic and patristic interpretive tradition treats the two accounts as complementary descriptions of the same creation event, with Genesis 1 providing the cosmic-summary frame and Genesis 2 providing the detailed narrative of the specific human-creation portion. This is the traditional Jewish and Christian reading.
+### 创世记 1 / 创世记 2 的文本问题
 
-**The documentary hypothesis** — the historical-critical scholarly position (developed by Wellhausen and successors across the late 19th and 20th centuries) treats the two accounts as compositions from distinct source documents (the Priestly source for Genesis 1 and the Yahwist source for Genesis 2) that have been juxtaposed by the Pentateuch's redactor without harmonization. The two accounts are recognized as genuinely distinct in vocabulary, theological emphasis, and creation sequence (Genesis 1 has plants → animals → humans; Genesis 2 has Adam → plants → animals → Eve), with the redactor leaving the discrepancies in the final form rather than smoothing them.
+创世记 1 概要记述(1:26–28)与创世记 2 特定叙事(2:4–25)之间的关系,是圣经研究中被讨论得最广泛的释经问题之一。其主要立场如下:
 
-**The corpus's reading** — the framework reads Genesis 1 as the summary account of the broader seven-team creation program (the seven *yamim* as precessional ages, with the sixth *yom* covering the human-creation work of all seven teams across the Age of Leo) and Genesis 2 as the detailed narrative of one specific team's work — the Israel team's Eden installation. The two accounts are thus genuinely distinct in scope (Genesis 1 covers the full program; Genesis 2 covers one team's portion of it) but complementary in their treatment of the same broader operational reality. This reading partially aligns with the documentary hypothesis (recognizing that the two accounts are textually and substantively distinct) while differing in interpretation (the corpus reads them as distinct in *scope* rather than as parallel-and-contradictory accounts of the same event).
+**传统的调和** — 拉比与教父的诠释传统将两段记述视为对同一创造事件的互补描述,创世记 1 提供宇宙—概要的框架,创世记 2 提供具体人类创造部分的详细叙事。这是传统的犹太教与基督教解读。
 
-The corpus's reading has the methodological advantage of explaining why both accounts are preserved together in the final Genesis text: they are not contradictory but covering different scopes of the same broader operational reality, with the redactor preserving both because both contain accurate information that the other does not.
+**底本假说** — 历史—批判学派的立场(由威尔豪森及其后继者在十九世纪后期至二十世纪间所发展)将两段记述视为出自各有区分之资料文献(创世记 1 出自祭司派资料,创世记 2 出自雅威派资料)的构成,由五经的编修者并置在一起而未加调和。{{ cite(id="skinner-genesis-icc", text="[3]", title="斯金纳,《创世记评注》(ICC,1910)") }}{{ cite(id="von-rad-genesis", text="[4]", title="冯·拉德,《创世记:一部注释》(1961)") }}{{ cite(id="westermann-genesis-1-11", text="[5]", title="韦斯特曼,《创世记 1–11:一部大陆注释》(1994)") }}{{ cite(id="sarna-genesis-jps", text="[6]", title="萨尔纳,《创世记:JPS 妥拉注释》(1989)") }} 两段记述在词汇、神学侧重与创造序列上(创世记 1 为植物 → 动物 → 人;创世记 2 为亚当 → 植物 → 动物 → 夏娃)被公认为确实各有区分,而编修者在最终形式中保留了这些不一致,而未加抹平。
 
-### Genesis 3: the disclosure and expulsion
+**本文集的解读** — 本框架将创世记 1 读作更广泛的七团队创造计划的概要记述(七个 *yamim* 为岁差时代,其中第六个 *yom* 涵盖全部七个团队在狮子座时代的人类创造工作),将创世记 2 读作某一特定团队工作的详细叙事 — 即以色列团队的伊甸装置。{{ footnote(id="1") }} 因此两段记述在范围上确实各有区分(创世记 1 涵盖完整计划;创世记 2 涵盖其中一个团队的部分),但在对同一更广泛运作现实的处理上是互补的。此一解读与底本假说部分契合(承认两段记述在文本上与实质上各有区分),而在解读上有所不同(本文集将其读作*范围*上的区分,而非对同一事件并行而矛盾的记述)。
 
-Genesis 3 narrates the Serpent's intervention, the eating from the Tree of Knowledge, and the expulsion from the garden — treated extensively in the [Serpent](../serpent/), [Lucifer](../lucifer/), and [Eden](../eden/) entries. For the Adam-and-Eve biographical arc, the relevant content includes:
+本文集的解读具有方法论上的优势,能够解释两段记述为何在最终的《创世记》文本中被一并保存:它们并不矛盾,而是涵盖同一更广泛运作现实的不同范围,编修者保存二者,是因为二者各自含有对方所没有的准确信息。
 
-- The Serpent's address to Eve specifically, the dialogue about the prohibition, Eve's eating from the tree, Eve's giving the fruit to Adam, Adam's eating
-- The post-eating recognition of nakedness and the response of shame
-- Yahweh's investigation, with Adam's deflection of responsibility to Eve and Eve's deflection of responsibility to the Serpent
-- The pronouncement of consequences on the Serpent, on Eve (pain in childbirth, subordination to Adam), and on Adam (toil to extract food from the ground)
-- The expulsion from the garden, with the cherubim and the flaming sword stationed at the entrance to prevent re-access to the Tree of Life
-- The provision of "coats of skins" (*koṯnoṯ ʿôr*) for Adam and Eve before their expulsion
+### 创世记 3:披露与逐出
 
-The corpus reads these elements as operational realities preserved in stylized narrative form. The detailed treatment lives in the Serpent and Eden entries; for the Adam-and-Eve biographical arc, the principal point is that Adam and Eve received the Lucifer-faction disclosure together, were judged together by Yahweh, and were expelled together from the controlled environment.
+创世记 3 叙述了蛇的介入、吃分别善恶树果子,以及被逐出园子 — 在[蛇](../serpent/)、[路西法](../lucifer/)与[伊甸园](../eden/)条目中有详尽论述。就亚当与夏娃的传记弧线而言,相关内容包括:
 
-The Raëlian source material is explicit that the disclosure was offered to both humans, the affection of the disclosing creators was for both, and the consequences of the awakening fell equally on both. The misogynistic interpretive tradition that has read Eve as uniquely culpable is a later development, not the text's own framing. The corpus rejects the conventional Christian theological reading that places primary responsibility on Eve and treats Adam's eating as a secondary consequence.
+- 蛇专门向夏娃的进言、关于禁令的对话、夏娃吃树上果子、夏娃将果子给亚当、亚当吃下
+- 吃后对赤身露体的察觉以及羞耻的反应
+- 耶和华的查问,其中亚当将责任推卸给夏娃,夏娃将责任推卸给蛇
+- 对蛇、对夏娃(生产之苦、从属于亚当)、对亚当(劳苦从地里得粮)所宣告的后果
+- 被逐出园子,基路伯与四面转动发火焰的剑被设置于入口处以阻止重新接近生命之树
+- 在逐出之前为亚当与夏娃所提供的「皮衣」(*koṯnoṯ ʿôr*)
 
-### Genesis 4–5: the post-Eden generations
+本文集将这些要素读作以程式化叙事形式所保存的运作现实。其详细论述存于蛇与伊甸园条目中;就亚当与夏娃的传记弧线而言,主要的要点是:亚当与夏娃一同接受了路西法派系的披露,一同受耶和华的审判,并一同被逐出受控环境。
 
-Genesis 4 narrates the birth of Cain and Abel to Adam and Eve, the conflict between the brothers culminating in Cain's murder of Abel, the curse on Cain, and the subsequent genealogical material on Cain's descendants (the cultural-founders genealogy: Jabal, Jubal, Tubal-Cain). Genesis 4:25 records the birth of Seth as Eve's third named son: *"And Adam knew his wife again, and she bore a son and called his name Seth (Šēṯ), for she said, 'Elohim has appointed (šāṯ) for me another offspring instead of Abel, for Cain killed him.'"*
+雷尔派源材料明确指出,披露是向两个人提供的,作出披露的创造者对二者的情感是一致的,觉醒的后果也同等地落在二者身上。{{ footnote(id="4") }} 将夏娃读作独具罪责的厌女诠释传统,是一项后起的发展,而非文本自身的框定。本文集拒斥那将主要责任归于夏娃、并将亚当之吃视为次要后果的惯常基督教神学解读。
 
-Genesis 5 records the patriarchal genealogy from Adam through Seth's line to Noah, with specific recorded ages for each patriarch. Adam's recorded life is stated at 5:5: *"Thus all the days that Adam lived were nine hundred and thirty years; and he died."* Eve's death is not separately recorded in the Hebrew Bible.
+### 创世记 4–5:后伊甸世代
 
-The corpus reads the Genesis 4–5 material as historical-genealogical record. The principal elements:
+创世记 4 叙述了该隐与亚伯生于亚当与夏娃、兄弟之间的冲突最终导致该隐杀亚伯、对该隐的咒诅,以及随后关于该隐后裔的家谱材料(文化创立者家谱:雅八、犹八、土八该隐)。创世记 4:25 记载塞特作为夏娃第三个具名之子的出生:*「亚当又与妻子同房,她就生了一个儿子,起名叫塞特(Šēṯ),意思说:『耶洛因另给我立(šāṯ)了一个儿子代替亚伯,因为该隐杀了他。』」*
 
-- Cain and Abel are read as Adam and Eve's first two named sons in the ordinary genealogical sense — *not* as different-lineage products as the Biglino "Cain-of-the-serpent-lineage" reading proposes (treated more fully in the [Serpent](../serpent/) entry's modern-reinterpretations section). The corpus rejects the bloodline-purification reading.
-- The Cain-Abel conflict is read as a specific interpersonal conflict over offerings, with the source material adding context that the exiled creators (the Lucifer faction) were encouraging the humans to bring offerings as evidence to the home-world council that the humans were well-behaved and grateful. Yahweh's preference for Abel's animal offering over Cain's agricultural offering produced the resentment that led to the murder.
-- The cultural-founders genealogy of Cain's line (Genesis 4:17–22) is read as the developmental record of the early antediluvian Eden civilization's specific cultural-technological accomplishments: city-building (Cain's city), pastoral nomadism (Jabal), music (Jubal), and metallurgy (Tubal-Cain).
-- Seth is read as Adam and Eve's third named son, born after Abel's murder, and the founder of the alternative genealogical line through which the patriarchal succession (recorded in Genesis 5) would proceed to Noah.
-- Adam's recorded 930 years is read in connection with the broader patriarchal-longevity question (treated more fully in the [Antediluvian](../antediluvian/) and [Tree of Life](../tree-of-life/) entries). The corpus's reading is that Adam's longevity was a specific consequence of the Lucifer faction's continuing post-Eden support, with the longevity treatment provided to specific Eden-lineage figures across the antediluvian period.
+创世记 5 记载了从亚当经塞特一脉直至挪亚的族长家谱,并为每位族长记载了具体年岁。亚当所记载的寿数见于 5:5:*「亚当共活了九百三十岁就死了。」*夏娃的死则未在希伯来圣经中另行记载。
 
-The framework's reading does not develop the question of Eve's death at length. The Hebrew Bible's silence on this point is consistent with several possible readings: that Eve predeceased Adam without specific record, that Eve was taken up at some point during the antediluvian period (paralleling the later Enoch case), or that Eve's death was simply not recorded in the Hebrew tradition. The corpus does not commit to a specific reading on this point.
+本文集将创世记 4–5 材料读作历史—家谱记录。其主要要素:
 
-### Other Hebrew Bible references
+- 该隐与亚伯被读作亚当与夏娃在通常家谱意义上最先具名的两个儿子 — 而*非*比格利诺「该隐属蛇之世系」解读所提出的不同世系产物(在[蛇](../serpent/)条目的现代再诠释一节中有更充分论述)。本文集拒斥血统纯化的解读。
+- 该隐—亚伯冲突被读作一场围绕供物的特定人际冲突,源材料补充了背景:被流放的创造者(路西法派系)正鼓励人类带来供物,作为向母星议会证明人类品行良好且心怀感恩的证据。耶和华偏爱亚伯的动物供物而非该隐的农产供物,产生了导致谋杀的怨恨。
+- 该隐一脉的文化创立者家谱(创世记 4:17–22)被读作早期大洪水前伊甸文明具体文化—技术成就的发展记录:建城(该隐之城)、游牧畜养(雅八)、音乐(犹八)与冶金(土八该隐)。
+- 塞特被读作亚当与夏娃第三个具名之子,生于亚伯被杀之后,并成为那条替代性家系的奠基者 — 族长承继(记于创世记 5)将经由这条家系延续至挪亚。
+- 亚当所记载的 930 岁被读作与更广泛的族长长寿问题相联系(在[大洪水前](../antediluvian/)与[生命之树](../tree-of-life/)条目中有更充分论述)。本文集的解读是:亚当的长寿是路西法派系后伊甸时期持续支持的特定后果,该长寿处理在大洪水前时期被授予特定的伊甸世系人物。
 
-Adam appears by name in several other Hebrew Bible passages:
+本框架的解读并不详尽发展夏娃之死的问题。希伯来圣经在这一点上的沉默,与若干可能的解读相容:夏娃先于亚当而死却无具体记录,夏娃在大洪水前时期某一时点被取去(与后来以诺的情形相平行),或夏娃之死在希伯来传统中根本未被记载。本文集在这一点上不承诺某一具体解读。
 
-- **1 Chronicles 1:1**: *"Adam, Seth, Enosh..."* — the opening of the Chronicler's genealogical compendium, naming Adam as the first figure.
-- **Hosea 6:7**: *"Like Adam they transgressed the covenant"* — the prophet's reference to the Adam-and-Eve disclosure in connection with Israel's covenant violations.
-- **Job 31:33**: *"if I have concealed my transgressions like Adam"* — Job's reference using Adam as the type of failed concealment.
+### 希伯来圣经的其他提及
 
-Eve does not appear by name in the Hebrew Bible outside of Genesis. The Hebrew tradition's treatment of Eve as a named figure is therefore textually limited to the Genesis narrative.
+亚当在希伯来圣经的若干其他经文中具名出现:
 
-### New Testament references
+- **历代志上 1:1**:*「亚当生塞特,塞特生以挪士……」* — 历代志作者家谱汇编的开篇,以亚当为首位人物具名。
+- **何西阿书 6:7**:*「他们却如亚当背约」* — 先知就以色列违背圣约一事,对亚当与夏娃披露事件的提及。
+- **约伯记 31:33**:*「我若像亚当遮掩我的过犯」* — 约伯以亚当为遮掩失败之典型的提及。
 
-The New Testament makes substantial use of Adam and Eve in theological argumentation. The principal passages:
+夏娃在《创世记》之外的希伯来圣经中并不具名出现。因此,希伯来传统将夏娃作为具名人物的处理,在文本上仅限于《创世记》叙事。
 
-- **Romans 5:12–21**: Paul's typological argument that Adam introduced sin and death into the world, with Christ as the second Adam who reverses Adam's effects. The passage is foundational for the Augustinian original-sin doctrine.
-- **1 Corinthians 15:21–22, 45–49**: Paul's parallel typological argument: *"For as in Adam all die, so also in Christ shall all be made alive"* (15:22), and *"The first Adam became a living being, the last Adam became a life-giving spirit"* (15:45). The "second Adam" Christology is developed here.
-- **1 Timothy 2:13–14**: *"Adam was formed first, then Eve; and Adam was not deceived, but the woman was deceived and became a transgressor."* This passage is foundational for the misogynistic interpretive tradition that places primary responsibility on Eve.
-- **2 Corinthians 11:3**: Paul's reference to *"the serpent's deception of Eve."*
-- **Jude 14**: Reference to *"Enoch, the seventh from Adam"* — using Adam as the genealogical anchor.
+### 新约的提及
 
-The corpus reads the Pauline Adam-typology as a specific theological-rhetorical use of the Adam figure rather than as a direct historical reference. The Adam-Christ typology is theologically productive within the New Testament's argumentative framework but is not, on the framework's reading, a direct historical claim about the Adam figure's actual operational role. The 1 Timothy 2:13–14 passage's specific "woman was deceived" framing is the textual basis of the subsequent misogynistic tradition that the framework rejects on the grounds the Raëlian source material specifies (the disclosure was offered to both humans equally).
+新约在神学论证中大量运用了亚当与夏娃。主要经文如下:
 
-## Biographical arc
+- **罗马书 5:12–21**:保罗的预表论论证,亚当将罪与死带入世界,而基督为逆转亚当效应的第二个亚当。该段是奥古斯丁原罪教义的基础。
+- **哥林多前书 15:21–22、45–49**:保罗的平行预表论论证:*「在亚当里众人都死了,照样,在基督里众人也都要复活」*(15:22),以及 *「头一个人亚当成了有灵的活人;末后的亚当成了叫人活的灵」*(15:45)。「第二个亚当」基督论在此得到发展。
+- **提摩太前书 2:13–14**:*「因为先造的是亚当,后造的是夏娃;且不是亚当被引诱,乃是女人被引诱,陷在罪里。」*此段是将主要责任归于夏娃之厌女诠释传统的基础。
+- **哥林多后书 11:3**:保罗对*「蛇用诡诈诱惑了夏娃」*的提及。
+- **犹大书 14**:对*「亚当的七世孙以诺」*的提及 — 以亚当为家谱锚点。
 
-Adam and Eve's biographical arc, as the framework reads it, spans from their de novo synthesis in the late Age of Leo through their continuing presence on the Planet of the Eternals in the contemporary period. Given the joint character of their narrative, the arc is structured with parallel and shared sub-sections.
+本文集将保罗的亚当预表论读作对亚当形象的特定神学—修辞运用,而非直接的历史指涉。亚当—基督预表论在新约的论证框架内具有神学上的生产性,但按本框架的解读,这并非关于亚当形象实际运作角色的直接历史主张。提摩太前书 2:13–14 中「女人被引诱」的具体框定,是本框架按雷尔派源材料所指明的理据(披露是平等地向两个人提供的)而予以拒斥的、后续厌女传统的文本依据。
 
-### Pre-creation: the Israel team's preparatory work
+## 传记弧线
 
-The Israel team's preparatory work in the Eden region preceded Adam and Eve's specific synthesis by some period, with the team establishing its installation, preparing the controlled environment, conducting various preliminary biological work (the plants and animals of Genesis 2's narrative), and developing the specific protocols for human synthesis. The detailed treatment of this preparatory period lives in the [Eden](../eden/) entry; for the Adam-and-Eve biographical arc, the principal point is that the team was prepared to conduct human synthesis when Adam and Eve were specifically created.
+按本框架的解读,亚当与夏娃的传记弧线,自其在狮子座时代晚期的 de novo 合成,延伸至当代时期其在永恒者行星上的持续存在。鉴于其叙事的共同性质,该弧线以并行与共享的子节加以组织。
 
-The seven creator teams' work across the late Age of Leo produced parallel human-creation projects at distinct sites across the antediluvian supercontinent. The Israel team's specific work at the Eden site produced Adam and Eve as the first humans of the lineage whose subsequent history would be preserved in the Hebrew Bible. The other six teams produced parallel lineages whose histories survive in fragmentary form across other ancient cultural traditions.
+### 创造之前:以色列团队的预备工作
 
-### Synthesis: Adam first, then Eve
+以色列团队在伊甸地区的预备工作,在亚当与夏娃的具体合成之前已进行了一段时期,期间该团队建立其装置、预备受控环境、进行各种初步生物学工作(创世记 2 叙事中的植物与动物),并发展出人类合成的具体规程。这一预备时期的详细论述存于[伊甸园](../eden/)条目中;就亚当与夏娃的传记弧线而言,主要的要点是:当亚当与夏娃被具体创造时,该团队已为进行人类合成做好了准备。
 
-Adam was synthesized first, on the corpus's reading. The Genesis 2:7 account — *"Yahweh Elohim formed the man of dust from the ground, and breathed into his nostrils the breath of life; and the man became a living being"* — is read as the operational record of the first synthesis. The biological process involved:
+七个创造者团队在狮子座时代晚期的工作,在大洪水前超大陆各处的不同地点产生了并行的人类创造项目。以色列团队在伊甸地点的特定工作,产生了亚当与夏娃,作为那支其后续历史将被保存于希伯来圣经中之世系的最初人类。其余六个团队产生了并行的世系,其历史以片段形式存留于其他古代文化传统之中。
 
-- The use of terrestrial materials as molecular substrate for the synthesis
-- Elohim genetic material as the principal template, with the synthesized human carrying substantial genetic correspondence to his Eloha creators
-- The activation of the synthesized organism through what the Hebrew text calls the *nišmaṯ ḥayyîm* ("breath of life") — read by the corpus as the moment of biological initiation
-- The result: a functional adult human with substantial cognitive capacity, biological viability, and reproductive potential
+### 合成:先亚当,后夏娃
 
-Eve was synthesized subsequently, with her synthesis using cellular or genetic material from Adam as part of the source material. The Genesis 2:21–22 account — Adam's "deep sleep," the taking of the *ṣēlāʿ* ("rib" / "side" / "structural support"), the formation of the woman, the bringing of her to the man — is read as the operational record of this specific synthesis.
+按本文集的解读,亚当先被合成。创世记 2:7 的记述 — *「耶和华耶洛因用地上的尘土造人,将生命之气吹在他鼻孔里,他就成了有生命的活物」* — 被读作首次合成的运作记录。该生物过程涉及:
 
-The framework reads the deliberate Adam-first / Eve-from-Adam synthesis sequence as the Israel team's specific procedural choice rather than as the universal pattern of all seven teams' work. The Genesis 1 summary account explicitly records the binary creation pattern (*"male and female he created them"*) as simultaneous, suggesting that other teams may have synthesized male and female humans simultaneously. The Israel team's specific Adam-first sequence is one team's specific procedural choice within the broader project.
+- 以地球材料为合成的分子基质
+- 以耶洛因遗传物质为主要模板,所合成的人类与其耶洛因创造者具有相当的遗传对应
+- 通过希伯来文本所称 *nišmaṯ ḥayyîm*(「生命之气」)对所合成有机体的激活 — 被本文集读作生物启动的时刻
+- 其结果:一个具有相当认知能力、生物生存力与生殖潜能的功能性成年人类
 
-The biological-genetic implications of Eve's formation from Adam's cellular material are substantial. Eve is, on the framework's reading, substantially genetically related to Adam — sharing more genetic material with him than would be the case if she had been independently synthesized. This near-identity provides the immediate fertility of their subsequent reproductive partnership and gives substantive content to Adam's Genesis 2:23 recognition: *"This at last is bone of my bones and flesh of my flesh."*
+夏娃随后被合成,其合成以取自亚当的细胞或遗传物质为部分来源材料。创世记 2:21–22 的记述 — 亚当的「沉睡」、取下 *ṣēlāʿ*(「肋骨」/「侧」/「结构性支撑」)、女人的成形、领她到那人跟前 — 被读作这一特定合成的运作记录。
 
-### Education and life in Eden
+本框架将刻意采取的「先亚当 / 夏娃出自亚当」合成序列,读作以色列团队特定的程序选择,而非全部七个团队工作的普世模式。创世记 1 的概要记述明确将二元创造模式(*「造男造女」*)记载为同时进行,暗示其他团队可能同时合成了男性与女性人类。以色列团队特定的「先亚当」序列,是这一个团队在更广泛项目中的特定程序选择。
 
-Adam and Eve's life in the Eden installation prior to the disclosure event was an extended period of education and observation by the Israel team. The principal features:
+夏娃由亚当细胞材料成形,其生物—遗传含意是实质性的。按本框架的解读,夏娃与亚当在遗传上有相当的亲缘关系 — 与她若被独立合成相比,她与亚当共享更多遗传物质。这种近乎同一,提供了他们随后生殖伴侣关系的即时生育力,并为亚当在创世记 2:23 的认知赋予了实质内容:*「这是我骨中的骨,肉中的肉。」*
 
-**The educational program**. The Israel team's scientists conducted a substantial educational program with Adam and Eve, teaching them language, basic technological capacity, social-cultural patterns, and the broader cognitive-cultural infrastructure that constituted their developed humanity. The program was constrained by the home-world's containment policy — specific scientific and technological content was withheld, with the prohibition on the Tree of Knowledge being the formal expression of this withholding — but was substantial within those constraints.
+### 在伊甸的教育与生活
 
-**The naming of the animals**. Genesis 2:19–20 records Adam's naming of the animals — *"Whatever the man called every living creature, that was its name."* The corpus reads this as a specific educational exercise in which Adam developed the linguistic and conceptual apparatus through which he would understand his environment, with the naming conducted in the language the Israel team was teaching him (the language closely resembling ancient Hebrew, per the source material's specific claim treated in the [Hebrew](../hebrew/) entry).
+亚当与夏娃在披露事件之前于伊甸装置中的生活,是以色列团队进行的一段漫长的教育与观察时期。其主要特征:
 
-**The relationship with the Israel team**. Adam and Eve developed substantial personal relationships with the Israel team's scientists across their pre-disclosure period in Eden. The corpus reads the relationship as a substantive teacher-student / parent-child dynamic, with the scientists invested in their human students' development. The future Lucifer faction's specific attachment to the humans developed across this period, providing the personal foundation for the dissenting position that would ultimately produce the disclosure.
+**教育计划**。以色列团队的科学家对亚当与夏娃进行了一项实质性的教育计划,教导他们语言、基本技术能力、社会—文化模式,以及构成其成熟人性的更广泛认知—文化基础设施。该计划受母星遏制政策的约束 — 特定的科学与技术内容被扣留,对分别善恶树的禁令即是这一扣留的正式表达 — 但在那些约束之内是实质性的。
 
-**The pre-disclosure state**. Genesis 2:25 records the pre-disclosure state: *"And the man and his wife were both naked, and were not ashamed."* The framework reads this as the prelapsarian condition of the educational period — Adam and Eve operating within the controlled environment without the full self-awareness that the disclosure would produce, with their lack of shame reflecting the integrated relationship they had with their creators.
+**为动物命名**。创世记 2:19–20 记载了亚当为动物命名 — *「那人怎样叫各样的活物,那就是它的名字。」*本文集将此读作一项具体的教育练习,亚当在其中发展出他将藉以理解其环境的语言与概念装置,而命名是以以色列团队正在教导他的语言进行的(该语言与古希伯来语极为相近,按源材料在[希伯来语](../hebrew/)条目中所论述的具体主张)。
 
-### The Eden disclosure
+**与以色列团队的关系**。亚当与夏娃在伊甸的披露前时期,与以色列团队的科学家发展出实质性的私人关系。本文集将此关系读作一种实质性的师—生 / 亲—子动态,科学家们对其人类学生的发展投入颇深。未来路西法派系对人类的特定依恋在此时期发展起来,为最终产生披露的异见立场提供了私人基础。
 
-The Eden disclosure event is treated extensively in the [Serpent](../serpent/) and [Lucifer](../lucifer/) entries. For the Adam-and-Eve biographical arc, the principal points:
+**披露前的状态**。创世记 2:25 记载了披露前的状态:*「当时夫妻二人赤身露体,并不羞耻。」*本框架将此读作教育时期的堕落前境况 — 亚当与夏娃在受控环境内运作,尚不具备披露将要产生的完全自我意识,他们的不羞耻反映出他们与创造者之间整合的关系。
 
-The disclosure was conducted by the Lucifer faction, with the Serpent's specific dialogue with Eve being the public articulation of the dissenting position. Eve was the first specifically addressed because of the dissenting faction's calculation about the most effective approach to the disclosure (the Genesis text does not specify why Eve specifically was approached; the corpus does not develop a definitive reading on this point). Eve received the disclosure, accepted it, and gave the relevant material to Adam, who also accepted it. The consequence was their acquisition of substantial scientific knowledge they had previously been denied — the *"knowing of good and evil"* of Genesis 3:5 and 3:22.
+### 伊甸披露
 
-The post-disclosure recognition of nakedness is read by the corpus as the consequence of the new self-awareness the disclosure produced. With substantial scientific knowledge, Adam and Eve now understood themselves as biological beings in ways they had not previously, with the result that the bodily-biological dimensions of their existence became newly conscious.
+伊甸披露事件在[蛇](../serpent/)与[路西法](../lucifer/)条目中有详尽论述。就亚当与夏娃的传记弧线而言,主要的要点:
 
-Yahweh's subsequent investigation, with Adam's deflection ("the woman whom you gave to be with me, she gave me fruit of the tree, and I ate") and Eve's deflection ("the serpent beguiled me, and I ate"), is read as Adam's and Eve's specific responses to the political crisis the disclosure had produced. The corpus does not read these deflections as morally damning — they are the responses of newly-awakened beings to a sudden political-existential crisis — but does register them as characteristic of the post-disclosure moment.
+披露由路西法派系所进行,蛇与夏娃的具体对话是异见立场的公开表述。夏娃之所以最先被专门进言,是因为异见派系就最有效的披露方式所作的算计(《创世记》文本并未指明夏娃为何被专门接触;本文集在这一点上不发展确定的解读)。夏娃接受了披露,接纳了它,并将相关材料给了亚当,后者也予以接纳。其后果是他们获得了此前被剥夺的大量科学知识 — 即创世记 3:5 与 3:22 的*「能知道善恶」*。
 
-### Expulsion and the post-Eden settlement
+披露后对赤身露体的察觉,被本文集读作披露所产生新自我意识的后果。具备了大量科学知识,亚当与夏娃如今以此前所未有的方式理解自身为生物性存在,其结果是其存在的身体—生物维度变得新近自觉。
 
-The expulsion from the garden is read by the corpus as the operational consequence of the home-world's political verdict. The "coats of skins" (*koṯnoṯ ʿôr*) that Yahweh provides for Adam and Eve before their expulsion (Genesis 3:21) are read as the basic material resources required for their survival outside the controlled environment — the minimum equipment for living independently in the broader Eden region.
+耶和华随后的查问,以及亚当的推卸(「你所赐给我、与我同居的女人,她把那树上的果子给我,我就吃了」)与夏娃的推卸(「那蛇引诱我,我就吃了」),被读作亚当与夏娃对披露所产生政治危机的特定反应。本文集并不将这些推卸读作道德上的定罪 — 它们是新近觉醒的存在对一场突如其来的政治—存在危机的反应 — 但确实将其记述为披露后时刻的典型特征。
 
-The expulsion's specifics include:
+### 逐出与后伊甸的安置
 
-- The relocation outside the boundaries of the prepared Eden installation
-- The placement of the cherubim and the flaming sword (*lahaṭ ha-ḥereḇ ha-mithappeḵeṯ*, the "rotating flame-blade") at the entrance — read by the corpus as armed sentries with directed-energy weapons preventing re-access
-- The consequence of laboring "in the sweat of your face" (Genesis 3:19) for Adam and "in pain... bring forth children" (Genesis 3:16) for Eve — read by the corpus as the operational reality of life outside the controlled environment, with food production and reproduction now having to be managed without the supportive technology of the installation
+被逐出园子,被本文集读作母星政治裁决的运作后果。耶和华在逐出之前为亚当与夏娃所提供的「皮衣」(*koṯnoṯ ʿôr*)(创世记 3:21),被读作他们在受控环境之外生存所需的基本物质资源 — 即在更广阔伊甸地区独立生活的最低限度装备。
 
-Adam and Eve's life in the post-Eden Eden region was the foundational period of the early antediluvian Eden civilization. The corpus reads their post-expulsion life as substantial — they continued to receive support from the exiled Lucifer faction, who remained on Earth as their continuing teachers, and they progressively developed the cultural and material infrastructure that their offspring would inherit.
+逐出的具体情况包括:
 
-### First-generation children: Cain, Abel, Seth, and others
+- 迁出预备好的伊甸装置的边界之外
+- 在入口处设置基路伯与四面转动发火焰的剑(*lahaṭ ha-ḥereḇ ha-mithappeḵeṯ*,「转动的火焰刃」)— 被本文集读作配备定向能武器、阻止重新接近的武装哨兵
+- 亚当「必汗流满面才得糊口」(创世记 3:19)、夏娃「必多受苦楚……生产儿女」(创世记 3:16)的后果 — 被本文集读作受控环境之外生活的运作现实,粮食生产与生殖如今须在没有装置的支持技术下加以应对
 
-The Genesis 4 narrative records Cain and Abel as Adam and Eve's first two named sons, with Seth as their third named son following Abel's murder. Genesis 5:4 adds that Adam *"had other sons and daughters"* whose names are not recorded.
+亚当与夏娃在后伊甸的伊甸地区的生活,是早期大洪水前伊甸文明的奠基时期。本文集将其逐出后的生活读作实质性的 — 他们继续从被流放的路西法派系处获得支持,后者作为其持续的教师留在地球上,而他们逐步发展出其后代将要承继的文化与物质基础设施。
 
-The Cain-Abel-Seth narrative is the framework's principal evidence for several substantive readings:
+### 第一代子女:该隐、亚伯、塞特及其他
 
-**Cain and Abel as ordinary genealogical sons**. Both are read as Adam and Eve's biological sons in the ordinary sense, with Cain's "lineage of the serpent" reading (developed by Biglino on the basis of Genesis 3:15's "I will put enmity between your seed and her seed") rejected by the corpus.
+创世记 4 叙事记载该隐与亚伯为亚当与夏娃最先具名的两个儿子,塞特则为他们在亚伯被杀之后第三个具名之子。创世记 5:4 补充亚当*「又生儿养女」*,其名未被记载。
 
-**The Cain-Abel conflict**. Read as a specific interpersonal conflict over offerings to Yahweh, with substantive operational context: the exiled Lucifer faction was encouraging the humans to bring offerings as evidence to the home-world council that the humans were well-behaved and grateful. Yahweh's preference for Abel's animal offering produced the resentment that led to Cain's murder of Abel. The conflict reflects the early generation's experience of the post-Eden political situation, in which the human offspring were caught between the alliance authority's expectations and the exiled faction's continuing involvement.
+该隐—亚伯—塞特叙事是本框架若干实质性解读的主要依据:
 
-**Seth as the lineage-continuing son**. The Sethite line of Genesis 5 is read as the principal genealogical line through which the Eden civilization's leadership would proceed to Noah. The Cainite line of Genesis 4:17–24 is read as the parallel genealogical line through which the cultural-technological development of the early antediluvian civilization would be conducted. Both lines are descended from Adam and Eve; both lines contributed to the Eden civilization's development.
+**该隐与亚伯为通常的家谱之子**。二者均被读作通常意义上亚当与夏娃的生物之子,而该隐「属蛇之世系」的解读(由比格利诺基于创世记 3:15「我又要叫你和女人彼此为仇,你的后裔和女人的后裔也彼此为仇」所发展)则被本文集所拒斥。
 
-**The unnamed siblings**. Genesis 5:4's mention of "other sons and daughters" provides the framework's explanation for the post-Eden population's growth — the broader sibling population (whose names the Hebrew Bible does not record) constituted the broader founder population for the developing civilization, with Cain, Abel, and Seth being named because of their specific narrative significance rather than because they were the only children.
+**该隐—亚伯冲突**。被读作一场围绕向耶和华献供物的特定人际冲突,具有实质性的运作背景:被流放的路西法派系正鼓励人类带来供物,作为向母星议会证明人类品行良好且心怀感恩的证据。耶和华偏爱亚伯的动物供物,产生了导致该隐杀亚伯的怨恨。该冲突反映出早期世代对后伊甸政治局势的体验,人类后代在其中被夹在同盟权威的期望与被流放派系的持续介入之间。
 
-### The longevity question and Adam's recorded 930 years
+**塞特为延续世系之子**。创世记 5 的塞特一脉被读作伊甸文明领导层将经由其延续至挪亚的主要家系。创世记 4:17–24 的该隐一脉被读作早期大洪水前文明文化—技术发展将经由其进行的并行家系。两条家系均出自亚当与夏娃;两条家系均对伊甸文明的发展有所贡献。
 
-Adam's recorded life of 930 years (Genesis 5:5) is the framework's principal evidence for the patriarchal-longevity question, treated more fully in the [Antediluvian](../antediluvian/) and [Tree of Life](../tree-of-life/) entries. The corpus's reading:
+**未具名的兄弟姊妹**。创世记 5:4 所提及的「儿女」为本框架解释后伊甸人口增长提供了依据 — 更广泛的兄弟姊妹人口(其名未被希伯来圣经记载)构成了发展中文明的更广泛奠基人口,而该隐、亚伯与塞特之所以被具名,是因其具体的叙事意义,而非因其为唯一的子女。
 
-The 930-year lifespan is treated as substantively accurate to the source material's claim that the antediluvian patriarchs received specific longevity treatment from the Lucifer faction's continuing post-Eden support. The longevity is not natural to the synthesized humans (the Genesis text indicates that the alliance's containment policy specifically restricted human lifespan to natural limits) but was a specific later intervention provided by the exiled Lucifer faction to Adam and other Eden-lineage patriarchs across the antediluvian period.
+### 长寿问题与亚当所记载的 930 岁
 
-The longevity served substantive operational purposes: it provided continuity for the developing civilization's leadership across multiple ordinary generations, it preserved substantive personal-experiential memory of the Eden events across the long centuries, and it supported the Lucifer faction's broader project of educating the developing human civilization. The longevity was specifically granted to particular leadership figures rather than universally distributed across the broader human population, with the broader population maintaining ordinary human lifespans.
+亚当所记载的 930 岁寿数(创世记 5:5)是本框架就族长长寿问题的主要依据,在[大洪水前](../antediluvian/)与[生命之树](../tree-of-life/)条目中有更充分论述。本文集的解读:
 
-Adam's death at 930 years is read as the eventual termination of his specific longevity treatment, with the cellular-biological infrastructure that supported the extended lifespan reaching its operational limit. The framework does not specify the technical details of Adam's actual death, beyond the recorded biblical fact.
+930 岁的寿数被视为实质上忠于源材料的主张,即大洪水前的族长从路西法派系后伊甸时期的持续支持中获得了特定的长寿处理。该长寿并非合成人类所天然具备(《创世记》文本表明同盟的遏制政策特意将人类寿命限制在自然限度内),而是被流放的路西法派系在大洪水前时期为亚当及其他伊甸世系族长所提供的特定后期干预。
 
-Eve's recorded lifespan is not preserved in the Hebrew Bible. The corpus does not develop a definitive reading on this point; the most natural inference is that Eve received parallel longevity treatment but the specific record was not preserved, with various other inferences also possible.
+该长寿服务于实质性的运作目的:它为发展中文明的领导层提供了跨越多个普通世代的延续性,它跨越漫长世纪保存了对伊甸事件实质性的亲历记忆,并支持了路西法派系教育发展中人类文明的更广泛项目。该长寿被特意授予特定的领导层人物,而非普遍分布于更广泛的人类人口,更广泛的人口则维持着普通的人类寿命。
 
-### Resurrection and current status
+亚当 930 岁之死被读作其特定长寿处理的最终终止,支持延长寿命的细胞—生物基础设施达到了其运作极限。本框架并不在所记载的圣经事实之外,指明亚当实际死亡的技术细节。
 
-The source material distinctively identifies both Adam and Eve as having been resurrected and currently living on the **Planet of the Eternals** — the second smaller planet in the alliance's home system, where the approximately nine thousand eternals (alliance officers and selected humans) live in conditions of practical immortality maintained by the alliance's cloning and memory-transfer technology.
+夏娃所记载的寿数未被保存于希伯来圣经中。本文集在这一点上不发展确定的解读;最自然的推断是夏娃获得了并行的长寿处理,但具体记录未被保存,而各种其他推断亦属可能。
 
-The resurrection mechanism, on the source material's account, involves:
+### 复活与当前状态
 
-- The preservation of cellular samples from each candidate during life
-- The construction of new bodies from the preserved cellular material at the appropriate moment
-- The transfer of preserved memory and personality from the original biological substrate to the new body
-- The result: a continuation of the original individual's existence in a new biological body, with full preservation of identity, memory, and personality
+源材料独具特色地认定亚当与夏娃二者均已复活,目前生活在**永恒者行星**上 — 即同盟母星系中第二颗较小的行星,约九千名永恒者(同盟官员与选定的人类)在其上生活于由同盟的克隆与记忆转移技术所维持的实际不朽状态之中。{{ footnote(id="6") }}{{ cite(id="extraterrestrials-took-me-to-their-planet", text="[1]", title="佛里翁(雷尔),《外星人带我去了他们的行星》(1975)— 永恒者行星与复活的诸先知") }}
 
-The framework reads Adam's resurrection as related to his role as the first prophet — the first human recipient of direct alliance communication, and therefore one of the prophets currently resurrected on the Planet of the Eternals. Eve's resurrection is registered in the source material as well, though without the same specific role-justification; the framework reads Eve as resurrected alongside Adam as the matriarchal counterpart in the lineage.
+按源材料的论述,该复活机制涉及:
 
-The current status of Adam and Eve on the Planet of the Eternals is, on the framework's reading, substantive but not currently active in Earth affairs. The prophets resurrected on the home world are awaiting the alliance's open return at the Aquarian-age embassy, at which point they will return to Earth alongside the alliance for a temporary visit. The detailed treatment of this Aquarian-age return event lives in the [Apocalypse](../apocalypse/) and [Embassy](../embassy/) entries.
+- 在生时保存每位候选者的细胞样本
+- 在适当时刻以所保存的细胞材料构建新身体
+- 将所保存的记忆与人格从原初生物基质转移至新身体
+- 其结果:原初个体的存在在新生物身体中得以延续,身份、记忆与人格完全保存
 
-## Role in the framework
+本框架将亚当的复活读作与其作为首位先知的角色相关 — 首位直接接受同盟通讯的人类,因而是目前在永恒者行星上复活的诸先知之一。夏娃的复活也在源材料中得到记述,虽未具有同样的具体角色证立;本框架将夏娃读作作为该世系中女祖对应者而与亚当一同复活。
 
-Adam and Eve's role in the framework is structured by their position as the first humans of the Israel-team lineage, their specific function as recipients of the Lucifer-faction disclosure, and their structural significance as the progenitors of the lineage whose history would become the Hebrew Bible's narrative.
+按本框架的解读,亚当与夏娃在永恒者行星上的当前状态是实质性的,但目前并不主动参与地球事务。在母星上复活的诸先知正等待同盟在水瓶座时代大使馆处的公开归来,届时他们将与同盟一同返回地球作短暂访问。这一水瓶座时代归来事件的详细论述存于[启示录](../apocalypse/)与[大使馆](../embassy/)条目中。
 
-### The first humans of the Israel-team lineage
+## 在框架中的角色
 
-The corpus reads Adam and Eve as the first humans of one specific creator team's work — the Israel team's work at the Eden installation — rather than as the first humans of all humanity. This reading reframes the underlying ontology of their position. They are not the unique progenitors of all human beings (the seven-creator-team picture has parallel first-human figures in the other six lineages, whose names are not preserved in the Hebrew Bible because the Hebrew Bible is the Israel-team lineage's specific cultural inheritance). They are the first humans of *one* lineage — the lineage whose subsequent history became the cultural-religious history of the Hebrews and, through the Hebrew tradition's broader influence, of the developed Western religious traditions.
+亚当与夏娃在框架中的角色,由其作为以色列团队世系最初人类的位置、其作为路西法派系披露受授者的特定功能,以及其作为那支历史将成为希伯来圣经叙事之世系先祖的结构性意义所组织。
 
-This positioning has substantial implications for how the framework reads the Genesis narrative's claims about Adam and Eve. Their narrative is **specific to the Israel-team lineage** rather than universally applicable to all of humanity. The "Fall" is not a universal human moral fall but a specific operational event involving one lineage. The "original sin" doctrine that has been built on the Adam-and-Eve narrative does not have the universal scope its conventional theological framing claims, because the underlying narrative is itself lineage-specific rather than universal.
+### 以色列团队世系的最初人类
 
-### Recipients of the Lucifer-faction disclosure
+本文集将亚当与夏娃读作某一特定创造者团队工作 — 即以色列团队在伊甸装置的工作 — 的最初人类,而非全人类的最初人类。{{ footnote(id="3") }} 此一解读重新框定了其位置的底层本体论。他们并非全体人类的唯一先祖(七创造者团队的图景在其他六支世系中有并行的最初人类形象,其名未被保存于希伯来圣经,因为希伯来圣经是以色列团队世系特定的文化承继)。他们是*一支*世系的最初人类 — 即那支其后续历史成为希伯来人之文化—宗教历史的世系,并通过希伯来传统的更广泛影响,成为成熟西方宗教传统的历史。
 
-Adam and Eve are the specific human recipients of the Lucifer-faction's disclosure of restricted scientific knowledge. The disclosure was a substantive transmission of scientific and technological content — the corpus reads "knowing good and evil" as substantial scientific knowledge rather than as moral discrimination — and Adam and Eve's acceptance of the disclosure made them the first humans of the Eden lineage to possess substantial scientific knowledge.
+此一定位对本框架如何解读《创世记》叙事关于亚当与夏娃的主张,具有实质性的含意。他们的叙事**特定于以色列团队世系**,而非普世地适用于全人类。「堕落」并非一场普世的人类道德堕落,而是涉及某一世系的特定运作事件。建立于亚当—夏娃叙事之上的「原罪」教义,并不具备其惯常神学框架所主张的普世范围,因为底层叙事本身是世系特定的,而非普世的。
 
-The specific significance of this position is that Adam and Eve's acceptance of the disclosure made the post-Eden educational project possible. Their acquired knowledge could be transmitted to their offspring, with the result that the Eden-lineage civilization developed substantially more rapidly than the home-world's containment policy had anticipated. The Lucifer faction's continuing teaching across the antediluvian period built on the foundation that Adam and Eve had received in the disclosure event.
+### 路西法派系披露的受授者
 
-### Progenitors of the Hebrew Bible's lineage
+亚当与夏娃是路西法派系对受限科学知识之披露的特定人类受授者。该披露是科学与技术内容的实质性传递 — 本文集将「能知道善恶」读作大量科学知识,而非道德辨别 — 而亚当与夏娃对披露的接纳,使他们成为伊甸世系中第一批拥有大量科学知识的人类。
 
-Adam and Eve's specific role as progenitors of the Israel-team lineage made them the foundational figures of the Hebrew Bible's broader narrative. The Hebrew Bible's subsequent narrative — the patriarchal genealogies, the Noah and Flood material, the Abraham-Isaac-Jacob narrative, the Egyptian-bondage-and-Exodus material, the Conquest, the United and Divided Monarchies, the prophetic period — all proceeds from the Eden-lineage population that descended from Adam and Eve.
+这一位置的具体意义在于,亚当与夏娃对披露的接纳,使后伊甸的教育项目成为可能。他们所获得的知识能够传递给后代,其结果是伊甸世系文明的发展,远比母星遏制政策所预期的更为迅速。路西法派系在大洪水前时期的持续教导,正是建立在亚当与夏娃在披露事件中所接受的基础之上。
 
-The framework reads this genealogical centrality as the substantive reason for the Hebrew Bible's preservation of the Adam-and-Eve narrative. The narrative is preserved because it records the founding of the lineage whose history the Hebrew Bible documents; other ancient cultural traditions preserve their own founding-figure narratives (treated under *Comparative observations* below) for their own lineages, with the specific content varying by lineage but the broader pattern being substantially universal.
+### 希伯来圣经世系的先祖
 
-### The first prophet
+亚当与夏娃作为以色列团队世系先祖的特定角色,使他们成为希伯来圣经更广泛叙事的奠基性人物。希伯来圣经随后的叙事 — 族长家谱、挪亚与洪水材料、亚伯拉罕—以撒—雅各叙事、埃及为奴与出埃及材料、征服、统一与分裂王国、先知时期 — 全都由那支出自亚当与夏娃的伊甸世系人口而展开。
 
-Adam's specific identification as the first prophet — the first human recipient of direct alliance communication — gives him a distinctive status within the broader prophetic tradition that the framework develops in the [Prophet](../prophet/) entry. The corpus reads Adam's prophetic role as foundational: he was the first human to receive substantive communication from the alliance (specifically from the Israel team, including Yahweh as team leader and Lucifer as faction leader), and his subsequent transmission of that communication to Eve, to Cain and Abel and Seth, and to the broader Eden-lineage population established the patriarchal-prophetic mode that would characterize the broader Hebrew Bible's tradition.
+本框架将这一家谱上的中心地位,读作希伯来圣经保存亚当—夏娃叙事的实质性原因。该叙事之所以被保存,是因为它记录了希伯来圣经所记载之历史那支世系的奠基;其他古代文化传统为各自的世系保存了它们自己的奠基性人物叙事(在下文*比较观察*中加以论述),其具体内容因世系而异,而更广泛的模式则大体上具有普世性。
 
-Adam's prophetic status, on the framework's reading, is therefore not a separate role from his role as the first synthesized human; the two roles are integrated. He is the first human, and as the first human he is also the first recipient of alliance communication, and his life as the first human consisted substantially in receiving that communication and transmitting it to his offspring.
+### 首位先知
 
-Eve's specific role within the prophetic tradition is less developed in the source material. The framework reads her as having received the alliance communication alongside Adam (and as the principal recipient of the Serpent's specific disclosure) but does not develop her prophetic status as fully as Adam's. The asymmetry reflects the source material's specific framing rather than a substantive operational difference between them.
+亚当被具体认定为首位先知 — 首位直接接受同盟通讯的人类 — 这在本框架于[先知](../prophet/)条目中所发展的更广泛先知传统内,赋予了他独特的地位。本文集将亚当的先知角色读作奠基性的:他是第一个接受来自同盟(具体而言是以色列团队,包括作为团队领袖的耶和华与作为派系领袖的路西法)实质性通讯的人类,而他随后将该通讯传递给夏娃、给该隐、亚伯与塞特,并给更广泛的伊甸世系人口,这确立了那将成为希伯来圣经更广泛传统特征的族长—先知模式。
 
-### What the framework does not claim
+因此,按本框架的解读,亚当的先知地位并非一个与其作为首位合成人类之角色相分离的角色;两个角色是整合的。他是第一个人,而作为第一个人,他也是同盟通讯的首位受授者,他作为第一个人的生命,实质上即在于接受该通讯并将其传递给后代。
 
-The framework does not claim that Adam and Eve are the first humans of all humanity. The seven-creator-team picture explicitly registers parallel first-human figures in the other six lineages, with Adam and Eve specifically being the first humans of one lineage rather than universally.
+夏娃在先知传统内的具体角色,在源材料中发展得较少。本框架将她读作与亚当一同接受了同盟通讯(并作为蛇之具体披露的主要受授者),但并未像亚当那样充分发展她的先知地位。这种不对称反映出源材料的具体框定,而非二者之间实质性的运作差异。
 
-The framework does not claim that the "Fall" is a universal human moral catastrophe. The Eden disclosure was a specific operational event in one lineage's history, with substantive consequences for that lineage but not for humanity universally. The Augustinian original-sin doctrine, which extends the Adam-and-Eve narrative to all humanity, is not the framework's reading.
+### 框架不主张什么
 
-The framework does not claim that the Genesis narrative provides accurate biology in detail. The "rib" (*ṣēlāʿ*) language, the "breath of life" language, the "dust of the ground" language are read as stylized accounts of operational realities the original biblical authors could not describe in technical biological vocabulary. The corpus reads these accounts as preserving accurate substantive content (the synthesis of humans from terrestrial materials, the cellular relationship between Adam and Eve, the activation of the synthesized organism) without committing to the literal-anatomical specificity of the surface narrative.
+本框架并不主张亚当与夏娃是全人类的最初人类。七创造者团队的图景明确记录了其他六支世系中并行的最初人类形象,而亚当与夏娃具体地是一支世系的最初人类,而非普世意义上的。
 
-The framework does not claim that Eve is uniquely culpable in the disclosure event. The Raëlian source material is explicit that the disclosure was offered to both humans equally and that both received the consequences equally; the misogynistic interpretive tradition that has read Eve as uniquely responsible is rejected.
+本框架并不主张「堕落」是一场普世的人类道德灾难。伊甸披露是某一世系历史中的特定运作事件,对该世系有实质性后果,但对全人类则不然。将亚当—夏娃叙事延伸至全人类的奥古斯丁原罪教义,并非本框架的解读。
 
-## Identifications and conflations
+本框架并不主张《创世记》叙事在细节上提供了准确的生物学。「肋骨」(*ṣēlāʿ*)语言、「生命之气」语言、「地上尘土」语言,均被读作对最初圣经作者无法以技术性生物学词汇描述之运作现实的程式化记述。本文集将这些记述读作保存了准确的实质内容(用地球材料合成人类、亚当与夏娃之间的细胞关系、所合成有机体的激活),而不承诺表面叙事在字面解剖学上的具体性。
 
-Adam and Eve have been identified and developed in numerous traditions across the post-biblical period, with several specific identifications and conflations warranting treatment.
+本框架并不主张夏娃在披露事件中独具罪责。雷尔派源材料明确指出,披露是平等地向两个人提供的,二者也同等地承受后果;那将夏娃读作独负其责的厌女诠释传统被予以拒斥。
 
-### Adam and Christ: the typological identification
+## 认同与混同
 
-The most substantial post-biblical theological development of Adam is the Pauline Adam-Christ typology developed in Romans 5:12–21 and 1 Corinthians 15:21–22, 45–49. Paul reads Adam as the *type* of Christ — the first Adam who introduced sin and death into the world, with Christ as the second Adam who reverses Adam's effects and inaugurates the new creation. The "second Adam" Christology is foundational for subsequent Christian theological reflection on Christ's redemptive role.
+亚当与夏娃在后圣经时期的诸多传统中被加以认同与发挥,其中若干具体的认同与混同值得论述。
 
-The corpus reads the Pauline Adam-Christ typology as a specific theological-rhetorical use of the Adam figure rather than as a direct historical claim about Adam's actual operational role. The typology is theologically productive within the New Testament's argumentative framework — establishing Christ's significance through the Adam-parallel — but does not make accurate historical claims about Adam beyond what the Genesis narrative already specifies.
+### 亚当与基督:预表论的认同
 
-### Eve and Mary: the typological parallel
+亚当在后圣经时期最实质性的神学发展,是保罗在罗马书 5:12–21 与哥林多前书 15:21–22、45–49 中所发展的亚当—基督预表论。保罗将亚当读作基督的*预表* — 将罪与死带入世界的第一个亚当,以及逆转亚当效应、开创新创造的第二个亚当基督。「第二个亚当」基督论是后续基督教对基督救赎角色之神学反思的基础。
 
-A parallel theological development pairs Eve with Mary as theological types: Eve as the woman through whom the disclosure event occurred, Mary as the woman through whom the redemptive Christ-event occurred. The "second Eve" theology was developed across the patristic period (Justin Martyr, Irenaeus, Tertullian) and elaborated extensively in subsequent Catholic Mariology, with the parallel sometimes extended to the Eve-as-disobedient / Mary-as-obedient contrast.
+本文集将保罗的亚当—基督预表论读作对亚当形象的特定神学—修辞运用,而非关于亚当实际运作角色的直接历史主张。该预表论在新约的论证框架内具有神学上的生产性 — 通过亚当—平行确立基督的意义 — 但并不就《创世记》叙事已指明者之外,作出关于亚当的准确历史主张。
 
-The corpus reads the Eve-Mary typology as a parallel theological-rhetorical use, with the same observations as the Adam-Christ typology. The framework does treat both Eve and Mary as significant figures in the broader history of the alliance's interaction with humanity (Eve as the original disclosure-recipient, Mary as the Piscean-age conception-partner), but does not develop the typological theology in the conventional Catholic-Marian sense. The detailed treatment of Mary lives in the [Mary](../mary/) entry (when written).
+### 夏娃与马利亚:预表论的平行
 
-### Adam and Adam Kadmon
+一项平行的神学发展,将夏娃与马利亚配为神学预表:夏娃为披露事件藉以发生的女人,马利亚为救赎性基督事件藉以发生的女人。「第二个夏娃」神学跨教父时期(殉道者游斯丁、爱任纽、德尔图良)发展起来,并在后续天主教马利亚论中得到广泛发挥,该平行有时被延伸为夏娃之悖逆 / 马利亚之顺从的对比。
 
-The Kabbalistic tradition developed the figure of **Adam Kadmon** (<span class="hebrew">אָדָם קַדְמוֹן</span>, "Primordial Adam") — a cosmological figure distinct from the historical Adam of Genesis 2. Adam Kadmon is, in Lurianic Kabbalah specifically, the first emanation from the Ein Sof (the infinite divine), through whom the subsequent emanations of the *sefirot* and the broader cosmic structure proceed. Adam Kadmon is thus a metaphysical-cosmological figure rather than a historical one.
+本文集将夏娃—马利亚预表论读作一项平行的神学—修辞运用,所作观察与亚当—基督预表论相同。本框架确实将夏娃与马利亚二者视为同盟与人类互动之更广泛历史中的重要人物(夏娃为最初的披露受授者,马利亚为双鱼座时代的受孕伴侣),但并不在惯常天主教—马利亚意义上发展该预表论神学。马利亚的详细论述存于[马利亚](../mary/)条目中(待撰)。
 
-The corpus does not adopt the Adam Kadmon doctrine. The framework's Adam is the historical figure of Genesis 2, not a cosmological emanation. The Kabbalistic tradition's underlying intuition — that there is a substantive ontological figure named "Adam" who relates to the broader structure of reality — is registered as a theological elaboration of the historical Adam's significance, but the corpus does not develop the metaphysical structure the Kabbalistic tradition built around the figure.
+### 亚当与亚当·卡德蒙
 
-### Lilith: the alternative-first-wife tradition
+卡巴拉传统发展出**亚当·卡德蒙**(<span class="hebrew">אָדָם קַדְמוֹן</span>,「原初的亚当」)这一形象 — 一个与创世记 2 历史上的亚当有别的宇宙论形象。亚当·卡德蒙在卢里亚卡巴拉中,具体是从无限者(Ein Sof,无限的神性)而出的第一个流溢,后续 *sefirot* 的流溢与更广泛的宇宙结构皆经由它而展开。因此,亚当·卡德蒙是一个形而上—宇宙论的形象,而非历史性的形象。
 
-The medieval Jewish tradition (principally the *Alphabet of Ben Sira*, c. 8th–10th century CE) developed the figure of **Lilith** as Adam's first wife, created equally with him from the same earth, who refused to submit to his authority and left the garden — with Eve being created subsequently as a more compliant alternative. The tradition was elaborated in subsequent Kabbalistic literature (the *Zohar* and Lurianic Kabbalah develop Lilith as a demonic figure), and modern feminist Jewish writers have substantially engaged with the Lilith tradition as preserving an alternative to the patriarchal Eve narrative.
+本文集并不采纳亚当·卡德蒙教义。本框架的亚当是创世记 2 历史上的形象,而非一个宇宙论的流溢。卡巴拉传统底层的直觉 — 即存在一个名为「亚当」、与现实更广泛结构相关联的实质性本体论形象 — 被记述为对历史上亚当之意义的神学发挥,但本文集并不发展卡巴拉传统围绕该形象所建构的形而上结构。
 
-The corpus does not adopt the Lilith narrative as part of the framework's reading. The Raëlian source material does not include any reference to Lilith or to a first-wife-prior-to-Eve figure, and the corpus reads the Lilith tradition as a medieval-Kabbalistic theological elaboration rather than as a preservation of accurate operational memory. The tradition is registered in the *Modern reinterpretations* section below as a substantive interpretive engagement with the Adam-and-Eve material.
+### 莉莉丝:替代性首位妻子传统
 
-### Adam as Michael the Archangel
+中世纪犹太传统(主要是《便·西拉字母》,约公元 8–10 世纪)发展出**莉莉丝**这一形象,作为亚当的首位妻子,与他平等地由同一泥土所造,她拒绝顺从他的权威而离开了园子 — 夏娃则作为更为顺从的替代者而随后被造。该传统在后续卡巴拉文献中得到发挥(《光辉之书》与卢里亚卡巴拉将莉莉丝发展为一个恶魔形象),而现代女性主义犹太作家则大量地与莉莉丝传统对话,视其为对父权制夏娃叙事之替代的保存。
 
-The Latter-day Saint (Mormon) tradition identifies Adam with the archangel Michael, with the figure of "Adam-ondi-Ahman" being a central figure in Latter-day Saint theology. The doctrine, developed by Joseph Smith and elaborated in subsequent Latter-day Saint theological literature, holds that Adam was originally the archangel Michael who took on physical form to become the first human.
+本文集并不将莉莉丝叙事采纳为本框架解读的一部分。雷尔派源材料并不包含任何对莉莉丝或对一个先于夏娃之首位妻子形象的提及,而本文集将莉莉丝传统读作一项中世纪—卡巴拉的神学发挥,而非对准确运作记忆的保存。该传统在下文*现代再诠释*一节中被记述为一项与亚当—夏娃材料的实质性诠释对话。
 
-The corpus does not adopt the Adam-as-Michael identification. The framework's Adam is a synthesized human created by the Israel team; the Latter-day Saint identification is a specific theological development of the Restorationist tradition that the framework does not endorse. The tradition is registered in the *Modern reinterpretations* section below.
+### 亚当即天使长米迦勒
 
-## Modern reinterpretations
+后期圣徒(摩门)传统将亚当与天使长米迦勒相认同,「亚当—翁地—阿曼」这一形象是后期圣徒神学中的核心形象。该教义由约瑟·斯密所发展,并在后续后期圣徒神学文献中得到发挥,主张亚当原本是天使长米迦勒,他取了肉身而成为第一个人。
 
-Adam and Eve have been the subject of substantial modern reinterpretive engagement across multiple traditions. The principal strands warrant treatment.
+本文集并不采纳亚当即米迦勒的认同。本框架的亚当是由以色列团队所造的合成人类;后期圣徒的认同是复原派传统的一项特定神学发展,本框架并不予以认可。该传统在下文*现代再诠释*一节中被记述。
 
-### Augustine and the doctrine of original sin
+## 现代再诠释
 
-**Augustine of Hippo** (354–430 CE) developed the doctrine of original sin in *De Civitate Dei*, *De Peccatorum Meritis et Remissione*, and the various anti-Pelagian writings. The Augustinian doctrine holds that Adam's disobedience in Genesis 3 introduced sin and mortality into human nature, that this sinful condition is inherited by all subsequent humans through biological-spiritual descent from Adam, and that the resulting human condition requires divine grace (specifically through Christ's atoning sacrifice) for salvation.
+亚当与夏娃一直是横跨多个传统、大量现代再诠释对话的对象。其主要脉络值得论述。
 
-The Augustinian doctrine became the dominant Western Christian reading of the Adam-and-Eve narrative across the medieval and Reformation periods. The doctrine has substantial implications for theological anthropology (humans are fallen by nature, inheriting Adam's guilt), for soteriology (salvation requires Christ's specific redemptive work), for sacramental theology (baptism's significance includes the cleansing of inherited original sin), and for moral theology (the inheritance of disordered desires from Adam's fall).
+### 奥古斯丁与原罪教义
 
-The corpus does not adopt the Augustinian doctrine of original sin. The framework's reading of the Eden disclosure does not treat it as a moral-theological catastrophe of the kind Augustine constructs; the disclosure was a substantive political-operational event with real consequences but without inherited guilt-transmission to Adam's descendants. The biological-genetic relationships across the Eden-lineage population produce substantive inheritance of biological traits but do not produce the inheritance of moral guilt that Augustine's doctrine claims.
+**希波的奥古斯丁**(公元 354–430 年)在《上帝之城》(*De Civitate Dei*)、《论罪的功罪与赦免》(*De Peccatorum Meritis et Remissione*)及各种反佩拉纠派著作中发展了原罪教义。{{ cite(id="city-of-god", text="[7]", title="奥古斯丁,《上帝之城》— 原罪综合") }} 奥古斯丁教义主张,亚当在创世记 3 中的悖逆将罪与必死性引入人性,这种罪性的境况通过生物—灵性上对亚当的承继而传给所有后续人类,而由此产生的人类境况需要神圣的恩典(具体而言通过基督的赎罪祭)方能得救。
 
-### Elaine Pagels: *Adam, Eve, and the Serpent* (1988)
+奥古斯丁教义跨中世纪与宗教改革时期成为西方基督教对亚当—夏娃叙事的主导解读。该教义对神学人类学(人类本性堕落,承继亚当的罪责)、救赎论(救恩需要基督的特定救赎工作)、圣事神学(洗礼的意义包括洗净所承继的原罪),以及道德神学(从亚当堕落而承继失序的欲望)具有实质性含意。
 
-**Elaine Pagels**'s *Adam, Eve, and the Serpent* (1988) is the standard contemporary scholarly treatment of how the Adam-and-Eve narrative's interpretation has shaped Western thought across two millennia. Pagels traces the development of the Christian reading from the early Christian centuries through Augustine's foundational synthesis and into the medieval and modern traditions. Her principal argument is that Augustine's specific reading of Genesis 3 — the doctrine of original sin, the inheritance of guilt, the subjugation of women that the Genesis 3:16 text was used to justify — is a specific theological development that became dominant in Western Christianity but was not the only available reading and was contested by alternative early-Christian positions.
+本文集并不采纳奥古斯丁的原罪教义。本框架对伊甸披露的解读,并不将其视为奥古斯丁所构造的那种道德—神学灾难;该披露是一项具有真实后果、但并不向亚当后裔传递所承继罪责的实质性政治—运作事件。伊甸世系人口之间的生物—遗传关系,产生了生物性状的实质性承继,但并不产生奥古斯丁教义所主张的道德罪责之承继。
 
-Pagels argues that pre-Augustinian Christian readings of the Adam-and-Eve narrative were substantially more diverse, with various Greek-tradition readings emphasizing the freedom and autonomy aspects of the narrative rather than the inherited-guilt aspects. The Augustinian synthesis became dominant for specific historical-political reasons (the late-antique Roman context, the Pelagian controversy, the broader Augustinian theological project) rather than because it was the only or best available reading.
+### 伊莱恩·佩格尔斯:《亚当、夏娃与蛇》(1988)
 
-The corpus engages Pagels's work as the most accessible contemporary scholarly treatment of the interpretive history of the Adam-and-Eve narrative. Pagels's analysis of how Augustine's specific theological synthesis became dominant despite alternative available readings is consistent with the corpus's own diagnosis: the Christian theological elaboration of the Adam-and-Eve material is a specific historical-theological development rather than a textually-given inheritance.
+**伊莱恩·佩格尔斯**的《亚当、夏娃与蛇》(1988)是关于亚当—夏娃叙事之诠释如何在两千年间塑造西方思想的标准当代学术论述。{{ cite(id="pagels-adam-eve-serpent", text="[8]", title="佩格尔斯,《亚当、夏娃与蛇》(1988)") }} 佩格尔斯追溯了基督教解读从早期基督教世纪、经奥古斯丁的奠基性综合、直至中世纪与现代传统的发展。她的主要论点是:奥古斯丁对创世记 3 的特定解读 — 原罪教义、罪责的承继、创世记 3:16 文本被用以证立的对女性的压制 — 是一项特定的神学发展,它在西方基督教中成为主导,但并非唯一可用的解读,且曾受到早期基督教替代立场的争议。
 
-### Jewish and Christian feminist readings
+佩格尔斯论证,前奥古斯丁的基督教对亚当—夏娃叙事的解读要多元得多,各种希腊传统的解读所强调的是叙事中自由与自主的面向,而非所承继罪责的面向。奥古斯丁的综合之所以成为主导,是出于特定的历史—政治原因(古代晚期的罗马背景、佩拉纠论争、更广泛的奥古斯丁神学项目),而非因其为唯一或最佳的可用解读。
 
-The late twentieth century saw substantial development of Jewish and Christian feminist readings of the Adam-and-Eve narrative, with several principal scholars warranting treatment.
+本文集将佩格尔斯的工作作为关于亚当—夏娃叙事诠释史最通俗易懂的当代学术论述加以对话。佩格尔斯对奥古斯丁特定神学综合如何在替代解读可用的情况下仍成为主导的分析,与本文集自身的诊断相一致:基督教对亚当—夏娃材料的神学发挥,是一项特定的历史—神学发展,而非文本所给定的承继。
 
-**Phyllis Trible**'s *God and the Rhetoric of Sexuality* (1978) developed an influential close reading of Genesis 2–3 that argued for substantial gender equality in the original Hebrew text, with the patriarchal interpretation being a later imposition rather than the text's own framing. Trible's reading of the Hebrew *ʿēzer kə-negdô* ("a helper fit for him") of Genesis 2:18 emphasizes the *ʿēzer* term's broader meaning ("strength, support") rather than the subordinationist sense often imported in translation; her reading of the *ṣēlāʿ* ("rib" / "side") emphasizes the parallel-equal-side meaning rather than the subordinate-derivative meaning.
+### 犹太教与基督教的女性主义解读
 
-**Carol Meyers**'s *Discovering Eve* (1988) developed the historical-anthropological reading of Eve as representing the agricultural-laboring woman of the Iron Age Israelite household, with the Genesis narrative reflecting the actual social conditions of women in early Israelite society rather than imposing a theological-ideological framework on them. Meyers's reading reframes the "curses" of Genesis 3:16 as descriptive accounts of the difficult conditions of agricultural-household women rather than as prescriptive theological pronouncements about gender hierarchy.
+二十世纪后期见证了犹太教与基督教对亚当—夏娃叙事女性主义解读的实质性发展,其中若干主要学者值得论述。
 
-**Judith Plaskow** and the broader Jewish feminist movement have developed substantial engagement with the Adam-and-Eve narrative, with particular attention to the Lilith tradition (treated below) as preserving alternative readings.
+**菲莉斯·特里布尔**的《上帝与性的修辞》(1978)发展出对创世记 2–3 一种有影响力的细读,主张原初希伯来文本中存在实质性的性别平等,而父权制解读则是后起的强加,而非文本自身的框定。{{ cite(id="trible-rhetoric-sexuality", text="[9]", title="特里布尔,《上帝与性的修辞》(1978)") }} 特里布尔对创世记 2:18 中希伯来语 *ʿēzer kə-negdô*(「配偶帮助他」)的解读,强调 *ʿēzer* 一语更广的含义(「力量、支撑」),而非翻译中常被引入的从属义;她对 *ṣēlāʿ*(「肋骨」/「侧」)的解读,强调平行—平等之侧的含义,而非从属—衍生的含义。
 
-The corpus engages this feminist scholarly tradition as substantive intellectual work. The framework's reading shares the feminist-tradition recognition that Eve is not uniquely culpable in the disclosure event (Pagels and Trible both arguing this on different grounds), and the framework's reading rejects the misogynistic interpretive tradition that has placed primary responsibility on Eve. The framework does not adopt the full feminist-theological apparatus (the corpus does not develop a gender-theological program comparable to the Christian feminist movement's) but registers substantial agreement on the specific point of Eve's not being uniquely culpable.
+**卡罗尔·迈尔斯**的《发现夏娃》(1988)发展出将夏娃读作代表铁器时代以色列家户中从事农业劳作之女性的历史—人类学解读,《创世记》叙事反映的是早期以色列社会中女性的实际社会境况,而非将一套神学—意识形态框架强加于她们之上。{{ cite(id="meyers-discovering-eve", text="[10]", title="迈尔斯,《发现夏娃:语境中的古以色列女性》(1988)") }} 迈尔斯的解读将创世记 3:16 的「咒诅」重新框定为对从事农业的家户女性艰难境况的描述性记述,而非关于性别等级的规范性神学宣告。
 
-### The Lilith tradition
+**朱迪斯·普拉斯科**与更广泛的犹太女性主义运动,发展出与亚当—夏娃叙事的实质性对话,尤其关注莉莉丝传统(在下文论述)对替代解读的保存。
 
-The **Lilith** tradition warrants treatment as a substantive interpretive engagement with the Adam-and-Eve material. The principal texts:
+本文集将这一女性主义学术传统作为实质性的智识工作加以对话。本框架的解读与女性主义传统所共有的一点是:承认夏娃在披露事件中并非独具罪责(佩格尔斯与特里布尔皆以不同理据论证此点),而本框架的解读拒斥那将主要责任置于夏娃的厌女诠释传统。本框架并不采纳整套女性主义—神学装置(本文集并不发展可与基督教女性主义运动相比的性别—神学项目),但在夏娃并非独具罪责这一具体点上记述实质性的一致。
 
-The *Alphabet of Ben Sira* (c. 8th–10th century CE) is the foundational text for the Lilith narrative. The text, a medieval Jewish satirical compilation, presents Lilith as Adam's first wife, created equally with him from the same earth, who refused to submit to Adam's sexual authority and pronounced the Tetragrammaton to escape from Eden. Lilith is subsequently associated with various demonic activities (particularly the killing of newborn infants) in subsequent Jewish folklore.
+### 莉莉丝传统
 
-The *Zohar* and Lurianic Kabbalah develop Lilith as a demonic figure within the broader Kabbalistic cosmology, with Lilith as the consort of Samael and the leader of the demonic *sitra ahra* ("other side"). The Kabbalistic Lilith is thoroughly incorporated into the broader medieval Jewish demonology.
+**莉莉丝**传统值得作为与亚当—夏娃材料的实质性诠释对话加以论述。其主要文本:
 
-Modern Jewish feminist writers (principally **Judith Plaskow**, in her 1972 essay "The Coming of Lilith") have reclaimed the Lilith figure as a positive symbol of feminine autonomy and resistance to patriarchy. The contemporary Jewish feminist Lilith is read as the figure who refused to submit to unjust authority and chose freedom over compliance — a reading substantially distinct from the medieval Jewish demonological figure.
+《便·西拉字母》(约公元 8–10 世纪)是莉莉丝叙事的奠基性文本。{{ cite(id="alphabet-of-ben-sira", text="[11]", title="《便·西拉字母》(约公元 8–10 世纪)— 莉莉丝为首位妻子之奠基性叙事") }} 该文本是一部中世纪犹太讽刺汇编,将莉莉丝呈现为亚当的首位妻子,与他平等地由同一泥土所造,她拒绝顺从亚当的性权威,并念出四字神名以逃离伊甸。莉莉丝随后在后续犹太民间传说中与各种恶魔活动(尤其是杀害新生婴儿)相联系。
 
-The corpus does not adopt the Lilith tradition as part of the framework's reading. The Raëlian source material does not include any first-wife-prior-to-Eve figure, and the corpus reads the Lilith tradition as a medieval Jewish theological-folkloric elaboration rather than as a preservation of accurate operational memory. The contemporary feminist reclamation of Lilith as a positive symbol is registered as a substantive cultural-religious development but is not adopted as part of the framework's reading of the Adam-and-Eve material.
+《光辉之书》与卢里亚卡巴拉将莉莉丝发展为更广泛卡巴拉宇宙论中的一个恶魔形象,莉莉丝为萨麦尔的配偶以及恶魔性的 *sitra ahra*(「另一侧」)之首领。{{ cite(id="zohar-pritzker", text="[12]", title="《光辉之书》,普里茨克版(马特等,2003–2017)") }} 卡巴拉的莉莉丝被彻底纳入更广泛的中世纪犹太恶魔学之中。
 
-### Mauro Biglino on Adam and Eve
+现代犹太女性主义作家(主要是**朱迪斯·普拉斯科**,在其 1972 年的文章《莉莉丝的到来》中)将莉莉丝形象重新认领为女性自主与抵抗父权制的正面象征。{{ cite(id="plaskow-standing-again-sinai", text="[13]", title="普拉斯科,《重新立于西奈》(1990)与《莉莉丝的到来》(1972)") }} 当代犹太女性主义的莉莉丝被读作那拒绝顺从不义权威、选择自由而非顺从的形象 — 一种与中世纪犹太恶魔学形象实质上有别的解读。
 
-**Mauro Biglino**'s strict-translational engagement with the Adam-and-Eve material is developed across his works, with the principal claims:
+本文集并不将莉莉丝传统采纳为本框架解读的一部分。雷尔派源材料并不包含任何先于夏娃之首位妻子形象,而本文集将莉莉丝传统读作一项中世纪犹太神学—民俗的发挥,而非对准确运作记忆的保存。当代女性主义将莉莉丝重新认领为正面象征,被记述为一项实质性的文化—宗教发展,但并不被采纳为本框架对亚当—夏娃材料解读的一部分。
 
-- The "dust of the ground" formation language is read literally as biological synthesis from terrestrial materials, consistent with the framework's reading
-- The "rib" / *ṣēlāʿ* language is read as cellular extraction (Biglino specifically suggests cloning), consistent with the framework's reading on this point
-- Cain is read as the son of the Serpent rather than of Adam — the "lineage of the serpent" reading that the corpus rejects (treated more fully in the [Serpent](../serpent/) entry's modern-reinterpretations section)
-- The Genesis 5 patriarchal lifespans are read as substantively accurate, consistent with the framework's reading
+### 毛罗·比格利诺论亚当与夏娃
 
-The framework's reading is broadly aligned with Biglino's reading on the basic interpretive direction (Adam and Eve as synthesized humans rather than as mythological figures), with the substantive disagreement being the Cain-as-serpent-lineage reading. The detailed treatment of this disagreement lives in the [Serpent](../serpent/) entry.
+**毛罗·比格利诺**对亚当—夏娃材料的严格直译式对话,横跨其多部作品而展开,{{ cite(id="the-naked-bible", text="[14]", title="比格利诺与卡塔内奥,《赤裸的圣经》(2022)") }} 其主要主张:
 
-### Latter-day Saint theology: Adam as Michael
+- 「地上尘土」的成形语言被字面地读作用地球材料所行的生物合成,与本框架的解读相一致
+- 「肋骨」/ *ṣēlāʿ* 语言被读作细胞提取(比格利诺具体提出克隆),在这一点上与本框架的解读相一致
+- 该隐被读作蛇之子而非亚当之子 — 即本文集所拒斥的「属蛇之世系」解读(在[蛇](../serpent/)条目的现代再诠释一节中有更充分论述)
+- 创世记 5 的族长寿数被读作实质上准确,与本框架的解读相一致
 
-The **Latter-day Saint (Mormon)** tradition's identification of Adam with the archangel Michael, with the figure being central to Latter-day Saint theology under the title "Adam-ondi-Ahman," warrants registration. The doctrine was developed by Joseph Smith and elaborated in subsequent Latter-day Saint theological literature including Brigham Young's specific elaborations (the controversial "Adam-God" doctrine briefly held by Young but subsequently rejected by mainstream Latter-day Saint theology). The contemporary mainstream Latter-day Saint position holds that Adam was the archangel Michael who took on physical form to become the first human — a position substantially distinct from the corpus's reading of Adam as a synthesized human created by the Israel team.
+本框架的解读在基本诠释方向上(亚当与夏娃为合成人类而非神话形象)与比格利诺的解读大体一致,实质性的分歧在于该隐属蛇之世系的解读。这一分歧的详细论述存于[蛇](../serpent/)条目中。
 
-The corpus does not adopt the Adam-as-Michael identification. The Raëlian source material identifies Joseph Smith as one of the prophets of the alliance's broader prophetic tradition (the Latter-day Saint movement is read as one of the alliance's specific contact missions in the post-Aries period), but the specific Adam-as-Michael doctrine is read as a theological development of the Restorationist tradition rather than as accurate operational content.
+### 后期圣徒神学:亚当即米迦勒
 
-### Sendy and Wallis on Adam and Eve
+**后期圣徒(摩门)**传统将亚当与天使长米迦勒相认同,该形象以「亚当—翁地—阿曼」之名在后期圣徒神学中居核心地位,值得记述。该教义由约瑟·斯密所发展,并在后续后期圣徒神学文献中得到发挥,包括百翰·杨的具体发挥(杨曾短暂持有、但后被主流后期圣徒神学所拒斥的、有争议的「亚当—神」教义)。{{ cite(id="doctrine-and-covenants", text="[24]", title="斯密,《教义和圣约》— 亚当即米迦勒(亚当—翁地—阿曼)教义") }} 当代主流后期圣徒立场主张亚当是取了肉身而成为第一个人的天使长米迦勒 — 一个与本文集将亚当读作以色列团队所造合成人类实质上有别的立场。
 
-**Jean Sendy** and **Paul Anthony Wallis** both develop readings of Adam and Eve substantially aligned with the corpus's reading. Sendy's *Ces dieux qui firent le ciel et la terre* (1969) provides the principal scholarly antecedent of the corpus's reading, treating Adam and Eve as the first humans of the Israel-team lineage and reading the Genesis narrative as preserving substantive operational content. Wallis's *The Eden Conspiracy* (2024) provides accessible recent treatment, with detailed engagement with the Genesis 2–3 material from an Elohim-pluralist perspective broadly compatible with the corpus's reading.
+本文集并不采纳亚当即米迦勒的认同。雷尔派源材料将约瑟·斯密认定为同盟更广泛先知传统中的先知之一(后期圣徒运动被读作同盟在后白羊座时期的特定接触使命之一),但具体的亚当即米迦勒教义被读作复原派传统的一项神学发展,而非准确的运作内容。
 
-### The framework's relationship to the broader landscape
+### 桑迪与沃利斯论亚当与夏娃
 
-The corpus's reading is positioned within this landscape as follows: rejecting the Augustinian original-sin doctrine; aligned with Pagels's analysis of the Augustinian theological synthesis as a specific historical development; aligned with the Jewish and Christian feminist tradition's recognition that Eve is not uniquely culpable; respectful of the Lilith tradition's interpretive engagement while not adopting the underlying narrative; partially aligned with Biglino's reading of Adam and Eve as synthesized humans while disagreeing on the Cain-as-serpent-lineage reading; aligned with Sendy's and Wallis's readings as the principal scholarly antecedents of the corpus's reading; non-aligned with the Latter-day Saint Adam-as-Michael identification. The corpus's reading is its own — distinct from each of these — but engages each substantively.
+**让·桑迪**与**保罗·安东尼·沃利斯**二人均发展出与本文集解读实质上一致的亚当与夏娃解读。桑迪的《创造天地的那些神祇》(*Ces dieux qui firent le ciel et la terre*,1969)提供了本文集解读的主要学术先声,将亚当与夏娃视为以色列团队世系的最初人类,并将《创世记》叙事读作保存了实质性的运作内容。{{ cite(id="those-gods-who-made-heaven-and-earth", text="[15]", title="桑迪,《创造天地的那些神祇》(1969)") }} 沃利斯的《伊甸园阴谋》(2024)提供了通俗易懂的近期论述,从一种与本文集解读大体相容的耶洛因多元论视角,详细地与创世记 2–3 材料对话。{{ cite(id="the-eden-conspiracy", text="[16]", title="沃利斯,《伊甸园阴谋》(2024)") }}
 
-## Comparative observations
+### 框架与更广阔图景的关系
 
-First-human creation narratives are substantially cross-cultural, with parallel founding-figure traditions appearing across most major cultural-religious contexts. The corpus reads this cross-cultural pattern as evidence of the broader operational reality the framework describes — multiple cultural traditions preserving fragmentary memory of distinct creator-team work, with each tradition's preserved narrative reflecting the specific cultural-religious framing of the lineage that preserved it.
+本文集的解读在此图景中的定位如下:拒斥奥古斯丁的原罪教义;与佩格尔斯将奥古斯丁神学综合分析为一项特定历史发展的立场相一致;与犹太教及基督教女性主义传统对夏娃并非独具罪责的承认相一致;尊重莉莉丝传统的诠释对话而不采纳其底层叙事;与比格利诺将亚当与夏娃读作合成人类的解读部分一致,同时在该隐属蛇之世系的解读上有所分歧;与桑迪及沃利斯的解读相一致,视其为本文集解读的主要学术先声;与后期圣徒亚当即米迦勒的认同不相一致。本文集的解读自成一格 — 与上述每一种皆有区别 — 但与每一种皆作实质性对话。
 
-### Sumerian Adapa and Enkidu
+## 比较观察
 
-The Sumerian-Akkadian tradition preserves several first-human / early-human figures with substantial parallels to the Adam-and-Eve narrative.
+最初人类创造叙事在相当程度上是跨文化的,平行的奠基性人物传统出现于大多数主要的文化—宗教语境之中。本文集将这一跨文化模式读作本框架所描述之更广泛运作现实的证据 — 多个文化传统保存了对各有区分之创造者团队工作的片段记忆,每个传统所保存的叙事反映出保存它的那支世系特定的文化—宗教框定。
 
-**Adapa** is the figure of the Sumerian *Adapa myth* (preserved in cuneiform tablets from the late second millennium BCE, with possible earlier oral antecedents). Adapa is the first man, created by Ea (Enki) at the city of Eridu, given wisdom and skill but not given immortality. The myth's central episode involves Adapa being summoned to the sky-god An's court after breaking the wing of the south wind; offered the food and water of immortality, Adapa refuses on Ea's specific advice (Ea having warned him that the food would be poison), and thereby loses the opportunity for eternal life. The myth concludes with Adapa's return to Earth as a mortal-but-wise figure.
+### 苏美尔的阿达帕与恩奇都
 
-The structural parallels to the Adam-and-Eve narrative are substantial:
+苏美尔—阿卡德传统保存了若干与亚当—夏娃叙事具有实质性平行的最初人类 / 早期人类形象。
 
-- A first man created by a divine figure (Ea / Yahweh Elohim)
-- The acquisition of wisdom but not immortality (the parallel to the Tree of Knowledge / Tree of Life distinction in Genesis)
-- A specific encounter with the divine authority involving the question of immortality
-- A loss of the opportunity for eternal life through specific choices
+**阿达帕**是苏美尔《阿达帕神话》的形象(保存于公元前二千纪晚期的楔形文字泥板,可能有更早的口传先声)。{{ cite(id="before-the-muses", text="[17]", title="福斯特,《在缪斯之前》(2005)— 阿达帕神话与更广泛的阿卡德文集") }} 阿达帕是第一个人,由埃阿(恩基)在埃利都城所造,被赋予智慧与技能,却未被赋予不朽。该神话的中心情节涉及阿达帕在折断南风之翼后被召往天神安的宫廷;当被给予不朽的食物与水时,阿达帕依埃阿的具体劝告而拒绝(埃阿曾警告他那食物是毒药),由此失去了永生的机会。神话以阿达帕作为一个必死却有智慧的形象返回地球告终。
 
-The corpus reads the Adapa myth as preserving fragmentary memory of the Eden events as recorded in another creator team's lineage — likely the team that worked in the broader Mesopotamian region, with the Sumerian tradition preserving the narrative through a different cultural-mythological framework than the Hebrew tradition's. The Adapa parallel is therefore not a direct source for the Genesis Adam narrative; both are parallel preservations of the underlying operational reality.
+与亚当—夏娃叙事的结构性平行是实质性的:
 
-**Enkidu** is the figure of the *Epic of Gilgamesh* — a wild man created by the goddess Aruru at Anu's command, fashioned from clay, brought to civilization through his sexual encounter with the prostitute Shamhat, and becoming Gilgamesh's companion. The Enkidu narrative includes substantial parallels to the Eve narrative (the woman-mediated transition from primordial wildness to civilized awareness, the loss of innocence through specific sexual-cognitive experiences) that have been substantially noted in comparative Near Eastern scholarship.
+- 一个由神圣形象所造的第一人(埃阿 / 耶和华耶洛因)
+- 获得智慧却未获得不朽(与《创世记》中分别善恶树 / 生命之树之区分的平行)
+- 一次涉及不朽问题的、与神圣权威的具体相遇
+- 通过具体的抉择而失去永生的机会
 
-The corpus reads Enkidu as preserving fragmentary memory of similar operational events to those preserved in the Genesis narrative — the early human experience of education, civilization, and cognitive development — with the specific Enkidu figure being a literary-mythological construction of the Mesopotamian tradition rather than a direct historical referent.
+本文集将阿达帕神话读作以另一创造者团队世系所记载之形式保存的、对伊甸事件的片段记忆 — 很可能是在更广泛美索不达米亚地区工作的团队,苏美尔传统通过一种与希伯来传统不同的文化—神话框架保存了该叙事。因此,阿达帕的平行并非《创世记》亚当叙事的直接来源;二者都是对底层运作现实的平行保存。
 
-### Egyptian creation traditions
+**恩奇都**是《吉尔伽美什史诗》的形象 — 一个由女神阿鲁鲁奉阿努之命所造的野人,由泥土塑成,通过与妓女莎姆哈特的性相遇而被带入文明,并成为吉尔伽美什的同伴。{{ cite(id="george-epic-of-gilgamesh", text="[18]", title="乔治(译),《吉尔伽美什史诗》(1999)— 恩奇都叙事") }} 恩奇都叙事包含与夏娃叙事的实质性平行(由女性中介、从原初野性到文明化意识的过渡,通过具体的性—认知经验而失去天真),这在比较性的近东学术中已得到大量关注。
 
-The Egyptian tradition preserves multiple first-human creation narratives across its long pharaonic history.
+本文集将恩奇都读作对与《创世记》叙事所保存者相似之运作事件的片段记忆 — 早期人类对教育、文明与认知发展的经验 — 而具体的恩奇都形象,是美索不达米亚传统的文学—神话构造,而非直接的历史指涉。
 
-The **Atum tradition** holds that Atum (the primordial creator god of Heliopolis) created the first humans through self-generation, with various subsequent traditions elaborating the narrative.
+### 埃及的创造传统
 
-The **Khnum tradition** holds that Khnum, the ram-headed creator god, formed humans on a potter's wheel from clay — a substantial parallel to the Genesis 2:7 "dust of the ground" formation language. The Khnum-as-potter iconography is preserved in numerous Egyptian temple reliefs (notably at Esna and Dendera) showing the god forming humans on his wheel.
+埃及传统在其漫长的法老历史中保存了多个最初人类创造叙事。
 
-The **Memphite Theology** (preserved on the Shabaka Stone, c. 8th century BCE, but reflecting older theological tradition) presents Ptah, the Memphite creator god, creating humans through divine speech — a parallel to Genesis 1's creation through speech.
+**阿图姆传统**主张阿图姆(赫利奥波利斯的原初创造神)通过自我生成创造了最初的人类,后续各种传统对该叙事有所发挥。
 
-The corpus reads the Egyptian first-human traditions as preserving fragmentary memory of the African-region creator team's work, with the specific cultural-mythological framing reflecting the Egyptian tradition's distinctive theological apparatus. The substantial parallels to the Hebrew Genesis narrative (particularly the Khnum-as-potter parallel to the dust-of-the-ground formation) are read as evidence of the underlying common operational reality the various cultural traditions preserve in their distinctive forms.
+**克努姆传统**主张羊头创造神克努姆在陶轮上用泥土塑造了人类 — 与创世记 2:7「地上尘土」的成形语言有实质性的平行。克努姆为陶工的图像志保存于众多埃及神庙浮雕中(尤以埃斯纳与丹德拉为著),展现该神在其轮上塑造人类。{{ cite(id="allen-genesis-in-egypt", text="[19]", title="艾伦,《埃及的创世记:古埃及创造记述的哲学》(1988)") }}
 
-### Hindu Manu
+**孟菲斯神学**(保存于沙巴卡石碑上,约公元前 8 世纪,但反映更古老的神学传统)呈现孟菲斯创造神卜塔通过神圣言语创造人类 — 与创世记 1 通过言语的创造相平行。
 
-The Hindu tradition preserves the figure of **Manu** as the first man and the progenitor of humanity. The principal Manu traditions:
+本文集将埃及最初人类传统读作对非洲地区创造者团队工作的片段记忆,其具体的文化—神话框定反映出埃及传统独特的神学装置。与希伯来《创世记》叙事的实质性平行(尤其是克努姆为陶工与尘土成形之平行),被读作各种文化传统以其独特形式所保存之底层共同运作现实的证据。
 
-**Manu Vaivasvata** ("Manu, son of Vivasvat") is the figure of the *Shatapatha Brahmana* (c. 9th–7th century BCE) and the *Mahabharata* who survives the great flood (the Indian flood narrative paralleling the Mesopotamian and Hebrew flood traditions) and becomes the progenitor of post-flood humanity. The Manu-Vaivasvata flood narrative includes the figure of a fish (avatar of Vishnu in later tradition) who warns Manu of the impending flood and provides for his survival.
+### 印度的摩奴
 
-The **Manu Smriti** ("Laws of Manu," c. 2nd century BCE – 3rd century CE) is the principal Hindu legal-religious text attributed to Manu, with the text providing the foundational legal-social framework of classical Hindu civilization.
+印度传统保存了**摩奴**这一形象,作为第一个人与人类的先祖。其主要的摩奴传统:
 
-The Manu tradition's structural parallels to the Adam-and-Eve narrative include:
+**摩奴·毗婆斯婆多**(「毗婆斯婆之子摩奴」)是《百道梵书》(约公元前 9–7 世纪)与《摩诃婆罗多》的形象,他在大洪水中幸存(与美索不达米亚及希伯来洪水传统相平行的印度洪水叙事),并成为后洪水人类的先祖。{{ cite(id="doniger-hindu-myths", text="[20]", title="多尼格,《印度神话:一部资料汇编》(1975)— 摩奴这一最初之人与洪水传统") }} 摩奴·毗婆斯婆多的洪水叙事包含一条鱼(后世传统中为毗湿奴的化身)的形象,它警告摩奴即将到来的洪水并为其幸存作了安排。
 
-- The figure of the first man as the progenitor of subsequent humanity
-- The specific narrative of the first man's relationship to the gods / divine authority
-- The legal-social codification associated with the figure (paralleling the Hebrew tradition's later Mosaic codification)
+**《摩奴法论》**(「摩奴的法律」,约公元前 2 世纪 – 公元 3 世纪)是归于摩奴的主要印度法律—宗教文本,该文本提供了古典印度文明的奠基性法律—社会框架。
 
-The corpus reads the Manu tradition as preserving fragmentary memory of the Indian-subcontinent creator team's work, with the specific cultural-religious framing reflecting the Hindu tradition's distinctive theological apparatus. The Manu-Vaivasvata flood narrative's parallel to the Hebrew Noah narrative is treated more fully in the [Great Flood](../great-flood/) entry (when written).
+摩奴传统与亚当—夏娃叙事的结构性平行包括:
 
-### Chinese Pangu and Nüwa
+- 第一个人作为后续人类先祖的形象
+- 第一个人与诸神 / 神圣权威关系的具体叙事
+- 与该形象相关联的法律—社会编纂(与希伯来传统后来摩西编纂相平行)
 
-The Chinese tradition preserves multiple early-cosmic and first-human figures.
+本文集将摩奴传统读作对印度次大陆创造者团队工作的片段记忆,其具体的文化—宗教框定反映出印度教传统独特的神学装置。摩奴·毗婆斯婆多洪水叙事与希伯来挪亚叙事的平行,在[大洪水](../great-flood/)条目中有更充分论述(待撰)。
 
-**Pangu** (盤古) is the primordial cosmic figure who, in the *Sanwu Liji* (3rd century CE) and subsequent traditions, emerges from the cosmic egg and separates yin and yang to create the structured cosmos. Pangu's body, upon his death, becomes the various features of the cosmos (his eyes becoming the sun and moon, his breath becoming the wind, his blood becoming the rivers, etc.).
+### 中国的盘古与女娲
 
-**Nüwa** (女媧) is the goddess who creates humans from clay or yellow earth, with the principal texts being the *Huainanzi* (2nd century BCE) and various subsequent traditions. Nüwa's first humans were formed individually by her hands; subsequent humans were formed more rapidly by her dragging a rope through clay, with the result that the first individually-formed humans were of higher status than the subsequent rapidly-formed humans (the social-hierarchical justification being part of the narrative).
+中国传统保存了多个早期—宇宙与最初人类形象。
 
-The corpus reads the Chinese first-human traditions as preserving fragmentary memory of the East Asian creator team's work, with the specific cultural-mythological framing reflecting the Chinese tradition's distinctive cosmological apparatus (the Pangu-cosmic-body cosmogony, the Nüwa-clay-formation parallel to Genesis 2:7's dust-of-the-ground formation).
+**盘古**(盤古)是原初的宇宙形象,在《三五历记》(公元 3 世纪)及后续传统中,从宇宙之卵中出现,分开阴阳以创造有结构的宇宙。盘古之身于其死后化为宇宙的各种特征(其双眼化为日月,其气息化为风,其血液化为江河,等等)。
 
-### Norse Ask and Embla
+**女娲**(女媧)是用泥土或黄土造人的女神,其主要文本为《淮南子》(公元前 2 世纪)及后续各种传统。{{ cite(id="birrell-chinese-mythology", text="[21]", title="比勒尔,《中国神话:导论》(1993)— 盘古创世论与女娲抟土造人") }} 女娲最初的人类是由她亲手逐一塑成;后续的人类则由她拖绳过泥而更迅速地造成,其结果是最初逐一塑成的人类地位高于后续迅速造成的人类(社会—等级的证立是该叙事的一部分)。
 
-The Norse tradition preserves the figures of **Ask** ("Ash") and **Embla** ("Elm" or possibly "Vine") as the first humans, created by the Aesir gods (Odin, Vili, and Vé in the *Prose Edda*; alternatively Odin, Hoenir, and Lóðurr in the *Poetic Edda*) from trees or wooden logs found on the seashore. The gods give the first humans breath, intelligence, and the various human capacities, with Ask and Embla becoming the progenitors of subsequent humanity.
+本文集将中国最初人类传统读作对东亚创造者团队工作的片段记忆,其具体的文化—神话框定反映出中国传统独特的宇宙论装置(盘古—宇宙之身的创世论、女娲抟土与创世记 2:7 尘土成形之平行)。
 
-The structural parallels to the Adam-and-Eve narrative include:
+### 北欧的阿斯克与恩布拉
 
-- A first pair (male and female) created jointly by divine figures
-- The specific giving of breath / life-force to inanimate material to produce living humans (parallel to Genesis 2:7's *nišmaṯ ḥayyîm*)
-- The progenitor role for subsequent humanity
+北欧传统保存了**阿斯克**(「梣木」)与**恩布拉**(「榆木」或可能为「藤」)的形象,作为最初的人类,由阿萨神族众神(《散文埃达》中为奥丁、威利与维;《诗体埃达》中另作奥丁、海尼尔与洛都尔)用海滨所拾的树木或木头所造。{{ cite(id="lindow-norse-mythology", text="[22]", title="林多,《北欧神话》(2001)— 阿斯克与恩布拉这一最初人类叙事") }} 众神赋予最初的人类气息、智慧与各种人类能力,阿斯克与恩布拉成为后续人类的先祖。
 
-The corpus reads the Norse Ask-and-Embla tradition as preserving fragmentary memory of the Northern European creator team's work, with the wooden-formation specific cultural framing reflecting the Northern European tradition's distinctive natural-environment context.
+与亚当—夏娃叙事的结构性平行包括:
 
-### Indigenous American first-human traditions
+- 一对(男与女)由神圣形象共同创造
+- 将气息 / 生命力具体赋予无生命材料以产生活的人类(与创世记 2:7 的 *nišmaṯ ḥayyîm* 相平行)
+- 作为后续人类的先祖角色
 
-Various indigenous American traditions preserve first-human creation narratives with substantial structural parallels to the Adam-and-Eve material.
+本文集将北欧阿斯克与恩布拉传统读作对北欧创造者团队工作的片段记忆,其木头成形的具体文化框定反映出北欧传统独特的自然—环境背景。
 
-The **Maya Popol Vuh** (preserved in 16th-century Quiché Maya manuscripts but reflecting earlier oral traditions) records multiple first-human creation attempts by the gods — humans of mud (failed), humans of wood (failed), and humans of corn (successful). The corn-humans are the progenitors of subsequent Maya humanity.
+### 美洲原住民的最初人类传统
 
-Various **North American indigenous traditions** preserve first-human narratives, with substantial variation across cultural contexts. The **Iroquois "Sky Woman"** narrative includes the first woman who falls from the sky world and becomes the matriarchal progenitor of subsequent humanity. Various **Plains tribes' traditions** preserve first-human narratives with specific cultural-mythological framings.
+各种美洲原住民传统保存了与亚当—夏娃材料具有实质性结构平行的最初人类创造叙事。
 
-The corpus reads the indigenous American first-human traditions as preserving fragmentary memory of the American-continent creator teams' work — likely two or more distinct teams given the geographical scale and the substantial cultural-linguistic diversity of the indigenous American populations. The specific cultural-mythological framings reflect the distinctive contexts of each tradition's preservation.
+**玛雅《波波尔·乌》**(保存于 16 世纪基切玛雅手稿中,但反映更早的口传传统)记载了诸神历次的最初人类创造尝试 — 泥人(失败)、木人(失败)与玉米人(成功)。{{ cite(id="tedlock-popol-vuh", text="[23]", title="特德洛克(译),《波波尔·乌:玛雅黎明之书》(1996)") }} 玉米人是后续玛雅人类的先祖。
 
-### The convergence
+各种**北美原住民传统**保存了最初人类叙事,跨文化语境有实质性的差异。**易洛魁的「天女」**叙事包含从天界坠落、并成为后续人类女祖先的最初女性。各种**平原部落的传统**保存了具有特定文化—神话框定的最初人类叙事。
 
-The corpus's working position on the comparative-first-human question is that the global recurrence of first-human creation narratives across cultures is meaningful as evidence of broader operational patterns. The seven creator teams' parallel work across the antediluvian supercontinent produced parallel first-human pairs in distinct lineages, with each lineage's subsequent cultural-religious tradition preserving fragmentary memory of its specific founding event in distinctive cultural-mythological forms. Adam and Eve are the first humans of one specific lineage — the Israel-team lineage — with their narrative preserved in the Hebrew tradition. Adapa, Manu, Pangu, Nüwa, Ask, Embla, and the various indigenous American first-human figures are parallel first-humans of other lineages, with their narratives preserved in their respective cultural traditions.
+本文集将美洲原住民最初人类传统读作对美洲大陆创造者团队工作的片段记忆 — 鉴于地理规模与美洲原住民人口实质性的文化—语言多样性,很可能是两个或更多各有区分的团队。其具体的文化—神话框定反映出每个传统保存时独特的背景。
 
-The corpus does not claim that every first-human narrative across world traditions is a direct memory of an actual creator-team operation — many such narratives are independently developed mythological constructions of their respective cultures. What the framework registers is that the substantial cross-cultural pattern is consistent with the seven-creator-team picture the framework reads, with various cultural traditions preserving aspects of this reality in their own distinctive cultural-mythological forms.
+### 趋同
 
-## See also
+本文集就比较性最初人类问题的工作立场是:最初人类创造叙事在各文化间的全球性反复出现,作为更广泛运作模式的证据是有意义的。七个创造者团队在大洪水前超大陆各处的平行工作,在各有区分的世系中产生了平行的最初人类伴侣,每支世系随后的文化—宗教传统以独特的文化—神话形式保存了对其特定奠基事件的片段记忆。亚当与夏娃是一支特定世系 — 即以色列团队世系 — 的最初人类,其叙事保存于希伯来传统之中。阿达帕、摩奴、盘古、女娲、阿斯克、恩布拉,以及各种美洲原住民最初人类形象,是其他世系的平行最初人类,其叙事保存于各自的文化传统之中。
 
-- [Eden](../eden/)
-- [Genesis](../genesis/)
-- [Serpent](../serpent/)
-- [Lucifer](../lucifer/)
-- [Yahweh](../yahweh/)
-- [Elohim](../elohim/)
-- [Tree of Knowledge](../tree-of-knowledge/)
-- [Tree of Life](../tree-of-life/)
-- [Cain and Abel](../cain-and-abel/)
-- [Antediluvian](../antediluvian/)
-- [Sons of Elohim](../sons-of-elohim/)
-- [Nephilim](../nephilim/)
-- [Hebrew](../hebrew/)
-- [Hebrew Bible](../hebrew-bible/)
-- [Prophet](../prophet/)
-- [Mary](../mary/)
-- [Council of the Eternals](../council-of-eternals/)
-- [The Alliance](../the-alliance/)
-- [Great Flood](../great-flood/)
-- [Age of Leo](../timeline/age-of-leo/)
-- [Age of Cancer](../timeline/age-of-cancer/)
-- [Atra-ḫasīs](../atra-hasis/)
-- [Epic of Gilgamesh](../epic-of-gilgamesh/)
-- [Documentary Hypothesis](../documentary-hypothesis/)
-- [Jean Sendy](../jean-sendy/)
-- [Mauro Biglino](../mauro-biglino/)
-- [Paul Anthony Wallis](../paul-anthony-wallis/)
-
-## References
-
-Vorilhon, Claude (Raël). *The Book Which Tells the Truth* (1974), chapter 2; collected in *Message from the Designers*.
-
-Vorilhon, Claude (Raël). *Extra-Terrestrials Took Me to Their Planet* (1975); collected in *Message from the Designers*.
-
-Sendy, Jean. *Ces dieux qui firent le ciel et la terre*. Robert Laffont, 1969. English: *Those Gods Who Made Heaven and Earth*. Berkley, 1972.
-
-Biglino, Mauro, and Giorgio Cattaneo. *The Naked Bible: The Truth About the Most Famous Book in History*. Uno, 2022.
-
-Wallis, Paul Anthony. *The Eden Conspiracy*. 6th Books, 2024.
-
-*Biblia Hebraica Stuttgartensia*. Deutsche Bibelgesellschaft, 4th rev. ed., 1997.
-
-Sarna, Nahum. *Genesis: The JPS Torah Commentary*. Jewish Publication Society, 1989.
-
-Westermann, Claus. *Genesis 1–11: A Continental Commentary*. Fortress, 1994.
-
-Skinner, John. *A Critical and Exegetical Commentary on Genesis*. International Critical Commentary, T&T Clark, 1910.
-
-von Rad, Gerhard. *Genesis: A Commentary*. Westminster, 1961.
-
-Augustine. *City of God*. Trans. Henry Bettenson. Penguin Classics, 1972.
-
-Augustine. *On the Merits and Forgiveness of Sins, and on Infant Baptism*. In *Anti-Pelagian Works*, trans. Peter Holmes. T&T Clark.
-
-Pagels, Elaine. *Adam, Eve, and the Serpent*. Random House, 1988.
-
-Trible, Phyllis. *God and the Rhetoric of Sexuality*. Fortress, 1978.
-
-Meyers, Carol. *Discovering Eve: Ancient Israelite Women in Context*. Oxford University Press, 1988.
-
-Plaskow, Judith. *Standing Again at Sinai: Judaism from a Feminist Perspective*. Harper, 1990.
-
-Plaskow, Judith. "The Coming of Lilith" (1972). In *The Coming of Lilith: Essays on Feminism, Judaism, and Sexual Ethics*, 1972–2003. Beacon, 2005.
-
-*The Alphabet of Ben Sira* (medieval Hebrew text, c. 8th–10th century CE). Trans. Norman Bronznick. In *Rabbinic Fantasies*, ed. David Stern and Mark Jay Mirsky. JPS, 1990.
-
-*Zohar*. Pritzker Edition, trans. Daniel Matt et al. Stanford University Press, 2003–2017.
-
-Lambert, W. G., and A. R. Millard. *Atra-ḫasīs: The Babylonian Story of the Flood*. Oxford University Press, 1969.
-
-George, Andrew, ed. and trans. *The Epic of Gilgamesh: The Babylonian Epic Poem and Other Texts in Akkadian and Sumerian*. Penguin Classics, 1999.
-
-Foster, Benjamin R. *Before the Muses: An Anthology of Akkadian Literature*. CDL Press, 3rd ed., 2005.
-
-Allen, James P. *Genesis in Egypt: The Philosophy of Ancient Egyptian Creation Accounts*. Yale Egyptological Studies, 1988.
-
-Doniger, Wendy. *Hindu Myths: A Sourcebook*. Penguin Classics, 1975.
-
-Birrell, Anne. *Chinese Mythology: An Introduction*. Johns Hopkins University Press, 1993.
-
-Lindow, John. *Norse Mythology: A Guide to the Gods, Heroes, Rituals, and Beliefs*. Oxford University Press, 2001.
-
-Tedlock, Dennis, trans. *Popol Vuh: The Mayan Book of the Dawn of Life*. Touchstone, 1996.
-
-Smith, Joseph. *Doctrine and Covenants*. Church of Jesus Christ of Latter-day Saints, various editions.
-
-Brown, Francis, S. R. Driver, and Charles A. Briggs. *A Hebrew and English Lexicon of the Old Testament* (BDB). Oxford, 1907.
-
-*The Hebrew and Aramaic Lexicon of the Old Testament* (HALOT), Koehler-Baumgartner. Brill, 2001.
-
-"Adam and Eve." *Encyclopaedia Britannica*. <https://www.britannica.com/topic/Adam-and-Eve>
-
-"Adam." *Encyclopaedia Britannica*. <https://www.britannica.com/topic/Adam-Hebrew-mythology>
-
-"Eve." *Encyclopaedia Britannica*. <https://www.britannica.com/topic/Eve-Hebrew-mythology>
-
-"Lilith." *Encyclopaedia Britannica*. <https://www.britannica.com/topic/Lilith-Jewish-folklore>
-
-"Original sin." *Encyclopaedia Britannica*. <https://www.britannica.com/topic/original-sin>
+本文集并不主张世界各传统中每一个最初人类叙事都是对某一实际创造者团队运作的直接记忆 — 许多此类叙事是各自文化独立发展的神话构造。本框架所记述的是:实质性的跨文化模式与本框架所读出的七创造者团队图景相一致,而各种文化传统以其各自独特的文化—神话形式保存了这一现实的若干面向。

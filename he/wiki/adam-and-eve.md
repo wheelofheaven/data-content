@@ -1,622 +1,638 @@
 +++
-title = "Adam and Eve"
+title = "אדם וחוה"
 slug = "adam-and-eve"
-description = "Adam (Hebrew: אָדָם, ʾāḏām) and Eve (Hebrew: חַוָּה, ḥawwāh) are the first humans of the Hebrew Bible's Genesis narrative, formed by the Elohim in the garden of Eden, given the prohibition concerning the Tree of the Knowledge of Good and Evil, and expelled from the garden after eating from the tree. On the reading developed in the Raëlian source material and adopted by the Wheel of Heaven corpus, Adam and Eve are read as specific historical figures: the first synthesized humans of the Israel team's specific Eden installation, created through de novo biological synthesis during the late Age of Leo, educated in the Eden controlled environment, exposed to the dissenting Lucifer faction's disclosure of restricted scientific knowledge, expelled from the installation after the disclosure, and progenitors of the Eden-lineage human civilization. Both are currently resurrected on the Planet of the Eternals, awaiting the alliance's open return at the Aquarian-age embassy."
+description = "אדם (עברית: אָדָם, ʾāḏām) וחוה (עברית: חַוָּה, ḥawwāh) הם בני האדם הראשונים של נרטיב בראשית במקרא העברי, שנוצרו על ידי האלוהים בגן עדן, ניתן להם האיסור הנוגע לעץ הדעת טוב ורע, וגורשו מן הגן לאחר שאכלו מן העץ. על פי הקריאה שפותחה בחומר המקור הראליאני ואומצה על ידי קורפוס »גלגל השמיים«, אדם וחוה נקראים כדמויות היסטוריות ספציפיות: בני האדם הסינתטיים הראשונים של מיתקן עדן הספציפי של צוות ישראל, שנוצרו באמצעות סינתזה ביולוגית de novo במהלך עידן האריה המאוחר, חונכו בסביבה המבוקרת של עדן, נחשפו לגילוי הידע המדעי המוגבל של סיעת לוציפר הסוררת, גורשו מן המיתקן לאחר הגילוי, והם אבות-המייסדים של הציוויליזציה האנושית של שושלת עדן. שניהם תקומו כעת על כוכב הנצחיים, ממתינים לשובה הגלוי של הברית בשגרירות עידן הדלי."
 template = "wiki-page.html"
 toc = true
 
 [extra]
-translation_status = "metadata_only"
 category = "Biblical Figures"
 editorial_pass = "2026-05"
+claim_type = "framework"
 entry_type = "figure"
 alternative_names = ["Adam", "Eve", "אָדָם וְחַוָּה", "ʾĀḏām and Ḥawwāh", "the First Humans", "the First Pair", "Adam Kadmon and Hawwah (in Kabbalistic tradition)"]
 timeline = ["leo", "cancer"]
+see_also = [
+    { title = "עדן", path = "wiki/eden", description = "מיתקן צוות ישראל שבו סונתזו אדם וחוה וחונכו." },
+    { title = "בראשית", path = "wiki/genesis", description = "נרטיב הבריאה שאת דיווחי בראשית א ובראשית ב שלו קורא הקורפוס כמובחנים בהיקפם." },
+    { title = "הנחש", path = "wiki/serpent", description = "סיעת לוציפר בתפקיד הגילוי שלה; הדמות שביצעה את גילוי עדן לאדם ולחוה." },
+    { title = "לוציפר", path = "wiki/lucifer", description = "מנהיג הסיעה הסוררת שאת גילויו קיבלו אדם וחוה." },
+    { title = "עץ החיים", path = "wiki/tree-of-life", description = "טכנולוגיית הארכת החיים שמאחורי 930 השנים הרשומות של אדם." },
+    { title = "טרום-מבולי", path = "wiki/antediluvian", description = "התקופה שלאחר עדן שיוסדה על ידי שושלת אדם וחוה." },
+]
+
+footnotes = [
+    { content = "הקורפוס קורא את בראשית א ואת בראשית ב כמובחנים בהיקפם ולא כדיווחים מקבילים-וסותרים של אותו אירוע. בראשית א הוא הדיווח המסכם של תוכנית הבריאה הרחבה של שבעת הצוותים (ה*יום* השישי המכסה את עבודת בריאת האדם של כל שבעת הצוותים לאורך עידן האריה); בראשית ב הוא הנרטיב המפורט של עבודתו של צוות ספציפי אחד — מיתקן עדן של צוות ישראל. הדבר מתיישב חלקית עם השערת התעודות (שני הדיווחים אכן מובחנים טקסטואלית) תוך הבדל בפרשנות: הקורפוס קורא אותם כמובחנים בהיקפם, לא כדיווחים מקבילים סותרים. לכך יתרון מתודולוגי בהסברת מדוע שניהם נשמרו יחד — הם מכסים היקפים שונים של אותה מציאות תפעולית רחבה." },
+    { content = "הקורפוס קורא את שפת הבריאה של בראשית ב כדיווחים מסוגננים של סינתזה ביולוגית שהמחברים המקוריים לא יכלו לתאר באוצר מילים טכני. יצירת »עפר מן האדמה« (*ʿāp̄ār min hā-ʾădāmâ*) נקראת כסינתזה *de novo* בשימוש בחומרים ארציים כמצע מולקולרי ובחומר גנטי של האלוהים כתבנית; »נשמת חיים« (*nišmaṯ ḥayyîm*) כהפעלת האורגניזם המסונתז; ה»צלע« (*ṣēlāʿ*, שמשמעה יכולה להיות »צד«, »לוח« או »מבנה תומך«) כחומר תאי או גנטי שניטל מאדם, המעניק לחוה תאימות גנטית מהותית עמו; ה»תרדמה« (*tardēmâ*) כמצב רפואי-הרדמתי במהלך ההליך. הקורפוס אינו מתחייב לספציפיות הליטרלית-אנטומית של הנרטיב השטחי." },
+    { content = "המסגרת אינה טוענת שאדם וחוה הם בני האדם הראשונים של כל האנושות. תמונת שבעת צוותי הבריאה רושמת במפורש דמויות בני-אדם-ראשונים מקבילות בשש השושלות האחרות — ששמותיהן אינם נשמרים במקרא העברי משום שהמקרא העברי הוא הירושה התרבותית הספציפית של שושלת צוות ישראל. אדם וחוה הם בני האדם הראשונים של שושלת *אחת*, שהיסטוריה שלה הפכה להיסטוריה התרבותית-דתית של העברים. ה»נפילה« אינה אפוא קטסטרופה מוסרית אנושית אוניברסלית אלא אירוע תפעולי ספציפי בהיסטוריה של שושלת אחת, ולתורת החטא הקדמון האוגוסטינית המרחיבה את הנרטיב לכל האנושות אין ההיקף האוניברסלי שמסגרתה התיאולוגית המקובלת טוענת לו." },
+    { content = "המסגרת דוחה את מסורת הפרשנות המיזוגינית הממקמת את האחריות העיקרית על חוה. חומר המקור הראליאני מפורש בכך שהגילוי הוצע לשני בני האדם באופן שווה, שחיבת הבוראים המגלים הייתה לשניהם, ושההשלכות נפלו על שניהם באופן שווה. מסגור »האישה הותעתה« של טימותיוס א ב:13–14 הוא הבסיס הטקסטואלי של המסורת המאוחרת שהקורפוס דוחה. בנקודה ספציפית זו הקורפוס מתיישב עם המחקר הפמיניסטי היהודי והנוצרי (פייגלס, טריבל, מאיירס) מבלי לאמץ את מלוא המנגנון הפמיניסטי-תיאולוגי." },
+    { content = "התאריך שהקורפוס מקצה לסינתזה של אדם וחוה — עידן האריה המאוחר, בסביבות 11,400 לפנה״ס — הוא פנים-מסגרתי, נגזר מכיול הכרונולוגי של הקורפוס לרבות חישוב 666 הדורות בני 20 השנים הנקרא מתוך חזון יוחנן יג:18. עידני הנקיפה הם תופעות אסטרונומיות אמיתיות; שנות הגבול הספציפיות הן מוסכמות מסגרת. ראו את הערכים בראשית וטרום-מבולי לגזירת הכרונולוגיה." },
+    { content = "תקומת אדם וחוה על כוכב הנצחיים היא טענה פנים-מקורית של החומר הראליאני — שניהם מדווחים כחיים שם כעת בתנאי אלמותיות מעשית הנשמרים על ידי טכנולוגיית השכפול והעברת הזיכרון של הברית, ממתינים לשוב הגלוי בשגרירות עידן הדלי. הקורפוס קורא את תקומת אדם בקשר לתפקידו כנביא הראשון (הנמען האנושי הראשון של תקשורת ברית ישירה). הטענה אינה ניתנת לאימות עצמאי והקורפוס מתייחס אליה כאל קביעתו של המקור עצמו." },
+]
+
+[[extra.references]]
+id = "the-book-which-tells-the-truth"
+locator = "פרק 2"
+note = "מקור ראליאני יסודי לאדם ולחוה כבני האדם הסינתטיים הראשונים של מיתקן עדן של צוות ישראל."
+
+[[extra.references]]
+id = "extraterrestrials-took-me-to-their-planet"
+note = "יצירתו השנייה של וורילון (1975) — כוכב הנצחיים ותקומת הנביאים לרבות אדם."
+
+[[extra.references]]
+id = "those-gods-who-made-heaven-and-earth"
+note = "קריאתו של סנדי את אדם וחוה כבני האדם הראשונים של שושלת צוות ישראל — האנטצדנט המלומד העיקרי."
+
+[[extra.references]]
+id = "the-naked-bible"
+note = "קריאתו התרגומית-קפדנית של ביגלינו את שפת יצירת-העפר וה-ṣēlāʿ כסינתזה ביולוגית ושכפול; הקורפוס מתיישב פרט לקריאת קין-כשושלת-הנחש."
+
+[[extra.references]]
+id = "the-eden-conspiracy"
+note = "הטיפול הנגיש העדכני של ווליס בחומר בראשית ב–ג מנקודת מבט פלורליסטית-אלוהים."
+
+[[extra.references]]
+id = "sarna-genesis-jps"
+note = "פירוש התורה של סארנה במהדורת JPS — הטיפול הסטנדרטי בעברית של נרטיב עדן ובגנאלוגיות הפטריארכליות."
+
+[[extra.references]]
+id = "westermann-genesis-1-11"
+note = "הפירוש הצורני-ביקורתי הסטנדרטי של וסטרמן על ההיסטוריה הקדומה של בראשית."
+
+[[extra.references]]
+id = "skinner-genesis-icc"
+note = "פירוש ה-ICC היסודי של סקינר השומר את קריאת השערת התעודות של שני דיווחי הבריאה."
+
+[[extra.references]]
+id = "von-rad-genesis"
+note = "קריאתו הצורנית-ביקורתית והתיאולוגית של פון ראד את נרטיב הבריאה היהוויסטי."
+
+[[extra.references]]
+id = "city-of-god"
+note = "פיתוחו של אוגוסטינוס את תורת החטא הקדמון שהקורפוס דוחה כבניין תיאולוגי ספציפי, לא כנתון טקסטואלי."
+
+[[extra.references]]
+id = "pagels-adam-eve-serpent"
+note = "מחקרה של פייגלס על האופן שבו עיצבה פרשנות נרטיב אדם-חוה את המחשבה המערבית, כאשר סינתזת אוגוסטינוס היא התפתחות שנויה במחלוקת."
+
+[[extra.references]]
+id = "trible-rhetoric-sexuality"
+note = "קריאתה הצמודה של טריבל את בראשית ב–ג הטוענת לשוויון מגדרי בטקסט העברי המקורי."
+
+[[extra.references]]
+id = "meyers-discovering-eve"
+note = "קריאתה ההיסטורית-אנתרופולוגית של מאיירס את חוה כאישה החקלאית-עובדת של ישראל בתקופת הברזל."
+
+[[extra.references]]
+id = "plaskow-standing-again-sinai"
+note = "התיאולוגיה הפמיניסטית היהודית של פלסקוב העוסקת במסורות אדם-חוה ולילית."
+
+[[extra.references]]
+id = "alphabet-of-ben-sira"
+note = "טקסט היסוד מימי הביניים לנרטיב לילית-כאשתו-הראשונה-של-אדם שהקורפוס רושם אך אינו מאמץ."
+
+[[extra.references]]
+id = "zohar-pritzker"
+note = "הזוהר במהדורת פריצקר — חומר אדם קדמון ולילית שהקורפוס עוסק בו באופן השוואתי."
+
+[[extra.references]]
+id = "george-epic-of-gilgamesh"
+note = "תרגומו הסטנדרטי של ג'ורג' לרבות נרטיב אנכידו הנקרא באופן השוואתי מול חומר חוה/הציוויליזציה."
+
+[[extra.references]]
+id = "before-the-muses"
+note = "האנתולוגיה של פוסטר לספרות אכדית לרבות מיתוס אדפה הנקרא באופן השוואתי מול אירועי עדן."
+
+[[extra.references]]
+id = "atra-hasis-lambert-millard"
+note = "מהדורתם של למברט ומילרד ל-Atra-ḫasīs — מסורת הבריאה-והמבול המסופוטמית המקבילה לחומר בראשית."
+
+[[extra.references]]
+id = "allen-genesis-in-egypt"
+note = "טיפולו של אלן בתיאולוגיית הבריאה המצרית לרבות ההקבלה ח'נום-כקדר ליצירת עפר-מן-האדמה."
+
+[[extra.references]]
+id = "doniger-hindu-myths"
+note = "האנתולוגיה של דוניגר לרבות מסורות מאנו האדם-הראשון והמבול."
+
+[[extra.references]]
+id = "birrell-chinese-mythology"
+note = "מחקרה של בירל לרבות קוסמוגוניית פאנגו ונרטיב יצירת-החימר של נו-ווא."
+
+[[extra.references]]
+id = "lindow-norse-mythology"
+note = "ספר העזר של לינדאו לרבות נרטיב אסק-ואמבלה בני האדם הראשונים."
+
+[[extra.references]]
+id = "tedlock-popol-vuh"
+note = "תרגומו של טדלוק ל-Popol Vuh המאיה עם ניסיונות יצירת בני האדם הראשונים הרצופים."
+
+[[extra.references]]
+id = "doctrine-and-covenants"
+note = "המקור הקדוש-של-אחרית-הימים לתורת אדם-כמיכאל שהקורפוס רושם אך אינו מאמץ."
 
 [extra.infobox]
 hebrew_name = "אָדָם וְחַוָּה (ʾĀḏām and Ḥawwāh)"
-greek_name = "Ἀδάμ καὶ Εὕα (Adam kai Heua, in the Septuagint)"
-latin_name = "Adam et Eva (in the Vulgate)"
-arabic_name = "آدم وحواء (Ādam wa-Ḥawwāʾ, in the Qur'anic tradition)"
-title = "The first humans of the Israel team's Eden installation"
-type = "Synthesized humans created by the Israel team of Elohim creators; biological pair"
-created = "Late Age of Leo, c. 11,400 BCE on the corpus's reckoning (derived from the 666-generations-of-20-years calculation of Revelation 13:18)"
-date_type = "framework-internal; derived from the corpus's chronological calibration"
-biblical_appearance = "Genesis 1:26–28 (summary creation account); Genesis 2:4–25 (detailed Eden synthesis); Genesis 3 (the disclosure and expulsion); Genesis 4–5 (the post-Eden generations); occasional later Hebrew Bible references (1 Chronicles 1:1; Hosea 6:7); New Testament references (Romans 5; 1 Corinthians 15; 1 Timothy 2)"
-created_by = "The Israel team of Elohim creators, with Yahweh as team leader"
-relationship_to_lucifer = "Educated by the Israel team's scientists during the Eden period, including the figures who would form the dissenting Lucifer faction; recipients of the Lucifer-faction disclosure"
-recorded_lifespan = "Adam: 930 years (Genesis 5:5); Eve: not specified in Genesis"
-children = "Cain, Abel, Seth, and other unnamed sons and daughters (Genesis 4:1–2, 25; 5:3–4)"
-current_status = "Resurrected on the Planet of the Eternals, per the source material's prophet-resurrection list; awaiting the open return at the Aquarian-age embassy"
-principal_text = "Genesis 1–5"
-principal_framework_source = "*The Book Which Tells the Truth* (Vorilhon/Raël, 1974), chapter 2; *Extra-Terrestrials Took Me to Their Planet* (1975)"
+greek_name = "Ἀδάμ καὶ Εὕα (Adam kai Heua, בתרגום השבעים)"
+latin_name = "Adam et Eva (בוולגטה)"
+arabic_name = "آدم وحواء (Ādam wa-Ḥawwāʾ, במסורת הקוראנית)"
+title = "בני האדם הראשונים של מיתקן עדן של צוות ישראל"
+type = "בני אדם סינתטיים שנוצרו על ידי צוות ישראל של בוראי האלוהים; זוג ביולוגי"
+created = "עידן האריה המאוחר, בסביבות 11,400 לפנה״ס על פי חישוב הקורפוס (נגזר מחישוב 666 הדורות בני 20 השנים של חזון יוחנן יג:18)"
+date_type = "פנים-מסגרתי; נגזר מהכיול הכרונולוגי של הקורפוס"
+biblical_appearance = "בראשית א:26–28 (דיווח בריאה מסכם); בראשית ב:4–25 (סינתזת עדן מפורטת); בראשית ג (הגילוי והגירוש); בראשית ד–ה (הדורות שלאחר עדן); הפניות מקראיות מאוחרות מזדמנות (דברי הימים א א:1; הושע ו:7); הפניות בברית החדשה (רומים ה; קורינתים א טו; טימותיוס א ב)"
+created_by = "צוות ישראל של בוראי האלוהים, עם יהוה כראש הצוות"
+relationship_to_lucifer = "חונכו על ידי מדעני צוות ישראל במהלך תקופת עדן, לרבות הדמויות שיהוו את סיעת לוציפר הסוררת; נמעני גילוי סיעת לוציפר"
+recorded_lifespan = "אדם: 930 שנים (בראשית ה:5); חוה: לא צוין בבראשית"
+children = "קין, הבל, שת, ובנים ובנות נוספים בלתי-נקראים בשם (בראשית ד:1–2, 25; ה:3–4)"
+current_status = "תקומו על כוכב הנצחיים, על פי רשימת תקומת-הנביאים של חומר המקור; ממתינים לשוב הגלוי בשגרירות עידן הדלי"
+principal_text = "בראשית א–ה"
+principal_framework_source = "*הספר המספר את האמת* (וורילון/ראל, 1974), פרק 2; *חייזרים לקחו אותי לכוכבם* (1975)"
 +++
 
-**Adam** (<span class="hebrew">אָדָם</span>, *ʾāḏām*) and **Eve** (<span class="hebrew">חַוָּה</span>, *ḥawwāh*) are the first humans of the Hebrew Bible's Genesis narrative. Adam is named in Genesis 2:7 as the first human formed by Yahweh Elohim from the dust of the ground; Eve is named in Genesis 3:20 as *the mother of all the living* (*ʾem kol-ḥay*) following her formation in Genesis 2:21–22 from a part of Adam's side. The pair are the focal figures of the Genesis 2–4 narrative — placed in the garden of Eden, given the prohibition concerning the Tree of the Knowledge of Good and Evil, persuaded by the Serpent to eat from the tree, expelled from the garden, and named as the parents of Cain, Abel, and Seth (Genesis 4:1–2, 25; 5:3–4). Their biographical material in the Hebrew Bible concludes with Adam's recorded death at 930 years (Genesis 5:5), with no parallel record for Eve.
+**אדם** (<span class="hebrew">אָדָם</span>, *ʾāḏām*) ו**חוה** (<span class="hebrew">חַוָּה</span>, *ḥawwāh*) הם בני האדם הראשונים של נרטיב בראשית במקרא העברי. אדם נקרא בבראשית ב:7 כאדם הראשון שנוצר על ידי יהוה אלוהים מעפר האדמה; חוה נקראת בבראשית ג:20 כ*אם כל חי* (*ʾem kol-ḥay*) לאחר יצירתה בבראשית ב:21–22 מחלק מצדו של אדם. הזוג הם הדמויות המרכזיות של נרטיב בראשית ב–ד — מוצבים בגן עדן, ניתן להם האיסור הנוגע לעץ הדעת טוב ורע, משוכנעים על ידי הנחש לאכול מן העץ, מגורשים מן הגן, ונקראים כהוריהם של קין, הבל ושת (בראשית ד:1–2, 25; ה:3–4). חומרם הביוגרפי במקרא העברי מסתיים במות אדם הרשום בגיל 930 שנים (בראשית ה:5), ללא רישום מקביל לחוה.
 
-On the reading developed in the Raëlian source material and adopted by the Wheel of Heaven corpus, Adam and Eve are read as specific historical figures rather than as mythological symbols or as the first humans simpliciter. They are the first synthesized humans of the **Israel team's** specific Eden installation — one of seven creator-team installations distributed across the antediluvian supercontinent, with the Israel team's installation producing the specific lineage whose subsequent history would be preserved in the Hebrew Bible. They were created during the late Age of Leo (c. 11,400 BCE on the corpus's reckoning) through *de novo* biological synthesis using Elohim genetic material as the principal source, with terrestrial materials providing the substrate. They were educated in the Eden controlled environment by the Israel team's scientists, including the figures who would form the dissenting Lucifer faction. They received the faction's disclosure of restricted scientific knowledge — the act narrated in Genesis 3 as the Serpent's intervention. They were expelled from the installation following the disclosure and lived out the rest of their lives in the broader Eden region, with their offspring populating the early antediluvian Eden civilization. The source material specifically identifies Adam as the first prophet — the first human recipient of direct alliance communication — and identifies both Adam and Eve as currently resurrected on the Planet of the Eternals, awaiting the alliance's open return at the Aquarian-age embassy.
+על פי הקריאה שפותחה בחומר המקור הראליאני ואומצה על ידי קורפוס »גלגל השמיים«, אדם וחוה נקראים כדמויות היסטוריות ספציפיות ולא כסמלים מיתולוגיים או כבני האדם הראשונים בפשטות. הם בני האדם הסינתטיים הראשונים של מיתקן עדן הספציפי של **צוות ישראל** — אחד משבעה מיתקני צוותי-בריאה המפוזרים על פני יבשת-העל הטרום-מבולית, כאשר מיתקן צוות ישראל מפיק את השושלת הספציפית שהיסטוריה שלה תישמר במקרא העברי. הם נוצרו במהלך עידן האריה המאוחר (בסביבות 11,400 לפנה״ס על פי חישוב הקורפוס){{ footnote(id="5") }} באמצעות סינתזה ביולוגית *de novo* בשימוש בחומר גנטי של האלוהים כמקור העיקרי, כאשר חומרים ארציים מספקים את המצע. הם חונכו בסביבה המבוקרת של עדן על ידי מדעני צוות ישראל, לרבות הדמויות שיהוו את סיעת לוציפר הסוררת. הם קיבלו את גילוי הסיעה של ידע מדעי מוגבל — המעשה המסופר בבראשית ג כהתערבות הנחש. הם גורשו מן המיתקן בעקבות הגילוי וחיו את שארית חייהם באזור עדן הרחב, כאשר צאצאיהם מאכלסים את ציוויליזציית עדן הטרום-מבולית המוקדמת. חומר המקור מזהה ספציפית את אדם כנביא הראשון — הנמען האנושי הראשון של תקשורת ברית ישירה — ומזהה את אדם ואת חוה כשניהם תקומים כעת על כוכב הנצחיים, ממתינים לשובה הגלוי של הברית בשגרירות עידן הדלי.{{ cite(id="the-book-which-tells-the-truth", text="[2]", title="וורילון (ראל), *הספר המספר את האמת* (1974), פרק 2 — אדם וחוה כבני האדם הסינתטיים הראשונים של צוות ישראל") }}
 
-The reading is contested. Within Christian theological tradition, the dominant readings of Adam and Eve treat them as the first humans of all humanity (not just one specific lineage), as morally pivotal figures whose disobedience produced the Fall and inherited original sin (the Augustinian doctrine), and as theologically representative figures whose narrative encodes the human moral condition rather than as historical individuals in the strict sense. Within mainstream historical-critical biblical scholarship, the Genesis 2–4 narrative is recognized as a Yahwist source composition (J source on the documentary hypothesis) with mythological-aetiological character, distinct from the Genesis 1 Priestly source account, with the figures of Adam and Eve treated as literary-mythological constructions rather than as historical individuals. Within paleoanthropology and modern human-origins science, the broader question of human origins is treated through the genetic, archaeological, and paleontological evidence, with the conclusion that Homo sapiens emerged through evolutionary processes across approximately 200,000–300,000 years rather than through specific creation events involving identifiable first individuals. The corpus's reading is structurally distinctive: it accepts the historical-critical recognition that Genesis 1 and Genesis 2 are textually distinct accounts (treating Genesis 1 as the broader summary of all seven creator teams' work and Genesis 2 as the specific Israel-team narrative), accepts that Adam and Eve are not the first humans of all humanity (the corpus reads seven distinct creator-team lineages emerging across the Age of Leo), and treats the figures as specific historical individuals while reframing the underlying ontology of their creation.
+הקריאה שנויה במחלוקת. בתוך המסורת התיאולוגית הנוצרית, הקריאות הדומיננטיות של אדם וחוה מתייחסות אליהם כבני האדם הראשונים של כל האנושות (לא רק של שושלת ספציפית אחת), כדמויות מוסריות מכריעות שאי-צייתנותן הפיקה את הנפילה ואת החטא הקדמון התורשתי (התורה האוגוסטינית), וכדמויות מייצגות תיאולוגית שנרטיבן מקודד את המצב המוסרי האנושי ולא כיחידים היסטוריים במובן המדויק. בתוך המחקר המקראי ההיסטורי-ביקורתי המיינסטרימי, נרטיב בראשית ב–ד מוכר כחיבור ממקור יהוויסטי (מקור J על פי השערת התעודות) בעל אופי מיתולוגי-אטיולוגי, מובחן מדיווח המקור הכוהני של בראשית א, כאשר דמויות אדם וחוה מטופלות כבניינים ספרותיים-מיתולוגיים ולא כיחידים היסטוריים. בתוך הפליאואנתרופולוגיה ומדע מקורות האדם המודרני, השאלה הרחבה של מקורות האדם מטופלת באמצעות הראיות הגנטיות, הארכיאולוגיות והפליאונטולוגיות, עם המסקנה ש-Homo sapiens צמח באמצעות תהליכים אבולוציוניים על פני כ-200,000–300,000 שנים ולא באמצעות אירועי בריאה ספציפיים המערבים יחידים ראשונים ניתנים לזיהוי. קריאת הקורפוס מובחנת מבנית: היא מקבלת את ההכרה ההיסטורית-ביקורתית שבראשית א ובראשית ב הם דיווחים מובחנים טקסטואלית (מתייחסת לבראשית א כסיכום הרחב של עבודת כל שבעת צוותי הבריאה ולבראשית ב כנרטיב צוות-ישראל הספציפי), מקבלת שאדם וחוה אינם בני האדם הראשונים של כל האנושות (הקורפוס קורא שבע שושלות צוותי-בריאה מובחנות הצומחות לאורך עידן האריה), ומתייחסת לדמויות כיחידים היסטוריים ספציפיים תוך מיסגור מחדש של האונטולוגיה הבסיסית של בריאתם.
 
-## Etymology and naming
+## אטימולוגיה ושמות
 
-The names Adam and Eve carry distinct etymological histories that are themselves load-bearing for the framework's reading.
+השמות אדם וחוה נושאים היסטוריות אטימולוגיות מובחנות שהן עצמן נושאות-משקל לקריאת המסגרת.
 
-### Adam: *ʾāḏām*
+### אדם: *ʾāḏām*
 
-The Hebrew *ʾāḏām* (<span class="hebrew">אָדָם</span>) is etymologically related to *ʾădāmâ* (<span class="hebrew">אֲדָמָה</span>, "earth, ground, soil"), with both deriving from the consonantal root *ʾ-d-m* meaning "to be red" (referring to the reddish color of the soil characteristic of the Levant). The etymological connection is explicit in Genesis 2:7: *"Then Yahweh Elohim formed the man (ʾāḏām) of dust from the ground (ʾădāmâ), and breathed into his nostrils the breath of life; and the man became a living being."* The wordplay between *ʾāḏām* and *ʾădāmâ* is one of the most direct etymological encodings in the Hebrew Bible's vocabulary: the human is named for the earth from which he was formed.
+העברית *ʾāḏām* (<span class="hebrew">אָדָם</span>) קשורה אטימולוגית ל-*ʾădāmâ* (<span class="hebrew">אֲדָמָה</span>, »ארץ, קרקע, אדמה«), כאשר שתיהן נגזרות מהשורש העיצורי *ʾ-d-m* שמשמעו »להיות אדום« (בהתייחס לצבע האדמדם של הקרקע האופייני ללבנט). הקשר האטימולוגי מפורש בבראשית ב:7: *»וייצר יהוה אלוהים את האדם (ʾāḏām) עפר מן האדמה (ʾădāmâ), וייפח באפיו נשמת חיים; ויהי האדם לנפש חיה.«* משחק המילים בין *ʾāḏām* ל-*ʾădāmâ* הוא אחד הקידודים האטימולוגיים הישירים ביותר באוצר המילים של המקרא העברי: האדם נקרא על שם האדמה שממנה נוצר.
 
-The Hebrew *ʾāḏām* has multiple uses across the Hebrew Bible:
+לעברית *ʾāḏām* שימושים מרובים על פני המקרא העברי:
 
-- **The generic sense** — *ʾāḏām* is used as the general term for "human" or "humanity" without reference to gender or to specific individuals, with this usage attested across the Bible (Genesis 1:26–27 uses *ʾāḏām* for "humans" or "humanity" in this generic sense; the pronouncement *naʿaśeh ʾāḏām* in Genesis 1:26 means "let us make humanity").
-- **The proper-name sense** — *ʾāḏām* is used as the personal name of the first specific human in the Genesis 2–5 narrative, with the definite article *ha-ʾāḏām* ("the human") gradually giving way to the proper-name *ʾāḏām* (without article) across the narrative.
-- **The species-designation sense** — *ʾāḏām* is used in some contexts to designate the species in distinction from animals or other categories of being.
+- **המובן הגנרי** — *ʾāḏām* משמש כמונח הכללי ל»אדם« או »אנושות« ללא התייחסות למגדר או ליחידים ספציפיים, כאשר שימוש זה מתועד על פני המקרא (בראשית א:26–27 משתמש ב-*ʾāḏām* ל»בני אדם« או »אנושות« במובן גנרי זה; ההכרזה *naʿaśeh ʾāḏām* בבראשית א:26 משמעה »נעשה אדם«).
+- **המובן השם-פרטי** — *ʾāḏām* משמש כשם הפרטי של האדם הספציפי הראשון בנרטיב בראשית ב–ה, כאשר ה-ה' הידיעה *ha-ʾāḏām* (»האדם«) פונה בהדרגה לשם הפרטי *ʾāḏām* (ללא ה' הידיעה) על פני הנרטיב.
+- **מובן ייעוד-המין** — *ʾāḏām* משמש בהקשרים מסוימים לייעד את המין בהבחנה מבעלי חיים או מקטגוריות קיום אחרות.
 
-The transition from the generic sense to the proper-name sense across the Genesis narrative reflects the ambiguity at the heart of the Adam figure: he is simultaneously the specific first human of the Israel-team lineage (proper name) and the prototype of humanity generally (generic). The corpus reads this ambiguity as the Hebrew tradition's preservation of both the specificity of the historical referent (a particular individual whose biographical history is recorded) and the broader implication of his role (the prototype whose creation initiated the lineage that would eventually become the Hebrew people).
+המעבר מהמובן הגנרי למובן השם-פרטי על פני נרטיב בראשית משקף את הדו-משמעות שבלב דמות אדם: הוא בו-זמנית האדם הספציפי הראשון של שושלת צוות ישראל (שם פרטי) והאב-טיפוס של האנושות בכלל (גנרי). הקורפוס קורא דו-משמעות זו כשימור של המסורת העברית הן את הספציפיות של המסומן ההיסטורי (יחיד מסוים שהיסטוריה הביוגרפית שלו רשומה) והן את ההשלכה הרחבה של תפקידו (האב-טיפוס שבריאתו פתחה את השושלת שתהפוך בסופו של דבר לעם העברי).
 
-The framework's reading takes the etymological connection to *ʾădāmâ* as substantively significant. The name preserves, at the level of Hebrew vocabulary itself, the biological reading the corpus develops: humans were synthesized from terrestrial materials, in laboratories on the surface of this planet, and their name in the original Hebrew preserves that origin. The "dust of the ground" formation language of Genesis 2:7 is read by the corpus as a stylized account of the *de novo* biological synthesis using terrestrial substrate that the Israel team conducted.
+קריאת המסגרת נוטלת את הקשר האטימולוגי ל-*ʾădāmâ* כמשמעותי מהותית. השם משמר, ברמת אוצר המילים העברי עצמו, את הקריאה הביולוגית שהקורפוס מפתח: בני אדם סונתזו מחומרים ארציים, במעבדות על פני כוכב לכת זה, ושמם בעברית המקורית משמר את אותו מקור. שפת יצירת »עפר מן האדמה« של בראשית ב:7 נקראת על ידי הקורפוס כדיווח מסוגנן של הסינתזה הביולוגית *de novo* בשימוש במצע ארצי שצוות ישראל ביצע.
 
-### Eve: *Ḥawwāh*
+### חוה: *Ḥawwāh*
 
-The Hebrew *Ḥawwāh* (<span class="hebrew">חַוָּה</span>) is given an explicit etymology in Genesis 3:20: *"The man called his wife's name Eve (Ḥawwāh), because she was the mother of all living (ʾem kol-ḥay)."* The etymological connection is to the root *ḥ-y-h* / *ḥ-w-h* meaning "to live" — *Ḥawwāh* is the participial form meaning "the living one" or "the life-giver."
+לעברית *Ḥawwāh* (<span class="hebrew">חַוָּה</span>) ניתנת אטימולוגיה מפורשת בבראשית ג:20: *»ויקרא האדם שם אשתו חוה (Ḥawwāh), כי היא הייתה אם כל חי (ʾem kol-ḥay).«* הקשר האטימולוגי הוא לשורש *ḥ-y-h* / *ḥ-w-h* שמשמעו »לחיות« — *Ḥawwāh* היא הצורה הבינונית שמשמעה »החיה« או »נותנת החיים«.
 
-The name has been the subject of substantial scholarly discussion. The connection to *ḥay* ("living") is the explicit Genesis etymology, but several alternative or supplementary etymologies have been proposed in scholarly literature:
+השם היה נושא לדיון מלומד מהותי. הקשר ל-*ḥay* (»חי«) הוא האטימולוגיה המפורשת של בראשית, אך כמה אטימולוגיות חלופיות או משלימות הוצעו בספרות המלומדת:
 
-- **The Aramaic *ḥewyāʾ*** (snake) — some scholars have proposed a connection to the Aramaic word for "snake," with the implication that *Ḥawwāh* and the Eden Serpent are etymologically connected. This is suggested by the Genesis Rabbah midrash and elaborated in some Kabbalistic materials. The connection is etymologically possible but not philologically demonstrable.
-- **The Phoenician *ḥwt*** (life-goddess) — a possible cognate to a Phoenician life-goddess figure, with some scholars proposing that *Ḥawwāh* preserves an ancient Semitic divine-name that has been demythologized in the Hebrew Bible's monotheistic reframing.
+- **הארמית *ḥewyāʾ*** (נחש) — כמה חוקרים הציעו קשר למילה הארמית ל»נחש«, עם המשתמע ש-*Ḥawwāh* ונחש עדן קשורים אטימולוגית. הדבר מוצע במדרש בראשית רבה ומפותח בכמה חומרים קבליים. הקשר אפשרי אטימולוגית אך אינו ניתן להוכחה פילולוגית.
+- **הפיניקית *ḥwt*** (אלת-חיים) — קוגנט אפשרי לדמות אלת-חיים פיניקית, כאשר כמה חוקרים מציעים ש-*Ḥawwāh* משמרת שם-אלוהי שמי קדום שעבר דה-מיתולוגיזציה במיסגור המונותאיסטי המחודש של המקרא העברי.
 
-The corpus reads the explicit Genesis 3:20 etymology as the principal and operationally significant one. *Ḥawwāh* is "the mother of all living" — the matriarch of the Eden-lineage human population, with the name preserving the biological-genealogical role that her subsequent history makes explicit. The framework does not develop the alternative etymological connections at length; the *Ḥawwāh* / serpent etymological possibility is registered but not adopted (the corpus's reading of Genesis 3 maintains that Eve is not identified with the Serpent, against the medieval Kabbalistic tradition's elaborations).
+הקורפוס קורא את האטימולוגיה המפורשת של בראשית ג:20 כעיקרית והמשמעותית תפעולית. *Ḥawwāh* היא »אם כל חי« — המטריארכית של אוכלוסיית שושלת עדן, כאשר השם משמר את התפקיד הביולוגי-גנאלוגי שהיסטוריה שלה תעשה מפורש. המסגרת אינה מפתחת באריכות את הקשרים האטימולוגיים החלופיים; האפשרות האטימולוגית *Ḥawwāh* / נחש נרשמת אך אינה מאומצת (קריאת הקורפוס של בראשית ג מקיימת שחוה אינה מזוהה עם הנחש, כנגד פירוטי המסורת הקבלית מימי הביניים).
 
-### The cross-tradition forms
+### הצורות החוצות-מסורת
 
-The names appear across the Hebrew, Greek, Latin, Arabic, and other traditions in the following principal forms:
+השמות מופיעים על פני המסורות העברית, היוונית, הלטינית, הערבית ואחרות בצורות העיקריות הבאות:
 
-- **Hebrew**: *ʾāḏām* (אָדָם), *Ḥawwāh* (חַוָּה)
-- **Greek (LXX and NT)**: *Adam* (Ἀδάμ), *Heua* (Εὕα)
-- **Latin (Vulgate)**: *Adam*, *Heva* (later *Eva*)
-- **Aramaic / Syriac**: *ʾĀḏām*, *Ḥawwâ*
-- **Arabic (Qur'an and Islamic tradition)**: *Ādam* (آدم), *Ḥawwāʾ* (حواء)
-- **English**: Adam, Eve
+- **עברית**: *ʾāḏām* (אָדָם), *Ḥawwāh* (חַוָּה)
+- **יוונית (תרגום השבעים והברית החדשה)**: *Adam* (Ἀδάμ), *Heua* (Εὕα)
+- **לטינית (וולגטה)**: *Adam*, *Heva* (מאוחר יותר *Eva*)
+- **ארמית / סורית**: *ʾĀḏām*, *Ḥawwâ*
+- **ערבית (קוראן ומסורת אסלאמית)**: *Ādam* (آدم), *Ḥawwāʾ* (حواء)
+- **אנגלית**: Adam, Eve
 
-The Arabic tradition's *Ādam wa-Ḥawwāʾ* preserves the Hebrew names in their direct Arabic-cognate forms, with the Qur'anic narrative of Adam and Eve (treated principally in surahs 2:30–39, 7:11–25, and 20:115–123) developing the Hebrew tradition's narrative with substantive theological elaborations specific to Islamic context.
+המסורת הערבית *Ādam wa-Ḥawwāʾ* משמרת את השמות העבריים בצורותיהם הקוגנטיות-ערביות הישירות, כאשר הנרטיב הקוראני של אדם וחוה (המטופל בעיקר בסורות 2:30–39, 7:11–25, ו-20:115–123) מפתח את נרטיב המסורת העברית עם פירוטים תיאולוגיים מהותיים הספציפיים להקשר האסלאמי.
 
-## In the Hebrew Bible and New Testament
+## במקרא העברי ובברית החדשה
 
-Adam and Eve appear principally in Genesis 2–5, with substantial subsequent biblical and post-biblical interpretive elaboration. The corpus's reading distinguishes carefully between the Genesis 1 summary creation account, the Genesis 2 specific Eden-narrative account, and the subsequent textual elaborations.
+אדם וחוה מופיעים בעיקר בבראשית ב–ה, עם פירוט פרשני מקראי ובתר-מקראי מהותי שלאחר מכן. קריאת הקורפוס מבחינה בקפידה בין דיווח הבריאה המסכם של בראשית א, דיווח נרטיב-עדן הספציפי של בראשית ב, והפירוטים הטקסטואליים שלאחר מכן.
 
-### Genesis 1:26–28: the summary creation account
+### בראשית א:26–28: דיווח הבריאה המסכם
 
 {% library(book="genesis-woh", chapter=1, verse=26) %}
-And the Elohim said, "Let us make humankind in our image, according to our likeness; and let them rule over the fish of the sea, and over the birds of the skies, and over the cattle, and over all the land, and over every creeping thing that creeps upon the land."
+וַיֹּאמֶר אֱלֹהִים, נַעֲשֶׂה אָדָם בְּצַלְמֵנוּ כִּדְמוּתֵנוּ; וְיִרְדּוּ בִדְגַת הַיָּם וּבְעוֹף הַשָּׁמַיִם, וּבַבְּהֵמָה וּבְכָל-הָאָרֶץ, וּבְכָל-הָרֶמֶשׂ, הָרֹמֵשׂ עַל-הָאָרֶץ.
 {% end %}
 
-Genesis 1:26–28 records the creation of humans within the seven-day creation sequence:
+בראשית א:26–28 רושמת את בריאת בני האדם בתוך רצף שבעת ימי הבריאה:
 
-> *"Then Elohim said, 'Let us make humanity (ʾāḏām) in our image (bə-ṣalmēnû), after our likeness (ki-dmûtēnû); and let them have dominion over the fish of the sea and over the birds of the air and over the cattle and over all the earth and over every creeping thing that creeps upon the earth.' So Elohim created humanity (ʾāḏām) in his image (bə-ṣalmô), in the image of Elohim (bə-ṣelem ʾĕlōhîm) he created him; male and female he created them. And Elohim blessed them."* (Genesis 1:26–28)
+> *»ויאמר אלוהים, 'נעשה אדם (ʾāḏām) בצלמנו (bə-ṣalmēnû), כדמותנו (ki-dmûtēnû); וירדו בדגת הים ובעוף השמיים ובבהמה ובכל הארץ ובכל הרמש הרומש על הארץ.' ויברא אלוהים את האדם (ʾāḏām) בצלמו (bə-ṣalmô), בצלם אלוהים (bə-ṣelem ʾĕlōhîm) ברא אותו; זכר ונקבה ברא אותם. ויברך אותם אלוהים.«* (בראשית א:26–28)
 
-The corpus reads Genesis 1:26–28 as the **summary account** of the broader human-creation program conducted by all seven Elohim creator teams across the Age of Leo (the sixth *yom* of the Genesis 1 sequence, on the corpus's precessional-age reading developed in the [Genesis](../genesis/) entry). The plural self-address (*naʿaśeh*, "let us make"; *bə-ṣalmēnû*, "in our image") is read as the Elohim civilization's plural reference, the *bə-ṣelem ʾĕlōhîm* ("in the image of Elohim") as the substantive biological reading that humans share substantial genetic and structural correspondence with their Eloha creators, and the *zakhar u-nəqēvâ* ("male and female") as the binary-creation pattern that all seven teams' work produced.
+הקורפוס קורא את בראשית א:26–28 כ**דיווח המסכם** של תוכנית בריאת-האדם הרחבה שביצעו כל שבעת צוותי הבריאה של האלוהים לאורך עידן האריה (ה*יום* השישי של רצף בראשית א, על פי קריאת עידני-הנקיפה של הקורפוס המפותחת בערך [בראשית](../genesis/)). הפנייה-העצמית ברבים (*naʿaśeh*, »נעשה«; *bə-ṣalmēnû*, »בצלמנו«) נקראת כהפניית ציוויליזציית האלוהים הרבה, ה-*bə-ṣelem ʾĕlōhîm* (»בצלם אלוהים«) כקריאה הביולוגית המהותית שבני האדם חולקים התאמה גנטית ומבנית מהותית עם בוראיהם האלוהיים, וה-*zakhar u-nəqēvâ* (»זכר ונקבה«) כדפוס הבריאה הבינארי שהפיקה עבודת כל שבעת הצוותים.
 
-The Genesis 1 account does not name Adam and Eve specifically. The "ʾāḏām" of Genesis 1:26–27 is the generic species term, referring to the broader human-creation program rather than to specific individuals. The framework's reading is that Genesis 1 covers the full seven-team program, with Adam and Eve being the specific Israel-team contribution that the Genesis 2 narrative will detail.
+דיווח בראשית א אינו נוקב בשמותיהם של אדם וחוה ספציפית. ה»ʾāḏām« של בראשית א:26–27 הוא מונח המין הגנרי, המתייחס לתוכנית בריאת-האדם הרחבה ולא ליחידים ספציפיים. קריאת המסגרת היא שבראשית א מכסה את כל תוכנית שבעת הצוותים, כאשר אדם וחוה הם התרומה הספציפית של צוות ישראל שנרטיב בראשית ב יפרט.
 
-### Genesis 2:4–25: the Eden synthesis narrative
+### בראשית ב:4–25: נרטיב סינתזת עדן
 
 {% library(book="genesis-woh", chapter=2, verse=7) %}
-YHWH-Elohim formed the human, dust from the ground, and breathed into his nostrils the breath of life; and the human became a living being.
+וַיִּיצֶר יְהוָה-אֱלֹהִים אֶת-הָאָדָם, עָפָר מִן-הָאֲדָמָה, וַיִּפַּח בְּאַפָּיו נִשְׁמַת חַיִּים; וַיְהִי הָאָדָם לְנֶפֶשׁ חַיָּה.
 {% end %}
 
-Genesis 2:4–25 records the specific creation of Adam and Eve in the Eden installation:
+בראשית ב:4–25 רושמת את בריאתם הספציפית של אדם וחוה במיתקן עדן:
 
-> *"In the day that Yahweh Elohim made the earth and the heavens, when no plant of the field was yet in the earth and no herb of the field had yet sprung up... then Yahweh Elohim formed the man (ha-ʾāḏām) of dust from the ground (ʿāp̄ār min hā-ʾădāmâ), and breathed into his nostrils the breath of life (nišmaṯ ḥayyîm); and the man became a living being (nepeš ḥayyâ). And Yahweh Elohim planted a garden in Eden, in the east; and there he put the man whom he had formed."* (Genesis 2:4–8)
+> *»ביום עשות יהוה אלוהים ארץ ושמיים, וכל שיח השדה טרם יהיה בארץ וכל עשב השדה טרם יצמח... וייצר יהוה אלוהים את האדם (ha-ʾāḏām) עפר מן האדמה (ʿāp̄ār min hā-ʾădāmâ), וייפח באפיו נשמת חיים (nišmaṯ ḥayyîm); ויהי האדם לנפש חיה (nepeš ḥayyâ). וייטע יהוה אלוהים גן בעדן מקדם; וישם שם את האדם אשר יצר.«* (בראשית ב:4–8)
 
-The narrative continues with the placement of the trees of the garden (the Tree of Life and the Tree of the Knowledge of Good and Evil), the rivers of Eden, the prohibition against eating from the Tree of Knowledge, the naming of the animals, and the formation of Eve:
+הנרטיב ממשיך עם הצבת עצי הגן (עץ החיים ועץ הדעת טוב ורע), נהרות עדן, האיסור לאכול מעץ הדעת, מתן שמות לבעלי החיים, ויצירת חוה:
 
-> *"Then Yahweh Elohim said, 'It is not good that the man should be alone; I will make him a helper fit for him.'... So Yahweh Elohim caused a deep sleep to fall upon the man, and while he slept took one of his ribs (mi-ṣalʿōṯāyw) and closed up its place with flesh; and the rib (ha-ṣēlāʿ) which Yahweh Elohim had taken from the man he made into a woman (ʾiššâ) and brought her to the man."* (Genesis 2:18, 21–22)
+> *»ויאמר יהוה אלוהים, 'לא טוב היות האדם לבדו; אעשה לו עזר כנגדו.'... ויפל יהוה אלוהים תרדמה על האדם, ויישן; וייקח אחת מצלעותיו (mi-ṣalʿōṯāyw) ויסגור בשר תחתנה; וייבן יהוה אלוהים את הצלע (ha-ṣēlāʿ) אשר לקח מן האדם לאישה (ʾiššâ), ויביאה אל האדם.«* (בראשית ב:18, 21–22)
 
-The chapter concludes with the man's recognition of the woman as *"bone of my bones, and flesh of my flesh"* and the etiological observation that *"a man leaves his father and his mother and cleaves to his wife, and they become one flesh."* The chapter's final note — *"and the man and his wife were both naked, and were not ashamed"* — sets up the subsequent Genesis 3 narrative.
+הפרק מסתיים בהכרת האדם באישה כ*»עצם מעצמיי ובשר מבשרי«* ובתצפית האטיולוגית ש*»על כן יעזוב איש את אביו ואת אמו ודבק באשתו, והיו לבשר אחד.«* ההערה הסופית של הפרק — *»ויהיו שניהם ערומים, האדם ואשתו, ולא יתבוששו«* — מציבה את נרטיב בראשית ג שלאחר מכן.
 
-The corpus reads Genesis 2:4–25 as the **specific narrative** of the Israel team's Eden synthesis, with Adam and Eve as the named first humans of the team's specific work. Several specific features warrant treatment.
+הקורפוס קורא את בראשית ב:4–25 כ**נרטיב הספציפי** של סינתזת עדן של צוות ישראל, כאשר אדם וחוה הם בני האדם הראשונים הנקראים בשם של עבודת הצוות הספציפית. כמה תכונות ספציפיות ראויות לטיפול.
 
-The "dust of the ground" language of Genesis 2:7 is read as a stylized account of biological synthesis using terrestrial substrate. The Eloha-side biological work was conducted with terrestrial materials providing the molecular building blocks and Elohim genetic material providing the design template. The "breath of life" (*nišmaṯ ḥayyîm*) breathed into the synthesized human's nostrils is read as the activation of the synthesized organism — the moment of biological initiation that completed the synthesis process.
+שפת »עפר מן האדמה« של בראשית ב:7 נקראת כדיווח מסוגנן של סינתזה ביולוגית בשימוש במצע ארצי.{{ footnote(id="2") }} העבודה הביולוגית מצד האלוהים בוצעה עם חומרים ארציים המספקים את אבני הבניין המולקולריות וחומר גנטי של האלוהים המספק את תבנית התכנון. »נשמת החיים« (*nišmaṯ ḥayyîm*) שנופחה לאף האדם המסונתז נקראת כהפעלת האורגניזם המסונתז — רגע ההתחלה הביולוגית שהשלים את תהליך הסינתזה.
 
-The Hebrew word translated "rib" in Genesis 2:21–22 (*ṣēlāʿ*) carries broader meaning than the English "rib" suggests — *ṣēlāʿ* can mean "side," "panel," or "structural support" in other Hebrew Bible contexts. The corpus reads the Genesis 2:21–22 account as a stylized description of the biological synthesis of Eve from cells or genetic material taken from Adam, with the *ṣēlāʿ* language preserving an indirect reference to the cellular-biological source rather than a literal anatomical rib. Eve's biological foundation in Adam's cells provides her substantial genetic-biological compatibility with Adam, supporting the immediate fertility of their subsequent reproductive partnership.
+המילה העברית המתורגמת »צלע« בבראשית ב:21–22 (*ṣēlāʿ*) נושאת משמעות רחבה יותר ממה ש»rib« האנגלית מרמזת — *ṣēlāʿ* יכולה לשמש »צד«, »לוח« או »מבנה תומך« בהקשרים אחרים במקרא העברי. הקורפוס קורא את דיווח בראשית ב:21–22 כתיאור מסוגנן של הסינתזה הביולוגית של חוה מתאים או מחומר גנטי שניטל מאדם, כאשר שפת ה-*ṣēlāʿ* משמרת הפניה עקיפה למקור התאי-ביולוגי ולא צלע אנטומית ליטרלית. הבסיס הביולוגי של חוה בתאי אדם מספק לה תאימות גנטית-ביולוגית מהותית עם אדם, התומכת בפוריות המיידית של שותפות הרבייה שלהם שלאחר מכן.
 
-The "deep sleep" (*tardēmâ*) Yahweh causes to fall upon Adam during Eve's formation is read as the operational state during which the cellular extraction and subsequent synthesis was conducted — a medical-anesthetic state appropriate to the surgical nature of the procedure.
+ה»תרדמה« (*tardēmâ*) שיהוה מפיל על אדם במהלך יצירת חוה נקראת כמצב התפעולי שבמהלכו בוצעה ההפקה התאית והסינתזה שלאחר מכן — מצב רפואי-הרדמתי המתאים לאופי הניתוחי של ההליך.
 
-### The Genesis 1 / Genesis 2 textual question
+### שאלת בראשית א / בראשית ב הטקסטואלית
 
-The relationship between the Genesis 1 summary account (1:26–28) and the Genesis 2 specific narrative (2:4–25) is one of the most extensively discussed exegetical questions in biblical scholarship. The principal positions:
+היחס בין דיווח בראשית א המסכם (א:26–28) ובין נרטיב בראשית ב הספציפי (ב:4–25) הוא אחת השאלות האקסגטיות הנדונות ביותר במחקר המקראי. העמדות העיקריות:
 
-**The traditional harmonization** — the rabbinic and patristic interpretive tradition treats the two accounts as complementary descriptions of the same creation event, with Genesis 1 providing the cosmic-summary frame and Genesis 2 providing the detailed narrative of the specific human-creation portion. This is the traditional Jewish and Christian reading.
+**ההרמוניזציה המסורתית** — מסורת הפרשנות הרבנית והפטריסטית מתייחסת לשני הדיווחים כתיאורים משלימים של אותו אירוע בריאה, כאשר בראשית א מספקת את מסגרת הסיכום-הקוסמי ובראשית ב מספקת את הנרטיב המפורט של חלק בריאת-האדם הספציפי. זוהי הקריאה היהודית והנוצרית המסורתית.
 
-**The documentary hypothesis** — the historical-critical scholarly position (developed by Wellhausen and successors across the late 19th and 20th centuries) treats the two accounts as compositions from distinct source documents (the Priestly source for Genesis 1 and the Yahwist source for Genesis 2) that have been juxtaposed by the Pentateuch's redactor without harmonization. The two accounts are recognized as genuinely distinct in vocabulary, theological emphasis, and creation sequence (Genesis 1 has plants → animals → humans; Genesis 2 has Adam → plants → animals → Eve), with the redactor leaving the discrepancies in the final form rather than smoothing them.
+**השערת התעודות** — העמדה המלומדת ההיסטורית-ביקורתית (שפותחה על ידי ולהאוזן וממשיכיו לאורך סוף המאה התשע-עשרה והמאה העשרים) מתייחסת לשני הדיווחים כחיבורים מתעודות מקור מובחנות (המקור הכוהני לבראשית א והמקור היהוויסטי לבראשית ב) שהוצבו זה לצד זה על ידי עורך החומש ללא הרמוניזציה.{{ cite(id="skinner-genesis-icc", text="[3]", title="סקינר, *פירוש ביקורתי ואקסגטי על בראשית* (ICC, 1910)") }}{{ cite(id="von-rad-genesis", text="[4]", title="פון ראד, *בראשית: פירוש* (1961)") }}{{ cite(id="westermann-genesis-1-11", text="[5]", title="וסטרמן, *בראשית א–יא: פירוש קונטיננטלי* (1994)") }}{{ cite(id="sarna-genesis-jps", text="[6]", title="סארנה, *בראשית: פירוש התורה של JPS* (1989)") }} שני הדיווחים מוכרים כמובחנים אמיתית באוצר מילים, בדגש תיאולוגי וברצף בריאה (בראשית א מכילה צמחים ← בעלי חיים ← בני אדם; בראשית ב מכילה אדם ← צמחים ← בעלי חיים ← חוה), כאשר העורך משאיר את הסתירות בצורה הסופית ולא מחליק אותן.
 
-**The corpus's reading** — the framework reads Genesis 1 as the summary account of the broader seven-team creation program (the seven *yamim* as precessional ages, with the sixth *yom* covering the human-creation work of all seven teams across the Age of Leo) and Genesis 2 as the detailed narrative of one specific team's work — the Israel team's Eden installation. The two accounts are thus genuinely distinct in scope (Genesis 1 covers the full program; Genesis 2 covers one team's portion of it) but complementary in their treatment of the same broader operational reality. This reading partially aligns with the documentary hypothesis (recognizing that the two accounts are textually and substantively distinct) while differing in interpretation (the corpus reads them as distinct in *scope* rather than as parallel-and-contradictory accounts of the same event).
+**קריאת הקורפוס** — המסגרת קוראת את בראשית א כדיווח המסכם של תוכנית הבריאה הרחבה של שבעת הצוותים (שבעת ה*ימים* כעידני נקיפה, כאשר ה*יום* השישי מכסה את עבודת בריאת-האדם של כל שבעת הצוותים לאורך עידן האריה) ואת בראשית ב כנרטיב המפורט של עבודת צוות ספציפי אחד — מיתקן עדן של צוות ישראל.{{ footnote(id="1") }} שני הדיווחים אפוא מובחנים אמיתית בהיקפם (בראשית א מכסה את כל התוכנית; בראשית ב מכסה את חלקו של צוות אחד בה) אך משלימים בטיפולם באותה מציאות תפעולית רחבה. קריאה זו מתיישבת חלקית עם השערת התעודות (מכירה בכך ששני הדיווחים מובחנים טקסטואלית ומהותית) תוך הבדל בפרשנות (הקורפוס קורא אותם כמובחנים ב*היקף* ולא כדיווחים מקבילים-וסותרים של אותו אירוע).
 
-The corpus's reading has the methodological advantage of explaining why both accounts are preserved together in the final Genesis text: they are not contradictory but covering different scopes of the same broader operational reality, with the redactor preserving both because both contain accurate information that the other does not.
+לקריאת הקורפוס יתרון מתודולוגי בהסברת מדוע שני הדיווחים נשמרים יחד בטקסט בראשית הסופי: הם אינם סותרים אלא מכסים היקפים שונים של אותה מציאות תפעולית רחבה, כאשר העורך משמר את שניהם משום ששניהם מכילים מידע מדויק שהאחר אינו מכיל.
 
-### Genesis 3: the disclosure and expulsion
+### בראשית ג: הגילוי והגירוש
 
-Genesis 3 narrates the Serpent's intervention, the eating from the Tree of Knowledge, and the expulsion from the garden — treated extensively in the [Serpent](../serpent/), [Lucifer](../lucifer/), and [Eden](../eden/) entries. For the Adam-and-Eve biographical arc, the relevant content includes:
+בראשית ג מספרת את התערבות הנחש, האכילה מעץ הדעת, והגירוש מן הגן — מטופלים בהרחבה בערכים [הנחש](../serpent/), [לוציפר](../lucifer/), ו[עדן](../eden/). עבור הקשת הביוגרפית של אדם-וחוה, התוכן הרלוונטי כולל:
 
-- The Serpent's address to Eve specifically, the dialogue about the prohibition, Eve's eating from the tree, Eve's giving the fruit to Adam, Adam's eating
-- The post-eating recognition of nakedness and the response of shame
-- Yahweh's investigation, with Adam's deflection of responsibility to Eve and Eve's deflection of responsibility to the Serpent
-- The pronouncement of consequences on the Serpent, on Eve (pain in childbirth, subordination to Adam), and on Adam (toil to extract food from the ground)
-- The expulsion from the garden, with the cherubim and the flaming sword stationed at the entrance to prevent re-access to the Tree of Life
-- The provision of "coats of skins" (*koṯnoṯ ʿôr*) for Adam and Eve before their expulsion
+- פניית הנחש לחוה ספציפית, הדיאלוג על האיסור, אכילת חוה מן העץ, מתן הפרי על ידי חוה לאדם, אכילת אדם
+- ההכרה שלאחר האכילה בעירום ותגובת הבושה
+- חקירת יהוה, עם הסטת אחריותו של אדם לחוה והסטת אחריותה של חוה לנחש
+- הכרזת ההשלכות על הנחש, על חוה (כאב בלידה, כפיפות לאדם), ועל אדם (עמל בהוצאת מזון מן האדמה)
+- הגירוש מן הגן, עם הכרובים והלהט המתהפך מוצבים בכניסה למניעת גישה מחודשת לעץ החיים
+- אספקת »כותנות עור« (*koṯnoṯ ʿôr*) לאדם ולחוה לפני גירושם
 
-The corpus reads these elements as operational realities preserved in stylized narrative form. The detailed treatment lives in the Serpent and Eden entries; for the Adam-and-Eve biographical arc, the principal point is that Adam and Eve received the Lucifer-faction disclosure together, were judged together by Yahweh, and were expelled together from the controlled environment.
+הקורפוס קורא רכיבים אלה כמציאויות תפעוליות הנשמרות בצורת נרטיב מסוגנן. הטיפול המפורט חי בערכי הנחש ועדן; עבור הקשת הביוגרפית של אדם-וחוה, הנקודה העיקרית היא שאדם וחוה קיבלו את גילוי סיעת לוציפר יחד, נשפטו יחד על ידי יהוה, וגורשו יחד מן הסביבה המבוקרת.
 
-The Raëlian source material is explicit that the disclosure was offered to both humans, the affection of the disclosing creators was for both, and the consequences of the awakening fell equally on both. The misogynistic interpretive tradition that has read Eve as uniquely culpable is a later development, not the text's own framing. The corpus rejects the conventional Christian theological reading that places primary responsibility on Eve and treats Adam's eating as a secondary consequence.
+חומר המקור הראליאני מפורש בכך שהגילוי הוצע לשני בני האדם, שחיבת הבוראים המגלים הייתה לשניהם, ושהשלכות ההתעוררות נפלו על שניהם באופן שווה.{{ footnote(id="4") }} מסורת הפרשנות המיזוגינית שקראה את חוה כאשמה באופן ייחודי היא התפתחות מאוחרת, לא מיסגור הטקסט עצמו. הקורפוס דוחה את הקריאה התיאולוגית הנוצרית המקובלת הממקמת את האחריות העיקרית על חוה ומתייחסת לאכילת אדם כהשלכה משנית.
 
-### Genesis 4–5: the post-Eden generations
+### בראשית ד–ה: הדורות שלאחר עדן
 
-Genesis 4 narrates the birth of Cain and Abel to Adam and Eve, the conflict between the brothers culminating in Cain's murder of Abel, the curse on Cain, and the subsequent genealogical material on Cain's descendants (the cultural-founders genealogy: Jabal, Jubal, Tubal-Cain). Genesis 4:25 records the birth of Seth as Eve's third named son: *"And Adam knew his wife again, and she bore a son and called his name Seth (Šēṯ), for she said, 'Elohim has appointed (šāṯ) for me another offspring instead of Abel, for Cain killed him.'"*
+בראשית ד מספרת את הולדת קין והבל לאדם ולחוה, את הסכסוך בין האחים המגיע לשיאו ברצח הבל בידי קין, את קללת קין, ואת החומר הגנאלוגי שלאחר מכן על צאצאי קין (גנאלוגיית מייסדי-התרבות: יבל, יובל, תובל קין). בראשית ד:25 רושמת את הולדת שת כבן שלישי הנקרא בשם של חוה: *»וידע אדם עוד את אשתו, ותלד בן ותקרא את שמו שת (Šēṯ), כי שת (šāṯ) לי אלוהים זרע אחר תחת הבל, כי הרגו קין.«*
 
-Genesis 5 records the patriarchal genealogy from Adam through Seth's line to Noah, with specific recorded ages for each patriarch. Adam's recorded life is stated at 5:5: *"Thus all the days that Adam lived were nine hundred and thirty years; and he died."* Eve's death is not separately recorded in the Hebrew Bible.
+בראשית ה רושמת את הגנאלוגיה הפטריארכלית מאדם דרך קו שת עד נח, עם גילים רשומים ספציפיים לכל פטריארך. חיי אדם הרשומים מצוינים בה:5: *»ויהיו כל ימי אדם אשר חי תשע מאות שנה ושלושים שנה; וימת.«* מות חוה אינו רשום בנפרד במקרא העברי.
 
-The corpus reads the Genesis 4–5 material as historical-genealogical record. The principal elements:
+הקורפוס קורא את חומר בראשית ד–ה כתיעוד היסטורי-גנאלוגי. הרכיבים העיקריים:
 
-- Cain and Abel are read as Adam and Eve's first two named sons in the ordinary genealogical sense — *not* as different-lineage products as the Biglino "Cain-of-the-serpent-lineage" reading proposes (treated more fully in the [Serpent](../serpent/) entry's modern-reinterpretations section). The corpus rejects the bloodline-purification reading.
-- The Cain-Abel conflict is read as a specific interpersonal conflict over offerings, with the source material adding context that the exiled creators (the Lucifer faction) were encouraging the humans to bring offerings as evidence to the home-world council that the humans were well-behaved and grateful. Yahweh's preference for Abel's animal offering over Cain's agricultural offering produced the resentment that led to the murder.
-- The cultural-founders genealogy of Cain's line (Genesis 4:17–22) is read as the developmental record of the early antediluvian Eden civilization's specific cultural-technological accomplishments: city-building (Cain's city), pastoral nomadism (Jabal), music (Jubal), and metallurgy (Tubal-Cain).
-- Seth is read as Adam and Eve's third named son, born after Abel's murder, and the founder of the alternative genealogical line through which the patriarchal succession (recorded in Genesis 5) would proceed to Noah.
-- Adam's recorded 930 years is read in connection with the broader patriarchal-longevity question (treated more fully in the [Antediluvian](../antediluvian/) and [Tree of Life](../tree-of-life/) entries). The corpus's reading is that Adam's longevity was a specific consequence of the Lucifer faction's continuing post-Eden support, with the longevity treatment provided to specific Eden-lineage figures across the antediluvian period.
+- קין והבל נקראים כשני הבנים הראשונים הנקראים בשם של אדם וחוה במובן הגנאלוגי הרגיל — *ולא* כמוצרי-שושלת-שונה כפי שמציעה קריאת »קין-משושלת-הנחש« של ביגלינו (מטופלת באופן מלא יותר בקטע הפרשנויות-המודרניות של ערך [הנחש](../serpent/)). הקורפוס דוחה את קריאת טיהור-השושלת.
+- סכסוך קין-הבל נקרא כסכסוך בין-אישי ספציפי על קרבנות, כאשר חומר המקור מוסיף הקשר שהבוראים הגולים (סיעת לוציפר) עודדו את בני האדם להביא קרבנות כראיה למועצת העולם-הביתי שבני האדם התנהגו היטב והיו אסירי תודה. העדפת יהוה את קרבן בעל החיים של הבל על פני קרבן הצומח של קין הפיקה את הטינה שהובילה לרצח.
+- גנאלוגיית מייסדי-התרבות של קו קין (בראשית ד:17–22) נקראת כתיעוד ההתפתחותי של ההישגים התרבותיים-טכנולוגיים הספציפיים של ציוויליזציית עדן הטרום-מבולית המוקדמת: בניית עיר (עיר קין), נוודות רועית (יבל), מוסיקה (יובל), ומטלורגיה (תובל קין).
+- שת נקרא כבן שלישי הנקרא בשם של אדם וחוה, שנולד לאחר רצח הבל, ומייסד הקו הגנאלוגי החלופי שדרכו הירושה הפטריארכלית (הרשומה בבראשית ה) תתקדם לנח.
+- 930 השנים הרשומות של אדם נקראות בקשר לשאלת אריכות-החיים הפטריארכלית הרחבה (מטופלת באופן מלא יותר בערכים [טרום-מבולי](../antediluvian/) ו[עץ החיים](../tree-of-life/)). קריאת הקורפוס היא שאריכות חיי אדם הייתה השלכה ספציפית של תמיכת סיעת לוציפר המתמשכת שלאחר עדן, כאשר טיפול אריכות-החיים סופק לדמויות שושלת-עדן ספציפיות לאורך התקופה הטרום-מבולית.
 
-The framework's reading does not develop the question of Eve's death at length. The Hebrew Bible's silence on this point is consistent with several possible readings: that Eve predeceased Adam without specific record, that Eve was taken up at some point during the antediluvian period (paralleling the later Enoch case), or that Eve's death was simply not recorded in the Hebrew tradition. The corpus does not commit to a specific reading on this point.
+קריאת המסגרת אינה מפתחת באריכות את שאלת מות חוה. שתיקת המקרא העברי בנקודה זו עקבית עם כמה קריאות אפשריות: שחוה מתה לפני אדם ללא רישום ספציפי, שחוה נלקחה בשלב כלשהו במהלך התקופה הטרום-מבולית (במקביל למקרה חנוך המאוחר), או שמות חוה פשוט לא נרשם במסורת העברית. הקורפוס אינו מתחייב לקריאה ספציפית בנקודה זו.
 
-### Other Hebrew Bible references
+### הפניות מקראיות עבריות אחרות
 
-Adam appears by name in several other Hebrew Bible passages:
+אדם מופיע בשמו בכמה קטעים מקראיים עבריים אחרים:
 
-- **1 Chronicles 1:1**: *"Adam, Seth, Enosh..."* — the opening of the Chronicler's genealogical compendium, naming Adam as the first figure.
-- **Hosea 6:7**: *"Like Adam they transgressed the covenant"* — the prophet's reference to the Adam-and-Eve disclosure in connection with Israel's covenant violations.
-- **Job 31:33**: *"if I have concealed my transgressions like Adam"* — Job's reference using Adam as the type of failed concealment.
+- **דברי הימים א א:1**: *»אדם, שת, אנוש...«* — פתיחת הקומפנדיום הגנאלוגי של בעל דברי הימים, הנוקבת באדם כדמות הראשונה.
+- **הושע ו:7**: *»והמה כאדם עברו ברית«* — הפניית הנביא לגילוי אדם-וחוה בקשר להפרות הברית של ישראל.
+- **איוב לא:33**: *»אם כיסיתי כאדם פשעיי«* — הפניית איוב המשתמשת באדם כטיפוס ההסתרה הכושלת.
 
-Eve does not appear by name in the Hebrew Bible outside of Genesis. The Hebrew tradition's treatment of Eve as a named figure is therefore textually limited to the Genesis narrative.
+חוה אינה מופיעה בשמה במקרא העברי מחוץ לבראשית. טיפול המסורת העברית בחוה כדמות הנקראת בשם מוגבל אפוא טקסטואלית לנרטיב בראשית.
 
-### New Testament references
+### הפניות בברית החדשה
 
-The New Testament makes substantial use of Adam and Eve in theological argumentation. The principal passages:
+הברית החדשה עושה שימוש מהותי באדם ובחוה בטיעון תיאולוגי. הקטעים העיקריים:
 
-- **Romans 5:12–21**: Paul's typological argument that Adam introduced sin and death into the world, with Christ as the second Adam who reverses Adam's effects. The passage is foundational for the Augustinian original-sin doctrine.
-- **1 Corinthians 15:21–22, 45–49**: Paul's parallel typological argument: *"For as in Adam all die, so also in Christ shall all be made alive"* (15:22), and *"The first Adam became a living being, the last Adam became a life-giving spirit"* (15:45). The "second Adam" Christology is developed here.
-- **1 Timothy 2:13–14**: *"Adam was formed first, then Eve; and Adam was not deceived, but the woman was deceived and became a transgressor."* This passage is foundational for the misogynistic interpretive tradition that places primary responsibility on Eve.
-- **2 Corinthians 11:3**: Paul's reference to *"the serpent's deception of Eve."*
-- **Jude 14**: Reference to *"Enoch, the seventh from Adam"* — using Adam as the genealogical anchor.
+- **רומים ה:12–21**: הטיעון הטיפולוגי של פאולוס שאדם הכניס חטא ומוות לעולם, עם המשיח כאדם השני המהפך את השפעות אדם. הקטע יסודי לתורת החטא הקדמון האוגוסטינית.
+- **קורינתים א טו:21–22, 45–49**: הטיעון הטיפולוגי המקביל של פאולוס: *»כי כאשר באדם הכול מתים, כן גם במשיח הכול יחיו«* (טו:22), ו*»האדם הראשון היה לנפש חיה, האדם האחרון לרוח מחיה«* (טו:45). הכריסטולוגיה של »האדם השני« מפותחת כאן.
+- **טימותיוס א ב:13–14**: *»כי אדם נוצר ראשון ואחר כך חוה; ואדם לא הותעה, אך האישה הותעתה ותהי בעברה.«* קטע זה יסודי למסורת הפרשנות המיזוגינית הממקמת את האחריות העיקרית על חוה.
+- **קורינתים ב יא:3**: הפניית פאולוס ל*»התעיית הנחש את חוה.«*
+- **יהודה 14**: הפניה ל*»חנוך, השביעי מאדם«* — שימוש באדם כעוגן הגנאלוגי.
 
-The corpus reads the Pauline Adam-typology as a specific theological-rhetorical use of the Adam figure rather than as a direct historical reference. The Adam-Christ typology is theologically productive within the New Testament's argumentative framework but is not, on the framework's reading, a direct historical claim about the Adam figure's actual operational role. The 1 Timothy 2:13–14 passage's specific "woman was deceived" framing is the textual basis of the subsequent misogynistic tradition that the framework rejects on the grounds the Raëlian source material specifies (the disclosure was offered to both humans equally).
+הקורפוס קורא את טיפולוגיית-אדם הפאולינית כשימוש תיאולוגי-רטורי ספציפי בדמות אדם ולא כהפניה היסטורית ישירה. טיפולוגיית אדם-משיח פורייה תיאולוגית בתוך המסגרת הטיעונית של הברית החדשה אך אינה, על פי קריאת המסגרת, טענה היסטורית ישירה על תפקידו התפעולי הממשי של דמות אדם. מיסגור »האישה הותעתה« הספציפי של טימותיוס א ב:13–14 הוא הבסיס הטקסטואלי של המסורת המיזוגינית שלאחר מכן שהמסגרת דוחה על הנימוקים שחומר המקור הראליאני מציין (הגילוי הוצע לשני בני האדם באופן שווה).
 
-## Biographical arc
+## הקשת הביוגרפית
 
-Adam and Eve's biographical arc, as the framework reads it, spans from their de novo synthesis in the late Age of Leo through their continuing presence on the Planet of the Eternals in the contemporary period. Given the joint character of their narrative, the arc is structured with parallel and shared sub-sections.
+הקשת הביוגרפית של אדם וחוה, על פי קריאת המסגרת, משתרעת מסינתזתם ה-de novo בעידן האריה המאוחר ועד נוכחותם המתמשכת על כוכב הנצחיים בתקופה בת זמננו. בהינתן האופי המשותף של נרטיבם, הקשת בנויה עם תת-קטעים מקבילים ומשותפים.
 
-### Pre-creation: the Israel team's preparatory work
+### טרום-בריאה: העבודה ההכנתית של צוות ישראל
 
-The Israel team's preparatory work in the Eden region preceded Adam and Eve's specific synthesis by some period, with the team establishing its installation, preparing the controlled environment, conducting various preliminary biological work (the plants and animals of Genesis 2's narrative), and developing the specific protocols for human synthesis. The detailed treatment of this preparatory period lives in the [Eden](../eden/) entry; for the Adam-and-Eve biographical arc, the principal point is that the team was prepared to conduct human synthesis when Adam and Eve were specifically created.
+העבודה ההכנתית של צוות ישראל באזור עדן קדמה לסינתזה הספציפית של אדם וחוה בתקופה כלשהי, כאשר הצוות מבסס את מיתקנו, מכין את הסביבה המבוקרת, מבצע עבודה ביולוגית מקדימה שונה (צמחי ובעלי החיים של נרטיב בראשית ב), ומפתח את הפרוטוקולים הספציפיים לסינתזת אדם. הטיפול המפורט בתקופה הכנתית זו חי בערך [עדן](../eden/); עבור הקשת הביוגרפית של אדם-וחוה, הנקודה העיקרית היא שהצוות היה מוכן לבצע סינתזת אדם כאשר אדם וחוה נוצרו ספציפית.
 
-The seven creator teams' work across the late Age of Leo produced parallel human-creation projects at distinct sites across the antediluvian supercontinent. The Israel team's specific work at the Eden site produced Adam and Eve as the first humans of the lineage whose subsequent history would be preserved in the Hebrew Bible. The other six teams produced parallel lineages whose histories survive in fragmentary form across other ancient cultural traditions.
+עבודת שבעת צוותי הבריאה לאורך עידן האריה המאוחר הפיקה פרויקטי בריאת-אדם מקבילים באתרים מובחנים על פני יבשת-העל הטרום-מבולית. עבודת צוות ישראל הספציפית באתר עדן הפיקה את אדם וחוה כבני האדם הראשונים של השושלת שהיסטוריה שלה תישמר במקרא העברי. ששת הצוותים האחרים הפיקו שושלות מקבילות שהיסטוריותיהן שורדות בצורה מקוטעת על פני מסורות תרבותיות עתיקות אחרות.
 
-### Synthesis: Adam first, then Eve
+### סינתזה: אדם ראשון, אחר כך חוה
 
-Adam was synthesized first, on the corpus's reading. The Genesis 2:7 account — *"Yahweh Elohim formed the man of dust from the ground, and breathed into his nostrils the breath of life; and the man became a living being"* — is read as the operational record of the first synthesis. The biological process involved:
+אדם סונתז ראשון, על פי קריאת הקורפוס. דיווח בראשית ב:7 — *»וייצר יהוה אלוהים את האדם עפר מן האדמה, וייפח באפיו נשמת חיים; ויהי האדם לנפש חיה«* — נקרא כתיעוד התפעולי של הסינתזה הראשונה. התהליך הביולוגי כלל:
 
-- The use of terrestrial materials as molecular substrate for the synthesis
-- Elohim genetic material as the principal template, with the synthesized human carrying substantial genetic correspondence to his Eloha creators
-- The activation of the synthesized organism through what the Hebrew text calls the *nišmaṯ ḥayyîm* ("breath of life") — read by the corpus as the moment of biological initiation
-- The result: a functional adult human with substantial cognitive capacity, biological viability, and reproductive potential
+- שימוש בחומרים ארציים כמצע מולקולרי לסינתזה
+- חומר גנטי של האלוהים כתבנית העיקרית, כאשר האדם המסונתז נושא התאמה גנטית מהותית לבוראיו האלוהיים
+- הפעלת האורגניזם המסונתז באמצעות מה שהטקסט העברי מכנה *nišmaṯ ḥayyîm* (»נשמת חיים«) — נקרא על ידי הקורפוס כרגע ההתחלה הביולוגית
+- התוצאה: אדם בוגר תפקודי בעל קיבולת קוגניטיבית מהותית, כדאיות ביולוגית, ופוטנציאל רבייה
 
-Eve was synthesized subsequently, with her synthesis using cellular or genetic material from Adam as part of the source material. The Genesis 2:21–22 account — Adam's "deep sleep," the taking of the *ṣēlāʿ* ("rib" / "side" / "structural support"), the formation of the woman, the bringing of her to the man — is read as the operational record of this specific synthesis.
+חוה סונתזה לאחר מכן, כאשר סינתזתה משתמשת בחומר תאי או גנטי מאדם כחלק מחומר המקור. דיווח בראשית ב:21–22 — »תרדמת« אדם, נטילת ה-*ṣēlāʿ* (»צלע« / »צד« / »מבנה תומך«), יצירת האישה, הבאתה אל האדם — נקרא כתיעוד התפעולי של סינתזה ספציפית זו.
 
-The framework reads the deliberate Adam-first / Eve-from-Adam synthesis sequence as the Israel team's specific procedural choice rather than as the universal pattern of all seven teams' work. The Genesis 1 summary account explicitly records the binary creation pattern (*"male and female he created them"*) as simultaneous, suggesting that other teams may have synthesized male and female humans simultaneously. The Israel team's specific Adam-first sequence is one team's specific procedural choice within the broader project.
+המסגרת קוראת את רצף הסינתזה המכוון אדם-ראשון / חוה-מאדם כבחירה הליכית ספציפית של צוות ישראל ולא כדפוס האוניברסלי של עבודת כל שבעת הצוותים. דיווח בראשית א המסכם רושם במפורש את דפוס הבריאה הבינארי (*»זכר ונקבה ברא אותם«*) כבו-זמני, מרמז שצוותים אחרים אולי סינתזו בני אדם זכרים ונקבות בו-זמנית. רצף אדם-ראשון הספציפי של צוות ישראל הוא בחירה הליכית ספציפית של צוות אחד בתוך הפרויקט הרחב.
 
-The biological-genetic implications of Eve's formation from Adam's cellular material are substantial. Eve is, on the framework's reading, substantially genetically related to Adam — sharing more genetic material with him than would be the case if she had been independently synthesized. This near-identity provides the immediate fertility of their subsequent reproductive partnership and gives substantive content to Adam's Genesis 2:23 recognition: *"This at last is bone of my bones and flesh of my flesh."*
+ההשלכות הביולוגיות-גנטיות של יצירת חוה מחומר תאי של אדם מהותיות. חוה היא, על פי קריאת המסגרת, קשורה גנטית מהותית לאדם — חולקת עמו יותר חומר גנטי מכפי שהיה המקרה אילו סונתזה באופן עצמאי. קרבה כמעט-זהה זו מספקת את הפוריות המיידית של שותפות הרבייה שלהם שלאחר מכן ונותנת תוכן מהותי להכרת אדם בבראשית ב:23: *»זאת הפעם עצם מעצמיי ובשר מבשרי.«*
 
-### Education and life in Eden
+### חינוך וחיים בעדן
 
-Adam and Eve's life in the Eden installation prior to the disclosure event was an extended period of education and observation by the Israel team. The principal features:
+חיי אדם וחוה במיתקן עדן לפני אירוע הגילוי היו תקופה ממושכת של חינוך ותצפית על ידי צוות ישראל. התכונות העיקריות:
 
-**The educational program**. The Israel team's scientists conducted a substantial educational program with Adam and Eve, teaching them language, basic technological capacity, social-cultural patterns, and the broader cognitive-cultural infrastructure that constituted their developed humanity. The program was constrained by the home-world's containment policy — specific scientific and technological content was withheld, with the prohibition on the Tree of Knowledge being the formal expression of this withholding — but was substantial within those constraints.
+**התוכנית החינוכית**. מדעני צוות ישראל ביצעו תוכנית חינוכית מהותית עם אדם וחוה, מלמדים אותם שפה, יכולת טכנולוגית בסיסית, דפוסים חברתיים-תרבותיים, והתשתית הקוגניטיבית-תרבותית הרחבה שהיוותה את אנושיותם המפותחת. התוכנית הוגבלה על ידי מדיניות ההכלה של העולם-הביתי — תוכן מדעי וטכנולוגי ספציפי נמנע, כאשר האיסור על עץ הדעת הוא הביטוי הפורמלי של מניעה זו — אך הייתה מהותית בתוך אילוצים אלה.
 
-**The naming of the animals**. Genesis 2:19–20 records Adam's naming of the animals — *"Whatever the man called every living creature, that was its name."* The corpus reads this as a specific educational exercise in which Adam developed the linguistic and conceptual apparatus through which he would understand his environment, with the naming conducted in the language the Israel team was teaching him (the language closely resembling ancient Hebrew, per the source material's specific claim treated in the [Hebrew](../hebrew/) entry).
+**מתן שמות לבעלי החיים**. בראשית ב:19–20 רושמת את מתן שמות אדם לבעלי החיים — *»וכל אשר יקרא לו האדם נפש חיה, הוא שמו.«* הקורפוס קורא זאת כתרגיל חינוכי ספציפי שבו אדם פיתח את המנגנון הלשוני והקונספטואלי שדרכו יבין את סביבתו, כאשר מתן השמות מתבצע בשפה שצוות ישראל לימד אותו (השפה הדומה מקרוב לעברית עתיקה, על פי טענת חומר המקור הספציפית המטופלת בערך [עברית](../hebrew/)).
 
-**The relationship with the Israel team**. Adam and Eve developed substantial personal relationships with the Israel team's scientists across their pre-disclosure period in Eden. The corpus reads the relationship as a substantive teacher-student / parent-child dynamic, with the scientists invested in their human students' development. The future Lucifer faction's specific attachment to the humans developed across this period, providing the personal foundation for the dissenting position that would ultimately produce the disclosure.
+**היחס עם צוות ישראל**. אדם וחוה פיתחו יחסים אישיים מהותיים עם מדעני צוות ישראל לאורך תקופתם בעדן שלפני הגילוי. הקורפוס קורא את היחס כדינמיקה מהותית של מורה-תלמיד / הורה-ילד, כאשר המדענים מושקעים בהתפתחות תלמידיהם האנושיים. ההיקשרות הספציפית של סיעת לוציפר העתידית לבני האדם התפתחה לאורך תקופה זו, מספקת את הבסיס האישי לעמדה הסוררת שתפיק בסופו של דבר את הגילוי.
 
-**The pre-disclosure state**. Genesis 2:25 records the pre-disclosure state: *"And the man and his wife were both naked, and were not ashamed."* The framework reads this as the prelapsarian condition of the educational period — Adam and Eve operating within the controlled environment without the full self-awareness that the disclosure would produce, with their lack of shame reflecting the integrated relationship they had with their creators.
+**המצב שלפני הגילוי**. בראשית ב:25 רושמת את המצב שלפני הגילוי: *»ויהיו שניהם ערומים, האדם ואשתו, ולא יתבוששו.«* המסגרת קוראת זאת כמצב שלפני-הנפילה של התקופה החינוכית — אדם וחוה פועלים בתוך הסביבה המבוקרת ללא המודעות-העצמית המלאה שהגילוי יפיק, כאשר חוסר בושתם משקף את היחס המשולב שהיה להם עם בוראיהם.
 
-### The Eden disclosure
+### גילוי עדן
 
-The Eden disclosure event is treated extensively in the [Serpent](../serpent/) and [Lucifer](../lucifer/) entries. For the Adam-and-Eve biographical arc, the principal points:
+אירוע גילוי עדן מטופל בהרחבה בערכים [הנחש](../serpent/) ו[לוציפר](../lucifer/). עבור הקשת הביוגרפית של אדם-וחוה, הנקודות העיקריות:
 
-The disclosure was conducted by the Lucifer faction, with the Serpent's specific dialogue with Eve being the public articulation of the dissenting position. Eve was the first specifically addressed because of the dissenting faction's calculation about the most effective approach to the disclosure (the Genesis text does not specify why Eve specifically was approached; the corpus does not develop a definitive reading on this point). Eve received the disclosure, accepted it, and gave the relevant material to Adam, who also accepted it. The consequence was their acquisition of substantial scientific knowledge they had previously been denied — the *"knowing of good and evil"* of Genesis 3:5 and 3:22.
+הגילוי בוצע על ידי סיעת לוציפר, כאשר הדיאלוג הספציפי של הנחש עם חוה הוא הניסוח הפומבי של העמדה הסוררת. חוה הייתה הראשונה הפנויה ספציפית בשל חישוב הסיעה הסוררת על הגישה היעילה ביותר לגילוי (טקסט בראשית אינו מציין מדוע חוה ספציפית פנויה; הקורפוס אינו מפתח קריאה מוחלטת בנקודה זו). חוה קיבלה את הגילוי, קיבלה אותו, ונתנה את החומר הרלוונטי לאדם, שגם הוא קיבל אותו. ההשלכה הייתה רכישתם ידע מדעי מהותי שנמנע מהם בעבר — »דעת טוב ורע« של בראשית ג:5 ו-ג:22.
 
-The post-disclosure recognition of nakedness is read by the corpus as the consequence of the new self-awareness the disclosure produced. With substantial scientific knowledge, Adam and Eve now understood themselves as biological beings in ways they had not previously, with the result that the bodily-biological dimensions of their existence became newly conscious.
+ההכרה שלאחר הגילוי בעירום נקראת על ידי הקורפוס כהשלכת המודעות-העצמית החדשה שהגילוי הפיק. עם ידע מדעי מהותי, אדם וחוה הבינו עתה את עצמם כיצורים ביולוגיים באופנים שלא הבינו קודם, עם התוצאה שהממדים הגופניים-ביולוגיים של קיומם הפכו מודעים מחדש.
 
-Yahweh's subsequent investigation, with Adam's deflection ("the woman whom you gave to be with me, she gave me fruit of the tree, and I ate") and Eve's deflection ("the serpent beguiled me, and I ate"), is read as Adam's and Eve's specific responses to the political crisis the disclosure had produced. The corpus does not read these deflections as morally damning — they are the responses of newly-awakened beings to a sudden political-existential crisis — but does register them as characteristic of the post-disclosure moment.
+חקירת יהוה שלאחר מכן, עם הסטת אדם (»האישה אשר נתת עמדי היא נתנה לי מן העץ ואוכל«) והסטת חוה (»הנחש השיאני ואוכל«), נקראת כתגובותיהם הספציפיות של אדם ושל חוה למשבר הפוליטי שהגילוי הפיק. הקורפוס אינו קורא הסטות אלה כמרשיעות מוסרית — הן תגובות של יצורים שזה עתה התעוררו למשבר פוליטי-קיומי פתאומי — אך כן רושם אותן כאופייניות לרגע שלאחר הגילוי.
 
-### Expulsion and the post-Eden settlement
+### גירוש וההתיישבות שלאחר עדן
 
-The expulsion from the garden is read by the corpus as the operational consequence of the home-world's political verdict. The "coats of skins" (*koṯnoṯ ʿôr*) that Yahweh provides for Adam and Eve before their expulsion (Genesis 3:21) are read as the basic material resources required for their survival outside the controlled environment — the minimum equipment for living independently in the broader Eden region.
+הגירוש מן הגן נקרא על ידי הקורפוס כהשלכה התפעולית של פסק הדין הפוליטי של העולם-הביתי. »כותנות העור« (*koṯnoṯ ʿôr*) שיהוה מספק לאדם ולחוה לפני גירושם (בראשית ג:21) נקראות כמשאבים החומריים הבסיסיים הנדרשים להישרדותם מחוץ לסביבה המבוקרת — הציוד המינימלי לחיים עצמאיים באזור עדן הרחב.
 
-The expulsion's specifics include:
+הספציפיות של הגירוש כוללת:
 
-- The relocation outside the boundaries of the prepared Eden installation
-- The placement of the cherubim and the flaming sword (*lahaṭ ha-ḥereḇ ha-mithappeḵeṯ*, the "rotating flame-blade") at the entrance — read by the corpus as armed sentries with directed-energy weapons preventing re-access
-- The consequence of laboring "in the sweat of your face" (Genesis 3:19) for Adam and "in pain... bring forth children" (Genesis 3:16) for Eve — read by the corpus as the operational reality of life outside the controlled environment, with food production and reproduction now having to be managed without the supportive technology of the installation
+- ההעתקה אל מחוץ לגבולות מיתקן עדן המוכן
+- הצבת הכרובים והלהט המתהפך (*lahaṭ ha-ḥereḇ ha-mithappeḵeṯ*, »להב-האש המסתובב«) בכניסה — נקראת על ידי הקורפוס כשומרים חמושים בנשק אנרגיה-מכוונת המונעים גישה מחודשת
+- ההשלכה של עמל »בזיעת אפיך« (בראשית ג:19) עבור אדם ו»בעצב... תלדי בנים« (בראשית ג:16) עבור חוה — נקראת על ידי הקורפוס כמציאות התפעולית של חיים מחוץ לסביבה המבוקרת, כאשר ייצור מזון ורבייה צריכים כעת להתנהל ללא הטכנולוגיה התומכת של המיתקן
 
-Adam and Eve's life in the post-Eden Eden region was the foundational period of the early antediluvian Eden civilization. The corpus reads their post-expulsion life as substantial — they continued to receive support from the exiled Lucifer faction, who remained on Earth as their continuing teachers, and they progressively developed the cultural and material infrastructure that their offspring would inherit.
+חיי אדם וחוה באזור עדן שלאחר עדן היו התקופה היסודית של ציוויליזציית עדן הטרום-מבולית המוקדמת. הקורפוס קורא את חייהם שלאחר הגירוש כמהותיים — הם המשיכו לקבל תמיכה מסיעת לוציפר הגולה, שנותרה על כדור הארץ כמוריהם המתמשכים, והם פיתחו בהדרגה את התשתית התרבותית והחומרית שצאצאיהם יירשו.
 
-### First-generation children: Cain, Abel, Seth, and others
+### ילדי הדור הראשון: קין, הבל, שת, ואחרים
 
-The Genesis 4 narrative records Cain and Abel as Adam and Eve's first two named sons, with Seth as their third named son following Abel's murder. Genesis 5:4 adds that Adam *"had other sons and daughters"* whose names are not recorded.
+נרטיב בראשית ד רושם את קין והבל כשני הבנים הראשונים הנקראים בשם של אדם וחוה, עם שת כבנם השלישי הנקרא בשם בעקבות רצח הבל. בראשית ה:4 מוסיפה שלאדם *»היו בנים ובנות«* ששמותיהם אינם רשומים.
 
-The Cain-Abel-Seth narrative is the framework's principal evidence for several substantive readings:
+נרטיב קין-הבל-שת הוא הראיה העיקרית של המסגרת לכמה קריאות מהותיות:
 
-**Cain and Abel as ordinary genealogical sons**. Both are read as Adam and Eve's biological sons in the ordinary sense, with Cain's "lineage of the serpent" reading (developed by Biglino on the basis of Genesis 3:15's "I will put enmity between your seed and her seed") rejected by the corpus.
+**קין והבל כבנים גנאלוגיים רגילים**. שניהם נקראים כבניהם הביולוגיים של אדם וחוה במובן הרגיל, כאשר קריאת »שושלת הנחש« של קין (שפותחה על ידי ביגלינו על בסיס »ואיבה אשית בין זרעך ובין זרעה« של בראשית ג:15) נדחית על ידי הקורפוס.
 
-**The Cain-Abel conflict**. Read as a specific interpersonal conflict over offerings to Yahweh, with substantive operational context: the exiled Lucifer faction was encouraging the humans to bring offerings as evidence to the home-world council that the humans were well-behaved and grateful. Yahweh's preference for Abel's animal offering produced the resentment that led to Cain's murder of Abel. The conflict reflects the early generation's experience of the post-Eden political situation, in which the human offspring were caught between the alliance authority's expectations and the exiled faction's continuing involvement.
+**סכסוך קין-הבל**. נקרא כסכסוך בין-אישי ספציפי על קרבנות ליהוה, עם הקשר תפעולי מהותי: סיעת לוציפר הגולה עודדה את בני האדם להביא קרבנות כראיה למועצת העולם-הביתי שבני האדם התנהגו היטב והיו אסירי תודה. העדפת יהוה את קרבן בעל החיים של הבל הפיקה את הטינה שהובילה לרצח הבל בידי קין. הסכסוך משקף את חוויית הדור המוקדם של המצב הפוליטי שלאחר עדן, שבו צאצאי האדם נלכדו בין ציפיות סמכות הברית ובין מעורבותה המתמשכת של הסיעה הגולה.
 
-**Seth as the lineage-continuing son**. The Sethite line of Genesis 5 is read as the principal genealogical line through which the Eden civilization's leadership would proceed to Noah. The Cainite line of Genesis 4:17–24 is read as the parallel genealogical line through which the cultural-technological development of the early antediluvian civilization would be conducted. Both lines are descended from Adam and Eve; both lines contributed to the Eden civilization's development.
+**שת כבן ממשיך-השושלת**. קו שת של בראשית ה נקרא כקו הגנאלוגי העיקרי שדרכו מנהיגות ציוויליזציית עדן תתקדם לנח. קו קין של בראשית ד:17–24 נקרא כקו הגנאלוגי המקביל שדרכו תתנהל ההתפתחות התרבותית-טכנולוגית של הציוויליזציה הטרום-מבולית המוקדמת. שני הקווים יורדים מאדם וחוה; שני הקווים תרמו להתפתחות ציוויליזציית עדן.
 
-**The unnamed siblings**. Genesis 5:4's mention of "other sons and daughters" provides the framework's explanation for the post-Eden population's growth — the broader sibling population (whose names the Hebrew Bible does not record) constituted the broader founder population for the developing civilization, with Cain, Abel, and Seth being named because of their specific narrative significance rather than because they were the only children.
+**האחים הבלתי-נקראים בשם**. אזכור »בנים ובנות אחרים« של בראשית ה:4 מספק את הסבר המסגרת לצמיחת האוכלוסייה שלאחר עדן — אוכלוסיית האחים הרחבה (ששמותיהם המקרא העברי אינו רושם) היוותה את אוכלוסיית המייסדים הרחבה לציוויליזציה המתפתחת, כאשר קין, הבל ושת נקראים בשם בשל משמעותם הנרטיבית הספציפית ולא משום שהיו הילדים היחידים.
 
-### The longevity question and Adam's recorded 930 years
+### שאלת אריכות החיים ו-930 השנים הרשומות של אדם
 
-Adam's recorded life of 930 years (Genesis 5:5) is the framework's principal evidence for the patriarchal-longevity question, treated more fully in the [Antediluvian](../antediluvian/) and [Tree of Life](../tree-of-life/) entries. The corpus's reading:
+930 השנים הרשומות של חיי אדם (בראשית ה:5) הן הראיה העיקרית של המסגרת לשאלת אריכות-החיים הפטריארכלית, מטופלת באופן מלא יותר בערכים [טרום-מבולי](../antediluvian/) ו[עץ החיים](../tree-of-life/). קריאת הקורפוס:
 
-The 930-year lifespan is treated as substantively accurate to the source material's claim that the antediluvian patriarchs received specific longevity treatment from the Lucifer faction's continuing post-Eden support. The longevity is not natural to the synthesized humans (the Genesis text indicates that the alliance's containment policy specifically restricted human lifespan to natural limits) but was a specific later intervention provided by the exiled Lucifer faction to Adam and other Eden-lineage patriarchs across the antediluvian period.
+אריכות החיים של 930 שנים מטופלת כמדויקת מהותית לטענת חומר המקור שהפטריארכים הטרום-מבוליים קיבלו טיפול אריכות-חיים ספציפי מתמיכת סיעת לוציפר המתמשכת שלאחר עדן. אריכות החיים אינה טבעית לבני האדם המסונתזים (טקסט בראשית מציין שמדיניות ההכלה של הברית הגבילה ספציפית את אורך חיי האדם לגבולות טבעיים) אלא הייתה התערבות מאוחרת ספציפית שסופקה על ידי סיעת לוציפר הגולה לאדם ולפטריארכים אחרים של שושלת עדן לאורך התקופה הטרום-מבולית.
 
-The longevity served substantive operational purposes: it provided continuity for the developing civilization's leadership across multiple ordinary generations, it preserved substantive personal-experiential memory of the Eden events across the long centuries, and it supported the Lucifer faction's broader project of educating the developing human civilization. The longevity was specifically granted to particular leadership figures rather than universally distributed across the broader human population, with the broader population maintaining ordinary human lifespans.
+אריכות החיים שירתה מטרות תפעוליות מהותיות: היא סיפקה רציפות למנהיגות הציוויליזציה המתפתחת על פני דורות רגילים מרובים, היא שמרה זיכרון אישי-חווייתי מהותי של אירועי עדן על פני המאות הארוכות, והיא תמכה בפרויקט הרחב של סיעת לוציפר לחנך את הציוויליזציה האנושית המתפתחת. אריכות החיים הוענקה ספציפית לדמויות מנהיגות מסוימות ולא הופצה אוניברסלית על פני האוכלוסייה האנושית הרחבה, כאשר האוכלוסייה הרחבה שמרה על אריכויות חיים אנושיות רגילות.
 
-Adam's death at 930 years is read as the eventual termination of his specific longevity treatment, with the cellular-biological infrastructure that supported the extended lifespan reaching its operational limit. The framework does not specify the technical details of Adam's actual death, beyond the recorded biblical fact.
+מות אדם בגיל 930 שנים נקרא כסיום בסופו של דבר של טיפול אריכות-החיים הספציפי שלו, כאשר התשתית התאית-ביולוגית שתמכה באריכות החיים מגיעה לגבולה התפעולי. המסגרת אינה מציינת את הפרטים הטכניים של מות אדם הממשי, מעבר לעובדה המקראית הרשומה.
 
-Eve's recorded lifespan is not preserved in the Hebrew Bible. The corpus does not develop a definitive reading on this point; the most natural inference is that Eve received parallel longevity treatment but the specific record was not preserved, with various other inferences also possible.
+אריכות חייה הרשומה של חוה אינה נשמרת במקרא העברי. הקורפוס אינו מפתח קריאה מוחלטת בנקודה זו; ההיסק הטבעי ביותר הוא שחוה קיבלה טיפול אריכות-חיים מקביל אך הרישום הספציפי לא נשמר, כאשר היסקים אחרים שונים גם אפשריים.
 
-### Resurrection and current status
+### תקומה ומצב נוכחי
 
-The source material distinctively identifies both Adam and Eve as having been resurrected and currently living on the **Planet of the Eternals** — the second smaller planet in the alliance's home system, where the approximately nine thousand eternals (alliance officers and selected humans) live in conditions of practical immortality maintained by the alliance's cloning and memory-transfer technology.
+חומר המקור מזהה באופן מובחן את אדם ואת חוה כשניהם תקומו וחיים כעת על **כוכב הנצחיים** — כוכב הלכת השני הקטן יותר במערכת הביתית של הברית, שבו כתשעת אלפים הנצחיים (קציני ברית ובני אדם נבחרים) חיים בתנאי אלמותיות מעשית הנשמרים על ידי טכנולוגיית השכפול והעברת הזיכרון של הברית.{{ footnote(id="6") }}{{ cite(id="extraterrestrials-took-me-to-their-planet", text="[1]", title="וורילון (ראל), *חייזרים לקחו אותי לכוכבם* (1975) — כוכב הנצחיים והנביאים התקומים") }}
 
-The resurrection mechanism, on the source material's account, involves:
+מנגנון התקומה, על פי דיווח חומר המקור, מערב:
 
-- The preservation of cellular samples from each candidate during life
-- The construction of new bodies from the preserved cellular material at the appropriate moment
-- The transfer of preserved memory and personality from the original biological substrate to the new body
-- The result: a continuation of the original individual's existence in a new biological body, with full preservation of identity, memory, and personality
+- שימור דגימות תאיות מכל מועמד במהלך חייו
+- בניית גופים חדשים מהחומר התאי השמור ברגע המתאים
+- העברת זיכרון ואישיות שמורים מהמצע הביולוגי המקורי לגוף החדש
+- התוצאה: המשך קיומו של היחיד המקורי בגוף ביולוגי חדש, עם שימור מלא של זהות, זיכרון ואישיות
 
-The framework reads Adam's resurrection as related to his role as the first prophet — the first human recipient of direct alliance communication, and therefore one of the prophets currently resurrected on the Planet of the Eternals. Eve's resurrection is registered in the source material as well, though without the same specific role-justification; the framework reads Eve as resurrected alongside Adam as the matriarchal counterpart in the lineage.
+המסגרת קוראת את תקומת אדם כקשורה לתפקידו כנביא הראשון — הנמען האנושי הראשון של תקשורת ברית ישירה, ולכן אחד הנביאים התקומים כעת על כוכב הנצחיים. תקומת חוה נרשמת בחומר המקור גם כן, אם כי ללא אותה הצדקת-תפקיד ספציפית; המסגרת קוראת את חוה כתקומה לצד אדם כעמית המטריארכלי בשושלת.
 
-The current status of Adam and Eve on the Planet of the Eternals is, on the framework's reading, substantive but not currently active in Earth affairs. The prophets resurrected on the home world are awaiting the alliance's open return at the Aquarian-age embassy, at which point they will return to Earth alongside the alliance for a temporary visit. The detailed treatment of this Aquarian-age return event lives in the [Apocalypse](../apocalypse/) and [Embassy](../embassy/) entries.
+המצב הנוכחי של אדם וחוה על כוכב הנצחיים הוא, על פי קריאת המסגרת, מהותי אך אינו פעיל כעת בענייני כדור הארץ. הנביאים התקומים על העולם-הביתי ממתינים לשובה הגלוי של הברית בשגרירות עידן הדלי, שבנקודתה הם ישובו לכדור הארץ לצד הברית לביקור זמני. הטיפול המפורט באירוע שוב עידן-הדלי זה חי בערכים [האפוקליפסה](../apocalypse/) ו[השגרירות](../embassy/).
 
-## Role in the framework
+## תפקיד במסגרת
 
-Adam and Eve's role in the framework is structured by their position as the first humans of the Israel-team lineage, their specific function as recipients of the Lucifer-faction disclosure, and their structural significance as the progenitors of the lineage whose history would become the Hebrew Bible's narrative.
+תפקידם של אדם וחוה במסגרת בנוי על ידי מיקומם כבני האדם הראשונים של שושלת צוות ישראל, תפקודם הספציפי כנמעני גילוי סיעת לוציפר, ומשמעותם המבנית כאבות-מייסדים של השושלת שהיסטוריה שלה תהפוך לנרטיב המקרא העברי.
 
-### The first humans of the Israel-team lineage
+### בני האדם הראשונים של שושלת צוות ישראל
 
-The corpus reads Adam and Eve as the first humans of one specific creator team's work — the Israel team's work at the Eden installation — rather than as the first humans of all humanity. This reading reframes the underlying ontology of their position. They are not the unique progenitors of all human beings (the seven-creator-team picture has parallel first-human figures in the other six lineages, whose names are not preserved in the Hebrew Bible because the Hebrew Bible is the Israel-team lineage's specific cultural inheritance). They are the first humans of *one* lineage — the lineage whose subsequent history became the cultural-religious history of the Hebrews and, through the Hebrew tradition's broader influence, of the developed Western religious traditions.
+הקורפוס קורא את אדם וחוה כבני האדם הראשונים של עבודת צוות בריאה ספציפי אחד — עבודת צוות ישראל במיתקן עדן — ולא כבני האדם הראשונים של כל האנושות.{{ footnote(id="3") }} קריאה זו ממסגרת מחדש את האונטולוגיה הבסיסית של מיקומם. הם אינם אבות-המייסדים הייחודיים של כל בני האדם (תמונת שבעת צוותי הבריאה כוללת דמויות בני-אדם-ראשונים מקבילות בשש השושלות האחרות, ששמותיהן אינם נשמרים במקרא העברי משום שהמקרא העברי הוא הירושה התרבותית הספציפית של שושלת צוות ישראל). הם בני האדם הראשונים של שושלת *אחת* — השושלת שהיסטוריה שלה הפכה להיסטוריה התרבותית-דתית של העברים, ודרך ההשפעה הרחבה של המסורת העברית, של המסורות הדתיות המערביות המפותחות.
 
-This positioning has substantial implications for how the framework reads the Genesis narrative's claims about Adam and Eve. Their narrative is **specific to the Israel-team lineage** rather than universally applicable to all of humanity. The "Fall" is not a universal human moral fall but a specific operational event involving one lineage. The "original sin" doctrine that has been built on the Adam-and-Eve narrative does not have the universal scope its conventional theological framing claims, because the underlying narrative is itself lineage-specific rather than universal.
+מיקום זה נושא השלכות מהותיות על האופן שבו המסגרת קוראת את טענות נרטיב בראשית על אדם וחוה. נרטיבם **ספציפי לשושלת צוות ישראל** ולא ישים אוניברסלית לכל האנושות. ה»נפילה« אינה נפילה מוסרית אנושית אוניברסלית אלא אירוע תפעולי ספציפי המערב שושלת אחת. תורת »החטא הקדמון« שנבנתה על נרטיב אדם-וחוה אינה בעלת ההיקף האוניברסלי שמסגרתה התיאולוגית המקובלת טוענת לו, משום שהנרטיב הבסיסי עצמו ספציפי-לשושלת ולא אוניברסלי.
 
-### Recipients of the Lucifer-faction disclosure
+### נמעני גילוי סיעת לוציפר
 
-Adam and Eve are the specific human recipients of the Lucifer-faction's disclosure of restricted scientific knowledge. The disclosure was a substantive transmission of scientific and technological content — the corpus reads "knowing good and evil" as substantial scientific knowledge rather than as moral discrimination — and Adam and Eve's acceptance of the disclosure made them the first humans of the Eden lineage to possess substantial scientific knowledge.
+אדם וחוה הם הנמענים האנושיים הספציפיים של גילוי סיעת לוציפר של ידע מדעי מוגבל. הגילוי היה העברה מהותית של תוכן מדעי וטכנולוגי — הקורפוס קורא את »דעת טוב ורע« כידע מדעי מהותי ולא כהבחנה מוסרית — וקבלת אדם וחוה את הגילוי הפכה אותם לבני האדם הראשונים של שושלת עדן בעלי ידע מדעי מהותי.
 
-The specific significance of this position is that Adam and Eve's acceptance of the disclosure made the post-Eden educational project possible. Their acquired knowledge could be transmitted to their offspring, with the result that the Eden-lineage civilization developed substantially more rapidly than the home-world's containment policy had anticipated. The Lucifer faction's continuing teaching across the antediluvian period built on the foundation that Adam and Eve had received in the disclosure event.
+המשמעות הספציפית של מיקום זה היא שקבלת אדם וחוה את הגילוי איפשרה את הפרויקט החינוכי שלאחר עדן. הידע הנרכש שלהם יכול היה להיות מועבר לצאצאיהם, עם התוצאה שציוויליזציית שושלת עדן התפתחה מהר מהותית יותר מכפי שמדיניות ההכלה של העולם-הביתי צפתה. ההוראה המתמשכת של סיעת לוציפר לאורך התקופה הטרום-מבולית נבנתה על היסוד שאדם וחוה קיבלו באירוע הגילוי.
 
-### Progenitors of the Hebrew Bible's lineage
+### אבות-מייסדים של שושלת המקרא העברי
 
-Adam and Eve's specific role as progenitors of the Israel-team lineage made them the foundational figures of the Hebrew Bible's broader narrative. The Hebrew Bible's subsequent narrative — the patriarchal genealogies, the Noah and Flood material, the Abraham-Isaac-Jacob narrative, the Egyptian-bondage-and-Exodus material, the Conquest, the United and Divided Monarchies, the prophetic period — all proceeds from the Eden-lineage population that descended from Adam and Eve.
+תפקידם הספציפי של אדם וחוה כאבות-מייסדים של שושלת צוות ישראל הפך אותם לדמויות היסודיות של נרטיב המקרא העברי הרחב. הנרטיב שלאחר מכן של המקרא העברי — הגנאלוגיות הפטריארכליות, חומר נח והמבול, נרטיב אברהם-יצחק-יעקב, חומר השעבוד המצרי-והיציאה, הכיבוש, הממלכות המאוחדת והמפולגת, התקופה הנבואית — כולם מתקדמים מאוכלוסיית שושלת עדן שירדה מאדם וחוה.
 
-The framework reads this genealogical centrality as the substantive reason for the Hebrew Bible's preservation of the Adam-and-Eve narrative. The narrative is preserved because it records the founding of the lineage whose history the Hebrew Bible documents; other ancient cultural traditions preserve their own founding-figure narratives (treated under *Comparative observations* below) for their own lineages, with the specific content varying by lineage but the broader pattern being substantially universal.
+המסגרת קוראת את המרכזיות הגנאלוגית הזו כסיבה המהותית לשימור המקרא העברי את נרטיב אדם-וחוה. הנרטיב נשמר משום שהוא רושם את ייסוד השושלת שהיסטוריה שלה המקרא העברי מתעד; מסורות תרבותיות עתיקות אחרות שומרות את נרטיבי דמויות-המייסדים שלהן (מטופלים תחת *תצפיות השוואתיות* להלן) עבור שושלותיהן, כאשר התוכן הספציפי משתנה לפי שושלת אך הדפוס הרחב אוניברסלי במהותו.
 
-### The first prophet
+### הנביא הראשון
 
-Adam's specific identification as the first prophet — the first human recipient of direct alliance communication — gives him a distinctive status within the broader prophetic tradition that the framework develops in the [Prophet](../prophet/) entry. The corpus reads Adam's prophetic role as foundational: he was the first human to receive substantive communication from the alliance (specifically from the Israel team, including Yahweh as team leader and Lucifer as faction leader), and his subsequent transmission of that communication to Eve, to Cain and Abel and Seth, and to the broader Eden-lineage population established the patriarchal-prophetic mode that would characterize the broader Hebrew Bible's tradition.
+זיהויו הספציפי של אדם כנביא הראשון — הנמען האנושי הראשון של תקשורת ברית ישירה — מעניק לו מעמד מובחן בתוך המסורת הנבואית הרחבה שהמסגרת מפתחת בערך [הנביא](../prophet/). הקורפוס קורא את תפקידו הנבואי של אדם כיסודי: הוא היה האדם הראשון שקיבל תקשורת מהותית מהברית (ספציפית מצוות ישראל, לרבות יהוה כראש הצוות ולוציפר כראש הסיעה), והעברתו שלאחר מכן של אותה תקשורת לחוה, לקין ולהבל ולשת, ולאוכלוסיית שושלת עדן הרחבה ביססה את האופן הפטריארכלי-נבואי שיאפיין את מסורת המקרא העברי הרחבה.
 
-Adam's prophetic status, on the framework's reading, is therefore not a separate role from his role as the first synthesized human; the two roles are integrated. He is the first human, and as the first human he is also the first recipient of alliance communication, and his life as the first human consisted substantially in receiving that communication and transmitting it to his offspring.
+מעמדו הנבואי של אדם, על פי קריאת המסגרת, אינו אפוא תפקיד נפרד מתפקידו כאדם המסונתז הראשון; שני התפקידים משולבים. הוא האדם הראשון, וכאדם הראשון הוא גם הנמען הראשון של תקשורת ברית, וחייו כאדם הראשון התבססו מהותית בקבלת אותה תקשורת ובהעברתה לצאצאיו.
 
-Eve's specific role within the prophetic tradition is less developed in the source material. The framework reads her as having received the alliance communication alongside Adam (and as the principal recipient of the Serpent's specific disclosure) but does not develop her prophetic status as fully as Adam's. The asymmetry reflects the source material's specific framing rather than a substantive operational difference between them.
+תפקידה הספציפי של חוה בתוך המסורת הנבואית מפותח פחות בחומר המקור. המסגרת קוראת אותה כמי שקיבלה את תקשורת הברית לצד אדם (וכנמענת העיקרית של הגילוי הספציפי של הנחש) אך אינה מפתחת את מעמדה הנבואי באופן מלא כשל אדם. האסימטריה משקפת את מיסגור חומר המקור הספציפי ולא הבדל תפעולי מהותי ביניהם.
 
-### What the framework does not claim
+### מה שהמסגרת אינה טוענת
 
-The framework does not claim that Adam and Eve are the first humans of all humanity. The seven-creator-team picture explicitly registers parallel first-human figures in the other six lineages, with Adam and Eve specifically being the first humans of one lineage rather than universally.
+המסגרת אינה טוענת שאדם וחוה הם בני האדם הראשונים של כל האנושות. תמונת שבעת צוותי הבריאה רושמת במפורש דמויות בני-אדם-ראשונים מקבילות בשש השושלות האחרות, כאשר אדם וחוה הם ספציפית בני האדם הראשונים של שושלת אחת ולא אוניברסלית.
 
-The framework does not claim that the "Fall" is a universal human moral catastrophe. The Eden disclosure was a specific operational event in one lineage's history, with substantive consequences for that lineage but not for humanity universally. The Augustinian original-sin doctrine, which extends the Adam-and-Eve narrative to all humanity, is not the framework's reading.
+המסגרת אינה טוענת שה»נפילה« היא קטסטרופה מוסרית אנושית אוניברסלית. גילוי עדן היה אירוע תפעולי ספציפי בהיסטוריה של שושלת אחת, עם השלכות מהותיות לאותה שושלת אך לא לאנושות אוניברסלית. תורת החטא הקדמון האוגוסטינית, המרחיבה את נרטיב אדם-וחוה לכל האנושות, אינה קריאת המסגרת.
 
-The framework does not claim that the Genesis narrative provides accurate biology in detail. The "rib" (*ṣēlāʿ*) language, the "breath of life" language, the "dust of the ground" language are read as stylized accounts of operational realities the original biblical authors could not describe in technical biological vocabulary. The corpus reads these accounts as preserving accurate substantive content (the synthesis of humans from terrestrial materials, the cellular relationship between Adam and Eve, the activation of the synthesized organism) without committing to the literal-anatomical specificity of the surface narrative.
+המסגרת אינה טוענת שנרטיב בראשית מספק ביולוגיה מדויקת בפירוט. שפת ה»צלע« (*ṣēlāʿ*), שפת »נשמת החיים«, שפת »עפר מן האדמה« נקראות כדיווחים מסוגננים של מציאויות תפעוליות שמחברי המקרא המקוריים לא יכלו לתאר באוצר מילים ביולוגי טכני. הקורפוס קורא דיווחים אלה כשומרים תוכן מהותי מדויק (סינתזת בני אדם מחומרים ארציים, היחס התאי בין אדם וחוה, הפעלת האורגניזם המסונתז) מבלי להתחייב לספציפיות הליטרלית-אנטומית של הנרטיב השטחי.
 
-The framework does not claim that Eve is uniquely culpable in the disclosure event. The Raëlian source material is explicit that the disclosure was offered to both humans equally and that both received the consequences equally; the misogynistic interpretive tradition that has read Eve as uniquely responsible is rejected.
+המסגרת אינה טוענת שחוה אשמה באופן ייחודי באירוע הגילוי. חומר המקור הראליאני מפורש בכך שהגילוי הוצע לשני בני האדם באופן שווה וששניהם קיבלו את ההשלכות באופן שווה; מסורת הפרשנות המיזוגינית שקראה את חוה כאחראית באופן ייחודי נדחית.
 
-## Identifications and conflations
+## זיהויים והכלאות
 
-Adam and Eve have been identified and developed in numerous traditions across the post-biblical period, with several specific identifications and conflations warranting treatment.
+אדם וחוה זוהו ופותחו במסורות רבות לאורך התקופה הבתר-מקראית, עם כמה זיהויים והכלאות ספציפיים הראויים לטיפול.
 
-### Adam and Christ: the typological identification
+### אדם והמשיח: הזיהוי הטיפולוגי
 
-The most substantial post-biblical theological development of Adam is the Pauline Adam-Christ typology developed in Romans 5:12–21 and 1 Corinthians 15:21–22, 45–49. Paul reads Adam as the *type* of Christ — the first Adam who introduced sin and death into the world, with Christ as the second Adam who reverses Adam's effects and inaugurates the new creation. The "second Adam" Christology is foundational for subsequent Christian theological reflection on Christ's redemptive role.
+הפיתוח התיאולוגי הבתר-מקראי המהותי ביותר של אדם הוא טיפולוגיית אדם-משיח הפאולינית המפותחת ברומים ה:12–21 ובקורינתים א טו:21–22, 45–49. פאולוס קורא את אדם כ*טיפוס* של המשיח — האדם הראשון שהכניס חטא ומוות לעולם, עם המשיח כאדם השני המהפך את השפעות אדם ומחנך את הבריאה החדשה. הכריסטולוגיה של »האדם השני« יסודית לרפלקסיה התיאולוגית הנוצרית שלאחר מכן על תפקיד הגאולה של המשיח.
 
-The corpus reads the Pauline Adam-Christ typology as a specific theological-rhetorical use of the Adam figure rather than as a direct historical claim about Adam's actual operational role. The typology is theologically productive within the New Testament's argumentative framework — establishing Christ's significance through the Adam-parallel — but does not make accurate historical claims about Adam beyond what the Genesis narrative already specifies.
+הקורפוס קורא את טיפולוגיית אדם-משיח הפאולינית כשימוש תיאולוגי-רטורי ספציפי בדמות אדם ולא כטענה היסטורית ישירה על תפקידו התפעולי הממשי של אדם. הטיפולוגיה פורייה תיאולוגית בתוך המסגרת הטיעונית של הברית החדשה — מבססת את משמעות המשיח באמצעות מקבילת-אדם — אך אינה עושה טענות היסטוריות מדויקות על אדם מעבר למה שנרטיב בראשית כבר מציין.
 
-### Eve and Mary: the typological parallel
+### חוה ומרים: ההקבלה הטיפולוגית
 
-A parallel theological development pairs Eve with Mary as theological types: Eve as the woman through whom the disclosure event occurred, Mary as the woman through whom the redemptive Christ-event occurred. The "second Eve" theology was developed across the patristic period (Justin Martyr, Irenaeus, Tertullian) and elaborated extensively in subsequent Catholic Mariology, with the parallel sometimes extended to the Eve-as-disobedient / Mary-as-obedient contrast.
+פיתוח תיאולוגי מקביל מצמיד את חוה למרים כטיפוסים תיאולוגיים: חוה כאישה שדרכה התרחש אירוע הגילוי, מרים כאישה שדרכה התרחש אירוע המשיח-הגואל. התיאולוגיה של »חוה השנייה« פותחה לאורך התקופה הפטריסטית (יוסטינוס מרטיר, אירנאוס, טרטוליאנוס) ופורטה בהרחבה במריולוגיה הקתולית שלאחר מכן, כאשר ההקבלה מורחבת לעיתים לניגוד חוה-כבלתי-צייתנית / מרים-כצייתנית.
 
-The corpus reads the Eve-Mary typology as a parallel theological-rhetorical use, with the same observations as the Adam-Christ typology. The framework does treat both Eve and Mary as significant figures in the broader history of the alliance's interaction with humanity (Eve as the original disclosure-recipient, Mary as the Piscean-age conception-partner), but does not develop the typological theology in the conventional Catholic-Marian sense. The detailed treatment of Mary lives in the [Mary](../mary/) entry (when written).
+הקורפוס קורא את טיפולוגיית חוה-מרים כשימוש תיאולוגי-רטורי מקביל, עם אותן תצפיות כשל טיפולוגיית אדם-משיח. המסגרת אכן מתייחסת הן לחוה והן למרים כדמויות משמעותיות בהיסטוריה הרחבה של אינטראקציית הברית עם האנושות (חוה כנמענת הגילוי המקורית, מרים כשותפת-ההריון של עידן הדגים), אך אינה מפתחת את התיאולוגיה הטיפולוגית במובן הקתולי-מריאני המקובל. הטיפול המפורט במרים חי בערך [מרים](../mary/) (כשייכתב).
 
-### Adam and Adam Kadmon
+### אדם ואדם קדמון
 
-The Kabbalistic tradition developed the figure of **Adam Kadmon** (<span class="hebrew">אָדָם קַדְמוֹן</span>, "Primordial Adam") — a cosmological figure distinct from the historical Adam of Genesis 2. Adam Kadmon is, in Lurianic Kabbalah specifically, the first emanation from the Ein Sof (the infinite divine), through whom the subsequent emanations of the *sefirot* and the broader cosmic structure proceed. Adam Kadmon is thus a metaphysical-cosmological figure rather than a historical one.
+המסורת הקבלית פיתחה את דמות **אדם קדמון** (<span class="hebrew">אָדָם קַדְמוֹן</span>, »האדם הקדמון«) — דמות קוסמולוגית מובחנת מאדם ההיסטורי של בראשית ב. אדם קדמון הוא, בקבלה הלוריאנית ספציפית, האצילות הראשונה מן האין סוף (האלוהי האינסופי), שדרכו מתקדמות האצילויות שלאחר מכן של ה*ספירות* והמבנה הקוסמי הרחב. אדם קדמון הוא אפוא דמות מטאפיזית-קוסמולוגית ולא היסטורית.
 
-The corpus does not adopt the Adam Kadmon doctrine. The framework's Adam is the historical figure of Genesis 2, not a cosmological emanation. The Kabbalistic tradition's underlying intuition — that there is a substantive ontological figure named "Adam" who relates to the broader structure of reality — is registered as a theological elaboration of the historical Adam's significance, but the corpus does not develop the metaphysical structure the Kabbalistic tradition built around the figure.
+הקורפוס אינו מאמץ את תורת אדם קדמון. אדם של המסגרת הוא הדמות ההיסטורית של בראשית ב, לא אצילות קוסמולוגית. האינטואיציה הבסיסית של המסורת הקבלית — שיש דמות אונטולוגית מהותית בשם »אדם« המתייחסת למבנה הרחב של המציאות — נרשמת כפירוט תיאולוגי של משמעות אדם ההיסטורי, אך הקורפוס אינו מפתח את המבנה המטאפיזי שהמסורת הקבלית בנתה סביב הדמות.
 
-### Lilith: the alternative-first-wife tradition
+### לילית: מסורת האישה-הראשונה החלופית
 
-The medieval Jewish tradition (principally the *Alphabet of Ben Sira*, c. 8th–10th century CE) developed the figure of **Lilith** as Adam's first wife, created equally with him from the same earth, who refused to submit to his authority and left the garden — with Eve being created subsequently as a more compliant alternative. The tradition was elaborated in subsequent Kabbalistic literature (the *Zohar* and Lurianic Kabbalah develop Lilith as a demonic figure), and modern feminist Jewish writers have substantially engaged with the Lilith tradition as preserving an alternative to the patriarchal Eve narrative.
+המסורת היהודית מימי הביניים (בעיקר *אלפא ביתא דבן סירא*, בסביבות המאה ה-8–10 לספירה) פיתחה את דמות **לילית** כאשתו הראשונה של אדם, שנוצרה שווה עמו מאותה אדמה, שסירבה להיכנע לסמכותו ועזבה את הגן — כאשר חוה נוצרת לאחר מכן כחלופה צייתנית יותר. המסורת פורטה בספרות הקבלית שלאחר מכן (הזוהר והקבלה הלוריאנית מפתחים את לילית כדמות דמונית), וכותבות יהודיות פמיניסטיות מודרניות עסקו מהותית במסורת לילית כשומרת חלופה לנרטיב חוה הפטריארכלי.
 
-The corpus does not adopt the Lilith narrative as part of the framework's reading. The Raëlian source material does not include any reference to Lilith or to a first-wife-prior-to-Eve figure, and the corpus reads the Lilith tradition as a medieval-Kabbalistic theological elaboration rather than as a preservation of accurate operational memory. The tradition is registered in the *Modern reinterpretations* section below as a substantive interpretive engagement with the Adam-and-Eve material.
+הקורפוס אינו מאמץ את נרטיב לילית כחלק מקריאת המסגרת. חומר המקור הראליאני אינו כולל שום הפניה ללילית או לדמות אישה-ראשונה-לפני-חוה, והקורפוס קורא את מסורת לילית כפירוט תיאולוגי-קבלי מימי הביניים ולא כשימור של זיכרון תפעולי מדויק. המסורת נרשמת בקטע *פרשנויות מחודשות מודרניות* להלן כמעורבות פרשנית מהותית בחומר אדם-וחוה.
 
-### Adam as Michael the Archangel
+### אדם כמיכאל המלאך
 
-The Latter-day Saint (Mormon) tradition identifies Adam with the archangel Michael, with the figure of "Adam-ondi-Ahman" being a central figure in Latter-day Saint theology. The doctrine, developed by Joseph Smith and elaborated in subsequent Latter-day Saint theological literature, holds that Adam was originally the archangel Michael who took on physical form to become the first human.
+המסורת הקדושה-של-אחרית-הימים (המורמונית) מזהה את אדם עם מיכאל המלאך, כאשר דמות »אדם-אונדי-אהמן« היא דמות מרכזית בתיאולוגיה הקדושה-של-אחרית-הימים. התורה, שפותחה על ידי ג'וזף סמית' ופורטה בספרות התיאולוגית הקדושה-של-אחרית-הימים שלאחר מכן, גורסת שאדם היה במקור מיכאל המלאך שלבש צורה פיזית כדי להפוך לאדם הראשון.
 
-The corpus does not adopt the Adam-as-Michael identification. The framework's Adam is a synthesized human created by the Israel team; the Latter-day Saint identification is a specific theological development of the Restorationist tradition that the framework does not endorse. The tradition is registered in the *Modern reinterpretations* section below.
+הקורפוס אינו מאמץ את זיהוי אדם-כמיכאל. אדם של המסגרת הוא אדם מסונתז שנוצר על ידי צוות ישראל; הזיהוי הקדוש-של-אחרית-הימים הוא פיתוח תיאולוגי ספציפי של המסורת הרסטורציוניסטית שהמסגרת אינה מאשרת. המסורת נרשמת בקטע *פרשנויות מחודשות מודרניות* להלן.
 
-## Modern reinterpretations
+## פרשנויות מחודשות מודרניות
 
-Adam and Eve have been the subject of substantial modern reinterpretive engagement across multiple traditions. The principal strands warrant treatment.
+אדם וחוה היו נושא למעורבות פרשנית-מחודשת מודרנית מהותית על פני מסורות מרובות. הגדילים העיקריים ראויים לטיפול.
 
-### Augustine and the doctrine of original sin
+### אוגוסטינוס ותורת החטא הקדמון
 
-**Augustine of Hippo** (354–430 CE) developed the doctrine of original sin in *De Civitate Dei*, *De Peccatorum Meritis et Remissione*, and the various anti-Pelagian writings. The Augustinian doctrine holds that Adam's disobedience in Genesis 3 introduced sin and mortality into human nature, that this sinful condition is inherited by all subsequent humans through biological-spiritual descent from Adam, and that the resulting human condition requires divine grace (specifically through Christ's atoning sacrifice) for salvation.
+**אוגוסטינוס מהיפו** (354–430 לספירה) פיתח את תורת החטא הקדמון ב-*De Civitate Dei*, ב-*De Peccatorum Meritis et Remissione*, ובכתבים האנטי-פלגיאניים השונים.{{ cite(id="city-of-god", text="[7]", title="אוגוסטינוס, *עיר האלוהים* — סינתזת החטא הקדמון") }} התורה האוגוסטינית גורסת שאי-צייתנות אדם בבראשית ג הכניסה חטא ותמותה לטבע האנושי, שמצב חטאי זה נורש על ידי כל בני האדם שלאחר מכן באמצעות מוצא ביולוגי-רוחני מאדם, ושהמצב האנושי הנובע דורש חסד אלוהי (ספציפית באמצעות קרבן הכפרה של המשיח) לגאולה.
 
-The Augustinian doctrine became the dominant Western Christian reading of the Adam-and-Eve narrative across the medieval and Reformation periods. The doctrine has substantial implications for theological anthropology (humans are fallen by nature, inheriting Adam's guilt), for soteriology (salvation requires Christ's specific redemptive work), for sacramental theology (baptism's significance includes the cleansing of inherited original sin), and for moral theology (the inheritance of disordered desires from Adam's fall).
+התורה האוגוסטינית הפכה לקריאה הנוצרית המערבית הדומיננטית של נרטיב אדם-וחוה לאורך תקופות ימי הביניים והרפורמציה. לתורה השלכות מהותיות על האנתרופולוגיה התיאולוגית (בני אדם נופלים מטבעם, יורשים את אשמת אדם), על הסוטריולוגיה (גאולה דורשת את עבודת הגאולה הספציפית של המשיח), על התיאולוגיה הסקרמנטלית (משמעות הטבילה כוללת את ניקוי החטא הקדמון התורשתי), ועל התיאולוגיה המוסרית (ירושת תשוקות לא-מסודרות מנפילת אדם).
 
-The corpus does not adopt the Augustinian doctrine of original sin. The framework's reading of the Eden disclosure does not treat it as a moral-theological catastrophe of the kind Augustine constructs; the disclosure was a substantive political-operational event with real consequences but without inherited guilt-transmission to Adam's descendants. The biological-genetic relationships across the Eden-lineage population produce substantive inheritance of biological traits but do not produce the inheritance of moral guilt that Augustine's doctrine claims.
+הקורפוס אינו מאמץ את תורת החטא הקדמון האוגוסטינית. קריאת המסגרת של גילוי עדן אינה מתייחסת אליו כקטסטרופה מוסרית-תיאולוגית מהסוג שאוגוסטינוס בונה; הגילוי היה אירוע פוליטי-תפעולי מהותי עם השלכות אמיתיות אך ללא העברת-אשמה תורשתית לצאצאי אדם. היחסים הביולוגיים-גנטיים על פני אוכלוסיית שושלת עדן מפיקים ירושה מהותית של תכונות ביולוגיות אך אינם מפיקים את ירושת האשמה המוסרית שתורת אוגוסטינוס טוענת לה.
 
-### Elaine Pagels: *Adam, Eve, and the Serpent* (1988)
+### איליין פייגלס: *אדם, חוה והנחש* (1988)
 
-**Elaine Pagels**'s *Adam, Eve, and the Serpent* (1988) is the standard contemporary scholarly treatment of how the Adam-and-Eve narrative's interpretation has shaped Western thought across two millennia. Pagels traces the development of the Christian reading from the early Christian centuries through Augustine's foundational synthesis and into the medieval and modern traditions. Her principal argument is that Augustine's specific reading of Genesis 3 — the doctrine of original sin, the inheritance of guilt, the subjugation of women that the Genesis 3:16 text was used to justify — is a specific theological development that became dominant in Western Christianity but was not the only available reading and was contested by alternative early-Christian positions.
+*אדם, חוה והנחש* (1988) של **איליין פייגלס** הוא הטיפול המלומד בן זמננו הסטנדרטי באופן שבו עיצבה פרשנות נרטיב אדם-וחוה את המחשבה המערבית על פני שני מילניאלים.{{ cite(id="pagels-adam-eve-serpent", text="[8]", title="פייגלס, *אדם, חוה והנחש* (1988)") }} פייגלס מתחקה אחר התפתחות הקריאה הנוצרית מהמאות הנוצריות המוקדמות דרך סינתזת אוגוסטינוס היסודית ולתוך המסורות מימי הביניים והמודרניות. טיעונה העיקרי הוא שקריאתו הספציפית של אוגוסטינוס את בראשית ג — תורת החטא הקדמון, ירושת האשמה, הכפיפות של נשים שטקסט בראשית ג:16 שימש להצדקתה — היא פיתוח תיאולוגי ספציפי שהפך לדומיננטי בנצרות המערבית אך לא היה הקריאה היחידה הזמינה והותרס על ידי עמדות נוצריות-מוקדמות חלופיות.
 
-Pagels argues that pre-Augustinian Christian readings of the Adam-and-Eve narrative were substantially more diverse, with various Greek-tradition readings emphasizing the freedom and autonomy aspects of the narrative rather than the inherited-guilt aspects. The Augustinian synthesis became dominant for specific historical-political reasons (the late-antique Roman context, the Pelagian controversy, the broader Augustinian theological project) rather than because it was the only or best available reading.
+פייגלס טוענת שקריאות נוצריות שלפני אוגוסטינוס של נרטיב אדם-וחוה היו מגוונות מהותית יותר, כאשר קריאות מסורת-יוונית שונות מדגישות את היבטי החופש והאוטונומיה של הנרטיב ולא את היבטי האשמה-התורשתית. סינתזת אוגוסטינוס הפכה לדומיננטית מסיבות היסטוריות-פוליטיות ספציפיות (ההקשר הרומי של שלהי העת העתיקה, המחלוקת הפלגיאנית, הפרויקט התיאולוגי האוגוסטיני הרחב) ולא משום שהייתה הקריאה היחידה או הטובה ביותר הזמינה.
 
-The corpus engages Pagels's work as the most accessible contemporary scholarly treatment of the interpretive history of the Adam-and-Eve narrative. Pagels's analysis of how Augustine's specific theological synthesis became dominant despite alternative available readings is consistent with the corpus's own diagnosis: the Christian theological elaboration of the Adam-and-Eve material is a specific historical-theological development rather than a textually-given inheritance.
+הקורפוס עוסק בעבודת פייגלס כטיפול המלומד בן זמננו הנגיש ביותר בהיסטוריה הפרשנית של נרטיב אדם-וחוה. ניתוחה של פייגלס את האופן שבו הפכה סינתזת אוגוסטינוס הספציפית לדומיננטית למרות קריאות חלופיות זמינות עקבי עם האבחנה של הקורפוס עצמו: הפירוט התיאולוגי הנוצרי של חומר אדם-וחוה הוא פיתוח היסטורי-תיאולוגי ספציפי ולא ירושה נתונה-טקסטואלית.
 
-### Jewish and Christian feminist readings
+### קריאות פמיניסטיות יהודיות ונוצריות
 
-The late twentieth century saw substantial development of Jewish and Christian feminist readings of the Adam-and-Eve narrative, with several principal scholars warranting treatment.
+סוף המאה העשרים ראה פיתוח מהותי של קריאות פמיניסטיות יהודיות ונוצריות של נרטיב אדם-וחוה, עם כמה חוקרות עיקריות הראויות לטיפול.
 
-**Phyllis Trible**'s *God and the Rhetoric of Sexuality* (1978) developed an influential close reading of Genesis 2–3 that argued for substantial gender equality in the original Hebrew text, with the patriarchal interpretation being a later imposition rather than the text's own framing. Trible's reading of the Hebrew *ʿēzer kə-negdô* ("a helper fit for him") of Genesis 2:18 emphasizes the *ʿēzer* term's broader meaning ("strength, support") rather than the subordinationist sense often imported in translation; her reading of the *ṣēlāʿ* ("rib" / "side") emphasizes the parallel-equal-side meaning rather than the subordinate-derivative meaning.
+*אלוהים ורטוריקת המיניות* (1978) של **פיליס טריבל** פיתח קריאה צמודה משפיעה של בראשית ב–ג שטענה לשוויון מגדרי מהותי בטקסט העברי המקורי, כאשר הפרשנות הפטריארכלית היא כפייה מאוחרת ולא מיסגור הטקסט עצמו.{{ cite(id="trible-rhetoric-sexuality", text="[9]", title="טריבל, *אלוהים ורטוריקת המיניות* (1978)") }} קריאת טריבל את העברית *ʿēzer kə-negdô* (»עזר כנגדו«) של בראשית ב:18 מדגישה את המשמעות הרחבה של המונח *ʿēzer* (»כוח, תמיכה«) ולא את המובן הכפיפותי המיובא לעיתים בתרגום; קריאתה את ה-*ṣēlāʿ* (»צלע« / »צד«) מדגישה את המשמעות המקבילה-שווה-צד ולא את המשמעות הכפיפותית-נגזרת.
 
-**Carol Meyers**'s *Discovering Eve* (1988) developed the historical-anthropological reading of Eve as representing the agricultural-laboring woman of the Iron Age Israelite household, with the Genesis narrative reflecting the actual social conditions of women in early Israelite society rather than imposing a theological-ideological framework on them. Meyers's reading reframes the "curses" of Genesis 3:16 as descriptive accounts of the difficult conditions of agricultural-household women rather than as prescriptive theological pronouncements about gender hierarchy.
+*בגילוי חוה* (1988) של **קרול מאיירס** פיתח את הקריאה ההיסטורית-אנתרופולוגית של חוה כמייצגת את האישה החקלאית-עובדת של משק הבית הישראלי בתקופת הברזל, כאשר נרטיב בראשית משקף את התנאים החברתיים הממשיים של נשים בחברה הישראלית המוקדמת ולא כופה עליהן מסגרת תיאולוגית-אידיאולוגית.{{ cite(id="meyers-discovering-eve", text="[10]", title="מאיירס, *בגילוי חוה: נשים ישראליות עתיקות בהקשר* (1988)") }} קריאת מאיירס ממסגרת מחדש את »הקללות« של בראשית ג:16 כדיווחים תיאוריים של התנאים הקשים של נשים חקלאיות-משק-בית ולא כהכרזות תיאולוגיות מצוות על היררכיה מגדרית.
 
-**Judith Plaskow** and the broader Jewish feminist movement have developed substantial engagement with the Adam-and-Eve narrative, with particular attention to the Lilith tradition (treated below) as preserving alternative readings.
+**ג'ודית פלסקוב** והתנועה הפמיניסטית היהודית הרחבה פיתחו מעורבות מהותית עם נרטיב אדם-וחוה, עם תשומת לב מיוחדת למסורת לילית (מטופלת להלן) כשומרת קריאות חלופיות.
 
-The corpus engages this feminist scholarly tradition as substantive intellectual work. The framework's reading shares the feminist-tradition recognition that Eve is not uniquely culpable in the disclosure event (Pagels and Trible both arguing this on different grounds), and the framework's reading rejects the misogynistic interpretive tradition that has placed primary responsibility on Eve. The framework does not adopt the full feminist-theological apparatus (the corpus does not develop a gender-theological program comparable to the Christian feminist movement's) but registers substantial agreement on the specific point of Eve's not being uniquely culpable.
+הקורפוס עוסק במסורת המלומדת הפמיניסטית הזו כעבודה אינטלקטואלית מהותית. קריאת המסגרת חולקת את ההכרה של המסורת הפמיניסטית שחוה אינה אשמה באופן ייחודי באירוע הגילוי (פייגלס וטריבל שתיהן טוענות זאת על נימוקים שונים), וקריאת המסגרת דוחה את מסורת הפרשנות המיזוגינית שהציבה את האחריות העיקרית על חוה. המסגרת אינה מאמצת את מלוא המנגנון הפמיניסטי-תיאולוגי (הקורפוס אינו מפתח תוכנית מגדרית-תיאולוגית בת-השוואה לתנועה הפמיניסטית הנוצרית) אך רושמת הסכמה מהותית בנקודה הספציפית של אי-אשמתה הייחודית של חוה.
 
-### The Lilith tradition
+### מסורת לילית
 
-The **Lilith** tradition warrants treatment as a substantive interpretive engagement with the Adam-and-Eve material. The principal texts:
+מסורת **לילית** ראויה לטיפול כמעורבות פרשנית מהותית בחומר אדם-וחוה. הטקסטים העיקריים:
 
-The *Alphabet of Ben Sira* (c. 8th–10th century CE) is the foundational text for the Lilith narrative. The text, a medieval Jewish satirical compilation, presents Lilith as Adam's first wife, created equally with him from the same earth, who refused to submit to Adam's sexual authority and pronounced the Tetragrammaton to escape from Eden. Lilith is subsequently associated with various demonic activities (particularly the killing of newborn infants) in subsequent Jewish folklore.
+*אלפא ביתא דבן סירא* (בסביבות המאה ה-8–10 לספירה) הוא טקסט היסוד לנרטיב לילית.{{ cite(id="alphabet-of-ben-sira", text="[11]", title="*אלפא ביתא דבן סירא* (בסביבות המאה ה-8–10 לספירה) — נרטיב לילית-כאישה-ראשונה היסודי") }} הטקסט, קומפילציה יהודית סאטירית מימי הביניים, מציג את לילית כאשתו הראשונה של אדם, שנוצרה שווה עמו מאותה אדמה, שסירבה להיכנע לסמכות המינית של אדם והגתה את שם המפורש כדי לברוח מעדן. לילית מקושרת לאחר מכן לפעילויות דמוניות שונות (בעיקר הריגת תינוקות שזה עתה נולדו) בפולקלור היהודי שלאחר מכן.
 
-The *Zohar* and Lurianic Kabbalah develop Lilith as a demonic figure within the broader Kabbalistic cosmology, with Lilith as the consort of Samael and the leader of the demonic *sitra ahra* ("other side"). The Kabbalistic Lilith is thoroughly incorporated into the broader medieval Jewish demonology.
+הזוהר והקבלה הלוריאנית מפתחים את לילית כדמות דמונית בתוך הקוסמולוגיה הקבלית הרחבה, כאשר לילית היא בת-זוגו של סמאל ומנהיגת ה*סטרא אחרא* (»הצד האחר«) הדמוני.{{ cite(id="zohar-pritzker", text="[12]", title="הזוהר, מהדורת פריצקר (מאט ואחרים, 2003–2017)") }} לילית הקבלית משולבת ביסודיות בדמונולוגיה היהודית הרחבה מימי הביניים.
 
-Modern Jewish feminist writers (principally **Judith Plaskow**, in her 1972 essay "The Coming of Lilith") have reclaimed the Lilith figure as a positive symbol of feminine autonomy and resistance to patriarchy. The contemporary Jewish feminist Lilith is read as the figure who refused to submit to unjust authority and chose freedom over compliance — a reading substantially distinct from the medieval Jewish demonological figure.
+כותבות יהודיות פמיניסטיות מודרניות (בעיקר **ג'ודית פלסקוב**, במאמרה מ-1972 »בוא לילית«) שיקמו את דמות לילית כסמל חיובי של אוטונומיה נשית והתנגדות לפטריארכיה.{{ cite(id="plaskow-standing-again-sinai", text="[13]", title="פלסקוב, *עומדים שוב בסיני* (1990) ו'בוא לילית' (1972)") }} לילית הפמיניסטית היהודית בת זמננו נקראת כדמות שסירבה להיכנע לסמכות בלתי-צודקת ובחרה בחופש על פני צייתנות — קריאה מובחנת מהותית מהדמות הדמונולוגית היהודית מימי הביניים.
 
-The corpus does not adopt the Lilith tradition as part of the framework's reading. The Raëlian source material does not include any first-wife-prior-to-Eve figure, and the corpus reads the Lilith tradition as a medieval Jewish theological-folkloric elaboration rather than as a preservation of accurate operational memory. The contemporary feminist reclamation of Lilith as a positive symbol is registered as a substantive cultural-religious development but is not adopted as part of the framework's reading of the Adam-and-Eve material.
+הקורפוס אינו מאמץ את מסורת לילית כחלק מקריאת המסגרת. חומר המקור הראליאני אינו כולל שום דמות אישה-ראשונה-לפני-חוה, והקורפוס קורא את מסורת לילית כפירוט תיאולוגי-פולקלורי יהודי מימי הביניים ולא כשימור של זיכרון תפעולי מדויק. השיקום הפמיניסטי בן זמננו של לילית כסמל חיובי נרשם כפיתוח תרבותי-דתי מהותי אך אינו מאומץ כחלק מקריאת המסגרת של חומר אדם-וחוה.
 
-### Mauro Biglino on Adam and Eve
+### מאורו ביגלינו על אדם וחוה
 
-**Mauro Biglino**'s strict-translational engagement with the Adam-and-Eve material is developed across his works, with the principal claims:
+מעורבותו התרגומית-קפדנית של **מאורו ביגלינו** עם חומר אדם-וחוה מפותחת על פני יצירותיו,{{ cite(id="the-naked-bible", text="[14]", title="ביגלינו וקאטאנאו, *התנ״ך העירום* (2022)") }} עם הטענות העיקריות:
 
-- The "dust of the ground" formation language is read literally as biological synthesis from terrestrial materials, consistent with the framework's reading
-- The "rib" / *ṣēlāʿ* language is read as cellular extraction (Biglino specifically suggests cloning), consistent with the framework's reading on this point
-- Cain is read as the son of the Serpent rather than of Adam — the "lineage of the serpent" reading that the corpus rejects (treated more fully in the [Serpent](../serpent/) entry's modern-reinterpretations section)
-- The Genesis 5 patriarchal lifespans are read as substantively accurate, consistent with the framework's reading
+- שפת יצירת »עפר מן האדמה« נקראת מילולית כסינתזה ביולוגית מחומרים ארציים, עקבי עם קריאת המסגרת
+- שפת ה»צלע« / *ṣēlāʿ* נקראת כהפקה תאית (ביגלינו מציע ספציפית שכפול), עקבי עם קריאת המסגרת בנקודה זו
+- קין נקרא כבן הנחש ולא של אדם — קריאת »שושלת הנחש« שהקורפוס דוחה (מטופלת באופן מלא יותר בקטע הפרשנויות-המודרניות של ערך [הנחש](../serpent/))
+- אורכי החיים הפטריארכליים של בראשית ה נקראים כמדויקים מהותית, עקבי עם קריאת המסגרת
 
-The framework's reading is broadly aligned with Biglino's reading on the basic interpretive direction (Adam and Eve as synthesized humans rather than as mythological figures), with the substantive disagreement being the Cain-as-serpent-lineage reading. The detailed treatment of this disagreement lives in the [Serpent](../serpent/) entry.
+קריאת המסגרת מתיישבת רחבה עם קריאת ביגלינו בכיוון הפרשני הבסיסי (אדם וחוה כבני אדם מסונתזים ולא כדמויות מיתולוגיות), כאשר אי-ההסכמה המהותית היא קריאת קין-כשושלת-הנחש. הטיפול המפורט באי-הסכמה זו חי בערך [הנחש](../serpent/).
 
-### Latter-day Saint theology: Adam as Michael
+### תיאולוגיה קדושה-של-אחרית-הימים: אדם כמיכאל
 
-The **Latter-day Saint (Mormon)** tradition's identification of Adam with the archangel Michael, with the figure being central to Latter-day Saint theology under the title "Adam-ondi-Ahman," warrants registration. The doctrine was developed by Joseph Smith and elaborated in subsequent Latter-day Saint theological literature including Brigham Young's specific elaborations (the controversial "Adam-God" doctrine briefly held by Young but subsequently rejected by mainstream Latter-day Saint theology). The contemporary mainstream Latter-day Saint position holds that Adam was the archangel Michael who took on physical form to become the first human — a position substantially distinct from the corpus's reading of Adam as a synthesized human created by the Israel team.
+זיהוי המסורת **הקדושה-של-אחרית-הימים (המורמונית)** את אדם עם מיכאל המלאך, כאשר הדמות מרכזית לתיאולוגיה הקדושה-של-אחרית-הימים תחת הכותרת »אדם-אונדי-אהמן«, ראוי לרישום. התורה פותחה על ידי ג'וזף סמית' ופורטה בספרות התיאולוגית הקדושה-של-אחרית-הימים שלאחר מכן לרבות פירוטיו הספציפיים של בריגהאם יאנג (תורת »אדם-אלוהים« השנויה במחלוקת שהוחזקה לזמן קצר על ידי יאנג אך נדחתה לאחר מכן על ידי התיאולוגיה הקדושה-של-אחרית-הימים המיינסטרימית).{{ cite(id="doctrine-and-covenants", text="[24]", title="סמית', *תורה ובריתות* — תורת אדם-כמיכאל (אדם-אונדי-אהמן)") }} העמדה הקדושה-של-אחרית-הימים המיינסטרימית בת זמננו גורסת שאדם היה מיכאל המלאך שלבש צורה פיזית כדי להפוך לאדם הראשון — עמדה מובחנת מהותית מקריאת הקורפוס של אדם כאדם מסונתז שנוצר על ידי צוות ישראל.
 
-The corpus does not adopt the Adam-as-Michael identification. The Raëlian source material identifies Joseph Smith as one of the prophets of the alliance's broader prophetic tradition (the Latter-day Saint movement is read as one of the alliance's specific contact missions in the post-Aries period), but the specific Adam-as-Michael doctrine is read as a theological development of the Restorationist tradition rather than as accurate operational content.
+הקורפוס אינו מאמץ את זיהוי אדם-כמיכאל. חומר המקור הראליאני מזהה את ג'וזף סמית' כאחד מנביאי המסורת הנבואית הרחבה של הברית (התנועה הקדושה-של-אחרית-הימים נקראת כאחת ממשימות המגע הספציפיות של הברית בתקופה שלאחר עידן הטלה), אך תורת אדם-כמיכאל הספציפית נקראת כפיתוח תיאולוגי של המסורת הרסטורציוניסטית ולא כתוכן תפעולי מדויק.
 
-### Sendy and Wallis on Adam and Eve
+### סנדי וווליס על אדם וחוה
 
-**Jean Sendy** and **Paul Anthony Wallis** both develop readings of Adam and Eve substantially aligned with the corpus's reading. Sendy's *Ces dieux qui firent le ciel et la terre* (1969) provides the principal scholarly antecedent of the corpus's reading, treating Adam and Eve as the first humans of the Israel-team lineage and reading the Genesis narrative as preserving substantive operational content. Wallis's *The Eden Conspiracy* (2024) provides accessible recent treatment, with detailed engagement with the Genesis 2–3 material from an Elohim-pluralist perspective broadly compatible with the corpus's reading.
+**ז'אן סנדי** ו**פול אנתוני ווליס** שניהם מפתחים קריאות של אדם וחוה המתיישבות מהותית עם קריאת הקורפוס. *Ces dieux qui firent le ciel et la terre* (1969) של סנדי מספק את האנטצדנט המלומד העיקרי של קריאת הקורפוס, מתייחס לאדם וחוה כבני האדם הראשונים של שושלת צוות ישראל וקורא את נרטיב בראשית כשומר תוכן תפעולי מהותי.{{ cite(id="those-gods-who-made-heaven-and-earth", text="[15]", title="סנדי, *Ces dieux qui firent le ciel et la terre* (1969)") }} *The Eden Conspiracy* (2024) של ווליס מספק טיפול עדכני נגיש, עם מעורבות מפורטת בחומר בראשית ב–ג מנקודת מבט פלורליסטית-אלוהים תואמת רחבה לקריאת הקורפוס.{{ cite(id="the-eden-conspiracy", text="[16]", title="ווליס, *The Eden Conspiracy* (2024)") }}
 
-### The framework's relationship to the broader landscape
+### יחס המסגרת לנוף הרחב
 
-The corpus's reading is positioned within this landscape as follows: rejecting the Augustinian original-sin doctrine; aligned with Pagels's analysis of the Augustinian theological synthesis as a specific historical development; aligned with the Jewish and Christian feminist tradition's recognition that Eve is not uniquely culpable; respectful of the Lilith tradition's interpretive engagement while not adopting the underlying narrative; partially aligned with Biglino's reading of Adam and Eve as synthesized humans while disagreeing on the Cain-as-serpent-lineage reading; aligned with Sendy's and Wallis's readings as the principal scholarly antecedents of the corpus's reading; non-aligned with the Latter-day Saint Adam-as-Michael identification. The corpus's reading is its own — distinct from each of these — but engages each substantively.
+קריאת הקורפוס ממוקמת בתוך נוף זה כדלקמן: דוחה את תורת החטא הקדמון האוגוסטינית; מתיישבת עם ניתוחה של פייגלס את הסינתזה התיאולוגית האוגוסטינית כפיתוח היסטורי ספציפי; מתיישבת עם הכרת המסורת הפמיניסטית היהודית והנוצרית שחוה אינה אשמה באופן ייחודי; מכבדת את המעורבות הפרשנית של מסורת לילית מבלי לאמץ את הנרטיב הבסיסי; מתיישבת חלקית עם קריאת ביגלינו את אדם וחוה כבני אדם מסונתזים תוך אי-הסכמה על קריאת קין-כשושלת-הנחש; מתיישבת עם קריאות סנדי וווליס כאנטצדנטים המלומדים העיקריים של קריאת הקורפוס; אינה מתיישבת עם זיהוי אדם-כמיכאל הקדוש-של-אחרית-הימים. קריאת הקורפוס היא משלה — מובחנת מכל אחת מאלה — אך עוסקת בכל אחת מהותית.
 
-## Comparative observations
+## תצפיות השוואתיות
 
-First-human creation narratives are substantially cross-cultural, with parallel founding-figure traditions appearing across most major cultural-religious contexts. The corpus reads this cross-cultural pattern as evidence of the broader operational reality the framework describes — multiple cultural traditions preserving fragmentary memory of distinct creator-team work, with each tradition's preserved narrative reflecting the specific cultural-religious framing of the lineage that preserved it.
+נרטיבי בריאת בני-אדם-ראשונים הם חוצי-תרבות מהותית, עם מסורות דמויות-מייסדים מקבילות המופיעות על פני רוב ההקשרים התרבותיים-דתיים העיקריים. הקורפוס קורא דפוס חוצה-תרבות זה כראיה למציאות התפעולית הרחבה שהמסגרת מתארת — מסורות תרבותיות מרובות השומרות זיכרון מקוטע של עבודת צוותי-בריאה מובחנים, כאשר הנרטיב השמור של כל מסורת משקף את המיסגור התרבותי-דתי הספציפי של השושלת ששמרה אותו.
 
-### Sumerian Adapa and Enkidu
+### אדפה ואנכידו השומריים
 
-The Sumerian-Akkadian tradition preserves several first-human / early-human figures with substantial parallels to the Adam-and-Eve narrative.
+המסורת השומרית-אכדית שומרת כמה דמויות בני-אדם-ראשונים / אדם-מוקדם עם הקבלות מהותיות לנרטיב אדם-וחוה.
 
-**Adapa** is the figure of the Sumerian *Adapa myth* (preserved in cuneiform tablets from the late second millennium BCE, with possible earlier oral antecedents). Adapa is the first man, created by Ea (Enki) at the city of Eridu, given wisdom and skill but not given immortality. The myth's central episode involves Adapa being summoned to the sky-god An's court after breaking the wing of the south wind; offered the food and water of immortality, Adapa refuses on Ea's specific advice (Ea having warned him that the food would be poison), and thereby loses the opportunity for eternal life. The myth concludes with Adapa's return to Earth as a mortal-but-wise figure.
+**אדפה** הוא דמות *מיתוס אדפה* השומרי (שמור בלוחות כתב-יתדות מסוף האלף השני לפנה״ס, עם אנטצדנטים בעל-פה אפשריים מוקדמים יותר).{{ cite(id="before-the-muses", text="[17]", title="פוסטר, *לפני המוזות* (2005) — מיתוס אדפה והקורפוס האכדי הרחב") }} אדפה הוא האדם הראשון, שנוצר על ידי אאה (אנקי) בעיר ארידו, ניתנו לו חוכמה ומיומנות אך לא ניתנה לו אלמותיות. האפיזודה המרכזית של המיתוס מערבת את אדפה המוזמן לחצר אל-השמיים אנו לאחר ששבר את כנף רוח הדרום; מוצעים לו מזון ומים של אלמותיות, אדפה מסרב על פי עצת אאה הספציפית (אאה שהזהיר אותו שהמזון יהיה רעל), ובכך מאבד את ההזדמנות לחיי נצח. המיתוס מסתיים בשובו של אדפה לכדור הארץ כדמות בת-תמותה-אך-חכמה.
 
-The structural parallels to the Adam-and-Eve narrative are substantial:
+ההקבלות המבניות לנרטיב אדם-וחוה מהותיות:
 
-- A first man created by a divine figure (Ea / Yahweh Elohim)
-- The acquisition of wisdom but not immortality (the parallel to the Tree of Knowledge / Tree of Life distinction in Genesis)
-- A specific encounter with the divine authority involving the question of immortality
-- A loss of the opportunity for eternal life through specific choices
+- אדם ראשון שנוצר על ידי דמות אלוהית (אאה / יהוה אלוהים)
+- רכישת חוכמה אך לא אלמותיות (ההקבלה להבחנת עץ הדעת / עץ החיים בבראשית)
+- מפגש ספציפי עם הסמכות האלוהית המערב את שאלת האלמותיות
+- אובדן ההזדמנות לחיי נצח באמצעות בחירות ספציפיות
 
-The corpus reads the Adapa myth as preserving fragmentary memory of the Eden events as recorded in another creator team's lineage — likely the team that worked in the broader Mesopotamian region, with the Sumerian tradition preserving the narrative through a different cultural-mythological framework than the Hebrew tradition's. The Adapa parallel is therefore not a direct source for the Genesis Adam narrative; both are parallel preservations of the underlying operational reality.
+הקורפוס קורא את מיתוס אדפה כשומר זיכרון מקוטע של אירועי עדן כפי שנרשמו בשושלת צוות בריאה אחר — ככל הנראה הצוות שעבד באזור המסופוטמי הרחב, כאשר המסורת השומרית שומרת את הנרטיב באמצעות מסגרת מיתולוגית-תרבותית שונה מזו של המסורת העברית. הקבלת אדפה אינה אפוא מקור ישיר לנרטיב אדם של בראשית; שניהם שימורים מקבילים של המציאות התפעולית הבסיסית.
 
-**Enkidu** is the figure of the *Epic of Gilgamesh* — a wild man created by the goddess Aruru at Anu's command, fashioned from clay, brought to civilization through his sexual encounter with the prostitute Shamhat, and becoming Gilgamesh's companion. The Enkidu narrative includes substantial parallels to the Eve narrative (the woman-mediated transition from primordial wildness to civilized awareness, the loss of innocence through specific sexual-cognitive experiences) that have been substantially noted in comparative Near Eastern scholarship.
+**אנכידו** הוא דמות *אפוס גלגמש* — איש פרא שנוצר על ידי האלה ארורו בפקודת אנו, נוצר מחימר, מובא לציוויליזציה באמצעות מפגשו המיני עם הזונה שמחת, והופך לחברו של גלגמש.{{ cite(id="george-epic-of-gilgamesh", text="[18]", title="ג'ורג' (מתרגם), *אפוס גלגמש* (1999) — נרטיב אנכידו") }} נרטיב אנכידו כולל הקבלות מהותיות לנרטיב חוה (המעבר המתווך-אישה מפראות קדמונית למודעות תרבותית, אובדן התמימות באמצעות חוויות מיניות-קוגניטיביות ספציפיות) שצוינו מהותית במחקר המזרח-קרוב ההשוואתי.
 
-The corpus reads Enkidu as preserving fragmentary memory of similar operational events to those preserved in the Genesis narrative — the early human experience of education, civilization, and cognitive development — with the specific Enkidu figure being a literary-mythological construction of the Mesopotamian tradition rather than a direct historical referent.
+הקורפוס קורא את אנכידו כשומר זיכרון מקוטע של אירועים תפעוליים דומים לאלה השמורים בנרטיב בראשית — חוויית האדם המוקדם של חינוך, ציוויליזציה, והתפתחות קוגניטיבית — כאשר דמות אנכידו הספציפית היא בניין ספרותי-מיתולוגי של המסורת המסופוטמית ולא מסומן היסטורי ישיר.
 
-### Egyptian creation traditions
+### מסורות בריאה מצריות
 
-The Egyptian tradition preserves multiple first-human creation narratives across its long pharaonic history.
+המסורת המצרית שומרת נרטיבי בריאת-בני-אדם-ראשונים מרובים על פני ההיסטוריה הפרעונית הארוכה שלה.
 
-The **Atum tradition** holds that Atum (the primordial creator god of Heliopolis) created the first humans through self-generation, with various subsequent traditions elaborating the narrative.
+**מסורת אטום** גורסת שאטום (אל הבורא הקדמון של הליופוליס) יצר את בני האדם הראשונים באמצעות הולדה-עצמית, עם מסורות שונות שלאחר מכן המפרטות את הנרטיב.
 
-The **Khnum tradition** holds that Khnum, the ram-headed creator god, formed humans on a potter's wheel from clay — a substantial parallel to the Genesis 2:7 "dust of the ground" formation language. The Khnum-as-potter iconography is preserved in numerous Egyptian temple reliefs (notably at Esna and Dendera) showing the god forming humans on his wheel.
+**מסורת ח'נום** גורסת שח'נום, אל הבורא בעל ראש האיל, יצר בני אדם על אובניים מחימר — הקבלה מהותית לשפת יצירת »עפר מן האדמה« של בראשית ב:7. איקונוגרפיית ח'נום-כקדר שמורה בתבליטי מקדש מצריים רבים (בולטים באסנא ובדנדרה) המראים את האל יוצר בני אדם על אובנייו.{{ cite(id="allen-genesis-in-egypt", text="[19]", title="אלן, *בראשית במצרים: הפילוסופיה של דיווחי הבריאה המצריים העתיקים* (1988)") }}
 
-The **Memphite Theology** (preserved on the Shabaka Stone, c. 8th century BCE, but reflecting older theological tradition) presents Ptah, the Memphite creator god, creating humans through divine speech — a parallel to Genesis 1's creation through speech.
+**התיאולוגיה הממפיטית** (שמורה על אבן שבקה, בסביבות המאה ה-8 לפנה״ס, אך משקפת מסורת תיאולוגית עתיקה יותר) מציגה את פתח, אל הבורא הממפיטי, יוצר בני אדם באמצעות דיבור אלוהי — הקבלה ליצירת בראשית א באמצעות דיבור.
 
-The corpus reads the Egyptian first-human traditions as preserving fragmentary memory of the African-region creator team's work, with the specific cultural-mythological framing reflecting the Egyptian tradition's distinctive theological apparatus. The substantial parallels to the Hebrew Genesis narrative (particularly the Khnum-as-potter parallel to the dust-of-the-ground formation) are read as evidence of the underlying common operational reality the various cultural traditions preserve in their distinctive forms.
+הקורפוס קורא את מסורות בני-האדם-הראשונים המצריות כשומרות זיכרון מקוטע של עבודת צוות הבריאה של האזור האפריקאי, כאשר המיסגור התרבותי-מיתולוגי הספציפי משקף את המנגנון התיאולוגי המובחן של המסורת המצרית. ההקבלות המהותיות לנרטיב בראשית העברי (בעיקר הקבלת ח'נום-כקדר ליצירת עפר-מן-האדמה) נקראות כראיה למציאות התפעולית המשותפת הבסיסית שהמסורות התרבותיות השונות שומרות בצורותיהן המובחנות.
 
-### Hindu Manu
+### מאנו ההינדי
 
-The Hindu tradition preserves the figure of **Manu** as the first man and the progenitor of humanity. The principal Manu traditions:
+המסורת ההינדית שומרת את דמות **מאנו** כאדם הראשון וכאב-מייסד האנושות. מסורות מאנו העיקריות:
 
-**Manu Vaivasvata** ("Manu, son of Vivasvat") is the figure of the *Shatapatha Brahmana* (c. 9th–7th century BCE) and the *Mahabharata* who survives the great flood (the Indian flood narrative paralleling the Mesopotamian and Hebrew flood traditions) and becomes the progenitor of post-flood humanity. The Manu-Vaivasvata flood narrative includes the figure of a fish (avatar of Vishnu in later tradition) who warns Manu of the impending flood and provides for his survival.
+**מאנו ויוסואטה** (»מאנו, בנו של ויווסואט«) היא דמות *Shatapatha Brahmana* (בסביבות המאה ה-9–7 לפנה״ס) וה-*Mahabharata* ששורד את המבול הגדול (נרטיב המבול ההודי המקביל למסורות המבול המסופוטמיות והעבריות) והופך לאב-מייסד האנושות שלאחר המבול.{{ cite(id="doniger-hindu-myths", text="[20]", title="דוניגר, *מיתוסים הינדיים: ספר מקור* (1975) — מסורות מאנו האדם-הראשון והמבול") }} נרטיב המבול של מאנו-ויוסואטה כולל את דמות דג (אווטאר של וישנו במסורת מאוחרת יותר) המזהיר את מאנו מפני המבול הקרב ודואג להישרדותו.
 
-The **Manu Smriti** ("Laws of Manu," c. 2nd century BCE – 3rd century CE) is the principal Hindu legal-religious text attributed to Manu, with the text providing the foundational legal-social framework of classical Hindu civilization.
+ה-**Manu Smriti** (»חוקי מאנו«, בסביבות המאה ה-2 לפנה״ס – המאה ה-3 לספירה) הוא הטקסט המשפטי-דתי ההינדי העיקרי המיוחס למאנו, כאשר הטקסט מספק את המסגרת המשפטית-חברתית היסודית של הציוויליזציה ההינדית הקלאסית.
 
-The Manu tradition's structural parallels to the Adam-and-Eve narrative include:
+ההקבלות המבניות של מסורת מאנו לנרטיב אדם-וחוה כוללות:
 
-- The figure of the first man as the progenitor of subsequent humanity
-- The specific narrative of the first man's relationship to the gods / divine authority
-- The legal-social codification associated with the figure (paralleling the Hebrew tradition's later Mosaic codification)
+- דמות האדם הראשון כאב-מייסד האנושות שלאחר מכן
+- הנרטיב הספציפי של יחס האדם הראשון לאלים / לסמכות האלוהית
+- הקודיפיקציה המשפטית-חברתית המקושרת לדמות (מקבילה לקודיפיקציה המוסאית המאוחרת של המסורת העברית)
 
-The corpus reads the Manu tradition as preserving fragmentary memory of the Indian-subcontinent creator team's work, with the specific cultural-religious framing reflecting the Hindu tradition's distinctive theological apparatus. The Manu-Vaivasvata flood narrative's parallel to the Hebrew Noah narrative is treated more fully in the [Great Flood](../great-flood/) entry (when written).
+הקורפוס קורא את מסורת מאנו כשומרת זיכרון מקוטע של עבודת צוות הבריאה של תת-היבשת ההודית, כאשר המיסגור התרבותי-דתי הספציפי משקף את המנגנון התיאולוגי המובחן של המסורת ההינדית. הקבלת נרטיב המבול של מאנו-ויוסואטה לנרטיב נח העברי מטופלת באופן מלא יותר בערך [המבול הגדול](../great-flood/) (כשייכתב).
 
-### Chinese Pangu and Nüwa
+### פאנגו ונו-ווא הסיניים
 
-The Chinese tradition preserves multiple early-cosmic and first-human figures.
+המסורת הסינית שומרת דמויות קוסמיות-מוקדמות ובני-אדם-ראשונים מרובות.
 
-**Pangu** (盤古) is the primordial cosmic figure who, in the *Sanwu Liji* (3rd century CE) and subsequent traditions, emerges from the cosmic egg and separates yin and yang to create the structured cosmos. Pangu's body, upon his death, becomes the various features of the cosmos (his eyes becoming the sun and moon, his breath becoming the wind, his blood becoming the rivers, etc.).
+**פאנגו** (盤古) הוא הדמות הקוסמית הקדמונית אשר, ב-*Sanwu Liji* (המאה ה-3 לספירה) ובמסורות שלאחר מכן, צומחת מן הביצה הקוסמית ומפרידה בין יין ויאנג ליצירת הקוסמוס המובנה. גופו של פאנגו, במותו, הופך לתכונות השונות של הקוסמוס (עיניו הופכות לשמש ולירח, נשימתו הופכת לרוח, דמו הופך לנהרות וכו').
 
-**Nüwa** (女媧) is the goddess who creates humans from clay or yellow earth, with the principal texts being the *Huainanzi* (2nd century BCE) and various subsequent traditions. Nüwa's first humans were formed individually by her hands; subsequent humans were formed more rapidly by her dragging a rope through clay, with the result that the first individually-formed humans were of higher status than the subsequent rapidly-formed humans (the social-hierarchical justification being part of the narrative).
+**נו-ווא** (女媧) היא האלה היוצרת בני אדם מחימר או מאדמה צהובה, כאשר הטקסטים העיקריים הם ה-*Huainanzi* (המאה ה-2 לפנה״ס) ומסורות שונות שלאחר מכן.{{ cite(id="birrell-chinese-mythology", text="[21]", title="בירל, *מיתולוגיה סינית: מבוא* (1993) — קוסמוגוניית פאנגו ויצירת-החימר של נו-ווא") }} בני האדם הראשונים של נו-ווא נוצרו אחד-אחד בידיה; בני אדם שלאחר מכן נוצרו מהר יותר על ידי גרירת חבל דרך חימר, עם התוצאה שבני האדם הראשונים שנוצרו אחד-אחד היו במעמד גבוה יותר מבני האדם שלאחר מכן שנוצרו מהר (ההצדקה החברתית-היררכית היא חלק מהנרטיב).
 
-The corpus reads the Chinese first-human traditions as preserving fragmentary memory of the East Asian creator team's work, with the specific cultural-mythological framing reflecting the Chinese tradition's distinctive cosmological apparatus (the Pangu-cosmic-body cosmogony, the Nüwa-clay-formation parallel to Genesis 2:7's dust-of-the-ground formation).
+הקורפוס קורא את מסורות בני-האדם-הראשונים הסיניות כשומרות זיכרון מקוטע של עבודת צוות הבריאה של מזרח אסיה, כאשר המיסגור התרבותי-מיתולוגי הספציפי משקף את המנגנון הקוסמולוגי המובחן של המסורת הסינית (קוסמוגוניית גוף-פאנגו-הקוסמי, הקבלת יצירת-החימר של נו-ווא ליצירת עפר-מן-האדמה של בראשית ב:7).
 
-### Norse Ask and Embla
+### אסק ואמבלה הנורדיים
 
-The Norse tradition preserves the figures of **Ask** ("Ash") and **Embla** ("Elm" or possibly "Vine") as the first humans, created by the Aesir gods (Odin, Vili, and Vé in the *Prose Edda*; alternatively Odin, Hoenir, and Lóðurr in the *Poetic Edda*) from trees or wooden logs found on the seashore. The gods give the first humans breath, intelligence, and the various human capacities, with Ask and Embla becoming the progenitors of subsequent humanity.
+המסורת הנורדית שומרת את דמויות **אסק** (»מילה«) ו**אמבלה** (»בוקיצה« או אולי »גפן«) כבני האדם הראשונים, שנוצרו על ידי אלי האסיר (אודין, וילי וֵוה ב-*אדה בפרוזה*; לחלופין אודין, הוניר ולודור ב-*אדה הפיוטית*) מעצים או מבולי עץ שנמצאו על שפת הים.{{ cite(id="lindow-norse-mythology", text="[22]", title="לינדאו, *מיתולוגיה נורדית* (2001) — נרטיב אסק-ואמבלה בני האדם הראשונים") }} האלים נותנים לבני האדם הראשונים נשימה, אינטליגנציה, והיכולות האנושיות השונות, כאשר אסק ואמבלה הופכים לאבות-מייסדי האנושות שלאחר מכן.
 
-The structural parallels to the Adam-and-Eve narrative include:
+ההקבלות המבניות לנרטיב אדם-וחוה כוללות:
 
-- A first pair (male and female) created jointly by divine figures
-- The specific giving of breath / life-force to inanimate material to produce living humans (parallel to Genesis 2:7's *nišmaṯ ḥayyîm*)
-- The progenitor role for subsequent humanity
+- זוג ראשון (זכר ונקבה) שנוצר במשותף על ידי דמויות אלוהיות
+- מתן הנשימה / כוח-החיים הספציפי לחומר דומם להפקת בני אדם חיים (מקביל ל-*nišmaṯ ḥayyîm* של בראשית ב:7)
+- תפקיד אב-מייסד לאנושות שלאחר מכן
 
-The corpus reads the Norse Ask-and-Embla tradition as preserving fragmentary memory of the Northern European creator team's work, with the wooden-formation specific cultural framing reflecting the Northern European tradition's distinctive natural-environment context.
+הקורפוס קורא את מסורת אסק-ואמבלה הנורדית כשומרת זיכרון מקוטע של עבודת צוות הבריאה של צפון אירופה, כאשר המיסגור התרבותי הספציפי של יצירת-עץ משקף את ההקשר הסביבתי-טבעי המובחן של המסורת הצפון-אירופית.
 
-### Indigenous American first-human traditions
+### מסורות בני-אדם-ראשונים אינדיאניות
 
-Various indigenous American traditions preserve first-human creation narratives with substantial structural parallels to the Adam-and-Eve material.
+מסורות אינדיאניות שונות שומרות נרטיבי בריאת-בני-אדם-ראשונים עם הקבלות מבניות מהותיות לחומר אדם-וחוה.
 
-The **Maya Popol Vuh** (preserved in 16th-century Quiché Maya manuscripts but reflecting earlier oral traditions) records multiple first-human creation attempts by the gods — humans of mud (failed), humans of wood (failed), and humans of corn (successful). The corn-humans are the progenitors of subsequent Maya humanity.
+ה-**Popol Vuh המאיה** (שמור בכתבי-יד מאיה קיצ'ה מהמאה ה-16 אך משקף מסורות בעל-פה מוקדמות יותר) רושם ניסיונות בריאת-בני-אדם-ראשונים מרובים על ידי האלים — בני אדם מבוץ (נכשלו), בני אדם מעץ (נכשלו), ובני אדם מתירס (הצליחו).{{ cite(id="tedlock-popol-vuh", text="[23]", title="טדלוק (מתרגם), *Popol Vuh: ספר המאיה של שחר החיים* (1996)") }} בני-אדם-התירס הם אבות-המייסדים של אנושות המאיה שלאחר מכן.
 
-Various **North American indigenous traditions** preserve first-human narratives, with substantial variation across cultural contexts. The **Iroquois "Sky Woman"** narrative includes the first woman who falls from the sky world and becomes the matriarchal progenitor of subsequent humanity. Various **Plains tribes' traditions** preserve first-human narratives with specific cultural-mythological framings.
+מסורות **אינדיאניות צפון-אמריקאיות** שונות שומרות נרטיבי בני-אדם-ראשונים, עם שונות מהותית על פני ההקשרים התרבותיים. נרטיב **»אישת השמיים« האירוקואי** כולל את האישה הראשונה הנופלת מעולם השמיים והופכת לאם-מייסדת האנושות שלאחר מכן. מסורות **שבטי המישורים** השונות שומרות נרטיבי בני-אדם-ראשונים עם מיסגורים תרבותיים-מיתולוגיים ספציפיים.
 
-The corpus reads the indigenous American first-human traditions as preserving fragmentary memory of the American-continent creator teams' work — likely two or more distinct teams given the geographical scale and the substantial cultural-linguistic diversity of the indigenous American populations. The specific cultural-mythological framings reflect the distinctive contexts of each tradition's preservation.
+הקורפוס קורא את מסורות בני-האדם-הראשונים האינדיאניות כשומרות זיכרון מקוטע של עבודת צוותי הבריאה של היבשת האמריקאית — ככל הנראה שני צוותים או יותר בהינתן קנה המידה הגיאוגרפי והגיוון התרבותי-לשוני המהותי של האוכלוסיות האינדיאניות. המיסגורים התרבותיים-מיתולוגיים הספציפיים משקפים את ההקשרים המובחנים של שימור כל מסורת.
 
-### The convergence
+### ההתכנסות
 
-The corpus's working position on the comparative-first-human question is that the global recurrence of first-human creation narratives across cultures is meaningful as evidence of broader operational patterns. The seven creator teams' parallel work across the antediluvian supercontinent produced parallel first-human pairs in distinct lineages, with each lineage's subsequent cultural-religious tradition preserving fragmentary memory of its specific founding event in distinctive cultural-mythological forms. Adam and Eve are the first humans of one specific lineage — the Israel-team lineage — with their narrative preserved in the Hebrew tradition. Adapa, Manu, Pangu, Nüwa, Ask, Embla, and the various indigenous American first-human figures are parallel first-humans of other lineages, with their narratives preserved in their respective cultural traditions.
+עמדת העבודה של הקורפוס בשאלת בני-האדם-הראשונים ההשוואתית היא שההישנות הגלובלית של נרטיבי בריאת-בני-אדם-ראשונים על פני תרבויות משמעותית כראיה לדפוסים תפעוליים רחבים. עבודת שבעת צוותי הבריאה המקבילה על פני יבשת-העל הטרום-מבולית הפיקה זוגות בני-אדם-ראשונים מקבילים בשושלות מובחנות, כאשר המסורת התרבותית-דתית שלאחר מכן של כל שושלת שומרת זיכרון מקוטע של אירוע הייסוד הספציפי שלה בצורות תרבותיות-מיתולוגיות מובחנות. אדם וחוה הם בני האדם הראשונים של שושלת ספציפית אחת — שושלת צוות ישראל — עם נרטיבם השמור במסורת העברית. אדפה, מאנו, פאנגו, נו-ווא, אסק, אמבלה, ודמויות בני-האדם-הראשונים האינדיאניות השונות הם בני-אדם-ראשונים מקבילים של שושלות אחרות, עם נרטיביהם השמורים במסורותיהם התרבותיות בהתאמה.
 
-The corpus does not claim that every first-human narrative across world traditions is a direct memory of an actual creator-team operation — many such narratives are independently developed mythological constructions of their respective cultures. What the framework registers is that the substantial cross-cultural pattern is consistent with the seven-creator-team picture the framework reads, with various cultural traditions preserving aspects of this reality in their own distinctive cultural-mythological forms.
-
-## See also
-
-- [Eden](../eden/)
-- [Genesis](../genesis/)
-- [Serpent](../serpent/)
-- [Lucifer](../lucifer/)
-- [Yahweh](../yahweh/)
-- [Elohim](../elohim/)
-- [Tree of Knowledge](../tree-of-knowledge/)
-- [Tree of Life](../tree-of-life/)
-- [Cain and Abel](../cain-and-abel/)
-- [Antediluvian](../antediluvian/)
-- [Sons of Elohim](../sons-of-elohim/)
-- [Nephilim](../nephilim/)
-- [Hebrew](../hebrew/)
-- [Hebrew Bible](../hebrew-bible/)
-- [Prophet](../prophet/)
-- [Mary](../mary/)
-- [Council of the Eternals](../council-of-eternals/)
-- [The Alliance](../the-alliance/)
-- [Great Flood](../great-flood/)
-- [Age of Leo](../timeline/age-of-leo/)
-- [Age of Cancer](../timeline/age-of-cancer/)
-- [Atra-ḫasīs](../atra-hasis/)
-- [Epic of Gilgamesh](../epic-of-gilgamesh/)
-- [Documentary Hypothesis](../documentary-hypothesis/)
-- [Jean Sendy](../jean-sendy/)
-- [Mauro Biglino](../mauro-biglino/)
-- [Paul Anthony Wallis](../paul-anthony-wallis/)
-
-## References
-
-Vorilhon, Claude (Raël). *The Book Which Tells the Truth* (1974), chapter 2; collected in *Message from the Designers*.
-
-Vorilhon, Claude (Raël). *Extra-Terrestrials Took Me to Their Planet* (1975); collected in *Message from the Designers*.
-
-Sendy, Jean. *Ces dieux qui firent le ciel et la terre*. Robert Laffont, 1969. English: *Those Gods Who Made Heaven and Earth*. Berkley, 1972.
-
-Biglino, Mauro, and Giorgio Cattaneo. *The Naked Bible: The Truth About the Most Famous Book in History*. Uno, 2022.
-
-Wallis, Paul Anthony. *The Eden Conspiracy*. 6th Books, 2024.
-
-*Biblia Hebraica Stuttgartensia*. Deutsche Bibelgesellschaft, 4th rev. ed., 1997.
-
-Sarna, Nahum. *Genesis: The JPS Torah Commentary*. Jewish Publication Society, 1989.
-
-Westermann, Claus. *Genesis 1–11: A Continental Commentary*. Fortress, 1994.
-
-Skinner, John. *A Critical and Exegetical Commentary on Genesis*. International Critical Commentary, T&T Clark, 1910.
-
-von Rad, Gerhard. *Genesis: A Commentary*. Westminster, 1961.
-
-Augustine. *City of God*. Trans. Henry Bettenson. Penguin Classics, 1972.
-
-Augustine. *On the Merits and Forgiveness of Sins, and on Infant Baptism*. In *Anti-Pelagian Works*, trans. Peter Holmes. T&T Clark.
-
-Pagels, Elaine. *Adam, Eve, and the Serpent*. Random House, 1988.
-
-Trible, Phyllis. *God and the Rhetoric of Sexuality*. Fortress, 1978.
-
-Meyers, Carol. *Discovering Eve: Ancient Israelite Women in Context*. Oxford University Press, 1988.
-
-Plaskow, Judith. *Standing Again at Sinai: Judaism from a Feminist Perspective*. Harper, 1990.
-
-Plaskow, Judith. "The Coming of Lilith" (1972). In *The Coming of Lilith: Essays on Feminism, Judaism, and Sexual Ethics*, 1972–2003. Beacon, 2005.
-
-*The Alphabet of Ben Sira* (medieval Hebrew text, c. 8th–10th century CE). Trans. Norman Bronznick. In *Rabbinic Fantasies*, ed. David Stern and Mark Jay Mirsky. JPS, 1990.
-
-*Zohar*. Pritzker Edition, trans. Daniel Matt et al. Stanford University Press, 2003–2017.
-
-Lambert, W. G., and A. R. Millard. *Atra-ḫasīs: The Babylonian Story of the Flood*. Oxford University Press, 1969.
-
-George, Andrew, ed. and trans. *The Epic of Gilgamesh: The Babylonian Epic Poem and Other Texts in Akkadian and Sumerian*. Penguin Classics, 1999.
-
-Foster, Benjamin R. *Before the Muses: An Anthology of Akkadian Literature*. CDL Press, 3rd ed., 2005.
-
-Allen, James P. *Genesis in Egypt: The Philosophy of Ancient Egyptian Creation Accounts*. Yale Egyptological Studies, 1988.
-
-Doniger, Wendy. *Hindu Myths: A Sourcebook*. Penguin Classics, 1975.
-
-Birrell, Anne. *Chinese Mythology: An Introduction*. Johns Hopkins University Press, 1993.
-
-Lindow, John. *Norse Mythology: A Guide to the Gods, Heroes, Rituals, and Beliefs*. Oxford University Press, 2001.
-
-Tedlock, Dennis, trans. *Popol Vuh: The Mayan Book of the Dawn of Life*. Touchstone, 1996.
-
-Smith, Joseph. *Doctrine and Covenants*. Church of Jesus Christ of Latter-day Saints, various editions.
-
-Brown, Francis, S. R. Driver, and Charles A. Briggs. *A Hebrew and English Lexicon of the Old Testament* (BDB). Oxford, 1907.
-
-*The Hebrew and Aramaic Lexicon of the Old Testament* (HALOT), Koehler-Baumgartner. Brill, 2001.
-
-"Adam and Eve." *Encyclopaedia Britannica*. <https://www.britannica.com/topic/Adam-and-Eve>
-
-"Adam." *Encyclopaedia Britannica*. <https://www.britannica.com/topic/Adam-Hebrew-mythology>
-
-"Eve." *Encyclopaedia Britannica*. <https://www.britannica.com/topic/Eve-Hebrew-mythology>
-
-"Lilith." *Encyclopaedia Britannica*. <https://www.britannica.com/topic/Lilith-Jewish-folklore>
-
-"Original sin." *Encyclopaedia Britannica*. <https://www.britannica.com/topic/original-sin>
+הקורפוס אינו טוען שכל נרטיב בני-אדם-ראשונים על פני מסורות העולם הוא זיכרון ישיר של מבצע צוות-בריאה ממשי — נרטיבים רבים כאלה הם בניינים מיתולוגיים שפותחו באופן עצמאי של תרבויותיהם בהתאמה. מה שהמסגרת רושמת הוא שהדפוס החוצה-תרבות המהותי עקבי עם תמונת שבעת צוותי הבריאה שהמסגרת קוראת, כאשר מסורות תרבותיות שונות שומרות היבטים של מציאות זו בצורותיהן התרבותיות-מיתולוגיות המובחנות.

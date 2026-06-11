@@ -1,613 +1,639 @@
 +++
 title = "Adán y Eva"
-description = "Adán y Eva (hebreo <span class=\"hebrew\">אָדָם וְחַוָּה</span> *Adam wə-Ḥawwā*) son los primeros humanos en las narrativas de creación de Génesis 2–3 y figura central de la prehistoria bíblica. El nombre *Adam* se conecta con la palabra hebrea para tierra (*adamah*) y para tierra roja; *Ḥawwā* se asocia convencionalmente con \"vida\" o \"dadora de vida\". La narrativa abarca la creación de Adán a partir del polvo y el aliento divino, la creación de Eva a partir del costado de Adán, su colocación en el Jardín del Edén, la prohibición sobre el fruto del árbol del conocimiento del bien y el mal, la intervención de la serpiente, el consumo del fruto y la subsiguiente expulsión del Jardín. El marco Wheel of Heaven lee a Adán y Eva no como personas individuales sino como la generación humana inicial del trabajo de síntesis genética de los Elohim — la narrativa de Génesis 2 se lee como informe comprimido de la fase final del proyecto de síntesis humana durante la era de Cáncer, y la expulsión del Jardín como transición del entorno controlado del laboratorio al desarrollo humano autónomo fuera de la supervisión directa de los Elohim."
+slug = "adam-and-eve"
+description = "Adán (hebreo: אָדָם, ʾāḏām) y Eva (hebreo: חַוָּה, ḥawwāh) son los primeros humanos de la narración del Génesis en la Biblia hebrea, formados por los Elohim en el jardín del Edén, sujetos a la prohibición relativa al Árbol del Conocimiento del Bien y del Mal, y expulsados del jardín tras comer del árbol. Según la lectura desarrollada en el material fuente raeliano y adoptada por el corpus Wheel of Heaven, Adán y Eva se leen como figuras históricas concretas: los primeros humanos sintetizados de la instalación del Edén propia del equipo de Israel, creados mediante síntesis biológica de novo durante la Era de Leo tardía, educados en el entorno controlado del Edén, expuestos a la revelación de conocimiento científico restringido por parte de la facción disidente de Lucifer, expulsados de la instalación tras la revelación, y progenitores de la civilización humana del linaje del Edén. Ambos se hallan actualmente resucitados en el Planeta de los Eternos, a la espera del retorno abierto de la alianza en la embajada de la Era de Acuario."
 template = "wiki-page.html"
 toc = true
 
 [extra]
-translation_status = "metadata_only"
 category = "Biblical Figures"
 editorial_pass = "2026-05"
+claim_type = "framework"
 entry_type = "figure"
-alternative_names = ["Adam", "Eve", "אָדָם וְחַוָּה", "ʾĀḏām and Ḥawwāh", "the First Humans", "the First Pair", "Adam Kadmon and Hawwah (in Kabbalistic tradition)"]
+alternative_names = ["Adán", "Eva", "אָדָם וְחַוָּה", "ʾĀḏām and Ḥawwāh", "los Primeros Humanos", "la Primera Pareja", "Adam Kadmon y Hawwah (en la tradición cabalística)"]
 timeline = ["leo", "cancer"]
+see_also = [
+    { title = "Edén", path = "wiki/eden", description = "La instalación del equipo de Israel donde Adán y Eva fueron sintetizados y educados." },
+    { title = "Génesis", path = "wiki/genesis", description = "La narración de la creación cuyos relatos de Génesis 1 y Génesis 2 el corpus lee como distintos en alcance." },
+    { title = "Serpiente", path = "wiki/serpent", description = "La facción de Lucifer en su papel revelador; la figura que hizo la revelación del Edén a Adán y Eva." },
+    { title = "Lucifer", path = "wiki/lucifer", description = "El líder de la facción disidente cuya revelación recibieron Adán y Eva." },
+    { title = "Árbol de la Vida", path = "wiki/tree-of-life", description = "La tecnología de longevidad tras los 930 años registrados de Adán." },
+    { title = "Antediluviano", path = "wiki/antediluvian", description = "El período post-Edén fundado por el linaje de Adán y Eva." },
+]
+
+footnotes = [
+    { content = "El corpus lee Génesis 1 y Génesis 2 como distintos en alcance, más que como relatos paralelos-y-contradictorios del mismo acontecimiento. Génesis 1 es el relato sumario del programa creacional más amplio de los siete equipos (el sexto *yom*, que cubre el trabajo de creación humana de los siete equipos a lo largo de la Era de Leo); Génesis 2 es la narración detallada del trabajo de un equipo concreto: la instalación del Edén del equipo de Israel. Esto se alinea parcialmente con la hipótesis documentaria (los dos relatos son genuinamente distintos en el plano textual), si bien difiere en la interpretación: el corpus los lee como distintos en alcance, no como relatos paralelos contradictorios. Esto tiene la ventaja metodológica de explicar por qué ambos se conservan juntos: cubren alcances distintos de una misma realidad operativa más amplia." },
+    { content = "El corpus lee el lenguaje creacional de Génesis 2 como relatos estilizados de síntesis biológica que los autores originales no podían describir con vocabulario técnico. La formación a partir del «polvo de la tierra» (*ʿāp̄ār min hā-ʾădāmâ*) se lee como síntesis *de novo* que emplea materiales terrestres como sustrato molecular y material genético Elohim como plantilla; el «aliento de vida» (*nišmaṯ ḥayyîm*), como la activación del organismo sintetizado; la «costilla» (*ṣēlāʿ*, que puede significar «costado», «panel» o «soporte estructural»), como material celular o genético tomado de Adán, que confiere a Eva una compatibilidad genética sustancial con él; el «sueño profundo» (*tardēmâ*), como el estado médico-anestésico durante el procedimiento. El corpus no se compromete con la especificidad literal-anatómica de la narración superficial." },
+    { content = "El marco no afirma que Adán y Eva sean los primeros humanos de toda la humanidad. El cuadro de los siete equipos creadores registra explícitamente figuras paralelas de primeros humanos en los otros seis linajes — cuyos nombres no se conservan en la Biblia hebrea porque la Biblia hebrea es la herencia cultural específica del linaje del equipo de Israel. Adán y Eva son los primeros humanos de *un* linaje, cuya historia subsiguiente se convirtió en la historia cultural-religiosa de los hebreos. La «Caída» no es, por tanto, una catástrofe moral humana universal, sino un acontecimiento operativo concreto en la historia de un linaje, y la doctrina agustiniana del pecado original, que extiende la narración a toda la humanidad, no tiene el alcance universal que su encuadre teológico convencional reivindica." },
+    { content = "El marco rechaza la tradición interpretativa misógina que sitúa la responsabilidad principal en Eva. El material fuente raeliano es explícito en que la revelación se ofreció a ambos humanos por igual, que el afecto de los creadores reveladores era para ambos, y que las consecuencias recayeron por igual sobre ambos. El encuadre de 1 Timoteo 2:13–14, «la mujer fue engañada», es la base textual de la tradición posterior que el corpus rechaza. En este punto concreto el corpus se alinea con la erudición feminista judía y cristiana (Pagels, Trible, Meyers) sin adoptar la totalidad del aparato teológico-feminista." },
+    { content = "La fecha que el corpus asigna a la síntesis de Adán y Eva — Era de Leo tardía, c. 11.400 a. C. — es interna al marco, derivada de la calibración cronológica del corpus, incluido el cálculo de las 666 generaciones de 20 años leído en Apocalipsis 13:18. Las eras precesionales son fenómenos astronómicos reales; los años límite concretos son convenciones del marco. Véanse las entradas Génesis y Antediluviano para la derivación de la cronología." },
+    { content = "La resurrección de Adán y Eva en el Planeta de los Eternos es una afirmación interna a la fuente del material raeliano — de ambos se informa que viven actualmente allí en condiciones de inmortalidad práctica mantenida por la tecnología de clonación y transferencia de memoria de la alianza, a la espera del retorno abierto en la embajada de la Era de Acuario. El corpus lee la resurrección de Adán en conexión con su papel como primer profeta (el primer humano receptor de comunicación directa de la alianza). La afirmación no es verificable de modo independiente y el corpus la trata como aserción propia de la fuente." },
+]
+
+[[extra.references]]
+id = "the-book-which-tells-the-truth"
+locator = "Capítulo 2"
+note = "Fuente raeliana fundacional para Adán y Eva como los primeros humanos sintetizados de la instalación del Edén del equipo de Israel."
+
+[[extra.references]]
+id = "extraterrestrials-took-me-to-their-planet"
+note = "La segunda obra de Vorilhon (1975) — el Planeta de los Eternos y la resurrección de los profetas, incluido Adán."
+
+[[extra.references]]
+id = "those-gods-who-made-heaven-and-earth"
+note = "La lectura de Sendy de Adán y Eva como los primeros humanos del linaje del equipo de Israel — el principal antecedente erudito."
+
+[[extra.references]]
+id = "the-naked-bible"
+note = "La lectura estricto-traduccional de Biglino del lenguaje de la formación del polvo y de *ṣēlāʿ* como síntesis biológica y clonación; el corpus se alinea salvo en la lectura de Caín-como-linaje-de-la-serpiente."
+
+[[extra.references]]
+id = "the-eden-conspiracy"
+note = "El reciente tratamiento accesible de Wallis del material de Génesis 2–3 desde una perspectiva Elohim-pluralista."
+
+[[extra.references]]
+id = "sarna-genesis-jps"
+note = "El JPS Torah Commentary de Sarna — tratamiento estándar del hebreo de la narración del Edén y de las genealogías patriarcales."
+
+[[extra.references]]
+id = "westermann-genesis-1-11"
+note = "El comentario form-crítico estándar de Westermann sobre la historia primigenia del Génesis."
+
+[[extra.references]]
+id = "skinner-genesis-icc"
+note = "El comentario fundacional ICC de Skinner, que conserva la lectura de hipótesis documentaria de los dos relatos de la creación."
+
+[[extra.references]]
+id = "von-rad-genesis"
+note = "La lectura form-crítica y teológica de von Rad de la narración yahvista de la creación."
+
+[[extra.references]]
+id = "city-of-god"
+note = "El desarrollo agustiniano de la doctrina del pecado original que el corpus rechaza como construcción teológica concreta, no como dato textual."
+
+[[extra.references]]
+id = "pagels-adam-eve-serpent"
+note = "El estudio de Pagels sobre cómo la interpretación de la narración de Adán y Eva configuró el pensamiento occidental, con la síntesis de Agustín como desarrollo controvertido."
+
+[[extra.references]]
+id = "trible-rhetoric-sexuality"
+note = "La lectura atenta de Trible de Génesis 2–3, que defiende la igualdad de género en el texto hebreo original."
+
+[[extra.references]]
+id = "meyers-discovering-eve"
+note = "La lectura histórico-antropológica de Meyers de Eva como la mujer agrícola-trabajadora del Israel de la Edad del Hierro."
+
+[[extra.references]]
+id = "plaskow-standing-again-sinai"
+note = "La teología feminista judía de Plaskow, que dialoga con las tradiciones de Adán-Eva y de Lilith."
+
+[[extra.references]]
+id = "alphabet-of-ben-sira"
+note = "El texto fundacional medieval para la narración de Lilith-como-primera-esposa-de-Adán que el corpus registra pero no adopta."
+
+[[extra.references]]
+id = "zohar-pritzker"
+note = "El Zohar de Pritzker — el material de Adam Kadmon y Lilith con el que el corpus dialoga comparativamente."
+
+[[extra.references]]
+id = "george-epic-of-gilgamesh"
+note = "La traducción estándar de George, incluida la narración de Enkidu leída comparativamente frente al material de Eva/civilización."
+
+[[extra.references]]
+id = "before-the-muses"
+note = "La antología de Foster de literatura acadia, incluido el mito de Adapa leído comparativamente frente a los acontecimientos del Edén."
+
+[[extra.references]]
+id = "atra-hasis-lambert-millard"
+note = "La edición de Lambert y Millard de Atra-ḫasīs — la tradición mesopotámica de creación-y-diluvio paralela al material del Génesis."
+
+[[extra.references]]
+id = "allen-genesis-in-egypt"
+note = "El tratamiento de Allen de la teología creacional egipcia, incluido el paralelo de Khnum-como-alfarero con la formación del polvo de la tierra."
+
+[[extra.references]]
+id = "doniger-hindu-myths"
+note = "La antología de Doniger, incluidas las tradiciones de Manu primer-hombre y del diluvio."
+
+[[extra.references]]
+id = "birrell-chinese-mythology"
+note = "El estudio de Birrell, incluida la cosmogonía de Pangu y la narración de la formación de arcilla de Nüwa."
+
+[[extra.references]]
+id = "lindow-norse-mythology"
+note = "La referencia de Lindow, incluida la narración de los primeros humanos Ask-y-Embla."
+
+[[extra.references]]
+id = "tedlock-popol-vuh"
+note = "La traducción de Tedlock del Popol Vuh maya, con sus sucesivos intentos de creación de los primeros humanos."
+
+[[extra.references]]
+id = "doctrine-and-covenants"
+note = "La fuente santo-de-los-últimos-días de la doctrina de Adán-como-Miguel que el corpus registra pero no adopta."
 
 [extra.infobox]
 hebrew_name = "אָדָם וְחַוָּה (ʾĀḏām and Ḥawwāh)"
-greek_name = "Ἀδάμ καὶ Εὕα (Adam kai Heua, in the Septuagint)"
-latin_name = "Adam et Eva (in the Vulgate)"
-arabic_name = "آدم وحواء (Ādam wa-Ḥawwāʾ, in the Qur'anic tradition)"
-title = "The first humans of the Israel team's Eden installation"
-type = "Synthesized humans created by the Israel team of Elohim creators; biological pair"
-created = "Late Age of Leo, c. 11,400 BCE on the corpus's reckoning (derived from the 666-generations-of-20-years calculation of Revelation 13:18)"
-date_type = "framework-internal; derived from the corpus's chronological calibration"
-biblical_appearance = "Genesis 1:26–28 (summary creation account); Genesis 2:4–25 (detailed Eden synthesis); Genesis 3 (the disclosure and expulsion); Genesis 4–5 (the post-Eden generations); occasional later Hebrew Bible references (1 Chronicles 1:1; Hosea 6:7); New Testament references (Romans 5; 1 Corinthians 15; 1 Timothy 2)"
-created_by = "The Israel team of Elohim creators, with Yahweh as team leader"
-relationship_to_lucifer = "Educated by the Israel team's scientists during the Eden period, including the figures who would form the dissenting Lucifer faction; recipients of the Lucifer-faction disclosure"
-recorded_lifespan = "Adam: 930 years (Genesis 5:5); Eve: not specified in Genesis"
-children = "Cain, Abel, Seth, and other unnamed sons and daughters (Genesis 4:1–2, 25; 5:3–4)"
-current_status = "Resurrected on the Planet of the Eternals, per the source material's prophet-resurrection list; awaiting the open return at the Aquarian-age embassy"
-principal_text = "Genesis 1–5"
-principal_framework_source = "*The Book Which Tells the Truth* (Vorilhon/Raël, 1974), chapter 2; *Extra-Terrestrials Took Me to Their Planet* (1975)"
+greek_name = "Ἀδάμ καὶ Εὕα (Adam kai Heua, en la Septuaginta)"
+latin_name = "Adam et Eva (en la Vulgata)"
+arabic_name = "آدم وحواء (Ādam wa-Ḥawwāʾ, en la tradición coránica)"
+title = "Los primeros humanos de la instalación del Edén del equipo de Israel"
+type = "Humanos sintetizados creados por el equipo de Israel de creadores Elohim; pareja biológica"
+created = "Era de Leo tardía, c. 11.400 a. C. según el cómputo del corpus (derivado del cálculo de las 666 generaciones de 20 años de Apocalipsis 13:18)"
+date_type = "interno al marco; derivado de la calibración cronológica del corpus"
+biblical_appearance = "Génesis 1:26–28 (relato sumario de la creación); Génesis 2:4–25 (síntesis detallada del Edén); Génesis 3 (la revelación y la expulsión); Génesis 4–5 (las generaciones post-Edén); referencias hebreas posteriores ocasionales (1 Crónicas 1:1; Oseas 6:7); referencias neotestamentarias (Romanos 5; 1 Corintios 15; 1 Timoteo 2)"
+created_by = "El equipo de Israel de creadores Elohim, con Yahvé como líder del equipo"
+relationship_to_lucifer = "Educados por los científicos del equipo de Israel durante el período del Edén, incluidas las figuras que formarían la facción disidente de Lucifer; receptores de la revelación de la facción de Lucifer"
+recorded_lifespan = "Adán: 930 años (Génesis 5:5); Eva: no especificado en el Génesis"
+children = "Caín, Abel, Set y otros hijos e hijas no nombrados (Génesis 4:1–2, 25; 5:3–4)"
+current_status = "Resucitados en el Planeta de los Eternos, según la lista de resurrección de profetas del material fuente; a la espera del retorno abierto en la embajada de la Era de Acuario"
+principal_text = "Génesis 1–5"
+principal_framework_source = "*El libro que dice la verdad* (Vorilhon/Raël, 1974), capítulo 2; *Los extraterrestres me llevaron a su planeta* (1975)"
 +++
 
-**Adam** (<span class="hebrew">אָדָם</span>, *ʾāḏām*) and **Eve** (<span class="hebrew">חַוָּה</span>, *ḥawwāh*) are the first humans of the Hebrew Bible's Genesis narrative. Adam is named in Genesis 2:7 as the first human formed by Yahweh Elohim from the dust of the ground; Eve is named in Genesis 3:20 as *the mother of all the living* (*ʾem kol-ḥay*) following her formation in Genesis 2:21–22 from a part of Adam's side. The pair are the focal figures of the Genesis 2–4 narrative — placed in the garden of Eden, given the prohibition concerning the Tree of the Knowledge of Good and Evil, persuaded by the Serpent to eat from the tree, expelled from the garden, and named as the parents of Cain, Abel, and Seth (Genesis 4:1–2, 25; 5:3–4). Their biographical material in the Hebrew Bible concludes with Adam's recorded death at 930 years (Genesis 5:5), with no parallel record for Eve.
+**Adán** (<span class="hebrew">אָדָם</span>, *ʾāḏām*) y **Eva** (<span class="hebrew">חַוָּה</span>, *ḥawwāh*) son los primeros humanos de la narración del Génesis en la Biblia hebrea. A Adán se le nombra en Génesis 2:7 como el primer humano formado por Yahvé Elohim del polvo de la tierra; a Eva se le nombra en Génesis 3:20 como *la madre de todos los vivientes* (*ʾem kol-ḥay*) tras su formación en Génesis 2:21–22 a partir de una parte del costado de Adán. La pareja es el foco de la narración de Génesis 2–4 — colocada en el jardín del Edén, sujeta a la prohibición relativa al Árbol del Conocimiento del Bien y del Mal, persuadida por la Serpiente de comer del árbol, expulsada del jardín y nombrada como padres de Caín, Abel y Set (Génesis 4:1–2, 25; 5:3–4). Su material biográfico en la Biblia hebrea concluye con la muerte registrada de Adán a los 930 años (Génesis 5:5), sin registro paralelo para Eva.
 
-On the reading developed in the Raëlian source material and adopted by the Wheel of Heaven corpus, Adam and Eve are read as specific historical figures rather than as mythological symbols or as the first humans simpliciter. They are the first synthesized humans of the **Israel team's** specific Eden installation — one of seven creator-team installations distributed across the antediluvian supercontinent, with the Israel team's installation producing the specific lineage whose subsequent history would be preserved in the Hebrew Bible. They were created during the late Age of Leo (c. 11,400 BCE on the corpus's reckoning) through *de novo* biological synthesis using Elohim genetic material as the principal source, with terrestrial materials providing the substrate. They were educated in the Eden controlled environment by the Israel team's scientists, including the figures who would form the dissenting Lucifer faction. They received the faction's disclosure of restricted scientific knowledge — the act narrated in Genesis 3 as the Serpent's intervention. They were expelled from the installation following the disclosure and lived out the rest of their lives in the broader Eden region, with their offspring populating the early antediluvian Eden civilization. The source material specifically identifies Adam as the first prophet — the first human recipient of direct alliance communication — and identifies both Adam and Eve as currently resurrected on the Planet of the Eternals, awaiting the alliance's open return at the Aquarian-age embassy.
+Según la lectura desarrollada en el material fuente raeliano y adoptada por el corpus Wheel of Heaven, Adán y Eva se leen como figuras históricas concretas, más que como símbolos mitológicos o como los primeros humanos sin más. Son los primeros humanos sintetizados de la instalación del Edén propia del **equipo de Israel** — una de las siete instalaciones de equipos creadores distribuidas por el supercontinente antediluviano, produciendo la instalación del equipo de Israel el linaje concreto cuya historia subsiguiente se conservaría en la Biblia hebrea. Fueron creados durante la Era de Leo tardía (c. 11.400 a. C. según el cómputo del corpus){{ footnote(id="5") }} mediante síntesis biológica *de novo* que empleaba material genético Elohim como fuente principal, con materiales terrestres aportando el sustrato. Fueron educados en el entorno controlado del Edén por los científicos del equipo de Israel, incluidas las figuras que formarían la facción disidente de Lucifer. Recibieron la revelación de conocimiento científico restringido por parte de la facción — el acto narrado en Génesis 3 como la intervención de la Serpiente. Fueron expulsados de la instalación tras la revelación y vivieron el resto de sus vidas en la región más amplia del Edén, poblando su descendencia la temprana civilización antediluviana del Edén. El material fuente identifica específicamente a Adán como el primer profeta — el primer humano receptor de comunicación directa de la alianza — e identifica tanto a Adán como a Eva como actualmente resucitados en el Planeta de los Eternos, a la espera del retorno abierto de la alianza en la embajada de la Era de Acuario.{{ cite(id="the-book-which-tells-the-truth", text="[2]", title="Vorilhon (Raël), *El libro que dice la verdad* (1974), cap. 2 — Adán y Eva como los primeros humanos sintetizados del equipo de Israel") }}
 
-The reading is contested. Within Christian theological tradition, the dominant readings of Adam and Eve treat them as the first humans of all humanity (not just one specific lineage), as morally pivotal figures whose disobedience produced the Fall and inherited original sin (the Augustinian doctrine), and as theologically representative figures whose narrative encodes the human moral condition rather than as historical individuals in the strict sense. Within mainstream historical-critical biblical scholarship, the Genesis 2–4 narrative is recognized as a Yahwist source composition (J source on the documentary hypothesis) with mythological-aetiological character, distinct from the Genesis 1 Priestly source account, with the figures of Adam and Eve treated as literary-mythological constructions rather than as historical individuals. Within paleoanthropology and modern human-origins science, the broader question of human origins is treated through the genetic, archaeological, and paleontological evidence, with the conclusion that Homo sapiens emerged through evolutionary processes across approximately 200,000–300,000 years rather than through specific creation events involving identifiable first individuals. The corpus's reading is structurally distinctive: it accepts the historical-critical recognition that Genesis 1 and Genesis 2 are textually distinct accounts (treating Genesis 1 as the broader summary of all seven creator teams' work and Genesis 2 as the specific Israel-team narrative), accepts that Adam and Eve are not the first humans of all humanity (the corpus reads seven distinct creator-team lineages emerging across the Age of Leo), and treats the figures as specific historical individuals while reframing the underlying ontology of their creation.
+La lectura es controvertida. Dentro de la tradición teológica cristiana, las lecturas dominantes de Adán y Eva los tratan como los primeros humanos de toda la humanidad (no solo de un linaje concreto), como figuras moralmente decisivas cuya desobediencia produjo la Caída y el pecado original heredado (la doctrina agustiniana), y como figuras teológicamente representativas cuya narración codifica la condición moral humana más que como individuos históricos en sentido estricto. Dentro de la erudición bíblica histórico-crítica dominante, la narración de Génesis 2–4 se reconoce como composición de fuente yahvista (la fuente J de la hipótesis documentaria) de carácter mitológico-etiológico, distinta del relato de la fuente sacerdotal de Génesis 1, con las figuras de Adán y Eva tratadas como construcciones literario-mitológicas más que como individuos históricos. Dentro de la paleoantropología y la ciencia moderna de los orígenes humanos, la cuestión más amplia de los orígenes humanos se aborda a través de la evidencia genética, arqueológica y paleontológica, con la conclusión de que el Homo sapiens emergió mediante procesos evolutivos a lo largo de aproximadamente 200.000–300.000 años, más que mediante acontecimientos de creación concretos que involucren a primeros individuos identificables. La lectura del corpus es estructuralmente distintiva: acepta el reconocimiento histórico-crítico de que Génesis 1 y Génesis 2 son relatos textualmente distintos (tratando Génesis 1 como el sumario más amplio del trabajo de los siete equipos creadores y Génesis 2 como la narración específica del equipo de Israel), acepta que Adán y Eva no son los primeros humanos de toda la humanidad (el corpus lee siete linajes distintos de equipos creadores emergiendo a lo largo de la Era de Leo), y trata a las figuras como individuos históricos concretos a la vez que reformula la ontología subyacente de su creación.
 
-## Etymology and naming
+## Etimología y nomenclatura
 
-The names Adam and Eve carry distinct etymological histories that are themselves load-bearing for the framework's reading.
+Los nombres Adán y Eva portan historias etimológicas distintas que son ellas mismas portantes para la lectura del marco.
 
-### Adam: *ʾāḏām*
+### Adán: *ʾāḏām*
 
-The Hebrew *ʾāḏām* (<span class="hebrew">אָדָם</span>) is etymologically related to *ʾădāmâ* (<span class="hebrew">אֲדָמָה</span>, "earth, ground, soil"), with both deriving from the consonantal root *ʾ-d-m* meaning "to be red" (referring to the reddish color of the soil characteristic of the Levant). The etymological connection is explicit in Genesis 2:7: *"Then Yahweh Elohim formed the man (ʾāḏām) of dust from the ground (ʾădāmâ), and breathed into his nostrils the breath of life; and the man became a living being."* The wordplay between *ʾāḏām* and *ʾădāmâ* is one of the most direct etymological encodings in the Hebrew Bible's vocabulary: the human is named for the earth from which he was formed.
+El hebreo *ʾāḏām* (<span class="hebrew">אָדָם</span>) está etimológicamente relacionado con *ʾădāmâ* (<span class="hebrew">אֲדָמָה</span>, «tierra, suelo, terreno»), derivando ambos de la raíz consonántica *ʾ-d-m*, que significa «ser rojo» (en referencia al color rojizo del suelo característico del Levante). La conexión etimológica es explícita en Génesis 2:7: *«Entonces Yahvé Elohim formó al hombre (ʾāḏām) del polvo de la tierra (ʾădāmâ), y sopló en su nariz aliento de vida; y el hombre vino a ser un ser viviente.»* El juego de palabras entre *ʾāḏām* y *ʾădāmâ* es una de las codificaciones etimológicas más directas del vocabulario de la Biblia hebrea: el humano lleva el nombre de la tierra de la que fue formado.
 
-The Hebrew *ʾāḏām* has multiple uses across the Hebrew Bible:
+El hebreo *ʾāḏām* tiene múltiples usos a lo largo de la Biblia hebrea:
 
-- **The generic sense** — *ʾāḏām* is used as the general term for "human" or "humanity" without reference to gender or to specific individuals, with this usage attested across the Bible (Genesis 1:26–27 uses *ʾāḏām* for "humans" or "humanity" in this generic sense; the pronouncement *naʿaśeh ʾāḏām* in Genesis 1:26 means "let us make humanity").
-- **The proper-name sense** — *ʾāḏām* is used as the personal name of the first specific human in the Genesis 2–5 narrative, with the definite article *ha-ʾāḏām* ("the human") gradually giving way to the proper-name *ʾāḏām* (without article) across the narrative.
-- **The species-designation sense** — *ʾāḏām* is used in some contexts to designate the species in distinction from animals or other categories of being.
+- **El sentido genérico** — *ʾāḏām* se usa como término general para «humano» o «humanidad» sin referencia al género ni a individuos concretos, uso atestiguado a lo largo de la Biblia (Génesis 1:26–27 usa *ʾāḏām* para «humanos» o «humanidad» en este sentido genérico; el pronunciamiento *naʿaśeh ʾāḏām* de Génesis 1:26 significa «hagamos a la humanidad»).
+- **El sentido de nombre propio** — *ʾāḏām* se usa como nombre personal del primer humano concreto en la narración de Génesis 2–5, con el artículo definido *ha-ʾāḏām* («el humano») cediendo gradualmente paso al nombre propio *ʾāḏām* (sin artículo) a lo largo de la narración.
+- **El sentido de designación de especie** — *ʾāḏām* se usa en algunos contextos para designar la especie en distinción de los animales u otras categorías de seres.
 
-The transition from the generic sense to the proper-name sense across the Genesis narrative reflects the ambiguity at the heart of the Adam figure: he is simultaneously the specific first human of the Israel-team lineage (proper name) and the prototype of humanity generally (generic). The corpus reads this ambiguity as the Hebrew tradition's preservation of both the specificity of the historical referent (a particular individual whose biographical history is recorded) and the broader implication of his role (the prototype whose creation initiated the lineage that would eventually become the Hebrew people).
+La transición del sentido genérico al sentido de nombre propio a lo largo de la narración del Génesis refleja la ambigüedad en el corazón de la figura de Adán: es a la vez el primer humano concreto del linaje del equipo de Israel (nombre propio) y el prototipo de la humanidad en general (genérico). El corpus lee esta ambigüedad como la conservación, por parte de la tradición hebrea, tanto de la especificidad del referente histórico (un individuo particular cuya historia biográfica queda registrada) como de la implicación más amplia de su papel (el prototipo cuya creación inició el linaje que con el tiempo se convertiría en el pueblo hebreo).
 
-The framework's reading takes the etymological connection to *ʾădāmâ* as substantively significant. The name preserves, at the level of Hebrew vocabulary itself, the biological reading the corpus develops: humans were synthesized from terrestrial materials, in laboratories on the surface of this planet, and their name in the original Hebrew preserves that origin. The "dust of the ground" formation language of Genesis 2:7 is read by the corpus as a stylized account of the *de novo* biological synthesis using terrestrial substrate that the Israel team conducted.
+La lectura del marco toma la conexión etimológica con *ʾădāmâ* como sustancialmente significativa. El nombre conserva, en el nivel del propio vocabulario hebreo, la lectura biológica que el corpus desarrolla: los humanos fueron sintetizados a partir de materiales terrestres, en laboratorios sobre la superficie de este planeta, y su nombre en el hebreo original conserva ese origen. El lenguaje de formación del «polvo de la tierra» de Génesis 2:7 lo lee el corpus como un relato estilizado de la síntesis biológica *de novo* con sustrato terrestre que el equipo de Israel llevó a cabo.
 
-### Eve: *Ḥawwāh*
+### Eva: *Ḥawwāh*
 
-The Hebrew *Ḥawwāh* (<span class="hebrew">חַוָּה</span>) is given an explicit etymology in Genesis 3:20: *"The man called his wife's name Eve (Ḥawwāh), because she was the mother of all living (ʾem kol-ḥay)."* The etymological connection is to the root *ḥ-y-h* / *ḥ-w-h* meaning "to live" — *Ḥawwāh* is the participial form meaning "the living one" or "the life-giver."
+El hebreo *Ḥawwāh* (<span class="hebrew">חַוָּה</span>) recibe una etimología explícita en Génesis 3:20: *«El hombre llamó el nombre de su mujer Eva (Ḥawwāh), por cuanto ella era madre de todos los vivientes (ʾem kol-ḥay).»* La conexión etimológica es con la raíz *ḥ-y-h* / *ḥ-w-h*, que significa «vivir» — *Ḥawwāh* es la forma participial que significa «la viviente» o «la dadora de vida».
 
-The name has been the subject of substantial scholarly discussion. The connection to *ḥay* ("living") is the explicit Genesis etymology, but several alternative or supplementary etymologies have been proposed in scholarly literature:
+El nombre ha sido objeto de sustancial discusión erudita. La conexión con *ḥay* («viviente») es la etimología explícita del Génesis, pero se han propuesto en la literatura erudita varias etimologías alternativas o complementarias:
 
-- **The Aramaic *ḥewyāʾ*** (snake) — some scholars have proposed a connection to the Aramaic word for "snake," with the implication that *Ḥawwāh* and the Eden Serpent are etymologically connected. This is suggested by the Genesis Rabbah midrash and elaborated in some Kabbalistic materials. The connection is etymologically possible but not philologically demonstrable.
-- **The Phoenician *ḥwt*** (life-goddess) — a possible cognate to a Phoenician life-goddess figure, with some scholars proposing that *Ḥawwāh* preserves an ancient Semitic divine-name that has been demythologized in the Hebrew Bible's monotheistic reframing.
+- **El arameo *ḥewyāʾ*** (serpiente) — algunos eruditos han propuesto una conexión con la palabra aramea para «serpiente», con la implicación de que *Ḥawwāh* y la Serpiente del Edén están etimológicamente conectadas. Lo sugiere el midrash de Génesis Rabbah y se elabora en algunos materiales cabalísticos. La conexión es etimológicamente posible, pero no filológicamente demostrable.
+- **El fenicio *ḥwt*** (diosa de la vida) — un posible cognado de una figura fenicia de diosa de la vida, proponiendo algunos eruditos que *Ḥawwāh* conserva un antiguo nombre divino semítico desmitologizado en la reformulación monoteísta de la Biblia hebrea.
 
-The corpus reads the explicit Genesis 3:20 etymology as the principal and operationally significant one. *Ḥawwāh* is "the mother of all living" — the matriarch of the Eden-lineage human population, with the name preserving the biological-genealogical role that her subsequent history makes explicit. The framework does not develop the alternative etymological connections at length; the *Ḥawwāh* / serpent etymological possibility is registered but not adopted (the corpus's reading of Genesis 3 maintains that Eve is not identified with the Serpent, against the medieval Kabbalistic tradition's elaborations).
+El corpus lee la etimología explícita de Génesis 3:20 como la principal y operativamente significativa. *Ḥawwāh* es «la madre de todos los vivientes» — la matriarca de la población humana del linaje del Edén, conservando el nombre el papel biológico-genealógico que su historia subsiguiente explicita. El marco no desarrolla extensamente las conexiones etimológicas alternativas; la posibilidad etimológica *Ḥawwāh* / serpiente se registra pero no se adopta (la lectura del corpus de Génesis 3 mantiene que Eva no se identifica con la Serpiente, en contra de las elaboraciones de la tradición cabalística medieval).
 
-### The cross-tradition forms
+### Las formas inter-tradiciones
 
-The names appear across the Hebrew, Greek, Latin, Arabic, and other traditions in the following principal forms:
+Los nombres aparecen en las tradiciones hebrea, griega, latina, árabe y otras en las siguientes formas principales:
 
-- **Hebrew**: *ʾāḏām* (אָדָם), *Ḥawwāh* (חַוָּה)
-- **Greek (LXX and NT)**: *Adam* (Ἀδάμ), *Heua* (Εὕα)
-- **Latin (Vulgate)**: *Adam*, *Heva* (later *Eva*)
-- **Aramaic / Syriac**: *ʾĀḏām*, *Ḥawwâ*
-- **Arabic (Qur'an and Islamic tradition)**: *Ādam* (آدم), *Ḥawwāʾ* (حواء)
-- **English**: Adam, Eve
+- **Hebreo**: *ʾāḏām* (אָדָם), *Ḥawwāh* (חַוָּה)
+- **Griego (LXX y NT)**: *Adam* (Ἀδάμ), *Heua* (Εὕα)
+- **Latín (Vulgata)**: *Adam*, *Heva* (más tarde *Eva*)
+- **Arameo / siríaco**: *ʾĀḏām*, *Ḥawwâ*
+- **Árabe (Corán y tradición islámica)**: *Ādam* (آدم), *Ḥawwāʾ* (حواء)
+- **Español**: Adán, Eva
 
-The Arabic tradition's *Ādam wa-Ḥawwāʾ* preserves the Hebrew names in their direct Arabic-cognate forms, with the Qur'anic narrative of Adam and Eve (treated principally in surahs 2:30–39, 7:11–25, and 20:115–123) developing the Hebrew tradition's narrative with substantive theological elaborations specific to Islamic context.
+El *Ādam wa-Ḥawwāʾ* de la tradición árabe conserva los nombres hebreos en sus formas árabes directamente cognadas, desarrollando la narración coránica de Adán y Eva (tratada principalmente en las suras 2:30–39, 7:11–25 y 20:115–123) la narración de la tradición hebrea con elaboraciones teológicas sustanciales propias del contexto islámico.
 
-## In the Hebrew Bible and New Testament
+## En la Biblia hebrea y el Nuevo Testamento
 
-Adam and Eve appear principally in Genesis 2–5, with substantial subsequent biblical and post-biblical interpretive elaboration. The corpus's reading distinguishes carefully between the Genesis 1 summary creation account, the Genesis 2 specific Eden-narrative account, and the subsequent textual elaborations.
+Adán y Eva aparecen principalmente en Génesis 2–5, con sustancial elaboración interpretativa bíblica y posbíblica posterior. La lectura del corpus distingue cuidadosamente entre el relato sumario de la creación de Génesis 1, el relato específico de la narración del Edén de Génesis 2, y las elaboraciones textuales subsiguientes.
 
-### Genesis 1:26–28: the summary creation account
+### Génesis 1:26–28: el relato sumario de la creación
 
-Genesis 1:26–28 records the creation of humans within the seven-day creation sequence:
+{% library(book="genesis-woh", chapter=1, verse=26) %}
+Y dijeron los Elohim: «Hagamos al género humano a nuestra imagen, conforme a nuestra semejanza; y dominen sobre los peces del mar, y sobre las aves de los cielos, y sobre el ganado, y sobre toda la tierra, y sobre todo reptil que se arrastra sobre la tierra.»
+{% end %}
 
-> *"Then Elohim said, 'Let us make humanity (ʾāḏām) in our image (bə-ṣalmēnû), after our likeness (ki-dmûtēnû); and let them have dominion over the fish of the sea and over the birds of the air and over the cattle and over all the earth and over every creeping thing that creeps upon the earth.' So Elohim created humanity (ʾāḏām) in his image (bə-ṣalmô), in the image of Elohim (bə-ṣelem ʾĕlōhîm) he created him; male and female he created them. And Elohim blessed them."* (Genesis 1:26–28)
+Génesis 1:26–28 registra la creación de los humanos dentro de la secuencia creacional de siete días:
 
-The corpus reads Genesis 1:26–28 as the **summary account** of the broader human-creation program conducted by all seven Elohim creator teams across the Age of Leo (the sixth *yom* of the Genesis 1 sequence, on the corpus's precessional-age reading developed in the [Genesis](../genesis/) entry). The plural self-address (*naʿaśeh*, "let us make"; *bə-ṣalmēnû*, "in our image") is read as the Elohim civilization's plural reference, the *bə-ṣelem ʾĕlōhîm* ("in the image of Elohim") as the substantive biological reading that humans share substantial genetic and structural correspondence with their Eloha creators, and the *zakhar u-nəqēvâ* ("male and female") as the binary-creation pattern that all seven teams' work produced.
+> *«Entonces dijeron los Elohim: "Hagamos a la humanidad (ʾāḏām) a nuestra imagen (bə-ṣalmēnû), conforme a nuestra semejanza (ki-dmûtēnû); y tengan dominio sobre los peces del mar, sobre las aves de los cielos, sobre el ganado, sobre toda la tierra y sobre todo reptil que se arrastra sobre la tierra." Y crearon los Elohim a la humanidad (ʾāḏām) a su imagen (bə-ṣalmô), a imagen de Elohim (bə-ṣelem ʾĕlōhîm) lo crearon; varón y hembra los crearon. Y los bendijeron los Elohim.»* (Génesis 1:26–28)
 
-The Genesis 1 account does not name Adam and Eve specifically. The "ʾāḏām" of Genesis 1:26–27 is the generic species term, referring to the broader human-creation program rather than to specific individuals. The framework's reading is that Genesis 1 covers the full seven-team program, with Adam and Eve being the specific Israel-team contribution that the Genesis 2 narrative will detail.
+El corpus lee Génesis 1:26–28 como el **relato sumario** del programa más amplio de creación humana llevado a cabo por los siete equipos creadores Elohim a lo largo de la Era de Leo (el sexto *yom* de la secuencia de Génesis 1, según la lectura precesional del corpus desarrollada en la entrada [Génesis](../genesis/)). La autorreferencia en plural (*naʿaśeh*, «hagamos»; *bə-ṣalmēnû*, «a nuestra imagen») se lee como la referencia plural de la civilización Elohim; el *bə-ṣelem ʾĕlōhîm* («a imagen de Elohim»), como la lectura biológica sustantiva de que los humanos comparten una correspondencia genética y estructural sustancial con sus creadores Eloha; y el *zakhar u-nəqēvâ* («varón y hembra»), como el patrón de creación binaria que produjo el trabajo de los siete equipos.
 
-### Genesis 2:4–25: the Eden synthesis narrative
+El relato de Génesis 1 no nombra específicamente a Adán y Eva. El «ʾāḏām» de Génesis 1:26–27 es el término genérico de especie, referido al programa más amplio de creación humana más que a individuos concretos. La lectura del marco es que Génesis 1 cubre el programa completo de los siete equipos, siendo Adán y Eva la contribución específica del equipo de Israel que la narración de Génesis 2 detallará.
 
-Genesis 2:4–25 records the specific creation of Adam and Eve in the Eden installation:
+### Génesis 2:4–25: la narración de la síntesis del Edén
 
-> *"In the day that Yahweh Elohim made the earth and the heavens, when no plant of the field was yet in the earth and no herb of the field had yet sprung up... then Yahweh Elohim formed the man (ha-ʾāḏām) of dust from the ground (ʿāp̄ār min hā-ʾădāmâ), and breathed into his nostrils the breath of life (nišmaṯ ḥayyîm); and the man became a living being (nepeš ḥayyâ). And Yahweh Elohim planted a garden in Eden, in the east; and there he put the man whom he had formed."* (Genesis 2:4–8)
+{% library(book="genesis-woh", chapter=2, verse=7) %}
+YHWH-Elohim formó al humano, polvo de la tierra, y sopló en su nariz aliento de vida; y el humano vino a ser un ser viviente.
+{% end %}
 
-The narrative continues with the placement of the trees of the garden (the Tree of Life and the Tree of the Knowledge of Good and Evil), the rivers of Eden, the prohibition against eating from the Tree of Knowledge, the naming of the animals, and the formation of Eve:
+Génesis 2:4–25 registra la creación específica de Adán y Eva en la instalación del Edén:
 
-> *"Then Yahweh Elohim said, 'It is not good that the man should be alone; I will make him a helper fit for him.'... So Yahweh Elohim caused a deep sleep to fall upon the man, and while he slept took one of his ribs (mi-ṣalʿōṯāyw) and closed up its place with flesh; and the rib (ha-ṣēlāʿ) which Yahweh Elohim had taken from the man he made into a woman (ʾiššâ) and brought her to the man."* (Genesis 2:18, 21–22)
+> *«El día en que Yahvé Elohim hizo la tierra y los cielos, cuando aún no había planta del campo sobre la tierra ni había brotado aún hierba del campo... entonces Yahvé Elohim formó al hombre (ha-ʾāḏām) del polvo de la tierra (ʿāp̄ār min hā-ʾădāmâ), y sopló en su nariz aliento de vida (nišmaṯ ḥayyîm); y el hombre vino a ser un ser viviente (nepeš ḥayyâ). Y Yahvé Elohim plantó un jardín en Edén, al oriente; y puso allí al hombre que había formado.»* (Génesis 2:4–8)
 
-The chapter concludes with the man's recognition of the woman as *"bone of my bones, and flesh of my flesh"* and the etiological observation that *"a man leaves his father and his mother and cleaves to his wife, and they become one flesh."* The chapter's final note — *"and the man and his wife were both naked, and were not ashamed"* — sets up the subsequent Genesis 3 narrative.
+La narración continúa con la colocación de los árboles del jardín (el Árbol de la Vida y el Árbol del Conocimiento del Bien y del Mal), los ríos del Edén, la prohibición de comer del Árbol del Conocimiento, la imposición de nombres a los animales y la formación de Eva:
 
-The corpus reads Genesis 2:4–25 as the **specific narrative** of the Israel team's Eden synthesis, with Adam and Eve as the named first humans of the team's specific work. Several specific features warrant treatment.
+> *«Entonces dijo Yahvé Elohim: "No es bueno que el hombre esté solo; le haré una ayuda idónea para él."... Así pues Yahvé Elohim hizo caer un sueño profundo sobre el hombre, y mientras dormía tomó una de sus costillas (mi-ṣalʿōṯāyw) y cerró su lugar con carne; y de la costilla (ha-ṣēlāʿ) que Yahvé Elohim había tomado del hombre hizo una mujer (ʾiššâ), y la trajo al hombre.»* (Génesis 2:18, 21–22)
 
-The "dust of the ground" language of Genesis 2:7 is read as a stylized account of biological synthesis using terrestrial substrate. The Eloha-side biological work was conducted with terrestrial materials providing the molecular building blocks and Elohim genetic material providing the design template. The "breath of life" (*nišmaṯ ḥayyîm*) breathed into the synthesized human's nostrils is read as the activation of the synthesized organism — the moment of biological initiation that completed the synthesis process.
+El capítulo concluye con el reconocimiento del hombre de la mujer como *«hueso de mis huesos y carne de mi carne»* y la observación etiológica de que *«el hombre deja a su padre y a su madre y se une a su mujer, y vienen a ser una sola carne».* La nota final del capítulo — *«y el hombre y su mujer estaban ambos desnudos, y no se avergonzaban»* — prepara la subsiguiente narración de Génesis 3.
 
-The Hebrew word translated "rib" in Genesis 2:21–22 (*ṣēlāʿ*) carries broader meaning than the English "rib" suggests — *ṣēlāʿ* can mean "side," "panel," or "structural support" in other Hebrew Bible contexts. The corpus reads the Genesis 2:21–22 account as a stylized description of the biological synthesis of Eve from cells or genetic material taken from Adam, with the *ṣēlāʿ* language preserving an indirect reference to the cellular-biological source rather than a literal anatomical rib. Eve's biological foundation in Adam's cells provides her substantial genetic-biological compatibility with Adam, supporting the immediate fertility of their subsequent reproductive partnership.
+El corpus lee Génesis 2:4–25 como la **narración específica** de la síntesis del Edén del equipo de Israel, con Adán y Eva como los primeros humanos nombrados del trabajo específico del equipo. Varios rasgos concretos merecen tratamiento.
 
-The "deep sleep" (*tardēmâ*) Yahweh causes to fall upon Adam during Eve's formation is read as the operational state during which the cellular extraction and subsequent synthesis was conducted — a medical-anesthetic state appropriate to the surgical nature of the procedure.
+El lenguaje del «polvo de la tierra» de Génesis 2:7 se lee como un relato estilizado de síntesis biológica con sustrato terrestre.{{ footnote(id="2") }} El trabajo biológico del lado Eloha se llevó a cabo con materiales terrestres aportando los bloques moleculares de construcción y material genético Elohim aportando la plantilla de diseño. El «aliento de vida» (*nišmaṯ ḥayyîm*) soplado en la nariz del humano sintetizado se lee como la activación del organismo sintetizado — el momento de iniciación biológica que completó el proceso de síntesis.
 
-### The Genesis 1 / Genesis 2 textual question
+La palabra hebrea traducida «costilla» en Génesis 2:21–22 (*ṣēlāʿ*) tiene un significado más amplio del que sugiere el español «costilla» — *ṣēlāʿ* puede significar «costado», «panel» o «soporte estructural» en otros contextos de la Biblia hebrea. El corpus lee el relato de Génesis 2:21–22 como una descripción estilizada de la síntesis biológica de Eva a partir de células o material genético tomado de Adán, conservando el lenguaje de *ṣēlāʿ* una referencia indirecta a la fuente celular-biológica más que a una costilla anatómica literal. El fundamento biológico de Eva en las células de Adán le proporciona una compatibilidad genético-biológica sustancial con él, lo que sostiene la fertilidad inmediata de su subsiguiente asociación reproductiva.
 
-The relationship between the Genesis 1 summary account (1:26–28) and the Genesis 2 specific narrative (2:4–25) is one of the most extensively discussed exegetical questions in biblical scholarship. The principal positions:
+El «sueño profundo» (*tardēmâ*) que Yahvé hace caer sobre Adán durante la formación de Eva se lee como el estado operativo durante el cual se llevó a cabo la extracción celular y la subsiguiente síntesis — un estado médico-anestésico apropiado a la naturaleza quirúrgica del procedimiento.
 
-**The traditional harmonization** — the rabbinic and patristic interpretive tradition treats the two accounts as complementary descriptions of the same creation event, with Genesis 1 providing the cosmic-summary frame and Genesis 2 providing the detailed narrative of the specific human-creation portion. This is the traditional Jewish and Christian reading.
+### La cuestión textual Génesis 1 / Génesis 2
 
-**The documentary hypothesis** — the historical-critical scholarly position (developed by Wellhausen and successors across the late 19th and 20th centuries) treats the two accounts as compositions from distinct source documents (the Priestly source for Genesis 1 and the Yahwist source for Genesis 2) that have been juxtaposed by the Pentateuch's redactor without harmonization. The two accounts are recognized as genuinely distinct in vocabulary, theological emphasis, and creation sequence (Genesis 1 has plants → animals → humans; Genesis 2 has Adam → plants → animals → Eve), with the redactor leaving the discrepancies in the final form rather than smoothing them.
+La relación entre el relato sumario de Génesis 1 (1:26–28) y la narración específica de Génesis 2 (2:4–25) es una de las cuestiones exegéticas más ampliamente discutidas en la erudición bíblica. Las posiciones principales:
 
-**The corpus's reading** — the framework reads Genesis 1 as the summary account of the broader seven-team creation program (the seven *yamim* as precessional ages, with the sixth *yom* covering the human-creation work of all seven teams across the Age of Leo) and Genesis 2 as the detailed narrative of one specific team's work — the Israel team's Eden installation. The two accounts are thus genuinely distinct in scope (Genesis 1 covers the full program; Genesis 2 covers one team's portion of it) but complementary in their treatment of the same broader operational reality. This reading partially aligns with the documentary hypothesis (recognizing that the two accounts are textually and substantively distinct) while differing in interpretation (the corpus reads them as distinct in *scope* rather than as parallel-and-contradictory accounts of the same event).
+**La armonización tradicional** — la tradición interpretativa rabínica y patrística trata los dos relatos como descripciones complementarias del mismo acontecimiento creacional, aportando Génesis 1 el marco cósmico-sumario y Génesis 2 la narración detallada de la porción específica de creación humana. Esta es la lectura judía y cristiana tradicional.
 
-The corpus's reading has the methodological advantage of explaining why both accounts are preserved together in the final Genesis text: they are not contradictory but covering different scopes of the same broader operational reality, with the redactor preserving both because both contain accurate information that the other does not.
+**La hipótesis documentaria** — la posición erudita histórico-crítica (desarrollada por Wellhausen y sus sucesores a lo largo de finales del siglo XIX y del siglo XX) trata los dos relatos como composiciones de documentos-fuente distintos (la fuente sacerdotal para Génesis 1 y la fuente yahvista para Génesis 2) yuxtapuestos por el redactor del Pentateuco sin armonización.{{ cite(id="skinner-genesis-icc", text="[3]", title="Skinner, *A Critical and Exegetical Commentary on Genesis* (ICC, 1910)") }}{{ cite(id="von-rad-genesis", text="[4]", title="von Rad, *Genesis: A Commentary* (1961)") }}{{ cite(id="westermann-genesis-1-11", text="[5]", title="Westermann, *Genesis 1–11: A Continental Commentary* (1994)") }}{{ cite(id="sarna-genesis-jps", text="[6]", title="Sarna, *Genesis: The JPS Torah Commentary* (1989)") }} Los dos relatos se reconocen como genuinamente distintos en vocabulario, énfasis teológico y secuencia de creación (Génesis 1 tiene plantas → animales → humanos; Génesis 2 tiene Adán → plantas → animales → Eva), dejando el redactor las discrepancias en la forma final en lugar de limarlas.
 
-### Genesis 3: the disclosure and expulsion
+**La lectura del corpus** — el marco lee Génesis 1 como el relato sumario del programa creacional más amplio de los siete equipos (los siete *yamim* como eras precesionales, cubriendo el sexto *yom* el trabajo de creación humana de los siete equipos a lo largo de la Era de Leo) y Génesis 2 como la narración detallada del trabajo de un equipo concreto — la instalación del Edén del equipo de Israel.{{ footnote(id="1") }} Los dos relatos son, por tanto, genuinamente distintos en alcance (Génesis 1 cubre el programa completo; Génesis 2 cubre la porción de un equipo) pero complementarios en su tratamiento de la misma realidad operativa más amplia. Esta lectura se alinea parcialmente con la hipótesis documentaria (reconociendo que los dos relatos son textual y sustantivamente distintos) si bien difiere en la interpretación (el corpus los lee como distintos en *alcance* más que como relatos paralelos-y-contradictorios del mismo acontecimiento).
 
-Genesis 3 narrates the Serpent's intervention, the eating from the Tree of Knowledge, and the expulsion from the garden — treated extensively in the [Serpent](../serpent/), [Lucifer](../lucifer/), and [Eden](../eden/) entries. For the Adam-and-Eve biographical arc, the relevant content includes:
+La lectura del corpus tiene la ventaja metodológica de explicar por qué ambos relatos se conservan juntos en el texto final del Génesis: no son contradictorios, sino que cubren alcances distintos de la misma realidad operativa más amplia, conservando el redactor ambos porque ambos contienen información exacta que el otro no posee.
 
-- The Serpent's address to Eve specifically, the dialogue about the prohibition, Eve's eating from the tree, Eve's giving the fruit to Adam, Adam's eating
-- The post-eating recognition of nakedness and the response of shame
-- Yahweh's investigation, with Adam's deflection of responsibility to Eve and Eve's deflection of responsibility to the Serpent
-- The pronouncement of consequences on the Serpent, on Eve (pain in childbirth, subordination to Adam), and on Adam (toil to extract food from the ground)
-- The expulsion from the garden, with the cherubim and the flaming sword stationed at the entrance to prevent re-access to the Tree of Life
-- The provision of "coats of skins" (*koṯnoṯ ʿôr*) for Adam and Eve before their expulsion
+### Génesis 3: la revelación y la expulsión
 
-The corpus reads these elements as operational realities preserved in stylized narrative form. The detailed treatment lives in the Serpent and Eden entries; for the Adam-and-Eve biographical arc, the principal point is that Adam and Eve received the Lucifer-faction disclosure together, were judged together by Yahweh, and were expelled together from the controlled environment.
+Génesis 3 narra la intervención de la Serpiente, el comer del Árbol del Conocimiento y la expulsión del jardín — tratados extensamente en las entradas [Serpiente](../serpent/), [Lucifer](../lucifer/) y [Edén](../eden/). Para el arco biográfico de Adán y Eva, el contenido pertinente incluye:
 
-The Raëlian source material is explicit that the disclosure was offered to both humans, the affection of the disclosing creators was for both, and the consequences of the awakening fell equally on both. The misogynistic interpretive tradition that has read Eve as uniquely culpable is a later development, not the text's own framing. The corpus rejects the conventional Christian theological reading that places primary responsibility on Eve and treats Adam's eating as a secondary consequence.
+- La interpelación de la Serpiente a Eva específicamente, el diálogo sobre la prohibición, el comer de Eva del árbol, el dar Eva el fruto a Adán, el comer de Adán
+- El reconocimiento post-comida de la desnudez y la respuesta de vergüenza
+- La investigación de Yahvé, con la deflexión de responsabilidad de Adán hacia Eva y la deflexión de responsabilidad de Eva hacia la Serpiente
+- El pronunciamiento de consecuencias sobre la Serpiente, sobre Eva (dolor en el parto, subordinación a Adán) y sobre Adán (afán por extraer alimento de la tierra)
+- La expulsión del jardín, con los querubines y la espada flamígera apostados a la entrada para impedir el reacceso al Árbol de la Vida
+- La provisión de «túnicas de pieles» (*koṯnoṯ ʿôr*) para Adán y Eva antes de su expulsión
 
-### Genesis 4–5: the post-Eden generations
+El corpus lee estos elementos como realidades operativas conservadas en forma narrativa estilizada. El tratamiento detallado vive en las entradas Serpiente y Edén; para el arco biográfico de Adán y Eva, el punto principal es que Adán y Eva recibieron la revelación de la facción de Lucifer juntos, fueron juzgados juntos por Yahvé y fueron expulsados juntos del entorno controlado.
 
-Genesis 4 narrates the birth of Cain and Abel to Adam and Eve, the conflict between the brothers culminating in Cain's murder of Abel, the curse on Cain, and the subsequent genealogical material on Cain's descendants (the cultural-founders genealogy: Jabal, Jubal, Tubal-Cain). Genesis 4:25 records the birth of Seth as Eve's third named son: *"And Adam knew his wife again, and she bore a son and called his name Seth (Šēṯ), for she said, 'Elohim has appointed (šāṯ) for me another offspring instead of Abel, for Cain killed him.'"*
+El material fuente raeliano es explícito en que la revelación se ofreció a ambos humanos, que el afecto de los creadores reveladores era para ambos, y que las consecuencias del despertar recayeron por igual sobre ambos.{{ footnote(id="4") }} La tradición interpretativa misógina que ha leído a Eva como singularmente culpable es un desarrollo posterior, no el encuadre propio del texto. El corpus rechaza la lectura teológica cristiana convencional que sitúa la responsabilidad principal en Eva y trata el comer de Adán como una consecuencia secundaria.
 
-Genesis 5 records the patriarchal genealogy from Adam through Seth's line to Noah, with specific recorded ages for each patriarch. Adam's recorded life is stated at 5:5: *"Thus all the days that Adam lived were nine hundred and thirty years; and he died."* Eve's death is not separately recorded in the Hebrew Bible.
+### Génesis 4–5: las generaciones post-Edén
 
-The corpus reads the Genesis 4–5 material as historical-genealogical record. The principal elements:
+Génesis 4 narra el nacimiento de Caín y Abel de Adán y Eva, el conflicto entre los hermanos que culmina en el asesinato de Abel por Caín, la maldición sobre Caín, y el subsiguiente material genealógico sobre los descendientes de Caín (la genealogía de los fundadores culturales: Jabal, Jubal, Tubal-Caín). Génesis 4:25 registra el nacimiento de Set como tercer hijo nombrado de Eva: *«Y conoció Adán de nuevo a su mujer, la cual dio a luz un hijo, y llamó su nombre Set (Šēṯ), porque dijo: "Elohim me ha sustituido (šāṯ) otra descendencia en lugar de Abel, a quien mató Caín."»*
 
-- Cain and Abel are read as Adam and Eve's first two named sons in the ordinary genealogical sense — *not* as different-lineage products as the Biglino "Cain-of-the-serpent-lineage" reading proposes (treated more fully in the [Serpent](../serpent/) entry's modern-reinterpretations section). The corpus rejects the bloodline-purification reading.
-- The Cain-Abel conflict is read as a specific interpersonal conflict over offerings, with the source material adding context that the exiled creators (the Lucifer faction) were encouraging the humans to bring offerings as evidence to the home-world council that the humans were well-behaved and grateful. Yahweh's preference for Abel's animal offering over Cain's agricultural offering produced the resentment that led to the murder.
-- The cultural-founders genealogy of Cain's line (Genesis 4:17–22) is read as the developmental record of the early antediluvian Eden civilization's specific cultural-technological accomplishments: city-building (Cain's city), pastoral nomadism (Jabal), music (Jubal), and metallurgy (Tubal-Cain).
-- Seth is read as Adam and Eve's third named son, born after Abel's murder, and the founder of the alternative genealogical line through which the patriarchal succession (recorded in Genesis 5) would proceed to Noah.
-- Adam's recorded 930 years is read in connection with the broader patriarchal-longevity question (treated more fully in the [Antediluvian](../antediluvian/) and [Tree of Life](../tree-of-life/) entries). The corpus's reading is that Adam's longevity was a specific consequence of the Lucifer faction's continuing post-Eden support, with the longevity treatment provided to specific Eden-lineage figures across the antediluvian period.
+Génesis 5 registra la genealogía patriarcal desde Adán a través de la línea de Set hasta Noé, con edades registradas específicas para cada patriarca. La vida registrada de Adán se enuncia en 5:5: *«Y fueron todos los días que vivió Adán novecientos treinta años; y murió.»* La muerte de Eva no se registra por separado en la Biblia hebrea.
 
-The framework's reading does not develop the question of Eve's death at length. The Hebrew Bible's silence on this point is consistent with several possible readings: that Eve predeceased Adam without specific record, that Eve was taken up at some point during the antediluvian period (paralleling the later Enoch case), or that Eve's death was simply not recorded in the Hebrew tradition. The corpus does not commit to a specific reading on this point.
+El corpus lee el material de Génesis 4–5 como registro histórico-genealógico. Los elementos principales:
 
-### Other Hebrew Bible references
+- Caín y Abel se leen como los dos primeros hijos nombrados de Adán y Eva en el sentido genealógico ordinario — *no* como productos de un linaje distinto, como propone la lectura de Biglino del «Caín-del-linaje-de-la-serpiente» (tratada más a fondo en la sección de reinterpretaciones modernas de la entrada [Serpiente](../serpent/)). El corpus rechaza la lectura de purificación de linaje sanguíneo.
+- El conflicto Caín-Abel se lee como un conflicto interpersonal concreto en torno a ofrendas, añadiendo el material fuente el contexto de que los creadores exiliados (la facción de Lucifer) animaban a los humanos a traer ofrendas como prueba ante el consejo del mundo de origen de que los humanos se comportaban bien y eran agradecidos. La preferencia de Yahvé por la ofrenda animal de Abel sobre la ofrenda agrícola de Caín produjo el resentimiento que condujo al asesinato.
+- La genealogía de los fundadores culturales de la línea de Caín (Génesis 4:17–22) se lee como el registro evolutivo de los logros cultural-tecnológicos concretos de la temprana civilización antediluviana del Edén: la construcción de ciudades (la ciudad de Caín), el nomadismo pastoril (Jabal), la música (Jubal) y la metalurgia (Tubal-Caín).
+- Set se lee como el tercer hijo nombrado de Adán y Eva, nacido tras el asesinato de Abel, y el fundador de la línea genealógica alternativa por la cual procedería la sucesión patriarcal (registrada en Génesis 5) hasta Noé.
+- Los 930 años registrados de Adán se leen en conexión con la cuestión más amplia de la longevidad patriarcal (tratada más a fondo en las entradas [Antediluviano](../antediluvian/) y [Árbol de la Vida](../tree-of-life/)). La lectura del corpus es que la longevidad de Adán fue una consecuencia concreta del apoyo continuado post-Edén de la facción de Lucifer, con el tratamiento de longevidad proporcionado a figuras concretas del linaje del Edén a lo largo del período antediluviano.
 
-Adam appears by name in several other Hebrew Bible passages:
+La lectura del marco no desarrolla extensamente la cuestión de la muerte de Eva. El silencio de la Biblia hebrea en este punto es coherente con varias lecturas posibles: que Eva muriera antes que Adán sin registro específico, que Eva fuera arrebatada en algún momento del período antediluviano (en paralelo al caso posterior de Enoc), o que la muerte de Eva simplemente no se registrara en la tradición hebrea. El corpus no se compromete con una lectura concreta en este punto.
 
-- **1 Chronicles 1:1**: *"Adam, Seth, Enosh..."* — the opening of the Chronicler's genealogical compendium, naming Adam as the first figure.
-- **Hosea 6:7**: *"Like Adam they transgressed the covenant"* — the prophet's reference to the Adam-and-Eve disclosure in connection with Israel's covenant violations.
-- **Job 31:33**: *"if I have concealed my transgressions like Adam"* — Job's reference using Adam as the type of failed concealment.
+### Otras referencias en la Biblia hebrea
 
-Eve does not appear by name in the Hebrew Bible outside of Genesis. The Hebrew tradition's treatment of Eve as a named figure is therefore textually limited to the Genesis narrative.
+Adán aparece por su nombre en varios otros pasajes de la Biblia hebrea:
 
-### New Testament references
+- **1 Crónicas 1:1**: *«Adán, Set, Enós...»* — la apertura del compendio genealógico del Cronista, nombrando a Adán como la primera figura.
+- **Oseas 6:7**: *«Mas ellos, cual Adán, traspasaron el pacto»* — la referencia del profeta a la revelación de Adán y Eva en conexión con las violaciones del pacto de Israel.
+- **Job 31:33**: *«si encubrí como Adán mis transgresiones»* — la referencia de Job usando a Adán como el tipo del encubrimiento fallido.
 
-The New Testament makes substantial use of Adam and Eve in theological argumentation. The principal passages:
+Eva no aparece por su nombre en la Biblia hebrea fuera del Génesis. El tratamiento de la tradición hebrea de Eva como figura nombrada está, por tanto, textualmente limitado a la narración del Génesis.
 
-- **Romans 5:12–21**: Paul's typological argument that Adam introduced sin and death into the world, with Christ as the second Adam who reverses Adam's effects. The passage is foundational for the Augustinian original-sin doctrine.
-- **1 Corinthians 15:21–22, 45–49**: Paul's parallel typological argument: *"For as in Adam all die, so also in Christ shall all be made alive"* (15:22), and *"The first Adam became a living being, the last Adam became a life-giving spirit"* (15:45). The "second Adam" Christology is developed here.
-- **1 Timothy 2:13–14**: *"Adam was formed first, then Eve; and Adam was not deceived, but the woman was deceived and became a transgressor."* This passage is foundational for the misogynistic interpretive tradition that places primary responsibility on Eve.
-- **2 Corinthians 11:3**: Paul's reference to *"the serpent's deception of Eve."*
-- **Jude 14**: Reference to *"Enoch, the seventh from Adam"* — using Adam as the genealogical anchor.
+### Referencias neotestamentarias
 
-The corpus reads the Pauline Adam-typology as a specific theological-rhetorical use of the Adam figure rather than as a direct historical reference. The Adam-Christ typology is theologically productive within the New Testament's argumentative framework but is not, on the framework's reading, a direct historical claim about the Adam figure's actual operational role. The 1 Timothy 2:13–14 passage's specific "woman was deceived" framing is the textual basis of the subsequent misogynistic tradition that the framework rejects on the grounds the Raëlian source material specifies (the disclosure was offered to both humans equally).
+El Nuevo Testamento hace un uso sustancial de Adán y Eva en la argumentación teológica. Los pasajes principales:
 
-## Biographical arc
+- **Romanos 5:12–21**: el argumento tipológico de Pablo de que Adán introdujo el pecado y la muerte en el mundo, con Cristo como el segundo Adán que invierte los efectos de Adán. El pasaje es fundacional para la doctrina agustiniana del pecado original.
+- **1 Corintios 15:21–22, 45–49**: el argumento tipológico paralelo de Pablo: *«Porque así como en Adán todos mueren, también en Cristo todos serán vivificados»* (15:22), y *«El primer Adán fue hecho ser viviente; el postrer Adán, espíritu vivificante»* (15:45). Aquí se desarrolla la cristología del «segundo Adán».
+- **1 Timoteo 2:13–14**: *«Porque Adán fue formado primero, después Eva; y Adán no fue engañado, sino que la mujer, siendo engañada, incurrió en transgresión.»* Este pasaje es fundacional para la tradición interpretativa misógina que sitúa la responsabilidad principal en Eva.
+- **2 Corintios 11:3**: la referencia de Pablo a *«el engaño de la serpiente a Eva».*
+- **Judas 14**: la referencia a *«Enoc, séptimo desde Adán»* — usando a Adán como ancla genealógica.
 
-Adam and Eve's biographical arc, as the framework reads it, spans from their de novo synthesis in the late Age of Leo through their continuing presence on the Planet of the Eternals in the contemporary period. Given the joint character of their narrative, the arc is structured with parallel and shared sub-sections.
+El corpus lee la tipología paulina de Adán como un uso teológico-retórico concreto de la figura de Adán más que como una referencia histórica directa. La tipología Adán-Cristo es teológicamente productiva dentro del marco argumentativo del Nuevo Testamento, pero no es, según la lectura del marco, una afirmación histórica directa sobre el papel operativo real de la figura de Adán. El encuadre concreto «la mujer fue engañada» del pasaje de 1 Timoteo 2:13–14 es la base textual de la subsiguiente tradición misógina que el marco rechaza sobre los fundamentos que el material fuente raeliano especifica (la revelación se ofreció a ambos humanos por igual).
 
-### Pre-creation: the Israel team's preparatory work
+## Arco biográfico
 
-The Israel team's preparatory work in the Eden region preceded Adam and Eve's specific synthesis by some period, with the team establishing its installation, preparing the controlled environment, conducting various preliminary biological work (the plants and animals of Genesis 2's narrative), and developing the specific protocols for human synthesis. The detailed treatment of this preparatory period lives in the [Eden](../eden/) entry; for the Adam-and-Eve biographical arc, the principal point is that the team was prepared to conduct human synthesis when Adam and Eve were specifically created.
+El arco biográfico de Adán y Eva, según lo lee el marco, abarca desde su síntesis de novo en la Era de Leo tardía hasta su presencia continuada en el Planeta de los Eternos en el período contemporáneo. Dada la naturaleza conjunta de su narración, el arco se estructura con subsecciones paralelas y compartidas.
 
-The seven creator teams' work across the late Age of Leo produced parallel human-creation projects at distinct sites across the antediluvian supercontinent. The Israel team's specific work at the Eden site produced Adam and Eve as the first humans of the lineage whose subsequent history would be preserved in the Hebrew Bible. The other six teams produced parallel lineages whose histories survive in fragmentary form across other ancient cultural traditions.
+### Antes de la creación: el trabajo preparatorio del equipo de Israel
 
-### Synthesis: Adam first, then Eve
+El trabajo preparatorio del equipo de Israel en la región del Edén precedió a la síntesis específica de Adán y Eva durante cierto período, estableciendo el equipo su instalación, preparando el entorno controlado, llevando a cabo diverso trabajo biológico preliminar (las plantas y animales de la narración de Génesis 2) y desarrollando los protocolos específicos para la síntesis humana. El tratamiento detallado de este período preparatorio vive en la entrada [Edén](../eden/); para el arco biográfico de Adán y Eva, el punto principal es que el equipo estaba preparado para llevar a cabo la síntesis humana cuando Adán y Eva fueron creados específicamente.
 
-Adam was synthesized first, on the corpus's reading. The Genesis 2:7 account — *"Yahweh Elohim formed the man of dust from the ground, and breathed into his nostrils the breath of life; and the man became a living being"* — is read as the operational record of the first synthesis. The biological process involved:
+El trabajo de los siete equipos creadores a lo largo de la Era de Leo tardía produjo proyectos paralelos de creación humana en sitios distintos del supercontinente antediluviano. El trabajo específico del equipo de Israel en el sitio del Edén produjo a Adán y Eva como los primeros humanos del linaje cuya historia subsiguiente se conservaría en la Biblia hebrea. Los otros seis equipos produjeron linajes paralelos cuyas historias sobreviven en forma fragmentaria a lo largo de otras tradiciones culturales antiguas.
 
-- The use of terrestrial materials as molecular substrate for the synthesis
-- Elohim genetic material as the principal template, with the synthesized human carrying substantial genetic correspondence to his Eloha creators
-- The activation of the synthesized organism through what the Hebrew text calls the *nišmaṯ ḥayyîm* ("breath of life") — read by the corpus as the moment of biological initiation
-- The result: a functional adult human with substantial cognitive capacity, biological viability, and reproductive potential
+### Síntesis: primero Adán, luego Eva
 
-Eve was synthesized subsequently, with her synthesis using cellular or genetic material from Adam as part of the source material. The Genesis 2:21–22 account — Adam's "deep sleep," the taking of the *ṣēlāʿ* ("rib" / "side" / "structural support"), the formation of the woman, the bringing of her to the man — is read as the operational record of this specific synthesis.
+Adán fue sintetizado primero, según la lectura del corpus. El relato de Génesis 2:7 — *«Yahvé Elohim formó al hombre del polvo de la tierra, y sopló en su nariz aliento de vida; y el hombre vino a ser un ser viviente»* — se lee como el registro operativo de la primera síntesis. El proceso biológico involucró:
 
-The framework reads the deliberate Adam-first / Eve-from-Adam synthesis sequence as the Israel team's specific procedural choice rather than as the universal pattern of all seven teams' work. The Genesis 1 summary account explicitly records the binary creation pattern (*"male and female he created them"*) as simultaneous, suggesting that other teams may have synthesized male and female humans simultaneously. The Israel team's specific Adam-first sequence is one team's specific procedural choice within the broader project.
+- El uso de materiales terrestres como sustrato molecular para la síntesis
+- Material genético Elohim como plantilla principal, portando el humano sintetizado una correspondencia genética sustancial con sus creadores Eloha
+- La activación del organismo sintetizado mediante lo que el texto hebreo llama el *nišmaṯ ḥayyîm* («aliento de vida») — leído por el corpus como el momento de iniciación biológica
+- El resultado: un humano adulto funcional con capacidad cognitiva sustancial, viabilidad biológica y potencial reproductivo
 
-The biological-genetic implications of Eve's formation from Adam's cellular material are substantial. Eve is, on the framework's reading, substantially genetically related to Adam — sharing more genetic material with him than would be the case if she had been independently synthesized. This near-identity provides the immediate fertility of their subsequent reproductive partnership and gives substantive content to Adam's Genesis 2:23 recognition: *"This at last is bone of my bones and flesh of my flesh."*
+Eva fue sintetizada con posterioridad, empleando su síntesis material celular o genético de Adán como parte del material fuente. El relato de Génesis 2:21–22 — el «sueño profundo» de Adán, la toma del *ṣēlāʿ* («costilla» / «costado» / «soporte estructural»), la formación de la mujer, el traerla al hombre — se lee como el registro operativo de esta síntesis específica.
 
-### Education and life in Eden
+El marco lee la deliberada secuencia de síntesis Adán-primero / Eva-de-Adán como la elección procedimental concreta del equipo de Israel más que como el patrón universal del trabajo de los siete equipos. El relato sumario de Génesis 1 registra explícitamente el patrón de creación binaria (*«varón y hembra los creó»*) como simultáneo, lo que sugiere que otros equipos pudieron haber sintetizado humanos varón y hembra simultáneamente. La secuencia específica Adán-primero del equipo de Israel es la elección procedimental concreta de un equipo dentro del proyecto más amplio.
 
-Adam and Eve's life in the Eden installation prior to the disclosure event was an extended period of education and observation by the Israel team. The principal features:
+Las implicaciones biológico-genéticas de la formación de Eva a partir del material celular de Adán son sustanciales. Eva está, según la lectura del marco, sustancialmente emparentada genéticamente con Adán — compartiendo más material genético con él del que sería el caso si hubiera sido sintetizada de modo independiente. Esta casi-identidad proporciona la fertilidad inmediata de su subsiguiente asociación reproductiva y da contenido sustantivo al reconocimiento de Adán en Génesis 2:23: *«Esto es ahora hueso de mis huesos y carne de mi carne.»*
 
-**The educational program**. The Israel team's scientists conducted a substantial educational program with Adam and Eve, teaching them language, basic technological capacity, social-cultural patterns, and the broader cognitive-cultural infrastructure that constituted their developed humanity. The program was constrained by the home-world's containment policy — specific scientific and technological content was withheld, with the prohibition on the Tree of Knowledge being the formal expression of this withholding — but was substantial within those constraints.
+### Educación y vida en el Edén
 
-**The naming of the animals**. Genesis 2:19–20 records Adam's naming of the animals — *"Whatever the man called every living creature, that was its name."* The corpus reads this as a specific educational exercise in which Adam developed the linguistic and conceptual apparatus through which he would understand his environment, with the naming conducted in the language the Israel team was teaching him (the language closely resembling ancient Hebrew, per the source material's specific claim treated in the [Hebrew](../hebrew/) entry).
+La vida de Adán y Eva en la instalación del Edén antes del acontecimiento de la revelación fue un período extenso de educación y observación por parte del equipo de Israel. Los rasgos principales:
 
-**The relationship with the Israel team**. Adam and Eve developed substantial personal relationships with the Israel team's scientists across their pre-disclosure period in Eden. The corpus reads the relationship as a substantive teacher-student / parent-child dynamic, with the scientists invested in their human students' development. The future Lucifer faction's specific attachment to the humans developed across this period, providing the personal foundation for the dissenting position that would ultimately produce the disclosure.
+**El programa educativo**. Los científicos del equipo de Israel llevaron a cabo un programa educativo sustancial con Adán y Eva, enseñándoles lengua, capacidad tecnológica básica, patrones social-culturales y la infraestructura cognitivo-cultural más amplia que constituyó su humanidad desarrollada. El programa estaba restringido por la política de contención del mundo de origen — se retenía contenido científico y tecnológico concreto, siendo la prohibición sobre el Árbol del Conocimiento la expresión formal de esta retención — pero era sustancial dentro de esas restricciones.
 
-**The pre-disclosure state**. Genesis 2:25 records the pre-disclosure state: *"And the man and his wife were both naked, and were not ashamed."* The framework reads this as the prelapsarian condition of the educational period — Adam and Eve operating within the controlled environment without the full self-awareness that the disclosure would produce, with their lack of shame reflecting the integrated relationship they had with their creators.
+**La imposición de nombres a los animales**. Génesis 2:19–20 registra la imposición de nombres a los animales por parte de Adán — *«todo lo que Adán llamó a los animales vivientes, ese es su nombre».* El corpus lee esto como un ejercicio educativo específico en el que Adán desarrolló el aparato lingüístico y conceptual con el que entendería su entorno, conduciéndose la imposición de nombres en la lengua que el equipo de Israel le enseñaba (lengua que se asemejaba estrechamente al hebreo antiguo, según la afirmación específica del material fuente tratada en la entrada [Hebreo](../hebrew/)).
 
-### The Eden disclosure
+**La relación con el equipo de Israel**. Adán y Eva desarrollaron relaciones personales sustanciales con los científicos del equipo de Israel a lo largo de su período pre-revelación en el Edén. El corpus lee la relación como una dinámica sustantiva maestro-alumno / padre-hijo, con los científicos implicados en el desarrollo de sus alumnos humanos. El apego específico de la futura facción de Lucifer a los humanos se desarrolló a lo largo de este período, proporcionando el fundamento personal para la posición disidente que en última instancia produciría la revelación.
 
-The Eden disclosure event is treated extensively in the [Serpent](../serpent/) and [Lucifer](../lucifer/) entries. For the Adam-and-Eve biographical arc, the principal points:
+**El estado pre-revelación**. Génesis 2:25 registra el estado pre-revelación: *«Y el hombre y su mujer estaban ambos desnudos, y no se avergonzaban.»* El marco lee esto como la condición prelapsaria del período educativo — Adán y Eva operando dentro del entorno controlado sin la plena autoconciencia que la revelación produciría, reflejando su falta de vergüenza la relación integrada que tenían con sus creadores.
 
-The disclosure was conducted by the Lucifer faction, with the Serpent's specific dialogue with Eve being the public articulation of the dissenting position. Eve was the first specifically addressed because of the dissenting faction's calculation about the most effective approach to the disclosure (the Genesis text does not specify why Eve specifically was approached; the corpus does not develop a definitive reading on this point). Eve received the disclosure, accepted it, and gave the relevant material to Adam, who also accepted it. The consequence was their acquisition of substantial scientific knowledge they had previously been denied — the *"knowing of good and evil"* of Genesis 3:5 and 3:22.
+### La revelación del Edén
 
-The post-disclosure recognition of nakedness is read by the corpus as the consequence of the new self-awareness the disclosure produced. With substantial scientific knowledge, Adam and Eve now understood themselves as biological beings in ways they had not previously, with the result that the bodily-biological dimensions of their existence became newly conscious.
+El acontecimiento de la revelación del Edén se trata extensamente en las entradas [Serpiente](../serpent/) y [Lucifer](../lucifer/). Para el arco biográfico de Adán y Eva, los puntos principales:
 
-Yahweh's subsequent investigation, with Adam's deflection ("the woman whom you gave to be with me, she gave me fruit of the tree, and I ate") and Eve's deflection ("the serpent beguiled me, and I ate"), is read as Adam's and Eve's specific responses to the political crisis the disclosure had produced. The corpus does not read these deflections as morally damning — they are the responses of newly-awakened beings to a sudden political-existential crisis — but does register them as characteristic of the post-disclosure moment.
+La revelación la condujo la facción de Lucifer, siendo el diálogo específico de la Serpiente con Eva la articulación pública de la posición disidente. Eva fue la primera específicamente interpelada por el cálculo de la facción disidente sobre el enfoque más eficaz de la revelación (el texto del Génesis no especifica por qué se abordó específicamente a Eva; el corpus no desarrolla una lectura definitiva sobre este punto). Eva recibió la revelación, la aceptó y entregó el material pertinente a Adán, quien también la aceptó. La consecuencia fue su adquisición de conocimiento científico sustancial que previamente les había sido negado — el *«conocer el bien y el mal»* de Génesis 3:5 y 3:22.
 
-### Expulsion and the post-Eden settlement
+El reconocimiento post-revelación de la desnudez lo lee el corpus como la consecuencia de la nueva autoconciencia que produjo la revelación. Con conocimiento científico sustancial, Adán y Eva se entendían ahora a sí mismos como seres biológicos de maneras que antes no, con el resultado de que las dimensiones corporal-biológicas de su existencia se volvieron nuevamente conscientes.
 
-The expulsion from the garden is read by the corpus as the operational consequence of the home-world's political verdict. The "coats of skins" (*koṯnoṯ ʿôr*) that Yahweh provides for Adam and Eve before their expulsion (Genesis 3:21) are read as the basic material resources required for their survival outside the controlled environment — the minimum equipment for living independently in the broader Eden region.
+La subsiguiente investigación de Yahvé, con la deflexión de Adán («la mujer que me diste por compañera me dio del árbol, y yo comí») y la deflexión de Eva («la serpiente me engañó, y comí»), se lee como las respuestas concretas de Adán y Eva a la crisis política que la revelación había producido. El corpus no lee estas deflexiones como moralmente condenatorias — son las respuestas de seres recién despertados a una súbita crisis político-existencial — pero sí las registra como características del momento post-revelación.
 
-The expulsion's specifics include:
+### Expulsión y el asentamiento post-Edén
 
-- The relocation outside the boundaries of the prepared Eden installation
-- The placement of the cherubim and the flaming sword (*lahaṭ ha-ḥereḇ ha-mithappeḵeṯ*, the "rotating flame-blade") at the entrance — read by the corpus as armed sentries with directed-energy weapons preventing re-access
-- The consequence of laboring "in the sweat of your face" (Genesis 3:19) for Adam and "in pain... bring forth children" (Genesis 3:16) for Eve — read by the corpus as the operational reality of life outside the controlled environment, with food production and reproduction now having to be managed without the supportive technology of the installation
+La expulsión del jardín la lee el corpus como la consecuencia operativa del veredicto político del mundo de origen. Las «túnicas de pieles» (*koṯnoṯ ʿôr*) que Yahvé provee para Adán y Eva antes de su expulsión (Génesis 3:21) se leen como los recursos materiales básicos requeridos para su supervivencia fuera del entorno controlado — el equipamiento mínimo para vivir de forma independiente en la región más amplia del Edén.
 
-Adam and Eve's life in the post-Eden Eden region was the foundational period of the early antediluvian Eden civilization. The corpus reads their post-expulsion life as substantial — they continued to receive support from the exiled Lucifer faction, who remained on Earth as their continuing teachers, and they progressively developed the cultural and material infrastructure that their offspring would inherit.
+Las particularidades de la expulsión incluyen:
 
-### First-generation children: Cain, Abel, Seth, and others
+- La reubicación fuera de los límites de la instalación preparada del Edén
+- La colocación de los querubines y la espada flamígera (*lahaṭ ha-ḥereḇ ha-mithappeḵeṯ*, la «hoja-llama giratoria») a la entrada — leída por el corpus como centinelas armados con armas de energía dirigida que impedían el reacceso
+- La consecuencia de laborar «con el sudor de tu rostro» (Génesis 3:19) para Adán y «con dolor... darás a luz los hijos» (Génesis 3:16) para Eva — leída por el corpus como la realidad operativa de la vida fuera del entorno controlado, debiendo ahora gestionarse la producción de alimento y la reproducción sin la tecnología de apoyo de la instalación
 
-The Genesis 4 narrative records Cain and Abel as Adam and Eve's first two named sons, with Seth as their third named son following Abel's murder. Genesis 5:4 adds that Adam *"had other sons and daughters"* whose names are not recorded.
+La vida de Adán y Eva en la región post-Edén del Edén fue el período fundacional de la temprana civilización antediluviana del Edén. El corpus lee su vida post-expulsión como sustancial — continuaron recibiendo apoyo de la facción exiliada de Lucifer, que permaneció en la Tierra como sus maestros continuados, y desarrollaron progresivamente la infraestructura cultural y material que su descendencia heredaría.
 
-The Cain-Abel-Seth narrative is the framework's principal evidence for several substantive readings:
+### Hijos de primera generación: Caín, Abel, Set y otros
 
-**Cain and Abel as ordinary genealogical sons**. Both are read as Adam and Eve's biological sons in the ordinary sense, with Cain's "lineage of the serpent" reading (developed by Biglino on the basis of Genesis 3:15's "I will put enmity between your seed and her seed") rejected by the corpus.
+La narración de Génesis 4 registra a Caín y Abel como los dos primeros hijos nombrados de Adán y Eva, con Set como su tercer hijo nombrado tras el asesinato de Abel. Génesis 5:4 añade que Adán *«engendró hijos e hijas»* cuyos nombres no se registran.
 
-**The Cain-Abel conflict**. Read as a specific interpersonal conflict over offerings to Yahweh, with substantive operational context: the exiled Lucifer faction was encouraging the humans to bring offerings as evidence to the home-world council that the humans were well-behaved and grateful. Yahweh's preference for Abel's animal offering produced the resentment that led to Cain's murder of Abel. The conflict reflects the early generation's experience of the post-Eden political situation, in which the human offspring were caught between the alliance authority's expectations and the exiled faction's continuing involvement.
+La narración Caín-Abel-Set es la principal evidencia del marco para varias lecturas sustantivas:
 
-**Seth as the lineage-continuing son**. The Sethite line of Genesis 5 is read as the principal genealogical line through which the Eden civilization's leadership would proceed to Noah. The Cainite line of Genesis 4:17–24 is read as the parallel genealogical line through which the cultural-technological development of the early antediluvian civilization would be conducted. Both lines are descended from Adam and Eve; both lines contributed to the Eden civilization's development.
+**Caín y Abel como hijos genealógicos ordinarios**. Ambos se leen como hijos biológicos de Adán y Eva en el sentido ordinario, rechazando el corpus la lectura del «linaje de la serpiente» de Caín (desarrollada por Biglino sobre la base del «pondré enemistad entre tu simiente y la simiente suya» de Génesis 3:15).
 
-**The unnamed siblings**. Genesis 5:4's mention of "other sons and daughters" provides the framework's explanation for the post-Eden population's growth — the broader sibling population (whose names the Hebrew Bible does not record) constituted the broader founder population for the developing civilization, with Cain, Abel, and Seth being named because of their specific narrative significance rather than because they were the only children.
+**El conflicto Caín-Abel**. Leído como un conflicto interpersonal concreto en torno a ofrendas a Yahvé, con contexto operativo sustantivo: la facción exiliada de Lucifer animaba a los humanos a traer ofrendas como prueba ante el consejo del mundo de origen de que los humanos se comportaban bien y eran agradecidos. La preferencia de Yahvé por la ofrenda animal de Abel produjo el resentimiento que condujo al asesinato de Abel por Caín. El conflicto refleja la experiencia de la primera generación de la situación política post-Edén, en la que la descendencia humana quedó atrapada entre las expectativas de la autoridad de la alianza y la implicación continuada de la facción exiliada.
 
-### The longevity question and Adam's recorded 930 years
+**Set como el hijo que continúa el linaje**. La línea setita de Génesis 5 se lee como la principal línea genealógica por la cual el liderazgo de la civilización del Edén procedería hasta Noé. La línea cainita de Génesis 4:17–24 se lee como la línea genealógica paralela por la cual se conduciría el desarrollo cultural-tecnológico de la temprana civilización antediluviana. Ambas líneas descienden de Adán y Eva; ambas contribuyeron al desarrollo de la civilización del Edén.
 
-Adam's recorded life of 930 years (Genesis 5:5) is the framework's principal evidence for the patriarchal-longevity question, treated more fully in the [Antediluvian](../antediluvian/) and [Tree of Life](../tree-of-life/) entries. The corpus's reading:
+**Los hermanos no nombrados**. La mención en Génesis 5:4 de «hijos e hijas» proporciona la explicación del marco para el crecimiento de la población post-Edén — la población de hermanos más amplia (cuyos nombres la Biblia hebrea no registra) constituyó la población fundadora más amplia de la civilización en desarrollo, siendo Caín, Abel y Set nombrados por su significación narrativa específica más que porque fueran los únicos hijos.
 
-The 930-year lifespan is treated as substantively accurate to the source material's claim that the antediluvian patriarchs received specific longevity treatment from the Lucifer faction's continuing post-Eden support. The longevity is not natural to the synthesized humans (the Genesis text indicates that the alliance's containment policy specifically restricted human lifespan to natural limits) but was a specific later intervention provided by the exiled Lucifer faction to Adam and other Eden-lineage patriarchs across the antediluvian period.
+### La cuestión de la longevidad y los 930 años registrados de Adán
 
-The longevity served substantive operational purposes: it provided continuity for the developing civilization's leadership across multiple ordinary generations, it preserved substantive personal-experiential memory of the Eden events across the long centuries, and it supported the Lucifer faction's broader project of educating the developing human civilization. The longevity was specifically granted to particular leadership figures rather than universally distributed across the broader human population, with the broader population maintaining ordinary human lifespans.
+La vida registrada de Adán de 930 años (Génesis 5:5) es la principal evidencia del marco para la cuestión de la longevidad patriarcal, tratada más a fondo en las entradas [Antediluviano](../antediluvian/) y [Árbol de la Vida](../tree-of-life/). La lectura del corpus:
 
-Adam's death at 930 years is read as the eventual termination of his specific longevity treatment, with the cellular-biological infrastructure that supported the extended lifespan reaching its operational limit. The framework does not specify the technical details of Adam's actual death, beyond the recorded biblical fact.
+La esperanza de vida de 930 años se trata como sustantivamente exacta a la afirmación del material fuente de que los patriarcas antediluvianos recibieron un tratamiento de longevidad específico del apoyo continuado post-Edén de la facción de Lucifer. La longevidad no es natural a los humanos sintetizados (el texto del Génesis indica que la política de contención de la alianza restringió específicamente la esperanza de vida humana a límites naturales) sino que fue una intervención posterior concreta proporcionada por la facción exiliada de Lucifer a Adán y a otros patriarcas del linaje del Edén a lo largo del período antediluviano.
 
-Eve's recorded lifespan is not preserved in the Hebrew Bible. The corpus does not develop a definitive reading on this point; the most natural inference is that Eve received parallel longevity treatment but the specific record was not preserved, with various other inferences also possible.
+La longevidad servía propósitos operativos sustantivos: proporcionaba continuidad al liderazgo de la civilización en desarrollo a lo largo de múltiples generaciones ordinarias, conservaba memoria personal-experiencial sustantiva de los acontecimientos del Edén a lo largo de los largos siglos, y sostenía el proyecto más amplio de la facción de Lucifer de educar a la civilización humana en desarrollo. La longevidad se concedía específicamente a figuras de liderazgo particulares más que se distribuía universalmente por la población humana más amplia, manteniendo la población más amplia esperanzas de vida humanas ordinarias.
 
-### Resurrection and current status
+La muerte de Adán a los 930 años se lee como la eventual terminación de su tratamiento de longevidad específico, alcanzando su límite operativo la infraestructura celular-biológica que sostenía la esperanza de vida extendida. El marco no especifica los detalles técnicos de la muerte real de Adán, más allá del hecho bíblico registrado.
 
-The source material distinctively identifies both Adam and Eve as having been resurrected and currently living on the **Planet of the Eternals** — the second smaller planet in the alliance's home system, where the approximately nine thousand eternals (alliance officers and selected humans) live in conditions of practical immortality maintained by the alliance's cloning and memory-transfer technology.
+La esperanza de vida registrada de Eva no se conserva en la Biblia hebrea. El corpus no desarrolla una lectura definitiva sobre este punto; la inferencia más natural es que Eva recibió un tratamiento de longevidad paralelo pero el registro específico no se conservó, siendo también posibles otras inferencias diversas.
 
-The resurrection mechanism, on the source material's account, involves:
+### Resurrección y estatus actual
 
-- The preservation of cellular samples from each candidate during life
-- The construction of new bodies from the preserved cellular material at the appropriate moment
-- The transfer of preserved memory and personality from the original biological substrate to the new body
-- The result: a continuation of the original individual's existence in a new biological body, with full preservation of identity, memory, and personality
+El material fuente identifica distintivamente tanto a Adán como a Eva como resucitados y viviendo actualmente en el **Planeta de los Eternos** — el segundo planeta más pequeño del sistema de origen de la alianza, donde los aproximadamente nueve mil eternos (oficiales de la alianza y humanos seleccionados) viven en condiciones de inmortalidad práctica mantenida por la tecnología de clonación y transferencia de memoria de la alianza.{{ footnote(id="6") }}{{ cite(id="extraterrestrials-took-me-to-their-planet", text="[1]", title="Vorilhon (Raël), *Los extraterrestres me llevaron a su planeta* (1975) — el Planeta de los Eternos y los profetas resucitados") }}
 
-The framework reads Adam's resurrection as related to his role as the first prophet — the first human recipient of direct alliance communication, and therefore one of the prophets currently resurrected on the Planet of the Eternals. Eve's resurrection is registered in the source material as well, though without the same specific role-justification; the framework reads Eve as resurrected alongside Adam as the matriarchal counterpart in the lineage.
+El mecanismo de resurrección, según el relato del material fuente, involucra:
 
-The current status of Adam and Eve on the Planet of the Eternals is, on the framework's reading, substantive but not currently active in Earth affairs. The prophets resurrected on the home world are awaiting the alliance's open return at the Aquarian-age embassy, at which point they will return to Earth alongside the alliance for a temporary visit. The detailed treatment of this Aquarian-age return event lives in the [Apocalypse](../apocalypse/) and [Embassy](../embassy/) entries.
+- La conservación de muestras celulares de cada candidato durante su vida
+- La construcción de nuevos cuerpos a partir del material celular conservado en el momento apropiado
+- La transferencia de la memoria y la personalidad conservadas del sustrato biológico original al nuevo cuerpo
+- El resultado: una continuación de la existencia del individuo original en un nuevo cuerpo biológico, con plena conservación de identidad, memoria y personalidad
 
-## Role in the framework
+El marco lee la resurrección de Adán como relacionada con su papel como el primer profeta — el primer humano receptor de comunicación directa de la alianza, y por tanto uno de los profetas actualmente resucitados en el Planeta de los Eternos. La resurrección de Eva se registra también en el material fuente, aunque sin la misma justificación específica de papel; el marco lee a Eva como resucitada junto a Adán en calidad de contraparte matriarcal en el linaje.
 
-Adam and Eve's role in the framework is structured by their position as the first humans of the Israel-team lineage, their specific function as recipients of the Lucifer-faction disclosure, and their structural significance as the progenitors of the lineage whose history would become the Hebrew Bible's narrative.
+El estatus actual de Adán y Eva en el Planeta de los Eternos es, según la lectura del marco, sustantivo pero no actualmente activo en los asuntos terrestres. Los profetas resucitados en el mundo de origen aguardan el retorno abierto de la alianza en la embajada de la Era de Acuario, momento en el cual regresarán a la Tierra junto a la alianza para una visita temporal. El tratamiento detallado de este acontecimiento de retorno de la Era de Acuario vive en las entradas [Apocalipsis](../apocalypse/) y [Embajada](../embassy/).
 
-### The first humans of the Israel-team lineage
+## Papel en el marco
 
-The corpus reads Adam and Eve as the first humans of one specific creator team's work — the Israel team's work at the Eden installation — rather than as the first humans of all humanity. This reading reframes the underlying ontology of their position. They are not the unique progenitors of all human beings (the seven-creator-team picture has parallel first-human figures in the other six lineages, whose names are not preserved in the Hebrew Bible because the Hebrew Bible is the Israel-team lineage's specific cultural inheritance). They are the first humans of *one* lineage — the lineage whose subsequent history became the cultural-religious history of the Hebrews and, through the Hebrew tradition's broader influence, of the developed Western religious traditions.
+El papel de Adán y Eva en el marco está estructurado por su posición como los primeros humanos del linaje del equipo de Israel, su función específica como receptores de la revelación de la facción de Lucifer, y su significación estructural como progenitores del linaje cuya historia se convertiría en la narración de la Biblia hebrea.
 
-This positioning has substantial implications for how the framework reads the Genesis narrative's claims about Adam and Eve. Their narrative is **specific to the Israel-team lineage** rather than universally applicable to all of humanity. The "Fall" is not a universal human moral fall but a specific operational event involving one lineage. The "original sin" doctrine that has been built on the Adam-and-Eve narrative does not have the universal scope its conventional theological framing claims, because the underlying narrative is itself lineage-specific rather than universal.
+### Los primeros humanos del linaje del equipo de Israel
 
-### Recipients of the Lucifer-faction disclosure
+El corpus lee a Adán y Eva como los primeros humanos del trabajo de un equipo creador concreto — el trabajo del equipo de Israel en la instalación del Edén — más que como los primeros humanos de toda la humanidad.{{ footnote(id="3") }} Esta lectura reformula la ontología subyacente de su posición. No son los progenitores únicos de todos los seres humanos (el cuadro de los siete equipos creadores tiene figuras paralelas de primeros humanos en los otros seis linajes, cuyos nombres no se conservan en la Biblia hebrea porque la Biblia hebrea es la herencia cultural específica del linaje del equipo de Israel). Son los primeros humanos de *un* linaje — el linaje cuya historia subsiguiente se convirtió en la historia cultural-religiosa de los hebreos y, a través de la influencia más amplia de la tradición hebrea, de las tradiciones religiosas occidentales desarrolladas.
 
-Adam and Eve are the specific human recipients of the Lucifer-faction's disclosure of restricted scientific knowledge. The disclosure was a substantive transmission of scientific and technological content — the corpus reads "knowing good and evil" as substantial scientific knowledge rather than as moral discrimination — and Adam and Eve's acceptance of the disclosure made them the first humans of the Eden lineage to possess substantial scientific knowledge.
+Este posicionamiento tiene implicaciones sustanciales para cómo el marco lee las afirmaciones de la narración del Génesis sobre Adán y Eva. Su narración es **específica del linaje del equipo de Israel** más que universalmente aplicable a toda la humanidad. La «Caída» no es una caída moral humana universal, sino un acontecimiento operativo concreto que involucra a un linaje. La doctrina del «pecado original» que se ha construido sobre la narración de Adán y Eva no tiene el alcance universal que su encuadre teológico convencional reivindica, porque la narración subyacente es ella misma específica de un linaje más que universal.
 
-The specific significance of this position is that Adam and Eve's acceptance of the disclosure made the post-Eden educational project possible. Their acquired knowledge could be transmitted to their offspring, with the result that the Eden-lineage civilization developed substantially more rapidly than the home-world's containment policy had anticipated. The Lucifer faction's continuing teaching across the antediluvian period built on the foundation that Adam and Eve had received in the disclosure event.
+### Receptores de la revelación de la facción de Lucifer
 
-### Progenitors of the Hebrew Bible's lineage
+Adán y Eva son los receptores humanos concretos de la revelación de la facción de Lucifer de conocimiento científico restringido. La revelación fue una transmisión sustantiva de contenido científico y tecnológico — el corpus lee «conocer el bien y el mal» como conocimiento científico sustancial más que como discriminación moral — y la aceptación de la revelación por parte de Adán y Eva los convirtió en los primeros humanos del linaje del Edén en poseer conocimiento científico sustancial.
 
-Adam and Eve's specific role as progenitors of the Israel-team lineage made them the foundational figures of the Hebrew Bible's broader narrative. The Hebrew Bible's subsequent narrative — the patriarchal genealogies, the Noah and Flood material, the Abraham-Isaac-Jacob narrative, the Egyptian-bondage-and-Exodus material, the Conquest, the United and Divided Monarchies, the prophetic period — all proceeds from the Eden-lineage population that descended from Adam and Eve.
+La significación específica de esta posición es que la aceptación de la revelación por parte de Adán y Eva hizo posible el proyecto educativo post-Edén. Su conocimiento adquirido podía transmitirse a su descendencia, con el resultado de que la civilización del linaje del Edén se desarrolló sustancialmente con mayor rapidez de lo que la política de contención del mundo de origen había anticipado. La enseñanza continuada de la facción de Lucifer a lo largo del período antediluviano se construyó sobre el fundamento que Adán y Eva habían recibido en el acontecimiento de la revelación.
 
-The framework reads this genealogical centrality as the substantive reason for the Hebrew Bible's preservation of the Adam-and-Eve narrative. The narrative is preserved because it records the founding of the lineage whose history the Hebrew Bible documents; other ancient cultural traditions preserve their own founding-figure narratives (treated under *Comparative observations* below) for their own lineages, with the specific content varying by lineage but the broader pattern being substantially universal.
+### Progenitores del linaje de la Biblia hebrea
 
-### The first prophet
+El papel específico de Adán y Eva como progenitores del linaje del equipo de Israel los convirtió en las figuras fundacionales de la narración más amplia de la Biblia hebrea. La narración subsiguiente de la Biblia hebrea — las genealogías patriarcales, el material de Noé y el Diluvio, la narración de Abraham-Isaac-Jacob, el material de la servidumbre egipcia y el Éxodo, la Conquista, las Monarquías Unida y Dividida, el período profético — todo procede de la población del linaje del Edén que descendió de Adán y Eva.
 
-Adam's specific identification as the first prophet — the first human recipient of direct alliance communication — gives him a distinctive status within the broader prophetic tradition that the framework develops in the [Prophet](../prophet/) entry. The corpus reads Adam's prophetic role as foundational: he was the first human to receive substantive communication from the alliance (specifically from the Israel team, including Yahweh as team leader and Lucifer as faction leader), and his subsequent transmission of that communication to Eve, to Cain and Abel and Seth, and to the broader Eden-lineage population established the patriarchal-prophetic mode that would characterize the broader Hebrew Bible's tradition.
+El marco lee esta centralidad genealógica como la razón sustantiva de la conservación por parte de la Biblia hebrea de la narración de Adán y Eva. La narración se conserva porque registra la fundación del linaje cuya historia documenta la Biblia hebrea; otras tradiciones culturales antiguas conservan sus propias narraciones de figuras fundadoras (tratadas bajo *Observaciones comparativas* más abajo) para sus propios linajes, variando el contenido específico según el linaje pero siendo el patrón más amplio sustancialmente universal.
 
-Adam's prophetic status, on the framework's reading, is therefore not a separate role from his role as the first synthesized human; the two roles are integrated. He is the first human, and as the first human he is also the first recipient of alliance communication, and his life as the first human consisted substantially in receiving that communication and transmitting it to his offspring.
+### El primer profeta
 
-Eve's specific role within the prophetic tradition is less developed in the source material. The framework reads her as having received the alliance communication alongside Adam (and as the principal recipient of the Serpent's specific disclosure) but does not develop her prophetic status as fully as Adam's. The asymmetry reflects the source material's specific framing rather than a substantive operational difference between them.
+La identificación específica de Adán como el primer profeta — el primer humano receptor de comunicación directa de la alianza — le confiere un estatus distintivo dentro de la tradición profética más amplia que el marco desarrolla en la entrada [Profeta](../prophet/). El corpus lee el papel profético de Adán como fundacional: fue el primer humano en recibir comunicación sustantiva de la alianza (específicamente del equipo de Israel, incluido Yahvé como líder del equipo y Lucifer como líder de la facción), y su subsiguiente transmisión de esa comunicación a Eva, a Caín, Abel y Set, y a la población más amplia del linaje del Edén estableció el modo patriarcal-profético que caracterizaría la tradición más amplia de la Biblia hebrea.
 
-### What the framework does not claim
+El estatus profético de Adán, según la lectura del marco, no es por tanto un papel separado de su papel como primer humano sintetizado; los dos papeles están integrados. Es el primer humano, y como primer humano es también el primer receptor de comunicación de la alianza, y su vida como primer humano consistió sustancialmente en recibir esa comunicación y transmitirla a su descendencia.
 
-The framework does not claim that Adam and Eve are the first humans of all humanity. The seven-creator-team picture explicitly registers parallel first-human figures in the other six lineages, with Adam and Eve specifically being the first humans of one lineage rather than universally.
+El papel específico de Eva dentro de la tradición profética está menos desarrollado en el material fuente. El marco la lee como habiendo recibido la comunicación de la alianza junto a Adán (y como la receptora principal de la revelación específica de la Serpiente) pero no desarrolla su estatus profético tan plenamente como el de Adán. La asimetría refleja el encuadre específico del material fuente más que una diferencia operativa sustantiva entre ellos.
 
-The framework does not claim that the "Fall" is a universal human moral catastrophe. The Eden disclosure was a specific operational event in one lineage's history, with substantive consequences for that lineage but not for humanity universally. The Augustinian original-sin doctrine, which extends the Adam-and-Eve narrative to all humanity, is not the framework's reading.
+### Lo que el marco no afirma
 
-The framework does not claim that the Genesis narrative provides accurate biology in detail. The "rib" (*ṣēlāʿ*) language, the "breath of life" language, the "dust of the ground" language are read as stylized accounts of operational realities the original biblical authors could not describe in technical biological vocabulary. The corpus reads these accounts as preserving accurate substantive content (the synthesis of humans from terrestrial materials, the cellular relationship between Adam and Eve, the activation of the synthesized organism) without committing to the literal-anatomical specificity of the surface narrative.
+El marco no afirma que Adán y Eva sean los primeros humanos de toda la humanidad. El cuadro de los siete equipos creadores registra explícitamente figuras paralelas de primeros humanos en los otros seis linajes, siendo Adán y Eva específicamente los primeros humanos de un linaje más que universalmente.
 
-The framework does not claim that Eve is uniquely culpable in the disclosure event. The Raëlian source material is explicit that the disclosure was offered to both humans equally and that both received the consequences equally; the misogynistic interpretive tradition that has read Eve as uniquely responsible is rejected.
+El marco no afirma que la «Caída» sea una catástrofe moral humana universal. La revelación del Edén fue un acontecimiento operativo concreto en la historia de un linaje, con consecuencias sustantivas para ese linaje pero no para la humanidad universalmente. La doctrina agustiniana del pecado original, que extiende la narración de Adán y Eva a toda la humanidad, no es la lectura del marco.
 
-## Identifications and conflations
+El marco no afirma que la narración del Génesis proporcione biología exacta en detalle. El lenguaje de la «costilla» (*ṣēlāʿ*), el lenguaje del «aliento de vida», el lenguaje del «polvo de la tierra» se leen como relatos estilizados de realidades operativas que los autores bíblicos originales no podían describir con vocabulario biológico técnico. El corpus lee estos relatos como conservadores de contenido sustantivo exacto (la síntesis de humanos a partir de materiales terrestres, la relación celular entre Adán y Eva, la activación del organismo sintetizado) sin comprometerse con la especificidad literal-anatómica de la narración superficial.
 
-Adam and Eve have been identified and developed in numerous traditions across the post-biblical period, with several specific identifications and conflations warranting treatment.
+El marco no afirma que Eva sea singularmente culpable en el acontecimiento de la revelación. El material fuente raeliano es explícito en que la revelación se ofreció a ambos humanos por igual y que ambos recibieron las consecuencias por igual; la tradición interpretativa misógina que ha leído a Eva como singularmente responsable se rechaza.
 
-### Adam and Christ: the typological identification
+## Identificaciones y conflaciones
 
-The most substantial post-biblical theological development of Adam is the Pauline Adam-Christ typology developed in Romans 5:12–21 and 1 Corinthians 15:21–22, 45–49. Paul reads Adam as the *type* of Christ — the first Adam who introduced sin and death into the world, with Christ as the second Adam who reverses Adam's effects and inaugurates the new creation. The "second Adam" Christology is foundational for subsequent Christian theological reflection on Christ's redemptive role.
+Adán y Eva han sido identificados y desarrollados en numerosas tradiciones a lo largo del período posbíblico, con varias identificaciones y conflaciones concretas que merecen tratamiento.
 
-The corpus reads the Pauline Adam-Christ typology as a specific theological-rhetorical use of the Adam figure rather than as a direct historical claim about Adam's actual operational role. The typology is theologically productive within the New Testament's argumentative framework — establishing Christ's significance through the Adam-parallel — but does not make accurate historical claims about Adam beyond what the Genesis narrative already specifies.
+### Adán y Cristo: la identificación tipológica
 
-### Eve and Mary: the typological parallel
+El desarrollo teológico posbíblico más sustancial de Adán es la tipología paulina Adán-Cristo desarrollada en Romanos 5:12–21 y 1 Corintios 15:21–22, 45–49. Pablo lee a Adán como el *tipo* de Cristo — el primer Adán que introdujo el pecado y la muerte en el mundo, con Cristo como el segundo Adán que invierte los efectos de Adán e inaugura la nueva creación. La cristología del «segundo Adán» es fundacional para la subsiguiente reflexión teológica cristiana sobre el papel redentor de Cristo.
 
-A parallel theological development pairs Eve with Mary as theological types: Eve as the woman through whom the disclosure event occurred, Mary as the woman through whom the redemptive Christ-event occurred. The "second Eve" theology was developed across the patristic period (Justin Martyr, Irenaeus, Tertullian) and elaborated extensively in subsequent Catholic Mariology, with the parallel sometimes extended to the Eve-as-disobedient / Mary-as-obedient contrast.
+El corpus lee la tipología paulina Adán-Cristo como un uso teológico-retórico concreto de la figura de Adán más que como una afirmación histórica directa sobre el papel operativo real de Adán. La tipología es teológicamente productiva dentro del marco argumentativo del Nuevo Testamento — estableciendo la significación de Cristo a través del paralelo con Adán — pero no hace afirmaciones históricas exactas sobre Adán más allá de lo que la narración del Génesis ya especifica.
 
-The corpus reads the Eve-Mary typology as a parallel theological-rhetorical use, with the same observations as the Adam-Christ typology. The framework does treat both Eve and Mary as significant figures in the broader history of the alliance's interaction with humanity (Eve as the original disclosure-recipient, Mary as the Piscean-age conception-partner), but does not develop the typological theology in the conventional Catholic-Marian sense. The detailed treatment of Mary lives in the [Mary](../mary/) entry (when written).
+### Eva y María: el paralelo tipológico
 
-### Adam and Adam Kadmon
+Un desarrollo teológico paralelo empareja a Eva con María como tipos teológicos: Eva como la mujer a través de la cual ocurrió el acontecimiento de la revelación, María como la mujer a través de la cual ocurrió el acontecimiento redentor de Cristo. La teología de la «segunda Eva» se desarrolló a lo largo del período patrístico (Justino Mártir, Ireneo, Tertuliano) y se elaboró extensamente en la subsiguiente mariología católica, extendiéndose a veces el paralelo al contraste Eva-desobediente / María-obediente.
 
-The Kabbalistic tradition developed the figure of **Adam Kadmon** (<span class="hebrew">אָדָם קַדְמוֹן</span>, "Primordial Adam") — a cosmological figure distinct from the historical Adam of Genesis 2. Adam Kadmon is, in Lurianic Kabbalah specifically, the first emanation from the Ein Sof (the infinite divine), through whom the subsequent emanations of the *sefirot* and the broader cosmic structure proceed. Adam Kadmon is thus a metaphysical-cosmological figure rather than a historical one.
+El corpus lee la tipología Eva-María como un uso teológico-retórico paralelo, con las mismas observaciones que la tipología Adán-Cristo. El marco sí trata tanto a Eva como a María como figuras significativas en la historia más amplia de la interacción de la alianza con la humanidad (Eva como la receptora original de la revelación, María como la compañera de concepción de la Era de Piscis), pero no desarrolla la teología tipológica en el sentido católico-mariano convencional. El tratamiento detallado de María vive en la entrada [María](../mary/) (cuando se escriba).
 
-The corpus does not adopt the Adam Kadmon doctrine. The framework's Adam is the historical figure of Genesis 2, not a cosmological emanation. The Kabbalistic tradition's underlying intuition — that there is a substantive ontological figure named "Adam" who relates to the broader structure of reality — is registered as a theological elaboration of the historical Adam's significance, but the corpus does not develop the metaphysical structure the Kabbalistic tradition built around the figure.
+### Adán y Adam Kadmon
 
-### Lilith: the alternative-first-wife tradition
+La tradición cabalística desarrolló la figura de **Adam Kadmon** (<span class="hebrew">אָדָם קַדְמוֹן</span>, «Adán Primordial») — una figura cosmológica distinta del Adán histórico de Génesis 2. Adam Kadmon es, específicamente en la Cábala luriánica, la primera emanación del Ein Sof (el infinito divino), a través del cual proceden las subsiguientes emanaciones de las *sefirot* y la estructura cósmica más amplia. Adam Kadmon es, por tanto, una figura metafísico-cosmológica más que histórica.
 
-The medieval Jewish tradition (principally the *Alphabet of Ben Sira*, c. 8th–10th century CE) developed the figure of **Lilith** as Adam's first wife, created equally with him from the same earth, who refused to submit to his authority and left the garden — with Eve being created subsequently as a more compliant alternative. The tradition was elaborated in subsequent Kabbalistic literature (the *Zohar* and Lurianic Kabbalah develop Lilith as a demonic figure), and modern feminist Jewish writers have substantially engaged with the Lilith tradition as preserving an alternative to the patriarchal Eve narrative.
+El corpus no adopta la doctrina de Adam Kadmon. El Adán del marco es la figura histórica de Génesis 2, no una emanación cosmológica. La intuición subyacente de la tradición cabalística — que hay una figura ontológica sustantiva llamada «Adán» que se relaciona con la estructura más amplia de la realidad — se registra como una elaboración teológica de la significación del Adán histórico, pero el corpus no desarrolla la estructura metafísica que la tradición cabalística construyó en torno a la figura.
 
-The corpus does not adopt the Lilith narrative as part of the framework's reading. The Raëlian source material does not include any reference to Lilith or to a first-wife-prior-to-Eve figure, and the corpus reads the Lilith tradition as a medieval-Kabbalistic theological elaboration rather than as a preservation of accurate operational memory. The tradition is registered in the *Modern reinterpretations* section below as a substantive interpretive engagement with the Adam-and-Eve material.
+### Lilith: la tradición de la primera-esposa-alternativa
 
-### Adam as Michael the Archangel
+La tradición judía medieval (principalmente el *Alphabet of Ben Sira*, c. siglos VIII–X d. C.) desarrolló la figura de **Lilith** como la primera esposa de Adán, creada en igualdad con él de la misma tierra, que se negó a someterse a su autoridad y abandonó el jardín — siendo Eva creada con posterioridad como alternativa más complaciente. La tradición se elaboró en la subsiguiente literatura cabalística (el *Zohar* y la Cábala luriánica desarrollan a Lilith como figura demoníaca), y escritoras feministas judías modernas han dialogado sustancialmente con la tradición de Lilith como conservadora de una alternativa a la narración patriarcal de Eva.
 
-The Latter-day Saint (Mormon) tradition identifies Adam with the archangel Michael, with the figure of "Adam-ondi-Ahman" being a central figure in Latter-day Saint theology. The doctrine, developed by Joseph Smith and elaborated in subsequent Latter-day Saint theological literature, holds that Adam was originally the archangel Michael who took on physical form to become the first human.
+El corpus no adopta la narración de Lilith como parte de la lectura del marco. El material fuente raeliano no incluye ninguna referencia a Lilith ni a una figura de primera-esposa-anterior-a-Eva, y el corpus lee la tradición de Lilith como una elaboración teológica medieval-cabalística más que como una conservación de memoria operativa exacta. La tradición se registra en la sección de *Reinterpretaciones modernas* más abajo como un diálogo interpretativo sustantivo con el material de Adán y Eva.
 
-The corpus does not adopt the Adam-as-Michael identification. The framework's Adam is a synthesized human created by the Israel team; the Latter-day Saint identification is a specific theological development of the Restorationist tradition that the framework does not endorse. The tradition is registered in the *Modern reinterpretations* section below.
+### Adán como Miguel el Arcángel
 
-## Modern reinterpretations
+La tradición santo-de-los-últimos-días (mormona) identifica a Adán con el arcángel Miguel, siendo la figura de «Adam-ondi-Ahman» una figura central en la teología santo-de-los-últimos-días. La doctrina, desarrollada por Joseph Smith y elaborada en la subsiguiente literatura teológica santo-de-los-últimos-días, sostiene que Adán fue originalmente el arcángel Miguel que tomó forma física para convertirse en el primer humano.
 
-Adam and Eve have been the subject of substantial modern reinterpretive engagement across multiple traditions. The principal strands warrant treatment.
+El corpus no adopta la identificación de Adán-como-Miguel. El Adán del marco es un humano sintetizado creado por el equipo de Israel; la identificación santo-de-los-últimos-días es un desarrollo teológico concreto de la tradición restauracionista que el marco no avala. La tradición se registra en la sección de *Reinterpretaciones modernas* más abajo.
 
-### Augustine and the doctrine of original sin
+## Reinterpretaciones modernas
 
-**Augustine of Hippo** (354–430 CE) developed the doctrine of original sin in *De Civitate Dei*, *De Peccatorum Meritis et Remissione*, and the various anti-Pelagian writings. The Augustinian doctrine holds that Adam's disobedience in Genesis 3 introduced sin and mortality into human nature, that this sinful condition is inherited by all subsequent humans through biological-spiritual descent from Adam, and that the resulting human condition requires divine grace (specifically through Christ's atoning sacrifice) for salvation.
+Adán y Eva han sido objeto de un sustancial diálogo reinterpretativo moderno a través de múltiples tradiciones. Las vertientes principales merecen tratamiento.
 
-The Augustinian doctrine became the dominant Western Christian reading of the Adam-and-Eve narrative across the medieval and Reformation periods. The doctrine has substantial implications for theological anthropology (humans are fallen by nature, inheriting Adam's guilt), for soteriology (salvation requires Christ's specific redemptive work), for sacramental theology (baptism's significance includes the cleansing of inherited original sin), and for moral theology (the inheritance of disordered desires from Adam's fall).
+### Agustín y la doctrina del pecado original
 
-The corpus does not adopt the Augustinian doctrine of original sin. The framework's reading of the Eden disclosure does not treat it as a moral-theological catastrophe of the kind Augustine constructs; the disclosure was a substantive political-operational event with real consequences but without inherited guilt-transmission to Adam's descendants. The biological-genetic relationships across the Eden-lineage population produce substantive inheritance of biological traits but do not produce the inheritance of moral guilt that Augustine's doctrine claims.
+**Agustín de Hipona** (354–430 d. C.) desarrolló la doctrina del pecado original en *De Civitate Dei*, *De Peccatorum Meritis et Remissione* y los diversos escritos antipelagianos.{{ cite(id="city-of-god", text="[7]", title="Agustín, *La ciudad de Dios* — la síntesis del pecado original") }} La doctrina agustiniana sostiene que la desobediencia de Adán en Génesis 3 introdujo el pecado y la mortalidad en la naturaleza humana, que esta condición pecaminosa es heredada por todos los humanos subsiguientes a través del descenso biológico-espiritual de Adán, y que la resultante condición humana requiere la gracia divina (específicamente a través del sacrificio expiatorio de Cristo) para la salvación.
 
-### Elaine Pagels: *Adam, Eve, and the Serpent* (1988)
+La doctrina agustiniana se convirtió en la lectura cristiana occidental dominante de la narración de Adán y Eva a lo largo de los períodos medieval y de la Reforma. La doctrina tiene implicaciones sustanciales para la antropología teológica (los humanos son caídos por naturaleza, heredando la culpa de Adán), para la soteriología (la salvación requiere la obra redentora específica de Cristo), para la teología sacramental (la significación del bautismo incluye la limpieza del pecado original heredado) y para la teología moral (la herencia de deseos desordenados de la caída de Adán).
 
-**Elaine Pagels**'s *Adam, Eve, and the Serpent* (1988) is the standard contemporary scholarly treatment of how the Adam-and-Eve narrative's interpretation has shaped Western thought across two millennia. Pagels traces the development of the Christian reading from the early Christian centuries through Augustine's foundational synthesis and into the medieval and modern traditions. Her principal argument is that Augustine's specific reading of Genesis 3 — the doctrine of original sin, the inheritance of guilt, the subjugation of women that the Genesis 3:16 text was used to justify — is a specific theological development that became dominant in Western Christianity but was not the only available reading and was contested by alternative early-Christian positions.
+El corpus no adopta la doctrina agustiniana del pecado original. La lectura del marco de la revelación del Edén no la trata como una catástrofe moral-teológica del tipo que construye Agustín; la revelación fue un acontecimiento político-operativo sustantivo con consecuencias reales pero sin transmisión de culpa heredada a los descendientes de Adán. Las relaciones biológico-genéticas a lo largo de la población del linaje del Edén producen una herencia sustantiva de rasgos biológicos pero no producen la herencia de culpa moral que reivindica la doctrina de Agustín.
 
-Pagels argues that pre-Augustinian Christian readings of the Adam-and-Eve narrative were substantially more diverse, with various Greek-tradition readings emphasizing the freedom and autonomy aspects of the narrative rather than the inherited-guilt aspects. The Augustinian synthesis became dominant for specific historical-political reasons (the late-antique Roman context, the Pelagian controversy, the broader Augustinian theological project) rather than because it was the only or best available reading.
+### Elaine Pagels: *Adán, Eva y la serpiente* (1988)
 
-The corpus engages Pagels's work as the most accessible contemporary scholarly treatment of the interpretive history of the Adam-and-Eve narrative. Pagels's analysis of how Augustine's specific theological synthesis became dominant despite alternative available readings is consistent with the corpus's own diagnosis: the Christian theological elaboration of the Adam-and-Eve material is a specific historical-theological development rather than a textually-given inheritance.
+*Adán, Eva y la serpiente* (1988) de **Elaine Pagels** es el tratamiento erudito contemporáneo estándar de cómo la interpretación de la narración de Adán y Eva ha configurado el pensamiento occidental a lo largo de dos milenios.{{ cite(id="pagels-adam-eve-serpent", text="[8]", title="Pagels, *Adam, Eve, and the Serpent* (1988)") }} Pagels traza el desarrollo de la lectura cristiana desde los primeros siglos cristianos pasando por la síntesis fundacional de Agustín hasta las tradiciones medieval y moderna. Su argumento principal es que la lectura específica de Agustín de Génesis 3 — la doctrina del pecado original, la herencia de la culpa, la subyugación de las mujeres que el texto de Génesis 3:16 se usó para justificar — es un desarrollo teológico concreto que se volvió dominante en el cristianismo occidental pero no fue la única lectura disponible y fue impugnado por posiciones alternativas del cristianismo primitivo.
 
-### Jewish and Christian feminist readings
+Pagels argumenta que las lecturas cristianas pre-agustinianas de la narración de Adán y Eva fueron sustancialmente más diversas, con diversas lecturas de tradición griega que enfatizaban los aspectos de libertad y autonomía de la narración más que los aspectos de culpa heredada. La síntesis agustiniana se volvió dominante por razones histórico-políticas concretas (el contexto romano tardoantiguo, la controversia pelagiana, el proyecto teológico agustiniano más amplio) más que porque fuera la única o la mejor lectura disponible.
 
-The late twentieth century saw substantial development of Jewish and Christian feminist readings of the Adam-and-Eve narrative, with several principal scholars warranting treatment.
+El corpus dialoga con la obra de Pagels como el tratamiento erudito contemporáneo más accesible de la historia interpretativa de la narración de Adán y Eva. El análisis de Pagels de cómo la síntesis teológica específica de Agustín se volvió dominante pese a haber lecturas alternativas disponibles es coherente con el propio diagnóstico del corpus: la elaboración teológica cristiana del material de Adán y Eva es un desarrollo histórico-teológico concreto más que una herencia dada textualmente.
 
-**Phyllis Trible**'s *God and the Rhetoric of Sexuality* (1978) developed an influential close reading of Genesis 2–3 that argued for substantial gender equality in the original Hebrew text, with the patriarchal interpretation being a later imposition rather than the text's own framing. Trible's reading of the Hebrew *ʿēzer kə-negdô* ("a helper fit for him") of Genesis 2:18 emphasizes the *ʿēzer* term's broader meaning ("strength, support") rather than the subordinationist sense often imported in translation; her reading of the *ṣēlāʿ* ("rib" / "side") emphasizes the parallel-equal-side meaning rather than the subordinate-derivative meaning.
+### Lecturas feministas judías y cristianas
 
-**Carol Meyers**'s *Discovering Eve* (1988) developed the historical-anthropological reading of Eve as representing the agricultural-laboring woman of the Iron Age Israelite household, with the Genesis narrative reflecting the actual social conditions of women in early Israelite society rather than imposing a theological-ideological framework on them. Meyers's reading reframes the "curses" of Genesis 3:16 as descriptive accounts of the difficult conditions of agricultural-household women rather than as prescriptive theological pronouncements about gender hierarchy.
+El siglo XX tardío vio un sustancial desarrollo de lecturas feministas judías y cristianas de la narración de Adán y Eva, con varias eruditas principales que merecen tratamiento.
 
-**Judith Plaskow** and the broader Jewish feminist movement have developed substantial engagement with the Adam-and-Eve narrative, with particular attention to the Lilith tradition (treated below) as preserving alternative readings.
+*God and the Rhetoric of Sexuality* (1978) de **Phyllis Trible** desarrolló una influyente lectura atenta de Génesis 2–3 que defendía una sustancial igualdad de género en el texto hebreo original, siendo la interpretación patriarcal una imposición posterior más que el encuadre propio del texto.{{ cite(id="trible-rhetoric-sexuality", text="[9]", title="Trible, *God and the Rhetoric of Sexuality* (1978)") }} La lectura de Trible del hebreo *ʿēzer kə-negdô* («una ayuda idónea para él») de Génesis 2:18 enfatiza el significado más amplio del término *ʿēzer* («fuerza, apoyo») más que el sentido subordinacionista a menudo importado en la traducción; su lectura del *ṣēlāʿ* («costilla» / «costado») enfatiza el significado de lado-paralelo-igual más que el significado subordinado-derivativo.
 
-The corpus engages this feminist scholarly tradition as substantive intellectual work. The framework's reading shares the feminist-tradition recognition that Eve is not uniquely culpable in the disclosure event (Pagels and Trible both arguing this on different grounds), and the framework's reading rejects the misogynistic interpretive tradition that has placed primary responsibility on Eve. The framework does not adopt the full feminist-theological apparatus (the corpus does not develop a gender-theological program comparable to the Christian feminist movement's) but registers substantial agreement on the specific point of Eve's not being uniquely culpable.
+*Discovering Eve* (1988) de **Carol Meyers** desarrolló la lectura histórico-antropológica de Eva como representante de la mujer agrícola-trabajadora del hogar israelita de la Edad del Hierro, reflejando la narración del Génesis las condiciones sociales reales de las mujeres en la temprana sociedad israelita más que imponiéndoles un marco teológico-ideológico.{{ cite(id="meyers-discovering-eve", text="[10]", title="Meyers, *Discovering Eve: Ancient Israelite Women in Context* (1988)") }} La lectura de Meyers reformula las «maldiciones» de Génesis 3:16 como relatos descriptivos de las difíciles condiciones de las mujeres agrícolas-del-hogar más que como pronunciamientos teológicos prescriptivos sobre la jerarquía de género.
 
-### The Lilith tradition
+**Judith Plaskow** y el movimiento feminista judío más amplio han desarrollado un sustancial diálogo con la narración de Adán y Eva, con particular atención a la tradición de Lilith (tratada más abajo) como conservadora de lecturas alternativas.
 
-The **Lilith** tradition warrants treatment as a substantive interpretive engagement with the Adam-and-Eve material. The principal texts:
+El corpus dialoga con esta tradición erudita feminista como trabajo intelectual sustantivo. La lectura del marco comparte el reconocimiento de la tradición feminista de que Eva no es singularmente culpable en el acontecimiento de la revelación (defendiéndolo tanto Pagels como Trible sobre fundamentos distintos), y la lectura del marco rechaza la tradición interpretativa misógina que ha situado la responsabilidad principal en Eva. El marco no adopta la totalidad del aparato teológico-feminista (el corpus no desarrolla un programa teológico-de-género comparable al del movimiento feminista cristiano) pero registra un sustancial acuerdo en el punto concreto de que Eva no es singularmente culpable.
 
-The *Alphabet of Ben Sira* (c. 8th–10th century CE) is the foundational text for the Lilith narrative. The text, a medieval Jewish satirical compilation, presents Lilith as Adam's first wife, created equally with him from the same earth, who refused to submit to Adam's sexual authority and pronounced the Tetragrammaton to escape from Eden. Lilith is subsequently associated with various demonic activities (particularly the killing of newborn infants) in subsequent Jewish folklore.
+### La tradición de Lilith
 
-The *Zohar* and Lurianic Kabbalah develop Lilith as a demonic figure within the broader Kabbalistic cosmology, with Lilith as the consort of Samael and the leader of the demonic *sitra ahra* ("other side"). The Kabbalistic Lilith is thoroughly incorporated into the broader medieval Jewish demonology.
+La tradición de **Lilith** merece tratamiento como un diálogo interpretativo sustantivo con el material de Adán y Eva. Los textos principales:
 
-Modern Jewish feminist writers (principally **Judith Plaskow**, in her 1972 essay "The Coming of Lilith") have reclaimed the Lilith figure as a positive symbol of feminine autonomy and resistance to patriarchy. The contemporary Jewish feminist Lilith is read as the figure who refused to submit to unjust authority and chose freedom over compliance — a reading substantially distinct from the medieval Jewish demonological figure.
+El *Alphabet of Ben Sira* (c. siglos VIII–X d. C.) es el texto fundacional para la narración de Lilith.{{ cite(id="alphabet-of-ben-sira", text="[11]", title="*The Alphabet of Ben Sira* (c. siglos VIII–X d. C.) — la narración fundacional de Lilith-como-primera-esposa") }} El texto, una compilación satírica judía medieval, presenta a Lilith como la primera esposa de Adán, creada en igualdad con él de la misma tierra, que se negó a someterse a la autoridad sexual de Adán y pronunció el Tetragrámaton para escapar del Edén. Lilith queda subsiguientemente asociada con diversas actividades demoníacas (en particular la muerte de recién nacidos) en el folclore judío posterior.
 
-The corpus does not adopt the Lilith tradition as part of the framework's reading. The Raëlian source material does not include any first-wife-prior-to-Eve figure, and the corpus reads the Lilith tradition as a medieval Jewish theological-folkloric elaboration rather than as a preservation of accurate operational memory. The contemporary feminist reclamation of Lilith as a positive symbol is registered as a substantive cultural-religious development but is not adopted as part of the framework's reading of the Adam-and-Eve material.
+El *Zohar* y la Cábala luriánica desarrollan a Lilith como figura demoníaca dentro de la cosmología cabalística más amplia, con Lilith como consorte de Samael y líder del *sitra ahra* («otro lado») demoníaco.{{ cite(id="zohar-pritzker", text="[12]", title="El Zohar, Pritzker Edition (Matt et al., 2003–2017)") }} La Lilith cabalística queda plenamente incorporada a la demonología judía medieval más amplia.
 
-### Mauro Biglino on Adam and Eve
+Escritoras feministas judías modernas (principalmente **Judith Plaskow**, en su ensayo de 1972 «The Coming of Lilith») han reivindicado la figura de Lilith como símbolo positivo de autonomía femenina y resistencia al patriarcado.{{ cite(id="plaskow-standing-again-sinai", text="[13]", title="Plaskow, *Standing Again at Sinai* (1990) y 'The Coming of Lilith' (1972)") }} La Lilith feminista judía contemporánea se lee como la figura que se negó a someterse a una autoridad injusta y eligió la libertad sobre la sumisión — una lectura sustancialmente distinta de la figura demonológica judía medieval.
 
-**Mauro Biglino**'s strict-translational engagement with the Adam-and-Eve material is developed across his works, with the principal claims:
+El corpus no adopta la tradición de Lilith como parte de la lectura del marco. El material fuente raeliano no incluye ninguna figura de primera-esposa-anterior-a-Eva, y el corpus lee la tradición de Lilith como una elaboración teológico-folclórica judía medieval más que como una conservación de memoria operativa exacta. La reivindicación feminista contemporánea de Lilith como símbolo positivo se registra como un desarrollo cultural-religioso sustantivo pero no se adopta como parte de la lectura del marco del material de Adán y Eva.
 
-- The "dust of the ground" formation language is read literally as biological synthesis from terrestrial materials, consistent with the framework's reading
-- The "rib" / *ṣēlāʿ* language is read as cellular extraction (Biglino specifically suggests cloning), consistent with the framework's reading on this point
-- Cain is read as the son of the Serpent rather than of Adam — the "lineage of the serpent" reading that the corpus rejects (treated more fully in the [Serpent](../serpent/) entry's modern-reinterpretations section)
-- The Genesis 5 patriarchal lifespans are read as substantively accurate, consistent with the framework's reading
+### Mauro Biglino sobre Adán y Eva
 
-The framework's reading is broadly aligned with Biglino's reading on the basic interpretive direction (Adam and Eve as synthesized humans rather than as mythological figures), with the substantive disagreement being the Cain-as-serpent-lineage reading. The detailed treatment of this disagreement lives in the [Serpent](../serpent/) entry.
+El diálogo estricto-traduccional de **Mauro Biglino** con el material de Adán y Eva se desarrolla a lo largo de sus obras,{{ cite(id="the-naked-bible", text="[14]", title="Biglino y Cattaneo, *The Naked Bible* (2022)") }} con las afirmaciones principales:
 
-### Latter-day Saint theology: Adam as Michael
+- El lenguaje de formación del «polvo de la tierra» se lee literalmente como síntesis biológica a partir de materiales terrestres, coherente con la lectura del marco
+- El lenguaje de la «costilla» / *ṣēlāʿ* se lee como extracción celular (Biglino sugiere específicamente la clonación), coherente con la lectura del marco en este punto
+- Caín se lee como hijo de la Serpiente más que de Adán — la lectura del «linaje de la serpiente» que el corpus rechaza (tratada más a fondo en la sección de reinterpretaciones modernas de la entrada [Serpiente](../serpent/))
+- Las longevidades patriarcales de Génesis 5 se leen como sustantivamente exactas, coherente con la lectura del marco
 
-The **Latter-day Saint (Mormon)** tradition's identification of Adam with the archangel Michael, with the figure being central to Latter-day Saint theology under the title "Adam-ondi-Ahman," warrants registration. The doctrine was developed by Joseph Smith and elaborated in subsequent Latter-day Saint theological literature including Brigham Young's specific elaborations (the controversial "Adam-God" doctrine briefly held by Young but subsequently rejected by mainstream Latter-day Saint theology). The contemporary mainstream Latter-day Saint position holds that Adam was the archangel Michael who took on physical form to become the first human — a position substantially distinct from the corpus's reading of Adam as a synthesized human created by the Israel team.
+La lectura del marco está ampliamente alineada con la lectura de Biglino en la dirección interpretativa básica (Adán y Eva como humanos sintetizados más que como figuras mitológicas), siendo el desacuerdo sustantivo la lectura de Caín-como-linaje-de-la-serpiente. El tratamiento detallado de este desacuerdo vive en la entrada [Serpiente](../serpent/).
 
-The corpus does not adopt the Adam-as-Michael identification. The Raëlian source material identifies Joseph Smith as one of the prophets of the alliance's broader prophetic tradition (the Latter-day Saint movement is read as one of the alliance's specific contact missions in the post-Aries period), but the specific Adam-as-Michael doctrine is read as a theological development of the Restorationist tradition rather than as accurate operational content.
+### Teología santo-de-los-últimos-días: Adán como Miguel
 
-### Sendy and Wallis on Adam and Eve
+La identificación de la tradición **santo-de-los-últimos-días (mormona)** de Adán con el arcángel Miguel, siendo la figura central en la teología santo-de-los-últimos-días bajo el título «Adam-ondi-Ahman», merece registro. La doctrina la desarrolló Joseph Smith y se elaboró en la subsiguiente literatura teológica santo-de-los-últimos-días, incluidas las elaboraciones específicas de Brigham Young (la controvertida doctrina «Adán-Dios» brevemente sostenida por Young pero subsiguientemente rechazada por la teología santo-de-los-últimos-días dominante).{{ cite(id="doctrine-and-covenants", text="[24]", title="Smith, *Doctrina y Convenios* — la doctrina de Adán-como-Miguel (Adam-ondi-Ahman)") }} La posición santo-de-los-últimos-días dominante contemporánea sostiene que Adán fue el arcángel Miguel que tomó forma física para convertirse en el primer humano — una posición sustancialmente distinta de la lectura del corpus de Adán como humano sintetizado creado por el equipo de Israel.
 
-**Jean Sendy** and **Paul Anthony Wallis** both develop readings of Adam and Eve substantially aligned with the corpus's reading. Sendy's *Ces dieux qui firent le ciel et la terre* (1969) provides the principal scholarly antecedent of the corpus's reading, treating Adam and Eve as the first humans of the Israel-team lineage and reading the Genesis narrative as preserving substantive operational content. Wallis's *The Eden Conspiracy* (2024) provides accessible recent treatment, with detailed engagement with the Genesis 2–3 material from an Elohim-pluralist perspective broadly compatible with the corpus's reading.
+El corpus no adopta la identificación de Adán-como-Miguel. El material fuente raeliano identifica a Joseph Smith como uno de los profetas de la tradición profética más amplia de la alianza (el movimiento santo-de-los-últimos-días se lee como una de las misiones de contacto concretas de la alianza en el período post-Aries), pero la doctrina específica de Adán-como-Miguel se lee como un desarrollo teológico de la tradición restauracionista más que como contenido operativo exacto.
 
-### The framework's relationship to the broader landscape
+### Sendy y Wallis sobre Adán y Eva
 
-The corpus's reading is positioned within this landscape as follows: rejecting the Augustinian original-sin doctrine; aligned with Pagels's analysis of the Augustinian theological synthesis as a specific historical development; aligned with the Jewish and Christian feminist tradition's recognition that Eve is not uniquely culpable; respectful of the Lilith tradition's interpretive engagement while not adopting the underlying narrative; partially aligned with Biglino's reading of Adam and Eve as synthesized humans while disagreeing on the Cain-as-serpent-lineage reading; aligned with Sendy's and Wallis's readings as the principal scholarly antecedents of the corpus's reading; non-aligned with the Latter-day Saint Adam-as-Michael identification. The corpus's reading is its own — distinct from each of these — but engages each substantively.
+**Jean Sendy** y **Paul Anthony Wallis** desarrollan ambos lecturas de Adán y Eva sustancialmente alineadas con la lectura del corpus. *Ces dieux qui firent le ciel et la terre* (1969) de Sendy proporciona el principal antecedente erudito de la lectura del corpus, tratando a Adán y Eva como los primeros humanos del linaje del equipo de Israel y leyendo la narración del Génesis como conservadora de contenido operativo sustantivo.{{ cite(id="those-gods-who-made-heaven-and-earth", text="[15]", title="Sendy, *Ces dieux qui firent le ciel et la terre* (1969)") }} *The Eden Conspiracy* (2024) de Wallis proporciona un tratamiento reciente accesible, con detallado diálogo con el material de Génesis 2–3 desde una perspectiva Elohim-pluralista ampliamente compatible con la lectura del corpus.{{ cite(id="the-eden-conspiracy", text="[16]", title="Wallis, *The Eden Conspiracy* (2024)") }}
 
-## Comparative observations
+### La relación del marco con el panorama más amplio
 
-First-human creation narratives are substantially cross-cultural, with parallel founding-figure traditions appearing across most major cultural-religious contexts. The corpus reads this cross-cultural pattern as evidence of the broader operational reality the framework describes — multiple cultural traditions preserving fragmentary memory of distinct creator-team work, with each tradition's preserved narrative reflecting the specific cultural-religious framing of the lineage that preserved it.
+La lectura del corpus se posiciona dentro de este panorama como sigue: rechazando la doctrina agustiniana del pecado original; alineada con el análisis de Pagels de la síntesis teológica agustiniana como un desarrollo histórico concreto; alineada con el reconocimiento de la tradición feminista judía y cristiana de que Eva no es singularmente culpable; respetuosa del diálogo interpretativo de la tradición de Lilith sin adoptar la narración subyacente; parcialmente alineada con la lectura de Biglino de Adán y Eva como humanos sintetizados a la vez que en desacuerdo con la lectura de Caín-como-linaje-de-la-serpiente; alineada con las lecturas de Sendy y Wallis como los principales antecedentes eruditos de la lectura del corpus; no alineada con la identificación santo-de-los-últimos-días de Adán-como-Miguel. La lectura del corpus es propia — distinta de cada una de estas — pero dialoga con cada una sustantivamente.
 
-### Sumerian Adapa and Enkidu
+## Observaciones comparativas
 
-The Sumerian-Akkadian tradition preserves several first-human / early-human figures with substantial parallels to the Adam-and-Eve narrative.
+Las narraciones de creación de los primeros humanos son sustancialmente interculturales, apareciendo tradiciones paralelas de figuras fundadoras a través de la mayoría de los principales contextos cultural-religiosos. El corpus lee este patrón intercultural como evidencia de la realidad operativa más amplia que el marco describe — múltiples tradiciones culturales conservando memoria fragmentaria del trabajo de equipos creadores distintos, reflejando la narración conservada de cada tradición el encuadre cultural-religioso específico del linaje que la conservó.
 
-**Adapa** is the figure of the Sumerian *Adapa myth* (preserved in cuneiform tablets from the late second millennium BCE, with possible earlier oral antecedents). Adapa is the first man, created by Ea (Enki) at the city of Eridu, given wisdom and skill but not given immortality. The myth's central episode involves Adapa being summoned to the sky-god An's court after breaking the wing of the south wind; offered the food and water of immortality, Adapa refuses on Ea's specific advice (Ea having warned him that the food would be poison), and thereby loses the opportunity for eternal life. The myth concludes with Adapa's return to Earth as a mortal-but-wise figure.
+### Adapa y Enkidu sumerios
 
-The structural parallels to the Adam-and-Eve narrative are substantial:
+La tradición sumerio-acadia conserva varias figuras de primeros humanos / humanos tempranos con sustanciales paralelos a la narración de Adán y Eva.
 
-- A first man created by a divine figure (Ea / Yahweh Elohim)
-- The acquisition of wisdom but not immortality (the parallel to the Tree of Knowledge / Tree of Life distinction in Genesis)
-- A specific encounter with the divine authority involving the question of immortality
-- A loss of the opportunity for eternal life through specific choices
+**Adapa** es la figura del *mito de Adapa* sumerio (conservado en tablillas cuneiformes de finales del segundo milenio a. C., con posibles antecedentes orales más tempranos).{{ cite(id="before-the-muses", text="[17]", title="Foster, *Before the Muses* (2005) — el mito de Adapa y el corpus acadio más amplio") }} Adapa es el primer hombre, creado por Ea (Enki) en la ciudad de Eridu, dotado de sabiduría y habilidad pero no de inmortalidad. El episodio central del mito involucra a Adapa siendo convocado a la corte del dios celeste An tras romper el ala del viento del sur; ofrecidos el alimento y el agua de la inmortalidad, Adapa los rechaza por el consejo específico de Ea (habiéndole advertido Ea que el alimento sería veneno), y con ello pierde la oportunidad de la vida eterna. El mito concluye con el regreso de Adapa a la Tierra como figura mortal-pero-sabia.
 
-The corpus reads the Adapa myth as preserving fragmentary memory of the Eden events as recorded in another creator team's lineage — likely the team that worked in the broader Mesopotamian region, with the Sumerian tradition preserving the narrative through a different cultural-mythological framework than the Hebrew tradition's. The Adapa parallel is therefore not a direct source for the Genesis Adam narrative; both are parallel preservations of the underlying operational reality.
+Los paralelos estructurales con la narración de Adán y Eva son sustanciales:
 
-**Enkidu** is the figure of the *Epic of Gilgamesh* — a wild man created by the goddess Aruru at Anu's command, fashioned from clay, brought to civilization through his sexual encounter with the prostitute Shamhat, and becoming Gilgamesh's companion. The Enkidu narrative includes substantial parallels to the Eve narrative (the woman-mediated transition from primordial wildness to civilized awareness, the loss of innocence through specific sexual-cognitive experiences) that have been substantially noted in comparative Near Eastern scholarship.
+- Un primer hombre creado por una figura divina (Ea / Yahvé Elohim)
+- La adquisición de sabiduría pero no de inmortalidad (el paralelo a la distinción Árbol del Conocimiento / Árbol de la Vida en el Génesis)
+- Un encuentro concreto con la autoridad divina que involucra la cuestión de la inmortalidad
+- Una pérdida de la oportunidad de la vida eterna a través de elecciones concretas
 
-The corpus reads Enkidu as preserving fragmentary memory of similar operational events to those preserved in the Genesis narrative — the early human experience of education, civilization, and cognitive development — with the specific Enkidu figure being a literary-mythological construction of the Mesopotamian tradition rather than a direct historical referent.
+El corpus lee el mito de Adapa como conservador de memoria fragmentaria de los acontecimientos del Edén tal como se registraron en el linaje de otro equipo creador — probablemente el equipo que trabajó en la región mesopotámica más amplia, conservando la tradición sumeria la narración a través de un marco cultural-mitológico distinto del de la tradición hebrea. El paralelo de Adapa no es, por tanto, una fuente directa de la narración de Adán del Génesis; ambas son conservaciones paralelas de la realidad operativa subyacente.
 
-### Egyptian creation traditions
+**Enkidu** es la figura del *Poema de Gilgamesh* — un hombre salvaje creado por la diosa Aruru por orden de Anu, modelado de arcilla, llevado a la civilización a través de su encuentro sexual con la prostituta Shamhat, y convertido en compañero de Gilgamesh.{{ cite(id="george-epic-of-gilgamesh", text="[18]", title="George (trad.), *The Epic of Gilgamesh* (1999) — la narración de Enkidu") }} La narración de Enkidu incluye sustanciales paralelos a la narración de Eva (la transición mediada por una mujer de la salvajía primordial a la conciencia civilizada, la pérdida de la inocencia a través de experiencias sexual-cognitivas concretas) que han sido sustancialmente señalados en la erudición comparativa del Próximo Oriente.
 
-The Egyptian tradition preserves multiple first-human creation narratives across its long pharaonic history.
+El corpus lee a Enkidu como conservador de memoria fragmentaria de acontecimientos operativos similares a los conservados en la narración del Génesis — la temprana experiencia humana de educación, civilización y desarrollo cognitivo — siendo la figura específica de Enkidu una construcción literario-mitológica de la tradición mesopotámica más que un referente histórico directo.
 
-The **Atum tradition** holds that Atum (the primordial creator god of Heliopolis) created the first humans through self-generation, with various subsequent traditions elaborating the narrative.
+### Tradiciones de creación egipcias
 
-The **Khnum tradition** holds that Khnum, the ram-headed creator god, formed humans on a potter's wheel from clay — a substantial parallel to the Genesis 2:7 "dust of the ground" formation language. The Khnum-as-potter iconography is preserved in numerous Egyptian temple reliefs (notably at Esna and Dendera) showing the god forming humans on his wheel.
+La tradición egipcia conserva múltiples narraciones de creación de los primeros humanos a lo largo de su larga historia faraónica.
 
-The **Memphite Theology** (preserved on the Shabaka Stone, c. 8th century BCE, but reflecting older theological tradition) presents Ptah, the Memphite creator god, creating humans through divine speech — a parallel to Genesis 1's creation through speech.
+La **tradición de Atum** sostiene que Atum (el dios creador primordial de Heliópolis) creó a los primeros humanos mediante autogeneración, elaborando diversas tradiciones subsiguientes la narración.
 
-The corpus reads the Egyptian first-human traditions as preserving fragmentary memory of the African-region creator team's work, with the specific cultural-mythological framing reflecting the Egyptian tradition's distinctive theological apparatus. The substantial parallels to the Hebrew Genesis narrative (particularly the Khnum-as-potter parallel to the dust-of-the-ground formation) are read as evidence of the underlying common operational reality the various cultural traditions preserve in their distinctive forms.
+La **tradición de Khnum** sostiene que Khnum, el dios creador con cabeza de carnero, formó a los humanos en un torno de alfarero a partir de arcilla — un sustancial paralelo al lenguaje de formación del «polvo de la tierra» de Génesis 2:7. La iconografía de Khnum-como-alfarero se conserva en numerosos relieves de templos egipcios (notablemente en Esna y Dendera) que muestran al dios formando humanos en su torno.{{ cite(id="allen-genesis-in-egypt", text="[19]", title="Allen, *Genesis in Egypt: The Philosophy of Ancient Egyptian Creation Accounts* (1988)") }}
 
-### Hindu Manu
+La **Teología Menfita** (conservada en la Piedra de Shabaka, c. siglo VIII a. C., pero reflejando una tradición teológica más antigua) presenta a Ptah, el dios creador menfita, creando a los humanos mediante el habla divina — un paralelo a la creación mediante el habla de Génesis 1.
 
-The Hindu tradition preserves the figure of **Manu** as the first man and the progenitor of humanity. The principal Manu traditions:
+El corpus lee las tradiciones egipcias de los primeros humanos como conservadoras de memoria fragmentaria del trabajo del equipo creador de la región africana, reflejando el encuadre cultural-mitológico específico el aparato teológico distintivo de la tradición egipcia. Los sustanciales paralelos a la narración hebrea del Génesis (en particular el paralelo de Khnum-como-alfarero con la formación del polvo de la tierra) se leen como evidencia de la realidad operativa común subyacente que las diversas tradiciones culturales conservan en sus formas distintivas.
 
-**Manu Vaivasvata** ("Manu, son of Vivasvat") is the figure of the *Shatapatha Brahmana* (c. 9th–7th century BCE) and the *Mahabharata* who survives the great flood (the Indian flood narrative paralleling the Mesopotamian and Hebrew flood traditions) and becomes the progenitor of post-flood humanity. The Manu-Vaivasvata flood narrative includes the figure of a fish (avatar of Vishnu in later tradition) who warns Manu of the impending flood and provides for his survival.
+### El Manu hindú
 
-The **Manu Smriti** ("Laws of Manu," c. 2nd century BCE – 3rd century CE) is the principal Hindu legal-religious text attributed to Manu, with the text providing the foundational legal-social framework of classical Hindu civilization.
+La tradición hindú conserva la figura de **Manu** como el primer hombre y el progenitor de la humanidad. Las tradiciones principales de Manu:
 
-The Manu tradition's structural parallels to the Adam-and-Eve narrative include:
+**Manu Vaivasvata** («Manu, hijo de Vivasvat») es la figura del *Shatapatha Brahmana* (c. siglos IX–VII a. C.) y del *Mahabharata* que sobrevive al gran diluvio (la narración india del diluvio paralela a las tradiciones mesopotámica y hebrea del diluvio) y se convierte en el progenitor de la humanidad post-diluviana.{{ cite(id="doniger-hindu-myths", text="[20]", title="Doniger, *Hindu Myths: A Sourcebook* (1975) — las tradiciones de Manu primer-hombre y del diluvio") }} La narración del diluvio de Manu-Vaivasvata incluye la figura de un pez (avatar de Vishnu en la tradición posterior) que advierte a Manu del diluvio inminente y provee para su supervivencia.
 
-- The figure of the first man as the progenitor of subsequent humanity
-- The specific narrative of the first man's relationship to the gods / divine authority
-- The legal-social codification associated with the figure (paralleling the Hebrew tradition's later Mosaic codification)
+El **Manu Smriti** («Leyes de Manu», c. siglo II a. C. – siglo III d. C.) es el principal texto legal-religioso hindú atribuido a Manu, proporcionando el texto el marco legal-social fundacional de la civilización hindú clásica.
 
-The corpus reads the Manu tradition as preserving fragmentary memory of the Indian-subcontinent creator team's work, with the specific cultural-religious framing reflecting the Hindu tradition's distinctive theological apparatus. The Manu-Vaivasvata flood narrative's parallel to the Hebrew Noah narrative is treated more fully in the [Great Flood](../great-flood/) entry (when written).
+Los paralelos estructurales de la tradición de Manu con la narración de Adán y Eva incluyen:
 
-### Chinese Pangu and Nüwa
+- La figura del primer hombre como progenitor de la humanidad subsiguiente
+- La narración concreta de la relación del primer hombre con los dioses / la autoridad divina
+- La codificación legal-social asociada con la figura (en paralelo a la posterior codificación mosaica de la tradición hebrea)
 
-The Chinese tradition preserves multiple early-cosmic and first-human figures.
+El corpus lee la tradición de Manu como conservadora de memoria fragmentaria del trabajo del equipo creador del subcontinente indio, reflejando el encuadre cultural-religioso específico el aparato teológico distintivo de la tradición hindú. El paralelo de la narración del diluvio de Manu-Vaivasvata con la narración hebrea de Noé se trata más a fondo en la entrada [Gran Diluvio](../great-flood/) (cuando se escriba).
 
-**Pangu** (盤古) is the primordial cosmic figure who, in the *Sanwu Liji* (3rd century CE) and subsequent traditions, emerges from the cosmic egg and separates yin and yang to create the structured cosmos. Pangu's body, upon his death, becomes the various features of the cosmos (his eyes becoming the sun and moon, his breath becoming the wind, his blood becoming the rivers, etc.).
+### Pangu y Nüwa chinos
 
-**Nüwa** (女媧) is the goddess who creates humans from clay or yellow earth, with the principal texts being the *Huainanzi* (2nd century BCE) and various subsequent traditions. Nüwa's first humans were formed individually by her hands; subsequent humans were formed more rapidly by her dragging a rope through clay, with the result that the first individually-formed humans were of higher status than the subsequent rapidly-formed humans (the social-hierarchical justification being part of the narrative).
+La tradición china conserva múltiples figuras cósmico-tempranas y de primeros humanos.
 
-The corpus reads the Chinese first-human traditions as preserving fragmentary memory of the East Asian creator team's work, with the specific cultural-mythological framing reflecting the Chinese tradition's distinctive cosmological apparatus (the Pangu-cosmic-body cosmogony, the Nüwa-clay-formation parallel to Genesis 2:7's dust-of-the-ground formation).
+**Pangu** (盤古) es la figura cósmica primordial que, en el *Sanwu Liji* (siglo III d. C.) y tradiciones subsiguientes, emerge del huevo cósmico y separa el yin y el yang para crear el cosmos estructurado. El cuerpo de Pangu, a su muerte, se convierte en los diversos rasgos del cosmos (sus ojos convirtiéndose en el sol y la luna, su aliento en el viento, su sangre en los ríos, etc.).
 
-### Norse Ask and Embla
+**Nüwa** (女媧) es la diosa que crea a los humanos de arcilla o tierra amarilla, siendo los textos principales el *Huainanzi* (siglo II a. C.) y diversas tradiciones subsiguientes.{{ cite(id="birrell-chinese-mythology", text="[21]", title="Birrell, *Chinese Mythology: An Introduction* (1993) — la cosmogonía de Pangu y la formación de arcilla de Nüwa") }} Los primeros humanos de Nüwa fueron formados individualmente por sus manos; los humanos subsiguientes fueron formados más rápidamente arrastrando ella una cuerda por la arcilla, con el resultado de que los primeros humanos formados individualmente eran de estatus más alto que los humanos subsiguientes formados rápidamente (siendo la justificación social-jerárquica parte de la narración).
 
-The Norse tradition preserves the figures of **Ask** ("Ash") and **Embla** ("Elm" or possibly "Vine") as the first humans, created by the Aesir gods (Odin, Vili, and Vé in the *Prose Edda*; alternatively Odin, Hoenir, and Lóðurr in the *Poetic Edda*) from trees or wooden logs found on the seashore. The gods give the first humans breath, intelligence, and the various human capacities, with Ask and Embla becoming the progenitors of subsequent humanity.
+El corpus lee las tradiciones chinas de los primeros humanos como conservadoras de memoria fragmentaria del trabajo del equipo creador de Asia oriental, reflejando el encuadre cultural-mitológico específico el aparato cosmológico distintivo de la tradición china (la cosmogonía del cuerpo-cósmico de Pangu, el paralelo de la formación-de-arcilla de Nüwa con la formación del polvo de la tierra de Génesis 2:7).
 
-The structural parallels to the Adam-and-Eve narrative include:
+### Ask y Embla nórdicos
 
-- A first pair (male and female) created jointly by divine figures
-- The specific giving of breath / life-force to inanimate material to produce living humans (parallel to Genesis 2:7's *nišmaṯ ḥayyîm*)
-- The progenitor role for subsequent humanity
+La tradición nórdica conserva las figuras de **Ask** («Fresno») y **Embla** («Olmo» o posiblemente «Vid») como los primeros humanos, creados por los dioses Aesir (Odín, Vili y Vé en la *Edda en prosa*; alternativamente Odín, Hœnir y Lóðurr en la *Edda poética*) a partir de árboles o troncos de madera hallados en la orilla del mar.{{ cite(id="lindow-norse-mythology", text="[22]", title="Lindow, *Norse Mythology* (2001) — la narración de los primeros humanos Ask-y-Embla") }} Los dioses dan a los primeros humanos aliento, inteligencia y las diversas capacidades humanas, convirtiéndose Ask y Embla en los progenitores de la humanidad subsiguiente.
 
-The corpus reads the Norse Ask-and-Embla tradition as preserving fragmentary memory of the Northern European creator team's work, with the wooden-formation specific cultural framing reflecting the Northern European tradition's distinctive natural-environment context.
+Los paralelos estructurales con la narración de Adán y Eva incluyen:
 
-### Indigenous American first-human traditions
+- Una primera pareja (varón y hembra) creada conjuntamente por figuras divinas
+- El otorgamiento concreto de aliento / fuerza-vital a material inanimado para producir humanos vivientes (paralelo al *nišmaṯ ḥayyîm* de Génesis 2:7)
+- El papel progenitor para la humanidad subsiguiente
 
-Various indigenous American traditions preserve first-human creation narratives with substantial structural parallels to the Adam-and-Eve material.
+El corpus lee la tradición nórdica de Ask-y-Embla como conservadora de memoria fragmentaria del trabajo del equipo creador de Europa septentrional, reflejando el encuadre cultural específico de la formación-de-madera el contexto natural-ambiental distintivo de la tradición de Europa septentrional.
 
-The **Maya Popol Vuh** (preserved in 16th-century Quiché Maya manuscripts but reflecting earlier oral traditions) records multiple first-human creation attempts by the gods — humans of mud (failed), humans of wood (failed), and humans of corn (successful). The corn-humans are the progenitors of subsequent Maya humanity.
+### Tradiciones indígenas americanas de los primeros humanos
 
-Various **North American indigenous traditions** preserve first-human narratives, with substantial variation across cultural contexts. The **Iroquois "Sky Woman"** narrative includes the first woman who falls from the sky world and becomes the matriarchal progenitor of subsequent humanity. Various **Plains tribes' traditions** preserve first-human narratives with specific cultural-mythological framings.
+Diversas tradiciones indígenas americanas conservan narraciones de creación de los primeros humanos con sustanciales paralelos estructurales al material de Adán y Eva.
 
-The corpus reads the indigenous American first-human traditions as preserving fragmentary memory of the American-continent creator teams' work — likely two or more distinct teams given the geographical scale and the substantial cultural-linguistic diversity of the indigenous American populations. The specific cultural-mythological framings reflect the distinctive contexts of each tradition's preservation.
+El **Popol Vuh maya** (conservado en manuscritos quiché-mayas del siglo XVI pero reflejando tradiciones orales más tempranas) registra múltiples intentos de creación de los primeros humanos por parte de los dioses — humanos de barro (fallidos), humanos de madera (fallidos) y humanos de maíz (logrados).{{ cite(id="tedlock-popol-vuh", text="[23]", title="Tedlock (trad.), *Popol Vuh: The Mayan Book of the Dawn of Life* (1996)") }} Los humanos de maíz son los progenitores de la humanidad maya subsiguiente.
 
-### The convergence
+Diversas **tradiciones indígenas norteamericanas** conservan narraciones de los primeros humanos, con sustancial variación a través de los contextos culturales. La narración de la **«Mujer del Cielo» iroquesa** incluye a la primera mujer que cae del mundo celeste y se convierte en la progenitora matriarcal de la humanidad subsiguiente. Diversas **tradiciones de las tribus de las Llanuras** conservan narraciones de los primeros humanos con encuadres cultural-mitológicos específicos.
 
-The corpus's working position on the comparative-first-human question is that the global recurrence of first-human creation narratives across cultures is meaningful as evidence of broader operational patterns. The seven creator teams' parallel work across the antediluvian supercontinent produced parallel first-human pairs in distinct lineages, with each lineage's subsequent cultural-religious tradition preserving fragmentary memory of its specific founding event in distinctive cultural-mythological forms. Adam and Eve are the first humans of one specific lineage — the Israel-team lineage — with their narrative preserved in the Hebrew tradition. Adapa, Manu, Pangu, Nüwa, Ask, Embla, and the various indigenous American first-human figures are parallel first-humans of other lineages, with their narratives preserved in their respective cultural traditions.
+El corpus lee las tradiciones indígenas americanas de los primeros humanos como conservadoras de memoria fragmentaria del trabajo de los equipos creadores del continente americano — probablemente dos o más equipos distintos dada la escala geográfica y la sustancial diversidad cultural-lingüística de las poblaciones indígenas americanas. Los encuadres cultural-mitológicos específicos reflejan los contextos distintivos de la conservación de cada tradición.
 
-The corpus does not claim that every first-human narrative across world traditions is a direct memory of an actual creator-team operation — many such narratives are independently developed mythological constructions of their respective cultures. What the framework registers is that the substantial cross-cultural pattern is consistent with the seven-creator-team picture the framework reads, with various cultural traditions preserving aspects of this reality in their own distinctive cultural-mythological forms.
+### La convergencia
 
-## See also
+La posición de trabajo del corpus sobre la cuestión comparativa de los primeros humanos es que la recurrencia global de narraciones de creación de los primeros humanos a través de las culturas es significativa como evidencia de patrones operativos más amplios. El trabajo paralelo de los siete equipos creadores a lo largo del supercontinente antediluviano produjo parejas paralelas de primeros humanos en linajes distintos, conservando la subsiguiente tradición cultural-religiosa de cada linaje memoria fragmentaria de su acontecimiento fundador específico en formas cultural-mitológicas distintivas. Adán y Eva son los primeros humanos de un linaje concreto — el linaje del equipo de Israel — con su narración conservada en la tradición hebrea. Adapa, Manu, Pangu, Nüwa, Ask, Embla y las diversas figuras indígenas americanas de los primeros humanos son primeros humanos paralelos de otros linajes, con sus narraciones conservadas en sus respectivas tradiciones culturales.
 
-- [Eden](../eden/)
-- [Genesis](../genesis/)
-- [Serpent](../serpent/)
-- [Lucifer](../lucifer/)
-- [Yahweh](../yahweh/)
-- [Elohim](../elohim/)
-- [Tree of Knowledge](../tree-of-knowledge/)
-- [Tree of Life](../tree-of-life/)
-- [Cain and Abel](../cain-and-abel/)
-- [Antediluvian](../antediluvian/)
-- [Sons of Elohim](../sons-of-elohim/)
-- [Nephilim](../nephilim/)
-- [Hebrew](../hebrew/)
-- [Hebrew Bible](../hebrew-bible/)
-- [Prophet](../prophet/)
-- [Mary](../mary/)
-- [Council of the Eternals](../council-of-eternals/)
-- [The Alliance](../the-alliance/)
-- [Great Flood](../great-flood/)
-- [Age of Leo](../timeline/age-of-leo/)
-- [Age of Cancer](../timeline/age-of-cancer/)
-- [Atra-ḫasīs](../atra-hasis/)
-- [Epic of Gilgamesh](../epic-of-gilgamesh/)
-- [Documentary Hypothesis](../documentary-hypothesis/)
-- [Jean Sendy](../jean-sendy/)
-- [Mauro Biglino](../mauro-biglino/)
-- [Paul Anthony Wallis](../paul-anthony-wallis/)
+El corpus no afirma que toda narración de los primeros humanos a través de las tradiciones del mundo sea una memoria directa de una operación real de un equipo creador — muchas de tales narraciones son construcciones mitológicas desarrolladas independientemente por sus respectivas culturas. Lo que el marco registra es que el sustancial patrón intercultural es coherente con el cuadro de los siete equipos creadores que el marco lee, conservando diversas tradiciones culturales aspectos de esta realidad en sus propias formas cultural-mitológicas distintivas.
 
-## References
-
-Vorilhon, Claude (Raël). *The Book Which Tells the Truth* (1974), chapter 2; collected in *Message from the Designers*.
-
-Vorilhon, Claude (Raël). *Extra-Terrestrials Took Me to Their Planet* (1975); collected in *Message from the Designers*.
-
-Sendy, Jean. *Ces dieux qui firent le ciel et la terre*. Robert Laffont, 1969. English: *Those Gods Who Made Heaven and Earth*. Berkley, 1972.
-
-Biglino, Mauro, and Giorgio Cattaneo. *The Naked Bible: The Truth About the Most Famous Book in History*. Uno, 2022.
-
-Wallis, Paul Anthony. *The Eden Conspiracy*. 6th Books, 2024.
-
-*Biblia Hebraica Stuttgartensia*. Deutsche Bibelgesellschaft, 4th rev. ed., 1997.
-
-Sarna, Nahum. *Genesis: The JPS Torah Commentary*. Jewish Publication Society, 1989.
-
-Westermann, Claus. *Genesis 1–11: A Continental Commentary*. Fortress, 1994.
-
-Skinner, John. *A Critical and Exegetical Commentary on Genesis*. International Critical Commentary, T&T Clark, 1910.
-
-von Rad, Gerhard. *Genesis: A Commentary*. Westminster, 1961.
-
-Augustine. *City of God*. Trans. Henry Bettenson. Penguin Classics, 1972.
-
-Augustine. *On the Merits and Forgiveness of Sins, and on Infant Baptism*. In *Anti-Pelagian Works*, trans. Peter Holmes. T&T Clark.
-
-Pagels, Elaine. *Adam, Eve, and the Serpent*. Random House, 1988.
-
-Trible, Phyllis. *God and the Rhetoric of Sexuality*. Fortress, 1978.
-
-Meyers, Carol. *Discovering Eve: Ancient Israelite Women in Context*. Oxford University Press, 1988.
-
-Plaskow, Judith. *Standing Again at Sinai: Judaism from a Feminist Perspective*. Harper, 1990.
-
-Plaskow, Judith. "The Coming of Lilith" (1972). In *The Coming of Lilith: Essays on Feminism, Judaism, and Sexual Ethics*, 1972–2003. Beacon, 2005.
-
-*The Alphabet of Ben Sira* (medieval Hebrew text, c. 8th–10th century CE). Trans. Norman Bronznick. In *Rabbinic Fantasies*, ed. David Stern and Mark Jay Mirsky. JPS, 1990.
-
-*Zohar*. Pritzker Edition, trans. Daniel Matt et al. Stanford University Press, 2003–2017.
-
-Lambert, W. G., and A. R. Millard. *Atra-ḫasīs: The Babylonian Story of the Flood*. Oxford University Press, 1969.
-
-George, Andrew, ed. and trans. *The Epic of Gilgamesh: The Babylonian Epic Poem and Other Texts in Akkadian and Sumerian*. Penguin Classics, 1999.
-
-Foster, Benjamin R. *Before the Muses: An Anthology of Akkadian Literature*. CDL Press, 3rd ed., 2005.
-
-Allen, James P. *Genesis in Egypt: The Philosophy of Ancient Egyptian Creation Accounts*. Yale Egyptological Studies, 1988.
-
-Doniger, Wendy. *Hindu Myths: A Sourcebook*. Penguin Classics, 1975.
-
-Birrell, Anne. *Chinese Mythology: An Introduction*. Johns Hopkins University Press, 1993.
-
-Lindow, John. *Norse Mythology: A Guide to the Gods, Heroes, Rituals, and Beliefs*. Oxford University Press, 2001.
-
-Tedlock, Dennis, trans. *Popol Vuh: The Mayan Book of the Dawn of Life*. Touchstone, 1996.
-
-Smith, Joseph. *Doctrine and Covenants*. Church of Jesus Christ of Latter-day Saints, various editions.
-
-Brown, Francis, S. R. Driver, and Charles A. Briggs. *A Hebrew and English Lexicon of the Old Testament* (BDB). Oxford, 1907.
-
-*The Hebrew and Aramaic Lexicon of the Old Testament* (HALOT), Koehler-Baumgartner. Brill, 2001.
-
-"Adam and Eve." *Encyclopaedia Britannica*. <https://www.britannica.com/topic/Adam-and-Eve>
-
-"Adam." *Encyclopaedia Britannica*. <https://www.britannica.com/topic/Adam-Hebrew-mythology>
-
-"Eve." *Encyclopaedia Britannica*. <https://www.britannica.com/topic/Eve-Hebrew-mythology>
-
-"Lilith." *Encyclopaedia Britannica*. <https://www.britannica.com/topic/Lilith-Jewish-folklore>
-
-"Original sin." *Encyclopaedia Britannica*. <https://www.britannica.com/topic/original-sin>

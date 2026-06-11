@@ -1,613 +1,638 @@
 +++
 title = "아담과 하와"
-description = "아담과 하와는 창세기에서 에덴동산에 놓인 최초의 인류 부부이다. Wheel of Heaven의 틀에서 그들은 엘로힘이 실험실에서 합성한 최초의 시제품으로 읽히며 — 아담 계통의 원형적 조상이자, 그들의 타락은 실험실에서 바깥 세계로의 이행을 표시한다."
+slug = "adam-and-eve"
+description = "아담(히브리어: אָדָם, ʾāḏām)과 하와(히브리어: חַוָּה, ḥawwāh)는 히브리어 성경 창세기 서사에 등장하는 최초의 인간으로, 엘로힘에 의해 에덴동산에서 형성되었으며, 선악을 알게 하는 나무에 관한 금지를 부여받았고, 그 나무의 열매를 먹은 후 동산에서 추방되었다. 라엘 자료에서 발전하여 Wheel of Heaven 코퍼스가 채택한 독해에 따르면, 아담과 하와는 특정한 역사적 인물로 읽힌다. 즉 이스라엘 팀의 특정 에덴 시설에서 최초로 합성된 인간으로, 사자자리 시대 후반에 신생(de novo) 생물학적 합성을 통해 창조되었고, 에덴의 통제된 환경에서 교육받았으며, 반체제 루시퍼 분파가 제한된 과학 지식을 폭로한 데 노출되었고, 폭로 이후 시설에서 추방되었으며, 에덴 계통 인류 문명의 시조이다. 두 사람은 현재 영원자들의 행성에서 부활하여, 물병자리 시대의 대사관에서 동맹이 공개적으로 귀환할 것을 기다리고 있다."
 template = "wiki-page.html"
 toc = true
 
 [extra]
-translation_status = "metadata_only"
 category = "Biblical Figures"
 editorial_pass = "2026-05"
+claim_type = "framework"
 entry_type = "figure"
 alternative_names = ["Adam", "Eve", "אָדָם וְחַוָּה", "ʾĀḏām and Ḥawwāh", "the First Humans", "the First Pair", "Adam Kadmon and Hawwah (in Kabbalistic tradition)"]
 timeline = ["leo", "cancer"]
+see_also = [
+    { title = "에덴", path = "wiki/eden", description = "아담과 하와가 합성되고 교육받은 이스라엘 팀의 시설." },
+    { title = "창세기", path = "wiki/genesis", description = "코퍼스가 그 창세기 1장과 창세기 2장 설명을 범위에서 구별되는 것으로 읽는 창조 서사." },
+    { title = "뱀", path = "wiki/serpent", description = "폭로 역할 속의 루시퍼 분파; 아담과 하와에게 에덴 폭로를 행한 인물." },
+    { title = "루시퍼", path = "wiki/lucifer", description = "아담과 하와가 그 폭로를 받은 반체제 분파의 지도자." },
+    { title = "생명나무", path = "wiki/tree-of-life", description = "아담의 기록된 930년 수명 배후의 장수 기술." },
+    { title = "대홍수 이전 시대", path = "wiki/antediluvian", description = "아담과 하와의 계통이 세운 에덴 이후의 시기." },
+]
+
+footnotes = [
+    { content = "코퍼스는 창세기 1장과 창세기 2장을 동일한 사건에 대한 병행적이면서 모순적인 설명으로 읽기보다는 범위에서 구별되는 것으로 읽는다. 창세기 1장은 보다 광범위한 일곱 팀 창조 프로그램의 요약 설명(사자자리 시대 전반에 걸친 일곱 팀 모두의 인류 창조 작업을 다루는 여섯째 *yom*)이며, 창세기 2장은 한 특정 팀의 작업 — 이스라엘 팀의 에덴 시설 — 에 대한 상세 서사이다. 이는 문서가설(두 설명이 진정으로 본문상 구별된다는 것)과 부분적으로 합치하면서도 해석에서 차이가 있다. 즉 코퍼스는 이 둘을 모순적인 병행 설명이 아니라 범위에서 구별되는 것으로 읽는다. 이 독해는 둘이 함께 보존된 이유를 설명한다는 방법론적 이점을 가진다 — 둘은 동일한 보다 광범위한 운영적 실재의 서로 다른 범위를 다루는 것이다." },
+    { content = "코퍼스는 창세기 2장의 창조 언어를 원저자들이 기술적 어휘로는 묘사할 수 없었던 생물학적 합성에 대한 양식화된 설명으로 읽는다. \"땅의 흙\"(*ʿāp̄ār min hā-ʾădāmâ*) 형성은 지구상의 물질을 분자 기질로, 엘로힘 유전 물질을 주형으로 사용한 *신생(de novo)* 합성으로 읽힌다. \"생명의 호흡\"(*nišmaṯ ḥayyîm*)은 합성된 유기체의 활성화로, \"갈빗대\"(*ṣēlāʿ*, \"옆구리\", \"판\", 또는 \"구조적 지지물\"을 뜻할 수 있다)는 아담에게서 취한 세포 또는 유전 물질로서 하와에게 그와의 상당한 유전적 적합성을 부여하는 것으로, \"깊은 잠\"(*tardēmâ*)은 시술 중의 의료적 마취 상태로 읽힌다. 코퍼스는 표면 서사의 문자적-해부학적 구체성에 헌신하지 않는다." },
+    { content = "프레임워크는 아담과 하와가 전 인류의 최초 인간이라고 주장하지 않는다. 일곱 창조자 팀 그림은 다른 여섯 계통에 병행하는 최초 인간 인물들이 있음을 명시적으로 등록한다 — 그들의 이름은 히브리어 성경이 이스라엘 팀 계통의 특정 문화적 유산이기 때문에 히브리어 성경에 보존되지 않았다. 아담과 하와는 *하나*의 계통의 최초 인간이며, 그 후속 역사가 히브리인들의 문화-종교적 역사가 된 것이다. 따라서 \"타락\"은 보편적인 인류의 도덕적 파국이 아니라 한 계통의 역사 속의 특정 운영적 사건이며, 그 서사를 전 인류에게로 확장하는 아우구스티누스의 원죄 교리는 그 통상적인 신학적 틀이 주장하는 보편적 범위를 갖지 않는다." },
+    { content = "프레임워크는 하와에게 일차적 책임을 두는 여성혐오적 해석 전통을 거부한다. 라엘 자료는 폭로가 두 인간 모두에게 동등하게 제공되었고, 폭로하는 창조자들의 애정이 두 사람 모두를 향했으며, 그 결과가 두 사람 모두에게 동등하게 떨어졌음을 명시적으로 밝힌다. 디모데전서 2:13–14의 \"여자가 속았다\"는 틀은 코퍼스가 거부하는 후속 전통의 본문적 근거이다. 이 특정 지점에서 코퍼스는 완전한 여성주의 신학적 장치를 채택하지 않으면서도 유대교 및 기독교 여성주의 학계(페이절스, 트리블, 마이어스)와 합치한다." },
+    { content = "코퍼스가 아담과 하와의 합성 시점으로 부여하는 연대 — 사자자리 시대 후반, 기원전 약 11,400년 — 는 프레임워크 내부적인 것으로, 요한계시록 13:18에서 읽어낸 20년씩 666세대 계산을 포함한 코퍼스의 연대기적 보정에서 도출되었다. 세차 시대들은 실제 천문 현상이지만, 특정 경계 연도들은 프레임워크의 관행이다. 연대기의 도출에 대해서는 창세기 및 대홍수 이전 시대 항목을 참조하라." },
+    { content = "영원자들의 행성에서의 아담과 하와의 부활은 라엘 자료의 자료 내부적 주장이다 — 두 사람 모두 동맹의 복제 및 기억 전이 기술로 유지되는 실질적 불멸의 조건 속에서 현재 그곳에 살고 있으며, 물병자리 시대의 대사관에서의 공개적 귀환을 기다리고 있는 것으로 보고된다. 코퍼스는 아담의 부활을 최초의 예언자(직접적 동맹 통신을 받은 최초의 인간 수신자)로서의 그의 역할과 연결하여 읽는다. 이 주장은 독립적으로 검증 가능하지 않으며, 코퍼스는 그것을 자료 자체의 주장으로 다룬다." },
+]
+
+[[extra.references]]
+id = "the-book-which-tells-the-truth"
+locator = "Chapter 2"
+note = "이스라엘 팀의 에덴 시설에서 최초로 합성된 인간으로서의 아담과 하와에 관한 토대적 라엘 자료."
+
+[[extra.references]]
+id = "extraterrestrials-took-me-to-their-planet"
+note = "보릴롱의 두 번째 저작(1975) — 영원자들의 행성 및 아담을 포함한 예언자들의 부활."
+
+[[extra.references]]
+id = "those-gods-who-made-heaven-and-earth"
+note = "상디가 아담과 하와를 이스라엘 팀 계통의 최초 인간으로 읽은 독해 — 주된 학술적 선례."
+
+[[extra.references]]
+id = "the-naked-bible"
+note = "비글리노가 흙-형성 및 ṣēlāʿ 언어를 생물학적 합성과 복제로 읽은 엄격한 번역적 독해; 코퍼스는 가인-뱀-계통 독해를 제외하고 합치한다."
+
+[[extra.references]]
+id = "the-eden-conspiracy"
+note = "월리스가 엘로힘 복수론적 관점에서 창세기 2–3장 자료를 다룬 최근의 접근하기 쉬운 다룸."
+
+[[extra.references]]
+id = "sarna-genesis-jps"
+note = "사르나의 JPS 토라 주석 — 에덴 서사의 히브리어 및 족장 족보에 대한 표준적 다룸."
+
+[[extra.references]]
+id = "westermann-genesis-1-11"
+note = "베스터만의 창세기 원역사에 대한 표준 양식비평 주석."
+
+[[extra.references]]
+id = "skinner-genesis-icc"
+note = "스키너의 토대적 ICC 주석 — 두 창조 설명에 대한 문서가설 독해를 보존한다."
+
+[[extra.references]]
+id = "von-rad-genesis"
+note = "폰 라트의 야훼계 창조 서사에 대한 양식비평적·신학적 독해."
+
+[[extra.references]]
+id = "city-of-god"
+note = "아우구스티누스가 발전시킨 원죄 교리 — 코퍼스는 이를 본문적으로 주어진 것이 아니라 특정 신학적 구성으로 거부한다."
+
+[[extra.references]]
+id = "pagels-adam-eve-serpent"
+note = "페이절스가 아담-하와 서사의 해석이 서구 사상을 어떻게 형성했는지를 연구한 저작으로, 아우구스티누스의 종합을 논쟁적 발전으로 다룬다."
+
+[[extra.references]]
+id = "trible-rhetoric-sexuality"
+note = "트리블이 원래의 히브리어 본문에서의 양성 평등을 주장하며 창세기 2–3장을 정밀하게 읽은 독해."
+
+[[extra.references]]
+id = "meyers-discovering-eve"
+note = "마이어스가 하와를 철기 시대 이스라엘의 농업 노동 여성으로 읽은 역사적·인류학적 독해."
+
+[[extra.references]]
+id = "plaskow-standing-again-sinai"
+note = "플라스코우가 아담-하와 및 릴리트 전승을 다룬 유대교 여성주의 신학."
+
+[[extra.references]]
+id = "alphabet-of-ben-sira"
+note = "릴리트를 아담의 첫 번째 아내로 보는 서사의 중세 토대 텍스트 — 코퍼스는 이를 등록하지만 채택하지 않는다."
+
+[[extra.references]]
+id = "zohar-pritzker"
+note = "프리츠커판 조하르 — 코퍼스가 비교적으로 다루는 아담 카드몬 및 릴리트 자료."
+
+[[extra.references]]
+id = "george-epic-of-gilgamesh"
+note = "조지의 표준 번역으로, 하와/문명 자료에 비교적으로 견주어 읽히는 엔키두 서사를 포함한다."
+
+[[extra.references]]
+id = "before-the-muses"
+note = "포스터의 아카드 문학 선집으로, 에덴 사건에 비교적으로 견주어 읽히는 아다파 신화를 포함한다."
+
+[[extra.references]]
+id = "atra-hasis-lambert-millard"
+note = "램버트와 밀라드의 *아트라하시스* 비판본 — 창세기 자료와 병행하는 메소포타미아의 창조-홍수 전승."
+
+[[extra.references]]
+id = "allen-genesis-in-egypt"
+note = "앨런이 흙-형성에 병행하는 크눔-도공 평행을 포함한 이집트 창조 신학을 다룬 저작."
+
+[[extra.references]]
+id = "doniger-hindu-myths"
+note = "도니거의 선집으로, 마누 최초 인간 및 홍수 전승을 포함한다."
+
+[[extra.references]]
+id = "birrell-chinese-mythology"
+note = "비렐의 연구로, 반고 우주생성론 및 여와 점토-형성 서사를 포함한다."
+
+[[extra.references]]
+id = "lindow-norse-mythology"
+note = "린도우의 참고서로, 아스크와 엠블라 최초 인간 서사를 포함한다."
+
+[[extra.references]]
+id = "tedlock-popol-vuh"
+note = "텍록이 잇따른 최초 인간 창조 시도들을 담은 마야 포폴 부를 번역한 저작."
+
+[[extra.references]]
+id = "doctrine-and-covenants"
+note = "아담-미카엘 교리의 후기 성도 자료 — 코퍼스는 이를 등록하지만 채택하지 않는다."
 
 [extra.infobox]
 hebrew_name = "אָדָם וְחַוָּה (ʾĀḏām and Ḥawwāh)"
 greek_name = "Ἀδάμ καὶ Εὕα (Adam kai Heua, in the Septuagint)"
 latin_name = "Adam et Eva (in the Vulgate)"
 arabic_name = "آدم وحواء (Ādam wa-Ḥawwāʾ, in the Qur'anic tradition)"
-title = "The first humans of the Israel team's Eden installation"
-type = "Synthesized humans created by the Israel team of Elohim creators; biological pair"
-created = "Late Age of Leo, c. 11,400 BCE on the corpus's reckoning (derived from the 666-generations-of-20-years calculation of Revelation 13:18)"
-date_type = "framework-internal; derived from the corpus's chronological calibration"
-biblical_appearance = "Genesis 1:26–28 (summary creation account); Genesis 2:4–25 (detailed Eden synthesis); Genesis 3 (the disclosure and expulsion); Genesis 4–5 (the post-Eden generations); occasional later Hebrew Bible references (1 Chronicles 1:1; Hosea 6:7); New Testament references (Romans 5; 1 Corinthians 15; 1 Timothy 2)"
-created_by = "The Israel team of Elohim creators, with Yahweh as team leader"
-relationship_to_lucifer = "Educated by the Israel team's scientists during the Eden period, including the figures who would form the dissenting Lucifer faction; recipients of the Lucifer-faction disclosure"
-recorded_lifespan = "Adam: 930 years (Genesis 5:5); Eve: not specified in Genesis"
-children = "Cain, Abel, Seth, and other unnamed sons and daughters (Genesis 4:1–2, 25; 5:3–4)"
-current_status = "Resurrected on the Planet of the Eternals, per the source material's prophet-resurrection list; awaiting the open return at the Aquarian-age embassy"
-principal_text = "Genesis 1–5"
-principal_framework_source = "*The Book Which Tells the Truth* (Vorilhon/Raël, 1974), chapter 2; *Extra-Terrestrials Took Me to Their Planet* (1975)"
+title = "이스라엘 팀의 에덴 시설에서 최초로 합성된 인간"
+type = "엘로힘 창조자들의 이스라엘 팀이 창조한 합성 인간; 생물학적 한 쌍"
+created = "사자자리 시대 후반, 코퍼스의 셈법으로 기원전 약 11,400년(요한계시록 13:18의 20년씩 666세대 계산에서 도출)"
+date_type = "프레임워크 내부적; 코퍼스의 연대기적 보정에서 도출"
+biblical_appearance = "창세기 1:26–28(요약 창조 설명); 창세기 2:4–25(상세 에덴 합성); 창세기 3장(폭로와 추방); 창세기 4–5장(에덴 이후 세대들); 이후의 간헐적 히브리어 성경 언급(역대상 1:1; 호세아 6:7); 신약 언급(로마서 5장; 고린도전서 15장; 디모데전서 2장)"
+created_by = "야훼를 팀 지도자로 하는 엘로힘 창조자들의 이스라엘 팀"
+relationship_to_lucifer = "에덴 시기 동안 반체제 루시퍼 분파를 형성하게 될 인물들을 포함한 이스라엘 팀의 과학자들에게 교육받음; 루시퍼 분파 폭로의 수신자"
+recorded_lifespan = "아담: 930년(창세기 5:5); 하와: 창세기에 명시되지 않음"
+children = "가인, 아벨, 셋, 그리고 이름이 밝혀지지 않은 다른 아들들과 딸들(창세기 4:1–2, 25; 5:3–4)"
+current_status = "자료의 예언자-부활 명단에 따라 영원자들의 행성에서 부활함; 물병자리 시대의 대사관에서의 공개적 귀환을 기다림"
+principal_text = "창세기 1–5장"
+principal_framework_source = "*진실을 말하는 책*(보릴롱/라엘, 1974), 2장; *외계인이 나를 그들의 행성으로 데려갔다*(1975)"
 +++
 
-**Adam** (<span class="hebrew">אָדָם</span>, *ʾāḏām*) and **Eve** (<span class="hebrew">חַוָּה</span>, *ḥawwāh*) are the first humans of the Hebrew Bible's Genesis narrative. Adam is named in Genesis 2:7 as the first human formed by Yahweh Elohim from the dust of the ground; Eve is named in Genesis 3:20 as *the mother of all the living* (*ʾem kol-ḥay*) following her formation in Genesis 2:21–22 from a part of Adam's side. The pair are the focal figures of the Genesis 2–4 narrative — placed in the garden of Eden, given the prohibition concerning the Tree of the Knowledge of Good and Evil, persuaded by the Serpent to eat from the tree, expelled from the garden, and named as the parents of Cain, Abel, and Seth (Genesis 4:1–2, 25; 5:3–4). Their biographical material in the Hebrew Bible concludes with Adam's recorded death at 930 years (Genesis 5:5), with no parallel record for Eve.
+**아담**(<span class="hebrew">אָדָם</span>, *ʾāḏām*)과 **하와**(<span class="hebrew">חַוָּה</span>, *ḥawwāh*)는 히브리어 성경 창세기 서사에 등장하는 최초의 인간이다. 아담은 창세기 2:7에서 야훼 엘로힘이 땅의 흙으로 형성한 최초의 인간으로 명명되며, 하와는 창세기 2:21–22에서 아담의 옆구리 일부로부터 형성된 후 창세기 3:20에서 *모든 산 자의 어머니*(*ʾem kol-ḥay*)로 명명된다. 두 사람은 창세기 2–4장 서사의 초점 인물이다 — 에덴동산에 놓이고, 선악을 알게 하는 나무에 관한 금지를 부여받고, 뱀의 설득으로 그 나무의 열매를 먹고, 동산에서 추방되며, 가인과 아벨과 셋의 부모로 명명된다(창세기 4:1–2, 25; 5:3–4). 히브리어 성경에서 그들의 전기적 자료는 아담이 930세에 죽었다는 기록(창세기 5:5)으로 마무리되며, 하와에 대해서는 그에 상응하는 기록이 없다.
 
-On the reading developed in the Raëlian source material and adopted by the Wheel of Heaven corpus, Adam and Eve are read as specific historical figures rather than as mythological symbols or as the first humans simpliciter. They are the first synthesized humans of the **Israel team's** specific Eden installation — one of seven creator-team installations distributed across the antediluvian supercontinent, with the Israel team's installation producing the specific lineage whose subsequent history would be preserved in the Hebrew Bible. They were created during the late Age of Leo (c. 11,400 BCE on the corpus's reckoning) through *de novo* biological synthesis using Elohim genetic material as the principal source, with terrestrial materials providing the substrate. They were educated in the Eden controlled environment by the Israel team's scientists, including the figures who would form the dissenting Lucifer faction. They received the faction's disclosure of restricted scientific knowledge — the act narrated in Genesis 3 as the Serpent's intervention. They were expelled from the installation following the disclosure and lived out the rest of their lives in the broader Eden region, with their offspring populating the early antediluvian Eden civilization. The source material specifically identifies Adam as the first prophet — the first human recipient of direct alliance communication — and identifies both Adam and Eve as currently resurrected on the Planet of the Eternals, awaiting the alliance's open return at the Aquarian-age embassy.
+라엘 자료에서 발전하여 Wheel of Heaven 코퍼스가 채택한 독해에 따르면, 아담과 하와는 신화적 상징이나 단순한 최초 인간이 아니라 특정한 역사적 인물로 읽힌다. 그들은 **이스라엘 팀의** 특정 에덴 시설에서 최초로 합성된 인간이다 — 이는 대홍수 이전 초대륙 전반에 분포된 일곱 창조자-팀 시설 중 하나로, 이스라엘 팀의 시설은 그 후속 역사가 히브리어 성경에 보존될 특정 계통을 산출했다. 그들은 사자자리 시대 후반(코퍼스의 셈법으로 기원전 약 11,400년){{ footnote(id="5") }}에 엘로힘 유전 물질을 주된 원천으로, 지구상의 물질을 기질로 하여 *신생(de novo)* 생물학적 합성을 통해 창조되었다. 그들은 에덴의 통제된 환경에서 반체제 루시퍼 분파를 형성하게 될 인물들을 포함한 이스라엘 팀의 과학자들에게 교육받았다. 그들은 그 분파의 제한된 과학 지식 폭로 — 창세기 3장에서 뱀의 개입으로 서술된 행위 — 를 받았다. 그들은 폭로 이후 시설에서 추방되어 보다 광범위한 에덴 지역에서 여생을 살았으며, 그들의 자손은 초기 대홍수 이전 에덴 문명을 이루었다. 자료는 아담을 최초의 예언자 — 직접적 동맹 통신을 받은 최초의 인간 수신자 — 로 특정하여 동정하며, 아담과 하와 둘 모두를 현재 영원자들의 행성에서 부활하여 물병자리 시대의 대사관에서의 동맹의 공개적 귀환을 기다리는 것으로 동정한다.{{ cite(id="the-book-which-tells-the-truth", text="[2]", title="보릴롱(라엘), *The Book Which Tells the Truth* (1974), 2장 — 이스라엘 팀의 최초 합성 인간으로서의 아담과 하와") }}
 
-The reading is contested. Within Christian theological tradition, the dominant readings of Adam and Eve treat them as the first humans of all humanity (not just one specific lineage), as morally pivotal figures whose disobedience produced the Fall and inherited original sin (the Augustinian doctrine), and as theologically representative figures whose narrative encodes the human moral condition rather than as historical individuals in the strict sense. Within mainstream historical-critical biblical scholarship, the Genesis 2–4 narrative is recognized as a Yahwist source composition (J source on the documentary hypothesis) with mythological-aetiological character, distinct from the Genesis 1 Priestly source account, with the figures of Adam and Eve treated as literary-mythological constructions rather than as historical individuals. Within paleoanthropology and modern human-origins science, the broader question of human origins is treated through the genetic, archaeological, and paleontological evidence, with the conclusion that Homo sapiens emerged through evolutionary processes across approximately 200,000–300,000 years rather than through specific creation events involving identifiable first individuals. The corpus's reading is structurally distinctive: it accepts the historical-critical recognition that Genesis 1 and Genesis 2 are textually distinct accounts (treating Genesis 1 as the broader summary of all seven creator teams' work and Genesis 2 as the specific Israel-team narrative), accepts that Adam and Eve are not the first humans of all humanity (the corpus reads seven distinct creator-team lineages emerging across the Age of Leo), and treats the figures as specific historical individuals while reframing the underlying ontology of their creation.
+이 독해는 논쟁의 대상이다. 기독교 신학 전통 내에서 아담과 하와에 대한 지배적인 독해들은 그들을 (한 특정 계통만이 아니라) 전 인류의 최초 인간으로, 그들의 불순종이 타락과 유전된 원죄를 낳은 도덕적으로 결정적인 인물(아우구스티누스 교리)로, 그리고 엄밀한 의미에서의 역사적 개인이 아니라 그 서사가 인간의 도덕적 조건을 부호화하는 신학적으로 대표적인 인물로 다룬다. 주류 역사-비평적 성서학 내에서 창세기 2–4장 서사는 신화적-원인론적 성격을 가진 야훼계 자료의 구성물(문서가설상의 J 자료)로, 창세기 1장의 제사장계 자료 설명과 구별되는 것으로 인지되며, 아담과 하와 인물은 역사적 개인이 아니라 문학적-신화적 구성물로 다루어진다. 고인류학 및 근대 인류 기원 과학 내에서 인류 기원의 보다 광범위한 문제는 유전적, 고고학적, 고생물학적 증거를 통해 다루어지며, 호모 사피엔스가 동정 가능한 최초 개인들이 관여한 특정 창조 사건이 아니라 약 200,000–300,000년에 걸친 진화 과정을 통해 출현했다는 결론에 이른다. 코퍼스의 독해는 구조적으로 독특하다. 즉 창세기 1장과 창세기 2장이 본문상 구별되는 설명이라는 역사-비평적 인지를 받아들이고(창세기 1장을 일곱 창조자 팀 모두의 작업에 대한 보다 광범위한 요약으로, 창세기 2장을 특정 이스라엘 팀 서사로 다룬다), 아담과 하와가 전 인류의 최초 인간이 아니라는 것을 받아들이며(코퍼스는 사자자리 시대 전반에 출현한 일곱 개의 구별되는 창조자-팀 계통을 읽는다), 그 인물들을 특정 역사적 개인으로 다루면서 그들의 창조의 기저 존재론을 재구성한다.
 
-## Etymology and naming
+## 어원과 명명
 
-The names Adam and Eve carry distinct etymological histories that are themselves load-bearing for the framework's reading.
+아담과 하와라는 이름은 프레임워크의 독해에 그 자체로 하중을 지는 서로 다른 어원적 역사를 지닌다.
 
-### Adam: *ʾāḏām*
+### 아담: *ʾāḏām*
 
-The Hebrew *ʾāḏām* (<span class="hebrew">אָדָם</span>) is etymologically related to *ʾădāmâ* (<span class="hebrew">אֲדָמָה</span>, "earth, ground, soil"), with both deriving from the consonantal root *ʾ-d-m* meaning "to be red" (referring to the reddish color of the soil characteristic of the Levant). The etymological connection is explicit in Genesis 2:7: *"Then Yahweh Elohim formed the man (ʾāḏām) of dust from the ground (ʾădāmâ), and breathed into his nostrils the breath of life; and the man became a living being."* The wordplay between *ʾāḏām* and *ʾădāmâ* is one of the most direct etymological encodings in the Hebrew Bible's vocabulary: the human is named for the earth from which he was formed.
+히브리어 *ʾāḏām*(<span class="hebrew">אָדָם</span>)은 어원적으로 *ʾădāmâ*(<span class="hebrew">אֲדָמָה</span>, "땅, 지면, 토양")와 관련되며, 둘 다 "붉다"를 뜻하는 자음 어근 *ʾ-d-m*(레반트의 특징적인 붉은빛 토양 색깔을 가리킨다)에서 파생된다. 이 어원적 연결은 창세기 2:7에 명시적이다. *"이에 야훼 엘로힘이 땅(ʾădāmâ)의 흙으로 사람(ʾāḏām)을 지으시고 생기를 그 코에 불어넣으시니 사람이 생령이 되니라."* *ʾāḏām*과 *ʾădāmâ* 사이의 언어유희는 히브리어 성경 어휘에서 가장 직접적인 어원적 부호화 중 하나이다. 즉 인간은 그가 형성된 땅의 이름을 따라 명명된다.
 
-The Hebrew *ʾāḏām* has multiple uses across the Hebrew Bible:
+히브리어 *ʾāḏām*은 히브리어 성경 전반에서 여러 용법을 가진다.
 
-- **The generic sense** — *ʾāḏām* is used as the general term for "human" or "humanity" without reference to gender or to specific individuals, with this usage attested across the Bible (Genesis 1:26–27 uses *ʾāḏām* for "humans" or "humanity" in this generic sense; the pronouncement *naʿaśeh ʾāḏām* in Genesis 1:26 means "let us make humanity").
-- **The proper-name sense** — *ʾāḏām* is used as the personal name of the first specific human in the Genesis 2–5 narrative, with the definite article *ha-ʾāḏām* ("the human") gradually giving way to the proper-name *ʾāḏām* (without article) across the narrative.
-- **The species-designation sense** — *ʾāḏām* is used in some contexts to designate the species in distinction from animals or other categories of being.
+- **일반적 의미** — *ʾāḏām*은 성별이나 특정 개인에 대한 언급 없이 "인간" 또는 "인류"를 가리키는 일반 용어로 사용되며, 이 용법은 성경 전반에 걸쳐 입증된다(창세기 1:26–27은 이 일반적 의미에서 "인간들" 또는 "인류"를 가리키는 데 *ʾāḏām*을 사용한다; 창세기 1:26의 선언 *naʿaśeh ʾāḏām*은 "우리가 인류를 만들자"를 뜻한다).
+- **고유명사적 의미** — *ʾāḏām*은 창세기 2–5장 서사에서 최초의 특정 인간의 인명으로 사용되며, 정관사가 붙은 *ha-ʾāḏām*("그 인간")이 서사 전반에 걸쳐 점차 (관사 없는) 고유명사 *ʾāḏām*에 자리를 내준다.
+- **종(種) 지칭적 의미** — *ʾāḏām*은 일부 맥락에서 동물이나 다른 존재 범주와 구별되는 종을 지칭하는 데 사용된다.
 
-The transition from the generic sense to the proper-name sense across the Genesis narrative reflects the ambiguity at the heart of the Adam figure: he is simultaneously the specific first human of the Israel-team lineage (proper name) and the prototype of humanity generally (generic). The corpus reads this ambiguity as the Hebrew tradition's preservation of both the specificity of the historical referent (a particular individual whose biographical history is recorded) and the broader implication of his role (the prototype whose creation initiated the lineage that would eventually become the Hebrew people).
+창세기 서사 전반에 걸친 일반적 의미에서 고유명사적 의미로의 전환은 아담 인물의 핵심에 있는 모호성을 반영한다. 즉 그는 동시에 이스라엘 팀 계통의 최초의 특정 인간(고유명사)이자 인류 일반의 원형(일반)이다. 코퍼스는 이 모호성을 히브리 전통이 역사적 지시체의 특정성(전기적 역사가 기록된 특정 개인)과 그의 역할의 보다 광범위한 함의(궁극적으로 히브리 민족이 될 계통을 개시한 그 창조의 원형) 양자를 보존한 것으로 읽는다.
 
-The framework's reading takes the etymological connection to *ʾădāmâ* as substantively significant. The name preserves, at the level of Hebrew vocabulary itself, the biological reading the corpus develops: humans were synthesized from terrestrial materials, in laboratories on the surface of this planet, and their name in the original Hebrew preserves that origin. The "dust of the ground" formation language of Genesis 2:7 is read by the corpus as a stylized account of the *de novo* biological synthesis using terrestrial substrate that the Israel team conducted.
+프레임워크의 독해는 *ʾădāmâ*와의 어원적 연결을 실질적으로 의미 있는 것으로 받아들인다. 그 이름은 히브리어 어휘 자체의 차원에서 코퍼스가 발전시키는 생물학적 독해를 보존한다. 즉 인간은 이 행성 표면의 실험실에서 지구상의 물질로부터 합성되었으며, 원래 히브리어에서의 그들의 이름은 그 기원을 보존한다. 창세기 2:7의 "땅의 흙" 형성 언어는 이스라엘 팀이 수행한, 지구상의 기질을 사용한 *신생(de novo)* 생물학적 합성에 대한 양식화된 설명으로 코퍼스에 의해 읽힌다.
 
-### Eve: *Ḥawwāh*
+### 하와: *Ḥawwāh*
 
-The Hebrew *Ḥawwāh* (<span class="hebrew">חַוָּה</span>) is given an explicit etymology in Genesis 3:20: *"The man called his wife's name Eve (Ḥawwāh), because she was the mother of all living (ʾem kol-ḥay)."* The etymological connection is to the root *ḥ-y-h* / *ḥ-w-h* meaning "to live" — *Ḥawwāh* is the participial form meaning "the living one" or "the life-giver."
+히브리어 *Ḥawwāh*(<span class="hebrew">חַוָּה</span>)는 창세기 3:20에서 명시적 어원을 부여받는다. *"아담이 그의 아내의 이름을 하와(Ḥawwāh)라 불렀으니 그가 모든 산 자의 어머니(ʾem kol-ḥay)가 됨이더라."* 어원적 연결은 "살다"를 뜻하는 어근 *ḥ-y-h* / *ḥ-w-h*에 닿는다 — *Ḥawwāh*는 "산 자" 또는 "생명을 주는 자"를 뜻하는 분사형이다.
 
-The name has been the subject of substantial scholarly discussion. The connection to *ḥay* ("living") is the explicit Genesis etymology, but several alternative or supplementary etymologies have been proposed in scholarly literature:
+이 이름은 상당한 학술적 논의의 대상이 되어 왔다. *ḥay*("산")와의 연결은 명시적인 창세기 어원이지만, 학술 문헌에서 몇 가지 대안적 또는 보충적 어원이 제안되어 왔다.
 
-- **The Aramaic *ḥewyāʾ*** (snake) — some scholars have proposed a connection to the Aramaic word for "snake," with the implication that *Ḥawwāh* and the Eden Serpent are etymologically connected. This is suggested by the Genesis Rabbah midrash and elaborated in some Kabbalistic materials. The connection is etymologically possible but not philologically demonstrable.
-- **The Phoenician *ḥwt*** (life-goddess) — a possible cognate to a Phoenician life-goddess figure, with some scholars proposing that *Ḥawwāh* preserves an ancient Semitic divine-name that has been demythologized in the Hebrew Bible's monotheistic reframing.
+- **아람어 *ḥewyāʾ***(뱀) — 일부 학자들은 아람어의 "뱀"이라는 단어와의 연결을 제안했으며, *Ḥawwāh*와 에덴의 뱀이 어원적으로 연결된다는 함의를 가진다. 이는 창세기 라바 미드라쉬에 의해 시사되고 일부 카발라 자료에서 부연된다. 이 연결은 어원적으로 가능하지만 문헌학적으로 입증 가능하지는 않다.
+- **페니키아어 *ḥwt***(생명-여신) — 페니키아의 생명-여신 인물에 대한 가능한 동족어로, 일부 학자들은 *Ḥawwāh*가 히브리어 성경의 일신교적 재구성에서 탈신화화된 고대 셈어 신명(神名)을 보존한다고 제안한다.
 
-The corpus reads the explicit Genesis 3:20 etymology as the principal and operationally significant one. *Ḥawwāh* is "the mother of all living" — the matriarch of the Eden-lineage human population, with the name preserving the biological-genealogical role that her subsequent history makes explicit. The framework does not develop the alternative etymological connections at length; the *Ḥawwāh* / serpent etymological possibility is registered but not adopted (the corpus's reading of Genesis 3 maintains that Eve is not identified with the Serpent, against the medieval Kabbalistic tradition's elaborations).
+코퍼스는 명시적인 창세기 3:20 어원을 주된, 운영적으로 의미 있는 것으로 읽는다. *Ḥawwāh*는 "모든 산 자의 어머니" — 에덴 계통 인류 인구의 모권적 시조 — 이며, 그 이름은 그의 후속 역사가 명시하는 생물학적-계보적 역할을 보존한다. 프레임워크는 대안적 어원적 연결들을 길게 발전시키지 않는다. *Ḥawwāh* / 뱀 어원적 가능성은 등록되지만 채택되지는 않는다(코퍼스의 창세기 3장 독해는 중세 카발라 전통의 부연에 반하여 하와가 뱀과 동일시되지 않음을 견지한다).
 
-### The cross-tradition forms
+### 전통 간 형태들
 
-The names appear across the Hebrew, Greek, Latin, Arabic, and other traditions in the following principal forms:
+이 이름들은 히브리어, 그리스어, 라틴어, 아랍어, 그리고 그 밖의 전통들에 걸쳐 다음과 같은 주된 형태로 나타난다.
 
-- **Hebrew**: *ʾāḏām* (אָדָם), *Ḥawwāh* (חַוָּה)
-- **Greek (LXX and NT)**: *Adam* (Ἀδάμ), *Heua* (Εὕα)
-- **Latin (Vulgate)**: *Adam*, *Heva* (later *Eva*)
-- **Aramaic / Syriac**: *ʾĀḏām*, *Ḥawwâ*
-- **Arabic (Qur'an and Islamic tradition)**: *Ādam* (آدم), *Ḥawwāʾ* (حواء)
-- **English**: Adam, Eve
+- **히브리어**: *ʾāḏām*(אָדָם), *Ḥawwāh*(חַוָּה)
+- **그리스어(70인역 및 신약)**: *Adam*(Ἀδάμ), *Heua*(Εὕα)
+- **라틴어(불가타)**: *Adam*, *Heva*(후에 *Eva*)
+- **아람어 / 시리아어**: *ʾĀḏām*, *Ḥawwâ*
+- **아랍어(쿠란 및 이슬람 전통)**: *Ādam*(آدم), *Ḥawwāʾ*(حواء)
+- **영어**: Adam, Eve
 
-The Arabic tradition's *Ādam wa-Ḥawwāʾ* preserves the Hebrew names in their direct Arabic-cognate forms, with the Qur'anic narrative of Adam and Eve (treated principally in surahs 2:30–39, 7:11–25, and 20:115–123) developing the Hebrew tradition's narrative with substantive theological elaborations specific to Islamic context.
+아랍 전통의 *Ādam wa-Ḥawwāʾ*는 히브리어 이름을 그 직접적인 아랍어-동족어 형태로 보존하며, 아담과 하와에 대한 쿠란 서사(주로 수라 2:30–39, 7:11–25, 20:115–123에서 다루어진다)는 히브리 전통의 서사를 이슬람 맥락에 특유한 실질적 신학적 부연과 함께 발전시킨다.
 
-## In the Hebrew Bible and New Testament
+## 히브리어 성경 및 신약에서
 
-Adam and Eve appear principally in Genesis 2–5, with substantial subsequent biblical and post-biblical interpretive elaboration. The corpus's reading distinguishes carefully between the Genesis 1 summary creation account, the Genesis 2 specific Eden-narrative account, and the subsequent textual elaborations.
+아담과 하와는 주로 창세기 2–5장에 등장하며, 상당한 후속 성서적·후성서적 해석적 부연이 따른다. 코퍼스의 독해는 창세기 1장의 요약 창조 설명, 창세기 2장의 특정 에덴-서사 설명, 그리고 후속 본문적 부연들을 신중하게 구별한다.
 
-### Genesis 1:26–28: the summary creation account
+### 창세기 1:26–28: 요약 창조 설명
 
-Genesis 1:26–28 records the creation of humans within the seven-day creation sequence:
+{% library(book="genesis-woh", chapter=1, verse=26) %}
+엘로힘이 말씀하셨다. "우리가 우리의 형상을 따라, 우리의 모양대로 사람을 만들자. 그리고 그들이 바다의 물고기와 하늘의 새와 가축과 온 땅과 땅 위에 기는 모든 것을 다스리게 하자."
+{% end %}
 
-> *"Then Elohim said, 'Let us make humanity (ʾāḏām) in our image (bə-ṣalmēnû), after our likeness (ki-dmûtēnû); and let them have dominion over the fish of the sea and over the birds of the air and over the cattle and over all the earth and over every creeping thing that creeps upon the earth.' So Elohim created humanity (ʾāḏām) in his image (bə-ṣalmô), in the image of Elohim (bə-ṣelem ʾĕlōhîm) he created him; male and female he created them. And Elohim blessed them."* (Genesis 1:26–28)
+창세기 1:26–28은 7일 창조 시퀀스 안에서의 인간 창조를 기록한다.
 
-The corpus reads Genesis 1:26–28 as the **summary account** of the broader human-creation program conducted by all seven Elohim creator teams across the Age of Leo (the sixth *yom* of the Genesis 1 sequence, on the corpus's precessional-age reading developed in the [Genesis](../genesis/) entry). The plural self-address (*naʿaśeh*, "let us make"; *bə-ṣalmēnû*, "in our image") is read as the Elohim civilization's plural reference, the *bə-ṣelem ʾĕlōhîm* ("in the image of Elohim") as the substantive biological reading that humans share substantial genetic and structural correspondence with their Eloha creators, and the *zakhar u-nəqēvâ* ("male and female") as the binary-creation pattern that all seven teams' work produced.
+> *"엘로힘이 말씀하셨다. '우리가 우리의 형상(bə-ṣalmēnû)을 따라, 우리의 모양대로(ki-dmûtēnû) 사람(ʾāḏām)을 만들고, 그들이 바다의 물고기와 공중의 새와 가축과 온 땅과 땅에 기는 모든 것을 다스리게 하자.' 이에 엘로힘이 자기 형상(bə-ṣalmô) 곧 엘로힘의 형상(bə-ṣelem ʾĕlōhîm)대로 사람(ʾāḏām)을 창조하시되 남자와 여자를 창조하시고 엘로힘이 그들에게 복을 주셨다."* (창세기 1:26–28)
 
-The Genesis 1 account does not name Adam and Eve specifically. The "ʾāḏām" of Genesis 1:26–27 is the generic species term, referring to the broader human-creation program rather than to specific individuals. The framework's reading is that Genesis 1 covers the full seven-team program, with Adam and Eve being the specific Israel-team contribution that the Genesis 2 narrative will detail.
+코퍼스는 창세기 1:26–28을 일곱 엘로힘 창조자 팀 모두가 사자자리 시대 전반에 걸쳐 수행한 보다 광범위한 인류 창조 프로그램(코퍼스의 세차-시대 독해상 창세기 1장 시퀀스의 여섯째 *yom*, [창세기](../genesis/) 항목에서 발전됨)의 **요약 설명**으로 읽는다. 복수형 자기-호칭(*naʿaśeh*, "우리가 만들자"; *bə-ṣalmēnû*, "우리의 형상을 따라")은 엘로힘 문명의 복수적 지칭으로, *bə-ṣelem ʾĕlōhîm*("엘로힘의 형상대로")은 인간이 그들의 엘로힘 창조자들과 상당한 유전적·구조적 대응을 공유한다는 실질적 생물학적 독해로, *zakhar u-nəqēvâ*("남자와 여자")는 일곱 팀 모두의 작업이 산출한 이항 창조 패턴으로 읽힌다.
 
-### Genesis 2:4–25: the Eden synthesis narrative
+창세기 1장 설명은 아담과 하와를 특정하여 명명하지 않는다. 창세기 1:26–27의 "ʾāḏām"은 특정 개인이 아니라 보다 광범위한 인류 창조 프로그램을 가리키는 일반적 종 용어이다. 프레임워크의 독해는 창세기 1장이 전체 일곱 팀 프로그램을 다루며, 아담과 하와가 창세기 2장 서사가 상술할 특정 이스라엘 팀의 기여라는 것이다.
 
-Genesis 2:4–25 records the specific creation of Adam and Eve in the Eden installation:
+### 창세기 2:4–25: 에덴 합성 서사
 
-> *"In the day that Yahweh Elohim made the earth and the heavens, when no plant of the field was yet in the earth and no herb of the field had yet sprung up... then Yahweh Elohim formed the man (ha-ʾāḏām) of dust from the ground (ʿāp̄ār min hā-ʾădāmâ), and breathed into his nostrils the breath of life (nišmaṯ ḥayyîm); and the man became a living being (nepeš ḥayyâ). And Yahweh Elohim planted a garden in Eden, in the east; and there he put the man whom he had formed."* (Genesis 2:4–8)
+{% library(book="genesis-woh", chapter=2, verse=7) %}
+야훼 엘로힘이 땅의 흙으로 사람을 지으시고 생명의 호흡을 그 코에 불어넣으시니, 그 사람이 생령이 되었다.
+{% end %}
 
-The narrative continues with the placement of the trees of the garden (the Tree of Life and the Tree of the Knowledge of Good and Evil), the rivers of Eden, the prohibition against eating from the Tree of Knowledge, the naming of the animals, and the formation of Eve:
+창세기 2:4–25는 에덴 시설에서의 아담과 하와의 특정 창조를 기록한다.
 
-> *"Then Yahweh Elohim said, 'It is not good that the man should be alone; I will make him a helper fit for him.'... So Yahweh Elohim caused a deep sleep to fall upon the man, and while he slept took one of his ribs (mi-ṣalʿōṯāyw) and closed up its place with flesh; and the rib (ha-ṣēlāʿ) which Yahweh Elohim had taken from the man he made into a woman (ʾiššâ) and brought her to the man."* (Genesis 2:18, 21–22)
+> *"야훼 엘로힘이 땅과 하늘을 만드시던 날에, 들에는 아직 초목이 없었고 들의 채소도 아직 나지 아니하였으니... 그때 야훼 엘로힘이 땅의 흙(ʿāp̄ār min hā-ʾădāmâ)으로 사람(ha-ʾāḏām)을 지으시고 생명의 호흡(nišmaṯ ḥayyîm)을 그 코에 불어넣으시니, 사람이 생령(nepeš ḥayyâ)이 되니라. 야훼 엘로힘이 동방의 에덴에 동산을 창설하시고 그 지으신 사람을 거기 두시니라."* (창세기 2:4–8)
 
-The chapter concludes with the man's recognition of the woman as *"bone of my bones, and flesh of my flesh"* and the etiological observation that *"a man leaves his father and his mother and cleaves to his wife, and they become one flesh."* The chapter's final note — *"and the man and his wife were both naked, and were not ashamed"* — sets up the subsequent Genesis 3 narrative.
+서사는 동산의 나무들(생명나무와 선악을 알게 하는 나무)의 배치, 에덴의 강들, 지식의 나무 열매를 먹는 것에 대한 금지, 동물의 명명, 그리고 하와의 형성으로 이어진다.
 
-The corpus reads Genesis 2:4–25 as the **specific narrative** of the Israel team's Eden synthesis, with Adam and Eve as the named first humans of the team's specific work. Several specific features warrant treatment.
+> *"야훼 엘로힘이 말씀하셨다. '사람이 혼자 사는 것이 좋지 아니하니 내가 그를 위하여 돕는 배필을 지으리라.'... 이에 야훼 엘로힘이 사람을 깊이 잠들게 하시니 잠들매 그가 그 갈빗대 하나(mi-ṣalʿōṯāyw)를 취하고 살로 대신 채우시고, 야훼 엘로힘이 사람에게서 취하신 그 갈빗대(ha-ṣēlāʿ)로 여자(ʾiššâ)를 만드시고 그를 사람에게로 이끌어 오셨다."* (창세기 2:18, 21–22)
 
-The "dust of the ground" language of Genesis 2:7 is read as a stylized account of biological synthesis using terrestrial substrate. The Eloha-side biological work was conducted with terrestrial materials providing the molecular building blocks and Elohim genetic material providing the design template. The "breath of life" (*nišmaṯ ḥayyîm*) breathed into the synthesized human's nostrils is read as the activation of the synthesized organism — the moment of biological initiation that completed the synthesis process.
+이 장은 사람이 여자를 *"내 뼈 중의 뼈요 살 중의 살이라"*고 인지하는 것과, *"남자가 부모를 떠나 그의 아내와 합하여 둘이 한 몸을 이룰지로다"*라는 원인론적 관찰로 마무리된다. 이 장의 마지막 진술 — *"사람과 그의 아내 두 사람이 벌거벗었으나 부끄러워하지 아니하니라"* — 은 후속 창세기 3장 서사를 설정한다.
 
-The Hebrew word translated "rib" in Genesis 2:21–22 (*ṣēlāʿ*) carries broader meaning than the English "rib" suggests — *ṣēlāʿ* can mean "side," "panel," or "structural support" in other Hebrew Bible contexts. The corpus reads the Genesis 2:21–22 account as a stylized description of the biological synthesis of Eve from cells or genetic material taken from Adam, with the *ṣēlāʿ* language preserving an indirect reference to the cellular-biological source rather than a literal anatomical rib. Eve's biological foundation in Adam's cells provides her substantial genetic-biological compatibility with Adam, supporting the immediate fertility of their subsequent reproductive partnership.
+코퍼스는 창세기 2:4–25를 이스라엘 팀의 에덴 합성에 대한 **특정 서사**로, 아담과 하와를 그 팀의 특정 작업의 명명된 최초 인간으로 읽는다. 몇 가지 특정 특징이 다룸을 요한다.
 
-The "deep sleep" (*tardēmâ*) Yahweh causes to fall upon Adam during Eve's formation is read as the operational state during which the cellular extraction and subsequent synthesis was conducted — a medical-anesthetic state appropriate to the surgical nature of the procedure.
+창세기 2:7의 "땅의 흙" 언어는 지구상의 기질을 사용한 생물학적 합성에 대한 양식화된 설명으로 읽힌다.{{ footnote(id="2") }} 엘로힘 측 생물학적 작업은 지구상의 물질이 분자 구성 요소를 제공하고 엘로힘 유전 물질이 설계 주형을 제공하는 가운데 수행되었다. 합성된 인간의 코에 불어넣어진 "생명의 호흡"(*nišmaṯ ḥayyîm*)은 합성된 유기체의 활성화 — 합성 과정을 완료한 생물학적 개시의 순간 — 로 읽힌다.
 
-### The Genesis 1 / Genesis 2 textual question
+창세기 2:21–22에서 "갈빗대"로 번역된 히브리어 단어(*ṣēlāʿ*)는 영어 "rib"이 시사하는 것보다 넓은 의미를 지닌다 — *ṣēlāʿ*은 다른 히브리어 성경 맥락에서 "옆구리", "판", 또는 "구조적 지지물"을 뜻할 수 있다. 코퍼스는 창세기 2:21–22 설명을 아담에게서 취한 세포 또는 유전 물질로부터 하와를 생물학적으로 합성한 것에 대한 양식화된 묘사로 읽으며, *ṣēlāʿ* 언어가 문자적 해부학적 갈빗대가 아니라 세포-생물학적 원천에 대한 간접적 지칭을 보존하는 것으로 본다. 아담의 세포에 하와가 생물학적으로 토대를 두고 있다는 점은 그에게 아담과의 상당한 유전적-생물학적 적합성을 제공하며, 그들의 후속 생식 동반 관계의 즉각적인 가임성을 뒷받침한다.
 
-The relationship between the Genesis 1 summary account (1:26–28) and the Genesis 2 specific narrative (2:4–25) is one of the most extensively discussed exegetical questions in biblical scholarship. The principal positions:
+하와의 형성 동안 야훼가 아담에게 임하게 한 "깊은 잠"(*tardēmâ*)은 세포 추출 및 후속 합성이 수행된 운영적 상태 — 시술의 외과적 성격에 적합한 의료적 마취 상태 — 로 읽힌다.
 
-**The traditional harmonization** — the rabbinic and patristic interpretive tradition treats the two accounts as complementary descriptions of the same creation event, with Genesis 1 providing the cosmic-summary frame and Genesis 2 providing the detailed narrative of the specific human-creation portion. This is the traditional Jewish and Christian reading.
+### 창세기 1장 / 창세기 2장 본문 문제
 
-**The documentary hypothesis** — the historical-critical scholarly position (developed by Wellhausen and successors across the late 19th and 20th centuries) treats the two accounts as compositions from distinct source documents (the Priestly source for Genesis 1 and the Yahwist source for Genesis 2) that have been juxtaposed by the Pentateuch's redactor without harmonization. The two accounts are recognized as genuinely distinct in vocabulary, theological emphasis, and creation sequence (Genesis 1 has plants → animals → humans; Genesis 2 has Adam → plants → animals → Eve), with the redactor leaving the discrepancies in the final form rather than smoothing them.
+창세기 1장 요약 설명(1:26–28)과 창세기 2장 특정 서사(2:4–25) 사이의 관계는 성서학에서 가장 광범위하게 논의된 주석적 문제 중 하나이다. 주된 입장들은 다음과 같다.
 
-**The corpus's reading** — the framework reads Genesis 1 as the summary account of the broader seven-team creation program (the seven *yamim* as precessional ages, with the sixth *yom* covering the human-creation work of all seven teams across the Age of Leo) and Genesis 2 as the detailed narrative of one specific team's work — the Israel team's Eden installation. The two accounts are thus genuinely distinct in scope (Genesis 1 covers the full program; Genesis 2 covers one team's portion of it) but complementary in their treatment of the same broader operational reality. This reading partially aligns with the documentary hypothesis (recognizing that the two accounts are textually and substantively distinct) while differing in interpretation (the corpus reads them as distinct in *scope* rather than as parallel-and-contradictory accounts of the same event).
+**전통적 조화** — 랍비 및 교부 해석 전통은 두 설명을 동일한 창조 사건에 대한 상보적 묘사로 다루며, 창세기 1장이 우주적-요약 틀을 제공하고 창세기 2장이 특정 인류 창조 부분의 상세 서사를 제공하는 것으로 본다. 이는 전통적 유대교 및 기독교 독해이다.
 
-The corpus's reading has the methodological advantage of explaining why both accounts are preserved together in the final Genesis text: they are not contradictory but covering different scopes of the same broader operational reality, with the redactor preserving both because both contain accurate information that the other does not.
+**문서가설** — 역사-비평적 학술 입장(19세기 후반과 20세기에 걸쳐 벨하우젠과 그 후계자들이 발전시킴)은 두 설명을 구별되는 자료 문서(창세기 1장은 제사장계 자료, 창세기 2장은 야훼계 자료)로부터의 구성물로 다루며, 이것들이 오경 편집자에 의해 조화 없이 병치된 것으로 본다.{{ cite(id="skinner-genesis-icc", text="[3]", title="스키너, *A Critical and Exegetical Commentary on Genesis* (ICC, 1910)") }}{{ cite(id="von-rad-genesis", text="[4]", title="폰 라트, *Genesis: A Commentary* (1961)") }}{{ cite(id="westermann-genesis-1-11", text="[5]", title="베스터만, *Genesis 1–11: A Continental Commentary* (1994)") }}{{ cite(id="sarna-genesis-jps", text="[6]", title="사르나, *Genesis: The JPS Torah Commentary* (1989)") }} 두 설명은 어휘, 신학적 강조, 창조 순서(창세기 1장은 식물 → 동물 → 인간; 창세기 2장은 아담 → 식물 → 동물 → 하와)에서 진정으로 구별되는 것으로 인지되며, 편집자는 그 불일치를 매끄럽게 다듬기보다는 최종 형태에 남겨두었다.
 
-### Genesis 3: the disclosure and expulsion
+**코퍼스의 독해** — 프레임워크는 창세기 1장을 보다 광범위한 일곱 팀 창조 프로그램의 요약 설명(세차 시대로서의 일곱 *yamim*, 사자자리 시대 전반에 걸친 일곱 팀 모두의 인류 창조 작업을 다루는 여섯째 *yom*)으로, 창세기 2장을 한 특정 팀의 작업 — 이스라엘 팀의 에덴 시설 — 에 대한 상세 서사로 읽는다.{{ footnote(id="1") }} 따라서 두 설명은 범위에서 진정으로 구별되지만(창세기 1장은 전체 프로그램을 다루고, 창세기 2장은 한 팀의 부분을 다룬다) 동일한 보다 광범위한 운영적 실재를 다룸에 있어 상보적이다. 이 독해는 문서가설과 부분적으로 합치하면서(두 설명이 본문상·실질상 구별된다는 것을 인지하면서) 해석에서 차이가 있다(코퍼스는 이것들을 동일한 사건의 병행적이면서 모순적인 설명이 아니라 *범위*에서 구별되는 것으로 읽는다).
 
-Genesis 3 narrates the Serpent's intervention, the eating from the Tree of Knowledge, and the expulsion from the garden — treated extensively in the [Serpent](../serpent/), [Lucifer](../lucifer/), and [Eden](../eden/) entries. For the Adam-and-Eve biographical arc, the relevant content includes:
+코퍼스의 독해는 두 설명이 최종 창세기 본문에 함께 보존된 이유를 설명한다는 방법론적 이점을 가진다. 즉 그것들은 모순적인 것이 아니라 동일한 보다 광범위한 운영적 실재의 서로 다른 범위를 다루는 것이며, 편집자는 둘 다 다른 한쪽이 담지 않은 정확한 정보를 담고 있기 때문에 둘 다 보존한 것이다.
 
-- The Serpent's address to Eve specifically, the dialogue about the prohibition, Eve's eating from the tree, Eve's giving the fruit to Adam, Adam's eating
-- The post-eating recognition of nakedness and the response of shame
-- Yahweh's investigation, with Adam's deflection of responsibility to Eve and Eve's deflection of responsibility to the Serpent
-- The pronouncement of consequences on the Serpent, on Eve (pain in childbirth, subordination to Adam), and on Adam (toil to extract food from the ground)
-- The expulsion from the garden, with the cherubim and the flaming sword stationed at the entrance to prevent re-access to the Tree of Life
-- The provision of "coats of skins" (*koṯnoṯ ʿôr*) for Adam and Eve before their expulsion
+### 창세기 3장: 폭로와 추방
 
-The corpus reads these elements as operational realities preserved in stylized narrative form. The detailed treatment lives in the Serpent and Eden entries; for the Adam-and-Eve biographical arc, the principal point is that Adam and Eve received the Lucifer-faction disclosure together, were judged together by Yahweh, and were expelled together from the controlled environment.
+창세기 3장은 뱀의 개입, 지식의 나무 열매를 먹은 것, 그리고 동산에서의 추방을 서술하며 — [뱀](../serpent/), [루시퍼](../lucifer/), [에덴](../eden/) 항목에서 광범위하게 다루어진다. 아담과 하와의 전기적 궤적을 위해 관련 내용에는 다음이 포함된다.
 
-The Raëlian source material is explicit that the disclosure was offered to both humans, the affection of the disclosing creators was for both, and the consequences of the awakening fell equally on both. The misogynistic interpretive tradition that has read Eve as uniquely culpable is a later development, not the text's own framing. The corpus rejects the conventional Christian theological reading that places primary responsibility on Eve and treats Adam's eating as a secondary consequence.
+- 하와를 특정하여 향한 뱀의 말걸기, 금지에 관한 대화, 하와가 나무 열매를 먹음, 하와가 아담에게 열매를 줌, 아담이 먹음
+- 먹은 후의 벌거벗음의 인지와 부끄러움의 반응
+- 야훼의 조사, 그 가운데 아담이 책임을 하와에게로, 하와가 책임을 뱀에게로 전가함
+- 뱀에 대한, 하와에 대한(해산의 고통, 아담에 대한 종속), 그리고 아담에 대한(땅에서 먹을 것을 얻기 위한 수고) 결과의 선포
+- 생명나무로의 재접근을 막기 위해 입구에 배치된 그룹과 화염검을 동반한 동산으로부터의 추방
+- 추방 전 아담과 하와를 위한 "가죽옷"(*koṯnoṯ ʿôr*)의 제공
 
-### Genesis 4–5: the post-Eden generations
+코퍼스는 이 요소들을 양식화된 서사 형태로 보존된 운영적 실재로 읽는다. 상세한 다룸은 뱀 및 에덴 항목에 머문다. 아담과 하와의 전기적 궤적을 위한 주된 요점은 아담과 하와가 루시퍼 분파의 폭로를 함께 받았고, 야훼에게 함께 심판받았으며, 통제된 환경에서 함께 추방되었다는 것이다.
 
-Genesis 4 narrates the birth of Cain and Abel to Adam and Eve, the conflict between the brothers culminating in Cain's murder of Abel, the curse on Cain, and the subsequent genealogical material on Cain's descendants (the cultural-founders genealogy: Jabal, Jubal, Tubal-Cain). Genesis 4:25 records the birth of Seth as Eve's third named son: *"And Adam knew his wife again, and she bore a son and called his name Seth (Šēṯ), for she said, 'Elohim has appointed (šāṯ) for me another offspring instead of Abel, for Cain killed him.'"*
+라엘 자료는 폭로가 두 인간 모두에게 제공되었고, 폭로하는 창조자들의 애정이 두 사람 모두를 향했으며, 각성의 결과가 두 사람 모두에게 동등하게 떨어졌음을 명시적으로 밝힌다.{{ footnote(id="4") }} 하와를 유일하게 책임 있는 자로 읽어 온 여성혐오적 해석 전통은 본문 자체의 틀이 아니라 후대의 발전이다. 코퍼스는 하와에게 일차적 책임을 두고 아담이 먹은 것을 부차적 결과로 다루는 통상적인 기독교 신학적 독해를 거부한다.
 
-Genesis 5 records the patriarchal genealogy from Adam through Seth's line to Noah, with specific recorded ages for each patriarch. Adam's recorded life is stated at 5:5: *"Thus all the days that Adam lived were nine hundred and thirty years; and he died."* Eve's death is not separately recorded in the Hebrew Bible.
+### 창세기 4–5장: 에덴 이후의 세대들
 
-The corpus reads the Genesis 4–5 material as historical-genealogical record. The principal elements:
+창세기 4장은 아담과 하와에게서 가인과 아벨이 태어남, 형제 간 갈등이 가인의 아벨 살해로 절정에 이름, 가인에 대한 저주, 그리고 가인 자손에 대한 후속 족보 자료(문화-창시자 족보: 야발, 유발, 두발가인)를 서술한다. 창세기 4:25는 하와의 세 번째로 명명된 아들로서 셋의 출생을 기록한다. *"아담이 다시 자기 아내와 동침하매 그가 아들을 낳아 그의 이름을 셋(Šēṯ)이라 하였으니 이는 '하나님이 가인이 죽인 아벨 대신에 다른 씨를 내게 주셨다(šāṯ)' 함이며."*
 
-- Cain and Abel are read as Adam and Eve's first two named sons in the ordinary genealogical sense — *not* as different-lineage products as the Biglino "Cain-of-the-serpent-lineage" reading proposes (treated more fully in the [Serpent](../serpent/) entry's modern-reinterpretations section). The corpus rejects the bloodline-purification reading.
-- The Cain-Abel conflict is read as a specific interpersonal conflict over offerings, with the source material adding context that the exiled creators (the Lucifer faction) were encouraging the humans to bring offerings as evidence to the home-world council that the humans were well-behaved and grateful. Yahweh's preference for Abel's animal offering over Cain's agricultural offering produced the resentment that led to the murder.
-- The cultural-founders genealogy of Cain's line (Genesis 4:17–22) is read as the developmental record of the early antediluvian Eden civilization's specific cultural-technological accomplishments: city-building (Cain's city), pastoral nomadism (Jabal), music (Jubal), and metallurgy (Tubal-Cain).
-- Seth is read as Adam and Eve's third named son, born after Abel's murder, and the founder of the alternative genealogical line through which the patriarchal succession (recorded in Genesis 5) would proceed to Noah.
-- Adam's recorded 930 years is read in connection with the broader patriarchal-longevity question (treated more fully in the [Antediluvian](../antediluvian/) and [Tree of Life](../tree-of-life/) entries). The corpus's reading is that Adam's longevity was a specific consequence of the Lucifer faction's continuing post-Eden support, with the longevity treatment provided to specific Eden-lineage figures across the antediluvian period.
+창세기 5장은 아담으로부터 셋의 계통을 거쳐 노아에 이르는 족장 족보를 기록하며, 각 족장의 특정 기록된 나이를 담는다. 아담의 기록된 삶은 5:5에 진술된다. *"그가 구백삼십 세를 살고 죽었더라."* 하와의 죽음은 히브리어 성경에 별도로 기록되지 않는다.
 
-The framework's reading does not develop the question of Eve's death at length. The Hebrew Bible's silence on this point is consistent with several possible readings: that Eve predeceased Adam without specific record, that Eve was taken up at some point during the antediluvian period (paralleling the later Enoch case), or that Eve's death was simply not recorded in the Hebrew tradition. The corpus does not commit to a specific reading on this point.
+코퍼스는 창세기 4–5장 자료를 역사적-계보적 기록으로 읽는다. 주된 요소들은 다음과 같다.
 
-### Other Hebrew Bible references
+- 가인과 아벨은 비글리노의 "뱀-계통의 가인" 독해가 제안하는 것처럼 다른 계통의 산물이 *아니라* 통상적인 계보적 의미에서 아담과 하와의 처음 두 명명된 아들로 읽힌다([뱀](../serpent/) 항목의 근대-재해석 부분에서 보다 충실하게 다루어진다). 코퍼스는 혈통-정화 독해를 거부한다.
+- 가인-아벨 갈등은 제물을 둘러싼 특정 대인 갈등으로 읽히며, 유배된 창조자들(루시퍼 분파)이 인간들이 잘 처신하고 감사하고 있다는 증거를 모행성 의회에 제시하기 위해 제물을 가져오도록 인간들을 격려하고 있었다는 맥락을 자료가 더한다. 가인의 농산물 제물보다 아벨의 동물 제물에 대한 야훼의 선호가 살해로 이어진 원한을 낳았다.
+- 가인 계통의 문화-창시자 족보(창세기 4:17–22)는 초기 대홍수 이전 에덴 문명의 특정 문화-기술적 성취에 대한 발전 기록으로 읽힌다. 즉 도시 건설(가인의 도시), 목축 유목(야발), 음악(유발), 야금술(두발가인).
+- 셋은 아벨의 살해 이후에 태어난 아담과 하와의 세 번째 명명된 아들로, 그리고 (창세기 5장에 기록된) 족장적 계승이 노아로 진행될 대안적 계보 계통의 창시자로 읽힌다.
+- 아담의 기록된 930년은 보다 광범위한 족장-장수 문제와 연결하여 읽힌다([대홍수 이전 시대](../antediluvian/) 및 [생명나무](../tree-of-life/) 항목에서 보다 충실하게 다루어진다). 코퍼스의 독해는 아담의 장수가 루시퍼 분파의 지속적인 에덴 이후 지원의 특정 결과였으며, 그 장수 처치가 대홍수 이전 시기 전반에 걸쳐 특정 에덴 계통 인물들에게 제공되었다는 것이다.
 
-Adam appears by name in several other Hebrew Bible passages:
+프레임워크의 독해는 하와의 죽음 문제를 길게 발전시키지 않는다. 이 점에 대한 히브리어 성경의 침묵은 몇 가지 가능한 독해와 합치한다. 즉 하와가 특정 기록 없이 아담보다 먼저 죽었다는 것, 하와가 대홍수 이전 시기 중 어느 시점에 들려 올려졌다는 것(후의 에녹 경우와 병행), 또는 하와의 죽음이 단지 히브리 전통에 기록되지 않았다는 것. 코퍼스는 이 점에 대해 특정 독해에 헌신하지 않는다.
 
-- **1 Chronicles 1:1**: *"Adam, Seth, Enosh..."* — the opening of the Chronicler's genealogical compendium, naming Adam as the first figure.
-- **Hosea 6:7**: *"Like Adam they transgressed the covenant"* — the prophet's reference to the Adam-and-Eve disclosure in connection with Israel's covenant violations.
-- **Job 31:33**: *"if I have concealed my transgressions like Adam"* — Job's reference using Adam as the type of failed concealment.
+### 그 밖의 히브리어 성경 언급
 
-Eve does not appear by name in the Hebrew Bible outside of Genesis. The Hebrew tradition's treatment of Eve as a named figure is therefore textually limited to the Genesis narrative.
+아담은 그 밖의 여러 히브리어 성경 구절에서 이름으로 등장한다.
 
-### New Testament references
+- **역대상 1:1**: *"아담, 셋, 에노스..."* — 아담을 첫 번째 인물로 명명하는, 역대기 기자의 족보 모음의 서두.
+- **호세아 6:7**: *"그들은 아담처럼 언약을 어겼다"* — 이스라엘의 언약 위반과 연결하여 아담-하와 폭로를 언급하는 예언자의 지칭.
+- **욥기 31:33**: *"내가 만일 아담처럼 내 허물을 숨겼다면"* — 실패한 은폐의 전형으로 아담을 사용하는 욥의 지칭.
 
-The New Testament makes substantial use of Adam and Eve in theological argumentation. The principal passages:
+하와는 창세기 밖의 히브리어 성경에서 이름으로 등장하지 않는다. 따라서 명명된 인물로서의 하와에 대한 히브리 전통의 다룸은 본문상 창세기 서사에 국한된다.
 
-- **Romans 5:12–21**: Paul's typological argument that Adam introduced sin and death into the world, with Christ as the second Adam who reverses Adam's effects. The passage is foundational for the Augustinian original-sin doctrine.
-- **1 Corinthians 15:21–22, 45–49**: Paul's parallel typological argument: *"For as in Adam all die, so also in Christ shall all be made alive"* (15:22), and *"The first Adam became a living being, the last Adam became a life-giving spirit"* (15:45). The "second Adam" Christology is developed here.
-- **1 Timothy 2:13–14**: *"Adam was formed first, then Eve; and Adam was not deceived, but the woman was deceived and became a transgressor."* This passage is foundational for the misogynistic interpretive tradition that places primary responsibility on Eve.
-- **2 Corinthians 11:3**: Paul's reference to *"the serpent's deception of Eve."*
-- **Jude 14**: Reference to *"Enoch, the seventh from Adam"* — using Adam as the genealogical anchor.
+### 신약 언급
 
-The corpus reads the Pauline Adam-typology as a specific theological-rhetorical use of the Adam figure rather than as a direct historical reference. The Adam-Christ typology is theologically productive within the New Testament's argumentative framework but is not, on the framework's reading, a direct historical claim about the Adam figure's actual operational role. The 1 Timothy 2:13–14 passage's specific "woman was deceived" framing is the textual basis of the subsequent misogynistic tradition that the framework rejects on the grounds the Raëlian source material specifies (the disclosure was offered to both humans equally).
+신약은 신학적 논증에서 아담과 하와를 실질적으로 사용한다. 주된 구절들은 다음과 같다.
 
-## Biographical arc
+- **로마서 5:12–21**: 아담이 죄와 죽음을 세상에 들여왔고, 그리스도가 아담의 영향을 역전시키는 둘째 아담이라는 바울의 유형론적 논증. 이 구절은 아우구스티누스의 원죄 교리의 토대이다.
+- **고린도전서 15:21–22, 45–49**: 바울의 병행 유형론적 논증. *"아담 안에서 모든 사람이 죽은 것 같이 그리스도 안에서 모든 사람이 삶을 얻으리라"*(15:22), 그리고 *"첫 사람 아담은 생령이 되었다 함과 같이 마지막 아담은 살려 주는 영이 되었나니"*(15:45). "둘째 아담" 기독론이 여기서 발전된다.
+- **디모데전서 2:13–14**: *"아담이 먼저 지음을 받고 하와가 그 후며, 아담이 속은 것이 아니고 여자가 속아 죄에 빠졌음이라."* 이 구절은 하와에게 일차적 책임을 두는 여성혐오적 해석 전통의 토대이다.
+- **고린도후서 11:3**: *"뱀이 하와를 속였다"*는 것에 대한 바울의 언급.
+- **유다서 14**: *"아담의 칠대 손 에녹"*에 대한 언급 — 아담을 계보적 정박점으로 사용한다.
 
-Adam and Eve's biographical arc, as the framework reads it, spans from their de novo synthesis in the late Age of Leo through their continuing presence on the Planet of the Eternals in the contemporary period. Given the joint character of their narrative, the arc is structured with parallel and shared sub-sections.
+코퍼스는 바울의 아담-유형론을 직접적인 역사적 지칭이 아니라 아담 인물의 특정 신학적-수사적 사용으로 읽는다. 아담-그리스도 유형론은 신약의 논증적 틀 안에서 신학적으로 생산적이지만, 프레임워크의 독해상 아담 인물의 실제 운영적 역할에 대한 직접적인 역사적 주장은 아니다. 디모데전서 2:13–14 구절의 특정 "여자가 속았다"는 틀은 프레임워크가 라엘 자료가 명시하는 근거(폭로가 두 인간 모두에게 동등하게 제공되었다는 것)에서 거부하는 후속 여성혐오적 전통의 본문적 근거이다.
 
-### Pre-creation: the Israel team's preparatory work
+## 전기적 궤적
 
-The Israel team's preparatory work in the Eden region preceded Adam and Eve's specific synthesis by some period, with the team establishing its installation, preparing the controlled environment, conducting various preliminary biological work (the plants and animals of Genesis 2's narrative), and developing the specific protocols for human synthesis. The detailed treatment of this preparatory period lives in the [Eden](../eden/) entry; for the Adam-and-Eve biographical arc, the principal point is that the team was prepared to conduct human synthesis when Adam and Eve were specifically created.
+프레임워크가 읽는 아담과 하와의 전기적 궤적은 사자자리 시대 후반의 신생 합성으로부터 동시대 시기 영원자들의 행성에서의 지속적 현존에 이른다. 그들 서사의 결합적 성격을 감안하여, 이 궤적은 병행적이고 공유된 하위 부분들로 구조화된다.
 
-The seven creator teams' work across the late Age of Leo produced parallel human-creation projects at distinct sites across the antediluvian supercontinent. The Israel team's specific work at the Eden site produced Adam and Eve as the first humans of the lineage whose subsequent history would be preserved in the Hebrew Bible. The other six teams produced parallel lineages whose histories survive in fragmentary form across other ancient cultural traditions.
+### 창조 이전: 이스라엘 팀의 준비 작업
 
-### Synthesis: Adam first, then Eve
+에덴 지역에서의 이스라엘 팀의 준비 작업은 아담과 하와의 특정 합성에 어느 정도 시기 앞서며, 팀은 시설을 구축하고, 통제된 환경을 준비하고, 다양한 예비 생물학적 작업(창세기 2장 서사의 식물과 동물)을 수행하고, 인간 합성을 위한 특정 프로토콜을 발전시켰다. 이 준비 시기의 상세한 다룸은 [에덴](../eden/) 항목에 머문다. 아담과 하와의 전기적 궤적을 위한 주된 요점은 아담과 하와가 특정하여 창조되었을 때 팀이 인간 합성을 수행할 준비가 되어 있었다는 것이다.
 
-Adam was synthesized first, on the corpus's reading. The Genesis 2:7 account — *"Yahweh Elohim formed the man of dust from the ground, and breathed into his nostrils the breath of life; and the man became a living being"* — is read as the operational record of the first synthesis. The biological process involved:
+사자자리 시대 후반 전반에 걸친 일곱 창조자 팀의 작업은 대홍수 이전 초대륙의 구별되는 부지들에서 병행하는 인류 창조 프로젝트를 산출했다. 에덴 부지에서의 이스라엘 팀의 특정 작업은 그 후속 역사가 히브리어 성경에 보존될 계통의 최초 인간으로 아담과 하와를 산출했다. 다른 여섯 팀은 그 역사가 다른 고대 문화 전통들에 걸쳐 단편적 형태로 살아남은 병행 계통들을 산출했다.
 
-- The use of terrestrial materials as molecular substrate for the synthesis
-- Elohim genetic material as the principal template, with the synthesized human carrying substantial genetic correspondence to his Eloha creators
-- The activation of the synthesized organism through what the Hebrew text calls the *nišmaṯ ḥayyîm* ("breath of life") — read by the corpus as the moment of biological initiation
-- The result: a functional adult human with substantial cognitive capacity, biological viability, and reproductive potential
+### 합성: 아담이 먼저, 그다음 하와
 
-Eve was synthesized subsequently, with her synthesis using cellular or genetic material from Adam as part of the source material. The Genesis 2:21–22 account — Adam's "deep sleep," the taking of the *ṣēlāʿ* ("rib" / "side" / "structural support"), the formation of the woman, the bringing of her to the man — is read as the operational record of this specific synthesis.
+코퍼스의 독해상 아담이 먼저 합성되었다. 창세기 2:7 설명 — *"야훼 엘로힘이 땅의 흙으로 사람을 지으시고 생명의 호흡을 그 코에 불어넣으시니 사람이 생령이 되었다"* — 은 최초 합성의 운영적 기록으로 읽힌다. 생물학적 과정에는 다음이 관여했다.
 
-The framework reads the deliberate Adam-first / Eve-from-Adam synthesis sequence as the Israel team's specific procedural choice rather than as the universal pattern of all seven teams' work. The Genesis 1 summary account explicitly records the binary creation pattern (*"male and female he created them"*) as simultaneous, suggesting that other teams may have synthesized male and female humans simultaneously. The Israel team's specific Adam-first sequence is one team's specific procedural choice within the broader project.
+- 합성을 위한 분자 기질로서의 지구상의 물질의 사용
+- 주된 주형으로서의 엘로힘 유전 물질, 그 결과 합성된 인간은 그의 엘로힘 창조자들과 상당한 유전적 대응을 지님
+- 히브리어 본문이 *nišmaṯ ḥayyîm*("생명의 호흡")이라 부르는 것 — 코퍼스에 의해 생물학적 개시의 순간으로 읽힌다 — 을 통한 합성된 유기체의 활성화
+- 그 결과: 상당한 인지 능력, 생물학적 생존력, 생식 잠재력을 가진 기능적 성인 인간
 
-The biological-genetic implications of Eve's formation from Adam's cellular material are substantial. Eve is, on the framework's reading, substantially genetically related to Adam — sharing more genetic material with him than would be the case if she had been independently synthesized. This near-identity provides the immediate fertility of their subsequent reproductive partnership and gives substantive content to Adam's Genesis 2:23 recognition: *"This at last is bone of my bones and flesh of my flesh."*
+하와는 이후에 합성되었으며, 그의 합성은 아담으로부터의 세포 또는 유전 물질을 원료의 일부로 사용했다. 창세기 2:21–22 설명 — 아담의 "깊은 잠", *ṣēlāʿ*("갈빗대" / "옆구리" / "구조적 지지물")를 취함, 여자의 형성, 그를 사람에게로 이끌어 옴 — 은 이 특정 합성의 운영적 기록으로 읽힌다.
 
-### Education and life in Eden
+프레임워크는 의도적인 아담-먼저 / 하와-아담으로부터 합성 순서를 일곱 팀 모두의 작업의 보편적 패턴이 아니라 이스라엘 팀의 특정 절차적 선택으로 읽는다. 창세기 1장 요약 설명은 이항 창조 패턴(*"남자와 여자를 창조하시고"*)을 동시적인 것으로 명시적으로 기록하며, 이는 다른 팀들이 남자와 여자 인간을 동시에 합성했을 수 있음을 시사한다. 이스라엘 팀의 특정 아담-먼저 순서는 보다 광범위한 프로젝트 안에서의 한 팀의 특정 절차적 선택이다.
 
-Adam and Eve's life in the Eden installation prior to the disclosure event was an extended period of education and observation by the Israel team. The principal features:
+아담의 세포 물질로부터의 하와의 형성이 가지는 생물학적-유전적 함의는 상당하다. 프레임워크의 독해상 하와는 아담과 실질적으로 유전적으로 관련되어 있다 — 독립적으로 합성되었을 경우보다 그와 더 많은 유전 물질을 공유한다. 이 근접 동일성은 그들의 후속 생식 동반 관계의 즉각적인 가임성을 제공하며, 아담의 창세기 2:23 인지 — *"이는 내 뼈 중의 뼈요 살 중의 살이라"* — 에 실질적 내용을 부여한다.
 
-**The educational program**. The Israel team's scientists conducted a substantial educational program with Adam and Eve, teaching them language, basic technological capacity, social-cultural patterns, and the broader cognitive-cultural infrastructure that constituted their developed humanity. The program was constrained by the home-world's containment policy — specific scientific and technological content was withheld, with the prohibition on the Tree of Knowledge being the formal expression of this withholding — but was substantial within those constraints.
+### 에덴에서의 교육과 삶
 
-**The naming of the animals**. Genesis 2:19–20 records Adam's naming of the animals — *"Whatever the man called every living creature, that was its name."* The corpus reads this as a specific educational exercise in which Adam developed the linguistic and conceptual apparatus through which he would understand his environment, with the naming conducted in the language the Israel team was teaching him (the language closely resembling ancient Hebrew, per the source material's specific claim treated in the [Hebrew](../hebrew/) entry).
+폭로 사건 이전 에덴 시설에서의 아담과 하와의 삶은 이스라엘 팀에 의한 교육과 관찰의 연장된 시기였다. 주된 특징들은 다음과 같다.
 
-**The relationship with the Israel team**. Adam and Eve developed substantial personal relationships with the Israel team's scientists across their pre-disclosure period in Eden. The corpus reads the relationship as a substantive teacher-student / parent-child dynamic, with the scientists invested in their human students' development. The future Lucifer faction's specific attachment to the humans developed across this period, providing the personal foundation for the dissenting position that would ultimately produce the disclosure.
+**교육 프로그램**. 이스라엘 팀의 과학자들은 아담과 하와에게 언어, 기본적 기술 역량, 사회-문화적 패턴, 그리고 그들의 발달된 인간성을 구성한 보다 광범위한 인지-문화적 인프라를 가르치며 실질적 교육 프로그램을 수행했다. 이 프로그램은 모행성의 봉쇄 정책에 의해 제약되었지만 — 특정 과학적·기술적 내용은 보류되었고, 지식의 나무에 대한 금지가 이 보류의 공식적 표현이었다 — 그 제약 안에서는 실질적이었다.
 
-**The pre-disclosure state**. Genesis 2:25 records the pre-disclosure state: *"And the man and his wife were both naked, and were not ashamed."* The framework reads this as the prelapsarian condition of the educational period — Adam and Eve operating within the controlled environment without the full self-awareness that the disclosure would produce, with their lack of shame reflecting the integrated relationship they had with their creators.
+**동물의 명명**. 창세기 2:19–20은 아담의 동물 명명을 기록한다 — *"아담이 각 생물을 부르는 것이 곧 그 이름이 되었더라."* 코퍼스는 이를 아담이 그의 환경을 이해할 언어적·개념적 장치를 발전시킨 특정 교육 연습으로 읽으며, 그 명명은 이스라엘 팀이 그에게 가르치고 있던 언어(자료의 특정 주장상 고대 히브리어와 밀접하게 닮은 언어, [히브리어](../hebrew/) 항목에서 다루어진다)로 수행되었다.
 
-### The Eden disclosure
+**이스라엘 팀과의 관계**. 아담과 하와는 에덴에서의 폭로 이전 시기 전반에 걸쳐 이스라엘 팀의 과학자들과 실질적 개인적 관계를 발전시켰다. 코퍼스는 그 관계를 실질적인 교사-학생 / 부모-자녀 역학으로 읽으며, 과학자들은 그들의 인간 학생들의 발달에 헌신했다. 미래의 루시퍼 분파의 인간들에 대한 특정 애착은 이 시기 전반에 걸쳐 발전했으며, 이는 궁극적으로 폭로를 산출할 반체제 입장의 개인적 토대를 제공했다.
 
-The Eden disclosure event is treated extensively in the [Serpent](../serpent/) and [Lucifer](../lucifer/) entries. For the Adam-and-Eve biographical arc, the principal points:
+**폭로 이전 상태**. 창세기 2:25는 폭로 이전 상태를 기록한다. *"사람과 그의 아내 두 사람이 벌거벗었으나 부끄러워하지 아니하니라."* 프레임워크는 이를 교육 시기의 타락 이전 조건으로 읽는다 — 아담과 하와는 폭로가 산출할 완전한 자기인식 없이 통제된 환경 안에서 작동하고 있었으며, 그들의 부끄러움 없음은 그들이 창조자들과 가진 통합된 관계를 반영한다.
 
-The disclosure was conducted by the Lucifer faction, with the Serpent's specific dialogue with Eve being the public articulation of the dissenting position. Eve was the first specifically addressed because of the dissenting faction's calculation about the most effective approach to the disclosure (the Genesis text does not specify why Eve specifically was approached; the corpus does not develop a definitive reading on this point). Eve received the disclosure, accepted it, and gave the relevant material to Adam, who also accepted it. The consequence was their acquisition of substantial scientific knowledge they had previously been denied — the *"knowing of good and evil"* of Genesis 3:5 and 3:22.
+### 에덴 폭로
 
-The post-disclosure recognition of nakedness is read by the corpus as the consequence of the new self-awareness the disclosure produced. With substantial scientific knowledge, Adam and Eve now understood themselves as biological beings in ways they had not previously, with the result that the bodily-biological dimensions of their existence became newly conscious.
+에덴 폭로 사건은 [뱀](../serpent/) 및 [루시퍼](../lucifer/) 항목에서 광범위하게 다루어진다. 아담과 하와의 전기적 궤적을 위한 주된 요점들은 다음과 같다.
 
-Yahweh's subsequent investigation, with Adam's deflection ("the woman whom you gave to be with me, she gave me fruit of the tree, and I ate") and Eve's deflection ("the serpent beguiled me, and I ate"), is read as Adam's and Eve's specific responses to the political crisis the disclosure had produced. The corpus does not read these deflections as morally damning — they are the responses of newly-awakened beings to a sudden political-existential crisis — but does register them as characteristic of the post-disclosure moment.
+폭로는 루시퍼 분파에 의해 수행되었으며, 하와와의 뱀의 특정 대화는 반체제 입장의 공적 표명이었다. 하와가 먼저 특정하여 말걸어진 것은 폭로에 대한 가장 효과적인 접근에 관한 반체제 분파의 계산 때문이었다(창세기 본문은 왜 하필 하와에게 접근했는지 명시하지 않으며, 코퍼스는 이 점에 대해 확정적 독해를 발전시키지 않는다). 하와는 폭로를 받고, 받아들이고, 관련 물질을 아담에게 주었으며, 아담도 그것을 받아들였다. 그 결과는 그들이 이전에 거부당했던 상당한 과학 지식의 획득 — 창세기 3:5 및 3:22의 *"선악을 앎"* — 이었다.
 
-### Expulsion and the post-Eden settlement
+폭로 이후의 벌거벗음의 인지는 폭로가 산출한 새로운 자기인식의 결과로 코퍼스에 의해 읽힌다. 상당한 과학 지식을 가지고서 아담과 하와는 이제 자신들을 이전에는 그러지 못했던 방식으로 생물학적 존재로 이해했으며, 그 결과 그들 존재의 신체적-생물학적 차원이 새로이 의식되었다.
 
-The expulsion from the garden is read by the corpus as the operational consequence of the home-world's political verdict. The "coats of skins" (*koṯnoṯ ʿôr*) that Yahweh provides for Adam and Eve before their expulsion (Genesis 3:21) are read as the basic material resources required for their survival outside the controlled environment — the minimum equipment for living independently in the broader Eden region.
+야훼의 후속 조사 — 아담의 전가("하나님이 주셔서 나와 함께 있게 하신 여자, 그가 그 나무 열매를 내게 주므로 내가 먹었나이다")와 하와의 전가("뱀이 나를 꾀므로 내가 먹었나이다") — 는 폭로가 산출한 정치적 위기에 대한 아담과 하와의 특정 반응으로 읽힌다. 코퍼스는 이 전가들을 도덕적으로 정죄받을 만한 것으로 읽지 않으며 — 그것들은 갑작스러운 정치-실존적 위기에 대한 새로이 각성한 존재들의 반응이다 — 다만 폭로 이후 순간의 특징적인 것으로 등록한다.
 
-The expulsion's specifics include:
+### 추방과 에덴 이후의 정착
 
-- The relocation outside the boundaries of the prepared Eden installation
-- The placement of the cherubim and the flaming sword (*lahaṭ ha-ḥereḇ ha-mithappeḵeṯ*, the "rotating flame-blade") at the entrance — read by the corpus as armed sentries with directed-energy weapons preventing re-access
-- The consequence of laboring "in the sweat of your face" (Genesis 3:19) for Adam and "in pain... bring forth children" (Genesis 3:16) for Eve — read by the corpus as the operational reality of life outside the controlled environment, with food production and reproduction now having to be managed without the supportive technology of the installation
+동산으로부터의 추방은 모행성의 정치적 평결의 운영적 결과로 코퍼스에 의해 읽힌다. 야훼가 추방 전 아담과 하와를 위해 제공하는 "가죽옷"(*koṯnoṯ ʿôr*)(창세기 3:21)은 통제된 환경 밖에서의 생존에 필요한 기본적 물질 자원 — 보다 광범위한 에덴 지역에서 독립적으로 살기 위한 최소 장비 — 으로 읽힌다.
 
-Adam and Eve's life in the post-Eden Eden region was the foundational period of the early antediluvian Eden civilization. The corpus reads their post-expulsion life as substantial — they continued to receive support from the exiled Lucifer faction, who remained on Earth as their continuing teachers, and they progressively developed the cultural and material infrastructure that their offspring would inherit.
+추방의 구체적 사항에는 다음이 포함된다.
 
-### First-generation children: Cain, Abel, Seth, and others
+- 준비된 에덴 시설의 경계 밖으로의 재배치
+- 입구에 그룹과 화염검(*lahaṭ ha-ḥereḇ ha-mithappeḵeṯ*, "회전하는 화염-칼날")의 배치 — 재접근을 막는 지향성 에너지 무기를 가진 무장 보초로 코퍼스에 의해 읽힌다
+- 아담에게는 "얼굴에 땀을 흘려야"(창세기 3:19) 하는, 하와에게는 "수고하고... 자식을 낳을 것"(창세기 3:16)이라는 결과 — 통제된 환경 밖에서의 삶의 운영적 실재로 코퍼스에 의해 읽히며, 이제 식량 생산과 생식이 시설의 지원 기술 없이 관리되어야 한다
 
-The Genesis 4 narrative records Cain and Abel as Adam and Eve's first two named sons, with Seth as their third named son following Abel's murder. Genesis 5:4 adds that Adam *"had other sons and daughters"* whose names are not recorded.
+에덴 이후의 에덴 지역에서의 아담과 하와의 삶은 초기 대홍수 이전 에덴 문명의 토대적 시기였다. 코퍼스는 그들의 추방 이후 삶을 실질적인 것으로 읽는다 — 그들은 지구에 남아 지속적인 교사로 머문 유배된 루시퍼 분파의 지원을 계속 받았으며, 그들의 자손이 물려받을 문화적·물질적 인프라를 점진적으로 발전시켰다.
 
-The Cain-Abel-Seth narrative is the framework's principal evidence for several substantive readings:
+### 1세대 자녀들: 가인, 아벨, 셋, 그리고 그 밖의 자녀들
 
-**Cain and Abel as ordinary genealogical sons**. Both are read as Adam and Eve's biological sons in the ordinary sense, with Cain's "lineage of the serpent" reading (developed by Biglino on the basis of Genesis 3:15's "I will put enmity between your seed and her seed") rejected by the corpus.
+창세기 4장 서사는 가인과 아벨을 아담과 하와의 처음 두 명명된 아들로, 셋을 아벨의 살해 이후 세 번째 명명된 아들로 기록한다. 창세기 5:4는 아담이 이름이 기록되지 않은 *"다른 아들들과 딸들을 낳았다"*고 덧붙인다.
 
-**The Cain-Abel conflict**. Read as a specific interpersonal conflict over offerings to Yahweh, with substantive operational context: the exiled Lucifer faction was encouraging the humans to bring offerings as evidence to the home-world council that the humans were well-behaved and grateful. Yahweh's preference for Abel's animal offering produced the resentment that led to Cain's murder of Abel. The conflict reflects the early generation's experience of the post-Eden political situation, in which the human offspring were caught between the alliance authority's expectations and the exiled faction's continuing involvement.
+가인-아벨-셋 서사는 몇 가지 실질적 독해를 위한 프레임워크의 주된 증거이다.
 
-**Seth as the lineage-continuing son**. The Sethite line of Genesis 5 is read as the principal genealogical line through which the Eden civilization's leadership would proceed to Noah. The Cainite line of Genesis 4:17–24 is read as the parallel genealogical line through which the cultural-technological development of the early antediluvian civilization would be conducted. Both lines are descended from Adam and Eve; both lines contributed to the Eden civilization's development.
+**통상적 계보적 아들로서의 가인과 아벨**. 둘 다 통상적 의미에서 아담과 하와의 생물학적 아들로 읽히며, 가인의 "뱀의 계통" 독해(창세기 3:15의 "내가 너로 여자와 원수가 되게 하고 네 후손도 여자의 후손과 원수가 되게 하리니"에 근거하여 비글리노가 발전시킴)는 코퍼스에 의해 거부된다.
 
-**The unnamed siblings**. Genesis 5:4's mention of "other sons and daughters" provides the framework's explanation for the post-Eden population's growth — the broader sibling population (whose names the Hebrew Bible does not record) constituted the broader founder population for the developing civilization, with Cain, Abel, and Seth being named because of their specific narrative significance rather than because they were the only children.
+**가인-아벨 갈등**. 야훼에 대한 제물을 둘러싼 특정 대인 갈등으로 읽히며, 실질적 운영적 맥락을 가진다. 즉 유배된 루시퍼 분파는 인간들이 잘 처신하고 감사하고 있다는 증거를 모행성 의회에 제시하기 위해 제물을 가져오도록 인간들을 격려하고 있었다. 아벨의 동물 제물에 대한 야훼의 선호가 가인의 아벨 살해로 이어진 원한을 낳았다. 이 갈등은 인간 자손이 동맹 권위의 기대와 유배된 분파의 지속적 관여 사이에 끼여 있던, 초기 세대의 에덴 이후 정치적 상황의 경험을 반영한다.
 
-### The longevity question and Adam's recorded 930 years
+**계통-지속 아들로서의 셋**. 창세기 5장의 셋 계통은 에덴 문명의 지도부가 노아로 진행될 주된 계보 계통으로 읽힌다. 창세기 4:17–24의 가인 계통은 초기 대홍수 이전 문명의 문화-기술적 발전이 수행될 병행 계보 계통으로 읽힌다. 두 계통 모두 아담과 하와의 후손이며, 두 계통 모두 에덴 문명의 발전에 기여했다.
 
-Adam's recorded life of 930 years (Genesis 5:5) is the framework's principal evidence for the patriarchal-longevity question, treated more fully in the [Antediluvian](../antediluvian/) and [Tree of Life](../tree-of-life/) entries. The corpus's reading:
+**이름이 밝혀지지 않은 형제자매들**. 창세기 5:4의 "다른 아들들과 딸들"에 대한 언급은 에덴 이후 인구 성장에 대한 프레임워크의 설명을 제공한다 — (히브리어 성경이 그 이름을 기록하지 않는) 보다 광범위한 형제자매 인구가 발전하는 문명을 위한 보다 광범위한 시조 인구를 구성했으며, 가인, 아벨, 셋이 명명된 것은 그들이 유일한 자녀였기 때문이 아니라 그들의 특정 서사적 의의 때문이다.
 
-The 930-year lifespan is treated as substantively accurate to the source material's claim that the antediluvian patriarchs received specific longevity treatment from the Lucifer faction's continuing post-Eden support. The longevity is not natural to the synthesized humans (the Genesis text indicates that the alliance's containment policy specifically restricted human lifespan to natural limits) but was a specific later intervention provided by the exiled Lucifer faction to Adam and other Eden-lineage patriarchs across the antediluvian period.
+### 장수 문제와 아담의 기록된 930년
 
-The longevity served substantive operational purposes: it provided continuity for the developing civilization's leadership across multiple ordinary generations, it preserved substantive personal-experiential memory of the Eden events across the long centuries, and it supported the Lucifer faction's broader project of educating the developing human civilization. The longevity was specifically granted to particular leadership figures rather than universally distributed across the broader human population, with the broader population maintaining ordinary human lifespans.
+아담의 기록된 930년의 삶(창세기 5:5)은 족장-장수 문제에 대한 프레임워크의 주된 증거이며, [대홍수 이전 시대](../antediluvian/) 및 [생명나무](../tree-of-life/) 항목에서 보다 충실하게 다루어진다. 코퍼스의 독해는 다음과 같다.
 
-Adam's death at 930 years is read as the eventual termination of his specific longevity treatment, with the cellular-biological infrastructure that supported the extended lifespan reaching its operational limit. The framework does not specify the technical details of Adam's actual death, beyond the recorded biblical fact.
+930년의 수명은 대홍수 이전 족장들이 루시퍼 분파의 지속적인 에덴 이후 지원으로부터 특정 장수 처치를 받았다는 자료의 주장에 실질적으로 정확한 것으로 다루어진다. 그 장수는 합성된 인간들에게 자연적인 것이 아니라(창세기 본문은 동맹의 봉쇄 정책이 인간 수명을 자연적 한계로 특정하게 제한했음을 시사한다) 유배된 루시퍼 분파가 대홍수 이전 시기 전반에 걸쳐 아담과 그 밖의 에덴 계통 족장들에게 제공한 특정 후대 개입이었다.
 
-Eve's recorded lifespan is not preserved in the Hebrew Bible. The corpus does not develop a definitive reading on this point; the most natural inference is that Eve received parallel longevity treatment but the specific record was not preserved, with various other inferences also possible.
+그 장수는 실질적 운영적 목적에 봉사했다. 즉 여러 통상적 세대에 걸쳐 발전하는 문명의 지도부에 연속성을 제공했고, 긴 세기에 걸쳐 에덴 사건에 대한 실질적 개인-경험적 기억을 보존했으며, 발전하는 인류 문명을 교육하려는 루시퍼 분파의 보다 광범위한 프로젝트를 뒷받침했다. 그 장수는 보다 광범위한 인류 인구 전반에 보편적으로 분배되기보다는 특정 지도부 인물들에게 특정하여 부여되었으며, 보다 광범위한 인구는 통상적 인간 수명을 유지했다.
 
-### Resurrection and current status
+아담의 930세 죽음은 그의 특정 장수 처치의 결국의 종료로 읽히며, 연장된 수명을 뒷받침한 세포-생물학적 인프라가 그 운영적 한계에 이른 것이다. 프레임워크는 기록된 성서적 사실 너머로 아담의 실제 죽음의 기술적 세부를 명시하지 않는다.
 
-The source material distinctively identifies both Adam and Eve as having been resurrected and currently living on the **Planet of the Eternals** — the second smaller planet in the alliance's home system, where the approximately nine thousand eternals (alliance officers and selected humans) live in conditions of practical immortality maintained by the alliance's cloning and memory-transfer technology.
+하와의 기록된 수명은 히브리어 성경에 보존되지 않는다. 코퍼스는 이 점에 대해 확정적 독해를 발전시키지 않는다. 가장 자연스러운 추론은 하와가 병행하는 장수 처치를 받았으나 그 특정 기록이 보존되지 않았다는 것이며, 다양한 다른 추론들도 가능하다.
 
-The resurrection mechanism, on the source material's account, involves:
+### 부활과 현재 상태
 
-- The preservation of cellular samples from each candidate during life
-- The construction of new bodies from the preserved cellular material at the appropriate moment
-- The transfer of preserved memory and personality from the original biological substrate to the new body
-- The result: a continuation of the original individual's existence in a new biological body, with full preservation of identity, memory, and personality
+자료는 아담과 하와 둘 모두를 부활하여 현재 **영원자들의 행성** — 동맹의 본국 항성계의 두 번째 더 작은 행성으로, 약 9천 명의 영원자(동맹 장교 및 선택된 인간)가 동맹의 복제 및 기억 전이 기술로 유지되는 실질적 불멸의 조건 속에서 사는 곳 — 에서 살고 있는 것으로 독특하게 동정한다.{{ footnote(id="6") }}{{ cite(id="extraterrestrials-took-me-to-their-planet", text="[1]", title="보릴롱(라엘), *Extra-Terrestrials Took Me to Their Planet* (1975) — 영원자들의 행성과 부활한 예언자들") }}
 
-The framework reads Adam's resurrection as related to his role as the first prophet — the first human recipient of direct alliance communication, and therefore one of the prophets currently resurrected on the Planet of the Eternals. Eve's resurrection is registered in the source material as well, though without the same specific role-justification; the framework reads Eve as resurrected alongside Adam as the matriarchal counterpart in the lineage.
+자료의 설명상 부활 메커니즘에는 다음이 관여한다.
 
-The current status of Adam and Eve on the Planet of the Eternals is, on the framework's reading, substantive but not currently active in Earth affairs. The prophets resurrected on the home world are awaiting the alliance's open return at the Aquarian-age embassy, at which point they will return to Earth alongside the alliance for a temporary visit. The detailed treatment of this Aquarian-age return event lives in the [Apocalypse](../apocalypse/) and [Embassy](../embassy/) entries.
+- 생전 각 후보로부터의 세포 표본의 보존
+- 적절한 순간에 보존된 세포 물질로부터의 새 몸의 구축
+- 원래의 생물학적 기질로부터 새 몸으로의 보존된 기억과 인격의 전이
+- 그 결과: 정체성, 기억, 인격의 완전한 보존과 함께, 새 생물학적 몸에서의 원래 개인의 존재의 지속
 
-## Role in the framework
+프레임워크는 아담의 부활을 최초의 예언자 — 직접적 동맹 통신을 받은 최초의 인간 수신자, 따라서 현재 영원자들의 행성에서 부활한 예언자들 중 하나 — 로서의 그의 역할과 관련된 것으로 읽는다. 하와의 부활도 자료에 등록되지만 동일한 특정 역할-정당화 없이 그러하다. 프레임워크는 하와를 계통 속의 모권적 상대로서 아담과 함께 부활한 것으로 읽는다.
 
-Adam and Eve's role in the framework is structured by their position as the first humans of the Israel-team lineage, their specific function as recipients of the Lucifer-faction disclosure, and their structural significance as the progenitors of the lineage whose history would become the Hebrew Bible's narrative.
+영원자들의 행성에서의 아담과 하와의 현재 상태는 프레임워크의 독해상 실질적이지만 현재 지구 사안에서 활동적이지는 않다. 본국에서 부활한 예언자들은 물병자리 시대의 대사관에서의 동맹의 공개적 귀환을 기다리고 있으며, 그 시점에 그들은 일시적 방문을 위해 동맹과 함께 지구로 귀환할 것이다. 이 물병자리 시대 귀환 사건의 상세한 다룸은 [종말](../apocalypse/) 및 [대사관](../embassy/) 항목에 머문다.
 
-### The first humans of the Israel-team lineage
+## 프레임워크에서의 역할
 
-The corpus reads Adam and Eve as the first humans of one specific creator team's work — the Israel team's work at the Eden installation — rather than as the first humans of all humanity. This reading reframes the underlying ontology of their position. They are not the unique progenitors of all human beings (the seven-creator-team picture has parallel first-human figures in the other six lineages, whose names are not preserved in the Hebrew Bible because the Hebrew Bible is the Israel-team lineage's specific cultural inheritance). They are the first humans of *one* lineage — the lineage whose subsequent history became the cultural-religious history of the Hebrews and, through the Hebrew tradition's broader influence, of the developed Western religious traditions.
+프레임워크에서의 아담과 하와의 역할은 이스라엘 팀 계통의 최초 인간으로서의 그들의 위치, 루시퍼 분파 폭로의 수신자로서의 그들의 특정 기능, 그리고 그 역사가 히브리어 성경의 서사가 될 계통의 시조로서의 그들의 구조적 의의에 의해 구조화된다.
 
-This positioning has substantial implications for how the framework reads the Genesis narrative's claims about Adam and Eve. Their narrative is **specific to the Israel-team lineage** rather than universally applicable to all of humanity. The "Fall" is not a universal human moral fall but a specific operational event involving one lineage. The "original sin" doctrine that has been built on the Adam-and-Eve narrative does not have the universal scope its conventional theological framing claims, because the underlying narrative is itself lineage-specific rather than universal.
+### 이스라엘 팀 계통의 최초 인간
 
-### Recipients of the Lucifer-faction disclosure
+코퍼스는 아담과 하와를 전 인류의 최초 인간이 아니라 한 특정 창조자 팀의 작업 — 에덴 시설에서의 이스라엘 팀의 작업 — 의 최초 인간으로 읽는다.{{ footnote(id="3") }} 이 독해는 그들 위치의 기저 존재론을 재구성한다. 그들은 모든 인간 존재의 유일한 시조가 아니다(일곱 창조자 팀 그림은 다른 여섯 계통에 병행하는 최초 인간 인물들을 가지며, 그들의 이름은 히브리어 성경이 이스라엘 팀 계통의 특정 문화적 유산이기 때문에 히브리어 성경에 보존되지 않았다). 그들은 *하나*의 계통의 최초 인간이다 — 그 후속 역사가 히브리인들의 문화-종교적 역사가, 그리고 히브리 전통의 보다 광범위한 영향을 통해 발전된 서구 종교 전통들의 역사가 된 계통이다.
 
-Adam and Eve are the specific human recipients of the Lucifer-faction's disclosure of restricted scientific knowledge. The disclosure was a substantive transmission of scientific and technological content — the corpus reads "knowing good and evil" as substantial scientific knowledge rather than as moral discrimination — and Adam and Eve's acceptance of the disclosure made them the first humans of the Eden lineage to possess substantial scientific knowledge.
+이 위치 설정은 프레임워크가 아담과 하와에 관한 창세기 서사의 주장들을 어떻게 읽는지에 대해 실질적 함의를 가진다. 그들의 서사는 전 인류에 보편적으로 적용되기보다는 **이스라엘 팀 계통에 특정하다**. "타락"은 보편적인 인류의 도덕적 타락이 아니라 한 계통이 관여한 특정 운영적 사건이다. 아담-하와 서사 위에 세워진 "원죄" 교리는 그 통상적인 신학적 틀이 주장하는 보편적 범위를 갖지 않는데, 이는 기저 서사 자체가 보편적이기보다는 계통에 특정하기 때문이다.
 
-The specific significance of this position is that Adam and Eve's acceptance of the disclosure made the post-Eden educational project possible. Their acquired knowledge could be transmitted to their offspring, with the result that the Eden-lineage civilization developed substantially more rapidly than the home-world's containment policy had anticipated. The Lucifer faction's continuing teaching across the antediluvian period built on the foundation that Adam and Eve had received in the disclosure event.
+### 루시퍼 분파 폭로의 수신자
 
-### Progenitors of the Hebrew Bible's lineage
+아담과 하와는 제한된 과학 지식에 대한 루시퍼 분파의 폭로의 특정 인간 수신자이다. 폭로는 과학적·기술적 내용의 실질적 전수였으며 — 코퍼스는 "선악을 앎"을 도덕적 분별이 아니라 상당한 과학 지식으로 읽는다 — 아담과 하와의 폭로 수용은 그들을 상당한 과학 지식을 소유한 에덴 계통의 최초 인간으로 만들었다.
 
-Adam and Eve's specific role as progenitors of the Israel-team lineage made them the foundational figures of the Hebrew Bible's broader narrative. The Hebrew Bible's subsequent narrative — the patriarchal genealogies, the Noah and Flood material, the Abraham-Isaac-Jacob narrative, the Egyptian-bondage-and-Exodus material, the Conquest, the United and Divided Monarchies, the prophetic period — all proceeds from the Eden-lineage population that descended from Adam and Eve.
+이 위치의 특정 의의는 아담과 하와의 폭로 수용이 에덴 이후 교육 프로젝트를 가능하게 했다는 것이다. 그들의 획득된 지식은 그들의 자손에게 전수될 수 있었으며, 그 결과 에덴 계통 문명은 모행성의 봉쇄 정책이 예상했던 것보다 실질적으로 더 빠르게 발전했다. 대홍수 이전 시기 전반에 걸친 루시퍼 분파의 지속적 교육은 아담과 하와가 폭로 사건에서 받은 토대 위에 구축되었다.
 
-The framework reads this genealogical centrality as the substantive reason for the Hebrew Bible's preservation of the Adam-and-Eve narrative. The narrative is preserved because it records the founding of the lineage whose history the Hebrew Bible documents; other ancient cultural traditions preserve their own founding-figure narratives (treated under *Comparative observations* below) for their own lineages, with the specific content varying by lineage but the broader pattern being substantially universal.
+### 히브리어 성경 계통의 시조
 
-### The first prophet
+이스라엘 팀 계통의 시조로서의 아담과 하와의 특정 역할은 그들을 히브리어 성경의 보다 광범위한 서사의 토대적 인물로 만들었다. 히브리어 성경의 후속 서사 — 족장 족보, 노아와 대홍수 자료, 아브라함-이삭-야곱 서사, 이집트 종살이와 출애굽 자료, 정복, 통일 및 분열 왕국, 예언자 시기 — 는 모두 아담과 하와에게서 내려온 에덴 계통 인구로부터 진행된다.
 
-Adam's specific identification as the first prophet — the first human recipient of direct alliance communication — gives him a distinctive status within the broader prophetic tradition that the framework develops in the [Prophet](../prophet/) entry. The corpus reads Adam's prophetic role as foundational: he was the first human to receive substantive communication from the alliance (specifically from the Israel team, including Yahweh as team leader and Lucifer as faction leader), and his subsequent transmission of that communication to Eve, to Cain and Abel and Seth, and to the broader Eden-lineage population established the patriarchal-prophetic mode that would characterize the broader Hebrew Bible's tradition.
+프레임워크는 이 계보적 중심성을 히브리어 성경이 아담-하와 서사를 보존한 실질적 이유로 읽는다. 그 서사는 히브리어 성경이 기록하는 계통의 창설을 기록하기 때문에 보존된다. 다른 고대 문화 전통들은 자신의 계통을 위한 자신의 창설-인물 서사(아래 *비교적 관찰*에서 다루어진다)를 보존하며, 특정 내용은 계통마다 다르지만 보다 광범위한 패턴은 실질적으로 보편적이다.
 
-Adam's prophetic status, on the framework's reading, is therefore not a separate role from his role as the first synthesized human; the two roles are integrated. He is the first human, and as the first human he is also the first recipient of alliance communication, and his life as the first human consisted substantially in receiving that communication and transmitting it to his offspring.
+### 최초의 예언자
 
-Eve's specific role within the prophetic tradition is less developed in the source material. The framework reads her as having received the alliance communication alongside Adam (and as the principal recipient of the Serpent's specific disclosure) but does not develop her prophetic status as fully as Adam's. The asymmetry reflects the source material's specific framing rather than a substantive operational difference between them.
+아담을 최초의 예언자 — 직접적 동맹 통신을 받은 최초의 인간 수신자 — 로 특정하여 동정하는 것은 프레임워크가 [예언자](../prophet/) 항목에서 발전시키는 보다 광범위한 예언자 전통 안에서 그에게 독특한 지위를 부여한다. 코퍼스는 아담의 예언자 역할을 토대적인 것으로 읽는다. 그는 동맹(특정하게는 팀 지도자로서의 야훼와 분파 지도자로서의 루시퍼를 포함한 이스라엘 팀)으로부터 실질적 통신을 받은 최초의 인간이었으며, 그 통신을 하와에게, 가인과 아벨과 셋에게, 그리고 보다 광범위한 에덴 계통 인구에게 후속 전수한 것이 보다 광범위한 히브리어 성경 전통을 특징지을 족장-예언자 양식을 확립했다.
 
-### What the framework does not claim
+따라서 프레임워크의 독해상 아담의 예언자 지위는 최초의 합성된 인간으로서의 그의 역할과 별개의 역할이 아니다. 두 역할은 통합되어 있다. 그는 최초의 인간이며, 최초의 인간으로서 그는 또한 동맹 통신의 최초 수신자이고, 최초의 인간으로서의 그의 삶은 실질적으로 그 통신을 받고 그것을 자손에게 전수하는 데 있었다.
 
-The framework does not claim that Adam and Eve are the first humans of all humanity. The seven-creator-team picture explicitly registers parallel first-human figures in the other six lineages, with Adam and Eve specifically being the first humans of one lineage rather than universally.
+예언자 전통 안에서의 하와의 특정 역할은 자료에서 덜 발전되어 있다. 프레임워크는 그를 아담과 함께 동맹 통신을 받은 자(그리고 뱀의 특정 폭로의 주된 수신자)로 읽지만, 그의 예언자 지위를 아담의 것만큼 충실하게 발전시키지 않는다. 이 비대칭은 그들 사이의 실질적 운영적 차이가 아니라 자료의 특정 틀을 반영한다.
 
-The framework does not claim that the "Fall" is a universal human moral catastrophe. The Eden disclosure was a specific operational event in one lineage's history, with substantive consequences for that lineage but not for humanity universally. The Augustinian original-sin doctrine, which extends the Adam-and-Eve narrative to all humanity, is not the framework's reading.
+### 프레임워크가 주장하지 않는 것
 
-The framework does not claim that the Genesis narrative provides accurate biology in detail. The "rib" (*ṣēlāʿ*) language, the "breath of life" language, the "dust of the ground" language are read as stylized accounts of operational realities the original biblical authors could not describe in technical biological vocabulary. The corpus reads these accounts as preserving accurate substantive content (the synthesis of humans from terrestrial materials, the cellular relationship between Adam and Eve, the activation of the synthesized organism) without committing to the literal-anatomical specificity of the surface narrative.
+프레임워크는 아담과 하와가 전 인류의 최초 인간이라고 주장하지 않는다. 일곱 창조자 팀 그림은 다른 여섯 계통에 병행하는 최초 인간 인물들을 명시적으로 등록하며, 아담과 하와는 보편적으로가 아니라 특정하게 한 계통의 최초 인간이다.
 
-The framework does not claim that Eve is uniquely culpable in the disclosure event. The Raëlian source material is explicit that the disclosure was offered to both humans equally and that both received the consequences equally; the misogynistic interpretive tradition that has read Eve as uniquely responsible is rejected.
+프레임워크는 "타락"이 보편적인 인류의 도덕적 파국이라고 주장하지 않는다. 에덴 폭로는 한 계통의 역사 속의 특정 운영적 사건으로, 그 계통에 실질적 결과를 가졌으나 보편적으로 인류에 그러지는 않았다. 아담-하와 서사를 전 인류에게로 확장하는 아우구스티누스의 원죄 교리는 프레임워크의 독해가 아니다.
 
-## Identifications and conflations
+프레임워크는 창세기 서사가 세부에서 정확한 생물학을 제공한다고 주장하지 않는다. "갈빗대"(*ṣēlāʿ*) 언어, "생명의 호흡" 언어, "땅의 흙" 언어는 원래의 성서 저자들이 기술적 생물학적 어휘로는 묘사할 수 없었던 운영적 실재에 대한 양식화된 설명으로 읽힌다. 코퍼스는 이 설명들을 표면 서사의 문자적-해부학적 구체성에 헌신하지 않으면서도 정확한 실질적 내용(지구상의 물질로부터의 인간 합성, 아담과 하와 사이의 세포적 관계, 합성된 유기체의 활성화)을 보존하는 것으로 읽는다.
 
-Adam and Eve have been identified and developed in numerous traditions across the post-biblical period, with several specific identifications and conflations warranting treatment.
+프레임워크는 하와가 폭로 사건에서 유일하게 책임 있다고 주장하지 않는다. 라엘 자료는 폭로가 두 인간 모두에게 동등하게 제공되었고 둘 다 동등하게 그 결과를 받았음을 명시적으로 밝힌다. 하와를 유일하게 책임 있는 자로 읽어 온 여성혐오적 해석 전통은 거부된다.
 
-### Adam and Christ: the typological identification
+## 동정과 융합
 
-The most substantial post-biblical theological development of Adam is the Pauline Adam-Christ typology developed in Romans 5:12–21 and 1 Corinthians 15:21–22, 45–49. Paul reads Adam as the *type* of Christ — the first Adam who introduced sin and death into the world, with Christ as the second Adam who reverses Adam's effects and inaugurates the new creation. The "second Adam" Christology is foundational for subsequent Christian theological reflection on Christ's redemptive role.
+아담과 하와는 후성서 시기 전반에 걸쳐 수많은 전통에서 동정되고 발전되어 왔으며, 몇 가지 특정 동정과 융합이 다룸을 요한다.
 
-The corpus reads the Pauline Adam-Christ typology as a specific theological-rhetorical use of the Adam figure rather than as a direct historical claim about Adam's actual operational role. The typology is theologically productive within the New Testament's argumentative framework — establishing Christ's significance through the Adam-parallel — but does not make accurate historical claims about Adam beyond what the Genesis narrative already specifies.
+### 아담과 그리스도: 유형론적 동정
 
-### Eve and Mary: the typological parallel
+아담의 가장 실질적인 후성서적 신학적 발전은 로마서 5:12–21 및 고린도전서 15:21–22, 45–49에서 발전된 바울의 아담-그리스도 유형론이다. 바울은 아담을 그리스도의 *유형*으로 읽는다 — 죄와 죽음을 세상에 들여온 첫째 아담, 그리고 아담의 영향을 역전시키고 새 창조를 개시하는 둘째 아담으로서의 그리스도. "둘째 아담" 기독론은 그리스도의 구속적 역할에 대한 후속 기독교 신학적 성찰의 토대이다.
 
-A parallel theological development pairs Eve with Mary as theological types: Eve as the woman through whom the disclosure event occurred, Mary as the woman through whom the redemptive Christ-event occurred. The "second Eve" theology was developed across the patristic period (Justin Martyr, Irenaeus, Tertullian) and elaborated extensively in subsequent Catholic Mariology, with the parallel sometimes extended to the Eve-as-disobedient / Mary-as-obedient contrast.
+코퍼스는 바울의 아담-그리스도 유형론을 아담의 실제 운영적 역할에 대한 직접적인 역사적 주장이 아니라 아담 인물의 특정 신학적-수사적 사용으로 읽는다. 그 유형론은 신약의 논증적 틀 안에서 신학적으로 생산적이지만 — 아담-병행을 통해 그리스도의 의의를 확립하면서 — 창세기 서사가 이미 명시하는 것 너머로 아담에 대한 정확한 역사적 주장을 하지는 않는다.
 
-The corpus reads the Eve-Mary typology as a parallel theological-rhetorical use, with the same observations as the Adam-Christ typology. The framework does treat both Eve and Mary as significant figures in the broader history of the alliance's interaction with humanity (Eve as the original disclosure-recipient, Mary as the Piscean-age conception-partner), but does not develop the typological theology in the conventional Catholic-Marian sense. The detailed treatment of Mary lives in the [Mary](../mary/) entry (when written).
+### 하와와 마리아: 유형론적 평행
 
-### Adam and Adam Kadmon
+병행하는 신학적 발전은 하와를 마리아와 신학적 유형으로 짝짓는다. 즉 하와는 폭로 사건이 통해 일어난 여인으로, 마리아는 구속적 그리스도-사건이 통해 일어난 여인으로. "둘째 하와" 신학은 교부 시기 전반에 걸쳐(유스티누스, 이레네우스, 테르툴리아누스) 발전되었고 후속 가톨릭 마리아론에서 광범위하게 부연되었으며, 그 평행은 때때로 불순종한-하와 / 순종한-마리아 대조로까지 확장되었다.
 
-The Kabbalistic tradition developed the figure of **Adam Kadmon** (<span class="hebrew">אָדָם קַדְמוֹן</span>, "Primordial Adam") — a cosmological figure distinct from the historical Adam of Genesis 2. Adam Kadmon is, in Lurianic Kabbalah specifically, the first emanation from the Ein Sof (the infinite divine), through whom the subsequent emanations of the *sefirot* and the broader cosmic structure proceed. Adam Kadmon is thus a metaphysical-cosmological figure rather than a historical one.
+코퍼스는 하와-마리아 유형론을 아담-그리스도 유형론과 동일한 관찰과 함께 병행하는 신학적-수사적 사용으로 읽는다. 프레임워크는 하와와 마리아를 동맹의 인류와의 상호작용의 보다 광범위한 역사 속의 의미 있는 인물로 다루지만(하와는 원래의 폭로-수신자로, 마리아는 물고기자리 시대의 수태-동반자로), 통상적인 가톨릭-마리아적 의미에서 유형론적 신학을 발전시키지는 않는다. 마리아에 대한 상세한 다룸은 [마리아](../mary/) 항목(작성될 때)에 머문다.
 
-The corpus does not adopt the Adam Kadmon doctrine. The framework's Adam is the historical figure of Genesis 2, not a cosmological emanation. The Kabbalistic tradition's underlying intuition — that there is a substantive ontological figure named "Adam" who relates to the broader structure of reality — is registered as a theological elaboration of the historical Adam's significance, but the corpus does not develop the metaphysical structure the Kabbalistic tradition built around the figure.
+### 아담과 아담 카드몬
 
-### Lilith: the alternative-first-wife tradition
+카발라 전통은 **아담 카드몬**(<span class="hebrew">אָדָם קַדְמוֹן</span>, "원초적 아담") — 창세기 2장의 역사적 아담과 구별되는 우주론적 인물 — 의 형상을 발전시켰다. 아담 카드몬은 특정하게 루리아 카발라에서 엔 소프(무한한 신성)로부터의 최초 발출이며, 그를 통해 *세피로트*와 보다 광범위한 우주 구조의 후속 발출들이 진행된다. 따라서 아담 카드몬은 역사적 인물이 아니라 형이상학적-우주론적 인물이다.
 
-The medieval Jewish tradition (principally the *Alphabet of Ben Sira*, c. 8th–10th century CE) developed the figure of **Lilith** as Adam's first wife, created equally with him from the same earth, who refused to submit to his authority and left the garden — with Eve being created subsequently as a more compliant alternative. The tradition was elaborated in subsequent Kabbalistic literature (the *Zohar* and Lurianic Kabbalah develop Lilith as a demonic figure), and modern feminist Jewish writers have substantially engaged with the Lilith tradition as preserving an alternative to the patriarchal Eve narrative.
+코퍼스는 아담 카드몬 교리를 채택하지 않는다. 프레임워크의 아담은 우주론적 발출이 아니라 창세기 2장의 역사적 인물이다. 카발라 전통의 기저 직관 — "아담"이라 명명된, 실재의 보다 광범위한 구조에 관계되는 실질적 존재론적 인물이 있다는 것 — 은 역사적 아담의 의의에 대한 신학적 부연으로 등록되지만, 코퍼스는 카발라 전통이 그 인물을 둘러싸고 구축한 형이상학적 구조를 발전시키지 않는다.
 
-The corpus does not adopt the Lilith narrative as part of the framework's reading. The Raëlian source material does not include any reference to Lilith or to a first-wife-prior-to-Eve figure, and the corpus reads the Lilith tradition as a medieval-Kabbalistic theological elaboration rather than as a preservation of accurate operational memory. The tradition is registered in the *Modern reinterpretations* section below as a substantive interpretive engagement with the Adam-and-Eve material.
+### 릴리트: 대안적-첫-아내 전통
 
-### Adam as Michael the Archangel
+중세 유대 전통(주로 *벤 시라의 알파벳*, 기원후 약 8–10세기)은 **릴리트**의 형상을 아담의 첫 번째 아내로 발전시켰는데, 그는 아담과 동등하게 동일한 흙으로 창조되었고, 그의 권위에 복종하기를 거부하고 동산을 떠났으며 — 하와가 이후에 보다 순응적인 대안으로 창조되었다는 것이다. 이 전통은 후속 카발라 문헌에서 부연되었고(*조하르*와 루리아 카발라는 릴리트를 악마적 인물로 발전시킨다), 근대 여성주의 유대 저자들은 가부장적 하와 서사에 대한 대안을 보존하는 것으로 릴리트 전통과 실질적으로 씨름해 왔다.
 
-The Latter-day Saint (Mormon) tradition identifies Adam with the archangel Michael, with the figure of "Adam-ondi-Ahman" being a central figure in Latter-day Saint theology. The doctrine, developed by Joseph Smith and elaborated in subsequent Latter-day Saint theological literature, holds that Adam was originally the archangel Michael who took on physical form to become the first human.
+코퍼스는 릴리트 서사를 프레임워크의 독해의 일부로 채택하지 않는다. 라엘 자료는 릴리트나 하와-이전-첫-아내 인물에 대한 어떤 언급도 포함하지 않으며, 코퍼스는 릴리트 전통을 정확한 운영적 기억의 보존이 아니라 중세-카발라적 신학적 부연으로 읽는다. 이 전통은 아래 *근대 재해석* 부분에서 아담-하와 자료와의 실질적 해석적 씨름으로 등록된다.
 
-The corpus does not adopt the Adam-as-Michael identification. The framework's Adam is a synthesized human created by the Israel team; the Latter-day Saint identification is a specific theological development of the Restorationist tradition that the framework does not endorse. The tradition is registered in the *Modern reinterpretations* section below.
+### 미카엘 천사장으로서의 아담
 
-## Modern reinterpretations
+후기 성도(모르몬) 전통은 아담을 미카엘 천사장과 동일시하며, "아담-온다이-아만"의 형상이 후기 성도 신학의 중심 인물이다. 조셉 스미스가 발전시키고 후속 후기 성도 신학 문헌에서 부연된 이 교리는, 아담이 본래 물리적 형태를 취하여 최초의 인간이 된 미카엘 천사장이었다고 본다.
 
-Adam and Eve have been the subject of substantial modern reinterpretive engagement across multiple traditions. The principal strands warrant treatment.
+코퍼스는 아담-미카엘 동정을 채택하지 않는다. 프레임워크의 아담은 이스라엘 팀이 창조한 합성 인간이다. 후기 성도의 동정은 프레임워크가 지지하지 않는 회복주의 전통의 특정 신학적 발전이다. 이 전통은 아래 *근대 재해석* 부분에서 등록된다.
 
-### Augustine and the doctrine of original sin
+## 근대 재해석
 
-**Augustine of Hippo** (354–430 CE) developed the doctrine of original sin in *De Civitate Dei*, *De Peccatorum Meritis et Remissione*, and the various anti-Pelagian writings. The Augustinian doctrine holds that Adam's disobedience in Genesis 3 introduced sin and mortality into human nature, that this sinful condition is inherited by all subsequent humans through biological-spiritual descent from Adam, and that the resulting human condition requires divine grace (specifically through Christ's atoning sacrifice) for salvation.
+아담과 하와는 다수의 전통에 걸쳐 실질적인 근대 재해석적 씨름의 대상이 되어 왔다. 주된 갈래들이 다룸을 요한다.
 
-The Augustinian doctrine became the dominant Western Christian reading of the Adam-and-Eve narrative across the medieval and Reformation periods. The doctrine has substantial implications for theological anthropology (humans are fallen by nature, inheriting Adam's guilt), for soteriology (salvation requires Christ's specific redemptive work), for sacramental theology (baptism's significance includes the cleansing of inherited original sin), and for moral theology (the inheritance of disordered desires from Adam's fall).
+### 아우구스티누스와 원죄 교리
 
-The corpus does not adopt the Augustinian doctrine of original sin. The framework's reading of the Eden disclosure does not treat it as a moral-theological catastrophe of the kind Augustine constructs; the disclosure was a substantive political-operational event with real consequences but without inherited guilt-transmission to Adam's descendants. The biological-genetic relationships across the Eden-lineage population produce substantive inheritance of biological traits but do not produce the inheritance of moral guilt that Augustine's doctrine claims.
+**히포의 아우구스티누스**(기원후 354–430)는 *신국론*, *죄의 응보와 사면에 관하여*, 그리고 다양한 반(反)펠라기우스 저작들에서 원죄 교리를 발전시켰다.{{ cite(id="city-of-god", text="[7]", title="아우구스티누스, *The City of God* — 원죄 종합") }} 아우구스티누스 교리는 창세기 3장에서의 아담의 불순종이 죄와 사멸성을 인간 본성에 들여왔고, 이 죄된 조건이 아담으로부터의 생물학적-영적 후손을 통해 모든 후속 인간에게 유전되며, 그 결과의 인간 조건이 구원을 위해 신적 은총(특정하게는 그리스도의 속죄 희생을 통한)을 요구한다고 본다.
 
-### Elaine Pagels: *Adam, Eve, and the Serpent* (1988)
+아우구스티누스 교리는 중세 및 종교개혁 시기 전반에 걸쳐 아담-하와 서사에 대한 지배적인 서구 기독교 독해가 되었다. 이 교리는 신학적 인간학(인간은 본성상 타락했으며 아담의 죄책을 물려받는다), 구원론(구원은 그리스도의 특정 구속 작업을 요구한다), 성례 신학(세례의 의의는 유전된 원죄의 정화를 포함한다), 그리고 도덕 신학(아담의 타락으로부터 무질서한 욕망을 물려받음)에 실질적 함의를 가진다.
 
-**Elaine Pagels**'s *Adam, Eve, and the Serpent* (1988) is the standard contemporary scholarly treatment of how the Adam-and-Eve narrative's interpretation has shaped Western thought across two millennia. Pagels traces the development of the Christian reading from the early Christian centuries through Augustine's foundational synthesis and into the medieval and modern traditions. Her principal argument is that Augustine's specific reading of Genesis 3 — the doctrine of original sin, the inheritance of guilt, the subjugation of women that the Genesis 3:16 text was used to justify — is a specific theological development that became dominant in Western Christianity but was not the only available reading and was contested by alternative early-Christian positions.
+코퍼스는 아우구스티누스의 원죄 교리를 채택하지 않는다. 프레임워크의 에덴 폭로 독해는 그것을 아우구스티누스가 구성하는 종류의 도덕-신학적 파국으로 다루지 않는다. 폭로는 실재하는 결과를 가진 실질적 정치-운영적 사건이었으나 아담의 후손에게로의 유전된 죄책 전달은 없었다. 에덴 계통 인구 전반에 걸친 생물학적-유전적 관계는 생물학적 형질의 실질적 유전을 산출하지만 아우구스티누스의 교리가 주장하는 도덕적 죄책의 유전을 산출하지는 않는다.
 
-Pagels argues that pre-Augustinian Christian readings of the Adam-and-Eve narrative were substantially more diverse, with various Greek-tradition readings emphasizing the freedom and autonomy aspects of the narrative rather than the inherited-guilt aspects. The Augustinian synthesis became dominant for specific historical-political reasons (the late-antique Roman context, the Pelagian controversy, the broader Augustinian theological project) rather than because it was the only or best available reading.
+### 일레인 페이절스: *아담, 하와, 그리고 뱀* (1988)
 
-The corpus engages Pagels's work as the most accessible contemporary scholarly treatment of the interpretive history of the Adam-and-Eve narrative. Pagels's analysis of how Augustine's specific theological synthesis became dominant despite alternative available readings is consistent with the corpus's own diagnosis: the Christian theological elaboration of the Adam-and-Eve material is a specific historical-theological development rather than a textually-given inheritance.
+**일레인 페이절스**의 *아담, 하와, 그리고 뱀*(1988)은 아담-하와 서사의 해석이 2천 년에 걸쳐 서구 사상을 어떻게 형성했는지에 대한 표준적 동시대 학술 다룸이다.{{ cite(id="pagels-adam-eve-serpent", text="[8]", title="페이절스, *Adam, Eve, and the Serpent* (1988)") }} 페이절스는 초기 기독교 세기들로부터 아우구스티누스의 토대적 종합을 거쳐 중세 및 근대 전통으로 이어지는 기독교 독해의 발전을 추적한다. 그의 주된 논증은 아우구스티누스의 특정 창세기 3장 독해 — 원죄 교리, 죄책의 유전, 창세기 3:16 본문이 정당화하는 데 사용된 여성 종속 — 가 서구 기독교에서 지배적이 된 특정 신학적 발전이지만, 유일하게 가용한 독해는 아니었으며 대안적 초기-기독교 입장들에 의해 논쟁되었다는 것이다.
 
-### Jewish and Christian feminist readings
+페이절스는 아우구스티누스 이전 기독교의 아담-하와 서사 독해들이 실질적으로 더 다양했으며, 다양한 그리스-전통 독해들이 유전된-죄책 측면이 아니라 서사의 자유와 자율성 측면을 강조했다고 논증한다. 아우구스티누스의 종합은 그것이 유일하거나 최선의 가용한 독해였기 때문이 아니라 특정 역사적-정치적 이유(후기 고대 로마 맥락, 펠라기우스 논쟁, 보다 광범위한 아우구스티누스 신학 프로젝트) 때문에 지배적이 되었다.
 
-The late twentieth century saw substantial development of Jewish and Christian feminist readings of the Adam-and-Eve narrative, with several principal scholars warranting treatment.
+코퍼스는 페이절스의 저작을 아담-하와 서사의 해석사에 대한 가장 접근하기 쉬운 동시대 학술 다룸으로서 씨름한다. 아우구스티누스의 특정 신학적 종합이 대안적 가용 독해들에도 불구하고 어떻게 지배적이 되었는지에 대한 페이절스의 분석은 코퍼스 자체의 진단과 합치한다. 즉 아담-하와 자료의 기독교 신학적 부연은 본문적으로 주어진 유산이 아니라 특정 역사적-신학적 발전이다.
 
-**Phyllis Trible**'s *God and the Rhetoric of Sexuality* (1978) developed an influential close reading of Genesis 2–3 that argued for substantial gender equality in the original Hebrew text, with the patriarchal interpretation being a later imposition rather than the text's own framing. Trible's reading of the Hebrew *ʿēzer kə-negdô* ("a helper fit for him") of Genesis 2:18 emphasizes the *ʿēzer* term's broader meaning ("strength, support") rather than the subordinationist sense often imported in translation; her reading of the *ṣēlāʿ* ("rib" / "side") emphasizes the parallel-equal-side meaning rather than the subordinate-derivative meaning.
+### 유대교 및 기독교 여성주의 독해
 
-**Carol Meyers**'s *Discovering Eve* (1988) developed the historical-anthropological reading of Eve as representing the agricultural-laboring woman of the Iron Age Israelite household, with the Genesis narrative reflecting the actual social conditions of women in early Israelite society rather than imposing a theological-ideological framework on them. Meyers's reading reframes the "curses" of Genesis 3:16 as descriptive accounts of the difficult conditions of agricultural-household women rather than as prescriptive theological pronouncements about gender hierarchy.
+20세기 후반은 아담-하와 서사에 대한 유대교 및 기독교 여성주의 독해의 실질적 발전을 보았으며, 몇몇 주요 학자들이 다룸을 요한다.
 
-**Judith Plaskow** and the broader Jewish feminist movement have developed substantial engagement with the Adam-and-Eve narrative, with particular attention to the Lilith tradition (treated below) as preserving alternative readings.
+**필리스 트리블**의 *하나님과 성(性)의 수사학*(1978)은 원래의 히브리어 본문에서의 실질적 양성 평등을 논증하며, 가부장적 해석을 본문 자체의 틀이 아니라 후대의 부과로 보는, 영향력 있는 창세기 2–3장 정밀 독해를 발전시켰다.{{ cite(id="trible-rhetoric-sexuality", text="[9]", title="트리블, *God and the Rhetoric of Sexuality* (1978)") }} 창세기 2:18의 히브리어 *ʿēzer kə-negdô*("그를 위한 돕는 배필")에 대한 트리블의 독해는 번역에서 종종 수입되는 종속주의적 의미가 아니라 *ʿēzer* 용어의 보다 광범위한 의미("힘, 지지")를 강조한다. *ṣēlāʿ*("갈빗대" / "옆구리")에 대한 그의 독해는 종속적-파생적 의미가 아니라 병행적-동등한-옆구리 의미를 강조한다.
 
-The corpus engages this feminist scholarly tradition as substantive intellectual work. The framework's reading shares the feminist-tradition recognition that Eve is not uniquely culpable in the disclosure event (Pagels and Trible both arguing this on different grounds), and the framework's reading rejects the misogynistic interpretive tradition that has placed primary responsibility on Eve. The framework does not adopt the full feminist-theological apparatus (the corpus does not develop a gender-theological program comparable to the Christian feminist movement's) but registers substantial agreement on the specific point of Eve's not being uniquely culpable.
+**캐럴 마이어스**의 *하와 발견하기*(1988)는 하와를 철기 시대 이스라엘 가정의 농업 노동 여성을 대표하는 것으로 보는 역사적-인류학적 독해를 발전시켰으며, 창세기 서사가 신학적-이데올로기적 틀을 그들에게 부과하기보다는 초기 이스라엘 사회에서의 여성의 실제 사회적 조건을 반영하는 것으로 본다.{{ cite(id="meyers-discovering-eve", text="[10]", title="마이어스, *Discovering Eve: Ancient Israelite Women in Context* (1988)") }} 마이어스의 독해는 창세기 3:16의 "저주"를 성별 위계에 관한 규범적 신학적 선언이 아니라 농업-가정 여성의 어려운 조건에 대한 기술적 설명으로 재구성한다.
 
-### The Lilith tradition
+**주디스 플라스코우**와 보다 광범위한 유대 여성주의 운동은 아담-하와 서사와 실질적 씨름을 발전시켜 왔으며, 특히 대안적 독해를 보존하는 것으로서의 릴리트 전통(아래에서 다루어진다)에 특별한 주의를 기울인다.
 
-The **Lilith** tradition warrants treatment as a substantive interpretive engagement with the Adam-and-Eve material. The principal texts:
+코퍼스는 이 여성주의 학술 전통을 실질적 지적 작업으로서 씨름한다. 프레임워크의 독해는 하와가 폭로 사건에서 유일하게 책임 있지 않다는 여성주의-전통의 인지를 공유하며(페이절스와 트리블 둘 다 서로 다른 근거에서 이를 논증한다), 프레임워크의 독해는 하와에게 일차적 책임을 두어 온 여성혐오적 해석 전통을 거부한다. 프레임워크는 완전한 여성주의-신학적 장치를 채택하지는 않지만(코퍼스는 기독교 여성주의 운동에 견줄 만한 성별-신학적 프로그램을 발전시키지 않는다) 하와가 유일하게 책임 있지 않다는 특정 지점에 대해서는 실질적 동의를 등록한다.
 
-The *Alphabet of Ben Sira* (c. 8th–10th century CE) is the foundational text for the Lilith narrative. The text, a medieval Jewish satirical compilation, presents Lilith as Adam's first wife, created equally with him from the same earth, who refused to submit to Adam's sexual authority and pronounced the Tetragrammaton to escape from Eden. Lilith is subsequently associated with various demonic activities (particularly the killing of newborn infants) in subsequent Jewish folklore.
+### 릴리트 전통
 
-The *Zohar* and Lurianic Kabbalah develop Lilith as a demonic figure within the broader Kabbalistic cosmology, with Lilith as the consort of Samael and the leader of the demonic *sitra ahra* ("other side"). The Kabbalistic Lilith is thoroughly incorporated into the broader medieval Jewish demonology.
+**릴리트** 전통은 아담-하와 자료와의 실질적 해석적 씨름으로서 다룸을 요한다. 주된 텍스트들은 다음과 같다.
 
-Modern Jewish feminist writers (principally **Judith Plaskow**, in her 1972 essay "The Coming of Lilith") have reclaimed the Lilith figure as a positive symbol of feminine autonomy and resistance to patriarchy. The contemporary Jewish feminist Lilith is read as the figure who refused to submit to unjust authority and chose freedom over compliance — a reading substantially distinct from the medieval Jewish demonological figure.
+*벤 시라의 알파벳*(기원후 약 8–10세기)은 릴리트 서사의 토대 텍스트이다.{{ cite(id="alphabet-of-ben-sira", text="[11]", title="*The Alphabet of Ben Sira* (c. 8th–10th century CE) — 토대적인 릴리트-첫-아내 서사") }} 중세 유대 풍자 모음집인 이 텍스트는 릴리트를 아담과 동등하게 동일한 흙으로 창조된 아담의 첫 번째 아내로 제시하는데, 그는 아담의 성적 권위에 복종하기를 거부하고 에덴을 탈출하기 위해 사음문자(테트라그람마톤)를 발음했다. 릴리트는 후속 유대 민간전승에서 다양한 악마적 활동(특히 갓난아기 살해)과 결부된다.
 
-The corpus does not adopt the Lilith tradition as part of the framework's reading. The Raëlian source material does not include any first-wife-prior-to-Eve figure, and the corpus reads the Lilith tradition as a medieval Jewish theological-folkloric elaboration rather than as a preservation of accurate operational memory. The contemporary feminist reclamation of Lilith as a positive symbol is registered as a substantive cultural-religious development but is not adopted as part of the framework's reading of the Adam-and-Eve material.
+*조하르*와 루리아 카발라는 릴리트를 보다 광범위한 카발라 우주론 안에서 악마적 인물로 발전시키며, 릴리트를 사마엘의 배우자이자 악마적 *시트라 아흐라*("다른 쪽")의 지도자로 본다.{{ cite(id="zohar-pritzker", text="[12]", title="조하르, 프리츠커판 (매트 외, 2003–2017)") }} 카발라의 릴리트는 보다 광범위한 중세 유대 악마학에 철저히 통합되어 있다.
 
-### Mauro Biglino on Adam and Eve
+근대 유대 여성주의 저자들(주로 **주디스 플라스코우**, 그의 1972년 에세이 "릴리트의 도래"에서)은 릴리트 형상을 여성적 자율성과 가부장제에 대한 저항의 긍정적 상징으로 되찾아 왔다.{{ cite(id="plaskow-standing-again-sinai", text="[13]", title="플라스코우, *Standing Again at Sinai* (1990) 및 'The Coming of Lilith' (1972)") }} 동시대 유대 여성주의의 릴리트는 부당한 권위에 복종하기를 거부하고 순응보다 자유를 택한 인물로 읽히며 — 중세 유대 악마학적 인물과는 실질적으로 구별되는 독해이다.
 
-**Mauro Biglino**'s strict-translational engagement with the Adam-and-Eve material is developed across his works, with the principal claims:
+코퍼스는 릴리트 전통을 프레임워크의 독해의 일부로 채택하지 않는다. 라엘 자료는 하와-이전-첫-아내 인물을 포함하지 않으며, 코퍼스는 릴리트 전통을 정확한 운영적 기억의 보존이 아니라 중세 유대의 신학적-민간전승적 부연으로 읽는다. 릴리트를 긍정적 상징으로 보는 동시대 여성주의의 되찾기는 실질적 문화-종교적 발전으로 등록되지만 아담-하와 자료에 대한 프레임워크의 독해의 일부로 채택되지는 않는다.
 
-- The "dust of the ground" formation language is read literally as biological synthesis from terrestrial materials, consistent with the framework's reading
-- The "rib" / *ṣēlāʿ* language is read as cellular extraction (Biglino specifically suggests cloning), consistent with the framework's reading on this point
-- Cain is read as the son of the Serpent rather than of Adam — the "lineage of the serpent" reading that the corpus rejects (treated more fully in the [Serpent](../serpent/) entry's modern-reinterpretations section)
-- The Genesis 5 patriarchal lifespans are read as substantively accurate, consistent with the framework's reading
+### 아담과 하와에 관한 마우로 비글리노
 
-The framework's reading is broadly aligned with Biglino's reading on the basic interpretive direction (Adam and Eve as synthesized humans rather than as mythological figures), with the substantive disagreement being the Cain-as-serpent-lineage reading. The detailed treatment of this disagreement lives in the [Serpent](../serpent/) entry.
+**마우로 비글리노**의 아담-하와 자료와의 엄격한 번역적 씨름은 그의 저작들 전반에 걸쳐 발전되며,{{ cite(id="the-naked-bible", text="[14]", title="비글리노 & 카타네오, *The Naked Bible* (2022)") }} 주된 주장들은 다음과 같다.
 
-### Latter-day Saint theology: Adam as Michael
+- "땅의 흙" 형성 언어는 프레임워크의 독해와 합치하게, 지구상의 물질로부터의 생물학적 합성으로 문자 그대로 읽힌다
+- "갈빗대" / *ṣēlāʿ* 언어는 세포 추출(비글리노는 특정하게 복제를 시사한다)로 읽히며, 이 점에서 프레임워크의 독해와 합치한다
+- 가인은 아담이 아니라 뱀의 아들로 읽힌다 — 코퍼스가 거부하는 "뱀의 계통" 독해([뱀](../serpent/) 항목의 근대-재해석 부분에서 보다 충실하게 다루어진다)
+- 창세기 5장의 족장 수명은 프레임워크의 독해와 합치하게, 실질적으로 정확한 것으로 읽힌다
 
-The **Latter-day Saint (Mormon)** tradition's identification of Adam with the archangel Michael, with the figure being central to Latter-day Saint theology under the title "Adam-ondi-Ahman," warrants registration. The doctrine was developed by Joseph Smith and elaborated in subsequent Latter-day Saint theological literature including Brigham Young's specific elaborations (the controversial "Adam-God" doctrine briefly held by Young but subsequently rejected by mainstream Latter-day Saint theology). The contemporary mainstream Latter-day Saint position holds that Adam was the archangel Michael who took on physical form to become the first human — a position substantially distinct from the corpus's reading of Adam as a synthesized human created by the Israel team.
+프레임워크의 독해는 기본적 해석 방향(아담과 하와를 신화적 인물이 아니라 합성 인간으로)에서 비글리노의 독해와 폭넓게 합치하며, 실질적 의견 차이는 가인-뱀-계통 독해이다. 이 의견 차이의 상세한 다룸은 [뱀](../serpent/) 항목에 머문다.
 
-The corpus does not adopt the Adam-as-Michael identification. The Raëlian source material identifies Joseph Smith as one of the prophets of the alliance's broader prophetic tradition (the Latter-day Saint movement is read as one of the alliance's specific contact missions in the post-Aries period), but the specific Adam-as-Michael doctrine is read as a theological development of the Restorationist tradition rather than as accurate operational content.
+### 후기 성도 신학: 미카엘로서의 아담
 
-### Sendy and Wallis on Adam and Eve
+**후기 성도(모르몬)** 전통의 아담을 미카엘 천사장과 동일시함은, "아담-온다이-아만"이라는 제목 아래 그 인물이 후기 성도 신학의 중심이 되는 가운데, 등록을 요한다. 이 교리는 조셉 스미스가 발전시키고 브리검 영의 특정 부연(영이 잠시 견지했으나 이후 주류 후기 성도 신학에 의해 거부된 논쟁적인 "아담-신" 교리)을 포함한 후속 후기 성도 신학 문헌에서 부연되었다.{{ cite(id="doctrine-and-covenants", text="[24]", title="스미스, *Doctrine and Covenants* — 아담-미카엘(아담-온다이-아만) 교리") }} 동시대 주류 후기 성도 입장은 아담이 물리적 형태를 취하여 최초의 인간이 된 미카엘 천사장이었다고 본다 — 아담을 이스라엘 팀이 창조한 합성 인간으로 보는 코퍼스의 독해와는 실질적으로 구별되는 입장이다.
 
-**Jean Sendy** and **Paul Anthony Wallis** both develop readings of Adam and Eve substantially aligned with the corpus's reading. Sendy's *Ces dieux qui firent le ciel et la terre* (1969) provides the principal scholarly antecedent of the corpus's reading, treating Adam and Eve as the first humans of the Israel-team lineage and reading the Genesis narrative as preserving substantive operational content. Wallis's *The Eden Conspiracy* (2024) provides accessible recent treatment, with detailed engagement with the Genesis 2–3 material from an Elohim-pluralist perspective broadly compatible with the corpus's reading.
+코퍼스는 아담-미카엘 동정을 채택하지 않는다. 라엘 자료는 조셉 스미스를 동맹의 보다 광범위한 예언자 전통의 예언자들 중 하나로 동정하지만(후기 성도 운동은 양자리 이후 시기 동맹의 특정 접촉 임무 중 하나로 읽힌다), 특정 아담-미카엘 교리는 정확한 운영적 내용이 아니라 회복주의 전통의 신학적 발전으로 읽힌다.
 
-### The framework's relationship to the broader landscape
+### 아담과 하와에 관한 상디와 월리스
 
-The corpus's reading is positioned within this landscape as follows: rejecting the Augustinian original-sin doctrine; aligned with Pagels's analysis of the Augustinian theological synthesis as a specific historical development; aligned with the Jewish and Christian feminist tradition's recognition that Eve is not uniquely culpable; respectful of the Lilith tradition's interpretive engagement while not adopting the underlying narrative; partially aligned with Biglino's reading of Adam and Eve as synthesized humans while disagreeing on the Cain-as-serpent-lineage reading; aligned with Sendy's and Wallis's readings as the principal scholarly antecedents of the corpus's reading; non-aligned with the Latter-day Saint Adam-as-Michael identification. The corpus's reading is its own — distinct from each of these — but engages each substantively.
+**장 상디**와 **폴 앤서니 월리스** 둘 다 코퍼스의 독해와 실질적으로 합치하는 아담-하와 독해를 발전시킨다. 상디의 *Ces dieux qui firent le ciel et la terre*(1969)는 코퍼스 독해의 주된 학술적 선례를 제공하며, 아담과 하와를 이스라엘 팀 계통의 최초 인간으로 다루고 창세기 서사를 실질적 운영적 내용을 보존하는 것으로 읽는다.{{ cite(id="those-gods-who-made-heaven-and-earth", text="[15]", title="상디, *Ces dieux qui firent le ciel et la terre* (1969)") }} 월리스의 *The Eden Conspiracy*(2024)는 접근하기 쉬운 최근의 다룸을 제공하며, 코퍼스의 독해와 폭넓게 양립 가능한 엘로힘 복수론적 관점에서 창세기 2–3장 자료와 상세하게 씨름한다.{{ cite(id="the-eden-conspiracy", text="[16]", title="월리스, *The Eden Conspiracy* (2024)") }}
 
-## Comparative observations
+### 프레임워크와 보다 광범위한 지형의 관계
 
-First-human creation narratives are substantially cross-cultural, with parallel founding-figure traditions appearing across most major cultural-religious contexts. The corpus reads this cross-cultural pattern as evidence of the broader operational reality the framework describes — multiple cultural traditions preserving fragmentary memory of distinct creator-team work, with each tradition's preserved narrative reflecting the specific cultural-religious framing of the lineage that preserved it.
+코퍼스의 독해는 이 지형 안에서 다음과 같이 위치한다. 아우구스티누스의 원죄 교리를 거부함; 아우구스티누스의 신학적 종합을 특정 역사적 발전으로 보는 페이절스의 분석과 합치함; 하와가 유일하게 책임 있지 않다는 유대교 및 기독교 여성주의 전통의 인지와 합치함; 릴리트 전통의 해석적 씨름을 존중하면서도 기저 서사를 채택하지는 않음; 아담과 하와를 합성 인간으로 보는 비글리노의 독해와 부분적으로 합치하면서도 가인-뱀-계통 독해에서는 의견을 달리함; 코퍼스 독해의 주된 학술적 선례로서 상디와 월리스의 독해와 합치함; 후기 성도의 아담-미카엘 동정과는 합치하지 않음. 코퍼스의 독해는 그 자체로 고유하며 — 이것들 각각과 구별되지만 — 각각과 실질적으로 씨름한다.
 
-### Sumerian Adapa and Enkidu
+## 비교적 관찰
 
-The Sumerian-Akkadian tradition preserves several first-human / early-human figures with substantial parallels to the Adam-and-Eve narrative.
+최초 인간 창조 서사는 실질적으로 범문화적이며, 병행하는 창설-인물 전통들이 대부분의 주요 문화-종교적 맥락에 걸쳐 나타난다. 코퍼스는 이 범문화적 패턴을 프레임워크가 묘사하는 보다 광범위한 운영적 실재의 증거로 읽는다 — 다수의 문화 전통이 구별되는 창조자-팀 작업에 대한 단편적 기억을 보존하며, 각 전통의 보존된 서사는 그것을 보존한 계통의 특정 문화-종교적 틀을 반영한다.
 
-**Adapa** is the figure of the Sumerian *Adapa myth* (preserved in cuneiform tablets from the late second millennium BCE, with possible earlier oral antecedents). Adapa is the first man, created by Ea (Enki) at the city of Eridu, given wisdom and skill but not given immortality. The myth's central episode involves Adapa being summoned to the sky-god An's court after breaking the wing of the south wind; offered the food and water of immortality, Adapa refuses on Ea's specific advice (Ea having warned him that the food would be poison), and thereby loses the opportunity for eternal life. The myth concludes with Adapa's return to Earth as a mortal-but-wise figure.
+### 수메르의 아다파와 엔키두
 
-The structural parallels to the Adam-and-Eve narrative are substantial:
+수메르-아카드 전통은 아담-하와 서사와 실질적 평행을 가진 여러 최초 인간 / 초기 인간 인물을 보존한다.
 
-- A first man created by a divine figure (Ea / Yahweh Elohim)
-- The acquisition of wisdom but not immortality (the parallel to the Tree of Knowledge / Tree of Life distinction in Genesis)
-- A specific encounter with the divine authority involving the question of immortality
-- A loss of the opportunity for eternal life through specific choices
+**아다파**는 수메르 *아다파 신화*(기원전 2천년기 후반의 설형문자 점토판에 보존되었으며, 더 이른 구전 선례가 가능하다)의 인물이다.{{ cite(id="before-the-muses", text="[17]", title="포스터, *Before the Muses* (2005) — 아다파 신화 및 보다 광범위한 아카드 코퍼스") }} 아다파는 에리두 도시에서 에아(엔키)에 의해 창조된 최초의 인간으로, 지혜와 기술을 부여받았으나 불멸은 부여받지 못했다. 이 신화의 중심 일화는 아다파가 남풍의 날개를 부러뜨린 후 하늘신 안의 궁정으로 소환되는 것을 수반한다. 불멸의 음식과 물을 제안받은 아다파는 에아의 특정 조언에 따라(에아가 그 음식이 독이 될 것이라고 경고했다) 그것을 거절하며, 그리하여 영원한 생명의 기회를 잃는다. 이 신화는 아다파가 사멸하지만 지혜로운 인물로 지구에 돌아오는 것으로 마무리된다.
 
-The corpus reads the Adapa myth as preserving fragmentary memory of the Eden events as recorded in another creator team's lineage — likely the team that worked in the broader Mesopotamian region, with the Sumerian tradition preserving the narrative through a different cultural-mythological framework than the Hebrew tradition's. The Adapa parallel is therefore not a direct source for the Genesis Adam narrative; both are parallel preservations of the underlying operational reality.
+아담-하와 서사에 대한 구조적 평행은 실질적이다.
 
-**Enkidu** is the figure of the *Epic of Gilgamesh* — a wild man created by the goddess Aruru at Anu's command, fashioned from clay, brought to civilization through his sexual encounter with the prostitute Shamhat, and becoming Gilgamesh's companion. The Enkidu narrative includes substantial parallels to the Eve narrative (the woman-mediated transition from primordial wildness to civilized awareness, the loss of innocence through specific sexual-cognitive experiences) that have been substantially noted in comparative Near Eastern scholarship.
+- 신적 인물(에아 / 야훼 엘로힘)에 의해 창조된 최초의 인간
+- 지혜의 획득이지만 불멸은 아님(창세기의 지식의 나무 / 생명나무 구별에 대한 평행)
+- 불멸의 문제를 수반하는 신적 권위와의 특정 만남
+- 특정 선택을 통한 영원한 생명의 기회의 상실
 
-The corpus reads Enkidu as preserving fragmentary memory of similar operational events to those preserved in the Genesis narrative — the early human experience of education, civilization, and cognitive development — with the specific Enkidu figure being a literary-mythological construction of the Mesopotamian tradition rather than a direct historical referent.
+코퍼스는 아다파 신화를 다른 창조자 팀의 계통에 기록된 에덴 사건의 단편적 기억을 보존하는 것으로 읽는다 — 아마도 보다 광범위한 메소포타미아 지역에서 작업한 팀일 것이며, 수메르 전통은 히브리 전통의 것과는 다른 문화-신화적 틀을 통해 그 서사를 보존했다. 따라서 아다파 평행은 창세기 아담 서사의 직접적 출처가 아니다. 둘 다 기저 운영적 실재의 병행 보존이다.
 
-### Egyptian creation traditions
+**엔키두**는 *길가메시 서사시*의 인물이다 — 안의 명령으로 여신 아루루가 창조하고, 점토로 빚어졌으며, 창녀 샴하트와의 성적 만남을 통해 문명으로 인도되어 길가메시의 동반자가 된 야생의 사람.{{ cite(id="george-epic-of-gilgamesh", text="[18]", title="조지(역), *The Epic of Gilgamesh* (1999) — 엔키두 서사") }} 엔키두 서사는 하와 서사에 대한 실질적 평행(여성이 매개한 원초적 야생성으로부터 문명화된 인식으로의 이행, 특정 성적-인지적 경험을 통한 순진함의 상실)을 포함하며, 이는 비교 근동학에서 실질적으로 주목되어 왔다.
 
-The Egyptian tradition preserves multiple first-human creation narratives across its long pharaonic history.
+코퍼스는 엔키두를 창세기 서사에 보존된 것과 유사한 운영적 사건들 — 교육, 문명, 인지 발달의 초기 인간 경험 — 의 단편적 기억을 보존하는 것으로 읽으며, 특정 엔키두 인물은 직접적 역사적 지시체가 아니라 메소포타미아 전통의 문학적-신화적 구성물이다.
 
-The **Atum tradition** holds that Atum (the primordial creator god of Heliopolis) created the first humans through self-generation, with various subsequent traditions elaborating the narrative.
+### 이집트 창조 전통
 
-The **Khnum tradition** holds that Khnum, the ram-headed creator god, formed humans on a potter's wheel from clay — a substantial parallel to the Genesis 2:7 "dust of the ground" formation language. The Khnum-as-potter iconography is preserved in numerous Egyptian temple reliefs (notably at Esna and Dendera) showing the god forming humans on his wheel.
+이집트 전통은 그 긴 파라오 역사 전반에 걸쳐 다수의 최초 인간 창조 서사를 보존한다.
 
-The **Memphite Theology** (preserved on the Shabaka Stone, c. 8th century BCE, but reflecting older theological tradition) presents Ptah, the Memphite creator god, creating humans through divine speech — a parallel to Genesis 1's creation through speech.
+**아툼 전통**은 아툼(헬리오폴리스의 원초적 창조신)이 자기-생성을 통해 최초의 인간을 창조했다고 보며, 다양한 후속 전통이 그 서사를 부연한다.
 
-The corpus reads the Egyptian first-human traditions as preserving fragmentary memory of the African-region creator team's work, with the specific cultural-mythological framing reflecting the Egyptian tradition's distinctive theological apparatus. The substantial parallels to the Hebrew Genesis narrative (particularly the Khnum-as-potter parallel to the dust-of-the-ground formation) are read as evidence of the underlying common operational reality the various cultural traditions preserve in their distinctive forms.
+**크눔 전통**은 숫양 머리의 창조신 크눔이 점토로 도공의 물레에서 인간을 형성했다고 본다 — 창세기 2:7의 "땅의 흙" 형성 언어에 대한 실질적 평행. 크눔-도공 도상학은 신이 그의 물레에서 인간을 형성하는 것을 보여주는 수많은 이집트 신전 부조(특히 에스나와 덴데라에서)에 보존되어 있다.{{ cite(id="allen-genesis-in-egypt", text="[19]", title="앨런, *Genesis in Egypt: The Philosophy of Ancient Egyptian Creation Accounts* (1988)") }}
 
-### Hindu Manu
+**멤피스 신학**(샤바카 석에 보존됨, 기원전 약 8세기이지만 더 오래된 신학 전통을 반영함)은 멤피스 창조신 프타가 신적 발화를 통해 인간을 창조하는 것으로 제시한다 — 발화를 통한 창세기 1장의 창조에 대한 평행.
 
-The Hindu tradition preserves the figure of **Manu** as the first man and the progenitor of humanity. The principal Manu traditions:
+코퍼스는 이집트의 최초 인간 전통들을 아프리카-지역 창조자 팀의 작업에 대한 단편적 기억을 보존하는 것으로 읽으며, 특정 문화-신화적 틀은 이집트 전통의 독특한 신학적 장치를 반영한다. 히브리 창세기 서사에 대한 실질적 평행(특히 흙-형성에 대한 크눔-도공 평행)은 다양한 문화 전통이 그 독특한 형태로 보존하는 기저의 공통 운영적 실재의 증거로 읽힌다.
 
-**Manu Vaivasvata** ("Manu, son of Vivasvat") is the figure of the *Shatapatha Brahmana* (c. 9th–7th century BCE) and the *Mahabharata* who survives the great flood (the Indian flood narrative paralleling the Mesopotamian and Hebrew flood traditions) and becomes the progenitor of post-flood humanity. The Manu-Vaivasvata flood narrative includes the figure of a fish (avatar of Vishnu in later tradition) who warns Manu of the impending flood and provides for his survival.
+### 힌두의 마누
 
-The **Manu Smriti** ("Laws of Manu," c. 2nd century BCE – 3rd century CE) is the principal Hindu legal-religious text attributed to Manu, with the text providing the foundational legal-social framework of classical Hindu civilization.
+힌두 전통은 **마누**의 형상을 최초의 인간이자 인류의 시조로 보존한다. 주된 마누 전통들은 다음과 같다.
 
-The Manu tradition's structural parallels to the Adam-and-Eve narrative include:
+**마누 바이바스바타**("마누, 비바스바트의 아들")는 대홍수(메소포타미아 및 히브리 홍수 전통과 평행하는 인도 홍수 서사)에서 살아남아 대홍수 이후 인류의 시조가 되는 *샤타파타 브라마나*(기원전 약 9–7세기) 및 *마하바라타*의 인물이다.{{ cite(id="doniger-hindu-myths", text="[20]", title="도니거, *Hindu Myths: A Sourcebook* (1975) — 마누 최초 인간 및 홍수 전통") }} 마누-바이바스바타 홍수 서사는 다가오는 대홍수를 마누에게 경고하고 그의 생존을 마련해 주는 물고기(후대 전통에서 비슈누의 화신)의 형상을 포함한다.
 
-- The figure of the first man as the progenitor of subsequent humanity
-- The specific narrative of the first man's relationship to the gods / divine authority
-- The legal-social codification associated with the figure (paralleling the Hebrew tradition's later Mosaic codification)
+**마누 스므리티**("마누 법전", 기원전 약 2세기 – 기원후 3세기)는 마누에게 귀속되는 주된 힌두 법-종교 텍스트로, 고전 힌두 문명의 토대적 법-사회적 틀을 제공한다.
 
-The corpus reads the Manu tradition as preserving fragmentary memory of the Indian-subcontinent creator team's work, with the specific cultural-religious framing reflecting the Hindu tradition's distinctive theological apparatus. The Manu-Vaivasvata flood narrative's parallel to the Hebrew Noah narrative is treated more fully in the [Great Flood](../great-flood/) entry (when written).
+마누 전통의 아담-하와 서사에 대한 구조적 평행은 다음을 포함한다.
 
-### Chinese Pangu and Nüwa
+- 후속 인류의 시조로서의 최초 인간의 형상
+- 신들 / 신적 권위에 대한 최초 인간의 관계의 특정 서사
+- 그 인물과 결부된 법-사회적 성문화(히브리 전통의 후대 모세 성문화에 대한 평행)
 
-The Chinese tradition preserves multiple early-cosmic and first-human figures.
+코퍼스는 마누 전통을 인도-아대륙 창조자 팀의 작업에 대한 단편적 기억을 보존하는 것으로 읽으며, 특정 문화-종교적 틀은 힌두 전통의 독특한 신학적 장치를 반영한다. 마누-바이바스바타 홍수 서사의 히브리 노아 서사에 대한 평행은 [대홍수](../great-flood/) 항목(작성될 때)에서 보다 충실하게 다루어진다.
 
-**Pangu** (盤古) is the primordial cosmic figure who, in the *Sanwu Liji* (3rd century CE) and subsequent traditions, emerges from the cosmic egg and separates yin and yang to create the structured cosmos. Pangu's body, upon his death, becomes the various features of the cosmos (his eyes becoming the sun and moon, his breath becoming the wind, his blood becoming the rivers, etc.).
+### 중국의 반고와 여와
 
-**Nüwa** (女媧) is the goddess who creates humans from clay or yellow earth, with the principal texts being the *Huainanzi* (2nd century BCE) and various subsequent traditions. Nüwa's first humans were formed individually by her hands; subsequent humans were formed more rapidly by her dragging a rope through clay, with the result that the first individually-formed humans were of higher status than the subsequent rapidly-formed humans (the social-hierarchical justification being part of the narrative).
+중국 전통은 다수의 초기-우주적 및 최초 인간 인물을 보존한다.
 
-The corpus reads the Chinese first-human traditions as preserving fragmentary memory of the East Asian creator team's work, with the specific cultural-mythological framing reflecting the Chinese tradition's distinctive cosmological apparatus (the Pangu-cosmic-body cosmogony, the Nüwa-clay-formation parallel to Genesis 2:7's dust-of-the-ground formation).
+**반고**(盤古)는 원초적 우주 인물로, *삼오력기*(기원후 3세기) 및 후속 전통에서 우주 알에서 출현하여 음과 양을 분리해 구조화된 우주를 창조한다. 반고의 몸은 그의 죽음과 더불어 우주의 다양한 특징이 된다(그의 눈은 해와 달이 되고, 그의 호흡은 바람이 되며, 그의 피는 강이 되는 등).
 
-### Norse Ask and Embla
+**여와**(女媧)는 점토 또는 황토로 인간을 창조하는 여신으로, 주된 텍스트는 *회남자*(기원전 2세기) 및 다양한 후속 전통이다.{{ cite(id="birrell-chinese-mythology", text="[21]", title="비렐, *Chinese Mythology: An Introduction* (1993) — 반고 우주생성론 및 여와 점토-형성") }} 여와의 최초 인간들은 그의 손으로 개별적으로 형성되었고, 후속 인간들은 그가 점토에 밧줄을 끌어 보다 빠르게 형성되었으며, 그 결과 개별적으로 형성된 최초 인간들이 이후의 빠르게 형성된 인간들보다 높은 지위를 가졌다(사회-위계적 정당화가 서사의 일부이다).
 
-The Norse tradition preserves the figures of **Ask** ("Ash") and **Embla** ("Elm" or possibly "Vine") as the first humans, created by the Aesir gods (Odin, Vili, and Vé in the *Prose Edda*; alternatively Odin, Hoenir, and Lóðurr in the *Poetic Edda*) from trees or wooden logs found on the seashore. The gods give the first humans breath, intelligence, and the various human capacities, with Ask and Embla becoming the progenitors of subsequent humanity.
+코퍼스는 중국의 최초 인간 전통들을 동아시아 창조자 팀의 작업에 대한 단편적 기억을 보존하는 것으로 읽으며, 특정 문화-신화적 틀은 중국 전통의 독특한 우주론적 장치(반고-우주-몸 우주생성론, 창세기 2:7의 흙-형성에 대한 여와-점토-형성 평행)를 반영한다.
 
-The structural parallels to the Adam-and-Eve narrative include:
+### 노르드의 아스크와 엠블라
 
-- A first pair (male and female) created jointly by divine figures
-- The specific giving of breath / life-force to inanimate material to produce living humans (parallel to Genesis 2:7's *nišmaṯ ḥayyîm*)
-- The progenitor role for subsequent humanity
+노르드 전통은 **아스크**("물푸레나무")와 **엠블라**("느릅나무" 또는 아마도 "덩굴")의 형상을 최초의 인간으로 보존하는데, 이들은 해안에서 발견된 나무 또는 통나무로부터 아에시르 신들(*산문 에다*에서는 오딘, 빌리, 베; 대안적으로 *시 에다*에서는 오딘, 회니르, 로두르)에 의해 창조되었다.{{ cite(id="lindow-norse-mythology", text="[22]", title="린도우, *Norse Mythology* (2001) — 아스크와 엠블라 최초 인간 서사") }} 신들은 최초 인간에게 호흡, 지능, 그리고 다양한 인간 능력을 부여하며, 아스크와 엠블라는 후속 인류의 시조가 된다.
 
-The corpus reads the Norse Ask-and-Embla tradition as preserving fragmentary memory of the Northern European creator team's work, with the wooden-formation specific cultural framing reflecting the Northern European tradition's distinctive natural-environment context.
+아담-하와 서사에 대한 구조적 평행은 다음을 포함한다.
 
-### Indigenous American first-human traditions
+- 신적 인물들에 의해 공동으로 창조된 최초의 한 쌍(남자와 여자)
+- 살아 있는 인간을 산출하기 위해 무생물 물질에 호흡 / 생명력을 특정하게 부여함(창세기 2:7의 *nišmaṯ ḥayyîm*에 대한 평행)
+- 후속 인류를 위한 시조 역할
 
-Various indigenous American traditions preserve first-human creation narratives with substantial structural parallels to the Adam-and-Eve material.
+코퍼스는 노르드의 아스크-엠블라 전통을 북유럽 창조자 팀의 작업에 대한 단편적 기억을 보존하는 것으로 읽으며, 나무-형성의 특정 문화적 틀은 북유럽 전통의 독특한 자연-환경적 맥락을 반영한다.
 
-The **Maya Popol Vuh** (preserved in 16th-century Quiché Maya manuscripts but reflecting earlier oral traditions) records multiple first-human creation attempts by the gods — humans of mud (failed), humans of wood (failed), and humans of corn (successful). The corn-humans are the progenitors of subsequent Maya humanity.
+### 아메리카 원주민의 최초 인간 전통
 
-Various **North American indigenous traditions** preserve first-human narratives, with substantial variation across cultural contexts. The **Iroquois "Sky Woman"** narrative includes the first woman who falls from the sky world and becomes the matriarchal progenitor of subsequent humanity. Various **Plains tribes' traditions** preserve first-human narratives with specific cultural-mythological framings.
+다양한 아메리카 원주민 전통은 아담-하와 자료에 대한 실질적 구조적 평행을 가진 최초 인간 창조 서사를 보존한다.
 
-The corpus reads the indigenous American first-human traditions as preserving fragmentary memory of the American-continent creator teams' work — likely two or more distinct teams given the geographical scale and the substantial cultural-linguistic diversity of the indigenous American populations. The specific cultural-mythological framings reflect the distinctive contexts of each tradition's preservation.
+**마야 포폴 부**(16세기 키체 마야 사본에 보존되었으나 더 이른 구전 전통을 반영함)는 신들에 의한 다수의 최초 인간 창조 시도 — 진흙 인간(실패), 나무 인간(실패), 옥수수 인간(성공) — 를 기록한다.{{ cite(id="tedlock-popol-vuh", text="[23]", title="텍록(역), *Popol Vuh: The Mayan Book of the Dawn of Life* (1996)") }} 옥수수 인간은 후속 마야 인류의 시조이다.
 
-### The convergence
+다양한 **북아메리카 원주민 전통**은 문화적 맥락에 걸쳐 실질적 변이와 함께 최초 인간 서사를 보존한다. **이로쿼이 "하늘 여인"** 서사는 하늘 세계에서 떨어져 후속 인류의 모권적 시조가 되는 최초의 여인을 포함한다. 다양한 **평원 부족들의 전통**은 특정 문화-신화적 틀과 함께 최초 인간 서사를 보존한다.
 
-The corpus's working position on the comparative-first-human question is that the global recurrence of first-human creation narratives across cultures is meaningful as evidence of broader operational patterns. The seven creator teams' parallel work across the antediluvian supercontinent produced parallel first-human pairs in distinct lineages, with each lineage's subsequent cultural-religious tradition preserving fragmentary memory of its specific founding event in distinctive cultural-mythological forms. Adam and Eve are the first humans of one specific lineage — the Israel-team lineage — with their narrative preserved in the Hebrew tradition. Adapa, Manu, Pangu, Nüwa, Ask, Embla, and the various indigenous American first-human figures are parallel first-humans of other lineages, with their narratives preserved in their respective cultural traditions.
+코퍼스는 아메리카 원주민의 최초 인간 전통들을 아메리카-대륙 창조자 팀들의 작업에 대한 단편적 기억을 보존하는 것으로 읽는다 — 지리적 규모와 아메리카 원주민 인구의 실질적 문화-언어적 다양성을 감안하면 아마도 둘 이상의 구별되는 팀일 것이다. 특정 문화-신화적 틀은 각 전통의 보존의 독특한 맥락을 반영한다.
 
-The corpus does not claim that every first-human narrative across world traditions is a direct memory of an actual creator-team operation — many such narratives are independently developed mythological constructions of their respective cultures. What the framework registers is that the substantial cross-cultural pattern is consistent with the seven-creator-team picture the framework reads, with various cultural traditions preserving aspects of this reality in their own distinctive cultural-mythological forms.
+### 수렴
 
-## See also
+비교적-최초-인간 문제에 대한 코퍼스의 작업 입장은 문화들에 걸친 최초 인간 창조 서사의 전 지구적 반복이 보다 광범위한 운영적 패턴의 증거로서 유의미하다는 것이다. 대홍수 이전 초대륙 전반에 걸친 일곱 창조자 팀의 병행 작업은 구별되는 계통들에서 병행하는 최초 인간 쌍을 산출했으며, 각 계통의 후속 문화-종교적 전통은 그 특정 창설 사건에 대한 단편적 기억을 독특한 문화-신화적 형태로 보존한다. 아담과 하와는 한 특정 계통 — 이스라엘 팀 계통 — 의 최초 인간이며, 그들의 서사는 히브리 전통에 보존되어 있다. 아다파, 마누, 반고, 여와, 아스크, 엠블라, 그리고 다양한 아메리카 원주민의 최초 인간 인물들은 다른 계통들의 병행 최초 인간이며, 그들의 서사는 각자의 문화 전통에 보존되어 있다.
 
-- [Eden](../eden/)
-- [Genesis](../genesis/)
-- [Serpent](../serpent/)
-- [Lucifer](../lucifer/)
-- [Yahweh](../yahweh/)
-- [Elohim](../elohim/)
-- [Tree of Knowledge](../tree-of-knowledge/)
-- [Tree of Life](../tree-of-life/)
-- [Cain and Abel](../cain-and-abel/)
-- [Antediluvian](../antediluvian/)
-- [Sons of Elohim](../sons-of-elohim/)
-- [Nephilim](../nephilim/)
-- [Hebrew](../hebrew/)
-- [Hebrew Bible](../hebrew-bible/)
-- [Prophet](../prophet/)
-- [Mary](../mary/)
-- [Council of the Eternals](../council-of-eternals/)
-- [The Alliance](../the-alliance/)
-- [Great Flood](../great-flood/)
-- [Age of Leo](../timeline/age-of-leo/)
-- [Age of Cancer](../timeline/age-of-cancer/)
-- [Atra-ḫasīs](../atra-hasis/)
-- [Epic of Gilgamesh](../epic-of-gilgamesh/)
-- [Documentary Hypothesis](../documentary-hypothesis/)
-- [Jean Sendy](../jean-sendy/)
-- [Mauro Biglino](../mauro-biglino/)
-- [Paul Anthony Wallis](../paul-anthony-wallis/)
-
-## References
-
-Vorilhon, Claude (Raël). *The Book Which Tells the Truth* (1974), chapter 2; collected in *Message from the Designers*.
-
-Vorilhon, Claude (Raël). *Extra-Terrestrials Took Me to Their Planet* (1975); collected in *Message from the Designers*.
-
-Sendy, Jean. *Ces dieux qui firent le ciel et la terre*. Robert Laffont, 1969. English: *Those Gods Who Made Heaven and Earth*. Berkley, 1972.
-
-Biglino, Mauro, and Giorgio Cattaneo. *The Naked Bible: The Truth About the Most Famous Book in History*. Uno, 2022.
-
-Wallis, Paul Anthony. *The Eden Conspiracy*. 6th Books, 2024.
-
-*Biblia Hebraica Stuttgartensia*. Deutsche Bibelgesellschaft, 4th rev. ed., 1997.
-
-Sarna, Nahum. *Genesis: The JPS Torah Commentary*. Jewish Publication Society, 1989.
-
-Westermann, Claus. *Genesis 1–11: A Continental Commentary*. Fortress, 1994.
-
-Skinner, John. *A Critical and Exegetical Commentary on Genesis*. International Critical Commentary, T&T Clark, 1910.
-
-von Rad, Gerhard. *Genesis: A Commentary*. Westminster, 1961.
-
-Augustine. *City of God*. Trans. Henry Bettenson. Penguin Classics, 1972.
-
-Augustine. *On the Merits and Forgiveness of Sins, and on Infant Baptism*. In *Anti-Pelagian Works*, trans. Peter Holmes. T&T Clark.
-
-Pagels, Elaine. *Adam, Eve, and the Serpent*. Random House, 1988.
-
-Trible, Phyllis. *God and the Rhetoric of Sexuality*. Fortress, 1978.
-
-Meyers, Carol. *Discovering Eve: Ancient Israelite Women in Context*. Oxford University Press, 1988.
-
-Plaskow, Judith. *Standing Again at Sinai: Judaism from a Feminist Perspective*. Harper, 1990.
-
-Plaskow, Judith. "The Coming of Lilith" (1972). In *The Coming of Lilith: Essays on Feminism, Judaism, and Sexual Ethics*, 1972–2003. Beacon, 2005.
-
-*The Alphabet of Ben Sira* (medieval Hebrew text, c. 8th–10th century CE). Trans. Norman Bronznick. In *Rabbinic Fantasies*, ed. David Stern and Mark Jay Mirsky. JPS, 1990.
-
-*Zohar*. Pritzker Edition, trans. Daniel Matt et al. Stanford University Press, 2003–2017.
-
-Lambert, W. G., and A. R. Millard. *Atra-ḫasīs: The Babylonian Story of the Flood*. Oxford University Press, 1969.
-
-George, Andrew, ed. and trans. *The Epic of Gilgamesh: The Babylonian Epic Poem and Other Texts in Akkadian and Sumerian*. Penguin Classics, 1999.
-
-Foster, Benjamin R. *Before the Muses: An Anthology of Akkadian Literature*. CDL Press, 3rd ed., 2005.
-
-Allen, James P. *Genesis in Egypt: The Philosophy of Ancient Egyptian Creation Accounts*. Yale Egyptological Studies, 1988.
-
-Doniger, Wendy. *Hindu Myths: A Sourcebook*. Penguin Classics, 1975.
-
-Birrell, Anne. *Chinese Mythology: An Introduction*. Johns Hopkins University Press, 1993.
-
-Lindow, John. *Norse Mythology: A Guide to the Gods, Heroes, Rituals, and Beliefs*. Oxford University Press, 2001.
-
-Tedlock, Dennis, trans. *Popol Vuh: The Mayan Book of the Dawn of Life*. Touchstone, 1996.
-
-Smith, Joseph. *Doctrine and Covenants*. Church of Jesus Christ of Latter-day Saints, various editions.
-
-Brown, Francis, S. R. Driver, and Charles A. Briggs. *A Hebrew and English Lexicon of the Old Testament* (BDB). Oxford, 1907.
-
-*The Hebrew and Aramaic Lexicon of the Old Testament* (HALOT), Koehler-Baumgartner. Brill, 2001.
-
-"Adam and Eve." *Encyclopaedia Britannica*. <https://www.britannica.com/topic/Adam-and-Eve>
-
-"Adam." *Encyclopaedia Britannica*. <https://www.britannica.com/topic/Adam-Hebrew-mythology>
-
-"Eve." *Encyclopaedia Britannica*. <https://www.britannica.com/topic/Eve-Hebrew-mythology>
-
-"Lilith." *Encyclopaedia Britannica*. <https://www.britannica.com/topic/Lilith-Jewish-folklore>
-
-"Original sin." *Encyclopaedia Britannica*. <https://www.britannica.com/topic/original-sin>
+코퍼스는 세계 전통들에 걸친 모든 최초 인간 서사가 실제 창조자-팀 운영의 직접적 기억이라고 주장하지 않는다 — 그러한 서사들 중 다수는 각자의 문화의 독립적으로 발전된 신화적 구성물이다. 프레임워크가 등록하는 바는 실질적인 범문화적 패턴이 프레임워크가 읽는 일곱 창조자 팀 그림과 합치하며, 다양한 문화 전통이 이 실재의 측면들을 그들 자신의 독특한 문화-신화적 형태로 보존한다는 것이다.
