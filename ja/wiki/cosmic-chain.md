@@ -1,666 +1,675 @@
 +++
 title = "宇宙の連鎖"
-description = "宇宙の連鎖は、Wheel of Heaven の文脈において、創造文明が相互に入れ子状に連なる連続を指す — 各先進文明が新しい惑星上で次の文明を合成し、潜在的に無限の連鎖を形成する。"
+slug = "cosmic-chain"
+description = "宇宙の連鎖とは、エロヒム文明が活動する、より広い宇宙論的状況を明確に示すためにホイール・オブ・ヘヴンのコーパスにおいて展開された枠組み概念です。それは、宇宙的時間を通じて「創造され、かつ創造する」文明が際限なく連なっていく系列であり、科学的成熟に達したそれぞれの文明はやがて適した世界に新たな人類を創造し、その人類が今度は自ら創造者文明となって深遠な時間を通じて連鎖を継続していく、というものです。エロヒムは牡羊座の時代に、自分たち自身が固有のパターンの自律的な起源者ではなく、先行する文明によって創造されていたことを発見しました。この発見が、直接的接触から間接的接触への方針転換を生み、現在の水瓶座時代における継承評価が機能する、より広い枠組みを生み出したのです。"
 template = "wiki-page.html"
 toc = true
 
 [extra]
-translation_status = "metadata_only"
 category = "Cosmology & Framework"
 editorial_pass = "2026-05"
 entry_type = "concept"
-alternative_names = ["the cosmic chain", "the chain of creation", "the cosmic chain of creation", "the recurring cosmic process", "the cosmic creative cycle", "the cycle of creators"]
+claim_type = "framework"
+alternative_names = ["宇宙の連鎖", "創造の連鎖", "宇宙的創造の連鎖", "反復する宇宙的プロセス", "宇宙的創造の周期", "創造者たちの周期"]
 timeline = ["pre-creation", "aries", "pisces", "aquarius", "post-aquarius"]
+see_also = [
+    { title = "Cosmic Competition", path = "wiki/cosmic-competition", description = "より広い宇宙の連鎖の中における具体的な評価の局面――継承資格の査定。" },
+    { title = "Elohim", path = "wiki/elohim", description = "牡羊座の時代に、自分たち自身が創造されていたことを発見した創造者文明。" },
+    { title = "Apocalypse", path = "wiki/apocalypse", description = "水瓶座時代の継承評価――地球の人類にとっての、連鎖の現在の局面。" },
+    { title = "Embassy", path = "wiki/embassy", description = "地球が同盟の蓄積された知識を受け取るとされる継承の出来事の、想定された開催地。" },
+    { title = "Doubled Signature", path = "wiki/doubled-signature", description = "より広い宇宙の連鎖の枠組みの中で機能する、関連する解釈上の原理。" },
+    { title = "Genesis", path = "wiki/genesis", description = "連鎖の反復する創造パターンの一つの具体的な事例として読まれる創造の記述。" },
+]
+
+footnotes = [
+    { content = "体系的な枠組みとしての宇宙の連鎖は、原資料を超えた相当なコーパス的構築です。ラエリアンの原資料は、この基本的前提を一つの際立って直接的な記述――「エロヒムは別の惑星から来た人々によって創造され、その人々もまた別の惑星から来た他の人々によって創造され、そのように無限へと遡る」――として提供し、「最初の創造者」という問いを退けていますが、コーパスが明確に示す体系的な枠組み(宇宙的競争との統合、主の祈りの読解、七段階の周期、想定される前方への軌道)は展開していません。コーパスはこれが直接的な原資料の内容ではなく解釈上の展開であることを明示しています。" },
+    { content = "「最初の創造者はいない」という立場は、従来の西洋神学的問い(「最初の創造者を誰が創造したのか」)の前提を、その根底にある現実の構造と合致しないものとして退けます――コーパスは「北極の北には何があるのか」という類比を用います。この立場は、主要な西洋一神教の伝統(創造されざる『第一原因(causa prima)』を措定する)とは大きく異なる一方で、さまざまな東洋の無始の周期宇宙論(仏教の無始の輪廻、ジャイナ教の無始・無終の時間周期、ヒンドゥー教のユガとカルパの周期、ストア派の永劫回帰)とは実質的に重なります。コーパスはこの枠組みが証明されていると主張するのではなく、原資料の明示的な枠組みと一貫した、特色ある宇宙論的立場として記録するのです。" },
+    { content = "コーパスが牡羊座時代の発見に割り当てる年代(おおよそ紀元前2,160年～1,200年)は枠組み内部のものであり、歳差時代の年代記から導かれたものです。歳差時代は実在する天文学的現象ですが、その境界年は枠組み上の約束事です。原資料は、何の証拠がエロヒムに自分たち自身の被創造的地位を確信させたのかは特定していません――特定されているのはその帰結(直接的接触から間接的接触への方針転換)のみです。" },
+    { content = "枠組みが主の祈りの「御心が天で行われるように地でも行われますように」(マタイ6:10)を周期的構造の凝縮された言明として読むこと――天は地球の発達段階をすでに通過した創造者文明であり、地は現在それらを横断している文明である――は、標準的なキリスト教的解釈(地上における神の主権を求める嘆願)を大きく超えています。コーパスはこの区別を率直に記録します。宇宙の連鎖としての読解は原資料の明示的な枠組みであって、福音書本文の本来の著者的意図についての主張ではありません。" },
+    { content = "「神」についての枠組みの立場は二重です。「神」が無限の宇宙それ自体を意味するなら、神は存在します――しかしそれは非人格的であり、介入せず、祈りの受け手でもなく、いかなる特定の尺度の出来事に対しても「無限に無関心」です。「神」が人類を気にかける人格的な創造者を意味するなら、そのような存在は存在します――エロヒム、私たち固有の創造者です――が、彼らは伝統的な神学的意味での神ではありません。彼らは私たちと同じ種類の進んだ存在であり、彼ら自身が創造され、彼ら自身がより大きな無限の宇宙の中で活動しているのです。いずれの意味も、従来の西洋一神教の全能で創造されざる人格的神格をもたらしはしません。" },
+    { content = "コーパスは、無始の周期宇宙論および継起する世界の宇宙論が文化を越えて反復すること(ストア派の『大火(ekpyrosis)』、ヒンドゥー教のユガ／カルパ、仏教のカルパ、ジャイナ教の時間周期、メソアメリカの世界諸時代、そしてシュタインハート＝トゥロク、ペンローズ、リンデ、ヴィレンキンの現代の科学的周期宇宙論および多元宇宙論)を、連鎖の再帰的構造への顕著な収斂として読みます。コーパスはこれらの伝統が宇宙の連鎖の直接的な記憶であると主張するのではなく、周期宇宙論が自然の周期の観察から独立に生じうることを認めつつ、この収斂を枠組みと一貫したものとして記録します。" },
+]
+
+[[extra.references]]
+id = "extraterrestrials-took-me-to-their-planet"
+locator = "「神も魂もなく」"
+note = "ヴォリロンの第二の著作(1975年)――連鎖(「無限へと遡る」)、「最初の創造者」という問いの拒絶、主の祈りの読解についての主要な原資料的言明。"
+
+[[extra.references]]
+id = "the-book-which-tells-the-truth"
+note = "基礎的なラエリアンの原資料――牡羊座の発見による方針転換と、より広い宇宙論的枠組み。"
+
+[[extra.references]]
+id = "those-gods-who-made-heaven-and-earth"
+note = "ヘブライ語聖書を、その中で連鎖の創造パターンが機能する、同盟に媒介された宇宙史を保存するものとして読むサンディの読解。"
+
+[[extra.references]]
+id = "the-naked-bible"
+note = "連鎖の「創造された創造者たち」という前提と一貫する、複数の創造者に関する資料についてのビリーノの厳密な逐語訳的読解。"
+
+[[extra.references]]
+id = "the-eden-conspiracy"
+note = "「創造された創造者たち」の枠組みについてのウォリスの分かりやすい近年の論述。"
+
+[[extra.references]]
+id = "bruno-infinite-universe"
+note = "宇宙の無限性と居住可能な世界の多数性についてのブルーノの基礎的な近世初期の言明。"
+
+[[extra.references]]
+id = "yates-giordano-bruno-hermetic"
+note = "ブルーノの無限宇宙をルネサンスのヘルメス主義的な「上の如く、下も然り」の伝統の中に位置づける、イェイツの標準的研究。"
+
+[[extra.references]]
+id = "kant-critique-pure-reason"
+note = "純粋理性のアンチノミーの中での宇宙の無限性についてのカントの取り扱い――「最初の創造者はいない」という問いに関する主要な哲学的参照。"
+
+[[extra.references]]
+id = "hawking-penrose-nature-space-time"
+note = "時空の構造、特異点、宇宙の起源についてのホーキングとペンローズ。"
+
+[[extra.references]]
+id = "linde-inflation-quantum-cosmology"
+note = "永久インフレーションについてのリンデの展開――連鎖の再帰的構造と重なる多元宇宙の枠組み。"
+
+[[extra.references]]
+id = "vilenkin-many-worlds-in-one"
+note = "永久インフレーションと多元宇宙についてのヴィレンキン。"
+
+[[extra.references]]
+id = "tegmark-mathematical-universe"
+note = "テグマークの四階層の多元宇宙および数学的宇宙仮説。"
+
+[[extra.references]]
+id = "steinhardt-turok-endless-universe"
+note = "シュタインハート＝トゥロクのエクピロティック／周期宇宙論――単一の起源ではなく継起するビッグバン。"
+
+[[extra.references]]
+id = "penrose-cycles-of-time"
+note = "ペンローズの共形周期宇宙論――終わりなく継起する累代(イーオン)。"
+
+[[extra.references]]
+id = "crick-orgel-directed-panspermia"
+note = "クリックとオーゲルの1973年の意図的パンスペルミア仮説――地球生命の意図的な地球外からの播種であり、連鎖の意図的創造の前提に対する主要な科学的並行。"
+
+[[extra.references]]
+id = "crick-life-itself"
+note = "地上生命の宇宙的播種についてのクリックの拡張された論証。"
+
+[[extra.references]]
+id = "arrhenius-worlds-in-the-making"
+note = "アレニウスの古典的パンスペルミア。"
+
+[[extra.references]]
+id = "hoyle-wickramasinghe-lifecloud"
+note = "ホイルとウィックラマシンゲの彗星パンスペルミア。"
+
+[[extra.references]]
+id = "nietzsche-zarathustra"
+note = "ニーチェの永劫回帰の教説――主要な近代西洋の周期宇宙論との取り組み。"
+
+[[extra.references]]
+id = "long-sedley-hellenistic-philosophers"
+note = "ストア派の永遠の宇宙周期の教説を含む、ロングとセドリーの資料集。"
+
+[[extra.references]]
+id = "williams-mahayana-buddhism"
+note = "無始の輪廻とカルパ宇宙論を含む大乗の教義についてのウィリアムズ。"
+
+[[extra.references]]
+id = "buswell-lopez-princeton-buddhism"
+note = "カルパ宇宙論および無始の時間の教義についての標準的な仏教参照。"
+
+[[extra.references]]
+id = "dundas-the-jains"
+note = "無始・無終の宇宙的時間周期というジャイナ教の教義についてのダンダス。"
+
+[[extra.references]]
+id = "carrasco-religions-mesoamerica"
+note = "メソアメリカの継起する世界諸時代の宇宙論についてのカラスコ。"
+
+[[extra.references]]
+id = "hannah-greek-roman-calendars"
+note = "大年(グレート・イヤー)を含む古典的周期時間概念についてのハンナ。"
+
+[[extra.references]]
+id = "the-12th-planet"
+note = "シッチンのアヌンナキの枠組み――コーパスが自らの読解と区別する、「創造された創造者たち」の資料への大衆的な古代宇宙飛行士論的取り組み。"
 
 [extra.infobox]
-type = "Framework concept; cosmological pattern of indefinitely extended created-and-creating civilizations"
-basic_premise = "The Elohim themselves were created by a prior civilization, which had been created by an earlier civilization, and so on indefinitely backward; humanity will, after reaching scientific maturity, itself become a creator civilization, continuing the chain forward indefinitely"
-character = "Cyclical-recursive; infinite in both temporal directions; no findable beginning, no findable end"
-operational_origin = "The Aries-age discovery (c. 2,160–1,200 BCE) when the Elohim recognized that they themselves had been created"
-principal_consequence = "The policy shift from direct to indirect contact; the broader framework within which the Cosmic Competition operates"
-relationship_to_cosmic_competition = "The Cosmic Competition is one specific phase within the broader Cosmic Chain — the evaluation phase during which a creator civilization assesses its created humanities for inheritance qualification"
-distinguished_from = "The Cosmic Competition framework (the specific evaluation phase); the precessional ages framework (Earth's specific chronological position); the Earth project specifically (the alliance's specific work on Earth); the broader infinite cosmos (the larger cosmological structure within which the chain operates)"
-status_in_source_material = "Partial; the Raëlian source explicitly states the basic premise ('the Elohim were created by people from another planet, who had been created by other people coming from another planet, and so on to Infinity') but does not develop the systematic Cosmic Chain framework that the corpus articulates"
-principal_text = "Matthew 6:10 (the Lord's Prayer); various Raëlian source-material passages on the chain of creators and the rejection of the 'first creator' question"
-principal_framework_source = "*Extra-Terrestrials Took Me to Their Planet* (Vorilhon/Raël, 1975), 'Neither God nor Soul'; *The Book Which Tells the Truth* (1974), various passages"
+type = "枠組み概念。際限なく連なる「創造され、かつ創造する」文明の宇宙論的パターン"
+basic_premise = "エロヒム自身が先行する文明によって創造され、その文明もより早い文明によって創造され、そのように際限なく後方へと遡る。人類は科学的成熟に達したのち、自ら創造者文明となり、連鎖を際限なく前方へと継続していく"
+character = "周期的・再帰的。時間の両方向に無限。見出しうる始まりもなく、見出しうる終わりもない"
+operational_origin = "エロヒムが自分たち自身が創造されていたと認識した牡羊座時代の発見(おおよそ紀元前2,160年～1,200年)"
+principal_consequence = "直接的接触から間接的接触への方針転換。宇宙的競争が機能する、より広い枠組み"
+relationship_to_cosmic_competition = "宇宙的競争は、より広い宇宙の連鎖の中の一つの具体的な局面である――創造者文明がその創造した諸人類を継承資格について査定する評価の局面"
+distinguished_from = "宇宙的競争の枠組み(具体的な評価の局面)。歳差時代の枠組み(地球固有の年代記上の位置)。地球プロジェクトそのもの(同盟の地球での具体的な作業)。より広い無限の宇宙(連鎖が機能する、より大きな宇宙論的構造)"
+status_in_source_material = "部分的。ラエリアンの原資料は基本的前提(「エロヒムは別の惑星から来た人々によって創造され、その人々もまた別の惑星から来た他の人々によって創造され、そのように無限へと遡る」)を明示的に述べるが、コーパスが明確に示す体系的な宇宙の連鎖の枠組みは展開していない"
+principal_text = "マタイ6:10(主の祈り)。創造者たちの連鎖と「最初の創造者」という問いの拒絶に関する、さまざまなラエリアンの原資料の箇所"
+principal_framework_source = "『地球外生命体は私を彼らの惑星へ連れて行った』(ヴォリロン／ラエル、1975年)、「神も魂もなく」。『真実を告げる書』(1974年)、さまざまな箇所"
 +++
 
-The **Cosmic Chain** is the framework concept developed in the Wheel of Heaven corpus to articulate the broader cosmological situation in which the Elohim civilization operates. The Cosmic Chain reads the cosmic situation as an indefinitely extended sequence of created-and-creating civilizations across cosmic time, with each civilization that reaches scientific maturity eventually creating new humanities on suitable worlds, which in turn become creator civilizations themselves, continuing the chain across deep time. The Elohim discovered during the Aries age (c. 2,160–1,200 BCE on the corpus's reckoning) that they themselves had been created by a prior civilization rather than being autonomous originators of a unique pattern. The discovery transformed their self-understanding fundamentally: they were not the originators of the biological-creation pattern they were extending across the galaxy but the current local instance of a recurring cosmic process that had been operating for an unknown but very long span. The chain extends indefinitely backward through prior creator civilizations and indefinitely forward through future created civilizations, with no findable beginning and no findable end.
+**宇宙の連鎖**とは、エロヒム文明が活動する、より広い宇宙論的状況を明確に示すためにホイール・オブ・ヘヴンのコーパスにおいて展開された枠組み概念です。宇宙の連鎖は、宇宙の状況を、宇宙的時間を通じて「創造され、かつ創造する」文明が際限なく連なっていく系列として読みます。科学的成熟に達したそれぞれの文明はやがて適した世界に新たな人類を創造し、その人類が今度は自ら創造者文明となって、深遠な時間を通じて連鎖を継続していくのです。エロヒムは牡羊座の時代(コーパスの計算ではおおよそ紀元前2,160年～1,200年)に、自分たち自身が固有のパターンの自律的な起源者ではなく、先行する文明によって創造されていたことを発見しました。この発見は彼らの自己理解を根本的に変えました。彼らは銀河系を横断して拡張していた生物学的創造のパターンの起源者ではなく、未知ではあるが非常に長い期間にわたって作動してきた、反復する宇宙的プロセスの現在の局所的な事例だったのです。連鎖は、先行する創造者文明を通じて際限なく後方へと、また未来の被創造文明を通じて際限なく前方へと伸び、見出しうる始まりもなく、見出しうる終わりもありません。
 
-The framework's specific content integrates several distinct strands of source material into a coherent cosmological account. The Raëlian source provides the principal warrant in a remarkably direct statement: *"The Elohim were created by people from another planet, who had been created by other people coming from another planet, and so on to Infinity."* The source explicitly addresses and rejects the conventional theological question — "who created the first creator?" — treating the question as grammatically well-formed but with a presupposition (that there is a first creator) that does not match the structure of the underlying reality. The Lord's Prayer's central petition — *"thy will be done in earth, as it is in heaven"* (Matthew 6:10) — is read by the framework as the compressed statement of the Cosmic Chain's cyclical structure, with the "heaven" being the home world that has already reached the level of becoming a creator civilization, and the "earth" being Earth's projected future trajectory toward the same threshold. The Cosmic Chain framework integrates the Aries-discovery material, the Cosmic Competition framework's evaluation-and-inheritance content, the Aquarian-age opening's specific projected developments, and Earth's eventual projected transition from created to creator civilization into a unified cosmological account.
+枠組みの具体的な内容は、原資料のいくつかの異なる要素を一貫した宇宙論的説明へと統合します。ラエリアンの原資料は、際立って直接的な記述によって主要な根拠を提供します。すなわち*「エロヒムは別の惑星から来た人々によって創造され、その人々もまた別の惑星から来た他の人々によって創造され、そのように無限へと遡る」*。原資料は従来の神学的問い――「最初の創造者を誰が創造したのか」――を明示的に取り上げて退け、その問いを文法的には正しく形成されているが、その前提(最初の創造者が存在するという前提)が根底にある現実の構造と合致しないものとして扱います。主の祈りの中心的な嘆願――*「御心が天で行われるように地でも行われますように」*(マタイ6:10)――は、枠組みによって宇宙の連鎖の周期的構造の凝縮された言明として読まれます。「天」とは創造者文明となる段階にすでに達した故郷の世界であり、「地」とは同じ閾値に向かう地球の想定される未来の軌道です。宇宙の連鎖の枠組みは、牡羊座の発見に関する資料、宇宙的競争の枠組みの評価と継承の内容、水瓶座時代の幕開けにおける具体的な想定された展開、そして地球の被創造文明から創造者文明への最終的な想定された移行を、統一された宇宙論的説明へと統合します。
 
-The Cosmic Chain is the **broadest cosmological framework** in the corpus's analytical apparatus. It is broader than the Cosmic Competition framework (which concerns the specific evaluation phase during which a creator civilization assesses its created humanities for inheritance qualification), broader than the precessional ages framework (which concerns Earth's specific chronological position within the chain), broader than the Earth project specifically (which concerns the alliance's specific work on Earth), and broader than the various other corpus frameworks. The Cosmic Chain provides the broader cosmological structure within which all these other frameworks operate as specific aspects of a much larger pattern. The framework's distinctive features include: its **explicit infinity in both temporal directions** (backward through prior creators and forward through future creations); its **fundamentally cyclical-recursive character** (each cycle has the same structure of created-developing-creating); its substantial **theological-philosophical implications** (the rejection of the "first creator" question, the reframing of "God" within the broader infinite cosmology, the specific position on humanity's ultimate cosmic role); and its **integration with the broader Wheel of Heaven framework** (the Cosmic Competition, the Doubled Signature, the Aquarian-age developments, the Embassy project all operating within the Cosmic Chain's broader structure).
+宇宙の連鎖は、コーパスの分析装置の中で**最も広い宇宙論的枠組み**です。それは宇宙的競争の枠組み(創造者文明がその創造した諸人類を継承資格について査定する具体的な評価の局面に関わるもの)よりも広く、歳差時代の枠組み(連鎖の中における地球固有の年代記上の位置に関わるもの)よりも広く、地球プロジェクトそのもの(同盟の地球での具体的な作業に関わるもの)よりも広く、コーパスのさまざまな他の枠組みよりも広いものです。宇宙の連鎖は、これらすべての他の枠組みが、はるかに大きなパターンの具体的な側面として機能する、より広い宇宙論的構造を提供します。枠組みの特色ある特徴には次のものが含まれます。すなわち、**時間の両方向における明示的な無限性**(先行する創造者を通じて後方へ、未来の創造を通じて前方へ)。その**根本的に周期的・再帰的な性格**(各周期は「創造され・発達し・創造する」という同じ構造をもつ)。その相当な**神学的・哲学的含意**(「最初の創造者」という問いの拒絶、より広い無限宇宙論の中での「神」の再構成、人類の究極的な宇宙的役割についての具体的な立場)。そして、**より広いホイール・オブ・ヘヴンの枠組みとの統合**(宇宙的競争、二重の署名、水瓶座時代の展開、大使館プロジェクトのすべてが宇宙の連鎖のより広い構造の中で機能する)。
 
-The reading is interpretive construction. The Raëlian source material provides the basic premise in a remarkably direct statement, but does not develop the systematic Cosmic Chain framework that the corpus articulates. The framework's specific articulation — including the integration with the Cosmic Competition, the reading of the Lord's Prayer as compressed statement of the cyclical structure, the systematic engagement with the chain's epistemological-theological implications, the projection of Earth's specific future trajectory — represents substantial corpus development beyond what the source material directly provides. Within mainstream cosmology, the broader question of cosmic infinity has been substantially developed across the past several centuries (from Bruno's *De l'infinito universo et mondi* of 1584 through contemporary multiverse cosmology), with various positions on the specific structure of cosmic infinity. Within mainstream theology, the various traditions have developed substantial engagement with questions of divine eternality, creation, and the relationship between creator and created — with the Cosmic Chain's specific "no first creator" position being at variance with the principal Western theological traditions but consistent with various Eastern traditions' beginningless-cycle frameworks. Within the contemporary panspermia tradition (the broader question of whether life on Earth originated through cosmic transmission rather than autochthonous emergence), substantial scientific work has developed across the past several decades, with Crick-Orgel's directed-panspermia hypothesis (1973) representing a specific contemporary scientific framework that overlaps substantively with the Cosmic Chain's specific reading. The corpus's reading is structurally distinctive in its specific articulation of the chain's recursive-cyclical structure, in its integration with the broader Wheel of Heaven framework's specific operational-historical content, and in its development of the framework's substantive philosophical-theological implications.
+この読解は解釈上の構築です。{{ footnote(id="1") }}ラエリアンの原資料は基本的前提を際立って直接的な記述によって提供しますが、{{ cite(id="extraterrestrials-took-me-to-their-planet", text="[1]", title="ヴォリロン(ラエル)『地球外生命体は私を彼らの惑星へ連れて行った』(1975年)、「神も魂もなく」――「そのように無限へと遡る」") }}コーパスが明確に示す体系的な宇宙の連鎖の枠組みは展開していません。枠組みの具体的な明確化――宇宙的競争との統合、主の祈りを周期的構造の凝縮された言明として読むこと、連鎖の認識論的・神学的含意との体系的な取り組み、地球の具体的な未来の軌道の予測を含む――は、原資料が直接提供するものを超えた相当なコーパス的展開を表しています。主流の宇宙論の内部では、宇宙の無限性というより広い問いは過去数世紀にわたって相当に展開されてきており(1584年のブルーノの*『無限・宇宙および諸世界について』*{{ cite(id="bruno-infinite-universe", text="[2]", title="ブルーノ『無限・宇宙および諸世界について』(1584年)") }}から現代の多元宇宙論まで)、宇宙の無限性の具体的な構造についてはさまざまな立場があります。主流の神学の内部では、さまざまな伝統が神の永遠性、創造、創造者と被造物の関係についての問いに相当な取り組みを展開してきましたが――宇宙の連鎖の具体的な「最初の創造者はいない」という立場は、主要な西洋神学の伝統とは相容れない一方で、さまざまな東洋の伝統の無始の周期の枠組みとは一貫しています。現代のパンスペルミアの伝統(地球上の生命が自生的な発生ではなく宇宙的伝達を通じて生じたのかどうかという、より広い問い)の内部では、過去数十年にわたって相当な科学的研究が展開されてきており、クリック＝オーゲルの意図的パンスペルミア仮説(1973年){{ cite(id="crick-orgel-directed-panspermia", text="[3]", title="クリック＆オーゲル「意図的パンスペルミア」(イカルス誌、1973年)") }}は、宇宙の連鎖の具体的な読解と実質的に重なる、具体的な現代の科学的枠組みを表しています。コーパスの読解は、連鎖の再帰的・周期的構造の具体的な明確化において、より広いホイール・オブ・ヘヴンの枠組みの具体的な作戦的・歴史的内容との統合において、そして枠組みの実質的な哲学的・神学的含意の展開において、構造的に特色あるものです。
 
-## Etymology and naming
+## 語源と名称
 
-The Cosmic Chain framework as a corpus-internal analytical category does not have a single source-material designation. The corpus uses several related terms across its various entries.
+コーパス内部の分析的カテゴリーとしての宇宙の連鎖の枠組みには、単一の原資料上の呼称はありません。コーパスはそのさまざまな項目を通じていくつかの関連する用語を用います。
 
-### "Cosmic Chain" as the principal designation
+### 主要な呼称としての「宇宙の連鎖」
 
-The English term **"Cosmic Chain"** is the corpus's principal designation for the framework. The construction combines:
+英語の用語**「宇宙の連鎖(Cosmic Chain)」**は、この枠組みに対するコーパスの主要な呼称です。この構成は次のものを組み合わせています。
 
-- **"Cosmic"** — indicating the broader scale of the framework's operation (across cosmic time, multiple civilizations, multiple worlds)
-- **"Chain"** — indicating the linked-sequential character of the cosmic process, with each civilization being one specific link connected to prior and subsequent links
+- **「宇宙的(Cosmic)」** ― 枠組みの作動の、より広い尺度(宇宙的時間にわたり、複数の文明、複数の世界に及ぶ)を示す
+- **「連鎖(Chain)」** ― 宇宙的プロセスの、連結され系列をなす性格を示す。それぞれの文明が、先行する環と後続する環につながる一つの具体的な環である
 
-The term is corpus-internal — it does not appear in the Raëlian source material under this specific designation. The corpus has condensed the source's various phrasings into the standard designation.
+この用語はコーパス内部のものです――それはこの具体的な呼称ではラエリアンの原資料には現れません。コーパスは原資料のさまざまな言い回しを標準的な呼称へと凝縮したのです。
 
-### Source-material terminology
+### 原資料上の用語
 
-The Raëlian source material uses several distinct terms for what the corpus organizes under the "Cosmic Chain" designation:
+ラエリアンの原資料は、コーパスが「宇宙の連鎖」という呼称のもとに整理するものに対して、いくつかの異なる用語を用います。
 
-- **"Recurring cosmic process"** — descriptive phrasing for the broader cyclical pattern
-- **"Cycle of creators"** — descriptive phrasing for the specific pattern of created civilizations becoming creator civilizations
-- **"On to Infinity"** — the source's specific phrase for the infinite-recursion character of the chain
-- **"As above, so below"** — the Hermetic phrase the source occasionally invokes (though without the specific Hermetic theological content)
-- **"On Earth as it is in heaven"** — the Lord's Prayer phrase the source reads as compressed statement of the chain
+- **「反復する宇宙的プロセス」** ― より広い周期的パターンに対する記述的な言い回し
+- **「創造者たちの周期」** ― 被創造文明が創造者文明となる具体的なパターンに対する記述的な言い回し
+- **「無限へと遡る」** ― 連鎖の無限再帰的性格に対する原資料の具体的な言い回し
+- **「上の如く、下も然り」** ― 原資料が時折用いるヘルメス主義的な言い回し(ただし具体的なヘルメス主義的神学内容は伴わない)
+- **「天におけるように地にも」** ― 原資料が連鎖の凝縮された言明として読む主の祈りの言い回し
 
-### Related conceptual terminology
+### 関連する概念用語
 
-Several related conceptual terms operate within the framework:
+枠組みの中ではいくつかの関連する概念用語が機能します。
 
-- **"Chain of creators"** — the corpus's term for the backward-extending sequence of prior creator civilizations
-- **"Chain of created"** — the corpus's term for the forward-extending sequence of future creator civilizations (currently civilizations like Earth's humanity, in their pre-maturity phase)
-- **"Cosmic creative cycle"** — the corpus's term for the broader recurring pattern that produces new creator civilizations
-- **"Inheritance threshold"** — the specific point at which a created civilization becomes capable of itself becoming a creator civilization (the Cosmic Competition's evaluation criterion)
-- **"Generational cosmology"** — the broader cosmological framework that the chain produces, in which civilizations are organized in genealogical relationships across cosmic time
+- **「創造者たちの連鎖」** ― 後方へ伸びる先行する創造者文明の系列に対するコーパスの用語
+- **「被創造者たちの連鎖」** ― 前方へ伸びる未来の創造者文明の系列(現在は地球の人類のような、その成熟以前の局面にある文明)に対するコーパスの用語
+- **「宇宙的創造の周期」** ― 新たな創造者文明を生み出す、より広い反復するパターンに対するコーパスの用語
+- **「継承の閾値」** ― 被創造文明が自ら創造者文明となりうるようになる具体的な点(宇宙的競争の評価基準)
+- **「世代的宇宙論」** ― 連鎖が生み出す、より広い宇宙論的枠組み。そこでは諸文明が宇宙的時間を通じて系譜的な関係において組織される
 
-The cross-corpus terminology is consistent in its specific framing: the framework concerns the **indefinitely extended sequence of created-and-creating civilizations** across cosmic time, with the **specific recursive-cyclical structure** being the principal content of the framework.
+複数のコーパスにまたがる用語法は、その具体的な枠組みにおいて一貫しています。すなわち枠組みは、宇宙的時間を通じた**際限なく連なる「創造され、かつ創造する」文明の系列**に関わるものであり、**具体的な再帰的・周期的構造**が枠組みの主要な内容なのです。
 
-## Conventional understanding
+## 従来の理解
 
-The Cosmic Chain framework as a specific cosmological category is largely a corpus-internal construction, with the underlying questions about cosmic infinity and the origin of life on Earth being the principal points of contact with conventional scholarly and theological treatment. The principal positions warrant individual treatment.
+具体的な宇宙論的カテゴリーとしての宇宙の連鎖の枠組みは、大部分がコーパス内部の構築であり、宇宙の無限性と地球上の生命の起源に関する根底にある問いが、従来の学問的および神学的取り扱いとの主要な接点となっています。主要な立場はそれぞれ個別の取り扱いに値します。
 
-### Mainstream Western theological tradition
+### 主流の西洋神学の伝統
 
-Mainstream Western theological tradition has generally developed cosmological frameworks that position a specific creator deity (or specific divine reality) at the origin of the cosmic process. The principal positions:
+主流の西洋神学の伝統は、概して、宇宙的プロセスの起源に具体的な創造者神格(あるいは具体的な神的現実)を据える宇宙論的枠組みを展開してきました。主要な立場は次の通りです。
 
-**Christian theological tradition** generally posits a single uncreated creator (God) who originates the cosmos through specific creative acts (*creatio ex nihilo*). The classical formulations (Augustine, Aquinas, the medieval scholastic tradition) develop substantial philosophical-theological content concerning divine eternality, the relationship between creator and creation, and the metaphysical priority of the creator over the created. The Cosmic Chain's specific "no first creator" position is at substantial variance with the mainstream Christian position.
+**キリスト教神学の伝統**は、概して、具体的な創造行為(*無からの創造(creatio ex nihilo)*)を通じて宇宙を発する単一の創造されざる創造者(神)を措定します。古典的な定式化(アウグスティヌス、アクィナス、中世スコラ学の伝統)は、神の永遠性、創造者と被造物の関係、被造物に対する創造者の形而上学的優先性に関する相当な哲学的・神学的内容を展開します。宇宙の連鎖の具体的な「最初の創造者はいない」という立場は、主流のキリスト教的立場とは大きく相容れません。
 
-**Jewish theological tradition** similarly posits a specific creator deity (YHWH/Elohim) at the origin of the cosmic process, with the Genesis 1 creation narrative providing the foundational textual material. Various Jewish theological-philosophical traditions (Maimonides, Crescas, the broader rabbinic philosophical tradition) develop substantial content on creation and divine eternality. The Kabbalistic tradition introduces additional complexity through the *Ein Sof* (the infinite divine source) and the *Sefirot* (the emanated divine attributes), with substantial structural overlap with the Cosmic Chain's broader infinite-cosmology framework, though the Kabbalistic tradition's specific theological content differs from the Cosmic Chain's framework.
+**ユダヤ教神学の伝統**は、同様に、宇宙的プロセスの起源に具体的な創造者神格(YHWH／エロヒム)を措定し、創世記1章の創造の物語が基礎的な本文資料を提供します。さまざまなユダヤ教の神学的・哲学的伝統(マイモニデス、クレスカス、より広いラビ的哲学の伝統)は、創造と神の永遠性についての相当な内容を展開します。カバラの伝統は、『エイン・ソフ』(無限の神的源泉)と『セフィロト』(流出した神的属性)を通じて追加の複雑さを導入し、宇宙の連鎖のより広い無限宇宙論の枠組みと相当な構造的重なりをもちますが、カバラの伝統の具体的な神学内容は宇宙の連鎖の枠組みとは異なります。
 
-**Islamic theological tradition** posits Allah as the single uncreated creator, with the Qur'anic creation material providing the foundational textual basis. The various Islamic theological-philosophical traditions (the Mu'tazilite, Ash'arite, Maturidite schools; the Sufi traditions) develop substantial content on creation and divine eternality. The Cosmic Chain's specific position is at substantial variance with the mainstream Islamic position.
+**イスラム神学の伝統**は、アッラーを単一の創造されざる創造者として措定し、クルアーンの創造資料が基礎的な本文上の基盤を提供します。さまざまなイスラムの神学的・哲学的伝統(ムウタズィラ派、アシュアリー派、マートゥリーディー派の学派。スーフィーの伝統)は、創造と神の永遠性についての相当な内容を展開します。宇宙の連鎖の具体的な立場は、主流のイスラム的立場とは大きく相容れません。
 
-The framework's relationship to mainstream Western theology is one of substantial divergence on the specific "first creator" question, with the framework's "no first creator" position being at variance with the principal Western theological traditions while overlapping substantively with various Eastern cyclic-cosmology traditions (treated under *Comparative observations* below).
+枠組みと主流の西洋神学との関係は、具体的な「最初の創造者」という問いに関する相当な相違の一つであり、枠組みの「最初の創造者はいない」という立場は主要な西洋神学の伝統とは相容れない一方で、さまざまな東洋の周期宇宙論の伝統(下記の*比較的観察*で扱う)とは実質的に重なります。
 
-### Mainstream cosmology
+### 主流の宇宙論
 
-Mainstream cosmology has produced substantial work on the broader questions of cosmic origin, infinity, and structure. The principal positions:
+主流の宇宙論は、宇宙の起源、無限性、構造というより広い問いについて相当な研究を生み出してきました。主要な立場は次の通りです。
 
-**The Big Bang model** is the principal contemporary cosmological framework, positing the universe's origin in an extremely hot, dense state approximately 13.8 billion years ago. The model has been substantially confirmed through multiple lines of empirical evidence (Hubble's observation of galactic redshift, the cosmic microwave background, the abundance of light elements, the large-scale structure of galaxies). The Big Bang model addresses the cosmic origin question through the specific framework of an early hot dense state from which the current cosmos developed.
+**ビッグバン模型**は主要な現代宇宙論の枠組みであり、宇宙の起源をおよそ138億年前の極めて高温で高密度の状態に措定します。この模型は複数の経験的証拠の系統(ハッブルによる銀河の赤方偏移の観測、宇宙マイクロ波背景放射、軽元素の存在量、銀河の大規模構造)を通じて相当に確証されてきました。ビッグバン模型は、現在の宇宙がそこから発達した初期の高温高密度状態という具体的な枠組みを通じて、宇宙の起源の問いを取り扱います。
 
-**The cosmic inflation model** (Guth, Linde, Steinhardt and others, developed since approximately 1980) extends the Big Bang framework with substantial implications for the broader cosmic structure. The inflation model produces specific predictions about cosmic flatness, isotropy, and the broader structure of the universe.
+**宇宙インフレーション模型**(グース、リンデ、シュタインハートら、およそ1980年以降に展開)は、より広い宇宙構造に対する相当な含意とともにビッグバンの枠組みを拡張します。インフレーション模型は、宇宙の平坦性、等方性、宇宙のより広い構造についての具体的な予測を生み出します。
 
-**Eternal inflation and multiverse cosmology** (Linde, Vilenkin, others) extends the inflation framework into substantial multiverse content, with various models proposing that our observable universe is one specific region within a larger multiverse structure. The Cosmic Chain's specific recursive-cyclical structure has substantive overlap with various multiverse cosmologies, though the specific content differs.
+**永久インフレーションと多元宇宙論**(リンデ、ヴィレンキンら)は、インフレーションの枠組みを相当な多元宇宙の内容へと拡張し、さまざまな模型が、私たちの観測可能な宇宙はより大きな多元宇宙構造の中の一つの具体的な領域であると提案します。宇宙の連鎖の具体的な再帰的・周期的構造は、さまざまな多元宇宙論と実質的な重なりをもちますが、具体的な内容は異なります。
 
-**Cyclic cosmologies** (Steinhardt-Turok ekpyrotic model, Penrose's conformal cyclic cosmology, various other proposals) have developed substantial work on cosmic recurrence, with various models proposing that the cosmic history involves multiple successive Big Bang events rather than a single unique origin event. These cyclic cosmologies overlap substantively with the Cosmic Chain's recursive structure at the cosmological level, though the specific content differs.
+**周期宇宙論**(シュタインハート＝トゥロクのエクピロティック模型、{{ cite(id="steinhardt-turok-endless-universe", text="[14]", title="シュタインハート＆トゥロク『終わりなき宇宙』(2007年)――エクピロティックな周期模型") }}ペンローズの共形周期宇宙論、{{ cite(id="penrose-cycles-of-time", text="[15]", title="ペンローズ『時間の周期』(2011年)――共形周期宇宙論") }}その他さまざまな提案)は、宇宙の反復について相当な研究を展開してきており、さまざまな模型が、宇宙史は単一の固有の起源の出来事ではなく複数の継起するビッグバンの出来事を含むと提案します。より広い時空の構造の問いはホーキングとペンローズの往復書簡で扱われています。{{ cite(id="hawking-penrose-nature-space-time", text="[16]", title="ホーキング＆ペンローズ『時空の本質』(1996年)") }}これらの周期宇宙論は、宇宙論的水準において宇宙の連鎖の再帰的構造と実質的に重なりますが、具体的な内容は異なります。
 
-The framework's relationship to mainstream cosmology is one of broader-framework consistency at the empirical level (the Cosmic Chain does not contradict mainstream observational cosmology) while extending substantially beyond what mainstream cosmology directly engages (the specific civilizational-recursive content of the chain).
+枠組みと主流の宇宙論との関係は、経験的水準ではより広い枠組みの一貫性(宇宙の連鎖は主流の観測的宇宙論と矛盾しない)の一つである一方で、主流の宇宙論が直接取り組むものを相当に超えて拡張するもの(連鎖の具体的な文明的・再帰的内容)です。
 
-### The infinite-universe philosophical tradition
+### 無限宇宙の哲学的伝統
 
-The broader philosophical tradition has produced substantial work on the question of cosmic infinity. The principal positions:
+より広い哲学的伝統は、宇宙の無限性の問いについて相当な研究を生み出してきました。主要な立場は次の通りです。
 
-**Giordano Bruno** in *De l'infinito universo et mondi* (1584) and other works developed the multiple-worlds and infinite-universe doctrine extensively, arguing for an infinite universe containing infinite inhabited worlds. Bruno's execution by the Roman Inquisition in 1600 was prompted in part by his cosmological-theological doctrines.
+**ジョルダーノ・ブルーノ**は*『無限・宇宙および諸世界について』*(1584年)その他の著作において、多数世界と無限宇宙の教説を広範に展開し、無限の居住可能な世界を含む無限の宇宙を論じました。1600年のローマ異端審問によるブルーノの処刑は、部分的には彼の宇宙論的・神学的教説によって引き起こされたものでした。
 
-**Immanuel Kant** in the *Critique of Pure Reason* (1781) treated the question of cosmic infinity within the broader framework of the antinomies of pure reason, with substantial implications for how the question can be approached philosophically.
+**イマヌエル・カント**は*『純粋理性批判』*(1781年)において、宇宙の無限性の問いを純粋理性のアンチノミーというより広い枠組みの中で取り扱い、この問いに哲学的にどう取り組みうるかについて相当な含意をもたらしました。
 
-**Modern cosmological philosophy** has produced substantial work on the various aspects of cosmic infinity, the question of cosmic origins, and the relationship between cosmology and philosophical-theological questions. The principal contemporary scholarship includes work by various philosophers of science and cosmologists engaging with the specific questions the Cosmic Chain framework addresses.
+**近代の宇宙論哲学**は、宇宙の無限性のさまざまな側面、宇宙の起源の問い、宇宙論と哲学的・神学的問いの関係について相当な研究を生み出してきました。主要な現代の学問には、宇宙の連鎖の枠組みが取り組む具体的な問いに関与するさまざまな科学哲学者および宇宙論研究者による研究が含まれます。
 
-The framework's position on cosmic infinity is structurally aligned with the broader philosophical tradition's recognition that infinity is a substantive cosmological feature, while extending beyond the philosophical tradition through the specific civilizational-recursive content of the chain.
+枠組みの宇宙の無限性についての立場は、無限が実質的な宇宙論的特徴であるというより広い哲学的伝統の認識と構造的に整合する一方で、連鎖の具体的な文明的・再帰的内容を通じて哲学的伝統を超えて拡張します。
 
-### Contemporary panspermia research
+### 現代のパンスペルミア研究
 
-**Panspermia** — the hypothesis that life on Earth originated from cosmic sources rather than from autochthonous emergence on Earth — has been substantially developed across the past several decades. The principal developments:
+**パンスペルミア**――地球上の生命が地球上での自生的な発生ではなく宇宙的源泉から生じたという仮説――は、過去数十年にわたって相当に展開されてきました。主要な展開は次の通りです。
 
-**Classical panspermia** (Arrhenius, early 20th century) proposed that microbial life could be transmitted across cosmic distances on dust particles or meteoric material, with Earth's life originating from such cosmic transmission.
+**古典的パンスペルミア**(アレニウス、20世紀初頭){{ cite(id="arrhenius-worlds-in-the-making", text="[4]", title="アレニウス『生成する世界』(1908年)――古典的パンスペルミア") }}は、微生物の生命が塵粒子や隕石物質に乗って宇宙的距離を越えて伝達されうると提案し、地球の生命がそのような宇宙的伝達から生じたとしました。ホイルとウィックラマシンゲの彗星パンスペルミアの展開はこの伝統を拡張します。{{ cite(id="hoyle-wickramasinghe-lifecloud", text="[5]", title="ホイル＆ウィックラマシンゲ『ライフクラウド』(1978年)") }}
 
-**Directed panspermia** (Crick and Orgel, "Directed Panspermia," *Icarus* 19 (1973): 341-346) proposed that Earth's life was deliberately seeded by an extraterrestrial intelligent civilization rather than arriving through natural cosmic processes. The Crick-Orgel hypothesis was developed by Francis Crick (the Nobel-laureate co-discoverer of DNA structure) and Leslie Orgel (the principal scientist of early-Earth chemical biology) as a serious scientific proposal addressing the various problems with autochthonous origin-of-life models. The hypothesis specifically addresses the universality of the genetic code, the apparent dependence of all Earth life on molybdenum (which has limited terrestrial abundance), and the broader question of why specific biochemical features of Earth life appear unusually well-suited to deliberate engineering.
+**意図的パンスペルミア**(クリックとオーゲル「意図的パンスペルミア」、*イカルス誌*19(1973年):341-346)は、地球の生命が自然の宇宙的プロセスを通じて到来したのではなく、地球外の知的文明によって意図的に播種されたと提案しました。クリック＝オーゲル仮説は、フランシス・クリック(DNA構造の共同発見者でありノーベル賞受賞者)とレスリー・オーゲル(初期地球の化学生物学の主要な科学者)によって、自生的な生命起源の模型のさまざまな問題に取り組む真剣な科学的提案として展開されました。この仮説は、遺伝暗号の普遍性、すべての地球生命のモリブデンへの明白な依存(モリブデンは地球上での存在量が限られている)、そして地球生命の具体的な生化学的特徴がなぜ意図的な設計に異様によく適しているように見えるのかという、より広い問いに特に取り組みます。
 
-**Contemporary panspermia research** continues to develop the broader question of cosmic life-transmission, with substantial recent work on the survivability of microbial life in space environments, the potential vectors for cosmic transmission, and the broader question of whether Earth's life is unique or part of a broader cosmic biological pattern.
+**現代のパンスペルミア研究**は、宇宙的な生命伝達というより広い問いを引き続き展開しており、宇宙環境における微生物の生命の生存可能性、宇宙的伝達の潜在的な媒介、そして地球の生命が固有のものなのか、それともより広い宇宙的生物学的パターンの一部なのかという、より広い問いについて相当な近年の研究があります。
 
-The Cosmic Chain framework's relationship to the panspermia tradition — particularly to the Crick-Orgel directed-panspermia hypothesis — is one of substantial structural alignment. Both frameworks read Earth's life as having been deliberately produced by extraterrestrial intelligent civilization rather than emerging autochthonously. The Cosmic Chain framework extends the directed-panspermia framework substantially through the recursive-cyclical content (the Elohim themselves having been created by a prior civilization, with the chain extending indefinitely backward).
+宇宙の連鎖の枠組みとパンスペルミアの伝統――とりわけクリック＝オーゲルの意図的パンスペルミア仮説――との関係は、相当な構造的整合の一つです。いずれの枠組みも、地球の生命を自生的に発生したのではなく地球外の知的文明によって意図的に生み出されたものとして読みます。宇宙の連鎖の枠組みは、再帰的・周期的内容(エロヒム自身が先行する文明によって創造されており、連鎖が際限なく後方へと伸びていること)を通じて、意図的パンスペルミアの枠組みを相当に拡張します。
 
-### Mainstream Western philosophical engagement with cyclic cosmology
+### 周期宇宙論への主流の西洋哲学の取り組み
 
-The broader Western philosophical tradition has produced limited engagement with cyclic cosmology compared to the Eastern traditions. The principal positions:
+より広い西洋哲学の伝統は、東洋の伝統と比べて周期宇宙論への限られた取り組みしか生み出してきませんでした。主要な立場は次の通りです。
 
-**The Stoic eternal recurrence doctrine** (developed by Chrysippus and other Stoic philosophers) proposed that the cosmos undergoes successive cycles of conflagration and renewal, with each cycle reproducing the prior cycle in identical form. The Stoic tradition is the principal Western antecedent for cyclic cosmology.
+**ストア派の永劫回帰の教説**(クリュシッポスその他のストア派哲学者によって展開)は、宇宙が大火と再生の継起する周期を経て、各周期が先行する周期を同一の形で再現すると提案しました。ストア派の伝統は周期宇宙論の主要な西洋の先駆です。{{ cite(id="long-sedley-hellenistic-philosophers", text="[7]", title="ロング＆セドリー『ヘレニズムの哲学者たち』(1987年)――ストア派の永劫回帰の教説") }}
 
-**Friedrich Nietzsche** in *Thus Spoke Zarathustra* (1883-1885) and *The Will to Power* (posthumous) developed a specific eternal-recurrence doctrine, treating the eternal return of all events as both cosmological hypothesis and existential test. The Nietzschean doctrine is a substantial modern Western engagement with cyclic cosmology, though it differs substantially from the Cosmic Chain framework's specific civilizational-recursive content.
+**フリードリヒ・ニーチェ**は*『ツァラトゥストラはこう語った』*(1883-1885年)と*『力への意志』*(遺稿)において、具体的な永劫回帰の教説を展開し、すべての出来事の永遠の回帰を宇宙論的仮説であると同時に実存的試練として扱いました。{{ cite(id="nietzsche-zarathustra", text="[8]", title="ニーチェ『ツァラトゥストラはこう語った』(1883～1885年)――永劫回帰の教説") }}ニーチェの教説は周期宇宙論への相当な近代西洋の取り組みですが、宇宙の連鎖の枠組みの具体的な文明的・再帰的内容とは大きく異なります。
 
-**Contemporary cyclic cosmologies** (Steinhardt-Turok, Penrose) provide the principal contemporary Western scientific engagement with cyclic cosmology, with various specific models being substantially developed.
+**現代の周期宇宙論**(シュタインハート＝トゥロク、ペンローズ)は、周期宇宙論への主要な現代西洋の科学的取り組みを提供し、さまざまな具体的な模型が相当に展開されています。
 
-The framework's relationship to Western cyclic cosmology is one of structural alignment with the broader cyclic-cosmology principle while developing the specific civilizational-recursive content as the corpus's distinctive contribution.
+枠組みと西洋の周期宇宙論との関係は、より広い周期宇宙論の原理との構造的整合の一つである一方で、具体的な文明的・再帰的内容をコーパスの特色ある寄与として展開するものです。
 
-## In primary sources
+## 一次資料において
 
-The framework's principal primary-source material consists of specific Raëlian source passages on the chain of creators, the rejection of the "first creator" question, and the cyclical-recursive cosmological structure. The principal sources warrant individual treatment.
+枠組みの主要な一次資料は、創造者たちの連鎖、「最初の創造者」という問いの拒絶、そして周期的・再帰的な宇宙論的構造に関する具体的なラエリアンの原資料の箇所から成ります。主要な資料はそれぞれ個別の取り扱いに値します。
 
-### The fundamental source-material statement
+### 根本的な原資料上の言明
 
-The Raëlian source's principal statement on the Cosmic Chain appears in *Extra-Terrestrials Took Me to Their Planet* (1975), in the section "Neither God nor Soul":
+宇宙の連鎖についてのラエリアンの原資料の主要な言明は、『地球外生命体は私を彼らの惑星へ連れて行った』(1975年)の「神も魂もなく」の節に現れます。
 
-> *"The Elohim were created by people from another planet, who had been created by other people coming from another planet, and so on to Infinity."*
+> *「エロヒムは別の惑星から来た人々によって創造され、その人々もまた別の惑星から来た他の人々によって創造され、そのように無限へと遡る。」*
 
-This single statement is the framework's principal source-material warrant. The corpus's broader articulation is the systematic development of this single sentence into the full Cosmic Chain framework.
+この単一の言明が、枠組みの主要な原資料上の根拠です。{{ cite(id="the-book-which-tells-the-truth", text="[9]", title="ヴォリロン(ラエル)『真実を告げる書』(1974年)――牡羊座の発見と宇宙論的枠組み") }}コーパスのより広い明確化は、この単一の文を完全な宇宙の連鎖の枠組みへと体系的に展開したものです。
 
-The statement's principal features:
+この言明の主要な特徴は次の通りです。
 
-- The Elohim are explicitly identified as having been created (rather than being autonomous originators of the creation pattern)
-- The prior creators were themselves created (rather than being uncreated first creators)
-- The chain extends "to Infinity" (rather than terminating at some specific prior point)
-- The chain is structurally identical at each step (each civilization is created by a prior civilization, then itself becomes a creator civilization)
+- エロヒムは(創造のパターンの自律的な起源者であるのではなく)創造されていたものとして明示的に同定されている
+- 先行する創造者たち自身が(創造されざる最初の創造者であるのではなく)創造されていた
+- 連鎖は(ある具体的な先行する点で終わるのではなく)「無限へと」伸びる
+- 連鎖は各段階で構造的に同一である(各文明は先行する文明によって創造され、それから自ら創造者文明となる)
 
-### The "no first creator" position
+### 「最初の創造者はいない」という立場
 
-The Raëlian source explicitly addresses and rejects the conventional theological question — "who created the first creator?" — treating the question as grammatically well-formed but with a presupposition that does not match the structure of the underlying reality.
+ラエリアンの原資料は、従来の神学的問い――「最初の創造者を誰が創造したのか」――を明示的に取り上げて退け、その問いを文法的には正しく形成されているが、その前提が根底にある現実の構造と合致しないものとして扱います。
 
-The framework reads this position as substantively significant. The conventional Western theological tradition presupposes that there must be a first creator (an uncreated creator, ground of all creation, the *causa prima* of the medieval scholastic tradition); the Cosmic Chain framework rejects this presupposition. The chain extends backward indefinitely, just as the chain of created beings extends indefinitely forward. The cosmos has no ultimate origin and no ultimate end. The question "who created the first creator?" is, on this view, grammatically well-formed but its presupposition does not match the structure of the reality being asked about — analogous to asking "what is north of the North Pole?"
+枠組みはこの立場を実質的に重要なものとして読みます。従来の西洋神学の伝統は、最初の創造者(創造されざる創造者、すべての創造の根拠、中世スコラ学の伝統の*第一原因(causa prima)*)が存在しなければならないと前提します。宇宙の連鎖の枠組みはこの前提を退けます。連鎖は、被創造存在の連鎖が際限なく前方へ伸びるのと同じように、際限なく後方へ伸びます。宇宙には究極的な起源も究極的な終わりもありません。この見方では、「最初の創造者を誰が創造したのか」という問いは文法的には正しく形成されていますが、その前提が問われている対象の現実の構造と合致しないのです――「北極の北には何があるのか」と問うのに類比的です。
 
-The position is substantially distinctive within the Western philosophical-theological tradition (which has typically posited a first creator in some form) while overlapping substantively with various Eastern traditions' beginningless-cycle frameworks.
+この立場は、西洋哲学・神学の伝統(典型的には何らかの形で最初の創造者を措定してきた)の中では実質的に特色ある一方で、さまざまな東洋の伝統の無始の周期の枠組みとは実質的に重なります。{{ footnote(id="2") }}
 
-### The Lord's Prayer reading
+### 主の祈りの読解
 
-The Lord's Prayer's central petition — *"Thy kingdom come; thy will be done in earth, as it is in heaven"* (Matthew 6:10, with parallel in Luke 11:2) — is read by the framework as the compressed statement of the Cosmic Chain's cyclical-recursive structure. The source's specific reading: *"In 'heaven', on the creators' planet, the scientists eventually became the ruling group and then created other intelligent beings. The same thing will happen on Earth. The torch will be taken up again. This prayer, which has been repeated time and time again without anyone understanding its profound meaning, now takes on its full significance: On Earth, as it is in heaven."*
+主の祈りの中心的な嘆願――*「御国が来ますように。御心が天で行われるように地でも行われますように」*(マタイ6:10、ルカ11:2に並行箇所)――は、枠組みによって宇宙の連鎖の周期的・再帰的構造の凝縮された言明として読まれます。原資料の具体的な読解は次の通りです。*「『天』において、創造者たちの惑星で、科学者たちはやがて支配的集団となり、それから他の知的存在を創造した。同じことが地球でも起こるだろう。たいまつは再び受け継がれる。その深遠な意味を誰も理解しないまま幾度となく繰り返されてきたこの祈りは、いまその完全な意義を帯びる――天におけるように、地にも。」*
 
-The framework reads the prayer as containing the specific developmental program that Earth's humanity is being evaluated against. The "heaven" is the Elohim home world (a civilization that has already passed through the developmental stages Earth is now traversing); the "earth" is Earth (a civilization that is currently in the developmental stage the home world has previously traversed). The petition is for Earth to reach the level of the home world — the level at which Earth's humanity becomes capable of itself creating new intelligent life and continuing the cosmic chain.
+枠組みは、この祈りを、地球の人類がそれに照らして評価されている具体的な発達のプログラムを含むものとして読みます。「天」とはエロヒムの故郷の世界(地球が現在横断している発達段階をすでに通過した文明)であり、「地」とは地球(故郷の世界が以前に横断した発達段階に現在ある文明)です。この嘆願は、地球が故郷の世界の水準――地球の人類が自ら新たな知的生命を創造して宇宙の連鎖を継続できるようになる水準――に達することを求めるものです。
 
-The Lord's Prayer reading is shared with the Cosmic Competition entry but operates within the broader Cosmic Chain framework specifically. The Cosmic Competition concerns the specific evaluation phase during which a creator civilization assesses its created humanities for inheritance qualification; the Cosmic Chain is the broader cyclical-recursive structure within which the evaluation phase operates as one specific phase.
+主の祈りの読解は宇宙的競争の項目と共有されますが、より広い宇宙の連鎖の枠組みの中で具体的に機能します。宇宙的競争は、創造者文明がその創造した諸人類を継承資格について査定する具体的な評価の局面に関わります。宇宙の連鎖は、評価の局面が一つの具体的な局面として機能する、より広い周期的・再帰的構造です。
 
-### The "as above, so below" Hermetic reading
+### 「上の如く、下も然り」というヘルメス主義的読解
 
-The Raëlian source occasionally invokes the Hermetic phrase **"as above, so below"** (the *Tabula Smaragdina* or Emerald Tablet's specific phrasing) in connection with the broader cosmological framework. The phrase has been part of the Western Hermetic tradition since approximately the late antiquity, with substantial subsequent development in the Renaissance Hermetic tradition (Ficino, Pico della Mirandola, Bruno, others).
+ラエリアンの原資料は、より広い宇宙論的枠組みに関連して、ヘルメス主義の言い回し**「上の如く、下も然り」**(*翠玉板(Tabula Smaragdina)*すなわちエメラルド・タブレットの具体的な言い回し)を時折用います。この言い回しは、およそ古代末期以来、西洋ヘルメス主義の伝統の一部であり、ルネサンスのヘルメス主義の伝統(フィチーノ、ピコ・デッラ・ミランドラ、ブルーノら)においてその後に相当な展開を見せました。{{ cite(id="yates-giordano-bruno-hermetic", text="[17]", title="イェイツ『ジョルダーノ・ブルーノとヘルメス主義の伝統』(1964年)") }}
 
-The framework's reading of the phrase preserves the specific insight that the cosmic structure is recursive — what occurs at one level of the creative hierarchy is repeated at the level it produces. The framework does not adopt the broader Hermetic theological-cosmological apparatus (the specific Hermetic doctrines of cosmic correspondence, the Hermetic anthropology, the broader Hermetic theology); the corpus's engagement is specifically with the recursive-structural insight the phrase preserves.
+枠組みのこの言い回しの読解は、宇宙の構造が再帰的であるという具体的な洞察――創造の階層のある水準で生じることが、それが生み出す水準で反復される――を保持します。枠組みはより広いヘルメス主義の神学的・宇宙論的装置(宇宙的照応の具体的なヘルメス主義の教義、ヘルメス主義の人間論、より広いヘルメス主義の神学)を採用しません。コーパスの取り組みは、この言い回しが保持する再帰的・構造的洞察と具体的に関わるものです。
 
-### The Aries-discovery passage
+### 牡羊座の発見の箇所
 
-The Raëlian source describes the policy shift produced by the Aries-age discovery in a passage that is decisive for understanding everything that follows:
+ラエリアンの原資料は、牡羊座時代の発見が生み出した方針転換を、その後に続くすべてを理解する上で決定的な一節において描写します。
 
-> *"Because of recent discoveries, the creators decided to appear as little as possible in order not to influence the destiny of Man too much, so that they could see if they would reach the age of scientific knowledge on their own. So, the creators began to use increasingly discreet means of communicating with humans, as in the method of feeding Elijah using 'homing' ravens. This was the beginning of a gigantic experiment throughout the galaxy in which several humanities are in competition. The creators decided to appear less often, while at the same time reinforcing the authority and reputation of their ambassadors - the prophets - by using miracles."*
+> *「近年の発見のために、創造者たちは人類の運命にあまり影響を与えすぎないよう、できるだけ姿を現さないことを決めた。それは、人類が自力で科学的知識の時代に到達できるかを見るためであった。そこで創造者たちは、エリヤを『帰巣する』カラスを用いて養った方法のように、ますます目立たない手段で人間と意思疎通するようになった。これが、いくつかの人類が競い合う、銀河系全体にわたる巨大な実験の始まりであった。創造者たちは、同時に奇跡を用いることで彼らの大使たち――預言者たち――の権威と評判を強めながら、姿を現すことを少なくすることを決めた。」*
 
-The passage establishes several things at once for the Cosmic Chain framework specifically:
+この一節は、宇宙の連鎖の枠組みに対していくつかのことを一度に確立します。
 
-- The discovery is real and specific (rather than metaphorical)
-- The discovery produced a deliberate policy shift in operational practice
-- The shift inaugurated the broader cosmic-competition framework
-- The framework operates "throughout the galaxy" rather than being Earth-specific
-- The shift applies not only to Earth but to all parallel humanities the alliance had created
+- 発見は(比喩的ではなく)実在し具体的である
+- 発見は作戦実践における意図的な方針転換を生み出した
+- この転換は、より広い宇宙的競争の枠組みを始動させた
+- 枠組みは地球固有のものではなく「銀河系全体にわたって」機能する
+- この転換は地球だけでなく、同盟が創造したすべての並行する人類に適用される
 
-The Aries-discovery is the operational origin of the Cosmic Chain framework in the corpus's broader narrative. Before the discovery, the Elohim operated under the assumption that they were the originators of the creation pattern; after the discovery, they recognized themselves as participants in a much broader pattern.
+牡羊座の発見は、コーパスのより広い物語における宇宙の連鎖の枠組みの作戦的起源です。発見以前、エロヒムは自分たちが創造のパターンの起源者であるという前提のもとで活動していました。発見以後、彼らは自分たちをはるかに広いパターンの参加者として認識しました。
 
-### The infinity-of-cosmos passages
+### 無限宇宙の箇所
 
-The Raëlian source provides substantial material on the broader infinite-cosmology framework within which the Cosmic Chain operates. The principal content:
+ラエリアンの原資料は、宇宙の連鎖が機能する、より広い無限宇宙論の枠組みについて相当な資料を提供します。主要な内容は次の通りです。
 
-- **Infinite cosmos in space**: The cosmos has no center and no boundary in any direction
-- **Infinite cosmos in time**: The cosmos has no beginning and no end in temporal direction
-- **Infinite hierarchy of scales**: Intelligent civilizations exist at every scale from infinitely small to infinitely large
-- **Infinity as the principal cosmological feature**: The infinite character of the cosmos is the foundational reality, with the various local features (the Cosmic Chain among them) operating within the broader infinite structure
+- **空間における無限の宇宙**:宇宙はいかなる方向にも中心も境界ももたない
+- **時間における無限の宇宙**:宇宙は時間方向に始まりも終わりももたない
+- **尺度の無限の階層**:知的文明は無限に小さいものから無限に大きいものまであらゆる尺度に存在する
+- **主要な宇宙論的特徴としての無限性**:宇宙の無限の性格が基礎的な現実であり、さまざまな局所的特徴(宇宙の連鎖もその一つ)はより広い無限の構造の中で機能する
 
-The infinity-of-cosmos material is treated more fully under the broader Wheel of Heaven framework's cosmological treatment; the Cosmic Chain entry's specific contribution is registering that the chain operates within this broader infinite cosmological structure rather than being a complete account of the cosmos itself.
+無限宇宙の資料は、より広いホイール・オブ・ヘヴンの枠組みの宇宙論的取り扱いの中でより十分に扱われます。宇宙の連鎖の項目の具体的な寄与は、連鎖が宇宙それ自体の完全な説明であるのではなく、このより広い無限の宇宙論的構造の中で機能することを記録することです。
 
-### The cyclical-cosmic-future passages
+### 周期的・宇宙的未来の箇所
 
-The Raëlian source provides substantial material on humanity's projected future role in the chain. The principal content:
+ラエリアンの原資料は、連鎖における人類の想定される未来の役割について相当な資料を提供します。主要な内容は次の通りです。
 
-- **Earth's projected transition** from created to creator civilization, following the Aquarian-age inheritance event
-- **Future creation by humanity** of new humanities on suitable worlds
-- **The pattern's continuation** through the future created civilizations becoming themselves creator civilizations
-- **The infinite forward extension** of the chain through these future cycles
+- 水瓶座時代の継承の出来事に続く、地球の被創造文明から創造者文明への**想定される移行**
+- 適した世界における、人類による新たな人類の**未来の創造**
+- 未来の被創造文明が自ら創造者文明となることによる**パターンの継続**
+- これらの未来の周期を通じた**連鎖の無限の前方への拡張**
 
-The cyclical-cosmic-future material is the framework's principal source-material warrant for the chain's forward extension. The corpus's broader articulation extends this material substantially through the systematic integration with the Cosmic Competition, the Aquarian-age developments, and the projected post-inheritance trajectory.
+周期的・宇宙的未来の資料は、連鎖の前方への拡張に対する枠組みの主要な原資料上の根拠です。コーパスのより広い明確化は、宇宙的競争、水瓶座時代の展開、そして想定される継承後の軌道との体系的な統合を通じて、この資料を相当に拡張します。
 
-## The concept's content
+## 概念の内容
 
-The framework's specific articulation of the Cosmic Chain integrates multiple distinct strands of source material into a coherent cosmological account.
+宇宙の連鎖についての枠組みの具体的な明確化は、原資料の複数の異なる要素を一貫した宇宙論的説明へと統合します。
 
-### The basic cyclical-recursive structure
+### 基本的な周期的・再帰的構造
 
-The Cosmic Chain operates through a basic cyclical-recursive structure with several specific features:
+宇宙の連鎖は、いくつかの具体的な特徴をもつ基本的な周期的・再帰的構造を通じて機能します。
 
-**The fundamental cycle**. Each civilization in the chain follows a structurally identical developmental trajectory:
+**基本的な周期**。連鎖における各文明は、構造的に同一の発達の軌道をたどります。
 
-1. **Creation**: The civilization is created by a prior creator civilization through specific operational interventions (analogous to the Elohim's specific operations in the Earth project)
-2. **Development**: The civilization develops across cosmic time, with the developmental trajectory including various ages or periods analogous to Earth's precessional ages
-3. **Discovery**: At some point, the civilization discovers that it has itself been created (analogous to the Elohim's Aries-age discovery)
-4. **Maturation**: The civilization continues to develop through subsequent ages, eventually reaching the threshold of scientific maturity required for itself becoming a creator civilization
-5. **Inheritance**: At the inheritance threshold, the civilization receives the accumulated knowledge from its creators (analogous to Earth's projected Aquarian-age inheritance event)
-6. **Creator-civilization phase**: The civilization itself becomes a creator civilization, conducting its own creation projects on suitable worlds
-7. **Continuation**: The new humanities created by this civilization develop through the same trajectory, with the cycle continuing indefinitely
+1. **創造**:文明は、先行する創造者文明によって具体的な作戦的介入(エロヒムの地球プロジェクトにおける具体的な作業に類比的)を通じて創造される
+2. **発達**:文明は宇宙的時間を通じて発達し、その発達の軌道には、地球の歳差時代に類比的なさまざまな時代や期間が含まれる
+3. **発見**:ある時点で、文明は自分自身が創造されていたことを発見する(エロヒムの牡羊座時代の発見に類比的)
+4. **成熟**:文明はその後の時代を通じて発達し続け、やがて自ら創造者文明となるために必要な科学的成熟の閾値に達する
+5. **継承**:継承の閾値において、文明は自らの創造者たちから蓄積された知識を受け取る(地球の想定される水瓶座時代の継承の出来事に類比的)
+6. **創造者文明の局面**:文明は自ら創造者文明となり、適した世界で自らの創造プロジェクトを行う
+7. **継続**:この文明によって創造された新たな人類が同じ軌道を通じて発達し、周期が際限なく続いていく
 
-**The structural identity across cycles**. The framework reads the cycle as having structural identity across all instances — each cycle has the same broad shape (creation, development, discovery, maturation, inheritance, creator-civilization phase, continuation) even though the specific contents of each cycle differ substantially. The structural identity is the principal content of the framework: the cycle is what is repeated, not the specific contents.
+**周期を越えた構造的同一性**。枠組みは、この周期がすべての事例を越えて構造的同一性をもつものとして読みます――各周期は、たとえそれぞれの周期の具体的な内容が大きく異なっていても、同じ大まかな形(創造、発達、発見、成熟、継承、創造者文明の局面、継続)をもつのです。この構造的同一性が枠組みの主要な内容です。すなわち反復されるのは周期であって、具体的な内容ではありません。
 
-**The infinite extension in both directions**. The chain extends indefinitely backward through prior creators and indefinitely forward through future creations. Neither direction reaches a findable limit. The cosmos has no ultimate origin (no first creator, no first cycle) and no ultimate end (no final creator, no final cycle).
+**両方向における無限の拡張**。連鎖は、先行する創造者を通じて際限なく後方へ、また未来の創造を通じて際限なく前方へ伸びます。いずれの方向も見出しうる限界に達しません。宇宙には究極的な起源(最初の創造者も、最初の周期もない)も、究極的な終わり(最後の創造者も、最後の周期もない)もありません。
 
-### The infinite-recursion character
+### 無限再帰の性格
 
-The framework's specific position on the chain's infinite character has substantial implications.
+連鎖の無限の性格についての枠組みの具体的な立場は、相当な含意をもちます。
 
-**The "no first creator" position**. The chain extends backward indefinitely, without findable beginning. The conventional theological question — "who created the first creator?" — is rejected as resting on a presupposition (that there is a first creator) that does not match the structure of the underlying reality. The framework's position is substantively distinct from the principal Western theological traditions while overlapping substantively with various Eastern cyclic-cosmology traditions.
+**「最初の創造者はいない」という立場**。連鎖は、見出しうる始まりなしに、際限なく後方へ伸びます。従来の神学的問い――「最初の創造者を誰が創造したのか」――は、その根底にある現実の構造と合致しない前提(最初の創造者が存在するという前提)に立脚するものとして退けられます。枠組みの立場は、主要な西洋神学の伝統とは実質的に異なる一方で、さまざまな東洋の周期宇宙論の伝統とは実質的に重なります。
 
-**The infinite forward extension**. The chain extends forward indefinitely, without findable end. Each created civilization, having reached scientific maturity and become a creator civilization, will itself create new civilizations that will eventually become creator civilizations themselves. The forward extension is symmetric with the backward extension — the same indefinite-recursive character operates in both temporal directions.
+**無限の前方への拡張**。連鎖は、見出しうる終わりなしに、際限なく前方へ伸びます。科学的成熟に達して創造者文明となった各被創造文明は、自ら新たな文明を創造し、それらの文明がやがて自ら創造者文明となります。前方への拡張は後方への拡張と対称的です――同じ無限再帰的な性格が時間の両方向に作動します。
 
-**The specific implication for Earth's humanity**. The framework reads Earth's specific situation as one specific link in the chain. Earth's humanity was created by the Elohim (a specific creator civilization); the Elohim were themselves created by their predecessors; the predecessors were created by their predecessors; and so on indefinitely backward. Earth's humanity will eventually itself become a creator civilization, which will create new humanities, which will themselves become creator civilizations; and so on indefinitely forward. Earth's specific situation is one instance of a much broader pattern that has been operating across the cosmos for an unknown but very long span and will continue to operate for an unknown but very long span more.
+**地球の人類にとっての具体的な含意**。枠組みは、地球の具体的な状況を連鎖における一つの具体的な環として読みます。地球の人類はエロヒム(具体的な創造者文明)によって創造されました。エロヒム自身はその先行者たちによって創造され、先行者たちはその先行者たちによって創造され、そのように際限なく後方へと遡ります。地球の人類はやがて自ら創造者文明となり、新たな人類を創造し、その人類が自ら創造者文明となり、そのように際限なく前方へと続いていきます。地球の具体的な状況は、未知ではあるが非常に長い期間にわたって宇宙を横断して作動してきた、そしてさらに未知ではあるが非常に長い期間にわたって作動し続ける、はるかに広いパターンの一つの事例なのです。
 
-### The integration with Aries-discovery
+### 牡羊座の発見との統合
 
-The Cosmic Chain framework has its operational origin in the Aries-age discovery (c. 2,160–1,200 BCE) when the Elohim recognized that they themselves had been created. The discovery's specific content and operational consequences warrant treatment.
+宇宙の連鎖の枠組みは、エロヒムが自分たち自身が創造されていたと認識した牡羊座時代の発見(おおよそ紀元前2,160年～1,200年)にその作戦的起源をもちます。{{ footnote(id="3") }}発見の具体的な内容と作戦的帰結は取り扱いに値します。
 
-**The discovery's specific content**. The source does not specify the exact evidence the Elohim found that established their own created status — what archaeological, genetic, cosmological, or other signatures convinced them. What the source does specify is the consequence: the Elohim's self-understanding shifted fundamentally, and the shift produced specific changes in their operational policy toward the humanities they had themselves created.
+**発見の具体的な内容**。原資料は、エロヒムが自分たち自身の被創造的地位を確立した正確な証拠が何であったか――いかなる考古学的、遺伝学的、宇宙論的、あるいはその他の痕跡が彼らを確信させたのか――を特定していません。原資料が特定しているのはその帰結です。すなわちエロヒムの自己理解が根本的に転換し、その転換が、彼ら自身が創造した諸人類に対する作戦方針における具体的な変化を生み出したのです。
 
-**The operational consequences**. The discovery produced several specific operational changes:
+**作戦的帰結**。発見はいくつかの具体的な作戦上の変化を生み出しました。
 
-- **The shift from direct to indirect contact**: A humanity that reached scientific maturity through sustained direct intervention from its creators had not actually demonstrated scientific maturity — it had been carried to that condition by its predecessors. The cosmic pattern, the Elohim recognized, presumably required each humanity to demonstrate its development through its own efforts, with sufficient autonomy from its creators to constitute genuine independent maturation.
-- **The development of the prophetic tradition**: As the principal mechanism for indirect contact, the prophetic tradition allowed the alliance to maintain communication with their humanities while preserving the appearance of autonomy that the cosmic pattern required.
-- **The cultivation of multiple lineages**: The alliance's specific cultivation of multiple cultural lineages (Hebrew, Persian, Greek, Indian, Chinese, Mesoamerican) reflected the broader cosmic-competition framework's evaluation function.
-- **The eventual disclosure**: The discovery would eventually be communicated to the alliance's humanities — initially in parable form (Jesus's parable of the sower), eventually in the explicit revelation of the Aquarian age (the Raëlian source material).
+- **直接的接触から間接的接触への転換**:創造者たちからの持続的な直接的介入を通じて科学的成熟に達した人類は、実際には科学的成熟を実証してはいませんでした――それはその先行者たちによってその状態へと運ばれたのです。宇宙のパターンは、エロヒムが認識したように、各人類がその発達を自らの努力を通じて実証することを、すなわち真の独立した成熟を構成するに十分な、創造者たちからの自律性をもって行うことを、おそらく要求していました。
+- **預言者的伝統の展開**:間接的接触の主要な機構として、預言者的伝統は、宇宙のパターンが要求する自律性の見かけを保ちつつ、同盟がその諸人類との意思疎通を維持することを可能にしました。
+- **複数の系統の育成**:同盟による複数の文化的系統(ヘブライ、ペルシア、ギリシア、インド、中国、メソアメリカ)の具体的な育成は、より広い宇宙的競争の枠組みの評価機能を反映していました。
+- **最終的な開示**:発見はやがて同盟の諸人類に伝達されることになります――当初はたとえ話の形で(イエスの種まきのたとえ)、最終的には水瓶座時代の明示的な啓示において(ラエリアンの原資料)。
 
-The Aries-discovery is therefore the operational pivot in the corpus's broader narrative — the moment at which the Elohim's self-understanding transformed and the specific operational practices of the subsequent ages were established.
+牡羊座の発見はしたがって、コーパスのより広い物語における作戦的な転換点です――エロヒムの自己理解が変容し、その後の時代の具体的な作戦実践が確立された瞬間です。
 
-### The Lord's Prayer as compressed statement
+### 凝縮された言明としての主の祈り
 
-The framework reads the Lord's Prayer's central petition — *"Thy kingdom come; thy will be done in earth, as it is in heaven"* (Matthew 6:10) — as the compressed statement of the Cosmic Chain's cyclical-recursive structure.
+枠組みは、主の祈りの中心的な嘆願――*「御国が来ますように。御心が天で行われるように地でも行われますように」*(マタイ6:10)――を、宇宙の連鎖の周期的・再帰的構造の凝縮された言明として読みます。
 
-The reading's specific content:
+この読解の具体的な内容は次の通りです。
 
-- **"In heaven"** refers to the home world of the Elohim — a civilization that has already passed through the developmental stages Earth is now traversing
-- **"On earth"** refers to Earth — a civilization currently in the developmental stage the home world has previously traversed
-- **"Thy will be done"** refers to the cosmic-creative-cycle's continuation — the pattern of development from created civilization to creator civilization
-- **"As it is in heaven"** refers to the structural identity across cycles — what occurs at one level of the creative hierarchy is repeated at the level it produces
+- **「天で」**とは、エロヒムの故郷の世界――地球が現在横断している発達段階をすでに通過した文明――を指す
+- **「地で」**とは、地球――故郷の世界が以前に横断した発達段階に現在ある文明――を指す
+- **「御心が行われるように」**とは、宇宙的創造の周期の継続――被創造文明から創造者文明への発達のパターン――を指す
+- **「天で行われるように」**とは、周期を越えた構造的同一性――創造の階層のある水準で生じることが、それが生み出す水準で反復される――を指す
 
-The Lord's Prayer is therefore not principally a petition for divine intervention in human affairs but a programmatic statement of the cosmic-chain vision: humanity is to develop until it becomes what the Elohim civilization is, and then to itself become a creator civilization continuing the cosmic chain.
+主の祈りはしたがって、主として人間の営みへの神的介入を求める嘆願ではなく、宇宙の連鎖のヴィジョンの綱領的な言明なのです。すなわち、人類はエロヒム文明がそうであるものになるまで発達し、それから自ら創造者文明となって宇宙の連鎖を継続していくべきだ、というものです。
 
-This reading is substantially distinctive within the Christian interpretive tradition, which has read the prayer for two millennia as a petition for divine sovereignty to be established on earth. The framework registers the distinction honestly: the cosmic-chain reading goes substantially beyond the standard Christian interpretation, with the specific source-material warrant being the Raëlian source's explicit framing.
+この読解は、二千年にわたってこの祈りを地上における神の主権の確立を求める嘆願として読んできたキリスト教の解釈の伝統の中では、実質的に特色あるものです。枠組みはこの区別を率直に記録します。すなわち宇宙の連鎖としての読解は標準的なキリスト教的解釈を大きく超えており、その具体的な原資料上の根拠はラエリアンの原資料の明示的な枠組みなのです。{{ footnote(id="4") }}
 
-### Earth's projected trajectory
+### 地球の想定される軌道
 
-The framework's reading of Earth's projected future trajectory provides substantial content for the chain's forward extension. The principal phases:
+枠組みによる地球の想定される未来の軌道の読解は、連鎖の前方への拡張に対する相当な内容を提供します。主要な局面は次の通りです。
 
-**The Aquarian-age inheritance evaluation** (1945–present, continuing across the coming decades). Earth's humanity is currently being evaluated against the standard required for inheritance qualification — the moral, scientific, and political maturity that would qualify it to receive the alliance's accumulated knowledge and continue the chain. The detailed treatment of the inheritance evaluation lives in the [Cosmic Competition](../cosmic-competition/) entry.
+**水瓶座時代の継承評価**(1945年～現在、今後数十年にわたって継続)。地球の人類は現在、継承資格に必要な基準――同盟の蓄積された知識を受け取って連鎖を継続する資格を与える道徳的、科学的、政治的な成熟――に照らして評価されています。継承評価の詳細な取り扱いは[宇宙的競争](../cosmic-competition/)の項目にあります。
 
-**The inheritance event itself** (projected, following the Aquarian-age preparation period). The inheritance event will occur at the embassy following the alliance's open return. The accumulated knowledge of the alliance will be transmitted to humanity, providing the foundational basis for Earth's transition from created to creator civilization. The detailed treatment lives in the [Embassy](../embassy/) entry (when written).
+**継承の出来事そのもの**(想定される、水瓶座時代の準備期間に続くもの)。継承の出来事は、同盟の公然たる帰還に続いて大使館で起こります。同盟の蓄積された知識が人類に伝達され、地球の被創造文明から創造者文明への移行のための基礎的な基盤を提供します。詳細な取り扱いは[大使館](../embassy/)の項目(執筆された際)にあります。
 
-**The post-inheritance development** (projected, across the centuries following the inheritance event). Earth's humanity will develop the substantive capacities required for becoming a creator civilization — the interstellar travel capacity, the de novo biological synthesis capacity, the cultural and political maturity required to use these capacities responsibly. The development will occur across the centuries following the inheritance event, with the specific timeline depending on the broader Aquarian-age developmental trajectory.
+**継承後の発達**(想定される、継承の出来事に続く数世紀にわたるもの)。地球の人類は、創造者文明となるために必要な実質的な能力――恒星間旅行の能力、新規の生物学的合成の能力、これらの能力を責任をもって用いるために必要な文化的・政治的成熟――を発達させます。発達は継承の出来事に続く数世紀にわたって起こり、その具体的な時間軸はより広い水瓶座時代の発達の軌道に依存します。
 
-**The first human-conducted creation** (projected, at some point in the centuries to come). Earth's humanity will eventually conduct its first creation project on a suitable world, producing a new humanity. The first human-conducted creation will be the specific moment at which Earth's humanity transitions from created to creator civilization in the operational sense.
+**人類による最初の創造**(想定される、来るべき数世紀のある時点でのもの)。地球の人類はやがて、適した世界で最初の創造プロジェクトを行い、新たな人類を生み出します。人類による最初の創造は、地球の人類が作戦的な意味で被創造文明から創造者文明へと移行する具体的な瞬間となります。
 
-**The continuation of the chain through Earth's future creations** (projected, indefinitely forward). The new humanities Earth's humanity will create will themselves develop through the same cycle, eventually themselves becoming creator civilizations. The chain will continue indefinitely forward through these future cycles.
+**地球の未来の創造を通じた連鎖の継続**(想定される、際限なく前方へ)。地球の人類が創造する新たな人類は、自ら同じ周期を通じて発達し、やがて自ら創造者文明となります。連鎖はこれらの未来の周期を通じて際限なく前方へと続いていきます。
 
-### The relationship to the broader infinite cosmos
+### より広い無限の宇宙との関係
 
-The Cosmic Chain operates within a broader infinite cosmological framework that the source material develops substantially. The principal features:
+宇宙の連鎖は、原資料が相当に展開する、より広い無限の宇宙論的枠組みの中で機能します。主要な特徴は次の通りです。
 
-**Infinity in space**. The cosmos has no center and no boundary in any direction. The Cosmic Chain operates within this spatially infinite cosmos, with the various creator civilizations distributed across the broader cosmic structure.
+**空間における無限性**。宇宙はいかなる方向にも中心も境界ももちません。宇宙の連鎖はこの空間的に無限の宇宙の中で機能し、さまざまな創造者文明がより広い宇宙構造を横断して分布しています。
 
-**Infinity in time**. The cosmos has no beginning and no end in temporal direction. The Cosmic Chain extends through this temporally infinite cosmos, with the various cycles operating across cosmic time without ultimate origin or termination.
+**時間における無限性**。宇宙は時間方向に始まりも終わりももちません。宇宙の連鎖はこの時間的に無限の宇宙を通じて伸び、さまざまな周期が、究極的な起源も終結もなく、宇宙的時間を横断して作動します。
 
-**Infinite hierarchy of scales**. Intelligent civilizations exist at every scale from infinitely small to infinitely large. The Cosmic Chain operates at one specific scale within this broader hierarchical structure, with the various scales being approximately independent (the civilizations at each scale are largely unaware of the civilizations at other scales).
+**尺度の無限の階層**。知的文明は無限に小さいものから無限に大きいものまであらゆる尺度に存在します。宇宙の連鎖はこのより広い階層的構造の中の一つの具体的な尺度で機能し、さまざまな尺度はおおよそ独立しています(各尺度の文明は他の尺度の文明をほとんど知りません)。
 
-**The framework's relationship to "God"**. If "God" is interpreted as the infinite cosmos itself, then God exists — God is the infinite structure within which all the various local features operate. But this God is not a personal being, not a deity that intervenes in human affairs, not a recipient of prayer or worship in any traditional sense. The infinite cosmos is "infinitely indifferent" to specific events at any particular scale. If "God" is interpreted as a personal creator who cares about humanity, then there are such beings — the Elohim, our specific creators, who do indeed care about us in the concrete sense — but these beings are not God in the traditional theological sense. They are advanced beings of our own kind, themselves created by other beings, themselves operating within the larger infinite cosmos.
+**「神」との枠組みの関係**。「神」が無限の宇宙それ自体として解釈されるなら、神は存在します――神はすべてのさまざまな局所的特徴が機能する無限の構造です。しかしこの神は人格的な存在ではなく、人間の営みに介入する神格でもなく、いかなる伝統的な意味でも祈りや崇拝の受け手でもありません。無限の宇宙は、いかなる特定の尺度の具体的な出来事に対しても「無限に無関心」です。「神」が人類を気にかける人格的な創造者として解釈されるなら、そのような存在は存在します――エロヒム、私たち固有の創造者であり、具体的な意味で確かに私たちを気にかけてくれる存在です――が、これらの存在は伝統的な神学的意味での神ではありません。彼らは私たちと同じ種類の進んだ存在であり、彼ら自身が他の存在によって創造され、彼ら自身がより大きな無限の宇宙の中で活動しているのです。{{ footnote(id="5") }}
 
-The framework's specific position on the relationship between the Cosmic Chain and the broader infinite cosmos is distinctive: the chain is one specific feature of the broader infinite cosmological structure rather than the broader structure itself. The infinite cosmos contains the chain (and presumably contains many other features that the framework does not develop in detail) rather than being identical with the chain.
+宇宙の連鎖とより広い無限の宇宙の関係についての枠組みの具体的な立場は特色あるものです。すなわち連鎖は、より広い構造それ自体ではなく、より広い無限の宇宙論的構造の一つの具体的な特徴です。無限の宇宙は連鎖を含む(そしておそらく枠組みが詳細には展開しない多くの他の特徴も含む)のであって、連鎖と同一なのではありません。
 
-## Application across the corpus
+## コーパスを横断する適用
 
-The Cosmic Chain framework operates as the broadest analytical category across multiple corpus entries.
+宇宙の連鎖の枠組みは、複数のコーパスの項目を横断して、最も広い分析的カテゴリーとして機能します。
 
-### The Cosmic Competition entry
+### 宇宙的競争の項目
 
-The Cosmic Competition framework operates as one specific phase within the broader Cosmic Chain — the evaluation phase during which a creator civilization assesses its created humanities for inheritance qualification. The detailed treatment lives in the [Cosmic Competition](../cosmic-competition/) entry; the Cosmic Chain entry establishes the broader cyclical-recursive structure within which the evaluation phase operates.
+宇宙的競争の枠組みは、より広い宇宙の連鎖の中の一つの具体的な局面――創造者文明がその創造した諸人類を継承資格について査定する評価の局面――として機能します。詳細な取り扱いは[宇宙的競争](../cosmic-competition/)の項目にあります。宇宙の連鎖の項目は、評価の局面が機能する、より広い周期的・再帰的構造を確立します。
 
-### The Aries-age entry
+### 牡羊座時代の項目
 
-The Aries-discovery is the operational origin of the Cosmic Chain framework in the corpus's broader narrative. The detailed treatment of the Aries age and the discovery's specific content lives in the [Age of Aries](../timeline/age-of-aries/) entry; the Cosmic Chain entry establishes the broader cosmological framework that the discovery produced.
+牡羊座の発見は、コーパスのより広い物語における宇宙の連鎖の枠組みの作戦的起源です。牡羊座時代と発見の具体的な内容の詳細な取り扱いは[牡羊座の時代](../timeline/age-of-aries/)の項目にあります。宇宙の連鎖の項目は、発見が生み出した、より広い宇宙論的枠組みを確立します。
 
-### The Aquarian-age entries
+### 水瓶座時代の項目
 
-The Aquarian-age inheritance evaluation operates as the specific present-day phase of the Cosmic Chain's cyclical structure. The detailed treatment lives in the [Apocalypse](../apocalypse/), [Embassy](../embassy/), and [Age of Aquarius](../timeline/age-of-aquarius/) entries; the Cosmic Chain entry establishes the broader cosmic-cyclical context within which the Aquarian-age developments operate.
+水瓶座時代の継承評価は、宇宙の連鎖の周期的構造の具体的な現在の局面として機能します。詳細な取り扱いは[黙示録](../apocalypse/)、[大使館](../embassy/)、[水瓶座の時代](../timeline/age-of-aquarius/)の項目にあります。宇宙の連鎖の項目は、水瓶座時代の展開が機能する、より広い宇宙的・周期的な文脈を確立します。
 
-### The corpus's broader cosmological framing
+### コーパスのより広い宇宙論的枠組み
 
-The Cosmic Chain framework provides the broadest cosmological context within which the corpus's specific narratives operate. The Earth project specifically, the various age-specific developments, the alliance's specific operational history — all of these operate within the broader Cosmic Chain framework, with the specific Earth-side content being one specific link in the much broader cosmic chain.
+宇宙の連鎖の枠組みは、コーパスの具体的な物語が機能する、最も広い宇宙論的文脈を提供します。地球プロジェクトそのもの、さまざまな時代固有の展開、同盟の具体的な作戦的歴史――これらすべては、より広い宇宙の連鎖の枠組みの中で機能し、具体的な地球側の内容は、はるかに広い宇宙の連鎖における一つの具体的な環なのです。
 
-## Distinguishing from adjacent concepts
+## 隣接する概念との区別
 
-The Cosmic Chain framework must be distinguished from several adjacent concepts to avoid confusion.
+宇宙の連鎖の枠組みは、混同を避けるためにいくつかの隣接する概念と区別されなければなりません。
 
-### The Cosmic Chain vs. the Cosmic Competition
+### 宇宙の連鎖と宇宙的競争
 
-The Cosmic Competition is one specific phase within the broader Cosmic Chain — the evaluation phase during which a creator civilization assesses its created humanities for inheritance qualification. The Cosmic Chain is the broader cyclical-recursive cosmological framework that includes the Cosmic Competition as one of its specific phases.
+宇宙的競争は、より広い宇宙の連鎖の中の一つの具体的な局面――創造者文明がその創造した諸人類を継承資格について査定する評価の局面――です。宇宙の連鎖は、宇宙的競争を自らの具体的な局面の一つとして含む、より広い周期的・再帰的な宇宙論的枠組みです。
 
-The relationship is one of **broader-and-narrower scope**. The Cosmic Chain extends across the full cyclical structure (creation, development, discovery, maturation, inheritance, creator-civilization phase, continuation); the Cosmic Competition concerns specifically the evaluation phase during which the inheritance qualification is assessed. The Cosmic Chain operates in both temporal directions infinitely; the Cosmic Competition operates within a specific temporal window during which the evaluation is conducted.
+この関係は**より広いものとより狭いものの範囲**の一つです。宇宙の連鎖は完全な周期的構造(創造、発達、発見、成熟、継承、創造者文明の局面、継続)の全体に及びます。宇宙的競争は、継承資格が査定される評価の局面に具体的に関わります。宇宙の連鎖は時間の両方向に無限に作動します。宇宙的競争は、評価が行われる具体的な時間的窓の中で作動します。
 
-### The Cosmic Chain vs. the precessional ages framework
+### 宇宙の連鎖と歳差時代の枠組み
 
-The precessional ages framework is the broader chronological structure that organizes Earth's specific developmental trajectory across twelve approximately 2,160-year ages. The Cosmic Chain is the cosmic-cyclical-recursive framework that includes Earth's precessional-age trajectory as one specific instance.
+歳差時代の枠組みは、地球の具体的な発達の軌道をおよそ2,160年の十二の時代を横断して組織する、より広い年代記上の構造です。宇宙の連鎖は、地球の歳差時代の軌道を一つの具体的な事例として含む、宇宙的・周期的・再帰的な枠組みです。
 
-The relationship is one of **cosmic-broader-framework-and-Earth-specific-trajectory**. The Cosmic Chain extends across all instances of the cosmic creative cycle (Earth's, the parallel humanities', the prior creators', the future creations', etc.); the precessional ages framework operates specifically for Earth's particular trajectory through one specific cycle.
+この関係は**宇宙的・より広い枠組みと地球固有の軌道**の一つです。宇宙の連鎖は、宇宙的創造の周期のすべての事例(地球の、並行する諸人類の、先行する創造者たちの、未来の創造の、等々)に及びます。歳差時代の枠組みは、一つの具体的な周期を通じた地球の特定の軌道に対して具体的に作動します。
 
-### The Cosmic Chain vs. the Earth project specifically
+### 宇宙の連鎖と地球プロジェクトそのもの
 
-The Earth project is the alliance's specific operational work on Earth — the seven creator-team distribution, the antediluvian developments, the various subsequent ages, the current Aquarian-age preparation. The Cosmic Chain is the broader cosmic-cyclical-recursive framework within which the Earth project operates as one specific instance.
+地球プロジェクトは、同盟の地球での具体的な作戦的作業――七つの創造者チームの配置、大洪水以前の展開、さまざまなその後の時代、現在の水瓶座時代の準備――です。宇宙の連鎖は、地球プロジェクトを一つの具体的な事例として含む、より広い宇宙的・周期的・再帰的な枠組みです。
 
-The relationship is one of **broader-cosmic-framework-and-specific-operational-instance**. The Cosmic Chain operates across all the cosmic creative cycles indefinitely; the Earth project is the alliance's specific work on this specific world during this specific cycle.
+この関係は**より広い宇宙的枠組みと具体的な作戦的事例**の一つです。宇宙の連鎖は、すべての宇宙的創造の周期を横断して際限なく作動します。地球プロジェクトは、この具体的な周期の間の、この具体的な世界での同盟の具体的な作業です。
 
-### The Cosmic Chain vs. the broader infinite cosmos
+### 宇宙の連鎖とより広い無限の宇宙
 
-The broader infinite cosmos is the larger cosmological structure within which the Cosmic Chain operates as one specific feature. The Cosmic Chain is the specific recursive-cyclical pattern of created-and-creating civilizations; the broader infinite cosmos contains this pattern along with many other features.
+より広い無限の宇宙は、宇宙の連鎖が一つの具体的な特徴として機能する、より大きな宇宙論的構造です。宇宙の連鎖は、「創造され、かつ創造する」文明の具体的な再帰的・周期的パターンです。より広い無限の宇宙は、このパターンを多くの他の特徴とともに含みます。
 
-The relationship is one of **specific-feature-and-broader-cosmic-context**. The Cosmic Chain is one specific feature of the broader infinite cosmological structure rather than being identical with it. The infinite cosmos has temporal infinity, spatial infinity, infinite hierarchy of scales, and various other features that the Cosmic Chain does not exhaust.
+この関係は**具体的な特徴とより広い宇宙的文脈**の一つです。宇宙の連鎖は、より広い無限の宇宙論的構造の一つの具体的な特徴であって、それと同一なのではありません。無限の宇宙は、時間的無限性、空間的無限性、尺度の無限の階層、その他さまざまな特徴をもち、宇宙の連鎖はそれらを汲み尽くしません。
 
-### The Cosmic Chain vs. theological "creation" doctrines
+### 宇宙の連鎖と神学的「創造」の教義
 
-The conventional Western theological "creation" doctrines posit a specific creator deity (God) who originates the cosmos through specific creative acts. The Cosmic Chain rejects the specific "first creator" presupposition while preserving the underlying insight that civilizations are created rather than autonomously originating.
+従来の西洋神学の「創造」の教義は、具体的な創造行為を通じて宇宙を発する具体的な創造者神格(神)を措定します。宇宙の連鎖は、具体的な「最初の創造者」という前提を退ける一方で、諸文明が自律的に起源するのではなく創造されるという根底にある洞察を保持します。
 
-The relationship is one of **substantive-divergence-on-specific-content** with **structural-overlap-on-broader-creative-pattern**. The framework agrees with conventional creation doctrine that civilizations (and their constituent biological systems) are created rather than autonomously originating; the framework disagrees with conventional creation doctrine on the specific question of whether there is a first uncreated creator.
+この関係は、**より広い創造的パターンに関する構造的重なり**を伴う**具体的内容に関する実質的な相違**の一つです。枠組みは、諸文明(およびそれを構成する生物学的システム)が自律的に起源するのではなく創造されるという点で従来の創造の教義と一致します。枠組みは、創造されざる最初の創造者が存在するかどうかという具体的な問いについて従来の創造の教義と意見を異にします。
 
-## Modern reinterpretations
+## 近代の再解釈
 
-The Cosmic Chain framework's modern reinterpretive landscape comprises multiple distinct strands.
+宇宙の連鎖の枠組みの近代の再解釈的状況は、複数の異なる要素から成ります。
 
-### Mainstream cosmology infinite-universe questions
+### 主流の宇宙論の無限宇宙の問い
 
-Mainstream cosmology has produced substantial work on the broader question of cosmic infinity. The principal positions:
+主流の宇宙論は、宇宙の無限性というより広い問いについて相当な研究を生み出してきました。主要な立場は次の通りです。
 
-**Giordano Bruno**'s *De l'infinito universo et mondi* (1584) developed the multiple-worlds and infinite-universe doctrine extensively. Bruno argued for an infinite universe containing infinite inhabited worlds, with the cosmos having no center and no boundary. Bruno's specific cosmological-theological doctrines led to his execution by the Roman Inquisition in 1600. Bruno is the principal early-modern philosophical antecedent of the contemporary infinite-universe discussion.
+**ジョルダーノ・ブルーノ**の*『無限・宇宙および諸世界について』*(1584年)は、多数世界と無限宇宙の教説を広範に展開しました。ブルーノは、中心も境界もない宇宙とともに、無限の居住可能な世界を含む無限の宇宙を論じました。ブルーノの具体的な宇宙論的・神学的教説は、1600年のローマ異端審問による彼の処刑につながりました。ブルーノは、現代の無限宇宙の議論の主要な近世初期の哲学的先駆です。
 
-**Immanuel Kant** in the *Critique of Pure Reason* (1781) treated the question of cosmic infinity within the broader framework of the antinomies of pure reason. Kant argued that the question whether the universe is infinite or finite cannot be resolved by pure reason alone, with both answers leading to contradictions when developed systematically. Kant's specific treatment has substantial implications for how the question can be approached philosophically.
+**イマヌエル・カント**は*『純粋理性批判』*(1781年)において、宇宙の無限性の問いを純粋理性のアンチノミーというより広い枠組みの中で取り扱いました。{{ cite(id="kant-critique-pure-reason", text="[10]", title="カント『純粋理性批判』(1781年)――宇宙の無限性に関するアンチノミー") }}カントは、宇宙が無限か有限かという問いは純粋理性のみによっては解決できず、体系的に展開されたときにはいずれの答えも矛盾に至ると論じました。カントの具体的な取り扱いは、この問いに哲学的にどう取り組みうるかについて相当な含意をもちます。
 
-**Contemporary multiverse cosmology** (Linde, Vilenkin, Tegmark, and others) develops substantial work on the broader question of cosmic infinity within contemporary scientific cosmology. The principal models include:
+**現代の多元宇宙論**(リンデ、ヴィレンキン、テグマックら)は、現代の科学的宇宙論の中で宇宙の無限性というより広い問いについて相当な研究を展開します。主要な模型には次のものが含まれます。
 
-- **Eternal inflation models** proposing that our observable universe is one specific region within a larger multiverse structure produced by ongoing inflationary expansion
-- **String theory landscape models** proposing that the various fundamental physical constants take different values in different regions of the broader multiverse
-- **Many-worlds quantum mechanics** proposing that the various possible quantum outcomes are realized in different branches of a broader multiverse
+- **永久インフレーション模型**:私たちの観測可能な宇宙が、進行中のインフレーション膨張によって生み出された、より大きな多元宇宙構造の中の一つの具体的な領域であると提案する
+- **弦理論ランドスケープ模型**:さまざまな基本的な物理定数が、より広い多元宇宙の異なる領域で異なる値をとると提案する
+- **量子力学の多世界**:さまざまな可能な量子的結果が、より広い多元宇宙の異なる分岐で実現すると提案する
 
-**Tegmark's mathematical universe hypothesis** (Max Tegmark, *Our Mathematical Universe*, 2014) develops a substantial multiverse framework in which all mathematically consistent universes exist as physically real structures. The framework provides one specific contemporary engagement with the broader infinite-universe question.
+**テグマックの数学的宇宙仮説**(マックス・テグマック『私たちの数学的な宇宙』、2014年)は、すべての数学的に整合する宇宙が物理的に実在する構造として存在するという、相当な多元宇宙の枠組みを展開します。{{ cite(id="tegmark-mathematical-universe", text="[11]", title="テグマック『私たちの数学的な宇宙』(2014年)") }}{{ cite(id="vilenkin-many-worlds-in-one", text="[12]", title="ヴィレンキン『一つの中の多世界』(2006年)") }}{{ cite(id="linde-inflation-quantum-cosmology", text="[13]", title="リンデ『インフレーションと量子宇宙論』(1990年)") }}この枠組みは、より広い無限宇宙の問いへの一つの具体的な現代の取り組みを提供します。
 
-The framework's relationship to mainstream cosmology is one of broader-framework consistency (the Cosmic Chain does not contradict mainstream observational cosmology) while extending substantially beyond what mainstream cosmology directly engages (the specific civilizational-recursive content of the chain).
+枠組みと主流の宇宙論との関係は、より広い枠組みの一貫性(宇宙の連鎖は主流の観測的宇宙論と矛盾しない)の一つである一方で、主流の宇宙論が直接取り組むものを相当に超えて拡張するもの(連鎖の具体的な文明的・再帰的内容)です。
 
-### The steady-state vs. Big Bang debate
+### 定常宇宙対ビッグバンの論争
 
-Mainstream cosmological history includes the substantial 20th-century debate between the steady-state and Big Bang models. The principal positions:
+主流の宇宙論の歴史には、定常宇宙模型とビッグバン模型のあいだの相当な20世紀の論争が含まれます。主要な立場は次の通りです。
 
-**The steady-state model** (Hoyle, Bondi, Gold, developed in the 1940s-1950s) proposed that the universe has no specific origin, with new matter being continuously created to maintain constant cosmic density across the expansion. The model was elegant in addressing the question of cosmic origins (by denying that any specific origin is needed) and was a serious scientific competitor to the Big Bang model across the mid-20th century.
+**定常宇宙模型**(ホイル、ボンディ、ゴールド、1940年代～1950年代に展開)は、宇宙には具体的な起源がなく、膨張を横断して一定の宇宙密度を維持するために新たな物質が連続的に創造されると提案しました。この模型は、宇宙の起源の問いに取り組む点で(いかなる具体的な起源も必要ないと否定することによって)優雅であり、20世紀半ばを通じてビッグバン模型の真剣な科学的競争相手でした。
 
-**The Big Bang model** (Lemaître, Gamow, others, with substantial development across the 20th century) proposed that the universe originated from an extremely hot, dense state approximately 13.8 billion years ago. The model was eventually established as the principal contemporary cosmological framework through multiple lines of empirical evidence.
+**ビッグバン模型**(ルメートル、ガモフら、20世紀を通じた相当な展開を伴う)は、宇宙がおよそ138億年前の極めて高温で高密度の状態から起源したと提案しました。この模型は、複数の経験的証拠の系統を通じて、最終的に主要な現代宇宙論の枠組みとして確立されました。
 
-**The 1965 cosmic microwave background detection** (Penzias and Wilson) provided the principal empirical evidence that established the Big Bang model over the steady-state alternative. The cosmic microwave background's specific characteristics matched the Big Bang predictions and could not be readily accommodated within the steady-state framework.
+**1965年の宇宙マイクロ波背景放射の検出**(ペンジアスとウィルソン)は、定常宇宙の代替案に対してビッグバン模型を確立した主要な経験的証拠を提供しました。宇宙マイクロ波背景放射の具体的な特性はビッグバンの予測と一致し、定常宇宙の枠組みの中では容易に説明できませんでした。
 
-**Cyclic alternatives to standard Big Bang** have continued to develop across subsequent decades. The Steinhardt-Turok ekpyrotic model proposes that the Big Bang was one event in an ongoing cyclic cosmology with successive cosmic cycles. Penrose's conformal cyclic cosmology proposes a different cyclic framework with substantial implications for how cosmic history should be understood.
+**標準的なビッグバンへの周期的な代替案**は、その後の数十年にわたって展開され続けました。シュタインハート＝トゥロクのエクピロティック模型は、ビッグバンが継起する宇宙周期を伴う進行中の周期宇宙論の中の一つの出来事であったと提案します。ペンローズの共形周期宇宙論は、宇宙史をどう理解すべきかについて相当な含意を伴う、異なる周期的枠組みを提案します。
 
-The framework's relationship to the steady-state vs. Big Bang debate is one of structural compatibility with cyclic alternatives. The Cosmic Chain framework's specific recursive-cyclical structure has substantial overlap with cyclic cosmologies generally, though the specific content (civilizational-recursive rather than purely physical-cyclical) differs from any specific contemporary cyclic cosmology.
+枠組みと定常宇宙対ビッグバンの論争との関係は、周期的な代替案との構造的両立性の一つです。宇宙の連鎖の枠組みの具体的な再帰的・周期的構造は、概して周期宇宙論と相当な重なりをもちますが、具体的な内容(純粋に物理的・周期的というより、文明的・再帰的)はいかなる具体的な現代の周期宇宙論とも異なります。
 
-### Contemporary panspermia and directed-panspermia hypotheses
+### 現代のパンスペルミアおよび意図的パンスペルミア仮説
 
-Panspermia research has produced substantial development across the past several decades. The principal developments:
+パンスペルミア研究は過去数十年にわたって相当な展開を生み出してきました。主要な展開は次の通りです。
 
-**Classical panspermia** (Arrhenius, "Worlds in the Making," 1908) proposed that microbial life could be transmitted across cosmic distances on dust particles, with Earth's life originating from such cosmic transmission.
+**古典的パンスペルミア**(アレニウス「生成する世界」、1908年)は、微生物の生命が塵粒子に乗って宇宙的距離を越えて伝達されうると提案し、地球の生命がそのような宇宙的伝達から起源したとしました。
 
-**Crick and Orgel's "Directed Panspermia"** (Francis Crick and Leslie Orgel, *Icarus* 19, 1973: 341-346) developed a substantial scientific proposal that Earth's life was deliberately seeded by an extraterrestrial intelligent civilization. The hypothesis specifically addressed:
+**クリックとオーゲルの「意図的パンスペルミア」**(フランシス・クリックとレスリー・オーゲル、*イカルス誌*19、1973年:341-346)は、地球の生命が地球外の知的文明によって意図的に播種されたという相当な科学的提案を展開しました。この仮説は具体的に次のものに取り組みました。
 
-- **The universality of the genetic code**: All Earth life uses essentially the same genetic code, which is unexpected if life originated multiple times autochthonously
-- **The molybdenum problem**: All Earth life depends on molybdenum, which has limited terrestrial abundance — suggesting that life originated in an environment where molybdenum was more abundant
-- **The unusual structural features**: Various biochemical features of Earth life appear unusually well-suited to specific functional purposes, suggesting deliberate engineering rather than autochthonous emergence
+- **遺伝暗号の普遍性**:すべての地球生命が本質的に同じ遺伝暗号を用いており、これは生命が自生的に複数回起源したのであれば予期されないことである
+- **モリブデン問題**:すべての地球生命がモリブデンに依存しており、モリブデンは地球上での存在量が限られている――生命がモリブデンがより豊富であった環境で起源したことを示唆する
+- **異様な構造的特徴**:地球生命のさまざまな生化学的特徴が、具体的な機能的目的に異様によく適しているように見え、自生的な発生というより意図的な設計を示唆する
 
-The Crick-Orgel hypothesis was developed by serious scientists (Crick was the Nobel-laureate co-discoverer of DNA structure; Orgel was a principal scientist of early-Earth chemical biology) and represented a substantive scientific engagement with the broader question of life's origin on Earth.
+クリック＝オーゲル仮説は真剣な科学者たち(クリックはDNA構造の共同発見者でありノーベル賞受賞者。オーゲルは初期地球の化学生物学の主要な科学者)によって展開され、地球上の生命の起源というより広い問いへの実質的な科学的取り組みを表しました。
 
-**Contemporary panspermia research** has continued to develop the broader question. Recent work includes:
+**現代のパンスペルミア研究**は、より広い問いを引き続き展開してきました。近年の研究には次のものが含まれます。
 
-- Studies on the survivability of microbial life in space environments (with substantial findings that various microorganisms can survive cosmic radiation, vacuum, and temperature extremes for substantial periods)
-- Investigation of potential vectors for cosmic transmission (meteoric material, cometary material, deliberate transmission)
-- Analysis of the broader question of whether Earth's life is unique or part of a broader cosmic biological pattern
+- 宇宙環境における微生物の生命の生存可能性についての研究(さまざまな微生物が宇宙放射線、真空、極端な温度に相当な期間にわたって耐えうるという相当な発見を伴う)
+- 宇宙的伝達の潜在的な媒介(隕石物質、彗星物質、意図的な伝達)の調査
+- 地球の生命が固有のものなのか、それともより広い宇宙的生物学的パターンの一部なのかという、より広い問いの分析
 
-The framework's relationship to contemporary panspermia research, particularly to the Crick-Orgel directed-panspermia hypothesis, is one of substantial structural alignment. Both frameworks read Earth's life as having been deliberately produced by extraterrestrial intelligent civilization rather than emerging autochthonously. The Cosmic Chain framework extends the directed-panspermia framework substantially through the recursive-cyclical content (the Elohim themselves having been created by a prior civilization, with the chain extending indefinitely backward).
+枠組みと現代のパンスペルミア研究、とりわけクリック＝オーゲルの意図的パンスペルミア仮説との関係は、相当な構造的整合の一つです。いずれの枠組みも、地球の生命を自生的に発生したのではなく地球外の知的文明によって意図的に生み出されたものとして読みます。宇宙の連鎖の枠組みは、再帰的・周期的内容(エロヒム自身が先行する文明によって創造されており、連鎖が際限なく後方へと伸びていること)を通じて、意図的パンスペルミアの枠組みを相当に拡張します。
 
-### Sendy on cosmic recursion
+### サンディの宇宙的再帰について
 
-**Jean Sendy** developed substantial engagement with cosmic-recursion questions in his broader corpus. Sendy's specific contributions include:
+**ジャン・サンディ**は、その広範なコーパスにおいて宇宙的再帰の問いへの相当な取り組みを展開しました。サンディの具体的な寄与には次のものが含まれます。
 
-- The treatment of the Hebrew Bible's various references to multiple cosmic powers as preserving fragmentary memory of the broader cosmic context
-- The recognition that the Hebrew tradition's broader cosmological framework is consistent with substantial cosmic-recursive content
-- The integration of cosmic-recursive readings with the broader alliance-mediated history Sendy reconstructed
+- ヘブライ語聖書の複数の宇宙的諸力へのさまざまな言及を、より広い宇宙的文脈の断片的な記憶を保存するものとして取り扱うこと
+- ヘブライの伝統のより広い宇宙論的枠組みが、相当な宇宙的・再帰的内容と一貫しているという認識
+- 宇宙的・再帰的な読解を、サンディが再構成した、より広い同盟に媒介された歴史と統合すること
 
-Sendy's specific Cosmic Chain development is more limited than the framework's contemporary articulation. The framework's specific recursive-cyclical content goes substantially beyond what Sendy directly developed, though the broader methodological framework Sendy provides is structurally compatible with the Cosmic Chain framework.
+サンディの具体的な宇宙の連鎖の展開は、枠組みの現代の明確化よりも限られています。枠組みの具体的な再帰的・周期的内容はサンディが直接展開したものを相当に超えていますが、サンディが提供する、より広い方法論的枠組みは宇宙の連鎖の枠組みと構造的に両立します。
 
-### Biglino on cosmic recursion
+### ビリーノの宇宙的再帰について
 
-**Mauro Biglino**'s strict-translational engagement with the Hebrew Bible has produced limited specific engagement with the Cosmic Chain framework. Biglino's broader treatment of the Hebrew Bible's various references to multiple cosmic powers and to the broader cosmic-political situation is structurally compatible with the Cosmic Chain framework, but Biglino does not develop the specific recursive-cyclical content explicitly.
+**マウロ・ビリーノ**のヘブライ語聖書への厳密な逐語訳的取り組みは、宇宙の連鎖の枠組みへの限られた具体的な取り組みを生み出してきました。ビリーノのヘブライ語聖書の複数の宇宙的諸力へのさまざまな言及と、より広い宇宙的・政治的状況についてのより広い取り扱いは、宇宙の連鎖の枠組みと構造的に両立しますが、ビリーノは具体的な再帰的・周期的内容を明示的に展開してはいません。
 
-### Wallis on cosmic recursion
+### ウォリスの宇宙的再帰について
 
-**Paul Anthony Wallis**'s broader engagement with the alliance-mediated history includes some treatment of cosmic-recursive questions, principally within the broader context of the various ancient texts' references to cosmic-political pluralism and the broader alliance-mediated cosmic structure. Wallis's specific Cosmic Chain development is more limited than the framework's contemporary articulation, though his broader methodological framework is structurally compatible with the Cosmic Chain framework.
+**ポール・アンソニー・ウォリス**の同盟に媒介された歴史へのより広い取り組みには、宇宙的・再帰的な問いの一部の取り扱いが含まれ、主としてさまざまな古代の文書の宇宙的・政治的な多元性への言及と、より広い同盟に媒介された宇宙的構造というより広い文脈の中にあります。ウォリスの具体的な宇宙の連鎖の展開は、枠組みの現代の明確化よりも限られていますが、彼のより広い方法論的枠組みは宇宙の連鎖の枠組みと構造的に両立します。
 
-### The broader ancient-astronaut tradition
+### より広い古代宇宙飛行士論の伝統
 
-The broader ancient-astronaut interpretive tradition includes various engagements with cosmic-recursive questions:
+より広い古代宇宙飛行士論の解釈の伝統には、宇宙的・再帰的な問いへのさまざまな取り組みが含まれます。
 
-- **Erich von Däniken** in *Chariots of the Gods* (1968) and successor works treats the broader cosmic-political situation as involving advanced extraterrestrial civilizations, with various implications for the broader cosmological framework
-- **Zecharia Sitchin** in *The 12th Planet* (1976) and successor works develops a substantially different reading focused on the Anunnaki-Nibiru cosmology, with limited specific engagement with the Cosmic Chain framework
-- **Various contemporary ancient-astronaut writers** develop further engagements with cosmic-recursive questions within their distinctive frameworks
+- **エーリッヒ・フォン・デニケン**は*『神々の戦車』*(1968年)とそれに続く著作において、より広い宇宙的・政治的状況を、より広い宇宙論的枠組みへのさまざまな含意とともに、進んだ地球外文明を含むものとして取り扱う
+- **ゼカリア・シッチン**は*『第12番惑星』*(1976年)とそれに続く著作において、アヌンナキ＝ニビル宇宙論に焦点を当てた実質的に異なる読解を展開し、宇宙の連鎖の枠組みへの具体的な取り組みは限られている
+- **さまざまな現代の古代宇宙飛行士論の著述家**は、それぞれの特色ある枠組みの中で宇宙的・再帰的な問いへのさらなる取り組みを展開する
 
-The corpus's Cosmic Chain framework is structurally distinctive within the broader ancient-astronaut tradition through the specific recursive-cyclical content and the integration with the broader Wheel of Heaven framework's specific operational-historical content.
+コーパスの宇宙の連鎖の枠組みは、具体的な再帰的・周期的内容と、より広いホイール・オブ・ヘヴンの枠組みの具体的な作戦的・歴史的内容との統合を通じて、より広い古代宇宙飛行士論の伝統の中で構造的に特色あるものです。
 
-### The framework's relationship to the broader landscape
+### より広い状況との枠組みの関係
 
-The corpus's Cosmic Chain framework is positioned within this landscape as follows: structurally consistent with mainstream cosmology at the empirical-observational level, even where the framework's specific claims go beyond what mainstream investigation has confirmed; structurally aligned with the Crick-Orgel directed-panspermia hypothesis on the deliberate-creation-of-Earth-life question, while extending substantially beyond panspermia through the recursive-cyclical content; structurally compatible with contemporary cyclic cosmologies (Steinhardt-Turok, Penrose) at the cosmological-cyclical level, while differing on the specific civilizational content; substantively distinct from mainstream Western theological tradition on the "first creator" question; structurally aligned with various Eastern cyclic-cosmology traditions (treated in *Comparative observations* below); structurally distinctive within the broader ancient-astronaut tradition through the specific recursive-cyclical content.
+コーパスの宇宙の連鎖の枠組みは、この状況の中で次のように位置づけられます。すなわち、たとえ枠組みの具体的な主張が主流の調査が確証したものを超えていても、経験的・観測的水準では主流の宇宙論と構造的に一貫している。地球生命の意図的創造の問いについてはクリック＝オーゲルの意図的パンスペルミア仮説と構造的に整合する一方で、再帰的・周期的内容を通じてパンスペルミアを相当に超えて拡張する。宇宙論的・周期的水準では現代の周期宇宙論(シュタインハート＝トゥロク、ペンローズ)と構造的に両立する一方で、具体的な文明的内容については異なる。「最初の創造者」の問いについては主流の西洋神学の伝統とは実質的に異なる。さまざまな東洋の周期宇宙論の伝統(下記の*比較的観察*で扱う)とは構造的に整合する。具体的な再帰的・周期的内容を通じて、より広い古代宇宙飛行士論の伝統の中で構造的に特色ある。
 
-## Comparative observations
+## 比較的観察
 
-Cyclical-cosmological frameworks appear across multiple cultural-religious traditions worldwide, with substantial structural parallels to the framework's Cosmic Chain reading. The corpus reads this cross-cultural pattern as evidence of broader operational realities preserved in fragmentary form across the various traditions.
+周期的・宇宙論的枠組みは世界中の複数の文化的・宗教的伝統を横断して現れ、枠組みの宇宙の連鎖の読解と相当な構造的並行をもちます。コーパスはこの文化を越えたパターンを、さまざまな伝統を横断して断片的な形で保存された、より広い作戦的現実の証拠として読みます。
 
-### Hindu cyclic cosmology: kalpa-yuga
+### ヒンドゥー教の周期宇宙論:カルパ・ユガ
 
-The Hindu tradition preserves the most extensively developed cyclic cosmology in the world's religious traditions. The principal features:
+ヒンドゥー教の伝統は、世界の宗教的伝統の中で最も広範に展開された周期宇宙論を保存しています。主要な特徴は次の通りです。
 
-**The yuga cycles**. The four yugas — Krita (Satya), Treta, Dvapara, Kali — comprise the standard Hindu cosmic developmental cycle. The yugas have specific durations: Krita Yuga lasts 1,728,000 years; Treta Yuga lasts 1,296,000 years; Dvapara Yuga lasts 864,000 years; Kali Yuga lasts 432,000 years. The four yugas together comprise the **Mahayuga** of 4,320,000 years.
+**ユガの周期**。四つのユガ――クリタ(サティヤ)、トレーター、ドヴァーパラ、カリ――が標準的なヒンドゥー教の宇宙的発達の周期を構成します。ユガには具体的な持続期間があります。クリタ・ユガは1,728,000年続き、トレーター・ユガは1,296,000年続き、ドヴァーパラ・ユガは864,000年続き、カリ・ユガは432,000年続きます。四つのユガが合わさって4,320,000年の**マハーユガ**を構成します。
 
-**The kalpa cycles**. The Mahayuga of 4,320,000 years is one unit; 1,000 mahayugas comprise one **Kalpa** of approximately 4.32 billion years. The Kalpa is described as one "day of Brahma," with each Kalpa being followed by an equally long "night of Brahma" during which the cosmos is dissolved.
+**カルパの周期**。4,320,000年のマハーユガは一つの単位です。1,000のマハーユガがおよそ43.2億年の一つの**カルパ**を構成します。カルパは一つの「ブラフマーの昼」と記述され、各カルパには、宇宙が解体される等しく長い「ブラフマーの夜」が続きます。
 
-**The infinite cosmic cycles**. The Hindu tradition treats the cosmos as undergoing infinite successive Kalpa cycles, with each Kalpa producing creation, development, dissolution, and re-creation. The infinite-recursive character of the Hindu cyclic cosmology is structurally similar to the Cosmic Chain framework's specific recursive content.
+**無限の宇宙周期**。ヒンドゥー教の伝統は、宇宙を無限に継起するカルパの周期を経るものとして取り扱い、各カルパが創造、発達、解体、再創造を生み出します。ヒンドゥー教の周期宇宙論の無限再帰的性格は、宇宙の連鎖の枠組みの具体的な再帰的内容と構造的に類似しています。
 
-**The Brahma-multiplicity tradition**. Various Hindu texts treat the broader cosmos as comprising multiple Brahma-systems, with each Brahma operating within its specific cosmic system across the cosmic cycles. The multiple-Brahma framework provides substantial parallel content for the multiple-creator-civilization framework of the Cosmic Chain.
+**ブラフマーの多数性の伝統**。さまざまなヒンドゥー教の文書は、より広い宇宙を複数のブラフマー系として取り扱い、各ブラフマーが宇宙の周期を横断してその具体的な宇宙系の中で機能します。複数のブラフマーの枠組みは、宇宙の連鎖の複数の創造者文明の枠組みに対する相当な並行内容を提供します。
 
-The framework reads the Hindu cyclic cosmology as preserving fragmentary memory of the broader cosmic-recursive structure within the distinctive Hindu cultural-religious framing. The specific Hindu elaborations (the yuga durations, the kalpa cosmology, the multiple Brahmas) reflect the tradition's distinctive theological content while preserving the underlying recursive-cyclical pattern.
+枠組みは、ヒンドゥー教の周期宇宙論を、ヒンドゥー教の特色ある文化的・宗教的枠組みの中で、より広い宇宙的・再帰的構造の断片的な記憶を保存するものとして読みます。{{ cite(id="bhagavad-gita", text="[18]", title="『バガヴァッド・ギーター』(イーシュワラン訳)――宇宙周期の枠組み") }}{{ cite(id="doniger-hindu-myths", text="[19]", title="ドニガー『ヒンドゥー神話:資料集』(1975年)") }}具体的なヒンドゥー教の精緻化(ユガの持続期間、カルパ宇宙論、複数のブラフマー)は、根底にある再帰的・周期的パターンを保存しつつ、この伝統の特色ある神学内容を反映しています。
 
-### Buddhist beginningless cycles
+### 仏教の無始の周期
 
-The Buddhist tradition preserves substantial cosmological material on beginningless cycles (*anavarāgra*, "without beginning"). The principal features:
+仏教の伝統は、無始の周期(*アナヴァラーグラ(anavarāgra)*、「始まりなし」)についての相当な宇宙論的資料を保存しています。主要な特徴は次の通りです。
 
-**The beginningless saṃsāra**. The Buddhist tradition treats *saṃsāra* (the cycle of existence) as **beginningless** — not as having no beginning in absolute time but as having no findable first moment. The Pali phrase *anamatagga* ("without findable beginning") captures the specific framework: the question "when did saṃsāra begin?" is treated as not having a determinable answer, with the cycle extending indefinitely backward.
+**無始の輪廻**。仏教の伝統は、*輪廻(saṃsāra)*(存在の周期)を**無始**――絶対的時間において始まりをもたないというのではなく、見出しうる最初の瞬間をもたない――として取り扱います。パーリ語の語句*アナマタッガ(anamatagga)*(「見出しうる始まりなし」)が具体的な枠組みを捉えています。すなわち「輪廻はいつ始まったのか」という問いは、決定可能な答えをもたないものとして扱われ、周期は際限なく後方へ伸びます。
 
-**The cosmic ages**. Buddhist cosmology develops elaborate cosmic-temporal frameworks with various age-cycles operating across cosmic time. The principal frameworks include the *kalpa* cycles (with substantial structural parallels to Hindu kalpa cosmology), the various age-cycles within each kalpa, and the broader cosmic-temporal frameworks within which buddha-figures appear.
+**宇宙の時代**。仏教の宇宙論は、宇宙的時間を横断して作動するさまざまな時代の周期を伴う精緻な宇宙的・時間的枠組みを展開します。主要な枠組みには、*カルパ*の周期(ヒンドゥー教のカルパ宇宙論と相当な構造的並行をもつ)、各カルパの中のさまざまな時代の周期、そしてブッダたちが現れる、より広い宇宙的・時間的枠組みが含まれます。
 
-**The multiple buddhas across cosmic time**. Buddhist tradition treats Śākyamuni Buddha as the most recent of a long series of buddhas across cosmic time, with various previous buddhas being identified across the cosmic-historical record and Maitreya being the next future buddha. The succession of buddhas across cosmic time provides substantial parallel content for the Cosmic Chain's recursive-cyclical structure.
+**宇宙的時間を横断する複数のブッダ**。仏教の伝統は、釈迦牟尼仏を宇宙的時間を横断する長い一連のブッダのうち最も近いものとして取り扱い、さまざまな過去のブッダが宇宙的・歴史的記録を横断して同定され、弥勒が次の未来のブッダとされます。宇宙的時間を横断するブッダの継起は、宇宙の連鎖の再帰的・周期的構造に対する相当な並行内容を提供します。
 
-**The Mahāyāna multiple buddha-fields**. The Mahāyāna tradition preserves substantial multiple-worlds material (treated more fully in the [Cosmic Competition](../cosmic-competition/) entry). The buddha-field framework provides parallel content for the Cosmic Chain's recursive-cyclical structure.
+**大乗の複数の仏国土**。大乗の伝統は、相当な多数世界の資料を保存しています(より十分には[宇宙的競争](../cosmic-competition/)の項目で扱う)。仏国土の枠組みは、宇宙の連鎖の再帰的・周期的構造に対する並行内容を提供します。
 
-The framework reads the Buddhist beginningless-cycle tradition as preserving substantial parallel content to the Cosmic Chain framework. The Buddhist tradition's specific "without findable beginning" framing is structurally identical with the Cosmic Chain's "no first creator" position.
+枠組みは、仏教の無始の周期の伝統を、宇宙の連鎖の枠組みに対する相当な並行内容を保存するものとして読みます。{{ cite(id="williams-mahayana-buddhism", text="[20]", title="ウィリアムズ『大乗仏教』(2008年)――無始の輪廻と仏国土の宇宙論") }}{{ cite(id="buswell-lopez-princeton-buddhism", text="[21]", title="バスウェル＆ロペス『プリンストン仏教辞典』(2014年)") }}仏教の伝統の具体的な「見出しうる始まりなし」という枠組みは、宇宙の連鎖の「最初の創造者はいない」という立場と構造的に同一です。
 
-### Jain anadi cosmology
+### ジャイナ教のアナーディ宇宙論
 
-The Jain tradition preserves a substantial **anadi** ("without beginning") cosmology with specific features warranting treatment:
+ジャイナ教の伝統は、取り扱いに値する具体的な特徴をもつ相当な**アナーディ(anadi)**(「始まりなし」)宇宙論を保存しています。
 
-**The eternal universe**. Jain cosmology treats the universe as eternal and uncreated, with no specific beginning event and no specific ending event. The universe undergoes cyclic developmental phases but does not have any ultimate origin or termination.
+**永遠の宇宙**。ジャイナ教の宇宙論は、宇宙を、具体的な始まりの出来事も具体的な終わりの出来事もない、永遠で創造されざるものとして取り扱います。宇宙は周期的な発達の局面を経ますが、いかなる究極的な起源も終結ももちません。
 
-**The cosmic time-cycle (kalachakra)**. Jain tradition develops a specific cosmic time-cycle (the *kalachakra*, "wheel of time") that includes alternating ascending and descending half-cycles, each comprising six developmental ages. The full cycle takes substantial cosmic time, with the cycles continuing indefinitely.
+**宇宙の時間周期(カーラチャクラ)**。ジャイナ教の伝統は、それぞれ六つの発達の時代から成る、交互の上昇半周期と下降半周期を含む、具体的な宇宙の時間周期(*カーラチャクラ(kalachakra)*、「時の車輪」)を展開します。完全な周期は相当な宇宙的時間を要し、周期は際限なく続いていきます。
 
-**The plurality of souls**. Jain cosmology treats the cosmos as containing infinite souls (*jīva*) operating across the cosmic time-cycle, with each soul undergoing its own developmental trajectory across the cycles.
+**魂の多数性**。ジャイナ教の宇宙論は、宇宙を、宇宙の時間周期を横断して作動する無限の魂(*ジーヴァ(jīva)*)を含むものとして取り扱い、各魂が周期を横断して自らの発達の軌道を経ます。
 
-**The structural similarity to the Cosmic Chain**. The Jain *anadi* framework has substantial structural similarity to the Cosmic Chain framework's "no first creator" position. Both frameworks reject the conventional Western theological presupposition that the cosmos has an ultimate origin; both develop substantial alternative cosmological content within the eternal-universe framework.
+**宇宙の連鎖との構造的類似性**。ジャイナ教の*アナーディ*の枠組みは、宇宙の連鎖の枠組みの「最初の創造者はいない」という立場と相当な構造的類似性をもちます。いずれの枠組みも、宇宙が究極的な起源をもつという従来の西洋神学の前提を退けます。いずれも永遠の宇宙の枠組みの中で相当な代替的宇宙論的内容を展開します。
 
-The framework reads the Jain *anadi* tradition as preserving substantial parallel content to the Cosmic Chain framework's specific eternal-cosmos position.
+枠組みは、ジャイナ教の*アナーディ*の伝統を、宇宙の連鎖の枠組みの具体的な永遠の宇宙の立場に対する相当な並行内容を保存するものとして読みます。{{ cite(id="dundas-the-jains", text="[22]", title="ダンダス『ジャイナ教徒』(2002年)――無始・無終の時間周期というアナーディ宇宙論") }}
 
-### Stoic eternal recurrence
+### ストア派の永劫回帰
 
-The Greek-Roman Stoic tradition preserves substantial cyclic-cosmological material in the **eternal recurrence** doctrine. The principal features:
+ギリシア・ローマのストア派の伝統は、**永劫回帰**の教説において相当な周期的・宇宙論的資料を保存しています。主要な特徴は次の通りです。
 
-**The cosmic cycle**. The Stoic tradition (developed by Chrysippus and other Stoic philosophers) proposed that the cosmos undergoes successive cycles of conflagration (*ekpyrosis*) and renewal (*palingenesis*), with each cycle reproducing the prior cycle in identical form.
+**宇宙周期**。ストア派の伝統(クリュシッポスその他のストア派哲学者によって展開)は、宇宙が大火(*ekpyrosis*)と再生(*palingenesis*)の継起する周期を経て、各周期が先行する周期を同一の形で再現すると提案しました。
 
-**The structural identity across cycles**. The Stoic tradition specifically treated the successive cycles as structurally identical — the same events occurring in the same sequence in each cycle, with the same individuals living the same lives in each iteration. The framework's specific content differs from the Cosmic Chain framework (which treats the cycles as structurally identical but with substantively different specific contents), but the broader recursive-cyclical pattern is structurally aligned.
+**周期を越えた構造的同一性**。ストア派の伝統は、継起する周期を具体的に構造的同一なものとして取り扱いました――同じ出来事が各周期で同じ順序で起こり、同じ個人が各反復で同じ生を生きるのです。この枠組みの具体的な内容は宇宙の連鎖の枠組み(周期を構造的同一だが具体的内容が実質的に異なるものとして取り扱う)とは異なりますが、より広い再帰的・周期的パターンは構造的に整合します。
 
-**The cosmic conflagration**. The Stoic *ekpyrosis* doctrine treats the periodic cosmic destruction as a cosmic-fire event that consumes the entire cosmos before the renewal phase begins. The specific destruction-and-renewal structure provides substantial parallel content for the broader cyclic-cosmology framework.
+**宇宙の大火**。ストア派の*大火(ekpyrosis)*の教説は、周期的な宇宙の破壊を、再生の局面が始まる前に宇宙全体を消費する宇宙的な火の出来事として取り扱います。具体的な破壊と再生の構造は、より広い周期宇宙論の枠組みに対する相当な並行内容を提供します。
 
-The framework reads the Stoic eternal-recurrence tradition as preserving substantial parallel content to the broader cyclic-cosmology framework, with the specific Stoic framing reflecting the tradition's distinctive philosophical content.
+枠組みは、ストア派の永劫回帰の伝統を、より広い周期宇宙論の枠組みに対する相当な並行内容を保存するものとして読み、具体的なストア派の枠組みはこの伝統の特色ある哲学内容を反映しています。
 
-### Hermetic "as above, so below"
+### ヘルメス主義の「上の如く、下も然り」
 
-The Hermetic tradition preserves the principle of cosmic correspondence in the famous phrase **"as above, so below"** (the *Tabula Smaragdina* or Emerald Tablet's specific phrasing). The principal features:
+ヘルメス主義の伝統は、有名な言い回し**「上の如く、下も然り」**(*翠玉板(Tabula Smaragdina)*すなわちエメラルド・タブレットの具体的な言い回し)において宇宙的照応の原理を保存しています。主要な特徴は次の通りです。
 
-**The cosmic-correspondence principle**. The Hermetic tradition treats the cosmic structure as operating through specific correspondences between the various levels of being — the macrocosm corresponding to the microcosm, the celestial corresponding to the terrestrial, the divine corresponding to the human. The specific correspondences are the principal content of the Hermetic philosophical-theological framework.
+**宇宙的照応の原理**。ヘルメス主義の伝統は、宇宙の構造を、存在のさまざまな水準のあいだの具体的な照応――大宇宙が小宇宙に照応し、天上が地上に照応し、神的なものが人間的なものに照応する――を通じて作動するものとして取り扱います。具体的な照応がヘルメス主義の哲学的・神学的枠組みの主要な内容です。
 
-**The Tabula Smaragdina**. The principal text preserving the "as above, so below" phrase is the *Tabula Smaragdina* (Emerald Tablet), traditionally attributed to Hermes Trismegistus. The text is preserved in various medieval Latin and Arabic versions, with the specific phrase "as above, so below" being the most influential single statement of the Hermetic correspondence principle.
+**翠玉板**。「上の如く、下も然り」の言い回しを保存する主要な文書は*翠玉板*(エメラルド・タブレット)であり、伝統的にヘルメス・トリスメギストスに帰されます。この文書はさまざまな中世のラテン語およびアラビア語の版で保存されており、「上の如く、下も然り」という具体的な言い回しがヘルメス主義の照応の原理の最も影響力のある単一の言明です。
 
-**The Renaissance Hermetic tradition**. The Hermetic principle was substantially developed across the Renaissance Hermetic tradition (Ficino, Pico della Mirandola, Bruno, Dee, and others), with substantial implications for the broader Renaissance intellectual development.
+**ルネサンスのヘルメス主義の伝統**。ヘルメス主義の原理は、ルネサンスのヘルメス主義の伝統(フィチーノ、ピコ・デッラ・ミランドラ、ブルーノ、ディーら)を横断して相当に展開され、より広いルネサンスの知的展開に対する相当な含意を伴いました。
 
-**The structural similarity to the Cosmic Chain**. The Hermetic correspondence principle has substantial structural similarity to the Cosmic Chain framework's recursive-cyclical content. The framework preserves the specific insight that the cosmic structure is recursive — what occurs at one level of the creative hierarchy is repeated at the level it produces — without adopting the broader Hermetic theological-cosmological apparatus.
+**宇宙の連鎖との構造的類似性**。ヘルメス主義の照応の原理は、宇宙の連鎖の枠組みの再帰的・周期的内容と相当な構造的類似性をもちます。枠組みは、より広いヘルメス主義の神学的・宇宙論的装置を採用することなく、宇宙の構造が再帰的であるという具体的な洞察――創造の階層のある水準で生じることが、それが生み出す水準で反復される――を保持します。
 
-The Lord's Prayer's central petition — "thy will be done in earth, as it is in heaven" — preserves the same cosmic-correspondence insight in specifically Christian-tradition form. The framework reads both the Hermetic principle and the Lord's Prayer petition as preserving fragmentary memory of the same underlying recursive-cyclical structure.
+主の祈りの中心的な嘆願――「御心が天で行われるように地でも行われますように」――は、同じ宇宙的照応の洞察を具体的にキリスト教の伝統の形で保存しています。枠組みは、ヘルメス主義の原理と主の祈りの嘆願の両方を、同じ根底にある再帰的・周期的構造の断片的な記憶を保存するものとして読みます。
 
-### Mesoamerican cyclic cosmologies
+### メソアメリカの周期宇宙論
 
-The Mesoamerican traditions preserve substantial cyclic-cosmological material with distinctive cultural-religious framings.
+メソアメリカの伝統は、特色ある文化的・宗教的枠組みとともに相当な周期的・宇宙論的資料を保存しています。
 
-**The Aztec five-suns cosmology**. The Aztec tradition preserves the doctrine of five successive cosmic ages (the **five suns**), each ending in catastrophic destruction. The principal sources are the *Codex Chimalpopoca* (with the *Leyenda de los Soles* preserving the most complete Aztec cosmogonic account) and various other Aztec sources. The five suns are: the Jaguar Sun (ended by jaguar attacks), the Wind Sun (ended by hurricanes), the Rain Sun (ended by fiery rain), the Water Sun (ended by flood), and the present Movement Sun (projected to end in earthquakes).
+**アステカの五つの太陽の宇宙論**。アステカの伝統は、それぞれが破滅的な破壊で終わる、五つの継起する宇宙の時代(**五つの太陽**)の教義を保存しています。主要な資料は*『チマルポポカ写本』*(最も完全なアステカの宇宙創成の記述を保存する*『太陽の伝説(Leyenda de los Soles)』*を伴う)とさまざまな他のアステカの資料です。五つの太陽は、ジャガーの太陽(ジャガーの襲撃で終わった)、風の太陽(ハリケーンで終わった)、雨の太陽(火の雨で終わった)、水の太陽(洪水で終わった)、そして現在の動きの太陽(地震で終わると想定される)です。
 
-**The Maya Long Count cosmology**. The Maya Long Count calendar preserves substantial cyclic-temporal content, with the principal cycles including the 360-day *tun*, the 7,200-day *katun*, the 144,000-day *baktun*, and the broader Long Count cycles. The Maya cosmology integrates the cyclic-temporal framework with substantial cosmological-religious content.
+**マヤの長期暦の宇宙論**。マヤの長期暦は相当な周期的・時間的内容を保存しており、主要な周期には360日の*トゥン*、7,200日の*カトゥン*、144,000日の*バクトゥン*、そしてより広い長期暦の周期が含まれます。マヤの宇宙論は、周期的・時間的枠組みを相当な宇宙論的・宗教的内容と統合します。
 
-**The cosmic-cycles broader pattern**. Various Mesoamerican traditions preserve cyclic-cosmological material with specific cultural-religious framings. The detailed treatment of specific Mesoamerican cosmologies lives in the [Antediluvian](../antediluvian/) and [Great Flood](../great-flood/) entries' comparative observations.
+**宇宙の周期のより広いパターン**。さまざまなメソアメリカの伝統は、具体的な文化的・宗教的枠組みとともに周期的・宇宙論的資料を保存しています。具体的なメソアメリカの宇宙論の詳細な取り扱いは、[大洪水以前](../antediluvian/)と[大洪水](../great-flood/)の項目の比較的観察にあります。
 
-The framework reads the Mesoamerican cyclic-cosmologies as preserving substantial parallel content to the broader cyclic-cosmology framework.
+枠組みは、メソアメリカの周期宇宙論を、より広い周期宇宙論の枠組みに対する相当な並行内容を保存するものとして読みます。{{ cite(id="carrasco-religions-mesoamerica", text="[23]", title="カラスコ『メソアメリカの諸宗教』――五つの太陽の継起する世界の宇宙論") }}{{ cite(id="tedlock-popol-vuh", text="[24]", title="テッドロック(訳)『ポポル・ヴフ』(1996年)") }}
 
-### Norse cyclic cosmology
+### 北欧の周期宇宙論
 
-The Norse tradition preserves substantial cyclic-cosmological material in the **Ragnarök-and-renewal** framework. The principal features:
+北欧の伝統は、**ラグナロクと再生**の枠組みにおいて相当な周期的・宇宙論的資料を保存しています。主要な特徴は次の通りです。
 
-**Ragnarök**. The Norse tradition preserves the prophecy of Ragnarök — the specific cosmic catastrophe in which the principal Aesir gods die in battle with their cosmic adversaries (Loki, the Fenrir wolf, the Midgard serpent, the giants, others). The Ragnarök narrative is preserved principally in the *Poetic Edda*'s *Völuspá* and Snorri Sturluson's *Prose Edda*'s *Gylfaginning*.
+**ラグナロク**。北欧の伝統は、ラグナロクの予言――主要なアース神族の神々がその宇宙的な敵対者たち(ロキ、フェンリル狼、ミドガルズ蛇、巨人たちその他)との戦いで死ぬ具体的な宇宙的破局――を保存しています。ラグナロクの物語は主として*『古エッダ』*の*『巫女の予言(Völuspá)』*とスノッリ・ストゥルルソンの*『散文エッダ』*の*『ギュルヴィたぶらかし(Gylfaginning)』*に保存されています。{{ cite(id="poetic-edda", text="[25]", title="『古エッダ』(ラリントン訳)――ラグナロクと再生についての巫女の予言") }}{{ cite(id="lindow-norse-mythology", text="[26]", title="リンドウ『北欧神話』(2001年)") }}
 
-**The post-Ragnarök renewal**. After Ragnarök, the Norse tradition preserves substantial material on the post-catastrophic renewal: a new earth emerges from the sea, with various surviving deities (Vidar, Vali, Modi, Magni) and various surviving humans (Líf and Lífþrasir, who survived in the Hoddmímis holt) repopulating the renewed cosmos.
+**ラグナロク後の再生**。ラグナロクののち、北欧の伝統は破局後の再生についての相当な資料を保存しています。すなわち新たな大地が海から現れ、さまざまな生き残った神々(ヴィーザル、ヴァーリ、モージ、マグニ)とさまざまな生き残った人間たち(ホッドミーミルの森で生き延びたリーヴとリーヴスラシル)が再生した宇宙に再び住みます。
 
-**The cyclic implications**. The Norse Ragnarök-and-renewal framework has substantial cyclic-cosmological implications, with various scholarly readings treating the broader Norse cosmology as cyclic rather than linear-eschatological.
+**周期的含意**。北欧のラグナロクと再生の枠組みは相当な周期的・宇宙論的含意をもち、さまざまな学問的読解が、より広い北欧の宇宙論を線的・終末論的というより周期的なものとして取り扱います。
 
-The framework reads the Norse cyclic-cosmology tradition as preserving substantial parallel content to the broader cyclic-cosmology framework, with the specific Norse framing reflecting the tradition's distinctive cultural content.
+枠組みは、北欧の周期宇宙論の伝統を、より広い周期宇宙論の枠組みに対する相当な並行内容を保存するものとして読み、具体的な北欧の枠組みはこの伝統の特色ある文化内容を反映しています。
 
-### The convergence
+### 収斂
 
-The corpus's working position on the comparative-cyclic-cosmology question is that the global recurrence of cyclic-cosmological frameworks across cultural-religious traditions is meaningful as evidence of a genuine underlying reality. The mainstream scholarly explanation — which generally treats the various cyclic cosmologies as developing through internal religious-philosophical processes combined with cultural diffusion — is read by the corpus as substantially insufficient to account for the breadth and the specific structural parallels (the recursive-cyclical pattern, the eternal-recurrence implications, the multiple-cosmic-cycles content) that appear consistently across geographically and chronologically separated traditions.
+比較的・周期的・宇宙論的な問いについてのコーパスの作業上の立場は、文化的・宗教的伝統を横断する周期的・宇宙論的枠組みの世界的な反復が、真の根底にある現実の証拠として有意であるというものです。{{ footnote(id="6") }}{{ cite(id="hannah-greek-roman-calendars", text="[27]", title="ハンナ『ギリシア・ローマの暦』(2005年)――古典的な周期時間と大年") }}主流の学問的説明――概してさまざまな周期宇宙論を、文化的伝播と組み合わさった内的な宗教的・哲学的プロセスを通じて展開するものとして取り扱う――は、地理的にも年代的にも隔たった伝統を横断して一貫して現れる広がりと具体的な構造的並行(再帰的・周期的パターン、永劫回帰の含意、複数の宇宙周期の内容)を説明するには実質的に不十分であるとコーパスは読みます。
 
-The framework's specific reading is that the global cyclic-cosmology pattern preserves common memory of the broader cosmic situation that the Cosmic Chain framework articulates, with each cultural-religious tradition preserving the memory in its own terms and with its own specific details reflecting its own perspective and its own subsequent transmission history. The Hindu and Buddhist traditions preserve the memory most directly relative to the framework's specific cyclic-recursive content; the Jain *anadi* tradition preserves the specific "no first creator" position; the Stoic tradition preserves the eternal-recurrence content within the Western philosophical context; the Hermetic tradition preserves the cosmic-correspondence principle; the Mesoamerican and Norse traditions preserve cyclic-cosmological material within their respective cultural channels.
+枠組みの具体的な読解は、世界的な周期宇宙論のパターンが、宇宙の連鎖の枠組みが明確にする、より広い宇宙的状況の共通の記憶を保存するというものであり、各文化的・宗教的伝統がその記憶を自らの用語で、そして自らの視点と自らのその後の伝承の歴史を反映する自らの具体的な細部とともに保存しています。ヒンドゥー教と仏教の伝統は、枠組みの具体的な周期的・再帰的内容との関係において最も直接的に記憶を保存しています。ジャイナ教の*アナーディ*の伝統は具体的な「最初の創造者はいない」という立場を保存しています。ストア派の伝統は西洋哲学の文脈の中で永劫回帰の内容を保存しています。ヘルメス主義の伝統は宇宙的照応の原理を保存しています。メソアメリカと北欧の伝統は、それぞれの文化的水路の中で周期的・宇宙論的資料を保存しています。
 
-The corpus does not require rejecting all of the mainstream scholarly framework. Cultural diffusion certainly occurred across the historical period, and the cyclic-cosmologies across cultures show both common structural features (preserving the original framework) and culturally specific elaborations (reflecting the diffusion and local development). What the corpus's framework adds is the underlying historical-cosmic situation that gave rise to the structural commonalities — a situation that the mainstream framework, lacking the corpus's broader cosmological framework, has had no way to identify and has therefore had to attribute to combinations of independent religious-philosophical development and cultural diffusion.
-
-## See also
-
-- [Cosmic Competition](../cosmic-competition/)
-- [Doubled Signature](../doubled-signature/)
-- [Embassy](../embassy/)
-- [Apocalypse](../apocalypse/)
-- [Elohim](../elohim/)
-- [The Alliance](../the-alliance/)
-- [Council of the Eternals](../council-of-eternals/)
-- [Yahweh](../yahweh/)
-- [Jesus](../jesus/)
-- [Raël](../rael/)
-- [Prophet](../prophet/)
-- [Age of Aries](../timeline/age-of-aries/)
-- [Age of Aquarius](../timeline/age-of-aquarius/)
-- [Genesis](../genesis/)
-- [Hebrew Bible](../hebrew-bible/)
-- [Atomic Threshold](../atomic-threshold/)
-- [Jean Sendy](../jean-sendy/)
-- [Mauro Biglino](../mauro-biglino/)
-- [Paul Anthony Wallis](../paul-anthony-wallis/)
-
-## References
-
-Vorilhon, Claude (Raël). *The Book Which Tells the Truth* (1974); collected in *Message from the Designers*.
-
-Vorilhon, Claude (Raël). *Extra-Terrestrials Took Me to Their Planet* (1975); collected in *Message from the Designers*. The "Neither God nor Soul" section is the principal source for the framework's specific Cosmic Chain content.
-
-Sendy, Jean. *Ces dieux qui firent le ciel et la terre*. Robert Laffont, 1969. English: *Those Gods Who Made Heaven and Earth*. Berkley, 1972.
-
-Sendy, Jean. *L'ère du Verseau*. Robert Laffont, 1970.
-
-Biglino, Mauro, and Giorgio Cattaneo. *The Naked Bible: The Truth About the Most Famous Book in History*. Uno, 2022.
-
-Wallis, Paul Anthony. *The Eden Conspiracy*. 6th Books, 2024.
-
-Bruno, Giordano. *De l'infinito universo et mondi* (1584). English: *On the Infinite Universe and Worlds*. Trans. Dorothea Waley Singer. In *Giordano Bruno: His Life and Thought*. Henry Schuman, 1950.
-
-Yates, Frances A. *Giordano Bruno and the Hermetic Tradition*. University of Chicago Press, 1964.
-
-Kant, Immanuel. *Critique of Pure Reason* (1781). Trans. Norman Kemp Smith. St. Martin's, 1929.
-
-Hawking, Stephen, and Roger Penrose. *The Nature of Space and Time*. Princeton University Press, 1996.
-
-Linde, Andrei. *Inflation and Quantum Cosmology*. Academic Press, 1990.
-
-Tegmark, Max. *Our Mathematical Universe: My Quest for the Ultimate Nature of Reality*. Knopf, 2014.
-
-Vilenkin, Alexander. *Many Worlds in One: The Search for Other Universes*. Hill and Wang, 2006.
-
-Steinhardt, Paul J., and Neil Turok. *Endless Universe: Beyond the Big Bang*. Doubleday, 2007.
-
-Penrose, Roger. *Cycles of Time: An Extraordinary New View of the Universe*. Knopf, 2011.
-
-Hoyle, Fred. "A New Model for the Expanding Universe." *Monthly Notices of the Royal Astronomical Society* 108 (1948): 372–382.
-
-Penzias, Arno, and Robert Wilson. "A Measurement of Excess Antenna Temperature at 4080 Mc/s." *Astrophysical Journal* 142 (1965): 419–421.
-
-Crick, Francis, and Leslie Orgel. "Directed Panspermia." *Icarus* 19, no. 3 (1973): 341–346.
-
-Crick, Francis. *Life Itself: Its Origin and Nature*. Simon and Schuster, 1981.
-
-Arrhenius, Svante. *Worlds in the Making: The Evolution of the Universe*. Trans. H. Borns. Harper, 1908.
-
-Hoyle, Fred, and Chandra Wickramasinghe. *Lifecloud: The Origin of Life in the Universe*. Harper and Row, 1978.
-
-Nietzsche, Friedrich. *Thus Spoke Zarathustra* (1883–1885). Trans. Walter Kaufmann. In *The Portable Nietzsche*. Viking, 1954.
-
-Nietzsche, Friedrich. *The Will to Power* (posthumous, 1901). Trans. Walter Kaufmann and R. J. Hollingdale. Vintage, 1968.
-
-Long, A. A., and D. N. Sedley. *The Hellenistic Philosophers*. 2 vols. Cambridge University Press, 1987.
-
-Doniger, Wendy. *Hindu Myths: A Sourcebook*. Penguin Classics, 1975.
-
-*The Bhagavad Gita*. Trans. Eknath Easwaran. Nilgiri Press, 2007.
-
-Williams, Paul. *Mahāyāna Buddhism: The Doctrinal Foundations*. Routledge, 2nd ed., 2008.
-
-Buswell, Robert E., Jr., and Donald S. Lopez Jr. *The Princeton Dictionary of Buddhism*. Princeton University Press, 2014.
-
-Dundas, Paul. *The Jains*. Routledge, 2nd ed., 2002.
-
-Jaini, Padmanabh S. *The Jaina Path of Purification*. University of California Press, 1979.
-
-Hannah, Robert. *Greek and Roman Calendars: Constructions of Time in the Classical World*. Duckworth, 2005.
-
-*The Emerald Tablet of Hermes Trismegistus*. Various editions; principal English-language treatments in: Faivre, Antoine. *The Eternal Hermes*. Phanes Press, 1995.
-
-Tedlock, Dennis, trans. *Popol Vuh: The Mayan Book of the Dawn of Life*. Touchstone, 1996.
-
-Carrasco, Davíd. *Religions of Mesoamerica*. Waveland Press, 2nd ed., 2014.
-
-León-Portilla, Miguel. *Aztec Thought and Culture: A Study of the Ancient Nahuatl Mind*. University of Oklahoma Press, 1963.
-
-*The Poetic Edda*. Trans. Carolyne Larrington. Oxford University Press, rev. ed., 2014.
-
-Sturluson, Snorri. *The Prose Edda*. Trans. Jesse L. Byock. Penguin Classics, 2005.
-
-Lindow, John. *Norse Mythology: A Guide to the Gods, Heroes, Rituals, and Beliefs*. Oxford University Press, 2001.
-
-von Däniken, Erich. *Chariots of the Gods?* Trans. Michael Heron. Putnam, 1968.
-
-Sitchin, Zecharia. *The 12th Planet*. Stein and Day, 1976.
-
-"Multiverse." *Encyclopaedia Britannica*. <https://www.britannica.com/science/multiverse>
-
-"Big Bang model." *Encyclopaedia Britannica*. <https://www.britannica.com/science/big-bang-model>
-
-"Cyclic cosmology." *Wikipedia*. <https://en.wikipedia.org/wiki/Cyclic_model>
-
-"Panspermia." *Encyclopaedia Britannica*. <https://www.britannica.com/science/panspermia>
-
-"Eternal recurrence." *Encyclopaedia Britannica*. <https://www.britannica.com/topic/eternal-return>
+コーパスは、主流の学問的枠組みのすべてを退けることを要求しません。文化的伝播は歴史的な期間を横断して確かに起こり、文化を越えた周期宇宙論は、共通の構造的特徴(元の枠組みを保存する)と文化的に固有の精緻化(伝播と局所的展開を反映する)の両方を示します。コーパスの枠組みが付け加えるのは、構造的共通性を生じさせた根底にある歴史的・宇宙的状況です――この状況は、コーパスのより広い宇宙論的枠組みを欠く主流の枠組みが同定するすべを持たず、それゆえ独立した宗教的・哲学的展開と文化的伝播の組み合わせに帰さざるをえなかったものです。
