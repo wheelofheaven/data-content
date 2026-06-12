@@ -19,23 +19,22 @@ footnotes = [
 ]
 
 references = [
-    { title = "Le Livre qui dit la vérité", author = "Claude Vorilhon (Rael)", date = "1974", medium = "religious-text", path = "/library/lets-welcome-the-extraterrestrials/" },
-    { title = "Les Extra-Terrestres m'ont emmené sur leur planète", author = "Claude Vorilhon (Rael)", date = "1975", medium = "religious-text", path = "/library/extraterrestrials-took-me-to-their-planet/" },
-    { title = "Intelligent Design: Message from the Designers", author = "Claude Vorilhon (Rael)", date = "2005", medium = "religious-text", description = "English-language consolidated edition of the Raëlian foundational texts; the source for the 1946-as-Aquarian-opening reading and the embassy commandment." },
-    { title = "Zephaniah", author = "Anonymous (Hebrew Bible)", date = "c. 7th c. BCE", medium = "religious-text", path = "/library/zephaniah/", description = "Source of the 'noise of a cry from the fish gate' transition signal cited in §II." },
-    { title = "Joel", author = "Anonymous (Hebrew Bible)", date = "c. 5th–4th c. BCE", medium = "religious-text", path = "/library/joel/", description = "Source of the 'pouring out of the spirit upon all flesh' passage cited in §II." },
-    { title = "Daniel", author = "Anonymous (Hellenistic Judaism)", date = "c. 165 BCE", medium = "religious-text", path = "/library/daniel/", description = "Source of the 'time of the end / many shall run to and fro / knowledge shall be increased' passage cited in §II." },
-    { title = "Isaiah", author = "Isaiah ben-Amoz and the post-exilic Isaiah school", date = "c. 8th–6th c. BCE", medium = "religious-text", path = "/library/isaiah-woh/", description = "Source of the 'mountain of YHWH's house' and 'swords into plowshares' passages cited in §II." },
-    { title = "Ezekiel", author = "Ezekiel ben-Buzi", date = "c. 593–571 BCE", medium = "religious-text", path = "/library/ezekiel-woh/", description = "Source of the river-from-the-temple vision (Ezekiel 47) cited in §II." },
-    { title = "Acts of the Apostles", author = "Anonymous (attributed to Luke)", date = "c. 80–90 CE", medium = "religious-text", path = "/library/acts/", description = "Pentecost narrative and Acts 15:16 'rebuilt tabernacle of David' passage cited in §II." },
-    { title = "Gospel of Matthew", author = "Anonymous (attributed to Matthew the apostle)", date = "c. 80–90 CE", medium = "religious-text", path = "/library/matthew-woh/", description = "Source of the 'gospel of the kingdom preached in all the world' passage at Matthew 24:14, cited in §II." },
-    { title = "Gospel of John", author = "Anonymous (Johannine community)", date = "c. 90–110 CE", medium = "religious-text", path = "/library/john/", description = "Source of the 'living water' passages cited in §VII." },
-    { title = "Revelation", author = "John of Patmos", date = "c. 95 CE", medium = "religious-text", path = "/library/revelation/", description = "Source of the 'eternal gospel' and 'river of the water of life' passages cited in §II and §VII." },
-    { title = "Hamlet's Mill: An Essay Investigating the Origins of Human Knowledge and Its Transmission Through Myth", author = "Giorgio de Santillana and Hertha von Dechend", date = "1969", medium = "nonfiction-book", url = "https://wheelofheaven.github.io/de-santillana-von-dechend-hamlets-mill/" },
-    { title = "Creation of a bacterial cell controlled by a chemically synthesized genome", author = "Daniel G. Gibson et al.", publication = "Science 329 (5987), 52–56", date = "2010", medium = "academic-paper", url = "https://doi.org/10.1126/science.1190719" },
-    { title = "Design and synthesis of a minimal bacterial genome", author = "Clyde A. Hutchison III et al.", publication = "Science 351 (6280), aad6253", date = "2016", medium = "academic-paper", url = "https://doi.org/10.1126/science.aad6253" },
+    { id = "le-livre-qui-dit-la-v-rit" },
+    { id = "les-extra-terrestres-m-ont-emmen-sur-leur-plan-te" },
+    { id = "intelligent-design-message-from-the-designers", note = "English-language consolidated edition of the Raëlian foundational texts; the source for the 1946-as-Aquarian-opening reading and the embassy commandment." },
+    { id = "zephaniah", note = "Source of the 'noise of a cry from the fish gate' transition signal cited in §II." },
+    { id = "joel", note = "Source of the 'pouring out of the spirit upon all flesh' passage cited in §II." },
+    { id = "daniel", note = "Source of the 'time of the end / many shall run to and fro / knowledge shall be increased' passage cited in §II." },
+    { id = "isaiah", note = "Source of the 'mountain of YHWH's house' and 'swords into plowshares' passages cited in §II." },
+    { id = "ezekiel", note = "Source of the river-from-the-temple vision (Ezekiel 47) cited in §II." },
+    { id = "acts-of-the-apostles", note = "Pentecost narrative and Acts 15:16 'rebuilt tabernacle of David' passage cited in §II." },
+    { id = "gospel-of-matthew", note = "Source of the 'gospel of the kingdom preached in all the world' passage at Matthew 24:14, cited in §II." },
+    { id = "gospel-of-john", note = "Source of the 'living water' passages cited in §VII." },
+    { id = "revelation", note = "Source of the 'eternal gospel' and 'river of the water of life' passages cited in §II and §VII." },
+    { id = "hamlets-mill" },
+    { id = "creation-of-a-bacterial-cell-controlled-by-a-chemically-synthesized-genome" },
+    { id = "design-and-synthesis-of-a-minimal-bacterial-genome" },
 ]
-
 [[extra.prev_age]]
 name = "Age of Pisces"
 symbol = "♓"

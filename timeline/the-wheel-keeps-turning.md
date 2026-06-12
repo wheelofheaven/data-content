@@ -17,17 +17,16 @@ footnotes = [
 ]
 
 references = [
-    { title = "Le Livre qui dit la vérité", author = "Claude Vorilhon (Rael)", date = "1974", medium = "religious-text", path = "/library/lets-welcome-the-extraterrestrials/" },
-    { title = "Les Extra-Terrestres m'ont emmené sur leur planète", author = "Claude Vorilhon (Rael)", date = "1975", medium = "religious-text", path = "/library/extraterrestrials-took-me-to-their-planet/" },
-    { title = "Intelligent Design: Message from the Designers", author = "Claude Vorilhon (Rael)", date = "2005", medium = "religious-text", description = "English-language consolidated edition; primary source for the fractal cosmology in §I and the four-level moral framework in §IV." },
-    { title = "Genesis", author = "Anonymous (Hebrew Bible); WoH translation from the pointed Masoretic Hebrew", date = "c. 6th–5th c. BCE", medium = "religious-text", path = "/library/genesis-woh/" },
-    { title = "Hamlet's Mill: An Essay Investigating the Origins of Human Knowledge and Its Transmission Through Myth", author = "Giorgio de Santillana and Hertha von Dechend", date = "1969", medium = "nonfiction-book", url = "https://wheelofheaven.github.io/de-santillana-von-dechend-hamlets-mill/", description = "Cross-cultural reconstruction of the precessional framework — the structural backbone of the corpus's twelve-age scheme." },
-    { title = "Qur'anic Geography", author = "Dan Gibson", date = "2011", medium = "nonfiction-book" },
-    { title = "Early Islamic Qiblas", author = "Dan Gibson", date = "2017", medium = "nonfiction-book" },
-    { title = "The Fractal Geometry of Nature", author = "Benoît Mandelbrot", date = "1982", medium = "nonfiction-book", description = "Mathematical foundation referenced in §I for the fractal-cosmology claim." },
-    { title = "Bhagavad Gita", author = "Vyasa (traditional attribution)", date = "c. 2nd c. BCE", medium = "religious-text", description = "Cited in §II on the Krishna figure as one of the alliance prophets." },
+    { id = "le-livre-qui-dit-la-v-rit" },
+    { id = "les-extra-terrestres-m-ont-emmen-sur-leur-plan-te" },
+    { id = "intelligent-design-message-from-the-designers", note = "English-language consolidated edition; primary source for the fractal cosmology in §I and the four-level moral framework in §IV." },
+    { id = "genesis" },
+    { id = "hamlets-mill", note = "Cross-cultural reconstruction of the precessional framework — the structural backbone of the corpus's twelve-age scheme." },
+    { id = "qur-anic-geography" },
+    { id = "early-islamic-qiblas" },
+    { id = "the-fractal-geometry-of-nature", note = "Mathematical foundation referenced in §I for the fractal-cosmology claim." },
+    { id = "bhagavad-gita", note = "Cited in §II on the Krishna figure as one of the alliance prophets." },
 ]
-
 [[extra.prev_age]]
 name = "Age of Aquarius"
 symbol = "♒"

@@ -19,18 +19,17 @@ footnotes = [
 ]
 
 references = [
-    { title = "Le Livre qui dit la vérité", author = "Claude Vorilhon (Rael)", date = "1974", medium = "religious-text", path = "/library/lets-welcome-the-extraterrestrials/" },
-    { title = "Les Extra-Terrestres m'ont emmené sur leur planète", author = "Claude Vorilhon (Rael)", date = "1975", medium = "religious-text", path = "/library/extraterrestrials-took-me-to-their-planet/" },
-    { title = "Genesis", author = "Anonymous (Hebrew Bible); WoH translation from the pointed Masoretic Hebrew", date = "c. 6th–5th c. BCE", medium = "religious-text", path = "/library/genesis-woh/" },
-    { title = "Histories, Book II", author = "Herodotus of Halicarnassus", date = "c. 440 BCE", medium = "religious-text", description = "Source of the report that Herodotus's Egyptian informants told him the pyramids were 'unimaginably old' — cited in §VII on the Giza complex." },
-    { title = "RETRACTED ARTICLE: A Tunguska sized airburst destroyed Tall el-Hammam a Middle Bronze Age city in the Jordan Valley near the Dead Sea", author = "Ted E. Bunch et al.", publication = "Scientific Reports 11, 18632", date = "2021", medium = "academic-paper", url = "https://doi.org/10.1038/s41598-021-97778-3", description = "Retracted by Scientific Reports on April 24, 2025; retained here for auditability." },
-    { title = "Retraction Note: A Tunguska sized airburst destroyed Tall el-Hammam a Middle Bronze Age city in the Jordan Valley near the Dead Sea", author = "Scientific Reports Editors", publication = "Scientific Reports 15, 14291", date = "2025", medium = "article", url = "https://doi.org/10.1038/s41598-025-99265-5", description = "The editors state that the original article's airburst claims were not sufficiently supported by the data." },
-    { title = "No mineralogic or geochemical evidence of impact at Tall el-Hammam, a Middle Bronze Age city in the Jordan Valley near the Dead Sea", author = "Steven J. Jaret and R. Scott Harris", publication = "Scientific Reports 12, 5189", date = "2022", medium = "academic-paper", url = "https://doi.org/10.1038/s41598-022-08216-x" },
-    { title = "Misunderstandings about the Tunguska event, shock wave physics, and airbursts have resulted in misinterpretations of evidence at Tall el-Hammam", author = "Mark Boslough and Andy Bruno", publication = "Scientific Reports 15, 13869", date = "2025", medium = "academic-paper", url = "https://doi.org/10.1038/s41598-025-98362-9" },
-    { title = "Redating the Great Sphinx of Giza", author = "Robert M. Schoch", publication = "KMT 3 (2), 52–59", date = "1992", medium = "academic-paper" },
-    { title = "Voices of the Rocks: A Scientist Looks at Catastrophes and Ancient Civilizations", author = "Robert M. Schoch", date = "1999", medium = "nonfiction-book", description = "Book-length presentation of Schoch's Sphinx water-erosion dating argument cited in §VII." },
+    { id = "le-livre-qui-dit-la-v-rit" },
+    { id = "les-extra-terrestres-m-ont-emmen-sur-leur-plan-te" },
+    { id = "genesis" },
+    { id = "histories-book-ii", note = "Source of the report that Herodotus's Egyptian informants told him the pyramids were 'unimaginably old' — cited in §VII on the Giza complex." },
+    { id = "retracted-article-a-tunguska-sized-airburst-destroyed-tall-el-hammam-a-middle-br", note = "Retracted by Scientific Reports on April 24, 2025; retained here for auditability." },
+    { id = "retraction-note-a-tunguska-sized-airburst-destroyed-tall-el-hammam-a-middle-bron", note = "The editors state that the original article's airburst claims were not sufficiently supported by the data." },
+    { id = "no-mineralogic-or-geochemical-evidence-of-impact-at-tall-el-hammam-a-middle-bron" },
+    { id = "misunderstandings-about-the-tunguska-event-shock-wave-physics-and-airbursts-have" },
+    { id = "redating-the-great-sphinx-of-giza" },
+    { id = "voices-of-the-rocks", note = "Book-length presentation of Schoch's Sphinx water-erosion dating argument cited in §VII." },
 ]
-
 [[extra.prev_age]]
 name = "Age of Gemini"
 symbol = "♊"

@@ -21,17 +21,16 @@ footnotes = [
 ]
 
 references = [
-    { title = "Le Livre qui dit la vérité", author = "Claude Vorilhon (Rael)", date = "1974", medium = "religious-text", path = "/library/lets-welcome-the-extraterrestrials/" },
-    { title = "Les Extra-Terrestres m'ont emmené sur leur planète", author = "Claude Vorilhon (Rael)", date = "1975", medium = "religious-text", path = "/library/extraterrestrials-took-me-to-their-planet/" },
-    { title = "Genesis", author = "Anonymous (Hebrew Bible); WoH translation from the pointed Masoretic Hebrew", date = "c. 6th–5th c. BCE", medium = "religious-text", path = "/library/genesis-woh/" },
-    { title = "A Hebrew and English Lexicon of the Old Testament", author = "Francis Brown, S. R. Driver, and Charles A. Briggs", date = "1906", medium = "nonfiction-book", description = "The BDB lexicon. Source for the entries on tannin / taninim discussed in §V." },
-    { title = "The Hebrew and Aramaic Lexicon of the Old Testament", author = "Ludwig Koehler, Walter Baumgartner, and Johann Jakob Stamm", date = "1994–2000", medium = "nonfiction-book", description = "HALOT — also cited in §V on tannin." },
-    { title = "A Concise Dictionary of the Words in the Hebrew Bible (Strong's)", author = "James Strong", date = "1890", medium = "nonfiction-book", description = "Strong's Hebrew Dictionary, cited inline for the tannin definition." },
-    { title = "Soft-Tissue Vessels and Cellular Preservation in Tyrannosaurus rex", author = "Mary H. Schweitzer, Jennifer L. Wittmeyer, John R. Horner, and Jan K. Toporski", publication = "Science 307 (5717), 1952–1955", date = "2005", medium = "academic-paper", url = "https://www.science.org/doi/10.1126/science.1108397", description = "Soft tissue and apparent blood vessels recovered from a T. rex femur." },
-    { title = "An Exceptionally Well-Preserved Theropod Dinosaur from the Yixian Formation of China", author = "Pei-ji Chen, Zhi-ming Dong, and Shuo-nan Zhen", publication = "Nature 391 (6663), 147–152", date = "1998", medium = "academic-paper", url = "https://www.nature.com/articles/34356", description = "Sinosauropteryx, the first non-avian dinosaur described with filamentous feather-like integument; opened the Liaoning feathered-dinosaur era." },
-    { title = "Osteology of Deinonychus antirrhopus, an Unusual Theropod from the Lower Cretaceous of Montana", author = "John H. Ostrom", publication = "Bulletin of the Peabody Museum of Natural History 30", date = "1969", medium = "academic-paper", description = "Ostrom's monograph that re-established the dinosaur–bird connection." },
+    { id = "le-livre-qui-dit-la-v-rit" },
+    { id = "les-extra-terrestres-m-ont-emmen-sur-leur-plan-te" },
+    { id = "genesis" },
+    { id = "a-hebrew-and-english-lexicon-of-the-old-testament", note = "The BDB lexicon. Source for the entries on tannin / taninim discussed in §V." },
+    { id = "the-hebrew-and-aramaic-lexicon-of-the-old-testament", note = "HALOT — also cited in §V on tannin." },
+    { id = "a-concise-dictionary-of-the-words-in-the-hebrew-bible-strong-s", note = "Strong's Hebrew Dictionary, cited inline for the tannin definition." },
+    { id = "soft-tissue-vessels-and-cellular-preservation-in-tyrannosaurus-rex", note = "Soft tissue and apparent blood vessels recovered from a T. rex femur." },
+    { id = "an-exceptionally-well-preserved-theropod-dinosaur-from-the-yixian-formation-of-c", note = "Sinosauropteryx, the first non-avian dinosaur described with filamentous feather-like integument; opened the Liaoning feathered-dinosaur era." },
+    { id = "osteology-of-deinonychus-antirrhopus-an-unusual-theropod-from-the-lower-cretaceo", note = "Ostrom's monograph that re-established the dinosaur–bird connection." },
 ]
-
 [[extra.prev_age]]
 name = "Age of Libra"
 symbol = "♎"

@@ -21,16 +21,15 @@ footnotes = [
 ]
 
 references = [
-    { title = "Le Livre qui dit la vérité", author = "Claude Vorilhon (Rael)", date = "1974", medium = "religious-text", path = "/library/lets-welcome-the-extraterrestrials/" },
-    { title = "Les Extra-Terrestres m'ont emmené sur leur planète", author = "Claude Vorilhon (Rael)", date = "1975", medium = "religious-text", path = "/library/extraterrestrials-took-me-to-their-planet/" },
-    { title = "Genesis", author = "Anonymous (Hebrew Bible); WoH translation from the pointed Masoretic Hebrew", date = "c. 6th–5th c. BCE", medium = "religious-text", path = "/library/genesis-woh/" },
-    { title = "The Apportionment of Human Diversity", author = "Richard C. Lewontin", publication = "Evolutionary Biology 6, 381–398", date = "1972", medium = "academic-paper", description = "The classical finding that ~85% of human genetic variation is within populations, only ~15% between them." },
-    { title = "Mitochondrial DNA and Human Evolution", author = "Rebecca L. Cann, Mark Stoneking, and Allan C. Wilson", publication = "Nature 325, 31–36", date = "1987", medium = "academic-paper", url = "https://doi.org/10.1038/325031a0", description = "The Mitochondrial Eve paper." },
-    { title = "Genome editing of human embryos: broadening the ethical debate", author = "He Jiankui (case discussion); cf. National Academies report", date = "2018", medium = "academic-paper", description = "He Jiankui's CCR5 CRISPR edit of human embryos resulting in the birth of twin girls (Lulu and Nana) — the first publicly announced germline human edits." },
-    { title = "A Programmable Dual-RNA–Guided DNA Endonuclease in Adaptive Bacterial Immunity", author = "Martin Jinek, Krzysztof Chylinski, Ines Fonfara, Michael Hauer, Jennifer A. Doudna, Emmanuelle Charpentier", publication = "Science 337 (6096), 816–821", date = "2012", medium = "academic-paper", url = "https://www.science.org/doi/10.1126/science.1225829", description = "The foundational CRISPR-Cas9 paper that enabled the modern human-genetic-engineering era." },
-    { title = "FDA Approves First Gene Therapies to Treat Patients with Sickle Cell Disease", author = "U.S. Food and Drug Administration", date = "December 2023", medium = "website", url = "https://www.fda.gov/news-events/press-announcements/fda-approves-first-gene-therapies-treat-patients-sickle-cell-disease", description = "FDA approval of Casgevy (the first CRISPR-based therapy) and Lyfgenia for sickle cell disease." },
+    { id = "le-livre-qui-dit-la-v-rit" },
+    { id = "les-extra-terrestres-m-ont-emmen-sur-leur-plan-te" },
+    { id = "genesis" },
+    { id = "the-apportionment-of-human-diversity", note = "The classical finding that ~85% of human genetic variation is within populations, only ~15% between them." },
+    { id = "mitochondrial-dna-and-human-evolution", note = "The Mitochondrial Eve paper." },
+    { id = "genome-editing-of-human-embryos-broadening-the-ethical-debate", note = "He Jiankui's CCR5 CRISPR edit of human embryos resulting in the birth of twin girls (Lulu and Nana) — the first publicly announced germline human edits." },
+    { id = "a-programmable-dual-rna-guided-dna-endonuclease-in-adaptive-bacterial-immunity", note = "The foundational CRISPR-Cas9 paper that enabled the modern human-genetic-engineering era." },
+    { id = "fda-approves-first-gene-therapies-to-treat-patients-with-sickle-cell-disease", note = "FDA approval of Casgevy (the first CRISPR-based therapy) and Lyfgenia for sickle cell disease." },
 ]
-
 [[extra.prev_age]]
 name = "Age of Virgo"
 symbol = "♍"

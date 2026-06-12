@@ -19,19 +19,18 @@ footnotes = [
 ]
 
 references = [
-    { title = "Le Livre qui dit la vérité", author = "Claude Vorilhon (Rael)", date = "1974", medium = "religious-text", path = "/library/lets-welcome-the-extraterrestrials/" },
-    { title = "Les Extra-Terrestres m'ont emmené sur leur planète", author = "Claude Vorilhon (Rael)", date = "1975", medium = "religious-text", path = "/library/extraterrestrials-took-me-to-their-planet/" },
-    { title = "Gospel of Matthew", author = "Anonymous (attributed to Matthew the apostle)", date = "c. 80–90 CE", medium = "religious-text", path = "/library/matthew-woh/" },
-    { title = "Gospel of Luke / Acts of the Apostles", author = "Anonymous (attributed to Luke)", date = "c. 80–90 CE", medium = "religious-text", path = "/library/luke/" },
-    { title = "Gospel of John", author = "Anonymous (Johannine community)", date = "c. 90–110 CE", medium = "religious-text", path = "/library/john/" },
-    { title = "The Qur'an", author = "Anonymous (Islamic tradition: revealed to Muhammad)", date = "compiled c. 650 CE", medium = "religious-text", path = "/library/quran-woh/", description = "Cited throughout §V on the Islamic intervention." },
-    { title = "The Book of Mormon", author = "Joseph Smith (translator); Mormon, Moroni et al. (named ancient compilers)", date = "1830 (first edition)", medium = "religious-text", path = "/library/book-of-mormon/", description = "Cited in §VI on the Mormon Piscean-age intervention." },
-    { title = "Hamlet's Mill: An Essay Investigating the Origins of Human Knowledge and Its Transmission Through Myth", author = "Giorgio de Santillana and Hertha von Dechend", date = "1969", medium = "nonfiction-book", url = "https://wheelofheaven.github.io/de-santillana-von-dechend-hamlets-mill/" },
-    { title = "Qur'anic Geography", author = "Dan Gibson", date = "2011", medium = "nonfiction-book", description = "Gibson's archaeological re-examination of the early-Islamic qibla orientations, central to §V's argument about Petra rather than Mecca as the original Islamic centre." },
-    { title = "Early Islamic Qiblas", author = "Dan Gibson", date = "2017", medium = "nonfiction-book", description = "Gibson's catalogue and statistical analysis of early-mosque qibla orientations across the first two centuries of Islam." },
-    { title = "Nicene Creed", author = "Council of Nicaea", date = "325 CE (revised at Constantinople 381 CE)", medium = "religious-text", description = "The Trinitarian formulation discussed and contested in §IV." },
+    { id = "le-livre-qui-dit-la-v-rit" },
+    { id = "les-extra-terrestres-m-ont-emmen-sur-leur-plan-te" },
+    { id = "gospel-of-matthew" },
+    { id = "gospel-of-luke-acts-of-the-apostles" },
+    { id = "gospel-of-john" },
+    { id = "the-qur-an", note = "Cited throughout §V on the Islamic intervention." },
+    { id = "the-book-of-mormon", note = "Cited in §VI on the Mormon Piscean-age intervention." },
+    { id = "hamlets-mill" },
+    { id = "qur-anic-geography", note = "Gibson's archaeological re-examination of the early-Islamic qibla orientations, central to §V's argument about Petra rather than Mecca as the original Islamic centre." },
+    { id = "early-islamic-qiblas", note = "Gibson's catalogue and statistical analysis of early-mosque qibla orientations across the first two centuries of Islam." },
+    { id = "nicene-creed", note = "The Trinitarian formulation discussed and contested in §IV." },
 ]
-
 [[extra.prev_age]]
 name = "Age of Aries"
 symbol = "♈"

@@ -19,16 +19,15 @@ footnotes = [
 ]
 
 references = [
-    { title = "Le Livre qui dit la vérité", author = "Claude Vorilhon (Rael)", date = "1974", medium = "religious-text", path = "/library/lets-welcome-the-extraterrestrials/" },
-    { title = "Les Extra-Terrestres m'ont emmené sur leur planète", author = "Claude Vorilhon (Rael)", date = "1975", medium = "religious-text", path = "/library/extraterrestrials-took-me-to-their-planet/" },
-    { title = "Exodus", author = "Anonymous (Hebrew Bible); WoH translation in progress from the pointed Masoretic Hebrew", date = "c. 6th–5th c. BCE", medium = "religious-text", path = "/library/exodus-woh/", description = "Burning bush, Red Sea crossing, Sinai theophany, Tabernacle and Ark — the chapter's primary source." },
-    { title = "Numbers", author = "Anonymous (Hebrew Bible)", date = "c. 6th–5th c. BCE", medium = "religious-text", path = "/library/numbers/", description = "Brass serpent (21:8–9), Tabernacle instructions, and the wilderness narratives cited in §III." },
-    { title = "Joshua", author = "Anonymous (Hebrew Bible)", date = "c. 6th c. BCE (Deuteronomistic History)", medium = "religious-text", path = "/library/joshua/", description = "Jericho assault, Beth-Horon battle, and the 'long day' incident cited in §III." },
-    { title = "Ezekiel", author = "Ezekiel ben-Buzi", date = "c. 593–571 BCE", medium = "religious-text", path = "/library/ezekiel-woh/", description = "The Ezekiel-1 chariot-vision passage cited in §II and re-read at length in §V." },
-    { title = "Daniel", author = "Anonymous (Hellenistic Judaism)", date = "c. 165 BCE", medium = "religious-text", path = "/library/daniel/", description = "Source of the Daniel 10:13 Michael / 'prince of Persia' passage on Persia and Greece in §VII." },
-    { title = "The Spaceships of Ezekiel", author = "Josef F. Blumrich", date = "1974", medium = "nonfiction-book", description = "The NASA engineer's technical reconstruction of the Ezekiel-1 vehicle, central to the chapter's §V re-reading." },
+    { id = "le-livre-qui-dit-la-v-rit" },
+    { id = "les-extra-terrestres-m-ont-emmen-sur-leur-plan-te" },
+    { id = "exodus", note = "Burning bush, Red Sea crossing, Sinai theophany, Tabernacle and Ark — the chapter's primary source." },
+    { id = "numbers", note = "Brass serpent (21:8–9), Tabernacle instructions, and the wilderness narratives cited in §III." },
+    { id = "joshua", note = "Jericho assault, Beth-Horon battle, and the 'long day' incident cited in §III." },
+    { id = "ezekiel", note = "The Ezekiel-1 chariot-vision passage cited in §II and re-read at length in §V." },
+    { id = "daniel", note = "Source of the Daniel 10:13 Michael / 'prince of Persia' passage on Persia and Greece in §VII." },
+    { id = "the-spaceships-of-ezekiel", note = "The NASA engineer's technical reconstruction of the Ezekiel-1 vehicle, central to the chapter's §V re-reading." },
 ]
-
 [[extra.prev_age]]
 name = "Age of Taurus"
 symbol = "♉"
