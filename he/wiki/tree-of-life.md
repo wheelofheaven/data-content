@@ -1,716 +1,760 @@
 +++
-title = "Tree of Life"
+title = "עץ החיים"
 slug = "tree-of-life"
-description = "The Tree of Life (Hebrew: עֵץ הַחַיִּים, ʿēṣ ha-ḥayyîm) is the figure introduced at Genesis 2:9 as one of the two named trees in the garden of Eden, alongside the Tree of the Knowledge of Good and Evil. The Tree of Life appears in the Genesis narrative as the source of extended life that, after the Eden disclosure, was barred from human access by the cherubim and the flaming sword. On the reading developed in the Raëlian source material and adopted by the Wheel of Heaven corpus, the Tree of Life is read as a specific historical biotechnology: the cellular-extension technique that the Elohim civilization developed to extend natural lifespan, granted on a limited basis to specific Eden-lineage patriarchal leaders during the antediluvian period (producing the recorded lifespans of 930 years for Adam, 969 for Methuselah, 950 for Noah) and operating in its mature form on the home world as the cloning-and-memory-transfer technology that produces the practical immortality of the Council of the Eternals."
+description = "עץ החיים (עברית: עֵץ הַחַיִּים, ʿēṣ ha-ḥayyîm) הוא הדמות המוצגת בבראשית ב:9 כאחד משני העצים המכונים בשם בגן עדן, לצד עץ הדעת טוב ורע. עץ החיים מופיע בנרטיב בראשית כמקור לחיים מוארכים אשר, לאחר אירוע הגילוי בעדן, נחסם מגישה אנושית על ידי הכרובים ולהט החרב המתהפכת. על פי הקריאה שפותחה בחומר המקור הראליאני ואומצה על ידי קורפוס »גלגל השמיים«, עץ החיים נקרא כביוטכנולוגיה היסטורית ספציפית: טכניקת הארכת התאים שציוויליזציית האלוהים פיתחה כדי להאריך את תוחלת החיים הטבעית, שניתנה על בסיס מוגבל למנהיגים פטריארכליים ספציפיים משושלת עדן בתקופה הטרום-מבולית (המפיקה את אריכויות החיים הרשומות של 930 שנים לאדם, 969 למתושלח, 950 לנח) ופועלת בצורתה הבשלה על העולם הביתי כטכנולוגיית השכפול והעברת הזיכרון המפיקה את אלמותם המעשי של מועצת הנצחיים."
 template = "wiki-page.html"
 toc = true
 
 [extra]
-translation_status = "metadata_only"
 category = "Cosmology & Framework"
 editorial_pass = "2026-05"
+claim_type = "framework"
 entry_type = "concept"
 alternative_names = ["the Tree of Life", "ʿēṣ ha-ḥayyîm", "עֵץ הַחַיִּים", "the Tree of Eternal Life", "the Tree of Immortality", "the longevity technology", "the cellular-transfer technology"]
 timeline = ["leo", "cancer", "gemini", "taurus", "aries", "pisces", "aquarius"]
+see_also = [
+    { title = "עץ הדעת", path = "wiki/tree-of-knowledge", description = "העץ המקביל בעדן — ארכיון הידע המדעי המוגבל, נבדל מן הביוטכנולוגיה של הארכת החיים." },
+    { title = "טרום-מבולי", path = "wiki/antediluvian", description = "התקופה שאריכויות החיים הפטריארכליות שלה (אדם 930, מתושלח 969) נקראות על ידי המסגרת כתיעוד הפעולה של עץ החיים." },
+    { title = "מועצת הנצחיים", path = "wiki/council-of-eternals", description = "קהילת הנצחיים הנשמרת על ידי הצורה הבשלה של הטכנולוגיה, השכפול והעברת הזיכרון." },
+    { title = "עדן", path = "wiki/eden", description = "המתקן שבו היה עץ החיים תשתית מוגבלת." },
+    { title = "לוציפר", path = "wiki/lucifer", description = "הסיעה הגולה שניהלה משא ומתן על מענקי אריכות החיים שלאחר עדן עבור המנהיגות הפטריארכלית." },
+    { title = "אפוקליפסה", path = "wiki/apocalypse", description = "ההקשר של עידן הדלי לשיקום המוקרן של טכנולוגיית הארכת החיים לאנושות." },
+]
+
+footnotes = [
+    { content = "הקורפוס קורא את עץ החיים של בראשית לא כעץ בוטני ולא כסמל תיאולוגי אלא כביוטכנולוגיה ספציפית של הארכת תאים בעלת מספר שלבי פעולה. זוהי המסגור-מחדש היסודי של המסגרת: התצפית המחקרית-המיינסטרימית שחומר בראשית משקף את מסורת העץ הקדוש הרחבה יותר של המזרח הקדום הקרוב מתקבלת, אך האונטולוגיה הבסיסית ממוסגרת מחדש — כל חומר כזה נקרא כמשמר זיכרון מקוטע של טכנולוגיה ממשית שציוויליזציית האלוהים פיתחה והעבירה במענקים מוגבלים. חומר המקור מציין את התוצאה (אריכויות החיים הפטריארכליות, אריכות החיים של 700–1,200 שנה של האלוהה, השכפול והעברת הזיכרון של הנצחיים) ללא פירוט המנגנון; הקורפוס אינו מסיק ביולוגיה ספציפית מעבר למה שהמקור מציין." },
+    { content = "התאריכים שהקורפוס מקצה לשלבי הפעולה של עץ החיים — מתקן עדן המקורי בסביבות 11,400 לפנה״ס, המענק הפטריארכלי שלאחר עדן בסביבות 11,000–6,690 לפנה״ס, ההגבלה שלאחר המבול מסביבות 6,690 לפנה״ס — הם פנים-מסגרתיים, נגזרים מהכרונולוגיה של עידני הנקיפה. עידני הנקיפה הם תופעות אסטרונומיות אמיתיות; שנות הגבול הספציפיות הן מוסכמות מסגרת. ראו את הערך טרום-מבולי לגזירת הכרונולוגיה." },
+    { content = "אריכויות החיים הפטריארכליות של בראשית ה (אדם 930, שת 912, מתושלח 969, נח 950) נקראות מילולית על פי דיווח הקורפוס כתוצאה של מענק אריכות החיים המוגבל והבלתי-תורשתי שסיעת לוציפר הגולה ניהלה עליו משא ומתן עם המועצה. חומר המקור מפורש בכך שהמענק לא עבר לילדי הפטריארכים — »סוד החיים אבד« — מה שהמסגרת קוראת כסיבה הפעולתית לכך שאריכויות החיים מתכווצות בחדות לאורך הגנאלוגיה שלאחר המבול בבראשית יא. הקריאות המיינסטרימיות של אריכויות החיים כנומרולוגיות או סמליות נרשמות ואינן מאומצות." },
+    { content = "האישור המרשים של חומר המקור הראליאני לקבלה כ»ספר הקרוב ביותר לאמת« מכל מסורת דתית ממסגר את היחס הביקורתי-המכבד של הקורפוס לעץ החיים הקבלי. הקורפוס מכבד את ההכרה הקבלית בריבוי מובנה של ישויות/עקרונות קשורים (כנגד אחדות מונותאיסטית פשוטה) ואת אוצר המילים הלוריאני של קטסטרופה קוסמית ותיקון כמשמרים זיכרון מקוטע של קונפליקט קוסמי-פוליטי ממשי — בעודו אינו מאמץ את מנגנון האצילות של הספירות כצורת הפעולה של עץ החיים של המסגרת. העץ הקבלי הוא דיאגרמה קוסמולוגית; עץ החיים של המסגרת הוא ביוטכנולוגיה. הם חולקים את הטרמינולוגיה של *עֵץ חַיִּים* ומתייחסים למציאויות מהותיות, אך נבדלים בתוכן." },
+    { content = "הקורפוס קורא את מסלול מחקר אריכות החיים בן זמננו (גורמי יממנקה ותכנות-מחדש תאי חלקי, מסגרת סימני ההיכר של ההזדקנות, מחקר טלומרים וסנוליטיקה, שכפול ו-CRISPR) כמתפתח בכיוונים העקביים עם טענות עץ החיים של המסגרת — מבלי לטעון שהוא מאשש את המסגרת. המחקר הנוכחי לא הפיק אלמוות מעשי, וטכנולוגיית העברת התאים בתוספת העברת זיכרון נותרת מעבר ליכולת בת זמננו. מה שהמסלול מדגים הוא שהארכת תוחלת חיים קיצונית אינה בלתי-אפשרית ביולוגית: ציוויליזציה עם כמה אלפי שנים של מחקר מתמשך יכלה באופן סביר לפתח את הטכנולוגיות שהמסגרת מייחסת לאלוהים." },
+    { content = "הקורפוס קורא את ההישנות הגלובלית של דימויי העץ הקדוש (יגדרסיל, השקמה ועץ ה-*ished* המצריים, ה-*kishkanu* וה-*huluppu* המסופוטמיים, ה-*Ashvattha* וה-*Kalpavriksha* ההינדיים, ה-*Fusang* וה-*Jianmu* הסיניים, ה-*Wakah-Chan* המסואמריקני) כראיה למציאות בסיסית אמיתית הנשמרת בצורה מקוטעת. הקורפוס אינו דוחה דיפוזיה תרבותית כהסבר חלקי — דיפוזיה בהחלט התרחשה — אך קורא את הרוחב ואת ההקבלות המבניות הספציפיות (תפקוד ציר-הקוסמוס, האסוציאציות של אריכות החיים, דמויות הפמליה האלוהית) כיותר ממה שהתפתחות דתית עצמאית ודיפוזיה יכולות להסביר. הוא אינו טוען שכל דמות עץ קדוש היא זיכרון ישיר של הביוטכנולוגיה; רבות הן בניינים תרבותיים שפותחו באופן עצמאי." },
+]
+
+[[extra.references]]
+id = "the-book-which-tells-the-truth"
+locator = "פרק 2"
+note = "מקור ראליאני יסודי — המענק הפטריארכלי שלאחר עדן, האופי הבלתי-תורשתי של אריכות החיים, ו»ההתאמה הכירורגית הקטנה« של האלוהה."
+
+[[extra.references]]
+id = "extraterrestrials-took-me-to-their-planet"
+note = "יצירתו השנייה של וורילון (1975) — טכנולוגיית העברת התאים, 25,000 השנים של יהוה על פני 25 גופים, וקהילת הנצחיים."
+
+[[extra.references]]
+id = "those-gods-who-made-heaven-and-earth"
+note = "קריאתו של סנדי את עץ החיים של בראשית כביוטכנולוגיה ממשית של הארכת חיים ואת אריכויות החיים הפטריארכליות כמדויקות מהותית — האנטצדנט המחקרי העיקרי."
+
+[[extra.references]]
+id = "the-naked-bible"
+note = "קריאתו התרגומית-הקפדנית של ביגלינו את *עֵץ הַחַיִּים* כמתייחס לביוטכנולוגיה ספציפית ולא לסמל תיאולוגי."
+
+[[extra.references]]
+id = "the-eden-conspiracy"
+note = "קריאתו המבנית של ווליס של תשתית מתקן עדן לרבות עץ החיים כרכיב מרכזי."
+
+[[extra.references]]
+id = "sarna-genesis-jps"
+note = "פירוש ה-JPS של סרנה — הטיפול הסטנדרטי בעברית של נרטיב עדן ובגנאלוגיות הפטריארכליות."
+
+[[extra.references]]
+id = "westermann-genesis-1-11"
+note = "הפירוש הצורני-ביקורתי הסטנדרטי של וסטרמן על ההיסטוריה הקדומה של בראשית לרבות שני עצי עדן."
+
+[[extra.references]]
+id = "stordalen-echoes-of-eden"
+note = "הטיפול המקיף של סטורדלן בסמליות גן עדן ובקליטה של עץ החיים לאורך המקרא העברי."
+
+[[extra.references]]
+id = "wallace-eden-narrative"
+note = "מחקרו של ווליס על נרטיב בראשית ב–ג בהקשר העץ הקדוש של המזרח הקדום הקרוב."
+
+[[extra.references]]
+id = "giovino-assyrian-sacred-tree"
+note = "ההיסטוריה המקיפה של ג'ובינו על האיקונוגרפיה הניאו-אשורית של העץ הקדוש ופרשנותה."
+
+[[extra.references]]
+id = "parpola-assyrian-tree-of-life"
+note = "הצעתו השנויה במחלוקת של פרפולה שהעץ הקדוש האשורי משמר מערכת קוסמולוגית מובנית עם הקבלות לספירות."
+
+[[extra.references]]
+id = "bonaventure-lignum-vitae"
+note = "החיבור המדיטטיבי מימי הביניים של בונבנטורה המבנה את ההתבוננות הנוצרית סביב מוטיב עץ החיים."
+
+[[extra.references]]
+id = "sefer-yetzirah"
+note = "הטקסט היסודי של הקוסמולוגיה האזוטרית היהודית המבסס את מסגרת הספירות שעץ החיים הקבלי מפתח."
+
+[[extra.references]]
+id = "zohar-pritzker"
+note = "הטקסט הקבלי הקלאסי העיקרי — עץ החיים המפותח של הספירות שהקורפוס מתעמת איתו השוואתית."
+
+[[extra.references]]
+id = "major-trends-jewish-mysticism"
+note = "מחקרו היסודי של שלום על הקבלה לרבות עץ החיים הלוריאני וקוסמולוגיית הצמצום / השבירה / התיקון."
+
+[[extra.references]]
+id = "idel-kabbalah-new-perspectives"
+note = "הערכתו המחקרית המודרנית של אידל את הקבלה לאחר שלום."
+
+[[extra.references]]
+id = "matt-essential-kabbalah"
+note = "האנתולוגיה הנגישה של מאט של טקסטים קבליים לרבות דיאגרמת ספירות עץ החיים."
+
+[[extra.references]]
+id = "city-of-god"
+note = "מסגורו של אוגוסטינוס את איסור עץ החיים העדני בתוך מסגרת החטא הקדמון ותמותת האדם."
+
+[[extra.references]]
+id = "sinclair-lifespan"
+note = "סינתזתם של סינקלייר ולפלנט של מסלול אריכות החיים בן זמננו של תכנות-מחדש תאי."
+
+[[extra.references]]
+id = "takahashi-yamanaka-2006"
+note = "המאמר פורץ הדרך על תאי גזע פלוריפוטנטיים מושרים המהווה בסיס למחקר התכנות-מחדש התאי בן זמננו."
+
+[[extra.references]]
+id = "hallmarks-of-aging"
+note = "סינתזתם היסודית של לופס-אוטין ושות' של התורמים המולקולריים והתאיים להזדקנות."
+
+[[extra.references]]
+id = "ending-aging-de-grey"
+note = "מסגרת ההנדסה SENS של דה גריי ורֵיי להתחדשות מקיפה."
+
+[[extra.references]]
+id = "atra-hasis-lambert-millard"
+note = "מהדורתם של למברט ומילרד של מסורת המבול-והבריאה המסופוטמית עם חומר עץ קדוש קשור."
+
+[[extra.references]]
+id = "black-green-mesopotamia"
+note = "ספר העיון של בלאק וגרין על איקונוגרפיה מסופוטמית לרבות ה-*kishkanu* ודמויות העץ הקדוש."
+
+[[extra.references]]
+id = "poetic-edda"
+note = "הפואמות הנורדיות העתיקות המתארות את יגדרסיל, העץ הקוסמי שהקורפוס קורא השוואתית."
+
+[[extra.references]]
+id = "prose-edda"
+note = "דיווחו השיטתי של סנורי סטורלוסון על המיתולוגיה הנורדית לרבות חומר יגדרסיל."
+
+[[extra.references]]
+id = "lindow-norse-mythology"
+note = "ספר העיון של לינדו על מסורת העץ הקוסמי יגדרסיל."
+
+[[extra.references]]
+id = "bhagavad-gita"
+note = "עץ האשוואטהה הקוסמי ההינדי (פרק 15) הנקרא השוואתית כנגד עץ החיים."
+
+[[extra.references]]
+id = "doniger-hindu-myths"
+note = "האנתולוגיה של דוניגר לרבות חומר העץ הקדוש ההינדי."
+
+[[extra.references]]
+id = "shan-hai-jing"
+note = "הקוסמוגרפיה הסינית העתיקה המתארת את עץ-השמש Fusang וחומר עץ קדוש קשור."
+
+[[extra.references]]
+id = "birrell-chinese-mythology"
+note = "מחקרה של בירל לרבות מסורות עץ-העולם Fusang ו-Jianmu."
+
+[[extra.references]]
+id = "schele-freidel-forest-of-kings"
+note = "מחקרם של שלה ופריידל על הקוסמולוגיה של המאיה לרבות עץ-העולם Wakah-Chan."
+
+[[extra.references]]
+id = "tedlock-popol-vuh"
+note = "ה-Popol Vuh של המאיה עם קוסמולוגיית עץ-העולם והסייבה שלו."
+
+[[extra.references]]
+id = "book-of-enoch"
+note = "חומר העץ הקדוש של חנוך א לרבות התייחסויות לעץ החיים."
 
 [extra.infobox]
 hebrew_name = "עֵץ הַחַיִּים (ʿēṣ ha-ḥayyîm)"
-greek_name = "τὸ ξύλον τῆς ζωῆς (to xylon tēs zōēs, in the Septuagint and New Testament)"
+greek_name = "τὸ ξύλον τῆς ζωῆς (to xylon tēs zōēs, בתרגום השבעים ובברית החדשה)"
 latin_name = "lignum vitae"
-arabic_name = "شجرة الخلد (shajarat al-khuld, 'tree of immortality', in the Qur'anic tradition)"
-type = "Biotechnology for cellular extension and life-span prolongation; in mature form, cloning-and-memory-transfer technology producing practical immortality"
-biblical_appearance = "Genesis 2:9 (the Tree of Life in the garden); Genesis 3:22–24 (the access prohibition after the disclosure); Proverbs 3:18, 11:30, 13:12, 15:4 (figurative wisdom-tradition uses); Ezekiel 47:12 (the trees by the river of life); Revelation 2:7, 22:2, 22:14, 22:19 (the Tree of Life in the New Jerusalem)"
-operational_phases = "1) Original Eden installation feature (restricted to alliance personnel); 2) Post-Eden patriarchal grant phase (limited longevity for specific leaders, c. 11,000–6,690 BCE); 3) Post-Flood restricted phase (progressively reduced human access); 4) Basic Eloha longevity phase (700–1,200 years per body, standard for Elohim civilization); 5) Eternal cloning-and-memory-transfer phase (practical immortality, the Council of the Eternals)"
-recipients_in_framework = "Eden-lineage patriarchal leaders (Adam, Seth, Enos, Kenan, Mahalalel, Jared, Enoch, Methuselah, Lamech, Noah, and others); the broader Elohim civilization (~7 billion individuals with natural extended lifespan); the Eternals on the Planet of the Eternals (~700 Council members plus ~8,400 resurrected humans)"
-distinguished_from = "The Tree of Knowledge of Good and Evil (the parallel Eden tree); the resurrection technology specifically (cellular-transfer plus memory-transfer for previously deceased individuals); the basic Eloha longevity treatment (the simpler 'small surgical adjustment')"
-current_status = "Operational on the Elohim home world and on the Planet of the Eternals; Earth-side longevity grants withdrawn after the post-Flood Council restrictions; projected extension to humanity following the Aquarian-age open return"
-principal_text = "Genesis 2:9; Genesis 3:22–24; the patriarchal genealogies of Genesis 5; Revelation 22:2"
-principal_framework_source = "*The Book Which Tells the Truth* (Vorilhon/Raël, 1974), chapter 2; *Extra-Terrestrials Took Me to Their Planet* (1975)"
+arabic_name = "شجرة الخلد (shajarat al-khuld, »עץ האלמוות«, במסורת הקוראנית)"
+type = "ביוטכנולוגיה להארכת תאים והארכת תוחלת חיים; בצורתה הבשלה, טכנולוגיית שכפול והעברת זיכרון המפיקה אלמוות מעשי"
+biblical_appearance = "בראשית ב:9 (עץ החיים בגן); בראשית ג:22–24 (איסור הגישה לאחר הגילוי); משלי ג:18, יא:30, יג:12, טו:4 (שימושים פיגורטיביים במסורת החוכמה); יחזקאל מז:12 (העצים על נהר החיים); ההתגלות ב:7, כב:2, כב:14, כב:19 (עץ החיים בירושלים החדשה)"
+operational_phases = "1) מאפיין מתקן עדן המקורי (מוגבל לאנשי הברית); 2) שלב המענק הפטריארכלי שלאחר עדן (אריכות חיים מוגבלת למנהיגים ספציפיים, בסביבות 11,000–6,690 לפנה״ס); 3) שלב מוגבל שלאחר המבול (גישה אנושית מצומצמת בהדרגה); 4) שלב אריכות החיים הבסיסי של האלוהה (700–1,200 שנה לגוף, סטנדרטי לציוויליזציית האלוהים); 5) שלב השכפול והעברת הזיכרון של הנצחיים (אלמוות מעשי, מועצת הנצחיים)"
+recipients_in_framework = "מנהיגים פטריארכליים משושלת עדן (אדם, שת, אנוש, קינן, מהללאל, ירד, חנוך, מתושלח, למך, נח, ואחרים); ציוויליזציית האלוהים הרחבה (~7 מיליארד פרטים עם אריכות חיים טבעית מוארכת); הנצחיים על כוכב הנצחיים (~700 חברי מועצה בתוספת ~8,400 בני אדם שתחיו)"
+distinguished_from = "עץ הדעת טוב ורע (העץ המקביל בעדן); טכנולוגיית התחייה ספציפית (העברת תאים בתוספת העברת זיכרון לפרטים שמתו קודם לכן); טיפול אריכות החיים הבסיסי של האלוהה (»ההתאמה הכירורגית הקטנה« הפשוטה יותר)"
+current_status = "פועל על העולם הביתי של האלוהים ועל כוכב הנצחיים; מענקי אריכות החיים בצד כדור הארץ נמשכו לאחר הגבלות המועצה שלאחר המבול; הרחבה מוקרנת לאנושות לאחר השיבה הפתוחה של עידן הדלי"
+principal_text = "בראשית ב:9; בראשית ג:22–24; הגנאלוגיות הפטריארכליות של בראשית ה; ההתגלות כב:2"
+principal_framework_source = "*הספר אשר מספר את האמת* (וורילון/ראל, 1974), פרק 2; *חוצנים לקחו אותי לכוכבם* (1975)"
 +++
 
-The **Tree of Life** (Hebrew: <span class="hebrew">עֵץ הַחַיִּים</span>, *ʿēṣ ha-ḥayyîm*; Greek: *to xylon tēs zōēs*; Latin: *lignum vitae*) is the figure introduced at Genesis 2:9 as one of two named trees in the garden of Eden, alongside the Tree of the Knowledge of Good and Evil. The Tree of Life appears in the Hebrew Bible's Genesis narrative as the source of extended life that, after the Eden disclosure event, was barred from human access by the cherubim stationed at the entrance to the garden along with the *lahaṭ ha-ḥereb ha-mithappeḵet* — the "flaming sword that turns every way" (Genesis 3:24). The Tree subsequently appears across the Hebrew Bible's wisdom literature in figurative-symbolic uses (Proverbs 3:18, 11:30, 13:12, 15:4), in Ezekiel's vision of the river of life (Ezekiel 47:12), and ultimately in the New Testament's Revelation as the Tree of Life in the New Jerusalem (Revelation 2:7, 22:2, 22:14). The figure has been the subject of substantial theological, mystical, and cultural elaboration across two and a half millennia, with the Christian tradition typically treating the Tree of Life as a theological symbol of eternal life and the Kabbalistic tradition developing the Tree of Life as the principal cosmological diagram of the ten emanated divine attributes (the Sephirot).
+**עץ החיים** (עברית: <span class="hebrew">עֵץ הַחַיִּים</span>, *ʿēṣ ha-ḥayyîm*; יוונית: *to xylon tēs zōēs*; לטינית: *lignum vitae*) הוא הדמות המוצגת בבראשית ב:9 כאחד משני העצים המכונים בשם בגן עדן, לצד עץ הדעת טוב ורע. עץ החיים מופיע בנרטיב בראשית של המקרא העברי כמקור לחיים מוארכים אשר, לאחר אירוע הגילוי בעדן, נחסם מגישה אנושית על ידי הכרובים שהוצבו בכניסה לגן יחד עם <span class="hebrew">לַהַט הַחֶרֶב הַמִּתְהַפֶּכֶת</span> — »להט החרב המתהפכת« (בראשית ג:24). העץ מופיע לאחר מכן לאורך ספרות החוכמה של המקרא העברי בשימושים פיגורטיביים-סמליים (משלי ג:18, יא:30, יג:12, טו:4), בחזון נהר החיים של יחזקאל (יחזקאל מז:12), ובסופו של דבר בהתגלות של הברית החדשה כעץ החיים בירושלים החדשה (ההתגלות ב:7, כב:2, כב:14). הדמות הייתה נושא לעיבוד תיאולוגי, מיסטי ותרבותי מהותי לאורך אלפיים וחמש מאות שנים, כאשר המסורת הנוצרית מטפלת בדרך כלל בעץ החיים כסמל תיאולוגי של חיי נצח והמסורת הקבלית מפתחת את עץ החיים כדיאגרמה הקוסמולוגית העיקרית של עשר התכונות האלוהיות הנאצלות (הספירות).
 
-On the reading developed in the Raëlian source material and adopted by the Wheel of Heaven corpus, the Tree of Life is read as a specific historical biotechnology rather than as a theological symbol or as a literal botanical tree. The Tree of Life is the **cellular-extension technique** that the Elohim civilization developed to extend natural lifespan — a technology with multiple operational phases across the framework's broader history. In its original Eden installation phase, the Tree was restricted Eden-installation infrastructure, accessible to alliance personnel but not to the synthesized humans (the Genesis 3:22 prohibition reflecting the home-world Council's specific policy of withholding longevity from the Earth creation). In its post-Eden patriarchal phase, the exiled Lucifer faction negotiated with the Council to grant the longevity treatment to specific Eden-lineage leaders, producing the recorded biblical lifespans (Adam at 930 years, Methuselah at 969, Noah at 950, and the broader patriarchal genealogy of Genesis 5). In its mature contemporary form on the home world, the Tree of Life operates as the cloning-and-memory-transfer technology that produces the practical immortality of the Council of the Eternals — with Yahweh as the first successful beneficiary across 25 successive bodies and 25,000 years of continuous personal existence.
+על פי הקריאה שפותחה בחומר המקור הראליאני ואומצה על ידי קורפוס »גלגל השמיים«, עץ החיים נקרא כביוטכנולוגיה היסטורית ספציפית ולא כסמל תיאולוגי או כעץ בוטני מילולי.{{ footnote(id="1") }} עץ החיים הוא **טכניקת הארכת התאים** שציוויליזציית האלוהים פיתחה כדי להאריך את תוחלת החיים הטבעית — טכנולוגיה בעלת מספר שלבי פעולה לאורך ההיסטוריה הרחבה יותר של המסגרת. בשלב מתקן עדן המקורי שלה, העץ היה תשתית מתקן עדן מוגבלת, נגישה לאנשי הברית אך לא לבני האדם המסונתזים (האיסור בבראשית ג:22 משקף את מדיניות המועצה הספציפית של העולם הביתי למנוע אריכות חיים מבריאת כדור הארץ). בשלב הפטריארכלי שלאחר עדן שלה, סיעת לוציפר הגולה ניהלה משא ומתן עם המועצה כדי להעניק את טיפול אריכות החיים למנהיגים ספציפיים משושלת עדן, המפיק את אריכויות החיים המקראיות הרשומות (אדם בן 930 שנים, מתושלח בן 969, נח בן 950, והגנאלוגיה הפטריארכלית הרחבה של בראשית ה). בצורתה הבשלה בת זמננו על העולם הביתי, עץ החיים פועל כטכנולוגיית השכפול והעברת הזיכרון המפיקה את אלמותם המעשי של מועצת הנצחיים — כאשר יהוה הוא הנהנה הראשון שהצליח על פני 25 גופים עוקבים ו-25,000 שנים של קיום אישי רצוף.
 
-The reading is contested. Within Christian theological tradition, the Tree of Life is read variously as a theological symbol of eternal life, as a typological prefiguration of Christ's redemptive work, or as a literal feature of an actual but inaccessible Edenic original creation. Within Kabbalistic Jewish tradition, the Tree of Life has been developed across the medieval and early-modern periods as the principal cosmological diagram of the ten emanated divine attributes, with substantial theosophical-mystical elaboration. Within mainstream historical-critical biblical scholarship, the Genesis Tree of Life is read as a literary-mythological motif drawing on the broader ancient Near Eastern sacred-tree tradition, with Mesopotamian, Egyptian, and Canaanite parallels providing the textual-historical context. Within mainstream biology, no biological tree producing human longevity has been identified, with the Genesis material treated as religious narrative rather than as referring to actual biotechnology. Within the contemporary longevity-research trajectory (Yamanaka factors, partial cellular reprogramming, telomere research, senolytic interventions), substantial progress has been made toward technologies that, while distinct from the framework's specific reading, demonstrate that lifespan extension at biological scales beyond conventional human limits is plausibly achievable. The corpus's reading is structurally distinctive: it accepts the mainstream-scholarly observation that the Genesis Tree of Life material reflects the broader ancient Near Eastern sacred-tree tradition, but reframes the underlying ontology by reading all such material as preserving fragmentary memory of an actual biotechnology developed by the Elohim civilization and transmitted in limited grants to specific human partners across the framework's broader history.
+הקריאה שנויה במחלוקת. בתוך המסורת התיאולוגית הנוצרית, עץ החיים נקרא באופנים שונים כסמל תיאולוגי של חיי נצח, כהקדמה טיפולוגית של פועלו הגואל של ישו, או כמאפיין מילולי של בריאה עדנית מקורית ממשית אך בלתי-נגישה. בתוך המסורת היהודית-הקבלית, עץ החיים פותח לאורך ימי הביניים והעת החדשה המוקדמת כדיאגרמה הקוסמולוגית העיקרית של עשר התכונות האלוהיות הנאצלות, עם עיבוד תיאוסופי-מיסטי מהותי. בתוך המחקר המקראי ההיסטורי-ביקורתי המיינסטרימי, עץ החיים של בראשית נקרא כמוטיב ספרותי-מיתולוגי הנשען על מסורת העץ הקדוש הרחבה יותר של המזרח הקדום הקרוב, כאשר הקבלות מסופוטמיות, מצריות וכנעניות מספקות את ההקשר הטקסטואלי-היסטורי. בתוך הביולוגיה המיינסטרימית, לא זוהה כל עץ ביולוגי המפיק אריכות חיים אנושית, כאשר חומר בראשית מטופל כנרטיב דתי ולא כמתייחס לביוטכנולוגיה ממשית. בתוך מסלול מחקר אריכות החיים בן זמננו (גורמי יממנקה, תכנות-מחדש תאי חלקי, מחקר טלומרים, התערבויות סנוליטיות), נעשתה התקדמות מהותית לקראת טכנולוגיות אשר, אף שנבדלות מהקריאה הספציפית של המסגרת, מדגימות שהארכת תוחלת חיים בקני מידה ביולוגיים מעבר לגבולות האנושיים הקונבנציונליים ניתנת להשגה באופן סביר. קריאת הקורפוס מובחנת מבנית: היא מקבלת את התצפית המחקרית-המיינסטרימית שחומר עץ החיים של בראשית משקף את מסורת העץ הקדוש הרחבה יותר של המזרח הקדום הקרוב, אך ממסגרת מחדש את האונטולוגיה הבסיסית בכך שהיא קוראת את כל חומר זה כמשמר זיכרון מקוטע של ביוטכנולוגיה ממשית שפותחה על ידי ציוויליזציית האלוהים והועברה במענקים מוגבלים לשותפים אנושיים ספציפיים לאורך ההיסטוריה הרחבה יותר של המסגרת.
 
-## Etymology and naming
+## אטימולוגיה ושמות
 
-The principal terms for the Tree of Life across the languages and traditions in which the figure has been preserved warrant individual treatment.
+המונחים העיקריים לעץ החיים לאורך השפות והמסורות שבהן נשמרה הדמות מצדיקים טיפול נפרד.
 
-### Hebrew *ʿēṣ ha-ḥayyîm*
+### העברית *ʿēṣ ha-ḥayyîm*
 
-The Hebrew *ʿēṣ ha-ḥayyîm* (<span class="hebrew">עֵץ הַחַיִּים</span>) is the specific Hebrew Bible designation for the Tree of Life. The construction combines:
+העברית *ʿēṣ ha-ḥayyîm* (<span class="hebrew">עֵץ הַחַיִּים</span>) היא הייעוד העברי-מקראי הספציפי לעץ החיים. הצירוף משלב:
 
-- **ʿēṣ** (<span class="hebrew">עֵץ</span>) — the standard Hebrew term for "tree," used across the Hebrew Bible for both literal trees and various figurative-metaphorical uses. The term derives from a Proto-Semitic root with parallel cognates across the Semitic family.
-- **ha-** (<span class="hebrew">הַ</span>) — the definite article, marking "the" specific tree
-- **ḥayyîm** (<span class="hebrew">חַיִּים</span>) — "life" or "lives," a plural form (the so-called *intensive plural* in Hebrew grammar) that conveys the abundance or fullness of life rather than ordinary plural multiplicity. The form derives from the root *ḥ-y-h* meaning "to live."
+- **ʿēṣ** (<span class="hebrew">עֵץ</span>) — המונח העברי הסטנדרטי ל»עץ«, המשמש לאורך המקרא העברי הן לעצים מילוליים והן לשימושים פיגורטיביים-מטאפוריים שונים. המונח נגזר משורש פרוטו-שמי עם קוגנטים מקבילים לאורך המשפחה השמית.
+- **ha-** (<span class="hebrew">הַ</span>) — תווית היידוע, המסמנת »ה« עץ ספציפי
+- **ḥayyîm** (<span class="hebrew">חַיִּים</span>) — »חיים«, צורת רבים (מה שמכונה *רבים מרבה* בדקדוק העברי) המעבירה את שפע החיים או מלאותם ולא ריבוי-רבים רגיל. הצורה נגזרת מהשורש *ח-י-ה* שמשמעותו »לחיות«.
 
-The full construction *ʿēṣ ha-ḥayyîm* preserves the literal sense of "the tree of (the abundance of) life" — a specific tree associated with the giving or extending of life. The Hebrew tradition's intensive-plural *ḥayyîm* is itself substantively significant: the construction does not simply mean "the tree of biological-existence" but specifically "the tree of life-in-its-fullness," with the underlying sense of substantial, abundant, extended life rather than ordinary mortal existence.
+הצירוף המלא *ʿēṣ ha-ḥayyîm* משמר את המשמעות המילולית של »עץ (שפע) החיים« — עץ ספציפי הקשור במתן חיים או בהארכתם. צורת הרבים-המרבה *ḥayyîm* של המסורת העברית היא עצמה משמעותית מהותית: הצירוף אינו מתכוון פשוט ל»עץ הקיום הביולוגי« אלא ספציפית ל»עץ החיים-במלואם«, עם המשמעות הבסיסית של חיים מהותיים, שופעים ומוארכים ולא קיום בן-תמותה רגיל.
 
-The Hebrew Bible uses the construction *ʿēṣ ha-ḥayyîm* exclusively for the Eden tree (Genesis 2:9, 3:22, 3:24) and for the figurative-wisdom uses (Proverbs 3:18, 11:30, 13:12, 15:4). The figurative uses in Proverbs apply the construction to wisdom, righteousness, fulfilled desire, and gentle speech — preserving the underlying sense that the *ʿēṣ ha-ḥayyîm* is the source of substantial, life-extending benefit.
+המקרא העברי משתמש בצירוף *ʿēṣ ha-ḥayyîm* באופן בלעדי עבור עץ עדן (בראשית ב:9, ג:22, ג:24) ועבור השימושים הפיגורטיביים של החוכמה (משלי ג:18, יא:30, יג:12, טו:4). השימושים הפיגורטיביים במשלי מיישמים את הצירוף על חוכמה, צדק, תשוקה ממומשת ודיבור עדין — משמרים את המשמעות הבסיסית שה-*ʿēṣ ha-ḥayyîm* הוא מקור לתועלת מהותית ומאריכת-חיים.
 
-### Other Hebrew Bible designations
+### ייעודים מקראיים-עבריים אחרים
 
-Several related Hebrew terms appear in connection with the Tree of Life material:
+מספר מונחים עבריים קשורים מופיעים בהקשר לחומר עץ החיים:
 
-- **ʿaṣē ḥayyîm** (<span class="hebrew">עֲצֵי חַיִּים</span>, "trees of life," plural) appears at Ezekiel 47:7, 12 in the visionary description of the trees lining the river flowing from the temple, with the trees yielding fruit monthly and producing leaves "for healing" (*li-trupâ*).
-- **ʿēṣ peri** (<span class="hebrew">עֵץ פְּרִי</span>, "fruit tree") and parallel constructions appear across the Hebrew Bible without specific Tree-of-Life associations.
+- **ʿaṣē ḥayyîm** (<span class="hebrew">עֲצֵי חַיִּים</span>, »עצי חיים«, רבים) מופיע ביחזקאל מז:7, 12 בתיאור החזוני של העצים על הנהר הזורם מן המקדש, כאשר העצים נושאים פרי מדי חודש ומפיקים עלים »לתרופה« (*li-trupâ*).
+- **ʿēṣ peri** (<span class="hebrew">עֵץ פְּרִי</span>, »עץ פרי«) וצירופים מקבילים מופיעים לאורך המקרא העברי ללא אסוציאציות ספציפיות לעץ החיים.
 
-### Greek and Latin designations
+### ייעודים יווניים ולטיניים
 
-The Greek Septuagint translates *ʿēṣ ha-ḥayyîm* as **to xylon tēs zōēs** (τὸ ξύλον τῆς ζωῆς), with *xylon* meaning "wood" or "tree" and *zōē* meaning "life." The Greek term *zōē* carries specific philosophical-theological connotations — distinguished from *bios* (the biological-temporal aspect of life) as referring to life in its substantial, qualitative, or eternal aspect. The Greek New Testament uses *to xylon tēs zōēs* in Revelation 2:7, 22:2, 22:14, and 22:19, with the construction preserving the specific theological connotations the Greek philosophical tradition had developed around *zōē*.
+תרגום השבעים היווני מתרגם את *ʿēṣ ha-ḥayyîm* כ-**to xylon tēs zōēs** (τὸ ξύλον τῆς ζωῆς), כאשר *xylon* פירושו »עץ« או »עצה« ו-*zōē* פירושו »חיים«. המונח היווני *zōē* נושא קונוטציות פילוסופיות-תיאולוגיות ספציפיות — מובחן מ-*bios* (ההיבט הביולוגי-הזמני של החיים) כמתייחס לחיים בהיבטם המהותי, האיכותי או הנצחי. הברית החדשה היוונית משתמשת ב-*to xylon tēs zōēs* בהתגלות ב:7, כב:2, כב:14 וכב:19, כאשר הצירוף משמר את הקונוטציות התיאולוגיות הספציפיות שהמסורת הפילוסופית היוונית פיתחה סביב *zōē*.
 
-The Latin Vulgate translates the construction as **lignum vitae**, with *lignum* meaning "wood" and *vitae* meaning "of life." The Latin term has provided the basis for the modern scientific-Latin name *Lignum vitae* applied to the Caribbean tree *Guaiacum officinale*, whose dense wood was historically valued for its purported medicinal properties — an association reflecting the broader cultural transmission of Tree-of-Life imagery into pharmacological contexts.
+הוולגטה הלטינית מתרגמת את הצירוף כ-**lignum vitae**, כאשר *lignum* פירושו »עץ« ו-*vitae* פירושו »של חיים«. המונח הלטיני סיפק את הבסיס לשם הלטיני-המדעי המודרני *Lignum vitae* המיושם על העץ הקריבי *Guaiacum officinale*, שעצו הצפוף הוערך היסטורית בשל תכונותיו הרפואיות לכאורה — אסוציאציה המשקפת את ההעברה התרבותית הרחבה יותר של דימויי עץ החיים להקשרים פרמקולוגיים.
 
-### Arabic *shajarat al-khuld*
+### הערבית *shajarat al-khuld*
 
-The Arabic Qur'anic tradition uses **shajarat al-khuld** (<span class="hebrew">شجرة الخلد</span>, "tree of immortality") at Qur'an 20:120 in the Adamic narrative. The Qur'anic narrative inverts the Hebrew Bible's specific tree-naming: the tree from which Adam and Eve are forbidden to eat is in the Qur'anic context the *shajarat al-khuld* (the tree of immortality), with the Qur'anic theological framework treating the prohibition as God's specific test of Adamic obedience rather than as the Genesis Tree of the Knowledge of Good and Evil distinction.
+המסורת הקוראנית הערבית משתמשת ב-**shajarat al-khuld** (<span class="hebrew">شجرة الخلد</span>, »עץ האלמוות«) בקוראן 20:120 בנרטיב האדמי. הנרטיב הקוראני הופך את ייחוד-שם-העץ הספציפי של המקרא העברי: העץ שמפירותיו נאסר על אדם וחוה לאכול הוא בהקשר הקוראני ה-*shajarat al-khuld* (עץ האלמוות), כאשר המסגרת התיאולוגית הקוראנית מטפלת באיסור כמבחן הספציפי של אלוהים לציות האדמי ולא כהבחנת עץ הדעת טוב ורע של בראשית.
 
-The Qur'anic *shajarat al-khuld* is structurally distinct from the Hebrew *ʿēṣ ha-ḥayyîm*. The framework reads this difference as reflecting different theological-narrative emphases between the Hebrew and Qur'anic traditions rather than as referring to fundamentally different underlying realities — both traditions preserve fragmentary memory of the same underlying biotechnology, with the specific narrative framings reflecting the distinctive theological developments of each tradition.
+ה-*shajarat al-khuld* הקוראני מובחן מבנית מן ה-*ʿēṣ ha-ḥayyîm* העברי. המסגרת קוראת הבדל זה כמשקף דגשים תיאולוגיים-נרטיביים שונים בין המסורות העברית והקוראנית ולא כמתייחס למציאויות בסיסיות שונות מהותית — שתי המסורות משמרות זיכרון מקוטע של אותה ביוטכנולוגיה בסיסית, כאשר המסגורים הנרטיביים הספציפיים משקפים את ההתפתחויות התיאולוגיות המובחנות של כל מסורת.
 
-### Other tradition designations
+### ייעודי מסורות אחרות
 
-The Tree of Life appears across various other traditions under additional designations:
+עץ החיים מופיע לאורך מסורות שונות אחרות תחת ייעודים נוספים:
 
-- **The Akkadian *kishkanu*** (𒄑𒋽) tree at Eridu, the sacred tree of the Mesopotamian Eridu temple, identified in some texts as the cosmic tree connecting heaven and earth
-- **The Norse *Yggdrasil*** ("Odin's horse" or "tree of terror"), the cosmic ash tree connecting the nine worlds in Norse cosmology
-- **The Egyptian *ished* tree**, associated with various divine figures and with the recording of the pharaoh's name and reign
-- **The Sanskrit *Ashvattha*** (अश्वत्थ, the *Pippala* / sacred fig tree), the cosmic tree of the *Bhagavad Gita* with roots in heaven and branches in earth
-- **The Sanskrit *Kalpavriksha*** (कल्पवृक्ष, "wish-fulfilling tree"), the tree of paradise in Hindu and Buddhist tradition
-- **The Chinese *Fusang*** (扶桑) and *Jianmu* (建木), the eastern sun-tree and the central world-tree of Chinese mythology
-- **The Mesoamerican *yaxche*** (Maya) and parallel ceiba-tree traditions, the world tree connecting the cosmic levels
+- **ה-*kishkanu* האכדי** (𒄑𒋽) באֵרידו, העץ הקדוש של מקדש אֵרידו המסופוטמי, המזוהה בכמה טקסטים כעץ הקוסמי המחבר את השמיים ואת הארץ
+- **ה-*Yggdrasil* הנורדי** (»סוסו של אודין« או »עץ האימה«), עץ המילה הקוסמי המחבר את תשעת העולמות בקוסמולוגיה הנורדית
+- **עץ ה-*ished* המצרי**, הקשור בדמויות אלוהיות שונות וברישום שם פרעה ומלכותו
+- **ה-*Ashvattha* הסנסקריטי** (अश्वत्थ, ה-*Pippala* / עץ התאנה הקדוש), העץ הקוסמי של ה-*Bhagavad Gita* עם שורשים בשמיים וענפים בארץ
+- **ה-*Kalpavriksha* הסנסקריטי** (कल्पवृक्ष, »עץ ממלא-המשאלות«), עץ גן העדן במסורת ההינדית והבודהיסטית
+- **ה-*Fusang* הסיני** (扶桑) וה-*Jianmu* (建木), עץ-השמש המזרחי ועץ-העולם המרכזי של המיתולוגיה הסינית
+- **ה-*yaxche* המסואמריקני** (מאיה) ומסורות עץ-הסייבה המקבילות, עץ-העולם המחבר את הרמות הקוסמיות
 
-The cross-tradition convergence on substantial sacred-tree imagery is part of the framework's evidence that the underlying referent is a specific historical reality preserved in fragmentary form across multiple cultural-religious traditions.
+ההתכנסות החוצת-מסורות על דימויי עץ קדוש מהותיים היא חלק מראיות המסגרת שהמסומן הבסיסי הוא מציאות היסטורית ספציפית הנשמרת בצורה מקוטעת לאורך מספר מסורות תרבותיות-דתיות.
 
-## Conventional understanding
+## ההבנה המקובלת
 
 {% library(book="genesis-woh", chapter=2, verse=9) %}
-YHWH-Elohim caused every tree desirable to the sight and good for food to sprout from the ground — and within the garden, the tree of life and the tree of knowing good and bad.
+וַיַּצְמַח יהוה אֱלֹהִים מִן הָאֲדָמָה כָּל עֵץ נֶחְמָד לְמַרְאֶה וְטוֹב לְמַאֲכָל — וְעֵץ הַחַיִּים בְּתוֹךְ הַגָּן וְעֵץ הַדַּעַת טוֹב וָרָע.
 {% end %}
 
-The Tree of Life material has been the subject of substantial conventional-scholarly and theological treatment across multiple traditions.
+חומר עץ החיים היה נושא לטיפול מחקרי-מקובל ותיאולוגי מהותי לאורך מספר מסורות.
 
-### Mainstream historical-critical biblical scholarship
+### המחקר המקראי ההיסטורי-ביקורתי המיינסטרימי
 
-Mainstream historical-critical biblical scholarship treats the Genesis Tree of Life material as drawing on the broader ancient Near Eastern sacred-tree tradition. The principal positions:
+המחקר המקראי ההיסטורי-ביקורתי המיינסטרימי מטפל בחומר עץ החיים של בראשית כנשען על מסורת העץ הקדוש הרחבה יותר של המזרח הקדום הקרוב. העמדות העיקריות:
 
-**The Mesopotamian background.** The Mesopotamian sacred-tree tradition — preserved across Sumerian, Akkadian, and Assyrian textual and iconographic material — is read as the immediate background for the Hebrew Bible's parallel material. The Akkadian *kishkanu* tree at Eridu, the Sumerian *huluppu* tree of the *Inanna and the Huluppu Tree* narrative, the elaborate sacred-tree iconography of the Neo-Assyrian palace reliefs (with the winged figures attending the stylized tree), and the various other Mesopotamian sacred-tree material provide substantial textual-historical context for the Hebrew tradition's tree imagery.
+**הרקע המסופוטמי.** מסורת העץ הקדוש המסופוטמית — הנשמרת לאורך חומר טקסטואלי ואיקונוגרפי שומרי, אכדי ואשורי — נקראת כרקע המיידי לחומר המקביל של המקרא העברי. עץ ה-*kishkanu* האכדי באֵרידו, עץ ה-*huluppu* השומרי של נרטיב *איננה ועץ ההולופו*, האיקונוגרפיה המורכבת של העץ הקדוש בתבליטי הארמון הניאו-אשוריים (עם הדמויות המכונפות הנוכחות ליד העץ המסוגנן), וחומרי העץ הקדוש המסופוטמיים השונים האחרים מספקים הקשר טקסטואלי-היסטורי מהותי לדימויי העץ של המסורת העברית.
 
-**The Canaanite-Ugaritic context.** The Ugaritic *Baal Cycle* and related texts preserve substantial sacred-tree material with parallels to the Hebrew tradition. The *asherah* tradition (the cultic tree-pole associated with the goddess Asherah, condemned in various Hebrew Bible passages) reflects continuing Canaanite sacred-tree practice that the Israelite religious tradition both drew on and polemically opposed.
+**ההקשר הכנעני-האוגריתי.** *מחזור בעל* האוגריתי וטקסטים קשורים משמרים חומר עץ קדוש מהותי עם הקבלות למסורת העברית. מסורת ה*אשרה* (עמוד-העץ הפולחני הקשור באלה אשרה, המגונה בקטעים שונים במקרא העברי) משקפת פרקטיקה כנענית מתמשכת של עץ קדוש שהמסורת הדתית הישראלית הן נשענה עליה והן התנגדה לה פולמוסית.
 
-**The Egyptian context.** The Egyptian sacred-tree material — the sycamore associated with Hathor, Isis, and Nut, the *ished* tree associated with various divine figures, the broader sacred-tree imagery preserved across Egyptian temple iconography — provides additional textual-historical context for the broader ancient Near Eastern sacred-tree tradition within which the Hebrew Bible's material developed.
+**ההקשר המצרי.** חומר העץ הקדוש המצרי — השקמה הקשורה בהאתחור, איזיס ונוט, עץ ה-*ished* הקשור בדמויות אלוהיות שונות, ודימויי העץ הקדוש הרחבים יותר הנשמרים לאורך האיקונוגרפיה של המקדש המצרי — מספק הקשר טקסטואלי-היסטורי נוסף למסורת העץ הקדוש הרחבה יותר של המזרח הקדום הקרוב שבתוכה התפתח חומר המקרא העברי.
 
-**The mythological-aetiological reading.** Mainstream scholarship typically treats the Genesis Tree of Life as a literary-mythological motif rather than as referring to specific biological reality. The principal interpretive positions include:
+**הקריאה המיתולוגית-האטיולוגית.** המחקר המיינסטרימי מטפל בדרך כלל בעץ החיים של בראשית כמוטיב ספרותי-מיתולוגי ולא כמתייחס למציאות ביולוגית ספציפית. העמדות הפרשניות העיקריות כוללות:
 
-- The Tree of Life as **mythological symbol** of eternal life, with the Genesis narrative using the symbol to address theological questions about human mortality and the human relationship to divine life
-- The Tree of Life as **aetiological narrative** explaining why humans are mortal, with the Genesis story functioning as a religious explanation of human biological reality
-- The Tree of Life as **theological prefiguration** of later biblical themes (eternal life in the wisdom tradition, the New Jerusalem in Revelation, Christian theological developments)
+- עץ החיים כ**סמל מיתולוגי** של חיי נצח, כאשר נרטיב בראשית משתמש בסמל כדי לטפל בשאלות תיאולוגיות על תמותת האדם ועל יחס האדם לחיים אלוהיים
+- עץ החיים כ**נרטיב אטיולוגי** המסביר מדוע בני האדם בני-תמותה, כאשר סיפור בראשית מתפקד כהסבר דתי למציאות הביולוגית האנושית
+- עץ החיים כ**הקדמה תיאולוגית** של תמות מקראיות מאוחרות יותר (חיי נצח במסורת החוכמה, ירושלים החדשה בהתגלות, ההתפתחויות התיאולוגיות הנוצריות)
 
-The principal recent works in mainstream sacred-tree scholarship include:
+היצירות העדכניות העיקריות במחקר העץ הקדוש המיינסטרימי כוללות:
 
-- **Mariana Giovino**'s *The Assyrian Sacred Tree: A History of Interpretations* (2007) — comprehensive treatment of the Assyrian sacred tree iconographic tradition and its scholarly reception
-- **Simo Parpola**'s "The Assyrian Tree of Life" (1993) and related work — substantive engagement with the Assyrian sacred tree material, including the controversial proposal that the iconographic tradition preserves a structured cosmological-philosophical system
-- **Howard N. Wallace**'s *The Eden Narrative* (1985) — substantial treatment of the Genesis 2–3 material in its ancient Near Eastern context
-- **Terje Stordalen**'s *Echoes of Eden: Genesis 2–3 and Symbolism of the Eden Garden in Biblical Hebrew Literature* (2000) — comprehensive scholarly treatment of the Eden material's literary and theological reception across the Hebrew Bible
+- *העץ הקדוש האשורי: היסטוריה של פרשנויות* (2007) של **מריאנה ג'ובינו** — טיפול מקיף במסורת האיקונוגרפית של העץ הקדוש האשורי ובקליטתה המחקרית{{ cite(id="giovino-assyrian-sacred-tree", text="[1]", title="ג'ובינו, *העץ הקדוש האשורי: היסטוריה של פרשנויות* (2007)") }}
+- »עץ החיים האשורי« (1993) של **סימו פרפולה** ועבודה קשורה — מעורבות מהותית בחומר העץ הקדוש האשורי, לרבות ההצעה השנויה במחלוקת שהמסורת האיקונוגרפית משמרת מערכת קוסמולוגית-פילוסופית מובנית{{ cite(id="parpola-assyrian-tree-of-life", text="[2]", title="פרפולה, »עץ החיים האשורי« (Journal of Near Eastern Studies, 1993)") }}
+- *נרטיב עדן* (1985) של **הווארד נ. ווליס** — טיפול מהותי בחומר בראשית ב–ג בהקשרו במזרח הקדום הקרוב{{ cite(id="wallace-eden-narrative", text="[3]", title="ווליס, *נרטיב עדן* (1985)") }}
+- *הדי עדן: בראשית ב–ג וסמליות גן עדן בספרות העברית המקראית* (2000) של **טריה סטורדלן** — טיפול מחקרי מקיף בקליטה הספרותית והתיאולוגית של חומר עדן לאורך המקרא העברי{{ cite(id="stordalen-echoes-of-eden", text="[4]", title="סטורדלן, *הדי עדן* (2000)") }}
 
-### Christian theological tradition
+### המסורת התיאולוגית הנוצרית
 
-Christian theological tradition has developed substantial elaboration of the Tree of Life material across two millennia. The principal positions:
+המסורת התיאולוגית הנוצרית פיתחה עיבוד מהותי של חומר עץ החיים לאורך אלפיים שנים. העמדות העיקריות:
 
-**The typological reading.** The Christian theological tradition has read the Tree of Life typologically in connection with Christ's redemptive work. Patristic and medieval theology developed elaborate typological systems in which the Tree of Life prefigures the cross of Christ (the *lignum vitae* iconographic tradition), with the redemption restoring the access to eternal life that the Eden expulsion had barred. The Revelation 22:2 reference to the Tree of Life in the New Jerusalem is read as the eschatological fulfillment of this typological pattern.
+**הקריאה הטיפולוגית.** המסורת התיאולוגית הנוצרית קראה את עץ החיים טיפולוגית בקשר לפועלו הגואל של ישו. התיאולוגיה הפטריסטית והמדיוולית פיתחה מערכות טיפולוגיות מורכבות שבהן עץ החיים מקדים את הצלב של ישו (המסורת האיקונוגרפית של *lignum vitae*), כאשר הגאולה משקמת את הגישה לחיי נצח שהגירוש מעדן חסם. ההתייחסות בהתגלות כב:2 לעץ החיים בירושלים החדשה נקראת כמימוש האסכטולוגי של דפוס טיפולוגי זה.
 
-**The theological-symbolic reading.** Various Christian theological traditions have treated the Tree of Life as a theological symbol of eternal life, divine grace, or specific theological realities (the Eucharist, the Holy Spirit, the church). The specific symbolic content varies across traditions, with Catholic, Orthodox, and various Protestant traditions developing distinctive interpretive frameworks.
+**הקריאה התיאולוגית-הסמלית.** מסורות תיאולוגיות נוצריות שונות טיפלו בעץ החיים כסמל תיאולוגי של חיי נצח, חסד אלוהי, או מציאויות תיאולוגיות ספציפיות (האוכריסטיה, רוח הקודש, הכנסייה). התוכן הסמלי הספציפי משתנה בין מסורות, כאשר המסורות הקתולית, האורתודוקסית והפרוטסטנטיות השונות מפתחות מסגרות פרשניות מובחנות.
 
-**The literal-historical reading.** Conservative Christian traditions have generally treated the Eden Tree of Life as a literal feature of an actual original creation, with the Genesis narrative read as historically accurate description of original conditions. The various creationist traditions develop this reading with substantial elaboration of the original-creation framework.
+**הקריאה המילולית-ההיסטורית.** מסורות נוצריות שמרניות טיפלו בדרך כלל בעץ החיים העדני כמאפיין מילולי של בריאה מקורית ממשית, כאשר נרטיב בראשית נקרא כתיאור היסטורי מדויק של התנאים המקוריים. המסורות הקריאציוניסטיות השונות מפתחות קריאה זו עם עיבוד מהותי של מסגרת הבריאה המקורית.
 
-**The medieval *lignum vitae* iconographic tradition.** Medieval Christian art developed elaborate *lignum vitae* iconography, with the cross of Christ depicted as the renewed Tree of Life bearing fruit (Christ's body, the Eucharist, the saints, the various theological realities). Bonaventure's *Lignum Vitae* (c. 1260) is the principal medieval theological-meditative treatment, structuring Christian contemplative practice around the Tree-of-Life motif.
+**המסורת האיקונוגרפית המדיוולית של *lignum vitae*.** האמנות הנוצרית המדיוולית פיתחה איקונוגרפיה מורכבת של *lignum vitae*, כאשר הצלב של ישו מתואר כעץ החיים המחודש הנושא פרי (גוף ישו, האוכריסטיה, הקדושים, המציאויות התיאולוגיות השונות). *Lignum Vitae* של בונבנטורה (בסביבות 1260) הוא הטיפול התיאולוגי-המדיטטיבי המדיוולי העיקרי, המבנה את הפרקטיקה ההתבוננותית הנוצרית סביב מוטיב עץ החיים.{{ cite(id="bonaventure-lignum-vitae", text="[5]", title="בונבנטורה, *עץ החיים (Lignum Vitae)* (בסביבות 1260)") }}
 
-### Jewish theological tradition
+### המסורת התיאולוגית היהודית
 
-Jewish theological tradition has developed elaborate engagement with the Tree of Life material across multiple distinct schools.
+המסורת התיאולוגית היהודית פיתחה מעורבות מורכבת בחומר עץ החיים לאורך מספר אסכולות מובחנות.
 
-**Rabbinic tradition** treats the Tree of Life within the broader Genesis interpretive framework, with substantial midrashic elaboration of the specific narrative details. The rabbinic tradition's specific contributions include the Talmudic discussions of whether Adam was originally created with eternal-life capacity, the various midrashic narratives elaborating the post-expulsion situation, and the broader exegetical engagement with the Eden material.
+**המסורת הרבנית** מטפלת בעץ החיים בתוך מסגרת הפרשנות הרחבה יותר של בראשית, עם עיבוד מדרשי מהותי של פרטי הנרטיב הספציפיים. תרומותיה הספציפיות של המסורת הרבנית כוללות את הדיונים התלמודיים אם אדם נברא במקור עם יכולת חיי נצח, את הנרטיבים המדרשיים השונים המעבדים את המצב שלאחר הגירוש, ואת המעורבות הפרשנית הרחבה יותר בחומר עדן.
 
-**Kabbalistic tradition** has developed the Tree of Life as the principal cosmological diagram of the ten emanated divine attributes (the Sephirot). The detailed treatment of the Kabbalistic Tree of Life lives in the *Modern reinterpretations* section below; what matters here is that the Kabbalistic Tree of Life is the most extensively developed Jewish-mystical engagement with the underlying material, with substantial theosophical-cosmological elaboration across the medieval and early-modern periods.
+**המסורת הקבלית** פיתחה את עץ החיים כדיאגרמה הקוסמולוגית העיקרית של עשר התכונות האלוהיות הנאצלות (הספירות). הטיפול המפורט בעץ החיים הקבלי נמצא בסעיף *פרשנויות-מחדש מודרניות* להלן; מה שחשוב כאן הוא שעץ החיים הקבלי הוא המעורבות המיסטית-היהודית המפותחת ביותר בחומר הבסיסי, עם עיבוד תיאוסופי-קוסמולוגי מהותי לאורך ימי הביניים והעת החדשה המוקדמת.
 
-**Modern Jewish thought** has continued to engage the Tree of Life material within broader theological-philosophical frameworks, with various positions on the specific content and significance of the underlying material.
+**ההגות היהודית המודרנית** המשיכה להתעמת עם חומר עץ החיים בתוך מסגרות תיאולוגיות-פילוסופיות רחבות יותר, עם עמדות שונות על התוכן והמשמעות הספציפיים של החומר הבסיסי.
 
-### Islamic theological tradition
+### המסורת התיאולוגית האסלאמית
 
-Islamic theological tradition treats the Tree of Life material principally through the Qur'anic *shajarat al-khuld* framework. The Qur'anic narrative (Qur'an 20:120) presents the tree as the specific object of the prohibition that Adam and Eve violate, with the broader Islamic theological tradition developing this material in connection with broader themes of human mortality, divine testing, and the eschatological promise of paradise.
+המסורת התיאולוגית האסלאמית מטפלת בחומר עץ החיים בעיקר באמצעות מסגרת ה-*shajarat al-khuld* הקוראנית. הנרטיב הקוראני (קוראן 20:120) מציג את העץ כאובייקט הספציפי של האיסור שאדם וחוה מפרים, כאשר המסורת התיאולוגית האסלאמית הרחבה יותר מפתחת חומר זה בקשר לתמות רחבות יותר של תמותת האדם, מבחן אלוהי, וההבטחה האסכטולוגית של גן עדן.
 
-## In primary sources
+## במקורות ראשוניים
 
-The Tree of Life appears across multiple primary sources, with substantial fragmentary preservation in both ancient textual traditions and the modern Raëlian source material.
+עץ החיים מופיע לאורך מספר מקורות ראשוניים, עם שימור מקוטע מהותי הן במסורות הטקסטואליות העתיקות והן בחומר המקור הראליאני המודרני.
 
-### Genesis 2:9 and 3:22–24
+### בראשית ב:9 וג:22–24
 
-The principal Hebrew Bible Tree of Life material appears in the Genesis 2–3 Eden narrative.
+חומר עץ החיים העיקרי של המקרא העברי מופיע בנרטיב עדן של בראשית ב–ג.
 
-**Genesis 2:9** introduces the Tree of Life as one of two named trees in the garden:
+**בראשית ב:9** מציג את עץ החיים כאחד משני העצים המכונים בשם בגן:
 
-> *"And out of the ground Yahweh Elohim made to grow every tree that is pleasant to the sight, and good for food; the tree of life (ʿēṣ ha-ḥayyîm) also in the midst of the garden, and the tree of the knowledge of good and evil."*
+> *»וַיַּצְמַח יהוה אֱלֹהִים מִן הָאֲדָמָה כָּל עֵץ נֶחְמָד לְמַרְאֶה וְטוֹב לְמַאֲכָל וְעֵץ הַחַיִּים בְּתוֹךְ הַגָּן וְעֵץ הַדַּעַת טוֹב וָרָע.«*
 
-The framework reads this passage as the operational record of the Eden installation's specific infrastructure, with the Tree of Life and the Tree of the Knowledge of Good and Evil being the two principal restricted-access technological resources of the installation.
+המסגרת קוראת קטע זה כתיעוד הפעולה של התשתית הספציפית של מתקן עדן, כאשר עץ החיים ועץ הדעת טוב ורע הם שני המשאבים הטכנולוגיים העיקריים מוגבלי-הגישה של המתקן.
 
-**Genesis 3:22–24** records the post-disclosure access prohibition:
+**בראשית ג:22–24** רושם את איסור הגישה שלאחר הגילוי:
 
-> *"And Yahweh Elohim said, 'Behold, the man is become as one of us, to know good and evil: and now, lest he put forth his hand, and take also of the tree of life, and eat, and live for ever:' Therefore Yahweh Elohim sent him forth from the garden of Eden... So he drove out the man; and he placed at the east of the garden of Eden Cherubim, and a flaming sword which turned every way, to keep the way of the tree of life."*
+> *»וַיֹּאמֶר יהוה אֱלֹהִים הֵן הָאָדָם הָיָה כְּאַחַד מִמֶּנּוּ לָדַעַת טוֹב וָרָע וְעַתָּה פֶּן יִשְׁלַח יָדוֹ וְלָקַח גַּם מֵעֵץ הַחַיִּים וְאָכַל וָחַי לְעֹלָם׃ וַיְשַׁלְּחֵהוּ יהוה אֱלֹהִים מִגַּן עֵדֶן... וַיְגָרֶשׁ אֶת הָאָדָם וַיַּשְׁכֵּן מִקֶּדֶם לְגַן עֵדֶן אֶת הַכְּרֻבִים וְאֵת לַהַט הַחֶרֶב הַמִּתְהַפֶּכֶת לִשְׁמֹר אֶת דֶּרֶךְ עֵץ הַחַיִּים.«*
 
-The corpus reads this passage as preserving substantial operational content:
+הקורפוס קורא קטע זה כמשמר תוכן פעולתי מהותי:
 
-- The plural "as one of us" preserves the Council's collective character at the moment of the post-disclosure deliberation
-- The specific concern about humans accessing the Tree of Life and "living forever" reflects the Council's specific policy of withholding longevity from the Earth creation
-- The expulsion is the operational consequence of the political verdict
-- The cherubim with the *lahaṭ ha-ḥereb ha-mithappeḵet* (the "flaming sword that turns every way") are read by the framework as armed sentries with directed-energy weapons preventing re-access — the same kind of personal technology that the source material elsewhere attributes to alliance scouts (treated more fully in the [Eden](../eden/) entry)
+- הרבים »כְּאַחַד מִמֶּנּוּ« משמר את האופי הקולקטיבי של המועצה ברגע הדיון שלאחר הגילוי
+- הדאגה הספציפית לכך שבני האדם ייגשו לעץ החיים ו»יחיו לעולם« משקפת את מדיניות המועצה הספציפית למנוע אריכות חיים מבריאת כדור הארץ
+- הגירוש הוא התוצאה הפעולתית של הפסיקה הפוליטית
+- הכרובים עם <span class="hebrew">לַהַט הַחֶרֶב הַמִּתְהַפֶּכֶת</span> (»להט החרב המתהפכת«) נקראים על ידי המסגרת כזקיפים חמושים בנשק אנרגיה מכוונת המונעים גישה מחודשת — אותו סוג של טכנולוגיה אישית שחומר המקור מייחס במקומות אחרים לסיירי הברית (מטופל באופן מלא יותר בערך [עדן](../eden/))
 
-### The patriarchal genealogies of Genesis 5
+### הגנאלוגיות הפטריארכליות של בראשית ה
 
-Genesis 5 preserves the patriarchal genealogy with specific recorded ages. The principal data:
+בראשית ה משמר את הגנאלוגיה הפטריארכלית עם גילים רשומים ספציפיים. הנתונים העיקריים:
 
-- Adam: 930 years (Genesis 5:5)
-- Seth: 912 years (Genesis 5:8)
-- Enos (Enosh): 905 years (Genesis 5:11)
-- Kenan: 910 years (Genesis 5:14)
-- Mahalalel: 895 years (Genesis 5:17)
-- Jared: 962 years (Genesis 5:20)
-- Enoch: 365 years (with the specific note "and he was not, for Elohim took him" at Genesis 5:24, treated as a special case — the framework reads Enoch as one of the small number of pre-Flood figures specifically extracted to the Planet of the Eternals before his natural death)
-- Methuselah: 969 years (Genesis 5:27, the longest recorded patriarchal lifespan)
-- Lamech: 777 years (Genesis 5:31)
-- Noah: 950 years (Genesis 9:29)
+- אדם: 930 שנים (בראשית ה:5)
+- שת: 912 שנים (בראשית ה:8)
+- אנוש: 905 שנים (בראשית ה:11)
+- קינן: 910 שנים (בראשית ה:14)
+- מהללאל: 895 שנים (בראשית ה:17)
+- ירד: 962 שנים (בראשית ה:20)
+- חנוך: 365 שנים (עם ההערה הספציפית »וְאֵינֶנּוּ כִּי לָקַח אֹתוֹ אֱלֹהִים« בבראשית ה:24, המטופל כמקרה מיוחד — המסגרת קוראת את חנוך כאחד ממספר קטן של דמויות שלפני המבול שחולצו ספציפית לכוכב הנצחיים לפני מותו הטבעי)
+- מתושלח: 969 שנים (בראשית ה:27, אריכות החיים הפטריארכלית הארוכה ביותר הרשומה)
+- למך: 777 שנים (בראשית ה:31)
+- נח: 950 שנים (בראשית ט:29)
 
-The framework reads these specific recorded ages as substantively accurate to the actual lifespans of the named individuals. The Genesis 5 genealogy is therefore the principal primary-source evidence for the Tree of Life's operational presence in the antediluvian period — preserving the biographical record of beings who received the longevity treatment in limited measure.
+המסגרת קוראת את הגילים הרשומים הספציפיים הללו כמדויקים מהותית לאריכויות החיים הממשיות של הפרטים הנקובים בשם.{{ footnote(id="3") }} הגנאלוגיה של בראשית ה היא לפיכך עדות המקור-הראשוני העיקרית לנוכחות הפעולתית של עץ החיים בתקופה הטרום-מבולית — המשמרת את התיעוד הביוגרפי של יצורים שקיבלו את טיפול אריכות החיים במידה מוגבלת.
 
-### The figurative wisdom-tradition references
+### ההתייחסויות הפיגורטיביות במסורת החוכמה
 
-The Hebrew Bible's wisdom literature contains several figurative uses of the Tree of Life construction:
+ספרות החוכמה של המקרא העברי מכילה מספר שימושים פיגורטיביים בצירוף עץ החיים:
 
-- **Proverbs 3:18**: *"She [wisdom] is a tree of life to those who lay hold of her; those who hold her fast are called blessed."*
-- **Proverbs 11:30**: *"The fruit of the righteous is a tree of life, and whoever captures souls is wise."*
-- **Proverbs 13:12**: *"Hope deferred makes the heart sick, but a desire fulfilled is a tree of life."*
-- **Proverbs 15:4**: *"A gentle tongue is a tree of life, but perverseness in it breaks the spirit."*
+- **משלי ג:18**: *»עֵץ חַיִּים הִיא [החוכמה] לַמַּחֲזִיקִים בָּהּ וְתֹמְכֶיהָ מְאֻשָּׁר.«*
+- **משלי יא:30**: *»פְּרִי צַדִּיק עֵץ חַיִּים וְלֹקֵחַ נְפָשׁוֹת חָכָם.«*
+- **משלי יג:12**: *»תּוֹחֶלֶת מְמֻשָּׁכָה מַחֲלָה לֵב וְעֵץ חַיִּים תַּאֲוָה בָאָה.«*
+- **משלי טו:4**: *»מַרְפֵּא לָשׁוֹן עֵץ חַיִּים וְסֶלֶף בָּהּ שֶׁבֶר בְּרוּחַ.«*
 
-These figurative uses apply the Tree of Life construction to specific positive qualities (wisdom, righteousness, fulfilled hope, gentle speech), with the underlying sense that these qualities provide the substantial life-extending benefit that the Tree-of-Life specifically denotes. The framework reads these figurative uses as preserving cultural memory of the Tree of Life as a substantively beneficial reality, with the wisdom-tradition's figurative application reflecting the broader cultural recognition of the Tree-of-Life motif's positive associations.
+שימושים פיגורטיביים אלה מיישמים את צירוף עץ החיים על תכונות חיוביות ספציפיות (חוכמה, צדק, תקווה ממומשת, דיבור עדין), עם המשמעות הבסיסית שתכונות אלו מספקות את התועלת המהותית מאריכת-החיים שעץ החיים מציין ספציפית. המסגרת קוראת שימושים פיגורטיביים אלה כמשמרים זיכרון תרבותי של עץ החיים כמציאות מועילה מהותית, כאשר היישום הפיגורטיבי של מסורת החוכמה משקף את ההכרה התרבותית הרחבה יותר באסוציאציות החיוביות של מוטיב עץ החיים.
 
-### Ezekiel 47:12 — the trees of the river of life
+### יחזקאל מז:12 — עצי נהר החיים
 
-Ezekiel's vision of the river flowing from the temple includes a description of the trees lining the river:
+חזון הנהר הזורם מן המקדש של יחזקאל כולל תיאור של העצים על הנהר:
 
-> *"And by the river upon the bank thereof, on this side and on that side, shall grow all trees for meat, whose leaf shall not fade, neither shall the fruit thereof be consumed: it shall bring forth new fruit according to his months, because their waters they issued out of the sanctuary: and the fruit thereof shall be for meat, and the leaf thereof for medicine (li-trupâ)."*
+> *»וְעַל הַנַּחַל יַעֲלֶה עַל שְׂפָתוֹ מִזֶּה וּמִזֶּה כָּל עֵץ מַאֲכָל לֹא יִבּוֹל עָלֵהוּ וְלֹא יִתֹּם פִּרְיוֹ לָחֳדָשָׁיו יְבַכֵּר כִּי מֵימָיו מִן הַמִּקְדָּשׁ הֵמָּה יוֹצְאִים וְהָיוּ פִרְיוֹ לְמַאֲכָל וְעָלֵהוּ לִתְרוּפָה.«*
 
-The framework reads this passage as preserving fragmentary memory of substantial alliance-mediated agricultural and medical infrastructure, with the specific features (continuous productivity, monthly fruit-bearing, medicinal leaves) reflecting the kind of alliance-supported ecosystem that the Tree-of-Life infrastructure produces. The Ezekiel vision is structurally significant as preserving the connection between the Eden Tree of Life and the eschatological-renewal tradition that Revelation will subsequently develop.
+המסגרת קוראת קטע זה כמשמר זיכרון מקוטע של תשתית חקלאית ורפואית מהותית בתיווך הברית, כאשר התכונות הספציפיות (פוריות רציפה, נשיאת פרי חודשית, עלים רפואיים) משקפות את סוג המערכת האקולוגית הנתמכת על ידי הברית שתשתית עץ החיים מפיקה. חזון יחזקאל משמעותי מבנית כמשמר את הקשר בין עץ החיים של עדן למסורת ההתחדשות-האסכטולוגית שההתגלות תפתח לאחר מכן.
 
-### Revelation 2:7 and 22:2, 22:14, 22:19
+### ההתגלות ב:7 וכב:2, כב:14, כב:19
 
-The New Testament's Revelation preserves substantial Tree of Life material in connection with the New Jerusalem vision.
+ההתגלות של הברית החדשה משמרת חומר עץ חיים מהותי בקשר לחזון ירושלים החדשה.
 
-**Revelation 2:7** records the promise to the church at Ephesus:
+**ההתגלות ב:7** רושמת את ההבטחה לכנסייה באפסוס:
 
-> *"He that overcometh, to him will I give to eat of the tree of life, which is in the midst of the paradise of God."*
+> *»הַמְנַצֵּחַ אֶתֵּן לוֹ לֶאֱכֹל מֵעֵץ הַחַיִּים אֲשֶׁר בְּתוֹךְ גַּן עֵדֶן שֶׁל אֱלֹהִים.«*
 
-**Revelation 22:2** describes the Tree of Life in the New Jerusalem:
+**ההתגלות כב:2** מתארת את עץ החיים בירושלים החדשה:
 
-> *"In the midst of the street of it, and on either side of the river, was there the tree of life, which bare twelve manner of fruits, and yielded her fruit every month: and the leaves of the tree were for the healing of the nations."*
+> *»בְּתוֹךְ רְחוֹבָהּ וְלַנָּהָר מִזֶּה וּמִזֶּה עֵץ חַיִּים עֹשֶׂה שְׁנֵים עָשָׂר מִינֵי פֵּרוֹת וְנֹתֵן פִּרְיוֹ מִדֵּי חֹדֶשׁ בְּחָדְשׁוֹ וַעֲלֵי הָעֵץ לִתְרוּפַת הַגּוֹיִם.«*
 
-**Revelation 22:14** records the conditional access:
+**ההתגלות כב:14** רושמת את הגישה המותנית:
 
-> *"Blessed are they that do his commandments, that they may have right to the tree of life, and may enter in through the gates into the city."*
+> *»אַשְׁרֵי הָעֹשִׂים אֶת מִצְוֹתָיו לְמַעַן תִּהְיֶה לָהֶם זְכוּת עֵץ הַחַיִּים וּבָאוּ הָעִירָה דֶּרֶךְ הַשְּׁעָרִים.«*
 
-The framework reads these passages as preserving prophetic-visionary memory of the Tree of Life's projected restoration to humanity following the Aquarian-age open return. The "healing of the nations" is read as the operational reality of the future longevity-extension project that will follow the formal alliance establishment at the embassy. The specific features (the twelve manner of fruits, the monthly fruit-bearing, the medicinal leaves) preserve the same operational character that the Ezekiel vision preserves — alliance-mediated biotechnological infrastructure operating at substantial scale.
+המסגרת קוראת קטעים אלה כמשמרים זיכרון נבואי-חזוני של השיקום המוקרן של עץ החיים לאנושות לאחר השיבה הפתוחה של עידן הדלי. »תרופת הגויים« נקראת כמציאות הפעולתית של פרויקט הארכת החיים העתידי שיבוא לאחר ייסוד הברית הפורמלי בשגרירות. התכונות הספציפיות (שנים עשר מיני הפירות, נשיאת הפרי החודשית, העלים הרפואיים) משמרות את אותו אופי פעולתי שחזון יחזקאל משמר — תשתית ביוטכנולוגית בתיווך הברית הפועלת בקנה מידה מהותי.
 
-### The Raëlian source material
+### חומר המקור הראליאני
 
-The principal Raëlian source-material passages on the Tree of Life appear in *The Book Which Tells the Truth* (1974), chapter 2 ("Truth"), with substantial supplementary material in *Extra-Terrestrials Took Me to Their Planet* (1975).
+הקטעים העיקריים של חומר המקור הראליאני על עץ החיים מופיעים ב*הספר אשר מספר את האמת* (1974), פרק 2 (»אמת«),{{ cite(id="the-book-which-tells-the-truth", text="[6]", title="וורילון (ראל), *הספר אשר מספר את האמת* (1974), פרק 2 — מענק אריכות החיים הפטריארכלי") }} עם חומר משלים מהותי ב*חוצנים לקחו אותי לכוכבם* (1975).{{ cite(id="extraterrestrials-took-me-to-their-planet", text="[7]", title="וורילון (ראל), *חוצנים לקחו אותי לכוכבם* (1975) — טכנולוגיית העברת התאים ו-25 הגופים של יהוה") }}
 
-The principal source-material content on the Tree of Life:
+תוכן המקור העיקרי על עץ החיים:
 
-**The post-Eden patriarchal grant** (from Yahweh's account in *The Book Which Tells the Truth*, chapter 2):
+**המענק הפטריארכלי שלאחר עדן** (מדיווחו של יהוה ב*הספר אשר מספר את האמת*, פרק 2):
 
-> *"The creators in exile who were left under military surveillance, urged the human beings to bring them food in order to show their own superiors that the newly created people were good, and that they would never turn against their creators. Thus they managed to obtain permission for the leaders of these first human beings to benefit from the 'tree of life', and this explains how they lived so long: Adam lived for 930 years, Seth for 912 years and Enos for 905 years, and so on."*
+> *»הבוראים בגלות שנותרו תחת פיקוח צבאי דרבנו את בני האדם להביא להם מזון כדי להראות לממונים שלהם שהאנשים שזה עתה נבראו טובים, ושהם לעולם לא יפנו נגד בוראיהם. כך הצליחו להשיג רשות עבור מנהיגי בני האדם הראשונים הללו ליהנות מ'עץ החיים', וזה מסביר כיצד חיו זמן כה רב: אדם חי 930 שנים, שת 912 שנים ואנוש 905 שנים, וכן הלאה.«*
 
-**The non-hereditary character of the grant** (from the same passage):
+**האופי הבלתי-תורשתי של המענק** (מאותו קטע):
 
-> *"Longevity is not hereditary and much to the relief of the authorities on the distant planet, the children of the new human beings did not automatically benefit from the 'tree of life'. Thus the secret of life was lost, and mankind's progress was slowed down."*
+> *»אריכות החיים אינה תורשתית, ולהקלה רבה של הרשויות על הכוכב המרוחק, ילדי בני האדם החדשים לא נהנו אוטומטית מ'עץ החיים'. כך אבד סוד החיים, והתקדמות האנושות הואטה.«*
 
-**The Eloha standard longevity** (from the same chapter):
+**אריכות החיים הסטנדרטית של האלוהה** (מאותו פרק):
 
-> *"For us, the problem is very different. We are not eternal, but we are able to live ten times longer than you, thanks to a small surgical adjustment, which in effect is the biblical 'tree of life'."*
+> *»עבורנו, הבעיה שונה מאוד. איננו נצחיים, אך אנו מסוגלים לחיות פי עשרה זמן רב יותר מכם, הודות להתאמה כירורגית קטנה, שהיא למעשה 'עץ החיים' המקראי.«*
 
-**The cellular-transfer technology and Yahweh's continuous existence** (from *Extra-Terrestrials Took Me to Their Planet*, "Meeting the Ancient Prophets"):
+**טכנולוגיית העברת התאים והקיום הרציף של יהוה** (מ*חוצנים לקחו אותי לכוכבם*, »פגישה עם הנביאים הקדומים«):
 
-> *"The oldest, the president of the council of the eternals, is 25,000 years old, and you see him before you now. I have lived in twenty-five bodies up to this day, and I was the first one on whom this experiment was successfully carried out."*
+> *»הזקן ביותר, נשיא מועצת הנצחיים, בן 25,000 שנים, ואתה רואה אותו לפניך עכשיו. חייתי בעשרים וחמישה גופים עד היום הזה, והייתי הראשון שעליו בוצע ניסוי זה בהצלחה.«*
 
-**The cellular-transfer mechanism** (from the broader Raëlian source material):
+**מנגנון העברת התאים** (מחומר המקור הראליאני הרחב יותר):
 
-> *"The body is made up of new elements with the potential for another one thousand years of life — and so on eternally. But in order to limit the growth of the population, only geniuses have the right to eternity. Everybody on our planet has a cell sample taken at a certain age, hoping that they will be chosen for re-creation after their death."*
+> *»הגוף עשוי מיסודות חדשים בעלי פוטנציאל לעוד אלף שנות חיים — וכן הלאה לנצח. אך כדי להגביל את גידול האוכלוסייה, רק לגאונים יש זכות לנצח. לכל אחד על כוכבנו נלקחת דגימת תא בגיל מסוים, בתקווה שייבחר לבריאה-מחדש לאחר מותו.«*
 
-The Raëlian source material's specific technical content thus establishes the Tree of Life as a developmental trajectory of biotechnologies rather than as a single fixed mechanism: the basic Eloha longevity ("small surgical adjustment" extending lifespan to approximately 700–1,200 years per body) and the more advanced Eternal cloning-and-memory-transfer technology (practical immortality through successive bodies with preserved personal continuity).
+תוכן המקור הטכני הספציפי של חומר המקור הראליאני מבסס לפיכך את עץ החיים כמסלול התפתחותי של ביוטכנולוגיות ולא כמנגנון קבוע יחיד: אריכות החיים הבסיסית של האלוהה (»התאמה כירורגית קטנה« המאריכה את תוחלת החיים לכ-700–1,200 שנה לגוף) וטכנולוגיית השכפול והעברת הזיכרון המתקדמת יותר של הנצחיים (אלמוות מעשי באמצעות גופים עוקבים עם רציפות אישית נשמרת).
 
-### Other primary sources
+### מקורות ראשוניים אחרים
 
-The Tree of Life is referenced across various other primary-source materials:
+עץ החיים מוזכר לאורך חומרי מקור-ראשוני שונים אחרים:
 
-- **The Book of 1 Enoch** preserves substantial sacred-tree material including specific references to the Tree of Life
-- **The Apocalypse of Moses** and **Life of Adam and Eve** preserve substantial pseudepigraphical Tree of Life narrative
-- **The Mesopotamian *huluppu* and *kishkanu* traditions** preserve parallel sacred-tree material with substantial structural correspondences
-- **The Hindu *Ashvattha* tradition** preserves substantial cosmic-tree material in the *Bhagavad Gita* and broader Vedic-Upanishadic literature
-- **The Norse *Yggdrasil* tradition** preserves substantial cosmic-tree material in the *Poetic Edda* and *Prose Edda*
+- **ספר חנוך א** משמר חומר עץ קדוש מהותי לרבות התייחסויות ספציפיות לעץ החיים
+- **אפוקליפסת משה** ו**חיי אדם וחוה** משמרים נרטיב עץ חיים פסבדואפיגרפי מהותי
+- **מסורות ה-*huluppu* וה-*kishkanu* המסופוטמיות** משמרות חומר עץ קדוש מקביל עם התאמות מבניות מהותיות
+- **מסורת ה-*Ashvattha* ההינדית** משמרת חומר עץ קוסמי מהותי ב*Bhagavad Gita* ובספרות הוודית-האופנישדית הרחבה יותר
+- **מסורת ה-*Yggdrasil* הנורדית** משמרת חומר עץ קוסמי מהותי ב*Poetic Edda* וב*Prose Edda*
 
-The framework reads all these primary sources as preserving fragmentary memory of the actual underlying biotechnology, with each tradition's specific cultural-religious framing reflecting the distinctive context of its preservation.
+המסגרת קוראת את כל המקורות הראשוניים הללו כמשמרים זיכרון מקוטע של הביוטכנולוגיה הבסיסית הממשית, כאשר המסגור התרבותי-הדתי הספציפי של כל מסורת משקף את ההקשר המובחן של שימורה.
 
-## The concept's content
+## תוכן המושג
 
-The framework's specific reading of the Tree of Life integrates the various operational phases the source material describes into a unified developmental account of a single underlying biotechnology with multiple operational forms.
+קריאת המסגרת הספציפית של עץ החיים משלבת את שלבי הפעולה השונים שחומר המקור מתאר לדיווח התפתחותי מאוחד של ביוטכנולוגיה בסיסית יחידה בעלת מספר צורות פעולה.
 
-### The basic operational principle
+### עקרון הפעולה הבסיסי
 
-The Tree of Life is, on the framework's reading, a cellular-extension biotechnology that operates by addressing the principal biological mechanisms of aging. The specific technical content the source material specifies is limited (the source describes "a small surgical adjustment" without detailing its specific mechanism), but the broader framework reading is that the technology operates through some combination of:
+עץ החיים הוא, על פי קריאת המסגרת, ביוטכנולוגיה של הארכת תאים הפועלת באמצעות התייחסות למנגנונים הביולוגיים העיקריים של ההזדקנות. התוכן הטכני הספציפי שחומר המקור מציין מוגבל (המקור מתאר »התאמה כירורגית קטנה« מבלי לפרט את מנגנונה הספציפי), אך קריאת המסגרת הרחבה יותר היא שהטכנולוגיה פועלת באמצעות שילוב כלשהו של:
 
-- **Cellular-level rejuvenation**: addressing the progressive cellular damage and epigenetic changes that produce biological aging
-- **Genetic-level intervention**: modifying the genetic mechanisms that limit natural lifespan
-- **Tissue-level regeneration**: replacing or repairing damaged tissues and organs across the lifespan
-- **Systemic-level optimization**: maintaining the broader physiological systems that decline with aging
+- **התחדשות ברמת התא**: התייחסות לנזק התאי המתקדם ולשינויים האפיגנטיים המפיקים הזדקנות ביולוגית
+- **התערבות ברמה הגנטית**: שינוי המנגנונים הגנטיים המגבילים את תוחלת החיים הטבעית
+- **התחדשות ברמת הרקמה**: החלפה או תיקון של רקמות ואיברים פגומים לאורך תוחלת החיים
+- **אופטימיזציה ברמה המערכתית**: שמירה על המערכות הפיזיולוגיות הרחבות יותר שמתדרדרות עם ההזדקנות
 
-The contemporary research trajectory (treated more fully in *Modern reinterpretations* below) provides substantial parallel content for understanding what such technologies might involve in detail, though the source material does not specify the exact mechanisms.
+מסלול המחקר בן זמננו (מטופל באופן מלא יותר ב*פרשנויות-מחדש מודרניות* להלן) מספק תוכן מקביל מהותי להבנת מה טכנולוגיות כאלה עשויות לכלול בפירוט, אם כי חומר המקור אינו מציין את המנגנונים המדויקים.
 
-### The five operational phases
+### חמשת שלבי הפעולה
 
-The framework reads the Tree of Life as having five distinct operational phases across the broader history:
+המסגרת קוראת את עץ החיים כבעל חמישה שלבי פעולה מובחנים לאורך ההיסטוריה הרחבה יותר:
 
-**Phase I: Original Eden installation (c. 11,400 BCE)**. The Tree of Life as restricted Eden-installation infrastructure, accessible to alliance personnel but explicitly prohibited to the synthesized humans. The Genesis 3:22 prohibition reflects the home-world Council's specific policy of withholding longevity from the Earth creation. The Tree of Life's presence in the original Eden installation made it operationally available to the alliance personnel conducting the educational program with Adam and Eve, but the technology was not transferred to the synthesized humans during the pre-disclosure period.
+**שלב I: מתקן עדן המקורי (בסביבות 11,400 לפנה״ס)**.{{ footnote(id="2") }} עץ החיים כתשתית מתקן עדן מוגבלת, נגישה לאנשי הברית אך אסורה במפורש על בני האדם המסונתזים. האיסור בבראשית ג:22 משקף את מדיניות המועצה הספציפית של העולם הביתי למנוע אריכות חיים מבריאת כדור הארץ. נוכחות עץ החיים במתקן עדן המקורי הפכה אותו לזמין פעולתית לאנשי הברית שניהלו את התוכנית החינוכית עם אדם וחוה, אך הטכנולוגיה לא הועברה לבני האדם המסונתזים בתקופה שלפני הגילוי.
 
-**Phase II: Post-Eden patriarchal grant (c. 11,000–6,690 BCE)**. The exiled Lucifer faction's negotiation with the Council to grant longevity treatment to specific Eden-lineage leaders. The grant was conditional, limited, and non-hereditary — the children of the long-lived patriarchs did not automatically inherit the treatment. The recorded biblical lifespans (930 for Adam, 969 for Methuselah, 950 for Noah, the broader Genesis 5 genealogy) reflect the specific lifespans achieved by the patriarchs who received the limited treatment. The framework reads this as the operational reality of the post-Eden settlement: the exiled creators, having been condemned to remain on Earth, were permitted to grant limited longevity to specific human leaders as a continuing demonstration that the human creation was worth preserving.
+**שלב II: המענק הפטריארכלי שלאחר עדן (בסביבות 11,000–6,690 לפנה״ס)**. המשא ומתן של סיעת לוציפר הגולה עם המועצה להעניק טיפול אריכות חיים למנהיגים ספציפיים משושלת עדן. המענק היה מותנה, מוגבל ובלתי-תורשתי — ילדי הפטריארכים ארוכי-החיים לא ירשו אוטומטית את הטיפול. אריכויות החיים המקראיות הרשומות (930 לאדם, 969 למתושלח, 950 לנח, הגנאלוגיה הרחבה של בראשית ה) משקפות את אריכויות החיים הספציפיות שהושגו על ידי הפטריארכים שקיבלו את הטיפול המוגבל. המסגרת קוראת זאת כמציאות הפעולתית של ההסדר שלאחר עדן: הבוראים הגולים, לאחר שנידונו להישאר על כדור הארץ, הורשו להעניק אריכות חיים מוגבלת למנהיגים אנושיים ספציפיים כהדגמה מתמשכת לכך שהבריאה האנושית הייתה ראויה לשימור.
 
-**Phase III: Post-Flood restricted phase (c. 6,690 BCE onward)**. The longevity treatment becoming progressively rare across the post-Flood generations. The Genesis 11 post-Flood genealogy preserves declining lifespans (Shem at 600 years, Arphaxad at 438, the gradual reduction through subsequent generations), with the framework reading this as the operational reality of the Council's progressive restriction of the longevity-grant policy following the Flood. The Genesis 6:3 specification ("his days shall be an hundred and twenty years") is read as the formal Council restriction of human lifespan to natural limits, with the actual implementation taking centuries to fully manifest in the human population.
+**שלב III: השלב המוגבל שלאחר המבול (מסביבות 6,690 לפנה״ס ואילך)**. טיפול אריכות החיים הופך נדיר בהדרגה לאורך הדורות שלאחר המבול. הגנאלוגיה שלאחר המבול של בראשית יא משמרת אריכויות חיים יורדות (שם בן 600 שנים, ארפכשד בן 438, ההפחתה ההדרגתית לאורך הדורות שלאחר מכן), כאשר המסגרת קוראת זאת כמציאות הפעולתית של ההגבלה ההדרגתית של המועצה את מדיניות מענק אריכות החיים לאחר המבול. האזכור בבראשית ו:3 (»וְהָיוּ יָמָיו מֵאָה וְעֶשְׂרִים שָׁנָה«) נקרא כהגבלה הפורמלית של המועצה את תוחלת החיים האנושית לגבולות טבעיים, כאשר היישום בפועל ארך מאות שנים להתבטא במלואו באוכלוסייה האנושית.
 
-**Phase IV: Basic Eloha longevity (continuous, present)**. The standard Elohim civilization's natural-but-extended lifespan of 700–1,200 years per body, achieved through "a small surgical adjustment" applied universally within the civilization. This is the standard operational form of the Tree of Life technology on the home world, providing substantial lifespan extension without producing the practical immortality of the Eternals.
+**שלב IV: אריכות החיים הבסיסית של האלוהה (רציף, בהווה)**. אריכות החיים הטבעית-אך-מוארכת הסטנדרטית של ציוויליזציית האלוהים של 700–1,200 שנה לגוף, המושגת באמצעות »התאמה כירורגית קטנה« המיושמת באופן אוניברסלי בתוך הציוויליזציה. זוהי צורת הפעולה הסטנדרטית של טכנולוגיית עץ החיים על העולם הביתי, המספקת הארכת תוחלת חיים מהותית מבלי להפיק את האלמוות המעשי של הנצחיים.
 
-**Phase V: Eternal cloning-and-memory-transfer (continuous, present)**. The most advanced operational form, producing practical immortality through successive bodies with preserved personal identity. The technology operates by:
+**שלב V: השכפול והעברת הזיכרון של הנצחיים (רציף, בהווה)**. צורת הפעולה המתקדמת ביותר, המפיקה אלמוות מעשי באמצעות גופים עוקבים עם זהות אישית נשמרת. הטכנולוגיה פועלת באמצעות:
 
-- Taking cellular samples from each candidate at a specified age
-- Conducting periodic Council deliberation (the annual Last Judgment) to select candidates for the Eternal status
-- Constructing new bodies from the preserved cellular material at the appropriate moment
-- Transferring the preserved memory and personality from the original biological substrate to the new body
-- Producing continuous personal identity across multiple successive bodies
+- לקיחת דגימות תאיות מכל מועמד בגיל מסוים
+- ניהול דיון מועצה תקופתי (יום הדין השנתי) לבחירת מועמדים למעמד הנצחי
+- בניית גופים חדשים מהחומר התאי הנשמר ברגע המתאים
+- העברת הזיכרון והאישיות הנשמרים מהמצע הביולוגי המקורי לגוף החדש
+- הפקת זהות אישית רציפה על פני מספר גופים עוקבים
 
-Yahweh's 25,000-year continuous existence across 25 bodies is the principal known instance of this technology's operation. The Council membership (700 Eternals) and the broader Eternal community on the Planet of the Eternals (including approximately 8,400 resurrected humans) represent the broader population currently sustained by this technology.
+הקיום הרציף של יהוה לאורך 25,000 שנים על פני 25 גופים הוא המופע הידוע העיקרי של פעולת טכנולוגיה זו. חברות המועצה (700 נצחיים) וקהילת הנצחיים הרחבה יותר על כוכב הנצחיים (לרבות כ-8,400 בני אדם שתחיו) מייצגות את האוכלוסייה הרחבה יותר הנשמרת כיום על ידי טכנולוגיה זו.
 
-### The relationship between phases
+### היחס בין השלבים
 
-The five operational phases represent a developmental trajectory rather than separate technologies. The basic principle — cellular-level intervention to extend natural lifespan — operates across all five phases, with the specific implementation becoming progressively more sophisticated across the developmental trajectory. The Eloha standard longevity (Phase IV) represents the basic application of the underlying principle; the Eternal cloning-and-memory-transfer (Phase V) represents the advanced application that produces practical immortality.
+חמשת שלבי הפעולה מייצגים מסלול התפתחותי ולא טכנולוגיות נפרדות. העיקרון הבסיסי — התערבות ברמת התא להארכת תוחלת החיים הטבעית — פועל לאורך כל חמשת השלבים, כאשר היישום הספציפי הופך מתוחכם יותר ויותר לאורך המסלול ההתפתחותי. אריכות החיים הסטנדרטית של האלוהה (שלב IV) מייצגת את היישום הבסיסי של העיקרון הבסיסי; השכפול והעברת הזיכרון של הנצחיים (שלב V) מייצג את היישום המתקדם המפיק אלמוות מעשי.
 
-The Earth-side operational phases (Phases I, II, III) reflect the various political-historical conditions under which the technology has been made available to humans. The original Eden installation made the technology operationally present on Earth; the post-Eden patriarchal grant made it conditionally available to specific human partners; the post-Flood restricted phase progressively withdrew the human access. The current Aquarian-age preparation is anticipating the technology's eventual restoration to humanity following the formal alliance establishment at the embassy.
+שלבי הפעולה בצד כדור הארץ (שלבים I, II, III) משקפים את התנאים הפוליטיים-ההיסטוריים השונים שתחתם הוזמנה הטכנולוגיה לבני האדם. מתקן עדן המקורי הפך את הטכנולוגיה לנוכחת פעולתית על כדור הארץ; המענק הפטריארכלי שלאחר עדן הפך אותה לזמינה מותנית לשותפים אנושיים ספציפיים; השלב המוגבל שלאחר המבול נסג בהדרגה את הגישה האנושית. הכנת עידן הדלי הנוכחית מצפה לשיקום הסופי של הטכנולוגיה לאנושות לאחר ייסוד הברית הפורמלי בשגרירות.
 
-### The political-historical character
+### האופי הפוליטי-ההיסטורי
 
-The Tree of Life's operational history is substantially shaped by the political-historical conditions surrounding it. The technology is not merely a biological-technical capability; it is a politically-controlled resource whose distribution reflects specific political decisions across the framework's broader history.
+ההיסטוריה הפעולתית של עץ החיים מעוצבת מהותית על ידי התנאים הפוליטיים-ההיסטוריים הסובבים אותה. הטכנולוגיה אינה רק יכולת ביולוגית-טכנית; היא משאב מבוקר-פוליטית שחלוקתו משקפת החלטות פוליטיות ספציפיות לאורך ההיסטוריה הרחבה יותר של המסגרת.
 
-The Council's specific policy considerations:
+שיקולי המדיניות הספציפיים של המועצה:
 
-- **The original Eden prohibition** reflects the Council's specific concern about human technological development. If humans had access to substantial longevity from the beginning, they would accumulate knowledge and capability rapidly, potentially threatening the home world. The original prohibition was a containment measure.
-- **The post-Eden patriarchal grant** was a compromise allowing the exiled creators to demonstrate the human creation's value while limiting the specific extension to selected leaders rather than the broader population.
-- **The post-Flood restriction** reflects the Council's specific response to the antediluvian civilization's threatening development — the Flood having destroyed the broader population that had received various benefits from the exiled creators, the Council subsequently restricted the longevity-grant policy more strictly.
-- **The current Aquarian-age preparation** reflects the Council's eventual recognition that humanity has developed sufficient maturity to warrant access to substantial alliance technology, with the open return at the embassy projected to inaugurate the formal extension of longevity technology to humanity.
+- **האיסור העדני המקורי** משקף את הדאגה הספציפית של המועצה לגבי ההתפתחות הטכנולוגית האנושית. אם לבני האדם הייתה גישה לאריכות חיים מהותית מההתחלה, הם היו צוברים ידע ויכולת במהירות, ובכך מאיימים פוטנציאלית על העולם הביתי. האיסור המקורי היה אמצעי הכלה.
+- **המענק הפטריארכלי שלאחר עדן** היה פשרה שאפשרה לבוראים הגולים להדגים את ערך הבריאה האנושית בעודה מגבילה את ההרחבה הספציפית למנהיגים נבחרים ולא לאוכלוסייה הרחבה.
+- **ההגבלה שלאחר המבול** משקפת את תגובת המועצה הספציפית להתפתחות המאיימת של הציוויליזציה הטרום-מבולית — לאחר שהמבול השמיד את האוכלוסייה הרחבה שקיבלה יתרונות שונים מהבוראים הגולים, המועצה הגבילה לאחר מכן את מדיניות מענק אריכות החיים בקפדנות רבה יותר.
+- **הכנת עידן הדלי הנוכחית** משקפת את ההכרה הסופית של המועצה שהאנושות פיתחה בגרות מספקת כדי להצדיק גישה לטכנולוגיית ברית מהותית, כאשר השיבה הפתוחה בשגרירות מוקרנת לחנוך את ההרחבה הפורמלית של טכנולוגיית אריכות החיים לאנושות.
 
-The Tree of Life is therefore politically significant in ways that extend beyond its biological-technical character — the technology's distribution has been a continuing political question across the framework's broader history, with the various operational decisions reflecting the broader political-historical context.
+עץ החיים הוא לפיכך משמעותי פוליטית באופנים החורגים מאופיו הביולוגי-הטכני — חלוקת הטכנולוגיה הייתה שאלה פוליטית מתמשכת לאורך ההיסטוריה הרחבה יותר של המסגרת, כאשר ההחלטות הפעולתיות השונות משקפות את ההקשר הפוליטי-ההיסטורי הרחב יותר.
 
-## Application across the corpus
+## יישום לאורך הקורפוס
 
-The Tree of Life's role in the broader corpus extends across multiple distinct domains.
+תפקיד עץ החיים בקורפוס הרחב יותר משתרע לאורך מספר תחומים מובחנים.
 
-### The patriarchal lifespans
+### אריכויות החיים הפטריארכליות
 
-The Genesis 5 patriarchal genealogy is the framework's principal evidence for the Tree of Life's operational presence in the antediluvian period. The detailed treatment of the patriarchs (Adam, Seth, Enos, Kenan, Mahalalel, Jared, Enoch, Methuselah, Lamech, Noah, and others) lives in the [Antediluvian](../antediluvian/) entry; the Tree of Life entry's specific contribution is establishing the technological mechanism behind the recorded lifespans.
+הגנאלוגיה הפטריארכלית של בראשית ה היא העדות העיקרית של המסגרת לנוכחות הפעולתית של עץ החיים בתקופה הטרום-מבולית. הטיפול המפורט בפטריארכים (אדם, שת, אנוש, קינן, מהללאל, ירד, חנוך, מתושלח, למך, נח ואחרים) נמצא בערך [טרום-מבולי](../antediluvian/); התרומה הספציפית של ערך עץ החיים היא ביסוס המנגנון הטכנולוגי שמאחורי אריכויות החיים הרשומות.
 
-The framework's reading of the lifespans:
+קריאת המסגרת את אריכויות החיים:
 
-- The recorded figures are substantively accurate to the actual lifespans of the named individuals
-- The lifespans reflect the operational reality of the limited longevity grant
-- The asymmetry between the patriarchal lifespans and the broader human population's normal lifespans reflects the limited and selective character of the grant
-- The progressive reduction in lifespans across the post-Flood generations reflects the Council's restriction policy
+- הנתונים הרשומים מדויקים מהותית לאריכויות החיים הממשיות של הפרטים הנקובים בשם
+- אריכויות החיים משקפות את המציאות הפעולתית של מענק אריכות החיים המוגבל
+- האסימטריה בין אריכויות החיים הפטריארכליות לבין אריכויות החיים הרגילות של האוכלוסייה האנושית הרחבה משקפת את האופי המוגבל והסלקטיבי של המענק
+- ההפחתה ההדרגתית באריכויות החיים לאורך הדורות שלאחר המבול משקפת את מדיניות ההגבלה של המועצה
 
-### The Eden installation
+### מתקן עדן
 
-The Tree of Life's role in the Eden installation is treated more fully in the [Eden](../eden/) entry. The Tree's specific function in the installation:
+תפקיד עץ החיים במתקן עדן מטופל באופן מלא יותר בערך [עדן](../eden/). תפקודו הספציפי של העץ במתקן:
 
-- It served as the longevity-extending infrastructure available to alliance personnel
-- It was deliberately positioned in the central area of the garden alongside the Tree of the Knowledge of Good and Evil
-- Its restriction from human access was a specific policy decision, with the post-disclosure expulsion specifically preventing human access to the technology
+- הוא שימש כתשתית מאריכת-החיים הזמינה לאנשי הברית
+- הוא מוקם בכוונה באזור המרכזי של הגן לצד עץ הדעת טוב ורע
+- הגבלתו מגישה אנושית הייתה החלטת מדיניות ספציפית, כאשר הגירוש שלאחר הגילוי מנע ספציפית גישה אנושית לטכנולוגיה
 
-### The Council of the Eternals
+### מועצת הנצחיים
 
-The Tree of Life's mature operational form is the cloning-and-memory-transfer technology that produces the Eternals. The detailed treatment of the Council and the Eternal population lives in the [Council of the Eternals](../council-of-eternals/) entry; the Tree of Life entry's specific contribution is establishing the technological basis for the Council's continuing operation.
+צורת הפעולה הבשלה של עץ החיים היא טכנולוגיית השכפול והעברת הזיכרון המפיקה את הנצחיים. הטיפול המפורט במועצה ובאוכלוסיית הנצחיים נמצא בערך [מועצת הנצחיים](../council-of-eternals/); התרומה הספציפית של ערך עץ החיים היא ביסוס הבסיס הטכנולוגי לפעולה המתמשכת של המועצה.
 
-### The Aquarian-age projected restoration
+### השיקום המוקרן של עידן הדלי
 
-The Tree of Life's projected restoration to humanity following the Aquarian-age open return is treated more fully in the [Apocalypse](../apocalypse/) and [Embassy](../embassy/) entries. The Revelation 22:2 reference to the Tree of Life in the New Jerusalem is read by the framework as preserving prophetic-visionary memory of this projected restoration, with the "healing of the nations" reflecting the substantial transformation of human biological reality that the technology's restoration will produce.
+השיקום המוקרן של עץ החיים לאנושות לאחר השיבה הפתוחה של עידן הדלי מטופל באופן מלא יותר בערכים [אפוקליפסה](../apocalypse/) ו[שגרירות](../embassy/). ההתייחסות בהתגלות כב:2 לעץ החיים בירושלים החדשה נקראת על ידי המסגרת כמשמרת זיכרון נבואי-חזוני של שיקום מוקרן זה, כאשר »תרופת הגויים« משקפת את הטרנספורמציה המהותית של המציאות הביולוגית האנושית ששיקום הטכנולוגיה יפיק.
 
-### The contemporary research trajectory
+### מסלול המחקר בן זמננו
 
-The contemporary longevity-research trajectory (Yamanaka factors, partial cellular reprogramming, telomere research, senolytics) is treated more fully in *Modern reinterpretations* below; the Tree of Life entry's specific contribution is registering that the contemporary research is moving in directions consistent with the framework's reading. The trajectory is not vindicating the framework directly, but is demonstrating that the framework's specific claims about biotechnology are not biologically impossible.
+מסלול מחקר אריכות החיים בן זמננו (גורמי יממנקה, תכנות-מחדש תאי חלקי, מחקר טלומרים, סנוליטיקה) מטופל באופן מלא יותר ב*פרשנויות-מחדש מודרניות* להלן; התרומה הספציפית של ערך עץ החיים היא רישום שהמחקר בן זמננו נע בכיוונים העקביים עם קריאת המסגרת. המסלול אינו מאשש את המסגרת ישירות, אך מדגים שהטענות הספציפיות של המסגרת לגבי ביוטכנולוגיה אינן בלתי-אפשריות ביולוגית.
 
-## Distinguishing from adjacent concepts
+## הבחנה ממושגים סמוכים
 
-The Tree of Life must be carefully distinguished from several adjacent concepts to avoid confusion.
+יש להבחין בקפידה את עץ החיים מכמה מושגים סמוכים כדי למנוע בלבול.
 
-### The Tree of Life vs. the Tree of the Knowledge of Good and Evil
+### עץ החיים מול עץ הדעת טוב ורע
 
-The two Eden trees are paired but functionally distinct:
+שני עצי עדן מזווגים אך נבדלים פעולתית:
 
-- **The Tree of Life** is the longevity-extending biotechnology, with the operational function of extending biological existence
-- **The Tree of the Knowledge of Good and Evil** is the restricted scientific-knowledge archive, with the operational function of providing substantive scientific and technological knowledge
+- **עץ החיים** הוא הביוטכנולוגיה מאריכת-החיים, בעלת התפקוד הפעולתי של הארכת הקיום הביולוגי
+- **עץ הדעת טוב ורע** הוא ארכיון הידע המדעי המוגבל, בעל התפקוד הפעולתי של מתן ידע מדעי וטכנולוגי מהותי
 
-The trees are paired in the Genesis narrative because they are the two principal restricted-access resources of the Eden installation, both subject to the original prohibition. The Eden disclosure event (treated in the [Serpent](../serpent/) entry) involved access to the Tree of the Knowledge specifically, not the Tree of Life — the post-disclosure prohibition on the Tree of Life (Genesis 3:22–24) was the Council's specific response to prevent humans from acquiring longevity in addition to the knowledge they had just acquired.
+העצים מזווגים בנרטיב בראשית משום שהם שני המשאבים העיקריים מוגבלי-הגישה של מתקן עדן, שניהם כפופים לאיסור המקורי. אירוע הגילוי בעדן (מטופל בערך [נחש](../serpent/)) כלל גישה לעץ הדעת ספציפית, לא לעץ החיים — האיסור שלאחר הגילוי על עץ החיים (בראשית ג:22–24) היה תגובת המועצה הספציפית למנוע מבני האדם לרכוש אריכות חיים בנוסף לידע שזה עתה רכשו.
 
-The detailed treatment of the Tree of the Knowledge lives in the [Tree of Knowledge](../tree-of-knowledge/) entry.
+הטיפול המפורט בעץ הדעת נמצא בערך [עץ הדעת](../tree-of-knowledge/).
 
-### The Tree of Life vs. the resurrection technology
+### עץ החיים מול טכנולוגיית התחייה
 
-The Tree of Life and the resurrection technology are related but distinct:
+עץ החיים וטכנולוגיית התחייה קשורים אך נבדלים:
 
-- **The Tree of Life** specifically refers to the longevity-extending biotechnology applied during life — extending the natural lifespan through cellular intervention
-- **The resurrection technology** specifically refers to the cellular-transfer-plus-memory-transfer technology applied after death — recreating an individual from preserved cellular material with restored memory and personality
+- **עץ החיים** מתייחס ספציפית לביוטכנולוגיה מאריכת-החיים המיושמת במהלך החיים — הארכת תוחלת החיים הטבעית באמצעות התערבות תאית
+- **טכנולוגיית התחייה** מתייחסת ספציפית לטכנולוגיית העברת התאים בתוספת העברת הזיכרון המיושמת לאחר המוות — בריאה-מחדש של פרט מחומר תאי נשמר עם זיכרון ואישיות משוחזרים
 
-The two technologies are technologically related but operationally distinct. The Tree of Life operates on living individuals to extend their lifespans; the resurrection technology operates on previously deceased individuals to restore their existence in new bodies. The Eternal cloning-and-memory-transfer technology (Phase V of the Tree of Life) integrates both functions — extending lifespan during life through successive cellular-transfer events, with each new body produced from the preserved cellular material in a process that is technically the same as the resurrection mechanism.
+שתי הטכנולוגיות קשורות טכנולוגית אך נבדלות פעולתית. עץ החיים פועל על פרטים חיים כדי להאריך את אריכויות חייהם; טכנולוגיית התחייה פועלת על פרטים שמתו קודם לכן כדי לשחזר את קיומם בגופים חדשים. טכנולוגיית השכפול והעברת הזיכרון של הנצחיים (שלב V של עץ החיים) משלבת את שני התפקודים — מאריכה תוחלת חיים במהלך החיים באמצעות אירועי העברת תאים עוקבים, כאשר כל גוף חדש מופק מהחומר התאי הנשמר בתהליך הזהה טכנית למנגנון התחייה.
 
-### The Tree of Life vs. basic Eloha longevity
+### עץ החיים מול אריכות החיים הבסיסית של האלוהה
 
-The basic Eloha longevity treatment (the "small surgical adjustment" producing 700–1,200-year lifespans) and the advanced Eternal technology (producing practical immortality) are both forms of the Tree of Life but operate at different sophistication levels:
+טיפול אריכות החיים הבסיסי של האלוהה (»ההתאמה הכירורגית הקטנה« המפיקה אריכויות חיים של 700–1,200 שנה) והטכנולוגיה המתקדמת של הנצחיים (המפיקה אלמוות מעשי) הם שניהם צורות של עץ החיים אך פועלים ברמות תחכום שונות:
 
-- The basic Eloha treatment is universally applied within the Elohim civilization, providing substantial but bounded lifespan extension
-- The Eternal technology is restricted to selected individuals (the Council members and the resurrected humans), providing practical immortality through successive bodies
+- הטיפול הבסיסי של האלוהה מיושם אוניברסלית בתוך ציוויליזציית האלוהים, ומספק הארכת תוחלת חיים מהותית אך חסומה
+- טכנולוגיית הנצחיים מוגבלת לפרטים נבחרים (חברי המועצה ובני האדם שתחיו), ומספקת אלמוות מעשי באמצעות גופים עוקבים
 
-The basic treatment can be understood as the foundation on which the advanced technology builds; the advanced technology represents the fully developed application of the underlying principle.
+הטיפול הבסיסי ניתן להבנה כיסוד שעליו בונה הטכנולוגיה המתקדמת; הטכנולוגיה המתקדמת מייצגת את היישום המפותח במלואו של העיקרון הבסיסי.
 
-### The Tree of Life vs. the Hebrew Bible's *qedoshim* and angelic categories
+### עץ החיים מול ה*קדושים* והקטגוריות המלאכיות של המקרא העברי
 
-The Tree of Life is a specific technology, not a category of beings. Various Hebrew Bible passages reference categories of beings with extended life or immortality (the *qedoshim* "holy ones," various angelic figures, the *benei ha-Elohim*) — these are referring to the Elohim civilization's members rather than to the Tree of Life specifically. The Tree of Life is the technology that produces the extended lifespans; the categories of beings are those who benefit from the technology.
+עץ החיים הוא טכנולוגיה ספציפית, לא קטגוריה של ישויות. קטעים שונים במקרא העברי מתייחסים לקטגוריות של ישויות בעלות חיים מוארכים או אלמוות (ה*קדושים*, דמויות מלאכיות שונות, ה*בני האלוהים*) — אלה מתייחסים לחברי ציוויליזציית האלוהים ולא לעץ החיים ספציפית. עץ החיים הוא הטכנולוגיה המפיקה את אריכויות החיים המוארכות; קטגוריות הישויות הן אלו הנהנות מהטכנולוגיה.
 
-## Modern reinterpretations
+## פרשנויות-מחדש מודרניות
 
-The Tree of Life material has been the subject of substantial modern reinterpretive engagement across multiple traditions. The principal strands warrant treatment.
+חומר עץ החיים היה נושא למעורבות פרשנית-מחדש מהותית לאורך מספר מסורות. הגדילים העיקריים מצדיקים טיפול.
 
-### The Kabbalistic Sephirot tradition
+### מסורת הספירות הקבלית
 
-The Kabbalistic Tree of Life (*ʿEṣ Ḥayyim* in Hebrew, with the same construction as the Genesis Tree of Life) is the principal cosmological diagram of the medieval and early-modern Kabbalistic tradition. The principal features:
+עץ החיים הקבלי (*עֵץ חַיִּים* בעברית, עם אותו צירוף כמו עץ החיים של בראשית) הוא הדיאגרמה הקוסמולוגית העיקרית של המסורת הקבלית המדיוולית והעת-החדשה-מוקדמת. התכונות העיקריות:
 
-**The ten Sephirot.** The Kabbalistic Tree of Life is structured around ten emanated divine attributes (Sephirot, singular *Sephirah*), arranged in a specific geometric pattern. The standard order:
+**עשר הספירות.** עץ החיים הקבלי מבונה סביב עשר תכונות אלוהיות נאצלות (ספירות, יחיד *ספירה*), מסודרות בדפוס גיאומטרי ספציפי. הסדר הסטנדרטי:
 
-- **Keter** (Crown) — the supernal crown, the first emanation from Ein Sof
-- **Chokhmah** (Wisdom) — the second emanation, masculine principle
-- **Binah** (Understanding) — the third emanation, feminine principle
-- **Chesed** (Mercy/Loving-kindness) — the fourth emanation
-- **Gevurah** (Severity/Strength) — the fifth emanation
-- **Tiferet** (Beauty/Harmony) — the sixth emanation, central balancing principle
-- **Netzach** (Eternity/Victory) — the seventh emanation
-- **Hod** (Glory/Splendor) — the eighth emanation
-- **Yesod** (Foundation) — the ninth emanation
-- **Malkhut** (Kingdom/Sovereignty) — the tenth emanation, manifested reality
+- **כתר** — הכתר העליון, האצילות הראשונה מ»אין סוף«
+- **חכמה** — האצילות השנייה, העיקרון הזכרי
+- **בינה** — האצילות השלישית, העיקרון הנקבי
+- **חסד** — האצילות הרביעית
+- **גבורה** — האצילות החמישית
+- **תפארת** — האצילות השישית, העיקרון המאזן המרכזי
+- **נצח** — האצילות השביעית
+- **הוד** — האצילות השמינית
+- **יסוד** — האצילות התשיעית
+- **מלכות** — האצילות העשירית, המציאות המתגלמת
 
-**The three pillars and four worlds.** The ten Sephirot are organized into three vertical pillars (the Pillar of Mercy, the Pillar of Severity, the Middle Pillar) and across four cosmological worlds (Atzilut, Beriah, Yetzirah, Asiyah). The structure provides the principal Kabbalistic cosmological framework.
+**שלושת העמודים וארבעת העולמות.** עשר הספירות מאורגנות לשלושה עמודים אנכיים (עמוד החסד, עמוד הדין, העמוד האמצעי) ועל פני ארבעה עולמות קוסמולוגיים (אצילות, בריאה, יצירה, עשייה). המבנה מספק את המסגרת הקוסמולוגית הקבלית העיקרית.
 
-**The Lurianic developments.** Isaac Luria (1534–1572) developed elaborate cosmological extensions of the basic Sephirot structure, including the concepts of *Tzimtzum* (divine contraction), *Shevirat ha-Kelim* (the breaking of the vessels), and *Tikkun* (repair/restoration). The Lurianic Tree of Life is the most extensively developed Kabbalistic cosmological framework.
+**ההתפתחויות הלוריאניות.** יצחק לוריא (1534–1572) פיתח הרחבות קוסמולוגיות מורכבות של מבנה הספירות הבסיסי, לרבות המושגים של *צמצום*, *שבירת הכלים*, ו*תיקון*. עץ החיים הלוריאני הוא המסגרת הקוסמולוגית הקבלית המפותחת ביותר.
 
-**The principal texts.** The *Sefer Yetzirah* ("Book of Formation," composed somewhere between the 3rd and 6th centuries CE) provides foundational material; the *Bahir* (12th century) develops the early medieval Kabbalistic framework; the *Zohar* (composed in its preserved form c. late 13th century) provides the principal classical Kabbalistic text; the various Lurianic works (preserved through Hayyim Vital and other students) develop the Lurianic synthesis.
+**הטקסטים העיקריים.** *ספר יצירה* (שחובר אי-שם בין המאות השלישית והשישית לספירה) מספק חומר יסודי;{{ cite(id="sefer-yetzirah", text="[8]", title="*ספר יצירה* (תרגום קפלן, 1997) — מסגרת הספירות היסודית") }} ה*בהיר* (המאה השתים-עשרה) מפתח את המסגרת הקבלית מימי-הביניים המוקדמים; ה*זוהר* (שחובר בצורתו הנשמרת בסביבות סוף המאה השלוש-עשרה) מספק את הטקסט הקבלי הקלאסי העיקרי;{{ cite(id="zohar-pritzker", text="[9]", title="הזוהר, מהדורת פריצקר (מאט ושות', 2003–2017)") }} היצירות הלוריאניות השונות (הנשמרות באמצעות חיים ויטאל ותלמידים אחרים) מפתחות את הסינתזה הלוריאנית.{{ cite(id="major-trends-jewish-mysticism", text="[10]", title="שלום, *זרמים עיקריים במיסטיקה היהודית* (1941)") }}{{ cite(id="idel-kabbalah-new-perspectives", text="[11]", title="אידל, *קבלה: פרספקטיבות חדשות* (1988)") }}{{ cite(id="matt-essential-kabbalah", text="[12]", title="מאט, *הקבלה החיונית* (1996)") }}
 
-The framework's relationship to the Kabbalistic Tree of Life is critical-respectful. The Raëlian source material identifies the Kabbalah as *"the closest book to the truth"* of any religious tradition — a striking endorsement that registers substantive recognition of the Kabbalistic tradition's preservation of accurate content. The framework specifically respects:
+יחס המסגרת לעץ החיים הקבלי הוא ביקורתי-מכבד. חומר המקור הראליאני מזהה את הקבלה כ*»ספר הקרוב ביותר לאמת«* מכל מסורת דתית — אישור מרשים הרושם הכרה מהותית בשימור התוכן המדויק של המסורת הקבלית.{{ footnote(id="4") }} המסגרת מכבדת ספציפית:
 
-- The Kabbalistic tradition's recognition that the underlying reality involves a structured plurality of related beings/principles rather than a simple monotheistic singleness
-- The Kabbalistic vocabulary of *sephirot* as preserving fragmentary memory of the broader cosmic-political-structural reality
-- The Lurianic concepts of cosmic catastrophe and repair (*tikkun olam*) as preserving fragmentary memory of the actual political-historical conflicts the corpus's framework reads
-- The Kabbalistic tradition's preservation of substantive content despite its esoteric transmission
+- את ההכרה של המסורת הקבלית בכך שהמציאות הבסיסית כוללת ריבוי מובנה של ישויות/עקרונות קשורים ולא אחדות מונותאיסטית פשוטה
+- את אוצר המילים הקבלי של *ספירות* כמשמר זיכרון מקוטע של המציאות הקוסמית-הפוליטית-המבנית הרחבה יותר
+- את המושגים הלוריאניים של קטסטרופה ותיקון קוסמיים (*תיקון עולם*) כמשמרים זיכרון מקוטע של הקונפליקטים הפוליטיים-ההיסטוריים הממשיים שמסגרת הקורפוס קוראת
+- את שימור התוכן המהותי של המסורת הקבלית על אף מסירתה האזוטרית
 
-The framework does not adopt the Kabbalistic Tree of Life as the operational form of the framework's Tree of Life. The Kabbalistic Tree is principally a cosmological-emanationist diagram; the framework's Tree of Life is principally a biotechnology. The two are related (both use the same underlying *ʿēṣ ḥayyim* terminology and both refer to substantive cosmic-historical realities) but distinct in their specific content and operational character.
+המסגרת אינה מאמצת את עץ החיים הקבלי כצורת הפעולה של עץ החיים של המסגרת. העץ הקבלי הוא בעיקר דיאגרמה קוסמולוגית-אצילותית; עץ החיים של המסגרת הוא בעיקר ביוטכנולוגיה. השניים קשורים (שניהם משתמשים באותה טרמינולוגיה בסיסית של *עֵץ חַיִּים* ושניהם מתייחסים למציאויות קוסמיות-היסטוריות מהותיות) אך נבדלים בתוכנם ובאופיים הפעולתי הספציפיים.
 
-### Christian theological traditions of immortality and resurrection
+### מסורות נוצריות של אלמוות ותחייה
 
-Christian theological tradition has developed elaborate engagement with immortality and resurrection themes that bear on the Tree of Life material. The principal positions:
+המסורת התיאולוגית הנוצרית פיתחה מעורבות מורכבת בתמות אלמוות ותחייה הנוגעות לחומר עץ החיים. העמדות העיקריות:
 
-**The patristic developments.** Patristic theology (Irenaeus, Origen, Gregory of Nyssa, Augustine) developed substantial treatment of human mortality, the Edenic original condition, and the eschatological restoration. The Augustinian doctrine of original sin specifically frames the Edenic Tree of Life prohibition as part of the broader human-condition framework that the Christian salvation narrative addresses.
+**ההתפתחויות הפטריסטיות.** התיאולוגיה הפטריסטית (אירנאוס, אוריגנס, גרגוריוס מניסא, אוגוסטינוס) פיתחה טיפול מהותי בתמותת האדם, במצב העדני המקורי, ובשיקום האסכטולוגי. תורת החטא הקדמון האוגוסטינית ממסגרת ספציפית את איסור עץ החיים העדני כחלק ממסגרת המצב-האנושי הרחבה יותר שהנרטיב הנוצרי של הגאולה מטפל בה.{{ cite(id="city-of-god", text="[13]", title="אוגוסטינוס, *עיר האלוהים* — איסור עץ החיים במסגרת החטא הקדמון") }}
 
-**The medieval *lignum vitae* tradition.** Bonaventure's *Lignum Vitae* (c. 1260) develops the meditation on Christ's life and passion structured around the Tree-of-Life motif, with the cross of Christ as the renewed Tree of Life. The medieval iconographic tradition develops elaborate *lignum vitae* imagery in church art, with the cross typically depicted as a stylized tree bearing fruit (Christ's body, the Eucharist, the saints, various theological realities).
+**המסורת המדיוולית של *lignum vitae*.** *Lignum Vitae* של בונבנטורה (בסביבות 1260) מפתח את המדיטציה על חיי ישו וייסוריו המבונה סביב מוטיב עץ החיים, כאשר הצלב של ישו הוא עץ החיים המחודש. המסורת האיקונוגרפית המדיוולית מפתחת דימויי *lignum vitae* מורכבים באמנות הכנסייה, כאשר הצלב מתואר בדרך כלל כעץ מסוגנן הנושא פרי (גוף ישו, האוכריסטיה, הקדושים, מציאויות תיאולוגיות שונות).
 
-**The Reformation and post-Reformation developments.** Protestant Reformation theology generally maintains the basic Augustinian framework while developing distinctive emphases on justification by faith, the imputed righteousness of Christ, and the eschatological restoration. Various Protestant traditions develop the Tree of Life material with specific theological-symbolic content within their broader systematic frameworks.
+**ההתפתחויות של הרפורמציה ושלאחר הרפורמציה.** התיאולוגיה הפרוטסטנטית של הרפורמציה שומרת בדרך כלל על המסגרת האוגוסטינית הבסיסית בעודה מפתחת דגשים מובחנים על הצדקה באמונה, על צדקתו המיוחסת של ישו, ועל השיקום האסכטולוגי. מסורות פרוטסטנטיות שונות מפתחות את חומר עץ החיים עם תוכן תיאולוגי-סמלי ספציפי בתוך מסגרותיהן השיטתיות הרחבות יותר.
 
-**The Eastern Orthodox tradition.** Orthodox theology develops distinctive engagement with the deification (*theosis*) tradition, with the Tree of Life material read in connection with the broader theme of human transformation through participation in divine life. The Orthodox iconographic tradition preserves substantial Tree-of-Life imagery, with specific theological-liturgical applications.
+**המסורת המזרחית-אורתודוקסית.** התיאולוגיה האורתודוקסית מפתחת מעורבות מובחנת במסורת ההאלהה (*תאוסיס*), כאשר חומר עץ החיים נקרא בקשר לתמה הרחבה יותר של טרנספורמציה אנושית באמצעות השתתפות בחיים אלוהיים. המסורת האיקונוגרפית האורתודוקסית משמרת דימויי עץ חיים מהותיים, עם יישומים תיאולוגיים-ליטורגיים ספציפיים.
 
-**The contemporary theological developments.** Contemporary Christian theology has continued to engage the Tree of Life material within various theological frameworks, including the various ecological theologies that engage the Tree-of-Life motif in connection with environmental theology, the various process theologies that engage the material in connection with broader cosmological-theological frameworks, and the various engagements with eschatology and the new-creation tradition.
+**ההתפתחויות התיאולוגיות בנות זמננו.** התיאולוגיה הנוצרית בת זמננו המשיכה להתעמת עם חומר עץ החיים בתוך מסגרות תיאולוגיות שונות, לרבות התיאולוגיות האקולוגיות השונות המתעמתות עם מוטיב עץ החיים בקשר לתיאולוגיה סביבתית, התיאולוגיות התהליכיות השונות המתעמתות עם החומר בקשר למסגרות קוסמולוגיות-תיאולוגיות רחבות יותר, וההתעמתויות השונות עם האסכטולוגיה ומסורת הבריאה-החדשה.
 
-The framework does not adopt the specific Christian theological readings. The framework treats the Christian theological elaborations as substantial theological developments of the underlying material that have shaped Western religious consciousness across two millennia, while reading the underlying material as referring to specific historical biotechnology rather than as theological symbol or typological prefiguration.
+המסגרת אינה מאמצת את הקריאות התיאולוגיות הנוצריות הספציפיות. המסגרת מטפלת בעיבודים התיאולוגיים הנוצריים כהתפתחויות תיאולוגיות מהותיות של החומר הבסיסי שעיצבו את התודעה הדתית המערבית לאורך אלפיים שנים, בעודה קוראת את החומר הבסיסי כמתייחס לביוטכנולוגיה היסטורית ספציפית ולא כסמל תיאולוגי או הקדמה טיפולוגית.
 
-### Mainstream longevity research
+### מחקר אריכות החיים המיינסטרימי
 
-Contemporary longevity research has produced substantial findings relevant to the framework's reading. The principal areas:
+מחקר אריכות החיים בן זמננו הפיק ממצאים מהותיים הרלוונטיים לקריאת המסגרת. התחומים העיקריים:
 
-**The Yamanaka factors and partial cellular reprogramming.** Shinya Yamanaka and colleagues at Kyoto University demonstrated in 2006 (Nobel Prize 2012) that four transcription factors (Oct4, Sox2, Klf4, c-Myc) can reprogram adult cells back to a pluripotent state similar to embryonic stem cells. The discovery has substantially shaped subsequent longevity research.
+**גורמי יממנקה והתכנות-מחדש התאי החלקי.** שיניה יממנקה ועמיתיו באוניברסיטת קיוטו הדגימו ב-2006 (פרס נובל 2012) שארבעה גורמי שעתוק (Oct4, Sox2, Klf4, c-Myc) יכולים לתכנת מחדש תאים בוגרים בחזרה למצב פלוריפוטנטי הדומה לתאי גזע עובריים.{{ cite(id="takahashi-yamanaka-2006", text="[14]", title="טקהאשי ויממנקה, »השראת תאי גזע פלוריפוטנטיים...« (Cell, 2006)") }} התגלית עיצבה מהותית את מחקר אריכות החיים שלאחר מכן.{{ footnote(id="5") }}
 
-**Partial cellular reprogramming research.** David Sinclair's lab at Harvard Medical School has been particularly active, demonstrating in mouse models that partial reprogramming can:
+**מחקר התכנות-מחדש התאי החלקי.** המעבדה של דיוויד סינקלייר בבית הספר לרפואה של הרווארד הייתה פעילה במיוחד,{{ cite(id="sinclair-lifespan", text="[15]", title="סינקלייר ולפלנט, *תוחלת חיים* (2019)") }} ובהדגימה במודלים של עכברים שתכנות-מחדש חלקי יכול:
 
-- Restore vision in aged mice
-- Reverse certain markers of cellular aging in various tissues
-- Extend healthspan in treated animals
+- לשקם ראייה בעכברים מבוגרים
+- להפוך סימנים מסוימים של הזדקנות תאית ברקמות שונות
+- להאריך את משך הבריאות בחיות מטופלות
 
-Other labs (Juan Carlos Izpisua Belmonte at the Salk Institute, Vittorio Sebastiano at Stanford) have produced complementary findings. The trajectory of the research is clear: cellular aging is, at least in part, reversible, and the techniques for reversing it are being progressively refined.
+מעבדות אחרות (חואן קרלוס איזפיסואה בלמונטה במכון סאלק, ויטוריו סבסטיאנו בסטנפורד) הפיקו ממצאים משלימים. מסלול המחקר ברור: הזדקנות תאית היא, לפחות בחלקה, הפיכה, והטכניקות להפיכתה מעודנות בהדרגה.
 
-**Other principal aging mechanisms and interventions.** Contemporary research has identified several principal contributors to aging, each with associated intervention research:
+**מנגנוני הזדקנות עיקריים אחרים והתערבויות.** המחקר בן זמננו זיהה מספר תורמים עיקריים להזדקנות, כל אחד עם מחקר התערבות משויך:{{ cite(id="hallmarks-of-aging", text="[16]", title="לופס-אוטין ושות', »סימני ההיכר של ההזדקנות« (Cell, 2013)") }}{{ cite(id="ending-aging-de-grey", text="[17]", title="דה גריי ורֵיי, *סוף ההזדקנות* (2007) — מסגרת ההתחדשות SENS") }}
 
-- **Telomere shortening** — the progressive loss of protective DNA sequences at chromosome ends; telomerase-activation research aims to address this
-- **Senescent cell accumulation** — cells that have stopped dividing but resist normal cell death; senolytic drug research aims to selectively kill these cells
-- **Mitochondrial dysfunction** — the progressive decline of cellular energy production; mitochondrial-targeted therapies address this
-- **Stem cell exhaustion** — the loss of stem cell function with age; stem cell treatments address this
-- **Intercellular communication breakdown** — the progressive failure of communication between cells; various interventions address this
+- **קיצור טלומרים** — האובדן ההדרגתי של רצפי DNA מגנים בקצות הכרומוזומים; מחקר הפעלת טלומראז שואף לטפל בכך
+- **הצטברות תאים סנסנטיים** — תאים שהפסיקו להתחלק אך עמידים למוות תא רגיל; מחקר תרופות סנוליטיות שואף להרוג סלקטיבית תאים אלה
+- **תפקוד מיטוכונדריאלי לקוי** — הדרדרות הדרגתית של ייצור האנרגיה התאי; טיפולים ממוקדי-מיטוכונדריה מטפלים בכך
+- **התרוקנות תאי גזע** — אובדן תפקוד תאי הגזע עם הגיל; טיפולי תאי גזע מטפלים בכך
+- **שבר בתקשורת הבין-תאית** — הכשל ההדרגתי בתקשורת בין תאים; התערבויות שונות מטפלות בכך
 
-**The current state of the research.** Contemporary research suggests that human lifespans of 150–200 years may be achievable within the coming decades through combinations of these interventions. Lifespans of 500–1,000 years would require either substantial breakthroughs beyond the current trajectory or entirely different approaches (such as the cellular-transfer technology the source material describes).
+**המצב הנוכחי של המחקר.** המחקר בן זמננו מרמז שאריכויות חיים אנושיות של 150–200 שנים עשויות להיות ניתנות להשגה בעשורים הקרובים באמצעות שילובים של התערבויות אלו. אריכויות חיים של 500–1,000 שנים יחייבו או פריצות דרך מהותיות מעבר למסלול הנוכחי או גישות שונות לחלוטין (כגון טכנולוגיית העברת התאים שחומר המקור מתאר).
 
-**Cloning and regeneration research.** The cloning of Dolly the sheep (1996) demonstrated that complete mammals could be regenerated from single somatic cells. Subsequent work has extended cloning to numerous species, with substantial research now applied to species recovery (the Frozen Zoo's work, the de-extinction projects). The CRISPR-based gene editing technology (developed since c. 2012) has dramatically expanded the precision with which genetic material can be modified.
+**מחקר שכפול והתחדשות.** שכפול הכבשה דולי (1996) הדגים שיונקים שלמים יכולים להיווצר מחדש מתאים סומטיים בודדים. עבודה לאחר מכן הרחיבה את השכפול למינים רבים, עם מחקר מהותי המיושם כעת על שיקום מינים (עבודת »גן החיות הקפוא«, פרויקטי החזרת המינים שנכחדו). טכנולוגיית עריכת הגנים מבוססת ה-CRISPR (שפותחה מאז בסביבות 2012) הרחיבה דרמטית את הדיוק שבו ניתן לשנות חומר גנטי.
 
-The corpus reads the contemporary longevity research as developing in directions consistent with the framework's reading of the Tree of Life. The contemporary research is not vindicating the framework directly — current research has not produced practical immortality, and the cellular-transfer-plus-memory-transfer technology specifically remains beyond contemporary scientific capability. But the trajectory of the research demonstrates that the framework's specific claims about biotechnology are not biologically impossible. A more advanced civilization with several thousand years of sustained research could plausibly have developed the technologies the framework attributes to the Elohim.
+הקורפוס קורא את מחקר אריכות החיים בן זמננו כמתפתח בכיוונים העקביים עם קריאת המסגרת את עץ החיים. המחקר בן זמננו אינו מאשש את המסגרת ישירות — המחקר הנוכחי לא הפיק אלמוות מעשי, וטכנולוגיית העברת התאים בתוספת העברת הזיכרון ספציפית נותרת מעבר ליכולת המדעית בת זמננו. אך מסלול המחקר מדגים שהטענות הספציפיות של המסגרת לגבי ביוטכנולוגיה אינן בלתי-אפשריות ביולוגית. ציוויליזציה מתקדמת יותר עם כמה אלפי שנים של מחקר מתמשך יכלה באופן סביר לפתח את הטכנולוגיות שהמסגרת מייחסת לאלוהים.
 
-The detailed treatment of the contemporary research trajectory in connection with the broader framework's reading lives in the Wheel of Heaven corpus's broader chapter material.
+הטיפול המפורט במסלול המחקר בן זמננו בקשר לקריאת המסגרת הרחבה יותר נמצא בחומר הפרקים הרחב יותר של קורפוס »גלגל השמיים«.
 
-### Sendy on the Tree of Life
+### סנדי על עץ החיים
 
-**Jean Sendy** developed the principal scholarly antecedent of the framework's Tree of Life reading. Sendy's *Ces dieux qui firent le ciel et la terre* (1969) and related works treat the Genesis Tree of Life as referring to actual longevity-extending biotechnology rather than as theological symbol or mythological motif. Sendy's specific contributions include:
+**ז'אן סנדי** פיתח את האנטצדנט המחקרי העיקרי של קריאת המסגרת את עץ החיים. *Ces dieux qui firent le ciel et la terre* (1969) ויצירות קשורות של סנדי מטפלות בעץ החיים של בראשית כמתייחס לביוטכנולוגיה ממשית מאריכת-חיים ולא כסמל תיאולוגי או מוטיב מיתולוגי.{{ cite(id="those-gods-who-made-heaven-and-earth", text="[18]", title="סנדי, *Ces dieux qui firent le ciel et la terre* (1969)") }} תרומותיו הספציפיות של סנדי כוללות:
 
-- The philological-historical reading of the Hebrew *ʿēṣ ha-ḥayyîm* as preserving substantive operational content
-- The recognition that the patriarchal lifespans of Genesis 5 should be read as substantively accurate rather than as symbolic
-- The broader treatment of the Eden material as preserving accurate political-historical content rather than as religious mythology
-- The integration of the Tree of Life material with the broader alliance-mediated history Sendy reconstructed
+- הקריאה הפילולוגית-ההיסטורית של העברית *ʿēṣ ha-ḥayyîm* כמשמרת תוכן פעולתי מהותי
+- ההכרה שאריכויות החיים הפטריארכליות של בראשית ה צריכות להיקרא כמדויקות מהותית ולא כסמליות
+- הטיפול הרחב יותר בחומר עדן כמשמר תוכן פוליטי-היסטורי מדויק ולא כמיתולוגיה דתית
+- שילוב חומר עץ החיים עם ההיסטוריה הרחבה יותר בתיווך הברית שסנדי שחזר
 
-The framework's Tree of Life reading is structurally aligned with Sendy's approach while developing it substantially through the specific Raëlian source-material content (the five operational phases, the Eternal cloning-and-memory-transfer technology, the contemporary research-trajectory parallels).
+קריאת עץ החיים של המסגרת מיושרת מבנית עם גישתו של סנדי בעודה מפתחת אותה מהותית באמצעות תוכן המקור הראליאני הספציפי (חמשת שלבי הפעולה, טכנולוגיית השכפול והעברת הזיכרון של הנצחיים, ההקבלות של מסלול המחקר בן זמננו).
 
-### Biglino on the Tree of Life
+### ביגלינו על עץ החיים
 
-**Mauro Biglino**'s strict-translational engagement with the Tree of Life material is developed across his works. Biglino's specific contributions include:
+מעורבותו התרגומית-הקפדנית של **מאורו ביגלינו** עם חומר עץ החיים מפותחת לאורך יצירותיו.{{ cite(id="the-naked-bible", text="[19]", title="ביגלינו וקטנאו, *התנ״ך העירום* (2022)") }} תרומותיו הספציפיות של ביגלינו כוללות:
 
-- The Hebrew *ʿēṣ ha-ḥayyîm* read as referring to specific biotechnology rather than as theological symbol
-- The patriarchal lifespans read literally as the actual lifespans achieved by the named individuals
-- The various Hebrew Bible Tree-of-Life references (the wisdom-literature uses, the Ezekiel vision, the broader material) read as preserving operational content
-- The broader integration with Biglino's strict-translational reading of the Hebrew Bible as preserving substantive operational content
+- העברית *ʿēṣ ha-ḥayyîm* הנקראת כמתייחסת לביוטכנולוגיה ספציפית ולא כסמל תיאולוגי
+- אריכויות החיים הפטריארכליות הנקראות מילולית כאריכויות החיים הממשיות שהושגו על ידי הפרטים הנקובים בשם
+- ההתייחסויות השונות לעץ החיים במקרא העברי (השימושים בספרות החוכמה, חזון יחזקאל, החומר הרחב יותר) הנקראות כמשמרות תוכן פעולתי
+- השילוב הרחב יותר עם קריאתו התרגומית-הקפדנית של ביגלינו את המקרא העברי כמשמר תוכן פעולתי מהותי
 
-The framework's reading is broadly aligned with Biglino's reading at the methodological level, with substantial overlap on specific lexical-philological readings.
+קריאת המסגרת מיושרת באופן רחב עם קריאתו של ביגלינו ברמה המתודולוגית, עם חפיפה מהותית על קריאות לקסיקליות-פילולוגיות ספציפיות.
 
-### Wallis on the Tree of Life
+### ווליס על עץ החיים
 
-**Paul Anthony Wallis**'s engagement with the Tree of Life material in his broader corpus develops substantial treatment of the underlying biotechnology and its operational history. Wallis's specific contributions include the structural reading of the Eden installation's specific infrastructure (including the Tree of Life as a key component), the careful treatment of the post-Eden patriarchal grants as historical-operational events, and the comparative engagement with parallel ancient biotechnology references.
+מעורבותו של **פול אנתוני ווליס** עם חומר עץ החיים בקורפוס הרחב יותר שלו מפתחת טיפול מהותי בביוטכנולוגיה הבסיסית ובהיסטוריה הפעולתית שלה.{{ cite(id="the-eden-conspiracy", text="[20]", title="ווליס, *קונספירציית עדן* (2024)") }} תרומותיו הספציפיות של ווליס כוללות את הקריאה המבנית של התשתית הספציפית של מתקן עדן (לרבות עץ החיים כרכיב מרכזי), את הטיפול הקפדני במענקים הפטריארכליים שלאחר עדן כאירועים היסטוריים-פעולתיים, ואת המעורבות ההשוואתית עם התייחסויות ביוטכנולוגיה עתיקות מקבילות.
 
-### The framework's relationship to the broader landscape
+### יחס המסגרת לנוף הרחב יותר
 
-The corpus's Tree of Life reading is positioned within this landscape as follows: aligned with Sendy's, Biglino's, and Wallis's readings as the principal scholarly antecedents; respectful of the Kabbalistic tradition's underlying intuition that the Tree of Life refers to substantive cosmic reality, while not endorsing the specific Sephirot emanationist apparatus; respectful of the Christian theological tradition's various engagements while not adopting the typological-symbolic readings; aligned with the contemporary longevity research in registering that the framework's specific biological claims are within the realm of biologically achievable technology; structurally distinct from mainstream historical-critical biblical scholarship at the level of underlying ontology; and developing the specific corpus-internal reading (the five operational phases, the Eternal technology, the contemporary research-trajectory parallels) as the framework's distinctive contribution to the broader reinterpretive landscape.
+קריאת עץ החיים של הקורפוס ממוקמת בתוך נוף זה כדלקמן: מיושרת עם קריאותיהם של סנדי, ביגלינו וווליס כאנטצדנטים המחקריים העיקריים; מכבדת את האינטואיציה הבסיסית של המסורת הקבלית שעץ החיים מתייחס למציאות קוסמית מהותית, בעודה אינה מאמצת את מנגנון האצילות הספציפי של הספירות; מכבדת את ההתעמתויות השונות של המסורת התיאולוגית הנוצרית בעודה אינה מאמצת את הקריאות הטיפולוגיות-הסמליות; מיושרת עם מחקר אריכות החיים בן זמננו ברישום שהטענות הביולוגיות הספציפיות של המסגרת בתחום הטכנולוגיה הניתנת להשגה ביולוגית; נבדלת מבנית מהמחקר המקראי ההיסטורי-ביקורתי המיינסטרימי ברמת האונטולוגיה הבסיסית; ומפתחת את הקריאה הספציפית הפנים-קורפוסית (חמשת שלבי הפעולה, טכנולוגיית הנצחיים, ההקבלות של מסלול המחקר בן זמננו) כתרומה המובחנת של המסגרת לנוף הפרשני-מחדש הרחב יותר.
 
-## Comparative observations
+## תצפיות השוואתיות
 
-Sacred-tree imagery appears across an extraordinarily wide range of cultural-religious traditions worldwide. The corpus reads this cross-cultural pattern as evidence of broader operational realities preserved in fragmentary form across the various traditions. The principal cross-cultural cases warrant treatment.
+דימויי עץ קדוש מופיעים לאורך טווח רחב במיוחד של מסורות תרבותיות-דתיות ברחבי העולם. הקורפוס קורא דפוס חוצה-תרבויות זה כראיה למציאויות פעולתיות רחבות יותר הנשמרות בצורה מקוטעת לאורך המסורות השונות.{{ footnote(id="6") }} המקרים החוצי-תרבויות העיקריים מצדיקים טיפול.
 
-### Norse Yggdrasil
+### יגדרסיל הנורדי
 
-The Norse tradition preserves the **Yggdrasil** ("Odin's horse" or "tree of terror") as the cosmic ash tree at the center of the cosmos. The principal features:
+המסורת הנורדית משמרת את **יגדרסיל** (»סוסו של אודין« או »עץ האימה«) כעץ המילה הקוסמי במרכז הקוסמוס. התכונות העיקריות:
 
-- Yggdrasil connects the **nine worlds** of Norse cosmology — Asgard (the home of the Aesir), Vanaheim (the home of the Vanir), Alfheim (the home of the light elves), Midgard (the human world), Jotunheim (the world of giants), Svartalfheim (the world of dark elves/dwarfs), Niflheim (the world of mist), Muspelheim (the world of fire), and Helheim (the underworld)
-- The tree has **three roots** extending to three wells: Urðarbrunnr (the well of fate, where the Norns dwell), Mímisbrunnr (the well of wisdom, attended by Mímir), and Hvergelmir (the source of all rivers in Niflheim)
-- The tree is sustained by the **Norns** (Urðr, Verðandi, Skuld) who water it from Urðarbrunnr
-- Various creatures inhabit the tree: **Ratatoskr** (the squirrel running messages between top and bottom), the **eagle** at the top, **Níðhöggr** (the dragon at the roots), various **deer** browsing on the branches
-- The tree will be the **center of Ragnarök** — the cosmic final battle in which the world is destroyed and renewed
+- יגדרסיל מחבר את **תשעת העולמות** של הקוסמולוגיה הנורדית — אסגארד (בית האזיר), ואנהיים (בית הואניר), אלפהיים (בית בני האלף האור), מידגארד (העולם האנושי), יוטונהיים (עולם הענקים), סבארטאלפהיים (עולם בני האלף האפלים/הגמדים), ניפלהיים (עולם הערפל), מוספלהיים (עולם האש), והלהיים (העולם התחתון)
+- לעץ **שלושה שורשים** המשתרעים לשלושה מעיינות: אורדארברונר (מעיין הגורל, שבו שוכנות הנורנות), מימיסברונר (מעיין החוכמה, שעליו ממונה מימיר), והברגלמיר (מקור כל הנהרות בניפלהיים)
+- העץ נשמר על ידי ה**נורנות** (אורד, ורדנדי, סקולד) המשקות אותו מאורדארברונר
+- יצורים שונים מאכלסים את העץ: **רטטוסקר** (הסנאי המעביר הודעות בין הראש לבסיס), ה**נשר** בראש, **נידהוגר** (הדרקון בשורשים), **צבאים** שונים המכרסמים בענפים
+- העץ יהיה **מרכז הראגנארוק** — הקרב הקוסמי הסופי שבו העולם נחרב ומתחדש
 
-The principal sources are the *Poetic Edda* (especially *Völuspá* and *Grímnismál*) and Snorri Sturluson's *Prose Edda* (especially *Gylfaginning*). The framework reads the Yggdrasil tradition as preserving fragmentary memory of the cosmic-political structure within which the Tree of Life operates, with the Norse cultural-religious framing being the tradition's distinctive elaboration of the underlying material.
+המקורות העיקריים הם ה*Poetic Edda* (במיוחד *Völuspá* ו-*Grímnismál*){{ cite(id="poetic-edda", text="[21]", title="*ה-Poetic Edda* (תרגום לארינגטון, 2014) — חומר יגדרסיל") }} וה*Prose Edda* של סנורי סטורלוסון (במיוחד *Gylfaginning*).{{ cite(id="prose-edda", text="[22]", title="סטורלוסון, *ה-Prose Edda* (תרגום ביוק) — Gylfaginning על יגדרסיל") }} המסגרת קוראת את מסורת יגדרסיל כמשמרת זיכרון מקוטע של המבנה הקוסמי-הפוליטי שבתוכו פועל עץ החיים, כאשר המסגור התרבותי-הדתי הנורדי הוא העיבוד המובחן של המסורת לחומר הבסיסי.
 
-### Egyptian Tree of Life
+### עץ החיים המצרי
 
-The Egyptian tradition preserves substantial sacred-tree material across its long pharaonic history. The principal features:
+המסורת המצרית משמרת חומר עץ קדוש מהותי לאורך ההיסטוריה הפרעונית הארוכה שלה. התכונות העיקריות:
 
-**The sycamore (*nehet*)** is the principal Egyptian Tree of Life, associated with multiple goddesses including:
+**השקמה (*nehet*)** היא עץ החיים המצרי העיקרי, הקשור בכמה אלות לרבות:
 
-- **Hathor** as the Lady of the Sycamore, providing the deceased with food and water from the sycamore in funerary contexts
-- **Isis** as goddess of the sycamore, with various funerary-mythological associations
-- **Nut** as the sky-goddess associated with the sycamore in some traditions
+- **האתחור** כגבירת השקמה, המספקת למת מזון ומים מהשקמה בהקשרים הלוויתיים
+- **איזיס** כאלת השקמה, עם אסוציאציות לוויתיות-מיתולוגיות שונות
+- **נוט** כאלת השמיים הקשורה בשקמה בכמה מסורות
 
-**The *ished* tree** is the sacred persea tree of Heliopolis, on which the sun-god Re's name was inscribed at the time of each new pharaoh's accession, with Thoth and Seshat recording the pharaoh's name and reign. The *ished* tree is the principal Egyptian Tree of Life associated with kingship and longevity.
+**עץ ה-*ished*** הוא עץ הפרסיאה הקדוש של הליופוליס, שעליו נחרט שם אל-השמש רע בעת עליית כל פרעה חדש, כאשר תחות וסשת רושמים את שם פרעה ומלכותו. עץ ה-*ished* הוא עץ החיים המצרי העיקרי הקשור במלכות ובאריכות חיים.
 
-**The Egyptian *djed* pillar** preserves related sacred-tree imagery, with the *djed* as a stylized tree-trunk associated with Osiris and the broader funerary-resurrection tradition.
+**עמוד ה-*djed* המצרי** משמר דימויי עץ קדוש קשורים, כאשר ה-*djed* הוא גזע-עץ מסוגנן הקשור באוסיריס ובמסורת הלוויתית-התחייתית הרחבה יותר.
 
-The framework reads the Egyptian sacred-tree material as preserving fragmentary memory of the African creator team's specific transmissions, with the various Egyptian sacred-tree associations (the sycamore-Hathor connection, the *ished* tree's pharaonic associations, the *djed* pillar's resurrection associations) reflecting the Egyptian tradition's distinctive cultural elaboration.
+המסגרת קוראת את חומר העץ הקדוש המצרי כמשמר זיכרון מקוטע של ההעברות הספציפיות של צוות הבריאה האפריקני, כאשר האסוציאציות השונות של העץ הקדוש המצרי (קשר השקמה-האתחור, האסוציאציות הפרעוניות של עץ ה-*ished*, האסוציאציות התחייתיות של עמוד ה-*djed*) משקפות את העיבוד התרבותי המובחן של המסורת המצרית.
 
-### Mesopotamian sacred trees
+### העצים הקדושים המסופוטמיים
 
-The Mesopotamian tradition preserves substantial sacred-tree material across the Sumerian, Akkadian, and Assyrian periods. The principal cases:
+המסורת המסופוטמית משמרת חומר עץ קדוש מהותי לאורך התקופות השומרית, האכדית והאשורית. המקרים העיקריים:
 
-**The Akkadian *kishkanu* tree** at Eridu is described in cuneiform texts as the cosmic tree at the center of the world, associated with the god Enki/Ea and providing access to underworld waters.
+**עץ ה-*kishkanu* האכדי** באֵרידו מתואר בטקסטים בכתב יתדות כעץ הקוסמי במרכז העולם, הקשור באל אנקי/אאה ומספק גישה למימי העולם התחתון.{{ cite(id="black-green-mesopotamia", text="[23]", title="בלאק וגרין, *אלים, שדים וסמלים של מסופוטמיה הקדומה* (1992)") }}
 
-**The Sumerian *huluppu* tree** of *Inanna and the Huluppu Tree* (c. early 2nd millennium BCE) is the sacred tree planted by Inanna, eventually inhabited by the *anzu* bird, the *kiskil-lila* (a female demon, often identified with later Lilith), and the serpent that knows no charm.
+**עץ ה-*huluppu* השומרי** של *איננה ועץ ההולופו* (בסביבות תחילת האלף השני לפנה״ס) הוא העץ הקדוש שניטע על ידי איננה, שאוכלס בסופו של דבר על ידי ציפור ה-*anzu*, ה-*kiskil-lila* (שדה, המזוהה לעתים קרובות עם לילית המאוחרת), והנחש שאינו יודע לחש.
 
-**The Neo-Assyrian sacred tree** is preserved in elaborate iconographic form across the Assyrian palace reliefs of the 9th–7th centuries BCE. The stylized tree is typically depicted with attending winged figures (sometimes anthropomorphic, sometimes eagle-headed), with the winged figures performing what appear to be ritual actions toward the tree. The interpretive history of the Assyrian sacred tree iconography has been substantially debated, with **Simo Parpola**'s "The Assyrian Tree of Life" (1993) proposing that the iconographic tradition preserves a structured cosmological-philosophical system with substantial parallels to the later Kabbalistic Sephirot structure.
+**העץ הקדוש הניאו-אשורי** נשמר בצורה איקונוגרפית מורכבת לאורך תבליטי הארמון האשוריים של המאות התשיעית–השביעית לפנה״ס. העץ המסוגנן מתואר בדרך כלל עם דמויות מכונפות נוכחות (לעתים אנתרופומורפיות, לעתים בעלות ראש נשר), כאשר הדמויות המכונפות מבצעות מה שנראה כפעולות פולחניות כלפי העץ. ההיסטוריה הפרשנית של האיקונוגרפיה של העץ הקדוש האשורי הייתה שנויה במחלוקת מהותית, כאשר »עץ החיים האשורי« (1993) של **סימו פרפולה** מציע שהמסורת האיקונוגרפית משמרת מערכת קוסמולוגית-פילוסופית מובנית עם הקבלות מהותיות למבנה הספירות הקבלי המאוחר יותר.
 
-The framework reads the Mesopotamian sacred-tree material as preserving the most directly relevant cross-cultural parallels to the Hebrew tradition's Tree of Life material, given the geographical and chronological proximity.
+המסגרת קוראת את חומר העץ הקדוש המסופוטמי כמשמר את ההקבלות החוצות-תרבויות הרלוונטיות ביותר ישירות לחומר עץ החיים של המסורת העברית, בהינתן הקרבה הגיאוגרפית והכרונולוגית.
 
-### Mesoamerican world tree
+### עץ-העולם המסואמריקני
 
-The Mesoamerican tradition preserves substantial world-tree material across the Maya, Aztec, and broader Mesoamerican religious frameworks. The principal features:
+המסורת המסואמריקנית משמרת חומר עץ-עולם מהותי לאורך המסגרות הדתיות של המאיה, האצטקים והמסואמריקה הרחבה יותר. התכונות העיקריות:
 
-**The ceiba tree** is the principal sacred tree across Mesoamerican cultures, with the Maya specifically treating the *yaxche* (the giant ceiba) as the cosmic tree connecting the underworld, earth, and heaven.
+**עץ הסייבה** הוא העץ הקדוש העיקרי לאורך התרבויות המסואמריקניות, כאשר המאיה מטפלים ספציפית ב-*yaxche* (הסייבה הענקית) כעץ הקוסמי המחבר את העולם התחתון, הארץ והשמיים.
 
-**The Maya world tree** (*Wakah-Chan*) appears in elaborate iconographic form across Maya monumental art, with the tree depicted as connecting the cosmic levels and supporting various cosmic-political functions.
+**עץ-העולם של המאיה** (*Wakah-Chan*) מופיע בצורה איקונוגרפית מורכבת לאורך האמנות המונומנטלית של המאיה, כאשר העץ מתואר כמחבר את הרמות הקוסמיות ותומך בתפקודים קוסמיים-פוליטיים שונים.{{ cite(id="schele-freidel-forest-of-kings", text="[28]", title="שלה ופריידל, *יער של מלכים* (1990) — עץ-העולם Wakah-Chan") }}{{ cite(id="tedlock-popol-vuh", text="[29]", title="טדלוק (תרגום), *Popol Vuh* (1996)") }}
 
-**The Aztec world tree** preserves parallel imagery within the distinctive Aztec cosmological framework, with the world tree associated with the various directional deities and the cosmic-cyclical framework.
+**עץ-העולם האצטקי** משמר דימויים מקבילים בתוך המסגרת הקוסמולוגית המובחנת של האצטקים, כאשר עץ-העולם קשור באלי הכיוונים השונים ובמסגרת הקוסמית-המחזורית.
 
-The framework reads the Mesoamerican world-tree material as preserving fragmentary memory of the same underlying reality within the distinctive Mesoamerican cultural-religious framing.
+המסגרת קוראת את חומר עץ-העולם המסואמריקני כמשמר זיכרון מקוטע של אותה מציאות בסיסית בתוך המסגור התרבותי-הדתי המסואמריקני המובחן.
 
-### Hindu Ashvattha and Kalpavriksha
+### אשוואטהה וקלפהוורקשה ההינדיים
 
-The Hindu tradition preserves substantial sacred-tree material in two principal forms.
+המסורת ההינדית משמרת חומר עץ קדוש מהותי בשתי צורות עיקריות.
 
-**The Ashvattha (sacred fig / Pippala)** is the cosmic tree of the *Bhagavad Gita* (15.1–3), described as the eternal *aśvattha* with roots in heaven and branches extending downward into the earth. The Vedic-Upanishadic tradition develops the *Ashvattha* extensively, with the *Katha Upanishad* (6.1) and other principal Upanishadic texts treating the cosmic tree with substantial philosophical-metaphysical elaboration.
+**האשוואטהה (תאנה קדושה / פיפלה)** הוא העץ הקוסמי של ה-*Bhagavad Gita* (15.1–3), המתואר כ-*aśvattha* הנצחי עם שורשים בשמיים וענפים המשתרעים כלפי מטה אל הארץ.{{ cite(id="bhagavad-gita", text="[24]", title="*ה-Bhagavad Gita* (תרגום איסוורן) — האשוואטהה הקוסמי, פרק 15") }} המסורת הוודית-האופנישדית מפתחת את ה-*Ashvattha* בהרחבה, כאשר ה-*Katha Upanishad* (6.1) וטקסטים אופנישדיים עיקריים אחרים מטפלים בעץ הקוסמי עם עיבוד פילוסופי-מטאפיזי מהותי.{{ cite(id="doniger-hindu-myths", text="[25]", title="דוניגר, *מיתוסים הינדיים: ספר מקורות* (1975)") }}
 
-**The Kalpavriksha** (कल्पवृक्ष, "wish-fulfilling tree") is the divine tree of paradise in Hindu and Buddhist tradition, providing all desires to those who approach it. The *Kalpavriksha* tradition appears across Vedic, Puranic, and broader Hindu literature, with substantial elaboration in connection with the cosmic-cyclical framework and the various paradisal traditions.
+**הקלפהוורקשה** (कल्पवृक्ष, »עץ ממלא-המשאלות«) הוא העץ האלוהי של גן העדן במסורת ההינדית והבודהיסטית, המספק את כל המשאלות לאלה הניגשים אליו. מסורת ה-*Kalpavriksha* מופיעה לאורך הספרות הוודית, הפורנית וההינדית הרחבה יותר, עם עיבוד מהותי בקשר למסגרת הקוסמית-המחזורית ולמסורות גן-העדן השונות.
 
-The framework reads the Hindu sacred-tree material as preserving fragmentary memory of the same underlying biotechnological reality within the distinctive Hindu cultural-religious framing, with the *Ashvattha*'s specific philosophical-metaphysical elaboration and the *Kalpavriksha*'s paradisal associations reflecting the tradition's distinctive content.
+המסגרת קוראת את חומר העץ הקדוש ההינדי כמשמר זיכרון מקוטע של אותה מציאות ביוטכנולוגית בסיסית בתוך המסגור התרבותי-הדתי ההינדי המובחן, כאשר העיבוד הפילוסופי-המטאפיזי הספציפי של ה-*Ashvattha* והאסוציאציות של גן-העדן של ה-*Kalpavriksha* משקפים את התוכן המובחן של המסורת.
 
-### Chinese Fusang and Jianmu
+### פוסאנג וג'יאנמו הסיניים
 
-The Chinese tradition preserves substantial sacred-tree material in multiple traditions.
+המסורת הסינית משמרת חומר עץ קדוש מהותי במספר מסורות.
 
-**The Fusang** (扶桑) is the eastern sun-tree in Chinese cosmology, described in the *Shan Hai Jing* (Classic of Mountains and Seas) and other classical sources. The tree was the dwelling place of the ten suns of antiquity, with each sun rising from the Fusang in turn.
+**הפוסאנג** (扶桑) הוא עץ-השמש המזרחי בקוסמולוגיה הסינית, המתואר ב-*Shan Hai Jing* (קלאסיקת ההרים והימים) ובמקורות קלאסיים אחרים.{{ cite(id="shan-hai-jing", text="[26]", title="*Shan Hai Jing (קלאסיקת ההרים והימים)* (תרגום בירל) — עץ-השמש Fusang") }}{{ cite(id="birrell-chinese-mythology", text="[27]", title="בירל, *מיתולוגיה סינית: מבוא* (1993)") }} העץ היה מקום מושבן של עשר השמשות הקדומות, כאשר כל שמש עולה מהפוסאנג בתורה.
 
-**The Jianmu** (建木) is the central world-tree of Chinese cosmology, described as the cosmic axis connecting heaven and earth at the center of the world. The Jianmu provides the principal Chinese cosmological framework within which the various other sacred-tree traditions operate.
+**הג'יאנמו** (建木) הוא עץ-העולם המרכזי של הקוסמולוגיה הסינית, המתואר כציר הקוסמי המחבר את השמיים ואת הארץ במרכז העולם. הג'יאנמו מספק את המסגרת הקוסמולוגית הסינית העיקרית שבתוכה פועלות מסורות העץ הקדוש האחרות השונות.
 
-**The Buddhist Bodhi tree** (the specific Pippala under which the Buddha achieved enlightenment) entered Chinese Buddhist tradition with substantial elaboration, with various sacred-tree associations developed across Chinese Buddhist practice.
+**עץ הבודהי הבודהיסטי** (הפיפלה הספציפית שתחתיה השיג הבודהה הארה) נכנס למסורת הבודהיסטית הסינית עם עיבוד מהותי, כאשר אסוציאציות עץ קדוש שונות פותחו לאורך הפרקטיקה הבודהיסטית הסינית.
 
-The framework reads the Chinese sacred-tree material as preserving fragmentary memory of the same underlying reality within the distinctive Chinese cultural-religious framing.
+המסגרת קוראת את חומר העץ הקדוש הסיני כמשמר זיכרון מקוטע של אותה מציאות בסיסית בתוך המסגור התרבותי-הדתי הסיני המובחן.
 
-### The Buddhist Bodhi tree
+### עץ הבודהי הבודהיסטי
 
-The Buddhist tradition preserves the **Bodhi tree** (the *Pippala* or sacred fig under which Siddhartha Gautama achieved enlightenment c. 528 BCE) as the principal sacred tree of Buddhism. The original Bodhi tree at Bodh Gaya, Bihar, India is the most sacred site in Buddhism, with descendants of the original tree (notably the Anuradhapura Bodhi tree in Sri Lanka, planted from a cutting in the 3rd century BCE) preserved across Buddhist centers worldwide.
+המסורת הבודהיסטית משמרת את **עץ הבודהי** (הפיפלה או התאנה הקדושה שתחתיה השיג סידהארתה גאוטמה הארה בסביבות 528 לפנה״ס) כעץ הקדוש העיקרי של הבודהיזם. עץ הבודהי המקורי בבודה גאיא, ביהאר, הודו הוא האתר הקדוש ביותר בבודהיזם, כאשר צאצאים של העץ המקורי (בייחוד עץ הבודהי של אנורדהפורה בסרי לנקה, שניטע מייחור במאה השלישית לפנה״ס) נשמרים לאורך מרכזים בודהיסטיים ברחבי העולם.
 
-The Buddhist Bodhi tree is structurally distinct from the broader sacred-tree traditions in being a specific historical tree with specific religious-historical associations rather than a cosmological-mythological figure. The Bodhi tree's significance is the specific Buddha-enlightenment event that occurred beneath it; the tree itself does not embody cosmic-mythological functions in the way Yggdrasil or the Mesoamerican world tree does.
+עץ הבודהי הבודהיסטי מובחן מבנית ממסורות העץ הקדוש הרחבות יותר בהיותו עץ היסטורי ספציפי עם אסוציאציות דתיות-היסטוריות ספציפיות ולא דמות קוסמולוגית-מיתולוגית. משמעותו של עץ הבודהי היא אירוע ההארה-של-הבודהה הספציפי שהתרחש תחתיו; העץ עצמו אינו מגלם תפקודים קוסמיים-מיתולוגיים באופן שיגדרסיל או עץ-העולם המסואמריקני עושים.
 
-The framework registers the Buddhist Bodhi tree as parallel to but distinct from the broader sacred-tree material — preserving the specific Buddhist-tradition development rather than the broader cosmological-mythological pattern.
+המסגרת רושמת את עץ הבודהי הבודהיסטי כמקביל לחומר העץ הקדוש הרחב יותר אך נבדל ממנו — משמר את ההתפתחות הבודהיסטית-המסורתית הספציפית ולא את הדפוס הקוסמולוגי-המיתולוגי הרחב יותר.
 
-### Polynesian sacred trees
+### העצים הקדושים הפולינזיים
 
-Various Polynesian traditions preserve sacred-tree material with distinctive cultural elaborations. The principal cases include:
+מסורות פולינזיות שונות משמרות חומר עץ קדוש עם עיבודים תרבותיים מובחנים. המקרים העיקריים כוללים:
 
-**The Hawaiian *ulu* (breadfruit)** as the sacred tree associated with the god Ku, with substantial mythological-cultural elaboration of the breadfruit's role in Hawaiian sacred history.
+**ה-*ulu* (עץ הלחם) ההוואי** כעץ הקדוש הקשור באל קו, עם עיבוד מיתולוגי-תרבותי מהותי של תפקיד עץ הלחם בהיסטוריה הקדושה ההוואית.
 
-**The Maori *Tāne mahuta*** as the god of forests and the principal sacred tree of Maori tradition, with the cosmic separation of Rangi (sky father) and Papa (earth mother) creating the world that the trees of Tāne fill.
+**ה-*Tāne mahuta* המאורי** כאל היערות והעץ הקדוש העיקרי של המסורת המאורית, כאשר ההפרדה הקוסמית בין רנגי (אב השמיים) ופאפה (אם האדמה) יוצרת את העולם שאותו ממלאים עצי טאנה.
 
-**Various Pacific Island sacred-tree traditions** preserve regional variations on the broader sacred-tree pattern.
+**מסורות עץ קדוש שונות של איי האוקיינוס השקט** משמרות וריאציות אזוריות על הדפוס הרחב יותר של העץ הקדוש.
 
-The framework reads the Polynesian sacred-tree material as preserving fragmentary memory of the same underlying reality within the distinctive Polynesian cultural-religious framing.
+המסגרת קוראת את חומר העץ הקדוש הפולינזי כמשמר זיכרון מקוטע של אותה מציאות בסיסית בתוך המסגור התרבותי-הדתי הפולינזי המובחן.
 
-### The convergence
+### ההתכנסות
 
-The corpus's working position on the comparative-sacred-tree question is that the global recurrence of sacred-tree imagery across cultural-religious traditions is meaningful as evidence of a genuine underlying reality. The mainstream scholarly explanation (independent religious-conceptual development across cultures combined with diffusion patterns) is read by the corpus as substantially insufficient to account for the breadth and the specific structural parallels (the cosmic-axis function, the longevity-extending associations, the divine-attendant figures, the connection between trees and immortality) that appear consistently across geographically and chronologically separated traditions.
+עמדת העבודה של הקורפוס בשאלת העץ-הקדוש ההשוואתית היא שההישנות הגלובלית של דימויי עץ קדוש לאורך מסורות תרבותיות-דתיות משמעותית כראיה למציאות בסיסית אמיתית. ההסבר המחקרי המיינסטרימי (התפתחות דתית-קונספטואלית עצמאית לאורך תרבויות בשילוב עם דפוסי דיפוזיה) נקרא על ידי הקורפוס כבלתי-מספיק מהותית להסביר את הרוחב ואת ההקבלות המבניות הספציפיות (תפקוד ציר-הקוסמוס, האסוציאציות מאריכות-החיים, דמויות הפמליה האלוהית, הקשר בין עצים לאלמוות) המופיעות בעקביות לאורך מסורות מופרדות גיאוגרפית וכרונולוגית.
 
-The framework's specific reading is that the global sacred-tree pattern preserves common memory of the actual Tree of Life biotechnology, with each cultural-religious tradition preserving the memory in its own terms and with its own specific details reflecting its own perspective and its own subsequent transmission history. The Hebrew tradition preserves the memory most directly through the specific Eden-lineage Alliance partnership; the Mesopotamian and Egyptian traditions preserve substantial parallels through their geographical proximity; the Hindu, Chinese, Mesoamerican, Norse, and other traditions preserve the memory through their respective cultural channels.
+קריאת המסגרת הספציפית היא שהדפוס הגלובלי של העץ הקדוש משמר זיכרון משותף של ביוטכנולוגיית עץ החיים הממשית, כאשר כל מסורת תרבותית-דתית משמרת את הזיכרון במונחיה ועם פרטיה הספציפיים המשקפים את נקודת מבטה ואת היסטוריית המסירה שלה. המסורת העברית משמרת את הזיכרון בצורה הישירה ביותר באמצעות שותפות הברית הספציפית של שושלת עדן; המסורות המסופוטמית והמצרית משמרות הקבלות מהותיות באמצעות קרבתן הגיאוגרפית; המסורות ההינדית, הסינית, המסואמריקנית, הנורדית ואחרות משמרות את הזיכרון באמצעות ערוציהן התרבותיים בהתאמה.
 
-The corpus does not require rejecting all of the mainstream scholarly framework. Cultural diffusion certainly occurred across the historical period, and the sacred-tree traditions across cultures show both common structural features (preserving the original biotechnology) and culturally specific elaborations (reflecting the diffusion and local development). What the corpus's framework adds is the underlying historical biotechnology that gave rise to the structural commonalities — a reality that the mainstream framework, lacking the corpus's broader cosmological framework, has had no way to identify and has therefore had to attribute to combinations of independent religious development and cultural diffusion.
-
-## See also
-
-- [Tree of Knowledge](../tree-of-knowledge/)
-- [Eden](../eden/)
-- [Adam and Eve](../adam-and-eve/)
-- [Genesis](../genesis/)
-- [Antediluvian](../antediluvian/)
-- [Council of the Eternals](../council-of-eternals/)
-- [Yahweh](../yahweh/)
-- [Elohim](../elohim/)
-- [The Alliance](../the-alliance/)
-- [Lucifer](../lucifer/)
-- [Serpent](../serpent/)
-- [Great Flood](../great-flood/)
-- [Noah](../noah/)
-- [Methuselah](../methuselah/)
-- [Enoch](../enoch/)
-- [Apocalypse](../apocalypse/)
-- [Embassy](../embassy/)
-- [Hebrew Bible](../hebrew-bible/)
-- [Age of Leo](../timeline/age-of-leo/)
-- [Age of Cancer](../timeline/age-of-cancer/)
-- [Jean Sendy](../jean-sendy/)
-- [Mauro Biglino](../mauro-biglino/)
-- [Paul Anthony Wallis](../paul-anthony-wallis/)
-
-## References
-
-Vorilhon, Claude (Raël). *The Book Which Tells the Truth* (1974), chapter 2; collected in *Message from the Designers*.
-
-Vorilhon, Claude (Raël). *Extra-Terrestrials Took Me to Their Planet* (1975); collected in *Message from the Designers*.
-
-Sendy, Jean. *Ces dieux qui firent le ciel et la terre*. Robert Laffont, 1969. English: *Those Gods Who Made Heaven and Earth*. Berkley, 1972.
-
-Biglino, Mauro, and Giorgio Cattaneo. *The Naked Bible: The Truth About the Most Famous Book in History*. Uno, 2022.
-
-Wallis, Paul Anthony. *The Eden Conspiracy*. 6th Books, 2024.
-
-*Biblia Hebraica Stuttgartensia*. Deutsche Bibelgesellschaft, 4th rev. ed., 1997.
-
-Sarna, Nahum. *Genesis: The JPS Torah Commentary*. Jewish Publication Society, 1989.
-
-Westermann, Claus. *Genesis 1–11: A Continental Commentary*. Fortress, 1994.
-
-Stordalen, Terje. *Echoes of Eden: Genesis 2–3 and Symbolism of the Eden Garden in Biblical Hebrew Literature*. Peeters, 2000.
-
-Wallace, Howard N. *The Eden Narrative*. Harvard Semitic Monographs 32. Scholars Press, 1985.
-
-Giovino, Mariana. *The Assyrian Sacred Tree: A History of Interpretations*. Orbis Biblicus et Orientalis 230. Vandenhoeck & Ruprecht, 2007.
-
-Parpola, Simo. "The Assyrian Tree of Life: Tracing the Origins of Jewish Monotheism and Greek Philosophy." *Journal of Near Eastern Studies* 52, no. 3 (1993): 161–208.
-
-Bonaventure. *The Tree of Life (Lignum Vitae)*. In *The Works of Bonaventure*, trans. José de Vinck. St. Anthony Guild Press, 1960.
-
-*Sefer Yetzirah*. Trans. Aryeh Kaplan. Weiser, 1997.
-
-*Zohar*. Pritzker Edition, trans. Daniel Matt et al. Stanford University Press, 2003–2017.
-
-Scholem, Gershom. *Major Trends in Jewish Mysticism*. Schocken, 1941.
-
-Idel, Moshe. *Kabbalah: New Perspectives*. Yale University Press, 1988.
-
-Matt, Daniel. *The Essential Kabbalah: The Heart of Jewish Mysticism*. HarperOne, 1996.
-
-Sinclair, David A., and Matthew D. LaPlante. *Lifespan: Why We Age — and Why We Don't Have To*. Atria Books, 2019.
-
-Yamanaka, Shinya, and Helen M. Blau. "Nuclear reprogramming to a pluripotent state by three approaches." *Nature* 465 (2010): 704–712.
-
-Takahashi, Kazutoshi, and Shinya Yamanaka. "Induction of Pluripotent Stem Cells from Mouse Embryonic and Adult Fibroblast Cultures by Defined Factors." *Cell* 126, no. 4 (2006): 663–676.
-
-López-Otín, Carlos, et al. "The Hallmarks of Aging." *Cell* 153, no. 6 (2013): 1194–1217.
-
-de Grey, Aubrey, and Michael Rae. *Ending Aging: The Rejuvenation Breakthroughs That Could Reverse Human Aging in Our Lifetime*. St. Martin's Press, 2007.
-
-Lambert, W. G., and A. R. Millard. *Atra-ḫasīs: The Babylonian Story of the Flood*. Oxford University Press, 1969.
-
-Black, Jeremy, and Anthony Green. *Gods, Demons and Symbols of Ancient Mesopotamia: An Illustrated Dictionary*. British Museum Press, 1992.
-
-*The Poetic Edda*. Trans. Carolyne Larrington. Oxford University Press, rev. ed., 2014.
-
-Sturluson, Snorri. *The Prose Edda*. Trans. Jesse L. Byock. Penguin Classics, 2005.
-
-Lindow, John. *Norse Mythology: A Guide to the Gods, Heroes, Rituals, and Beliefs*. Oxford University Press, 2001.
-
-Doniger, Wendy. *Hindu Myths: A Sourcebook*. Penguin Classics, 1975.
-
-*The Bhagavad Gita*. Trans. Eknath Easwaran. Nilgiri Press, 2007.
-
-Birrell, Anne. *Chinese Mythology: An Introduction*. Johns Hopkins University Press, 1993.
-
-*Shan Hai Jing (Classic of Mountains and Seas)*. Trans. Anne Birrell. Penguin Classics, 1999.
-
-Tedlock, Dennis, trans. *Popol Vuh: The Mayan Book of the Dawn of Life*. Touchstone, 1996.
-
-Schele, Linda, and David Freidel. *A Forest of Kings: The Untold Story of the Ancient Maya*. William Morrow, 1990.
-
-Brown, Francis, S. R. Driver, and Charles A. Briggs. *A Hebrew and English Lexicon of the Old Testament* (BDB). Oxford, 1907.
-
-*The Hebrew and Aramaic Lexicon of the Old Testament* (HALOT), Koehler-Baumgartner. Brill, 2001.
-
-"Tree of life." *Wikipedia*. <https://en.wikipedia.org/wiki/Tree_of_life>
-
-"Tree of life (biblical)." *Wikipedia*. <https://en.wikipedia.org/wiki/Tree_of_life_(biblical)>
-
-"Yggdrasil." *Encyclopaedia Britannica*. <https://www.britannica.com/topic/Yggdrasill>
-
-"Sephirot." *Encyclopaedia Britannica*. <https://www.britannica.com/topic/sefirot>
-
-"Bodhi tree." *Encyclopaedia Britannica*. <https://www.britannica.com/topic/Bo-tree>
+הקורפוס אינו מחייב דחייה של כל המסגרת המחקרית המיינסטרימית. דיפוזיה תרבותית בהחלט התרחשה לאורך התקופה ההיסטורית, ומסורות העץ הקדוש לאורך תרבויות מראות הן תכונות מבניות משותפות (המשמרות את הביוטכנולוגיה המקורית) והן עיבודים ייחודיים-תרבותית (המשקפים את הדיפוזיה וההתפתחות המקומית). מה שמסגרת הקורפוס מוסיפה הוא הביוטכנולוגיה ההיסטורית הבסיסית שהולידה את המשותפויות המבניות — מציאות שהמסגרת המיינסטרימית, בחוסר המסגרת הקוסמולוגית הרחבה יותר של הקורפוס, לא הייתה לה דרך לזהות ולכן נאלצה לייחס לשילובים של התפתחות דתית עצמאית ודיפוזיה תרבותית.

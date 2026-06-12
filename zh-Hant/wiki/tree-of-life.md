@@ -1,711 +1,760 @@
 +++
 title = "生命之樹"
-description = "生命之樹在《創世記》中是其果實賦予無限期長壽的樹。在 Wheel of Heaven 文集中,它被讀作厄羅欣式的生物技術裝置 — 克隆、細胞再生 — 保存於伊甸園中,並在亞當血統外出後被收回。"
+slug = "tree-of-life"
+description = "生命之樹(希伯來語:עֵץ הַחַיִּים,ʿēṣ ha-ḥayyîm)是於《創世記》2:9 中引入的形象,為伊甸園中兩棵指名之樹之一,與分別善惡的知識之樹並立。生命之樹於《創世記》敘事中作為延壽之源出現,於伊甸揭露之後,經由基路伯與火焰之劍而被禁止人類取用。在雷爾派源典所發展、《天輪》文集所採行之閱讀中,生命之樹被讀為一項具體的歷史性生物技術:即耶洛因文明為延長自然壽命所開發之細胞延展技術,於大洪水之前時期以有限方式授予特定伊甸譜系族長領導(產生亞當 930 歲、瑪土撒拉 969 歲、諾亞 950 歲之記載壽命),而於母星上以其成熟形態作為產生永恆者議會實際不朽性的複製—記憶轉移技術而運作。"
 template = "wiki-page.html"
 toc = true
 
 [extra]
-translation_status = "metadata_only"
 category = "Cosmology & Framework"
 editorial_pass = "2026-05"
+claim_type = "framework"
 entry_type = "concept"
-alternative_names = ["the Tree of Life", "ʿēṣ ha-ḥayyîm", "עֵץ הַחַיִּים", "the Tree of Eternal Life", "the Tree of Immortality", "the longevity technology", "the cellular-transfer technology"]
+alternative_names = ["生命之樹", "ʿēṣ ha-ḥayyîm", "עֵץ הַחַיִּים", "永生之樹", "不朽之樹", "長壽技術", "細胞轉移技術"]
 timeline = ["leo", "cancer", "gemini", "taurus", "aries", "pisces", "aquarius"]
+see_also = [
+    { title = "知識之樹", path = "wiki/tree-of-knowledge", description = "並列的伊甸之樹 —— 受限的科學知識檔案,與長壽生物技術有別。" },
+    { title = "大洪水之前", path = "wiki/antediluvian", description = "其族長壽命(亞當 930、瑪土撒拉 969)為框架讀為生命之樹作業紀錄的時期。" },
+    { title = "永恆者議會", path = "wiki/council-of-eternals", description = "由該技術成熟之複製—記憶轉移形態所維繫的永恆者群體。" },
+    { title = "伊甸", path = "wiki/eden", description = "生命之樹作為受限基礎設施所在的設施。" },
+    { title = "路西法", path = "wiki/lucifer", description = "為族長領導階層談成洪水後長壽授予的流亡派系。" },
+    { title = "啟示錄", path = "wiki/apocalypse", description = "長壽技術預計向人類復歸之水瓶座時代脈絡。" },
+]
+
+footnotes = [
+    { content = "文集將《創世記》之生命之樹讀為一項具有多個作業階段之具體細胞延展生物技術,而非植物學上之樹或神學象徵。此為框架之基礎性重構:主流學界觀察到《創世記》材料反映更廣之古代近東聖樹傳統,此一觀察被接受,但其底層本體論則被重構 —— 所有此類材料皆被讀為保存了耶洛因文明所開發並以有限授予方式傳遞之一項真實技術的片斷記憶。源典材料指明其結果(族長壽命、以洛哈 700–1,200 年之長壽、永恆者之複製—記憶轉移),而不細述其機制;文集並不於源典所述之外推斷具體生物學。" },
+    { content = "文集為生命之樹各作業階段所指定之年代 —— 原始伊甸設施約公元前 11,400 年、洪水後族長授予約公元前 11,000–6,690 年、洪水後之約公元前 6,690 年起的限制 —— 屬框架內部,源自歲差時代年表。歲差時代為真實之天文現象;具體之分界年份則為框架慣例。年表之推導詳見「大洪水之前」條目。" },
+    { content = "《創世記》第 5 章之族長壽命(亞當 930、塞特 912、瑪土撒拉 969、諾亞 950)在文集之記述中按字面解讀,視為流亡之路西法派系與議會談成之有限、非遺傳性長壽授予的後果。源典材料明言該授予並未傳予族長之子女 ——「生命之祕失傳了」—— 框架將此讀為《創世記》第 11 章洪水後家譜中壽命急遽縮短之作業性原因。主流將壽命讀為命理學或象徵性之解讀被列出而不被採納。" },
+    { content = "雷爾派源典對卡巴拉之引人注目的肯定 —— 稱其為任何宗教傳統中「最接近真理之書」—— 構成了文集對卡巴拉生命之樹之批判—尊重關係的框架。文集尊重卡巴拉對結構化之相關存在/原則之複數性的認知(對抗單純之一神論單一性),並尊重盧里亞派宇宙災難與修復(*tikkun*)之詞彙作為保存真實宇宙—政治衝突之片斷記憶 —— 同時並不採納質點(Sefirot)流溢論機構作為框架生命之樹之作業形態。卡巴拉之樹為一宇宙論圖示;框架之生命之樹則為一項生物技術。二者共用 *ʿēṣ ḥayyim* 之術語,且指涉實質性實在,然其內容有別。" },
+    { content = "文集將當代長壽研究之軌跡(山中因子與部分細胞重編程、衰老標誌框架、端粒與抗衰老細胞研究、複製與 CRISPR)讀為朝與框架生命之樹主張相符之方向發展 —— 而不主張其證實了框架。當前研究尚未產生實際不朽性,而細胞轉移加記憶轉移之技術仍超出當代能力。該軌跡所展示者為:激進之壽命延展在生物學上並非不可能:一個具有數千年持續研究之文明,可合理地已開發出框架歸於耶洛因之技術。" },
+    { content = "文集將聖樹意象之全球性反覆出現(尤克特拉希爾、埃及之西克莫無花果與 *ished* 樹、美索不達米亞之 *kishkanu* 與 *huluppu*、印度教之 *Ashvattha* 與 *Kalpavriksha*、中國之扶桑與建木、中美洲之 *Wakah-Chan*)讀為以片斷形式保存之真實底層實在的證據。文集並不否認文化擴散作為部分解釋 —— 擴散確曾發生 —— 但將其廣度與具體結構平行(宇宙軸功能、長壽關聯、神性侍從形象)讀為超出獨立宗教發展與擴散所能解釋者。文集並不主張每一聖樹形象皆為對該生物技術之直接記憶;許多乃獨立發展之文化建構。" },
+]
+
+[[extra.references]]
+id = "the-book-which-tells-the-truth"
+locator = "第 2 章"
+note = "基礎性雷爾派源典 —— 洪水後族長授予、長壽之非遺傳性,以及以洛哈之「微小外科調整」。"
+
+[[extra.references]]
+id = "extraterrestrials-took-me-to-their-planet"
+note = "沃里勒翁之第二部著作(1975)—— 細胞轉移技術、耶和華橫跨 25 個身體之 25,000 年,以及永恆者群體。"
+
+[[extra.references]]
+id = "those-gods-who-made-heaven-and-earth"
+note = "桑迪將《創世記》生命之樹讀為真實之長壽生物技術、將族長壽命讀為實質準確之閱讀 —— 主要的學術先驅。"
+
+[[extra.references]]
+id = "the-naked-bible"
+note = "比格里諾對 *ʿēṣ ha-ḥayyîm* 之嚴格直譯閱讀,指其指涉具體生物技術而非神學象徵。"
+
+[[extra.references]]
+id = "the-eden-conspiracy"
+note = "華利斯對伊甸設施基礎設施之結構性閱讀,包括生命之樹作為一關鍵組件。"
+
+[[extra.references]]
+id = "sarna-genesis-jps"
+note = "薩爾納之 JPS 註釋 —— 對伊甸敘事希伯來文及族長家譜之標準處理。"
+
+[[extra.references]]
+id = "westermann-genesis-1-11"
+note = "韋斯特曼對《創世記》原史(包括兩棵伊甸之樹)之標準形式批判註釋。"
+
+[[extra.references]]
+id = "stordalen-echoes-of-eden"
+note = "斯托達倫對伊甸園象徵及生命之樹於希伯來聖經中接受史之全面處理。"
+
+[[extra.references]]
+id = "wallace-eden-narrative"
+note = "華勒斯對《創世記》2–3 敘事置於其古代近東聖樹脈絡之研究。"
+
+[[extra.references]]
+id = "giovino-assyrian-sacred-tree"
+note = "喬維諾對新亞述聖樹圖像及其詮釋之全面歷史。"
+
+[[extra.references]]
+id = "parpola-assyrian-tree-of-life"
+note = "帕爾波拉具爭議之提議,即亞述聖樹保存了具質點平行之結構化宇宙論體系。"
+
+[[extra.references]]
+id = "bonaventure-lignum-vitae"
+note = "波拿文都拉以生命之樹母題建構基督教默想之中世紀靈修論著。"
+
+[[extra.references]]
+id = "sefer-yetzirah"
+note = "猶太祕傳宇宙論之基礎文本,確立卡巴拉生命之樹所發展之質點框架。"
+
+[[extra.references]]
+id = "zohar-pritzker"
+note = "主要之古典卡巴拉文本 —— 文集比較性接觸之發展型質點生命之樹。"
+
+[[extra.references]]
+id = "major-trends-jewish-mysticism"
+note = "肖勒姆對卡巴拉之奠基性研究,包括盧里亞派生命之樹及收縮/破裂/修復之宇宙論。"
+
+[[extra.references]]
+id = "idel-kabbalah-new-perspectives"
+note = "伊德爾於肖勒姆之後對卡巴拉之現代學術再評估。"
+
+[[extra.references]]
+id = "matt-essential-kabbalah"
+note = "馬特對卡巴拉文本之通俗選集,包括生命之樹質點圖示。"
+
+[[extra.references]]
+id = "city-of-god"
+note = "奧古斯丁將伊甸生命之樹禁令置於原罪與人類必死性框架內之構築。"
+
+[[extra.references]]
+id = "sinclair-lifespan"
+note = "辛克萊與拉普蘭特對當代細胞重編程長壽軌跡之綜論。"
+
+[[extra.references]]
+id = "takahashi-yamanaka-2006"
+note = "誘導性多能幹細胞之劃時代論文,為當代細胞重編程研究之基礎。"
+
+[[extra.references]]
+id = "hallmarks-of-aging"
+note = "洛佩斯-奧廷等人對衰老之分子與細胞促因之奠基性綜論。"
+
+[[extra.references]]
+id = "ending-aging-de-grey"
+note = "德格雷與雷對全面回春之 SENS 工程框架。"
+
+[[extra.references]]
+id = "atra-hasis-lambert-millard"
+note = "蘭伯特與米拉爾對美索不達米亞洪水—創造傳統及相關聖樹材料之版本。"
+
+[[extra.references]]
+id = "black-green-mesopotamia"
+note = "布萊克與格林關於美索不達米亞圖像之參考著作,包括 *kishkanu* 及聖樹形象。"
+
+[[extra.references]]
+id = "poetic-edda"
+note = "描述尤克特拉希爾 —— 文集比較性閱讀之宇宙樹 —— 之古諾斯語詩篇。"
+
+[[extra.references]]
+id = "prose-edda"
+note = "斯諾里·斯圖魯松對北歐神話(包括尤克特拉希爾材料)之系統性記述。"
+
+[[extra.references]]
+id = "lindow-norse-mythology"
+note = "林多對尤克特拉希爾宇宙樹傳統之參考著作。"
+
+[[extra.references]]
+id = "bhagavad-gita"
+note = "印度教宇宙 Ashvattha 樹(第 15 章),比較性對照生命之樹閱讀。"
+
+[[extra.references]]
+id = "doniger-hindu-myths"
+note = "多尼格之選集,包括印度教聖樹材料。"
+
+[[extra.references]]
+id = "shan-hai-jing"
+note = "描述扶桑日樹及相關聖樹材料之古代中國地理志。"
+
+[[extra.references]]
+id = "birrell-chinese-mythology"
+note = "畢瑞爾之研究,包括扶桑與建木世界樹傳統。"
+
+[[extra.references]]
+id = "schele-freidel-forest-of-kings"
+note = "謝勒與弗萊德爾對馬雅宇宙論(包括 Wakah-Chan 世界樹)之研究。"
+
+[[extra.references]]
+id = "tedlock-popol-vuh"
+note = "馬雅《波波爾·烏》及其世界樹與木棉宇宙論。"
+
+[[extra.references]]
+id = "book-of-enoch"
+note = "《以諾一書》之聖樹材料,包括對生命之樹之提及。"
 
 [extra.infobox]
 hebrew_name = "עֵץ הַחַיִּים (ʿēṣ ha-ḥayyîm)"
-greek_name = "τὸ ξύλον τῆς ζωῆς (to xylon tēs zōēs, in the Septuagint and New Testament)"
+greek_name = "τὸ ξύλον τῆς ζωῆς (to xylon tēs zōēs,於《七十士譯本》與《新約》)"
 latin_name = "lignum vitae"
-arabic_name = "شجرة الخلد (shajarat al-khuld, 'tree of immortality', in the Qur'anic tradition)"
-type = "Biotechnology for cellular extension and life-span prolongation; in mature form, cloning-and-memory-transfer technology producing practical immortality"
-biblical_appearance = "Genesis 2:9 (the Tree of Life in the garden); Genesis 3:22–24 (the access prohibition after the disclosure); Proverbs 3:18, 11:30, 13:12, 15:4 (figurative wisdom-tradition uses); Ezekiel 47:12 (the trees by the river of life); Revelation 2:7, 22:2, 22:14, 22:19 (the Tree of Life in the New Jerusalem)"
-operational_phases = "1) Original Eden installation feature (restricted to alliance personnel); 2) Post-Eden patriarchal grant phase (limited longevity for specific leaders, c. 11,000–6,690 BCE); 3) Post-Flood restricted phase (progressively reduced human access); 4) Basic Eloha longevity phase (700–1,200 years per body, standard for Elohim civilization); 5) Eternal cloning-and-memory-transfer phase (practical immortality, the Council of the Eternals)"
-recipients_in_framework = "Eden-lineage patriarchal leaders (Adam, Seth, Enos, Kenan, Mahalalel, Jared, Enoch, Methuselah, Lamech, Noah, and others); the broader Elohim civilization (~7 billion individuals with natural extended lifespan); the Eternals on the Planet of the Eternals (~700 Council members plus ~8,400 resurrected humans)"
-distinguished_from = "The Tree of Knowledge of Good and Evil (the parallel Eden tree); the resurrection technology specifically (cellular-transfer plus memory-transfer for previously deceased individuals); the basic Eloha longevity treatment (the simpler 'small surgical adjustment')"
-current_status = "Operational on the Elohim home world and on the Planet of the Eternals; Earth-side longevity grants withdrawn after the post-Flood Council restrictions; projected extension to humanity following the Aquarian-age open return"
-principal_text = "Genesis 2:9; Genesis 3:22–24; the patriarchal genealogies of Genesis 5; Revelation 22:2"
-principal_framework_source = "*The Book Which Tells the Truth* (Vorilhon/Raël, 1974), chapter 2; *Extra-Terrestrials Took Me to Their Planet* (1975)"
+arabic_name = "شجرة الخلد (shajarat al-khuld,「不朽之樹」,於古蘭經傳統)"
+type = "細胞延展與壽命延長之生物技術;以成熟形態而言,為產生實際不朽性之複製—記憶轉移技術"
+biblical_appearance = "《創世記》2:9(園中之生命之樹);《創世記》3:22–24(揭露後之取用禁令);《箴言》3:18、11:30、13:12、15:4(智慧傳統之比喻用法);《以西結書》47:12(生命之河畔諸樹);《啟示錄》2:7、22:2、22:14、22:19(新耶路撒冷之生命之樹)"
+operational_phases = "1) 原始伊甸設施特徵(限聯盟人員);2) 洪水後族長授予階段(限特定領導之有限長壽,約公元前 11,000–6,690 年);3) 洪水後受限階段(人類取用漸減);4) 基本以洛哈長壽階段(每身體 700–1,200 年,耶洛因文明之標準);5) 永恆者複製—記憶轉移階段(實際不朽性,永恆者議會)"
+recipients_in_framework = "伊甸譜系族長領導(亞當、塞特、以挪士、該南、瑪勒列、雅列、以諾、瑪土撒拉、拉麥、諾亞等);更廣之耶洛因文明(約 70 億個具自然延展壽命之個體);永恆者行星上之永恆者(約 700 名議會成員加約 8,400 名復活之人類)"
+distinguished_from = "分別善惡的知識之樹(並列之伊甸之樹);復活技術本身(對先前已逝個體之細胞轉移加記憶轉移);基本以洛哈長壽治療(較簡單之「微小外科調整」)"
+current_status = "於耶洛因母星及永恆者行星上運作;地球側長壽授予於洪水後議會限制之後撤回;預計於水瓶座時代公開復歸之後延展至人類"
+principal_text = "《創世記》2:9;《創世記》3:22–24;《創世記》第 5 章之族長家譜;《啟示錄》22:2"
+principal_framework_source = "*道出真相之書*(沃里勒翁/雷爾,1974),第 2 章;*外星人帶我上了他們的星球*(1975)"
 +++
 
-The **Tree of Life** (Hebrew: <span class="hebrew">עֵץ הַחַיִּים</span>, *ʿēṣ ha-ḥayyîm*; Greek: *to xylon tēs zōēs*; Latin: *lignum vitae*) is the figure introduced at Genesis 2:9 as one of two named trees in the garden of Eden, alongside the Tree of the Knowledge of Good and Evil. The Tree of Life appears in the Hebrew Bible's Genesis narrative as the source of extended life that, after the Eden disclosure event, was barred from human access by the cherubim stationed at the entrance to the garden along with the *lahaṭ ha-ḥereb ha-mithappeḵet* — the "flaming sword that turns every way" (Genesis 3:24). The Tree subsequently appears across the Hebrew Bible's wisdom literature in figurative-symbolic uses (Proverbs 3:18, 11:30, 13:12, 15:4), in Ezekiel's vision of the river of life (Ezekiel 47:12), and ultimately in the New Testament's Revelation as the Tree of Life in the New Jerusalem (Revelation 2:7, 22:2, 22:14). The figure has been the subject of substantial theological, mystical, and cultural elaboration across two and a half millennia, with the Christian tradition typically treating the Tree of Life as a theological symbol of eternal life and the Kabbalistic tradition developing the Tree of Life as the principal cosmological diagram of the ten emanated divine attributes (the Sephirot).
+**生命之樹**(希伯來語:<span class="hebrew">עֵץ הַחַיִּים</span>,*ʿēṣ ha-ḥayyîm*;希臘語:*to xylon tēs zōēs*;拉丁語:*lignum vitae*)是於《創世記》2:9 中引入的形象,為伊甸園中兩棵指名之樹之一,與分別善惡的知識之樹並立。生命之樹於希伯來聖經之《創世記》敘事中作為延壽之源出現,於伊甸揭露事件之後,經由駐守園口之基路伯,連同 *lahaṭ ha-ḥereb ha-mithappeḵet* ——「四面轉動發火焰的劍」(《創世記》3:24)—— 而被禁止人類取用。該樹其後橫跨希伯來聖經之智慧文學以比喻—象徵之用法出現(《箴言》3:18、11:30、13:12、15:4)、於以西結之生命之河異象中出現(《以西結書》47:12),並最終於《新約》之《啟示錄》中作為新耶路撒冷之生命之樹出現(《啟示錄》2:7、22:2、22:14)。此形象於兩千五百年間一直是實質之神學、神祕主義與文化闡發之對象,基督教傳統慣常將生命之樹視為永生之神學象徵,而卡巴拉傳統則將生命之樹發展為十項流溢之神性屬性(質點,Sefirot)之主要宇宙論圖示。
 
-On the reading developed in the Raëlian source material and adopted by the Wheel of Heaven corpus, the Tree of Life is read as a specific historical biotechnology rather than as a theological symbol or as a literal botanical tree. The Tree of Life is the **cellular-extension technique** that the Elohim civilization developed to extend natural lifespan — a technology with multiple operational phases across the framework's broader history. In its original Eden installation phase, the Tree was restricted Eden-installation infrastructure, accessible to alliance personnel but not to the synthesized humans (the Genesis 3:22 prohibition reflecting the home-world Council's specific policy of withholding longevity from the Earth creation). In its post-Eden patriarchal phase, the exiled Lucifer faction negotiated with the Council to grant the longevity treatment to specific Eden-lineage leaders, producing the recorded biblical lifespans (Adam at 930 years, Methuselah at 969, Noah at 950, and the broader patriarchal genealogy of Genesis 5). In its mature contemporary form on the home world, the Tree of Life operates as the cloning-and-memory-transfer technology that produces the practical immortality of the Council of the Eternals — with Yahweh as the first successful beneficiary across 25 successive bodies and 25,000 years of continuous personal existence.
+在雷爾派源典所發展、《天輪》文集所採行的閱讀中,生命之樹被讀為一項具體的歷史性生物技術,而非神學象徵或字面上之植物學樹木。{{ footnote(id="1") }} 生命之樹即耶洛因文明為延長自然壽命所開發之**細胞延展技術** —— 一項橫跨框架更廣歷史而具多個作業階段之技術。於其原始伊甸設施階段,該樹為受限之伊甸設施基礎設施,可供聯盟人員取用而不供合成人類取用(《創世記》3:22 之禁令反映母星議會對地球受造物保留長壽之具體政策)。於其洪水後族長階段,流亡之路西法派系與議會談判,以將長壽治療授予特定伊甸譜系領導,產生記載之聖經壽命(亞當 930 歲、瑪土撒拉 969 歲、諾亞 950 歲,及《創世記》第 5 章更廣之族長家譜)。於其母星上成熟之當代形態中,生命之樹作為產生永恆者議會實際不朽性之複製—記憶轉移技術而運作 —— 其中耶和華為跨越 25 個連續身體、25,000 年連續個人存在之首位成功受益者。
 
-The reading is contested. Within Christian theological tradition, the Tree of Life is read variously as a theological symbol of eternal life, as a typological prefiguration of Christ's redemptive work, or as a literal feature of an actual but inaccessible Edenic original creation. Within Kabbalistic Jewish tradition, the Tree of Life has been developed across the medieval and early-modern periods as the principal cosmological diagram of the ten emanated divine attributes, with substantial theosophical-mystical elaboration. Within mainstream historical-critical biblical scholarship, the Genesis Tree of Life is read as a literary-mythological motif drawing on the broader ancient Near Eastern sacred-tree tradition, with Mesopotamian, Egyptian, and Canaanite parallels providing the textual-historical context. Within mainstream biology, no biological tree producing human longevity has been identified, with the Genesis material treated as religious narrative rather than as referring to actual biotechnology. Within the contemporary longevity-research trajectory (Yamanaka factors, partial cellular reprogramming, telomere research, senolytic interventions), substantial progress has been made toward technologies that, while distinct from the framework's specific reading, demonstrate that lifespan extension at biological scales beyond conventional human limits is plausibly achievable. The corpus's reading is structurally distinctive: it accepts the mainstream-scholarly observation that the Genesis Tree of Life material reflects the broader ancient Near Eastern sacred-tree tradition, but reframes the underlying ontology by reading all such material as preserving fragmentary memory of an actual biotechnology developed by the Elohim civilization and transmitted in limited grants to specific human partners across the framework's broader history.
+此閱讀有爭議。在基督教神學傳統內,生命之樹被各種解讀為永生之神學象徵、基督救贖之工之預表性前兆,或一真實但不可及之伊甸原初受造之字面特徵。在卡巴拉猶太傳統內,生命之樹於中世紀與近代早期被發展為十項流溢之神性屬性之主要宇宙論圖示,並有實質之神智—神祕闡發。在主流歷史—批判聖經學界內,《創世記》之生命之樹被讀為取材於更廣古代近東聖樹傳統之文學—神話母題,美索不達米亞、埃及與迦南之平行提供其文本—史學脈絡。在主流生物學內,並無產生人類長壽之生物學樹木被辨識,《創世記》材料被視為宗教敘事而非指涉真實之生物技術。在當代長壽研究軌跡內(山中因子、部分細胞重編程、端粒研究、抗衰老細胞干預),已取得朝向某些技術之實質進展,該等技術雖與框架之具體閱讀有別,卻展示了於超越常規人類限度之生物尺度上延展壽命合理可行。文集之閱讀在結構上具特色:它接受主流學界對《創世記》生命之樹材料反映更廣古代近東聖樹傳統之觀察,但透過將所有此類材料讀為以片斷形式保存了耶洛因文明所開發、並於框架更廣歷史中以有限授予方式傳予特定人類夥伴之一項真實生物技術的記憶,重構其底層本體論。
 
-## Etymology and naming
+## 詞源與命名
 
-The principal terms for the Tree of Life across the languages and traditions in which the figure has been preserved warrant individual treatment.
+生命之樹於其形象所保存之各語言與傳統間的主要術語,值得個別處理。
 
-### Hebrew *ʿēṣ ha-ḥayyîm*
+### 希伯來語 *ʿēṣ ha-ḥayyîm*
 
-The Hebrew *ʿēṣ ha-ḥayyîm* (<span class="hebrew">עֵץ הַחַיִּים</span>) is the specific Hebrew Bible designation for the Tree of Life. The construction combines:
+希伯來語 *ʿēṣ ha-ḥayyîm*(<span class="hebrew">עֵץ הַחַיִּים</span>)是希伯來聖經對生命之樹之具體稱謂。該構詞結合:
 
-- **ʿēṣ** (<span class="hebrew">עֵץ</span>) — the standard Hebrew term for "tree," used across the Hebrew Bible for both literal trees and various figurative-metaphorical uses. The term derives from a Proto-Semitic root with parallel cognates across the Semitic family.
-- **ha-** (<span class="hebrew">הַ</span>) — the definite article, marking "the" specific tree
-- **ḥayyîm** (<span class="hebrew">חַיִּים</span>) — "life" or "lives," a plural form (the so-called *intensive plural* in Hebrew grammar) that conveys the abundance or fullness of life rather than ordinary plural multiplicity. The form derives from the root *ḥ-y-h* meaning "to live."
+- **ʿēṣ**(<span class="hebrew">עֵץ</span>)——「樹」之標準希伯來術語,於希伯來聖經中通用於字面之樹及各種比喻—隱喻用法。該詞源自一原始閃語詞根,於閃語族中有平行同源詞。
+- **ha-**(<span class="hebrew">הַ</span>)—— 定冠詞,標示「那」棵具體之樹
+- **ḥayyîm**(<span class="hebrew">חַיִּים</span>)——「生命」或「諸生命」,一複數形(希伯來語法中所謂之*強調複數*),傳達生命之豐盈或圓滿,而非尋常之複數多重性。該形源自意為「活」之詞根 *ḥ-y-h*。
 
-The full construction *ʿēṣ ha-ḥayyîm* preserves the literal sense of "the tree of (the abundance of) life" — a specific tree associated with the giving or extending of life. The Hebrew tradition's intensive-plural *ḥayyîm* is itself substantively significant: the construction does not simply mean "the tree of biological-existence" but specifically "the tree of life-in-its-fullness," with the underlying sense of substantial, abundant, extended life rather than ordinary mortal existence.
+完整構詞 *ʿēṣ ha-ḥayyîm* 保留了「(豐盈之)生命之樹」之字面義 —— 一棵與賦予或延展生命相關之具體樹木。希伯來傳統之強調複數 *ḥayyîm* 本身即具實質意義:該構詞並非單純指「生物存在之樹」,而具體指「圓滿生命之樹」,其底層義為實質、豐盈、延展之生命,而非尋常之必死存在。
 
-The Hebrew Bible uses the construction *ʿēṣ ha-ḥayyîm* exclusively for the Eden tree (Genesis 2:9, 3:22, 3:24) and for the figurative-wisdom uses (Proverbs 3:18, 11:30, 13:12, 15:4). The figurative uses in Proverbs apply the construction to wisdom, righteousness, fulfilled desire, and gentle speech — preserving the underlying sense that the *ʿēṣ ha-ḥayyîm* is the source of substantial, life-extending benefit.
+希伯來聖經僅以構詞 *ʿēṣ ha-ḥayyîm* 指伊甸之樹(《創世記》2:9、3:22、3:24)及比喻—智慧用法(《箴言》3:18、11:30、13:12、15:4)。《箴言》中之比喻用法將該構詞應用於智慧、公義、得遂之願望及溫和之言語 —— 保留了 *ʿēṣ ha-ḥayyîm* 為實質、延壽益處之源的底層義。
 
-### Other Hebrew Bible designations
+### 其他希伯來聖經稱謂
 
-Several related Hebrew terms appear in connection with the Tree of Life material:
+數種相關希伯來術語與生命之樹材料相關出現:
 
-- **ʿaṣē ḥayyîm** (<span class="hebrew">עֲצֵי חַיִּים</span>, "trees of life," plural) appears at Ezekiel 47:7, 12 in the visionary description of the trees lining the river flowing from the temple, with the trees yielding fruit monthly and producing leaves "for healing" (*li-trupâ*).
-- **ʿēṣ peri** (<span class="hebrew">עֵץ פְּרִי</span>, "fruit tree") and parallel constructions appear across the Hebrew Bible without specific Tree-of-Life associations.
+- **ʿaṣē ḥayyîm**(<span class="hebrew">עֲצֵי חַיִּים</span>,「諸生命之樹」,複數)出現於《以西結書》47:7、12,於描述聖殿所流出之河邊諸樹的異象中,諸樹按月結果並生出「醫治」之葉(*li-trupâ*)。
+- **ʿēṣ peri**(<span class="hebrew">עֵץ פְּרִי</span>,「果樹」)及平行構詞橫跨希伯來聖經出現,而無具體之生命之樹關聯。
 
-### Greek and Latin designations
+### 希臘語與拉丁語稱謂
 
-The Greek Septuagint translates *ʿēṣ ha-ḥayyîm* as **to xylon tēs zōēs** (τὸ ξύλον τῆς ζωῆς), with *xylon* meaning "wood" or "tree" and *zōē* meaning "life." The Greek term *zōē* carries specific philosophical-theological connotations — distinguished from *bios* (the biological-temporal aspect of life) as referring to life in its substantial, qualitative, or eternal aspect. The Greek New Testament uses *to xylon tēs zōēs* in Revelation 2:7, 22:2, 22:14, and 22:19, with the construction preserving the specific theological connotations the Greek philosophical tradition had developed around *zōē*.
+希臘語《七十士譯本》將 *ʿēṣ ha-ḥayyîm* 譯為 **to xylon tēs zōēs**(τὸ ξύλον τῆς ζωῆς),*xylon* 意為「木」或「樹」,*zōē* 意為「生命」。希臘語詞 *zōē* 承載具體之哲學—神學內涵 —— 區別於 *bios*(生命之生物—時間面向)而指生命於其實質、質性或永恆面向。希臘語《新約》於《啟示錄》2:7、22:2、22:14 及 22:19 使用 *to xylon tēs zōēs*,該構詞保留了希臘哲學傳統環繞 *zōē* 所發展之具體神學內涵。
 
-The Latin Vulgate translates the construction as **lignum vitae**, with *lignum* meaning "wood" and *vitae* meaning "of life." The Latin term has provided the basis for the modern scientific-Latin name *Lignum vitae* applied to the Caribbean tree *Guaiacum officinale*, whose dense wood was historically valued for its purported medicinal properties — an association reflecting the broader cultural transmission of Tree-of-Life imagery into pharmacological contexts.
+拉丁語《武加大譯本》將該構詞譯為 **lignum vitae**,*lignum* 意為「木」,*vitae* 意為「生命之」。該拉丁語詞為應用於加勒比樹種 *Guaiacum officinale* 之現代科學—拉丁學名 *Lignum vitae* 提供了依據,該樹緻密之木材因其據稱之藥用特性而於歷史上受珍視 —— 此一關聯反映生命之樹意象向藥理學脈絡之更廣文化傳遞。
 
-### Arabic *shajarat al-khuld*
+### 阿拉伯語 *shajarat al-khuld*
 
-The Arabic Qur'anic tradition uses **shajarat al-khuld** (<span class="hebrew">شجرة الخلد</span>, "tree of immortality") at Qur'an 20:120 in the Adamic narrative. The Qur'anic narrative inverts the Hebrew Bible's specific tree-naming: the tree from which Adam and Eve are forbidden to eat is in the Qur'anic context the *shajarat al-khuld* (the tree of immortality), with the Qur'anic theological framework treating the prohibition as God's specific test of Adamic obedience rather than as the Genesis Tree of the Knowledge of Good and Evil distinction.
+阿拉伯古蘭經傳統於《古蘭經》20:120 之亞當敘事中使用 **shajarat al-khuld**(<span class="hebrew">شجرة الخلد</span>,「不朽之樹」)。古蘭經敘事顛倒了希伯來聖經之具體樹名:於古蘭經脈絡中,亞當與夏娃被禁食之樹為 *shajarat al-khuld*(不朽之樹),古蘭經神學框架將該禁令視為神對亞當順服之具體試驗,而非《創世記》分別善惡的知識之樹之區分。
 
-The Qur'anic *shajarat al-khuld* is structurally distinct from the Hebrew *ʿēṣ ha-ḥayyîm*. The framework reads this difference as reflecting different theological-narrative emphases between the Hebrew and Qur'anic traditions rather than as referring to fundamentally different underlying realities — both traditions preserve fragmentary memory of the same underlying biotechnology, with the specific narrative framings reflecting the distinctive theological developments of each tradition.
+古蘭經之 *shajarat al-khuld* 於結構上有別於希伯來語 *ʿēṣ ha-ḥayyîm*。框架將此差異讀為反映希伯來與古蘭經傳統間不同之神學—敘事重點,而非指涉根本不同之底層實在 —— 兩傳統皆保存了對同一底層生物技術之片斷記憶,具體之敘事框架則反映各傳統獨特之神學發展。
 
-### Other tradition designations
+### 其他傳統之稱謂
 
-The Tree of Life appears across various other traditions under additional designations:
+生命之樹於各種其他傳統中以額外稱謂出現:
 
-- **The Akkadian *kishkanu*** (𒄑𒋽) tree at Eridu, the sacred tree of the Mesopotamian Eridu temple, identified in some texts as the cosmic tree connecting heaven and earth
-- **The Norse *Yggdrasil*** ("Odin's horse" or "tree of terror"), the cosmic ash tree connecting the nine worlds in Norse cosmology
-- **The Egyptian *ished* tree**, associated with various divine figures and with the recording of the pharaoh's name and reign
-- **The Sanskrit *Ashvattha*** (अश्वत्थ, the *Pippala* / sacred fig tree), the cosmic tree of the *Bhagavad Gita* with roots in heaven and branches in earth
-- **The Sanskrit *Kalpavriksha*** (कल्पवृक्ष, "wish-fulfilling tree"), the tree of paradise in Hindu and Buddhist tradition
-- **The Chinese *Fusang*** (扶桑) and *Jianmu* (建木), the eastern sun-tree and the central world-tree of Chinese mythology
-- **The Mesoamerican *yaxche*** (Maya) and parallel ceiba-tree traditions, the world tree connecting the cosmic levels
+- **阿卡德語之 *kishkanu***(𒄑𒋽)樹,位於埃利都,即美索不達米亞埃利都神廟之聖樹,於某些文本中被認定為連接天地之宇宙樹
+- **北歐之 *尤克特拉希爾***(「奧丁之馬」或「恐怖之樹」),即北歐宇宙論中連接九個世界之宇宙白蠟樹
+- **埃及之 *ished* 樹**,與各種神性形象及法老名號與在位之記載相關
+- **梵語之 *Ashvattha***(अश्वत्थ,*Pippala* / 神聖無花果樹),即《薄伽梵歌》之宇宙樹,根在天而枝在地
+- **梵語之 *Kalpavriksha***(कल्पवृक्ष,「如願樹」),即印度教與佛教傳統中之天堂樹
+- **中國之 *扶桑***(扶桑)與 *建木*(建木),即中國神話之東方日樹與中央世界樹
+- **中美洲之 *yaxche***(馬雅)及平行之木棉樹傳統,即連接宇宙層級之世界樹
 
-The cross-tradition convergence on substantial sacred-tree imagery is part of the framework's evidence that the underlying referent is a specific historical reality preserved in fragmentary form across multiple cultural-religious traditions.
+對實質聖樹意象之跨傳統匯合,為框架以下證據之一部分:其底層指涉物為一具體之歷史性實在,以片斷形式保存於多個文化—宗教傳統之間。
 
-## Conventional understanding
+## 慣常理解
 
-The Tree of Life material has been the subject of substantial conventional-scholarly and theological treatment across multiple traditions.
+{% library(book="genesis-woh", chapter=2, verse=9) %}
+耶和華耶洛因使各樣的樹從地裡長出來,可以悅人的眼目,也好作食物 —— 園子當中又有生命樹和分別善惡的知識樹。
+{% end %}
 
-### Mainstream historical-critical biblical scholarship
+生命之樹材料於多個傳統間一直是實質之慣常學術與神學處理之對象。
 
-Mainstream historical-critical biblical scholarship treats the Genesis Tree of Life material as drawing on the broader ancient Near Eastern sacred-tree tradition. The principal positions:
+### 主流歷史—批判聖經學界
 
-**The Mesopotamian background.** The Mesopotamian sacred-tree tradition — preserved across Sumerian, Akkadian, and Assyrian textual and iconographic material — is read as the immediate background for the Hebrew Bible's parallel material. The Akkadian *kishkanu* tree at Eridu, the Sumerian *huluppu* tree of the *Inanna and the Huluppu Tree* narrative, the elaborate sacred-tree iconography of the Neo-Assyrian palace reliefs (with the winged figures attending the stylized tree), and the various other Mesopotamian sacred-tree material provide substantial textual-historical context for the Hebrew tradition's tree imagery.
+主流歷史—批判聖經學界將《創世記》之生命之樹材料視為取材於更廣之古代近東聖樹傳統。主要立場:
 
-**The Canaanite-Ugaritic context.** The Ugaritic *Baal Cycle* and related texts preserve substantial sacred-tree material with parallels to the Hebrew tradition. The *asherah* tradition (the cultic tree-pole associated with the goddess Asherah, condemned in various Hebrew Bible passages) reflects continuing Canaanite sacred-tree practice that the Israelite religious tradition both drew on and polemically opposed.
+**美索不達米亞背景。** 美索不達米亞聖樹傳統 —— 保存於蘇美、阿卡德與亞述之文本與圖像材料中 —— 被讀為希伯來聖經平行材料之直接背景。埃利都之阿卡德語 *kishkanu* 樹、《伊南娜與胡盧普樹》敘事之蘇美 *huluppu* 樹、新亞述宮殿浮雕之精緻聖樹圖像(以有翼形象侍立於程式化之樹),及各種其他美索不達米亞聖樹材料,為希伯來傳統之樹意象提供了實質之文本—史學脈絡。
 
-**The Egyptian context.** The Egyptian sacred-tree material — the sycamore associated with Hathor, Isis, and Nut, the *ished* tree associated with various divine figures, the broader sacred-tree imagery preserved across Egyptian temple iconography — provides additional textual-historical context for the broader ancient Near Eastern sacred-tree tradition within which the Hebrew Bible's material developed.
+**迦南—烏加里特脈絡。** 烏加里特之《巴力史詩》及相關文本保存了與希伯來傳統具平行之實質聖樹材料。*asherah* 傳統(與女神亞舍拉相關之祭儀樹柱,於各種希伯來聖經段落中受譴責)反映了以色列宗教傳統既取材又論戰性反對之延續性迦南聖樹實踐。
 
-**The mythological-aetiological reading.** Mainstream scholarship typically treats the Genesis Tree of Life as a literary-mythological motif rather than as referring to specific biological reality. The principal interpretive positions include:
+**埃及脈絡。** 埃及聖樹材料 —— 與哈索爾、伊西斯與努特相關之西克莫無花果、與各種神性形象相關之 *ished* 樹、保存於埃及神廟圖像間之更廣聖樹意象 —— 為希伯來聖經材料於其中發展之更廣古代近東聖樹傳統提供了額外之文本—史學脈絡。
 
-- The Tree of Life as **mythological symbol** of eternal life, with the Genesis narrative using the symbol to address theological questions about human mortality and the human relationship to divine life
-- The Tree of Life as **aetiological narrative** explaining why humans are mortal, with the Genesis story functioning as a religious explanation of human biological reality
-- The Tree of Life as **theological prefiguration** of later biblical themes (eternal life in the wisdom tradition, the New Jerusalem in Revelation, Christian theological developments)
+**神話—成因論之閱讀。** 主流學界慣常將《創世記》之生命之樹視為文學—神話母題,而非指涉具體之生物學實在。主要詮釋立場包括:
 
-The principal recent works in mainstream sacred-tree scholarship include:
+- 生命之樹作為永生之**神話象徵**,《創世記》敘事以該象徵處理關於人類必死性及人類與神性生命關係之神學問題
+- 生命之樹作為解釋人類何以必死之**成因論敘事**,《創世記》故事作為人類生物學實在之宗教解釋而運作
+- 生命之樹作為後續聖經主題(智慧傳統之永生、《啟示錄》之新耶路撒冷、基督教神學發展)之**神學前兆**
 
-- **Mariana Giovino**'s *The Assyrian Sacred Tree: A History of Interpretations* (2007) — comprehensive treatment of the Assyrian sacred tree iconographic tradition and its scholarly reception
-- **Simo Parpola**'s "The Assyrian Tree of Life" (1993) and related work — substantive engagement with the Assyrian sacred tree material, including the controversial proposal that the iconographic tradition preserves a structured cosmological-philosophical system
-- **Howard N. Wallace**'s *The Eden Narrative* (1985) — substantial treatment of the Genesis 2–3 material in its ancient Near Eastern context
-- **Terje Stordalen**'s *Echoes of Eden: Genesis 2–3 and Symbolism of the Eden Garden in Biblical Hebrew Literature* (2000) — comprehensive scholarly treatment of the Eden material's literary and theological reception across the Hebrew Bible
+主流聖樹學界之主要近著包括:
 
-### Christian theological tradition
+- **瑪麗安娜·喬維諾**之《亞述聖樹:一部詮釋史》(2007)—— 對亞述聖樹圖像傳統及其學術接受之全面處理{{ cite(id="giovino-assyrian-sacred-tree", text="[1]", title="喬維諾,《亞述聖樹:一部詮釋史》(2007)") }}
+- **西莫·帕爾波拉**之〈亞述生命之樹〉(1993)及相關著作 —— 對亞述聖樹材料之實質探討,包括具爭議之提議,即該圖像傳統保存了一結構化之宇宙論—哲學體系{{ cite(id="parpola-assyrian-tree-of-life", text="[2]", title="帕爾波拉,〈亞述生命之樹〉(《近東研究期刊》,1993)") }}
+- **霍華德·N·華勒斯**之《伊甸敘事》(1985)—— 對《創世記》2–3 材料置於其古代近東脈絡之實質處理{{ cite(id="wallace-eden-narrative", text="[3]", title="華勒斯,《伊甸敘事》(1985)") }}
+- **泰耶·斯托達倫**之《伊甸的迴響:〈創世記〉2–3 與聖經希伯來文學中伊甸園之象徵》(2000)—— 對伊甸材料於希伯來聖經中之文學與神學接受之全面學術處理{{ cite(id="stordalen-echoes-of-eden", text="[4]", title="斯托達倫,《伊甸的迴響》(2000)") }}
 
-Christian theological tradition has developed substantial elaboration of the Tree of Life material across two millennia. The principal positions:
+### 基督教神學傳統
 
-**The typological reading.** The Christian theological tradition has read the Tree of Life typologically in connection with Christ's redemptive work. Patristic and medieval theology developed elaborate typological systems in which the Tree of Life prefigures the cross of Christ (the *lignum vitae* iconographic tradition), with the redemption restoring the access to eternal life that the Eden expulsion had barred. The Revelation 22:2 reference to the Tree of Life in the New Jerusalem is read as the eschatological fulfillment of this typological pattern.
+基督教神學傳統於兩千年間已發展出對生命之樹材料之實質闡發。主要立場:
 
-**The theological-symbolic reading.** Various Christian theological traditions have treated the Tree of Life as a theological symbol of eternal life, divine grace, or specific theological realities (the Eucharist, the Holy Spirit, the church). The specific symbolic content varies across traditions, with Catholic, Orthodox, and various Protestant traditions developing distinctive interpretive frameworks.
+**預表性閱讀。** 基督教神學傳統將生命之樹與基督救贖之工相聯而作預表性閱讀。教父與中世紀神學發展出精緻之預表體系,其中生命之樹預表基督之十字架(*lignum vitae* 圖像傳統),救贖恢復了伊甸放逐所禁絕之永生取用。《啟示錄》22:2 對新耶路撒冷生命之樹之提及被讀為此預表模式之末世論成全。
 
-**The literal-historical reading.** Conservative Christian traditions have generally treated the Eden Tree of Life as a literal feature of an actual original creation, with the Genesis narrative read as historically accurate description of original conditions. The various creationist traditions develop this reading with substantial elaboration of the original-creation framework.
+**神學—象徵之閱讀。** 各種基督教神學傳統將生命之樹視為永生、神恩或具體神學實在(聖餐、聖靈、教會)之神學象徵。具體象徵內容因傳統而異,天主教、東正教及各種新教傳統發展出各具特色之詮釋框架。
 
-**The medieval *lignum vitae* iconographic tradition.** Medieval Christian art developed elaborate *lignum vitae* iconography, with the cross of Christ depicted as the renewed Tree of Life bearing fruit (Christ's body, the Eucharist, the saints, the various theological realities). Bonaventure's *Lignum Vitae* (c. 1260) is the principal medieval theological-meditative treatment, structuring Christian contemplative practice around the Tree-of-Life motif.
+**字面—歷史之閱讀。** 保守基督教傳統一般將伊甸生命之樹視為一真實原初受造之字面特徵,《創世記》敘事被讀為對原初狀況之歷史性準確描述。各種創造論傳統以對原初受造框架之實質闡發發展此閱讀。
 
-### Jewish theological tradition
+**中世紀 *lignum vitae* 圖像傳統。** 中世紀基督教藝術發展出精緻之 *lignum vitae* 圖像,基督之十字架被描繪為結果之更新生命之樹(基督之身體、聖餐、聖徒及各種神學實在)。波拿文都拉之《生命之樹》(約 1260 年)為主要之中世紀神學—默想處理,以生命之樹母題建構基督教默觀實踐。{{ cite(id="bonaventure-lignum-vitae", text="[5]", title="波拿文都拉,《生命之樹(Lignum Vitae)》(約 1260 年)") }}
 
-Jewish theological tradition has developed elaborate engagement with the Tree of Life material across multiple distinct schools.
+### 猶太神學傳統
 
-**Rabbinic tradition** treats the Tree of Life within the broader Genesis interpretive framework, with substantial midrashic elaboration of the specific narrative details. The rabbinic tradition's specific contributions include the Talmudic discussions of whether Adam was originally created with eternal-life capacity, the various midrashic narratives elaborating the post-expulsion situation, and the broader exegetical engagement with the Eden material.
+猶太神學傳統於多個不同學派間已發展出對生命之樹材料之精緻接觸。
 
-**Kabbalistic tradition** has developed the Tree of Life as the principal cosmological diagram of the ten emanated divine attributes (the Sephirot). The detailed treatment of the Kabbalistic Tree of Life lives in the *Modern reinterpretations* section below; what matters here is that the Kabbalistic Tree of Life is the most extensively developed Jewish-mystical engagement with the underlying material, with substantial theosophical-cosmological elaboration across the medieval and early-modern periods.
+**拉比傳統** 於更廣之《創世記》詮釋框架內處理生命之樹,並對具體敘事細節作實質之米德拉什闡發。拉比傳統之具體貢獻包括:關於亞當原初是否被造而具永生能力之塔木德討論、闡發放逐後處境之各種米德拉什敘事,及對伊甸材料之更廣釋經接觸。
 
-**Modern Jewish thought** has continued to engage the Tree of Life material within broader theological-philosophical frameworks, with various positions on the specific content and significance of the underlying material.
+**卡巴拉傳統** 已將生命之樹發展為十項流溢之神性屬性(質點)之主要宇宙論圖示。對卡巴拉生命之樹之詳細處理見於下方《現代再詮釋》一節;此處要點為:卡巴拉生命之樹為對底層材料最為廣泛發展之猶太—神祕接觸,於中世紀與近代早期具實質之神智—宇宙論闡發。
 
-### Islamic theological tradition
+**現代猶太思想** 持續於更廣之神學—哲學框架內接觸生命之樹材料,對底層材料之具體內容與意義持各種立場。
 
-Islamic theological tradition treats the Tree of Life material principally through the Qur'anic *shajarat al-khuld* framework. The Qur'anic narrative (Qur'an 20:120) presents the tree as the specific object of the prohibition that Adam and Eve violate, with the broader Islamic theological tradition developing this material in connection with broader themes of human mortality, divine testing, and the eschatological promise of paradise.
+### 伊斯蘭神學傳統
 
-## In primary sources
+伊斯蘭神學傳統主要透過古蘭經之 *shajarat al-khuld* 框架處理生命之樹材料。古蘭經敘事(《古蘭經》20:120)將該樹呈現為亞當與夏娃所違犯之禁令的具體對象,而更廣之伊斯蘭神學傳統將此材料與人類必死性、神性試驗及天堂之末世論應許等更廣主題相聯而發展。
 
-The Tree of Life appears across multiple primary sources, with substantial fragmentary preservation in both ancient textual traditions and the modern Raëlian source material.
+## 在原始源典中
 
-### Genesis 2:9 and 3:22–24
+生命之樹橫跨多個原始源典出現,於古代文本傳統及現代雷爾派源典中皆有實質之片斷保存。
 
-The principal Hebrew Bible Tree of Life material appears in the Genesis 2–3 Eden narrative.
+### 《創世記》2:9 與 3:22–24
 
-**Genesis 2:9** introduces the Tree of Life as one of two named trees in the garden:
+主要之希伯來聖經生命之樹材料出現於《創世記》2–3 之伊甸敘事。
 
-> *"And out of the ground Yahweh Elohim made to grow every tree that is pleasant to the sight, and good for food; the tree of life (ʿēṣ ha-ḥayyîm) also in the midst of the garden, and the tree of the knowledge of good and evil."*
+**《創世記》2:9** 引入生命之樹為園中兩棵指名之樹之一:
 
-The framework reads this passage as the operational record of the Eden installation's specific infrastructure, with the Tree of Life and the Tree of the Knowledge of Good and Evil being the two principal restricted-access technological resources of the installation.
+> *「耶和華耶洛因使各樣的樹從地裡長出來,可以悅人的眼目,也好作食物;園子當中又有生命樹(ʿēṣ ha-ḥayyîm)和分別善惡的知識樹。」*
 
-**Genesis 3:22–24** records the post-disclosure access prohibition:
+框架將此段讀為伊甸設施具體基礎設施之作業紀錄,生命之樹與分別善惡的知識之樹為該設施兩項主要之受限取用技術資源。
 
-> *"And Yahweh Elohim said, 'Behold, the man is become as one of us, to know good and evil: and now, lest he put forth his hand, and take also of the tree of life, and eat, and live for ever:' Therefore Yahweh Elohim sent him forth from the garden of Eden... So he drove out the man; and he placed at the east of the garden of Eden Cherubim, and a flaming sword which turned every way, to keep the way of the tree of life."*
+**《創世記》3:22–24** 記載揭露後之取用禁令:
 
-The corpus reads this passage as preserving substantial operational content:
+> *「耶和華耶洛因說:『看哪,那人已經與我們相似,能知道善惡;現在恐怕他伸手又摘生命樹的果子吃,就永遠活著。』耶和華耶洛因便打發他出伊甸園去……於是把他趕出去了;又在伊甸園的東邊安設基路伯和四面轉動發火焰的劍,要把守生命樹的道路。」*
 
-- The plural "as one of us" preserves the Council's collective character at the moment of the post-disclosure deliberation
-- The specific concern about humans accessing the Tree of Life and "living forever" reflects the Council's specific policy of withholding longevity from the Earth creation
-- The expulsion is the operational consequence of the political verdict
-- The cherubim with the *lahaṭ ha-ḥereb ha-mithappeḵet* (the "flaming sword that turns every way") are read by the framework as armed sentries with directed-energy weapons preventing re-access — the same kind of personal technology that the source material elsewhere attributes to alliance scouts (treated more fully in the [Eden](../eden/) entry)
+文集將此段讀為保存了實質之作業內容:
 
-### The patriarchal genealogies of Genesis 5
+- 複數之「與我們相似」保存了議會於揭露後審議之時刻的集體性格
+- 對人類取用生命之樹並「永遠活著」之具體關切,反映議會對地球受造物保留長壽之具體政策
+- 放逐為政治裁決之作業性後果
+- 帶有 *lahaṭ ha-ḥereb ha-mithappeḵet*(「四面轉動發火焰的劍」)之基路伯被框架讀為持有定向能量武器、防止再次取用之武裝哨兵 —— 即源典材料於別處歸於聯盟偵察者之同類個人技術(於[伊甸](../eden/)條目中得到更完整處理)
 
-Genesis 5 preserves the patriarchal genealogy with specific recorded ages. The principal data:
+### 《創世記》第 5 章之族長家譜
 
-- Adam: 930 years (Genesis 5:5)
-- Seth: 912 years (Genesis 5:8)
-- Enos (Enosh): 905 years (Genesis 5:11)
-- Kenan: 910 years (Genesis 5:14)
-- Mahalalel: 895 years (Genesis 5:17)
-- Jared: 962 years (Genesis 5:20)
-- Enoch: 365 years (with the specific note "and he was not, for Elohim took him" at Genesis 5:24, treated as a special case — the framework reads Enoch as one of the small number of pre-Flood figures specifically extracted to the Planet of the Eternals before his natural death)
-- Methuselah: 969 years (Genesis 5:27, the longest recorded patriarchal lifespan)
-- Lamech: 777 years (Genesis 5:31)
-- Noah: 950 years (Genesis 9:29)
+《創世記》第 5 章保存了族長家譜及具體記載之年歲。主要數據:
 
-The framework reads these specific recorded ages as substantively accurate to the actual lifespans of the named individuals. The Genesis 5 genealogy is therefore the principal primary-source evidence for the Tree of Life's operational presence in the antediluvian period — preserving the biographical record of beings who received the longevity treatment in limited measure.
+- 亞當:930 歲(《創世記》5:5)
+- 塞特:912 歲(《創世記》5:8)
+- 以挪士(以挪施):905 歲(《創世記》5:11)
+- 該南:910 歲(《創世記》5:14)
+- 瑪勒列:895 歲(《創世記》5:17)
+- 雅列:962 歲(《創世記》5:20)
+- 以諾:365 歲(於《創世記》5:24 有具體註記「他就不在世了,因為耶洛因將他取去」,視為特例 —— 框架將以諾讀為在自然死亡之前被具體擷取至永恆者行星之少數洪水前形象之一)
+- 瑪土撒拉:969 歲(《創世記》5:27,記載中最長之族長壽命)
+- 拉麥:777 歲(《創世記》5:31)
+- 諾亞:950 歲(《創世記》9:29)
 
-### The figurative wisdom-tradition references
+框架將這些具體記載之年歲讀為實質準確於所點名個體之真實壽命。{{ footnote(id="3") }} 因此《創世記》第 5 章家譜為生命之樹於大洪水之前時期作業性存在之主要原始源典證據 —— 保存了以有限程度接受長壽治療之存在者的傳記紀錄。
 
-The Hebrew Bible's wisdom literature contains several figurative uses of the Tree of Life construction:
+### 比喻性之智慧傳統提及
 
-- **Proverbs 3:18**: *"She [wisdom] is a tree of life to those who lay hold of her; those who hold her fast are called blessed."*
-- **Proverbs 11:30**: *"The fruit of the righteous is a tree of life, and whoever captures souls is wise."*
-- **Proverbs 13:12**: *"Hope deferred makes the heart sick, but a desire fulfilled is a tree of life."*
-- **Proverbs 15:4**: *"A gentle tongue is a tree of life, but perverseness in it breaks the spirit."*
+希伯來聖經之智慧文學包含數種對生命之樹構詞之比喻用法:
 
-These figurative uses apply the Tree of Life construction to specific positive qualities (wisdom, righteousness, fulfilled hope, gentle speech), with the underlying sense that these qualities provide the substantial life-extending benefit that the Tree-of-Life specifically denotes. The framework reads these figurative uses as preserving cultural memory of the Tree of Life as a substantively beneficial reality, with the wisdom-tradition's figurative application reflecting the broader cultural recognition of the Tree-of-Life motif's positive associations.
+- **《箴言》3:18**:*「她[智慧]與持守她的作生命樹;持定她的,俱各有福。」*
+- **《箴言》11:30**:*「義人所結的果子就是生命樹;有智慧的,必能得人。」*
+- **《箴言》13:12**:*「所盼望的遲延未得,令人心憂;所願望的成就,卻是生命樹。」*
+- **《箴言》15:4**:*「溫良的舌是生命樹;乖謬的嘴使人心碎。」*
 
-### Ezekiel 47:12 — the trees of the river of life
+這些比喻用法將生命之樹構詞應用於具體之正面品質(智慧、公義、得遂之盼望、溫和之言語),其底層義為這些品質提供了生命之樹所具體指稱之實質延壽益處。框架將這些比喻用法讀為保存了對生命之樹作為一實質有益實在之文化記憶,智慧傳統之比喻應用反映了對生命之樹母題正面關聯之更廣文化認知。
 
-Ezekiel's vision of the river flowing from the temple includes a description of the trees lining the river:
+### 《以西結書》47:12 —— 生命之河諸樹
 
-> *"And by the river upon the bank thereof, on this side and on that side, shall grow all trees for meat, whose leaf shall not fade, neither shall the fruit thereof be consumed: it shall bring forth new fruit according to his months, because their waters they issued out of the sanctuary: and the fruit thereof shall be for meat, and the leaf thereof for medicine (li-trupâ)."*
+以西結對聖殿所流出之河的異象包含對河邊諸樹之描述:
 
-The framework reads this passage as preserving fragmentary memory of substantial alliance-mediated agricultural and medical infrastructure, with the specific features (continuous productivity, monthly fruit-bearing, medicinal leaves) reflecting the kind of alliance-supported ecosystem that the Tree-of-Life infrastructure produces. The Ezekiel vision is structurally significant as preserving the connection between the Eden Tree of Life and the eschatological-renewal tradition that Revelation will subsequently develop.
+> *「在河這邊與那邊的岸上必生長各類的樹木;其果可作食物,葉子不枯乾,果子不斷絕。每月必結新果子,因為這水是從聖所流出來的。樹上的果子必作食物,葉子乃為治病(li-trupâ)。」*
 
-### Revelation 2:7 and 22:2, 22:14, 22:19
+框架將此段讀為保存了對實質之聯盟所中介的農業與醫療基礎設施之片斷記憶,其具體特徵(持續生產力、按月結果、藥用之葉)反映生命之樹基礎設施所產生之聯盟支援生態系。以西結異象於結構上具意義,因其保存了伊甸生命之樹與《啟示錄》其後將發展之末世論—更新傳統間之連結。
 
-The New Testament's Revelation preserves substantial Tree of Life material in connection with the New Jerusalem vision.
+### 《啟示錄》2:7 與 22:2、22:14、22:19
 
-**Revelation 2:7** records the promise to the church at Ephesus:
+《新約》之《啟示錄》於與新耶路撒冷異象相聯處保存了實質之生命之樹材料。
 
-> *"He that overcometh, to him will I give to eat of the tree of life, which is in the midst of the paradise of God."*
+**《啟示錄》2:7** 記載對以弗所教會之應許:
 
-**Revelation 22:2** describes the Tree of Life in the New Jerusalem:
+> *「得勝的,我必將神樂園中生命樹的果子賜給他吃。」*
 
-> *"In the midst of the street of it, and on either side of the river, was there the tree of life, which bare twelve manner of fruits, and yielded her fruit every month: and the leaves of the tree were for the healing of the nations."*
+**《啟示錄》22:2** 描述新耶路撒冷之生命之樹:
 
-**Revelation 22:14** records the conditional access:
+> *「在河這邊與那邊有生命樹,結十二樣果子,每月都結果子;樹上的葉子乃為醫治萬民。」*
 
-> *"Blessed are they that do his commandments, that they may have right to the tree of life, and may enter in through the gates into the city."*
+**《啟示錄》22:14** 記載有條件之取用:
 
-The framework reads these passages as preserving prophetic-visionary memory of the Tree of Life's projected restoration to humanity following the Aquarian-age open return. The "healing of the nations" is read as the operational reality of the future longevity-extension project that will follow the formal alliance establishment at the embassy. The specific features (the twelve manner of fruits, the monthly fruit-bearing, the medicinal leaves) preserve the same operational character that the Ezekiel vision preserves — alliance-mediated biotechnological infrastructure operating at substantial scale.
+> *「那些遵守他誡命的有福了!可得權柄能到生命樹那裡,也能從門進城。」*
 
-### The Raëlian source material
+框架將這些段落讀為保存了對生命之樹於水瓶座時代公開復歸之後預計向人類復歸之先知—異象記憶。「醫治萬民」被讀為將隨大使館正式聯盟建立而來之未來延壽計畫之作業性實在。其具體特徵(十二樣果子、按月結果、藥用之葉)保存了以西結異象所保存之同一作業性格 —— 以實質規模運作之聯盟所中介的生物技術基礎設施。
 
-The principal Raëlian source-material passages on the Tree of Life appear in *The Book Which Tells the Truth* (1974), chapter 2 ("Truth"), with substantial supplementary material in *Extra-Terrestrials Took Me to Their Planet* (1975).
+### 雷爾派源典
 
-The principal source-material content on the Tree of Life:
+主要之雷爾派源典關於生命之樹之段落出現於《道出真相之書》(1974)第 2 章(〈真理〉),{{ cite(id="the-book-which-tells-the-truth", text="[6]", title="沃里勒翁(雷爾),《道出真相之書》(1974),第 2 章 —— 族長長壽授予") }} 並於《外星人帶我上了他們的星球》(1975)中有實質補充材料。{{ cite(id="extraterrestrials-took-me-to-their-planet", text="[7]", title="沃里勒翁(雷爾),《外星人帶我上了他們的星球》(1975)—— 細胞轉移技術與耶和華之 25 個身體") }}
 
-**The post-Eden patriarchal grant** (from Yahweh's account in *The Book Which Tells the Truth*, chapter 2):
+關於生命之樹之主要源典材料內容:
 
-> *"The creators in exile who were left under military surveillance, urged the human beings to bring them food in order to show their own superiors that the newly created people were good, and that they would never turn against their creators. Thus they managed to obtain permission for the leaders of these first human beings to benefit from the 'tree of life', and this explains how they lived so long: Adam lived for 930 years, Seth for 912 years and Enos for 905 years, and so on."*
+**洪水後族長授予**(出自耶和華於《道出真相之書》第 2 章之記述):
 
-**The non-hereditary character of the grant** (from the same passage):
+> *「被置於軍事監視下留存之流亡造物者,敦促人類為其帶來食物,以向其上級顯明新受造之人是良善的、永不會反叛其造物者。如此他們設法取得許可,使這些首批人類之領導得以受益於『生命之樹』,這便解釋了他們何以活得如此之久:亞當活了 930 歲、塞特活了 912 歲、以挪士活了 905 歲,如此等等。」*
 
-> *"Longevity is not hereditary and much to the relief of the authorities on the distant planet, the children of the new human beings did not automatically benefit from the 'tree of life'. Thus the secret of life was lost, and mankind's progress was slowed down."*
+**該授予之非遺傳性格**(出自同一段落):
 
-**The Eloha standard longevity** (from the same chapter):
+> *「長壽並非可遺傳,而令遠方行星上之當局大為寬慰的是,新人類之子女並未自動受益於『生命之樹』。如此,生命之祕失傳了,人類之進步因而放緩。」*
 
-> *"For us, the problem is very different. We are not eternal, but we are able to live ten times longer than you, thanks to a small surgical adjustment, which in effect is the biblical 'tree of life'."*
+**以洛哈標準長壽**(出自同一章):
 
-**The cellular-transfer technology and Yahweh's continuous existence** (from *Extra-Terrestrials Took Me to Their Planet*, "Meeting the Ancient Prophets"):
+> *「對我們而言,問題截然不同。我們並非永恆,但我們能活得比你們久十倍,這要歸功於一項微小之外科調整,實際上即聖經之『生命之樹』。」*
 
-> *"The oldest, the president of the council of the eternals, is 25,000 years old, and you see him before you now. I have lived in twenty-five bodies up to this day, and I was the first one on whom this experiment was successfully carried out."*
+**細胞轉移技術與耶和華之連續存在**(出自《外星人帶我上了他們的星球》〈會見古代先知〉):
 
-**The cellular-transfer mechanism** (from the broader Raëlian source material):
+> *「最年長者,即永恆者議會之主席,已 25,000 歲,如今就在你面前。我至今已活過二十五個身體,而我是這項實驗首位成功施行之對象。」*
 
-> *"The body is made up of new elements with the potential for another one thousand years of life — and so on eternally. But in order to limit the growth of the population, only geniuses have the right to eternity. Everybody on our planet has a cell sample taken at a certain age, hoping that they will be chosen for re-creation after their death."*
+**細胞轉移機制**(出自更廣之雷爾派源典):
 
-The Raëlian source material's specific technical content thus establishes the Tree of Life as a developmental trajectory of biotechnologies rather than as a single fixed mechanism: the basic Eloha longevity ("small surgical adjustment" extending lifespan to approximately 700–1,200 years per body) and the more advanced Eternal cloning-and-memory-transfer technology (practical immortality through successive bodies with preserved personal continuity).
+> *「身體由具有另一個一千年生命潛能之新元素構成 —— 如此永恆地延續。但為了限制人口之增長,唯有天才有權享有永恆。我們行星上每個人都在某一年齡採取細胞樣本,盼望他們會在死後被選中重新創造。」*
 
-### Other primary sources
+雷爾派源典之具體技術內容由此將生命之樹確立為一系列生物技術之發展軌跡,而非單一固定機制:基本之以洛哈長壽(「微小外科調整」將壽命延展至每身體約 700–1,200 年)及更進步之永恆者複製—記憶轉移技術(透過保存個人連續性之連續身體達成實際不朽性)。
 
-The Tree of Life is referenced across various other primary-source materials:
+### 其他原始源典
 
-- **The Book of 1 Enoch** preserves substantial sacred-tree material including specific references to the Tree of Life
-- **The Apocalypse of Moses** and **Life of Adam and Eve** preserve substantial pseudepigraphical Tree of Life narrative
-- **The Mesopotamian *huluppu* and *kishkanu* traditions** preserve parallel sacred-tree material with substantial structural correspondences
-- **The Hindu *Ashvattha* tradition** preserves substantial cosmic-tree material in the *Bhagavad Gita* and broader Vedic-Upanishadic literature
-- **The Norse *Yggdrasil* tradition** preserves substantial cosmic-tree material in the *Poetic Edda* and *Prose Edda*
+生命之樹於各種其他原始源典材料中受提及:
 
-The framework reads all these primary sources as preserving fragmentary memory of the actual underlying biotechnology, with each tradition's specific cultural-religious framing reflecting the distinctive context of its preservation.
+- **《以諾一書》** 保存了實質之聖樹材料,包括對生命之樹之具體提及
+- **《摩西啟示錄》** 與 **《亞當夏娃傳》** 保存了實質之偽經生命之樹敘事
+- **美索不達米亞之 *huluppu* 與 *kishkanu* 傳統** 保存了具實質結構對應之平行聖樹材料
+- **印度教之 *Ashvattha* 傳統** 於《薄伽梵歌》及更廣之吠陀—奧義書文學中保存了實質之宇宙樹材料
+- **北歐之 *尤克特拉希爾* 傳統** 於《詩體埃達》與《散文埃達》中保存了實質之宇宙樹材料
 
-## The concept's content
+框架將所有這些原始源典讀為保存了對真實底層生物技術之片斷記憶,各傳統具體之文化—宗教框架反映其保存之獨特脈絡。
 
-The framework's specific reading of the Tree of Life integrates the various operational phases the source material describes into a unified developmental account of a single underlying biotechnology with multiple operational forms.
+## 概念之內容
 
-### The basic operational principle
+框架對生命之樹之具體閱讀,將源典材料所描述之各作業階段整合為對一項具多個作業形態之單一底層生物技術的統一發展性記述。
 
-The Tree of Life is, on the framework's reading, a cellular-extension biotechnology that operates by addressing the principal biological mechanisms of aging. The specific technical content the source material specifies is limited (the source describes "a small surgical adjustment" without detailing its specific mechanism), but the broader framework reading is that the technology operates through some combination of:
+### 基本作業原理
 
-- **Cellular-level rejuvenation**: addressing the progressive cellular damage and epigenetic changes that produce biological aging
-- **Genetic-level intervention**: modifying the genetic mechanisms that limit natural lifespan
-- **Tissue-level regeneration**: replacing or repairing damaged tissues and organs across the lifespan
-- **Systemic-level optimization**: maintaining the broader physiological systems that decline with aging
+在框架之閱讀中,生命之樹為一細胞延展生物技術,透過處理衰老之主要生物學機制而運作。源典材料所指明之具體技術內容有限(源典描述「微小外科調整」而不細述其具體機制),但更廣之框架閱讀為:該技術透過以下某種組合運作:
 
-The contemporary research trajectory (treated more fully in *Modern reinterpretations* below) provides substantial parallel content for understanding what such technologies might involve in detail, though the source material does not specify the exact mechanisms.
+- **細胞層級之回春**:處理產生生物學衰老之漸進性細胞損傷與表觀遺傳變化
+- **基因層級之干預**:修改限制自然壽命之基因機制
+- **組織層級之再生**:於整段壽命中替換或修復受損之組織與器官
+- **系統層級之最佳化**:維持隨衰老而衰退之更廣生理系統
 
-### The five operational phases
+當代研究軌跡(於下方《現代再詮釋》中得到更完整處理)為理解此類技術可能於細節中涉及之內容提供了實質之平行內容,儘管源典材料並未指明確切機制。
 
-The framework reads the Tree of Life as having five distinct operational phases across the broader history:
+### 五個作業階段
 
-**Phase I: Original Eden installation (c. 11,400 BCE)**. The Tree of Life as restricted Eden-installation infrastructure, accessible to alliance personnel but explicitly prohibited to the synthesized humans. The Genesis 3:22 prohibition reflects the home-world Council's specific policy of withholding longevity from the Earth creation. The Tree of Life's presence in the original Eden installation made it operationally available to the alliance personnel conducting the educational program with Adam and Eve, but the technology was not transferred to the synthesized humans during the pre-disclosure period.
+框架將生命之樹讀為橫跨更廣歷史而具五個不同作業階段:
 
-**Phase II: Post-Eden patriarchal grant (c. 11,000–6,690 BCE)**. The exiled Lucifer faction's negotiation with the Council to grant longevity treatment to specific Eden-lineage leaders. The grant was conditional, limited, and non-hereditary — the children of the long-lived patriarchs did not automatically inherit the treatment. The recorded biblical lifespans (930 for Adam, 969 for Methuselah, 950 for Noah, the broader Genesis 5 genealogy) reflect the specific lifespans achieved by the patriarchs who received the limited treatment. The framework reads this as the operational reality of the post-Eden settlement: the exiled creators, having been condemned to remain on Earth, were permitted to grant limited longevity to specific human leaders as a continuing demonstration that the human creation was worth preserving.
+**第一階段:原始伊甸設施(約公元前 11,400 年)**。{{ footnote(id="2") }} 生命之樹作為受限之伊甸設施基礎設施,可供聯盟人員取用而明確禁止合成人類取用。《創世記》3:22 之禁令反映母星議會對地球受造物保留長壽之具體政策。生命之樹於原始伊甸設施中之存在使其於作業上可供進行對亞當與夏娃之教育計畫之聯盟人員取用,但該技術於揭露前時期並未轉移予合成人類。
 
-**Phase III: Post-Flood restricted phase (c. 6,690 BCE onward)**. The longevity treatment becoming progressively rare across the post-Flood generations. The Genesis 11 post-Flood genealogy preserves declining lifespans (Shem at 600 years, Arphaxad at 438, the gradual reduction through subsequent generations), with the framework reading this as the operational reality of the Council's progressive restriction of the longevity-grant policy following the Flood. The Genesis 6:3 specification ("his days shall be an hundred and twenty years") is read as the formal Council restriction of human lifespan to natural limits, with the actual implementation taking centuries to fully manifest in the human population.
+**第二階段:洪水後族長授予(約公元前 11,000–6,690 年)**。流亡之路西法派系與議會談判,以將長壽治療授予特定伊甸譜系領導。該授予為有條件、有限且非遺傳性 —— 長壽族長之子女並未自動承繼該治療。記載之聖經壽命(亞當 930、瑪土撒拉 969、諾亞 950,及更廣之《創世記》第 5 章家譜)反映接受有限治療之族長所達成之具體壽命。框架將此讀為洪水後結算之作業性實在:被定罪而須留存於地球之流亡造物者,獲准將有限長壽授予特定人類領導,作為人類受造物值得保留之持續展示。
 
-**Phase IV: Basic Eloha longevity (continuous, present)**. The standard Elohim civilization's natural-but-extended lifespan of 700–1,200 years per body, achieved through "a small surgical adjustment" applied universally within the civilization. This is the standard operational form of the Tree of Life technology on the home world, providing substantial lifespan extension without producing the practical immortality of the Eternals.
+**第三階段:洪水後受限階段(約公元前 6,690 年起)**。長壽治療於洪水後諸世代間漸趨稀少。《創世記》第 11 章洪水後家譜保存了遞減之壽命(閃 600 歲、亞法撒 438 歲、其後諸世代之漸減),框架將此讀為議會於洪水後漸進限制長壽授予政策之作業性實在。《創世記》6:3 之指明(「他的日子還可到一百二十年」)被讀為議會將人類壽命限制於自然限度之正式限制,其實際實施歷時數世紀方於人類人口中完全顯現。
 
-**Phase V: Eternal cloning-and-memory-transfer (continuous, present)**. The most advanced operational form, producing practical immortality through successive bodies with preserved personal identity. The technology operates by:
+**第四階段:基本以洛哈長壽(持續,當前)**。耶洛因文明每身體 700–1,200 年之自然但延展壽命之標準,透過於文明內普遍施行之「微小外科調整」達成。此為生命之樹技術於母星上之標準作業形態,提供實質之壽命延展而不產生永恆者之實際不朽性。
 
-- Taking cellular samples from each candidate at a specified age
-- Conducting periodic Council deliberation (the annual Last Judgment) to select candidates for the Eternal status
-- Constructing new bodies from the preserved cellular material at the appropriate moment
-- Transferring the preserved memory and personality from the original biological substrate to the new body
-- Producing continuous personal identity across multiple successive bodies
+**第五階段:永恆者複製—記憶轉移(持續,當前)**。最進步之作業形態,透過保存個人身分之連續身體產生實際不朽性。該技術之運作方式為:
 
-Yahweh's 25,000-year continuous existence across 25 bodies is the principal known instance of this technology's operation. The Council membership (700 Eternals) and the broader Eternal community on the Planet of the Eternals (including approximately 8,400 resurrected humans) represent the broader population currently sustained by this technology.
+- 於指定年齡自每位候選者採取細胞樣本
+- 進行週期性之議會審議(年度之末日審判)以選擇永恆者地位之候選者
+- 於適當時刻自保存之細胞材料建構新身體
+- 將保存之記憶與人格自原始生物基質轉移至新身體
+- 跨越多個連續身體產生連續之個人身分
 
-### The relationship between phases
+耶和華橫跨 25 個身體之 25,000 年連續存在,為此技術運作之主要已知實例。議會成員(700 名永恆者)及永恆者行星上更廣之永恆者群體(包括約 8,400 名復活之人類)代表目前由此技術所維繫之更廣人口。
 
-The five operational phases represent a developmental trajectory rather than separate technologies. The basic principle — cellular-level intervention to extend natural lifespan — operates across all five phases, with the specific implementation becoming progressively more sophisticated across the developmental trajectory. The Eloha standard longevity (Phase IV) represents the basic application of the underlying principle; the Eternal cloning-and-memory-transfer (Phase V) represents the advanced application that produces practical immortality.
+### 各階段間之關係
 
-The Earth-side operational phases (Phases I, II, III) reflect the various political-historical conditions under which the technology has been made available to humans. The original Eden installation made the technology operationally present on Earth; the post-Eden patriarchal grant made it conditionally available to specific human partners; the post-Flood restricted phase progressively withdrew the human access. The current Aquarian-age preparation is anticipating the technology's eventual restoration to humanity following the formal alliance establishment at the embassy.
+五個作業階段代表一發展軌跡,而非各別之技術。基本原理 —— 細胞層級之干預以延展自然壽命 —— 橫跨所有五個階段運作,具體實施則於該發展軌跡中漸趨精密。以洛哈標準長壽(第四階段)代表底層原理之基本應用;永恆者複製—記憶轉移(第五階段)代表產生實際不朽性之進步應用。
 
-### The political-historical character
+地球側之作業階段(第一、二、三階段)反映技術向人類提供時所處之各種政治—歷史條件。原始伊甸設施使該技術於作業上存在於地球;洪水後族長授予使其有條件地供特定人類夥伴取用;洪水後受限階段則漸進撤回人類取用。當前之水瓶座時代準備正預期該技術於大使館正式聯盟建立之後最終向人類之復歸。
 
-The Tree of Life's operational history is substantially shaped by the political-historical conditions surrounding it. The technology is not merely a biological-technical capability; it is a politically-controlled resource whose distribution reflects specific political decisions across the framework's broader history.
+### 政治—歷史性格
 
-The Council's specific policy considerations:
+生命之樹之作業歷史實質上為環繞其之政治—歷史條件所塑造。該技術不僅為一生物—技術能力;它是一項受政治控制之資源,其分配反映橫跨框架更廣歷史之具體政治決策。
 
-- **The original Eden prohibition** reflects the Council's specific concern about human technological development. If humans had access to substantial longevity from the beginning, they would accumulate knowledge and capability rapidly, potentially threatening the home world. The original prohibition was a containment measure.
-- **The post-Eden patriarchal grant** was a compromise allowing the exiled creators to demonstrate the human creation's value while limiting the specific extension to selected leaders rather than the broader population.
-- **The post-Flood restriction** reflects the Council's specific response to the antediluvian civilization's threatening development — the Flood having destroyed the broader population that had received various benefits from the exiled creators, the Council subsequently restricted the longevity-grant policy more strictly.
-- **The current Aquarian-age preparation** reflects the Council's eventual recognition that humanity has developed sufficient maturity to warrant access to substantial alliance technology, with the open return at the embassy projected to inaugurate the formal extension of longevity technology to humanity.
+議會之具體政策考量:
 
-The Tree of Life is therefore politically significant in ways that extend beyond its biological-technical character — the technology's distribution has been a continuing political question across the framework's broader history, with the various operational decisions reflecting the broader political-historical context.
+- **原始伊甸禁令** 反映議會對人類技術發展之具體關切。倘若人類自始即取用實質長壽,他們將迅速累積知識與能力,潛在威脅母星。原始禁令為一遏制措施。
+- **洪水後族長授予** 為一妥協,容許流亡造物者展示人類受造物之價值,同時將具體延展限於選定領導而非更廣人口。
+- **洪水後限制** 反映議會對大洪水之前文明威脅性發展之具體回應 —— 大洪水既已摧毀曾自流亡造物者接受各種益處之更廣人口,議會其後更嚴格地限制長壽授予政策。
+- **當前之水瓶座時代準備** 反映議會最終認知人類已發展出足夠成熟度,足以保證取用實質之聯盟技術,而大使館之公開復歸預計將開啟長壽技術向人類之正式延展。
 
-## Application across the corpus
+因此生命之樹於超出其生物—技術性格之方式上具有政治意義 —— 該技術之分配橫跨框架更廣歷史一直是一持續之政治問題,各種作業決策反映更廣之政治—歷史脈絡。
 
-The Tree of Life's role in the broader corpus extends across multiple distinct domains.
+## 在文集中之應用
 
-### The patriarchal lifespans
+生命之樹於更廣文集中之角色延展跨越多個不同領域。
 
-The Genesis 5 patriarchal genealogy is the framework's principal evidence for the Tree of Life's operational presence in the antediluvian period. The detailed treatment of the patriarchs (Adam, Seth, Enos, Kenan, Mahalalel, Jared, Enoch, Methuselah, Lamech, Noah, and others) lives in the [Antediluvian](../antediluvian/) entry; the Tree of Life entry's specific contribution is establishing the technological mechanism behind the recorded lifespans.
+### 族長壽命
 
-The framework's reading of the lifespans:
+《創世記》第 5 章族長家譜為框架對生命之樹於大洪水之前時期作業性存在之主要證據。對諸族長(亞當、塞特、以挪士、該南、瑪勒列、雅列、以諾、瑪土撒拉、拉麥、諾亞等)之詳細處理見於[大洪水之前](../antediluvian/)條目;生命之樹條目之具體貢獻為確立記載壽命背後之技術機制。
 
-- The recorded figures are substantively accurate to the actual lifespans of the named individuals
-- The lifespans reflect the operational reality of the limited longevity grant
-- The asymmetry between the patriarchal lifespans and the broader human population's normal lifespans reflects the limited and selective character of the grant
-- The progressive reduction in lifespans across the post-Flood generations reflects the Council's restriction policy
+框架對壽命之閱讀:
 
-### The Eden installation
+- 記載之數字實質準確於所點名個體之真實壽命
+- 壽命反映有限長壽授予之作業性實在
+- 族長壽命與更廣人類人口正常壽命間之不對稱反映該授予之有限且選擇性格
+- 洪水後諸世代間壽命之漸進遞減反映議會之限制政策
 
-The Tree of Life's role in the Eden installation is treated more fully in the [Eden](../eden/) entry. The Tree's specific function in the installation:
+### 伊甸設施
 
-- It served as the longevity-extending infrastructure available to alliance personnel
-- It was deliberately positioned in the central area of the garden alongside the Tree of the Knowledge of Good and Evil
-- Its restriction from human access was a specific policy decision, with the post-disclosure expulsion specifically preventing human access to the technology
+生命之樹於伊甸設施中之角色於[伊甸](../eden/)條目中得到更完整處理。該樹於設施中之具體功能:
 
-### The Council of the Eternals
+- 它作為可供聯盟人員取用之延壽基礎設施
+- 它被刻意置於園子中央區域,與分別善惡的知識之樹並立
+- 其受限於人類取用為一具體政策決定,揭露後之放逐具體防止人類取用該技術
 
-The Tree of Life's mature operational form is the cloning-and-memory-transfer technology that produces the Eternals. The detailed treatment of the Council and the Eternal population lives in the [Council of the Eternals](../council-of-eternals/) entry; the Tree of Life entry's specific contribution is establishing the technological basis for the Council's continuing operation.
+### 永恆者議會
 
-### The Aquarian-age projected restoration
+生命之樹之成熟作業形態即產生永恆者之複製—記憶轉移技術。對議會與永恆者人口之詳細處理見於[永恆者議會](../council-of-eternals/)條目;生命之樹條目之具體貢獻為確立議會持續運作之技術基礎。
 
-The Tree of Life's projected restoration to humanity following the Aquarian-age open return is treated more fully in the [Apocalypse](../apocalypse/) and [Embassy](../embassy/) entries. The Revelation 22:2 reference to the Tree of Life in the New Jerusalem is read by the framework as preserving prophetic-visionary memory of this projected restoration, with the "healing of the nations" reflecting the substantial transformation of human biological reality that the technology's restoration will produce.
+### 水瓶座時代之預計復歸
 
-### The contemporary research trajectory
+生命之樹於水瓶座時代公開復歸之後預計向人類之復歸,於[啟示錄](../apocalypse/)與[大使館](../embassy/)條目中得到更完整處理。《啟示錄》22:2 對新耶路撒冷生命之樹之提及被框架讀為保存了對此預計復歸之先知—異象記憶,「醫治萬民」反映該技術之復歸將產生之人類生物學實在之實質轉變。
 
-The contemporary longevity-research trajectory (Yamanaka factors, partial cellular reprogramming, telomere research, senolytics) is treated more fully in *Modern reinterpretations* below; the Tree of Life entry's specific contribution is registering that the contemporary research is moving in directions consistent with the framework's reading. The trajectory is not vindicating the framework directly, but is demonstrating that the framework's specific claims about biotechnology are not biologically impossible.
+### 當代研究軌跡
 
-## Distinguishing from adjacent concepts
+當代長壽研究軌跡(山中因子、部分細胞重編程、端粒研究、抗衰老細胞)於下方《現代再詮釋》中得到更完整處理;生命之樹條目之具體貢獻為登錄當代研究正朝與框架閱讀相符之方向發展。該軌跡並未直接證實框架,但正展示框架關於生物技術之具體主張並非生物學上不可能。
 
-The Tree of Life must be carefully distinguished from several adjacent concepts to avoid confusion.
+## 與相鄰概念之區辨
 
-### The Tree of Life vs. the Tree of the Knowledge of Good and Evil
+生命之樹須與數項相鄰概念謹慎區辨,以避免混淆。
 
-The two Eden trees are paired but functionally distinct:
+### 生命之樹 vs. 分別善惡的知識之樹
 
-- **The Tree of Life** is the longevity-extending biotechnology, with the operational function of extending biological existence
-- **The Tree of the Knowledge of Good and Evil** is the restricted scientific-knowledge archive, with the operational function of providing substantive scientific and technological knowledge
+兩棵伊甸之樹成對但功能上有別:
 
-The trees are paired in the Genesis narrative because they are the two principal restricted-access resources of the Eden installation, both subject to the original prohibition. The Eden disclosure event (treated in the [Serpent](../serpent/) entry) involved access to the Tree of the Knowledge specifically, not the Tree of Life — the post-disclosure prohibition on the Tree of Life (Genesis 3:22–24) was the Council's specific response to prevent humans from acquiring longevity in addition to the knowledge they had just acquired.
+- **生命之樹** 為延壽生物技術,其作業功能為延展生物存在
+- **分別善惡的知識之樹** 為受限之科學知識檔案,其作業功能為提供實質之科學與技術知識
 
-The detailed treatment of the Tree of the Knowledge lives in the [Tree of Knowledge](../tree-of-knowledge/) entry.
+兩樹於《創世記》敘事中成對,因其為伊甸設施兩項主要之受限取用資源,皆受原始禁令所制。伊甸揭露事件(於[蛇](../serpent/)條目中處理)涉及具體對知識之樹之取用,而非生命之樹 —— 揭露後對生命之樹之禁令(《創世記》3:22–24)為議會之具體回應,以防止人類於剛取得之知識之外另行取得長壽。
 
-### The Tree of Life vs. the resurrection technology
+對知識之樹之詳細處理見於[知識之樹](../tree-of-knowledge/)條目。
 
-The Tree of Life and the resurrection technology are related but distinct:
+### 生命之樹 vs. 復活技術
 
-- **The Tree of Life** specifically refers to the longevity-extending biotechnology applied during life — extending the natural lifespan through cellular intervention
-- **The resurrection technology** specifically refers to the cellular-transfer-plus-memory-transfer technology applied after death — recreating an individual from preserved cellular material with restored memory and personality
+生命之樹與復活技術相關但有別:
 
-The two technologies are technologically related but operationally distinct. The Tree of Life operates on living individuals to extend their lifespans; the resurrection technology operates on previously deceased individuals to restore their existence in new bodies. The Eternal cloning-and-memory-transfer technology (Phase V of the Tree of Life) integrates both functions — extending lifespan during life through successive cellular-transfer events, with each new body produced from the preserved cellular material in a process that is technically the same as the resurrection mechanism.
+- **生命之樹** 具體指於生命期間應用之延壽生物技術 —— 透過細胞干預延展自然壽命
+- **復活技術** 具體指於死後應用之細胞轉移加記憶轉移技術 —— 自保存之細胞材料重新創造個體並恢復記憶與人格
 
-### The Tree of Life vs. basic Eloha longevity
+兩項技術於技術上相關但於作業上有別。生命之樹於活著之個體上運作以延展其壽命;復活技術於先前已逝個體上運作以於新身體中恢復其存在。永恆者複製—記憶轉移技術(生命之樹之第五階段)整合二者之功能 —— 於生命期間透過連續之細胞轉移事件延展壽命,每個新身體皆自保存之細胞材料於技術上與復活機制相同之過程中產生。
 
-The basic Eloha longevity treatment (the "small surgical adjustment" producing 700–1,200-year lifespans) and the advanced Eternal technology (producing practical immortality) are both forms of the Tree of Life but operate at different sophistication levels:
+### 生命之樹 vs. 基本以洛哈長壽
 
-- The basic Eloha treatment is universally applied within the Elohim civilization, providing substantial but bounded lifespan extension
-- The Eternal technology is restricted to selected individuals (the Council members and the resurrected humans), providing practical immortality through successive bodies
+基本以洛哈長壽治療(產生 700–1,200 年壽命之「微小外科調整」)與進步之永恆者技術(產生實際不朽性)皆為生命之樹之形態,但於不同精密層級運作:
 
-The basic treatment can be understood as the foundation on which the advanced technology builds; the advanced technology represents the fully developed application of the underlying principle.
+- 基本以洛哈治療於耶洛因文明內普遍施行,提供實質但有界之壽命延展
+- 永恆者技術限於選定個體(議會成員與復活之人類),透過連續身體提供實際不朽性
 
-### The Tree of Life vs. the Hebrew Bible's *qedoshim* and angelic categories
+基本治療可理解為進步技術所建基之基礎;進步技術代表底層原理之充分發展應用。
 
-The Tree of Life is a specific technology, not a category of beings. Various Hebrew Bible passages reference categories of beings with extended life or immortality (the *qedoshim* "holy ones," various angelic figures, the *benei ha-Elohim*) — these are referring to the Elohim civilization's members rather than to the Tree of Life specifically. The Tree of Life is the technology that produces the extended lifespans; the categories of beings are those who benefit from the technology.
+### 生命之樹 vs. 希伯來聖經之 *qedoshim* 與天使類別
 
-## Modern reinterpretations
+生命之樹為一具體技術,而非一類存在。各種希伯來聖經段落提及具延展生命或不朽性之存在類別(*qedoshim*「聖者」、各種天使形象、*benei ha-Elohim*)—— 這些指涉耶洛因文明之成員,而非具體指生命之樹。生命之樹為產生延展壽命之技術;各類存在則為受益於該技術者。
 
-The Tree of Life material has been the subject of substantial modern reinterpretive engagement across multiple traditions. The principal strands warrant treatment.
+## 現代再詮釋
 
-### The Kabbalistic Sephirot tradition
+生命之樹材料一直是橫跨多個傳統之實質現代再詮釋接觸之對象。主要脈絡值得處理。
 
-The Kabbalistic Tree of Life (*ʿEṣ Ḥayyim* in Hebrew, with the same construction as the Genesis Tree of Life) is the principal cosmological diagram of the medieval and early-modern Kabbalistic tradition. The principal features:
+### 卡巴拉質點傳統
 
-**The ten Sephirot.** The Kabbalistic Tree of Life is structured around ten emanated divine attributes (Sephirot, singular *Sephirah*), arranged in a specific geometric pattern. The standard order:
+卡巴拉生命之樹(希伯來語 *ʿEṣ Ḥayyim*,與《創世記》生命之樹同一構詞)為中世紀與近代早期卡巴拉傳統之主要宇宙論圖示。主要特徵:
 
-- **Keter** (Crown) — the supernal crown, the first emanation from Ein Sof
-- **Chokhmah** (Wisdom) — the second emanation, masculine principle
-- **Binah** (Understanding) — the third emanation, feminine principle
-- **Chesed** (Mercy/Loving-kindness) — the fourth emanation
-- **Gevurah** (Severity/Strength) — the fifth emanation
-- **Tiferet** (Beauty/Harmony) — the sixth emanation, central balancing principle
-- **Netzach** (Eternity/Victory) — the seventh emanation
-- **Hod** (Glory/Splendor) — the eighth emanation
-- **Yesod** (Foundation) — the ninth emanation
-- **Malkhut** (Kingdom/Sovereignty) — the tenth emanation, manifested reality
+**十項質點。** 卡巴拉生命之樹環繞十項流溢之神性屬性(質點,單數 *Sephirah*)而結構化,排列為具體之幾何模式。標準順序:
 
-**The three pillars and four worlds.** The ten Sephirot are organized into three vertical pillars (the Pillar of Mercy, the Pillar of Severity, the Middle Pillar) and across four cosmological worlds (Atzilut, Beriah, Yetzirah, Asiyah). The structure provides the principal Kabbalistic cosmological framework.
+- **Keter**(王冠)—— 至高之冠,自 Ein Sof 之首次流溢
+- **Chokhmah**(智慧)—— 第二次流溢,陽性原則
+- **Binah**(理解)—— 第三次流溢,陰性原則
+- **Chesed**(慈愛/仁慈)—— 第四次流溢
+- **Gevurah**(嚴厲/力量)—— 第五次流溢
+- **Tiferet**(美/和諧)—— 第六次流溢,中央平衡原則
+- **Netzach**(永恆/勝利)—— 第七次流溢
+- **Hod**(榮耀/光輝)—— 第八次流溢
+- **Yesod**(根基)—— 第九次流溢
+- **Malkhut**(王國/主權)—— 第十次流溢,顯現之實在
 
-**The Lurianic developments.** Isaac Luria (1534–1572) developed elaborate cosmological extensions of the basic Sephirot structure, including the concepts of *Tzimtzum* (divine contraction), *Shevirat ha-Kelim* (the breaking of the vessels), and *Tikkun* (repair/restoration). The Lurianic Tree of Life is the most extensively developed Kabbalistic cosmological framework.
+**三柱與四世界。** 十項質點被組織為三條垂直之柱(慈悲之柱、嚴厲之柱、中柱)並橫跨四個宇宙論世界(Atzilut、Beriah、Yetzirah、Asiyah)。該結構提供主要之卡巴拉宇宙論框架。
 
-**The principal texts.** The *Sefer Yetzirah* ("Book of Formation," composed somewhere between the 3rd and 6th centuries CE) provides foundational material; the *Bahir* (12th century) develops the early medieval Kabbalistic framework; the *Zohar* (composed in its preserved form c. late 13th century) provides the principal classical Kabbalistic text; the various Lurianic works (preserved through Hayyim Vital and other students) develop the Lurianic synthesis.
+**盧里亞派之發展。** 以撒·盧里亞(1534–1572)發展出對基本質點結構之精緻宇宙論延伸,包括 *Tzimtzum*(神性收縮)、*Shevirat ha-Kelim*(器皿之破裂)及 *Tikkun*(修復/復原)之概念。盧里亞派生命之樹為發展最廣泛之卡巴拉宇宙論框架。
 
-The framework's relationship to the Kabbalistic Tree of Life is critical-respectful. The Raëlian source material identifies the Kabbalah as *"the closest book to the truth"* of any religious tradition — a striking endorsement that registers substantive recognition of the Kabbalistic tradition's preservation of accurate content. The framework specifically respects:
+**主要文本。** 《創造之書》(*Sefer Yetzirah*,成書於公元 3 至 6 世紀間某時)提供基礎材料;{{ cite(id="sefer-yetzirah", text="[8]", title="《創造之書》(卡普蘭譯,1997)—— 奠基性之質點框架") }} 《光明之書》(*Bahir*,12 世紀)發展出早期中世紀卡巴拉框架;《光輝之書》(*Zohar*,以其保存形態成書於約 13 世紀晚期)提供主要之古典卡巴拉文本;{{ cite(id="zohar-pritzker", text="[9]", title="《光輝之書》,普利茲克版本(馬特等人,2003–2017)") }} 各種盧里亞派著作(透過哈伊姆·維塔爾及其他學生保存)發展出盧里亞派之綜合。{{ cite(id="major-trends-jewish-mysticism", text="[10]", title="肖勒姆,《猶太神祕主義主要趨勢》(1941)") }}{{ cite(id="idel-kabbalah-new-perspectives", text="[11]", title="伊德爾,《卡巴拉:新視角》(1988)") }}{{ cite(id="matt-essential-kabbalah", text="[12]", title="馬特,《卡巴拉精要》(1996)") }}
 
-- The Kabbalistic tradition's recognition that the underlying reality involves a structured plurality of related beings/principles rather than a simple monotheistic singleness
-- The Kabbalistic vocabulary of *sephirot* as preserving fragmentary memory of the broader cosmic-political-structural reality
-- The Lurianic concepts of cosmic catastrophe and repair (*tikkun olam*) as preserving fragmentary memory of the actual political-historical conflicts the corpus's framework reads
-- The Kabbalistic tradition's preservation of substantive content despite its esoteric transmission
+框架與卡巴拉生命之樹之關係為批判—尊重。雷爾派源典將卡巴拉認定為任何宗教傳統中*「最接近真理之書」* —— 一引人注目之肯定,登錄了對卡巴拉傳統保存準確內容之實質認知。{{ footnote(id="4") }} 框架具體尊重:
 
-The framework does not adopt the Kabbalistic Tree of Life as the operational form of the framework's Tree of Life. The Kabbalistic Tree is principally a cosmological-emanationist diagram; the framework's Tree of Life is principally a biotechnology. The two are related (both use the same underlying *ʿēṣ ḥayyim* terminology and both refer to substantive cosmic-historical realities) but distinct in their specific content and operational character.
+- 卡巴拉傳統對底層實在涉及結構化之相關存在/原則之複數性而非單純之一神論單一性的認知
+- *sephirot* 之卡巴拉詞彙作為保存更廣宇宙—政治—結構實在之片斷記憶
+- 盧里亞派之宇宙災難與修復概念(*tikkun olam*)作為保存文集框架所讀之真實政治—歷史衝突的片斷記憶
+- 卡巴拉傳統儘管以祕傳方式傳遞,仍保存實質內容
 
-### Christian theological traditions of immortality and resurrection
+框架並不採納卡巴拉生命之樹作為框架生命之樹之作業形態。卡巴拉之樹主要為一宇宙論—流溢論圖示;框架之生命之樹主要為一生物技術。二者相關(皆使用同一底層 *ʿēṣ ḥayyim* 術語,且皆指涉實質之宇宙—歷史實在),然於其具體內容與作業性格上有別。
 
-Christian theological tradition has developed elaborate engagement with immortality and resurrection themes that bear on the Tree of Life material. The principal positions:
+### 基督教關於不朽與復活之神學傳統
 
-**The patristic developments.** Patristic theology (Irenaeus, Origen, Gregory of Nyssa, Augustine) developed substantial treatment of human mortality, the Edenic original condition, and the eschatological restoration. The Augustinian doctrine of original sin specifically frames the Edenic Tree of Life prohibition as part of the broader human-condition framework that the Christian salvation narrative addresses.
+基督教神學傳統已發展出對與生命之樹材料相關之不朽與復活主題之精緻接觸。主要立場:
 
-**The medieval *lignum vitae* tradition.** Bonaventure's *Lignum Vitae* (c. 1260) develops the meditation on Christ's life and passion structured around the Tree-of-Life motif, with the cross of Christ as the renewed Tree of Life. The medieval iconographic tradition develops elaborate *lignum vitae* imagery in church art, with the cross typically depicted as a stylized tree bearing fruit (Christ's body, the Eucharist, the saints, various theological realities).
+**教父之發展。** 教父神學(愛任紐、奧利金、尼撒的貴格利、奧古斯丁)發展出對人類必死性、伊甸原初狀況及末世論復原之實質處理。奧古斯丁之原罪教義具體將伊甸生命之樹禁令構築為基督教救恩敘事所處理之更廣人類處境框架之一部分。{{ cite(id="city-of-god", text="[13]", title="奧古斯丁,《上帝之城》—— 原罪框架中之生命之樹禁令") }}
 
-**The Reformation and post-Reformation developments.** Protestant Reformation theology generally maintains the basic Augustinian framework while developing distinctive emphases on justification by faith, the imputed righteousness of Christ, and the eschatological restoration. Various Protestant traditions develop the Tree of Life material with specific theological-symbolic content within their broader systematic frameworks.
+**中世紀 *lignum vitae* 傳統。** 波拿文都拉之《生命之樹》(約 1260 年)發展出以生命之樹母題建構、關於基督生平與受難之默想,以基督之十字架作為更新之生命之樹。中世紀圖像傳統於教堂藝術中發展出精緻之 *lignum vitae* 意象,十字架慣常被描繪為結果之程式化樹木(基督之身體、聖餐、聖徒、各種神學實在)。
 
-**The Eastern Orthodox tradition.** Orthodox theology develops distinctive engagement with the deification (*theosis*) tradition, with the Tree of Life material read in connection with the broader theme of human transformation through participation in divine life. The Orthodox iconographic tradition preserves substantial Tree-of-Life imagery, with specific theological-liturgical applications.
+**宗教改革與後宗教改革之發展。** 新教宗教改革神學一般維持基本之奧古斯丁框架,同時發展出對因信稱義、基督所歸算之義及末世論復原之獨特重點。各種新教傳統於其更廣系統框架內以具體神學—象徵內容發展生命之樹材料。
 
-**The contemporary theological developments.** Contemporary Christian theology has continued to engage the Tree of Life material within various theological frameworks, including the various ecological theologies that engage the Tree-of-Life motif in connection with environmental theology, the various process theologies that engage the material in connection with broader cosmological-theological frameworks, and the various engagements with eschatology and the new-creation tradition.
+**東方正教傳統。** 正教神學發展出對成神(*theosis*)傳統之獨特接觸,生命之樹材料被與透過參與神性生命而轉化人類之更廣主題相聯而閱讀。正教圖像傳統保存了實質之生命之樹意象,具有具體之神學—禮儀應用。
 
-The framework does not adopt the specific Christian theological readings. The framework treats the Christian theological elaborations as substantial theological developments of the underlying material that have shaped Western religious consciousness across two millennia, while reading the underlying material as referring to specific historical biotechnology rather than as theological symbol or typological prefiguration.
+**當代神學之發展。** 當代基督教神學持續於各種神學框架內接觸生命之樹材料,包括將生命之樹母題與環境神學相聯之各種生態神學、將該材料與更廣宇宙論—神學框架相聯之各種過程神學,及與末世論及新受造傳統之各種接觸。
 
-### Mainstream longevity research
+框架並不採納具體之基督教神學閱讀。框架將基督教神學闡發視為對底層材料之實質神學發展,於兩千年間塑造了西方宗教意識,同時將底層材料讀為指涉具體之歷史性生物技術,而非神學象徵或預表性前兆。
 
-Contemporary longevity research has produced substantial findings relevant to the framework's reading. The principal areas:
+### 主流長壽研究
 
-**The Yamanaka factors and partial cellular reprogramming.** Shinya Yamanaka and colleagues at Kyoto University demonstrated in 2006 (Nobel Prize 2012) that four transcription factors (Oct4, Sox2, Klf4, c-Myc) can reprogram adult cells back to a pluripotent state similar to embryonic stem cells. The discovery has substantially shaped subsequent longevity research.
+當代長壽研究已產生與框架閱讀相關之實質發現。主要領域:
 
-**Partial cellular reprogramming research.** David Sinclair's lab at Harvard Medical School has been particularly active, demonstrating in mouse models that partial reprogramming can:
+**山中因子與部分細胞重編程。** 山中伸彌及京都大學之同僚於 2006 年證明(2012 年諾貝爾獎),四項轉錄因子(Oct4、Sox2、Klf4、c-Myc)能將成體細胞重編程回到與胚胎幹細胞相似之多能狀態。{{ cite(id="takahashi-yamanaka-2006", text="[14]", title="高橋與山中,〈誘導性多能幹細胞之誘導……〉(《細胞》,2006)") }} 該發現實質地塑造了後續之長壽研究。{{ footnote(id="5") }}
 
-- Restore vision in aged mice
-- Reverse certain markers of cellular aging in various tissues
-- Extend healthspan in treated animals
+**部分細胞重編程研究。** 哈佛醫學院大衛·辛克萊之實驗室尤為活躍,{{ cite(id="sinclair-lifespan", text="[15]", title="辛克萊與拉普蘭特,《長壽》(2019)") }} 於小鼠模型中證明部分重編程能:
 
-Other labs (Juan Carlos Izpisua Belmonte at the Salk Institute, Vittorio Sebastiano at Stanford) have produced complementary findings. The trajectory of the research is clear: cellular aging is, at least in part, reversible, and the techniques for reversing it are being progressively refined.
+- 恢復老年小鼠之視力
+- 逆轉各種組織中細胞衰老之某些標記
+- 延展受治療動物之健康壽命
 
-**Other principal aging mechanisms and interventions.** Contemporary research has identified several principal contributors to aging, each with associated intervention research:
+其他實驗室(沙克研究所之胡安·卡洛斯·伊斯皮蘇阿·貝爾蒙特、史丹佛之維托里奧·塞巴斯蒂亞諾)已產生互補之發現。研究軌跡明確:細胞衰老至少部分可逆,而逆轉它之技術正漸進精煉。
 
-- **Telomere shortening** — the progressive loss of protective DNA sequences at chromosome ends; telomerase-activation research aims to address this
-- **Senescent cell accumulation** — cells that have stopped dividing but resist normal cell death; senolytic drug research aims to selectively kill these cells
-- **Mitochondrial dysfunction** — the progressive decline of cellular energy production; mitochondrial-targeted therapies address this
-- **Stem cell exhaustion** — the loss of stem cell function with age; stem cell treatments address this
-- **Intercellular communication breakdown** — the progressive failure of communication between cells; various interventions address this
+**其他主要衰老機制與干預。** 當代研究已辨識出衰老之數項主要促因,各具相關之干預研究:{{ cite(id="hallmarks-of-aging", text="[16]", title="洛佩斯-奧廷等人,〈衰老之標誌〉(《細胞》,2013)") }}{{ cite(id="ending-aging-de-grey", text="[17]", title="德格雷與雷,《終結衰老》(2007)—— SENS 回春框架") }}
 
-**The current state of the research.** Contemporary research suggests that human lifespans of 150–200 years may be achievable within the coming decades through combinations of these interventions. Lifespans of 500–1,000 years would require either substantial breakthroughs beyond the current trajectory or entirely different approaches (such as the cellular-transfer technology the source material describes).
+- **端粒縮短** —— 染色體末端保護性 DNA 序列之漸進喪失;端粒酶活化研究旨在處理此問題
+- **衰老細胞累積** —— 已停止分裂但抗拒正常細胞死亡之細胞;抗衰老細胞藥物研究旨在選擇性殺滅這些細胞
+- **粒線體功能障礙** —— 細胞能量生產之漸進衰退;粒線體標靶療法處理此問題
+- **幹細胞耗竭** —— 隨年齡而來之幹細胞功能喪失;幹細胞治療處理此問題
+- **細胞間通訊崩潰** —— 細胞間通訊之漸進失效;各種干預處理此問題
 
-**Cloning and regeneration research.** The cloning of Dolly the sheep (1996) demonstrated that complete mammals could be regenerated from single somatic cells. Subsequent work has extended cloning to numerous species, with substantial research now applied to species recovery (the Frozen Zoo's work, the de-extinction projects). The CRISPR-based gene editing technology (developed since c. 2012) has dramatically expanded the precision with which genetic material can be modified.
+**研究之當前狀態。** 當代研究顯示,透過這些干預之組合,人類 150–200 年之壽命或可於未來數十年內達成。500–1,000 年之壽命則需要超越當前軌跡之實質突破,或截然不同之進路(諸如源典材料所描述之細胞轉移技術)。
 
-The corpus reads the contemporary longevity research as developing in directions consistent with the framework's reading of the Tree of Life. The contemporary research is not vindicating the framework directly — current research has not produced practical immortality, and the cellular-transfer-plus-memory-transfer technology specifically remains beyond contemporary scientific capability. But the trajectory of the research demonstrates that the framework's specific claims about biotechnology are not biologically impossible. A more advanced civilization with several thousand years of sustained research could plausibly have developed the technologies the framework attributes to the Elohim.
+**複製與再生研究。** 桃莉羊之複製(1996)證明完整哺乳動物能自單一體細胞再生。後續工作已將複製延伸至眾多物種,現有實質研究應用於物種復原(冷凍動物園之工作、去滅絕計畫)。基於 CRISPR 之基因編輯技術(自約 2012 年起發展)已大幅擴展可修改基因材料之精確度。
 
-The detailed treatment of the contemporary research trajectory in connection with the broader framework's reading lives in the Wheel of Heaven corpus's broader chapter material.
+文集將當代長壽研究讀為朝與框架對生命之樹之閱讀相符之方向發展。當代研究並未直接證實框架 —— 當前研究尚未產生實際不朽性,而細胞轉移加記憶轉移之技術具體仍超出當代科學能力。但研究軌跡展示了框架關於生物技術之具體主張並非生物學上不可能。一個具有數千年持續研究之更進步文明,可合理地已開發出框架歸於耶洛因之技術。
 
-### Sendy on the Tree of Life
+對當代研究軌跡與更廣框架閱讀相聯之詳細處理,見於《天輪》文集更廣之章節材料。
 
-**Jean Sendy** developed the principal scholarly antecedent of the framework's Tree of Life reading. Sendy's *Ces dieux qui firent le ciel et la terre* (1969) and related works treat the Genesis Tree of Life as referring to actual longevity-extending biotechnology rather than as theological symbol or mythological motif. Sendy's specific contributions include:
+### 桑迪論生命之樹
 
-- The philological-historical reading of the Hebrew *ʿēṣ ha-ḥayyîm* as preserving substantive operational content
-- The recognition that the patriarchal lifespans of Genesis 5 should be read as substantively accurate rather than as symbolic
-- The broader treatment of the Eden material as preserving accurate political-historical content rather than as religious mythology
-- The integration of the Tree of Life material with the broader alliance-mediated history Sendy reconstructed
+**讓·桑迪** 發展出框架生命之樹閱讀之主要學術先驅。桑迪之《那些締造天地的諸神》(1969)及相關著作將《創世記》之生命之樹視為指涉真實之延壽生物技術,而非神學象徵或神話母題。{{ cite(id="those-gods-who-made-heaven-and-earth", text="[18]", title="桑迪,《那些締造天地的諸神》(1969)") }} 桑迪之具體貢獻包括:
 
-The framework's Tree of Life reading is structurally aligned with Sendy's approach while developing it substantially through the specific Raëlian source-material content (the five operational phases, the Eternal cloning-and-memory-transfer technology, the contemporary research-trajectory parallels).
+- 對希伯來語 *ʿēṣ ha-ḥayyîm* 之語文學—史學閱讀,讀為保存實質之作業內容
+- 對《創世記》第 5 章族長壽命應讀為實質準確而非象徵之認知
+- 對伊甸材料之更廣處理,讀為保存準確之政治—歷史內容而非宗教神話
+- 將生命之樹材料與桑迪所重建之更廣聯盟所中介歷史相整合
 
-### Biglino on the Tree of Life
+框架之生命之樹閱讀於結構上與桑迪之進路一致,同時透過具體之雷爾派源典內容(五個作業階段、永恆者複製—記憶轉移技術、當代研究軌跡平行)實質地發展之。
 
-**Mauro Biglino**'s strict-translational engagement with the Tree of Life material is developed across his works. Biglino's specific contributions include:
+### 比格里諾論生命之樹
 
-- The Hebrew *ʿēṣ ha-ḥayyîm* read as referring to specific biotechnology rather than as theological symbol
-- The patriarchal lifespans read literally as the actual lifespans achieved by the named individuals
-- The various Hebrew Bible Tree-of-Life references (the wisdom-literature uses, the Ezekiel vision, the broader material) read as preserving operational content
-- The broader integration with Biglino's strict-translational reading of the Hebrew Bible as preserving substantive operational content
+**毛羅·比格里諾** 對生命之樹材料之嚴格直譯接觸橫跨其著作而發展。{{ cite(id="the-naked-bible", text="[19]", title="比格里諾與卡塔尼奧,《赤裸的聖經》(2022)") }} 比格里諾之具體貢獻包括:
 
-The framework's reading is broadly aligned with Biglino's reading at the methodological level, with substantial overlap on specific lexical-philological readings.
+- 將希伯來語 *ʿēṣ ha-ḥayyîm* 讀為指涉具體生物技術而非神學象徵
+- 將族長壽命按字面讀為所點名個體所達成之真實壽命
+- 將各種希伯來聖經之生命之樹提及(智慧文學用法、以西結異象、更廣材料)讀為保存作業內容
+- 與比格里諾將希伯來聖經讀為保存實質作業內容之嚴格直譯閱讀之更廣整合
 
-### Wallis on the Tree of Life
+框架之閱讀於方法論層級上與比格里諾之閱讀大致一致,於具體之詞彙—語文學閱讀上有實質重疊。
 
-**Paul Anthony Wallis**'s engagement with the Tree of Life material in his broader corpus develops substantial treatment of the underlying biotechnology and its operational history. Wallis's specific contributions include the structural reading of the Eden installation's specific infrastructure (including the Tree of Life as a key component), the careful treatment of the post-Eden patriarchal grants as historical-operational events, and the comparative engagement with parallel ancient biotechnology references.
+### 華利斯論生命之樹
 
-### The framework's relationship to the broader landscape
+**保羅·安東尼·華利斯** 對生命之樹材料於其更廣文集中之接觸,發展出對底層生物技術及其作業歷史之實質處理。{{ cite(id="the-eden-conspiracy", text="[20]", title="華利斯,《伊甸陰謀》(2024)") }} 華利斯之具體貢獻包括:對伊甸設施具體基礎設施(包括生命之樹作為一關鍵組件)之結構性閱讀、對洪水後族長授予作為歷史—作業事件之謹慎處理,及與平行古代生物技術提及之比較性接觸。
 
-The corpus's Tree of Life reading is positioned within this landscape as follows: aligned with Sendy's, Biglino's, and Wallis's readings as the principal scholarly antecedents; respectful of the Kabbalistic tradition's underlying intuition that the Tree of Life refers to substantive cosmic reality, while not endorsing the specific Sephirot emanationist apparatus; respectful of the Christian theological tradition's various engagements while not adopting the typological-symbolic readings; aligned with the contemporary longevity research in registering that the framework's specific biological claims are within the realm of biologically achievable technology; structurally distinct from mainstream historical-critical biblical scholarship at the level of underlying ontology; and developing the specific corpus-internal reading (the five operational phases, the Eternal technology, the contemporary research-trajectory parallels) as the framework's distinctive contribution to the broader reinterpretive landscape.
+### 框架與更廣景觀之關係
 
-## Comparative observations
+文集之生命之樹閱讀於此景觀中之定位如下:與桑迪、比格里諾與華利斯之閱讀一致,作為主要之學術先驅;尊重卡巴拉傳統對生命之樹指涉實質宇宙實在之底層直覺,同時不認可具體之質點流溢論機構;尊重基督教神學傳統之各種接觸,同時不採納預表—象徵閱讀;與當代長壽研究一致,登錄框架之具體生物學主張處於生物學可達成技術之領域內;於底層本體論層級上有別於主流歷史—批判聖經學界;並發展具體之文集內部閱讀(五個作業階段、永恆者技術、當代研究軌跡平行)作為框架對更廣再詮釋景觀之獨特貢獻。
 
-Sacred-tree imagery appears across an extraordinarily wide range of cultural-religious traditions worldwide. The corpus reads this cross-cultural pattern as evidence of broader operational realities preserved in fragmentary form across the various traditions. The principal cross-cultural cases warrant treatment.
+## 比較性觀察
 
-### Norse Yggdrasil
+聖樹意象橫跨全球極為廣泛之文化—宗教傳統出現。文集將此跨文化模式讀為以片斷形式保存於各傳統間之更廣作業實在之證據。{{ footnote(id="6") }} 主要之跨文化案例值得處理。
 
-The Norse tradition preserves the **Yggdrasil** ("Odin's horse" or "tree of terror") as the cosmic ash tree at the center of the cosmos. The principal features:
+### 北歐尤克特拉希爾
 
-- Yggdrasil connects the **nine worlds** of Norse cosmology — Asgard (the home of the Aesir), Vanaheim (the home of the Vanir), Alfheim (the home of the light elves), Midgard (the human world), Jotunheim (the world of giants), Svartalfheim (the world of dark elves/dwarfs), Niflheim (the world of mist), Muspelheim (the world of fire), and Helheim (the underworld)
-- The tree has **three roots** extending to three wells: Urðarbrunnr (the well of fate, where the Norns dwell), Mímisbrunnr (the well of wisdom, attended by Mímir), and Hvergelmir (the source of all rivers in Niflheim)
-- The tree is sustained by the **Norns** (Urðr, Verðandi, Skuld) who water it from Urðarbrunnr
-- Various creatures inhabit the tree: **Ratatoskr** (the squirrel running messages between top and bottom), the **eagle** at the top, **Níðhöggr** (the dragon at the roots), various **deer** browsing on the branches
-- The tree will be the **center of Ragnarök** — the cosmic final battle in which the world is destroyed and renewed
+北歐傳統保存了 **尤克特拉希爾**(「奧丁之馬」或「恐怖之樹」)作為宇宙中心之宇宙白蠟樹。主要特徵:
 
-The principal sources are the *Poetic Edda* (especially *Völuspá* and *Grímnismál*) and Snorri Sturluson's *Prose Edda* (especially *Gylfaginning*). The framework reads the Yggdrasil tradition as preserving fragmentary memory of the cosmic-political structure within which the Tree of Life operates, with the Norse cultural-religious framing being the tradition's distinctive elaboration of the underlying material.
+- 尤克特拉希爾連接北歐宇宙論之 **九個世界** —— 阿斯加德(阿薩神族之家)、華納海姆(華納神族之家)、亞爾夫海姆(光精靈之家)、米德加德(人類世界)、約頓海姆(巨人世界)、斯瓦塔爾夫海姆(暗精靈/侏儒世界)、尼夫爾海姆(霧之世界)、穆斯貝爾海姆(火之世界),及赫爾海姆(冥界)
+- 該樹有 **三條根** 延伸至三口井:烏爾德之泉(命運之井,諾恩三女神所居)、密米爾之泉(智慧之井,由密米爾看守),及赫瓦格密爾(尼夫爾海姆所有河流之源)
+- 該樹由 **諾恩三女神**(烏爾德、薇爾丹蒂、斯庫爾德)以烏爾德之泉之水澆灌而得維繫
+- 各種生物棲居於該樹:**拉塔托斯克**(於頂部與底部間奔走傳訊之松鼠)、頂部之 **鷹**、**尼德霍格**(根部之龍),及在枝間啃食之各種 **鹿**
+- 該樹將為 **諸神黃昏之中心** —— 世界於其中被毀滅並更新之宇宙終戰
 
-### Egyptian Tree of Life
+主要源典為《詩體埃達》(尤其是《女占卜者的預言》與《格里姆尼爾之歌》){{ cite(id="poetic-edda", text="[21]", title="《詩體埃達》(拉靈頓譯,2014)—— 尤克特拉希爾材料") }} 及斯諾里·斯圖魯松之《散文埃達》(尤其是《欺騙吉爾菲》)。{{ cite(id="prose-edda", text="[22]", title="斯圖魯松,《散文埃達》(拜奧克譯)—— 《欺騙吉爾菲》論尤克特拉希爾") }} 框架將尤克特拉希爾傳統讀為保存了對生命之樹於其中運作之宇宙—政治結構之片斷記憶,北歐之文化—宗教框架為該傳統對底層材料之獨特闡發。
 
-The Egyptian tradition preserves substantial sacred-tree material across its long pharaonic history. The principal features:
+### 埃及生命之樹
 
-**The sycamore (*nehet*)** is the principal Egyptian Tree of Life, associated with multiple goddesses including:
+埃及傳統於其漫長之法老史間保存了實質之聖樹材料。主要特徵:
 
-- **Hathor** as the Lady of the Sycamore, providing the deceased with food and water from the sycamore in funerary contexts
-- **Isis** as goddess of the sycamore, with various funerary-mythological associations
-- **Nut** as the sky-goddess associated with the sycamore in some traditions
+**西克莫無花果(*nehet*)** 為埃及主要之生命之樹,與多位女神相關,包括:
 
-**The *ished* tree** is the sacred persea tree of Heliopolis, on which the sun-god Re's name was inscribed at the time of each new pharaoh's accession, with Thoth and Seshat recording the pharaoh's name and reign. The *ished* tree is the principal Egyptian Tree of Life associated with kingship and longevity.
+- **哈索爾** 作為西克莫之女主,於喪葬脈絡中以西克莫之食物與水供給亡者
+- **伊西斯** 作為西克莫之女神,具各種喪葬—神話關聯
+- **努特** 作為某些傳統中與西克莫相關之天空女神
 
-**The Egyptian *djed* pillar** preserves related sacred-tree imagery, with the *djed* as a stylized tree-trunk associated with Osiris and the broader funerary-resurrection tradition.
+**ished 樹** 為赫利奧波利斯之聖佩爾西亞樹,於每位新法老登基之時,太陽神拉之名號被刻於其上,由托特與塞莎特記載法老之名號與在位。*ished* 樹為埃及主要之與王權與長壽相關之生命之樹。
 
-The framework reads the Egyptian sacred-tree material as preserving fragmentary memory of the African creator team's specific transmissions, with the various Egyptian sacred-tree associations (the sycamore-Hathor connection, the *ished* tree's pharaonic associations, the *djed* pillar's resurrection associations) reflecting the Egyptian tradition's distinctive cultural elaboration.
+**埃及之 *djed* 柱** 保存了相關之聖樹意象,*djed* 作為一程式化之樹幹,與奧西里斯及更廣之喪葬—復活傳統相關。
 
-### Mesopotamian sacred trees
+框架將埃及聖樹材料讀為保存了對非洲造物者隊伍具體傳遞之片斷記憶,各種埃及聖樹關聯(西克莫—哈索爾連結、*ished* 樹之法老關聯、*djed* 柱之復活關聯)反映埃及傳統之獨特文化闡發。
 
-The Mesopotamian tradition preserves substantial sacred-tree material across the Sumerian, Akkadian, and Assyrian periods. The principal cases:
+### 美索不達米亞聖樹
 
-**The Akkadian *kishkanu* tree** at Eridu is described in cuneiform texts as the cosmic tree at the center of the world, associated with the god Enki/Ea and providing access to underworld waters.
+美索不達米亞傳統橫跨蘇美、阿卡德與亞述時期保存了實質之聖樹材料。主要案例:
 
-**The Sumerian *huluppu* tree** of *Inanna and the Huluppu Tree* (c. early 2nd millennium BCE) is the sacred tree planted by Inanna, eventually inhabited by the *anzu* bird, the *kiskil-lila* (a female demon, often identified with later Lilith), and the serpent that knows no charm.
+**埃利都之阿卡德語 *kishkanu* 樹** 於楔形文字文本中被描述為世界中心之宇宙樹,與神祇恩基/埃阿相關,並提供進入冥界之水之通道。{{ cite(id="black-green-mesopotamia", text="[23]", title="布萊克與格林,《古代美索不達米亞之神祇、惡魔與象徵》(1992)") }}
 
-**The Neo-Assyrian sacred tree** is preserved in elaborate iconographic form across the Assyrian palace reliefs of the 9th–7th centuries BCE. The stylized tree is typically depicted with attending winged figures (sometimes anthropomorphic, sometimes eagle-headed), with the winged figures performing what appear to be ritual actions toward the tree. The interpretive history of the Assyrian sacred tree iconography has been substantially debated, with **Simo Parpola**'s "The Assyrian Tree of Life" (1993) proposing that the iconographic tradition preserves a structured cosmological-philosophical system with substantial parallels to the later Kabbalistic Sephirot structure.
+**《伊南娜與胡盧普樹》之蘇美 *huluppu* 樹**(約公元前二千紀早期)為伊南娜所植之聖樹,最終由 *anzu* 鳥、*kiskil-lila*(一女性惡魔,常被認定為後來之莉莉絲)及不受任何咒語所制之蛇所棲居。
 
-The framework reads the Mesopotamian sacred-tree material as preserving the most directly relevant cross-cultural parallels to the Hebrew tradition's Tree of Life material, given the geographical and chronological proximity.
+**新亞述聖樹** 以精緻之圖像形式保存於公元前 9 至 7 世紀之亞述宮殿浮雕間。該程式化之樹慣常被描繪為有侍立之有翼形象(有時擬人,有時鷹首),有翼形象對該樹執行看似儀式之動作。亞述聖樹圖像之詮釋史已受實質爭論,**西莫·帕爾波拉** 之〈亞述生命之樹〉(1993)提議該圖像傳統保存了一結構化之宇宙論—哲學體系,與後來之卡巴拉質點結構具實質平行。
 
-### Mesoamerican world tree
+框架將美索不達米亞聖樹材料讀為保存了與希伯來傳統生命之樹材料最直接相關之跨文化平行,鑑於其地理與年代之鄰近。
 
-The Mesoamerican tradition preserves substantial world-tree material across the Maya, Aztec, and broader Mesoamerican religious frameworks. The principal features:
+### 中美洲世界樹
 
-**The ceiba tree** is the principal sacred tree across Mesoamerican cultures, with the Maya specifically treating the *yaxche* (the giant ceiba) as the cosmic tree connecting the underworld, earth, and heaven.
+中美洲傳統橫跨馬雅、阿茲特克及更廣之中美洲宗教框架保存了實質之世界樹材料。主要特徵:
 
-**The Maya world tree** (*Wakah-Chan*) appears in elaborate iconographic form across Maya monumental art, with the tree depicted as connecting the cosmic levels and supporting various cosmic-political functions.
+**木棉樹** 為中美洲文化間之主要聖樹,馬雅具體將 *yaxche*(巨型木棉)視為連接冥界、地與天之宇宙樹。
 
-**The Aztec world tree** preserves parallel imagery within the distinctive Aztec cosmological framework, with the world tree associated with the various directional deities and the cosmic-cyclical framework.
+**馬雅世界樹**(*Wakah-Chan*)以精緻之圖像形式出現於馬雅紀念性藝術間,該樹被描繪為連接宇宙層級並支撐各種宇宙—政治功能。{{ cite(id="schele-freidel-forest-of-kings", text="[28]", title="謝勒與弗萊德爾,《諸王之林》(1990)—— Wakah-Chan 世界樹") }}{{ cite(id="tedlock-popol-vuh", text="[29]", title="泰德洛克(譯),《波波爾·烏》(1996)") }}
 
-The framework reads the Mesoamerican world-tree material as preserving fragmentary memory of the same underlying reality within the distinctive Mesoamerican cultural-religious framing.
+**阿茲特克世界樹** 於獨特之阿茲特克宇宙論框架內保存了平行意象,世界樹與各種方位神祇及宇宙—循環框架相關。
 
-### Hindu Ashvattha and Kalpavriksha
+框架將中美洲世界樹材料讀為於獨特之中美洲文化—宗教框架內保存了對同一底層實在之片斷記憶。
 
-The Hindu tradition preserves substantial sacred-tree material in two principal forms.
+### 印度教 Ashvattha 與 Kalpavriksha
 
-**The Ashvattha (sacred fig / Pippala)** is the cosmic tree of the *Bhagavad Gita* (15.1–3), described as the eternal *aśvattha* with roots in heaven and branches extending downward into the earth. The Vedic-Upanishadic tradition develops the *Ashvattha* extensively, with the *Katha Upanishad* (6.1) and other principal Upanishadic texts treating the cosmic tree with substantial philosophical-metaphysical elaboration.
+印度教傳統以兩種主要形態保存了實質之聖樹材料。
 
-**The Kalpavriksha** (कल्पवृक्ष, "wish-fulfilling tree") is the divine tree of paradise in Hindu and Buddhist tradition, providing all desires to those who approach it. The *Kalpavriksha* tradition appears across Vedic, Puranic, and broader Hindu literature, with substantial elaboration in connection with the cosmic-cyclical framework and the various paradisal traditions.
+**Ashvattha(神聖無花果 / Pippala)** 為《薄伽梵歌》(15.1–3)之宇宙樹,被描述為永恆之 *aśvattha*,根在天而枝向下延展入地。{{ cite(id="bhagavad-gita", text="[24]", title="《薄伽梵歌》(伊斯瓦蘭譯)—— 宇宙 Ashvattha,第 15 章") }} 吠陀—奧義書傳統廣泛發展 *Ashvattha*,《迦塔奧義書》(6.1)及其他主要奧義書文本以實質之哲學—形上闡發處理該宇宙樹。{{ cite(id="doniger-hindu-myths", text="[25]", title="多尼格,《印度教神話:一部資料集》(1975)") }}
 
-The framework reads the Hindu sacred-tree material as preserving fragmentary memory of the same underlying biotechnological reality within the distinctive Hindu cultural-religious framing, with the *Ashvattha*'s specific philosophical-metaphysical elaboration and the *Kalpavriksha*'s paradisal associations reflecting the tradition's distinctive content.
+**Kalpavriksha**(कल्पवृक्ष,「如願樹」)為印度教與佛教傳統中之天堂神樹,向接近它者提供一切願望。*Kalpavriksha* 傳統橫跨吠陀、往世書及更廣之印度教文學出現,於與宇宙—循環框架及各種天堂傳統相聯處有實質闡發。
 
-### Chinese Fusang and Jianmu
+框架將印度教聖樹材料讀為於獨特之印度教文化—宗教框架內保存了對同一底層生物技術實在之片斷記憶,*Ashvattha* 具體之哲學—形上闡發及 *Kalpavriksha* 之天堂關聯反映該傳統之獨特內容。
 
-The Chinese tradition preserves substantial sacred-tree material in multiple traditions.
+### 中國扶桑與建木
 
-**The Fusang** (扶桑) is the eastern sun-tree in Chinese cosmology, described in the *Shan Hai Jing* (Classic of Mountains and Seas) and other classical sources. The tree was the dwelling place of the ten suns of antiquity, with each sun rising from the Fusang in turn.
+中國傳統於多個傳統中保存了實質之聖樹材料。
 
-**The Jianmu** (建木) is the central world-tree of Chinese cosmology, described as the cosmic axis connecting heaven and earth at the center of the world. The Jianmu provides the principal Chinese cosmological framework within which the various other sacred-tree traditions operate.
+**扶桑**(扶桑)為中國宇宙論中之東方日樹,於《山海經》及其他古典源典中受描述。{{ cite(id="shan-hai-jing", text="[26]", title="《山海經》(畢瑞爾譯)—— 扶桑日樹") }}{{ cite(id="birrell-chinese-mythology", text="[27]", title="畢瑞爾,《中國神話導論》(1993)") }} 該樹為上古十日之棲居處,每個太陽輪流自扶桑升起。
 
-**The Buddhist Bodhi tree** (the specific Pippala under which the Buddha achieved enlightenment) entered Chinese Buddhist tradition with substantial elaboration, with various sacred-tree associations developed across Chinese Buddhist practice.
+**建木**(建木)為中國宇宙論之中央世界樹,被描述為連接天地、位於世界中心之宇宙軸。建木提供各種其他聖樹傳統於其中運作之主要中國宇宙論框架。
 
-The framework reads the Chinese sacred-tree material as preserving fragmentary memory of the same underlying reality within the distinctive Chinese cultural-religious framing.
+**佛教菩提樹**(佛陀於其下證悟之具體 Pippala)以實質之闡發進入中國佛教傳統,各種聖樹關聯橫跨中國佛教實踐而發展。
 
-### The Buddhist Bodhi tree
+框架將中國聖樹材料讀為於獨特之中國文化—宗教框架內保存了對同一底層實在之片斷記憶。
 
-The Buddhist tradition preserves the **Bodhi tree** (the *Pippala* or sacred fig under which Siddhartha Gautama achieved enlightenment c. 528 BCE) as the principal sacred tree of Buddhism. The original Bodhi tree at Bodh Gaya, Bihar, India is the most sacred site in Buddhism, with descendants of the original tree (notably the Anuradhapura Bodhi tree in Sri Lanka, planted from a cutting in the 3rd century BCE) preserved across Buddhist centers worldwide.
+### 佛教菩提樹
 
-The Buddhist Bodhi tree is structurally distinct from the broader sacred-tree traditions in being a specific historical tree with specific religious-historical associations rather than a cosmological-mythological figure. The Bodhi tree's significance is the specific Buddha-enlightenment event that occurred beneath it; the tree itself does not embody cosmic-mythological functions in the way Yggdrasil or the Mesoamerican world tree does.
+佛教傳統保存了 **菩提樹**(悉達多·喬達摩於約公元前 528 年於其下證悟之 *Pippala* 或神聖無花果)作為佛教之主要聖樹。位於印度比哈爾邦菩提伽耶之原始菩提樹為佛教中最神聖之地,原始樹之後裔(尤其是斯里蘭卡之阿努拉德普勒菩提樹,於公元前 3 世紀自插枝所植)保存於全球各佛教中心。
 
-The framework registers the Buddhist Bodhi tree as parallel to but distinct from the broader sacred-tree material — preserving the specific Buddhist-tradition development rather than the broader cosmological-mythological pattern.
+佛教菩提樹於結構上有別於更廣之聖樹傳統,因其為具具體宗教—歷史關聯之具體歷史性樹木,而非宇宙論—神話形象。菩提樹之意義為於其下發生之具體佛陀證悟事件;該樹本身並不以尤克特拉希爾或中美洲世界樹之方式體現宇宙—神話功能。
 
-### Polynesian sacred trees
+框架將佛教菩提樹登錄為與更廣聖樹材料平行但有別 —— 保存具體之佛教傳統發展,而非更廣之宇宙論—神話模式。
 
-Various Polynesian traditions preserve sacred-tree material with distinctive cultural elaborations. The principal cases include:
+### 波利尼西亞聖樹
 
-**The Hawaiian *ulu* (breadfruit)** as the sacred tree associated with the god Ku, with substantial mythological-cultural elaboration of the breadfruit's role in Hawaiian sacred history.
+各種波利尼西亞傳統保存了具獨特文化闡發之聖樹材料。主要案例包括:
 
-**The Maori *Tāne mahuta*** as the god of forests and the principal sacred tree of Maori tradition, with the cosmic separation of Rangi (sky father) and Papa (earth mother) creating the world that the trees of Tāne fill.
+**夏威夷之 *ulu*(麵包果)** 作為與神祇庫相關之聖樹,對麵包果於夏威夷神聖歷史中角色有實質之神話—文化闡發。
 
-**Various Pacific Island sacred-tree traditions** preserve regional variations on the broader sacred-tree pattern.
+**毛利之 *Tāne mahuta*** 作為森林之神及毛利傳統之主要聖樹,蘭吉(天父)與帕帕(地母)之宇宙分離創造了塔內之諸樹所充滿之世界。
 
-The framework reads the Polynesian sacred-tree material as preserving fragmentary memory of the same underlying reality within the distinctive Polynesian cultural-religious framing.
+**各種太平洋島嶼聖樹傳統** 保存了對更廣聖樹模式之區域性變體。
 
-### The convergence
+框架將波利尼西亞聖樹材料讀為於獨特之波利尼西亞文化—宗教框架內保存了對同一底層實在之片斷記憶。
 
-The corpus's working position on the comparative-sacred-tree question is that the global recurrence of sacred-tree imagery across cultural-religious traditions is meaningful as evidence of a genuine underlying reality. The mainstream scholarly explanation (independent religious-conceptual development across cultures combined with diffusion patterns) is read by the corpus as substantially insufficient to account for the breadth and the specific structural parallels (the cosmic-axis function, the longevity-extending associations, the divine-attendant figures, the connection between trees and immortality) that appear consistently across geographically and chronologically separated traditions.
+### 匯合
 
-The framework's specific reading is that the global sacred-tree pattern preserves common memory of the actual Tree of Life biotechnology, with each cultural-religious tradition preserving the memory in its own terms and with its own specific details reflecting its own perspective and its own subsequent transmission history. The Hebrew tradition preserves the memory most directly through the specific Eden-lineage Alliance partnership; the Mesopotamian and Egyptian traditions preserve substantial parallels through their geographical proximity; the Hindu, Chinese, Mesoamerican, Norse, and other traditions preserve the memory through their respective cultural channels.
+文集對比較性聖樹問題之工作立場為:聖樹意象橫跨文化—宗教傳統之全球性反覆出現,作為一真實底層實在之證據而具意義。主流學術解釋(跨文化之獨立宗教—概念發展結合擴散模式)為文集讀為實質不足以解釋其廣度及具體結構平行(宇宙軸功能、延壽關聯、神性侍從形象、樹木與不朽性間之連結),該等平行於地理與年代上相隔之傳統間一致出現。
 
-The corpus does not require rejecting all of the mainstream scholarly framework. Cultural diffusion certainly occurred across the historical period, and the sacred-tree traditions across cultures show both common structural features (preserving the original biotechnology) and culturally specific elaborations (reflecting the diffusion and local development). What the corpus's framework adds is the underlying historical biotechnology that gave rise to the structural commonalities — a reality that the mainstream framework, lacking the corpus's broader cosmological framework, has had no way to identify and has therefore had to attribute to combinations of independent religious development and cultural diffusion.
+框架之具體閱讀為:全球性聖樹模式保存了對真實生命之樹生物技術之共同記憶,各文化—宗教傳統以其自身術語保存該記憶,其自身之具體細節反映其自身視角及其自身之後續傳遞史。希伯來傳統透過具體之伊甸譜系聯盟夥伴關係最直接保存該記憶;美索不達米亞與埃及傳統透過其地理鄰近保存實質平行;印度教、中國、中美洲、北歐及其他傳統透過其各自之文化管道保存該記憶。
 
-## See also
-
-- [Tree of Knowledge](../tree-of-knowledge/)
-- [Eden](../eden/)
-- [Adam and Eve](../adam-and-eve/)
-- [Genesis](../genesis/)
-- [Antediluvian](../antediluvian/)
-- [Council of the Eternals](../council-of-eternals/)
-- [Yahweh](../yahweh/)
-- [Elohim](../elohim/)
-- [The Alliance](../the-alliance/)
-- [Lucifer](../lucifer/)
-- [Serpent](../serpent/)
-- [Great Flood](../great-flood/)
-- [Noah](../noah/)
-- [Methuselah](../methuselah/)
-- [Enoch](../enoch/)
-- [Apocalypse](../apocalypse/)
-- [Embassy](../embassy/)
-- [Hebrew Bible](../hebrew-bible/)
-- [Age of Leo](../timeline/age-of-leo/)
-- [Age of Cancer](../timeline/age-of-cancer/)
-- [Jean Sendy](../jean-sendy/)
-- [Mauro Biglino](../mauro-biglino/)
-- [Paul Anthony Wallis](../paul-anthony-wallis/)
-
-## References
-
-Vorilhon, Claude (Raël). *The Book Which Tells the Truth* (1974), chapter 2; collected in *Message from the Designers*.
-
-Vorilhon, Claude (Raël). *Extra-Terrestrials Took Me to Their Planet* (1975); collected in *Message from the Designers*.
-
-Sendy, Jean. *Ces dieux qui firent le ciel et la terre*. Robert Laffont, 1969. English: *Those Gods Who Made Heaven and Earth*. Berkley, 1972.
-
-Biglino, Mauro, and Giorgio Cattaneo. *The Naked Bible: The Truth About the Most Famous Book in History*. Uno, 2022.
-
-Wallis, Paul Anthony. *The Eden Conspiracy*. 6th Books, 2024.
-
-*Biblia Hebraica Stuttgartensia*. Deutsche Bibelgesellschaft, 4th rev. ed., 1997.
-
-Sarna, Nahum. *Genesis: The JPS Torah Commentary*. Jewish Publication Society, 1989.
-
-Westermann, Claus. *Genesis 1–11: A Continental Commentary*. Fortress, 1994.
-
-Stordalen, Terje. *Echoes of Eden: Genesis 2–3 and Symbolism of the Eden Garden in Biblical Hebrew Literature*. Peeters, 2000.
-
-Wallace, Howard N. *The Eden Narrative*. Harvard Semitic Monographs 32. Scholars Press, 1985.
-
-Giovino, Mariana. *The Assyrian Sacred Tree: A History of Interpretations*. Orbis Biblicus et Orientalis 230. Vandenhoeck & Ruprecht, 2007.
-
-Parpola, Simo. "The Assyrian Tree of Life: Tracing the Origins of Jewish Monotheism and Greek Philosophy." *Journal of Near Eastern Studies* 52, no. 3 (1993): 161–208.
-
-Bonaventure. *The Tree of Life (Lignum Vitae)*. In *The Works of Bonaventure*, trans. José de Vinck. St. Anthony Guild Press, 1960.
-
-*Sefer Yetzirah*. Trans. Aryeh Kaplan. Weiser, 1997.
-
-*Zohar*. Pritzker Edition, trans. Daniel Matt et al. Stanford University Press, 2003–2017.
-
-Scholem, Gershom. *Major Trends in Jewish Mysticism*. Schocken, 1941.
-
-Idel, Moshe. *Kabbalah: New Perspectives*. Yale University Press, 1988.
-
-Matt, Daniel. *The Essential Kabbalah: The Heart of Jewish Mysticism*. HarperOne, 1996.
-
-Sinclair, David A., and Matthew D. LaPlante. *Lifespan: Why We Age — and Why We Don't Have To*. Atria Books, 2019.
-
-Yamanaka, Shinya, and Helen M. Blau. "Nuclear reprogramming to a pluripotent state by three approaches." *Nature* 465 (2010): 704–712.
-
-Takahashi, Kazutoshi, and Shinya Yamanaka. "Induction of Pluripotent Stem Cells from Mouse Embryonic and Adult Fibroblast Cultures by Defined Factors." *Cell* 126, no. 4 (2006): 663–676.
-
-López-Otín, Carlos, et al. "The Hallmarks of Aging." *Cell* 153, no. 6 (2013): 1194–1217.
-
-de Grey, Aubrey, and Michael Rae. *Ending Aging: The Rejuvenation Breakthroughs That Could Reverse Human Aging in Our Lifetime*. St. Martin's Press, 2007.
-
-Lambert, W. G., and A. R. Millard. *Atra-ḫasīs: The Babylonian Story of the Flood*. Oxford University Press, 1969.
-
-Black, Jeremy, and Anthony Green. *Gods, Demons and Symbols of Ancient Mesopotamia: An Illustrated Dictionary*. British Museum Press, 1992.
-
-*The Poetic Edda*. Trans. Carolyne Larrington. Oxford University Press, rev. ed., 2014.
-
-Sturluson, Snorri. *The Prose Edda*. Trans. Jesse L. Byock. Penguin Classics, 2005.
-
-Lindow, John. *Norse Mythology: A Guide to the Gods, Heroes, Rituals, and Beliefs*. Oxford University Press, 2001.
-
-Doniger, Wendy. *Hindu Myths: A Sourcebook*. Penguin Classics, 1975.
-
-*The Bhagavad Gita*. Trans. Eknath Easwaran. Nilgiri Press, 2007.
-
-Birrell, Anne. *Chinese Mythology: An Introduction*. Johns Hopkins University Press, 1993.
-
-*Shan Hai Jing (Classic of Mountains and Seas)*. Trans. Anne Birrell. Penguin Classics, 1999.
-
-Tedlock, Dennis, trans. *Popol Vuh: The Mayan Book of the Dawn of Life*. Touchstone, 1996.
-
-Schele, Linda, and David Freidel. *A Forest of Kings: The Untold Story of the Ancient Maya*. William Morrow, 1990.
-
-Brown, Francis, S. R. Driver, and Charles A. Briggs. *A Hebrew and English Lexicon of the Old Testament* (BDB). Oxford, 1907.
-
-*The Hebrew and Aramaic Lexicon of the Old Testament* (HALOT), Koehler-Baumgartner. Brill, 2001.
-
-"Tree of life." *Wikipedia*. <https://en.wikipedia.org/wiki/Tree_of_life>
-
-"Tree of life (biblical)." *Wikipedia*. <https://en.wikipedia.org/wiki/Tree_of_life_(biblical)>
-
-"Yggdrasil." *Encyclopaedia Britannica*. <https://www.britannica.com/topic/Yggdrasill>
-
-"Sephirot." *Encyclopaedia Britannica*. <https://www.britannica.com/topic/sefirot>
-
-"Bodhi tree." *Encyclopaedia Britannica*. <https://www.britannica.com/topic/Bo-tree>
+文集並不要求拒絕全部之主流學術框架。文化擴散確曾橫跨歷史時期發生,而跨文化之聖樹傳統既顯現共同之結構特徵(保存原始生物技術)又顯現具文化特異性之闡發(反映擴散與在地發展)。文集框架所添加者為產生該等結構共性之底層歷史性生物技術 —— 一項主流框架因缺乏文集更廣之宇宙論框架而無從辨識、因而不得不歸於獨立宗教發展與文化擴散之組合的實在。
